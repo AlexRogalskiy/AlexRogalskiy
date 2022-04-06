@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Office WiFi may not cope with hybrid work](https://www.computerweekly.com/news/252515501/Office-WiFi-may-not-cope-with-hybrid-work)
-- [The time is now: Edge datacentres come of age](https://www.computerweekly.com/feature/The-time-is-now-Edge-datacentres-come-of-age)
-- [Two teenagers charged with Lapsus$ cyber attacks](https://www.computerweekly.com/news/252515441/Two-teenagers-charged-with-Lapsus-cyber-attacks)
-- [Four moves to ‘checkmate’ critical assets thanks to lax cloud security](https://www.computerweekly.com/news/252515431/Four-moves-to-checkmate-critical-assets-thanks-to-lax-cloud-security)
-- [Apple drops emergency patches for two zero-days](https://www.computerweekly.com/news/252515434/Apple-drops-emergency-patches-for-two-zero-days)
-- [Sungard UK in administration: How rising energy costs are impacting the datacentre market](https://www.computerweekly.com/news/252515435/Sungard-UK-in-administration-How-rising-energy-costs-are-impacting-the-datacentre-market)
-- [TechUK calls on government to seize post-Brexit data opportunities](https://www.computerweekly.com/news/252515388/TechUK-calls-on-government-to-seize-post-Brexit-data-opportunities)
-- [EU Act ‘must empower those affected by AI systems to take action’](https://www.computerweekly.com/news/252515378/EU-Act-must-empower-those-affected-by-AI-systems-to-take-action)
-- [Spain’s La Liga looks to enleague data analytics with Databricks](https://www.computerweekly.com/news/252515372/Spains-La-Liga-looks-to-enleague-data-analytics-with-Databricks)
-- [Global upheaval shows cyber security isn’t good enough, says GCHQ director](https://www.computerweekly.com/news/252515375/Global-upheaval-shows-cyber-security-isnt-good-enough-says-GCHQ-director)
+- [Structured decentralisation is the key to unlocking Nordic-level innovation](https://www.computerweekly.com/news/252515546/Structured-decentralisation-is-the-key-to-unlocking-Nordic-level-innovation)
+- [How data sharing and collaboration can solve great challenges](https://www.computerweekly.com/opinion/How-data-sharing-and-collaboration-can-solve-great-challenges)
+- [Hackathon team uses origami in James Webb Space Telescope Pi project](https://www.computerweekly.com/news/252515553/Hackathon-team-uses-origami-in-James-Webb-Space-Telescope-Pi-project)
+- [Secrecy over police EncroChat hacking is unconstitutional, defence lawyers tell top French court](https://www.computerweekly.com/news/252515556/Secrecy-over-police-EncroChat-hacking-is-unconstitutional-defence-lawyers-tell-top-French-court)
+- [Discount retailer The Works hit by cyber attack](https://www.computerweekly.com/news/252515555/Discount-retailer-The-Works-hit-by-cyber-attack)
+- [London Stock Exchange datacentre migration project secures low-latency network support from EXA](https://www.computerweekly.com/news/252515549/London-Stock-Exchange-datacentre-migration-project-secures-low-latency-network-support-from-EXA)
+- [Triple-threat Borat malware no joke for victims](https://www.computerweekly.com/news/252515545/Triple-threat-Borat-malware-no-joke-for-victims)
+- [Police use of AI needs overhaul to prevent abuse](https://www.computerweekly.com/ezine/Computer-Weekly/Police-use-of-AI-needs-overhaul-to-prevent-abuse)
+- [HPE offers up progress report on how its space-based supercomputer is performing](https://www.computerweekly.com/news/252515535/HPE-offers-up-progress-report-on-how-its-space-bound-supercomputer-is-performing)
+- [UCL and AWS team up for health tech-focused startup accelerator](https://www.computerweekly.com/news/252515533/UCL-and-AWS-team-up-for-health-tech-focused-startup-accelerator)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

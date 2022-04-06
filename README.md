@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war latest: Biden calls for Putin war crimes trial; Borodyanka worse than Bucha, says Ukrainian prosecutor](https://www.theguardian.com/world/live/2022/apr/04/russia-ukraine-war-latest-zelenskiy-calls-russian-forces-butchers-after-civilian-mass-graves-found-around-kyiv-live)
-- [Russia-Ukraine war: what we know on day 41 of the Russian invasion](https://www.theguardian.com/world/2022/apr/05/russia-ukraine-war-what-we-know-on-day-41-of-the-russian-invasion)
-- [Babies in bunkers: the surrogate mothers and infants trapped in Ukraine – podcast](https://www.theguardian.com/news/audio/2022/apr/05/babies-in-bunkers-surrogate-mothers-infants-trapped-ukraine-podcast)
-- [Explainer: could Vladimir Putin be prosecuted for war crimes?](https://www.theguardian.com/world/2022/apr/04/putin-war-crimes-accusation-ukraine-icc)
-- [Thailand dreams of high-end cannabis tourism after marijuana is legalised](https://www.theguardian.com/world/2022/apr/05/thailand-dreams-of-high-end-cannabis-tourism-after-marijuana-is-legalised)
-- [Ever Forward ship still stuck in Chesapeake Bay after three weeks](https://www.theguardian.com/us-news/2022/apr/04/ever-forward-stuck-ship-chesapeake-bay)
-- [Two more Republicans back Ketanji Brown Jackson for supreme court](https://www.theguardian.com/us-news/2022/apr/04/ketanji-brown-jackson-supreme-court-senate-vote)
-- [IS terrorists who kidnapped James Foley ignored efforts to negotiate, court hears](https://www.theguardian.com/world/2022/apr/04/islamic-state-terrorists-trial-kidnap-murder-james-foley)
-- [‘This is inhumane’: the cost of zero Covid in Shanghai](https://www.theguardian.com/world/2022/apr/05/this-is-inhumane-the-cost-of-zero-covid-in-shanghai)
-- [UK politicians  request visa scheme for Ukrainian students and academics](https://www.theguardian.com/world/2022/apr/05/uk-politicians-request-visa-scheme-for-ukrainian-students-and-academics)
+- [Russia-Ukraine war latest: Zelenskiy accuses Russia of using UN to ‘justify the evil it does’ – live](https://www.theguardian.com/world/live/2022/apr/05/russia-ukraine-war-latest-news-live-updates-zelenskiy-address-un-united-nations-borodyanka-atrocities-bucha)
+- [Dr Ashley Bloomfield, who led New Zealand’s pandemic response, resigns](https://www.theguardian.com/world/2022/apr/06/dr-ashley-bloomfield-who-led-new-zealands-pandemic-response-resigns)
+- [How boycotts against Russia work – and how they don’t](https://www.theguardian.com/news/audio/2022/apr/06/how-boycotts-against-russia-work-and-how-they-dont-podcast)
+- [Australian team would ‘certainly be interested’ in Ash Barty return to cricket](https://www.theguardian.com/sport/2022/apr/06/australian-team-would-certainly-be-interested-in-ash-barty-return-to-cricket)
+- [Twitter working on edit button but says idea did not come from Elon Musk](https://www.theguardian.com/technology/2022/apr/06/twitter-working-on-edit-button-but-says-idea-did-not-come-from-elon-musk)
+- [Amazon to ban ‘union’ and other words from staff chat app – report](https://www.theguardian.com/technology/2022/apr/05/amazon-banned-words-list-union-internal-app)
+- [In Thailand, the war in Ukraine divides the generations](https://www.theguardian.com/world/2022/apr/06/in-thailand-the-war-in-ukraine-divides-the-generations)
+- [Covid deaths in England may rise as cases in over-55s increase](https://www.theguardian.com/world/2022/apr/06/covid-deaths-in-england-may-rise-as-cases-in-over-55s-increase)
+- [Fungi seeks similar: scientist investigates mushroom ‘chat’](https://www.theguardian.com/science/2022/apr/06/fungi-electrical-impulses-human-language-study)
+- [Raphael review – the Renaissance master who made saints and virgins glow](https://www.theguardian.com/artanddesign/2022/apr/06/raphael-review-national-gallery-london)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

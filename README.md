@@ -369,6 +369,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [How SMBs Can Get More Sophisticated in Their Search for the Right Cloud Provider](https://www.informationweek.com/cloud/how-smbs-can-get-more-sophisticated-in-their-search-for-the-right-cloud-provider)
+- [Generations in the Workplace: Stereotypes and Facts](https://www.informationweek.com/it-life/generations-in-the-workplace-stereotypes-and-facts)
+- [A Personalized Approach to Building a Tech Talent Pipeline](https://www.informationweek.com/it-life/a-personalized-approach-to-building-a-tech-talent-pipeline)
 - [General Catalyst’s Clark Talks Opportunistic Investing in Tech](https://www.informationweek.com/big-data/general-catalyst-s-clark-talks-opportunistic-investing-in-tech)
 - [Enterprise Guide to Data Privacy](https://www.informationweek.com/big-data/enterprise-guide-to-data-privacy)
 - [US Companies Must Deal with EU AI law, Like It or Not](https://www.informationweek.com/big-data/us-companies-must-deal-with-eu-ai-law-like-it-or-not)
@@ -376,9 +379,6 @@
 - [Upcoming Data Storage Technologies to Keep an Eye On](https://www.informationweek.com/big-data/upcoming-data-storage-technologies-to-keep-an-eye-on)
 - [Introducing InformationWeek’s ‘DOS Won’t Hunt’ Podcast](https://www.informationweek.com/strategic-cio/introducing-informationweek-s-dos-won-t-hunt-podcast)
 - [What Fortnite and World of Warcraft Can Teach Us About the Metaverse](https://www.informationweek.com/software/what-fortnite-and-world-of-warcraft-can-teach-us-about-the-metaverse)
-- [How AI is Making Smart Buildings Greener, More Sustainable](https://www.informationweek.com/it-strategy/how-ai-is-making-smart-buildings-greener-more-sustainable)
-- [Why to Consider Hiring IT Job Applicants Without College Degrees](https://www.informationweek.com/strategic-cio/why-to-consider-hiring-it-job-applicants-without-college-degrees)
-- [Addressing Diversity and Inclusion Separately in the Workplace](https://www.informationweek.com/strategic-cio/addressing-diversity-and-inclusion-separately-in-the-workplace)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

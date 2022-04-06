@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Microsoft touts new hybrid work features in updates to Windows 11](https://www.computerworld.com/article/3655747/microsoft-touts-new-hybrid-work-features-in-updates-to-windows-11.html#tk.rss_all)
+- [Apple quietly stops meaningful auto-updates in iOS](https://www.computerworld.com/article/3655958/apple-quietly-stops-meaningful-auto-updates-in-ios.html#tk.rss_all)
+- [Why your company should deploy Apple Messages for Business](https://www.computerworld.com/article/3655741/why-your-company-should-deploy-apple-messages-for-business.html#tk.rss_all)
+- [Why are all those people resigning — and where are they going?](https://www.computerworld.com/article/3655992/why-are-all-those-people-resigning-and-where-are-they-going.html#tk.rss_all)
+- [Android 12 Upgrade Report Card: What a weird year](https://www.computerworld.com/article/3655737/android-12-upgrade-report-card.html#tk.rss_all)
 - [Windows 11 adoption appears to be stagnating](https://www.computerworld.com/article/3655739/windows-11-adoption-appears-to-be-stagnating.html#tk.rss_all)
 - [When it comes to Windows, out with the old, in with the…what?](https://www.computerworld.com/article/3655738/when-it-comes-to-windows-out-with-the-old-in-with-thewhat.html#tk.rss_all)
 - [The Russian cyberattack threat might force a new IT stance](https://www.computerworld.com/article/3655972/the-russian-cyberattack-threat-might-force-a-new-it-stance.html#tk.rss_all)
 - [Will your company embrace AR for training?](https://www.computerworld.com/article/3655736/will-your-company-embrace-ar-for-training.html#tk.rss_all)
 - [Q&amp;A: Qwick CEO details his company&#39;s 4-day workweek trial](https://www.computerworld.com/article/3655640/qa-qwick-ceo-details-his-companys-4-day-workweek-trial.html#tk.rss_all)
-- [Lenovo commits to hiring 12,000 new R&amp;D staff by 2025](https://www.computerworld.com/article/3655970/lenovo-commits-to-hiring-12-000-new-randd-staff-by-2025.html#tk.rss_all)
-- [ClickUp adds Whiteboards to its collaboration platform](https://www.computerworld.com/article/3655692/clickup-adds-whiteboards-to-its-collaboration-platform.html#tk.rss_all)
-- [Blockchain firm Equideum and Nokia building exchange to let patients sell healthcare data](https://www.computerworld.com/article/3655950/blockchain-firm-equideum-and-nokia-building-exchange-to-let-patients-sell-healthcare-data.html#tk.rss_all)
-- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
-- [Are augmented and virtual reality finally gaining traction?](https://www.computerworld.com/article/3655993/are-augmented-and-virtual-reality-finally-gaining-traction.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

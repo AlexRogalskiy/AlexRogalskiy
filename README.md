@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [A Tale of Yak Shaving: Accidentally Making a Language, for an Engine, for a Game](https://verdagon.dev/blog/yak-shave-language-engine-game)
-- [Backyard approaching lighting at Adelaide Airport](https://wongm.com/2022/04/backyard-approaching-lighting-adelaide-airport/)
-- [Rust on Espressif chips Q1 2022](https://mabez.dev/blog/posts/esp-rust-04-04-2022/)
-- [Apple Business Essentials now available for small businesses](https://www.apple.com/newsroom/2022/03/apple-business-essentials-now-available-for-small-businesses/)
-- [YT-Spammer-Purge: Scan for and delete spam comments on YouTube](https://github.com/ThioJoe/YT-Spammer-Purge)
-- [DevCycle &lpar;YC W14&rpar; is hiring feature flag automation engineers](https://devcycle.com/company/careers)
-- [Tell HN: My kid&#39;s school installed spyware and I can&#39;t remove it](https://news.ycombinator.com/item?id=30911623)
-- [USB-C hubs and my slow descent into madness &lpar;2021&rpar;](https://overengineer.dev/blog/2021/04/25/usb-c-hub-madness.html)
-- [Amazon worker chat app to ban words such as “union”, “pay raise”, “slave labor”](https://theintercept.com/2022/04/04/amazon-union-living-wage-restrooms-chat-app/)
-- [Why DC May Replace AC &lpar;2019&rpar;](https://www.electricalindustry.ca/latest-news/1018-9-reasons-why-dc-may-replace-ac)
+- [Why rich people are panic-buying panic rooms](https://thehustle.co/03302022-panic-rooms/)
+- [Navi- an interactive cheatsheet tool for the command line](https://github.com/denisidoro/navi)
+- [Padlet &lpar;YC W13&rpar; is hiring its first recruiter to build a beautiful workplace](http://padlet.jobs/recruiter-sf)
+- [Ask HN: Beating depression with or without anti-depressants?](https://news.ycombinator.com/item?id=30923701)
+- [300 Drones Formed a QR Code That Rick Rolled Dallas on April Fools&#39; Day](https://www.dallasobserver.com/music/dallas-got-rick-rolled-with-a-giant-qr-code-on-april-fools-day-13716928)
+- [End the Streaming Struggle with Plex](https://www.plex.tv/en-gb/blog/end-the-streaming-struggle-with-plex/)
+- [Introducing ReadySet](https://blog.readyset.io/posts/introducing-readyset)
+- [The next Google](https://dkb.io/post/the-next-google)
+- [Show HN: Warp, a Rust-based terminal](https://www.warp.dev?ref=showhn)
+- [Show HN: Flight Penguin – Like Hipmunk, but a browser extension](https://flightpenguin.com)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

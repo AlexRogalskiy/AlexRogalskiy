@@ -384,16 +384,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Kotlin 1.6.20 arrives with better Java class interop](https://www.infoworld.com/article/3655959/kotlin-1620-arrives-with-better-java-class-interop.html#tk.rss_all)
+- [Ruby upgrade enhances WebAssembly support](https://www.infoworld.com/article/3655746/ruby-upgrade-enhances-webassembly-support.html#tk.rss_all)
+- [Microsoft launches Azure VMs powered by new Ampere Altra Arm-based chips](https://www.networkworld.com/article/3655956/microsoft-launches-azure-vms-powered-by-new-ampere-altra-arm-based-chips.html#tk.rss_all)
+- [Postgres everywhere](https://www.infoworld.com/article/3655953/postgres-everywhere.html#tk.rss_all)
+- [Where edge computing breaks down: Operations](https://www.infoworld.com/article/3655641/where-edge-computing-breaks-down-operations.html#tk.rss_all)
+- [13 hot language projects riding WebAssembly](https://www.infoworld.com/article/3619608/13-hot-language-projects-riding-webassembly.html#tk.rss_all)
 - [Unfettered developer freedom may be over](https://www.infoworld.com/article/3655639/unfettered-developer-freedom-may-be-over.html#tk.rss_all)
 - [Career roadmap: Machine learning engineer](https://www.infoworld.com/article/3654965/career-roadmap-machine-learning-engineer.html#tk.rss_all)
 - [5 ways to improve on spreadsheets for business workflows](https://www.infoworld.com/article/3654832/5-ways-to-improve-on-spreadsheets-for-business-workflows.html#tk.rss_all)
 - [GitHub Copilot available for Microsoft Visual Studio 2022](https://www.infoworld.com/article/3655991/github-copilot-available-for-microsoft-visual-studio-2022.html#tk.rss_all)
-- [Visual Studio Code 1.66 shines on JavaScript heap profiles, CSS formatting](https://www.infoworld.com/article/3655988/visual-studio-code-166-shines-on-javascript-heap-profiles-css-formatting.html#tk.rss_all)
-- [Is distributed data realistic?](https://www.infoworld.com/article/3655928/is-distributed-data-realistic.html#tk.rss_all)
-- [What is Git? Version control for collaborative programming](https://www.infoworld.com/article/3654955/what-is-git-version-control-for-collaborative-programming.html#tk.rss_all)
-- [Docker raises $105M funding round to fuel its focus on developers](https://www.infoworld.com/article/3654966/docker-raises-105m-funding-round-to-fuel-its-focus-on-developers.html#tk.rss_all)
-- [A quick guide to blockchain](https://www.infoworld.com/article/3653379/a-quick-guide-to-blockchain.html#tk.rss_all)
-- [React 18 arrives with concurrent renderer, automatic batching](https://www.infoworld.com/article/3653251/react-18-introduces-concurrent-renderer-automatic-batching.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

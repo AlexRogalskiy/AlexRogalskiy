@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Having less deaths leads to a higher win rate than getting more kills](https://old.reddit.com/r/leagueoflegends/comments/twees6/having_less_deaths_leads_to_a_higher_win_rate/)
-- [The IPCC says we already have the tech tools to stop climate change](https://www.protocol.com/climate/ipcc-renewable-technology-wind-solar)
-- [Review from Brian Castner: Malcolm Gladwell’s “The Bomber Mafia”](https://www.wrath-bearingtree.com/2022/04/new-review-from-brian-castner-malcolm-gladwells-the-bomber-mafia/)
-- [The Simple Solution to Night Driving](https://www.roadandtrack.com/car-culture/a39491907/the-simple-solution-to-night-driving/)
-- [Azure Virtual Machines with Ampere Altra Arm-Based Processors](https://azure.microsoft.com/en-us/blog/now-in-preview-azure-virtual-machines-with-ampere-altra-armbased-processors/)
-- [Sovereign Citizens Take Anti-Government Philosophy to the Roads](https://www.caranddriver.com/features/a30281693/sovereign-citizen-right-to-travel/)
-- [Remember your loved ones with Memori – Free for Ukrainians](https://memori.co.nz/)
-- [Show HN: View Weekly Insider transactions back to the beginning of the year](https://shareseer.com/weekly/insiders/largest)
-- [The guy who quit medical school to become an NBA referee](https://thehustle.co/the-guy-who-quit-medical-school-to-become-an-nba-referee/)
-- [Turing Up the Code](https://news.ycombinator.com/item?id=30914603)
+- [South Korea: Why so many struggle to sleep](https://www.bbc.co.uk/news/world-asia-60703300)
+- [Sculpting Miniatures in 3D &lpar;2018&rpar;](https://boldminiatures.com/sculpting-miniatures-in-3d/)
+- [In the End, It All Adds Up To –1/12](https://www.nytimes.com/2014/02/04/science/in-the-end-it-all-adds-up-to.html)
+- [Writing a NetBSD Kernel Module](https://saurvs.github.io/post/writing-netbsd-kern-mod/)
+- [Simple Responsive Image Gallery with CSS Grid](https://www.tecforfun.com/css/simple-responsive-image-gallery-with-css-grid/)
+- [How to Rands](https://randsinrepose.com/archives/how-to-rands/)
+- [CodeIgniter4: Open-Source PHP Framework](https://github.com/codeigniter4/CodeIgniter4)
+- [Worldcoin Promised Free Crypto If They Scanned Their Eyeballs with “The Orb”](https://www.buzzfeednews.com/article/richardnieva/worldcoin-crypto-eyeball-scanning-orb-problems)
+- [BA.2 Is Here. Does Anyone Care?](https://www.theatlantic.com/health/archive/2022/04/ba2-omicron-variant-covid-surge/629474/)
+- [Honda and GM Deepen Ties, Promise &#39;New Series&#39; of Affordable EVs](https://www.caranddriver.com/news/a39636625/honda-gm-affordable-ev-plans/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

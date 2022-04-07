@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war latest: Zelenskiy accuses Russia of using UN to ‘justify the evil it does’ – live](https://www.theguardian.com/world/live/2022/apr/05/russia-ukraine-war-latest-news-live-updates-zelenskiy-address-un-united-nations-borodyanka-atrocities-bucha)
-- [Dr Ashley Bloomfield, who led New Zealand’s pandemic response, resigns](https://www.theguardian.com/world/2022/apr/06/dr-ashley-bloomfield-who-led-new-zealands-pandemic-response-resigns)
-- [How boycotts against Russia work – and how they don’t](https://www.theguardian.com/news/audio/2022/apr/06/how-boycotts-against-russia-work-and-how-they-dont-podcast)
-- [Australian team would ‘certainly be interested’ in Ash Barty return to cricket](https://www.theguardian.com/sport/2022/apr/06/australian-team-would-certainly-be-interested-in-ash-barty-return-to-cricket)
-- [Twitter working on edit button but says idea did not come from Elon Musk](https://www.theguardian.com/technology/2022/apr/06/twitter-working-on-edit-button-but-says-idea-did-not-come-from-elon-musk)
-- [Amazon to ban ‘union’ and other words from staff chat app – report](https://www.theguardian.com/technology/2022/apr/05/amazon-banned-words-list-union-internal-app)
-- [In Thailand, the war in Ukraine divides the generations](https://www.theguardian.com/world/2022/apr/06/in-thailand-the-war-in-ukraine-divides-the-generations)
-- [Covid deaths in England may rise as cases in over-55s increase](https://www.theguardian.com/world/2022/apr/06/covid-deaths-in-england-may-rise-as-cases-in-over-55s-increase)
-- [Fungi seeks similar: scientist investigates mushroom ‘chat’](https://www.theguardian.com/science/2022/apr/06/fungi-electrical-impulses-human-language-study)
-- [Raphael review – the Renaissance master who made saints and virgins glow](https://www.theguardian.com/artanddesign/2022/apr/06/raphael-review-national-gallery-london)
+- [Russia-Ukraine war: Russia will regard weak sanctions as ‘permission to attack’, says Zelenskiy – live](https://www.theguardian.com/world/live/2022/apr/06/russia-ukraine-war-latest-fresh-sanctions-loom-as-ukraine-says-more-than-4000-alleged-war-crimes-being-investigated-live)
+- [Can Emmanuel Macron hold off France’s far-right surge? – podcast](https://www.theguardian.com/news/audio/2022/apr/07/can-emmanuel-macron-hold-off-france-far-right-surge-podcast)
+- [Blast food: chip factory calls bomb squad after muddy spud turns out to be grenade](https://www.theguardian.com/world/2022/apr/07/chip-factory-bomb-squad-potato-grenade-new-zealand)
+- [Court hears US hostage’s emotional letter to father as IS trial continues](https://www.theguardian.com/world/2022/apr/06/islamic-state-trial-peter-kassig-el-shafee-elsheikh)
+- [North Korea could hold nuclear test next week, US envoy warns](https://www.theguardian.com/world/2022/apr/07/north-korea-could-hold-nuclear-test-next-week-us-envoy-warns)
+- [UK’s top 0.1% earners have annual income of over half a million, says IFS](https://www.theguardian.com/business/2022/apr/07/uks-top-01-earners-have-annual-income-of-over-half-a-million-says-ifs)
+- [UK’s transparency laws are being undermined, warn journalists](https://www.theguardian.com/politics/2022/apr/07/uk-foi-transparency-laws-are-being-undermined-warn-journalists)
+- [Inflo, Ed Sheeran and Adele lead Ivor Novello nominations](https://www.theguardian.com/music/2022/apr/07/inflo-ed-sheeran-adele-dominate-ivor-novello-nominations)
+- [Liberty threatens to sue government over ‘racist’ joint enterprise law](https://www.theguardian.com/world/2022/apr/07/liberty-threatens-sue-government-racist-joint-enterprise-law)
+- [House votes to hold Trump duo Navarro and Scavino in contempt of Congress](https://www.theguardian.com/us-news/2022/apr/06/house-navarro-scavino-trump-advisers-contempt)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

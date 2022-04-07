@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Apple criticised over unpatched CVEs in Catalina, Big Sur](https://www.computerweekly.com/news/252515641/Apple-criticised-over-unpatched-CVEs-in-Catalina-Big-Sur)
+- [Siemens looks at quantum computing to accelerate simulations](https://www.computerweekly.com/news/252515633/Siemens-looks-at-quantum-computing-to-accelerate-simulations)
+- [Denonia malware may be first to target AWS Lambda](https://www.computerweekly.com/news/252515625/Denonia-malware-may-be-first-to-target-AWS-Lambda)
+- [Hydra takedown merely shifts cyber criminal problem elsewhere](https://www.computerweekly.com/news/252515629/Hydra-takedown-merely-shifts-cyber-criminal-problem-elsewhere)
+- [Almost 40% of IT workers are now working fully flexibly](https://www.computerweekly.com/news/252515628/Almost-40-of-IT-workers-are-now-working-fully-flexibly)
+- [IR35 reforms: Private sector warned HMRC&#39;s 12-month &#39;light-touch&#39; enforcement period is ending](https://www.computerweekly.com/news/252515619/IR35-reforms-Private-sector-warned-HMRCs-12-month-light-touch-enforcement-period-is-ending)
+- [Snapshots best practice: Five key things you need to know](https://www.computerweekly.com/feature/Snapshots-best-practice-Five-key-things-you-need-to-know)
+- [Vodafone hails business efficiency and sustainability gains of Google Cloud big data partnership](https://www.computerweekly.com/news/252515612/Vodafone-hails-business-efficiency-and-sustainability-gains-of-Google-Cloud-big-data-partnership)
 - [Structured decentralisation is the key to unlocking Nordic-level innovation](https://www.computerweekly.com/news/252515546/Structured-decentralisation-is-the-key-to-unlocking-Nordic-level-innovation)
 - [How data sharing and collaboration can solve great challenges](https://www.computerweekly.com/opinion/How-data-sharing-and-collaboration-can-solve-great-challenges)
-- [Hackathon team uses origami in James Webb Space Telescope Pi project](https://www.computerweekly.com/news/252515553/Hackathon-team-uses-origami-in-James-Webb-Space-Telescope-Pi-project)
-- [Secrecy over police EncroChat hacking is unconstitutional, defence lawyers tell top French court](https://www.computerweekly.com/news/252515556/Secrecy-over-police-EncroChat-hacking-is-unconstitutional-defence-lawyers-tell-top-French-court)
-- [Discount retailer The Works hit by cyber attack](https://www.computerweekly.com/news/252515555/Discount-retailer-The-Works-hit-by-cyber-attack)
-- [London Stock Exchange datacentre migration project secures low-latency network support from EXA](https://www.computerweekly.com/news/252515549/London-Stock-Exchange-datacentre-migration-project-secures-low-latency-network-support-from-EXA)
-- [Triple-threat Borat malware no joke for victims](https://www.computerweekly.com/news/252515545/Triple-threat-Borat-malware-no-joke-for-victims)
-- [Police use of AI needs overhaul to prevent abuse](https://www.computerweekly.com/ezine/Computer-Weekly/Police-use-of-AI-needs-overhaul-to-prevent-abuse)
-- [HPE offers up progress report on how its space-based supercomputer is performing](https://www.computerweekly.com/news/252515535/HPE-offers-up-progress-report-on-how-its-space-bound-supercomputer-is-performing)
-- [UCL and AWS team up for health tech-focused startup accelerator](https://www.computerweekly.com/news/252515533/UCL-and-AWS-team-up-for-health-tech-focused-startup-accelerator)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

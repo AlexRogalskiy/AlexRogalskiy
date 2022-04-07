@@ -414,6 +414,7 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [WinSAT vs Reliability Monitor vs. Event Viewer](https://www.reddit.com/r/InformationTechnology/comments/txdcud/winsat_vs_reliability_monitor_vs_event_viewer/)
 - [iPad Solution](https://www.reddit.com/r/InformationTechnology/comments/twy5h5/ipad_solution/)
 - [Knowing yourself will help you](https://www.reddit.com/r/InformationTechnology/comments/twmq8m/knowing_yourself_will_help_you/)
 - [*Sigh](https://www.reddit.com/r/InformationTechnology/comments/twdlb9/sigh/)
@@ -423,7 +424,6 @@
 - [How to uninstall Windows from a hard drive not detected in the install screen?](https://www.reddit.com/r/InformationTechnology/comments/tvxr3b/how_to_uninstall_windows_from_a_hard_drive_not/)
 - [Computer Vision Expert | Master the computer vision skills in robotics a...](https://www.reddit.com/r/InformationTechnology/comments/tvjmzq/computer_vision_expert_master_the_computer_vision/)
 - [Advice and help needed, I want to start a career in IT but I have no experience and degree, would it be unrealistic to expect a 6 month course helping me accept job offers at 80k a year? What&#39;s the best and quickest way to get a high paying job?](https://www.reddit.com/r/InformationTechnology/comments/tvcm6c/advice_and_help_needed_i_want_to_start_a_career/)
-- [any help appreciated](https://www.reddit.com/r/InformationTechnology/comments/tut5q6/any_help_appreciated/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

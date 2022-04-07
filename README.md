@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [South Korea: Why so many struggle to sleep](https://www.bbc.co.uk/news/world-asia-60703300)
-- [Sculpting Miniatures in 3D &lpar;2018&rpar;](https://boldminiatures.com/sculpting-miniatures-in-3d/)
-- [In the End, It All Adds Up To –1/12](https://www.nytimes.com/2014/02/04/science/in-the-end-it-all-adds-up-to.html)
-- [Writing a NetBSD Kernel Module](https://saurvs.github.io/post/writing-netbsd-kern-mod/)
-- [Simple Responsive Image Gallery with CSS Grid](https://www.tecforfun.com/css/simple-responsive-image-gallery-with-css-grid/)
-- [How to Rands](https://randsinrepose.com/archives/how-to-rands/)
-- [CodeIgniter4: Open-Source PHP Framework](https://github.com/codeigniter4/CodeIgniter4)
-- [Worldcoin Promised Free Crypto If They Scanned Their Eyeballs with “The Orb”](https://www.buzzfeednews.com/article/richardnieva/worldcoin-crypto-eyeball-scanning-orb-problems)
-- [BA.2 Is Here. Does Anyone Care?](https://www.theatlantic.com/health/archive/2022/04/ba2-omicron-variant-covid-surge/629474/)
-- [Honda and GM Deepen Ties, Promise &#39;New Series&#39; of Affordable EVs](https://www.caranddriver.com/news/a39636625/honda-gm-affordable-ev-plans/)
+- [Software Defined Radio Transceiver: Theory and Construction of Amateur Radio SDT](https://www.amazon.com/Software-Defined-Radio-Transceiver-Construction/dp/B09WYP1ST8)
+- [EPA proposes “historic” plan to ban cancer-causing asbestos](https://www.axios.com/epa-asbestos-ban-cancer-deaths-98512a98-d033-4c90-b6d0-f97baba85ec3.html)
+- [Can Tesla’s Model Y Take a 1k Mile Road Trip? Absolutely](https://www.barrons.com/articles/tesla-model-y-review-1000-mile-road-trip-51649002008)
+- [NIO Has a Plan to End the Anxiety over Charging Electric Vehicles](https://www.barrons.com/articles/nio-electric-vehicle-battery-charging-range-51649157737?tesla=y)
+- [Fairy Rings](https://en.wikipedia.org/wiki/Fairy_ring)
+- [&#39;Wordle&#39; Clones](https://mashable.com/article/best-wordle-clones-alternatives)
+- [Lithuania&#39;s Nord Security raises $100 mln at $1.6 bln valuation](https://www.reuters.com/business/lithuanias-nord-security-raises-100-mln-16-bln-valuation-2022-04-06/)
+- [Fast is shutting down and over 450 employees are looking for a new job](https://airtable.com/shrOl16tQLXq5Eswc/tblRVSv9UklbXJbod)
+- [Elon Musk Is Active Now](https://www.bloomberg.com/opinion/articles/2022-04-06/elon-musk-is-active-now)
+- [What Happens If You Photocopy Money?](https://omscopiers.com/what-happens-if-you-photocopy-money/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

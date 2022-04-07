@@ -384,16 +384,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Rust 2024 roadmap focuses on developer ease of use](https://www.infoworld.com/article/3656728/rust-2024-roadmap-focuses-on-developer-ease-of-use.html#tk.rss_all)
+- [What is agile methodology? Modern software development explained](https://www.infoworld.com/article/3237508/what-is-agile-methodology-modern-software-development-explained.html#tk.rss_all)
+- [Google Cloud releases BigLake to unify data platforms](https://www.infoworld.com/article/3656650/google-cloud-releases-biglake-to-unify-data-platforms.html#tk.rss_all)
+- [NUnit uses open source tools to test .NET code](https://www.infoworld.com/article/3655955/nunit-uses-open-source-tools-to-test-net-code.html#tk.rss_all)
+- [Review: The 10 best JavaScript editors](https://www.infoworld.com/article/3195951/review-the-10-best-javascript-editors.html#tk.rss_all)
 - [Kotlin 1.6.20 arrives with better Java class interop](https://www.infoworld.com/article/3655959/kotlin-1620-arrives-with-better-java-class-interop.html#tk.rss_all)
 - [Ruby upgrade enhances WebAssembly support](https://www.infoworld.com/article/3655746/ruby-upgrade-enhances-webassembly-support.html#tk.rss_all)
 - [Microsoft launches Azure VMs powered by new Ampere Altra Arm-based chips](https://www.networkworld.com/article/3655956/microsoft-launches-azure-vms-powered-by-new-ampere-altra-arm-based-chips.html#tk.rss_all)
 - [Postgres everywhere](https://www.infoworld.com/article/3655953/postgres-everywhere.html#tk.rss_all)
 - [Where edge computing breaks down: Operations](https://www.infoworld.com/article/3655641/where-edge-computing-breaks-down-operations.html#tk.rss_all)
-- [13 hot language projects riding WebAssembly](https://www.infoworld.com/article/3619608/13-hot-language-projects-riding-webassembly.html#tk.rss_all)
-- [Unfettered developer freedom may be over](https://www.infoworld.com/article/3655639/unfettered-developer-freedom-may-be-over.html#tk.rss_all)
-- [Career roadmap: Machine learning engineer](https://www.infoworld.com/article/3654965/career-roadmap-machine-learning-engineer.html#tk.rss_all)
-- [5 ways to improve on spreadsheets for business workflows](https://www.infoworld.com/article/3654832/5-ways-to-improve-on-spreadsheets-for-business-workflows.html#tk.rss_all)
-- [GitHub Copilot available for Microsoft Visual Studio 2022](https://www.infoworld.com/article/3655991/github-copilot-available-for-microsoft-visual-studio-2022.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

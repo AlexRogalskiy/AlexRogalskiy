@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Reports from Square reveal new ways to transform businesses with technology in 2022](https://www.itworldcanada.com/article/reports-from-square-reveal-new-ways-to-transform-businesses-with-technology-in-2022/479597)
+- [Canadian government to introduce law compelling big tech to pay for news](https://www.itworldcanada.com/article/canadian-government-to-introduce-law-compelling-big-tech-to-pay-for-news/479593)
+- [Bell now offers 3 Gbps home internet](https://www.itworldcanada.com/article/bell-now-offers-3-gbps-home-internet/479578)
+- [Canada ‘very far behind’ other countries on digital ID, says federal CIO](https://www.itworldcanada.com/article/canada-very-far-behind-other-countries-on-digital-id-says-federal-cio/479547)
+- [Cyber Security Today, April 6, 2022 – Patch Linux fast, secure your Totolink routers, news on the new Borat trojan and more Russia-Ukraine cyberwar](https://www.itworldcanada.com/article/cyber-security-today-april-6-2022-patch-linux-fast-secure-your-totolink-routers-news-on-the-new-borat-trojan-and-more-russia-ukraine-cyberwar/479456)
+- [Hashtag Trending April 6, 2022 – Elon Musk joins Twitter’s board; Apple sued over payment schedule; new U.S. cyber bureau](https://www.itworldcanada.com/article/hashtag-trending-april-6-2022-elon-musk-joins-twitters-board-apple-sued-over-payment-schedule-new-u-s-cyber-bureau/479543)
 - [Twitter shares surge as Elon Musk now top shareholder, named to Board of Directors](https://www.itworldcanada.com/article/twitter-shares-surge-as-elon-musk-now-top-shareholder-named-to-board-of-directors/479529)
 - [Coffee Briefing April 5, 2022 – Trulioo’s first CMO; Xplornet acquires Full Throttle Networks; Microsoft Ability Summit 2022; and more](https://www.itworldcanada.com/article/coffee-briefing-april-5-2022-trulioos-first-cmo-xplornet-acquires-full-throttle-networks-microsoft-ability-summit-2022-and-more/479513)
 - [Hashtag Trending April 5, 2022 – Elon Musk now Twitter’s largest shareholder; new EU law to bring back replaceable batteries; Windows 11 adoptions slows](https://www.itworldcanada.com/article/hashtag-trending-april-5-2022-elon-musk-now-twitters-largest-shareholder-new-eu-law-to-bring-back-replaceable-batteries-windows-11-adoptions-slows/479411)
 - [Canadian government to offer affordable high-speed Internet to low-income families](https://www.itworldcanada.com/article/canadian-government-to-offer-affordable-high-speed-internet-to-low-income-families/479395)
-- [Alida wins Comparably’s award for Best Company Outlook](https://www.itworldcanada.com/article/alida-wins-comparablys-award-for-best-company-outlook/479371)
-- [Deloitte report: How Canadians with autism can help employers close the talent gap](https://www.itworldcanada.com/article/deloitte-report-how-canadians-with-autism-can-help-employers-close-the-talent-gap/479361)
-- [Cyber Security Today, April 4, 2022 – British teens face Lapsus$-related criminal charges, an MFA warning and updates needed for Github, Rockwell PLCs and Apple devices](https://www.itworldcanada.com/article/cyber-security-today-april-4-2022-british-teens-face-lapsus-related-criminal-charges-an-mfa-warning-and-updates-needed-for-github-rockwell-plcs-and-apple-devices/479240)
-- [Hashtag Trending April 4, 2022 – Apple’s iPhone hardware subscription service; Meta loses AI scientists; Amazon spent $4.3 million on anti-union consultants](https://www.itworldcanada.com/article/hashtag-trending-april-4-2022-apples-iphone-hardware-subscription-service-meta-loses-ai-scientists-amazon-spent-4-3-million-on-anti-union-consultants/479226)
-- [Halton Regional Police to now use what3words app to assist in locating people lost or in distress](https://www.itworldcanada.com/article/halton-regional-police-to-now-use-what3words-app-to-assist-in-locating-people-lost-or-in-distress/478952)
-- [What are QR codes and how do they work?](https://www.itworldcanada.com/article/what-are-qr-codes-and-how-do-they-work/475813)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Why rich people are panic-buying panic rooms](https://thehustle.co/03302022-panic-rooms/)
-- [Navi- an interactive cheatsheet tool for the command line](https://github.com/denisidoro/navi)
-- [Padlet &lpar;YC W13&rpar; is hiring its first recruiter to build a beautiful workplace](http://padlet.jobs/recruiter-sf)
-- [Ask HN: Beating depression with or without anti-depressants?](https://news.ycombinator.com/item?id=30923701)
-- [300 Drones Formed a QR Code That Rick Rolled Dallas on April Fools&#39; Day](https://www.dallasobserver.com/music/dallas-got-rick-rolled-with-a-giant-qr-code-on-april-fools-day-13716928)
-- [End the Streaming Struggle with Plex](https://www.plex.tv/en-gb/blog/end-the-streaming-struggle-with-plex/)
-- [Introducing ReadySet](https://blog.readyset.io/posts/introducing-readyset)
-- [The next Google](https://dkb.io/post/the-next-google)
-- [Show HN: Warp, a Rust-based terminal](https://www.warp.dev?ref=showhn)
-- [Show HN: Flight Penguin – Like Hipmunk, but a browser extension](https://flightpenguin.com)
+- [A Square Meal – Foods of the ‘20s and ‘30s](https://slimemoldtimemold.com/2022/04/04/book-review-a-square-meal-part-i-foods-of-the-20s-and-30s/)
+- [Wagetap &lpar;YC W22&rpar; Is Hiring a Lead Software Engineer](https://www.ycombinator.com/companies/wagetap/jobs/XSdhPmC-lead-software-development-engineer)
+- [Andrew Ng: Unbiggen AI. &lpar;Or: Farewell, Big Data&rpar;](https://spectrum.ieee.org/andrew-ng-data-centric-ai)
+- [FAANG promo committees are killing Kubernetes: A Short Thread](https://twitter.com/kantrn/status/1511791378497384454)
+- [Show HN: MetricFlow – open-source metric framework](https://github.com/transform-data/metricflow)
+- [Inside London&#39;s first Ketamine therapy clinic](https://www.leafie.co.uk/articles/inside-londons-first-ketamine-therapy-clinic/)
+- [My website is one binary](https://j3s.sh/thought/my-website-is-one-binary.html)
+- [AWS Lambda function URLs: Built-in HTTPS endpoints](https://aws.amazon.com/blogs/aws/announcing-aws-lambda-function-urls-built-in-https-endpoints-for-single-function-microservices/)
+- [Ask HN: Why is visual programming so popular for game programming?](https://news.ycombinator.com/item?id=30937201)
+- [Home sweet homepage, a comic about growing up online](https://sailorhg.com/home_sweet_homepage/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

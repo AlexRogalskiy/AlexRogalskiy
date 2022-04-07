@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Windows 11 — we haven’t seen anything, yet](https://www.computerworld.com/article/3656609/windows-11-we-havent-seen-anything-yet.html#tk.rss_all)
+- [As employees return to the office, connectivity remains a concern](https://www.computerworld.com/article/3655647/as-employees-return-to-the-office-connectivity-remains-a-concern.html#tk.rss_all)
+- [Atlassian adds &#39;Compass&#39; and &#39;Atlas&#39; for devs, collaboration teams](https://www.computerworld.com/article/3656410/atlassian-adds-compass-and-atlas-for-devs-collaboration-teams.html#tk.rss_all)
+- [What will, might and could happen at Apple&#39;s hybrid WWDC event](https://www.computerworld.com/article/3655998/what-will-might-and-could-happen-at-apples-hybrid-wwdc-event.html#tk.rss_all)
 - [Microsoft touts new hybrid work features in updates to Windows 11](https://www.computerworld.com/article/3655747/microsoft-touts-new-hybrid-work-features-in-updates-to-windows-11.html#tk.rss_all)
 - [Apple quietly stops meaningful auto-updates in iOS](https://www.computerworld.com/article/3655958/apple-quietly-stops-meaningful-auto-updates-in-ios.html#tk.rss_all)
 - [Why your company should deploy Apple Messages for Business](https://www.computerworld.com/article/3655741/why-your-company-should-deploy-apple-messages-for-business.html#tk.rss_all)
 - [Why are all those people resigning — and where are they going?](https://www.computerworld.com/article/3655992/why-are-all-those-people-resigning-and-where-are-they-going.html#tk.rss_all)
 - [Android 12 Upgrade Report Card: What a weird year](https://www.computerworld.com/article/3655737/android-12-upgrade-report-card.html#tk.rss_all)
 - [Windows 11 adoption appears to be stagnating](https://www.computerworld.com/article/3655739/windows-11-adoption-appears-to-be-stagnating.html#tk.rss_all)
-- [When it comes to Windows, out with the old, in with the…what?](https://www.computerworld.com/article/3655738/when-it-comes-to-windows-out-with-the-old-in-with-thewhat.html#tk.rss_all)
-- [The Russian cyberattack threat might force a new IT stance](https://www.computerworld.com/article/3655972/the-russian-cyberattack-threat-might-force-a-new-it-stance.html#tk.rss_all)
-- [Will your company embrace AR for training?](https://www.computerworld.com/article/3655736/will-your-company-embrace-ar-for-training.html#tk.rss_all)
-- [Q&amp;A: Qwick CEO details his company&#39;s 4-day workweek trial](https://www.computerworld.com/article/3655640/qa-qwick-ceo-details-his-companys-4-day-workweek-trial.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

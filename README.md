@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Software Defined Radio Transceiver: Theory and Construction of Amateur Radio SDT](https://www.amazon.com/Software-Defined-Radio-Transceiver-Construction/dp/B09WYP1ST8)
-- [EPA proposes “historic” plan to ban cancer-causing asbestos](https://www.axios.com/epa-asbestos-ban-cancer-deaths-98512a98-d033-4c90-b6d0-f97baba85ec3.html)
-- [Can Tesla’s Model Y Take a 1k Mile Road Trip? Absolutely](https://www.barrons.com/articles/tesla-model-y-review-1000-mile-road-trip-51649002008)
-- [NIO Has a Plan to End the Anxiety over Charging Electric Vehicles](https://www.barrons.com/articles/nio-electric-vehicle-battery-charging-range-51649157737?tesla=y)
-- [Fairy Rings](https://en.wikipedia.org/wiki/Fairy_ring)
-- [&#39;Wordle&#39; Clones](https://mashable.com/article/best-wordle-clones-alternatives)
-- [Lithuania&#39;s Nord Security raises $100 mln at $1.6 bln valuation](https://www.reuters.com/business/lithuanias-nord-security-raises-100-mln-16-bln-valuation-2022-04-06/)
-- [Fast is shutting down and over 450 employees are looking for a new job](https://airtable.com/shrOl16tQLXq5Eswc/tblRVSv9UklbXJbod)
-- [Elon Musk Is Active Now](https://www.bloomberg.com/opinion/articles/2022-04-06/elon-musk-is-active-now)
-- [What Happens If You Photocopy Money?](https://omscopiers.com/what-happens-if-you-photocopy-money/)
+- [Operand: A personal search engine for developers](https://operand.ai/)
+- [Stanford and Cal profs level accusations as debate over math curriculum rages](https://stanforddaily.com/2022/04/07/stanford-and-cal-professors-level-accusations-as-debate-over-state-math-curriculum-rages/)
+- [Fontanalz – Analyze TrueType/OpenType/CFF font and output as stdout or text file](http://azsky2.html.xdomain.jp/soft/fontanalz.html)
+- [Ask HN: What does GenZ use in place of Facebook Events?](https://news.ycombinator.com/item?id=30952811)
+- [The Infinitely Profitable Program &lpar;2008&rpar;](http://peetm.com/blog/?p=55)
+- [/bin/true used to be an empty file. &lpar;2018&rpar;](https://twitter.com/rob_pike/status/966896123548872705)
+- [Cyber Rodeo at Giga Texas](https://www.youtube.com/watch?v=fiwUE_2JhvY)
+- [Unlambda: Functional Programming Language Nightmares Come True &lpar;1999&rpar;](http://www.madore.org/~david/programs/unlambda/)
+- [Peter Thiel claims ‘finance gerontocracy’ is holding back Bitcoin](https://www.ft.com/content/8d832dac-c0da-4c2b-a43f-f98a4aad1a40)
+- [Sky succeeded at taking down CucoTV from GitHub](https://cucotv.github.io/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

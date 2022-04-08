@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war: Russia will regard weak sanctions as ‘permission to attack’, says Zelenskiy – live](https://www.theguardian.com/world/live/2022/apr/06/russia-ukraine-war-latest-fresh-sanctions-loom-as-ukraine-says-more-than-4000-alleged-war-crimes-being-investigated-live)
-- [Can Emmanuel Macron hold off France’s far-right surge? – podcast](https://www.theguardian.com/news/audio/2022/apr/07/can-emmanuel-macron-hold-off-france-far-right-surge-podcast)
-- [Blast food: chip factory calls bomb squad after muddy spud turns out to be grenade](https://www.theguardian.com/world/2022/apr/07/chip-factory-bomb-squad-potato-grenade-new-zealand)
-- [Court hears US hostage’s emotional letter to father as IS trial continues](https://www.theguardian.com/world/2022/apr/06/islamic-state-trial-peter-kassig-el-shafee-elsheikh)
-- [North Korea could hold nuclear test next week, US envoy warns](https://www.theguardian.com/world/2022/apr/07/north-korea-could-hold-nuclear-test-next-week-us-envoy-warns)
-- [UK’s top 0.1% earners have annual income of over half a million, says IFS](https://www.theguardian.com/business/2022/apr/07/uks-top-01-earners-have-annual-income-of-over-half-a-million-says-ifs)
-- [UK’s transparency laws are being undermined, warn journalists](https://www.theguardian.com/politics/2022/apr/07/uk-foi-transparency-laws-are-being-undermined-warn-journalists)
-- [Inflo, Ed Sheeran and Adele lead Ivor Novello nominations](https://www.theguardian.com/music/2022/apr/07/inflo-ed-sheeran-adele-dominate-ivor-novello-nominations)
-- [Liberty threatens to sue government over ‘racist’ joint enterprise law](https://www.theguardian.com/world/2022/apr/07/liberty-threatens-sue-government-racist-joint-enterprise-law)
-- [House votes to hold Trump duo Navarro and Scavino in contempt of Congress](https://www.theguardian.com/us-news/2022/apr/06/house-navarro-scavino-trump-advisers-contempt)
+- [Russia-Ukraine war latest: Zelenskiy says Borodyanka ‘much worse’ than Bucha; Kremlin admits ‘significant’ troop losses – live](https://www.theguardian.com/world/live/2022/apr/07/russia-ukraine-war-nato-foreign-ministers-to-meet-as-zelenskiy-dismisses-fresh-sanctions-live-news)
+- [NSW floods: man’s body found in south-west Sydney as rivers expected to reach major flood levels](https://www.theguardian.com/australia-news/2022/apr/08/nsw-weather-flood-warnings-evacuation-orders-flood-flooding-hawkesbury-nepean-river-schools-closed-sydney-rain-forecast)
+- [The week the world woke up to Russian war crimes in Ukraine – podcast](https://www.theguardian.com/news/audio/2022/apr/08/the-week-the-world-woke-up-to-russian-war-crimes-ukraine-podcast)
+- [DHL cargo plane splits in two after crash landing at Costa Rica airport](https://www.theguardian.com/world/2022/apr/08/dhl-cargo-plane-splits-in-two-after-crash-landing-at-costa-rica-airport)
+- [Brand or church? How Hillsong is facing a day of reckoning](https://www.theguardian.com/world/2022/apr/08/brand-or-church-how-hillsong-is-facing-a-day-of-reckoning)
+- [Russia-Ukraine war: what we know on day 44 of the invasion](https://www.theguardian.com/world/2022/apr/08/russia-ukraine-war-what-we-know-on-day-44-of-the-invasion)
+- [Ensure waist size is less than half your height, health watchdog says](https://www.theguardian.com/society/2022/apr/08/ensure-waist-size-is-less-than-half-your-height-health-watchdog-says)
+- [UK energy suppliers’ customer service at ‘worst’ level since 2017](https://www.theguardian.com/business/2022/apr/08/uk-energy-suppliers-customer-service-at-worst-level-since-2017-citizens-advice-plummeting-standards)
+- [Scientists make further inroads into reversing ageing process of cells](https://www.theguardian.com/science/2022/apr/08/scientists-make-further-inroads-into-reversing-ageing-process-of-cells)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/blog/2022/apr/08/premier-league-10-things-to-look-out-for-this-weekend)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

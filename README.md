@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Following US moves, UK looks to regulate crypto, create government token](https://www.computerworld.com/article/3656729/following-us-moves-uk-looks-to-regulate-crypto-create-government-token.html#tk.rss_all)
+- [WWDC: Apple&#39;s call to code and the no-code future](https://www.computerworld.com/article/3656908/wwdc-apples-call-to-code-and-the-no-code-future.html#tk.rss_all)
+- [Intel suspends all operations in Russia](https://www.networkworld.com/article/3656630/intel-suspends-all-operations-in-russia.html#tk.rss_all)
+- [Don&#39;t look now, but the blue-collar remote work revolution is coming](https://www.computerworld.com/article/3655638/dont-look-now-but-the-blue-collar-remote-work-revolution-is-coming.html#tk.rss_all)
+- [Noteworthy tech acquisitions 2022](https://www.computerworld.com/article/3646533/noteworthy-tech-acquisitions-2022.html#tk.rss_all)
 - [Windows 11 — we haven’t seen anything, yet](https://www.computerworld.com/article/3656609/windows-11-we-havent-seen-anything-yet.html#tk.rss_all)
 - [As employees return to the office, connectivity remains a concern](https://www.computerworld.com/article/3655647/as-employees-return-to-the-office-connectivity-remains-a-concern.html#tk.rss_all)
 - [Atlassian adds &#39;Compass&#39; and &#39;Atlas&#39; for devs, collaboration teams](https://www.computerworld.com/article/3656410/atlassian-adds-compass-and-atlas-for-devs-collaboration-teams.html#tk.rss_all)
 - [What will, might and could happen at Apple&#39;s hybrid WWDC event](https://www.computerworld.com/article/3655998/what-will-might-and-could-happen-at-apples-hybrid-wwdc-event.html#tk.rss_all)
 - [Microsoft touts new hybrid work features in updates to Windows 11](https://www.computerworld.com/article/3655747/microsoft-touts-new-hybrid-work-features-in-updates-to-windows-11.html#tk.rss_all)
-- [Apple quietly stops meaningful auto-updates in iOS](https://www.computerworld.com/article/3655958/apple-quietly-stops-meaningful-auto-updates-in-ios.html#tk.rss_all)
-- [Why your company should deploy Apple Messages for Business](https://www.computerworld.com/article/3655741/why-your-company-should-deploy-apple-messages-for-business.html#tk.rss_all)
-- [Why are all those people resigning — and where are they going?](https://www.computerworld.com/article/3655992/why-are-all-those-people-resigning-and-where-are-they-going.html#tk.rss_all)
-- [Android 12 Upgrade Report Card: What a weird year](https://www.computerworld.com/article/3655737/android-12-upgrade-report-card.html#tk.rss_all)
-- [Windows 11 adoption appears to be stagnating](https://www.computerworld.com/article/3655739/windows-11-adoption-appears-to-be-stagnating.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

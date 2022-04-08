@@ -369,16 +369,16 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Scuderia AlphaTauri Cranks Up Racecar Efficiency with Epicor](https://www.informationweek.com/cloud/scuderia-alphatauri-cranks-up-racecar-efficiency-with-epicor)
+- [Enterprise Browsers Promise Enhanced Security, Productivity](https://www.informationweek.com/software/enterprise-browsers-promise-enhanced-security-productivity)
+- [A New Era of Digital Finance for Treasury Teams](https://www.informationweek.com/fintech/a-new-era-of-digital-finance-for-treasury-teams)
 - [Return-to-Office Moment Drives Discord](https://www.informationweek.com/strategic-cio/return-to-office-moment-drives-discord)
 - [What Changing AI Rules Mean for Hiring](https://www.informationweek.com/ai-or-machine-learning/what-changing-ai-rules-mean-for-hiring)
 - [What Enterprises Can Expect as Carriers to Spend Billions on Broadband Rollouts](https://www.informationweek.com/cloud/what-enterprises-can-expect-as-carriers-to-spend-billions-on-broadband-rollouts)
 - [How SMBs Can Get More Sophisticated in Their Search for the Right Cloud Provider](https://www.informationweek.com/cloud/how-smbs-can-get-more-sophisticated-in-their-search-for-the-right-cloud-provider)
 - [Generations in the Workplace: Stereotypes and Facts](https://www.informationweek.com/it-life/generations-in-the-workplace-stereotypes-and-facts)
 - [A Personalized Approach to Building a Tech Talent Pipeline](https://www.informationweek.com/it-life/a-personalized-approach-to-building-a-tech-talent-pipeline)
-- [General Catalyst’s Clark Talks Opportunistic Investing in Tech](https://www.informationweek.com/big-data/general-catalyst-s-clark-talks-opportunistic-investing-in-tech)
 - [Enterprise Guide to Data Privacy](https://www.informationweek.com/big-data/enterprise-guide-to-data-privacy)
-- [US Companies Must Deal with EU AI law, Like It or Not](https://www.informationweek.com/big-data/us-companies-must-deal-with-eu-ai-law-like-it-or-not)
-- [5 Pillars of Sustainable Digital Transformation](https://www.informationweek.com/strategic-cio/5-pillars-of-sustainable-digital-transformation)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

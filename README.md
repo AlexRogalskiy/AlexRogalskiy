@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [A Square Meal – Foods of the ‘20s and ‘30s](https://slimemoldtimemold.com/2022/04/04/book-review-a-square-meal-part-i-foods-of-the-20s-and-30s/)
-- [Wagetap &lpar;YC W22&rpar; Is Hiring a Lead Software Engineer](https://www.ycombinator.com/companies/wagetap/jobs/XSdhPmC-lead-software-development-engineer)
-- [Andrew Ng: Unbiggen AI. &lpar;Or: Farewell, Big Data&rpar;](https://spectrum.ieee.org/andrew-ng-data-centric-ai)
-- [FAANG promo committees are killing Kubernetes: A Short Thread](https://twitter.com/kantrn/status/1511791378497384454)
-- [Show HN: MetricFlow – open-source metric framework](https://github.com/transform-data/metricflow)
-- [Inside London&#39;s first Ketamine therapy clinic](https://www.leafie.co.uk/articles/inside-londons-first-ketamine-therapy-clinic/)
-- [My website is one binary](https://j3s.sh/thought/my-website-is-one-binary.html)
-- [AWS Lambda function URLs: Built-in HTTPS endpoints](https://aws.amazon.com/blogs/aws/announcing-aws-lambda-function-urls-built-in-https-endpoints-for-single-function-microservices/)
-- [Ask HN: Why is visual programming so popular for game programming?](https://news.ycombinator.com/item?id=30937201)
-- [Home sweet homepage, a comic about growing up online](https://sailorhg.com/home_sweet_homepage/)
+- [Barclays Puts in Sensors to See Which Bankers Are at Their Desks](https://www.bloomberg.com/news/articles/2017-08-18/barclays-puts-in-sensors-to-see-which-bankers-are-at-their-desks)
+- [User beware: Modified AGPLv3 removes freedoms, adds legal headaches](https://opensource.org/blog/modified-agplv3-removes-freedoms-adds-legal-headaches)
+- [Firefox DNS-over-HTTPS](https://support.mozilla.org/en-US/kb/firefox-dns-over-https)
+- [Reading academic computer science papers](https://stackoverflow.blog/2022/04/07/you-should-be-reading-academic-computer-science-papers/)
+- [Walmart truckers to start at $95k a year](https://www.axios.com/walmart-trucker-salary-9bc06c92-4da5-45d4-bc95-39795f75e015.html)
+- [Arrests of a Yakuza Leader and Affiliates for Narcotics and Weapons Trafficking](https://www.justice.gov/usao-sdny/pr/manhattan-us-attorney-announces-arrests-yakuza-leader-and-affiliates-international)
+- [1.5-Inch Hand-Carved Agate from 1500 B.C. Shows Sub-Millimeter Details](https://news.artnet.com/art-world/griffin-warrior-tomb-pylos-combat-agate-1142624)
+- [Birds Make Better Bipedal Bots Than Humans Do](https://www.scientificamerican.com/article/birds-make-better-bipedal-bots-than-humans-do/)
+- [The Muse &lpar;YC W12&rpar; Is Hiring a Senior Platform Engineer &lpar;Learn More&rpar;](https://www.themuse.com/jobs/themuse/senior-platform-engineer-233c9c)
+- [Raspberry Pi update removes the default user](http://deepaqua.me/2022/04/07/the-pi-user-is-dead-long-life-the-pi-user/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

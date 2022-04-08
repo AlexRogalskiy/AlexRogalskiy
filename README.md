@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Goldacre review outlines recommendations on safer use of health data](https://www.computerweekly.com/news/252515702/Goldacre-review-outlines-recommendations-on-safer-use-of-health-data)
+- [Online Safety Bill: Collaborating to make the internet safer for all](https://www.computerweekly.com/opinion/Online-Safety-Bill-Collaborating-to-make-the-internet-safer-for-all)
+- [US shuts down Russia’s Cyclops Blink botnet operation](https://www.computerweekly.com/news/252515694/US-shuts-down-Russias-Cyclops-Blink-botnet-operation)
+- [MPs and editors sound alarm over threat to Freedom of Information](https://www.computerweekly.com/news/252515680/MPs-and-editors-sound-alarm-over-threat-to-Freedom-of-Information)
+- [Amazon workers defeat company to form first US union](https://www.computerweekly.com/news/252515679/Amazon-workers-defeat-company-to-form-first-US-union)
+- [CW Middle East: UAE and UK researchers work on ‘trustworthy’ cloud OS for datacentres](https://www.computerweekly.com/ezine/CW-Middle-East/CW-Middle-East-UAE-and-UK-researchers-work-on-trustworthy-cloud-OS-for-datacentres)
 - [Apple criticised over unpatched CVEs in Catalina, Big Sur](https://www.computerweekly.com/news/252515641/Apple-criticised-over-unpatched-CVEs-in-Catalina-Big-Sur)
 - [Siemens looks at quantum computing to accelerate simulations](https://www.computerweekly.com/news/252515633/Siemens-looks-at-quantum-computing-to-accelerate-simulations)
 - [Denonia malware may be first to target AWS Lambda](https://www.computerweekly.com/news/252515625/Denonia-malware-may-be-first-to-target-AWS-Lambda)
 - [Hydra takedown merely shifts cyber criminal problem elsewhere](https://www.computerweekly.com/news/252515629/Hydra-takedown-merely-shifts-cyber-criminal-problem-elsewhere)
-- [Almost 40% of IT workers are now working fully flexibly](https://www.computerweekly.com/news/252515628/Almost-40-of-IT-workers-are-now-working-fully-flexibly)
-- [IR35 reforms: Private sector warned HMRC&#39;s 12-month &#39;light-touch&#39; enforcement period is ending](https://www.computerweekly.com/news/252515619/IR35-reforms-Private-sector-warned-HMRCs-12-month-light-touch-enforcement-period-is-ending)
-- [Snapshots best practice: Five key things you need to know](https://www.computerweekly.com/feature/Snapshots-best-practice-Five-key-things-you-need-to-know)
-- [Vodafone hails business efficiency and sustainability gains of Google Cloud big data partnership](https://www.computerweekly.com/news/252515612/Vodafone-hails-business-efficiency-and-sustainability-gains-of-Google-Cloud-big-data-partnership)
-- [Structured decentralisation is the key to unlocking Nordic-level innovation](https://www.computerweekly.com/news/252515546/Structured-decentralisation-is-the-key-to-unlocking-Nordic-level-innovation)
-- [How data sharing and collaboration can solve great challenges](https://www.computerweekly.com/opinion/How-data-sharing-and-collaboration-can-solve-great-challenges)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

@@ -414,6 +414,9 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Software Dev job with Info Tech B.S. ?](https://www.reddit.com/r/InformationTechnology/comments/tyoltf/software_dev_job_with_info_tech_bs/)
+- [[advice] how to create a &quot;digital store&quot; using Office 365 apps](https://www.reddit.com/r/InformationTechnology/comments/tyh6vz/advice_how_to_create_a_digital_store_using_office/)
+- [Information Technology degree and computer science minor or Computer science degree?](https://www.reddit.com/r/InformationTechnology/comments/ty4osp/information_technology_degree_and_computer/)
 - [WinSAT vs Reliability Monitor vs. Event Viewer](https://www.reddit.com/r/InformationTechnology/comments/txdcud/winsat_vs_reliability_monitor_vs_event_viewer/)
 - [iPad Solution](https://www.reddit.com/r/InformationTechnology/comments/twy5h5/ipad_solution/)
 - [Knowing yourself will help you](https://www.reddit.com/r/InformationTechnology/comments/twmq8m/knowing_yourself_will_help_you/)
@@ -421,9 +424,6 @@
 - [Will moving from on-prem file server to cloud storage affect performance?](https://www.reddit.com/r/InformationTechnology/comments/tw6dj7/will_moving_from_onprem_file_server_to_cloud/)
 - [anybody know the easiest way to set up a tablet like in airport bathrooms with the only functionality being three buttons describing an experience?](https://www.reddit.com/r/InformationTechnology/comments/tw0opi/anybody_know_the_easiest_way_to_set_up_a_tablet/)
 - [an error keeps showing up](https://www.reddit.com/r/InformationTechnology/comments/tvyml7/an_error_keeps_showing_up/)
-- [How to uninstall Windows from a hard drive not detected in the install screen?](https://www.reddit.com/r/InformationTechnology/comments/tvxr3b/how_to_uninstall_windows_from_a_hard_drive_not/)
-- [Computer Vision Expert | Master the computer vision skills in robotics a...](https://www.reddit.com/r/InformationTechnology/comments/tvjmzq/computer_vision_expert_master_the_computer_vision/)
-- [Advice and help needed, I want to start a career in IT but I have no experience and degree, would it be unrealistic to expect a 6 month course helping me accept job offers at 80k a year? What&#39;s the best and quickest way to get a high paying job?](https://www.reddit.com/r/InformationTechnology/comments/tvcm6c/advice_and_help_needed_i_want_to_start_a_career/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

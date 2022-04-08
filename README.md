@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Federal Budget 2022: More money for cybersecurity, fighting misinformation](https://www.itworldcanada.com/article/federal-budget-2022-more-money-for-cybersecurity-fighting-misinformation/479659)
+- [Microsoft courts commercial customers with new Windows features](https://www.itworldcanada.com/article/microsoft-courts-commercial-customers-with-new-windows-features/479642)
+- [Payments Canada and TCS partner to implement modernized payments system for Canadians](https://www.itworldcanada.com/article/payments-canada-and-tcs-partner-to-implement-modernized-payments-system-for-canadians/479665)
+- [Blackberry to settle shareholder lawsuit for $165 million](https://www.itworldcanada.com/article/blackberry-to-settle-shareholder-lawsuit-for-165-million/479635)
+- [Governments must fight misinformation on digital ID, say provincial experts](https://www.itworldcanada.com/article/governments-must-fight-misinformation-on-digital-id-say-provincial-experts/479608)
+- [Hashtag Trending April 7 – Google Maps to show tolls; Pinterest combat climate misinformation; new social engineering attack](https://www.itworldcanada.com/article/hashtag-trending-april-7-google-maps-to-show-tolls-pinterest-combat-climate-misinformation-new-social-engineering-attack/479604)
 - [Reports from Square reveal new ways to transform businesses with technology in 2022](https://www.itworldcanada.com/article/reports-from-square-reveal-new-ways-to-transform-businesses-with-technology-in-2022/479597)
 - [Canadian government to introduce law compelling big tech to pay for news](https://www.itworldcanada.com/article/canadian-government-to-introduce-law-compelling-big-tech-to-pay-for-news/479593)
 - [Bell now offers 3 Gbps home internet](https://www.itworldcanada.com/article/bell-now-offers-3-gbps-home-internet/479578)
 - [Canada ‘very far behind’ other countries on digital ID, says federal CIO](https://www.itworldcanada.com/article/canada-very-far-behind-other-countries-on-digital-id-says-federal-cio/479547)
-- [Cyber Security Today, April 6, 2022 – Patch Linux fast, secure your Totolink routers, news on the new Borat trojan and more Russia-Ukraine cyberwar](https://www.itworldcanada.com/article/cyber-security-today-april-6-2022-patch-linux-fast-secure-your-totolink-routers-news-on-the-new-borat-trojan-and-more-russia-ukraine-cyberwar/479456)
-- [Hashtag Trending April 6, 2022 – Elon Musk joins Twitter’s board; Apple sued over payment schedule; new U.S. cyber bureau](https://www.itworldcanada.com/article/hashtag-trending-april-6-2022-elon-musk-joins-twitters-board-apple-sued-over-payment-schedule-new-u-s-cyber-bureau/479543)
-- [Twitter shares surge as Elon Musk now top shareholder, named to Board of Directors](https://www.itworldcanada.com/article/twitter-shares-surge-as-elon-musk-now-top-shareholder-named-to-board-of-directors/479529)
-- [Coffee Briefing April 5, 2022 – Trulioo’s first CMO; Xplornet acquires Full Throttle Networks; Microsoft Ability Summit 2022; and more](https://www.itworldcanada.com/article/coffee-briefing-april-5-2022-trulioos-first-cmo-xplornet-acquires-full-throttle-networks-microsoft-ability-summit-2022-and-more/479513)
-- [Hashtag Trending April 5, 2022 – Elon Musk now Twitter’s largest shareholder; new EU law to bring back replaceable batteries; Windows 11 adoptions slows](https://www.itworldcanada.com/article/hashtag-trending-april-5-2022-elon-musk-now-twitters-largest-shareholder-new-eu-law-to-bring-back-replaceable-batteries-windows-11-adoptions-slows/479411)
-- [Canadian government to offer affordable high-speed Internet to low-income families](https://www.itworldcanada.com/article/canadian-government-to-offer-affordable-high-speed-internet-to-low-income-families/479395)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

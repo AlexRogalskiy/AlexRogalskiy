@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Barclays Puts in Sensors to See Which Bankers Are at Their Desks](https://www.bloomberg.com/news/articles/2017-08-18/barclays-puts-in-sensors-to-see-which-bankers-are-at-their-desks)
-- [User beware: Modified AGPLv3 removes freedoms, adds legal headaches](https://opensource.org/blog/modified-agplv3-removes-freedoms-adds-legal-headaches)
-- [Firefox DNS-over-HTTPS](https://support.mozilla.org/en-US/kb/firefox-dns-over-https)
-- [Reading academic computer science papers](https://stackoverflow.blog/2022/04/07/you-should-be-reading-academic-computer-science-papers/)
-- [Walmart truckers to start at $95k a year](https://www.axios.com/walmart-trucker-salary-9bc06c92-4da5-45d4-bc95-39795f75e015.html)
-- [Arrests of a Yakuza Leader and Affiliates for Narcotics and Weapons Trafficking](https://www.justice.gov/usao-sdny/pr/manhattan-us-attorney-announces-arrests-yakuza-leader-and-affiliates-international)
-- [1.5-Inch Hand-Carved Agate from 1500 B.C. Shows Sub-Millimeter Details](https://news.artnet.com/art-world/griffin-warrior-tomb-pylos-combat-agate-1142624)
-- [Birds Make Better Bipedal Bots Than Humans Do](https://www.scientificamerican.com/article/birds-make-better-bipedal-bots-than-humans-do/)
-- [The Muse &lpar;YC W12&rpar; Is Hiring a Senior Platform Engineer &lpar;Learn More&rpar;](https://www.themuse.com/jobs/themuse/senior-platform-engineer-233c9c)
-- [Raspberry Pi update removes the default user](http://deepaqua.me/2022/04/07/the-pi-user-is-dead-long-life-the-pi-user/)
+- [Always Tell Your Kids the Truth](https://www.outsideonline.com/culture/active-families/tell-your-kids-truth/)
+- [Mozilla Thunderbird Beta now supports Matrix chat](https://matrix.org/blog/2022/04/08/this-week-in-matrix-2022-04-08#thunderbird)
+- [Bill Jolitz has died](https://minnie.tuhs.org/pipermail/tuhs/2022-April/025643.html)
+- [NPM package event-source-polyfill compromised by political activists](https://github.com/Yaffle/EventSource/blob/de137927e13d8afac153d2485152ccec48948a7a/src/eventsource.js)
+- [AI predicts if and when someone will experience cardiac arrest](https://hub.jhu.edu/2022/04/07/trayanova-artificial-intelligence-cardiac-arrhythmia/)
+- [Jango; Free Music Streaming](https://www.jango.com)
+- [Finley &lpar;YC W21&rpar; Is a B2B Fintech Hiring in Engineering and Finance &lpar;US Remote&rpar;](https://www.finleycms.com/work-at-finley)
+- [Dall-E 2 illustrations of Twitter bios](https://twitter.com/nickcammarata/status/1511861061988892675)
+- [Drone footage of Tesla factory](https://twitter.com/alexandrosM/status/1510008990368878592)
+- [A Bitcoin bust that took down the web’s biggest child abuse site](https://www.wired.com/story/tracers-in-the-dark-welcome-to-video-crypto-anonymity-myth/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

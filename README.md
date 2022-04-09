@@ -354,7 +354,7 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
-- [Following US moves, UK looks to regulate crypto, create government token](https://www.computerworld.com/article/3656729/following-us-moves-uk-looks-to-regulate-crypto-create-government-token.html#tk.rss_all)
+- [4 buried treasures that&#39;ll transform your Chrome OS experience](https://www.computerworld.com/article/3656409/chrome-os-treasures.html#tk.rss_all)
 - [WWDC: Apple&#39;s call to code and the no-code future](https://www.computerworld.com/article/3656908/wwdc-apples-call-to-code-and-the-no-code-future.html#tk.rss_all)
 - [Intel suspends all operations in Russia](https://www.networkworld.com/article/3656630/intel-suspends-all-operations-in-russia.html#tk.rss_all)
 - [Don&#39;t look now, but the blue-collar remote work revolution is coming](https://www.computerworld.com/article/3655638/dont-look-now-but-the-blue-collar-remote-work-revolution-is-coming.html#tk.rss_all)

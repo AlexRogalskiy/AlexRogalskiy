@@ -369,6 +369,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Ukraine&#39;s IT Pros Tell Their Stories of Bombing &amp; Business Continuity](https://www.informationweek.com/it-life/ukraines-it-pros-tell-us-their-stories-of-bombs-&-business-continuity)
+- [Sustainability: Is Now the Time for IT to Get Busy?](https://www.informationweek.com/strategic-cio/sustainability-is-now-the-time-for-it-to-get-busy-)
+- [How to Identify and Avoid Crypto Pump-and-Dumps](https://www.informationweek.com/it-life/how-to-identify-and-avoid-crypto-pump-and-dumps)
 - [Scuderia AlphaTauri Cranks Up Racecar Efficiency with Epicor](https://www.informationweek.com/cloud/scuderia-alphatauri-cranks-up-racecar-efficiency-with-epicor)
 - [Enterprise Browsers Promise Enhanced Security, Productivity](https://www.informationweek.com/software/enterprise-browsers-promise-enhanced-security-productivity)
 - [A New Era of Digital Finance for Treasury Teams](https://www.informationweek.com/fintech/a-new-era-of-digital-finance-for-treasury-teams)
@@ -376,9 +379,6 @@
 - [What Changing AI Rules Mean for Hiring](https://www.informationweek.com/ai-or-machine-learning/what-changing-ai-rules-mean-for-hiring)
 - [What Enterprises Can Expect as Carriers to Spend Billions on Broadband Rollouts](https://www.informationweek.com/cloud/what-enterprises-can-expect-as-carriers-to-spend-billions-on-broadband-rollouts)
 - [How SMBs Can Get More Sophisticated in Their Search for the Right Cloud Provider](https://www.informationweek.com/cloud/how-smbs-can-get-more-sophisticated-in-their-search-for-the-right-cloud-provider)
-- [Generations in the Workplace: Stereotypes and Facts](https://www.informationweek.com/it-life/generations-in-the-workplace-stereotypes-and-facts)
-- [A Personalized Approach to Building a Tech Talent Pipeline](https://www.informationweek.com/it-life/a-personalized-approach-to-building-a-tech-talent-pipeline)
-- [Enterprise Guide to Data Privacy](https://www.informationweek.com/big-data/enterprise-guide-to-data-privacy)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

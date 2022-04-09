@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Software Dev job with Info Tech B.S. ?](https://www.reddit.com/r/InformationTechnology/comments/tyoltf/software_dev_job_with_info_tech_bs/)
-- [[advice] how to create a &quot;digital store&quot; using Office 365 apps](https://www.reddit.com/r/InformationTechnology/comments/tyh6vz/advice_how_to_create_a_digital_store_using_office/)
-- [Information Technology degree and computer science minor or Computer science degree?](https://www.reddit.com/r/InformationTechnology/comments/ty4osp/information_technology_degree_and_computer/)
-- [WinSAT vs Reliability Monitor vs. Event Viewer](https://www.reddit.com/r/InformationTechnology/comments/txdcud/winsat_vs_reliability_monitor_vs_event_viewer/)
-- [iPad Solution](https://www.reddit.com/r/InformationTechnology/comments/twy5h5/ipad_solution/)
-- [Knowing yourself will help you](https://www.reddit.com/r/InformationTechnology/comments/twmq8m/knowing_yourself_will_help_you/)
-- [*Sigh](https://www.reddit.com/r/InformationTechnology/comments/twdlb9/sigh/)
-- [Will moving from on-prem file server to cloud storage affect performance?](https://www.reddit.com/r/InformationTechnology/comments/tw6dj7/will_moving_from_onprem_file_server_to_cloud/)
-- [anybody know the easiest way to set up a tablet like in airport bathrooms with the only functionality being three buttons describing an experience?](https://www.reddit.com/r/InformationTechnology/comments/tw0opi/anybody_know_the_easiest_way_to_set_up_a_tablet/)
-- [an error keeps showing up](https://www.reddit.com/r/InformationTechnology/comments/tvyml7/an_error_keeps_showing_up/)
+- [people who have taken coursera IT courses how much did it help you on the CompTIA](https://www.reddit.com/r/InformationTechnology/comments/tzdvr4/people_who_have_taken_coursera_it_courses_how/)
+- [Become the Low Voltage contractor for new stores](https://www.reddit.com/r/InformationTechnology/comments/tzbfey/become_the_low_voltage_contractor_for_new_stores/)
+- [Does anyone pay for used toner cartridges and drums?](https://www.reddit.com/r/InformationTechnology/comments/tzav8c/does_anyone_pay_for_used_toner_cartridges_and/)
+- [Question](https://www.reddit.com/r/InformationTechnology/comments/tzajna/question/)
+- [Question](https://www.reddit.com/r/InformationTechnology/comments/tzajf4/question/)
+- [Question](https://www.reddit.com/r/InformationTechnology/comments/tzaj52/question/)
+- [IT Question](https://www.reddit.com/r/InformationTechnology/comments/tzair9/it_question/)
+- [IT Question](https://www.reddit.com/r/InformationTechnology/comments/tzaihq/it_question/)
+- [IT Question](https://www.reddit.com/r/InformationTechnology/comments/tzai7w/it_question/)
+- [IT Question](https://www.reddit.com/r/InformationTechnology/comments/tzahyt/it_question/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

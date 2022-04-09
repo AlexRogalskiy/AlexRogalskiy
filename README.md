@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Operand: A personal search engine for developers](https://operand.ai/)
-- [Stanford and Cal profs level accusations as debate over math curriculum rages](https://stanforddaily.com/2022/04/07/stanford-and-cal-professors-level-accusations-as-debate-over-state-math-curriculum-rages/)
-- [Fontanalz – Analyze TrueType/OpenType/CFF font and output as stdout or text file](http://azsky2.html.xdomain.jp/soft/fontanalz.html)
-- [Ask HN: What does GenZ use in place of Facebook Events?](https://news.ycombinator.com/item?id=30952811)
-- [The Infinitely Profitable Program &lpar;2008&rpar;](http://peetm.com/blog/?p=55)
-- [/bin/true used to be an empty file. &lpar;2018&rpar;](https://twitter.com/rob_pike/status/966896123548872705)
-- [Cyber Rodeo at Giga Texas](https://www.youtube.com/watch?v=fiwUE_2JhvY)
-- [Unlambda: Functional Programming Language Nightmares Come True &lpar;1999&rpar;](http://www.madore.org/~david/programs/unlambda/)
-- [Peter Thiel claims ‘finance gerontocracy’ is holding back Bitcoin](https://www.ft.com/content/8d832dac-c0da-4c2b-a43f-f98a4aad1a40)
-- [Sky succeeded at taking down CucoTV from GitHub](https://cucotv.github.io/)
+- [Calming Your Brain During Conflict](https://hbr.org/2015/12/calming-your-brain-during-conflict)
+- [Ask HN: What are some worthy high-level goals for humankind?](https://news.ycombinator.com/item?id=30964772)
+- [Privacy Is a Fun Game](https://belkarx.github.io/posts/finished/Privacy%20is%20a%20Fun%20Game.html)
+- [Polybius - the videogame that doesn&#39;t exist](https://en.wikipedia.org/wiki/Polybius_(urban_legend))
+- [How Accurate Is Smartwatch Heart Data Tracking? It Depends on Your Skin Tone](https://scitechdaily.com/how-accurate-is-smartwatch-heart-data-tracking-it-depends-on-your-skin-tone/)
+- [A virtual way to rehab from a stroke](https://showme.missouri.edu/2022/a-virtual-way-to-rehab-from-a-stroke/)
+- [Hundreds fitted with artificial pancreas in NHS type 1 diabetes trial](https://www.theguardian.com/society/2022/apr/01/hundreds-fitted-with-artificial-pancreas-in-nhs-type-1-diabetes-trial)
+- [Ask HN: How do you deal with performance anxiety in coding interviews?](https://news.ycombinator.com/item?id=30964748)
+- [Would You Eat a Burger Made in a Vending Machine? People in New Jersey Are](https://www.usatoday.com/story/money/food/2022/03/30/burger-vending-machine-robot/7215167001/)
+- [Scientists find leg of dinosaur that was killed by the great asteroid](https://m.jpost.com/archaeology/article-703635)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

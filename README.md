@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [EncroChat: France says ‘defence secrecy’ in police surveillance operations is constitutional](https://www.computerweekly.com/news/252515739/EncroChat-France-says-defence-secrecy-in-police-surveillance-operations-is-constitutional)
+- [Ukrainian cyber criminal gets five years in jail](https://www.computerweekly.com/news/252515737/Ukrainian-cyber-criminal-gets-five-years-in-jail)
+- [Was Spring4Shell a lot of hot air? No, but...](https://www.computerweekly.com/news/252515701/Was-Spring4Shell-a-lot-of-hot-air-No-but)
+- [IT contractors warned as HMRC draws on ‘IR35-adjacent’ legislation in tax avoidance clampdown](https://www.computerweekly.com/news/252515695/IT-contractors-warned-as-HMRC-draws-on-IR35-adjacent-legislation-in-tax-avoidance-clampdown)
+- [Storage requirements for AI, ML and analytics in 2022](https://www.computerweekly.com/feature/Storage-requirements-for-AI-ML-and-analytics-in-2022)
+- [Why CIOs must prioritise system integration in 2022](https://www.computerweekly.com/opinion/Why-CIOs-Must-Prioritise-System-integration-in-2022)
 - [Goldacre review outlines recommendations on safer use of health data](https://www.computerweekly.com/news/252515702/Goldacre-review-outlines-recommendations-on-safer-use-of-health-data)
 - [Online Safety Bill: Collaborating to make the internet safer for all](https://www.computerweekly.com/opinion/Online-Safety-Bill-Collaborating-to-make-the-internet-safer-for-all)
 - [US shuts down Russia’s Cyclops Blink botnet operation](https://www.computerweekly.com/news/252515694/US-shuts-down-Russias-Cyclops-Blink-botnet-operation)
 - [MPs and editors sound alarm over threat to Freedom of Information](https://www.computerweekly.com/news/252515680/MPs-and-editors-sound-alarm-over-threat-to-Freedom-of-Information)
-- [Amazon workers defeat company to form first US union](https://www.computerweekly.com/news/252515679/Amazon-workers-defeat-company-to-form-first-US-union)
-- [CW Middle East: UAE and UK researchers work on ‘trustworthy’ cloud OS for datacentres](https://www.computerweekly.com/ezine/CW-Middle-East/CW-Middle-East-UAE-and-UK-researchers-work-on-trustworthy-cloud-OS-for-datacentres)
-- [Apple criticised over unpatched CVEs in Catalina, Big Sur](https://www.computerweekly.com/news/252515641/Apple-criticised-over-unpatched-CVEs-in-Catalina-Big-Sur)
-- [Siemens looks at quantum computing to accelerate simulations](https://www.computerweekly.com/news/252515633/Siemens-looks-at-quantum-computing-to-accelerate-simulations)
-- [Denonia malware may be first to target AWS Lambda](https://www.computerweekly.com/news/252515625/Denonia-malware-may-be-first-to-target-AWS-Lambda)
-- [Hydra takedown merely shifts cyber criminal problem elsewhere](https://www.computerweekly.com/news/252515629/Hydra-takedown-merely-shifts-cyber-criminal-problem-elsewhere)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

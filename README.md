@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war latest: Zelenskiy says Borodyanka ‘much worse’ than Bucha; Kremlin admits ‘significant’ troop losses – live](https://www.theguardian.com/world/live/2022/apr/07/russia-ukraine-war-nato-foreign-ministers-to-meet-as-zelenskiy-dismisses-fresh-sanctions-live-news)
-- [NSW floods: man’s body found in south-west Sydney as rivers expected to reach major flood levels](https://www.theguardian.com/australia-news/2022/apr/08/nsw-weather-flood-warnings-evacuation-orders-flood-flooding-hawkesbury-nepean-river-schools-closed-sydney-rain-forecast)
-- [The week the world woke up to Russian war crimes in Ukraine – podcast](https://www.theguardian.com/news/audio/2022/apr/08/the-week-the-world-woke-up-to-russian-war-crimes-ukraine-podcast)
-- [DHL cargo plane splits in two after crash landing at Costa Rica airport](https://www.theguardian.com/world/2022/apr/08/dhl-cargo-plane-splits-in-two-after-crash-landing-at-costa-rica-airport)
-- [Brand or church? How Hillsong is facing a day of reckoning](https://www.theguardian.com/world/2022/apr/08/brand-or-church-how-hillsong-is-facing-a-day-of-reckoning)
-- [Russia-Ukraine war: what we know on day 44 of the invasion](https://www.theguardian.com/world/2022/apr/08/russia-ukraine-war-what-we-know-on-day-44-of-the-invasion)
-- [Ensure waist size is less than half your height, health watchdog says](https://www.theguardian.com/society/2022/apr/08/ensure-waist-size-is-less-than-half-your-height-health-watchdog-says)
-- [UK energy suppliers’ customer service at ‘worst’ level since 2017](https://www.theguardian.com/business/2022/apr/08/uk-energy-suppliers-customer-service-at-worst-level-since-2017-citizens-advice-plummeting-standards)
-- [Scientists make further inroads into reversing ageing process of cells](https://www.theguardian.com/science/2022/apr/08/scientists-make-further-inroads-into-reversing-ageing-process-of-cells)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/blog/2022/apr/08/premier-league-10-things-to-look-out-for-this-weekend)
+- [Russia-Ukraine war latest: children among at least 50 people killed in Kramatorsk train station attack – live](https://www.theguardian.com/world/live/2022/apr/08/russia-ukraine-war-latest-news-zelenskiy-says-borodyanka-much-worse-than-bucha-johnson-to-meet-scholz-live)
+- [Russia-Ukraine war: what we know on day 45 of the invasion](https://www.theguardian.com/world/2022/apr/09/russia-ukraine-war-what-we-know-on-day-45-of-the-invasion)
+- [Tiger Woods writes latest redemption tale as Scheffler surges into Masters lead](https://www.theguardian.com/sport/2022/apr/09/masters-golf-tiger-woods-scottie-scheffler-day-two-report)
+- [Gazza: story of a footballer mercilessly used and abused by tabloid press | Barry Glendenning](https://www.theguardian.com/football/blog/2022/apr/09/gazza-documentary-paul-gascoigne-footballer-tabloid-press)
+- [Mead hits four and White reaches 50 in England’s 10-0 rout of North Macedonia](https://www.theguardian.com/football/2022/apr/08/north-macedonia-england-women-world-cup-qualifying-group-d-match-report)
+- [Ferrero extends recall of Kinder products due to salmonella cases](https://www.theguardian.com/food/2022/apr/08/ferrero-extends-recall-of-kinder-products-due-to-salmonella-cases)
+- [Twenty photographs of the week](https://www.theguardian.com/artanddesign/gallery/2022/apr/08/twenty-photographs-of-the-week)
+- [EU sanctions Alisher Usmanov’s sister](https://www.theguardian.com/world/2022/apr/08/eu-sanctions-alisher-usmanovs-sister)
+- [‘I can’t control it’: Frank Lampard not worried about his Everton future](https://www.theguardian.com/football/2022/apr/08/frank-lampard-everton-future-manchester-united)
+- [Chris Wood penalty sinks Wolves and eases Newcastle’s relegation fears](https://www.theguardian.com/football/2022/apr/08/newcastle-wolves-premier-league-match-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

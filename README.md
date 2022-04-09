@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Canadian security awareness training firm Terranova Security sold to HelpSystems](https://www.itworldcanada.com/article/canadian-security-awareness-training-firm-terranova-security-sold-to-helpsystems/479766)
+- [Cyber Security today, Week in Review for Friday, April 8, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-april-7-2022/479656)
+- [This week in ransomware – Friday, April 7th, 2022](https://www.itworldcanada.com/article/this-week-in-ransomware-friday-april-7th-2022/479694)
+- [Salesforce’s Bret Taylor talks digital transformation, remote work, and Slack](https://www.itworldcanada.com/article/salesforces-bret-taylor-talks-digital-transformation-remote-work-and-slack/479567)
+- [Google, Github propose process to lower the odds of supply chain attacks](https://www.itworldcanada.com/article/google-github-propose-process-to-lower-the-odds-of-supply-chain-attacks/479674)
+- [Cyber Security Today, April 8, 2022 – Software developers admit releasing poor code, product warnings from Palo Alto Networks and VMware, and more](https://www.itworldcanada.com/article/cyber-security-today-april-8-2022-software-developers-admit-releasing-poor-code-product-warnings-from-palo-alto-networks-and-vmware-and-more/479645)
+- [Hashtag Trending April 8 – Chips shortage cuts into GDP; Activision hires 1,100 employees; right to repair gains traction in Europe](https://www.itworldcanada.com/article/hashtag-trending-april-8-chips-shortage-cuts-into-gdp-activision-hires-1100-employees-right-to-repair-gains-traction-in-europe/479685)
 - [Federal Budget 2022: More money for cybersecurity, fighting misinformation](https://www.itworldcanada.com/article/federal-budget-2022-more-money-for-cybersecurity-fighting-misinformation/479659)
 - [Microsoft courts commercial customers with new Windows features](https://www.itworldcanada.com/article/microsoft-courts-commercial-customers-with-new-windows-features/479642)
 - [Payments Canada and TCS partner to implement modernized payments system for Canadians](https://www.itworldcanada.com/article/payments-canada-and-tcs-partner-to-implement-modernized-payments-system-for-canadians/479665)
-- [Blackberry to settle shareholder lawsuit for $165 million](https://www.itworldcanada.com/article/blackberry-to-settle-shareholder-lawsuit-for-165-million/479635)
-- [Governments must fight misinformation on digital ID, say provincial experts](https://www.itworldcanada.com/article/governments-must-fight-misinformation-on-digital-id-say-provincial-experts/479608)
-- [Hashtag Trending April 7 – Google Maps to show tolls; Pinterest combat climate misinformation; new social engineering attack](https://www.itworldcanada.com/article/hashtag-trending-april-7-google-maps-to-show-tolls-pinterest-combat-climate-misinformation-new-social-engineering-attack/479604)
-- [Reports from Square reveal new ways to transform businesses with technology in 2022](https://www.itworldcanada.com/article/reports-from-square-reveal-new-ways-to-transform-businesses-with-technology-in-2022/479597)
-- [Canadian government to introduce law compelling big tech to pay for news](https://www.itworldcanada.com/article/canadian-government-to-introduce-law-compelling-big-tech-to-pay-for-news/479593)
-- [Bell now offers 3 Gbps home internet](https://www.itworldcanada.com/article/bell-now-offers-3-gbps-home-internet/479578)
-- [Canada ‘very far behind’ other countries on digital ID, says federal CIO](https://www.itworldcanada.com/article/canada-very-far-behind-other-countries-on-digital-id-says-federal-cio/479547)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

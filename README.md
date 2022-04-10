@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Always Tell Your Kids the Truth](https://www.outsideonline.com/culture/active-families/tell-your-kids-truth/)
-- [Mozilla Thunderbird Beta now supports Matrix chat](https://matrix.org/blog/2022/04/08/this-week-in-matrix-2022-04-08#thunderbird)
-- [Bill Jolitz has died](https://minnie.tuhs.org/pipermail/tuhs/2022-April/025643.html)
-- [NPM package event-source-polyfill compromised by political activists](https://github.com/Yaffle/EventSource/blob/de137927e13d8afac153d2485152ccec48948a7a/src/eventsource.js)
-- [AI predicts if and when someone will experience cardiac arrest](https://hub.jhu.edu/2022/04/07/trayanova-artificial-intelligence-cardiac-arrhythmia/)
-- [Jango; Free Music Streaming](https://www.jango.com)
-- [Finley &lpar;YC W21&rpar; Is a B2B Fintech Hiring in Engineering and Finance &lpar;US Remote&rpar;](https://www.finleycms.com/work-at-finley)
-- [Dall-E 2 illustrations of Twitter bios](https://twitter.com/nickcammarata/status/1511861061988892675)
-- [Drone footage of Tesla factory](https://twitter.com/alexandrosM/status/1510008990368878592)
-- [A Bitcoin bust that took down the web’s biggest child abuse site](https://www.wired.com/story/tracers-in-the-dark-welcome-to-video-crypto-anonymity-myth/)
+- [Atlassian products have been down for 4 days](https://status.atlassian.com)
+- [SMTP protocol basics from scratch in Go: receiving email from Gmail](https://notes.eatonphil.com/handling-email-from-gmail-smtp-protocol-basics.html)
+- [The Gambler&#39;s Fallacy Is Not a Fallacy](https://www.kevindorst.com/stranger_apologies/the-gamblers-fallacy-is-not-a-fallacy)
+- [What Happens When Twelve Thousand Game Developers Converge?](https://www.newyorker.com/news/letter-from-silicon-valley/what-happens-when-twelve-thousand-game-developers-converge)
+- [A terminal with UI like visual code](https://github.com/zebulon75018/vcterm)
+- [Super Simple Storage Service](http://www.supersimplestorageservice.com/)
+- [A basic introduction to NumPy&#39;s einsum](https://ajcr.net/Basic-guide-to-einsum/)
+- [Quaise Energy – Unlocking the true power of clean geothermal energy](https://www.quaise.energy)
+- [Tesorio &lpar;YC S15&rpar; Is Hiring a Head of Infra and Platform and a VP of Engineering](https://www.tesorio.com/careers#job-openings)
+- [Show HN: tmux.nvim – turning Neovim into a terminal multiplexer](https://github.com/spywhere/tmux.nvim)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

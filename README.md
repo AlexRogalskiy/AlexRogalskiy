@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war latest: children among at least 50 people killed in Kramatorsk train station attack – live](https://www.theguardian.com/world/live/2022/apr/08/russia-ukraine-war-latest-news-zelenskiy-says-borodyanka-much-worse-than-bucha-johnson-to-meet-scholz-live)
-- [Russia-Ukraine war: what we know on day 45 of the invasion](https://www.theguardian.com/world/2022/apr/09/russia-ukraine-war-what-we-know-on-day-45-of-the-invasion)
-- [Tiger Woods writes latest redemption tale as Scheffler surges into Masters lead](https://www.theguardian.com/sport/2022/apr/09/masters-golf-tiger-woods-scottie-scheffler-day-two-report)
-- [Gazza: story of a footballer mercilessly used and abused by tabloid press | Barry Glendenning](https://www.theguardian.com/football/blog/2022/apr/09/gazza-documentary-paul-gascoigne-footballer-tabloid-press)
-- [Mead hits four and White reaches 50 in England’s 10-0 rout of North Macedonia](https://www.theguardian.com/football/2022/apr/08/north-macedonia-england-women-world-cup-qualifying-group-d-match-report)
-- [Ferrero extends recall of Kinder products due to salmonella cases](https://www.theguardian.com/food/2022/apr/08/ferrero-extends-recall-of-kinder-products-due-to-salmonella-cases)
-- [Twenty photographs of the week](https://www.theguardian.com/artanddesign/gallery/2022/apr/08/twenty-photographs-of-the-week)
-- [EU sanctions Alisher Usmanov’s sister](https://www.theguardian.com/world/2022/apr/08/eu-sanctions-alisher-usmanovs-sister)
-- [‘I can’t control it’: Frank Lampard not worried about his Everton future](https://www.theguardian.com/football/2022/apr/08/frank-lampard-everton-future-manchester-united)
-- [Chris Wood penalty sinks Wolves and eases Newcastle’s relegation fears](https://www.theguardian.com/football/2022/apr/08/newcastle-wolves-premier-league-match-report)
+- [Russia-Ukraine war latest: Boris Johnson makes surprise trip to Kyiv for talks with Volodymyr Zelenskiy – live](https://www.theguardian.com/world/live/2022/apr/09/russia-ukraine-war-latest-zelenskiy-calls-for-firm-global-response-to-war-at-kramatorsk-train-station-live)
+- [Russia-Ukraine war: what we know on day 46 of the invasion](https://www.theguardian.com/world/2022/apr/10/russia-ukraine-war-what-we-know-on-day-46-of-the-invasion)
+- [After fires, floods and a pandemic, Australians once again head to national election](https://www.theguardian.com/australia-news/2022/apr/10/after-fires-floods-and-a-pandemic-australians-once-again-head-to-national-election)
+- [Australian election 2022: Scott Morrison calls federal election for 21 May](https://www.theguardian.com/australia-news/2022/apr/10/australian-election-2022-called-australian-prime-minister-scott-morrison-may-21)
+- [Scheffler keeps Masters challengers at bay but Smith gives himself a shot](https://www.theguardian.com/sport/2022/apr/10/masters-frontrunner-scottie-scheffler-faces-challenge-from-cameron-smith)
+- [How to wear hot pink: this season’s most stylish colour](https://www.theguardian.com/fashion/2022/apr/09/how-to-wear-hot-pink-this-seasons-most-stylish-colour)
+- [Knock on wood: 12 of the best clogs for spring – in pictures](https://www.theguardian.com/fashion/gallery/2022/apr/09/knock-on-wood-12-of-the-best-clogs-for-spring-in-pictures)
+- [Cristiano Ronaldo apologises for mobile phone incident at Everton](https://www.theguardian.com/football/2022/apr/09/cristiano-ronaldo-apologises-for-mobile-phone-incident-at-everton)
+- [Jack White marries musician Olivia Jean in on-stage surprise](https://www.theguardian.com/music/2022/apr/09/jack-white-marries-olivia-jean-on-stage-surprise)
+- [Sam Waley-Cohen writes National fairytale after starring in royal romance | Sean Ingle](https://www.theguardian.com/sport/blog/2022/apr/09/sam-waley-cohen-signs-off-at-the-top-after-ride-of-a-lifetime-on-noble-yeats)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

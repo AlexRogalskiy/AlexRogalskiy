@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Calming Your Brain During Conflict](https://hbr.org/2015/12/calming-your-brain-during-conflict)
-- [Ask HN: What are some worthy high-level goals for humankind?](https://news.ycombinator.com/item?id=30964772)
-- [Privacy Is a Fun Game](https://belkarx.github.io/posts/finished/Privacy%20is%20a%20Fun%20Game.html)
-- [Polybius - the videogame that doesn&#39;t exist](https://en.wikipedia.org/wiki/Polybius_(urban_legend))
-- [How Accurate Is Smartwatch Heart Data Tracking? It Depends on Your Skin Tone](https://scitechdaily.com/how-accurate-is-smartwatch-heart-data-tracking-it-depends-on-your-skin-tone/)
-- [A virtual way to rehab from a stroke](https://showme.missouri.edu/2022/a-virtual-way-to-rehab-from-a-stroke/)
-- [Hundreds fitted with artificial pancreas in NHS type 1 diabetes trial](https://www.theguardian.com/society/2022/apr/01/hundreds-fitted-with-artificial-pancreas-in-nhs-type-1-diabetes-trial)
-- [Ask HN: How do you deal with performance anxiety in coding interviews?](https://news.ycombinator.com/item?id=30964748)
-- [Would You Eat a Burger Made in a Vending Machine? People in New Jersey Are](https://www.usatoday.com/story/money/food/2022/03/30/burger-vending-machine-robot/7215167001/)
-- [Scientists find leg of dinosaur that was killed by the great asteroid](https://m.jpost.com/archaeology/article-703635)
+- [Convert Twitter SF HQ to homeless shelter since no one shows up anyway](https://twitter.com/elonmusk/status/1512966135423066116)
+- [FlowRun – Runnable Flowcharts in Browser](https://flowrun.io/)
+- [Pyinfra v2.0 Released](https://github.com/Fizzadar/pyinfra/releases/tag/v2.0)
+- [The Rankings Farce](https://www.chronicle.com/article/the-rankings-farce)
+- [Ask HN: What creative field will be safe from AI?](https://news.ycombinator.com/item?id=30973913)
+- [How is the free firmware for the RaspberryPi progressing?](http://gwolf.org/2022/04/how-is-the-free-firmware-for-the-raspberry-progressing.html)
+- [Show HN: New course on practical deep learning](https://corise.com/course/data-centric-deep-learning)
+- [Harder Drive: Hard drives we didn&#39;t want or need](http://tom7.org/harder/)
+- [Ask HN: Cross-Platform CI?](https://news.ycombinator.com/item?id=30973850)
+- [As Climate Fears Mount, Some Are Relocating Within the US](https://www.wired.com/story/as-climate-fears-mount-some-are-relocating-within-the-us/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

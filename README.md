@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Graduating in a few weeks](https://www.reddit.com/r/InformationTechnology/comments/u0s8y4/graduating_in_a_few_weeks/)
+- [Memory Leak?](https://www.reddit.com/r/InformationTechnology/comments/u0p680/memory_leak/)
+- [About to start IT Associate Degree](https://www.reddit.com/r/InformationTechnology/comments/u0lunx/about_to_start_it_associate_degree/)
+- [ABBYY FINE READER 15 PRO APRENDE A DESCARGARLO, INSTALARLO Y ACTIVARLO D...](https://www.reddit.com/r/InformationTechnology/comments/u0b5n2/abbyy_fine_reader_15_pro_aprende_a_descargarlo/)
 - [Best online MS ISM programs?](https://www.reddit.com/r/InformationTechnology/comments/tzzshi/best_online_ms_ism_programs/)
 - [Stubborn Dell Monitor](https://www.reddit.com/r/InformationTechnology/comments/tzozjx/stubborn_dell_monitor/)
 - [people who have taken coursera IT courses how much did it help you on the CompTIA](https://www.reddit.com/r/InformationTechnology/comments/tzdvr4/people_who_have_taken_coursera_it_courses_how/)
 - [Become the Low Voltage contractor for new stores](https://www.reddit.com/r/InformationTechnology/comments/tzbfey/become_the_low_voltage_contractor_for_new_stores/)
 - [Does anyone pay for used toner cartridges and drums?](https://www.reddit.com/r/InformationTechnology/comments/tzav8c/does_anyone_pay_for_used_toner_cartridges_and/)
 - [Question](https://www.reddit.com/r/InformationTechnology/comments/tzajna/question/)
-- [Question](https://www.reddit.com/r/InformationTechnology/comments/tzajf4/question/)
-- [Question](https://www.reddit.com/r/InformationTechnology/comments/tzaj52/question/)
-- [IT Question](https://www.reddit.com/r/InformationTechnology/comments/tzair9/it_question/)
-- [IT Question](https://www.reddit.com/r/InformationTechnology/comments/tzaihq/it_question/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

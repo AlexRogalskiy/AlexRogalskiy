@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war latest: Boris Johnson makes surprise trip to Kyiv for talks with Volodymyr Zelenskiy – live](https://www.theguardian.com/world/live/2022/apr/09/russia-ukraine-war-latest-zelenskiy-calls-for-firm-global-response-to-war-at-kramatorsk-train-station-live)
-- [Russia-Ukraine war: what we know on day 46 of the invasion](https://www.theguardian.com/world/2022/apr/10/russia-ukraine-war-what-we-know-on-day-46-of-the-invasion)
-- [After fires, floods and a pandemic, Australians once again head to national election](https://www.theguardian.com/australia-news/2022/apr/10/after-fires-floods-and-a-pandemic-australians-once-again-head-to-national-election)
-- [Australian election 2022: Scott Morrison calls federal election for 21 May](https://www.theguardian.com/australia-news/2022/apr/10/australian-election-2022-called-australian-prime-minister-scott-morrison-may-21)
-- [Scheffler keeps Masters challengers at bay but Smith gives himself a shot](https://www.theguardian.com/sport/2022/apr/10/masters-frontrunner-scottie-scheffler-faces-challenge-from-cameron-smith)
-- [How to wear hot pink: this season’s most stylish colour](https://www.theguardian.com/fashion/2022/apr/09/how-to-wear-hot-pink-this-seasons-most-stylish-colour)
-- [Knock on wood: 12 of the best clogs for spring – in pictures](https://www.theguardian.com/fashion/gallery/2022/apr/09/knock-on-wood-12-of-the-best-clogs-for-spring-in-pictures)
-- [Cristiano Ronaldo apologises for mobile phone incident at Everton](https://www.theguardian.com/football/2022/apr/09/cristiano-ronaldo-apologises-for-mobile-phone-incident-at-everton)
-- [Jack White marries musician Olivia Jean in on-stage surprise](https://www.theguardian.com/music/2022/apr/09/jack-white-marries-olivia-jean-on-stage-surprise)
-- [Sam Waley-Cohen writes National fairytale after starring in royal romance | Sean Ingle](https://www.theguardian.com/sport/blog/2022/apr/09/sam-waley-cohen-signs-off-at-the-top-after-ride-of-a-lifetime-on-noble-yeats)
+- [Russia-Ukraine war latest: Putin appoints new war commander; Zelenskiy welcomes favourable shift in German stance – live](https://www.theguardian.com/world/live/2022/apr/10/russia-ukraine-war-latest-zelenskiy-pushes-for-oil-embargo-to-curb-russias-sense-of-impunity-uk-pledges-to-send-more-arms-live)
+- [The insect crisis: where did all the bugs go? – podcast](https://www.theguardian.com/news/audio/2022/apr/11/insect-crisis-where-did-all-the-bugs-go-podcast)
+- [New Caledonia leader calls for France to grant independence vote to counter China’s ‘omnipresence’ in Pacific](https://www.theguardian.com/world/2022/apr/11/new-caledonia-leader-calls-for-france-to-grant-independence-vote-to-counter-chinas-omnipresence-in-pacific)
+- [Sri Lanka nearly out of medicine as doctors warn toll from crisis could surpass Covid](https://www.theguardian.com/world/2022/apr/11/sri-lanka-nearly-out-of-medicine-as-doctors-warn-toll-from-crisis-could-surpass-covid)
+- [‘My worst nightmare and my biggest dream!’ The Olivier awards’ best quotes](https://www.theguardian.com/stage/2022/apr/11/olivier-awards-best-quotes-jessie-buckley-eddie-redmayne-ceremony)
+- [DIY waste disposal will no longer incur charge under new plans](https://www.theguardian.com/environment/2022/apr/11/diy-waste-disposal-charges-england-wales-fly-tipping)
+- [RAC warns of busiest Easter on UK roads in at least eight years](https://www.theguardian.com/uk-news/2022/apr/11/rac-warns-busiest-easter-uk-roads)
+- [Scottie Scheffler holds nerve to win Masters after Rory McIlroy’s late surge](https://www.theguardian.com/sport/2022/apr/11/golf-masters-scottie-scheffler-wins-rory-mcilroy-second-report)
+- [Chris Bailey, lead singer of Australian band the Saints, dies](https://www.theguardian.com/music/2022/apr/11/chris-bailey-leader-singer-of-legendary-australian-band-the-saints-dies)
+- [France faces bruising runoff after Macron and Le Pen top first-round vote](https://www.theguardian.com/world/2022/apr/10/macron-on-28-to-le-pens-23-in-first-round-projected-french-election-results)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

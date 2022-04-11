@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Atlassian products have been down for 4 days](https://status.atlassian.com)
-- [SMTP protocol basics from scratch in Go: receiving email from Gmail](https://notes.eatonphil.com/handling-email-from-gmail-smtp-protocol-basics.html)
-- [The Gambler&#39;s Fallacy Is Not a Fallacy](https://www.kevindorst.com/stranger_apologies/the-gamblers-fallacy-is-not-a-fallacy)
-- [What Happens When Twelve Thousand Game Developers Converge?](https://www.newyorker.com/news/letter-from-silicon-valley/what-happens-when-twelve-thousand-game-developers-converge)
-- [A terminal with UI like visual code](https://github.com/zebulon75018/vcterm)
-- [Super Simple Storage Service](http://www.supersimplestorageservice.com/)
-- [A basic introduction to NumPy&#39;s einsum](https://ajcr.net/Basic-guide-to-einsum/)
-- [Quaise Energy – Unlocking the true power of clean geothermal energy](https://www.quaise.energy)
-- [Tesorio &lpar;YC S15&rpar; Is Hiring a Head of Infra and Platform and a VP of Engineering](https://www.tesorio.com/careers#job-openings)
-- [Show HN: tmux.nvim – turning Neovim into a terminal multiplexer](https://github.com/spywhere/tmux.nvim)
+- [Conflict-Free Replicated Data Types &lpar;CRDT&rpar;](https://crdt.tech/)
+- [Van life &lpar;cancer edition&rpar; finale](https://imgur.com/gallery/prUy1Kt)
+- [Ask HN: What hyper-focused industry newsletters do you enjoy?](https://news.ycombinator.com/item?id=30983517)
+- [Noise Pollution Hurts the Heart](https://knowablemagazine.org/article/health-disease/2021/how-noise-pollution-affects-heart-health)
+- [The $11BN Tunnel Connecting Scandinavia to the Mediterranean](https://www.youtube.com/watch?v=30foJiPUrBA)
+- [What I learned from making a DNS client in Rust](https://blog.adamchalmers.com/making-a-dns-client/)
+- [Iced – A cross-platform GUI library for Rust, inspired by Elm](https://github.com/iced-rs/iced)
+- [Internet Mail 2000](https://cr.yp.to/im2000.html)
+- [My Mathematics PhD research workflow: LaTeX notes and instant pdf referencing](https://castel.dev/post/research-workflow/)
+- [C72: A port of the earliest C compiler to x86 &lpar;2021&rpar;](https://github.com/vegesm/c72)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

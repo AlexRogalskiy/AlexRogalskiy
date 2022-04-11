@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Convert Twitter SF HQ to homeless shelter since no one shows up anyway](https://twitter.com/elonmusk/status/1512966135423066116)
-- [FlowRun – Runnable Flowcharts in Browser](https://flowrun.io/)
-- [Pyinfra v2.0 Released](https://github.com/Fizzadar/pyinfra/releases/tag/v2.0)
-- [The Rankings Farce](https://www.chronicle.com/article/the-rankings-farce)
-- [Ask HN: What creative field will be safe from AI?](https://news.ycombinator.com/item?id=30973913)
-- [How is the free firmware for the RaspberryPi progressing?](http://gwolf.org/2022/04/how-is-the-free-firmware-for-the-raspberry-progressing.html)
-- [Show HN: New course on practical deep learning](https://corise.com/course/data-centric-deep-learning)
-- [Harder Drive: Hard drives we didn&#39;t want or need](http://tom7.org/harder/)
-- [Ask HN: Cross-Platform CI?](https://news.ycombinator.com/item?id=30973850)
-- [As Climate Fears Mount, Some Are Relocating Within the US](https://www.wired.com/story/as-climate-fears-mount-some-are-relocating-within-the-us/)
+- [BTFS 2.0 – Scalable Decentralized Storage System](https://btfs.io/#/)
+- [Ask HN: Tips on finding mentors?](https://news.ycombinator.com/item?id=30984016)
+- [Ask HN: Is joining AWS a bad idea? &lpar;MSFT, Oracle options&rpar;](https://news.ycombinator.com/item?id=30983983)
+- [Politics as Vocation &lpar;1921&rpar; [pdf]](http://fs2.american.edu/dfagel/www/Class%20Readings/Weber/PoliticsAsAVocation.pdf)
+- [It’s Not About “Faith”](https://terikanefield.com/its-not-about-faith/)
+- [Rand&lpar;&rpar; on OpenBSD Is Random](http://man.openbsd.org/rand)
+- [About Read Something Interesting](https://readsomethinginteresting.com/about)
+- [Ukraine’s Tanks Are So Good, Its Own Army Can’t Afford Them](https://en.hromadske.ua/posts/ukraines-tanks-are-so-good-its-own-army-cant-afford-them)
+- [Solo Founders Should Do a Spring Cleaning of Their Business](https://twitter.com/seb_g/status/1513340549348175877)
+- [I track my death for a year- This is what I learned](https://www.linkedin.com/pulse/i-track-my-death-year-what-learned-adam-maddock)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

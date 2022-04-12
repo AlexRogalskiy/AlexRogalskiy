@@ -414,6 +414,7 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [If your IT job was a fighting video game, what would be your super moves? For example, mines would be is Control + Alt+ Delete](https://www.reddit.com/r/InformationTechnology/comments/u1en9s/if_your_it_job_was_a_fighting_video_game_what/)
 - [Graduating in a few weeks](https://www.reddit.com/r/InformationTechnology/comments/u0s8y4/graduating_in_a_few_weeks/)
 - [Memory Leak?](https://www.reddit.com/r/InformationTechnology/comments/u0p680/memory_leak/)
 - [About to start IT Associate Degree](https://www.reddit.com/r/InformationTechnology/comments/u0lunx/about_to_start_it_associate_degree/)
@@ -423,7 +424,6 @@
 - [people who have taken coursera IT courses how much did it help you on the CompTIA](https://www.reddit.com/r/InformationTechnology/comments/tzdvr4/people_who_have_taken_coursera_it_courses_how/)
 - [Become the Low Voltage contractor for new stores](https://www.reddit.com/r/InformationTechnology/comments/tzbfey/become_the_low_voltage_contractor_for_new_stores/)
 - [Does anyone pay for used toner cartridges and drums?](https://www.reddit.com/r/InformationTechnology/comments/tzav8c/does_anyone_pay_for_used_toner_cartridges_and/)
-- [Question](https://www.reddit.com/r/InformationTechnology/comments/tzajna/question/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

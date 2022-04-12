@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Border IT system fixed after 10-day outage](https://www.computerweekly.com/news/252515805/Border-IT-system-fixed-after-10-day-outage)
+- [Open source CMS platform Directus patches XSS bug](https://www.computerweekly.com/news/252515804/Open-source-CMS-platform-Directus-patches-XSS-bug)
+- [Gartner: Six key executive-CIO conversations to help AI succeed](https://www.computerweekly.com/opinion/Gartner-Six-key-executive-CIO-conversations-to-help-AI-succeed)
+- [Building distributed systems requires effective developer teams](https://www.computerweekly.com/opinion/Building-distributed-systems-requires-effective-developer-teams)
+- [We must target a broad church to fill vacant cyber roles](https://www.computerweekly.com/opinion/We-must-target-a-broad-church-to-fill-vacant-cyber-roles)
+- [Energy crisis impact on datacentre market – Computer Weekly Downtime Upload podcast](https://www.computerweekly.com/podcast/Energy-crisis-impact-on-datacentre-market-Computer-Weekly-Downtime-Upload-podcast)
+- [Raspberry Pi Foundation ditches default username policy](https://www.computerweekly.com/news/252515795/Raspberry-Pi-Foundation-ditches-default-username-policy)
+- [Nordic countries discuss joint cyber defence capability](https://www.computerweekly.com/news/252515733/Nordics-discuss-joint-cyber-defence-capability)
+- [The role of infrastructure as code in edge datacentre computing](https://www.computerweekly.com/feature/The-role-of-infrastructure-as-code-in-edge-datacentre-computing)
 - [EncroChat: France says ‘defence secrecy’ in police surveillance operations is constitutional](https://www.computerweekly.com/news/252515739/EncroChat-France-says-defence-secrecy-in-police-surveillance-operations-is-constitutional)
-- [Ukrainian cyber criminal gets five years in jail](https://www.computerweekly.com/news/252515737/Ukrainian-cyber-criminal-gets-five-years-in-jail)
-- [Was Spring4Shell a lot of hot air? No, but...](https://www.computerweekly.com/news/252515701/Was-Spring4Shell-a-lot-of-hot-air-No-but)
-- [IT contractors warned as HMRC draws on ‘IR35-adjacent’ legislation in tax avoidance clampdown](https://www.computerweekly.com/news/252515695/IT-contractors-warned-as-HMRC-draws-on-IR35-adjacent-legislation-in-tax-avoidance-clampdown)
-- [Storage requirements for AI, ML and analytics in 2022](https://www.computerweekly.com/feature/Storage-requirements-for-AI-ML-and-analytics-in-2022)
-- [Why CIOs must prioritise system integration in 2022](https://www.computerweekly.com/opinion/Why-CIOs-Must-Prioritise-System-integration-in-2022)
-- [Goldacre review outlines recommendations on safer use of health data](https://www.computerweekly.com/news/252515702/Goldacre-review-outlines-recommendations-on-safer-use-of-health-data)
-- [Online Safety Bill: Collaborating to make the internet safer for all](https://www.computerweekly.com/opinion/Online-Safety-Bill-Collaborating-to-make-the-internet-safer-for-all)
-- [US shuts down Russia’s Cyclops Blink botnet operation](https://www.computerweekly.com/news/252515694/US-shuts-down-Russias-Cyclops-Blink-botnet-operation)
-- [MPs and editors sound alarm over threat to Freedom of Information](https://www.computerweekly.com/news/252515680/MPs-and-editors-sound-alarm-over-threat-to-Freedom-of-Information)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

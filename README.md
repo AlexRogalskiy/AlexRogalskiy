@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war latest: Putin appoints new war commander; Zelenskiy welcomes favourable shift in German stance – live](https://www.theguardian.com/world/live/2022/apr/10/russia-ukraine-war-latest-zelenskiy-pushes-for-oil-embargo-to-curb-russias-sense-of-impunity-uk-pledges-to-send-more-arms-live)
-- [The insect crisis: where did all the bugs go? – podcast](https://www.theguardian.com/news/audio/2022/apr/11/insect-crisis-where-did-all-the-bugs-go-podcast)
-- [New Caledonia leader calls for France to grant independence vote to counter China’s ‘omnipresence’ in Pacific](https://www.theguardian.com/world/2022/apr/11/new-caledonia-leader-calls-for-france-to-grant-independence-vote-to-counter-chinas-omnipresence-in-pacific)
-- [Sri Lanka nearly out of medicine as doctors warn toll from crisis could surpass Covid](https://www.theguardian.com/world/2022/apr/11/sri-lanka-nearly-out-of-medicine-as-doctors-warn-toll-from-crisis-could-surpass-covid)
-- [‘My worst nightmare and my biggest dream!’ The Olivier awards’ best quotes](https://www.theguardian.com/stage/2022/apr/11/olivier-awards-best-quotes-jessie-buckley-eddie-redmayne-ceremony)
-- [DIY waste disposal will no longer incur charge under new plans](https://www.theguardian.com/environment/2022/apr/11/diy-waste-disposal-charges-england-wales-fly-tipping)
-- [RAC warns of busiest Easter on UK roads in at least eight years](https://www.theguardian.com/uk-news/2022/apr/11/rac-warns-busiest-easter-uk-roads)
-- [Scottie Scheffler holds nerve to win Masters after Rory McIlroy’s late surge](https://www.theguardian.com/sport/2022/apr/11/golf-masters-scottie-scheffler-wins-rory-mcilroy-second-report)
-- [Chris Bailey, lead singer of Australian band the Saints, dies](https://www.theguardian.com/music/2022/apr/11/chris-bailey-leader-singer-of-legendary-australian-band-the-saints-dies)
-- [France faces bruising runoff after Macron and Le Pen top first-round vote](https://www.theguardian.com/world/2022/apr/10/macron-on-28-to-le-pens-23-in-first-round-projected-french-election-results)
+- [Russia-Ukraine war latest: Zelenskiy voices concern at possible chemical weapons attack in ‘new stage of terror’ – live](https://www.theguardian.com/world/live/2022/apr/11/russia-ukraine-war-latest-austrian-chancellor-to-meet-putin-ukraine-prepares-for-fresh-onslaught-in-east-live)
+- [US orders some consulate staff to leave Shanghai as China Covid outbreak worsens](https://www.theguardian.com/world/2022/apr/12/us-orders-some-consulate-staff-to-leave-shanghai-as-china-covid-outbreak-worsens)
+- [Who gets to decide the future of Channel 4?](https://www.theguardian.com/news/audio/2022/apr/12/who-gets-to-decide-the-future-of-channel-4)
+- [Headaches: are you one of the one in six people suffering today?](https://www.theguardian.com/lifeandstyle/2022/apr/12/headaches-are-you-one-of-the-one-in-six-people-suffering-today)
+- [MPs urge police forces in England and Wales to have specialist rape investigators](https://www.theguardian.com/uk-news/2022/apr/11/put-teams-on-all-police-forces-in-england-and-wales-say-mps)
+- [Foraging takes hold in New Zealand’s wild places](https://www.theguardian.com/world/2022/apr/12/foraging-takes-hold-in-new-zealands-wild-places)
+- [Backlash in Osaka as ‘Dream Island’ leads race to open Japan’s first casino](https://www.theguardian.com/world/2022/apr/12/japan-first-casino-osaka-backlash-gambling)
+- [Dozens killed in Philippines landslides and floods as tropical storm Megi hits](https://www.theguardian.com/world/2022/apr/12/tropical-storm-megi-philippines-deaths-landslides-floods)
+- [Retail sales slide as UK consumer confidence sinks to record low](https://www.theguardian.com/business/2022/apr/12/retail-sales-slide-as-uk-consumer-confidence-sinks-to-record-low)
+- [C of E procedures on racial injustice ‘inadequate’, says Cambridge college](https://www.theguardian.com/world/2022/apr/12/c-of-e-procedures-on-racial-injustice-inadequate-says-cambridge-college)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

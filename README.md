@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Conflict-Free Replicated Data Types &lpar;CRDT&rpar;](https://crdt.tech/)
-- [Van life &lpar;cancer edition&rpar; finale](https://imgur.com/gallery/prUy1Kt)
-- [Ask HN: What hyper-focused industry newsletters do you enjoy?](https://news.ycombinator.com/item?id=30983517)
-- [Noise Pollution Hurts the Heart](https://knowablemagazine.org/article/health-disease/2021/how-noise-pollution-affects-heart-health)
-- [The $11BN Tunnel Connecting Scandinavia to the Mediterranean](https://www.youtube.com/watch?v=30foJiPUrBA)
-- [What I learned from making a DNS client in Rust](https://blog.adamchalmers.com/making-a-dns-client/)
-- [Iced – A cross-platform GUI library for Rust, inspired by Elm](https://github.com/iced-rs/iced)
-- [Internet Mail 2000](https://cr.yp.to/im2000.html)
-- [My Mathematics PhD research workflow: LaTeX notes and instant pdf referencing](https://castel.dev/post/research-workflow/)
-- [C72: A port of the earliest C compiler to x86 &lpar;2021&rpar;](https://github.com/vegesm/c72)
+- [Google announced its free ACME server](https://cloud.google.com/blog/products/identity-security/automate-public-certificate-lifecycle-management-via--acme-client-api)
+- [The Endgames of Bad Faith Communication](https://consilienceproject.org/endgames-of-bad-communication/)
+- [The Apple-1&#39;s shift-register memory](https://www.righto.com/2022/04/inside-apple-1s-shift-register-memory.html)
+- [Get familiar with workspaces](https://go.dev/blog/get-familiar-with-workspaces)
+- [HireArt &lpar;YC W12&rpar; is Hiring an Engineering Manager](https://www.hireart.com/jobs/cc2f8093/apply?utm_source=hackernews)
+- [Medusa is a device that allows connecting of old computers to modern displays](http://medusa-sc.org/index.php?title=Description)
+- [Europe is investing heavily in trains](https://www.nytimes.com/2022/04/05/travel/europe-trains.html)
+- [Impressions from a first-time Mac user](https://loganmarchione.com/2022/04/impressions-from-a-first-time-mac-user/)
+- [Intuit asked Mailchimp employees to pay medical costs out of pocket](https://twitter.com/dvsch/status/1458813237651247109)
+- [Show HN: Multiplayer Demo Built with Elixir](https://multiplayer.dev)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

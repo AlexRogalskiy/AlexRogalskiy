@@ -384,16 +384,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Perforce to acquire infrastructure as code pioneer Puppet](https://www.infoworld.com/article/3656734/perforce-to-acquire-infrastructure-as-code-pioneer-puppet.html#tk.rss_all)
+- [InfoWorld’s 2022 Technology of the Year Award winners](https://www.infoworld.com/article/3656692/infoworlds-2022-technology-of-the-year-award-winners.html#tk.rss_all)
+- [So you want to change cloud providers](https://www.infoworld.com/article/3656632/so-you-want-to-change-cloud-providers.html#tk.rss_all)
+- [Use of consumption apps in the enterprise](https://www.infoworld.com/article/3656631/use-of-consumption-apps-in-the-enterprise.html#tk.rss_all)
 - [Redwood web framework hits 1.0 release milestone](https://www.infoworld.com/article/3657049/redwood-web-framework-hits-10-release-milestone.html#tk.rss_all)
 - [GitHub enhances secret scanning for tighter code security](https://www.infoworld.com/article/3656949/github-enhances-secret-scanning-for-tighter-code-security.html#tk.rss_all)
 - [A closer look at traditional solutions and cloud](https://www.infoworld.com/article/3656791/a-closer-look-at-traditional-solutions-and-cloud.html#tk.rss_all)
 - [A brief history of the agile methodology](https://www.infoworld.com/article/3655646/a-brief-history-of-the-agile-methodology.html#tk.rss_all)
 - [What’s new in Rust 1.60](https://www.infoworld.com/article/3267624/whats-new-in-the-rust-language.html#tk.rss_all)
 - [Databricks targets data pipeline automation with Delta Live Tables](https://www.infoworld.com/article/3656909/databricks-targets-data-pipeline-automation-with-delta-live-tables.html#tk.rss_all)
-- [Software testing: Automating installations and functional tests](https://www.infoworld.com/article/3655954/software-testing-automating-installations-and-functional-tests.html#tk.rss_all)
-- [Intro to Hilla: The full-stack Java framework](https://www.infoworld.com/article/3655139/intro-to-hilla-the-full-stack-java-framework.html#tk.rss_all)
-- [Rust 2024 roadmap focuses on developer ease of use](https://www.infoworld.com/article/3656728/rust-2024-roadmap-focuses-on-developer-ease-of-use.html#tk.rss_all)
-- [What is agile methodology? Modern software development explained](https://www.infoworld.com/article/3237508/what-is-agile-methodology-modern-software-development-explained.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

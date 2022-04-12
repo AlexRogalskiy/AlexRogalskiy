@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [What to do about IE and .NET?](https://www.computerworld.com/article/3657054/what-to-do-about-ie-and-net.html#tk.rss_all)
+- [WWDC: It&#39;s all about the Four Ps — performance, parity, platforms, and partnership](https://www.computerworld.com/article/3656656/wwdc-its-all-about-the-four-ps-performance-parity-platforms-and-partnership.html#tk.rss_all)
+- [PC sales start to slow after two years of pandemic-driven growth](https://www.computerworld.com/article/3657051/pc-sales-start-to-slow-after-two-years-of-pandemic-driven-growth.html#tk.rss_all)
+- [We’re one step closer to Windows in the cloud](https://www.computerworld.com/article/3656694/we-re-one-step-closer-to-windows-in-the-cloud.html#tk.rss_all)
+- [Noteworthy tech acquisitions 2022](https://www.computerworld.com/article/3646533/noteworthy-tech-acquisitions-2022.html#tk.rss_all)
 - [4 buried treasures that&#39;ll transform your Chrome OS experience](https://www.computerworld.com/article/3656409/chrome-os-treasures.html#tk.rss_all)
 - [WWDC: Apple&#39;s call to code and the no-code future](https://www.computerworld.com/article/3656908/wwdc-apples-call-to-code-and-the-no-code-future.html#tk.rss_all)
 - [Intel suspends all operations in Russia](https://www.networkworld.com/article/3656630/intel-suspends-all-operations-in-russia.html#tk.rss_all)
 - [Don&#39;t look now, but the blue-collar remote work revolution is coming](https://www.computerworld.com/article/3655638/dont-look-now-but-the-blue-collar-remote-work-revolution-is-coming.html#tk.rss_all)
-- [Noteworthy tech acquisitions 2022](https://www.computerworld.com/article/3646533/noteworthy-tech-acquisitions-2022.html#tk.rss_all)
 - [Windows 11 — we haven’t seen anything, yet](https://www.computerworld.com/article/3656609/windows-11-we-havent-seen-anything-yet.html#tk.rss_all)
-- [As employees return to the office, connectivity remains a concern](https://www.computerworld.com/article/3655647/as-employees-return-to-the-office-connectivity-remains-a-concern.html#tk.rss_all)
-- [Atlassian adds &#39;Compass&#39; and &#39;Atlas&#39; for devs, collaboration teams](https://www.computerworld.com/article/3656410/atlassian-adds-compass-and-atlas-for-devs-collaboration-teams.html#tk.rss_all)
-- [What will, might and could happen at Apple&#39;s hybrid WWDC event](https://www.computerworld.com/article/3655998/what-will-might-and-could-happen-at-apples-hybrid-wwdc-event.html#tk.rss_all)
-- [Microsoft touts new hybrid work features in updates to Windows 11](https://www.computerworld.com/article/3655747/microsoft-touts-new-hybrid-work-features-in-updates-to-windows-11.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

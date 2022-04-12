@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [HPE’s space computer completes 24 experiments on the ISS](https://www.itworldcanada.com/article/hpes-space-computer-completes-24-experiments-on-the-iss/479688)
+- [Shopify announces a 10-for-1 stock split](https://www.itworldcanada.com/article/shopify-announces-a-10-for-1-stock-split/479859)
+- [Unihertz tease: a BlackBerry-like phone with keyboard](https://www.itworldcanada.com/article/unihertz-tease-a-blackberry-like-phone-with-keyboard/479853)
+- [Canada’s foodservice industry to get its first metaverse marketplace](https://www.itworldcanada.com/article/canadas-foodservice-industry-to-get-its-first-metaverse-marketplace/479826)
+- [You can automate more processes than you think](https://www.itworldcanada.com/article/you-can-automate-more-processes-than-you-think/479794)
+- [Panasonic Canada acknowledges cyberattack in February](https://www.itworldcanada.com/article/panasonic-canada-acknowledges-cyberattack-in-february/479825)
+- [Elon Musk rejects offer to be on Twitter’s board of directors](https://www.itworldcanada.com/article/elon-musk-rejects-offer-to-be-on-twitters-board-of-directors/479808)
+- [Hashtag Trending April 11 – Return of in-person workplace; Self-repair for Google phones; FedEx’s new drone](https://www.itworldcanada.com/article/hashtag-trending-april-11-return-of-in-person-workplace-self-repair-for-google-phones-fedexs-new-drone/479791)
+- [Cyber Security Today, April 11, 2022 -Malware aimed at the Spring Java framework, AWS Lambda and in Android apps](https://www.itworldcanada.com/article/cyber-security-today-april-11-2022-malware-aimed-at-the-spring-java-framework-aws-lambda-and-in-android-apps/479778)
 - [Canadian security awareness training firm Terranova Security sold to HelpSystems](https://www.itworldcanada.com/article/canadian-security-awareness-training-firm-terranova-security-sold-to-helpsystems/479766)
-- [Cyber Security today, Week in Review for Friday, April 8, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-april-7-2022/479656)
-- [This week in ransomware – Friday, April 7th, 2022](https://www.itworldcanada.com/article/this-week-in-ransomware-friday-april-7th-2022/479694)
-- [Salesforce’s Bret Taylor talks digital transformation, remote work, and Slack](https://www.itworldcanada.com/article/salesforces-bret-taylor-talks-digital-transformation-remote-work-and-slack/479567)
-- [Google, Github propose process to lower the odds of supply chain attacks](https://www.itworldcanada.com/article/google-github-propose-process-to-lower-the-odds-of-supply-chain-attacks/479674)
-- [Cyber Security Today, April 8, 2022 – Software developers admit releasing poor code, product warnings from Palo Alto Networks and VMware, and more](https://www.itworldcanada.com/article/cyber-security-today-april-8-2022-software-developers-admit-releasing-poor-code-product-warnings-from-palo-alto-networks-and-vmware-and-more/479645)
-- [Hashtag Trending April 8 – Chips shortage cuts into GDP; Activision hires 1,100 employees; right to repair gains traction in Europe](https://www.itworldcanada.com/article/hashtag-trending-april-8-chips-shortage-cuts-into-gdp-activision-hires-1100-employees-right-to-repair-gains-traction-in-europe/479685)
-- [Federal Budget 2022: More money for cybersecurity, fighting misinformation](https://www.itworldcanada.com/article/federal-budget-2022-more-money-for-cybersecurity-fighting-misinformation/479659)
-- [Microsoft courts commercial customers with new Windows features](https://www.itworldcanada.com/article/microsoft-courts-commercial-customers-with-new-windows-features/479642)
-- [Payments Canada and TCS partner to implement modernized payments system for Canadians](https://www.itworldcanada.com/article/payments-canada-and-tcs-partner-to-implement-modernized-payments-system-for-canadians/479665)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

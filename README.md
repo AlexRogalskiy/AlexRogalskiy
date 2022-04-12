@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [BTFS 2.0 – Scalable Decentralized Storage System](https://btfs.io/#/)
-- [Ask HN: Tips on finding mentors?](https://news.ycombinator.com/item?id=30984016)
-- [Ask HN: Is joining AWS a bad idea? &lpar;MSFT, Oracle options&rpar;](https://news.ycombinator.com/item?id=30983983)
-- [Politics as Vocation &lpar;1921&rpar; [pdf]](http://fs2.american.edu/dfagel/www/Class%20Readings/Weber/PoliticsAsAVocation.pdf)
-- [It’s Not About “Faith”](https://terikanefield.com/its-not-about-faith/)
-- [Rand&lpar;&rpar; on OpenBSD Is Random](http://man.openbsd.org/rand)
-- [About Read Something Interesting](https://readsomethinginteresting.com/about)
-- [Ukraine’s Tanks Are So Good, Its Own Army Can’t Afford Them](https://en.hromadske.ua/posts/ukraines-tanks-are-so-good-its-own-army-cant-afford-them)
-- [Solo Founders Should Do a Spring Cleaning of Their Business](https://twitter.com/seb_g/status/1513340549348175877)
-- [I track my death for a year- This is what I learned](https://www.linkedin.com/pulse/i-track-my-death-year-what-learned-adam-maddock)
+- [Star Wars: Squadrons – “Hunted” CG Short](https://www.youtube.com/watch?v=f2VmOqjV_7Q)
+- [Shirō Ishii](https://en.wikipedia.org/wiki/Shir%C5%8D_Ishii)
+- [States of Covid Performance](https://www.wsj.com/articles/states-of-covid-performance-economic-schools-study-working-paper-lockdowns-11649621806)
+- [Cromemco Dazzler](https://en.wikipedia.org/wiki/Cromemco_Dazzler)
+- [A theory of why we’re all going nuts online](https://www.thenewatlantis.com/publications/something-happened-by-us-a-demonology)
+- [Open Refine – working with messy data](https://openrefine.org/)
+- [Retired equipment lives on in new physics experiments &lpar;2019&rpar;](https://www.symmetrymagazine.org/article/retired-equipment-lives-on-in-new-physics-experiments)
+- [Evaluation of Low-Cost Particle Sensors for Indoor Air Quality Monitoring &lpar;2021&rpar; [pdf]](https://asic.aqrc.ucdavis.edu/sites/g/files/dgvnsk3466/files/inline-files/Andy%20May%20-%20Indoor%20Ventilation%20Presentation.pdf)
+- [Elon was told to play nice and not speak freely](https://twitter.com/TankTDS/status/1513422244541870084)
+- [How to Choose a Gas Sensor](https://seeeddoc.github.io/How_to_choose_A_Gas_Sensor/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

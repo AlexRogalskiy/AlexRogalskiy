@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Universal IAM policy failings put cloud environments at risk](https://www.computerweekly.com/news/252515865/Universal-IAM-policy-failings-put-cloud-environments-at-risk)
+- [Multiple arrests made in RaidForums takedown](https://www.computerweekly.com/news/252515871/Multiple-arrests-made-in-RaidForums-takedown)
+- [Enterprises shore up supply chain resilience with data](https://www.computerweekly.com/feature/Enterprises-shore-up-supply-chain-resilience-with-data)
+- [Sandworm rolls out Industroyer2 malware against Ukraine](https://www.computerweekly.com/news/252515855/Sandworm-rolls-out-Industroyer2-malware-against-Ukraine)
+- [The metaverse: A virtual reality check](https://www.computerweekly.com/news/252515856/The-metaverse-A-virtual-reality-check)
+- [AI researcher says police tech suppliers are hostile to transparency](https://www.computerweekly.com/news/252515806/AI-researcher-says-police-tech-suppliers-hostile-to-transparency)
+- [Everywoman Forum 2022: Inclusivity, support and involvement](https://www.computerweekly.com/news/252515803/Everywoman-Forum-2022-Inclusivity-support-and-involvement)
+- [Disney combines digital, data and creativity to win advertising opportunities](https://www.computerweekly.com/ezine/Computer-Weekly/Disney-combines-digital-data-and-creativity-to-win-advertising-opportunities)
 - [Border IT system fixed after 10-day outage](https://www.computerweekly.com/news/252515805/Border-IT-system-fixed-after-10-day-outage)
 - [Open source CMS platform Directus patches XSS bug](https://www.computerweekly.com/news/252515804/Open-source-CMS-platform-Directus-patches-XSS-bug)
-- [Gartner: Six key executive-CIO conversations to help AI succeed](https://www.computerweekly.com/opinion/Gartner-Six-key-executive-CIO-conversations-to-help-AI-succeed)
-- [Building distributed systems requires effective developer teams](https://www.computerweekly.com/opinion/Building-distributed-systems-requires-effective-developer-teams)
-- [We must target a broad church to fill vacant cyber roles](https://www.computerweekly.com/opinion/We-must-target-a-broad-church-to-fill-vacant-cyber-roles)
-- [Energy crisis impact on datacentre market – Computer Weekly Downtime Upload podcast](https://www.computerweekly.com/podcast/Energy-crisis-impact-on-datacentre-market-Computer-Weekly-Downtime-Upload-podcast)
-- [Raspberry Pi Foundation ditches default username policy](https://www.computerweekly.com/news/252515795/Raspberry-Pi-Foundation-ditches-default-username-policy)
-- [Nordic countries discuss joint cyber defence capability](https://www.computerweekly.com/news/252515733/Nordics-discuss-joint-cyber-defence-capability)
-- [The role of infrastructure as code in edge datacentre computing](https://www.computerweekly.com/feature/The-role-of-infrastructure-as-code-in-edge-datacentre-computing)
-- [EncroChat: France says ‘defence secrecy’ in police surveillance operations is constitutional](https://www.computerweekly.com/news/252515739/EncroChat-France-says-defence-secrecy-in-police-surveillance-operations-is-constitutional)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

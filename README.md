@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [First quarter PC shipments robust despite decline from 2021](https://www.itworldcanada.com/article/first-quarter-pc-shipments-robust-despite-decline-from-2021/480010)
+- [Coffee Briefing April 12, 2022 – Telus and The Alex launch mobile care clinic in Calgary; Kaseya to acquire Datto; Brampton to get 80 new EV chargers this year; Intuit enhances QuickBooks Online; and more](https://www.itworldcanada.com/article/coffee-briefing-april-12-2022-telus-and-the-alex-launch-mobile-care-clinic-in-calgary-kaseya-to-acquire-datto-brampton-to-get-80-new-ev-chargers-this-year-intuit-enhances-quickbooks-online-and/479968)
+- [Identity Management Day advice from an expert](https://www.itworldcanada.com/article/identity-management-day-advice-from-an-expert/479923)
+- [Hashtag Trending April 12 – John Oliver threatens to blackmail congressmen with their digital data, Amazon claims union organizers used marijuna to secure worker votes, the repair your own phone era](https://www.itworldcanada.com/article/hashtag-trending-april-12-john-oliver-threatens-to-blackmail-congressmen-with-their-digital-data-amazon-claims-union-organizers-used-marijuna-to-secure-worker-votes-the-repair-your-own-phone-era/479939)
 - [HPE’s space computer completes 24 experiments on the ISS](https://www.itworldcanada.com/article/hpes-space-computer-completes-24-experiments-on-the-iss/479688)
 - [Shopify announces a 10-for-1 stock split](https://www.itworldcanada.com/article/shopify-announces-a-10-for-1-stock-split/479859)
 - [Unihertz tease: a BlackBerry-like phone with keyboard](https://www.itworldcanada.com/article/unihertz-tease-a-blackberry-like-phone-with-keyboard/479853)
 - [Canada’s foodservice industry to get its first metaverse marketplace](https://www.itworldcanada.com/article/canadas-foodservice-industry-to-get-its-first-metaverse-marketplace/479826)
 - [You can automate more processes than you think](https://www.itworldcanada.com/article/you-can-automate-more-processes-than-you-think/479794)
 - [Panasonic Canada acknowledges cyberattack in February](https://www.itworldcanada.com/article/panasonic-canada-acknowledges-cyberattack-in-february/479825)
-- [Elon Musk rejects offer to be on Twitter’s board of directors](https://www.itworldcanada.com/article/elon-musk-rejects-offer-to-be-on-twitters-board-of-directors/479808)
-- [Hashtag Trending April 11 – Return of in-person workplace; Self-repair for Google phones; FedEx’s new drone](https://www.itworldcanada.com/article/hashtag-trending-april-11-return-of-in-person-workplace-self-repair-for-google-phones-fedexs-new-drone/479791)
-- [Cyber Security Today, April 11, 2022 -Malware aimed at the Spring Java framework, AWS Lambda and in Android apps](https://www.itworldcanada.com/article/cyber-security-today-april-11-2022-malware-aimed-at-the-spring-java-framework-aws-lambda-and-in-android-apps/479778)
-- [Canadian security awareness training firm Terranova Security sold to HelpSystems](https://www.itworldcanada.com/article/canadian-security-awareness-training-firm-terranova-security-sold-to-helpsystems/479766)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war latest: Zelenskiy voices concern at possible chemical weapons attack in ‘new stage of terror’ – live](https://www.theguardian.com/world/live/2022/apr/11/russia-ukraine-war-latest-austrian-chancellor-to-meet-putin-ukraine-prepares-for-fresh-onslaught-in-east-live)
-- [US orders some consulate staff to leave Shanghai as China Covid outbreak worsens](https://www.theguardian.com/world/2022/apr/12/us-orders-some-consulate-staff-to-leave-shanghai-as-china-covid-outbreak-worsens)
-- [Who gets to decide the future of Channel 4?](https://www.theguardian.com/news/audio/2022/apr/12/who-gets-to-decide-the-future-of-channel-4)
-- [Headaches: are you one of the one in six people suffering today?](https://www.theguardian.com/lifeandstyle/2022/apr/12/headaches-are-you-one-of-the-one-in-six-people-suffering-today)
-- [MPs urge police forces in England and Wales to have specialist rape investigators](https://www.theguardian.com/uk-news/2022/apr/11/put-teams-on-all-police-forces-in-england-and-wales-say-mps)
-- [Foraging takes hold in New Zealand’s wild places](https://www.theguardian.com/world/2022/apr/12/foraging-takes-hold-in-new-zealands-wild-places)
-- [Backlash in Osaka as ‘Dream Island’ leads race to open Japan’s first casino](https://www.theguardian.com/world/2022/apr/12/japan-first-casino-osaka-backlash-gambling)
-- [Dozens killed in Philippines landslides and floods as tropical storm Megi hits](https://www.theguardian.com/world/2022/apr/12/tropical-storm-megi-philippines-deaths-landslides-floods)
-- [Retail sales slide as UK consumer confidence sinks to record low](https://www.theguardian.com/business/2022/apr/12/retail-sales-slide-as-uk-consumer-confidence-sinks-to-record-low)
-- [C of E procedures on racial injustice ‘inadequate’, says Cambridge college](https://www.theguardian.com/world/2022/apr/12/c-of-e-procedures-on-racial-injustice-inadequate-says-cambridge-college)
+- [Russia-Ukraine war latest: Biden accuses Russia of genocide; Putin ally captured in Ukraine – live](https://www.theguardian.com/world/live/2022/apr/12/russia-ukraine-war-latest-mariupol-mayor-says-more-than-10000-civilians-killed-zelenskiy-taking-chemical-weapons-threat-seriously)
+- [Brooklyn shooting: police search for suspect after more than 20 injured](https://www.theguardian.com/us-news/2022/apr/12/brooklyn-shooting-latest-new-york-sunset-park-subway-attack-news-updates)
+- [How conspiracy theory about Ukrainian ‘bioweapons labs’ took off](https://www.theguardian.com/news/audio/2022/apr/13/how-conspiracy-theory-about-ukrainian-bioweapons-labs-took-off-podcast)
+- [‘Liars and lawbreakers’: what the papers say about Johnson’s Partygate fine](https://www.theguardian.com/media/2022/apr/13/liars-and-lawbreakers-what-the-papers-say-about-johnsons-partygate-fine)
+- [Twitter investor sues Elon Musk for failure to promptly disclose his shares](https://www.theguardian.com/technology/2022/apr/12/elon-musk-twitter-lawsuit-shares)
+- [Joe Biden accuses Vladimir Putin of committing genocide in Ukraine](https://www.theguardian.com/world/2022/apr/13/joe-biden-accuses-vladimir-putin-of-committing-genocide-in-ukraine)
+- [California jogger Sherri Papini admits faking her kidnapping in plea deal](https://www.theguardian.com/us-news/2022/apr/12/sherri-papini-kidnapping-california-plea-deal)
+- [Colston Four acquittal to be referred to court of appeal](https://www.theguardian.com/law/2022/apr/13/colston-four-acquittal-to-be-referred-to-court-of-appeal)
+- [Replacing Human Rights Act will weaken protections, say peers and MPs](https://www.theguardian.com/law/2022/apr/13/replacing-human-rights-act-will-weaken-protections-say-peers-and-mps)
+- [English cricket on back foot after ad watchdog bans junk food campaign](https://www.theguardian.com/society/2022/apr/13/english-cricket-on-back-foot-after-ad-watchdog-bans-junk-food-campaign)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

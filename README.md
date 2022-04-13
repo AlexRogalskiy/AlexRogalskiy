@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Duckduckgo launches privacy browser beta for macOS](https://www.computerworld.com/article/3656659/duckduckgo-launches-privacy-browser-beta-for-macos.html#tk.rss_all)
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [Adobe woos video pros with After Effects M1 performance promise](https://www.computerworld.com/article/3657056/adobe-woos-video-pros-with-after-effects-m1-performance-promise.html#tk.rss_all)
+- [Box throws its hat into the digital whiteboarding ring](https://www.computerworld.com/article/3657055/box-throws-its-hat-into-the-digital-whiteboarding-ring.html#tk.rss_all)
+- [Q&amp;A: What tech firms can do to grow their Black workforce](https://www.computerworld.com/article/3657048/qanda-what-tech-firms-can-do-to-grow-their-black-workforce.html#tk.rss_all)
 - [What to do about IE and .NET?](https://www.computerworld.com/article/3657054/what-to-do-about-ie-and-net.html#tk.rss_all)
 - [WWDC: It&#39;s all about the Four Ps — performance, parity, platforms, and partnership](https://www.computerworld.com/article/3656656/wwdc-its-all-about-the-four-ps-performance-parity-platforms-and-partnership.html#tk.rss_all)
 - [PC sales start to slow after two years of pandemic-driven growth](https://www.computerworld.com/article/3657051/pc-sales-start-to-slow-after-two-years-of-pandemic-driven-growth.html#tk.rss_all)
 - [We’re one step closer to Windows in the cloud](https://www.computerworld.com/article/3656694/we-re-one-step-closer-to-windows-in-the-cloud.html#tk.rss_all)
 - [Noteworthy tech acquisitions 2022](https://www.computerworld.com/article/3646533/noteworthy-tech-acquisitions-2022.html#tk.rss_all)
-- [4 buried treasures that&#39;ll transform your Chrome OS experience](https://www.computerworld.com/article/3656409/chrome-os-treasures.html#tk.rss_all)
-- [WWDC: Apple&#39;s call to code and the no-code future](https://www.computerworld.com/article/3656908/wwdc-apples-call-to-code-and-the-no-code-future.html#tk.rss_all)
-- [Intel suspends all operations in Russia](https://www.networkworld.com/article/3656630/intel-suspends-all-operations-in-russia.html#tk.rss_all)
-- [Don&#39;t look now, but the blue-collar remote work revolution is coming](https://www.computerworld.com/article/3655638/dont-look-now-but-the-blue-collar-remote-work-revolution-is-coming.html#tk.rss_all)
-- [Windows 11 — we haven’t seen anything, yet](https://www.computerworld.com/article/3656609/windows-11-we-havent-seen-anything-yet.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

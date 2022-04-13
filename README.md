@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Google announced its free ACME server](https://cloud.google.com/blog/products/identity-security/automate-public-certificate-lifecycle-management-via--acme-client-api)
-- [The Endgames of Bad Faith Communication](https://consilienceproject.org/endgames-of-bad-communication/)
-- [The Apple-1&#39;s shift-register memory](https://www.righto.com/2022/04/inside-apple-1s-shift-register-memory.html)
-- [Get familiar with workspaces](https://go.dev/blog/get-familiar-with-workspaces)
-- [HireArt &lpar;YC W12&rpar; is Hiring an Engineering Manager](https://www.hireart.com/jobs/cc2f8093/apply?utm_source=hackernews)
-- [Medusa is a device that allows connecting of old computers to modern displays](http://medusa-sc.org/index.php?title=Description)
-- [Europe is investing heavily in trains](https://www.nytimes.com/2022/04/05/travel/europe-trains.html)
-- [Impressions from a first-time Mac user](https://loganmarchione.com/2022/04/impressions-from-a-first-time-mac-user/)
-- [Intuit asked Mailchimp employees to pay medical costs out of pocket](https://twitter.com/dvsch/status/1458813237651247109)
-- [Show HN: Multiplayer Demo Built with Elixir](https://multiplayer.dev)
+- [Update on the Atlassian outage affecting some customers](https://www.atlassian.com/engineering/april-2022-outage-update)
+- [Git 2.30.3 will not operate in non-owned directories](https://github.com/git/git/commit/8959555cee7ec045958f9b6dd62e541affb7e7d9)
+- [New&lpar;ish&rpar; command line tools](https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/)
+- [A few things I learned about using DALL·E](https://www.bramadams.dev/projects/dalle-tricks)
+- [Mexico truckers protest new Texas inspections, halt trade at border bridges](https://www.texastribune.org/2022/04/11/texas-border-inspections-truckers-protest/)
+- [BBEdit is 30 years old today](https://groups.google.com/g/comp.sys.mac.announce/c/gvPGyuX3UCs)
+- [Never hose out a Honda Element](https://fifthelementcamping.com/never-hose-it-out)
+- [EasyPost &lpar;YC S13&rpar; Is Hiring Remote](https://www.easypost.com/careers)
+- [When to use generics](https://go.dev/blog/when-generics)
+- [Eden](https://github.com/facebookexperimental/eden)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

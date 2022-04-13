@@ -384,16 +384,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [TypeScript 4.7 adds ESM support in Node.js](https://www.infoworld.com/article/3656801/typescript-47-adds-esm-support-in-nodejs.html#tk.rss_all)
+- [Neo4j’s new AuraDS brings managed data science services to Google Cloud](https://www.infoworld.com/article/3656699/neo4js-new-aurads-brings-managed-data-science-services-to-google-cloud.html#tk.rss_all)
+- [DataStax CEO: Every use case doesn’t need a new database](https://www.infoworld.com/article/3656950/datastax-ceo-every-use-case-doesnt-need-a-new-database.html#tk.rss_all)
+- [Scaling throughput and performance in a sharding database system](https://www.infoworld.com/article/3656915/scaling-throughput-and-performance-in-a-sharding-database-system.html#tk.rss_all)
+- [The complex layers of cloud computing sustainability](https://www.infoworld.com/article/3656792/the-complex-layers-of-cloud-computing-sustainability.html#tk.rss_all)
 - [Perforce to acquire infrastructure as code pioneer Puppet](https://www.infoworld.com/article/3656734/perforce-to-acquire-infrastructure-as-code-pioneer-puppet.html#tk.rss_all)
 - [InfoWorld’s 2022 Technology of the Year Award winners](https://www.infoworld.com/article/3656692/infoworlds-2022-technology-of-the-year-award-winners.html#tk.rss_all)
 - [So you want to change cloud providers](https://www.infoworld.com/article/3656632/so-you-want-to-change-cloud-providers.html#tk.rss_all)
 - [Use of consumption apps in the enterprise](https://www.infoworld.com/article/3656631/use-of-consumption-apps-in-the-enterprise.html#tk.rss_all)
 - [Redwood web framework hits 1.0 release milestone](https://www.infoworld.com/article/3657049/redwood-web-framework-hits-10-release-milestone.html#tk.rss_all)
-- [GitHub enhances secret scanning for tighter code security](https://www.infoworld.com/article/3656949/github-enhances-secret-scanning-for-tighter-code-security.html#tk.rss_all)
-- [A closer look at traditional solutions and cloud](https://www.infoworld.com/article/3656791/a-closer-look-at-traditional-solutions-and-cloud.html#tk.rss_all)
-- [A brief history of the agile methodology](https://www.infoworld.com/article/3655646/a-brief-history-of-the-agile-methodology.html#tk.rss_all)
-- [What’s new in Rust 1.60](https://www.infoworld.com/article/3267624/whats-new-in-the-rust-language.html#tk.rss_all)
-- [Databricks targets data pipeline automation with Delta Live Tables](https://www.infoworld.com/article/3656909/databricks-targets-data-pipeline-automation-with-delta-live-tables.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

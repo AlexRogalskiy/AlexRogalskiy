@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Star Wars: Squadrons – “Hunted” CG Short](https://www.youtube.com/watch?v=f2VmOqjV_7Q)
-- [Shirō Ishii](https://en.wikipedia.org/wiki/Shir%C5%8D_Ishii)
-- [States of Covid Performance](https://www.wsj.com/articles/states-of-covid-performance-economic-schools-study-working-paper-lockdowns-11649621806)
-- [Cromemco Dazzler](https://en.wikipedia.org/wiki/Cromemco_Dazzler)
-- [A theory of why we’re all going nuts online](https://www.thenewatlantis.com/publications/something-happened-by-us-a-demonology)
-- [Open Refine – working with messy data](https://openrefine.org/)
-- [Retired equipment lives on in new physics experiments &lpar;2019&rpar;](https://www.symmetrymagazine.org/article/retired-equipment-lives-on-in-new-physics-experiments)
-- [Evaluation of Low-Cost Particle Sensors for Indoor Air Quality Monitoring &lpar;2021&rpar; [pdf]](https://asic.aqrc.ucdavis.edu/sites/g/files/dgvnsk3466/files/inline-files/Andy%20May%20-%20Indoor%20Ventilation%20Presentation.pdf)
-- [Elon was told to play nice and not speak freely](https://twitter.com/TankTDS/status/1513422244541870084)
-- [How to Choose a Gas Sensor](https://seeeddoc.github.io/How_to_choose_A_Gas_Sensor/)
+- [Ghost Gunner 3](https://ghostgunner.net/product/ghost-gunner-3-deposit/)
+- [Traffic filtering using NIC capabilities on wire speed &lpar;10GE, 14Mpps&rpar; &lpar;2017&rpar;](https://fastnetmon.com/2017/12/04/traffic-filtration-using-nic-capabilities-on-wire-speed-10ge-14mpps/)
+- [The FBI’s takedown of Virgil Griffith for breaking sanctions, firsthand](https://cointelegraph.com/magazine/2022/04/12/bizarre-the-fbis-takedown-of-an-eth-dev-who-went-to-north-korea)
+- [T-Mobile Bought Its Customer Data from Hackers to Stop Leak. It Failed](https://www.vice.com/en/article/k7w9mv/tmobile-hacked-bought-data-mandiant)
+- [WebP is such a goated format](https://sandyuraz.com/blogs/webp/)
+- [How Tech Companies Are Trying to Woo Employees Returning to Work](https://www.nytimes.com/2022/04/12/technology/rto-return-office-technology.html)
+- [L.A. gangs have sent out crews to follow and rob city’s wealthiest, LAPD says](https://www.latimes.com/california/story/2022-04-12/17-gangs-targeting-los-angeles-mega-rich)
+- [The Modern Data Stack Ecosystem: Spring 2022 Edition](https://continual.ai/post/the-modern-data-stack-ecosystem-spring-2022-edition)
+- [Ibn al-Nafis and the discovery of the pulmonary circulation](https://pulmonarychronicles.com/index.php/pulmonarychronicles/article/view/377/823)
+- [The AlphaFold Database of Protein Structures: A Biologist’s Guide](https://www.sciencedirect.com/science/article/pii/S0022283621005738)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

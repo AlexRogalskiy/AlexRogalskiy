@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [New to this Sub, Beginner to IT, Looking for advice please](https://www.reddit.com/r/InformationTechnology/comments/u2g3tw/new_to_this_sub_beginner_to_it_looking_for_advice/)
+- [CCNA Study Prep](https://www.reddit.com/r/InformationTechnology/comments/u2g0cy/ccna_study_prep/)
+- [Business Systems Analyst](https://www.reddit.com/r/InformationTechnology/comments/u2dtrd/business_systems_analyst/)
+- [Explain to me what your first real day of work was like at a support desk? Were you nervous? Did you feel prepared for the tasks assigned to you? Was the first month easy or hard for you?](https://www.reddit.com/r/InformationTechnology/comments/u2a3ya/explain_to_me_what_your_first_real_day_of_work/)
+- [Need help with an assignment](https://www.reddit.com/r/InformationTechnology/comments/u21wgu/need_help_with_an_assignment/)
+- [IT support peeps, what do you usually wear on office?](https://www.reddit.com/r/InformationTechnology/comments/u1ubpu/it_support_peeps_what_do_you_usually_wear_on/)
 - [If your IT job was a fighting video game, what would be your super moves? For example, mines would be is Control + Alt+ Delete](https://www.reddit.com/r/InformationTechnology/comments/u1en9s/if_your_it_job_was_a_fighting_video_game_what/)
 - [Graduating in a few weeks](https://www.reddit.com/r/InformationTechnology/comments/u0s8y4/graduating_in_a_few_weeks/)
 - [Memory Leak?](https://www.reddit.com/r/InformationTechnology/comments/u0p680/memory_leak/)
 - [About to start IT Associate Degree](https://www.reddit.com/r/InformationTechnology/comments/u0lunx/about_to_start_it_associate_degree/)
-- [ABBYY FINE READER 15 PRO APRENDE A DESCARGARLO, INSTALARLO Y ACTIVARLO D...](https://www.reddit.com/r/InformationTechnology/comments/u0b5n2/abbyy_fine_reader_15_pro_aprende_a_descargarlo/)
-- [Best online MS ISM programs?](https://www.reddit.com/r/InformationTechnology/comments/tzzshi/best_online_ms_ism_programs/)
-- [Stubborn Dell Monitor](https://www.reddit.com/r/InformationTechnology/comments/tzozjx/stubborn_dell_monitor/)
-- [people who have taken coursera IT courses how much did it help you on the CompTIA](https://www.reddit.com/r/InformationTechnology/comments/tzdvr4/people_who_have_taken_coursera_it_courses_how/)
-- [Become the Low Voltage contractor for new stores](https://www.reddit.com/r/InformationTechnology/comments/tzbfey/become_the_low_voltage_contractor_for_new_stores/)
-- [Does anyone pay for used toner cartridges and drums?](https://www.reddit.com/r/InformationTechnology/comments/tzav8c/does_anyone_pay_for_used_toner_cartridges_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

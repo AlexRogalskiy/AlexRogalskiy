@@ -369,6 +369,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [How CISOs Are Walking the Executive Tightrope](https://www.informationweek.com/strategic-cio/how-cisos-are-walking-the-executive-tightrope)
+- [Talend Acquisition Targets Data Replication Speeds](https://www.informationweek.com/big-data/talend-acquisition-targets-data-replication-speeds)
+- [The Tech Talent Chasm](https://www.informationweek.com/it-life/the-tech-talent-chasm)
 - [How to Maximize Your Organization&#39;s Cloud Budget](https://www.informationweek.com/cloud/how-to-maximize-your-organization-s-cloud-budget)
 - [IT Modernization: Ask Not Why, But Why Not?](https://www.informationweek.com/cloud/it-modernization-ask-not-why-but-why-not-)
 - [Ukraine&#39;s IT Pros Tell Their Stories of Bombing &amp; Business Continuity](https://www.informationweek.com/it-life/ukraines-it-pros-tell-us-their-stories-of-bombs-&-business-continuity)
@@ -376,9 +379,6 @@
 - [How to Identify and Avoid Crypto Pump-and-Dumps](https://www.informationweek.com/it-life/how-to-identify-and-avoid-crypto-pump-and-dumps)
 - [Scuderia AlphaTauri Cranks Up Racecar Efficiency with Epicor](https://www.informationweek.com/cloud/scuderia-alphatauri-cranks-up-racecar-efficiency-with-epicor)
 - [Enterprise Browsers Promise Enhanced Security, Productivity](https://www.informationweek.com/software/enterprise-browsers-promise-enhanced-security-productivity)
-- [A New Era of Digital Finance for Treasury Teams](https://www.informationweek.com/fintech/a-new-era-of-digital-finance-for-treasury-teams)
-- [Return-to-Office Moment Drives Discord](https://www.informationweek.com/strategic-cio/return-to-office-moment-drives-discord)
-- [What Changing AI Rules Mean for Hiring](https://www.informationweek.com/ai-or-machine-learning/what-changing-ai-rules-mean-for-hiring)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

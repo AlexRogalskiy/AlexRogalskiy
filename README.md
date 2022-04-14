@@ -384,16 +384,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Microsoft .NET MAUI release candidate available](https://www.infoworld.com/article/3657588/microsoft-net-maui-release-candidate-available.html#tk.rss_all)
+- [Atlassian Cloud outage hits 400 customers](https://www.infoworld.com/article/3656704/atlassian-cloud-outage-hits-400-customers.html#tk.rss_all)
+- [Why developers are joining the Great Resignation](https://www.infoworld.com/article/3656705/why-developers-are-joining-the-great-resignation.html#tk.rss_all)
+- [Make the most of SharePoint search APIs](https://www.infoworld.com/article/3656952/make-the-most-of-sharepoint-search-apis.html#tk.rss_all)
+- [6 ways to package Python apps for re-use](https://www.infoworld.com/article/3656628/6-ways-to-package-python-apps-for-re-use.html#tk.rss_all)
 - [TypeScript 4.7 adds ESM support in Node.js](https://www.infoworld.com/article/3656801/typescript-47-adds-esm-support-in-nodejs.html#tk.rss_all)
 - [Neo4j’s new AuraDS brings managed data science services to Google Cloud](https://www.infoworld.com/article/3656699/neo4js-new-aurads-brings-managed-data-science-services-to-google-cloud.html#tk.rss_all)
 - [DataStax CEO: Every use case doesn’t need a new database](https://www.infoworld.com/article/3656950/datastax-ceo-every-use-case-doesnt-need-a-new-database.html#tk.rss_all)
 - [Scaling throughput and performance in a sharding database system](https://www.infoworld.com/article/3656915/scaling-throughput-and-performance-in-a-sharding-database-system.html#tk.rss_all)
 - [The complex layers of cloud computing sustainability](https://www.infoworld.com/article/3656792/the-complex-layers-of-cloud-computing-sustainability.html#tk.rss_all)
-- [Perforce to acquire infrastructure as code pioneer Puppet](https://www.infoworld.com/article/3656734/perforce-to-acquire-infrastructure-as-code-pioneer-puppet.html#tk.rss_all)
-- [InfoWorld’s 2022 Technology of the Year Award winners](https://www.infoworld.com/article/3656692/infoworlds-2022-technology-of-the-year-award-winners.html#tk.rss_all)
-- [So you want to change cloud providers](https://www.infoworld.com/article/3656632/so-you-want-to-change-cloud-providers.html#tk.rss_all)
-- [Use of consumption apps in the enterprise](https://www.infoworld.com/article/3656631/use-of-consumption-apps-in-the-enterprise.html#tk.rss_all)
-- [Redwood web framework hits 1.0 release milestone](https://www.infoworld.com/article/3657049/redwood-web-framework-hits-10-release-milestone.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [More than half of PCs can&#39;t upgrade to Windows 11 — report](https://www.computerworld.com/article/3657628/more-than-half-of-pcs-cant-upgrade-to-windows-11-report.html#tk.rss_all)
+- [Google to invest $9.5B in US offices and data centers this year](https://www.computerworld.com/article/3656736/google-to-invest-95b-in-us-offices-and-data-centers-this-year.html#tk.rss_all)
+- [Apple has good privacy arguments, but critics aren&#39;t listening](https://www.computerworld.com/article/3656803/apple-has-good-privacy-arguments-but-critics-arent-listening.html#tk.rss_all)
+- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
+- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
+- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
+- [For Gen Z, bank accounts and cash are out, mobile wallets are in](https://www.computerworld.com/article/3656701/for-gen-z-bank-accounts-can-cash-are-out-mobile-wallets-are-in.html#tk.rss_all)
+- [14 useful Google apps you should be using on Android](https://www.computerworld.com/article/3161766/google-apps-android.html#tk.rss_all)
 - [Duckduckgo launches privacy browser beta for macOS](https://www.computerworld.com/article/3656659/duckduckgo-launches-privacy-browser-beta-for-macos.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [Adobe woos video pros with After Effects M1 performance promise](https://www.computerworld.com/article/3657056/adobe-woos-video-pros-with-after-effects-m1-performance-promise.html#tk.rss_all)
-- [Box throws its hat into the digital whiteboarding ring](https://www.computerworld.com/article/3657055/box-throws-its-hat-into-the-digital-whiteboarding-ring.html#tk.rss_all)
-- [Q&amp;A: What tech firms can do to grow their Black workforce](https://www.computerworld.com/article/3657048/qanda-what-tech-firms-can-do-to-grow-their-black-workforce.html#tk.rss_all)
-- [What to do about IE and .NET?](https://www.computerworld.com/article/3657054/what-to-do-about-ie-and-net.html#tk.rss_all)
-- [WWDC: It&#39;s all about the Four Ps — performance, parity, platforms, and partnership](https://www.computerworld.com/article/3656656/wwdc-its-all-about-the-four-ps-performance-parity-platforms-and-partnership.html#tk.rss_all)
-- [PC sales start to slow after two years of pandemic-driven growth](https://www.computerworld.com/article/3657051/pc-sales-start-to-slow-after-two-years-of-pandemic-driven-growth.html#tk.rss_all)
-- [We’re one step closer to Windows in the cloud](https://www.computerworld.com/article/3656694/we-re-one-step-closer-to-windows-in-the-cloud.html#tk.rss_all)
-- [Noteworthy tech acquisitions 2022](https://www.computerworld.com/article/3646533/noteworthy-tech-acquisitions-2022.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

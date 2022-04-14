@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [In the midst of a talent shortage, how can Canada keep up with its tech sector growth?](https://www.itworldcanada.com/article/in-the-midst-of-a-talent-shortage-how-can-canada-keep-up-with-its-tech-sector-growth/479820)
+- [How SMBs can create an identity management strategy](https://www.itworldcanada.com/article/how-smbs-can-create-an-identity-management-strategy/480019)
+- [ServiceNow launches its Now Platform San Diego release](https://www.itworldcanada.com/article/servicenow-launches-its-now-platform-san-diego-release/480095)
+- [Canadian funders say bridging Canada’s digital divide needs to be prioritized to address urgent social issues](https://www.itworldcanada.com/article/canadian-funders-say-bridging-canadas-digital-divide-need-to-be-prioritized-to-address-urgent-social-issues/480075)
+- [Cyber Security Today, Wednesday April 13, 2022 – Updated malware attacks a Ukraine power company, the RaidForums darkweb site is seized, a new Hafnium attack and more patches issued](https://www.itworldcanada.com/article/cyber-security-today-wednesday-april-13-2022-updated-malware-attacks-a-ukraine-power-company-the-raidforums-darkweb-site-is-seized-a-new-hafnium-attack-and-more-patches-issued/479919)
+- [Hashtag Trending April 13 – Zukerberg’s personal security; Twitter cancels Q/A with employees; Dell Netherlands trials the four-day work week](https://www.itworldcanada.com/article/hashtag-trending-april-13-zukerbergs-personal-security-twitter-cancels-q-a-with-employees-dell-netherlands-trials-the-four-day-work-week/480035)
 - [First quarter PC shipments robust despite decline from 2021](https://www.itworldcanada.com/article/first-quarter-pc-shipments-robust-despite-decline-from-2021/480010)
 - [Coffee Briefing April 12, 2022 – Telus and The Alex launch mobile care clinic in Calgary; Kaseya to acquire Datto; Brampton to get 80 new EV chargers this year; Intuit enhances QuickBooks Online; and more](https://www.itworldcanada.com/article/coffee-briefing-april-12-2022-telus-and-the-alex-launch-mobile-care-clinic-in-calgary-kaseya-to-acquire-datto-brampton-to-get-80-new-ev-chargers-this-year-intuit-enhances-quickbooks-online-and/479968)
 - [Identity Management Day advice from an expert](https://www.itworldcanada.com/article/identity-management-day-advice-from-an-expert/479923)
 - [Hashtag Trending April 12 – John Oliver threatens to blackmail congressmen with their digital data, Amazon claims union organizers used marijuna to secure worker votes, the repair your own phone era](https://www.itworldcanada.com/article/hashtag-trending-april-12-john-oliver-threatens-to-blackmail-congressmen-with-their-digital-data-amazon-claims-union-organizers-used-marijuna-to-secure-worker-votes-the-repair-your-own-phone-era/479939)
-- [HPE’s space computer completes 24 experiments on the ISS](https://www.itworldcanada.com/article/hpes-space-computer-completes-24-experiments-on-the-iss/479688)
-- [Shopify announces a 10-for-1 stock split](https://www.itworldcanada.com/article/shopify-announces-a-10-for-1-stock-split/479859)
-- [Unihertz tease: a BlackBerry-like phone with keyboard](https://www.itworldcanada.com/article/unihertz-tease-a-blackberry-like-phone-with-keyboard/479853)
-- [Canada’s foodservice industry to get its first metaverse marketplace](https://www.itworldcanada.com/article/canadas-foodservice-industry-to-get-its-first-metaverse-marketplace/479826)
-- [You can automate more processes than you think](https://www.itworldcanada.com/article/you-can-automate-more-processes-than-you-think/479794)
-- [Panasonic Canada acknowledges cyberattack in February](https://www.itworldcanada.com/article/panasonic-canada-acknowledges-cyberattack-in-february/479825)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

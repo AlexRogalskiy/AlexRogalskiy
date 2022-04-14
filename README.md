@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [WatchGuard firewall users urged to patch Cyclops Blink vulnerability](https://www.computerweekly.com/news/252515913/WatchGuard-firewall-users-urged-to-patch-Cyclops-Blink-vulnerability)
+- [Google Cloud research highlights disconnect between intention and delivery on green IT initiatives](https://www.computerweekly.com/news/252515903/Google-Cloud-research-highlights-disconnect-between-intention-and-delivery-on-green-IT-initiatives)
+- [News UK hires former Discovery Inc tech head as new CTO](https://www.computerweekly.com/news/252515914/News-UK-hires-former-Discover-tech-head-as-new-CTO)
+- [Oracle vaunts ME as employee experience platform geared to post-crisis workforce realities](https://www.computerweekly.com/news/252515880/Oracle-vaunts-ME-as-employee-experience-platform-geared-to-post-crisis-workforce-realities)
+- [Microsoft patches two zero-days, 10 critical bugs](https://www.computerweekly.com/news/252515909/Microsoft-patches-two-zero-days-10-critical-bugs)
+- [Criminals researched hacking TTPs post-breach in ‘messy’ cyber attack](https://www.computerweekly.com/news/252515905/Criminals-researched-hacking-TTPs-post-breach-in-messy-cyber-attack)
+- [Using technology to reinvent stores](https://www.computerweekly.com/feature/Using-technology-to-reinvent-stores)
+- [Executive interview: How Audi provides developer self-service](https://www.computerweekly.com/news/252515798/Executive-Interview-How-Audi-provides-developer-self-service)
 - [Universal IAM policy failings put cloud environments at risk](https://www.computerweekly.com/news/252515865/Universal-IAM-policy-failings-put-cloud-environments-at-risk)
 - [Multiple arrests made in RaidForums takedown](https://www.computerweekly.com/news/252515871/Multiple-arrests-made-in-RaidForums-takedown)
-- [Enterprises shore up supply chain resilience with data](https://www.computerweekly.com/feature/Enterprises-shore-up-supply-chain-resilience-with-data)
-- [Sandworm rolls out Industroyer2 malware against Ukraine](https://www.computerweekly.com/news/252515855/Sandworm-rolls-out-Industroyer2-malware-against-Ukraine)
-- [The metaverse: A virtual reality check](https://www.computerweekly.com/news/252515856/The-metaverse-A-virtual-reality-check)
-- [AI researcher says police tech suppliers are hostile to transparency](https://www.computerweekly.com/news/252515806/AI-researcher-says-police-tech-suppliers-hostile-to-transparency)
-- [Everywoman Forum 2022: Inclusivity, support and involvement](https://www.computerweekly.com/news/252515803/Everywoman-Forum-2022-Inclusivity-support-and-involvement)
-- [Disney combines digital, data and creativity to win advertising opportunities](https://www.computerweekly.com/ezine/Computer-Weekly/Disney-combines-digital-data-and-creativity-to-win-advertising-opportunities)
-- [Border IT system fixed after 10-day outage](https://www.computerweekly.com/news/252515805/Border-IT-system-fixed-after-10-day-outage)
-- [Open source CMS platform Directus patches XSS bug](https://www.computerweekly.com/news/252515804/Open-source-CMS-platform-Directus-patches-XSS-bug)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

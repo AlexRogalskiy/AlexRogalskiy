@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war latest: Biden accuses Russia of genocide; Putin ally captured in Ukraine – live](https://www.theguardian.com/world/live/2022/apr/12/russia-ukraine-war-latest-mariupol-mayor-says-more-than-10000-civilians-killed-zelenskiy-taking-chemical-weapons-threat-seriously)
-- [Brooklyn shooting: police search for suspect after more than 20 injured](https://www.theguardian.com/us-news/2022/apr/12/brooklyn-shooting-latest-new-york-sunset-park-subway-attack-news-updates)
-- [How conspiracy theory about Ukrainian ‘bioweapons labs’ took off](https://www.theguardian.com/news/audio/2022/apr/13/how-conspiracy-theory-about-ukrainian-bioweapons-labs-took-off-podcast)
-- [‘Liars and lawbreakers’: what the papers say about Johnson’s Partygate fine](https://www.theguardian.com/media/2022/apr/13/liars-and-lawbreakers-what-the-papers-say-about-johnsons-partygate-fine)
-- [Twitter investor sues Elon Musk for failure to promptly disclose his shares](https://www.theguardian.com/technology/2022/apr/12/elon-musk-twitter-lawsuit-shares)
-- [Joe Biden accuses Vladimir Putin of committing genocide in Ukraine](https://www.theguardian.com/world/2022/apr/13/joe-biden-accuses-vladimir-putin-of-committing-genocide-in-ukraine)
-- [California jogger Sherri Papini admits faking her kidnapping in plea deal](https://www.theguardian.com/us-news/2022/apr/12/sherri-papini-kidnapping-california-plea-deal)
-- [Colston Four acquittal to be referred to court of appeal](https://www.theguardian.com/law/2022/apr/13/colston-four-acquittal-to-be-referred-to-court-of-appeal)
-- [Replacing Human Rights Act will weaken protections, say peers and MPs](https://www.theguardian.com/law/2022/apr/13/replacing-human-rights-act-will-weaken-protections-say-peers-and-mps)
-- [English cricket on back foot after ad watchdog bans junk food campaign](https://www.theguardian.com/society/2022/apr/13/english-cricket-on-back-foot-after-ad-watchdog-bans-junk-food-campaign)
+- [Russia-Ukraine war latest: Zelenskiy pleads for weapons to avoid ‘bloodbath’; Ukraine says east of country braced for attack – live](https://www.theguardian.com/world/live/2022/apr/13/russia-ukraine-war-latest-biden-accuses-putin-of-genocide-russia-building-up-troops-on-eastern-border-satellite-images-show-live)
+- [‘Gota go home’: Sri Lankans turn](https://www.theguardian.com/world/2022/apr/14/sri-lanka-gotabaya-rajapaksag-gota-go-home-protests)
+- [Boris Johnson broke the law. Will the Met&#39;s Partygate fines be the PM’s undoing?](https://www.theguardian.com/news/audio/2022/apr/14/boris-johnson-broke-law-will-partygate-fines-be-undoing-podcast)
+- [Tropical storm Megi: Philippines death toll rises to 80 as landslides bury villages](https://www.theguardian.com/world/2022/apr/14/tropical-storm-megi-philippines-death-toll-rises-to-80-as-landslides-bury-villages)
+- [US federal alert warns of the discovery of malicious cyber tools](https://www.theguardian.com/us-news/2022/apr/13/us-alert-malicious-cyber-tools-russia)
+- [Russia-Ukraine war: what we know on day 50 of the invasion](https://www.theguardian.com/world/2022/apr/14/russia-ukraine-war-what-we-know-on-day-50-of-the-invasion)
+- [Palestinian lawyer and teen killed as Israel raids West Bank amid escalating violence](https://www.theguardian.com/world/2022/apr/14/palestinian-lawyer-and-teen-killed-as-israel-raids-west-bank-amid-escalating-violence)
+- [Video shows police officer kneeling on Black man before fatally shooting him](https://www.theguardian.com/us-news/2022/apr/13/patrick-lyoya-police-grand-rapids-michigan)
+- [London teacher awarded £850,000 after pupil’s attack](https://www.theguardian.com/education/2022/apr/14/london-teacher-awarded-850000-after-pupils-attack)
+- [Cost of renting jumps at record, adding more pressure to cost of living crisis](https://www.theguardian.com/money/2022/apr/14/private-rents-britain-rose-record-rate-past-year-swansea-manchester-london)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

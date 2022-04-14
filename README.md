@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Update on the Atlassian outage affecting some customers](https://www.atlassian.com/engineering/april-2022-outage-update)
-- [Git 2.30.3 will not operate in non-owned directories](https://github.com/git/git/commit/8959555cee7ec045958f9b6dd62e541affb7e7d9)
-- [New&lpar;ish&rpar; command line tools](https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/)
-- [A few things I learned about using DALL·E](https://www.bramadams.dev/projects/dalle-tricks)
-- [Mexico truckers protest new Texas inspections, halt trade at border bridges](https://www.texastribune.org/2022/04/11/texas-border-inspections-truckers-protest/)
-- [BBEdit is 30 years old today](https://groups.google.com/g/comp.sys.mac.announce/c/gvPGyuX3UCs)
-- [Never hose out a Honda Element](https://fifthelementcamping.com/never-hose-it-out)
-- [EasyPost &lpar;YC S13&rpar; Is Hiring Remote](https://www.easypost.com/careers)
-- [When to use generics](https://go.dev/blog/when-generics)
-- [Eden](https://github.com/facebookexperimental/eden)
+- [My Life as a Mentalist](https://www.zocalopublicsquare.org/2022/04/07/where-i-go-my-life-as-a-mentalist/chronicles/where-i-go/)
+- [Computers Can Be Understood &lpar;2020&rpar;](https://blog.nelhage.com/post/computers-can-be-understood/)
+- [Regology &lpar;YC S18&rpar; Is Hiring](https://www.ycombinator.com/companies/regology/jobs/WmLGnHI-product-marketing-manager)
+- [Why I quit this battle](https://badmodems.com/Why.htm)
+- [Apple&#39;s M1 Ultra comes with a 32MB TLB bottleneck](https://twitter.com/VadimYuryev/status/1514295682777059329)
+- [Three areas where Google Search lags behind competitors: code, cooking, travel](https://www.surgehq.ai//blog/google-search-is-falling-behind)
+- [Facebook open sources Lexical, an extensible text editor library](https://lexical.dev/)
+- [Jimmy Carter&#39;s White House Solar Panels &lpar;2019&rpar;](https://www.powerhome.com/the-journey-of-jimmy-carters-solar-panels/)
+- [Ask HN: Have you created programs for only your personal use?](https://news.ycombinator.com/item?id=31018836)
+- [Let’s Encrypt Receives the Levchin Prize for Real-World Cryptography](https://letsencrypt.org/2022/04/13/receiving-the-levchin-prize.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

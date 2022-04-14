@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [IT company startup ideas for college students](https://www.reddit.com/r/InformationTechnology/comments/u33yio/it_company_startup_ideas_for_college_students/)
+- [NSE 4 study prep](https://www.reddit.com/r/InformationTechnology/comments/u31xbf/nse_4_study_prep/)
+- [Graduating in Business Information Systems - On the Job Hunt](https://www.reddit.com/r/InformationTechnology/comments/u30b7i/graduating_in_business_information_systems_on_the/)
+- [Final Assignment for Networking I!! Haaaalp!!!](https://www.reddit.com/r/InformationTechnology/comments/u2xrju/final_assignment_for_networking_i_haaaalp/)
+- [Computer Labels](https://www.reddit.com/r/InformationTechnology/comments/u2wehw/computer_labels/)
+- [Cloud Models Explained - CompTIA Network+ &lpar;N10-008&rpar;](https://www.reddit.com/r/InformationTechnology/comments/u2pt0t/cloud_models_explained_comptia_network_n10008/)
+- [What is your personal domain](https://www.reddit.com/r/InformationTechnology/comments/u2j1kx/what_is_your_personal_domain/)
 - [New to this Sub, Beginner to IT, Looking for advice please](https://www.reddit.com/r/InformationTechnology/comments/u2g3tw/new_to_this_sub_beginner_to_it_looking_for_advice/)
 - [CCNA Study Prep](https://www.reddit.com/r/InformationTechnology/comments/u2g0cy/ccna_study_prep/)
 - [Business Systems Analyst](https://www.reddit.com/r/InformationTechnology/comments/u2dtrd/business_systems_analyst/)
-- [Explain to me what your first real day of work was like at a support desk? Were you nervous? Did you feel prepared for the tasks assigned to you? Was the first month easy or hard for you?](https://www.reddit.com/r/InformationTechnology/comments/u2a3ya/explain_to_me_what_your_first_real_day_of_work/)
-- [Need help with an assignment](https://www.reddit.com/r/InformationTechnology/comments/u21wgu/need_help_with_an_assignment/)
-- [IT support peeps, what do you usually wear on office?](https://www.reddit.com/r/InformationTechnology/comments/u1ubpu/it_support_peeps_what_do_you_usually_wear_on/)
-- [If your IT job was a fighting video game, what would be your super moves? For example, mines would be is Control + Alt+ Delete](https://www.reddit.com/r/InformationTechnology/comments/u1en9s/if_your_it_job_was_a_fighting_video_game_what/)
-- [Graduating in a few weeks](https://www.reddit.com/r/InformationTechnology/comments/u0s8y4/graduating_in_a_few_weeks/)
-- [Memory Leak?](https://www.reddit.com/r/InformationTechnology/comments/u0p680/memory_leak/)
-- [About to start IT Associate Degree](https://www.reddit.com/r/InformationTechnology/comments/u0lunx/about_to_start_it_associate_degree/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

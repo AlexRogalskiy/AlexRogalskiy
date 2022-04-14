@@ -369,6 +369,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Remote Work Jobs Still Growing, Particularly for Tech Pros](https://www.informationweek.com/it-life/remote-work-jobs-still-growing-particularly-for-tech-pros)
+- [The Post-Pandemic Workplace and The Path Forward](https://www.informationweek.com/strategic-cio/the-post-pandemic-workplace-and-the-path-forward)
+- [IT Pros: Ways to Ace the Video Job Interview](https://www.informationweek.com/it-life/it-pros-ways-to-ace-the-video-job-interview)
 - [How CISOs Are Walking the Executive Tightrope](https://www.informationweek.com/strategic-cio/how-cisos-are-walking-the-executive-tightrope)
 - [Talend Acquisition Targets Data Replication Speeds](https://www.informationweek.com/big-data/talend-acquisition-targets-data-replication-speeds)
 - [The Tech Talent Chasm](https://www.informationweek.com/it-life/the-tech-talent-chasm)
@@ -376,9 +379,6 @@
 - [IT Modernization: Ask Not Why, But Why Not?](https://www.informationweek.com/cloud/it-modernization-ask-not-why-but-why-not-)
 - [Ukraine&#39;s IT Pros Tell Their Stories of Bombing &amp; Business Continuity](https://www.informationweek.com/it-life/ukraines-it-pros-tell-us-their-stories-of-bombs-&-business-continuity)
 - [Sustainability: Is Now the Time for IT to Get Busy?](https://www.informationweek.com/strategic-cio/sustainability-is-now-the-time-for-it-to-get-busy-)
-- [How to Identify and Avoid Crypto Pump-and-Dumps](https://www.informationweek.com/it-life/how-to-identify-and-avoid-crypto-pump-and-dumps)
-- [Scuderia AlphaTauri Cranks Up Racecar Efficiency with Epicor](https://www.informationweek.com/cloud/scuderia-alphatauri-cranks-up-racecar-efficiency-with-epicor)
-- [Enterprise Browsers Promise Enhanced Security, Productivity](https://www.informationweek.com/software/enterprise-browsers-promise-enhanced-security-productivity)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Applicable skills to cybersecurity](https://www.reddit.com/r/InformationTechnology/comments/u3rnx8/applicable_skills_to_cybersecurity/)
+- [Survey on Learning Preferences &amp; Cloud Computing for Class Assignment &lpar;7 short questions&rpar;](https://www.reddit.com/r/InformationTechnology/comments/u3nzhn/survey_on_learning_preferences_cloud_computing/)
+- [Non routable network address](https://www.reddit.com/r/InformationTechnology/comments/u3kpxp/non_routable_network_address/)
+- [Wireless Screen Casting](https://www.reddit.com/r/InformationTechnology/comments/u3i5xi/wireless_screen_casting/)
 - [IT company startup ideas for college students](https://www.reddit.com/r/InformationTechnology/comments/u33yio/it_company_startup_ideas_for_college_students/)
 - [NSE 4 study prep](https://www.reddit.com/r/InformationTechnology/comments/u31xbf/nse_4_study_prep/)
 - [Graduating in Business Information Systems - On the Job Hunt](https://www.reddit.com/r/InformationTechnology/comments/u30b7i/graduating_in_business_information_systems_on_the/)
 - [Final Assignment for Networking I!! Haaaalp!!!](https://www.reddit.com/r/InformationTechnology/comments/u2xrju/final_assignment_for_networking_i_haaaalp/)
 - [Computer Labels](https://www.reddit.com/r/InformationTechnology/comments/u2wehw/computer_labels/)
-- [Cloud Models Explained - CompTIA Network+ &lpar;N10-008&rpar;](https://www.reddit.com/r/InformationTechnology/comments/u2pt0t/cloud_models_explained_comptia_network_n10008/)
 - [What is your personal domain](https://www.reddit.com/r/InformationTechnology/comments/u2j1kx/what_is_your_personal_domain/)
-- [New to this Sub, Beginner to IT, Looking for advice please](https://www.reddit.com/r/InformationTechnology/comments/u2g3tw/new_to_this_sub_beginner_to_it_looking_for_advice/)
-- [CCNA Study Prep](https://www.reddit.com/r/InformationTechnology/comments/u2g0cy/ccna_study_prep/)
-- [Business Systems Analyst](https://www.reddit.com/r/InformationTechnology/comments/u2dtrd/business_systems_analyst/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

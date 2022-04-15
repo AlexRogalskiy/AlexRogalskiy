@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [My Life as a Mentalist](https://www.zocalopublicsquare.org/2022/04/07/where-i-go-my-life-as-a-mentalist/chronicles/where-i-go/)
-- [Computers Can Be Understood &lpar;2020&rpar;](https://blog.nelhage.com/post/computers-can-be-understood/)
-- [Regology &lpar;YC S18&rpar; Is Hiring](https://www.ycombinator.com/companies/regology/jobs/WmLGnHI-product-marketing-manager)
-- [Why I quit this battle](https://badmodems.com/Why.htm)
-- [Apple&#39;s M1 Ultra comes with a 32MB TLB bottleneck](https://twitter.com/VadimYuryev/status/1514295682777059329)
-- [Three areas where Google Search lags behind competitors: code, cooking, travel](https://www.surgehq.ai//blog/google-search-is-falling-behind)
-- [Facebook open sources Lexical, an extensible text editor library](https://lexical.dev/)
-- [Jimmy Carter&#39;s White House Solar Panels &lpar;2019&rpar;](https://www.powerhome.com/the-journey-of-jimmy-carters-solar-panels/)
-- [Ask HN: Have you created programs for only your personal use?](https://news.ycombinator.com/item?id=31018836)
-- [Let’s Encrypt Receives the Levchin Prize for Real-World Cryptography](https://letsencrypt.org/2022/04/13/receiving-the-levchin-prize.html)
+- [Flexport is hiring a senior engineer with experience building product catalogs](https://flexport.com/careers)
+- [5-min breathing workout lowers blood pressure as much as exercise, drugs &lpar;2021&rpar;](https://www.colorado.edu/today/2021/06/29/5-minute-breathing-workout-lowers-blood-pressure-much-exercise-drugs)
+- [Star Labs StarBook – AMD 14&quot; Linux Laptop with coreboot and “Open warranty”](https://starlabs.systems/pages/starbook)
+- [We lost 54k GitHub stars](https://httpie.io/blog/stardust)
+- [Why Germany won’t keep its nuclear plants open](https://unchartedterritories.tomaspueyo.com/p/why-germany-wont-keep-its-nuclear)
+- [How a film camera superimposes the date onto photos](https://www.youtube.com/watch?v=ezME4_xMMnk)
+- [Computer Science Open Data](https://jeffhuang.com/computer-science-open-data/)
+- [A Gripe about the Los Angeles Metro Bike App](https://veryla.io/stories/metro-bike-app-los-angeles)
+- [The Irrelevance of Porter’s Five Forces for the B2B Software Industry](https://jhcblog.juliehuntconsulting.com/2012/12/the-irrelevance-of-porters-five-forces-for-the-b2b-software-industry.html)
+- [Link: Simple, secure one-click payments by Stripe](https://link.co/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

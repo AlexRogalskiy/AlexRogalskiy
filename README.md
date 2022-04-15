@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Refugee support group works with tech startup on reporting system](https://www.computerweekly.com/feature/Refugee-support-group-works-with-tech-startup-on-reporting-system)
+- [Lack of expertise hurting UK government’s cyber preparedness](https://www.computerweekly.com/news/252515962/Lack-of-expertise-hurting-UK-governments-cyber-preparedness)
+- [Kyndryl kindles cyber incident recovery pact with Dell](https://www.computerweekly.com/news/252515957/Kyndryl-kindles-cyber-incident-recovery-pact-with-Dell)
+- [Multi-ERP systems are on the menu for SAP implementations](https://www.computerweekly.com/news/252515955/Multi-ERP-systems-are-on-the-menu-for-SAP-implementations)
+- [Zhadnost DDoS botnet deployed against Finland](https://www.computerweekly.com/news/252515952/Zhadnost-DDoS-botnet-deployed-against-Finland)
+- [Incontroller ICS malware has ‘rare, dangerous’ capabilities, says Mandiant](https://www.computerweekly.com/news/252515949/Incontroller-ICS-malware-has-rare-dangerous-capabilities-says-Mandiant)
+- [How algorithmic automation could manage workers ethically](https://www.computerweekly.com/feature/How-algorithmic-automation-could-manage-workers-ethically)
+- [Government agrees bulk surveillance powers fail to protect journalists and sources](https://www.computerweekly.com/news/252515935/Government-agrees-bulk-surveillance-powers-fail-to-protect-journalists-and-sources)
 - [WatchGuard firewall users urged to patch Cyclops Blink vulnerability](https://www.computerweekly.com/news/252515913/WatchGuard-firewall-users-urged-to-patch-Cyclops-Blink-vulnerability)
 - [Google Cloud research highlights disconnect between intention and delivery on green IT initiatives](https://www.computerweekly.com/news/252515903/Google-Cloud-research-highlights-disconnect-between-intention-and-delivery-on-green-IT-initiatives)
-- [News UK hires former Discovery Inc tech head as new CTO](https://www.computerweekly.com/news/252515914/News-UK-hires-former-Discover-tech-head-as-new-CTO)
-- [Oracle vaunts ME as employee experience platform geared to post-crisis workforce realities](https://www.computerweekly.com/news/252515880/Oracle-vaunts-ME-as-employee-experience-platform-geared-to-post-crisis-workforce-realities)
-- [Microsoft patches two zero-days, 10 critical bugs](https://www.computerweekly.com/news/252515909/Microsoft-patches-two-zero-days-10-critical-bugs)
-- [Criminals researched hacking TTPs post-breach in ‘messy’ cyber attack](https://www.computerweekly.com/news/252515905/Criminals-researched-hacking-TTPs-post-breach-in-messy-cyber-attack)
-- [Using technology to reinvent stores](https://www.computerweekly.com/feature/Using-technology-to-reinvent-stores)
-- [Executive interview: How Audi provides developer self-service](https://www.computerweekly.com/news/252515798/Executive-Interview-How-Audi-provides-developer-self-service)
-- [Universal IAM policy failings put cloud environments at risk](https://www.computerweekly.com/news/252515865/Universal-IAM-policy-failings-put-cloud-environments-at-risk)
-- [Multiple arrests made in RaidForums takedown](https://www.computerweekly.com/news/252515871/Multiple-arrests-made-in-RaidForums-takedown)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

@@ -369,16 +369,16 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Applications Cannot Be Trusted](https://www.informationweek.com/security-and-risk-strategy/applications-cannot-be-trusted)
+- [Automated Accounts Payable Gives Biotech Company New Efficiency](https://www.informationweek.com/fintech/imaginab-finds-digital-efficiency-with-automated-accounts-payable)
+- [Ground Rules for Open-Source Software Management](https://www.informationweek.com/software/ground-rules-for-open-source-software-management)
+- [The Automation Revolution and the Shift in Labor](https://www.informationweek.com/ai-or-machine-learning/the-automation-revolution-and-the-shift-in-labor)
 - [Remote Work Jobs Still Growing, Particularly for Tech Pros](https://www.informationweek.com/it-life/remote-work-jobs-still-growing-particularly-for-tech-pros)
 - [The Post-Pandemic Workplace and The Path Forward](https://www.informationweek.com/strategic-cio/the-post-pandemic-workplace-and-the-path-forward)
 - [IT Pros: Ways to Ace the Video Job Interview](https://www.informationweek.com/it-life/it-pros-ways-to-ace-the-video-job-interview)
 - [How CISOs Are Walking the Executive Tightrope](https://www.informationweek.com/strategic-cio/how-cisos-are-walking-the-executive-tightrope)
 - [Talend Acquisition Targets Data Replication Speeds](https://www.informationweek.com/big-data/talend-acquisition-targets-data-replication-speeds)
 - [The Tech Talent Chasm](https://www.informationweek.com/it-life/the-tech-talent-chasm)
-- [How to Maximize Your Organization&#39;s Cloud Budget](https://www.informationweek.com/cloud/how-to-maximize-your-organization-s-cloud-budget)
-- [IT Modernization: Ask Not Why, But Why Not?](https://www.informationweek.com/cloud/it-modernization-ask-not-why-but-why-not-)
-- [Ukraine&#39;s IT Pros Tell Their Stories of Bombing &amp; Business Continuity](https://www.informationweek.com/it-life/ukraines-it-pros-tell-us-their-stories-of-bombs-&-business-continuity)
-- [Sustainability: Is Now the Time for IT to Get Busy?](https://www.informationweek.com/strategic-cio/sustainability-is-now-the-time-for-it-to-get-busy-)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

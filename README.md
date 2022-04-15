@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war latest: Zelenskiy pleads for weapons to avoid ‘bloodbath’; Ukraine says east of country braced for attack – live](https://www.theguardian.com/world/live/2022/apr/13/russia-ukraine-war-latest-biden-accuses-putin-of-genocide-russia-building-up-troops-on-eastern-border-satellite-images-show-live)
-- [‘Gota go home’: Sri Lankans turn](https://www.theguardian.com/world/2022/apr/14/sri-lanka-gotabaya-rajapaksag-gota-go-home-protests)
-- [Boris Johnson broke the law. Will the Met&#39;s Partygate fines be the PM’s undoing?](https://www.theguardian.com/news/audio/2022/apr/14/boris-johnson-broke-law-will-partygate-fines-be-undoing-podcast)
-- [Tropical storm Megi: Philippines death toll rises to 80 as landslides bury villages](https://www.theguardian.com/world/2022/apr/14/tropical-storm-megi-philippines-death-toll-rises-to-80-as-landslides-bury-villages)
-- [US federal alert warns of the discovery of malicious cyber tools](https://www.theguardian.com/us-news/2022/apr/13/us-alert-malicious-cyber-tools-russia)
-- [Russia-Ukraine war: what we know on day 50 of the invasion](https://www.theguardian.com/world/2022/apr/14/russia-ukraine-war-what-we-know-on-day-50-of-the-invasion)
-- [Palestinian lawyer and teen killed as Israel raids West Bank amid escalating violence](https://www.theguardian.com/world/2022/apr/14/palestinian-lawyer-and-teen-killed-as-israel-raids-west-bank-amid-escalating-violence)
-- [Video shows police officer kneeling on Black man before fatally shooting him](https://www.theguardian.com/us-news/2022/apr/13/patrick-lyoya-police-grand-rapids-michigan)
-- [London teacher awarded £850,000 after pupil’s attack](https://www.theguardian.com/education/2022/apr/14/london-teacher-awarded-850000-after-pupils-attack)
-- [Cost of renting jumps at record, adding more pressure to cost of living crisis](https://www.theguardian.com/money/2022/apr/14/private-rents-britain-rose-record-rate-past-year-swansea-manchester-london)
+- [Russia-Ukraine war latest: Russia says Moskva warship has sunk after reported missile strike – live](https://www.theguardian.com/world/live/2022/apr/14/russia-ukraine-war-latest-russia-says-warship-seriously-damaged-after-ammunition-explosion-us-to-send-800m-in-military-aid-to-ukraine-live)
+- [Where did it all go wrong for Imran Khan? – podcast](https://www.theguardian.com/news/audio/2022/apr/15/where-did-it-all-go-wrong-for-imran-khan-podcast)
+- [Arizona man froze nearly 200 animals in garage freezer](https://www.theguardian.com/us-news/2022/apr/14/arizona-man-froze-animals-garage-freezer)
+- [Jack Newton: Australian golfing great who lost arm to plane’s propeller dies aged 72](https://www.theguardian.com/sport/2022/apr/15/australian-golfing-great-jack-newton-dies)
+- [In New Zealand rugby, women are still viewed as tourists to the game, a footnote to the men | Alice Soper](https://www.theguardian.com/world/commentisfree/2022/apr/15/in-new-zealand-rugby-women-are-still-viewed-as-tourists-to-the-game-a-footnote-to-the-men)
+- [‘A senseless tragedy’: woman dies after bid to climb US border wall](https://www.theguardian.com/us-news/2022/apr/14/mexican-woman-border-wall-arizona-dies)
+- [Prince Harry and Meghan visit Queen on way to Invictus Games](https://www.theguardian.com/uk-news/2022/apr/15/prince-harry-and-meghan-visit-queen-on-way-to-invictus-games)
+- [Premier League and FA Cup semi-finals: 10 things to look out for this weekend](https://www.theguardian.com/football/2022/apr/15/premier-league-and-fa-cup-semi-finals-10-things-to-look-out-for-this-weekend)
+- [British camping holidays boom in pandemic, figures show](https://www.theguardian.com/business/2022/apr/15/british-camping-caravanning-holidays-boom-pandemic-mintel)
+- [Derry to mark 25 years of Good Friday agreement with John Hume musical](https://www.theguardian.com/stage/2022/apr/15/derry-to-mark-25-years-of-good-friday-agreement-with-john-hume-musical)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

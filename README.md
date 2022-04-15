@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Will chatbots ever live up to the hype?](https://stackoverflow.blog/2022/04/13/will-chatbots-ever-live-up-to-the-hype/)
-- [Don’t Cook Yourself with RF Energy](https://www.bigmessowires.com/2022/04/13/dont-cook-yourself-with-rf-energy/)
-- [Amazon Cracks Down on Organizing After Historic Union Win](https://www.vice.com/en/article/epx9jp/amazon-cracks-down-on-organizing-after-historic-union-win)
-- [Meeting Creatures](https://randsinrepose.com/archives/meeting-creatur/)
-- [Founders extend your runway with the R&amp;D Tax Credit &lpar;up to $250k&rpar;](https://www.neo.tax/?_ga=2.85208730.2081035591.1643227484-166106242.1636064007)
-- [What does if __name__ == “__main__”: do?](https://stackoverflow.com/questions/419163/what-does-if-name-main-do)
-- [Walgreens Covid-19 Index](https://www.walgreens.com/businesssolutions/covid-19-index.jsp)
-- [Best Practices for Interfaces in Go](https://blog.boot.dev/golang/golang-interfaces/)
-- [Helix: A post-modern modal text editor](https://github.com/helix-editor/helix)
-- [Tarrask malware uses scheduled tasks for defense evasion](https://www.microsoft.com/security/blog/2022/04/12/tarrask-malware-uses-scheduled-tasks-for-defense-evasion/)
+- [Reddit Announces Comment Search](https://www.redditinc.com/blog/new-on-reddit-comment-search-improved-search-results-relevance-updated-search-design)
+- [Sunken Moskva Could Be the Biggest Naval Combat Loss in 40 Years](https://www.thedrive.com/the-war-zone/sinking-a-warship-is-a-truly-rare-event-in-modern-naval-warfare)
+- [Explaining why gamers are adopting Windows 11 more slowly than Windows 10](https://arstechnica.com/gadgets/2022/04/gamers-are-adopting-windows-11-about-half-as-quickly-as-they-did-for-windows-10/)
+- [Twitter shutdown API to prevent takeover – tweet stream about Musk and Twitter](https://twitter.com/rabble/status/1514793459147677696)
+- [Escape the Box](https://patzhong.com/escape-the-box/)
+- [The Job Demands-Resources model &lpar;JD-R model&rpar; is an occupational stress model](https://en.wikipedia.org/wiki/Job_demands-resources_model)
+- [Simple Report Card in Java](https://mayankvikash.ml//posts/simple-report-card-in-java.html)
+- [Embedding E-Graph Rewriting in Constraint Handling Rules](https://www.philipzucker.com/egraph-chr/)
+- [Empty Autonomous Car Runs from San Francisco Cops](https://www.motorious.com/articles/news/empty-autonomous-car-runs/)
+- [On Selling Exceptions to the GNU GPL &lpar;2010&rpar;](https://www.fsf.org/blogs/rms/selling-exceptions)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

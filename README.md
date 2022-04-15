@@ -384,6 +384,9 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Atlassian unveils Compass collaboration portal for developers](https://www.infoworld.com/article/3657731/atlassian-unveils-compass-collaboration-portal-for-developers.html#tk.rss_all)
+- [How to enforce architecture rules in C#](https://www.infoworld.com/article/3656703/how-to-enforce-architecture-rules-in-csharp.html#tk.rss_all)
+- [How blockchain is evolving](https://www.infoworld.com/article/3655083/how-blockchain-is-evolving.html#tk.rss_all)
 - [Microsoft .NET MAUI release candidate available](https://www.infoworld.com/article/3657588/microsoft-net-maui-release-candidate-available.html#tk.rss_all)
 - [Atlassian Cloud outage hits 400 customers](https://www.infoworld.com/article/3656704/atlassian-cloud-outage-hits-400-customers.html#tk.rss_all)
 - [Why developers are joining the Great Resignation](https://www.infoworld.com/article/3656705/why-developers-are-joining-the-great-resignation.html#tk.rss_all)
@@ -391,9 +394,6 @@
 - [6 ways to package Python apps for re-use](https://www.infoworld.com/article/3656628/6-ways-to-package-python-apps-for-re-use.html#tk.rss_all)
 - [TypeScript 4.7 adds ESM support in Node.js](https://www.infoworld.com/article/3656801/typescript-47-adds-esm-support-in-nodejs.html#tk.rss_all)
 - [Neo4j’s new AuraDS brings managed data science services to Google Cloud](https://www.infoworld.com/article/3656699/neo4js-new-aurads-brings-managed-data-science-services-to-google-cloud.html#tk.rss_all)
-- [DataStax CEO: Every use case doesn’t need a new database](https://www.infoworld.com/article/3656950/datastax-ceo-every-use-case-doesnt-need-a-new-database.html#tk.rss_all)
-- [Scaling throughput and performance in a sharding database system](https://www.infoworld.com/article/3656915/scaling-throughput-and-performance-in-a-sharding-database-system.html#tk.rss_all)
-- [The complex layers of cloud computing sustainability](https://www.infoworld.com/article/3656792/the-complex-layers-of-cloud-computing-sustainability.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

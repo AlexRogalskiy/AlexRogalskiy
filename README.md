@@ -414,6 +414,8 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [3CX phone system](https://www.reddit.com/r/InformationTechnology/comments/u487e7/3cx_phone_system/)
+- [Wondering if this exists](https://www.reddit.com/r/InformationTechnology/comments/u45jc2/wondering_if_this_exists/)
 - [Applicable skills to cybersecurity](https://www.reddit.com/r/InformationTechnology/comments/u3rnx8/applicable_skills_to_cybersecurity/)
 - [Survey on Learning Preferences &amp; Cloud Computing for Class Assignment &lpar;7 short questions&rpar;](https://www.reddit.com/r/InformationTechnology/comments/u3nzhn/survey_on_learning_preferences_cloud_computing/)
 - [Non routable network address](https://www.reddit.com/r/InformationTechnology/comments/u3kpxp/non_routable_network_address/)
@@ -422,8 +424,6 @@
 - [NSE 4 study prep](https://www.reddit.com/r/InformationTechnology/comments/u31xbf/nse_4_study_prep/)
 - [Graduating in Business Information Systems - On the Job Hunt](https://www.reddit.com/r/InformationTechnology/comments/u30b7i/graduating_in_business_information_systems_on_the/)
 - [Final Assignment for Networking I!! Haaaalp!!!](https://www.reddit.com/r/InformationTechnology/comments/u2xrju/final_assignment_for_networking_i_haaaalp/)
-- [Computer Labels](https://www.reddit.com/r/InformationTechnology/comments/u2wehw/computer_labels/)
-- [What is your personal domain](https://www.reddit.com/r/InformationTechnology/comments/u2j1kx/what_is_your_personal_domain/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

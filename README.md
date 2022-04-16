@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Reddit Announces Comment Search](https://www.redditinc.com/blog/new-on-reddit-comment-search-improved-search-results-relevance-updated-search-design)
-- [Sunken Moskva Could Be the Biggest Naval Combat Loss in 40 Years](https://www.thedrive.com/the-war-zone/sinking-a-warship-is-a-truly-rare-event-in-modern-naval-warfare)
-- [Explaining why gamers are adopting Windows 11 more slowly than Windows 10](https://arstechnica.com/gadgets/2022/04/gamers-are-adopting-windows-11-about-half-as-quickly-as-they-did-for-windows-10/)
-- [Twitter shutdown API to prevent takeover – tweet stream about Musk and Twitter](https://twitter.com/rabble/status/1514793459147677696)
-- [Escape the Box](https://patzhong.com/escape-the-box/)
-- [The Job Demands-Resources model &lpar;JD-R model&rpar; is an occupational stress model](https://en.wikipedia.org/wiki/Job_demands-resources_model)
-- [Simple Report Card in Java](https://mayankvikash.ml//posts/simple-report-card-in-java.html)
-- [Embedding E-Graph Rewriting in Constraint Handling Rules](https://www.philipzucker.com/egraph-chr/)
-- [Empty Autonomous Car Runs from San Francisco Cops](https://www.motorious.com/articles/news/empty-autonomous-car-runs/)
-- [On Selling Exceptions to the GNU GPL &lpar;2010&rpar;](https://www.fsf.org/blogs/rms/selling-exceptions)
+- [Alibaba&#39;s Arm-based 128 core CPU will send a shiver down spines at Intel and AMD](https://www.techradar.com/news/a-new-arm-based-cpu-with-128-cores-will-send-a-shiver-down-spines-at-intel-and-amd)
+- [Democracy Is a Ruse](https://news.ycombinator.com/item?id=31048753)
+- [Show HN: Neptune Lang – A concurrent fast dynamically typed scripting language](https://github.com/Srinivasa314/neptune-lang)
+- [Beacon in the Galaxy: Updated Arecibo Message for Potential FAST&amp;SETI Projects](https://www.mdpi.com/2075-4434/10/2/55/htm)
+- [If You’re Getting a W-2, You’re a Sucker](https://www.propublica.org/article/if-youre-getting-a-w-2-youre-a-sucker)
+- [Evolving language “What&#39;s your take?”](https://news.ycombinator.com/item?id=31048689)
+- [Heroku Security Incident](https://status.heroku.com/incidents/2413)
+- [Google Chrome emergency update fixes zero-day used in attacks](https://www.bleepingcomputer.com/news/security/google-chrome-emergency-update-fixes-zero-day-used-in-attacks/)
+- [Another big shipping line is refusing to export the West’s plastic waste](https://qz.com/2155412/shipping-lines-are-refusing-to-export-the-wests-plastic-waste/)
+- [The brain expands and shrinks over time](https://www.nature.com/articles/d41586-022-00971-1)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

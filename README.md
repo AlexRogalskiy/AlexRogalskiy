@@ -369,6 +369,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [A Practical Guide to DevOps](https://www.informationweek.com/devops/a-practical-guide-to-devops-it-s-not-that-scary)
+- [Into the Metaverse: A Game-Changing Year for UI and UX](https://www.informationweek.com/software/into-the-metaverse-a-game-changing-year-for-ui-and-ux)
 - [Applications Cannot Be Trusted](https://www.informationweek.com/security-and-risk-strategy/applications-cannot-be-trusted)
 - [Automated Accounts Payable Gives Biotech Company New Efficiency](https://www.informationweek.com/fintech/imaginab-finds-digital-efficiency-with-automated-accounts-payable)
 - [Ground Rules for Open-Source Software Management](https://www.informationweek.com/software/ground-rules-for-open-source-software-management)
@@ -377,8 +379,6 @@
 - [The Post-Pandemic Workplace and The Path Forward](https://www.informationweek.com/strategic-cio/the-post-pandemic-workplace-and-the-path-forward)
 - [IT Pros: Ways to Ace the Video Job Interview](https://www.informationweek.com/it-life/it-pros-ways-to-ace-the-video-job-interview)
 - [How CISOs Are Walking the Executive Tightrope](https://www.informationweek.com/strategic-cio/how-cisos-are-walking-the-executive-tightrope)
-- [Talend Acquisition Targets Data Replication Speeds](https://www.informationweek.com/big-data/talend-acquisition-targets-data-replication-speeds)
-- [The Tech Talent Chasm](https://www.informationweek.com/it-life/the-tech-talent-chasm)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

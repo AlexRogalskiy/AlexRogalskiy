@@ -384,16 +384,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Microsoft .NET 7 Preview 3 focuses on speedups](https://www.infoworld.com/article/3657772/microsoft-net-7-preview-3-focuses-on-speedups.html#tk.rss_all)
+- [Approach cloud architecture from the outside in](https://www.infoworld.com/article/3657768/approach-cloud-architecture-from-the-outside-in.html#tk.rss_all)
+- [What is CI/CD? Continuous integration and continuous delivery explained](https://www.infoworld.com/article/3271126/what-is-cicd-continuous-integration-and-continuous-delivery-explained.html#tk.rss_all)
+- [Virtualenv and venv: Python virtual environments explained](https://www.infoworld.com/article/3239675/virtualenv-and-venv-python-virtual-environments-explained.html#tk.rss_all)
 - [Atlassian unveils Compass collaboration portal for developers](https://www.infoworld.com/article/3657731/atlassian-unveils-compass-collaboration-portal-for-developers.html#tk.rss_all)
 - [How to enforce architecture rules in C#](https://www.infoworld.com/article/3656703/how-to-enforce-architecture-rules-in-csharp.html#tk.rss_all)
 - [How blockchain is evolving](https://www.infoworld.com/article/3655083/how-blockchain-is-evolving.html#tk.rss_all)
 - [Microsoft .NET MAUI release candidate available](https://www.infoworld.com/article/3657588/microsoft-net-maui-release-candidate-available.html#tk.rss_all)
 - [Atlassian Cloud outage hits 400 customers](https://www.infoworld.com/article/3656704/atlassian-cloud-outage-hits-400-customers.html#tk.rss_all)
 - [Why developers are joining the Great Resignation](https://www.infoworld.com/article/3656705/why-developers-are-joining-the-great-resignation.html#tk.rss_all)
-- [Make the most of SharePoint search APIs](https://www.infoworld.com/article/3656952/make-the-most-of-sharepoint-search-apis.html#tk.rss_all)
-- [6 ways to package Python apps for re-use](https://www.infoworld.com/article/3656628/6-ways-to-package-python-apps-for-re-use.html#tk.rss_all)
-- [TypeScript 4.7 adds ESM support in Node.js](https://www.infoworld.com/article/3656801/typescript-47-adds-esm-support-in-nodejs.html#tk.rss_all)
-- [Neo4j’s new AuraDS brings managed data science services to Google Cloud](https://www.infoworld.com/article/3656699/neo4js-new-aurads-brings-managed-data-science-services-to-google-cloud.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

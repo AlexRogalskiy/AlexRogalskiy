@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Flexport is hiring a senior engineer with experience building product catalogs](https://flexport.com/careers)
-- [5-min breathing workout lowers blood pressure as much as exercise, drugs &lpar;2021&rpar;](https://www.colorado.edu/today/2021/06/29/5-minute-breathing-workout-lowers-blood-pressure-much-exercise-drugs)
-- [Star Labs StarBook – AMD 14&quot; Linux Laptop with coreboot and “Open warranty”](https://starlabs.systems/pages/starbook)
-- [We lost 54k GitHub stars](https://httpie.io/blog/stardust)
-- [Why Germany won’t keep its nuclear plants open](https://unchartedterritories.tomaspueyo.com/p/why-germany-wont-keep-its-nuclear)
-- [How a film camera superimposes the date onto photos](https://www.youtube.com/watch?v=ezME4_xMMnk)
-- [Computer Science Open Data](https://jeffhuang.com/computer-science-open-data/)
-- [A Gripe about the Los Angeles Metro Bike App](https://veryla.io/stories/metro-bike-app-los-angeles)
-- [The Irrelevance of Porter’s Five Forces for the B2B Software Industry](https://jhcblog.juliehuntconsulting.com/2012/12/the-irrelevance-of-porters-five-forces-for-the-b2b-software-industry.html)
-- [Link: Simple, secure one-click payments by Stripe](https://link.co/)
+- [Heroku Security Incident](https://status.heroku.com/incidents/2413)
+- [Intel deprecates SGX on Core series processors](https://edc.intel.com/content/www/us/en/design/ipla/software-development-platforms/client/platforms/alder-lake-desktop/12th-generation-intel-core-processors-datasheet-volume-1-of-2/004/deprecated-technologies/)
+- [When hiring developers, have the candidate read existing code](https://freakingrectangle.wordpress.com/2022/04/15/how-to-freaking-hire-great-developers/)
+- [The jewel-encrusted edition of the Rubáiyát of Omar Khayyám](https://www.bbc.com/news/uk-england-london-57683638)
+- [XHTTP: An HTTP server library in a single C file](https://github.com/cozis/xHTTP)
+- [Attack campaign involving stolen OAuth tokens issued to third-party integrators](https://github.blog/2022-04-15-security-alert-stolen-oauth-user-tokens/)
+- [Re-implementing an old DOS game in C++ 17](https://lethalguitar.wordpress.com/2019/05/28/re-implementing-an-old-dos-game-in-c-17/)
+- [OneSignal &lpar;YC S11&rpar; is hiring back end and full stack engineers](https://onesignal.com/careers)
+- [My take on Elon&#39;s offer for Twitter](https://twitter.com/yishan/status/1514938507407421440)
+- [Ten members of international stock manipulation ring charged in Manhattan](https://www.justice.gov/usao-sdny/pr/ten-members-international-stock-manipulation-ring-charged-manhattan-federal-court)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

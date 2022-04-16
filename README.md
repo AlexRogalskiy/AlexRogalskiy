@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Microsoft to kill Patch Tuesday for some enterprise users](https://www.computerworld.com/article/3657612/microsoft-to-kill-patch-tuesday-for-some-enterprise-users.html#tk.rss_all)
+- [April&#39;s Patch Tuesday: a lot of large, diverse and urgent updates](https://www.computerworld.com/article/3657754/aprils-patch-tuesday-a-lot-of-large-diverse-and-urgent-updates.html#tk.rss_all)
+- [Apple plots a Mac revolution in interesting times](https://www.computerworld.com/article/3657752/apple-plots-a-mac-revolution-in-interesting-times.html#tk.rss_all)
+- [Mergers and acquisitions and takeovers — oh my!](https://www.computerworld.com/article/3657737/mergers-and-acquisitions-and-takeovers-oh-my.html#tk.rss_all)
 - [Podcast: What will Apple announce at WWDC 2022?](https://www.computerworld.com/article/3657733/what-will-apple-announce-at-wwdc-2022.html#tk.rss_all)
 - [Apple calls out Meta for hypocrisy](https://www.computerworld.com/article/3657732/apple-calls-out-meta-for-hypocrisy.html#tk.rss_all)
 - [Samsung beats Intel as top semiconductor seller as overall demand rises](https://www.computerworld.com/article/3657729/samsung-beats-intel-as-top-semiconductor-seller-as-overall-demand-rises.html#tk.rss_all)
 - [Zoom Events gets a virtual green room](https://www.computerworld.com/article/3657569/zoom-events-gets-a-virtual-green-room.html#tk.rss_all)
 - [How to choose an enterprise search platform](https://www.computerworld.com/article/3655951/how-to-choose-an-enterprise-search-platform.html#tk.rss_all)
 - [More than half of PCs can&#39;t upgrade to Windows 11 — report](https://www.computerworld.com/article/3657628/more-than-half-of-pcs-cant-upgrade-to-windows-11-report.html#tk.rss_all)
-- [Google to invest $9.5B in US offices and data centers this year](https://www.computerworld.com/article/3656736/google-to-invest-95b-in-us-offices-and-data-centers-this-year.html#tk.rss_all)
-- [Apple has good privacy arguments, but critics aren&#39;t listening](https://www.computerworld.com/article/3656803/apple-has-good-privacy-arguments-but-critics-arent-listening.html#tk.rss_all)
-- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
-- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

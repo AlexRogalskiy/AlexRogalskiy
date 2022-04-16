@@ -429,6 +429,8 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Cyber Security Today, Week in Review for April 15, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-april-15-2022/480261)
+- [Cyber Security Today, April 15, 2022 – A new botnet discovered, low MFA adoption and a Struts bug finally patched](https://www.itworldcanada.com/article/cyber-security-today-april-15-2022-a-new-botnet-discovered-low-mfa-adoption-and-a-struts-bug-finally-patched/480276)
 - [An interview with Intel Canada: strategy, partnership, and talent](https://www.itworldcanada.com/article/an-interview-with-intel-canada-strategy-partnership-and-talent/480228)
 - [Protecting identities online is critically important](https://www.itworldcanada.com/article/protecting-identities-online-is-critically-important/480149)
 - [Hackers going after VMware Workspace ONE Access and VMware Identity Manager; patch now](https://www.itworldcanada.com/article/hackers-going-after-vmware-workspace-one-access-and-vmware-identity-manager-patch-now/480214)
@@ -437,8 +439,6 @@
 - [In the midst of a talent shortage, how can Canada keep up with its tech sector growth?](https://www.itworldcanada.com/article/in-the-midst-of-a-talent-shortage-how-can-canada-keep-up-with-its-tech-sector-growth/479820)
 - [How SMBs can create an identity management strategy](https://www.itworldcanada.com/article/how-smbs-can-create-an-identity-management-strategy/480019)
 - [ServiceNow launches its Now Platform San Diego release](https://www.itworldcanada.com/article/servicenow-launches-its-now-platform-san-diego-release/480095)
-- [Canadian funders say bridging Canada’s digital divide needs to be prioritized to address urgent social issues](https://www.itworldcanada.com/article/canadian-funders-say-bridging-canadas-digital-divide-need-to-be-prioritized-to-address-urgent-social-issues/480075)
-- [Cyber Security Today, Wednesday April 13, 2022 – Updated malware attacks a Ukraine power company, the RaidForums darkweb site is seized, a new Hafnium attack and more patches issued](https://www.itworldcanada.com/article/cyber-security-today-wednesday-april-13-2022-updated-malware-attacks-a-ukraine-power-company-the-raidforums-darkweb-site-is-seized-a-new-hafnium-attack-and-more-patches-issued/479919)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

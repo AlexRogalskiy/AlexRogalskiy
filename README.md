@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war latest: Russia says Moskva warship has sunk after reported missile strike – live](https://www.theguardian.com/world/live/2022/apr/14/russia-ukraine-war-latest-russia-says-warship-seriously-damaged-after-ammunition-explosion-us-to-send-800m-in-military-aid-to-ukraine-live)
-- [Where did it all go wrong for Imran Khan? – podcast](https://www.theguardian.com/news/audio/2022/apr/15/where-did-it-all-go-wrong-for-imran-khan-podcast)
-- [Arizona man froze nearly 200 animals in garage freezer](https://www.theguardian.com/us-news/2022/apr/14/arizona-man-froze-animals-garage-freezer)
-- [Jack Newton: Australian golfing great who lost arm to plane’s propeller dies aged 72](https://www.theguardian.com/sport/2022/apr/15/australian-golfing-great-jack-newton-dies)
-- [In New Zealand rugby, women are still viewed as tourists to the game, a footnote to the men | Alice Soper](https://www.theguardian.com/world/commentisfree/2022/apr/15/in-new-zealand-rugby-women-are-still-viewed-as-tourists-to-the-game-a-footnote-to-the-men)
-- [‘A senseless tragedy’: woman dies after bid to climb US border wall](https://www.theguardian.com/us-news/2022/apr/14/mexican-woman-border-wall-arizona-dies)
-- [Prince Harry and Meghan visit Queen on way to Invictus Games](https://www.theguardian.com/uk-news/2022/apr/15/prince-harry-and-meghan-visit-queen-on-way-to-invictus-games)
-- [Premier League and FA Cup semi-finals: 10 things to look out for this weekend](https://www.theguardian.com/football/2022/apr/15/premier-league-and-fa-cup-semi-finals-10-things-to-look-out-for-this-weekend)
-- [British camping holidays boom in pandemic, figures show](https://www.theguardian.com/business/2022/apr/15/british-camping-caravanning-holidays-boom-pandemic-mintel)
-- [Derry to mark 25 years of Good Friday agreement with John Hume musical](https://www.theguardian.com/stage/2022/apr/15/derry-to-mark-25-years-of-good-friday-agreement-with-john-hume-musical)
+- [Russia-Ukraine war latest: Russian warship sunk by Ukraine missile strike, say US officials; bodies of 900 civilians found in Kyiv region – live](https://www.theguardian.com/world/live/2022/apr/15/russia-ukraine-war-latest-russia-says-moskva-warship-has-sunk-after-ukraine-claims-missile-strike-live)
+- [Liz Sheridan, who played Jerry’s mother on Seinfeld, dies at 93](https://www.theguardian.com/tv-and-radio/2022/apr/16/liz-sheridan-seinfeld-mother-dies-at-93)
+- [South Africa flooding death toll nears 400 as rescuers search for missing](https://www.theguardian.com/world/2022/apr/16/south-africa-flooding-death-toll-nears-400-as-rescuers-search-for-missing)
+- [70% of female teachers have faced misogyny in UK schools, poll shows](https://www.theguardian.com/education/2022/apr/16/female-teachers-misogyny-schools-culture-sexual-harassment-classrooms-incel)
+- [NHS smartwatch for Parkinson’s patients hailed as ‘lifechanging’](https://www.theguardian.com/society/2022/apr/16/nhs-smartwatch-for-parkinsons-patients-hailed-as-lifechanging)
+- [Charity single recalls human cost of Grenfell tragedy five years on](https://www.theguardian.com/uk-news/2022/apr/16/charity-single-recalls-human-cost-of-grenfell-tragedy-five-years-on)
+- [In pictures: Good Friday around the world](https://www.theguardian.com/media/gallery/2022/apr/15/in-pictures-good-friday-around-the-world)
+- [Trump endorses Hillbilly Elegy author JD Vance in Ohio Republican primaries](https://www.theguardian.com/us-news/2022/apr/15/donald-trump-endorses-jd-vance-ohio-senate-primaries)
+- [Twitter adopts ‘poison pill’ plan to shield itself from Elon Musk takeover](https://www.theguardian.com/technology/2022/apr/15/twitter-poison-pill-elon-musk-takeover)
+- [Kamala Harris again earns over twice as much as Joe Biden, tax returns show](https://www.theguardian.com/us-news/2022/apr/15/kamala-harris-joe-biden-income-tax-returns)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

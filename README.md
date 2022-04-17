@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Heroku Security Incident](https://status.heroku.com/incidents/2413)
-- [Intel deprecates SGX on Core series processors](https://edc.intel.com/content/www/us/en/design/ipla/software-development-platforms/client/platforms/alder-lake-desktop/12th-generation-intel-core-processors-datasheet-volume-1-of-2/004/deprecated-technologies/)
-- [When hiring developers, have the candidate read existing code](https://freakingrectangle.wordpress.com/2022/04/15/how-to-freaking-hire-great-developers/)
-- [The jewel-encrusted edition of the Rubáiyát of Omar Khayyám](https://www.bbc.com/news/uk-england-london-57683638)
-- [XHTTP: An HTTP server library in a single C file](https://github.com/cozis/xHTTP)
-- [Attack campaign involving stolen OAuth tokens issued to third-party integrators](https://github.blog/2022-04-15-security-alert-stolen-oauth-user-tokens/)
-- [Re-implementing an old DOS game in C++ 17](https://lethalguitar.wordpress.com/2019/05/28/re-implementing-an-old-dos-game-in-c-17/)
-- [OneSignal &lpar;YC S11&rpar; is hiring back end and full stack engineers](https://onesignal.com/careers)
-- [My take on Elon&#39;s offer for Twitter](https://twitter.com/yishan/status/1514938507407421440)
-- [Ten members of international stock manipulation ring charged in Manhattan](https://www.justice.gov/usao-sdny/pr/ten-members-international-stock-manipulation-ring-charged-manhattan-federal-court)
+- [The Freedom Phone is not great at privacy](https://mjg59.dreamwidth.org/59479.html)
+- [Sorry, collectibles are terrible investments](https://fullstackeconomics.com/sorry-collectibles-are-terrible-investments/)
+- [Is Rust Web Yet?](https://www.arewewebyet.org/)
+- [100 People with rare cancers who attended same NJ high school demand answers](https://www.foxnews.com/us/colonia-high-school-rare-cancer-link)
+- [A New Map of All the Particles and Forces &lpar;2020&rpar;](https://www.quantamagazine.org/a-new-map-of-the-standard-model-of-particle-physics-20201022/)
+- [Notable items missing from English Wikipedia](https://blog.plover.com/2022/04/16/#missing)
+- [The &#39;Batman Effect&#39;: How having an alter ego empowers you](https://lsa.umich.edu/psych/news-events/all-news/faculty-news/the--batman-effect---how-having-an-alter-ego-empowers-you.html)
+- [New Racket Build System](https://racket.discourse.group/t/new-build-system-pushed-to-git-repo/873)
+- [Standard ML Family](https://smlfamily.github.io/)
+- [Podman Desktop Companion GUI – Parity on All Major Operating Systems](https://iongion.github.io/podman-desktop-companion/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

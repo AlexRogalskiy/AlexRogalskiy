@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war latest: Russian warship sunk by Ukraine missile strike, say US officials; bodies of 900 civilians found in Kyiv region – live](https://www.theguardian.com/world/live/2022/apr/15/russia-ukraine-war-latest-russia-says-moskva-warship-has-sunk-after-ukraine-claims-missile-strike-live)
-- [Liz Sheridan, who played Jerry’s mother on Seinfeld, dies at 93](https://www.theguardian.com/tv-and-radio/2022/apr/16/liz-sheridan-seinfeld-mother-dies-at-93)
-- [South Africa flooding death toll nears 400 as rescuers search for missing](https://www.theguardian.com/world/2022/apr/16/south-africa-flooding-death-toll-nears-400-as-rescuers-search-for-missing)
-- [70% of female teachers have faced misogyny in UK schools, poll shows](https://www.theguardian.com/education/2022/apr/16/female-teachers-misogyny-schools-culture-sexual-harassment-classrooms-incel)
-- [NHS smartwatch for Parkinson’s patients hailed as ‘lifechanging’](https://www.theguardian.com/society/2022/apr/16/nhs-smartwatch-for-parkinsons-patients-hailed-as-lifechanging)
-- [Charity single recalls human cost of Grenfell tragedy five years on](https://www.theguardian.com/uk-news/2022/apr/16/charity-single-recalls-human-cost-of-grenfell-tragedy-five-years-on)
-- [In pictures: Good Friday around the world](https://www.theguardian.com/media/gallery/2022/apr/15/in-pictures-good-friday-around-the-world)
-- [Trump endorses Hillbilly Elegy author JD Vance in Ohio Republican primaries](https://www.theguardian.com/us-news/2022/apr/15/donald-trump-endorses-jd-vance-ohio-senate-primaries)
-- [Twitter adopts ‘poison pill’ plan to shield itself from Elon Musk takeover](https://www.theguardian.com/technology/2022/apr/15/twitter-poison-pill-elon-musk-takeover)
-- [Kamala Harris again earns over twice as much as Joe Biden, tax returns show](https://www.theguardian.com/us-news/2022/apr/15/kamala-harris-joe-biden-income-tax-returns)
+- [Russia-Ukraine war: peace talks at stake, says Zelenskiy, as Russia orders Mariupol to surrender – live](https://www.theguardian.com/world/live/2022/apr/16/russia-ukraine-war-latest-ukraine-pm-to-head-to-washington-russian-warship-sunk-by-ukraine-missile-strike-say-us-officials-live)
+- [Art Rupe, label owner who helped launch Little Richard and Sam Cooke, dies at 104](https://www.theguardian.com/music/2022/apr/17/art-rupe-label-owner-who-helped-launch-little-richard-and-sam-cooke-dies-at-104)
+- [Russia-Ukraine war: what we know on day 53 of the invasion](https://www.theguardian.com/world/2022/apr/17/russia-ukraine-war-what-we-know-on-day-53-of-the-invasion)
+- [Kim Jong-un oversees missile test that North Korea claims advances nuclear program](https://www.theguardian.com/world/2022/apr/17/kim-jong-un-oversees-missile-test-that-north-korea-claims-advances-nuclear-program)
+- [Forget Twitter: Elon Musk has his hands full keeping Tesla on the road](https://www.theguardian.com/technology/2022/apr/17/twitter-musk-hands-full-keeping-tesla-1tn-magic-alive)
+- [Mums-to-be still being given unsafe epilepsy drug](https://www.theguardian.com/uk-news/2022/apr/17/mums-to-be-still-being-given-unsafe-epilepsy-drug)
+- [We love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2022/apr/16/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Mark Selby ‘emotional’ after gruelling win over Jamie Jones at the Crucible](https://www.theguardian.com/sport/2022/apr/16/ronnie-osullivan-world-snooker-championship-crucible-mark-selby)
+- [Murder hunt begins after man, 18, attacked in Liverpool internet cafe](https://www.theguardian.com/uk-news/2022/apr/16/hunt-begins-after-man-18-attacked-in-liverpool-internet-cafe)
+- [Rwanda plan is ‘against the judgment of God’, says archbishop](https://www.theguardian.com/uk-news/2022/apr/16/rwanda-plan-is-against-the-judgment-of-god-says-archbishop)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

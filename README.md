@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Alibaba&#39;s Arm-based 128 core CPU will send a shiver down spines at Intel and AMD](https://www.techradar.com/news/a-new-arm-based-cpu-with-128-cores-will-send-a-shiver-down-spines-at-intel-and-amd)
-- [Democracy Is a Ruse](https://news.ycombinator.com/item?id=31048753)
-- [Show HN: Neptune Lang – A concurrent fast dynamically typed scripting language](https://github.com/Srinivasa314/neptune-lang)
-- [Beacon in the Galaxy: Updated Arecibo Message for Potential FAST&amp;SETI Projects](https://www.mdpi.com/2075-4434/10/2/55/htm)
-- [If You’re Getting a W-2, You’re a Sucker](https://www.propublica.org/article/if-youre-getting-a-w-2-youre-a-sucker)
-- [Evolving language “What&#39;s your take?”](https://news.ycombinator.com/item?id=31048689)
-- [Heroku Security Incident](https://status.heroku.com/incidents/2413)
-- [Google Chrome emergency update fixes zero-day used in attacks](https://www.bleepingcomputer.com/news/security/google-chrome-emergency-update-fixes-zero-day-used-in-attacks/)
-- [Another big shipping line is refusing to export the West’s plastic waste](https://qz.com/2155412/shipping-lines-are-refusing-to-export-the-wests-plastic-waste/)
-- [The brain expands and shrinks over time](https://www.nature.com/articles/d41586-022-00971-1)
+- [The world’s strongest MRI machines are pushing human imaging to new limits](https://www.nature.com/articles/d41586-018-07182-7)
+- [Merle Oberon: India&#39;s forgotten Hollywood star](https://www.bbc.com/news/world-asia-india-61079732)
+- [The Stress Terminal UI: s-TUI](https://amanusk.github.io/s-tui/)
+- [Ask HN: The coronavirus antigen detection mask?](https://news.ycombinator.com/item?id=31057925)
+- [Ask HN: Can we use tensors as a database data structure](https://news.ycombinator.com/item?id=31057916)
+- [The u-root CPU command](http://book.linuxboot.org/cpu/)
+- [Satya Nadella Warns This 1 Remote-Work Habit Is Destroying Our Well-Being](https://www.inc.com/jeff-steen/microsofts-satya-nadella-warns-this-1-remote-work-habit-is-destroying-our-wellbeing.html)
+- [Toyota Warns About Rushing into Electrification](https://www.motorious.com/articles/news/toyota-warns-about-rushing-electrification/)
+- [Different and Free Ways to Get Fair, Balanced, and Most-Read News Online](https://www.makeuseof.com/fair-balanced-most-read-news-online/)
+- [SEO-optimization of oldest StackOverflow questions](https://stackoverflow.com/posts/1248081/revisions)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

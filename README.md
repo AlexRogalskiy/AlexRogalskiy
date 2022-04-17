@@ -384,6 +384,7 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [JetBrains IntelliJ IDEA adds dependency analyzer](https://www.infoworld.com/article/3657776/jetbrains-intellij-idea-adds-dependency-analyzer.html#tk.rss_all)
 - [Microsoft .NET 7 Preview 3 focuses on speedups](https://www.infoworld.com/article/3657772/microsoft-net-7-preview-3-focuses-on-speedups.html#tk.rss_all)
 - [Approach cloud architecture from the outside in](https://www.infoworld.com/article/3657768/approach-cloud-architecture-from-the-outside-in.html#tk.rss_all)
 - [What is CI/CD? Continuous integration and continuous delivery explained](https://www.infoworld.com/article/3271126/what-is-cicd-continuous-integration-and-continuous-delivery-explained.html#tk.rss_all)
@@ -393,7 +394,6 @@
 - [How blockchain is evolving](https://www.infoworld.com/article/3655083/how-blockchain-is-evolving.html#tk.rss_all)
 - [Microsoft .NET MAUI release candidate available](https://www.infoworld.com/article/3657588/microsoft-net-maui-release-candidate-available.html#tk.rss_all)
 - [Atlassian Cloud outage hits 400 customers](https://www.infoworld.com/article/3656704/atlassian-cloud-outage-hits-400-customers.html#tk.rss_all)
-- [Why developers are joining the Great Resignation](https://www.infoworld.com/article/3656705/why-developers-are-joining-the-great-resignation.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

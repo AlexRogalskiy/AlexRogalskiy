@@ -414,6 +414,8 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to learn and get into software engineering/ Full Stack Engineering](https://www.reddit.com/r/InformationTechnology/comments/u5tvqv/how_to_learn_and_get_into_software_engineering/)
+- [Alright so ive finished coursera on basic Information Technology but now the thing is I dont know what field i want to go into i at least want it to have something to with programming or fixing the computers themselves any idea of what jobs those would fill.](https://www.reddit.com/r/InformationTechnology/comments/u5ruji/alright_so_ive_finished_coursera_on_basic/)
 - [if your company offered you $...](https://www.reddit.com/r/InformationTechnology/comments/u5cr78/if_your_company_offered_you/)
 - [Bachelors](https://www.reddit.com/r/InformationTechnology/comments/u553tw/bachelors/)
 - [Importance of Professional SEO Services for Your Business - Infotop](https://www.reddit.com/r/InformationTechnology/comments/u4xnkw/importance_of_professional_seo_services_for_your/)
@@ -422,8 +424,6 @@
 - [Applicable skills to cybersecurity](https://www.reddit.com/r/InformationTechnology/comments/u3rnx8/applicable_skills_to_cybersecurity/)
 - [Survey on Learning Preferences &amp; Cloud Computing for Class Assignment &lpar;7 short questions&rpar;](https://www.reddit.com/r/InformationTechnology/comments/u3nzhn/survey_on_learning_preferences_cloud_computing/)
 - [Non routable network address](https://www.reddit.com/r/InformationTechnology/comments/u3kpxp/non_routable_network_address/)
-- [Wireless Screen Casting](https://www.reddit.com/r/InformationTechnology/comments/u3i5xi/wireless_screen_casting/)
-- [IT company startup ideas for college students](https://www.reddit.com/r/InformationTechnology/comments/u33yio/it_company_startup_ideas_for_college_students/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

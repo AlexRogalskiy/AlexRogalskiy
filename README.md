@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war: peace talks at stake, says Zelenskiy, as Russia orders Mariupol to surrender – live](https://www.theguardian.com/world/live/2022/apr/16/russia-ukraine-war-latest-ukraine-pm-to-head-to-washington-russian-warship-sunk-by-ukraine-missile-strike-say-us-officials-live)
-- [Art Rupe, label owner who helped launch Little Richard and Sam Cooke, dies at 104](https://www.theguardian.com/music/2022/apr/17/art-rupe-label-owner-who-helped-launch-little-richard-and-sam-cooke-dies-at-104)
-- [Russia-Ukraine war: what we know on day 53 of the invasion](https://www.theguardian.com/world/2022/apr/17/russia-ukraine-war-what-we-know-on-day-53-of-the-invasion)
-- [Kim Jong-un oversees missile test that North Korea claims advances nuclear program](https://www.theguardian.com/world/2022/apr/17/kim-jong-un-oversees-missile-test-that-north-korea-claims-advances-nuclear-program)
-- [Forget Twitter: Elon Musk has his hands full keeping Tesla on the road](https://www.theguardian.com/technology/2022/apr/17/twitter-musk-hands-full-keeping-tesla-1tn-magic-alive)
-- [Mums-to-be still being given unsafe epilepsy drug](https://www.theguardian.com/uk-news/2022/apr/17/mums-to-be-still-being-given-unsafe-epilepsy-drug)
-- [We love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2022/apr/16/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Mark Selby ‘emotional’ after gruelling win over Jamie Jones at the Crucible](https://www.theguardian.com/sport/2022/apr/16/ronnie-osullivan-world-snooker-championship-crucible-mark-selby)
-- [Murder hunt begins after man, 18, attacked in Liverpool internet cafe](https://www.theguardian.com/uk-news/2022/apr/16/hunt-begins-after-man-18-attacked-in-liverpool-internet-cafe)
-- [Rwanda plan is ‘against the judgment of God’, says archbishop](https://www.theguardian.com/uk-news/2022/apr/16/rwanda-plan-is-against-the-judgment-of-god-says-archbishop)
+- [Russia-Ukraine war: Fighters in last Mariupol pocket of resistance ignore surrender-or-die ultimatum – live](https://www.theguardian.com/world/live/2022/apr/17/russia-ukraine-war-russian-deadline-for-mariupol-defenders-to-surrender-or-die-passes-live)
+- [The real cost of the chicken in your supermarket trolley](https://www.theguardian.com/news/audio/2022/apr/18/the-real-cost-of-the-chicken-in-your-supermarket-trolley)
+- [Tunisia’s neighbours offer help to contain damage after fuel ship sank](https://www.theguardian.com/world/2022/apr/17/tunisia-fuel-ship-sinking-nearby-countries-offer-help-to-prevent-disaster)
+- [More than 20 injured in Israeli-Palestinian clashes around al-Aqsa mosque in Jerusalem](https://www.theguardian.com/world/2022/apr/18/more-than-20-injured-in-israeli-palestinian-clashes-around-al-aqsa-mosque-in-jerusalem)
+- [World Snooker: O’Sullivan channels his inner gladiator but Murphy loses](https://www.theguardian.com/sport/2022/apr/17/ronnie-osullivan-channels-his-inner-gladiator-to-overcome-david-gilbert)
+- [Government plans new laws to protect Britons who use savings clubs](https://www.theguardian.com/business/2022/apr/18/government-plan-new-law-protect-briton-who-use-christmas-savings-club)
+- [European roundup: Ajax lose Dutch Cup final but say Ten Hag may stay at club](https://www.theguardian.com/football/2022/apr/17/european-roundup-ajax-lose-knvb-cup-final-but-say-ten-hag-may-stay-at-club)
+- [Liverpool and Manchester City are running magnificently, but on fumes | Jonathan Liew](https://www.theguardian.com/football/2022/apr/17/liverpool-manchester-city-fa-cup-premier-league-title-race)
+- [86,000 bottles of water on the wall: Tonga struggles with post-volcano waste problem](https://www.theguardian.com/world/2022/apr/18/86000-bottles-of-water-on-the-wall-tonga-struggles-with-post-volcano-waste-problem)
+- [The Thief, His Wife and the Canoe review – an unforgettable tale of marital muppets](https://www.theguardian.com/tv-and-radio/2022/apr/17/the-thief-his-wife-and-the-canoe-review-real-life-insurance-scam-drama)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

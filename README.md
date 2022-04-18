@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The world’s strongest MRI machines are pushing human imaging to new limits](https://www.nature.com/articles/d41586-018-07182-7)
-- [Merle Oberon: India&#39;s forgotten Hollywood star](https://www.bbc.com/news/world-asia-india-61079732)
-- [The Stress Terminal UI: s-TUI](https://amanusk.github.io/s-tui/)
-- [Ask HN: The coronavirus antigen detection mask?](https://news.ycombinator.com/item?id=31057925)
-- [Ask HN: Can we use tensors as a database data structure](https://news.ycombinator.com/item?id=31057916)
-- [The u-root CPU command](http://book.linuxboot.org/cpu/)
-- [Satya Nadella Warns This 1 Remote-Work Habit Is Destroying Our Well-Being](https://www.inc.com/jeff-steen/microsofts-satya-nadella-warns-this-1-remote-work-habit-is-destroying-our-wellbeing.html)
-- [Toyota Warns About Rushing into Electrification](https://www.motorious.com/articles/news/toyota-warns-about-rushing-electrification/)
-- [Different and Free Ways to Get Fair, Balanced, and Most-Read News Online](https://www.makeuseof.com/fair-balanced-most-read-news-online/)
-- [SEO-optimization of oldest StackOverflow questions](https://stackoverflow.com/posts/1248081/revisions)
+- [China’s New 373 MPH Bullet Train Is Now the World’s Fastest Land Vehicle](https://robbreport.com/motors/cars/china-maglev-bullet-train-worlds-fastest-373-mph-1234626070/)
+- [Moskva Sinking: Images Reveal Once Powerful Russian Navy Ship on Fire](http://www.hisutton.com/Russian-Navy-Moskva-Sinking.html)
+- [Muting your mic reportedly doesn’t stop big tech from recording your audio](https://thenextweb.com/news/muting-your-mic-doesnt-stop-big-tech-recording-your-audio)
+- [Ask HN: Is the inverse of Conway&#39;s Law valid, in your experience?](https://news.ycombinator.com/item?id=31066817)
+- [Elon Musk: a future worth getting excited about](https://www.youtube.com/watch?v=YRvf00NooN8)
+- [Are You Using &#39;Gaslight&#39; Correctly?](https://www.theatlantic.com/newsletters/archive/2022/04/are-you-using-gaslight-correctly/629522/)
+- [Kubernetes Security Best Practices -Part 1: Role Based Access Control &lpar;RBAC&rpar;](https://engineering.dynatrace.com/blog/kubernetes-security-part-1-role-based-access-control-rbac/)
+- [TurboTax Console Logs Everything](https://twitter.com/catherinezng/status/1515874015533019145)
+- [On Japan’s Adorable ‘Old Enough ’ Show and the State of American Childhoods](https://www.nytimes.com/2022/04/16/opinion/old-enough-kids-parents.html)
+- [Processing Feedback](https://www.brettmacfarlane.com/blog/2022/processing-feedback)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The Freedom Phone is not great at privacy](https://mjg59.dreamwidth.org/59479.html)
-- [Sorry, collectibles are terrible investments](https://fullstackeconomics.com/sorry-collectibles-are-terrible-investments/)
-- [Is Rust Web Yet?](https://www.arewewebyet.org/)
-- [100 People with rare cancers who attended same NJ high school demand answers](https://www.foxnews.com/us/colonia-high-school-rare-cancer-link)
-- [A New Map of All the Particles and Forces &lpar;2020&rpar;](https://www.quantamagazine.org/a-new-map-of-the-standard-model-of-particle-physics-20201022/)
-- [Notable items missing from English Wikipedia](https://blog.plover.com/2022/04/16/#missing)
-- [The &#39;Batman Effect&#39;: How having an alter ego empowers you](https://lsa.umich.edu/psych/news-events/all-news/faculty-news/the--batman-effect---how-having-an-alter-ego-empowers-you.html)
-- [New Racket Build System](https://racket.discourse.group/t/new-build-system-pushed-to-git-repo/873)
-- [Standard ML Family](https://smlfamily.github.io/)
-- [Podman Desktop Companion GUI – Parity on All Major Operating Systems](https://iongion.github.io/podman-desktop-companion/)
+- [Types of Deceptive Design](https://www.deceptive.design/types)
+- [‘Click to Cancel’ legislation introduced in Pennsylvania](https://pahouse.com/InTheNews/NewsRelease/?id=124404)
+- [Jack Dorsey: Twitter Board “consistently the dysfunction of the company”](https://www.forbes.com/sites/abrambrown/2022/04/17/twitter-takeover-musk-dorsey-board-tweets/)
+- [Cytopia: Open-source city simulator with pixel-art graphics](https://github.com/CytopiaTeam/Cytopia)
+- [Ask HN: Are you lost / confused / stuck? I can try to help](https://news.ycombinator.com/item?id=31065876)
+- [Richard Stallman – “The state of the Free Software movement” – April 13, 2022](https://lunduke.substack.com/p/richard-stallman-the-state-of-the)
+- [The best engineering interview question I&#39;ve ever gotten](https://quuxplusone.github.io/blog/2022/01/06/memcached-interview/)
+- [The Uber Bubble](https://braveneweurope.com/hubert-horan-the-uber-bubble-why-is-a-company-that-lost-20-billion-claimed-to-be-successful)
+- [Unreal vs. Unity Opinion](https://gist.github.com/flibitijibibo/035087d8736441786b10e8c3879d50dd)
+- [BuildZoom &lpar;YC W13&rpar; is hiring a principal engineer](https://jobs.lever.co/buildzoom)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

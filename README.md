@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war: Fighters in last Mariupol pocket of resistance ignore surrender-or-die ultimatum – live](https://www.theguardian.com/world/live/2022/apr/17/russia-ukraine-war-russian-deadline-for-mariupol-defenders-to-surrender-or-die-passes-live)
-- [The real cost of the chicken in your supermarket trolley](https://www.theguardian.com/news/audio/2022/apr/18/the-real-cost-of-the-chicken-in-your-supermarket-trolley)
-- [Tunisia’s neighbours offer help to contain damage after fuel ship sank](https://www.theguardian.com/world/2022/apr/17/tunisia-fuel-ship-sinking-nearby-countries-offer-help-to-prevent-disaster)
-- [More than 20 injured in Israeli-Palestinian clashes around al-Aqsa mosque in Jerusalem](https://www.theguardian.com/world/2022/apr/18/more-than-20-injured-in-israeli-palestinian-clashes-around-al-aqsa-mosque-in-jerusalem)
-- [World Snooker: O’Sullivan channels his inner gladiator but Murphy loses](https://www.theguardian.com/sport/2022/apr/17/ronnie-osullivan-channels-his-inner-gladiator-to-overcome-david-gilbert)
-- [Government plans new laws to protect Britons who use savings clubs](https://www.theguardian.com/business/2022/apr/18/government-plan-new-law-protect-briton-who-use-christmas-savings-club)
-- [European roundup: Ajax lose Dutch Cup final but say Ten Hag may stay at club](https://www.theguardian.com/football/2022/apr/17/european-roundup-ajax-lose-knvb-cup-final-but-say-ten-hag-may-stay-at-club)
-- [Liverpool and Manchester City are running magnificently, but on fumes | Jonathan Liew](https://www.theguardian.com/football/2022/apr/17/liverpool-manchester-city-fa-cup-premier-league-title-race)
-- [86,000 bottles of water on the wall: Tonga struggles with post-volcano waste problem](https://www.theguardian.com/world/2022/apr/18/86000-bottles-of-water-on-the-wall-tonga-struggles-with-post-volcano-waste-problem)
-- [The Thief, His Wife and the Canoe review – an unforgettable tale of marital muppets](https://www.theguardian.com/tv-and-radio/2022/apr/17/the-thief-his-wife-and-the-canoe-review-real-life-insurance-scam-drama)
+- [Russia-Ukraine war: the ‘battle for Donbas has begun’, says Zelenskiy; Macron says dialogue with Putin has stalled – live](https://www.theguardian.com/world/live/2022/apr/18/russia-ukraine-war-mariupol-fighters-ignore-surrender-demand-ukraine-begins-process-to-join-eu-live)
+- [‘We’re safe’: Amir Khan describes being robbed at gunpoint while with wife](https://www.theguardian.com/sport/2022/apr/19/were-both-safe-amir-khan-robbed-at-gunpoint-while-with-wife-in-london)
+- [Ronnie O’Sullivan could be fined for gesture during first-round Crucible win](https://www.theguardian.com/sport/2022/apr/19/ronnie-osullivan-sanctioned-gesture-world-snooker-championship-crucible)
+- [Will the UK really send refugees to Rwanda?](https://www.theguardian.com/news/audio/2022/apr/19/will-the-uk-really-send-refugees-to-rwanda)
+- [Russia begins large-scale military action to seize eastern Ukraine](https://www.theguardian.com/world/2022/apr/18/russia-begins-large-scale-military-action-to-seize-eastern-ukraine)
+- [Overturned mask mandates leave transport authorities in flux](https://www.theguardian.com/world/2022/apr/18/mask-mandate-airplanes-public-transport-struck-down-florida-federal-judge)
+- [Timor-Leste’s Ramos Horta and ‘Lu Olo’ Guterres face off in presidential election](https://www.theguardian.com/world/2022/apr/19/timor-lestes-presidential-election-ramos-horta-and-lu-olo-guterres)
+- [My life in Shanghai’s never-ending zero-Covid lockdown](https://www.theguardian.com/world/2022/apr/19/my-life-in-shanghais-never-ending-zero-covid-lockdown)
+- [Lifelong excess weight can nearly double risk of womb cancer – study](https://www.theguardian.com/society/2022/apr/19/lifelong-excess-weight-can-nearly-double-risk-of-endometrial-womb-cancer-study)
+- [Sherri Papini pleads guilty to kidnapping hoax that led to massive search](https://www.theguardian.com/us-news/2022/apr/18/sherri-papini-california-pleads-guilty-kidnapping-hoax-thanksgiving-2016)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

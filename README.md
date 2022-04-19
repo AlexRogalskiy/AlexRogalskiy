@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Types of Deceptive Design](https://www.deceptive.design/types)
-- [‘Click to Cancel’ legislation introduced in Pennsylvania](https://pahouse.com/InTheNews/NewsRelease/?id=124404)
-- [Jack Dorsey: Twitter Board “consistently the dysfunction of the company”](https://www.forbes.com/sites/abrambrown/2022/04/17/twitter-takeover-musk-dorsey-board-tweets/)
-- [Cytopia: Open-source city simulator with pixel-art graphics](https://github.com/CytopiaTeam/Cytopia)
-- [Ask HN: Are you lost / confused / stuck? I can try to help](https://news.ycombinator.com/item?id=31065876)
-- [Richard Stallman – “The state of the Free Software movement” – April 13, 2022](https://lunduke.substack.com/p/richard-stallman-the-state-of-the)
-- [The best engineering interview question I&#39;ve ever gotten](https://quuxplusone.github.io/blog/2022/01/06/memcached-interview/)
-- [The Uber Bubble](https://braveneweurope.com/hubert-horan-the-uber-bubble-why-is-a-company-that-lost-20-billion-claimed-to-be-successful)
-- [Unreal vs. Unity Opinion](https://gist.github.com/flibitijibibo/035087d8736441786b10e8c3879d50dd)
-- [BuildZoom &lpar;YC W13&rpar; is hiring a principal engineer](https://jobs.lever.co/buildzoom)
+- [Debian &amp; Firmware – what are we going to do about it?](https://blog.einval.com/2022/04/19#firmware-what-do-we-do)
+- [Build OCI images using APK directly without Dockerfile](https://github.com/chainguard-dev/apko)
+- [Opinion: Another species of hominin may still be alive](https://www.the-scientist.com/magazine-issue/opinion-another-species-of-hominin-may-still-be-alive-69869)
+- [Elo scoring two years of Magic: The Gathering games](https://dylanlott.com/mtg-game-analysis/)
+- [Lithium drilling advances at the Salton Sea](https://www.kcet.org/news-community/as-lithium-drilling-advances-at-the-salton-sea-researchers-work-out-the-details)
+- [Introducing a16z START](https://a16z.com/2022/04/18/introducing-a6z-start/)
+- [SDF Public Access Unix System](https://sdf.org)
+- [Motion &lpar;YC W20&rpar; Is Hiring Full Stack Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05)
+- [Synchronous Processors &lpar;2016&rpar;](https://www.yodaiken.com/2016/05/11/synchronous-processors/)
+- [Arbitrary file write vulnerability in GNU gzip&#39;s zgrep utility](https://access.redhat.com/security/cve/cve-2022-1271)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

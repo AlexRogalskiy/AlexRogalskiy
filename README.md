@@ -354,6 +354,8 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [When humans make tech mistakes](https://www.computerworld.com/article/3657755/when-humans-make-tech-mistakes.html#tk.rss_all)
+- [California eyes four-day workweek for larger firms](https://www.computerworld.com/article/3657773/california-eyes-four-day-workweek-for-larger-firms.html#tk.rss_all)
 - [Microsoft to kill Patch Tuesday for some enterprise users](https://www.computerworld.com/article/3657612/microsoft-to-kill-patch-tuesday-for-some-enterprise-users.html#tk.rss_all)
 - [April&#39;s Patch Tuesday: a lot of large, diverse and urgent updates](https://www.computerworld.com/article/3657754/aprils-patch-tuesday-a-lot-of-large-diverse-and-urgent-updates.html#tk.rss_all)
 - [Apple plots a Mac revolution in interesting times](https://www.computerworld.com/article/3657752/apple-plots-a-mac-revolution-in-interesting-times.html#tk.rss_all)
@@ -362,8 +364,6 @@
 - [Apple calls out Meta for hypocrisy](https://www.computerworld.com/article/3657732/apple-calls-out-meta-for-hypocrisy.html#tk.rss_all)
 - [Samsung beats Intel as top semiconductor seller as overall demand rises](https://www.computerworld.com/article/3657729/samsung-beats-intel-as-top-semiconductor-seller-as-overall-demand-rises.html#tk.rss_all)
 - [Zoom Events gets a virtual green room](https://www.computerworld.com/article/3657569/zoom-events-gets-a-virtual-green-room.html#tk.rss_all)
-- [How to choose an enterprise search platform](https://www.computerworld.com/article/3655951/how-to-choose-an-enterprise-search-platform.html#tk.rss_all)
-- [More than half of PCs can&#39;t upgrade to Windows 11 — report](https://www.computerworld.com/article/3657628/more-than-half-of-pcs-cant-upgrade-to-windows-11-report.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

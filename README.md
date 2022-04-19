@@ -384,16 +384,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Clojure meets Dart in ClojureDart](https://www.infoworld.com/article/3657759/clojure-meets-dart-in-clojuredart.html#tk.rss_all)
+- [The steady march of general-purpose databases](https://www.infoworld.com/article/3657613/the-steady-march-of-general-purpose-databases.html#tk.rss_all)
+- [How to minimize new technical debt](https://www.infoworld.com/article/3657611/how-to-minimize-new-technical-debt.html#tk.rss_all)
+- [9 low-rent cloud providers to challenge AWS, Azure, and GCP](https://www.infoworld.com/article/3656688/9-low-rent-cloud-providers-to-challenge-aws-azure-and-gcp.html#tk.rss_all)
 - [JetBrains IntelliJ IDEA adds dependency analyzer](https://www.infoworld.com/article/3657776/jetbrains-intellij-idea-adds-dependency-analyzer.html#tk.rss_all)
 - [Microsoft .NET 7 Preview 3 focuses on speedups](https://www.infoworld.com/article/3657772/microsoft-net-7-preview-3-focuses-on-speedups.html#tk.rss_all)
 - [Approach cloud architecture from the outside in](https://www.infoworld.com/article/3657768/approach-cloud-architecture-from-the-outside-in.html#tk.rss_all)
 - [What is CI/CD? Continuous integration and continuous delivery explained](https://www.infoworld.com/article/3271126/what-is-cicd-continuous-integration-and-continuous-delivery-explained.html#tk.rss_all)
 - [Virtualenv and venv: Python virtual environments explained](https://www.infoworld.com/article/3239675/virtualenv-and-venv-python-virtual-environments-explained.html#tk.rss_all)
 - [Atlassian unveils Compass collaboration portal for developers](https://www.infoworld.com/article/3657731/atlassian-unveils-compass-collaboration-portal-for-developers.html#tk.rss_all)
-- [How to enforce architecture rules in C#](https://www.infoworld.com/article/3656703/how-to-enforce-architecture-rules-in-csharp.html#tk.rss_all)
-- [How blockchain is evolving](https://www.infoworld.com/article/3655083/how-blockchain-is-evolving.html#tk.rss_all)
-- [Microsoft .NET MAUI release candidate available](https://www.infoworld.com/article/3657588/microsoft-net-maui-release-candidate-available.html#tk.rss_all)
-- [Atlassian Cloud outage hits 400 customers](https://www.infoworld.com/article/3656704/atlassian-cloud-outage-hits-400-customers.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

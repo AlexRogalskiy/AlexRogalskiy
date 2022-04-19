@@ -369,6 +369,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Keeping an IT Team Focused in Challenging Times](https://www.informationweek.com/strategic-cio/keeping-an-it-team-focused-in-challenging-times)
+- [Embracing the Platinum Rule for Data](https://www.informationweek.com/big-data/embracing-the-platinum-rule-for-data)
 - [A Practical Guide to DevOps](https://www.informationweek.com/devops/a-practical-guide-to-devops-it-s-not-that-scary)
 - [Into the Metaverse: A Game-Changing Year for UI and UX](https://www.informationweek.com/software/into-the-metaverse-a-game-changing-year-for-ui-and-ux)
 - [Applications Cannot Be Trusted](https://www.informationweek.com/security-and-risk-strategy/applications-cannot-be-trusted)
@@ -377,8 +379,6 @@
 - [The Automation Revolution and the Shift in Labor](https://www.informationweek.com/ai-or-machine-learning/the-automation-revolution-and-the-shift-in-labor)
 - [Remote Work Jobs Still Growing, Particularly for Tech Pros](https://www.informationweek.com/it-life/remote-work-jobs-still-growing-particularly-for-tech-pros)
 - [The Post-Pandemic Workplace and The Path Forward](https://www.informationweek.com/strategic-cio/the-post-pandemic-workplace-and-the-path-forward)
-- [IT Pros: Ways to Ace the Video Job Interview](https://www.informationweek.com/it-life/it-pros-ways-to-ace-the-video-job-interview)
-- [How CISOs Are Walking the Executive Tightrope](https://www.informationweek.com/strategic-cio/how-cisos-are-walking-the-executive-tightrope)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

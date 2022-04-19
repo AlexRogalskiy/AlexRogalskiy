@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Government rejects petition to amend virtual mobile operator policy](https://www.itworldcanada.com/article/government-rejects-petition-to-amend-virtual-mobile-operator-policy/480368)
+- [Modest improvement in cybersecurity in 2H 2021, report suggests](https://www.itworldcanada.com/article/modest-improvement-in-cybersecurity-in-2h-2021-report-suggests/480352)
+- [Users of digital ID to exceed 6.5 billion by 2026](https://www.itworldcanada.com/article/users-of-digital-id-to-exceed-6-5-billion-by-2026/480012)
+- [Canada is outpacing the U.S. with its tech talent workforce growth](https://www.itworldcanada.com/article/canada-is-outpacing-the-u-s-with-its-tech-talent-workforce-growth/480114)
+- [Cyber Security Today, April 18, 2022 – Ties are alleged between ransomware and extortion gangs, and a warning to app developers](https://www.itworldcanada.com/article/cyber-security-today-april-18-2022-ties-are-alleged-between-ransomware-and-extortion-gangs-and-a-warning-to-app-developers/480296)
+- [Hashtag Trending April 18 – Apple retail employees wants to unionize; Instagram eating disorder controversy; WhatsApp Community chat](https://www.itworldcanada.com/article/hashtag-trending-april-18-apple-retail-employees-wants-to-unionize-instagram-eating-discorder-controversy-whatsapp-community-chat/480299)
 - [Cyber Security Today, Week in Review for April 15, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-april-15-2022/480261)
 - [Cyber Security Today, April 15, 2022 – A new botnet discovered, low MFA adoption and a Struts bug finally patched](https://www.itworldcanada.com/article/cyber-security-today-april-15-2022-a-new-botnet-discovered-low-mfa-adoption-and-a-struts-bug-finally-patched/480276)
 - [An interview with Intel Canada: strategy, partnership, and talent](https://www.itworldcanada.com/article/an-interview-with-intel-canada-strategy-partnership-and-talent/480228)
 - [Protecting identities online is critically important](https://www.itworldcanada.com/article/protecting-identities-online-is-critically-important/480149)
-- [Hackers going after VMware Workspace ONE Access and VMware Identity Manager; patch now](https://www.itworldcanada.com/article/hackers-going-after-vmware-workspace-one-access-and-vmware-identity-manager-patch-now/480214)
-- [Threat actors have new tools for attacking ICS, SCADA devices, say US cyber agencies](https://www.itworldcanada.com/article/threat-actors-have-new-tools-for-attacking-ics-scada-devices-say-us-cyber-agencies/480223)
-- [Hashtag Trending April 14 – Uber criticized for increasing prices; Elon Musk faces lawsuit over Twitter shares; Meta gets greedy in metaverse](https://www.itworldcanada.com/article/hashtag-trending-april-14-uber-criticized-for-increasing-prices-elon-musk-faces-lawsuit-over-twitter-shares-meta-gets-greedy-in-metaverse/480134)
-- [In the midst of a talent shortage, how can Canada keep up with its tech sector growth?](https://www.itworldcanada.com/article/in-the-midst-of-a-talent-shortage-how-can-canada-keep-up-with-its-tech-sector-growth/479820)
-- [How SMBs can create an identity management strategy](https://www.itworldcanada.com/article/how-smbs-can-create-an-identity-management-strategy/480019)
-- [ServiceNow launches its Now Platform San Diego release](https://www.itworldcanada.com/article/servicenow-launches-its-now-platform-san-diego-release/480095)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

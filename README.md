@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [China’s New 373 MPH Bullet Train Is Now the World’s Fastest Land Vehicle](https://robbreport.com/motors/cars/china-maglev-bullet-train-worlds-fastest-373-mph-1234626070/)
-- [Moskva Sinking: Images Reveal Once Powerful Russian Navy Ship on Fire](http://www.hisutton.com/Russian-Navy-Moskva-Sinking.html)
-- [Muting your mic reportedly doesn’t stop big tech from recording your audio](https://thenextweb.com/news/muting-your-mic-doesnt-stop-big-tech-recording-your-audio)
-- [Ask HN: Is the inverse of Conway&#39;s Law valid, in your experience?](https://news.ycombinator.com/item?id=31066817)
-- [Elon Musk: a future worth getting excited about](https://www.youtube.com/watch?v=YRvf00NooN8)
-- [Are You Using &#39;Gaslight&#39; Correctly?](https://www.theatlantic.com/newsletters/archive/2022/04/are-you-using-gaslight-correctly/629522/)
-- [Kubernetes Security Best Practices -Part 1: Role Based Access Control &lpar;RBAC&rpar;](https://engineering.dynatrace.com/blog/kubernetes-security-part-1-role-based-access-control-rbac/)
-- [TurboTax Console Logs Everything](https://twitter.com/catherinezng/status/1515874015533019145)
-- [On Japan’s Adorable ‘Old Enough ’ Show and the State of American Childhoods](https://www.nytimes.com/2022/04/16/opinion/old-enough-kids-parents.html)
-- [Processing Feedback](https://www.brettmacfarlane.com/blog/2022/processing-feedback)
+- [What’s Causing a Sudden Outbreak of Hepatitis in Kids in Europe and the US?](https://www.forbes.com/sites/judystone/2022/04/16/whats-causing-a-sudden-outbreak-of-hepatitis-in-kids-in-europe-and-the-us/)
+- [AI Generated Marketing Content](https://www.wired.com/story/ai-generated-marketing-content/)
+- [How much equity should I ask for as a CTO?](https://news.ycombinator.com/item?id=31079413)
+- [Is San Francisco this bad?](https://old.reddit.com/r/LifeProTips/comments/u6bwdo/lpt_if_youre_planning_on_visiting_san_francisco/)
+- [Evidence-Based Practice: What It Is and Why It Matters [pdf]](https://www.cdc.gov/genomics/about/file/print/Evidence-Based_Practice_508.pdf)
+- [The iPhone 14 launch is likely to mean the end for the iPhone 11](https://www.techradar.com/news/the-iphone-14-launch-is-likely-to-mean-the-end-for-the-iphone-11)
+- [Ukrainian identity solidified for 30 years. Putin ignored the science](https://www.sciencenews.org/article/ukraine-identity-nationalism-independence-putin-russia)
+- [The FBI Guide to Internet Slang](https://archive.org/details/FBIGuideToInternetSlang)
+- [A Brief History of ClarisWorks &lpar;2003&rpar;](https://groups.csail.mit.edu/mac/users/bob/clarisworks.php)
+- [Back to the Future of Twitter](https://stratechery.com/2022/back-to-the-future-of-twitter/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

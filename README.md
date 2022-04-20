@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [What’s Causing a Sudden Outbreak of Hepatitis in Kids in Europe and the US?](https://www.forbes.com/sites/judystone/2022/04/16/whats-causing-a-sudden-outbreak-of-hepatitis-in-kids-in-europe-and-the-us/)
-- [AI Generated Marketing Content](https://www.wired.com/story/ai-generated-marketing-content/)
-- [How much equity should I ask for as a CTO?](https://news.ycombinator.com/item?id=31079413)
-- [Is San Francisco this bad?](https://old.reddit.com/r/LifeProTips/comments/u6bwdo/lpt_if_youre_planning_on_visiting_san_francisco/)
-- [Evidence-Based Practice: What It Is and Why It Matters [pdf]](https://www.cdc.gov/genomics/about/file/print/Evidence-Based_Practice_508.pdf)
-- [The iPhone 14 launch is likely to mean the end for the iPhone 11](https://www.techradar.com/news/the-iphone-14-launch-is-likely-to-mean-the-end-for-the-iphone-11)
-- [Ukrainian identity solidified for 30 years. Putin ignored the science](https://www.sciencenews.org/article/ukraine-identity-nationalism-independence-putin-russia)
-- [The FBI Guide to Internet Slang](https://archive.org/details/FBIGuideToInternetSlang)
-- [A Brief History of ClarisWorks &lpar;2003&rpar;](https://groups.csail.mit.edu/mac/users/bob/clarisworks.php)
-- [Back to the Future of Twitter](https://stratechery.com/2022/back-to-the-future-of-twitter/)
+- [Node.js 18](https://nodejs.org/en/blog/announcements/v18-release-announce/)
+- [US officials heading to Solomons over China pact worries](https://abcnews.go.com/International/wireStory/us-officials-heading-solomons-china-pact-worries-84160064)
+- [Message Notification System for Vim8](https://github.com/mattn/vim-notification)
+- [A Decadal Strategy for Planetary Science and Astrobiology 2023-2032](https://nap.nationalacademies.org/read/26522/chapter/1)
+- [Microsoft disables SMB1 file-sharing protocol by default in Windows 11 Home](https://www.zdnet.com/article/microsoft-disables-smb1-file-sharing-protocol-by-default-in-windows-11-home/)
+- [A cautionary tale of machine learning uncertainty](https://www.sciencedaily.com/releases/2022/03/220310115132.htm)
+- [Metager.org – German metasearch engine focused on privacy](https://metager.org)
+- [Your Apple HomePod may now be worth more than its $299 MSRP](https://www.theverge.com/2022/4/19/23033038/apple-homepod-appreciate-price-ebay-used-box)
+- [A man rethinking the definition of reality](https://www.bbc.com/future/article/20220216-the-man-rethinking-the-definition-of-reality)
+- [“Oreology” investigates why Oreo creme filling usually sticks to one side](https://arstechnica.com/science/2022/04/oreology-investigates-mystery-of-why-oreo-creme-filling-usually-sticks-to-one-side/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

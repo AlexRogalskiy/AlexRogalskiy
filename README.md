@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war: the ‘battle for Donbas has begun’, says Zelenskiy; Macron says dialogue with Putin has stalled – live](https://www.theguardian.com/world/live/2022/apr/18/russia-ukraine-war-mariupol-fighters-ignore-surrender-demand-ukraine-begins-process-to-join-eu-live)
-- [‘We’re safe’: Amir Khan describes being robbed at gunpoint while with wife](https://www.theguardian.com/sport/2022/apr/19/were-both-safe-amir-khan-robbed-at-gunpoint-while-with-wife-in-london)
-- [Ronnie O’Sullivan could be fined for gesture during first-round Crucible win](https://www.theguardian.com/sport/2022/apr/19/ronnie-osullivan-sanctioned-gesture-world-snooker-championship-crucible)
-- [Will the UK really send refugees to Rwanda?](https://www.theguardian.com/news/audio/2022/apr/19/will-the-uk-really-send-refugees-to-rwanda)
-- [Russia begins large-scale military action to seize eastern Ukraine](https://www.theguardian.com/world/2022/apr/18/russia-begins-large-scale-military-action-to-seize-eastern-ukraine)
-- [Overturned mask mandates leave transport authorities in flux](https://www.theguardian.com/world/2022/apr/18/mask-mandate-airplanes-public-transport-struck-down-florida-federal-judge)
-- [Timor-Leste’s Ramos Horta and ‘Lu Olo’ Guterres face off in presidential election](https://www.theguardian.com/world/2022/apr/19/timor-lestes-presidential-election-ramos-horta-and-lu-olo-guterres)
-- [My life in Shanghai’s never-ending zero-Covid lockdown](https://www.theguardian.com/world/2022/apr/19/my-life-in-shanghais-never-ending-zero-covid-lockdown)
-- [Lifelong excess weight can nearly double risk of womb cancer – study](https://www.theguardian.com/society/2022/apr/19/lifelong-excess-weight-can-nearly-double-risk-of-endometrial-womb-cancer-study)
-- [Sherri Papini pleads guilty to kidnapping hoax that led to massive search](https://www.theguardian.com/us-news/2022/apr/18/sherri-papini-california-pleads-guilty-kidnapping-hoax-thanksgiving-2016)
+- [Russia-Ukraine war latest: Ukraine repels ‘numerous’ Donbas attacks as Russian logistics falter, says UK – live](https://www.theguardian.com/world/live/2022/apr/19/russia-ukraine-war-zelenskiy-says-battle-for-donbas-has-begun-dialogue-between-macron-and-putin-stalls-live)
+- [What’s behind the economic implosion in Sri Lanka?](https://www.theguardian.com/news/audio/2022/apr/20/whats-behind-the-economic-implosion-in-sri-lanka)
+- [Actor Ezra Miller arrested on suspicion of assault in Hawaii](https://www.theguardian.com/us-news/2022/apr/19/ezra-miller-arrested-assault-hawaii)
+- [Russian tycoon Oleg Tinkov denounces ‘insane war’ in Ukraine](https://www.theguardian.com/world/2022/apr/20/russian-tycoon-oleg-tinkov-denounces-insane-war-in-ukraine)
+- [New Jersey diocese agrees to pay $87.5m settlement to 300 alleged abuse victims](https://www.theguardian.com/us-news/2022/apr/19/new-jersey-catholic-diocese-alleged-sexual-abuse-settlement)
+- [A picture in time: Evdokia Petrov in the hands of Soviet ‘couriers’ at Sydney airport](https://www.theguardian.com/australia-news/2022/apr/20/a-picture-in-time-evdokia-petrov-in-the-hands-of-soviet-couriers-at-sydney-airport)
+- [Skoda’s refusal to honour warranty staggers legal experts](https://www.theguardian.com/money/2022/apr/20/skodas-refusal-to-honour-warranty-staggers-legal-experts)
+- [Degree grade matters more than university reputation, report finds](https://www.theguardian.com/education/2022/apr/20/degree-grade-matters-more-than-university-reputation-report-finds)
+- [Play about ‘great escape’ from German prison camp to be staged at Alexandra Palace](https://www.theguardian.com/stage/2022/apr/20/play-about-great-escape-from-german-prison-camp-to-be-staged-at-alexandra-palace)
+- [Self-driving car users could watch films on motorway under new DfT proposals](https://www.theguardian.com/technology/2022/apr/20/self-driving-car-users-could-watch-films-on-motorway-under-new-dft-proposals)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

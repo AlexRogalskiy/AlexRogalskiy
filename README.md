@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Debian &amp; Firmware – what are we going to do about it?](https://blog.einval.com/2022/04/19#firmware-what-do-we-do)
-- [Build OCI images using APK directly without Dockerfile](https://github.com/chainguard-dev/apko)
-- [Opinion: Another species of hominin may still be alive](https://www.the-scientist.com/magazine-issue/opinion-another-species-of-hominin-may-still-be-alive-69869)
-- [Elo scoring two years of Magic: The Gathering games](https://dylanlott.com/mtg-game-analysis/)
-- [Lithium drilling advances at the Salton Sea](https://www.kcet.org/news-community/as-lithium-drilling-advances-at-the-salton-sea-researchers-work-out-the-details)
-- [Introducing a16z START](https://a16z.com/2022/04/18/introducing-a6z-start/)
-- [SDF Public Access Unix System](https://sdf.org)
-- [Motion &lpar;YC W20&rpar; Is Hiring Full Stack Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05)
-- [Synchronous Processors &lpar;2016&rpar;](https://www.yodaiken.com/2016/05/11/synchronous-processors/)
-- [Arbitrary file write vulnerability in GNU gzip&#39;s zgrep utility](https://access.redhat.com/security/cve/cve-2022-1271)
+- [Show HN: Job board to find venture capital jobs](https://venturecapitalcareers.com/)
+- [Utilities Want to Convert Coal Plants to Nuclear; Skeptics Abound](https://www.wsj.com/articles/utilities-want-to-convert-coal-plants-to-nuclear-skeptics-abound-11650279600)
+- [Detailed Assemblies for an Airtight Small Home](https://www.finehomebuilding.com/2022/04/19/detailed-assemblies-for-an-airtight-small-home)
+- [Nvidia: GPUs can do better chip design in a few days than 10 man year](https://www.hpcwire.com/2022/04/18/nvidia-rd-chief-on-how-ai-is-improving-chip-design/)
+- [Framework Laptop Mainboard](https://github.com/FrameworkComputer/Mainboard)
+- [Testing consistency of rqlite](https://github.com/wildarch/jepsen.rqlite/blob/main/doc/blog.md)
+- [Rescale &lpar;YC W12&rpar; Is Hiring Software Engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
+- [Can you be sure to clear a line at Tetris?](https://a3nm.net/blog/adversarial_tetris.html)
+- [The absurd complexity of server-side rendering](https://gist.github.com/Widdershin/98fd4f0e416e8eb2906d11fd1da62984)
+- [Minisleep – A Tiny Wiki Engine](http://halestrom.net/darksleep/software/minisleep/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

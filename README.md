@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
+- [Review: Logitech’s Lift vertical mouse helps control RSI](https://www.computerworld.com/article/3657739/review-logitechs-lift-vertical-mouse-helps-control-rsi.html#tk.rss_all)
+- [As biz travel slowly returns, some companies expect workers to pay their own way](https://www.computerworld.com/article/3657758/as-biz-travel-slowly-returns-some-companies-expect-workers-to-pay-their-own-way.html#tk.rss_all)
 - [When humans make tech mistakes](https://www.computerworld.com/article/3657755/when-humans-make-tech-mistakes.html#tk.rss_all)
 - [California eyes four-day workweek for larger firms](https://www.computerworld.com/article/3657773/california-eyes-four-day-workweek-for-larger-firms.html#tk.rss_all)
 - [Microsoft to kill Patch Tuesday for some enterprise users](https://www.computerworld.com/article/3657612/microsoft-to-kill-patch-tuesday-for-some-enterprise-users.html#tk.rss_all)
 - [April&#39;s Patch Tuesday: a lot of large, diverse and urgent updates](https://www.computerworld.com/article/3657754/aprils-patch-tuesday-a-lot-of-large-diverse-and-urgent-updates.html#tk.rss_all)
 - [Apple plots a Mac revolution in interesting times](https://www.computerworld.com/article/3657752/apple-plots-a-mac-revolution-in-interesting-times.html#tk.rss_all)
 - [Mergers and acquisitions and takeovers — oh my!](https://www.computerworld.com/article/3657737/mergers-and-acquisitions-and-takeovers-oh-my.html#tk.rss_all)
-- [Podcast: What will Apple announce at WWDC 2022?](https://www.computerworld.com/article/3657733/what-will-apple-announce-at-wwdc-2022.html#tk.rss_all)
-- [Apple calls out Meta for hypocrisy](https://www.computerworld.com/article/3657732/apple-calls-out-meta-for-hypocrisy.html#tk.rss_all)
-- [Samsung beats Intel as top semiconductor seller as overall demand rises](https://www.computerworld.com/article/3657729/samsung-beats-intel-as-top-semiconductor-seller-as-overall-demand-rises.html#tk.rss_all)
-- [Zoom Events gets a virtual green room](https://www.computerworld.com/article/3657569/zoom-events-gets-a-virtual-green-room.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

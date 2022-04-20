@@ -384,16 +384,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Node.js 18 updates OpenSSL support, enables fetch API](https://www.infoworld.com/article/3657636/nodejs-18-updates-openssl-support-enables-fetch-api.html#tk.rss_all)
+- [3 strategies for enterprise cloud finops](https://www.infoworld.com/article/3657614/3-strategies-for-enterprise-cloud-finops.html#tk.rss_all)
+- [7 ways to avoid a cloud misconfiguration attack](https://www.infoworld.com/article/3653376/how-to-avoid-a-cloud-misconfiguration-attack.html#tk.rss_all)
 - [Clojure meets Dart in ClojureDart](https://www.infoworld.com/article/3657759/clojure-meets-dart-in-clojuredart.html#tk.rss_all)
+- [GitHub repositories compromised by stolen OAuth tokens](https://www.csoonline.com/article/3657756/github-repositories-compromised-by-stolen-oauth-tokens.html#tk.rss_all)
 - [The steady march of general-purpose databases](https://www.infoworld.com/article/3657613/the-steady-march-of-general-purpose-databases.html#tk.rss_all)
 - [How to minimize new technical debt](https://www.infoworld.com/article/3657611/how-to-minimize-new-technical-debt.html#tk.rss_all)
 - [9 low-rent cloud providers to challenge AWS, Azure, and GCP](https://www.infoworld.com/article/3656688/9-low-rent-cloud-providers-to-challenge-aws-azure-and-gcp.html#tk.rss_all)
 - [JetBrains IntelliJ IDEA adds dependency analyzer](https://www.infoworld.com/article/3657776/jetbrains-intellij-idea-adds-dependency-analyzer.html#tk.rss_all)
 - [Microsoft .NET 7 Preview 3 focuses on speedups](https://www.infoworld.com/article/3657772/microsoft-net-7-preview-3-focuses-on-speedups.html#tk.rss_all)
-- [Approach cloud architecture from the outside in](https://www.infoworld.com/article/3657768/approach-cloud-architecture-from-the-outside-in.html#tk.rss_all)
-- [What is CI/CD? Continuous integration and continuous delivery explained](https://www.infoworld.com/article/3271126/what-is-cicd-continuous-integration-and-continuous-delivery-explained.html#tk.rss_all)
-- [Virtualenv and venv: Python virtual environments explained](https://www.infoworld.com/article/3239675/virtualenv-and-venv-python-virtual-environments-explained.html#tk.rss_all)
-- [Atlassian unveils Compass collaboration portal for developers](https://www.infoworld.com/article/3657731/atlassian-unveils-compass-collaboration-portal-for-developers.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

@@ -369,6 +369,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Global Tech Policy Briefing: March 2022](https://www.informationweek.com/government/global-tech-policy-review-march-2022)
+- [IT Admins Need a Vacation](https://www.informationweek.com/it-life/it-admins-need-a-vacation)
+- [Bridging the Digital Dexterity Skills Gap](https://www.informationweek.com/strategic-cio/bridging-the-digital-dexterity-skills-gap)
 - [Keeping an IT Team Focused in Challenging Times](https://www.informationweek.com/strategic-cio/keeping-an-it-team-focused-in-challenging-times)
 - [Embracing the Platinum Rule for Data](https://www.informationweek.com/big-data/embracing-the-platinum-rule-for-data)
 - [A Practical Guide to DevOps](https://www.informationweek.com/devops/a-practical-guide-to-devops-it-s-not-that-scary)
@@ -376,9 +379,6 @@
 - [Applications Cannot Be Trusted](https://www.informationweek.com/security-and-risk-strategy/applications-cannot-be-trusted)
 - [Automated Accounts Payable Gives Biotech Company New Efficiency](https://www.informationweek.com/fintech/imaginab-finds-digital-efficiency-with-automated-accounts-payable)
 - [Ground Rules for Open-Source Software Management](https://www.informationweek.com/software/ground-rules-for-open-source-software-management)
-- [The Automation Revolution and the Shift in Labor](https://www.informationweek.com/ai-or-machine-learning/the-automation-revolution-and-the-shift-in-labor)
-- [Remote Work Jobs Still Growing, Particularly for Tech Pros](https://www.informationweek.com/it-life/remote-work-jobs-still-growing-particularly-for-tech-pros)
-- [The Post-Pandemic Workplace and The Path Forward](https://www.informationweek.com/strategic-cio/the-post-pandemic-workplace-and-the-path-forward)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

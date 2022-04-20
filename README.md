@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Clinical application analysts trained in Cerner and Epic](https://www.reddit.com/r/InformationTechnology/comments/u7n2yx/clinical_application_analysts_trained_in_cerner/)
+- [I need help Setting up 20 Dell laptops out of the box &lpar;Windows 10 Pro Already Imaged&rpar;](https://www.reddit.com/r/InformationTechnology/comments/u7j3b3/i_need_help_setting_up_20_dell_laptops_out_of_the/)
+- [MongoDB](https://www.reddit.com/r/InformationTechnology/comments/u7fsmo/mongodb/)
+- [How to start a career in IT?](https://www.reddit.com/r/InformationTechnology/comments/u7cfjj/how_to_start_a_career_in_it/)
+- [Top Mobile App Developers in India by Green Apex Technolabs on Dribbble](https://www.reddit.com/r/InformationTechnology/comments/u73p37/top_mobile_app_developers_in_india_by_green_apex/)
+- [Apply for a 2022 Linux Foundation Training &lpar;LiFT&rpar; Scholarship by April 30](https://www.reddit.com/r/InformationTechnology/comments/u6yhmm/apply_for_a_2022_linux_foundation_training_lift/)
 - [What does a wifi router do during the first 30 - 45 seconds it takes to boot up and establish connection with devices?](https://www.reddit.com/r/InformationTechnology/comments/u6txo4/what_does_a_wifi_router_do_during_the_first_30_45/)
 - [Are there any jobs in IT where I don&#39;t have to deal with the public?](https://www.reddit.com/r/InformationTechnology/comments/u6j2kl/are_there_any_jobs_in_it_where_i_dont_have_to/)
 - [IT Interview coming up. Advice?](https://www.reddit.com/r/InformationTechnology/comments/u6i3e2/it_interview_coming_up_advice/)
 - [Which job would you choose](https://www.reddit.com/r/InformationTechnology/comments/u6clkv/which_job_would_you_choose/)
-- [Changing Windows 10 Boot Disk](https://www.reddit.com/r/InformationTechnology/comments/u6axck/changing_windows_10_boot_disk/)
-- [How to learn and get into software engineering/ Full Stack Engineering](https://www.reddit.com/r/InformationTechnology/comments/u5tvqv/how_to_learn_and_get_into_software_engineering/)
-- [Alright so ive finished coursera on basic Information Technology but now the thing is I dont know what field i want to go into i at least want it to have something to with programming or fixing the computers themselves any idea of what jobs those would fill.](https://www.reddit.com/r/InformationTechnology/comments/u5ruji/alright_so_ive_finished_coursera_on_basic/)
-- [if your company offered you $...](https://www.reddit.com/r/InformationTechnology/comments/u5cr78/if_your_company_offered_you/)
-- [Bachelors](https://www.reddit.com/r/InformationTechnology/comments/u553tw/bachelors/)
-- [Importance of Professional SEO Services for Your Business - Infotop](https://www.reddit.com/r/InformationTechnology/comments/u4xnkw/importance_of_professional_seo_services_for_your/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [How Veeam helped grocery chain Franprix escape its backup hell](https://www.computerweekly.com/news/252516130/How-Veeam-helped-grocery-chain-Franprix-escape-its-backup-hell)
+- [Bots could help businesses polish up their green credentials](https://www.computerweekly.com/news/252516123/Bots-could-help-businesses-polish-up-their-green-credentials)
+- [One-third of scams that hit TSB are impersonation fraud](https://www.computerweekly.com/news/252516124/One-third-of-scams-that-hit-TSB-are-impersonation-fraud)
+- [Uptime Institute supports datacentre operators with honing their sustainability strategies](https://www.computerweekly.com/news/252516117/Uptime-Institute-supports-datacentre-operators-with-honing-their-sustainability-strategies)
+- [Home secretary Priti Patel to decide whether to extradite Assange](https://www.computerweekly.com/news/252516121/Home-Secretary-Priti-Patel-to-decide-whether-to-extradite-Assange)
+- [AWS fixes vulnerabilities in Log4Shell hot patch](https://www.computerweekly.com/news/252516112/AWS-fixes-vulnerabilities-in-Log4Shell-hot-patch)
+- [NSO Group faces court action after Pegasus spyware used against targets in UK](https://www.computerweekly.com/news/252516106/NSO-Group-faces-court-action-after-Pegasus-spyware-used-against-targets-in-UK)
 - [ODI data literacy report laments technical skills inflation in government data strategy](https://www.computerweekly.com/news/252516086/ODI-data-literacy-report-laments-technical-skills-inflation-in-government-data-strategy)
 - [Median threat actor ‘dwell time’ dropped during 2021](https://www.computerweekly.com/news/252516081/Median-threat-actor-dwell-time-dropped-during-2021)
 - [Hammers sign Acronis as backup and security in one](https://www.computerweekly.com/news/252516072/Hammers-sign-Acronis-as-backup-and-security-in-one)
-- [A Computer Weekly buyer’s guide to cloud enterprise applications](https://www.computerweekly.com/ehandbook/A-Computer-Weekly-buyers-guide-to-cloud-enterprise-applications)
-- [Gartner: Public cloud spending on the rise across the globe as hybrid working takes hold](https://www.computerweekly.com/news/252516068/Gartner-Public-cloud-spending-on-the-rise-across-the-globe-as-hybrid-working-takes-hold)
-- [Windows 7 and XP still more popular than Windows 11](https://www.computerweekly.com/news/252516063/Windows-7-and-XP-still-more-popular-than-Windows-11)
-- [Royal Holloway: Information security of the 2016 Philippine automated elections](https://www.computerweekly.com/ehandbook/Royal-Holloway-Information-security-of-the-2016-Philippine-automated-elections)
-- [Refugee support group works with tech startup on reporting system](https://www.computerweekly.com/feature/Refugee-support-group-works-with-tech-startup-on-reporting-system)
-- [Lack of expertise hurting UK government’s cyber preparedness](https://www.computerweekly.com/news/252515962/Lack-of-expertise-hurting-UK-governments-cyber-preparedness)
-- [Kyndryl kindles cyber incident recovery pact with Dell](https://www.computerweekly.com/news/252515957/Kyndryl-kindles-cyber-incident-recovery-pact-with-Dell)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

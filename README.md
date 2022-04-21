@@ -369,6 +369,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [How to Spot an Alternative Cloud Provider](https://www.informationweek.com/cloud/how-to-spot-an-alternative-cloud-provider)
+- [Interim CIOs Favored as Organizations Seek Digitalization Push](https://www.informationweek.com/strategic-cio/interim-cios-favored-as-organizations-seek-digitalization-push)
+- [Reaping the Rewards of Diversity, Equity, and Inclusion](https://www.informationweek.com/it-life/reaping-the-rewards-of-diversity-equity-and-inclusion)
 - [Global Tech Policy Briefing: March 2022](https://www.informationweek.com/government/global-tech-policy-review-march-2022)
 - [IT Admins Need a Vacation](https://www.informationweek.com/it-life/it-admins-need-a-vacation)
 - [Bridging the Digital Dexterity Skills Gap](https://www.informationweek.com/strategic-cio/bridging-the-digital-dexterity-skills-gap)
@@ -376,9 +379,6 @@
 - [Embracing the Platinum Rule for Data](https://www.informationweek.com/big-data/embracing-the-platinum-rule-for-data)
 - [A Practical Guide to DevOps](https://www.informationweek.com/devops/a-practical-guide-to-devops-it-s-not-that-scary)
 - [Into the Metaverse: A Game-Changing Year for UI and UX](https://www.informationweek.com/software/into-the-metaverse-a-game-changing-year-for-ui-and-ux)
-- [Applications Cannot Be Trusted](https://www.informationweek.com/security-and-risk-strategy/applications-cannot-be-trusted)
-- [Automated Accounts Payable Gives Biotech Company New Efficiency](https://www.informationweek.com/fintech/imaginab-finds-digital-efficiency-with-automated-accounts-payable)
-- [Ground Rules for Open-Source Software Management](https://www.informationweek.com/software/ground-rules-for-open-source-software-management)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

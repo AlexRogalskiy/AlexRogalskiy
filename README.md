@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Node.js 18](https://nodejs.org/en/blog/announcements/v18-release-announce/)
-- [US officials heading to Solomons over China pact worries](https://abcnews.go.com/International/wireStory/us-officials-heading-solomons-china-pact-worries-84160064)
-- [Message Notification System for Vim8](https://github.com/mattn/vim-notification)
-- [A Decadal Strategy for Planetary Science and Astrobiology 2023-2032](https://nap.nationalacademies.org/read/26522/chapter/1)
-- [Microsoft disables SMB1 file-sharing protocol by default in Windows 11 Home](https://www.zdnet.com/article/microsoft-disables-smb1-file-sharing-protocol-by-default-in-windows-11-home/)
-- [A cautionary tale of machine learning uncertainty](https://www.sciencedaily.com/releases/2022/03/220310115132.htm)
-- [Metager.org – German metasearch engine focused on privacy](https://metager.org)
-- [Your Apple HomePod may now be worth more than its $299 MSRP](https://www.theverge.com/2022/4/19/23033038/apple-homepod-appreciate-price-ebay-used-box)
-- [A man rethinking the definition of reality](https://www.bbc.com/future/article/20220216-the-man-rethinking-the-definition-of-reality)
-- [“Oreology” investigates why Oreo creme filling usually sticks to one side](https://arstechnica.com/science/2022/04/oreology-investigates-mystery-of-why-oreo-creme-filling-usually-sticks-to-one-side/)
+- [Barack Obama’s New Role: Fighting Disinformation](https://www.nytimes.com/2022/04/20/technology/barack-obama-disinformation.html)
+- [Prufrock – The Boring Company](https://www.boringcompany.com/prufrock)
+- [Ubuntu for the RISC-V Platform](https://wiki.ubuntu.com/RISC-V)
+- [Judge in Brazil Grants ~US$1K in Lawsuit Against Apple over iPhone Charger](https://www.tecmundo.com.br/mercado/237249-apple-indenizara-cliente-vender-iphone-carregador.htm)
+- [Thomas Fitzpatrick &lpar;Pilot&rpar;](https://en.wikipedia.org/wiki/Thomas_Fitzpatrick_(pilot))
+- [The creator of Tezos will have an AMA on YouTube](https://twitter.com/ArthurB/status/1516840439118274563)
+- [The first ‘full-screen iPhone’ could arrive in 2024](https://www.theverge.com/2022/4/20/23033437/apple-full-screen-iphone-16-camera-2024-ming-chi-kuo)
+- [Amazon to Undergo Racial Audit, Led by Former AG Loretta Lynch](https://www.bloomberg.com/news/articles/2022-04-18/amazon-to-undergo-racial-audit-led-by-former-ag-loretta-lynch)
+- [Journalism and Corruption in Chicago, 1912–1931](https://www.cambridge.org/core/journals/historical-journal/article/journalism-and-corruption-in-chicago-19121931/37CDA45C438A3CBFEC93C18E9697EC06)
+- [Ask HN: Any ORM like ActiveRecord but more light weight](https://news.ycombinator.com/item?id=31105574)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

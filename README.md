@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Show HN: Job board to find venture capital jobs](https://venturecapitalcareers.com/)
-- [Utilities Want to Convert Coal Plants to Nuclear; Skeptics Abound](https://www.wsj.com/articles/utilities-want-to-convert-coal-plants-to-nuclear-skeptics-abound-11650279600)
-- [Detailed Assemblies for an Airtight Small Home](https://www.finehomebuilding.com/2022/04/19/detailed-assemblies-for-an-airtight-small-home)
-- [Nvidia: GPUs can do better chip design in a few days than 10 man year](https://www.hpcwire.com/2022/04/18/nvidia-rd-chief-on-how-ai-is-improving-chip-design/)
-- [Framework Laptop Mainboard](https://github.com/FrameworkComputer/Mainboard)
-- [Testing consistency of rqlite](https://github.com/wildarch/jepsen.rqlite/blob/main/doc/blog.md)
-- [Rescale &lpar;YC W12&rpar; Is Hiring Software Engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
-- [Can you be sure to clear a line at Tetris?](https://a3nm.net/blog/adversarial_tetris.html)
-- [The absurd complexity of server-side rendering](https://gist.github.com/Widdershin/98fd4f0e416e8eb2906d11fd1da62984)
-- [Minisleep – A Tiny Wiki Engine](http://halestrom.net/darksleep/software/minisleep/)
+- [Turning scrap copper into beautiful crystals](https://crystalverse.com/copper-acetate-crystals/)
+- [A YouTuber Purposely Crashed His Plane in California, FAA Says](https://www.nytimes.com/2022/04/20/us/trevor-jacob-youtube-plane-crash.html)
+- [In defense of swap: common misconceptions](https://chrisdown.name/2018/01/02/in-defence-of-swap.html)
+- [A plastic bag’s 2000-mile journey](https://www.bloomberg.com/graphics/2022-tesco-recycle-plastic-waste-pledge-falls-short/)
+- [Emilie &lpar;2010&rpar;](https://themillions.com/2010/04/emilie.html)
+- [California grid set record of 97% renewable power on April 3](https://www.solarpowerworldonline.com/2022/04/california-grid-set-record-with-97-percent-renewable-power-april-3/)
+- [The Unreasonable Fight for Municipal Broadband](https://tylercipriani.com/blog/2022/04/20/the-unreasonable-fight-for-municipal-broadband/)
+- [Dover &lpar;YC S19&rpar; is hiring to build a next-gen recruiting platform](https://www.dover.com/open-roles/software-engineer)
+- [The ‘psychobiome&#39;: the gut bacteria that may alter how you think, feel, act](https://www.science.org/content/article/meet-psychobiome-gut-bacteria-may-alter-how-you-think-feel-and-act)
+- [Memray: a memory profiler for Python](https://github.com/bloomberg/memray)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

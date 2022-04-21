@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Execs to workers: Back to the office for thee, but not for me](https://www.computerworld.com/article/3658108/execs-to-workers-back-to-the-office-for-thee-but-not-for-me.html#tk.rss_all)
+- [Apple-friendly iDrive pushes price to build S3 service for SMBs](https://www.computerworld.com/article/3657876/apple-friendly-idrive-pushes-price-to-build-s3-service-for-smbs.html#tk.rss_all)
+- [Presentation platform Pitch adds asynchronous video](https://www.computerworld.com/article/3657595/presentation-platform-pitch-adds-asynchronous-video.html#tk.rss_all)
+- [WhatsApp Communities unites multiple teams chats in one place](https://www.computerworld.com/article/3657873/whatsapp-communities-unites-multiple-teams-chats-in-one-place.html#tk.rss_all)
+- [Zoom unveils its redesigned whiteboard](https://www.computerworld.com/article/3657761/zoom-unveils-its-redesigned-whiteboard.html#tk.rss_all)
+- [How the Pixel 6a could completely reshape Android](https://www.computerworld.com/article/3657868/pixel-6a-android.html#tk.rss_all)
+- [Top 6 e-signature software tools](https://www.computerworld.com/article/3656798/top-6-e-signature-software-tools.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
 - [Review: Logitech’s Lift vertical mouse helps control RSI](https://www.computerworld.com/article/3657739/review-logitechs-lift-vertical-mouse-helps-control-rsi.html#tk.rss_all)
-- [As biz travel slowly returns, some companies expect workers to pay their own way](https://www.computerworld.com/article/3657758/as-biz-travel-slowly-returns-some-companies-expect-workers-to-pay-their-own-way.html#tk.rss_all)
-- [When humans make tech mistakes](https://www.computerworld.com/article/3657755/when-humans-make-tech-mistakes.html#tk.rss_all)
-- [California eyes four-day workweek for larger firms](https://www.computerworld.com/article/3657773/california-eyes-four-day-workweek-for-larger-firms.html#tk.rss_all)
-- [Microsoft to kill Patch Tuesday for some enterprise users](https://www.computerworld.com/article/3657612/microsoft-to-kill-patch-tuesday-for-some-enterprise-users.html#tk.rss_all)
-- [April&#39;s Patch Tuesday: a lot of large, diverse and urgent updates](https://www.computerworld.com/article/3657754/aprils-patch-tuesday-a-lot-of-large-diverse-and-urgent-updates.html#tk.rss_all)
-- [Apple plots a Mac revolution in interesting times](https://www.computerworld.com/article/3657752/apple-plots-a-mac-revolution-in-interesting-times.html#tk.rss_all)
-- [Mergers and acquisitions and takeovers — oh my!](https://www.computerworld.com/article/3657737/mergers-and-acquisitions-and-takeovers-oh-my.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

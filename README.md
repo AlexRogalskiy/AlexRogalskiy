@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war latest: Ukraine repels ‘numerous’ Donbas attacks as Russian logistics falter, says UK – live](https://www.theguardian.com/world/live/2022/apr/19/russia-ukraine-war-zelenskiy-says-battle-for-donbas-has-begun-dialogue-between-macron-and-putin-stalls-live)
-- [What’s behind the economic implosion in Sri Lanka?](https://www.theguardian.com/news/audio/2022/apr/20/whats-behind-the-economic-implosion-in-sri-lanka)
-- [Actor Ezra Miller arrested on suspicion of assault in Hawaii](https://www.theguardian.com/us-news/2022/apr/19/ezra-miller-arrested-assault-hawaii)
-- [Russian tycoon Oleg Tinkov denounces ‘insane war’ in Ukraine](https://www.theguardian.com/world/2022/apr/20/russian-tycoon-oleg-tinkov-denounces-insane-war-in-ukraine)
-- [New Jersey diocese agrees to pay $87.5m settlement to 300 alleged abuse victims](https://www.theguardian.com/us-news/2022/apr/19/new-jersey-catholic-diocese-alleged-sexual-abuse-settlement)
-- [A picture in time: Evdokia Petrov in the hands of Soviet ‘couriers’ at Sydney airport](https://www.theguardian.com/australia-news/2022/apr/20/a-picture-in-time-evdokia-petrov-in-the-hands-of-soviet-couriers-at-sydney-airport)
-- [Skoda’s refusal to honour warranty staggers legal experts](https://www.theguardian.com/money/2022/apr/20/skodas-refusal-to-honour-warranty-staggers-legal-experts)
-- [Degree grade matters more than university reputation, report finds](https://www.theguardian.com/education/2022/apr/20/degree-grade-matters-more-than-university-reputation-report-finds)
-- [Play about ‘great escape’ from German prison camp to be staged at Alexandra Palace](https://www.theguardian.com/stage/2022/apr/20/play-about-great-escape-from-german-prison-camp-to-be-staged-at-alexandra-palace)
-- [Self-driving car users could watch films on motorway under new DfT proposals](https://www.theguardian.com/technology/2022/apr/20/self-driving-car-users-could-watch-films-on-motorway-under-new-dft-proposals)
+- [Russia-Ukraine war latest: Ukraine offers unconditional talks on Mariupol as west warns of Russian cyber-attacks – live](https://www.theguardian.com/world/live/2022/apr/20/russia-ukraine-war-latest-ukraine-repels-numerous-donbas-attacks-as-russian-logistics-falter-says-uk-live)
+- [Russia-Ukraine war: what we know on day 57 of the invasion](https://www.theguardian.com/world/2022/apr/21/russia-ukraine-war-what-we-know-on-day-57-of-the-invasion)
+- [Macron and Le Pen go head-to-head in French presidential debate](https://www.theguardian.com/world/2022/apr/20/macron-and-le-pen-go-head-to-head-in-french-presidential-debate)
+- [Can Russia succeed as a new chapter of war begins in Ukraine?](https://www.theguardian.com/news/audio/2022/apr/21/russia-ukraine-war-putin-today-in-focus)
+- [US justice department appeals mask mandate ruling after CDC request](https://www.theguardian.com/world/2022/apr/20/mask-mandate-cdc-appeal-justice-department-travel)
+- [Florida advances bill to repeal Disney’s private district amid ‘don’t say gay’ feud](https://www.theguardian.com/us-news/2022/apr/20/disney-world-florida-dont-say-gay-bill)
+- [Italy puts 25C limit on air conditioning as energy debate rages](https://www.theguardian.com/world/2022/apr/20/operation-thermostat-italy-limits-air-conditioning-amid-energy-crisis-fears)
+- [Climate crisis could lead to rise of smaller bees, study finds](https://www.theguardian.com/environment/2022/apr/21/climate-crisis-smaller-bees-bumblebees-study)
+- [Tesla has another record quarter in tumultuous period for Elon Musk](https://www.theguardian.com/technology/2022/apr/20/tesla-first-quarter-revenues-elon-musk)
+- [‘A difficult time’: why popular TV series Pachinko was met with silence in Japan](https://www.theguardian.com/world/2022/apr/21/pachinko-tv-series-korea-japan-min-jin-lee)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

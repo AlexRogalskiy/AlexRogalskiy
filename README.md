@@ -369,16 +369,16 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [New York Fintech Week: Startups Take Aim at Financial Inclusion](https://www.informationweek.com/fintech/new-york-fintech-week-startups-take-aim-at-financial-inclusion)
+- [NY Fintech Week: Crypto Regulation, Fraud, and Venture Capital](https://www.informationweek.com/fintech/ny-fintech-week-crypto-regulation-fraud-and-venture-capital)
+- [Enterprise Browsers Promise Enhanced Security, Productivity](https://www.informationweek.com/software/enterprise-browsers-promise-enhanced-security-productivity)
+- [Avoid Automation Headaches: Unify Your Approach to Hyperautomation on a Single Platform](https://www.informationweek.com/software/avoid-automation-headaches-unify-your-approach-to-hyperautomation-on-a-single-platform)
+- [NFT Analytics: Understanding Asset Value](https://www.informationweek.com/big-data/nft-analytics-understanding-asset-value)
 - [How to Spot an Alternative Cloud Provider](https://www.informationweek.com/cloud/how-to-spot-an-alternative-cloud-provider)
 - [Interim CIOs Favored as Organizations Seek Digitalization Push](https://www.informationweek.com/strategic-cio/interim-cios-favored-as-organizations-seek-digitalization-push)
+- [SAP Exits Russia, Shuts Down Cloud](https://www.informationweek.com/cloud/sap-exits-russia-shutting-down-cloud)
 - [Reaping the Rewards of Diversity, Equity, and Inclusion](https://www.informationweek.com/it-life/reaping-the-rewards-of-diversity-equity-and-inclusion)
 - [Global Tech Policy Briefing: March 2022](https://www.informationweek.com/government/global-tech-policy-review-march-2022)
-- [IT Admins Need a Vacation](https://www.informationweek.com/it-life/it-admins-need-a-vacation)
-- [Bridging the Digital Dexterity Skills Gap](https://www.informationweek.com/strategic-cio/bridging-the-digital-dexterity-skills-gap)
-- [Keeping an IT Team Focused in Challenging Times](https://www.informationweek.com/strategic-cio/keeping-an-it-team-focused-in-challenging-times)
-- [Embracing the Platinum Rule for Data](https://www.informationweek.com/big-data/embracing-the-platinum-rule-for-data)
-- [A Practical Guide to DevOps](https://www.informationweek.com/devops/a-practical-guide-to-devops-it-s-not-that-scary)
-- [Into the Metaverse: A Game-Changing Year for UI and UX](https://www.informationweek.com/software/into-the-metaverse-a-game-changing-year-for-ui-and-ux)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

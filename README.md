@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Turning scrap copper into beautiful crystals](https://crystalverse.com/copper-acetate-crystals/)
-- [A YouTuber Purposely Crashed His Plane in California, FAA Says](https://www.nytimes.com/2022/04/20/us/trevor-jacob-youtube-plane-crash.html)
-- [In defense of swap: common misconceptions](https://chrisdown.name/2018/01/02/in-defence-of-swap.html)
-- [A plastic bag’s 2000-mile journey](https://www.bloomberg.com/graphics/2022-tesco-recycle-plastic-waste-pledge-falls-short/)
-- [Emilie &lpar;2010&rpar;](https://themillions.com/2010/04/emilie.html)
-- [California grid set record of 97% renewable power on April 3](https://www.solarpowerworldonline.com/2022/04/california-grid-set-record-with-97-percent-renewable-power-april-3/)
-- [The Unreasonable Fight for Municipal Broadband](https://tylercipriani.com/blog/2022/04/20/the-unreasonable-fight-for-municipal-broadband/)
-- [Dover &lpar;YC S19&rpar; is hiring to build a next-gen recruiting platform](https://www.dover.com/open-roles/software-engineer)
-- [The ‘psychobiome&#39;: the gut bacteria that may alter how you think, feel, act](https://www.science.org/content/article/meet-psychobiome-gut-bacteria-may-alter-how-you-think-feel-and-act)
-- [Memray: a memory profiler for Python](https://github.com/bloomberg/memray)
+- [Inhalable textile microplastic fibers impair lung repair](https://www.biorxiv.org/content/10.1101/2021.01.25.428144v3)
+- [My diet of almost only red meat](https://chrislakin.com/carnivore)
+- [Syntakt – 12 Track Drum Computer and Synthesizer](https://www.elektron.se/products/syntakt/)
+- [Show HN: Algorithmic trading for everyone](https://justfor.fund)
+- [Running Arduino Firmware on a GOJO LTX-7 Soap Dispenser](https://github.com/zapta/misc/tree/master/soap_dispenser)
+- [Meta COO Sandberg reportedly tried to block story about Activision CEO Kotick](https://www.cnbc.com/2022/04/21/meta-coo-sandberg-reportedly-tried-to-block-news-story-about-activision-ceo-kotick.html)
+- [The smallest 256x256 single-color PNG file, and where you&#39;ve seen it &lpar;2015&rpar;](https://www.mjt.me.uk/posts/smallest-png/)
+- [How Twitter&#39;s Algorithmic Feed Works](https://transitivebullsh.it/oss-twitter-algorithm-part-1)
+- [GitHub: Private Profiles beta](https://github.blog/changelog/2022-04-21-private-profiles/)
+- [How Postgres chooses which index to use for a query](https://pganalyze.com/blog/how-postgres-chooses-index)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

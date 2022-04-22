@@ -384,16 +384,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [AWS unveils ML-powered devops for AWS Lambda](https://www.infoworld.com/article/3658113/aws-unveils-ml-powered-devops-for-aws-lambda.html#tk.rss_all)
+- [AWS launches $30M Impact Accelerator for minority-led startups](https://www.infoworld.com/article/3658193/aws-launches-30m-impact-accelerator-for-minority-led-startups.html#tk.rss_all)
+- [C# 11 previews raw string literals, dumps parameter null checking](https://www.infoworld.com/article/3658191/c-11-previews-raw-string-literals-dumps-parameter-null-checking.html#tk.rss_all)
+- [Go serverless with Vercel, SvelteKit, and MongoDB](https://www.infoworld.com/article/3655952/go-serverless-with-vercel-sveltekit-and-mongodb.html#tk.rss_all)
 - [Microsoft unifies large-scale data management under Purview framework](https://www.infoworld.com/article/3658208/microsoft-unifies-large-scale-data-management-under-purview-framework.html#tk.rss_all)
 - [Kubernetes support for dockershim to end on May 3](https://www.infoworld.com/article/3658128/kubernetes-support-for-dockershim-to-end-on-may-3.html#tk.rss_all)
 - [Cross-platform UIs ‘go live’ with .NET MAUI](https://www.infoworld.com/article/3657869/here-comes-maui.html#tk.rss_all)
 - [5 developer tools to rule your SDLC](https://www.infoworld.com/article/3657735/5-developer-tools-to-rule-your-sdlc.html#tk.rss_all)
 - [WebAssembly 2.0 begins to take shape](https://www.infoworld.com/article/3657593/webassembly-20-begins-to-take-shape.html#tk.rss_all)
 - [Node.js 18 updates OpenSSL support, enables fetch API](https://www.infoworld.com/article/3657636/nodejs-18-updates-openssl-support-enables-fetch-api.html#tk.rss_all)
-- [3 strategies for enterprise cloud finops](https://www.infoworld.com/article/3657614/3-strategies-for-enterprise-cloud-finops.html#tk.rss_all)
-- [7 ways to avoid a cloud misconfiguration attack](https://www.infoworld.com/article/3653376/how-to-avoid-a-cloud-misconfiguration-attack.html#tk.rss_all)
-- [Clojure meets Dart in ClojureDart](https://www.infoworld.com/article/3657759/clojure-meets-dart-in-clojuredart.html#tk.rss_all)
-- [GitHub repositories compromised by stolen OAuth tokens](https://www.csoonline.com/article/3657756/github-repositories-compromised-by-stolen-oauth-tokens.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

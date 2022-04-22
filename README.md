@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Advice needed on how to offload a bunch of Cisco IP Phone 8851](https://www.reddit.com/r/InformationTechnology/comments/u8szcw/advice_needed_on_how_to_offload_a_bunch_of_cisco/)
+- [Is it true that more certs=more pay?](https://www.reddit.com/r/InformationTechnology/comments/u8rpgn/is_it_true_that_more_certsmore_pay/)
+- [How Much Do Staffing Companies Make??](https://www.reddit.com/r/InformationTechnology/comments/u8r443/how_much_do_staffing_companies_make/)
+- [Download FREE4ALL Training Course Collection](https://www.reddit.com/r/InformationTechnology/comments/u8o0j8/download_free4all_training_course_collection/)
+- [NEW LAPTOP FOR WORK..](https://www.reddit.com/r/InformationTechnology/comments/u8f9de/new_laptop_for_work/)
 - [IT fields most in demand in the future &lpar;2022 - 2030&rpar;](https://www.reddit.com/r/InformationTechnology/comments/u87fv6/it_fields_most_in_demand_in_the_future_2022_2030/)
 - [I graduate from my BS soon &lpar;IT with a minor in Networking&rpar; and need advice.](https://www.reddit.com/r/InformationTechnology/comments/u7tsoc/i_graduate_from_my_bs_soon_it_with_a_minor_in/)
 - [Clinical application analysts trained in Cerner and Epic](https://www.reddit.com/r/InformationTechnology/comments/u7n2yx/clinical_application_analysts_trained_in_cerner/)
 - [I need help Setting up 20 Dell laptops out of the box &lpar;Windows 10 Pro Already Imaged&rpar;](https://www.reddit.com/r/InformationTechnology/comments/u7j3b3/i_need_help_setting_up_20_dell_laptops_out_of_the/)
 - [How to start a career in IT?](https://www.reddit.com/r/InformationTechnology/comments/u7cfjj/how_to_start_a_career_in_it/)
-- [Top Mobile App Developers in India by Green Apex Technolabs on Dribbble](https://www.reddit.com/r/InformationTechnology/comments/u73p37/top_mobile_app_developers_in_india_by_green_apex/)
-- [Apply for a 2022 Linux Foundation Training &lpar;LiFT&rpar; Scholarship by April 30](https://www.reddit.com/r/InformationTechnology/comments/u6yhmm/apply_for_a_2022_linux_foundation_training_lift/)
-- [What does a wifi router do during the first 30 - 45 seconds it takes to boot up and establish connection with devices?](https://www.reddit.com/r/InformationTechnology/comments/u6txo4/what_does_a_wifi_router_do_during_the_first_30_45/)
-- [Are there any jobs in IT where I don&#39;t have to deal with the public?](https://www.reddit.com/r/InformationTechnology/comments/u6j2kl/are_there_any_jobs_in_it_where_i_dont_have_to/)
-- [IT Interview coming up. Advice?](https://www.reddit.com/r/InformationTechnology/comments/u6i3e2/it_interview_coming_up_advice/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

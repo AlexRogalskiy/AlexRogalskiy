@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war latest: Ukraine offers unconditional talks on Mariupol as west warns of Russian cyber-attacks – live](https://www.theguardian.com/world/live/2022/apr/20/russia-ukraine-war-latest-ukraine-repels-numerous-donbas-attacks-as-russian-logistics-falter-says-uk-live)
-- [Russia-Ukraine war: what we know on day 57 of the invasion](https://www.theguardian.com/world/2022/apr/21/russia-ukraine-war-what-we-know-on-day-57-of-the-invasion)
-- [Macron and Le Pen go head-to-head in French presidential debate](https://www.theguardian.com/world/2022/apr/20/macron-and-le-pen-go-head-to-head-in-french-presidential-debate)
-- [Can Russia succeed as a new chapter of war begins in Ukraine?](https://www.theguardian.com/news/audio/2022/apr/21/russia-ukraine-war-putin-today-in-focus)
-- [US justice department appeals mask mandate ruling after CDC request](https://www.theguardian.com/world/2022/apr/20/mask-mandate-cdc-appeal-justice-department-travel)
-- [Florida advances bill to repeal Disney’s private district amid ‘don’t say gay’ feud](https://www.theguardian.com/us-news/2022/apr/20/disney-world-florida-dont-say-gay-bill)
-- [Italy puts 25C limit on air conditioning as energy debate rages](https://www.theguardian.com/world/2022/apr/20/operation-thermostat-italy-limits-air-conditioning-amid-energy-crisis-fears)
-- [Climate crisis could lead to rise of smaller bees, study finds](https://www.theguardian.com/environment/2022/apr/21/climate-crisis-smaller-bees-bumblebees-study)
-- [Tesla has another record quarter in tumultuous period for Elon Musk](https://www.theguardian.com/technology/2022/apr/20/tesla-first-quarter-revenues-elon-musk)
-- [‘A difficult time’: why popular TV series Pachinko was met with silence in Japan](https://www.theguardian.com/world/2022/apr/21/pachinko-tv-series-korea-japan-min-jin-lee)
+- [Russia-Ukraine war: Russia rejected proposal for Easter truce; more details of Biden’s $800m arms package for Ukraine](https://www.theguardian.com/world/live/2022/apr/21/russia-ukraine-war-latest-ukraine-offers-unconditional-talks-on-mariupol-as-west-warns-of-russian-cyber-attacks-live)
+- [The shaming of the Salvation Army - podcast](https://www.theguardian.com/society/audio/2022/apr/22/the-shaming-of-the-salvation-army-podcast)
+- [New Zealand faces global pressure over move to let resident be extradited to China](https://www.theguardian.com/world/2022/apr/22/new-zealand-china-pressure-extradition-kyung-yup-kim-dangerous-precedent)
+- [South Korea’s highest court overturns military convictions of two gay soldiers](https://www.theguardian.com/world/2022/apr/22/south-koreas-highest-court-overturns-military-convictions-of-two-gay-soldiers)
+- [Seven die in fire at Russia defence institute – reports](https://www.theguardian.com/world/2022/apr/22/die-in-fire-at-russia-defence-institute)
+- [Donald Trump Jr to appear before House Capitol attack panel – report](https://www.theguardian.com/us-news/2022/apr/21/donald-trump-jr-us-capitol-attack-panel)
+- [‘Democracy will wither’: Barack Obama outlines perils of unregulated big tech in sweeping speech](https://www.theguardian.com/us-news/2022/apr/21/obama-stanford-speech-big-tech)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2022/apr/22/premier-league-10-things-to-look-out-for-this-weekend)
+- [UK consumer confidence even lower than in 2008 financial crisis](https://www.theguardian.com/business/2022/apr/22/uk-consumer-confidence-even-lower-than-in-2008-financial-crisis)
+- [Co-op to ditch use-by dates on its yoghurt to cut waste](https://www.theguardian.com/business/2022/apr/22/co-op-to-ditch-use-by-dates-on-its-yoghurt-to-cut-waste)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

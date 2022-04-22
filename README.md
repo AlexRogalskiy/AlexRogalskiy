@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [AMD announces Ryzen Pro 6000 series mobile processors for business](https://www.itworldcanada.com/article/amd-announces-ryzen-pro-6000-series-mobile-processors-for-business/480650)
+- [Infected resumés being sent to hiring managers, warns eSentire](https://www.itworldcanada.com/article/infected-resumes-being-sent-to-hiring-managers-warns-esentire/480604)
+- [Conti ESXi ransomware strain could be run directly by an attacker, says Trellix](https://www.itworldcanada.com/article/conti-esxi-ransomware-strain-could-be-run-directly-by-an-attacker-says-trellix/480586)
+- [Okta now manages devices of third parties accessing its customer support tools](https://www.itworldcanada.com/article/okta-now-manages-devices-of-third-parties-accessing-its-customer-support-tools/480576)
+- [Canada and Five Eyes allies issue another plea to critical infrastructure firms to prepare for Russian cyber attacks](https://www.itworldcanada.com/article/canada-and-five-eyes-allies-issue-another-plea-to-critical-infrastructure-firms-to-prepare-for-russian-cyber-attacks/480571)
+- [Hashtag Trending April 21 – Netflix’s subscriber drop; Google’s Canada to Asia fibre-optic cable; U.K. self-driving car owners not responsible for crashes](https://www.itworldcanada.com/article/hashtag-trending-april-21-netflixs-subscriber-drop-googles-canada-to-asia-fibre-optic-cable-u-k-self-driving-car-owners-not-responsible-for-crashes/480572)
 - [Rogers proposes Xplornet to purchase Freedom Mobile](https://www.itworldcanada.com/article/rogers-proposes-xplornet-to-purchase-freedom-mobile/480563)
 - [Sunwing incident shows need for mandatory cyber breach reporting, says expert](https://www.itworldcanada.com/article/sunwing-incident-shows-need-for-mandatory-cyber-breach-reporting-says-expert/480537)
 - [Cyber Security Today, April 20, 2022 – A record year for zero-day bugs, how often do you test backups, and the world’s biggest penetration test returns](https://www.itworldcanada.com/article/cyber-security-today-april-20-2022-a-record-year-for-zero-day-bugs-how-often-do-you-test-backups-and-the-worlds-biggest-penetration-test-returns/480506)
 - [Hashtag Trending April 20 – Elon Musk’s Twitter troubles; Amazon commissions ‘racial equity audit’; Tesla employees sleep in Shanghai factory](https://www.itworldcanada.com/article/hashtag-trending-april-20-elon-musks-twitter-troubles-amazon-commissions-racial-equity-audit-tesla-employees-sleep-in-shanghai-factory/480509)
-- [Telus launches Stream+ streaming bundle for its subscribers](https://www.itworldcanada.com/article/telus-launches-stream-streaming-bundle-for-its-subscribers/480483)
-- [Rogers to offer 8Gbps home internet this summer](https://www.itworldcanada.com/article/rogers-to-offer-8gbps-home-internet-this-summer/480476)
-- [Coffee Briefing April 19, 2022 – Xero partners with FIFA Women’s Football; Liquid Avatar launches new art gallery in metaverse; Fortinet security training service; and more](https://www.itworldcanada.com/article/coffee-briefing-april-19-2022-xero-partners-with-fifa-womens-football-liquid-avatar-launches-new-art-gallery-in-metaverse-fortinet-security-training-service-and-more/480280)
-- [Hashtag Trending April 19 – Senator questions Intuit; Windows toolbox malware; and U.S. military prints barracks](https://www.itworldcanada.com/article/hashtag-trending-april-19-senator-questions-intuit-windows-toolbox-malware-and-u-s-military-prints-barracks/480345)
-- [Government rejects petition to amend virtual mobile operator policy](https://www.itworldcanada.com/article/government-rejects-petition-to-amend-virtual-mobile-operator-policy/480368)
-- [Modest improvement in cybersecurity in 2H 2021, report suggests](https://www.itworldcanada.com/article/modest-improvement-in-cybersecurity-in-2h-2021-report-suggests/480352)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

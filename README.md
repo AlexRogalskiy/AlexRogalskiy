@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [California eyes law to protect workers from digital surveillance](https://www.computerworld.com/article/3658198/california-eyes-law-to-protect-workers-from-digital-surveillance.html#tk.rss_all)
+- [Apple explains Google Workspace integration for Apple IDs](https://www.computerworld.com/article/3658329/apple-explains-google-workspace-integration-for-apple-ids.html#tk.rss_all)
+- [Remote work and the end of super-commuting](https://www.computerworld.com/article/3658131/remote-work-and-the-end-of-super-commuting.html#tk.rss_all)
+- [Planning a full return to the office? Beware &#39;a stampede of top talent&#39;](https://www.computerworld.com/article/3658228/plan-to-require-a-full-time-return-to-the-office-beware-a-stampede-of-top-talent.html#tk.rss_all)
 - [Execs to workers: Back to the office for thee, but not for me](https://www.computerworld.com/article/3658108/execs-to-workers-back-to-the-office-for-thee-but-not-for-me.html#tk.rss_all)
 - [Apple-friendly iDrive pushes price to build S3 service for SMBs](https://www.computerworld.com/article/3657876/apple-friendly-idrive-pushes-price-to-build-s3-service-for-smbs.html#tk.rss_all)
 - [Presentation platform Pitch adds asynchronous video](https://www.computerworld.com/article/3657595/presentation-platform-pitch-adds-asynchronous-video.html#tk.rss_all)
 - [WhatsApp Communities unites multiple teams chats in one place](https://www.computerworld.com/article/3657873/whatsapp-communities-unites-multiple-teams-chats-in-one-place.html#tk.rss_all)
 - [Zoom unveils its redesigned whiteboard](https://www.computerworld.com/article/3657761/zoom-unveils-its-redesigned-whiteboard.html#tk.rss_all)
 - [How the Pixel 6a could completely reshape Android](https://www.computerworld.com/article/3657868/pixel-6a-android.html#tk.rss_all)
-- [Top 6 e-signature software tools](https://www.computerworld.com/article/3656798/top-6-e-signature-software-tools.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
-- [Review: Logitech’s Lift vertical mouse helps control RSI](https://www.computerworld.com/article/3657739/review-logitechs-lift-vertical-mouse-helps-control-rsi.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

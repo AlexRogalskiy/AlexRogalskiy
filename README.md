@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Barack Obama’s New Role: Fighting Disinformation](https://www.nytimes.com/2022/04/20/technology/barack-obama-disinformation.html)
-- [Prufrock – The Boring Company](https://www.boringcompany.com/prufrock)
-- [Ubuntu for the RISC-V Platform](https://wiki.ubuntu.com/RISC-V)
-- [Judge in Brazil Grants ~US$1K in Lawsuit Against Apple over iPhone Charger](https://www.tecmundo.com.br/mercado/237249-apple-indenizara-cliente-vender-iphone-carregador.htm)
-- [Thomas Fitzpatrick &lpar;Pilot&rpar;](https://en.wikipedia.org/wiki/Thomas_Fitzpatrick_(pilot))
-- [The creator of Tezos will have an AMA on YouTube](https://twitter.com/ArthurB/status/1516840439118274563)
-- [The first ‘full-screen iPhone’ could arrive in 2024](https://www.theverge.com/2022/4/20/23033437/apple-full-screen-iphone-16-camera-2024-ming-chi-kuo)
-- [Amazon to Undergo Racial Audit, Led by Former AG Loretta Lynch](https://www.bloomberg.com/news/articles/2022-04-18/amazon-to-undergo-racial-audit-led-by-former-ag-loretta-lynch)
-- [Journalism and Corruption in Chicago, 1912–1931](https://www.cambridge.org/core/journals/historical-journal/article/journalism-and-corruption-in-chicago-19121931/37CDA45C438A3CBFEC93C18E9697EC06)
-- [Ask HN: Any ORM like ActiveRecord but more light weight](https://news.ycombinator.com/item?id=31105574)
+- [ISPs can’t find any judges who will block California net neutrality law](https://arstechnica.com/tech-policy/2022/04/isps-cant-find-any-judges-who-will-block-california-net-neutrality-law/)
+- [Donald Trump Deepfake Shows Ex-President Joining Russia&#39;s Version of YouTube](https://www.newsweek.com/trump-deepfake-russia-rutube-1687647)
+- [Ask HN: Resources to prepare for starting a new job](https://news.ycombinator.com/item?id=31117867)
+- [Adopting Users’ Design Feedback](https://hacks.mozilla.org/2022/04/adopting-users-design-feedback/)
+- [There’s only one way for Twitter to dodge Elon Musk’s Twitter takeover](https://fortune.com/2022/04/21/elon-musk-secured-financing-twitter-white-knight/)
+- [Open-source Python package for analyzing human neurophysiological data](https://mne.tools/stable/index.html)
+- [Inhalable textile microplastic fibers impair lung repair](https://www.biorxiv.org/content/10.1101/2021.01.25.428144v3)
+- [Amazon Aurora Serverless](https://aws.amazon.com/rds/aurora/serverless/)
+- [Helping the Poor: The Great Distraction](https://betonit.blog/2022/03/07/helping-the-poor-the-great-distraction/)
+- [Contra Hoffman on Vitamin D Dosing](https://astralcodexten.substack.com/p/contra-hoffman-on-vitamin-d-dosing)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

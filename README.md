@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war: Russia rejected proposal for Easter truce; more details of Biden’s $800m arms package for Ukraine](https://www.theguardian.com/world/live/2022/apr/21/russia-ukraine-war-latest-ukraine-offers-unconditional-talks-on-mariupol-as-west-warns-of-russian-cyber-attacks-live)
-- [The shaming of the Salvation Army - podcast](https://www.theguardian.com/society/audio/2022/apr/22/the-shaming-of-the-salvation-army-podcast)
-- [New Zealand faces global pressure over move to let resident be extradited to China](https://www.theguardian.com/world/2022/apr/22/new-zealand-china-pressure-extradition-kyung-yup-kim-dangerous-precedent)
-- [South Korea’s highest court overturns military convictions of two gay soldiers](https://www.theguardian.com/world/2022/apr/22/south-koreas-highest-court-overturns-military-convictions-of-two-gay-soldiers)
-- [Seven die in fire at Russia defence institute – reports](https://www.theguardian.com/world/2022/apr/22/die-in-fire-at-russia-defence-institute)
-- [Donald Trump Jr to appear before House Capitol attack panel – report](https://www.theguardian.com/us-news/2022/apr/21/donald-trump-jr-us-capitol-attack-panel)
-- [‘Democracy will wither’: Barack Obama outlines perils of unregulated big tech in sweeping speech](https://www.theguardian.com/us-news/2022/apr/21/obama-stanford-speech-big-tech)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2022/apr/22/premier-league-10-things-to-look-out-for-this-weekend)
-- [UK consumer confidence even lower than in 2008 financial crisis](https://www.theguardian.com/business/2022/apr/22/uk-consumer-confidence-even-lower-than-in-2008-financial-crisis)
-- [Co-op to ditch use-by dates on its yoghurt to cut waste](https://www.theguardian.com/business/2022/apr/22/co-op-to-ditch-use-by-dates-on-its-yoghurt-to-cut-waste)
+- [Russia-Ukraine war latest: Zelenskiy warns Moscow wants to ‘capture other countries’ as Russia pushes to seize southern Ukraine– live](https://www.theguardian.com/world/live/2022/apr/22/russia-ukraine-war-satellite-images-appear-to-show-mass-graves-near-mariupol-zelenskiy-says-ukraine-needs-7bn-a-month-in-aid-live)
+- [Police seek ‘person of interest’ in capital shooting that injured four](https://www.theguardian.com/us-news/2022/apr/22/washington-dc-shooting-injuries-van-ness)
+- [Tim Dowling: we’re back on stage but my mind is elsewhere | Tim Dowling](https://www.theguardian.com/lifeandstyle/2022/apr/23/tim-dowling-were-back-on-stage-but-my-mind-is-elsewhere)
+- [Marjorie Taylor Greene appears in court over attempt to bar her from Congress](https://www.theguardian.com/us-news/2022/apr/22/marjorie-taylor-greene-court-congress-capitol-attack)
+- [O’Sullivan flying but pigeon takes centre stage at World Snooker Championship](https://www.theguardian.com/sport/2022/apr/22/world-snooker-mark-williams-ronnie-o-sullivan-crucible)
+- [Ed Balls rules out political comeback for Labour in Wakefield byelection](https://www.theguardian.com/politics/2022/apr/22/ed-balls-rules-out-political-comeback-for-labour-in-wakefield-byelection)
+- [Lampard desperate to keep Everton up and the Merseyside derby alive](https://www.theguardian.com/football/2022/apr/22/lampard-desperate-to-keep-everton-up-and-the-merseyside-derby-alive)
+- [‘Voice of April’: Chinese netizens get creative to keep censored film on social media](https://www.theguardian.com/world/2022/apr/22/sound-of-april-chinese-netizens-get-creative-to-keep-censored-film-in-circulation)
+- [Who holds the aces as the race for the Premiership title hots up? | Robert Kitson](https://www.theguardian.com/sport/2022/apr/22/race-for-the-premiership-title-hots-up-rugby-union)
+- [Private paradise: The French Polynesian island locking locals out of beaches](https://www.theguardian.com/world/2022/apr/22/private-paradise-the-french-polynesian-island-locking-locals-out-of-beaches)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Inhalable textile microplastic fibers impair lung repair](https://www.biorxiv.org/content/10.1101/2021.01.25.428144v3)
-- [My diet of almost only red meat](https://chrislakin.com/carnivore)
-- [Syntakt – 12 Track Drum Computer and Synthesizer](https://www.elektron.se/products/syntakt/)
-- [Show HN: Algorithmic trading for everyone](https://justfor.fund)
-- [Running Arduino Firmware on a GOJO LTX-7 Soap Dispenser](https://github.com/zapta/misc/tree/master/soap_dispenser)
-- [Meta COO Sandberg reportedly tried to block story about Activision CEO Kotick](https://www.cnbc.com/2022/04/21/meta-coo-sandberg-reportedly-tried-to-block-news-story-about-activision-ceo-kotick.html)
-- [The smallest 256x256 single-color PNG file, and where you&#39;ve seen it &lpar;2015&rpar;](https://www.mjt.me.uk/posts/smallest-png/)
-- [How Twitter&#39;s Algorithmic Feed Works](https://transitivebullsh.it/oss-twitter-algorithm-part-1)
-- [GitHub: Private Profiles beta](https://github.blog/changelog/2022-04-21-private-profiles/)
-- [How Postgres chooses which index to use for a query](https://pganalyze.com/blog/how-postgres-chooses-index)
+- [Funding decentralised/local-first applications for GNOME](https://blog.ergaster.org/post/20220422-decentralised-local-first-applications/)
+- [Interfaces for Ambient Computing](https://ai.googleblog.com/2022/04/hidden-interfaces-for-ambient-computing.html)
+- [How SHA-256 Works Step-by-Step](https://blog.boot.dev/cryptography/how-sha-2-works-step-by-step-sha-256/)
+- [Hacker News Guidelines](https://news.ycombinator.com/newsguidelines.html)
+- [Smarking &lpar;YC W15&rpar; is hiring a senior ML engineer to scale dynamic pricing](https://jobs.lever.co/smarking/01b7a4c5-28ce-4a4c-9c88-d4cad6c01c76)
+- [Thinner on Paper](https://thelampmagazine.com/2022/04/21/thinner-on-paper/)
+- [Should I Use a Carousel?](https://shouldiuseacarousel.com/)
+- [Ask HN: Are there any rural tech communities?](https://news.ycombinator.com/item?id=31126749)
+- [Algorithms for Decision Making [pdf]](https://algorithmsbook.com/files/dm.pdf)
+- [Show HN: Prevent your computer sleeping with just a webpage](https://nosleep.page/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

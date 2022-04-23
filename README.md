@@ -384,16 +384,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [JDK 19: The features targeted for Java 19](https://www.infoworld.com/article/3653331/jdk-19-the-features-targeted-for-java-19.html#tk.rss_all)
+- [Devs For Ukraine to raise money for charities, NGOs operating in warzone](https://www.infoworld.com/article/3658229/developers-for-ukraine-to-raise-money-for-charities-ngos-operating-in-warzone.html#tk.rss_all)
+- [AWS Amplify adds visual development tool](https://www.infoworld.com/article/3658388/aws-amplify-adds-visual-development-tool.html#tk.rss_all)
+- [Why we multicloud](https://www.infoworld.com/article/3658213/why-we-multicloud.html#tk.rss_all)
+- [The new Elastic CEO puts cloud front and center](https://www.infoworld.com/article/3658199/the-new-elastic-ceo-puts-cloud-front-and-center.html#tk.rss_all)
 - [AWS unveils ML-powered devops for AWS Lambda](https://www.infoworld.com/article/3658113/aws-unveils-ml-powered-devops-for-aws-lambda.html#tk.rss_all)
 - [AWS launches $30M Impact Accelerator for minority-led startups](https://www.infoworld.com/article/3658193/aws-launches-30m-impact-accelerator-for-minority-led-startups.html#tk.rss_all)
 - [C# 11 previews raw string literals, dumps parameter null checking](https://www.infoworld.com/article/3658191/c-11-previews-raw-string-literals-dumps-parameter-null-checking.html#tk.rss_all)
 - [Go serverless with Vercel, SvelteKit, and MongoDB](https://www.infoworld.com/article/3655952/go-serverless-with-vercel-sveltekit-and-mongodb.html#tk.rss_all)
 - [Microsoft unifies large-scale data management under Purview framework](https://www.infoworld.com/article/3658208/microsoft-unifies-large-scale-data-management-under-purview-framework.html#tk.rss_all)
-- [Kubernetes support for dockershim to end on May 3](https://www.infoworld.com/article/3658128/kubernetes-support-for-dockershim-to-end-on-may-3.html#tk.rss_all)
-- [Cross-platform UIs ‘go live’ with .NET MAUI](https://www.infoworld.com/article/3657869/here-comes-maui.html#tk.rss_all)
-- [5 developer tools to rule your SDLC](https://www.infoworld.com/article/3657735/5-developer-tools-to-rule-your-sdlc.html#tk.rss_all)
-- [WebAssembly 2.0 begins to take shape](https://www.infoworld.com/article/3657593/webassembly-20-begins-to-take-shape.html#tk.rss_all)
-- [Node.js 18 updates OpenSSL support, enables fetch API](https://www.infoworld.com/article/3657636/nodejs-18-updates-openssl-support-enables-fetch-api.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

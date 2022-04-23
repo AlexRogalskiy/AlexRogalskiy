@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [ISPs can’t find any judges who will block California net neutrality law](https://arstechnica.com/tech-policy/2022/04/isps-cant-find-any-judges-who-will-block-california-net-neutrality-law/)
-- [Donald Trump Deepfake Shows Ex-President Joining Russia&#39;s Version of YouTube](https://www.newsweek.com/trump-deepfake-russia-rutube-1687647)
-- [Ask HN: Resources to prepare for starting a new job](https://news.ycombinator.com/item?id=31117867)
-- [Adopting Users’ Design Feedback](https://hacks.mozilla.org/2022/04/adopting-users-design-feedback/)
-- [There’s only one way for Twitter to dodge Elon Musk’s Twitter takeover](https://fortune.com/2022/04/21/elon-musk-secured-financing-twitter-white-knight/)
-- [Open-source Python package for analyzing human neurophysiological data](https://mne.tools/stable/index.html)
-- [Inhalable textile microplastic fibers impair lung repair](https://www.biorxiv.org/content/10.1101/2021.01.25.428144v3)
-- [Amazon Aurora Serverless](https://aws.amazon.com/rds/aurora/serverless/)
-- [Helping the Poor: The Great Distraction](https://betonit.blog/2022/03/07/helping-the-poor-the-great-distraction/)
-- [Contra Hoffman on Vitamin D Dosing](https://astralcodexten.substack.com/p/contra-hoffman-on-vitamin-d-dosing)
+- [There Is No Pink Tax](https://marginalrevolution.com/marginalrevolution/2022/04/there-is-no-pink-tax.html)
+- [CookieEnforcer: Automated Cookie Notice Analysis and Enforcement](https://arxiv.org/abs/2204.04221)
+- [DoD Innovation Pathways](https://www.ctoinnovation.mil/)
+- [Addressing the last mile problem with MySQL high availability](https://engineering.linkedin.com/blog/2022/addressing-the-last-mile-problem-with-mysql-high-availability)
+- [How many years do I buy with MacBook memory upgrades?](https://news.ycombinator.com/item?id=31130836)
+- [How many years do I buy with a MacBook memory upgrades?](https://news.ycombinator.com/item?id=31130833)
+- [Show HN: HabituWall–Phone wallpaper to help with your habits](https://habituwall.com/)
+- [Teardown of Apple Thunderbolt 4 Pro Cable](https://www.youtube.com/watch?v=LBWnb0ZIlEA)
+- [Reddit: Lessons Learned from Mistakes Made Scaling to 1B Pageviews &lpar;2013&rpar;](http://highscalability.com/blog/2013/8/26/reddit-lessons-learned-from-mistakes-made-scaling-to-1-billi.html)
+- [Does Thinking Hard Burn More Calories?](https://www.scientificamerican.com/article/thinking-hard-calories/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

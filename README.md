@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [SAP Q1 2022: Revenue up 11%, Ukraine war impact projected to be €300m](https://www.computerweekly.com/news/252516239/SAP-Q1-2022-revenue-up-11-Ukraine-war-impact-projected-to-be-300m)
+- [EU lawmakers propose limited ban on predictive policing systems](https://www.computerweekly.com/news/252516238/EU-lawmakers-propose-limited-ban-on-predictive-policing-systems)
+- [Makers to honour women in software in fourth annual awards](https://www.computerweekly.com/news/252516237/Makers-to-honour-women-in-software-in-fourth-annual-awards)
+- [What’s up with Conti and REvil, and should we be worrying?](https://www.computerweekly.com/news/252516233/Whats-up-with-Conti-and-REvil-and-should-we-be-worrying)
+- [Royal Holloway: Secure multiparty computation and its application to digital asset custody](https://www.computerweekly.com/ehandbook/Royal-Holloway-Secure-multiparty-computation-and-its-application-to-digital-asset-custody)
+- [Asda adopts Workday as part of digital transformation](https://www.computerweekly.com/news/252516226/Asda-adopts-Workday-as-part-of-digital-transformation)
+- [Interview: LF Energy on using open source to ready energy systems for phasing out fossil fuels](https://www.computerweekly.com/feature/Interview-LF-Energy-on-using-open-source-to-ready-energy-systems-for-phasing-out-fossil-fuels)
+- [Snapshots vs backup: Use both for optimum RPOs](https://www.computerweekly.com/feature/Snapshots-vs-backup-Use-both-for-optimum-RPOs)
 - [Zoom adds new round of cyber security enhancements](https://www.computerweekly.com/news/252516192/Zoom-adds-new-round-of-cyber-security-enhancements)
 - [Five Eyes in new Russia cyber warning](https://www.computerweekly.com/news/252516186/Five-Eyes-in-new-Russia-cyber-warning)
-- [Impact of Lapsus$ attack on Okta less than feared](https://www.computerweekly.com/news/252516176/Impact-of-Lapsus-attack-on-Okta-less-than-feared)
-- [How Veeam helped grocery chain Franprix escape its backup hell](https://www.computerweekly.com/news/252516130/How-Veeam-helped-grocery-chain-Franprix-escape-its-backup-hell)
-- [Bots could help businesses polish up their green credentials](https://www.computerweekly.com/news/252516123/Bots-could-help-businesses-polish-up-their-green-credentials)
-- [One-third of scams that hit TSB are impersonation fraud](https://www.computerweekly.com/news/252516124/One-third-of-scams-that-hit-TSB-are-impersonation-fraud)
-- [Uptime Institute supports datacentre operators with honing their sustainability strategies](https://www.computerweekly.com/news/252516117/Uptime-Institute-supports-datacentre-operators-with-honing-their-sustainability-strategies)
-- [Home secretary Priti Patel to decide whether to extradite Assange](https://www.computerweekly.com/news/252516121/Home-Secretary-Priti-Patel-to-decide-whether-to-extradite-Assange)
-- [AWS fixes vulnerabilities in Log4Shell hot patch](https://www.computerweekly.com/news/252516112/AWS-fixes-vulnerabilities-in-Log4Shell-hot-patch)
-- [NSO Group faces court action after Pegasus spyware used against targets in UK](https://www.computerweekly.com/news/252516106/NSO-Group-faces-court-action-after-Pegasus-spyware-used-against-targets-in-UK)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war latest: Zelenskiy warns Moscow wants to ‘capture other countries’ as Russia pushes to seize southern Ukraine– live](https://www.theguardian.com/world/live/2022/apr/22/russia-ukraine-war-satellite-images-appear-to-show-mass-graves-near-mariupol-zelenskiy-says-ukraine-needs-7bn-a-month-in-aid-live)
-- [Police seek ‘person of interest’ in capital shooting that injured four](https://www.theguardian.com/us-news/2022/apr/22/washington-dc-shooting-injuries-van-ness)
-- [Tim Dowling: we’re back on stage but my mind is elsewhere | Tim Dowling](https://www.theguardian.com/lifeandstyle/2022/apr/23/tim-dowling-were-back-on-stage-but-my-mind-is-elsewhere)
-- [Marjorie Taylor Greene appears in court over attempt to bar her from Congress](https://www.theguardian.com/us-news/2022/apr/22/marjorie-taylor-greene-court-congress-capitol-attack)
-- [O’Sullivan flying but pigeon takes centre stage at World Snooker Championship](https://www.theguardian.com/sport/2022/apr/22/world-snooker-mark-williams-ronnie-o-sullivan-crucible)
-- [Ed Balls rules out political comeback for Labour in Wakefield byelection](https://www.theguardian.com/politics/2022/apr/22/ed-balls-rules-out-political-comeback-for-labour-in-wakefield-byelection)
-- [Lampard desperate to keep Everton up and the Merseyside derby alive](https://www.theguardian.com/football/2022/apr/22/lampard-desperate-to-keep-everton-up-and-the-merseyside-derby-alive)
-- [‘Voice of April’: Chinese netizens get creative to keep censored film on social media](https://www.theguardian.com/world/2022/apr/22/sound-of-april-chinese-netizens-get-creative-to-keep-censored-film-in-circulation)
-- [Who holds the aces as the race for the Premiership title hots up? | Robert Kitson](https://www.theguardian.com/sport/2022/apr/22/race-for-the-premiership-title-hots-up-rugby-union)
-- [Private paradise: The French Polynesian island locking locals out of beaches](https://www.theguardian.com/world/2022/apr/22/private-paradise-the-french-polynesian-island-locking-locals-out-of-beaches)
+- [Russia-Ukraine war: Zelenskiy says peace talks will be suspended if Mariupol defenders killed; Blinken to meet Ukraine president in Kyiv](https://www.theguardian.com/world/live/2022/apr/23/russia-ukraine-war-latest-zelenskiy-warns-moscow-wants-to-capture-other-countries-as-moldova-expresses-concern-over-russian-plans-live)
+- [‘This is my escape’: scenes from the Elvis festival that takes over a small town](https://www.theguardian.com/music/2022/apr/24/this-is-my-escape-scenes-from-the-elvis-festival-that-takes-over-a-small-town)
+- [Joaquín joy as Real Betis beat Valencia on penalties to lift Copa del Rey](https://www.theguardian.com/football/2022/apr/24/real-betis-valencia-copa-del-rey-final-match-report)
+- [Four people found from tour boat that went missing in rough waters off Japan](https://www.theguardian.com/world/2022/apr/23/tour-boat-with-26-people-on-board-missing-in-rough-waters-off-japan)
+- [Bank bosses’ optimism darkens as war follows on the heels of Covid](https://www.theguardian.com/business/2022/apr/24/bank-bosses-optimism-darkens-war-covid)
+- [UK government to launch in-depth review of women’s football in summer](https://www.theguardian.com/football/2022/apr/24/uk-government-to-launch-in-depth-review-of-womens-football-in-summer)
+- [Quirky cardies: 15 colourful cardigans for spring – in pictures](https://www.theguardian.com/fashion/gallery/2022/apr/23/quirky-cardies-15-colourful-cardigans-for-spring-in-pictures)
+- [At least one child has died from mystery strain of severe hepatitis, WHO confirms](https://www.theguardian.com/uk-news/2022/apr/23/at-least-one-child-has-died-from-mystery-strain-of-severe-hepatitis-who-confirms)
+- [Ukraine will ask US for more heavy weapons to defeat Russia, Zelenskiy says](https://www.theguardian.com/world/2022/apr/23/ukraine-will-ask-us-for-more-heavy-weapons-to-defeat-russia-zelenskiy-says)
+- [Tyson Fury stops Dillian Whyte to retain his WBC world heavyweight title](https://www.theguardian.com/sport/2022/apr/23/tyson-fury-stops-dillian-whyte-to-retain-his-wbc-heavyweight-title)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

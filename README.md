@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Funding decentralised/local-first applications for GNOME](https://blog.ergaster.org/post/20220422-decentralised-local-first-applications/)
-- [Interfaces for Ambient Computing](https://ai.googleblog.com/2022/04/hidden-interfaces-for-ambient-computing.html)
-- [How SHA-256 Works Step-by-Step](https://blog.boot.dev/cryptography/how-sha-2-works-step-by-step-sha-256/)
-- [Hacker News Guidelines](https://news.ycombinator.com/newsguidelines.html)
-- [Smarking &lpar;YC W15&rpar; is hiring a senior ML engineer to scale dynamic pricing](https://jobs.lever.co/smarking/01b7a4c5-28ce-4a4c-9c88-d4cad6c01c76)
-- [Thinner on Paper](https://thelampmagazine.com/2022/04/21/thinner-on-paper/)
-- [Should I Use a Carousel?](https://shouldiuseacarousel.com/)
-- [Ask HN: Are there any rural tech communities?](https://news.ycombinator.com/item?id=31126749)
-- [Algorithms for Decision Making [pdf]](https://algorithmsbook.com/files/dm.pdf)
-- [Show HN: Prevent your computer sleeping with just a webpage](https://nosleep.page/)
+- [LA company to pay $22.5m after allegedly faking hundreds of Covid test results](https://abc7.com/settlement-covid-test-results/11777433/)
+- [Why didn&#39;t our ancient ancestors get cavities?](https://sciencenorway.no/animal-kingdom-apes-history/why-didnt-our-ancient-ancestors-get-cavities/2010848)
+- [Cryptocurrency as a Cybersecurity Alarm](https://stakedy.com/long/cryptocurrency-as-a-cybersecurity-alarm.html)
+- [Chris Lattner on garbage collection vs. Automatic Reference Counting &lpar;2017&rpar;](https://atp.fm/205-chris-lattner-interview-transcript#gc)
+- [Arizona’s dry future begins as Colorado River shrinks](https://www.wsj.com/articles/arizonas-dry-future-begins-as-colorado-river-shrinks-11650718801)
+- [Kable &lpar;YC W22&rpar; Is Hiring Founding Engineers &lpar;Remote&rpar;](https://www.ycombinator.com/companies/kable/jobs/h3wKq6F-founding-backend-software-engineer)
+- [Firefox on Ubuntu 22.04 from .deb &lpar;not from snap&rpar;](https://balintreczey.hu/blog/firefox-on-ubuntu-22-04-from-deb-not-from-snap/)
+- [Inventing PostScript, the tech that took the pain out of printing &lpar;1988&rpar;](https://spectrum.ieee.org/adobe-postscript)
+- [The Applesoft Compiler &lpar;TASC&rpar;: We have the source code, in a sense](https://devblogs.microsoft.com/oldnewthing/20220419-00/?p=106496)
+- [The one time North Vietnam’s MiGs attacked U.S. navy warships](https://www.thedrive.com/the-war-zone/the-one-time-north-vietnams-migs-attacked-u-s-navy-warships)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

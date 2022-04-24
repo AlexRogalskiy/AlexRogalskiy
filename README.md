@@ -414,6 +414,9 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [can you/what job can you land with a computer science degree?](https://www.reddit.com/r/InformationTechnology/comments/uaj6cj/can_youwhat_job_can_you_land_with_a_computer/)
+- [The Art and Science of Data Modeling - Why Visual Approach Is The Future - Analysis](https://www.reddit.com/r/InformationTechnology/comments/uaejhd/the_art_and_science_of_data_modeling_why_visual/)
+- [What job would be best for me?](https://www.reddit.com/r/InformationTechnology/comments/u9w00s/what_job_would_be_best_for_me/)
 - [Do any of you really use a VPN &lpar;proxy&rpar;?](https://www.reddit.com/r/InformationTechnology/comments/u9m1qd/do_any_of_you_really_use_a_vpn_proxy/)
 - [Is what I do worth the pay? Is this what working in IT is like?](https://www.reddit.com/r/InformationTechnology/comments/u96gse/is_what_i_do_worth_the_pay_is_this_what_working/)
 - [Advice needed on how to offload a bunch of Cisco IP Phone 8851](https://www.reddit.com/r/InformationTechnology/comments/u8szcw/advice_needed_on_how_to_offload_a_bunch_of_cisco/)
@@ -421,9 +424,6 @@
 - [How Much Do Staffing Companies Make??](https://www.reddit.com/r/InformationTechnology/comments/u8r443/how_much_do_staffing_companies_make/)
 - [Download FREE4ALL Training Course Collection](https://www.reddit.com/r/InformationTechnology/comments/u8o0j8/download_free4all_training_course_collection/)
 - [NEW LAPTOP FOR WORK..](https://www.reddit.com/r/InformationTechnology/comments/u8f9de/new_laptop_for_work/)
-- [IT fields most in demand in the future &lpar;2022 - 2030&rpar;](https://www.reddit.com/r/InformationTechnology/comments/u87fv6/it_fields_most_in_demand_in_the_future_2022_2030/)
-- [I graduate from my BS soon &lpar;IT with a minor in Networking&rpar; and need advice.](https://www.reddit.com/r/InformationTechnology/comments/u7tsoc/i_graduate_from_my_bs_soon_it_with_a_minor_in/)
-- [Clinical application analysts trained in Cerner and Epic](https://www.reddit.com/r/InformationTechnology/comments/u7n2yx/clinical_application_analysts_trained_in_cerner/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

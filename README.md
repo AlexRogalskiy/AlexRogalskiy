@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [There Is No Pink Tax](https://marginalrevolution.com/marginalrevolution/2022/04/there-is-no-pink-tax.html)
-- [CookieEnforcer: Automated Cookie Notice Analysis and Enforcement](https://arxiv.org/abs/2204.04221)
-- [DoD Innovation Pathways](https://www.ctoinnovation.mil/)
-- [Addressing the last mile problem with MySQL high availability](https://engineering.linkedin.com/blog/2022/addressing-the-last-mile-problem-with-mysql-high-availability)
-- [How many years do I buy with MacBook memory upgrades?](https://news.ycombinator.com/item?id=31130836)
-- [How many years do I buy with a MacBook memory upgrades?](https://news.ycombinator.com/item?id=31130833)
-- [Show HN: HabituWall–Phone wallpaper to help with your habits](https://habituwall.com/)
-- [Teardown of Apple Thunderbolt 4 Pro Cable](https://www.youtube.com/watch?v=LBWnb0ZIlEA)
-- [Reddit: Lessons Learned from Mistakes Made Scaling to 1B Pageviews &lpar;2013&rpar;](http://highscalability.com/blog/2013/8/26/reddit-lessons-learned-from-mistakes-made-scaling-to-1-billi.html)
-- [Does Thinking Hard Burn More Calories?](https://www.scientificamerican.com/article/thinking-hard-calories/)
+- [Mortality in the past – around half died as children](https://ourworldindata.org/child-mortality-in-the-past)
+- [New Proof Illuminates the Hidden Structure of Common Equations](https://www.quantamagazine.org/new-proof-reveals-the-hidden-structure-of-common-equations-20220421/)
+- [Pioneering Clergy of Diverse Religions Embrace Psychedelics](https://www.lucid.news/pioneering-clergy-of-diverse-religions-embrace-psychedelics/)
+- [To some extent the internet incentivizes the production of meta-games](https://threadreaderapp.com/thread/1518049529110487040.html)
+- [The Voices of April - The Short Online Life of a Shanghai Protest Video](https://www.whatsonweibo.com/the-voices-of-april-the-short-online-life-of-a-shanghai-protest-video/)
+- [A500 Mini review: a great intro to the world of Commodore Amiga – Eurogamer.net](https://www.eurogamer.net/a500-mini-review-a-great-intro-to-the-world-of-commodore-amiga)
+- [Software engineering in-the-large: the coordination challenge](https://surfingcomplexity.blog/2022/04/23/software-engineering-in-the-large-the-coordination-challenge/)
+- [Two key tech execs quit Truth Social after troubled app launch](https://www.reuters.com/technology/exclusive-two-key-tech-execs-quit-truth-social-after-troubled-app-launch-2022-04-04/)
+- [Apple Rolls](https://www.macworld.com/article/205387/apple-rolls.html)
+- [Alpher–Bethe–Gamow Paper](https://en.wikipedia.org/wiki/Alpher%E2%80%93Bethe%E2%80%93Gamow_paper)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

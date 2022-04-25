@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Mortality in the past – around half died as children](https://ourworldindata.org/child-mortality-in-the-past)
-- [New Proof Illuminates the Hidden Structure of Common Equations](https://www.quantamagazine.org/new-proof-reveals-the-hidden-structure-of-common-equations-20220421/)
-- [Pioneering Clergy of Diverse Religions Embrace Psychedelics](https://www.lucid.news/pioneering-clergy-of-diverse-religions-embrace-psychedelics/)
-- [To some extent the internet incentivizes the production of meta-games](https://threadreaderapp.com/thread/1518049529110487040.html)
-- [The Voices of April - The Short Online Life of a Shanghai Protest Video](https://www.whatsonweibo.com/the-voices-of-april-the-short-online-life-of-a-shanghai-protest-video/)
-- [A500 Mini review: a great intro to the world of Commodore Amiga – Eurogamer.net](https://www.eurogamer.net/a500-mini-review-a-great-intro-to-the-world-of-commodore-amiga)
-- [Software engineering in-the-large: the coordination challenge](https://surfingcomplexity.blog/2022/04/23/software-engineering-in-the-large-the-coordination-challenge/)
-- [Two key tech execs quit Truth Social after troubled app launch](https://www.reuters.com/technology/exclusive-two-key-tech-execs-quit-truth-social-after-troubled-app-launch-2022-04-04/)
-- [Apple Rolls](https://www.macworld.com/article/205387/apple-rolls.html)
-- [Alpher–Bethe–Gamow Paper](https://en.wikipedia.org/wiki/Alpher%E2%80%93Bethe%E2%80%93Gamow_paper)
+- [CaseYak Motor Vehicle Accident Case Value Prediction API &lpar;CA/CO/FL&rpar;](https://caseyak.com/api)
+- [Ask HN: What separates a good interviewer from a bad one?](https://news.ycombinator.com/item?id=31150397)
+- [Ecommerce Sales Tax and Nexus in a State](https://capitalandgrowth.org/answers/2981214/Tax-question-for-new-Ecommerce-store)
+- [Shanghai video overwhelms Chinese censor, gets 400m views](https://austrianchina.substack.com/p/shanghai-video-gets-400m-views)
+- [Simulate Time-Integrated Coarse-Grained Molecular Dynamics with Geometric ML](https://xiangfu.co/mlcgmd)
+- [Control-NeRF: Editable Feature Volumes for Scene Rendering and Manipulation](https://arxiv.org/abs/2204.10850)
+- [Ask HN: How to view UI changes before &amp; after a pull request?](https://news.ycombinator.com/item?id=31150336)
+- [Indentation Styles](https://en.wikipedia.org/wiki/Indentation_style)
+- [Hive Metastore – Why It’s Still Here and What Can Replace It?](https://lakefs.io/hive-metastore-why-its-still-here-and-what-can-replace-it/)
+- [System resilience patterns for software reliability](https://www.srepath.com/6-system-resilience-patterns-for-increasing-software-reliability/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

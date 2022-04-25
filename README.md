@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war: Zelenskiy says peace talks will be suspended if Mariupol defenders killed; Blinken to meet Ukraine president in Kyiv](https://www.theguardian.com/world/live/2022/apr/23/russia-ukraine-war-latest-zelenskiy-warns-moscow-wants-to-capture-other-countries-as-moldova-expresses-concern-over-russian-plans-live)
-- [‘This is my escape’: scenes from the Elvis festival that takes over a small town](https://www.theguardian.com/music/2022/apr/24/this-is-my-escape-scenes-from-the-elvis-festival-that-takes-over-a-small-town)
-- [Joaquín joy as Real Betis beat Valencia on penalties to lift Copa del Rey](https://www.theguardian.com/football/2022/apr/24/real-betis-valencia-copa-del-rey-final-match-report)
-- [Four people found from tour boat that went missing in rough waters off Japan](https://www.theguardian.com/world/2022/apr/23/tour-boat-with-26-people-on-board-missing-in-rough-waters-off-japan)
-- [Bank bosses’ optimism darkens as war follows on the heels of Covid](https://www.theguardian.com/business/2022/apr/24/bank-bosses-optimism-darkens-war-covid)
-- [UK government to launch in-depth review of women’s football in summer](https://www.theguardian.com/football/2022/apr/24/uk-government-to-launch-in-depth-review-of-womens-football-in-summer)
-- [Quirky cardies: 15 colourful cardigans for spring – in pictures](https://www.theguardian.com/fashion/gallery/2022/apr/23/quirky-cardies-15-colourful-cardigans-for-spring-in-pictures)
-- [At least one child has died from mystery strain of severe hepatitis, WHO confirms](https://www.theguardian.com/uk-news/2022/apr/23/at-least-one-child-has-died-from-mystery-strain-of-severe-hepatitis-who-confirms)
-- [Ukraine will ask US for more heavy weapons to defeat Russia, Zelenskiy says](https://www.theguardian.com/world/2022/apr/23/ukraine-will-ask-us-for-more-heavy-weapons-to-defeat-russia-zelenskiy-says)
-- [Tyson Fury stops Dillian Whyte to retain his WBC world heavyweight title](https://www.theguardian.com/sport/2022/apr/23/tyson-fury-stops-dillian-whyte-to-retain-his-wbc-heavyweight-title)
+- [Russia-Ukraine war: Blinken and Austin in Kyiv for Zelenskiy talks; Russian oil depot on fire near border in Bryansk – live](https://www.theguardian.com/world/live/2022/apr/24/russia-ukraine-war-top-us-officials-to-meet-zelenskiy-in-kyiv-eight-killed-in-russian-attacks-in-luhansk-governor-says)
+- [Twitter ‘in takeover talks with Elon Musk’ after pressure from shareholders](https://www.theguardian.com/technology/2022/apr/25/twitter-in-takeover-talks-with-elon-musk-after-pressure-from-shareholders)
+- [Anzac Day 2022: dawn service crowds return across Australia – in pictures](https://www.theguardian.com/news/gallery/2022/apr/25/anzac-day-2022-dawn-service-crowds-return-in-pictures)
+- [Shein and the rise of ultra-fast fashion](https://www.theguardian.com/news/audio/2022/apr/25/shein-rise-ultra-fast-fashion-today-in-focus)
+- [French election 2022: full second round results](https://www.theguardian.com/world/ng-interactive/2022/apr/24/french-election-2022-live-results-projection-second-round-emmanuel-macron-marine-le-pen)
+- [Sudan: at least 168 people killed in violence in Darfur region, aid group says](https://www.theguardian.com/world/2022/apr/25/sudan-at-least-168-people-killed-in-violence-in-darfur-region-aid-group-says)
+- [Refugee data analysis casts doubt on Boris Johnson’s Rwanda claim](https://www.theguardian.com/uk-news/2022/apr/25/refugee-data-analysis-casts-doubt-on-boris-johnsons-rwanda-claim)
+- [UK Covid travel rules were arbitrary and disproportionate, say MPs](https://www.theguardian.com/business/2022/apr/25/uk-covid-travel-rules-were-arbitrary-and-disproportionate-say-mps)
+- [Main proposals of fan-led review of English football backed by government](https://www.theguardian.com/football/2022/apr/25/main-proposals-of-fan-led-review-of-english-football-backed-by-government)
+- [Neil Robertson stays in hunt in world championship against Jack Lisowski](https://www.theguardian.com/sport/2022/apr/24/neil-robertson-stays-in-hunt-in-world-championship-against-jack-lisowski)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war: Blinken and Austin in Kyiv for Zelenskiy talks; Russian oil depot on fire near border in Bryansk – live](https://www.theguardian.com/world/live/2022/apr/24/russia-ukraine-war-top-us-officials-to-meet-zelenskiy-in-kyiv-eight-killed-in-russian-attacks-in-luhansk-governor-says)
-- [Twitter ‘in takeover talks with Elon Musk’ after pressure from shareholders](https://www.theguardian.com/technology/2022/apr/25/twitter-in-takeover-talks-with-elon-musk-after-pressure-from-shareholders)
-- [Anzac Day 2022: dawn service crowds return across Australia – in pictures](https://www.theguardian.com/news/gallery/2022/apr/25/anzac-day-2022-dawn-service-crowds-return-in-pictures)
-- [Shein and the rise of ultra-fast fashion](https://www.theguardian.com/news/audio/2022/apr/25/shein-rise-ultra-fast-fashion-today-in-focus)
-- [French election 2022: full second round results](https://www.theguardian.com/world/ng-interactive/2022/apr/24/french-election-2022-live-results-projection-second-round-emmanuel-macron-marine-le-pen)
-- [Sudan: at least 168 people killed in violence in Darfur region, aid group says](https://www.theguardian.com/world/2022/apr/25/sudan-at-least-168-people-killed-in-violence-in-darfur-region-aid-group-says)
-- [Refugee data analysis casts doubt on Boris Johnson’s Rwanda claim](https://www.theguardian.com/uk-news/2022/apr/25/refugee-data-analysis-casts-doubt-on-boris-johnsons-rwanda-claim)
-- [UK Covid travel rules were arbitrary and disproportionate, say MPs](https://www.theguardian.com/business/2022/apr/25/uk-covid-travel-rules-were-arbitrary-and-disproportionate-say-mps)
-- [Main proposals of fan-led review of English football backed by government](https://www.theguardian.com/football/2022/apr/25/main-proposals-of-fan-led-review-of-english-football-backed-by-government)
-- [Neil Robertson stays in hunt in world championship against Jack Lisowski](https://www.theguardian.com/sport/2022/apr/24/neil-robertson-stays-in-hunt-in-world-championship-against-jack-lisowski)
+- [Russia-Ukraine war: military aid means Nato is ‘in essence engaged in war with Russia’, claims Lavrov – live](https://www.theguardian.com/world/live/2022/apr/25/russia-ukraine-war-us-pledges-return-of-diplomats-to-ukraine-after-blinken-visit-russian-oil-depot-on-fire-near-border-live)
+- [China expands Covid testing to almost all of Beijing’s 22 million residents](https://www.theguardian.com/world/2022/apr/26/china-expands-covid-testing-to-almost-all-of-beijings-22-million-residents)
+- [Temper tantrums and invasion threats over Solomon Islands deal with China will push Pacific allies away | Terence Wood](https://www.theguardian.com/world/2022/apr/26/temper-tantrums-and-invasion-threats-over-solomon-islands-deal-with-china-will-push-pacific-allies-away)
+- [Can Emmanuel Macron reunite France?](https://www.theguardian.com/news/audio/2022/apr/26/can-emmanuel-macron-reunite-france)
+- [Indonesia’s palm oil export ban sparks concern over global food prices](https://www.theguardian.com/world/2022/apr/26/indonesias-palm-oil-export-ban-sparks-concern-over-global-food-prices)
+- [Disney is refusing to cut LGBTQ scene in Doctor Strange 2, Saudi Arabia says](https://www.theguardian.com/film/2022/apr/26/disney-is-refusing-to-cut-lgbtq-scene-in-doctor-strange-2-saudi-arabia-says)
+- [Russia-Ukraine war: what we know on day 62 of the invasion](https://www.theguardian.com/world/2022/apr/26/russia-ukraine-war-what-we-know-on-day-62-of-the-invasion)
+- [Free media in Hong Kong almost completely dismantled – report](https://www.theguardian.com/world/2022/apr/26/free-media-in-hong-kong-almost-completely-dismantled-report)
+- [Phil Mickelson requests PGA Tour release to play first Saudi-backed event](https://www.theguardian.com/sport/2022/apr/26/phil-mickelson-liv-golf-invitational-pga-tour)
+- [David Cameron says government should defend its counter-extremism strategy](https://www.theguardian.com/politics/2022/apr/26/david-cameron-says-government-should-defend-its-counter-extremism-strategy)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

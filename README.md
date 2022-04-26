@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Entry-level WFH Helpdesk Jobs...Worth it?](https://www.reddit.com/r/InformationTechnology/comments/ubrlu7/entrylevel_wfh_helpdesk_jobsworth_it/)
+- [Cutting the cord on the enterprise level?](https://www.reddit.com/r/InformationTechnology/comments/ubqp39/cutting_the_cord_on_the_enterprise_level/)
+- [Decimals to hexadecimal](https://www.reddit.com/r/InformationTechnology/comments/ubo8u5/decimals_to_hexadecimal/)
+- [Alert: Unlimited Courses with Pluralsight Free Weekend 2022](https://www.reddit.com/r/InformationTechnology/comments/ubbt4g/alert_unlimited_courses_with_pluralsight_free/)
 - [Does IT require high intelligence? Specifically IQ?](https://www.reddit.com/r/InformationTechnology/comments/ub6idx/does_it_require_high_intelligence_specifically_iq/)
 - [what is the better path getting an AS&lpar;computer information systems&rpar; or certs?](https://www.reddit.com/r/InformationTechnology/comments/ub5lh8/what_is_the_better_path_getting_an_ascomputer/)
 - [Client Work vs Internal IT](https://www.reddit.com/r/InformationTechnology/comments/ub3zom/client_work_vs_internal_it/)
 - [Out of Network+, A+, and Security+, which cert did you find to be the easiest to acquire?](https://www.reddit.com/r/InformationTechnology/comments/uazr57/out_of_network_a_and_security_which_cert_did_you/)
 - [Just started studying for my A+. Anything to help make this 1553-page study guide a little smaller?](https://www.reddit.com/r/InformationTechnology/comments/uaz7eo/just_started_studying_for_my_a_anything_to_help/)
 - [can you/what job can you land with a computer science degree?](https://www.reddit.com/r/InformationTechnology/comments/uaj6cj/can_youwhat_job_can_you_land_with_a_computer/)
-- [The Art and Science of Data Modeling - Why Visual Approach Is The Future - Analysis](https://www.reddit.com/r/InformationTechnology/comments/uaejhd/the_art_and_science_of_data_modeling_why_visual/)
-- [What job would be best for me?](https://www.reddit.com/r/InformationTechnology/comments/u9w00s/what_job_would_be_best_for_me/)
-- [Do any of you really use a VPN &lpar;proxy&rpar;?](https://www.reddit.com/r/InformationTechnology/comments/u9m1qd/do_any_of_you_really_use_a_vpn_proxy/)
-- [Is what I do worth the pay? Is this what working in IT is like?](https://www.reddit.com/r/InformationTechnology/comments/u96gse/is_what_i_do_worth_the_pay_is_this_what_working/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

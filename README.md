@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Elon Musk buys Twitter: What’s ahead for business users?](https://www.computerworld.com/article/3658234/elon-musk-buys-twitter-whats-ahead-for-business-users.html#tk.rss_all)
+- [Printer setup problems? There’s got to be a better way.](https://www.computerworld.com/article/3658114/printer-setup-problems-theres-got-to-be-a-better-way.html#tk.rss_all)
+- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
+- [Does Apple plan an Apple Pay surprise as Tap to Pay hits beta?](https://www.computerworld.com/article/3658335/does-apple-plan-an-apple-pay-surprise-as-tap-to-pay-hits-beta.html#tk.rss_all)
+- [Q&amp;A: The digital dollar — how would it work, what would it do?](https://www.computerworld.com/article/3658469/qa-the-digital-dollar-how-would-it-work-what-would-it-do.html#tk.rss_all)
+- [EU approves DSA law to force tech platforms to police content](https://www.computerworld.com/article/3658216/eu-approves-dsa-law-to-force-tech-platforms-to-police-content.html#tk.rss_all)
 - [Apple&#39;s Fleetsmith closes as demand for enterprise MDM expands](https://www.computerworld.com/article/3658390/apples-fleetsmith-closes-as-demand-for-enterprise-mdm-expands.html#tk.rss_all)
 - [Nvidia’s StyleGAN could up-end a lot of creative industries](https://www.computerworld.com/article/3658389/nvidias-stylegan-could-up-end-a-lot-of-creative-industries.html#tk.rss_all)
 - [When it comes to data, resist your inner packrat](https://www.computerworld.com/article/3658200/when-it-comes-to-data-resist-your-inner-packrat.html#tk.rss_all)
 - [In a remote-work world, a zero-trust revolution is necessary](https://www.computerworld.com/article/3657617/in-a-remote-work-world-a-zero-trust-revolution-is-necessary.html#tk.rss_all)
-- [12 Android settings that&#39;ll strengthen your security](https://www.computerworld.com/article/3268079/android-settings-security.html#tk.rss_all)
-- [California eyes law to protect workers from digital surveillance](https://www.computerworld.com/article/3658198/california-eyes-law-to-protect-workers-from-digital-surveillance.html#tk.rss_all)
-- [Apple explains Google Workspace integration for Apple IDs](https://www.computerworld.com/article/3658329/apple-explains-google-workspace-integration-for-apple-ids.html#tk.rss_all)
-- [Remote work and the end of super-commuting](https://www.computerworld.com/article/3658131/remote-work-and-the-end-of-super-commuting.html#tk.rss_all)
-- [Planning a full return to the office? Beware &#39;a stampede of top talent&#39;](https://www.computerworld.com/article/3658228/plan-to-require-a-full-time-return-to-the-office-beware-a-stampede-of-top-talent.html#tk.rss_all)
-- [Execs to workers: Back to the office for thee, but not for me](https://www.computerworld.com/article/3658108/execs-to-workers-back-to-the-office-for-thee-but-not-for-me.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

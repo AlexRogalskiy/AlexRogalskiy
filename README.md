@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Web 2.0 sucks sharp rocks and canal water through a dirty straw](https://stormrider.io/blog/20220424.html)
-- [BYOT: Bring your own team for new-grads](https://byot.app/#byot)
-- [Show HN: I&#39;m making a dynamic language in Rust](https://github.com/mwerezak/sphinx-lang)
-- [Generating the pseudo-random codes that measured distance to Apollo spacecraft](https://righto.com/apollo/ranging-xor.html)
-- [Maximum Flow and Minimum-Cost Flow in Almost-Linear Time](https://arxiv.org/abs/2203.00671)
-- [Do the same mechanisms that create complex life also create complex technology?](https://mattsclancy.substack.com/p/progress-in-programming-as-evolution-398)
-- [How easy is it in 2022 to find a SHA1 collision?](https://crypto.stackexchange.com/questions/99767/how-easy-is-it-in-2022-to-find-a-sha1-collision)
-- [Perpetual Bond](https://en.wikipedia.org/wiki/Perpetual_bond)
-- [Norway convinced Japan to love salmon sushi &lpar;2015&rpar;](https://www.npr.org/2015/09/18/441530790/how-the-desperate-norwegian-salmon-industry-created-a-sushi-staple)
-- [In a surprise move, honeybee tongue hairs repel water](https://www.acs.org/content/acs/en/pressroom/newsreleases/2022/march/in-a-surprise-move-honeybee-tongue-hairs-repel-water.html)
+- [Hush, a modern shell scripting language](https://hush-shell.github.io/)
+- [Show HN: We launched a new web browser](https://news.ycombinator.com/item?id=31163077)
+- [PSA: Git.io links will stop working in 3 days &lpar;29 of April 2022&rpar;](https://github.blog/changelog/2022-04-25-git-io-deprecation/)
+- [Manara &lpar;YC W21&rpar; Is Hiring a senior front end engineer](https://manara.breezy.hr/p/1cebbb12d138)
+- [Domain Driven Design Reference &lpar;2015&rpar; [pdf]](https://www.domainlanguage.com/wp-content/uploads/2016/05/DDD_Reference_2015-03.pdf)
+- [Elegant six-page proof reveals the emergence of random structure](https://www.quantamagazine.org/elegant-six-page-proof-reveals-the-emergence-of-random-structure-20220425/)
+- [Stunner – tool to test and exploit STUN, TURN and TURN over TCP servers](https://github.com/firefart/stunner)
+- [Manganese could be the secret behind truly mass-market EVs](https://spectrum.ieee.org/manganese-ev-batteries)
+- [European wind-energy sector hit in wave of hacks](https://www.wsj.com/articles/european-wind-energy-sector-hit-in-wave-of-hacks-11650879000)
+- [WebAuthn Browser Support](https://developers.yubico.com/WebAuthn/WebAuthn_Browser_Support/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

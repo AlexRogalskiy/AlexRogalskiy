@@ -369,16 +369,16 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Avoid Automation Headaches: Unify Your Approach to Hyperautomation on a Single Platform](https://www.informationweek.com/devops/avoid-automation-headaches-unify-your-approach-to-hyperautomation-on-a-single-platform)
+- [Simplify Cloud Deployment Through Teamwork, Strategy](https://www.informationweek.com/cloud/simplify-cloud-deployment-through-teamwork-strategy)
+- [Secrets to Hiring Top Tech Talent](https://www.informationweek.com/it-life/secrets-to-hiring-top-tech-talent)
 - [New York Fintech Week: Startups Take Aim at Financial Inclusion](https://www.informationweek.com/fintech/new-york-fintech-week-startups-take-aim-at-financial-inclusion)
 - [Quick Study: Sustainability and ESG](https://www.informationweek.com/strategic-cio/quick-study-sustainability-and-esg)
 - [Estimating the Total Costs of Your Cloud Analytics Platform](https://www.informationweek.com/cloud/estimating-the-total-costs-of-your-cloud-analytics-platform)
 - [NY Fintech Week: Crypto Regulation, Fraud, and Venture Capital](https://www.informationweek.com/fintech/ny-fintech-week-crypto-regulation-fraud-and-venture-capital)
 - [Enterprise Browsers Promise Enhanced Security, Productivity](https://www.informationweek.com/software/enterprise-browsers-promise-enhanced-security-productivity)
-- [Avoid Automation Headaches: Unify Your Approach to Hyperautomation on a Single Platform](https://www.informationweek.com/software/avoid-automation-headaches-unify-your-approach-to-hyperautomation-on-a-single-platform)
 - [NFT Analytics: Understanding Asset Value](https://www.informationweek.com/big-data/nft-analytics-understanding-asset-value)
 - [How to Spot an Alternative Cloud Provider](https://www.informationweek.com/cloud/how-to-spot-an-alternative-cloud-provider)
-- [Interim CIOs Favored as Organizations Seek Digitalization Push](https://www.informationweek.com/strategic-cio/interim-cios-favored-as-organizations-seek-digitalization-push)
-- [SAP Exits Russia, Shuts Down Cloud](https://www.informationweek.com/cloud/sap-exits-russia-shutting-down-cloud)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

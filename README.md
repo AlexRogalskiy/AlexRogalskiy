@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Majority of workers using umbrella companies see no benefits](https://www.computerweekly.com/news/252516302/Majority-of-workers-using-umbrella-companies-see-no-benefits)
+- [Royal Holloway: Cloud-native honeypot deployment](https://www.computerweekly.com/ehandbook/Royal-Holloway-Cloud-native-honeypot-deployment)
+- [US mobile network emerges as latest Lapsus$ victim](https://www.computerweekly.com/news/252516292/US-mobile-network-emerges-as-latest-Lapsus-victim)
+- [Post-Brexit immigration challenges sees London drop in tech ranking](https://www.computerweekly.com/news/252516286/Post-Brexit-immigration-challenges-sees-London-drop-in-tech-ranking)
+- [Researchers explore historical Hubble datasets to understand the solar system](https://www.computerweekly.com/news/252516293/Researchers-explore-historical-Hubble-datasets-to-understand-the-Solar-System)
+- [Sophos soaks up SOC.OS](https://www.computerweekly.com/news/252516280/Sophos-soaks-up-SOCOS)
+- [Lower level of developer skills may hamper UK AI initiatives](https://www.computerweekly.com/news/252516276/Lower-level-of-developer-skills-may-hamper-UK-AI-initiatives)
+- [Growing prospects for edge datacentres](https://www.computerweekly.com/feature/Growing-prospects-for-edge-datacentres)
 - [SAP Q1 2022: Revenue up 11%, Ukraine war impact projected to be €300m](https://www.computerweekly.com/news/252516239/SAP-Q1-2022-revenue-up-11-Ukraine-war-impact-projected-to-be-300m)
 - [EU lawmakers propose limited ban on predictive policing systems](https://www.computerweekly.com/news/252516238/EU-lawmakers-propose-limited-ban-on-predictive-policing-systems)
-- [Makers to honour women in software in fourth annual awards](https://www.computerweekly.com/news/252516237/Makers-to-honour-women-in-software-in-fourth-annual-awards)
-- [What’s up with Conti and REvil, and should we be worrying?](https://www.computerweekly.com/news/252516233/Whats-up-with-Conti-and-REvil-and-should-we-be-worrying)
-- [Royal Holloway: Secure multiparty computation and its application to digital asset custody](https://www.computerweekly.com/ehandbook/Royal-Holloway-Secure-multiparty-computation-and-its-application-to-digital-asset-custody)
-- [Asda adopts Workday as part of digital transformation](https://www.computerweekly.com/news/252516226/Asda-adopts-Workday-as-part-of-digital-transformation)
-- [Interview: LF Energy on using open source to ready energy systems for phasing out fossil fuels](https://www.computerweekly.com/feature/Interview-LF-Energy-on-using-open-source-to-ready-energy-systems-for-phasing-out-fossil-fuels)
-- [Snapshots vs backup: Use both for optimum RPOs](https://www.computerweekly.com/feature/Snapshots-vs-backup-Use-both-for-optimum-RPOs)
-- [Zoom adds new round of cyber security enhancements](https://www.computerweekly.com/news/252516192/Zoom-adds-new-round-of-cyber-security-enhancements)
-- [Five Eyes in new Russia cyber warning](https://www.computerweekly.com/news/252516186/Five-Eyes-in-new-Russia-cyber-warning)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [CaseYak Motor Vehicle Accident Case Value Prediction API &lpar;CA/CO/FL&rpar;](https://caseyak.com/api)
-- [Ask HN: What separates a good interviewer from a bad one?](https://news.ycombinator.com/item?id=31150397)
-- [Ecommerce Sales Tax and Nexus in a State](https://capitalandgrowth.org/answers/2981214/Tax-question-for-new-Ecommerce-store)
-- [Shanghai video overwhelms Chinese censor, gets 400m views](https://austrianchina.substack.com/p/shanghai-video-gets-400m-views)
-- [Simulate Time-Integrated Coarse-Grained Molecular Dynamics with Geometric ML](https://xiangfu.co/mlcgmd)
-- [Control-NeRF: Editable Feature Volumes for Scene Rendering and Manipulation](https://arxiv.org/abs/2204.10850)
-- [Ask HN: How to view UI changes before &amp; after a pull request?](https://news.ycombinator.com/item?id=31150336)
-- [Indentation Styles](https://en.wikipedia.org/wiki/Indentation_style)
-- [Hive Metastore – Why It’s Still Here and What Can Replace It?](https://lakefs.io/hive-metastore-why-its-still-here-and-what-can-replace-it/)
-- [System resilience patterns for software reliability](https://www.srepath.com/6-system-resilience-patterns-for-increasing-software-reliability/)
+- [Advanced Math for Kids: Straws and Topology](https://twitter.com/seb_g/status/1518787959088160768)
+- [Twitter accepts Elon Musk&#39;s buyout deal](https://www.cnbc.com/2022/04/25/twitter-accepts-elon-musks-buyout-deal.html)
+- [Strange rumbling noises in California house turns out to be 5 bears hibernating](https://www.nbcnews.com/news/animal-news/5-hibernating-bears-source-california-crawl-space-snores-rcna25879)
+- [Lyft exec Craig Martell tapped as Pentagon&#39;s AI chief](https://breakingdefense.com/2022/04/exclusive-lyft-exec-craig-martell-tapped-as-pentagons-ai-chief/)
+- [English has changed, and that’s kind of fun](https://twitter.com/butwhatforblog/status/1518785391754719232)
+- [Daniel Lewin](https://en.wikipedia.org/wiki/Daniel_Lewin)
+- [PartKeepr – open-source inventory management software for electronic components](https://github.com/partkeepr/PartKeepr)
+- [grepcidr – Filter IPv4 and IPv6 addresses matching CIDR patterns &lpar;2014&rpar;](http://www.pc-tools.net/unix/grepcidr/)
+- [A Fast Random Graph Model with Community Structure](https://github.com/bkamins/ABCDGraphGenerator.jl)
+- [Why Your &#39;Digital Shabbat&#39; Will Fail](https://www.wired.com/story/digital-shabbat-screen-time-psychology/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

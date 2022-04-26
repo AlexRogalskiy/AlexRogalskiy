@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Northern Ontario city gets government funding to create a digital twin](https://www.itworldcanada.com/article/northern-ontario-city-gets-government-funding-to-create-a-digital-twin/480772)
+- [Elon Musk Acquires Twitter in a US$44 billion deal](https://www.itworldcanada.com/article/elon-musk-acquires-twitter-in-a-us44-billion-deal/481168)
+- [Quebec government embarrassed by web faux pas](https://www.itworldcanada.com/article/quebec-government-embarrassed-by-web-faux-pas/481137)
+- [Apple App Store and Apple Music currently experiencing issues](https://www.itworldcanada.com/article/apple-app-store-and-apple-music-currently-experiencing-issues/481117)
+- [Cyber Security Today, April 25, 2022 – Report shows how Lapsus$ gang was successful, and patches for Atlassian, Java and Amazon software are released](https://www.itworldcanada.com/article/cyber-security-today-april-25-2022-report-shows-how-lapsus-gang-was-successful-and-patches-for-atlassian-java-and-amazon-software-are-released/480973)
+- [Hashtag Trending April 25 – Elon’s Twitter saga continues; Google’s new privacy feature; Netflix’s anti-password sharing tactic](https://www.itworldcanada.com/article/hashtag-trending-april-25-elons-twitter-saga-continues-googles-new-privacy-feature-netflixs-anti-password-sharing-tactic/481042)
 - [Canada, U.S. in group planning to bridge global privacy rules](https://www.itworldcanada.com/article/canada-u-s-in-group-planning-to-bridge-global-privacy-rules/480686)
 - [Cyber Security Today, Week in Review for Friday April 22, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-april-22-2022/480671)
 - [This week in ransomware – April 22, 2022](https://www.itworldcanada.com/article/this-week-in-ransomware-april-22-2022/480646)
 - [Rogers announces 2.5Gbps internet as a free upgrade to some customers](https://www.itworldcanada.com/article/rogers-announces-2-5gbps-internet-as-a-free-upgrade-to-some-customers/480711)
-- [Canadian government invests in woman-led, sustainable AI company in Toronto](https://www.itworldcanada.com/article/canadian-government-invests-in-woman-led-sustainable-ai-company-in-toronto/480691)
-- [LoRaWAN-enabled IoT being used to save Africa’s endangered wildlife from poachers](https://www.itworldcanada.com/article/lorawan-enabled-iot-being-used-to-save-africas-endangered-wildlife-from-poachers/480322)
-- [Canadian companies embrace the Sustainable IT Pledge](https://www.itworldcanada.com/article/canadian-companies-embrace-the-sustainable-it-pledge/480681)
-- [Cyber Security Today, April 22, 2022 – Backgrounder on BlackCat ransomware gang, movement from REvil and millions stolen from another DeFi system](https://www.itworldcanada.com/article/cyber-security-today-april-22-2022-backgrounder-on-blackcat-ransomware-gang-movement-from-revil-and-millions-stolen-from-another-defi-system/480668)
-- [Hashtag Trending April 22 – Elon’s Twitter pursuit continues; Tesla reports record gains; CNN+ shuts down](https://www.itworldcanada.com/article/hashtag-trending-april-22-elons-twitter-pursuit-continues-tesla-reports-record-gains-cnn-shuts-down/480648)
-- [AMD announces Ryzen Pro 6000 series mobile processors for business](https://www.itworldcanada.com/article/amd-announces-ryzen-pro-6000-series-mobile-processors-for-business/480650)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

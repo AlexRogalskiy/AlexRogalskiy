@@ -369,6 +369,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [AI Set to Disrupt Traditional Data Management Practices](https://www.informationweek.com/big-data/ai-set-to-disrupt-traditional-data-management-practices)
+- [Enterprise Guide to Robotic Process Automation](https://www.informationweek.com/ai-or-machine-learning/enterprise-guide-to-robotic-process-automation)
 - [Avoid Automation Headaches: Unify Your Approach to Hyperautomation on a Single Platform](https://www.informationweek.com/devops/avoid-automation-headaches-unify-your-approach-to-hyperautomation-on-a-single-platform)
 - [Simplify Cloud Deployment Through Teamwork, Strategy](https://www.informationweek.com/cloud/simplify-cloud-deployment-through-teamwork-strategy)
 - [Secrets to Hiring Top Tech Talent](https://www.informationweek.com/it-life/secrets-to-hiring-top-tech-talent)
@@ -377,8 +379,6 @@
 - [Estimating the Total Costs of Your Cloud Analytics Platform](https://www.informationweek.com/cloud/estimating-the-total-costs-of-your-cloud-analytics-platform)
 - [NY Fintech Week: Crypto Regulation, Fraud, and Venture Capital](https://www.informationweek.com/fintech/ny-fintech-week-crypto-regulation-fraud-and-venture-capital)
 - [Enterprise Browsers Promise Enhanced Security, Productivity](https://www.informationweek.com/software/enterprise-browsers-promise-enhanced-security-productivity)
-- [NFT Analytics: Understanding Asset Value](https://www.informationweek.com/big-data/nft-analytics-understanding-asset-value)
-- [How to Spot an Alternative Cloud Provider](https://www.informationweek.com/cloud/how-to-spot-an-alternative-cloud-provider)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

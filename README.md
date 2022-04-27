@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Hush, a modern shell scripting language](https://hush-shell.github.io/)
-- [Show HN: We launched a new web browser](https://news.ycombinator.com/item?id=31163077)
-- [PSA: Git.io links will stop working in 3 days &lpar;29 of April 2022&rpar;](https://github.blog/changelog/2022-04-25-git-io-deprecation/)
-- [Manara &lpar;YC W21&rpar; Is Hiring a senior front end engineer](https://manara.breezy.hr/p/1cebbb12d138)
-- [Domain Driven Design Reference &lpar;2015&rpar; [pdf]](https://www.domainlanguage.com/wp-content/uploads/2016/05/DDD_Reference_2015-03.pdf)
-- [Elegant six-page proof reveals the emergence of random structure](https://www.quantamagazine.org/elegant-six-page-proof-reveals-the-emergence-of-random-structure-20220425/)
-- [Stunner – tool to test and exploit STUN, TURN and TURN over TCP servers](https://github.com/firefart/stunner)
-- [Manganese could be the secret behind truly mass-market EVs](https://spectrum.ieee.org/manganese-ev-batteries)
-- [European wind-energy sector hit in wave of hacks](https://www.wsj.com/articles/european-wind-energy-sector-hit-in-wave-of-hacks-11650879000)
-- [WebAuthn Browser Support](https://developers.yubico.com/WebAuthn/WebAuthn_Browser_Support/)
+- [Twitter buyout puts Mastodon into spotlight](https://blog.joinmastodon.org/2022/04/twitter-buyout-puts-mastodon-into-spotlight/)
+- [Textsynth: Bellard&#39;s free GPT-NeoX-20B, GPT-J playground and paid API](https://textsynth.com/playground.html)
+- [How to write a Git commit message &lpar;2014&rpar;](https://cbea.ms/git-commit/)
+- [Finley &lpar;YC W21&rpar; is a B2B fintech hiring in sales and eng &lpar;US remote&rpar;](https://www.finleycms.com/work-at-finley)
+- [Non-interactive Elements with the inert attribute](https://webkit.org/blog/12578/non-interactive-elements-with-the-inert-attribute/)
+- [Spacedrive – A File Explorer from the Future](https://www.spacedrive.app)
+- [An update on the campaign to defend serious math education in California](https://scottaaronson.blog/?p=6389)
+- [Slack’s Incident on 2-22-22](https://slack.engineering/slacks-incident-on-2-22-22/)
+- [Payment startup Bolt sued by its most prominent customer](https://www.bloomberg.com/news/articles/2022-04-26/forever-21-parent-authentic-brands-sues-bolt-startup)
+- [Type-Based Optimizations in the JIT](https://www.erlang.org/blog/type-based-optimizations-in-the-jit/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

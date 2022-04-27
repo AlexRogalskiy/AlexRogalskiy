@@ -429,6 +429,8 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Earth Day Special Coffee Briefing April 26, 2022 – Telus launches Buy One, Plant One campaign; Intel commits to net-zero greenhouse gas emissions; and more](https://www.itworldcanada.com/article/earth-day-special-coffee-briefing-april-26-2022-telus-launches-buy-one-plant-one-campaign-intel-commits-to-net-zero-greenhouse-gas-emissions-and-more/481279)
+- [Hashtag Trending April 26 – Elon Musk strikes a deal with Twitter; low morale at Netflix; Apple must pay over absent iPhone charger](https://www.itworldcanada.com/article/hashtag-trending-april-26-elon-musk-strikes-a-deal-with-twitter-low-morale-at-netflix-apple-must-pay-over-absent-iphone-charger/481164)
 - [Northern Ontario city gets government funding to create a digital twin](https://www.itworldcanada.com/article/northern-ontario-city-gets-government-funding-to-create-a-digital-twin/480772)
 - [Elon Musk Acquires Twitter in a US$44 billion deal](https://www.itworldcanada.com/article/elon-musk-acquires-twitter-in-a-us44-billion-deal/481168)
 - [Quebec government embarrassed by web faux pas](https://www.itworldcanada.com/article/quebec-government-embarrassed-by-web-faux-pas/481137)
@@ -437,8 +439,6 @@
 - [Hashtag Trending April 25 – Elon’s Twitter saga continues; Google’s new privacy feature; Netflix’s anti-password sharing tactic](https://www.itworldcanada.com/article/hashtag-trending-april-25-elons-twitter-saga-continues-googles-new-privacy-feature-netflixs-anti-password-sharing-tactic/481042)
 - [Canada, U.S. in group planning to bridge global privacy rules](https://www.itworldcanada.com/article/canada-u-s-in-group-planning-to-bridge-global-privacy-rules/480686)
 - [Cyber Security Today, Week in Review for Friday April 22, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-april-22-2022/480671)
-- [This week in ransomware – April 22, 2022](https://www.itworldcanada.com/article/this-week-in-ransomware-april-22-2022/480646)
-- [Rogers announces 2.5Gbps internet as a free upgrade to some customers](https://www.itworldcanada.com/article/rogers-announces-2-5gbps-internet-as-a-free-upgrade-to-some-customers/480711)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

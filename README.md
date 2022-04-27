@@ -384,16 +384,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Google Cloud launches Media CDN based on YouTube’s network](https://www.networkworld.com/article/3658396/google-cloud-launches-media-cdn-based-on-youtube-s-network.html#tk.rss_all)
+- [5G is important to cloud computing &lpar;but not that important&rpar;](https://www.infoworld.com/article/3658470/5g-is-important-to-cloud-computing-but-not-that-important.html#tk.rss_all)
+- [Go language satisfaction is off the charts](https://www.infoworld.com/article/3658134/go-language-satisfaction-is-off-the-charts.html#tk.rss_all)
+- [Think of search as the application platform, not just a feature](https://www.infoworld.com/article/3657777/think-of-search-as-the-application-platform-not-just-a-feature.html#tk.rss_all)
 - [Red Hat ships Application Foundations for Kubernetes](https://www.infoworld.com/article/3658235/red-hat-ships-application-foundations-for-kubernetes.html#tk.rss_all)
 - [Google to donate Istio service mesh to the CNCF](https://www.infoworld.com/article/3658206/google-to-donate-istio-service-mesh-to-the-cncf.html#tk.rss_all)
 - [The emerging risks of open source](https://www.infoworld.com/article/3658394/the-emerging-risks-of-open-source.html#tk.rss_all)
 - [9 home office essentials for developers who WFH](https://www.infoworld.com/article/3657736/9-home-office-essentials-for-developers-who-wfh.html#tk.rss_all)
 - [Why blockchain is the future of the internet](https://www.infoworld.com/article/3657635/why-blockchain-is-the-future-of-the-internet.html#tk.rss_all)
 - [JDK 19: The features targeted for Java 19](https://www.infoworld.com/article/3653331/jdk-19-the-features-targeted-for-java-19.html#tk.rss_all)
-- [Devs For Ukraine to raise money for charities, NGOs operating in warzone](https://www.infoworld.com/article/3658229/developers-for-ukraine-to-raise-money-for-charities-ngos-operating-in-warzone.html#tk.rss_all)
-- [AWS Amplify adds visual development tool](https://www.infoworld.com/article/3658388/aws-amplify-adds-visual-development-tool.html#tk.rss_all)
-- [Why we multicloud](https://www.infoworld.com/article/3658213/why-we-multicloud.html#tk.rss_all)
-- [The new Elastic CEO puts cloud front and center](https://www.infoworld.com/article/3658199/the-new-elastic-ceo-puts-cloud-front-and-center.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

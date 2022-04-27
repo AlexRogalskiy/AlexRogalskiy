@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Why it makes sense to use best-of-breed SaaS to power a business strategy](https://www.computerweekly.com/opinion/Why-it-makes-sense-to-use-best-of-breed-SaaS-to-power-a-business-strategy)
+- [Digital begins in the boardroom](https://www.computerweekly.com/opinion/Digital-begins-in-the-boardroom)
+- [Emotet tests new tricks to thwart enhanced security](https://www.computerweekly.com/news/252516348/Emotet-tests-new-tricks-to-thwart-enhanced-security)
+- [The latest salary trends for IT professionals](https://www.computerweekly.com/ezine/Computer-Weekly/The-latest-salary-trends-for-IT-professionals)
 - [Majority of workers using umbrella companies see no benefits](https://www.computerweekly.com/news/252516302/Majority-of-workers-using-umbrella-companies-see-no-benefits)
 - [Royal Holloway: Cloud-native honeypot deployment](https://www.computerweekly.com/ehandbook/Royal-Holloway-Cloud-native-honeypot-deployment)
 - [US mobile network emerges as latest Lapsus$ victim](https://www.computerweekly.com/news/252516292/US-mobile-network-emerges-as-latest-Lapsus-victim)
 - [Post-Brexit immigration challenges sees London drop in tech ranking](https://www.computerweekly.com/news/252516286/Post-Brexit-immigration-challenges-sees-London-drop-in-tech-ranking)
 - [Researchers explore historical Hubble datasets to understand the solar system](https://www.computerweekly.com/news/252516293/Researchers-explore-historical-Hubble-datasets-to-understand-the-Solar-System)
 - [Sophos soaks up SOC.OS](https://www.computerweekly.com/news/252516280/Sophos-soaks-up-SOCOS)
-- [Lower level of developer skills may hamper UK AI initiatives](https://www.computerweekly.com/news/252516276/Lower-level-of-developer-skills-may-hamper-UK-AI-initiatives)
-- [Growing prospects for edge datacentres](https://www.computerweekly.com/feature/Growing-prospects-for-edge-datacentres)
-- [SAP Q1 2022: Revenue up 11%, Ukraine war impact projected to be €300m](https://www.computerweekly.com/news/252516239/SAP-Q1-2022-revenue-up-11-Ukraine-war-impact-projected-to-be-300m)
-- [EU lawmakers propose limited ban on predictive policing systems](https://www.computerweekly.com/news/252516238/EU-lawmakers-propose-limited-ban-on-predictive-policing-systems)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Advanced Math for Kids: Straws and Topology](https://twitter.com/seb_g/status/1518787959088160768)
-- [Twitter accepts Elon Musk&#39;s buyout deal](https://www.cnbc.com/2022/04/25/twitter-accepts-elon-musks-buyout-deal.html)
-- [Strange rumbling noises in California house turns out to be 5 bears hibernating](https://www.nbcnews.com/news/animal-news/5-hibernating-bears-source-california-crawl-space-snores-rcna25879)
-- [Lyft exec Craig Martell tapped as Pentagon&#39;s AI chief](https://breakingdefense.com/2022/04/exclusive-lyft-exec-craig-martell-tapped-as-pentagons-ai-chief/)
-- [English has changed, and that’s kind of fun](https://twitter.com/butwhatforblog/status/1518785391754719232)
-- [Daniel Lewin](https://en.wikipedia.org/wiki/Daniel_Lewin)
-- [PartKeepr – open-source inventory management software for electronic components](https://github.com/partkeepr/PartKeepr)
-- [grepcidr – Filter IPv4 and IPv6 addresses matching CIDR patterns &lpar;2014&rpar;](http://www.pc-tools.net/unix/grepcidr/)
-- [A Fast Random Graph Model with Community Structure](https://github.com/bkamins/ABCDGraphGenerator.jl)
-- [Why Your &#39;Digital Shabbat&#39; Will Fail](https://www.wired.com/story/digital-shabbat-screen-time-psychology/)
+- [Canada giving itself power to turn over seized assets to victims](https://www.theglobeandmail.com/canada/article-canada-giving-itself-power-to-pay-out-compensation-from-sanctioned/)
+- [Biden flips the switch on Trump&#39;s incandescent light bulb plan](https://www.cnn.com/2022/04/26/politics/incandescent-light-bulbs-biden-trump-climate/index.html)
+- [Oral History of Steve Naroff](https://www.computerhistory.org/collections/catalog/102717386)
+- [Cb, command-line clipboard with automatic copy and paste detection](https://github.com/niedzielski/cb)
+- [Ex-Googlers aim for &#39;general intelligence&#39; to make software do what you tell it](https://www.theregister.com/2022/04/27/adept_ai_google/)
+- [Free Hearing, Not Speech &lpar;2010&rpar;](https://www.overcomingbias.com/2010/01/free-hearing-not-speech.html)
+- [US won’t rule out military action if China establishes base in Solomon Islands](https://www.theguardian.com/world/2022/apr/26/us-wont-rule-out-military-action-if-china-establishes-base-in-solomon-islands)
+- [Congress Has to Ask How Much McKinsey Hurt the FDA](https://www.nytimes.com/2022/04/26/opinion/mckinsey-fda-opioids.html)
+- [Joe Biden approval rating drops further with young Americans – CakeResume](https://www.cakeresume.com/me/biden-approval-rating-drops-further)
+- [Green jet fuel is here – so why are airlines not using it?](https://www.cnn.com/travel/article/saf-jet-fuel-green/index.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

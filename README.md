@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Tech event calendar 2022: Upcoming US shows, conferences, and IT expos](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
+- [Noteworthy tech acquisitions 2022](https://www.computerworld.com/article/3646533/noteworthy-tech-acquisitions-2022.html#tk.rss_all)
+- [Jamf adds network and endpoint security tools for enterprise Macs](https://www.computerworld.com/article/3658552/jamf-adds-network-and-endpoint-security-tools-for-enterprise-macs.html#tk.rss_all)
+- [The 9-to-5 workday is over](https://www.computerworld.com/article/3658236/the-9-to-5-workday-is-over.html#tk.rss_all)
+- [Top 4 mistakes to avoid when purchasing SaaS apps](https://www.computerworld.com/article/3657616/top-mistakes-to-avoid-when-purchasing-saas-apps.html#tk.rss_all)
 - [Elon Musk buys Twitter: What’s ahead for business users?](https://www.computerworld.com/article/3658234/elon-musk-buys-twitter-whats-ahead-for-business-users.html#tk.rss_all)
 - [Printer setup problems? There’s got to be a better way.](https://www.computerworld.com/article/3658114/printer-setup-problems-theres-got-to-be-a-better-way.html#tk.rss_all)
 - [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
 - [Does Apple plan an Apple Pay surprise as Tap to Pay hits beta?](https://www.computerworld.com/article/3658335/does-apple-plan-an-apple-pay-surprise-as-tap-to-pay-hits-beta.html#tk.rss_all)
 - [Q&amp;A: The digital dollar — how would it work, what would it do?](https://www.computerworld.com/article/3658469/qa-the-digital-dollar-how-would-it-work-what-would-it-do.html#tk.rss_all)
-- [EU approves DSA law to force tech platforms to police content](https://www.computerworld.com/article/3658216/eu-approves-dsa-law-to-force-tech-platforms-to-police-content.html#tk.rss_all)
-- [Apple&#39;s Fleetsmith closes as demand for enterprise MDM expands](https://www.computerworld.com/article/3658390/apples-fleetsmith-closes-as-demand-for-enterprise-mdm-expands.html#tk.rss_all)
-- [Nvidia’s StyleGAN could up-end a lot of creative industries](https://www.computerworld.com/article/3658389/nvidias-stylegan-could-up-end-a-lot-of-creative-industries.html#tk.rss_all)
-- [When it comes to data, resist your inner packrat](https://www.computerworld.com/article/3658200/when-it-comes-to-data-resist-your-inner-packrat.html#tk.rss_all)
-- [In a remote-work world, a zero-trust revolution is necessary](https://www.computerworld.com/article/3657617/in-a-remote-work-world-a-zero-trust-revolution-is-necessary.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

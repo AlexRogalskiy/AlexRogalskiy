@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war: military aid means Nato is ‘in essence engaged in war with Russia’, claims Lavrov – live](https://www.theguardian.com/world/live/2022/apr/25/russia-ukraine-war-us-pledges-return-of-diplomats-to-ukraine-after-blinken-visit-russian-oil-depot-on-fire-near-border-live)
-- [China expands Covid testing to almost all of Beijing’s 22 million residents](https://www.theguardian.com/world/2022/apr/26/china-expands-covid-testing-to-almost-all-of-beijings-22-million-residents)
-- [Temper tantrums and invasion threats over Solomon Islands deal with China will push Pacific allies away | Terence Wood](https://www.theguardian.com/world/2022/apr/26/temper-tantrums-and-invasion-threats-over-solomon-islands-deal-with-china-will-push-pacific-allies-away)
-- [Can Emmanuel Macron reunite France?](https://www.theguardian.com/news/audio/2022/apr/26/can-emmanuel-macron-reunite-france)
-- [Indonesia’s palm oil export ban sparks concern over global food prices](https://www.theguardian.com/world/2022/apr/26/indonesias-palm-oil-export-ban-sparks-concern-over-global-food-prices)
-- [Disney is refusing to cut LGBTQ scene in Doctor Strange 2, Saudi Arabia says](https://www.theguardian.com/film/2022/apr/26/disney-is-refusing-to-cut-lgbtq-scene-in-doctor-strange-2-saudi-arabia-says)
-- [Russia-Ukraine war: what we know on day 62 of the invasion](https://www.theguardian.com/world/2022/apr/26/russia-ukraine-war-what-we-know-on-day-62-of-the-invasion)
-- [Free media in Hong Kong almost completely dismantled – report](https://www.theguardian.com/world/2022/apr/26/free-media-in-hong-kong-almost-completely-dismantled-report)
-- [Phil Mickelson requests PGA Tour release to play first Saudi-backed event](https://www.theguardian.com/sport/2022/apr/26/phil-mickelson-liv-golf-invitational-pga-tour)
-- [David Cameron says government should defend its counter-extremism strategy](https://www.theguardian.com/politics/2022/apr/26/david-cameron-says-government-should-defend-its-counter-extremism-strategy)
+- [Russia-Ukraine war: ammunition depot on fire in Russian city of Belgorod; Truss to call on Ukraine’s allies to ‘double down’ on military aid - live](https://www.theguardian.com/world/live/2022/apr/26/russia-ukraine-war-ukraine-foreign-minister-says-moscow-senses-defeat-us-set-to-host-talks-in-germany-on-arming-kyiv-live)
+- [Outcry as Singapore executes man with learning difficulties over drugs offence](https://www.theguardian.com/world/2022/apr/27/outcry-as-singapore-executes-man-with-learning-difficulties-over-drugs-offence)
+- [Global mystery hepatitis outbreak spreads to Asia and Canada](https://www.theguardian.com/technology/2022/apr/27/global-mystery-hepatitis-outbreak-spreads-to-asia-and-canada)
+- [Searching for the shadow man &lpar;Part 1&rpar;](https://www.theguardian.com/news/audio/2022/apr/27/investigating-a-war-crime-part-1-searching-for-the-shadow-man-podcast)
+- [Massacre in Tadamon: how two academics hunted down a Syrian war criminal](https://www.theguardian.com/world/2022/apr/27/massacre-in-tadamon-how-two-academics-hunted-down-a-syrian-war-criminal)
+- [More than half of Americans have had Covid, including three of four children](https://www.theguardian.com/world/2022/apr/26/us-covid-infections-antibodies-children)
+- [Mail on Sunday editor rejects meeting with Speaker over Angela Rayner story](https://www.theguardian.com/media/2022/apr/27/mail-on-sunday-editor-rejects-meeting-with-speaker-over-angela-rayner-story)
+- [Alphabet revenue falls short as YouTube and TikTok battle for users](https://www.theguardian.com/technology/2022/apr/26/alphabet-google-revenue-profits-first-quarter)
+- [UK will lose £8bn from Covid-induced decline in size of workforce](https://www.theguardian.com/business/2022/apr/27/uk-lose-8bn-covid-decline-size-workforce-illness)
+- [IFS: England’s student loan change to hit poor and minority ethnic people harder](https://www.theguardian.com/education/2022/apr/27/student-loan-change-england-hits-poor-minority-ethnic-people-harder-ifs-analysis)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

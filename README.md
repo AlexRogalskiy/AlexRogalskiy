@@ -414,6 +414,7 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [be honest, how often are y&#39;all on reddit at work](https://www.reddit.com/r/InformationTechnology/comments/ucdha7/be_honest_how_often_are_yall_on_reddit_at_work/)
 - [Entry-level WFH Helpdesk Jobs...Worth it?](https://www.reddit.com/r/InformationTechnology/comments/ubrlu7/entrylevel_wfh_helpdesk_jobsworth_it/)
 - [Cutting the cord on the enterprise level?](https://www.reddit.com/r/InformationTechnology/comments/ubqp39/cutting_the_cord_on_the_enterprise_level/)
 - [Decimals to hexadecimal](https://www.reddit.com/r/InformationTechnology/comments/ubo8u5/decimals_to_hexadecimal/)
@@ -423,7 +424,6 @@
 - [Client Work vs Internal IT](https://www.reddit.com/r/InformationTechnology/comments/ub3zom/client_work_vs_internal_it/)
 - [Out of Network+, A+, and Security+, which cert did you find to be the easiest to acquire?](https://www.reddit.com/r/InformationTechnology/comments/uazr57/out_of_network_a_and_security_which_cert_did_you/)
 - [Just started studying for my A+. Anything to help make this 1553-page study guide a little smaller?](https://www.reddit.com/r/InformationTechnology/comments/uaz7eo/just_started_studying_for_my_a_anything_to_help/)
-- [can you/what job can you land with a computer science degree?](https://www.reddit.com/r/InformationTechnology/comments/uaj6cj/can_youwhat_job_can_you_land_with_a_computer/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

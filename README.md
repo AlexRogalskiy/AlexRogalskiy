@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Spirit of innovation on display at Channel Innovation Awards](https://www.itworldcanada.com/article/spirit-of-innovation-on-display-at-channel-innovation-awards/481446)
+- [E-waste, tech’s big dirty secret](https://www.itworldcanada.com/article/e-waste-techs-big-dirty-secret/481142)
+- [Fewer insurers offering cyber coverage — and its harder to get — says Sophos ransomware report](https://www.itworldcanada.com/article/fewer-insurers-offering-cyber-coverage-and-its-harder-to-get-says-sophos-ransomware-report/481371)
+- [Cyber Security Today, April 27, 2022 – Lots of software still has log4j2 vulnerabilities, hackers took only days to exploit a VMware vulnerability and more](https://www.itworldcanada.com/article/cyber-security-today-april-27-2022-lots-of-software-still-has-log4j2-vulnerabilities-hackers-took-only-days-to-exploit-a-vmware-vulnerability-and-more/481354)
+- [Hashtag Trending April 27 –  Backflash following Elon Musk’s Twitter deal, Brooklyn library offers digital access to banned books; Meta](https://www.itworldcanada.com/article/hashtag-trending-april-27-backflash-following-elon-musks-twitter-deal-brooklyn-library-offers-digital-access-to-banned-books-meta/481382)
 - [Earth Day Special Coffee Briefing April 26, 2022 – Telus launches Buy One, Plant One campaign; Intel commits to net-zero greenhouse gas emissions; and more](https://www.itworldcanada.com/article/earth-day-special-coffee-briefing-april-26-2022-telus-launches-buy-one-plant-one-campaign-intel-commits-to-net-zero-greenhouse-gas-emissions-and-more/481279)
 - [Hashtag Trending April 26 – Elon Musk strikes a deal with Twitter; low morale at Netflix; Apple must pay over absent iPhone charger](https://www.itworldcanada.com/article/hashtag-trending-april-26-elon-musk-strikes-a-deal-with-twitter-low-morale-at-netflix-apple-must-pay-over-absent-iphone-charger/481164)
 - [Northern Ontario city gets government funding to create a digital twin](https://www.itworldcanada.com/article/northern-ontario-city-gets-government-funding-to-create-a-digital-twin/480772)
 - [Elon Musk Acquires Twitter in a US$44 billion deal](https://www.itworldcanada.com/article/elon-musk-acquires-twitter-in-a-us44-billion-deal/481168)
 - [Quebec government embarrassed by web faux pas](https://www.itworldcanada.com/article/quebec-government-embarrassed-by-web-faux-pas/481137)
-- [Apple App Store and Apple Music currently experiencing issues](https://www.itworldcanada.com/article/apple-app-store-and-apple-music-currently-experiencing-issues/481117)
-- [Cyber Security Today, April 25, 2022 – Report shows how Lapsus$ gang was successful, and patches for Atlassian, Java and Amazon software are released](https://www.itworldcanada.com/article/cyber-security-today-april-25-2022-report-shows-how-lapsus-gang-was-successful-and-patches-for-atlassian-java-and-amazon-software-are-released/480973)
-- [Hashtag Trending April 25 – Elon’s Twitter saga continues; Google’s new privacy feature; Netflix’s anti-password sharing tactic](https://www.itworldcanada.com/article/hashtag-trending-april-25-elons-twitter-saga-continues-googles-new-privacy-feature-netflixs-anti-password-sharing-tactic/481042)
-- [Canada, U.S. in group planning to bridge global privacy rules](https://www.itworldcanada.com/article/canada-u-s-in-group-planning-to-bridge-global-privacy-rules/480686)
-- [Cyber Security Today, Week in Review for Friday April 22, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-april-22-2022/480671)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

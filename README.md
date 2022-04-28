@@ -369,6 +369,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Bringing Shadow IT Into the Light](https://www.informationweek.com/software/bringing-shadow-it-into-the-light)
+- [4 Steps to Bolster Cybersecurity Defenses Throughout IT/OT Convergence](https://www.informationweek.com/security-and-risk-strategy/4-steps-to-bolster-cybersecurity-defenses-throughout-it-ot-convergence)
 - [AI Set to Disrupt Traditional Data Management Practices](https://www.informationweek.com/big-data/ai-set-to-disrupt-traditional-data-management-practices)
 - [Enterprise Guide to Robotic Process Automation](https://www.informationweek.com/ai-or-machine-learning/enterprise-guide-to-robotic-process-automation)
 - [Avoid Automation Headaches: Unify Your Approach to Hyperautomation on a Single Platform](https://www.informationweek.com/devops/avoid-automation-headaches-unify-your-approach-to-hyperautomation-on-a-single-platform)
@@ -377,8 +379,6 @@
 - [New York Fintech Week: Startups Take Aim at Financial Inclusion](https://www.informationweek.com/fintech/new-york-fintech-week-startups-take-aim-at-financial-inclusion)
 - [Quick Study: Sustainability and ESG](https://www.informationweek.com/strategic-cio/quick-study-sustainability-and-esg)
 - [Estimating the Total Costs of Your Cloud Analytics Platform](https://www.informationweek.com/cloud/estimating-the-total-costs-of-your-cloud-analytics-platform)
-- [NY Fintech Week: Crypto Regulation, Fraud, and Venture Capital](https://www.informationweek.com/fintech/ny-fintech-week-crypto-regulation-fraud-and-venture-capital)
-- [Enterprise Browsers Promise Enhanced Security, Productivity](https://www.informationweek.com/software/enterprise-browsers-promise-enhanced-security-productivity)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

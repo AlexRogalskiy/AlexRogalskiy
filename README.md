@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Twitter buyout puts Mastodon into spotlight](https://blog.joinmastodon.org/2022/04/twitter-buyout-puts-mastodon-into-spotlight/)
-- [Textsynth: Bellard&#39;s free GPT-NeoX-20B, GPT-J playground and paid API](https://textsynth.com/playground.html)
-- [How to write a Git commit message &lpar;2014&rpar;](https://cbea.ms/git-commit/)
-- [Finley &lpar;YC W21&rpar; is a B2B fintech hiring in sales and eng &lpar;US remote&rpar;](https://www.finleycms.com/work-at-finley)
-- [Non-interactive Elements with the inert attribute](https://webkit.org/blog/12578/non-interactive-elements-with-the-inert-attribute/)
-- [Spacedrive – A File Explorer from the Future](https://www.spacedrive.app)
-- [An update on the campaign to defend serious math education in California](https://scottaaronson.blog/?p=6389)
-- [Slack’s Incident on 2-22-22](https://slack.engineering/slacks-incident-on-2-22-22/)
-- [Payment startup Bolt sued by its most prominent customer](https://www.bloomberg.com/news/articles/2022-04-26/forever-21-parent-authentic-brands-sues-bolt-startup)
-- [Type-Based Optimizations in the JIT](https://www.erlang.org/blog/type-based-optimizations-in-the-jit/)
+- [Using LSP in Emacs and Debian](https://anarc.at/blog/2022-04-27-lsp-in-debian/)
+- [Few-Shot Head Swapping in the Wild](https://jmliu88.github.io/HeSer/)
+- [Do developers think Web3 will build a better internet?](https://stackoverflow.blog/2022/04/20/new-data-developers-web3/)
+- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Machine Learning Research Engineers](https://news.ycombinator.com/item?id=31187695)
+- [The death rate for children has dropped dramatically](https://www.npr.org/sections/goatsandsoda/2022/04/27/1093856457/the-death-rate-for-children-has-dropped-dramatically-yet-theres-cause-for-alarm)
+- [Terraform Provider for Spotify](https://github.com/conradludgate/terraform-provider-spotify)
+- [How I put my whole life into a single database](https://krausefx.com//blog/how-i-put-my-whole-life-into-a-single-database)
+- [Show HN: Create awkward situations with a fake iMessage Popup](https://github.com/adnanaga/pushy)
+- [The Kia Instrument](https://www.kia.com/us/en/movement/our-instrument)
+- [North Koreans are jailbreaking phones to access forbidden media](https://www.wired.com/story/north-korean-phone-jailbreakers/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

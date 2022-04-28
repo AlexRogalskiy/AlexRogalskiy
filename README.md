@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war: ammunition depot on fire in Russian city of Belgorod; Truss to call on Ukraine’s allies to ‘double down’ on military aid - live](https://www.theguardian.com/world/live/2022/apr/26/russia-ukraine-war-ukraine-foreign-minister-says-moscow-senses-defeat-us-set-to-host-talks-in-germany-on-arming-kyiv-live)
-- [Outcry as Singapore executes man with learning difficulties over drugs offence](https://www.theguardian.com/world/2022/apr/27/outcry-as-singapore-executes-man-with-learning-difficulties-over-drugs-offence)
-- [Global mystery hepatitis outbreak spreads to Asia and Canada](https://www.theguardian.com/technology/2022/apr/27/global-mystery-hepatitis-outbreak-spreads-to-asia-and-canada)
-- [Searching for the shadow man &lpar;Part 1&rpar;](https://www.theguardian.com/news/audio/2022/apr/27/investigating-a-war-crime-part-1-searching-for-the-shadow-man-podcast)
-- [Massacre in Tadamon: how two academics hunted down a Syrian war criminal](https://www.theguardian.com/world/2022/apr/27/massacre-in-tadamon-how-two-academics-hunted-down-a-syrian-war-criminal)
-- [More than half of Americans have had Covid, including three of four children](https://www.theguardian.com/world/2022/apr/26/us-covid-infections-antibodies-children)
-- [Mail on Sunday editor rejects meeting with Speaker over Angela Rayner story](https://www.theguardian.com/media/2022/apr/27/mail-on-sunday-editor-rejects-meeting-with-speaker-over-angela-rayner-story)
-- [Alphabet revenue falls short as YouTube and TikTok battle for users](https://www.theguardian.com/technology/2022/apr/26/alphabet-google-revenue-profits-first-quarter)
-- [UK will lose £8bn from Covid-induced decline in size of workforce](https://www.theguardian.com/business/2022/apr/27/uk-lose-8bn-covid-decline-size-workforce-illness)
-- [IFS: England’s student loan change to hit poor and minority ethnic people harder](https://www.theguardian.com/education/2022/apr/27/student-loan-change-england-hits-poor-minority-ethnic-people-harder-ifs-analysis)
+- [Russia-Ukraine war: Putin warns of ‘lightning fast’ retaliation if west intervenes; White House accuses Russia of ‘weaponising energy supplies’ - live](https://www.theguardian.com/world/live/2022/apr/27/russia-ukraine-war-blasts-heard-in-russian-city-of-belgorod-truss-to-call-on-ukraines-allies-to-double-down-on-military-aid-live)
+- [Measles cases surge nearly 80% in wake of Covid chaos, with fears other diseases could follow](https://www.theguardian.com/technology/2022/apr/28/measles-cases-surge-nearly-80-in-wake-of-covid-chaos-with-fears-other-diseases-could-follow)
+- [Solomons PM could use Chinese police to stay in power, key provincial adviser fears](https://www.theguardian.com/world/2022/apr/28/solomons-pm-could-use-chinese-police-to-stay-in-power-key-official-fears)
+- [Russia-Ukraine war: what we know on day 64 of the invasion](https://www.theguardian.com/world/2022/apr/28/russia-ukraine-war-what-we-know-on-day-64-of-the-invasion)
+- [Searching for the shadow man &lpar;part 2&rpar;](https://www.theguardian.com/news/audio/2022/apr/28/searching-for-the-shadow-man-part-2-podcast)
+- [Be kind to your mother-in-law, the victim of ‘cliches’, urges Pope](https://www.theguardian.com/world/2022/apr/28/be-kind-to-your-mother-in-law-the-victim-of-cliches-urges-pope)
+- [Russia deploys trained dolphins at Black Sea naval base, satellite images show](https://www.theguardian.com/world/2022/apr/27/russia-black-sea-military-dolphins-crimea)
+- [John Higgins survives to join Ronnie O’Sullivan and ‘Class of ‘92’ in semis](https://www.theguardian.com/sport/2022/apr/27/world-snooker-championship-quarter-finals-ronnie-o-sullivan)
+- [Giant ichthyosaur’s huge tooth points to sea creatures with robust bite](https://www.theguardian.com/science/2022/apr/28/giant-ichthyosaurs-huge-tooth-points-to-sea-creatures-with-robust-bite)
+- [Premier League launches scheme to identify players of South Asian heritage](https://www.theguardian.com/football/2022/apr/28/premier-league-launches-scheme-to-identify-players-of-south-asian-heritage)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

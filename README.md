@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Log4Shell, ProxyLogon, ProxyShell among most exploited bugs of 2021](https://www.computerweekly.com/news/252516414/Log4Shell-ProxyLogon-ProxyShell-among-most-exploited-bugs-of-2021)
+- [Russia-supporting cyber crime gang claims Coca-Cola as victim](https://www.computerweekly.com/news/252516406/Russia-supporting-cyber-crime-gang-claims-Coca-Cola-as-victim)
+- [Leeds Beckett’s ethical hacking platform wins Innovate UK backing](https://www.computerweekly.com/news/252516404/Leeds-Becketts-ethical-hacking-platform-wins-Innovate-UK-backing)
+- [Disappointing earnings at Google, but cloud still strong](https://www.computerweekly.com/news/252516403/Disappointing-earnings-at-Google-but-cloud-still-strong)
+- [Ransomware victims paying out when they don’t need to](https://www.computerweekly.com/news/252516392/Ransomware-victims-paying-out-when-they-dont-need-to)
+- [Microsoft shows inflation-busting growth, driven by cloud adoption](https://www.computerweekly.com/news/252516383/Microsoft-shows-inflation-busting-growth-driven-by-cloud-adoption)
+- [Royal Holloway: Deep learning for countering energy theft](https://www.computerweekly.com/ehandbook/Royal-Holloway-Deep-learning-for-countering-energy-theft)
 - [Why it makes sense to use best-of-breed SaaS to power a business strategy](https://www.computerweekly.com/opinion/Why-it-makes-sense-to-use-best-of-breed-SaaS-to-power-a-business-strategy)
 - [Digital begins in the boardroom](https://www.computerweekly.com/opinion/Digital-begins-in-the-boardroom)
 - [Emotet tests new tricks to thwart enhanced security](https://www.computerweekly.com/news/252516348/Emotet-tests-new-tricks-to-thwart-enhanced-security)
-- [The latest salary trends for IT professionals](https://www.computerweekly.com/ezine/Computer-Weekly/The-latest-salary-trends-for-IT-professionals)
-- [Majority of workers using umbrella companies see no benefits](https://www.computerweekly.com/news/252516302/Majority-of-workers-using-umbrella-companies-see-no-benefits)
-- [Royal Holloway: Cloud-native honeypot deployment](https://www.computerweekly.com/ehandbook/Royal-Holloway-Cloud-native-honeypot-deployment)
-- [US mobile network emerges as latest Lapsus$ victim](https://www.computerweekly.com/news/252516292/US-mobile-network-emerges-as-latest-Lapsus-victim)
-- [Post-Brexit immigration challenges sees London drop in tech ranking](https://www.computerweekly.com/news/252516286/Post-Brexit-immigration-challenges-sees-London-drop-in-tech-ranking)
-- [Researchers explore historical Hubble datasets to understand the solar system](https://www.computerweekly.com/news/252516293/Researchers-explore-historical-Hubble-datasets-to-understand-the-Solar-System)
-- [Sophos soaks up SOC.OS](https://www.computerweekly.com/news/252516280/Sophos-soaks-up-SOCOS)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

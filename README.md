@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Canada giving itself power to turn over seized assets to victims](https://www.theglobeandmail.com/canada/article-canada-giving-itself-power-to-pay-out-compensation-from-sanctioned/)
-- [Biden flips the switch on Trump&#39;s incandescent light bulb plan](https://www.cnn.com/2022/04/26/politics/incandescent-light-bulbs-biden-trump-climate/index.html)
-- [Oral History of Steve Naroff](https://www.computerhistory.org/collections/catalog/102717386)
-- [Cb, command-line clipboard with automatic copy and paste detection](https://github.com/niedzielski/cb)
-- [Ex-Googlers aim for &#39;general intelligence&#39; to make software do what you tell it](https://www.theregister.com/2022/04/27/adept_ai_google/)
-- [Free Hearing, Not Speech &lpar;2010&rpar;](https://www.overcomingbias.com/2010/01/free-hearing-not-speech.html)
-- [US won’t rule out military action if China establishes base in Solomon Islands](https://www.theguardian.com/world/2022/apr/26/us-wont-rule-out-military-action-if-china-establishes-base-in-solomon-islands)
-- [Congress Has to Ask How Much McKinsey Hurt the FDA](https://www.nytimes.com/2022/04/26/opinion/mckinsey-fda-opioids.html)
-- [Joe Biden approval rating drops further with young Americans – CakeResume](https://www.cakeresume.com/me/biden-approval-rating-drops-further)
-- [Green jet fuel is here – so why are airlines not using it?](https://www.cnn.com/travel/article/saf-jet-fuel-green/index.html)
+- [Who created to the link that posts Hacker News to Reddit](https://news.ycombinator.com/item?id=31188589)
+- [Seroprevalence of Infection-Induced SARS-CoV-2 Antibodies](https://www.cdc.gov/mmwr/volumes/71/wr/mm7117e3.htm)
+- [Is the profitable business of scientific publishing bad for science? &lpar;2017&rpar;](https://www.theguardian.com/science/2017/jun/27/profitable-business-scientific-publishing-bad-for-science)
+- [Homemade Solar-Powered CNC Engraver](https://www.youtube.com/watch?v=WO-ny20IhV0)
+- [Biden Claims School Children Don’t Belong to Parents ‘When They’re in Classroom’](https://www.nationalreview.com/news/biden-claims-school-children-dont-belong-to-parents-when-theyre-in-the-classroom/)
+- [China detects first human case of H3N8 bird flu strain](https://www.theguardian.com/environment/2022/apr/27/first-human-case-h3n8-bird-flu-strain-china)
+- [NASA Sees ‘Otherworldly’ Wreckage on Mars with Ingenuity Helicopter](https://www.nytimes.com/2022/04/27/science/nasa-mars-wreckage-photo.html)
+- [Squats Power Your Life](https://www.axios.com/squat-exercise-benefits-core-lower-back-strength-224a580b-b7a8-4990-96d1-da92f2ddae9d.html)
+- [The Cloud Native Community Cookbook](https://github.com/cncf/cloud-native-community-cookbook)
+- [Start Small](https://patzhong.com/start-small/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Looking for a decent crash-course with MECM](https://www.reddit.com/r/InformationTechnology/comments/udia69/looking_for_a_decent_crashcourse_with_mecm/)
+- [Hoping someone might have a suggestion? Looking for options for remote desktops for multiple at home users to login to a SINGLE workstation?](https://www.reddit.com/r/InformationTechnology/comments/udhmhe/hoping_someone_might_have_a_suggestion_looking/)
+- [IT entry level job?](https://www.reddit.com/r/InformationTechnology/comments/udeu7i/it_entry_level_job/)
+- [Considering a fresh start in IT. Feeling lost. Is the &quot;job shortage&quot; a myth for entry-level tech roles?](https://www.reddit.com/r/InformationTechnology/comments/udd5t1/considering_a_fresh_start_in_it_feeling_lost_is/)
+- [Questions about an IT certification](https://www.reddit.com/r/InformationTechnology/comments/ud84ub/questions_about_an_it_certification/)
+- [Salary expectation with my credentials?](https://www.reddit.com/r/InformationTechnology/comments/ucvkv8/salary_expectation_with_my_credentials/)
 - [be honest, how often are y&#39;all on reddit at work](https://www.reddit.com/r/InformationTechnology/comments/ucdha7/be_honest_how_often_are_yall_on_reddit_at_work/)
 - [Entry-level WFH Helpdesk Jobs...Worth it?](https://www.reddit.com/r/InformationTechnology/comments/ubrlu7/entrylevel_wfh_helpdesk_jobsworth_it/)
 - [Cutting the cord on the enterprise level?](https://www.reddit.com/r/InformationTechnology/comments/ubqp39/cutting_the_cord_on_the_enterprise_level/)
 - [Decimals to hexadecimal](https://www.reddit.com/r/InformationTechnology/comments/ubo8u5/decimals_to_hexadecimal/)
-- [Alert: Unlimited Courses with Pluralsight Free Weekend 2022](https://www.reddit.com/r/InformationTechnology/comments/ubbt4g/alert_unlimited_courses_with_pluralsight_free/)
-- [Does IT require high intelligence? Specifically IQ?](https://www.reddit.com/r/InformationTechnology/comments/ub6idx/does_it_require_high_intelligence_specifically_iq/)
-- [what is the better path getting an AS&lpar;computer information systems&rpar; or certs?](https://www.reddit.com/r/InformationTechnology/comments/ub5lh8/what_is_the_better_path_getting_an_ascomputer/)
-- [Client Work vs Internal IT](https://www.reddit.com/r/InformationTechnology/comments/ub3zom/client_work_vs_internal_it/)
-- [Out of Network+, A+, and Security+, which cert did you find to be the easiest to acquire?](https://www.reddit.com/r/InformationTechnology/comments/uazr57/out_of_network_a_and_security_which_cert_did_you/)
-- [Just started studying for my A+. Anything to help make this 1553-page study guide a little smaller?](https://www.reddit.com/r/InformationTechnology/comments/uaz7eo/just_started_studying_for_my_a_anything_to_help/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

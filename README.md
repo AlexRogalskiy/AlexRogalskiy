@@ -384,16 +384,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Akamai jumps into DBaaS market with Linode Managed Database](https://www.infoworld.com/article/3658949/akamai-jumps-into-dbaas-market-with-linode-managed-database.html#tk.rss_all)
+- [GraalVM speeds up native image builds](https://www.infoworld.com/article/3658988/graalvm-speeds-up-native-image-builds.html#tk.rss_all)
+- [New HPE offerings aim to turbocharge machine-learning implementation](https://www.infoworld.com/article/3658239/new-hpe-offerings-aim-to-turbocharge-machine-learning-implementation.html#tk.rss_all)
+- [Google Cloud sales chief Rob Enslin is leaving for UiPath](https://www.infoworld.com/article/3658557/google-cloud-sales-chief-rob-enslin-is-leaving-for-uipath.html#tk.rss_all)
+- [Low-code toolkit extends Salesforce platform to Slack apps](https://www.infoworld.com/article/3658135/low-code-toolkit-extends-salesforce-platform-to-slack-apps.html#tk.rss_all)
+- [Google Cloud props up a slow start to the year for Alphabet](https://www.infoworld.com/article/3658237/google-cloud-props-up-a-slow-start-to-the-year-for-alphabet.html#tk.rss_all)
+- [Build desktop and mobile UIs with Blazor Hybrid apps](https://www.infoworld.com/article/3658395/build-desktop-and-mobile-uis-with-blazor-hybrid-apps.html#tk.rss_all)
+- [Career roadmap: Machine learning scientist](https://www.infoworld.com/article/3658130/career-roadmap-machine-learning-scientist.html#tk.rss_all)
+- [Review: Databricks Lakehouse Platform](https://www.infoworld.com/article/3656799/review-databricks-lakehouse-platform.html#tk.rss_all)
 - [Google Cloud launches Media CDN based on YouTube’s network](https://www.networkworld.com/article/3658396/google-cloud-launches-media-cdn-based-on-youtube-s-network.html#tk.rss_all)
-- [5G is important to cloud computing &lpar;but not that important&rpar;](https://www.infoworld.com/article/3658470/5g-is-important-to-cloud-computing-but-not-that-important.html#tk.rss_all)
-- [Go language satisfaction is off the charts](https://www.infoworld.com/article/3658134/go-language-satisfaction-is-off-the-charts.html#tk.rss_all)
-- [Think of search as the application platform, not just a feature](https://www.infoworld.com/article/3657777/think-of-search-as-the-application-platform-not-just-a-feature.html#tk.rss_all)
-- [Red Hat ships Application Foundations for Kubernetes](https://www.infoworld.com/article/3658235/red-hat-ships-application-foundations-for-kubernetes.html#tk.rss_all)
-- [Google to donate Istio service mesh to the CNCF](https://www.infoworld.com/article/3658206/google-to-donate-istio-service-mesh-to-the-cncf.html#tk.rss_all)
-- [The emerging risks of open source](https://www.infoworld.com/article/3658394/the-emerging-risks-of-open-source.html#tk.rss_all)
-- [9 home office essentials for developers who WFH](https://www.infoworld.com/article/3657736/9-home-office-essentials-for-developers-who-wfh.html#tk.rss_all)
-- [Why blockchain is the future of the internet](https://www.infoworld.com/article/3657635/why-blockchain-is-the-future-of-the-internet.html#tk.rss_all)
-- [JDK 19: The features targeted for Java 19](https://www.infoworld.com/article/3653331/jdk-19-the-features-targeted-for-java-19.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war: Putin warns of ‘lightning fast’ retaliation if west intervenes; White House accuses Russia of ‘weaponising energy supplies’ - live](https://www.theguardian.com/world/live/2022/apr/27/russia-ukraine-war-blasts-heard-in-russian-city-of-belgorod-truss-to-call-on-ukraines-allies-to-double-down-on-military-aid-live)
-- [Measles cases surge nearly 80% in wake of Covid chaos, with fears other diseases could follow](https://www.theguardian.com/technology/2022/apr/28/measles-cases-surge-nearly-80-in-wake-of-covid-chaos-with-fears-other-diseases-could-follow)
-- [Solomons PM could use Chinese police to stay in power, key provincial adviser fears](https://www.theguardian.com/world/2022/apr/28/solomons-pm-could-use-chinese-police-to-stay-in-power-key-official-fears)
-- [Russia-Ukraine war: what we know on day 64 of the invasion](https://www.theguardian.com/world/2022/apr/28/russia-ukraine-war-what-we-know-on-day-64-of-the-invasion)
-- [Searching for the shadow man &lpar;part 2&rpar;](https://www.theguardian.com/news/audio/2022/apr/28/searching-for-the-shadow-man-part-2-podcast)
-- [Be kind to your mother-in-law, the victim of ‘cliches’, urges Pope](https://www.theguardian.com/world/2022/apr/28/be-kind-to-your-mother-in-law-the-victim-of-cliches-urges-pope)
-- [Russia deploys trained dolphins at Black Sea naval base, satellite images show](https://www.theguardian.com/world/2022/apr/27/russia-black-sea-military-dolphins-crimea)
-- [John Higgins survives to join Ronnie O’Sullivan and ‘Class of ‘92’ in semis](https://www.theguardian.com/sport/2022/apr/27/world-snooker-championship-quarter-finals-ronnie-o-sullivan)
-- [Giant ichthyosaur’s huge tooth points to sea creatures with robust bite](https://www.theguardian.com/science/2022/apr/28/giant-ichthyosaurs-huge-tooth-points-to-sea-creatures-with-robust-bite)
-- [Premier League launches scheme to identify players of South Asian heritage](https://www.theguardian.com/football/2022/apr/28/premier-league-launches-scheme-to-identify-players-of-south-asian-heritage)
+- [2022 NFL draft live updates: Travon Walker taken No 1; Pickett is first quarterback taken](https://www.theguardian.com/sport/live/2022/apr/28/nfl-draft-picks-first-round-order-analysis)
+- [Russia-Ukraine war: Kyiv rocked by missile strikes during UN chief’s visit, Ukraine responds to ‘heinous act of barbarism’ – live](https://www.theguardian.com/world/live/2022/apr/28/russia-ukraine-war-putin-warns-of-lightning-fast-retaliation-if-west-intervenes-war-has-cost-ukraine-600bn-zelenskiy-says-live)
+- [Climate crisis – not China – is biggest threat to Pacific, say former leaders](https://www.theguardian.com/world/2022/apr/29/climate-crisis-not-china-is-biggest-threat-to-pacific-say-former-leaders)
+- [Will Elon Musk regret buying Twitter? – podcast](https://www.theguardian.com/technology/audio/2022/apr/29/will-elon-musk-regret-buying-twitter-podcast)
+- [Panic at Israeli airport as US family packs unexploded bombshell for flight home](https://www.theguardian.com/world/2022/apr/29/panic-at-israeli-airport-as-us-family-packs-unexploded-bombshell-for-flight-home)
+- [Slackers barred: testing Tokyo’s anti-procrastination cafe](https://www.theguardian.com/world/2022/apr/29/slackers-barred-testing-tokyos-anti-procrastination-cafe)
+- [Comedian James Corden to leave his CBS late-night show next year](https://www.theguardian.com/culture/2022/apr/28/comedian-james-corden-leave-cbs-late-night-show)
+- [Russia bombs Kyiv with cruise missiles during UN visit to Ukraine capital](https://www.theguardian.com/world/2022/apr/28/russia-kyiv-cruise-missile-strike-biden-guterres)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/blog/2022/apr/29/premier-league-10-things-to-look-out-for-this-weekend)
+- [Loud boom and streaking fireball stirs panic in three US states](https://www.theguardian.com/us-news/2022/apr/28/loud-boom-and-streaking-fireball-stirs-panic-in-three-us-states)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

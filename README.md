@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Who created to the link that posts Hacker News to Reddit](https://news.ycombinator.com/item?id=31188589)
-- [Seroprevalence of Infection-Induced SARS-CoV-2 Antibodies](https://www.cdc.gov/mmwr/volumes/71/wr/mm7117e3.htm)
-- [Is the profitable business of scientific publishing bad for science? &lpar;2017&rpar;](https://www.theguardian.com/science/2017/jun/27/profitable-business-scientific-publishing-bad-for-science)
-- [Homemade Solar-Powered CNC Engraver](https://www.youtube.com/watch?v=WO-ny20IhV0)
-- [Biden Claims School Children Don’t Belong to Parents ‘When They’re in Classroom’](https://www.nationalreview.com/news/biden-claims-school-children-dont-belong-to-parents-when-theyre-in-the-classroom/)
-- [China detects first human case of H3N8 bird flu strain](https://www.theguardian.com/environment/2022/apr/27/first-human-case-h3n8-bird-flu-strain-china)
-- [NASA Sees ‘Otherworldly’ Wreckage on Mars with Ingenuity Helicopter](https://www.nytimes.com/2022/04/27/science/nasa-mars-wreckage-photo.html)
-- [Squats Power Your Life](https://www.axios.com/squat-exercise-benefits-core-lower-back-strength-224a580b-b7a8-4990-96d1-da92f2ddae9d.html)
-- [The Cloud Native Community Cookbook](https://github.com/cncf/cloud-native-community-cookbook)
-- [Start Small](https://patzhong.com/start-small/)
+- [You Should Compile Your Python and Here’s Why](https://glyph.twistedmatrix.com/2022/04/you-should-compile-your-python-and-heres-why.html)
+- [Researchers find Amazon uses Alexa voice data to target you with ads](https://www.theverge.com/2022/4/28/23047026/amazon-alexa-voice-data-targeted-ads-research-report)
+- [What Was the First Concert You Attended?](https://hunterwalk.com/2022/04/28/what-was-the-first-concert-you-attended%ef%bf%bc/)
+- [Agility Starts with Trust](https://stackoverflow.blog/2022/04/28/agility-starts-with-trust/)
+- [Underscoring the importance of native type methods in Python](https://stackoverflow.blog/2022/04/27/underscoring-or-dunder-scoring-the-importance-of-native-type-methods-in-python/)
+- [Ask HN: Reasoning for Animal Rights](https://news.ycombinator.com/item?id=31200923)
+- [Experiments on Air by Henry Cavendish &lpar;1784&rpar;](https://royalsocietypublishing.org/doi/10.1098/rstl.1784.0014)
+- [Challenges with Alternative Name Systems [pdf]](https://www.icann.org/en/system/files/files/octo-034-27apr22-en.pdf)
+- [California investigating oil companies role in plastic pollution crisis](https://www.npr.org/2022/04/28/1095305949/california-is-investigating-big-oil-for-allegedly-misleading-the-public-on-recyc)
+- [A London Accent from the 14th to the 21st Centuries](https://www.youtube.com/watch?v=3lXv3Tt4x20)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

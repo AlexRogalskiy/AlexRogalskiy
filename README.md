@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Using LSP in Emacs and Debian](https://anarc.at/blog/2022-04-27-lsp-in-debian/)
-- [Few-Shot Head Swapping in the Wild](https://jmliu88.github.io/HeSer/)
-- [Do developers think Web3 will build a better internet?](https://stackoverflow.blog/2022/04/20/new-data-developers-web3/)
-- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Machine Learning Research Engineers](https://news.ycombinator.com/item?id=31187695)
-- [The death rate for children has dropped dramatically](https://www.npr.org/sections/goatsandsoda/2022/04/27/1093856457/the-death-rate-for-children-has-dropped-dramatically-yet-theres-cause-for-alarm)
-- [Terraform Provider for Spotify](https://github.com/conradludgate/terraform-provider-spotify)
-- [How I put my whole life into a single database](https://krausefx.com//blog/how-i-put-my-whole-life-into-a-single-database)
-- [Show HN: Create awkward situations with a fake iMessage Popup](https://github.com/adnanaga/pushy)
-- [The Kia Instrument](https://www.kia.com/us/en/movement/our-instrument)
-- [North Koreans are jailbreaking phones to access forbidden media](https://www.wired.com/story/north-korean-phone-jailbreakers/)
+- [Old Apps Sometimes Die](https://mdj.substack.com/p/old-apps-sometimes-die)
+- [From seawater to drinking water, with the push of a button](https://news.mit.edu/2022/portable-desalination-drinking-water-0428)
+- [Airbnb’s design to live and work anywhere](https://news.airbnb.com/airbnbs-design-to-live-and-work-anywhere/)
+- [Crafting Interpreters](https://craftinginterpreters.com/the-lox-language.html)
+- [Redox OS 0.7.0](https://www.redox-os.org/news/release-0.7.0/)
+- [DeepSource &lpar;YC W20&rpar; Is Hiring Senior Site Reliability Engineers](https://deepsource.io/jobs/listing/senior-site-reliability-engineer/4289150004/)
+- [Bits of Advice I Wish I Had Known](https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/)
+- [The Twelve-Factor App &lpar;2011&rpar;](https://12factor.net/)
+- [Details emerge of Air France B777 landing incident](https://www.aerotime.aero/articles/30863-air-france-boeing-777-incident-bea-update)
+- [Hide a photo inside another photo](https://www.avestura.dev/blog/hide-a-photo-inside-another-photo)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Think the video call mute button keeps you safe? Think again](https://www.computerworld.com/article/3658974/think-the-video-call-mute-button-keeps-you-safe-think-again.html#tk.rss_all)
+- [Salesforce extends Flow automations across Mulesoft, Slack and Tableau](https://www.computerworld.com/article/3658849/salesforce-extends-flow-automations-across-mulesoft-slack-and-tableau.html#tk.rss_all)
+- [In the new workplace, all we want is a chance to Flow and grow](https://www.computerworld.com/article/3658991/in-the-new-workplace-all-we-want-is-a-chance-to-flow-and-grow.html#tk.rss_all)
+- [Low-code tools can fill a void caused by the Great Resignation](https://www.computerworld.com/article/3658908/how-low-code-tools-are-filling-a-void-caused-by-the-great-resignation.html#tk.rss_all)
 - [Salesforce gives developers tools to integrate with Slack apps](https://www.computerworld.com/article/3658829/salesforce-gives-developers-tools-to-integrate-with-slack-apps.html#tk.rss_all)
 - [The hybrid workplace needs to work for everybody](https://www.computerworld.com/article/3658399/the-hybrid-workplace-needs-to-work-for-everybody.html#tk.rss_all)
 - [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
 - [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
 - [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
 - [Enterprise tech? Don’t forget to make it human](https://www.computerworld.com/article/3658555/enterprise-tech-dont-forget-to-make-it-human.html#tk.rss_all)
-- [Tech event calendar 2022: Upcoming US shows, conferences, and IT expos](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
-- [Cloud boosts Microsoft’s strong third quarter](https://www.computerworld.com/article/3658238/cloud-boosts-microsoft-s-strong-third-quarter.html#tk.rss_all)
-- [3 invisible reasons to get excited about Android 13](https://www.computerworld.com/article/3658553/android-13-beta.html#tk.rss_all)
-- [Noteworthy tech acquisitions 2022](https://www.computerworld.com/article/3646533/noteworthy-tech-acquisitions-2022.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

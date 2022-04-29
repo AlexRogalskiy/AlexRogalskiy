@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Log4Shell, ProxyLogon, ProxyShell among most exploited bugs of 2021](https://www.computerweekly.com/news/252516414/Log4Shell-ProxyLogon-ProxyShell-among-most-exploited-bugs-of-2021)
-- [Russia-supporting cyber crime gang claims Coca-Cola as victim](https://www.computerweekly.com/news/252516406/Russia-supporting-cyber-crime-gang-claims-Coca-Cola-as-victim)
-- [Leeds Beckett’s ethical hacking platform wins Innovate UK backing](https://www.computerweekly.com/news/252516404/Leeds-Becketts-ethical-hacking-platform-wins-Innovate-UK-backing)
-- [Disappointing earnings at Google, but cloud still strong](https://www.computerweekly.com/news/252516403/Disappointing-earnings-at-Google-but-cloud-still-strong)
-- [Ransomware victims paying out when they don’t need to](https://www.computerweekly.com/news/252516392/Ransomware-victims-paying-out-when-they-dont-need-to)
-- [Microsoft shows inflation-busting growth, driven by cloud adoption](https://www.computerweekly.com/news/252516383/Microsoft-shows-inflation-busting-growth-driven-by-cloud-adoption)
-- [Royal Holloway: Deep learning for countering energy theft](https://www.computerweekly.com/ehandbook/Royal-Holloway-Deep-learning-for-countering-energy-theft)
-- [Why it makes sense to use best-of-breed SaaS to power a business strategy](https://www.computerweekly.com/opinion/Why-it-makes-sense-to-use-best-of-breed-SaaS-to-power-a-business-strategy)
-- [Digital begins in the boardroom](https://www.computerweekly.com/opinion/Digital-begins-in-the-boardroom)
-- [Emotet tests new tricks to thwart enhanced security](https://www.computerweekly.com/news/252516348/Emotet-tests-new-tricks-to-thwart-enhanced-security)
+- [Ransomware recovery costs dwarf actual ransoms](https://www.computerweekly.com/news/252516478/Ransomware-recovery-costs-dwarf-actual-ransoms)
+- [Men don’t need to help women in tech, say IT professionals](https://www.computerweekly.com/news/252516488/Men-dont-need-to-help-women-in-tech-say-IT-professionals)
+- [UK regulators seek input on algorithmic processing and auditing](https://www.computerweekly.com/news/252516484/UK-regulators-seek-input-on-algorithmic-processing-and-auditing)
+- [More than 38,000 UK tech firms incorporated in 2021](https://www.computerweekly.com/news/252516471/More-than-38000-UK-tech-firms-incorporated-in-2021)
+- [Sanders calls on Biden to cut off federal contracts with Amazon](https://www.computerweekly.com/news/252516472/Sanders-calls-on-Biden-to-cut-off-federal-contracts-with-Amazon)
+- [Metaverse, women in software – Computer Weekly Downtime Upload podcast](https://www.computerweekly.com/podcast/Metaverse-women-in-software-Computer-Weekly-Downtime-Upload-podcast)
+- [Russia plumbs new depths in cyber war on Ukraine](https://www.computerweekly.com/news/252516466/Russia-plumbs-new-depths-in-cyber-war-on-Ukraine)
+- [MITRE ATT&amp;CK: Climb to the top](https://www.computerweekly.com/ehandbook/MITRE-ATTCK-Climb-to-the-top)
+- [Royal Holloway: Security evaluation of network traffic mirroring in public cloud](https://www.computerweekly.com/ehandbook/Royal-Holloway-Security-evaluation-of-network-traffic-mirroring-in-public-cloud)
+- [CIOs have the greatest impact on business](https://www.computerweekly.com/news/252516464/CIOs-have-the-greatest-impact-on-business)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

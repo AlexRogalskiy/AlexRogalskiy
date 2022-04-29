@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Should this work?](https://www.reddit.com/r/InformationTechnology/comments/ue37jo/should_this_work/)
+- [Networked Devices - Network+](https://www.reddit.com/r/InformationTechnology/comments/ue33db/networked_devices_network/)
+- [If you were hiring a student assistant &lpar;1st level technical support&rpar; besides the obvious entry level IT knowledge, what specifics would you want them to know?](https://www.reddit.com/r/InformationTechnology/comments/ue0k76/if_you_were_hiring_a_student_assistant_1st_level/)
+- [How much do you spend on cloud infrastructure?](https://www.reddit.com/r/InformationTechnology/comments/udyu27/how_much_do_you_spend_on_cloud_infrastructure/)
+- [Is it possible for people in IT to find out your address when they only know your full name, university name, student ID, class, email and Facebook?](https://www.reddit.com/r/InformationTechnology/comments/udu99h/is_it_possible_for_people_in_it_to_find_out_your/)
 - [Looking for a decent crash-course with MECM](https://www.reddit.com/r/InformationTechnology/comments/udia69/looking_for_a_decent_crashcourse_with_mecm/)
 - [Hoping someone might have a suggestion? Looking for options for remote desktops for multiple at home users to login to a SINGLE workstation?](https://www.reddit.com/r/InformationTechnology/comments/udhmhe/hoping_someone_might_have_a_suggestion_looking/)
 - [IT entry level job?](https://www.reddit.com/r/InformationTechnology/comments/udeu7i/it_entry_level_job/)
 - [Considering a fresh start in IT. Feeling lost. Is the &quot;job shortage&quot; a myth for entry-level tech roles?](https://www.reddit.com/r/InformationTechnology/comments/udd5t1/considering_a_fresh_start_in_it_feeling_lost_is/)
 - [Questions about an IT certification](https://www.reddit.com/r/InformationTechnology/comments/ud84ub/questions_about_an_it_certification/)
-- [Salary expectation with my credentials?](https://www.reddit.com/r/InformationTechnology/comments/ucvkv8/salary_expectation_with_my_credentials/)
-- [be honest, how often are y&#39;all on reddit at work](https://www.reddit.com/r/InformationTechnology/comments/ucdha7/be_honest_how_often_are_yall_on_reddit_at_work/)
-- [Entry-level WFH Helpdesk Jobs...Worth it?](https://www.reddit.com/r/InformationTechnology/comments/ubrlu7/entrylevel_wfh_helpdesk_jobsworth_it/)
-- [Cutting the cord on the enterprise level?](https://www.reddit.com/r/InformationTechnology/comments/ubqp39/cutting_the_cord_on_the_enterprise_level/)
-- [Decimals to hexadecimal](https://www.reddit.com/r/InformationTechnology/comments/ubo8u5/decimals_to_hexadecimal/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

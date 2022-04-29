@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Rogers plans to build a centre of excellence following Shaw merger](https://www.itworldcanada.com/article/rogers-plans-to-build-a-centre-of-excellence-following-shaw-merger/481701)
+- [IBM Canada officially opens flagship office in downtown Toronto](https://www.itworldcanada.com/article/ibm-canada-officially-opens-flagship-office-in-downtown-toronto/481717)
+- [Canadian company develops human-like AI meeting assistant](https://www.itworldcanada.com/article/canadian-company-develops-human-like-ai-meeting-assistant/480609)
+- [Bell announces the first AWS Wavelength Zone in Canada](https://www.itworldcanada.com/article/bell-announces-the-first-aws-wavelength-zone-in-canada/481732)
+- [Data Driven Policing in York Region  – Greg Stanisci, Manager of BI &amp; Data Analytics](https://www.itworldcanada.com/article/data-driven-policing-in-york-region-greg-stanisci-manager-of-bi-data-analytics/480491)
+- [Canadian Amazon employees make second attempt at union certification](https://www.itworldcanada.com/article/canadian-amazon-employees-make-second-attempt-at-union-certification/481299)
+- [Four of the top 15 vulnerabilities used last year by hackers were more than a year old: Report](https://www.itworldcanada.com/article/four-of-the-top-15-vulnerabilities-used-last-year-by-hackers-were-more-than-a-year-old-report/481659)
+- [Hashtag Trending April 28 – Twitch cut streamer pay; Apple hides old apps; Tesla stock woes](https://www.itworldcanada.com/article/hashtag-trending-april-28-twitch-cut-streamer-pay-apple-hide-old-apps-tesla-stock-woes/481461)
 - [Spirit of innovation on display at Channel Innovation Awards](https://www.itworldcanada.com/article/spirit-of-innovation-on-display-at-channel-innovation-awards/481446)
 - [E-waste, tech’s big dirty secret](https://www.itworldcanada.com/article/e-waste-techs-big-dirty-secret/481142)
-- [Fewer insurers offering cyber coverage — and its harder to get — says Sophos ransomware report](https://www.itworldcanada.com/article/fewer-insurers-offering-cyber-coverage-and-its-harder-to-get-says-sophos-ransomware-report/481371)
-- [Cyber Security Today, April 27, 2022 – Lots of software still has log4j2 vulnerabilities, hackers took only days to exploit a VMware vulnerability and more](https://www.itworldcanada.com/article/cyber-security-today-april-27-2022-lots-of-software-still-has-log4j2-vulnerabilities-hackers-took-only-days-to-exploit-a-vmware-vulnerability-and-more/481354)
-- [Hashtag Trending April 27 –  Backflash following Elon Musk’s Twitter deal, Brooklyn library offers digital access to banned books; Meta](https://www.itworldcanada.com/article/hashtag-trending-april-27-backflash-following-elon-musks-twitter-deal-brooklyn-library-offers-digital-access-to-banned-books-meta/481382)
-- [Earth Day Special Coffee Briefing April 26, 2022 – Telus launches Buy One, Plant One campaign; Intel commits to net-zero greenhouse gas emissions; and more](https://www.itworldcanada.com/article/earth-day-special-coffee-briefing-april-26-2022-telus-launches-buy-one-plant-one-campaign-intel-commits-to-net-zero-greenhouse-gas-emissions-and-more/481279)
-- [Hashtag Trending April 26 – Elon Musk strikes a deal with Twitter; low morale at Netflix; Apple must pay over absent iPhone charger](https://www.itworldcanada.com/article/hashtag-trending-april-26-elon-musk-strikes-a-deal-with-twitter-low-morale-at-netflix-apple-must-pay-over-absent-iphone-charger/481164)
-- [Northern Ontario city gets government funding to create a digital twin](https://www.itworldcanada.com/article/northern-ontario-city-gets-government-funding-to-create-a-digital-twin/480772)
-- [Elon Musk Acquires Twitter in a US$44 billion deal](https://www.itworldcanada.com/article/elon-musk-acquires-twitter-in-a-us44-billion-deal/481168)
-- [Quebec government embarrassed by web faux pas](https://www.itworldcanada.com/article/quebec-government-embarrassed-by-web-faux-pas/481137)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

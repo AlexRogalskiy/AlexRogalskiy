@@ -369,6 +369,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Why Consigli Went Low Code for Project Management](https://www.informationweek.com/devops/why-consigli-went-low-code-for-project-management)
+- [How We’re Doing on Humanizing the Digital Experience](https://www.informationweek.com/big-data/how-we-re-doing-on-humanizing-the-digital-experience)
 - [Bringing Shadow IT Into the Light](https://www.informationweek.com/software/bringing-shadow-it-into-the-light)
 - [4 Steps to Bolster Cybersecurity Defenses Throughout IT/OT Convergence](https://www.informationweek.com/security-and-risk-strategy/4-steps-to-bolster-cybersecurity-defenses-throughout-it-ot-convergence)
 - [AI Set to Disrupt Traditional Data Management Practices](https://www.informationweek.com/big-data/ai-set-to-disrupt-traditional-data-management-practices)
@@ -377,8 +379,6 @@
 - [Simplify Cloud Deployment Through Teamwork, Strategy](https://www.informationweek.com/cloud/simplify-cloud-deployment-through-teamwork-strategy)
 - [Secrets to Hiring Top Tech Talent](https://www.informationweek.com/it-life/secrets-to-hiring-top-tech-talent)
 - [New York Fintech Week: Startups Take Aim at Financial Inclusion](https://www.informationweek.com/fintech/new-york-fintech-week-startups-take-aim-at-financial-inclusion)
-- [Quick Study: Sustainability and ESG](https://www.informationweek.com/strategic-cio/quick-study-sustainability-and-esg)
-- [Estimating the Total Costs of Your Cloud Analytics Platform](https://www.informationweek.com/cloud/estimating-the-total-costs-of-your-cloud-analytics-platform)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

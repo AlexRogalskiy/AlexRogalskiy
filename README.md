@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Adobe Creative Cloud forcibly launching Google Chrome to Adobe ID login page even after disabling Adobe Services and Startup Programs?](https://www.reddit.com/r/InformationTechnology/comments/uf1iel/adobe_creative_cloud_forcibly_launching_google/)
+- [IT employees use an app that helps them with the whole code?](https://www.reddit.com/r/InformationTechnology/comments/uf07ba/it_employees_use_an_app_that_helps_them_with_the/)
+- [Low pay to start career?](https://www.reddit.com/r/InformationTechnology/comments/uexptk/low_pay_to_start_career/)
+- [External USB Drive Not Accessible](https://www.reddit.com/r/InformationTechnology/comments/uetrgr/external_usb_drive_not_accessible/)
+- [Ready? FIGHT!](https://www.reddit.com/r/InformationTechnology/comments/uemmxv/ready_fight/)
+- [New Office](https://www.reddit.com/r/InformationTechnology/comments/ueez7h/new_office/)
+- [Is an I.T Traineeship Worth It?](https://www.reddit.com/r/InformationTechnology/comments/uecz6e/is_an_it_traineeship_worth_it/)
 - [Should this work?](https://www.reddit.com/r/InformationTechnology/comments/ue37jo/should_this_work/)
 - [Networked Devices - Network+](https://www.reddit.com/r/InformationTechnology/comments/ue33db/networked_devices_network/)
 - [If you were hiring a student assistant &lpar;1st level technical support&rpar; besides the obvious entry level IT knowledge, what specifics would you want them to know?](https://www.reddit.com/r/InformationTechnology/comments/ue0k76/if_you_were_hiring_a_student_assistant_1st_level/)
-- [How much do you spend on cloud infrastructure?](https://www.reddit.com/r/InformationTechnology/comments/udyu27/how_much_do_you_spend_on_cloud_infrastructure/)
-- [Is it possible for people in IT to find out your address when they only know your full name, university name, student ID, class, email and Facebook?](https://www.reddit.com/r/InformationTechnology/comments/udu99h/is_it_possible_for_people_in_it_to_find_out_your/)
-- [Looking for a decent crash-course with MECM](https://www.reddit.com/r/InformationTechnology/comments/udia69/looking_for_a_decent_crashcourse_with_mecm/)
-- [Hoping someone might have a suggestion? Looking for options for remote desktops for multiple at home users to login to a SINGLE workstation?](https://www.reddit.com/r/InformationTechnology/comments/udhmhe/hoping_someone_might_have_a_suggestion_looking/)
-- [IT entry level job?](https://www.reddit.com/r/InformationTechnology/comments/udeu7i/it_entry_level_job/)
-- [Considering a fresh start in IT. Feeling lost. Is the &quot;job shortage&quot; a myth for entry-level tech roles?](https://www.reddit.com/r/InformationTechnology/comments/udd5t1/considering_a_fresh_start_in_it_feeling_lost_is/)
-- [Questions about an IT certification](https://www.reddit.com/r/InformationTechnology/comments/ud84ub/questions_about_an_it_certification/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

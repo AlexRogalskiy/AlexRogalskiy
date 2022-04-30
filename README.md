@@ -354,6 +354,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Otter.ai argues remote meetings can be more productive than in-person](https://www.computerworld.com/article/3658853/otterai-argues-remote-meetings-can-be-more-productive-than-in-person.html#tk.rss_all)
+- [It’s time to imagine the new workplace](https://www.computerworld.com/article/3658975/it-s-time-to-imagine-the-new-workplace.html#tk.rss_all)
+- [How to make a Windows 10 or 11 image backup](https://www.computerworld.com/article/3655693/how-to-make-image-backup-windows-10-windows-11.html#tk.rss_all)
 - [Think the video call mute button keeps you safe? Think again](https://www.computerworld.com/article/3658974/think-the-video-call-mute-button-keeps-you-safe-think-again.html#tk.rss_all)
 - [Salesforce extends Flow automations across Mulesoft, Slack and Tableau](https://www.computerworld.com/article/3658849/salesforce-extends-flow-automations-across-mulesoft-slack-and-tableau.html#tk.rss_all)
 - [In the new workplace, all we want is a chance to Flow and grow](https://www.computerworld.com/article/3658991/in-the-new-workplace-all-we-want-is-a-chance-to-flow-and-grow.html#tk.rss_all)
@@ -361,9 +364,6 @@
 - [Salesforce gives developers tools to integrate with Slack apps](https://www.computerworld.com/article/3658829/salesforce-gives-developers-tools-to-integrate-with-slack-apps.html#tk.rss_all)
 - [The hybrid workplace needs to work for everybody](https://www.computerworld.com/article/3658399/the-hybrid-workplace-needs-to-work-for-everybody.html#tk.rss_all)
 - [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
-- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
-- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
-- [Enterprise tech? Don’t forget to make it human](https://www.computerworld.com/article/3658555/enterprise-tech-dont-forget-to-make-it-human.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Elavon’s Interac payment system down across Canada](https://www.itworldcanada.com/article/elavons-interac-payment-system-down-across-canada/481968)
+- [Cyber Security Today, Week in Review for Friday April 29, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-april-29-2022/481515)
+- [Being AI SAVY drives exceptional service in a digital environment](https://www.itworldcanada.com/article/being-ai-savy-drives-exceptional-service-in-a-digital-environment/481115)
+- [Telus launches personal security beacons disguised as jewellery](https://www.itworldcanada.com/article/telus-launches-personal-security-beacons-disguised-as-jewellery/481775)
+- [Canada, U.S. in group of 61 nations vowing to work for an open internet](https://www.itworldcanada.com/article/canada-u-s-in-group-of-61-nations-vowing-to-work-for-an-open-internet/481889)
+- [Cyber Security Today, April 29, 2022 – Breast cancer website leaves data open, a warning on Microsoft Explorer and Facebook privacy controls questioned](https://www.itworldcanada.com/article/cyber-security-today-april-29-2022-breast-cancer-website-leaves-data-open-a-warning-on-microsoft-explorer-and-facebook-privacy-controls-questioned/481729)
+- [Hashtag Trending April 29 – Amazon lets warehouse workers keep their phones on the job; Zuckerberg doesn’t mind employee loss; PayPal shuts San Francisco office](https://www.itworldcanada.com/article/hashtag-trending-april-29-amazon-lets-warehouse-workers-keep-their-phones-on-the-job-zuckerberg-doesnt-mind-employee-loss-paypal-shuts-san-francisco-office/481866)
 - [Rogers plans to build a centre of excellence following Shaw merger](https://www.itworldcanada.com/article/rogers-plans-to-build-a-centre-of-excellence-following-shaw-merger/481701)
 - [IBM Canada officially opens flagship office in downtown Toronto](https://www.itworldcanada.com/article/ibm-canada-officially-opens-flagship-office-in-downtown-toronto/481717)
 - [Canadian company develops human-like AI meeting assistant](https://www.itworldcanada.com/article/canadian-company-develops-human-like-ai-meeting-assistant/480609)
-- [Bell announces the first AWS Wavelength Zone in Canada](https://www.itworldcanada.com/article/bell-announces-the-first-aws-wavelength-zone-in-canada/481732)
-- [Data Driven Policing in York Region  – Greg Stanisci, Manager of BI &amp; Data Analytics](https://www.itworldcanada.com/article/data-driven-policing-in-york-region-greg-stanisci-manager-of-bi-data-analytics/480491)
-- [Canadian Amazon employees make second attempt at union certification](https://www.itworldcanada.com/article/canadian-amazon-employees-make-second-attempt-at-union-certification/481299)
-- [Four of the top 15 vulnerabilities used last year by hackers were more than a year old: Report](https://www.itworldcanada.com/article/four-of-the-top-15-vulnerabilities-used-last-year-by-hackers-were-more-than-a-year-old-report/481659)
-- [Hashtag Trending April 28 – Twitch cut streamer pay; Apple hides old apps; Tesla stock woes](https://www.itworldcanada.com/article/hashtag-trending-april-28-twitch-cut-streamer-pay-apple-hide-old-apps-tesla-stock-woes/481461)
-- [Spirit of innovation on display at Channel Innovation Awards](https://www.itworldcanada.com/article/spirit-of-innovation-on-display-at-channel-innovation-awards/481446)
-- [E-waste, tech’s big dirty secret](https://www.itworldcanada.com/article/e-waste-techs-big-dirty-secret/481142)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

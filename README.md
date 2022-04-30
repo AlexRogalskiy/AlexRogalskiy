@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Podcast: War, geo-political risk, data storage and compliance](https://www.computerweekly.com/podcast/Podcast-War-geo-political-risk-and-data-storage-and-compliance)
+- [CIO interview: Jeffrey Wood, deputy director of ICT, Princess Alexandra Hospital NHS Trust](https://www.computerweekly.com/news/252516296/CIO-interview-Jeffrey-Wood-deputy-director-of-ICT-Princess-Alexandra-Hospital-NHS-Trust)
+- [Electric vehicle transition comes with uneven costs](https://www.computerweekly.com/feature/Electric-vehicle-transition-comes-with-uneven-costs)
+- [Attackers enlist cloud providers in large HTTPS DDoS hit](https://www.computerweekly.com/news/252516523/Attackers-enlist-cloud-providers-in-large-HTTPS-DDoS-hit)
+- [AWS grows as Amazon posts net loss](https://www.computerweekly.com/news/252516524/AWS-grows-as-Amazon-posts-net-loss)
+- [Totting up a decade of ones and zeros at the ODI](https://www.computerweekly.com/opinion/Totting-up-a-decade-of-ones-and-zeros-at-the-ODI)
 - [Ransomware recovery costs dwarf actual ransoms](https://www.computerweekly.com/news/252516478/Ransomware-recovery-costs-dwarf-actual-ransoms)
 - [Men don’t need to help women in tech, say IT professionals](https://www.computerweekly.com/news/252516488/Men-dont-need-to-help-women-in-tech-say-IT-professionals)
 - [UK regulators seek input on algorithmic processing and auditing](https://www.computerweekly.com/news/252516484/UK-regulators-seek-input-on-algorithmic-processing-and-auditing)
 - [More than 38,000 UK tech firms incorporated in 2021](https://www.computerweekly.com/news/252516471/More-than-38000-UK-tech-firms-incorporated-in-2021)
-- [Sanders calls on Biden to cut off federal contracts with Amazon](https://www.computerweekly.com/news/252516472/Sanders-calls-on-Biden-to-cut-off-federal-contracts-with-Amazon)
-- [Metaverse, women in software – Computer Weekly Downtime Upload podcast](https://www.computerweekly.com/podcast/Metaverse-women-in-software-Computer-Weekly-Downtime-Upload-podcast)
-- [Russia plumbs new depths in cyber war on Ukraine](https://www.computerweekly.com/news/252516466/Russia-plumbs-new-depths-in-cyber-war-on-Ukraine)
-- [MITRE ATT&amp;CK: Climb to the top](https://www.computerweekly.com/ehandbook/MITRE-ATTCK-Climb-to-the-top)
-- [Royal Holloway: Security evaluation of network traffic mirroring in public cloud](https://www.computerweekly.com/ehandbook/Royal-Holloway-Security-evaluation-of-network-traffic-mirroring-in-public-cloud)
-- [CIOs have the greatest impact on business](https://www.computerweekly.com/news/252516464/CIOs-have-the-greatest-impact-on-business)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

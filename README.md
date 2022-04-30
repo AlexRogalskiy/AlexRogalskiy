@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [You Should Compile Your Python and Here’s Why](https://glyph.twistedmatrix.com/2022/04/you-should-compile-your-python-and-heres-why.html)
-- [Researchers find Amazon uses Alexa voice data to target you with ads](https://www.theverge.com/2022/4/28/23047026/amazon-alexa-voice-data-targeted-ads-research-report)
-- [What Was the First Concert You Attended?](https://hunterwalk.com/2022/04/28/what-was-the-first-concert-you-attended%ef%bf%bc/)
-- [Agility Starts with Trust](https://stackoverflow.blog/2022/04/28/agility-starts-with-trust/)
-- [Underscoring the importance of native type methods in Python](https://stackoverflow.blog/2022/04/27/underscoring-or-dunder-scoring-the-importance-of-native-type-methods-in-python/)
-- [Ask HN: Reasoning for Animal Rights](https://news.ycombinator.com/item?id=31200923)
-- [Experiments on Air by Henry Cavendish &lpar;1784&rpar;](https://royalsocietypublishing.org/doi/10.1098/rstl.1784.0014)
-- [Challenges with Alternative Name Systems [pdf]](https://www.icann.org/en/system/files/files/octo-034-27apr22-en.pdf)
-- [California investigating oil companies role in plastic pollution crisis](https://www.npr.org/2022/04/28/1095305949/california-is-investigating-big-oil-for-allegedly-misleading-the-public-on-recyc)
-- [A London Accent from the 14th to the 21st Centuries](https://www.youtube.com/watch?v=3lXv3Tt4x20)
+- [How do you deal with team members that are seemingly not doing their job?](https://news.ycombinator.com/item?id=31213025)
+- [Want to hangout with other HN users?](https://us02web.zoom.us/j/89412089581)
+- [New options for removing your personally identifiable information from Search](https://blog.google/products/search/new-options-for-removing-your-personally-identifiable-information-from-search/)
+- [Posit Standard has been ratified and posted](https://posithub.org/)
+- [Robinhood Has a Crypto Trading Problem. It Might Soon Be Coinbase’s, Too](https://www.barrons.com/articles/robinhood-crypto-trading-volume-coinbase-51651244528)
+- [Ask HN: How do you choose your online usernames/handles?](https://news.ycombinator.com/item?id=31212945)
+- [California promised to close its last nuclear plant. Gov Newsom is reconsidering](https://www.latimes.com/environment/story/2022-04-29/california-promised-to-close-its-last-nuclear-plant-now-newsom-is-reconsidering)
+- [Stalemate at Stormont – Elections for the Northern Ireland Assembly](https://johnmenadue.com/jeff-kildea-stalemate-at-stormont-elections-for-the-northern-ireland-assembly/)
+- [When Google Calls You a Slur and Won’t Stop](https://www.youtube.com/watch?v=8LDEP3H0mkU)
+- [Lossless Data Compression with Neural Networks [pdf]](https://bellard.org/nncp/nncp.pdf)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

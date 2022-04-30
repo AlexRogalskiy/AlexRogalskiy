@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [2022 NFL draft live updates: Travon Walker taken No 1; Pickett is first quarterback taken](https://www.theguardian.com/sport/live/2022/apr/28/nfl-draft-picks-first-round-order-analysis)
-- [Russia-Ukraine war: Kyiv rocked by missile strikes during UN chief’s visit, Ukraine responds to ‘heinous act of barbarism’ – live](https://www.theguardian.com/world/live/2022/apr/28/russia-ukraine-war-putin-warns-of-lightning-fast-retaliation-if-west-intervenes-war-has-cost-ukraine-600bn-zelenskiy-says-live)
-- [Climate crisis – not China – is biggest threat to Pacific, say former leaders](https://www.theguardian.com/world/2022/apr/29/climate-crisis-not-china-is-biggest-threat-to-pacific-say-former-leaders)
-- [Will Elon Musk regret buying Twitter? – podcast](https://www.theguardian.com/technology/audio/2022/apr/29/will-elon-musk-regret-buying-twitter-podcast)
-- [Panic at Israeli airport as US family packs unexploded bombshell for flight home](https://www.theguardian.com/world/2022/apr/29/panic-at-israeli-airport-as-us-family-packs-unexploded-bombshell-for-flight-home)
-- [Slackers barred: testing Tokyo’s anti-procrastination cafe](https://www.theguardian.com/world/2022/apr/29/slackers-barred-testing-tokyos-anti-procrastination-cafe)
-- [Comedian James Corden to leave his CBS late-night show next year](https://www.theguardian.com/culture/2022/apr/28/comedian-james-corden-leave-cbs-late-night-show)
-- [Russia bombs Kyiv with cruise missiles during UN visit to Ukraine capital](https://www.theguardian.com/world/2022/apr/28/russia-kyiv-cruise-missile-strike-biden-guterres)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/blog/2022/apr/29/premier-league-10-things-to-look-out-for-this-weekend)
-- [Loud boom and streaking fireball stirs panic in three US states](https://www.theguardian.com/us-news/2022/apr/28/loud-boom-and-streaking-fireball-stirs-panic-in-three-us-states)
+- [Russia-Ukraine war: US damns Putin’s ‘cruelty and depravity’; Zelenskiy questions lack of powerful response to ‘humiliation’ of UN in Kyiv – live](https://www.theguardian.com/world/live/2022/apr/29/russia-ukraine-war-ukraine-decries-barbaric-missile-strikes-on-kyiv-russian-gains-in-donbas-come-at-significant-cost-says-uk-live)
+- [Judge denies Ghislaine Maxwell’s bid to overturn sex trafficking conviction](https://www.theguardian.com/us-news/2022/apr/29/ghislaine-maxwell-conviction-judge-denies)
+- [Twitter employees grill CEO Parag Agrawal over fears of post-Musk exodus](https://www.theguardian.com/technology/2022/apr/29/twitter-employees-elon-musk-parag-agrawal)
+- [Jerusalem review – Mark Rylance’s riveting return as ‘Rooster’ Byron](https://www.theguardian.com/stage/2022/apr/30/jerusalem-review-rylance-apollo-theatre-jez-butterworth-london-drama)
+- [Mother jailed for causing death of baby daughter in London flat](https://www.theguardian.com/uk-news/2022/apr/30/mother-jailed-for-causing-death-of-baby-daughter-in-london-flat)
+- [Mark Williams stages brilliant fightback against Judd Trump in semi-final](https://www.theguardian.com/sport/2022/apr/29/ronnie-osullivan-and-judd-trump-take-charge-in-crucible-semi-finals)
+- [Met seeks further bid to challenge high court ruling on Sarah Everard vigil](https://www.theguardian.com/uk-news/2022/apr/29/met-seeks-further-bid-to-challenge-high-court-ruling-over-sarah-everard-vigil)
+- [Pep Guardiola gives short shrift to Liverpool’s fixture complaints](https://www.theguardian.com/football/2022/apr/29/pep-guardiola-gives-short-shrift-to-liverpools-fixture-complaints)
+- [Hostile foreign states pose ‘real risk’ of influencing MPs’ cross-party groups](https://www.theguardian.com/uk-news/2022/apr/29/hostile-foreign-states-pose-real-risk-of-influencing-mps-groups)
+- [Four Just Stop Oil activists charged over protests at motorway service stations](https://www.theguardian.com/environment/2022/apr/29/four-climate-activists-charged-over-protests-at-motorway-service-stations)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

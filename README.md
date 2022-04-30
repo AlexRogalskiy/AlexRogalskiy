@@ -384,16 +384,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [shinytest2, Rhino R Shiny framework top news at Appsilon conference](https://www.infoworld.com/article/3658981/shinytest2-rhino-r-shiny-framework-top-news-at-appsilon-conference.html#tk.rss_all)
+- [AWS can’t help Amazon avoid first loss since 2015](https://www.infoworld.com/article/3659191/aws-can-t-help-amazon-avoid-first-loss-since-2015.html#tk.rss_all)
+- [Why public clouds lead with renewables](https://www.infoworld.com/article/3658911/why-public-clouds-lead-with-renewables.html#tk.rss_all)
+- [What is a data lake? Massively scalable storage for big data analytics](https://www.infoworld.com/article/3658333/what-is-a-data-lake-massively-scalable-storage-for-big-data-analytics.html#tk.rss_all)
 - [Deno 1.21 improves REPL, error handling](https://www.infoworld.com/article/3659188/deno-121-improves-repl-error-handling.html#tk.rss_all)
 - [Oracle Java popularity sliding, New Relic reports](https://www.infoworld.com/article/3658990/oracle-java-popularity-sliding-new-relic-reports.html#tk.rss_all)
-- [The JavaScript language features roundup](https://www.infoworld.com/article/3658393/the-javascript-language-features-roundup.html#tk.rss_all)
+- [8 great new JavaScript language features in ES12](https://www.infoworld.com/article/3658393/8-great-new-javascript-language-features-in-es12.html#tk.rss_all)
 - [How to work with Azure Functions in C#](https://www.infoworld.com/article/3281868/how-to-work-with-azure-functions-in-csharp.html#tk.rss_all)
 - [Akamai jumps into DBaaS market with Linode Managed Database](https://www.infoworld.com/article/3658949/akamai-jumps-into-dbaas-market-with-linode-managed-database.html#tk.rss_all)
 - [GraalVM speeds up native image builds](https://www.infoworld.com/article/3658988/graalvm-speeds-up-native-image-builds.html#tk.rss_all)
-- [New HPE offerings aim to turbocharge machine-learning implementation](https://www.infoworld.com/article/3658239/new-hpe-offerings-aim-to-turbocharge-machine-learning-implementation.html#tk.rss_all)
-- [Google Cloud sales chief Rob Enslin is leaving for UiPath](https://www.infoworld.com/article/3658557/google-cloud-sales-chief-rob-enslin-is-leaving-for-uipath.html#tk.rss_all)
-- [Low-code toolkit extends Salesforce platform to Slack apps](https://www.infoworld.com/article/3658135/low-code-toolkit-extends-salesforce-platform-to-slack-apps.html#tk.rss_all)
-- [Google Cloud props up a slow start to the year for Alphabet](https://www.infoworld.com/article/3658237/google-cloud-props-up-a-slow-start-to-the-year-for-alphabet.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

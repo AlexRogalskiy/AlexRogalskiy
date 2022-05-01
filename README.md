@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [How do you deal with team members that are seemingly not doing their job?](https://news.ycombinator.com/item?id=31213025)
-- [Want to hangout with other HN users?](https://us02web.zoom.us/j/89412089581)
-- [New options for removing your personally identifiable information from Search](https://blog.google/products/search/new-options-for-removing-your-personally-identifiable-information-from-search/)
-- [Posit Standard has been ratified and posted](https://posithub.org/)
-- [Robinhood Has a Crypto Trading Problem. It Might Soon Be Coinbase’s, Too](https://www.barrons.com/articles/robinhood-crypto-trading-volume-coinbase-51651244528)
-- [Ask HN: How do you choose your online usernames/handles?](https://news.ycombinator.com/item?id=31212945)
-- [California promised to close its last nuclear plant. Gov Newsom is reconsidering](https://www.latimes.com/environment/story/2022-04-29/california-promised-to-close-its-last-nuclear-plant-now-newsom-is-reconsidering)
-- [Stalemate at Stormont – Elections for the Northern Ireland Assembly](https://johnmenadue.com/jeff-kildea-stalemate-at-stormont-elections-for-the-northern-ireland-assembly/)
-- [When Google Calls You a Slur and Won’t Stop](https://www.youtube.com/watch?v=8LDEP3H0mkU)
-- [Lossless Data Compression with Neural Networks [pdf]](https://bellard.org/nncp/nncp.pdf)
+- [Mental illness doesn’t make you special](https://unherd.com/2022/04/mental-illness-doesnt-make-you-special/)
+- [Nobody Walks Around Feeling “Valid”](https://freddiedeboer.substack.com/p/nobody-walks-around-feeling-valid)
+- [Show HN: I&#39;m building the “chess.com” of speed cubing](https://www.cubedesk.io/home)
+- [Apple’s Not-So-Secret Plan to Take Another Gigantic Bite of the Microchip Market](https://www.wsj.com/articles/apples-not-so-secret-plan-to-take-another-gigantic-bite-of-the-microchip-market-11651291235)
+- [The World Needs a Pandemic Protection Team](https://www.wsj.com/articles/the-world-needs-a-pandemic-protection-team-11651153775)
+- [Booting the HP 1000E Vintage Computer at the Computerarium](https://www.youtube.com/watch?v=8afoxnf_r1s)
+- [UniFi-Cloudflare DDNS](https://unificloudflareddns.com/)
+- [Open Access and the Direction Moving Forward](https://scholarlykitchen.sspnet.org/2022/04/26/guest-post-open-access-and-the-direction-moving-forward/)
+- [Why Startup Founders Shouldn’t Divide Ownership Equally](https://www.wsj.com/articles/startup-founders-divide-ownership-11651096794)
+- [The “unlearning”of this generation&#39;s perspectives on valuations could be painful](https://twitter.com/bgurley/status/1520111743942418434)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

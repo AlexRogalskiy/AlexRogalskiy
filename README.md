@@ -414,6 +414,7 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Need to gain Sys Admin experience.](https://www.reddit.com/r/InformationTechnology/comments/uf98ai/need_to_gain_sys_admin_experience/)
 - [Adobe Creative Cloud forcibly launching Google Chrome to Adobe ID login page even after disabling Adobe Services and Startup Programs?](https://www.reddit.com/r/InformationTechnology/comments/uf1iel/adobe_creative_cloud_forcibly_launching_google/)
 - [IT employees use an app that helps them with the whole code?](https://www.reddit.com/r/InformationTechnology/comments/uf07ba/it_employees_use_an_app_that_helps_them_with_the/)
 - [Low pay to start career?](https://www.reddit.com/r/InformationTechnology/comments/uexptk/low_pay_to_start_career/)
@@ -423,7 +424,6 @@
 - [Is an I.T Traineeship Worth It?](https://www.reddit.com/r/InformationTechnology/comments/uecz6e/is_an_it_traineeship_worth_it/)
 - [Should this work?](https://www.reddit.com/r/InformationTechnology/comments/ue37jo/should_this_work/)
 - [Networked Devices - Network+](https://www.reddit.com/r/InformationTechnology/comments/ue33db/networked_devices_network/)
-- [If you were hiring a student assistant &lpar;1st level technical support&rpar; besides the obvious entry level IT knowledge, what specifics would you want them to know?](https://www.reddit.com/r/InformationTechnology/comments/ue0k76/if_you_were_hiring_a_student_assistant_1st_level/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

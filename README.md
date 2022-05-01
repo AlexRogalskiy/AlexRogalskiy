@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war: US damns Putin’s ‘cruelty and depravity’; Zelenskiy questions lack of powerful response to ‘humiliation’ of UN in Kyiv – live](https://www.theguardian.com/world/live/2022/apr/29/russia-ukraine-war-ukraine-decries-barbaric-missile-strikes-on-kyiv-russian-gains-in-donbas-come-at-significant-cost-says-uk-live)
-- [Judge denies Ghislaine Maxwell’s bid to overturn sex trafficking conviction](https://www.theguardian.com/us-news/2022/apr/29/ghislaine-maxwell-conviction-judge-denies)
-- [Twitter employees grill CEO Parag Agrawal over fears of post-Musk exodus](https://www.theguardian.com/technology/2022/apr/29/twitter-employees-elon-musk-parag-agrawal)
-- [Jerusalem review – Mark Rylance’s riveting return as ‘Rooster’ Byron](https://www.theguardian.com/stage/2022/apr/30/jerusalem-review-rylance-apollo-theatre-jez-butterworth-london-drama)
-- [Mother jailed for causing death of baby daughter in London flat](https://www.theguardian.com/uk-news/2022/apr/30/mother-jailed-for-causing-death-of-baby-daughter-in-london-flat)
-- [Mark Williams stages brilliant fightback against Judd Trump in semi-final](https://www.theguardian.com/sport/2022/apr/29/ronnie-osullivan-and-judd-trump-take-charge-in-crucible-semi-finals)
-- [Met seeks further bid to challenge high court ruling on Sarah Everard vigil](https://www.theguardian.com/uk-news/2022/apr/29/met-seeks-further-bid-to-challenge-high-court-ruling-over-sarah-everard-vigil)
-- [Pep Guardiola gives short shrift to Liverpool’s fixture complaints](https://www.theguardian.com/football/2022/apr/29/pep-guardiola-gives-short-shrift-to-liverpools-fixture-complaints)
-- [Hostile foreign states pose ‘real risk’ of influencing MPs’ cross-party groups](https://www.theguardian.com/uk-news/2022/apr/29/hostile-foreign-states-pose-real-risk-of-influencing-mps-groups)
-- [Four Just Stop Oil activists charged over protests at motorway service stations](https://www.theguardian.com/environment/2022/apr/29/four-climate-activists-charged-over-protests-at-motorway-service-stations)
+- [Russia-Ukraine war: Volodymyr Zelenskiy vows ‘Ukraine will be free’; Moscow says threat of nuclear war must be kept to minimum – live](https://www.theguardian.com/world/live/2022/apr/30/ukraine-latest-news-us-damns-putins-cruelty-and-depravity-zelenskiy-questions-lack-of-powerful-response-to-humiliation-of-un-in-kyiv-live)
+- [Katie Taylor retains undisputed lightweight title with split decision over Amanda Serrano: – live!](https://www.theguardian.com/sport/live/2022/apr/30/katie-taylor-v-amanda-serrano-fight-live)
+- [‘Troll factory’ spreading Russian pro-war lies online, says UK](https://www.theguardian.com/world/2022/may/01/troll-factory-spreading-russian-pro-war-lies-online-says-uk)
+- [Family of Hotel Rwanda hero launches $400m lawsuit over his alleged abduction](https://www.theguardian.com/world/2022/may/01/family-of-hotel-rwanda-hero-launches-400m-lawsuit-over-his-alleged-abduction)
+- [20 of the best sunglasses to wear now – in pictures](https://www.theguardian.com/fashion/gallery/2022/apr/30/20-of-the-best-sunglasses-to-wear-now-in-pictures)
+- [We Love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2022/apr/30/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Berkshire Hathaway shareholders vote to keep Warren Buffett as chair](https://www.theguardian.com/us-news/2022/apr/30/berkshire-hathaway-shareholders-vote-to-keep-warren-buffett-as-chair)
+- [Bill Murray admits behaviour on set towards a woman led to halt to film](https://www.theguardian.com/film/2022/apr/30/bill-murray-admits-behaviour-on-set-towards-a-woman-led-to-halt-to-film)
+- [Israeli forces arrest suspected killers of Jewish settlement guard](https://www.theguardian.com/world/2022/apr/30/israeli-and-palestinian-killed-in-separate-west-bank-shootings)
+- [More than 1,000 firefighters battle 150 square mile wildfire in New Mexico](https://www.theguardian.com/world/2022/apr/30/more-than-1000-firefighters-battle-150-square-mile-wildfire-in-new-mexico)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

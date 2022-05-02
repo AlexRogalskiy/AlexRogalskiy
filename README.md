@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Mental illness doesn’t make you special](https://unherd.com/2022/04/mental-illness-doesnt-make-you-special/)
-- [Nobody Walks Around Feeling “Valid”](https://freddiedeboer.substack.com/p/nobody-walks-around-feeling-valid)
-- [Show HN: I&#39;m building the “chess.com” of speed cubing](https://www.cubedesk.io/home)
-- [Apple’s Not-So-Secret Plan to Take Another Gigantic Bite of the Microchip Market](https://www.wsj.com/articles/apples-not-so-secret-plan-to-take-another-gigantic-bite-of-the-microchip-market-11651291235)
-- [The World Needs a Pandemic Protection Team](https://www.wsj.com/articles/the-world-needs-a-pandemic-protection-team-11651153775)
-- [Booting the HP 1000E Vintage Computer at the Computerarium](https://www.youtube.com/watch?v=8afoxnf_r1s)
-- [UniFi-Cloudflare DDNS](https://unificloudflareddns.com/)
-- [Open Access and the Direction Moving Forward](https://scholarlykitchen.sspnet.org/2022/04/26/guest-post-open-access-and-the-direction-moving-forward/)
-- [Why Startup Founders Shouldn’t Divide Ownership Equally](https://www.wsj.com/articles/startup-founders-divide-ownership-11651096794)
-- [The “unlearning”of this generation&#39;s perspectives on valuations could be painful](https://twitter.com/bgurley/status/1520111743942418434)
+- [Lenny&#39;s history and why he isn&#39;t Creative Commons &lpar;2016&rpar;](https://old.reddit.com/r/itslenny/comments/5lcfwq/lennys_history_why_he_isnt_creative_commons/)
+- [Surface temperature tops 60°C in parts of north India, satellite images show](https://www.hindustantimes.com/india-news/surface-temp-tops-60-c-satellite-images-show-101651343166998.html)
+- [Upcoming feature in PostgreSQL 15 – MERGE statement](https://www.highgo.ca/2022/04/30/upcoming-feature-in-postgresql-15-merge-statement/)
+- [Ukraine Is Now America&#39;s War, Too](https://www.newyorker.com/news/daily-comment/ukraine-is-now-americas-war-too)
+- [Deep in the Swamps, How Fugitive Slaves Kept Their Freedom](https://www.smithsonianmag.com/history/deep-swamps-archaeologists-fugitive-slaves-kept-freedom-180960122/)
+- [The Great Resignation is becoming a “great midlife crisis”](https://www.vox.com/recode/23042785/the-great-resignation-older-tenured-higher-paid)
+- [Welcome to the World PyScript](https://engineering.anaconda.com/2022/04/welcome-pyscript.html)
+- [Under Kover. Digging into coverage tools](https://www.meetup.com/Kotlin-Mumbai/events/285569964/)
+- [Detecting account sharing and repeated trials in Firebase Auth with Userwatch](https://www.userwat.ch/blog/firebase-auth-account-sharing-repeated-trials/)
+- [The FAFSA form included code that sent personal information back to Facebook](https://themarkup.org/pixel-hunt/2022/04/28/applied-for-student-aid-online-facebook-saw-you)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

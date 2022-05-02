@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Create YouTube playlists as links without having to log into YouTube](https://playlists.at/youtube/)
-- [Recommendation for the mom of a soon to be college aged “tech geared” student?](https://news.ycombinator.com/item?id=31221142)
-- [Picasso: Lightweight Device Class Fingerprinting Web Clients – Google Research](https://research.google/pubs/pub45581/)
-- [Rust from 0 to 80% for JavaScript Developers](https://michaelsalim.co.uk/blog/rust-from-0-to-80-for-js-dev/)
-- [Software Jailbreak for Any Kindle](https://www.mobileread.com/forums/showthread.php?t=346037)
-- [Internet Archive joins opposition to the “SMART Copyright Act”](http://blog.archive.org/2022/03/29/internet-archive-joins-opposition-to-the-smart-copyright-act/)
-- [GnuCash](https://www.gnucash.org/)
-- [Limitations of DALL-E](https://twitter.com/benjamin_hilton/status/1520032772072607747)
-- [Noto emoji, a new black and white emoji font with less color](https://developers.googleblog.com/2022/04/what-is-black-and-white-and-read-all.html)
-- [I&#39;ve used all the notebooks](https://tylercipriani.com/blog/2022/04/30/ive-used-all-the-notebooks/)
+- [The Game: A continually-run D&amp;D campaign, since 1982](https://thegamednd.com/the-game-out-of-game/)
+- [Greatest Con](https://worldsgreatestcon.fireside.fm/)
+- [Racket v8.5](https://blog.racket-lang.org/2022/04/racket-v8-5.html)
+- [I won free load testing](https://fasterthanli.me/articles/i-won-free-load-testing)
+- [Strengths, weaknesses, opportunities, and threats facing the GNU Autotools](https://www.owlfolio.org/development/autoconf-swot/)
+- [Decision looms for controversial Poseidon desalination plant](https://www.latimes.com/socal/daily-pilot/news/story/2022-04-26/decision-looms-for-poseidon-desalination-plant)
+- [Occlusion Grotesque Experimental Typeface &lpar;2021&rpar;](https://bjoernkarmann.dk/occlusion-grotesque)
+- [Fonoster: The open-source alternative to Twilio](https://github.com/fonoster/fonoster)
+- [My Experience Getting a Tech Job with No Degree or Relevant Work Experience](https://lowlyswe.substack.com/p/my-experience-getting-a-tech-job)
+- [Oil Wells Hidden in Plain Sight in L.A](https://www.lamag.com/citythinkblog/hidden-oil-wells/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

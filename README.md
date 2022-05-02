@@ -429,6 +429,7 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [This Week in Ransomware – Friday, April 29, 2022](https://www.itworldcanada.com/article/this-week-in-ransomware-friday-april-29-2022/482090)
 - [Elavon’s Interac payment system down across Canada](https://www.itworldcanada.com/article/elavons-interac-payment-system-down-across-canada/481968)
 - [Cyber Security Today, Week in Review for Friday April 29, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-april-29-2022/481515)
 - [Being AI SAVY drives exceptional service in a digital environment](https://www.itworldcanada.com/article/being-ai-savy-drives-exceptional-service-in-a-digital-environment/481115)
@@ -438,7 +439,6 @@
 - [Hashtag Trending April 29 – Amazon lets warehouse workers keep their phones on the job; Zuckerberg doesn’t mind employee loss; PayPal shuts San Francisco office](https://www.itworldcanada.com/article/hashtag-trending-april-29-amazon-lets-warehouse-workers-keep-their-phones-on-the-job-zuckerberg-doesnt-mind-employee-loss-paypal-shuts-san-francisco-office/481866)
 - [Rogers plans to build a centre of excellence following Shaw merger](https://www.itworldcanada.com/article/rogers-plans-to-build-a-centre-of-excellence-following-shaw-merger/481701)
 - [IBM Canada officially opens flagship office in downtown Toronto](https://www.itworldcanada.com/article/ibm-canada-officially-opens-flagship-office-in-downtown-toronto/481717)
-- [Canadian company develops human-like AI meeting assistant](https://www.itworldcanada.com/article/canadian-company-develops-human-like-ai-meeting-assistant/480609)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

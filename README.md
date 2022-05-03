@@ -369,6 +369,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Priorities of Highly Successful Chief Data Officers](https://www.informationweek.com/big-data/priorities-of-highly-successful-chief-data-officers)
+- [The Genesis of Artificial Intelligence and Digital Twins](https://www.informationweek.com/big-data/the-genesis-of-artificial-intelligence-and-digital-twins)
+- [Building Data Literacy: What CDOs Need to Know](https://www.informationweek.com/big-data/building-data-literacy-what-cdos-need-to-know)
 - [California Association of Realtors Discusses Its Cloud Migration](https://www.informationweek.com/cloud/california-association-of-realtors-discusses-its-cloud-migration)
 - [Overcoming Technical Debt Requires a Strategic Approach](https://www.informationweek.com/cloud/overcoming-technical-debt-requires-a-strategic-approach)
 - [Who Owns Your Hybrid Work Strategy?](https://www.informationweek.com/strategic-cio/who-owns-your-hybrid-work-strategy-)
@@ -376,9 +379,6 @@
 - [How We’re Doing on Humanizing the Digital Experience](https://www.informationweek.com/big-data/how-we-re-doing-on-humanizing-the-digital-experience)
 - [Bringing Shadow IT Into the Light](https://www.informationweek.com/software/bringing-shadow-it-into-the-light)
 - [4 Steps to Bolster Cybersecurity Defenses Throughout IT/OT Convergence](https://www.informationweek.com/security-and-risk-strategy/4-steps-to-bolster-cybersecurity-defenses-throughout-it-ot-convergence)
-- [AI Set to Disrupt Traditional Data Management Practices](https://www.informationweek.com/big-data/ai-set-to-disrupt-traditional-data-management-practices)
-- [Enterprise Guide to Robotic Process Automation](https://www.informationweek.com/ai-or-machine-learning/enterprise-guide-to-robotic-process-automation)
-- [Avoid Automation Headaches: Unify Your Approach to Hyperautomation on a Single Platform](https://www.informationweek.com/devops/avoid-automation-headaches-unify-your-approach-to-hyperautomation-on-a-single-platform)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

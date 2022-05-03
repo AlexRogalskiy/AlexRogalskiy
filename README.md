@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Canada should limit police use of facial recognition technology, say privacy commissioners](https://www.itworldcanada.com/article/canada-should-limit-police-use-of-facial-recognition-technology-say-privacy-commissioners/482311)
+- [Poilievre would prevent digital currency run by Bank of Canada](https://www.itworldcanada.com/article/poilievre-would-prevent-digital-currency-run-by-bank-of-canada/481921)
+- [Snap announces new features for Snapchat platform](https://www.itworldcanada.com/article/snap-announces-new-features-for-snapchat-platform/482329)
+- [Cybersecurity course for disadvantaged youth now offered by Canadian agency](https://www.itworldcanada.com/article/cybersecurity-course-for-disadvantaged-youth-now-offered-by-canadian-agency/482256)
+- [Cyber Security Today, May 2, 2022 – More on how the Conti ransomware gang works, individuals victimized by ransomware, news on wiperware and more](https://www.itworldcanada.com/article/cyber-security-today-may-2-2022-more-on-how-the-conti-ransomware-gang-works-individuals-victimized-by-ransomware-news-on-wiperware-and-more/482221)
+- [Hashtag Trending May 2 – Stop using Internet Explorer; AI tool to detect deep fakes; cryptomining in Texas rivals Hustan energy use](https://www.itworldcanada.com/article/hashtag-trending-may-2-stop-using-internet-explorer-ai-tool-to-detect-deep-fakes-cryptomining-in-texas-rivals-hustan-energy-use/482263)
 - [This Week in Ransomware – Friday, April 29, 2022](https://www.itworldcanada.com/article/this-week-in-ransomware-friday-april-29-2022/482090)
-- [Elavon’s Interac payment system down across Canada](https://www.itworldcanada.com/article/elavons-interac-payment-system-down-across-canada/481968)
+- [Six hour outage of Elavon’s Interac payment system resolved](https://www.itworldcanada.com/article/elavons-interac-payment-system-down-across-canada/481968)
 - [Cyber Security Today, Week in Review for Friday April 29, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-april-29-2022/481515)
 - [Being AI SAVY drives exceptional service in a digital environment](https://www.itworldcanada.com/article/being-ai-savy-drives-exceptional-service-in-a-digital-environment/481115)
-- [Telus launches personal security beacons disguised as jewellery](https://www.itworldcanada.com/article/telus-launches-personal-security-beacons-disguised-as-jewellery/481775)
-- [Canada, U.S. in group of 61 nations vowing to work for an open internet](https://www.itworldcanada.com/article/canada-u-s-in-group-of-61-nations-vowing-to-work-for-an-open-internet/481889)
-- [Cyber Security Today, April 29, 2022 – Breast cancer website leaves data open, a warning on Microsoft Explorer and Facebook privacy controls questioned](https://www.itworldcanada.com/article/cyber-security-today-april-29-2022-breast-cancer-website-leaves-data-open-a-warning-on-microsoft-explorer-and-facebook-privacy-controls-questioned/481729)
-- [Hashtag Trending April 29 – Amazon lets warehouse workers keep their phones on the job; Zuckerberg doesn’t mind employee loss; PayPal shuts San Francisco office](https://www.itworldcanada.com/article/hashtag-trending-april-29-amazon-lets-warehouse-workers-keep-their-phones-on-the-job-zuckerberg-doesnt-mind-employee-loss-paypal-shuts-san-francisco-office/481866)
-- [Rogers plans to build a centre of excellence following Shaw merger](https://www.itworldcanada.com/article/rogers-plans-to-build-a-centre-of-excellence-following-shaw-merger/481701)
-- [IBM Canada officially opens flagship office in downtown Toronto](https://www.itworldcanada.com/article/ibm-canada-officially-opens-flagship-office-in-downtown-toronto/481717)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

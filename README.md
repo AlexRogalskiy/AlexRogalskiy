@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The Game: A continually-run D&amp;D campaign, since 1982](https://thegamednd.com/the-game-out-of-game/)
-- [Greatest Con](https://worldsgreatestcon.fireside.fm/)
-- [Racket v8.5](https://blog.racket-lang.org/2022/04/racket-v8-5.html)
-- [I won free load testing](https://fasterthanli.me/articles/i-won-free-load-testing)
-- [Strengths, weaknesses, opportunities, and threats facing the GNU Autotools](https://www.owlfolio.org/development/autoconf-swot/)
-- [Decision looms for controversial Poseidon desalination plant](https://www.latimes.com/socal/daily-pilot/news/story/2022-04-26/decision-looms-for-poseidon-desalination-plant)
-- [Occlusion Grotesque Experimental Typeface &lpar;2021&rpar;](https://bjoernkarmann.dk/occlusion-grotesque)
-- [Fonoster: The open-source alternative to Twilio](https://github.com/fonoster/fonoster)
-- [My Experience Getting a Tech Job with No Degree or Relevant Work Experience](https://lowlyswe.substack.com/p/my-experience-getting-a-tech-job)
-- [Oil Wells Hidden in Plain Sight in L.A](https://www.lamag.com/citythinkblog/hidden-oil-wells/)
+- [Meta announces a GPT3-size language model you can download](https://arxiv.org/abs/2205.01068)
+- [A first for Canada: New type of nuclear plant opening by 2028](https://www.theweathernetwork.com/en/news/climate/solutions/a-first-for-canada-new-type-of-nuclear-plant-opening-by-2028)
+- [How to Compare Images Fairly &lpar;2017&rpar;](https://kornel.ski/en/faircomparison)
+- [Padlet is hiring engineers in Singapore to build software for a good education](https://jobs.lever.co/padlet?location=Singapore)
+- [The Negative Link Between Extraversion and Perceived Listening](https://journals.sagepub.com/doi/abs/10.1177/01461672211072815?journalCode=pspc&)
+- [An engineered barley plant that ‘orders’ soil bacteria to manufacture fertiliser](https://www.slcu.cam.ac.uk/news/engineered-barley-plant-orders-soil-bacteria-manufacture-ammonia-fertiliser)
+- [The $440M software error at Knight Capital &lpar;2019&rpar;](https://www.henricodolfing.com/2019/06/project-failure-case-study-knight-capital.html)
+- [Two workers are quadratically better than one &lpar;2020&rpar;](https://www.hillelwayne.com/post/queueing-prism/)
+- [Show HN: I am building a free version of Strava](https://mtbx.bike?page=hangtime)
+- [An illustrated guide to plastic straws &lpar;2021&rpar;](https://hwfo.substack.com/p/an-illustrated-guide-to-plastic-straws)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

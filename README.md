@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Router admin](https://www.reddit.com/r/InformationTechnology/comments/uh01bn/router_admin/)
+- [Not sure how to move forward](https://www.reddit.com/r/InformationTechnology/comments/ugz2jx/not_sure_how_to_move_forward/)
+- [CYBERSOC IT Library: IT and Cyber Security Research and Development](https://www.reddit.com/r/InformationTechnology/comments/ugvwmx/cybersoc_it_library_it_and_cyber_security/)
 - [Need suggestions to prevent a trip hazard in a conference room regarding from a PC to a Cisco conference phone in the center of the room.](https://www.reddit.com/r/InformationTechnology/comments/ugao7c/need_suggestions_to_prevent_a_trip_hazard_in_a/)
 - [control and monitoring application](https://www.reddit.com/r/InformationTechnology/comments/ufx53j/control_and_monitoring_application/)
 - [Need to gain Sys Admin experience.](https://www.reddit.com/r/InformationTechnology/comments/uf98ai/need_to_gain_sys_admin_experience/)
 - [Adobe Creative Cloud forcibly launching Google Chrome to Adobe ID login page even after disabling Adobe Services and Startup Programs?](https://www.reddit.com/r/InformationTechnology/comments/uf1iel/adobe_creative_cloud_forcibly_launching_google/)
-- [IT employees use an app that helps them with the whole code?](https://www.reddit.com/r/InformationTechnology/comments/uf07ba/it_employees_use_an_app_that_helps_them_with_the/)
 - [Low pay to start career?](https://www.reddit.com/r/InformationTechnology/comments/uexptk/low_pay_to_start_career/)
 - [External USB Drive Not Accessible](https://www.reddit.com/r/InformationTechnology/comments/uetrgr/external_usb_drive_not_accessible/)
 - [Ready? FIGHT!](https://www.reddit.com/r/InformationTechnology/comments/uemmxv/ready_fight/)
-- [New Office](https://www.reddit.com/r/InformationTechnology/comments/ueez7h/new_office/)
-- [Is an I.T Traineeship Worth It?](https://www.reddit.com/r/InformationTechnology/comments/uecz6e/is_an_it_traineeship_worth_it/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Lenny&#39;s history and why he isn&#39;t Creative Commons &lpar;2016&rpar;](https://old.reddit.com/r/itslenny/comments/5lcfwq/lennys_history_why_he_isnt_creative_commons/)
-- [Surface temperature tops 60°C in parts of north India, satellite images show](https://www.hindustantimes.com/india-news/surface-temp-tops-60-c-satellite-images-show-101651343166998.html)
-- [Upcoming feature in PostgreSQL 15 – MERGE statement](https://www.highgo.ca/2022/04/30/upcoming-feature-in-postgresql-15-merge-statement/)
-- [Ukraine Is Now America&#39;s War, Too](https://www.newyorker.com/news/daily-comment/ukraine-is-now-americas-war-too)
-- [Deep in the Swamps, How Fugitive Slaves Kept Their Freedom](https://www.smithsonianmag.com/history/deep-swamps-archaeologists-fugitive-slaves-kept-freedom-180960122/)
-- [The Great Resignation is becoming a “great midlife crisis”](https://www.vox.com/recode/23042785/the-great-resignation-older-tenured-higher-paid)
-- [Welcome to the World PyScript](https://engineering.anaconda.com/2022/04/welcome-pyscript.html)
-- [Under Kover. Digging into coverage tools](https://www.meetup.com/Kotlin-Mumbai/events/285569964/)
-- [Detecting account sharing and repeated trials in Firebase Auth with Userwatch](https://www.userwat.ch/blog/firebase-auth-account-sharing-repeated-trials/)
-- [The FAFSA form included code that sent personal information back to Facebook](https://themarkup.org/pixel-hunt/2022/04/28/applied-for-student-aid-online-facebook-saw-you)
+- [Hacking Russia was off-limits. The Ukraine war made it a free-for-all](https://www.washingtonpost.com/technology/2022/05/01/russia-cyber-attacks-hacking/)
+- [Drop $290K on This Prefab Home and Go Off-Grid in Under Two Weeks](https://www.autoevolution.com/news/drop-290k-on-this-prefab-home-and-go-off-grid-in-under-two-weeks-two-car-garage-included-187843.html)
+- [Patients taking experimental obesity drug lost more than 50 pounds, maker claims](https://www.nytimes.com/2022/04/28/health/obesity-drug-eli-lilly-tirzepatide-wegovy.html)
+- [Amazon workers in NYC reject union in a reversal of fortune](https://www.ctvnews.ca/business/amazon-workers-in-nyc-reject-union-in-a-reversal-of-fortune-1.5884397)
+- [Amazon&#39;s Kindle will finally add ePub support](https://www.engadget.com/amazon-kindle-supports-epub-format-002501848.html)
+- [Build native Windows/macOS apps with React](https://github.com/microsoft/react-native-windows)
+- [Leaked US Supreme Court decision suggests majority set to overturn Roe vs. Wade](https://www.reuters.com/world/us/leaked-us-supreme-court-decision-suggests-majority-set-overturn-roe-v-wade-2022-05-03/)
+- [Z80 Special Reset](http://www.primrosebank.net/computers/z80/z80_special_reset.htm)
+- [He spurred a revolution in psychiatry. Then he disappeared](https://www.nytimes.com/2022/05/02/health/john-fryer-psychiatry.html)
+- [State of Affairs: May 2 – By Katelyn Jetelina](https://yourlocalepidemiologist.substack.com/p/state-of-affairs-may-2)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

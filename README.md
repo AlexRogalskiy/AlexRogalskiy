@@ -399,6 +399,7 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Next generation of collaboration and communication services](https://www.computerweekly.com/feature/Next-generation-of-collaboration-and-communication-services)
 - [Podcast: War, geo-political risk, data storage and compliance](https://www.computerweekly.com/podcast/Podcast-War-geo-political-risk-and-data-storage-and-compliance)
 - [CIO interview: Jeffrey Wood, deputy director of ICT, Princess Alexandra Hospital NHS Trust](https://www.computerweekly.com/news/252516296/CIO-interview-Jeffrey-Wood-deputy-director-of-ICT-Princess-Alexandra-Hospital-NHS-Trust)
 - [Electric vehicle transition comes with uneven costs](https://www.computerweekly.com/feature/Electric-vehicle-transition-comes-with-uneven-costs)
@@ -408,7 +409,6 @@
 - [Ransomware recovery costs dwarf actual ransoms](https://www.computerweekly.com/news/252516478/Ransomware-recovery-costs-dwarf-actual-ransoms)
 - [Men don’t need to help women in tech, say IT professionals](https://www.computerweekly.com/news/252516488/Men-dont-need-to-help-women-in-tech-say-IT-professionals)
 - [UK regulators seek input on algorithmic processing and auditing](https://www.computerweekly.com/news/252516484/UK-regulators-seek-input-on-algorithmic-processing-and-auditing)
-- [More than 38,000 UK tech firms incorporated in 2021](https://www.computerweekly.com/news/252516471/More-than-38000-UK-tech-firms-incorporated-in-2021)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

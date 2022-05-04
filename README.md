@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Five TLS comms vulnerabilities hit Aruba, Avaya switching kit](https://www.computerweekly.com/news/252516666/Five-TLS-comms-vulnerabilities-hit-Aruba-Avaya-switching-kit)
+- [Security Think Tank: Solving for complexity in the network](https://www.computerweekly.com/opinion/Security-Think-Tank-Solving-for-complexity-in-the-network)
+- [A prescription for digital accessibility at Boots](https://www.computerweekly.com/ezine/Computer-Weekly/A-prescription-for-digital-accessibility-at-Boots)
 - [Next generation of collaboration and communication services](https://www.computerweekly.com/feature/Next-generation-of-collaboration-and-communication-services)
+- [Dicas para diferentes sistemas operacionais](https://www.computerweekly.com/br/ezine/ComputerWeeklycombr-E-Zine/Dicas-para-diferentes-sistemas-operacionais)
 - [Podcast: War, geo-political risk, data storage and compliance](https://www.computerweekly.com/podcast/Podcast-War-geo-political-risk-and-data-storage-and-compliance)
 - [CIO interview: Jeffrey Wood, deputy director of ICT, Princess Alexandra Hospital NHS Trust](https://www.computerweekly.com/news/252516296/CIO-interview-Jeffrey-Wood-deputy-director-of-ICT-Princess-Alexandra-Hospital-NHS-Trust)
 - [Electric vehicle transition comes with uneven costs](https://www.computerweekly.com/feature/Electric-vehicle-transition-comes-with-uneven-costs)
 - [Attackers enlist cloud providers in large HTTPS DDoS hit](https://www.computerweekly.com/news/252516523/Attackers-enlist-cloud-providers-in-large-HTTPS-DDoS-hit)
 - [AWS grows as Amazon posts net loss](https://www.computerweekly.com/news/252516524/AWS-grows-as-Amazon-posts-net-loss)
-- [Totting up a decade of ones and zeros at the ODI](https://www.computerweekly.com/opinion/Totting-up-a-decade-of-ones-and-zeros-at-the-ODI)
-- [Ransomware recovery costs dwarf actual ransoms](https://www.computerweekly.com/news/252516478/Ransomware-recovery-costs-dwarf-actual-ransoms)
-- [Men don’t need to help women in tech, say IT professionals](https://www.computerweekly.com/news/252516488/Men-dont-need-to-help-women-in-tech-say-IT-professionals)
-- [UK regulators seek input on algorithmic processing and auditing](https://www.computerweekly.com/news/252516484/UK-regulators-seek-input-on-algorithmic-processing-and-auditing)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

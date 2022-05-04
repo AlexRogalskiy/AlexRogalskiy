@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war: Moscow plans to annex Donetsk and Luhansk, US says; European Union preparing sanctions on Russia oil - live](https://www.theguardian.com/world/live/2022/may/02/russia-ukraine-war-mariupol-evacuations-set-to-continue-explosions-reported-in-russian-city-of-belgorod-live)
-- [Met Gala 2022 live updates: silk trains and bleached brows on the red carpet](https://www.theguardian.com/fashion/live/2022/may/03/met-gala-2022-live-updates)
-- [‘That time of the month’: golfer Lydia Ko stuns reporter after talking about period](https://www.theguardian.com/sport/2022/may/03/that-time-of-the-month-golfer-lydia-ko-stuns-reporter-after-talking-about-period)
-- [Supreme court voted to overturn Roe v Wade, leaked draft opinion reportedly shows](https://www.theguardian.com/us-news/2022/may/02/roe-v-wade-abortion-supreme-court-draft-opinion)
-- [The Wagatha Christie case &lpar;part 2&rpar;](https://www.theguardian.com/news/audio/2022/may/03/the-wagatha-christie-case-part-2)
-- [Aung San Suu Kyi on trial in fresh bribery case against ousted Myanmar leader](https://www.theguardian.com/world/2022/may/03/aung-san-suu-kyi-on-trial-in-fresh-bribery-case-against-ousted-myanmar-leader)
-- [Musk seeks to use less of his fortune with bid for more Twitter funding](https://www.theguardian.com/technology/2022/may/02/elon-musk-twitter-personal-fortune)
-- [‘Deeply honoured’: Billy Connolly to receive Bafta fellowship](https://www.theguardian.com/culture/2022/may/03/billy-connolly-receive-bafta-fellowship-parkinsons)
-- [Kirsty Young to anchor Queen’s platinum jubilee coverage on BBC](https://www.theguardian.com/uk-news/2022/may/03/kirsty-young-anchor-queens-platinum-jubilee-coverage-bbc)
-- [British Virgin Islands premier demands release from US custody in cocaine case](https://www.theguardian.com/world/2022/may/02/british-virgin-islands-premier-demands-release)
+- [Russia-Ukraine war: Russia attacks Azovstal plant after first civilians evacuated from steel works reach safety – live](https://www.theguardian.com/world/live/2022/may/03/russia-ukraine-war-moscow-plans-to-annex-donetsk-and-luhansk-us-says-britain-pledges-another-300m-in-military-aid-live)
+- [Donald Trump-backed candidate JD Vance wins Ohio Senate Republican primary](https://www.theguardian.com/us-news/2022/may/03/donald-trump-backed-candidate-jd-vance-wins-ohio-senate-republican-primary)
+- [Walls, ‘gates’ and Britain’s local elections - podcast](https://www.theguardian.com/news/audio/2022/may/04/walls-gates-and-britains-local-elections-podcast)
+- [‘Pro-life Spiderman’: anti-abortion activist climbs San Francisco’s tallest building](https://www.theguardian.com/us-news/2022/may/03/san-francisco-salesforce-tower-free-climb-abortion)
+- [‘They bombed every second’: evacuees’ horror weeks in Azovstal steel plant](https://www.theguardian.com/world/2022/may/04/evacuees-tell-of-horror-weeks-inside-azovstal-steel-plant-mariupol-ukraine)
+- [Russia steps up Azovstal siege as freed civilians reach Zaporizhzhia](https://www.theguardian.com/world/2022/may/03/russia-steps-up-attack-on-azovstal-plant-as-convoy-arrives-in-zaporizhzhia)
+- [Depp’s attorneys rest after 13 days of testimony in case against Heard](https://www.theguardian.com/film/2022/may/03/johnny-depp-amber-heard-trial-attorneys-rest)
+- [Ukraine war and China lockdowns drive fastest UK price rises in years](https://www.theguardian.com/business/2022/may/04/ukraine-war-china-lockdowns-fastest-uk-price-rises-years)
+- [Complaints over Covid disruption rose in 2021, student watchdog says](https://www.theguardian.com/education/2022/may/04/complaint-over-covid-disruption-rose-2021-student-watchdog-office-independent-adjudicator-england-wales)
+- [Biggest boom in City bonuses for years risks driving up inequality, says IFS](https://www.theguardian.com/business/2022/may/04/city-london-bonus-boom-risk-driving-up-inequality-institute-fiscal-studies)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

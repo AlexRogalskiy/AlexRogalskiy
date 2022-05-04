@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Hacking Russia was off-limits. The Ukraine war made it a free-for-all](https://www.washingtonpost.com/technology/2022/05/01/russia-cyber-attacks-hacking/)
-- [Drop $290K on This Prefab Home and Go Off-Grid in Under Two Weeks](https://www.autoevolution.com/news/drop-290k-on-this-prefab-home-and-go-off-grid-in-under-two-weeks-two-car-garage-included-187843.html)
-- [Patients taking experimental obesity drug lost more than 50 pounds, maker claims](https://www.nytimes.com/2022/04/28/health/obesity-drug-eli-lilly-tirzepatide-wegovy.html)
-- [Amazon workers in NYC reject union in a reversal of fortune](https://www.ctvnews.ca/business/amazon-workers-in-nyc-reject-union-in-a-reversal-of-fortune-1.5884397)
-- [Amazon&#39;s Kindle will finally add ePub support](https://www.engadget.com/amazon-kindle-supports-epub-format-002501848.html)
-- [Build native Windows/macOS apps with React](https://github.com/microsoft/react-native-windows)
-- [Leaked US Supreme Court decision suggests majority set to overturn Roe vs. Wade](https://www.reuters.com/world/us/leaked-us-supreme-court-decision-suggests-majority-set-overturn-roe-v-wade-2022-05-03/)
-- [Z80 Special Reset](http://www.primrosebank.net/computers/z80/z80_special_reset.htm)
-- [He spurred a revolution in psychiatry. Then he disappeared](https://www.nytimes.com/2022/05/02/health/john-fryer-psychiatry.html)
-- [State of Affairs: May 2 – By Katelyn Jetelina](https://yourlocalepidemiologist.substack.com/p/state-of-affairs-may-2)
+- [Crimes Committed on Moon Could Be Punishable by Canadian Law](https://www.cnet.com/science/space/some-water-on-the-moon-may-have-originated-in-earths-atmosphere/)
+- [Wildcard Proxy for Everyone](https://blog.cloudflare.com/wildcard-proxy-for-everyone/)
+- [How to Memorize a Larger Multiplication Table](https://buttondown.email/hillelwayne/archive/how-to-memorize-a-larger-multiplication-table/)
+- [Carl Sagan Fan Sells Wormhole.com to Jump Trading for $50K After Lawsuit](https://decrypt.co/99337/tired-carl-sagan-fan-sells-wormhole-crypto-giant-jump-50k-lawsuit)
+- [Turning Waste into Gold Drugs](https://arstechnica.com/science/2022/05/turning-waste-into-gold-drugs/)
+- [To Start Building a Community, Master These Two Concepts](https://future.a16z.com/to-start-building-a-community-master-these-two-concepts/)
+- [Musk – Twitter may have a slight cost for commercial/gov users](https://twitter.com/elonmusk/status/1521630589710872576)
+- [When it comes to scorpions, it’s the small ones you need to watch out for](https://www.science.org/content/article/when-it-comes-scorpions-it-s-small-ones-you-need-watch-out)
+- [Alpha-Gal Allergy](https://en.wikipedia.org/wiki/Alpha-gal_allergy)
+- [Chronicles of Opt-175B Training](https://github.com/facebookresearch/metaseq/tree/main/projects/OPT/chronicles)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

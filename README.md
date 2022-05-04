@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Meta announces a GPT3-size language model you can download](https://arxiv.org/abs/2205.01068)
-- [A first for Canada: New type of nuclear plant opening by 2028](https://www.theweathernetwork.com/en/news/climate/solutions/a-first-for-canada-new-type-of-nuclear-plant-opening-by-2028)
-- [How to Compare Images Fairly &lpar;2017&rpar;](https://kornel.ski/en/faircomparison)
-- [Padlet is hiring engineers in Singapore to build software for a good education](https://jobs.lever.co/padlet?location=Singapore)
-- [The Negative Link Between Extraversion and Perceived Listening](https://journals.sagepub.com/doi/abs/10.1177/01461672211072815?journalCode=pspc&)
-- [An engineered barley plant that ‘orders’ soil bacteria to manufacture fertiliser](https://www.slcu.cam.ac.uk/news/engineered-barley-plant-orders-soil-bacteria-manufacture-ammonia-fertiliser)
-- [The $440M software error at Knight Capital &lpar;2019&rpar;](https://www.henricodolfing.com/2019/06/project-failure-case-study-knight-capital.html)
-- [Two workers are quadratically better than one &lpar;2020&rpar;](https://www.hillelwayne.com/post/queueing-prism/)
-- [Show HN: I am building a free version of Strava](https://mtbx.bike?page=hangtime)
-- [An illustrated guide to plastic straws &lpar;2021&rpar;](https://hwfo.substack.com/p/an-illustrated-guide-to-plastic-straws)
+- [100-year-old Brazilian breaks record after 84 years at same company](https://www.guinnessworldrecords.com/news/2022/4/100-year-old-brazilian-breaks-record-after-84-years-at-same-company-701664)
+- [Set up your own VPN at home with Raspberry Pi – Wolfang&#39;s Blog](https://notthebe.ee/raspi.html)
+- [DbDiagram – Draw Entity-Relationship Diagrams, Painlessly](https://dbdiagram.io/home)
+- [Heroku resetting passwords for “a portion” of their users immediately](https://news.ycombinator.com/item?id=31255450)
+- [Coding Up an IoT PCB Design](https://www.geocene.com/tech/hardware/2022/05/03/coding-up-an-iot-pcb-design)
+- [Go&#39;s Concurrency Examples in Java 19](https://mccue.dev/pages/5-2-22-go-concurrency-in-java)
+- [Sigstore - A new standard for signing, verifying and protecting software](https://www.sigstore.dev/)
+- [Replit &lpar;YC W18&rpar; Is Hiring SREs to Build Scalable Compute Infrastructure](https://replit.com/careers)
+- [The strange business of hole-in-one insurance](https://thehustle.co/the-strange-business-of-hole-in-one-insurance/)
+- [Porting Zelda Classic to the web](https://hoten.cc/blog/porting-zelda-classic-to-the-web/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

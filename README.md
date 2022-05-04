@@ -384,16 +384,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [JetBrains IDEs connect with Gitpod for cloud-based development](https://www.infoworld.com/article/3659196/jetbrains-ides-connect-with-gitpod-for-cloud-based-development.html#tk.rss_all)
+- [Aerospike Database adds native JSON document support](https://www.infoworld.com/article/3658998/aerospike-database-adds-native-json-document-support.html#tk.rss_all)
+- [Overcoming AI’s limitations](https://www.infoworld.com/article/3658971/overcoming-ais-limitations.html#tk.rss_all)
+- [The biggest multicloud mistake people are making](https://www.infoworld.com/article/3658855/the-biggest-multicloud-mistake-people-are-making.html#tk.rss_all)
 - [JDK 19: The features targeted for Java 19](https://www.infoworld.com/article/3653331/jdk-19-the-features-targeted-for-java-19.html#tk.rss_all)
 - [PyScript brings Python into the browser, more easily than ever](https://www.infoworld.com/article/3658994/pyscript-brings-python-into-the-browser-more-easily-than-ever.html#tk.rss_all)
 - [Sprint reviews and retrospectives in a hybrid work setting](https://www.infoworld.com/article/3659190/sprint-reviews-and-retrospectives-in-a-hybrid-work-setting.html#tk.rss_all)
 - [The new AWS: No more dumpster fires](https://www.infoworld.com/article/3658854/the-new-aws-no-more-dumpster-fires.html#tk.rss_all)
 - [Developer experience doesn’t have to stop at the front end](https://www.infoworld.com/article/3658110/developer-experience-doesnt-have-to-stop-at-the-front-end.html#tk.rss_all)
 - [shinytest2, Rhino R Shiny framework top news at Appsilon conference](https://www.infoworld.com/article/3658981/shinytest2-rhino-r-shiny-framework-top-news-at-appsilon-conference.html#tk.rss_all)
-- [AWS can’t help Amazon avoid first loss since 2015](https://www.infoworld.com/article/3659191/aws-can-t-help-amazon-avoid-first-loss-since-2015.html#tk.rss_all)
-- [Why public clouds lead with renewables](https://www.infoworld.com/article/3658911/why-public-clouds-lead-with-renewables.html#tk.rss_all)
-- [What is a data lake? Massively scalable storage for big data analytics](https://www.infoworld.com/article/3658333/what-is-a-data-lake-massively-scalable-storage-for-big-data-analytics.html#tk.rss_all)
-- [Deno 1.21 improves REPL, error handling](https://www.infoworld.com/article/3659188/deno-121-improves-repl-error-handling.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

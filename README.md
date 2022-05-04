@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [EU accuses Apple of market abuse with NFC and Apple Pay](https://www.computerworld.com/article/3658858/eu-accuses-apple-of-market-abuse-with-nfc-and-apple-pay.html#tk.rss_all)
+- [It&#39;s time to speed up your business network](https://www.computerworld.com/article/3659193/its-time-to-speed-up-your-business-network.html#tk.rss_all)
+- [Google offers US businesses $100,000 worth of digital skills training](https://www.computerworld.com/article/3658835/google-offers-us-businesses-100000-worth-of-digital-skills-training.html#tk.rss_all)
+- [Download: UEM vendor comparison chart 2022](https://www.computerworld.com/article/3408656/download-uem-vendor-comparison-chart-unified-endpoint-management.html#tk.rss_all)
+- [Enterprise mobility 2022: UEM adds user experience, AI, automation](https://www.computerworld.com/article/3202649/enterprise-mobility-2022-uem-adds-user-experience-ai-automation.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [How many jobs are available in technology?](https://www.computerworld.com/article/3542681/how-many-jobs-are-available-in-technology.html#tk.rss_all)
 - [Want a good Windows experience? Focus first on hardware](https://www.computerworld.com/article/3658856/want-a-good-windows-experience-focus-first-on-hardware.html#tk.rss_all)
 - [Expect to see more online data scraping, thanks to a misinterpreted court ruling](https://www.computerworld.com/article/3658993/expect-to-see-more-website-scraping-thanks-to-a-misinterpreted-court-ruling.html#tk.rss_all)
 - [Russia is losing the cyberwar against Ukraine, too](https://www.computerworld.com/article/3658951/russia-is-losing-the-cyberwar-against-ukraine-too.html#tk.rss_all)
-- [Google&#39;s business-friendly Android phone list has a big problem](https://www.computerworld.com/article/3658851/google-android-enterprise-recommended-device-list-problems.html#tk.rss_all)
-- [Otter.ai argues remote meetings can be more productive than in-person](https://www.computerworld.com/article/3658853/otterai-argues-remote-meetings-can-be-more-productive-than-in-person.html#tk.rss_all)
-- [It’s time to imagine the new workplace](https://www.computerworld.com/article/3658975/it-s-time-to-imagine-the-new-workplace.html#tk.rss_all)
-- [How to make a Windows 10 or 11 image backup](https://www.computerworld.com/article/3655693/how-to-make-image-backup-windows-10-windows-11.html#tk.rss_all)
-- [Podcast: What Elon Musk’s Twitter takeover could mean for business users](https://www.computerworld.com/article/3659189/podcast-what-elon-musks-twitter-takeover-could-mean-for-business-users.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

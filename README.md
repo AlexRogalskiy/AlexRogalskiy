@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Getting out of HelpDesk](https://www.reddit.com/r/InformationTechnology/comments/uhriri/getting_out_of_helpdesk/)
+- [Will Connecting Two Computers To Modem Effect Performance?](https://www.reddit.com/r/InformationTechnology/comments/uhqi9b/will_connecting_two_computers_to_modem_effect/)
+- [Help me understand](https://www.reddit.com/r/InformationTechnology/comments/uhq7tx/help_me_understand/)
+- [Can a person with an aggravated robbery still pursue a career in the IT field with an IT &amp; networking associates degree ? Experience is to that level, but not much further.](https://www.reddit.com/r/InformationTechnology/comments/uhnw13/can_a_person_with_an_aggravated_robbery_still/)
+- [PSA - Please hug your kids](https://www.reddit.com/r/InformationTechnology/comments/uhl4cj/psa_please_hug_your_kids/)
+- [How long should I stay at this IT service desk position?](https://www.reddit.com/r/InformationTechnology/comments/uhhui4/how_long_should_i_stay_at_this_it_service_desk/)
+- [Programming or Computer Networking](https://www.reddit.com/r/InformationTechnology/comments/uhg22k/programming_or_computer_networking/)
+- [Azure Free Weekend | ITProTV](https://www.reddit.com/r/InformationTechnology/comments/uhbudk/azure_free_weekend_itprotv/)
+- [What kinds of questions can I really expect on the A+ exam?](https://www.reddit.com/r/InformationTechnology/comments/uh9b23/what_kinds_of_questions_can_i_really_expect_on/)
 - [Router admin](https://www.reddit.com/r/InformationTechnology/comments/uh01bn/router_admin/)
-- [Not sure how to move forward](https://www.reddit.com/r/InformationTechnology/comments/ugz2jx/not_sure_how_to_move_forward/)
-- [CYBERSOC IT Library: IT and Cyber Security Research and Development](https://www.reddit.com/r/InformationTechnology/comments/ugvwmx/cybersoc_it_library_it_and_cyber_security/)
-- [Need suggestions to prevent a trip hazard in a conference room regarding from a PC to a Cisco conference phone in the center of the room.](https://www.reddit.com/r/InformationTechnology/comments/ugao7c/need_suggestions_to_prevent_a_trip_hazard_in_a/)
-- [control and monitoring application](https://www.reddit.com/r/InformationTechnology/comments/ufx53j/control_and_monitoring_application/)
-- [Need to gain Sys Admin experience.](https://www.reddit.com/r/InformationTechnology/comments/uf98ai/need_to_gain_sys_admin_experience/)
-- [Adobe Creative Cloud forcibly launching Google Chrome to Adobe ID login page even after disabling Adobe Services and Startup Programs?](https://www.reddit.com/r/InformationTechnology/comments/uf1iel/adobe_creative_cloud_forcibly_launching_google/)
-- [Low pay to start career?](https://www.reddit.com/r/InformationTechnology/comments/uexptk/low_pay_to_start_career/)
-- [External USB Drive Not Accessible](https://www.reddit.com/r/InformationTechnology/comments/uetrgr/external_usb_drive_not_accessible/)
-- [Ready? FIGHT!](https://www.reddit.com/r/InformationTechnology/comments/uemmxv/ready_fight/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

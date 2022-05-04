@@ -369,6 +369,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Look Beyond Traditional Channels to Close the Cybersecurity Skills Gap](https://www.informationweek.com/security-and-risk-strategy/look-beyond-traditional-channels-to-close-the-cybersecurity-skills-gap)
+- [Quick Study: The Future of Work is Here](https://www.informationweek.com/strategic-cio/quick-study-the-future-of-work-is-here)
+- [Making IT Talent Hires a Business Priority](https://www.informationweek.com/strategic-cio/making-it-talent-hires-a-business-priority)
 - [Priorities of Highly Successful Chief Data Officers](https://www.informationweek.com/big-data/priorities-of-highly-successful-chief-data-officers)
 - [The Genesis of Artificial Intelligence and Digital Twins](https://www.informationweek.com/big-data/the-genesis-of-artificial-intelligence-and-digital-twins)
 - [Building Data Literacy: What CDOs Need to Know](https://www.informationweek.com/big-data/building-data-literacy-what-cdos-need-to-know)
@@ -376,9 +379,6 @@
 - [Overcoming Technical Debt Requires a Strategic Approach](https://www.informationweek.com/cloud/overcoming-technical-debt-requires-a-strategic-approach)
 - [Who Owns Your Hybrid Work Strategy?](https://www.informationweek.com/strategic-cio/who-owns-your-hybrid-work-strategy-)
 - [Why Consigli Went Low Code for Project Management](https://www.informationweek.com/devops/why-consigli-went-low-code-for-project-management)
-- [How We’re Doing on Humanizing the Digital Experience](https://www.informationweek.com/big-data/how-we-re-doing-on-humanizing-the-digital-experience)
-- [Bringing Shadow IT Into the Light](https://www.informationweek.com/software/bringing-shadow-it-into-the-light)
-- [4 Steps to Bolster Cybersecurity Defenses Throughout IT/OT Convergence](https://www.informationweek.com/security-and-risk-strategy/4-steps-to-bolster-cybersecurity-defenses-throughout-it-ot-convergence)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Crimes Committed on Moon Could Be Punishable by Canadian Law](https://www.cnet.com/science/space/some-water-on-the-moon-may-have-originated-in-earths-atmosphere/)
-- [Wildcard Proxy for Everyone](https://blog.cloudflare.com/wildcard-proxy-for-everyone/)
-- [How to Memorize a Larger Multiplication Table](https://buttondown.email/hillelwayne/archive/how-to-memorize-a-larger-multiplication-table/)
-- [Carl Sagan Fan Sells Wormhole.com to Jump Trading for $50K After Lawsuit](https://decrypt.co/99337/tired-carl-sagan-fan-sells-wormhole-crypto-giant-jump-50k-lawsuit)
-- [Turning Waste into Gold Drugs](https://arstechnica.com/science/2022/05/turning-waste-into-gold-drugs/)
-- [To Start Building a Community, Master These Two Concepts](https://future.a16z.com/to-start-building-a-community-master-these-two-concepts/)
-- [Musk – Twitter may have a slight cost for commercial/gov users](https://twitter.com/elonmusk/status/1521630589710872576)
-- [When it comes to scorpions, it’s the small ones you need to watch out for](https://www.science.org/content/article/when-it-comes-scorpions-it-s-small-ones-you-need-watch-out)
-- [Alpha-Gal Allergy](https://en.wikipedia.org/wiki/Alpha-gal_allergy)
-- [Chronicles of Opt-175B Training](https://github.com/facebookresearch/metaseq/tree/main/projects/OPT/chronicles)
+- [Show HN: I built a beatbox-to-drum translator using WASM](https://app.projectbeatbot.com/)
+- [The Roddenberry Archive: The Cage &lpar;2022&rpar; [video]](https://www.youtube.com/watch?v=65ZtLReySGo)
+- [Smoke and a Sandstorm, Seen from Space](https://www.nytimes.com/2022/05/04/climate/wildfire-smoke-dust-storm.html)
+- [Swarming drones autonomously navigate a dense forest &lpar;and chase a human&rpar;](https://techcrunch.com/2022/05/04/swarming-drones-autonomously-navigate-a-dense-forest-and-chase-a-human/)
+- [Everything Gitlab CEO Sid Sijbrandij Does in a Day](https://www.protocol.com/newsletters/protocol-workplace/gitlab-ceo-sid-sijbrandij-calendar)
+- [California program will let you borrow down payment at 0% interest](https://abc7.com/california-homeowner-plan-buying-a-house-housing-market-forgivable-equity-builder-loan/11815843/)
+- [Corporate Climate Responsibility Monitor 2022](https://newclimate.org/2022/02/07/corporate-climate-responsibility-monitor-2022/)
+- [Pants 2.11 adds Go Protobuf codegen, Pex lockfiles for Python, &amp; parametrization](https://blog.pantsbuild.org/introducing-pants-2-11/)
+- [Never-ending nightmare: Boeing lost 1.2B in 2022 first quarter](https://www.aviacionline.com/2022/04/never-ending-nightmare-boeing-lost-1-2-billion-in-2022-first-quarter/)
+- [Why are these tweets being flagged? &lpar;scroll down to excerpts from 1984&rpar;](https://twitter.com/east_orwell)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

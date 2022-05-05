@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Following the customer: How tech leaders can learn from Alphabet and Meta](https://www.computerweekly.com/opinion/Following-the-customer-How-tech-leaders-can-learn-from-Alphabet-and-Meta)
+- [NHS email accounts hijacked for phishing campaign](https://www.computerweekly.com/news/252516702/NHS-email-accounts-hijacked-for-phishing-campaign)
+- [Intellectual property theft operation attributed to Winnti group](https://www.computerweekly.com/news/252516710/Intellectual-property-theft-operation-attributed-to-Winnti-group)
+- [BT signs five-year deal with AWS to revamp legacy infrastructure and ready it for the cloud](https://www.computerweekly.com/news/252516711/BT-signs-five-year-deal-with-AWS-to-revamp-legacy-infrastructure-and-ready-it-for-the-cloud)
+- [UK government puts pressure on IT sector to clean up app security](https://www.computerweekly.com/news/252516706/UK-government-puts-pressure-on-IT-sector-to-clean-up-app-security)
+- [Security Think Tank: Defenders must get out ahead of complexity](https://www.computerweekly.com/opinion/Security-Think-Tank-Defenders-must-get-out-ahead-of-complexity)
+- [PeerGFS adds AI/ML anomaly detection to distributed file system product](https://www.computerweekly.com/news/252516669/PeerGFS-adds-AI-ML-anomaly-detection-to-distributed-file-system)
+- [Will AWS pledge to extend life of servers inspire other cloud firms to follow suit?](https://www.computerweekly.com/feature/Will-AWS-pledge-to-extend-life-of-servers-inspire-other-cloud-firms-to-follow-suit)
+- [CIO interview: Loïc Giraud, global head of digital platform and product delivery, Novartis](https://www.computerweekly.com/news/252516303/CIO-interview-Loic-Giraud-global-head-of-digital-platform-and-product-delivery-Novartis)
 - [Five TLS comms vulnerabilities hit Aruba, Avaya switching kit](https://www.computerweekly.com/news/252516666/Five-TLS-comms-vulnerabilities-hit-Aruba-Avaya-switching-kit)
-- [Security Think Tank: Solving for complexity in the network](https://www.computerweekly.com/opinion/Security-Think-Tank-Solving-for-complexity-in-the-network)
-- [A prescription for digital accessibility at Boots](https://www.computerweekly.com/ezine/Computer-Weekly/A-prescription-for-digital-accessibility-at-Boots)
-- [Next generation of collaboration and communication services](https://www.computerweekly.com/feature/Next-generation-of-collaboration-and-communication-services)
-- [Dicas para diferentes sistemas operacionais](https://www.computerweekly.com/br/ezine/ComputerWeeklycombr-E-Zine/Dicas-para-diferentes-sistemas-operacionais)
-- [Podcast: War, geo-political risk, data storage and compliance](https://www.computerweekly.com/podcast/Podcast-War-geo-political-risk-and-data-storage-and-compliance)
-- [CIO interview: Jeffrey Wood, deputy director of ICT, Princess Alexandra Hospital NHS Trust](https://www.computerweekly.com/news/252516296/CIO-interview-Jeffrey-Wood-deputy-director-of-ICT-Princess-Alexandra-Hospital-NHS-Trust)
-- [Electric vehicle transition comes with uneven costs](https://www.computerweekly.com/feature/Electric-vehicle-transition-comes-with-uneven-costs)
-- [Attackers enlist cloud providers in large HTTPS DDoS hit](https://www.computerweekly.com/news/252516523/Attackers-enlist-cloud-providers-in-large-HTTPS-DDoS-hit)
-- [AWS grows as Amazon posts net loss](https://www.computerweekly.com/news/252516524/AWS-grows-as-Amazon-posts-net-loss)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

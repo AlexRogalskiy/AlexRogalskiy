@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [The Government of Ontario to use Anaplan on a cloud platform](https://www.itworldcanada.com/article/the-government-of-ontario-to-use-anaplan-on-a-cloud-platform/482716)
+- [Embracer to acquire Eidos, Crystal Dynamics, and Square Enix Montreal](https://www.itworldcanada.com/article/embracer-to-acquire-eidos-crystal-dynamics-and-square-enix-montreal/482559)
+- [Ontario government and not-for-profit partner to launch training project for both employers and job seekers](https://www.itworldcanada.com/article/ontario-government-and-not-for-profit-partner-to-launch-training-project-for-both-employers-and-job-seekers/482525)
+- [Cyber Security Today, May 4, 2022 – Advice to IT managers and individuals for World Password Day](https://www.itworldcanada.com/article/cyber-security-today-may-4-2022-advice-to-it-managers-and-individuals-for-world-password-day/482567)
+- [Hashtag Trending May 4 – Google fires AI researcher; Android users switch to iPhone; California runs on 100 per cent renewable energy](https://www.itworldcanada.com/article/hashtag-trending-may-4-google-fires-ai-researcher-android-users-switch-to-iphone-california-runs-on-100-per-cent-renewable-energy/482640)
 - [Patch warning issued for Avaya, Aruba switches](https://www.itworldcanada.com/article/patch-warning-issued-for-avaya-aruba-switches/482488)
 - [Coffee Briefing May 3, 2022 – Equifax Canada’s cloud transformation; Innovate BC opens applications for Ignite program; Square launches Square Loans in Canada; and more](https://www.itworldcanada.com/article/coffee-briefing-may-3-2022-equifax-canadas-cloud-transformation-innovate-bc-opens-applications-for-ignite-program-square-launches-square-loans-in-canada-and-more/482489)
 - [Hashtag Trending May 3 – HP disables subscription ink; Microsoft Edge VPN; India’s first semiconductor fab](https://www.itworldcanada.com/article/hashtag-trending-may-3-hp-disables-subscription-ink-microsoft-edge-vpn-indias-first-semiconductor-fab/482387)
 - [Canada should limit police use of facial recognition technology, say privacy commissioners](https://www.itworldcanada.com/article/canada-should-limit-police-use-of-facial-recognition-technology-say-privacy-commissioners/482311)
 - [Poilievre would prevent digital currency run by Bank of Canada](https://www.itworldcanada.com/article/poilievre-would-prevent-digital-currency-run-by-bank-of-canada/481921)
-- [Snap announces new features for Snapchat platform](https://www.itworldcanada.com/article/snap-announces-new-features-for-snapchat-platform/482329)
-- [Cybersecurity course for disadvantaged youth now offered by Canadian agency](https://www.itworldcanada.com/article/cybersecurity-course-for-disadvantaged-youth-now-offered-by-canadian-agency/482256)
-- [Cyber Security Today, May 2, 2022 – More on how the Conti ransomware gang works, individuals victimized by ransomware, news on wiperware and more](https://www.itworldcanada.com/article/cyber-security-today-may-2-2022-more-on-how-the-conti-ransomware-gang-works-individuals-victimized-by-ransomware-news-on-wiperware-and-more/482221)
-- [Hashtag Trending May 2 – Stop using Internet Explorer; AI tool to detect deep fakes; cryptomining in Texas rivals Hustan energy use](https://www.itworldcanada.com/article/hashtag-trending-may-2-stop-using-internet-explorer-ai-tool-to-detect-deep-fakes-cryptomining-in-texas-rivals-hustan-energy-use/482263)
-- [This Week in Ransomware – Friday, April 29, 2022](https://www.itworldcanada.com/article/this-week-in-ransomware-friday-april-29-2022/482090)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

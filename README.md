@@ -384,16 +384,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [GitHub will require two-factor authentication for all coders](https://www.infoworld.com/article/3659628/github-will-require-two-factor-authentication-for-all-coders.html#tk.rss_all)
+- [Spotify, startups launch funds to support open source maintainers](https://www.infoworld.com/article/3658999/spotify-startups-launch-funds-to-support-open-source-maintainers.html#tk.rss_all)
+- [Pulumi extends infrastructure as code support for Java and YAML](https://www.infoworld.com/article/3658857/pulumi-extends-infrastructure-as-code-support-for-java-and-yaml.html#tk.rss_all)
+- [WCF returns: Core WCF gets a 1.0 release](https://www.infoworld.com/article/3659000/wcf-returns-core-wcf-gets-a-10-release.html#tk.rss_all)
+- [4 useful features you won&#39;t be seeing in Python](https://www.infoworld.com/article/3653253/4-useful-features-you-wont-be-seeing-in-python.html#tk.rss_all)
 - [JetBrains IDEs connect with Gitpod for cloud-based development](https://www.infoworld.com/article/3659196/jetbrains-ides-connect-with-gitpod-for-cloud-based-development.html#tk.rss_all)
 - [Aerospike Database adds native JSON document support](https://www.infoworld.com/article/3658998/aerospike-database-adds-native-json-document-support.html#tk.rss_all)
 - [Overcoming AI’s limitations](https://www.infoworld.com/article/3658971/overcoming-ais-limitations.html#tk.rss_all)
 - [The biggest multicloud mistake people are making](https://www.infoworld.com/article/3658855/the-biggest-multicloud-mistake-people-are-making.html#tk.rss_all)
 - [JDK 19: The features targeted for Java 19](https://www.infoworld.com/article/3653331/jdk-19-the-features-targeted-for-java-19.html#tk.rss_all)
-- [PyScript brings Python into the browser, more easily than ever](https://www.infoworld.com/article/3658994/pyscript-brings-python-into-the-browser-more-easily-than-ever.html#tk.rss_all)
-- [Sprint reviews and retrospectives in a hybrid work setting](https://www.infoworld.com/article/3659190/sprint-reviews-and-retrospectives-in-a-hybrid-work-setting.html#tk.rss_all)
-- [The new AWS: No more dumpster fires](https://www.infoworld.com/article/3658854/the-new-aws-no-more-dumpster-fires.html#tk.rss_all)
-- [Developer experience doesn’t have to stop at the front end](https://www.infoworld.com/article/3658110/developer-experience-doesnt-have-to-stop-at-the-front-end.html#tk.rss_all)
-- [shinytest2, Rhino R Shiny framework top news at Appsilon conference](https://www.infoworld.com/article/3658981/shinytest2-rhino-r-shiny-framework-top-news-at-appsilon-conference.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

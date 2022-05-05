@@ -369,6 +369,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [InformationWeek Salary Survey: What IT Pros Earn](https://www.informationweek.com/team-building-and-staffing/informationweek-salary-survey-what-it-pros-earn)
+- [How CIOs Can Create Cohesive Teams That Accelerate Transformation](https://www.informationweek.com/strategic-cio/how-cios-can-create-cohesive-teams-that-accelerate-transformation)
 - [Look Beyond Traditional Channels to Close the Cybersecurity Skills Gap](https://www.informationweek.com/security-and-risk-strategy/look-beyond-traditional-channels-to-close-the-cybersecurity-skills-gap)
 - [Quick Study: The Future of Work is Here](https://www.informationweek.com/strategic-cio/quick-study-the-future-of-work-is-here)
 - [Making IT Talent Hires a Business Priority](https://www.informationweek.com/strategic-cio/making-it-talent-hires-a-business-priority)
@@ -377,8 +379,6 @@
 - [Building Data Literacy: What CDOs Need to Know](https://www.informationweek.com/big-data/building-data-literacy-what-cdos-need-to-know)
 - [California Association of Realtors Discusses Its Cloud Migration](https://www.informationweek.com/cloud/california-association-of-realtors-discusses-its-cloud-migration)
 - [Overcoming Technical Debt Requires a Strategic Approach](https://www.informationweek.com/cloud/overcoming-technical-debt-requires-a-strategic-approach)
-- [Who Owns Your Hybrid Work Strategy?](https://www.informationweek.com/strategic-cio/who-owns-your-hybrid-work-strategy-)
-- [Why Consigli Went Low Code for Project Management](https://www.informationweek.com/devops/why-consigli-went-low-code-for-project-management)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

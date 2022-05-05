@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [How many IT professionals use psychedelics?](https://www.reddit.com/r/InformationTechnology/comments/uimhb2/how_many_it_professionals_use_psychedelics/)
+- [Troubleshooting corrupt profiles](https://www.reddit.com/r/InformationTechnology/comments/uil5oq/troubleshooting_corrupt_profiles/)
+- [Got my first job in IT for Level 1 Support for a Medical Corporation. AMA](https://www.reddit.com/r/InformationTechnology/comments/uihe0y/got_my_first_job_in_it_for_level_1_support_for_a/)
+- [What careers outside of software dev can I pursue in IT with a computer science degree?](https://www.reddit.com/r/InformationTechnology/comments/uiedof/what_careers_outside_of_software_dev_can_i_pursue/)
+- [How A Healthcare Company Used bipp Analytics BI Platform to Boost Performance and Reduce Costs - Case Study](https://www.reddit.com/r/InformationTechnology/comments/ui39en/how_a_healthcare_company_used_bipp_analytics_bi/)
 - [Getting out of HelpDesk](https://www.reddit.com/r/InformationTechnology/comments/uhriri/getting_out_of_helpdesk/)
 - [Will Connecting Two Computers To Modem Effect Performance?](https://www.reddit.com/r/InformationTechnology/comments/uhqi9b/will_connecting_two_computers_to_modem_effect/)
 - [Help me understand](https://www.reddit.com/r/InformationTechnology/comments/uhq7tx/help_me_understand/)
-- [Can a person with an aggravated robbery still pursue a career in the IT field with an IT &amp; networking associates degree ? Experience is to that level, but not much further.](https://www.reddit.com/r/InformationTechnology/comments/uhnw13/can_a_person_with_an_aggravated_robbery_still/)
 - [PSA - Please hug your kids](https://www.reddit.com/r/InformationTechnology/comments/uhl4cj/psa_please_hug_your_kids/)
-- [How long should I stay at this IT service desk position?](https://www.reddit.com/r/InformationTechnology/comments/uhhui4/how_long_should_i_stay_at_this_it_service_desk/)
 - [Programming or Computer Networking](https://www.reddit.com/r/InformationTechnology/comments/uhg22k/programming_or_computer_networking/)
-- [Azure Free Weekend | ITProTV](https://www.reddit.com/r/InformationTechnology/comments/uhbudk/azure_free_weekend_itprotv/)
-- [What kinds of questions can I really expect on the A+ exam?](https://www.reddit.com/r/InformationTechnology/comments/uh9b23/what_kinds_of_questions_can_i_really_expect_on/)
-- [Router admin](https://www.reddit.com/r/InformationTechnology/comments/uh01bn/router_admin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

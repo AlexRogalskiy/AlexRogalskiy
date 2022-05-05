@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war: Russia attacks Azovstal plant after first civilians evacuated from steel works reach safety – live](https://www.theguardian.com/world/live/2022/may/03/russia-ukraine-war-moscow-plans-to-annex-donetsk-and-luhansk-us-says-britain-pledges-another-300m-in-military-aid-live)
-- [Donald Trump-backed candidate JD Vance wins Ohio Senate Republican primary](https://www.theguardian.com/us-news/2022/may/03/donald-trump-backed-candidate-jd-vance-wins-ohio-senate-republican-primary)
-- [Walls, ‘gates’ and Britain’s local elections - podcast](https://www.theguardian.com/news/audio/2022/may/04/walls-gates-and-britains-local-elections-podcast)
-- [‘Pro-life Spiderman’: anti-abortion activist climbs San Francisco’s tallest building](https://www.theguardian.com/us-news/2022/may/03/san-francisco-salesforce-tower-free-climb-abortion)
-- [‘They bombed every second’: evacuees’ horror weeks in Azovstal steel plant](https://www.theguardian.com/world/2022/may/04/evacuees-tell-of-horror-weeks-inside-azovstal-steel-plant-mariupol-ukraine)
-- [Russia steps up Azovstal siege as freed civilians reach Zaporizhzhia](https://www.theguardian.com/world/2022/may/03/russia-steps-up-attack-on-azovstal-plant-as-convoy-arrives-in-zaporizhzhia)
-- [Depp’s attorneys rest after 13 days of testimony in case against Heard](https://www.theguardian.com/film/2022/may/03/johnny-depp-amber-heard-trial-attorneys-rest)
-- [Ukraine war and China lockdowns drive fastest UK price rises in years](https://www.theguardian.com/business/2022/may/04/ukraine-war-china-lockdowns-fastest-uk-price-rises-years)
-- [Complaints over Covid disruption rose in 2021, student watchdog says](https://www.theguardian.com/education/2022/may/04/complaint-over-covid-disruption-rose-2021-student-watchdog-office-independent-adjudicator-england-wales)
-- [Biggest boom in City bonuses for years risks driving up inequality, says IFS](https://www.theguardian.com/business/2022/may/04/city-london-bonus-boom-risk-driving-up-inequality-institute-fiscal-studies)
+- [Ukraine war: ‘bloody battles’ inside Mariupol steelworks; another 344 civilians evacuated, says Zelenskiy – live](https://www.theguardian.com/world/live/2022/may/04/russia-ukraine-war-russia-attacks-azovstal-steel-plant-after-first-evacuated-civilians-reach-safety-live)
+- [The US supreme court is ready to overturn the right to an abortion. What happens next?](https://www.theguardian.com/news/audio/2022/may/05/us-supreme-court-ready-to-overturn-right-to-abortion-what-happens-next-podcast)
+- [Archibald prize 2022 finalists: Benjamin Law, Helen Garner, Taika Waititi and more – in pictures](https://www.theguardian.com/artanddesign/gallery/2022/may/05/archibald-prize-2022-finalists-benjamin-law-helen-garner-taika-waititi-and-more-in-pictures)
+- [Christchurch attack inquiry to examine if Australian terrorist was radicalised online](https://www.theguardian.com/world/2022/may/05/christchurch-attack-inquiry-to-examine-if-australian-terrorist-was-radicalised-online)
+- [Donald Trump Jr testifies before the committee on the events of January 6](https://www.theguardian.com/us-news/2022/may/04/donald-trump-jr-us-capitol-attack-committee)
+- [New Zealand foreign minister blames ‘relationship failure’ for China-Solomons security deal](https://www.theguardian.com/world/2022/may/05/new-zealand-foreign-minister-blames-relationship-failure-for-china-solomons-security-deal)
+- [Paul Kelly song How to Make Gravy to be adapted into a Christmas film](https://www.theguardian.com/music/2022/may/05/paul-kelly-song-how-to-make-gravy-to-be-adapted-into-a-christmas-film)
+- [Degrees underfunded by £1,750 per student, Russell Group says](https://www.theguardian.com/education/2022/may/05/degrees-underfunded-by-1750-per-student-russell-group-says)
+- [Sweden says US has offered security guarantees if it applies to join Nato](https://www.theguardian.com/world/2022/may/04/sweden-says-us-has-offered-security-guarantees-if-it-applies-to-join-nato)
+- [Poor sleep may hinder attempts to maintain weight loss, study finds](https://www.theguardian.com/society/2022/may/04/poor-sleep-may-hinder-attempts-to-maintain-weight-loss-study-finds)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

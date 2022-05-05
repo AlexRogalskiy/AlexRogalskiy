@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [The Great Resignation puts pressure on those who stay behind](https://www.computerworld.com/article/3659200/the-great-resignation-puts-pressure-on-those-who-stay-behind.html#tk.rss_all)
+- [Mosyle introduces new MDM services for Apple enterprise](https://www.computerworld.com/article/3659003/mosyle-introduces-new-mdm-services-for-apple-enterprise.html#tk.rss_all)
+- [Google responds to EU data rulings with new Workspace controls](https://www.computerworld.com/article/3659002/google-responds-to-eu-data-rulings-with-new-workspace-controls.html#tk.rss_all)
+- [Tech firms face unionization push, as Amazon and Apple workers organize](https://www.computerworld.com/article/3659194/tech-firms-face-unionization-push-as-amazon-and-apple-workers-organize.html#tk.rss_all)
 - [EU accuses Apple of market abuse with NFC and Apple Pay](https://www.computerworld.com/article/3658858/eu-accuses-apple-of-market-abuse-with-nfc-and-apple-pay.html#tk.rss_all)
 - [It&#39;s time to speed up your business network](https://www.computerworld.com/article/3659193/its-time-to-speed-up-your-business-network.html#tk.rss_all)
 - [Google offers US businesses $100,000 worth of digital skills training](https://www.computerworld.com/article/3658835/google-offers-us-businesses-100000-worth-of-digital-skills-training.html#tk.rss_all)
 - [Download: UEM vendor comparison chart 2022](https://www.computerworld.com/article/3408656/download-uem-vendor-comparison-chart-unified-endpoint-management.html#tk.rss_all)
 - [Enterprise mobility 2022: UEM adds user experience, AI, automation](https://www.computerworld.com/article/3202649/enterprise-mobility-2022-uem-adds-user-experience-ai-automation.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [How many jobs are available in technology?](https://www.computerworld.com/article/3542681/how-many-jobs-are-available-in-technology.html#tk.rss_all)
-- [Want a good Windows experience? Focus first on hardware](https://www.computerworld.com/article/3658856/want-a-good-windows-experience-focus-first-on-hardware.html#tk.rss_all)
-- [Expect to see more online data scraping, thanks to a misinterpreted court ruling](https://www.computerworld.com/article/3658993/expect-to-see-more-website-scraping-thanks-to-a-misinterpreted-court-ruling.html#tk.rss_all)
-- [Russia is losing the cyberwar against Ukraine, too](https://www.computerworld.com/article/3658951/russia-is-losing-the-cyberwar-against-ukraine-too.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

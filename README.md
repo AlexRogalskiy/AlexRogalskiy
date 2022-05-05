@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [100-year-old Brazilian breaks record after 84 years at same company](https://www.guinnessworldrecords.com/news/2022/4/100-year-old-brazilian-breaks-record-after-84-years-at-same-company-701664)
-- [Set up your own VPN at home with Raspberry Pi – Wolfang&#39;s Blog](https://notthebe.ee/raspi.html)
-- [DbDiagram – Draw Entity-Relationship Diagrams, Painlessly](https://dbdiagram.io/home)
-- [Heroku resetting passwords for “a portion” of their users immediately](https://news.ycombinator.com/item?id=31255450)
-- [Coding Up an IoT PCB Design](https://www.geocene.com/tech/hardware/2022/05/03/coding-up-an-iot-pcb-design)
-- [Go&#39;s Concurrency Examples in Java 19](https://mccue.dev/pages/5-2-22-go-concurrency-in-java)
-- [Sigstore - A new standard for signing, verifying and protecting software](https://www.sigstore.dev/)
-- [Replit &lpar;YC W18&rpar; Is Hiring SREs to Build Scalable Compute Infrastructure](https://replit.com/careers)
-- [The strange business of hole-in-one insurance](https://thehustle.co/the-strange-business-of-hole-in-one-insurance/)
-- [Porting Zelda Classic to the web](https://hoten.cc/blog/porting-zelda-classic-to-the-web/)
+- [Never-ending nightmare: Boeing lost 1.2B in 2022 first quarter](https://www.aviacionline.com/2022/04/never-ending-nightmare-boeing-lost-1-2-billion-in-2022-first-quarter/)
+- [Teen Mental Health Is Plummeting, and Social Media Is a Major Contributing Cause [pdf]](https://www.judiciary.senate.gov/imo/media/doc/Haidt%20Testimony.pdf)
+- [Bluesky – Authenticated Data EXperiment](https://github.com/bluesky-social/adx)
+- [What Game Are You Playing?](https://www.autodidacts.io/what-game-are-you-playing/)
+- [After the First Tech Job](https://lowlyswe.substack.com/p/after-the-first-tech-job)
+- [Android 13’s new sideloading restriction of Accessibility APIs](https://blog.esper.io/android-13-sideloading-restriction-harder-malware-abuse-accessibility-apis/)
+- [Former Facebook, WhatsApp employees lead new push to fix social media](https://www.wsj.com/articles/social-media-startups-take-aim-at-facebook-and-elon-musk-11651656600)
+- [Mighty &lpar;YC S19&rpar; is hiring software engineers to build a better browser](https://www.notion.so/Mighty-is-hiring-945d3168d3e34a37883ca4d823ed734f)
+- [Walkthrough of UHC’s claim reimbursement form game](https://github.com/MyUHCAdventure/MyUHCAdventure.github.io)
+- [IBM&#39;s Asshole Test](https://johnpublic.mataroa.blog/blog/the-asshole-test/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

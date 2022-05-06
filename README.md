@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Never-ending nightmare: Boeing lost 1.2B in 2022 first quarter](https://www.aviacionline.com/2022/04/never-ending-nightmare-boeing-lost-1-2-billion-in-2022-first-quarter/)
-- [Teen Mental Health Is Plummeting, and Social Media Is a Major Contributing Cause [pdf]](https://www.judiciary.senate.gov/imo/media/doc/Haidt%20Testimony.pdf)
-- [Bluesky – Authenticated Data EXperiment](https://github.com/bluesky-social/adx)
-- [What Game Are You Playing?](https://www.autodidacts.io/what-game-are-you-playing/)
-- [After the First Tech Job](https://lowlyswe.substack.com/p/after-the-first-tech-job)
-- [Android 13’s new sideloading restriction of Accessibility APIs](https://blog.esper.io/android-13-sideloading-restriction-harder-malware-abuse-accessibility-apis/)
-- [Former Facebook, WhatsApp employees lead new push to fix social media](https://www.wsj.com/articles/social-media-startups-take-aim-at-facebook-and-elon-musk-11651656600)
-- [Mighty &lpar;YC S19&rpar; is hiring software engineers to build a better browser](https://www.notion.so/Mighty-is-hiring-945d3168d3e34a37883ca4d823ed734f)
-- [Walkthrough of UHC’s claim reimbursement form game](https://github.com/MyUHCAdventure/MyUHCAdventure.github.io)
-- [IBM&#39;s Asshole Test](https://johnpublic.mataroa.blog/blog/the-asshole-test/)
+- [Public health agency tracked Canadians&#39; movements via phone data during pandemic](https://www.cp24.com/news/canadians-trips-to-liquor-stores-pharmacies-tracked-via-phones-during-pandemic-1.5890349)
+- [Choosing a Mid-Career Master&#39;s Degree in Computer Science](https://evanp.me/2022/05/04/masters-degree-in-computer-science/)
+- [Homes in 97% of U.S. cities are overvalued, Moody&#39;s says](https://www.cbsnews.com/news/home-prices-mortgage-rates-moodys-mark-zandi/)
+- [Abletone Learning Synth](https://learningsynths.ableton.com/)
+- [Mygov is a ‘huge disappointment,’ key architect despairs](https://www.innovationaus.com/mygov-is-a-huge-disappointment-key-architect-despairs/)
+- [$35 sculpture found at an Austin Goodwill was looted from a museum during WWII](https://www.kut.org/life-arts/2022-05-04/so-the-35-sculpture-you-got-at-an-austin-goodwill-was-looted-from-a-museum-during-wwii-now-what)
+- [Being Acquired](https://www.csisoftware.com/about-us/being-acquired)
+- [Bugs that the Rust compiler catches for you](https://kerkour.com/bugs-rust-compiler-helps-prevent)
+- [Skio &lpar;subscriptions for Shopify, easy ReCharge migrations&rpar; is hiring eng in NYC](https://skio.com/careers/)
+- [Including “And. And. And. And. And.” in a Google doc causes it to crash](https://support.google.com/docs/thread/162510194/including-and-and-and-and-and-in-a-google-doc-causes-it-to-crash?hl=en)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

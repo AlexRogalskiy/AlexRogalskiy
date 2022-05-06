@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine war: ‘bloody battles’ inside Mariupol steelworks; another 344 civilians evacuated, says Zelenskiy – live](https://www.theguardian.com/world/live/2022/may/04/russia-ukraine-war-russia-attacks-azovstal-steel-plant-after-first-evacuated-civilians-reach-safety-live)
-- [The US supreme court is ready to overturn the right to an abortion. What happens next?](https://www.theguardian.com/news/audio/2022/may/05/us-supreme-court-ready-to-overturn-right-to-abortion-what-happens-next-podcast)
-- [Archibald prize 2022 finalists: Benjamin Law, Helen Garner, Taika Waititi and more – in pictures](https://www.theguardian.com/artanddesign/gallery/2022/may/05/archibald-prize-2022-finalists-benjamin-law-helen-garner-taika-waititi-and-more-in-pictures)
-- [Christchurch attack inquiry to examine if Australian terrorist was radicalised online](https://www.theguardian.com/world/2022/may/05/christchurch-attack-inquiry-to-examine-if-australian-terrorist-was-radicalised-online)
-- [Donald Trump Jr testifies before the committee on the events of January 6](https://www.theguardian.com/us-news/2022/may/04/donald-trump-jr-us-capitol-attack-committee)
-- [New Zealand foreign minister blames ‘relationship failure’ for China-Solomons security deal](https://www.theguardian.com/world/2022/may/05/new-zealand-foreign-minister-blames-relationship-failure-for-china-solomons-security-deal)
-- [Paul Kelly song How to Make Gravy to be adapted into a Christmas film](https://www.theguardian.com/music/2022/may/05/paul-kelly-song-how-to-make-gravy-to-be-adapted-into-a-christmas-film)
-- [Degrees underfunded by £1,750 per student, Russell Group says](https://www.theguardian.com/education/2022/may/05/degrees-underfunded-by-1750-per-student-russell-group-says)
-- [Sweden says US has offered security guarantees if it applies to join Nato](https://www.theguardian.com/world/2022/may/04/sweden-says-us-has-offered-security-guarantees-if-it-applies-to-join-nato)
-- [Poor sleep may hinder attempts to maintain weight loss, study finds](https://www.theguardian.com/society/2022/may/04/poor-sleep-may-hinder-attempts-to-maintain-weight-loss-study-finds)
+- [Local elections 2022: Lib Dems make gains as Partygate hits Tories and Labour admits ‘mixed picture’– live updates](https://www.theguardian.com/politics/live/2022/may/05/local-elections-2022-conservatives-labour-boris-johnson-keir-starmer-england-wales-scotland-northern-ireland-live-updates)
+- [Russia-Ukraine war: Israel says Putin has apologised for Lavrov’s Hitler comments; fresh attempt to evacuate Azovstal civilians – live](https://www.theguardian.com/world/live/2022/may/05/russia-ukraine-war-bloody-battles-inside-mariupol-steelworks-ukraine-claims-it-has-retaken-areas-near-kherson-live)
+- [The Division: New Orleans – part one – podcast](https://www.theguardian.com/news/audio/2022/may/06/the-division-new-orleans-part-one-podcast)
+- [Ninth journalist killed in Mexico this year as violence against media soars](https://www.theguardian.com/world/2022/may/06/ninth-journalist-killed-in-mexico-this-year-as-violence-against-media-soars)
+- [Esper book details Trump rage at Pence and proposal to hit Mexico with missiles](https://www.theguardian.com/us-news/2022/may/05/trump-aides-pence-losers-2020-protests-book-mark-esper)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/blog/2022/may/06/premier-league-10-things-to-look-out-for-this-weekend)
+- [Todd Boehly’s consortium bid set to win race to buy Chelsea](https://www.theguardian.com/football/2022/may/05/roman-abramovich-insists-he-will-not-ask-chelsea-to-repay-16bn-loan)
+- [Peru’s leader and his wife investigated for allegedly plagiarizing master’s thesis](https://www.theguardian.com/world/2022/may/05/peru-pedro-castillo-lilia-paredes-plagiarism-accusation)
+- [Elections 2022: live council results for England, Scotland and Wales](https://www.theguardian.com/politics/ng-interactive/2022/may/05/elections-2022-results-live-local-council-england-scotland-wales)
+- [Vegan diet can help overweight people shed pounds, study shows](https://www.theguardian.com/society/2022/may/05/vegan-diet-can-help-overweight-people-shed-pounds-study-shows)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

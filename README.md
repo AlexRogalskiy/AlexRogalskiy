@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Noteworthy tech acquisitions 2022](https://www.computerworld.com/article/3646533/noteworthy-tech-acquisitions-2022.html#tk.rss_all)
+- [11 business lessons from iPod father Tony Fadell](https://www.computerworld.com/article/3659871/11-business-lessons-from-ipod-father-tony-fadell.html#tk.rss_all)
+- [California legislators put four-day workweek proposal on hold](https://www.computerworld.com/article/3659870/california-legislators-put-four-day-workweek-proposal-on-hold.html#tk.rss_all)
+- [Welcome to the new world of business travel](https://www.computerworld.com/article/3659197/welcome-to-the-new-world-of-business-travel.html#tk.rss_all)
+- [Google acquires Raxium in augmented reality push](https://www.computerworld.com/article/3659830/google-acquires-raxium-in-augmented-reality-push.html#tk.rss_all)
+- [Microsoft Edge has edged out Apple&#39;s Safari in browser popularity](https://www.computerworld.com/article/3659888/microsoft-edge-has-edged-out-apples-safari-in-browser-popularity.html#tk.rss_all)
+- [How to translate emails, documents, and more with Microsoft Office](https://www.computerworld.com/article/3658212/how-to-translate-emails-documents-and-more-with-microsoft-office.html#tk.rss_all)
 - [The Great Resignation puts pressure on those who stay behind](https://www.computerworld.com/article/3659200/the-great-resignation-puts-pressure-on-those-who-stay-behind.html#tk.rss_all)
 - [Mosyle introduces new MDM services for Apple enterprise](https://www.computerworld.com/article/3659003/mosyle-introduces-new-mdm-services-for-apple-enterprise.html#tk.rss_all)
 - [Google responds to EU data rulings with new Workspace controls](https://www.computerworld.com/article/3659002/google-responds-to-eu-data-rulings-with-new-workspace-controls.html#tk.rss_all)
-- [Tech firms face unionization push, as Amazon and Apple workers organize](https://www.computerworld.com/article/3659194/tech-firms-face-unionization-push-as-amazon-and-apple-workers-organize.html#tk.rss_all)
-- [EU accuses Apple of market abuse with NFC and Apple Pay](https://www.computerworld.com/article/3658858/eu-accuses-apple-of-market-abuse-with-nfc-and-apple-pay.html#tk.rss_all)
-- [It&#39;s time to speed up your business network](https://www.computerworld.com/article/3659193/its-time-to-speed-up-your-business-network.html#tk.rss_all)
-- [Google offers US businesses $100,000 worth of digital skills training](https://www.computerworld.com/article/3658835/google-offers-us-businesses-100000-worth-of-digital-skills-training.html#tk.rss_all)
-- [Download: UEM vendor comparison chart 2022](https://www.computerworld.com/article/3408656/download-uem-vendor-comparison-chart-unified-endpoint-management.html#tk.rss_all)
-- [Enterprise mobility 2022: UEM adds user experience, AI, automation](https://www.computerworld.com/article/3202649/enterprise-mobility-2022-uem-adds-user-experience-ai-automation.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

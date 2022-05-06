@@ -369,6 +369,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Tech Advances in Retail/Food Industry During the Pandemic](https://www.informationweek.com/software/tech-advances-in-retail-food-industry-during-the-pandemic)
+- [Managing Cyber Risks in Today&#39;s Threat Environment](https://www.informationweek.com/security-and-risk-strategy/managing-cyber-risks-in-today-s-threat-environment)
 - [InformationWeek Salary Survey: What IT Pros Earn](https://www.informationweek.com/team-building-and-staffing/informationweek-salary-survey-what-it-pros-earn)
 - [How CIOs Can Create Cohesive Teams That Accelerate Transformation](https://www.informationweek.com/strategic-cio/how-cios-can-create-cohesive-teams-that-accelerate-transformation)
 - [Look Beyond Traditional Channels to Close the Cybersecurity Skills Gap](https://www.informationweek.com/security-and-risk-strategy/look-beyond-traditional-channels-to-close-the-cybersecurity-skills-gap)
@@ -377,8 +379,6 @@
 - [Priorities of Highly Successful Chief Data Officers](https://www.informationweek.com/big-data/priorities-of-highly-successful-chief-data-officers)
 - [The Genesis of Artificial Intelligence and Digital Twins](https://www.informationweek.com/big-data/the-genesis-of-artificial-intelligence-and-digital-twins)
 - [Building Data Literacy: What CDOs Need to Know](https://www.informationweek.com/big-data/building-data-literacy-what-cdos-need-to-know)
-- [California Association of Realtors Discusses Its Cloud Migration](https://www.informationweek.com/cloud/california-association-of-realtors-discusses-its-cloud-migration)
-- [Overcoming Technical Debt Requires a Strategic Approach](https://www.informationweek.com/cloud/overcoming-technical-debt-requires-a-strategic-approach)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

@@ -384,16 +384,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Will JavaScript containers overtake Linux containers?](https://www.infoworld.com/article/3660069/will-javascript-containers-overtake-linux-containers.html#tk.rss_all)
+- [JDK 19: The features targeted for Java 19](https://www.infoworld.com/article/3653331/jdk-19-the-features-targeted-for-java-19.html#tk.rss_all)
+- [MongoDB’s Mark Porter: What today’s developers need to succeed](https://www.infoworld.com/article/3659648/mongodbs-mark-porter-what-todays-developers-need-to-succeed.html#tk.rss_all)
+- [Making AI accountable: Blockchain, governance, and auditability](https://www.infoworld.com/article/3658909/making-ai-accountable-blockchain-governance-and-auditability.html#tk.rss_all)
 - [GitHub will require two-factor authentication for all coders](https://www.infoworld.com/article/3659628/github-will-require-two-factor-authentication-for-all-coders.html#tk.rss_all)
 - [Spotify, startups launch funds to support open source maintainers](https://www.infoworld.com/article/3658999/spotify-startups-launch-funds-to-support-open-source-maintainers.html#tk.rss_all)
 - [Pulumi extends infrastructure as code support for Java and YAML](https://www.infoworld.com/article/3658857/pulumi-extends-infrastructure-as-code-support-for-java-and-yaml.html#tk.rss_all)
 - [WCF returns: Core WCF gets a 1.0 release](https://www.infoworld.com/article/3659000/wcf-returns-core-wcf-gets-a-10-release.html#tk.rss_all)
 - [4 useful features you won&#39;t be seeing in Python](https://www.infoworld.com/article/3653253/4-useful-features-you-wont-be-seeing-in-python.html#tk.rss_all)
 - [JetBrains IDEs connect with Gitpod for cloud-based development](https://www.infoworld.com/article/3659196/jetbrains-ides-connect-with-gitpod-for-cloud-based-development.html#tk.rss_all)
-- [Aerospike Database adds native JSON document support](https://www.infoworld.com/article/3658998/aerospike-database-adds-native-json-document-support.html#tk.rss_all)
-- [Overcoming AI’s limitations](https://www.infoworld.com/article/3658971/overcoming-ais-limitations.html#tk.rss_all)
-- [The biggest multicloud mistake people are making](https://www.infoworld.com/article/3658855/the-biggest-multicloud-mistake-people-are-making.html#tk.rss_all)
-- [JDK 19: The features targeted for Java 19](https://www.infoworld.com/article/3653331/jdk-19-the-features-targeted-for-java-19.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

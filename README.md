@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Yukon’s fibre-to-the-home assets now Indigenous-owned](https://www.itworldcanada.com/article/yukons-fibre-to-the-home-assets-now-indigenous-owned/482897)
+- [Microsoft Canada’s new head office: how it was optimized for hybrid work](https://www.itworldcanada.com/article/microsoft-canadas-new-head-office-how-it-was-optimized-for-hybrid-work/482882)
+- [Microsoft Canada celebrates the opening of its new downtown headquarters](https://www.itworldcanada.com/article/microsoft-canada-celebrates-the-opening-of-its-new-downtown-headquarters/482585)
+- [World Password Day: How CISOs can get rid of passwords](https://www.itworldcanada.com/article/world-password-day-how-cisos-can-get-rid-of-passwords/482770)
+- [Hashtag Trending May 5 – Intuit fined for misleading ads; ISPs ordered to block illegal streams; Musk wants to charge corporations for tweets](https://www.itworldcanada.com/article/hashtag-trending-may-5-intuit-fined-for-misleading-ads-isps-ordered-to-block-illegal-streams-musk-wants-to-charge-corporations-for-tweets/482741)
+- [Be mindful of the gaps in your hybrid workplace](https://www.itworldcanada.com/article/be-mindful-of-the-gaps-in-your-hybrid-workplace/482384)
 - [The Government of Ontario to use Anaplan on a cloud platform](https://www.itworldcanada.com/article/the-government-of-ontario-to-use-anaplan-on-a-cloud-platform/482716)
 - [Embracer to acquire Eidos, Crystal Dynamics, and Square Enix Montreal](https://www.itworldcanada.com/article/embracer-to-acquire-eidos-crystal-dynamics-and-square-enix-montreal/482559)
 - [Ontario government and not-for-profit partner to launch training project for both employers and job seekers](https://www.itworldcanada.com/article/ontario-government-and-not-for-profit-partner-to-launch-training-project-for-both-employers-and-job-seekers/482525)
 - [Cyber Security Today, May 4, 2022 – Advice to IT managers and individuals for World Password Day](https://www.itworldcanada.com/article/cyber-security-today-may-4-2022-advice-to-it-managers-and-individuals-for-world-password-day/482567)
-- [Hashtag Trending May 4 – Google fires AI researcher; Android users switch to iPhone; California runs on 100 per cent renewable energy](https://www.itworldcanada.com/article/hashtag-trending-may-4-google-fires-ai-researcher-android-users-switch-to-iphone-california-runs-on-100-per-cent-renewable-energy/482640)
-- [Patch warning issued for Avaya, Aruba switches](https://www.itworldcanada.com/article/patch-warning-issued-for-avaya-aruba-switches/482488)
-- [Coffee Briefing May 3, 2022 – Equifax Canada’s cloud transformation; Innovate BC opens applications for Ignite program; Square launches Square Loans in Canada; and more](https://www.itworldcanada.com/article/coffee-briefing-may-3-2022-equifax-canadas-cloud-transformation-innovate-bc-opens-applications-for-ignite-program-square-launches-square-loans-in-canada-and-more/482489)
-- [Hashtag Trending May 3 – HP disables subscription ink; Microsoft Edge VPN; India’s first semiconductor fab](https://www.itworldcanada.com/article/hashtag-trending-may-3-hp-disables-subscription-ink-microsoft-edge-vpn-indias-first-semiconductor-fab/482387)
-- [Canada should limit police use of facial recognition technology, say privacy commissioners](https://www.itworldcanada.com/article/canada-should-limit-police-use-of-facial-recognition-technology-say-privacy-commissioners/482311)
-- [Poilievre would prevent digital currency run by Bank of Canada](https://www.itworldcanada.com/article/poilievre-would-prevent-digital-currency-run-by-bank-of-canada/481921)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

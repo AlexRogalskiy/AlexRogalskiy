@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: I built a beatbox-to-drum translator using WASM](https://app.projectbeatbot.com/)
-- [The Roddenberry Archive: The Cage &lpar;2022&rpar; [video]](https://www.youtube.com/watch?v=65ZtLReySGo)
-- [Smoke and a Sandstorm, Seen from Space](https://www.nytimes.com/2022/05/04/climate/wildfire-smoke-dust-storm.html)
-- [Swarming drones autonomously navigate a dense forest &lpar;and chase a human&rpar;](https://techcrunch.com/2022/05/04/swarming-drones-autonomously-navigate-a-dense-forest-and-chase-a-human/)
-- [Everything Gitlab CEO Sid Sijbrandij Does in a Day](https://www.protocol.com/newsletters/protocol-workplace/gitlab-ceo-sid-sijbrandij-calendar)
-- [California program will let you borrow down payment at 0% interest](https://abc7.com/california-homeowner-plan-buying-a-house-housing-market-forgivable-equity-builder-loan/11815843/)
-- [Corporate Climate Responsibility Monitor 2022](https://newclimate.org/2022/02/07/corporate-climate-responsibility-monitor-2022/)
-- [Pants 2.11 adds Go Protobuf codegen, Pex lockfiles for Python, &amp; parametrization](https://blog.pantsbuild.org/introducing-pants-2-11/)
-- [Never-ending nightmare: Boeing lost 1.2B in 2022 first quarter](https://www.aviacionline.com/2022/04/never-ending-nightmare-boeing-lost-1-2-billion-in-2022-first-quarter/)
-- [Why are these tweets being flagged? &lpar;scroll down to excerpts from 1984&rpar;](https://twitter.com/east_orwell)
+- [Edson de Castro on Data General 2016 &lpar;2017&rpar;](https://www.youtube.com/watch?v=7saczG7Ng5s)
+- [Global bird populations steadily decline](https://news.cornell.edu/stories/2022/05/global-bird-populations-steadily-decline)
+- [At TSM and Blitz, staff describes toxic workplace and volatile CEO](https://www.washingtonpost.com/video-games/2022/05/04/tsm-andy-dinh-misclassification/)
+- [1M FPS – The Slow Mo Guys](https://www.youtube.com/watch?v=VgjyPmFKxCU)
+- [Dead Man Switch for Linux – v1.0.1](https://github.com/dimensionc132/deadswitch)
+- [Public health agency tracked Canadians&#39; movements via phone data during pandemic](https://www.cp24.com/news/canadians-trips-to-liquor-stores-pharmacies-tracked-via-phones-during-pandemic-1.5890349)
+- [AI remote jobs to your inbox weekly](https://remoteai.patzhong.com)
+- [Gmail hooked us on free storage. Now Google is making us pay &lpar;2019&rpar;](https://www.latimes.com/business/story/2019-10-24/gmail-hooked-us-on-free-storage-now-google-is-making-us-pay)
+- [Brexit has clobbered smaller businesses](https://www.economist.com/britain/2022/04/30/brexit-has-clobbered-smaller-businesses)
+- [Why Saudi Prince Alwaleed Reversed Course on Elon Musk&#39;s Twitter Bid](https://www.bloomberg.com/news/articles/2022-05-05/why-saudi-prince-alwaleed-reverse-course-on-elon-musk-s-twitter-bid)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

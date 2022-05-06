@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [How to retain cyber talent in the Great Resignation](https://www.computerweekly.com/feature/How-to-retain-cyber-talent-in-the-Great-Resignation)
+- [London’s too small for Arm IPO, says Hermann Hauser](https://www.computerweekly.com/news/252516766/Londons-too-small-for-Arm-IP-says-Hermann-Hauser)
+- [Disaster recovery is an essential service for EDF with Phenix-IT](https://www.computerweekly.com/feature/Disaster-recovery-is-an-essential-service-for-EDF-with-Phenix-IT)
+- [Prepare for smart robot revolution](https://www.computerweekly.com/news/252516758/Prepare-for-smart-robot-revolution)
+- [Five companies join NCSC for Startups to deal with ransomware](https://www.computerweekly.com/news/252516756/Five-companies-join-NCSC-for-Startups-to-deal-with-ransomware)
+- [Security Think Tank: Identify, assess and monitor to understand attack paths](https://www.computerweekly.com/opinion/Security-Think-Tank-Identify-assess-and-monitor-to-understand-attack-paths)
+- [CyrusOne hits climate-neutral datacentre targets in Europe](https://www.computerweekly.com/news/252516753/CyrusOne-hits-climate-neutral-datacentre-targets-in-Europe)
 - [Following the customer: How tech leaders can learn from Alphabet and Meta](https://www.computerweekly.com/opinion/Following-the-customer-How-tech-leaders-can-learn-from-Alphabet-and-Meta)
 - [NHS email accounts hijacked for phishing campaign](https://www.computerweekly.com/news/252516702/NHS-email-accounts-hijacked-for-phishing-campaign)
 - [Intellectual property theft operation attributed to Winnti group](https://www.computerweekly.com/news/252516710/Intellectual-property-theft-operation-attributed-to-Winnti-group)
-- [BT signs five-year deal with AWS to revamp legacy infrastructure and ready it for the cloud](https://www.computerweekly.com/news/252516711/BT-signs-five-year-deal-with-AWS-to-revamp-legacy-infrastructure-and-ready-it-for-the-cloud)
-- [UK government puts pressure on IT sector to clean up app security](https://www.computerweekly.com/news/252516706/UK-government-puts-pressure-on-IT-sector-to-clean-up-app-security)
-- [Security Think Tank: Defenders must get out ahead of complexity](https://www.computerweekly.com/opinion/Security-Think-Tank-Defenders-must-get-out-ahead-of-complexity)
-- [PeerGFS adds AI/ML anomaly detection to distributed file system product](https://www.computerweekly.com/news/252516669/PeerGFS-adds-AI-ML-anomaly-detection-to-distributed-file-system)
-- [Will AWS pledge to extend life of servers inspire other cloud firms to follow suit?](https://www.computerweekly.com/feature/Will-AWS-pledge-to-extend-life-of-servers-inspire-other-cloud-firms-to-follow-suit)
-- [CIO interview: Loïc Giraud, global head of digital platform and product delivery, Novartis](https://www.computerweekly.com/news/252516303/CIO-interview-Loic-Giraud-global-head-of-digital-platform-and-product-delivery-Novartis)
-- [Five TLS comms vulnerabilities hit Aruba, Avaya switching kit](https://www.computerweekly.com/news/252516666/Five-TLS-comms-vulnerabilities-hit-Aruba-Avaya-switching-kit)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

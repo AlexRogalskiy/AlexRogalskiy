@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Real Advice for GROWING a Successful I.T. Career &lpar;From Industry Experts&rpar;](https://www.reddit.com/r/InformationTechnology/comments/uj9dk0/real_advice_for_growing_a_successful_it_career/)
+- [shrinking IT departments?](https://www.reddit.com/r/InformationTechnology/comments/uj7g8e/shrinking_it_departments/)
+- [How to patch/update old windows 10 desktop that is completely offline?](https://www.reddit.com/r/InformationTechnology/comments/uj74ic/how_to_patchupdate_old_windows_10_desktop_that_is/)
+- [JavaScript Comma problem](https://www.reddit.com/r/InformationTechnology/comments/uiurx1/javascript_comma_problem/)
 - [How many IT professionals use psychedelics?](https://www.reddit.com/r/InformationTechnology/comments/uimhb2/how_many_it_professionals_use_psychedelics/)
 - [Troubleshooting corrupt profiles](https://www.reddit.com/r/InformationTechnology/comments/uil5oq/troubleshooting_corrupt_profiles/)
 - [Got my first job in IT for Level 1 Support for a Medical Corporation. AMA](https://www.reddit.com/r/InformationTechnology/comments/uihe0y/got_my_first_job_in_it_for_level_1_support_for_a/)
 - [What careers outside of software dev can I pursue in IT with a computer science degree?](https://www.reddit.com/r/InformationTechnology/comments/uiedof/what_careers_outside_of_software_dev_can_i_pursue/)
-- [How A Healthcare Company Used bipp Analytics BI Platform to Boost Performance and Reduce Costs - Case Study](https://www.reddit.com/r/InformationTechnology/comments/ui39en/how_a_healthcare_company_used_bipp_analytics_bi/)
 - [Getting out of HelpDesk](https://www.reddit.com/r/InformationTechnology/comments/uhriri/getting_out_of_helpdesk/)
 - [Will Connecting Two Computers To Modem Effect Performance?](https://www.reddit.com/r/InformationTechnology/comments/uhqi9b/will_connecting_two_computers_to_modem_effect/)
-- [Help me understand](https://www.reddit.com/r/InformationTechnology/comments/uhq7tx/help_me_understand/)
-- [PSA - Please hug your kids](https://www.reddit.com/r/InformationTechnology/comments/uhl4cj/psa_please_hug_your_kids/)
-- [Programming or Computer Networking](https://www.reddit.com/r/InformationTechnology/comments/uhg22k/programming_or_computer_networking/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

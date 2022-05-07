@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Edson de Castro on Data General 2016 &lpar;2017&rpar;](https://www.youtube.com/watch?v=7saczG7Ng5s)
-- [Global bird populations steadily decline](https://news.cornell.edu/stories/2022/05/global-bird-populations-steadily-decline)
-- [At TSM and Blitz, staff describes toxic workplace and volatile CEO](https://www.washingtonpost.com/video-games/2022/05/04/tsm-andy-dinh-misclassification/)
-- [1M FPS – The Slow Mo Guys](https://www.youtube.com/watch?v=VgjyPmFKxCU)
-- [Dead Man Switch for Linux – v1.0.1](https://github.com/dimensionc132/deadswitch)
-- [Public health agency tracked Canadians&#39; movements via phone data during pandemic](https://www.cp24.com/news/canadians-trips-to-liquor-stores-pharmacies-tracked-via-phones-during-pandemic-1.5890349)
-- [AI remote jobs to your inbox weekly](https://remoteai.patzhong.com)
-- [Gmail hooked us on free storage. Now Google is making us pay &lpar;2019&rpar;](https://www.latimes.com/business/story/2019-10-24/gmail-hooked-us-on-free-storage-now-google-is-making-us-pay)
-- [Brexit has clobbered smaller businesses](https://www.economist.com/britain/2022/04/30/brexit-has-clobbered-smaller-businesses)
-- [Why Saudi Prince Alwaleed Reversed Course on Elon Musk&#39;s Twitter Bid](https://www.bloomberg.com/news/articles/2022-05-05/why-saudi-prince-alwaleed-reverse-course-on-elon-musk-s-twitter-bid)
+- [RadioReference Announces the Retirement of All Ad Serving](https://forums.radioreference.com/threads/radioreference-announces-the-retirement-of-all-ad-serving.442242/)
+- [Man who received landmark pig heart transplant died of pig virus](https://www.theguardian.com/us-news/2022/may/06/man-landmark-pig-heart-transplant-death-pig-virus)
+- [A Web Around the World: A Network of Networks](https://www.filfre.net/2022/05/a-web-around-the-world-part-9-a-network-of-networks/)
+- [How the AI industry profits from catastrophe](https://www.technologyreview.com/2022/04/20/1050392/ai-industry-appen-scale-data-labels/)
+- [Camo 1.6: Support for Safari, FaceTime and More – Reincubate](https://reincubate.com/blog/camo-facetime-safari-support/)
+- [Using a RaspberryPi as a Display Adapter](https://gwolf.org/2022/05/using-a-rpi-as-a-display-adapter.html)
+- [Free Silicon Conference 2022](https://wiki.f-si.org/index.php/FSiC2022)
+- [Nectome MVP](https://news.ycombinator.com/item?id=31291684)
+- [SolveSpace – open-source parametric 3D CAD tool](https://solvespace.com/index.pl)
+- [Toby: Better Than Bookmarks](https://www.gettoby.com/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

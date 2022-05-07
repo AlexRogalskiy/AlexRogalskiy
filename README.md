@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [UK digital markets regulator to be given statutory powers](https://www.computerweekly.com/news/252516823/UK-digital-markets-regulator-to-be-given-statutory-powers)
+- [Uptime Institute debuts sustainability-focused accreditation for datacentre professionals](https://www.computerweekly.com/news/252516806/Uptime-Institute-debuts-sustainability-focused-accreditation-for-datacentre-professionals)
+- [John Lewis to hire more than 150 tech workers](https://www.computerweekly.com/news/252516805/John-Lewis-to-hire-more-than-150-tech-workers)
+- [IT infrastructure used to launch DDoS attack on Russian targets](https://www.computerweekly.com/news/252516773/IT-infrastructure-used-to-launch-DDoS-attack-on-Russian-targets)
 - [How to retain cyber talent in the Great Resignation](https://www.computerweekly.com/feature/How-to-retain-cyber-talent-in-the-Great-Resignation)
 - [London’s too small for Arm IPO, says Hermann Hauser](https://www.computerweekly.com/news/252516766/Londons-too-small-for-Arm-IP-says-Hermann-Hauser)
 - [Disaster recovery is an essential service for EDF with Phenix-IT](https://www.computerweekly.com/feature/Disaster-recovery-is-an-essential-service-for-EDF-with-Phenix-IT)
 - [Prepare for smart robot revolution](https://www.computerweekly.com/news/252516758/Prepare-for-smart-robot-revolution)
 - [Five companies join NCSC for Startups to deal with ransomware](https://www.computerweekly.com/news/252516756/Five-companies-join-NCSC-for-Startups-to-deal-with-ransomware)
 - [Security Think Tank: Identify, assess and monitor to understand attack paths](https://www.computerweekly.com/opinion/Security-Think-Tank-Identify-assess-and-monitor-to-understand-attack-paths)
-- [CyrusOne hits climate-neutral datacentre targets in Europe](https://www.computerweekly.com/news/252516753/CyrusOne-hits-climate-neutral-datacentre-targets-in-Europe)
-- [Following the customer: How tech leaders can learn from Alphabet and Meta](https://www.computerweekly.com/opinion/Following-the-customer-How-tech-leaders-can-learn-from-Alphabet-and-Meta)
-- [NHS email accounts hijacked for phishing campaign](https://www.computerweekly.com/news/252516702/NHS-email-accounts-hijacked-for-phishing-campaign)
-- [Intellectual property theft operation attributed to Winnti group](https://www.computerweekly.com/news/252516710/Intellectual-property-theft-operation-attributed-to-Winnti-group)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

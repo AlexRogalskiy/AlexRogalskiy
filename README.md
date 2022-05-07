@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Local elections 2022: Lib Dems make gains as Partygate hits Tories and Labour admits ‘mixed picture’– live updates](https://www.theguardian.com/politics/live/2022/may/05/local-elections-2022-conservatives-labour-boris-johnson-keir-starmer-england-wales-scotland-northern-ireland-live-updates)
-- [Russia-Ukraine war: Israel says Putin has apologised for Lavrov’s Hitler comments; fresh attempt to evacuate Azovstal civilians – live](https://www.theguardian.com/world/live/2022/may/05/russia-ukraine-war-bloody-battles-inside-mariupol-steelworks-ukraine-claims-it-has-retaken-areas-near-kherson-live)
-- [The Division: New Orleans – part one – podcast](https://www.theguardian.com/news/audio/2022/may/06/the-division-new-orleans-part-one-podcast)
-- [Ninth journalist killed in Mexico this year as violence against media soars](https://www.theguardian.com/world/2022/may/06/ninth-journalist-killed-in-mexico-this-year-as-violence-against-media-soars)
-- [Esper book details Trump rage at Pence and proposal to hit Mexico with missiles](https://www.theguardian.com/us-news/2022/may/05/trump-aides-pence-losers-2020-protests-book-mark-esper)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/blog/2022/may/06/premier-league-10-things-to-look-out-for-this-weekend)
-- [Todd Boehly’s consortium bid set to win race to buy Chelsea](https://www.theguardian.com/football/2022/may/05/roman-abramovich-insists-he-will-not-ask-chelsea-to-repay-16bn-loan)
-- [Peru’s leader and his wife investigated for allegedly plagiarizing master’s thesis](https://www.theguardian.com/world/2022/may/05/peru-pedro-castillo-lilia-paredes-plagiarism-accusation)
-- [Elections 2022: live council results for England, Scotland and Wales](https://www.theguardian.com/politics/ng-interactive/2022/may/05/elections-2022-results-live-local-council-england-scotland-wales)
-- [Vegan diet can help overweight people shed pounds, study shows](https://www.theguardian.com/society/2022/may/05/vegan-diet-can-help-overweight-people-shed-pounds-study-shows)
+- [Russia-Ukraine war: US gives another $150m in military aid to Ukraine; UN statement omits words ‘war’ and ‘invasion’ – live](https://www.theguardian.com/world/live/2022/may/06/russia-ukraine-war-rescue-operations-to-resume-in-mariupol-hellscape-un-says-amid-rumours-russia-wants-to-claim-city-for-victory-day-live)
+- [Russia-Ukraine war: what we know on day 73 of the invasion](https://www.theguardian.com/world/2022/may/07/russia-ukraine-war-what-we-know-on-day-73-of-the-invasion)
+- [Amazon reportedly fires at least six New York managers involved in labor union](https://www.theguardian.com/technology/2022/may/06/amazon-fires-new-york-managers-labor-union)
+- [Havana explosion: 22 killed and 74 treated in hospital after hotel blast](https://www.theguardian.com/world/2022/may/06/havana-explosion-cuba-latest-hotel-saratoga)
+- [‘It’s just gorgeous’: rare deep-sea dragonfish spotted off California coast](https://www.theguardian.com/us-news/2022/may/06/california-rare-deep-sea-fish-monterey-bay)
+- [San Francisco judge rejects Trump lawsuit challenging Twitter suspension](https://www.theguardian.com/us-news/2022/may/06/donald-trump-twitter-lawsuit-dismissed)
+- [Trolley Problem, Inc review – a thrill ride into the world of ethical dilemmas](https://www.theguardian.com/games/2022/may/07/trolley-problem-inc-review-a-thrill-ride-into-the-world-of-ethical-dilemmas)
+- [Love Life review – this deeply romantic drama portrays love impeccably](https://www.theguardian.com/tv-and-radio/2022/may/06/love-life-review-william-jackson-harper)
+- [Chelsea takeover: contract signed for Boehly group to end Abramovich era](https://www.theguardian.com/football/2022/may/06/chelsea-takeover-sale-contract-signed-boehly-group-abramovich)
+- [Marjorie Taylor Greene is qualified to run for re-election, Georgia official says](https://www.theguardian.com/us-news/2022/may/06/trump-marjorie-taylor-greene-reelection-georgia-judge-raffensperger)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

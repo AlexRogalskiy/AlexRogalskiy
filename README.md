@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Public health agency tracked Canadians&#39; movements via phone data during pandemic](https://www.cp24.com/news/canadians-trips-to-liquor-stores-pharmacies-tracked-via-phones-during-pandemic-1.5890349)
-- [Choosing a Mid-Career Master&#39;s Degree in Computer Science](https://evanp.me/2022/05/04/masters-degree-in-computer-science/)
-- [Homes in 97% of U.S. cities are overvalued, Moody&#39;s says](https://www.cbsnews.com/news/home-prices-mortgage-rates-moodys-mark-zandi/)
-- [Abletone Learning Synth](https://learningsynths.ableton.com/)
-- [Mygov is a ‘huge disappointment,’ key architect despairs](https://www.innovationaus.com/mygov-is-a-huge-disappointment-key-architect-despairs/)
-- [$35 sculpture found at an Austin Goodwill was looted from a museum during WWII](https://www.kut.org/life-arts/2022-05-04/so-the-35-sculpture-you-got-at-an-austin-goodwill-was-looted-from-a-museum-during-wwii-now-what)
-- [Being Acquired](https://www.csisoftware.com/about-us/being-acquired)
-- [Bugs that the Rust compiler catches for you](https://kerkour.com/bugs-rust-compiler-helps-prevent)
-- [Skio &lpar;subscriptions for Shopify, easy ReCharge migrations&rpar; is hiring eng in NYC](https://skio.com/careers/)
-- [Including “And. And. And. And. And.” in a Google doc causes it to crash](https://support.google.com/docs/thread/162510194/including-and-and-and-and-and-in-a-google-doc-causes-it-to-crash?hl=en)
+- [Show HN: Sonse, a note-taking CLI for plaintext enthusiasts](https://github.com/rattlerake/sonse)
+- [It’s time we fix the unethical design of cookie consent windows](https://uxdesign.cc/unethical-design-of-cookie-consent-windows-857ef68f1bd6?gi=d060c7b22ab)
+- [Roll a Lisp in C – Evaluation](https://swatson555.github.io/posts/2022-05-06-make-a-lisp-2.html)
+- [Heroku: We’ve Heard Your Feedback](https://blog.heroku.com/we-heard-your-feedback)
+- [Roboto but Make It Flex](https://material.io/blog/roboto-flex)
+- [MenuetOS](http://www.menuetos.net/index.htm)
+- [The diminishing returns of productivity culture](https://annehelen.substack.com/p/the-diminishing-returns-of-productivity)
+- [Skiing Mt. Everest](https://www.smithsonianmag.com/history/the-godfather-of-extreme-skiing-7744831/)
+- [I’ve spent my Easter break customizing Neovim](https://framal.xyz/why-ive-spent-my-easter-break-customizing-neovim/)
+- [An approximation to determine the source of the WOW! Signal](https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/an-approximation-to-determine-the-source-of-the-wow-signal/4C58B6292C73FE8BF04A06C67BAA5B1A)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

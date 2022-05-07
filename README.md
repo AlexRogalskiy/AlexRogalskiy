@@ -369,6 +369,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Apple, Google, Microsoft Move Closer to a Password-free Future](https://www.informationweek.com/security-and-risk-strategy/apple-google-microsoft-move-closer-to-a-password-free-future)
+- [Fintech, Cloud, and Finding Ways to Bridge the Skills Gap](https://www.informationweek.com/fintech/fintech-cloud-and-finding-ways-to-bridge-the-skills-gap)
+- [How the Digital Ecosystem Boomed During the Pandemic and Beyond](https://www.informationweek.com/it-life/how-the-digital-ecosystem-boomed-during-the-pandemic-and-beyond)
 - [Tech Advances in Retail/Food Industry During the Pandemic](https://www.informationweek.com/software/tech-advances-in-retail-food-industry-during-the-pandemic)
 - [Managing Cyber Risks in Today&#39;s Threat Environment](https://www.informationweek.com/security-and-risk-strategy/managing-cyber-risks-in-today-s-threat-environment)
 - [InformationWeek Salary Survey: What IT Pros Earn](https://www.informationweek.com/team-building-and-staffing/informationweek-salary-survey-what-it-pros-earn)
@@ -376,9 +379,6 @@
 - [Look Beyond Traditional Channels to Close the Cybersecurity Skills Gap](https://www.informationweek.com/security-and-risk-strategy/look-beyond-traditional-channels-to-close-the-cybersecurity-skills-gap)
 - [Quick Study: The Future of Work is Here](https://www.informationweek.com/strategic-cio/quick-study-the-future-of-work-is-here)
 - [Making IT Talent Hires a Business Priority](https://www.informationweek.com/strategic-cio/making-it-talent-hires-a-business-priority)
-- [Priorities of Highly Successful Chief Data Officers](https://www.informationweek.com/big-data/priorities-of-highly-successful-chief-data-officers)
-- [The Genesis of Artificial Intelligence and Digital Twins](https://www.informationweek.com/big-data/the-genesis-of-artificial-intelligence-and-digital-twins)
-- [Building Data Literacy: What CDOs Need to Know](https://www.informationweek.com/big-data/building-data-literacy-what-cdos-need-to-know)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

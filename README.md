@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [BrandPost: Questions that every business should ask managed services providers](https://www.computerworld.com/article/3660032/questions-that-every-business-should-ask-managed-services-providers.html#tk.rss_all)
+- [BrandPost: SMB Best Practices: Questions to Ask Before Contracting With a Security Services Provider](https://www.computerworld.com/article/3660031/smb-best-practices-questions-to-ask-before-contracting-with-a-security-services-provider.html#tk.rss_all)
+- [BrandPost: Small Business Best Practices: How to Convince Your Boss to Invest in Cybersecurity](https://www.computerworld.com/article/3659797/small-business-best-practices-how-to-convince-your-boss-to-invest-in-cybersecurity.html#tk.rss_all)
+- [6 virtual collaboration solutions for remote teams](https://www.computerworld.com/article/3660056/6-virtual-collaboration-solutions-for-remote-teams.html#tk.rss_all)
+- [BrandPost: The SMB Guide to Securing Employee Personal Devices](https://www.computerworld.com/article/3660030/the-smb-guide-to-securing-employee-personal-devices.html#tk.rss_all)
+- [Dell’s sustainability program envisions a better future](https://www.computerworld.com/article/3659835/dells-sustainability-program-envisions-a-better-future.html#tk.rss_all)
+- [Neighborhoods, phone booths, and huddle rooms: Meet the office of the future](https://www.computerworld.com/article/3660052/neighborhoods-phone-booths-and-huddle-rooms-meet-the-office-of-the-future.html#tk.rss_all)
+- [Apple employees revolt against mandatory back-to-work policy](https://www.computerworld.com/article/3660071/apple-employees-revolt-against-mandatory-back-to-work-policy.html#tk.rss_all)
+- [7 hidden Pixel shortcuts you probably aren&#39;t using](https://www.computerworld.com/article/3658207/pixel-shortcuts.html#tk.rss_all)
 - [Noteworthy tech acquisitions 2022](https://www.computerworld.com/article/3646533/noteworthy-tech-acquisitions-2022.html#tk.rss_all)
-- [11 business lessons from iPod father Tony Fadell](https://www.computerworld.com/article/3659871/11-business-lessons-from-ipod-father-tony-fadell.html#tk.rss_all)
-- [California legislators put four-day workweek proposal on hold](https://www.computerworld.com/article/3659870/california-legislators-put-four-day-workweek-proposal-on-hold.html#tk.rss_all)
-- [Welcome to the new world of business travel](https://www.computerworld.com/article/3659197/welcome-to-the-new-world-of-business-travel.html#tk.rss_all)
-- [Google acquires Raxium in augmented reality push](https://www.computerworld.com/article/3659830/google-acquires-raxium-in-augmented-reality-push.html#tk.rss_all)
-- [Microsoft Edge has edged out Apple&#39;s Safari in browser popularity](https://www.computerworld.com/article/3659888/microsoft-edge-has-edged-out-apples-safari-in-browser-popularity.html#tk.rss_all)
-- [How to translate emails, documents, and more with Microsoft Office](https://www.computerworld.com/article/3658212/how-to-translate-emails-documents-and-more-with-microsoft-office.html#tk.rss_all)
-- [The Great Resignation puts pressure on those who stay behind](https://www.computerworld.com/article/3659200/the-great-resignation-puts-pressure-on-those-who-stay-behind.html#tk.rss_all)
-- [Mosyle introduces new MDM services for Apple enterprise](https://www.computerworld.com/article/3659003/mosyle-introduces-new-mdm-services-for-apple-enterprise.html#tk.rss_all)
-- [Google responds to EU data rulings with new Workspace controls](https://www.computerworld.com/article/3659002/google-responds-to-eu-data-rulings-with-new-workspace-controls.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

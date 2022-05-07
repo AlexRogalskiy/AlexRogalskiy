@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Tech Shuk highlights climate change innovators](https://www.itworldcanada.com/article/tech-shuk-highlights-climate-change-innovators/482953)
+- [Cyber Security Today, Week in Review for Friday, May 6, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-may-6-2022/482916)
+- [Canadian long-haul investment firm Aquila acquires global marketing solution provider Comosoft](https://www.itworldcanada.com/article/canadian-long-haul-investment-firm-aquila-acquires-global-marketing-solution-provider-comosoft/483070)
+- [Apple, Microsoft, Google expand support for passwordless sign-in](https://www.itworldcanada.com/article/apple-microsoft-google-expand-support-for-passwordless-sign-in/483054)
+- [Cyber Security Today, May 6, 2022 – Hacking helped by infected removable storage devices, corporate espionage, and more](https://www.itworldcanada.com/article/cyber-security-today-may-6-2022-hacking-helped-by-infected-removable-storage-devices-corporate-espionage-and-more/482960)
+- [Hashtag Trending May 6 – Mixed reactions to Netflix’s password sharing charge; head of FDA says misinformation is the leading cause of death; Big Tech might have to start sharing data with researchers](https://www.itworldcanada.com/article/hashtag-trending-may-6-mixed-reactions-to-netflixs-password-sharing-charge-head-of-fda-says-misinformation-is-the-leading-cause-of-death-big-tech-might-have-to-start-sharing-data-with-res/483015)
 - [Yukon’s fibre-to-the-home assets now Indigenous-owned](https://www.itworldcanada.com/article/yukons-fibre-to-the-home-assets-now-indigenous-owned/482897)
 - [Microsoft Canada’s new head office: how it was optimized for hybrid work](https://www.itworldcanada.com/article/microsoft-canadas-new-head-office-how-it-was-optimized-for-hybrid-work/482882)
 - [Microsoft Canada celebrates the opening of its new downtown headquarters](https://www.itworldcanada.com/article/microsoft-canada-celebrates-the-opening-of-its-new-downtown-headquarters/482585)
 - [World Password Day: How CISOs can get rid of passwords](https://www.itworldcanada.com/article/world-password-day-how-cisos-can-get-rid-of-passwords/482770)
-- [Hashtag Trending May 5 – Intuit fined for misleading ads; ISPs ordered to block illegal streams; Musk wants to charge corporations for tweets](https://www.itworldcanada.com/article/hashtag-trending-may-5-intuit-fined-for-misleading-ads-isps-ordered-to-block-illegal-streams-musk-wants-to-charge-corporations-for-tweets/482741)
-- [Be mindful of the gaps in your hybrid workplace](https://www.itworldcanada.com/article/be-mindful-of-the-gaps-in-your-hybrid-workplace/482384)
-- [The Government of Ontario to use Anaplan on a cloud platform](https://www.itworldcanada.com/article/the-government-of-ontario-to-use-anaplan-on-a-cloud-platform/482716)
-- [Embracer to acquire Eidos, Crystal Dynamics, and Square Enix Montreal](https://www.itworldcanada.com/article/embracer-to-acquire-eidos-crystal-dynamics-and-square-enix-montreal/482559)
-- [Ontario government and not-for-profit partner to launch training project for both employers and job seekers](https://www.itworldcanada.com/article/ontario-government-and-not-for-profit-partner-to-launch-training-project-for-both-employers-and-job-seekers/482525)
-- [Cyber Security Today, May 4, 2022 – Advice to IT managers and individuals for World Password Day](https://www.itworldcanada.com/article/cyber-security-today-may-4-2022-advice-to-it-managers-and-individuals-for-world-password-day/482567)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

@@ -414,6 +414,9 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [security / workflow question about google sheets](https://www.reddit.com/r/InformationTechnology/comments/uk3me7/security_workflow_question_about_google_sheets/)
+- [iOS or Android or Prism](https://www.reddit.com/r/InformationTechnology/comments/ujw988/ios_or_android_or_prism/)
+- [Is it possible to find a historical list of IP addresses?](https://www.reddit.com/r/InformationTechnology/comments/ujt43p/is_it_possible_to_find_a_historical_list_of_ip/)
 - [Real Advice for GROWING a Successful I.T. Career &lpar;From Industry Experts&rpar;](https://www.reddit.com/r/InformationTechnology/comments/uj9dk0/real_advice_for_growing_a_successful_it_career/)
 - [shrinking IT departments?](https://www.reddit.com/r/InformationTechnology/comments/uj7g8e/shrinking_it_departments/)
 - [How to patch/update old windows 10 desktop that is completely offline?](https://www.reddit.com/r/InformationTechnology/comments/uj74ic/how_to_patchupdate_old_windows_10_desktop_that_is/)
@@ -421,9 +424,6 @@
 - [How many IT professionals use psychedelics?](https://www.reddit.com/r/InformationTechnology/comments/uimhb2/how_many_it_professionals_use_psychedelics/)
 - [Troubleshooting corrupt profiles](https://www.reddit.com/r/InformationTechnology/comments/uil5oq/troubleshooting_corrupt_profiles/)
 - [Got my first job in IT for Level 1 Support for a Medical Corporation. AMA](https://www.reddit.com/r/InformationTechnology/comments/uihe0y/got_my_first_job_in_it_for_level_1_support_for_a/)
-- [What careers outside of software dev can I pursue in IT with a computer science degree?](https://www.reddit.com/r/InformationTechnology/comments/uiedof/what_careers_outside_of_software_dev_can_i_pursue/)
-- [Getting out of HelpDesk](https://www.reddit.com/r/InformationTechnology/comments/uhriri/getting_out_of_helpdesk/)
-- [Will Connecting Two Computers To Modem Effect Performance?](https://www.reddit.com/r/InformationTechnology/comments/uhqi9b/will_connecting_two_computers_to_modem_effect/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

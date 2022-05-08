@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Show HN: Sonse, a note-taking CLI for plaintext enthusiasts](https://github.com/rattlerake/sonse)
-- [It’s time we fix the unethical design of cookie consent windows](https://uxdesign.cc/unethical-design-of-cookie-consent-windows-857ef68f1bd6?gi=d060c7b22ab)
-- [Roll a Lisp in C – Evaluation](https://swatson555.github.io/posts/2022-05-06-make-a-lisp-2.html)
-- [Heroku: We’ve Heard Your Feedback](https://blog.heroku.com/we-heard-your-feedback)
-- [Roboto but Make It Flex](https://material.io/blog/roboto-flex)
-- [MenuetOS](http://www.menuetos.net/index.htm)
-- [The diminishing returns of productivity culture](https://annehelen.substack.com/p/the-diminishing-returns-of-productivity)
-- [Skiing Mt. Everest](https://www.smithsonianmag.com/history/the-godfather-of-extreme-skiing-7744831/)
-- [I’ve spent my Easter break customizing Neovim](https://framal.xyz/why-ive-spent-my-easter-break-customizing-neovim/)
-- [An approximation to determine the source of the WOW! Signal](https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/an-approximation-to-determine-the-source-of-the-wow-signal/4C58B6292C73FE8BF04A06C67BAA5B1A)
+- [Swarm of micro flying robots in the wild](https://www.science.org/doi/10.1126/scirobotics.abm5954)
+- [New Assembly Like Programming Language?](https://github.com/wellang/well)
+- [Web Development for Beginners – A Curriculum](https://github.com/microsoft/Web-Dev-For-Beginners)
+- [Robots are writing poetry, and many people can’t tell the difference](https://thewalrus.ca/ai-poetry/)
+- [AtoB &lpar;YC S20&rpar; is hiring to build Stripe for Transportation](https://careers.atob.com)
+- [Unauthorized gem takeover for some gems](https://github.com/rubygems/rubygems.org/security/advisories/GHSA-hccv-rwq6-vh79)
+- [Apple&#39;s director of machine learning resigns due to return to office work](https://www.macrumors.com/2022/05/07/apple-director-of-machine-learning-resigns/)
+- [Some CUDA programming fun with Julia](https://cancandan.github.io/julia/graphics/cuda/2022/05/07/triangles.html)
+- [Show HN: Weron – A Peer-to-Peer VPN Based on WebRTC Written in Go](https://github.com/pojntfx/weron)
+- [Xilem: An Architecture for UI in Rust](https://raphlinus.github.io/rust/gui/2022/05/07/ui-architecture.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

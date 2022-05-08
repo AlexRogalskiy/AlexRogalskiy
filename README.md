@@ -414,6 +414,8 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is it a bad idea to use WiFi to connect computers on the shop floor of a small/medium Manufacturing plant?](https://www.reddit.com/r/InformationTechnology/comments/uki2v4/is_it_a_bad_idea_to_use_wifi_to_connect_computers/)
+- [Explaination needed](https://www.reddit.com/r/InformationTechnology/comments/uk4jnv/explaination_needed/)
 - [security / workflow question about google sheets](https://www.reddit.com/r/InformationTechnology/comments/uk3me7/security_workflow_question_about_google_sheets/)
 - [iOS or Android or Prism](https://www.reddit.com/r/InformationTechnology/comments/ujw988/ios_or_android_or_prism/)
 - [Is it possible to find a historical list of IP addresses?](https://www.reddit.com/r/InformationTechnology/comments/ujt43p/is_it_possible_to_find_a_historical_list_of_ip/)
@@ -422,8 +424,6 @@
 - [How to patch/update old windows 10 desktop that is completely offline?](https://www.reddit.com/r/InformationTechnology/comments/uj74ic/how_to_patchupdate_old_windows_10_desktop_that_is/)
 - [JavaScript Comma problem](https://www.reddit.com/r/InformationTechnology/comments/uiurx1/javascript_comma_problem/)
 - [How many IT professionals use psychedelics?](https://www.reddit.com/r/InformationTechnology/comments/uimhb2/how_many_it_professionals_use_psychedelics/)
-- [Troubleshooting corrupt profiles](https://www.reddit.com/r/InformationTechnology/comments/uil5oq/troubleshooting_corrupt_profiles/)
-- [Got my first job in IT for Level 1 Support for a Medical Corporation. AMA](https://www.reddit.com/r/InformationTechnology/comments/uihe0y/got_my_first_job_in_it_for_level_1_support_for_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

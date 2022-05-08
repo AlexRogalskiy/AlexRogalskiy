@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war: US gives another $150m in military aid to Ukraine; UN statement omits words ‘war’ and ‘invasion’ – live](https://www.theguardian.com/world/live/2022/may/06/russia-ukraine-war-rescue-operations-to-resume-in-mariupol-hellscape-un-says-amid-rumours-russia-wants-to-claim-city-for-victory-day-live)
-- [Russia-Ukraine war: what we know on day 73 of the invasion](https://www.theguardian.com/world/2022/may/07/russia-ukraine-war-what-we-know-on-day-73-of-the-invasion)
-- [Amazon reportedly fires at least six New York managers involved in labor union](https://www.theguardian.com/technology/2022/may/06/amazon-fires-new-york-managers-labor-union)
-- [Havana explosion: 22 killed and 74 treated in hospital after hotel blast](https://www.theguardian.com/world/2022/may/06/havana-explosion-cuba-latest-hotel-saratoga)
-- [‘It’s just gorgeous’: rare deep-sea dragonfish spotted off California coast](https://www.theguardian.com/us-news/2022/may/06/california-rare-deep-sea-fish-monterey-bay)
-- [San Francisco judge rejects Trump lawsuit challenging Twitter suspension](https://www.theguardian.com/us-news/2022/may/06/donald-trump-twitter-lawsuit-dismissed)
-- [Trolley Problem, Inc review – a thrill ride into the world of ethical dilemmas](https://www.theguardian.com/games/2022/may/07/trolley-problem-inc-review-a-thrill-ride-into-the-world-of-ethical-dilemmas)
-- [Love Life review – this deeply romantic drama portrays love impeccably](https://www.theguardian.com/tv-and-radio/2022/may/06/love-life-review-william-jackson-harper)
-- [Chelsea takeover: contract signed for Boehly group to end Abramovich era](https://www.theguardian.com/football/2022/may/06/chelsea-takeover-sale-contract-signed-boehly-group-abramovich)
-- [Marjorie Taylor Greene is qualified to run for re-election, Georgia official says](https://www.theguardian.com/us-news/2022/may/06/trump-marjorie-taylor-greene-reelection-georgia-judge-raffensperger)
+- [Russia-Ukraine war: evacuation of women and children from Mariupol steelworks complete; Kyiv claims sinking of second Russian ship – live](https://www.theguardian.com/world/live/2022/may/08/russia-ukraine-war-evacuation-of-women-and-children-from-mariupol-steelworks-complete-kyiv-claims-sinking-of-second-russian-ship-live)
+- [Canelo Álvarez v Dmitry Bivol: WBA light heavyweight championship – live!](https://www.theguardian.com/sport/live/2022/may/07/canelo-alvarez-v-dmitry-bivol-fight-live)
+- [Country singer Mickey Gilley, who helped inspire Urban Cowboy, dies at 86](https://www.theguardian.com/music/2022/may/08/country-singer-mickey-gilley-who-helped-inspire-urban-cowboy-dies-at-86)
+- [The Division: New Orleans – part three – podcast](https://www.theguardian.com/news/audio/2022/may/08/the-division-new-orleans-part-three-podcast)
+- [Jacinda Ardern forced into isolation after partner tests positive to Covid](https://www.theguardian.com/world/2022/may/08/jacinda-ardern-forced-into-isolation-after-partner-tests-positive-to-covid)
+- [Three US tourists die in Bahamas resort after taking ill](https://www.theguardian.com/world/2022/may/08/three-us-tourists-die-in-bahamas-resort-after-taking-ill)
+- [Channel 4 chief looks north in bid to resist privatisation](https://www.theguardian.com/media/2022/may/08/channel-4-chief-looks-north-in-bid-to-resist-privatisation)
+- [The people who risk their lives for a catch](https://www.theguardian.com/australia-news/2022/may/08/thats-why-they-call-it-fishing-the-people-who-risk-their-lives-for-a-catch)
+- [The best wedding guest outfits to wear this summer– in pictures](https://www.theguardian.com/fashion/gallery/2022/may/07/the-best-wedding-guest-outfits-to-wear-this-summer-in-pictures)
+- [Charles Leclerc seals pole while Ferrari lock front row for Miami Grand Prix](https://www.theguardian.com/sport/2022/may/07/charles-leclerc-seals-pole-while-ferrari-lock-front-row-for-miami-grand-prix)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

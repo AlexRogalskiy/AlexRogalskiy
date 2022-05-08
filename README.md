@@ -429,6 +429,7 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Chris Barry named the new president of Microsoft Canada, succeeding Kevin Peesker](https://www.itworldcanada.com/article/chris-barry-named-the-new-president-of-microsoft-canada-succeeding-kevin-peesker/483228)
 - [Tech Shuk highlights climate change innovators](https://www.itworldcanada.com/article/tech-shuk-highlights-climate-change-innovators/482953)
 - [Cyber Security Today, Week in Review for Friday, May 6, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-may-6-2022/482916)
 - [Canadian long-haul investment firm Aquila acquires global marketing solution provider Comosoft](https://www.itworldcanada.com/article/canadian-long-haul-investment-firm-aquila-acquires-global-marketing-solution-provider-comosoft/483070)
@@ -438,7 +439,6 @@
 - [Yukon’s fibre-to-the-home assets now Indigenous-owned](https://www.itworldcanada.com/article/yukons-fibre-to-the-home-assets-now-indigenous-owned/482897)
 - [Microsoft Canada’s new head office: how it was optimized for hybrid work](https://www.itworldcanada.com/article/microsoft-canadas-new-head-office-how-it-was-optimized-for-hybrid-work/482882)
 - [Microsoft Canada celebrates the opening of its new downtown headquarters](https://www.itworldcanada.com/article/microsoft-canada-celebrates-the-opening-of-its-new-downtown-headquarters/482585)
-- [World Password Day: How CISOs can get rid of passwords](https://www.itworldcanada.com/article/world-password-day-how-cisos-can-get-rid-of-passwords/482770)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

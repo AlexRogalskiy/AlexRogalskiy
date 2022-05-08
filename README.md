@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [RadioReference Announces the Retirement of All Ad Serving](https://forums.radioreference.com/threads/radioreference-announces-the-retirement-of-all-ad-serving.442242/)
-- [Man who received landmark pig heart transplant died of pig virus](https://www.theguardian.com/us-news/2022/may/06/man-landmark-pig-heart-transplant-death-pig-virus)
-- [A Web Around the World: A Network of Networks](https://www.filfre.net/2022/05/a-web-around-the-world-part-9-a-network-of-networks/)
-- [How the AI industry profits from catastrophe](https://www.technologyreview.com/2022/04/20/1050392/ai-industry-appen-scale-data-labels/)
-- [Camo 1.6: Support for Safari, FaceTime and More – Reincubate](https://reincubate.com/blog/camo-facetime-safari-support/)
-- [Using a RaspberryPi as a Display Adapter](https://gwolf.org/2022/05/using-a-rpi-as-a-display-adapter.html)
-- [Free Silicon Conference 2022](https://wiki.f-si.org/index.php/FSiC2022)
-- [Nectome MVP](https://news.ycombinator.com/item?id=31291684)
-- [SolveSpace – open-source parametric 3D CAD tool](https://solvespace.com/index.pl)
-- [Toby: Better Than Bookmarks](https://www.gettoby.com/)
+- [Pigeons adjust their flight initiation distance to road speed limits](https://www.nationalgeographic.com/science/article/speeding-towards-birds-in-a-car-for-science)
+- [Artemis: Articulated Neural Pets with Appearance and Motion Synthesis](https://HaiminLuo.github.io/publication/artemis/)
+- [Essential Ingredients of a Metaverse](https://future.a16z.com/7-essential-ingredients-of-a-metaverse/)
+- [The Inventor Who Tried Starting the First Airline Service to SF in 1849](https://www.kqed.org/news/11913439/the-inventor-artist-who-tried-starting-the-first-airline-service-to-sf-in-1849)
+- [Neural Networks Can Use Software Tools in Response to User Commands](https://vimeo.com/705939460)
+- [Alpa: Automated Model-Parallel Deep Learning](https://ai.googleblog.com/2022/05/alpa-automated-model-parallel-deep.html)
+- [Ask HN: What are the privacy implications of FIDO adoption?](https://news.ycombinator.com/item?id=31300725)
+- [‘Canaries in the coalmine’: loss of birds signals changing planet](https://www.theguardian.com/environment/2022/may/05/canaries-in-the-coalmine-loss-of-birds-signals-changing-planet)
+- [Pathways: Google&#39;s New ML System](https://www.bodunhu.com/blog/posts/pathways-googles-new-ml-system/)
+- [Show HN: I Dissected an iPhone Battery](https://www.youtube.com/watch?v=rWYAA5NMLMg)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

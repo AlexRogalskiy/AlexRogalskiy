@@ -389,7 +389,7 @@
 - [What is PyTorch? Python machine learning on GPUs](https://www.infoworld.com/article/3658989/what-is-pytorch-a-popular-alternative-to-tensorflow-for-model-development-with-gpus.html#tk.rss_all)
 - [Will JavaScript containers overtake Linux containers?](https://www.infoworld.com/article/3660069/will-javascript-containers-overtake-linux-containers.html#tk.rss_all)
 - [JDK 19: The features targeted for Java 19](https://www.infoworld.com/article/3653331/jdk-19-the-features-targeted-for-java-19.html#tk.rss_all)
-- [MongoDB’s Mark Porter: What today’s developers need to succeed](https://www.infoworld.com/article/3659648/mongodbs-mark-porter-what-todays-developers-need-to-succeed.html#tk.rss_all)
+- [MongoDB CTO: What today’s developers need to succeed](https://www.infoworld.com/article/3659648/mongodb-cto-what-todays-developers-need-to-succeed.html#tk.rss_all)
 - [Making AI accountable: Blockchain, governance, and auditability](https://www.infoworld.com/article/3658909/making-ai-accountable-blockchain-governance-and-auditability.html#tk.rss_all)
 - [GitHub will require two-factor authentication for all coders](https://www.infoworld.com/article/3659628/github-will-require-two-factor-authentication-for-all-coders.html#tk.rss_all)
 - [Spotify, startups launch funds to support open source maintainers](https://www.infoworld.com/article/3658999/spotify-startups-launch-funds-to-support-open-source-maintainers.html#tk.rss_all)

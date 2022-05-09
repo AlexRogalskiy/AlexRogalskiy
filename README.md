@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war: evacuation of women and children from Mariupol steelworks complete; Kyiv claims sinking of second Russian ship – live](https://www.theguardian.com/world/live/2022/may/08/russia-ukraine-war-evacuation-of-women-and-children-from-mariupol-steelworks-complete-kyiv-claims-sinking-of-second-russian-ship-live)
-- [Canelo Álvarez v Dmitry Bivol: WBA light heavyweight championship – live!](https://www.theguardian.com/sport/live/2022/may/07/canelo-alvarez-v-dmitry-bivol-fight-live)
-- [Country singer Mickey Gilley, who helped inspire Urban Cowboy, dies at 86](https://www.theguardian.com/music/2022/may/08/country-singer-mickey-gilley-who-helped-inspire-urban-cowboy-dies-at-86)
-- [The Division: New Orleans – part three – podcast](https://www.theguardian.com/news/audio/2022/may/08/the-division-new-orleans-part-three-podcast)
-- [Jacinda Ardern forced into isolation after partner tests positive to Covid](https://www.theguardian.com/world/2022/may/08/jacinda-ardern-forced-into-isolation-after-partner-tests-positive-to-covid)
-- [Three US tourists die in Bahamas resort after taking ill](https://www.theguardian.com/world/2022/may/08/three-us-tourists-die-in-bahamas-resort-after-taking-ill)
-- [Channel 4 chief looks north in bid to resist privatisation](https://www.theguardian.com/media/2022/may/08/channel-4-chief-looks-north-in-bid-to-resist-privatisation)
-- [The people who risk their lives for a catch](https://www.theguardian.com/australia-news/2022/may/08/thats-why-they-call-it-fishing-the-people-who-risk-their-lives-for-a-catch)
-- [The best wedding guest outfits to wear this summer– in pictures](https://www.theguardian.com/fashion/gallery/2022/may/07/the-best-wedding-guest-outfits-to-wear-this-summer-in-pictures)
-- [Charles Leclerc seals pole while Ferrari lock front row for Miami Grand Prix](https://www.theguardian.com/sport/2022/may/07/charles-leclerc-seals-pole-while-ferrari-lock-front-row-for-miami-grand-prix)
+- [Russia-Ukraine war latest: 60 people confirmed killed in school bombing as Russia prepares to mark Victory Day](https://www.theguardian.com/world/live/2022/may/08/russia-ukraine-war-evacuation-of-women-and-children-from-mariupol-steelworks-complete-kyiv-claims-sinking-of-second-russian-ship-live)
+- [Once a zero-Covid poster child, Taiwan learns to live with the virus](https://www.theguardian.com/world/2022/may/09/once-a-zero-covid-poster-child-taiwan-learns-to-live-with-the-virus)
+- [The Division: New Orleans – part four – podcast](https://www.theguardian.com/news/audio/2022/may/09/the-division-new-orleans-part-four-podcast)
+- [‘I didn’t think we would make it’: last wave of Azovstal evacuees reach safety](https://www.theguardian.com/world/2022/may/09/last-wave-azovstal-steel-plant-evacuees-mariupol-reach-safety-zaporizhzhia-ukraine)
+- [Philippines election 2022: voting begins to decide next president](https://www.theguardian.com/world/2022/may/09/philippines-presidential-election-2022-voting-begins-leni-robredo-ferdinand-bongbong-marcos-jr-polls-open-president)
+- [Putin’s ‘fascism and tyranny’ equal to Nazis, Ben Wallace says](https://www.theguardian.com/politics/2022/may/08/putins-fascism-and-tyranny-equal-to-nazis-ben-wallace-says)
+- [More than 2m adults in UK cannot afford to eat every day, survey finds](https://www.theguardian.com/society/2022/may/09/more-than-2m-adults-in-uk-cannot-afford-to-eat-every-day-survey-finds)
+- [UK must protect child influencers from exploitation, MPs say](https://www.theguardian.com/media/2022/may/09/uk-must-protect-child-influencers-exploitation-social-media)
+- [Universities oppose plan for student cap and loans in England](https://www.theguardian.com/education/2022/may/09/universities-oppose-plan-for-student-cap-and-loans-in-england)
+- [European roundup: Atlético beat Real Madrid to boost Champions League hopes](https://www.theguardian.com/football/2022/may/08/european-roundup-atletico-beat-real-madrid-to-boost-champions-league-hopes)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

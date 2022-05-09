@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Swarm of micro flying robots in the wild](https://www.science.org/doi/10.1126/scirobotics.abm5954)
-- [New Assembly Like Programming Language?](https://github.com/wellang/well)
-- [Web Development for Beginners – A Curriculum](https://github.com/microsoft/Web-Dev-For-Beginners)
-- [Robots are writing poetry, and many people can’t tell the difference](https://thewalrus.ca/ai-poetry/)
-- [AtoB &lpar;YC S20&rpar; is hiring to build Stripe for Transportation](https://careers.atob.com)
-- [Unauthorized gem takeover for some gems](https://github.com/rubygems/rubygems.org/security/advisories/GHSA-hccv-rwq6-vh79)
-- [Apple&#39;s director of machine learning resigns due to return to office work](https://www.macrumors.com/2022/05/07/apple-director-of-machine-learning-resigns/)
-- [Some CUDA programming fun with Julia](https://cancandan.github.io/julia/graphics/cuda/2022/05/07/triangles.html)
-- [Show HN: Weron – A Peer-to-Peer VPN Based on WebRTC Written in Go](https://github.com/pojntfx/weron)
-- [Xilem: An Architecture for UI in Rust](https://raphlinus.github.io/rust/gui/2022/05/07/ui-architecture.html)
+- [Colleges where everyone works and there&#39;s no tuition](https://www.newsnationnow.com/us-news/education/no-tuition-free-work-colleges-us/)
+- [Ask HN: Is DBA still a good job?](https://news.ycombinator.com/item?id=31309729)
+- [Boston University Undergraduate Costs Reach $80k](https://www.bu.edu/admissions/tuition-aid/tuition/)
+- [The quest to explore Colombia’s untouched jungle](https://www.bbc.com/future/article/20180712-the-quest-to-explore-colombias-untouched-jungles)
+- [Monsanto’s Ghostwriting to Influence Science and Media](https://disinformationchronicle.substack.com/p/monsantos-ghostwriting-to-influence)
+- [Chart: Lithium prices are through the roof this year](https://www.canarymedia.com/articles/batteries/chart-lithium-prices-are-through-the-roof-this-year)
+- [Forget personalisation, it’s impossible and it doesn’t work](https://www.marketingweek.com/peter-weinberg-jon-lombardo-personalisation-impersonalisation/)
+- [A Case for an Open Source CS Curriculum [pdf] &lpar;2018&rpar;](https://homes.cs.washington.edu/~tom/talks/edslides.pdf)
+- [“I don&#39;t know the numbers”: a math puzzle](https://alexanderell.is/posts/numbers-game/)
+- [Use fzf for tmux session switching](https://waylonwalker.com/tmux-fzf-session-jump/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

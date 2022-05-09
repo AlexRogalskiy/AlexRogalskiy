@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Pigeons adjust their flight initiation distance to road speed limits](https://www.nationalgeographic.com/science/article/speeding-towards-birds-in-a-car-for-science)
-- [Artemis: Articulated Neural Pets with Appearance and Motion Synthesis](https://HaiminLuo.github.io/publication/artemis/)
-- [Essential Ingredients of a Metaverse](https://future.a16z.com/7-essential-ingredients-of-a-metaverse/)
-- [The Inventor Who Tried Starting the First Airline Service to SF in 1849](https://www.kqed.org/news/11913439/the-inventor-artist-who-tried-starting-the-first-airline-service-to-sf-in-1849)
-- [Neural Networks Can Use Software Tools in Response to User Commands](https://vimeo.com/705939460)
-- [Alpa: Automated Model-Parallel Deep Learning](https://ai.googleblog.com/2022/05/alpa-automated-model-parallel-deep.html)
-- [Ask HN: What are the privacy implications of FIDO adoption?](https://news.ycombinator.com/item?id=31300725)
-- [‘Canaries in the coalmine’: loss of birds signals changing planet](https://www.theguardian.com/environment/2022/may/05/canaries-in-the-coalmine-loss-of-birds-signals-changing-planet)
-- [Pathways: Google&#39;s New ML System](https://www.bodunhu.com/blog/posts/pathways-googles-new-ml-system/)
-- [Show HN: I Dissected an iPhone Battery](https://www.youtube.com/watch?v=rWYAA5NMLMg)
+- [How to Spend it &lpar;the Jony Ive issue&rpar;](https://www.ft.com/content/01ce4d84-d7bd-4bd0-b04a-bc009a4d37a5)
+- [Reasons MVC Frameworks aren’t dinosaurs but sharks](https://www.david-dahan.com/blog/10-reasons-mvc-frameworks-arent-dinosaurs-but-sharks)
+- [One Engineers quest for the perfect t-shirt](https://kiranrao.ca/2021/11/17/perfect-shirt.html)
+- [Reasonable [STEM] Fellas, Humor Me](https://www.linkedin.com/posts/jared-zook-7746719b_reasonable-fellas-humor-me-why-would-activity-6928575470540132352-r4t1)
+- [From Shadow Forks to Mainnet](https://tim.mirror.xyz/PWFVaHY3Mrx7srarMmuBWya0J5kioR1l2xaH3p5APDk)
+- [Faxanadu](https://en.wikipedia.org/wiki/Faxanadu)
+- [Gopher on the Palm Pilot and the pitfalls of PalmOS connectivity](http://oldvcr.blogspot.com/2022/05/gopher-on-palm-pilot-and-pitfalls-of.html)
+- [Build bare-metal OS images on CI](https://github.com/goldboot/goldboot)
+- [Wellang, an Upcoming Language](https://news.ycombinator.com/item?id=31309987)
+- [Fecal transplants reverses effects of aging in mice](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01243-w)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

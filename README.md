@@ -369,6 +369,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Are Blockchain and Decentralized Cloud Making Much Headway?](https://www.informationweek.com/cloud/are-blockchain-and-decentralized-cloud-making-much-headway-)
+- [5 Skills a Cloud Architect Needs to Succeed](https://www.informationweek.com/cloud/five-skills-a-cloud-architect-needs-to-succeed)
 - [Apple, Google, Microsoft Move Closer to a Password-free Future](https://www.informationweek.com/security-and-risk-strategy/apple-google-microsoft-move-closer-to-a-password-free-future)
 - [Fintech, Cloud, and Finding Ways to Bridge the Skills Gap](https://www.informationweek.com/fintech/fintech-cloud-and-finding-ways-to-bridge-the-skills-gap)
 - [How the Digital Ecosystem Boomed During the Pandemic and Beyond](https://www.informationweek.com/it-life/how-the-digital-ecosystem-boomed-during-the-pandemic-and-beyond)
@@ -377,8 +379,6 @@
 - [InformationWeek Salary Survey: What IT Pros Earn](https://www.informationweek.com/team-building-and-staffing/informationweek-salary-survey-what-it-pros-earn)
 - [How CIOs Can Create Cohesive Teams That Accelerate Transformation](https://www.informationweek.com/strategic-cio/how-cios-can-create-cohesive-teams-that-accelerate-transformation)
 - [Look Beyond Traditional Channels to Close the Cybersecurity Skills Gap](https://www.informationweek.com/security-and-risk-strategy/look-beyond-traditional-channels-to-close-the-cybersecurity-skills-gap)
-- [Quick Study: The Future of Work is Here](https://www.informationweek.com/strategic-cio/quick-study-the-future-of-work-is-here)
-- [Making IT Talent Hires a Business Priority](https://www.informationweek.com/strategic-cio/making-it-talent-hires-a-business-priority)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

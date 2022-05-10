@@ -399,6 +399,8 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Ctera opens up its storage to third-party analytics via APIs](https://www.computerweekly.com/news/252517935/Ctera-opens-up-its-storage-to-third-party-analytics-via-APIs)
+- [AWS embarks on green power-focused deals with AES and Fluence Energy](https://www.computerweekly.com/news/252517918/AWS-embarks-on-green-power-focused-deals-with-AES-and-Fluence-Energy)
 - [UK digital markets regulator to be given statutory powers](https://www.computerweekly.com/news/252516823/UK-digital-markets-regulator-to-be-given-statutory-powers)
 - [Uptime Institute debuts sustainability-focused accreditation for datacentre professionals](https://www.computerweekly.com/news/252516806/Uptime-Institute-debuts-sustainability-focused-accreditation-for-datacentre-professionals)
 - [John Lewis to hire more than 150 tech workers](https://www.computerweekly.com/news/252516805/John-Lewis-to-hire-more-than-150-tech-workers)
@@ -407,8 +409,6 @@
 - [London’s too small for Arm IPO, says Hermann Hauser](https://www.computerweekly.com/news/252516766/Londons-too-small-for-Arm-IP-says-Hermann-Hauser)
 - [Disaster recovery is an essential service for EDF with Phenix-IT](https://www.computerweekly.com/feature/Disaster-recovery-is-an-essential-service-for-EDF-with-Phenix-IT)
 - [Prepare for smart robot revolution](https://www.computerweekly.com/news/252516758/Prepare-for-smart-robot-revolution)
-- [Five companies join NCSC for Startups to deal with ransomware](https://www.computerweekly.com/news/252516756/Five-companies-join-NCSC-for-Startups-to-deal-with-ransomware)
-- [Security Think Tank: Identify, assess and monitor to understand attack paths](https://www.computerweekly.com/opinion/Security-Think-Tank-Identify-assess-and-monitor-to-understand-attack-paths)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

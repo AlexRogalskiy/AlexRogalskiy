@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Colleges where everyone works and there&#39;s no tuition](https://www.newsnationnow.com/us-news/education/no-tuition-free-work-colleges-us/)
-- [Ask HN: Is DBA still a good job?](https://news.ycombinator.com/item?id=31309729)
-- [Boston University Undergraduate Costs Reach $80k](https://www.bu.edu/admissions/tuition-aid/tuition/)
-- [The quest to explore Colombia’s untouched jungle](https://www.bbc.com/future/article/20180712-the-quest-to-explore-colombias-untouched-jungles)
-- [Monsanto’s Ghostwriting to Influence Science and Media](https://disinformationchronicle.substack.com/p/monsantos-ghostwriting-to-influence)
-- [Chart: Lithium prices are through the roof this year](https://www.canarymedia.com/articles/batteries/chart-lithium-prices-are-through-the-roof-this-year)
-- [Forget personalisation, it’s impossible and it doesn’t work](https://www.marketingweek.com/peter-weinberg-jon-lombardo-personalisation-impersonalisation/)
-- [A Case for an Open Source CS Curriculum [pdf] &lpar;2018&rpar;](https://homes.cs.washington.edu/~tom/talks/edslides.pdf)
-- [“I don&#39;t know the numbers”: a math puzzle](https://alexanderell.is/posts/numbers-game/)
-- [Use fzf for tmux session switching](https://waylonwalker.com/tmux-fzf-session-jump/)
+- [Cloud TPU VMs are generally available](https://cloud.google.com/blog/products/compute/cloud-tpu-vms-are-generally-available)
+- [The White House’s weirdly hip record collection](https://www.washingtonian.com/2022/05/03/the-untold-story-of-the-white-houses-weirdly-hip-record-collection/)
+- [Coinbase stock lost over 75% value](https://www.google.com/search?q=coinbase+stock)
+- [On Creating a Social Network](https://0xff.nu/social-network)
+- [UST Stablecoin Loses Dollar Peg](https://www.coindesk.com/business/2022/05/09/ust-stablecoin-falls-below-dollar-peg-for-second-time-in-48-hours/)
+- [A CEO&#39;s Guide to Emacs &lpar;2015&rpar;](https://www.fugue.co/blog/2015-11-11-guide-to-emacs.html)
+- [How to have a billion dollar exit with zero capital gains tax](https://axiomalpha.com/how-to-use-the-unlimited-tax-loophole/)
+- [Show HN: A Spatial Environment for Python](https://python.natto.dev/)
+- [Day trader army loses all the money it made in meme-stock era](https://www.bloomberg.com/news/articles/2022-05-08/day-trader-army-loses-all-the-money-it-made-in-meme-stock-era)
+- [AV1 Video Codec](https://aomedia.org/av1/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

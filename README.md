@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war latest: 60 people confirmed killed in school bombing as Russia prepares to mark Victory Day](https://www.theguardian.com/world/live/2022/may/08/russia-ukraine-war-evacuation-of-women-and-children-from-mariupol-steelworks-complete-kyiv-claims-sinking-of-second-russian-ship-live)
-- [Once a zero-Covid poster child, Taiwan learns to live with the virus](https://www.theguardian.com/world/2022/may/09/once-a-zero-covid-poster-child-taiwan-learns-to-live-with-the-virus)
-- [The Division: New Orleans – part four – podcast](https://www.theguardian.com/news/audio/2022/may/09/the-division-new-orleans-part-four-podcast)
-- [‘I didn’t think we would make it’: last wave of Azovstal evacuees reach safety](https://www.theguardian.com/world/2022/may/09/last-wave-azovstal-steel-plant-evacuees-mariupol-reach-safety-zaporizhzhia-ukraine)
-- [Philippines election 2022: voting begins to decide next president](https://www.theguardian.com/world/2022/may/09/philippines-presidential-election-2022-voting-begins-leni-robredo-ferdinand-bongbong-marcos-jr-polls-open-president)
-- [Putin’s ‘fascism and tyranny’ equal to Nazis, Ben Wallace says](https://www.theguardian.com/politics/2022/may/08/putins-fascism-and-tyranny-equal-to-nazis-ben-wallace-says)
-- [More than 2m adults in UK cannot afford to eat every day, survey finds](https://www.theguardian.com/society/2022/may/09/more-than-2m-adults-in-uk-cannot-afford-to-eat-every-day-survey-finds)
-- [UK must protect child influencers from exploitation, MPs say](https://www.theguardian.com/media/2022/may/09/uk-must-protect-child-influencers-exploitation-social-media)
-- [Universities oppose plan for student cap and loans in England](https://www.theguardian.com/education/2022/may/09/universities-oppose-plan-for-student-cap-and-loans-in-england)
-- [European roundup: Atlético beat Real Madrid to boost Champions League hopes](https://www.theguardian.com/football/2022/may/08/european-roundup-atletico-beat-real-madrid-to-boost-champions-league-hopes)
+- [Russia-Ukraine war: Russia trying to storm Azovstal plant, says Ukraine; US to give Ukraine $40bn in aid](https://www.theguardian.com/world/live/2022/may/09/russia-ukraine-war-latest-russia-to-mark-victory-day-uk-defence-secretary-to-accuse-putin-of-mirroring-fascism-live)
+- [Andy Warhol’s famed Marilyn Monroe portrait sells for record $195m at auction](https://www.theguardian.com/artanddesign/2022/may/09/andy-warhol-marilyn-monroe-portrait-auction)
+- [What does Sinn Féin’s win mean for Northern Ireland? – podcast](https://www.theguardian.com/news/audio/2022/may/10/what-sinn-fein-victory-means-for-northern-ireland-podcast)
+- [‘No end in sight’: Shanghai residents chafe at harsh Covid measures](https://www.theguardian.com/world/2022/may/10/no-end-in-sight-shanghai-residents-chafe-at-harsh-covid-measures)
+- [Russia-Ukraine war: what we know on day 76 of the invasion](https://www.theguardian.com/world/2022/may/10/russia-ukraine-war-what-we-know-on-day-76-of-the-invasion)
+- [Alabama jail official, who allegedly fled with inmate, dies after police chase](https://www.theguardian.com/us-news/2022/may/09/alabama-officer-escaped-figitive-caught)
+- [Pulitzer prize for Ukraine journalists rewards courageous, truthful reporting](https://www.theguardian.com/world/2022/may/10/pulitzer-prize-for-ukraine-journalists-rewards-courageous-truthful-reporting)
+- [Marcos Jr aims to fulfil family’s ‘destiny’ as Philippines president](https://www.theguardian.com/world/2022/may/10/ferdanand-marcos-jr-bonbong-philippines-president-promises-unity)
+- [Two slain in Mexico are the latest in unrelenting slaughter of journalists](https://www.theguardian.com/world/2022/may/09/mexico-journalists-killed-slaughter-amlo)
+- [Avoid using gas as ‘transition’ fuel in move to clean energy, study urges](https://www.theguardian.com/environment/2022/may/10/avoid-using-gas-transition-fuel-move-clean-energy-study-urges)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

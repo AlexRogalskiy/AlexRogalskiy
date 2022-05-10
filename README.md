@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Quebec government to pay researchers for discovering vulnerabilities](https://www.itworldcanada.com/article/quebec-government-to-pay-researchers-for-discovering-vulnerabilities/483522)
+- [Montreal-based startup to launch event platform](https://www.itworldcanada.com/article/montreal-based-startup-to-launch-event-platform/482922)
+- [Budget-priced RAT is surprisingly effective tool for hackers, say BlackBerry researchers](https://www.itworldcanada.com/article/budget-priced-rat-is-surprisingly-effective-tool-for-hackers-say-blackberry-researchers/483483)
+- [Microsoft expands its managed security solutions](https://www.itworldcanada.com/article/microsoft-expands-its-managed-security-solutions/483429)
+- [Cyber Security Today, May 9, 2022 –  Breaches of security controls at Ikea Canada and two American healthcare providers](https://www.itworldcanada.com/article/cyber-security-today-may-9-2022-breaches-of-security-controls-at-ikea-canada-and-two-american-healthcare-providers/483370)
+- [Hashtag Trending May 9 – Remote work doesn’t hamper productivity; Amazon curbs fake reviews; Nvidia fined by SEC](https://www.itworldcanada.com/article/hashtag-trending-may-9-remote-work-doesnt-hamper-productivity-amazon-curbs-fake-reviews-nvidia-fined-by-sec/483438)
 - [This week in Ransomware – Friday May 6, 2022](https://www.itworldcanada.com/article/this-week-in-ransomware-friday-may-6-2022/482992)
 - [CIO Peer Forum 2022: The evolving role of the CIO](https://www.itworldcanada.com/article/cio-peer-forum-2022-the-evolving-role-of-the-cio/482963)
 - [Chris Barry named the new president of Microsoft Canada, succeeding Kevin Peesker](https://www.itworldcanada.com/article/chris-barry-named-the-new-president-of-microsoft-canada-succeeding-kevin-peesker/483228)
 - [Tech Shuk highlights climate change innovators](https://www.itworldcanada.com/article/tech-shuk-highlights-climate-change-innovators/482953)
-- [Cyber Security Today, Week in Review for Friday, May 6, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-may-6-2022/482916)
-- [Canadian long-haul investment firm Aquila acquires global marketing solution provider Comosoft](https://www.itworldcanada.com/article/canadian-long-haul-investment-firm-aquila-acquires-global-marketing-solution-provider-comosoft/483070)
-- [Apple, Microsoft, Google expand support for passwordless sign-in](https://www.itworldcanada.com/article/apple-microsoft-google-expand-support-for-passwordless-sign-in/483054)
-- [Cyber Security Today, May 6, 2022 – Hacking helped by infected removable storage devices, corporate espionage, and more](https://www.itworldcanada.com/article/cyber-security-today-may-6-2022-hacking-helped-by-infected-removable-storage-devices-corporate-espionage-and-more/482960)
-- [Hashtag Trending May 6 – Mixed reactions to Netflix’s password sharing charge; head of FDA says misinformation is the leading cause of death; Big Tech might have to start sharing data with researchers](https://www.itworldcanada.com/article/hashtag-trending-may-6-mixed-reactions-to-netflixs-password-sharing-charge-head-of-fda-says-misinformation-is-the-leading-cause-of-death-big-tech-might-have-to-start-sharing-data-with-res/483015)
-- [Yukon’s fibre-to-the-home assets now Indigenous-owned](https://www.itworldcanada.com/article/yukons-fibre-to-the-home-assets-now-indigenous-owned/482897)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

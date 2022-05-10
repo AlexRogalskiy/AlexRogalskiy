@@ -384,16 +384,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Visual Studio Code 1.67 tunes file nesting, Markdown navigation](https://www.infoworld.com/article/3660035/visual-studio-code-167-tunes-file-nesting-markdown-navigation.html#tk.rss_all)
+- [How the UK Department for Work and Pensions cut deployment times to 15 minutes](https://www.infoworld.com/article/3659879/how-the-uk-department-for-work-and-pensions-cut-deployment-times-to-15-minutes.html#tk.rss_all)
+- [Doing data warehousing the wrong way](https://www.infoworld.com/article/3660074/doing-data-warehousing-the-wrong-way.html#tk.rss_all)
+- [Why Apache Kafka is dropping ZooKeeper](https://www.infoworld.com/article/3660073/why-apache-kafka-is-dropping-zookeeper-for-kraft.html#tk.rss_all)
+- [Does low code make applications overly complex?](https://www.infoworld.com/article/3659796/does-low-code-make-applications-overly-complex.html#tk.rss_all)
+- [11 new programming languages to make a coder&#39;s heart sing](https://www.infoworld.com/article/3658204/11-new-programming-languages-to-make-a-coders-heart-sing.html#tk.rss_all)
 - [shinytest2, Rhino R Shiny framework top news at Appsilon conference](https://www.infoworld.com/article/3658981/shinytest2-rhino-r-shiny-framework-top-news-at-appsilon-conference.html#tk.rss_all)
 - [Leaving cloud scalability to automation](https://www.infoworld.com/article/3659875/leaving-cloud-scalability-to-automation.html#tk.rss_all)
 - [What is PyTorch? Python machine learning on GPUs](https://www.infoworld.com/article/3658989/what-is-pytorch-a-popular-alternative-to-tensorflow-for-model-development-with-gpus.html#tk.rss_all)
 - [Will JavaScript containers overtake Linux containers?](https://www.infoworld.com/article/3660069/will-javascript-containers-overtake-linux-containers.html#tk.rss_all)
-- [JDK 19: The features targeted for Java 19](https://www.infoworld.com/article/3653331/jdk-19-the-features-targeted-for-java-19.html#tk.rss_all)
-- [MongoDB CTO: What today’s developers need to succeed](https://www.infoworld.com/article/3659648/mongodb-cto-what-todays-developers-need-to-succeed.html#tk.rss_all)
-- [Making AI accountable: Blockchain, governance, and auditability](https://www.infoworld.com/article/3658909/making-ai-accountable-blockchain-governance-and-auditability.html#tk.rss_all)
-- [GitHub will require two-factor authentication for all coders](https://www.infoworld.com/article/3659628/github-will-require-two-factor-authentication-for-all-coders.html#tk.rss_all)
-- [Spotify, startups launch funds to support open source maintainers](https://www.infoworld.com/article/3658999/spotify-startups-launch-funds-to-support-open-source-maintainers.html#tk.rss_all)
-- [Pulumi extends infrastructure as code support for Java and YAML](https://www.infoworld.com/article/3658857/pulumi-extends-infrastructure-as-code-support-for-java-and-yaml.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

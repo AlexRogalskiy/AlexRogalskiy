@@ -354,6 +354,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Just what does Windows 11 bring to the table?](https://www.computerworld.com/article/3660077/just-what-does-windows-11-bring-to-the-table.html#tk.rss_all)
+- [What you need to know as Apple shutters one iCloud service](https://www.computerworld.com/article/3660075/what-you-need-to-know-as-apple-shutters-one-icloud-service.html#tk.rss_all)
+- [Google, others adding office space in anticipation of the great return](https://www.computerworld.com/article/3659891/google-others-adding-office-space-in-anticipation-of-the-great-return.html#tk.rss_all)
 - [BrandPost: Questions that every business should ask managed services providers](https://www.computerworld.com/article/3660032/questions-that-every-business-should-ask-managed-services-providers.html#tk.rss_all)
 - [BrandPost: SMB Best Practices: Questions to Ask Before Contracting With a Security Services Provider](https://www.computerworld.com/article/3660031/smb-best-practices-questions-to-ask-before-contracting-with-a-security-services-provider.html#tk.rss_all)
 - [BrandPost: Small Business Best Practices: How to Convince Your Boss to Invest in Cybersecurity](https://www.computerworld.com/article/3659797/small-business-best-practices-how-to-convince-your-boss-to-invest-in-cybersecurity.html#tk.rss_all)
@@ -361,9 +364,6 @@
 - [BrandPost: The SMB Guide to Securing Employee Personal Devices](https://www.computerworld.com/article/3660030/the-smb-guide-to-securing-employee-personal-devices.html#tk.rss_all)
 - [Dell’s sustainability program envisions a better future](https://www.computerworld.com/article/3659835/dells-sustainability-program-envisions-a-better-future.html#tk.rss_all)
 - [Neighborhoods, phone booths, and huddle rooms: Meet the office of the future](https://www.computerworld.com/article/3660052/neighborhoods-phone-booths-and-huddle-rooms-meet-the-office-of-the-future.html#tk.rss_all)
-- [Apple employees revolt against mandatory back-to-work policy](https://www.computerworld.com/article/3660071/apple-employees-revolt-against-mandatory-back-to-work-policy.html#tk.rss_all)
-- [7 hidden Pixel shortcuts you probably aren&#39;t using](https://www.computerworld.com/article/3658207/pixel-shortcuts.html#tk.rss_all)
-- [Noteworthy tech acquisitions 2022](https://www.computerworld.com/article/3646533/noteworthy-tech-acquisitions-2022.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

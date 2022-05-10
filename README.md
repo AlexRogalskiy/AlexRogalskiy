@@ -414,6 +414,8 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to find an IT specialist for hotels?](https://www.reddit.com/r/InformationTechnology/comments/ulvpe0/how_to_find_an_it_specialist_for_hotels/)
+- [Where to start?](https://www.reddit.com/r/InformationTechnology/comments/ulthzr/where_to_start/)
 - [Salary increase?](https://www.reddit.com/r/InformationTechnology/comments/ulhy9z/salary_increase/)
 - [Realistically, share how you became successful in tech and how long it took. Degree?, Certifications, the whole thing.](https://www.reddit.com/r/InformationTechnology/comments/uleevt/realistically_share_how_you_became_successful_in/)
 - [Trying to get a job in IT is ridiculously dificult](https://www.reddit.com/r/InformationTechnology/comments/ulc52c/trying_to_get_a_job_in_it_is_ridiculously_dificult/)
@@ -422,8 +424,6 @@
 - [How do I start a career in IT?](https://www.reddit.com/r/InformationTechnology/comments/ukur79/how_do_i_start_a_career_in_it/)
 - [Is it a bad idea to use WiFi to connect computers on the shop floor of a small/medium Manufacturing plant?](https://www.reddit.com/r/InformationTechnology/comments/uki2v4/is_it_a_bad_idea_to_use_wifi_to_connect_computers/)
 - [Explaination needed](https://www.reddit.com/r/InformationTechnology/comments/uk4jnv/explaination_needed/)
-- [security / workflow question about google sheets](https://www.reddit.com/r/InformationTechnology/comments/uk3me7/security_workflow_question_about_google_sheets/)
-- [iOS or Android or Prism](https://www.reddit.com/r/InformationTechnology/comments/ujw988/ios_or_android_or_prism/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

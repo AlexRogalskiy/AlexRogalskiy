@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
+- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
+- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
+- [Tech event calendar 2022: Upcoming US shows, conferences, and IT expos](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
+- [Why Apple needs to evict old and unsupported App Store apps](https://www.computerworld.com/article/3659800/why-apple-needs-to-evict-old-and-unsupported-app-store-apps.html#tk.rss_all)
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [Apple shows how work-from-home is here to stay](https://www.computerworld.com/article/3659881/apple-shows-how-work-from-home-is-here-to-stay.html#tk.rss_all)
+- [3 clever new tricks to turn Google Docs into a collaboration superhub](https://www.computerworld.com/article/3659894/google-docs-collaboration.html#tk.rss_all)
+- [Q&amp;A: Why video calls can be bad for creativity](https://www.computerworld.com/article/3659880/qanda-why-video-calls-can-be-bad-for-creativity.html#tk.rss_all)
 - [Just what does Windows 11 bring to the table?](https://www.computerworld.com/article/3660077/just-what-does-windows-11-bring-to-the-table.html#tk.rss_all)
-- [What you need to know as Apple shutters one iCloud service](https://www.computerworld.com/article/3660075/what-you-need-to-know-as-apple-shutters-one-icloud-service.html#tk.rss_all)
-- [Google, others adding office space in anticipation of the great return](https://www.computerworld.com/article/3659891/google-others-adding-office-space-in-anticipation-of-the-great-return.html#tk.rss_all)
-- [BrandPost: Questions that every business should ask managed services providers](https://www.computerworld.com/article/3660032/questions-that-every-business-should-ask-managed-services-providers.html#tk.rss_all)
-- [BrandPost: SMB Best Practices: Questions to Ask Before Contracting With a Security Services Provider](https://www.computerworld.com/article/3660031/smb-best-practices-questions-to-ask-before-contracting-with-a-security-services-provider.html#tk.rss_all)
-- [BrandPost: Small Business Best Practices: How to Convince Your Boss to Invest in Cybersecurity](https://www.computerworld.com/article/3659797/small-business-best-practices-how-to-convince-your-boss-to-invest-in-cybersecurity.html#tk.rss_all)
-- [6 virtual collaboration solutions for remote teams](https://www.computerworld.com/article/3660056/6-virtual-collaboration-solutions-for-remote-teams.html#tk.rss_all)
-- [BrandPost: The SMB Guide to Securing Employee Personal Devices](https://www.computerworld.com/article/3660030/the-smb-guide-to-securing-employee-personal-devices.html#tk.rss_all)
-- [Dell’s sustainability program envisions a better future](https://www.computerworld.com/article/3659835/dells-sustainability-program-envisions-a-better-future.html#tk.rss_all)
-- [Neighborhoods, phone booths, and huddle rooms: Meet the office of the future](https://www.computerworld.com/article/3660052/neighborhoods-phone-booths-and-huddle-rooms-meet-the-office-of-the-future.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

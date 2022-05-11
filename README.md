@@ -369,6 +369,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Low Code: Satisfying Meal or Junk Food?](https://www.informationweek.com/devops/low-code-satisfying-meal-or-junk-food-)
+- [Time to Rethink How We Make the Products of the Future](https://www.informationweek.com/software/time-to-rethink-how-we-make-the-products-of-the-future)
+- [Developing Leadership Skills for the Virtual Workplace](https://www.informationweek.com/it-life/developing-leadership-skills-for-the-virtual-workplace)
 - [Are Blockchain and Decentralized Cloud Making Much Headway?](https://www.informationweek.com/cloud/are-blockchain-and-decentralized-cloud-making-much-headway-)
 - [5 Skills a Cloud Architect Needs to Succeed](https://www.informationweek.com/cloud/five-skills-a-cloud-architect-needs-to-succeed)
 - [Apple, Google, Microsoft Move Closer to a Password-free Future](https://www.informationweek.com/security-and-risk-strategy/apple-google-microsoft-move-closer-to-a-password-free-future)
@@ -376,9 +379,6 @@
 - [How the Digital Ecosystem Boomed During the Pandemic and Beyond](https://www.informationweek.com/it-life/how-the-digital-ecosystem-boomed-during-the-pandemic-and-beyond)
 - [Tech Advances in Retail/Food Industry During the Pandemic](https://www.informationweek.com/software/tech-advances-in-retail-food-industry-during-the-pandemic)
 - [Managing Cyber Risks in Today&#39;s Threat Environment](https://www.informationweek.com/security-and-risk-strategy/managing-cyber-risks-in-today-s-threat-environment)
-- [InformationWeek Salary Survey: What IT Pros Earn](https://www.informationweek.com/team-building-and-staffing/informationweek-salary-survey-what-it-pros-earn)
-- [How CIOs Can Create Cohesive Teams That Accelerate Transformation](https://www.informationweek.com/strategic-cio/how-cios-can-create-cohesive-teams-that-accelerate-transformation)
-- [Look Beyond Traditional Channels to Close the Cybersecurity Skills Gap](https://www.informationweek.com/security-and-risk-strategy/look-beyond-traditional-channels-to-close-the-cybersecurity-skills-gap)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

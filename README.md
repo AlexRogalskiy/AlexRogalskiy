@@ -384,16 +384,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Docker Desktop comes to Linux, adds extensions SDK](https://www.infoworld.com/article/3660049/docker-desktop-comes-to-linux-adds-extensions-sdk.html#tk.rss_all)
+- [Cloudflare Workers for Platforms aims for more programmable web](https://www.infoworld.com/article/3659877/cloudflare-workers-for-platforms-aims-for-more-programmable-web.html#tk.rss_all)
+- [How developers are starting to prioritize wellness at work](https://www.infoworld.com/article/3659799/how-developers-are-starting-to-prioritize-wellness-at-work.html#tk.rss_all)
+- [C# popularity surges in Tiobe programming language index](https://www.infoworld.com/article/3660078/c-sharp-popularity-surges-in-tiobe-programming-language-index.html#tk.rss_all)
+- [How to figure out the value of cloud computing](https://www.infoworld.com/article/3659798/how-to-figure-out-the-value-of-cloud-computing.html#tk.rss_all)
+- [The 9 most important new features in YugabyteDB](https://www.infoworld.com/article/3658972/the-9-most-important-new-features-in-yugabytedb.html#tk.rss_all)
 - [Visual Studio Code 1.67 tunes file nesting, Markdown navigation](https://www.infoworld.com/article/3660035/visual-studio-code-167-tunes-file-nesting-markdown-navigation.html#tk.rss_all)
 - [How the UK Department for Work and Pensions cut deployment times to 15 minutes](https://www.infoworld.com/article/3659879/how-the-uk-department-for-work-and-pensions-cut-deployment-times-to-15-minutes.html#tk.rss_all)
 - [Doing data warehousing the wrong way](https://www.infoworld.com/article/3660074/doing-data-warehousing-the-wrong-way.html#tk.rss_all)
 - [Why Apache Kafka is dropping ZooKeeper](https://www.infoworld.com/article/3660073/why-apache-kafka-is-dropping-zookeeper-for-kraft.html#tk.rss_all)
-- [Does low code make applications overly complex?](https://www.infoworld.com/article/3659796/does-low-code-make-applications-overly-complex.html#tk.rss_all)
-- [11 new programming languages to make a coder&#39;s heart sing](https://www.infoworld.com/article/3658204/11-new-programming-languages-to-make-a-coders-heart-sing.html#tk.rss_all)
-- [shinytest2, Rhino R Shiny framework top news at Appsilon conference](https://www.infoworld.com/article/3658981/shinytest2-rhino-r-shiny-framework-top-news-at-appsilon-conference.html#tk.rss_all)
-- [Leaving cloud scalability to automation](https://www.infoworld.com/article/3659875/leaving-cloud-scalability-to-automation.html#tk.rss_all)
-- [What is PyTorch? Python machine learning on GPUs](https://www.infoworld.com/article/3658989/what-is-pytorch-a-popular-alternative-to-tensorflow-for-model-development-with-gpus.html#tk.rss_all)
-- [Will JavaScript containers overtake Linux containers?](https://www.infoworld.com/article/3660069/will-javascript-containers-overtake-linux-containers.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

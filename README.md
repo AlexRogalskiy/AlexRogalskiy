@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Indian Court Rules That Nature Has Legal Status on Par with Humans](https://insideclimatenews.org/news/04052022/india-rights-of-nature/)
-- [When Morris Chang Speaks, America Should Listen](https://interconnected.blog/when-morris-chang-speaks-america-should-listen/)
-- [Hertz is adding a mystery Ford Mustang rental car to the fleet](https://www.foxnews.com/auto/hertz-mystery-ford-mustang-rental-car)
-- [Paris suspends Bolloré electric buses after two catch fire](https://www.france24.com/en/france/20220429-paris-suspends-bollor%C3%A9-electric-buses-after-two-catch-fire)
-- [Ask HN: How could a data scientist/engineer/analyst help society?](https://news.ycombinator.com/item?id=31322763)
-- [Bogatin&#39;s Practical Guide to Prototype Breadboard and PCB Design](https://resources.altium.com/p/bogatins-practical-guide-book-series)
-- [Small Drones Are Giving Ukraine an Unprecedented Edge](https://www.wired.com/story/drones-russia-ukraine-war/)
-- [AirTag helps Australian photographer recover over $7000 worth of stolen gear](https://9to5mac.com/2022/05/09/airtag-stolen-gear/)
-- [The Desert’s Fragile Skin Can’t Take Much More Heat](https://www.wired.com/story/the-fragile-skin-of-the-desert-cant-take-much-more-heat/)
-- [The John Lam Podcast: Stories from Microsoft’s DevDiv](https://john-lam-podcast.simplecast.com/)
+- [The direction I want to take this blog in](https://www.bramadams.dev/projects/home-base-blogging)
+- [&#39;Tinder for orangutans&#39;: Dutch zoo to let female choose mate on a tablet](https://www.theguardian.com/environment/2017/jan/31/tinder-for-orangutans-dutch-zoo-to-let-female-choose-mate-on-a-tablet)
+- [Design and Outcome of a Course on SDR Within the Computer Science Department](https://peer.asee.org/design-and-outcome-of-a-course-on-software-defined-radio-within-the-computer-science-department)
+- [My New Job as a Developer Advocate – What Do I Do](https://socialmaharaj.com/2022/05/06/new-job-as-a-developer-advocate/)
+- [The &#39;jockstrap&#39; that revolutionised women&#39;s sports](https://www.bbc.com/news/world-us-canada-61387881)
+- [Against Human Exceptionalism](https://aeon.co/essays/human-exceptionalism-is-a-danger-to-all-human-and-nonhuman)
+- [Show HN: No-Code SQL Builder](https://craftsql.com/)
+- [Golf Club Uses Machine Learning to Perfect Your Swing](https://hackaday.com/2022/05/10/this-golf-club-uses-machine-learning-to-perfect-your-swing/)
+- [Physically-based Feature Line Rendering &lpar;2021&rpar;](http://lines.rexwe.st/)
+- [Coinbase says India central bank’s ‘informal pressure’ prompted trading halt](https://techcrunch.com/2022/05/10/coinbase-trading-reserve-bank-of-india/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

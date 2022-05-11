@@ -414,6 +414,9 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Final Thoughts as I Finish My Associate&#39;s Degree in IT](https://www.reddit.com/r/InformationTechnology/comments/umrfit/final_thoughts_as_i_finish_my_associates_degree/)
+- [I have an associates in applied science in information technology and can&#39;t find an IT job please help!!](https://www.reddit.com/r/InformationTechnology/comments/umk1zv/i_have_an_associates_in_applied_science_in/)
+- [SmartKey Eutron 2004](https://www.reddit.com/r/InformationTechnology/comments/umj9kz/smartkey_eutron_2004/)
 - [How to find an IT specialist for hotels?](https://www.reddit.com/r/InformationTechnology/comments/ulvpe0/how_to_find_an_it_specialist_for_hotels/)
 - [Where to start?](https://www.reddit.com/r/InformationTechnology/comments/ulthzr/where_to_start/)
 - [Salary increase?](https://www.reddit.com/r/InformationTechnology/comments/ulhy9z/salary_increase/)
@@ -421,9 +424,6 @@
 - [Trying to get a job in IT is ridiculously dificult](https://www.reddit.com/r/InformationTechnology/comments/ulc52c/trying_to_get_a_job_in_it_is_ridiculously_dificult/)
 - [Is it worth it to finish my IT degree?](https://www.reddit.com/r/InformationTechnology/comments/ulazzi/is_it_worth_it_to_finish_my_it_degree/)
 - [Desktop support technician vs Network administrator?](https://www.reddit.com/r/InformationTechnology/comments/ul8v0p/desktop_support_technician_vs_network/)
-- [How do I start a career in IT?](https://www.reddit.com/r/InformationTechnology/comments/ukur79/how_do_i_start_a_career_in_it/)
-- [Is it a bad idea to use WiFi to connect computers on the shop floor of a small/medium Manufacturing plant?](https://www.reddit.com/r/InformationTechnology/comments/uki2v4/is_it_a_bad_idea_to_use_wifi_to_connect_computers/)
-- [Explaination needed](https://www.reddit.com/r/InformationTechnology/comments/uk4jnv/explaination_needed/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

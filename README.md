@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war: Russia trying to storm Azovstal plant, says Ukraine; US to give Ukraine $40bn in aid](https://www.theguardian.com/world/live/2022/may/09/russia-ukraine-war-latest-russia-to-mark-victory-day-uk-defence-secretary-to-accuse-putin-of-mirroring-fascism-live)
-- [Andy Warhol’s famed Marilyn Monroe portrait sells for record $195m at auction](https://www.theguardian.com/artanddesign/2022/may/09/andy-warhol-marilyn-monroe-portrait-auction)
-- [What does Sinn Féin’s win mean for Northern Ireland? – podcast](https://www.theguardian.com/news/audio/2022/may/10/what-sinn-fein-victory-means-for-northern-ireland-podcast)
-- [‘No end in sight’: Shanghai residents chafe at harsh Covid measures](https://www.theguardian.com/world/2022/may/10/no-end-in-sight-shanghai-residents-chafe-at-harsh-covid-measures)
-- [Russia-Ukraine war: what we know on day 76 of the invasion](https://www.theguardian.com/world/2022/may/10/russia-ukraine-war-what-we-know-on-day-76-of-the-invasion)
-- [Alabama jail official, who allegedly fled with inmate, dies after police chase](https://www.theguardian.com/us-news/2022/may/09/alabama-officer-escaped-figitive-caught)
-- [Pulitzer prize for Ukraine journalists rewards courageous, truthful reporting](https://www.theguardian.com/world/2022/may/10/pulitzer-prize-for-ukraine-journalists-rewards-courageous-truthful-reporting)
-- [Marcos Jr aims to fulfil family’s ‘destiny’ as Philippines president](https://www.theguardian.com/world/2022/may/10/ferdanand-marcos-jr-bonbong-philippines-president-promises-unity)
-- [Two slain in Mexico are the latest in unrelenting slaughter of journalists](https://www.theguardian.com/world/2022/may/09/mexico-journalists-killed-slaughter-amlo)
-- [Avoid using gas as ‘transition’ fuel in move to clean energy, study urges](https://www.theguardian.com/environment/2022/may/10/avoid-using-gas-transition-fuel-move-clean-energy-study-urges)
+- [Russia-Ukraine war: Ukrainian forces gradually pushing occupiers ‘away from Kharkiv’, says Zelenskiy – live](https://www.theguardian.com/world/live/2022/may/10/russia-ukraine-war-live-news-russian-troops-trying-to-storm-azovstal-steel-plant-says-kyiv-us-plans-40bn-aid-package-latest-updates)
+- [New Zealand to fully reopen borders for first time since Covid pandemic started](https://www.theguardian.com/world/2022/may/11/new-zealand-to-fully-reopen-borders-for-first-time-since-covid-pandemic-started)
+- [Putin’s dilemma: what is his next move in Ukraine? – Podcast](https://www.theguardian.com/news/audio/2022/may/11/putin-dilemma-next-move-in-ukraine-podcast)
+- [‘How many more months should we suffer?’: Indonesians struggle with pricey cooking oil](https://www.theguardian.com/world/2022/may/11/how-many-more-months-should-we-suffer-indonesians-struggle-with-pricey-cooking-oil)
+- [Threat of being sent to Rwanda ‘harming health of UK asylum seekers’](https://www.theguardian.com/world/2022/may/11/threat-of-being-sent-to-rwanda-harming-health-of-uk-asylum-seekers)
+- [Adidas sports bra ads banned in UK for objectifying women](https://www.theguardian.com/media/2022/may/11/adidas-sports-bra-ads-banned-uk-twitter-asa)
+- [Former Oxford college dean and senior cleric to leave Church of England](https://www.theguardian.com/education/2022/may/11/former-oxford-college-dean-and-senior-cleric-to-leave-church-of-england)
+- [Migrating turtles don’t really know where they’re going, study shows](https://www.theguardian.com/world/2022/may/11/migrating-turtles-dont-really-know-where-theyre-going-study-shows)
+- [TV tonight: Stacey Dooley goes on a genetic quest](https://www.theguardian.com/tv-and-radio/2022/may/11/tv-tonight-stacey-dooley-goes-on-a-genetic-quest-dna-family-secrets)
+- [Ticket-holder scoops £184m EuroMillions jackpot to become UK’s biggest ever winner](https://www.theguardian.com/uk-news/2022/may/10/ticket-holder-scoops-184m-euromillions-jackpot-to-become-uks-biggest-ever-winner)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

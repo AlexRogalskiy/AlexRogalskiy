@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Ctera opens up its storage to third-party analytics via APIs](https://www.computerweekly.com/news/252517935/Ctera-opens-up-its-storage-to-third-party-analytics-via-APIs)
-- [AWS embarks on green power-focused deals with AES and Fluence Energy](https://www.computerweekly.com/news/252517918/AWS-embarks-on-green-power-focused-deals-with-AES-and-Fluence-Energy)
-- [UK digital markets regulator to be given statutory powers](https://www.computerweekly.com/news/252516823/UK-digital-markets-regulator-to-be-given-statutory-powers)
-- [Uptime Institute debuts sustainability-focused accreditation for datacentre professionals](https://www.computerweekly.com/news/252516806/Uptime-Institute-debuts-sustainability-focused-accreditation-for-datacentre-professionals)
-- [John Lewis to hire more than 150 tech workers](https://www.computerweekly.com/news/252516805/John-Lewis-to-hire-more-than-150-tech-workers)
-- [IT infrastructure used to launch DDoS attack on Russian targets](https://www.computerweekly.com/news/252516773/IT-infrastructure-used-to-launch-DDoS-attack-on-Russian-targets)
-- [How to retain cyber talent in the Great Resignation](https://www.computerweekly.com/feature/How-to-retain-cyber-talent-in-the-Great-Resignation)
-- [London’s too small for Arm IPO, says Hermann Hauser](https://www.computerweekly.com/news/252516766/Londons-too-small-for-Arm-IP-says-Hermann-Hauser)
-- [Disaster recovery is an essential service for EDF with Phenix-IT](https://www.computerweekly.com/feature/Disaster-recovery-is-an-essential-service-for-EDF-with-Phenix-IT)
-- [Prepare for smart robot revolution](https://www.computerweekly.com/news/252516758/Prepare-for-smart-robot-revolution)
+- [‘Spy cops’ inquiry delves into police relationship with MI5](https://www.computerweekly.com/news/252518008/Spy-cops-inquiry-delves-into-police-relationship-with-MI5)
+- [CyberUK 22: Cyber leaders affirm UK’s whole-of-society strategy](https://www.computerweekly.com/news/252518004/CyberUK-22-Cyber-leaders-affirm-UKs-whole-of-society-strategy)
+- [NCSC pins Viasat cyber attack on Russia](https://www.computerweekly.com/news/252518005/NCSC-pins-Viasat-cyber-attack-on-Russia)
+- [NetApp’s cloud-era storage competitors in ‘world of hurt’](https://www.computerweekly.com/news/252517998/NetApps-cloud-era-storage-competitors-in-world-of-hurt)
+- [What will a quantum datacentre look like?](https://www.computerweekly.com/news/252517992/What-will-a-quantum-datacentre-look-like)
+- [CyberUK 22: NCSC refreshes cloud security guidance](https://www.computerweekly.com/news/252517941/CyberUK-22-NCSC-refreshes-cloud-security-guidance)
+- [CyberUK 22: Wales splashes £9.5m on cyber innovation hub](https://www.computerweekly.com/news/252517944/CyberUK-22-Wales-splashes-95m-on-cyber-innovation-hub)
+- [The spies who hack you – the growing threat of spyware](https://www.computerweekly.com/ezine/Computer-Weekly/The-spies-who-hack-you-the-growing-threat-of-spyware)
+- [DWP Digital sets out three-year plan to improve data sharing and cut legacy](https://www.computerweekly.com/news/252517981/DWP-Digital-sets-out-three-year-plan-to-improve-data-sharing-and-cut-legacy)
+- [CyberUK 22: NCSC’s ACD programme blocks 2.7 million scams](https://www.computerweekly.com/news/252517934/CyberUK-22-NCSCs-ACD-programme-blocks-27-million-scams)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

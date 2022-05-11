@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Zoho’s new marketing platform unifies all marketing operations](https://www.itworldcanada.com/article/zohos-new-marketing-platform-unifies-all-marketing-operations/483690)
+- [Red Hat and General Motors collaborate to help advance software-defined vehicles at the edge](https://www.itworldcanada.com/article/red-hat-and-general-motors-collaborate-to-help-advance-software-defined-vehicles-at-the-edge/483656)
+- [Coffee Briefing May 10, 2022 – Zerto 9.5 announced; Vector Scholarship in AI winners announced; She’s Next Grant recipients announced; and more](https://www.itworldcanada.com/article/coffee-briefing-may-10-2022-zerto-9-5-announced-vector-scholarship-in-ai-winners-announced-shes-next-grant-recipients-announced-and-more/483655)
+- [Ikea Canada tight-lipped on details of breach of security controls](https://www.itworldcanada.com/article/ikea-canada-tight-lipped-on-details-of-breach-of-security-controls/483643)
+- [Hashtag Trending May 10 – Trump lawsuit dismissed; Apple chip vulnerability; Apple AI director leaves](https://www.itworldcanada.com/article/hashtag-trending-may-10-trump-lawsuit-dismissed-apple-chip-vulnerability-apple-ai-director-leaves/483539)
 - [Quebec government to pay researchers for discovering vulnerabilities](https://www.itworldcanada.com/article/quebec-government-to-pay-researchers-for-discovering-vulnerabilities/483522)
 - [Montreal-based startup to launch event platform](https://www.itworldcanada.com/article/montreal-based-startup-to-launch-event-platform/482922)
 - [Budget-priced RAT is surprisingly effective tool for hackers, say BlackBerry researchers](https://www.itworldcanada.com/article/budget-priced-rat-is-surprisingly-effective-tool-for-hackers-say-blackberry-researchers/483483)
 - [Microsoft expands its managed security solutions](https://www.itworldcanada.com/article/microsoft-expands-its-managed-security-solutions/483429)
 - [Cyber Security Today, May 9, 2022 –  Breaches of security controls at Ikea Canada and two American healthcare providers](https://www.itworldcanada.com/article/cyber-security-today-may-9-2022-breaches-of-security-controls-at-ikea-canada-and-two-american-healthcare-providers/483370)
-- [Hashtag Trending May 9 – Remote work doesn’t hamper productivity; Amazon curbs fake reviews; Nvidia fined by SEC](https://www.itworldcanada.com/article/hashtag-trending-may-9-remote-work-doesnt-hamper-productivity-amazon-curbs-fake-reviews-nvidia-fined-by-sec/483438)
-- [This week in Ransomware – Friday May 6, 2022](https://www.itworldcanada.com/article/this-week-in-ransomware-friday-may-6-2022/482992)
-- [CIO Peer Forum 2022: The evolving role of the CIO](https://www.itworldcanada.com/article/cio-peer-forum-2022-the-evolving-role-of-the-cio/482963)
-- [Chris Barry named the new president of Microsoft Canada, succeeding Kevin Peesker](https://www.itworldcanada.com/article/chris-barry-named-the-new-president-of-microsoft-canada-succeeding-kevin-peesker/483228)
-- [Tech Shuk highlights climate change innovators](https://www.itworldcanada.com/article/tech-shuk-highlights-climate-change-innovators/482953)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

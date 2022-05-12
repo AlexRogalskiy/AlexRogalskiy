@@ -384,16 +384,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Google Firebase expands Extensions to become more customizable](https://www.infoworld.com/article/3659885/google-firebase-expands-extensions-to-become-more-customizable.html#tk.rss_all)
+- [Why Google Cloud is battling AWS, Azure, in the red-hot PostgreSQL market](https://www.infoworld.com/article/3660548/why-google-cloud-will-battle-aws-azure-in-a-red-hot-postgresql-market.html#tk.rss_all)
+- [Progress launches Chef Cloud Security to extend DevSecOps to cloud-native assets](https://www.csoonline.com/article/3660409/progress-launches-chef-cloud-security-to-extend-devsecops-to-cloud-native-assets.html#tk.rss_all)
+- [RHEL 9 features edge management, container rollback](https://www.infoworld.com/article/3660062/rhel-9-features-edge-management-container-rollback.html#tk.rss_all)
+- [Understanding Flatcar Container Linux](https://www.infoworld.com/article/3659887/understanding-flatcar-container-linux.html#tk.rss_all)
+- [Does your deployed infrastructure match what you defined?](https://www.infoworld.com/article/3659794/does-your-deployed-infrastructure-match-what-you-defined.html#tk.rss_all)
 - [Docker Desktop comes to Linux, adds extensions SDK](https://www.infoworld.com/article/3660049/docker-desktop-comes-to-linux-adds-extensions-sdk.html#tk.rss_all)
 - [Cloudflare Workers for Platforms aims for more programmable web](https://www.infoworld.com/article/3659877/cloudflare-workers-for-platforms-aims-for-more-programmable-web.html#tk.rss_all)
 - [How developers are starting to prioritize wellness at work](https://www.infoworld.com/article/3659799/how-developers-are-starting-to-prioritize-wellness-at-work.html#tk.rss_all)
 - [C# popularity surges in Tiobe programming language index](https://www.infoworld.com/article/3660078/c-sharp-popularity-surges-in-tiobe-programming-language-index.html#tk.rss_all)
-- [How to figure out the value of cloud computing](https://www.infoworld.com/article/3659798/how-to-figure-out-the-value-of-cloud-computing.html#tk.rss_all)
-- [The 9 most important new features in YugabyteDB](https://www.infoworld.com/article/3658972/the-9-most-important-new-features-in-yugabytedb.html#tk.rss_all)
-- [Visual Studio Code 1.67 tunes file nesting, Markdown navigation](https://www.infoworld.com/article/3660035/visual-studio-code-167-tunes-file-nesting-markdown-navigation.html#tk.rss_all)
-- [How the UK Department for Work and Pensions cut deployment times to 15 minutes](https://www.infoworld.com/article/3659879/how-the-uk-department-for-work-and-pensions-cut-deployment-times-to-15-minutes.html#tk.rss_all)
-- [Doing data warehousing the wrong way](https://www.infoworld.com/article/3660074/doing-data-warehousing-the-wrong-way.html#tk.rss_all)
-- [Why Apache Kafka is dropping ZooKeeper](https://www.infoworld.com/article/3660073/why-apache-kafka-is-dropping-zookeeper-for-kraft.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

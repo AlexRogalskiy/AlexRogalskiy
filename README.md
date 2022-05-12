@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Five Eyes cyber agencies warn MSPs to expect an increase in attacks](https://www.itworldcanada.com/article/five-eyes-cyber-agencies-warn-msps-to-expect-an-increase-in-attacks/483830)
+- [HPE Canada opens new head office in Mississauga](https://www.itworldcanada.com/article/hpe-canada-opens-new-head-office-in-mississauga/483105)
+- [Red Hat announces a series of new features and services, prioritizing hybrid cloud](https://www.itworldcanada.com/article/red-hat-announces-a-series-of-new-features-and-services-prioritizing-hybrid-cloud/483670)
+- [Apple employees reject return to on site work in open letter](https://www.itworldcanada.com/article/apple-employees-reject-return-to-on-site-work-in-open-letter/483792)
+- [Intel Vision 2022: Habana Gaudi2 AI training processor arrives to challenge the Nvidia A100](https://www.itworldcanada.com/article/intel-vision-2022-habana-gaudi2-ai-training-processor-arrives-to-challenge-the-nvidia-a100/483711)
+- [Ransomware trends: Cross-platform execution, improving infrastructure and taking sides in war](https://www.itworldcanada.com/article/ransomware-trends-cross-platform-execution-improving-infrastructure-and-taking-sides-in-war/483733)
+- [Cyber Security Today, May 11, 2022 – F5 BIG-IP devices under attack, a proposed settlement on a Clearview AI lawsuit and Colonial Pipeline may be fined](https://www.itworldcanada.com/article/cyber-security-today-may-11-2022-f5-big-ip-devices-under-attack-a-proposed-settlement-on-a-clearview-ai-lawsuit-and-colonial-pipeline-may-be-fined/483680)
+- [Hashtag Trending May 11 – Apple says goodbye to the iPod Touch; Big tech companies face lawsuits from Russia; Tech companies laying off employees](https://www.itworldcanada.com/article/hashtag-trending-may-11-apple-says-goodbye-to-the-ipod-touch-big-tech-companies-face-lawsuits-from-russia-tech-companies-laying-off-employees/483700)
 - [Zoho’s new marketing platform unifies all marketing operations](https://www.itworldcanada.com/article/zohos-new-marketing-platform-unifies-all-marketing-operations/483690)
 - [Red Hat and General Motors collaborate to help advance software-defined vehicles at the edge](https://www.itworldcanada.com/article/red-hat-and-general-motors-collaborate-to-help-advance-software-defined-vehicles-at-the-edge/483656)
-- [Coffee Briefing May 10, 2022 – Zerto 9.5 announced; Vector Scholarship in AI winners announced; She’s Next Grant recipients announced; and more](https://www.itworldcanada.com/article/coffee-briefing-may-10-2022-zerto-9-5-announced-vector-scholarship-in-ai-winners-announced-shes-next-grant-recipients-announced-and-more/483655)
-- [Ikea Canada tight-lipped on details of breach of security controls](https://www.itworldcanada.com/article/ikea-canada-tight-lipped-on-details-of-breach-of-security-controls/483643)
-- [Hashtag Trending May 10 – Trump lawsuit dismissed; Apple chip vulnerability; Apple AI director leaves](https://www.itworldcanada.com/article/hashtag-trending-may-10-trump-lawsuit-dismissed-apple-chip-vulnerability-apple-ai-director-leaves/483539)
-- [Quebec government to pay researchers for discovering vulnerabilities](https://www.itworldcanada.com/article/quebec-government-to-pay-researchers-for-discovering-vulnerabilities/483522)
-- [Montreal-based startup to launch event platform](https://www.itworldcanada.com/article/montreal-based-startup-to-launch-event-platform/482922)
-- [Budget-priced RAT is surprisingly effective tool for hackers, say BlackBerry researchers](https://www.itworldcanada.com/article/budget-priced-rat-is-surprisingly-effective-tool-for-hackers-say-blackberry-researchers/483483)
-- [Microsoft expands its managed security solutions](https://www.itworldcanada.com/article/microsoft-expands-its-managed-security-solutions/483429)
-- [Cyber Security Today, May 9, 2022 –  Breaches of security controls at Ikea Canada and two American healthcare providers](https://www.itworldcanada.com/article/cyber-security-today-may-9-2022-breaches-of-security-controls-at-ikea-canada-and-two-american-healthcare-providers/483370)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

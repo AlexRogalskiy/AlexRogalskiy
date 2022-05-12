@@ -369,6 +369,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [What You’re Probably Forgetting When Choosing a Cloud Provider](https://www.informationweek.com/cloud/what-you-re-probably-forgetting-when-choosing-a-cloud-provider)
+- [IT Pros Aren’t Missing the Office](https://www.informationweek.com/team-building-and-staffing/it-pros-are-not-missing-the-office)
+- [Attract Data Science Talent with These 3 Tips](https://www.informationweek.com/big-data/attract-data-science-talent-with-these-3-tips)
 - [Low Code: Satisfying Meal or Junk Food?](https://www.informationweek.com/devops/low-code-satisfying-meal-or-junk-food-)
 - [Time to Rethink How We Make the Products of the Future](https://www.informationweek.com/software/time-to-rethink-how-we-make-the-products-of-the-future)
 - [Developing Leadership Skills for the Virtual Workplace](https://www.informationweek.com/it-life/developing-leadership-skills-for-the-virtual-workplace)
@@ -376,9 +379,6 @@
 - [5 Skills a Cloud Architect Needs to Succeed](https://www.informationweek.com/cloud/five-skills-a-cloud-architect-needs-to-succeed)
 - [Apple, Google, Microsoft Move Closer to a Password-free Future](https://www.informationweek.com/security-and-risk-strategy/apple-google-microsoft-move-closer-to-a-password-free-future)
 - [Fintech, Cloud, and Finding Ways to Bridge the Skills Gap](https://www.informationweek.com/fintech/fintech-cloud-and-finding-ways-to-bridge-the-skills-gap)
-- [How the Digital Ecosystem Boomed During the Pandemic and Beyond](https://www.informationweek.com/it-life/how-the-digital-ecosystem-boomed-during-the-pandemic-and-beyond)
-- [Tech Advances in Retail/Food Industry During the Pandemic](https://www.informationweek.com/software/tech-advances-in-retail-food-industry-during-the-pandemic)
-- [Managing Cyber Risks in Today&#39;s Threat Environment](https://www.informationweek.com/security-and-risk-strategy/managing-cyber-risks-in-today-s-threat-environment)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

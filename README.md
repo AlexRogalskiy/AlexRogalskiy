@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [“Experience”](https://www.reddit.com/r/InformationTechnology/comments/unfkdh/experience/)
+- [Which IT Security course/certification recommendation?](https://www.reddit.com/r/InformationTechnology/comments/un9str/which_it_security_coursecertification/)
+- [Meeting with a cloud manager](https://www.reddit.com/r/InformationTechnology/comments/un9ig3/meeting_with_a_cloud_manager/)
+- [How A TV &amp; Media Companies Adopts Business Intelligence to Drive Growth - Case Study](https://www.reddit.com/r/InformationTechnology/comments/un5bm4/how_a_tv_media_companies_adopts_business/)
 - [Final Thoughts as I Finish My Associate&#39;s Degree in IT](https://www.reddit.com/r/InformationTechnology/comments/umrfit/final_thoughts_as_i_finish_my_associates_degree/)
 - [I have an associates in applied science in information technology and can&#39;t find an IT job please help!!](https://www.reddit.com/r/InformationTechnology/comments/umk1zv/i_have_an_associates_in_applied_science_in/)
 - [SmartKey Eutron 2004](https://www.reddit.com/r/InformationTechnology/comments/umj9kz/smartkey_eutron_2004/)
 - [How to find an IT specialist for hotels?](https://www.reddit.com/r/InformationTechnology/comments/ulvpe0/how_to_find_an_it_specialist_for_hotels/)
 - [Where to start?](https://www.reddit.com/r/InformationTechnology/comments/ulthzr/where_to_start/)
 - [Salary increase?](https://www.reddit.com/r/InformationTechnology/comments/ulhy9z/salary_increase/)
-- [Realistically, share how you became successful in tech and how long it took. Degree?, Certifications, the whole thing.](https://www.reddit.com/r/InformationTechnology/comments/uleevt/realistically_share_how_you_became_successful_in/)
-- [Trying to get a job in IT is ridiculously dificult](https://www.reddit.com/r/InformationTechnology/comments/ulc52c/trying_to_get_a_job_in_it_is_ridiculously_dificult/)
-- [Is it worth it to finish my IT degree?](https://www.reddit.com/r/InformationTechnology/comments/ulazzi/is_it_worth_it_to_finish_my_it_degree/)
-- [Desktop support technician vs Network administrator?](https://www.reddit.com/r/InformationTechnology/comments/ul8v0p/desktop_support_technician_vs_network/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

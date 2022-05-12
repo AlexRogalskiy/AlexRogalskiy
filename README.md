@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [‘Spy cops’ inquiry delves into police relationship with MI5](https://www.computerweekly.com/news/252518008/Spy-cops-inquiry-delves-into-police-relationship-with-MI5)
-- [CyberUK 22: Cyber leaders affirm UK’s whole-of-society strategy](https://www.computerweekly.com/news/252518004/CyberUK-22-Cyber-leaders-affirm-UKs-whole-of-society-strategy)
-- [NCSC pins Viasat cyber attack on Russia](https://www.computerweekly.com/news/252518005/NCSC-pins-Viasat-cyber-attack-on-Russia)
-- [NetApp’s cloud-era storage competitors in ‘world of hurt’](https://www.computerweekly.com/news/252517998/NetApps-cloud-era-storage-competitors-in-world-of-hurt)
-- [What will a quantum datacentre look like?](https://www.computerweekly.com/news/252517992/What-will-a-quantum-datacentre-look-like)
-- [CyberUK 22: NCSC refreshes cloud security guidance](https://www.computerweekly.com/news/252517941/CyberUK-22-NCSC-refreshes-cloud-security-guidance)
-- [CyberUK 22: Wales splashes £9.5m on cyber innovation hub](https://www.computerweekly.com/news/252517944/CyberUK-22-Wales-splashes-95m-on-cyber-innovation-hub)
-- [The spies who hack you – the growing threat of spyware](https://www.computerweekly.com/ezine/Computer-Weekly/The-spies-who-hack-you-the-growing-threat-of-spyware)
-- [DWP Digital sets out three-year plan to improve data sharing and cut legacy](https://www.computerweekly.com/news/252517981/DWP-Digital-sets-out-three-year-plan-to-improve-data-sharing-and-cut-legacy)
-- [CyberUK 22: NCSC’s ACD programme blocks 2.7 million scams](https://www.computerweekly.com/news/252517934/CyberUK-22-NCSCs-ACD-programme-blocks-27-million-scams)
+- [Nerbian RAT enjoys using Covid-19 phishing lures](https://www.computerweekly.com/news/252518056/Nerbian-RAT-enjoys-using-Covid-19-phishing-lures)
+- [Emotet has commanding lead on Check Point monthly threat chart](https://www.computerweekly.com/news/252518053/Emotet-has-commanding-lead-on-Check-Point-monthly-threat-chart)
+- [CyberUK 22: Five Eyes focuses on MSP security](https://www.computerweekly.com/news/252518042/CyberUK-22-Five-Eyes-focuses-on-MSP-security)
+- [Data Reform Bill announced in Queen’s Speech](https://www.computerweekly.com/news/252518054/Data-Reform-Bill-announced-in-Queens-Speech)
+- [Pure to offer on-prem object storage as Snowflake data source](https://www.computerweekly.com/news/252518049/Pure-to-offer-on-prem-object-storage-as-Snowflake-data-source)
+- [CyberUK 22: Data-sharing service to protect public from scams](https://www.computerweekly.com/news/252518051/CyberUK-22-Data-sharing-service-to-protect-public-from-scams)
+- [DWP partners with AI-powered career and job services](https://www.computerweekly.com/news/252518048/DWP-partners-with-AI-powered-career-and-job-services)
+- [Analysts confirm return of REvil ransomware gang](https://www.computerweekly.com/news/252518036/Analysts-confirm-return-of-REvil-ransomware-gang)
+- [Cyber accreditation body Crest forges new training partnerships](https://www.computerweekly.com/news/252518039/Cyber-accreditation-body-Crest-forges-new-training-partnerships)
+- [Microsoft fixes three zero-days on May Patch Tuesday](https://www.computerweekly.com/news/252518038/Microsoft-fixes-three-zero-days-on-May-Patch-Tuesday)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The direction I want to take this blog in](https://www.bramadams.dev/projects/home-base-blogging)
-- [&#39;Tinder for orangutans&#39;: Dutch zoo to let female choose mate on a tablet](https://www.theguardian.com/environment/2017/jan/31/tinder-for-orangutans-dutch-zoo-to-let-female-choose-mate-on-a-tablet)
-- [Design and Outcome of a Course on SDR Within the Computer Science Department](https://peer.asee.org/design-and-outcome-of-a-course-on-software-defined-radio-within-the-computer-science-department)
-- [My New Job as a Developer Advocate – What Do I Do](https://socialmaharaj.com/2022/05/06/new-job-as-a-developer-advocate/)
-- [The &#39;jockstrap&#39; that revolutionised women&#39;s sports](https://www.bbc.com/news/world-us-canada-61387881)
-- [Against Human Exceptionalism](https://aeon.co/essays/human-exceptionalism-is-a-danger-to-all-human-and-nonhuman)
-- [Show HN: No-Code SQL Builder](https://craftsql.com/)
-- [Golf Club Uses Machine Learning to Perfect Your Swing](https://hackaday.com/2022/05/10/this-golf-club-uses-machine-learning-to-perfect-your-swing/)
-- [Physically-based Feature Line Rendering &lpar;2021&rpar;](http://lines.rexwe.st/)
-- [Coinbase says India central bank’s ‘informal pressure’ prompted trading halt](https://techcrunch.com/2022/05/10/coinbase-trading-reserve-bank-of-india/)
+- [Luna $0.61 falls below the “stablecoin” it is props up, UST $.70](https://coinmarketcap.com/currencies/terra-luna/)
+- [Minneapolis man convicted of voter fraud that never happens](https://hotair.com/jazz-shaw/2022/05/11/minneapolis-man-convicted-of-voter-fraud-that-never-happens-n468513)
+- [Crypto-Rich Puzzle over How to Pass on High-Risk Wealth to Heirs](https://www.bloomberg.com/tosv2.html?vid=&uuid=9f612031-d19f-11ec-abcd-784b58564151&url=L25ld3MvYXJ0aWNsZXMvMjAyMi0wNS0wNS9jcnlwdG8tcmljaC1wdXp6bGUtb3Zlci1ob3ctdG8tcGFzcy1vbi1oaWdoLXJpc2std2VhbHRoLXRvLWhlaXJz)
+- [I’ve Always Struggled with My Weight. Losing It Didn’t Mean Winning](https://www.nytimes.com/2022/05/11/magazine/weight-loss-pandemic.html)
+- [Shireen Abu Akleh: A trailblazer who gave voice to Palestinians](https://www.aljazeera.com/news/2022/5/11/al-jazeeras-shireen-abu-akleh)
+- [Anti Tank Guitar](https://en.wikipedia.org/wiki/Anti_Tank_Guitar)
+- [How many melodies are there?](https://plus.maths.org/content/how-many-melodies-are-there)
+- [Study finds coffee raises cholesterol levels – but depends on how it&#39;s brewed](https://openheart.bmj.com/content/9/1/e001946)
+- [Client-side Ruby date/time formatting using WASM](https://strftimeslikethese.com)
+- [American Dragnet: Data-Driven Deportation in the 21st Century](https://americandragnet.org/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

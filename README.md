@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [How many jobs are available in technology?](https://www.computerworld.com/article/3542681/how-many-jobs-are-available-in-technology.html#tk.rss_all)
+- [Google brings automated summaries to Workspace ‘Spaces’](https://www.computerworld.com/article/3660488/google-brings-automated-summaries-to-workspace-spaces.html#tk.rss_all)
+- [Noteworthy tech acquisitions 2022](https://www.computerworld.com/article/3646533/noteworthy-tech-acquisitions-2022.html#tk.rss_all)
+- [Salesforce acquires Slack-bot maker Troops.ai](https://www.computerworld.com/article/3660079/salesforce-acquires-slack-bot-maker-troops-ai.html#tk.rss_all)
+- [5 ways COVID-19 has changed healthcare IT](https://www.computerworld.com/article/3657596/how-covid-19-has-changed-healthcare-it.html#tk.rss_all)
 - [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
 - [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
 - [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
 - [Tech event calendar 2022: Upcoming US shows, conferences, and IT expos](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
 - [Why Apple needs to evict old and unsupported App Store apps](https://www.computerworld.com/article/3659800/why-apple-needs-to-evict-old-and-unsupported-app-store-apps.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [Apple shows how work-from-home is here to stay](https://www.computerworld.com/article/3659881/apple-shows-how-work-from-home-is-here-to-stay.html#tk.rss_all)
-- [3 clever new tricks to turn Google Docs into a collaboration superhub](https://www.computerworld.com/article/3659894/google-docs-collaboration.html#tk.rss_all)
-- [Q&amp;A: Why video calls can be bad for creativity](https://www.computerworld.com/article/3659880/qanda-why-video-calls-can-be-bad-for-creativity.html#tk.rss_all)
-- [Just what does Windows 11 bring to the table?](https://www.computerworld.com/article/3660077/just-what-does-windows-11-bring-to-the-table.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war: Ukrainian forces gradually pushing occupiers ‘away from Kharkiv’, says Zelenskiy – live](https://www.theguardian.com/world/live/2022/may/10/russia-ukraine-war-live-news-russian-troops-trying-to-storm-azovstal-steel-plant-says-kyiv-us-plans-40bn-aid-package-latest-updates)
-- [New Zealand to fully reopen borders for first time since Covid pandemic started](https://www.theguardian.com/world/2022/may/11/new-zealand-to-fully-reopen-borders-for-first-time-since-covid-pandemic-started)
-- [Putin’s dilemma: what is his next move in Ukraine? – Podcast](https://www.theguardian.com/news/audio/2022/may/11/putin-dilemma-next-move-in-ukraine-podcast)
-- [‘How many more months should we suffer?’: Indonesians struggle with pricey cooking oil](https://www.theguardian.com/world/2022/may/11/how-many-more-months-should-we-suffer-indonesians-struggle-with-pricey-cooking-oil)
-- [Threat of being sent to Rwanda ‘harming health of UK asylum seekers’](https://www.theguardian.com/world/2022/may/11/threat-of-being-sent-to-rwanda-harming-health-of-uk-asylum-seekers)
-- [Adidas sports bra ads banned in UK for objectifying women](https://www.theguardian.com/media/2022/may/11/adidas-sports-bra-ads-banned-uk-twitter-asa)
-- [Former Oxford college dean and senior cleric to leave Church of England](https://www.theguardian.com/education/2022/may/11/former-oxford-college-dean-and-senior-cleric-to-leave-church-of-england)
-- [Migrating turtles don’t really know where they’re going, study shows](https://www.theguardian.com/world/2022/may/11/migrating-turtles-dont-really-know-where-theyre-going-study-shows)
-- [TV tonight: Stacey Dooley goes on a genetic quest](https://www.theguardian.com/tv-and-radio/2022/may/11/tv-tonight-stacey-dooley-goes-on-a-genetic-quest-dna-family-secrets)
-- [Ticket-holder scoops £184m EuroMillions jackpot to become UK’s biggest ever winner](https://www.theguardian.com/uk-news/2022/may/10/ticket-holder-scoops-184m-euromillions-jackpot-to-become-uks-biggest-ever-winner)
+- [North Korea admits to Covid outbreak for first time and declares ‘severe national emergency’](https://www.theguardian.com/world/2022/may/12/north-korea-admits-to-covid-outbreak-for-first-time)
+- [Why are so many journalists being killed in Mexico? - podcast](https://www.theguardian.com/news/audio/2022/may/12/why-are-so-many-journalists-being-killed-in-mexico-today-in-focus-podcast)
+- [Russia-Ukraine war: what we know on day 78 of the invasion](https://www.theguardian.com/world/2022/may/12/russia-ukraine-war-what-we-know-on-day-78-of-the-invasion)
+- [Serial killer Levi Bellfield requests permission to marry in prison](https://www.theguardian.com/uk-news/2022/may/12/serial-killer-levi-bellfield-requests-permission-to-marry-in-prison)
+- [Sadiq Khan launches commission to examine cannabis legality](https://www.theguardian.com/society/2022/may/12/sadiq-khan-launches-commission-to-examine-cannabis-legality)
+- [People in performing arts twice as likely to have depression, Equity finds](https://www.theguardian.com/society/2022/may/12/performing-arts-depression-equity-covid-job-insecurity)
+- [Nurses top UK poll on who makes biggest contribution to society](https://www.theguardian.com/society/2022/may/12/nurses-top-uk-poll-on-who-makes-biggest-contribution-to-society)
+- [Unchain Me review – Dostoevsky inspires secret mission on the streets of Brighton](https://www.theguardian.com/stage/2022/may/12/unchain-me-review-dostoevsky-inspires-secret-mission-on-the-streets-of-brighton)
+- [Oxford and UCL tipped to win lion’s share of grants in UK research audit](https://www.theguardian.com/education/2022/may/12/oxford-and-ucl-tipped-to-win-lions-share-of-grants-in-uk-research-audit)
+- [Car crash kills Papua New Guinea’s deputy PM, Sam Basil](https://www.theguardian.com/world/2022/may/12/car-crash-kills-papua-new-guineas-deputy-pm-sam-basil)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

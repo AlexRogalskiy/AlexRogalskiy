@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Dell, Cisco, and HP vs. Apple and the hybrid-work test](https://www.computerworld.com/article/3660509/dell-cisco-and-hp-vs-apple-and-the-hybrid-work-test.html#tk.rss_all)
+- [Podcast: Apple employees push back on return-to-office plans; the end of the iPod](https://www.computerworld.com/article/3660572/podcast-apple-employees-push-back-on-return-to-office-plans-the-end-of-the-ipod.html#tk.rss_all)
+- [Europe puts Apple’s CSAM plans back in the spotlight](https://www.computerworld.com/article/3660491/europe-puts-apples-csam-plans-back-in-the-spotlight.html#tk.rss_all)
+- [Busting three myths about the future of work](https://www.computerworld.com/article/3659898/busting-three-myths-about-the-future-of-work.html#tk.rss_all)
+- [How to use File History in Windows 10 and 11](https://www.computerworld.com/article/3658132/how-to-use-file-history-windows-10-windows-11.html#tk.rss_all)
 - [How many jobs are available in technology?](https://www.computerworld.com/article/3542681/how-many-jobs-are-available-in-technology.html#tk.rss_all)
 - [Google brings automated summaries to Workspace ‘Spaces’](https://www.computerworld.com/article/3660488/google-brings-automated-summaries-to-workspace-spaces.html#tk.rss_all)
 - [Noteworthy tech acquisitions 2022](https://www.computerworld.com/article/3646533/noteworthy-tech-acquisitions-2022.html#tk.rss_all)
 - [Salesforce acquires Slack-bot maker Troops.ai](https://www.computerworld.com/article/3660079/salesforce-acquires-slack-bot-maker-troops-ai.html#tk.rss_all)
 - [5 ways COVID-19 has changed healthcare IT](https://www.computerworld.com/article/3657596/how-covid-19-has-changed-healthcare-it.html#tk.rss_all)
-- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
-- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
-- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
-- [Tech event calendar 2022: Upcoming US shows, conferences, and IT expos](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
-- [Why Apple needs to evict old and unsupported App Store apps](https://www.computerworld.com/article/3659800/why-apple-needs-to-evict-old-and-unsupported-app-store-apps.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

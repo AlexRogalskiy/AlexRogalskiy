@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Luna $0.61 falls below the “stablecoin” it is props up, UST $.70](https://coinmarketcap.com/currencies/terra-luna/)
-- [Minneapolis man convicted of voter fraud that never happens](https://hotair.com/jazz-shaw/2022/05/11/minneapolis-man-convicted-of-voter-fraud-that-never-happens-n468513)
-- [Crypto-Rich Puzzle over How to Pass on High-Risk Wealth to Heirs](https://www.bloomberg.com/tosv2.html?vid=&uuid=9f612031-d19f-11ec-abcd-784b58564151&url=L25ld3MvYXJ0aWNsZXMvMjAyMi0wNS0wNS9jcnlwdG8tcmljaC1wdXp6bGUtb3Zlci1ob3ctdG8tcGFzcy1vbi1oaWdoLXJpc2std2VhbHRoLXRvLWhlaXJz)
-- [I’ve Always Struggled with My Weight. Losing It Didn’t Mean Winning](https://www.nytimes.com/2022/05/11/magazine/weight-loss-pandemic.html)
-- [Shireen Abu Akleh: A trailblazer who gave voice to Palestinians](https://www.aljazeera.com/news/2022/5/11/al-jazeeras-shireen-abu-akleh)
-- [Anti Tank Guitar](https://en.wikipedia.org/wiki/Anti_Tank_Guitar)
-- [How many melodies are there?](https://plus.maths.org/content/how-many-melodies-are-there)
-- [Study finds coffee raises cholesterol levels – but depends on how it&#39;s brewed](https://openheart.bmj.com/content/9/1/e001946)
-- [Client-side Ruby date/time formatting using WASM](https://strftimeslikethese.com)
-- [American Dragnet: Data-Driven Deportation in the 21st Century](https://americandragnet.org/)
+- [Finding it hard to get a new job? Robot recruiters might be to blame](https://www.theguardian.com/us-news/2022/may/11/artitifical-intelligence-job-applications-screen-robot-recruiters)
+- [Cities with Nice Weather](https://jdonland.github.io/city_temperatures/index.html)
+- [Left my job to build Dashibase, no-code tool for app dashboards](https://alfredlua.com/startup)
+- [Investment portfolio tracking and FIRE planning](https://news.ycombinator.com/item?id=31362990)
+- [The VMotion Process Under the Hood](https://blogs.vmware.com/vsphere/2019/07/the-vmotion-process-under-the-hood.html)
+- [LSI: A Learned Secondary Index Structure](https://arxiv.org/abs/2205.05769)
+- [The Brass Check &lpar;1919&rpar;](https://en.wikipedia.org/wiki/The_Brass_Check)
+- [Ask HN: Why there are no sequels of Constantine movie?](https://news.ycombinator.com/item?id=31362842)
+- [An overview of structural pattern matching for Python](https://lwn.net/Articles/893193/)
+- [Cloned Horses Have Quietly Become a Thing. &lpar;2019&rpar;](https://robbreport.com/lifestyle/sports-leisure/cloned-horses-competition-2881549/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

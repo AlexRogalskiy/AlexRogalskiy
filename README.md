@@ -384,16 +384,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Jetpack Compose 1.2 packs text improvements](https://www.infoworld.com/article/3660772/jetpack-compose-12-packs-text-improvements.html#tk.rss_all)
+- [Google Flutter 3 backs macOS, Linux](https://www.infoworld.com/article/3660630/google-flutter-3-backs-macos-linux.html#tk.rss_all)
+- [How to compress and decompress strings in C#](https://www.infoworld.com/article/3660629/how-to-compress-and-decompress-strings-in-c-sharp.html#tk.rss_all)
+- [9 questions you should ask about your cloud security](https://www.infoworld.com/article/3660058/9-questions-you-should-ask-about-your-cloud-security.html#tk.rss_all)
+- [Intro to Micronaut: A cloud-native Java framework](https://www.infoworld.com/article/3658968/intro-to-micronaut-a-cloud-native-java-framework.html#tk.rss_all)
 - [Google Firebase expands Extensions to become more customizable](https://www.infoworld.com/article/3659885/google-firebase-expands-extensions-to-become-more-customizable.html#tk.rss_all)
 - [Why Google Cloud is battling AWS, Azure, in the red-hot PostgreSQL market](https://www.infoworld.com/article/3660548/why-google-cloud-will-battle-aws-azure-in-a-red-hot-postgresql-market.html#tk.rss_all)
 - [Progress launches Chef Cloud Security to extend DevSecOps to cloud-native assets](https://www.csoonline.com/article/3660409/progress-launches-chef-cloud-security-to-extend-devsecops-to-cloud-native-assets.html#tk.rss_all)
 - [RHEL 9 features edge management, container rollback](https://www.infoworld.com/article/3660062/rhel-9-features-edge-management-container-rollback.html#tk.rss_all)
 - [Understanding Flatcar Container Linux](https://www.infoworld.com/article/3659887/understanding-flatcar-container-linux.html#tk.rss_all)
-- [Does your deployed infrastructure match what you defined?](https://www.infoworld.com/article/3659794/does-your-deployed-infrastructure-match-what-you-defined.html#tk.rss_all)
-- [Docker Desktop comes to Linux, adds extensions SDK](https://www.infoworld.com/article/3660049/docker-desktop-comes-to-linux-adds-extensions-sdk.html#tk.rss_all)
-- [Cloudflare Workers for Platforms aims for more programmable web](https://www.infoworld.com/article/3659877/cloudflare-workers-for-platforms-aims-for-more-programmable-web.html#tk.rss_all)
-- [How developers are starting to prioritize wellness at work](https://www.infoworld.com/article/3659799/how-developers-are-starting-to-prioritize-wellness-at-work.html#tk.rss_all)
-- [C# popularity surges in Tiobe programming language index](https://www.infoworld.com/article/3660078/c-sharp-popularity-surges-in-tiobe-programming-language-index.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

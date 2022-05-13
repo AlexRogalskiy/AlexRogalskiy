@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Parasol data breach: Leaked email claims Optionis is denying responsibility for incident](https://www.computerweekly.com/news/252518120/Parasol-data-breach-Leaked-email-claims-Optionis-is-denying-responsibility-for-incident)
+- [GPDPR data scrape a ‘mistake’, says leading scientist](https://www.computerweekly.com/news/252518115/GPDPR-data-scrape-a-mistake-says-leading-scientist)
+- [The limits and risks of backup as ransomware protection](https://www.computerweekly.com/feature/The-limits-and-risks-of-backup-as-ransomware-protection)
+- [Rackspace mulls over business unit sell-off following strategic review of company](https://www.computerweekly.com/news/252518110/Rackspace-mulls-over-business-unit-sell-off-following-strategic-review-of-company)
+- [CW Benelux: Meta shelves hyperscale datacentre plan in Netherlands](https://www.computerweekly.com/ezine/CW-Benelux/CW-Benelux-Meta-shelves-hyperscale-datacentre-plan-in-Netherlands)
+- [Security Think Tank: Your path to understanding attack paths](https://www.computerweekly.com/opinion/Security-Think-Tank-Your-path-to-understanding-attack-paths)
+- [Fashion tech investment grew 66% during pandemic](https://www.computerweekly.com/news/252518092/Fashion-tech-investment-grew-66-during-pandemic)
+- [Ryanair taps up AWS machine learning tech to manage in-flight refreshment stocks](https://www.computerweekly.com/news/252518072/Ryanair-taps-up-AWS-machine-learning-tech-to-manage-in-flight-refreshment-stocks)
 - [Nerbian RAT enjoys using Covid-19 phishing lures](https://www.computerweekly.com/news/252518056/Nerbian-RAT-enjoys-using-Covid-19-phishing-lures)
 - [Emotet has commanding lead on Check Point monthly threat chart](https://www.computerweekly.com/news/252518053/Emotet-has-commanding-lead-on-Check-Point-monthly-threat-chart)
-- [CyberUK 22: Five Eyes focuses on MSP security](https://www.computerweekly.com/news/252518042/CyberUK-22-Five-Eyes-focuses-on-MSP-security)
-- [Data Reform Bill announced in Queen’s Speech](https://www.computerweekly.com/news/252518054/Data-Reform-Bill-announced-in-Queens-Speech)
-- [Pure to offer on-prem object storage as Snowflake data source](https://www.computerweekly.com/news/252518049/Pure-to-offer-on-prem-object-storage-as-Snowflake-data-source)
-- [CyberUK 22: Data-sharing service to protect public from scams](https://www.computerweekly.com/news/252518051/CyberUK-22-Data-sharing-service-to-protect-public-from-scams)
-- [DWP partners with AI-powered career and job services](https://www.computerweekly.com/news/252518048/DWP-partners-with-AI-powered-career-and-job-services)
-- [Analysts confirm return of REvil ransomware gang](https://www.computerweekly.com/news/252518036/Analysts-confirm-return-of-REvil-ransomware-gang)
-- [Cyber accreditation body Crest forges new training partnerships](https://www.computerweekly.com/news/252518039/Cyber-accreditation-body-Crest-forges-new-training-partnerships)
-- [Microsoft fixes three zero-days on May Patch Tuesday](https://www.computerweekly.com/news/252518038/Microsoft-fixes-three-zero-days-on-May-Patch-Tuesday)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

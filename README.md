@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [North Korea admits to Covid outbreak for first time and declares ‘severe national emergency’](https://www.theguardian.com/world/2022/may/12/north-korea-admits-to-covid-outbreak-for-first-time)
-- [Why are so many journalists being killed in Mexico? - podcast](https://www.theguardian.com/news/audio/2022/may/12/why-are-so-many-journalists-being-killed-in-mexico-today-in-focus-podcast)
-- [Russia-Ukraine war: what we know on day 78 of the invasion](https://www.theguardian.com/world/2022/may/12/russia-ukraine-war-what-we-know-on-day-78-of-the-invasion)
-- [Serial killer Levi Bellfield requests permission to marry in prison](https://www.theguardian.com/uk-news/2022/may/12/serial-killer-levi-bellfield-requests-permission-to-marry-in-prison)
-- [Sadiq Khan launches commission to examine cannabis legality](https://www.theguardian.com/society/2022/may/12/sadiq-khan-launches-commission-to-examine-cannabis-legality)
-- [People in performing arts twice as likely to have depression, Equity finds](https://www.theguardian.com/society/2022/may/12/performing-arts-depression-equity-covid-job-insecurity)
-- [Nurses top UK poll on who makes biggest contribution to society](https://www.theguardian.com/society/2022/may/12/nurses-top-uk-poll-on-who-makes-biggest-contribution-to-society)
-- [Unchain Me review – Dostoevsky inspires secret mission on the streets of Brighton](https://www.theguardian.com/stage/2022/may/12/unchain-me-review-dostoevsky-inspires-secret-mission-on-the-streets-of-brighton)
-- [Oxford and UCL tipped to win lion’s share of grants in UK research audit](https://www.theguardian.com/education/2022/may/12/oxford-and-ucl-tipped-to-win-lions-share-of-grants-in-uk-research-audit)
-- [Car crash kills Papua New Guinea’s deputy PM, Sam Basil](https://www.theguardian.com/world/2022/may/12/car-crash-kills-papua-new-guineas-deputy-pm-sam-basil)
+- [Cuba explosion: last body recovered from Havana hotel ruin, taking toll to 45](https://www.theguardian.com/world/2022/may/13/cuba-explosion-last-body-recovered-from-havana-hotel-ruin-taking-toll-to-45)
+- [Give us a grandchild or $650,000, say Indian couple suing son](https://www.theguardian.com/world/2022/may/13/indian-couple-sue-son-demanding-grandchild-or-650000)
+- [The fight for the right to roam in the English countryside – podcast](https://www.theguardian.com/environment/audio/2022/may/13/the-fight-for-the-right-to-roam-in-the-english-countryside-podcast)
+- [North Korea says six dead after admitting Covid outbreak for first time](https://www.theguardian.com/world/2022/may/12/north-korean-state-media-confirms-first-covid-death)
+- [Russia-Ukraine war: what we know on day 79 of the invasion](https://www.theguardian.com/world/2022/may/13/russia-ukraine-war-what-we-know-on-day-79-of-the-invasion)
+- [FA Cup final and Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2022/may/13/fa-cup-final-and-premier-league-10-things-to-look-out-for-this-weekend)
+- [Chris Rock: Ego Death review – taking the temperature of a ‘near-destroyed’ America](https://www.theguardian.com/stage/2022/may/13/chris-rock-ego-death-review-taking-the-temperature-of-a-near-destroyed-america)
+- [Boris Johnson calls for 90,000 civil service jobs to be cut to ease cost of living crisis](https://www.theguardian.com/politics/2022/may/12/boris-johnson-plans-to-axe-90000-civil-service-jobs-to-fund-tax-cuts)
+- [Queensland floods: state faces further weather emergency with flooding alerts issued for Lockyer Valley](https://www.theguardian.com/australia-news/2022/may/13/queensland-flood-emergency-alerts)
+- [Rare UK seabirds put at risk by ‘alarming loophole’, say campaigners](https://www.theguardian.com/environment/2022/may/13/rare-uk-seabirds-put-at-risk-by-alarming-loophole-say-campaigners)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

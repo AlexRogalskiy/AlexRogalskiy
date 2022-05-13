@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [How many melodies are there?](https://plus.maths.org/content/how-many-melodies-are-there)
-- [Nota: A Document Language for the Browser](https://nota-lang.org/)
-- [IntelliJ D Language – support for the D language within IntelliJ IDEA](https://intellij-dlanguage.github.io/)
-- [X-Clacks-Overhead](https://xclacksoverhead.org/home/about)
-- [Python Language Summit: Python Without the GIL](https://pyfound.blogspot.com/2022/05/the-2022-python-language-summit-python_11.html)
-- [Cryptocurreny retailer BitPrime closes trading after running out of money](https://www.bitprime.co.nz/important-notice-for-all-customers/)
-- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Machine Learning Research Engineers](https://news.ycombinator.com/item?id=31347969)
-- [Cheap technology for making optic lenses that could help 2.5B people – and NASA](https://www.haaretz.com/israel-news/MAGAZINE-a-simple-israeli-invention-could-help-2-5-billion-people-and-nasa-1.10452996)
-- [Is There a Housing Shortage or Not?](https://constructionphysics.substack.com/p/is-there-a-housing-shortage-or-not)
-- [My Experience at Community College](https://sporks.space/2022/05/11/my-experience-at-community-college/)
+- [BBC Basic for SDL 2.0](https://www.bbcbasic.co.uk/bbcsdl/index.html)
+- [Expats are moving to Portugal, taking gentrification with them](https://www.latimes.com/world-nation/story/2022-05-12/california-expats-portugal-relocation-lisbon)
+- [Tokay Programming Language](https://tokay.dev/)
+- [Ziina &lpar;YC W21&rpar; Is Hiring for Senior+ iOS and Back End Engineers in Dubai](https://news.ycombinator.com/item?id=31361983)
+- [macOS Multi-Monitor Problems](https://www.lautman.net/dan/blog/post/macosmonitorissues/)
+- [Ask HN: Asynchronous FPGAs and flowchart programming](https://news.ycombinator.com/item?id=31361858)
+- [Why a Meeting Costs More Than a MacBook Pro](https://blog.shimin.io/the-business-case-for-fewer-developer-meetings/)
+- [Why Does Pepperoni Curl?](https://www.seriouseats.com/the-pizza-lab-why-does-pepperoni-curl)
+- [We asked 100 humans to draw the DALL·E prompts](https://www.surgehq.ai//blog/humans-vs-dall-e)
+- [Ngn/k &lpar;free K implementation&rpar;](https://codeberg.org/ngn/k)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

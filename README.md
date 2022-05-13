@@ -369,6 +369,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [As Inflation Skyrockets, Is Now the Time to Pull Back on New IT Initiatives?](https://www.informationweek.com/strategic-cio/as-inflation-skyrockets-is-now-the-time-to-pull-back-on-new-it-initiatives-)
+- [5 Questions Every CSO Should Ask Amidst the Ukraine-Russia Conflict](https://www.informationweek.com/security-and-risk-strategy/5-questions-every-cso-should-ask-amidst-the-ukraine-russia-conflict)
+- [CBDCs Strive to Fulfill Diem’s Failed Vision](https://www.informationweek.com/fintech/cbdcs-strive-to-fulfill-diem-s-failed-vision)
 - [What You’re Probably Forgetting When Choosing a Cloud Provider](https://www.informationweek.com/cloud/what-you-re-probably-forgetting-when-choosing-a-cloud-provider)
 - [IT Pros Aren’t Missing the Office](https://www.informationweek.com/team-building-and-staffing/it-pros-are-not-missing-the-office)
 - [Attract Data Science Talent with These 3 Tips](https://www.informationweek.com/big-data/attract-data-science-talent-with-these-3-tips)
@@ -376,9 +379,6 @@
 - [Time to Rethink How We Make the Products of the Future](https://www.informationweek.com/software/time-to-rethink-how-we-make-the-products-of-the-future)
 - [Developing Leadership Skills for the Virtual Workplace](https://www.informationweek.com/it-life/developing-leadership-skills-for-the-virtual-workplace)
 - [Are Blockchain and Decentralized Cloud Making Much Headway?](https://www.informationweek.com/cloud/are-blockchain-and-decentralized-cloud-making-much-headway-)
-- [5 Skills a Cloud Architect Needs to Succeed](https://www.informationweek.com/cloud/five-skills-a-cloud-architect-needs-to-succeed)
-- [Apple, Google, Microsoft Move Closer to a Password-free Future](https://www.informationweek.com/security-and-risk-strategy/apple-google-microsoft-move-closer-to-a-password-free-future)
-- [Fintech, Cloud, and Finding Ways to Bridge the Skills Gap](https://www.informationweek.com/fintech/fintech-cloud-and-finding-ways-to-bridge-the-skills-gap)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

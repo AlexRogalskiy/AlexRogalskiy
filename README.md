@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [New artificial intelligence lab opens in Montreal](https://www.itworldcanada.com/article/new-artificial-intelligence-lab-opens-in-montreal/484166)
+- [Canada’s D-Wave announces the availability of its latest quantum computing system in the U.S.](https://www.itworldcanada.com/article/canadas-d-wave-announces-the-availability-of-its-latest-quantum-computing-system-in-the-u-s/484138)
+- [Cyber Security Today, Week in Review for Friday May 13, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-may-13-2022/483968)
+- [Elon Musk tweets about putting Twitter deal temporarily on hold](https://www.itworldcanada.com/article/elon-musk-tweets-about-putting-twitter-deal-temporarily-on-hold/484112)
+- [G7 needs group to share best cybersecurity practices in light of Russian attacks on Ukraine, says Canada](https://www.itworldcanada.com/article/g7-needs-group-to-share-best-cybersecurity-practices-in-light-of-russian-attacks-on-ukraine-says-canada/484084)
+- [Lighthouse Labs to build a search engine for the metaverse](https://www.itworldcanada.com/article/lighthouse-labs-to-build-a-search-engine-for-the-metaverse/484081)
+- [Cyber Security Today, May 13, 2022 – The Budapest Convention on fighting cybercrime is improved, and some websites secretly capture personal data](https://www.itworldcanada.com/article/cyber-security-today-may-13-2022-the-budapest-convention-on-fighting-cybercrime-is-improved-and-some-websites-secretly-capture-personal-data/483991)
+- [Hashtag Trending May 13 – Indigo partners with TikTok; Texas social network censorship law back into effect; Google’s smart glasses](https://www.itworldcanada.com/article/hashtag-trending-may-13-indigo-partners-with-tiktok-texas-social-network-censorship-law-back-into-effect-googles-smart-glasses/484040)
 - [Open-source software community releases plan to boost application security](https://www.itworldcanada.com/article/open-source-software-community-releases-plan-to-boost-application-security/484002)
 - [Red Hat announces 2022 Innovation Award winners](https://www.itworldcanada.com/article/red-hat-announces-2022-innovation-award-winners/483766)
-- [SAP highlights four focus areas at Sapphire conference](https://www.itworldcanada.com/article/sap-highlights-four-focus-areas-at-sapphire-conference/483953)
-- [Hashtag Trending May 12 – Netflix’s ad-supported subscription; U.S. generates 20 per cent of electricity with renewable energy; How digital abortion footprints could lead to criminal charges](https://www.itworldcanada.com/article/hashtag-trending-may-12-netflixs-ad-supported-subscription-u-s-generates-20-per-cent-of-electricity-with-renewable-energy-how-digital-abortion-footprints-could-lead-to-criminal-charges/483812)
-- [Five Eyes cyber agencies warn MSPs to expect an increase in attacks](https://www.itworldcanada.com/article/five-eyes-cyber-agencies-warn-msps-to-expect-an-increase-in-attacks/483830)
-- [HPE Canada opens new head office in Mississauga](https://www.itworldcanada.com/article/hpe-canada-opens-new-head-office-in-mississauga/483105)
-- [Red Hat announces a series of new features and services, prioritizing hybrid cloud](https://www.itworldcanada.com/article/red-hat-announces-a-series-of-new-features-and-services-prioritizing-hybrid-cloud/483670)
-- [Apple employees reject return to on site work in open letter](https://www.itworldcanada.com/article/apple-employees-reject-return-to-on-site-work-in-open-letter/483792)
-- [Intel Vision 2022: Habana Gaudi2 AI training processor arrives to challenge the Nvidia A100](https://www.itworldcanada.com/article/intel-vision-2022-habana-gaudi2-ai-training-processor-arrives-to-challenge-the-nvidia-a100/483711)
-- [Ransomware trends: Cross-platform execution, improving infrastructure and taking sides in war](https://www.itworldcanada.com/article/ransomware-trends-cross-platform-execution-improving-infrastructure-and-taking-sides-in-war/483733)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

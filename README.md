@@ -414,7 +414,9 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Ethernet Standards Explained - Network+](https://www.reddit.com/r/InformationTechnology/comments/uo4j0e/ethernet_standards_explained_network/)
+- [Any IT volunteering that I can do?](https://www.reddit.com/r/InformationTechnology/comments/up4i8n/any_it_volunteering_that_i_can_do/)
+- [Career Advice - transitioning into the tech field](https://www.reddit.com/r/InformationTechnology/comments/up2k0m/career_advice_transitioning_into_the_tech_field/)
+- [Can a IT certification get you a well paying job?](https://www.reddit.com/r/InformationTechnology/comments/uouij7/can_a_it_certification_get_you_a_well_paying_job/)
 - [&lpar;CAD&rpar; Average salary for Tech Lead at MSP?](https://www.reddit.com/r/InformationTechnology/comments/uo0q10/cad_average_salary_for_tech_lead_at_msp/)
 - [How do I become a Field Technician without a degree?](https://www.reddit.com/r/InformationTechnology/comments/unxvdd/how_do_i_become_a_field_technician_without_a/)
 - [help for beginner](https://www.reddit.com/r/InformationTechnology/comments/untp5r/help_for_beginner/)
@@ -422,8 +424,6 @@
 - [Which IT Security course/certification recommendation?](https://www.reddit.com/r/InformationTechnology/comments/un9str/which_it_security_coursecertification/)
 - [Meeting with a cloud manager](https://www.reddit.com/r/InformationTechnology/comments/un9ig3/meeting_with_a_cloud_manager/)
 - [How A TV &amp; Media Companies Adopts Business Intelligence to Drive Growth - Case Study](https://www.reddit.com/r/InformationTechnology/comments/un5bm4/how_a_tv_media_companies_adopts_business/)
-- [Final Thoughts as I Finish My Associate&#39;s Degree in IT](https://www.reddit.com/r/InformationTechnology/comments/umrfit/final_thoughts_as_i_finish_my_associates_degree/)
-- [I have an associates in applied science in information technology and can&#39;t find an IT job please help!!](https://www.reddit.com/r/InformationTechnology/comments/umk1zv/i_have_an_associates_in_applied_science_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

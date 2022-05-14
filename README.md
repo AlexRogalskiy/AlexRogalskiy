@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [BBC Basic for SDL 2.0](https://www.bbcbasic.co.uk/bbcsdl/index.html)
-- [Expats are moving to Portugal, taking gentrification with them](https://www.latimes.com/world-nation/story/2022-05-12/california-expats-portugal-relocation-lisbon)
-- [Tokay Programming Language](https://tokay.dev/)
-- [Ziina &lpar;YC W21&rpar; Is Hiring for Senior+ iOS and Back End Engineers in Dubai](https://news.ycombinator.com/item?id=31361983)
-- [macOS Multi-Monitor Problems](https://www.lautman.net/dan/blog/post/macosmonitorissues/)
-- [Ask HN: Asynchronous FPGAs and flowchart programming](https://news.ycombinator.com/item?id=31361858)
-- [Why a Meeting Costs More Than a MacBook Pro](https://blog.shimin.io/the-business-case-for-fewer-developer-meetings/)
-- [Why Does Pepperoni Curl?](https://www.seriouseats.com/the-pizza-lab-why-does-pepperoni-curl)
-- [We asked 100 humans to draw the DALL·E prompts](https://www.surgehq.ai//blog/humans-vs-dall-e)
-- [Ngn/k &lpar;free K implementation&rpar;](https://codeberg.org/ngn/k)
+- [Making fifty TIC-80 carts in a weekend](https://blinry.org/50-tic80-carts/)
+- [Scientists Prove That Plants Can Grow in Soil from the Moon](https://www.smithsonianmag.com/smart-news/scientists-prove-that-plants-can-grow-in-soil-from-moon-180980081/)
+- [Over $1.2B in Bitcoin reserves remains unaccounted for by Luna Fdn. Guard](https://www.theblockcrypto.com/post/146840/luna-foundation-guard-lfg-bitcoin-reserves-unaccounted)
+- [Cursor Dance Party](https://www.cursordanceparty.com/)
+- [The First Image of Earth Taken from Outer Space](https://www.vintag.es/2022/02/first-photo-from-space.html)
+- [A portable wind turbine the size of a water bottle](https://singularityhub.com/2022/05/11/this-mini-portable-wind-turbine-is-the-size-of-a-water-bottle-and-charges-devices-in-under-an-hour/)
+- [T cells block nerve cell regeneration with age, but can be reversed – mice study](https://www.imperial.ac.uk/news/236418/cells-block-nerve-cell-regeneration-with/)
+- [A clean start for the web &lpar;2020&rpar;](https://macwright.com/2020/08/22/clean-starts-for-the-web.html)
+- [Why Dopamine Makes People More Impulsive &lpar;2016&rpar;](https://knowingneurons.com/2016/03/10/dopamine-makes-people-impulsive/)
+- [Google Online SRE Books](https://sre.google/books/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

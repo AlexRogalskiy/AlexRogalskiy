@@ -369,6 +369,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [How Corporate Risk Management is Changing](https://www.informationweek.com/security-and-risk-strategy/how-corporate-risk-management-is-changing)
+- [How CINC Cut Down Churn on Its Apps for Real Estate Agents](https://www.informationweek.com/fintech/how-cinc-cut-down-churn-on-its-apps-for-real-estate-agents)
+- [Why Chatbot Experiences Break Down and How Organizations Can Improve Them](https://www.informationweek.com/ai-or-machine-learning/why-chatbot-experiences-break-down-and-how-organizations-can-improve-them)
 - [As Inflation Skyrockets, Is Now the Time to Pull Back on New IT Initiatives?](https://www.informationweek.com/strategic-cio/as-inflation-skyrockets-is-now-the-time-to-pull-back-on-new-it-initiatives-)
 - [5 Questions Every CSO Should Ask Amidst the Ukraine-Russia Conflict](https://www.informationweek.com/security-and-risk-strategy/5-questions-every-cso-should-ask-amidst-the-ukraine-russia-conflict)
 - [CBDCs Strive to Fulfill Diem’s Failed Vision](https://www.informationweek.com/fintech/cbdcs-strive-to-fulfill-diem-s-failed-vision)
@@ -376,9 +379,6 @@
 - [IT Pros Aren’t Missing the Office](https://www.informationweek.com/team-building-and-staffing/it-pros-are-not-missing-the-office)
 - [Attract Data Science Talent with These 3 Tips](https://www.informationweek.com/big-data/attract-data-science-talent-with-these-3-tips)
 - [Low Code: Satisfying Meal or Junk Food?](https://www.informationweek.com/devops/low-code-satisfying-meal-or-junk-food-)
-- [Time to Rethink How We Make the Products of the Future](https://www.informationweek.com/software/time-to-rethink-how-we-make-the-products-of-the-future)
-- [Developing Leadership Skills for the Virtual Workplace](https://www.informationweek.com/it-life/developing-leadership-skills-for-the-virtual-workplace)
-- [Are Blockchain and Decentralized Cloud Making Much Headway?](https://www.informationweek.com/cloud/are-blockchain-and-decentralized-cloud-making-much-headway-)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

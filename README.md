@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Cuba explosion: last body recovered from Havana hotel ruin, taking toll to 45](https://www.theguardian.com/world/2022/may/13/cuba-explosion-last-body-recovered-from-havana-hotel-ruin-taking-toll-to-45)
-- [Give us a grandchild or $650,000, say Indian couple suing son](https://www.theguardian.com/world/2022/may/13/indian-couple-sue-son-demanding-grandchild-or-650000)
-- [The fight for the right to roam in the English countryside – podcast](https://www.theguardian.com/environment/audio/2022/may/13/the-fight-for-the-right-to-roam-in-the-english-countryside-podcast)
-- [North Korea says six dead after admitting Covid outbreak for first time](https://www.theguardian.com/world/2022/may/12/north-korean-state-media-confirms-first-covid-death)
-- [Russia-Ukraine war: what we know on day 79 of the invasion](https://www.theguardian.com/world/2022/may/13/russia-ukraine-war-what-we-know-on-day-79-of-the-invasion)
-- [FA Cup final and Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2022/may/13/fa-cup-final-and-premier-league-10-things-to-look-out-for-this-weekend)
-- [Chris Rock: Ego Death review – taking the temperature of a ‘near-destroyed’ America](https://www.theguardian.com/stage/2022/may/13/chris-rock-ego-death-review-taking-the-temperature-of-a-near-destroyed-america)
-- [Boris Johnson calls for 90,000 civil service jobs to be cut to ease cost of living crisis](https://www.theguardian.com/politics/2022/may/12/boris-johnson-plans-to-axe-90000-civil-service-jobs-to-fund-tax-cuts)
-- [Queensland floods: state faces further weather emergency with flooding alerts issued for Lockyer Valley](https://www.theguardian.com/australia-news/2022/may/13/queensland-flood-emergency-alerts)
-- [Rare UK seabirds put at risk by ‘alarming loophole’, say campaigners](https://www.theguardian.com/environment/2022/may/13/rare-uk-seabirds-put-at-risk-by-alarming-loophole-say-campaigners)
+- [Russia-Ukraine war: Ukrainian forces continue Kharkiv pushback; Moscow to cut electricity supply to Finland after Nato decision – live](https://www.theguardian.com/world/live/2022/may/13/russia-ukraine-war-latest-kyiv-to-hear-first-war-crimes-trial-putin-humiliating-himself-on-world-stage-truss-says-live)
+- [Britain forecast to bask in sunshine with temperature as high as 27C](https://www.theguardian.com/uk-news/2022/may/14/britain-forecast-to-bask-in-sunshine-with-temperature-as-high-as-27c)
+- [India: 27 people killed after fire rips through Delhi office block](https://www.theguardian.com/world/2022/may/14/india-27-people-killed-after-fire-rips-through-delhi-office-block)
+- [Seven more survivors of capsized boat rescued near Puerto Rico](https://www.theguardian.com/us-news/2022/may/13/seven-more-survivors-haiti-migrants-capsized-boat-rescued-near-puerto-rico)
+- [Queensland floods: more heavy rain forecast after 300 homes inundated in Laidley](https://www.theguardian.com/australia-news/2022/may/14/queensland-floods-more-heavy-rain-forecast-after-300-homes-inundated-in-laidley)
+- [North Korea: Kim Jong-un declares Covid outbreak a ‘great disaster’](https://www.theguardian.com/world/2022/may/14/north-korea-kim-jong-un-declares-covid-outbreak-a-great-disaster)
+- [US condemns Israel’s attack on Shireen Abu Aqleh’s funeral](https://www.theguardian.com/world/2022/may/13/shireen-abu-aqleh-funeral-israel-blinken)
+- [Let’s Make a Love Scene review – silly, sexy cosplay inspired by Swayze and Clooney](https://www.theguardian.com/tv-and-radio/2022/may/13/lets-make-a-love-scene-review-silly-sexy-cosplay-inspired-by-swayze-and-clooney)
+- [Manhunt under way in Texas after convicted murderer escapes prison bus](https://www.theguardian.com/us-news/2022/may/13/texas-manhunt-gonzalo-lopez-escaped-bus)
+- [Phil Mickelson withdraws from US PGA Championship title defence](https://www.theguardian.com/sport/2022/may/13/phil-mickelson-withdraws-from-us-pga-championship-title-defence)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

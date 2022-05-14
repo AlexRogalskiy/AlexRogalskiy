@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Pro-competition data sharing will not include users’ personal info, says minister](https://www.computerweekly.com/news/252518173/Pro-competition-data-sharing-will-not-include-users-personal-info-says-minister)
+- [Open source community sets out path to secure software](https://www.computerweekly.com/news/252518161/Open-source-community-sets-out-path-to-secure-software)
+- [Dublin datacentre operators warned of climate change-related coastal flooding risks](https://www.computerweekly.com/news/252518162/Dublin-datacentre-operators-warned-of-climate-change-related-coastal-flooding-risks)
+- [Amazon shareholders to vote on audit of working conditions](https://www.computerweekly.com/news/252518134/Amazon-shareholders-to-vote-on-audit-of-working-conditions)
+- [Government levelling up bill promotes open data-based digital planning](https://www.computerweekly.com/news/252518138/Government-levelling-up-bill-promotes-open-data-based-digital-planning)
 - [Parasol data breach: Leaked email claims Optionis is denying responsibility for incident](https://www.computerweekly.com/news/252518120/Parasol-data-breach-Leaked-email-claims-Optionis-is-denying-responsibility-for-incident)
 - [GPDPR data scrape a ‘mistake’, says leading scientist](https://www.computerweekly.com/news/252518115/GPDPR-data-scrape-a-mistake-says-leading-scientist)
 - [The limits and risks of backup as ransomware protection](https://www.computerweekly.com/feature/The-limits-and-risks-of-backup-as-ransomware-protection)
 - [Rackspace mulls over business unit sell-off following strategic review of company](https://www.computerweekly.com/news/252518110/Rackspace-mulls-over-business-unit-sell-off-following-strategic-review-of-company)
 - [CW Benelux: Meta shelves hyperscale datacentre plan in Netherlands](https://www.computerweekly.com/ezine/CW-Benelux/CW-Benelux-Meta-shelves-hyperscale-datacentre-plan-in-Netherlands)
-- [Security Think Tank: Your path to understanding attack paths](https://www.computerweekly.com/opinion/Security-Think-Tank-Your-path-to-understanding-attack-paths)
-- [Fashion tech investment grew 66% during pandemic](https://www.computerweekly.com/news/252518092/Fashion-tech-investment-grew-66-during-pandemic)
-- [Ryanair taps up AWS machine learning tech to manage in-flight refreshment stocks](https://www.computerweekly.com/news/252518072/Ryanair-taps-up-AWS-machine-learning-tech-to-manage-in-flight-refreshment-stocks)
-- [Nerbian RAT enjoys using Covid-19 phishing lures](https://www.computerweekly.com/news/252518056/Nerbian-RAT-enjoys-using-Covid-19-phishing-lures)
-- [Emotet has commanding lead on Check Point monthly threat chart](https://www.computerweekly.com/news/252518053/Emotet-has-commanding-lead-on-Check-Point-monthly-threat-chart)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

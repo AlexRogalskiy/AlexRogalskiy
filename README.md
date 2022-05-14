@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Finding it hard to get a new job? Robot recruiters might be to blame](https://www.theguardian.com/us-news/2022/may/11/artitifical-intelligence-job-applications-screen-robot-recruiters)
-- [Cities with Nice Weather](https://jdonland.github.io/city_temperatures/index.html)
-- [Left my job to build Dashibase, no-code tool for app dashboards](https://alfredlua.com/startup)
-- [Investment portfolio tracking and FIRE planning](https://news.ycombinator.com/item?id=31362990)
-- [The VMotion Process Under the Hood](https://blogs.vmware.com/vsphere/2019/07/the-vmotion-process-under-the-hood.html)
-- [LSI: A Learned Secondary Index Structure](https://arxiv.org/abs/2205.05769)
-- [The Brass Check &lpar;1919&rpar;](https://en.wikipedia.org/wiki/The_Brass_Check)
-- [Ask HN: Why there are no sequels of Constantine movie?](https://news.ycombinator.com/item?id=31362842)
-- [An overview of structural pattern matching for Python](https://lwn.net/Articles/893193/)
-- [Cloned Horses Have Quietly Become a Thing. &lpar;2019&rpar;](https://robbreport.com/lifestyle/sports-leisure/cloned-horses-competition-2881549/)
+- [This PDF zine is readable in any plain text editor, and it&#39;s also a MP3](https://lab6.com/1.pdf)
+- [Longest pedestrian suspension bridge opens in Czech resort](https://apnews.com/article/mountains-czech-republic-64543e8a48d65e0a368486c4b68fc09f)
+- [Musk says $44 bln Twitter deal on hold over fake account data](https://www.reuters.com/technology/musk-says-44-billion-twitter-deal-hold-2022-05-13/)
+- [Financing Solution for High-Ticket Ecommerce Sales](https://capitalandgrowth.org/answers/4000370/What-are-the-best-financing-solutions-for-high-priced-items-sold-online-2500-3000)
+- [The Rules of Civil Conversation](https://therulesofcivilconversation.org/)
+- [Federal appeals court restores Texas&#39;s social media censorship law](https://www.cnn.com/2022/05/13/tech/texas-hb20-social-media-law/index.html)
+- [Making fifty TIC-80 carts in a weekend](https://blinry.org/50-tic80-carts/)
+- [Lighthouse Report Viewer](https://googlechrome.github.io/lighthouse/viewer/)
+- [Ask HN: From the software you used last week – which to replace first?](https://news.ycombinator.com/item?id=31374839)
+- [The Beginning of Infinity](https://thebeginningofinfinity.xyz/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

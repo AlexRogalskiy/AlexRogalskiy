@@ -384,16 +384,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [JDK 19: The features targeted for Java 19](https://www.infoworld.com/article/3653331/jdk-19-the-features-targeted-for-java-19.html#tk.rss_all)
+- [Cloudflare to take on AWS, Azure, Google with D1 distributed database](https://www.infoworld.com/article/3660573/cloudflare-to-take-on-aws-azure-google-with-d1-distributed-database.html#tk.rss_all)
+- [What is JDBC? Introduction to Java Database Connectivity](https://www.infoworld.com/article/3388036/what-is-jdbc-introduction-to-java-database-connectivity.html#tk.rss_all)
+- [How to build changeable cloud solutions](https://www.infoworld.com/article/3660771/how-to-build-changeable-cloud-solutions.html#tk.rss_all)
+- [TypeScript 4.7 adds ESM support in Node.js](https://www.infoworld.com/article/3656801/typescript-47-adds-esm-support-in-nodejs.html#tk.rss_all)
 - [Jetpack Compose 1.2 packs text improvements](https://www.infoworld.com/article/3660772/jetpack-compose-12-packs-text-improvements.html#tk.rss_all)
 - [Google Flutter 3 backs macOS, Linux](https://www.infoworld.com/article/3660630/google-flutter-3-backs-macos-linux.html#tk.rss_all)
 - [How to compress and decompress strings in C#](https://www.infoworld.com/article/3660629/how-to-compress-and-decompress-strings-in-c-sharp.html#tk.rss_all)
 - [9 questions you should ask about your cloud security](https://www.infoworld.com/article/3660058/9-questions-you-should-ask-about-your-cloud-security.html#tk.rss_all)
 - [Intro to Micronaut: A cloud-native Java framework](https://www.infoworld.com/article/3658968/intro-to-micronaut-a-cloud-native-java-framework.html#tk.rss_all)
-- [Google Firebase expands Extensions to become more customizable](https://www.infoworld.com/article/3659885/google-firebase-expands-extensions-to-become-more-customizable.html#tk.rss_all)
-- [Why Google Cloud is battling AWS, Azure, in the red-hot PostgreSQL market](https://www.infoworld.com/article/3660548/why-google-cloud-will-battle-aws-azure-in-a-red-hot-postgresql-market.html#tk.rss_all)
-- [Progress launches Chef Cloud Security to extend DevSecOps to cloud-native assets](https://www.csoonline.com/article/3660409/progress-launches-chef-cloud-security-to-extend-devsecops-to-cloud-native-assets.html#tk.rss_all)
-- [RHEL 9 features edge management, container rollback](https://www.infoworld.com/article/3660062/rhel-9-features-edge-management-container-rollback.html#tk.rss_all)
-- [Understanding Flatcar Container Linux](https://www.infoworld.com/article/3659887/understanding-flatcar-container-linux.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

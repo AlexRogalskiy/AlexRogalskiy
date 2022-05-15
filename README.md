@@ -414,6 +414,8 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [What do you do when someone has a virus at work? Or if someone remoted into their computer unauthorized?](https://www.reddit.com/r/InformationTechnology/comments/uprz8h/what_do_you_do_when_someone_has_a_virus_at_work/)
+- [How do you deal with difficulty getting stakeholders to actually look at projects and sign off?](https://www.reddit.com/r/InformationTechnology/comments/upc5pg/how_do_you_deal_with_difficulty_getting/)
 - [Any IT volunteering that I can do?](https://www.reddit.com/r/InformationTechnology/comments/up4i8n/any_it_volunteering_that_i_can_do/)
 - [Career Advice - transitioning into the tech field](https://www.reddit.com/r/InformationTechnology/comments/up2k0m/career_advice_transitioning_into_the_tech_field/)
 - [Can a IT certification get you a well paying job?](https://www.reddit.com/r/InformationTechnology/comments/uouij7/can_a_it_certification_get_you_a_well_paying_job/)
@@ -422,8 +424,6 @@
 - [help for beginner](https://www.reddit.com/r/InformationTechnology/comments/untp5r/help_for_beginner/)
 - [“Experience”](https://www.reddit.com/r/InformationTechnology/comments/unfkdh/experience/)
 - [Which IT Security course/certification recommendation?](https://www.reddit.com/r/InformationTechnology/comments/un9str/which_it_security_coursecertification/)
-- [Meeting with a cloud manager](https://www.reddit.com/r/InformationTechnology/comments/un9ig3/meeting_with_a_cloud_manager/)
-- [How A TV &amp; Media Companies Adopts Business Intelligence to Drive Growth - Case Study](https://www.reddit.com/r/InformationTechnology/comments/un5bm4/how_a_tv_media_companies_adopts_business/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

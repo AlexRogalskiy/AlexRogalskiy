@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [This PDF zine is readable in any plain text editor, and it&#39;s also a MP3](https://lab6.com/1.pdf)
-- [Longest pedestrian suspension bridge opens in Czech resort](https://apnews.com/article/mountains-czech-republic-64543e8a48d65e0a368486c4b68fc09f)
-- [Musk says $44 bln Twitter deal on hold over fake account data](https://www.reuters.com/technology/musk-says-44-billion-twitter-deal-hold-2022-05-13/)
-- [Financing Solution for High-Ticket Ecommerce Sales](https://capitalandgrowth.org/answers/4000370/What-are-the-best-financing-solutions-for-high-priced-items-sold-online-2500-3000)
-- [The Rules of Civil Conversation](https://therulesofcivilconversation.org/)
-- [Federal appeals court restores Texas&#39;s social media censorship law](https://www.cnn.com/2022/05/13/tech/texas-hb20-social-media-law/index.html)
-- [Making fifty TIC-80 carts in a weekend](https://blinry.org/50-tic80-carts/)
-- [Lighthouse Report Viewer](https://googlechrome.github.io/lighthouse/viewer/)
-- [Ask HN: From the software you used last week – which to replace first?](https://news.ycombinator.com/item?id=31374839)
-- [The Beginning of Infinity](https://thebeginningofinfinity.xyz/)
+- [Court Shows Johnson &amp; Johnson Injected Black Prisoners with Asbestos in the ’70s](https://www.contxmedia.com/johnson-johnson-black-prisoners-asbestos/)
+- [SEC chief Gensler says crypto exchanges &#39;market making against their customers&#39;](https://markets.businessinsider.com/news/currencies/crypto-exchanges-market-making-against-customers-sec-gary-gensler-2022-5)
+- [Action](https://atariwiki.org/wiki/Wiki.jsp?page=Action)
+- [Linux for Networking Professionals](https://github.com/PacktPublishing/Linux-for-Networking-Professionals)
+- [The Man Who Controls Computers with His Mind](https://www.nytimes.com/2022/05/12/magazine/brain-computer-interface.html)
+- [Dura Mater](http://biodrawing.com/Neurology_modules/NervousSystemSite/Neuroanatomy/meninges/Dura_mater.html)
+- [Ethylene in the Food Supply Chain](https://dynomight.net/ethylene-supply-chain/)
+- [Arcade Legend Eugene Jarvis &lpar;Robotron Jurassic Park Defender Halo Fire Team&rpar;](https://www.youtube.com/watch?v=VudKOwXKwvc)
+- [Crowdsource by Google](https://crowdsource.google.com/about/)
+- [Rivian sold Wall Street on an electric SUV. Then reality hit](https://www.washingtonpost.com/business/2022/05/13/electric-vehicle-suv-rivian-troubles/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

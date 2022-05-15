@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war: Ukrainian forces continue Kharkiv pushback; Moscow to cut electricity supply to Finland after Nato decision – live](https://www.theguardian.com/world/live/2022/may/13/russia-ukraine-war-latest-kyiv-to-hear-first-war-crimes-trial-putin-humiliating-himself-on-world-stage-truss-says-live)
-- [Britain forecast to bask in sunshine with temperature as high as 27C](https://www.theguardian.com/uk-news/2022/may/14/britain-forecast-to-bask-in-sunshine-with-temperature-as-high-as-27c)
-- [India: 27 people killed after fire rips through Delhi office block](https://www.theguardian.com/world/2022/may/14/india-27-people-killed-after-fire-rips-through-delhi-office-block)
-- [Seven more survivors of capsized boat rescued near Puerto Rico](https://www.theguardian.com/us-news/2022/may/13/seven-more-survivors-haiti-migrants-capsized-boat-rescued-near-puerto-rico)
-- [Queensland floods: more heavy rain forecast after 300 homes inundated in Laidley](https://www.theguardian.com/australia-news/2022/may/14/queensland-floods-more-heavy-rain-forecast-after-300-homes-inundated-in-laidley)
-- [North Korea: Kim Jong-un declares Covid outbreak a ‘great disaster’](https://www.theguardian.com/world/2022/may/14/north-korea-kim-jong-un-declares-covid-outbreak-a-great-disaster)
-- [US condemns Israel’s attack on Shireen Abu Aqleh’s funeral](https://www.theguardian.com/world/2022/may/13/shireen-abu-aqleh-funeral-israel-blinken)
-- [Let’s Make a Love Scene review – silly, sexy cosplay inspired by Swayze and Clooney](https://www.theguardian.com/tv-and-radio/2022/may/13/lets-make-a-love-scene-review-silly-sexy-cosplay-inspired-by-swayze-and-clooney)
-- [Manhunt under way in Texas after convicted murderer escapes prison bus](https://www.theguardian.com/us-news/2022/may/13/texas-manhunt-gonzalo-lopez-escaped-bus)
-- [Phil Mickelson withdraws from US PGA Championship title defence](https://www.theguardian.com/sport/2022/may/13/phil-mickelson-withdraws-from-us-pga-championship-title-defence)
+- [Chile’s constitutional assembly rejects plans to nationalise parts of mining sector](https://www.theguardian.com/world/2022/may/15/chiles-constitutional-assembly-rejects-plans-to-nationalise-parts-of-mining-sector)
+- [Russia-Ukraine war: what we know on day 81 of the invasion](https://www.theguardian.com/world/2022/may/15/russia-ukraine-war-what-we-know-on-day-81-of-the-invasion)
+- [North Korea reports 15 deaths and nearly 300,000 new ‘fever’ cases as Covid outbreak spreads](https://www.theguardian.com/world/2022/may/15/north-korea-reports-15-deaths-and-nearly-300000-new-fever-cases-as-covid-outbreak-spreads)
+- [10 killed in ‘racially motivated’ shooting at Buffalo supermarket, police say](https://www.theguardian.com/us-news/2022/may/14/buffalo-shooting-supermarket-new-york)
+- [Britney Spears announces loss of ‘miracle baby’ early in pregnancy](https://www.theguardian.com/music/2022/may/14/britney-spears-pregnancy-baby-loss-instagram)
+- [Former Australian Test cricketer Andrew Symonds killed in Queensland car crash](https://www.theguardian.com/australia-news/2022/may/15/former-australian-test-cricketer-andrew-symonds-killed-in-queensland-car-crash)
+- [Back to the bad old days of the 1990s as recession looms for UK](https://www.theguardian.com/business/2022/may/15/1990s-recession-looms--uk-inflation-rises)
+- [Ukraine wins 2022 Eurovision song contest as UK finishes second in Turin](https://www.theguardian.com/tv-and-radio/2022/may/15/ukraine-wins-2022-eurovision-song-contest-as-uk-finishes-second-in-turin)
+- [16 of the best shorts to wear this summer – in pictures](https://www.theguardian.com/fashion/2022/may/14/16-of-the-best-shorts-to-wear-this-summer-in-pictures)
+- [We love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2022/may/14/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

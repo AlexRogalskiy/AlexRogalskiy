@@ -429,6 +429,7 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [This week in ransomware – Friday the 13th edition, 2022](https://www.itworldcanada.com/article/this-week-in-ransomware-friday-the-13th-edition-2022/484091)
 - [New artificial intelligence lab opens in Montreal](https://www.itworldcanada.com/article/new-artificial-intelligence-lab-opens-in-montreal/484166)
 - [Canada’s D-Wave announces the availability of its latest quantum computing system in the U.S.](https://www.itworldcanada.com/article/canadas-d-wave-announces-the-availability-of-its-latest-quantum-computing-system-in-the-u-s/484138)
 - [Cyber Security Today, Week in Review for Friday May 13, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-may-13-2022/483968)
@@ -438,7 +439,6 @@
 - [Cyber Security Today, May 13, 2022 – The Budapest Convention on fighting cybercrime is improved, and some websites secretly capture personal data](https://www.itworldcanada.com/article/cyber-security-today-may-13-2022-the-budapest-convention-on-fighting-cybercrime-is-improved-and-some-websites-secretly-capture-personal-data/483991)
 - [Hashtag Trending May 13 – Indigo partners with TikTok; Texas social network censorship law back into effect; Google’s smart glasses](https://www.itworldcanada.com/article/hashtag-trending-may-13-indigo-partners-with-tiktok-texas-social-network-censorship-law-back-into-effect-googles-smart-glasses/484040)
 - [Open-source software community releases plan to boost application security](https://www.itworldcanada.com/article/open-source-software-community-releases-plan-to-boost-application-security/484002)
-- [Red Hat announces 2022 Innovation Award winners](https://www.itworldcanada.com/article/red-hat-announces-2022-innovation-award-winners/483766)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

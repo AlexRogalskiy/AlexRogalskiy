@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Making fifty TIC-80 carts in a weekend](https://blinry.org/50-tic80-carts/)
-- [Scientists Prove That Plants Can Grow in Soil from the Moon](https://www.smithsonianmag.com/smart-news/scientists-prove-that-plants-can-grow-in-soil-from-moon-180980081/)
-- [Over $1.2B in Bitcoin reserves remains unaccounted for by Luna Fdn. Guard](https://www.theblockcrypto.com/post/146840/luna-foundation-guard-lfg-bitcoin-reserves-unaccounted)
-- [Cursor Dance Party](https://www.cursordanceparty.com/)
-- [The First Image of Earth Taken from Outer Space](https://www.vintag.es/2022/02/first-photo-from-space.html)
-- [A portable wind turbine the size of a water bottle](https://singularityhub.com/2022/05/11/this-mini-portable-wind-turbine-is-the-size-of-a-water-bottle-and-charges-devices-in-under-an-hour/)
-- [T cells block nerve cell regeneration with age, but can be reversed – mice study](https://www.imperial.ac.uk/news/236418/cells-block-nerve-cell-regeneration-with/)
-- [A clean start for the web &lpar;2020&rpar;](https://macwright.com/2020/08/22/clean-starts-for-the-web.html)
-- [Why Dopamine Makes People More Impulsive &lpar;2016&rpar;](https://knowingneurons.com/2016/03/10/dopamine-makes-people-impulsive/)
-- [Google Online SRE Books](https://sre.google/books/)
+- [A lock-free, concurrent, generic queue in 32 bits](https://nullprogram.com/blog/2022/05/14/)
+- [Tylr: A tiny tile-based editor](https://tylr.fun/)
+- [`curl wttr.in`: Weather in your terminal](https://github.com/chubin/wttr.in)
+- [Restoring a $25k Convergent Technologies Miniframe CTIX Unix Computer [video]](https://www.youtube.com/watch?v=Pbpw8VmNnwU)
+- [Spreading rock dust on farms is an overlooked but tantalizing climate solution](https://www.anthropocenemagazine.org/2022/05/the-simple-act-of-spreading-rock-dust-on-farms-is-an-overlooked-but-tantalizing-climate-solution/)
+- [Cognitive psychology findings that passed a stringent replicability test &lpar;2017&rpar;](https://digest.bps.org.uk/2017/06/05/these-nine-cognitive-psychology-findings-all-passed-a-stringent-test-of-their-replicability/)
+- [Dog digs up haul of medieval coins in Poland](https://notesfrompoland.com/2022/04/20/dog-digs-up-huge-haul-of-medieval-coins-in-poland/)
+- [Weak links in finance and supply chains are easily weaponized](https://www.nature.com/articles/d41586-022-01254-5)
+- [KDE Connect Now Available on iOS](https://apps.apple.com/ca/app/kde-connect/id1580245991)
+- [OpenHistoricalMap: Designed to store and display map data throughout history](https://openhistoricalmap.org/#map=5/51.500/-0.100&layers=O&date=1900&daterange=1800,2022)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

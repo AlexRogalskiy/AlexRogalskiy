@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [A lock-free, concurrent, generic queue in 32 bits](https://nullprogram.com/blog/2022/05/14/)
-- [Tylr: A tiny tile-based editor](https://tylr.fun/)
-- [`curl wttr.in`: Weather in your terminal](https://github.com/chubin/wttr.in)
-- [Restoring a $25k Convergent Technologies Miniframe CTIX Unix Computer [video]](https://www.youtube.com/watch?v=Pbpw8VmNnwU)
-- [Spreading rock dust on farms is an overlooked but tantalizing climate solution](https://www.anthropocenemagazine.org/2022/05/the-simple-act-of-spreading-rock-dust-on-farms-is-an-overlooked-but-tantalizing-climate-solution/)
-- [Cognitive psychology findings that passed a stringent replicability test &lpar;2017&rpar;](https://digest.bps.org.uk/2017/06/05/these-nine-cognitive-psychology-findings-all-passed-a-stringent-test-of-their-replicability/)
-- [Dog digs up haul of medieval coins in Poland](https://notesfrompoland.com/2022/04/20/dog-digs-up-huge-haul-of-medieval-coins-in-poland/)
-- [Weak links in finance and supply chains are easily weaponized](https://www.nature.com/articles/d41586-022-01254-5)
-- [KDE Connect Now Available on iOS](https://apps.apple.com/ca/app/kde-connect/id1580245991)
-- [OpenHistoricalMap: Designed to store and display map data throughout history](https://openhistoricalmap.org/#map=5/51.500/-0.100&layers=O&date=1900&daterange=1800,2022)
+- [Should We Celebrate Acquisitions?](https://nutcroft.com/blog/should-we-celebrate-acquisitions/)
+- [DIY High Resolution Spectrometer](https://publiclab.org/notes/homechemist/08-24-2018/diy-high-resolution-spectrometer)
+- [Show HN: KittenDNS – easy to setup, rule engine, LetsEncrypt compatible](https://news.ycombinator.com/item?id=31391376)
+- [Heroku: Core Impact](https://brandur.org/nanoglyphs/033-heroku)
+- [Framedeck: A Cyberdeck built with the framework mainboard](https://github.com/brickbots/framedeck)
+- [BuildZoom &lpar;better way to build custom homes&rpar; is hiring a principal engineer](https://jobs.lever.co/buildzoom)
+- [How did Tropicana lose $30M in a packaging redesign?](https://bootcamp.uxdesign.cc/how-did-tropicana-lose-30-million-in-a-packaging-redesign-53d30a1e2b3a)
+- [Modern JavaScript Tutorial](https://javascript.info/)
+- [Taskwarrior](https://taskwarrior.org/)
+- [A Modern Space Cadet](https://stevelosh.com/blog/2012/10/a-modern-space-cadet/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

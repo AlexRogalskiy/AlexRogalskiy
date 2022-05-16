@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Chile’s constitutional assembly rejects plans to nationalise parts of mining sector](https://www.theguardian.com/world/2022/may/15/chiles-constitutional-assembly-rejects-plans-to-nationalise-parts-of-mining-sector)
-- [Russia-Ukraine war: what we know on day 81 of the invasion](https://www.theguardian.com/world/2022/may/15/russia-ukraine-war-what-we-know-on-day-81-of-the-invasion)
-- [North Korea reports 15 deaths and nearly 300,000 new ‘fever’ cases as Covid outbreak spreads](https://www.theguardian.com/world/2022/may/15/north-korea-reports-15-deaths-and-nearly-300000-new-fever-cases-as-covid-outbreak-spreads)
-- [10 killed in ‘racially motivated’ shooting at Buffalo supermarket, police say](https://www.theguardian.com/us-news/2022/may/14/buffalo-shooting-supermarket-new-york)
-- [Britney Spears announces loss of ‘miracle baby’ early in pregnancy](https://www.theguardian.com/music/2022/may/14/britney-spears-pregnancy-baby-loss-instagram)
-- [Former Australian Test cricketer Andrew Symonds killed in Queensland car crash](https://www.theguardian.com/australia-news/2022/may/15/former-australian-test-cricketer-andrew-symonds-killed-in-queensland-car-crash)
-- [Back to the bad old days of the 1990s as recession looms for UK](https://www.theguardian.com/business/2022/may/15/1990s-recession-looms--uk-inflation-rises)
-- [Ukraine wins 2022 Eurovision song contest as UK finishes second in Turin](https://www.theguardian.com/tv-and-radio/2022/may/15/ukraine-wins-2022-eurovision-song-contest-as-uk-finishes-second-in-turin)
-- [16 of the best shorts to wear this summer – in pictures](https://www.theguardian.com/fashion/2022/may/14/16-of-the-best-shorts-to-wear-this-summer-in-pictures)
-- [We love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2022/may/14/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [NBA playoffs: Doncic and Dinwiddie star as Mavs crush No1 seed Suns in Game 7](https://www.theguardian.com/sport/2022/may/15/nba-playoffs-conference-semifinals-game-7-celtics-bucks-suns-mavericks)
+- [Switzerland votes for organ donation by default](https://www.theguardian.com/world/2022/may/16/switzerland-votes-for-organ-donation-by-default)
+- [Marcos’ myths: the dictator’s son rewriting history in the Philippines](https://www.theguardian.com/news/audio/2022/may/16/marcos-myths-the-dictators-son-rewriting-history-in-the-philippines)
+- [Help to buy EVs in ‘landmark’ New Zealand net zero climate plan](https://www.theguardian.com/world/2022/may/16/help-to-buy-evs-in-landmark-new-zealand-net-zero-climate-plan)
+- [Russia-Ukraine war: what we know on day 82 of the invasion](https://www.theguardian.com/world/2022/may/16/russia-ukraine-war-what-we-know-on-day-82-of-the-invasion)
+- [Priti Patel accused of ‘power grab’ over new policing proposals](https://www.theguardian.com/uk-news/2022/may/15/priti-patel-accused-of-power-grab-over-new-policing-proposals)
+- [‘Painful choices’ remain over tribute to Grenfell Tower victims](https://www.theguardian.com/uk-news/2022/may/16/painful-choices-remain-over-tribute-to-grenfell-tower-victims)
+- [Children’s activity levels have not recovered after end of Covid restrictions – study](https://www.theguardian.com/society/2022/may/16/childrens-activity-levels-have-not-recovered-after-end-of-covid-restrictions-study)
+- [Record number of dams removed from Europe’s rivers in 2021](https://www.theguardian.com/environment/2022/may/16/record-number-of-dams-removed-from-europe-rivers-in-2021-aoe)
+- [Queen’s platinum jubilee begins with equestrian show at Windsor Castle](https://www.theguardian.com/uk-news/2022/may/15/queens-platinum-jubilee-begins-with-equestrian-show-at-windsor-castle)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

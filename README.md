@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to Build a Date Driven Company With Embedded Analytics](https://www.reddit.com/r/InformationTechnology/comments/uqaa1m/how_to_build_a_date_driven_company_with_embedded/)
+- [What certs are needed for UX/UI/web design AND does anyone know if places like CompTIA offer discounts to Ukrainians?](https://www.reddit.com/r/InformationTechnology/comments/uq3q4a/what_certs_are_needed_for_uxuiweb_design_and_does/)
+- [Data analytics and science?](https://www.reddit.com/r/InformationTechnology/comments/uq13fp/data_analytics_and_science/)
+- [Thoughts about doing a masters without having an undergrad in IT](https://www.reddit.com/r/InformationTechnology/comments/upx0p9/thoughts_about_doing_a_masters_without_having_an/)
 - [What do you do when someone has a virus at work? Or if someone remoted into their computer unauthorized?](https://www.reddit.com/r/InformationTechnology/comments/uprz8h/what_do_you_do_when_someone_has_a_virus_at_work/)
 - [How do you deal with difficulty getting stakeholders to actually look at projects and sign off?](https://www.reddit.com/r/InformationTechnology/comments/upc5pg/how_do_you_deal_with_difficulty_getting/)
 - [Any IT volunteering that I can do?](https://www.reddit.com/r/InformationTechnology/comments/up4i8n/any_it_volunteering_that_i_can_do/)
 - [Career Advice - transitioning into the tech field](https://www.reddit.com/r/InformationTechnology/comments/up2k0m/career_advice_transitioning_into_the_tech_field/)
 - [Can a IT certification get you a well paying job?](https://www.reddit.com/r/InformationTechnology/comments/uouij7/can_a_it_certification_get_you_a_well_paying_job/)
 - [&lpar;CAD&rpar; Average salary for Tech Lead at MSP?](https://www.reddit.com/r/InformationTechnology/comments/uo0q10/cad_average_salary_for_tech_lead_at_msp/)
-- [How do I become a Field Technician without a degree?](https://www.reddit.com/r/InformationTechnology/comments/unxvdd/how_do_i_become_a_field_technician_without_a/)
-- [help for beginner](https://www.reddit.com/r/InformationTechnology/comments/untp5r/help_for_beginner/)
-- [“Experience”](https://www.reddit.com/r/InformationTechnology/comments/unfkdh/experience/)
-- [Which IT Security course/certification recommendation?](https://www.reddit.com/r/InformationTechnology/comments/un9str/which_it_security_coursecertification/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

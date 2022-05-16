@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Court Shows Johnson &amp; Johnson Injected Black Prisoners with Asbestos in the ’70s](https://www.contxmedia.com/johnson-johnson-black-prisoners-asbestos/)
-- [SEC chief Gensler says crypto exchanges &#39;market making against their customers&#39;](https://markets.businessinsider.com/news/currencies/crypto-exchanges-market-making-against-customers-sec-gary-gensler-2022-5)
-- [Action](https://atariwiki.org/wiki/Wiki.jsp?page=Action)
-- [Linux for Networking Professionals](https://github.com/PacktPublishing/Linux-for-Networking-Professionals)
-- [The Man Who Controls Computers with His Mind](https://www.nytimes.com/2022/05/12/magazine/brain-computer-interface.html)
-- [Dura Mater](http://biodrawing.com/Neurology_modules/NervousSystemSite/Neuroanatomy/meninges/Dura_mater.html)
-- [Ethylene in the Food Supply Chain](https://dynomight.net/ethylene-supply-chain/)
-- [Arcade Legend Eugene Jarvis &lpar;Robotron Jurassic Park Defender Halo Fire Team&rpar;](https://www.youtube.com/watch?v=VudKOwXKwvc)
-- [Crowdsource by Google](https://crowdsource.google.com/about/)
-- [Rivian sold Wall Street on an electric SUV. Then reality hit](https://www.washingtonpost.com/business/2022/05/13/electric-vehicle-suv-rivian-troubles/)
+- [Interview with Crypto Billionaire Sam Bankman-Fried](https://www.ft.com/content/83bc681a-a0f9-43bb-b627-c6dacae4a0a3)
+- [Neal Stephenson, Author Who Coined ‘Metaverse,’ Just Bought His First NFTs](https://www.vice.com/en/article/epxy4m/neal-stephenson-author-who-coined-metaverse-just-bought-his-first-nfts)
+- [Parallel Tree Running](https://flak.tedunangst.com/post/parallel-tree-running)
+- [Turquoise Health raises $20M to boost price transparency](https://medcitynews.com/2022/05/turquoise-health-raises-20m-to-boost-price-transparency/)
+- [Quitting Twitter? What People Say About Life After Social Media](https://www.wsj.com/articles/quitting-twitter-what-people-say-about-life-after-social-media-11651415387)
+- [Miami’s Bitcoin Conference Left a Trail of Harassment](https://www.wired.com/story/bitcoin-2022-conference-harassment/)
+- [VPS and the ARCore Geospatial API](https://www.youtube.com/watch?v=pFn11hYZM2E)
+- [Things on my van that just make sense: Starlink Internet](https://twitter.com/GeoffreyHuntley/status/1526028015624261632)
+- [Juggling Jobs with OS-9: multitasking and timesharing](https://www.youtube.com/watch?v=FZadYxrF3l8)
+- [Ask HN: Which personal projects got you hired?](https://news.ycombinator.com/item?id=31393215)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

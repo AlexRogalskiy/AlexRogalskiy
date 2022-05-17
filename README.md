@@ -369,6 +369,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Fintech, Cloud, and Bringing Machine Learning to the Edge](https://www.informationweek.com/fintech/fintech-cloud-and-bringing-machine-learning-to-the-edge)
+- [The Power of Decision Intelligence: Strategies for Success](https://www.informationweek.com/big-data/the-power-of-decision-intelligence-strategies-for-success)
 - [How Corporate Risk Management is Changing](https://www.informationweek.com/security-and-risk-strategy/how-corporate-risk-management-is-changing)
 - [How CINC Cut Down Churn on Its Apps for Real Estate Agents](https://www.informationweek.com/fintech/how-cinc-cut-down-churn-on-its-apps-for-real-estate-agents)
 - [Why Chatbot Experiences Break Down and How Organizations Can Improve Them](https://www.informationweek.com/ai-or-machine-learning/why-chatbot-experiences-break-down-and-how-organizations-can-improve-them)
@@ -377,8 +379,6 @@
 - [CBDCs Strive to Fulfill Diem’s Failed Vision](https://www.informationweek.com/fintech/cbdcs-strive-to-fulfill-diem-s-failed-vision)
 - [What You’re Probably Forgetting When Choosing a Cloud Provider](https://www.informationweek.com/cloud/what-you-re-probably-forgetting-when-choosing-a-cloud-provider)
 - [IT Pros Aren’t Missing the Office](https://www.informationweek.com/team-building-and-staffing/it-pros-are-not-missing-the-office)
-- [Attract Data Science Talent with These 3 Tips](https://www.informationweek.com/big-data/attract-data-science-talent-with-these-3-tips)
-- [Low Code: Satisfying Meal or Junk Food?](https://www.informationweek.com/devops/low-code-satisfying-meal-or-junk-food-)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

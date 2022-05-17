@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Smart traffic management offers greater emissions control](https://www.computerweekly.com/news/252518231/Smart-traffic-management-offers-greater-emissions-control)
+- [Europol gears up to collect big data on European citizens after MEPs vote to expand policing power](https://www.computerweekly.com/news/252518218/Europol-gears-up-to-collect-big-data-on-European-citizens-after-MEPs-vote-to-expand-policing-power)
+- [Gartner data and analytics summit: Unleash innovation on emergence from pandemic](https://www.computerweekly.com/news/252518183/Gartner-data-and-analytics-summit-unleash-innovation-on-emergence-from-pandemic)
+- [Evolution of unified comms services](https://www.computerweekly.com/feature/Evolution-of-unified-comms-services)
 - [Pro-competition data sharing will not include users’ personal info, says minister](https://www.computerweekly.com/news/252518173/Pro-competition-data-sharing-will-not-include-users-personal-info-says-minister)
 - [Open source community sets out path to secure software](https://www.computerweekly.com/news/252518161/Open-source-community-sets-out-path-to-secure-software)
 - [Dublin datacentre operators warned of climate change-related coastal flooding risks](https://www.computerweekly.com/news/252518162/Dublin-datacentre-operators-warned-of-climate-change-related-coastal-flooding-risks)
 - [Amazon shareholders to vote on audit of working conditions](https://www.computerweekly.com/news/252518134/Amazon-shareholders-to-vote-on-audit-of-working-conditions)
 - [Government levelling up bill promotes open data-based digital planning](https://www.computerweekly.com/news/252518138/Government-levelling-up-bill-promotes-open-data-based-digital-planning)
 - [Parasol data breach: Leaked email claims Optionis is denying responsibility for incident](https://www.computerweekly.com/news/252518120/Parasol-data-breach-Leaked-email-claims-Optionis-is-denying-responsibility-for-incident)
-- [GPDPR data scrape a ‘mistake’, says leading scientist](https://www.computerweekly.com/news/252518115/GPDPR-data-scrape-a-mistake-says-leading-scientist)
-- [The limits and risks of backup as ransomware protection](https://www.computerweekly.com/feature/The-limits-and-risks-of-backup-as-ransomware-protection)
-- [Rackspace mulls over business unit sell-off following strategic review of company](https://www.computerweekly.com/news/252518110/Rackspace-mulls-over-business-unit-sell-off-following-strategic-review-of-company)
-- [CW Benelux: Meta shelves hyperscale datacentre plan in Netherlands](https://www.computerweekly.com/ezine/CW-Benelux/CW-Benelux-Meta-shelves-hyperscale-datacentre-plan-in-Netherlands)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

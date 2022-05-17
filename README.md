@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Interview with Crypto Billionaire Sam Bankman-Fried](https://www.ft.com/content/83bc681a-a0f9-43bb-b627-c6dacae4a0a3)
-- [Neal Stephenson, Author Who Coined ‘Metaverse,’ Just Bought His First NFTs](https://www.vice.com/en/article/epxy4m/neal-stephenson-author-who-coined-metaverse-just-bought-his-first-nfts)
-- [Parallel Tree Running](https://flak.tedunangst.com/post/parallel-tree-running)
-- [Turquoise Health raises $20M to boost price transparency](https://medcitynews.com/2022/05/turquoise-health-raises-20m-to-boost-price-transparency/)
-- [Quitting Twitter? What People Say About Life After Social Media](https://www.wsj.com/articles/quitting-twitter-what-people-say-about-life-after-social-media-11651415387)
-- [Miami’s Bitcoin Conference Left a Trail of Harassment](https://www.wired.com/story/bitcoin-2022-conference-harassment/)
-- [VPS and the ARCore Geospatial API](https://www.youtube.com/watch?v=pFn11hYZM2E)
-- [Things on my van that just make sense: Starlink Internet](https://twitter.com/GeoffreyHuntley/status/1526028015624261632)
-- [Juggling Jobs with OS-9: multitasking and timesharing](https://www.youtube.com/watch?v=FZadYxrF3l8)
-- [Ask HN: Which personal projects got you hired?](https://news.ycombinator.com/item?id=31393215)
+- [Anatomy of a cheap USB to Ethernet adapter &lpar;2013&rpar;](https://projectgus.com/2013/03/anatomy-of-a-cheap-usb-ethernet-adapter/)
+- [Ask HN: Limit HN Browsing to Specific Time or Place?](https://news.ycombinator.com/item?id=31405634)
+- [Vultr&#39;s internal network connectivity is down](https://status.vultr.com)
+- [What is the Silicon optical modules](https://news.ycombinator.com/item?id=31405609)
+- [Congress holding UFO hearing Tuesday &lpar;17May2022&rpar;](https://www.space.com/congress-ufo-hearing-tuesday-webcast)
+- [Building the world’s fastest website analytics](https://usefathom.com/blog/worlds-fastest-analytics)
+- [The End of Roe Will Bring About a Sea Change in the Encryption Debate](https://cyberlaw.stanford.edu/blog/2022/05/end-roe-will-bring-about-sea-change-encryption-debate)
+- [Local-First Software &lpar;2019&rpar;](https://www.inkandswitch.com/local-first/)
+- [Making a Basic LTI &lpar;Learning Tools Intoperability&rpar; App &lpar;2016&rpar;](https://acrl.ala.org/techconnect/post/making-a-basic-lti-learning-tools-intoperability-app/)
+- [Will swapping out electric car batteries catch on?](https://www.bbc.com/news/business-61310513)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

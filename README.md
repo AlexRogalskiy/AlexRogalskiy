@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Vpn on computer laptop](https://www.reddit.com/r/InformationTechnology/comments/urbttx/vpn_on_computer_laptop/)
+- [Is this normal?](https://www.reddit.com/r/InformationTechnology/comments/urb9wk/is_this_normal/)
+- [Se puede poner una marca propia a computadoras armadas que compro para vender?](https://www.reddit.com/r/InformationTechnology/comments/ur4tjk/se_puede_poner_una_marca_propia_a_computadoras/)
+- [forwarding calls over internet?](https://www.reddit.com/r/InformationTechnology/comments/uqyfoz/forwarding_calls_over_internet/)
+- [If you are a fresh grad of IT, is it possible to start at IT support specialist and in the future can be a Network Engineer?](https://www.reddit.com/r/InformationTechnology/comments/uqv77p/if_you_are_a_fresh_grad_of_it_is_it_possible_to/)
+- [Custom Application Development to turn your Thoughts into Reality](https://www.reddit.com/r/InformationTechnology/comments/uqpirk/custom_application_development_to_turn_your/)
 - [How to Build a Date Driven Company With Embedded Analytics](https://www.reddit.com/r/InformationTechnology/comments/uqaa1m/how_to_build_a_date_driven_company_with_embedded/)
 - [What certs are needed for UX/UI/web design AND does anyone know if places like CompTIA offer discounts to Ukrainians?](https://www.reddit.com/r/InformationTechnology/comments/uq3q4a/what_certs_are_needed_for_uxuiweb_design_and_does/)
 - [Data analytics and science?](https://www.reddit.com/r/InformationTechnology/comments/uq13fp/data_analytics_and_science/)
 - [Thoughts about doing a masters without having an undergrad in IT](https://www.reddit.com/r/InformationTechnology/comments/upx0p9/thoughts_about_doing_a_masters_without_having_an/)
-- [What do you do when someone has a virus at work? Or if someone remoted into their computer unauthorized?](https://www.reddit.com/r/InformationTechnology/comments/uprz8h/what_do_you_do_when_someone_has_a_virus_at_work/)
-- [How do you deal with difficulty getting stakeholders to actually look at projects and sign off?](https://www.reddit.com/r/InformationTechnology/comments/upc5pg/how_do_you_deal_with_difficulty_getting/)
-- [Any IT volunteering that I can do?](https://www.reddit.com/r/InformationTechnology/comments/up4i8n/any_it_volunteering_that_i_can_do/)
-- [Career Advice - transitioning into the tech field](https://www.reddit.com/r/InformationTechnology/comments/up2k0m/career_advice_transitioning_into_the_tech_field/)
-- [Can a IT certification get you a well paying job?](https://www.reddit.com/r/InformationTechnology/comments/uouij7/can_a_it_certification_get_you_a_well_paying_job/)
-- [&lpar;CAD&rpar; Average salary for Tech Lead at MSP?](https://www.reddit.com/r/InformationTechnology/comments/uo0q10/cad_average_salary_for_tech_lead_at_msp/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

@@ -384,16 +384,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [CNCF launches ethics in open source training course](https://www.infoworld.com/article/3660637/cncf-launches-ethics-in-open-source-training-course.html#tk.rss_all)
+- [Top technologists have job options: 5 tips for retention](https://www.infoworld.com/article/3660791/top-technologists-have-job-options-5-tips-for-retention.html#tk.rss_all)
+- [More money for open source security won’t work](https://www.infoworld.com/article/3660496/more-money-for-open-source-security-wont-work.html#tk.rss_all)
+- [Review: YugabyteDB does PostgreSQL proud](https://www.infoworld.com/article/3660060/review-yugabytedb-does-postgresql-proud.html#tk.rss_all)
 - [Microsoft .NET 7 Preview 4 brings Regex improvements, cache metrics](https://www.infoworld.com/article/3660634/microsoft-net-7-preview-focuses-on-regex.html#tk.rss_all)
 - [JDK 19: The features targeted for Java 19](https://www.infoworld.com/article/3653331/jdk-19-the-features-targeted-for-java-19.html#tk.rss_all)
 - [Cloudflare to take on AWS, Azure, Google with D1 distributed database](https://www.infoworld.com/article/3660573/cloudflare-to-take-on-aws-azure-google-with-d1-distributed-database.html#tk.rss_all)
 - [What is JDBC? Introduction to Java Database Connectivity](https://www.infoworld.com/article/3388036/what-is-jdbc-introduction-to-java-database-connectivity.html#tk.rss_all)
 - [How to build changeable cloud solutions](https://www.infoworld.com/article/3660771/how-to-build-changeable-cloud-solutions.html#tk.rss_all)
 - [TypeScript 4.7 adds ESM support in Node.js](https://www.infoworld.com/article/3656801/typescript-47-adds-esm-support-in-nodejs.html#tk.rss_all)
-- [Jetpack Compose 1.2 packs text improvements](https://www.infoworld.com/article/3660772/jetpack-compose-12-packs-text-improvements.html#tk.rss_all)
-- [Google Flutter 3 backs macOS, Linux](https://www.infoworld.com/article/3660630/google-flutter-3-backs-macos-linux.html#tk.rss_all)
-- [How to compress and decompress strings in C#](https://www.infoworld.com/article/3660629/how-to-compress-and-decompress-strings-in-c-sharp.html#tk.rss_all)
-- [9 questions you should ask about your cloud security](https://www.infoworld.com/article/3660058/9-questions-you-should-ask-about-your-cloud-security.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Join us for the 38th annual Canadian  Computer Charity Golf Classic!](https://www.itworldcanada.com/article/join-us-for-the-38th-annual-canadian-computer-charity-golf-classic/484599)
+- [Student wins national competition for social media tool aimed at reducing misinformation](https://www.itworldcanada.com/article/student-wins-national-competition-for-social-media-tool-aimed-at-reducing-misinformation/484094)
+- [Cyber Security Today, May 16, 2022 – Beware of this botnet, new phishing campaigns spotted and cybersecurity oversight boosted in the EU](https://www.itworldcanada.com/article/cyber-security-today-may-16-2022-beware-of-this-botnet-new-phishing-campaigns-spotted-and-cybersecurity-oversight-boosted-in-the-eu/484444)
+- [Hashtag Trending May 16, 2022 – Affordable U.S. internet; love or leave Netflix; data scraping on mainstream websites](https://www.itworldcanada.com/article/hashtag-trending-may-16-2022-affordable-u-s-internet-love-or-leave-netflix-data-scraping-on-mainstream-websites/484511)
 - [This week in ransomware – Friday the 13th edition, 2022](https://www.itworldcanada.com/article/this-week-in-ransomware-friday-the-13th-edition-2022/484091)
 - [New artificial intelligence lab opens in Montreal](https://www.itworldcanada.com/article/new-artificial-intelligence-lab-opens-in-montreal/484166)
 - [Canada’s D-Wave announces the availability of its latest quantum computing system in the U.S.](https://www.itworldcanada.com/article/canadas-d-wave-announces-the-availability-of-its-latest-quantum-computing-system-in-the-u-s/484138)
 - [Cyber Security Today, Week in Review for Friday May 13, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-may-13-2022/483968)
 - [Elon Musk tweets about putting Twitter deal temporarily on hold](https://www.itworldcanada.com/article/elon-musk-tweets-about-putting-twitter-deal-temporarily-on-hold/484112)
 - [G7 needs group to share best cybersecurity practices in light of Russian attacks on Ukraine, says Canada](https://www.itworldcanada.com/article/g7-needs-group-to-share-best-cybersecurity-practices-in-light-of-russian-attacks-on-ukraine-says-canada/484084)
-- [Lighthouse Labs to build a search engine for the metaverse](https://www.itworldcanada.com/article/lighthouse-labs-to-build-a-search-engine-for-the-metaverse/484081)
-- [Cyber Security Today, May 13, 2022 – The Budapest Convention on fighting cybercrime is improved, and some websites secretly capture personal data](https://www.itworldcanada.com/article/cyber-security-today-may-13-2022-the-budapest-convention-on-fighting-cybercrime-is-improved-and-some-websites-secretly-capture-personal-data/483991)
-- [Hashtag Trending May 13 – Indigo partners with TikTok; Texas social network censorship law back into effect; Google’s smart glasses](https://www.itworldcanada.com/article/hashtag-trending-may-13-indigo-partners-with-tiktok-texas-social-network-censorship-law-back-into-effect-googles-smart-glasses/484040)
-- [Open-source software community releases plan to boost application security](https://www.itworldcanada.com/article/open-source-software-community-releases-plan-to-boost-application-security/484002)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

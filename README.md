@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [NBA playoffs: Doncic and Dinwiddie star as Mavs crush No1 seed Suns in Game 7](https://www.theguardian.com/sport/2022/may/15/nba-playoffs-conference-semifinals-game-7-celtics-bucks-suns-mavericks)
-- [Switzerland votes for organ donation by default](https://www.theguardian.com/world/2022/may/16/switzerland-votes-for-organ-donation-by-default)
-- [Marcos’ myths: the dictator’s son rewriting history in the Philippines](https://www.theguardian.com/news/audio/2022/may/16/marcos-myths-the-dictators-son-rewriting-history-in-the-philippines)
-- [Help to buy EVs in ‘landmark’ New Zealand net zero climate plan](https://www.theguardian.com/world/2022/may/16/help-to-buy-evs-in-landmark-new-zealand-net-zero-climate-plan)
-- [Russia-Ukraine war: what we know on day 82 of the invasion](https://www.theguardian.com/world/2022/may/16/russia-ukraine-war-what-we-know-on-day-82-of-the-invasion)
-- [Priti Patel accused of ‘power grab’ over new policing proposals](https://www.theguardian.com/uk-news/2022/may/15/priti-patel-accused-of-power-grab-over-new-policing-proposals)
-- [‘Painful choices’ remain over tribute to Grenfell Tower victims](https://www.theguardian.com/uk-news/2022/may/16/painful-choices-remain-over-tribute-to-grenfell-tower-victims)
-- [Children’s activity levels have not recovered after end of Covid restrictions – study](https://www.theguardian.com/society/2022/may/16/childrens-activity-levels-have-not-recovered-after-end-of-covid-restrictions-study)
-- [Record number of dams removed from Europe’s rivers in 2021](https://www.theguardian.com/environment/2022/may/16/record-number-of-dams-removed-from-europe-rivers-in-2021-aoe)
-- [Queen’s platinum jubilee begins with equestrian show at Windsor Castle](https://www.theguardian.com/uk-news/2022/may/15/queens-platinum-jubilee-begins-with-equestrian-show-at-windsor-castle)
+- [Karine Jean-Pierre makes history but inherits a world of trouble](https://www.theguardian.com/us-news/2022/may/16/karine-jean-pierre-biden-administration)
+- [Florida’s ‘don’t say gay’ bill – podcast](https://www.theguardian.com/news/audio/2022/may/17/floridas-dont-say-gay-bill-podcast)
+- [Drug smuggling tunnel with rail system uncovered on US-Mexico border](https://www.theguardian.com/us-news/2022/may/16/california-drug-smuggling-tunnel-us-mexcio-border)
+- [California police say 68-year-old suspect in church shooting was motivated by hate](https://www.theguardian.com/us-news/2022/may/16/california-police-suspect-church-shooting)
+- [Musk says he could seek lower price for Twitter as he focuses on fake accounts](https://www.theguardian.com/technology/2022/may/16/elon-musk-twitter-ceo-poop-emoji)
+- [Taliban dissolves Afghanistan’s human rights commission as ‘unnecessary’](https://www.theguardian.com/world/2022/may/17/taliban-dissolves-afghanistans-human-rights-commission-as-unnecessary)
+- [Don’t accidentally hire a North Korean hacker, FBI warns](https://www.theguardian.com/world/2022/may/17/dont-accidentally-hire-a-north-korean-hacker-fbi-warns)
+- [Russia-Ukraine war: what we know on day 83 of the invasion](https://www.theguardian.com/world/2022/may/17/russia-ukraine-war-what-we-know-on-day-83-of-the-invasion)
+- [Cuban parliament approves penal code which activists warn curbs dissent](https://www.theguardian.com/world/2022/may/16/cuba-parliament-penal-code-updated)
+- [‘Think Before You Link’: app launched to help social media users detect fake profiles](https://www.theguardian.com/technology/2022/may/17/think-before-you-link-app-launched-to-help-social-media-users-detect-fake-profiles)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

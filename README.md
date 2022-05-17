@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Should We Celebrate Acquisitions?](https://nutcroft.com/blog/should-we-celebrate-acquisitions/)
-- [DIY High Resolution Spectrometer](https://publiclab.org/notes/homechemist/08-24-2018/diy-high-resolution-spectrometer)
-- [Show HN: KittenDNS – easy to setup, rule engine, LetsEncrypt compatible](https://news.ycombinator.com/item?id=31391376)
-- [Heroku: Core Impact](https://brandur.org/nanoglyphs/033-heroku)
-- [Framedeck: A Cyberdeck built with the framework mainboard](https://github.com/brickbots/framedeck)
-- [BuildZoom &lpar;better way to build custom homes&rpar; is hiring a principal engineer](https://jobs.lever.co/buildzoom)
-- [How did Tropicana lose $30M in a packaging redesign?](https://bootcamp.uxdesign.cc/how-did-tropicana-lose-30-million-in-a-packaging-redesign-53d30a1e2b3a)
-- [Modern JavaScript Tutorial](https://javascript.info/)
-- [Taskwarrior](https://taskwarrior.org/)
-- [A Modern Space Cadet](https://stevelosh.com/blog/2012/10/a-modern-space-cadet/)
+- [Billion-Dollar Crypto Loan Is Easy to Get, but Gone in a Flash](https://www.wsj.com/articles/this-billion-dollar-crypto-loan-is-easy-to-get-but-gone-in-a-flash-11651985089)
+- [A Spanish teen’s genome may hold the secret to lupus](https://www.freethink.com/health/genetic-cause-of-lupus)
+- [Avoiding burnout &lpar;as a student&rpar;](https://belkarx.github.io/posts/finished/Avoiding%20Burnout.html)
+- [Humans being confounded by color photography](https://www.laphamsquarterly.org/roundtable/new-look-same-great-look)
+- [Sandboxie: Sandbox-based isolation software for Windows NT-based OS&#39;s](https://github.com/sandboxie-plus/Sandboxie)
+- [Common libraries and data structures for C](https://github.com/tezc/sc)
+- [Researchers demo Bluetooth relay attack against Tesla](https://duo.com/decipher/researchers-demo-relay-attack-against-bluetooth-le-systems)
+- [Collection of Sun Workstation boot logos](https://github.com/mdehling/sun-fb-logos)
+- [Computer work lying down comfortably with a home-made stand over the bed](https://www.cambridgeclarion.org/48.html)
+- [Inkscape 1.2 released](https://inkscape.org/release/inkscape-1.2/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [The State of Digital ID in Canada](https://www.itworldcanada.com/article/the-state-of-digital-id-in-canada/484618)
+- [BlackBerry QNX OS gains another critical safety cert, this one aimed at railways](https://www.itworldcanada.com/article/blackberry-qnx-os-gains-another-critical-safety-cert-this-one-aimed-at-railways/484810)
+- [Google I/O 2022: Big features coming to Google Workspace](https://www.itworldcanada.com/article/google-i-o-2022-big-features-coming-to-google-workspace/484732)
+- [eBay to support FedEx on its in-platform label printing service](https://www.itworldcanada.com/article/ebay-to-support-fedex-on-its-in-platform-label-printing-service/484794)
+- [Concerns around data hacking and identity theft via biometrics are on the rise, report says](https://www.itworldcanada.com/article/concerns-around-data-hacking-and-identity-theft-via-biometrics-are-on-the-rise-report-says/484765)
+- [Coffee Briefing May 17, 2022 – Cradlepoint extends cellular Intelligence capabilities; Canadian students win nine international STEM awards; new tech training programs for underserved Canadians; and more](https://www.itworldcanada.com/article/coffee-briefing-may-17-2022-cradlepoint-extends-cellular-intelligence-capabilities-canadian-students-win-nine-international-stem-awards-new-tech-training-programs-for-underserved-canadians/484757)
+- [Canadian CISOs more likely to push prevention than detection to fight ransomware: Survey](https://www.itworldcanada.com/article/canadian-cisos-more-likely-to-push-prevention-than-detection-to-fight-ransomware-survey/484731)
+- [Hashtag Trending May 17 – Texas turns off power plants, AI sees race in X-rays; keyless unlock in Teslas hacked](https://www.itworldcanada.com/article/hashtag-trending-may-17-texas-turns-off-power-plants-ai-sees-race-in-x-rays-keyless-unlock-in-teslas-hacked/484703)
 - [Join us for the 38th annual Canadian  Computer Charity Golf Classic!](https://www.itworldcanada.com/article/join-us-for-the-38th-annual-canadian-computer-charity-golf-classic/484599)
 - [Student wins national competition for social media tool aimed at reducing misinformation](https://www.itworldcanada.com/article/student-wins-national-competition-for-social-media-tool-aimed-at-reducing-misinformation/484094)
-- [Cyber Security Today, May 16, 2022 – Beware of this botnet, new phishing campaigns spotted and cybersecurity oversight boosted in the EU](https://www.itworldcanada.com/article/cyber-security-today-may-16-2022-beware-of-this-botnet-new-phishing-campaigns-spotted-and-cybersecurity-oversight-boosted-in-the-eu/484444)
-- [Hashtag Trending May 16, 2022 – Affordable U.S. internet; love or leave Netflix; data scraping on mainstream websites](https://www.itworldcanada.com/article/hashtag-trending-may-16-2022-affordable-u-s-internet-love-or-leave-netflix-data-scraping-on-mainstream-websites/484511)
-- [This week in ransomware – Friday the 13th edition, 2022](https://www.itworldcanada.com/article/this-week-in-ransomware-friday-the-13th-edition-2022/484091)
-- [New artificial intelligence lab opens in Montreal](https://www.itworldcanada.com/article/new-artificial-intelligence-lab-opens-in-montreal/484166)
-- [Canada’s D-Wave announces the availability of its latest quantum computing system in the U.S.](https://www.itworldcanada.com/article/canadas-d-wave-announces-the-availability-of-its-latest-quantum-computing-system-in-the-u-s/484138)
-- [Cyber Security Today, Week in Review for Friday May 13, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-may-13-2022/483968)
-- [Elon Musk tweets about putting Twitter deal temporarily on hold](https://www.itworldcanada.com/article/elon-musk-tweets-about-putting-twitter-deal-temporarily-on-hold/484112)
-- [G7 needs group to share best cybersecurity practices in light of Russian attacks on Ukraine, says Canada](https://www.itworldcanada.com/article/g7-needs-group-to-share-best-cybersecurity-practices-in-light-of-russian-attacks-on-ukraine-says-canada/484084)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

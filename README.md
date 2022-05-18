@@ -369,6 +369,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [The Evolution of the CIO](https://www.informationweek.com/it-life/the-evolution-of-the-cio)
+- [Beyond the Numbers: How CFOs Can Embrace New Business Models](https://www.informationweek.com/strategic-cio/beyond-the-numbers-how-cfos-can-embrace-new-business-models)
 - [Fintech, Cloud, and Bringing Machine Learning to the Edge](https://www.informationweek.com/fintech/fintech-cloud-and-bringing-machine-learning-to-the-edge)
 - [The Power of Decision Intelligence: Strategies for Success](https://www.informationweek.com/big-data/the-power-of-decision-intelligence-strategies-for-success)
 - [How Corporate Risk Management is Changing](https://www.informationweek.com/security-and-risk-strategy/how-corporate-risk-management-is-changing)
@@ -377,8 +379,6 @@
 - [As Inflation Skyrockets, Is Now the Time to Pull Back on New IT Initiatives?](https://www.informationweek.com/strategic-cio/as-inflation-skyrockets-is-now-the-time-to-pull-back-on-new-it-initiatives-)
 - [5 Questions Every CSO Should Ask Amidst the Ukraine-Russia Conflict](https://www.informationweek.com/security-and-risk-strategy/5-questions-every-cso-should-ask-amidst-the-ukraine-russia-conflict)
 - [CBDCs Strive to Fulfill Diem’s Failed Vision](https://www.informationweek.com/fintech/cbdcs-strive-to-fulfill-diem-s-failed-vision)
-- [What You’re Probably Forgetting When Choosing a Cloud Provider](https://www.informationweek.com/cloud/what-you-re-probably-forgetting-when-choosing-a-cloud-provider)
-- [IT Pros Aren’t Missing the Office](https://www.informationweek.com/team-building-and-staffing/it-pros-are-not-missing-the-office)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

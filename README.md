@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Billion-Dollar Crypto Loan Is Easy to Get, but Gone in a Flash](https://www.wsj.com/articles/this-billion-dollar-crypto-loan-is-easy-to-get-but-gone-in-a-flash-11651985089)
-- [A Spanish teen’s genome may hold the secret to lupus](https://www.freethink.com/health/genetic-cause-of-lupus)
-- [Avoiding burnout &lpar;as a student&rpar;](https://belkarx.github.io/posts/finished/Avoiding%20Burnout.html)
-- [Humans being confounded by color photography](https://www.laphamsquarterly.org/roundtable/new-look-same-great-look)
-- [Sandboxie: Sandbox-based isolation software for Windows NT-based OS&#39;s](https://github.com/sandboxie-plus/Sandboxie)
-- [Common libraries and data structures for C](https://github.com/tezc/sc)
-- [Researchers demo Bluetooth relay attack against Tesla](https://duo.com/decipher/researchers-demo-relay-attack-against-bluetooth-le-systems)
-- [Collection of Sun Workstation boot logos](https://github.com/mdehling/sun-fb-logos)
-- [Computer work lying down comfortably with a home-made stand over the bed](https://www.cambridgeclarion.org/48.html)
-- [Inkscape 1.2 released](https://inkscape.org/release/inkscape-1.2/)
+- [Rippling and the Return of Ambition](https://luttig.substack.com/p/rippling)
+- [When Your Smart ID Card Reader Comes with Malware](https://krebsonsecurity.com/2022/05/when-your-smart-id-card-reader-comes-with-malware/)
+- [Heroku CI and Review App Secrets Compromised](https://news.ycombinator.com/item?id=31417993)
+- [Gophie – modern gopher client for Windows, Mac, Linux](https://gophie.org/)
+- [The Unix-HATERS Handbook &lpar;1994&rpar; [pdf]](https://web.mit.edu/~simsong/www/ugh.pdf)
+- [Solar-powered desalination device wins MIT $100K competition](https://news.mit.edu/2022/100k-competition-nona-0516)
+- [Plagiarized in a plagiarism atonement essay](https://www.plagiarismtoday.com/2022/05/09/plagiarism-today-plagiarized-in-a-plagiarism-atonement-essay/)
+- [Husky, Datadog&#39;s Third-Generation Event Store](https://www.datadoghq.com/blog/engineering/introducing-husky/)
+- [Netflix lays off about 150 employees](https://www.reuters.com/business/media-telecom/netflix-lays-off-approximately-150-mostly-us-2022-05-17/)
+- [Reviving Mind &lpar;YC W22&rpar; Is Hiring a Product Manager for Digital Health](https://www.ycombinator.com/companies/reviving-mind/jobs/tEz1Xz9-product-manager-in-rapidly-growing-digital-health-startup)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

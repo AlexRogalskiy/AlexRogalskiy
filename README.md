@@ -384,6 +384,9 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [You’re doing cloudops planning too late](https://www.infoworld.com/article/3660553/youre-doing-cloudops-planning-too-late.html#tk.rss_all)
+- [Kotlin 1.7.0 beta alters builder type inference](https://www.infoworld.com/article/3660497/kotlin-170-beta-alters-builder-type-inference.html#tk.rss_all)
+- [Only DevSecOps can save the metaverse](https://www.infoworld.com/article/3658833/only-devsecops-can-save-the-metaverse.html#tk.rss_all)
 - [CNCF launches ethics in open source training course](https://www.infoworld.com/article/3660637/cncf-launches-ethics-in-open-source-training-course.html#tk.rss_all)
 - [Top technologists have job options: 5 tips for retention](https://www.infoworld.com/article/3660791/top-technologists-have-job-options-5-tips-for-retention.html#tk.rss_all)
 - [More money for open source security won’t work](https://www.infoworld.com/article/3660496/more-money-for-open-source-security-wont-work.html#tk.rss_all)
@@ -391,9 +394,6 @@
 - [Microsoft .NET 7 Preview 4 brings Regex improvements, cache metrics](https://www.infoworld.com/article/3660634/microsoft-net-7-preview-focuses-on-regex.html#tk.rss_all)
 - [JDK 19: The features targeted for Java 19](https://www.infoworld.com/article/3653331/jdk-19-the-features-targeted-for-java-19.html#tk.rss_all)
 - [Cloudflare to take on AWS, Azure, Google with D1 distributed database](https://www.infoworld.com/article/3660573/cloudflare-to-take-on-aws-azure-google-with-d1-distributed-database.html#tk.rss_all)
-- [What is JDBC? Introduction to Java Database Connectivity](https://www.infoworld.com/article/3388036/what-is-jdbc-introduction-to-java-database-connectivity.html#tk.rss_all)
-- [How to build changeable cloud solutions](https://www.infoworld.com/article/3660771/how-to-build-changeable-cloud-solutions.html#tk.rss_all)
-- [TypeScript 4.7 adds ESM support in Node.js](https://www.infoworld.com/article/3656801/typescript-47-adds-esm-support-in-nodejs.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

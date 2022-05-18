@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Karine Jean-Pierre makes history but inherits a world of trouble](https://www.theguardian.com/us-news/2022/may/16/karine-jean-pierre-biden-administration)
-- [Florida’s ‘don’t say gay’ bill – podcast](https://www.theguardian.com/news/audio/2022/may/17/floridas-dont-say-gay-bill-podcast)
-- [Drug smuggling tunnel with rail system uncovered on US-Mexico border](https://www.theguardian.com/us-news/2022/may/16/california-drug-smuggling-tunnel-us-mexcio-border)
-- [California police say 68-year-old suspect in church shooting was motivated by hate](https://www.theguardian.com/us-news/2022/may/16/california-police-suspect-church-shooting)
-- [Musk says he could seek lower price for Twitter as he focuses on fake accounts](https://www.theguardian.com/technology/2022/may/16/elon-musk-twitter-ceo-poop-emoji)
-- [Taliban dissolves Afghanistan’s human rights commission as ‘unnecessary’](https://www.theguardian.com/world/2022/may/17/taliban-dissolves-afghanistans-human-rights-commission-as-unnecessary)
-- [Don’t accidentally hire a North Korean hacker, FBI warns](https://www.theguardian.com/world/2022/may/17/dont-accidentally-hire-a-north-korean-hacker-fbi-warns)
-- [Russia-Ukraine war: what we know on day 83 of the invasion](https://www.theguardian.com/world/2022/may/17/russia-ukraine-war-what-we-know-on-day-83-of-the-invasion)
-- [Cuban parliament approves penal code which activists warn curbs dissent](https://www.theguardian.com/world/2022/may/16/cuba-parliament-penal-code-updated)
-- [‘Think Before You Link’: app launched to help social media users detect fake profiles](https://www.theguardian.com/technology/2022/may/17/think-before-you-link-app-launched-to-help-social-media-users-detect-fake-profiles)
+- [The ‘carbon bombs’ set to blow up the world’s climate pledges](https://www.theguardian.com/news/audio/2022/may/18/the-carbon-bombs-set-to-blow-up-the-worlds-climate-pledges)
+- [Russia-Ukraine war: what we know on day 84 of the invasion](https://www.theguardian.com/world/2022/may/18/russia-ukraine-war-what-we-know-on-day-84-of-the-invasion)
+- [Corflutes, ukeleles and loose units: what is going on in the Australian election?](https://www.theguardian.com/australia-news/2022/may/18/corflutes-ukeleles-and-loose-units-what-is-going-on-in-the-australian-election)
+- [Broken Oasis guitar behind band break-up auctioned for £325,000](https://www.theguardian.com/music/2022/may/18/broken-oasis-guitar-behind-band-break-up-auctioned-for-325000)
+- [Police hunt fan who head-butted Billy Sharp on pitch after Forest playoff win](https://www.theguardian.com/football/2022/may/18/billy-sharp-headbutted-fan-pitch-invasion-nottingham-forest-playoff-win-sheffield-united)
+- [Covid support schemes left ‘open goal’ to fraudsters, says watchdog](https://www.theguardian.com/society/2022/may/18/covid-support-schemes-left-open-goal-to-fraudsters-says-watchdog)
+- [Numbers of nurses and midwives leaving NHS highest for four years](https://www.theguardian.com/society/2022/may/18/numbers-of-nurses-and-midwives-leaving-nhs-highest-for-four-years)
+- [Younger children most affected by Covid lockdowns, new research finds](https://www.theguardian.com/education/2022/may/18/younger-children-most-affected-by-covid-lockdowns-new-research-finds)
+- [Big carmakers stuck in slow lane over switch to zero emissions, study shows](https://www.theguardian.com/business/2022/may/18/big-carmakers-stuck-in-slow-lane-over-switch-to-zero-emissions-study-shows)
+- [Kim Jong-un calls North Korea’s response to Covid outbreak ‘inadequate’](https://www.theguardian.com/world/2022/may/17/kim-jong-un-calls-north-koreas-response-to-covid-outbreak-inadequate)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

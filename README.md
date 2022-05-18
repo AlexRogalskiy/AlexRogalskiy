@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Anatomy of a cheap USB to Ethernet adapter &lpar;2013&rpar;](https://projectgus.com/2013/03/anatomy-of-a-cheap-usb-ethernet-adapter/)
-- [Ask HN: Limit HN Browsing to Specific Time or Place?](https://news.ycombinator.com/item?id=31405634)
-- [Vultr&#39;s internal network connectivity is down](https://status.vultr.com)
-- [What is the Silicon optical modules](https://news.ycombinator.com/item?id=31405609)
-- [Congress holding UFO hearing Tuesday &lpar;17May2022&rpar;](https://www.space.com/congress-ufo-hearing-tuesday-webcast)
-- [Building the world’s fastest website analytics](https://usefathom.com/blog/worlds-fastest-analytics)
-- [The End of Roe Will Bring About a Sea Change in the Encryption Debate](https://cyberlaw.stanford.edu/blog/2022/05/end-roe-will-bring-about-sea-change-encryption-debate)
-- [Local-First Software &lpar;2019&rpar;](https://www.inkandswitch.com/local-first/)
-- [Making a Basic LTI &lpar;Learning Tools Intoperability&rpar; App &lpar;2016&rpar;](https://acrl.ala.org/techconnect/post/making-a-basic-lti-learning-tools-intoperability-app/)
-- [Will swapping out electric car batteries catch on?](https://www.bbc.com/news/business-61310513)
+- [Microsoft to boost employee pay in effort to stop attrition](https://www.bizjournals.com/seattle/news/2022/05/16/microsoft-pay-increases-competition-amazon.html)
+- [With Plunging Enrollment, a ‘Seismic Hit’ to Public Schools](https://www.nytimes.com/2022/05/17/us/public-schools-falling-enrollment.html)
+- [MTA’s new stairs in Times Square subway station cost $30M](https://www.nydailynews.com/new-york/ny-subway-stairs-times-square-mta-thirty-million-subway-20220516-5otpwgvlmbaxpcuh4euf4tiq2u-story.html)
+- [Kindle, ePub, and Amazon’s Love of Reinventing Wheels](https://hackaday.com/2022/05/17/kindle-epub-and-amazons-love-of-reinventing-wheels/)
+- [Tether redemptions fuel fears about stablecoin&#39;s backing](https://www.cnbc.com/2022/05/17/tether-usdt-redemptions-fuel-fears-about-stablecoins-backing.html)
+- [The Magic Home Page &lpar;1998&rpar;](https://web.archive.org/web/20000815234946/http://www.wizards.com/magic/)
+- [Stargazing in the UK is the best it’s been in over a decade](https://www.theverge.com/2022/5/17/23093996/uk-night-sky-stargazing-light-pollution)
+- [Recovering the Titanic&#39;s radio could signal a disaster for underwater heritage](https://theconversation.com/titanic-salvage-recovering-the-ships-radio-could-signal-a-disaster-for-underwater-cultural-heritage-139795)
+- [America in 2072: A Society Stratified by Genetic Enhancement](https://parrhesia.substack.com/p/america-in-2072-a-society-stratified)
+- [Google Joins Amazon to Mull a Bid for Coveted Cricket Event](https://www.bloomberg.com/news/articles/2022-05-11/google-joins-amazon-in-mulling-a-bid-for-coveted-cricket-event)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

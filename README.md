@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Apple backs off its return-to-work policy, cites virus resurgence](https://www.computerworld.com/article/3660777/apple-backs-off-its-return-to-work-policy-cites-virus-resurgence.html#tk.rss_all)
+- [Apple boosts diversity with its latest accessibility tools](https://www.computerworld.com/article/3660515/apple-boosts-diversity-with-its-latest-accessibility-tools.html#tk.rss_all)
+- [Chromebooks: Desktops you can trust to be there](https://www.computerworld.com/article/3660577/chromebooks-desktops-you-can-trust-to-be-there.html#tk.rss_all)
+- [Amid talent crunch, Microsoft looks to keep workers through pay hikes, bonuses](https://www.computerworld.com/article/3660798/amid-talent-crunch-microsoft-attempts-to-keep-talent-through-pay-bonus-increases.html#tk.rss_all)
 - [The future of work: Apple’s heroes-to-zeroes story](https://www.computerworld.com/article/3660556/the-future-of-work-apples-heroes-to-zeroes-story.html#tk.rss_all)
 - [Not all patching problems are created equal](https://www.computerworld.com/article/3660512/not-all-patching-problems-are-created-equal.html#tk.rss_all)
 - [Apple is the latest example of how the remote work fight has gone lunatic](https://www.computerworld.com/article/3660773/apple-is-the-latest-example-of-how-the-remote-work-fight-has-gone-lunatic.html#tk.rss_all)
 - [No degree? No problem. Tech firms move away from college requirement for new hires](https://www.computerworld.com/article/3660493/no-degree-no-problem-tech-firms-move-away-from-college-requirement-for-new-hires.html#tk.rss_all)
 - [May&#39;s Patch Tuesday updates make urgent patching a must](https://www.computerworld.com/article/3660511/mays-patch-tuesday-updates-make-urgent-patching-a-must.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [Does your team need a cloud-based unified communication and collaboration tool?](https://www.computerworld.com/article/3660574/does-your-team-need-a-cloud-based-unified-communication-and-collaboration-tool.html#tk.rss_all)
-- [Apple&#39;s Mac shortage is a big red flag for enterprise IT](https://www.computerworld.com/article/3660609/apples-mac-shortage-is-a-big-red-flag-for-enterprise-it.html#tk.rss_all)
-- [How one company used lockdowns to envision a new way of working](https://www.computerworld.com/article/3660770/how-one-company-used-lockdowns-to-envision-a-new-way-of-working.html#tk.rss_all)
-- [Zoom pushes further into the contact center with Solvvy acquisition](https://www.computerworld.com/article/3660510/zoom-pushes-further-into-the-contact-center-with-solvvy-acquisition.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

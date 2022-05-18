@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Post Office scandal victim calls for government’s role in silencing victims to be investigated](https://www.computerweekly.com/news/252518299/Post-Office-scandal-victim-calls-for-governments-role-in-silencing-victims-to-be-investigated)
+- [&lpar;ISC&rpar;² to train 100,000 cyber pros in UK](https://www.computerweekly.com/news/252518298/ISC-to-train-100000-cyber-pros-in-UK)
+- [Investment in UK ‘cleantech’ sector hit new high in 2021 as climate change concerns rise](https://www.computerweekly.com/news/252518292/Investment-in-UK-cleantech-sector-hit-new-high-in-2021-as-climate-change-concerns-rise)
+- [A Computer Weekly buyer’s guide to edge datacentres](https://www.computerweekly.com/ehandbook/A-Computer-Weekly-buyers-guide-to-edge-datacentres)
+- [Video effects firm cuts costs by 20% and goes hybrid with Hammerspace](https://www.computerweekly.com/news/252518224/Video-effects-firm-cuts-costs-by-20-and-goes-hybrid-with-Hammerspace)
+- [Hammerspace the ‘missing link’ for a cloud still lacking](https://www.computerweekly.com/news/252518283/Hammerspace-the-missing-link-for-a-cloud-still-lacking)
+- [Digitally transforming UK power networks for renewable energy](https://www.computerweekly.com/ezine/Computer-Weekly/Digitally-transforming-UK-power-networks-for-renewable-energy)
 - [Smart traffic management offers greater emissions control](https://www.computerweekly.com/news/252518231/Smart-traffic-management-offers-greater-emissions-control)
 - [Europol gears up to collect big data on European citizens after MEPs vote to expand policing power](https://www.computerweekly.com/news/252518218/Europol-gears-up-to-collect-big-data-on-European-citizens-after-MEPs-vote-to-expand-policing-power)
 - [Gartner data and analytics summit: Unleash innovation on emergence from pandemic](https://www.computerweekly.com/news/252518183/Gartner-data-and-analytics-summit-unleash-innovation-on-emergence-from-pandemic)
-- [Evolution of unified comms services](https://www.computerweekly.com/feature/Evolution-of-unified-comms-services)
-- [Pro-competition data sharing will not include users’ personal info, says minister](https://www.computerweekly.com/news/252518173/Pro-competition-data-sharing-will-not-include-users-personal-info-says-minister)
-- [Open source community sets out path to secure software](https://www.computerweekly.com/news/252518161/Open-source-community-sets-out-path-to-secure-software)
-- [Dublin datacentre operators warned of climate change-related coastal flooding risks](https://www.computerweekly.com/news/252518162/Dublin-datacentre-operators-warned-of-climate-change-related-coastal-flooding-risks)
-- [Amazon shareholders to vote on audit of working conditions](https://www.computerweekly.com/news/252518134/Amazon-shareholders-to-vote-on-audit-of-working-conditions)
-- [Government levelling up bill promotes open data-based digital planning](https://www.computerweekly.com/news/252518138/Government-levelling-up-bill-promotes-open-data-based-digital-planning)
-- [Parasol data breach: Leaked email claims Optionis is denying responsibility for incident](https://www.computerweekly.com/news/252518120/Parasol-data-breach-Leaked-email-claims-Optionis-is-denying-responsibility-for-incident)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [RIP, macOS Server](https://www.computerworld.com/article/3661249/rip-macos-server.html#tk.rss_all)
+- [Airtable exec describes building a &#39;data hub&#39; for the enterprise](https://www.computerworld.com/article/3661208/airtable-exec-describes-building-a-data-hub-for-the-enterprise.html#tk.rss_all)
+- [Apple improves enterprise training to meet growing demand](https://www.computerworld.com/article/3660518/apple-improves-enterprise-training-to-meet-growing-demand.html#tk.rss_all)
+- [Miro looks to move beyond the whiteboard and support hybrid work](https://www.computerworld.com/article/3660500/miro-to-support-hybrid-work-with-latest-updates.html#tk.rss_all)
+- [Google&#39;s potentially pivotal Pixel Tablet curveball](https://www.computerworld.com/article/3660555/pixel-tablet.html#tk.rss_all)
 - [Apple backs off its return-to-work policy, cites virus resurgence](https://www.computerworld.com/article/3660777/apple-backs-off-its-return-to-work-policy-cites-virus-resurgence.html#tk.rss_all)
 - [Apple boosts diversity with its latest accessibility tools](https://www.computerworld.com/article/3660515/apple-boosts-diversity-with-its-latest-accessibility-tools.html#tk.rss_all)
 - [Chromebooks: Desktops you can trust to be there](https://www.computerworld.com/article/3660577/chromebooks-desktops-you-can-trust-to-be-there.html#tk.rss_all)
 - [Amid talent crunch, Microsoft looks to keep workers through pay hikes, bonuses](https://www.computerworld.com/article/3660798/amid-talent-crunch-microsoft-attempts-to-keep-talent-through-pay-bonus-increases.html#tk.rss_all)
 - [The future of work: Apple’s heroes-to-zeroes story](https://www.computerworld.com/article/3660556/the-future-of-work-apples-heroes-to-zeroes-story.html#tk.rss_all)
-- [Not all patching problems are created equal](https://www.computerworld.com/article/3660512/not-all-patching-problems-are-created-equal.html#tk.rss_all)
-- [Apple is the latest example of how the remote work fight has gone lunatic](https://www.computerworld.com/article/3660773/apple-is-the-latest-example-of-how-the-remote-work-fight-has-gone-lunatic.html#tk.rss_all)
-- [No degree? No problem. Tech firms move away from college requirement for new hires](https://www.computerworld.com/article/3660493/no-degree-no-problem-tech-firms-move-away-from-college-requirement-for-new-hires.html#tk.rss_all)
-- [May&#39;s Patch Tuesday updates make urgent patching a must](https://www.computerworld.com/article/3660511/mays-patch-tuesday-updates-make-urgent-patching-a-must.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

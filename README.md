@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Microsoft to boost employee pay in effort to stop attrition](https://www.bizjournals.com/seattle/news/2022/05/16/microsoft-pay-increases-competition-amazon.html)
-- [With Plunging Enrollment, a ‘Seismic Hit’ to Public Schools](https://www.nytimes.com/2022/05/17/us/public-schools-falling-enrollment.html)
-- [MTA’s new stairs in Times Square subway station cost $30M](https://www.nydailynews.com/new-york/ny-subway-stairs-times-square-mta-thirty-million-subway-20220516-5otpwgvlmbaxpcuh4euf4tiq2u-story.html)
-- [Kindle, ePub, and Amazon’s Love of Reinventing Wheels](https://hackaday.com/2022/05/17/kindle-epub-and-amazons-love-of-reinventing-wheels/)
-- [Tether redemptions fuel fears about stablecoin&#39;s backing](https://www.cnbc.com/2022/05/17/tether-usdt-redemptions-fuel-fears-about-stablecoins-backing.html)
-- [The Magic Home Page &lpar;1998&rpar;](https://web.archive.org/web/20000815234946/http://www.wizards.com/magic/)
-- [Stargazing in the UK is the best it’s been in over a decade](https://www.theverge.com/2022/5/17/23093996/uk-night-sky-stargazing-light-pollution)
-- [Recovering the Titanic&#39;s radio could signal a disaster for underwater heritage](https://theconversation.com/titanic-salvage-recovering-the-ships-radio-could-signal-a-disaster-for-underwater-cultural-heritage-139795)
-- [America in 2072: A Society Stratified by Genetic Enhancement](https://parrhesia.substack.com/p/america-in-2072-a-society-stratified)
-- [Google Joins Amazon to Mull a Bid for Coveted Cricket Event](https://www.bloomberg.com/news/articles/2022-05-11/google-joins-amazon-in-mulling-a-bid-for-coveted-cricket-event)
+- [The Ukrainian startup workers helping refugees flee the war](https://paperform.co/blog/the-ukrainian-tech-workers-helping-refugees-flee-the-war/)
+- [A Framework for Navigating Down Markets](https://future.a16z.com/framework-valuation-navigating-down-markets/)
+- [Apple sued after loud Amber Alert on AirPods said to damage Texas boy&#39;s hearing](https://www.reuters.com/legal/litigation/apple-sued-after-loud-amber-alert-airpods-said-damage-texas-boys-hearing-2022-05-17/)
+- [Nick Higham: &#39;What Is?&#39; Series](https://nhigham.com/index-of-what-is-articles/)
+- [The Bees”, a short story by humans and AIs](https://web.mit.edu/phillipi/www/the_bees.html)
+- [NASA: We’re investigating a mystery with Voyager 1](https://www.jpl.nasa.gov/news/engineers-investigating-nasas-voyager-1-telemetry-data)
+- [I asked AI to make a music video](https://www.youtube.com/watch?v=0fDJXmqdN-A)
+- [&lpar;call/cc call/cc&rpar; and friends](https://pavpanchekha.com/blog/callcc-trees.html)
+- [Top startups based in Los Angeles](https://www.employbl.com/blog/top-startups-in-los-angeles-2022)
+- [How Complex Is a Knot? New Proof Reveals Ranking System That Works](https://www.quantamagazine.org/how-complex-is-a-knot-new-proof-reveals-ranking-system-that-works-20220518/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

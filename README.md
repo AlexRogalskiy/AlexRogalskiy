@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Should I aim for a &lpar;Jr.&rpar; Systems Administrator position first? Or go headfirst into Red Team education?](https://www.reddit.com/r/InformationTechnology/comments/usnlvm/should_i_aim_for_a_jr_systems_administrator/)
+- [what&#39;s the best way to get into IT?](https://www.reddit.com/r/InformationTechnology/comments/usleg1/whats_the_best_way_to_get_into_it/)
+- [Just graduated and working for a school district. Whats some opportunities should look for?](https://www.reddit.com/r/InformationTechnology/comments/usgb2i/just_graduated_and_working_for_a_school_district/)
+- [What&#39;s did you take in college and how much is your salary?](https://www.reddit.com/r/InformationTechnology/comments/uset2n/whats_did_you_take_in_college_and_how_much_is/)
+- [Taskbar icon showing a white paper icon instead of the Slack icon on all computers on the domain](https://www.reddit.com/r/InformationTechnology/comments/use23x/taskbar_icon_showing_a_white_paper_icon_instead/)
+- [Windows Updates Stall While Downloading](https://www.reddit.com/r/InformationTechnology/comments/usdqrl/windows_updates_stall_while_downloading/)
+- [about to be a freshman undergrad in IT, what basic skills for work do i need to start having??](https://www.reddit.com/r/InformationTechnology/comments/us70ci/about_to_be_a_freshman_undergrad_in_it_what_basic/)
+- [top two fields to get into?](https://www.reddit.com/r/InformationTechnology/comments/us3ttc/top_two_fields_to_get_into/)
 - [Remote Desktop Print to PDF Help](https://www.reddit.com/r/InformationTechnology/comments/us1n1g/remote_desktop_print_to_pdf_help/)
 - [going to a trade school for IT with no experience](https://www.reddit.com/r/InformationTechnology/comments/urzbrz/going_to_a_trade_school_for_it_with_no_experience/)
-- [Multi Laptop Docking](https://www.reddit.com/r/InformationTechnology/comments/uryedb/multi_laptop_docking/)
-- [I wanted to ask y&#39;all your opinions about your careers, if y&#39;all have a moment.](https://www.reddit.com/r/InformationTechnology/comments/urtjo6/i_wanted_to_ask_yall_your_opinions_about_your/)
-- [Printing via Adobe .PDF Preview within application](https://www.reddit.com/r/InformationTechnology/comments/urpgm5/printing_via_adobe_pdf_preview_within_application/)
-- [Transferring Outlook Profile to new laptop for HR](https://www.reddit.com/r/InformationTechnology/comments/uro4yk/transferring_outlook_profile_to_new_laptop_for_hr/)
-- [is install-module azuread safe?](https://www.reddit.com/r/InformationTechnology/comments/urkiks/is_installmodule_azuread_safe/)
-- [Vpn on computer laptop](https://www.reddit.com/r/InformationTechnology/comments/urbttx/vpn_on_computer_laptop/)
-- [Is this normal?](https://www.reddit.com/r/InformationTechnology/comments/urb9wk/is_this_normal/)
-- [Se puede poner una marca propia a computadoras armadas que compro para vender?](https://www.reddit.com/r/InformationTechnology/comments/ur4tjk/se_puede_poner_una_marca_propia_a_computadoras/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

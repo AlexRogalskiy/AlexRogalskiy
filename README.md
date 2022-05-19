@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [The ‘carbon bombs’ set to blow up the world’s climate pledges](https://www.theguardian.com/news/audio/2022/may/18/the-carbon-bombs-set-to-blow-up-the-worlds-climate-pledges)
-- [Russia-Ukraine war: what we know on day 84 of the invasion](https://www.theguardian.com/world/2022/may/18/russia-ukraine-war-what-we-know-on-day-84-of-the-invasion)
-- [Corflutes, ukeleles and loose units: what is going on in the Australian election?](https://www.theguardian.com/australia-news/2022/may/18/corflutes-ukeleles-and-loose-units-what-is-going-on-in-the-australian-election)
-- [Broken Oasis guitar behind band break-up auctioned for £325,000](https://www.theguardian.com/music/2022/may/18/broken-oasis-guitar-behind-band-break-up-auctioned-for-325000)
-- [Police hunt fan who head-butted Billy Sharp on pitch after Forest playoff win](https://www.theguardian.com/football/2022/may/18/billy-sharp-headbutted-fan-pitch-invasion-nottingham-forest-playoff-win-sheffield-united)
-- [Covid support schemes left ‘open goal’ to fraudsters, says watchdog](https://www.theguardian.com/society/2022/may/18/covid-support-schemes-left-open-goal-to-fraudsters-says-watchdog)
-- [Numbers of nurses and midwives leaving NHS highest for four years](https://www.theguardian.com/society/2022/may/18/numbers-of-nurses-and-midwives-leaving-nhs-highest-for-four-years)
-- [Younger children most affected by Covid lockdowns, new research finds](https://www.theguardian.com/education/2022/may/18/younger-children-most-affected-by-covid-lockdowns-new-research-finds)
-- [Big carmakers stuck in slow lane over switch to zero emissions, study shows](https://www.theguardian.com/business/2022/may/18/big-carmakers-stuck-in-slow-lane-over-switch-to-zero-emissions-study-shows)
-- [Kim Jong-un calls North Korea’s response to Covid outbreak ‘inadequate’](https://www.theguardian.com/world/2022/may/17/kim-jong-un-calls-north-koreas-response-to-covid-outbreak-inadequate)
+- [Ukraine war has stoked global food crisis that could last years, says UN](https://www.theguardian.com/world/2022/may/19/ukraine-war-has-stoked-global-food-crisis-that-could-last-years-says-un)
+- [How Vladimir Putin rejuvenated Nato – podcast](https://www.theguardian.com/news/audio/2022/may/19/how-vladimir-putin-rejuvenated-nato-podcast)
+- [North Korea promotes traditional medicines in bid to fight Covid outbreak](https://www.theguardian.com/world/2022/may/19/north-korea-promotes-traditional-medicines-in-bid-to-fight-covid-outbreak)
+- [Photographer Luo Yang captures rare glimpse of China’s ‘brave and free’ youth](https://www.theguardian.com/artanddesign/2022/may/19/photographer-luo-yang-captures-rare-glimpse-of-chinas-brave-and-free-youth)
+- [Biden invokes Defense Production Act to tackle baby formula shortage](https://www.theguardian.com/us-news/2022/may/18/baby-formula-shortage-biden-defense-production-act)
+- [US stock markets fall sharply as investors worry about recession](https://www.theguardian.com/business/2022/may/18/us-stock-markets-latest-wednesday-dow-jones-recession)
+- [The person in the room? Court mulls if elephant has human rights](https://www.theguardian.com/us-news/2022/may/19/the-person-in-the-room-court-mulls-if-elephant-has-human-rights)
+- [More than 42m UK adults ‘will be overweight by 2040’](https://www.theguardian.com/society/2022/may/19/more-than-42m-uk-adults-will-be-overweight-by-2040)
+- [NGO group says Fifa should pay £356m reparations to Qatar migrant workers](https://www.theguardian.com/football/2022/may/19/ngo-group-says-fifa-should-pay-356m-reparations-to-qatar-migrant-workers)
+- [Woman face ‘whopping pensions gap’ in Great Britain, says TUC](https://www.theguardian.com/money/2022/may/19/ministers-must-fix-whopping-pensions-gap-for-women-says-tuc)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

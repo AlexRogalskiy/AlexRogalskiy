@@ -384,16 +384,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Add security to Azure applications with Azure WAF](https://www.infoworld.com/article/3660640/add-security-to-azure-applications-with-azure-waf.html#tk.rss_all)
+- [The best new features and fixes in Python 3.11](https://www.infoworld.com/article/3660550/the-best-new-features-and-fixes-in-python-311.html#tk.rss_all)
+- [Bootstrap 5.2.0 bolsters CSS, custom components](https://www.infoworld.com/article/3660498/bootstrap-520-bolsters-css-custom-components.html#tk.rss_all)
+- [Career roadmap: Data engineer](https://www.infoworld.com/article/3660033/career-roadmap-data-engineer.html#tk.rss_all)
+- [Google Cloud boosts open-source security, simplifies zero-trust rollouts](https://www.networkworld.com/article/3660644/google-cloud-boosts-open-source-security-simplifies-zero-trust-rollouts.html#tk.rss_all)
 - [You’re doing cloudops planning too late](https://www.infoworld.com/article/3660553/youre-doing-cloudops-planning-too-late.html#tk.rss_all)
 - [Kotlin 1.7.0 beta alters builder type inference](https://www.infoworld.com/article/3660497/kotlin-170-beta-alters-builder-type-inference.html#tk.rss_all)
 - [Only DevSecOps can save the metaverse](https://www.infoworld.com/article/3658833/only-devsecops-can-save-the-metaverse.html#tk.rss_all)
 - [CNCF launches ethics in open source training course](https://www.infoworld.com/article/3660637/cncf-launches-ethics-in-open-source-training-course.html#tk.rss_all)
 - [Top technologists have job options: 5 tips for retention](https://www.infoworld.com/article/3660791/top-technologists-have-job-options-5-tips-for-retention.html#tk.rss_all)
-- [More money for open source security won’t work](https://www.infoworld.com/article/3660496/more-money-for-open-source-security-wont-work.html#tk.rss_all)
-- [Review: YugabyteDB does PostgreSQL proud](https://www.infoworld.com/article/3660060/review-yugabytedb-does-postgresql-proud.html#tk.rss_all)
-- [Microsoft .NET 7 Preview 4 brings Regex improvements, cache metrics](https://www.infoworld.com/article/3660634/microsoft-net-7-preview-focuses-on-regex.html#tk.rss_all)
-- [JDK 19: The features targeted for Java 19](https://www.infoworld.com/article/3653331/jdk-19-the-features-targeted-for-java-19.html#tk.rss_all)
-- [Cloudflare to take on AWS, Azure, Google with D1 distributed database](https://www.infoworld.com/article/3660573/cloudflare-to-take-on-aws-azure-google-with-d1-distributed-database.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

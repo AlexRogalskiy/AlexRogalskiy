@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Rippling and the Return of Ambition](https://luttig.substack.com/p/rippling)
-- [When Your Smart ID Card Reader Comes with Malware](https://krebsonsecurity.com/2022/05/when-your-smart-id-card-reader-comes-with-malware/)
-- [Heroku CI and Review App Secrets Compromised](https://news.ycombinator.com/item?id=31417993)
-- [Gophie – modern gopher client for Windows, Mac, Linux](https://gophie.org/)
-- [The Unix-HATERS Handbook &lpar;1994&rpar; [pdf]](https://web.mit.edu/~simsong/www/ugh.pdf)
-- [Solar-powered desalination device wins MIT $100K competition](https://news.mit.edu/2022/100k-competition-nona-0516)
-- [Plagiarized in a plagiarism atonement essay](https://www.plagiarismtoday.com/2022/05/09/plagiarism-today-plagiarized-in-a-plagiarism-atonement-essay/)
-- [Husky, Datadog&#39;s Third-Generation Event Store](https://www.datadoghq.com/blog/engineering/introducing-husky/)
-- [Netflix lays off about 150 employees](https://www.reuters.com/business/media-telecom/netflix-lays-off-approximately-150-mostly-us-2022-05-17/)
-- [Reviving Mind &lpar;YC W22&rpar; Is Hiring a Product Manager for Digital Health](https://www.ycombinator.com/companies/reviving-mind/jobs/tEz1Xz9-product-manager-in-rapidly-growing-digital-health-startup)
+- [NASA: We’re investigating a mystery with Voyager 1](https://www.jpl.nasa.gov/news/engineers-investigating-nasas-voyager-1-telemetry-data)
+- [The Great Crypto Grift May Be Unwinding](https://www.newyorker.com/news/our-columnists/the-great-crypto-grift-may-be-unwinding)
+- [Duck Chess](https://duckchess.com/)
+- [Software Engineering Insights from 10 Years at Google](https://addyosmani.com/blog/software-eng-10-years/)
+- [Long-Term Building in Japan](https://longnow.org/ideas/02019/09/11/long-term-building-in-japan/)
+- [1 TW of solar to be deployed annually by 2030](https://pv-magazine-usa.com/2022/05/16/a-fate-realized-1-tw-of-solar-to-be-deployed-annually-by-2030/)
+- [Direct observation of the dead-cone effect in quantum chromodynamics](https://www.nature.com/articles/s41586-022-04572-w)
+- [Rescale &lpar;YC W12&rpar; Is Hiring Software Engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
+- [Pull-based GitOps moving to Gitlab Free tier](https://about.gitlab.com/blog/2022/05/18/pull-based-kubernetes-deployments-coming-to-gitlab-free-tier/)
+- [Plastic-eating enzyme could eliminate billions of tons of landfill waste](https://news.utexas.edu/2022/04/27/plastic-eating-enzyme-could-eliminate-billions-of-tons-of-landfill-waste/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

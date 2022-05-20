@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [NASA: We’re investigating a mystery with Voyager 1](https://www.jpl.nasa.gov/news/engineers-investigating-nasas-voyager-1-telemetry-data)
-- [The Great Crypto Grift May Be Unwinding](https://www.newyorker.com/news/our-columnists/the-great-crypto-grift-may-be-unwinding)
-- [Duck Chess](https://duckchess.com/)
-- [Software Engineering Insights from 10 Years at Google](https://addyosmani.com/blog/software-eng-10-years/)
-- [Long-Term Building in Japan](https://longnow.org/ideas/02019/09/11/long-term-building-in-japan/)
-- [1 TW of solar to be deployed annually by 2030](https://pv-magazine-usa.com/2022/05/16/a-fate-realized-1-tw-of-solar-to-be-deployed-annually-by-2030/)
-- [Direct observation of the dead-cone effect in quantum chromodynamics](https://www.nature.com/articles/s41586-022-04572-w)
-- [Rescale &lpar;YC W12&rpar; Is Hiring Software Engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
-- [Pull-based GitOps moving to Gitlab Free tier](https://about.gitlab.com/blog/2022/05/18/pull-based-kubernetes-deployments-coming-to-gitlab-free-tier/)
-- [Plastic-eating enzyme could eliminate billions of tons of landfill waste](https://news.utexas.edu/2022/04/27/plastic-eating-enzyme-could-eliminate-billions-of-tons-of-landfill-waste/)
+- [Data Integration Guide: Techniques, Technologies, and Tools](https://airbyte.com/blog/data-integration)
+- [Engineer turns plastic into bricks that are reportedly stronger than concrete](https://peopleofcolorintech.com/break-into-tech/trash-has-value-black-woman-engineer-turns-plastic-into-bricks-that-are-reportedly-stronger-than-concrete/)
+- [Smarking &lpar;YC W15&rpar; is hiring a senior ML engineer to scale dynamic pricing engine](https://jobs.lever.co/smarking/01b7a4c5-28ce-4a4c-9c88-d4cad6c01c76)
+- [Cockpit Project](https://cockpit-project.org/)
+- [ARPANET Information Brochure &lpar;1985&rpar; [pdf]](https://apps.dtic.mil/sti/pdfs/ADA164353.pdf)
+- [HTTP Cats](https://http.cat/)
+- [Render mathematical expressions in Markdown On GitHub](https://github.blog/changelog/2022-05-19-render-mathematical-expressions-in-markdown/)
+- [The Coming Food Catastrophe](https://www.economist.com/leaders/2022/05/19/the-coming-food-catastrophe)
+- [Tell HN: The loneliness of a pretty good developer](https://news.ycombinator.com/item?id=31438426)
+- [RIP Good Times &lpar;2008&rpar;](https://articles.sequoiacap.com/rip-good-times)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

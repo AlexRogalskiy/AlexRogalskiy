@@ -414,6 +414,8 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is it possible to pre-load web application to make it faster to access](https://www.reddit.com/r/InformationTechnology/comments/uthin5/is_it_possible_to_preload_web_application_to_make/)
+- [What are some ways or steps you problem solve for most technical problems you face in your job?](https://www.reddit.com/r/InformationTechnology/comments/ut34zj/what_are_some_ways_or_steps_you_problem_solve_for/)
 - [Should I aim for a &lpar;Jr.&rpar; Systems Administrator position first? Or go headfirst into Red Team education?](https://www.reddit.com/r/InformationTechnology/comments/usnlvm/should_i_aim_for_a_jr_systems_administrator/)
 - [what&#39;s the best way to get into IT?](https://www.reddit.com/r/InformationTechnology/comments/usleg1/whats_the_best_way_to_get_into_it/)
 - [Just graduated and working for a school district. Whats some opportunities should look for?](https://www.reddit.com/r/InformationTechnology/comments/usgb2i/just_graduated_and_working_for_a_school_district/)
@@ -422,8 +424,6 @@
 - [Windows Updates Stall While Downloading](https://www.reddit.com/r/InformationTechnology/comments/usdqrl/windows_updates_stall_while_downloading/)
 - [about to be a freshman undergrad in IT, what basic skills for work do i need to start having??](https://www.reddit.com/r/InformationTechnology/comments/us70ci/about_to_be_a_freshman_undergrad_in_it_what_basic/)
 - [top two fields to get into?](https://www.reddit.com/r/InformationTechnology/comments/us3ttc/top_two_fields_to_get_into/)
-- [Remote Desktop Print to PDF Help](https://www.reddit.com/r/InformationTechnology/comments/us1n1g/remote_desktop_print_to_pdf_help/)
-- [going to a trade school for IT with no experience](https://www.reddit.com/r/InformationTechnology/comments/urzbrz/going_to_a_trade_school_for_it_with_no_experience/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

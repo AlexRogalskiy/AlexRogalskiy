@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Podcast: Could hardware supply chain issues upend Apple’s WWDC plans?](https://www.computerworld.com/article/3661349/podcast-could-hardware-supply-chain-issues-upend-apples-wwdc-plans.html#tk.rss_all)
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [How multiverse simulation can speed up innovation](https://www.computerworld.com/article/3661430/how-multiverse-simulation-can-speed-up-innovation.html#tk.rss_all)
+- [Microsoft pledges changes to European cloud licensing policies](https://www.computerworld.com/article/3661429/microsoft-pledges-changes-to-european-cloud-licensing-policies.html#tk.rss_all)
+- [The Future of Work? There&#39;s an app for that: Airbnb!](https://www.computerworld.com/article/3660519/the-future-of-work-theres-an-app-for-that-airbnb.html#tk.rss_all)
+- [How to avoid paying Apple for extra iCloud storage](https://www.computerworld.com/article/2476176/mac-os-x-how-to-avoid-paying-apple-for-extra-icloud-storage.html#tk.rss_all)
+- [Apple’s self-repair program is bad for consumers, but might work well for IT](https://www.computerworld.com/article/3660633/apples-self-repair-program-is-bad-for-consumers-but-it-might-work-well-for-it.html#tk.rss_all)
+- [Windows 10 cheat sheet](https://www.computerworld.com/article/3014286/windows-10-cheat-sheet.html#tk.rss_all)
 - [RIP, macOS Server](https://www.computerworld.com/article/3661249/rip-macos-server.html#tk.rss_all)
 - [Airtable exec describes building a &#39;data hub&#39; for the enterprise](https://www.computerworld.com/article/3661208/airtable-exec-describes-building-a-data-hub-for-the-enterprise.html#tk.rss_all)
-- [Apple improves enterprise training to meet growing demand](https://www.computerworld.com/article/3660518/apple-improves-enterprise-training-to-meet-growing-demand.html#tk.rss_all)
-- [Miro looks to move beyond the whiteboard and support hybrid work](https://www.computerworld.com/article/3660500/miro-to-support-hybrid-work-with-latest-updates.html#tk.rss_all)
-- [Google&#39;s potentially pivotal Pixel Tablet curveball](https://www.computerworld.com/article/3660555/pixel-tablet.html#tk.rss_all)
-- [Apple backs off its return-to-work policy, cites virus resurgence](https://www.computerworld.com/article/3660777/apple-backs-off-its-return-to-work-policy-cites-virus-resurgence.html#tk.rss_all)
-- [Apple boosts diversity with its latest accessibility tools](https://www.computerworld.com/article/3660515/apple-boosts-diversity-with-its-latest-accessibility-tools.html#tk.rss_all)
-- [Chromebooks: Desktops you can trust to be there](https://www.computerworld.com/article/3660577/chromebooks-desktops-you-can-trust-to-be-there.html#tk.rss_all)
-- [Amid talent crunch, Microsoft looks to keep workers through pay hikes, bonuses](https://www.computerworld.com/article/3660798/amid-talent-crunch-microsoft-attempts-to-keep-talent-through-pay-bonus-increases.html#tk.rss_all)
-- [The future of work: Apple’s heroes-to-zeroes story](https://www.computerworld.com/article/3660556/the-future-of-work-apples-heroes-to-zeroes-story.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

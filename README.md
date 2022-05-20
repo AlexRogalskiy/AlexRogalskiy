@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine war has stoked global food crisis that could last years, says UN](https://www.theguardian.com/world/2022/may/19/ukraine-war-has-stoked-global-food-crisis-that-could-last-years-says-un)
-- [How Vladimir Putin rejuvenated Nato – podcast](https://www.theguardian.com/news/audio/2022/may/19/how-vladimir-putin-rejuvenated-nato-podcast)
-- [North Korea promotes traditional medicines in bid to fight Covid outbreak](https://www.theguardian.com/world/2022/may/19/north-korea-promotes-traditional-medicines-in-bid-to-fight-covid-outbreak)
-- [Photographer Luo Yang captures rare glimpse of China’s ‘brave and free’ youth](https://www.theguardian.com/artanddesign/2022/may/19/photographer-luo-yang-captures-rare-glimpse-of-chinas-brave-and-free-youth)
-- [Biden invokes Defense Production Act to tackle baby formula shortage](https://www.theguardian.com/us-news/2022/may/18/baby-formula-shortage-biden-defense-production-act)
-- [US stock markets fall sharply as investors worry about recession](https://www.theguardian.com/business/2022/may/18/us-stock-markets-latest-wednesday-dow-jones-recession)
-- [The person in the room? Court mulls if elephant has human rights](https://www.theguardian.com/us-news/2022/may/19/the-person-in-the-room-court-mulls-if-elephant-has-human-rights)
-- [More than 42m UK adults ‘will be overweight by 2040’](https://www.theguardian.com/society/2022/may/19/more-than-42m-uk-adults-will-be-overweight-by-2040)
-- [NGO group says Fifa should pay £356m reparations to Qatar migrant workers](https://www.theguardian.com/football/2022/may/19/ngo-group-says-fifa-should-pay-356m-reparations-to-qatar-migrant-workers)
-- [Woman face ‘whopping pensions gap’ in Great Britain, says TUC](https://www.theguardian.com/money/2022/may/19/ministers-must-fix-whopping-pensions-gap-for-women-says-tuc)
+- [Pelosi warns changes to Northern Ireland protocol could affect US trade deal with Britain](https://www.theguardian.com/us-news/2022/may/20/pelosi-warns-changes-to-northern-ireland-protocol-could-affect-us-trade-deal-with-britain)
+- [Australian election: voters to go to polls in battle of ‘bulldozer’ and ‘builder’](https://www.theguardian.com/australia-news/2022/may/20/australian-election-voters-polls-scott-morrison-bulldozer-anthony-albanese-builder)
+- [The nurses getting huge bills for quitting the NHS – podcast](https://www.theguardian.com/news/audio/2022/may/20/the-nurses-getting-huge-bills-for-quitting-the-nhs-podcast)
+- [Boeing hopes third time the charm for Starliner test flight](https://www.theguardian.com/business/2022/may/19/boeing-starliner-test-flight-third-time-charm)
+- [Russia-Ukraine war: what we know on day 86 of the invasion](https://www.theguardian.com/world/2022/may/20/russia-ukraine-war-what-we-know-on-day-86-of-the-invasion)
+- [North Korea’s Covid caseload passes 2 million amid global concern](https://www.theguardian.com/world/2022/may/20/north-koreas-covid-caseload-passes-2-million-amid-global-concern)
+- [Insomniacs in England to be offered app treatment instead of sleeping pills](https://www.theguardian.com/lifeandstyle/2022/may/20/insomniacs-in-england-to-be-offered-app-treatment-instead-of-sleeping-pills)
+- [UK consumer confidence falls to lowest level since 1974](https://www.theguardian.com/business/2022/may/20/uk-consumer-confidence-falls-to-lowest-level-since-1974)
+- [Respiratory syncytial virus kills 100,000 under-fives every year](https://www.theguardian.com/society/2022/may/19/respiratory-syncytial-virus-under-fives-respiratory-infection-covid)
+- [Port Vale sink Swindon in shootout to reach playoff final amid ugly scenes](https://www.theguardian.com/football/2022/may/19/port-vale-swindon-town-league-two-playoff-match-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

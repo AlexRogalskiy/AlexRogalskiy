@@ -369,16 +369,16 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Beware of False Networking and Security Convergence Claims](https://www.informationweek.com/security-and-risk-strategy/beware-of-false-networking-and-security-convergence-claims)
+- [Best Practices for Measuring Digital Investment Success](https://www.informationweek.com/big-data/best-practices-for-measuring-digital-investment-success)
+- [Who Is Responsible for a Secure, Mission-Oriented Network?](https://www.informationweek.com/security-and-risk-strategy/who-is-responsible-for-a-secure-mission-oriented-network-)
+- [From Home Office to HQ: Consumerization of Wi-Fi 6E](https://www.informationweek.com/it-life/from-home-office-to-hq-consumerization-of-wi-fi-6e)
 - [Top No-Pain Perks You Can Use to Retain IT Staff](https://www.informationweek.com/team-building-and-staffing/top-no-pain-perks-you-can-use-to-retain-it-staff)
 - [SAP Evolves for Next-Gen Enterprises](https://www.informationweek.com/software-platforms/sap-evolves-for-next-gen-enterprises)
 - [Winning Trust with Technical Leaders as Change Agents](https://www.informationweek.com/cloud/winning-trust-with-technical-leaders-as-change-agents)
 - [The Evolution of the CIO](https://www.informationweek.com/it-life/the-evolution-of-the-cio)
 - [Beyond the Numbers: How CFOs Can Embrace New Business Models](https://www.informationweek.com/strategic-cio/beyond-the-numbers-how-cfos-can-embrace-new-business-models)
 - [Fintech, Cloud, and Bringing Machine Learning to the Edge](https://www.informationweek.com/fintech/fintech-cloud-and-bringing-machine-learning-to-the-edge)
-- [The Power of Decision Intelligence: Strategies for Success](https://www.informationweek.com/big-data/the-power-of-decision-intelligence-strategies-for-success)
-- [How Corporate Risk Management is Changing](https://www.informationweek.com/security-and-risk-strategy/how-corporate-risk-management-is-changing)
-- [How CINC Cut Down Churn on Its Apps for Real Estate Agents](https://www.informationweek.com/fintech/how-cinc-cut-down-churn-on-its-apps-for-real-estate-agents)
-- [Why Chatbot Experiences Break Down and How Organizations Can Improve Them](https://www.informationweek.com/ai-or-machine-learning/why-chatbot-experiences-break-down-and-how-organizations-can-improve-them)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

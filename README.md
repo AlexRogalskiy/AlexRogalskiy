@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Ukrainian startup workers helping refugees flee the war](https://paperform.co/blog/the-ukrainian-tech-workers-helping-refugees-flee-the-war/)
-- [A Framework for Navigating Down Markets](https://future.a16z.com/framework-valuation-navigating-down-markets/)
-- [Apple sued after loud Amber Alert on AirPods said to damage Texas boy&#39;s hearing](https://www.reuters.com/legal/litigation/apple-sued-after-loud-amber-alert-airpods-said-damage-texas-boys-hearing-2022-05-17/)
-- [Nick Higham: &#39;What Is?&#39; Series](https://nhigham.com/index-of-what-is-articles/)
-- [The Bees”, a short story by humans and AIs](https://web.mit.edu/phillipi/www/the_bees.html)
-- [NASA: We’re investigating a mystery with Voyager 1](https://www.jpl.nasa.gov/news/engineers-investigating-nasas-voyager-1-telemetry-data)
-- [I asked AI to make a music video](https://www.youtube.com/watch?v=0fDJXmqdN-A)
-- [&lpar;call/cc call/cc&rpar; and friends](https://pavpanchekha.com/blog/callcc-trees.html)
-- [Top startups based in Los Angeles](https://www.employbl.com/blog/top-startups-in-los-angeles-2022)
-- [How Complex Is a Knot? New Proof Reveals Ranking System That Works](https://www.quantamagazine.org/how-complex-is-a-knot-new-proof-reveals-ranking-system-that-works-20220518/)
+- [Unboxing and assembling the AnkerMake M5 3D Printer [video]](https://www.youtube.com/watch?t=1038&v=nlORvAwX7NU&feature=youtu.be)
+- [A call for an independent inquiry into the origin of the SARS-CoV-2 virus](https://www.pnas.org/doi/10.1073/pnas.2202769119)
+- [Escaping the Botnet: A Practical Guide](https://return.life/2022/03/28/escaping-the-botnet-a-practical-guide/)
+- [German beer producers running out of bottles](https://www.dw.com/en/german-beer-producers-running-out-of-bottles/a-44778328)
+- [Modem Host Interface &lpar;MHI&rpar; Bus for Endpoint Devices Upstreamed to Linux Kernel](https://www.linaro.org/blog/mhi-bus-for-endpoint-devices-upstreamed-to-linux-kernel/)
+- [Throwback: Denise Richards on the PIX Firewall](https://web.archive.org/web/20050108090447/http://www.routergod.com/deniserichards/)
+- [Two of the OMAC thrusters failed during the Starliner insertion burn](https://twitter.com/DJSnM/status/1527460963011596289)
+- [Moderna’s HIV Vaccine Prepped for Trials in Africa](https://pharmaphorum.com/news/modernas-hiv-vaccine-prepped-for-trials-in-africa/)
+- [I spent most of April and some of May traveling around Ukraine](https://mattlakeman.org/2022/05/15/notes-on-ukraine/)
+- [Star Wars: Millennium Falcon Pembrokeshire Exhibition to Open](https://www.bbc.com/news/uk-wales-61507729)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

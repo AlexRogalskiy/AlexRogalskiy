@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Huawei, ZTE to be banned from Canada’s 5G/4G networks](https://www.itworldcanada.com/article/huawei-zte-to-be-banned-from-canadas-5g-4g-networks/485087)
+- [Strata Identity launches open-source project enabling multi-cloud access policy management for organizations](https://www.itworldcanada.com/article/strata-identity-launches-open-source-project-enabling-multi-cloud-access-policy-management-for-organizations/485076)
+- [Globalive signs wireless spectrum sharing deal with Telus](https://www.itworldcanada.com/article/globalive-signs-wireless-spectrum-sharing-deal-with-telus/485067)
+- [Burnout in the tech sector: Why is it happening and what are the solutions?](https://www.itworldcanada.com/article/burnout-in-the-tech-sector-why-is-it-happening-and-what-are-the-solutions/485039)
+- [Federal Court rules in favour of Vidéotron against Telus](https://www.itworldcanada.com/article/federal-court-rules-in-favour-of-videotron-against-telus/485043)
 - [Toronto high school team wins 2022 CyberTitan cybersecurity competition](https://www.itworldcanada.com/article/toronto-high-school-team-wins-2022-cybertitan-cybersecurity-competition/484871)
 - [Telus commits $34.5 billion and 14,000 new jobs to Alberta and B.C. over the next four years](https://www.itworldcanada.com/article/telus-commits-34-5-billion-and-14000-new-jobs-total-to-alberta-and-b-c-over-the-next-four-years/484853)
 - [Privacy Commissioner’s bulletin helps Canadian firms handle sensitive personal information](https://www.itworldcanada.com/article/privacy-commissioners-bulletin-helps-canadian-firms-handle-sensitive-personal-information/484782)
 - [Cyber Security Today, May 18, 2022 – A warning to e-commerce sites, Conti ransomware gang squeezes Costa Rica and more](https://www.itworldcanada.com/article/cyber-security-today-may-18-2022-a-warning-to-e-commerce-sites-conti-ransomware-gang-squeezes-costa-rica-and-more/484817)
 - [Hashtag Trending May 18 – Twitter deal hangs; Twitter legal team accuses Musk of breaking NDA; Intel shareholders reject proposed compensation for execs](https://www.itworldcanada.com/article/hashtag-trending-may-18-twitter-deal-hangs-twitter-legal-team-accuses-musk-of-breaking-nda-intel-shareholders-reject-proposed-compensation-for-execs/484809)
-- [The state of Digital ID in Canada](https://www.itworldcanada.com/article/the-state-of-digital-id-in-canada/484618)
-- [BlackBerry QNX OS gains another critical safety cert, this one aimed at railways](https://www.itworldcanada.com/article/blackberry-qnx-os-gains-another-critical-safety-cert-this-one-aimed-at-railways/484810)
-- [Google I/O 2022: Big features coming to Google Workspace](https://www.itworldcanada.com/article/google-i-o-2022-big-features-coming-to-google-workspace/484732)
-- [eBay to support FedEx on its in-platform label printing service](https://www.itworldcanada.com/article/ebay-to-support-fedex-on-its-in-platform-label-printing-service/484794)
-- [Concerns around data hacking and identity theft via biometrics are on the rise, report says](https://www.itworldcanada.com/article/concerns-around-data-hacking-and-identity-theft-via-biometrics-are-on-the-rise-report-says/484765)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Defensive cyber attacks may be justified, says attorney general](https://www.computerweekly.com/news/252518406/Defensive-cyber-attacks-may-be-justified-says-attorney-general)
+- [Top cyber criminal earnings outpace those of business leaders](https://www.computerweekly.com/news/252518399/Top-cyber-criminal-earnings-outpace-those-of-business-leaders)
+- [Nature of cyber war evolving in real time, says Microsoft president](https://www.computerweekly.com/news/252518404/Nature-of-cyber-war-evolving-in-real-time-says-Microsoft-president)
+- [Deliveroo accused of ‘soft union busting’ with GMB deal](https://www.computerweekly.com/news/252518353/Deliveroo-accused-of-soft-union-busting-with-GMB-deal)
+- [Security Think Tank: Yes, zero trust can help you understand attack paths](https://www.computerweekly.com/opinion/Security-Think-Tank-Yes-zero-trust-can-help-you-understand-attack-paths)
 - [Adoption of cloud-native architectures on the rise](https://www.computerweekly.com/news/252518356/Adoption-of-cloud-native-architectures-on-the-rise)
 - [Security Think Tank: To follow a path, you need a good map](https://www.computerweekly.com/opinion/Security-Think-Tank-To-follow-a-path-you-need-a-good-map)
 - [Portworx adds anti-ransomware to PX-Backup for Kubernetes](https://www.computerweekly.com/news/252518344/Portworx-adds-anti-ransomware-to-PX-Backup-for-Kubernetes)
 - [Headline: Royal Holloway: Attack mapping for the internet of things](https://www.computerweekly.com/ehandbook/Headline-Royal-Holloway-Attack-mapping-for-the-internet-of-things)
 - [Microsoft Cloud for Sustainability to enter general availability in June 2022](https://www.computerweekly.com/news/252518343/Microsoft-Cloud-for-Sustainability-to-enter-general-availability-in-June-2022)
-- [Google embarks on UK-focused cloud skills programme pilot with non-profit Generation UK](https://www.computerweekly.com/news/252518307/Google-embarks-on-UK-focused-cloud-skills-programme-pilot-with-non-profit-Generation-UK)
-- [Post Office scandal victim calls for government’s role in silencing victims to be investigated](https://www.computerweekly.com/news/252518299/Post-Office-scandal-victim-calls-for-governments-role-in-silencing-victims-to-be-investigated)
-- [&lpar;ISC&rpar;² to train 100,000 cyber pros in UK](https://www.computerweekly.com/news/252518298/ISC-to-train-100000-cyber-pros-in-UK)
-- [Investment in UK ‘cleantech’ sector hit new high in 2021 as climate change concerns rise](https://www.computerweekly.com/news/252518292/Investment-in-UK-cleantech-sector-hit-new-high-in-2021-as-climate-change-concerns-rise)
-- [A Computer Weekly buyer’s guide to edge datacentres](https://www.computerweekly.com/ehandbook/A-Computer-Weekly-buyers-guide-to-edge-datacentres)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

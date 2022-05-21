@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [This Week in Ransomware – Friday, May 20th 2022](https://www.itworldcanada.com/article/this-week-in-ransomware-friday-may-20th-2022/485311)
+- [Cyber Security Today, Week in Review for Friday May 20, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-may-20-2022/485031)
+- [RBC adds PIN authentication to its mobile banking app](https://www.itworldcanada.com/article/rbc-adds-pin-authentication-to-its-mobile-banking-app/485288)
+- [Ten hybrid workplace trends you may not be prepared for](https://www.itworldcanada.com/article/ten-hybrid-workplace-trends-you-may-not-be-prepared-for/485108)
+- [BlackBerry signs agreement with Magna to collaborate on ADAS solutions](https://www.itworldcanada.com/article/blackberry-signs-agreement-with-magna-to-collaborate-on-adas-solutions/485186)
+- [Round13 launches a dedicated fund to invest in blockchain and digital asset market; raises US$70 million to date](https://www.itworldcanada.com/article/round13-launches-a-dedicated-fund-to-invest-in-blockchain-and-digital-asset-market-raises-us70-million-to-date/485163)
+- [Cyber Security Today, May 20, 2022 – A look inside the Wizard Spider hacking gang](https://www.itworldcanada.com/article/cyber-security-today-may-20-2022-a-look-inside-the-wizard-spider-hacking-gang/485068)
+- [Hashtag Trending May 20 – Google Russia bankruptcy; Netflix loses loyal subscribers; and IT admin wipes four servers](https://www.itworldcanada.com/article/hashtag-trending-may-20-google-russia-bankruptcy-netflix-loses-loyal-subscribers-and-it-admin-wipes-four-servers/485063)
 - [Huawei, ZTE to be banned from Canada’s 5G/4G networks](https://www.itworldcanada.com/article/huawei-zte-to-be-banned-from-canadas-5g-4g-networks/485087)
 - [Strata Identity launches open-source project enabling multi-cloud access policy management for organizations](https://www.itworldcanada.com/article/strata-identity-launches-open-source-project-enabling-multi-cloud-access-policy-management-for-organizations/485076)
-- [Globalive signs wireless spectrum sharing deal with Telus](https://www.itworldcanada.com/article/globalive-signs-wireless-spectrum-sharing-deal-with-telus/485067)
-- [Burnout in the tech sector: Why is it happening and what are the solutions?](https://www.itworldcanada.com/article/burnout-in-the-tech-sector-why-is-it-happening-and-what-are-the-solutions/485039)
-- [Federal Court rules in favour of Vidéotron against Telus](https://www.itworldcanada.com/article/federal-court-rules-in-favour-of-videotron-against-telus/485043)
-- [Toronto high school team wins 2022 CyberTitan cybersecurity competition](https://www.itworldcanada.com/article/toronto-high-school-team-wins-2022-cybertitan-cybersecurity-competition/484871)
-- [Telus commits $34.5 billion and 14,000 new jobs to Alberta and B.C. over the next four years](https://www.itworldcanada.com/article/telus-commits-34-5-billion-and-14000-new-jobs-total-to-alberta-and-b-c-over-the-next-four-years/484853)
-- [Privacy Commissioner’s bulletin helps Canadian firms handle sensitive personal information](https://www.itworldcanada.com/article/privacy-commissioners-bulletin-helps-canadian-firms-handle-sensitive-personal-information/484782)
-- [Cyber Security Today, May 18, 2022 – A warning to e-commerce sites, Conti ransomware gang squeezes Costa Rica and more](https://www.itworldcanada.com/article/cyber-security-today-may-18-2022-a-warning-to-e-commerce-sites-conti-ransomware-gang-squeezes-costa-rica-and-more/484817)
-- [Hashtag Trending May 18 – Twitter deal hangs; Twitter legal team accuses Musk of breaking NDA; Intel shareholders reject proposed compensation for execs](https://www.itworldcanada.com/article/hashtag-trending-may-18-twitter-deal-hangs-twitter-legal-team-accuses-musk-of-breaking-nda-intel-shareholders-reject-proposed-compensation-for-execs/484809)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

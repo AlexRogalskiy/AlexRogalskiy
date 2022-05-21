@@ -384,7 +384,9 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
-- [What’s new in Rust 1.60](https://www.infoworld.com/article/3267624/whats-new-in-the-rust-language.html#tk.rss_all)
+- [What is JPA? Introduction to the Jakarta Persistence API](https://www.infoworld.com/article/3379043/what-is-jpa-introduction-to-the-java-persistence-api.html#tk.rss_all)
+- [Understand the trade-offs with reactive and proactive cloudops](https://www.infoworld.com/article/3661431/understand-the-trade-offs-with-reactive-and-proactive-cloudops.html#tk.rss_all)
+- [What’s new in Rust 1.61](https://www.infoworld.com/article/3267624/whats-new-in-the-rust-language.html#tk.rss_all)
 - [OpenFeature feature flag project applies for CNCF sandbox project status](https://www.infoworld.com/article/3661548/feature-flagging-openfeature-project-applies-for-cncf-sandbox-project-status.html#tk.rss_all)
 - [Java concurrency could be about to get easier](https://www.infoworld.com/article/3661310/java-concurrency-could-be-about-to-get-easier.html#tk.rss_all)
 - [Developer survey: JavaScript and Python reign, but Rust is rising](https://www.infoworld.com/article/3661248/developer-survey-javascript-and-python-reign-but-rust-is-rising.html#tk.rss_all)
@@ -392,8 +394,6 @@
 - [Add security to Azure applications with Azure WAF](https://www.infoworld.com/article/3660640/add-security-to-azure-applications-with-azure-waf.html#tk.rss_all)
 - [The best new features and fixes in Python 3.11](https://www.infoworld.com/article/3660550/the-best-new-features-and-fixes-in-python-311.html#tk.rss_all)
 - [Bootstrap 5.2.0 bolsters CSS, custom components](https://www.infoworld.com/article/3660498/bootstrap-520-bolsters-css-custom-components.html#tk.rss_all)
-- [Career roadmap: Data engineer](https://www.infoworld.com/article/3660033/career-roadmap-data-engineer.html#tk.rss_all)
-- [Google Cloud boosts open-source security, simplifies zero-trust rollouts](https://www.networkworld.com/article/3660644/google-cloud-boosts-open-source-security-simplifies-zero-trust-rollouts.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

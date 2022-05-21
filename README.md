@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Data Integration Guide: Techniques, Technologies, and Tools](https://airbyte.com/blog/data-integration)
-- [Engineer turns plastic into bricks that are reportedly stronger than concrete](https://peopleofcolorintech.com/break-into-tech/trash-has-value-black-woman-engineer-turns-plastic-into-bricks-that-are-reportedly-stronger-than-concrete/)
-- [Smarking &lpar;YC W15&rpar; is hiring a senior ML engineer to scale dynamic pricing engine](https://jobs.lever.co/smarking/01b7a4c5-28ce-4a4c-9c88-d4cad6c01c76)
-- [Cockpit Project](https://cockpit-project.org/)
-- [ARPANET Information Brochure &lpar;1985&rpar; [pdf]](https://apps.dtic.mil/sti/pdfs/ADA164353.pdf)
-- [HTTP Cats](https://http.cat/)
-- [Render mathematical expressions in Markdown On GitHub](https://github.blog/changelog/2022-05-19-render-mathematical-expressions-in-markdown/)
-- [The Coming Food Catastrophe](https://www.economist.com/leaders/2022/05/19/the-coming-food-catastrophe)
-- [Tell HN: The loneliness of a pretty good developer](https://news.ycombinator.com/item?id=31438426)
-- [RIP Good Times &lpar;2008&rpar;](https://articles.sequoiacap.com/rip-good-times)
+- [Monkeypox goes global: why scientists are on alert](https://www.nature.com/articles/d41586-022-01421-8)
+- [On Aging Alone](https://thewalrus.ca/on-aging-alone/)
+- [Extracting Triangular 3D Models, Materials, and Lighting from Images](https://nvlabs.github.io/nvdiffrec/)
+- [What Ever Happened to Scandium Bike Frames? &lpar;2016&rpar;](https://www.bikeblogordie.com/2016/11/what-ever-happened-to-scandium-bike.html)
+- [How to Paint a Crosswalk](https://crosswalksla.org/how-to-guide.html)
+- [Pike Programming Language](https://pike.lysator.liu.se/)
+- [How long mined metals circulate before being lost](https://arstechnica.com/science/2022/05/new-study-estimates-how-long-mined-metals-circulate-before-being-lost/)
+- [HP Dev One Laptop with Pop _OS](https://hpdevone.com/)
+- [Credit Card Fraud and an Algorithm](https://www.lanacion.com.ar/seguridad/falsetti-el-estafador-el-canillita-que-descubrio-el-algoritmo-para-crear-tarjetas-de-credito-y-nid20052022/)
+- [Monitor Radiation with a Raspberry Pi](https://nbailey.ca/post/radiation-monitor/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [help desk info?](https://www.reddit.com/r/InformationTechnology/comments/uudogn/help_desk_info/)
+- [Anyone have experience in the WGU IT program?](https://www.reddit.com/r/InformationTechnology/comments/uu7tq3/anyone_have_experience_in_the_wgu_it_program/)
+- [How to Migrate Data From One Desktop to Another?](https://www.reddit.com/r/InformationTechnology/comments/uu75nb/how_to_migrate_data_from_one_desktop_to_another/)
+- [For these free training days that Microsoft does &lpar;that give you a free cert voucher&rpar;, are they are recorded so that you can view them later in the day?](https://www.reddit.com/r/InformationTechnology/comments/uu3uvq/for_these_free_training_days_that_microsoft_does/)
+- [Starting laptop for IT degree?](https://www.reddit.com/r/InformationTechnology/comments/uu3l5y/starting_laptop_for_it_degree/)
+- [Coursea IT support cert](https://www.reddit.com/r/InformationTechnology/comments/utqz45/coursea_it_support_cert/)
 - [Is it possible to pre-load web application to make it faster to access](https://www.reddit.com/r/InformationTechnology/comments/uthin5/is_it_possible_to_preload_web_application_to_make/)
 - [What are some ways or steps you problem solve for most technical problems you face in your job?](https://www.reddit.com/r/InformationTechnology/comments/ut34zj/what_are_some_ways_or_steps_you_problem_solve_for/)
 - [Should I aim for a &lpar;Jr.&rpar; Systems Administrator position first? Or go headfirst into Red Team education?](https://www.reddit.com/r/InformationTechnology/comments/usnlvm/should_i_aim_for_a_jr_systems_administrator/)
 - [what&#39;s the best way to get into IT?](https://www.reddit.com/r/InformationTechnology/comments/usleg1/whats_the_best_way_to_get_into_it/)
-- [Just graduated and working for a school district. Whats some opportunities should look for?](https://www.reddit.com/r/InformationTechnology/comments/usgb2i/just_graduated_and_working_for_a_school_district/)
-- [What&#39;s did you take in college and how much is your salary?](https://www.reddit.com/r/InformationTechnology/comments/uset2n/whats_did_you_take_in_college_and_how_much_is/)
-- [Taskbar icon showing a white paper icon instead of the Slack icon on all computers on the domain](https://www.reddit.com/r/InformationTechnology/comments/use23x/taskbar_icon_showing_a_white_paper_icon_instead/)
-- [Windows Updates Stall While Downloading](https://www.reddit.com/r/InformationTechnology/comments/usdqrl/windows_updates_stall_while_downloading/)
-- [about to be a freshman undergrad in IT, what basic skills for work do i need to start having??](https://www.reddit.com/r/InformationTechnology/comments/us70ci/about_to_be_a_freshman_undergrad_in_it_what_basic/)
-- [top two fields to get into?](https://www.reddit.com/r/InformationTechnology/comments/us3ttc/top_two_fields_to_get_into/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

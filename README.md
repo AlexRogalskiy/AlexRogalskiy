@@ -369,6 +369,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Try the Simplest Thing First to Address Hybrid Network Performance Issues](https://www.informationweek.com/it-life/try-the-simplest-thing-first-to-address-hybrid-network-performance-issues)
+- [What Federal Privacy Policy Might Look Like If Passed](https://www.informationweek.com/big-data-analytics/what-federal-privacy-policy-might-look-like-if-passed)
+- [Agility in DevOps: What’s Holding Enterprises Back?](https://www.informationweek.com/devops/agility-in-devops-what-s-holding-enterprises-back-)
 - [Beware of False Networking and Security Convergence Claims](https://www.informationweek.com/security-and-risk-strategy/beware-of-false-networking-and-security-convergence-claims)
 - [Best Practices for Measuring Digital Investment Success](https://www.informationweek.com/big-data/best-practices-for-measuring-digital-investment-success)
 - [Who Is Responsible for a Secure, Mission-Oriented Network?](https://www.informationweek.com/security-and-risk-strategy/who-is-responsible-for-a-secure-mission-oriented-network-)
@@ -376,9 +379,6 @@
 - [Top No-Pain Perks You Can Use to Retain IT Staff](https://www.informationweek.com/team-building-and-staffing/top-no-pain-perks-you-can-use-to-retain-it-staff)
 - [SAP Evolves for Next-Gen Enterprises](https://www.informationweek.com/software-platforms/sap-evolves-for-next-gen-enterprises)
 - [Winning Trust with Technical Leaders as Change Agents](https://www.informationweek.com/cloud/winning-trust-with-technical-leaders-as-change-agents)
-- [The Evolution of the CIO](https://www.informationweek.com/it-life/the-evolution-of-the-cio)
-- [Beyond the Numbers: How CFOs Can Embrace New Business Models](https://www.informationweek.com/strategic-cio/beyond-the-numbers-how-cfos-can-embrace-new-business-models)
-- [Fintech, Cloud, and Bringing Machine Learning to the Edge](https://www.informationweek.com/fintech/fintech-cloud-and-bringing-machine-learning-to-the-edge)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

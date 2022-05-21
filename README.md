@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Pelosi warns changes to Northern Ireland protocol could affect US trade deal with Britain](https://www.theguardian.com/us-news/2022/may/20/pelosi-warns-changes-to-northern-ireland-protocol-could-affect-us-trade-deal-with-britain)
-- [Australian election: voters to go to polls in battle of ‘bulldozer’ and ‘builder’](https://www.theguardian.com/australia-news/2022/may/20/australian-election-voters-polls-scott-morrison-bulldozer-anthony-albanese-builder)
-- [The nurses getting huge bills for quitting the NHS – podcast](https://www.theguardian.com/news/audio/2022/may/20/the-nurses-getting-huge-bills-for-quitting-the-nhs-podcast)
-- [Boeing hopes third time the charm for Starliner test flight](https://www.theguardian.com/business/2022/may/19/boeing-starliner-test-flight-third-time-charm)
-- [Russia-Ukraine war: what we know on day 86 of the invasion](https://www.theguardian.com/world/2022/may/20/russia-ukraine-war-what-we-know-on-day-86-of-the-invasion)
-- [North Korea’s Covid caseload passes 2 million amid global concern](https://www.theguardian.com/world/2022/may/20/north-koreas-covid-caseload-passes-2-million-amid-global-concern)
-- [Insomniacs in England to be offered app treatment instead of sleeping pills](https://www.theguardian.com/lifeandstyle/2022/may/20/insomniacs-in-england-to-be-offered-app-treatment-instead-of-sleeping-pills)
-- [UK consumer confidence falls to lowest level since 1974](https://www.theguardian.com/business/2022/may/20/uk-consumer-confidence-falls-to-lowest-level-since-1974)
-- [Respiratory syncytial virus kills 100,000 under-fives every year](https://www.theguardian.com/society/2022/may/19/respiratory-syncytial-virus-under-fives-respiratory-infection-covid)
-- [Port Vale sink Swindon in shootout to reach playoff final amid ugly scenes](https://www.theguardian.com/football/2022/may/19/port-vale-swindon-town-league-two-playoff-match-report)
+- [Australian federal election 2022: Anthony Albanese and Scott Morrison make last-minute campaign stop in Melbourne as Australia votes – live news](https://www.theguardian.com/australia-news/live/2022/may/21/australian-election-2022-live-news-today-australia-federal-anthony-albanese-scott-morrison-who-won-winning-opinion-polls-polling-vote-labor-coalition-liberals-greens-independents-candidates-seats-odds-results-politics-latest-updates)
+- [Elon Musk denies he sexually harassed attendant on private jet in 2016](https://www.theguardian.com/technology/2022/may/20/elon-musk-denies-he-sexually-harassed-attendant-on-private-jet-in-2016)
+- [Fresh look to US PGA Championship leaderboard with Will Zalatoris on top at halfway stage](https://www.theguardian.com/sport/2022/may/21/fresh-look-to-leaderboard-as-will-zalatoris-leds-mito-pereira-at-us-pga-championship)
+- [India’s wheat farmers count cost of 40C heat that evokes ‘deserts of Rajasthan’](https://www.theguardian.com/world/2022/may/21/india-wheat-farmers-40c-heat-food-security)
+- [UK pharmacists to offer alternatives to out of stock HRT products](https://www.theguardian.com/society/2022/may/21/uk-pharmacists-to-offer-alternatives-to-out-of-stock-hrt-products)
+- [‘It’s ridiculous’: shock as some UK grocery prices rise by more than 20%](https://www.theguardian.com/business/2022/may/21/uk-grocery-prices-rise-which)
+- [Wellbeing secrets from the Chelsea flower show](https://www.theguardian.com/lifeandstyle/2022/may/21/wellbeing-secrets-from-the-chelsea-flower-show)
+- [WHO official warns monkeypox could accelerate as cases spread across Europe](https://www.theguardian.com/world/2022/may/20/who-monkeypox-warning-cases-spread-europe)
+- [Scotland’s first minister Nicola Sturgeon tests positive for Covid](https://www.theguardian.com/uk-news/2022/may/20/scotlands-first-minister-nicola-sturgeon-tests-positive-for-covid)
+- [Brother and Sister review – sibling battle with Marion Cotillard that leaves us all losers](https://www.theguardian.com/film/2022/may/20/brother-and-sister-review-cannes-2022-arnaud-desplechin)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

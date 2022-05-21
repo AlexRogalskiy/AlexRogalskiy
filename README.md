@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Unboxing and assembling the AnkerMake M5 3D Printer [video]](https://www.youtube.com/watch?t=1038&v=nlORvAwX7NU&feature=youtu.be)
-- [A call for an independent inquiry into the origin of the SARS-CoV-2 virus](https://www.pnas.org/doi/10.1073/pnas.2202769119)
-- [Escaping the Botnet: A Practical Guide](https://return.life/2022/03/28/escaping-the-botnet-a-practical-guide/)
-- [German beer producers running out of bottles](https://www.dw.com/en/german-beer-producers-running-out-of-bottles/a-44778328)
-- [Modem Host Interface &lpar;MHI&rpar; Bus for Endpoint Devices Upstreamed to Linux Kernel](https://www.linaro.org/blog/mhi-bus-for-endpoint-devices-upstreamed-to-linux-kernel/)
-- [Throwback: Denise Richards on the PIX Firewall](https://web.archive.org/web/20050108090447/http://www.routergod.com/deniserichards/)
-- [Two of the OMAC thrusters failed during the Starliner insertion burn](https://twitter.com/DJSnM/status/1527460963011596289)
-- [Moderna’s HIV Vaccine Prepped for Trials in Africa](https://pharmaphorum.com/news/modernas-hiv-vaccine-prepped-for-trials-in-africa/)
-- [I spent most of April and some of May traveling around Ukraine](https://mattlakeman.org/2022/05/15/notes-on-ukraine/)
-- [Star Wars: Millennium Falcon Pembrokeshire Exhibition to Open](https://www.bbc.com/news/uk-wales-61507729)
+- [EA Looking to Sell or Merge](https://kotaku.com/ea-acquisition-apex-legends-star-wars-fifa-nbcuniversal-1848957274)
+- [Ask HN: Do you know of a browser based DSL development tool?](https://news.ycombinator.com/item?id=31454798)
+- [Steel Bending Bare Handed and What I Learned About Developing Technology](https://www.linkedin.com/pulse/steel-bending-lessons-leadership-travis-dirks)
+- [The Importance of Developer Experience](https://thefalc.com/2020/11/why-care-about-the-developer-experience/)
+- [Old stoves may last 100 years, but modern ones are better &lpar;2021&rpar;](https://rootsofprogress.org/old-vs-modern-stoves)
+- [Athlete](https://news.ycombinator.com/item?id=31454696)
+- [Ask HN: Is there a Sapiens-like book for biological history of the world?](https://news.ycombinator.com/item?id=31454650)
+- [Population pyramid of the United States as of July 1, 2021](https://old.reddit.com/r/dataisbeautiful/comments/uoch8y/oc_population_pyramid_of_the_united_states_as_of/)
+- [The Jakt Programming Language](https://github.com/SerenityOS/jakt)
+- [Photosynthesis: Plants Build the Air We Breathe – Atom by Atom](https://www.youtube.com/watch?v=uC68al-P1Wg)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

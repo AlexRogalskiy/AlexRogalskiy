@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Microsoft urged to do more to address European cloud antitrust complaints](https://www.computerweekly.com/news/252518486/Microsoft-urged-to-do-more-to-address-European-cloud-antitrust-complaints)
+- [Applying international law to cyber will be a tall order](https://www.computerweekly.com/news/252518479/Applying-international-law-to-cyber-will-be-a-tall-order)
+- [Microsoft drops emergency patch after Patch Tuesday screw up](https://www.computerweekly.com/news/252518469/Microsoft-drops-emergency-patch-after-Patch-Tuesday-screw-up)
+- [Former Welsh steelworks becomes ‘living’ cyber lab](https://www.computerweekly.com/news/252518458/Former-Welsh-steelworks-becomes-living-cyber-lab)
+- [Chinese cyber spooks exploit western sanctions on Russia](https://www.computerweekly.com/news/252518464/Chinese-cyber-spooks-exploit-western-sanctions-on-Russia)
 - [Defensive cyber attacks may be justified, says attorney general](https://www.computerweekly.com/news/252518406/Defensive-cyber-attacks-may-be-justified-says-attorney-general)
 - [Top cyber criminal earnings outpace those of business leaders](https://www.computerweekly.com/news/252518399/Top-cyber-criminal-earnings-outpace-those-of-business-leaders)
 - [Nature of cyber war evolving in real time, says Microsoft president](https://www.computerweekly.com/news/252518404/Nature-of-cyber-war-evolving-in-real-time-says-Microsoft-president)
 - [Deliveroo accused of ‘soft union busting’ with GMB deal](https://www.computerweekly.com/news/252518353/Deliveroo-accused-of-soft-union-busting-with-GMB-deal)
 - [Security Think Tank: Yes, zero trust can help you understand attack paths](https://www.computerweekly.com/opinion/Security-Think-Tank-Yes-zero-trust-can-help-you-understand-attack-paths)
-- [Adoption of cloud-native architectures on the rise](https://www.computerweekly.com/news/252518356/Adoption-of-cloud-native-architectures-on-the-rise)
-- [Security Think Tank: To follow a path, you need a good map](https://www.computerweekly.com/opinion/Security-Think-Tank-To-follow-a-path-you-need-a-good-map)
-- [Portworx adds anti-ransomware to PX-Backup for Kubernetes](https://www.computerweekly.com/news/252518344/Portworx-adds-anti-ransomware-to-PX-Backup-for-Kubernetes)
-- [Headline: Royal Holloway: Attack mapping for the internet of things](https://www.computerweekly.com/ehandbook/Headline-Royal-Holloway-Attack-mapping-for-the-internet-of-things)
-- [Microsoft Cloud for Sustainability to enter general availability in June 2022](https://www.computerweekly.com/news/252518343/Microsoft-Cloud-for-Sustainability-to-enter-general-availability-in-June-2022)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

@@ -414,6 +414,9 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [CYBERSOC Information Technology Library Blog](https://www.reddit.com/r/InformationTechnology/comments/uv1495/cybersoc_information_technology_library_blog/)
+- [Can my property find out that I set up a WiFi smart camera in my room?](https://www.reddit.com/r/InformationTechnology/comments/uuszb0/can_my_property_find_out_that_i_set_up_a_wifi/)
+- [How to get started?](https://www.reddit.com/r/InformationTechnology/comments/uuh8m4/how_to_get_started/)
 - [help desk info?](https://www.reddit.com/r/InformationTechnology/comments/uudogn/help_desk_info/)
 - [Anyone have experience in the WGU IT program?](https://www.reddit.com/r/InformationTechnology/comments/uu7tq3/anyone_have_experience_in_the_wgu_it_program/)
 - [How to Migrate Data From One Desktop to Another?](https://www.reddit.com/r/InformationTechnology/comments/uu75nb/how_to_migrate_data_from_one_desktop_to_another/)
@@ -421,9 +424,6 @@
 - [Starting laptop for IT degree?](https://www.reddit.com/r/InformationTechnology/comments/uu3l5y/starting_laptop_for_it_degree/)
 - [Coursea IT support cert](https://www.reddit.com/r/InformationTechnology/comments/utqz45/coursea_it_support_cert/)
 - [Is it possible to pre-load web application to make it faster to access](https://www.reddit.com/r/InformationTechnology/comments/uthin5/is_it_possible_to_preload_web_application_to_make/)
-- [What are some ways or steps you problem solve for most technical problems you face in your job?](https://www.reddit.com/r/InformationTechnology/comments/ut34zj/what_are_some_ways_or_steps_you_problem_solve_for/)
-- [Should I aim for a &lpar;Jr.&rpar; Systems Administrator position first? Or go headfirst into Red Team education?](https://www.reddit.com/r/InformationTechnology/comments/usnlvm/should_i_aim_for_a_jr_systems_administrator/)
-- [what&#39;s the best way to get into IT?](https://www.reddit.com/r/InformationTechnology/comments/usleg1/whats_the_best_way_to_get_into_it/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

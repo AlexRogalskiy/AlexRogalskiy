@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [EA Looking to Sell or Merge](https://kotaku.com/ea-acquisition-apex-legends-star-wars-fifa-nbcuniversal-1848957274)
-- [Ask HN: Do you know of a browser based DSL development tool?](https://news.ycombinator.com/item?id=31454798)
-- [Steel Bending Bare Handed and What I Learned About Developing Technology](https://www.linkedin.com/pulse/steel-bending-lessons-leadership-travis-dirks)
-- [The Importance of Developer Experience](https://thefalc.com/2020/11/why-care-about-the-developer-experience/)
-- [Old stoves may last 100 years, but modern ones are better &lpar;2021&rpar;](https://rootsofprogress.org/old-vs-modern-stoves)
-- [Athlete](https://news.ycombinator.com/item?id=31454696)
-- [Ask HN: Is there a Sapiens-like book for biological history of the world?](https://news.ycombinator.com/item?id=31454650)
-- [Population pyramid of the United States as of July 1, 2021](https://old.reddit.com/r/dataisbeautiful/comments/uoch8y/oc_population_pyramid_of_the_united_states_as_of/)
-- [The Jakt Programming Language](https://github.com/SerenityOS/jakt)
-- [Photosynthesis: Plants Build the Air We Breathe – Atom by Atom](https://www.youtube.com/watch?v=uC68al-P1Wg)
+- [Effective Collaboration with DigitalOcean Teams](https://www.digitalocean.com/blog/effective-collaboration-with-digitalocean-teams)
+- [Success Will Be Determined by Three Things](https://www.inc.com/justin-bariso/emotional-intelligence-mit-patrick-winston-how-to-communicate-effectively-how-to-write.html)
+- [Flaw in the Enigma Code](https://www.youtube.com/watch?v=V4V2bpZlqx8)
+- [Want Words: English Reverse Dictionary](https://wantwords.net/)
+- [Jif peanut butter recall crashes jif.com](https://www.jif.com/)
+- [Google says it&#39;s closing in on human-level AI](https://futurism.com/the-byte/google-deepmind-agi)
+- [EA reportedly tried to sell itself to Apple](https://appleinsider.com/articles/22/05/21/ea-reportedly-talked-to-apple-about-a-potential-merger)
+- [Does Human Purpose Have Anywhere to Retreat To?](https://www.erichgrunewald.com/posts/does-human-purpose-have-anywhere-to-retreat-to/)
+- [WebM: An open web media project](https://www.webmproject.org/)
+- [Quantum Wittgenstein](https://aeon.co/essays/how-wittgenstein-might-solve-both-philosophy-and-quantum-physics)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

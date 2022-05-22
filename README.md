@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Monkeypox goes global: why scientists are on alert](https://www.nature.com/articles/d41586-022-01421-8)
-- [On Aging Alone](https://thewalrus.ca/on-aging-alone/)
-- [Extracting Triangular 3D Models, Materials, and Lighting from Images](https://nvlabs.github.io/nvdiffrec/)
-- [What Ever Happened to Scandium Bike Frames? &lpar;2016&rpar;](https://www.bikeblogordie.com/2016/11/what-ever-happened-to-scandium-bike.html)
-- [How to Paint a Crosswalk](https://crosswalksla.org/how-to-guide.html)
-- [Pike Programming Language](https://pike.lysator.liu.se/)
-- [How long mined metals circulate before being lost](https://arstechnica.com/science/2022/05/new-study-estimates-how-long-mined-metals-circulate-before-being-lost/)
-- [HP Dev One Laptop with Pop _OS](https://hpdevone.com/)
-- [Credit Card Fraud and an Algorithm](https://www.lanacion.com.ar/seguridad/falsetti-el-estafador-el-canillita-que-descubrio-el-algoritmo-para-crear-tarjetas-de-credito-y-nid20052022/)
-- [Monitor Radiation with a Raspberry Pi](https://nbailey.ca/post/radiation-monitor/)
+- [Vance &lpar;YC W22&rpar; Is Hiring](https://www.ycombinator.com/companies/vance/jobs/blkD1Yp-android-developer)
+- [Trunk – Build, bundle and ship your rust WASM application to the web](https://github.com/thedodd/trunk)
+- [Tunneling Wikipedia through WhatsApp to &lpar;maybe?&rpar; get around WiFi restrictions](https://alexanderell.is/posts/wikipedia-over-whatsapp/)
+- [Why America has so few carpenters](https://thehustle.co/why-america-has-so-few-carpenters/)
+- [“Smalltalk in a C world” 2013](https://www.sciencedirect.com/science/article/pii/S0167642313002852)
+- [QCAD – Open Source CAD System](https://www.qcad.org/en/)
+- [NERC sounds alarm on solar tripping in ‘sobering’ summer reliability report](https://www.utilitydive.com/news/nerc-summer-reliability-report-west-miso-ercot/624043/)
+- [Flags Are a Code Smell &lpar;2014&rpar;](https://www.sebastiansylvan.com/post/2014-04-27-flags-are-a-code-smell/)
+- [Why is the nuclear power industry stagnant?](https://austinvernon.site/blog/nuclear.html)
+- [Tasks, Lists, and Promises](http://rachelbythebay.com/w/2022/05/19/priority/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Australian federal election 2022: Anthony Albanese and Scott Morrison make last-minute campaign stop in Melbourne as Australia votes – live news](https://www.theguardian.com/australia-news/live/2022/may/21/australian-election-2022-live-news-today-australia-federal-anthony-albanese-scott-morrison-who-won-winning-opinion-polls-polling-vote-labor-coalition-liberals-greens-independents-candidates-seats-odds-results-politics-latest-updates)
-- [Elon Musk denies he sexually harassed attendant on private jet in 2016](https://www.theguardian.com/technology/2022/may/20/elon-musk-denies-he-sexually-harassed-attendant-on-private-jet-in-2016)
-- [Fresh look to US PGA Championship leaderboard with Will Zalatoris on top at halfway stage](https://www.theguardian.com/sport/2022/may/21/fresh-look-to-leaderboard-as-will-zalatoris-leds-mito-pereira-at-us-pga-championship)
-- [India’s wheat farmers count cost of 40C heat that evokes ‘deserts of Rajasthan’](https://www.theguardian.com/world/2022/may/21/india-wheat-farmers-40c-heat-food-security)
-- [UK pharmacists to offer alternatives to out of stock HRT products](https://www.theguardian.com/society/2022/may/21/uk-pharmacists-to-offer-alternatives-to-out-of-stock-hrt-products)
-- [‘It’s ridiculous’: shock as some UK grocery prices rise by more than 20%](https://www.theguardian.com/business/2022/may/21/uk-grocery-prices-rise-which)
-- [Wellbeing secrets from the Chelsea flower show](https://www.theguardian.com/lifeandstyle/2022/may/21/wellbeing-secrets-from-the-chelsea-flower-show)
-- [WHO official warns monkeypox could accelerate as cases spread across Europe](https://www.theguardian.com/world/2022/may/20/who-monkeypox-warning-cases-spread-europe)
-- [Scotland’s first minister Nicola Sturgeon tests positive for Covid](https://www.theguardian.com/uk-news/2022/may/20/scotlands-first-minister-nicola-sturgeon-tests-positive-for-covid)
-- [Brother and Sister review – sibling battle with Marion Cotillard that leaves us all losers](https://www.theguardian.com/film/2022/may/20/brother-and-sister-review-cannes-2022-arnaud-desplechin)
+- [Dozens dead, millions stranded as floods ravage Bangladesh and India](https://www.theguardian.com/world/2022/may/22/dozens-dead-millions-stranded-as-floods-ravage-bangladesh-and-india)
+- [Russia-Ukraine war: what we know on day 88 of the invasion](https://www.theguardian.com/world/2022/may/22/russia-ukraine-war-what-we-know-on-day-88-of-the-invasion)
+- [Matt Fitzpatrick in frame going into final round of US PGA Championship](https://www.theguardian.com/sport/2022/may/22/matt-fitzpatrick-in-frame-going-into-final-round-of-us-pga-championship)
+- [With no A-listers, can Davos still play a part on the global stage?](https://www.theguardian.com/business/2022/may/22/can-davos-with-no-a-listers-still-play-a-part-on-the-global-stage)
+- [Gap between inflation rates for richest and poorest households at its widest in 16 years](https://www.theguardian.com/business/2022/may/22/gap-between-inflation-rates-for-richest-and-poorest-households-at-its-widest-in-16-years)
+- [We Love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2022/may/21/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Treasury criticised for agreeing £500k spend on focus groups and polls](https://www.theguardian.com/politics/2022/may/21/treasury-criticised-for-agreeing-500k-spend-on-focus-groups-and-polls)
+- [10 of the best men’s cardigans to wear this summer – in pictures](https://www.theguardian.com/fashion/2022/may/21/10-of-the-best-mens-cardigans-to-wear-this-summer-in-pictures)
+- [We will see more cases of monkeypox, warn British scientists](https://www.theguardian.com/world/2022/may/21/we-will-see-more-cases-of-monkeypox-warn-british-scientists)
+- [Charles and Camilla to guest star in EastEnders platinum jubilee special](https://www.theguardian.com/uk-news/2022/may/21/charles-and-camilla-to-guest-star-in-eastenders-platinum-jubilee-special)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Effective Collaboration with DigitalOcean Teams](https://www.digitalocean.com/blog/effective-collaboration-with-digitalocean-teams)
-- [Success Will Be Determined by Three Things](https://www.inc.com/justin-bariso/emotional-intelligence-mit-patrick-winston-how-to-communicate-effectively-how-to-write.html)
-- [Flaw in the Enigma Code](https://www.youtube.com/watch?v=V4V2bpZlqx8)
-- [Want Words: English Reverse Dictionary](https://wantwords.net/)
-- [Jif peanut butter recall crashes jif.com](https://www.jif.com/)
-- [Google says it&#39;s closing in on human-level AI](https://futurism.com/the-byte/google-deepmind-agi)
-- [EA reportedly tried to sell itself to Apple](https://appleinsider.com/articles/22/05/21/ea-reportedly-talked-to-apple-about-a-potential-merger)
-- [Does Human Purpose Have Anywhere to Retreat To?](https://www.erichgrunewald.com/posts/does-human-purpose-have-anywhere-to-retreat-to/)
-- [WebM: An open web media project](https://www.webmproject.org/)
-- [Quantum Wittgenstein](https://aeon.co/essays/how-wittgenstein-might-solve-both-philosophy-and-quantum-physics)
+- [Patients keep getting charged for crying](https://www.sicknote.co/p/patients-keep-getting-charged-for)
+- [Open-Source Firmware Foundation](https://opensourcefirmware.foundation/)
+- [Ask HN: What’s the Next Big Thing?](https://news.ycombinator.com/item?id=31474988)
+- [David Sacks on new startup benchmarks for fundability](https://twitter.com/davidsacks/status/1528102541723979776)
+- [Broadcom in Talks to Acquire VMware](https://www.reuters.com/article/vmware-m-a-broadcom-idUSKCN2N80LY)
+- [Nvidia to Slow Hiring](https://www.barrons.com/articles/nvidia-to-slow-hiring-amid-inflationary-environment-51653249282)
+- [What *REALLY* happens to &#39;Recycled&#39; Glass? – &lpar;you might be surprised&rpar;](https://www.youtube.com/watch?v=LR9FtWVjk2c)
+- [Much like bow ties, Genomics Is Cool](https://dddiaz.com/post/genomics-is-cool/)
+- [California church shooting suspected anti-Taiwan hate crime by Chinese-American](https://www.independent.co.uk/news/world/americas/crime/laguna-woods-church-shooting-suspect-newspaper-b2082582.html)
+- [Linux 5.18](https://kernelnewbies.org/Linux_5.18)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Vance &lpar;YC W22&rpar; Is Hiring](https://www.ycombinator.com/companies/vance/jobs/blkD1Yp-android-developer)
-- [Trunk – Build, bundle and ship your rust WASM application to the web](https://github.com/thedodd/trunk)
-- [Tunneling Wikipedia through WhatsApp to &lpar;maybe?&rpar; get around WiFi restrictions](https://alexanderell.is/posts/wikipedia-over-whatsapp/)
-- [Why America has so few carpenters](https://thehustle.co/why-america-has-so-few-carpenters/)
-- [“Smalltalk in a C world” 2013](https://www.sciencedirect.com/science/article/pii/S0167642313002852)
-- [QCAD – Open Source CAD System](https://www.qcad.org/en/)
-- [NERC sounds alarm on solar tripping in ‘sobering’ summer reliability report](https://www.utilitydive.com/news/nerc-summer-reliability-report-west-miso-ercot/624043/)
-- [Flags Are a Code Smell &lpar;2014&rpar;](https://www.sebastiansylvan.com/post/2014-04-27-flags-are-a-code-smell/)
-- [Why is the nuclear power industry stagnant?](https://austinvernon.site/blog/nuclear.html)
-- [Tasks, Lists, and Promises](http://rachelbythebay.com/w/2022/05/19/priority/)
+- [Useless Use of &quot;dd&quot;](https://www.vidarholen.net/contents/blog/?p=479)
+- [Russian Ruble Is World’s Best Currency This Year](https://www.bloomberg.com/news/articles/2022-05-11/russian-ruble-surpasses-brazilian-real-as-world-s-best-currency)
+- [Is This a Tank?](https://acoup.blog/2022/05/13/collections-ancient-tanks-chariots-scythed-chariots-and-carroballistae/)
+- [Empirical Notes on Kissing](https://belkarx.github.io/posts/finished/Empirical%20Notes%20on%20Kissing.html)
+- [Discovered a 63kb tiddlywiki like self saving HTML+JS wiki and its looking cool](https://feather.wiki/)
+- [Blinkenlights: PC Binary Emulating Visualizer](https://justine.lol/blinkenlights/)
+- [MasterCard to launch biometric checkout tool for retailers](https://www.retaildive.com/news/mastercard-biometric-checkout-retailers/624056/)
+- [“What if it changes?”](https://chriskiehl.com/article/the-tyranny-of-what-if-it-changes)
+- [Details on AMD&#39;s Quirky Chipset Solutions for AM5](https://angstronomics.substack.com/p/site-launch-exclusive-all-the-juicy)
+- [Simple software things that are actually very complicated](https://www.construct.net/en/blogs/ashleys-blog-2/simple-software-things-1587)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

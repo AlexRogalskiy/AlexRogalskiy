@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Dozens dead, millions stranded as floods ravage Bangladesh and India](https://www.theguardian.com/world/2022/may/22/dozens-dead-millions-stranded-as-floods-ravage-bangladesh-and-india)
-- [Russia-Ukraine war: what we know on day 88 of the invasion](https://www.theguardian.com/world/2022/may/22/russia-ukraine-war-what-we-know-on-day-88-of-the-invasion)
-- [Matt Fitzpatrick in frame going into final round of US PGA Championship](https://www.theguardian.com/sport/2022/may/22/matt-fitzpatrick-in-frame-going-into-final-round-of-us-pga-championship)
-- [With no A-listers, can Davos still play a part on the global stage?](https://www.theguardian.com/business/2022/may/22/can-davos-with-no-a-listers-still-play-a-part-on-the-global-stage)
-- [Gap between inflation rates for richest and poorest households at its widest in 16 years](https://www.theguardian.com/business/2022/may/22/gap-between-inflation-rates-for-richest-and-poorest-households-at-its-widest-in-16-years)
-- [We Love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2022/may/21/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Treasury criticised for agreeing £500k spend on focus groups and polls](https://www.theguardian.com/politics/2022/may/21/treasury-criticised-for-agreeing-500k-spend-on-focus-groups-and-polls)
-- [10 of the best men’s cardigans to wear this summer – in pictures](https://www.theguardian.com/fashion/2022/may/21/10-of-the-best-mens-cardigans-to-wear-this-summer-in-pictures)
-- [We will see more cases of monkeypox, warn British scientists](https://www.theguardian.com/world/2022/may/21/we-will-see-more-cases-of-monkeypox-warn-british-scientists)
-- [Charles and Camilla to guest star in EastEnders platinum jubilee special](https://www.theguardian.com/uk-news/2022/may/21/charles-and-camilla-to-guest-star-in-eastenders-platinum-jubilee-special)
+- [Federal election 2022 live: Anthony Albanese and Penny Wong head to Quad meeting in Japan; at least 10 Covid deaths](https://www.theguardian.com/australia-news/live/2022/may/23/australia-news-live-update-anthony-albanese-labor-majority-coalition-liberals-nationals-election-results-latest-updates)
+- [Colin Cantwell, Star Wars designer behind the X-Wing and Death Star, dies aged 90](https://www.theguardian.com/film/2022/may/23/colin-cantwell-star-wars-designer-behind-the-x-wing-and-death-star-dies-aged-90)
+- [A travesty in Turkey: the Gezi Park trials | podcast](https://www.theguardian.com/news/audio/2022/may/23/a-travesty-in-turkey-the-gezi-park-trials)
+- [Russia-Ukraine war: what we know on day 89 of the invasion](https://www.theguardian.com/world/2022/may/23/russia-ukraine-war-what-we-know-on-day-89-of-the-invasion)
+- [Victims of Duterte’s drug war in Philippines exhumed as leases run out on their graves](https://www.theguardian.com/global-development/2022/may/23/victims-of-dutertes-drug-war-in-philippines-exhumed-as-leases-run-out-on-their-graves)
+- [Justin Thomas wins US PGA title in playoff after Pereira’s late implosion](https://www.theguardian.com/sport/2022/may/23/justin-thomas-wins-pga-championship-golf-will-zalatoris)
+- [Labour attacks ‘obscene’ waste of funds on little-used export helpline](https://www.theguardian.com/politics/2022/may/23/labour-attacks-obscene-waste-of-funds-on-little-used-export-helpline)
+- [Food and energy billionaires $453bn richer than two years ago, finds Oxfam](https://www.theguardian.com/news/2022/may/23/food-and-energy-billionaires-453bn-richer-oxfam-davos-wealth-tax-soaring-prices)
+- [Racism in UK maternity care risks safety of Black, Asian and mixed ethnicity women – study](https://www.theguardian.com/world/2022/may/23/racism-in-uk-maternity-care-risks-safety-of-black-asian-and-mixed-ethnicity-women-study)
+- [Lotus Beauty review – salon-set social issues drama only goes skin deep](https://www.theguardian.com/stage/2022/may/23/lotus-beauty-review-salon-hampstead-theatre-satinder-kaur-chohan)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

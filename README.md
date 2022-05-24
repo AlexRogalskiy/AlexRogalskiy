@@ -414,8 +414,9 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Defunct IT Department](https://www.reddit.com/r/InformationTechnology/comments/uw5sft/defunct_it_department/)
+- [Dealing with Executives](https://www.reddit.com/r/InformationTechnology/comments/uw26lx/dealing_with_executives/)
 - [I&#39;m looking for software with specific features for a company. I want employees to access images, search them by keywords, and upload new images with new keywords. Is there something like that?](https://www.reddit.com/r/InformationTechnology/comments/uvoj0v/im_looking_for_software_with_specific_features/)
-- [CYBERSOC Information Technology Library Blog](https://www.reddit.com/r/InformationTechnology/comments/uved47/cybersoc_information_technology_library_blog/)
 - [CYBERSOC Information Technology Library Blog](https://www.reddit.com/r/InformationTechnology/comments/uv1495/cybersoc_information_technology_library_blog/)
 - [Can my property find out that I set up a WiFi smart camera in my room?](https://www.reddit.com/r/InformationTechnology/comments/uuszb0/can_my_property_find_out_that_i_set_up_a_wifi/)
 - [How to get started?](https://www.reddit.com/r/InformationTechnology/comments/uuh8m4/how_to_get_started/)
@@ -423,7 +424,6 @@
 - [Anyone have experience in the WGU IT program?](https://www.reddit.com/r/InformationTechnology/comments/uu7tq3/anyone_have_experience_in_the_wgu_it_program/)
 - [How to Migrate Data From One Desktop to Another?](https://www.reddit.com/r/InformationTechnology/comments/uu75nb/how_to_migrate_data_from_one_desktop_to_another/)
 - [For these free training days that Microsoft does &lpar;that give you a free cert voucher&rpar;, are they are recorded so that you can view them later in the day?](https://www.reddit.com/r/InformationTechnology/comments/uu3uvq/for_these_free_training_days_that_microsoft_does/)
-- [Starting laptop for IT degree?](https://www.reddit.com/r/InformationTechnology/comments/uu3l5y/starting_laptop_for_it_degree/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

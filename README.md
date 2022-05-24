@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Federal election 2022 live: Anthony Albanese and Penny Wong head to Quad meeting in Japan; at least 10 Covid deaths](https://www.theguardian.com/australia-news/live/2022/may/23/australia-news-live-update-anthony-albanese-labor-majority-coalition-liberals-nationals-election-results-latest-updates)
-- [Colin Cantwell, Star Wars designer behind the X-Wing and Death Star, dies aged 90](https://www.theguardian.com/film/2022/may/23/colin-cantwell-star-wars-designer-behind-the-x-wing-and-death-star-dies-aged-90)
-- [A travesty in Turkey: the Gezi Park trials | podcast](https://www.theguardian.com/news/audio/2022/may/23/a-travesty-in-turkey-the-gezi-park-trials)
-- [Russia-Ukraine war: what we know on day 89 of the invasion](https://www.theguardian.com/world/2022/may/23/russia-ukraine-war-what-we-know-on-day-89-of-the-invasion)
-- [Victims of Duterte’s drug war in Philippines exhumed as leases run out on their graves](https://www.theguardian.com/global-development/2022/may/23/victims-of-dutertes-drug-war-in-philippines-exhumed-as-leases-run-out-on-their-graves)
-- [Justin Thomas wins US PGA title in playoff after Pereira’s late implosion](https://www.theguardian.com/sport/2022/may/23/justin-thomas-wins-pga-championship-golf-will-zalatoris)
-- [Labour attacks ‘obscene’ waste of funds on little-used export helpline](https://www.theguardian.com/politics/2022/may/23/labour-attacks-obscene-waste-of-funds-on-little-used-export-helpline)
-- [Food and energy billionaires $453bn richer than two years ago, finds Oxfam](https://www.theguardian.com/news/2022/may/23/food-and-energy-billionaires-453bn-richer-oxfam-davos-wealth-tax-soaring-prices)
-- [Racism in UK maternity care risks safety of Black, Asian and mixed ethnicity women – study](https://www.theguardian.com/world/2022/may/23/racism-in-uk-maternity-care-risks-safety-of-black-asian-and-mixed-ethnicity-women-study)
-- [Lotus Beauty review – salon-set social issues drama only goes skin deep](https://www.theguardian.com/stage/2022/may/23/lotus-beauty-review-salon-hampstead-theatre-satinder-kaur-chohan)
+- [Ninth sandstorm in less than two months shuts down much of Iraq](https://www.theguardian.com/world/2022/may/24/ninth-sandstorm-in-less-than-two-months-shuts-down-much-of-iraq)
+- [Toothaches and waiting lists: where did the NHS dentists go? - podcast](https://www.theguardian.com/news/audio/2022/may/24/toothaches-waiting-lists-where-did-nhs-dentists-go-podcast)
+- [New York subpoenas Trump’s longtime assistant in business dealings inquiry](https://www.theguardian.com/us-news/2022/may/23/donald-trump-rhona-graff-new-york-subpoena-trump-organization)
+- [Russia-Ukraine war: what we know on day 90 of the invasion](https://www.theguardian.com/world/2022/may/24/russia-ukraine-war-what-we-know-on-day-90-of-the-invasion)
+- [Top official at Foreign Office called upon to resign over Kabul withdrawal](https://www.theguardian.com/politics/2022/may/24/top-official-at-foreign-office-called-upon-to-resign-over-kabul-withdrawal-sir-philip-barton-dominic-raab)
+- [‘This is a generational moment’: civil rights group for black Britons launches](https://www.theguardian.com/world/2022/may/24/black-equity-organisation-civil-rights-group-for-black-britons-launches)
+- [Girl tried to kill herself after strip-search by Met officers, mother says](https://www.theguardian.com/uk-news/2022/may/24/girl-tried-to-kill-herself-after-strip-search-by-met-officers-mother-says)
+- [Naomi Osaka may skip Wimbledon ‘exhibition’ after ranking points removal](https://www.theguardian.com/sport/2022/may/23/naomi-osaka-skip-wimbledon-french-open-tennis)
+- [Surgeon casts doubt on Johnny Depp’s account of how he severed finger](https://www.theguardian.com/us-news/2022/may/23/johnny-depp-amber-heard-severed-finger-defamation-trial)
+- [Everton’s Calvert-Lewin reveals ‘talking saved my life’ during injury-hit season](https://www.theguardian.com/football/2022/may/23/evertons-dominic-calvert-lewin-reveals-talking-saved-my-life)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

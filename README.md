@@ -384,16 +384,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Thoughtworks weighs in on multicloud](https://www.infoworld.com/article/3661693/thoughtworks-weighs-in-on-multicloud.html#tk.rss_all)
+- [You’re missing the boat on cloud-native](https://www.infoworld.com/article/3661590/youre-missing-the-boat-on-cloud-native.html#tk.rss_all)
+- [Red Hat ditches CodeReady name for dev environments](https://www.infoworld.com/article/3661551/red-hat-ditches-codeready-name-for-in-browser-and-local-dev-environments.html#tk.rss_all)
+- [Project Leyden set to bring faster startups to Java](https://www.infoworld.com/article/3661359/project-leyden-set-to-bring-faster-startups-to-java.html#tk.rss_all)
+- [9 nifty libraries for profiling Python code](https://www.infoworld.com/article/3600993/9-nifty-libraries-for-profiling-python-code.html#tk.rss_all)
 - [What is JPA? Introduction to the Jakarta Persistence API](https://www.infoworld.com/article/3379043/what-is-jpa-introduction-to-the-java-persistence-api.html#tk.rss_all)
 - [Understand the trade-offs with reactive and proactive cloudops](https://www.infoworld.com/article/3661431/understand-the-trade-offs-with-reactive-and-proactive-cloudops.html#tk.rss_all)
 - [What’s new in Rust 1.61](https://www.infoworld.com/article/3267624/whats-new-in-the-rust-language.html#tk.rss_all)
 - [OpenFeature feature flag project applies for CNCF sandbox project status](https://www.infoworld.com/article/3661548/feature-flagging-openfeature-project-applies-for-cncf-sandbox-project-status.html#tk.rss_all)
 - [Java concurrency could be about to get easier](https://www.infoworld.com/article/3661310/java-concurrency-could-be-about-to-get-easier.html#tk.rss_all)
-- [Developer survey: JavaScript and Python reign, but Rust is rising](https://www.infoworld.com/article/3661248/developer-survey-javascript-and-python-reign-but-rust-is-rising.html#tk.rss_all)
-- [The quantum menace: Quantum computing and cryptography](https://www.infoworld.com/article/3659837/the-quantum-menace-quantum-computing-and-cryptography.html#tk.rss_all)
-- [Add security to Azure applications with Azure WAF](https://www.infoworld.com/article/3660640/add-security-to-azure-applications-with-azure-waf.html#tk.rss_all)
-- [The best new features and fixes in Python 3.11](https://www.infoworld.com/article/3660550/the-best-new-features-and-fixes-in-python-311.html#tk.rss_all)
-- [Bootstrap 5.2.0 bolsters CSS, custom components](https://www.infoworld.com/article/3660498/bootstrap-520-bolsters-css-custom-components.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

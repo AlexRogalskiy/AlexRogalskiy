@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Patients keep getting charged for crying](https://www.sicknote.co/p/patients-keep-getting-charged-for)
-- [Open-Source Firmware Foundation](https://opensourcefirmware.foundation/)
-- [Ask HN: What’s the Next Big Thing?](https://news.ycombinator.com/item?id=31474988)
-- [David Sacks on new startup benchmarks for fundability](https://twitter.com/davidsacks/status/1528102541723979776)
-- [Broadcom in Talks to Acquire VMware](https://www.reuters.com/article/vmware-m-a-broadcom-idUSKCN2N80LY)
-- [Nvidia to Slow Hiring](https://www.barrons.com/articles/nvidia-to-slow-hiring-amid-inflationary-environment-51653249282)
-- [What *REALLY* happens to &#39;Recycled&#39; Glass? – &lpar;you might be surprised&rpar;](https://www.youtube.com/watch?v=LR9FtWVjk2c)
-- [Much like bow ties, Genomics Is Cool](https://dddiaz.com/post/genomics-is-cool/)
-- [California church shooting suspected anti-Taiwan hate crime by Chinese-American](https://www.independent.co.uk/news/world/americas/crime/laguna-woods-church-shooting-suspect-newspaper-b2082582.html)
-- [Linux 5.18](https://kernelnewbies.org/Linux_5.18)
+- [I tried Google&#39;s new job interview practice tool and I want to cry](https://www.zdnet.com/article/i-tried-googles-new-job-interview-practice-tool-and-i-want-to-cry/)
+- [Day – 1 Get Going with Go](https://blog.justjordant.com/day-1-get-going-with-go)
+- [I have resigned all my positions in ISO C++ in protest](https://twitter.com/sempuki1/status/1528481986540515329)
+- [The Average SaaS Leader Grows 54% at $1B in ARR](https://www.saastr.com/the-average-saas-leader-grows-at-1-billion-in-arr/)
+- [Klarna lays off 10% of its workforce](https://techcrunch.com/2022/05/23/klarna-lays-off-10-of-its-workforce/)
+- [Healthtech Startup MFine Fires 75% Workforce, 600 Employees Impacted](https://inc42.com/buzz/exclusive-healthtech-startup-mfine-fires-600-employees/)
+- [The quest for longer-lasting Covid-19 vaccines](https://www.cnn.com/2022/05/20/health/mrna-vaccine-technology-covid-19-durability/index.html)
+- [Powering Starlink on the go with Tesla Model 3](https://blog.oxplot.com/powering-starlink-on-the-go-with-tesla-model-3/)
+- [Extraterritoriality](https://www.britannica.com/topic/extraterritoriality)
+- [Use filters for YouTube search so you can actually find stuff](https://xn--1-zfa.com/youtube/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

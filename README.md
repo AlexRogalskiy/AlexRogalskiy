@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Useless Use of &quot;dd&quot;](https://www.vidarholen.net/contents/blog/?p=479)
-- [Russian Ruble Is World’s Best Currency This Year](https://www.bloomberg.com/news/articles/2022-05-11/russian-ruble-surpasses-brazilian-real-as-world-s-best-currency)
-- [Is This a Tank?](https://acoup.blog/2022/05/13/collections-ancient-tanks-chariots-scythed-chariots-and-carroballistae/)
-- [Empirical Notes on Kissing](https://belkarx.github.io/posts/finished/Empirical%20Notes%20on%20Kissing.html)
-- [Discovered a 63kb tiddlywiki like self saving HTML+JS wiki and its looking cool](https://feather.wiki/)
-- [Blinkenlights: PC Binary Emulating Visualizer](https://justine.lol/blinkenlights/)
-- [MasterCard to launch biometric checkout tool for retailers](https://www.retaildive.com/news/mastercard-biometric-checkout-retailers/624056/)
-- [“What if it changes?”](https://chriskiehl.com/article/the-tyranny-of-what-if-it-changes)
-- [Details on AMD&#39;s Quirky Chipset Solutions for AM5](https://angstronomics.substack.com/p/site-launch-exclusive-all-the-juicy)
-- [Simple software things that are actually very complicated](https://www.construct.net/en/blogs/ashleys-blog-2/simple-software-things-1587)
+- [Would the World Be Better Off Without Philanthropists?](https://www.newyorker.com/magazine/2022/05/30/would-the-world-be-better-off-without-philanthropists-paul-vallely-emma-saunders-hastings)
+- [The Future of the Gitlab Web IDE](https://about.gitlab.com/blog/2022/05/23/the-future-of-the-gitlab-web-ide/)
+- [Skydiving salamanders live in world’s tallest trees](https://news.berkeley.edu/2022/05/23/skydiving-salamanders-live-in-worlds-tallest-trees/)
+- [Expert: Monkeypox likely spread by sex at 2 raves in Europe](https://apnews.com/article/health-world-organization-united-nations-animals-72a9efaaf5b55ace396398b839847505)
+- [Starlink for RVs](https://www.starlink.com/rv)
+- [Show HN: IndigoStack – a new native macOS app for local web development](https://indigostack.app/)
+- [First human injected with cancer-killing virus in clinical trial](https://www.cancer.gov/about-cancer/treatment/clinical-trials/search/v?id=NCI-2021-08983)
+- [Quality assurance workers at Activision Blizzard subsidiary unionize](https://www.latimes.com/business/story/2022-05-23/quality-assurance-union-at-activision-blizzard-subsidiary)
+- [Growing food in hard clay](https://www.unprepared.life/p/how-one-woman-grows-food-in-hard)
+- [Next.js Layouts RFC: Nested routes and layouts, designed for Server Components](https://nextjs.org/blog/layouts-rfc)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

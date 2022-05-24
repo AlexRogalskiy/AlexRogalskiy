@@ -429,6 +429,7 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Cyber Security Today, May 23, 2022 – A work from home warning, students are victims of ransomware, and more](https://www.itworldcanada.com/article/cyber-security-today-may-23-2022-a-work-from-home-warning-students-are-victims-of-ransomware-and-more/485328)
 - [This Week in Ransomware – Friday, May 20th 2022](https://www.itworldcanada.com/article/this-week-in-ransomware-friday-may-20th-2022/485311)
 - [Cyber Security Today, Week in Review for Friday May 20, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-may-20-2022/485031)
 - [RBC adds PIN authentication to its mobile banking app](https://www.itworldcanada.com/article/rbc-adds-pin-authentication-to-its-mobile-banking-app/485288)
@@ -438,7 +439,6 @@
 - [Cyber Security Today, May 20, 2022 – A look inside the Wizard Spider hacking gang](https://www.itworldcanada.com/article/cyber-security-today-may-20-2022-a-look-inside-the-wizard-spider-hacking-gang/485068)
 - [Hashtag Trending May 20 – Google Russia bankruptcy; Netflix loses loyal subscribers; and IT admin wipes four servers](https://www.itworldcanada.com/article/hashtag-trending-may-20-google-russia-bankruptcy-netflix-loses-loyal-subscribers-and-it-admin-wipes-four-servers/485063)
 - [Huawei, ZTE to be banned from Canada’s 5G/4G networks](https://www.itworldcanada.com/article/huawei-zte-to-be-banned-from-canadas-5g-4g-networks/485087)
-- [Strata Identity launches open-source project enabling multi-cloud access policy management for organizations](https://www.itworldcanada.com/article/strata-identity-launches-open-source-project-enabling-multi-cloud-access-policy-management-for-organizations/485076)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

@@ -354,6 +354,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Hey Microsoft! Is anyone there listening?](https://www.computerworld.com/article/3661670/hey-microsoft-is-anyone-there-listening.html#tk.rss_all)
+- [We already know how Apple will prosper in uncertainty](https://www.computerworld.com/article/3661592/we-already-know-how-apple-will-prosper-in-uncertainty.html#tk.rss_all)
+- [What Gen Z and millennials want from employers](https://www.computerworld.com/article/3661170/what-gen-z-and-millennials-want-from-employers.html#tk.rss_all)
 - [The essential guide to iCloud login](https://www.computerworld.com/article/3661355/the-essential-guide-to-icloud-login.html#tk.rss_all)
 - [Some tech firms hit the pause button on hiring](https://www.computerworld.com/article/3661356/some-tech-firms-hit-the-pause-button-on-hiring.html#tk.rss_all)
 - [Customer obsession begins with owning the customer’s problem](https://www.computerworld.com/article/3661432/customer-obsession-begins-with-owning-the-customer-s-problem.html#tk.rss_all)
@@ -361,9 +364,6 @@
 - [Podcast: Could hardware supply chain issues upend Apple’s WWDC plans?](https://www.computerworld.com/article/3661349/podcast-could-hardware-supply-chain-issues-upend-apples-wwdc-plans.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [How multiverse simulation can speed up innovation](https://www.computerworld.com/article/3661430/how-multiverse-simulation-can-speed-up-innovation.html#tk.rss_all)
-- [Microsoft pledges changes to European cloud licensing policies](https://www.computerworld.com/article/3661429/microsoft-pledges-changes-to-european-cloud-licensing-policies.html#tk.rss_all)
-- [The Future of Work? There&#39;s an app for that: Airbnb!](https://www.computerworld.com/article/3660519/the-future-of-work-theres-an-app-for-that-airbnb.html#tk.rss_all)
-- [How to avoid paying Apple for extra iCloud storage](https://www.computerworld.com/article/2476176/mac-os-x-how-to-avoid-paying-apple-for-extra-icloud-storage.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

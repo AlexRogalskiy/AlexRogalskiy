@@ -414,6 +414,9 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [What is my job title? Helpdesk/sysadmin](https://www.reddit.com/r/InformationTechnology/comments/ux3akl/what_is_my_job_title_helpdesksysadmin/)
+- [OSTechnical IT Staffing](https://www.reddit.com/r/InformationTechnology/comments/ux0zr3/ostechnical_it_staffing/)
+- [C drive on disc 0 is full, I have a decent amount of unallocated space on disc 1. How can I sort this out to utilise all this unused space and relieve the pressure on my poor C drive?](https://www.reddit.com/r/InformationTechnology/comments/ux0x3y/c_drive_on_disc_0_is_full_i_have_a_decent_amount/)
 - [Defunct IT Department](https://www.reddit.com/r/InformationTechnology/comments/uw5sft/defunct_it_department/)
 - [Dealing with Executives](https://www.reddit.com/r/InformationTechnology/comments/uw26lx/dealing_with_executives/)
 - [I&#39;m looking for software with specific features for a company. I want employees to access images, search them by keywords, and upload new images with new keywords. Is there something like that?](https://www.reddit.com/r/InformationTechnology/comments/uvoj0v/im_looking_for_software_with_specific_features/)
@@ -421,9 +424,6 @@
 - [Can my property find out that I set up a WiFi smart camera in my room?](https://www.reddit.com/r/InformationTechnology/comments/uuszb0/can_my_property_find_out_that_i_set_up_a_wifi/)
 - [How to get started?](https://www.reddit.com/r/InformationTechnology/comments/uuh8m4/how_to_get_started/)
 - [help desk info?](https://www.reddit.com/r/InformationTechnology/comments/uudogn/help_desk_info/)
-- [Anyone have experience in the WGU IT program?](https://www.reddit.com/r/InformationTechnology/comments/uu7tq3/anyone_have_experience_in_the_wgu_it_program/)
-- [How to Migrate Data From One Desktop to Another?](https://www.reddit.com/r/InformationTechnology/comments/uu75nb/how_to_migrate_data_from_one_desktop_to_another/)
-- [For these free training days that Microsoft does &lpar;that give you a free cert voucher&rpar;, are they are recorded so that you can view them later in the day?](https://www.reddit.com/r/InformationTechnology/comments/uu3uvq/for_these_free_training_days_that_microsoft_does/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

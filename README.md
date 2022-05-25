@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ninth sandstorm in less than two months shuts down much of Iraq](https://www.theguardian.com/world/2022/may/24/ninth-sandstorm-in-less-than-two-months-shuts-down-much-of-iraq)
-- [Toothaches and waiting lists: where did the NHS dentists go? - podcast](https://www.theguardian.com/news/audio/2022/may/24/toothaches-waiting-lists-where-did-nhs-dentists-go-podcast)
-- [New York subpoenas Trump’s longtime assistant in business dealings inquiry](https://www.theguardian.com/us-news/2022/may/23/donald-trump-rhona-graff-new-york-subpoena-trump-organization)
-- [Russia-Ukraine war: what we know on day 90 of the invasion](https://www.theguardian.com/world/2022/may/24/russia-ukraine-war-what-we-know-on-day-90-of-the-invasion)
-- [Top official at Foreign Office called upon to resign over Kabul withdrawal](https://www.theguardian.com/politics/2022/may/24/top-official-at-foreign-office-called-upon-to-resign-over-kabul-withdrawal-sir-philip-barton-dominic-raab)
-- [‘This is a generational moment’: civil rights group for black Britons launches](https://www.theguardian.com/world/2022/may/24/black-equity-organisation-civil-rights-group-for-black-britons-launches)
-- [Girl tried to kill herself after strip-search by Met officers, mother says](https://www.theguardian.com/uk-news/2022/may/24/girl-tried-to-kill-herself-after-strip-search-by-met-officers-mother-says)
-- [Naomi Osaka may skip Wimbledon ‘exhibition’ after ranking points removal](https://www.theguardian.com/sport/2022/may/23/naomi-osaka-skip-wimbledon-french-open-tennis)
-- [Surgeon casts doubt on Johnny Depp’s account of how he severed finger](https://www.theguardian.com/us-news/2022/may/23/johnny-depp-amber-heard-severed-finger-defamation-trial)
-- [Everton’s Calvert-Lewin reveals ‘talking saved my life’ during injury-hit season](https://www.theguardian.com/football/2022/may/23/evertons-dominic-calvert-lewin-reveals-talking-saved-my-life)
+- [Texas school shooting: Biden calls for ‘turning pain into action’ on gun laws after 21 killed – latest updates](https://www.theguardian.com/us-news/live/2022/may/24/texas-elementary-school-shooting-uvalde-latest)
+- [North Korea fires suspected ICBM and two other missiles into sea, says Seoul](https://www.theguardian.com/world/2022/may/24/north-korea-fires-ballistic-missile-off-its-east-coast-says-seoul)
+- [How worried should we be about monkeypox? – podcast](https://www.theguardian.com/news/audio/2022/may/25/how-worried-should-we-be-about-monkeypox-podcast)
+- [Confusion in Lagos as passenger plane is towed along highway](https://www.theguardian.com/world/2022/may/25/confusion-in-lagos-as-passenger-plane-is-towed-along-highway)
+- [Wins for Kemp and Carr in Georgia show Trump’s grip on GOP slipping](https://www.theguardian.com/us-news/2022/may/24/georgia-primary-elections-kemp-carr-trump)
+- [Russia-Ukraine war: what we know on day 91 of the invasion](https://www.theguardian.com/world/2022/may/25/russia-ukraine-war-what-we-know-on-day-91-of-the-invasion)
+- [Thousands of detained Uyghurs pictured in leaked Xinjiang police files](https://www.theguardian.com/world/2022/may/24/thousands-of-detained-uyghurs-pictured-in-leaked-xinjiang-police-files)
+- [Most women of colour ‘hide’ their heritage due to UK workplace racism](https://www.theguardian.com/world/2022/may/25/most-women-of-colour-hide-their-heritage-due-to-uk-workplace-racism)
+- [Gene editing could increase food security, UK adviser says](https://www.theguardian.com/science/2022/may/25/gene-editing-could-increase-food-security-uk-adviser-says)
+- [Jo-Wilfried Tsonga ends tennis career with emotional French Open farewell](https://www.theguardian.com/sport/2022/may/24/jo-wilfried-tsonga-bids-emotional-farewell-as-career-draws-to-a-close)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

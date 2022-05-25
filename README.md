@@ -369,6 +369,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Quick Study: Low Code/No Code for the Business Side](https://www.informationweek.com/devops/quick-study-low-code-no-code-for-the-business-side)
+- [IT Support for Edge Computing: Strategies to Make it Easier](https://www.informationweek.com/big-data/it-support-for-edge-computing-strategies-to-make-it-easier)
 - [Google Cloud to Offer Security-Vetted Open Source Software](https://www.informationweek.com/cloud/google-cloud-to-offer-security-vetted-open-source-software)
 - [Evolving Business Risk Drives Embrace of New Insurance Tech](https://www.informationweek.com/cloud/evolving-business-risk-drives-embrace-of-new-insurance-tech)
 - [Try the Simplest Thing First to Address Hybrid Network Performance Issues](https://www.informationweek.com/it-life/try-the-simplest-thing-first-to-address-hybrid-network-performance-issues)
@@ -377,8 +379,6 @@
 - [Beware of False Networking and Security Convergence Claims](https://www.informationweek.com/security-and-risk-strategy/beware-of-false-networking-and-security-convergence-claims)
 - [Best Practices for Measuring Digital Investment Success](https://www.informationweek.com/big-data/best-practices-for-measuring-digital-investment-success)
 - [Who Is Responsible for a Secure, Mission-Oriented Network?](https://www.informationweek.com/security-and-risk-strategy/who-is-responsible-for-a-secure-mission-oriented-network-)
-- [From Home Office to HQ: Consumerization of Wi-Fi 6E](https://www.informationweek.com/it-life/from-home-office-to-hq-consumerization-of-wi-fi-6e)
-- [Top No-Pain Perks You Can Use to Retain IT Staff](https://www.informationweek.com/team-building-and-staffing/top-no-pain-perks-you-can-use-to-retain-it-staff)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

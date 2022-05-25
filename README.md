@@ -384,16 +384,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Informatica’s Data Management Cloud gets new data engineering, MLOps tools](https://www.infoworld.com/article/3661674/informatica-s-data-management-cloud-gets-new-data-engineering-mlops-tools.html#tk.rss_all)
+- [GitHub Copilot AI coding assistant due this summer](https://www.infoworld.com/article/3661436/github-copilot-ai-coding-assistant-due-this-summer.html#tk.rss_all)
+- [Build 2022: Power Platform gets more web development tools and AI assistance](https://www.infoworld.com/article/3661556/build-2022-power-platform-gets-more-web-development-tools-and-ai-assistance.html#tk.rss_all)
+- [How API gateways complement ESBs](https://www.infoworld.com/article/3661696/how-api-gateways-complement-esbs.html#tk.rss_all)
+- [Cloud architecture by committee is always a bad idea](https://www.infoworld.com/article/3661695/cloud-architecture-by-committee-is-always-a-bad-idea.html#tk.rss_all)
 - [Thoughtworks weighs in on multicloud](https://www.infoworld.com/article/3661693/thoughtworks-weighs-in-on-multicloud.html#tk.rss_all)
 - [You’re missing the boat on cloud-native](https://www.infoworld.com/article/3661590/youre-missing-the-boat-on-cloud-native.html#tk.rss_all)
 - [Red Hat ditches CodeReady name for dev environments](https://www.infoworld.com/article/3661551/red-hat-ditches-codeready-name-for-in-browser-and-local-dev-environments.html#tk.rss_all)
 - [Project Leyden set to bring faster startups to Java](https://www.infoworld.com/article/3661359/project-leyden-set-to-bring-faster-startups-to-java.html#tk.rss_all)
 - [9 nifty libraries for profiling Python code](https://www.infoworld.com/article/3600993/9-nifty-libraries-for-profiling-python-code.html#tk.rss_all)
-- [What is JPA? Introduction to the Jakarta Persistence API](https://www.infoworld.com/article/3379043/what-is-jpa-introduction-to-the-java-persistence-api.html#tk.rss_all)
-- [Understand the trade-offs with reactive and proactive cloudops](https://www.infoworld.com/article/3661431/understand-the-trade-offs-with-reactive-and-proactive-cloudops.html#tk.rss_all)
-- [What’s new in Rust 1.61](https://www.infoworld.com/article/3267624/whats-new-in-the-rust-language.html#tk.rss_all)
-- [OpenFeature feature flag project applies for CNCF sandbox project status](https://www.infoworld.com/article/3661548/feature-flagging-openfeature-project-applies-for-cncf-sandbox-project-status.html#tk.rss_all)
-- [Java concurrency could be about to get easier](https://www.infoworld.com/article/3661310/java-concurrency-could-be-about-to-get-easier.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

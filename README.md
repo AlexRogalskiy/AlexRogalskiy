@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Would the World Be Better Off Without Philanthropists?](https://www.newyorker.com/magazine/2022/05/30/would-the-world-be-better-off-without-philanthropists-paul-vallely-emma-saunders-hastings)
-- [The Future of the Gitlab Web IDE](https://about.gitlab.com/blog/2022/05/23/the-future-of-the-gitlab-web-ide/)
-- [Skydiving salamanders live in world’s tallest trees](https://news.berkeley.edu/2022/05/23/skydiving-salamanders-live-in-worlds-tallest-trees/)
-- [Expert: Monkeypox likely spread by sex at 2 raves in Europe](https://apnews.com/article/health-world-organization-united-nations-animals-72a9efaaf5b55ace396398b839847505)
-- [Starlink for RVs](https://www.starlink.com/rv)
-- [Show HN: IndigoStack – a new native macOS app for local web development](https://indigostack.app/)
-- [First human injected with cancer-killing virus in clinical trial](https://www.cancer.gov/about-cancer/treatment/clinical-trials/search/v?id=NCI-2021-08983)
-- [Quality assurance workers at Activision Blizzard subsidiary unionize](https://www.latimes.com/business/story/2022-05-23/quality-assurance-union-at-activision-blizzard-subsidiary)
-- [Growing food in hard clay](https://www.unprepared.life/p/how-one-woman-grows-food-in-hard)
-- [Next.js Layouts RFC: Nested routes and layouts, designed for Server Components](https://nextjs.org/blog/layouts-rfc)
+- [The Era of Borderless Data Is Ending](https://www.nytimes.com/2022/05/23/technology/data-privacy-laws.html)
+- [Not My Job](https://blog.dbsmasher.com/2022/05/24/not-my-job.html)
+- [Bicycles Have Evolved. Have We?](https://www.newyorker.com/magazine/2022/05/30/bicycles-have-evolved-have-we-jody-rosen-two-wheels-good)
+- [The great junk transfer is coming](https://www.theglobeandmail.com/canada/article-the-great-junk-transfer-inheritance-decluttering-canada/)
+- [Make Tracker Tunes in the Browser](https://www.stef.be/bassoontracker/)
+- [How we fixed the ozone layer &lpar;2021&rpar;](https://www.worksinprogress.co/issue/how-we-fixed-the-ozone-layer/)
+- [Tracking Heat Records in 400 U.S. Cities](https://pudding.cool/projects/heat-records/)
+- [On rebooting: the unreasonable effectiveness of turning computers off and on](https://keunwoo.com/notes/rebooting/)
+- [Tesorio &lpar;YC S15&rpar; Is Hiring Senior Quality Engineers, PMs, Recruiting Manager](https://www.tesorio.com/careers#job-openings)
+- [Kids in the Hall: Comedy Punks](https://www.nytimes.com/2022/05/24/arts/television/kids-in-the-hall-documentary.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

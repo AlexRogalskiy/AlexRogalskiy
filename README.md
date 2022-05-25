@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Starlink announces new service for RVs: $30 more and no waitlist](https://www.itworldcanada.com/article/starlink-announces-new-service-for-rvs-30-more-and-no-waitlist/485435)
+- [Telus to invest C$11 billion in Quebec in the next four years](https://www.itworldcanada.com/article/telus-to-invest-c11-billion-in-quebec-in-the-next-four-years/485427)
+- [Human error tops causes of data breaches, says Verizon report](https://www.itworldcanada.com/article/human-error-tops-causes-of-data-breaches-says-verizon-report/485343)
+- [Conti ransomware brand is dead, but gang restructures: Report](https://www.itworldcanada.com/article/conti-ransomware-brand-is-dead-but-gang-restructures-report/485319)
+- [Hashtag Trending May 24 – Meta sued over Cambridge Analytica; Teslas strain Texas power grid; Hyundai opens its first U.S. plant](https://www.itworldcanada.com/article/hashtag-trending-may-24-meta-sued-over-cambridge-analytica-teslas-strain-texas-power-grid-hyundai-opens-its-first-u-s-plant/485352)
+- [Coffee Briefing May 24, 2022 – Register now for ITWC Digital Tranformation Conference; Converge to acquire Technology Integration Group; Apple’s privacy ad campaign; and more](https://www.itworldcanada.com/article/coffee-briefing-may-24-2022-register-now-for-itwc-digital-tranformation-conference-converge-to-acquire-technology-integration-group-apples-privacy-ad-campaign-and-more/485337)
 - [Cyber Security Today, May 23, 2022 – A work from home warning, students are victims of ransomware, and more](https://www.itworldcanada.com/article/cyber-security-today-may-23-2022-a-work-from-home-warning-students-are-victims-of-ransomware-and-more/485328)
 - [This Week in Ransomware – Friday, May 20th 2022](https://www.itworldcanada.com/article/this-week-in-ransomware-friday-may-20th-2022/485311)
 - [Cyber Security Today, Week in Review for Friday May 20, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-may-20-2022/485031)
 - [RBC adds PIN authentication to its mobile banking app](https://www.itworldcanada.com/article/rbc-adds-pin-authentication-to-its-mobile-banking-app/485288)
-- [Ten hybrid workplace trends you may not be prepared for](https://www.itworldcanada.com/article/ten-hybrid-workplace-trends-you-may-not-be-prepared-for/485108)
-- [BlackBerry signs agreement with Magna to collaborate on ADAS solutions](https://www.itworldcanada.com/article/blackberry-signs-agreement-with-magna-to-collaborate-on-adas-solutions/485186)
-- [Round13 launches a dedicated fund to invest in blockchain and digital asset market; raises US$70 million to date](https://www.itworldcanada.com/article/round13-launches-a-dedicated-fund-to-invest-in-blockchain-and-digital-asset-market-raises-us70-million-to-date/485163)
-- [Cyber Security Today, May 20, 2022 – A look inside the Wizard Spider hacking gang](https://www.itworldcanada.com/article/cyber-security-today-may-20-2022-a-look-inside-the-wizard-spider-hacking-gang/485068)
-- [Hashtag Trending May 20 – Google Russia bankruptcy; Netflix loses loyal subscribers; and IT admin wipes four servers](https://www.itworldcanada.com/article/hashtag-trending-may-20-google-russia-bankruptcy-netflix-loses-loyal-subscribers-and-it-admin-wipes-four-servers/485063)
-- [Huawei, ZTE to be banned from Canada’s 5G/4G networks](https://www.itworldcanada.com/article/huawei-zte-to-be-banned-from-canadas-5g-4g-networks/485087)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

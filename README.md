@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [I tried Google&#39;s new job interview practice tool and I want to cry](https://www.zdnet.com/article/i-tried-googles-new-job-interview-practice-tool-and-i-want-to-cry/)
-- [Day – 1 Get Going with Go](https://blog.justjordant.com/day-1-get-going-with-go)
-- [I have resigned all my positions in ISO C++ in protest](https://twitter.com/sempuki1/status/1528481986540515329)
-- [The Average SaaS Leader Grows 54% at $1B in ARR](https://www.saastr.com/the-average-saas-leader-grows-at-1-billion-in-arr/)
-- [Klarna lays off 10% of its workforce](https://techcrunch.com/2022/05/23/klarna-lays-off-10-of-its-workforce/)
-- [Healthtech Startup MFine Fires 75% Workforce, 600 Employees Impacted](https://inc42.com/buzz/exclusive-healthtech-startup-mfine-fires-600-employees/)
-- [The quest for longer-lasting Covid-19 vaccines](https://www.cnn.com/2022/05/20/health/mrna-vaccine-technology-covid-19-durability/index.html)
-- [Powering Starlink on the go with Tesla Model 3](https://blog.oxplot.com/powering-starlink-on-the-go-with-tesla-model-3/)
-- [Extraterritoriality](https://www.britannica.com/topic/extraterritoriality)
-- [Use filters for YouTube search so you can actually find stuff](https://xn--1-zfa.com/youtube/)
+- [A Timeline of Car Radio History](https://magazine.northeast.aaa.com/daily/life/cars-trucks/auto-history/a-timeline-of-car-radio-history/)
+- [Ask HN: What do you want to learn next?](https://news.ycombinator.com/item?id=31500178)
+- [Naur on Programming as Theory Building &lpar;1985&rpar; [pdf]](https://pages.cs.wisc.edu/~remzi/Naur.pdf)
+- [Remote desktop client with RDP, SSH, SPICE, VNC, and X2Go protocol support](https://remmina.org/)
+- [A Software Engineer’s Guide to Model Serving](https://modelserving.com/blog/a-software-engineers-guide-to-model-serving)
+- [Fixing Memory Leaks in Rust](https://onesignal.com/blog/solving-memory-leaks-in-rust/)
+- [The Data-Oriented Design Process for Game Development](https://ieeexplore.ieee.org/document/9771161/)
+- [Samsung Electronics and Red Hat Announce Collaboration in Memory Software](https://news.samsung.com/global/samsung-electronics-and-red-hat-announce-collaboration-in-the-field-of-next-generation-memory-software)
+- [Searches for “recession” higher than in Jan 2008](https://trends.google.com/trends/explore?date=all&geo=US&q=recession)
+- [Single-View View Synthesis in the Wild with Learned Adaptive Multiplane Images](https://yxuhan.github.io/AdaMPI/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

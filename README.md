@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Workers planning &#39;bleisure&#39; trips this summer spur travel demand](https://www.computerworld.com/article/3661559/workers-planning-bleisure-trips-this-summer-spur-travel-demand.html#tk.rss_all)
+- [Adobe tightens Microsoft integration for document management, validation](https://www.computerworld.com/article/3661673/adobe-tightens-microsoft-integration-for-document-management-validation.html#tk.rss_all)
+- [Apple is building a transformative platform for AR](https://www.computerworld.com/article/3661360/apple-is-building-a-transformative-platform-for-ar.html#tk.rss_all)
+- [Software QA workers at Activision vote to unionize](https://www.computerworld.com/article/3661671/software-qa-workers-at-activision-vote-to-unionize.html#tk.rss_all)
+- [The 5 best SMB storage clouds](https://www.computerworld.com/article/3661697/the-5-best-smb-storage-clouds.html#tk.rss_all)
+- [PDF to Excel conversion: Your ultimate guide to the best tools](https://www.computerworld.com/article/3660643/pdf-to-excel-conversion-ultimate-guide-best-tools.html#tk.rss_all)
 - [Hey Microsoft! Is anyone there listening?](https://www.computerworld.com/article/3661670/hey-microsoft-is-anyone-there-listening.html#tk.rss_all)
 - [We already know how Apple will prosper in uncertainty](https://www.computerworld.com/article/3661592/we-already-know-how-apple-will-prosper-in-uncertainty.html#tk.rss_all)
 - [What Gen Z and millennials want from employers](https://www.computerworld.com/article/3661170/what-gen-z-and-millennials-want-from-employers.html#tk.rss_all)
 - [The essential guide to iCloud login](https://www.computerworld.com/article/3661355/the-essential-guide-to-icloud-login.html#tk.rss_all)
-- [Some tech firms hit the pause button on hiring](https://www.computerworld.com/article/3661356/some-tech-firms-hit-the-pause-button-on-hiring.html#tk.rss_all)
-- [Customer obsession begins with owning the customer’s problem](https://www.computerworld.com/article/3661432/customer-obsession-begins-with-owning-the-customer-s-problem.html#tk.rss_all)
-- [What’s so great about Google’s ‘translation glasses’?](https://www.computerworld.com/article/3661209/what-s-so-great-about-google-s-translation-glasses.html#tk.rss_all)
-- [Podcast: Could hardware supply chain issues upend Apple’s WWDC plans?](https://www.computerworld.com/article/3661349/podcast-could-hardware-supply-chain-issues-upend-apples-wwdc-plans.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [How multiverse simulation can speed up innovation](https://www.computerworld.com/article/3661430/how-multiverse-simulation-can-speed-up-innovation.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

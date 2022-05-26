@@ -369,6 +369,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Salary Survey: IT Gender Pay Gap Keeps Growing](https://www.informationweek.com/strategic-cio/salary-survey-it-gender-pay-gap-keeps-growing)
+- [CIOs Take Center Stage on ESG Strategies, Battling an Overflow of Data](https://www.informationweek.com/big-data/cios-take-center-stage-on-esg-strategies-battling-an-overflow-of-data)
+- [News Reports Say Broadcom Seeks VMware Acquisition](https://www.informationweek.com/cloud/news-reports-say-broadcom-seeks-vmware-acquisition)
 - [Quick Study: Low Code/No Code for the Business Side](https://www.informationweek.com/devops/quick-study-low-code-no-code-for-the-business-side)
 - [IT Support for Edge Computing: Strategies to Make it Easier](https://www.informationweek.com/big-data/it-support-for-edge-computing-strategies-to-make-it-easier)
 - [Google Cloud to Offer Security-Vetted Open Source Software](https://www.informationweek.com/cloud/google-cloud-to-offer-security-vetted-open-source-software)
@@ -376,9 +379,6 @@
 - [Try the Simplest Thing First to Address Hybrid Network Performance Issues](https://www.informationweek.com/it-life/try-the-simplest-thing-first-to-address-hybrid-network-performance-issues)
 - [What Federal Privacy Policy Might Look Like If Passed](https://www.informationweek.com/big-data-analytics/what-federal-privacy-policy-might-look-like-if-passed)
 - [Agility in DevOps: What’s Holding Enterprises Back?](https://www.informationweek.com/devops/agility-in-devops-what-s-holding-enterprises-back-)
-- [Beware of False Networking and Security Convergence Claims](https://www.informationweek.com/security-and-risk-strategy/beware-of-false-networking-and-security-convergence-claims)
-- [Best Practices for Measuring Digital Investment Success](https://www.informationweek.com/big-data/best-practices-for-measuring-digital-investment-success)
-- [Who Is Responsible for a Secure, Mission-Oriented Network?](https://www.informationweek.com/security-and-risk-strategy/who-is-responsible-for-a-secure-mission-oriented-network-)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [IR35 reforms: PAC report blames HMRC for ‘widespread non-compliance’ in public sector](https://www.computerweekly.com/news/252520657/IR35-reforms-PAC-report-blames-HMRC-for-widespread-non-compliance-in-public-sector)
+- [New inquiry looks at the state of UK chips](https://www.computerweekly.com/news/252520659/New-enquiry-looks-at-the-state-of-UK-chips)
+- [Building a pathway to commercial quantum computing](https://www.computerweekly.com/news/252520655/Building-a-pathway-to-commercial-quantum-computing)
+- [How to leverage the artificial intelligence solar system](https://www.computerweekly.com/opinion/How-to-leverage-the-artificial-intelligence-solar-system)
+- [Google Cloud expands European presence with opening of Madrid region](https://www.computerweekly.com/news/252520616/Google-Cloud-expands-European-presence-with-opening-of-Madrid-region)
 - [ICO orders facial recognition firm Clearview AI to delete all data about UK residents](https://www.computerweekly.com/news/252520622/ICO-orders-facial-recognition-firm-Clearview-AI-to-delete-all-data-about-UK-residents)
 - [Ransomware volumes grew faster than ever in 2021](https://www.computerweekly.com/news/252520615/Ransomware-volumes-grew-faster-than-ever-in-2021)
 - [Durham University upgrades cosmology supercomputer to switchless architecture with Rockport Networks](https://www.computerweekly.com/news/252520606/Durham-University-upgrades-cosmology-supercomputer-to-switchless-architecture-with-Rockport-Networks)
 - [Set innovation free and make great ideas a reality](https://www.computerweekly.com/ezine/Computer-Weekly/Set-innovation-free-and-make-great-ideas-a-reality)
 - [Winners of 2022 Makers Women in Software Power List announced](https://www.computerweekly.com/news/252520528/Winners-of-2022-Makers-Women-in-Software-Power-List-announced)
-- [Did the Conti ransomware crew orchestrate its own demise?](https://www.computerweekly.com/news/252520524/Did-the-Conti-ransomware-crew-orchestrate-its-own-demise)
-- [UKtech50 2022: The longlist of the UK&#39;s influential tech leaders](https://www.computerweekly.com/news/252518167/UKtech50-2022-The-longlist-of-the-UKs-influential-tech-leaders)
-- [Security Think Tank: Understanding attack paths is a question of training](https://www.computerweekly.com/opinion/Security-Think-Tank-Understanding-attack-paths-is-a-question-of-training)
-- [Microsoft urged to do more to address European cloud antitrust complaints](https://www.computerweekly.com/news/252518486/Microsoft-urged-to-do-more-to-address-European-cloud-antitrust-complaints)
-- [Applying international law to cyber will be a tall order](https://www.computerweekly.com/news/252518479/Applying-international-law-to-cyber-will-be-a-tall-order)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

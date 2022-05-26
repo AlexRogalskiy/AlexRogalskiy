@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [A Timeline of Car Radio History](https://magazine.northeast.aaa.com/daily/life/cars-trucks/auto-history/a-timeline-of-car-radio-history/)
-- [Ask HN: What do you want to learn next?](https://news.ycombinator.com/item?id=31500178)
-- [Naur on Programming as Theory Building &lpar;1985&rpar; [pdf]](https://pages.cs.wisc.edu/~remzi/Naur.pdf)
-- [Remote desktop client with RDP, SSH, SPICE, VNC, and X2Go protocol support](https://remmina.org/)
-- [A Software Engineer’s Guide to Model Serving](https://modelserving.com/blog/a-software-engineers-guide-to-model-serving)
-- [Fixing Memory Leaks in Rust](https://onesignal.com/blog/solving-memory-leaks-in-rust/)
-- [The Data-Oriented Design Process for Game Development](https://ieeexplore.ieee.org/document/9771161/)
-- [Samsung Electronics and Red Hat Announce Collaboration in Memory Software](https://news.samsung.com/global/samsung-electronics-and-red-hat-announce-collaboration-in-the-field-of-next-generation-memory-software)
-- [Searches for “recession” higher than in Jan 2008](https://trends.google.com/trends/explore?date=all&geo=US&q=recession)
-- [Single-View View Synthesis in the Wild with Learned Adaptive Multiplane Images](https://yxuhan.github.io/AdaMPI/)
+- [Adding “Let’s think step by step” to GPT-3 increases accuracy on math problems](https://twitter.com/arankomatsuzaki/status/1529285884817707008)
+- [The Researcher’s Guide for Being Mind Blown by a Neural Network](https://www.lifeiscomputation.com/the-researchers-guide-for-being-mind-blown-by-a-neural-network/#more-3276)
+- [Personal Observability](https://sprkl.dev/)
+- [Imagen Open Source implementation from the same developer as the one for DALL-E2](https://github.com/lucidrains/imagen-pytorch)
+- [Collection of web experiments/tools/resources](https://experiments.withgoogle.com/collection/chrome)
+- [Unleash the trailers: End regulatory discrimination against manufactured housing](https://www.slowboring.com/p/trailer-regulation)
+- [Preventing Bots on Websites](https://stakedy.com/long/preventing-bots-on-websites.html)
+- [Yes, I was forced to be a child star. it was never my dream or my idea](https://wilwheaton.net/2022/05/yes-i-was-forced-to-be-a-child-star-it-was-never-my-dream-or-my-idea/)
+- [Take-Two and Zynga merge in the biggest deal in gaming history](https://www.pcgamer.com/take-two-and-zynga-merge-in-the-biggest-deal-in-gaming-history/)
+- [Evidence and strategies for alcohol control as crime control](https://www.manhattan-institute.org/evidence-and-strategies-for-alcohol-control-as-crime-control)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

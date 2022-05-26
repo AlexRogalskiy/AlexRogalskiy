@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Microsoft security vulnerabilities drop after five-year rise](https://www.csoonline.com/article/3662069/microsoft-security-vulnerabilities-drop-after-five-year-rise.html#tk.rss_all)
+- [Microsoft takes productivity, collaboration to the top floor at Build](https://www.computerworld.com/article/3662028/microsoft-takes-productivity-collaboration-to-the-top-floor-at-build.html#tk.rss_all)
+- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [Why you should pay more attention to Apple’s green slide](https://www.computerworld.com/article/3661702/why-you-should-pay-more-attention-to-apples-green-slide.html#tk.rss_all)
+- [About the Best Places to Work in IT](https://www.computerworld.com/article/3661814/about-best-places-to-work-in-it.html#tk.rss_all)
+- [Microsoft looks to make Teams screen-sharing more interactive with Live Share](https://www.computerworld.com/article/3661632/microsoft-looks-to-make-teams-screen-sharing-more-interactive-with-live-share.html#tk.rss_all)
+- [Android 13&#39;s dueling identities](https://www.computerworld.com/article/3661433/android-13-identities.html#tk.rss_all)
+- [How to use a smartphone as a mobile hotspot](https://www.computerworld.com/article/2499772/how-to-use-a-smartphone-as-a-mobile-hotspot.html#tk.rss_all)
 - [Workers planning &#39;bleisure&#39; trips this summer spur travel demand](https://www.computerworld.com/article/3661559/workers-planning-bleisure-trips-this-summer-spur-travel-demand.html#tk.rss_all)
-- [Adobe tightens Microsoft integration for document management, validation](https://www.computerworld.com/article/3661673/adobe-tightens-microsoft-integration-for-document-management-validation.html#tk.rss_all)
-- [Apple is building a transformative platform for AR](https://www.computerworld.com/article/3661360/apple-is-building-a-transformative-platform-for-ar.html#tk.rss_all)
-- [Software QA workers at Activision vote to unionize](https://www.computerworld.com/article/3661671/software-qa-workers-at-activision-vote-to-unionize.html#tk.rss_all)
-- [The 5 best SMB storage clouds](https://www.computerworld.com/article/3661697/the-5-best-smb-storage-clouds.html#tk.rss_all)
-- [PDF to Excel conversion: Your ultimate guide to the best tools](https://www.computerworld.com/article/3660643/pdf-to-excel-conversion-ultimate-guide-best-tools.html#tk.rss_all)
-- [Hey Microsoft! Is anyone there listening?](https://www.computerworld.com/article/3661670/hey-microsoft-is-anyone-there-listening.html#tk.rss_all)
-- [We already know how Apple will prosper in uncertainty](https://www.computerworld.com/article/3661592/we-already-know-how-apple-will-prosper-in-uncertainty.html#tk.rss_all)
-- [What Gen Z and millennials want from employers](https://www.computerworld.com/article/3661170/what-gen-z-and-millennials-want-from-employers.html#tk.rss_all)
-- [The essential guide to iCloud login](https://www.computerworld.com/article/3661355/the-essential-guide-to-icloud-login.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

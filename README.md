@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The Era of Borderless Data Is Ending](https://www.nytimes.com/2022/05/23/technology/data-privacy-laws.html)
-- [Not My Job](https://blog.dbsmasher.com/2022/05/24/not-my-job.html)
-- [Bicycles Have Evolved. Have We?](https://www.newyorker.com/magazine/2022/05/30/bicycles-have-evolved-have-we-jody-rosen-two-wheels-good)
-- [The great junk transfer is coming](https://www.theglobeandmail.com/canada/article-the-great-junk-transfer-inheritance-decluttering-canada/)
-- [Make Tracker Tunes in the Browser](https://www.stef.be/bassoontracker/)
-- [How we fixed the ozone layer &lpar;2021&rpar;](https://www.worksinprogress.co/issue/how-we-fixed-the-ozone-layer/)
-- [Tracking Heat Records in 400 U.S. Cities](https://pudding.cool/projects/heat-records/)
-- [On rebooting: the unreasonable effectiveness of turning computers off and on](https://keunwoo.com/notes/rebooting/)
-- [Tesorio &lpar;YC S15&rpar; Is Hiring Senior Quality Engineers, PMs, Recruiting Manager](https://www.tesorio.com/careers#job-openings)
-- [Kids in the Hall: Comedy Punks](https://www.nytimes.com/2022/05/24/arts/television/kids-in-the-hall-documentary.html)
+- [Startup Trail: The Game of Startup Survival](https://startuptrail.engine.is/)
+- [Early Copy Protection on the Apple II](https://fadden.com/apple2/cassette-protect.html)
+- [Generally Intelligent &lpar;YC S17&rpar; is hiring machine learning research engineers](https://news.ycombinator.com/item?id=31512985)
+- [Building an interface &lpar;even if there&#39;s only one implementation&rpar; is always right](https://vadosware.io/post/building-an-interface-with-one-implementation-is-unquestionably-right/)
+- [Lucid recalls all of its 2022 Air EVs](https://www.engadget.com/lucid-issues-recall-for-2022-air-evs-with-faulty-wiring-harness-151907286.html)
+- [Windows Update vs. My Router](https://michaelhorowitz.com/WindowsUpdate.vs.a.Router.php)
+- [Simple And Terrible Machines](https://noncombatant.org/2022/05/22/simple-terrible-machines/)
+- [Original Pong did not have any code or even a microprocessor](https://www.falstad.com/pong/)
+- [Tunnel.pyjam.as – HTTP tunnels without custom software thanks to WireGuard](https://tunnel.pyjam.as/)
+- [Mental illness, mass shootings, and the politics of American firearms &lpar;2015&rpar;](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4318286/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

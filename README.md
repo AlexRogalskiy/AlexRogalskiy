@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Mastercard Canada’s cyber centre of excellence adds collaboration facility](https://www.itworldcanada.com/article/mastercard-canadas-cyber-centre-of-excellence-adds-collaboration-facility/485575)
+- [Equifax Canada names Sandy Kyriakatos as its new chief data officer](https://www.itworldcanada.com/article/equifax-canada-names-sandy-kyriakatos-as-its-new-chief-data-officer/485458)
+- [Toronto-based company launches platform to help solve podcasters’ challenges](https://www.itworldcanada.com/article/toronto-based-company-launches-platform-to-help-solve-podcasters-challenges/485598)
+- [Canadian energy provider Suncor among firms vowing to increase cyber resiliency](https://www.itworldcanada.com/article/canadian-energy-provider-suncor-among-firms-vowing-to-increase-cyber-resiliency/485556)
+- [Cyber Security Today, May 25, 2022 – A Linux trojan is spreading, malware aimed at security researchers and more](https://www.itworldcanada.com/article/cyber-security-today-may-25-2022-a-linux-trojan-is-spreading-malware-aimed-at-security-researchers-and-more/485468)
+- [Hashtag Trending May 25 – Airbnb leaves China; Samsung to spend $360 billion on chips and biotech; Nvidia’s liquid-cooled graphics cards](https://www.itworldcanada.com/article/hashtag-trending-may-25-airbnb-pulls-out-of-china-samsung-raises-spending-to-360-billion-for-chips-and-biotech-nvidias-liquid-cooled-graphics-cards/485496)
 - [Starlink announces new service for RVs: $30 more and no waitlist](https://www.itworldcanada.com/article/starlink-announces-new-service-for-rvs-30-more-and-no-waitlist/485435)
 - [Telus to invest C$11 billion in Quebec in the next four years](https://www.itworldcanada.com/article/telus-to-invest-c11-billion-in-quebec-in-the-next-four-years/485427)
 - [Human error tops causes of data breaches, says Verizon report](https://www.itworldcanada.com/article/human-error-tops-causes-of-data-breaches-says-verizon-report/485343)
 - [Conti ransomware brand is dead, but gang restructures: Report](https://www.itworldcanada.com/article/conti-ransomware-brand-is-dead-but-gang-restructures-report/485319)
-- [Hashtag Trending May 24 – Meta sued over Cambridge Analytica; Teslas strain Texas power grid; Hyundai opens its first U.S. plant](https://www.itworldcanada.com/article/hashtag-trending-may-24-meta-sued-over-cambridge-analytica-teslas-strain-texas-power-grid-hyundai-opens-its-first-u-s-plant/485352)
-- [Coffee Briefing May 24, 2022 – Register now for ITWC Digital Tranformation Conference; Converge to acquire Technology Integration Group; Apple’s privacy ad campaign; and more](https://www.itworldcanada.com/article/coffee-briefing-may-24-2022-register-now-for-itwc-digital-tranformation-conference-converge-to-acquire-technology-integration-group-apples-privacy-ad-campaign-and-more/485337)
-- [Cyber Security Today, May 23, 2022 – A work from home warning, students are victims of ransomware, and more](https://www.itworldcanada.com/article/cyber-security-today-may-23-2022-a-work-from-home-warning-students-are-victims-of-ransomware-and-more/485328)
-- [This Week in Ransomware – Friday, May 20th 2022](https://www.itworldcanada.com/article/this-week-in-ransomware-friday-may-20th-2022/485311)
-- [Cyber Security Today, Week in Review for Friday May 20, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-may-20-2022/485031)
-- [RBC adds PIN authentication to its mobile banking app](https://www.itworldcanada.com/article/rbc-adds-pin-authentication-to-its-mobile-banking-app/485288)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

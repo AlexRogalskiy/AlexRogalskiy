@@ -384,16 +384,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [TypeScript 4.7 crosses the finish line](https://www.infoworld.com/article/3656801/typescript-47-crosses-the-finish-line.html#tk.rss_all)
+- [Microsoft .NET MAUI framework arrives](https://www.infoworld.com/article/3661362/microsoft-net-maui-framework-arrives.html#tk.rss_all)
+- [Google gets serious about Gitops](https://www.infoworld.com/article/3661366/google-gets-serious-about-gitops.html#tk.rss_all)
+- [CockroachDB’s 22.1 update aims to help prototype faster, scale on demand](https://www.infoworld.com/article/3661815/cockroachdbs-221-update-aims-to-help-prototype-faster-scale-on-demand.html#tk.rss_all)
+- [Review: Redpanda gives Kafka a run for its money](https://www.infoworld.com/article/3660628/review-redpanda-gives-kafka-a-run-for-its-money.html#tk.rss_all)
 - [Informatica’s Data Management Cloud gets new data engineering, MLOps tools](https://www.infoworld.com/article/3661674/informatica-s-data-management-cloud-gets-new-data-engineering-mlops-tools.html#tk.rss_all)
 - [GitHub Copilot AI coding assistant due this summer](https://www.infoworld.com/article/3661436/github-copilot-ai-coding-assistant-due-this-summer.html#tk.rss_all)
-- [Build 2022: Power Platform gets more web development tools and AI assistance](https://www.infoworld.com/article/3661556/build-2022-power-platform-gets-more-web-development-tools-and-ai-assistance.html#tk.rss_all)
+- [Introducing Microsoft’s Power Pages](https://www.infoworld.com/article/3661556/introducing-microsofts-power-pages.html#tk.rss_all)
 - [How API gateways complement ESBs](https://www.infoworld.com/article/3661696/how-api-gateways-complement-esbs.html#tk.rss_all)
 - [Cloud architecture by committee is always a bad idea](https://www.infoworld.com/article/3661695/cloud-architecture-by-committee-is-always-a-bad-idea.html#tk.rss_all)
-- [Thoughtworks weighs in on multicloud](https://www.infoworld.com/article/3661693/thoughtworks-weighs-in-on-multicloud.html#tk.rss_all)
-- [You’re missing the boat on cloud-native](https://www.infoworld.com/article/3661590/youre-missing-the-boat-on-cloud-native.html#tk.rss_all)
-- [Red Hat ditches CodeReady name for dev environments](https://www.infoworld.com/article/3661551/red-hat-ditches-codeready-name-for-in-browser-and-local-dev-environments.html#tk.rss_all)
-- [Project Leyden set to bring faster startups to Java](https://www.infoworld.com/article/3661359/project-leyden-set-to-bring-faster-startups-to-java.html#tk.rss_all)
-- [9 nifty libraries for profiling Python code](https://www.infoworld.com/article/3600993/9-nifty-libraries-for-profiling-python-code.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

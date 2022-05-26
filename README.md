@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Texas school shooting: Biden calls for ‘turning pain into action’ on gun laws after 21 killed – latest updates](https://www.theguardian.com/us-news/live/2022/may/24/texas-elementary-school-shooting-uvalde-latest)
-- [North Korea fires suspected ICBM and two other missiles into sea, says Seoul](https://www.theguardian.com/world/2022/may/24/north-korea-fires-ballistic-missile-off-its-east-coast-says-seoul)
-- [How worried should we be about monkeypox? – podcast](https://www.theguardian.com/news/audio/2022/may/25/how-worried-should-we-be-about-monkeypox-podcast)
-- [Confusion in Lagos as passenger plane is towed along highway](https://www.theguardian.com/world/2022/may/25/confusion-in-lagos-as-passenger-plane-is-towed-along-highway)
-- [Wins for Kemp and Carr in Georgia show Trump’s grip on GOP slipping](https://www.theguardian.com/us-news/2022/may/24/georgia-primary-elections-kemp-carr-trump)
-- [Russia-Ukraine war: what we know on day 91 of the invasion](https://www.theguardian.com/world/2022/may/25/russia-ukraine-war-what-we-know-on-day-91-of-the-invasion)
-- [Thousands of detained Uyghurs pictured in leaked Xinjiang police files](https://www.theguardian.com/world/2022/may/24/thousands-of-detained-uyghurs-pictured-in-leaked-xinjiang-police-files)
-- [Most women of colour ‘hide’ their heritage due to UK workplace racism](https://www.theguardian.com/world/2022/may/25/most-women-of-colour-hide-their-heritage-due-to-uk-workplace-racism)
-- [Gene editing could increase food security, UK adviser says](https://www.theguardian.com/science/2022/may/25/gene-editing-could-increase-food-security-uk-adviser-says)
-- [Jo-Wilfried Tsonga ends tennis career with emotional French Open farewell](https://www.theguardian.com/sport/2022/may/24/jo-wilfried-tsonga-bids-emotional-farewell-as-career-draws-to-a-close)
+- [Texas school shooting: gunman was inside for 40 minutes, officials say – latest updates](https://www.theguardian.com/us-news/live/2022/may/25/texas-school-shooting-news-victims-uvalde-elementary-school-latest-updates)
+- [Sue Gray day: the Partygate finale – podcast](https://www.theguardian.com/news/audio/2022/may/26/sue-gray-day-the-partygate-finale-podcast)
+- [‘Failure of leadership’: what the papers say about Johnson and the Sue Gray Partygate report](https://www.theguardian.com/politics/2022/may/26/failure-of-leadership-what-the-papers-say-johnson-partygate-sue-gray)
+- [‘He was just a loving little boy’: the victims of the Texas school shooting](https://www.theguardian.com/us-news/2022/may/25/uvalde-texas-school-shooting-victims)
+- [The rise of ‘bai lan’: why China’s frustrated youth are ready to ‘let it rot’](https://www.theguardian.com/world/2022/may/26/the-rise-of-bai-lan-why-chinas-frustrated-youth-are-ready-to-let-it-rot)
+- [Russia-Ukraine war: what we know on day 92 of the invasion](https://www.theguardian.com/world/2022/may/26/russia-ukraine-war-what-we-know-on-day-92-of-the-invasion)
+- [Biden signs police reform executive order on anniversary of George Floyd’s murder](https://www.theguardian.com/us-news/2022/may/25/biden-police-reform-executive-order-george-floyd)
+- [Deal proposed by China would dramatically expand security influence in Pacific](https://www.theguardian.com/world/2022/may/26/deal-proposed-by-china-would-dramatically-expand-security-influence-in-pacific)
+- [Twitter to pay $150m to settle claims it wrongly shared users’ phone numbers](https://www.theguardian.com/technology/2022/may/25/twitter-user-data-advertising-settlement)
+- [Duelling diplomacy in the Pacific should dispel the notion of a China-Australia reset | Richard McGregor](https://www.theguardian.com/commentisfree/2022/may/26/duelling-diplomacy-in-the-pacific-should-dispel-the-notion-of-a-china-australia-reset)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

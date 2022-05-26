@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Desperately need help for a school project.](https://www.reddit.com/r/InformationTechnology/comments/uxx7ef/desperately_need_help_for_a_school_project/)
+- [My Experience With an Amazon Scammer - How To Protect Yourself and Others!](https://www.reddit.com/r/InformationTechnology/comments/uxx6ii/my_experience_with_an_amazon_scammer_how_to/)
+- [Need help on thesis.](https://www.reddit.com/r/InformationTechnology/comments/uxrz5n/need_help_on_thesis/)
+- [Email Security - Guide To Safeguarding Users Against Phishing!](https://www.reddit.com/r/InformationTechnology/comments/ux88e3/email_security_guide_to_safeguarding_users/)
 - [What is my job title? Helpdesk/sysadmin](https://www.reddit.com/r/InformationTechnology/comments/ux3akl/what_is_my_job_title_helpdesksysadmin/)
 - [OSTechnical IT Staffing](https://www.reddit.com/r/InformationTechnology/comments/ux0zr3/ostechnical_it_staffing/)
 - [C drive on disc 0 is full, I have a decent amount of unallocated space on disc 1. How can I sort this out to utilise all this unused space and relieve the pressure on my poor C drive?](https://www.reddit.com/r/InformationTechnology/comments/ux0x3y/c_drive_on_disc_0_is_full_i_have_a_decent_amount/)
 - [Defunct IT Department](https://www.reddit.com/r/InformationTechnology/comments/uw5sft/defunct_it_department/)
 - [Dealing with Executives](https://www.reddit.com/r/InformationTechnology/comments/uw26lx/dealing_with_executives/)
 - [I&#39;m looking for software with specific features for a company. I want employees to access images, search them by keywords, and upload new images with new keywords. Is there something like that?](https://www.reddit.com/r/InformationTechnology/comments/uvoj0v/im_looking_for_software_with_specific_features/)
-- [CYBERSOC Information Technology Library Blog](https://www.reddit.com/r/InformationTechnology/comments/uv1495/cybersoc_information_technology_library_blog/)
-- [Can my property find out that I set up a WiFi smart camera in my room?](https://www.reddit.com/r/InformationTechnology/comments/uuszb0/can_my_property_find_out_that_i_set_up_a_wifi/)
-- [How to get started?](https://www.reddit.com/r/InformationTechnology/comments/uuh8m4/how_to_get_started/)
-- [help desk info?](https://www.reddit.com/r/InformationTechnology/comments/uudogn/help_desk_info/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

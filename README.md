@@ -414,6 +414,8 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Low skill desktop support employees training recommendations for o365 and other basics?](https://www.reddit.com/r/InformationTechnology/comments/uygicc/low_skill_desktop_support_employees_training/)
+- [Creating a .bat that places a web link shortcut and adds a custom icon to it.](https://www.reddit.com/r/InformationTechnology/comments/uy97oa/creating_a_bat_that_places_a_web_link_shortcut/)
 - [Desperately need help for a school project.](https://www.reddit.com/r/InformationTechnology/comments/uxx7ef/desperately_need_help_for_a_school_project/)
 - [My Experience With an Amazon Scammer - How To Protect Yourself and Others!](https://www.reddit.com/r/InformationTechnology/comments/uxx6ii/my_experience_with_an_amazon_scammer_how_to/)
 - [Need help on thesis.](https://www.reddit.com/r/InformationTechnology/comments/uxrz5n/need_help_on_thesis/)
@@ -422,8 +424,6 @@
 - [OSTechnical IT Staffing](https://www.reddit.com/r/InformationTechnology/comments/ux0zr3/ostechnical_it_staffing/)
 - [C drive on disc 0 is full, I have a decent amount of unallocated space on disc 1. How can I sort this out to utilise all this unused space and relieve the pressure on my poor C drive?](https://www.reddit.com/r/InformationTechnology/comments/ux0x3y/c_drive_on_disc_0_is_full_i_have_a_decent_amount/)
 - [Defunct IT Department](https://www.reddit.com/r/InformationTechnology/comments/uw5sft/defunct_it_department/)
-- [Dealing with Executives](https://www.reddit.com/r/InformationTechnology/comments/uw26lx/dealing_with_executives/)
-- [I&#39;m looking for software with specific features for a company. I want employees to access images, search them by keywords, and upload new images with new keywords. Is there something like that?](https://www.reddit.com/r/InformationTechnology/comments/uvoj0v/im_looking_for_software_with_specific_features/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

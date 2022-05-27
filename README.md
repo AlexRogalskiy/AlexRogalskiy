@@ -384,16 +384,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Eclipse unveils Java binaries marketplace](https://www.infoworld.com/article/3662048/eclipse-opens-java-binaries-marketplace.html#tk.rss_all)
+- [Reactive JavaScript: The evolution of front-end architecture](https://www.infoworld.com/article/3661810/reactive-javascript-the-evolution-of-front-end-architecture.html#tk.rss_all)
+- [How to work with String.Create in C#](https://www.infoworld.com/article/3661361/how-to-work-with-string-create-in-c-sharp.html#tk.rss_all)
 - [TypeScript 4.7 crosses the finish line](https://www.infoworld.com/article/3656801/typescript-47-crosses-the-finish-line.html#tk.rss_all)
+- [Broadcom targets enterprise infrastructure with $61B VMware acquisition](https://www.networkworld.com/article/3662050/broadcom-targets-enterprise-infrastructure-with-61b-vmware-acquisition.html#tk.rss_all)
 - [Microsoft .NET MAUI framework arrives](https://www.infoworld.com/article/3661362/microsoft-net-maui-framework-arrives.html#tk.rss_all)
 - [Google gets serious about Gitops](https://www.infoworld.com/article/3661366/google-gets-serious-about-gitops.html#tk.rss_all)
 - [CockroachDB’s 22.1 update aims to help prototype faster, scale on demand](https://www.infoworld.com/article/3661815/cockroachdbs-221-update-aims-to-help-prototype-faster-scale-on-demand.html#tk.rss_all)
 - [Review: Redpanda gives Kafka a run for its money](https://www.infoworld.com/article/3660628/review-redpanda-gives-kafka-a-run-for-its-money.html#tk.rss_all)
 - [Informatica’s Data Management Cloud gets new data engineering, MLOps tools](https://www.infoworld.com/article/3661674/informatica-s-data-management-cloud-gets-new-data-engineering-mlops-tools.html#tk.rss_all)
-- [GitHub Copilot AI coding assistant due this summer](https://www.infoworld.com/article/3661436/github-copilot-ai-coding-assistant-due-this-summer.html#tk.rss_all)
-- [Introducing Microsoft’s Power Pages](https://www.infoworld.com/article/3661556/introducing-microsofts-power-pages.html#tk.rss_all)
-- [How API gateways complement ESBs](https://www.infoworld.com/article/3661696/how-api-gateways-complement-esbs.html#tk.rss_all)
-- [Cloud architecture by committee is always a bad idea](https://www.infoworld.com/article/3661695/cloud-architecture-by-committee-is-always-a-bad-idea.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

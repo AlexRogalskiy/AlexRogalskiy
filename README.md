@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [WWDC 2022 Preview](https://www.computerworld.com/article/3662309/wwdc-2022-preview.html#tk.rss_all)
+- [Microsoft pumps the brakes on hiring](https://www.computerworld.com/article/3662308/microsoft-pumps-the-brakes-on-hiring.html#tk.rss_all)
+- [Apple’s bid for ubiquity across the US retail industry comes into view](https://www.computerworld.com/article/3662129/apples-bid-for-ubiquity-across-the-us-retail-industry-comes-into-view.html#tk.rss_all)
+- [DOJ reverses itself, says good-faith security researchers should be left alone](https://www.computerworld.com/article/3661692/doj-reverses-itself-says-good-faith-security-researchers-should-be-left-alone.html#tk.rss_all)
+- [IT salaries aren&#39;t keeping up with inflation — but that may soon change](https://www.computerworld.com/article/3662128/it-salaries-arent-keeping-up-with-inflation-but-that-may-soon-change.html#tk.rss_all)
 - [Microsoft security vulnerabilities drop after five-year rise](https://www.csoonline.com/article/3662069/microsoft-security-vulnerabilities-drop-after-five-year-rise.html#tk.rss_all)
 - [Microsoft takes productivity, collaboration to the top floor at Build](https://www.computerworld.com/article/3662028/microsoft-takes-productivity-collaboration-to-the-top-floor-at-build.html#tk.rss_all)
 - [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [Why you should pay more attention to Apple’s green slide](https://www.computerworld.com/article/3661702/why-you-should-pay-more-attention-to-apples-green-slide.html#tk.rss_all)
-- [About the Best Places to Work in IT](https://www.computerworld.com/article/3661814/about-best-places-to-work-in-it.html#tk.rss_all)
-- [Microsoft looks to make Teams screen-sharing more interactive with Live Share](https://www.computerworld.com/article/3661632/microsoft-looks-to-make-teams-screen-sharing-more-interactive-with-live-share.html#tk.rss_all)
-- [Android 13&#39;s dueling identities](https://www.computerworld.com/article/3661433/android-13-identities.html#tk.rss_all)
-- [How to use a smartphone as a mobile hotspot](https://www.computerworld.com/article/2499772/how-to-use-a-smartphone-as-a-mobile-hotspot.html#tk.rss_all)
-- [Workers planning &#39;bleisure&#39; trips this summer spur travel demand](https://www.computerworld.com/article/3661559/workers-planning-bleisure-trips-this-summer-spur-travel-demand.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [IR35 reforms: PAC report blames HMRC for ‘widespread non-compliance’ in public sector](https://www.computerweekly.com/news/252520657/IR35-reforms-PAC-report-blames-HMRC-for-widespread-non-compliance-in-public-sector)
-- [New inquiry looks at the state of UK chips](https://www.computerweekly.com/news/252520659/New-enquiry-looks-at-the-state-of-UK-chips)
-- [Building a pathway to commercial quantum computing](https://www.computerweekly.com/news/252520655/Building-a-pathway-to-commercial-quantum-computing)
-- [How to leverage the artificial intelligence solar system](https://www.computerweekly.com/opinion/How-to-leverage-the-artificial-intelligence-solar-system)
-- [Google Cloud expands European presence with opening of Madrid region](https://www.computerweekly.com/news/252520616/Google-Cloud-expands-European-presence-with-opening-of-Madrid-region)
-- [ICO orders facial recognition firm Clearview AI to delete all data about UK residents](https://www.computerweekly.com/news/252520622/ICO-orders-facial-recognition-firm-Clearview-AI-to-delete-all-data-about-UK-residents)
-- [Ransomware volumes grew faster than ever in 2021](https://www.computerweekly.com/news/252520615/Ransomware-volumes-grew-faster-than-ever-in-2021)
-- [Durham University upgrades cosmology supercomputer to switchless architecture with Rockport Networks](https://www.computerweekly.com/news/252520606/Durham-University-upgrades-cosmology-supercomputer-to-switchless-architecture-with-Rockport-Networks)
-- [Set innovation free and make great ideas a reality](https://www.computerweekly.com/ezine/Computer-Weekly/Set-innovation-free-and-make-great-ideas-a-reality)
-- [Winners of 2022 Makers Women in Software Power List announced](https://www.computerweekly.com/news/252520528/Winners-of-2022-Makers-Women-in-Software-Power-List-announced)
+- [Consultation launched on datacentre, cloud security](https://www.computerweekly.com/news/252520728/Consultation-launched-on-datacentre-cloud-security)
+- [Executive interview: Miles Hillier, NatWest](https://www.computerweekly.com/news/252518223/Executive-interview-Miles-Hillier-NatWest)
+- [Broadcom confirms $61bn deal to acquire VMware is going ahead](https://www.computerweekly.com/news/252520722/Broadcom-confirms-61bn-deal-to-acquire-VMware-is-going-ahead)
+- [Digdata and BT inspire future data scientists](https://www.computerweekly.com/news/252520721/Digdata-and-BT-inspire-future-data-scientists)
+- [Security Think Tank: Core security processes must adapt in a complex landscape](https://www.computerweekly.com/opinion/Security-Think-Tank-Core-security-processes-must-adapt-in-a-complex-landscape)
+- [Two-thirds of UK organisations defrauded since start of pandemic](https://www.computerweekly.com/news/252520716/Two-thirds-of-UK-organisations-defrauded-since-start-of-pandemic)
+- [Most CFOs being left out of ransomware conversations](https://www.computerweekly.com/news/252520714/Most-CFOs-being-left-out-of-ransomware-conversations)
+- [Hydrogen’s promise: How fuel cells might power lower-carbon datacentres](https://www.computerweekly.com/feature/Hydrogens-promise-How-fuel-cells-might-power-lower-carbon-datacentres)
+- [Tech companies join UK four-day work week trial](https://www.computerweekly.com/feature/Tech-companies-join-UK-four-day-work-week-trial)
+- [CW Nordics: How the Estonian government created a digital assistant to support citizens](https://www.computerweekly.com/ezine/CW-Nordics/CW-Nordics-How-the-Estonian-government-created-a-digital-assistant-to-support-citizens)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

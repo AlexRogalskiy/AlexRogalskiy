@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
-- [Mastercard Canada’s cyber centre of excellence adds collaboration facility](https://www.itworldcanada.com/article/mastercard-canadas-cyber-centre-of-excellence-adds-collaboration-facility/485575)
-- [Equifax Canada names Sandy Kyriakatos as its new chief data officer](https://www.itworldcanada.com/article/equifax-canada-names-sandy-kyriakatos-as-its-new-chief-data-officer/485458)
-- [Toronto-based company launches platform to help solve podcasters’ challenges](https://www.itworldcanada.com/article/toronto-based-company-launches-platform-to-help-solve-podcasters-challenges/485598)
-- [Canadian energy provider Suncor among firms vowing to increase cyber resiliency](https://www.itworldcanada.com/article/canadian-energy-provider-suncor-among-firms-vowing-to-increase-cyber-resiliency/485556)
-- [Cyber Security Today, May 25, 2022 – A Linux trojan is spreading, malware aimed at security researchers and more](https://www.itworldcanada.com/article/cyber-security-today-may-25-2022-a-linux-trojan-is-spreading-malware-aimed-at-security-researchers-and-more/485468)
-- [Hashtag Trending May 25 – Airbnb leaves China; Samsung to spend $360 billion on chips and biotech; Nvidia’s liquid-cooled graphics cards](https://www.itworldcanada.com/article/hashtag-trending-may-25-airbnb-pulls-out-of-china-samsung-raises-spending-to-360-billion-for-chips-and-biotech-nvidias-liquid-cooled-graphics-cards/485496)
-- [Starlink announces new service for RVs: $30 more and no waitlist](https://www.itworldcanada.com/article/starlink-announces-new-service-for-rvs-30-more-and-no-waitlist/485435)
-- [Telus to invest C$11 billion in Quebec in the next four years](https://www.itworldcanada.com/article/telus-to-invest-c11-billion-in-quebec-in-the-next-four-years/485427)
-- [Human error tops causes of data breaches, says Verizon report](https://www.itworldcanada.com/article/human-error-tops-causes-of-data-breaches-says-verizon-report/485343)
-- [Conti ransomware brand is dead, but gang restructures: Report](https://www.itworldcanada.com/article/conti-ransomware-brand-is-dead-but-gang-restructures-report/485319)
+- [Outgoing Canadian privacy commissioner critical of companies, Ottawa in final speech](https://www.itworldcanada.com/article/outgoing-canadian-privacy-commissioner-critical-of-companies-ottawa-in-final-speech/485860)
+- [Panasonic’s fully-rugged Toughbook 40 gets big updates](https://www.itworldcanada.com/article/panasonics-fully-rugged-toughbook-40-gets-big-updates/485900)
+- [CIO of the year: Non Profit – Mazen Joukhadar](https://www.itworldcanada.com/article/cio-of-the-year-non-profit-mazen-joukhadar/485822)
+- [CIO of the Year: Private Sector – Julie Levesque](https://www.itworldcanada.com/article/cio-of-the-year-private-sector-julie-levesque/485826)
+- [CIO of the Year: Next Generation Leader – Matt Pedalino](https://www.itworldcanada.com/article/cio-of-the-year-next-generation-leader-matt-pedalino/485805)
+- [CIO of the Year: Private Sector – Rex Lee](https://www.itworldcanada.com/article/cio-of-the-year-private-sector-rex-lee/485812)
+- [CIO of the Year: Public Sector – Mohammad Qureshi](https://www.itworldcanada.com/article/cio-of-the-year-public-sector-mohammad-qureshi/485798)
+- [Broadcom acquires VMware – it’s official](https://www.itworldcanada.com/article/broadcom-acquires-vmware-its-official/485789)
+- [Hashtag Trending May 26 – Tesla stock price drop; new Google image AI; California bill lets parents sue social-media platforms](https://www.itworldcanada.com/article/hashtag-trending-may-26-tesla-stock-price-drop-new-google-image-ai-california-bill-lets-parents-sure-social-media-platforms/485639)
+- [FTC charges Twitter with using account security data to sell targeted ads](https://www.itworldcanada.com/article/ftc-charges-twitter-with-using-account-security-data-to-sell-targeted-ads/485713)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

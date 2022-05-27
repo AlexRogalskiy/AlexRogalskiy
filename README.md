@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Adding “Let’s think step by step” to GPT-3 increases accuracy on math problems](https://twitter.com/arankomatsuzaki/status/1529285884817707008)
-- [The Researcher’s Guide for Being Mind Blown by a Neural Network](https://www.lifeiscomputation.com/the-researchers-guide-for-being-mind-blown-by-a-neural-network/#more-3276)
-- [Personal Observability](https://sprkl.dev/)
-- [Imagen Open Source implementation from the same developer as the one for DALL-E2](https://github.com/lucidrains/imagen-pytorch)
-- [Collection of web experiments/tools/resources](https://experiments.withgoogle.com/collection/chrome)
-- [Unleash the trailers: End regulatory discrimination against manufactured housing](https://www.slowboring.com/p/trailer-regulation)
-- [Preventing Bots on Websites](https://stakedy.com/long/preventing-bots-on-websites.html)
-- [Yes, I was forced to be a child star. it was never my dream or my idea](https://wilwheaton.net/2022/05/yes-i-was-forced-to-be-a-child-star-it-was-never-my-dream-or-my-idea/)
-- [Take-Two and Zynga merge in the biggest deal in gaming history](https://www.pcgamer.com/take-two-and-zynga-merge-in-the-biggest-deal-in-gaming-history/)
-- [Evidence and strategies for alcohol control as crime control](https://www.manhattan-institute.org/evidence-and-strategies-for-alcohol-control-as-crime-control)
+- [The](https://www.dictionary.com/browse/the)
+- [Decentralized stablecoins are mathematically impossible](https://twitter.com/DataFinnovation/status/1529673570208854018)
+- [Bombs Fall on Oregon: Japanese Attacks on the State](https://sos.oregon.gov/archives/exhibits/ww2/Pages/threats-bombs.aspx)
+- [Ukrainian volunteers in the east feel abandoned as Russia advances](https://www.washingtonpost.com/world/2022/05/26/ukraine-frontline-russia-military-severodonetsk/)
+- [Sealos Kubernetes-kernel-based cloud OS distribution](https://github.com/labring/sealos)
+- [Ask HN: How do you read AWS Cloudwatch logs](https://news.ycombinator.com/item?id=31525607)
+- [Living with Kubernetes After the ‘Honeymoon’ Ends](https://thenewstack.io/kubernetes-after-the-honeymoon-ends/)
+- [Tell HN: AWS Experiencing DNS Issues](https://news.ycombinator.com/item?id=31525594)
+- [Business Graphs for KYC Checks](https://www.deepdiscovery.ai/business-graphs-for-kyc-checks/)
+- [Power Is Overrated &lpar;2019&rpar;](https://www.nytimes.com/2019/05/21/opinion/power-is-overrated.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

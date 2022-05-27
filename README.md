@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Texas school shooting: gunman was inside for 40 minutes, officials say – latest updates](https://www.theguardian.com/us-news/live/2022/may/25/texas-school-shooting-news-victims-uvalde-elementary-school-latest-updates)
-- [Sue Gray day: the Partygate finale – podcast](https://www.theguardian.com/news/audio/2022/may/26/sue-gray-day-the-partygate-finale-podcast)
-- [‘Failure of leadership’: what the papers say about Johnson and the Sue Gray Partygate report](https://www.theguardian.com/politics/2022/may/26/failure-of-leadership-what-the-papers-say-johnson-partygate-sue-gray)
-- [‘He was just a loving little boy’: the victims of the Texas school shooting](https://www.theguardian.com/us-news/2022/may/25/uvalde-texas-school-shooting-victims)
-- [The rise of ‘bai lan’: why China’s frustrated youth are ready to ‘let it rot’](https://www.theguardian.com/world/2022/may/26/the-rise-of-bai-lan-why-chinas-frustrated-youth-are-ready-to-let-it-rot)
-- [Russia-Ukraine war: what we know on day 92 of the invasion](https://www.theguardian.com/world/2022/may/26/russia-ukraine-war-what-we-know-on-day-92-of-the-invasion)
-- [Biden signs police reform executive order on anniversary of George Floyd’s murder](https://www.theguardian.com/us-news/2022/may/25/biden-police-reform-executive-order-george-floyd)
-- [Deal proposed by China would dramatically expand security influence in Pacific](https://www.theguardian.com/world/2022/may/26/deal-proposed-by-china-would-dramatically-expand-security-influence-in-pacific)
-- [Twitter to pay $150m to settle claims it wrongly shared users’ phone numbers](https://www.theguardian.com/technology/2022/may/25/twitter-user-data-advertising-settlement)
-- [Duelling diplomacy in the Pacific should dispel the notion of a China-Australia reset | Richard McGregor](https://www.theguardian.com/commentisfree/2022/may/26/duelling-diplomacy-in-the-pacific-should-dispel-the-notion-of-a-china-australia-reset)
+- [Charles Manson follower Patricia Krenwinkel recommended for parole](https://www.theguardian.com/us-news/2022/may/26/patricia-krenwinkel-charles-manson-parole)
+- [How the climate crisis upturned Australian politics – podcast](https://www.theguardian.com/news/audio/2022/may/27/how-the-climate-crisis-upturned-australian-politics-podcast)
+- [Jacinda Ardern wows Harvard with New Zealand’s lesson on gun control and democracy](https://www.theguardian.com/world/2022/may/27/jacinda-ardern-wows-harvard-with-new-zealands-lesson-on-gun-control-and-democracy)
+- [Kharkiv hit by fresh strikes amid fears city is still on Russian agenda](https://www.theguardian.com/world/2022/may/26/kharkiv-hit-by-fresh-strikes-amid-fears-city-is-still-on-russian-agenda)
+- [Russia-Ukraine war: what we know on day 93 of the invasion](https://www.theguardian.com/world/2022/may/27/russia-ukraine-war-what-we-know-on-day-93-of-the-invasion)
+- [V&amp;A to host exhibition on Coco Chanel’s career and designs](https://www.theguardian.com/fashion/2022/may/27/v-and-a-exhibition-coco-chanel-fashion-manifesto)
+- [Fanging out: Whitby’s record-breaking vampire gathering – in pictures](https://www.theguardian.com/uk-news/gallery/2022/may/26/whitbys-record-breaking-vampire-gathering-in-pictures)
+- [Toronto police fatally shoot man seen carrying rifle near elementary school](https://www.theguardian.com/world/2022/may/26/toronto-police-man-rifle-elementary-school)
+- [Chile government apologizes to woman for forced sterilization](https://www.theguardian.com/global-development/2022/may/26/chile-apologizes-woman-forced-sterilization-hiv)
+- [Big Boys review – this warm, tender comedy will pierce your heart](https://www.theguardian.com/tv-and-radio/2022/may/26/big-boys-review-this-warm-tender-comedy-will-pierce-your-heart)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

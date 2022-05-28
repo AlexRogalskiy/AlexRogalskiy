@@ -399,6 +399,9 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Consistency is key to mitigate outsourcing risk](https://www.computerweekly.com/opinion/Consistency-is-key-to-mitigate-outsourcing-risk)
+- [Amazon shareholders vote down audit of warehouse work conditions](https://www.computerweekly.com/news/252520759/Amazon-shareholders-vote-down-audit-of-warehouse-work-conditions)
+- [Macs in the enterprise – what you need to know](https://www.computerweekly.com/feature/Macs-in-the-enterprise-what-you-need-to-know)
 - [Consultation launched on datacentre, cloud security](https://www.computerweekly.com/news/252520728/Consultation-launched-on-datacentre-cloud-security)
 - [Executive interview: Miles Hillier, NatWest](https://www.computerweekly.com/news/252518223/Executive-interview-Miles-Hillier-NatWest)
 - [Broadcom confirms $61bn deal to acquire VMware is going ahead](https://www.computerweekly.com/news/252520722/Broadcom-confirms-61bn-deal-to-acquire-VMware-is-going-ahead)
@@ -406,9 +409,6 @@
 - [Security Think Tank: Core security processes must adapt in a complex landscape](https://www.computerweekly.com/opinion/Security-Think-Tank-Core-security-processes-must-adapt-in-a-complex-landscape)
 - [Two-thirds of UK organisations defrauded since start of pandemic](https://www.computerweekly.com/news/252520716/Two-thirds-of-UK-organisations-defrauded-since-start-of-pandemic)
 - [Most CFOs being left out of ransomware conversations](https://www.computerweekly.com/news/252520714/Most-CFOs-being-left-out-of-ransomware-conversations)
-- [Hydrogen’s promise: How fuel cells might power lower-carbon datacentres](https://www.computerweekly.com/feature/Hydrogens-promise-How-fuel-cells-might-power-lower-carbon-datacentres)
-- [Tech companies join UK four-day work week trial](https://www.computerweekly.com/feature/Tech-companies-join-UK-four-day-work-week-trial)
-- [CW Nordics: How the Estonian government created a digital assistant to support citizens](https://www.computerweekly.com/ezine/CW-Nordics/CW-Nordics-How-the-Estonian-government-created-a-digital-assistant-to-support-citizens)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

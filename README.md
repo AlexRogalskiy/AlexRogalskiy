@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Charles Manson follower Patricia Krenwinkel recommended for parole](https://www.theguardian.com/us-news/2022/may/26/patricia-krenwinkel-charles-manson-parole)
-- [How the climate crisis upturned Australian politics – podcast](https://www.theguardian.com/news/audio/2022/may/27/how-the-climate-crisis-upturned-australian-politics-podcast)
-- [Jacinda Ardern wows Harvard with New Zealand’s lesson on gun control and democracy](https://www.theguardian.com/world/2022/may/27/jacinda-ardern-wows-harvard-with-new-zealands-lesson-on-gun-control-and-democracy)
-- [Kharkiv hit by fresh strikes amid fears city is still on Russian agenda](https://www.theguardian.com/world/2022/may/26/kharkiv-hit-by-fresh-strikes-amid-fears-city-is-still-on-russian-agenda)
-- [Russia-Ukraine war: what we know on day 93 of the invasion](https://www.theguardian.com/world/2022/may/27/russia-ukraine-war-what-we-know-on-day-93-of-the-invasion)
-- [V&amp;A to host exhibition on Coco Chanel’s career and designs](https://www.theguardian.com/fashion/2022/may/27/v-and-a-exhibition-coco-chanel-fashion-manifesto)
-- [Fanging out: Whitby’s record-breaking vampire gathering – in pictures](https://www.theguardian.com/uk-news/gallery/2022/may/26/whitbys-record-breaking-vampire-gathering-in-pictures)
-- [Toronto police fatally shoot man seen carrying rifle near elementary school](https://www.theguardian.com/world/2022/may/26/toronto-police-man-rifle-elementary-school)
-- [Chile government apologizes to woman for forced sterilization](https://www.theguardian.com/global-development/2022/may/26/chile-apologizes-woman-forced-sterilization-hiv)
-- [Big Boys review – this warm, tender comedy will pierce your heart](https://www.theguardian.com/tv-and-radio/2022/may/26/big-boys-review-this-warm-tender-comedy-will-pierce-your-heart)
+- [Ailing orca stuck in France’s River Seine to be lured to sea using drone with loudspeakers](https://www.theguardian.com/world/2022/may/28/ailing-orca-stuck-in-frances-river-seine-to-be-lured-to-sea-using-drone-with-loudspeakers)
+- [Canada investigates after Tesla catches fire, forcing driver to ‘smash the window’](https://www.theguardian.com/world/2022/may/27/tesla-catches-fire-vancouver-canada-investigation)
+- [Attorney general says schools ‘do not have to accommodate’ children’s gender wishes](https://www.theguardian.com/society/2022/may/27/attorney-general-says-schools-do-not-have-to-accommodate-childrens-gender-wishes)
+- [Depp-Heard trial: jury to resume deliberations on Tuesday](https://www.theguardian.com/film/2022/may/27/johnny-depp-amber-heard-case-closing-arguments)
+- [Boy, 16, arrested on suspicion of murder after 15-year-old killed](https://www.theguardian.com/uk-news/2022/may/27/boy-16-arrested-on-suspicion-of-after-15-year-old-killed)
+- [Texas police made ‘wrong decision’ waiting outside classroom, says official](https://www.theguardian.com/us-news/2022/may/27/texas-school-shooting-police-classroom-wrong-decision)
+- [‘I have no children left’: protesters take on NRA convention after Texas shooting](https://www.theguardian.com/us-news/2022/may/27/nra-gun-control-protest-houston-texas-school-shooting)
+- [Barassi and Couilloud lead Lyon to Challenge Cup final win over Toulon](https://www.theguardian.com/sport/2022/may/27/barassi-and-couilloud-lead-lyon-to-challenge-cup-final-win-over-toulon)
+- [Twenty photographs of the week](https://www.theguardian.com/artanddesign/gallery/2022/may/27/twenty-photographs-of-the-week)
+- [Iran seizes two Greek tankers amid rising tensions in the Gulf](https://www.theguardian.com/world/2022/may/27/iran-seizes-two-greek-tankers-amid-rising-tensions-in-the-gulf)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

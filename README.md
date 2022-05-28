@@ -384,6 +384,8 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Multicloud complexity is a major operational challenge](https://www.infoworld.com/article/3662029/multicloud-complexity-is-a-major-operational-challenge.html#tk.rss_all)
+- [What is WebAssembly? The next-generation web platform explained](https://www.infoworld.com/article/3291780/what-is-webassembly-the-next-generation-web-platform-explained.html#tk.rss_all)
 - [Eclipse unveils Java binaries marketplace](https://www.infoworld.com/article/3662048/eclipse-opens-java-binaries-marketplace.html#tk.rss_all)
 - [Reactive JavaScript: The evolution of front-end architecture](https://www.infoworld.com/article/3661810/reactive-javascript-the-evolution-of-front-end-architecture.html#tk.rss_all)
 - [How to work with String.Create in C#](https://www.infoworld.com/article/3661361/how-to-work-with-string-create-in-c-sharp.html#tk.rss_all)
@@ -392,8 +394,6 @@
 - [Microsoft .NET MAUI framework arrives](https://www.infoworld.com/article/3661362/microsoft-net-maui-framework-arrives.html#tk.rss_all)
 - [Google gets serious about Gitops](https://www.infoworld.com/article/3661366/google-gets-serious-about-gitops.html#tk.rss_all)
 - [CockroachDB’s 22.1 update aims to help prototype faster, scale on demand](https://www.infoworld.com/article/3661815/cockroachdbs-221-update-aims-to-help-prototype-faster-scale-on-demand.html#tk.rss_all)
-- [Review: Redpanda gives Kafka a run for its money](https://www.infoworld.com/article/3660628/review-redpanda-gives-kafka-a-run-for-its-money.html#tk.rss_all)
-- [Informatica’s Data Management Cloud gets new data engineering, MLOps tools](https://www.infoworld.com/article/3661674/informatica-s-data-management-cloud-gets-new-data-engineering-mlops-tools.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

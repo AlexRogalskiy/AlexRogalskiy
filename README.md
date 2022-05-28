@@ -354,6 +354,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [WWDC: Is Apple preparing to give iPad a mammoth upgrade?](https://www.computerworld.com/article/3662109/wwdc-is-apple-preparing-to-give-ipad-a-mammoth-upgrade.html#tk.rss_all)
+- [Considering contract help? Keep these 10 tips in mind](https://www.computerworld.com/article/3662031/considering-contract-help-keep-these-10-tips-in-mind.html#tk.rss_all)
+- [6 Android settings for smarter notifications](https://www.computerworld.com/article/3661816/android-notifications.html#tk.rss_all)
 - [WWDC 2022 Preview](https://www.computerworld.com/article/3662309/wwdc-2022-preview.html#tk.rss_all)
 - [Microsoft pumps the brakes on hiring](https://www.computerworld.com/article/3662308/microsoft-pumps-the-brakes-on-hiring.html#tk.rss_all)
 - [Apple’s bid for ubiquity across the US retail industry comes into view](https://www.computerworld.com/article/3662129/apples-bid-for-ubiquity-across-the-us-retail-industry-comes-into-view.html#tk.rss_all)
@@ -361,9 +364,6 @@
 - [IT salaries aren&#39;t keeping up with inflation — but that may soon change](https://www.computerworld.com/article/3662128/it-salaries-arent-keeping-up-with-inflation-but-that-may-soon-change.html#tk.rss_all)
 - [Microsoft security vulnerabilities drop after five-year rise](https://www.csoonline.com/article/3662069/microsoft-security-vulnerabilities-drop-after-five-year-rise.html#tk.rss_all)
 - [Microsoft takes productivity, collaboration to the top floor at Build](https://www.computerworld.com/article/3662028/microsoft-takes-productivity-collaboration-to-the-top-floor-at-build.html#tk.rss_all)
-- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [Why you should pay more attention to Apple’s green slide](https://www.computerworld.com/article/3661702/why-you-should-pay-more-attention-to-apples-green-slide.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

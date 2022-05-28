@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Cyber Security Today, Week in Review for Friday May 27, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-may-27-2022/485707)
+- [Telus invests $28 million to roll out PureFibre and 5G networks across various municipalities in Quebec](https://www.itworldcanada.com/article/telus-invests-28-million-to-roll-out-purefibre-and-5g-networks-across-various-municipalities-in-quebec/486122)
+- [KPMG launches search for Canada’s leading tech entrepreneur](https://www.itworldcanada.com/article/kpmg-launches-search-for-canadas-leading-tech-entrepreneur/486047)
+- [Cyber Security Today, May 27, 2022 – Another warning to app developers, and an alleged leader of a business email compromise gang is arrested](https://www.itworldcanada.com/article/cyber-security-today-may-27-2022-another-warning-to-app-developers-and-an-alleged-leader-of-a-business-email-compromise-gang-is-arrested/485711)
+- [Hashtag Trending May 27 – Twitter shareholders sues Elon Musk; Amazon rejects worker wellbeing suggestions; and FTC fines Twitter](https://www.itworldcanada.com/article/hashtag-trending-may-27-twitter-shareholders-sues-elon-musk-amazon-rejects-worker-wellbeing-suggestions-and-ftc-fines-twitter/485972)
 - [Outgoing Canadian privacy commissioner critical of companies, Ottawa in final speech](https://www.itworldcanada.com/article/outgoing-canadian-privacy-commissioner-critical-of-companies-ottawa-in-final-speech/485860)
-- [Panasonic’s fully-rugged Toughbook 40 gets big updates](https://www.itworldcanada.com/article/panasonics-fully-rugged-toughbook-40-gets-big-updates/485900)
+- [Panasonic releases the new fully-rugged Toughbook 40](https://www.itworldcanada.com/article/panasonics-releases-toughbook-40/485900)
 - [CIO of the year: Non Profit – Mazen Joukhadar](https://www.itworldcanada.com/article/cio-of-the-year-non-profit-mazen-joukhadar/485822)
 - [CIO of the Year: Private Sector – Julie Levesque](https://www.itworldcanada.com/article/cio-of-the-year-private-sector-julie-levesque/485826)
 - [CIO of the Year: Next Generation Leader – Matt Pedalino](https://www.itworldcanada.com/article/cio-of-the-year-next-generation-leader-matt-pedalino/485805)
-- [CIO of the Year: Private Sector – Rex Lee](https://www.itworldcanada.com/article/cio-of-the-year-private-sector-rex-lee/485812)
-- [CIO of the Year: Public Sector – Mohammad Qureshi](https://www.itworldcanada.com/article/cio-of-the-year-public-sector-mohammad-qureshi/485798)
-- [Broadcom acquires VMware – it’s official](https://www.itworldcanada.com/article/broadcom-acquires-vmware-its-official/485789)
-- [Hashtag Trending May 26 – Tesla stock price drop; new Google image AI; California bill lets parents sue social-media platforms](https://www.itworldcanada.com/article/hashtag-trending-may-26-tesla-stock-price-drop-new-google-image-ai-california-bill-lets-parents-sure-social-media-platforms/485639)
-- [FTC charges Twitter with using account security data to sell targeted ads](https://www.itworldcanada.com/article/ftc-charges-twitter-with-using-account-security-data-to-sell-targeted-ads/485713)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

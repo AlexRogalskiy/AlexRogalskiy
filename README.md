@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The](https://www.dictionary.com/browse/the)
-- [Decentralized stablecoins are mathematically impossible](https://twitter.com/DataFinnovation/status/1529673570208854018)
-- [Bombs Fall on Oregon: Japanese Attacks on the State](https://sos.oregon.gov/archives/exhibits/ww2/Pages/threats-bombs.aspx)
-- [Ukrainian volunteers in the east feel abandoned as Russia advances](https://www.washingtonpost.com/world/2022/05/26/ukraine-frontline-russia-military-severodonetsk/)
-- [Sealos Kubernetes-kernel-based cloud OS distribution](https://github.com/labring/sealos)
-- [Ask HN: How do you read AWS Cloudwatch logs](https://news.ycombinator.com/item?id=31525607)
-- [Living with Kubernetes After the ‘Honeymoon’ Ends](https://thenewstack.io/kubernetes-after-the-honeymoon-ends/)
-- [Tell HN: AWS Experiencing DNS Issues](https://news.ycombinator.com/item?id=31525594)
-- [Business Graphs for KYC Checks](https://www.deepdiscovery.ai/business-graphs-for-kyc-checks/)
-- [Power Is Overrated &lpar;2019&rpar;](https://www.nytimes.com/2019/05/21/opinion/power-is-overrated.html)
+- [Boeing cutting more than 12,000 U.S. jobs with thousands more planned &lpar;2020&rpar;](https://www.reuters.com/article/us-boeing-jobs-idUSKBN2332EP)
+- [MIT Says We Could Build a House with Lab-Grown Wood](https://futurism.com/the-byte/mit-house-lab-grown-wood)
+- [Red Flag Laws Are As Good as the Data. Mass shooters don&#39;t hide their intentions](https://www.wsj.com/articles/red-flag-laws-are-as-good-as-the-data-guns-weapons-ban-private-email-mass-shooting-texas-11653685209)
+- [Anima Puzzles](https://davidkoloski.me/blog/anima-puzzles/)
+- [Hume&#39;s Real Riches](https://philarchive.org/archive/GOLHRR)
+- [Moons-16](https://play.google.com/games/invite?key=ChVhXzg2MjAyNzA3NTE5NTQ0Mjg2ODUSCjE2NTM3MDE1NTM)
+- [Neon – Serverless Postgres](https://neon.tech)
+- [Ross Ulbricht Sentenced to Life in Prison &lpar;2015&rpar;](https://www.nytimes.com/2015/05/30/nyregion/ross-ulbricht-creator-of-silk-road-website-is-sentenced-to-life-in-prison.html)
+- [Ask HN: Is there a math formula that can give me nth pie digit?](https://news.ycombinator.com/item?id=31536777)
+- [Timeline of Events Robb Elementary Shooting](https://www.wsj.com/articles/texas-school-shooting-a-timeline-of-events-11653684209)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

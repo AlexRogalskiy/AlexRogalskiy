@@ -369,16 +369,16 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Data Privacy Enforcement Actions Step Up](https://www.informationweek.com/ai-or-machine-learning/data-privacy-enforcement-actions-step-up)
+- [Can Regulators and Fintech Find the Right Formula for Innovation?](https://www.informationweek.com/fintech/can-regulators-and-fintech-find-the-right-formula-for-innovation-)
+- [Explosion of Connected Assets Requires IT Management Evolution](https://www.informationweek.com/big-data/explosion-of-connected-assets-requires-it-management-evolution)
+- [It’s Time to Recalibrate Our AI Expectations](https://www.informationweek.com/big-data/it-s-time-to-recalibrate-our-ai-expectations)
 - [Broadcom Bolsters Enterprise Efforts with $61 Billion VMware Acquisition](https://www.informationweek.com/software/broadcom-bolsters-enterprise-efforts-with-61-billion-vmware-acquisition)
 - [How Deep Learning Can Help Your Enterprise](https://www.informationweek.com/big-data/how-deep-learning-can-help-your-enterprise)
 - [GDPR Anniversary: Farewell to Global Data Lakes](https://www.informationweek.com/big-data/gdpr-anniversary-farewell-to-global-data-lakes)
 - [Salary Survey: IT Gender Pay Gap Keeps Growing](https://www.informationweek.com/strategic-cio/salary-survey-it-gender-pay-gap-keeps-growing)
 - [CIOs Take Center Stage on ESG Strategies, Battling an Overflow of Data](https://www.informationweek.com/big-data/cios-take-center-stage-on-esg-strategies-battling-an-overflow-of-data)
 - [News Reports Say Broadcom Seeks VMware Acquisition](https://www.informationweek.com/cloud/news-reports-say-broadcom-seeks-vmware-acquisition)
-- [Quick Study: Low Code/No Code for the Business Side](https://www.informationweek.com/devops/quick-study-low-code-no-code-for-the-business-side)
-- [IT Support for Edge Computing: Strategies to Make it Easier](https://www.informationweek.com/big-data/it-support-for-edge-computing-strategies-to-make-it-easier)
-- [Google Cloud to Offer Security-Vetted Open Source Software](https://www.informationweek.com/cloud/google-cloud-to-offer-security-vetted-open-source-software)
-- [Evolving Business Risk Drives Embrace of New Insurance Tech](https://www.informationweek.com/cloud/evolving-business-risk-drives-embrace-of-new-insurance-tech)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

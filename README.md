@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Ultra compact GAN ATX power supply delivers up to 250 Watts](https://www.cnx-software.com/2022/05/26/ultra-compact-gan-atx-power-supply-delivers-up-to-250-watts/)
-- [Taxi: A language for documenting data models and the contracts of APIs](https://docs.taxilang.org/)
-- [What are the odds that some idiot will name his mutex ether-rot-mutex &lpar;2017&rpar;](http://etherrotmutex.blogspot.com/2017/07/what-are-odds-that-some-idiot-will-name.html)
-- [Rash of parts thefts is leaving Freightliner trucks inoperable](https://www.freightwaves.com/news/thefts-of-powertrain-modules-plague-daimler-truck)
-- [I was blackmailed – any YouTuber could be next &lpar;2020&rpar;](https://gamefromscratch.com/i-was-blackmailed-any-youtuber-could-be-next/)
-- [AlloyDB for PostgreSQL under the hood: Columnar engine](https://cloud.google.com/blog/products/databases/alloydb-for-postgresql-columnar-engine)
-- [It&#39;s done in hardware so it&#39;s cheap &lpar;2012&rpar;](https://yosefk.com/blog/its-done-in-hardware-so-its-cheap.html)
-- [Terminal.Gui – Cross Platform Terminal UI Toolkit for .NET](https://github.com/migueldeicaza/gui.cs)
-- [Release &lpar;YC W20&rpar; is hiring mid level full stack engineers](https://www.ycombinator.com/companies/release/jobs/MUZ0IRm-mid-level-full-stack-engineer-backend-focus-rails-react-next-js)
-- [Virtual Graph Paper](https://virtual-graph-paper.com/)
+- [Neon – Serverless Postgres](https://neon.tech)
+- [Marginalia Goes Open Source](https://git.marginalia.nu/marginalia/marginalia.nu)
+- [Investing in lighting did great things for my mental and physical health](https://www.bramadams.dev/projects/invest-in-lights)
+- [An uroboros program with 100 programming languages](https://github.com/mame/quine-relay)
+- [Show HN: Self-Hosted Maps Stack](https://maps.ellenhp.me/)
+- [Lost “canceled” Squaresoft game 3156 Coro Coro located and preserved](https://www.gamingalexandria.com/wp/2022/05/lost-canceled-squaresoft-game-3156-coro-coro-located-and-preserved/)
+- [Dark Moon: The Inevitable Collapse of Luna](https://www.swanbitcoin.com/dark-moon-the-inevitable-collapse-of-luna/)
+- [Nim: Curated Packages](https://github.com/nim-lang/Nim/wiki/Curated-Packages)
+- [Flexible diffusion modeling of long videos](https://plai.cs.ubc.ca/2022/05/20/flexible-diffusion-modeling-of-long-videos/)
+- [Building a Cloud Database from Scratch: Why We Moved from C++ to Rust](https://singularity-data.com/blog/building-a-cloud-database-from-scratch-why-we-moved-from-cpp-to-rust/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

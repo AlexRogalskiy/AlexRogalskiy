@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ailing orca stuck in France’s River Seine to be lured to sea using drone with loudspeakers](https://www.theguardian.com/world/2022/may/28/ailing-orca-stuck-in-frances-river-seine-to-be-lured-to-sea-using-drone-with-loudspeakers)
-- [Canada investigates after Tesla catches fire, forcing driver to ‘smash the window’](https://www.theguardian.com/world/2022/may/27/tesla-catches-fire-vancouver-canada-investigation)
-- [Attorney general says schools ‘do not have to accommodate’ children’s gender wishes](https://www.theguardian.com/society/2022/may/27/attorney-general-says-schools-do-not-have-to-accommodate-childrens-gender-wishes)
-- [Depp-Heard trial: jury to resume deliberations on Tuesday](https://www.theguardian.com/film/2022/may/27/johnny-depp-amber-heard-case-closing-arguments)
-- [Boy, 16, arrested on suspicion of murder after 15-year-old killed](https://www.theguardian.com/uk-news/2022/may/27/boy-16-arrested-on-suspicion-of-after-15-year-old-killed)
-- [Texas police made ‘wrong decision’ waiting outside classroom, says official](https://www.theguardian.com/us-news/2022/may/27/texas-school-shooting-police-classroom-wrong-decision)
-- [‘I have no children left’: protesters take on NRA convention after Texas shooting](https://www.theguardian.com/us-news/2022/may/27/nra-gun-control-protest-houston-texas-school-shooting)
-- [Barassi and Couilloud lead Lyon to Challenge Cup final win over Toulon](https://www.theguardian.com/sport/2022/may/27/barassi-and-couilloud-lead-lyon-to-challenge-cup-final-win-over-toulon)
-- [Twenty photographs of the week](https://www.theguardian.com/artanddesign/gallery/2022/may/27/twenty-photographs-of-the-week)
-- [Iran seizes two Greek tankers amid rising tensions in the Gulf](https://www.theguardian.com/world/2022/may/27/iran-seizes-two-greek-tankers-amid-rising-tensions-in-the-gulf)
+- [Russia-Ukraine war: what we know on day 95 of the invasion](https://www.theguardian.com/world/2022/may/29/russia-ukraine-war-what-we-know-on-day-95-of-the-invasion)
+- [At least 27 civilians killed by rebels in Democratic Republic of the Congo](https://www.theguardian.com/world/2022/may/29/at-least-27-civilians-killed-by-rebels-in-democratic-republic-of-the-congo)
+- [Liverpool ‘hugely disappointed’ by treatment of fans outside Paris final](https://www.theguardian.com/football/2022/may/28/champions-league-final-kick-off-delay-liverpool-real-madrid-paris)
+- [Rail staff are set for battle, but a post-Covid strike could run off track](https://www.theguardian.com/business/2022/may/29/rail-staff-are-set-for-battle-but-a-post-covid-strike-could-run-off-track)
+- [‘Too much fear, too much grief’: Biden to visit Uvalde amid scrutiny of police response to shooting](https://www.theguardian.com/us-news/2022/may/28/texas-school-shooting-biden-harris-gun-control)
+- [16 of the best colourful casual bags – in pictures](https://www.theguardian.com/fashion/gallery/2022/may/28/16-of-the-best-colourful-casual-bags-in-pictures)
+- [Neil Basu to demand answers over failed bid to lead National Crime Agency](https://www.theguardian.com/uk-news/2022/may/28/neil-basu-to-demand-answers-over-failed-bid-to-lead-agency)
+- [Real Madrid win Champions League as Vinícius Júnior strike sinks Liverpool](https://www.theguardian.com/football/2022/may/28/champions-league-final-match-report-liverpool-real-madrid)
+- [Texas gunman had threatened school shootings on social media, reports say](https://www.theguardian.com/us-news/2022/may/28/texas-gunman-threats-behavior)
+- [Rueful Gareth Southgate reflects on Jack Grealish selection conundrum](https://www.theguardian.com/football/2022/may/28/rueful-gareth-southgate-reflects-on-jack-grealish-selection-conundrum)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

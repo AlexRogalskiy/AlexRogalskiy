@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Windows Server 2022: Install and Configure](https://www.reddit.com/r/InformationTechnology/comments/uzjt4u/windows_server_2022_install_and_configure/)
+- [Tech Job Search?](https://www.reddit.com/r/InformationTechnology/comments/uzjenk/tech_job_search/)
+- [Anyone else disappointed by the 220-1001 exam?](https://www.reddit.com/r/InformationTechnology/comments/uzgqce/anyone_else_disappointed_by_the_2201001_exam/)
+- [intellectual property?](https://www.reddit.com/r/InformationTechnology/comments/uzgax8/intellectual_property/)
 - [Image Metadata](https://www.reddit.com/r/InformationTechnology/comments/uyyz8c/image_metadata/)
 - [I want to set up a file server for myself. Any existing solution?](https://www.reddit.com/r/InformationTechnology/comments/uyt77g/i_want_to_set_up_a_file_server_for_myself_any/)
 - [Low skill desktop support employees training recommendations for o365 and other basics?](https://www.reddit.com/r/InformationTechnology/comments/uygicc/low_skill_desktop_support_employees_training/)
 - [Creating a .bat that places a web link shortcut and adds a custom icon to it.](https://www.reddit.com/r/InformationTechnology/comments/uy97oa/creating_a_bat_that_places_a_web_link_shortcut/)
 - [Desperately need help for a school project.](https://www.reddit.com/r/InformationTechnology/comments/uxx7ef/desperately_need_help_for_a_school_project/)
 - [My Experience With an Amazon Scammer - How To Protect Yourself and Others!](https://www.reddit.com/r/InformationTechnology/comments/uxx6ii/my_experience_with_an_amazon_scammer_how_to/)
-- [Need help on thesis.](https://www.reddit.com/r/InformationTechnology/comments/uxrz5n/need_help_on_thesis/)
-- [Email Security - Guide To Safeguarding Users Against Phishing!](https://www.reddit.com/r/InformationTechnology/comments/ux88e3/email_security_guide_to_safeguarding_users/)
-- [What is my job title? Helpdesk/sysadmin](https://www.reddit.com/r/InformationTechnology/comments/ux3akl/what_is_my_job_title_helpdesksysadmin/)
-- [OSTechnical IT Staffing](https://www.reddit.com/r/InformationTechnology/comments/ux0zr3/ostechnical_it_staffing/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

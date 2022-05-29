@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Neon – Serverless Postgres](https://neon.tech)
-- [Marginalia Goes Open Source](https://git.marginalia.nu/marginalia/marginalia.nu)
-- [Investing in lighting did great things for my mental and physical health](https://www.bramadams.dev/projects/invest-in-lights)
-- [An uroboros program with 100 programming languages](https://github.com/mame/quine-relay)
-- [Show HN: Self-Hosted Maps Stack](https://maps.ellenhp.me/)
-- [Lost “canceled” Squaresoft game 3156 Coro Coro located and preserved](https://www.gamingalexandria.com/wp/2022/05/lost-canceled-squaresoft-game-3156-coro-coro-located-and-preserved/)
-- [Dark Moon: The Inevitable Collapse of Luna](https://www.swanbitcoin.com/dark-moon-the-inevitable-collapse-of-luna/)
-- [Nim: Curated Packages](https://github.com/nim-lang/Nim/wiki/Curated-Packages)
-- [Flexible diffusion modeling of long videos](https://plai.cs.ubc.ca/2022/05/20/flexible-diffusion-modeling-of-long-videos/)
-- [Building a Cloud Database from Scratch: Why We Moved from C++ to Rust](https://singularity-data.com/blog/building-a-cloud-database-from-scratch-why-we-moved-from-cpp-to-rust/)
+- [Gogoro to Launch Smart Scooters, Battery Swapping in Israel in 2022](https://www.rideapart.com/news/585471/gogoro-smart-scooters-launch-israel/)
+- [The Reason You See Earthworms After Rain &lpar;2019&rpar;](https://blog.nature.org/science/2019/04/15/the-real-reason-you-see-earthworms-after-rain/)
+- [Debugging a Mysterious Python Crash](https://blog.dend.ro/a-mysterous-python-crash/)
+- [I&#39;m Retiring from the Engineering Profession](https://www.strongtowns.org/journal/2022/5/23/im-retiring-from-the-engineering-profession)
+- [BBC to close broadcast networks, move content online as cost-cutting measure](https://www.fiercevideo.com/video/bbc-close-broadcast-networks-move-content-online-part-cost-cutting-measure)
+- [My Students Cheated... a Lot](https://crumplab.com/articles/blog/post_994_5_26_22_cheating/index.html)
+- [Fearful Symmetry: Inkblot Books &lpar;1859–1915&rpar;](https://publicdomainreview.org/collection/inkblot-books/)
+- [Make formal verification and provably correct software practical and mainstream](https://github.com/magmide/magmide)
+- [Adding rollback netplay to a Game Boy Advance game from 2005: Part 1](https://tangobattle.substack.com/p/adding-rollback-netplay-to-a-game)
+- [System Font Stack](https://systemfontstack.com)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Magnetic-field-free, single-directional superconductivity](https://www.nature.com/articles/s41586-022-04504-8)
-- [DuckDuckGo faces widespread backlash over tracking deal with Microsoft](https://thenextweb.com/news/duckduckgo-microsoft-tracking-sparks-backlash)
-- [High school physics course notes, with JavaScript simulations &lpar;2018&rpar;](https://landgreen.github.io/physics/)
-- [New Windows Subsystem for Linux malware steals browser auth cookies](https://www.bleepingcomputer.com/news/security/new-windows-subsystem-for-linux-malware-steals-browser-auth-cookies/)
-- [Ask HN: What can software engineers learn from pro athlete unions?](https://news.ycombinator.com/item?id=31545903)
-- [Atlassian Tech Billionaire Sets Up AGL Climate Showdown in Australia](https://www.bloomberg.com/news/articles/2022-05-03/tech-billionaire-sets-up-agl-climate-showdown-in-australia)
-- [Long-Hidden Ancient Pyramids, Settlements Discovered in Remote Amazon Region](https://www.wsj.com/articles/long-hidden-ancient-pyramids-settlements-discovered-in-remote-amazon-region-11653490800)
-- [2022 Darknet Opsec Bible – Telegraph](https://telegra.ph/2022-Darknet-OPSEC-Bible-05-29)
-- [Spheromak](https://en.wikipedia.org/wiki/Spheromak)
-- [Green energy policies are making the nation’s power grid increasingly unstable](https://www.wsj.com/articles/americas-summer-of-rolling-blackouts-green-energy-grid-north-american-electric-reliability-corporation-11653683348)
+- [New Cellular Automata](https://www.youtube.com/watch?v=WMJ1H3Ai-qs)
+- [Service sectors can’t hire enough workers while tech is slowing or stop hiring](https://www.cnbc.com/2022/05/29/us-job-market-divide-boosts-some-workers-prospects-puts-others-on-notice.html)
+- [Burning gas to produce electricity is stupid](https://www.cnbc.com/2022/05/24/burning-gas-to-produce-electricity-is-stupid-the-ceo-of-power-giant-enel-says.html)
+- [Show HN: Cinny v2.0](https://github.com/ajbura/cinny)
+- [The Corporate Takeover of Ukrainian Agriculture &lpar;2014&rpar;[pdf]](https://www.oaklandinstitute.org/sites/oaklandinstitute.org/files/Brief_CorporateTakeoverofUkraine_0.pdf)
+- [3DILG: Irregular Latent Grids for 3D Generative Modeling](https://1zb.github.io/3DILG/)
+- [Video2StyleGAN: Disentangling Local and Global Variations in a Video](https://arxiv.org/abs/2205.13996)
+- [Cross-Domain Style Mixing for Face Cartoonization](https://arxiv.org/abs/2205.12450)
+- [Prolific USB-Serial drivers purposefully brick fake chips](https://www.medo64.com/2022/05/really-prolific/)
+- [Are more than a billion umbrellas thrown away every year?](https://skeptics.stackexchange.com/questions/53362/are-more-than-a-billion-umbrellas-thrown-away-every-year)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

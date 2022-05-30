@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war: what we know on day 95 of the invasion](https://www.theguardian.com/world/2022/may/29/russia-ukraine-war-what-we-know-on-day-95-of-the-invasion)
-- [At least 27 civilians killed by rebels in Democratic Republic of the Congo](https://www.theguardian.com/world/2022/may/29/at-least-27-civilians-killed-by-rebels-in-democratic-republic-of-the-congo)
-- [Liverpool ‘hugely disappointed’ by treatment of fans outside Paris final](https://www.theguardian.com/football/2022/may/28/champions-league-final-kick-off-delay-liverpool-real-madrid-paris)
-- [Rail staff are set for battle, but a post-Covid strike could run off track](https://www.theguardian.com/business/2022/may/29/rail-staff-are-set-for-battle-but-a-post-covid-strike-could-run-off-track)
-- [‘Too much fear, too much grief’: Biden to visit Uvalde amid scrutiny of police response to shooting](https://www.theguardian.com/us-news/2022/may/28/texas-school-shooting-biden-harris-gun-control)
-- [16 of the best colourful casual bags – in pictures](https://www.theguardian.com/fashion/gallery/2022/may/28/16-of-the-best-colourful-casual-bags-in-pictures)
-- [Neil Basu to demand answers over failed bid to lead National Crime Agency](https://www.theguardian.com/uk-news/2022/may/28/neil-basu-to-demand-answers-over-failed-bid-to-lead-agency)
-- [Real Madrid win Champions League as Vinícius Júnior strike sinks Liverpool](https://www.theguardian.com/football/2022/may/28/champions-league-final-match-report-liverpool-real-madrid)
-- [Texas gunman had threatened school shootings on social media, reports say](https://www.theguardian.com/us-news/2022/may/28/texas-gunman-threats-behavior)
-- [Rueful Gareth Southgate reflects on Jack Grealish selection conundrum](https://www.theguardian.com/football/2022/may/28/rueful-gareth-southgate-reflects-on-jack-grealish-selection-conundrum)
+- [Crash site found after plane goes missing over Nepal with 22 onboard](https://www.theguardian.com/world/2022/may/29/missing-plane-nepal-tara-air-pokhara)
+- [Ronnie Hawkins, rock’n’roll legend who mentored The Band, dies aged 87](https://www.theguardian.com/music/2022/may/30/ronnie-hawkins-rocknroll-legend-who-mentored-the-band-dies-aged-87)
+- [Inside the US gun industry –  podcast](https://www.theguardian.com/news/audio/2022/may/30/inside-us-gun-industry-podcast)
+- [Top British diplomat’s husband pokes fun at New Zealand’s ‘crappiest fountain’](https://www.theguardian.com/world/2022/may/30/top-british-diplomats-husband-pokes-fun-at-new-zealands-crappiest-fountain)
+- [Russia-Ukraine war: what we know on day 96 of the invasion](https://www.theguardian.com/world/2022/may/30/russia-ukraine-war-what-we-know-on-day-96-of-the-invasion)
+- [‘China in mind’: Japan mulls beefing up military as Ukraine war rings alarm](https://www.theguardian.com/world/2022/may/30/japan-china-defence-ukraine-war-russia)
+- [China’s foreign minister to meet with Pacific nations amid push for sweeping regional deal](https://www.theguardian.com/world/2022/may/30/chinas-foreign-minister-to-meet-with-pacific-nations-amid-push-for-sweeping-regional-deal)
+- [Colombia presidential election: leftist former guerrilla and populist outsider head to runoff](https://www.theguardian.com/world/2022/may/30/colombia-presidential-election-leftist-former-guerilla-and-populist-outsider-head-to-runoff)
+- [Trump calls Capitol attack an ‘insurrection hoax’ as public hearings set to begin](https://www.theguardian.com/us-news/2022/may/30/trump-calls-capitol-attack-an-insurrection-hoax-as-public-hearings-set-to-begin)
+- [Killer whale lost in France’s River Seine to be euthanised after failed rescue bid](https://www.theguardian.com/world/2022/may/30/killer-whale-found-adrift-in-frances-river-seine-to-be-euthanised-after-failed-rescue-bid)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

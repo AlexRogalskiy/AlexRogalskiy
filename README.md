@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Gogoro to Launch Smart Scooters, Battery Swapping in Israel in 2022](https://www.rideapart.com/news/585471/gogoro-smart-scooters-launch-israel/)
-- [The Reason You See Earthworms After Rain &lpar;2019&rpar;](https://blog.nature.org/science/2019/04/15/the-real-reason-you-see-earthworms-after-rain/)
-- [Debugging a Mysterious Python Crash](https://blog.dend.ro/a-mysterous-python-crash/)
-- [I&#39;m Retiring from the Engineering Profession](https://www.strongtowns.org/journal/2022/5/23/im-retiring-from-the-engineering-profession)
-- [BBC to close broadcast networks, move content online as cost-cutting measure](https://www.fiercevideo.com/video/bbc-close-broadcast-networks-move-content-online-part-cost-cutting-measure)
-- [My Students Cheated... a Lot](https://crumplab.com/articles/blog/post_994_5_26_22_cheating/index.html)
-- [Fearful Symmetry: Inkblot Books &lpar;1859–1915&rpar;](https://publicdomainreview.org/collection/inkblot-books/)
-- [Make formal verification and provably correct software practical and mainstream](https://github.com/magmide/magmide)
-- [Adding rollback netplay to a Game Boy Advance game from 2005: Part 1](https://tangobattle.substack.com/p/adding-rollback-netplay-to-a-game)
-- [System Font Stack](https://systemfontstack.com)
+- [DNA testing for embryos promises to predict genetic diseases](https://www.bloomberg.com/news/features/2022-05-26/dna-testing-for-embryos-promises-to-predict-genetic-diseases)
+- [The rise and fall of Cathie Wood, controversial Wall Street investor](https://nymag.com/intelligencer/2022/05/the-rise-and-fall-of-cathie-wood.html)
+- [Adapting to Endure – Sequoia Capital [pdf]](https://s3.documentcloud.org/documents/22036831/adaptingtoenduremay2022.pdf)
+- [BuildZoom &lpar;better way to build custom homes&rpar; is hiring a growth associate](https://jobs.lever.co/buildzoom)
+- [What is the web revival?](https://thoughts.melonking.net/guides/introduction-to-the-web-revival-1-what-is-the-web-revival)
+- [Lisp, Smalltalk, and the power of symmetry &lpar;2014&rpar;](https://insearchofsecrets.com/2014/08/04/lisp-smalltalk-and-the-power-of-symmetry/)
+- [Home Assistant OS Release 8](https://www.home-assistant.io/blog/2022/05/16/home-assistant-os-release-8/)
+- [In praise of the humble Sheffield stand](https://twitter.com/BrixtonHatter/status/1493299809574342659)
+- [MEGA65 – Evolution, Part 1](https://devdef.blogspot.com/2022/05/mega65-evolution-part-1.html)
+- [Falsehoods Programmers Believe About Search &lpar;2019&rpar;](https://opensourceconnections.com/blog/2019/05/29/falsehoods-programmers-believe-about-search/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

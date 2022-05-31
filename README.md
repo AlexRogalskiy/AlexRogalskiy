@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [DNA testing for embryos promises to predict genetic diseases](https://www.bloomberg.com/news/features/2022-05-26/dna-testing-for-embryos-promises-to-predict-genetic-diseases)
-- [The rise and fall of Cathie Wood, controversial Wall Street investor](https://nymag.com/intelligencer/2022/05/the-rise-and-fall-of-cathie-wood.html)
-- [Adapting to Endure – Sequoia Capital [pdf]](https://s3.documentcloud.org/documents/22036831/adaptingtoenduremay2022.pdf)
-- [BuildZoom &lpar;better way to build custom homes&rpar; is hiring a growth associate](https://jobs.lever.co/buildzoom)
-- [What is the web revival?](https://thoughts.melonking.net/guides/introduction-to-the-web-revival-1-what-is-the-web-revival)
-- [Lisp, Smalltalk, and the power of symmetry &lpar;2014&rpar;](https://insearchofsecrets.com/2014/08/04/lisp-smalltalk-and-the-power-of-symmetry/)
-- [Home Assistant OS Release 8](https://www.home-assistant.io/blog/2022/05/16/home-assistant-os-release-8/)
-- [In praise of the humble Sheffield stand](https://twitter.com/BrixtonHatter/status/1493299809574342659)
-- [MEGA65 – Evolution, Part 1](https://devdef.blogspot.com/2022/05/mega65-evolution-part-1.html)
-- [Falsehoods Programmers Believe About Search &lpar;2019&rpar;](https://opensourceconnections.com/blog/2019/05/29/falsehoods-programmers-believe-about-search/)
+- [I&#39;m a loser, burnt-out, directionless but want to turn it around](https://news.ycombinator.com/item?id=31565514)
+- [Haribo Goldbears, the world’s first gummy bears](https://www.smithsonianmag.com/history/the-colorful-history-of-haribo-goldbears-the-worlds-first-gummy-bears-180980094/)
+- [So long, home T1 line; hello, hacking the T1 router](http://oldvcr.blogspot.com/2022/05/so-long-home-t1-line-hello-hacking-t1.html)
+- [Asking robots to design stained glass windows](https://astralcodexten.substack.com/p/a-guide-to-asking-robots-to-design)
+- [The Scaling Hypothesis &lpar;2021&rpar;](https://www.gwern.net/Scaling-hypothesis)
+- [Mosquitoes kill more than 700k people every year &lpar;2017&rpar;](https://www.isglobal.org/en_GB/-/mosquito-el-animal-mas-letal-del-mundo)
+- [Jitx &lpar;YC S18&rpar; is hiring a senior optimization scientist](https://jobs.lever.co/jitxinc/485b853e-acd6-4073-b840-2929f210e9d7)
+- [Friendships form via shared context, not shared activities](https://billmei.net/blog/friendship)
+- [Working on the weekends – an academic necessity?](https://thegradient.pub/working-on-the-weekends-an-academic-necessity/)
+- [CogVideo: Large-Scale Pretraining for Text-to-Video Generation via Transformers](https://github.com/THUDM/CogVideo)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Crash site found after plane goes missing over Nepal with 22 onboard](https://www.theguardian.com/world/2022/may/29/missing-plane-nepal-tara-air-pokhara)
-- [Ronnie Hawkins, rock’n’roll legend who mentored The Band, dies aged 87](https://www.theguardian.com/music/2022/may/30/ronnie-hawkins-rocknroll-legend-who-mentored-the-band-dies-aged-87)
-- [Inside the US gun industry –  podcast](https://www.theguardian.com/news/audio/2022/may/30/inside-us-gun-industry-podcast)
-- [Top British diplomat’s husband pokes fun at New Zealand’s ‘crappiest fountain’](https://www.theguardian.com/world/2022/may/30/top-british-diplomats-husband-pokes-fun-at-new-zealands-crappiest-fountain)
-- [Russia-Ukraine war: what we know on day 96 of the invasion](https://www.theguardian.com/world/2022/may/30/russia-ukraine-war-what-we-know-on-day-96-of-the-invasion)
-- [‘China in mind’: Japan mulls beefing up military as Ukraine war rings alarm](https://www.theguardian.com/world/2022/may/30/japan-china-defence-ukraine-war-russia)
-- [China’s foreign minister to meet with Pacific nations amid push for sweeping regional deal](https://www.theguardian.com/world/2022/may/30/chinas-foreign-minister-to-meet-with-pacific-nations-amid-push-for-sweeping-regional-deal)
-- [Colombia presidential election: leftist former guerrilla and populist outsider head to runoff](https://www.theguardian.com/world/2022/may/30/colombia-presidential-election-leftist-former-guerilla-and-populist-outsider-head-to-runoff)
-- [Trump calls Capitol attack an ‘insurrection hoax’ as public hearings set to begin](https://www.theguardian.com/us-news/2022/may/30/trump-calls-capitol-attack-an-insurrection-hoax-as-public-hearings-set-to-begin)
-- [Killer whale lost in France’s River Seine to be euthanised after failed rescue bid](https://www.theguardian.com/world/2022/may/30/killer-whale-found-adrift-in-frances-river-seine-to-be-euthanised-after-failed-rescue-bid)
+- [Russia-Ukraine war: what we know on day 97 of the invasion](https://www.theguardian.com/world/2022/may/31/russia-ukraine-war-what-we-know-on-day-97-of-the-invasion)
+- [Abuse in the modelling industry – podcast](https://www.theguardian.com/news/audio/2022/may/31/breaking-silence-brunel-abuse-modelling-industry-podcast)
+- [France bans English gaming tech jargon in push to preserve language purity](https://www.theguardian.com/world/2022/may/31/france-bans-english-gaming-tech-jargon-in-push-to-preserve-language-purity)
+- [‘People are going to die’: crisis-hit Sri Lanka runs out of medicine](https://www.theguardian.com/world/2022/may/31/people-are-going-to-die-crisis-hit-sri-lanka-runs-out-of-medicine)
+- [Bachelet’s Xinjiang visit is emblematic of the growing divide between China and the west](https://www.theguardian.com/world/2022/may/31/bachelets-xinjiang-visit-is-emblematic-of-the-growing-divide-between-china-and-the-west)
+- [At least 91 dead in Brazil floods and landslides with many more missing](https://www.theguardian.com/world/2022/may/31/dozens-dead-in-brazil-floods-and-landslides-with-many-more-missing)
+- [Handgun freeze in Canada and five-round limit on magazines](https://www.theguardian.com/world/2022/may/31/handgun-freeze-in-canada-and-five-round-limit-on-magazines)
+- [EU leaders agree to partial embargo of Russian oil imports](https://www.theguardian.com/world/2022/may/30/eu-nears-compromise-agreement-for-partial-ban-on-russian-oil)
+- [Qatar World Cup criticised for ‘problematic’ carbon footprint promises](https://www.theguardian.com/football/2022/may/31/qatar-world-cup-criticised-for-problematic-carbon-footprint-promises)
+- [UK investigators told to stop mass collection of personal data in rape cases](https://www.theguardian.com/society/2022/may/31/uk-investigators-told-to-stop-mass-collection-of-personal-data-in-rape-cases)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

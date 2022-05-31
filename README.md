@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Looking for some advice on how to get into the field.](https://www.reddit.com/r/InformationTechnology/comments/v1ag62/looking_for_some_advice_on_how_to_get_into_the/)
+- [High School Internship Opportunity](https://www.reddit.com/r/InformationTechnology/comments/v17xvj/high_school_internship_opportunity/)
+- [Free Course: Linux for Blue Team](https://www.reddit.com/r/InformationTechnology/comments/v12m7f/free_course_linux_for_blue_team/)
+- [Book for beginner](https://www.reddit.com/r/InformationTechnology/comments/v0yhol/book_for_beginner/)
+- [IT Educational Research](https://www.reddit.com/r/InformationTechnology/comments/v0rpb5/it_educational_research/)
+- [CYBERSOC Information Technology Library Blog](https://www.reddit.com/r/InformationTechnology/comments/v0bxwy/cybersoc_information_technology_library_blog/)
+- [Change Management in Remote Teams](https://www.reddit.com/r/InformationTechnology/comments/v03imi/change_management_in_remote_teams/)
 - [Windows Server 2022: Install and Configure](https://www.reddit.com/r/InformationTechnology/comments/uzjt4u/windows_server_2022_install_and_configure/)
 - [Tech Job Search?](https://www.reddit.com/r/InformationTechnology/comments/uzjenk/tech_job_search/)
 - [Anyone else disappointed by the 220-1001 exam?](https://www.reddit.com/r/InformationTechnology/comments/uzgqce/anyone_else_disappointed_by_the_2201001_exam/)
-- [intellectual property?](https://www.reddit.com/r/InformationTechnology/comments/uzgax8/intellectual_property/)
-- [Image Metadata](https://www.reddit.com/r/InformationTechnology/comments/uyyz8c/image_metadata/)
-- [I want to set up a file server for myself. Any existing solution?](https://www.reddit.com/r/InformationTechnology/comments/uyt77g/i_want_to_set_up_a_file_server_for_myself_any/)
-- [Low skill desktop support employees training recommendations for o365 and other basics?](https://www.reddit.com/r/InformationTechnology/comments/uygicc/low_skill_desktop_support_employees_training/)
-- [Creating a .bat that places a web link shortcut and adds a custom icon to it.](https://www.reddit.com/r/InformationTechnology/comments/uy97oa/creating_a_bat_that_places_a_web_link_shortcut/)
-- [Desperately need help for a school project.](https://www.reddit.com/r/InformationTechnology/comments/uxx7ef/desperately_need_help_for_a_school_project/)
-- [My Experience With an Amazon Scammer - How To Protect Yourself and Others!](https://www.reddit.com/r/InformationTechnology/comments/uxx6ii/my_experience_with_an_amazon_scammer_how_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

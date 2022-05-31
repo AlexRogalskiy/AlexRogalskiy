@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [New Cellular Automata](https://www.youtube.com/watch?v=WMJ1H3Ai-qs)
-- [Service sectors can’t hire enough workers while tech is slowing or stop hiring](https://www.cnbc.com/2022/05/29/us-job-market-divide-boosts-some-workers-prospects-puts-others-on-notice.html)
-- [Burning gas to produce electricity is stupid](https://www.cnbc.com/2022/05/24/burning-gas-to-produce-electricity-is-stupid-the-ceo-of-power-giant-enel-says.html)
-- [Show HN: Cinny v2.0](https://github.com/ajbura/cinny)
-- [The Corporate Takeover of Ukrainian Agriculture &lpar;2014&rpar;[pdf]](https://www.oaklandinstitute.org/sites/oaklandinstitute.org/files/Brief_CorporateTakeoverofUkraine_0.pdf)
-- [3DILG: Irregular Latent Grids for 3D Generative Modeling](https://1zb.github.io/3DILG/)
-- [Video2StyleGAN: Disentangling Local and Global Variations in a Video](https://arxiv.org/abs/2205.13996)
-- [Cross-Domain Style Mixing for Face Cartoonization](https://arxiv.org/abs/2205.12450)
-- [Prolific USB-Serial drivers purposefully brick fake chips](https://www.medo64.com/2022/05/really-prolific/)
-- [Are more than a billion umbrellas thrown away every year?](https://skeptics.stackexchange.com/questions/53362/are-more-than-a-billion-umbrellas-thrown-away-every-year)
+- [Zero-day in Sign in with Apple &lpar;2020&rpar;](https://bhavukjain.com/blog/2020/05/30/zeroday-signin-with-apple/)
+- [Data Scraping Is Not a Crime](https://reason.com/?p=8185760)
+- [California Joins Bid to Save Nuclear Power](https://www.bloomberg.com/news/articles/2022-05-25/california-long-leery-of-nuclear-power-joins-bid-to-save-it)
+- [Bear hibernation: More than a winter’s nap](https://knowablemagazine.org/article/living-world/2022/bear-hibernation-more-winters-nap)
+- [OPRF to implement race-based grading system](https://westcooknews.com/stories/626581140-oprf-to-implement-race-based-grading-system-in-2022-23-school-year)
+- [Cargo-supply-chain: Rust author, contributor and publisher data for dep. crates](https://github.com/rust-secure-code/cargo-supply-chain)
+- [Free Speech Movement](https://en.wikipedia.org/wiki/Free_Speech_Movement)
+- [Stephenson Thinks Greed Might Be the Thing That Saves Us](https://www.nytimes.com/interactive/2022/01/10/magazine/neal-stephenson-interview.html)
+- [Fixing C++ with Epoches &lpar;ala Rust Editions&rpar;](https://vittorioromeo.info/index/blog/fixing_cpp_with_epochs.html)
+- [American &lpar;AA&rpar; miles start expiring again – how to save yours](https://thepointsguy.com/news/keep-aa-miles-from-expiring/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Beanfield and GTA school boards collaborate to build a reliable network infrastructure for students](https://www.itworldcanada.com/article/beanfield-and-gta-school-boards-collaborate-to-build-a-reliable-network-infrastructure-for-students/486408)
+- [Newfoundland and Labrador to strengthen its research and innovation with a new $18-million investment](https://www.itworldcanada.com/article/newfoundland-and-labrador-to-strengthen-its-research-and-innovation-with-a-new-18-million-investment/486074)
+- [This week in Ransomware – Friday, May 27th 2022](https://www.itworldcanada.com/article/this-week-in-ransomware-friday-may-27th-2022/486320)
+- [New book explores post-pandemic crisis and disaster management](https://www.itworldcanada.com/article/new-book-explores-post-pandemic-crisis-and-disaster-management/486333)
+- [Cyber Security Today, May 30, 2022 – Canadian and U.S. wireless carriers update their Android utilities, a jump seen in Clop ransomware victims, and more](https://www.itworldcanada.com/article/cyber-security-today-may-30-2022-canadian-and-u-s-wireless-carriers-update-their-android-utilities-a-jump-seen-in-clop-ransomware-victims-and-more/486330)
+- [Hashtag Trending May 30 – Apple raises minimum pay; Google contract workers push back against return to office; TikTok workers face long schedules](https://www.itworldcanada.com/article/hashtag-trending-may-30-apple-raises-minimum-pay-google-contract-workers-push-back-against-return-to-office-tiktok-workers-long-schedules/486346)
 - [Cyber Security Today, Week in Review for Friday May 27, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-may-27-2022/485707)
 - [Telus invests $28 million to roll out PureFibre and 5G networks across various municipalities in Quebec](https://www.itworldcanada.com/article/telus-invests-28-million-to-roll-out-purefibre-and-5g-networks-across-various-municipalities-in-quebec/486122)
 - [KPMG launches search for Canada’s leading tech entrepreneur](https://www.itworldcanada.com/article/kpmg-launches-search-for-canadas-leading-tech-entrepreneur/486047)
 - [Cyber Security Today, May 27, 2022 – Another warning to app developers, and an alleged leader of a business email compromise gang is arrested](https://www.itworldcanada.com/article/cyber-security-today-may-27-2022-another-warning-to-app-developers-and-an-alleged-leader-of-a-business-email-compromise-gang-is-arrested/485711)
-- [Hashtag Trending May 27 – Twitter shareholders sues Elon Musk; Amazon rejects worker wellbeing suggestions; and FTC fines Twitter](https://www.itworldcanada.com/article/hashtag-trending-may-27-twitter-shareholders-sues-elon-musk-amazon-rejects-worker-wellbeing-suggestions-and-ftc-fines-twitter/485972)
-- [Outgoing Canadian privacy commissioner critical of companies, Ottawa in final speech](https://www.itworldcanada.com/article/outgoing-canadian-privacy-commissioner-critical-of-companies-ottawa-in-final-speech/485860)
-- [Panasonic releases the new fully-rugged Toughbook 40](https://www.itworldcanada.com/article/panasonics-releases-toughbook-40/485900)
-- [CIO of the year: Non Profit – Mazen Joukhadar](https://www.itworldcanada.com/article/cio-of-the-year-non-profit-mazen-joukhadar/485822)
-- [CIO of the Year: Private Sector – Julie Levesque](https://www.itworldcanada.com/article/cio-of-the-year-private-sector-julie-levesque/485826)
-- [CIO of the Year: Next Generation Leader – Matt Pedalino](https://www.itworldcanada.com/article/cio-of-the-year-next-generation-leader-matt-pedalino/485805)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

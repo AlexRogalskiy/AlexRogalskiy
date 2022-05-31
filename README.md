@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [ICO calls for police to end ‘excessive collection’ of personal data from rape and assault victims](https://www.computerweekly.com/news/252520842/ICO-calls-for-police-to-end-excessive-collection-of-personal-data-from-rape-and-assault-victims)
+- [Log4Shell: How friendly hackers rose to the challenge](https://www.computerweekly.com/opinion/Log4Shell-How-friendly-hackers-rose-to-the-challenge)
+- [Google Cloud secures contract to supply online productivity tools to Central Dutch Government](https://www.computerweekly.com/news/252520796/Google-Cloud-secures-contract-to-supply-online-productivity-tools-to-Central-Dutch-Government)
+- [Strong internal foundations are key to withstanding external threats](https://www.computerweekly.com/opinion/Strong-internal-foundations-are-key-to-withstanding-external-threats)
 - [Consistency is key to mitigate outsourcing risk](https://www.computerweekly.com/opinion/Consistency-is-key-to-mitigate-outsourcing-risk)
 - [Amazon shareholders vote down audit of warehouse work conditions](https://www.computerweekly.com/news/252520759/Amazon-shareholders-vote-down-audit-of-warehouse-work-conditions)
 - [Macs in the enterprise – what you need to know](https://www.computerweekly.com/feature/Macs-in-the-enterprise-what-you-need-to-know)
 - [Consultation launched on datacentre, cloud security](https://www.computerweekly.com/news/252520728/Consultation-launched-on-datacentre-cloud-security)
 - [Executive interview: Miles Hillier, NatWest](https://www.computerweekly.com/news/252518223/Executive-interview-Miles-Hillier-NatWest)
 - [Broadcom confirms $61bn deal to acquire VMware is going ahead](https://www.computerweekly.com/news/252520722/Broadcom-confirms-61bn-deal-to-acquire-VMware-is-going-ahead)
-- [Digdata and BT inspire future data scientists](https://www.computerweekly.com/news/252520721/Digdata-and-BT-inspire-future-data-scientists)
-- [Security Think Tank: Core security processes must adapt in a complex landscape](https://www.computerweekly.com/opinion/Security-Think-Tank-Core-security-processes-must-adapt-in-a-complex-landscape)
-- [Two-thirds of UK organisations defrauded since start of pandemic](https://www.computerweekly.com/news/252520716/Two-thirds-of-UK-organisations-defrauded-since-start-of-pandemic)
-- [Most CFOs being left out of ransomware conversations](https://www.computerweekly.com/news/252520714/Most-CFOs-being-left-out-of-ransomware-conversations)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

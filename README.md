@@ -369,6 +369,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Will US Businesses Leverage 5G in Canada?](https://www.informationweek.com/strategic-cio/will-us-businesses-leverage-5g-in-canada-)
+- [How Inclusive Hiring Policies Address the Great Resignation](https://www.informationweek.com/strategic-cio/how-inclusive-hiring-policies-address-the-great-resignation)
 - [Data Privacy Enforcement Actions Step Up](https://www.informationweek.com/ai-or-machine-learning/data-privacy-enforcement-actions-step-up)
 - [Can Regulators and Fintech Find the Right Formula for Innovation?](https://www.informationweek.com/fintech/can-regulators-and-fintech-find-the-right-formula-for-innovation-)
 - [Explosion of Connected Assets Requires IT Management Evolution](https://www.informationweek.com/big-data/explosion-of-connected-assets-requires-it-management-evolution)
@@ -377,8 +379,6 @@
 - [How Deep Learning Can Help Your Enterprise](https://www.informationweek.com/big-data/how-deep-learning-can-help-your-enterprise)
 - [GDPR Anniversary: Farewell to Global Data Lakes](https://www.informationweek.com/big-data/gdpr-anniversary-farewell-to-global-data-lakes)
 - [Salary Survey: IT Gender Pay Gap Keeps Growing](https://www.informationweek.com/strategic-cio/salary-survey-it-gender-pay-gap-keeps-growing)
-- [CIOs Take Center Stage on ESG Strategies, Battling an Overflow of Data](https://www.informationweek.com/big-data/cios-take-center-stage-on-esg-strategies-battling-an-overflow-of-data)
-- [News Reports Say Broadcom Seeks VMware Acquisition](https://www.informationweek.com/cloud/news-reports-say-broadcom-seeks-vmware-acquisition)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

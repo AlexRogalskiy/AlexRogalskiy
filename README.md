@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war: what we know on day 97 of the invasion](https://www.theguardian.com/world/2022/may/31/russia-ukraine-war-what-we-know-on-day-97-of-the-invasion)
-- [Abuse in the modelling industry – podcast](https://www.theguardian.com/news/audio/2022/may/31/breaking-silence-brunel-abuse-modelling-industry-podcast)
-- [France bans English gaming tech jargon in push to preserve language purity](https://www.theguardian.com/world/2022/may/31/france-bans-english-gaming-tech-jargon-in-push-to-preserve-language-purity)
-- [‘People are going to die’: crisis-hit Sri Lanka runs out of medicine](https://www.theguardian.com/world/2022/may/31/people-are-going-to-die-crisis-hit-sri-lanka-runs-out-of-medicine)
-- [Bachelet’s Xinjiang visit is emblematic of the growing divide between China and the west](https://www.theguardian.com/world/2022/may/31/bachelets-xinjiang-visit-is-emblematic-of-the-growing-divide-between-china-and-the-west)
-- [At least 91 dead in Brazil floods and landslides with many more missing](https://www.theguardian.com/world/2022/may/31/dozens-dead-in-brazil-floods-and-landslides-with-many-more-missing)
-- [Handgun freeze in Canada and five-round limit on magazines](https://www.theguardian.com/world/2022/may/31/handgun-freeze-in-canada-and-five-round-limit-on-magazines)
-- [EU leaders agree to partial embargo of Russian oil imports](https://www.theguardian.com/world/2022/may/30/eu-nears-compromise-agreement-for-partial-ban-on-russian-oil)
-- [Qatar World Cup criticised for ‘problematic’ carbon footprint promises](https://www.theguardian.com/football/2022/may/31/qatar-world-cup-criticised-for-problematic-carbon-footprint-promises)
-- [UK investigators told to stop mass collection of personal data in rape cases](https://www.theguardian.com/society/2022/may/31/uk-investigators-told-to-stop-mass-collection-of-personal-data-in-rape-cases)
+- [Himars: what are the advanced rockets US is sending Ukraine?](https://www.theguardian.com/world/2022/jun/01/himars-what-are-the-advanced-rockets-us-is-sending-ukraine)
+- [‘Humble and charismatic’: Uvalde shooting victims mourned at first funerals](https://www.theguardian.com/us-news/2022/may/31/texas-school-shooting-funerals)
+- [Is the UK heading for a recession? - podcast](https://www.theguardian.com/news/audio/2022/jun/01/is-the-uk-heading-for-a-recession-podcast)
+- [Deaths amid flooding and mudslides as Hurricane Agatha hits Mexico](https://www.theguardian.com/world/2022/may/31/hurricane-agatha-mexico-strongest-landfall-may)
+- [Indian singer KK dies aged 53 after falling ill while performing](https://www.theguardian.com/music/2022/jun/01/indian-singer-kk-dies-aged-53-after-falling-ill-while-performing)
+- [Peter Navarro subpoena suggests DoJ may be investigating Trump](https://www.theguardian.com/us-news/2022/may/31/peter-navarro-subpoena-donald-trump)
+- [Mountain lion attacks girl, 9, playing hide-and-seek](https://www.theguardian.com/us-news/2022/jun/01/mountain-lion-attacks-girl-9-playing-hide-and-seek)
+- [Russia-Ukraine war: what we know on day 98 of the invasion](https://www.theguardian.com/world/2022/jun/01/russia-ukraine-war-what-we-know-on-day-98-of-the-invasion)
+- [Rafael Nadal’s dominance on clay continues with epic French Open win over Novak Djokovic](https://www.theguardian.com/sport/2022/jun/01/rafael-nadals-dominance-on-clay-continues-with-epic-french-open-win-over-novak-djokovic)
+- [BTS-mania sweeps the White House as boy band speaks on anti-Asian hate](https://www.theguardian.com/us-news/2022/may/31/bts-white-house-visit-anti-asian-american-hate-crimes)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

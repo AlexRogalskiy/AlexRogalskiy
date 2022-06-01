@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [VPN issue](https://www.reddit.com/r/InformationTechnology/comments/v25yc4/vpn_issue/)
+- [Should the IT function within companies take ownership, budget, and credit for data science and analytics?](https://www.reddit.com/r/InformationTechnology/comments/v22u8i/should_the_it_function_within_companies_take/)
+- [web developer or data scientist?](https://www.reddit.com/r/InformationTechnology/comments/v209k1/web_developer_or_data_scientist/)
+- [Second Career Choice &lpar;Cybersecurity&rpar;: 2nd Bachelor&#39;s or Master&#39;s?](https://www.reddit.com/r/InformationTechnology/comments/v1tgko/second_career_choice_cybersecurity_2nd_bachelors/)
 - [Looking for some advice on how to get into the field.](https://www.reddit.com/r/InformationTechnology/comments/v1ag62/looking_for_some_advice_on_how_to_get_into_the/)
 - [High School Internship Opportunity](https://www.reddit.com/r/InformationTechnology/comments/v17xvj/high_school_internship_opportunity/)
 - [Free Course: Linux for Blue Team](https://www.reddit.com/r/InformationTechnology/comments/v12m7f/free_course_linux_for_blue_team/)
 - [Book for beginner](https://www.reddit.com/r/InformationTechnology/comments/v0yhol/book_for_beginner/)
 - [IT Educational Research](https://www.reddit.com/r/InformationTechnology/comments/v0rpb5/it_educational_research/)
 - [CYBERSOC Information Technology Library Blog](https://www.reddit.com/r/InformationTechnology/comments/v0bxwy/cybersoc_information_technology_library_blog/)
-- [Change Management in Remote Teams](https://www.reddit.com/r/InformationTechnology/comments/v03imi/change_management_in_remote_teams/)
-- [Windows Server 2022: Install and Configure](https://www.reddit.com/r/InformationTechnology/comments/uzjt4u/windows_server_2022_install_and_configure/)
-- [Tech Job Search?](https://www.reddit.com/r/InformationTechnology/comments/uzjenk/tech_job_search/)
-- [Anyone else disappointed by the 220-1001 exam?](https://www.reddit.com/r/InformationTechnology/comments/uzgqce/anyone_else_disappointed_by_the_2201001_exam/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

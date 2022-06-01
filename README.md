@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Windows 11: Should you bypass the hardware block?](https://www.computerworld.com/article/3662293/windows-11-should-you-bypass-hardware-block.html#tk.rss_all)
+- [Why Industry 4.0 must think more like Apple](https://www.computerworld.com/article/3662131/why-industry-40-must-think-more-like-apple.html#tk.rss_all)
+- [BrandPost: Beyond SLAs: Why You Need Experience-Level Agreements &lpar;XLAs&rpar; in the Digital Workplace](https://www.computerworld.com/article/3649708/beyond-slas-why-you-need-experience-level-agreements-xlas-in-the-digital-workplace.html#tk.rss_all)
+- [BrandPost: Unifying Data Management With a Single Pane of Glass](https://www.computerworld.com/article/3649748/unifying-data-management-with-a-single-pane-of-glass.html#tk.rss_all)
+- [BrandPost: Aligning With the Right Partner Takes the Complexity out of Cloud Modernization](https://www.computerworld.com/article/3654962/aligning-with-the-right-partner-takes-the-complexity-out-of-cloud-modernization.html#tk.rss_all)
+- [Instead of working from the office or home, why not work from the road?](https://www.computerworld.com/article/3662113/instead-of-working-from-the-office-or-home-why-not-work-from-the-road.html#tk.rss_all)
+- [IT workers face greater stress from remote issues](https://www.computerworld.com/article/3662110/it-workers-face-greater-stress-from-remote-issues.html#tk.rss_all)
+- [Google’s open-source security move may be pointless. In a perfect world, it should be.](https://www.computerworld.com/article/3662310/googles-open-source-security-move-may-be-pointless-in-a-perfect-world-it-should-be.html#tk.rss_all)
 - [WWDC: Is Apple preparing to give iPad a mammoth upgrade?](https://www.computerworld.com/article/3662109/wwdc-is-apple-preparing-to-give-ipad-a-mammoth-upgrade.html#tk.rss_all)
 - [Considering contract help? Keep these 10 tips in mind](https://www.computerworld.com/article/3662031/considering-contract-help-keep-these-10-tips-in-mind.html#tk.rss_all)
-- [6 Android settings for smarter notifications](https://www.computerworld.com/article/3661816/android-notifications.html#tk.rss_all)
-- [WWDC 2022 Preview](https://www.computerworld.com/article/3662309/wwdc-2022-preview.html#tk.rss_all)
-- [Microsoft pumps the brakes on hiring](https://www.computerworld.com/article/3662308/microsoft-pumps-the-brakes-on-hiring.html#tk.rss_all)
-- [Apple’s bid for ubiquity across the US retail industry comes into view](https://www.computerworld.com/article/3662129/apples-bid-for-ubiquity-across-the-us-retail-industry-comes-into-view.html#tk.rss_all)
-- [DOJ reverses itself, says good-faith security researchers should be left alone](https://www.computerworld.com/article/3661692/doj-reverses-itself-says-good-faith-security-researchers-should-be-left-alone.html#tk.rss_all)
-- [IT salaries aren&#39;t keeping up with inflation — but that may soon change](https://www.computerworld.com/article/3662128/it-salaries-arent-keeping-up-with-inflation-but-that-may-soon-change.html#tk.rss_all)
-- [Microsoft security vulnerabilities drop after five-year rise](https://www.csoonline.com/article/3662069/microsoft-security-vulnerabilities-drop-after-five-year-rise.html#tk.rss_all)
-- [Microsoft takes productivity, collaboration to the top floor at Build](https://www.computerworld.com/article/3662028/microsoft-takes-productivity-collaboration-to-the-top-floor-at-build.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

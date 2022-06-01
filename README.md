@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Government announces new directives to the CRTC](https://www.itworldcanada.com/article/government-announces-new-directives-to-the-crtc/486644)
+- [Competition Bureau reaches an agreement with Rogers and Shaw](https://www.itworldcanada.com/article/competition-bureau-reaches-an-agreement-with-rogers-and-shaw/486638)
+- [Investments in digital technology are a waste without employees who can make it useful, experts say](https://www.itworldcanada.com/article/investments-in-digital-technology-are-a-waste-without-employees-who-can-make-it-useful-experts-say/486607)
+- [Over half of Canadian companies see digital twins as drivers of their sustainability agenda, report says](https://www.itworldcanada.com/article/over-half-of-canadian-companies-see-digital-twins-as-drivers-of-their-sustainability-agenda-report-says/486392)
+- [Coffee Briefing May 31, 2022 – Inmarsat to help Canadian government connect communities, scientists, and military; University of Waterloo to offer support to Ukrainian students; and more](https://www.itworldcanada.com/article/coffee-briefing-may-31-2022-inmarsat-to-help-canadian-government-connect-communities-scientists-and-military-university-of-waterloo-to-offer-support-to-ukrainian-students-and-more/486485)
+- [Hashtag Trending May 31 – Tesla car catches fire; U.S. wins supercomputer crown; Samsung cuts smartphone production](https://www.itworldcanada.com/article/hashtag-trending-may-31-tesla-car-catches-fire-u-s-wins-supercomputer-crown-samsung-cuts-smartphone-production/486458)
 - [Beanfield and GTA school boards collaborate to build a reliable network infrastructure for students](https://www.itworldcanada.com/article/beanfield-and-gta-school-boards-collaborate-to-build-a-reliable-network-infrastructure-for-students/486408)
 - [Newfoundland and Labrador to strengthen its research and innovation with a new $18-million investment](https://www.itworldcanada.com/article/newfoundland-and-labrador-to-strengthen-its-research-and-innovation-with-a-new-18-million-investment/486074)
 - [This week in Ransomware – Friday, May 27th 2022](https://www.itworldcanada.com/article/this-week-in-ransomware-friday-may-27th-2022/486320)
 - [New book explores post-pandemic crisis and disaster management](https://www.itworldcanada.com/article/new-book-explores-post-pandemic-crisis-and-disaster-management/486333)
-- [Cyber Security Today, May 30, 2022 – Canadian and U.S. wireless carriers update their Android utilities, a jump seen in Clop ransomware victims, and more](https://www.itworldcanada.com/article/cyber-security-today-may-30-2022-canadian-and-u-s-wireless-carriers-update-their-android-utilities-a-jump-seen-in-clop-ransomware-victims-and-more/486330)
-- [Hashtag Trending May 30 – Apple raises minimum pay; Google contract workers push back against return to office; TikTok workers face long schedules](https://www.itworldcanada.com/article/hashtag-trending-may-30-apple-raises-minimum-pay-google-contract-workers-push-back-against-return-to-office-tiktok-workers-long-schedules/486346)
-- [Cyber Security Today, Week in Review for Friday May 27, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-may-27-2022/485707)
-- [Telus invests $28 million to roll out PureFibre and 5G networks across various municipalities in Quebec](https://www.itworldcanada.com/article/telus-invests-28-million-to-roll-out-purefibre-and-5g-networks-across-various-municipalities-in-quebec/486122)
-- [KPMG launches search for Canada’s leading tech entrepreneur](https://www.itworldcanada.com/article/kpmg-launches-search-for-canadas-leading-tech-entrepreneur/486047)
-- [Cyber Security Today, May 27, 2022 – Another warning to app developers, and an alleged leader of a business email compromise gang is arrested](https://www.itworldcanada.com/article/cyber-security-today-may-27-2022-another-warning-to-app-developers-and-an-alleged-leader-of-a-business-email-compromise-gang-is-arrested/485711)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

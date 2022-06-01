@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [I&#39;m a loser, burnt-out, directionless but want to turn it around](https://news.ycombinator.com/item?id=31565514)
-- [Haribo Goldbears, the world’s first gummy bears](https://www.smithsonianmag.com/history/the-colorful-history-of-haribo-goldbears-the-worlds-first-gummy-bears-180980094/)
-- [So long, home T1 line; hello, hacking the T1 router](http://oldvcr.blogspot.com/2022/05/so-long-home-t1-line-hello-hacking-t1.html)
-- [Asking robots to design stained glass windows](https://astralcodexten.substack.com/p/a-guide-to-asking-robots-to-design)
-- [The Scaling Hypothesis &lpar;2021&rpar;](https://www.gwern.net/Scaling-hypothesis)
-- [Mosquitoes kill more than 700k people every year &lpar;2017&rpar;](https://www.isglobal.org/en_GB/-/mosquito-el-animal-mas-letal-del-mundo)
-- [Jitx &lpar;YC S18&rpar; is hiring a senior optimization scientist](https://jobs.lever.co/jitxinc/485b853e-acd6-4073-b840-2929f210e9d7)
-- [Friendships form via shared context, not shared activities](https://billmei.net/blog/friendship)
-- [Working on the weekends – an academic necessity?](https://thegradient.pub/working-on-the-weekends-an-academic-necessity/)
-- [CogVideo: Large-Scale Pretraining for Text-to-Video Generation via Transformers](https://github.com/THUDM/CogVideo)
+- [Why science needs more research software engineers](https://www.nature.com/articles/d41586-022-01516-2)
+- [I got hacked and Facebook banned me](https://emilycordes.com/facebook/)
+- [VC Meltdown](https://www.bogleheads.org/forum/viewtopic.php?t=378673)
+- [Show HN: I made React with a faster Virtual DOM](https://news.ycombinator.com/item?id=31576634)
+- [Modern CSV Version 2 Beta is now available](https://www.moderncsv.com/beta/)
+- [Find Wikipedia photos needed near you](https://wikishootme.toolforge.org/)
+- [Unclonable Polymers and Their Cryptographic Applications](https://eprint.iacr.org/2022/658)
+- [SPACs are warning they may go bust](https://www.wsj.com/articles/spacs-are-warning-they-may-go-bust-11653601111)
+- [Framework laptop water damage repair attempt using partial schematic [video]](https://www.youtube.com/watch?v=ijRUsxdaLK4)
+- [Why Darwin failed &lpar;2006&rpar;](http://www.synack.net/~bbraun/writing/osfail.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

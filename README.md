@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Zero-day in Sign in with Apple &lpar;2020&rpar;](https://bhavukjain.com/blog/2020/05/30/zeroday-signin-with-apple/)
-- [Data Scraping Is Not a Crime](https://reason.com/?p=8185760)
-- [California Joins Bid to Save Nuclear Power](https://www.bloomberg.com/news/articles/2022-05-25/california-long-leery-of-nuclear-power-joins-bid-to-save-it)
-- [Bear hibernation: More than a winter’s nap](https://knowablemagazine.org/article/living-world/2022/bear-hibernation-more-winters-nap)
-- [OPRF to implement race-based grading system](https://westcooknews.com/stories/626581140-oprf-to-implement-race-based-grading-system-in-2022-23-school-year)
-- [Cargo-supply-chain: Rust author, contributor and publisher data for dep. crates](https://github.com/rust-secure-code/cargo-supply-chain)
-- [Free Speech Movement](https://en.wikipedia.org/wiki/Free_Speech_Movement)
-- [Stephenson Thinks Greed Might Be the Thing That Saves Us](https://www.nytimes.com/interactive/2022/01/10/magazine/neal-stephenson-interview.html)
-- [Fixing C++ with Epoches &lpar;ala Rust Editions&rpar;](https://vittorioromeo.info/index/blog/fixing_cpp_with_epochs.html)
-- [American &lpar;AA&rpar; miles start expiring again – how to save yours](https://thepointsguy.com/news/keep-aa-miles-from-expiring/)
+- [Lgtm – A simple pull request approval system](https://github.com/go-gitea/lgtm)
+- [Thoughts on Moonwalking with Einstein](https://herman.bearblog.dev/moonwalking-with-einstein/)
+- [Gene Therapy Reverses Biological Aging by Six Years](https://twitter.com/Utilit_Aria/status/1531736787583909890)
+- [WebSocket Framing: Masking, Fragmentation and More](https://www.openmymind.net/WebSocket-Framing-Masking-Fragmentation-and-More/)
+- [Issue #50: Trade Idea – Short StETH](https://maroonmacro.substack.com/p/issue-50-trade-idea-short-steth)
+- [CloudKit: Structured Storage for Mobile Applications [pdf]](https://www.vldb.org/pvldb/vol11/p540-shraer.pdf)
+- [Der Sexpuppen Erfunden Hat?](https://www.gutdolls.com/real-sex-doll-puppe-orion-dollsclub.html)
+- [Mozilla Project Fusion: Tor Integration into Firefox &lpar;2018&rpar;](https://gitlab.torproject.org/legacy/trac/-/wikis/org/meetings/2018Rome/Notes/FusionProject)
+- [The Most Deadly Project on the Internet: Fractal Burning [video]](https://www.youtube.com/watch?v=FBeSKL9zVro)
+- [Ethical AI isn’t just how you build it, it’s how you use it](https://stackoverflow.blog/2022/05/30/ethical-ai-isnt-just-how-you-build-it-its-how-you-use-it/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

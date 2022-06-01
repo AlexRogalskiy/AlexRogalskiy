@@ -384,6 +384,7 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [3 business solutions where AI is a good choice](https://www.infoworld.com/article/3662071/3-business-solutions-where-ai-is-a-good-choice.html#tk.rss_all)
 - [3 ways devops can support continuous architecture](https://www.infoworld.com/article/3662290/3-ways-devops-can-support-continuous-architecture.html#tk.rss_all)
 - [As data science goes mainstream, so does its language](https://www.infoworld.com/article/3662033/as-data-science-goes-mainstream-so-does-its-language.html#tk.rss_all)
 - [You’re thinking about technical debt all wrong](https://www.infoworld.com/article/3660632/you-re-thinking-about-technical-debt-all-wrong.html#tk.rss_all)
@@ -393,7 +394,6 @@
 - [Reactive JavaScript: The evolution of front-end architecture](https://www.infoworld.com/article/3661810/reactive-javascript-the-evolution-of-front-end-architecture.html#tk.rss_all)
 - [How to work with String.Create in C#](https://www.infoworld.com/article/3661361/how-to-work-with-string-create-in-c-sharp.html#tk.rss_all)
 - [TypeScript 4.7 crosses the finish line](https://www.infoworld.com/article/3656801/typescript-47-crosses-the-finish-line.html#tk.rss_all)
-- [Broadcom targets enterprise infrastructure with $61B VMware acquisition](https://www.networkworld.com/article/3662050/broadcom-targets-enterprise-infrastructure-with-61b-vmware-acquisition.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

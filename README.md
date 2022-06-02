@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
+- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
+- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
+- [Why Apple worries about photography on the iPhone](https://www.computerworld.com/article/3662041/why-apple-worries-about-photography-on-the-iphone.html#tk.rss_all)
+- [Slack revamps user profiles for better connections](https://www.computerworld.com/article/3662295/slack-revamps-user-profiles-for-better-connections.html#tk.rss_all)
+- [Salesforce to slow hiring and M&amp;A activity after posting strong Q1 results](https://www.computerworld.com/article/3662115/salesforce-to-slow-hiring-and-manda-activity-after-posting-strong-q1-results.html#tk.rss_all)
+- [6 secret shortcuts in Chrome on Android](https://www.computerworld.com/article/3662037/chrome-android-shortcuts.html#tk.rss_all)
+- [Google Workspace vs. Microsoft 365: Which has better management tools?](https://www.computerworld.com/article/3181827/google-workspace-vs-microsoft-365-management-tools.html#tk.rss_all)
 - [Windows 11: Should you bypass the hardware block?](https://www.computerworld.com/article/3662293/windows-11-should-you-bypass-hardware-block.html#tk.rss_all)
 - [Why Industry 4.0 must think more like Apple](https://www.computerworld.com/article/3662131/why-industry-40-must-think-more-like-apple.html#tk.rss_all)
-- [BrandPost: Beyond SLAs: Why You Need Experience-Level Agreements &lpar;XLAs&rpar; in the Digital Workplace](https://www.computerworld.com/article/3649708/beyond-slas-why-you-need-experience-level-agreements-xlas-in-the-digital-workplace.html#tk.rss_all)
-- [BrandPost: Unifying Data Management With a Single Pane of Glass](https://www.computerworld.com/article/3649748/unifying-data-management-with-a-single-pane-of-glass.html#tk.rss_all)
-- [BrandPost: Aligning With the Right Partner Takes the Complexity out of Cloud Modernization](https://www.computerworld.com/article/3654962/aligning-with-the-right-partner-takes-the-complexity-out-of-cloud-modernization.html#tk.rss_all)
-- [Instead of working from the office or home, why not work from the road?](https://www.computerworld.com/article/3662113/instead-of-working-from-the-office-or-home-why-not-work-from-the-road.html#tk.rss_all)
-- [IT workers face greater stress from remote issues](https://www.computerworld.com/article/3662110/it-workers-face-greater-stress-from-remote-issues.html#tk.rss_all)
-- [Google’s open-source security move may be pointless. In a perfect world, it should be.](https://www.computerworld.com/article/3662310/googles-open-source-security-move-may-be-pointless-in-a-perfect-world-it-should-be.html#tk.rss_all)
-- [WWDC: Is Apple preparing to give iPad a mammoth upgrade?](https://www.computerworld.com/article/3662109/wwdc-is-apple-preparing-to-give-ipad-a-mammoth-upgrade.html#tk.rss_all)
-- [Considering contract help? Keep these 10 tips in mind](https://www.computerworld.com/article/3662031/considering-contract-help-keep-these-10-tips-in-mind.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

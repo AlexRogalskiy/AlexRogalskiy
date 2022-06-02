@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Why science needs more research software engineers](https://www.nature.com/articles/d41586-022-01516-2)
-- [I got hacked and Facebook banned me](https://emilycordes.com/facebook/)
-- [VC Meltdown](https://www.bogleheads.org/forum/viewtopic.php?t=378673)
-- [Show HN: I made React with a faster Virtual DOM](https://news.ycombinator.com/item?id=31576634)
-- [Modern CSV Version 2 Beta is now available](https://www.moderncsv.com/beta/)
-- [Find Wikipedia photos needed near you](https://wikishootme.toolforge.org/)
-- [Unclonable Polymers and Their Cryptographic Applications](https://eprint.iacr.org/2022/658)
-- [SPACs are warning they may go bust](https://www.wsj.com/articles/spacs-are-warning-they-may-go-bust-11653601111)
-- [Framework laptop water damage repair attempt using partial schematic [video]](https://www.youtube.com/watch?v=ijRUsxdaLK4)
-- [Why Darwin failed &lpar;2006&rpar;](http://www.synack.net/~bbraun/writing/osfail.html)
+- [A concise summary of software concepts](https://blog.john-pfeiffer.com/a-concise-summary-of-amazing-and-great-ideas/)
+- [Ask HN: Favourite Open Source Game?](https://news.ycombinator.com/item?id=31590724)
+- [Turkish Magician Built a $600M Nasdaq-Listed Scam Based on Lies](https://hindenburgresearch.com/enochian/)
+- [Padlet Is Hiring in Singapore to Build Software for a Good Education](https://padlet.jobs)
+- [Break Up The Elite College Seats Cartel](https://sahajsharda.substack.com/p/break-up-the-elite-college-seats)
+- [Open Source Alternative To](https://www.opensourcealternative.to)
+- [Remembering Dave Smith, 1950–2022](https://www.sequential.com/)
+- [The Curse of Strong Typing](https://fasterthanli.me/articles/the-curse-of-strong-typing)
+- [AWS for Industry, but Better: The Railroad Investment Case](https://www.thediff.co/p/aws-for-industry-but-better-the-railroad)
+- [No, DALL-E doesn’t have a secret language](https://twitter.com/benjamin_hilton/status/1531780892972175361)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

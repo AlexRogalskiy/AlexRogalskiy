@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Himars: what are the advanced rockets US is sending Ukraine?](https://www.theguardian.com/world/2022/jun/01/himars-what-are-the-advanced-rockets-us-is-sending-ukraine)
-- [‘Humble and charismatic’: Uvalde shooting victims mourned at first funerals](https://www.theguardian.com/us-news/2022/may/31/texas-school-shooting-funerals)
-- [Is the UK heading for a recession? - podcast](https://www.theguardian.com/news/audio/2022/jun/01/is-the-uk-heading-for-a-recession-podcast)
-- [Deaths amid flooding and mudslides as Hurricane Agatha hits Mexico](https://www.theguardian.com/world/2022/may/31/hurricane-agatha-mexico-strongest-landfall-may)
-- [Indian singer KK dies aged 53 after falling ill while performing](https://www.theguardian.com/music/2022/jun/01/indian-singer-kk-dies-aged-53-after-falling-ill-while-performing)
-- [Peter Navarro subpoena suggests DoJ may be investigating Trump](https://www.theguardian.com/us-news/2022/may/31/peter-navarro-subpoena-donald-trump)
-- [Mountain lion attacks girl, 9, playing hide-and-seek](https://www.theguardian.com/us-news/2022/jun/01/mountain-lion-attacks-girl-9-playing-hide-and-seek)
-- [Russia-Ukraine war: what we know on day 98 of the invasion](https://www.theguardian.com/world/2022/jun/01/russia-ukraine-war-what-we-know-on-day-98-of-the-invasion)
-- [Rafael Nadal’s dominance on clay continues with epic French Open win over Novak Djokovic](https://www.theguardian.com/sport/2022/jun/01/rafael-nadals-dominance-on-clay-continues-with-epic-french-open-win-over-novak-djokovic)
-- [BTS-mania sweeps the White House as boy band speaks on anti-Asian hate](https://www.theguardian.com/us-news/2022/may/31/bts-white-house-visit-anti-asian-american-hate-crimes)
+- [The Queen’s platinum jubilee and the future of the monarchy – podcast](https://www.theguardian.com/news/audio/2022/jun/02/queen-platinum-jubilee-future-of-the-monarchy-podcast)
+- [Russia-Ukraine war: what we know on day 99 of the invasion](https://www.theguardian.com/world/2022/jun/02/russia-ukraine-war-what-we-know-on-day-99-of-the-invasion)
+- [Four killed in shooting at Tulsa medical building, police say](https://www.theguardian.com/us-news/2022/jun/01/tulsa-shooting-natalie-medical-building)
+- [North Korea’s Covid outbreak likely ‘getting worse’, WHO says](https://www.theguardian.com/world/2022/jun/02/north-koreas-covid-outbreak-likely-getting-worse-who-says)
+- [Jada Pinkett Smith hopes Will Smith and Chris Rock will ‘reconcile’ after Oscars slap](https://www.theguardian.com/culture/2022/jun/02/jada-pinkett-smith-hopes-will-smith-and-chris-rock-will-reconcile-after-oscars-slap)
+- [British rider Mark Purslow dies aged 29 after Isle of Man TT qualifying accident](https://www.theguardian.com/sport/2022/jun/02/mark-purslow-dies-after-isle-of-man-tt-qualifying-accident)
+- [Cilic edges Rublev in epic battle to set up French Open semi-final with Ruud](https://www.theguardian.com/sport/2022/jun/01/cilic-defeats-rublev-in-five-sets-to-reach-french-open-last-four-for-first-time)
+- [West demands publication of UN’s long-awaited Xinjiang report](https://www.theguardian.com/world/2022/jun/02/west-demands-publication-of-uns-long-awaited-xinjiang-report)
+- [Denmark votes overwhelmingly to join EU’s common defence policy](https://www.theguardian.com/world/2022/jun/01/denmark-votes-on-joining-eus-common-defence-policy)
+- [Boris Johnson critic Jeremy Wright knighted in birthday honours](https://www.theguardian.com/uk-news/2022/jun/01/boris-johnson-critic-jeremy-wright-knighted-in-birthday-honours)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

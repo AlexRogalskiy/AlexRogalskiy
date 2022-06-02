@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Lgtm – A simple pull request approval system](https://github.com/go-gitea/lgtm)
-- [Thoughts on Moonwalking with Einstein](https://herman.bearblog.dev/moonwalking-with-einstein/)
-- [Gene Therapy Reverses Biological Aging by Six Years](https://twitter.com/Utilit_Aria/status/1531736787583909890)
-- [WebSocket Framing: Masking, Fragmentation and More](https://www.openmymind.net/WebSocket-Framing-Masking-Fragmentation-and-More/)
-- [Issue #50: Trade Idea – Short StETH](https://maroonmacro.substack.com/p/issue-50-trade-idea-short-steth)
-- [CloudKit: Structured Storage for Mobile Applications [pdf]](https://www.vldb.org/pvldb/vol11/p540-shraer.pdf)
-- [Der Sexpuppen Erfunden Hat?](https://www.gutdolls.com/real-sex-doll-puppe-orion-dollsclub.html)
-- [Mozilla Project Fusion: Tor Integration into Firefox &lpar;2018&rpar;](https://gitlab.torproject.org/legacy/trac/-/wikis/org/meetings/2018Rome/Notes/FusionProject)
-- [The Most Deadly Project on the Internet: Fractal Burning [video]](https://www.youtube.com/watch?v=FBeSKL9zVro)
-- [Ethical AI isn’t just how you build it, it’s how you use it](https://stackoverflow.blog/2022/05/30/ethical-ai-isnt-just-how-you-build-it-its-how-you-use-it/)
+- [I quit my Netflix engineer $450k/year job: money wasn&#39;t worth the boredom](https://www.businessinsider.com/quit-job-at-netflix-senior-engineer-boredom-six-figures-2022-5)
+- [Natural Justice](https://en.wikipedia.org/wiki/Natural_justice)
+- [Consus: Taming the Paxi](http://muratbuffalo.blogspot.com/2022/06/consus-taming-paxi.html)
+- [Stop Taking Regular Notes; Use a Zettelkasten Instead &lpar;2020&rpar;](https://eugeneyan.com/2020/04/05/note-taking-zettelkasten/)
+- [Google Is Confusing Us All Again by Combining Meet and Duo into One Video App](https://gizmodo.com/google-meet-duo-video-call-app-phone-pc-chromebook-brow-1849004166)
+- [The World’s Largest Plant Is a Self-Cloning Sea Grass in Australia](https://www.nytimes.com/2022/05/31/science/clone-seagrass-australia.html)
+- [How are you using your whiteboard at home?](https://news.ycombinator.com/item?id=31590998)
+- [Database as Code – The Good, the Bad and the Ugly](https://www.bytebase.com/blog/database-as-code)
+- [Battlefield Product Management](https://staysaasy.com/product/2022/06/01/battlefield-product-management.html)
+- [The Third Horseman](https://www.tradersinsight.news/traders-insight/securities/macro/the-third-horseman/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

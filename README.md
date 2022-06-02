@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is it worthwhile to take extra cert courses on Coursera?](https://www.reddit.com/r/InformationTechnology/comments/v2wmua/is_it_worthwhile_to_take_extra_cert_courses_on/)
+- [I feel like I should be studying Bash and Linux rather than learning PowerShell, based on what I read here.](https://www.reddit.com/r/InformationTechnology/comments/v2sdhp/i_feel_like_i_should_be_studying_bash_and_linux/)
+- [resume question](https://www.reddit.com/r/InformationTechnology/comments/v2p66s/resume_question/)
+- [Is it difficult to set up Airflow architecture for production?](https://www.reddit.com/r/InformationTechnology/comments/v2fi3b/is_it_difficult_to_set_up_airflow_architecture/)
+- [Army Reserve 25B &lpar;IT Specialist&rpar; or 25D &lpar;Cyber Network Defender&rpar; jobs after AIT?](https://www.reddit.com/r/InformationTechnology/comments/v2b2b0/army_reserve_25b_it_specialist_or_25d_cyber/)
+- [How many hours do you actually work in a day?](https://www.reddit.com/r/InformationTechnology/comments/v2a1n1/how_many_hours_do_you_actually_work_in_a_day/)
 - [VPN issue](https://www.reddit.com/r/InformationTechnology/comments/v25yc4/vpn_issue/)
 - [Should the IT function within companies take ownership, budget, and credit for data science and analytics?](https://www.reddit.com/r/InformationTechnology/comments/v22u8i/should_the_it_function_within_companies_take/)
 - [web developer or data scientist?](https://www.reddit.com/r/InformationTechnology/comments/v209k1/web_developer_or_data_scientist/)
 - [Second Career Choice &lpar;Cybersecurity&rpar;: 2nd Bachelor&#39;s or Master&#39;s?](https://www.reddit.com/r/InformationTechnology/comments/v1tgko/second_career_choice_cybersecurity_2nd_bachelors/)
-- [Looking for some advice on how to get into the field.](https://www.reddit.com/r/InformationTechnology/comments/v1ag62/looking_for_some_advice_on_how_to_get_into_the/)
-- [High School Internship Opportunity](https://www.reddit.com/r/InformationTechnology/comments/v17xvj/high_school_internship_opportunity/)
-- [Free Course: Linux for Blue Team](https://www.reddit.com/r/InformationTechnology/comments/v12m7f/free_course_linux_for_blue_team/)
-- [Book for beginner](https://www.reddit.com/r/InformationTechnology/comments/v0yhol/book_for_beginner/)
-- [IT Educational Research](https://www.reddit.com/r/InformationTechnology/comments/v0rpb5/it_educational_research/)
-- [CYBERSOC Information Technology Library Blog](https://www.reddit.com/r/InformationTechnology/comments/v0bxwy/cybersoc_information_technology_library_blog/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

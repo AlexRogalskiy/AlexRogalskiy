@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Four obstacles to hybrid cloud storage – and possible solutions](https://www.computerweekly.com/feature/Four-obstacles-to-hybrid-cloud-storage-And-possible-solutions)
+- [Over a third of cyber security professionals plan career change](https://www.computerweekly.com/news/252520947/Over-a-third-of-cyber-security-professionals-plan-career-change)
+- [EU must stand ground on cyber security, says Finland’s WithSecure](https://www.computerweekly.com/news/252520950/EU-must-stand-ground-on-cyber-security-says-Finlands-WithSecure)
+- [Executive interview: Jeetu Patel, general manager of collaboration and security, Cisco](https://www.computerweekly.com/news/252520671/Executive-interview-Jeetu-Patel-general-manager-of-collaboration-and-security-Cisco)
+- [Security leaders call for more observability for cloud native apps](https://www.computerweekly.com/news/252520935/Security-leaders-call-for-more-open-tooling-for-multicloud-support)
+- [What does the EU’s NIS 2 cyber directive cover?](https://www.computerweekly.com/opinion/What-does-the-EUs-NIS-2-cyber-directive-cover)
+- [Millions of UK workers lack digital workplace skills, says FutureDotNow](https://www.computerweekly.com/news/252520918/Millions-of-UK-workers-lack-digital-workplace-skills-says-FutureDotNow)
+- [UKtech50 2022: Vote for the most influential person in UK technology](https://www.computerweekly.com/news/252520853/UKtech50-2022-Vote-for-the-most-influential-person-in-UK-technology)
 - [CIO interview: Emma Frost, director of innovation, London Legacy Development Corporation](https://www.computerweekly.com/news/252520536/CIO-interview-Emma-Frost-director-of-innovation-London-Legacy-Development-Corporation)
 - [The importance of making information security more accessible](https://www.computerweekly.com/opinion/The-importance-of-making-information-security-more-accessible)
-- [How Police Scotland deployed mobile comms for integrated services](https://www.computerweekly.com/news/252520612/How-Police-Scotland-deployed-mobile-comms-for-integrated-services)
-- [Researchers discover zero-day Microsoft vulnerability in Office](https://www.computerweekly.com/news/252520855/Researchers-discover-zero-day-Microsoft-vulnerability-in-Office)
-- [Podcast: How to get truly portable Kubernetes storage](https://www.computerweekly.com/podcast/Podcast-How-to-get-truly-portable-Kubernetes-storage)
-- [Attack of the clones: the rise of identity theft on social media](https://www.computerweekly.com/feature/Attack-of-the-clones-the-rise-of-identity-theft-on-social-media)
-- [Succession in the world of ERP](https://www.computerweekly.com/opinion/Succession-in-the-world-of-ERP)
-- [How cryptocurrency is bringing humanitarian value to Ukraine](https://www.computerweekly.com/opinion/How-Cryptocurrency-Is-Bringing-Humanitarian-Value-to-Ukraine)
-- [Industrial systems not safe for the future, say Dutch ethical hackers](https://www.computerweekly.com/news/252520822/Industrial-systems-not-safe-for-the-future-say-Dutch-ethical-hackers)
-- [OVHCloud facing client compensation class action claim of €10m over March 2021 datacentre fire](https://www.computerweekly.com/news/252520844/OVHCloud-facing-client-compensation-class-action-claim-of-10m-over-March-2021-datacentre-fire)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

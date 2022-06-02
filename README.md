@@ -384,6 +384,9 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [JDK 19: The new features in Java 19](https://www.infoworld.com/article/3653331/jdk-19-the-new-features-in-java-19.html#tk.rss_all)
+- [Microsoft Dev Box: Your development workstation on Azure](https://www.infoworld.com/article/3662291/microsoft-dev-box-your-development-workstation-on-azure.html#tk.rss_all)
+- [How Vanguard and Morgan Stanley are balancing dev and ops](https://www.infoworld.com/article/3661817/how-vanguard-and-morgan-stanley-are-balancing-dev-and-ops.html#tk.rss_all)
 - [3 business solutions where AI is a good choice](https://www.infoworld.com/article/3662071/3-business-solutions-where-ai-is-a-good-choice.html#tk.rss_all)
 - [3 ways devops can support continuous architecture](https://www.infoworld.com/article/3662290/3-ways-devops-can-support-continuous-architecture.html#tk.rss_all)
 - [As data science goes mainstream, so does its language](https://www.infoworld.com/article/3662033/as-data-science-goes-mainstream-so-does-its-language.html#tk.rss_all)
@@ -391,9 +394,6 @@
 - [Multicloud complexity is a major operational challenge](https://www.infoworld.com/article/3662029/multicloud-complexity-is-a-major-operational-challenge.html#tk.rss_all)
 - [What is WebAssembly? The next-generation web platform explained](https://www.infoworld.com/article/3291780/what-is-webassembly-the-next-generation-web-platform-explained.html#tk.rss_all)
 - [Eclipse unveils Java binaries marketplace](https://www.infoworld.com/article/3662048/eclipse-opens-java-binaries-marketplace.html#tk.rss_all)
-- [Reactive JavaScript: The evolution of front-end architecture](https://www.infoworld.com/article/3661810/reactive-javascript-the-evolution-of-front-end-architecture.html#tk.rss_all)
-- [How to work with String.Create in C#](https://www.infoworld.com/article/3661361/how-to-work-with-string-create-in-c-sharp.html#tk.rss_all)
-- [TypeScript 4.7 crosses the finish line](https://www.infoworld.com/article/3656801/typescript-47-crosses-the-finish-line.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

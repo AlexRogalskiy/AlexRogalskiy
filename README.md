@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Zuckerberg announces new management structure with departure of Sheryl Sandberg as COO of Meta](https://www.itworldcanada.com/article/zuckerberg-announces-new-management-structure-with-departure-of-sheryl-sandberg-as-coo-of-meta/486894)
+- [BlackBerry patent sale is no longer exclusive to original buyer](https://www.itworldcanada.com/article/blackberry-patent-sale-is-no-longer-exclusive-to-original-buyer/486893)
+- [France bans anglicisms from the gaming world](https://www.itworldcanada.com/article/france-bans-anglicisms-from-the-gaming-world/486889)
+- [How to get the inside track on insider security threats](https://www.itworldcanada.com/article/how-to-get-the-inside-track-on-insider-security-threats/486879)
+- [Hashtag Trending June 2 – Elon rebuffs remote work; transport industry a long way away from carbon neutrality; smartphone cameras to rival pro cameras by 2024](https://www.itworldcanada.com/article/hashtag-trending-june-2-elon-rebuffs-remote-work-transport-industry-a-long-way-away-from-carbon-neutrality-smartphone-cameras-to-rival-pro-cameras-by-2024/486782)
 - [5 new Microsoft certifications announced at Build 2022](https://www.itworldcanada.com/article/5-new-microsoft-certifications-announced-at-build-2022/486769)
 - [Privacy commissioners find Tim Hortons violated privacy laws](https://www.itworldcanada.com/article/privacy-commissioners-find-tim-hortons-violated-privacy-laws/486785)
 - [Ontario teen lands first place in the TCS goIT Monthly Competition for creating an app to reduce e-waste](https://www.itworldcanada.com/article/ontario-teen-lands-first-place-in-the-tcs-goit-monthly-competition-for-creating-an-app-to-reduce-e-waste/486760)
 - [Microsoft announces Surface Laptop Go 2](https://www.itworldcanada.com/article/microsoft-announces-surface-laptop-go-2/486722)
-- [Cyber Security Today – Wed, June 1st](https://www.itworldcanada.com/article/cyber-security-today-wed-june-1st/486678)
-- [Hashtag Trending June 1 – Netflix password crackdown sees mild success; California Right to Repair bill fails; Australia’s digital driver’s license can be hacked](https://www.itworldcanada.com/article/hashtag-trending-june-1-netflix-password-crackdown-sees-mild-success-california-right-to-repair-bill-fails-australias-digital-drivers-license-can-be-hacked/486668)
-- [Government announces new directives to the CRTC](https://www.itworldcanada.com/article/government-announces-new-directives-to-the-crtc/486644)
-- [Competition Bureau reaches an agreement with Rogers and Shaw](https://www.itworldcanada.com/article/competition-bureau-reaches-an-agreement-with-rogers-and-shaw/486638)
-- [Investments in digital technology are a waste without employees who can make it useful, experts say](https://www.itworldcanada.com/article/investments-in-digital-technology-are-a-waste-without-employees-who-can-make-it-useful-experts-say/486607)
-- [Over half of Canadian companies see digital twins as drivers of their sustainability agenda, report says](https://www.itworldcanada.com/article/over-half-of-canadian-companies-see-digital-twins-as-drivers-of-their-sustainability-agenda-report-says/486392)
+- [Cyber Security Today – Wednesday, June 1, 2022](https://www.itworldcanada.com/article/cyber-security-today-wed-june-1st/486678)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

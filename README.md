@@ -369,6 +369,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Connected Healthcare Takes Huge Leap Forward](https://www.informationweek.com/healthcare/connected-healthcare-takes-huge-leap-forward)
+- [Why Hiring More Data Scientists Won’t Unlock the ROI of Your AI](https://www.informationweek.com/big-data/why-hiring-more-data-scientists-won-t-unlock-the-roi-of-your-ai)
 - [User Empathy: Still in Short Supply in IT?](https://www.informationweek.com/strategic-cio/user-empathy-still-in-short-supply-in-it-)
 - [Overcoming the Talent Shortage Within Cybersecurity](https://www.informationweek.com/strategic-cio/overcoming-the-talent-shortage-within-cybersecurity)
 - [4 Ways to Lead a More Business-Savvy Software Engineering Team](https://www.informationweek.com/software/4-ways-to-lead-a-more-business-savvy-software-engineering-team)
@@ -377,8 +379,6 @@
 - [Virtual Reality: A Real Metaverse That Everyone Seems to Ignore](https://www.informationweek.com/it-life/virtual-reality-a-real-metaverse-that-everyone-seems-to-ignore)
 - [Will US Businesses Leverage 5G in Canada?](https://www.informationweek.com/strategic-cio/will-us-businesses-leverage-5g-in-canada-)
 - [How Inclusive Hiring Policies Address the Great Resignation](https://www.informationweek.com/strategic-cio/how-inclusive-hiring-policies-address-the-great-resignation)
-- [Data Privacy Enforcement Actions Step Up](https://www.informationweek.com/ai-or-machine-learning/data-privacy-enforcement-actions-step-up)
-- [Can Regulators and Fintech Find the Right Formula for Innovation?](https://www.informationweek.com/fintech/can-regulators-and-fintech-find-the-right-formula-for-innovation-)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

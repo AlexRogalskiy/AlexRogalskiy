@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [I quit my Netflix engineer $450k/year job: money wasn&#39;t worth the boredom](https://www.businessinsider.com/quit-job-at-netflix-senior-engineer-boredom-six-figures-2022-5)
-- [Natural Justice](https://en.wikipedia.org/wiki/Natural_justice)
-- [Consus: Taming the Paxi](http://muratbuffalo.blogspot.com/2022/06/consus-taming-paxi.html)
-- [Stop Taking Regular Notes; Use a Zettelkasten Instead &lpar;2020&rpar;](https://eugeneyan.com/2020/04/05/note-taking-zettelkasten/)
-- [Google Is Confusing Us All Again by Combining Meet and Duo into One Video App](https://gizmodo.com/google-meet-duo-video-call-app-phone-pc-chromebook-brow-1849004166)
-- [The World’s Largest Plant Is a Self-Cloning Sea Grass in Australia](https://www.nytimes.com/2022/05/31/science/clone-seagrass-australia.html)
-- [How are you using your whiteboard at home?](https://news.ycombinator.com/item?id=31590998)
-- [Database as Code – The Good, the Bad and the Ugly](https://www.bytebase.com/blog/database-as-code)
-- [Battlefield Product Management](https://staysaasy.com/product/2022/06/01/battlefield-product-management.html)
-- [The Third Horseman](https://www.tradersinsight.news/traders-insight/securities/macro/the-third-horseman/)
+- [Ben, Ben and Blue](https://www.benbenandblue.com)
+- [China is going to build 150 new nuclear reactors in the next 15 years](https://twitter.com/AlecStapp/status/1532388646984237057)
+- [Firefox Now Available with Enhanced Tracking Protection by Default &lpar;2019&rpar;](https://blog.mozilla.org/en/products/firefox/firefox-now-available-with-enhanced-tracking-protection-by-default/)
+- [Line Between Criminal Hackers and Nation-State Threats Blurs, US Officials Say](https://www.wsj.com/articles/line-between-criminal-hackers-and-nation-state-threats-blurs-u-s-officials-say-11654109885)
+- [Open Source Firmware Attack Surface Reduction](https://docs.microsoft.com/en-us/windows-hardware/drivers/bringup/firmware-attack-surface-reduction)
+- [Burnout Drove Sheryl Sandberg’s Meta Exit](https://www.wsj.com/articles/why-sheryl-sandberg-quit-facebook-meta-11654215712)
+- [Creating Pixel Art &lpar;2010&rpar;](https://pixeljoint.com/forum/forum_posts.asp?TID=11299)
+- [Finding and Funding a Good Life](https://www.pwlcapital.com/finding-and-funding-a-good-life/)
+- [Ode to Mathematics, Isidore Ducasse &lpar;1869&rpar;](https://thanatologist.wordpress.com/ode-to-mathematics/)
+- [Multi-Modal Fusion Transformer for End-to-End Autonomous Driving](https://ap229997.github.io/projects/transfuser/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

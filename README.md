@@ -384,6 +384,9 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [C++ 23 to introduce module support](https://www.infoworld.com/article/3662808/c-plus-plus-23-to-introduce-module-support.html#tk.rss_all)
+- [Use logging and DI in minimal APIs in ASP.NET Core 6](https://www.infoworld.com/article/3662294/use-logging-and-di-in-minimal-apis-in-aspnet-core-6.html#tk.rss_all)
+- [Better Java: JDK Enhancement Proposals explained](https://www.infoworld.com/article/3662160/better-java-jdk-enhancement-proposals-jep-explained.html#tk.rss_all)
 - [JDK 19: The new features in Java 19](https://www.infoworld.com/article/3653331/jdk-19-the-new-features-in-java-19.html#tk.rss_all)
 - [Microsoft Dev Box: Your development workstation on Azure](https://www.infoworld.com/article/3662291/microsoft-dev-box-your-development-workstation-on-azure.html#tk.rss_all)
 - [How Vanguard and Morgan Stanley are balancing dev and ops](https://www.infoworld.com/article/3661817/how-vanguard-and-morgan-stanley-are-balancing-dev-and-ops.html#tk.rss_all)
@@ -391,9 +394,6 @@
 - [3 ways devops can support continuous architecture](https://www.infoworld.com/article/3662290/3-ways-devops-can-support-continuous-architecture.html#tk.rss_all)
 - [As data science goes mainstream, so does its language](https://www.infoworld.com/article/3662033/as-data-science-goes-mainstream-so-does-its-language.html#tk.rss_all)
 - [You’re thinking about technical debt all wrong](https://www.infoworld.com/article/3660632/you-re-thinking-about-technical-debt-all-wrong.html#tk.rss_all)
-- [Multicloud complexity is a major operational challenge](https://www.infoworld.com/article/3662029/multicloud-complexity-is-a-major-operational-challenge.html#tk.rss_all)
-- [What is WebAssembly? The next-generation web platform explained](https://www.infoworld.com/article/3291780/what-is-webassembly-the-next-generation-web-platform-explained.html#tk.rss_all)
-- [Eclipse unveils Java binaries marketplace](https://www.infoworld.com/article/3662048/eclipse-opens-java-binaries-marketplace.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

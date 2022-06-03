@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [The Queen’s platinum jubilee and the future of the monarchy – podcast](https://www.theguardian.com/news/audio/2022/jun/02/queen-platinum-jubilee-future-of-the-monarchy-podcast)
-- [Russia-Ukraine war: what we know on day 99 of the invasion](https://www.theguardian.com/world/2022/jun/02/russia-ukraine-war-what-we-know-on-day-99-of-the-invasion)
-- [Four killed in shooting at Tulsa medical building, police say](https://www.theguardian.com/us-news/2022/jun/01/tulsa-shooting-natalie-medical-building)
-- [North Korea’s Covid outbreak likely ‘getting worse’, WHO says](https://www.theguardian.com/world/2022/jun/02/north-koreas-covid-outbreak-likely-getting-worse-who-says)
-- [Jada Pinkett Smith hopes Will Smith and Chris Rock will ‘reconcile’ after Oscars slap](https://www.theguardian.com/culture/2022/jun/02/jada-pinkett-smith-hopes-will-smith-and-chris-rock-will-reconcile-after-oscars-slap)
-- [British rider Mark Purslow dies aged 29 after Isle of Man TT qualifying accident](https://www.theguardian.com/sport/2022/jun/02/mark-purslow-dies-after-isle-of-man-tt-qualifying-accident)
-- [Cilic edges Rublev in epic battle to set up French Open semi-final with Ruud](https://www.theguardian.com/sport/2022/jun/01/cilic-defeats-rublev-in-five-sets-to-reach-french-open-last-four-for-first-time)
-- [West demands publication of UN’s long-awaited Xinjiang report](https://www.theguardian.com/world/2022/jun/02/west-demands-publication-of-uns-long-awaited-xinjiang-report)
-- [Denmark votes overwhelmingly to join EU’s common defence policy](https://www.theguardian.com/world/2022/jun/01/denmark-votes-on-joining-eus-common-defence-policy)
-- [Boris Johnson critic Jeremy Wright knighted in birthday honours](https://www.theguardian.com/uk-news/2022/jun/01/boris-johnson-critic-jeremy-wright-knighted-in-birthday-honours)
+- [NBA finals Game 1 live: Stephen Curry seeks fourth title with Warriors against Celtics](https://www.theguardian.com/sport/live/2022/jun/02/nba-finals-game-1-golden-state-warriors-boston-celtics-steph-curry-live)
+- [Biden calls for assault weapons ban in fiery speech: ‘how much carnage will we accept?’](https://www.theguardian.com/us-news/2022/jun/02/joe-biden-speech-assault-weapon-ban-gun-reform)
+- [Devastation and defiance in Ukraine: 100 days of a war that is reshaping Europe](https://www.theguardian.com/world/2022/jun/03/devastation-and-defiance-in-ukraine-100-days-of-a-war-that-is-reshaping-europe)
+- [How to feed the world without destroying it | podcast](https://www.theguardian.com/environment/audio/2022/jun/03/how-to-feed-the-world-without-destroying-it-podcast)
+- [Turkey rebrands as Türkiye, because other name is for the birds](https://www.theguardian.com/world/2022/jun/03/turkey-changes-name-to-turkiye-as-other-name-is-for-the-birds)
+- [Canada accuses Chinese air force of nearly causing collisions](https://www.theguardian.com/world/2022/jun/03/canada-accuses-chinese-air-force-of-nearly-causing-collisions)
+- [Hustle review – Adam Sandler brings his A-game to Netflix’s glorified NBA advert](https://www.theguardian.com/film/2022/jun/03/hustle-review-adam-sandler-netflix)
+- [Resident Evil 4 Remake announced at PlayStation State of Play event](https://www.theguardian.com/games/2022/jun/02/resident-evil-4-remake-playstation-state-of-play-event)
+- [Outrage as North Korea takes helm of world disarmament body](https://www.theguardian.com/world/2022/jun/03/outrage-as-north-korea-takes-helm-of-world-disarmament-body)
+- [UK retail figures show unconfident shoppers still staying home](https://www.theguardian.com/business/2022/jun/03/retail-figures-uk-shoppers-stay-home-footfall-below-pre-covid-levels)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

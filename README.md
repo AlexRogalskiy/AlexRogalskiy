@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Video collaboration startup Loom announces layoffs](https://www.computerworld.com/article/3663028/video-collaboration-startup-loom-announces-layoffs.html#tk.rss_all)
+- [Apple confirms the scale of App Store fraud](https://www.computerworld.com/article/3663009/apple-confirms-the-scale-of-app-store-fraud.html#tk.rss_all)
+- [Why remote work will lead to greater success](https://www.computerworld.com/article/3662768/why-remote-work-will-lead-to-greater-success.html#tk.rss_all)
+- [Q&amp;A: Allstate goes all-in on remote work while building company culture](https://www.computerworld.com/article/3662769/allstate-goes-all-in-on-remote-work-while-building-company-culture.html#tk.rss_all)
+- [Microsoft is building an ARM-powered Windows mini](https://www.computerworld.com/article/3662313/microsoft-is-building-an-arm-powered-windows-mini.html#tk.rss_all)
 - [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
 - [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
 - [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
 - [Why Apple worries about photography on the iPhone](https://www.computerworld.com/article/3662041/why-apple-worries-about-photography-on-the-iphone.html#tk.rss_all)
 - [Slack revamps user profiles for better connections](https://www.computerworld.com/article/3662295/slack-revamps-user-profiles-for-better-connections.html#tk.rss_all)
-- [Salesforce to slow hiring and M&amp;A activity after posting strong Q1 results](https://www.computerworld.com/article/3662115/salesforce-to-slow-hiring-and-manda-activity-after-posting-strong-q1-results.html#tk.rss_all)
-- [6 secret shortcuts in Chrome on Android](https://www.computerworld.com/article/3662037/chrome-android-shortcuts.html#tk.rss_all)
-- [Google Workspace vs. Microsoft 365: Which has better management tools?](https://www.computerworld.com/article/3181827/google-workspace-vs-microsoft-365-management-tools.html#tk.rss_all)
-- [Windows 11: Should you bypass the hardware block?](https://www.computerworld.com/article/3662293/windows-11-should-you-bypass-hardware-block.html#tk.rss_all)
-- [Why Industry 4.0 must think more like Apple](https://www.computerworld.com/article/3662131/why-industry-40-must-think-more-like-apple.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

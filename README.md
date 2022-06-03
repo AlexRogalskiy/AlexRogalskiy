@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [A concise summary of software concepts](https://blog.john-pfeiffer.com/a-concise-summary-of-amazing-and-great-ideas/)
-- [Ask HN: Favourite Open Source Game?](https://news.ycombinator.com/item?id=31590724)
-- [Turkish Magician Built a $600M Nasdaq-Listed Scam Based on Lies](https://hindenburgresearch.com/enochian/)
-- [Padlet Is Hiring in Singapore to Build Software for a Good Education](https://padlet.jobs)
-- [Break Up The Elite College Seats Cartel](https://sahajsharda.substack.com/p/break-up-the-elite-college-seats)
-- [Open Source Alternative To](https://www.opensourcealternative.to)
-- [Remembering Dave Smith, 1950–2022](https://www.sequential.com/)
-- [The Curse of Strong Typing](https://fasterthanli.me/articles/the-curse-of-strong-typing)
-- [AWS for Industry, but Better: The Railroad Investment Case](https://www.thediff.co/p/aws-for-industry-but-better-the-railroad)
-- [No, DALL-E doesn’t have a secret language](https://twitter.com/benjamin_hilton/status/1531780892972175361)
+- [Racket for E-Commerce](https://defn.io/2019/08/20/racket-ecommerce/)
+- [Is big tech’s red-hot jobs market about to cool?](https://www.economist.com/business/2022/06/02/is-big-techs-red-hot-jobs-market-about-to-cool)
+- [Ford CEO says EVs will be sold 100% online with nonnegotiable price](https://www.usatoday.com/story/money/cars/2022/06/01/ev-online-sales-ford-uber-lyft/7474822001/?gnt-cfr=1)
+- [Zero-Day Exploitation of Atlassian Confluence](https://www.volexity.com/blog/2022/06/02/zero-day-exploitation-of-atlassian-confluence/)
+- [One Job, One Pay – Globally](https://graphcdn.io/blog/one-job-one-pay)
+- [Mexico calls for dissolution of the Organization of the Americas](https://aztecreports.com/mexico-to-call-for-oas-dissolution-at-upcoming-americas-summit/2915/)
+- [Rust Is Hard, Or: The Misery of Mainstream Programming](https://hirrolot.github.io/posts/rust-is-hard-or-the-misery-of-mainstream-programming.html)
+- [Microsoft Purview: Additional classifiers for Communication Compliance &lpar;preview&rpar;](https://pupuweb.com/mc387035-microsoft-purview-additional-classifiers-communication-compliance-preview/)
+- [Record Labels Dig Their Own Grave, and the Shovel Is Called TikTok](https://tedgioia.substack.com/p/record-labels-dig-their-own-grave)
+- [Drawing on a plasma display with a laser pointer](https://www.youtube.com/watch?v=Oj4tRnLKN6U)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

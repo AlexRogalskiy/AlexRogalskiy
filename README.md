@@ -414,6 +414,9 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [can you make good money in i.t with out a college degree](https://www.reddit.com/r/InformationTechnology/comments/v4elgx/can_you_make_good_money_in_it_with_out_a_college/)
+- [What Teams Could Have Been](https://www.reddit.com/r/InformationTechnology/comments/v4bx5j/what_teams_could_have_been/)
+- [Wireless Standards Explained](https://www.reddit.com/r/InformationTechnology/comments/v3xthg/wireless_standards_explained/)
 - [[Academic] Survey on Regulatory Compliance in Software Engineering &lpar;18+&rpar;](https://www.reddit.com/r/InformationTechnology/comments/v3nx4w/academic_survey_on_regulatory_compliance_in/)
 - [What is the easiest Bachelor in Information Technology?](https://www.reddit.com/r/InformationTechnology/comments/v3c85r/what_is_the_easiest_bachelor_in_information/)
 - [can you make six figures in information technology](https://www.reddit.com/r/InformationTechnology/comments/v39zha/can_you_make_six_figures_in_information_technology/)
@@ -421,9 +424,6 @@
 - [Is it worthwhile to take extra cert courses on Coursera?](https://www.reddit.com/r/InformationTechnology/comments/v2wmua/is_it_worthwhile_to_take_extra_cert_courses_on/)
 - [I feel like I should be studying Bash and Linux rather than learning PowerShell, based on what I read here.](https://www.reddit.com/r/InformationTechnology/comments/v2sdhp/i_feel_like_i_should_be_studying_bash_and_linux/)
 - [resume question](https://www.reddit.com/r/InformationTechnology/comments/v2p66s/resume_question/)
-- [Is it difficult to set up Airflow architecture for production?](https://www.reddit.com/r/InformationTechnology/comments/v2fi3b/is_it_difficult_to_set_up_airflow_architecture/)
-- [Army Reserve 25B &lpar;IT Specialist&rpar; or 25D &lpar;Cyber Network Defender&rpar; jobs after AIT?](https://www.reddit.com/r/InformationTechnology/comments/v2b2b0/army_reserve_25b_it_specialist_or_25d_cyber/)
-- [How many hours do you actually work in a day?](https://www.reddit.com/r/InformationTechnology/comments/v2a1n1/how_many_hours_do_you_actually_work_in_a_day/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

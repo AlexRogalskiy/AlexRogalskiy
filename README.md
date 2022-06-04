@@ -369,6 +369,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [LendingClub CEO Discusses Building a Digital Marketplace Bank](https://www.informationweek.com/fintech/lendingclub-ceo-discusses-building-a-digital-marketplace-bank)
+- [Master Connected Intelligence In 8 Key Steps](https://www.informationweek.com/big-data/master-connected-intelligence-in-8-key-steps)
 - [Connected Healthcare Takes Huge Leap Forward](https://www.informationweek.com/healthcare/connected-healthcare-takes-huge-leap-forward)
 - [Why Hiring More Data Scientists Won’t Unlock the ROI of Your AI](https://www.informationweek.com/big-data/why-hiring-more-data-scientists-won-t-unlock-the-roi-of-your-ai)
 - [User Empathy: Still in Short Supply in IT?](https://www.informationweek.com/strategic-cio/user-empathy-still-in-short-supply-in-it-)
@@ -377,8 +379,6 @@
 - [Cybersecurity, CEO Involvement, and Protecting the Edge](https://www.informationweek.com/strategic-cio/cybersecurity-ceo-involvement-and-protecting-the-edge)
 - [Quick Study: Artificial Intelligence Ethics and Bias](https://www.informationweek.com/big-data/quick-study-artificial-intelligence-ethics-and-bias)
 - [Virtual Reality: A Real Metaverse That Everyone Seems to Ignore](https://www.informationweek.com/it-life/virtual-reality-a-real-metaverse-that-everyone-seems-to-ignore)
-- [Will US Businesses Leverage 5G in Canada?](https://www.informationweek.com/strategic-cio/will-us-businesses-leverage-5g-in-canada-)
-- [How Inclusive Hiring Policies Address the Great Resignation](https://www.informationweek.com/strategic-cio/how-inclusive-hiring-policies-address-the-great-resignation)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

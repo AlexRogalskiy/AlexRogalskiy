@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [NBA finals Game 1 live: Stephen Curry seeks fourth title with Warriors against Celtics](https://www.theguardian.com/sport/live/2022/jun/02/nba-finals-game-1-golden-state-warriors-boston-celtics-steph-curry-live)
-- [Biden calls for assault weapons ban in fiery speech: ‘how much carnage will we accept?’](https://www.theguardian.com/us-news/2022/jun/02/joe-biden-speech-assault-weapon-ban-gun-reform)
-- [Devastation and defiance in Ukraine: 100 days of a war that is reshaping Europe](https://www.theguardian.com/world/2022/jun/03/devastation-and-defiance-in-ukraine-100-days-of-a-war-that-is-reshaping-europe)
-- [How to feed the world without destroying it | podcast](https://www.theguardian.com/environment/audio/2022/jun/03/how-to-feed-the-world-without-destroying-it-podcast)
-- [Turkey rebrands as Türkiye, because other name is for the birds](https://www.theguardian.com/world/2022/jun/03/turkey-changes-name-to-turkiye-as-other-name-is-for-the-birds)
-- [Canada accuses Chinese air force of nearly causing collisions](https://www.theguardian.com/world/2022/jun/03/canada-accuses-chinese-air-force-of-nearly-causing-collisions)
-- [Hustle review – Adam Sandler brings his A-game to Netflix’s glorified NBA advert](https://www.theguardian.com/film/2022/jun/03/hustle-review-adam-sandler-netflix)
-- [Resident Evil 4 Remake announced at PlayStation State of Play event](https://www.theguardian.com/games/2022/jun/02/resident-evil-4-remake-playstation-state-of-play-event)
-- [Outrage as North Korea takes helm of world disarmament body](https://www.theguardian.com/world/2022/jun/03/outrage-as-north-korea-takes-helm-of-world-disarmament-body)
-- [UK retail figures show unconfident shoppers still staying home](https://www.theguardian.com/business/2022/jun/03/retail-figures-uk-shoppers-stay-home-footfall-below-pre-covid-levels)
+- [Tiananmen anniversary: US hails the ‘brave’ 33 years on as Hong Kong warns against gatherings](https://www.theguardian.com/world/2022/jun/04/tiananmen-anniversary-us-hails-the-brave-33-years-on-as-hong-kong-warns-against-gatherings)
+- [Russia-Ukraine war: what we know on day 101 of the invasion](https://www.theguardian.com/world/2022/jun/04/russia-ukraine-war-what-we-know-on-day-101-of-the-invasion)
+- [Pennsylvania Republican primary conceded to Trump-backed Mehmet Oz](https://www.theguardian.com/us-news/2022/jun/03/pennsylvania-republican-primary-mehmet-oz-wins-trump)
+- [Wisconsin man killed in what officials say was a ‘targeted act’ to those in the judicial system](https://www.theguardian.com/us-news/2022/jun/03/wisconsin-shooting-targeting-judicial-system)
+- [Estonia’s PM calls for new government talks as coalition collapses](https://www.theguardian.com/world/2022/jun/03/estonias-pm-calls-for-new-government-talks-as-coalition-collapses)
+- [England shocked by Hungary hosting 36,000 for Nations League despite ban](https://www.theguardian.com/football/2022/jun/03/england-shocked-by-hungary-hosting-crowd-for-nations-league-despite-ban)
+- [Bishop of Buckingham joins calls for Boris Johnson to resign](https://www.theguardian.com/politics/2022/jun/03/bishop-of-buckingham-joins-calls-for-boris-johnson-to-resign)
+- [‘Cancel culture a reflection of rightwing papers’ intolerance,’ says David Olusoga](https://www.theguardian.com/education/2022/jun/03/they-call-me-a-critical-race-theorist-to-delegitimise-my-voice-historian-david-olusoga)
+- [‘Like a bridge that connects us’: Pride parade comes to Bangkok amid new hope for LGBT rights](https://www.theguardian.com/world/2022/jun/03/bangkok-pride-parade-new-hope-lgbt-rights)
+- [Neighbours wraps up amid dispute over crew being denied redundancy payments](https://www.theguardian.com/tv-and-radio/2022/jun/03/neighbours-wraps-up-amid-dispute-over-crew-being-denied-redundancy-payments)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

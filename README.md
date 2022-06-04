@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Every house in P.E.I. to be connected to high-speed internet by 2025](https://www.itworldcanada.com/article/every-house-in-p-e-i-to-be-connected-to-high-speed-internet-by-2025/487081)
+- [Canada needs to develop digital policy to reach net zero, report finds](https://www.itworldcanada.com/article/canada-needs-to-develop-digital-policy-to-reach-net-zero-report-finds/487078)
+- [Thoughts from the CIOs of the Year](https://www.itworldcanada.com/article/thoughts-from-the-cios-of-the-year/487043)
+- [Telus is investing another $10 million to roll out PureFibre network in part of Quebec](https://www.itworldcanada.com/article/telus-is-investing-another-10-million-to-roll-out-purefibre-network-in-part-of-quebec/487040)
+- [Talking privacy with Harvey Jang, Cisco’s chief privacy officer](https://www.itworldcanada.com/article/talking-privacy-with-harvey-jang-ciscos-chief-privacy-officer/485341)
+- [Fix issued for critical vulnerability – Atlassian advises users to update Confluence collaboration software](https://www.itworldcanada.com/article/atlassian-advises-users-to-disable-or-limit-internet-access-to-confluence-collaboration-software/487020)
+- [Cyber Security Today:  Friday, June 3rd, 2022](https://www.itworldcanada.com/article/cyber-security-today-friday-june-3rd-2022/487012)
+- [Hashtag Trending June 3 – EU drops greenhouse gas emissions; Tim Hortons tracking; Meta COO steps down](https://www.itworldcanada.com/article/hashtag-trending-june-3-eu-drops-greenhouse-gas-emissions-tim-hortons-tracking-meta-coo-steps-down/486957)
 - [Zuckerberg announces new management structure with departure of Sheryl Sandberg as COO of Meta](https://www.itworldcanada.com/article/zuckerberg-announces-new-management-structure-with-departure-of-sheryl-sandberg-as-coo-of-meta/486894)
 - [BlackBerry patent sale is no longer exclusive to original buyer](https://www.itworldcanada.com/article/blackberry-patent-sale-is-no-longer-exclusive-to-original-buyer/486893)
-- [France bans anglicisms from the gaming world](https://www.itworldcanada.com/article/france-bans-anglicisms-from-the-gaming-world/486889)
-- [How to get the inside track on insider security threats](https://www.itworldcanada.com/article/how-to-get-the-inside-track-on-insider-security-threats/486879)
-- [Hashtag Trending June 2 – Elon rebuffs remote work; transport industry a long way away from carbon neutrality; smartphone cameras to rival pro cameras by 2024](https://www.itworldcanada.com/article/hashtag-trending-june-2-elon-rebuffs-remote-work-transport-industry-a-long-way-away-from-carbon-neutrality-smartphone-cameras-to-rival-pro-cameras-by-2024/486782)
-- [5 new Microsoft certifications announced at Build 2022](https://www.itworldcanada.com/article/5-new-microsoft-certifications-announced-at-build-2022/486769)
-- [Privacy commissioners find Tim Hortons violated privacy laws](https://www.itworldcanada.com/article/privacy-commissioners-find-tim-hortons-violated-privacy-laws/486785)
-- [Ontario teen lands first place in the TCS goIT Monthly Competition for creating an app to reduce e-waste](https://www.itworldcanada.com/article/ontario-teen-lands-first-place-in-the-tcs-goit-monthly-competition-for-creating-an-app-to-reduce-e-waste/486760)
-- [Microsoft announces Surface Laptop Go 2](https://www.itworldcanada.com/article/microsoft-announces-surface-laptop-go-2/486722)
-- [Cyber Security Today – Wednesday, June 1, 2022](https://www.itworldcanada.com/article/cyber-security-today-wed-june-1st/486678)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

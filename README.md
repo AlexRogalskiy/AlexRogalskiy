@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Racket for E-Commerce](https://defn.io/2019/08/20/racket-ecommerce/)
-- [Is big tech’s red-hot jobs market about to cool?](https://www.economist.com/business/2022/06/02/is-big-techs-red-hot-jobs-market-about-to-cool)
-- [Ford CEO says EVs will be sold 100% online with nonnegotiable price](https://www.usatoday.com/story/money/cars/2022/06/01/ev-online-sales-ford-uber-lyft/7474822001/?gnt-cfr=1)
-- [Zero-Day Exploitation of Atlassian Confluence](https://www.volexity.com/blog/2022/06/02/zero-day-exploitation-of-atlassian-confluence/)
-- [One Job, One Pay – Globally](https://graphcdn.io/blog/one-job-one-pay)
-- [Mexico calls for dissolution of the Organization of the Americas](https://aztecreports.com/mexico-to-call-for-oas-dissolution-at-upcoming-americas-summit/2915/)
-- [Rust Is Hard, Or: The Misery of Mainstream Programming](https://hirrolot.github.io/posts/rust-is-hard-or-the-misery-of-mainstream-programming.html)
-- [Microsoft Purview: Additional classifiers for Communication Compliance &lpar;preview&rpar;](https://pupuweb.com/mc387035-microsoft-purview-additional-classifiers-communication-compliance-preview/)
-- [Record Labels Dig Their Own Grave, and the Shovel Is Called TikTok](https://tedgioia.substack.com/p/record-labels-dig-their-own-grave)
-- [Drawing on a plasma display with a laser pointer](https://www.youtube.com/watch?v=Oj4tRnLKN6U)
+- [Email startup Superhuman lays off 22% of staff](https://www.businessinsider.com/superhuman-email-startup-lays-off-22-percent-staff-2022-6)
+- [Crabs evolved at least five times from separate groups of crustaceans &lpar;2021&rpar;](https://www.newsweek.com/crabs-evolved-five-times-carcinization-scientists-dont-know-why-1638921)
+- [I don&#39;t care about HSTS for localhost](https://github.com/ip2k/I-Dont-Care-About-HSTS-For-Localhost)
+- [Continuous glucose monitoring on the Apple Watch](https://hturan.com/writing/apple-watch-continuous-glucose-monitoring)
+- [Yep: Google alternative that shares revenue with creators – by Ahrefs](https://yep.com)
+- [WorldWideWeb.app](https://blog.iconfactory.com/2022/06/worldwideweb-part-2/)
+- [Americans are poorly served by their grocery stores](https://www.economist.com/united-states/2022/06/02/why-americans-are-poorly-served-by-their-grocery-stores)
+- [Skio &lpar;subscriptions for Shopify, easy ReCharge migrations&rpar; is hiring in NYC](https://skio.com/careers/)
+- [The last Howard Johnson&#39;s restaurant closes in Lake George, N.Y.](https://www.washingtonpost.com/travel/2022/06/02/last-howard-johnson-restaurant-closes/)
+- [OVHcloud fire class action reaches 140 clients, seeks more than €10m](https://www.datacenterdynamics.com/en/news/ovhcloud-fire-class-action-reaches-140-clients-seeking-more-than-10m/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

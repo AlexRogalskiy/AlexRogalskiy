@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
+- [It’s been a big year for Apple in the enterprise](https://www.computerworld.com/article/3662812/it-s-been-a-big-year-for-apple-in-the-enterprise.html#tk.rss_all)
+- [NetApp’s cloud-based Spot PC: Right solution, right direction, wrong company](https://www.computerworld.com/article/3662775/netapp-s-cloud-based-spot-pc-right-solution-right-direction-wrong-company.html#tk.rss_all)
+- [5+ things to watch for at WWDC 22](https://www.computerworld.com/article/3662751/5-things-to-watch-for-at-wwdc-22.html#tk.rss_all)
+- [About the Best Places to Work in IT](https://www.computerworld.com/article/3661814/about-best-places-to-work-in-it.html#tk.rss_all)
+- [Seven ways to make meetings better](https://www.computerworld.com/article/3663010/seven-ways-to-make-meetings-better.html#tk.rss_all)
+- [Is Elon Musk’s ‘return to office’ mandate genius or corporate suicide?](https://www.computerworld.com/article/3663029/elon-musk-return-to-office-mandate-genius-or-corporate-suicide.html#tk.rss_all)
+- [The best privacy and security apps for Android](https://www.computerworld.com/article/3269019/best-privacy-security-apps-android.html#tk.rss_all)
 - [Video collaboration startup Loom announces layoffs](https://www.computerworld.com/article/3663028/video-collaboration-startup-loom-announces-layoffs.html#tk.rss_all)
-- [Apple confirms the scale of App Store fraud](https://www.computerworld.com/article/3663009/apple-confirms-the-scale-of-app-store-fraud.html#tk.rss_all)
-- [Why remote work will lead to greater success](https://www.computerworld.com/article/3662768/why-remote-work-will-lead-to-greater-success.html#tk.rss_all)
-- [Q&amp;A: Allstate goes all-in on remote work while building company culture](https://www.computerworld.com/article/3662769/allstate-goes-all-in-on-remote-work-while-building-company-culture.html#tk.rss_all)
-- [Microsoft is building an ARM-powered Windows mini](https://www.computerworld.com/article/3662313/microsoft-is-building-an-arm-powered-windows-mini.html#tk.rss_all)
-- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
-- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
-- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
-- [Why Apple worries about photography on the iPhone](https://www.computerworld.com/article/3662041/why-apple-worries-about-photography-on-the-iphone.html#tk.rss_all)
-- [Slack revamps user profiles for better connections](https://www.computerworld.com/article/3662295/slack-revamps-user-profiles-for-better-connections.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

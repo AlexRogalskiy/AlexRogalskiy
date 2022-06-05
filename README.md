@@ -429,6 +429,7 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Canadian CEOs rank sustainability and cyber risk as greatest challenges in 2022: IBM report](https://www.itworldcanada.com/article/canadian-ceos-rank-sustainability-and-cyber-risk-as-greatest-challenges-in-2022-ibm-report/487083)
 - [Every house in P.E.I. to be connected to high-speed internet by 2025](https://www.itworldcanada.com/article/every-house-in-p-e-i-to-be-connected-to-high-speed-internet-by-2025/487081)
 - [Canada needs to develop digital policy to reach net zero, report finds](https://www.itworldcanada.com/article/canada-needs-to-develop-digital-policy-to-reach-net-zero-report-finds/487078)
 - [Thoughts from the CIOs of the Year](https://www.itworldcanada.com/article/thoughts-from-the-cios-of-the-year/487043)
@@ -438,7 +439,6 @@
 - [Cyber Security Today:  Friday, June 3rd, 2022](https://www.itworldcanada.com/article/cyber-security-today-friday-june-3rd-2022/487012)
 - [Hashtag Trending June 3 – EU drops greenhouse gas emissions; Tim Hortons tracking; Meta COO steps down](https://www.itworldcanada.com/article/hashtag-trending-june-3-eu-drops-greenhouse-gas-emissions-tim-hortons-tracking-meta-coo-steps-down/486957)
 - [Zuckerberg announces new management structure with departure of Sheryl Sandberg as COO of Meta](https://www.itworldcanada.com/article/zuckerberg-announces-new-management-structure-with-departure-of-sheryl-sandberg-as-coo-of-meta/486894)
-- [BlackBerry patent sale is no longer exclusive to original buyer](https://www.itworldcanada.com/article/blackberry-patent-sale-is-no-longer-exclusive-to-original-buyer/486893)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

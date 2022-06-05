@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Nokia 1680 phone gets new PCB with MIPS SoC, runs mainline Linux](https://www.cnx-software.com/2022/06/03/nokia-1680-phone-gets-new-pcb-with-mips-soc-runs-mainline-linux/)
-- [Persistence of Vision Test](https://www.testufo.com/persistence)
-- [Making Java Better: Enhancement Proposals](https://coderoasis.com/making-java-better/)
-- [Common Counterfeit Foods–and How to Identify Them](https://www.bonappetit.com/entertaining-style/trends-news/slideshow/counterfeit-foods)
-- [Adopting Open Source Firmware Approach for Intel FSP](https://openletter.earth/adopting-open-source-firmware-approach-for-intel-fsp-59d7a0c6)
-- [The New Fault-Tolerant Execution Architecture of Trinodb](https://github.com/trinodb/trino/wiki/Fault-Tolerant-Execution)
-- [Simple, customizable maps for the web – Protomaps](https://protomaps.com/gallery/)
-- [Roving Packs of Robot Dogs Are Coming to the Moon](https://www.thedailybeast.com/roving-packs-of-robot-dogs-are-coming-to-the-moon?source=articles&via=rss)
-- [Show HN: Bloom – A free and open source &#39;Google&#39; &lpar;2019&rpar;](https://kerkour.com/bloom-a-free-and-open-source-google)
-- [Mapped: The Ukraine Refugee Crisis in Europe](https://www.visualcapitalist.com/cp/map-ukraine-refugee-crisis-in-europe/)
+- [The Art of Understanding](https://www.zdziarski.com/blog/?p=11679)
+- [Remote Only &lpar;2018&rpar;](https://about.gitlab.com/company/culture/all-remote/)
+- [Reinforcement Learning as One Big Sequence Modeling Problem](https://trajectory-transformer.github.io/)
+- [Review of Norman Walter&#39;s &#39;The Sexual Cycle of Human Warfare&#39; &lpar;2021&rpar; [pdf]](https://securityanddefence.pl/pdf-138290-69067?filename=Review%20of%20the%20book%20by.pdf)
+- [How the Internet Turned Us into Content Machines](https://www.newyorker.com/culture/infinite-scroll/how-the-internet-turned-us-into-content-machines)
+- [Ask HN: How to Easily Invalidate Patent](https://news.ycombinator.com/item?id=31627501)
+- [The Book That Predicted the Creator Economy](https://clarioncall.substack.com/p/the-book-that-predicted-the-creator)
+- [Is the Ambient Music Streaming Boom Helping Artists?](https://pitchfork.com/features/article/is-the-ambient-music-streaming-boom-helping-artists/)
+- [Rethinking air conditioning amid climate change](https://knowablemagazine.org/article/food-environment/2022/rethinking-air-conditioning-amid-climate-change)
+- [It&#39;s Time to Bring Back the Aim Away Message](https://www.wired.com/story/bring-back-the-aim-away-message/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Email startup Superhuman lays off 22% of staff](https://www.businessinsider.com/superhuman-email-startup-lays-off-22-percent-staff-2022-6)
-- [Crabs evolved at least five times from separate groups of crustaceans &lpar;2021&rpar;](https://www.newsweek.com/crabs-evolved-five-times-carcinization-scientists-dont-know-why-1638921)
-- [I don&#39;t care about HSTS for localhost](https://github.com/ip2k/I-Dont-Care-About-HSTS-For-Localhost)
-- [Continuous glucose monitoring on the Apple Watch](https://hturan.com/writing/apple-watch-continuous-glucose-monitoring)
-- [Yep: Google alternative that shares revenue with creators – by Ahrefs](https://yep.com)
-- [WorldWideWeb.app](https://blog.iconfactory.com/2022/06/worldwideweb-part-2/)
-- [Americans are poorly served by their grocery stores](https://www.economist.com/united-states/2022/06/02/why-americans-are-poorly-served-by-their-grocery-stores)
-- [Skio &lpar;subscriptions for Shopify, easy ReCharge migrations&rpar; is hiring in NYC](https://skio.com/careers/)
-- [The last Howard Johnson&#39;s restaurant closes in Lake George, N.Y.](https://www.washingtonpost.com/travel/2022/06/02/last-howard-johnson-restaurant-closes/)
-- [OVHcloud fire class action reaches 140 clients, seeks more than €10m](https://www.datacenterdynamics.com/en/news/ovhcloud-fire-class-action-reaches-140-clients-seeking-more-than-10m/)
+- [Meet developers 1:1 every week and team up on projects](https://connectdome.com)
+- [GitHub user sends notification to 400000 users](https://github.com/EpicGames/Signup/pull/24)
+- [First triangle ever rendered on an M1 Mac with a fully open-source driver](https://twitter.com/AsahiLinux/status/1532035506539995136)
+- [Show HN: Grid.js – Advanced table library that works everywhere &lpar;2020&rpar;](https://gridjs.io/?hn)
+- [Fallacies of distributed systems](https://architecturenotes.co/fallacies-of-distributed-systems/)
+- [Xerox PARC’s engineers on how they invented the future and Xerox lost it &lpar;1985&rpar;](https://spectrum.ieee.org/xerox-parc)
+- [StopTheMadness – Take back your web browser](https://underpassapp.com/StopTheMadness/)
+- [Ulstein X-BOW inverted bow](https://ulstein.com/innovations/x-bow)
+- [DDR5 RAM prices crashed by 20% in May](https://tech4gamers.com/ddr5-memory-prices/)
+- [Planning is for doing](https://biggestfish.substack.com/p/planning-is-for-doing)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

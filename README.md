@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [How do you get better at interviews?](https://www.reddit.com/r/InformationTechnology/comments/v54gw9/how_do_you_get_better_at_interviews/)
+- [Tech Layoffs](https://www.reddit.com/r/InformationTechnology/comments/v515h0/tech_layoffs/)
+- [Looking for an IT subreddit](https://www.reddit.com/r/InformationTechnology/comments/v4v7o2/looking_for_an_it_subreddit/)
+- [I&#39;m sorry if this question is asked a lot here.](https://www.reddit.com/r/InformationTechnology/comments/v4umrr/im_sorry_if_this_question_is_asked_a_lot_here/)
+- [What was your Career Progression Path](https://www.reddit.com/r/InformationTechnology/comments/v4sk8v/what_was_your_career_progression_path/)
+- [Is this a field worth getting into if I don&#39;t have any certifications?](https://www.reddit.com/r/InformationTechnology/comments/v4rqrs/is_this_a_field_worth_getting_into_if_i_dont_have/)
+- [DNS query help](https://www.reddit.com/r/InformationTechnology/comments/v4qdr5/dns_query_help/)
 - [can you make good money in i.t with out a college degree](https://www.reddit.com/r/InformationTechnology/comments/v4elgx/can_you_make_good_money_in_it_with_out_a_college/)
 - [What Teams Could Have Been](https://www.reddit.com/r/InformationTechnology/comments/v4bx5j/what_teams_could_have_been/)
 - [Wireless Standards Explained](https://www.reddit.com/r/InformationTechnology/comments/v3xthg/wireless_standards_explained/)
-- [[Academic] Survey on Regulatory Compliance in Software Engineering &lpar;18+&rpar;](https://www.reddit.com/r/InformationTechnology/comments/v3nx4w/academic_survey_on_regulatory_compliance_in/)
-- [What is the easiest Bachelor in Information Technology?](https://www.reddit.com/r/InformationTechnology/comments/v3c85r/what_is_the_easiest_bachelor_in_information/)
-- [can you make six figures in information technology](https://www.reddit.com/r/InformationTechnology/comments/v39zha/can_you_make_six_figures_in_information_technology/)
-- [a somewhat stupid problem.](https://www.reddit.com/r/InformationTechnology/comments/v30j4i/a_somewhat_stupid_problem/)
-- [Is it worthwhile to take extra cert courses on Coursera?](https://www.reddit.com/r/InformationTechnology/comments/v2wmua/is_it_worthwhile_to_take_extra_cert_courses_on/)
-- [I feel like I should be studying Bash and Linux rather than learning PowerShell, based on what I read here.](https://www.reddit.com/r/InformationTechnology/comments/v2sdhp/i_feel_like_i_should_be_studying_bash_and_linux/)
-- [resume question](https://www.reddit.com/r/InformationTechnology/comments/v2p66s/resume_question/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

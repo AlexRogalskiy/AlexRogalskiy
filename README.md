@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Chinese fighter jet’s actions near Australian aircraft ‘very dangerous’, deputy PM says](https://www.theguardian.com/australia-news/2022/jun/05/chinese-fighter-jets-actions-near-australian-aircraft-very-dangerous-deputy-pm-says)
-- [North Korea fires ballistic missiles a day after US-South Korean naval drills](https://www.theguardian.com/world/2022/jun/05/north-korea-fires-ballistic-missiles-a-day-after-us-south-korean-naval-drills)
-- [Prince Charles pays tribute to the Queen’s ‘lifetime of selfless service’](https://www.theguardian.com/uk-news/2022/jun/04/prince-charles-pays-tribute-to-the-queens-lifetime-of-selfless-service)
-- [Missguided went badly off course. Could this become a trend?](https://www.theguardian.com/business/2022/jun/05/missguided-went-badly-off-course-could-this-become-a-trend)
-- [War film Shershaah steals show as Bollywood’s Oscars return](https://www.theguardian.com/film/2022/jun/05/war-film-shershaah-steals-show-as-bollywoods-oscars-return)
-- [Sunshine state: men’s and women’s beach essentials – in pictures](https://www.theguardian.com/fashion/gallery/2022/jun/04/sunshine-state-mens-and-womens-beach-essentials-in-pictures)
-- [Five killed and at least 100 injured in Bangladesh depot fire](https://www.theguardian.com/world/2022/jun/04/five-killed-and-at-least-100-injured-in-bangladesh-depot-fire)
-- [Platinum Party at the Palace review – you can understand why the Queen didn’t turn up](https://www.theguardian.com/music/2022/jun/04/platinum-party-at-the-palace-review-you-can-understand-why-the-queen-didnt-turn-up)
-- [Mercedes-Benz issues global recall of one million older cars](https://www.theguardian.com/technology/2022/jun/04/mercedes-benz-issues-global-recalls-of-one-million-older-cars)
-- [Sleep-deprived medical staff ‘pose same danger on roads as drunk drivers’](https://www.theguardian.com/society/2022/jun/04/sleep-deprived-medical-staff-pose-same-danger-on-roads-as-drunk-drivers)
+- [Warriors level NBA finals as Poole’s halfcourt buzzer-beater tops win over Celtics](https://www.theguardian.com/sport/2022/jun/05/jordan-poole-buzzer-beater-nba-finals-game-2-warriors-celtics)
+- [South Korea and US fire eight missiles into sea in show of force to North Korea](https://www.theguardian.com/world/2022/jun/06/south-korea-and-us-fire-eight-missiles-into-sea-in-show-of-force-to-north-korea)
+- [100 days of war in Ukraine – podcast](https://www.theguardian.com/news/audio/2022/jun/06/100-days-of-war-in-ukraine-podcast)
+- [Google ordered to pay John Barilaro $715,000 over Friendlyjordies YouTube videos](https://www.theguardian.com/australia-news/2022/jun/06/google-ordered-to-pay-john-barilaro-715000-over-friendlyjordies-youtube-videos)
+- [Philadelphia, Tennessee and Michigan shootings leave at least nine dead and 27 wounded](https://www.theguardian.com/us-news/2022/jun/05/philadelphia-shooting-dead-wounded)
+- [Minjee Lee wins her second major title with dominant victory at US Women’s Open](https://www.theguardian.com/sport/2022/jun/06/minjee-lee-wins-her-second-major-title-with-dominant-victory-at-us-womens-open)
+- [Ukraine: UK justice ministry offers more support for ICC war crimes investigation](https://www.theguardian.com/law/2022/jun/06/ukraine-uk-justice-ministry-more-support-icc-war-crimes-investigation)
+- [UK to send long-range rocket artillery to Ukraine despite Russian threats](https://www.theguardian.com/world/2022/jun/06/uk-to-send-long-range-rocket-artillery-to-ukraine-despite-russian-threats)
+- [Bumper City bonuses of pre-financial crisis are back, TUC finds](https://www.theguardian.com/business/2022/jun/06/bumper-city-bonuses-of-pre-financial-crisis-are-back-tuc-finds)
+- [Day four of the platinum jubilee celebrations – in pictures](https://www.theguardian.com/news/gallery/2022/jun/05/day-four-of-the-platinum-jubilee-celebrations-in-pictures)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

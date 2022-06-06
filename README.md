@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Meet developers 1:1 every week and team up on projects](https://connectdome.com)
-- [GitHub user sends notification to 400000 users](https://github.com/EpicGames/Signup/pull/24)
-- [First triangle ever rendered on an M1 Mac with a fully open-source driver](https://twitter.com/AsahiLinux/status/1532035506539995136)
-- [Show HN: Grid.js – Advanced table library that works everywhere &lpar;2020&rpar;](https://gridjs.io/?hn)
-- [Fallacies of distributed systems](https://architecturenotes.co/fallacies-of-distributed-systems/)
-- [Xerox PARC’s engineers on how they invented the future and Xerox lost it &lpar;1985&rpar;](https://spectrum.ieee.org/xerox-parc)
-- [StopTheMadness – Take back your web browser](https://underpassapp.com/StopTheMadness/)
-- [Ulstein X-BOW inverted bow](https://ulstein.com/innovations/x-bow)
-- [DDR5 RAM prices crashed by 20% in May](https://tech4gamers.com/ddr5-memory-prices/)
-- [Planning is for doing](https://biggestfish.substack.com/p/planning-is-for-doing)
+- [Absolute truths I unlearned as junior developer &lpar;2019&rpar;](https://monicalent.com/blog/2019/06/03/absolute-truths-unlearned-as-junior-developer/)
+- [Tinygo: LLVM-based Go compiler for microcontrollers, WASM, and CLI tools](https://github.com/tinygo-org/tinygo)
+- [Source code for 4kb demoscene production “Elevated” released &lpar;2016&rpar;](https://files.scene.org/view/resources/code/sources/rgba_tbc_elevated_source.zip)
+- [Zipf&#39;s Law](https://plus.maths.org/content/mystery-zipf)
+- [Show HN: End-to-End 3D Hand Pose Estimation from Stereo Cameras](https://arxiv.org/abs/2206.01384)
+- [γ-Linolenic Acid Makes Old Blood New Again](https://news.cuanschutz.edu/news-stories/scientists-discover-ways-of-making-old-blood-new-again)
+- [Dashy – A self-hosted homepage for your homelab](https://github.com/Lissy93/dashy)
+- [Oregon expands electric vehicle charging statewide](https://www.kgw.com/article/news/local/good-energy/electric-vehicle-charging-stations-oregon/283-ed184a5e-fdd3-4e25-a63d-ea85b93c338a)
+- [Water Pump Theory](https://powerequipment.honda.com/pumps/pump-theory)
+- [Italian CPU – The Genesys B52 MMX](https://www.cpushack.com/2021/08/12/forgotten-italian-cpu-the-genesys-b52-mmx/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

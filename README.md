@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Art of Understanding](https://www.zdziarski.com/blog/?p=11679)
-- [Remote Only &lpar;2018&rpar;](https://about.gitlab.com/company/culture/all-remote/)
-- [Reinforcement Learning as One Big Sequence Modeling Problem](https://trajectory-transformer.github.io/)
-- [Review of Norman Walter&#39;s &#39;The Sexual Cycle of Human Warfare&#39; &lpar;2021&rpar; [pdf]](https://securityanddefence.pl/pdf-138290-69067?filename=Review%20of%20the%20book%20by.pdf)
-- [How the Internet Turned Us into Content Machines](https://www.newyorker.com/culture/infinite-scroll/how-the-internet-turned-us-into-content-machines)
-- [Ask HN: How to Easily Invalidate Patent](https://news.ycombinator.com/item?id=31627501)
-- [The Book That Predicted the Creator Economy](https://clarioncall.substack.com/p/the-book-that-predicted-the-creator)
-- [Is the Ambient Music Streaming Boom Helping Artists?](https://pitchfork.com/features/article/is-the-ambient-music-streaming-boom-helping-artists/)
-- [Rethinking air conditioning amid climate change](https://knowablemagazine.org/article/food-environment/2022/rethinking-air-conditioning-amid-climate-change)
-- [It&#39;s Time to Bring Back the Aim Away Message](https://www.wired.com/story/bring-back-the-aim-away-message/)
+- [Wordmul: Wordle for Multics](https://portal.mozz.us/gemini/arcanesciences.com/gemlog/22-06-05/)
+- [VoxLens: Data Visualizations Accessible with Interactive JavaScript Plug-In](https://dl.acm.org/doi/fullHtml/10.1145/3491102.3517431)
+- [Math and Motion: A Look at Chebyshev’s Works on Linkages](https://bhavana.org.in/math-and-motion-a-look-at-chebyshevs-works-on-linkages/)
+- [Ask HN: Why does 1Password seem to never open anymore?](https://news.ycombinator.com/item?id=31636896)
+- [Psychiatric Genocide: Nazi Attempts to Eradicate Schizophrenia](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2800142/)
+- [The H &lpar;2013&rpar;](http://www.h-online.com/)
+- [Qualcomm, Nokia, Ericsson take aim at Apple&#39;s SEP devaluation agenda](http://www.fosspatents.com/2022/06/qualcomm-says-apple-coerced-low-ball.html)
+- [Absolute truths I unlearned as junior developer &lpar;2019&rpar;](https://monicalent.com/blog/2019/06/03/absolute-truths-unlearned-as-junior-developer/)
+- [AI Can Identify Race from Just X-Rays and Scientists Have No Idea How](https://www.iflscience.com/technology/ai-can-identify-race-from-just-xrays-and-scientists-have-no-idea-how/)
+- [The Modern Diet Is a Biosecurity Threat](https://palladiummag.com/2022/06/04/the-modern-diet-is-a-biosecurity-threat/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

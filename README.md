@@ -414,6 +414,9 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Hello people! This is my ram,i have a laptop. What should i ask for when going to the shop?](https://www.reddit.com/r/InformationTechnology/comments/v5myo4/hello_people_this_is_my_rami_have_a_laptop_what/)
+- [Is coursea best for learning the UX designer course?](https://www.reddit.com/r/InformationTechnology/comments/v5eo6r/is_coursea_best_for_learning_the_ux_designer/)
+- [Is being a windows admin or a linux admin a harder job?](https://www.reddit.com/r/InformationTechnology/comments/v54kxp/is_being_a_windows_admin_or_a_linux_admin_a/)
 - [How do you get better at interviews?](https://www.reddit.com/r/InformationTechnology/comments/v54gw9/how_do_you_get_better_at_interviews/)
 - [Tech Layoffs](https://www.reddit.com/r/InformationTechnology/comments/v515h0/tech_layoffs/)
 - [Looking for an IT subreddit](https://www.reddit.com/r/InformationTechnology/comments/v4v7o2/looking_for_an_it_subreddit/)
@@ -421,9 +424,6 @@
 - [What was your Career Progression Path](https://www.reddit.com/r/InformationTechnology/comments/v4sk8v/what_was_your_career_progression_path/)
 - [Is this a field worth getting into if I don&#39;t have any certifications?](https://www.reddit.com/r/InformationTechnology/comments/v4rqrs/is_this_a_field_worth_getting_into_if_i_dont_have/)
 - [DNS query help](https://www.reddit.com/r/InformationTechnology/comments/v4qdr5/dns_query_help/)
-- [can you make good money in i.t with out a college degree](https://www.reddit.com/r/InformationTechnology/comments/v4elgx/can_you_make_good_money_in_it_with_out_a_college/)
-- [What Teams Could Have Been](https://www.reddit.com/r/InformationTechnology/comments/v4bx5j/what_teams_could_have_been/)
-- [Wireless Standards Explained](https://www.reddit.com/r/InformationTechnology/comments/v3xthg/wireless_standards_explained/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Warriors level NBA finals as Poole’s halfcourt buzzer-beater tops win over Celtics](https://www.theguardian.com/sport/2022/jun/05/jordan-poole-buzzer-beater-nba-finals-game-2-warriors-celtics)
-- [South Korea and US fire eight missiles into sea in show of force to North Korea](https://www.theguardian.com/world/2022/jun/06/south-korea-and-us-fire-eight-missiles-into-sea-in-show-of-force-to-north-korea)
-- [100 days of war in Ukraine – podcast](https://www.theguardian.com/news/audio/2022/jun/06/100-days-of-war-in-ukraine-podcast)
-- [Google ordered to pay John Barilaro $715,000 over Friendlyjordies YouTube videos](https://www.theguardian.com/australia-news/2022/jun/06/google-ordered-to-pay-john-barilaro-715000-over-friendlyjordies-youtube-videos)
-- [Philadelphia, Tennessee and Michigan shootings leave at least nine dead and 27 wounded](https://www.theguardian.com/us-news/2022/jun/05/philadelphia-shooting-dead-wounded)
-- [Minjee Lee wins her second major title with dominant victory at US Women’s Open](https://www.theguardian.com/sport/2022/jun/06/minjee-lee-wins-her-second-major-title-with-dominant-victory-at-us-womens-open)
-- [Ukraine: UK justice ministry offers more support for ICC war crimes investigation](https://www.theguardian.com/law/2022/jun/06/ukraine-uk-justice-ministry-more-support-icc-war-crimes-investigation)
-- [UK to send long-range rocket artillery to Ukraine despite Russian threats](https://www.theguardian.com/world/2022/jun/06/uk-to-send-long-range-rocket-artillery-to-ukraine-despite-russian-threats)
-- [Bumper City bonuses of pre-financial crisis are back, TUC finds](https://www.theguardian.com/business/2022/jun/06/bumper-city-bonuses-of-pre-financial-crisis-are-back-tuc-finds)
-- [Day four of the platinum jubilee celebrations – in pictures](https://www.theguardian.com/news/gallery/2022/jun/05/day-four-of-the-platinum-jubilee-celebrations-in-pictures)
+- [Why the collapse of an Atlantic ocean current could mean La Niña becomes the norm |  Matthew England, Andréa S. Taschetto and Bryam Orihuela-Pinto for the Conversation](https://www.theguardian.com/australia-news/2022/jun/07/why-the-collapse-of-an-atlantic-ocean-current-could-mean-la-nina-becomes-the-norm)
+- [‘Out in a year’: what the papers say about Tory vote on Boris Johnson](https://www.theguardian.com/politics/2022/jun/07/out-in-a-year-what-the-papers-say-about-tory-vote-on-boris-johnson)
+- [Boris Johnson’s vote of confidence - podcast](https://www.theguardian.com/news/audio/2022/jun/07/boris-johnsons-vote-of-confidence-podcast)
+- [Russia-Ukraine war: what we know on day 104 of the invasion](https://www.theguardian.com/world/2022/jun/07/russia-ukraine-war-what-we-know-on-day-104-of-the-invasion)
+- [Doc Antle of Tiger King charged with laundering $505,000](https://www.theguardian.com/tv-and-radio/2022/jun/06/tiger-king-doc-antle-accused-money-laundering)
+- [Israeli coalition dealt a blow with loss of West Bank settler law vote](https://www.theguardian.com/world/2022/jun/07/israeli-coalition-dealt-a-blow-with-loss-of-west-bank-settler-law-vote)
+- [‘Every second counts’: wife of British journalist missing in Amazon urges action](https://www.theguardian.com/world/2022/jun/07/british-journalist-dom-phillips-missing-amazon-brazil-wife-calls-for-urgency)
+- [Archivists rush to preserve records of atrocities under Ferdinand Marcos Sr](https://www.theguardian.com/world/2022/jun/07/archivists-rush-to-preserve-records-of-atrocities-under-ferdinand-marcos-sr-philippines)
+- [Proud Boys leaders charged with seditious conspiracy in 6 January riot](https://www.theguardian.com/us-news/2022/jun/06/proud-boys-leaders-charged-seditious-conspiracy-jan-6-riot)
+- [Care for 2m Britons with long Covid ‘woefully inadequate’, say top nurses](https://www.theguardian.com/society/2022/jun/07/care-for-2m-britons-with-long-covid-woefully-inadequate-say-top-nurses)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

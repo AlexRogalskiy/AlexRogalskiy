@@ -369,6 +369,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Cloud Spending: How to Get a Grip on Cost Overruns](https://www.informationweek.com/cloud/cloud-spending-how-to-get-a-grip-on-cost-overruns)
+- [Cloud Adoption: 3 Things to Consider](https://www.informationweek.com/cloud/cloud-adoption-3-things-to-consider)
 - [LendingClub CEO Discusses Building a Digital Marketplace Bank](https://www.informationweek.com/fintech/lendingclub-ceo-discusses-building-a-digital-marketplace-bank)
 - [Master Connected Intelligence In 8 Key Steps](https://www.informationweek.com/big-data/master-connected-intelligence-in-8-key-steps)
 - [Connected Healthcare Takes Huge Leap Forward](https://www.informationweek.com/healthcare/connected-healthcare-takes-huge-leap-forward)
@@ -377,8 +379,6 @@
 - [Overcoming the Talent Shortage Within Cybersecurity](https://www.informationweek.com/strategic-cio/overcoming-the-talent-shortage-within-cybersecurity)
 - [4 Ways to Lead a More Business-Savvy Software Engineering Team](https://www.informationweek.com/software/4-ways-to-lead-a-more-business-savvy-software-engineering-team)
 - [Cybersecurity, CEO Involvement, and Protecting the Edge](https://www.informationweek.com/strategic-cio/cybersecurity-ceo-involvement-and-protecting-the-edge)
-- [Quick Study: Artificial Intelligence Ethics and Bias](https://www.informationweek.com/big-data/quick-study-artificial-intelligence-ethics-and-bias)
-- [Virtual Reality: A Real Metaverse That Everyone Seems to Ignore](https://www.informationweek.com/it-life/virtual-reality-a-real-metaverse-that-everyone-seems-to-ignore)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

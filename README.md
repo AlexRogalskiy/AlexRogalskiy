@@ -399,6 +399,8 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [IT Sustainability Think Tank: Getting a measure on the circular economy](https://www.computerweekly.com/opinion/IT-Sustainability-Think-Tank-Getting-a-measure-on-the-circular-economy)
+- [IT departments need holistic circular economies to fight climate change](https://www.computerweekly.com/feature/IT-departments-need-holistic-circular-economies-to-fight-climate-change)
 - [Four obstacles to hybrid cloud storage – and possible solutions](https://www.computerweekly.com/feature/Four-obstacles-to-hybrid-cloud-storage-And-possible-solutions)
 - [Over a third of cyber security professionals plan career change](https://www.computerweekly.com/news/252520947/Over-a-third-of-cyber-security-professionals-plan-career-change)
 - [EU must stand ground on cyber security, says Finland’s WithSecure](https://www.computerweekly.com/news/252520950/EU-must-stand-ground-on-cyber-security-says-Finlands-WithSecure)
@@ -407,8 +409,6 @@
 - [What does the EU’s NIS 2 cyber directive cover?](https://www.computerweekly.com/opinion/What-does-the-EUs-NIS-2-cyber-directive-cover)
 - [Millions of UK workers lack digital workplace skills, says FutureDotNow](https://www.computerweekly.com/news/252520918/Millions-of-UK-workers-lack-digital-workplace-skills-says-FutureDotNow)
 - [UKtech50 2022: Vote for the most influential person in UK technology](https://www.computerweekly.com/news/252520853/UKtech50-2022-Vote-for-the-most-influential-person-in-UK-technology)
-- [CIO interview: Emma Frost, director of innovation, London Legacy Development Corporation](https://www.computerweekly.com/news/252520536/CIO-interview-Emma-Frost-director-of-innovation-London-Legacy-Development-Corporation)
-- [The importance of making information security more accessible](https://www.computerweekly.com/opinion/The-importance-of-making-information-security-more-accessible)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

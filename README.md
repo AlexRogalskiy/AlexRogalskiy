@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [How many jobs are available in technology?](https://www.computerworld.com/article/3542681/how-many-jobs-are-available-in-technology.html#tk.rss_all)
+- [WWDC 22: What Apple&#39;s big plans mean for business](https://www.computerworld.com/article/3663035/wwdc-22-what-apples-big-plans-mean-for-business.html#tk.rss_all)
+- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
+- [Elon Musk heaps layoff threat on top of in-office work mandate](https://www.computerworld.com/article/3663034/elon-musk-heaps-layoff-threat-on-top-of-in-office-work-mandate.html#tk.rss_all)
+- [WWDC22: Apple brings declarative device management to the Mac?](https://www.computerworld.com/article/3663052/wwdc22-apple-brings-declarative-device-management-to-the-mac.html#tk.rss_all)
+- [After a Windows update, what should you expect?](https://www.computerworld.com/article/3663149/after-a-windows-update-what-should-you-expect.html#tk.rss_all)
+- [Microsoft promises to engage with employee unions](https://www.computerworld.com/article/3662813/microsoft-promises-to-engage-with-employee-unions.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
 - [It’s been a big year for Apple in the enterprise](https://www.computerworld.com/article/3662812/it-s-been-a-big-year-for-apple-in-the-enterprise.html#tk.rss_all)
-- [NetApp’s cloud-based Spot PC: Right solution, right direction, wrong company](https://www.computerworld.com/article/3662775/netapp-s-cloud-based-spot-pc-right-solution-right-direction-wrong-company.html#tk.rss_all)
-- [5+ things to watch for at WWDC 22](https://www.computerworld.com/article/3662751/5-things-to-watch-for-at-wwdc-22.html#tk.rss_all)
-- [About the Best Places to Work in IT](https://www.computerworld.com/article/3661814/about-best-places-to-work-in-it.html#tk.rss_all)
-- [Seven ways to make meetings better](https://www.computerworld.com/article/3663010/seven-ways-to-make-meetings-better.html#tk.rss_all)
-- [Is Elon Musk’s ‘return to office’ mandate genius or corporate suicide?](https://www.computerworld.com/article/3663029/elon-musk-return-to-office-mandate-genius-or-corporate-suicide.html#tk.rss_all)
-- [The best privacy and security apps for Android](https://www.computerworld.com/article/3269019/best-privacy-security-apps-android.html#tk.rss_all)
-- [Video collaboration startup Loom announces layoffs](https://www.computerworld.com/article/3663028/video-collaboration-startup-loom-announces-layoffs.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

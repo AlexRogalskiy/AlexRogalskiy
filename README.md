@@ -414,6 +414,7 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Thrilific 720](https://www.reddit.com/r/InformationTechnology/comments/v69rsd/thrilific_720/)
 - [Hello people! This is my ram,i have a laptop. What should i ask for when going to the shop?](https://www.reddit.com/r/InformationTechnology/comments/v5myo4/hello_people_this_is_my_rami_have_a_laptop_what/)
 - [Is coursea best for learning the UX designer course?](https://www.reddit.com/r/InformationTechnology/comments/v5eo6r/is_coursea_best_for_learning_the_ux_designer/)
 - [Is being a windows admin or a linux admin a harder job?](https://www.reddit.com/r/InformationTechnology/comments/v54kxp/is_being_a_windows_admin_or_a_linux_admin_a/)
@@ -423,7 +424,6 @@
 - [I&#39;m sorry if this question is asked a lot here.](https://www.reddit.com/r/InformationTechnology/comments/v4umrr/im_sorry_if_this_question_is_asked_a_lot_here/)
 - [What was your Career Progression Path](https://www.reddit.com/r/InformationTechnology/comments/v4sk8v/what_was_your_career_progression_path/)
 - [Is this a field worth getting into if I don&#39;t have any certifications?](https://www.reddit.com/r/InformationTechnology/comments/v4rqrs/is_this_a_field_worth_getting_into_if_i_dont_have/)
-- [DNS query help](https://www.reddit.com/r/InformationTechnology/comments/v4qdr5/dns_query_help/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

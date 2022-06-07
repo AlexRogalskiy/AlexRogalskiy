@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Wordmul: Wordle for Multics](https://portal.mozz.us/gemini/arcanesciences.com/gemlog/22-06-05/)
-- [VoxLens: Data Visualizations Accessible with Interactive JavaScript Plug-In](https://dl.acm.org/doi/fullHtml/10.1145/3491102.3517431)
-- [Math and Motion: A Look at Chebyshev’s Works on Linkages](https://bhavana.org.in/math-and-motion-a-look-at-chebyshevs-works-on-linkages/)
-- [Ask HN: Why does 1Password seem to never open anymore?](https://news.ycombinator.com/item?id=31636896)
-- [Psychiatric Genocide: Nazi Attempts to Eradicate Schizophrenia](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2800142/)
-- [The H &lpar;2013&rpar;](http://www.h-online.com/)
-- [Qualcomm, Nokia, Ericsson take aim at Apple&#39;s SEP devaluation agenda](http://www.fosspatents.com/2022/06/qualcomm-says-apple-coerced-low-ball.html)
-- [Absolute truths I unlearned as junior developer &lpar;2019&rpar;](https://monicalent.com/blog/2019/06/03/absolute-truths-unlearned-as-junior-developer/)
-- [AI Can Identify Race from Just X-Rays and Scientists Have No Idea How](https://www.iflscience.com/technology/ai-can-identify-race-from-just-xrays-and-scientists-have-no-idea-how/)
-- [The Modern Diet Is a Biosecurity Threat](https://palladiummag.com/2022/06/04/the-modern-diet-is-a-biosecurity-threat/)
+- [Anonymous tipsters, angry at Russia, help detect sanctions-busters](https://www.economist.com/international/2022/05/24/anonymous-tipsters-angry-at-russia-help-detect-sanctions-busters)
+- [San Francisco Is Getting Its Own NFT Restaurant Backed by a Bunch of Tech CEOs](https://sf.eater.com/2022/6/1/23150217/san-francisco-nft-restaurant-club-sho)
+- [The Stat of Indian has a pregnancy tracking app](https://nataliaantonova.substack.com/p/it-doesnt-matter-what-you-think-about)
+- [Planned GPS outages in southern California &lpar;2016&rpar;](https://www.avweb.com/recent-updates/business-military/gps-interference-notam-for-southwest/)
+- [Human: AI-powered face and body detection/recognition JavaScript library](https://github.com/vladmandic/human)
+- [Tesla&#39;s Cheap EV Batteries Are Nearly Ready](https://carbuzz.com/news/teslas-cheap-ev-batteries-are-nearly-ready)
+- [Keeping up with replies to HN comments](https://news.ycombinator.com/item?id=31649343)
+- [Cloudflare&#39;s Sign in with Apple generates JWTs that can be reused, bypasses 2FA](https://community.cloudflare.com/t/new-sign-in-with-apple-button-bypasses-2fa-works-on-existing-accounts/389163)
+- [Ultima Genomics claims $100 full genome sequencing after stealth $600M raise](https://techcrunch.com/2022/05/31/ultima-genomics-claims-100-full-genome-sequencing-after-stealth-600m-raise/)
+- [Why do prime numbers make these spirals? [video]](https://www.youtube.com/watch?v=EK32jo7i5LQ)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

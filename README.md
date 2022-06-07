@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Absolute truths I unlearned as junior developer &lpar;2019&rpar;](https://monicalent.com/blog/2019/06/03/absolute-truths-unlearned-as-junior-developer/)
-- [Tinygo: LLVM-based Go compiler for microcontrollers, WASM, and CLI tools](https://github.com/tinygo-org/tinygo)
-- [Source code for 4kb demoscene production “Elevated” released &lpar;2016&rpar;](https://files.scene.org/view/resources/code/sources/rgba_tbc_elevated_source.zip)
-- [Zipf&#39;s Law](https://plus.maths.org/content/mystery-zipf)
-- [Show HN: End-to-End 3D Hand Pose Estimation from Stereo Cameras](https://arxiv.org/abs/2206.01384)
-- [γ-Linolenic Acid Makes Old Blood New Again](https://news.cuanschutz.edu/news-stories/scientists-discover-ways-of-making-old-blood-new-again)
-- [Dashy – A self-hosted homepage for your homelab](https://github.com/Lissy93/dashy)
-- [Oregon expands electric vehicle charging statewide](https://www.kgw.com/article/news/local/good-energy/electric-vehicle-charging-stations-oregon/283-ed184a5e-fdd3-4e25-a63d-ea85b93c338a)
-- [Water Pump Theory](https://powerequipment.honda.com/pumps/pump-theory)
-- [Italian CPU – The Genesys B52 MMX](https://www.cpushack.com/2021/08/12/forgotten-italian-cpu-the-genesys-b52-mmx/)
+- [Britain Tests a 4-Day Workweek](https://www.nytimes.com/2022/06/06/business/uk-four-day-work-week.html)
+- [Tell HN: Apple rejecting cross platform apps &lpar;React Native, Flutter, Capacitor&rpar;](https://news.ycombinator.com/item?id=31648690)
+- [Citigroup plans to hire 4k tech staff](https://www.businesstimes.com.sg/banking-finance/citigroup-plans-to-hire-4000-tech-staff-to-tap-into-digital-explosion)
+- [Tell HN: I used the same computer since 2007 &lpar;with minor upgrades&rpar;](https://news.ycombinator.com/item?id=31648326)
+- [An insight into live video streaming infrastructure at Twitch](https://www.scaleyourapp.com/live-video-streaming-infrastructure-at-twitch/)
+- [Starlight.jl – A game engine written in Julia](https://github.com/jhigginbotham64/Starlight.jl)
+- [iOS 16](https://www.apple.com/ios/ios-16-preview/)
+- [Tools for Better Thinking](https://untools.co)
+- [RFC 9114 – HTTP/3](https://www.rfc-editor.org/info/rfc9114)
+- [Women Who Ran Genghis Khan’s Empire](https://www.atlasobscura.com/articles/mongol-empire-women)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

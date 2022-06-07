@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [New owner of Canadian ransomware negotiating firm expands its mandate](https://www.itworldcanada.com/article/new-owner-of-canadian-ransomware-negotiating-firm-expands-its-mandate/487206)
+- [LockBit claims Mandiant data will be published, Mandiant says no evidence of theft](https://www.itworldcanada.com/article/lockbit-claims-mandiant-data-will-be-published-mandiant-says-no-evidence-of-theft/487186)
+- [This Week in Ransomware – Friday, June 3, 2022](https://www.itworldcanada.com/article/this-week-in-ransomware-friday-june-3-2022/487162)
+- [Government of Canada invests $10 million to support innovation in the tech sector](https://www.itworldcanada.com/article/government-of-canada-invests-10-million-to-support-innovation-in-the-tech-sector/487156)
+- [Info-Tech, Forrester analysts slam Broadcom buy of VMware](https://www.itworldcanada.com/article/info-tech-forrester-analysts-slam-broadcom-buy-of-vmware/487093)
+- [Cyber Security Today, June 6, 2022 – Atlassian and GitHub issue patches for critical bugs](https://www.itworldcanada.com/article/cyber-security-today-june-6-2022-atlassian-and-github-issue-patches-for-critical-bugs/487100)
 - [Canadian CEOs rank sustainability and cyber risk as greatest challenges in 2022: IBM report](https://www.itworldcanada.com/article/canadian-ceos-rank-sustainability-and-cyber-risk-as-greatest-challenges-in-2022-ibm-report/487083)
 - [Every house in P.E.I. to be connected to high-speed internet by 2025](https://www.itworldcanada.com/article/every-house-in-p-e-i-to-be-connected-to-high-speed-internet-by-2025/487081)
 - [Canada needs to develop digital policy to reach net zero, report finds](https://www.itworldcanada.com/article/canada-needs-to-develop-digital-policy-to-reach-net-zero-report-finds/487078)
 - [Thoughts from the CIOs of the Year](https://www.itworldcanada.com/article/thoughts-from-the-cios-of-the-year/487043)
-- [Telus is investing another $10 million to roll out PureFibre network in part of Quebec](https://www.itworldcanada.com/article/telus-is-investing-another-10-million-to-roll-out-purefibre-network-in-part-of-quebec/487040)
-- [Talking privacy with Harvey Jang, Cisco’s chief privacy officer](https://www.itworldcanada.com/article/talking-privacy-with-harvey-jang-ciscos-chief-privacy-officer/485341)
-- [Fix issued for critical vulnerability – Atlassian advises users to update Confluence collaboration software](https://www.itworldcanada.com/article/atlassian-advises-users-to-disable-or-limit-internet-access-to-confluence-collaboration-software/487020)
-- [Cyber Security Today:  Friday, June 3rd, 2022](https://www.itworldcanada.com/article/cyber-security-today-friday-june-3rd-2022/487012)
-- [Hashtag Trending June 3 – EU drops greenhouse gas emissions; Tim Hortons tracking; Meta COO steps down](https://www.itworldcanada.com/article/hashtag-trending-june-3-eu-drops-greenhouse-gas-emissions-tim-hortons-tracking-meta-coo-steps-down/486957)
-- [Zuckerberg announces new management structure with departure of Sheryl Sandberg as COO of Meta](https://www.itworldcanada.com/article/zuckerberg-announces-new-management-structure-with-departure-of-sheryl-sandberg-as-coo-of-meta/486894)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

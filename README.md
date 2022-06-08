@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Why the collapse of an Atlantic ocean current could mean La Niña becomes the norm |  Matthew England, Andréa S. Taschetto and Bryam Orihuela-Pinto for the Conversation](https://www.theguardian.com/australia-news/2022/jun/07/why-the-collapse-of-an-atlantic-ocean-current-could-mean-la-nina-becomes-the-norm)
-- [‘Out in a year’: what the papers say about Tory vote on Boris Johnson](https://www.theguardian.com/politics/2022/jun/07/out-in-a-year-what-the-papers-say-about-tory-vote-on-boris-johnson)
-- [Boris Johnson’s vote of confidence - podcast](https://www.theguardian.com/news/audio/2022/jun/07/boris-johnsons-vote-of-confidence-podcast)
-- [Russia-Ukraine war: what we know on day 104 of the invasion](https://www.theguardian.com/world/2022/jun/07/russia-ukraine-war-what-we-know-on-day-104-of-the-invasion)
-- [Doc Antle of Tiger King charged with laundering $505,000](https://www.theguardian.com/tv-and-radio/2022/jun/06/tiger-king-doc-antle-accused-money-laundering)
-- [Israeli coalition dealt a blow with loss of West Bank settler law vote](https://www.theguardian.com/world/2022/jun/07/israeli-coalition-dealt-a-blow-with-loss-of-west-bank-settler-law-vote)
-- [‘Every second counts’: wife of British journalist missing in Amazon urges action](https://www.theguardian.com/world/2022/jun/07/british-journalist-dom-phillips-missing-amazon-brazil-wife-calls-for-urgency)
-- [Archivists rush to preserve records of atrocities under Ferdinand Marcos Sr](https://www.theguardian.com/world/2022/jun/07/archivists-rush-to-preserve-records-of-atrocities-under-ferdinand-marcos-sr-philippines)
-- [Proud Boys leaders charged with seditious conspiracy in 6 January riot](https://www.theguardian.com/us-news/2022/jun/06/proud-boys-leaders-charged-seditious-conspiracy-jan-6-riot)
-- [Care for 2m Britons with long Covid ‘woefully inadequate’, say top nurses](https://www.theguardian.com/society/2022/jun/07/care-for-2m-britons-with-long-covid-woefully-inadequate-say-top-nurses)
+- [Matthew McConaughey passionately pleads for gun control at White House](https://www.theguardian.com/us-news/2022/jun/07/matthew-mcconaughey-gun-control-uvalde-white-house)
+- [England’s new strangulation law – and why it’s needed – podcast](https://www.theguardian.com/news/audio/2022/jun/08/england-new-strangulation-law-and-why-its-needed-podcast)
+- [The Bedwetter review – Sarah Silverman musical is a crude but kind success](https://www.theguardian.com/stage/2022/jun/07/the-bedwetter-review-sarah-silverman-musical-is-a-crude-but-kind-success)
+- [Praise be: unburnable copy of The Handmaid’s Tale fetches $130,000](https://www.theguardian.com/us-news/2022/jun/07/unburnable-the-handmaids-tale-margaret-atwood)
+- [Russia-Ukraine war: what we know on day 105 of the invasion](https://www.theguardian.com/world/2022/jun/08/russia-ukraine-war-what-we-know-on-day-105-of-the-invasion)
+- [Cambodia and China deny naval base scheme as Australian PM voices concern](https://www.theguardian.com/world/2022/jun/08/cambodia-and-china-deny-naval-base-scheme-as-australian-pm-voices-concern)
+- [Pacific leaders reach crucial deal to restore political unity, as China’s interest in region accelerates](https://www.theguardian.com/world/2022/jun/08/pacific-leaders-reach-crucial-deal-to-restore-political-unity-as-chinas-interest-in-region-accelerates)
+- [New Zealand farmers propose paying for emissions to tackle climate change](https://www.theguardian.com/world/2022/jun/08/new-zealand-farmers-propose-paying-for-emissions-to-tackle-climate-change)
+- [NHS bosses fear DHSC will use bullying report to blame leadership](https://www.theguardian.com/society/2022/jun/08/nhs-bosses-fear-dhsc-will-use-bullying-report-to-blame-leadership)
+- [White NHS nurses twice as likely as black and Asian colleagues to be promoted – study](https://www.theguardian.com/society/2022/jun/08/white-nhs-nurses-twice-as-likely-as-black-and-asian-colleagues-to-be-promoted-study)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

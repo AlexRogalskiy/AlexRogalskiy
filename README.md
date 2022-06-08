@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Britain Tests a 4-Day Workweek](https://www.nytimes.com/2022/06/06/business/uk-four-day-work-week.html)
-- [Tell HN: Apple rejecting cross platform apps &lpar;React Native, Flutter, Capacitor&rpar;](https://news.ycombinator.com/item?id=31648690)
-- [Citigroup plans to hire 4k tech staff](https://www.businesstimes.com.sg/banking-finance/citigroup-plans-to-hire-4000-tech-staff-to-tap-into-digital-explosion)
-- [Tell HN: I used the same computer since 2007 &lpar;with minor upgrades&rpar;](https://news.ycombinator.com/item?id=31648326)
-- [An insight into live video streaming infrastructure at Twitch](https://www.scaleyourapp.com/live-video-streaming-infrastructure-at-twitch/)
-- [Starlight.jl – A game engine written in Julia](https://github.com/jhigginbotham64/Starlight.jl)
-- [iOS 16](https://www.apple.com/ios/ios-16-preview/)
-- [Tools for Better Thinking](https://untools.co)
-- [RFC 9114 – HTTP/3](https://www.rfc-editor.org/info/rfc9114)
-- [Women Who Ran Genghis Khan’s Empire](https://www.atlasobscura.com/articles/mongol-empire-women)
+- [AI is harming our planet: addressing AI’s staggering energy cost](https://numenta.com/blog/2022/05/24/ai-is-harming-our-planet)
+- [What&#39;s new in Safari and WebKit &lpar;WWDC 2022&rpar;](https://developer.apple.com/videos/play/wwdc2022/10048/)
+- [Diablo Immortal won&#39;t release in the Netherlands and Belgium due to loot box law](https://www.gamereactor.eu/diablo-immortal-wont-release-in-the-netherlands-and-belgium-due-to-loot-box-law-1087853/)
+- [Ultrasonic Payments](https://charliegerard.dev/blog/ultrasonic-payments/)
+- [Cowfish: The Mutant Superheroes of the Ocean](https://naturespoisons.com/2015/08/13/cowfish-the-mutant-superheroes-of-the-ocean-pahutoxin/)
+- [Ask HN: Best alternative jobs for “outdated” skills with small websites/apps?](https://news.ycombinator.com/item?id=31660869)
+- [Folk &lpar;Browser&rpar; Interfaces](https://cristobal.space/writing/folk)
+- [When shipping containers sink in the drink](https://www.newyorker.com/magazine/2022/06/06/when-shipping-containers-sink-in-the-drink)
+- [Many researchers were not compliant with their published data sharing statement](https://www.jclinepi.com/article/S0895-4356(22)00141-X/pdf)
+- [Tesorio &lpar;YC S15&rpar; Is Hiring a Head of Infrastructure and Platform](https://jobs.lever.co/tesorio/dcc1de3f-e6ac-4c02-97d0-78138c8138a5)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

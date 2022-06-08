@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Anonymous tipsters, angry at Russia, help detect sanctions-busters](https://www.economist.com/international/2022/05/24/anonymous-tipsters-angry-at-russia-help-detect-sanctions-busters)
-- [San Francisco Is Getting Its Own NFT Restaurant Backed by a Bunch of Tech CEOs](https://sf.eater.com/2022/6/1/23150217/san-francisco-nft-restaurant-club-sho)
-- [The Stat of Indian has a pregnancy tracking app](https://nataliaantonova.substack.com/p/it-doesnt-matter-what-you-think-about)
-- [Planned GPS outages in southern California &lpar;2016&rpar;](https://www.avweb.com/recent-updates/business-military/gps-interference-notam-for-southwest/)
-- [Human: AI-powered face and body detection/recognition JavaScript library](https://github.com/vladmandic/human)
-- [Tesla&#39;s Cheap EV Batteries Are Nearly Ready](https://carbuzz.com/news/teslas-cheap-ev-batteries-are-nearly-ready)
-- [Keeping up with replies to HN comments](https://news.ycombinator.com/item?id=31649343)
-- [Cloudflare&#39;s Sign in with Apple generates JWTs that can be reused, bypasses 2FA](https://community.cloudflare.com/t/new-sign-in-with-apple-button-bypasses-2fa-works-on-existing-accounts/389163)
-- [Ultima Genomics claims $100 full genome sequencing after stealth $600M raise](https://techcrunch.com/2022/05/31/ultima-genomics-claims-100-full-genome-sequencing-after-stealth-600m-raise/)
-- [Why do prime numbers make these spirals? [video]](https://www.youtube.com/watch?v=EK32jo7i5LQ)
+- [The invention, slow adoption and near perfection of the zip &lpar;2018&rpar;](https://www.economist.com/christmas-specials/2018/12/18/the-invention-slow-adoption-and-near-perfection-of-the-zip)
+- [Ask HN: How do you automate your data analytics report?](https://news.ycombinator.com/item?id=31662713)
+- [Wikimedia Dumps Mirrors](https://dumps.wikimedia.org/mirrors.html)
+- [The tech titans of Silicon Valley are in serious trouble](https://www.businessinsider.com/twilight-of-tech-gods-recession-stock-market-crash-silicon-valley-2022-5)
+- [Compositional Visual Generation with Composable Diffusion Models](https://energy-based-model.github.io/Compositional-Visual-Generation-with-Composable-Diffusion-Models/)
+- [Vintage Steel Kitchen Cabinets](https://retrorenovation.com/metal-kitchen-cabinets-history-design-faq/)
+- [The Spotify Song Formula](https://www.bbc.com/news/entertainment-arts-61717373)
+- [Shape, Light, Material Decomposition from Images Using Monte Carlo Rendering](https://arxiv.org/abs/2206.03380)
+- [NeMF: Neural Motion Fields for Kinematic Animation](https://arxiv.org/abs/2206.03287)
+- [Generating Long Videos of Dynamic Scenes](https://www.timothybrooks.com/tech/long-videos/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

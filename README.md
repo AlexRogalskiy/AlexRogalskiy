@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Windows 11 22H2 goes gold; it’s ready to ship later this year](https://www.computerworld.com/article/3662783/windows-11-22h2-goes-gold-its-ready-to-ship-later-this-year.html#tk.rss_all)
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [Elon Musk heaps layoff threat on top of in-office work mandate](https://www.computerworld.com/article/3663034/elon-musk-heaps-layoff-threat-on-top-of-in-office-work-mandate.html#tk.rss_all)
+- [Elon Musk is dead wrong about working from home](https://www.computerworld.com/article/3663033/elon-musk-is-dead-wrong-about-working-from-home.html#tk.rss_all)
 - [How many jobs are available in technology?](https://www.computerworld.com/article/3542681/how-many-jobs-are-available-in-technology.html#tk.rss_all)
 - [WWDC 22: What Apple&#39;s big plans mean for business](https://www.computerworld.com/article/3663035/wwdc-22-what-apples-big-plans-mean-for-business.html#tk.rss_all)
 - [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
-- [Elon Musk heaps layoff threat on top of in-office work mandate](https://www.computerworld.com/article/3663034/elon-musk-heaps-layoff-threat-on-top-of-in-office-work-mandate.html#tk.rss_all)
 - [WWDC22: Apple brings declarative device management to the Mac?](https://www.computerworld.com/article/3663052/wwdc22-apple-brings-declarative-device-management-to-the-mac.html#tk.rss_all)
 - [After a Windows update, what should you expect?](https://www.computerworld.com/article/3663149/after-a-windows-update-what-should-you-expect.html#tk.rss_all)
 - [Microsoft promises to engage with employee unions](https://www.computerworld.com/article/3662813/microsoft-promises-to-engage-with-employee-unions.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
-- [It’s been a big year for Apple in the enterprise](https://www.computerworld.com/article/3662812/it-s-been-a-big-year-for-apple-in-the-enterprise.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

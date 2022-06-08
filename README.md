@@ -414,6 +414,9 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Ballpark/estimate for general IT job](https://www.reddit.com/r/InformationTechnology/comments/v7axlc/ballparkestimate_for_general_it_job/)
+- [I&#39;m just getting started in IT and I got 2 questions.](https://www.reddit.com/r/InformationTechnology/comments/v6rsvz/im_just_getting_started_in_it_and_i_got_2/)
+- [Advice for IT service](https://www.reddit.com/r/InformationTechnology/comments/v6l90c/advice_for_it_service/)
 - [Thrilific 720](https://www.reddit.com/r/InformationTechnology/comments/v69rsd/thrilific_720/)
 - [Hello people! This is my ram,i have a laptop. What should i ask for when going to the shop?](https://www.reddit.com/r/InformationTechnology/comments/v5myo4/hello_people_this_is_my_rami_have_a_laptop_what/)
 - [Is coursea best for learning the UX designer course?](https://www.reddit.com/r/InformationTechnology/comments/v5eo6r/is_coursea_best_for_learning_the_ux_designer/)
@@ -421,9 +424,6 @@
 - [How do you get better at interviews?](https://www.reddit.com/r/InformationTechnology/comments/v54gw9/how_do_you_get_better_at_interviews/)
 - [Tech Layoffs](https://www.reddit.com/r/InformationTechnology/comments/v515h0/tech_layoffs/)
 - [Looking for an IT subreddit](https://www.reddit.com/r/InformationTechnology/comments/v4v7o2/looking_for_an_it_subreddit/)
-- [I&#39;m sorry if this question is asked a lot here.](https://www.reddit.com/r/InformationTechnology/comments/v4umrr/im_sorry_if_this_question_is_asked_a_lot_here/)
-- [What was your Career Progression Path](https://www.reddit.com/r/InformationTechnology/comments/v4sk8v/what_was_your_career_progression_path/)
-- [Is this a field worth getting into if I don&#39;t have any certifications?](https://www.reddit.com/r/InformationTechnology/comments/v4rqrs/is_this_a_field_worth_getting_into_if_i_dont_have/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

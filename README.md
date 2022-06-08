@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Kubernetes backup products and 10 key players](https://www.computerweekly.com/feature/Kubernetes-backup-products-and-10-key-players)
+- [CDO interview: Matthew Lawson, chief digital officer, Ribble Cycles](https://www.computerweekly.com/news/252520801/CDO-interview-Matthew-Lawson-chief-digital-officer-Ribble-Cycles)
+- [A Computer Weekly buyer’s guide to communications as a service](https://www.computerweekly.com/ehandbook/A-Computer-Weekly-buyers-guide-to-communications-as-a-service)
+- [CIO interview: Lee Cowie, chief technology officer, Merlin Entertainments](https://www.computerweekly.com/news/252520804/CIO-interview-Lee-Cowie-chief-technology-officer-Merlin-Entertainments)
+- [Harnessing the promise of data from space services for a better Earth](https://www.computerweekly.com/opinion/Harnessing-the-promise-of-data-from-space-services-for-a-better-Earth)
+- [Software house Mega achieves holistic SaaS security with Synopsys](https://www.computerweekly.com/news/252520762/Software-house-Mega-achieves-holistic-SaaS-security-with-Synopsys)
+- [Using technology to reinvent shopping](https://www.computerweekly.com/ezine/Computer-Weekly/Using-technology-to-reinvent-shopping)
 - [IT Sustainability Think Tank: Getting a measure on the circular economy](https://www.computerweekly.com/opinion/IT-Sustainability-Think-Tank-Getting-a-measure-on-the-circular-economy)
 - [IT departments need holistic circular economies to fight climate change](https://www.computerweekly.com/feature/IT-departments-need-holistic-circular-economies-to-fight-climate-change)
 - [Four obstacles to hybrid cloud storage – and possible solutions](https://www.computerweekly.com/feature/Four-obstacles-to-hybrid-cloud-storage-And-possible-solutions)
-- [Over a third of cyber security professionals plan career change](https://www.computerweekly.com/news/252520947/Over-a-third-of-cyber-security-professionals-plan-career-change)
-- [EU must stand ground on cyber security, says Finland’s WithSecure](https://www.computerweekly.com/news/252520950/EU-must-stand-ground-on-cyber-security-says-Finlands-WithSecure)
-- [Executive interview: Jeetu Patel, general manager of collaboration and security, Cisco](https://www.computerweekly.com/news/252520671/Executive-interview-Jeetu-Patel-general-manager-of-collaboration-and-security-Cisco)
-- [Security leaders call for more observability for cloud native apps](https://www.computerweekly.com/news/252520935/Security-leaders-call-for-more-open-tooling-for-multicloud-support)
-- [What does the EU’s NIS 2 cyber directive cover?](https://www.computerweekly.com/opinion/What-does-the-EUs-NIS-2-cyber-directive-cover)
-- [Millions of UK workers lack digital workplace skills, says FutureDotNow](https://www.computerweekly.com/news/252520918/Millions-of-UK-workers-lack-digital-workplace-skills-says-FutureDotNow)
-- [UKtech50 2022: Vote for the most influential person in UK technology](https://www.computerweekly.com/news/252520853/UKtech50-2022-Vote-for-the-most-influential-person-in-UK-technology)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

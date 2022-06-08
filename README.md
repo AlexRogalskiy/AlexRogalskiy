@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Apple’s new M2 chip lands in the redesigned MacBook Air](https://www.itworldcanada.com/article/apples-new-m2-chip-lands-in-the-redesigned-macbook-air/487329)
+- [Mobile service cost in Canada are getting cheaper as data use rise, says the CRTC](https://www.itworldcanada.com/article/mobile-service-cost-in-canada-are-getting-cheaper-as-data-use-rise-says-the-crtc/487225)
+- [RSA Conference 2022: Infosec pros urged to help small firms, non-profits](https://www.itworldcanada.com/article/rsa-conference-2022-infosec-pros-urged-to-help-small-firms-non-profits/487212)
+- [SOTI and Toronto Metropolitan University Announce Research Chair in the Department of Aerospace Engineering](https://www.itworldcanada.com/article/soti-and-toronto-metropolitan-university-announce-research-chair-in-the-department-of-aerospace-engineering/487247)
+- [Coffee Briefing June 7, 2022 – Xero looks for tech talent across Canada; Square to bring Tap to Pay on iPhone to Square Sellers; Canadians are reliant on digital tech for travelling; and more](https://www.itworldcanada.com/article/coffee-briefing-june-7-2022-xero-looks-for-tech-talent-across-canada-square-to-bring-tap-to-pay-on-iphone-to-square-sellers-canadians-are-reliant-on-digital-tech-for-travelling-and-more/487176)
+- [Hashtag Trending June 7 – Taiwan chip restrictions; engineer sues Amazon for WFH costs; Ford wants to sell EVs online](https://www.itworldcanada.com/article/hashtag-trending-june-7-taiwan-chip-restrictions-engineer-sues-amazon-for-wfh-costs-ford-wants-to-sell-evs-online/487202)
 - [New owner of Canadian ransomware negotiating firm expands its mandate](https://www.itworldcanada.com/article/new-owner-of-canadian-ransomware-negotiating-firm-expands-its-mandate/487206)
 - [LockBit claims Mandiant data will be published, Mandiant says no evidence of theft](https://www.itworldcanada.com/article/lockbit-claims-mandiant-data-will-be-published-mandiant-says-no-evidence-of-theft/487186)
 - [This Week in Ransomware – Friday, June 3, 2022](https://www.itworldcanada.com/article/this-week-in-ransomware-friday-june-3-2022/487162)
 - [Government of Canada invests $10 million to support innovation in the tech sector](https://www.itworldcanada.com/article/government-of-canada-invests-10-million-to-support-innovation-in-the-tech-sector/487156)
-- [Info-Tech, Forrester analysts slam Broadcom buy of VMware](https://www.itworldcanada.com/article/info-tech-forrester-analysts-slam-broadcom-buy-of-vmware/487093)
-- [Cyber Security Today, June 6, 2022 – Atlassian and GitHub issue patches for critical bugs](https://www.itworldcanada.com/article/cyber-security-today-june-6-2022-atlassian-and-github-issue-patches-for-critical-bugs/487100)
-- [Canadian CEOs rank sustainability and cyber risk as greatest challenges in 2022: IBM report](https://www.itworldcanada.com/article/canadian-ceos-rank-sustainability-and-cyber-risk-as-greatest-challenges-in-2022-ibm-report/487083)
-- [Every house in P.E.I. to be connected to high-speed internet by 2025](https://www.itworldcanada.com/article/every-house-in-p-e-i-to-be-connected-to-high-speed-internet-by-2025/487081)
-- [Canada needs to develop digital policy to reach net zero, report finds](https://www.itworldcanada.com/article/canada-needs-to-develop-digital-policy-to-reach-net-zero-report-finds/487078)
-- [Thoughts from the CIOs of the Year](https://www.itworldcanada.com/article/thoughts-from-the-cios-of-the-year/487043)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

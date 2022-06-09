@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [TekSavvy Unified Communications service now available nationally](https://www.itworldcanada.com/article/teksavvy-unified-communications-service-now-available-nationally/487541)
+- [BlackBerry launches zero trust network access solution](https://www.itworldcanada.com/article/blackberry-launches-zero-trust-network-access-solution/487524)
+- [Bad news for Apple: EU announces deal on common charging port](https://www.itworldcanada.com/article/bad-news-for-apple-eu-announces-deal-on-common-charging-port/487469)
+- [RSA Conference 2022 – Advice to a new CISO:  Shut up and listen](https://www.itworldcanada.com/article/rsa-conference-2022-advice-to-a-new-ciso-shut-up-and-listen/487382)
+- [Cyber Security Today, June 8, 2022 – A huge US healthcare provider data breach, a warning about a Windows flaw and more](https://www.itworldcanada.com/article/cyber-security-today-june-8-2022-a-huge-us-healthcare-provider-data-breach-a-warning-about-a-windows-flaw-and-more/487325)
+- [Hashtag Trending June 8 – Apple will change connectors on iPhones in Europe by 2024; Mercedes-Benz vehicle recalls; edit and unsend texts on iMessage](https://www.itworldcanada.com/article/hashtag-trending-june-8-apple-will-change-connectors-on-iphones-in-europe-by-2024-mercedes-benz-vehicle-recalls-edit-and-unsend-texts-on-imessage/487392)
 - [Apple’s new M2 chip lands in the redesigned MacBook Air](https://www.itworldcanada.com/article/apples-new-m2-chip-lands-in-the-redesigned-macbook-air/487329)
-- [Mobile service cost in Canada are getting cheaper as data use rise, says the CRTC](https://www.itworldcanada.com/article/mobile-service-cost-in-canada-are-getting-cheaper-as-data-use-rise-says-the-crtc/487225)
+- [Mobile service costs in Canada are getting cheaper as data use rises, says the CRTC](https://www.itworldcanada.com/article/mobile-service-cost-in-canada-are-getting-cheaper-as-data-use-rise-says-the-crtc/487225)
 - [RSA Conference 2022: Infosec pros urged to help small firms, non-profits](https://www.itworldcanada.com/article/rsa-conference-2022-infosec-pros-urged-to-help-small-firms-non-profits/487212)
 - [SOTI and Toronto Metropolitan University Announce Research Chair in the Department of Aerospace Engineering](https://www.itworldcanada.com/article/soti-and-toronto-metropolitan-university-announce-research-chair-in-the-department-of-aerospace-engineering/487247)
-- [Coffee Briefing June 7, 2022 – Xero looks for tech talent across Canada; Square to bring Tap to Pay on iPhone to Square Sellers; Canadians are reliant on digital tech for travelling; and more](https://www.itworldcanada.com/article/coffee-briefing-june-7-2022-xero-looks-for-tech-talent-across-canada-square-to-bring-tap-to-pay-on-iphone-to-square-sellers-canadians-are-reliant-on-digital-tech-for-travelling-and-more/487176)
-- [Hashtag Trending June 7 – Taiwan chip restrictions; engineer sues Amazon for WFH costs; Ford wants to sell EVs online](https://www.itworldcanada.com/article/hashtag-trending-june-7-taiwan-chip-restrictions-engineer-sues-amazon-for-wfh-costs-ford-wants-to-sell-evs-online/487202)
-- [New owner of Canadian ransomware negotiating firm expands its mandate](https://www.itworldcanada.com/article/new-owner-of-canadian-ransomware-negotiating-firm-expands-its-mandate/487206)
-- [LockBit claims Mandiant data will be published, Mandiant says no evidence of theft](https://www.itworldcanada.com/article/lockbit-claims-mandiant-data-will-be-published-mandiant-says-no-evidence-of-theft/487186)
-- [This Week in Ransomware – Friday, June 3, 2022](https://www.itworldcanada.com/article/this-week-in-ransomware-friday-june-3-2022/487162)
-- [Government of Canada invests $10 million to support innovation in the tech sector](https://www.itworldcanada.com/article/government-of-canada-invests-10-million-to-support-innovation-in-the-tech-sector/487156)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

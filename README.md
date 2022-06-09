@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is a MS in Information Systems worth it, if you already have an MBA?](https://www.reddit.com/r/InformationTechnology/comments/v7zno9/is_a_ms_in_information_systems_worth_it_if_you/)
+- [IT Monitor Display](https://www.reddit.com/r/InformationTechnology/comments/v7ysl1/it_monitor_display/)
+- [NEW CAREER PATH](https://www.reddit.com/r/InformationTechnology/comments/v7xata/new_career_path/)
+- [What is the Average speed of a router???](https://www.reddit.com/r/InformationTechnology/comments/v7w7rc/what_is_the_average_speed_of_a_router/)
+- [What should my learning pathway be for a career in cybersecurity?](https://www.reddit.com/r/InformationTechnology/comments/v7m4ls/what_should_my_learning_pathway_be_for_a_career/)
 - [Ballpark/estimate for general IT job](https://www.reddit.com/r/InformationTechnology/comments/v7axlc/ballparkestimate_for_general_it_job/)
 - [I&#39;m just getting started in IT and I got 2 questions.](https://www.reddit.com/r/InformationTechnology/comments/v6rsvz/im_just_getting_started_in_it_and_i_got_2/)
 - [Advice for IT service](https://www.reddit.com/r/InformationTechnology/comments/v6l90c/advice_for_it_service/)
 - [Thrilific 720](https://www.reddit.com/r/InformationTechnology/comments/v69rsd/thrilific_720/)
 - [Hello people! This is my ram,i have a laptop. What should i ask for when going to the shop?](https://www.reddit.com/r/InformationTechnology/comments/v5myo4/hello_people_this_is_my_rami_have_a_laptop_what/)
-- [Is coursea best for learning the UX designer course?](https://www.reddit.com/r/InformationTechnology/comments/v5eo6r/is_coursea_best_for_learning_the_ux_designer/)
-- [Is being a windows admin or a linux admin a harder job?](https://www.reddit.com/r/InformationTechnology/comments/v54kxp/is_being_a_windows_admin_or_a_linux_admin_a/)
-- [How do you get better at interviews?](https://www.reddit.com/r/InformationTechnology/comments/v54gw9/how_do_you_get_better_at_interviews/)
-- [Tech Layoffs](https://www.reddit.com/r/InformationTechnology/comments/v515h0/tech_layoffs/)
-- [Looking for an IT subreddit](https://www.reddit.com/r/InformationTechnology/comments/v4v7o2/looking_for_an_it_subreddit/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

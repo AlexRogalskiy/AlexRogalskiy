@@ -384,16 +384,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Draft 2: Microsoft kickstarts Kubernetes development for AKS](https://www.infoworld.com/article/3662815/draft-2-microsoft-kickstarts-kubernetes-development-for-aks.html#tk.rss_all)
+- [Review: Visual Studio Code shines for Java](https://www.infoworld.com/article/3662814/review-visual-studio-code-shines-for-java.html#tk.rss_all)
+- [MongoDB: From jokes to juggernaut](https://www.infoworld.com/article/3662759/mongodb-from-jokes-to-juggernaut.html#tk.rss_all)
+- [Career roadmap: Head of engineering](https://www.infoworld.com/article/3662108/career-roadmap-head-of-engineering.html#tk.rss_all)
 - [GitHub adds supply chain security tools for Rust language](https://www.infoworld.com/article/3662758/github-adds-supply-chain-security-tools-for-rust-language.html#tk.rss_all)
 - [It’s a serverless and containerized world](https://www.infoworld.com/article/3663130/its-a-serverless-and-containerized-world.html#tk.rss_all)
 - [Tired of searching Slack, GitHub, and Google Drive separately? Do it all at once in SQL](https://www.infoworld.com/article/3663031/tired-of-searching-slack-github-and-google-drive-separately-do-it-all-at-once-in-sql.html#tk.rss_all)
 - [How enterprises can overcome the growing cloud skills shortage](https://www.infoworld.com/article/3662770/how-enterprises-can-overcome-the-growing-cloud-skills-shortage.html#tk.rss_all)
 - [Angular 14 arrives with typed forms, standalone components](https://www.infoworld.com/article/3663151/angular-14-arrives-with-typed-forms-standalone-components.html#tk.rss_all)
 - [Maximize your cloud security with isolation zones](https://www.infoworld.com/article/3662777/maximize-your-cloud-security-with-isolation-zones.html#tk.rss_all)
-- [Cloud complicates development, but GraphQL and supergraphs offer hope](https://www.infoworld.com/article/3662752/cloud-complicates-development-but-graphql-and-supergraphs-offer-hope.html#tk.rss_all)
-- [12 programming tricks to cut your cloud bill](https://www.infoworld.com/article/3661809/12-programming-tricks-to-cut-your-cloud-bill.html#tk.rss_all)
-- [Deno Deploy moves toward GA, adds paid plan](https://www.infoworld.com/article/3663129/deno-deploy-moves-toward-ga-adds-paid-plan.html#tk.rss_all)
-- [GitHub Enterprise Server adds code security, automation features](https://www.infoworld.com/article/3663030/github-enterprise-server-adds-code-security-automation-features.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

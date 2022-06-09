@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [AI is harming our planet: addressing AI’s staggering energy cost](https://numenta.com/blog/2022/05/24/ai-is-harming-our-planet)
-- [What&#39;s new in Safari and WebKit &lpar;WWDC 2022&rpar;](https://developer.apple.com/videos/play/wwdc2022/10048/)
-- [Diablo Immortal won&#39;t release in the Netherlands and Belgium due to loot box law](https://www.gamereactor.eu/diablo-immortal-wont-release-in-the-netherlands-and-belgium-due-to-loot-box-law-1087853/)
-- [Ultrasonic Payments](https://charliegerard.dev/blog/ultrasonic-payments/)
-- [Cowfish: The Mutant Superheroes of the Ocean](https://naturespoisons.com/2015/08/13/cowfish-the-mutant-superheroes-of-the-ocean-pahutoxin/)
-- [Ask HN: Best alternative jobs for “outdated” skills with small websites/apps?](https://news.ycombinator.com/item?id=31660869)
-- [Folk &lpar;Browser&rpar; Interfaces](https://cristobal.space/writing/folk)
-- [When shipping containers sink in the drink](https://www.newyorker.com/magazine/2022/06/06/when-shipping-containers-sink-in-the-drink)
-- [Many researchers were not compliant with their published data sharing statement](https://www.jclinepi.com/article/S0895-4356(22)00141-X/pdf)
-- [Tesorio &lpar;YC S15&rpar; Is Hiring a Head of Infrastructure and Platform](https://jobs.lever.co/tesorio/dcc1de3f-e6ac-4c02-97d0-78138c8138a5)
+- [Simple Sabotage Field Manual by United States Office of Strategic Services](https://www.gutenberg.org/ebooks/26184)
+- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Machine Learning Research Engineers](https://news.ycombinator.com/item?id=31676449)
+- [50th Anniversary of the Mother of All Demos &lpar;2018&rpar;](https://amasad.me/moad)
+- [Underprotection of Unpredictable Statistical Lives Compared to Predictable Ones](https://onlinelibrary.wiley.com/doi/abs/10.1111/risa.12658)
+- [The Last Question](https://en.wikipedia.org/wiki/The_Last_Question)
+- [Hacker News “Who is Hiring?” top-level comments over time](https://blog.joewoods.dev/technology/hackernews-who-is-hiring-top-level-comments-over-time/)
+- [Researchers achieve ‘absurdly fast’ algorithm for network flow](https://www.quantamagazine.org/researchers-achieve-absurdly-fast-algorithm-for-network-flow-20220608/)
+- [Investigation report on the OVH data centre fire in Strasbourg on 2021-03-10](https://lafibre.info/ovh-datacenter/incendie-ovh-strabourg/)
+- [Hexwords: Hex colors that are similar to words](https://hexwords.netlify.app/)
+- [Some languages pay closer attention to family ties than others](https://www.economist.com/culture/2022/06/02/some-languages-pay-closer-attention-to-family-ties-than-others)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

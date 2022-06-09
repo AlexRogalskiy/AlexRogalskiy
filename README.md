@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
-- [Windows 11 22H2 goes gold; it’s ready to ship later this year](https://www.computerworld.com/article/3662783/windows-11-22h2-goes-gold-its-ready-to-ship-later-this-year.html#tk.rss_all)
+- [What the EU’s USB-C mandate means for Apple — and for users](https://www.computerworld.com/article/3663388/what-the-eus-usb-c-mandate-means-for-apple-and-for-users.html#tk.rss_all)
+- [VPN providers flee Indian market ahead of new data rules](https://www.computerworld.com/article/3662760/vpn-providers-flee-indian-market-ahead-of-new-data-rules.html#tk.rss_all)
+- [Apple isn’t saying too much, but AR is everywhere at WWDC](https://www.computerworld.com/article/3663036/apple-isnt-saying-too-much-but-ar-is-everywhere-at-wwdc.html#tk.rss_all)
+- [Four-day workweek pilot kicks off for thousands of UK workers](https://www.computerworld.com/article/3662786/four-day-workweek-pilot-kicks-off-for-thousands-of-uk-workers.html#tk.rss_all)
+- [6 custom Android shortcuts that&#39;ll supercharge your efficiency](https://www.computerworld.com/article/3662756/android-shortcuts.html#tk.rss_all)
+- [Windows 11 22H2 goes gold; expected to ship later this year](https://www.computerworld.com/article/3662783/windows-11-22h2-goes-gold-expected-to-ship-later-this-year.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [Elon Musk heaps layoff threat on top of in-office work mandate](https://www.computerworld.com/article/3663034/elon-musk-heaps-layoff-threat-on-top-of-in-office-work-mandate.html#tk.rss_all)
 - [Elon Musk is dead wrong about working from home](https://www.computerworld.com/article/3663033/elon-musk-is-dead-wrong-about-working-from-home.html#tk.rss_all)
 - [How many jobs are available in technology?](https://www.computerworld.com/article/3542681/how-many-jobs-are-available-in-technology.html#tk.rss_all)
-- [WWDC 22: What Apple&#39;s big plans mean for business](https://www.computerworld.com/article/3663035/wwdc-22-what-apples-big-plans-mean-for-business.html#tk.rss_all)
-- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
-- [WWDC22: Apple brings declarative device management to the Mac?](https://www.computerworld.com/article/3663052/wwdc22-apple-brings-declarative-device-management-to-the-mac.html#tk.rss_all)
-- [After a Windows update, what should you expect?](https://www.computerworld.com/article/3663149/after-a-windows-update-what-should-you-expect.html#tk.rss_all)
-- [Microsoft promises to engage with employee unions](https://www.computerworld.com/article/3662813/microsoft-promises-to-engage-with-employee-unions.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

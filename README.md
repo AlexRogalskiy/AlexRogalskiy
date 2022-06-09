@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [China using top consumer routers to hack Western comms networks](https://www.computerweekly.com/news/252521253/China-using-top-consumer-routers-to-hack-Western-comms-networks)
+- [Pure FlashBlade//S and Evergreen//Flex boost as-a-service push](https://www.computerweekly.com/news/252521119/Pure-FlashBlade-S-and-Evergreen-Flex-boost-as-a-service-push)
+- [Length, cost and severity of datacentre outages continue to rise, Uptime Institute research confirms](https://www.computerweekly.com/news/252521245/Length-cost-and-severity-of-datacentre-outages-continue-to-rise-Uptime-Institute-research-confirms)
+- [Executive interview: Clive Benford, Jaguar Land Rover](https://www.computerweekly.com/news/252520806/Executive-interview-Clive-Benford-Jaguar-Land-Rover)
+- [ProxyLogon, ProxyShell may have driven increase in dwell times](https://www.computerweekly.com/news/252521249/ProxyLogon-ProxyShell-may-have-driven-increase-in-dwell-times)
+- [IT Sustainability Think Tank: Understanding the circular economy](https://www.computerweekly.com/opinion/IT-Sustainability-Think-Tank-Understanding-the-circular-economy)
 - [Kubernetes backup products and 10 key players](https://www.computerweekly.com/feature/Kubernetes-backup-products-and-10-key-players)
 - [CDO interview: Matthew Lawson, chief digital officer, Ribble Cycles](https://www.computerweekly.com/news/252520801/CDO-interview-Matthew-Lawson-chief-digital-officer-Ribble-Cycles)
 - [A Computer Weekly buyer’s guide to communications as a service](https://www.computerweekly.com/ehandbook/A-Computer-Weekly-buyers-guide-to-communications-as-a-service)
 - [CIO interview: Lee Cowie, chief technology officer, Merlin Entertainments](https://www.computerweekly.com/news/252520804/CIO-interview-Lee-Cowie-chief-technology-officer-Merlin-Entertainments)
-- [Harnessing the promise of data from space services for a better Earth](https://www.computerweekly.com/opinion/Harnessing-the-promise-of-data-from-space-services-for-a-better-Earth)
-- [Software house Mega achieves holistic SaaS security with Synopsys](https://www.computerweekly.com/news/252520762/Software-house-Mega-achieves-holistic-SaaS-security-with-Synopsys)
-- [Using technology to reinvent shopping](https://www.computerweekly.com/ezine/Computer-Weekly/Using-technology-to-reinvent-shopping)
-- [IT Sustainability Think Tank: Getting a measure on the circular economy](https://www.computerweekly.com/opinion/IT-Sustainability-Think-Tank-Getting-a-measure-on-the-circular-economy)
-- [IT departments need holistic circular economies to fight climate change](https://www.computerweekly.com/feature/IT-departments-need-holistic-circular-economies-to-fight-climate-change)
-- [Four obstacles to hybrid cloud storage – and possible solutions](https://www.computerweekly.com/feature/Four-obstacles-to-hybrid-cloud-storage-And-possible-solutions)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

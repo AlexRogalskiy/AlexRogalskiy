@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The invention, slow adoption and near perfection of the zip &lpar;2018&rpar;](https://www.economist.com/christmas-specials/2018/12/18/the-invention-slow-adoption-and-near-perfection-of-the-zip)
-- [Ask HN: How do you automate your data analytics report?](https://news.ycombinator.com/item?id=31662713)
-- [Wikimedia Dumps Mirrors](https://dumps.wikimedia.org/mirrors.html)
-- [The tech titans of Silicon Valley are in serious trouble](https://www.businessinsider.com/twilight-of-tech-gods-recession-stock-market-crash-silicon-valley-2022-5)
-- [Compositional Visual Generation with Composable Diffusion Models](https://energy-based-model.github.io/Compositional-Visual-Generation-with-Composable-Diffusion-Models/)
-- [Vintage Steel Kitchen Cabinets](https://retrorenovation.com/metal-kitchen-cabinets-history-design-faq/)
-- [The Spotify Song Formula](https://www.bbc.com/news/entertainment-arts-61717373)
-- [Shape, Light, Material Decomposition from Images Using Monte Carlo Rendering](https://arxiv.org/abs/2206.03380)
-- [NeMF: Neural Motion Fields for Kinematic Animation](https://arxiv.org/abs/2206.03287)
-- [Generating Long Videos of Dynamic Scenes](https://www.timothybrooks.com/tech/long-videos/)
+- [Reading OpenBSD source code daily &lpar;2017&rpar;](http://blog.tintagel.pl/2017/06/09/openbsd-daily.html)
+- [As the Great Salt Lake Dries Up, Utah Faces an ‘Environmental Nuclear Bomb’](https://www.nytimes.com/2022/06/07/climate/salt-lake-city-climate-disaster.html)
+- [The International Bathymetric Chart of the Southern Ocean Version 2](https://www.nature.com/articles/s41597-022-01366-7)
+- [Links and tweets, 2022-06-08](https://rootsofprogress.org/links-and-tweets-2022-06-08)
+- [Ask HN: What do you wish you knew about your spouse before getting married?](https://news.ycombinator.com/item?id=31677161)
+- [Edwin Kaal – The Structured Atom Model and Transmutations &lpar;2019&rpar;](https://www.youtube.com/watch?v=8_CCDD9eHRc)
+- [Twitter plans to provide Elon Musk with access to the “firehose”](https://www.washingtonpost.com/technology/2022/06/08/elon-musk-twitter-bot-data/)
+- [Yet More New HTTP Specs – Mark Nottingham](https://www.mnot.net/blog/2022/06/08/http-extensions)
+- [BlackRock&#39;s Alladin](https://www.youtube.com/watch?v=DDp949PTYSk)
+- [Pancreatic cancer vaccine: What to know about early promising results](https://www.newscientist.com/article/2323437-pancreatic-cancer-vaccine-what-to-know-about-early-promising-results/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

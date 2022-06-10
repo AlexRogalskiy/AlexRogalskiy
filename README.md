@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [NBA finals Game 3: Golden State Warriors v Boston Celtics – live!](https://www.theguardian.com/sport/live/2022/jun/08/nba-finals-game-3-golden-state-warriors-boston-celtics-steph-curry-live)
-- [Global supply chain crisis fuels push to local manufacturing as China’s appeal dims](https://www.theguardian.com/business/2022/jun/09/global-supply-chain-crisis-fuels-push-to-local-manufacturing-as-chinas-appeal-dims)
-- [Life in the firing zone: the occupation of Masafer Yatta – podcast](https://www.theguardian.com/news/audio/2022/jun/09/life-in-the-firing-zone-the-occupation-of-masafer-yatta-podcast)
-- [Ukrainian journalist confronts Russia’s Sergei Lavrov with grain theft claim](https://www.theguardian.com/world/2022/jun/09/ukrainian-journalist-confronts-russias-sergei-lavrov-with-grain-theft-claim)
-- [Uvalde survivor, 11, tells House hearing she smeared herself with friend’s blood](https://www.theguardian.com/us-news/2022/jun/08/us-house-hearing-gun-violence-survivors-testify-miah-cerrillo)
-- [Sex, laughs and the snip: an audience with Thailand’s ‘Condom King’](https://www.theguardian.com/world/2022/jun/09/sex-laughs-and-the-snip-an-audience-with-thailands-condom-king)
-- [Cultural relevance essential to business today, says Tiffany boss](https://www.theguardian.com/fashion/2022/jun/08/cultural-relevance-tiffany-jewellery-exhibition)
-- [UK social mobility tsar wants focus on ‘small steps’ not giant leaps](https://www.theguardian.com/society/2022/jun/09/uk-social-mobility-tsar-wants-focus-on-small-steps-not-giant-leaps)
-- [Gambling losses in online gaming very skewed to deprived areas – UK study](https://www.theguardian.com/society/2022/jun/09/gambling-losses-online-gaming-deprived-areas-uk-study)
-- [John Lewis names sites for its ‘more than four walls’ newbuild flats](https://www.theguardian.com/business/2022/jun/09/john-lewis-names-sites-for-its-more-than-four-walls-newbuild-flats)
+- [January 6 hearing: hard-hitting evidence puts Trump at heart of assault on democracy – live](https://www.theguardian.com/us-news/live/2022/jun/09/jan-6-hearings-capitol-attack-trump-biden-us-politics-latest-updates)
+- [Sudden infant death syndrome: will parents finally get answers? – podcast](https://www.theguardian.com/news/audio/2022/jun/10/sudden-infant-death-syndrome-will-parents-finally-get-answers-podcast)
+- [Britney Spears’s ex-husband crashes her wedding with Sam Asghari](https://www.theguardian.com/music/2022/jun/09/britney-spears-ex-husband-wedding-crash-jason-alexander)
+- [Russia-Ukraine war: what we know on day 107 of the invasion](https://www.theguardian.com/world/2022/jun/10/russia-ukraine-war-what-we-know-on-day-107-of-the-invasion)
+- [‘Ironclad brothers’: what China wants from its role in Cambodia’s biggest naval base](https://www.theguardian.com/world/2022/jun/10/ironclad-brothers-what-china-wants-from-its-role-in-cambodias-biggest-naval-base)
+- [Nasa forms independent team to study unexplained UFO sightings](https://www.theguardian.com/science/2022/jun/09/nasa-study-ufo-sightings)
+- [I’m wondering if my mother has dyslexia. Should I tell her or let things be? | Leading questions](https://www.theguardian.com/lifeandstyle/2022/jun/10/im-wondering-if-my-mother-has-dyslexia-should-i-tell-her-or-let-things-be)
+- [Putin compares himself to Peter the Great in quest to take back Russian lands](https://www.theguardian.com/world/2022/jun/10/putin-compares-himself-to-peter-the-great-in-quest-to-take-back-russian-lands)
+- [Rebel Wilson reveals she is dating a woman in Instagram post tagged #loveislove](https://www.theguardian.com/film/2022/jun/10/rebel-wilson-reveals-she-is-dating-a-woman-in-instagram-post-tagged-loveislove)
+- [Rishi Sunak ‘wasted £11bn by paying too much interest’ on UK debt](https://www.theguardian.com/politics/2022/jun/10/rishi-sunak-wasted-11bn-by-paying-too-much-interest-on-uk-debt)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -369,6 +369,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [In Search of Coding Quality](https://www.informationweek.com/software/in-search-of-coding-quality)
+- [Protecting From the Threat Within: How To Manage Insider Risk](https://www.informationweek.com/strategic-cio/protecting-from-the-threat-within-how-to-manage-insider-risk)
+- [Going Green with Regulatory Tech for Financial Institutions](https://www.informationweek.com/fintech/going-green-with-regulatory-tech-for-financial-institutions)
 - [DDoS Attacks Taking Cyber Extortion to The Next Level?](https://www.informationweek.com/strategic-cio/ddos-attacks-taking-cyber-extortion-to-the-next-level-)
 - [How to Retain Talent in Uncertain Circumstances](https://www.informationweek.com/strategic-cio/how-to-retain-talent-in-uncertain-circumstances)
 - [The Importance of Curiosity as an IT Skill](https://www.informationweek.com/strategic-cio/the-importance-of-curiosity-as-an-it-skill)
@@ -376,9 +379,6 @@
 - [Using Behavioral Analytics to Bolster Security](https://www.informationweek.com/big-data/using-behavioral-analytics-to-bolster-security)
 - [The Chief Data Officer&#39;s Key Role in Fighting Ransomware](https://www.informationweek.com/big-data/the-chief-data-officer-s-key-role-in-fighting-ransomware)
 - [Cloud Spending: How to Get a Grip on Cost Overruns](https://www.informationweek.com/cloud/cloud-spending-how-to-get-a-grip-on-cost-overruns)
-- [Cloud Adoption: 3 Things to Consider](https://www.informationweek.com/cloud/cloud-adoption-3-things-to-consider)
-- [LendingClub CEO Discusses Building a Digital Marketplace Bank](https://www.informationweek.com/fintech/lendingclub-ceo-discusses-building-a-digital-marketplace-bank)
-- [Master Connected Intelligence In 8 Key Steps](https://www.informationweek.com/big-data/master-connected-intelligence-in-8-key-steps)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

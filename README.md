@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Could the EU’s USB-C edict push Apple to cut the cord altogether?](https://www.computerworld.com/article/3663731/could-the-eus-usb-c-edict-push-apple-to-cut-the-cord-altogether.html#tk.rss_all)
+- [WWDC 2022 wrap-up](https://www.computerworld.com/article/3663470/wwdc-2022-wrap-up.html#tk.rss_all)
+- [Salesforce announces NFT Cloud platform amid crypto concerns](https://www.computerworld.com/article/3663730/salesforce-announces-nft-cloud-platform-amid-crypto-concerns.html#tk.rss_all)
+- [Bitrise announces virtualized Apple Silicon M1 CI/CD dev environment](https://www.computerworld.com/article/3663668/bitrise-announces-virtualized-apple-silicon-m1-cicd-dev-environment.html#tk.rss_all)
+- [The productivity advantages of Microsoft Azure: vertical focus](https://www.computerworld.com/article/3663669/the-productivity-advantages-of-microsoft-azure-vertical-focus.html#tk.rss_all)
+- [Why Elon Musk&#39;s back-to-office mandate will backfire](https://www.computerworld.com/article/3662816/why-elon-musks-back-to-office-mandate-will-backfire.html#tk.rss_all)
+- [Microsoft commits to ban non-competes and increase pay transparency in the US](https://www.computerworld.com/article/3663491/microsoft-to-ban-non-competes-and-increase-pay-transparency-in-the-us.html#tk.rss_all)
+- [Europe gives Apple a smack in the chops on USB-C power standardization](https://www.computerworld.com/article/3663448/europe-gives-apple-a-smack-in-the-chops-on-usb-c-power-standardization.html#tk.rss_all)
+- [How AI can give companies a DEI boost](https://www.computerworld.com/article/3663053/how-ai-can-improve-diversity-equity-inclusion.html#tk.rss_all)
 - [What the EU’s USB-C mandate means for Apple — and for users](https://www.computerworld.com/article/3663388/what-the-eus-usb-c-mandate-means-for-apple-and-for-users.html#tk.rss_all)
-- [VPN providers flee Indian market ahead of new data rules](https://www.computerworld.com/article/3662760/vpn-providers-flee-indian-market-ahead-of-new-data-rules.html#tk.rss_all)
-- [Apple isn’t saying too much, but AR is everywhere at WWDC](https://www.computerworld.com/article/3663036/apple-isnt-saying-too-much-but-ar-is-everywhere-at-wwdc.html#tk.rss_all)
-- [Four-day workweek pilot kicks off for thousands of UK workers](https://www.computerworld.com/article/3662786/four-day-workweek-pilot-kicks-off-for-thousands-of-uk-workers.html#tk.rss_all)
-- [6 custom Android shortcuts that&#39;ll supercharge your efficiency](https://www.computerworld.com/article/3662756/android-shortcuts.html#tk.rss_all)
-- [Windows 11 22H2 goes gold; expected to ship later this year](https://www.computerworld.com/article/3662783/windows-11-22h2-goes-gold-expected-to-ship-later-this-year.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [Elon Musk heaps layoff threat on top of in-office work mandate](https://www.computerworld.com/article/3663034/elon-musk-heaps-layoff-threat-on-top-of-in-office-work-mandate.html#tk.rss_all)
-- [Elon Musk is dead wrong about working from home](https://www.computerworld.com/article/3663033/elon-musk-is-dead-wrong-about-working-from-home.html#tk.rss_all)
-- [How many jobs are available in technology?](https://www.computerworld.com/article/3542681/how-many-jobs-are-available-in-technology.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

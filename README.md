@@ -384,16 +384,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
-- [Draft 2: Microsoft kickstarts Kubernetes development for AKS](https://www.infoworld.com/article/3662815/draft-2-microsoft-kickstarts-kubernetes-development-for-aks.html#tk.rss_all)
+- [“Do More with R” video tutorials](https://www.infoworld.com/article/3411819/do-more-with-r-video-tutorials.html#tk.rss_all)
+- [How MongoDB&#39;s NoSQL database is encroaching on relational database turf](https://www.infoworld.com/article/3663488/how-mongodbs-nosql-database-is-encroaching-on-relational-database-turf.html#tk.rss_all)
+- [Intro to JHipster: A full-stack framework for Java and JavaScript](https://www.infoworld.com/article/3661308/intro-to-jhipster-a-full-stack-framework-for-java-and-javascript.html#tk.rss_all)
+- [12 free tools for API design, development, and testing](https://www.infoworld.com/article/3410586/12-free-tools-for-api-design-development-and-testing.html#tk.rss_all)
+- [Microsoft Azure eases Kubernetes development with a new Draft](https://www.infoworld.com/article/3662815/microsoft-azure-eases-kubernetes-development-with-a-new-draft.html#tk.rss_all)
 - [Review: Visual Studio Code shines for Java](https://www.infoworld.com/article/3662814/review-visual-studio-code-shines-for-java.html#tk.rss_all)
-- [MongoDB: From jokes to juggernaut](https://www.infoworld.com/article/3662759/mongodb-from-jokes-to-juggernaut.html#tk.rss_all)
+- [MongoDB grows up](https://www.infoworld.com/article/3662759/mongodb-grows-up.html#tk.rss_all)
 - [Career roadmap: Head of engineering](https://www.infoworld.com/article/3662108/career-roadmap-head-of-engineering.html#tk.rss_all)
 - [GitHub adds supply chain security tools for Rust language](https://www.infoworld.com/article/3662758/github-adds-supply-chain-security-tools-for-rust-language.html#tk.rss_all)
 - [It’s a serverless and containerized world](https://www.infoworld.com/article/3663130/its-a-serverless-and-containerized-world.html#tk.rss_all)
-- [Tired of searching Slack, GitHub, and Google Drive separately? Do it all at once in SQL](https://www.infoworld.com/article/3663031/tired-of-searching-slack-github-and-google-drive-separately-do-it-all-at-once-in-sql.html#tk.rss_all)
-- [How enterprises can overcome the growing cloud skills shortage](https://www.infoworld.com/article/3662770/how-enterprises-can-overcome-the-growing-cloud-skills-shortage.html#tk.rss_all)
-- [Angular 14 arrives with typed forms, standalone components](https://www.infoworld.com/article/3663151/angular-14-arrives-with-typed-forms-standalone-components.html#tk.rss_all)
-- [Maximize your cloud security with isolation zones](https://www.infoworld.com/article/3662777/maximize-your-cloud-security-with-isolation-zones.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

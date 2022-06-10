@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [UK government promises £1bn savings from latest digital strategy](https://www.computerweekly.com/news/252521307/UK-government-promises-1bn-savings-from-latest-digital-strategy)
+- [SolarWinds CEO offers to embed staffers at government cyber agencies](https://www.computerweekly.com/news/252521308/SolarWinds-CEO-offers-to-embed-staffers-at-government-cyber-agencies)
+- [Trade body calls for public-private sector collab on digital ID](https://www.computerweekly.com/news/252521297/Trade-body-calls-for-public-private-sector-collab-on-digital-ID)
+- [Cyber researchers step in to fill Patch Tuesday’s shoes](https://www.computerweekly.com/news/252521295/Cyber-researchers-step-in-to-fill-Patch-Tuesdays-shoes)
+- [Schneider Electric: IT industry must address &#39;sustainability action gap&#39; to fight global warming](https://www.computerweekly.com/news/252521291/Schneider-Electric-IT-industry-must-address-sustainability-action-gap-to-fight-global-warming)
+- [Move with the times – in defence of WhatsApp in government](https://www.computerweekly.com/opinion/Move-with-the-times-in-defence-of-WhatsApp-in-government)
+- [CW Europe: Russia escalates cyber war on Ukraine](https://www.computerweekly.com/ezine/CW-Europe/CW-Europe-Russia-escalates-cyber-war-on-Ukraine)
+- [STC meeting highlights the importance of role models in encouraging STEM diversity](https://www.computerweekly.com/news/252521290/STC-meeting-highlights-the-importance-of-role-models-in-encouraging-STEM-diversity)
+- [Cloud-to-cloud backup: When native cloud protection is not enough](https://www.computerweekly.com/feature/Cloud-to-cloud-backup-When-native-cloud-protection-is-not-enough)
 - [China using top consumer routers to hack Western comms networks](https://www.computerweekly.com/news/252521253/China-using-top-consumer-routers-to-hack-Western-comms-networks)
-- [Pure FlashBlade//S and Evergreen//Flex boost as-a-service push](https://www.computerweekly.com/news/252521119/Pure-FlashBlade-S-and-Evergreen-Flex-boost-as-a-service-push)
-- [Length, cost and severity of datacentre outages continue to rise, Uptime Institute research confirms](https://www.computerweekly.com/news/252521245/Length-cost-and-severity-of-datacentre-outages-continue-to-rise-Uptime-Institute-research-confirms)
-- [Executive interview: Clive Benford, Jaguar Land Rover](https://www.computerweekly.com/news/252520806/Executive-interview-Clive-Benford-Jaguar-Land-Rover)
-- [ProxyLogon, ProxyShell may have driven increase in dwell times](https://www.computerweekly.com/news/252521249/ProxyLogon-ProxyShell-may-have-driven-increase-in-dwell-times)
-- [IT Sustainability Think Tank: Understanding the circular economy](https://www.computerweekly.com/opinion/IT-Sustainability-Think-Tank-Understanding-the-circular-economy)
-- [Kubernetes backup products and 10 key players](https://www.computerweekly.com/feature/Kubernetes-backup-products-and-10-key-players)
-- [CDO interview: Matthew Lawson, chief digital officer, Ribble Cycles](https://www.computerweekly.com/news/252520801/CDO-interview-Matthew-Lawson-chief-digital-officer-Ribble-Cycles)
-- [A Computer Weekly buyer’s guide to communications as a service](https://www.computerweekly.com/ehandbook/A-Computer-Weekly-buyers-guide-to-communications-as-a-service)
-- [CIO interview: Lee Cowie, chief technology officer, Merlin Entertainments](https://www.computerweekly.com/news/252520804/CIO-interview-Lee-Cowie-chief-technology-officer-Merlin-Entertainments)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

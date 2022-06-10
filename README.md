@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Reading OpenBSD source code daily &lpar;2017&rpar;](http://blog.tintagel.pl/2017/06/09/openbsd-daily.html)
-- [As the Great Salt Lake Dries Up, Utah Faces an ‘Environmental Nuclear Bomb’](https://www.nytimes.com/2022/06/07/climate/salt-lake-city-climate-disaster.html)
-- [The International Bathymetric Chart of the Southern Ocean Version 2](https://www.nature.com/articles/s41597-022-01366-7)
-- [Links and tweets, 2022-06-08](https://rootsofprogress.org/links-and-tweets-2022-06-08)
-- [Ask HN: What do you wish you knew about your spouse before getting married?](https://news.ycombinator.com/item?id=31677161)
-- [Edwin Kaal – The Structured Atom Model and Transmutations &lpar;2019&rpar;](https://www.youtube.com/watch?v=8_CCDD9eHRc)
-- [Twitter plans to provide Elon Musk with access to the “firehose”](https://www.washingtonpost.com/technology/2022/06/08/elon-musk-twitter-bot-data/)
-- [Yet More New HTTP Specs – Mark Nottingham](https://www.mnot.net/blog/2022/06/08/http-extensions)
-- [BlackRock&#39;s Alladin](https://www.youtube.com/watch?v=DDp949PTYSk)
-- [Pancreatic cancer vaccine: What to know about early promising results](https://www.newscientist.com/article/2323437-pancreatic-cancer-vaccine-what-to-know-about-early-promising-results/)
+- [Cramer: Tech CEOs tell me they’re sick of spoiled Silicon Valley employees](https://www.cnbc.com/2022/06/09/cramer-tech-ceos-tell-me-theyre-sick-of-spoiled-silicon-valley-employees.html)
+- [Mediapipe – FOSS customizable ML solutions for live and streaming media](https://mediapipe.dev/)
+- [This is a valid domain name &lpar;remove www&rpar;](http://www.ai)
+- [I Don&#39;t Like Medium](https://www.sdgluck.com/i-dont-like-medium/)
+- [Re: Error in Localtime&lpar;time&rpar; Function](https://www.nntp.perl.org/group/perl.perl5.porters/2000/01/msg5283.html)
+- [Stop When It&#39;s Good](https://joaquininfante-eng.bearblog.dev/swg/)
+- [The Economics of Motorcycle Safety](https://herman.bearblog.dev/motorcycles-arent-dangerous/)
+- [Join the Private beta: Remote people ops, global payroll &amp; payments](https://news.ycombinator.com/item?id=31689455)
+- [Sriracha lovers burned as maker halts production due to pepper shortage](https://www.theguardian.com/us-news/2022/jun/09/sriracha-chili-pepper-shortage)
+- [The Begging Song of Grand Mamou](https://oxfordamerican.org/magazine/issue-117-summer-2022/the-begging-song-of-grand-mamou?token=e3199b86b5738359d333d05fe4ead3b50383c3e7)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

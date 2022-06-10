@@ -414,6 +414,9 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Do Dual Conversion UPS&#39; correct frequency?](https://www.reddit.com/r/InformationTechnology/comments/v8v8i7/do_dual_conversion_ups_correct_frequency/)
+- [Transfer speeds, flash drive or blue ray](https://www.reddit.com/r/InformationTechnology/comments/v8ilbx/transfer_speeds_flash_drive_or_blue_ray/)
+- [IBM AS400 certification?](https://www.reddit.com/r/InformationTechnology/comments/v8ccam/ibm_as400_certification/)
 - [Is a MS in Information Systems worth it, if you already have an MBA?](https://www.reddit.com/r/InformationTechnology/comments/v7zno9/is_a_ms_in_information_systems_worth_it_if_you/)
 - [IT Monitor Display](https://www.reddit.com/r/InformationTechnology/comments/v7ysl1/it_monitor_display/)
 - [NEW CAREER PATH](https://www.reddit.com/r/InformationTechnology/comments/v7xata/new_career_path/)
@@ -421,9 +424,6 @@
 - [What should my learning pathway be for a career in cybersecurity?](https://www.reddit.com/r/InformationTechnology/comments/v7m4ls/what_should_my_learning_pathway_be_for_a_career/)
 - [Ballpark/estimate for general IT job](https://www.reddit.com/r/InformationTechnology/comments/v7axlc/ballparkestimate_for_general_it_job/)
 - [I&#39;m just getting started in IT and I got 2 questions.](https://www.reddit.com/r/InformationTechnology/comments/v6rsvz/im_just_getting_started_in_it_and_i_got_2/)
-- [Advice for IT service](https://www.reddit.com/r/InformationTechnology/comments/v6l90c/advice_for_it_service/)
-- [Thrilific 720](https://www.reddit.com/r/InformationTechnology/comments/v69rsd/thrilific_720/)
-- [Hello people! This is my ram,i have a laptop. What should i ask for when going to the shop?](https://www.reddit.com/r/InformationTechnology/comments/v5myo4/hello_people_this_is_my_rami_have_a_laptop_what/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

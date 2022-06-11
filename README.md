@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Cramer: Tech CEOs tell me they’re sick of spoiled Silicon Valley employees](https://www.cnbc.com/2022/06/09/cramer-tech-ceos-tell-me-theyre-sick-of-spoiled-silicon-valley-employees.html)
-- [Mediapipe – FOSS customizable ML solutions for live and streaming media](https://mediapipe.dev/)
-- [This is a valid domain name &lpar;remove www&rpar;](http://www.ai)
-- [I Don&#39;t Like Medium](https://www.sdgluck.com/i-dont-like-medium/)
-- [Re: Error in Localtime&lpar;time&rpar; Function](https://www.nntp.perl.org/group/perl.perl5.porters/2000/01/msg5283.html)
-- [Stop When It&#39;s Good](https://joaquininfante-eng.bearblog.dev/swg/)
-- [The Economics of Motorcycle Safety](https://herman.bearblog.dev/motorcycles-arent-dangerous/)
-- [Join the Private beta: Remote people ops, global payroll &amp; payments](https://news.ycombinator.com/item?id=31689455)
-- [Sriracha lovers burned as maker halts production due to pepper shortage](https://www.theguardian.com/us-news/2022/jun/09/sriracha-chili-pepper-shortage)
-- [The Begging Song of Grand Mamou](https://oxfordamerican.org/magazine/issue-117-summer-2022/the-begging-song-of-grand-mamou?token=e3199b86b5738359d333d05fe4ead3b50383c3e7)
+- [Is “acceptably non-dystopian” self-sovereign identity even possible?](https://blog.mollywhite.net/is-acceptably-non-dystopian-self-sovereign-identity-even-possible/)
+- [Apple&#39;s credibility waning: federal judge criticizes Apple for 5G SEP hypocrisy](http://www.fosspatents.com/2022/06/apples-credibility-waning-federal-judge.html)
+- [Boot Camp: A Business Saga](https://betonit.substack.com/p/boot-camp-a-business-saga)
+- [Service-Aligned Data Platform Architecture](https://canvatechblog.com/service-aligned-data-platform-architecture-6b5a6fc366c4)
+- [First U.S. woman to walk in space dives to deepest point in the ocean &lpar;2020&rpar;](https://www.npr.org/2020/06/09/873194201/first-u-s-woman-to-walk-in-space-dives-to-deepest-point-in-the-ocean)
+- [How a Saxophonist Tricked the KGB by Encrypting Secrets in Music](https://www.wired.com/story/merryl-goldberg-music-encryption-ussr-phantom-orchestra/)
+- [Apple M2 Chipset – Deeply Explained](https://www.youtube.com/watch?v=w5uqDVsqibU)
+- [Games and Puzzles as Multicomputational Systems](https://writings.stephenwolfram.com/2022/06/games-and-puzzles-as-multicomputational-systems/)
+- [US Lifts Covid-19 Test Requirement for International Travel](https://www.bloomberg.com/news/articles/2022-06-10/cdc-to-lift-covid-test-mandate-for-flyers-to-us-starting-june-12)
+- [Scientists discovered a new molecule that kills even the deadliest cancer](https://interestingengineering.com/new-molecule-kills-deadliest-cancer)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

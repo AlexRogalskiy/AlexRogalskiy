@@ -369,6 +369,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [SAP’s CTO Juergen Mueller Talks Transformation and Evolution](https://www.informationweek.com/cloud/sap-s-cto-juergen-mueller-talks-transformation-and-evolution)
+- [What IT Leaders Should Do Now to Prepare for ESG Standards](https://www.informationweek.com/strategic-cio/what-it-leaders-should-do-now-to-prepare-for-esg-standards)
+- [How to Elevate Your Organization’s Use of Data Analytics](https://www.informationweek.com/big-data/how-to-elevate-your-organization-s-use-of-data-analytics)
 - [In Search of Coding Quality](https://www.informationweek.com/software/in-search-of-coding-quality)
 - [Protecting From the Threat Within: How To Manage Insider Risk](https://www.informationweek.com/strategic-cio/protecting-from-the-threat-within-how-to-manage-insider-risk)
 - [Going Green with Regulatory Tech for Financial Institutions](https://www.informationweek.com/fintech/going-green-with-regulatory-tech-for-financial-institutions)
@@ -376,9 +379,6 @@
 - [How to Retain Talent in Uncertain Circumstances](https://www.informationweek.com/strategic-cio/how-to-retain-talent-in-uncertain-circumstances)
 - [The Importance of Curiosity as an IT Skill](https://www.informationweek.com/strategic-cio/the-importance-of-curiosity-as-an-it-skill)
 - [From Reactive to Proactive: How CIOs can Drive Enterprise Redesign](https://www.informationweek.com/big-data/from-reactive-to-proactive-how-cios-can-drive-enterprise-redesign)
-- [Using Behavioral Analytics to Bolster Security](https://www.informationweek.com/big-data/using-behavioral-analytics-to-bolster-security)
-- [The Chief Data Officer&#39;s Key Role in Fighting Ransomware](https://www.informationweek.com/big-data/the-chief-data-officer-s-key-role-in-fighting-ransomware)
-- [Cloud Spending: How to Get a Grip on Cost Overruns](https://www.informationweek.com/cloud/cloud-spending-how-to-get-a-grip-on-cost-overruns)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

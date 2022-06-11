@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [January 6 hearing: hard-hitting evidence puts Trump at heart of assault on democracy – live](https://www.theguardian.com/us-news/live/2022/jun/09/jan-6-hearings-capitol-attack-trump-biden-us-politics-latest-updates)
-- [Sudden infant death syndrome: will parents finally get answers? – podcast](https://www.theguardian.com/news/audio/2022/jun/10/sudden-infant-death-syndrome-will-parents-finally-get-answers-podcast)
-- [Britney Spears’s ex-husband crashes her wedding with Sam Asghari](https://www.theguardian.com/music/2022/jun/09/britney-spears-ex-husband-wedding-crash-jason-alexander)
-- [Russia-Ukraine war: what we know on day 107 of the invasion](https://www.theguardian.com/world/2022/jun/10/russia-ukraine-war-what-we-know-on-day-107-of-the-invasion)
-- [‘Ironclad brothers’: what China wants from its role in Cambodia’s biggest naval base](https://www.theguardian.com/world/2022/jun/10/ironclad-brothers-what-china-wants-from-its-role-in-cambodias-biggest-naval-base)
-- [Nasa forms independent team to study unexplained UFO sightings](https://www.theguardian.com/science/2022/jun/09/nasa-study-ufo-sightings)
-- [I’m wondering if my mother has dyslexia. Should I tell her or let things be? | Leading questions](https://www.theguardian.com/lifeandstyle/2022/jun/10/im-wondering-if-my-mother-has-dyslexia-should-i-tell-her-or-let-things-be)
-- [Putin compares himself to Peter the Great in quest to take back Russian lands](https://www.theguardian.com/world/2022/jun/10/putin-compares-himself-to-peter-the-great-in-quest-to-take-back-russian-lands)
-- [Rebel Wilson reveals she is dating a woman in Instagram post tagged #loveislove](https://www.theguardian.com/film/2022/jun/10/rebel-wilson-reveals-she-is-dating-a-woman-in-instagram-post-tagged-loveislove)
-- [Rishi Sunak ‘wasted £11bn by paying too much interest’ on UK debt](https://www.theguardian.com/politics/2022/jun/10/rishi-sunak-wasted-11bn-by-paying-too-much-interest-on-uk-debt)
+- [NBA finals Game 4: Golden State Warriors v Boston Celtics – live!](https://www.theguardian.com/sport/live/2022/jun/10/nba-finals-game-4-golden-state-warriors-v-boston-celtics-live)
+- [Bolivian ex-president Jeanine Áñez jailed as leader of ‘coup’](https://www.theguardian.com/world/2022/jun/11/bolivian-ex-president-jeanine-anez-jailed-as-leader-of-coup)
+- [Aukus pact: Australia pays $830m penalty for ditching non-nuclear French submarines](https://www.theguardian.com/world/2022/jun/11/aukus-pact-australia-pays-830m-penalty-for-ditching-non-nuclear-french-submarines)
+- [Written warning on every cigarette in Canadian world-first](https://www.theguardian.com/society/2022/jun/11/written-warning-on-every-cigarette-in-canadian-world-first)
+- [Rudy Giuliani charged with ethical misconduct over Trump’s big lie](https://www.theguardian.com/us-news/2022/jun/10/trump-rudy-giuliani-ethical-misconduct-lawsuit)
+- [China will ‘start a war’ if Taiwan declares independence, says defence minister](https://www.theguardian.com/world/2022/jun/11/china-will-start-a-war-if-taiwan-declares-independence-says-defence-minister)
+- [Russia-Ukraine war: what we know on day 108 of the invasion](https://www.theguardian.com/world/2022/jun/11/russia-ukraine-war-what-we-know-on-day-108-of-the-invasion)
+- [Hopes fade of finding missing men as Brazilian police report finding ‘apparently human’ material](https://www.theguardian.com/world/2022/jun/10/dom-phillips-bruno-pereira-brazil-police-missing)
+- [Man, 44, arrested after 15-year-old boy stabbed to death in Manchester](https://www.theguardian.com/uk-news/2022/jun/10/man-arrested-after-boy-15-stabbed-to-death-in-manchester)
+- [Justin Bieber cancels shows after half of face left paralysed by virus](https://www.theguardian.com/music/2022/jun/10/justin-bieber-cancels-shows-after-half-of-face-left-paralysed-by-virus)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

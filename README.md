@@ -414,6 +414,9 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Do help desk jobs usually have lunch break or other breaks?](https://www.reddit.com/r/InformationTechnology/comments/v9jux5/do_help_desk_jobs_usually_have_lunch_break_or/)
+- [Looking for guidance on path - IT Applications Team Analyst](https://www.reddit.com/r/InformationTechnology/comments/v9a5de/looking_for_guidance_on_path_it_applications_team/)
+- [Starting college ..](https://www.reddit.com/r/InformationTechnology/comments/v92bbq/starting_college/)
 - [Do Dual Conversion UPS&#39; correct frequency?](https://www.reddit.com/r/InformationTechnology/comments/v8v8i7/do_dual_conversion_ups_correct_frequency/)
 - [Transfer speeds, flash drive or blue ray](https://www.reddit.com/r/InformationTechnology/comments/v8ilbx/transfer_speeds_flash_drive_or_blue_ray/)
 - [IBM AS400 certification?](https://www.reddit.com/r/InformationTechnology/comments/v8ccam/ibm_as400_certification/)
@@ -421,9 +424,6 @@
 - [IT Monitor Display](https://www.reddit.com/r/InformationTechnology/comments/v7ysl1/it_monitor_display/)
 - [NEW CAREER PATH](https://www.reddit.com/r/InformationTechnology/comments/v7xata/new_career_path/)
 - [What is the Average speed of a router???](https://www.reddit.com/r/InformationTechnology/comments/v7w7rc/what_is_the_average_speed_of_a_router/)
-- [What should my learning pathway be for a career in cybersecurity?](https://www.reddit.com/r/InformationTechnology/comments/v7m4ls/what_should_my_learning_pathway_be_for_a_career/)
-- [Ballpark/estimate for general IT job](https://www.reddit.com/r/InformationTechnology/comments/v7axlc/ballparkestimate_for_general_it_job/)
-- [I&#39;m just getting started in IT and I got 2 questions.](https://www.reddit.com/r/InformationTechnology/comments/v6rsvz/im_just_getting_started_in_it_and_i_got_2/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

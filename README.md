@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [This is a valid domain name &lpar;remove www&rpar;](http://www.ai)
-- [FCC Proposes Record $34,000 Fine for Unauthorized Transmissions During Wildfire](https://www.arrl.org/news/fcc-proposes-record-34-000-fine-for-alleged-interference-and-unauthorized-transmissions-during-idaho)
-- [Ways that animals perceive the world](https://www.newyorker.com/magazine/2022/06/13/the-strange-and-secret-ways-that-animals-perceive-the-world-ed-yong-immense-world-tom-mustill-how-to-speak-whale)
-- [From Python to NumPy &lpar;2017&rpar;](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)
-- [Reduced air pollution leads to higher crop yields](https://www.technologynetworks.com/applied-sciences/news/reduced-air-pollution-leads-to-higher-crop-yields-362214)
-- [Quantum chip takes microseconds to do task that takes a supercomputer 9k years](https://singularityhub.com/2022/06/07/a-photonic-quantum-device-took-microseconds-to-do-a-task-a-conventional-computer-would-spend-9000-years-on/)
-- [Important PostgreSQL 14 update to avoid silent corruption of indexes](https://www.migops.com/blog/2022/06/09/important-postgresql-14-update-to-avoid-silent-corruption-of-indexes/)
-- [Why software engineers like woodworking](https://www.zainrizvi.io/blog/why-software-engineers-like-woodworking/)
-- [I Resurrected My Dutch Movie Review Site from 2003](https://louwrentius.com/i-resurrected-my-dutch-movie-review-site-from-2003.html)
-- [Cranelift, Part 4: A New Register Allocator](https://cfallin.org/blog/2022/06/09/cranelift-regalloc2/)
+- [Bizarre Drone Swarms That Harassed Navy Ships Demystified in New Docs](https://www.thedrive.com/the-war-zone/drone-swarms-that-harassed-navy-ships-demystified-in-new-documents)
+- [Making $10k a Year on Substack](https://caseybotticello.com/substack-income-report-march-2022/)
+- [The DJB Legacy &lpar;2011&rpar;](https://skarnet.org/software/skalibs/djblegacy.html)
+- [L.A.&#39;s coast was once a DDT dumping ground &lpar;2020&rpar;](https://www.latimes.com/projects/la-coast-ddt-dumping-ground/)
+- [Inflation, part 1: On shelter futures](https://jbconsulting.substack.com/p/on-shelter-futures-part-1)
+- [Cooperation protected Bitcoin during failures of decentralization](https://arxiv.org/abs/2206.02871)
+- [Data Race Patterns in Go](https://eng.uber.com/data-race-patterns-in-go/)
+- [Tell HN: Google does not list application permissions in the Play Store any more](https://news.ycombinator.com/item?id=31698148)
+- [The Work, the Tech, and the Crime](https://writing.kemitchell.com/2022/06/10/Work-Tech-Crime)
+- [Show HN: My small program from 2007 that gave Internet Explorer tabs](http://tabbed.org/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

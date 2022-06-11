@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Apple’s Freeform adds another digital whiteboard option for remote work](https://www.computerworld.com/article/3663676/apples-freeform-adds-another-digital-whiteboard-option-for-remote-work.html#tk.rss_all)
+- [Amazon to pass Walmart as No. 1 retailer by &#39;24; the latter&#39;s store-based tack is to blame](https://www.computerworld.com/article/3663471/amazon-to-pass-walmart-as-no-1-retailer-by-24-the-latters-store-based-tack-is-to-blame.html#tk.rss_all)
+- [WWDC: Apple, Cloudflare, Fastly plot the end of CAPTCHA](https://www.computerworld.com/article/3663430/wwdc-apple-cloudflare-fastly-plot-the-end-of-captcha.html#tk.rss_all)
+- [The rise of text and phone scams and why you should worry](https://www.computerworld.com/article/3663369/the-rise-of-text-and-phone-scams-and-why-you-should-worry.html#tk.rss_all)
+- [Note to IT: Apple&#39;s upcoming public betas can be your friend](https://www.computerworld.com/article/3663469/note-to-it-apples-upcoming-public-betas-can-be-your-friend.html#tk.rss_all)
 - [Could the EU’s USB-C edict push Apple to cut the cord altogether?](https://www.computerworld.com/article/3663731/could-the-eus-usb-c-edict-push-apple-to-cut-the-cord-altogether.html#tk.rss_all)
 - [WWDC 2022 wrap-up](https://www.computerworld.com/article/3663470/wwdc-2022-wrap-up.html#tk.rss_all)
 - [Salesforce announces NFT Cloud platform amid crypto concerns](https://www.computerworld.com/article/3663730/salesforce-announces-nft-cloud-platform-amid-crypto-concerns.html#tk.rss_all)
 - [Bitrise announces virtualized Apple Silicon M1 CI/CD dev environment](https://www.computerworld.com/article/3663668/bitrise-announces-virtualized-apple-silicon-m1-cicd-dev-environment.html#tk.rss_all)
 - [The productivity advantages of Microsoft Azure: vertical focus](https://www.computerworld.com/article/3663669/the-productivity-advantages-of-microsoft-azure-vertical-focus.html#tk.rss_all)
-- [Why Elon Musk&#39;s back-to-office mandate will backfire](https://www.computerworld.com/article/3662816/why-elon-musks-back-to-office-mandate-will-backfire.html#tk.rss_all)
-- [Microsoft commits to ban non-competes and increase pay transparency in the US](https://www.computerworld.com/article/3663491/microsoft-to-ban-non-competes-and-increase-pay-transparency-in-the-us.html#tk.rss_all)
-- [Europe gives Apple a smack in the chops on USB-C power standardization](https://www.computerworld.com/article/3663448/europe-gives-apple-a-smack-in-the-chops-on-usb-c-power-standardization.html#tk.rss_all)
-- [How AI can give companies a DEI boost](https://www.computerworld.com/article/3663053/how-ai-can-improve-diversity-equity-inclusion.html#tk.rss_all)
-- [What the EU’s USB-C mandate means for Apple — and for users](https://www.computerworld.com/article/3663388/what-the-eus-usb-c-mandate-means-for-apple-and-for-users.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [This week in ransomware – Friday, June 10, 2022](https://www.itworldcanada.com/article/this-week-in-ransomware-friday-june-10-2022/487892)
+- [Cyber Security Today, Week in Review for Friday, June 10. 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-june-10-2022/487740)
+- [Consultation begins for mmWave to be used for 5G](https://www.itworldcanada.com/article/consultation-begins-for-mmwave-to-be-used-for-5g/487720)
+- [Cyber Security Today, June 10, 2022 – The Emotet botnet is spreading](https://www.itworldcanada.com/article/cyber-security-today-june-10-2022-the-emotet-botnet-is-spreading/487709)
+- [Hashtag Trending June 10 – Diablo Immortal not launching in Belgium or the Netherlands; Axon halts Taser drone project; Microsoft drops NCCs](https://www.itworldcanada.com/article/hashtag-trending-june-10-diablo-immortal-not-launching-in-belgium-or-the-netherlands-axon-halts-taser-drone-project-microsoft-drops-nccs/487798)
 - [Non-profit tech supplier transforms model to better serve NGOs](https://www.itworldcanada.com/article/non-profit-tech-supplier-transforms-model-to-better-serve-ngos/487470)
 - [Canadian military provider suffered ransom attack, says news report](https://www.itworldcanada.com/article/canadian-military-provider-suffered-ransom-attack-says-news-report/487654)
 - [Phillippe Dufresne nominated to be next Canadian privacy commissioner](https://www.itworldcanada.com/article/phillippe-dufresne-nominated-to-be-next-canadian-privacy-commissioner/487628)
 - [Hashtag Trending June 9 – IBM layoff in Russia; FBI shuts down SSN marketplace; Elon Musk threatens to ditch Twitter deal](https://www.itworldcanada.com/article/hashtag-trending-june-9-ibm-layoff-in-russia-fbi-shuts-down-ssn-marketplace-elon-musk-threatens-to-ditch-twitter-deal/487515)
 - [TekSavvy Unified Communications service now available nationally](https://www.itworldcanada.com/article/teksavvy-unified-communications-service-now-available-nationally/487541)
-- [BlackBerry launches zero trust network access solution](https://www.itworldcanada.com/article/blackberry-launches-zero-trust-network-access-solution/487524)
-- [Bad news for Apple: EU announces deal on common charging port](https://www.itworldcanada.com/article/bad-news-for-apple-eu-announces-deal-on-common-charging-port/487469)
-- [RSA Conference 2022 – Advice to a new CISO:  Shut up and listen](https://www.itworldcanada.com/article/rsa-conference-2022-advice-to-a-new-ciso-shut-up-and-listen/487382)
-- [Cyber Security Today, June 8, 2022 – A huge US healthcare provider data breach, a warning about a Windows flaw and more](https://www.itworldcanada.com/article/cyber-security-today-june-8-2022-a-huge-us-healthcare-provider-data-breach-a-warning-about-a-windows-flaw-and-more/487325)
-- [Hashtag Trending June 8 – Apple will change connectors on iPhones in Europe by 2024; Mercedes-Benz vehicle recalls; edit and unsend texts on iMessage](https://www.itworldcanada.com/article/hashtag-trending-june-8-apple-will-change-connectors-on-iphones-in-europe-by-2024-mercedes-benz-vehicle-recalls-edit-and-unsend-texts-on-imessage/487392)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

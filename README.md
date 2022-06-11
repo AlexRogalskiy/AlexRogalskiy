@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [UK government promises £1bn savings from latest digital strategy](https://www.computerweekly.com/news/252521307/UK-government-promises-1bn-savings-from-latest-digital-strategy)
-- [SolarWinds CEO offers to embed staffers at government cyber agencies](https://www.computerweekly.com/news/252521308/SolarWinds-CEO-offers-to-embed-staffers-at-government-cyber-agencies)
-- [Trade body calls for public-private sector collab on digital ID](https://www.computerweekly.com/news/252521297/Trade-body-calls-for-public-private-sector-collab-on-digital-ID)
-- [Cyber researchers step in to fill Patch Tuesday’s shoes](https://www.computerweekly.com/news/252521295/Cyber-researchers-step-in-to-fill-Patch-Tuesdays-shoes)
-- [Schneider Electric: IT industry must address &#39;sustainability action gap&#39; to fight global warming](https://www.computerweekly.com/news/252521291/Schneider-Electric-IT-industry-must-address-sustainability-action-gap-to-fight-global-warming)
-- [Move with the times – in defence of WhatsApp in government](https://www.computerweekly.com/opinion/Move-with-the-times-in-defence-of-WhatsApp-in-government)
-- [CW Europe: Russia escalates cyber war on Ukraine](https://www.computerweekly.com/ezine/CW-Europe/CW-Europe-Russia-escalates-cyber-war-on-Ukraine)
-- [STC meeting highlights the importance of role models in encouraging STEM diversity](https://www.computerweekly.com/news/252521290/STC-meeting-highlights-the-importance-of-role-models-in-encouraging-STEM-diversity)
-- [Cloud-to-cloud backup: When native cloud protection is not enough](https://www.computerweekly.com/feature/Cloud-to-cloud-backup-When-native-cloud-protection-is-not-enough)
-- [China using top consumer routers to hack Western comms networks](https://www.computerweekly.com/news/252521253/China-using-top-consumer-routers-to-hack-Western-comms-networks)
+- [ICO fails to disclose majority of reprimands issued under GDPR](https://www.computerweekly.com/news/252521377/ICO-fails-to-disclose-majority-of-reprimands-issued-under-GDPR)
+- [Former CEO explains how Dreams went from nightmare to fantasy](https://www.computerweekly.com/news/252521362/Former-CEO-explains-how-Dreams-went-from-nightmare-to-fantasy)
+- [Investment firm takes Salesforce to task for lack of racial diversity](https://www.computerweekly.com/news/252521369/Investment-firm-takes-Salesforce-to-task-for-lack-of-racial-diversity)
+- [Tech’s ongoing mental health crisis](https://www.computerweekly.com/feature/Techs-ongoing-mental-health-crisis)
+- [Security Think Tank: Don’t trust the weakest link? Don’t trust any link](https://www.computerweekly.com/opinion/Security-Think-Tank-Dont-trust-the-weakest-link-Dont-trust-any-link)
+- [Snake Keylogger climbing malware charts, says Check Point](https://www.computerweekly.com/news/252521353/Snake-Keylogger-climbing-malware-charts-says-Check-Point)
+- [Researchers find eight CVEs in single building access system](https://www.computerweekly.com/news/252521351/Researchers-find-eight-CVEs-in-single-building-access-system)
+- [AWS and startups: Using accelerator programmes to help enterprises address their pain points](https://www.computerweekly.com/feature/AWS-and-startups-Using-accelerator-programmes-to-help-enterprises-address-their-pain-points)
+- [Commercialising open source](https://www.computerweekly.com/news/252521310/Commercialising-open-source)
+- [Datavita to open Scotland’s first metro datacentre in Glasgow during Q3 2022](https://www.computerweekly.com/news/252521320/Datavita-to-open-Scotlands-first-metro-datacentre-in-Glasgow-during-Q3-2022)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

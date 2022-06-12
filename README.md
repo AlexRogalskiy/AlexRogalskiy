@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [NBA finals Game 4: Golden State Warriors v Boston Celtics – live!](https://www.theguardian.com/sport/live/2022/jun/10/nba-finals-game-4-golden-state-warriors-v-boston-celtics-live)
-- [Bolivian ex-president Jeanine Áñez jailed as leader of ‘coup’](https://www.theguardian.com/world/2022/jun/11/bolivian-ex-president-jeanine-anez-jailed-as-leader-of-coup)
-- [Aukus pact: Australia pays $830m penalty for ditching non-nuclear French submarines](https://www.theguardian.com/world/2022/jun/11/aukus-pact-australia-pays-830m-penalty-for-ditching-non-nuclear-french-submarines)
-- [Written warning on every cigarette in Canadian world-first](https://www.theguardian.com/society/2022/jun/11/written-warning-on-every-cigarette-in-canadian-world-first)
-- [Rudy Giuliani charged with ethical misconduct over Trump’s big lie](https://www.theguardian.com/us-news/2022/jun/10/trump-rudy-giuliani-ethical-misconduct-lawsuit)
-- [China will ‘start a war’ if Taiwan declares independence, says defence minister](https://www.theguardian.com/world/2022/jun/11/china-will-start-a-war-if-taiwan-declares-independence-says-defence-minister)
-- [Russia-Ukraine war: what we know on day 108 of the invasion](https://www.theguardian.com/world/2022/jun/11/russia-ukraine-war-what-we-know-on-day-108-of-the-invasion)
-- [Hopes fade of finding missing men as Brazilian police report finding ‘apparently human’ material](https://www.theguardian.com/world/2022/jun/10/dom-phillips-bruno-pereira-brazil-police-missing)
-- [Man, 44, arrested after 15-year-old boy stabbed to death in Manchester](https://www.theguardian.com/uk-news/2022/jun/10/man-arrested-after-boy-15-stabbed-to-death-in-manchester)
-- [Justin Bieber cancels shows after half of face left paralysed by virus](https://www.theguardian.com/music/2022/jun/10/justin-bieber-cancels-shows-after-half-of-face-left-paralysed-by-virus)
+- [‘China’s Taiwan’: Beijing’s defence minister rails against ‘smearing and interfering’ US](https://www.theguardian.com/world/2022/jun/12/chinas-taiwan-beijings-defence-minister-rails-against-smearing-and-interfering-us)
+- [Hong Kong NETs – foreign teachers of English – forced to take allegiance oath](https://www.theguardian.com/world/2022/jun/12/hong-kong-nets-foreign-teachers-of-english-forced-to-take-allegiance-oath)
+- [Russia-Ukraine war: what we know on day 109 of the invasion](https://www.theguardian.com/world/2022/jun/12/russia-ukraine-war-what-we-know-on-day-109-of-the-invasion)
+- [Inflation and industrial unrest in UK threaten a timetable of trouble](https://www.theguardian.com/business/2022/jun/12/inflation-and-industrial-unrest-in-uk-threaten-a-timetable-of-trouble)
+- [Summer dreams: 25 of the best holiday dresses – in pictures](https://www.theguardian.com/fashion/gallery/2022/jun/11/summer-dreams-25-of-the-best-holiday-dresses-in-pictures)
+- [Family pays tribute to Ceredigion father who died saving children from rip tide](https://www.theguardian.com/uk-news/2022/jun/11/family-pays-tribute-to-ceredigion-father-who-died-saving-children-from-rip-tide)
+- [US gas prices rise to a record $5 a gallon but Biden hedges on Saudi Arabia visit](https://www.theguardian.com/us-news/2022/jun/11/us-gas-price-inflation)
+- [Brennan Johnson’s late goal denies Belgium and extends the Wales party](https://www.theguardian.com/football/2022/jun/11/wales-belgium-nations-league-match-report)
+- [England remain winless in Nations League after failing to break down Italy](https://www.theguardian.com/football/2022/jun/11/england-italy-nations-league-match-report)
+- [Biden faces anger over huge New Mexico wildfire sparked by federal burns](https://www.theguardian.com/us-news/2022/jun/11/biden-new-mexico-wildfire-federal-burns)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

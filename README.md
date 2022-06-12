@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Bizarre Drone Swarms That Harassed Navy Ships Demystified in New Docs](https://www.thedrive.com/the-war-zone/drone-swarms-that-harassed-navy-ships-demystified-in-new-documents)
-- [Making $10k a Year on Substack](https://caseybotticello.com/substack-income-report-march-2022/)
-- [The DJB Legacy &lpar;2011&rpar;](https://skarnet.org/software/skalibs/djblegacy.html)
-- [L.A.&#39;s coast was once a DDT dumping ground &lpar;2020&rpar;](https://www.latimes.com/projects/la-coast-ddt-dumping-ground/)
-- [Inflation, part 1: On shelter futures](https://jbconsulting.substack.com/p/on-shelter-futures-part-1)
-- [Cooperation protected Bitcoin during failures of decentralization](https://arxiv.org/abs/2206.02871)
-- [Data Race Patterns in Go](https://eng.uber.com/data-race-patterns-in-go/)
-- [Tell HN: Google does not list application permissions in the Play Store any more](https://news.ycombinator.com/item?id=31698148)
-- [The Work, the Tech, and the Crime](https://writing.kemitchell.com/2022/06/10/Work-Tech-Crime)
-- [Show HN: My small program from 2007 that gave Internet Explorer tabs](http://tabbed.org/)
+- [Ask HN: Is it the “worst” time to buy a house?](https://news.ycombinator.com/item?id=31710907)
+- [She tracked her boyfriend using an AirTag – then killed him](https://www.washingtonpost.com/nation/2022/06/11/apple-airtag-murder-boyfriend-indianapolis-morris/)
+- [Show HN: Browser extension that spoofs your location data to match your VPN](https://github.com/z0ccc/Vytal)
+- [A New Day for Insteon](https://www.insteon.com/blog/2022/6/9/fnustys354bfmcmchr36wgvrn5h41z)
+- [Best Practices for Inclusive CLIs](https://seirdy.one/posts/2022/06/10/cli-best-practices/)
+- [Charles Petzold: Adventures in Electronic Music: Beeps, Bloops and Klangs &lpar;2011&rpar;](https://www.charlespetzold.com/etc/AdventuresInElectronicMusic/)
+- [Low economic growth is a slow-burning crisis for Britain](https://www.economist.com/leaders/2022/06/09/low-economic-growth-is-a-slow-burning-crisis-for-britain)
+- [How to Do a Handstand](https://www.nerdfitness.com/blog/a-beginners-guide-to-handstands/)
+- [Show HN: The Amalgam Engine – Easily create isometric virtual worlds](https://github.com/Net5F/AmalgamEngine)
+- [Ask HN: Best beginner friendly linear algebra book?](https://news.ycombinator.com/item?id=31707163)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

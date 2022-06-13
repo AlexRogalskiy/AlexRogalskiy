@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Web PKI 2.0](https://www.cryptologie.net/article/561/the-web-pki-20/)
-- [Ask HN: Is it the “worst” time to buy a house?](https://news.ycombinator.com/item?id=31710907)
-- [Shapash – Python library to make machine learning interpretable](https://maif.github.io/shapash/)
-- [Do Kwon says claims he cashed out $2.7B are categorically false](https://twitter.com/stablekwon/status/1535811515978108928)
-- [Tell HN: Don&#39;t bring your loud mechanical keyboard to the office](https://news.ycombinator.com/item?id=31710870)
-- [Ex-Bolt engineer borrowed $100K to exercise options and now is laid off](https://www.businessinsider.com/bolt-stock-options-equity-layoffs-loan-ipo-fintech-2022-6)
-- [Remote compaction and LSM on tiered and cloud storage](https://www.youtube.com/watch?v=39stngwKEws)
-- [Signs that you&#39;re a good programmer](http://www.yacoset.com/Home/signs-that-you-re-a-good-programmer)
-- [Signs that you&#39;re a bad programmer](http://www.yacoset.com/Home/signs-that-you-re-a-bad-programmer)
-- [New LG DualUp display is like nothing you&#39;ve seen before](https://www.cultofmac.com/780052/new-lg-dualup-display-is-like-nothing-youve-seen-before/)
+- [$500M liquidated from the crypto market in the past 24 hours](https://twitter.com/watcherguru/status/1536172065732104195)
+- [How to calculate crypto potential based on past performance](https://cryptofireside.com/what-could-happen-if-you-invested-500-into-these-10-cryptocurrencies-2355e35d13a8?gi=5110e1789c07)
+- [Lisp Is Too Powerful](https://wiki.c2.com/?LispIsTooPowerful)
+- [Writing Cover Letters Sucks So We Automated It](https://www.coverquick.co/)
+- [Building in Public and Power of Twitter Ft. KP](https://anchor.fm/roohi-kazi/episodes/Building-in-Public-and-Power-of-Twitter-Ft--KP-e1j35qh)
+- [A Tutorial Introduction to Nix](https://rgoswami.me/posts/ccon-tut-nix/)
+- [Foster care is evolving by relying on children’s kin](https://www.newsnationnow.com/us-news/foster-care-evolving-through-kinship/)
+- [Aleph.js – Fullstack Framework in Deno](https://github.com/alephjs/aleph.js)
+- [Startup idea? Let the readers resell their ebooks](https://blog.idearamen.com/startup-ideas-let-readers-resell-their-ebooks/)
+- [Some Ads Play on Streaming Services Even When the TV Is Off](https://www.wsj.com/articles/some-ads-play-on-streaming-services-even-when-the-tv-is-off-study-finds-11655042401)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

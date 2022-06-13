@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [is their powerful networking tools with powershell?](https://www.reddit.com/r/InformationTechnology/comments/vb19e1/is_their_powerful_networking_tools_with_powershell/)
+- [To resolve a lawsuit, Google pays $118 million to female employees who earn less than their male colleagues.](https://www.reddit.com/r/InformationTechnology/comments/vaxu5m/to_resolve_a_lawsuit_google_pays_118_million_to/)
+- [[Academic] Survey on risk assessment](https://www.reddit.com/r/InformationTechnology/comments/vav9j6/academic_survey_on_risk_assessment/)
+- [Anyone know a good video course on beginner web app troubleshooting using developer tools from an IT angle vs dev position?](https://www.reddit.com/r/InformationTechnology/comments/var95p/anyone_know_a_good_video_course_on_beginner_web/)
+- [Good laptop for a new student?](https://www.reddit.com/r/InformationTechnology/comments/vaqouh/good_laptop_for_a_new_student/)
+- [What is the process for copyrighting code?](https://www.reddit.com/r/InformationTechnology/comments/vapt25/what_is_the_process_for_copyrighting_code/)
+- [Started learning networking and all these acronyms are scaring me.](https://www.reddit.com/r/InformationTechnology/comments/vak8tp/started_learning_networking_and_all_these/)
 - [going back to college for an IT career. please help!](https://www.reddit.com/r/InformationTechnology/comments/va5fjy/going_back_to_college_for_an_it_career_please_help/)
 - [I am starting my first two classes towards getting my bachelor&#39;s in Information Technology this week. I&#39;m kind of terrified and could use some help.](https://www.reddit.com/r/InformationTechnology/comments/va0kd0/i_am_starting_my_first_two_classes_towards/)
 - [Where to go with a CompTIA Security+ certificate?](https://www.reddit.com/r/InformationTechnology/comments/v9xwo6/where_to_go_with_a_comptia_security_certificate/)
-- [I want to become an IT Support specialist, where do I start?](https://www.reddit.com/r/InformationTechnology/comments/v9vb42/i_want_to_become_an_it_support_specialist_where/)
-- [ELI5: What are the hardware differences between file, application, etc. servers?](https://www.reddit.com/r/InformationTechnology/comments/v9ujd5/eli5_what_are_the_hardware_differences_between/)
-- [Do help desk jobs usually have lunch break or other breaks?](https://www.reddit.com/r/InformationTechnology/comments/v9jux5/do_help_desk_jobs_usually_have_lunch_break_or/)
-- [Looking for guidance on path - IT Applications Team Analyst](https://www.reddit.com/r/InformationTechnology/comments/v9a5de/looking_for_guidance_on_path_it_applications_team/)
-- [Starting college ..](https://www.reddit.com/r/InformationTechnology/comments/v92bbq/starting_college/)
-- [Do Dual Conversion UPS&#39; correct frequency?](https://www.reddit.com/r/InformationTechnology/comments/v8v8i7/do_dual_conversion_ups_correct_frequency/)
-- [Transfer speeds, flash drive or blue ray](https://www.reddit.com/r/InformationTechnology/comments/v8ilbx/transfer_speeds_flash_drive_or_blue_ray/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

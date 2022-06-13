@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Ask HN: Is it the “worst” time to buy a house?](https://news.ycombinator.com/item?id=31710907)
-- [She tracked her boyfriend using an AirTag – then killed him](https://www.washingtonpost.com/nation/2022/06/11/apple-airtag-murder-boyfriend-indianapolis-morris/)
-- [Show HN: Browser extension that spoofs your location data to match your VPN](https://github.com/z0ccc/Vytal)
-- [A New Day for Insteon](https://www.insteon.com/blog/2022/6/9/fnustys354bfmcmchr36wgvrn5h41z)
-- [Best Practices for Inclusive CLIs](https://seirdy.one/posts/2022/06/10/cli-best-practices/)
-- [Charles Petzold: Adventures in Electronic Music: Beeps, Bloops and Klangs &lpar;2011&rpar;](https://www.charlespetzold.com/etc/AdventuresInElectronicMusic/)
-- [Low economic growth is a slow-burning crisis for Britain](https://www.economist.com/leaders/2022/06/09/low-economic-growth-is-a-slow-burning-crisis-for-britain)
-- [How to Do a Handstand](https://www.nerdfitness.com/blog/a-beginners-guide-to-handstands/)
-- [Show HN: The Amalgam Engine – Easily create isometric virtual worlds](https://github.com/Net5F/AmalgamEngine)
-- [Ask HN: Best beginner friendly linear algebra book?](https://news.ycombinator.com/item?id=31707163)
+- [Toyota unveils 8.7 kWh battery for residential applications](https://www.pv-magazine.com/2022/06/07/toyota-unveils-8-7-kwh-battery-for-residential-applications/)
+- [Crypto Platform Celsius Pauses Withdrawals](https://blog.celsius.network/a-memo-to-the-celsius-community-59532a06ecc6)
+- [Robert Jordan, the Man Who Connecticut Police Said Was ‘Too Smart to Be a Cop’](https://melmagazine.com/en-us/story/robert-jordan-too-smart-to-be-a-cop)
+- [Fresh – Next-gen web framework](https://fresh.deno.dev/)
+- [Vetting the Cargo](https://lwn.net/SubscriberLink/897435/3f00904f520a1956/)
+- [Google Will Eat Itself &lpar;2005&rpar;](https://www.gwei.org/index.php)
+- [Foone reverse engineering Skifree &lpar;Twitter thread&rpar;](https://twitter.com/Foone/status/1536053690368348160)
+- [Show HN: Cleanup Photos by Dragging Boxes](https://cleanupphotos.com)
+- [GPT-3 may be a squirrel](https://twitter.com/janellecshane/status/1535835610396692480)
+- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

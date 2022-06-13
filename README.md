@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [‘China’s Taiwan’: Beijing’s defence minister rails against ‘smearing and interfering’ US](https://www.theguardian.com/world/2022/jun/12/chinas-taiwan-beijings-defence-minister-rails-against-smearing-and-interfering-us)
-- [Hong Kong NETs – foreign teachers of English – forced to take allegiance oath](https://www.theguardian.com/world/2022/jun/12/hong-kong-nets-foreign-teachers-of-english-forced-to-take-allegiance-oath)
-- [Russia-Ukraine war: what we know on day 109 of the invasion](https://www.theguardian.com/world/2022/jun/12/russia-ukraine-war-what-we-know-on-day-109-of-the-invasion)
-- [Inflation and industrial unrest in UK threaten a timetable of trouble](https://www.theguardian.com/business/2022/jun/12/inflation-and-industrial-unrest-in-uk-threaten-a-timetable-of-trouble)
-- [Summer dreams: 25 of the best holiday dresses – in pictures](https://www.theguardian.com/fashion/gallery/2022/jun/11/summer-dreams-25-of-the-best-holiday-dresses-in-pictures)
-- [Family pays tribute to Ceredigion father who died saving children from rip tide](https://www.theguardian.com/uk-news/2022/jun/11/family-pays-tribute-to-ceredigion-father-who-died-saving-children-from-rip-tide)
-- [US gas prices rise to a record $5 a gallon but Biden hedges on Saudi Arabia visit](https://www.theguardian.com/us-news/2022/jun/11/us-gas-price-inflation)
-- [Brennan Johnson’s late goal denies Belgium and extends the Wales party](https://www.theguardian.com/football/2022/jun/11/wales-belgium-nations-league-match-report)
-- [England remain winless in Nations League after failing to break down Italy](https://www.theguardian.com/football/2022/jun/11/england-italy-nations-league-match-report)
-- [Biden faces anger over huge New Mexico wildfire sparked by federal burns](https://www.theguardian.com/us-news/2022/jun/11/biden-new-mexico-wildfire-federal-burns)
+- [Rebel Wilson: SMH denies outing actor as LGBTQ+ group denounces ‘appalling’ situation](https://www.theguardian.com/film/2022/jun/13/rebel-wilson-smh-sydney-morning-herald-denies-outing-same-sex-relationship-questions)
+- [Tony awards 2022: Hugh Jackman, Angela Lansbury and MJ the Musical – in pictures](https://www.theguardian.com/stage/gallery/2022/jun/13/tony-awards-2022-hugh-jackman-angela-lansbury-and-mj-the-musical-in-pictures)
+- [Cameras in the courtroom: the spectacle of the Depp-Heard trial | Podcast](https://www.theguardian.com/news/audio/2022/jun/13/depp-heard-trial-courtroom-cameras)
+- [‘Red light … greenlight!’ Netflix shares teaser for Squid Game season two](https://www.theguardian.com/tv-and-radio/2022/jun/13/red-light-greenlight-netflix-shares-teaser-for-squid-game-season-two)
+- [Threats against Jacinda Ardern nearly triple amid rise in conspiracy groups](https://www.theguardian.com/world/2022/jun/13/threats-against-jacinda-ardern-nearly-triple-new-zealand-conspiracy-theories)
+- [Russia-Ukraine war: what we know on day 110 of the invasion](https://www.theguardian.com/world/2022/jun/13/russia-ukraine-war-what-we-know-on-day-110-of-the-invasion)
+- [More than 15,000 sheep drown after live export ship sinks in Sudan](https://www.theguardian.com/world/2022/jun/13/more-than-15000-sheep-drown-after-live-export-ship-sinks-in-sudan)
+- [Global nuclear arsenal set to grow for first time in decades](https://www.theguardian.com/world/2022/jun/13/global-nuclear-arsenal-set-to-grow-for-first-time-in-decades)
+- [‘A whirlwind of sadness’: search for pair missing in Brazil goes on even as hope evaporates](https://www.theguardian.com/world/2022/jun/13/a-whirlwind-of-sadness-search-for-pair-missing-in-brazil-goes-on-even-as-hope-evaporates)
+- [Four in 10 pandemic-era mutual aid groups still active, UK data suggests](https://www.theguardian.com/business/2022/jun/13/four-in-10-pandemic-era-mutual-aid-groups-still-active-uk-data-suggests)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

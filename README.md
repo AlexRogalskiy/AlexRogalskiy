@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [ICO fails to disclose majority of reprimands issued under GDPR](https://www.computerweekly.com/news/252521377/ICO-fails-to-disclose-majority-of-reprimands-issued-under-GDPR)
-- [Former CEO explains how Dreams went from nightmare to fantasy](https://www.computerweekly.com/news/252521362/Former-CEO-explains-how-Dreams-went-from-nightmare-to-fantasy)
-- [Investment firm takes Salesforce to task for lack of racial diversity](https://www.computerweekly.com/news/252521369/Investment-firm-takes-Salesforce-to-task-for-lack-of-racial-diversity)
-- [Tech’s ongoing mental health crisis](https://www.computerweekly.com/feature/Techs-ongoing-mental-health-crisis)
-- [Security Think Tank: Don’t trust the weakest link? Don’t trust any link](https://www.computerweekly.com/opinion/Security-Think-Tank-Dont-trust-the-weakest-link-Dont-trust-any-link)
-- [Snake Keylogger climbing malware charts, says Check Point](https://www.computerweekly.com/news/252521353/Snake-Keylogger-climbing-malware-charts-says-Check-Point)
-- [Researchers find eight CVEs in single building access system](https://www.computerweekly.com/news/252521351/Researchers-find-eight-CVEs-in-single-building-access-system)
-- [AWS and startups: Using accelerator programmes to help enterprises address their pain points](https://www.computerweekly.com/feature/AWS-and-startups-Using-accelerator-programmes-to-help-enterprises-address-their-pain-points)
-- [Commercialising open source](https://www.computerweekly.com/news/252521310/Commercialising-open-source)
-- [Datavita to open Scotland’s first metro datacentre in Glasgow during Q3 2022](https://www.computerweekly.com/news/252521320/Datavita-to-open-Scotlands-first-metro-datacentre-in-Glasgow-during-Q3-2022)
+- [IT Sustainability Think Tank: Aligning procurement with the principles of the circular economy](https://www.computerweekly.com/opinion/IT-Sustainability-Think-Tank-Aligning-procurement-with-the-principles-of-the-circular-economy)
+- [Data leaders need to overcome their fears and unlock their creativity](https://www.computerweekly.com/opinion/Data-leaders-need-to-overcome-their-fears-and-unlock-their-creativity)
+- [UK, US prepare to launch PET project](https://www.computerweekly.com/news/252521436/UK-US-prepare-to-launch-PET-project)
+- [Dell server, storage, PC sales grow despite component supply chain woes](https://www.computerweekly.com/news/252521432/Dell-server-storage-PC-sales-grow-despite-component-supply-chain-woes)
+- [The inauguration of LUMI: Europe&#39;s most powerful supercomputer launches](https://www.computerweekly.com/news/252521433/The-inauguration-of-LUMI-Europes-most-powerful-supercomputer-launches)
+- [Government recommits to UK’s cyber future in Digital Strategy](https://www.computerweekly.com/news/252521434/Government-recommits-to-UKs-cyber-future-in-Digital-Strategy)
+- [New UK digital strategy aims to secure future growth for £150bn digital economy](https://www.computerweekly.com/news/252521429/New-UK-digital-strategy-aims-to-secure-future-growth-for-150bn-digital-economy)
+- [Tech startups raise more than £12bn in 2022 to date](https://www.computerweekly.com/news/252521379/Tech-startups-raise-more-than-12bn-in-2022-to-date)
+- [New warning over tech suppliers in thrall to hostile governments](https://www.computerweekly.com/news/252521426/New-warning-over-tech-suppliers-in-thrall-to-hostile-governments)
+- [Health data strategy to exorcise ghosts of GPDPR](https://www.computerweekly.com/news/252521424/Health-data-strategy-to-exorcise-ghosts-of-GPDPR)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

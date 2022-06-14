@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Management server Types](https://www.reddit.com/r/InformationTechnology/comments/vbs6ev/management_server_types/)
+- [DFNN Support](https://www.reddit.com/r/InformationTechnology/comments/vbqkzm/dfnn_support/)
+- [DFNN Transforming Your Business At Scale.](https://www.reddit.com/r/InformationTechnology/comments/vbqdvc/dfnn_transforming_your_business_at_scale/)
+- [Musk Admitted Tesla was overwhelmed by demand for the Model Y in Australia](https://www.reddit.com/r/InformationTechnology/comments/vbns8c/musk_admitted_tesla_was_overwhelmed_by_demand_for/)
+- [Security Threats and Concepts Explained](https://www.reddit.com/r/InformationTechnology/comments/vbjbk7/security_threats_and_concepts_explained/)
+- [A question about running a live test on a new system](https://www.reddit.com/r/InformationTechnology/comments/vb6niz/a_question_about_running_a_live_test_on_a_new/)
+- [Accidentally Signed Into Work Google Email While Browsing Google](https://www.reddit.com/r/InformationTechnology/comments/vb6a66/accidentally_signed_into_work_google_email_while/)
+- [Help best place to learn It](https://www.reddit.com/r/InformationTechnology/comments/vb3qeb/help_best_place_to_learn_it/)
+- [Experts claim Elon Musk&#39;s &#39;antiquated&#39; views on working from home threaten to deprive Tesla of top talent.](https://www.reddit.com/r/InformationTechnology/comments/vb3abt/experts_claim_elon_musks_antiquated_views_on/)
 - [is their powerful networking tools with powershell?](https://www.reddit.com/r/InformationTechnology/comments/vb19e1/is_their_powerful_networking_tools_with_powershell/)
-- [To resolve a lawsuit, Google pays $118 million to female employees who earn less than their male colleagues.](https://www.reddit.com/r/InformationTechnology/comments/vaxu5m/to_resolve_a_lawsuit_google_pays_118_million_to/)
-- [[Academic] Survey on risk assessment](https://www.reddit.com/r/InformationTechnology/comments/vav9j6/academic_survey_on_risk_assessment/)
-- [Anyone know a good video course on beginner web app troubleshooting using developer tools from an IT angle vs dev position?](https://www.reddit.com/r/InformationTechnology/comments/var95p/anyone_know_a_good_video_course_on_beginner_web/)
-- [Good laptop for a new student?](https://www.reddit.com/r/InformationTechnology/comments/vaqouh/good_laptop_for_a_new_student/)
-- [What is the process for copyrighting code?](https://www.reddit.com/r/InformationTechnology/comments/vapt25/what_is_the_process_for_copyrighting_code/)
-- [Started learning networking and all these acronyms are scaring me.](https://www.reddit.com/r/InformationTechnology/comments/vak8tp/started_learning_networking_and_all_these/)
-- [going back to college for an IT career. please help!](https://www.reddit.com/r/InformationTechnology/comments/va5fjy/going_back_to_college_for_an_it_career_please_help/)
-- [I am starting my first two classes towards getting my bachelor&#39;s in Information Technology this week. I&#39;m kind of terrified and could use some help.](https://www.reddit.com/r/InformationTechnology/comments/va0kd0/i_am_starting_my_first_two_classes_towards/)
-- [Where to go with a CompTIA Security+ certificate?](https://www.reddit.com/r/InformationTechnology/comments/v9xwo6/where_to_go_with_a_comptia_security_certificate/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

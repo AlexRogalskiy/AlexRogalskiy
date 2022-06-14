@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Rebel Wilson: SMH denies outing actor as LGBTQ+ group denounces ‘appalling’ situation](https://www.theguardian.com/film/2022/jun/13/rebel-wilson-smh-sydney-morning-herald-denies-outing-same-sex-relationship-questions)
-- [Tony awards 2022: Hugh Jackman, Angela Lansbury and MJ the Musical – in pictures](https://www.theguardian.com/stage/gallery/2022/jun/13/tony-awards-2022-hugh-jackman-angela-lansbury-and-mj-the-musical-in-pictures)
-- [Cameras in the courtroom: the spectacle of the Depp-Heard trial | Podcast](https://www.theguardian.com/news/audio/2022/jun/13/depp-heard-trial-courtroom-cameras)
-- [‘Red light … greenlight!’ Netflix shares teaser for Squid Game season two](https://www.theguardian.com/tv-and-radio/2022/jun/13/red-light-greenlight-netflix-shares-teaser-for-squid-game-season-two)
-- [Threats against Jacinda Ardern nearly triple amid rise in conspiracy groups](https://www.theguardian.com/world/2022/jun/13/threats-against-jacinda-ardern-nearly-triple-new-zealand-conspiracy-theories)
-- [Russia-Ukraine war: what we know on day 110 of the invasion](https://www.theguardian.com/world/2022/jun/13/russia-ukraine-war-what-we-know-on-day-110-of-the-invasion)
-- [More than 15,000 sheep drown after live export ship sinks in Sudan](https://www.theguardian.com/world/2022/jun/13/more-than-15000-sheep-drown-after-live-export-ship-sinks-in-sudan)
-- [Global nuclear arsenal set to grow for first time in decades](https://www.theguardian.com/world/2022/jun/13/global-nuclear-arsenal-set-to-grow-for-first-time-in-decades)
-- [‘A whirlwind of sadness’: search for pair missing in Brazil goes on even as hope evaporates](https://www.theguardian.com/world/2022/jun/13/a-whirlwind-of-sadness-search-for-pair-missing-in-brazil-goes-on-even-as-hope-evaporates)
-- [Four in 10 pandemic-era mutual aid groups still active, UK data suggests](https://www.theguardian.com/business/2022/jun/13/four-in-10-pandemic-era-mutual-aid-groups-still-active-uk-data-suggests)
+- [NBA finals Game 5: Boston Celtics 94-104 Golden State Warriors – live!](https://www.theguardian.com/sport/live/2022/jun/13/nba-finals-game-5-boston-celtics-v-golden-state-warriors-live)
+- [Australian goalkeeper Andrew Redmayne dances Socceroos into World Cup finals](https://www.theguardian.com/football/2022/jun/14/australian-goalkeeper-andrew-redmayne-dances-socceroos-into-world-cup-finals)
+- [Record flooding and mudslides force closure of Yellowstone national park](https://www.theguardian.com/environment/2022/jun/13/yellowstone-national-park-closure-flooding-mudslides)
+- [Global markets plunge as Fed mulls biggest rate rise in decades](https://www.theguardian.com/business/2022/jun/13/wall-street-stock-markets-bear-market)
+- [Remembering Grenfell - podcast](https://www.theguardian.com/news/audio/2022/jun/14/remembering-grenfell-podcast)
+- [Lizzo removes ‘harmful’ ableist slur from new song GRRRLS after criticism](https://www.theguardian.com/music/2022/jun/14/lizzo-removes-harmful-ableist-slur-from-new-song-grrrls-after-criticism)
+- [Pound dog blues: puppy has surgery after swallowing 20 coins from owner’s purse](https://www.theguardian.com/lifeandstyle/2022/jun/14/puppy-swallows-20-coins-uk-owners-purse)
+- [Russia-Ukraine war: what we know on day 111 of the invasion](https://www.theguardian.com/world/2022/jun/14/russia-ukraine-war-what-we-know-on-day-111-of-the-invasion)
+- [How to Murder Your Husband writer gets life in prison for husband’s murder](https://www.theguardian.com/us-news/2022/jun/13/how-to-your-husband-writer-sentenced)
+- [Wildfires erupt in Arizona and California in foreboding sign of intense summer](https://www.theguardian.com/world/2022/jun/13/arizona-california-wildfire-season-evacuations)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

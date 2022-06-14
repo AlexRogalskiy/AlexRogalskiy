@@ -369,6 +369,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [How Digital Twins &amp; Data Analytics Power Sustainability](https://www.informationweek.com/big-data/how-digital-twins-data-analytics-power-sustainability)
+- [To Solve Your Data Science Talent Gap, Embrace Diversity](https://www.informationweek.com/big-data/to-solve-your-data-science-talent-gap-embrace-diversity)
+- [Making Data Centers Cool Again](https://www.informationweek.com/it-life/making-data-centers-cool-again)
 - [SAP’s CTO Juergen Mueller Talks Transformation and Evolution](https://www.informationweek.com/cloud/sap-s-cto-juergen-mueller-talks-transformation-and-evolution)
 - [What IT Leaders Should Do Now to Prepare for ESG Standards](https://www.informationweek.com/strategic-cio/what-it-leaders-should-do-now-to-prepare-for-esg-standards)
 - [How to Elevate Your Organization’s Use of Data Analytics](https://www.informationweek.com/big-data/how-to-elevate-your-organization-s-use-of-data-analytics)
@@ -376,9 +379,6 @@
 - [Protecting From the Threat Within: How To Manage Insider Risk](https://www.informationweek.com/strategic-cio/protecting-from-the-threat-within-how-to-manage-insider-risk)
 - [Going Green with Regulatory Tech for Financial Institutions](https://www.informationweek.com/fintech/going-green-with-regulatory-tech-for-financial-institutions)
 - [DDoS Attacks Taking Cyber Extortion to The Next Level?](https://www.informationweek.com/strategic-cio/ddos-attacks-taking-cyber-extortion-to-the-next-level-)
-- [How to Retain Talent in Uncertain Circumstances](https://www.informationweek.com/strategic-cio/how-to-retain-talent-in-uncertain-circumstances)
-- [The Importance of Curiosity as an IT Skill](https://www.informationweek.com/strategic-cio/the-importance-of-curiosity-as-an-it-skill)
-- [From Reactive to Proactive: How CIOs can Drive Enterprise Redesign](https://www.informationweek.com/big-data/from-reactive-to-proactive-how-cios-can-drive-enterprise-redesign)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

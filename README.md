@@ -384,6 +384,9 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Kotlin unveils K2 compiler](https://www.infoworld.com/article/3663519/kotlin-unveils-k2-compiler.html#tk.rss_all)
+- [What is behavioral analytics and when is it important?](https://www.infoworld.com/article/3663433/what-is-behavioral-analytics-and-when-is-it-important.html#tk.rss_all)
+- [Where software development is headed in 2022](https://www.infoworld.com/article/3660642/where-software-development-is-headed-in-2022.html#tk.rss_all)
 - [JDK 19: The new features in Java 19](https://www.infoworld.com/article/3653331/jdk-19-the-new-features-in-java-19.html#tk.rss_all)
 - [Will Google&#39;s new bet on low code/no code pay off this time?](https://www.infoworld.com/article/3663515/will-googles-new-bet-on-low-codeno-code-pay-off-this-time.html#tk.rss_all)
 - [Repatriating data and applications from the cloud](https://www.infoworld.com/article/3663729/repatriating-data-and-applications-from-the-cloud.html#tk.rss_all)
@@ -391,9 +394,6 @@
 - [What is Jamstack? The static website revolution upending web development](https://www.infoworld.com/article/3563829/jamstack-the-static-website-revolution-upending-web-development.html#tk.rss_all)
 - [“Do More with R” video tutorials](https://www.infoworld.com/article/3411819/do-more-with-r-video-tutorials.html#tk.rss_all)
 - [How MongoDB&#39;s NoSQL database is encroaching on relational database turf](https://www.infoworld.com/article/3663488/how-mongodbs-nosql-database-is-encroaching-on-relational-database-turf.html#tk.rss_all)
-- [Intro to JHipster: A full-stack framework for Java and JavaScript](https://www.infoworld.com/article/3661308/intro-to-jhipster-a-full-stack-framework-for-java-and-javascript.html#tk.rss_all)
-- [12 free tools for API design, development, and testing](https://www.infoworld.com/article/3410586/12-free-tools-for-api-design-development-and-testing.html#tk.rss_all)
-- [Microsoft Azure eases Kubernetes development with a new Draft](https://www.infoworld.com/article/3662815/microsoft-azure-eases-kubernetes-development-with-a-new-draft.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

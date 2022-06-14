@@ -429,6 +429,9 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Google AI engineer put on leave for violating privacy policy](https://www.itworldcanada.com/article/google-ai-engineer-put-on-leave-for-violating-privacy-policy/488166)
+- [Cyber Security Today, June 13, 2022 – Serious bugs found in a building access control system, ransomware news and more](https://www.itworldcanada.com/article/cyber-security-today-june-13-2022-serious-bugs-found-in-a-building-access-control-system-ransomware-news-and-more/488121)
+- [Hashtag Trending June 13 – Unsatisfactory broadband; GM EV sale; more Meta lawsuits](https://www.itworldcanada.com/article/hashtag-trending-june-13-unsatisfactory-broadband-gm-ev-sale-more-meta-lawsuits/488145)
 - [This week in ransomware – Friday, June 10, 2022](https://www.itworldcanada.com/article/this-week-in-ransomware-friday-june-10-2022/487892)
 - [Cyber Security Today, Week in Review for Friday, June 10. 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-june-10-2022/487740)
 - [Consultation begins for mmWave to be used for 5G](https://www.itworldcanada.com/article/consultation-begins-for-mmwave-to-be-used-for-5g/487720)
@@ -436,9 +439,6 @@
 - [Hashtag Trending June 10 – Diablo Immortal not launching in Belgium or the Netherlands; Axon halts Taser drone project; Microsoft drops NCCs](https://www.itworldcanada.com/article/hashtag-trending-june-10-diablo-immortal-not-launching-in-belgium-or-the-netherlands-axon-halts-taser-drone-project-microsoft-drops-nccs/487798)
 - [Non-profit tech supplier transforms model to better serve NGOs](https://www.itworldcanada.com/article/non-profit-tech-supplier-transforms-model-to-better-serve-ngos/487470)
 - [Canadian military provider suffered ransom attack, says news report](https://www.itworldcanada.com/article/canadian-military-provider-suffered-ransom-attack-says-news-report/487654)
-- [Phillippe Dufresne nominated to be next Canadian privacy commissioner](https://www.itworldcanada.com/article/phillippe-dufresne-nominated-to-be-next-canadian-privacy-commissioner/487628)
-- [Hashtag Trending June 9 – IBM layoff in Russia; FBI shuts down SSN marketplace; Elon Musk threatens to ditch Twitter deal](https://www.itworldcanada.com/article/hashtag-trending-june-9-ibm-layoff-in-russia-fbi-shuts-down-ssn-marketplace-elon-musk-threatens-to-ditch-twitter-deal/487515)
-- [TekSavvy Unified Communications service now available nationally](https://www.itworldcanada.com/article/teksavvy-unified-communications-service-now-available-nationally/487541)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

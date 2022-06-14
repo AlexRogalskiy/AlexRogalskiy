@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [$500M liquidated from the crypto market in the past 24 hours](https://twitter.com/watcherguru/status/1536172065732104195)
-- [How to calculate crypto potential based on past performance](https://cryptofireside.com/what-could-happen-if-you-invested-500-into-these-10-cryptocurrencies-2355e35d13a8?gi=5110e1789c07)
-- [Lisp Is Too Powerful](https://wiki.c2.com/?LispIsTooPowerful)
-- [Writing Cover Letters Sucks So We Automated It](https://www.coverquick.co/)
-- [Building in Public and Power of Twitter Ft. KP](https://anchor.fm/roohi-kazi/episodes/Building-in-Public-and-Power-of-Twitter-Ft--KP-e1j35qh)
-- [A Tutorial Introduction to Nix](https://rgoswami.me/posts/ccon-tut-nix/)
-- [Foster care is evolving by relying on children’s kin](https://www.newsnationnow.com/us-news/foster-care-evolving-through-kinship/)
-- [Aleph.js – Fullstack Framework in Deno](https://github.com/alephjs/aleph.js)
-- [Startup idea? Let the readers resell their ebooks](https://blog.idearamen.com/startup-ideas-let-readers-resell-their-ebooks/)
-- [Some Ads Play on Streaming Services Even When the TV Is Off](https://www.wsj.com/articles/some-ads-play-on-streaming-services-even-when-the-tv-is-off-study-finds-11655042401)
+- [2023 Model Year Toyota Sequoia Has Morse Code on the Windshield](https://www.youtube.com/watch?v=7SUjbbBtkeU)
+- [Mapquest](https://www.mapquest.com/)
+- [PicoTorrent is a tiny and minimal BitTorrent clien](https://picotorrent.org/)
+- [Time to Do One Thing](https://zan.bearblog.dev/one-thing/)
+- [BatNoter: Store notes in your Git repository](https://github.com/batnoter/batnoter)
+- [When will depositors start shopping for higher rates?](https://www.americanbanker.com/news/when-will-depositors-start-shopping-for-higher-rates)
+- [How Much Is Enough? A Study on Diffusion Times in Score-Based Generative Models](https://arxiv.org/abs/2206.05173)
+- [Fed Likely to Consider 0.75-Percentage-Point Rate Rise This Week](https://www.wsj.com/articles/bad-inflation-reports-raise-odds-of-surprise-0-75-percentage-point-rate-rise-this-week-11655147927)
+- [ARF: Artistic Radiance Fields](https://www.cs.cornell.edu/projects/arf/)
+- [SparseNeuS: Fast Generalizable Neural Surface Reconstruction from Sparse Views](https://www.xxlong.site/SparseNeuS/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

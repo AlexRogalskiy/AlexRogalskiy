@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Toyota unveils 8.7 kWh battery for residential applications](https://www.pv-magazine.com/2022/06/07/toyota-unveils-8-7-kwh-battery-for-residential-applications/)
-- [Crypto Platform Celsius Pauses Withdrawals](https://blog.celsius.network/a-memo-to-the-celsius-community-59532a06ecc6)
-- [Robert Jordan, the Man Who Connecticut Police Said Was ‘Too Smart to Be a Cop’](https://melmagazine.com/en-us/story/robert-jordan-too-smart-to-be-a-cop)
-- [Fresh – Next-gen web framework](https://fresh.deno.dev/)
-- [Vetting the Cargo](https://lwn.net/SubscriberLink/897435/3f00904f520a1956/)
-- [Google Will Eat Itself &lpar;2005&rpar;](https://www.gwei.org/index.php)
-- [Foone reverse engineering Skifree &lpar;Twitter thread&rpar;](https://twitter.com/Foone/status/1536053690368348160)
-- [Show HN: Cleanup Photos by Dragging Boxes](https://cleanupphotos.com)
-- [GPT-3 may be a squirrel](https://twitter.com/janellecshane/status/1535835610396692480)
-- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
+- [Survey: iPhone owners spend more, have higher incomes than Android users](https://www.marketingdive.com/news/survey-iphone-owners-spend-more-have-higher-incomes-than-android-users/541008/)
+- [Amazon calls cops, fires workers in attempts to stop unionization nationwide](https://www.washingtonpost.com/technology/2022/06/13/amazon-union-retaliation-allegations/)
+- [Bible Semantic Search](https://share.streamlit.io/chrislee973/bible-semantic-search/main/app.py#bible-semantic-search)
+- [Writing is a single-player game](https://www.otherlife.co/singleplayer/)
+- [“Downthem” DDoS-for-hire boss gets 2 years in prison](https://krebsonsecurity.com/2022/06/downthem-ddos-for-hire-boss-gets-2-years-in-prison/)
+- [Stanford’s war on social life](https://palladiummag.com/2022/06/13/stanfords-war-on-social-life/)
+- [Human attention has become a commodity](https://mebassett.info/human-attention-commodity)
+- [Thank HN: Five months ago, I was feeling like a loser, now I am opposite](https://news.ycombinator.com/item?id=31732048)
+- [Diving into GCC Internals](https://gcc-newbies-guide.readthedocs.io/en/latest/diving-into-gcc-internals.html)
+- [Making popular Ruby packages more secure](https://blog.rubygems.org/2022/06/13/making-packages-more-secure.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

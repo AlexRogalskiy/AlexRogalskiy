@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Microsoft promises to recognize Activision Blizzard unions](https://www.computerworld.com/article/3663499/microsoft-promises-to-recognize-activision-blizzard-unions.html#tk.rss_all)
+- [In the new workplace you&#39;ll use Cisco Webex with Apple’s CarPlay](https://www.computerworld.com/article/3663496/cisco-webex-apple-carplay.html#tk.rss_all)
+- [Can a four-day-a-week workweek really work?](https://www.computerworld.com/article/3663451/can-a-four-day-a-week-workweek-really-work.html#tk.rss_all)
+- [What to do if the Mac you need is delayed?](https://www.computerworld.com/article/3663434/what-to-do-if-the-mac-you-need-is-delayed.html#tk.rss_all)
 - [Mozilla launches email for Android devices](https://www.computerworld.com/article/3663452/mozilla-launches-email-for-android-devices.html#tk.rss_all)
 - [Before Patch Tuesday, a to-do list to avoid trouble](https://www.computerworld.com/article/3663518/before-patch-tuesday-a-to-do-list-to-avoid-trouble.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [How Apple improved enterprise deployments at WWDC](https://www.computerworld.com/article/3663681/how-apple-improved-enterprise-deployments-at-wwdc.html#tk.rss_all)
 - [How to master the diversity hiring challenge](https://www.computerworld.com/article/3663477/how-to-master-the-diversity-hiring-challenge.html#tk.rss_all)
 - [Why young tech workers leave — and what you can do to keep them](https://www.computerworld.com/article/3663431/why-young-tech-workers-leave-and-what-you-can-do-to-keep-them.html#tk.rss_all)
-- [Apple’s Freeform adds another digital whiteboard option for remote work](https://www.computerworld.com/article/3663676/apples-freeform-adds-another-digital-whiteboard-option-for-remote-work.html#tk.rss_all)
-- [Amazon to pass Walmart as No. 1 retailer by &#39;24; the latter&#39;s store-based tack is to blame](https://www.computerworld.com/article/3663471/amazon-to-pass-walmart-as-no-1-retailer-by-24-the-latters-store-based-tack-is-to-blame.html#tk.rss_all)
-- [WWDC: Apple, Cloudflare, Fastly plot the end of CAPTCHA](https://www.computerworld.com/article/3663430/wwdc-apple-cloudflare-fastly-plot-the-end-of-captcha.html#tk.rss_all)
-- [The rise of text and phone scams and why you should worry](https://www.computerworld.com/article/3663369/the-rise-of-text-and-phone-scams-and-why-you-should-worry.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

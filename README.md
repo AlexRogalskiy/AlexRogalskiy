@@ -384,16 +384,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Snowflake taps Python to take on Teradata, Google BigQuery, and Amazon Redshift](https://www.infoworld.com/article/3663702/snowflake-taps-python-to-take-on-teradata-google-bigquery-and-amazon-redshift.html#tk.rss_all)
+- [Snowflake switches gears, from data warehouse to application cloud](https://www.infoworld.com/article/3663700/snowflake-switches-gears-from-data-warehouse-to-application-cloud.html#tk.rss_all)
+- [Complexity leads to cloud outages. Here’s the proof](https://www.infoworld.com/article/3663680/complexity-leads-to-cloud-outages-heres-the-proof.html#tk.rss_all)
+- [Software engineering estimates are garbage](https://www.infoworld.com/article/3663508/software-engineering-estimates-are-garbage.html#tk.rss_all)
+- [Visual Studio Code 1.68 identifies deprecated extensions](https://www.infoworld.com/article/3663479/visual-studio-code-168-identifies-deprecated-extensions.html#tk.rss_all)
+- [Detect cloud native security threats with Tracee](https://www.infoworld.com/article/3663048/detect-cloud-native-security-threats-with-tracee.html#tk.rss_all)
 - [Kotlin unveils K2 compiler](https://www.infoworld.com/article/3663519/kotlin-unveils-k2-compiler.html#tk.rss_all)
 - [What is behavioral analytics and when is it important?](https://www.infoworld.com/article/3663433/what-is-behavioral-analytics-and-when-is-it-important.html#tk.rss_all)
 - [Where software development is headed in 2022](https://www.infoworld.com/article/3660642/where-software-development-is-headed-in-2022.html#tk.rss_all)
 - [JDK 19: The new features in Java 19](https://www.infoworld.com/article/3653331/jdk-19-the-new-features-in-java-19.html#tk.rss_all)
-- [Will Google&#39;s new bet on low code/no code pay off this time?](https://www.infoworld.com/article/3663515/will-googles-new-bet-on-low-codeno-code-pay-off-this-time.html#tk.rss_all)
-- [Repatriating data and applications from the cloud](https://www.infoworld.com/article/3663729/repatriating-data-and-applications-from-the-cloud.html#tk.rss_all)
-- [Wasmer WebAssembly runtime adds native compilation](https://www.infoworld.com/article/3663675/wasmer-webassembly-runtime-emphasizes-native-compilation.html#tk.rss_all)
-- [What is Jamstack? The static website revolution upending web development](https://www.infoworld.com/article/3563829/jamstack-the-static-website-revolution-upending-web-development.html#tk.rss_all)
-- [“Do More with R” video tutorials](https://www.infoworld.com/article/3411819/do-more-with-r-video-tutorials.html#tk.rss_all)
-- [How MongoDB&#39;s NoSQL database is encroaching on relational database turf](https://www.infoworld.com/article/3663488/how-mongodbs-nosql-database-is-encroaching-on-relational-database-turf.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

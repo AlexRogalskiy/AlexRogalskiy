@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Survey: iPhone owners spend more, have higher incomes than Android users](https://www.marketingdive.com/news/survey-iphone-owners-spend-more-have-higher-incomes-than-android-users/541008/)
-- [Amazon calls cops, fires workers in attempts to stop unionization nationwide](https://www.washingtonpost.com/technology/2022/06/13/amazon-union-retaliation-allegations/)
-- [Bible Semantic Search](https://share.streamlit.io/chrislee973/bible-semantic-search/main/app.py#bible-semantic-search)
-- [Writing is a single-player game](https://www.otherlife.co/singleplayer/)
-- [“Downthem” DDoS-for-hire boss gets 2 years in prison](https://krebsonsecurity.com/2022/06/downthem-ddos-for-hire-boss-gets-2-years-in-prison/)
-- [Stanford’s war on social life](https://palladiummag.com/2022/06/13/stanfords-war-on-social-life/)
-- [Human attention has become a commodity](https://mebassett.info/human-attention-commodity)
-- [Thank HN: Five months ago, I was feeling like a loser, now I am opposite](https://news.ycombinator.com/item?id=31732048)
-- [Diving into GCC Internals](https://gcc-newbies-guide.readthedocs.io/en/latest/diving-into-gcc-internals.html)
-- [Making popular Ruby packages more secure](https://blog.rubygems.org/2022/06/13/making-packages-more-secure.html)
+- [PC Engine / TurboGrafx-16 Architecture](https://www.copetti.org/writings/consoles/pc-engine/)
+- [Palm OS developer releases source to classic games, 20 years after release](https://www.retrorgb.com/palm-os-developer-releases-source-to-classic-games-20-years-after-release.html)
+- [Thank HN: WhatsApp Ban Reversed](https://news.ycombinator.com/item?id=31748139)
+- [Major water cutbacks loom as shrinking Colorado River nears ‘moment of reckoning](https://www.latimes.com/environment/story/2022-06-14/big-water-cutbacks-ordered-amid-colorado-river-shortage)
+- [Docker on &lpar;rooted&rpar; Android](https://gist.github.com/FreddieOliveira/efe850df7ff3951cb62d74bd770dce27)
+- [Glucosamine significantly reduces risk of lung cancer and lung cancer mortality](https://erj.ersjournals.com/content/59/3/2101399)
+- [The First High-Yield, Sub-Penny Plastic Processor](https://spectrum.ieee.org/plastic-microprocessor)
+- [The hunt for a cluster-killer Erlang bug](https://engineering.klarna.com/the-hunt-for-the-cluster-killer-erlang-bug-81dd0640aa81?gi=e3144c1fcf1b)
+- [Kodable &lpar;YC IK12&rpar; is hiring a full-stack engineer to help us teach kids to code](https://www.indeed.com/jobs?q=Kodable&vjk=cfd80509c01480ac&sc=0fcckey%3A49fe5ce38cf6d5e8%2Cq%3A%3B)
+- [Infants&#39; sense of pain is recognized, finally &lpar;1987&rpar;](https://www.nytimes.com/1987/11/24/science/infants-sense-of-pain-is-recognized-finally.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

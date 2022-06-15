@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [2023 Model Year Toyota Sequoia Has Morse Code on the Windshield](https://www.youtube.com/watch?v=7SUjbbBtkeU)
-- [Mapquest](https://www.mapquest.com/)
-- [PicoTorrent is a tiny and minimal BitTorrent clien](https://picotorrent.org/)
-- [Time to Do One Thing](https://zan.bearblog.dev/one-thing/)
-- [BatNoter: Store notes in your Git repository](https://github.com/batnoter/batnoter)
-- [When will depositors start shopping for higher rates?](https://www.americanbanker.com/news/when-will-depositors-start-shopping-for-higher-rates)
-- [How Much Is Enough? A Study on Diffusion Times in Score-Based Generative Models](https://arxiv.org/abs/2206.05173)
-- [Fed Likely to Consider 0.75-Percentage-Point Rate Rise This Week](https://www.wsj.com/articles/bad-inflation-reports-raise-odds-of-surprise-0-75-percentage-point-rate-rise-this-week-11655147927)
-- [ARF: Artistic Radiance Fields](https://www.cs.cornell.edu/projects/arf/)
-- [SparseNeuS: Fast Generalizable Neural Surface Reconstruction from Sparse Views](https://www.xxlong.site/SparseNeuS/)
+- [Startups in Boston](https://www.employbl.com/blog/boston-startups-to-watch-in-2022)
+- [Python for Data Science: A Hands-On Introduction](https://nostarch.com/python-data-science)
+- [DAO just voted to “refund” one of their investors in breach of contract &lpar;thread&rpar;](https://twitter.com/itstimconnors/status/1536734104422522881)
+- [Protecting Microservices](https://betterprogramming.pub/how-to-protect-your-microservices-8d74045061c1)
+- [Air quality worsens as drought forces California growers to burn abandoned crops](https://www.latimes.com/environment/story/2022-06-11/drought-is-fueling-san-joaquin-valley-air-pollution)
+- [How to use Grafana and Prometheus to Rickroll your friends &lpar;or enemies&rpar; &lpar;2021&rpar;](https://grafana.com/blog/2021/07/30/how-to-use-grafana-and-prometheus-to-rickroll-your-friends-or-enemies/)
+- [Being Entitled in Public](https://nick.camp/being-entitled-in-public/)
+- [From Stage 3 Colon Cancer to No Cancer Detected in 4 Months [video]](https://www.youtube.com/watch?v=YzPrxku1x5Y)
+- [Detective Dupont](https://nicolasjuan.bearblog.dev/detective-dupont/)
+- [16-bit RISC-V processor made with carbon nanotubes](https://arstechnica.com/science/2019/08/16-bit-risc-v-processor-made-with-carbon-nanutubes/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

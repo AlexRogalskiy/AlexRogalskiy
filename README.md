@@ -369,6 +369,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Top 2022 IT Certifications to Advance Your Career](https://www.informationweek.com/it-life/top-2022-it-certifications-to-advance-your-career)
+- [First Responders Get Tech Help from AWS Edge Devices](https://www.informationweek.com/cloud/first-responders-get-tech-help-from-aws-edge-devices)
+- [How to Make Hybrid Work Even More Inclusive](https://www.informationweek.com/strategic-cio/how-to-make-hybrid-work-even-more-inclusive)
 - [How Digital Twins &amp; Data Analytics Power Sustainability](https://www.informationweek.com/big-data/how-digital-twins-data-analytics-power-sustainability)
 - [To Solve Your Data Science Talent Gap, Embrace Diversity](https://www.informationweek.com/big-data/to-solve-your-data-science-talent-gap-embrace-diversity)
 - [Making Data Centers Cool Again](https://www.informationweek.com/it-life/making-data-centers-cool-again)
@@ -376,9 +379,6 @@
 - [What IT Leaders Should Do Now to Prepare for ESG Standards](https://www.informationweek.com/strategic-cio/what-it-leaders-should-do-now-to-prepare-for-esg-standards)
 - [How to Elevate Your Organization’s Use of Data Analytics](https://www.informationweek.com/big-data/how-to-elevate-your-organization-s-use-of-data-analytics)
 - [In Search of Coding Quality](https://www.informationweek.com/software/in-search-of-coding-quality)
-- [Protecting From the Threat Within: How To Manage Insider Risk](https://www.informationweek.com/strategic-cio/protecting-from-the-threat-within-how-to-manage-insider-risk)
-- [Going Green with Regulatory Tech for Financial Institutions](https://www.informationweek.com/fintech/going-green-with-regulatory-tech-for-financial-institutions)
-- [DDoS Attacks Taking Cyber Extortion to The Next Level?](https://www.informationweek.com/strategic-cio/ddos-attacks-taking-cyber-extortion-to-the-next-level-)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [IdentityNORTH Summit: Fortier says pandemic has spurred need for digital credential initiative](https://www.itworldcanada.com/article/identitynorth-summit-fortier-says-pandemic-has-spurred-need-for-digital-credential-initiative/488477)
+- [Global Startup Ecosystem Report highlights tech hubs and strengths in North American cities](https://www.itworldcanada.com/article/global-startup-ecosystem-report-highlights-tech-hubs-and-strengths-in-north-american-cities/488426)
+- [Leading the charge for improved electric vehicle infrastructure in rural Ontario](https://www.itworldcanada.com/article/leading-the-charge-for-improved-electric-vehicle-infrastructure-in-rural-ontario/488404)
+- [Designated Canadian firms would have to report cyber breaches under proposed law](https://www.itworldcanada.com/article/designated-canadian-firms-would-have-to-report-cyber-breaches-under-proposed-law/488372)
+- [Coffee Briefing June 14, 2022 – Uber Canada releases 2022 Lost and Found index; YWCA awards; Mastercard expands Girls4Tech; and more](https://www.itworldcanada.com/article/coffee-briefing-june-14-2022-uber-canada-releases-2022-lost-and-found-index-ywca-awards-mastercard-expands-girls4tech-and-more/488204)
+- [Hashtag Trending June 14 – Internet Explorer retires; Coinbase petition; Tesla investigation](https://www.itworldcanada.com/article/hashtag-trending-june-14-internet-explorer-retires-coinbase-petition-tesla-investigation/488260)
 - [Google AI engineer put on leave for violating privacy policy](https://www.itworldcanada.com/article/google-ai-engineer-put-on-leave-for-violating-privacy-policy/488166)
 - [Cyber Security Today, June 13, 2022 – Serious bugs found in a building access control system, ransomware news and more](https://www.itworldcanada.com/article/cyber-security-today-june-13-2022-serious-bugs-found-in-a-building-access-control-system-ransomware-news-and-more/488121)
 - [Hashtag Trending June 13 – Unsatisfactory broadband; GM EV sale; more Meta lawsuits](https://www.itworldcanada.com/article/hashtag-trending-june-13-unsatisfactory-broadband-gm-ev-sale-more-meta-lawsuits/488145)
 - [This week in ransomware – Friday, June 10, 2022](https://www.itworldcanada.com/article/this-week-in-ransomware-friday-june-10-2022/487892)
-- [Cyber Security Today, Week in Review for Friday, June 10. 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-june-10-2022/487740)
-- [Consultation begins for mmWave to be used for 5G](https://www.itworldcanada.com/article/consultation-begins-for-mmwave-to-be-used-for-5g/487720)
-- [Cyber Security Today, June 10, 2022 – The Emotet botnet is spreading](https://www.itworldcanada.com/article/cyber-security-today-june-10-2022-the-emotet-botnet-is-spreading/487709)
-- [Hashtag Trending June 10 – Diablo Immortal not launching in Belgium or the Netherlands; Axon halts Taser drone project; Microsoft drops NCCs](https://www.itworldcanada.com/article/hashtag-trending-june-10-diablo-immortal-not-launching-in-belgium-or-the-netherlands-axon-halts-taser-drone-project-microsoft-drops-nccs/487798)
-- [Non-profit tech supplier transforms model to better serve NGOs](https://www.itworldcanada.com/article/non-profit-tech-supplier-transforms-model-to-better-serve-ngos/487470)
-- [Canadian military provider suffered ransom attack, says news report](https://www.itworldcanada.com/article/canadian-military-provider-suffered-ransom-attack-says-news-report/487654)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

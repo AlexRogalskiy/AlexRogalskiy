@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [What OS do you guys use for work? I am starting my journey into my IT degree.](https://www.reddit.com/r/InformationTechnology/comments/vchtf2/what_os_do_you_guys_use_for_work_i_am_starting_my/)
+- [Career question](https://www.reddit.com/r/InformationTechnology/comments/vc57qx/career_question/)
+- [which certs should I pursue](https://www.reddit.com/r/InformationTechnology/comments/vc2596/which_certs_should_i_pursue/)
+- [Hopeless guy needs advice.](https://www.reddit.com/r/InformationTechnology/comments/vc0qyp/hopeless_guy_needs_advice/)
 - [Management server Types](https://www.reddit.com/r/InformationTechnology/comments/vbs6ev/management_server_types/)
 - [DFNN Support](https://www.reddit.com/r/InformationTechnology/comments/vbqkzm/dfnn_support/)
 - [DFNN Transforming Your Business At Scale.](https://www.reddit.com/r/InformationTechnology/comments/vbqdvc/dfnn_transforming_your_business_at_scale/)
 - [Musk Admitted Tesla was overwhelmed by demand for the Model Y in Australia](https://www.reddit.com/r/InformationTechnology/comments/vbns8c/musk_admitted_tesla_was_overwhelmed_by_demand_for/)
 - [Security Threats and Concepts Explained](https://www.reddit.com/r/InformationTechnology/comments/vbjbk7/security_threats_and_concepts_explained/)
 - [A question about running a live test on a new system](https://www.reddit.com/r/InformationTechnology/comments/vb6niz/a_question_about_running_a_live_test_on_a_new/)
-- [Accidentally Signed Into Work Google Email While Browsing Google](https://www.reddit.com/r/InformationTechnology/comments/vb6a66/accidentally_signed_into_work_google_email_while/)
-- [Help best place to learn It](https://www.reddit.com/r/InformationTechnology/comments/vb3qeb/help_best_place_to_learn_it/)
-- [Experts claim Elon Musk&#39;s &#39;antiquated&#39; views on working from home threaten to deprive Tesla of top talent.](https://www.reddit.com/r/InformationTechnology/comments/vb3abt/experts_claim_elon_musks_antiquated_views_on/)
-- [is their powerful networking tools with powershell?](https://www.reddit.com/r/InformationTechnology/comments/vb19e1/is_their_powerful_networking_tools_with_powershell/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

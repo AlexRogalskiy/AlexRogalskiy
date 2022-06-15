@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [IT Sustainability Think Tank: Aligning procurement with the principles of the circular economy](https://www.computerweekly.com/opinion/IT-Sustainability-Think-Tank-Aligning-procurement-with-the-principles-of-the-circular-economy)
+- [MS Azure Synapse vulnerability fixed after six-month slog](https://www.computerweekly.com/news/252521500/MS-Azure-Synapse-vulnerability-fixed-after-six-month-slog)
+- [Government data talk to the fore at London Tech Week](https://www.computerweekly.com/news/252521494/Government-data-talk-to-the-fore-at-London-Tech-Week)
+- [Retail’s IT talent search intensifies](https://www.computerweekly.com/feature/Retails-IT-talent-search-intensifies)
+- [IT Sustainability Think Tank: Corporate devices and the circular economy](https://www.computerweekly.com/opinion/IT-Sustainability-Think-Tank-Corporate-devices-and-the-circular-economy)
+- [Unified file and object storage: Three suppliers and their approaches](https://www.computerweekly.com/feature/Unified-file-and-object-storage-Three-suppliers-and-their-approaches)
+- [Managing Apple Macs in the enterprise](https://www.computerweekly.com/ezine/Computer-Weekly/Managing-Apple-Macs-in-the-enterprise)
+- [Podcast: SaaS data protection vulnerability and how to manage it](https://www.computerweekly.com/podcast/Podcast-SaaS-data-protection-vulnerability-and-how-to-manage-it)
 - [Data leaders need to overcome their fears and unlock their creativity](https://www.computerweekly.com/opinion/Data-leaders-need-to-overcome-their-fears-and-unlock-their-creativity)
+- [IT Sustainability Think Tank: Aligning procurement with the principles of the circular economy](https://www.computerweekly.com/opinion/IT-Sustainability-Think-Tank-Aligning-procurement-with-the-principles-of-the-circular-economy)
 - [UK, US prepare to launch PET project](https://www.computerweekly.com/news/252521436/UK-US-prepare-to-launch-PET-project)
-- [Dell server, storage, PC sales grow despite component supply chain woes](https://www.computerweekly.com/news/252521432/Dell-server-storage-PC-sales-grow-despite-component-supply-chain-woes)
-- [The inauguration of LUMI: Europe&#39;s most powerful supercomputer launches](https://www.computerweekly.com/news/252521433/The-inauguration-of-LUMI-Europes-most-powerful-supercomputer-launches)
-- [Government recommits to UK’s cyber future in Digital Strategy](https://www.computerweekly.com/news/252521434/Government-recommits-to-UKs-cyber-future-in-Digital-Strategy)
-- [New UK digital strategy aims to secure future growth for £150bn digital economy](https://www.computerweekly.com/news/252521429/New-UK-digital-strategy-aims-to-secure-future-growth-for-150bn-digital-economy)
-- [Tech startups raise more than £12bn in 2022 to date](https://www.computerweekly.com/news/252521379/Tech-startups-raise-more-than-12bn-in-2022-to-date)
-- [New warning over tech suppliers in thrall to hostile governments](https://www.computerweekly.com/news/252521426/New-warning-over-tech-suppliers-in-thrall-to-hostile-governments)
-- [Health data strategy to exorcise ghosts of GPDPR](https://www.computerweekly.com/news/252521424/Health-data-strategy-to-exorcise-ghosts-of-GPDPR)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

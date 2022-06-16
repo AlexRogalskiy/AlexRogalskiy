@@ -369,6 +369,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Introducing the Two-Minute Toolkit Podcast](https://www.informationweek.com/strategic-cio/introducing-the-two-minute-toolkit-podcast)
+- [CIO Moves: Deere &amp; Co&#39;s New CIO Talks Strategy, Trends, and Career Paths](https://www.informationweek.com/strategic-cio/cio-moves-deere-co-s-new-cio-talks-strategy-trends-and-career-paths)
+- [How to Create New Business Value Through a Platform Model](https://www.informationweek.com/strategic-cio/how-to-create-new-business-value-through-a-platform-model)
 - [Top 2022 IT Certifications to Advance Your Career](https://www.informationweek.com/it-life/top-2022-it-certifications-to-advance-your-career)
 - [First Responders Get Tech Help from AWS Edge Devices](https://www.informationweek.com/cloud/first-responders-get-tech-help-from-aws-edge-devices)
 - [How to Make Hybrid Work Even More Inclusive](https://www.informationweek.com/strategic-cio/how-to-make-hybrid-work-even-more-inclusive)
@@ -376,9 +379,6 @@
 - [To Solve Your Data Science Talent Gap, Embrace Diversity](https://www.informationweek.com/big-data/to-solve-your-data-science-talent-gap-embrace-diversity)
 - [Making Data Centers Cool Again](https://www.informationweek.com/it-life/making-data-centers-cool-again)
 - [SAP’s CTO Juergen Mueller Talks Transformation and Evolution](https://www.informationweek.com/cloud/sap-s-cto-juergen-mueller-talks-transformation-and-evolution)
-- [What IT Leaders Should Do Now to Prepare for ESG Standards](https://www.informationweek.com/strategic-cio/what-it-leaders-should-do-now-to-prepare-for-esg-standards)
-- [How to Elevate Your Organization’s Use of Data Analytics](https://www.informationweek.com/big-data/how-to-elevate-your-organization-s-use-of-data-analytics)
-- [In Search of Coding Quality](https://www.informationweek.com/software/in-search-of-coding-quality)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [New Zealand to boost maritime security with Solomon Islands amid China focus on Pacific](https://www.theguardian.com/world/2022/jun/15/new-zealand-to-boost-maritime-security-with-solomon-islands-amid-china-focus-on-pacific)
-- [BTS to take a break as K-pop band members announce ‘hiatus’ to pursue solo work](https://www.theguardian.com/music/2022/jun/15/k-pop-band-bts-to-take-a-break-as-members-pursue-solo-work)
-- [Microsoft to retire Internet Explorer browser and redirect users to Edge](https://www.theguardian.com/technology/2022/jun/15/microsoft-to-retire-internet-explorer-browser-and-redirect-users-to-edge)
-- [Haze Fan: China says Bloomberg staffer released on bail earlier this year](https://www.theguardian.com/media/2022/jun/15/haze-fan-china-says-bloomberg-staffer-released-on-bail-earlier-this-year)
-- [Amber Heard spokesperson denies actor has been cut from Aquaman sequel](https://www.theguardian.com/film/2022/jun/15/amber-heard-spokesperson-denies-actor-has-been-cut-from-aquaman-sequel)
-- [Vanuatu, one of the last Covid hermit nations, to open to tourists after two years](https://www.theguardian.com/world/2022/jun/15/vanuatu-one-of-the-last-covid-hermit-nations-to-open-to-tourists-after-two-years)
-- [Living with long Covid – podcast](https://www.theguardian.com/news/audio/2022/jun/15/living-with-long-covid-podcast)
-- [Hong Kong&#39;s Jumbo Floating Restaurant towed away after 46 years – video](https://www.theguardian.com/world/video/2022/jun/15/hong-kongs-jumbo-floating-restaurant-towed-away-after-46-years-video)
-- [Dom Phillips and Bruno Pereira: police in Brazil arrest second man for ‘alleged murder’](https://www.theguardian.com/world/2022/jun/15/dom-phillips-and-bruno-pereira-police-in-brazil-arrest-second-man)
-- [A brother’s 36-year fight against one of New Zealand’s worst miscarriages of justice](https://www.theguardian.com/world/2022/jun/15/a-brothers-36-year-fight-against-one-of-new-zealands-worst-miscarriages-of-justice)
+- [The disappearance of Dom Phillips and Bruno Pereira – podcast](https://www.theguardian.com/news/audio/2022/jun/16/disappearance-dom-phillips-bruno-pereira-podcast)
+- [Dom Phillips and Bruno Pereira: Brazil police find two bodies in search for missing men](https://www.theguardian.com/world/2022/jun/16/dom-phillips-and-bruno-pereira-police-find-bodies-of-two-men-in-search-for-missing-pair)
+- [Ghislaine Maxwell asks court for sex trafficking sentence of ‘well below’ 20 years](https://www.theguardian.com/us-news/2022/jun/15/ghislaine-maxwell-sex-trafficking-sentence)
+- [Two US volunteers in Ukraine feared taken prisoner by Russia](https://www.theguardian.com/us-news/2022/jun/15/two-us-volunteers-in-ukraine-feared-taken-prisoner-by-russia)
+- [Russia-Ukraine war: what we know on day 113 of the invasion](https://www.theguardian.com/world/2022/jun/16/russia-ukraine-war-what-we-know-on-day-113-of-the-invasion)
+- [‘We won’t survive’: China’s migrant workers fear more lockdowns as Covid threat remains](https://www.theguardian.com/world/2022/jun/16/we-wont-survive-chinas-migrant-workers-fear-more-lockdowns-as-covid-threat-remains)
+- [Biden signs executive order to curb anti-trans laws and conversion therapy](https://www.theguardian.com/us-news/2022/jun/15/biden-executive-order-anti-trans-laws-and-conversion-therapy)
+- [UK food price rises could hit 15% over summer, report says](https://www.theguardian.com/business/2022/jun/16/uk-food-price-rises-inflation-summer-report-ukraine-china-brexit-wheat)
+- [Queen’s ‘seabed rights’ swell to value of £5bn after auction of plots](https://www.theguardian.com/uk-news/2022/jun/16/queen-seabed-rights-swell-value-5bn-auction-windfarm-plots-crown-estate)
+- [Britons not bitterly polarised over trans equality, research finds](https://www.theguardian.com/society/2022/jun/16/britons-not-bitterly-polarised-over-trans-equality-research-finds)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

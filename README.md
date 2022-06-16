@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Startups in Boston](https://www.employbl.com/blog/boston-startups-to-watch-in-2022)
-- [Python for Data Science: A Hands-On Introduction](https://nostarch.com/python-data-science)
-- [DAO just voted to “refund” one of their investors in breach of contract &lpar;thread&rpar;](https://twitter.com/itstimconnors/status/1536734104422522881)
-- [Protecting Microservices](https://betterprogramming.pub/how-to-protect-your-microservices-8d74045061c1)
-- [Air quality worsens as drought forces California growers to burn abandoned crops](https://www.latimes.com/environment/story/2022-06-11/drought-is-fueling-san-joaquin-valley-air-pollution)
-- [How to use Grafana and Prometheus to Rickroll your friends &lpar;or enemies&rpar; &lpar;2021&rpar;](https://grafana.com/blog/2021/07/30/how-to-use-grafana-and-prometheus-to-rickroll-your-friends-or-enemies/)
-- [Being Entitled in Public](https://nick.camp/being-entitled-in-public/)
-- [From Stage 3 Colon Cancer to No Cancer Detected in 4 Months [video]](https://www.youtube.com/watch?v=YzPrxku1x5Y)
-- [Detective Dupont](https://nicolasjuan.bearblog.dev/detective-dupont/)
-- [16-bit RISC-V processor made with carbon nanotubes](https://arstechnica.com/science/2019/08/16-bit-risc-v-processor-made-with-carbon-nanutubes/)
+- [A collection of free SVG loading spinners](https://github.com/n3r4zzurr0/svg-spinners)
+- [Hello](https://news.ycombinator.com/item?id=31762124)
+- [Don&#39;t Be Stoic: Roman Stoicism’s origins show its perniciousness](https://psyche.co/ideas/dont-be-stoic-roman-stoicisms-origins-show-its-perniciousness)
+- [Battle of Blair Mountain](https://en.wikipedia.org/wiki/Battle_of_Blair_Mountain)
+- [Polyfills and Helpers – How to Save Your Bundle Size](https://www.nazha.co/posts/polyfills-and-helpers)
+- [Some Ads Play on Streaming Services Even When the TV Is Off, Study Finds](https://www.wsj.com/articles/some-ads-play-on-streaming-services-even-when-the-tv-is-off-study-finds-11655042401)
+- [Peer Review: Nightmares](https://astralcodexten.substack.com/p/peer-review-nightmares)
+- [Meta&#39;s memo: make FB more like TikTok, recommend posts from unconnected sources](https://www.theverge.com/2022/6/15/23168887/facebook-discovery-engine-redesign-tiktok)
+- [Awesome Window Manager](https://awesomewm.org/)
+- [Ask HN: What is going on with the new YouTube layout?](https://news.ycombinator.com/item?id=31762027)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

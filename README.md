@@ -384,16 +384,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Internet Explorer reaches the end of the line](https://www.infoworld.com/article/3664168/internet-explorer-reaches-the-end-of-the-line.html#tk.rss_all)
+- [Microsoft previews text classification API for ML.NET](https://www.infoworld.com/article/3664108/microsoft-previews-text-classification-api-for-mlnet.html#tk.rss_all)
+- [Kubernetes users struggle with security, Red Hat survey says](https://www.infoworld.com/article/3663734/kubernetes-users-struggle-with-security-red-hat-survey-says.html#tk.rss_all)
+- [Building collaborative apps with Teams Live Share](https://www.infoworld.com/article/3663438/building-collaborative-apps-with-teams-live-share.html#tk.rss_all)
+- [Intro to PyScript: Run Python in your web browser](https://www.infoworld.com/article/3661628/get-started-with-pyscript-the-in-browser-python-by-anaconda.html#tk.rss_all)
 - [Snowflake taps Python to take on Teradata, Google BigQuery, and Amazon Redshift](https://www.infoworld.com/article/3663702/snowflake-taps-python-to-take-on-teradata-google-bigquery-and-amazon-redshift.html#tk.rss_all)
 - [Snowflake switches gears, from data warehouse to application cloud](https://www.infoworld.com/article/3663700/snowflake-switches-gears-from-data-warehouse-to-application-cloud.html#tk.rss_all)
 - [Complexity leads to cloud outages. Here’s the proof](https://www.infoworld.com/article/3663680/complexity-leads-to-cloud-outages-heres-the-proof.html#tk.rss_all)
 - [Software engineering estimates are garbage](https://www.infoworld.com/article/3663508/software-engineering-estimates-are-garbage.html#tk.rss_all)
 - [Visual Studio Code 1.68 identifies deprecated extensions](https://www.infoworld.com/article/3663479/visual-studio-code-168-identifies-deprecated-extensions.html#tk.rss_all)
-- [Detect cloud native security threats with Tracee](https://www.infoworld.com/article/3663048/detect-cloud-native-security-threats-with-tracee.html#tk.rss_all)
-- [Kotlin unveils K2 compiler](https://www.infoworld.com/article/3663519/kotlin-unveils-k2-compiler.html#tk.rss_all)
-- [What is behavioral analytics and when is it important?](https://www.infoworld.com/article/3663433/what-is-behavioral-analytics-and-when-is-it-important.html#tk.rss_all)
-- [Where software development is headed in 2022](https://www.infoworld.com/article/3660642/where-software-development-is-headed-in-2022.html#tk.rss_all)
-- [JDK 19: The new features in Java 19](https://www.infoworld.com/article/3653331/jdk-19-the-new-features-in-java-19.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

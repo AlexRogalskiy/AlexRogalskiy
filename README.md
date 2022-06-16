@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to improve Cybersecurity Awareness Training?](https://www.reddit.com/r/InformationTechnology/comments/vd2jh6/how_to_improve_cybersecurity_awareness_training/)
+- [Enterprise IT Ticketing Software Advice](https://www.reddit.com/r/InformationTechnology/comments/vd16f1/enterprise_it_ticketing_software_advice/)
+- [Job Prospects with a Master degree](https://www.reddit.com/r/InformationTechnology/comments/vd0tpl/job_prospects_with_a_master_degree/)
+- [AWS Solutions Architect Associate &amp; DevOps Engineering](https://www.reddit.com/r/InformationTechnology/comments/vcwl2g/aws_solutions_architect_associate_devops/)
+- [bootcamp scams?](https://www.reddit.com/r/InformationTechnology/comments/vctm6h/bootcamp_scams/)
+- [Looking to get started](https://www.reddit.com/r/InformationTechnology/comments/vcq2qf/looking_to_get_started/)
+- [What certificates from codecademy should I earn as an information systems major?](https://www.reddit.com/r/InformationTechnology/comments/vcnth0/what_certificates_from_codecademy_should_i_earn/)
 - [What OS do you guys use for work? I am starting my journey into my IT degree.](https://www.reddit.com/r/InformationTechnology/comments/vchtf2/what_os_do_you_guys_use_for_work_i_am_starting_my/)
 - [Career question](https://www.reddit.com/r/InformationTechnology/comments/vc57qx/career_question/)
 - [which certs should I pursue](https://www.reddit.com/r/InformationTechnology/comments/vc2596/which_certs_should_i_pursue/)
-- [Hopeless guy needs advice.](https://www.reddit.com/r/InformationTechnology/comments/vc0qyp/hopeless_guy_needs_advice/)
-- [Management server Types](https://www.reddit.com/r/InformationTechnology/comments/vbs6ev/management_server_types/)
-- [DFNN Support](https://www.reddit.com/r/InformationTechnology/comments/vbqkzm/dfnn_support/)
-- [DFNN Transforming Your Business At Scale.](https://www.reddit.com/r/InformationTechnology/comments/vbqdvc/dfnn_transforming_your_business_at_scale/)
-- [Musk Admitted Tesla was overwhelmed by demand for the Model Y in Australia](https://www.reddit.com/r/InformationTechnology/comments/vbns8c/musk_admitted_tesla_was_overwhelmed_by_demand_for/)
-- [Security Threats and Concepts Explained](https://www.reddit.com/r/InformationTechnology/comments/vbjbk7/security_threats_and_concepts_explained/)
-- [A question about running a live test on a new system](https://www.reddit.com/r/InformationTechnology/comments/vb6niz/a_question_about_running_a_live_test_on_a_new/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
-- [IdentityNORTH Summit: Fortier says pandemic has spurred need for digital credential initiative](https://www.itworldcanada.com/article/identitynorth-summit-fortier-says-pandemic-has-spurred-need-for-digital-credential-initiative/488477)
-- [Global Startup Ecosystem Report highlights tech hubs and strengths in North American cities](https://www.itworldcanada.com/article/global-startup-ecosystem-report-highlights-tech-hubs-and-strengths-in-north-american-cities/488426)
-- [Leading the charge for improved electric vehicle infrastructure in rural Ontario](https://www.itworldcanada.com/article/leading-the-charge-for-improved-electric-vehicle-infrastructure-in-rural-ontario/488404)
-- [Designated Canadian firms would have to report cyber breaches under proposed law](https://www.itworldcanada.com/article/designated-canadian-firms-would-have-to-report-cyber-breaches-under-proposed-law/488372)
-- [Coffee Briefing June 14, 2022 – Uber Canada releases 2022 Lost and Found index; YWCA awards; Mastercard expands Girls4Tech; and more](https://www.itworldcanada.com/article/coffee-briefing-june-14-2022-uber-canada-releases-2022-lost-and-found-index-ywca-awards-mastercard-expands-girls4tech-and-more/488204)
-- [Hashtag Trending June 14 – Internet Explorer retires; Coinbase petition; Tesla investigation](https://www.itworldcanada.com/article/hashtag-trending-june-14-internet-explorer-retires-coinbase-petition-tesla-investigation/488260)
-- [Google AI engineer put on leave for violating privacy policy](https://www.itworldcanada.com/article/google-ai-engineer-put-on-leave-for-violating-privacy-policy/488166)
-- [Cyber Security Today, June 13, 2022 – Serious bugs found in a building access control system, ransomware news and more](https://www.itworldcanada.com/article/cyber-security-today-june-13-2022-serious-bugs-found-in-a-building-access-control-system-ransomware-news-and-more/488121)
-- [Hashtag Trending June 13 – Unsatisfactory broadband; GM EV sale; more Meta lawsuits](https://www.itworldcanada.com/article/hashtag-trending-june-13-unsatisfactory-broadband-gm-ev-sale-more-meta-lawsuits/488145)
-- [This week in ransomware – Friday, June 10, 2022](https://www.itworldcanada.com/article/this-week-in-ransomware-friday-june-10-2022/487892)
+- [Cloud computing has Oracle’s results soaring](https://www.itworldcanada.com/article/cloud-computing-has-oracles-results-soaring/488664)
+- [Employees unclear about surveillance in their workplace, new report reveals](https://www.itworldcanada.com/article/employees-unclear-about-surveillance-in-their-workplace-new-report-reveals/487486)
+- [Enterprises want to modernize applications – they’re just not sure how](https://www.itworldcanada.com/article/enterprises-want-to-modernize-applications-theyre-just-not-sure-how/488639)
+- [Rogers launches faster 5G service on 3500MHz mid-band spectrum](https://www.itworldcanada.com/article/rogers-launches-faster-5g-service-on-3500mhz-mid-band-spectrum/488609)
+- [Montreal firm delivers Canada’s first quantum computer for public research](https://www.itworldcanada.com/article/montreal-firm-delivers-canadas-first-quantum-computer-for-public-research/488490)
+- [Mixed reaction to Canada’s proposed cybersecurity law](https://www.itworldcanada.com/article/mixed-reaction-to-canadas-proposed-cybersecurity-law/488573)
+- [Adobe is testing free Photoshop for the web in Canada](https://www.itworldcanada.com/article/adobe-is-testing-free-photoshop-for-the-web-in-canada/488591)
+- [Cyber Security Today, June 15, 2021 –  BlackCat ransomware hits again, a huge DDoS attack and security updates issued](https://www.itworldcanada.com/article/cyber-security-today-june-15-2021-blackcat-ransomware-hits-again-a-huge-ddos-attack-and-security-updates-issued/488500)
+- [CRTC fines Bell $7.5 million over telephone pole feud](https://www.itworldcanada.com/article/crtc-fines-bell-7-5-million-over-telephone-pole-feud/488625)
+- [Hashtag Trending June 15 – EU’s tackles deep fakes; North Carolina’s anti-EV law, Google settles pay equality lawsuit](https://www.itworldcanada.com/article/hashtag-trending-june-15-eus-tackles-deep-fakes-north-carolinas-anti-ev-law-google-settles-pay-equality-lawsuit/488535)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

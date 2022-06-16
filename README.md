@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Is digital ID still the missing link for the UK’s digital economy?](https://www.computerweekly.com/opinion/Is-digital-ID-still-the-missing-link-for-the-UKs-digital-economy)
+- [$2k to access your organisation on the dark web](https://www.computerweekly.com/news/252521553/2k-to-access-your-organisation-on-the-dark-web)
+- [Final Patch Tuesday dogged by concerns over Microsoft vulnerability response](https://www.computerweekly.com/news/252521547/Final-Patch-Tuesday-dogged-by-concerns-over-Microsoft-vulnerability-response)
+- [UK tech job opportunities at 10-year high](https://www.computerweekly.com/news/252521545/UK-tech-job-opportunities-at-10-year-high)
+- [Public sector bodies accused of freezing out SME IT consultancies over IR35 compliance fears](https://www.computerweekly.com/news/252521543/Public-sector-bodies-accused-of-freezing-out-SME-IT-consultancies-over-IR35-compliance-fears)
+- [Security Think Tank: Basic steps to secure your supply chain](https://www.computerweekly.com/opinion/Security-Think-Tank-Basic-steps-to-secure-your-supply-chain)
+- [Looking ahead: How to create a multi-year datacentre capacity plan](https://www.computerweekly.com/feature/Looking-ahead-How-to-create-a-multi-year-datacentre-capacity-plan)
+- [UK needs to upskill to achieve quantum advantage](https://www.computerweekly.com/news/252521492/UK-needs-to-upskill-to-achieve-quantum-advantage)
 - [MS Azure Synapse vulnerability fixed after six-month slog](https://www.computerweekly.com/news/252521500/MS-Azure-Synapse-vulnerability-fixed-after-six-month-slog)
 - [Government data talk to the fore at London Tech Week](https://www.computerweekly.com/news/252521494/Government-data-talk-to-the-fore-at-London-Tech-Week)
-- [Retail’s IT talent search intensifies](https://www.computerweekly.com/feature/Retails-IT-talent-search-intensifies)
-- [IT Sustainability Think Tank: Corporate devices and the circular economy](https://www.computerweekly.com/opinion/IT-Sustainability-Think-Tank-Corporate-devices-and-the-circular-economy)
-- [Unified file and object storage: Three suppliers and their approaches](https://www.computerweekly.com/feature/Unified-file-and-object-storage-Three-suppliers-and-their-approaches)
-- [Managing Apple Macs in the enterprise](https://www.computerweekly.com/ezine/Computer-Weekly/Managing-Apple-Macs-in-the-enterprise)
-- [Podcast: SaaS data protection vulnerability and how to manage it](https://www.computerweekly.com/podcast/Podcast-SaaS-data-protection-vulnerability-and-how-to-manage-it)
-- [Data leaders need to overcome their fears and unlock their creativity](https://www.computerweekly.com/opinion/Data-leaders-need-to-overcome-their-fears-and-unlock-their-creativity)
-- [IT Sustainability Think Tank: Aligning procurement with the principles of the circular economy](https://www.computerweekly.com/opinion/IT-Sustainability-Think-Tank-Aligning-procurement-with-the-principles-of-the-circular-economy)
-- [UK, US prepare to launch PET project](https://www.computerweekly.com/news/252521436/UK-US-prepare-to-launch-PET-project)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

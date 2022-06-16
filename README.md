@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [PC Engine / TurboGrafx-16 Architecture](https://www.copetti.org/writings/consoles/pc-engine/)
-- [Palm OS developer releases source to classic games, 20 years after release](https://www.retrorgb.com/palm-os-developer-releases-source-to-classic-games-20-years-after-release.html)
-- [Thank HN: WhatsApp Ban Reversed](https://news.ycombinator.com/item?id=31748139)
-- [Major water cutbacks loom as shrinking Colorado River nears ‘moment of reckoning](https://www.latimes.com/environment/story/2022-06-14/big-water-cutbacks-ordered-amid-colorado-river-shortage)
-- [Docker on &lpar;rooted&rpar; Android](https://gist.github.com/FreddieOliveira/efe850df7ff3951cb62d74bd770dce27)
-- [Glucosamine significantly reduces risk of lung cancer and lung cancer mortality](https://erj.ersjournals.com/content/59/3/2101399)
-- [The First High-Yield, Sub-Penny Plastic Processor](https://spectrum.ieee.org/plastic-microprocessor)
-- [The hunt for a cluster-killer Erlang bug](https://engineering.klarna.com/the-hunt-for-the-cluster-killer-erlang-bug-81dd0640aa81?gi=e3144c1fcf1b)
-- [Kodable &lpar;YC IK12&rpar; is hiring a full-stack engineer to help us teach kids to code](https://www.indeed.com/jobs?q=Kodable&vjk=cfd80509c01480ac&sc=0fcckey%3A49fe5ce38cf6d5e8%2Cq%3A%3B)
-- [Infants&#39; sense of pain is recognized, finally &lpar;1987&rpar;](https://www.nytimes.com/1987/11/24/science/infants-sense-of-pain-is-recognized-finally.html)
+- [PicnicHealth &lpar;YC S14&rpar; is hiring Product Engineers to transform healthcare data](https://picnichealth.com/career-details?gh_jid=6202435002)
+- [Show HN: IoT device to warn you of a supernova hours before Earth is destroyed](https://www.exaluminal.com/)
+- [How Palo Alto Networks Replaced Kafka with ScyllaDB for Stream Processing](https://www.scylladb.com/2022/06/14/how-palo-alto-networks-replaced-kafka-with-scylladb-for-stream-processing/)
+- [Clap: The New Audio Plug-In Standard](https://u-he.com/community/clap/)
+- [“Crypto Drainer” Template Facilitates Tens of Millions of Dollars in Theft](https://blog.confiant.com/how-one-crypto-drainer-template-facilitates-tens-of-millions-of-dollars-in-theft-66f3794aea4b?gi=b10068d5caa8)
+- [What should you do with stock options during a recession?](https://every.to/p/what-should-you-do-with-your-options-during-a-downturn)
+- [Ancient DNA traces origin of Black Death](https://www.nature.com/articles/d41586-022-01673-4)
+- [Interview with Marc Andreessen on Learning to Love the Humanities, and RSS](https://conversationswithtyler.com/episodes/marc-andreessen/)
+- [CityEngine: Build a Digital Twin of Your City](https://gisgeography.com/cityengine/)
+- [Rarely Seen Paintings by Tolkien Portray a Lush ‘Lord of the Rings’ Landscape](https://www.smithsonianmag.com/smart-news/jrr-tolkiens-estate-publishes-rare-lord-of-the-rings-paintings-and-maps-online-180979674/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
-- [Microsoft promises to recognize Activision Blizzard unions](https://www.computerworld.com/article/3663499/microsoft-promises-to-recognize-activision-blizzard-unions.html#tk.rss_all)
-- [In the new workplace you&#39;ll use Cisco Webex with Apple’s CarPlay](https://www.computerworld.com/article/3663496/cisco-webex-apple-carplay.html#tk.rss_all)
-- [Can a four-day-a-week workweek really work?](https://www.computerworld.com/article/3663451/can-a-four-day-a-week-workweek-really-work.html#tk.rss_all)
-- [What to do if the Mac you need is delayed?](https://www.computerworld.com/article/3663434/what-to-do-if-the-mac-you-need-is-delayed.html#tk.rss_all)
-- [Mozilla launches email for Android devices](https://www.computerworld.com/article/3663452/mozilla-launches-email-for-android-devices.html#tk.rss_all)
-- [Before Patch Tuesday, a to-do list to avoid trouble](https://www.computerworld.com/article/3663518/before-patch-tuesday-a-to-do-list-to-avoid-trouble.html#tk.rss_all)
+- [Merlynn and the promise of human ‘digital twins’](https://www.computerworld.com/article/3664048/merlynn-and-the-promise-of-human-digital-twins.html#tk.rss_all)
+- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
+- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
+- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
+- [Webex boosts admin controls to support hybrid workforces](https://www.computerworld.com/article/3663685/cisco-webex-boosts-admin-controls-to-support-hybrid-workforces.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [How Apple improved enterprise deployments at WWDC](https://www.computerworld.com/article/3663681/how-apple-improved-enterprise-deployments-at-wwdc.html#tk.rss_all)
-- [How to master the diversity hiring challenge](https://www.computerworld.com/article/3663477/how-to-master-the-diversity-hiring-challenge.html#tk.rss_all)
-- [Why young tech workers leave — and what you can do to keep them](https://www.computerworld.com/article/3663431/why-young-tech-workers-leave-and-what-you-can-do-to-keep-them.html#tk.rss_all)
+- [The killer calendar app your Chromebook&#39;s been missing](https://www.computerworld.com/article/3663495/chromebook-calendar-app.html#tk.rss_all)
+- [The death of Internet Explorer: Good riddance to bad rubbish](https://www.computerworld.com/article/3663442/death-of-internet-explorer-good-riddance-to-bad-rubbish.html#tk.rss_all)
+- [Office 2021 vs. Microsoft 365: How to choose](https://www.computerworld.com/article/3205968/office-2021-vs-microsoft-365-office-365-how-to-choose.html#tk.rss_all)
+- [Microsoft promises to recognize Activision Blizzard unions](https://www.computerworld.com/article/3663499/microsoft-promises-to-recognize-activision-blizzard-unions.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

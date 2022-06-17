@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Loan charge MPs want contractor adviser community to participate in latest call for evidence](https://www.computerweekly.com/news/252521605/Loan-Charge-MPs-want-contractor-adviser-community-to-participate-in-latest-call-for-evidence)
+- [TalkTalk hacker Daniel Kelley gives up his black hat for good](https://www.computerweekly.com/news/252521195/TalkTalk-hacker-Daniel-Kelley-gives-up-his-black-hat-for-good)
+- [Privacy-enhancing technologies – myths and misconceptions](https://www.computerweekly.com/opinion/Privacy-enhancing-technologies-myths-and-misconceptions)
+- [Dundee security research centre opens with support from SBRC](https://www.computerweekly.com/news/252521600/Dundee-security-research-centre-opens-with-support-from-SBRC)
+- [IT Sustainability Think Tank: The circular economy in the context of the datacentre](https://www.computerweekly.com/opinion/IT-Sustainability-Think-Tank-The-circular-economy-in-the-context-of-the-datacentre)
+- [Office 365 loophole may give ransomware an easy shot at your files](https://www.computerweekly.com/news/252521599/Office-365-loophole-may-give-ransomware-an-easy-shot-at-your-files)
+- [Security Think Tank: Best practices for boosting supply chain security](https://www.computerweekly.com/opinion/Security-Think-Tank-Best-practices-for-boosting-supply-chain-security)
 - [Is digital ID still the missing link for the UK’s digital economy?](https://www.computerweekly.com/opinion/Is-digital-ID-still-the-missing-link-for-the-UKs-digital-economy)
 - [$2k to access your organisation on the dark web](https://www.computerweekly.com/news/252521553/2k-to-access-your-organisation-on-the-dark-web)
 - [Final Patch Tuesday dogged by concerns over Microsoft vulnerability response](https://www.computerweekly.com/news/252521547/Final-Patch-Tuesday-dogged-by-concerns-over-Microsoft-vulnerability-response)
-- [UK tech job opportunities at 10-year high](https://www.computerweekly.com/news/252521545/UK-tech-job-opportunities-at-10-year-high)
-- [Public sector bodies accused of freezing out SME IT consultancies over IR35 compliance fears](https://www.computerweekly.com/news/252521543/Public-sector-bodies-accused-of-freezing-out-SME-IT-consultancies-over-IR35-compliance-fears)
-- [Security Think Tank: Basic steps to secure your supply chain](https://www.computerweekly.com/opinion/Security-Think-Tank-Basic-steps-to-secure-your-supply-chain)
-- [Looking ahead: How to create a multi-year datacentre capacity plan](https://www.computerweekly.com/feature/Looking-ahead-How-to-create-a-multi-year-datacentre-capacity-plan)
-- [UK needs to upskill to achieve quantum advantage](https://www.computerweekly.com/news/252521492/UK-needs-to-upskill-to-achieve-quantum-advantage)
-- [MS Azure Synapse vulnerability fixed after six-month slog](https://www.computerweekly.com/news/252521500/MS-Azure-Synapse-vulnerability-fixed-after-six-month-slog)
-- [Government data talk to the fore at London Tech Week](https://www.computerweekly.com/news/252521494/Government-data-talk-to-the-fore-at-London-Tech-Week)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

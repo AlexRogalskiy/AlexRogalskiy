@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [The disappearance of Dom Phillips and Bruno Pereira – podcast](https://www.theguardian.com/news/audio/2022/jun/16/disappearance-dom-phillips-bruno-pereira-podcast)
-- [Dom Phillips and Bruno Pereira: Brazil police find two bodies in search for missing men](https://www.theguardian.com/world/2022/jun/16/dom-phillips-and-bruno-pereira-police-find-bodies-of-two-men-in-search-for-missing-pair)
-- [Ghislaine Maxwell asks court for sex trafficking sentence of ‘well below’ 20 years](https://www.theguardian.com/us-news/2022/jun/15/ghislaine-maxwell-sex-trafficking-sentence)
-- [Two US volunteers in Ukraine feared taken prisoner by Russia](https://www.theguardian.com/us-news/2022/jun/15/two-us-volunteers-in-ukraine-feared-taken-prisoner-by-russia)
-- [Russia-Ukraine war: what we know on day 113 of the invasion](https://www.theguardian.com/world/2022/jun/16/russia-ukraine-war-what-we-know-on-day-113-of-the-invasion)
-- [‘We won’t survive’: China’s migrant workers fear more lockdowns as Covid threat remains](https://www.theguardian.com/world/2022/jun/16/we-wont-survive-chinas-migrant-workers-fear-more-lockdowns-as-covid-threat-remains)
-- [Biden signs executive order to curb anti-trans laws and conversion therapy](https://www.theguardian.com/us-news/2022/jun/15/biden-executive-order-anti-trans-laws-and-conversion-therapy)
-- [UK food price rises could hit 15% over summer, report says](https://www.theguardian.com/business/2022/jun/16/uk-food-price-rises-inflation-summer-report-ukraine-china-brexit-wheat)
-- [Queen’s ‘seabed rights’ swell to value of £5bn after auction of plots](https://www.theguardian.com/uk-news/2022/jun/16/queen-seabed-rights-swell-value-5bn-auction-windfarm-plots-crown-estate)
-- [Britons not bitterly polarised over trans equality, research finds](https://www.theguardian.com/society/2022/jun/16/britons-not-bitterly-polarised-over-trans-equality-research-finds)
+- [NBA finals Game 6: Golden State Warriors v Boston Celtics – live!](https://www.theguardian.com/sport/live/2022/jun/16/nba-finals-game-6-golden-state-warriors-v-boston-celtics-live-latest-score)
+- [Asia markets plunge again as flurry of interest rate hikes fuels recession fears](https://www.theguardian.com/business/2022/jun/17/asia-markets-plunge-again-as-flurry-of-interest-rate-hikes-fuels-recession-fears)
+- [‘This is another pandemic’: a female survivor of domestic abuse in China speaks out](https://www.theguardian.com/world/2022/jun/17/this-is-another-pandemic-female-survivor-domestic-abuse-china-speaks-out)
+- [Abba avatars: will technology change the way we see gigs? | Podcast](https://www.theguardian.com/news/audio/2022/jun/17/abba-voyage-digital-avatars-technology-concerts-podcast)
+- [Shooting at an Alabama church leaves one dead and two injured](https://www.theguardian.com/us-news/2022/jun/16/alabama-church-shooting-st-stephens)
+- [Russia-Ukraine war: what we know on day 114 of the invasion](https://www.theguardian.com/world/2022/jun/17/russia-ukraine-war-what-we-know-on-day-114-of-the-invasion)
+- [Hologram Zelenskiy promises Ukraine will defeat ‘the empire’](https://www.theguardian.com/technology/2022/jun/17/hologram-zelenskiy-promises-ukraine-will-defeat-the-empire)
+- [‘I want to do it again’: Japan’s octogenarian sailor on the joy of crossing the Pacific solo](https://www.theguardian.com/world/2022/jun/17/i-want-to-do-it-again-japans-octogenarian-sailor-on-the-joy-of-crossing-the-pacific-solo)
+- [Ministers creating ‘hostile environment’ for protesters, say MPs](https://www.theguardian.com/world/2022/jun/17/ministers-creating-hostile-environment-for-protesters-say-mps)
+- [UK not on track to cut air pollution and is not informing public on air quality, NAO says](https://www.theguardian.com/environment/2022/jun/17/uk-not-on-track-to-cut-air-pollution-and-is-not-informing-public-on-air-quality-nao-says)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

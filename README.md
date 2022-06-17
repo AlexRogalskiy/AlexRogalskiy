@@ -414,6 +414,8 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Questions about internships](https://www.reddit.com/r/InformationTechnology/comments/ve213e/questions_about_internships/)
+- [I&#39;m sorry is it normal for catchall emails to always show an error message when trying to send an email to it](https://www.reddit.com/r/InformationTechnology/comments/vdi1se/im_sorry_is_it_normal_for_catchall_emails_to/)
 - [How to improve Cybersecurity Awareness Training?](https://www.reddit.com/r/InformationTechnology/comments/vd2jh6/how_to_improve_cybersecurity_awareness_training/)
 - [Enterprise IT Ticketing Software Advice](https://www.reddit.com/r/InformationTechnology/comments/vd16f1/enterprise_it_ticketing_software_advice/)
 - [Job Prospects with a Master degree](https://www.reddit.com/r/InformationTechnology/comments/vd0tpl/job_prospects_with_a_master_degree/)
@@ -422,8 +424,6 @@
 - [Looking to get started](https://www.reddit.com/r/InformationTechnology/comments/vcq2qf/looking_to_get_started/)
 - [What certificates from codecademy should I earn as an information systems major?](https://www.reddit.com/r/InformationTechnology/comments/vcnth0/what_certificates_from_codecademy_should_i_earn/)
 - [What OS do you guys use for work? I am starting my journey into my IT degree.](https://www.reddit.com/r/InformationTechnology/comments/vchtf2/what_os_do_you_guys_use_for_work_i_am_starting_my/)
-- [Career question](https://www.reddit.com/r/InformationTechnology/comments/vc57qx/career_question/)
-- [which certs should I pursue](https://www.reddit.com/r/InformationTechnology/comments/vc2596/which_certs_should_i_pursue/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

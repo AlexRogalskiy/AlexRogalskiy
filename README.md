@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [A collection of free SVG loading spinners](https://github.com/n3r4zzurr0/svg-spinners)
-- [Hello](https://news.ycombinator.com/item?id=31762124)
-- [Don&#39;t Be Stoic: Roman Stoicism’s origins show its perniciousness](https://psyche.co/ideas/dont-be-stoic-roman-stoicisms-origins-show-its-perniciousness)
-- [Battle of Blair Mountain](https://en.wikipedia.org/wiki/Battle_of_Blair_Mountain)
-- [Polyfills and Helpers – How to Save Your Bundle Size](https://www.nazha.co/posts/polyfills-and-helpers)
-- [Some Ads Play on Streaming Services Even When the TV Is Off, Study Finds](https://www.wsj.com/articles/some-ads-play-on-streaming-services-even-when-the-tv-is-off-study-finds-11655042401)
-- [Peer Review: Nightmares](https://astralcodexten.substack.com/p/peer-review-nightmares)
-- [Meta&#39;s memo: make FB more like TikTok, recommend posts from unconnected sources](https://www.theverge.com/2022/6/15/23168887/facebook-discovery-engine-redesign-tiktok)
-- [Awesome Window Manager](https://awesomewm.org/)
-- [Ask HN: What is going on with the new YouTube layout?](https://news.ycombinator.com/item?id=31762027)
+- [EPA: &#39;Forever chemicals&#39; pose risk even at low levels](https://apnews.com/article/science-climate-and-environment-government-politics-1997041096d6fc84edde97cf16f72bce)
+- [GitHub is tough for new commers](https://news.ycombinator.com/item?id=31773755)
+- [Equivalents of the word ‘thingamajig’ in other languages](https://twitter.com/britishlibrary/status/1537356238853484544)
+- [Marcin Wichary: I visited three different Dutch computer museums last week](https://twitter.com/mwichary/status/1537628666137415682)
+- [Bill Gates says NFTs are ‘100 percent based on greater fool theory’](https://www.theverge.com/2022/6/15/23169008/bill-gates-cryptocurrency-nft-greater-fool-theory)
+- [Silicon Photonics: The Next Silicon Revolution?](https://www.youtube.com/watch?v=29aTqLvRia8)
+- [S2 Underground: June 16th Update [video]](https://www.youtube.com/watch?v=9R7bwfM-K-0)
+- [Is Walking Cardio?](https://www.livescience.com/is-walking-cardio)
+- [Of War and Electric Death: A Brief History of Push-Button Anxiety](https://thereader.mitpress.mit.edu/of-war-and-electric-death-a-brief-history-of-push-button-anxiety/)
+- [Where does the wealth go when asset prices go down? It vanishes into nothingness](https://noahpinion.substack.com/p/where-does-the-wealth-go-when-asset)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

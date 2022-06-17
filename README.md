@@ -369,6 +369,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Cyber Resiliency: What It Is and How To Build It](https://www.informationweek.com/strategic-cio/cyber-resiliency-what-it-is-and-how-to-build-it)
+- [Ethical AI Lapses Happen When No One Is Watching](https://www.informationweek.com/big-data/ethical-ai-lapses-happen-when-no-one-is-watching)
 - [Introducing the Two-Minute Toolkit Podcast](https://www.informationweek.com/strategic-cio/introducing-the-two-minute-toolkit-podcast)
 - [CIO Moves: Deere &amp; Co&#39;s New CIO Talks Strategy, Trends, and Career Paths](https://www.informationweek.com/strategic-cio/cio-moves-deere-co-s-new-cio-talks-strategy-trends-and-career-paths)
 - [How to Create New Business Value Through a Platform Model](https://www.informationweek.com/strategic-cio/how-to-create-new-business-value-through-a-platform-model)
@@ -377,8 +379,6 @@
 - [How to Make Hybrid Work Even More Inclusive](https://www.informationweek.com/strategic-cio/how-to-make-hybrid-work-even-more-inclusive)
 - [How Digital Twins &amp; Data Analytics Power Sustainability](https://www.informationweek.com/big-data/how-digital-twins-data-analytics-power-sustainability)
 - [To Solve Your Data Science Talent Gap, Embrace Diversity](https://www.informationweek.com/big-data/to-solve-your-data-science-talent-gap-embrace-diversity)
-- [Making Data Centers Cool Again](https://www.informationweek.com/it-life/making-data-centers-cool-again)
-- [SAP’s CTO Juergen Mueller Talks Transformation and Evolution](https://www.informationweek.com/cloud/sap-s-cto-juergen-mueller-talks-transformation-and-evolution)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

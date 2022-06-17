@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Meta has built a new language AI, and is allowing researchers to study it](https://www.itworldcanada.com/article/meta-has-built-a-new-language-ai-and-is-allowing-researchers-to-study-it/485387)
+- [Canadians’ satisfaction with their banks and credit cards apps declining, study reveals](https://www.itworldcanada.com/article/canadians-satisfaction-with-their-banks-and-credit-cards-apps-declining-study-reveals/488668)
+- [B.C.’s CIO says verifiable credentials key to creation of national digital strategy](https://www.itworldcanada.com/article/b-c-s-cio-says-verifiable-credentials-key-to-creation-of-national-digital-strategy/488677)
+- [Breaking News: Government files latest attempt at privacy legislation reform](https://www.itworldcanada.com/article/breaking-news-government-files-latest-attempt-at-privacy-legislation-reform/488771)
+- [Hashtag Trending June 16 – Ethereum mining unprofitable; Firefox’s Total Cookie Protection feature; Bill Gates is not a fan of NFT’s](https://www.itworldcanada.com/article/hashtag-trending-june-16-ethereum-mining-unprofitable-firefoxs-total-cookie-protection-feature-bill-gates-is-not-a-fan-of-nfts/488752)
 - [Cloud computing has Oracle’s results soaring](https://www.itworldcanada.com/article/cloud-computing-has-oracles-results-soaring/488664)
 - [Employees unclear about surveillance in their workplace, new report reveals](https://www.itworldcanada.com/article/employees-unclear-about-surveillance-in-their-workplace-new-report-reveals/487486)
+- [CRTC fines Bell $7.5 million over telephone pole feud](https://www.itworldcanada.com/article/crtc-fines-bell-7-5-million-over-telephone-pole-feud/488625)
 - [Enterprises want to modernize applications – they’re just not sure how](https://www.itworldcanada.com/article/enterprises-want-to-modernize-applications-theyre-just-not-sure-how/488639)
 - [Rogers launches faster 5G service on 3500MHz mid-band spectrum](https://www.itworldcanada.com/article/rogers-launches-faster-5g-service-on-3500mhz-mid-band-spectrum/488609)
-- [Montreal firm delivers Canada’s first quantum computer for public research](https://www.itworldcanada.com/article/montreal-firm-delivers-canadas-first-quantum-computer-for-public-research/488490)
-- [Mixed reaction to Canada’s proposed cybersecurity law](https://www.itworldcanada.com/article/mixed-reaction-to-canadas-proposed-cybersecurity-law/488573)
-- [Adobe is testing free Photoshop for the web in Canada](https://www.itworldcanada.com/article/adobe-is-testing-free-photoshop-for-the-web-in-canada/488591)
-- [Cyber Security Today, June 15, 2021 –  BlackCat ransomware hits again, a huge DDoS attack and security updates issued](https://www.itworldcanada.com/article/cyber-security-today-june-15-2021-blackcat-ransomware-hits-again-a-huge-ddos-attack-and-security-updates-issued/488500)
-- [CRTC fines Bell $7.5 million over telephone pole feud](https://www.itworldcanada.com/article/crtc-fines-bell-7-5-million-over-telephone-pole-feud/488625)
-- [Hashtag Trending June 15 – EU’s tackles deep fakes; North Carolina’s anti-EV law, Google settles pay equality lawsuit](https://www.itworldcanada.com/article/hashtag-trending-june-15-eus-tackles-deep-fakes-north-carolinas-anti-ev-law-google-settles-pay-equality-lawsuit/488535)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

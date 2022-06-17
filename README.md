@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [PicnicHealth &lpar;YC S14&rpar; is hiring Product Engineers to transform healthcare data](https://picnichealth.com/career-details?gh_jid=6202435002)
-- [Show HN: IoT device to warn you of a supernova hours before Earth is destroyed](https://www.exaluminal.com/)
-- [How Palo Alto Networks Replaced Kafka with ScyllaDB for Stream Processing](https://www.scylladb.com/2022/06/14/how-palo-alto-networks-replaced-kafka-with-scylladb-for-stream-processing/)
-- [Clap: The New Audio Plug-In Standard](https://u-he.com/community/clap/)
-- [“Crypto Drainer” Template Facilitates Tens of Millions of Dollars in Theft](https://blog.confiant.com/how-one-crypto-drainer-template-facilitates-tens-of-millions-of-dollars-in-theft-66f3794aea4b?gi=b10068d5caa8)
-- [What should you do with stock options during a recession?](https://every.to/p/what-should-you-do-with-your-options-during-a-downturn)
-- [Ancient DNA traces origin of Black Death](https://www.nature.com/articles/d41586-022-01673-4)
-- [Interview with Marc Andreessen on Learning to Love the Humanities, and RSS](https://conversationswithtyler.com/episodes/marc-andreessen/)
-- [CityEngine: Build a Digital Twin of Your City](https://gisgeography.com/cityengine/)
-- [Rarely Seen Paintings by Tolkien Portray a Lush ‘Lord of the Rings’ Landscape](https://www.smithsonianmag.com/smart-news/jrr-tolkiens-estate-publishes-rare-lord-of-the-rings-paintings-and-maps-online-180979674/)
+- [The Privatized Internet Has Failed Us](https://jacobin.com/2022/06/internet-privatization-profit-centralization-democracy)
+- [Why am I no longer qualified to be a Brex customer?](https://www.brex.com/support/why-am-i-no-longer-qualified-to-be-a-brex-customer/)
+- [CockroachDB&#39;s Consistency Model](https://www.cockroachlabs.com/blog/consistency-model/)
+- [Calling for Antitrust Reform](https://blog.mozilla.org/en/mozilla/calling-for-antitrust-reform/)
+- [Make enterprise features open source](https://github.com/citusdata/citus/commit/184c7c0bce6b7bca61d25b828855fac5fba64816)
+- [macOS screenshot tricks to impress your co-workers](https://sal.dev/macos/macos-screenshotting-tips-and-tricks/)
+- [Cool Desktops Don’t Change](https://tylercipriani.com/blog/2022/06/15/choose-boring-desktop-technology/)
+- [GitHub waited 3 months to notify about potential compromise](https://news.ycombinator.com/item?id=31769520)
+- [The computers are fast, but you don&#39;t know it](http://shvbsle.in/computers-are-fast-but-you-dont-know-it-p1/)
+- [The Animated Elliptic Curve](https://curves.ulfheim.net/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

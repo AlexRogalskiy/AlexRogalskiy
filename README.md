@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Microsoft delivers solid Windows-focused updates for June&#39;s Patch Tuesday](https://www.computerworld.com/article/3664171/microsoft-delivers-solid-windows-focused-updates-for-junes-patch-tuesday.html#tk.rss_all)
+- [How iPhone users with Windows PCs can get &#39;Continuity Camera&#39; features now](https://www.computerworld.com/article/3664335/how-iphone-users-with-windows-pcs-can-get-continuity-camera-features-now.html#tk.rss_all)
+- [Will COVID&#39;s legacy be a healthier workplace?](https://www.computerworld.com/article/3664068/will-covids-legacy-be-a-healthier-workplace.html#tk.rss_all)
+- [Big tech platforms sign up to the EU Commission’s new Code of Practice on Disinformation](https://www.computerworld.com/article/3664135/big-tech-platforms-sign-up-to-the-eu-commission-s-new-code-of-practice-on-disinformation.html#tk.rss_all)
+- [7 reasons to stock up on day passes to a co-working space](https://www.computerworld.com/article/3664110/7-reasons-to-stock-up-on-day-passes-to-a-co-working-space.html#tk.rss_all)
+- [Apple offers devs two useful enterprise security tools](https://www.computerworld.com/article/3664053/apple-offers-devs-two-useful-enterprise-security-tools.html#tk.rss_all)
+- [12 handy hidden tricks for Google Calendar on Android](https://www.computerworld.com/article/3390992/google-calendar-android-features.html#tk.rss_all)
+- [What the EU Qualcomm ruling means for big tech antitrust efforts](https://www.computerworld.com/article/3664408/what-the-eu-qualcomm-ruling-means-for-big-tech-antitrust-efforts.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [The state of Apple&#39;s laptops in 2022](https://www.computerworld.com/article/3664091/the-state-of-apples-laptops-in-2022.html#tk.rss_all)
-- [6 things they don&#39;t tell you about digital nomad living](https://www.computerworld.com/article/3663480/6-things-they-dont-tell-you-about-digital-nomad-living.html#tk.rss_all)
-- [Jamf CIO: Apple will be the No. 1 enterprise endpoint by 2030](https://www.computerworld.com/article/3664049/jamf-cio-apple-will-be-the-no-1-enterprise-endpoint-by-2030.html#tk.rss_all)
-- [Microsoft launches new AI-powered Viva Sales tool](https://www.computerworld.com/article/3664089/microsoft-launches-new-ai-powered-viva-sales-tool.html#tk.rss_all)
-- [How to get a job in healthcare IT](https://www.computerworld.com/article/3663674/how-to-get-a-job-in-healthcare-it.html#tk.rss_all)
-- [&#39;Sign in with Apple&#39; comes to the enterprise](https://www.computerworld.com/article/3663481/sign-in-with-apple-comes-to-the-enterprise.html#tk.rss_all)
-- [Merlynn and the promise of human ‘digital twins’](https://www.computerworld.com/article/3664048/merlynn-and-the-promise-of-human-digital-twins.html#tk.rss_all)
-- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
-- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

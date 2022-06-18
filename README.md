@@ -414,7 +414,9 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Questions about internships](https://www.reddit.com/r/InformationTechnology/comments/ve213e/questions_about_internships/)
+- [Company disabled USB&#39;s and blocked all online storage](https://www.reddit.com/r/InformationTechnology/comments/vestrj/company_disabled_usbs_and_blocked_all_online/)
+- [Tips for transitioning from Help Desk to a Testing Role](https://www.reddit.com/r/InformationTechnology/comments/ve88tb/tips_for_transitioning_from_help_desk_to_a/)
+- [Charles Sturt University - Graduate Certificate of IT](https://www.reddit.com/r/InformationTechnology/comments/ve4pq2/charles_sturt_university_graduate_certificate_of/)
 - [I&#39;m sorry is it normal for catchall emails to always show an error message when trying to send an email to it](https://www.reddit.com/r/InformationTechnology/comments/vdi1se/im_sorry_is_it_normal_for_catchall_emails_to/)
 - [How to improve Cybersecurity Awareness Training?](https://www.reddit.com/r/InformationTechnology/comments/vd2jh6/how_to_improve_cybersecurity_awareness_training/)
 - [Enterprise IT Ticketing Software Advice](https://www.reddit.com/r/InformationTechnology/comments/vd16f1/enterprise_it_ticketing_software_advice/)
@@ -422,8 +424,6 @@
 - [AWS Solutions Architect Associate &amp; DevOps Engineering](https://www.reddit.com/r/InformationTechnology/comments/vcwl2g/aws_solutions_architect_associate_devops/)
 - [bootcamp scams?](https://www.reddit.com/r/InformationTechnology/comments/vctm6h/bootcamp_scams/)
 - [Looking to get started](https://www.reddit.com/r/InformationTechnology/comments/vcq2qf/looking_to_get_started/)
-- [What certificates from codecademy should I earn as an information systems major?](https://www.reddit.com/r/InformationTechnology/comments/vcnth0/what_certificates_from_codecademy_should_i_earn/)
-- [What OS do you guys use for work? I am starting my journey into my IT degree.](https://www.reddit.com/r/InformationTechnology/comments/vchtf2/what_os_do_you_guys_use_for_work_i_am_starting_my/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

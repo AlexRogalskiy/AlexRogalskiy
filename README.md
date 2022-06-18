@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
-- [Meta has built a new language AI, and is allowing researchers to study it](https://www.itworldcanada.com/article/meta-has-built-a-new-language-ai-and-is-allowing-researchers-to-study-it/485387)
-- [Canadians’ satisfaction with their banks and credit cards apps declining, study reveals](https://www.itworldcanada.com/article/canadians-satisfaction-with-their-banks-and-credit-cards-apps-declining-study-reveals/488668)
-- [B.C.’s CIO says verifiable credentials key to creation of national digital strategy](https://www.itworldcanada.com/article/b-c-s-cio-says-verifiable-credentials-key-to-creation-of-national-digital-strategy/488677)
-- [Breaking News: Government files latest attempt at privacy legislation reform](https://www.itworldcanada.com/article/breaking-news-government-files-latest-attempt-at-privacy-legislation-reform/488771)
-- [Hashtag Trending June 16 – Ethereum mining unprofitable; Firefox’s Total Cookie Protection feature; Bill Gates is not a fan of NFT’s](https://www.itworldcanada.com/article/hashtag-trending-june-16-ethereum-mining-unprofitable-firefoxs-total-cookie-protection-feature-bill-gates-is-not-a-fan-of-nfts/488752)
-- [Cloud computing has Oracle’s results soaring](https://www.itworldcanada.com/article/cloud-computing-has-oracles-results-soaring/488664)
-- [Employees unclear about surveillance in their workplace, new report reveals](https://www.itworldcanada.com/article/employees-unclear-about-surveillance-in-their-workplace-new-report-reveals/487486)
-- [CRTC fines Bell $7.5 million over telephone pole feud](https://www.itworldcanada.com/article/crtc-fines-bell-7-5-million-over-telephone-pole-feud/488625)
-- [Enterprises want to modernize applications – they’re just not sure how](https://www.itworldcanada.com/article/enterprises-want-to-modernize-applications-theyre-just-not-sure-how/488639)
-- [Rogers launches faster 5G service on 3500MHz mid-band spectrum](https://www.itworldcanada.com/article/rogers-launches-faster-5g-service-on-3500mhz-mid-band-spectrum/488609)
+- [This week in ransomware – Friday, June 17, 2022](https://www.itworldcanada.com/article/this-week-in-ransomware-friday-june-17-2022/489102)
+- [Electricity 4.0: Powering Schneider’s global net-zero vision](https://www.itworldcanada.com/article/electricity-4-0-powering-schneiders-global-net-zero-vision/489069)
+- [Uber lets you reserve a ride from airports 30 days in advance](https://www.itworldcanada.com/article/uber-lets-you-reserve-a-ride-from-airports-30-days-in-advance/489052)
+- [Government of Canada invests over $3 million to support international tech entrepreneurs in southern Ontario](https://www.itworldcanada.com/article/government-of-canada-invests-over-3-million-to-support-international-tech-entrepreneurs-in-southern-ontario/489050)
+- [Cyber Security Today, Week in Review for Friday June 17, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-june-17-2022/488885)
+- [Canada’s COVID Alert app ends in failure](https://www.itworldcanada.com/article/canadas-covid-alert-app-retires-in-failure/489033)
+- [Microsoft announces Viva Sales to capture data for CRMs](https://www.itworldcanada.com/article/microsoft-announces-viva-sales-to-capture-data-for-crms/488941)
+- [Bell announces 5G+ service on mid-band spectrum, rollout soon](https://www.itworldcanada.com/article/bell-announces-5g-service-on-mid-band-spectrum-rollout-soon/488989)
+- [Cyber Security Today, June 17, 2022 – Ransomware could hit Microsoft 365 files, a warning to web developers and more](https://www.itworldcanada.com/article/cyber-security-today-june-17-2022-ransomware-could-hit-microsoft-365-files-a-warning-to-web-developers-and-more/488856)
+- [Hashtag Trending June 17 – Musk, Tesla and SpaceX sued; Health and Location Data Protection Act; iPhone users could get payouts in legal action](https://www.itworldcanada.com/article/hashtag-trending-june-17-musk-tesla-and-spacex-sued-health-and-location-data-protection-act-iphone-users-could-get-payouts-in-legal-action/488970)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

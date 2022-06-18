@@ -369,6 +369,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Bringing Your IT Staff Back to the Office](https://www.informationweek.com/it-life/bringing-your-it-staff-back-to-the-office)
+- [Cloud-Native Security Best Practices for Evolving Cloud Environments](https://www.informationweek.com/cloud/cloud-native-security-best-practices-for-evolving-cloud-environments)
 - [Cyber Resiliency: What It Is and How To Build It](https://www.informationweek.com/strategic-cio/cyber-resiliency-what-it-is-and-how-to-build-it)
 - [Ethical AI Lapses Happen When No One Is Watching](https://www.informationweek.com/big-data/ethical-ai-lapses-happen-when-no-one-is-watching)
 - [Introducing the Two-Minute Toolkit Podcast](https://www.informationweek.com/strategic-cio/introducing-the-two-minute-toolkit-podcast)
@@ -377,8 +379,6 @@
 - [Top 2022 IT Certifications to Advance Your Career](https://www.informationweek.com/it-life/top-2022-it-certifications-to-advance-your-career)
 - [First Responders Get Tech Help from AWS Edge Devices](https://www.informationweek.com/cloud/first-responders-get-tech-help-from-aws-edge-devices)
 - [How to Make Hybrid Work Even More Inclusive](https://www.informationweek.com/strategic-cio/how-to-make-hybrid-work-even-more-inclusive)
-- [How Digital Twins &amp; Data Analytics Power Sustainability](https://www.informationweek.com/big-data/how-digital-twins-data-analytics-power-sustainability)
-- [To Solve Your Data Science Talent Gap, Embrace Diversity](https://www.informationweek.com/big-data/to-solve-your-data-science-talent-gap-embrace-diversity)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

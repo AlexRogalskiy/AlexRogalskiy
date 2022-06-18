@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The Privatized Internet Has Failed Us](https://jacobin.com/2022/06/internet-privatization-profit-centralization-democracy)
-- [Why am I no longer qualified to be a Brex customer?](https://www.brex.com/support/why-am-i-no-longer-qualified-to-be-a-brex-customer/)
-- [CockroachDB&#39;s Consistency Model](https://www.cockroachlabs.com/blog/consistency-model/)
-- [Calling for Antitrust Reform](https://blog.mozilla.org/en/mozilla/calling-for-antitrust-reform/)
-- [Make enterprise features open source](https://github.com/citusdata/citus/commit/184c7c0bce6b7bca61d25b828855fac5fba64816)
-- [macOS screenshot tricks to impress your co-workers](https://sal.dev/macos/macos-screenshotting-tips-and-tricks/)
-- [Cool Desktops Don’t Change](https://tylercipriani.com/blog/2022/06/15/choose-boring-desktop-technology/)
-- [GitHub waited 3 months to notify about potential compromise](https://news.ycombinator.com/item?id=31769520)
-- [The computers are fast, but you don&#39;t know it](http://shvbsle.in/computers-are-fast-but-you-dont-know-it-p1/)
-- [The Animated Elliptic Curve](https://curves.ulfheim.net/)
+- [Vale: Fast, safe, and easy programming language](https://vale.dev/)
+- [Show HN: Unsubscan – Free and offline mailing list unsubscription tool](https://github.com/LGUG2Z/unsubscan)
+- [Littr – Link aggregator inspired by Reddit and HN using ActivityPub federation](https://littr.me/)
+- [Identify Birds by Their Chirp](https://merlin.allaboutbirds.org/)
+- [Fyne, a cross-platform GUI toolkit written in Go](https://fyne.io)
+- [Recently discovered drawings for Statue of Liberty hint at a last-minute change](https://www.smithsonianmag.com/history/original-drawings-statue-liberty-discovered-180974618/)
+- [Show HN: A central bank simulator game with a realistic economic model](https://benoitessiambre.com/macro.html)
+- [Online privacy: to what extent should you try to go dark?](https://cyb3rsecurity.tips/p/-online-privacy-to-what-extent-should)
+- [Laddering a Chimney [video]](https://www.youtube.com/watch?v=E-a27xwcLfU)
+- [Skio &lpar;YC S20&rpar; is hiring in NYC](https://skio.com/careers/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

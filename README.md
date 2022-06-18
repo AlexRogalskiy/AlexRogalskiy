@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Tech sector sustainability efforts need full ecosystem approach](https://www.computerweekly.com/news/252521657/Tech-sector-sustainability-efforts-need-full-ecosystem-approach)
+- [Data gravity: What is it and how to manage it](https://www.computerweekly.com/feature/Data-gravity-What-is-it-and-how-to-manage-it)
+- [Governance and progression of AI in the UK](https://www.computerweekly.com/opinion/Governance-and-progression-of-AI-in-the-UK)
+- [What the EU’s content-filtering rules could mean for UK tech](https://www.computerweekly.com/feature/What-the-EUs-content-filtering-rules-could-mean-for-UK-tech)
+- [Government responds to Data Reform Bill consultation](https://www.computerweekly.com/news/252521645/Government-responds-to-Data-Reform-Bill-consultation)
+- [Consider governance, coordination and risk to secure supply chain](https://www.computerweekly.com/opinion/Consider-governance-coordination-and-risk-to-secure-supply-chain)
+- [MoD sets out strategy to develop military AI with private sector](https://www.computerweekly.com/news/252521624/MoD-sets-out-strategy-to-develop-military-AI-with-private-sector)
 - [Loan charge MPs want contractor adviser community to participate in latest call for evidence](https://www.computerweekly.com/news/252521605/Loan-Charge-MPs-want-contractor-adviser-community-to-participate-in-latest-call-for-evidence)
 - [TalkTalk hacker Daniel Kelley gives up his black hat for good](https://www.computerweekly.com/news/252521195/TalkTalk-hacker-Daniel-Kelley-gives-up-his-black-hat-for-good)
 - [Privacy-enhancing technologies – myths and misconceptions](https://www.computerweekly.com/opinion/Privacy-enhancing-technologies-myths-and-misconceptions)
-- [Dundee security research centre opens with support from SBRC](https://www.computerweekly.com/news/252521600/Dundee-security-research-centre-opens-with-support-from-SBRC)
-- [IT Sustainability Think Tank: The circular economy in the context of the datacentre](https://www.computerweekly.com/opinion/IT-Sustainability-Think-Tank-The-circular-economy-in-the-context-of-the-datacentre)
-- [Office 365 loophole may give ransomware an easy shot at your files](https://www.computerweekly.com/news/252521599/Office-365-loophole-may-give-ransomware-an-easy-shot-at-your-files)
-- [Security Think Tank: Best practices for boosting supply chain security](https://www.computerweekly.com/opinion/Security-Think-Tank-Best-practices-for-boosting-supply-chain-security)
-- [Is digital ID still the missing link for the UK’s digital economy?](https://www.computerweekly.com/opinion/Is-digital-ID-still-the-missing-link-for-the-UKs-digital-economy)
-- [$2k to access your organisation on the dark web](https://www.computerweekly.com/news/252521553/2k-to-access-your-organisation-on-the-dark-web)
-- [Final Patch Tuesday dogged by concerns over Microsoft vulnerability response](https://www.computerweekly.com/news/252521547/Final-Patch-Tuesday-dogged-by-concerns-over-Microsoft-vulnerability-response)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

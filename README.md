@@ -384,6 +384,9 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [C# extension for Visual Studio Code set for LSP overhaul](https://www.infoworld.com/article/3664169/c-extension-for-visual-studio-code-set-for-lsp-overhaul.html#tk.rss_all)
+- [Migration to the cloud may be slowing down](https://www.infoworld.com/article/3664109/migration-to-the-cloud-may-be-slowing-down.html#tk.rss_all)
+- [What is Podman? The container engine replacing Docker](https://www.infoworld.com/article/3663672/what-is-podman-and-will-it-replace-docker.html#tk.rss_all)
 - [Aerospike partners with Starburst to jump on the SQL bandwagon](https://www.infoworld.com/article/3664329/aerospike-partners-with-starburst-to-join-the-sql-bandwagon.html#tk.rss_all)
 - [Okta’s Matt Raible: How I became a Java hipster](https://www.infoworld.com/article/3663677/oktas-matt-raible-how-i-became-a-java-hipster.html#tk.rss_all)
 - [How to implement IP whitelists in ASP.NET Core 6](https://www.infoworld.com/article/3663443/how-to-implement-ip-whitelists-in-aspnet-core-6.html#tk.rss_all)
@@ -391,9 +394,6 @@
 - [Microsoft previews text classification API for ML.NET](https://www.infoworld.com/article/3664108/microsoft-previews-text-classification-api-for-mlnet.html#tk.rss_all)
 - [Kubernetes users struggle with security, Red Hat survey says](https://www.infoworld.com/article/3663734/kubernetes-users-struggle-with-security-red-hat-survey-says.html#tk.rss_all)
 - [Building collaborative apps with Teams Live Share](https://www.infoworld.com/article/3663438/building-collaborative-apps-with-teams-live-share.html#tk.rss_all)
-- [Intro to PyScript: Run Python in your web browser](https://www.infoworld.com/article/3661628/get-started-with-pyscript-the-in-browser-python-by-anaconda.html#tk.rss_all)
-- [Snowflake taps Python to take on Teradata, Google BigQuery, and Amazon Redshift](https://www.infoworld.com/article/3663702/snowflake-taps-python-to-take-on-teradata-google-bigquery-and-amazon-redshift.html#tk.rss_all)
-- [Snowflake switches gears, from data warehouse to application cloud](https://www.infoworld.com/article/3663700/snowflake-switches-gears-from-data-warehouse-to-application-cloud.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

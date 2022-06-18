@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [EPA: &#39;Forever chemicals&#39; pose risk even at low levels](https://apnews.com/article/science-climate-and-environment-government-politics-1997041096d6fc84edde97cf16f72bce)
-- [GitHub is tough for new commers](https://news.ycombinator.com/item?id=31773755)
-- [Equivalents of the word ‘thingamajig’ in other languages](https://twitter.com/britishlibrary/status/1537356238853484544)
-- [Marcin Wichary: I visited three different Dutch computer museums last week](https://twitter.com/mwichary/status/1537628666137415682)
-- [Bill Gates says NFTs are ‘100 percent based on greater fool theory’](https://www.theverge.com/2022/6/15/23169008/bill-gates-cryptocurrency-nft-greater-fool-theory)
-- [Silicon Photonics: The Next Silicon Revolution?](https://www.youtube.com/watch?v=29aTqLvRia8)
-- [S2 Underground: June 16th Update [video]](https://www.youtube.com/watch?v=9R7bwfM-K-0)
-- [Is Walking Cardio?](https://www.livescience.com/is-walking-cardio)
-- [Of War and Electric Death: A Brief History of Push-Button Anxiety](https://thereader.mitpress.mit.edu/of-war-and-electric-death-a-brief-history-of-push-button-anxiety/)
-- [Where does the wealth go when asset prices go down? It vanishes into nothingness](https://noahpinion.substack.com/p/where-does-the-wealth-go-when-asset)
+- [Glasgow Interface Explorer – Gearing Up for Production](https://www.crowdsupply.com/1bitsquared/glasgow/updates/gearing-up-for-production)
+- [The Clever Audio Plugin &lpar;CLAP&rpar;](https://lwn.net/Articles/893048/)
+- [MV-GPT: A New Generative Pre-Training Framework for Multimodal Video Captioning](https://ai.googleblog.com/2022/06/end-to-end-generative-pre-training-for.html)
+- [Ask HN: What do you think of a Reddit style RSS feed?](https://news.ycombinator.com/item?id=31786980)
+- [Amazon Will Pilot Drone Delivery in California This Year](https://singularityhub.com/2022/06/17/amazon-will-pilot-drone-delivery-in-california-this-year/)
+- [Everything to Know About DALL-E Mini, the Bizarre AI Art Creator](https://www.cnet.com/culture/everything-to-know-about-dall-e-mini-the-bizarre-ai-art-creator/)
+- [What will the crypto crash mean for &#39;Bitcoin nation&#39; El Salvador?](https://www.newscientist.com/article/2324810-what-will-the-crypto-crash-mean-for-bitcoin-nation-el-salvador/)
+- [Beaver Butts Emit Goo Used for Vanilla Flavoring &lpar;2013&rpar;](https://www.nationalgeographic.com/animals/article/beaver-butt-goo-vanilla-flavoring)
+- [NordVPN Updates/Clarifies Their Privacy Policies](https://my.nordaccount.com/legal/terms-of-service-update-1-july/)
+- [A Twitter user changes their shirt with Dall•E](https://twitter.com/marauders/status/1537384886218199040)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

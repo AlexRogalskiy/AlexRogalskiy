@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [How would a remote hacker successfully login to a non provisioned AD account?](https://www.reddit.com/r/InformationTechnology/comments/vfghs5/how_would_a_remote_hacker_successfully_login_to_a/)
+- [Come check out my IT podcast!](https://www.reddit.com/r/InformationTechnology/comments/vf7sgg/come_check_out_my_it_podcast/)
+- [Any tips for beginners?](https://www.reddit.com/r/InformationTechnology/comments/vf2wkv/any_tips_for_beginners/)
+- [Programming vs. Scripting](https://www.reddit.com/r/InformationTechnology/comments/vey3lf/programming_vs_scripting/)
 - [Company disabled USB&#39;s and blocked all online storage](https://www.reddit.com/r/InformationTechnology/comments/vestrj/company_disabled_usbs_and_blocked_all_online/)
 - [Tips for transitioning from Help Desk to a Testing Role](https://www.reddit.com/r/InformationTechnology/comments/ve88tb/tips_for_transitioning_from_help_desk_to_a/)
 - [Charles Sturt University - Graduate Certificate of IT](https://www.reddit.com/r/InformationTechnology/comments/ve4pq2/charles_sturt_university_graduate_certificate_of/)
 - [I&#39;m sorry is it normal for catchall emails to always show an error message when trying to send an email to it](https://www.reddit.com/r/InformationTechnology/comments/vdi1se/im_sorry_is_it_normal_for_catchall_emails_to/)
 - [How to improve Cybersecurity Awareness Training?](https://www.reddit.com/r/InformationTechnology/comments/vd2jh6/how_to_improve_cybersecurity_awareness_training/)
 - [Enterprise IT Ticketing Software Advice](https://www.reddit.com/r/InformationTechnology/comments/vd16f1/enterprise_it_ticketing_software_advice/)
-- [Job Prospects with a Master degree](https://www.reddit.com/r/InformationTechnology/comments/vd0tpl/job_prospects_with_a_master_degree/)
-- [AWS Solutions Architect Associate &amp; DevOps Engineering](https://www.reddit.com/r/InformationTechnology/comments/vcwl2g/aws_solutions_architect_associate_devops/)
-- [bootcamp scams?](https://www.reddit.com/r/InformationTechnology/comments/vctm6h/bootcamp_scams/)
-- [Looking to get started](https://www.reddit.com/r/InformationTechnology/comments/vcq2qf/looking_to_get_started/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

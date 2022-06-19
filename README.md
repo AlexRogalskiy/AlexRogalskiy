@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war: what we know on day 115 of the invasion](https://www.theguardian.com/world/2022/jun/18/russia-ukraine-war-what-we-know-on-day-115-of-the-invasion)
-- [McIlroy sits one off Morikawa and Dahmen as battle of Brookline commences](https://www.theguardian.com/sport/2022/jun/17/mcilroy-sits-one-off-morikawa-and-dahmen-as-battle-of-brookline-commences)
-- [Rafael Nadal hopes to make Wimbledon but reveals ‘strange’ nerve sensations](https://www.theguardian.com/sport/2022/jun/17/rafael-nadal-hopes-to-make-wimbledon-ryan-peniston-katie-boulter)
-- [Brian Cox: Seven Days on Mars review – out of this world!](https://www.theguardian.com/tv-and-radio/2022/jun/17/brian-cox-seven-days-on-mars-review-nasa-pereverance-bbc)
-- [‘A one-sided witch-hunt’: angry Trump lashes out at January 6 hearings](https://www.theguardian.com/us-news/2022/jun/17/donald-trump-january-6-hearings-witch-hunt)
-- [Saracens’ Owen Farrell fresh in mind and body to regain Premiership title](https://www.theguardian.com/sport/2022/jun/17/rugby-union-saracens-owen-farrell-fresh-in-mind-and-body-to-regain-premiership-title)
-- [Police say remains found in Brazilian Amazon belong to Dom Phillips](https://www.theguardian.com/world/2022/jun/17/dom-phillips-bruno-pereira-suspects-organised-crime)
-- [The Rebel Wilson uproar shows that gossip columns belong in a bygone era | Sisonke Msimang](https://www.theguardian.com/commentisfree/2022/jun/18/the-rebel-wilson-uproar-shows-that-gossip-columns-belong-in-a-bygone-era)
-- [‘It had to be perfect’: the deafblind artist making meticulously detailed carvings of Melbourne](https://www.theguardian.com/artanddesign/2022/jun/18/it-had-to-be-perfect-the-deafblind-artist-making-meticulously-detailed-carvings-of-melbourne)
-- [What happened in the Russia-Ukraine war this week? Catch up with the must-read news and analysis](https://www.theguardian.com/world/2022/jun/18/what-happened-in-the-russia-ukraine-war-this-week-catch-up-with-the-must-read-news-and-analysis)
+- [Thousands ransack railway station as protests intensify over India’s military hiring plan](https://www.theguardian.com/world/2022/jun/19/thousands-ransack-railway-station-as-protests-intensify-over-indias-military-hiring-plan)
+- [Afghanistan: gunmen storm Sikh temple in Kabul](https://www.theguardian.com/world/2022/jun/18/afghanistan-gunmen-storm-sikh-temple-in-kabul)
+- [Russia-Ukraine war: what we know on day 116 of the invasion](https://www.theguardian.com/world/2022/jun/19/russia-ukraine-war-what-we-know-on-day-116-of-the-invasion)
+- [Matt Fitzpatrick and Will Zalatoris lead as McIlroy clings on at US Open](https://www.theguardian.com/sport/2022/jun/19/matt-fitzpatrick-and-will-zalatoris-lead-as-mcilroy-clings-on-at-us-open)
+- [Pervez Musharraf’s wish to return to Pakistan reopens debate about his rule](https://www.theguardian.com/world/2022/jun/19/pervez-musharrafs-wish-to-return-to-pakistan-reopens-debate-about-his-rule)
+- [Crypto panic as digital assets follow share prices in a downward spiral](https://www.theguardian.com/technology/2022/jun/19/crypto-panic-as-digital-assets-follow-share-prices-in-a-downward-spiral)
+- [That Is Not Who I Am review – all is not what it seems in tricksy thriller about truth and power](https://www.theguardian.com/stage/2022/jun/19/that-is-not-who-i-am-review-royal-court-london)
+- [We Love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2022/jun/18/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Blooming marvellous: the best printed blouses for summer](https://www.theguardian.com/fashion/2022/jun/18/blooming-marvellous-the-best-printed-blouses-for-summer)
+- [Max Verstappen takes Canadian F1 GP pole in wet with Leclerc near the back](https://www.theguardian.com/sport/2022/jun/18/max-verstappen-takes-canadian-f1-gp-pole-in-wet-with-leclerc-at-the-back)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

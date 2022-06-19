@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Glasgow Interface Explorer – Gearing Up for Production](https://www.crowdsupply.com/1bitsquared/glasgow/updates/gearing-up-for-production)
-- [The Clever Audio Plugin &lpar;CLAP&rpar;](https://lwn.net/Articles/893048/)
-- [MV-GPT: A New Generative Pre-Training Framework for Multimodal Video Captioning](https://ai.googleblog.com/2022/06/end-to-end-generative-pre-training-for.html)
-- [Ask HN: What do you think of a Reddit style RSS feed?](https://news.ycombinator.com/item?id=31786980)
-- [Amazon Will Pilot Drone Delivery in California This Year](https://singularityhub.com/2022/06/17/amazon-will-pilot-drone-delivery-in-california-this-year/)
-- [Everything to Know About DALL-E Mini, the Bizarre AI Art Creator](https://www.cnet.com/culture/everything-to-know-about-dall-e-mini-the-bizarre-ai-art-creator/)
-- [What will the crypto crash mean for &#39;Bitcoin nation&#39; El Salvador?](https://www.newscientist.com/article/2324810-what-will-the-crypto-crash-mean-for-bitcoin-nation-el-salvador/)
-- [Beaver Butts Emit Goo Used for Vanilla Flavoring &lpar;2013&rpar;](https://www.nationalgeographic.com/animals/article/beaver-butt-goo-vanilla-flavoring)
-- [NordVPN Updates/Clarifies Their Privacy Policies](https://my.nordaccount.com/legal/terms-of-service-update-1-july/)
-- [A Twitter user changes their shirt with Dall•E](https://twitter.com/marauders/status/1537384886218199040)
+- [Properties of Metals Used for RF Shielding &lpar;1993&rpar; [pdf]](https://mriquestions.com/uploads/3/4/5/7/34572113/lindgren_metals_used_for_rf_shielding.pdf)
+- [Poker Theory and Analytics](https://ocw.mit.edu/courses/15-s50-poker-theory-and-analytics-january-iap-2015/pages/lecture-notes/)
+- [Human Phenotypes](http://humanphenotypes.net/index-2.html)
+- [We warned Google that people might believe AI was sentient. Now it’s happening](https://www.washingtonpost.com/opinions/2022/06/17/google-ai-ethics-sentient-lemoine-warning/)
+- [Founders of recycling startups say the pandemic changed the investment game](https://techcrunch.com/2022/06/18/founders-of-recycling-startups-say-the-pandemic-changed-the-investment-game/)
+- [Facebook groups are filling the gap after the Tinder ban in Pakistan](https://restofworld.org/2022/facebook-pakistans-matchmaking/)
+- [Android Pokes iPhone with Drake&#39;s “Texts Go Green”](https://twitter.com/Android/status/1538308158510157824)
+- [Ask HN: How to Repost Blogs on Website?](https://news.ycombinator.com/item?id=31795762)
+- [11T lost last week in derivatives, let’s talk about Luna](https://news.ycombinator.com/item?id=31795745)
+- [New WhatsApp feature will stop snitching on your Last Seen status](https://www.techradar.com/in/news/new-whatsapp-feature-will-stop-snitching-on-your-last-seen-status)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

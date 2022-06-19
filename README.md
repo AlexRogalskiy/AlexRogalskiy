@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Vale: Fast, safe, and easy programming language](https://vale.dev/)
-- [Show HN: Unsubscan – Free and offline mailing list unsubscription tool](https://github.com/LGUG2Z/unsubscan)
-- [Littr – Link aggregator inspired by Reddit and HN using ActivityPub federation](https://littr.me/)
-- [Identify Birds by Their Chirp](https://merlin.allaboutbirds.org/)
-- [Fyne, a cross-platform GUI toolkit written in Go](https://fyne.io)
-- [Recently discovered drawings for Statue of Liberty hint at a last-minute change](https://www.smithsonianmag.com/history/original-drawings-statue-liberty-discovered-180974618/)
-- [Show HN: A central bank simulator game with a realistic economic model](https://benoitessiambre.com/macro.html)
-- [Online privacy: to what extent should you try to go dark?](https://cyb3rsecurity.tips/p/-online-privacy-to-what-extent-should)
-- [Laddering a Chimney [video]](https://www.youtube.com/watch?v=E-a27xwcLfU)
-- [Skio &lpar;YC S20&rpar; is hiring in NYC](https://skio.com/careers/)
+- [Police linked to hacking campaign to frame Indian activists](https://www.wired.com/story/modified-elephant-planted-evidence-hacking-police/)
+- [Don&#39;t use Kubernetes yet](https://matt-rickard.com/dont-use-kubernetes-yet/)
+- [Citybound – city building game using actor-based distributed simulation](https://aeplay.org/citybound)
+- [Rust advocacy at a medium-sized startup](https://briankung.dev/2022/06/14/rust-advocacy-at-a-medium-sized-startup/)
+- [Show HN: Control your Hyundai car with Python](https://github.com/synchronizing/bluelink)
+- [V Language Review](https://mawfig.github.io/2022/06/18/v-lang-in-2022.html)
+- [Breaking our Latin-1 assumptions &lpar;2017&rpar;](https://manishearth.github.io/blog/2017/01/15/breaking-our-latin-1-assumptions/)
+- [Cold Showers](https://github.com/hwayne/awesome-cold-showers)
+- [Cross-compiling binaries for Windows is easier than building natively](https://gist.github.com/slimsag/c01bb6508e3dfa744bf3bdafa0cfe07f)
+- [Ask HN: Why are Git submodules so bad?](https://news.ycombinator.com/item?id=31792303)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

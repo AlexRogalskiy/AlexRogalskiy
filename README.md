@@ -429,6 +429,7 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Rogers and Shaw agree to sell Freedom Mobile to Quebecor](https://www.itworldcanada.com/article/rogers-and-shaw-agree-to-sell-freedom-mobile-to-quebecor/489274)
 - [This week in ransomware – Friday, June 17, 2022](https://www.itworldcanada.com/article/this-week-in-ransomware-friday-june-17-2022/489102)
 - [Electricity 4.0: Powering Schneider’s global net-zero vision](https://www.itworldcanada.com/article/electricity-4-0-powering-schneiders-global-net-zero-vision/489069)
 - [Uber lets you reserve a ride from airports 30 days in advance](https://www.itworldcanada.com/article/uber-lets-you-reserve-a-ride-from-airports-30-days-in-advance/489052)
@@ -438,7 +439,6 @@
 - [Microsoft announces Viva Sales to capture data for CRMs](https://www.itworldcanada.com/article/microsoft-announces-viva-sales-to-capture-data-for-crms/488941)
 - [Bell announces 5G+ service on mid-band spectrum, rollout soon](https://www.itworldcanada.com/article/bell-announces-5g-service-on-mid-band-spectrum-rollout-soon/488989)
 - [Cyber Security Today, June 17, 2022 – Ransomware could hit Microsoft 365 files, a warning to web developers and more](https://www.itworldcanada.com/article/cyber-security-today-june-17-2022-ransomware-could-hit-microsoft-365-files-a-warning-to-web-developers-and-more/488856)
-- [Hashtag Trending June 17 – Musk, Tesla and SpaceX sued; Health and Location Data Protection Act; iPhone users could get payouts in legal action](https://www.itworldcanada.com/article/hashtag-trending-june-17-musk-tesla-and-spacex-sued-health-and-location-data-protection-act-iphone-users-could-get-payouts-in-legal-action/488970)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

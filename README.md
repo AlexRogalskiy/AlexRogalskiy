@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Police linked to hacking campaign to frame Indian activists](https://www.wired.com/story/modified-elephant-planted-evidence-hacking-police/)
-- [Don&#39;t use Kubernetes yet](https://matt-rickard.com/dont-use-kubernetes-yet/)
-- [Citybound – city building game using actor-based distributed simulation](https://aeplay.org/citybound)
-- [Rust advocacy at a medium-sized startup](https://briankung.dev/2022/06/14/rust-advocacy-at-a-medium-sized-startup/)
-- [Show HN: Control your Hyundai car with Python](https://github.com/synchronizing/bluelink)
-- [V Language Review](https://mawfig.github.io/2022/06/18/v-lang-in-2022.html)
-- [Breaking our Latin-1 assumptions &lpar;2017&rpar;](https://manishearth.github.io/blog/2017/01/15/breaking-our-latin-1-assumptions/)
-- [Cold Showers](https://github.com/hwayne/awesome-cold-showers)
-- [Cross-compiling binaries for Windows is easier than building natively](https://gist.github.com/slimsag/c01bb6508e3dfa744bf3bdafa0cfe07f)
-- [Ask HN: Why are Git submodules so bad?](https://news.ycombinator.com/item?id=31792303)
+- [Floating Point Math](https://0.30000000000000004.com/)
+- [The Peecyclers. Their Idea to Help Farmers Is No. 1](https://www.nytimes.com/2022/06/17/climate/peecycling-farming-urine-fertilizer.html)
+- [A Note to the Celsius Community](https://blog.celsius.network/a-note-to-the-celsius-community-e5af1f5a7998)
+- [What&#39;s New in Ada 2022](https://learn.adacore.com/courses/whats-new-in-ada-2022/index.html)
+- [SpaceX launches three Falcon 9 rockets in 36 hours](https://www.teslarati.com/spacex-three-falcon-9-rocket-launches-36-hours/)
+- [We need a flowchart editor that doesn&#39;t give you carpal tunnel](https://www.scottantipa.com/why-knotend)
+- [Will word processors start a home working revolution? &lpar;1979&rpar; [video]](https://www.youtube.com/watch?v=b6URa-PTqfA)
+- [Samsung Busted for Cheating TV Test Benchmarks](https://www.techdirt.com/2022/06/17/samsung-busted-for-cheating-tv-test-benchmarks/)
+- [Mobile-First CSS: Is It Time for a Rethink?](https://alistapart.com/article/mobile-first-css-is-it-time-for-a-rethink/)
+- [Road Rash creator Randy Breen [audio]](https://theretrohour.com/road-rash-creator-randy-breen-ep331/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

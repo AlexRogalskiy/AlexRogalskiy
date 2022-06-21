@@ -354,6 +354,7 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [How Apple is updating mobile device management](https://www.computerworld.com/article/3664129/how-apple-is-updating-mobile-device-management.html#tk.rss_all)
 - [Microsoft delivers solid Windows-focused updates for June&#39;s Patch Tuesday](https://www.computerworld.com/article/3664171/microsoft-delivers-solid-windows-focused-updates-for-junes-patch-tuesday.html#tk.rss_all)
 - [How iPhone users with Windows PCs can get &#39;Continuity Camera&#39; features now](https://www.computerworld.com/article/3664335/how-iphone-users-with-windows-pcs-can-get-continuity-camera-features-now.html#tk.rss_all)
 - [Will COVID&#39;s legacy be a healthier workplace?](https://www.computerworld.com/article/3664068/will-covids-legacy-be-a-healthier-workplace.html#tk.rss_all)
@@ -363,7 +364,6 @@
 - [12 handy hidden tricks for Google Calendar on Android](https://www.computerworld.com/article/3390992/google-calendar-android-features.html#tk.rss_all)
 - [What the EU Qualcomm ruling means for big tech antitrust efforts](https://www.computerworld.com/article/3664408/what-the-eu-qualcomm-ruling-means-for-big-tech-antitrust-efforts.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [The state of Apple&#39;s laptops in 2022](https://www.computerworld.com/article/3664091/the-state-of-apples-laptops-in-2022.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

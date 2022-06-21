@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Floating Point Math](https://0.30000000000000004.com/)
-- [The Peecyclers. Their Idea to Help Farmers Is No. 1](https://www.nytimes.com/2022/06/17/climate/peecycling-farming-urine-fertilizer.html)
-- [A Note to the Celsius Community](https://blog.celsius.network/a-note-to-the-celsius-community-e5af1f5a7998)
-- [What&#39;s New in Ada 2022](https://learn.adacore.com/courses/whats-new-in-ada-2022/index.html)
-- [SpaceX launches three Falcon 9 rockets in 36 hours](https://www.teslarati.com/spacex-three-falcon-9-rocket-launches-36-hours/)
-- [We need a flowchart editor that doesn&#39;t give you carpal tunnel](https://www.scottantipa.com/why-knotend)
-- [Will word processors start a home working revolution? &lpar;1979&rpar; [video]](https://www.youtube.com/watch?v=b6URa-PTqfA)
-- [Samsung Busted for Cheating TV Test Benchmarks](https://www.techdirt.com/2022/06/17/samsung-busted-for-cheating-tv-test-benchmarks/)
-- [Mobile-First CSS: Is It Time for a Rethink?](https://alistapart.com/article/mobile-first-css-is-it-time-for-a-rethink/)
-- [Road Rash creator Randy Breen [audio]](https://theretrohour.com/road-rash-creator-randy-breen-ep331/)
+- [WTF Nextdoor? Over 130 click to disable email and push notifications?](https://imgur.com/a/RY0jgQD)
+- [NFS: The Early Years](https://lwn.net/SubscriberLink/897917/7a4775f9f1223e8a/)
+- [A study of real-world data races in Golang](https://dl.acm.org/doi/pdf/10.1145/3519939.3523720)
+- [“When It Rains, It Pours”: The Morton Salt Girl](https://historydaily.org/history-morton-salt-girl-umbrella)
+- [The Illustrated QUIC Connection](https://quic.ulfheim.net/)
+- [EarthFM Natural Soundscapes](https://earth.fm/)
+- [Sunstone – the last unreleased Lisp machine architecture from Symbolics [pdf]](http://www.bitsavers.org/pdf/symbolics/Sunstone_Architecture_198711.pdf)
+- [WebAssembly on Amazon Lambda: Lessons Learned](https://wasmer.io/posts/wasm-on-amazon-lambda-lessons-learned)
+- [Affordable housing in California now routinely tops $1M per apartment to build](https://www.latimes.com/homeless-housing/story/2022-06-20/california-affordable-housing-cost-1-million-apartment)
+- [Transparent memory offloading: more memory at a fraction of the cost and power](https://engineering.fb.com/2022/06/20/data-infrastructure/transparent-memory-offloading-more-memory-at-a-fraction-of-the-cost-and-power/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

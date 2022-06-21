@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Tribunal rules in favour of HMRC as it pursues umbrella company for £11m in unpaid tax](https://www.computerweekly.com/news/252521734/Tribunal-rules-in-favour-of-HMRC-as-it-pursues-umbrella-company-for-11m-in-unpaid-tax)
+- [Hundreds of thousands of Ukrainians take up free language app offer](https://www.computerweekly.com/news/252521720/Hundreds-of-thousands-of-Ukrainians-take-up-free-language-app-offer)
+- [Lords move to protect cyber researchers from prosecution](https://www.computerweekly.com/news/252521716/Lords-move-to-protect-cyber-researchers-from-prosecution)
+- [Complex Russian cyber threat requires we go back to basics](https://www.computerweekly.com/news/252521722/Complex-Russian-cyber-threat-requires-we-go-back-to-basics)
+- [Challenges of securing a software supply chain](https://www.computerweekly.com/feature/Challenges-of-securing-a-software-supply-chain)
 - [Tech sector sustainability efforts need full ecosystem approach](https://www.computerweekly.com/news/252521657/Tech-sector-sustainability-efforts-need-full-ecosystem-approach)
 - [Data gravity: What is it and how to manage it](https://www.computerweekly.com/feature/Data-gravity-What-is-it-and-how-to-manage-it)
 - [Governance and progression of AI in the UK](https://www.computerweekly.com/opinion/Governance-and-progression-of-AI-in-the-UK)
 - [What the EU’s content-filtering rules could mean for UK tech](https://www.computerweekly.com/feature/What-the-EUs-content-filtering-rules-could-mean-for-UK-tech)
 - [Government responds to Data Reform Bill consultation](https://www.computerweekly.com/news/252521645/Government-responds-to-Data-Reform-Bill-consultation)
-- [Consider governance, coordination and risk to secure supply chain](https://www.computerweekly.com/opinion/Consider-governance-coordination-and-risk-to-secure-supply-chain)
-- [MoD sets out strategy to develop military AI with private sector](https://www.computerweekly.com/news/252521624/MoD-sets-out-strategy-to-develop-military-AI-with-private-sector)
-- [Loan charge MPs want contractor adviser community to participate in latest call for evidence](https://www.computerweekly.com/news/252521605/Loan-Charge-MPs-want-contractor-adviser-community-to-participate-in-latest-call-for-evidence)
-- [TalkTalk hacker Daniel Kelley gives up his black hat for good](https://www.computerweekly.com/news/252521195/TalkTalk-hacker-Daniel-Kelley-gives-up-his-black-hat-for-good)
-- [Privacy-enhancing technologies – myths and misconceptions](https://www.computerweekly.com/opinion/Privacy-enhancing-technologies-myths-and-misconceptions)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

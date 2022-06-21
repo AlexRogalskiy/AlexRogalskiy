@@ -414,6 +414,8 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [What certs should I skip with a Masters in IT?](https://www.reddit.com/r/InformationTechnology/comments/vh0m2h/what_certs_should_i_skip_with_a_masters_in_it/)
+- [Interesting Gadget for Working With Cables](https://www.reddit.com/r/InformationTechnology/comments/vgpmyn/interesting_gadget_for_working_with_cables/)
 - [Tips to get into the IT industry](https://www.reddit.com/r/InformationTechnology/comments/vg3ioq/tips_to_get_into_the_it_industry/)
 - [How would a remote hacker successfully login to a non provisioned AD account?](https://www.reddit.com/r/InformationTechnology/comments/vfghs5/how_would_a_remote_hacker_successfully_login_to_a/)
 - [Come check out my IT podcast!](https://www.reddit.com/r/InformationTechnology/comments/vf7sgg/come_check_out_my_it_podcast/)
@@ -422,8 +424,6 @@
 - [Company disabled USB&#39;s and blocked all online storage](https://www.reddit.com/r/InformationTechnology/comments/vestrj/company_disabled_usbs_and_blocked_all_online/)
 - [Tips for transitioning from Help Desk to a Testing Role](https://www.reddit.com/r/InformationTechnology/comments/ve88tb/tips_for_transitioning_from_help_desk_to_a/)
 - [Charles Sturt University - Graduate Certificate of IT](https://www.reddit.com/r/InformationTechnology/comments/ve4pq2/charles_sturt_university_graduate_certificate_of/)
-- [I&#39;m sorry is it normal for catchall emails to always show an error message when trying to send an email to it](https://www.reddit.com/r/InformationTechnology/comments/vdi1se/im_sorry_is_it_normal_for_catchall_emails_to/)
-- [How to improve Cybersecurity Awareness Training?](https://www.reddit.com/r/InformationTechnology/comments/vd2jh6/how_to_improve_cybersecurity_awareness_training/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

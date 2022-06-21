@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [China carries out anti-missile tests amid opposition to US systems in South Korea](https://www.theguardian.com/world/2022/jun/20/china-anti-missile-tests-defensive-thaad-south-korea)
-- [Former guerrilla Gustavo Petro wins Colombian election to become first leftist president](https://www.theguardian.com/world/2022/jun/20/former-guerrilla-gustavo-petro-wins-colombian-election-to-become-first-leftist-president)
-- [Zelenskiy expects Russia to intensify attacks on Ukraine and other European countries - video](https://www.theguardian.com/world/video/2022/jun/20/zelenskiy-expects-russia-to-intensify-attacks-on-ukraine-and-other-european-countries-video)
-- [Walking through a warzone: Igor and Zhu-Zhu’s incredible journey - podcast](https://www.theguardian.com/news/audio/2022/jun/20/walking-through-a-warzone-igor-and-zhu-zhus-incredible-journey-podcast)
-- [Spirals of blue light in New Zealand night sky leave stargazers ‘kind of freaking out’](https://www.theguardian.com/world/2022/jun/20/lights-spiral-new-zealand-night-sky-nz-blue-light-spirals)
-- [Russia-Ukraine war: what we know on day 117 of the invasion](https://www.theguardian.com/world/2022/jun/20/russia-ukraine-war-what-we-know-on-day-117-of-the-invasion)
-- [Rail strikes: anger as UK government refuses to join last-ditch talks](https://www.theguardian.com/uk-news/2022/jun/19/rail-strikes-anger-as-uk-government-refuses-to-join-last-ditch-talks)
-- [House prices in Great Britain hit record high but falls predicted this year](https://www.theguardian.com/business/2022/jun/20/house-prices-in-great-britain-hit-record-high-but-falls-predicted-in-2022)
-- [Ofgem to announce measures aimed at protecting money of energy customers](https://www.theguardian.com/business/2022/jun/20/ofgem-measures-protect-money-energy-customers)
-- [Martin Lewis frustrated at slow pace of buy now, pay later rules](https://www.theguardian.com/business/2022/jun/20/martin-lewis-frustrated-at-slow-pace-of-buy-now-pay-later-rules)
+- [World Cup: Taiwan sees red over China ‘bullying’ Qatar into use of ‘Chinese Taipei’](https://www.theguardian.com/world/2022/jun/21/taiwan-accuses-china-of-bullying-at-world-cup-over-fan-id-cards-listing-chinese-taipei)
+- [Rugby league joins swimming in barring transgender women from international competition](https://www.theguardian.com/sport/2022/jun/21/international-rugby-league-joins-swimming-in-barring-transgender-women-from-competing)
+- [What’s at stake in the extradition of Julian Assange? – podcast](https://www.theguardian.com/news/audio/2022/jun/21/whats-at-stake-in-the-extradition-of-julian-assange)
+- [‘Britain runs into the buffers’: what the papers say about the rail strikes](https://www.theguardian.com/media/2022/jun/21/britain-runs-into-the-buffers-what-the-papers-say-about-the-rail-strikes)
+- [Donald Trump plotted fake electors scheme, January 6 panel set to show](https://www.theguardian.com/us-news/2022/jun/21/donald-trump-plotted-fake-electors-scheme-january-6-panel-set-to-show)
+- [Nobel peace prize auctioned by Russian journalist Dmitry Muratov fetches record $103.5m](https://www.theguardian.com/world/2022/jun/21/nobel-peace-prize-auctioned-by-russian-journalist-dmitry-muratov-fetches-record-1035m)
+- [Russia-Ukraine war: what we know on day 118 of the invasion](https://www.theguardian.com/world/2022/jun/21/russia-ukraine-war-what-we-know-on-day-118-of-the-invasion)
+- [Father-in-law charged with murder after Australian woman Sajida Tasneem killed in Pakistan](https://www.theguardian.com/world/2022/jun/21/father-in-law-charged-australian-woman-sajida-tasneem-killed-in-pakistan)
+- [UK needs to tax salt in the same way it does sugar, says heart charity](https://www.theguardian.com/society/2022/jun/21/uk-needs-to-tax-salt-in-the-same-way-it-does-sugar-says-heart-charity)
+- [Cutting works by Russian artists is ‘stupid’, says Pussy Riot member](https://www.theguardian.com/world/2022/jun/21/cutting-works-by-russian-artists-is-stupid-says-pussy-riot-member)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

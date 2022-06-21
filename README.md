@@ -369,16 +369,16 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Choosing a Cloud Vendor](https://www.informationweek.com/cloud/choosing-a-cloud-vendor)
+- [What Does Mature Cloud Security Look Like?](https://www.informationweek.com/cloud/what-does-mature-cloud-security-look-like-)
+- [That DOS Won’t Hunt: Shutterfly CTO Talks Going Cloud](https://www.informationweek.com/cloud/that-dos-won-t-hunt-shutterfly-cto-talks-going-cloud)
+- [Bringing Industry Cloud to Your Company: What CIOs Need to Know](https://www.informationweek.com/cloud/bringing-industry-cloud-to-your-company-what-cios-need-to-know)
+- [Internal Network Security Mistakes to Avoid](https://www.informationweek.com/strategic-cio/internal-network-security-mistakes-to-avoid)
 - [Bringing Your IT Staff Back to the Office](https://www.informationweek.com/it-life/bringing-your-it-staff-back-to-the-office)
 - [Cloud-Native Security Best Practices for Evolving Cloud Environments](https://www.informationweek.com/cloud/cloud-native-security-best-practices-for-evolving-cloud-environments)
 - [Cyber Resiliency: What It Is and How To Build It](https://www.informationweek.com/strategic-cio/cyber-resiliency-what-it-is-and-how-to-build-it)
 - [Ethical AI Lapses Happen When No One Is Watching](https://www.informationweek.com/big-data/ethical-ai-lapses-happen-when-no-one-is-watching)
 - [Introducing the Two-Minute Toolkit Podcast](https://www.informationweek.com/strategic-cio/introducing-the-two-minute-toolkit-podcast)
-- [CIO Moves: Deere &amp; Co&#39;s New CIO Talks Strategy, Trends, and Career Paths](https://www.informationweek.com/strategic-cio/cio-moves-deere-co-s-new-cio-talks-strategy-trends-and-career-paths)
-- [How to Create New Business Value Through a Platform Model](https://www.informationweek.com/strategic-cio/how-to-create-new-business-value-through-a-platform-model)
-- [Top 2022 IT Certifications to Advance Your Career](https://www.informationweek.com/it-life/top-2022-it-certifications-to-advance-your-career)
-- [First Responders Get Tech Help from AWS Edge Devices](https://www.informationweek.com/cloud/first-responders-get-tech-help-from-aws-edge-devices)
-- [How to Make Hybrid Work Even More Inclusive](https://www.informationweek.com/strategic-cio/how-to-make-hybrid-work-even-more-inclusive)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

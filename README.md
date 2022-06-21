@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Improving Cell Reception by Making Signals Noisier](https://spectrum.ieee.org/cellphone-reception-artemis-networks-pcell)
-- [Minedojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge](https://minedojo.org/)
-- [Evolution Through Large Models](https://arxiv.org/abs/2206.08896)
-- [TAVA: Template-Free Animatable Volumetric Actors](https://www.liruilong.cn/projects/tava/)
-- [Fast Finite Width Neural Tangent Kernel](https://arxiv.org/abs/2206.08720)
-- [“This crypto cycle was even weirder than the ICO frenzy of 2017/18.”](https://twitter.com/DrNickA/status/1538502091198562304)
-- [Oldschool PC Fonts](https://int10h.org/oldschool-pc-fonts/fontlist/)
-- [The Democrats’ New Spokesman in the Culture Wars](https://www.theatlantic.com/politics/archive/2022/06/gavin-newsom-california-democratic-party/661313/)
-- [The Arc of History](https://seths.blog/2022/06/the-arc-of-history/)
-- [Colin Furze: YouTuber allowed to build tunnel under garden](https://www.bbc.com/news/uk-england-lincolnshire-61851694)
+- [Netflix braces for more layoffs this week](https://variety.com/2022/film/news/netflix-stock-layoffs-1235298805/)
+- [Touch of Modern&lpar;ToMo&rpar; refusing to pay suppliers](https://en.wikipedia.org/wiki/Touch_of_Modern)
+- [Apple&#39;s Feedback Mechanism Is Broken](https://www.caseyliss.com/2022/6/20/feedback-is-broken-stop-trying-to-make-radar-happen)
+- [How OXO Conquered the American Kitchen](https://slate.com/business/2022/06/oxo-best-kitchen-gadgets-good-grips-history.html)
+- [BBC to shine light on TerraCycle’s murky operations with criminal subcontractor](https://www.packaginginsights.com/news/dodgy-dealings-bbc-to-shine-light-on-terracycles-murky-operations-with-criminal-subcontractor.html)
+- [The Ghost of Internet Explorer Will Haunt the Web for Years](https://www.wired.com/story/internet-explorer-dead-security-risks/)
+- [What would happen if we stopped using plastic?](https://www.bbc.com/future/article/20220526-what-would-happen-if-we-stopped-using-plastic)
+- [Iran soared up to a scorching 52.2°C &lpar;126°F&rpar; today](https://twitter.com/US_Stormwatch/status/1539001882038784000)
+- [Artificial Intelligence in the Field of Economics](https://link.springer.com/article/10.1007/s11192-022-04294-w)
+- [Lessons of Social Media from BBSs](https://changelog.complete.org/archives/10393-lessons-of-social-media-from-bbss)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -429,6 +429,9 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Honeywell targets building owners with new sustainability offering](https://www.itworldcanada.com/article/honeywell-targets-building-owners-with-new-sustainability-offering/489533)
+- [Cyber Security Today, June 20, 2022 – A warning for end-of-life Cisco routers, another wave of ransomware attacks on QNAP devices and more](https://www.itworldcanada.com/article/cyber-security-today-june-20-2022-a-warning-for-end-of-life-cisco-routers-another-wave-of-ransomware-attacks-on-qnap-devices-and-more/489357)
+- [Hashtag Trending June 20 – Tesla price hike; Wealthsimple layoff; crypto GPU spending](https://www.itworldcanada.com/article/hashtag-trending-june-18-tesla-price-hike-wealthsimple-layoff-crypto-gpu-spending/489428)
 - [Rogers and Shaw agree to sell Freedom Mobile to Quebecor](https://www.itworldcanada.com/article/rogers-and-shaw-agree-to-sell-freedom-mobile-to-quebecor/489274)
 - [This week in ransomware – Friday, June 17, 2022](https://www.itworldcanada.com/article/this-week-in-ransomware-friday-june-17-2022/489102)
 - [Electricity 4.0: Powering Schneider’s global net-zero vision](https://www.itworldcanada.com/article/electricity-4-0-powering-schneiders-global-net-zero-vision/489069)
@@ -436,9 +439,6 @@
 - [Government of Canada invests over $3 million to support international tech entrepreneurs in southern Ontario](https://www.itworldcanada.com/article/government-of-canada-invests-over-3-million-to-support-international-tech-entrepreneurs-in-southern-ontario/489050)
 - [Cyber Security Today, Week in Review for Friday June 17, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-june-17-2022/488885)
 - [Canada’s COVID Alert app ends in failure](https://www.itworldcanada.com/article/canadas-covid-alert-app-retires-in-failure/489033)
-- [Microsoft announces Viva Sales to capture data for CRMs](https://www.itworldcanada.com/article/microsoft-announces-viva-sales-to-capture-data-for-crms/488941)
-- [Bell announces 5G+ service on mid-band spectrum, rollout soon](https://www.itworldcanada.com/article/bell-announces-5g-service-on-mid-band-spectrum-rollout-soon/488989)
-- [Cyber Security Today, June 17, 2022 – Ransomware could hit Microsoft 365 files, a warning to web developers and more](https://www.itworldcanada.com/article/cyber-security-today-june-17-2022-ransomware-could-hit-microsoft-365-files-a-warning-to-web-developers-and-more/488856)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

@@ -384,16 +384,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [GitHub Copilot AI coding assistant is now generally available](https://www.infoworld.com/article/3664123/github-copilot-ai-coding-assistant-is-now-generally-available.html#tk.rss_all)
+- [Legacy systems are the new attack vectors for hackers](https://www.infoworld.com/article/3664411/legacy-systems-are-the-new-attack-vectors-for-hackers.html#tk.rss_all)
+- [Why Mercedes-Benz runs on 900 Kubernetes clusters](https://www.infoworld.com/article/3664052/why-mercedes-benz-runs-on-900-kubernetes-clusters.html#tk.rss_all)
+- [How AI is changing IoT](https://www.infoworld.com/article/3663017/how-ai-is-changing-iot.html#tk.rss_all)
 - [Microsoft’s complicated dance with open source](https://www.infoworld.com/article/3664338/microsofts-complicated-dance-with-open-source.html#tk.rss_all)
 - [How to create a cloud center of excellence](https://www.infoworld.com/article/3663056/how-to-create-a-cloud-center-of-excellence.html#tk.rss_all)
 - [Are you ready to automate continuous deployment in CI/CD?](https://www.infoworld.com/article/3663055/are-you-ready-to-automate-continuous-deployment-in-cicd.html#tk.rss_all)
 - [C# extension for Visual Studio Code set for LSP overhaul](https://www.infoworld.com/article/3664169/c-extension-for-visual-studio-code-set-for-lsp-overhaul.html#tk.rss_all)
 - [Migration to the cloud may be slowing down](https://www.infoworld.com/article/3664109/migration-to-the-cloud-may-be-slowing-down.html#tk.rss_all)
 - [What is Podman? The container engine replacing Docker](https://www.infoworld.com/article/3663672/what-is-podman-and-will-it-replace-docker.html#tk.rss_all)
-- [Aerospike partners with Starburst to jump on the SQL bandwagon](https://www.infoworld.com/article/3664329/aerospike-partners-with-starburst-to-join-the-sql-bandwagon.html#tk.rss_all)
-- [Okta’s Matt Raible: How I became a Java hipster](https://www.infoworld.com/article/3663677/oktas-matt-raible-how-i-became-a-java-hipster.html#tk.rss_all)
-- [How to implement IP whitelists in ASP.NET Core 6](https://www.infoworld.com/article/3663443/how-to-implement-ip-whitelists-in-aspnet-core-6.html#tk.rss_all)
-- [Internet Explorer reaches the end of the line](https://www.infoworld.com/article/3664168/internet-explorer-reaches-the-end-of-the-line.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

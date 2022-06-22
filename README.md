@@ -414,6 +414,8 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Calvin Lim, CEO of DFNN](https://www.reddit.com/r/InformationTechnology/comments/vhbvud/calvin_lim_ceo_of_dfnn/)
+- [Old IDE Drive wants to disconnect when attempting to recover files](https://www.reddit.com/r/InformationTechnology/comments/vha0qx/old_ide_drive_wants_to_disconnect_when_attempting/)
 - [What certs should I skip with a Masters in IT?](https://www.reddit.com/r/InformationTechnology/comments/vh0m2h/what_certs_should_i_skip_with_a_masters_in_it/)
 - [Interesting Gadget for Working With Cables](https://www.reddit.com/r/InformationTechnology/comments/vgpmyn/interesting_gadget_for_working_with_cables/)
 - [Tips to get into the IT industry](https://www.reddit.com/r/InformationTechnology/comments/vg3ioq/tips_to_get_into_the_it_industry/)
@@ -422,8 +424,6 @@
 - [Any tips for beginners?](https://www.reddit.com/r/InformationTechnology/comments/vf2wkv/any_tips_for_beginners/)
 - [Programming vs. Scripting](https://www.reddit.com/r/InformationTechnology/comments/vey3lf/programming_vs_scripting/)
 - [Company disabled USB&#39;s and blocked all online storage](https://www.reddit.com/r/InformationTechnology/comments/vestrj/company_disabled_usbs_and_blocked_all_online/)
-- [Tips for transitioning from Help Desk to a Testing Role](https://www.reddit.com/r/InformationTechnology/comments/ve88tb/tips_for_transitioning_from_help_desk_to_a/)
-- [Charles Sturt University - Graduate Certificate of IT](https://www.reddit.com/r/InformationTechnology/comments/ve4pq2/charles_sturt_university_graduate_certificate_of/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

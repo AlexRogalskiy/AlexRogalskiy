@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Netflix braces for more layoffs this week](https://variety.com/2022/film/news/netflix-stock-layoffs-1235298805/)
-- [Touch of Modern&lpar;ToMo&rpar; refusing to pay suppliers](https://en.wikipedia.org/wiki/Touch_of_Modern)
-- [Apple&#39;s Feedback Mechanism Is Broken](https://www.caseyliss.com/2022/6/20/feedback-is-broken-stop-trying-to-make-radar-happen)
-- [How OXO Conquered the American Kitchen](https://slate.com/business/2022/06/oxo-best-kitchen-gadgets-good-grips-history.html)
-- [BBC to shine light on TerraCycle’s murky operations with criminal subcontractor](https://www.packaginginsights.com/news/dodgy-dealings-bbc-to-shine-light-on-terracycles-murky-operations-with-criminal-subcontractor.html)
-- [The Ghost of Internet Explorer Will Haunt the Web for Years](https://www.wired.com/story/internet-explorer-dead-security-risks/)
-- [What would happen if we stopped using plastic?](https://www.bbc.com/future/article/20220526-what-would-happen-if-we-stopped-using-plastic)
-- [Iran soared up to a scorching 52.2°C &lpar;126°F&rpar; today](https://twitter.com/US_Stormwatch/status/1539001882038784000)
-- [Artificial Intelligence in the Field of Economics](https://link.springer.com/article/10.1007/s11192-022-04294-w)
-- [Lessons of Social Media from BBSs](https://changelog.complete.org/archives/10393-lessons-of-social-media-from-bbss)
+- [Same Energy – a visual search engine](https://same.energy)
+- [The magic &quot;#!&quot;, shebang/hash-bang mechanism on various Unix flavours](https://www.in-ulm.de/~mascheck/various/shebang/)
+- [Convex vs. Firebase](https://docs.convex.dev/understanding/convex-vs-firebase)
+- [The unnaturalistic fallacy: Covid-19 vaccine mandates should not discriminate](https://jme.bmj.com/content/48/6/371)
+- [Markups Across the Income Distribution [pdf]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4092068)
+- [Multivitamin Supplementation to Prevent Cardiovascular Disease and Cancer](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/vitamin-supplementation-to-prevent-cvd-and-cancer-preventive-medication)
+- [Cloudflare Encrypts Your Data – With Lava Lamps &lpar;2017&rpar;](https://www.fastcompany.com/90137157/the-hardest-working-office-design-in-america-encrypts-your-data-with-lava-lamps)
+- [Let&#39;s remix distributed database design](https://www.youtube.com/watch?v=rNmZZLant9o)
+- [Suwałki Gap - The most dangerous place on earth](https://www.politico.eu/article/suwalki-gap-russia-war-nato-lithuania-poland-border/)
+- [Why secure systems require random numbers &lpar;2013&rpar;](https://blog.cloudflare.com/why-randomness-matters/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

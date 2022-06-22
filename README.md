@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [World Cup: Taiwan sees red over China ‘bullying’ Qatar into use of ‘Chinese Taipei’](https://www.theguardian.com/world/2022/jun/21/taiwan-accuses-china-of-bullying-at-world-cup-over-fan-id-cards-listing-chinese-taipei)
-- [Rugby league joins swimming in barring transgender women from international competition](https://www.theguardian.com/sport/2022/jun/21/international-rugby-league-joins-swimming-in-barring-transgender-women-from-competing)
-- [What’s at stake in the extradition of Julian Assange? – podcast](https://www.theguardian.com/news/audio/2022/jun/21/whats-at-stake-in-the-extradition-of-julian-assange)
-- [‘Britain runs into the buffers’: what the papers say about the rail strikes](https://www.theguardian.com/media/2022/jun/21/britain-runs-into-the-buffers-what-the-papers-say-about-the-rail-strikes)
-- [Donald Trump plotted fake electors scheme, January 6 panel set to show](https://www.theguardian.com/us-news/2022/jun/21/donald-trump-plotted-fake-electors-scheme-january-6-panel-set-to-show)
-- [Nobel peace prize auctioned by Russian journalist Dmitry Muratov fetches record $103.5m](https://www.theguardian.com/world/2022/jun/21/nobel-peace-prize-auctioned-by-russian-journalist-dmitry-muratov-fetches-record-1035m)
-- [Russia-Ukraine war: what we know on day 118 of the invasion](https://www.theguardian.com/world/2022/jun/21/russia-ukraine-war-what-we-know-on-day-118-of-the-invasion)
-- [Father-in-law charged with murder after Australian woman Sajida Tasneem killed in Pakistan](https://www.theguardian.com/world/2022/jun/21/father-in-law-charged-australian-woman-sajida-tasneem-killed-in-pakistan)
-- [UK needs to tax salt in the same way it does sugar, says heart charity](https://www.theguardian.com/society/2022/jun/21/uk-needs-to-tax-salt-in-the-same-way-it-does-sugar-says-heart-charity)
-- [Cutting works by Russian artists is ‘stupid’, says Pussy Riot member](https://www.theguardian.com/world/2022/jun/21/cutting-works-by-russian-artists-is-stupid-says-pussy-riot-member)
+- [A tale of two byelections](https://www.theguardian.com/news/audio/2022/jun/22/a-tale-of-two-byelections)
+- [Uvalde shootings: police response an ‘abject failure’, Texas safety chief says](https://www.theguardian.com/us-news/2022/jun/21/uvalde-shootings-texas-public-safety-police-response)
+- [Taiwan scrambles jets to warn away Chinese planes in its air zone as tensions simmer](https://www.theguardian.com/world/2022/jun/22/taiwan-scrambles-jets-to-warn-away-chinese-planes-in-its-air-zone-as-tensions-simmer)
+- [US Senators announce gun violence bill with bipartisan support](https://www.theguardian.com/us-news/2022/jun/21/us-senators-gun-violence-bill-bipartisan-support)
+- [Russia-Ukraine war: what we know on day 119 of the invasion](https://www.theguardian.com/world/2022/jun/22/russia-ukraine-war-what-we-know-on-day-119-of-the-invasion)
+- [‘We want justice, not fuel’: Sri Lanka’s Tamils on north-south divide](https://www.theguardian.com/world/2022/jun/22/sri-lanka-tamils-protests-economic-crisis)
+- [US Forest Service admits ‘multiple miscalculations’ caused New Mexico fire](https://www.theguardian.com/us-news/2022/jun/21/new-mexico-wildfire-forest-service-mistakes)
+- [Joe Lycett standup joke investigated by police after complaint](https://www.theguardian.com/culture/2022/jun/22/joe-lycett-standup-joke-investigated-by-police-after-complaint)
+- [A few good Republicans stopped Trump – but his threat to democracy isn’t over](https://www.theguardian.com/us-news/2022/jun/21/jan-6-hearings-good-republicans-stopped-trump)
+- [Facebook to axe ‘discriminatory’ algorithm in US government settlement](https://www.theguardian.com/technology/2022/jun/21/facebook-lawsuit-settlement-advertising-lookalike-audience-doj)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

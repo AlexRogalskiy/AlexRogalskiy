@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Tribunal rules in favour of HMRC as it pursues umbrella company for £11m in unpaid tax](https://www.computerweekly.com/news/252521734/Tribunal-rules-in-favour-of-HMRC-as-it-pursues-umbrella-company-for-11m-in-unpaid-tax)
-- [Hundreds of thousands of Ukrainians take up free language app offer](https://www.computerweekly.com/news/252521720/Hundreds-of-thousands-of-Ukrainians-take-up-free-language-app-offer)
-- [Lords move to protect cyber researchers from prosecution](https://www.computerweekly.com/news/252521716/Lords-move-to-protect-cyber-researchers-from-prosecution)
-- [Complex Russian cyber threat requires we go back to basics](https://www.computerweekly.com/news/252521722/Complex-Russian-cyber-threat-requires-we-go-back-to-basics)
-- [Challenges of securing a software supply chain](https://www.computerweekly.com/feature/Challenges-of-securing-a-software-supply-chain)
-- [Tech sector sustainability efforts need full ecosystem approach](https://www.computerweekly.com/news/252521657/Tech-sector-sustainability-efforts-need-full-ecosystem-approach)
-- [Data gravity: What is it and how to manage it](https://www.computerweekly.com/feature/Data-gravity-What-is-it-and-how-to-manage-it)
-- [Governance and progression of AI in the UK](https://www.computerweekly.com/opinion/Governance-and-progression-of-AI-in-the-UK)
-- [What the EU’s content-filtering rules could mean for UK tech](https://www.computerweekly.com/feature/What-the-EUs-content-filtering-rules-could-mean-for-UK-tech)
-- [Government responds to Data Reform Bill consultation](https://www.computerweekly.com/news/252521645/Government-responds-to-Data-Reform-Bill-consultation)
+- [Vodafone and Oracle Cloud strike multi-year deal to modernise telco’s European infrastructure](https://www.computerweekly.com/news/252521799/Vodafone-and-Oracle-Cloud-strike-multi-year-deal-to-modernise-telcos-European-infrastructure)
+- [We’re all technologists now – the powerful impact of low-code platforms](https://www.computerweekly.com/opinion/Were-all-technologists-now-the-powerful-impact-of-low-code-platforms)
+- [Government won’t regulate on professional cyber standards](https://www.computerweekly.com/news/252521805/Government-wont-regulate-on-professional-cyber-standards)
+- [Primark trials click &amp; collect for children’s products](https://www.computerweekly.com/news/252521796/Primark-trials-click-and-collect-for-childrens-products)
+- [CNI leaders’ attitude to ransomware lackadaisical at best](https://www.computerweekly.com/news/252521793/CNI-leaders-attitude-to-ransomware-lackadaisical-at-best)
+- [CIO interview: Mark Bramwell, CIO, Saïd Business School](https://www.computerweekly.com/news/252521792/CIO-interview-Mark-Bramwell-CIO-Said-Business-School)
+- [Microsoft Office 365 has ability to ‘spy’ on workers](https://www.computerweekly.com/news/252521757/Microsoft-Office-365-has-ability-to-spy-on-workers)
+- [Cloudflare outage temporarily takes down hundreds of websites](https://www.computerweekly.com/news/252521789/Cloudflare-outage-temporarily-takes-down-hundreds-of-websites)
+- [Supply chain security goes deep – forget this at your peril](https://www.computerweekly.com/opinion/Supply-chain-security-goes-deep-forget-this-at-your-peril)
+- [Dreams come true – how data and communication saved a failing company](https://www.computerweekly.com/ezine/Computer-Weekly/Dreams-come-true-how-data-and-communication-saved-a-failing-company)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

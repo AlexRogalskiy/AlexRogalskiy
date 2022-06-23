@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Uber drivers strike over pay issues and algorithmic transparency](https://www.computerweekly.com/news/252521871/Uber-drivers-strike-over-pay-issues-and-algorithmic-transparency)
+- [Yodel delivery service disrupted by cyber incident](https://www.computerweekly.com/news/252521872/Yodel-delivery-service-disrupted-by-cyber-incident)
+- [UK senior business leaders lack confidence in quality of ESG data, research shows](https://www.computerweekly.com/news/252521862/UK-senior-business-leaders-lack-confidence-in-quality-of-ESG-data-research-shows)
+- [Why the world needs tech standards for UN Sustainable Development Goals](https://www.computerweekly.com/opinion/Why-the-world-needs-tech-standards-for-UN-Sustainable-Development-Goals)
+- [Public cloud ecosystem revenue soars in line with enterprise demand for services during Q1](https://www.computerweekly.com/news/252521848/Public-cloud-ecosystem-revenue-soars-in-line-with-enterprise-demand-for-services-during-Q1)
+- [CIO interview: Simon Liste, chief information technology officer, Pension Protection Fund](https://www.computerweekly.com/news/252521790/CIO-interview-Simon-Liste-chief-information-technology-officer-Pension-Protection-Fund)
+- [Cloudflare confirms outage caused by datacentre network configuration update error](https://www.computerweekly.com/news/252521838/Cloudflare-confirms-outage-caused-by-datacentre-network-configuration-update-error)
+- [Security Think Tank: Balanced approach can detangle supply chain complexity](https://www.computerweekly.com/opinion/Security-Think-Tank-Balanced-approach-can-detangle-supply-chain-complexity)
 - [Vodafone and Oracle Cloud strike multi-year deal to modernise telco’s European infrastructure](https://www.computerweekly.com/news/252521799/Vodafone-and-Oracle-Cloud-strike-multi-year-deal-to-modernise-telcos-European-infrastructure)
 - [We’re all technologists now – the powerful impact of low-code platforms](https://www.computerweekly.com/opinion/Were-all-technologists-now-the-powerful-impact-of-low-code-platforms)
-- [Government won’t regulate on professional cyber standards](https://www.computerweekly.com/news/252521805/Government-wont-regulate-on-professional-cyber-standards)
-- [Primark trials click &amp; collect for children’s products](https://www.computerweekly.com/news/252521796/Primark-trials-click-and-collect-for-childrens-products)
-- [CNI leaders’ attitude to ransomware lackadaisical at best](https://www.computerweekly.com/news/252521793/CNI-leaders-attitude-to-ransomware-lackadaisical-at-best)
-- [CIO interview: Mark Bramwell, CIO, Saïd Business School](https://www.computerweekly.com/news/252521792/CIO-interview-Mark-Bramwell-CIO-Said-Business-School)
-- [Microsoft Office 365 has ability to ‘spy’ on workers](https://www.computerweekly.com/news/252521757/Microsoft-Office-365-has-ability-to-spy-on-workers)
-- [Cloudflare outage temporarily takes down hundreds of websites](https://www.computerweekly.com/news/252521789/Cloudflare-outage-temporarily-takes-down-hundreds-of-websites)
-- [Supply chain security goes deep – forget this at your peril](https://www.computerweekly.com/opinion/Supply-chain-security-goes-deep-forget-this-at-your-peril)
-- [Dreams come true – how data and communication saved a failing company](https://www.computerweekly.com/ezine/Computer-Weekly/Dreams-come-true-how-data-and-communication-saved-a-failing-company)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

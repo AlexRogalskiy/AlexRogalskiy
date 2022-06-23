@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Russia running global cyber-influence operations to support war: Microsoft](https://www.itworldcanada.com/article/russia-running-global-cyber-influence-operations-to-support-war-microsoft/489909)
+- [Ottawa to pump $443 million into second phase of Pan-Canadian AI Strategy](https://www.itworldcanada.com/article/ottawa-to-pump-443-million-into-second-phase-of-pan-canadian-ai-strategy/489891)
+- [John Tory addresses talent retention and social support at Collision 2022](https://www.itworldcanada.com/article/john-tory-addresses-talent-retention-and-social-support-at-collision-2022/489852)
+- [In Praise of Authentic Leadership](https://www.itworldcanada.com/article/in-praise-of-authentic-leadership/489839)
+- [Canada passes online streaming bill to promote local content](https://www.itworldcanada.com/article/canada-passes-online-streaming-bill-to-promote-local-content/489796)
+- [Many OT products are ‘insecure by design,’ say researchers](https://www.itworldcanada.com/article/many-ot-products-are-insecure-by-design-say-researchers/489735)
+- [Cyber Security Today for June 22, 2022 – A possible lesson from a bank’s second data breach, and more](https://www.itworldcanada.com/article/cyber-security-today-for-june-22-2022-a-possible-lesson-from-a-banks-second-data-breach-and-more/489710)
+- [Hashtag Trending June 22 – Tesla faces new lawsuit; Frances Haugen trains lawyers to fight Big Tech; Twitter board recommends Elon Musk takeover bid](https://www.itworldcanada.com/article/hashtag-trending-june-22-tesla-faces-new-lawsuit-frances-haugen-trains-lawyers-to-fight-big-tech-twitter-board-recommends-elon-musk-takeover-bid/489673)
 - [Spot the robot a definite hit at Collision 2022](https://www.itworldcanada.com/article/spot-the-robot-a-definite-hit-at-collision-2022/489703)
 - [Five awesome startups we saw at Collision 2022](https://www.itworldcanada.com/article/five-awesome-startups-we-saw-at-collision-2022/489688)
-- [Collision 2022 panel discusses the very changing world of the supply chain](https://www.itworldcanada.com/article/collision-2022-panel-discusses-the-very-changing-world-of-the-supply-chain/489677)
-- [Applications now open for businesses to apply to the Regional Quantum Initiative in southern Ontario](https://www.itworldcanada.com/article/applications-now-open-for-businesses-to-apply-to-the-regional-quantum-initiative-in-southern-ontario/489516)
-- [Coffee Briefing June 21 , 2022 – SAS’s Batting Lab; Sage rolls out new platforms; Telus acquires LifeWorks; and more](https://www.itworldcanada.com/article/coffee-briefing-june-21-2022-sass-batting-lab-sage-rolls-out-new-platforms-telus-acquires-lifeworks-and-more/489483)
-- [Cloudflare, Microsoft 365 suffer major outages](https://www.itworldcanada.com/article/cloudflare-microsoft-365-suffer-major-outages/489628)
-- [Hashtag Trending June 21 – Too much smartphone use; family sues Apple over Amber Alert volume in AirPods; and Telegram’s premium tier](https://www.itworldcanada.com/article/hashtag-trending-june-21-too-much-smartphone-use-family-sues-apple-over-amber-alert-volume-in-airpods-and-telegrams-premium-tier/489581)
-- [Honeywell targets building owners with new sustainability offering](https://www.itworldcanada.com/article/honeywell-targets-building-owners-with-new-sustainability-offering/489533)
-- [Cyber Security Today, June 20, 2022 – A warning for end-of-life Cisco routers, another wave of ransomware attacks on QNAP devices and more](https://www.itworldcanada.com/article/cyber-security-today-june-20-2022-a-warning-for-end-of-life-cisco-routers-another-wave-of-ransomware-attacks-on-qnap-devices-and-more/489357)
-- [Hashtag Trending June 20 – Tesla price hike; Wealthsimple layoff; crypto GPU spending](https://www.itworldcanada.com/article/hashtag-trending-june-18-tesla-price-hike-wealthsimple-layoff-crypto-gpu-spending/489428)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

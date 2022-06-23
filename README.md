@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Alphabet is spending billions to become a force in health care](https://www.economist.com/business/2022/06/20/alphabet-is-spending-billions-to-become-a-force-in-health-care)
-- [Understanding AI for coders: Tabnine &lpar;your alternative to GitHub Copilot&rpar;](https://www.tabnine.com/blog/announcing-tabnine-next-generation/)
-- [Effective Shell](https://effective-shell.com/)
-- [OBS – Open Broadcaster Software](https://obsproject.com/)
-- [Experimenting with Rust in Chromium](https://chromium.googlesource.com/chromium/src/+/refs/heads/main/docs/security/rust-toolchain.md)
-- [Aptible &lpar;YC S14&rpar; is hiring for our secure, compliant PaaS alternative to Heroku](https://www.aptible.com/careers/)
-- [Viddy: A modern watch command. Time machine and pager etc.](https://github.com/sachaos/viddy)
-- [FixPhrase – open-source, patent-free what3words alternative](https://fixphrase.com/)
-- [MEGA: Malleable Encryption Goes Awry](https://mega-awry.io/)
-- [Permacomputing Wiki](https://permacomputing.net/)
+- [Random Ultima Online anecdote #2 – Horses inside players &lpar;2014&rpar;](https://www.raphkoster.com/2014/08/16/random-uo-anecdote-2/)
+- [U.S. plans trial of early detection blood tests for multiple cancers](https://www.science.org/content/article/complexities-are-staggering-u-s-plans-huge-trial-blood-tests-multiple-cancers)
+- [Introducing PyScript &lpar;summary of PyCon keynote&rpar;](https://lwn.net/SubscriberLink/898452/357b195db1ecce28/)
+- [Generally Intelligent &lpar;YC S17&rpar; is hiring machine learning research engineers](https://news.ycombinator.com/item?id=31843932)
+- [Brooks County TX pays off hacker with tax dollars after ransomware attack](https://www.kztv10.com/news/local-news/brooks-county-pays-off-hacker-with-tax-dollars-after-ransomware-attack)
+- [Code vs. No-code](https://jasonmorrissc.github.io/post/2022-02-24_no-code/)
+- [Ladle Rat Rotten Hut &lpar;1940&rpar;](https://www.exploratorium.edu/files/exhibits/ladle/)
+- [Show HN: Crocodile - Better code review for GitHub](https://www.crocodile.dev/)
+- [Repurposing an old Android phone as a web server](https://lbrito1.github.io/blog/2020/02/repurposing-android.html)
+- [The Evolution of THC Vape Cartridges](https://gentlemantoker.com/blogs/liquid-gold-evolution-thc-vape-cartridges)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

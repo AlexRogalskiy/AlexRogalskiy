@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [A tale of two byelections](https://www.theguardian.com/news/audio/2022/jun/22/a-tale-of-two-byelections)
-- [Uvalde shootings: police response an ‘abject failure’, Texas safety chief says](https://www.theguardian.com/us-news/2022/jun/21/uvalde-shootings-texas-public-safety-police-response)
-- [Taiwan scrambles jets to warn away Chinese planes in its air zone as tensions simmer](https://www.theguardian.com/world/2022/jun/22/taiwan-scrambles-jets-to-warn-away-chinese-planes-in-its-air-zone-as-tensions-simmer)
-- [US Senators announce gun violence bill with bipartisan support](https://www.theguardian.com/us-news/2022/jun/21/us-senators-gun-violence-bill-bipartisan-support)
-- [Russia-Ukraine war: what we know on day 119 of the invasion](https://www.theguardian.com/world/2022/jun/22/russia-ukraine-war-what-we-know-on-day-119-of-the-invasion)
-- [‘We want justice, not fuel’: Sri Lanka’s Tamils on north-south divide](https://www.theguardian.com/world/2022/jun/22/sri-lanka-tamils-protests-economic-crisis)
-- [US Forest Service admits ‘multiple miscalculations’ caused New Mexico fire](https://www.theguardian.com/us-news/2022/jun/21/new-mexico-wildfire-forest-service-mistakes)
-- [Joe Lycett standup joke investigated by police after complaint](https://www.theguardian.com/culture/2022/jun/22/joe-lycett-standup-joke-investigated-by-police-after-complaint)
-- [A few good Republicans stopped Trump – but his threat to democracy isn’t over](https://www.theguardian.com/us-news/2022/jun/21/jan-6-hearings-good-republicans-stopped-trump)
-- [Facebook to axe ‘discriminatory’ algorithm in US government settlement](https://www.theguardian.com/technology/2022/jun/21/facebook-lawsuit-settlement-advertising-lookalike-audience-doj)
+- [Afghanistan earthquake: Taliban appeal for more aid as death toll set to mount](https://www.theguardian.com/world/2022/jun/23/afghanistan-earthquake-taliban-appeal-for-more-aid-as-death-toll-mounts)
+- [Is Britain facing a summer of strikes? – podcast](https://www.theguardian.com/news/audio/2022/jun/23/is-britain-facing-a-summer-of-strikes)
+- [Vienna reclaims title of the world’s most liveable city](https://www.theguardian.com/world/2022/jun/23/vienna-reclaims-title-of-the-worlds-most-liveable-city)
+- [Why is Australia so cold right now despite global heating? | Michael Grose for the Conversation](https://www.theguardian.com/australia-news/2022/jun/23/if-global-heating-is-a-thing-why-is-so-called-right-now-weather)
+- [Uvalde police chief placed on leave amid outrage over shooter inaction](https://www.theguardian.com/us-news/2022/jun/22/uvalde-police-chief-leave-shooter-inaction)
+- [French MP sued for allegedly adopting aristocratic family’s name](https://www.theguardian.com/world/2022/jun/23/french-mp-sued-emmanuel-tache-de-la-pagerie-aristocratic-name)
+- [Russia-Ukraine war: what we know on day 120 of the invasion](https://www.theguardian.com/world/2022/jun/23/russia-ukraine-war-what-we-know-on-day-120-of-the-invasion)
+- [Portly python: heaviest-ever snake captured in Florida tips scales at 215lbs](https://www.theguardian.com/us-news/2022/jun/22/heaviest-ever-burmese-python-captured-florida)
+- [In the Philippines, a bun revives myths and misery of a bygone Marcos era](https://www.theguardian.com/world/2022/jun/23/in-the-philippines-a-bun-revives-myths-and-misery-of-a-bygone-marcos-era)
+- [Harriet Harman says Labour’s next leader should be a woman](https://www.theguardian.com/politics/2022/jun/23/harriet-harman-says-labours-next-leader-should-be-a-woman-downright-embarassing)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

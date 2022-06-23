@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Should I accept this job? Please help.](https://www.reddit.com/r/InformationTechnology/comments/vii2dq/should_i_accept_this_job_please_help/)
+- [Is there a way to use my PC to work instead of my work laptop?](https://www.reddit.com/r/InformationTechnology/comments/vidmdg/is_there_a_way_to_use_my_pc_to_work_instead_of_my/)
+- [The CIA Triad Explained](https://www.reddit.com/r/InformationTechnology/comments/via1i8/the_cia_triad_explained/)
+- [Has anyone used YADE for data transfer?](https://www.reddit.com/r/InformationTechnology/comments/vi5nad/has_anyone_used_yade_for_data_transfer/)
+- [How can i track a mobile phone using the IMEI Number? are there any free good apps out there?](https://www.reddit.com/r/InformationTechnology/comments/vi2h7p/how_can_i_track_a_mobile_phone_using_the_imei/)
 - [Calvin Lim, CEO of DFNN](https://www.reddit.com/r/InformationTechnology/comments/vhbvud/calvin_lim_ceo_of_dfnn/)
 - [Old IDE Drive wants to disconnect when attempting to recover files](https://www.reddit.com/r/InformationTechnology/comments/vha0qx/old_ide_drive_wants_to_disconnect_when_attempting/)
-- [What certs should I skip with a Masters in IT?](https://www.reddit.com/r/InformationTechnology/comments/vh0m2h/what_certs_should_i_skip_with_a_masters_in_it/)
 - [Interesting Gadget for Working With Cables](https://www.reddit.com/r/InformationTechnology/comments/vgpmyn/interesting_gadget_for_working_with_cables/)
 - [Tips to get into the IT industry](https://www.reddit.com/r/InformationTechnology/comments/vg3ioq/tips_to_get_into_the_it_industry/)
 - [How would a remote hacker successfully login to a non provisioned AD account?](https://www.reddit.com/r/InformationTechnology/comments/vfghs5/how_would_a_remote_hacker_successfully_login_to_a/)
-- [Come check out my IT podcast!](https://www.reddit.com/r/InformationTechnology/comments/vf7sgg/come_check_out_my_it_podcast/)
-- [Any tips for beginners?](https://www.reddit.com/r/InformationTechnology/comments/vf2wkv/any_tips_for_beginners/)
-- [Programming vs. Scripting](https://www.reddit.com/r/InformationTechnology/comments/vey3lf/programming_vs_scripting/)
-- [Company disabled USB&#39;s and blocked all online storage](https://www.reddit.com/r/InformationTechnology/comments/vestrj/company_disabled_usbs_and_blocked_all_online/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

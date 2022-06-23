@@ -369,6 +369,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Do You Need a CTO: Decision Factors](https://www.informationweek.com/strategic-cio/do-you-need-a-cto-decision-factors)
+- [Legacy ZTNA Solutions Put You at Risk. It’s Time for ZTNA 2.0.](https://www.informationweek.com/palo-alto-networks/legacy-ztna-solutions-put-you-at-risk-it-s-time-for-ztna-2-0-)
+- [There’s a Better Way to Make Strong IT Hires](https://www.informationweek.com/strategic-cio/there-s-a-better-way-to-make-strong-it-hires)
 - [Why Enterprises Shouldn&#39;t Follow Meta&#39;s AI Example](https://www.informationweek.com/big-data/why-enterprises-shouldn-t-follow-meta-s-ai-example)
 - [CIOs Must Streamline IT to Focus on Agility](https://www.informationweek.com/software/cios-must-streamline-it-to-focus-on-agility)
 - [Choosing a Cloud Vendor](https://www.informationweek.com/cloud/choosing-a-cloud-vendor)
@@ -376,9 +379,6 @@
 - [That DOS Won’t Hunt: Shutterfly CTO Talks Going Cloud](https://www.informationweek.com/cloud/that-dos-won-t-hunt-shutterfly-cto-talks-going-cloud)
 - [Bringing Industry Cloud to Your Company: What CIOs Need to Know](https://www.informationweek.com/cloud/bringing-industry-cloud-to-your-company-what-cios-need-to-know)
 - [Internal Network Security Mistakes to Avoid](https://www.informationweek.com/strategic-cio/internal-network-security-mistakes-to-avoid)
-- [Bringing Your IT Staff Back to the Office](https://www.informationweek.com/it-life/bringing-your-it-staff-back-to-the-office)
-- [Cloud-Native Security Best Practices for Evolving Cloud Environments](https://www.informationweek.com/cloud/cloud-native-security-best-practices-for-evolving-cloud-environments)
-- [Cyber Resiliency: What It Is and How To Build It](https://www.informationweek.com/strategic-cio/cyber-resiliency-what-it-is-and-how-to-build-it)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

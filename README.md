@@ -384,16 +384,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [OpenJDK proposal would provide Java class file API](https://www.infoworld.com/article/3664809/openjdk-proposal-would-provide-java-class-file-api.html#tk.rss_all)
+- [Developers value flexibility, tech stack in a hybrid working world](https://www.infoworld.com/article/3664409/developers-value-flexibility-tech-stack-in-a-hybrid-working-world.html#tk.rss_all)
+- [JetBrains Fleet: The future of IDEs?](https://www.infoworld.com/article/3664112/jetbrains-fleet-the-future-of-ides.html#tk.rss_all)
+- [What’s new in Microsoft Azure’s NLP AI services](https://www.infoworld.com/article/3664074/updating-the-azure-cognitive-service-for-language.html#tk.rss_all)
 - [GitHub Copilot AI coding assistant is now generally available](https://www.infoworld.com/article/3664123/github-copilot-ai-coding-assistant-is-now-generally-available.html#tk.rss_all)
 - [Legacy systems are the new attack vectors for hackers](https://www.infoworld.com/article/3664411/legacy-systems-are-the-new-attack-vectors-for-hackers.html#tk.rss_all)
 - [Why Mercedes-Benz runs on 900 Kubernetes clusters](https://www.infoworld.com/article/3664052/why-mercedes-benz-runs-on-900-kubernetes-clusters.html#tk.rss_all)
 - [How AI is changing IoT](https://www.infoworld.com/article/3663017/how-ai-is-changing-iot.html#tk.rss_all)
 - [Microsoft’s complicated dance with open source](https://www.infoworld.com/article/3664338/microsofts-complicated-dance-with-open-source.html#tk.rss_all)
 - [How to create a cloud center of excellence](https://www.infoworld.com/article/3663056/how-to-create-a-cloud-center-of-excellence.html#tk.rss_all)
-- [Are you ready to automate continuous deployment in CI/CD?](https://www.infoworld.com/article/3663055/are-you-ready-to-automate-continuous-deployment-in-cicd.html#tk.rss_all)
-- [C# extension for Visual Studio Code set for LSP overhaul](https://www.infoworld.com/article/3664169/c-extension-for-visual-studio-code-set-for-lsp-overhaul.html#tk.rss_all)
-- [Migration to the cloud may be slowing down](https://www.infoworld.com/article/3664109/migration-to-the-cloud-may-be-slowing-down.html#tk.rss_all)
-- [What is Podman? The container engine replacing Docker](https://www.infoworld.com/article/3663672/what-is-podman-and-will-it-replace-docker.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

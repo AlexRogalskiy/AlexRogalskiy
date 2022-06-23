@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Same Energy – a visual search engine](https://same.energy)
-- [The magic &quot;#!&quot;, shebang/hash-bang mechanism on various Unix flavours](https://www.in-ulm.de/~mascheck/various/shebang/)
-- [Convex vs. Firebase](https://docs.convex.dev/understanding/convex-vs-firebase)
-- [The unnaturalistic fallacy: Covid-19 vaccine mandates should not discriminate](https://jme.bmj.com/content/48/6/371)
-- [Markups Across the Income Distribution [pdf]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4092068)
-- [Multivitamin Supplementation to Prevent Cardiovascular Disease and Cancer](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/vitamin-supplementation-to-prevent-cvd-and-cancer-preventive-medication)
-- [Cloudflare Encrypts Your Data – With Lava Lamps &lpar;2017&rpar;](https://www.fastcompany.com/90137157/the-hardest-working-office-design-in-america-encrypts-your-data-with-lava-lamps)
-- [Let&#39;s remix distributed database design](https://www.youtube.com/watch?v=rNmZZLant9o)
-- [Suwałki Gap - The most dangerous place on earth](https://www.politico.eu/article/suwalki-gap-russia-war-nato-lithuania-poland-border/)
-- [Why secure systems require random numbers &lpar;2013&rpar;](https://blog.cloudflare.com/why-randomness-matters/)
+- [Ah, Carceral Liberalism](https://freddiedeboer.substack.com/p/ah-carceral-liberalism)
+- [All the Ways Google Gets Street View Images](https://www.youtube.com/watch?v=oApM0jBRKbY)
+- [Senators Propose Industry-Friendly Cryptocurrency Bill](https://www.wsj.com/articles/senators-to-propose-industry-friendly-cryptocurrency-bill-11654592401)
+- [There are more galaxies in the Universe than even Carl Sagan ever imagined](https://bigthink.com/starts-with-a-bang/galaxies-in-universe/)
+- [The Rise of Dissociation Music – Pitchfork](https://pitchfork.com/features/overtones/the-rise-of-dissociation-music/)
+- [Facebook Finally Agrees to Eliminate Tool That Enabled Discriminatory Ads](https://www.propublica.org/article/facebook-doj-advertising-discrimination-settlement#1356829)
+- [Hurl – Run and Test HTTP Requests](https://hurl.dev/)
+- [The New Poem-Making Machinery](https://www.newyorker.com/culture/culture-desk/the-new-poem-making-machinery)
+- [Famines and Epidemics Trigger Wars](https://www.insidescience.org/news/how-famines-and-epidemics-trigger-wars)
+- [Twitter’s use of your personal information for tailored advertising](https://help.twitter.com/en/personal-info-and-ads)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

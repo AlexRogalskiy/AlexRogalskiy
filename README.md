@@ -354,6 +354,8 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Apple says it’s time your business ran BIMI](https://www.computerworld.com/article/3665088/apple-says-its-time-your-business-ran-bimi.html#tk.rss_all)
+- [The business user&#39;s guide to Google Voice](https://www.computerworld.com/article/3664093/google-voice-business-users-guide.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [Zoom unveils its latest platform evolution with the launch of Zoom One](https://www.computerworld.com/article/3664180/zoom-unveils-its-latest-platform-evolution-with-the-launch-of-zoom-one.html#tk.rss_all)
 - [Apple doesn’t want a metaverse, it wants a better universe](https://www.computerworld.com/article/3664080/apple-doesnt-want-a-metaverse-it-wants-a-better-universe.html#tk.rss_all)
@@ -362,8 +364,6 @@
 - [Slack adds video and screenshare to Huddles audio chat](https://www.computerworld.com/article/3664174/slack-adds-video-and-screenshare-to-huddles-audio-chat.html#tk.rss_all)
 - [Q&amp;A: Four business leaders on their 4-day workweek pilot plans](https://www.computerworld.com/article/3664094/qanda-3-business-leaders-on-their-4-day-workweek-pilot-plans.html#tk.rss_all)
 - [14 ways Google Lens can save you time on Android](https://www.computerworld.com/article/3572639/google-lens-android.html#tk.rss_all)
-- [Cloudflare outage brings hundreds of sites, services temporarily offline](https://www.computerworld.com/article/3664141/cloudflare-outage-brings-hundreds-of-sites-services-temporarily-offline.html#tk.rss_all)
-- [Hexnode&#39;s CEO on Apple in the enterprise and the transformation of the workplace](https://www.computerworld.com/article/3664075/hexnodes-ceo-on-apple-in-the-enterprise-and-the-transformation-of-the-workplace.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

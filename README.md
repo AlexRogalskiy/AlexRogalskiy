@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ah, Carceral Liberalism](https://freddiedeboer.substack.com/p/ah-carceral-liberalism)
-- [All the Ways Google Gets Street View Images](https://www.youtube.com/watch?v=oApM0jBRKbY)
-- [Senators Propose Industry-Friendly Cryptocurrency Bill](https://www.wsj.com/articles/senators-to-propose-industry-friendly-cryptocurrency-bill-11654592401)
-- [There are more galaxies in the Universe than even Carl Sagan ever imagined](https://bigthink.com/starts-with-a-bang/galaxies-in-universe/)
-- [The Rise of Dissociation Music – Pitchfork](https://pitchfork.com/features/overtones/the-rise-of-dissociation-music/)
-- [Facebook Finally Agrees to Eliminate Tool That Enabled Discriminatory Ads](https://www.propublica.org/article/facebook-doj-advertising-discrimination-settlement#1356829)
-- [Hurl – Run and Test HTTP Requests](https://hurl.dev/)
-- [The New Poem-Making Machinery](https://www.newyorker.com/culture/culture-desk/the-new-poem-making-machinery)
-- [Famines and Epidemics Trigger Wars](https://www.insidescience.org/news/how-famines-and-epidemics-trigger-wars)
-- [Twitter’s use of your personal information for tailored advertising](https://help.twitter.com/en/personal-info-and-ads)
+- [Soundscapes of the JR Yamanote Line](https://yamanote.style//)
+- [Oracle is planning a unified national healthcare database. Will it work?](https://www.beckershospitalreview.com/ehrs/oracle-is-planning-a-unified-national-healthcare-database-will-it-work.html)
+- [WebKit Is Now on GitHub](https://lists.webkit.org/pipermail/webkit-dev/2022-June/032312.html)
+- [Night Moves: Is the Overnight Drift the Grandmother of All Market Anomalies](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4139328)
+- [When it rains, it pours](https://www.npr.org/2022/06/21/1106424742/college-financial-aid-prison)
+- [Google Engineer on His Sentient AI Claim [Interview]](https://www.youtube.com/watch?v=kgCUn4fQTsc)
+- [OXO Conquered the American Kitchen](https://slate.com/business/2022/06/oxo-best-kitchen-gadgets-good-grips-history.html)
+- [Show HN: Simple Badges – Simple Icons on Your Favorite Shields.io Badges](https://badges.pages.dev)
+- [FDA Authorizes Covid-19 Vaccines for Children Down to 6 Months of Age](https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-fda-authorizes-moderna-and-pfizer-biontech-covid-19-vaccines-children)
+- [NASA wants nuclear reactor on the Moon by 2030](https://www.theregister.com/2022/06/24/nasa_nuclear_power_moon/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

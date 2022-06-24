@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Calgary’s mayor discusses what city is doing to build up tech sector](https://www.itworldcanada.com/article/calgarys-mayor-discusses-what-city-is-doing-to-build-up-tech-sector/490073)
+- [RBC announces partnerships to provide clients with increased security and control over their financial data](https://www.itworldcanada.com/article/rbc-announces-partnerships-to-provide-clients-with-increased-security-and-control-over-their-financial-data/489884)
+- [IBM Bromont plant celebrates 50 years](https://www.itworldcanada.com/article/ibm-bromont-plant-celebrates-50-years/489963)
+- [Canadian password manager adds dashboard to business edition](https://www.itworldcanada.com/article/canadian-password-manager-adds-dashboard-to-business-edition/489968)
+- [Don’t ditch PowerShell, say intel agencies. Instead, configure it properly](https://www.itworldcanada.com/article/dont-ditch-powershell-say-intel-agencies-instead-configure-it-properly/490022)
+- [Preparing for When the Cookies Crumble](https://www.itworldcanada.com/article/preparing-for-when-the-cookies-crumble/490046)
+- [Hashtag Trending June 23 – Is Amazon running out of workers? Texas to install EV charging stations across highways; Twitter introduces “Notes” feature](https://www.itworldcanada.com/article/hashtag-trending-june-23-is-amazon-running-out-of-workers-texas-to-install-ev-charging-stations-across-highways-twitter-introduces-notes-feature/489858)
 - [Russia running global cyber-influence operations to support war: Microsoft](https://www.itworldcanada.com/article/russia-running-global-cyber-influence-operations-to-support-war-microsoft/489909)
 - [Ottawa to pump $443 million into second phase of Pan-Canadian AI Strategy](https://www.itworldcanada.com/article/ottawa-to-pump-443-million-into-second-phase-of-pan-canadian-ai-strategy/489891)
 - [John Tory addresses talent retention and social support at Collision 2022](https://www.itworldcanada.com/article/john-tory-addresses-talent-retention-and-social-support-at-collision-2022/489852)
-- [In Praise of Authentic Leadership](https://www.itworldcanada.com/article/in-praise-of-authentic-leadership/489839)
-- [Canada passes online streaming bill to promote local content](https://www.itworldcanada.com/article/canada-passes-online-streaming-bill-to-promote-local-content/489796)
-- [Many OT products are ‘insecure by design,’ say researchers](https://www.itworldcanada.com/article/many-ot-products-are-insecure-by-design-say-researchers/489735)
-- [Cyber Security Today for June 22, 2022 – A possible lesson from a bank’s second data breach, and more](https://www.itworldcanada.com/article/cyber-security-today-for-june-22-2022-a-possible-lesson-from-a-banks-second-data-breach-and-more/489710)
-- [Hashtag Trending June 22 – Tesla faces new lawsuit; Frances Haugen trains lawyers to fight Big Tech; Twitter board recommends Elon Musk takeover bid](https://www.itworldcanada.com/article/hashtag-trending-june-22-tesla-faces-new-lawsuit-frances-haugen-trains-lawyers-to-fight-big-tech-twitter-board-recommends-elon-musk-takeover-bid/489673)
-- [Spot the robot a definite hit at Collision 2022](https://www.itworldcanada.com/article/spot-the-robot-a-definite-hit-at-collision-2022/489703)
-- [Five awesome startups we saw at Collision 2022](https://www.itworldcanada.com/article/five-awesome-startups-we-saw-at-collision-2022/489688)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

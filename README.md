@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Afghanistan earthquake: Taliban appeal for more aid as death toll set to mount](https://www.theguardian.com/world/2022/jun/23/afghanistan-earthquake-taliban-appeal-for-more-aid-as-death-toll-mounts)
-- [Is Britain facing a summer of strikes? – podcast](https://www.theguardian.com/news/audio/2022/jun/23/is-britain-facing-a-summer-of-strikes)
-- [Vienna reclaims title of the world’s most liveable city](https://www.theguardian.com/world/2022/jun/23/vienna-reclaims-title-of-the-worlds-most-liveable-city)
-- [Why is Australia so cold right now despite global heating? | Michael Grose for the Conversation](https://www.theguardian.com/australia-news/2022/jun/23/if-global-heating-is-a-thing-why-is-so-called-right-now-weather)
-- [Uvalde police chief placed on leave amid outrage over shooter inaction](https://www.theguardian.com/us-news/2022/jun/22/uvalde-police-chief-leave-shooter-inaction)
-- [French MP sued for allegedly adopting aristocratic family’s name](https://www.theguardian.com/world/2022/jun/23/french-mp-sued-emmanuel-tache-de-la-pagerie-aristocratic-name)
-- [Russia-Ukraine war: what we know on day 120 of the invasion](https://www.theguardian.com/world/2022/jun/23/russia-ukraine-war-what-we-know-on-day-120-of-the-invasion)
-- [Portly python: heaviest-ever snake captured in Florida tips scales at 215lbs](https://www.theguardian.com/us-news/2022/jun/22/heaviest-ever-burmese-python-captured-florida)
-- [In the Philippines, a bun revives myths and misery of a bygone Marcos era](https://www.theguardian.com/world/2022/jun/23/in-the-philippines-a-bun-revives-myths-and-misery-of-a-bygone-marcos-era)
-- [Harriet Harman says Labour’s next leader should be a woman](https://www.theguardian.com/politics/2022/jun/23/harriet-harman-says-labours-next-leader-should-be-a-woman-downright-embarassing)
+- [Tories lose two key byelections on same night in Wakefield and Tiverton and Honiton](https://www.theguardian.com/politics/2022/jun/24/tories-lose-byelections-wakefield-tiverton-honiton-labour-lib-dems)
+- [NBA draft 2022: Magic pick Banchero No 1, Thunder get Holmgren at No 2 – as it happened](https://www.theguardian.com/sport/live/2022/jun/23/nba-draft-2022-jabari-smith-and-chet-holmgren-tipped-to-go-no-1-and-2-live)
+- [Artificial intelligence: conscious or just very convincing? – podcast](https://www.theguardian.com/news/audio/2022/jun/24/artificial-intelligence-conscious-or-just-very-convincing-podcast)
+- [My wife and daughter boss me around. How do I deal with this? | Leading questions](https://www.theguardian.com/lifeandstyle/2022/jun/24/my-wife-and-daughter-boss-me-around-how-do-i-deal-with-this)
+- [Republicans who aided coup attempt sought blanket presidential pardons](https://www.theguardian.com/us-news/2022/jun/23/republicans-election-overturn-trump-presidential-pardon)
+- [Russia-Ukraine war: what we know on day 121 of the invasion](https://www.theguardian.com/world/2022/jun/24/russia-ukraine-war-what-we-know-on-day-121-of-the-invasion)
+- [‘I must stay strong’: hardship for workers fleeing Sri Lanka’s broken economy](https://www.theguardian.com/world/2022/jun/24/i-must-stay-strong-hardship-for-workers-fleeing-sri-lankas-broken-economy)
+- [Greek state TV broadcasts advice on how to siphon gasoline](https://www.theguardian.com/world/2022/jun/24/greek-state-tv-broadcasts-advice-on-how-to-siphon-gasoline)
+- [In life, my sister taught me how to love. In death, she made me want to fix the funeral industry | Jackie Bailey](https://www.theguardian.com/society/2022/jun/24/in-life-my-sister-taught-me-how-to-love-in-death-she-made-me-want-to-fix-the-funeral-industry)
+- [Calls for justice amid fears inquiry into killings of Dom Phillips and Bruno Pereira stalling](https://www.theguardian.com/world/2022/jun/23/dom-phillips-bruno-pereira-investigation-funai)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

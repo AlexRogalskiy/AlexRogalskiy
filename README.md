@@ -369,6 +369,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [How to Handle Third-Party Cyber Incident Response](https://www.informationweek.com/strategic-cio/how-to-handle-third-party-cyber-incident-response)
+- [Where DevOps and Site Reliability Engineers Intersect and Diverge](https://www.informationweek.com/software/where-devops-and-site-reliability-engineers-intersect-and-diverge)
 - [Do You Need a CTO: Decision Factors](https://www.informationweek.com/strategic-cio/do-you-need-a-cto-decision-factors)
 - [Legacy ZTNA Solutions Put You at Risk. It’s Time for ZTNA 2.0.](https://www.informationweek.com/palo-alto-networks/legacy-ztna-solutions-put-you-at-risk-it-s-time-for-ztna-2-0-)
 - [There’s a Better Way to Make Strong IT Hires](https://www.informationweek.com/strategic-cio/there-s-a-better-way-to-make-strong-it-hires)
@@ -377,8 +379,6 @@
 - [Choosing a Cloud Vendor](https://www.informationweek.com/cloud/choosing-a-cloud-vendor)
 - [What Does Mature Cloud Security Look Like?](https://www.informationweek.com/cloud/what-does-mature-cloud-security-look-like-)
 - [That DOS Won’t Hunt: Shutterfly CTO Talks Going Cloud](https://www.informationweek.com/cloud/that-dos-won-t-hunt-shutterfly-cto-talks-going-cloud)
-- [Bringing Industry Cloud to Your Company: What CIOs Need to Know](https://www.informationweek.com/cloud/bringing-industry-cloud-to-your-company-what-cios-need-to-know)
-- [Internal Network Security Mistakes to Avoid](https://www.informationweek.com/strategic-cio/internal-network-security-mistakes-to-avoid)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

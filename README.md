@@ -414,6 +414,9 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Career advice?](https://www.reddit.com/r/InformationTechnology/comments/vj0hr1/career_advice/)
+- [Career Path help](https://www.reddit.com/r/InformationTechnology/comments/viye8p/career_path_help/)
+- [What do you think the role of It in Health sector has increased over the years?](https://www.reddit.com/r/InformationTechnology/comments/vivuvo/what_do_you_think_the_role_of_it_in_health_sector/)
 - [Should I accept this job? Please help.](https://www.reddit.com/r/InformationTechnology/comments/vii2dq/should_i_accept_this_job_please_help/)
 - [Is there a way to use my PC to work instead of my work laptop?](https://www.reddit.com/r/InformationTechnology/comments/vidmdg/is_there_a_way_to_use_my_pc_to_work_instead_of_my/)
 - [The CIA Triad Explained](https://www.reddit.com/r/InformationTechnology/comments/via1i8/the_cia_triad_explained/)
@@ -421,9 +424,6 @@
 - [How can i track a mobile phone using the IMEI Number? are there any free good apps out there?](https://www.reddit.com/r/InformationTechnology/comments/vi2h7p/how_can_i_track_a_mobile_phone_using_the_imei/)
 - [Calvin Lim, CEO of DFNN](https://www.reddit.com/r/InformationTechnology/comments/vhbvud/calvin_lim_ceo_of_dfnn/)
 - [Old IDE Drive wants to disconnect when attempting to recover files](https://www.reddit.com/r/InformationTechnology/comments/vha0qx/old_ide_drive_wants_to_disconnect_when_attempting/)
-- [Interesting Gadget for Working With Cables](https://www.reddit.com/r/InformationTechnology/comments/vgpmyn/interesting_gadget_for_working_with_cables/)
-- [Tips to get into the IT industry](https://www.reddit.com/r/InformationTechnology/comments/vg3ioq/tips_to_get_into_the_it_industry/)
-- [How would a remote hacker successfully login to a non provisioned AD account?](https://www.reddit.com/r/InformationTechnology/comments/vfghs5/how_would_a_remote_hacker_successfully_login_to_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

@@ -384,16 +384,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Rust is most popular WebAssembly language, survey says](https://www.infoworld.com/article/3665128/rust-is-most-popular-webassembly-language-survey-says.html#tk.rss_all)
+- [IaaS, PaaS, drive public cloud ecosystem revenue to $126 billion in Q1](https://www.infoworld.com/article/3665108/iaas-paas-drive-public-cloud-ecosystem-revenue-to-126-billion-in-q1.html#tk.rss_all)
+- [TypeScript 4.8 fixes file watching on Linux, macOS](https://www.infoworld.com/article/3664928/typescript-48-fixes-file-watching-on-linux-macos.html#tk.rss_all)
+- [How to work with trace listeners in ASP.NET Core 6](https://www.infoworld.com/article/3664060/how-to-work-with-trace-listeners-in-aspnet-core-6.html#tk.rss_all)
+- [The best new CSS features for 2022](https://www.infoworld.com/article/3663513/the-best-new-css-features-for-2022.html#tk.rss_all)
 - [OpenJDK proposal would provide Java class file API](https://www.infoworld.com/article/3664809/openjdk-proposal-would-provide-java-class-file-api.html#tk.rss_all)
 - [Developers value flexibility, tech stack in a hybrid working world](https://www.infoworld.com/article/3664409/developers-value-flexibility-tech-stack-in-a-hybrid-working-world.html#tk.rss_all)
 - [JetBrains Fleet: The future of IDEs?](https://www.infoworld.com/article/3664112/jetbrains-fleet-the-future-of-ides.html#tk.rss_all)
 - [What’s new in Microsoft Azure’s NLP AI services](https://www.infoworld.com/article/3664074/updating-the-azure-cognitive-service-for-language.html#tk.rss_all)
 - [GitHub Copilot AI coding assistant is now generally available](https://www.infoworld.com/article/3664123/github-copilot-ai-coding-assistant-is-now-generally-available.html#tk.rss_all)
-- [Legacy systems are the new attack vectors for hackers](https://www.infoworld.com/article/3664411/legacy-systems-are-the-new-attack-vectors-for-hackers.html#tk.rss_all)
-- [Why Mercedes-Benz runs on 900 Kubernetes clusters](https://www.infoworld.com/article/3664052/why-mercedes-benz-runs-on-900-kubernetes-clusters.html#tk.rss_all)
-- [How AI is changing IoT](https://www.infoworld.com/article/3663017/how-ai-is-changing-iot.html#tk.rss_all)
-- [Microsoft’s complicated dance with open source](https://www.infoworld.com/article/3664338/microsofts-complicated-dance-with-open-source.html#tk.rss_all)
-- [How to create a cloud center of excellence](https://www.infoworld.com/article/3663056/how-to-create-a-cloud-center-of-excellence.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

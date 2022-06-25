@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Is Queen’s Park set to change health records rules? One expert thinks so](https://www.itworldcanada.com/article/is-queens-park-set-to-change-health-records-rules-one-expert-thinks-so/490309)
+- [Cyber Security Today, Week in Review for Friday, June 24, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-june-24-2022/490115)
+- [Tech in Calgary is thriving, says panel at Collision 2022](https://www.itworldcanada.com/article/tech-sector-in-calgary-is-thriving-says-panel-at-collision-2022/490240)
+- [Canadian internet providers must block bad botnets, says regulator](https://www.itworldcanada.com/article/canadian-internet-providers-must-block-bad-botnets-says-regulator/490160)
+- [Cyber Security Today, June 24, 2022 – Unpatched VMware applications still being exploited, ransomware used as a decoy, and a COVID text scam](https://www.itworldcanada.com/article/cyber-security-today-june-24-2022-unpatched-vmware-applications-still-being-exploited-ransomware-used-as-a-decoy-and-a-covid-text-scam/490112)
+- [Hashtag Trending June 24 – FDA cracks down on e-cigarettes; Zuckerberg thinks big for Meta; Netflix to enter the ad space](https://www.itworldcanada.com/article/hashtag-trending-june-24-fda-cracks-down-on-e-cigarettes-zuckerberg-thinks-big-for-meta-netflix-to-enter-the-ad-space/490173)
 - [Calgary’s mayor discusses what city is doing to build up tech sector](https://www.itworldcanada.com/article/calgarys-mayor-discusses-what-city-is-doing-to-build-up-tech-sector/490073)
 - [RBC announces partnerships to provide clients with increased security and control over their financial data](https://www.itworldcanada.com/article/rbc-announces-partnerships-to-provide-clients-with-increased-security-and-control-over-their-financial-data/489884)
 - [IBM Bromont plant celebrates 50 years](https://www.itworldcanada.com/article/ibm-bromont-plant-celebrates-50-years/489963)
 - [Canadian password manager adds dashboard to business edition](https://www.itworldcanada.com/article/canadian-password-manager-adds-dashboard-to-business-edition/489968)
-- [Don’t ditch PowerShell, say intel agencies. Instead, configure it properly](https://www.itworldcanada.com/article/dont-ditch-powershell-say-intel-agencies-instead-configure-it-properly/490022)
-- [Preparing for When the Cookies Crumble](https://www.itworldcanada.com/article/preparing-for-when-the-cookies-crumble/490046)
-- [Hashtag Trending June 23 – Is Amazon running out of workers? Texas to install EV charging stations across highways; Twitter introduces “Notes” feature](https://www.itworldcanada.com/article/hashtag-trending-june-23-is-amazon-running-out-of-workers-texas-to-install-ev-charging-stations-across-highways-twitter-introduces-notes-feature/489858)
-- [Russia running global cyber-influence operations to support war: Microsoft](https://www.itworldcanada.com/article/russia-running-global-cyber-influence-operations-to-support-war-microsoft/489909)
-- [Ottawa to pump $443 million into second phase of Pan-Canadian AI Strategy](https://www.itworldcanada.com/article/ottawa-to-pump-443-million-into-second-phase-of-pan-canadian-ai-strategy/489891)
-- [John Tory addresses talent retention and social support at Collision 2022](https://www.itworldcanada.com/article/john-tory-addresses-talent-retention-and-social-support-at-collision-2022/489852)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

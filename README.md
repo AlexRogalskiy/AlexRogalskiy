@@ -369,6 +369,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Pathways to a Strategic Intelligence Program](https://www.informationweek.com/strategic-cio/pathways-to-a-strategic-intelligence-program)
+- [Why a Culture of Innovation Is Required in an Era of Digital Transformation](https://www.informationweek.com/big-data/why-a-culture-of-innovation-is-required-in-an-era-of-digital-transformation)
 - [How to Handle Third-Party Cyber Incident Response](https://www.informationweek.com/strategic-cio/how-to-handle-third-party-cyber-incident-response)
 - [Where DevOps and Site Reliability Engineers Intersect and Diverge](https://www.informationweek.com/software/where-devops-and-site-reliability-engineers-intersect-and-diverge)
 - [Do You Need a CTO: Decision Factors](https://www.informationweek.com/strategic-cio/do-you-need-a-cto-decision-factors)
@@ -377,8 +379,6 @@
 - [Why Enterprises Shouldn&#39;t Follow Meta&#39;s AI Example](https://www.informationweek.com/big-data/why-enterprises-shouldn-t-follow-meta-s-ai-example)
 - [CIOs Must Streamline IT to Focus on Agility](https://www.informationweek.com/software/cios-must-streamline-it-to-focus-on-agility)
 - [Choosing a Cloud Vendor](https://www.informationweek.com/cloud/choosing-a-cloud-vendor)
-- [What Does Mature Cloud Security Look Like?](https://www.informationweek.com/cloud/what-does-mature-cloud-security-look-like-)
-- [That DOS Won’t Hunt: Shutterfly CTO Talks Going Cloud](https://www.informationweek.com/cloud/that-dos-won-t-hunt-shutterfly-cto-talks-going-cloud)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Castrol and Submer form partnership to popularise use of immersion cooling in datacentres](https://www.computerweekly.com/news/252521989/Castol-and-Submer-form-partnership-to-popularise-use-of-immersion-cooling-in-datacentres)
+- [Green desktop IT: Computer Weekly Downtime Upload podcast](https://www.computerweekly.com/podcast/Green-desktop-IT-Computer-Weekly-Downtime-Upload-podcast)
+- [Ministers and MPs outline vision for digital economy](https://www.computerweekly.com/news/252521939/Ministers-and-MPs-outline-vision-for-digital-economy)
+- [UK tech has 2.8% gender ‘wage gap’, says Hired](https://www.computerweekly.com/news/252521978/UK-tech-has-28-gender-wage-gap-says-Hired)
+- [Black Basta ransomware crew aiming for ‘big leagues’](https://www.computerweekly.com/news/252521980/Black-Basta-ransomware-crew-aiming-for-big-leagues)
+- [Royal Holloway: Securing connected and autonomous vehicles](https://www.computerweekly.com/ehandbook/Royal-Holloway-Securing-connected-and-autonomous-vehicles)
+- [US cyber agency in fresh warning over Log4Shell risk to VMware](https://www.computerweekly.com/news/252521975/US-cyber-agency-in-fresh-warning-over-Log4Shell-risk-to-VMware)
+- [Weka scale-out NAS v4 goes beyond just AWS to go multicloud](https://www.computerweekly.com/news/252521974/Weka-scale-out-NAS-v4-goes-beyond-just-AWS-to-go-multicloud)
+- [Assessment and knowledge: Your key tools to secure suppliers](https://www.computerweekly.com/opinion/Assessment-and-knowledge-Your-key-tools-to-secure-suppliers)
 - [HPE commits to achieving net-zero business goals 10 years ahead of schedule](https://www.computerweekly.com/news/252521934/HPE-commits-to-achieving-net-zero-business-goals-10-years-ahead-of-schedule)
-- [Finding the balance between innovation and data security in healthcare](https://www.computerweekly.com/opinion/Finding-the-balance-between-innovation-and-data-security-in-healthcare)
-- [What will the Data Reform Bill mean for UK businesses operating in the EU?](https://www.computerweekly.com/opinion/What-will-the-Data-Reform-Bill-mean-for-UK-businesses-operating-in-the-EU)
-- [Global file systems: Hybrid cloud and follow-the-sun access](https://www.computerweekly.com/feature/Global-file-systems-Hybrid-cloud-and-follow-the-sun-access)
-- [Ukraine cyber agency enlists Radware to protect government networks](https://www.computerweekly.com/news/252521921/Ukraine-cyber-agency-enlists-Radware-to-protect-government-networks)
-- [Non-European tech giants could be subject to EU-backed anti-greenwashing directive](https://www.computerweekly.com/news/252521916/Non-European-tech-giants-could-be-subject-to-EU-backed-anti-greenwashing-directive)
-- [SolarWinds unveils new development model to avoid a repeat of Sunburst](https://www.computerweekly.com/news/252521914/SolarWinds-unveils-new-development-model-to-avoid-a-repeat-of-Sunburst)
-- [Germany – let’s stop debating data retention and start finding solutions](https://www.computerweekly.com/opinion/Germany-lets-stop-debating-data-retention-and-start-finding-solutions)
-- [Security Think Tank: Supply chain security demands systematic approach](https://www.computerweekly.com/opinion/Security-Think-Tank-Supply-chain-security-demands-systematic-approach)
-- [Uber drivers strike over pay issues and algorithmic transparency](https://www.computerweekly.com/news/252521871/Uber-drivers-strike-over-pay-issues-and-algorithmic-transparency)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

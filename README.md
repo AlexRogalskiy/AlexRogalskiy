@@ -414,6 +414,8 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Question About Artificial Intelligence.](https://www.reddit.com/r/InformationTechnology/comments/vjxwq4/question_about_artificial_intelligence/)
+- [I need an email provider that accepts TLS1.0 and 1.1](https://www.reddit.com/r/InformationTechnology/comments/vjulmm/i_need_an_email_provider_that_accepts_tls10_and_11/)
 - [Career advice?](https://www.reddit.com/r/InformationTechnology/comments/vj0hr1/career_advice/)
 - [Career Path help](https://www.reddit.com/r/InformationTechnology/comments/viye8p/career_path_help/)
 - [What do you think the role of It in Health sector has increased over the years?](https://www.reddit.com/r/InformationTechnology/comments/vivuvo/what_do_you_think_the_role_of_it_in_health_sector/)
@@ -422,8 +424,6 @@
 - [The CIA Triad Explained](https://www.reddit.com/r/InformationTechnology/comments/via1i8/the_cia_triad_explained/)
 - [Has anyone used YADE for data transfer?](https://www.reddit.com/r/InformationTechnology/comments/vi5nad/has_anyone_used_yade_for_data_transfer/)
 - [How can i track a mobile phone using the IMEI Number? are there any free good apps out there?](https://www.reddit.com/r/InformationTechnology/comments/vi2h7p/how_can_i_track_a_mobile_phone_using_the_imei/)
-- [Calvin Lim, CEO of DFNN](https://www.reddit.com/r/InformationTechnology/comments/vhbvud/calvin_lim_ceo_of_dfnn/)
-- [Old IDE Drive wants to disconnect when attempting to recover files](https://www.reddit.com/r/InformationTechnology/comments/vha0qx/old_ide_drive_wants_to_disconnect_when_attempting/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

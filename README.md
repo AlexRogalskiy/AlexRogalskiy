@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Rare ‘triple’ La Niña climate event looks likely – what does the future hold?](https://www.nature.com/articles/d41586-022-01668-1)
-- [Netflix lays off 300 more people – almost 3% of its staff](https://techcrunch.com/2022/06/23/netflix-lays-off-300-more-people-almost-3-of-its-staff/)
-- [A common trap for people entering programming jobs](https://www.natemeyvis.com/a-common-trap-for-people-entering-programming-jobs.html)
-- [Deadbolt locks offer false sense of security &lpar;2014&rpar;](http://www.gaterslocksmith.com/blog/2014/02/01/deadbolt-locks-offer-false-sense-of-security/)
-- [Dueling over Dual_EC_DRGB: Consequences of Corrupting a Standardization Process](https://harvardnsj.org/2022/06/dueling-over-dual_ec_drgb-the-consequences-of-corrupting-a-cryptographic-standardization-process/)
-- [Show HN: Nerd Crawler – monitoring original comic art sites so you don&#39;t have to](https://www.nerdcrawler.com/)
-- [The dangerous playgrounds of 1900s through vintage photographs](https://rarehistoricalphotos.com/dangerous-playgrounds-1900s/)
-- [Advice for academic refugees](https://eigenrobot.substack.com/p/advice-for-academic-refugees)
-- [One centimeter long bacterium discovered](https://www.science.org/doi/10.1126/science.abb3634)
-- [FTC action against Harley-Davidson and Westinghouse for limiting right to repair](https://www.ftc.gov/news-events/news/press-releases/2022/06/ftc-takes-action-against-harley-davidson-westinghouse-illegally-restricting-customers-right-repair-0)
+- [Google says US employees can relocate to states with abortion rights](https://www.theverge.com/2022/6/24/23182288/google-letter-email-employees-roe-v-wade-decision)
+- [The Composition over Inheritance Principle](https://python-patterns.guide/gang-of-four/composition-over-inheritance/)
+- [Goldman Raising $2B to Buy Distressed Celsius Assets](https://www.morningstar.com/news/dow-jones/202206247121/goldman-sachs-looks-to-raise-2-billion-to-buy-celsius-networks-assets-coindesk-says)
+- [Computer Simulations of Proteins Help Unravel Why Chemotherapy Resistance Occurs](https://news.stonybrook.edu/university/computer-simulations-of-proteins-help-unravel-why-chemotherapy-resistance-occurs-2/)
+- [How Bungie identified a mass sender of fake DMCA notices](https://torrentfreak.com/digital-trails-how-bungie-identified-a-mass-sender-of-fake-dmca-notices-220624/)
+- [Artificial Photosynthesis in the Absence of Light](https://www.nature.com/articles/s43016-022-00530-x)
+- [Crypto firm Bitpanda lays off around 20% of its people](https://blog.bitpanda.com/en/way-forward)
+- [ffsend: A fully featured Firefox Send command line client](https://github.com/timvisee/ffsend)
+- [How to find great practice systems design questions](https://www.hackpack.io/blog/great-practice-systems-design-questions)
+- [Show HN: Easily Convert WARC &lpar;Web Archive&rpar; into Parquet, Then Query with DuckDB](https://github.com/maxcountryman/warc-parquet)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Cisco announces plan to exit Russia and Belarus](https://www.networkworld.com/article/3665054/cisco-announces-plan-to-exit-russia-and-belarus.html#tk.rss_all)
+- [The surveillance-as-a-service industry needs to be brought to heel](https://www.computerworld.com/article/3665052/the-surveillance-as-a-service-industry-needs-to-be-brought-to-heel.html#tk.rss_all)
+- [Italian spyware firm is hacking into iOS and Android devices, Google says](https://www.computerworld.com/article/3665050/italian-spyware-firm-is-hacking-into-ios-and-android-devices-google-says.html#tk.rss_all)
+- [Noteworthy tech acquisitions 2022](https://www.computerworld.com/article/3646533/noteworthy-tech-acquisitions-2022.html#tk.rss_all)
+- [Human digital twins and evolution: The real Westworld?](https://www.computerworld.com/article/3664931/human-digital-twins-and-evolution-the-real-westworld.html#tk.rss_all)
+- [There’s just one thing businesses can do about the ‘splinternet’ — adapt](https://www.computerworld.com/article/3664078/theres-just-one-thing-businesses-can-do-about-the-splinternet-adapt.html#tk.rss_all)
+- [Let’s put smartphone mics to better use](https://www.computerworld.com/article/3664119/let-s-put-smartphone-mics-to-better-use.html#tk.rss_all)
 - [Apple says it’s time your business ran BIMI](https://www.computerworld.com/article/3665088/apple-says-its-time-your-business-ran-bimi.html#tk.rss_all)
 - [The business user&#39;s guide to Google Voice](https://www.computerworld.com/article/3664093/google-voice-business-users-guide.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [Zoom unveils its latest platform evolution with the launch of Zoom One](https://www.computerworld.com/article/3664180/zoom-unveils-its-latest-platform-evolution-with-the-launch-of-zoom-one.html#tk.rss_all)
-- [Apple doesn’t want a metaverse, it wants a better universe](https://www.computerworld.com/article/3664080/apple-doesnt-want-a-metaverse-it-wants-a-better-universe.html#tk.rss_all)
-- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
-- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
-- [Slack adds video and screenshare to Huddles audio chat](https://www.computerworld.com/article/3664174/slack-adds-video-and-screenshare-to-huddles-audio-chat.html#tk.rss_all)
-- [Q&amp;A: Four business leaders on their 4-day workweek pilot plans](https://www.computerworld.com/article/3664094/qanda-3-business-leaders-on-their-4-day-workweek-pilot-plans.html#tk.rss_all)
-- [14 ways Google Lens can save you time on Android](https://www.computerworld.com/article/3572639/google-lens-android.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

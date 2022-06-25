@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Soundscapes of the JR Yamanote Line](https://yamanote.style//)
-- [Oracle is planning a unified national healthcare database. Will it work?](https://www.beckershospitalreview.com/ehrs/oracle-is-planning-a-unified-national-healthcare-database-will-it-work.html)
-- [WebKit Is Now on GitHub](https://lists.webkit.org/pipermail/webkit-dev/2022-June/032312.html)
-- [Night Moves: Is the Overnight Drift the Grandmother of All Market Anomalies](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4139328)
-- [When it rains, it pours](https://www.npr.org/2022/06/21/1106424742/college-financial-aid-prison)
-- [Google Engineer on His Sentient AI Claim [Interview]](https://www.youtube.com/watch?v=kgCUn4fQTsc)
-- [OXO Conquered the American Kitchen](https://slate.com/business/2022/06/oxo-best-kitchen-gadgets-good-grips-history.html)
-- [Show HN: Simple Badges – Simple Icons on Your Favorite Shields.io Badges](https://badges.pages.dev)
-- [FDA Authorizes Covid-19 Vaccines for Children Down to 6 Months of Age](https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-fda-authorizes-moderna-and-pfizer-biontech-covid-19-vaccines-children)
-- [NASA wants nuclear reactor on the Moon by 2030](https://www.theregister.com/2022/06/24/nasa_nuclear_power_moon/)
+- [Ancient art and genetics reveal origin of world’s most expensive spice](https://blog.frontiersin.org/2022/03/09/frontiers-plant-science-domestication-origin-saffron-crocus-bronze-age-greece/)
+- [Patagonia will bail out employees arrested in abortion protests](https://www.axios.com/2022/06/24/patagonia-bail-abortion-protests-roe-wade)
+- [The farmers restoring Hawaii’s ancient food forests that once fed an island](https://www.theguardian.com/environment/2022/jun/17/hawaii-traditional-farming-methods-ancient-food-forests)
+- [Revisiting Stateful Metaprogramming in C++20](https://mc-deltat.github.io/articles/stateful-metaprogramming-cpp20)
+- [Pig heart transplant failure: Doctors detail everything that went wrong](https://arstechnica.com/science/2022/06/pig-heart-transplant-failed-as-its-heart-muscle-cells-died/)
+- [Amazon launches CodeWhisperer, a GitHub Copilot-like AI pair programming tool](https://techcrunch.com/2022/06/23/amazon-launches-codewhisperer-its-ai-pair-programming-tool/)
+- [Mystery of Waterloo’s dead soldiers to be re-examined by academics](https://www.theguardian.com/science/2022/jun/18/mystery-of-waterloos-dead-soldiers-to-be-re-examined-by-academics)
+- [A Mystery That Took 13,200 Years to Crack](https://www.theatlantic.com/science/archive/2022/06/mastodon-mammoth-extinction-climate-change/661351/)
+- [BookmatkOS: All-in-One Bookmark Manager](https://bookmarkos.com/)
+- [Linksort: Save your links. Close your tabs](https://linksort.com/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

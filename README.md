@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Tories lose two key byelections on same night in Wakefield and Tiverton and Honiton](https://www.theguardian.com/politics/2022/jun/24/tories-lose-byelections-wakefield-tiverton-honiton-labour-lib-dems)
-- [NBA draft 2022: Magic pick Banchero No 1, Thunder get Holmgren at No 2 – as it happened](https://www.theguardian.com/sport/live/2022/jun/23/nba-draft-2022-jabari-smith-and-chet-holmgren-tipped-to-go-no-1-and-2-live)
-- [Artificial intelligence: conscious or just very convincing? – podcast](https://www.theguardian.com/news/audio/2022/jun/24/artificial-intelligence-conscious-or-just-very-convincing-podcast)
-- [My wife and daughter boss me around. How do I deal with this? | Leading questions](https://www.theguardian.com/lifeandstyle/2022/jun/24/my-wife-and-daughter-boss-me-around-how-do-i-deal-with-this)
-- [Republicans who aided coup attempt sought blanket presidential pardons](https://www.theguardian.com/us-news/2022/jun/23/republicans-election-overturn-trump-presidential-pardon)
-- [Russia-Ukraine war: what we know on day 121 of the invasion](https://www.theguardian.com/world/2022/jun/24/russia-ukraine-war-what-we-know-on-day-121-of-the-invasion)
-- [‘I must stay strong’: hardship for workers fleeing Sri Lanka’s broken economy](https://www.theguardian.com/world/2022/jun/24/i-must-stay-strong-hardship-for-workers-fleeing-sri-lankas-broken-economy)
-- [Greek state TV broadcasts advice on how to siphon gasoline](https://www.theguardian.com/world/2022/jun/24/greek-state-tv-broadcasts-advice-on-how-to-siphon-gasoline)
-- [In life, my sister taught me how to love. In death, she made me want to fix the funeral industry | Jackie Bailey](https://www.theguardian.com/society/2022/jun/24/in-life-my-sister-taught-me-how-to-love-in-death-she-made-me-want-to-fix-the-funeral-industry)
-- [Calls for justice amid fears inquiry into killings of Dom Phillips and Bruno Pereira stalling](https://www.theguardian.com/world/2022/jun/23/dom-phillips-bruno-pereira-investigation-funai)
+- [Russia-Ukraine war: what we know on day 122 of the invasion](https://www.theguardian.com/world/2022/jun/25/russia-ukraine-war-what-we-know-on-day-122-of-the-invasion)
+- [‘Back to the Middle Ages’: Glastonbury stars rail against Roe v Wade decision](https://www.theguardian.com/music/2022/jun/25/glastonbury-stars-roe-v-wade-decision-billie-eilish-phoebe-bridgers)
+- [Billie Eilish at Glastonbury 2022: pyrotechnic pop packs a punch](https://www.theguardian.com/music/2022/jun/25/billie-eilish-at-glastonbury-2022-review-pyramid-stage-headliner)
+- [‘Abortion returns to the states’: US attorneys general react to Roe v Wade ruling](https://www.theguardian.com/law/2022/jun/24/us-attorneys-general-react-supreme-court-ruling)
+- [Rwanda making preparations to take children removed from UK](https://www.theguardian.com/uk-news/2022/jun/24/childrens-facilities-rwanda-hostel-uk-asylum-seekers)
+- [Sam Fender at Glastonbury 2022 review – unforgettable emotional release](https://www.theguardian.com/music/2022/jun/24/sam-fender-at-glastonbury-2022-review-unforgettable-emotional-release)
+- [Sir Paul McCartney plays surprise pre-Glastonbury gig in Frome](https://www.theguardian.com/music/2022/jun/24/sir-paul-mccartney-plays-surprise-pre-glastonbury-gig-in-frome)
+- [Scouting for Girls: Fashion’s Darkest Secret review – terrible tales of sexual abuse in the modelling industry](https://www.theguardian.com/tv-and-radio/2022/jun/24/scouting-for-girls-fashions-darkest-secret-review-abuse-modelling-industry)
+- [Marcus Smith looks to Farrell’s ‘edge’ for partnership against Australia](https://www.theguardian.com/sport/2022/jun/24/marcus-smith-looks-to-farrells-edge-for-partnership-against-australia)
+- [Beth Mead strikes twice as impressive England see off Netherlands](https://www.theguardian.com/football/2022/jun/24/england-come-from-behind-in-impressive-win-over-netherlands)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

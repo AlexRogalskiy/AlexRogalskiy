@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Google says US employees can relocate to states with abortion rights](https://www.theverge.com/2022/6/24/23182288/google-letter-email-employees-roe-v-wade-decision)
-- [The Composition over Inheritance Principle](https://python-patterns.guide/gang-of-four/composition-over-inheritance/)
-- [Goldman Raising $2B to Buy Distressed Celsius Assets](https://www.morningstar.com/news/dow-jones/202206247121/goldman-sachs-looks-to-raise-2-billion-to-buy-celsius-networks-assets-coindesk-says)
-- [Computer Simulations of Proteins Help Unravel Why Chemotherapy Resistance Occurs](https://news.stonybrook.edu/university/computer-simulations-of-proteins-help-unravel-why-chemotherapy-resistance-occurs-2/)
-- [How Bungie identified a mass sender of fake DMCA notices](https://torrentfreak.com/digital-trails-how-bungie-identified-a-mass-sender-of-fake-dmca-notices-220624/)
-- [Artificial Photosynthesis in the Absence of Light](https://www.nature.com/articles/s43016-022-00530-x)
-- [Crypto firm Bitpanda lays off around 20% of its people](https://blog.bitpanda.com/en/way-forward)
-- [ffsend: A fully featured Firefox Send command line client](https://github.com/timvisee/ffsend)
-- [How to find great practice systems design questions](https://www.hackpack.io/blog/great-practice-systems-design-questions)
-- [Show HN: Easily Convert WARC &lpar;Web Archive&rpar; into Parquet, Then Query with DuckDB](https://github.com/maxcountryman/warc-parquet)
+- [Why I still recommend Julia](https://huijzer.xyz/posts/recommend/)
+- [Meta bans staff from open discussion of Roe vs. Wade](https://www.businessinsider.com/meta-bans-staff-from-discussing-roe-v-wade-deleting-messages-2022-6)
+- [Enclave: An Unpickable Lock](https://ominoushum.com/lock/)
+- [Switzerland’s underground freight project gets start date](https://lenews.ch/2022/06/24/switzerlands-underground-freight-project-gets-start-date/)
+- [Don&#39;t let dicts spoil your code &lpar;2020&rpar;](https://roman.pt/posts/dont-let-dicts-spoil-your-code/)
+- [VirtualBuddy: Virtualize macOS 12 and later on Apple Silicon](https://github.com/insidegui/VirtualBuddy)
+- [Mutter-Rounded – A window manager for Gnome, with rounded corners patch](https://github.com/yilozt/mutter-rounded)
+- [Tom Davies has become a beloved icon of GeoGuessr](https://www.newyorker.com/culture/rabbit-holes/the-charming-bloke-who-dominates-geoguessr)
+- [Spiritual Bypassing &lpar;2011&rpar; [pdf]](https://www.johnwelwood.com/articles/TRIC_interview_uncut.pdf)
+- [Mummified baby woolly mammoth found in the Yukon](https://yukon.ca/en/news/mummified-baby-woolly-mammoth-found-gold-miner-klondike)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

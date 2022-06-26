@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war: what we know on day 122 of the invasion](https://www.theguardian.com/world/2022/jun/25/russia-ukraine-war-what-we-know-on-day-122-of-the-invasion)
-- [‘Back to the Middle Ages’: Glastonbury stars rail against Roe v Wade decision](https://www.theguardian.com/music/2022/jun/25/glastonbury-stars-roe-v-wade-decision-billie-eilish-phoebe-bridgers)
-- [Billie Eilish at Glastonbury 2022: pyrotechnic pop packs a punch](https://www.theguardian.com/music/2022/jun/25/billie-eilish-at-glastonbury-2022-review-pyramid-stage-headliner)
-- [‘Abortion returns to the states’: US attorneys general react to Roe v Wade ruling](https://www.theguardian.com/law/2022/jun/24/us-attorneys-general-react-supreme-court-ruling)
-- [Rwanda making preparations to take children removed from UK](https://www.theguardian.com/uk-news/2022/jun/24/childrens-facilities-rwanda-hostel-uk-asylum-seekers)
-- [Sam Fender at Glastonbury 2022 review – unforgettable emotional release](https://www.theguardian.com/music/2022/jun/24/sam-fender-at-glastonbury-2022-review-unforgettable-emotional-release)
-- [Sir Paul McCartney plays surprise pre-Glastonbury gig in Frome](https://www.theguardian.com/music/2022/jun/24/sir-paul-mccartney-plays-surprise-pre-glastonbury-gig-in-frome)
-- [Scouting for Girls: Fashion’s Darkest Secret review – terrible tales of sexual abuse in the modelling industry](https://www.theguardian.com/tv-and-radio/2022/jun/24/scouting-for-girls-fashions-darkest-secret-review-abuse-modelling-industry)
-- [Marcus Smith looks to Farrell’s ‘edge’ for partnership against Australia](https://www.theguardian.com/sport/2022/jun/24/marcus-smith-looks-to-farrells-edge-for-partnership-against-australia)
-- [Beth Mead strikes twice as impressive England see off Netherlands](https://www.theguardian.com/football/2022/jun/24/england-come-from-behind-in-impressive-win-over-netherlands)
+- [Sri Lanka almost out of fuel, with no fresh supplies in sight](https://www.theguardian.com/world/2022/jun/26/sri-lanka-almost-out-of-fuel-with-no-fresh-supplies-in-sight)
+- [Paul McCartney at Glastonbury 2022 review: Grohl, Springsteen and a euphoric trip through time](https://www.theguardian.com/music/2022/jun/26/paul-mccartney-at-glastonbury-2022)
+- [Russia to send Belarus nuclear-capable missiles within months, as G7 leaders gather in Germany](https://www.theguardian.com/world/2022/jun/26/russia-to-send-belarus-nuclear-capable-missiles-within-months-as-g7-leaders-gather-in-germany)
+- [Covid couldn’t cool house prices, but the economic chill might](https://www.theguardian.com/business/2022/jun/26/covid-couldnt-cool-house-prices-but-the-economic-chill-might)
+- [Walk this way: this summers best activewear – in pictures](https://www.theguardian.com/fashion/gallery/2022/jun/25/walk-this-way-this-summers-best-activewear-in-pictures)
+- [Summer sandals: 20 of the best – in pictures](https://www.theguardian.com/fashion/gallery/2022/jun/25/summer-sandals-20-of-the-best-in-pictures)
+- [Gareth Bale confirms Los Angeles FC move when Real contract expires](https://www.theguardian.com/football/2022/jun/25/gareth-bale-set-to-join-los-angeles-fc-when-real-madrid-contract-expires)
+- [Prince Charles is said to have been given €3m in Qatari cash](https://www.theguardian.com/uk-news/2022/jun/25/prince-charles-is-said-to-have-been-given-3m-in-qatari-cash)
+- [Boris Johnson’s aspiration to serve for a third term ‘delusional’](https://www.theguardian.com/politics/2022/jun/25/boris-johnsons-aspiration-to-serve-for-a-third-term-delusional)
+- [Noel Gallagher review – a Glastonbury singalong for the ages](https://www.theguardian.com/music/2022/jun/25/noel-gallagher-review-glastonbury)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

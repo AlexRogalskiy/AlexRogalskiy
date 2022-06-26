@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ancient art and genetics reveal origin of world’s most expensive spice](https://blog.frontiersin.org/2022/03/09/frontiers-plant-science-domestication-origin-saffron-crocus-bronze-age-greece/)
-- [Patagonia will bail out employees arrested in abortion protests](https://www.axios.com/2022/06/24/patagonia-bail-abortion-protests-roe-wade)
-- [The farmers restoring Hawaii’s ancient food forests that once fed an island](https://www.theguardian.com/environment/2022/jun/17/hawaii-traditional-farming-methods-ancient-food-forests)
-- [Revisiting Stateful Metaprogramming in C++20](https://mc-deltat.github.io/articles/stateful-metaprogramming-cpp20)
-- [Pig heart transplant failure: Doctors detail everything that went wrong](https://arstechnica.com/science/2022/06/pig-heart-transplant-failed-as-its-heart-muscle-cells-died/)
-- [Amazon launches CodeWhisperer, a GitHub Copilot-like AI pair programming tool](https://techcrunch.com/2022/06/23/amazon-launches-codewhisperer-its-ai-pair-programming-tool/)
-- [Mystery of Waterloo’s dead soldiers to be re-examined by academics](https://www.theguardian.com/science/2022/jun/18/mystery-of-waterloos-dead-soldiers-to-be-re-examined-by-academics)
-- [A Mystery That Took 13,200 Years to Crack](https://www.theatlantic.com/science/archive/2022/06/mastodon-mammoth-extinction-climate-change/661351/)
-- [BookmatkOS: All-in-One Bookmark Manager](https://bookmarkos.com/)
-- [Linksort: Save your links. Close your tabs](https://linksort.com/)
+- [The Marion Stokes Project](https://www.wsiu.org/recorder-the-marion-stokes-project)
+- [Why Don&#39;t We Care About Disabled People?](https://www.youtube.com/watch?v=k8QmBmcXetg)
+- [A new supercomputer can run &#39;brain-scale&#39; AI, rivaling human brains](https://www.tweaktown.com/news/87039/new-supercomputer-can-run-brain-scale-ai-rivaling-human-brains/index.html)
+- [The Long History of Florida’s Deadliest Tree](https://www.insidehook.com/daily_brief/history/florida-deadliest-tree-manchineel)
+- [Pollen and heat: A looming challenge for global agriculture](https://grist.org/agriculture/pollen-and-heat-a-looming-challenge-for-global-agriculture/)
+- [The Valencia, Spain community will be among the top tech hubs worldwide](https://novobrief.com/nacho-mas-the-valencian-community-will-be-among-the-top-10-tech-hubs-worldwide/9136/)
+- [The Prince by Nicolo Machiavelli &lpar;Translated by W. K. Marriott&rpar;](https://www.gutenberg.org/files/1232/1232-h/1232-h.htm)
+- [Framework for liquid crystal based particle models](https://arxiv.org/abs/2108.07896)
+- [Tiny Tiny RSS is a free and open source web-based feed reader and aggregator](https://tt-rss.org/)
+- [Microsoft Are Paying Users to Use Their Browser](https://hypebeast.com/2022/6/microsoft-are-paying-users-to-use-their-browser)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

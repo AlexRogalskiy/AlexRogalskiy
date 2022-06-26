@@ -414,6 +414,8 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Should I not apply for better jobs if I am new to the field?](https://www.reddit.com/r/InformationTechnology/comments/vktzyv/should_i_not_apply_for_better_jobs_if_i_am_new_to/)
+- [What is the replacement for Bitsgap?](https://www.reddit.com/r/InformationTechnology/comments/vkelqu/what_is_the_replacement_for_bitsgap/)
 - [Question About Artificial Intelligence.](https://www.reddit.com/r/InformationTechnology/comments/vjxwq4/question_about_artificial_intelligence/)
 - [I need an email provider that accepts TLS1.0 and 1.1](https://www.reddit.com/r/InformationTechnology/comments/vjulmm/i_need_an_email_provider_that_accepts_tls10_and_11/)
 - [Career advice?](https://www.reddit.com/r/InformationTechnology/comments/vj0hr1/career_advice/)
@@ -422,8 +424,6 @@
 - [Should I accept this job? Please help.](https://www.reddit.com/r/InformationTechnology/comments/vii2dq/should_i_accept_this_job_please_help/)
 - [Is there a way to use my PC to work instead of my work laptop?](https://www.reddit.com/r/InformationTechnology/comments/vidmdg/is_there_a_way_to_use_my_pc_to_work_instead_of_my/)
 - [The CIA Triad Explained](https://www.reddit.com/r/InformationTechnology/comments/via1i8/the_cia_triad_explained/)
-- [Has anyone used YADE for data transfer?](https://www.reddit.com/r/InformationTechnology/comments/vi5nad/has_anyone_used_yade_for_data_transfer/)
-- [How can i track a mobile phone using the IMEI Number? are there any free good apps out there?](https://www.reddit.com/r/InformationTechnology/comments/vi2h7p/how_can_i_track_a_mobile_phone_using_the_imei/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

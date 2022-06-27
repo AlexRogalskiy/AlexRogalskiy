@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Marion Stokes Project](https://www.wsiu.org/recorder-the-marion-stokes-project)
-- [Why Don&#39;t We Care About Disabled People?](https://www.youtube.com/watch?v=k8QmBmcXetg)
-- [A new supercomputer can run &#39;brain-scale&#39; AI, rivaling human brains](https://www.tweaktown.com/news/87039/new-supercomputer-can-run-brain-scale-ai-rivaling-human-brains/index.html)
-- [The Long History of Florida’s Deadliest Tree](https://www.insidehook.com/daily_brief/history/florida-deadliest-tree-manchineel)
-- [Pollen and heat: A looming challenge for global agriculture](https://grist.org/agriculture/pollen-and-heat-a-looming-challenge-for-global-agriculture/)
-- [The Valencia, Spain community will be among the top tech hubs worldwide](https://novobrief.com/nacho-mas-the-valencian-community-will-be-among-the-top-10-tech-hubs-worldwide/9136/)
-- [The Prince by Nicolo Machiavelli &lpar;Translated by W. K. Marriott&rpar;](https://www.gutenberg.org/files/1232/1232-h/1232-h.htm)
-- [Framework for liquid crystal based particle models](https://arxiv.org/abs/2108.07896)
-- [Tiny Tiny RSS is a free and open source web-based feed reader and aggregator](https://tt-rss.org/)
-- [Microsoft Are Paying Users to Use Their Browser](https://hypebeast.com/2022/6/microsoft-are-paying-users-to-use-their-browser)
+- [Building a 34 Key Keyboard Layout](https://ryan.himmelwright.net/post/building-34-key-layout/)
+- [Miryoku – an ergonomic, minimal, orthogonal, and universal keyboard layout](https://github.com/manna-harbour/miryoku/tree/master/docs/reference)
+- [Ask HN: Who is coordinating a plan to make small towns hipster?](https://news.ycombinator.com/item?id=31890206)
+- [A peek into our template creation process](https://pitch.com/blog/designing-presentation-templates)
+- [Entry-level M2 MacBook Pro has a slower SSD than M1 model](https://9to5mac.com/2022/06/26/m2-macbook-pro-slower-ssd/)
+- [Negentropy could help your life run smoother](https://phys.org/news/2021-03-concept-physics-negentropy-life-smoother.html)
+- [Event Related Potential measures of self-regulation do not predict goal pursuit](https://www.nature.com/articles/s41467-022-30786-7)
+- [I&#39;m lazy so I built a rain notifier instead of checking for rain](https://ahra.in)
+- [Yann LeCun has a bold new vision for the future of AI](https://www.technologyreview.com/2022/06/24/1054817/yann-lecun-bold-new-vision-future-ai-deep-learning-meta/)
+- [Britain’s National Culture Collections](https://www.economist.com/britain/2022/06/23/inside-britains-national-culture-collections)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

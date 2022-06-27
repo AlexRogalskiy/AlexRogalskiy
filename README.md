@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [je cherche comment je pourrais faire pour que quand je partage mon apk a quelqu&#39;un, il puisse seulement l&#39; installer et qu&#39; il ne puisse pas la partager.](https://www.reddit.com/r/InformationTechnology/comments/vlftdx/je_cherche_comment_je_pourrais_faire_pour_que/)
+- [which computer to choose?](https://www.reddit.com/r/InformationTechnology/comments/vldz1z/which_computer_to_choose/)
+- [Which is harder to learn? Cybersecurity vs software development](https://www.reddit.com/r/InformationTechnology/comments/vl75rn/which_is_harder_to_learn_cybersecurity_vs/)
+- [To all IT/Software developers, how could I make 150k+](https://www.reddit.com/r/InformationTechnology/comments/vkz3zq/to_all_itsoftware_developers_how_could_i_make_150k/)
 - [Should I not apply for better jobs if I am new to the field?](https://www.reddit.com/r/InformationTechnology/comments/vktzyv/should_i_not_apply_for_better_jobs_if_i_am_new_to/)
 - [What is the replacement for Bitsgap?](https://www.reddit.com/r/InformationTechnology/comments/vkelqu/what_is_the_replacement_for_bitsgap/)
 - [Question About Artificial Intelligence.](https://www.reddit.com/r/InformationTechnology/comments/vjxwq4/question_about_artificial_intelligence/)
 - [I need an email provider that accepts TLS1.0 and 1.1](https://www.reddit.com/r/InformationTechnology/comments/vjulmm/i_need_an_email_provider_that_accepts_tls10_and_11/)
 - [Career advice?](https://www.reddit.com/r/InformationTechnology/comments/vj0hr1/career_advice/)
 - [Career Path help](https://www.reddit.com/r/InformationTechnology/comments/viye8p/career_path_help/)
-- [What do you think the role of It in Health sector has increased over the years?](https://www.reddit.com/r/InformationTechnology/comments/vivuvo/what_do_you_think_the_role_of_it_in_health_sector/)
-- [Should I accept this job? Please help.](https://www.reddit.com/r/InformationTechnology/comments/vii2dq/should_i_accept_this_job_please_help/)
-- [Is there a way to use my PC to work instead of my work laptop?](https://www.reddit.com/r/InformationTechnology/comments/vidmdg/is_there_a_way_to_use_my_pc_to_work_instead_of_my/)
-- [The CIA Triad Explained](https://www.reddit.com/r/InformationTechnology/comments/via1i8/the_cia_triad_explained/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

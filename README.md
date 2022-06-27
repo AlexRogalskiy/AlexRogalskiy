@@ -429,6 +429,7 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [This week in Ransomware – Friday June 24th, 2022](https://www.itworldcanada.com/article/this-week-in-ransomware-friday-june-24th-2022/490327)
 - [Is Queen’s Park set to change health records rules? One expert thinks so](https://www.itworldcanada.com/article/is-queens-park-set-to-change-health-records-rules-one-expert-thinks-so/490309)
 - [Cyber Security Today, Week in Review for Friday, June 24, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-june-24-2022/490115)
 - [Tech in Calgary is thriving, says panel at Collision 2022](https://www.itworldcanada.com/article/tech-sector-in-calgary-is-thriving-says-panel-at-collision-2022/490240)
@@ -438,7 +439,6 @@
 - [Calgary’s mayor discusses what city is doing to build up tech sector](https://www.itworldcanada.com/article/calgarys-mayor-discusses-what-city-is-doing-to-build-up-tech-sector/490073)
 - [RBC announces partnerships to provide clients with increased security and control over their financial data](https://www.itworldcanada.com/article/rbc-announces-partnerships-to-provide-clients-with-increased-security-and-control-over-their-financial-data/489884)
 - [IBM Bromont plant celebrates 50 years](https://www.itworldcanada.com/article/ibm-bromont-plant-celebrates-50-years/489963)
-- [Canadian password manager adds dashboard to business edition](https://www.itworldcanada.com/article/canadian-password-manager-adds-dashboard-to-business-edition/489968)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

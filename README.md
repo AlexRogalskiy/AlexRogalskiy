@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Sri Lanka almost out of fuel, with no fresh supplies in sight](https://www.theguardian.com/world/2022/jun/26/sri-lanka-almost-out-of-fuel-with-no-fresh-supplies-in-sight)
-- [Paul McCartney at Glastonbury 2022 review: Grohl, Springsteen and a euphoric trip through time](https://www.theguardian.com/music/2022/jun/26/paul-mccartney-at-glastonbury-2022)
-- [Russia to send Belarus nuclear-capable missiles within months, as G7 leaders gather in Germany](https://www.theguardian.com/world/2022/jun/26/russia-to-send-belarus-nuclear-capable-missiles-within-months-as-g7-leaders-gather-in-germany)
-- [Covid couldn’t cool house prices, but the economic chill might](https://www.theguardian.com/business/2022/jun/26/covid-couldnt-cool-house-prices-but-the-economic-chill-might)
-- [Walk this way: this summers best activewear – in pictures](https://www.theguardian.com/fashion/gallery/2022/jun/25/walk-this-way-this-summers-best-activewear-in-pictures)
-- [Summer sandals: 20 of the best – in pictures](https://www.theguardian.com/fashion/gallery/2022/jun/25/summer-sandals-20-of-the-best-in-pictures)
-- [Gareth Bale confirms Los Angeles FC move when Real contract expires](https://www.theguardian.com/football/2022/jun/25/gareth-bale-set-to-join-los-angeles-fc-when-real-madrid-contract-expires)
-- [Prince Charles is said to have been given €3m in Qatari cash](https://www.theguardian.com/uk-news/2022/jun/25/prince-charles-is-said-to-have-been-given-3m-in-qatari-cash)
-- [Boris Johnson’s aspiration to serve for a third term ‘delusional’](https://www.theguardian.com/politics/2022/jun/25/boris-johnsons-aspiration-to-serve-for-a-third-term-delusional)
-- [Noel Gallagher review – a Glastonbury singalong for the ages](https://www.theguardian.com/music/2022/jun/25/noel-gallagher-review-glastonbury)
+- [Casualties reported after house destroyed in Birmingham explosion](https://www.theguardian.com/uk-news/2022/jun/26/casualties-reported-after-house-destroyed-in-birmingham-explosion)
+- [‘Show them our pecs’: G7 leaders mock Putin’s bare-chested horse-riding](https://www.theguardian.com/world/2022/jun/27/show-them-our-pecs-g7-leaders-mock-putins-bare-chested-horse-riding)
+- [Shipwreck of US destroyer ‘Sammy B’ becomes deepest ever discovered](https://www.theguardian.com/world/2022/jun/27/shipwreck-of-us-destroyer-sammy-b-becomes-deepest-ever-discovered)
+- [Can Colombia’s first leftwing president deliver change? – podcast](https://www.theguardian.com/news/audio/2022/jun/27/colombia-first-leftwing-president-gustavo-petro-podcast)
+- [Russia-Ukraine war: what we know on day 124 of the invasion](https://www.theguardian.com/world/2022/jun/27/russia-ukraine-war-what-we-know-on-day-124-of-the-invasion)
+- [Kendrick Lamar at Glastonbury 2022 review – faith, fury and jawdropping brilliance](https://www.theguardian.com/music/2022/jun/27/kendrick-lamar-at-glastonbury-2022-review)
+- [University College London generates £10bn a year for UK, says report](https://www.theguardian.com/education/2022/jun/27/university-college-london-generates-10bn-a-year-for-uk-says-report)
+- [Young people must report harmful online content, says UK watchdog](https://www.theguardian.com/media/2022/jun/27/young-people-must-report-harmful-online-content-says-uk-watchdog)
+- [Mad House review – David Harbour and Bill Pullman spar in dark family psychodrama](https://www.theguardian.com/stage/2022/jun/27/mad-house-review-david-harbour-and-bill-pullman-spar-in-dark-family-psychodrama)
+- [Women’s Euro 2022 team guide No 1: Austria](https://www.theguardian.com/football/2022/jun/27/womens-euro-2022-team-guide-no-1-austria)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

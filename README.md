@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Why I still recommend Julia](https://huijzer.xyz/posts/recommend/)
-- [Meta bans staff from open discussion of Roe vs. Wade](https://www.businessinsider.com/meta-bans-staff-from-discussing-roe-v-wade-deleting-messages-2022-6)
-- [Enclave: An Unpickable Lock](https://ominoushum.com/lock/)
-- [Switzerland’s underground freight project gets start date](https://lenews.ch/2022/06/24/switzerlands-underground-freight-project-gets-start-date/)
-- [Don&#39;t let dicts spoil your code &lpar;2020&rpar;](https://roman.pt/posts/dont-let-dicts-spoil-your-code/)
-- [VirtualBuddy: Virtualize macOS 12 and later on Apple Silicon](https://github.com/insidegui/VirtualBuddy)
-- [Mutter-Rounded – A window manager for Gnome, with rounded corners patch](https://github.com/yilozt/mutter-rounded)
-- [Tom Davies has become a beloved icon of GeoGuessr](https://www.newyorker.com/culture/rabbit-holes/the-charming-bloke-who-dominates-geoguessr)
-- [Spiritual Bypassing &lpar;2011&rpar; [pdf]](https://www.johnwelwood.com/articles/TRIC_interview_uncut.pdf)
-- [Mummified baby woolly mammoth found in the Yukon](https://yukon.ca/en/news/mummified-baby-woolly-mammoth-found-gold-miner-klondike)
+- [USDA Ignoring the Science on Low-Carb Diets](https://unsettledscience.substack.com/p/usda-ignoring-the-science-on-low)
+- [An AI drew my picture](https://twitter.com/wills_wire/status/1541223535481425921)
+- [By Exploring Virtual Worlds, AI Learns in New Ways](https://www.quantamagazine.org/ai-makes-strides-in-virtual-worlds-more-like-our-own-20220624/)
+- [Video PreTraining &lpar;VPT&rpar;: Learning to Act by Watching Unlabeled Online Videos](https://arxiv.org/abs/2206.11795)
+- [Ask HN: What are good genealogy/family history/immigration search engines?](https://news.ycombinator.com/item?id=31889047)
+- [Memory Safety for the World’s Largest Software Project](https://www.memorysafety.org/blog/memory-safety-in-linux-kernel/)
+- [What&#39;s New in Python 3.11?](https://deepsource.io/blog/python-3-11-whats-new/)
+- [PyPI: Python packets steal AWS keys from users](https://blog.sonatype.com/python-packages-upload-your-aws-keys-env-vars-secrets-to-web)
+- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+- [Blade Runner at forty](https://www.esquire.com/uk/culture/a40351034/blade-runner-at-40/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

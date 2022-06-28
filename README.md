@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Casualties reported after house destroyed in Birmingham explosion](https://www.theguardian.com/uk-news/2022/jun/26/casualties-reported-after-house-destroyed-in-birmingham-explosion)
-- [‘Show them our pecs’: G7 leaders mock Putin’s bare-chested horse-riding](https://www.theguardian.com/world/2022/jun/27/show-them-our-pecs-g7-leaders-mock-putins-bare-chested-horse-riding)
-- [Shipwreck of US destroyer ‘Sammy B’ becomes deepest ever discovered](https://www.theguardian.com/world/2022/jun/27/shipwreck-of-us-destroyer-sammy-b-becomes-deepest-ever-discovered)
-- [Can Colombia’s first leftwing president deliver change? – podcast](https://www.theguardian.com/news/audio/2022/jun/27/colombia-first-leftwing-president-gustavo-petro-podcast)
-- [Russia-Ukraine war: what we know on day 124 of the invasion](https://www.theguardian.com/world/2022/jun/27/russia-ukraine-war-what-we-know-on-day-124-of-the-invasion)
-- [Kendrick Lamar at Glastonbury 2022 review – faith, fury and jawdropping brilliance](https://www.theguardian.com/music/2022/jun/27/kendrick-lamar-at-glastonbury-2022-review)
-- [University College London generates £10bn a year for UK, says report](https://www.theguardian.com/education/2022/jun/27/university-college-london-generates-10bn-a-year-for-uk-says-report)
-- [Young people must report harmful online content, says UK watchdog](https://www.theguardian.com/media/2022/jun/27/young-people-must-report-harmful-online-content-says-uk-watchdog)
-- [Mad House review – David Harbour and Bill Pullman spar in dark family psychodrama](https://www.theguardian.com/stage/2022/jun/27/mad-house-review-david-harbour-and-bill-pullman-spar-in-dark-family-psychodrama)
-- [Women’s Euro 2022 team guide No 1: Austria](https://www.theguardian.com/football/2022/jun/27/womens-euro-2022-team-guide-no-1-austria)
+- [At least 46 people found dead in Texas trailer truck](https://www.theguardian.com/us-news/2022/jun/27/texas-trailer-truck-dead-people-san-antonio)
+- [The women’s lives in danger in a post-Roe America](https://www.theguardian.com/news/audio/2022/jun/28/the-womens-lives-in-danger-in-a-post-roe-america)
+- [Sri Lanka suspends fuel sales for two weeks as economic crisis worsens](https://www.theguardian.com/world/2022/jun/28/sri-lanka-suspends-fuel-sales-for-two-weeks-as-economic-crisis-worsens)
+- [Three people killed as Amtrak train hits dump truck and derails in Missouri](https://www.theguardian.com/world/2022/jun/27/amtrak-southern-chief-train-hits-dump-truck-derails-missouri)
+- [At least 16 dead as Russian missile hits shopping centre in Ukraine](https://www.theguardian.com/world/2022/jun/27/russian-missile-hits-shopping-centre-ukraine-kremenchuk)
+- [Kalinina to use Wimbledon prize money to rebuild family home in Ukraine](https://www.theguardian.com/sport/2022/jun/27/ons-jabeur-sweeps-mirjam-bjorklund-aside-wimbledon-first-round)
+- [Warnings of mental health crisis among ‘Covid generation’ of students](https://www.theguardian.com/society/2022/jun/28/warnings-of-mental-health-crisis-among-covid-generation-of-students)
+- [Women’s Euro 2022 team guide No 3: Northern Ireland](https://www.theguardian.com/football/2022/jun/28/womens-euro-2022-team-guide-northern-ireland)
+- [Inflation could push English councils into bankruptcy, say leaders](https://www.theguardian.com/society/2022/jun/28/inflation-could-push-english-councils-into-bankruptcy-say-leaders)
+- [Met asked to investigate claims Qatari sheikh gave €3m to royal charities](https://www.theguardian.com/uk-news/2022/jun/27/met-police-asked-to-investigate-claims-qatari-sheikh-gave-3m-in-cash-to-royal-charities)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

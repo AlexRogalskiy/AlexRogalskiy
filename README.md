@@ -384,16 +384,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [ECMAScript 2022 blesses class elements, top-level await](https://www.infoworld.com/article/3654830/ecmascript-2022-endorses-class-fields-top-level-await.html#tk.rss_all)
+- [Security survives the budget axe](https://www.infoworld.com/article/3665089/security-survives-the-budget-axe.html#tk.rss_all)
+- [7 devops practices to improve application performance](https://www.infoworld.com/article/3664337/7-devops-practices-to-improve-application-performance.html#tk.rss_all)
+- [8 Java frameworks for a cloud-native world](https://www.infoworld.com/article/3664079/8-java-frameworks-for-a-cloud-native-world.html#tk.rss_all)
 - [Apache Doris just &#39;graduated&#39;: Why care about this SQL data warehouse](https://www.infoworld.com/article/3665110/apache-doris-just-graduated-why-care-about-this-sql-data-warehouse.html#tk.rss_all)
 - [Making application modernization pragmatic and useful](https://www.infoworld.com/article/3664178/making-application-modernization-pragmatic-and-useful.html#tk.rss_all)
 - [What is NoSQL? Databases for a cloud-scale future](https://www.infoworld.com/article/3240644/what-is-nosql-databases-for-a-cloud-scale-future.html#tk.rss_all)
 - [Rust is most popular WebAssembly language, survey says](https://www.infoworld.com/article/3665128/rust-is-most-popular-webassembly-language-survey-says.html#tk.rss_all)
 - [IaaS, PaaS, drive public cloud ecosystem revenue to $126 billion in Q1](https://www.infoworld.com/article/3665108/iaas-paas-drive-public-cloud-ecosystem-revenue-to-126-billion-in-q1.html#tk.rss_all)
 - [TypeScript 4.8 fixes file watching on Linux, macOS](https://www.infoworld.com/article/3664928/typescript-48-fixes-file-watching-on-linux-macos.html#tk.rss_all)
-- [How to work with trace listeners in ASP.NET Core 6](https://www.infoworld.com/article/3664060/how-to-work-with-trace-listeners-in-aspnet-core-6.html#tk.rss_all)
-- [The best new CSS features for 2022](https://www.infoworld.com/article/3663513/the-best-new-css-features-for-2022.html#tk.rss_all)
-- [OpenJDK proposal would provide Java class file API](https://www.infoworld.com/article/3664809/openjdk-proposal-would-provide-java-class-file-api.html#tk.rss_all)
-- [Developers value flexibility, tech stack in a hybrid working world](https://www.infoworld.com/article/3664409/developers-value-flexibility-tech-stack-in-a-hybrid-working-world.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [SAS Hackathon 2022 winners decode real-world problems using data](https://www.itworldcanada.com/article/sas-hackathon-2022-winners-decode-real-world-problems-using-data/490291)
+- [Hashtag Trending June 27 – IE retirement causing issues; Netflix cuts another 300 jobs; Mercedes-Benz EV range record](https://www.itworldcanada.com/article/hashtag-trending-june-27-ie-retirement-causing-issues-netflix-cuts-another-300-jobs-mercedes-benz-ev-range-record/490828)
+- [Cyber Security Today, June 27, 2022 – A warning to firms using VoIP systems, malicious files in an open source Python registry, and more](https://www.itworldcanada.com/article/cyber-security-today-june-27-2022-a-warning-to-firms-using-voip-systems-malicious-files-in-an-open-source-python-registry-and-more/490743)
+- [When Two Hats are Better than One](https://www.itworldcanada.com/article/when-two-hats-are-better-than-one/490787)
 - [This week in Ransomware – Friday June 24th, 2022](https://www.itworldcanada.com/article/this-week-in-ransomware-friday-june-24th-2022/490327)
 - [Is Queen’s Park set to change health records rules? One expert thinks so](https://www.itworldcanada.com/article/is-queens-park-set-to-change-health-records-rules-one-expert-thinks-so/490309)
 - [Cyber Security Today, Week in Review for Friday, June 24, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-june-24-2022/490115)
 - [Tech in Calgary is thriving, says panel at Collision 2022](https://www.itworldcanada.com/article/tech-sector-in-calgary-is-thriving-says-panel-at-collision-2022/490240)
 - [Canadian internet providers must block bad botnets, says regulator](https://www.itworldcanada.com/article/canadian-internet-providers-must-block-bad-botnets-says-regulator/490160)
 - [Cyber Security Today, June 24, 2022 – Unpatched VMware applications still being exploited, ransomware used as a decoy, and a COVID text scam](https://www.itworldcanada.com/article/cyber-security-today-june-24-2022-unpatched-vmware-applications-still-being-exploited-ransomware-used-as-a-decoy-and-a-covid-text-scam/490112)
-- [Hashtag Trending June 24 – FDA cracks down on e-cigarettes; Zuckerberg thinks big for Meta; Netflix to enter the ad space](https://www.itworldcanada.com/article/hashtag-trending-june-24-fda-cracks-down-on-e-cigarettes-zuckerberg-thinks-big-for-meta-netflix-to-enter-the-ad-space/490173)
-- [Calgary’s mayor discusses what city is doing to build up tech sector](https://www.itworldcanada.com/article/calgarys-mayor-discusses-what-city-is-doing-to-build-up-tech-sector/490073)
-- [RBC announces partnerships to provide clients with increased security and control over their financial data](https://www.itworldcanada.com/article/rbc-announces-partnerships-to-provide-clients-with-increased-security-and-control-over-their-financial-data/489884)
-- [IBM Bromont plant celebrates 50 years](https://www.itworldcanada.com/article/ibm-bromont-plant-celebrates-50-years/489963)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

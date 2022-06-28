@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Commercial cyber products must be used responsibly, says NCSC CEO](https://www.computerweekly.com/news/252522046/Commercial-cyber-products-must-be-used-responsibly-says-NCSC-CEO)
+- [Brexit a net negative for UK cyber, say CISOs](https://www.computerweekly.com/news/252522049/Brexit-a-net-negative-for-UK-cyber-say-CISOs)
+- [Sustainable Norwegian colocation firm Green Mountain expands to the UK with Infinity SDC buyout](https://www.computerweekly.com/news/252522050/Sustainable-Norwegian-colocation-firm-Green-Mountain-expands-to-the-UK-with-Infinity-SDC-buyout)
+- [Manchester Airports Group taps Rise with SAP service to speed recovery](https://www.computerweekly.com/news/252522043/Manchester-Airports-Group-taps-Rise-with-SAP-service-to-speed-recovery)
+- [LockBit ransomware gang launches bug bounty programme](https://www.computerweekly.com/news/252522035/LockBit-ransomware-gang-launches-bug-bounty-programme)
+- [How to track greenhouse gas emissions](https://www.computerweekly.com/feature/How-to-track-greenhouse-gas-emissions)
+- [The cyber security impact of Operation Russia by Anonymous](https://www.computerweekly.com/feature/The-cyber-security-impact-of-Operation-Russia-by-Anonymous)
+- [Secure everything, not just the weakest link](https://www.computerweekly.com/feature/Secure-everything-not-just-the-weakest-link)
 - [Castrol and Submer form partnership to popularise use of immersion cooling in datacentres](https://www.computerweekly.com/news/252521989/Castol-and-Submer-form-partnership-to-popularise-use-of-immersion-cooling-in-datacentres)
 - [Green desktop IT: Computer Weekly Downtime Upload podcast](https://www.computerweekly.com/podcast/Green-desktop-IT-Computer-Weekly-Downtime-Upload-podcast)
-- [Ministers and MPs outline vision for digital economy](https://www.computerweekly.com/news/252521939/Ministers-and-MPs-outline-vision-for-digital-economy)
-- [UK tech has 2.8% gender ‘wage gap’, says Hired](https://www.computerweekly.com/news/252521978/UK-tech-has-28-gender-wage-gap-says-Hired)
-- [Black Basta ransomware crew aiming for ‘big leagues’](https://www.computerweekly.com/news/252521980/Black-Basta-ransomware-crew-aiming-for-big-leagues)
-- [Royal Holloway: Securing connected and autonomous vehicles](https://www.computerweekly.com/ehandbook/Royal-Holloway-Securing-connected-and-autonomous-vehicles)
-- [US cyber agency in fresh warning over Log4Shell risk to VMware](https://www.computerweekly.com/news/252521975/US-cyber-agency-in-fresh-warning-over-Log4Shell-risk-to-VMware)
-- [Weka scale-out NAS v4 goes beyond just AWS to go multicloud](https://www.computerweekly.com/news/252521974/Weka-scale-out-NAS-v4-goes-beyond-just-AWS-to-go-multicloud)
-- [Assessment and knowledge: Your key tools to secure suppliers](https://www.computerweekly.com/opinion/Assessment-and-knowledge-Your-key-tools-to-secure-suppliers)
-- [HPE commits to achieving net-zero business goals 10 years ahead of schedule](https://www.computerweekly.com/news/252521934/HPE-commits-to-achieving-net-zero-business-goals-10-years-ahead-of-schedule)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

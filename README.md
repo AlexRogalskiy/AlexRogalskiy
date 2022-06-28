@@ -369,6 +369,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Why to Create a More Data-Conscious Company Culture](https://www.informationweek.com/big-data/why-to-create-a-more-data-conscious-company-culture)
+- [Roe v. Wade and the New, Murky Data Privacy Morass](https://www.informationweek.com/big-data/roe-v-wade-and-the-new-murky-data-privacy-morass)
+- [3 Ways Data Problems Can Stop Your Business](https://www.informationweek.com/big-data/3-ways-data-problems-can-stop-your-business)
 - [Pathways to a Strategic Intelligence Program](https://www.informationweek.com/strategic-cio/pathways-to-a-strategic-intelligence-program)
 - [Why a Culture of Innovation Is Required in an Era of Digital Transformation](https://www.informationweek.com/big-data/why-a-culture-of-innovation-is-required-in-an-era-of-digital-transformation)
 - [How to Handle Third-Party Cyber Incident Response](https://www.informationweek.com/strategic-cio/how-to-handle-third-party-cyber-incident-response)
@@ -376,9 +379,6 @@
 - [Do You Need a CTO: Decision Factors](https://www.informationweek.com/strategic-cio/do-you-need-a-cto-decision-factors)
 - [Legacy ZTNA Solutions Put You at Risk. It’s Time for ZTNA 2.0.](https://www.informationweek.com/palo-alto-networks/legacy-ztna-solutions-put-you-at-risk-it-s-time-for-ztna-2-0-)
 - [There’s a Better Way to Make Strong IT Hires](https://www.informationweek.com/strategic-cio/there-s-a-better-way-to-make-strong-it-hires)
-- [Why Enterprises Shouldn&#39;t Follow Meta&#39;s AI Example](https://www.informationweek.com/big-data/why-enterprises-shouldn-t-follow-meta-s-ai-example)
-- [CIOs Must Streamline IT to Focus on Agility](https://www.informationweek.com/software/cios-must-streamline-it-to-focus-on-agility)
-- [Choosing a Cloud Vendor](https://www.informationweek.com/cloud/choosing-a-cloud-vendor)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

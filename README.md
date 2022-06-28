@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [USDA Ignoring the Science on Low-Carb Diets](https://unsettledscience.substack.com/p/usda-ignoring-the-science-on-low)
-- [An AI drew my picture](https://twitter.com/wills_wire/status/1541223535481425921)
-- [By Exploring Virtual Worlds, AI Learns in New Ways](https://www.quantamagazine.org/ai-makes-strides-in-virtual-worlds-more-like-our-own-20220624/)
-- [Video PreTraining &lpar;VPT&rpar;: Learning to Act by Watching Unlabeled Online Videos](https://arxiv.org/abs/2206.11795)
-- [Ask HN: What are good genealogy/family history/immigration search engines?](https://news.ycombinator.com/item?id=31889047)
-- [Memory Safety for the World’s Largest Software Project](https://www.memorysafety.org/blog/memory-safety-in-linux-kernel/)
-- [What&#39;s New in Python 3.11?](https://deepsource.io/blog/python-3-11-whats-new/)
-- [PyPI: Python packets steal AWS keys from users](https://blog.sonatype.com/python-packages-upload-your-aws-keys-env-vars-secrets-to-web)
-- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
-- [Blade Runner at forty](https://www.esquire.com/uk/culture/a40351034/blade-runner-at-40/)
+- [The PocketReform is a made-in-Berlin Linux handheld](https://tuxphones.com/mnt-pocketreform-open-hardware-linux-pda-keyboard-arm/)
+- [A Response](https://caspercloudwalker.bearblog.dev/a-response/)
+- [Why didn&#39;t Gandalf own a Colt .45?](https://featherlessbipeds.substack.com/p/why-didnt-gandalf-own-a-colt-45)
+- [What the Hell Was the Microsoft Network? &lpar;2018&rpar;](http://www.codersnotes.com/notes/the-microsoft-network/)
+- [Show HN: I stripped DALL·E Mini to its bare essentials and converted it to Torch](https://github.com/kuprel/min-dalle)
+- [Landeed &lpar;YC S22&rpar; is hiring Rust and React Native engineers in India](https://www.ycombinator.com/companies/landeed/jobs)
+- [Solar Protocol](http://solarprotocol.net)
+- [People who are isolated from others do worse on cognitive tests: new research](https://theconversation.com/socially-isolated-people-have-differently-wired-brains-and-poorer-cognition-new-research-185150)
+- [tolower&lpar;&rpar; in bulk at speed](https://dotat.at/@/2022-06-27-tolower-swar.html)
+- [Wear leveling in SSDs considered harmful](https://dl.acm.org/doi/10.1145/3538643.3539750)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

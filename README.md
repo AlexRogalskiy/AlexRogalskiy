@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Time for a mid-year browser security check](https://www.computerworld.com/article/3664854/time-for-a-mid-year-browser-security-check.html#tk.rss_all)
+- [How Apple plans to dent reality in the next 12 months](https://www.computerworld.com/article/3665229/how-apple-plans-to-dent-reality-in-the-next-12-months.html#tk.rss_all)
+- [Now open for entries: Best Places to Work in IT 2022](https://www.computerworld.com/article/3665091/now-open-for-entries-best-places-to-work-in-it-2022.html#tk.rss_all)
+- [Zendesk confirms cut-price $10.2B buyout](https://www.computerworld.com/article/3665090/zendesk-confirms-cut-price-10-2b-buyout.html#tk.rss_all)
+- [The great job hunt: 7 top job-search apps hit all-time highs](https://www.computerworld.com/article/3665134/the-great-job-hunt-7-top-job-search-apps-hit-all-time-highs.html#tk.rss_all)
+- [What’s coming in Windows 11 22H2](https://www.computerworld.com/article/3664788/windows-11-22h2-new-features.html#tk.rss_all)
 - [Cisco announces plan to exit Russia and Belarus](https://www.networkworld.com/article/3665054/cisco-announces-plan-to-exit-russia-and-belarus.html#tk.rss_all)
 - [The surveillance-as-a-service industry needs to be brought to heel](https://www.computerworld.com/article/3665052/the-surveillance-as-a-service-industry-needs-to-be-brought-to-heel.html#tk.rss_all)
 - [Italian spyware firm is hacking into iOS and Android devices, Google says](https://www.computerworld.com/article/3665050/italian-spyware-firm-is-hacking-into-ios-and-android-devices-google-says.html#tk.rss_all)
 - [Noteworthy tech acquisitions 2022](https://www.computerworld.com/article/3646533/noteworthy-tech-acquisitions-2022.html#tk.rss_all)
-- [Human digital twins and evolution: The real Westworld?](https://www.computerworld.com/article/3664931/human-digital-twins-and-evolution-the-real-westworld.html#tk.rss_all)
-- [There’s just one thing businesses can do about the ‘splinternet’ — adapt](https://www.computerworld.com/article/3664078/theres-just-one-thing-businesses-can-do-about-the-splinternet-adapt.html#tk.rss_all)
-- [Let’s put smartphone mics to better use](https://www.computerworld.com/article/3664119/let-s-put-smartphone-mics-to-better-use.html#tk.rss_all)
-- [Apple says it’s time your business ran BIMI](https://www.computerworld.com/article/3665088/apple-says-its-time-your-business-ran-bimi.html#tk.rss_all)
-- [The business user&#39;s guide to Google Voice](https://www.computerworld.com/article/3664093/google-voice-business-users-guide.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

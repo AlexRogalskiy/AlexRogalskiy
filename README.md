@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Building a 34 Key Keyboard Layout](https://ryan.himmelwright.net/post/building-34-key-layout/)
-- [Miryoku – an ergonomic, minimal, orthogonal, and universal keyboard layout](https://github.com/manna-harbour/miryoku/tree/master/docs/reference)
-- [Ask HN: Who is coordinating a plan to make small towns hipster?](https://news.ycombinator.com/item?id=31890206)
-- [A peek into our template creation process](https://pitch.com/blog/designing-presentation-templates)
-- [Entry-level M2 MacBook Pro has a slower SSD than M1 model](https://9to5mac.com/2022/06/26/m2-macbook-pro-slower-ssd/)
-- [Negentropy could help your life run smoother](https://phys.org/news/2021-03-concept-physics-negentropy-life-smoother.html)
-- [Event Related Potential measures of self-regulation do not predict goal pursuit](https://www.nature.com/articles/s41467-022-30786-7)
-- [I&#39;m lazy so I built a rain notifier instead of checking for rain](https://ahra.in)
-- [Yann LeCun has a bold new vision for the future of AI](https://www.technologyreview.com/2022/06/24/1054817/yann-lecun-bold-new-vision-future-ai-deep-learning-meta/)
-- [Britain’s National Culture Collections](https://www.economist.com/britain/2022/06/23/inside-britains-national-culture-collections)
+- [Nuclear Powered Sky Hotel](https://www.youtube.com/watch?v=ZrodDBJdGuo)
+- [Why Not Wait on AI Risk?](https://www.overcomingbias.com/2022/06/why-not-wait-on-ai-risk.html)
+- [Best way into front end development for mid 30s career pivot?](https://news.ycombinator.com/item?id=31903731)
+- [One-legged stance performance predicts survival in middle-aged or older patients [pdf]](http://press.psprings.co.uk/bjsm/june/bjsm105360.pdf)
+- [Chinese Scientists: ‘I had no idea when I would see my family again’](https://aps.org/publications/apsnews/202206/unjust-arrests.cfm)
+- [Ask HN: Who is working on collective intelligence systems?](https://news.ycombinator.com/item?id=31903672)
+- [Why Does Tech Do This to Grownups](https://www.bramadams.dev/projects/tech-vacation-policies)
+- [Could you land a plane in an emergency?](https://www.cnn.com/travel/article/could-you-land-plane-emergency/index.html)
+- [Resources for 50s/60&#39;s programming lore?](https://news.ycombinator.com/item?id=31903623)
+- [Rytr is an AI writing assistant that helps you create high-quality content](https://rytr.me/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

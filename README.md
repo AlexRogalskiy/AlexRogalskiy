@@ -414,6 +414,7 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [PC with 7 D-Sub monitors](https://www.reddit.com/r/InformationTechnology/comments/vlsh9b/pc_with_7_dsub_monitors/)
 - [je cherche comment je pourrais faire pour que quand je partage mon apk a quelqu&#39;un, il puisse seulement l&#39; installer et qu&#39; il ne puisse pas la partager.](https://www.reddit.com/r/InformationTechnology/comments/vlftdx/je_cherche_comment_je_pourrais_faire_pour_que/)
 - [which computer to choose?](https://www.reddit.com/r/InformationTechnology/comments/vldz1z/which_computer_to_choose/)
 - [Which is harder to learn? Cybersecurity vs software development](https://www.reddit.com/r/InformationTechnology/comments/vl75rn/which_is_harder_to_learn_cybersecurity_vs/)
@@ -423,7 +424,6 @@
 - [Question About Artificial Intelligence.](https://www.reddit.com/r/InformationTechnology/comments/vjxwq4/question_about_artificial_intelligence/)
 - [I need an email provider that accepts TLS1.0 and 1.1](https://www.reddit.com/r/InformationTechnology/comments/vjulmm/i_need_an_email_provider_that_accepts_tls10_and_11/)
 - [Career advice?](https://www.reddit.com/r/InformationTechnology/comments/vj0hr1/career_advice/)
-- [Career Path help](https://www.reddit.com/r/InformationTechnology/comments/viye8p/career_path_help/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

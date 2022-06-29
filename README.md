@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Nuclear Powered Sky Hotel](https://www.youtube.com/watch?v=ZrodDBJdGuo)
-- [Why Not Wait on AI Risk?](https://www.overcomingbias.com/2022/06/why-not-wait-on-ai-risk.html)
-- [Best way into front end development for mid 30s career pivot?](https://news.ycombinator.com/item?id=31903731)
-- [One-legged stance performance predicts survival in middle-aged or older patients [pdf]](http://press.psprings.co.uk/bjsm/june/bjsm105360.pdf)
-- [Chinese Scientists: ‘I had no idea when I would see my family again’](https://aps.org/publications/apsnews/202206/unjust-arrests.cfm)
-- [Ask HN: Who is working on collective intelligence systems?](https://news.ycombinator.com/item?id=31903672)
-- [Why Does Tech Do This to Grownups](https://www.bramadams.dev/projects/tech-vacation-policies)
-- [Could you land a plane in an emergency?](https://www.cnn.com/travel/article/could-you-land-plane-emergency/index.html)
-- [Resources for 50s/60&#39;s programming lore?](https://news.ycombinator.com/item?id=31903623)
-- [Rytr is an AI writing assistant that helps you create high-quality content](https://rytr.me/)
+- [Pinterest’s Ben Silbermann steps down as chief executive](https://www.nytimes.com/2022/06/28/business/pinterest-ben-silbermann.html)
+- [Tulip Mania](https://en.wikipedia.org/wiki/Tulip_mania)
+- [Dream of unlimited, clean nuclear fusion energy within reach](https://phys.org/news/2022-06-unlimited-nuclear-fusion-energy.html)
+- [Twitter apologizes for abusing user security information after FTC settlement](https://therecord.media/twitter-apologizes-for-abusing-user-security-information-after-150-million-ftc-settlement/)
+- [Are there 10^272,000 Universes?](https://www.youtube.com/watch?v=k_TEoUF12Yk)
+- [Discussion for plagiarizing and any potential immoral problem in CVPR 2022](https://github.com/KillerPipilu/Immoral_CVPR2022)
+- [Australia to light the way with industrial-scale power](https://cosmosmagazine.com/technology/energy/pilbara-energy-hub/)
+- [Ask HD: Shower radio and Bluetooth speaker combo?](https://news.ycombinator.com/item?id=31916057)
+- [Ask HN: What lifestyle choices have led to improved cognitive function/memory?](https://news.ycombinator.com/item?id=31916041)
+- [China’s Killer Doctors: Donors Killed by Organ Removal](https://www.tabletmag.com/sections/science/articles/china-killer-doctors)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

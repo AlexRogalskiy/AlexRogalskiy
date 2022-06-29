@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [At least 46 people found dead in Texas trailer truck](https://www.theguardian.com/us-news/2022/jun/27/texas-trailer-truck-dead-people-san-antonio)
-- [The women’s lives in danger in a post-Roe America](https://www.theguardian.com/news/audio/2022/jun/28/the-womens-lives-in-danger-in-a-post-roe-america)
-- [Sri Lanka suspends fuel sales for two weeks as economic crisis worsens](https://www.theguardian.com/world/2022/jun/28/sri-lanka-suspends-fuel-sales-for-two-weeks-as-economic-crisis-worsens)
-- [Three people killed as Amtrak train hits dump truck and derails in Missouri](https://www.theguardian.com/world/2022/jun/27/amtrak-southern-chief-train-hits-dump-truck-derails-missouri)
-- [At least 16 dead as Russian missile hits shopping centre in Ukraine](https://www.theguardian.com/world/2022/jun/27/russian-missile-hits-shopping-centre-ukraine-kremenchuk)
-- [Kalinina to use Wimbledon prize money to rebuild family home in Ukraine](https://www.theguardian.com/sport/2022/jun/27/ons-jabeur-sweeps-mirjam-bjorklund-aside-wimbledon-first-round)
-- [Warnings of mental health crisis among ‘Covid generation’ of students](https://www.theguardian.com/society/2022/jun/28/warnings-of-mental-health-crisis-among-covid-generation-of-students)
-- [Women’s Euro 2022 team guide No 3: Northern Ireland](https://www.theguardian.com/football/2022/jun/28/womens-euro-2022-team-guide-northern-ireland)
-- [Inflation could push English councils into bankruptcy, say leaders](https://www.theguardian.com/society/2022/jun/28/inflation-could-push-english-councils-into-bankruptcy-say-leaders)
-- [Met asked to investigate claims Qatari sheikh gave €3m to royal charities](https://www.theguardian.com/uk-news/2022/jun/27/met-police-asked-to-investigate-claims-qatari-sheikh-gave-3m-in-cash-to-royal-charities)
+- [Election denier Tina Peters loses Colorado primary for top poll official](https://www.theguardian.com/us-news/2022/jun/29/colorado-primary-result-tina-peters-republican)
+- [China insists Tonga loans come with ‘no political strings attached’](https://www.theguardian.com/world/2022/jun/29/china-tonga-loans-no-political-strings-attached-pacific)
+- [Ukraine: counting the cost of a long war – podcast](https://www.theguardian.com/news/audio/2022/jun/29/ukraine-counting-the-cost-of-a-long-war-podcast)
+- [Air New Zealand to install world-first economy bunk beds on long-haul flights](https://www.theguardian.com/world/2022/jun/29/air-new-zealand-to-install-world-first-economy-bunk-beds-on-long-haul-flights)
+- [Russia-Ukraine war: what we know on day 126 of the invasion](https://www.theguardian.com/world/2022/jun/29/russia-ukraine-war-what-we-know-on-day-126-of-the-invasion)
+- [Ex-White House aide delivers explosive public testimony to January 6 panel](https://www.theguardian.com/us-news/2022/jun/28/january-6-committee-session-new-evidence)
+- [Boris Johnson claims Putin would not have invaded Ukraine if he was a woman](https://www.theguardian.com/world/2022/jun/29/boris-johnson-claims-putin-would-not-have-invaded-ukraine-if-he-was-a-woman)
+- [War on drugs prolonged Colombia’s decades-long civil war, landmark report finds](https://www.theguardian.com/world/2022/jun/29/war-on-drugs-prolonged-colombias-decades-long-civil-war-landmark-report-finds)
+- [AI could improve welfare of farmed chickens by listening to their squawks](https://www.theguardian.com/science/2022/jun/29/ai-could-improve-welfare-of-farmed-chickens-by-listening-to-their-squawks)
+- [UK shop prices hit highest rate of inflation since 2008](https://www.theguardian.com/business/2022/jun/29/uk-shop-prices-highest-inflation-rate-since-2008)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

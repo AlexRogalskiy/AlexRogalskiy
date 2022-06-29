@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Commercial cyber products must be used responsibly, says NCSC CEO](https://www.computerweekly.com/news/252522046/Commercial-cyber-products-must-be-used-responsibly-says-NCSC-CEO)
-- [Brexit a net negative for UK cyber, say CISOs](https://www.computerweekly.com/news/252522049/Brexit-a-net-negative-for-UK-cyber-say-CISOs)
-- [Sustainable Norwegian colocation firm Green Mountain expands to the UK with Infinity SDC buyout](https://www.computerweekly.com/news/252522050/Sustainable-Norwegian-colocation-firm-Green-Mountain-expands-to-the-UK-with-Infinity-SDC-buyout)
-- [Manchester Airports Group taps Rise with SAP service to speed recovery](https://www.computerweekly.com/news/252522043/Manchester-Airports-Group-taps-Rise-with-SAP-service-to-speed-recovery)
-- [LockBit ransomware gang launches bug bounty programme](https://www.computerweekly.com/news/252522035/LockBit-ransomware-gang-launches-bug-bounty-programme)
-- [How to track greenhouse gas emissions](https://www.computerweekly.com/feature/How-to-track-greenhouse-gas-emissions)
-- [The cyber security impact of Operation Russia by Anonymous](https://www.computerweekly.com/feature/The-cyber-security-impact-of-Operation-Russia-by-Anonymous)
-- [Secure everything, not just the weakest link](https://www.computerweekly.com/feature/Secure-everything-not-just-the-weakest-link)
-- [Castrol and Submer form partnership to popularise use of immersion cooling in datacentres](https://www.computerweekly.com/news/252521989/Castol-and-Submer-form-partnership-to-popularise-use-of-immersion-cooling-in-datacentres)
-- [Green desktop IT: Computer Weekly Downtime Upload podcast](https://www.computerweekly.com/podcast/Green-desktop-IT-Computer-Weekly-Downtime-Upload-podcast)
+- [HPE Discover: GreenLake grows new features and customer base](https://www.computerweekly.com/news/252522038/HPE-Discover-GreenLake-grows-new-features-and-custome-base)
+- [Mayor launches digital inclusion pilot for offline Londoners](https://www.computerweekly.com/news/252522112/Mayor-launches-digital-inclusion-pilot-for-offline-Londoners)
+- [Research highlights private equity’s growing hold on datacentre sector](https://www.computerweekly.com/news/252522115/Research-highlights-private-equitys-growing-hold-on-datacentre-sector)
+- [Composability set to be next big thing for digital experience platforms](https://www.computerweekly.com/feature/Composability-set-to-be-next-big-thing-for-digital-experience-platforms)
+- [Proposed changes to copyright law open doors for AI data mining](https://www.computerweekly.com/news/252522094/Proposed-changes-to-copyright-law-open-doors-for-AI-data-mining)
+- [Google Cloud expands availability and scope of IT sustainability tracking tools for enterprises](https://www.computerweekly.com/news/252522096/Google-Cloud-expands-availability-and-scope-of-IT-sustainability-tracking-tools-for-enterprises)
+- [Digital Poverty Alliance unveils evidence review](https://www.computerweekly.com/news/252522091/Digital-Poverty-Alliance-unveils-evidence-review)
+- [Avast uncovers ‘thieves’ kitchen’ of malware-writing teens](https://www.computerweekly.com/news/252522100/Avast-uncovers-thieves-kitchen-of-malware-writing-teens)
+- [Russia-aligned hacktivists behind Lithuania DDoS attack](https://www.computerweekly.com/news/252522092/Russia-aligned-hacktivists-behind-Lithuania-DDoS-attack)
+- [Veritas aims at autonomous backup discovery and provisioning](https://www.computerweekly.com/news/252522087/Veritas-aims-at-autonomous-backup-discovery-and-provisioning)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

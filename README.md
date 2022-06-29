@@ -369,6 +369,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Cybersecurity Best Practices During War in Ukraine](https://www.informationweek.com/strategic-cio/cybersecurity-best-practices-during-war-in-ukraine)
+- [Don’t Let Operational Risks Corrupt Your Hybrid Model](https://www.informationweek.com/strategic-cio/don-t-let-operational-risks-corrupt-your-hybrid-model)
 - [Why to Create a More Data-Conscious Company Culture](https://www.informationweek.com/big-data/why-to-create-a-more-data-conscious-company-culture)
 - [Roe v. Wade and the New, Murky Data Privacy Morass](https://www.informationweek.com/big-data/roe-v-wade-and-the-new-murky-data-privacy-morass)
 - [3 Ways Data Problems Can Stop Your Business](https://www.informationweek.com/big-data/3-ways-data-problems-can-stop-your-business)
@@ -377,8 +379,6 @@
 - [How to Handle Third-Party Cyber Incident Response](https://www.informationweek.com/strategic-cio/how-to-handle-third-party-cyber-incident-response)
 - [Where DevOps and Site Reliability Engineers Intersect and Diverge](https://www.informationweek.com/software/where-devops-and-site-reliability-engineers-intersect-and-diverge)
 - [Do You Need a CTO: Decision Factors](https://www.informationweek.com/strategic-cio/do-you-need-a-cto-decision-factors)
-- [Legacy ZTNA Solutions Put You at Risk. It’s Time for ZTNA 2.0.](https://www.informationweek.com/palo-alto-networks/legacy-ztna-solutions-put-you-at-risk-it-s-time-for-ztna-2-0-)
-- [There’s a Better Way to Make Strong IT Hires](https://www.informationweek.com/strategic-cio/there-s-a-better-way-to-make-strong-it-hires)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

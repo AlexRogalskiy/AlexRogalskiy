@@ -414,6 +414,8 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [What is a Windows Security Option to help with people walking away from their computer without logging out?](https://www.reddit.com/r/InformationTechnology/comments/vn1fkk/what_is_a_windows_security_option_to_help_with/)
+- [I need help](https://www.reddit.com/r/InformationTechnology/comments/vmzn6z/i_need_help/)
 - [PC with 7 D-Sub monitors](https://www.reddit.com/r/InformationTechnology/comments/vlsh9b/pc_with_7_dsub_monitors/)
 - [je cherche comment je pourrais faire pour que quand je partage mon apk a quelqu&#39;un, il puisse seulement l&#39; installer et qu&#39; il ne puisse pas la partager.](https://www.reddit.com/r/InformationTechnology/comments/vlftdx/je_cherche_comment_je_pourrais_faire_pour_que/)
 - [which computer to choose?](https://www.reddit.com/r/InformationTechnology/comments/vldz1z/which_computer_to_choose/)
@@ -422,8 +424,6 @@
 - [Should I not apply for better jobs if I am new to the field?](https://www.reddit.com/r/InformationTechnology/comments/vktzyv/should_i_not_apply_for_better_jobs_if_i_am_new_to/)
 - [What is the replacement for Bitsgap?](https://www.reddit.com/r/InformationTechnology/comments/vkelqu/what_is_the_replacement_for_bitsgap/)
 - [Question About Artificial Intelligence.](https://www.reddit.com/r/InformationTechnology/comments/vjxwq4/question_about_artificial_intelligence/)
-- [I need an email provider that accepts TLS1.0 and 1.1](https://www.reddit.com/r/InformationTechnology/comments/vjulmm/i_need_an_email_provider_that_accepts_tls10_and_11/)
-- [Career advice?](https://www.reddit.com/r/InformationTechnology/comments/vj0hr1/career_advice/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

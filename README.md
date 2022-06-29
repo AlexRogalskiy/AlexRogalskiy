@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Cisco showcases cloud at Cisco Live](https://www.itworldcanada.com/article/cisco-showcases-cloud-at-cisco-live/490856)
+- [AI now and in the next five years: Eric Schmidt talks AI at Collision 2022](https://www.itworldcanada.com/article/ai-now-and-in-the-next-five-years-eric-schmidt-talks-ai-at-collision-2022/491070)
+- [Digital Cities Index: Toronto outpaces 19 others](https://www.itworldcanada.com/article/digital-cities-index-toronto-outpaces-19-others/490865)
+- [Black Basta ransomware gang claims to have already hit 50 organizations](https://www.itworldcanada.com/article/black-basta-ransomware-gang-claims-to-have-already-hit-50-organizations/490903)
+- [Coffee Briefing June 28, 2022 – Blueprint Software Systems fully embraces remote work; Klarna launches loyalty card; HCL Technologies unveils centre in Vancouver; and more](https://www.itworldcanada.com/article/coffee-briefing-june-28-2022-blueprint-software-systems-fully-embraces-remote-work-klarna-launches-loyalty-card-hcl-technologies-unveils-centre-in-vancouver-and-more/490841)
+- [Hashtag Trending June 28 – ‘how to move to Canada’ surges in searches; MacBook Pro M2 SSD speed; streaming ‘moochers’ may not pay for a sub](https://www.itworldcanada.com/article/hashtag-trending-june-28-how-to-move-to-canada-surges-in-searches-macbook-pro-m2-ssd-speed-streaming-moochers-may-not-pay-for-a-sub/490915)
 - [SAS Hackathon 2022 winners decode real-world problems using data](https://www.itworldcanada.com/article/sas-hackathon-2022-winners-decode-real-world-problems-using-data/490291)
 - [Hashtag Trending June 27 – IE retirement causing issues; Netflix cuts another 300 jobs; Mercedes-Benz EV range record](https://www.itworldcanada.com/article/hashtag-trending-june-27-ie-retirement-causing-issues-netflix-cuts-another-300-jobs-mercedes-benz-ev-range-record/490828)
 - [Cyber Security Today, June 27, 2022 – A warning to firms using VoIP systems, malicious files in an open source Python registry, and more](https://www.itworldcanada.com/article/cyber-security-today-june-27-2022-a-warning-to-firms-using-voip-systems-malicious-files-in-an-open-source-python-registry-and-more/490743)
 - [When Two Hats are Better than One](https://www.itworldcanada.com/article/when-two-hats-are-better-than-one/490787)
-- [This week in Ransomware – Friday June 24th, 2022](https://www.itworldcanada.com/article/this-week-in-ransomware-friday-june-24th-2022/490327)
-- [Is Queen’s Park set to change health records rules? One expert thinks so](https://www.itworldcanada.com/article/is-queens-park-set-to-change-health-records-rules-one-expert-thinks-so/490309)
-- [Cyber Security Today, Week in Review for Friday, June 24, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-june-24-2022/490115)
-- [Tech in Calgary is thriving, says panel at Collision 2022](https://www.itworldcanada.com/article/tech-sector-in-calgary-is-thriving-says-panel-at-collision-2022/490240)
-- [Canadian internet providers must block bad botnets, says regulator](https://www.itworldcanada.com/article/canadian-internet-providers-must-block-bad-botnets-says-regulator/490160)
-- [Cyber Security Today, June 24, 2022 – Unpatched VMware applications still being exploited, ransomware used as a decoy, and a COVID text scam](https://www.itworldcanada.com/article/cyber-security-today-june-24-2022-unpatched-vmware-applications-still-being-exploited-ransomware-used-as-a-decoy-and-a-covid-text-scam/490112)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

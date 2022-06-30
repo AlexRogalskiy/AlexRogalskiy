@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [A Chinese woman wrote millions of words of fake Wikipedia history](https://www.sixthtone.com/news/1010653/she-spent-a-decade-writing-fake-russian-history.-wikipedia-just-noticed.-?source=channel_rising)
-- [Ask HN: Has your total compensation drastically changed with the stock downturn?](https://news.ycombinator.com/item?id=31915836)
-- [Generating Children’s Stories Using GPT-3 and DALL·E](https://www.surgehq.ai//blog/generating-childrens-stories-using-gpt-3-and-dall-e)
-- [Thunderbird 102 Released](https://blog.thunderbird.net/2022/06/thunderbird-102-released-a-serious-upgrade-to-your-communication/)
-- [GitJournal: Mobile first Markdown notes synchronized with Git](https://gitjournal.io/)
-- [FTC Sues Walmart for Facilitating Money Transfer Fraud](https://www.ftc.gov/news-events/news/press-releases/2022/06/ftc-sues-walmart-facilitating-money-transfer-fraud-fleeced-customers-out-hundreds-millions)
-- [1916: Ambassador Henry Morgenthau protests the expulsion of Armenians](https://www.laphamsquarterly.org/migration/deported)
-- [US military&#39;s mysterious X-37B space plane zooms toward orbital record](https://www.leonarddavid.com/air-force-x-37b-robotic-space-plane-nearing-record-flight/)
-- [Pen and paper exercises in machine learning](https://arxiv.org/abs/2206.13446)
-- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
+- [Nintendo doesn’t allow you to return games](https://www.nintendo.co.uk/Support/Nintendo-Switch/Refund-for-Downloaded-Game-or-DLC-Wrong-Game-Didn-t-Like-Game-Accidental-Purchase--1379023.html)
+- [Upptime/upptime: Uptime monitor and status page powered by GitHub](https://github.com/upptime/upptime)
+- [SEC rejects Grayscale Bitcoin ETF application [pdf]](https://www.sec.gov/rules/sro/nysearca/2022/34-95180.pdf)
+- [Controversy continues over whether hot water freezes faster than cold](https://www.quantamagazine.org/does-hot-water-freeze-faster-than-cold-physicists-keep-asking-20220629/)
+- [Interview with the author of “Buy Now”, a book about Amazon](https://thereader.mitpress.mit.edu/how-amazon-branded-convenience-and-normalized-monopoly/)
+- [Mimic 3 by Mycroft](https://mycroft.ai/blog/introducing-mimic-3/)
+- [Shrugs.app – A native Slack client for macOS](https://shrugs.app/)
+- [Show HN: Calculator for US individual income tax, from 1970-present](https://news.ycombinator.com/item?id=31925871)
+- [Mastering Nim – now available on Amazon](https://nim-lang.org/blog/2022/06/29/mastering-nim.html)
+- [Reverie Labs &lpar;YC W18&rpar; is hiring software engineers to develop cancer therapies](https://www.reverielabs.com/careers)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Pinterest’s Ben Silbermann steps down as chief executive](https://www.nytimes.com/2022/06/28/business/pinterest-ben-silbermann.html)
-- [Tulip Mania](https://en.wikipedia.org/wiki/Tulip_mania)
-- [Dream of unlimited, clean nuclear fusion energy within reach](https://phys.org/news/2022-06-unlimited-nuclear-fusion-energy.html)
-- [Twitter apologizes for abusing user security information after FTC settlement](https://therecord.media/twitter-apologizes-for-abusing-user-security-information-after-150-million-ftc-settlement/)
-- [Are there 10^272,000 Universes?](https://www.youtube.com/watch?v=k_TEoUF12Yk)
-- [Discussion for plagiarizing and any potential immoral problem in CVPR 2022](https://github.com/KillerPipilu/Immoral_CVPR2022)
-- [Australia to light the way with industrial-scale power](https://cosmosmagazine.com/technology/energy/pilbara-energy-hub/)
-- [Ask HD: Shower radio and Bluetooth speaker combo?](https://news.ycombinator.com/item?id=31916057)
-- [Ask HN: What lifestyle choices have led to improved cognitive function/memory?](https://news.ycombinator.com/item?id=31916041)
-- [China’s Killer Doctors: Donors Killed by Organ Removal](https://www.tabletmag.com/sections/science/articles/china-killer-doctors)
+- [Show HN: Use any web SaaS in an infinite canvas](https://twitter.com/superusapp/status/1537644997725474816)
+- [More than half of flights at some Canadian airports getting cancelled, delayed](https://www.ctvnews.ca/politics/more-than-half-of-flights-at-some-canadian-airports-getting-cancelled-delayed-data-1.5967481)
+- [Ransomware Payment: To Pay, or Not to Pay? That Is the Question](https://www.spiceworks.com/it-security/cyber-risk-management/articles/ransomware-payment-to-pay-not-to-pay/)
+- [Samsung says it is manufacturing 3nm chips in global first](https://asia.nikkei.com/Business/Tech/Semiconductors/Samsung-says-it-is-manufacturing-3nm-chips-in-global-first)
+- [Subreply CSS – A beautiful classless CSS style](https://tsk.bearblog.dev/introducing-subreply-css/)
+- [Exposure to electromagnetic fields and suicide among electric utility workers](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1071010/)
+- [Apple promises ‘white glove experiences’ for its most helpful community members](https://www.theverge.com/2022/6/29/23188003/apple-community-plus-program-tech-support-members)
+- [Where did Microsoft get the “Northwind Traders” data?](https://news.ycombinator.com/item?id=31928334)
+- [The Supreme Court’s judicial activism will deepen cracks in America](https://www.economist.com/leaders/2022/06/29/the-supreme-courts-judicial-activism-will-deepen-cracks-in-america)
+- [Why asteroids are the next big prize in the space race](https://www.bbc.com/news/av/science-environment-61985813)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

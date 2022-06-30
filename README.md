@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Urgent need for new laws to govern biometrics, legal review finds](https://www.computerweekly.com/news/252522157/Urgent-need-for-new-laws-to-govern-biometrics-legal-review-finds)
+- [New cyber extortion op appears to have hit AMD](https://www.computerweekly.com/news/252522151/New-cyber-extortion-op-appears-to-have-hit-AMD)
+- [Backup maintenance: Five key points to consider](https://www.computerweekly.com/feature/Backup-maintenance-Five-key-points-to-consider)
+- [Romance scammers exploit Ukraine war in cynical campaign](https://www.computerweekly.com/news/252522145/Romance-scammers-exploit-Ukraine-war-in-cynical-campaign)
+- [Spy agencies need ‘independent authorisation’ to access telecoms data, say judges](https://www.computerweekly.com/news/252522140/Intelligence-agencies-need-independent-authorisation-to-access-telecoms-data-say-judges)
 - [HPE Discover: GreenLake grows new features and customer base](https://www.computerweekly.com/news/252522038/HPE-Discover-GreenLake-grows-new-features-and-custome-base)
 - [Mayor launches digital inclusion pilot for offline Londoners](https://www.computerweekly.com/news/252522112/Mayor-launches-digital-inclusion-pilot-for-offline-Londoners)
 - [Research highlights private equity’s growing hold on datacentre sector](https://www.computerweekly.com/news/252522115/Research-highlights-private-equitys-growing-hold-on-datacentre-sector)
 - [Composability set to be next big thing for digital experience platforms](https://www.computerweekly.com/feature/Composability-set-to-be-next-big-thing-for-digital-experience-platforms)
 - [Proposed changes to copyright law open doors for AI data mining](https://www.computerweekly.com/news/252522094/Proposed-changes-to-copyright-law-open-doors-for-AI-data-mining)
-- [Google Cloud expands availability and scope of IT sustainability tracking tools for enterprises](https://www.computerweekly.com/news/252522096/Google-Cloud-expands-availability-and-scope-of-IT-sustainability-tracking-tools-for-enterprises)
-- [Digital Poverty Alliance unveils evidence review](https://www.computerweekly.com/news/252522091/Digital-Poverty-Alliance-unveils-evidence-review)
-- [Avast uncovers ‘thieves’ kitchen’ of malware-writing teens](https://www.computerweekly.com/news/252522100/Avast-uncovers-thieves-kitchen-of-malware-writing-teens)
-- [Russia-aligned hacktivists behind Lithuania DDoS attack](https://www.computerweekly.com/news/252522092/Russia-aligned-hacktivists-behind-Lithuania-DDoS-attack)
-- [Veritas aims at autonomous backup discovery and provisioning](https://www.computerweekly.com/news/252522087/Veritas-aims-at-autonomous-backup-discovery-and-provisioning)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

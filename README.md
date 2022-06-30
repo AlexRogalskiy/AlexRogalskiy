@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Election denier Tina Peters loses Colorado primary for top poll official](https://www.theguardian.com/us-news/2022/jun/29/colorado-primary-result-tina-peters-republican)
-- [China insists Tonga loans come with ‘no political strings attached’](https://www.theguardian.com/world/2022/jun/29/china-tonga-loans-no-political-strings-attached-pacific)
-- [Ukraine: counting the cost of a long war – podcast](https://www.theguardian.com/news/audio/2022/jun/29/ukraine-counting-the-cost-of-a-long-war-podcast)
-- [Air New Zealand to install world-first economy bunk beds on long-haul flights](https://www.theguardian.com/world/2022/jun/29/air-new-zealand-to-install-world-first-economy-bunk-beds-on-long-haul-flights)
-- [Russia-Ukraine war: what we know on day 126 of the invasion](https://www.theguardian.com/world/2022/jun/29/russia-ukraine-war-what-we-know-on-day-126-of-the-invasion)
-- [Ex-White House aide delivers explosive public testimony to January 6 panel](https://www.theguardian.com/us-news/2022/jun/28/january-6-committee-session-new-evidence)
-- [Boris Johnson claims Putin would not have invaded Ukraine if he was a woman](https://www.theguardian.com/world/2022/jun/29/boris-johnson-claims-putin-would-not-have-invaded-ukraine-if-he-was-a-woman)
-- [War on drugs prolonged Colombia’s decades-long civil war, landmark report finds](https://www.theguardian.com/world/2022/jun/29/war-on-drugs-prolonged-colombias-decades-long-civil-war-landmark-report-finds)
-- [AI could improve welfare of farmed chickens by listening to their squawks](https://www.theguardian.com/science/2022/jun/29/ai-could-improve-welfare-of-farmed-chickens-by-listening-to-their-squawks)
-- [UK shop prices hit highest rate of inflation since 2008](https://www.theguardian.com/business/2022/jun/29/uk-shop-prices-highest-inflation-rate-since-2008)
+- [Hong Kong tightens security ahead of Xi visit for 25th anniversary of handover](https://www.theguardian.com/world/2022/jun/30/hong-kong-tightens-security-ahead-of-xi-visit-for-25th-anniversary-of-handover)
+- [Nato leaders voice concern about threat China poses to world order for first time](https://www.theguardian.com/world/2022/jun/30/nato-leaders-voice-concern-about-threat-china-poses-to-world-order-for-first-time)
+- [The case against Donald Trump - podcast](https://www.theguardian.com/news/audio/2022/jun/30/the-case-against-donald-trump-podcast)
+- [Four men charged after police find link to Texas migrant deaths](https://www.theguardian.com/us-news/2022/jun/29/texas-migrant-deaths-two-men-charged)
+- [Ferdinand Marcos Jnr to be sworn in as Philippines president](https://www.theguardian.com/world/2022/jun/30/ferdinand-marcos-jnr-bongbong-philippines-president-swearing-in)
+- [Russia-Ukraine war: what we know on day 127 of the invasion](https://www.theguardian.com/world/2022/jun/30/russia-ukraine-war-what-we-know-on-day-127-of-the-invasion)
+- [Killing of Hindu tailor prompts internet shutdown in Indian state over unrest fears](https://www.theguardian.com/world/2022/jun/30/udaipur-hindu-tailor-killing-internet-suspended-shut-down-rajasthan-state-india)
+- [UK doctors call for free abortions for Americans unable to access them](https://www.theguardian.com/world/2022/jun/30/uk-doctors-call-free-abortions-americans-roe-v-wade)
+- [The Hong Kong ‘unofficials’ who advised Britain on the handover – and were ignored](https://www.theguardian.com/world/2022/jun/30/the-hong-kong-unofficials-who-advised-britain-on-the-handover-and-were-ignored)
+- [Women’s Euro 2022 team guide No 7: Germany](https://www.theguardian.com/football/2022/jun/30/womens-euro-2022-team-guide-germany)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

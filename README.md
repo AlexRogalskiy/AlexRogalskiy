@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Why outsourcing must change to solve today’s IT challenges](https://www.itworldcanada.com/article/why-outsourcing-must-change-to-solve-todays-it-challenges/491421)
+- [SAP Labs Montreal – Reinventing the office](https://www.itworldcanada.com/article/sap-labs-montreal-reinventing-the-office/491405)
+- [IBM to open Innovation Centre in Calgary, 250 new jobs to be created](https://www.itworldcanada.com/article/ibm-to-open-innovation-centre-in-calgary-250-new-jobs-to-be-created/491366)
+- [Generation Z and Millennials are bringing change to the tech workforce](https://www.itworldcanada.com/article/generation-z-and-millennials-are-bringing-change-to-the-tech-workforce/491214)
+- [Rogers and Shaw enter mediation with Competition Bureau over $26 billion merger](https://www.itworldcanada.com/article/rogers-and-shaw-enter-mediation-with-competition-bureau-over-26-billion-merger/491331)
+- [Cyber Security Today for June 29, 2022 — A list of the most dangerous software weaknesses is updated, a warning to Kubernetes administrators, and more](https://www.itworldcanada.com/article/cyber-security-today-for-june-29-2022-a-list-of-the-most-dangerous-software-weaknesses-is-updated-a-warning-to-kubernetes-administrators-and-more/491241)
+- [Hashtag Trending June 29 – Period tracking app privacy concerns; Google Hangout migration; new semiconductor plant in Texas](https://www.itworldcanada.com/article/hashtag-trending-june-29-period-tracking-app-privacy-concerns-google-hangout-migration-new-semiconductor-plant-in-texas/491231)
+- [When Two Hats are Better than One](https://www.itworldcanada.com/article/when-two-hats-are-better-than-one/490787)
 - [Cisco showcases cloud at Cisco Live](https://www.itworldcanada.com/article/cisco-showcases-cloud-at-cisco-live/490856)
 - [AI now and in the next five years: Eric Schmidt talks AI at Collision 2022](https://www.itworldcanada.com/article/ai-now-and-in-the-next-five-years-eric-schmidt-talks-ai-at-collision-2022/491070)
-- [Digital Cities Index: Toronto outpaces 19 others](https://www.itworldcanada.com/article/digital-cities-index-toronto-outpaces-19-others/490865)
-- [Black Basta ransomware gang claims to have already hit 50 organizations](https://www.itworldcanada.com/article/black-basta-ransomware-gang-claims-to-have-already-hit-50-organizations/490903)
-- [Coffee Briefing June 28, 2022 – Blueprint Software Systems fully embraces remote work; Klarna launches loyalty card; HCL Technologies unveils centre in Vancouver; and more](https://www.itworldcanada.com/article/coffee-briefing-june-28-2022-blueprint-software-systems-fully-embraces-remote-work-klarna-launches-loyalty-card-hcl-technologies-unveils-centre-in-vancouver-and-more/490841)
-- [Hashtag Trending June 28 – ‘how to move to Canada’ surges in searches; MacBook Pro M2 SSD speed; streaming ‘moochers’ may not pay for a sub](https://www.itworldcanada.com/article/hashtag-trending-june-28-how-to-move-to-canada-surges-in-searches-macbook-pro-m2-ssd-speed-streaming-moochers-may-not-pay-for-a-sub/490915)
-- [SAS Hackathon 2022 winners decode real-world problems using data](https://www.itworldcanada.com/article/sas-hackathon-2022-winners-decode-real-world-problems-using-data/490291)
-- [Hashtag Trending June 27 – IE retirement causing issues; Netflix cuts another 300 jobs; Mercedes-Benz EV range record](https://www.itworldcanada.com/article/hashtag-trending-june-27-ie-retirement-causing-issues-netflix-cuts-another-300-jobs-mercedes-benz-ev-range-record/490828)
-- [Cyber Security Today, June 27, 2022 – A warning to firms using VoIP systems, malicious files in an open source Python registry, and more](https://www.itworldcanada.com/article/cyber-security-today-june-27-2022-a-warning-to-firms-using-voip-systems-malicious-files-in-an-open-source-python-registry-and-more/490743)
-- [When Two Hats are Better than One](https://www.itworldcanada.com/article/when-two-hats-are-better-than-one/490787)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

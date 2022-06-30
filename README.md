@@ -369,6 +369,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Quick Study: Diversity, Equity, and Inclusion](https://www.informationweek.com/strategic-cio/quick-study-diversity-equity-and-inclusion)
+- [CFOs and Automation: Battling Inflation, Increasing Employee Productivity](https://www.informationweek.com/big-data/cfos-and-automation-battling-inflation-increasing-employee-productivity)
 - [Cybersecurity Best Practices During War in Ukraine](https://www.informationweek.com/strategic-cio/cybersecurity-best-practices-during-war-in-ukraine)
 - [Don’t Let Operational Risks Corrupt Your Hybrid Model](https://www.informationweek.com/strategic-cio/don-t-let-operational-risks-corrupt-your-hybrid-model)
 - [Why to Create a More Data-Conscious Company Culture](https://www.informationweek.com/big-data/why-to-create-a-more-data-conscious-company-culture)
@@ -377,8 +379,6 @@
 - [Pathways to a Strategic Intelligence Program](https://www.informationweek.com/strategic-cio/pathways-to-a-strategic-intelligence-program)
 - [Why a Culture of Innovation Is Required in an Era of Digital Transformation](https://www.informationweek.com/big-data/why-a-culture-of-innovation-is-required-in-an-era-of-digital-transformation)
 - [How to Handle Third-Party Cyber Incident Response](https://www.informationweek.com/strategic-cio/how-to-handle-third-party-cyber-incident-response)
-- [Where DevOps and Site Reliability Engineers Intersect and Diverge](https://www.informationweek.com/software/where-devops-and-site-reliability-engineers-intersect-and-diverge)
-- [Do You Need a CTO: Decision Factors](https://www.informationweek.com/strategic-cio/do-you-need-a-cto-decision-factors)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

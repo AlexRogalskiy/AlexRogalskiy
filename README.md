@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: Use any web SaaS in an infinite canvas](https://twitter.com/superusapp/status/1537644997725474816)
-- [More than half of flights at some Canadian airports getting cancelled, delayed](https://www.ctvnews.ca/politics/more-than-half-of-flights-at-some-canadian-airports-getting-cancelled-delayed-data-1.5967481)
-- [Ransomware Payment: To Pay, or Not to Pay? That Is the Question](https://www.spiceworks.com/it-security/cyber-risk-management/articles/ransomware-payment-to-pay-not-to-pay/)
-- [Samsung says it is manufacturing 3nm chips in global first](https://asia.nikkei.com/Business/Tech/Semiconductors/Samsung-says-it-is-manufacturing-3nm-chips-in-global-first)
-- [Subreply CSS – A beautiful classless CSS style](https://tsk.bearblog.dev/introducing-subreply-css/)
-- [Exposure to electromagnetic fields and suicide among electric utility workers](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1071010/)
-- [Apple promises ‘white glove experiences’ for its most helpful community members](https://www.theverge.com/2022/6/29/23188003/apple-community-plus-program-tech-support-members)
-- [Where did Microsoft get the “Northwind Traders” data?](https://news.ycombinator.com/item?id=31928334)
-- [The Supreme Court’s judicial activism will deepen cracks in America](https://www.economist.com/leaders/2022/06/29/the-supreme-courts-judicial-activism-will-deepen-cracks-in-america)
-- [Why asteroids are the next big prize in the space race](https://www.bbc.com/news/av/science-environment-61985813)
+- [Meta warns employees of ‘serious times’ in internal memo](https://www.theverge.com/2022/6/30/23190164/meta-chris-cox-internal-memo-product-bets-tiktok-metaverse)
+- [Most Powerful Tornadoes Ever Recorded &lpar;Understanding the Enhanced Fujita Rating&rpar;](https://news.ycombinator.com/item?id=31942029)
+- [The riddle that seems impossible even if you know the answer](https://www.youtube.com/watch?v=iSNsgj1OCLA)
+- [NOAA Tornado Damage Assessment Toolkit](https://apps.dat.noaa.gov/stormdamage/damageviewer/)
+- [Ask HN: Is bias always intentional?](https://news.ycombinator.com/item?id=31941958)
+- [Star Minecraft mod creator Techoblade dies after cancer battle](https://dotesports.com/news/minecraft-content-creator-technoblade-has-died-following-battle-with-cancer)
+- [Apple’s former securities lawyer pleads guilty for doing the insider trading he](https://www.theverge.com/2022/6/30/23190572/apple-former-securities-lawyer-gene-levoff-insider-trading-doj)
+- [Doom Builder](http://doombuilder.com/)
+- [Landsat Proved the Power of Remote Sensing](https://spectrum.ieee.org/landsat)
+- [AI predicts crime a week in advance with 90 per cent accuracy](https://www.newscientist.com/article/2326297-ai-predicts-crime-a-week-in-advance-with-90-per-cent-accuracy/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

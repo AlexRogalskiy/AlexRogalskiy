@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Nintendo doesn’t allow you to return games](https://www.nintendo.co.uk/Support/Nintendo-Switch/Refund-for-Downloaded-Game-or-DLC-Wrong-Game-Didn-t-Like-Game-Accidental-Purchase--1379023.html)
-- [Upptime/upptime: Uptime monitor and status page powered by GitHub](https://github.com/upptime/upptime)
-- [SEC rejects Grayscale Bitcoin ETF application [pdf]](https://www.sec.gov/rules/sro/nysearca/2022/34-95180.pdf)
-- [Controversy continues over whether hot water freezes faster than cold](https://www.quantamagazine.org/does-hot-water-freeze-faster-than-cold-physicists-keep-asking-20220629/)
-- [Interview with the author of “Buy Now”, a book about Amazon](https://thereader.mitpress.mit.edu/how-amazon-branded-convenience-and-normalized-monopoly/)
-- [Mimic 3 by Mycroft](https://mycroft.ai/blog/introducing-mimic-3/)
-- [Shrugs.app – A native Slack client for macOS](https://shrugs.app/)
-- [Show HN: Calculator for US individual income tax, from 1970-present](https://news.ycombinator.com/item?id=31925871)
-- [Mastering Nim – now available on Amazon](https://nim-lang.org/blog/2022/06/29/mastering-nim.html)
-- [Reverie Labs &lpar;YC W18&rpar; is hiring software engineers to develop cancer therapies](https://www.reverielabs.com/careers)
+- [Star Minecraft mod creator Techoblade dies after cancer battle](https://dotesports.com/news/minecraft-content-creator-technoblade-has-died-following-battle-with-cancer)
+- [Doom Builder](http://doombuilder.com/)
+- [Severe thermal throttling discovered in Apple&#39;s M2 MacBook Pro](https://twitter.com/VadimYuryev/status/1542188250697039872)
+- [Use of special characters in usernames on YouTube has been limited](https://support.google.com/youtube/thread/169359445/updates-to-reduce-comment-spam-and-impersonation-on-youtube?hl=en)
+- [France bans veggie ′steaks,′ ′sausages′ to describe vegetarian products](https://www.dw.com/en/france-bans-use-of-steak-sausage-to-describe-vegetarian-products/a-62321333)
+- [Pronunciation Guide for Unix](https://ss64.com/bash/syntax-pronounce.html)
+- [Steelmanning: Discover the truth by helping your opponent](https://themindcollection.com/steelmanning-how-to-discover-the-truth-by-helping-your-opponent/)
+- [Kaspersky: Poorly detected backdoor targeting governments and NGOs around globe](https://www.kaspersky.com/about/press-releases/2022_kaspersky-discovers-poorly-detected-backdoor-targeting-governments-and-ngos-around-the-globe)
+- [Driverless robotaxi fleet paralyzed for hours in San Francisco](https://thelastdriverlicenseholder.com/2022/06/29/driverless-robotaxi-fleet-paralyzed-for-hours-in-san-francisco/)
+- [Mozilla and Google Objections Overruled on “Decentralized Identifiers” by W3C](https://www.w3.org/2022/06/DIDRecommendationDecision.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

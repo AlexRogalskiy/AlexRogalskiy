@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Webex Hologram: Taking virtual meetings to a whole new level](https://www.itworldcanada.com/article/webex-hologram-taking-virtual-meetings-to-a-whole-new-level/491244)
+- [Broadcom blog on VMware development plans panned by analyst](https://www.itworldcanada.com/article/broadcom-blog-on-vmware-development-plans-panned-by-analyst/491424)
+- [Starlink median download speed increased by 58% in Canada](https://www.itworldcanada.com/article/starlink-median-download-speed-increased-by-58-in-canada/491518)
+- [Backdoor is being installed in Microsoft’s IIS web server, warn Kaspersky researchers](https://www.itworldcanada.com/article/backdoor-is-being-installed-in-microsofts-iis-web-server-warn-kaspersky-researchers/491534)
+- [Hashtag Trending June 30 – FCC wants to ban TikTok; Tesla layoffs; California DOJ data breach](https://www.itworldcanada.com/article/hashtag-trending-june-30-fcc-wants-to-ban-tiktok-tesla-layoffs-california-doj-data-breach/491492)
 - [Why outsourcing must change to solve today’s IT challenges](https://www.itworldcanada.com/article/why-outsourcing-must-change-to-solve-todays-it-challenges/491421)
 - [SAP Labs Montreal – Reinventing the office](https://www.itworldcanada.com/article/sap-labs-montreal-reinventing-the-office/491405)
 - [IBM to open Innovation Centre in Calgary, 250 new jobs to be created](https://www.itworldcanada.com/article/ibm-to-open-innovation-centre-in-calgary-250-new-jobs-to-be-created/491366)
 - [Generation Z and Millennials are bringing change to the tech workforce](https://www.itworldcanada.com/article/generation-z-and-millennials-are-bringing-change-to-the-tech-workforce/491214)
 - [Rogers and Shaw enter mediation with Competition Bureau over $26 billion merger](https://www.itworldcanada.com/article/rogers-and-shaw-enter-mediation-with-competition-bureau-over-26-billion-merger/491331)
-- [Cyber Security Today for June 29, 2022 — A list of the most dangerous software weaknesses is updated, a warning to Kubernetes administrators, and more](https://www.itworldcanada.com/article/cyber-security-today-for-june-29-2022-a-list-of-the-most-dangerous-software-weaknesses-is-updated-a-warning-to-kubernetes-administrators-and-more/491241)
-- [Hashtag Trending June 29 – Period tracking app privacy concerns; Google Hangout migration; new semiconductor plant in Texas](https://www.itworldcanada.com/article/hashtag-trending-june-29-period-tracking-app-privacy-concerns-google-hangout-migration-new-semiconductor-plant-in-texas/491231)
-- [When Two Hats are Better than One](https://www.itworldcanada.com/article/when-two-hats-are-better-than-one/490787)
-- [Cisco showcases cloud at Cisco Live](https://www.itworldcanada.com/article/cisco-showcases-cloud-at-cisco-live/490856)
-- [AI now and in the next five years: Eric Schmidt talks AI at Collision 2022](https://www.itworldcanada.com/article/ai-now-and-in-the-next-five-years-eric-schmidt-talks-ai-at-collision-2022/491070)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

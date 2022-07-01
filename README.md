@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Reviewing the latest Apple rumors](https://www.computerworld.com/article/3665656/reviewing-the-latest-apple-rumors.html#tk.rss_all)
+- [How to set up and use Focus modes on iOS 16](https://www.computerworld.com/article/3665750/how-to-set-up-and-use-focus-modes-on-ios-16.html#tk.rss_all)
+- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [The evolution &lpar;and eventual end&rpar; of computer monitors](https://www.computerworld.com/article/3665908/the-evolution-and-eventual-end-of-computer-monitors.html#tk.rss_all)
+- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
+- [Here comes the &#39;destination workplace.&#39;](https://www.computerworld.com/article/3665689/here-comes-the-destination-workplace.html#tk.rss_all)
+- [Gartner predicts PC shipments to fall by 9.5% this year](https://www.computerworld.com/article/3665868/gartner-predicts-pc-shipments-to-fall-by-9-5-this-year.html#tk.rss_all)
+- [Should you start going to business conferences again?](https://www.computerworld.com/article/3665053/should-you-start-going-to-business-conferences-again.html#tk.rss_all)
 - [FCC commissioner wants Apple, Google to remove TikTok from App Stores](https://www.computerworld.com/article/3664942/fcc-commissioner-wants-apple-google-to-remove-tiktok-from-app-stores.html#tk.rss_all)
-- [The Android clipboard enhancement you didn&#39;t know you needed](https://www.computerworld.com/article/3665136/android-clipboard.html#tk.rss_all)
-- [Worried about burnout? Few enterprises are set up to fight the real causes](https://www.computerworld.com/article/3664138/worried-about-burnout-few-enterprises-are-set-up-to-fight-the-real-causes.html#tk.rss_all)
-- [14 best practices for Microsoft Teams video meetings](https://www.computerworld.com/article/3542389/microsoft-teams-video-meetings-best-practices.html#tk.rss_all)
-- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
-- [How Apple is improving single sign-on](https://www.computerworld.com/article/3665116/how-apple-is-improving-single-sign-on.html#tk.rss_all)
-- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
-- [Q&amp;A: Two coding-bootcamp graduates tell their stories](https://www.computerworld.com/article/3664082/qa-two-coding-bootcamp-graduates-tell-their-stories.html#tk.rss_all)
-- [Time for a mid-year browser security check](https://www.computerworld.com/article/3664854/time-for-a-mid-year-browser-security-check.html#tk.rss_all)
-- [How Apple plans to dent reality in the next 12 months](https://www.computerworld.com/article/3665229/how-apple-plans-to-dent-reality-in-the-next-12-months.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

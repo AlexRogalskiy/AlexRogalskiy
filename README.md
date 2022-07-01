@@ -399,6 +399,8 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [ICO to cut back on fines for public sector data breaches](https://www.computerweekly.com/news/252522218/ICO-to-cut-back-on-fines-for-public-sector-data-breaches)
+- [H&amp;M Group tries Google Cloud on for size as omnichannel push gathers pace](https://www.computerweekly.com/news/252522194/HM-Group-tries-Google-Cloud-on-for-size-as-omnichannel-push-gathers-pace)
 - [Urgent need for new laws to govern biometrics, legal review finds](https://www.computerweekly.com/news/252522157/Urgent-need-for-new-laws-to-govern-biometrics-legal-review-finds)
 - [New cyber extortion op appears to have hit AMD](https://www.computerweekly.com/news/252522151/New-cyber-extortion-op-appears-to-have-hit-AMD)
 - [Backup maintenance: Five key points to consider](https://www.computerweekly.com/feature/Backup-maintenance-Five-key-points-to-consider)
@@ -407,8 +409,6 @@
 - [HPE Discover: GreenLake grows new features and customer base](https://www.computerweekly.com/news/252522038/HPE-Discover-GreenLake-grows-new-features-and-custome-base)
 - [Mayor launches digital inclusion pilot for offline Londoners](https://www.computerweekly.com/news/252522112/Mayor-launches-digital-inclusion-pilot-for-offline-Londoners)
 - [Research highlights private equity’s growing hold on datacentre sector](https://www.computerweekly.com/news/252522115/Research-highlights-private-equitys-growing-hold-on-datacentre-sector)
-- [Composability set to be next big thing for digital experience platforms](https://www.computerweekly.com/feature/Composability-set-to-be-next-big-thing-for-digital-experience-platforms)
-- [Proposed changes to copyright law open doors for AI data mining](https://www.computerweekly.com/news/252522094/Proposed-changes-to-copyright-law-open-doors-for-AI-data-mining)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

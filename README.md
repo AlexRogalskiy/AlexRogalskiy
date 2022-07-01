@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Free Course online: Introduction to Cybersecurity by Cisco Networking Academy](https://www.reddit.com/r/InformationTechnology/comments/voqxi6/free_course_online_introduction_to_cybersecurity/)
+- [Lessons to take from the biggest data breaches](https://www.reddit.com/r/InformationTechnology/comments/vo94zc/lessons_to_take_from_the_biggest_data_breaches/)
+- [CIS Certification](https://www.reddit.com/r/InformationTechnology/comments/vo7yck/cis_certification/)
 - [IT and energy sector](https://www.reddit.com/r/InformationTechnology/comments/vnlldo/it_and_energy_sector/)
 - [Planning to take up BSIT &lpar;Philippines&rpar;](https://www.reddit.com/r/InformationTechnology/comments/vnkk9m/planning_to_take_up_bsit_philippines/)
 - [Best tool to produce reports from a database.](https://www.reddit.com/r/InformationTechnology/comments/vnc4ia/best_tool_to_produce_reports_from_a_database/)
 - [What is a Windows Security Option to help with people walking away from their computer without logging out?](https://www.reddit.com/r/InformationTechnology/comments/vn1fkk/what_is_a_windows_security_option_to_help_with/)
 - [PC with 7 D-Sub monitors](https://www.reddit.com/r/InformationTechnology/comments/vlsh9b/pc_with_7_dsub_monitors/)
-- [je cherche comment je pourrais faire pour que quand je partage mon apk a quelqu&#39;un, il puisse seulement l&#39; installer et qu&#39; il ne puisse pas la partager.](https://www.reddit.com/r/InformationTechnology/comments/vlftdx/je_cherche_comment_je_pourrais_faire_pour_que/)
 - [which computer to choose?](https://www.reddit.com/r/InformationTechnology/comments/vldz1z/which_computer_to_choose/)
 - [Which is harder to learn? Cybersecurity vs software development](https://www.reddit.com/r/InformationTechnology/comments/vl75rn/which_is_harder_to_learn_cybersecurity_vs/)
-- [To all IT/Software developers, how could I make 150k+](https://www.reddit.com/r/InformationTechnology/comments/vkz3zq/to_all_itsoftware_developers_how_could_i_make_150k/)
-- [Should I not apply for better jobs if I am new to the field?](https://www.reddit.com/r/InformationTechnology/comments/vktzyv/should_i_not_apply_for_better_jobs_if_i_am_new_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

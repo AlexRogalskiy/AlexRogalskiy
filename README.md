@@ -384,16 +384,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [What’s new in Rust 1.62](https://www.infoworld.com/article/3267624/whats-new-in-the-rust-language.html#tk.rss_all)
+- [Choosing your Java IDE](https://www.infoworld.com/article/3114167/choosing-your-java-ide.html#tk.rss_all)
+- [The best new features in .NET 6](https://www.infoworld.com/article/3665688/the-best-new-features-in-net-6.html#tk.rss_all)
+- [C# language specification approved](https://www.infoworld.com/article/3665651/c-sharp-language-specification-approved.html#tk.rss_all)
+- [Deploy with Vercel and MongoDB Atlas without even trying](https://www.infoworld.com/article/3664936/deploy-with-vercel-and-mongodb-atlas-without-even-trying.html#tk.rss_all)
 - [TigerGraph Cloud adds IAM capabilities](https://www.infoworld.com/article/3665630/tigergraph-cloud-adds-iam-capabilities.html#tk.rss_all)
 - [Sysdig Secure update adds ability to stop container attacks at runtime](https://www.csoonline.com/article/3665648/sysdig-secure-update-adds-ability-to-stop-container-attacks-at-runtime.html#tk.rss_all)
 - [DataStax makes Astra Streaming service generally available](https://www.infoworld.com/article/3664944/datastax-makes-astra-streaming-service-generally-available.html#tk.rss_all)
 - [Ecma unveils more permissive JavaScript license](https://www.infoworld.com/article/3664940/ecma-unveils-more-permissive-javascript-license.html#tk.rss_all)
 - [Using Azure Communication Services for email](https://www.infoworld.com/article/3664938/using-azure-communication-services-for-email.html#tk.rss_all)
-- [9 Deno runtime projects to watch](https://www.infoworld.com/article/3664344/9-deno-runtime-projects-to-watch.html#tk.rss_all)
-- [Yugabyte adds Voyager migration service to its 2.15 database update](https://www.infoworld.com/article/3664861/yugabyte-adds-voyager-migration-service-to-its-215-database-update.html#tk.rss_all)
-- [Databricks adds data governance, marketplace features](https://www.infoworld.com/article/3664939/databricks-adds-data-governance-marketplace-features.html#tk.rss_all)
-- [Databricks open sources its Delta Lake data lakehouse](https://www.infoworld.com/article/3665117/databricks-open-sources-its-delta-lake-data-lake.html#tk.rss_all)
-- [Cloud security risks remain very human](https://www.infoworld.com/article/3665055/cloud-security-risks-remain-very-human.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

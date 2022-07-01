@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Hong Kong tightens security ahead of Xi visit for 25th anniversary of handover](https://www.theguardian.com/world/2022/jun/30/hong-kong-tightens-security-ahead-of-xi-visit-for-25th-anniversary-of-handover)
-- [Nato leaders voice concern about threat China poses to world order for first time](https://www.theguardian.com/world/2022/jun/30/nato-leaders-voice-concern-about-threat-china-poses-to-world-order-for-first-time)
-- [The case against Donald Trump - podcast](https://www.theguardian.com/news/audio/2022/jun/30/the-case-against-donald-trump-podcast)
-- [Four men charged after police find link to Texas migrant deaths](https://www.theguardian.com/us-news/2022/jun/29/texas-migrant-deaths-two-men-charged)
-- [Ferdinand Marcos Jnr to be sworn in as Philippines president](https://www.theguardian.com/world/2022/jun/30/ferdinand-marcos-jnr-bongbong-philippines-president-swearing-in)
-- [Russia-Ukraine war: what we know on day 127 of the invasion](https://www.theguardian.com/world/2022/jun/30/russia-ukraine-war-what-we-know-on-day-127-of-the-invasion)
-- [Killing of Hindu tailor prompts internet shutdown in Indian state over unrest fears](https://www.theguardian.com/world/2022/jun/30/udaipur-hindu-tailor-killing-internet-suspended-shut-down-rajasthan-state-india)
-- [UK doctors call for free abortions for Americans unable to access them](https://www.theguardian.com/world/2022/jun/30/uk-doctors-call-free-abortions-americans-roe-v-wade)
-- [The Hong Kong ‘unofficials’ who advised Britain on the handover – and were ignored](https://www.theguardian.com/world/2022/jun/30/the-hong-kong-unofficials-who-advised-britain-on-the-handover-and-were-ignored)
-- [Women’s Euro 2022 team guide No 7: Germany](https://www.theguardian.com/football/2022/jun/30/womens-euro-2022-team-guide-germany)
+- [North Korea blames Covid-laden balloons sent from South for virus outbreak](https://www.theguardian.com/world/2022/jul/01/north-korea-blames-covid-laden-balloons-sent-from-south-for-virus-outbreak)
+- [Xi Jinping swears in new Hong Kong leader on 25th anniversary of handover](https://www.theguardian.com/world/2022/jul/01/hong-kong-25-years-handover-uk-us-criticise-erosion-of-rights-and-freedoms)
+- [50 years of Pride and why we still need it – podcast](https://www.theguardian.com/news/audio/2022/jul/01/50-years-of-pride-and-why-we-still-need-it-podcast)
+- [Australia’s 10,000 deaths and the paradox of ‘Covid normal’](https://www.theguardian.com/australia-news/2022/jul/01/australia-10000-covid19-deaths-and-the-paradox-of-covid-19-normal)
+- [Ecuador deal reached to end weeks of deadly protests and strikes](https://www.theguardian.com/world/2022/jul/01/ecuador-deal-reached-to-end-weeks-of-deadly-protests-and-strikes)
+- [Peru wildfire threatens Machu Picchu as remote location hampers efforts to control blaze](https://www.theguardian.com/world/2022/jul/01/machu-picchu-fire-peru-wildfire)
+- [Breastfeeding improves cognitive ability for children of poorer mothers – study](https://www.theguardian.com/lifeandstyle/2022/jul/01/breastfeeding-cognitive-ability-children-of-poorer-mothers-study)
+- [Women’s Euro 2022 team guide No 9: Netherlands](https://www.theguardian.com/football/2022/jul/01/womens-euro-2022-team-guide-no-9-netherlands)
+- [Fuel-poor homes face taking £250 energy hit due to poor insulation](https://www.theguardian.com/environment/2022/jul/01/fuel-poor-homes-face-taking-250-energy-hit-due-to-poor-insulation)
+- [The best theatre to stream this month: Dancing at Dusk, Maryland and more](https://www.theguardian.com/stage/2022/jul/01/the-best-theatre-to-stream-this-month-dancing-at-dusk-maryland-and-more)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

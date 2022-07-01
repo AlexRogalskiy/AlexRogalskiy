@@ -369,6 +369,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [5 Emerging Tech Vendors Tackling Cyber Threats in Retail &amp; Hospitality](https://www.informationweek.com/security-and-risk-strategy/rh-isac-event-tackles-the-latest-retail-and-hospital-industry-cyber-threats)
+- [FinTech Innovation Lab Demo Day: ESG, Crypto, and Managing Risk](https://www.informationweek.com/fintech/fintech-innovation-lab-demo-day-esg-crypto-and-managing-risk)
+- [The Dark Side of Digital Transformation: Massive Fraud](https://www.informationweek.com/big-data/the-dark-side-of-digital-transformation-massive-fraud)
 - [Quick Study: Diversity, Equity, and Inclusion](https://www.informationweek.com/strategic-cio/quick-study-diversity-equity-and-inclusion)
 - [CFOs and Automation: Battling Inflation, Increasing Employee Productivity](https://www.informationweek.com/big-data/cfos-and-automation-battling-inflation-increasing-employee-productivity)
 - [Cybersecurity Best Practices During War in Ukraine](https://www.informationweek.com/strategic-cio/cybersecurity-best-practices-during-war-in-ukraine)
@@ -376,9 +379,6 @@
 - [Why to Create a More Data-Conscious Company Culture](https://www.informationweek.com/big-data/why-to-create-a-more-data-conscious-company-culture)
 - [Roe v. Wade and the New, Murky Data Privacy Morass](https://www.informationweek.com/big-data/roe-v-wade-and-the-new-murky-data-privacy-morass)
 - [3 Ways Data Problems Can Stop Your Business](https://www.informationweek.com/big-data/3-ways-data-problems-can-stop-your-business)
-- [Pathways to a Strategic Intelligence Program](https://www.informationweek.com/strategic-cio/pathways-to-a-strategic-intelligence-program)
-- [Why a Culture of Innovation Is Required in an Era of Digital Transformation](https://www.informationweek.com/big-data/why-a-culture-of-innovation-is-required-in-an-era-of-digital-transformation)
-- [How to Handle Third-Party Cyber Incident Response](https://www.informationweek.com/strategic-cio/how-to-handle-third-party-cyber-incident-response)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

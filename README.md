@@ -369,6 +369,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Businesses Grappling With Post-Roe Data Privacy Questions](https://www.informationweek.com/big-data/businesses-grapple-with-post-roe-data-privacy-questions)
+- [Here’s How the AI Assistants of the Future Will Become More Human](https://www.informationweek.com/big-data/here-s-how-the-ai-assistants-of-the-future-will-become-more-human)
 - [5 Emerging Tech Vendors Tackling Cyber Threats in Retail &amp; Hospitality](https://www.informationweek.com/security-and-risk-strategy/rh-isac-event-tackles-the-latest-retail-and-hospital-industry-cyber-threats)
 - [FinTech Innovation Lab Demo Day: ESG, Crypto, and Managing Risk](https://www.informationweek.com/fintech/fintech-innovation-lab-demo-day-esg-crypto-and-managing-risk)
 - [The Dark Side of Digital Transformation: Massive Fraud](https://www.informationweek.com/big-data/the-dark-side-of-digital-transformation-massive-fraud)
@@ -377,8 +379,6 @@
 - [Cybersecurity Best Practices During War in Ukraine](https://www.informationweek.com/strategic-cio/cybersecurity-best-practices-during-war-in-ukraine)
 - [Don’t Let Operational Risks Corrupt Your Hybrid Model](https://www.informationweek.com/strategic-cio/don-t-let-operational-risks-corrupt-your-hybrid-model)
 - [Why to Create a More Data-Conscious Company Culture](https://www.informationweek.com/big-data/why-to-create-a-more-data-conscious-company-culture)
-- [Roe v. Wade and the New, Murky Data Privacy Morass](https://www.informationweek.com/big-data/roe-v-wade-and-the-new-murky-data-privacy-morass)
-- [3 Ways Data Problems Can Stop Your Business](https://www.informationweek.com/big-data/3-ways-data-problems-can-stop-your-business)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

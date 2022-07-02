@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Star Minecraft mod creator Techoblade dies after cancer battle](https://dotesports.com/news/minecraft-content-creator-technoblade-has-died-following-battle-with-cancer)
-- [Doom Builder](http://doombuilder.com/)
-- [Severe thermal throttling discovered in Apple&#39;s M2 MacBook Pro](https://twitter.com/VadimYuryev/status/1542188250697039872)
-- [Use of special characters in usernames on YouTube has been limited](https://support.google.com/youtube/thread/169359445/updates-to-reduce-comment-spam-and-impersonation-on-youtube?hl=en)
-- [France bans veggie ′steaks,′ ′sausages′ to describe vegetarian products](https://www.dw.com/en/france-bans-use-of-steak-sausage-to-describe-vegetarian-products/a-62321333)
-- [Pronunciation Guide for Unix](https://ss64.com/bash/syntax-pronounce.html)
-- [Steelmanning: Discover the truth by helping your opponent](https://themindcollection.com/steelmanning-how-to-discover-the-truth-by-helping-your-opponent/)
-- [Kaspersky: Poorly detected backdoor targeting governments and NGOs around globe](https://www.kaspersky.com/about/press-releases/2022_kaspersky-discovers-poorly-detected-backdoor-targeting-governments-and-ngos-around-the-globe)
-- [Driverless robotaxi fleet paralyzed for hours in San Francisco](https://thelastdriverlicenseholder.com/2022/06/29/driverless-robotaxi-fleet-paralyzed-for-hours-in-san-francisco/)
-- [Mozilla and Google Objections Overruled on “Decentralized Identifiers” by W3C](https://www.w3.org/2022/06/DIDRecommendationDecision.html)
+- [List of Active Reddit Alternatives](https://r.nf/r/RedditAlternatives/comments/oioeot/list_of_active_reddit_alternatives_v7/)
+- [Some CyberPower UPSes may pose a fire hazard](https://forums.redflagdeals.com/some-cyberpower-upses-may-pose-fire-hazard-2516306/)
+- [Google will remove user location history for abortion clinic visits](https://www.washingtonpost.com/technology/2022/07/01/google-abortion/)
+- [Newer, better sunscreens have not been approved by the FDA](https://www.theatlantic.com/technology/archive/2022/07/us-sunscreen-ingredients-outdated-technology-better-eu-asia/661433/)
+- [American Seating’s original and largest market was school furniture](https://twitter.com/JoshLipnik/status/1542324147027644418)
+- [Virgil: A fast and lightweight programming language that compiles to WASM](https://github.com/titzer/virgil)
+- [The GPU shortage is over](https://www.theverge.com/2022/7/1/23191634/nvidia-amd-gpu-shortage-over-3080-3070-3060-radeon-rx-6900-6800)
+- [There are no open issues or pull requests on Flask](https://twitter.com/davidism/status/1542956488355762176)
+- [Mozart Data &lpar;YC S20&rpar; is hiring a senior front end engineer](https://www.mozartdata.com/senior-software-engineer-frontend)
+- [Show HN: Redbean 2.0 in Docker](https://github.com/kissgyorgy/redbean-docker)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

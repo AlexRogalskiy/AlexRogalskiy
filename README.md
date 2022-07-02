@@ -414,6 +414,9 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Tips for starting out in IT](https://www.reddit.com/r/InformationTechnology/comments/vpfpqc/tips_for_starting_out_in_it/)
+- [Career change, please help.](https://www.reddit.com/r/InformationTechnology/comments/vparxp/career_change_please_help/)
+- [Need Help With Some Scripting/Batch File Setup](https://www.reddit.com/r/InformationTechnology/comments/vp1rt1/need_help_with_some_scriptingbatch_file_setup/)
 - [Free Course online: Introduction to Cybersecurity by Cisco Networking Academy](https://www.reddit.com/r/InformationTechnology/comments/voqxi6/free_course_online_introduction_to_cybersecurity/)
 - [Lessons to take from the biggest data breaches](https://www.reddit.com/r/InformationTechnology/comments/vo94zc/lessons_to_take_from_the_biggest_data_breaches/)
 - [CIS Certification](https://www.reddit.com/r/InformationTechnology/comments/vo7yck/cis_certification/)
@@ -421,9 +424,6 @@
 - [Planning to take up BSIT &lpar;Philippines&rpar;](https://www.reddit.com/r/InformationTechnology/comments/vnkk9m/planning_to_take_up_bsit_philippines/)
 - [Best tool to produce reports from a database.](https://www.reddit.com/r/InformationTechnology/comments/vnc4ia/best_tool_to_produce_reports_from_a_database/)
 - [What is a Windows Security Option to help with people walking away from their computer without logging out?](https://www.reddit.com/r/InformationTechnology/comments/vn1fkk/what_is_a_windows_security_option_to_help_with/)
-- [PC with 7 D-Sub monitors](https://www.reddit.com/r/InformationTechnology/comments/vlsh9b/pc_with_7_dsub_monitors/)
-- [which computer to choose?](https://www.reddit.com/r/InformationTechnology/comments/vldz1z/which_computer_to_choose/)
-- [Which is harder to learn? Cybersecurity vs software development](https://www.reddit.com/r/InformationTechnology/comments/vl75rn/which_is_harder_to_learn_cybersecurity_vs/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

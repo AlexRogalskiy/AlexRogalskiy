@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [North Korea blames Covid-laden balloons sent from South for virus outbreak](https://www.theguardian.com/world/2022/jul/01/north-korea-blames-covid-laden-balloons-sent-from-south-for-virus-outbreak)
-- [Xi Jinping swears in new Hong Kong leader on 25th anniversary of handover](https://www.theguardian.com/world/2022/jul/01/hong-kong-25-years-handover-uk-us-criticise-erosion-of-rights-and-freedoms)
-- [50 years of Pride and why we still need it – podcast](https://www.theguardian.com/news/audio/2022/jul/01/50-years-of-pride-and-why-we-still-need-it-podcast)
-- [Australia’s 10,000 deaths and the paradox of ‘Covid normal’](https://www.theguardian.com/australia-news/2022/jul/01/australia-10000-covid19-deaths-and-the-paradox-of-covid-19-normal)
-- [Ecuador deal reached to end weeks of deadly protests and strikes](https://www.theguardian.com/world/2022/jul/01/ecuador-deal-reached-to-end-weeks-of-deadly-protests-and-strikes)
-- [Peru wildfire threatens Machu Picchu as remote location hampers efforts to control blaze](https://www.theguardian.com/world/2022/jul/01/machu-picchu-fire-peru-wildfire)
-- [Breastfeeding improves cognitive ability for children of poorer mothers – study](https://www.theguardian.com/lifeandstyle/2022/jul/01/breastfeeding-cognitive-ability-children-of-poorer-mothers-study)
-- [Women’s Euro 2022 team guide No 9: Netherlands](https://www.theguardian.com/football/2022/jul/01/womens-euro-2022-team-guide-no-9-netherlands)
-- [Fuel-poor homes face taking £250 energy hit due to poor insulation](https://www.theguardian.com/environment/2022/jul/01/fuel-poor-homes-face-taking-250-energy-hit-due-to-poor-insulation)
-- [The best theatre to stream this month: Dancing at Dusk, Maryland and more](https://www.theguardian.com/stage/2022/jul/01/the-best-theatre-to-stream-this-month-dancing-at-dusk-maryland-and-more)
+- [British Airways says Heathrow slot changes ‘help provide certainty’ for passengers](https://www.theguardian.com/business/2022/jul/02/british-airways-says-heathrow-slot-changes-help-provide-certainty-in-advance)
+- [Iran earthquakes: at last five killed and village flattened, state media says](https://www.theguardian.com/world/2022/jul/02/iran-earthquakes-at-last-five-killed-and-village-flattened-state-media-says)
+- [‘I was crying’: rocker Randy Bachman reunites with stolen guitar 45 years later](https://www.theguardian.com/world/2022/jul/02/i-was-crying-rock-legend-randy-bachman-reunited-with-stolen-guitar-45-years-on)
+- [Google will delete location history data for abortion clinic visits](https://www.theguardian.com/technology/2022/jul/01/google-delete-location-data-abortion-clinic)
+- [Russia-Ukraine war: what we know on day 129 of the invasion](https://www.theguardian.com/world/2022/jul/02/russia-ukraine-war-what-we-know-on-day-129-of-the-invasion)
+- [Adele review – a truly singular blend of talent and Tottenham charm](https://www.theguardian.com/music/2022/jul/02/adele-review-a-truly-singular-blend-of-talent-and-tottenham-charm)
+- [Deborah James legacy: huge rise in online checks for bowel cancer signs](https://www.theguardian.com/society/2022/jul/02/deborah-james-legacy-huge-rise-in-online-checks-for-bowel-cancer-signs)
+- [Florida teen bitten by shark survives but faces losing her leg](https://www.theguardian.com/us-news/2022/jul/01/florida-teen-shark-attack-keaton-beach)
+- [Back from the depths: shrinking Lake Mead reveals second world war-era boat](https://www.theguardian.com/us-news/2022/jul/01/lake-mead-shrinking-second-world-war-boat)
+- [Venus Williams and Jamie Murray look the part in giddy victory](https://www.theguardian.com/sport/2022/jul/01/venus-williams-and-jamie-murray-look-the-part-in-giddy-first-round-victory)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

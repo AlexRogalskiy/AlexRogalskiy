@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Meta warns employees of ‘serious times’ in internal memo](https://www.theverge.com/2022/6/30/23190164/meta-chris-cox-internal-memo-product-bets-tiktok-metaverse)
-- [Most Powerful Tornadoes Ever Recorded &lpar;Understanding the Enhanced Fujita Rating&rpar;](https://news.ycombinator.com/item?id=31942029)
-- [The riddle that seems impossible even if you know the answer](https://www.youtube.com/watch?v=iSNsgj1OCLA)
-- [NOAA Tornado Damage Assessment Toolkit](https://apps.dat.noaa.gov/stormdamage/damageviewer/)
-- [Ask HN: Is bias always intentional?](https://news.ycombinator.com/item?id=31941958)
-- [Star Minecraft mod creator Techoblade dies after cancer battle](https://dotesports.com/news/minecraft-content-creator-technoblade-has-died-following-battle-with-cancer)
-- [Apple’s former securities lawyer pleads guilty for doing the insider trading he](https://www.theverge.com/2022/6/30/23190572/apple-former-securities-lawyer-gene-levoff-insider-trading-doj)
-- [Doom Builder](http://doombuilder.com/)
-- [Landsat Proved the Power of Remote Sensing](https://spectrum.ieee.org/landsat)
-- [AI predicts crime a week in advance with 90 per cent accuracy](https://www.newscientist.com/article/2326297-ai-predicts-crime-a-week-in-advance-with-90-per-cent-accuracy/)
+- [Atlanta Fed GDPNow](https://www.atlantafed.org/cqer/research/gdpnow)
+- [Rust async echo server kernel module](https://github.com/Rust-for-Linux/linux/pull/752)
+- [NFT giant OpenSea reports major email data breach](https://techcrunch.com/2022/06/30/nft-opensea-data-breach/)
+- [Why open source matters for developers](https://techbeacon.com/app-dev-testing/why-open-source-matters-developers)
+- [The Higher the Vix, the Higher the Clicks](https://theirrelevantinvestor.com/2022/07/01/the-higher-the-vix-the-higher-the-clicks/)
+- [Python Highcharts](https://github.com/kyper-data/python-highcharts)
+- [Exanaiew AR: The immersion of VR but still see your real world surroundings](https://news.ycombinator.com/item?id=31955725)
+- [The Mystery of Why Covid-19 Rebounds in Some Patients Who Take Paxlovid](https://jamanetwork.com/journals/jama/fullarticle/2793357)
+- [New York City Mayor Says He Will Mandate Covid Vaccines for Children This Fall](https://www.outkick.com/new-york-city-mayor-says-he-will-mandate-covid-vaccines-for-children-this-fall/)
+- [USD held with Voyager is now FDIC insured &lpar;2019&rpar;](https://www.investvoyager.com/blog/voyager-is-now-fdic-insured/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

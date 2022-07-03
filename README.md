@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Atlanta Fed GDPNow](https://www.atlantafed.org/cqer/research/gdpnow)
-- [Rust async echo server kernel module](https://github.com/Rust-for-Linux/linux/pull/752)
-- [NFT giant OpenSea reports major email data breach](https://techcrunch.com/2022/06/30/nft-opensea-data-breach/)
-- [Why open source matters for developers](https://techbeacon.com/app-dev-testing/why-open-source-matters-developers)
-- [The Higher the Vix, the Higher the Clicks](https://theirrelevantinvestor.com/2022/07/01/the-higher-the-vix-the-higher-the-clicks/)
-- [Python Highcharts](https://github.com/kyper-data/python-highcharts)
-- [Exanaiew AR: The immersion of VR but still see your real world surroundings](https://news.ycombinator.com/item?id=31955725)
-- [The Mystery of Why Covid-19 Rebounds in Some Patients Who Take Paxlovid](https://jamanetwork.com/journals/jama/fullarticle/2793357)
-- [New York City Mayor Says He Will Mandate Covid Vaccines for Children This Fall](https://www.outkick.com/new-york-city-mayor-says-he-will-mandate-covid-vaccines-for-children-this-fall/)
-- [USD held with Voyager is now FDIC insured &lpar;2019&rpar;](https://www.investvoyager.com/blog/voyager-is-now-fdic-insured/)
+- [ML Compilation](https://mlc.ai/summer22/)
+- [How to build a Chess Engine, an interactive guide](https://www.chessengines.org/)
+- [Donohue, Levitt, Roe, and Wade: T-minus 20 years to a crime wave?](https://laulpogan.substack.com/p/donohue-levitt-roe-and-wade-t-minus)
+- [Ask HN: Coworkers are suggesting I should slow down](https://news.ycombinator.com/item?id=31964651)
+- [Legend of Zelda: Ocarina of Time Beta Showcase with TASBot et al. at SGDQ 2022](https://www.youtube.com/watch?v=PNbkv_DJ0f0)
+- [Serotonin and Dopamine Modulate Aging in Response to Food Odor and Availability](https://neurosciencenews.com/dopamine-serotonin-food-fmo-20942/)
+- [More New Hires Are Ghosting Before Their Start Date. Here’s How to Prevent That](https://hunterwalk.com/2022/07/02/more-new-hires-are-ghosting-before-their-start-date-heres-how-to-prevent-that/)
+- [Rare clouds that glow in the dark are the most vibrant in 15 years](https://www.washingtonpost.com/climate-environment/2022/07/02/noctilucent-clouds-night-shining/)
+- [A huge mass of used wet wipes has changed the course of an English river](https://www.businessinsider.nl/a-huge-mass-of-used-wet-wipes-has-formed-an-island-that-has-changed-the-course-of-englands-second-longest-river-mp-says/)
+- [The Devil&#39;s Dictionary](https://www.gutenberg.org/files/972/972-h/972-h.htm)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

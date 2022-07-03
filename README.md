@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [List of Active Reddit Alternatives](https://r.nf/r/RedditAlternatives/comments/oioeot/list_of_active_reddit_alternatives_v7/)
-- [Some CyberPower UPSes may pose a fire hazard](https://forums.redflagdeals.com/some-cyberpower-upses-may-pose-fire-hazard-2516306/)
-- [Google will remove user location history for abortion clinic visits](https://www.washingtonpost.com/technology/2022/07/01/google-abortion/)
-- [Newer, better sunscreens have not been approved by the FDA](https://www.theatlantic.com/technology/archive/2022/07/us-sunscreen-ingredients-outdated-technology-better-eu-asia/661433/)
-- [American Seating’s original and largest market was school furniture](https://twitter.com/JoshLipnik/status/1542324147027644418)
-- [Virgil: A fast and lightweight programming language that compiles to WASM](https://github.com/titzer/virgil)
-- [The GPU shortage is over](https://www.theverge.com/2022/7/1/23191634/nvidia-amd-gpu-shortage-over-3080-3070-3060-radeon-rx-6900-6800)
-- [There are no open issues or pull requests on Flask](https://twitter.com/davidism/status/1542956488355762176)
-- [Mozart Data &lpar;YC S20&rpar; is hiring a senior front end engineer](https://www.mozartdata.com/senior-software-engineer-frontend)
-- [Show HN: Redbean 2.0 in Docker](https://github.com/kissgyorgy/redbean-docker)
+- [Video shows self-driving Tesla head into oncoming traffic](https://futurism.com/the-byte/terrifying-video-self-driving-tesla-oncoming-traffic)
+- [Documents reveal McKinsey&#39;s role increasing opioid sales until 2019](https://www.axios.com/2022/07/01/mckinsey-opioid-documents)
+- [Watching an acquirer ruin your company](https://startupwin.kelsus.com/p/watching-an-acquirer-ruin-your-company)
+- [Adventures with Verizon FiOS IPv6](https://git.hardenedbsd.org/shawn.webb/articles/-/blob/master/personal/2022-07-02_verizon/article.md)
+- [Dependabot alerts paused for malware advisories](https://github.blog/changelog/2022-07-01-dependabot-alerts-paused-for-malware-advisories/)
+- [Skio &lpar;YC S20&rpar; is hiring in NYC – subscriptions for Shopify, ReCharge migrations](https://skio.com/careers/)
+- [AWS Nuke – delete all resources associated with AWS account](https://github.com/rebuy-de/aws-nuke)
+- [The Windows malloc&lpar;&rpar; implementation from MSVCRT is slow](https://erikmcclure.com/blog/windows-malloc-implementation-is-a-trash-fire/)
+- [Kyoto project is moving from GitHub to Sourcehut](https://github.com/kyoto-framework/kyoto)
+- [The Bullshit Web &lpar;2018&rpar;](https://pxlnv.com/blog/bullshit-web/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

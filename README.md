@@ -414,6 +414,9 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [What&#39;s the difference between Information Systems and Information Technology?](https://www.reddit.com/r/InformationTechnology/comments/vq5650/whats_the_difference_between_information_systems/)
+- [Storage Driver Help](https://www.reddit.com/r/InformationTechnology/comments/vpycny/storage_driver_help/)
+- [The Future of Learning is Hybrid: Free Cisco Network Academy Courses by Skills For All](https://www.reddit.com/r/InformationTechnology/comments/vpomhi/the_future_of_learning_is_hybrid_free_cisco/)
 - [Tips for starting out in IT](https://www.reddit.com/r/InformationTechnology/comments/vpfpqc/tips_for_starting_out_in_it/)
 - [Career change, please help.](https://www.reddit.com/r/InformationTechnology/comments/vparxp/career_change_please_help/)
 - [Need Help With Some Scripting/Batch File Setup](https://www.reddit.com/r/InformationTechnology/comments/vp1rt1/need_help_with_some_scriptingbatch_file_setup/)
@@ -421,9 +424,6 @@
 - [Lessons to take from the biggest data breaches](https://www.reddit.com/r/InformationTechnology/comments/vo94zc/lessons_to_take_from_the_biggest_data_breaches/)
 - [CIS Certification](https://www.reddit.com/r/InformationTechnology/comments/vo7yck/cis_certification/)
 - [IT and energy sector](https://www.reddit.com/r/InformationTechnology/comments/vnlldo/it_and_energy_sector/)
-- [Planning to take up BSIT &lpar;Philippines&rpar;](https://www.reddit.com/r/InformationTechnology/comments/vnkk9m/planning_to_take_up_bsit_philippines/)
-- [Best tool to produce reports from a database.](https://www.reddit.com/r/InformationTechnology/comments/vnc4ia/best_tool_to_produce_reports_from_a_database/)
-- [What is a Windows Security Option to help with people walking away from their computer without logging out?](https://www.reddit.com/r/InformationTechnology/comments/vn1fkk/what_is_a_windows_security_option_to_help_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

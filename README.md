@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [British Airways says Heathrow slot changes ‘help provide certainty’ for passengers](https://www.theguardian.com/business/2022/jul/02/british-airways-says-heathrow-slot-changes-help-provide-certainty-in-advance)
-- [Iran earthquakes: at last five killed and village flattened, state media says](https://www.theguardian.com/world/2022/jul/02/iran-earthquakes-at-last-five-killed-and-village-flattened-state-media-says)
-- [‘I was crying’: rocker Randy Bachman reunites with stolen guitar 45 years later](https://www.theguardian.com/world/2022/jul/02/i-was-crying-rock-legend-randy-bachman-reunited-with-stolen-guitar-45-years-on)
-- [Google will delete location history data for abortion clinic visits](https://www.theguardian.com/technology/2022/jul/01/google-delete-location-data-abortion-clinic)
-- [Russia-Ukraine war: what we know on day 129 of the invasion](https://www.theguardian.com/world/2022/jul/02/russia-ukraine-war-what-we-know-on-day-129-of-the-invasion)
-- [Adele review – a truly singular blend of talent and Tottenham charm](https://www.theguardian.com/music/2022/jul/02/adele-review-a-truly-singular-blend-of-talent-and-tottenham-charm)
-- [Deborah James legacy: huge rise in online checks for bowel cancer signs](https://www.theguardian.com/society/2022/jul/02/deborah-james-legacy-huge-rise-in-online-checks-for-bowel-cancer-signs)
-- [Florida teen bitten by shark survives but faces losing her leg](https://www.theguardian.com/us-news/2022/jul/01/florida-teen-shark-attack-keaton-beach)
-- [Back from the depths: shrinking Lake Mead reveals second world war-era boat](https://www.theguardian.com/us-news/2022/jul/01/lake-mead-shrinking-second-world-war-boat)
-- [Venus Williams and Jamie Murray look the part in giddy victory](https://www.theguardian.com/sport/2022/jul/01/venus-williams-and-jamie-murray-look-the-part-in-giddy-first-round-victory)
+- [Russia-Ukraine war: what we know on day 130 of the invasion](https://www.theguardian.com/world/2022/jul/03/russia-ukraine-war-what-we-know-on-day-130-of-the-invasion)
+- [India tailor murder: police arrest two alleged ‘masterminds’](https://www.theguardian.com/world/2022/jul/03/india-tailor-police-arrest-two-alleged-masterminds)
+- [Pump action? UK motorists await report on painful petrol prices](https://www.theguardian.com/business/2022/jul/03/pump-action-uk-motorists-await-report-on-painful-petrol-prices)
+- [Women’s Euro 2022 team guide No 13: Belgium](https://www.theguardian.com/football/2022/jul/03/womens-euro-2022-team-guide-no-13-belgium)
+- [Airport staff checks sped up amid ‘disaster movie’ scenes at Heathrow](https://www.theguardian.com/politics/2022/jul/03/airport-staff-checks-sped-up-amid-disaster-movie-scenes-at-heathrow)
+- [We Love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2022/jul/02/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Nick Kyrgios called ‘evil bully’ by Tsitsipas after stormy encounter](https://www.theguardian.com/sport/2022/jul/02/nick-kyrgios-brings-the-noise-and-blasts-past-tsitsipas-in-stormy-encounter)
+- [Five ways to wear shorts this summer – in pictures](https://www.theguardian.com/fashion/gallery/2022/jul/02/five-ways-to-wear-shorts-this-summer-in-pictures)
+- [Watchdog investigates firm behind Prince Charles’s eco-village in Scotland](https://www.theguardian.com/uk-news/2022/jul/02/watchdog-investigates-firm-behind-prince-charless-eco-village-in-scotland)
+- [Labour pledges to create 30,000 jobs at electric car battery gigafactories](https://www.theguardian.com/environment/2022/jul/02/labour-pledges-to-create-30000-jobs-at-electric-car-battery-gigafactories)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

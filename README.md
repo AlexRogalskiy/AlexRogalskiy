@@ -429,6 +429,7 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Giving gig workers a voice in the new economy: Matt Spoke, CEO of Moves Financial](https://www.itworldcanada.com/article/giving-gig-workers-a-voice-in-the-new-economy-matt-spoke-ceo-of-moves-financial/491600)
 - [Cyber Security Today, Week in Review for Friday, July 1, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-july-1-2022/491570)
 - [Cyber Security Today, July 1, 2022 – Cruise line hit with US$5 million fine over data breaches, an FBI warning to HR departments over deepfake videos, and more](https://www.itworldcanada.com/article/cyber-security-today-july-1-2022-cruise-line-hit-with-us5-million-fine-over-data-breaches-an-fbi-warning-to-hr-departments-over-deepfake-videos-and-more/491583)
 - [Webex Hologram: Taking virtual meetings to a whole new level](https://www.itworldcanada.com/article/webex-hologram-taking-virtual-meetings-to-a-whole-new-level/491244)
@@ -438,7 +439,6 @@
 - [Hashtag Trending June 30 – FCC wants to ban TikTok; Tesla layoffs; California DOJ data breach](https://www.itworldcanada.com/article/hashtag-trending-june-30-fcc-wants-to-ban-tiktok-tesla-layoffs-california-doj-data-breach/491492)
 - [Why outsourcing must change to solve today’s IT challenges](https://www.itworldcanada.com/article/why-outsourcing-must-change-to-solve-todays-it-challenges/491421)
 - [SAP Labs Montreal – Reinventing the office](https://www.itworldcanada.com/article/sap-labs-montreal-reinventing-the-office/491405)
-- [IBM to open Innovation Centre in Calgary, 250 new jobs to be created](https://www.itworldcanada.com/article/ibm-to-open-innovation-centre-in-calgary-250-new-jobs-to-be-created/491366)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

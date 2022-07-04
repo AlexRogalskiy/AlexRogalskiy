@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Video shows self-driving Tesla head into oncoming traffic](https://futurism.com/the-byte/terrifying-video-self-driving-tesla-oncoming-traffic)
-- [Documents reveal McKinsey&#39;s role increasing opioid sales until 2019](https://www.axios.com/2022/07/01/mckinsey-opioid-documents)
-- [Watching an acquirer ruin your company](https://startupwin.kelsus.com/p/watching-an-acquirer-ruin-your-company)
-- [Adventures with Verizon FiOS IPv6](https://git.hardenedbsd.org/shawn.webb/articles/-/blob/master/personal/2022-07-02_verizon/article.md)
-- [Dependabot alerts paused for malware advisories](https://github.blog/changelog/2022-07-01-dependabot-alerts-paused-for-malware-advisories/)
-- [Skio &lpar;YC S20&rpar; is hiring in NYC – subscriptions for Shopify, ReCharge migrations](https://skio.com/careers/)
-- [AWS Nuke – delete all resources associated with AWS account](https://github.com/rebuy-de/aws-nuke)
-- [The Windows malloc&lpar;&rpar; implementation from MSVCRT is slow](https://erikmcclure.com/blog/windows-malloc-implementation-is-a-trash-fire/)
-- [Kyoto project is moving from GitHub to Sourcehut](https://github.com/kyoto-framework/kyoto)
-- [The Bullshit Web &lpar;2018&rpar;](https://pxlnv.com/blog/bullshit-web/)
+- [macOS: App Sandboxing via Sandbox-Exec](https://www.karltarvas.com/2020/10/25/macos-app-sandboxing-via-sandbox-exec.html)
+- [The Pixel 6 Pro has the worst connectivity and reception of any phone I&#39;ve used](https://www.androidauthority.com/pixel-6-pro-connectivity-issues-3181350/)
+- [Popcorn Time Is Back](https://github.com/popcorn-official/popcorn-android/releases/tag/v0.3.5)
+- [Goodbye Medium, hello Ghost](https://cryptofireside.com/goodbye-medium-hello-ghost-57c9b6d7349e)
+- [Building a Sevenesque Roadster](http://sevenesque.com/)
+- [Is the Ride over for Uber?](https://www.smartcompany.com.au/opinion/adam-schwab-is-the-ride-over-for-uber/)
+- [The Old Reader](https://theoldreader.com/)
+- [Why nobody ever wins the car at the mall &lpar;2018&rpar;](https://thehustle.co/why-nobody-ever-wins-the-mall-car-giveaway/)
+- [Gitlab Architecture Overview](https://docs.gitlab.com/ee/development/architecture.html)
+- [Quantum mechanics and Tomb Raider &lpar;2007&rpar;](https://terrytao.wordpress.com/2007/02/26/quantum-mechanics-and-tomb-raider/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

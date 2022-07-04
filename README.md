@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is it possible to go from Nuclear Medicine Technology to an MSIS program?](https://www.reddit.com/r/InformationTechnology/comments/vqy6yz/is_it_possible_to_go_from_nuclear_medicine/)
+- [Network Admin](https://www.reddit.com/r/InformationTechnology/comments/vqrldg/network_admin/)
+- [Most Underrated Home Server Setup: Xeon LGA2011-3 on repurposed X99 China MoBo&#39;s](https://www.reddit.com/r/InformationTechnology/comments/vqqscy/most_underrated_home_server_setup_xeon_lga20113/)
+- [Fuck IT](https://www.reddit.com/r/InformationTechnology/comments/vqme87/fuck_it/)
+- [getting into the IT field](https://www.reddit.com/r/InformationTechnology/comments/vqg8st/getting_into_the_it_field/)
+- [Heavily Discounted IT Certification courses and Mock Tests](https://www.reddit.com/r/InformationTechnology/comments/vqc7nf/heavily_discounted_it_certification_courses_and/)
 - [What&#39;s the difference between Information Systems and Information Technology?](https://www.reddit.com/r/InformationTechnology/comments/vq5650/whats_the_difference_between_information_systems/)
 - [Storage Driver Help](https://www.reddit.com/r/InformationTechnology/comments/vpycny/storage_driver_help/)
 - [The Future of Learning is Hybrid: Free Cisco Network Academy Courses by Skills For All](https://www.reddit.com/r/InformationTechnology/comments/vpomhi/the_future_of_learning_is_hybrid_free_cisco/)
 - [Tips for starting out in IT](https://www.reddit.com/r/InformationTechnology/comments/vpfpqc/tips_for_starting_out_in_it/)
-- [Career change, please help.](https://www.reddit.com/r/InformationTechnology/comments/vparxp/career_change_please_help/)
-- [Need Help With Some Scripting/Batch File Setup](https://www.reddit.com/r/InformationTechnology/comments/vp1rt1/need_help_with_some_scriptingbatch_file_setup/)
-- [Free Course online: Introduction to Cybersecurity by Cisco Networking Academy](https://www.reddit.com/r/InformationTechnology/comments/voqxi6/free_course_online_introduction_to_cybersecurity/)
-- [Lessons to take from the biggest data breaches](https://www.reddit.com/r/InformationTechnology/comments/vo94zc/lessons_to_take_from_the_biggest_data_breaches/)
-- [CIS Certification](https://www.reddit.com/r/InformationTechnology/comments/vo7yck/cis_certification/)
-- [IT and energy sector](https://www.reddit.com/r/InformationTechnology/comments/vnlldo/it_and_energy_sector/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war: what we know on day 130 of the invasion](https://www.theguardian.com/world/2022/jul/03/russia-ukraine-war-what-we-know-on-day-130-of-the-invasion)
-- [India tailor murder: police arrest two alleged ‘masterminds’](https://www.theguardian.com/world/2022/jul/03/india-tailor-police-arrest-two-alleged-masterminds)
-- [Pump action? UK motorists await report on painful petrol prices](https://www.theguardian.com/business/2022/jul/03/pump-action-uk-motorists-await-report-on-painful-petrol-prices)
-- [Women’s Euro 2022 team guide No 13: Belgium](https://www.theguardian.com/football/2022/jul/03/womens-euro-2022-team-guide-no-13-belgium)
-- [Airport staff checks sped up amid ‘disaster movie’ scenes at Heathrow](https://www.theguardian.com/politics/2022/jul/03/airport-staff-checks-sped-up-amid-disaster-movie-scenes-at-heathrow)
-- [We Love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2022/jul/02/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Nick Kyrgios called ‘evil bully’ by Tsitsipas after stormy encounter](https://www.theguardian.com/sport/2022/jul/02/nick-kyrgios-brings-the-noise-and-blasts-past-tsitsipas-in-stormy-encounter)
-- [Five ways to wear shorts this summer – in pictures](https://www.theguardian.com/fashion/gallery/2022/jul/02/five-ways-to-wear-shorts-this-summer-in-pictures)
-- [Watchdog investigates firm behind Prince Charles’s eco-village in Scotland](https://www.theguardian.com/uk-news/2022/jul/02/watchdog-investigates-firm-behind-prince-charless-eco-village-in-scotland)
-- [Labour pledges to create 30,000 jobs at electric car battery gigafactories](https://www.theguardian.com/environment/2022/jul/02/labour-pledges-to-create-30000-jobs-at-electric-car-battery-gigafactories)
+- [Surviving Britain’s homelessness crisis – podcast](https://www.theguardian.com/news/audio/2022/jul/04/surviving-britains-homelessness-crisis-daniel-lavelle-podcast)
+- [Missed meals and constant stress: New Zealand’s cost-of-living crisis hits home](https://www.theguardian.com/world/2022/jul/04/missed-meals-and-constant-stress-new-zealands-cost-of-living-crisis-hits-home)
+- [Russia-Ukraine war: what we know on day 131 of the invasion](https://www.theguardian.com/world/2022/jul/04/russia-ukraine-war-what-we-know-on-day-131-of-the-invasion)
+- [Copenhagen shooting: three killed in Denmark shopping centre attack](https://www.theguardian.com/world/2022/jul/03/several-wounded-in-shooting-at-copenhagen-shopping-centre-say-police)
+- [Half of all children in lone-parent families are in relative poverty](https://www.theguardian.com/business/2022/jul/04/half-of-all-children-in-lone-parent-families-are-in-relative-poverty)
+- [Plan to lower nursery staff-to-child ratio in England angers parents and providers](https://www.theguardian.com/money/2022/jul/04/plan-to-lower-nursery-staff-to-child-ratio-in-england-angers-parents-and-providers)
+- [Amazon: e-cargo bikes to replace thousands of van deliveries in London](https://www.theguardian.com/technology/2022/jul/04/amazon-e-cargo-bikes-deliveries-london)
+- [Australian PM visits sites of Russian atrocities in Ukraine](https://www.theguardian.com/world/2022/jul/03/australian-pm-anthony-albanese-visits-sites-of-alleged-russian-atrocities-in-ukraine)
+- [Last remaining Medal of Honor recipient from second world war to lie in state at US Capitol](https://www.theguardian.com/us-news/2022/jul/03/last-remaining-medal-of-honor-recipient-from-second-world-war-to-lie-in-state-at-us-capitol)
+- [Liz Truss mulls seizure of Russian assets in UK to give to Ukraine](https://www.theguardian.com/world/2022/jul/03/liz-truss-mulls-seizure-of-russian-assets-in-uk-to-give-to-ukraine)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

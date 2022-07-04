@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [ML Compilation](https://mlc.ai/summer22/)
-- [How to build a Chess Engine, an interactive guide](https://www.chessengines.org/)
-- [Donohue, Levitt, Roe, and Wade: T-minus 20 years to a crime wave?](https://laulpogan.substack.com/p/donohue-levitt-roe-and-wade-t-minus)
-- [Ask HN: Coworkers are suggesting I should slow down](https://news.ycombinator.com/item?id=31964651)
-- [Legend of Zelda: Ocarina of Time Beta Showcase with TASBot et al. at SGDQ 2022](https://www.youtube.com/watch?v=PNbkv_DJ0f0)
-- [Serotonin and Dopamine Modulate Aging in Response to Food Odor and Availability](https://neurosciencenews.com/dopamine-serotonin-food-fmo-20942/)
-- [More New Hires Are Ghosting Before Their Start Date. Here’s How to Prevent That](https://hunterwalk.com/2022/07/02/more-new-hires-are-ghosting-before-their-start-date-heres-how-to-prevent-that/)
-- [Rare clouds that glow in the dark are the most vibrant in 15 years](https://www.washingtonpost.com/climate-environment/2022/07/02/noctilucent-clouds-night-shining/)
-- [A huge mass of used wet wipes has changed the course of an English river](https://www.businessinsider.nl/a-huge-mass-of-used-wet-wipes-has-formed-an-island-that-has-changed-the-course-of-englands-second-longest-river-mp-says/)
-- [The Devil&#39;s Dictionary](https://www.gutenberg.org/files/972/972-h/972-h.htm)
+- [SpotDL – Spotify Downloader](https://github.com/spotDL/spotify-downloader)
+- [Atlassian co-founder hits back at Elon Musk](https://www.smartcompany.com.au/people-human-resources/remote-work/atlassian-scott-farquhar-elon-musk-wfh/)
+- [macOS: App Sandboxing via Sandbox-Exec](https://www.karltarvas.com/2020/10/25/macos-app-sandboxing-via-sandbox-exec.html)
+- [Today I wore Mojo Lens](https://www.mojo.vision/news/today-i-wore-mojo-lens)
+- [The problem with free](https://vanschneider.com/blog/the-problem-with-free/)
+- [What a student owes his teacher &lpar;1988&rpar;](https://web.archive.org/web/20120422184035/http://www.catholiceducation.org/articles/education/ed0003.html)
+- [The Pixel 6 Pro has the worst connectivity and reception of any phone I&#39;ve used](https://www.androidauthority.com/pixel-6-pro-connectivity-issues-3181350/)
+- [Google Releases Separate ADB and Fastboot Binary Downloads](https://www.xda-developers.com/google-releases-separate-adb-and-fastboot-binary-downloads/)
+- [Split Keyboards Gallery](https://aposymbiont.github.io/split-keyboards/)
+- [A guide map for reading the East Asian canon](https://scholars-stage.org/a-guide-map-for-reading-the-east-asian-canon/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

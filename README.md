@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [MPs call for ban on Chinese surveillance camera technology](https://www.computerweekly.com/news/252522313/MPs-call-for-ban-on-Chinese-surveillance-camera-technology)
+- [Government rejects Lords police tech inquiry recommendations](https://www.computerweekly.com/news/252522302/Government-rejects-Lords-police-tech-inquiry-recommendations)
+- [A Computer Weekly buyer’s guide to the circular economy](https://www.computerweekly.com/ehandbook/A-Computer-Weekly-buyers-guide-to-the-circular-economy)
 - [Assange appeals against Priti Patel’s extradition order](https://www.computerweekly.com/news/252522277/Assange-appeals-against-Priti-Patels-extradition-order)
+- [Cyber insurance: What does a CISO need to know?](https://www.computerweekly.com/feature/Cyber-insurance-What-does-a-CISO-need-to-know)
 - [File, block and object: Storage fundamentals in the cloud era](https://www.computerweekly.com/feature/File-block-and-object-Storage-fundamentals-in-the-cloud-era)
 - [Why is it so hard to fix the chip crisis?](https://www.computerweekly.com/news/252522257/Why-is-it-so-hard-to-fix-the-chip-crisis)
 - [Tech sector efforts to root out forced labour are failing](https://www.computerweekly.com/feature/Tech-sector-efforts-to-root-out-forced-labour-are-failing)
 - [Security Think Tank: Now is the time to think about cyber insurance](https://www.computerweekly.com/opinion/Security-Think-Tank-Now-is-the-time-to-think-about-cyber-insurance)
 - [US court rules no conflict of interest in tech firms’ mining deaths case](https://www.computerweekly.com/news/252522216/US-court-rules-no-conflict-of-interest-in-tech-firms-mining-deaths-case)
-- [ICO to cut back on fines for public sector data breaches](https://www.computerweekly.com/news/252522218/ICO-to-cut-back-on-fines-for-public-sector-data-breaches)
-- [H&amp;M Group tries Google Cloud on for size as omnichannel push gathers pace](https://www.computerweekly.com/news/252522194/HM-Group-tries-Google-Cloud-on-for-size-as-omnichannel-push-gathers-pace)
-- [Urgent need for new laws to govern biometrics, legal review finds](https://www.computerweekly.com/news/252522157/Urgent-need-for-new-laws-to-govern-biometrics-legal-review-finds)
-- [New cyber extortion op appears to have hit AMD](https://www.computerweekly.com/news/252522151/New-cyber-extortion-op-appears-to-have-hit-AMD)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

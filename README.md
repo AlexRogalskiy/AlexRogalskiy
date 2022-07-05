@@ -369,6 +369,7 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [How Women in Tech Can Create Their Own Opportunities](https://www.informationweek.com/it-life/how-women-in-tech-can-create-their-own-opportunities)
 - [Businesses Grappling With Post-Roe Data Privacy Questions](https://www.informationweek.com/big-data/businesses-grapple-with-post-roe-data-privacy-questions)
 - [Here’s How the AI Assistants of the Future Will Become More Human](https://www.informationweek.com/big-data/here-s-how-the-ai-assistants-of-the-future-will-become-more-human)
 - [5 Emerging Tech Vendors Tackling Cyber Threats in Retail &amp; Hospitality](https://www.informationweek.com/security-and-risk-strategy/rh-isac-event-tackles-the-latest-retail-and-hospital-industry-cyber-threats)
@@ -378,7 +379,6 @@
 - [CFOs and Automation: Battling Inflation, Increasing Employee Productivity](https://www.informationweek.com/big-data/cfos-and-automation-battling-inflation-increasing-employee-productivity)
 - [Cybersecurity Best Practices During War in Ukraine](https://www.informationweek.com/strategic-cio/cybersecurity-best-practices-during-war-in-ukraine)
 - [Don’t Let Operational Risks Corrupt Your Hybrid Model](https://www.informationweek.com/strategic-cio/don-t-let-operational-risks-corrupt-your-hybrid-model)
-- [Why to Create a More Data-Conscious Company Culture](https://www.informationweek.com/big-data/why-to-create-a-more-data-conscious-company-culture)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

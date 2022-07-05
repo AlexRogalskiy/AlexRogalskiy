@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [macOS: App Sandboxing via Sandbox-Exec](https://www.karltarvas.com/2020/10/25/macos-app-sandboxing-via-sandbox-exec.html)
-- [The Pixel 6 Pro has the worst connectivity and reception of any phone I&#39;ve used](https://www.androidauthority.com/pixel-6-pro-connectivity-issues-3181350/)
-- [Popcorn Time Is Back](https://github.com/popcorn-official/popcorn-android/releases/tag/v0.3.5)
-- [Goodbye Medium, hello Ghost](https://cryptofireside.com/goodbye-medium-hello-ghost-57c9b6d7349e)
-- [Building a Sevenesque Roadster](http://sevenesque.com/)
-- [Is the Ride over for Uber?](https://www.smartcompany.com.au/opinion/adam-schwab-is-the-ride-over-for-uber/)
-- [The Old Reader](https://theoldreader.com/)
-- [Why nobody ever wins the car at the mall &lpar;2018&rpar;](https://thehustle.co/why-nobody-ever-wins-the-mall-car-giveaway/)
-- [Gitlab Architecture Overview](https://docs.gitlab.com/ee/development/architecture.html)
-- [Quantum mechanics and Tomb Raider &lpar;2007&rpar;](https://terrytao.wordpress.com/2007/02/26/quantum-mechanics-and-tomb-raider/)
+- [Zig is becoming more production-worthy &lpar;zigmonthly&rpar;](https://zigmonthly.org/letters/2022/may-june/)
+- [Sadly, we can&#39;t check the app permissions on Google Play anymore](https://www.bluespace.tech/blog/google-play-permissions-list/)
+- [Browsh is a fully-modern text-based browser](https://www.brow.sh/)
+- [Toyota’s Chief Says Electric Vehicles Are Overhyped](https://www.wsj.com/articles/toyotas-chief-says-electric-vehicles-are-overhyped-11608196665)
+- [My Quest for the Perfect Window Manager](http://ironphoenix.org/fvwm/)
+- [How CUDA Programming Works](https://www.nvidia.com/en-us/on-demand/session/gtcspring22-s41487/)
+- [Felt](https://felt.com/)
+- [Vets today are like doctors yesterday](https://trevorklee.substack.com/p/vets-today-are-like-doctors-yesterday)
+- [Peter Thiel-Backed Crypto Lender Vauld Suspends Withdrawals](https://www.wsj.com/articles/peter-thiel-backed-crypto-lender-vauld-suspends-withdrawals-11656945617)
+- [Linux Kernel vs. DPDK: HTTP Performance Showdown](https://talawah.io/blog/linux-kernel-vs-dpdk-http-performance-showdown/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Surviving Britain’s homelessness crisis – podcast](https://www.theguardian.com/news/audio/2022/jul/04/surviving-britains-homelessness-crisis-daniel-lavelle-podcast)
-- [Missed meals and constant stress: New Zealand’s cost-of-living crisis hits home](https://www.theguardian.com/world/2022/jul/04/missed-meals-and-constant-stress-new-zealands-cost-of-living-crisis-hits-home)
-- [Russia-Ukraine war: what we know on day 131 of the invasion](https://www.theguardian.com/world/2022/jul/04/russia-ukraine-war-what-we-know-on-day-131-of-the-invasion)
-- [Copenhagen shooting: three killed in Denmark shopping centre attack](https://www.theguardian.com/world/2022/jul/03/several-wounded-in-shooting-at-copenhagen-shopping-centre-say-police)
-- [Half of all children in lone-parent families are in relative poverty](https://www.theguardian.com/business/2022/jul/04/half-of-all-children-in-lone-parent-families-are-in-relative-poverty)
-- [Plan to lower nursery staff-to-child ratio in England angers parents and providers](https://www.theguardian.com/money/2022/jul/04/plan-to-lower-nursery-staff-to-child-ratio-in-england-angers-parents-and-providers)
-- [Amazon: e-cargo bikes to replace thousands of van deliveries in London](https://www.theguardian.com/technology/2022/jul/04/amazon-e-cargo-bikes-deliveries-london)
-- [Australian PM visits sites of Russian atrocities in Ukraine](https://www.theguardian.com/world/2022/jul/03/australian-pm-anthony-albanese-visits-sites-of-alleged-russian-atrocities-in-ukraine)
-- [Last remaining Medal of Honor recipient from second world war to lie in state at US Capitol](https://www.theguardian.com/us-news/2022/jul/03/last-remaining-medal-of-honor-recipient-from-second-world-war-to-lie-in-state-at-us-capitol)
-- [Liz Truss mulls seizure of Russian assets in UK to give to Ukraine](https://www.theguardian.com/world/2022/jul/03/liz-truss-mulls-seizure-of-russian-assets-in-uk-to-give-to-ukraine)
+- [Chicago mass shooting: man in custody after six shot dead at Fourth of July parade](https://www.theguardian.com/us-news/2022/jul/04/highland-park-shooting-fourth-of-july-arrest)
+- [New Zealand Cricket strikes pay equity deal so women and men earn same match fees](https://www.theguardian.com/sport/2022/jul/05/new-zealand-cricket-pay-equity-deal-women-men-same-match-fees)
+- [Understanding the cryptocurrency crash | podcast](https://www.theguardian.com/news/audio/2022/jul/05/understanding-the-cryptocurrency-crash-podcast)
+- [Russia-Ukraine war: what we know on day 132 of the invasion](https://www.theguardian.com/world/2022/jul/05/russia-ukraine-war-what-we-know-on-day-132-of-the-invasion)
+- [Ukrainian flag arrives in Snake Island after Russian retreat](https://www.theguardian.com/world/2022/jul/04/ukrainian-flag-raised-over-snake-island-after-russian-retreat)
+- [NHS to test using drones to fly chemotherapy drugs to Isle of Wight](https://www.theguardian.com/society/2022/jul/05/nhs-to-test-using-drones-to-fly-chemotherapy-drugs-to-isle-of-wight)
+- [Floating windfarms could be hosted off Cornwall and Wales, crown estate says](https://www.theguardian.com/business/2022/jul/05/floating-windfarms-cornwall-wales-crown-estate-celtc-sea)
+- [Edgbaston to investigate racist abuse of Indian supporters during England Test](https://www.theguardian.com/sport/2022/jul/04/cricket-alex-lees-england-india-record-run-chase-edgbaston)
+- [The Extraordinary Life of April Ashley review – the trans icon steals the limelight yet again](https://www.theguardian.com/tv-and-radio/2022/jul/04/the-extraordinary-life-of-april-ashley-review-the-trans-icon-steals-the-limelight-yet-again)
+- [Legislation aims to shield UK internet users from state-backed disinformation](https://www.theguardian.com/uk-news/2022/jul/04/legislation-aims-to-shield-uk-internet-users-from-state-backed-disinformation)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [SpotDL – Spotify Downloader](https://github.com/spotDL/spotify-downloader)
-- [Atlassian co-founder hits back at Elon Musk](https://www.smartcompany.com.au/people-human-resources/remote-work/atlassian-scott-farquhar-elon-musk-wfh/)
-- [macOS: App Sandboxing via Sandbox-Exec](https://www.karltarvas.com/2020/10/25/macos-app-sandboxing-via-sandbox-exec.html)
-- [Today I wore Mojo Lens](https://www.mojo.vision/news/today-i-wore-mojo-lens)
-- [The problem with free](https://vanschneider.com/blog/the-problem-with-free/)
-- [What a student owes his teacher &lpar;1988&rpar;](https://web.archive.org/web/20120422184035/http://www.catholiceducation.org/articles/education/ed0003.html)
-- [The Pixel 6 Pro has the worst connectivity and reception of any phone I&#39;ve used](https://www.androidauthority.com/pixel-6-pro-connectivity-issues-3181350/)
-- [Google Releases Separate ADB and Fastboot Binary Downloads](https://www.xda-developers.com/google-releases-separate-adb-and-fastboot-binary-downloads/)
-- [Split Keyboards Gallery](https://aposymbiont.github.io/split-keyboards/)
-- [A guide map for reading the East Asian canon](https://scholars-stage.org/a-guide-map-for-reading-the-east-asian-canon/)
+- [Downtown S.F. keeps adding housing units, but does anyone want to live there?](https://www.sfchronicle.com/sf/article/san-francisco-housing-17280346.php)
+- [I’m Comic Sans, Asshole &lpar;2010&rpar;](https://www.mcsweeneys.net/articles/im-comic-sans-asshole)
+- [Disney’s flying robot stunt double can pose just like a superhero &lpar;2018&rpar;](https://www.theverge.com/2018/6/30/17517512/disney-robot-stunt-double-animatronic-superhero)
+- [The Good Enough Parent Is the Best Parent &lpar;2015&rpar;](https://www.psychologytoday.com/us/blog/freedom-learn/201512/the-good-enough-parent-is-the-best-parent)
+- [The End of the Student-Athlete](https://www.washingtonexaminer.com/opinion/the-end-of-the-student-athlete)
+- [Housify – Organizing the world&#39;s real estate data](https://housify.co)
+- [A 2,700-Mile Cycling Race Is Now Even More Extreme](https://www.nytimes.com/2022/07/04/sports/tour-divide-race-bikepackers.html)
+- [Show HN: IniShare – integrated digital publishing app](https://inishare.com)
+- [Cybbr Beta Is Now Online – Subscribe for Free: cybbr.com](https://cybbr.com)
+- [Galaxy S22 gets the July 2022 security update](https://www.sammobile.com/news/galaxy-s22-july-2022-security-update-released/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

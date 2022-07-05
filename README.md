@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Do you ever get the feeling that things &quot;break&quot; on purpose?](https://www.reddit.com/r/InformationTechnology/comments/vrnb1u/do_you_ever_get_the_feeling_that_things_break_on/)
+- [Am I ahead of the game or in over my head starting in this field?](https://www.reddit.com/r/InformationTechnology/comments/vrcrjc/am_i_ahead_of_the_game_or_in_over_my_head/)
+- [Suggestions](https://www.reddit.com/r/InformationTechnology/comments/vr9jvz/suggestions/)
+- [How long would you advise staying in a position which you hate before making a lateral move?](https://www.reddit.com/r/InformationTechnology/comments/vr6ukn/how_long_would_you_advise_staying_in_a_position/)
 - [Is it possible to go from Nuclear Medicine Technology to an MSIS program?](https://www.reddit.com/r/InformationTechnology/comments/vqy6yz/is_it_possible_to_go_from_nuclear_medicine/)
 - [Network Admin](https://www.reddit.com/r/InformationTechnology/comments/vqrldg/network_admin/)
 - [Most Underrated Home Server Setup: Xeon LGA2011-3 on repurposed X99 China MoBo&#39;s](https://www.reddit.com/r/InformationTechnology/comments/vqqscy/most_underrated_home_server_setup_xeon_lga20113/)
-- [Fuck IT](https://www.reddit.com/r/InformationTechnology/comments/vqme87/fuck_it/)
 - [getting into the IT field](https://www.reddit.com/r/InformationTechnology/comments/vqg8st/getting_into_the_it_field/)
-- [Heavily Discounted IT Certification courses and Mock Tests](https://www.reddit.com/r/InformationTechnology/comments/vqc7nf/heavily_discounted_it_certification_courses_and/)
 - [What&#39;s the difference between Information Systems and Information Technology?](https://www.reddit.com/r/InformationTechnology/comments/vq5650/whats_the_difference_between_information_systems/)
 - [Storage Driver Help](https://www.reddit.com/r/InformationTechnology/comments/vpycny/storage_driver_help/)
-- [The Future of Learning is Hybrid: Free Cisco Network Academy Courses by Skills For All](https://www.reddit.com/r/InformationTechnology/comments/vpomhi/the_future_of_learning_is_hybrid_free_cisco/)
-- [Tips for starting out in IT](https://www.reddit.com/r/InformationTechnology/comments/vpfpqc/tips_for_starting_out_in_it/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

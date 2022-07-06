@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Legacy UK customs system stops accepting registration requests](https://www.computerweekly.com/news/252522330/Legacy-UK-customs-system-stops-accepting-registration-requests)
+- [High Court quashes planning permission extension for Apple’s abandoned Irish datacentre build](https://www.computerweekly.com/news/252522336/High-Court-quashes-planning-permission-extension-for-Apples-abandoned-Irish-datacentre-build)
+- [Prepare for long-term cyber threat from Ukraine war, says NCSC](https://www.computerweekly.com/news/252522328/Prepare-for-long-term-cyber-threat-from-Ukraine-war-says-NCSC)
+- [How IoT and digital twins could help CIOs meet ESG pledges](https://www.computerweekly.com/feature/How-IoT-and-digital-twins-could-help-CIOs-meet-ESG-pledges)
+- [Netherlands’ AMdEX seeks to democratise the internet](https://www.computerweekly.com/news/252522325/Netherlands-AMdEX-seeks-to-democratise-the-internet)
+- [NCSC CEO: Why we should run towards crises to elevate cyber security](https://www.computerweekly.com/news/252522303/NCSC-CEO-Why-we-should-run-towards-crises-to-elevate-cyber-security)
+- [UKtech50 2022: The most influential people in UK technology](https://www.computerweekly.com/news/252522199/UKtech50-2022-The-most-influential-people-in-UK-technology)
+- [How to get the right level of cyber insurance](https://www.computerweekly.com/ezine/Computer-Weekly/How-to-get-the-right-level-of-cyber-insurance)
 - [MPs call for ban on Chinese surveillance camera technology](https://www.computerweekly.com/news/252522313/MPs-call-for-ban-on-Chinese-surveillance-camera-technology)
 - [Government rejects Lords police tech inquiry recommendations](https://www.computerweekly.com/news/252522302/Government-rejects-Lords-police-tech-inquiry-recommendations)
-- [A Computer Weekly buyer’s guide to the circular economy](https://www.computerweekly.com/ehandbook/A-Computer-Weekly-buyers-guide-to-the-circular-economy)
-- [Assange appeals against Priti Patel’s extradition order](https://www.computerweekly.com/news/252522277/Assange-appeals-against-Priti-Patels-extradition-order)
-- [Cyber insurance: What does a CISO need to know?](https://www.computerweekly.com/feature/Cyber-insurance-What-does-a-CISO-need-to-know)
-- [File, block and object: Storage fundamentals in the cloud era](https://www.computerweekly.com/feature/File-block-and-object-Storage-fundamentals-in-the-cloud-era)
-- [Why is it so hard to fix the chip crisis?](https://www.computerweekly.com/news/252522257/Why-is-it-so-hard-to-fix-the-chip-crisis)
-- [Tech sector efforts to root out forced labour are failing](https://www.computerweekly.com/feature/Tech-sector-efforts-to-root-out-forced-labour-are-failing)
-- [Security Think Tank: Now is the time to think about cyber insurance](https://www.computerweekly.com/opinion/Security-Think-Tank-Now-is-the-time-to-think-about-cyber-insurance)
-- [US court rules no conflict of interest in tech firms’ mining deaths case](https://www.computerweekly.com/news/252522216/US-court-rules-no-conflict-of-interest-in-tech-firms-mining-deaths-case)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

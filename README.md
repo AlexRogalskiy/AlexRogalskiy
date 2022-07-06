@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Chicago mass shooting: man in custody after six shot dead at Fourth of July parade](https://www.theguardian.com/us-news/2022/jul/04/highland-park-shooting-fourth-of-july-arrest)
-- [New Zealand Cricket strikes pay equity deal so women and men earn same match fees](https://www.theguardian.com/sport/2022/jul/05/new-zealand-cricket-pay-equity-deal-women-men-same-match-fees)
-- [Understanding the cryptocurrency crash | podcast](https://www.theguardian.com/news/audio/2022/jul/05/understanding-the-cryptocurrency-crash-podcast)
-- [Russia-Ukraine war: what we know on day 132 of the invasion](https://www.theguardian.com/world/2022/jul/05/russia-ukraine-war-what-we-know-on-day-132-of-the-invasion)
-- [Ukrainian flag arrives in Snake Island after Russian retreat](https://www.theguardian.com/world/2022/jul/04/ukrainian-flag-raised-over-snake-island-after-russian-retreat)
-- [NHS to test using drones to fly chemotherapy drugs to Isle of Wight](https://www.theguardian.com/society/2022/jul/05/nhs-to-test-using-drones-to-fly-chemotherapy-drugs-to-isle-of-wight)
-- [Floating windfarms could be hosted off Cornwall and Wales, crown estate says](https://www.theguardian.com/business/2022/jul/05/floating-windfarms-cornwall-wales-crown-estate-celtc-sea)
-- [Edgbaston to investigate racist abuse of Indian supporters during England Test](https://www.theguardian.com/sport/2022/jul/04/cricket-alex-lees-england-india-record-run-chase-edgbaston)
-- [The Extraordinary Life of April Ashley review – the trans icon steals the limelight yet again](https://www.theguardian.com/tv-and-radio/2022/jul/04/the-extraordinary-life-of-april-ashley-review-the-trans-icon-steals-the-limelight-yet-again)
-- [Legislation aims to shield UK internet users from state-backed disinformation](https://www.theguardian.com/uk-news/2022/jul/04/legislation-aims-to-shield-uk-internet-users-from-state-backed-disinformation)
+- [Russia-Ukraine war update: what we know on day 133 of the invasion](https://www.theguardian.com/world/2022/jul/06/russia-ukraine-war-what-we-know-on-day-133-of-the-invasion)
+- [Canada to throw out 13.6m AstraZeneca Covid vaccine doses amid lack of demand](https://www.theguardian.com/world/2022/jul/06/canada-to-throw-out-136m-astrazeneca-covid-vaccine-doses-amid-lack-of-demand)
+- [PNG prime minister denies connection to suitcase full of cash found as voting starts](https://www.theguardian.com/world/2022/jul/06/png-prime-minister-denies-connection-to-suitcase-full-of-cash-found-as-voting-starts)
+- [Bangladesh’s catastrophic flooding: the climate crisis frontline](https://www.theguardian.com/news/audio/2022/jul/06/bangladeshs-catastrophic-flooding-the-climate-crisis-frontline)
+- [‘Johnson on the brink’: what the papers said about Boris Johnson’s cabinet resignations](https://www.theguardian.com/media/2022/jul/06/johnson-on-the-brink-what-the-papers-said-about-boris-johnsons-cabinet-resignations)
+- [Denmark PM decries ‘cruel and senseless’ Copenhagen shooting as thousands attend memorial](https://www.theguardian.com/world/2022/jul/06/copenhagen-shooting-memorial-service-denmark-fields-shopping-centre)
+- [Highland Park shooting suspect charged with murder as police reveal past threat against family](https://www.theguardian.com/us-news/2022/jul/05/highland-park-shooter-weapons-threats-suicide)
+- [Turkey should face international court over Yazidi genocide, report says](https://www.theguardian.com/law/2022/jul/05/turkey-should-face-international-court-over-yazidi-genocide-report-says-helena-kennedy)
+- [Five-month disability benefits delay causing hardship, says Citizens Advice](https://www.theguardian.com/society/2022/jul/06/five-month-disability-benefits-delay-causing-hardship-says-citizens-advice)
+- [UK could force messaging apps to scan for child sexual abuse images](https://www.theguardian.com/technology/2022/jul/06/uk-could-force-messaging-apps-to-scan-for-child-sexual-abuse-images)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

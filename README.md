@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Apple &lpar;almost&rpar; says, ‘If you want to collaborate, stay apart’](https://www.computerworld.com/article/3665874/apple-almost-says-if-you-want-to-collaborate-stay-apart.html#tk.rss_all)
+- [Think twice before deploying Windows’ Controlled Folder Access](https://www.computerworld.com/article/3665694/windows-controlled-folder-access-think-twice-before-deploying.html#tk.rss_all)
+- [Yes, you can avoid 2022&#39;s business travel miseries](https://www.computerworld.com/article/3665657/yes-you-can-avoid-2022s-business-travel-miseries.html#tk.rss_all)
+- [Tech talent shortage slows reshoring of chip manufacturing in US](https://www.computerworld.com/article/3665111/tech-talent-shortage-slows-reshoring-of-chip-manufacturing-in-us.html#tk.rss_all)
+- [Are banks quietly refusing reimbursements to fraud victims?](https://www.computerworld.com/article/3664808/are-banks-quietly-refusing-reimbursements-to-fraud-victims.html#tk.rss_all)
 - [Cookie conundrum: The loss of third-party trackers could diminish your privacy](https://www.computerworld.com/article/3665631/cookie-conundrum-the-loss-of-third-party-trackers-could-diminish-your-privacy.html#tk.rss_all)
 - [10 next-level tricks for your Pixel Clock app](https://www.computerworld.com/article/3665095/pixel-clock-app.html#tk.rss_all)
 - [Reviewing the latest Apple rumors](https://www.computerworld.com/article/3665656/reviewing-the-latest-apple-rumors.html#tk.rss_all)
 - [How to set up and use Focus modes on iOS 16](https://www.computerworld.com/article/3665750/how-to-set-up-and-use-focus-modes-on-ios-16.html#tk.rss_all)
 - [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [The evolution &lpar;and eventual end&rpar; of computer monitors](https://www.computerworld.com/article/3665908/the-evolution-and-eventual-end-of-computer-monitors.html#tk.rss_all)
-- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
-- [Here comes the &#39;destination workplace.&#39;](https://www.computerworld.com/article/3665689/here-comes-the-destination-workplace.html#tk.rss_all)
-- [Gartner predicts PC shipments to fall by 9.5% this year](https://www.computerworld.com/article/3665868/gartner-predicts-pc-shipments-to-fall-by-9-5-this-year.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

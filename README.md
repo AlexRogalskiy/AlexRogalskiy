@@ -369,6 +369,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [IT Pro Pathways for Gen Z: What the Enterprise Can Do to Help](https://www.informationweek.com/strategic-cio/it-pro-pathways-for-gen-z-what-the-enterprise-can-do-to-help)
+- [Creating a Data Literate Culture in Your Organization](https://www.informationweek.com/big-data/creating-a-data-literate-culture-in-your-organization)
 - [How Women in Tech Can Create Their Own Opportunities](https://www.informationweek.com/it-life/how-women-in-tech-can-create-their-own-opportunities)
 - [Businesses Grappling With Post-Roe Data Privacy Questions](https://www.informationweek.com/big-data/businesses-grapple-with-post-roe-data-privacy-questions)
 - [Here’s How the AI Assistants of the Future Will Become More Human](https://www.informationweek.com/big-data/here-s-how-the-ai-assistants-of-the-future-will-become-more-human)
@@ -377,8 +379,6 @@
 - [The Dark Side of Digital Transformation: Massive Fraud](https://www.informationweek.com/big-data/the-dark-side-of-digital-transformation-massive-fraud)
 - [Quick Study: Diversity, Equity, and Inclusion](https://www.informationweek.com/strategic-cio/quick-study-diversity-equity-and-inclusion)
 - [CFOs and Automation: Battling Inflation, Increasing Employee Productivity](https://www.informationweek.com/big-data/cfos-and-automation-battling-inflation-increasing-employee-productivity)
-- [Cybersecurity Best Practices During War in Ukraine](https://www.informationweek.com/strategic-cio/cybersecurity-best-practices-during-war-in-ukraine)
-- [Don’t Let Operational Risks Corrupt Your Hybrid Model](https://www.informationweek.com/strategic-cio/don-t-let-operational-risks-corrupt-your-hybrid-model)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

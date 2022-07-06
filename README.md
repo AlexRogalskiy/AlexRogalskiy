@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Downtown S.F. keeps adding housing units, but does anyone want to live there?](https://www.sfchronicle.com/sf/article/san-francisco-housing-17280346.php)
-- [I’m Comic Sans, Asshole &lpar;2010&rpar;](https://www.mcsweeneys.net/articles/im-comic-sans-asshole)
-- [Disney’s flying robot stunt double can pose just like a superhero &lpar;2018&rpar;](https://www.theverge.com/2018/6/30/17517512/disney-robot-stunt-double-animatronic-superhero)
-- [The Good Enough Parent Is the Best Parent &lpar;2015&rpar;](https://www.psychologytoday.com/us/blog/freedom-learn/201512/the-good-enough-parent-is-the-best-parent)
-- [The End of the Student-Athlete](https://www.washingtonexaminer.com/opinion/the-end-of-the-student-athlete)
-- [Housify – Organizing the world&#39;s real estate data](https://housify.co)
-- [A 2,700-Mile Cycling Race Is Now Even More Extreme](https://www.nytimes.com/2022/07/04/sports/tour-divide-race-bikepackers.html)
-- [Show HN: IniShare – integrated digital publishing app](https://inishare.com)
-- [Cybbr Beta Is Now Online – Subscribe for Free: cybbr.com](https://cybbr.com)
-- [Galaxy S22 gets the July 2022 security update](https://www.sammobile.com/news/galaxy-s22-july-2022-security-update-released/)
+- [Ask HN: Is there an equivalent Hacker News in China?](https://news.ycombinator.com/item?id=31996428)
+- [Building a sailing starter board with Rust &lpar;RTIC&rpar;](https://gill.net.in/posts/stm32-pcb-sailing-and-rust/)
+- [Turn a machine learning model into a web app](https://github.com/gradio-app/gradio)
+- [TikTok Admits Its China-Based Employees Can Access US User Data](https://www.thequint.com/tech-and-auto/tech-news/tiktok-reveals-china-based-employees-can-access-us-user-data)
+- [Octopus Intelligence and the Puzzle of Sociality](https://nathanieltravis.com/2022/07/05/octopus-intelligence-and-the-puzzle-of-sociality/)
+- [Two Books Plumb the Hidden Depths of the Fairy Tale](https://www.wsj.com/articles/two-books-plumb-the-hidden-depths-of-the-fairy-tale-review-11656686043)
+- [Absurd Trolley Problems](https://neal.fun/absurd-trolley-problems/)
+- [A Madman’s Guide to Wagner](https://thecritic.co.uk/a-madmans-guide-to-wagner/)
+- [GTA GeoGuesser](https://gta-geoguesser.com/index.html/)
+- [Ask HN: Algorithms and data structures for humans and physical objects?](https://news.ycombinator.com/item?id=31996192)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

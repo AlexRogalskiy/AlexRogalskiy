@@ -384,16 +384,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [India opens up its digital payments systems and other key tech](https://www.infoworld.com/article/3665693/india-opens-up-its-digital-payments-systems-and-other-key-tech.html#tk.rss_all)
+- [How to nail your cloud computing job interview](https://www.infoworld.com/article/3665890/how-to-nail-your-cloud-computing-job-interview.html#tk.rss_all)
+- [Lego embraces modularity, metaverse with its software engineering culture](https://www.infoworld.com/article/3665870/lego-embraces-modularity-metaverse-in-its-software-engineering-culture.html#tk.rss_all)
+- [5 tips for writing better API documentation](https://www.infoworld.com/article/3664096/5-tips-for-writing-better-api-documentation.html#tk.rss_all)
 - [What happens when there’s not enough cloud?](https://www.infoworld.com/article/3666048/what-happens-when-theres-not-enough-cloud.html#tk.rss_all)
 - [Identity, trust, and their role in modern applications](https://www.infoworld.com/article/3665655/identity-trust-and-their-role-in-modern-applications.html#tk.rss_all)
 - [Uno Platform advances WebAssembly support](https://www.infoworld.com/article/3665889/uno-platform-advances-webassembly-support.html#tk.rss_all)
 - [Traditional architecture still has a place in the cloud](https://www.infoworld.com/article/3665869/traditional-architecture-still-has-a-place-in-the-cloud.html#tk.rss_all)
 - [What is Flutter? Mobile app development for Android, iOS, and more](https://www.infoworld.com/article/3664122/what-is-flutter-mobile-app-development-for-android-ios-and-more.html#tk.rss_all)
 - [What’s new in Rust 1.62](https://www.infoworld.com/article/3267624/whats-new-in-the-rust-language.html#tk.rss_all)
-- [Choosing your Java IDE](https://www.infoworld.com/article/3114167/choosing-your-java-ide.html#tk.rss_all)
-- [The best new features in .NET 6](https://www.infoworld.com/article/3665688/the-best-new-features-in-net-6.html#tk.rss_all)
-- [C# language specification approved](https://www.infoworld.com/article/3665651/c-sharp-language-specification-approved.html#tk.rss_all)
-- [How to deploy with Vercel and MongoDB Atlas without even trying](https://www.infoworld.com/article/3664936/how-to-deploy-with-vercel-and-mongodb-atlas-without-even-trying.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

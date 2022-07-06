@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Microsoft Canada recognizes Canadian partners with 2022 Impact awards](https://www.itworldcanada.com/article/microsoft-canada-recognizes-canadian-partners-with-2022-impact-awards/491703)
+- [One in four SMBs would leave their MSP over quality issues: Report](https://www.itworldcanada.com/article/one-in-four-smbs-would-leave-their-msp-over-quality-issues-report/491713)
+- [Alberta to intervene in the Shaw/Rogers deal](https://www.itworldcanada.com/article/alberta-to-intervene-in-the-shaw-rogers-deal/491708)
+- [Attackers abusing another threat simulation tool, report warns](https://www.itworldcanada.com/article/attackers-abusing-another-threat-simulation-tool-report-warns/491680)
+- [AI-based AccessNow, Daniels to map accessibility of Regent Park](https://www.itworldcanada.com/article/ai-based-accessnow-daniels-to-map-accessibility-of-regent-park/491652)
+- [Hashtag Trending July 5 – New U.S. chip awaits government funding; Apple Watch fever detection rumor; Ford Motor recall](https://www.itworldcanada.com/article/hashtag-trending-july-5-new-u-s-chip-awaits-government-funding-apple-watch-fever-detection-rumor-ford-motor-recall/491657)
 - [This week in ransomware – Friday July 1, 2022](https://www.itworldcanada.com/article/this-week-in-ransomware-friday-july-1-2022/491619)
 - [Too many Canadian firms have ’emerging’ cybersecurity maturity, survey suggests](https://www.itworldcanada.com/article/too-many-canadian-firms-have-emerging-cybersecurity-maturity-survey-suggests/491621)
 - [Worm spreading via infected USB keys, Microsoft warns](https://www.itworldcanada.com/article/worm-spreading-via-infected-usb-keys-microsoft-warns/491630)
 - [Cyber Security Today, July 4, 2022 – Hope for stable cyber insurance rates, a U.S. supermarket chain penalized for poor cloud security, and more](https://www.itworldcanada.com/article/cyber-security-today-july-4-2022-hope-for-stable-cyber-insurance-rates-a-u-s-supermarket-chain-penalized-for-poor-cloud-security-and-more/491605)
-- [Hashtag Trending July 4 – Google delete abortion clinic visits from location history; satellites for detecting emissions; AirTags help recover vehicle](https://www.itworldcanada.com/article/hashtag-trending-july-4-google-delete-abortion-clinic-visits-from-location-history-satellites-for-detecting-emissions-airtags-help-recover-vehicle/491625)
-- [Giving gig workers a voice in the new economy: Matt Spoke, CEO of Moves Financial](https://www.itworldcanada.com/article/giving-gig-workers-a-voice-in-the-new-economy-matt-spoke-ceo-of-moves-financial/491600)
-- [Cyber Security Today, Week in Review for Friday, July 1, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-july-1-2022/491570)
-- [Cyber Security Today, July 1, 2022 – Cruise line hit with US$5 million fine over data breaches, an FBI warning to HR departments over deepfake videos, and more](https://www.itworldcanada.com/article/cyber-security-today-july-1-2022-cruise-line-hit-with-us5-million-fine-over-data-breaches-an-fbi-warning-to-hr-departments-over-deepfake-videos-and-more/491583)
-- [Webex Hologram: Taking virtual meetings to a whole new level](https://www.itworldcanada.com/article/webex-hologram-taking-virtual-meetings-to-a-whole-new-level/491244)
-- [Broadcom blog on VMware development plans panned by analyst](https://www.itworldcanada.com/article/broadcom-blog-on-vmware-development-plans-panned-by-analyst/491424)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

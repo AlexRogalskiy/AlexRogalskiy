@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Zig is becoming more production-worthy &lpar;zigmonthly&rpar;](https://zigmonthly.org/letters/2022/may-june/)
-- [Sadly, we can&#39;t check the app permissions on Google Play anymore](https://www.bluespace.tech/blog/google-play-permissions-list/)
-- [Browsh is a fully-modern text-based browser](https://www.brow.sh/)
-- [Toyota’s Chief Says Electric Vehicles Are Overhyped](https://www.wsj.com/articles/toyotas-chief-says-electric-vehicles-are-overhyped-11608196665)
-- [My Quest for the Perfect Window Manager](http://ironphoenix.org/fvwm/)
-- [How CUDA Programming Works](https://www.nvidia.com/en-us/on-demand/session/gtcspring22-s41487/)
-- [Felt](https://felt.com/)
-- [Vets today are like doctors yesterday](https://trevorklee.substack.com/p/vets-today-are-like-doctors-yesterday)
-- [Peter Thiel-Backed Crypto Lender Vauld Suspends Withdrawals](https://www.wsj.com/articles/peter-thiel-backed-crypto-lender-vauld-suspends-withdrawals-11656945617)
-- [Linux Kernel vs. DPDK: HTTP Performance Showdown](https://talawah.io/blog/linux-kernel-vs-dpdk-http-performance-showdown/)
+- [Absurd Trolley Problems](https://neal.fun/absurd-trolley-problems/)
+- [New cars will stop drivers from speeding under European laws](https://www.drive.com.au/news/new-cars-will-stop-drivers-from-speeding/)
+- [Ask HN: Why do you use a VPN?](https://news.ycombinator.com/item?id=31996114)
+- [An Ubuntu kernel bug causes container crashes](https://lwn.net/SubscriberLink/899420/1f0179b2d946d7b7/)
+- [Lurk – Language for Recursive ZK-SNARKs Inspired by Common Lisp and Scheme](https://github.com/lurk-lang)
+- [I don&#39;t care how you web dev; I just need more better web apps](https://www.baldurbjarnason.com/2022/more-better-web-apps/)
+- [The ‘E-Pimps’ of OnlyFans](https://www.nytimes.com/2022/05/16/magazine/e-pimps-onlyfans.html)
+- [OpenSSL Security Advisory](https://www.openssl.org/news/secadv/20220705.txt)
+- [Compound &lpar;YC S19&rpar; is hiring to build financial products for startup employees](https://withcompound.com/)
+- [Running the Steam Deck’s OS in a virtual machine using QEMU](https://blogs.igalia.com/berto/2022/07/05/running-the-steam-decks-os-in-a-virtual-machine-using-qemu/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

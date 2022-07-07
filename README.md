@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Absurd Trolley Problems](https://neal.fun/absurd-trolley-problems/)
-- [New cars will stop drivers from speeding under European laws](https://www.drive.com.au/news/new-cars-will-stop-drivers-from-speeding/)
-- [Ask HN: Why do you use a VPN?](https://news.ycombinator.com/item?id=31996114)
-- [An Ubuntu kernel bug causes container crashes](https://lwn.net/SubscriberLink/899420/1f0179b2d946d7b7/)
-- [Lurk – Language for Recursive ZK-SNARKs Inspired by Common Lisp and Scheme](https://github.com/lurk-lang)
-- [I don&#39;t care how you web dev; I just need more better web apps](https://www.baldurbjarnason.com/2022/more-better-web-apps/)
-- [The ‘E-Pimps’ of OnlyFans](https://www.nytimes.com/2022/05/16/magazine/e-pimps-onlyfans.html)
-- [OpenSSL Security Advisory](https://www.openssl.org/news/secadv/20220705.txt)
-- [Compound &lpar;YC S19&rpar; is hiring to build financial products for startup employees](https://withcompound.com/)
-- [Running the Steam Deck’s OS in a virtual machine using QEMU](https://blogs.igalia.com/berto/2022/07/05/running-the-steam-decks-os-in-a-virtual-machine-using-qemu/)
+- [Nanoparticle Vaccine Protects Against C19-Causing Variants and Related Viruses](https://www.caltech.edu/about/news/sars-coronavirus-variant-vaccine-bjorkman)
+- [Life Stats](https://neal.fun/life-stats/)
+- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Machine Learning Research Engineers](https://news.ycombinator.com/item?id=32008825)
+- [I analyzed hospital price lists so you didn&#39;t have to](https://www.dolthub.com/blog/2022-07-01-hospitals-compliance/)
+- [Space Force Launches New Intelligence Unit: Congress Voices Concerns over Growth](https://www.military.com/daily-news/2022/07/05/space-force-launches-new-intelligence-unit-congress-voices-concerns-over-growth.html)
+- [Google ML Compiler Inlining Achieves 3-7% Reduction in Size](https://ai.googleblog.com/2022/07/mlgo-machine-learning-framework-for.html)
+- [Alain de Botton on Existential Maturity and What Emotional Intelligence Means](https://www.themarginalian.org/2019/11/25/the-school-of-life-book/)
+- [Large-scale ‘sand battery’ goes online in Finland](https://www.energy-storage.news/worlds-first-large-scale-sand-battery-goes-online-in-finland/)
+- [No Language Left Behind](https://ai.facebook.com/research/no-language-left-behind/)
+- [Show HN: C3 – A C alternative that looks like C](https://news.ycombinator.com/item?id=32005678)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

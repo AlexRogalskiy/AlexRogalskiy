@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war update: what we know on day 133 of the invasion](https://www.theguardian.com/world/2022/jul/06/russia-ukraine-war-what-we-know-on-day-133-of-the-invasion)
-- [Canada to throw out 13.6m AstraZeneca Covid vaccine doses amid lack of demand](https://www.theguardian.com/world/2022/jul/06/canada-to-throw-out-136m-astrazeneca-covid-vaccine-doses-amid-lack-of-demand)
-- [PNG prime minister denies connection to suitcase full of cash found as voting starts](https://www.theguardian.com/world/2022/jul/06/png-prime-minister-denies-connection-to-suitcase-full-of-cash-found-as-voting-starts)
-- [Bangladesh’s catastrophic flooding: the climate crisis frontline](https://www.theguardian.com/news/audio/2022/jul/06/bangladeshs-catastrophic-flooding-the-climate-crisis-frontline)
-- [‘Johnson on the brink’: what the papers said about Boris Johnson’s cabinet resignations](https://www.theguardian.com/media/2022/jul/06/johnson-on-the-brink-what-the-papers-said-about-boris-johnsons-cabinet-resignations)
-- [Denmark PM decries ‘cruel and senseless’ Copenhagen shooting as thousands attend memorial](https://www.theguardian.com/world/2022/jul/06/copenhagen-shooting-memorial-service-denmark-fields-shopping-centre)
-- [Highland Park shooting suspect charged with murder as police reveal past threat against family](https://www.theguardian.com/us-news/2022/jul/05/highland-park-shooter-weapons-threats-suicide)
-- [Turkey should face international court over Yazidi genocide, report says](https://www.theguardian.com/law/2022/jul/05/turkey-should-face-international-court-over-yazidi-genocide-report-says-helena-kennedy)
-- [Five-month disability benefits delay causing hardship, says Citizens Advice](https://www.theguardian.com/society/2022/jul/06/five-month-disability-benefits-delay-causing-hardship-says-citizens-advice)
-- [UK could force messaging apps to scan for child sexual abuse images](https://www.theguardian.com/technology/2022/jul/06/uk-could-force-messaging-apps-to-scan-for-child-sexual-abuse-images)
+- [‘The world is bloody messy’: Jacinda Ardern urges end to ‘black-and-white’ view of global conflict](https://www.theguardian.com/world/2022/jul/07/the-world-is-bloody-messy-jacinda-ardern-urges-end-to-black-and-white-view-of-global-conflict)
+- [‘Get exit done’: UK front pages mix incredulity with PM’s message of defiance](https://www.theguardian.com/politics/2022/jul/07/get-exit-done-uk-front-pages-mix-incredulity-with-pms-message-of-defiance)
+- [Boris Johnson clings on against the odds - podcast](https://www.theguardian.com/news/audio/2022/jul/07/boris-johnson-fights-on-against-the-odds-podcast)
+- [Ex-Cheer star Jerry Harris sentenced to 12 years in prison for child sexual abuse images charges](https://www.theguardian.com/us-news/2022/jul/07/ex-cheer-star-jerry-harris-sentenced-to-12-years-in-prison-for-child-sexual-abuse-images-charges)
+- [Elon Musk fathered twins with one of his executives last year – report](https://www.theguardian.com/technology/2022/jul/06/elon-musk-twins-children-shivon-zilis)
+- [Russia-Ukraine war update: what we know on day 134 of the invasion](https://www.theguardian.com/world/2022/jul/07/russia-ukraine-war-update-what-we-know-on-day-134-of-the-invasion)
+- [Children too anxious to attend school being failed by English councils – report](https://www.theguardian.com/education/2022/jul/07/children-anxiety-schools-alternative-education-ombudsman-report-english-councils)
+- [Three Wimbledon security guards arrested after alleged fight on grounds](https://www.theguardian.com/sport/2022/jul/07/three-wimbledon-security-guards-arrested-after-alleged-fight-on-grounds)
+- [Georgia monument dubbed ‘America’s Stonehenge’ damaged by explosives](https://www.theguardian.com/us-news/2022/jul/06/georgia-monument-guidestones-americas-stonehenge-bombed)
+- [England offer record crowd glimpse of new dawn for women’s football | Jonathan Liew](https://www.theguardian.com/football/blog/2022/jul/06/england-keep-their-heads-amid-pressure-and-pace-of-progress-in-womens-game)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -369,6 +369,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Creating a Natural, More Collaborative Hybrid Work Environment](https://www.informationweek.com/strategic-cio/creating-a-natural-more-collaborative-hybrid-work-environment)
+- [Collaboration Versus Groupthink: How to Tell the Difference](https://www.informationweek.com/strategic-cio/collaboration-versus-groupthink-how-to-tell-the-difference)
+- [Neurodiversity in Cybersecurity: Broadening Perspectives, Offering Inclusivity](https://www.informationweek.com/strategic-cio/neurodiversity-in-cybersecurity-broadening-perspectives-offering-inclusivity)
 - [IT Pro Pathways for Gen Z: What the Enterprise Can Do to Help](https://www.informationweek.com/strategic-cio/it-pro-pathways-for-gen-z-what-the-enterprise-can-do-to-help)
 - [Creating a Data Literate Culture in Your Organization](https://www.informationweek.com/big-data/creating-a-data-literate-culture-in-your-organization)
 - [How Women in Tech Can Create Their Own Opportunities](https://www.informationweek.com/it-life/how-women-in-tech-can-create-their-own-opportunities)
@@ -376,9 +379,6 @@
 - [Here’s How the AI Assistants of the Future Will Become More Human](https://www.informationweek.com/big-data/here-s-how-the-ai-assistants-of-the-future-will-become-more-human)
 - [5 Emerging Tech Vendors Tackling Cyber Threats in Retail &amp; Hospitality](https://www.informationweek.com/security-and-risk-strategy/rh-isac-event-tackles-the-latest-retail-and-hospital-industry-cyber-threats)
 - [FinTech Innovation Lab Demo Day: ESG, Crypto, and Managing Risk](https://www.informationweek.com/fintech/fintech-innovation-lab-demo-day-esg-crypto-and-managing-risk)
-- [The Dark Side of Digital Transformation: Massive Fraud](https://www.informationweek.com/big-data/the-dark-side-of-digital-transformation-massive-fraud)
-- [Quick Study: Diversity, Equity, and Inclusion](https://www.informationweek.com/strategic-cio/quick-study-diversity-equity-and-inclusion)
-- [CFOs and Automation: Battling Inflation, Increasing Employee Productivity](https://www.informationweek.com/big-data/cfos-and-automation-battling-inflation-increasing-employee-productivity)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

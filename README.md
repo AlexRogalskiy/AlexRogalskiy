@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Rogers and Shaw fail to resolve competition concerns in mediation](https://www.itworldcanada.com/article/rogers-and-shaw-fail-to-resolve-competition-concerns-in-mediation/491822)
+- [NIST names first four quantum-resistant encryption tools](https://www.itworldcanada.com/article/nist-names-first-four-quantum-resistant-encryption-tools/491782)
+- [IT leaders admit having blind spots in attack surface visibility: Report](https://www.itworldcanada.com/article/it-leaders-admit-having-blind-spots-in-attack-surface-visibility-report/491752)
+- [No confirmation yet on claim that data on 1 billion Chinese are in stolen police databases](https://www.itworldcanada.com/article/no-confirmation-yet-on-claim-that-data-on-1-billion-chinese-are-in-stolen-police-databases/491761)
+- [Cyber Security Today, July 6, 2022 – A phishing test failure, the AstraLocker ransomware developer quits and a Wi-Fi warning to those sitting in airports](https://www.itworldcanada.com/article/cyber-security-today-july-6-2022-a-phishing-test-failure-the-astralocker-ransomware-developer-quits-and-a-wi-fi-warning-to-those-sitting-in-airports/491736)
+- [Hashtag Trending July 6 – Hackers breach Shanghai police database; Tesla delivers fewer cars this quarter; and easier time canceling Amazon Prime](https://www.itworldcanada.com/article/hashtag-trending-july-6-hackers-breach-shanghai-police-database-tesla-delivers-fewer-cars-this-quarter-and-easier-time-canceling-amazon-prime/491769)
 - [Microsoft Canada recognizes Canadian partners with 2022 Impact awards](https://www.itworldcanada.com/article/microsoft-canada-recognizes-canadian-partners-with-2022-impact-awards/491703)
 - [One in four SMBs would leave their MSP over quality issues: Report](https://www.itworldcanada.com/article/one-in-four-smbs-would-leave-their-msp-over-quality-issues-report/491713)
 - [Alberta to intervene in the Shaw/Rogers deal](https://www.itworldcanada.com/article/alberta-to-intervene-in-the-shaw-rogers-deal/491708)
 - [Attackers abusing another threat simulation tool, report warns](https://www.itworldcanada.com/article/attackers-abusing-another-threat-simulation-tool-report-warns/491680)
-- [AI-based AccessNow, Daniels to map accessibility of Regent Park](https://www.itworldcanada.com/article/ai-based-accessnow-daniels-to-map-accessibility-of-regent-park/491652)
-- [Hashtag Trending July 5 – New U.S. chip awaits government funding; Apple Watch fever detection rumor; Ford Motor recall](https://www.itworldcanada.com/article/hashtag-trending-july-5-new-u-s-chip-awaits-government-funding-apple-watch-fever-detection-rumor-ford-motor-recall/491657)
-- [This week in ransomware – Friday July 1, 2022](https://www.itworldcanada.com/article/this-week-in-ransomware-friday-july-1-2022/491619)
-- [Too many Canadian firms have ’emerging’ cybersecurity maturity, survey suggests](https://www.itworldcanada.com/article/too-many-canadian-firms-have-emerging-cybersecurity-maturity-survey-suggests/491621)
-- [Worm spreading via infected USB keys, Microsoft warns](https://www.itworldcanada.com/article/worm-spreading-via-infected-usb-keys-microsoft-warns/491630)
-- [Cyber Security Today, July 4, 2022 – Hope for stable cyber insurance rates, a U.S. supermarket chain penalized for poor cloud security, and more](https://www.itworldcanada.com/article/cyber-security-today-july-4-2022-hope-for-stable-cyber-insurance-rates-a-u-s-supermarket-chain-penalized-for-poor-cloud-security-and-more/491605)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

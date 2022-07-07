@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ask HN: Is there an equivalent Hacker News in China?](https://news.ycombinator.com/item?id=31996428)
-- [Building a sailing starter board with Rust &lpar;RTIC&rpar;](https://gill.net.in/posts/stm32-pcb-sailing-and-rust/)
-- [Turn a machine learning model into a web app](https://github.com/gradio-app/gradio)
-- [TikTok Admits Its China-Based Employees Can Access US User Data](https://www.thequint.com/tech-and-auto/tech-news/tiktok-reveals-china-based-employees-can-access-us-user-data)
-- [Octopus Intelligence and the Puzzle of Sociality](https://nathanieltravis.com/2022/07/05/octopus-intelligence-and-the-puzzle-of-sociality/)
-- [Two Books Plumb the Hidden Depths of the Fairy Tale](https://www.wsj.com/articles/two-books-plumb-the-hidden-depths-of-the-fairy-tale-review-11656686043)
-- [Absurd Trolley Problems](https://neal.fun/absurd-trolley-problems/)
-- [A Madman’s Guide to Wagner](https://thecritic.co.uk/a-madmans-guide-to-wagner/)
-- [GTA GeoGuesser](https://gta-geoguesser.com/index.html/)
-- [Ask HN: Algorithms and data structures for humans and physical objects?](https://news.ycombinator.com/item?id=31996192)
+- [Bolt lawsuit settlement – ABG now a shareholder](https://techcrunch.com/2022/07/06/fintech-startup-bolt-has-settled-suit-brought-on-by-forever21s-parent-company-and-made-it-a-shareholder/)
+- [American Factories Are Making Stuff Again as CEOs Take Production Out of China](https://www.bloomberg.com/news/articles/2022-07-05/us-factory-boom-heats-up-as-ceos-yank-production-out-of-china)
+- [Things I Learnt from a Senior Software Engineer](https://neilkakkar.com/things-I-learnt-from-a-senior-dev.html)
+- [Hotel giant Marriott confirms yet another data breach](https://techcrunch.com/2022/07/06/marriott-breach-again/)
+- [We Did It, We Lost Access to Tesla Full Self Driving Beta](https://cleantechnica.com/2022/06/30/we-did-it-we-lost-access-to-tesla-full-self-driving-beta/)
+- [SF Airbnb rival WanderJaunt abruptly shuts down, vanishes with barely a trace](https://www.sfgate.com/bayarea/article/airbnb-rival-wanderjaunt-shutters-17288277.php)
+- [NIO Power Day 2022: 500 kW fast chargers coming to China and the EU this year](https://electrek.co/2022/07/06/nio-power-day-2022/)
+- [Non-Tesla Supercharger US pilot launch expected late 2022: White House](https://www.teslarati.com/non-tesla-supercharger-pilot-united-states-launch/)
+- [New cyber security podcast, CISO Experience](https://www.linkedin.com/video/event/urn:li:ugcPost:6950169798441893888/)
+- [Ask HN: Any recommended resources on building B2B partnerships?](https://news.ycombinator.com/item?id=32009493)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

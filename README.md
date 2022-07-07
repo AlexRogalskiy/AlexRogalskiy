@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Manchester United signs DXC for digital transformation](https://www.computerweekly.com/news/252522401/Manchester-United-signs-DXC-for-digital-transformation)
+- [60% of tech workers say more needs to be done on diversity](https://www.computerweekly.com/news/252522400/60-of-tech-workers-say-more-needs-to-be-done-on-diversity)
+- [CIO interview: Carl Dawson, CIO, Asda](https://www.computerweekly.com/news/252522349/CIO-interview-Carl-Dawson-CIO-Asda)
+- [UK-based datacentre liquid cooling firm Iceotope Technologies secures £30m funding](https://www.computerweekly.com/news/252522392/UK-based-datacentre-liquid-cooling-firm-Iceotope-Technologies-secures-30m-funding)
+- [Plexal seeks new scaleups for next phase of Cyber Runway](https://www.computerweekly.com/news/252522382/Plexal-seeks-new-scaleups-for-next-phase-of-Cyber-Runway)
+- [ESET: Lazarus APT hit aero, defence sector with fake job ads](https://www.computerweekly.com/news/252522378/ESET-Lazarus-APT-hit-aero-defence-sector-with-fake-job-ads)
+- [Vodafone and Google Cloud collaboration gives rise to AI Booster platform](https://www.computerweekly.com/news/252522379/Vodafone-and-Google-Cloud-collaboration-gives-rise-to-AI-Booster-platform)
 - [Legacy UK customs system stops accepting registration requests](https://www.computerweekly.com/news/252522330/Legacy-UK-customs-system-stops-accepting-registration-requests)
 - [High Court quashes planning permission extension for Apple’s abandoned Irish datacentre build](https://www.computerweekly.com/news/252522336/High-Court-quashes-planning-permission-extension-for-Apples-abandoned-Irish-datacentre-build)
 - [Prepare for long-term cyber threat from Ukraine war, says NCSC](https://www.computerweekly.com/news/252522328/Prepare-for-long-term-cyber-threat-from-Ukraine-war-says-NCSC)
-- [How IoT and digital twins could help CIOs meet ESG pledges](https://www.computerweekly.com/feature/How-IoT-and-digital-twins-could-help-CIOs-meet-ESG-pledges)
-- [Netherlands’ AMdEX seeks to democratise the internet](https://www.computerweekly.com/news/252522325/Netherlands-AMdEX-seeks-to-democratise-the-internet)
-- [NCSC CEO: Why we should run towards crises to elevate cyber security](https://www.computerweekly.com/news/252522303/NCSC-CEO-Why-we-should-run-towards-crises-to-elevate-cyber-security)
-- [UKtech50 2022: The most influential people in UK technology](https://www.computerweekly.com/news/252522199/UKtech50-2022-The-most-influential-people-in-UK-technology)
-- [How to get the right level of cyber insurance](https://www.computerweekly.com/ezine/Computer-Weekly/How-to-get-the-right-level-of-cyber-insurance)
-- [MPs call for ban on Chinese surveillance camera technology](https://www.computerweekly.com/news/252522313/MPs-call-for-ban-on-Chinese-surveillance-camera-technology)
-- [Government rejects Lords police tech inquiry recommendations](https://www.computerweekly.com/news/252522302/Government-rejects-Lords-police-tech-inquiry-recommendations)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

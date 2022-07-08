@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Bolt lawsuit settlement – ABG now a shareholder](https://techcrunch.com/2022/07/06/fintech-startup-bolt-has-settled-suit-brought-on-by-forever21s-parent-company-and-made-it-a-shareholder/)
-- [American Factories Are Making Stuff Again as CEOs Take Production Out of China](https://www.bloomberg.com/news/articles/2022-07-05/us-factory-boom-heats-up-as-ceos-yank-production-out-of-china)
-- [Things I Learnt from a Senior Software Engineer](https://neilkakkar.com/things-I-learnt-from-a-senior-dev.html)
-- [Hotel giant Marriott confirms yet another data breach](https://techcrunch.com/2022/07/06/marriott-breach-again/)
-- [We Did It, We Lost Access to Tesla Full Self Driving Beta](https://cleantechnica.com/2022/06/30/we-did-it-we-lost-access-to-tesla-full-self-driving-beta/)
-- [SF Airbnb rival WanderJaunt abruptly shuts down, vanishes with barely a trace](https://www.sfgate.com/bayarea/article/airbnb-rival-wanderjaunt-shutters-17288277.php)
-- [NIO Power Day 2022: 500 kW fast chargers coming to China and the EU this year](https://electrek.co/2022/07/06/nio-power-day-2022/)
-- [Non-Tesla Supercharger US pilot launch expected late 2022: White House](https://www.teslarati.com/non-tesla-supercharger-pilot-united-states-launch/)
-- [New cyber security podcast, CISO Experience](https://www.linkedin.com/video/event/urn:li:ugcPost:6950169798441893888/)
-- [Ask HN: Any recommended resources on building B2B partnerships?](https://news.ycombinator.com/item?id=32009493)
+- [The TikTok ‘blackout challenge’ has now allegedly killed seven kids](https://www.theverge.com/2022/7/7/23199058/tiktok-lawsuits-blackout-challenge-children-death)
+- [Ask HN: YC Dad Pro Tips](https://news.ycombinator.com/item?id=32022712)
+- [Structured Programming &lpar;1972&rpar;](https://dl.acm.org/doi/book/10.5555/1243380)
+- [BA.5 Is Spreading Quickly](https://www.self.com/story/ba5-variant-omicron-spread)
+- [Boeing CEO ready to cancel 737 Max 10 unless Congress acts – The Seattle Times](https://www.seattletimes.com/business/boeing-aerospace/boeing-ceo-threatens-to-cancel-737-max-10-unless-congress-acts/)
+- [Man taken into custody after former Japanese PM Abe Shinzo collapses](https://www3.nhk.or.jp/nhkworld/en/news/20220708_19/)
+- [Science is making chocolate taste even better](https://www.bbc.com/news/business-61511456)
+- [Ask HN: How to manage a team when you don’t know the tech](https://news.ycombinator.com/item?id=32022641)
+- [Making My Own Glasses](https://www.eidel.io/2019/04/24/making-my-own-glasses/)
+- [Fortune 100 Companies Paid Next to Nothing–Or Nothing at All–In Taxes in 2021](https://www.americanprogress.org/article/these-19-fortune-100-companies-paid-next-to-nothing-or-nothing-at-all-in-taxes-in-2021/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

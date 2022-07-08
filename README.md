@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Nanoparticle Vaccine Protects Against C19-Causing Variants and Related Viruses](https://www.caltech.edu/about/news/sars-coronavirus-variant-vaccine-bjorkman)
-- [Life Stats](https://neal.fun/life-stats/)
-- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Machine Learning Research Engineers](https://news.ycombinator.com/item?id=32008825)
-- [I analyzed hospital price lists so you didn&#39;t have to](https://www.dolthub.com/blog/2022-07-01-hospitals-compliance/)
-- [Space Force Launches New Intelligence Unit: Congress Voices Concerns over Growth](https://www.military.com/daily-news/2022/07/05/space-force-launches-new-intelligence-unit-congress-voices-concerns-over-growth.html)
-- [Google ML Compiler Inlining Achieves 3-7% Reduction in Size](https://ai.googleblog.com/2022/07/mlgo-machine-learning-framework-for.html)
-- [Alain de Botton on Existential Maturity and What Emotional Intelligence Means](https://www.themarginalian.org/2019/11/25/the-school-of-life-book/)
-- [Large-scale ‘sand battery’ goes online in Finland](https://www.energy-storage.news/worlds-first-large-scale-sand-battery-goes-online-in-finland/)
-- [No Language Left Behind](https://ai.facebook.com/research/no-language-left-behind/)
-- [Show HN: C3 – A C alternative that looks like C](https://news.ycombinator.com/item?id=32005678)
+- [Japan’s Ex-PM Abe shot during speech](https://www.bloomberg.com/news/articles/2022-07-08/japan-s-ex-pm-abe-collapses-in-nara-shots-heard-nhk-says)
+- [bun: fast JavaScript runtime and package manager](https://github.com/Jarred-Sumner/bun)
+- [School’s Out for Summer and Many Teachers Are Calling It Quits](https://www.wsj.com/articles/schools-out-for-summer-and-many-teachers-are-calling-it-quits-11655732689)
+- [Governor Newsom announces California will make its own insulin](https://kion546.com/news/2022/07/07/governor-gavin-newsom-announces-california-will-make-its-own-insulin/)
+- [PyAlgoViz: Python Algorithm Visualizations done in Python running in the browser](http://pyalgoviz.appspot.com/)
+- [Etleap &lpar;YC W13&rpar; Is Hiring Software Engineer – London](https://etleap.com/jobs/#software-engineer)
+- [Walking Venice](https://craigmod.com/ridgeline/144/)
+- [NimSkull: A Hard Fork of Nim](https://github.com/nim-works/nimskull)
+- [Markov Chat Bot Disaster Story](https://gist.github.com/aconbere/1982a5eb17b77817017a3da50914732f)
+- [Element &lpar;Matrix&rpar; launches Chatterbox, end-to-end encrypted embedded chat](https://element.io/blog/element-launches-chatterbox/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

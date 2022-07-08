@@ -429,6 +429,8 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Malicious modules found in NPM library were downloaded thousands of times](https://www.itworldcanada.com/article/malicious-modules-found-in-npm-library-were-downloaded-thousands-of-times/491854)
+- [Hashtag Trending July 7 – Britain investigates Amazon; big tech scoops up Tesla employees; NASA wants to bring Mars samples back to earth](https://www.itworldcanada.com/article/hashtag-trending-july-7-britain-investigates-amazon-big-tech-scoops-up-tesla-employees-nasa-wants-to-bring-mars-samples-back-to-earth/491834)
 - [Rogers and Shaw fail to resolve competition concerns in mediation](https://www.itworldcanada.com/article/rogers-and-shaw-fail-to-resolve-competition-concerns-in-mediation/491822)
 - [NIST names first four quantum-resistant encryption tools](https://www.itworldcanada.com/article/nist-names-first-four-quantum-resistant-encryption-tools/491782)
 - [IT leaders admit having blind spots in attack surface visibility: Report](https://www.itworldcanada.com/article/it-leaders-admit-having-blind-spots-in-attack-surface-visibility-report/491752)
@@ -437,8 +439,6 @@
 - [Hashtag Trending July 6 – Hackers breach Shanghai police database; Tesla delivers fewer cars this quarter; and easier time canceling Amazon Prime](https://www.itworldcanada.com/article/hashtag-trending-july-6-hackers-breach-shanghai-police-database-tesla-delivers-fewer-cars-this-quarter-and-easier-time-canceling-amazon-prime/491769)
 - [Microsoft Canada recognizes Canadian partners with 2022 Impact awards](https://www.itworldcanada.com/article/microsoft-canada-recognizes-canadian-partners-with-2022-impact-awards/491703)
 - [One in four SMBs would leave their MSP over quality issues: Report](https://www.itworldcanada.com/article/one-in-four-smbs-would-leave-their-msp-over-quality-issues-report/491713)
-- [Alberta to intervene in the Shaw/Rogers deal](https://www.itworldcanada.com/article/alberta-to-intervene-in-the-shaw-rogers-deal/491708)
-- [Attackers abusing another threat simulation tool, report warns](https://www.itworldcanada.com/article/attackers-abusing-another-threat-simulation-tool-report-warns/491680)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

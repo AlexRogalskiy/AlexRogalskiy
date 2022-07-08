@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [‘The world is bloody messy’: Jacinda Ardern urges end to ‘black-and-white’ view of global conflict](https://www.theguardian.com/world/2022/jul/07/the-world-is-bloody-messy-jacinda-ardern-urges-end-to-black-and-white-view-of-global-conflict)
-- [‘Get exit done’: UK front pages mix incredulity with PM’s message of defiance](https://www.theguardian.com/politics/2022/jul/07/get-exit-done-uk-front-pages-mix-incredulity-with-pms-message-of-defiance)
-- [Boris Johnson clings on against the odds - podcast](https://www.theguardian.com/news/audio/2022/jul/07/boris-johnson-fights-on-against-the-odds-podcast)
-- [Ex-Cheer star Jerry Harris sentenced to 12 years in prison for child sexual abuse images charges](https://www.theguardian.com/us-news/2022/jul/07/ex-cheer-star-jerry-harris-sentenced-to-12-years-in-prison-for-child-sexual-abuse-images-charges)
-- [Elon Musk fathered twins with one of his executives last year – report](https://www.theguardian.com/technology/2022/jul/06/elon-musk-twins-children-shivon-zilis)
-- [Russia-Ukraine war update: what we know on day 134 of the invasion](https://www.theguardian.com/world/2022/jul/07/russia-ukraine-war-update-what-we-know-on-day-134-of-the-invasion)
-- [Children too anxious to attend school being failed by English councils – report](https://www.theguardian.com/education/2022/jul/07/children-anxiety-schools-alternative-education-ombudsman-report-english-councils)
-- [Three Wimbledon security guards arrested after alleged fight on grounds](https://www.theguardian.com/sport/2022/jul/07/three-wimbledon-security-guards-arrested-after-alleged-fight-on-grounds)
-- [Georgia monument dubbed ‘America’s Stonehenge’ damaged by explosives](https://www.theguardian.com/us-news/2022/jul/06/georgia-monument-guidestones-americas-stonehenge-bombed)
-- [England offer record crowd glimpse of new dawn for women’s football | Jonathan Liew](https://www.theguardian.com/football/blog/2022/jul/06/england-keep-their-heads-amid-pressure-and-pace-of-progress-in-womens-game)
+- [Shinzo Abe, former Japan prime minister, shot during speech – report](https://www.theguardian.com/world/2022/jul/08/shinzo-abe-former-japan-prime-minister-shot-during-speech-reports)
+- [James Caan: some of The Godfather star&#39;s most memorable scenes – video](https://www.theguardian.com/film/video/2022/jul/08/james-caan-some-of-the-godfather-stars-most-memorable-scenes-video)
+- [‘PM’s long goodbye’: what the papers said about Boris Johnson’s sort-of resignation](https://www.theguardian.com/politics/2022/jul/08/leave-means-leave-what-the-papers-said-about-boris-johnsons-sort-of-resignation)
+- [The lies and fall of Boris Johnson | podcast](https://www.theguardian.com/news/audio/2022/jul/08/the-lies-and-fall-of-boris-johnson-podcast)
+- [Vast group of southern fin whales filmed feeding in Antarctica, sparking hope of recovery](https://www.theguardian.com/environment/2022/jul/08/vast-group-of-southern-fin-whales-filmed-feeding-in-antarctica-sparking-hope-of-recovery)
+- [Russia-Ukraine war update: what we know on day 135 of the invasion](https://www.theguardian.com/world/2022/jul/08/russia-ukraine-war-update-what-we-know-on-day-135-of-the-invasion)
+- [UN warns of ‘looming hunger catastrophe’ due to Russian blockade](https://www.theguardian.com/world/2022/jul/07/un-hunger-crisis-ukraine-russia-blockade)
+- [The Seagull review – woodchip-walled Chekhov is hypnotic](https://www.theguardian.com/stage/2022/jul/07/the-seagull-review-woodchip-walled-chekhov-is-hypnotic)
+- [Sacha Baron Cohen defeats Roy Moore’s $95m lawsuit over ‘pedophile detector’](https://www.theguardian.com/culture/2022/jul/07/sacha-baron-cohen-defeats-roy-moore-lawsuit)
+- [Gone but not gone: Boris Johnson quits but clings on to power](https://www.theguardian.com/politics/2022/jul/07/gone-but-not-gone-boris-johnson-quits-but-clings-on-to-power)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

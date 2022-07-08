@@ -414,6 +414,7 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [He need your help!](https://www.reddit.com/r/InformationTechnology/comments/vti6j5/he_need_your_help/)
 - [IT Frustration](https://www.reddit.com/r/InformationTechnology/comments/vsf5ww/it_frustration/)
 - [How do we, as an IT team, keep ourselves in good shape](https://www.reddit.com/r/InformationTechnology/comments/vrzr41/how_do_we_as_an_it_team_keep_ourselves_in_good/)
 - [Need help with DHCP issues!!!](https://www.reddit.com/r/InformationTechnology/comments/vry56d/need_help_with_dhcp_issues/)
@@ -423,7 +424,6 @@
 - [Suggestions](https://www.reddit.com/r/InformationTechnology/comments/vr9jvz/suggestions/)
 - [How long would you advise staying in a position which you hate before making a lateral move?](https://www.reddit.com/r/InformationTechnology/comments/vr6ukn/how_long_would_you_advise_staying_in_a_position/)
 - [Is it possible to go from Nuclear Medicine Technology to an MSIS program?](https://www.reddit.com/r/InformationTechnology/comments/vqy6yz/is_it_possible_to_go_from_nuclear_medicine/)
-- [Network Admin](https://www.reddit.com/r/InformationTechnology/comments/vqrldg/network_admin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

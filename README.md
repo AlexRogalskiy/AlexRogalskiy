@@ -384,6 +384,9 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [How Walmart abstracts its hybrid cloud for developers](https://www.infoworld.com/article/3666468/how-walmart-abstracts-its-hybrid-cloud-for-developers.html#tk.rss_all)
+- [8 new JavaScript features to start using today](https://www.infoworld.com/article/3665748/8-new-javascript-features-to-start-using-today.html#tk.rss_all)
+- [How to migrate ASP.NET Core 5 code to ASP.NET Core 6](https://www.infoworld.com/article/3665659/how-to-migrate-aspnet-core-5-code-to-aspnet-core-6.html#tk.rss_all)
 - [IBM acquires data observability firm Databand.ai](https://www.infoworld.com/article/3665758/ibm-acquires-data-observability-firm-databand-ai.html#tk.rss_all)
 - [Working with Microsoft’s .NET Rules Engine](https://www.infoworld.com/article/3665690/working-with-microsofts-net-rules-engine.html#tk.rss_all)
 - [How to use Rust with Python, and Python with Rust](https://www.infoworld.com/article/3664124/how-to-use-rust-with-python-and-python-with-rust.html#tk.rss_all)
@@ -391,9 +394,6 @@
 - [How to nail your cloud computing job interview](https://www.infoworld.com/article/3665890/how-to-nail-your-cloud-computing-job-interview.html#tk.rss_all)
 - [Lego embraces modularity, metaverse with its software engineering culture](https://www.infoworld.com/article/3665870/lego-embraces-modularity-metaverse-in-its-software-engineering-culture.html#tk.rss_all)
 - [5 tips for writing better API documentation](https://www.infoworld.com/article/3664096/5-tips-for-writing-better-api-documentation.html#tk.rss_all)
-- [What happens when there’s not enough cloud?](https://www.infoworld.com/article/3666048/what-happens-when-theres-not-enough-cloud.html#tk.rss_all)
-- [Identity, trust, and their role in modern applications](https://www.infoworld.com/article/3665655/identity-trust-and-their-role-in-modern-applications.html#tk.rss_all)
-- [Uno Platform advances WebAssembly support](https://www.infoworld.com/article/3665889/uno-platform-advances-webassembly-support.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

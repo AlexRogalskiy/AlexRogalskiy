@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Manchester United signs DXC for digital transformation](https://www.computerweekly.com/news/252522401/Manchester-United-signs-DXC-for-digital-transformation)
-- [60% of tech workers say more needs to be done on diversity](https://www.computerweekly.com/news/252522400/60-of-tech-workers-say-more-needs-to-be-done-on-diversity)
-- [CIO interview: Carl Dawson, CIO, Asda](https://www.computerweekly.com/news/252522349/CIO-interview-Carl-Dawson-CIO-Asda)
-- [UK-based datacentre liquid cooling firm Iceotope Technologies secures £30m funding](https://www.computerweekly.com/news/252522392/UK-based-datacentre-liquid-cooling-firm-Iceotope-Technologies-secures-30m-funding)
-- [Plexal seeks new scaleups for next phase of Cyber Runway](https://www.computerweekly.com/news/252522382/Plexal-seeks-new-scaleups-for-next-phase-of-Cyber-Runway)
-- [ESET: Lazarus APT hit aero, defence sector with fake job ads](https://www.computerweekly.com/news/252522378/ESET-Lazarus-APT-hit-aero-defence-sector-with-fake-job-ads)
-- [Vodafone and Google Cloud collaboration gives rise to AI Booster platform](https://www.computerweekly.com/news/252522379/Vodafone-and-Google-Cloud-collaboration-gives-rise-to-AI-Booster-platform)
-- [Legacy UK customs system stops accepting registration requests](https://www.computerweekly.com/news/252522330/Legacy-UK-customs-system-stops-accepting-registration-requests)
-- [High Court quashes planning permission extension for Apple’s abandoned Irish datacentre build](https://www.computerweekly.com/news/252522336/High-Court-quashes-planning-permission-extension-for-Apples-abandoned-Irish-datacentre-build)
-- [Prepare for long-term cyber threat from Ukraine war, says NCSC](https://www.computerweekly.com/news/252522328/Prepare-for-long-term-cyber-threat-from-Ukraine-war-says-NCSC)
+- [UK government does not yet understand threat of technology to foreign policy](https://www.computerweekly.com/news/252522460/UK-government-does-not-yet-understand-threat-of-technology-to-foreign-policy)
+- [UK-based datacentre cooling firm FEL Group ceases trading](https://www.computerweekly.com/news/252522465/UK-based-datacentre-cooling-firm-FEL-Group-ceases-trading)
+- [MI5, FBI chiefs warn of Chinese cyber espionage threat](https://www.computerweekly.com/news/252522463/MI5-FBI-chiefs-warn-of-Chinese-cyber-espionage-threat)
+- [IBM still breaking new ground at Wimbledon](https://www.computerweekly.com/news/252522454/IBM-still-breaking-new-ground-at-Wimbledon)
+- [UK signs ‘in principle’ data adequacy agreement with South Korea](https://www.computerweekly.com/news/252522458/UK-signs-in-principle-data-adequacy-agreement-with-South-Korea)
+- [The evolution of threat modelling as a DevSecOps practice](https://www.computerweekly.com/opinion/The-evolution-of-threat-modelling-as-a-DevSecOps-practice)
+- [Amid NSO lawsuit, Apple expands spyware protections](https://www.computerweekly.com/news/252522455/Amid-NSO-lawsuit-Apple-expands-spyware-protections)
+- [Deliciously Ella – how the brand adopted D2C during the pandemic](https://www.computerweekly.com/news/252522449/Deliciously-Ella-how-the-brand-adopted-D2C-during-the-pandemic)
+- [Security Think Tank: Cyber insurance – A nice safety blanket, but don’t count on it](https://www.computerweekly.com/opinion/Security-Think-Tank-Cyber-insurance-A-nice-safety-blanket-but-dont-count-on-it)
+- [Latest Marriott data breach not as serious as others](https://www.computerweekly.com/news/252522450/Latest-Marriott-data-breach-not-as-serious-as-others)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

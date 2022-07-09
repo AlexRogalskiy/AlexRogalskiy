@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Apple MDM industry outlook: M&amp;A on the way](https://www.computerworld.com/article/3666731/apple-mdm-industry-outlook-mergers-acquisitions.html#tk.rss_all)
+- [Words count: How the language you use arouses emotions in the people you’re trying to reach](https://www.computerworld.com/article/3666514/words-count-how-the-language-you-use-arouses-emotions-in-the-people-you-re-trying-to-reach.html#tk.rss_all)
+- [IT and the Great Resignation](https://www.computerworld.com/article/3664125/it-and-the-great-resignation.html#tk.rss_all)
+- [UK Competition and Markets Authority ramps up big tech antitrust investigations](https://www.computerworld.com/article/3666829/uk-competition-and-markets-authority-ramps-up-big-tech-antitrust-investigations.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
 - [Apple slaps hard against ‘mercenary’ surveillance-as-a-service industry](https://www.computerworld.com/article/3666688/apple-slaps-hard-against-mercenary-surveillance-as-a-service-industry.html#tk.rss_all)
 - [Deepfakes come to remote job interviews](https://www.computerworld.com/article/3665872/deepfakes-come-to-remote-job-interviews.html#tk.rss_all)
 - [Microsoft backs off facial recognition analysis, but big questions remain](https://www.computerworld.com/article/3665109/microsoft-backs-off-facial-recognition-analysis-but-big-questions-remain.html#tk.rss_all)
 - [Hiring across borders is tough. Global HR startups aim to help](https://www.computerworld.com/article/3664851/global-hr-startups-help-international-hiring.html#tk.rss_all)
-- [The Polish IT market shows resilience despite challenges in H1](https://www.computerworld.com/article/3666055/the-polish-it-market-shows-resilience-despite-challenges-in-h1.html#tk.rss_all)
-- [Noteworthy tech acquisitions 2022](https://www.computerworld.com/article/3646533/noteworthy-tech-acquisitions-2022.html#tk.rss_all)
-- [Accused of ‘unfair’ practices, Apple faces App Store court battle in UK](https://www.computerworld.com/article/3666051/accused-of-unfair-practices-apple-faces-app-store-court-battle-in-uk.html#tk.rss_all)
-- [European Parliament approves sweeping big tech antitrust laws](https://www.computerworld.com/article/3666053/the-european-parliament-approves-sweeping-big-tech-antitrust-laws.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Japan’s Ex-PM Abe shot during speech](https://www.bloomberg.com/news/articles/2022-07-08/japan-s-ex-pm-abe-collapses-in-nara-shots-heard-nhk-says)
-- [bun: fast JavaScript runtime and package manager](https://github.com/Jarred-Sumner/bun)
-- [School’s Out for Summer and Many Teachers Are Calling It Quits](https://www.wsj.com/articles/schools-out-for-summer-and-many-teachers-are-calling-it-quits-11655732689)
-- [Governor Newsom announces California will make its own insulin](https://kion546.com/news/2022/07/07/governor-gavin-newsom-announces-california-will-make-its-own-insulin/)
-- [PyAlgoViz: Python Algorithm Visualizations done in Python running in the browser](http://pyalgoviz.appspot.com/)
-- [Etleap &lpar;YC W13&rpar; Is Hiring Software Engineer – London](https://etleap.com/jobs/#software-engineer)
-- [Walking Venice](https://craigmod.com/ridgeline/144/)
-- [NimSkull: A Hard Fork of Nim](https://github.com/nim-works/nimskull)
-- [Markov Chat Bot Disaster Story](https://gist.github.com/aconbere/1982a5eb17b77817017a3da50914732f)
-- [Element &lpar;Matrix&rpar; launches Chatterbox, end-to-end encrypted embedded chat](https://element.io/blog/element-launches-chatterbox/)
+- [Why BART uses a nonstandard broad gauge](https://www.bart.gov/news/articles/2022/news20220708-2)
+- [Tell HN: HN Moved from M5 to AWS](https://news.ycombinator.com/item?id=32030400)
+- [Arizona makes it illegal for bystanders to record cops at close range](https://arstechnica.com/tech-policy/2022/07/arizona-makes-it-illegal-for-bystanders-to-record-cops-at-close-range/)
+- [Einstein-Bohr debate settled once and for all](https://scottaaronson.blog/?p=6541)
+- [FCC orders carriers to stop delivering auto warranty robocalls](https://www.upi.com/Top_News/US/2022/07/07/FCC-orders-carriers-stop-delivering-auto-warranty-robocalls/6041657245371/)
+- [Trust in news collapses to historic low](https://www.axios.com/2022/07/08/news-republicans-democrats-trust-partisanship)
+- [Show HN: I made a MIDI tool to teach me piano](https://github.com/ZaneH/piano-trainer)
+- [Show HN: Find out where your supplements are made &amp; sourced](https://shop.nootritious.com/)
+- [Switzerland moves ahead with underground autonomous cargo delivery](https://spectrum.ieee.org/cargo-sous-terrain)
+- [Tooth Fairy Index](https://www.deltadental.com/us/en/tooth-fairy/the-original-poll.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

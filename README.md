@@ -369,6 +369,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [June 2022 Global Tech Policy Bulletin: From USB-C Chargers to Supreme Court](https://www.informationweek.com/government/june-2022-tech-policy-bulletin-from-usb-c-chargers-supreme-court)
+- [Graph Databases: What They Are and How to Get Started](https://www.informationweek.com/big-data/graph-databases-what-they-are-and-how-to-get-started)
+- [3 Ways to Avoid Gender Bias From Showing up in Your Products](https://www.informationweek.com/software/3-ways-to-avoid-gender-bias-from-showing-up-in-your-products)
 - [IT Report Card: Customer-Facing Applications](https://www.informationweek.com/software/it-report-card-customer-facing-applications)
 - [5 Things Every Remote Leader Should Do](https://www.informationweek.com/strategic-cio/5-things-every-remote-leader-should-do)
 - [6 Ways Cloud Networking Teams Can Up Their Game](https://www.informationweek.com/team-building-and-staffing/6-ways-cloud-networking-teams-can-up-their-game)
@@ -376,9 +379,6 @@
 - [Creating a Natural, More Collaborative Hybrid Work Environment](https://www.informationweek.com/strategic-cio/creating-a-natural-more-collaborative-hybrid-work-environment)
 - [Collaboration Versus Groupthink: How to Tell the Difference](https://www.informationweek.com/strategic-cio/collaboration-versus-groupthink-how-to-tell-the-difference)
 - [Neurodiversity in Cybersecurity: Broadening Perspectives, Offering Inclusivity](https://www.informationweek.com/strategic-cio/neurodiversity-in-cybersecurity-broadening-perspectives-offering-inclusivity)
-- [IT Pro Pathways for Gen Z: What the Enterprise Can Do to Help](https://www.informationweek.com/strategic-cio/it-pro-pathways-for-gen-z-what-the-enterprise-can-do-to-help)
-- [Creating a Data Literate Culture in Your Organization](https://www.informationweek.com/big-data/creating-a-data-literate-culture-in-your-organization)
-- [How Women in Tech Can Create Their Own Opportunities](https://www.informationweek.com/it-life/how-women-in-tech-can-create-their-own-opportunities)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

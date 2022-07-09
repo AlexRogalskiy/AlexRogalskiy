@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Shinzo Abe, former Japan prime minister, shot during speech – report](https://www.theguardian.com/world/2022/jul/08/shinzo-abe-former-japan-prime-minister-shot-during-speech-reports)
-- [James Caan: some of The Godfather star&#39;s most memorable scenes – video](https://www.theguardian.com/film/video/2022/jul/08/james-caan-some-of-the-godfather-stars-most-memorable-scenes-video)
-- [‘PM’s long goodbye’: what the papers said about Boris Johnson’s sort-of resignation](https://www.theguardian.com/politics/2022/jul/08/leave-means-leave-what-the-papers-said-about-boris-johnsons-sort-of-resignation)
-- [The lies and fall of Boris Johnson | podcast](https://www.theguardian.com/news/audio/2022/jul/08/the-lies-and-fall-of-boris-johnson-podcast)
-- [Vast group of southern fin whales filmed feeding in Antarctica, sparking hope of recovery](https://www.theguardian.com/environment/2022/jul/08/vast-group-of-southern-fin-whales-filmed-feeding-in-antarctica-sparking-hope-of-recovery)
-- [Russia-Ukraine war update: what we know on day 135 of the invasion](https://www.theguardian.com/world/2022/jul/08/russia-ukraine-war-update-what-we-know-on-day-135-of-the-invasion)
-- [UN warns of ‘looming hunger catastrophe’ due to Russian blockade](https://www.theguardian.com/world/2022/jul/07/un-hunger-crisis-ukraine-russia-blockade)
-- [The Seagull review – woodchip-walled Chekhov is hypnotic](https://www.theguardian.com/stage/2022/jul/07/the-seagull-review-woodchip-walled-chekhov-is-hypnotic)
-- [Sacha Baron Cohen defeats Roy Moore’s $95m lawsuit over ‘pedophile detector’](https://www.theguardian.com/culture/2022/jul/07/sacha-baron-cohen-defeats-roy-moore-lawsuit)
-- [Gone but not gone: Boris Johnson quits but clings on to power](https://www.theguardian.com/politics/2022/jul/07/gone-but-not-gone-boris-johnson-quits-but-clings-on-to-power)
+- [Shinzo Abe’s body taken to Tokyo as election campaign resumes in shadow of killing](https://www.theguardian.com/world/2022/jul/09/shinzo-abe-body-tokyo-japan-election-campaign-nara)
+- [Elon Musk withdraws $44bn bid to buy Twitter after weeks of high drama](https://www.theguardian.com/technology/2022/jul/08/elon-musk-buy-twitter-withdraw)
+- [Russia-Ukraine war update: what we know on day 136 of the invasion](https://www.theguardian.com/world/2022/jul/09/russia-ukraine-war-update-what-we-know-on-day-136-of-the-invasion)
+- [The Sopranos’ Paulie ‘Walnuts’ Gualtieri, actor Tony Sirico, dies aged 79](https://www.theguardian.com/tv-and-radio/2022/jul/09/the-sopranos-paulie-walnuts-actor-tony-sirico-dies-aged-79)
+- [Magull and Schüller lead Germany to emphatic opening win over Denmark](https://www.theguardian.com/football/2022/jul/08/germany-denmark-womens-euro-2022-match-report)
+- [England’s Genge fires up ‘gladiatorial’ second-Test showdown with Australia](https://www.theguardian.com/sport/2022/jul/08/england-genge-gladiatorial-second-test-showdown-australia-rugby-union)
+- [Funerals begin for victims of Highland Park shooting](https://www.theguardian.com/us-news/2022/jul/08/highland-park-shooting-victims-funerals)
+- [Man jailed for 41 years for murder of woman at bus stop in East Ham](https://www.theguardian.com/uk-news/2022/jul/08/man-jailed-for-41-years-for-unprovoked-of-mother-of-two-at-bus-stop)
+- [Alexander Berry: holes in the story of a NSW pioneer conceal a dark past of Indigenous exploitation](https://www.theguardian.com/australia-news/2022/jul/09/alexander-berry-holes-in-the-story-of-a-nsw-pioneer-conceal-a-dark-past-of-indigenous-exploitation)
+- [Now diphtheria: is northern NSW incubating another Australian health crisis?](https://www.theguardian.com/australia-news/2022/jul/09/it-is-a-tragedy-the-return-of-diptheria-in-australia)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The TikTok ‘blackout challenge’ has now allegedly killed seven kids](https://www.theverge.com/2022/7/7/23199058/tiktok-lawsuits-blackout-challenge-children-death)
-- [Ask HN: YC Dad Pro Tips](https://news.ycombinator.com/item?id=32022712)
-- [Structured Programming &lpar;1972&rpar;](https://dl.acm.org/doi/book/10.5555/1243380)
-- [BA.5 Is Spreading Quickly](https://www.self.com/story/ba5-variant-omicron-spread)
-- [Boeing CEO ready to cancel 737 Max 10 unless Congress acts – The Seattle Times](https://www.seattletimes.com/business/boeing-aerospace/boeing-ceo-threatens-to-cancel-737-max-10-unless-congress-acts/)
-- [Man taken into custody after former Japanese PM Abe Shinzo collapses](https://www3.nhk.or.jp/nhkworld/en/news/20220708_19/)
-- [Science is making chocolate taste even better](https://www.bbc.com/news/business-61511456)
-- [Ask HN: How to manage a team when you don’t know the tech](https://news.ycombinator.com/item?id=32022641)
-- [Making My Own Glasses](https://www.eidel.io/2019/04/24/making-my-own-glasses/)
-- [Fortune 100 Companies Paid Next to Nothing–Or Nothing at All–In Taxes in 2021](https://www.americanprogress.org/article/these-19-fortune-100-companies-paid-next-to-nothing-or-nothing-at-all-in-taxes-in-2021/)
+- [Legend – A Dragon Ball Tale [video]](https://www.youtube.com/watch?v=1JKLM45aIik)
+- [Why BART uses a nonstandard broad gauge](https://www.bart.gov/news/articles/2022/news20220708-2)
+- [Columbia becomes “unranked”, losing its No. 2 spot in the U.S. News rankings](https://www.nytimes.com/2022/07/08/us/us-news-rankings-columbia.html)
+- [Bloater](https://www.npmjs.com/package/bloater)
+- [“I haven&#39;t failed! I’ve discovered a thousand ways that won’t work!” – Edison](https://quoteinvestigator.com/2012/07/31/edison-lot-results/)
+- [Perfect Dark – the Challenge 7 bug](https://github.com/n64decomp/perfect_dark/blob/master/docs/challenge7bug.md)
+- [Flâneries](https://cs.uwaterloo.ca/~plragde/flaneries/)
+- [A Review of the Ferguson Imperial Model of Covid-19 Infection &lpar;2020&rpar; [pdf]](https://jiggerwit.files.wordpress.com/2020/11/imperial-review-header.pdf)
+- [Wolvic 1.0 – the next stage in XR browsing](https://www.igalia.com/2022/07/08/Wolvic-1.0.html)
+- [Wolvic XR browser](https://wolvic.com/en/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

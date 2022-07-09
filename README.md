@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Cyber Security Today, Week in Review for Friday July 8, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-july-8-2022/491878)
+- [Rogers network down across Canada](https://www.itworldcanada.com/article/rogers-network-down-across-canada/491911)
+- [Cyber Security Today, July 8, 2022 – IT provider recovering from a cyber attack, more action from Karakurt and Chinese attackers and new Linux malware](https://www.itworldcanada.com/article/cyber-security-today-july-8-2022-it-provider-recovering-from-a-cyber-attack-more-action-from-karakurt-and-chinese-attackers-and-new-linux-malware/491898)
+- [Hashtag Trending July 8 – Reddit NFT avatars; EV hesitancy; Lockdown Mode for iPhones](https://www.itworldcanada.com/article/hashtag-trending-july-8-reddit-nft-avatars-ev-hesitancy-lockdown-mode-for-iphones/491901)
 - [Malicious modules found in NPM library were downloaded thousands of times](https://www.itworldcanada.com/article/malicious-modules-found-in-npm-library-were-downloaded-thousands-of-times/491854)
 - [Hashtag Trending July 7 – Britain investigates Amazon; big tech scoops up Tesla employees; NASA wants to bring Mars samples back to earth](https://www.itworldcanada.com/article/hashtag-trending-july-7-britain-investigates-amazon-big-tech-scoops-up-tesla-employees-nasa-wants-to-bring-mars-samples-back-to-earth/491834)
 - [Rogers and Shaw fail to resolve competition concerns in mediation](https://www.itworldcanada.com/article/rogers-and-shaw-fail-to-resolve-competition-concerns-in-mediation/491822)
 - [NIST names first four quantum-resistant encryption tools](https://www.itworldcanada.com/article/nist-names-first-four-quantum-resistant-encryption-tools/491782)
 - [IT leaders admit having blind spots in attack surface visibility: Report](https://www.itworldcanada.com/article/it-leaders-admit-having-blind-spots-in-attack-surface-visibility-report/491752)
 - [No confirmation yet on claim that data on 1 billion Chinese are in stolen police databases](https://www.itworldcanada.com/article/no-confirmation-yet-on-claim-that-data-on-1-billion-chinese-are-in-stolen-police-databases/491761)
-- [Cyber Security Today, July 6, 2022 – A phishing test failure, the AstraLocker ransomware developer quits and a Wi-Fi warning to those sitting in airports](https://www.itworldcanada.com/article/cyber-security-today-july-6-2022-a-phishing-test-failure-the-astralocker-ransomware-developer-quits-and-a-wi-fi-warning-to-those-sitting-in-airports/491736)
-- [Hashtag Trending July 6 – Hackers breach Shanghai police database; Tesla delivers fewer cars this quarter; and easier time canceling Amazon Prime](https://www.itworldcanada.com/article/hashtag-trending-july-6-hackers-breach-shanghai-police-database-tesla-delivers-fewer-cars-this-quarter-and-easier-time-canceling-amazon-prime/491769)
-- [Microsoft Canada recognizes Canadian partners with 2022 Impact awards](https://www.itworldcanada.com/article/microsoft-canada-recognizes-canadian-partners-with-2022-impact-awards/491703)
-- [One in four SMBs would leave their MSP over quality issues: Report](https://www.itworldcanada.com/article/one-in-four-smbs-would-leave-their-msp-over-quality-issues-report/491713)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

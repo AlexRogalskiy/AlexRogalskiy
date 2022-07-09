@@ -384,6 +384,8 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [What happens when cloud spend surpasses traditional systems](https://www.infoworld.com/article/3666730/what-happens-when-cloud-spend-surpasses-traditional-systems.html#tk.rss_all)
+- [What is Visual Studio Code? Microsoft’s extensible code editor](https://www.infoworld.com/article/3666488/what-is-visual-studio-code-microsofts-extensible-code-editor.html#tk.rss_all)
 - [How Walmart abstracts its hybrid cloud for developers](https://www.infoworld.com/article/3666468/how-walmart-abstracts-its-hybrid-cloud-for-developers.html#tk.rss_all)
 - [8 new JavaScript features to start using today](https://www.infoworld.com/article/3665748/8-new-javascript-features-to-start-using-today.html#tk.rss_all)
 - [How to migrate ASP.NET Core 5 code to ASP.NET Core 6](https://www.infoworld.com/article/3665659/how-to-migrate-aspnet-core-5-code-to-aspnet-core-6.html#tk.rss_all)
@@ -392,8 +394,6 @@
 - [How to use Rust with Python, and Python with Rust](https://www.infoworld.com/article/3664124/how-to-use-rust-with-python-and-python-with-rust.html#tk.rss_all)
 - [India opens up its digital payments systems and other key tech](https://www.infoworld.com/article/3665693/india-opens-up-its-digital-payments-systems-and-other-key-tech.html#tk.rss_all)
 - [How to nail your cloud computing job interview](https://www.infoworld.com/article/3665890/how-to-nail-your-cloud-computing-job-interview.html#tk.rss_all)
-- [Lego embraces modularity, metaverse with its software engineering culture](https://www.infoworld.com/article/3665870/lego-embraces-modularity-metaverse-in-its-software-engineering-culture.html#tk.rss_all)
-- [5 tips for writing better API documentation](https://www.infoworld.com/article/3664096/5-tips-for-writing-better-api-documentation.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

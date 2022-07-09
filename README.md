@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [The Future Of IT](https://www.reddit.com/r/InformationTechnology/comments/vurake/the_future_of_it/)
+- [Ata analysis](https://www.reddit.com/r/InformationTechnology/comments/vuofb7/ata_analysis/)
+- [Question about IT](https://www.reddit.com/r/InformationTechnology/comments/vuk88f/question_about_it/)
+- [Is it really important to know programming and scripting skills to be in the IT tech support field?](https://www.reddit.com/r/InformationTechnology/comments/vu1ilx/is_it_really_important_to_know_programming_and/)
 - [He need your help!](https://www.reddit.com/r/InformationTechnology/comments/vti6j5/he_need_your_help/)
 - [IT Frustration](https://www.reddit.com/r/InformationTechnology/comments/vsf5ww/it_frustration/)
 - [How do we, as an IT team, keep ourselves in good shape](https://www.reddit.com/r/InformationTechnology/comments/vrzr41/how_do_we_as_an_it_team_keep_ourselves_in_good/)
 - [Need help with DHCP issues!!!](https://www.reddit.com/r/InformationTechnology/comments/vry56d/need_help_with_dhcp_issues/)
 - [Where Can I get my IC3 certification](https://www.reddit.com/r/InformationTechnology/comments/vrpvkj/where_can_i_get_my_ic3_certification/)
 - [Do you ever get the feeling that things &quot;break&quot; on purpose?](https://www.reddit.com/r/InformationTechnology/comments/vrnb1u/do_you_ever_get_the_feeling_that_things_break_on/)
-- [Am I ahead of the game or in over my head starting in this field?](https://www.reddit.com/r/InformationTechnology/comments/vrcrjc/am_i_ahead_of_the_game_or_in_over_my_head/)
-- [Suggestions](https://www.reddit.com/r/InformationTechnology/comments/vr9jvz/suggestions/)
-- [How long would you advise staying in a position which you hate before making a lateral move?](https://www.reddit.com/r/InformationTechnology/comments/vr6ukn/how_long_would_you_advise_staying_in_a_position/)
-- [Is it possible to go from Nuclear Medicine Technology to an MSIS program?](https://www.reddit.com/r/InformationTechnology/comments/vqy6yz/is_it_possible_to_go_from_nuclear_medicine/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

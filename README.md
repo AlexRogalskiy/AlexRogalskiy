@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Pandemic turns e-commerce doubters into believers](https://www.computerweekly.com/feature/Pandemic-turns-e-commerce-doubters-into-believers)
+- [Ofcom publishes Online Safety Roadmap](https://www.computerweekly.com/news/252522519/Ofcom-publishes-Online-Safety-Roadmap)
+- [Stop telling clients to pay ransomware gangs, solicitors told](https://www.computerweekly.com/news/252522513/Stop-telling-clients-to-pay-ransomware-gangs-solicitors-told)
+- [Accountability in algorithmic injustice](https://www.computerweekly.com/feature/Accountability-in-algorithmic-injustice)
+- [Sweden and GDPR – four years on](https://www.computerweekly.com/news/252522510/Sweden-and-GDPR-four-years-on)
+- [Microsoft appears to reverse VBA macro-blocking](https://www.computerweekly.com/news/252522508/Microsoft-appears-to-reverse-VBA-macro-blocking)
+- [Microsoft to roll out grid-interactive UPS tech to its Dublin datacentre](https://www.computerweekly.com/news/252522499/Microsoft-to-roll-out-grid-interactive-UPS-tech-to-its-Dublin-datacentre)
+- [Lots to consider when buying cyber insurance, so do your homework](https://www.computerweekly.com/opinion/Lots-to-consider-when-buying-cyber-insurance-so-do-your-homework)
 - [UK government does not yet understand threat of technology to foreign policy](https://www.computerweekly.com/news/252522460/UK-government-does-not-yet-understand-threat-of-technology-to-foreign-policy)
 - [UK-based datacentre cooling firm FEL Group ceases trading](https://www.computerweekly.com/news/252522465/UK-based-datacentre-cooling-firm-FEL-Group-ceases-trading)
-- [MI5, FBI chiefs warn of Chinese cyber espionage threat](https://www.computerweekly.com/news/252522463/MI5-FBI-chiefs-warn-of-Chinese-cyber-espionage-threat)
-- [IBM still breaking new ground at Wimbledon](https://www.computerweekly.com/news/252522454/IBM-still-breaking-new-ground-at-Wimbledon)
-- [UK signs ‘in principle’ data adequacy agreement with South Korea](https://www.computerweekly.com/news/252522458/UK-signs-in-principle-data-adequacy-agreement-with-South-Korea)
-- [The evolution of threat modelling as a DevSecOps practice](https://www.computerweekly.com/opinion/The-evolution-of-threat-modelling-as-a-DevSecOps-practice)
-- [Amid NSO lawsuit, Apple expands spyware protections](https://www.computerweekly.com/news/252522455/Amid-NSO-lawsuit-Apple-expands-spyware-protections)
-- [Deliciously Ella – how the brand adopted D2C during the pandemic](https://www.computerweekly.com/news/252522449/Deliciously-Ella-how-the-brand-adopted-D2C-during-the-pandemic)
-- [Security Think Tank: Cyber insurance – A nice safety blanket, but don’t count on it](https://www.computerweekly.com/opinion/Security-Think-Tank-Cyber-insurance-A-nice-safety-blanket-but-dont-count-on-it)
-- [Latest Marriott data breach not as serious as others](https://www.computerweekly.com/news/252522450/Latest-Marriott-data-breach-not-as-serious-as-others)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

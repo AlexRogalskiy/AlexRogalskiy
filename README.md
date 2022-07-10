@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Legend – A Dragon Ball Tale [video]](https://www.youtube.com/watch?v=1JKLM45aIik)
-- [Why BART uses a nonstandard broad gauge](https://www.bart.gov/news/articles/2022/news20220708-2)
-- [Columbia becomes “unranked”, losing its No. 2 spot in the U.S. News rankings](https://www.nytimes.com/2022/07/08/us/us-news-rankings-columbia.html)
-- [Bloater](https://www.npmjs.com/package/bloater)
-- [“I haven&#39;t failed! I’ve discovered a thousand ways that won’t work!” – Edison](https://quoteinvestigator.com/2012/07/31/edison-lot-results/)
-- [Perfect Dark – the Challenge 7 bug](https://github.com/n64decomp/perfect_dark/blob/master/docs/challenge7bug.md)
-- [Flâneries](https://cs.uwaterloo.ca/~plragde/flaneries/)
-- [A Review of the Ferguson Imperial Model of Covid-19 Infection &lpar;2020&rpar; [pdf]](https://jiggerwit.files.wordpress.com/2020/11/imperial-review-header.pdf)
-- [Wolvic 1.0 – the next stage in XR browsing](https://www.igalia.com/2022/07/08/Wolvic-1.0.html)
-- [Wolvic XR browser](https://wolvic.com/en/)
+- [I tend to avoid reading social news comments](https://rubenerd.com/why-i-tend-to-avoid-reading-social-news-comments-now/)
+- [Ask HN: Do You Write Stories?](https://news.ycombinator.com/item?id=32041497)
+- [Redfin seeing San Francisco Bay Area housing market slowing fastest in the U.S.](https://www.marketwatch.com/story/redfin-seeing-san-francisco-bay-area-housing-market-slowing-fastest-in-the-us-2022-07-08)
+- [Mastering the Game of Stratego with Model-Free Multiagent Reinforcement Learning](https://arxiv.org/abs/2206.15378)
+- [History of the entire world, I guess](https://www.youtube.com/watch?v=xuCn8ux2gbs)
+- [Ask HN: Whatever Happened to Frvade.com?](https://news.ycombinator.com/item?id=32041427)
+- [So You&#39;ve Decided to Bungle Your Company&#39;s Flexible Work Plan](https://annehelen.substack.com/p/so-youve-decided-to-bungle-your-companys)
+- [How to find, read and organize papers](https://www.nature.com/articles/d41586-022-01878-7)
+- [ARK’s Expected Value For Zoom In 2026: $1,500 Per Share](https://github.com/ARKInvest/ARK-Invest-Zoom-Valuation-Model)
+- [Was the Paycheck Protection Program Effective?](https://www.stlouisfed.org/publications/regional-economist/2022/jul/was-paycheck-protection-program-effective)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

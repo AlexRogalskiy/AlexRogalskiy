@@ -414,6 +414,7 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [So many questions, no experience in IT](https://www.reddit.com/r/InformationTechnology/comments/vv2yn9/so_many_questions_no_experience_in_it/)
 - [The Future Of IT](https://www.reddit.com/r/InformationTechnology/comments/vurake/the_future_of_it/)
 - [Ata analysis](https://www.reddit.com/r/InformationTechnology/comments/vuofb7/ata_analysis/)
 - [Question about IT](https://www.reddit.com/r/InformationTechnology/comments/vuk88f/question_about_it/)
@@ -423,7 +424,6 @@
 - [How do we, as an IT team, keep ourselves in good shape](https://www.reddit.com/r/InformationTechnology/comments/vrzr41/how_do_we_as_an_it_team_keep_ourselves_in_good/)
 - [Need help with DHCP issues!!!](https://www.reddit.com/r/InformationTechnology/comments/vry56d/need_help_with_dhcp_issues/)
 - [Where Can I get my IC3 certification](https://www.reddit.com/r/InformationTechnology/comments/vrpvkj/where_can_i_get_my_ic3_certification/)
-- [Do you ever get the feeling that things &quot;break&quot; on purpose?](https://www.reddit.com/r/InformationTechnology/comments/vrnb1u/do_you_ever_get_the_feeling_that_things_break_on/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

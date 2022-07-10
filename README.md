@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Why BART uses a nonstandard broad gauge](https://www.bart.gov/news/articles/2022/news20220708-2)
-- [Tell HN: HN Moved from M5 to AWS](https://news.ycombinator.com/item?id=32030400)
-- [Arizona makes it illegal for bystanders to record cops at close range](https://arstechnica.com/tech-policy/2022/07/arizona-makes-it-illegal-for-bystanders-to-record-cops-at-close-range/)
-- [Einstein-Bohr debate settled once and for all](https://scottaaronson.blog/?p=6541)
-- [FCC orders carriers to stop delivering auto warranty robocalls](https://www.upi.com/Top_News/US/2022/07/07/FCC-orders-carriers-stop-delivering-auto-warranty-robocalls/6041657245371/)
-- [Trust in news collapses to historic low](https://www.axios.com/2022/07/08/news-republicans-democrats-trust-partisanship)
-- [Show HN: I made a MIDI tool to teach me piano](https://github.com/ZaneH/piano-trainer)
-- [Show HN: Find out where your supplements are made &amp; sourced](https://shop.nootritious.com/)
-- [Switzerland moves ahead with underground autonomous cargo delivery](https://spectrum.ieee.org/cargo-sous-terrain)
-- [Tooth Fairy Index](https://www.deltadental.com/us/en/tooth-fairy/the-original-poll.html)
+- [Rogers Canada, please fix the damn internet in Canada](https://news.ycombinator.com/item?id=32041238)
+- [Protect your data from ransomware with S3 Object Lock](https://blog.symops.com/2022/07/07/prevent-ransomware-s3-object-lock/)
+- [Why do so many brands change their logos and look like everyone else?](https://velvetshark.com/articles/why-do-brands-change-their-logos-and-look-like-everyone-else)
+- [Help me identify possible tracking device found in my car](https://gist.github.com/jwbee/90e32362fd24b1a233b882ffa7950616)
+- [Ivy &lpar;YC W23&rpar; is hiring a research engineer to help unify ML](https://www.ycombinator.com/companies/ivy/jobs)
+- [Kate Bush’s “Running Up That Hill” synth sounds](https://reverbmachine.com/blog/kate-bush-running-up-that-hill-synth-sounds/)
+- [Show HN: Copy React code from any site](https://sample-code.aspect.app)
+- [Congratulations: We now have opinions on your open source contributions](https://lucumr.pocoo.org/2022/7/9/congratulations/)
+- [Clipboard integration between tmux, nvim, zsh, x11, across SSH sessions](https://blog.landofcrispy.com/index.php/2021/01/06/clipboard-integration-between-tmux-nvim-zsh-x11-across-ssh-sessions/)
+- [2XL – ‘70s toy that faked AI with an 8-track [video]](https://www.youtube.com/watch?v=amuRIydCoJk)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

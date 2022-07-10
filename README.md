@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Shinzo Abe’s body taken to Tokyo as election campaign resumes in shadow of killing](https://www.theguardian.com/world/2022/jul/09/shinzo-abe-body-tokyo-japan-election-campaign-nara)
-- [Elon Musk withdraws $44bn bid to buy Twitter after weeks of high drama](https://www.theguardian.com/technology/2022/jul/08/elon-musk-buy-twitter-withdraw)
-- [Russia-Ukraine war update: what we know on day 136 of the invasion](https://www.theguardian.com/world/2022/jul/09/russia-ukraine-war-update-what-we-know-on-day-136-of-the-invasion)
-- [The Sopranos’ Paulie ‘Walnuts’ Gualtieri, actor Tony Sirico, dies aged 79](https://www.theguardian.com/tv-and-radio/2022/jul/09/the-sopranos-paulie-walnuts-actor-tony-sirico-dies-aged-79)
-- [Magull and Schüller lead Germany to emphatic opening win over Denmark](https://www.theguardian.com/football/2022/jul/08/germany-denmark-womens-euro-2022-match-report)
-- [England’s Genge fires up ‘gladiatorial’ second-Test showdown with Australia](https://www.theguardian.com/sport/2022/jul/08/england-genge-gladiatorial-second-test-showdown-australia-rugby-union)
-- [Funerals begin for victims of Highland Park shooting](https://www.theguardian.com/us-news/2022/jul/08/highland-park-shooting-victims-funerals)
-- [Man jailed for 41 years for murder of woman at bus stop in East Ham](https://www.theguardian.com/uk-news/2022/jul/08/man-jailed-for-41-years-for-unprovoked-of-mother-of-two-at-bus-stop)
-- [Alexander Berry: holes in the story of a NSW pioneer conceal a dark past of Indigenous exploitation](https://www.theguardian.com/australia-news/2022/jul/09/alexander-berry-holes-in-the-story-of-a-nsw-pioneer-conceal-a-dark-past-of-indigenous-exploitation)
-- [Now diphtheria: is northern NSW incubating another Australian health crisis?](https://www.theguardian.com/australia-news/2022/jul/09/it-is-a-tragedy-the-return-of-diptheria-in-australia)
+- [Canada exempts Russian gas turbine from sanctions amid Europe energy crisis](https://www.theguardian.com/world/2022/jul/10/canada-exempts-russian-gas-turbine-from-sanctions-amid-europe-energy-crisis)
+- [Russia-Ukraine war update: what we know on day 137 of the invasion](https://www.theguardian.com/world/2022/jul/10/russia-ukraine-war-update-what-we-know-on-day-137-of-the-invasion)
+- [Tory turmoil keeps Bank of England in the dark on tackling crisis](https://www.theguardian.com/business/2022/jul/10/tory-turmoil-keeps-bank-of-england-in-the-dark-on-tackling-crisis)
+- [TV tonight: Paul Hollywood gobbles insects and bashes piñatas in Mexico](https://www.theguardian.com/tv-and-radio/2022/jul/10/tv-tonight-paul-hollywood-eats-mexico-channel-4)
+- [Summer of fun: summer wardrobe heroes – in pictures](https://www.theguardian.com/fashion/gallery/2022/jul/09/summer-of-fun-summer-wardrobe-heroes-in-pictures)
+- [We Love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2022/jul/09/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [The edit: Men’s polo shirts – in pictures](https://www.theguardian.com/fashion/gallery/2022/jul/09/the-edit-mens-polo-shirts-in-pictures)
+- [Labour calls for investigation into Boris Johnson’s private meeting with ex-KGB agent Alexander Lebedev](https://www.theguardian.com/politics/2022/jul/09/labour-investigation-boris-johnson-private-meeting-ex-kgb-agent-alexander-lebedev)
+- [England’s Jill Scott making most of home Euros after long road to the top](https://www.theguardian.com/football/2022/jul/09/englands-jill-scott-making-most-of-home-euros-after-long-road-to-the-top)
+- [Impressive Scotland level series with comfortable win in Argentina](https://www.theguardian.com/sport/2022/jul/09/argentina-scotland-second-test-rugby-union-match-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

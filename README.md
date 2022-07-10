@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Rogers CEO admits outage caused by maintenance operation](https://www.itworldcanada.com/article/rogers-ceo-admits-outage-caused-by-maintenance-operation/492031)
+- [Worried about your firm’s internet and telecom resiliency? Ask these questions](https://www.itworldcanada.com/article/worried-about-your-firms-internet-and-telecom-resiliency-ask-these-questions/492009)
+- [Money talks when it comes to attracting, retaining IT talent: Gartner](https://www.itworldcanada.com/article/money-talks-when-it-comes-to-attracting-retaining-it-talent-gartner/491959)
+- [This week in ransomware – Friday July 8, 2022](https://www.itworldcanada.com/article/this-week-in-ransomware-friday-july-8-2022/491949)
+- [Rogers issues apology after mass outage](https://www.itworldcanada.com/article/rogers-issues-apology-after-mass-outage/492002)
+- [Human-centric design and the future of work.  Interview with Dr. Shane Saunderson – Hashtag Trending Weekend Edition](https://www.itworldcanada.com/article/human-centric-design-and-the-future-of-work-interview-with-dr-shane-saunderson-hashtag-trending-weekend-edition/491991)
 - [Cyber Security Today, Week in Review for Friday July 8, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-july-8-2022/491878)
-- [Rogers network down across Canada](https://www.itworldcanada.com/article/rogers-network-down-across-canada/491911)
+- [Update: Rogers network down across Canada](https://www.itworldcanada.com/article/rogers-network-down-across-canada/491911)
 - [Cyber Security Today, July 8, 2022 – IT provider recovering from a cyber attack, more action from Karakurt and Chinese attackers and new Linux malware](https://www.itworldcanada.com/article/cyber-security-today-july-8-2022-it-provider-recovering-from-a-cyber-attack-more-action-from-karakurt-and-chinese-attackers-and-new-linux-malware/491898)
 - [Hashtag Trending July 8 – Reddit NFT avatars; EV hesitancy; Lockdown Mode for iPhones](https://www.itworldcanada.com/article/hashtag-trending-july-8-reddit-nft-avatars-ev-hesitancy-lockdown-mode-for-iphones/491901)
-- [Malicious modules found in NPM library were downloaded thousands of times](https://www.itworldcanada.com/article/malicious-modules-found-in-npm-library-were-downloaded-thousands-of-times/491854)
-- [Hashtag Trending July 7 – Britain investigates Amazon; big tech scoops up Tesla employees; NASA wants to bring Mars samples back to earth](https://www.itworldcanada.com/article/hashtag-trending-july-7-britain-investigates-amazon-big-tech-scoops-up-tesla-employees-nasa-wants-to-bring-mars-samples-back-to-earth/491834)
-- [Rogers and Shaw fail to resolve competition concerns in mediation](https://www.itworldcanada.com/article/rogers-and-shaw-fail-to-resolve-competition-concerns-in-mediation/491822)
-- [NIST names first four quantum-resistant encryption tools](https://www.itworldcanada.com/article/nist-names-first-four-quantum-resistant-encryption-tools/491782)
-- [IT leaders admit having blind spots in attack surface visibility: Report](https://www.itworldcanada.com/article/it-leaders-admit-having-blind-spots-in-attack-surface-visibility-report/491752)
-- [No confirmation yet on claim that data on 1 billion Chinese are in stolen police databases](https://www.itworldcanada.com/article/no-confirmation-yet-on-claim-that-data-on-1-billion-chinese-are-in-stolen-police-databases/491761)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

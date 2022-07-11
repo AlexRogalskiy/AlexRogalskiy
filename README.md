@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Canada exempts Russian gas turbine from sanctions amid Europe energy crisis](https://www.theguardian.com/world/2022/jul/10/canada-exempts-russian-gas-turbine-from-sanctions-amid-europe-energy-crisis)
-- [Russia-Ukraine war update: what we know on day 137 of the invasion](https://www.theguardian.com/world/2022/jul/10/russia-ukraine-war-update-what-we-know-on-day-137-of-the-invasion)
-- [Tory turmoil keeps Bank of England in the dark on tackling crisis](https://www.theguardian.com/business/2022/jul/10/tory-turmoil-keeps-bank-of-england-in-the-dark-on-tackling-crisis)
-- [TV tonight: Paul Hollywood gobbles insects and bashes piñatas in Mexico](https://www.theguardian.com/tv-and-radio/2022/jul/10/tv-tonight-paul-hollywood-eats-mexico-channel-4)
-- [Summer of fun: summer wardrobe heroes – in pictures](https://www.theguardian.com/fashion/gallery/2022/jul/09/summer-of-fun-summer-wardrobe-heroes-in-pictures)
-- [We Love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2022/jul/09/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [The edit: Men’s polo shirts – in pictures](https://www.theguardian.com/fashion/gallery/2022/jul/09/the-edit-mens-polo-shirts-in-pictures)
-- [Labour calls for investigation into Boris Johnson’s private meeting with ex-KGB agent Alexander Lebedev](https://www.theguardian.com/politics/2022/jul/09/labour-investigation-boris-johnson-private-meeting-ex-kgb-agent-alexander-lebedev)
-- [England’s Jill Scott making most of home Euros after long road to the top](https://www.theguardian.com/football/2022/jul/09/englands-jill-scott-making-most-of-home-euros-after-long-road-to-the-top)
-- [Impressive Scotland level series with comfortable win in Argentina](https://www.theguardian.com/sport/2022/jul/09/argentina-scotland-second-test-rugby-union-match-report)
+- [The Uber files: the unicorn &lpar;part 1&rpar;](https://www.theguardian.com/news/audio/2022/jul/11/the-uber-files-the-unicorn-part-1)
+- [British tourists survive avalanche in Tian Shan mountains of Kyrgyzstan](https://www.theguardian.com/world/2022/jul/11/british-tourists-survive-avalanche-in-tian-shan-mountains-of-kyrgyzstan)
+- [Russia-Ukraine war update: what we know on day 138 of the invasion](https://www.theguardian.com/world/2022/jul/11/russia-ukraine-war-update-what-we-know-on-day-138-of-the-invasion)
+- [South Africa bar shootings: four killed in KwaZulu-Natal on same night as 15 die in Soweto](https://www.theguardian.com/world/2022/jul/11/south-africa-bar-shootings-four-killed-in-kwazulu-natal-on-same-night-as-15-die-in-soweto)
+- [People with depression ‘stagnating’ in UK healthcare system](https://www.theguardian.com/society/2022/jul/11/people-with-depression-stagnating-in-uk-healthcare-system)
+- [One in 10 students turn to food banks in cost of learning crisis](https://www.theguardian.com/society/2022/jul/11/students-food-banks-cost-of-learning-crisis)
+- [Adding salt to food at table can cut years off your life, study finds](https://www.theguardian.com/society/2022/jul/11/adding-salt-table-food-linked-earlier-death-study)
+- [‘Nole! Nole!’: Centre Court takes first steps towards embracing Djokovic | Sean Ingle](https://www.theguardian.com/sport/2022/jul/10/centre-court-wimbledon-tentative-first-steps-embracing-novak-djokovic)
+- [US defence firm ends talks to buy NSO Group’s surveillance technology](https://www.theguardian.com/us-news/2022/jul/10/us-defence-firm-ends-talks-to-buy-nso-groups-surveillance-technology)
+- [Aboriginal flag to permanently replace NSW flag on Sydney Harbour Bridge](https://www.theguardian.com/australia-news/2022/jul/11/aboriginal-flag-to-permanently-replace-nsw-flag-on-sydney-harbour-bridge)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

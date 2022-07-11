@@ -414,6 +414,9 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [TV Show Hacking Question](https://www.reddit.com/r/InformationTechnology/comments/vw0btq/tv_show_hacking_question/)
+- [Worth going back for MIS degree for two semesters &lpar;4-5 class total&rpar; if I want to transition into development?](https://www.reddit.com/r/InformationTechnology/comments/vw064x/worth_going_back_for_mis_degree_for_two_semesters/)
+- [New and very curious about learning/working in IT in Australia](https://www.reddit.com/r/InformationTechnology/comments/vvl78f/new_and_very_curious_about_learningworking_in_it/)
 - [So many questions, no experience in IT](https://www.reddit.com/r/InformationTechnology/comments/vv2yn9/so_many_questions_no_experience_in_it/)
 - [The Future Of IT](https://www.reddit.com/r/InformationTechnology/comments/vurake/the_future_of_it/)
 - [Ata analysis](https://www.reddit.com/r/InformationTechnology/comments/vuofb7/ata_analysis/)
@@ -421,9 +424,6 @@
 - [Is it really important to know programming and scripting skills to be in the IT tech support field?](https://www.reddit.com/r/InformationTechnology/comments/vu1ilx/is_it_really_important_to_know_programming_and/)
 - [He need your help!](https://www.reddit.com/r/InformationTechnology/comments/vti6j5/he_need_your_help/)
 - [IT Frustration](https://www.reddit.com/r/InformationTechnology/comments/vsf5ww/it_frustration/)
-- [How do we, as an IT team, keep ourselves in good shape](https://www.reddit.com/r/InformationTechnology/comments/vrzr41/how_do_we_as_an_it_team_keep_ourselves_in_good/)
-- [Need help with DHCP issues!!!](https://www.reddit.com/r/InformationTechnology/comments/vry56d/need_help_with_dhcp_issues/)
-- [Where Can I get my IC3 certification](https://www.reddit.com/r/InformationTechnology/comments/vrpvkj/where_can_i_get_my_ic3_certification/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

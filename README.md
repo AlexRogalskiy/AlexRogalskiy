@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Rogers Canada, please fix the damn internet in Canada](https://news.ycombinator.com/item?id=32041238)
-- [Protect your data from ransomware with S3 Object Lock](https://blog.symops.com/2022/07/07/prevent-ransomware-s3-object-lock/)
-- [Why do so many brands change their logos and look like everyone else?](https://velvetshark.com/articles/why-do-brands-change-their-logos-and-look-like-everyone-else)
-- [Help me identify possible tracking device found in my car](https://gist.github.com/jwbee/90e32362fd24b1a233b882ffa7950616)
-- [Ivy &lpar;YC W23&rpar; is hiring a research engineer to help unify ML](https://www.ycombinator.com/companies/ivy/jobs)
-- [Kate Bush’s “Running Up That Hill” synth sounds](https://reverbmachine.com/blog/kate-bush-running-up-that-hill-synth-sounds/)
-- [Show HN: Copy React code from any site](https://sample-code.aspect.app)
-- [Congratulations: We now have opinions on your open source contributions](https://lucumr.pocoo.org/2022/7/9/congratulations/)
-- [Clipboard integration between tmux, nvim, zsh, x11, across SSH sessions](https://blog.landofcrispy.com/index.php/2021/01/06/clipboard-integration-between-tmux-nvim-zsh-x11-across-ssh-sessions/)
-- [2XL – ‘70s toy that faked AI with an 8-track [video]](https://www.youtube.com/watch?v=amuRIydCoJk)
+- [Medicare Could Have Saved $3.6B on Generic Drugs](https://www.drugs.com/news/medicare-could-have-saved-3-6-billion-2020-106106.html)
+- [Ask HN: Tips on Trying to Be Serious?](https://news.ycombinator.com/item?id=32050963)
+- [Running an Open Source Home Area Network](https://xn--gckvb8fzb.com/running-an-open-source-home-area-network/)
+- [Show HN: Typewaiter, the typewriter that doesn&#39;t wait](https://oisinmoran.com/typewaiter)
+- [Love Song to Costco](https://longreads.com/2022/06/16/love-song-to-costco/)
+- [Assassin’s Creed Liberation delisted, unplayable even to owners starting Sept 1](https://mp1st.com/news/report-assassins-creed-liberation-delisted-to-be-unplayable-even-to-owners-starting-september-1-on-steam)
+- [On-device browser translations with Firefox Translations](https://www.ctrl.blog/entry/firefox-translations.html)
+- [Breaking the Warp Barrier: Hyper-Fast Solitons in Einstein-Maxwell-Plasma Theory](https://arxiv.org/abs/2006.07125)
+- [BuildZoom &lpar;YC W13&rpar; is hiring a product manager](https://jobs.lever.co/buildzoom)
+- [SSD will fail at 40k power-on hours &lpar;2021&rpar;](https://www.cisco.com/c/en/us/support/docs/field-notices/705/fn70545.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

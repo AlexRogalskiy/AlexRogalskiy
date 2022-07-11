@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [I tend to avoid reading social news comments](https://rubenerd.com/why-i-tend-to-avoid-reading-social-news-comments-now/)
-- [Ask HN: Do You Write Stories?](https://news.ycombinator.com/item?id=32041497)
-- [Redfin seeing San Francisco Bay Area housing market slowing fastest in the U.S.](https://www.marketwatch.com/story/redfin-seeing-san-francisco-bay-area-housing-market-slowing-fastest-in-the-us-2022-07-08)
-- [Mastering the Game of Stratego with Model-Free Multiagent Reinforcement Learning](https://arxiv.org/abs/2206.15378)
-- [History of the entire world, I guess](https://www.youtube.com/watch?v=xuCn8ux2gbs)
-- [Ask HN: Whatever Happened to Frvade.com?](https://news.ycombinator.com/item?id=32041427)
-- [So You&#39;ve Decided to Bungle Your Company&#39;s Flexible Work Plan](https://annehelen.substack.com/p/so-youve-decided-to-bungle-your-companys)
-- [How to find, read and organize papers](https://www.nature.com/articles/d41586-022-01878-7)
-- [ARK’s Expected Value For Zoom In 2026: $1,500 Per Share](https://github.com/ARKInvest/ARK-Invest-Zoom-Valuation-Model)
-- [Was the Paycheck Protection Program Effective?](https://www.stlouisfed.org/publications/regional-economist/2022/jul/was-paycheck-protection-program-effective)
+- [The War for Talent &lpar;1998&rpar;](https://www.fastcompany.com/34512/war-talent)
+- [My indieweb real estate website &lpar;part two&rpar;](https://werd.io/2022/my-indieweb-real-estate-website-part-two)
+- [Project Naptha](https://projectnaptha.com/)
+- [Ask HN: Any knowledge on Samsung machine&#39;s cycle wash modding](https://news.ycombinator.com/item?id=32051730)
+- [Countdown to Webb’s First Images](https://webb.nasa.gov/content/webbLaunch/countdown.html)
+- [News Stories Without Pictures](https://news.ycombinator.com/item?id=32051721)
+- [Tiger Global to slow startup investments for two quarters](https://techcrunch.com/2022/07/10/tiger-global-to-slow-down-startup-investments-for-two-quarters-aims-to-raise-new-fund-later-this-year/)
+- [People from elite backgrounds increasingly dominate academia, data shows](https://www.washingtonpost.com/business/2022/07/08/dept-of-data-academia-elite/)
+- [Show HN: Formie – Turn any smart contract into a form in 1 minute](https://www.formie.co/)
+- [Fired Employee Claims Facebook Created Secret Tool to Read Users&#39; Deleted](https://gizmodo.com/facebook-meta-privacy-facebook-messenger-1849153040)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

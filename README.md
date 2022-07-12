@@ -384,6 +384,9 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Why you should modernize search technologies](https://www.infoworld.com/article/3666808/why-you-should-modernize-search-technologies.html#tk.rss_all)
+- [Open source job security through recessions](https://www.infoworld.com/article/3666732/open-source-job-security-through-recessions.html#tk.rss_all)
+- [12 examples of old tech that never dies](https://www.infoworld.com/article/3665916/12-examples-of-old-tech-that-never-dies.html#tk.rss_all)
 - [What happens when cloud spend surpasses traditional systems](https://www.infoworld.com/article/3666730/what-happens-when-cloud-spend-surpasses-traditional-systems.html#tk.rss_all)
 - [What is Visual Studio Code? Microsoft’s extensible code editor](https://www.infoworld.com/article/3666488/what-is-visual-studio-code-microsofts-extensible-code-editor.html#tk.rss_all)
 - [How Walmart abstracts its hybrid cloud for developers](https://www.infoworld.com/article/3666468/how-walmart-abstracts-its-hybrid-cloud-for-developers.html#tk.rss_all)
@@ -391,9 +394,6 @@
 - [How to migrate ASP.NET Core 5 code to ASP.NET Core 6](https://www.infoworld.com/article/3665659/how-to-migrate-aspnet-core-5-code-to-aspnet-core-6.html#tk.rss_all)
 - [IBM acquires data observability firm Databand.ai](https://www.infoworld.com/article/3665758/ibm-acquires-data-observability-firm-databand-ai.html#tk.rss_all)
 - [Working with Microsoft’s .NET Rules Engine](https://www.infoworld.com/article/3665690/working-with-microsofts-net-rules-engine.html#tk.rss_all)
-- [How to use Rust with Python, and Python with Rust](https://www.infoworld.com/article/3664124/how-to-use-rust-with-python-and-python-with-rust.html#tk.rss_all)
-- [India opens up its digital payments systems and other key tech](https://www.infoworld.com/article/3665693/india-opens-up-its-digital-payments-systems-and-other-key-tech.html#tk.rss_all)
-- [How to nail your cloud computing job interview](https://www.infoworld.com/article/3665890/how-to-nail-your-cloud-computing-job-interview.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [The Uber files: the unicorn &lpar;part 1&rpar;](https://www.theguardian.com/news/audio/2022/jul/11/the-uber-files-the-unicorn-part-1)
-- [British tourists survive avalanche in Tian Shan mountains of Kyrgyzstan](https://www.theguardian.com/world/2022/jul/11/british-tourists-survive-avalanche-in-tian-shan-mountains-of-kyrgyzstan)
-- [Russia-Ukraine war update: what we know on day 138 of the invasion](https://www.theguardian.com/world/2022/jul/11/russia-ukraine-war-update-what-we-know-on-day-138-of-the-invasion)
-- [South Africa bar shootings: four killed in KwaZulu-Natal on same night as 15 die in Soweto](https://www.theguardian.com/world/2022/jul/11/south-africa-bar-shootings-four-killed-in-kwazulu-natal-on-same-night-as-15-die-in-soweto)
-- [People with depression ‘stagnating’ in UK healthcare system](https://www.theguardian.com/society/2022/jul/11/people-with-depression-stagnating-in-uk-healthcare-system)
-- [One in 10 students turn to food banks in cost of learning crisis](https://www.theguardian.com/society/2022/jul/11/students-food-banks-cost-of-learning-crisis)
-- [Adding salt to food at table can cut years off your life, study finds](https://www.theguardian.com/society/2022/jul/11/adding-salt-table-food-linked-earlier-death-study)
-- [‘Nole! Nole!’: Centre Court takes first steps towards embracing Djokovic | Sean Ingle](https://www.theguardian.com/sport/2022/jul/10/centre-court-wimbledon-tentative-first-steps-embracing-novak-djokovic)
-- [US defence firm ends talks to buy NSO Group’s surveillance technology](https://www.theguardian.com/us-news/2022/jul/10/us-defence-firm-ends-talks-to-buy-nso-groups-surveillance-technology)
-- [Aboriginal flag to permanently replace NSW flag on Sydney Harbour Bridge](https://www.theguardian.com/australia-news/2022/jul/11/aboriginal-flag-to-permanently-replace-nsw-flag-on-sydney-harbour-bridge)
+- [Protest in China over frozen bank accounts ends in violence](https://www.theguardian.com/world/2022/jul/11/china-violent-clashes-at-protest-over-frozen-rural-bank-accounts)
+- [The Uber files: the whistleblower &lpar;part 2&rpar; – podcast](https://www.theguardian.com/news/audio/2022/jul/12/the-uber-files-the-whistleblower-part-2-podcast)
+- [China influenced Kiribati exit from Pacific Islands Forum, MP claims](https://www.theguardian.com/world/2022/jul/12/china-influenced-kiribati-exit-from-pacific-islands-forum-mp-claims)
+- [New Zealand reports second monkeypox case, unrelated to first](https://www.theguardian.com/world/2022/jul/12/new-zealand-reports-second-monkeypox-case-unrelated-to-first)
+- [Beachgoers flee sparring sea lions in viral video: ‘Godzilla is chasing them’](https://www.theguardian.com/us-news/2022/jul/11/san-diego-sea-lions-beach-tiktok)
+- [Russia-Ukraine war update: what we know on day 139 of the invasion](https://www.theguardian.com/world/2022/jul/12/russia-ukraine-war-update-what-we-know-on-day-139-of-the-invasion)
+- [Iran to supply Russia with hundreds of combat drones, US says](https://www.theguardian.com/world/2022/jul/12/iran-drones-russia-uav-combat-ukraine)
+- [First images from Nasa’s James Webb space telescope reveal ancient galaxies](https://www.theguardian.com/science/2022/jul/11/nasa-james-webb-telescope-ancient-galaxy-images)
+- [MPs approve controversial plans to let agency workers cover for striking staff](https://www.theguardian.com/uk-news/2022/jul/12/mps-approve-controversial-plans-to-let-agency-workers-cover-for-striking-staff)
+- [The Guardian view on child poverty: a crisis but no policy | Editorial](https://www.theguardian.com/commentisfree/2022/jul/12/the-guardian-view-on-child-poverty-a-crisis-but-no-policy)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

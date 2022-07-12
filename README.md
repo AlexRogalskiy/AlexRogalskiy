@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Oracle to open first sovereign cloud regions for EU-based users in 2023](https://www.computerweekly.com/news/252522575/Oracle-to-open-first-sovereign-cloud-regions-for-EU-based-users-in-2023)
+- [NetApp Ontap to be sole vSAN storage alternative in the cloud](https://www.computerweekly.com/news/252522561/NetApp-Ontap-to-be-sole-vSAN-storage-alternative-in-the-cloud)
+- [Microsoft VBA macro block will return](https://www.computerweekly.com/news/252522559/Microsoft-VBA-macro-block-will-return)
+- [Retailers choose from menu of mobile apps to help reduce food waste](https://www.computerweekly.com/feature/Retailers-choose-from-menu-of-mobile-apps-to-help-reduce-food-waste)
+- [Embedded analytics emerges to offer new level of business intelligence](https://www.computerweekly.com/feature/Embedded-analytics-emerges-to-offer-new-level-of-business-intelligence)
+- [SMEs lagging on multifactor authentication](https://www.computerweekly.com/news/252522557/SMEs-lagging-on-multifactor-authentication)
+- [Cyber insurance: An effective use of your scant security budget?](https://www.computerweekly.com/opinion/Cyber-insurance-An-effective-use-of-your-scant-security-budget)
+- [Cyber insurance: Tips for keeping the right level of cover](https://www.computerweekly.com/feature/Cyber-insurance-Tips-on-keeping-the-right-level-of-cover)
 - [Pandemic turns e-commerce doubters into believers](https://www.computerweekly.com/feature/Pandemic-turns-e-commerce-doubters-into-believers)
 - [Ofcom publishes Online Safety Roadmap](https://www.computerweekly.com/news/252522519/Ofcom-publishes-Online-Safety-Roadmap)
-- [Stop telling clients to pay ransomware gangs, solicitors told](https://www.computerweekly.com/news/252522513/Stop-telling-clients-to-pay-ransomware-gangs-solicitors-told)
-- [Accountability in algorithmic injustice](https://www.computerweekly.com/feature/Accountability-in-algorithmic-injustice)
-- [Sweden and GDPR – four years on](https://www.computerweekly.com/news/252522510/Sweden-and-GDPR-four-years-on)
-- [Microsoft appears to reverse VBA macro-blocking](https://www.computerweekly.com/news/252522508/Microsoft-appears-to-reverse-VBA-macro-blocking)
-- [Microsoft to roll out grid-interactive UPS tech to its Dublin datacentre](https://www.computerweekly.com/news/252522499/Microsoft-to-roll-out-grid-interactive-UPS-tech-to-its-Dublin-datacentre)
-- [Lots to consider when buying cyber insurance, so do your homework](https://www.computerweekly.com/opinion/Lots-to-consider-when-buying-cyber-insurance-so-do-your-homework)
-- [UK government does not yet understand threat of technology to foreign policy](https://www.computerweekly.com/news/252522460/UK-government-does-not-yet-understand-threat-of-technology-to-foreign-policy)
-- [UK-based datacentre cooling firm FEL Group ceases trading](https://www.computerweekly.com/news/252522465/UK-based-datacentre-cooling-firm-FEL-Group-ceases-trading)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

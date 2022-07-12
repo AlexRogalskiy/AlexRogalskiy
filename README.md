@@ -414,6 +414,9 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Website re-direct code question &lpar;not sure if correct sub&rpar;](https://www.reddit.com/r/InformationTechnology/comments/vwr1dj/website_redirect_code_question_not_sure_if/)
+- [Anyone interested in reading daily IT blogs and updates?](https://www.reddit.com/r/InformationTechnology/comments/vwio76/anyone_interested_in_reading_daily_it_blogs_and/)
+- [Question for IT people who work at elementary schools: Would a program that stored it&#39;s data in plain text as Chinese characters cause you to think twice about allowing it to be used at your school?](https://www.reddit.com/r/InformationTechnology/comments/vwapje/question_for_it_people_who_work_at_elementary/)
 - [TV Show Hacking Question](https://www.reddit.com/r/InformationTechnology/comments/vw0btq/tv_show_hacking_question/)
 - [Worth going back for MIS degree for two semesters &lpar;4-5 class total&rpar; if I want to transition into development?](https://www.reddit.com/r/InformationTechnology/comments/vw064x/worth_going_back_for_mis_degree_for_two_semesters/)
 - [New and very curious about learning/working in IT in Australia](https://www.reddit.com/r/InformationTechnology/comments/vvl78f/new_and_very_curious_about_learningworking_in_it/)
@@ -421,9 +424,6 @@
 - [The Future Of IT](https://www.reddit.com/r/InformationTechnology/comments/vurake/the_future_of_it/)
 - [Ata analysis](https://www.reddit.com/r/InformationTechnology/comments/vuofb7/ata_analysis/)
 - [Question about IT](https://www.reddit.com/r/InformationTechnology/comments/vuk88f/question_about_it/)
-- [Is it really important to know programming and scripting skills to be in the IT tech support field?](https://www.reddit.com/r/InformationTechnology/comments/vu1ilx/is_it_really_important_to_know_programming_and/)
-- [He need your help!](https://www.reddit.com/r/InformationTechnology/comments/vti6j5/he_need_your_help/)
-- [IT Frustration](https://www.reddit.com/r/InformationTechnology/comments/vsf5ww/it_frustration/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

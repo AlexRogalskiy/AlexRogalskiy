@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The War for Talent &lpar;1998&rpar;](https://www.fastcompany.com/34512/war-talent)
-- [My indieweb real estate website &lpar;part two&rpar;](https://werd.io/2022/my-indieweb-real-estate-website-part-two)
-- [Project Naptha](https://projectnaptha.com/)
-- [Ask HN: Any knowledge on Samsung machine&#39;s cycle wash modding](https://news.ycombinator.com/item?id=32051730)
-- [Countdown to Webb’s First Images](https://webb.nasa.gov/content/webbLaunch/countdown.html)
-- [News Stories Without Pictures](https://news.ycombinator.com/item?id=32051721)
-- [Tiger Global to slow startup investments for two quarters](https://techcrunch.com/2022/07/10/tiger-global-to-slow-down-startup-investments-for-two-quarters-aims-to-raise-new-fund-later-this-year/)
-- [People from elite backgrounds increasingly dominate academia, data shows](https://www.washingtonpost.com/business/2022/07/08/dept-of-data-academia-elite/)
-- [Show HN: Formie – Turn any smart contract into a form in 1 minute](https://www.formie.co/)
-- [Fired Employee Claims Facebook Created Secret Tool to Read Users&#39; Deleted](https://gizmodo.com/facebook-meta-privacy-facebook-messenger-1849153040)
+- [India to surpass China as most populous country in 2023: U.N. report](https://www.reuters.com/world/india/india-surpass-china-most-populous-country-2023-un-report-2022-07-11/)
+- [Post-Dispatch reporter wins press freedom award after attack by MO governor](https://www.stltoday.com/news/local/govt-and-politics/post-dispatch-reporter-wins-press-freedom-award-after-attack-by-missouri-governor/article_f76cf9b4-3adb-560c-aa6b-fe5ece6aed87.html)
+- [Linux kernel support for hardware-based control-flow integrity](https://lwn.net/SubscriberLink/900099/278cbf4e1b2add3d/)
+- [ICBM Address](https://en.wikipedia.org/wiki/ICBM_address)
+- [Leechblock](https://www.proginosko.com/leechblock/)
+- [Ruby language evolution on a large scale &lpar;as observed from Ukraine&rpar;](https://zverok.space/blog/2022-06-11-ruby-evolution.html)
+- [Ask HN: How to build effective website to attract early adopters](https://news.ycombinator.com/item?id=32065301)
+- [Ask HN: How am I suppose to master software engineering?](https://news.ycombinator.com/item?id=32065296)
+- [End the Madness Around Productivity](https://twitter.com/Amitmina/status/1546697263522516995)
+- [Ask HN: How to stop my addiction to social media?](https://news.ycombinator.com/item?id=32065238)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

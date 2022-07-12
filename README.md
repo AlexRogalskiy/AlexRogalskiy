@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Medicare Could Have Saved $3.6B on Generic Drugs](https://www.drugs.com/news/medicare-could-have-saved-3-6-billion-2020-106106.html)
-- [Ask HN: Tips on Trying to Be Serious?](https://news.ycombinator.com/item?id=32050963)
-- [Running an Open Source Home Area Network](https://xn--gckvb8fzb.com/running-an-open-source-home-area-network/)
-- [Show HN: Typewaiter, the typewriter that doesn&#39;t wait](https://oisinmoran.com/typewaiter)
-- [Love Song to Costco](https://longreads.com/2022/06/16/love-song-to-costco/)
-- [Assassin’s Creed Liberation delisted, unplayable even to owners starting Sept 1](https://mp1st.com/news/report-assassins-creed-liberation-delisted-to-be-unplayable-even-to-owners-starting-september-1-on-steam)
-- [On-device browser translations with Firefox Translations](https://www.ctrl.blog/entry/firefox-translations.html)
-- [Breaking the Warp Barrier: Hyper-Fast Solitons in Einstein-Maxwell-Plasma Theory](https://arxiv.org/abs/2006.07125)
-- [BuildZoom &lpar;YC W13&rpar; is hiring a product manager](https://jobs.lever.co/buildzoom)
-- [SSD will fail at 40k power-on hours &lpar;2021&rpar;](https://www.cisco.com/c/en/us/support/docs/field-notices/705/fn70545.html)
+- [NYPD Police Officer Exam Tutorial [pdf]](https://www1.nyc.gov/assets/nypd/downloads/pdf/careers/po-exam-tutorial-2021-04-14.pdf)
+- [Weed-killing chemical found in majority of U.S. urine samples](https://www.cbsnews.com/news/glyphosate-roundup-urine-samples-bayer-monsanto-weed-killing-chemical/)
+- [State lotteries transfer wealth out of needy communities](https://www.cbsnews.com/news/state-lotteries-transfer-wealth-out-of-needy-communities/)
+- [Pepsi: Breathtaking Design Strategy &lpar;2008&rpar; [pdf]](https://jimedwardsnrx.files.wordpress.com/2009/02/pepsi_gravitational_field.pdf)
+- [DoD Open Source Software FAQ](https://dodcio.defense.gov/open-source-software-faq/)
+- [Sir Mo Farah reveals he was trafficked into the UK using another child’s name](https://www.theguardian.com/sport/2022/jul/11/sir-mo-farah-i-was-brought-into-the-uk-illegally-using-another-childs-name)
+- [MedMe Health &lpar;YC W21&rpar; is hiring a senior engineer](https://www.ycombinator.com/companies/medme-health/jobs/8bAVDN7-senior-full-stack-engineer)
+- [Desktop Environments Resource Usage Comparison](https://vermaden.wordpress.com/2022/07/12/desktop-environments-resource-usage-comparison/)
+- [Deepest infrared image of universe](https://www.nasa.gov/image-feature/goddard/2022/nasa-s-webb-delivers-deepest-infrared-image-of-universe-yet/)
+- [DeepMind AI learns simple physics like a baby](https://www.nature.com/articles/d41586-022-01921-7)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [NYPD Police Officer Exam Tutorial [pdf]](https://www1.nyc.gov/assets/nypd/downloads/pdf/careers/po-exam-tutorial-2021-04-14.pdf)
-- [Weed-killing chemical found in majority of U.S. urine samples](https://www.cbsnews.com/news/glyphosate-roundup-urine-samples-bayer-monsanto-weed-killing-chemical/)
-- [State lotteries transfer wealth out of needy communities](https://www.cbsnews.com/news/state-lotteries-transfer-wealth-out-of-needy-communities/)
-- [Pepsi: Breathtaking Design Strategy &lpar;2008&rpar; [pdf]](https://jimedwardsnrx.files.wordpress.com/2009/02/pepsi_gravitational_field.pdf)
-- [DoD Open Source Software FAQ](https://dodcio.defense.gov/open-source-software-faq/)
-- [Sir Mo Farah reveals he was trafficked into the UK using another child’s name](https://www.theguardian.com/sport/2022/jul/11/sir-mo-farah-i-was-brought-into-the-uk-illegally-using-another-childs-name)
-- [MedMe Health &lpar;YC W21&rpar; is hiring a senior engineer](https://www.ycombinator.com/companies/medme-health/jobs/8bAVDN7-senior-full-stack-engineer)
-- [Desktop Environments Resource Usage Comparison](https://vermaden.wordpress.com/2022/07/12/desktop-environments-resource-usage-comparison/)
-- [Deepest infrared image of universe](https://www.nasa.gov/image-feature/goddard/2022/nasa-s-webb-delivers-deepest-infrared-image-of-universe-yet/)
-- [DeepMind AI learns simple physics like a baby](https://www.nature.com/articles/d41586-022-01921-7)
+- [FTC committed to enforcing law against illegal use, sharing of sensitive data](https://www.ftc.gov/business-guidance/blog/2022/07/location-health-other-sensitive-information-ftc-committed-fully-enforcing-law-against-illegal-use)
+- [RISC-V Linux on ESP32](https://blog.drorgluska.com/2022/07/risc-v-linux-on-esp32.html)
+- [Sri Lanka is having a textbook currency crisis, triggered by policy mistakes](https://noahpinion.substack.com/p/why-sri-lanka-is-having-an-economic)
+- [My business card runs Linux](https://dmitry.gr/?r=05.Projects&proj=33.%20LinuxCard)
+- [Role of Lactobacillus Reuteri in Human Health and Diseases](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5917019/)
+- [Calibre 6.0](https://calibre-ebook.com/whats-new)
+- [Waymo car swarmed by skaters in San Francisco &#39;hill bomb&#39;](https://www.sfgate.com/local/article/Waymo-car-swarmed-San-Francisco-skaters-17300261.php)
+- [Embryo Cells Set Patterns for Growth by Pushing and Pulling](https://www.quantamagazine.org/embryo-cells-set-patterns-for-growth-by-pushing-and-pulling-20220712/)
+- [FEMA Planning Guidance for Response to a Nuclear Detonation [pdf]](https://www.fema.gov/sites/default/files/documents/fema_nuc-detonation-planning-guide.pdf)
+- [Google slowing hiring to “technical and critical roles” only](https://www.theverge.com/2022/7/12/23206113/google-ceo-sundar-pichai-memo-hiring-slowdown-2022)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

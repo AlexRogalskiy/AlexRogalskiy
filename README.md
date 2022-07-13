@@ -369,6 +369,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Why It&#39;s So Hard to Accurately Predict IT Trends](https://www.informationweek.com/strategic-cio/why-it-s-so-hard-to-accurately-predict-it-trends)
+- [Confronting the Cybersecurity Compliance Challenge](https://www.informationweek.com/security-and-risk-strategy/confronting-the-cybersecurity-compliance-challenge)
 - [What the US Supreme Court Ruling on the EPA Means for ESG](https://www.informationweek.com/big-data/what-the-us-supreme-court-ruling-on-the-epa-means-for-esg)
 - [APIs Do More Than Just Carry Data](https://www.informationweek.com/devops/apis-do-more-than-just-carry-data)
 - [June 2022 Global Tech Policy Bulletin: From USB-C Chargers to Supreme Court](https://www.informationweek.com/government/june-2022-tech-policy-bulletin-from-usb-c-chargers-supreme-court)
@@ -377,8 +379,6 @@
 - [IT Report Card: Customer-Facing Applications](https://www.informationweek.com/software/it-report-card-customer-facing-applications)
 - [5 Things Every Remote Leader Should Do](https://www.informationweek.com/strategic-cio/5-things-every-remote-leader-should-do)
 - [6 Ways Cloud Networking Teams Can Up Their Game](https://www.informationweek.com/team-building-and-staffing/6-ways-cloud-networking-teams-can-up-their-game)
-- [ZTNA 1.0’s Allow-and-Ignore Model Is a Recipe for Disaster](https://www.informationweek.com/palo-alto-networks/ztna-1-0-s-allow-and-ignore-model-is-a-recipe-for-disaster)
-- [Creating a Natural, More Collaborative Hybrid Work Environment](https://www.informationweek.com/strategic-cio/creating-a-natural-more-collaborative-hybrid-work-environment)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

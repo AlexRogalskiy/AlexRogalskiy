@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [India to surpass China as most populous country in 2023: U.N. report](https://www.reuters.com/world/india/india-surpass-china-most-populous-country-2023-un-report-2022-07-11/)
-- [Post-Dispatch reporter wins press freedom award after attack by MO governor](https://www.stltoday.com/news/local/govt-and-politics/post-dispatch-reporter-wins-press-freedom-award-after-attack-by-missouri-governor/article_f76cf9b4-3adb-560c-aa6b-fe5ece6aed87.html)
-- [Linux kernel support for hardware-based control-flow integrity](https://lwn.net/SubscriberLink/900099/278cbf4e1b2add3d/)
-- [ICBM Address](https://en.wikipedia.org/wiki/ICBM_address)
-- [Leechblock](https://www.proginosko.com/leechblock/)
-- [Ruby language evolution on a large scale &lpar;as observed from Ukraine&rpar;](https://zverok.space/blog/2022-06-11-ruby-evolution.html)
-- [Ask HN: How to build effective website to attract early adopters](https://news.ycombinator.com/item?id=32065301)
-- [Ask HN: How am I suppose to master software engineering?](https://news.ycombinator.com/item?id=32065296)
-- [End the Madness Around Productivity](https://twitter.com/Amitmina/status/1546697263522516995)
-- [Ask HN: How to stop my addiction to social media?](https://news.ycombinator.com/item?id=32065238)
+- [Rolling your own crypto: Everything you need to build AES from scratch](https://github.com/francisrstokes/githublog/blob/main/2022/6/15/rolling-your-own-crypto-aes.md)
+- [Airbus A380 Completes Flight Powered by Cooking Oil](https://hackaday.com/2022/07/12/airbus-a380-completes-flight-powered-by-cooking-oil/)
+- [Realtime Inequality](https://realtimeinequality.org/)
+- [Bleep: Organize Your Life Visually](https://www.bleep.is/)
+- [I Don&#39;t Like Mondays](https://en.wikipedia.org/wiki/I_Don%27t_Like_Mondays)
+- [Study on how much less  older members of Parliament care about climate change](https://link.springer.com/article/10.1007/s44168-022-00017-2)
+- [Largest startup funding rounds of 2022 so far](https://www.employbl.com/blog/usa-startup-funding-report-2022-largest-early-stage)
+- [Covid-19 mystery: Why some people get it and others don&#39;t [video]](https://www.youtube.com/watch?v=wdszy6Q32fQ)
+- [Ice Trade](https://en.wikipedia.org/wiki/Ice_trade)
+- [Google CEO Pichai: company will slow hiring through 2023 in memo to employees](https://www.cnbc.com/2022/07/12/google-says-it-will-slow-hiring-through-2023-in-memo-to-employees.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Protest in China over frozen bank accounts ends in violence](https://www.theguardian.com/world/2022/jul/11/china-violent-clashes-at-protest-over-frozen-rural-bank-accounts)
-- [The Uber files: the whistleblower &lpar;part 2&rpar; – podcast](https://www.theguardian.com/news/audio/2022/jul/12/the-uber-files-the-whistleblower-part-2-podcast)
-- [China influenced Kiribati exit from Pacific Islands Forum, MP claims](https://www.theguardian.com/world/2022/jul/12/china-influenced-kiribati-exit-from-pacific-islands-forum-mp-claims)
-- [New Zealand reports second monkeypox case, unrelated to first](https://www.theguardian.com/world/2022/jul/12/new-zealand-reports-second-monkeypox-case-unrelated-to-first)
-- [Beachgoers flee sparring sea lions in viral video: ‘Godzilla is chasing them’](https://www.theguardian.com/us-news/2022/jul/11/san-diego-sea-lions-beach-tiktok)
-- [Russia-Ukraine war update: what we know on day 139 of the invasion](https://www.theguardian.com/world/2022/jul/12/russia-ukraine-war-update-what-we-know-on-day-139-of-the-invasion)
-- [Iran to supply Russia with hundreds of combat drones, US says](https://www.theguardian.com/world/2022/jul/12/iran-drones-russia-uav-combat-ukraine)
-- [First images from Nasa’s James Webb space telescope reveal ancient galaxies](https://www.theguardian.com/science/2022/jul/11/nasa-james-webb-telescope-ancient-galaxy-images)
-- [MPs approve controversial plans to let agency workers cover for striking staff](https://www.theguardian.com/uk-news/2022/jul/12/mps-approve-controversial-plans-to-let-agency-workers-cover-for-striking-staff)
-- [The Guardian view on child poverty: a crisis but no policy | Editorial](https://www.theguardian.com/commentisfree/2022/jul/12/the-guardian-view-on-child-poverty-a-crisis-but-no-policy)
+- [Police remove two Chinese defence attaches from Pacific Islands Forum meeting](https://www.theguardian.com/world/2022/jul/13/two-chinese-defence-attaches-removed-from-pacific-islands-forum-meeting)
+- [The Uber Files: the drivers &lpar;part 3&rpar; - podcast](https://www.theguardian.com/news/audio/2022/jul/13/the-uber-files-the-drivers-part-3-podcast)
+- [New Zealand’s Lake Taupō supervolcano still very active, study finds](https://www.theguardian.com/world/2022/jul/13/new-zealands-lake-taupo-supervolcano-still-very-active-study-finds)
+- [‘Have you recently had an abortion?’ Australian transiting through US questioned then deported](https://www.theguardian.com/australia-news/2022/jul/13/have-you-recently-had-an-abortion-australian-transiting-through-us-questioned-then-deported)
+- [Russia-Ukraine war update: what we know on day 140 of the invasion](https://www.theguardian.com/world/2022/jul/13/russia-ukraine-war-update-what-we-know-on-day-140-of-the-invasion)
+- [Average UK household £8,800 a year worse off than those in France or Germany](https://www.theguardian.com/business/2022/jul/13/average-uk-household-8800-a-year-worse-off-than-those-in-france-or-germany)
+- [NHS to miss out on recruiting thousands of nurses if BTecs are scrapped](https://www.theguardian.com/education/2022/jul/13/nhs-to-miss-out-on-recruiting-thousands-of-nurses-if-btecs-are-scrapped)
+- [V&amp;A to stage UK’s first major exhibition of Korean culture](https://www.theguardian.com/artanddesign/2022/jul/13/va-to-stage-uks-first-major-exhibition-of-korean-culture)
+- [Covid-hit Coral Princess cruise ship docks in Sydney](https://www.theguardian.com/australia-news/2022/jul/13/covid-hit-coral-princess-cruise-ship-docks-in-sydney)
+- [Twitter sues Elon Musk over bid to exit $44bn takeover deal](https://www.theguardian.com/technology/2022/jul/12/twitter-sues-elon-musk-over-bid-to-exit-44bn-takeover-deal)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Oracle to open first sovereign cloud regions for EU-based users in 2023](https://www.computerweekly.com/news/252522575/Oracle-to-open-first-sovereign-cloud-regions-for-EU-based-users-in-2023)
-- [NetApp Ontap to be sole vSAN storage alternative in the cloud](https://www.computerweekly.com/news/252522561/NetApp-Ontap-to-be-sole-vSAN-storage-alternative-in-the-cloud)
-- [Microsoft VBA macro block will return](https://www.computerweekly.com/news/252522559/Microsoft-VBA-macro-block-will-return)
-- [Retailers choose from menu of mobile apps to help reduce food waste](https://www.computerweekly.com/feature/Retailers-choose-from-menu-of-mobile-apps-to-help-reduce-food-waste)
-- [Embedded analytics emerges to offer new level of business intelligence](https://www.computerweekly.com/feature/Embedded-analytics-emerges-to-offer-new-level-of-business-intelligence)
-- [SMEs lagging on multifactor authentication](https://www.computerweekly.com/news/252522557/SMEs-lagging-on-multifactor-authentication)
-- [Cyber insurance: An effective use of your scant security budget?](https://www.computerweekly.com/opinion/Cyber-insurance-An-effective-use-of-your-scant-security-budget)
-- [Cyber insurance: Tips for keeping the right level of cover](https://www.computerweekly.com/feature/Cyber-insurance-Tips-on-keeping-the-right-level-of-cover)
-- [Pandemic turns e-commerce doubters into believers](https://www.computerweekly.com/feature/Pandemic-turns-e-commerce-doubters-into-believers)
-- [Ofcom publishes Online Safety Roadmap](https://www.computerweekly.com/news/252522519/Ofcom-publishes-Online-Safety-Roadmap)
+- [First cohort of data science professionals certified by AfDSP](https://www.computerweekly.com/news/252522617/First-cohort-of-data-science-professionals-certified-by-AfDSP)
+- [Brits say social media must do more to block harmful content](https://www.computerweekly.com/news/252522607/Social-media-must-do-more-to-block-harmful-content)
+- [MaliBot Android malware spreading fast, says Check Point](https://www.computerweekly.com/news/252522615/MaliBot-Android-malware-spreading-fast-says-Check-Point)
+- [Schneider Electric reinforces commitment to addressing datacentre skills gap with new courses](https://www.computerweekly.com/news/252522609/Schneider-Electric-reinforces-commitment-to-addressing-datacentre-skills-gap-with-new-courses)
+- [Is time running out for legacy payments technology used by banks?](https://www.computerweekly.com/news/252522603/Is-time-running-out-for-legacy-payments-technology-used-by-banks)
+- [Ransomware and backup: Overcoming the challenges](https://www.computerweekly.com/feature/Ransomware-and-backup-Overcoming-the-challenges)
+- [Ordnance Survey research reveals sustainability projects as hot for software developers](https://www.computerweekly.com/news/252522614/Ordnance-Survey-research-reveals-sustainability-projects-as-hot-for-software-developers)
+- [Microsoft Windows Autopatch now generally available](https://www.computerweekly.com/news/252522608/Microsoft-Windows-Autopatch-now-generally-available)
+- [UKtech50 2022: The most influential people in UK technology](https://www.computerweekly.com/ezine/Computer-Weekly/The-most-influential-people-in-UK-tech)
+- [Whitehall IT veteran Mike Potter returns as new government CDO](https://www.computerweekly.com/news/252522582/Whitehall-IT-veteran-Mike-Potter-returns-as-new-government-CDO)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

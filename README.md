@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
+- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
+- [Tech event calendar 2022: Upcoming US shows, conferences, and IT expos](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
+- [Apple’s Car ride &lpar;likely&rpar; shows augmentation beats automation](https://www.computerworld.com/article/3666955/apples-car-ride-likely-shows-augmentation-beats-automation.html#tk.rss_all)
+- [Where, oh where are the new hires?](https://www.computerworld.com/article/3666953/where-oh-where-are-the-new-hires.html#tk.rss_all)
+- [Word for Microsoft 365 cheat sheet](https://www.computerworld.com/article/3445216/word-for-office-365-cheat-sheet.html#tk.rss_all)
+- [Word for Microsoft 365 cheat sheet: Ribbon quick reference](https://www.computerworld.com/article/3446217/word-for-office-365-cheat-sheet-ribbon-quick-reference.html#tk.rss_all)
 - [Now’s the time to prep for Microsoft’s Excel macro crackdown](https://www.computerworld.com/article/3666951/nows-the-time-to-prep-for-microsofts-excel-macro-crackdown.html#tk.rss_all)
 - [Q&amp;A: Marketcircle CEO on leadership in tomorrow&#39;s workplace](https://www.computerworld.com/article/3666590/qa-marketcircle-ceo-on-leadership-in-tomorrows-workplace.html#tk.rss_all)
 - [Low-code development becoming business skill ‘table stakes’](https://www.computerworld.com/article/3666492/low-code-development-becoming-business-skill-table-stakes.html#tk.rss_all)
-- [Apple MDM industry outlook: M&amp;A on the way](https://www.computerworld.com/article/3666731/apple-mdm-industry-outlook-mergers-acquisitions.html#tk.rss_all)
-- [Words count: How the language you use arouses emotions in the people you’re trying to reach](https://www.computerworld.com/article/3666514/words-count-how-the-language-you-use-arouses-emotions-in-the-people-you-re-trying-to-reach.html#tk.rss_all)
-- [IT and the Great Resignation](https://www.computerworld.com/article/3664125/it-and-the-great-resignation.html#tk.rss_all)
-- [UK Competition and Markets Authority ramps up big tech antitrust investigations](https://www.computerworld.com/article/3666829/uk-competition-and-markets-authority-ramps-up-big-tech-antitrust-investigations.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
-- [Apple slaps hard against ‘mercenary’ surveillance-as-a-service industry](https://www.computerworld.com/article/3666688/apple-slaps-hard-against-mercenary-surveillance-as-a-service-industry.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

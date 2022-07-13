@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Videotron supports Rogers and Shaw in merger dispute](https://www.itworldcanada.com/article/videotron-supports-rogers-and-shaw-in-merger-dispute/492296)
+- [Deloitte launches new security service based on Zero Trust](https://www.itworldcanada.com/article/deloitte-launches-new-security-service-based-on-zero-trust/492156)
+- [Coffee Briefing July 12, 2022 – Beware of Amazon Prime Day scams; first regional EY Entrepreneur of the Year awards announced; one third of social media crypto frauds conducted on Instagram; and more](https://www.itworldcanada.com/article/coffee-briefing-july-12-2022-beware-of-amazon-prime-day-scams-first-regional-ey-entrepreneur-of-the-year-awards-announced-one-third-of-social-media-crypto-frauds-conducted-on-instagram-and-more/492108)
+- [Hashtag Trending July 12 – A look into deep space; Amazon cancer vaccine; Meta citation AI for Wikipedia](https://www.itworldcanada.com/article/hashtag-trending-july-12-a-look-into-deep-space-amazon-cancer-vaccine-meta-citation-ai-for-wikipedia/492214)
 - [Interac outage exacerbated by poor network design, says expert](https://www.itworldcanada.com/article/interac-outage-exacerbated-by-poor-network-design-says-expert/492141)
 - [Champagne orders telcos to produce clear resiliency plan in 60 days](https://www.itworldcanada.com/article/champagne-orders-telcos-to-produce-clear-resiliency-plan-in-60-days/492152)
 - [Adaptavist selects Toronto as its new North American HQ](https://www.itworldcanada.com/article/adaptavist-selects-toronto-as-its-new-north-american-hq/491954)
-- [Class action filed in Quebec against Rogers following last Friday’s outage](https://www.itworldcanada.com/article/class-action-filed-in-quebec-against-rogers-following-last-fridays-outage/492101)
+- [UPDATED – Class actions filed in Quebec against Rogers following last Friday’s outage](https://www.itworldcanada.com/article/class-action-filed-in-quebec-against-rogers-following-last-fridays-outage/492101)
 - [Cyber Security Today, July 11, 2022 – Mandatory 2FA for the PyPI registry, beware of fake Google software updates and a poor password leads to huge data hack](https://www.itworldcanada.com/article/cyber-security-today-july-11-2022-mandatory-2fa-for-the-pypi-registry-beware-of-fake-google-software-updates-and-a-poor-password-leads-to-huge-data-hack/492039)
 - [Hashtag Trending July 11 – IT issues lower morale, Musk backs out of Twitter deal, FCC wants to stop auto warranty robocalls](https://www.itworldcanada.com/article/hashtag-trending-july-11-it-issues-lower-morale-musk-backs-out-of-twitter-deal-fcc-wants-to-stop-auto-warranty-robocalls/492046)
-- [Rogers CEO admits outage caused by maintenance operation](https://www.itworldcanada.com/article/rogers-ceo-admits-outage-caused-by-maintenance-operation/492031)
-- [Worried about your firm’s internet and telecom resiliency? Ask these questions](https://www.itworldcanada.com/article/worried-about-your-firms-internet-and-telecom-resiliency-ask-these-questions/492009)
-- [Money talks when it comes to attracting, retaining IT talent: Gartner](https://www.itworldcanada.com/article/money-talks-when-it-comes-to-attracting-retaining-it-talent-gartner/491959)
-- [This week in ransomware – Friday July 8, 2022](https://www.itworldcanada.com/article/this-week-in-ransomware-friday-july-8-2022/491949)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

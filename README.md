@@ -384,6 +384,9 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Microsoft updates Visual Studio Code, unveils VS Code Server](https://www.infoworld.com/article/3666521/microsoft-streamlining-remote-dev-for-vs-code.html#tk.rss_all)
+- [How resilient are digital transformation budgets?](https://www.infoworld.com/article/3666515/how-resilient-are-digital-transformation-budgets.html#tk.rss_all)
+- [Software developers have a supply chain security problem](https://www.infoworld.com/article/3663689/software-developers-have-a-supply-chain-security-problem.html#tk.rss_all)
 - [Why you should modernize search technologies](https://www.infoworld.com/article/3666808/why-you-should-modernize-search-technologies.html#tk.rss_all)
 - [Open source job security through recessions](https://www.infoworld.com/article/3666732/open-source-job-security-through-recessions.html#tk.rss_all)
 - [12 examples of old tech that never dies](https://www.infoworld.com/article/3665916/12-examples-of-old-tech-that-never-dies.html#tk.rss_all)
@@ -391,9 +394,6 @@
 - [What is Visual Studio Code? Microsoft’s extensible code editor](https://www.infoworld.com/article/3666488/what-is-visual-studio-code-microsofts-extensible-code-editor.html#tk.rss_all)
 - [How Walmart abstracts its hybrid cloud for developers](https://www.infoworld.com/article/3666468/how-walmart-abstracts-its-hybrid-cloud-for-developers.html#tk.rss_all)
 - [8 new JavaScript features to start using today](https://www.infoworld.com/article/3665748/8-new-javascript-features-to-start-using-today.html#tk.rss_all)
-- [How to migrate ASP.NET Core 5 code to ASP.NET Core 6](https://www.infoworld.com/article/3665659/how-to-migrate-aspnet-core-5-code-to-aspnet-core-6.html#tk.rss_all)
-- [IBM acquires data observability firm Databand.ai](https://www.infoworld.com/article/3665758/ibm-acquires-data-observability-firm-databand-ai.html#tk.rss_all)
-- [Working with Microsoft’s .NET Rules Engine](https://www.infoworld.com/article/3665690/working-with-microsofts-net-rules-engine.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

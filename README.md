@@ -369,6 +369,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Cloud, Data, and Political Protests Mark the 2022 AWS Summit](https://www.informationweek.com/cloud/cloud-data-and-political-protests-mark-the-2022-aws-summit)
+- [Ineffective Change Management &lpar;or the Short Shelf Life of Some CIOs&rpar;](https://www.informationweek.com/strategic-cio/ineffective-change-management-or-the-short-shelf-life-of-some-cios-)
+- [3 Ways to Empower Your Teams &lpar;and Why Needed More than Ever Now&rpar;](https://www.informationweek.com/strategic-cio/3-ways-to-empower-your-teams-and-why-needed-more-than-ever-now)
 - [Why It&#39;s So Hard to Accurately Predict IT Trends](https://www.informationweek.com/strategic-cio/why-it-s-so-hard-to-accurately-predict-it-trends)
 - [Confronting the Cybersecurity Compliance Challenge](https://www.informationweek.com/security-and-risk-strategy/confronting-the-cybersecurity-compliance-challenge)
 - [What the US Supreme Court Ruling on the EPA Means for ESG](https://www.informationweek.com/big-data/what-the-us-supreme-court-ruling-on-the-epa-means-for-esg)
@@ -376,9 +379,6 @@
 - [June 2022 Global Tech Policy Bulletin: From USB-C Chargers to Supreme Court](https://www.informationweek.com/government/june-2022-tech-policy-bulletin-from-usb-c-chargers-supreme-court)
 - [Graph Databases: What They Are and How to Get Started](https://www.informationweek.com/big-data/graph-databases-what-they-are-and-how-to-get-started)
 - [3 Ways to Avoid Gender Bias From Showing up in Your Products](https://www.informationweek.com/software/3-ways-to-avoid-gender-bias-from-showing-up-in-your-products)
-- [IT Report Card: Customer-Facing Applications](https://www.informationweek.com/software/it-report-card-customer-facing-applications)
-- [5 Things Every Remote Leader Should Do](https://www.informationweek.com/strategic-cio/5-things-every-remote-leader-should-do)
-- [6 Ways Cloud Networking Teams Can Up Their Game](https://www.informationweek.com/team-building-and-staffing/6-ways-cloud-networking-teams-can-up-their-game)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

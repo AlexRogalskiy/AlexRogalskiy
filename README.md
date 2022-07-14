@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Online courses/Videos for Comptia A+?](https://www.reddit.com/r/InformationTechnology/comments/vydhk1/online_coursesvideos_for_comptia_a/)
+- [DoS &amp; DDoS Attacks Explained](https://www.reddit.com/r/InformationTechnology/comments/vy7u6s/dos_ddos_attacks_explained/)
+- [Where to go from helpdesk job](https://www.reddit.com/r/InformationTechnology/comments/vy712h/where_to_go_from_helpdesk_job/)
+- [Office network without a Domain Controller??](https://www.reddit.com/r/InformationTechnology/comments/vy4zcn/office_network_without_a_domain_controller/)
+- [Free4All Information Technology and Cyber Security Resources](https://www.reddit.com/r/InformationTechnology/comments/vxz1bf/free4all_information_technology_and_cyber/)
 - [How can I make $80000 in a year time from todat](https://www.reddit.com/r/InformationTechnology/comments/vxrxhz/how_can_i_make_80000_in_a_year_time_from_todat/)
 - [Account](https://www.reddit.com/r/InformationTechnology/comments/vxrpel/account/)
 - [Feeling hopeless, any advice?](https://www.reddit.com/r/InformationTechnology/comments/vxlup0/feeling_hopeless_any_advice/)
 - [Website re-direct code question &lpar;not sure if correct sub&rpar;](https://www.reddit.com/r/InformationTechnology/comments/vwr1dj/website_redirect_code_question_not_sure_if/)
 - [Anyone interested in reading daily IT blogs and updates?](https://www.reddit.com/r/InformationTechnology/comments/vwio76/anyone_interested_in_reading_daily_it_blogs_and/)
-- [Question for IT people who work at elementary schools: Would a program that stored it&#39;s data in plain text as Chinese characters cause you to think twice about allowing it to be used at your school?](https://www.reddit.com/r/InformationTechnology/comments/vwapje/question_for_it_people_who_work_at_elementary/)
-- [TV Show Hacking Question](https://www.reddit.com/r/InformationTechnology/comments/vw0btq/tv_show_hacking_question/)
-- [Worth going back for MIS degree for two semesters &lpar;4-5 class total&rpar; if I want to transition into development?](https://www.reddit.com/r/InformationTechnology/comments/vw064x/worth_going_back_for_mis_degree_for_two_semesters/)
-- [New and very curious about learning/working in IT in Australia](https://www.reddit.com/r/InformationTechnology/comments/vvl78f/new_and_very_curious_about_learningworking_in_it/)
-- [So many questions, no experience in IT](https://www.reddit.com/r/InformationTechnology/comments/vv2yn9/so_many_questions_no_experience_in_it/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

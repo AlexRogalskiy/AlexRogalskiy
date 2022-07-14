@@ -384,16 +384,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Google Cloud targets high performance workloads with Arm-based VMs and Batch job scheduling](https://www.infoworld.com/article/3666527/google-cloud-adds-arm-based-vms-and-automated-job-scheduling.html#tk.rss_all)
+- [Azure Artifacts helps you standardize on packages and modules](https://www.infoworld.com/article/3666733/azure-artifacts-helps-you-standardize-on-packages-and-modules.html#tk.rss_all)
+- [Nvidia unveils QODA for hybrid quantum-classical computing](https://www.infoworld.com/article/3666698/nvidia-unveils-qoda-for-hybrid-quantum-classical-computing.html#tk.rss_all)
+- [ASGI explained: The future of Python web development](https://www.infoworld.com/article/3658336/asgi-explained-the-future-of-python-web-development.html#tk.rss_all)
+- [IBM Red Hat names Matt Hicks as president and CEO](https://www.infoworld.com/article/3666595/ibm-red-hat-names-matt-hicks-as-president-and-ceo.html#tk.rss_all)
 - [Microsoft updates Visual Studio Code, unveils VS Code Server](https://www.infoworld.com/article/3666521/microsoft-streamlining-remote-dev-for-vs-code.html#tk.rss_all)
 - [How resilient are digital transformation budgets?](https://www.infoworld.com/article/3666515/how-resilient-are-digital-transformation-budgets.html#tk.rss_all)
 - [Software developers have a supply chain security problem](https://www.infoworld.com/article/3663689/software-developers-have-a-supply-chain-security-problem.html#tk.rss_all)
 - [Why you should modernize search technologies](https://www.infoworld.com/article/3666808/why-you-should-modernize-search-technologies.html#tk.rss_all)
 - [Open source job security through recessions](https://www.infoworld.com/article/3666732/open-source-job-security-through-recessions.html#tk.rss_all)
-- [12 examples of old tech that never dies](https://www.infoworld.com/article/3665916/12-examples-of-old-tech-that-never-dies.html#tk.rss_all)
-- [What happens when cloud spend surpasses traditional systems](https://www.infoworld.com/article/3666730/what-happens-when-cloud-spend-surpasses-traditional-systems.html#tk.rss_all)
-- [What is Visual Studio Code? Microsoft’s extensible code editor](https://www.infoworld.com/article/3666488/what-is-visual-studio-code-microsofts-extensible-code-editor.html#tk.rss_all)
-- [How Walmart abstracts its hybrid cloud for developers](https://www.infoworld.com/article/3666468/how-walmart-abstracts-its-hybrid-cloud-for-developers.html#tk.rss_all)
-- [8 new JavaScript features to start using today](https://www.infoworld.com/article/3665748/8-new-javascript-features-to-start-using-today.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

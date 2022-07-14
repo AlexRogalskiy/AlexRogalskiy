@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [FTC committed to enforcing law against illegal use, sharing of sensitive data](https://www.ftc.gov/business-guidance/blog/2022/07/location-health-other-sensitive-information-ftc-committed-fully-enforcing-law-against-illegal-use)
-- [RISC-V Linux on ESP32](https://blog.drorgluska.com/2022/07/risc-v-linux-on-esp32.html)
-- [Sri Lanka is having a textbook currency crisis, triggered by policy mistakes](https://noahpinion.substack.com/p/why-sri-lanka-is-having-an-economic)
-- [My business card runs Linux](https://dmitry.gr/?r=05.Projects&proj=33.%20LinuxCard)
-- [Role of Lactobacillus Reuteri in Human Health and Diseases](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5917019/)
-- [Calibre 6.0](https://calibre-ebook.com/whats-new)
-- [Waymo car swarmed by skaters in San Francisco &#39;hill bomb&#39;](https://www.sfgate.com/local/article/Waymo-car-swarmed-San-Francisco-skaters-17300261.php)
-- [Embryo Cells Set Patterns for Growth by Pushing and Pulling](https://www.quantamagazine.org/embryo-cells-set-patterns-for-growth-by-pushing-and-pulling-20220712/)
-- [FEMA Planning Guidance for Response to a Nuclear Detonation [pdf]](https://www.fema.gov/sites/default/files/documents/fema_nuc-detonation-planning-guide.pdf)
-- [Google slowing hiring to “technical and critical roles” only](https://www.theverge.com/2022/7/12/23206113/google-ceo-sundar-pichai-memo-hiring-slowdown-2022)
+- [Books to read to understand financial crime](https://www.economist.com/the-economist-reads/2022/07/11/the-best-books-to-read-to-understand-financial-crime)
+- [Saskatchewan, Ontario to roll out mini-nuclear reactors](https://www.westerninvestor.com/british-columbia/saskatchewan-ontario-to-roll-out-mini-nuclear-reactors-5568249)
+- [We must protect our ability to transact privately online &lpar;2019&rpar;](https://www.coincenter.org/we-must-protect-our-ability-to-transact-privately-online/)
+- [Cryptomator – Encrypt files on your cloud storage](https://cryptomator.org/)
+- [Niantic Undergoes Layoffs, Cancels Four Games](https://www.ign.com/articles/niantic-undergoes-layoffs-cancels-four-games-pokemon-go)
+- [Effects of Sleep Debt](https://www.nytimes.com/2022/06/24/health/sleep-debt-health.html)
+- [You Can’t Eat Just Any Leaf](https://www.urbo.com/content/this-is-why-you-cant-eat-just-any-leaf/)
+- [Volkswagen enters battery business with $20B investment](https://www.arenaev.com/vw_creates_new_company_and_enters_global_battery_business-news-461.php)
+- [A prompt engineering guide for DALLE-2](https://dallery.gallery/the-dalle-2-prompt-book/)
+- [Open Source Database QuestDB Is Hiring a Cloud Engineer &lpar;K8s, AWS, Argocd&rpar;](https://questdb.io/careers/senior-cloud-engineer/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

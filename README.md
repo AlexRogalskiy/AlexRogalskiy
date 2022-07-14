@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [CRTC orders Rogers to explain its network failure](https://www.itworldcanada.com/article/crtc-asks-rogers-to-explain-its-network-failure/492451)
+- [TCS launches Pace Port Toronto research and innovation centre](https://www.itworldcanada.com/article/tcs-launches-pace-port-toronto-research-and-innovation-centre/492314)
+- [Cyber Security Today, Wednesday July 13th, 2022 – Rogers scams, free decryptors and more…](https://www.itworldcanada.com/article/cyber-security-today-wednesday-july-13th-2022-rogers-scams-free-decryptors-and-more/492288)
+- [Hashtag Trending July 13 – Nikon to shift to mirrorless; Twitter rolls out Unmentioning; beware of Amazon Prime Day scams](https://www.itworldcanada.com/article/hashtag-trending-july-13-nikon-to-shift-to-mirrorless-twitter-rolls-out-unmentioning-beware-of-amazon-prime-day-scams/492375)
 - [Videotron supports Rogers and Shaw in merger dispute](https://www.itworldcanada.com/article/videotron-supports-rogers-and-shaw-in-merger-dispute/492296)
 - [Deloitte launches new security service based on Zero Trust](https://www.itworldcanada.com/article/deloitte-launches-new-security-service-based-on-zero-trust/492156)
 - [Coffee Briefing July 12, 2022 – Beware of Amazon Prime Day scams; first regional EY Entrepreneur of the Year awards announced; one third of social media crypto frauds conducted on Instagram; and more](https://www.itworldcanada.com/article/coffee-briefing-july-12-2022-beware-of-amazon-prime-day-scams-first-regional-ey-entrepreneur-of-the-year-awards-announced-one-third-of-social-media-crypto-frauds-conducted-on-instagram-and-more/492108)
 - [Hashtag Trending July 12 – A look into deep space; Amazon cancer vaccine; Meta citation AI for Wikipedia](https://www.itworldcanada.com/article/hashtag-trending-july-12-a-look-into-deep-space-amazon-cancer-vaccine-meta-citation-ai-for-wikipedia/492214)
 - [Interac outage exacerbated by poor network design, says expert](https://www.itworldcanada.com/article/interac-outage-exacerbated-by-poor-network-design-says-expert/492141)
 - [Champagne orders telcos to produce clear resiliency plan in 60 days](https://www.itworldcanada.com/article/champagne-orders-telcos-to-produce-clear-resiliency-plan-in-60-days/492152)
-- [Adaptavist selects Toronto as its new North American HQ](https://www.itworldcanada.com/article/adaptavist-selects-toronto-as-its-new-north-american-hq/491954)
-- [UPDATED – Class actions filed in Quebec against Rogers following last Friday’s outage](https://www.itworldcanada.com/article/class-action-filed-in-quebec-against-rogers-following-last-fridays-outage/492101)
-- [Cyber Security Today, July 11, 2022 – Mandatory 2FA for the PyPI registry, beware of fake Google software updates and a poor password leads to huge data hack](https://www.itworldcanada.com/article/cyber-security-today-july-11-2022-mandatory-2fa-for-the-pypi-registry-beware-of-fake-google-software-updates-and-a-poor-password-leads-to-huge-data-hack/492039)
-- [Hashtag Trending July 11 – IT issues lower morale, Musk backs out of Twitter deal, FCC wants to stop auto warranty robocalls](https://www.itworldcanada.com/article/hashtag-trending-july-11-it-issues-lower-morale-musk-backs-out-of-twitter-deal-fcc-wants-to-stop-auto-warranty-robocalls/492046)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [First cohort of data science professionals certified by AfDSP](https://www.computerweekly.com/news/252522617/First-cohort-of-data-science-professionals-certified-by-AfDSP)
-- [Brits say social media must do more to block harmful content](https://www.computerweekly.com/news/252522607/Social-media-must-do-more-to-block-harmful-content)
-- [MaliBot Android malware spreading fast, says Check Point](https://www.computerweekly.com/news/252522615/MaliBot-Android-malware-spreading-fast-says-Check-Point)
-- [Schneider Electric reinforces commitment to addressing datacentre skills gap with new courses](https://www.computerweekly.com/news/252522609/Schneider-Electric-reinforces-commitment-to-addressing-datacentre-skills-gap-with-new-courses)
-- [Is time running out for legacy payments technology used by banks?](https://www.computerweekly.com/news/252522603/Is-time-running-out-for-legacy-payments-technology-used-by-banks)
-- [Ransomware and backup: Overcoming the challenges](https://www.computerweekly.com/feature/Ransomware-and-backup-Overcoming-the-challenges)
-- [Ordnance Survey research reveals sustainability projects as hot for software developers](https://www.computerweekly.com/news/252522614/Ordnance-Survey-research-reveals-sustainability-projects-as-hot-for-software-developers)
-- [Microsoft Windows Autopatch now generally available](https://www.computerweekly.com/news/252522608/Microsoft-Windows-Autopatch-now-generally-available)
-- [UKtech50 2022: The most influential people in UK technology](https://www.computerweekly.com/ezine/Computer-Weekly/The-most-influential-people-in-UK-tech)
-- [Whitehall IT veteran Mike Potter returns as new government CDO](https://www.computerweekly.com/news/252522582/Whitehall-IT-veteran-Mike-Potter-returns-as-new-government-CDO)
+- [Met police deploy facial-recognition technology in Oxford Circus](https://www.computerweekly.com/news/252522694/Met-police-deploy-facial-recognition-technology-in-Oxford-Circus)
+- [ING pilot project tests payments from phone to phone](https://www.computerweekly.com/news/252522684/ING-pilot-project-tests-payments-from-phone-to-phone)
+- [Slippery phish wriggles around MFA protections, says Microsoft](https://www.computerweekly.com/news/252522683/Slippery-phish-wriggles-around-MFA-protections-says-Microsoft)
+- [Enterprise interest in sovereign cloud on the rise, Capgemini research suggests](https://www.computerweekly.com/news/252522678/Enterprise-interest-in-sovereign-cloud-on-the-rise-Capgemini-research-suggests)
+- [Digital break-up kit to help women get out of bad relationships safely](https://www.computerweekly.com/news/252522679/Digital-break-up-kit-to-help-women-get-out-of-bad-relationships-safely)
+- [Nominate: Most Influential Women in UK Technology 2022](https://www.computerweekly.com/news/252522630/Nominate-Most-Influential-Women-in-UK-Technology-2022)
+- [July Patch Tuesday brings more than 80 fixes, one zero-day](https://www.computerweekly.com/news/252522676/July-Patch-Tuesday-brings-more-than-80-fixes-one-zero-day)
+- [Delta Airlines signs multi-year cloud deal with AWS as customer experience revamp gathers pace](https://www.computerweekly.com/news/252522672/Delta-Airlines-signs-multi-year-cloud-deal-with-AWS-as-customer-experience-revamp-gathers-pace)
+- [Goldman Sachs hires Google incubator founder](https://www.computerweekly.com/news/252522675/Goldman-Sachs-hires-Google-incubator-founder)
+- [ICO calls for review into government use of private email and WhatsApp messages](https://www.computerweekly.com/news/252522653/ICO-calls-for-review-into-government-use-of-private-email-and-WhatsApp-messages)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

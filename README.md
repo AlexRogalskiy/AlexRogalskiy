@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Police remove two Chinese defence attaches from Pacific Islands Forum meeting](https://www.theguardian.com/world/2022/jul/13/two-chinese-defence-attaches-removed-from-pacific-islands-forum-meeting)
-- [The Uber Files: the drivers &lpar;part 3&rpar; - podcast](https://www.theguardian.com/news/audio/2022/jul/13/the-uber-files-the-drivers-part-3-podcast)
-- [New Zealand’s Lake Taupō supervolcano still very active, study finds](https://www.theguardian.com/world/2022/jul/13/new-zealands-lake-taupo-supervolcano-still-very-active-study-finds)
-- [‘Have you recently had an abortion?’ Australian transiting through US questioned then deported](https://www.theguardian.com/australia-news/2022/jul/13/have-you-recently-had-an-abortion-australian-transiting-through-us-questioned-then-deported)
-- [Russia-Ukraine war update: what we know on day 140 of the invasion](https://www.theguardian.com/world/2022/jul/13/russia-ukraine-war-update-what-we-know-on-day-140-of-the-invasion)
-- [Average UK household £8,800 a year worse off than those in France or Germany](https://www.theguardian.com/business/2022/jul/13/average-uk-household-8800-a-year-worse-off-than-those-in-france-or-germany)
-- [NHS to miss out on recruiting thousands of nurses if BTecs are scrapped](https://www.theguardian.com/education/2022/jul/13/nhs-to-miss-out-on-recruiting-thousands-of-nurses-if-btecs-are-scrapped)
-- [V&amp;A to stage UK’s first major exhibition of Korean culture](https://www.theguardian.com/artanddesign/2022/jul/13/va-to-stage-uks-first-major-exhibition-of-korean-culture)
-- [Covid-hit Coral Princess cruise ship docks in Sydney](https://www.theguardian.com/australia-news/2022/jul/13/covid-hit-coral-princess-cruise-ship-docks-in-sydney)
-- [Twitter sues Elon Musk over bid to exit $44bn takeover deal](https://www.theguardian.com/technology/2022/jul/12/twitter-sues-elon-musk-over-bid-to-exit-44bn-takeover-deal)
+- [Kate Bush praises Brisbane choir’s ‘utterly wonderful’ Running Up That Hill cover](https://www.theguardian.com/music/2022/jul/14/kate-bush-praises-brisbane-choirs-utterly-wonderful-running-up-that-hill-cover)
+- [Celsius Networks: cryptocurrency lender files for bankruptcy](https://www.theguardian.com/technology/2022/jul/14/celsius-networks-cryptocurrency-lender-files-for-bankruptcy)
+- [The race for Tory leadership | podcast](https://www.theguardian.com/news/audio/2022/jul/14/the-race-for-tory-leadership)
+- [Sri Lanka: PM orders military to do ‘whatever it takes’ to maintain order](https://www.theguardian.com/world/2022/jul/13/sri-lanka-protesters-unrest-president-gatabaya-rajapaksa-flees-quit-economy-unrest)
+- [Turkey announces deal with Ukraine, Russia and UN aimed at resuming grain exports](https://www.theguardian.com/world/2022/jul/14/turkey-announces-deal-with-ukraine-russia-and-un-aimed-at-resuming-grain-exports)
+- [Solomon Islands PM rules out China military base and says Australia is ‘security partner of choice’](https://www.theguardian.com/world/2022/jul/14/solomon-islands-pm-rules-out-chinese-military-base-china-australia-security-partner-manasseh-sogavare)
+- [George Pell: father of former choirboy files civil claim against cardinal and Catholic church](https://www.theguardian.com/australia-news/2022/jul/14/george-pell-father-of-former-choirboy-files-civil-claim-against-cardinal-and-catholic-church)
+- [Russia-Ukraine war update: what we know on day 141 of the invasion](https://www.theguardian.com/world/2022/jul/14/russia-ukraine-war-update-what-we-know-on-day-141-of-the-invasion)
+- [Ohio man charged with raping girl, 10, who was forced to travel for abortion](https://www.theguardian.com/us-news/2022/jul/13/ohio-rape-abortion-indiana)
+- [Hospital patients being treated in corridors and waiting areas, says RCN](https://www.theguardian.com/society/2022/jul/14/hospital-patients-being-treated-in-corridors-and-waiting-areas-says-rcn)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

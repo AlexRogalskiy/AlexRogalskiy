@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Rolling your own crypto: Everything you need to build AES from scratch](https://github.com/francisrstokes/githublog/blob/main/2022/6/15/rolling-your-own-crypto-aes.md)
-- [Airbus A380 Completes Flight Powered by Cooking Oil](https://hackaday.com/2022/07/12/airbus-a380-completes-flight-powered-by-cooking-oil/)
-- [Realtime Inequality](https://realtimeinequality.org/)
-- [Bleep: Organize Your Life Visually](https://www.bleep.is/)
-- [I Don&#39;t Like Mondays](https://en.wikipedia.org/wiki/I_Don%27t_Like_Mondays)
-- [Study on how much less  older members of Parliament care about climate change](https://link.springer.com/article/10.1007/s44168-022-00017-2)
-- [Largest startup funding rounds of 2022 so far](https://www.employbl.com/blog/usa-startup-funding-report-2022-largest-early-stage)
-- [Covid-19 mystery: Why some people get it and others don&#39;t [video]](https://www.youtube.com/watch?v=wdszy6Q32fQ)
-- [Ice Trade](https://en.wikipedia.org/wiki/Ice_trade)
-- [Google CEO Pichai: company will slow hiring through 2023 in memo to employees](https://www.cnbc.com/2022/07/12/google-says-it-will-slow-hiring-through-2023-in-memo-to-employees.html)
+- [Learning the Elite Class](https://aella.substack.com/p/learning-the-elite-class)
+- [Musk responds to &#39;Grifter&#39; Classification by Dogecoin Co-Creator](https://decrypt.co/101789/elon-musk-fires-back-dogecoin-co-creator-grifter-claims)
+- [Element &lpar;Matrix&rpar; adds video/voice rooms](https://element.io/blog/drop-in-drop-out-chats-with-video-rooms-and-a-new-search-experience/)
+- [Show HN: Near-Real-Time Voice Chat Moderation that my startup made](https://www.preamble.com/products#voice-chat-moderation)
+- [First-ever Gitea comment on an issue from a remote instance](https://social.exozy.me/@ta180m/108631221939677386)
+- [My Chronology of Color LEDs &lpar;2012&rpar;](https://erictb.wordpress.com/2012/06/21/my-chronology-of-color-leds/)
+- [You Won’t Live Longer by Diet or Exercise Alone, Study Says](https://www.nytimes.com/2022/07/13/well/move/exercise-diet-disease.html)
+- [Pernosco: Fast, Fun, Omniscient Debugging](https://pernos.co/)
+- [Please go away, Tim Berners-Lee &lpar;2019&rpar;](https://matthewbutterick.com/chron/please-go-away-tim-berners-lee.html)
+- [The Animal Crisis Is a Human Crisis](https://bostonreview.net/articles/the-animal-crisis-is-a-human-crisis/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

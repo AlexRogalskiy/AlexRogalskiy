@@ -369,6 +369,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [IBM Databand.ai Acquisition Targets Data Observability](https://www.informationweek.com/big-data/ibm-databand-ai-acquisition-targets-data-observability)
+- [Investing in Integration Frameworks: Benefits and Best Practices](https://www.informationweek.com/software/investing-in-integration-frameworks-benefits-and-best-practices)
 - [Cloud, Data, and Political Protests Mark the 2022 AWS Summit](https://www.informationweek.com/cloud/cloud-data-and-political-protests-mark-the-2022-aws-summit)
 - [Ineffective Change Management &lpar;or the Short Shelf Life of Some CIOs&rpar;](https://www.informationweek.com/strategic-cio/ineffective-change-management-or-the-short-shelf-life-of-some-cios-)
 - [3 Ways to Empower Your Teams &lpar;and Why Needed More than Ever Now&rpar;](https://www.informationweek.com/strategic-cio/3-ways-to-empower-your-teams-and-why-needed-more-than-ever-now)
@@ -377,8 +379,6 @@
 - [What the US Supreme Court Ruling on the EPA Means for ESG](https://www.informationweek.com/big-data/what-the-us-supreme-court-ruling-on-the-epa-means-for-esg)
 - [APIs Do More Than Just Carry Data](https://www.informationweek.com/devops/apis-do-more-than-just-carry-data)
 - [June 2022 Global Tech Policy Bulletin: From USB-C Chargers to Supreme Court](https://www.informationweek.com/government/june-2022-tech-policy-bulletin-from-usb-c-chargers-supreme-court)
-- [Graph Databases: What They Are and How to Get Started](https://www.informationweek.com/big-data/graph-databases-what-they-are-and-how-to-get-started)
-- [3 Ways to Avoid Gender Bias From Showing up in Your Products](https://www.informationweek.com/software/3-ways-to-avoid-gender-bias-from-showing-up-in-your-products)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

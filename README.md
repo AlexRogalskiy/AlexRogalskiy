@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Videogame maker Bandai Namco confirms cyber attack](https://www.computerweekly.com/news/252522744/Videogame-maker-Bandai-Namco-confirms-cyber-attack)
+- [How hostile government APTs target journalists for cyber intrusions](https://www.computerweekly.com/news/252522742/How-hostile-government-APTs-target-journalists-for-cyber-intrusions)
+- [Netflix selects Microsoft as tech partner to build out its ad-supported subscription tier](https://www.computerweekly.com/news/252522739/Netflix-selects-Microsoft-as-tech-partner-to-build-out-its-ad-supported-subscription-tier)
+- [Government pauses Online Safety Bill’s progress](https://www.computerweekly.com/news/252522737/Government-pauses-Online-Safety-Bills-progress)
+- [ICO wants to ‘empower people through information’](https://www.computerweekly.com/news/252522734/ICO-wants-to-empower-people-through-information)
+- [Bloomberg CTO interview: Computer Weekly Downtime Upload podcast](https://www.computerweekly.com/podcast/Bloomberg-CTO-interview-Computer-Weekly-Downtime-Upload-podcast)
+- [Gartner: Software sales defy economic outlook](https://www.computerweekly.com/news/252522690/Gartner-Software-sales-defy-economic-outlook)
+- [EC urged to rejig green power strategy to include greater use of energy storage tech](https://www.computerweekly.com/news/252522688/EC-urged-to-rejig-green-power-strategy-to-include-greater-use-of-energy-storage-tech)
 - [Met police deploy facial-recognition technology in Oxford Circus](https://www.computerweekly.com/news/252522694/Met-police-deploy-facial-recognition-technology-in-Oxford-Circus)
 - [ING pilot project tests payments from phone to phone](https://www.computerweekly.com/news/252522684/ING-pilot-project-tests-payments-from-phone-to-phone)
-- [Slippery phish wriggles around MFA protections, says Microsoft](https://www.computerweekly.com/news/252522683/Slippery-phish-wriggles-around-MFA-protections-says-Microsoft)
-- [Enterprise interest in sovereign cloud on the rise, Capgemini research suggests](https://www.computerweekly.com/news/252522678/Enterprise-interest-in-sovereign-cloud-on-the-rise-Capgemini-research-suggests)
-- [Digital break-up kit to help women get out of bad relationships safely](https://www.computerweekly.com/news/252522679/Digital-break-up-kit-to-help-women-get-out-of-bad-relationships-safely)
-- [Nominate: Most Influential Women in UK Technology 2022](https://www.computerweekly.com/news/252522630/Nominate-Most-Influential-Women-in-UK-Technology-2022)
-- [July Patch Tuesday brings more than 80 fixes, one zero-day](https://www.computerweekly.com/news/252522676/July-Patch-Tuesday-brings-more-than-80-fixes-one-zero-day)
-- [Delta Airlines signs multi-year cloud deal with AWS as customer experience revamp gathers pace](https://www.computerweekly.com/news/252522672/Delta-Airlines-signs-multi-year-cloud-deal-with-AWS-as-customer-experience-revamp-gathers-pace)
-- [Goldman Sachs hires Google incubator founder](https://www.computerweekly.com/news/252522675/Goldman-Sachs-hires-Google-incubator-founder)
-- [ICO calls for review into government use of private email and WhatsApp messages](https://www.computerweekly.com/news/252522653/ICO-calls-for-review-into-government-use-of-private-email-and-WhatsApp-messages)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

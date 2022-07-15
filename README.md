@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Podcast: The M2 MacBook Air reviews are in](https://www.computerworld.com/article/3667312/podcast-the-m2-macbook-air-reviews-are-in.html#tk.rss_all)
+- [Mobile convergence accelerates as &#39;Tap to Pay&#39; dings US retail](https://www.computerworld.com/article/3667272/mobile-convergence-accelerates-as-tap-to-pay-dings-us-retail.html#tk.rss_all)
+- [BrandPost: The Future of Apple Endpoint Software is Here and Mosyle Is Leading the Way](https://www.computerworld.com/article/3666735/the-future-of-apple-endpoint-software-is-here-and-mosyle-is-leading-the-way.html#tk.rss_all)
+- [Why open-plan offices are a disaster for your company](https://www.computerworld.com/article/3666739/why-open-plan-offices-are-a-disaster-for-your-company.html#tk.rss_all)
+- [Remote work spurs a national wage leveling in tech](https://www.computerworld.com/article/3666740/remote-work-spurs-a-national-wage-leveling-in-tech.html#tk.rss_all)
 - [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
 - [The future of work is a tech &lpar;and management&rpar; challenge](https://www.computerworld.com/article/3666496/the-future-of-work-is-a-tech-and-management-challenge.html#tk.rss_all)
 - [Miro integrates with Google Meet to boost hybrid collaboration](https://www.computerworld.com/article/3666593/miro-integrates-with-google-meet-to-boost-hybrid-collaboration.html#tk.rss_all)
 - [Drop, crack, d&#39;oh! My broken Android phone epiphany](https://www.computerworld.com/article/3666952/broken-android-phone.html#tk.rss_all)
 - [Q&amp;A: Schneider Electric&#39;s North American CIO on how her company attracts, retains talent](https://www.computerworld.com/article/3666494/schneider-electric-north-american-cio-on-how-the-company-attracts-and-retains-talent.html#tk.rss_all)
-- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
-- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
-- [Tech event calendar 2022: Upcoming US shows, conferences, and IT expos](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
-- [Apple’s Car ride &lpar;likely&rpar; shows augmentation beats automation](https://www.computerworld.com/article/3666955/apples-car-ride-likely-shows-augmentation-beats-automation.html#tk.rss_all)
-- [Where, oh where are the new hires?](https://www.computerworld.com/article/3666953/where-oh-where-are-the-new-hires.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

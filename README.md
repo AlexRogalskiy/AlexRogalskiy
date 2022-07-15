@@ -384,16 +384,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Rocky Linux 9.0 rocks new build system](https://www.infoworld.com/article/3667308/rocky-linux-90-rocks-new-build-system.html#tk.rss_all)
+- [StarRocks launches managed DBaaS for real-time analytics](https://www.infoworld.com/article/3667370/starrocks-launches-managed-dbaas-for-real-time-analytics.html#tk.rss_all)
+- [Microsoft .NET 7 will include rate limiting](https://www.infoworld.com/article/3667310/microsoft-net-7-will-include-rate-limiting.html#tk.rss_all)
+- [What is Quarto? RStudio quietly rolls out next-generation R Markdown](https://www.infoworld.com/article/3666743/what-is-quarto-rstudio-quietly-rolls-out-next-generation-r-markdown.html#tk.rss_all)
+- [Intro to Pure CSS: Minimal, modular CSS layouts](https://www.infoworld.com/article/3666510/intro-to-pure-css-minimal-modular-css-layouts.html#tk.rss_all)
+- [How to work with a priority queue in .NET 6](https://www.infoworld.com/article/3666499/how-to-work-with-a-priority-queue-in-net-6.html#tk.rss_all)
 - [Google Cloud targets high performance workloads with Arm-based VMs and Batch job scheduling](https://www.infoworld.com/article/3666527/google-cloud-adds-arm-based-vms-and-automated-job-scheduling.html#tk.rss_all)
 - [Azure Artifacts helps you standardize on packages and modules](https://www.infoworld.com/article/3666733/azure-artifacts-helps-you-standardize-on-packages-and-modules.html#tk.rss_all)
 - [Nvidia unveils QODA for hybrid quantum-classical computing](https://www.infoworld.com/article/3666698/nvidia-unveils-qoda-for-hybrid-quantum-classical-computing.html#tk.rss_all)
 - [ASGI explained: The future of Python web development](https://www.infoworld.com/article/3658336/asgi-explained-the-future-of-python-web-development.html#tk.rss_all)
-- [IBM Red Hat names Matt Hicks as president and CEO](https://www.infoworld.com/article/3666595/ibm-red-hat-names-matt-hicks-as-president-and-ceo.html#tk.rss_all)
-- [Microsoft updates Visual Studio Code, unveils VS Code Server](https://www.infoworld.com/article/3666521/microsoft-streamlining-remote-dev-for-vs-code.html#tk.rss_all)
-- [How resilient are digital transformation budgets?](https://www.infoworld.com/article/3666515/how-resilient-are-digital-transformation-budgets.html#tk.rss_all)
-- [Software developers have a supply chain security problem](https://www.infoworld.com/article/3663689/software-developers-have-a-supply-chain-security-problem.html#tk.rss_all)
-- [Why you should modernize search technologies](https://www.infoworld.com/article/3666808/why-you-should-modernize-search-technologies.html#tk.rss_all)
-- [Open source job security through recessions](https://www.infoworld.com/article/3666732/open-source-job-security-through-recessions.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

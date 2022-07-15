@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Learning the Elite Class](https://aella.substack.com/p/learning-the-elite-class)
-- [Musk responds to &#39;Grifter&#39; Classification by Dogecoin Co-Creator](https://decrypt.co/101789/elon-musk-fires-back-dogecoin-co-creator-grifter-claims)
-- [Element &lpar;Matrix&rpar; adds video/voice rooms](https://element.io/blog/drop-in-drop-out-chats-with-video-rooms-and-a-new-search-experience/)
-- [Show HN: Near-Real-Time Voice Chat Moderation that my startup made](https://www.preamble.com/products#voice-chat-moderation)
-- [First-ever Gitea comment on an issue from a remote instance](https://social.exozy.me/@ta180m/108631221939677386)
-- [My Chronology of Color LEDs &lpar;2012&rpar;](https://erictb.wordpress.com/2012/06/21/my-chronology-of-color-leds/)
-- [You Won’t Live Longer by Diet or Exercise Alone, Study Says](https://www.nytimes.com/2022/07/13/well/move/exercise-diet-disease.html)
-- [Pernosco: Fast, Fun, Omniscient Debugging](https://pernos.co/)
-- [Please go away, Tim Berners-Lee &lpar;2019&rpar;](https://matthewbutterick.com/chron/please-go-away-tim-berners-lee.html)
-- [The Animal Crisis Is a Human Crisis](https://bostonreview.net/articles/the-animal-crisis-is-a-human-crisis/)
+- [Marketing Docs Are Not Written for Engineers](https://ethancbanks.com/marketing-docs-are-not-written-for-engineers/)
+- [Belt Cleaner](https://www.conveyorsplicing.com/)
+- [Ask HN: Siri&#39;s iOS calendar reminder notifications are neat, which team was it?](https://news.ycombinator.com/item?id=32104394)
+- [Why Does Everyone Have IBS?](https://www.thedriftmag.com/sick-to-our-stomachs/)
+- [Observability: What to Instrument?](https://www.chrisarmstrong.dev/posts/observability-what-to-instrument/)
+- [Microsoft moves to new Windows development cycle](https://www.windowscentral.com/software-apps/windows-11/microsoft-moves-to-new-windows-development-cycle-with-major-release-every-three-years-feature-drops-in-between)
+- [MBS’s $500B Desert Dream Just Keeps Getting Weirder](https://www.bloomberg.com/features/2022-mbs-neom-saudi-arabia/)
+- [Ask HN: Should Show HN posts be links or text?](https://news.ycombinator.com/item?id=32104343)
+- [Benchmarking The Linux 5.19 Kernel Built With “-O3 -march=native”](https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.19-O3-March-Native)
+- [The ‘Shamanification’ of the Tech CEO](https://www.wired.com/story/health-business-deprivation-technology/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

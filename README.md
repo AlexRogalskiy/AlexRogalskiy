@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Books to read to understand financial crime](https://www.economist.com/the-economist-reads/2022/07/11/the-best-books-to-read-to-understand-financial-crime)
-- [Saskatchewan, Ontario to roll out mini-nuclear reactors](https://www.westerninvestor.com/british-columbia/saskatchewan-ontario-to-roll-out-mini-nuclear-reactors-5568249)
-- [We must protect our ability to transact privately online &lpar;2019&rpar;](https://www.coincenter.org/we-must-protect-our-ability-to-transact-privately-online/)
-- [Cryptomator – Encrypt files on your cloud storage](https://cryptomator.org/)
-- [Niantic Undergoes Layoffs, Cancels Four Games](https://www.ign.com/articles/niantic-undergoes-layoffs-cancels-four-games-pokemon-go)
-- [Effects of Sleep Debt](https://www.nytimes.com/2022/06/24/health/sleep-debt-health.html)
-- [You Can’t Eat Just Any Leaf](https://www.urbo.com/content/this-is-why-you-cant-eat-just-any-leaf/)
-- [Volkswagen enters battery business with $20B investment](https://www.arenaev.com/vw_creates_new_company_and_enters_global_battery_business-news-461.php)
-- [A prompt engineering guide for DALLE-2](https://dallery.gallery/the-dalle-2-prompt-book/)
-- [Open Source Database QuestDB Is Hiring a Cloud Engineer &lpar;K8s, AWS, Argocd&rpar;](https://questdb.io/careers/senior-cloud-engineer/)
+- [We discovered a 7-year old performance Issue in Elixir &lpar;2020&rpar;](https://code.tubitv.com/how-we-discovered-a-7-year-old-performance-issue-in-elixir-99080bdce9a1?gi=42c77b46207b)
+- [Sirum &lpar;YC W15 nonprofit&rpar; is hiring engineers and pharmacy technicians](https://news.ycombinator.com/item?id=32103342)
+- [Solar Car Will Soon Hit Production–and It Only Costs $25,900](https://singularityhub.com/2022/07/14/this-solar-car-will-soon-hit-production-and-it-only-costs-25900/)
+- [We discovered a 7-year old performance issue in Elixir &lpar;2020&rpar;](https://code.tubitv.com/how-we-discovered-a-7-year-old-performance-issue-in-elixir-99080bdce9a1?gi=60329427cb38)
+- [The Dhall Configuration Language](https://dhall-lang.org/)
+- [Celsius acknowledges $1.2B hole in balance sheet](https://www.coindesk.com/business/2022/07/14/celsius-acknowledges-12b-hole-in-balance-sheet/)
+- [Microsoft Windows Network File System v4 Remote Code Execution](https://www.thezdi.com/blog/2022/7/13/cve-2022-30136-microsoft-windows-network-file-system-v4-remote-code-execution-vulnerability)
+- [Hot Reloading in Swift](https://www.merowing.info/hot-reloading-in-swift/)
+- [Lessons from Writing a Compiler](https://borretti.me/article/lessons-writing-compiler)
+- [I disagree with Turing and Kahneman regarding statistical evidence &lpar;2014&rpar;](https://statmodeling.stat.columbia.edu/2014/09/03/disagree-alan-turing-daniel-kahneman-regarding-strength-statistical-evidence/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

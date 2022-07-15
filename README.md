@@ -414,6 +414,8 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Master degree or just certifications?](https://www.reddit.com/r/InformationTechnology/comments/vzbdyh/master_degree_or_just_certifications/)
+- [Wifi speeds](https://www.reddit.com/r/InformationTechnology/comments/vz5b4a/wifi_speeds/)
 - [Online courses/Videos for Comptia A+?](https://www.reddit.com/r/InformationTechnology/comments/vydhk1/online_coursesvideos_for_comptia_a/)
 - [DoS &amp; DDoS Attacks Explained](https://www.reddit.com/r/InformationTechnology/comments/vy7u6s/dos_ddos_attacks_explained/)
 - [Where to go from helpdesk job](https://www.reddit.com/r/InformationTechnology/comments/vy712h/where_to_go_from_helpdesk_job/)
@@ -422,8 +424,6 @@
 - [How can I make $80000 in a year time from todat](https://www.reddit.com/r/InformationTechnology/comments/vxrxhz/how_can_i_make_80000_in_a_year_time_from_todat/)
 - [Account](https://www.reddit.com/r/InformationTechnology/comments/vxrpel/account/)
 - [Feeling hopeless, any advice?](https://www.reddit.com/r/InformationTechnology/comments/vxlup0/feeling_hopeless_any_advice/)
-- [Website re-direct code question &lpar;not sure if correct sub&rpar;](https://www.reddit.com/r/InformationTechnology/comments/vwr1dj/website_redirect_code_question_not_sure_if/)
-- [Anyone interested in reading daily IT blogs and updates?](https://www.reddit.com/r/InformationTechnology/comments/vwio76/anyone_interested_in_reading_daily_it_blogs_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

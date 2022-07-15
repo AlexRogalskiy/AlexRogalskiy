@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Kate Bush praises Brisbane choir’s ‘utterly wonderful’ Running Up That Hill cover](https://www.theguardian.com/music/2022/jul/14/kate-bush-praises-brisbane-choirs-utterly-wonderful-running-up-that-hill-cover)
-- [Celsius Networks: cryptocurrency lender files for bankruptcy](https://www.theguardian.com/technology/2022/jul/14/celsius-networks-cryptocurrency-lender-files-for-bankruptcy)
-- [The race for Tory leadership | podcast](https://www.theguardian.com/news/audio/2022/jul/14/the-race-for-tory-leadership)
-- [Sri Lanka: PM orders military to do ‘whatever it takes’ to maintain order](https://www.theguardian.com/world/2022/jul/13/sri-lanka-protesters-unrest-president-gatabaya-rajapaksa-flees-quit-economy-unrest)
-- [Turkey announces deal with Ukraine, Russia and UN aimed at resuming grain exports](https://www.theguardian.com/world/2022/jul/14/turkey-announces-deal-with-ukraine-russia-and-un-aimed-at-resuming-grain-exports)
-- [Solomon Islands PM rules out China military base and says Australia is ‘security partner of choice’](https://www.theguardian.com/world/2022/jul/14/solomon-islands-pm-rules-out-chinese-military-base-china-australia-security-partner-manasseh-sogavare)
-- [George Pell: father of former choirboy files civil claim against cardinal and Catholic church](https://www.theguardian.com/australia-news/2022/jul/14/george-pell-father-of-former-choirboy-files-civil-claim-against-cardinal-and-catholic-church)
-- [Russia-Ukraine war update: what we know on day 141 of the invasion](https://www.theguardian.com/world/2022/jul/14/russia-ukraine-war-update-what-we-know-on-day-141-of-the-invasion)
-- [Ohio man charged with raping girl, 10, who was forced to travel for abortion](https://www.theguardian.com/us-news/2022/jul/13/ohio-rape-abortion-indiana)
-- [Hospital patients being treated in corridors and waiting areas, says RCN](https://www.theguardian.com/society/2022/jul/14/hospital-patients-being-treated-in-corridors-and-waiting-areas-says-rcn)
+- [China’s economic growth slumps sharply after Covid lockdowns](https://www.theguardian.com/business/2022/jul/15/chinas-quarterly-economic-growth-slumps-sharply-after-covid-lockdowns)
+- [Is Britain’s Homes for Ukraine scheme working?](https://www.theguardian.com/news/audio/2022/jul/15/is-britains-homes-for-ukraine-scheme-working-podcast)
+- [Antarctica bathed in dazzling colours in afterglow of Tonga eruption](https://www.theguardian.com/world/2022/jul/15/antarctica-bathed-in-dazzling-colours-in-afterglow-of-tonga-eruption)
+- [Woman who accused Emmett Till says she didn’t want him dead in memoir](https://www.theguardian.com/us-news/2022/jul/14/emmett-till-accuser-harm-memoir)
+- [Elephant and baby saved in dramatic rescue from manhole in Thailand](https://www.theguardian.com/world/2022/jul/15/elephant-and-baby-saved-in-dramatic-rescue-from-manhole-in-thailand)
+- [Russia-Ukraine war update: what we know on day 142 of the invasion](https://www.theguardian.com/world/2022/jul/15/russia-ukraine-war-update-what-we-know-on-day-142-of-the-invasion)
+- [Zelenskiy condemns Russian ‘terrorism’ as Vinnytsia attack kills more than 20](https://www.theguardian.com/world/2022/jul/14/russian-missiles-kill-ukrainian-city-vinnytsia)
+- [Secret Service agents’ January 6 texts were erased after oversight request](https://www.theguardian.com/us-news/2022/jul/14/us-secret-service-agents-texts-erased-january-6)
+- [Victims of historic forced adoption deserve apology, ministers told](https://www.theguardian.com/society/2022/jul/15/victims-of-historic-forced-adoption-deserve-apology-ministers-told)
+- [Jack Absolute Flies Again review – wartime comedy of manners fails to take off](https://www.theguardian.com/stage/2022/jul/15/jack-absolute-flies-again-review-wartime-comedy-of-manners-fails-to-take-off)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

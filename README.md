@@ -399,6 +399,9 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [NHS trust ‘deliberately’ deleted up to 90,000 emails before tribunal hearing](https://www.computerweekly.com/news/252522787/NHS-trust-deliberately-deleted-up-to-90000-emails-before-tribunal-hearing)
+- [Drivers’ union calls for immediate dismissal of Uber executive](https://www.computerweekly.com/news/252522795/Drivers-union-calls-for-immediate-dismissal-of-Uber-executive)
+- [Log4Shell on its way to becoming ‘endemic’](https://www.computerweekly.com/news/252522789/Log4Shell-on-its-way-to-becoming-endemic)
 - [Videogame maker Bandai Namco confirms cyber attack](https://www.computerweekly.com/news/252522744/Videogame-maker-Bandai-Namco-confirms-cyber-attack)
 - [How hostile government APTs target journalists for cyber intrusions](https://www.computerweekly.com/news/252522742/How-hostile-government-APTs-target-journalists-for-cyber-intrusions)
 - [Netflix selects Microsoft as tech partner to build out its ad-supported subscription tier](https://www.computerweekly.com/news/252522739/Netflix-selects-Microsoft-as-tech-partner-to-build-out-its-ad-supported-subscription-tier)
@@ -406,9 +409,6 @@
 - [ICO wants to ‘empower people through information’](https://www.computerweekly.com/news/252522734/ICO-wants-to-empower-people-through-information)
 - [Bloomberg CTO interview: Computer Weekly Downtime Upload podcast](https://www.computerweekly.com/podcast/Bloomberg-CTO-interview-Computer-Weekly-Downtime-Upload-podcast)
 - [Gartner: Software sales defy economic outlook](https://www.computerweekly.com/news/252522690/Gartner-Software-sales-defy-economic-outlook)
-- [EC urged to rejig green power strategy to include greater use of energy storage tech](https://www.computerweekly.com/news/252522688/EC-urged-to-rejig-green-power-strategy-to-include-greater-use-of-energy-storage-tech)
-- [Met police deploy facial-recognition technology in Oxford Circus](https://www.computerweekly.com/news/252522694/Met-police-deploy-facial-recognition-technology-in-Oxford-Circus)
-- [ING pilot project tests payments from phone to phone](https://www.computerweekly.com/news/252522684/ING-pilot-project-tests-payments-from-phone-to-phone)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

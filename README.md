@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [College or Experience](https://www.reddit.com/r/InformationTechnology/comments/w04q1i/college_or_experience/)
+- [What is Command Line ETL?](https://www.reddit.com/r/InformationTechnology/comments/w005ou/what_is_command_line_etl/)
+- [Potential of business!!!?](https://www.reddit.com/r/InformationTechnology/comments/vzynij/potential_of_business/)
+- [Can a MacBook Pro &lpar;15-inch,2017&rpar; charge/maintain battery levels with a 28W Solar Charger&lpar;5V/4.8A Max&rpar;? VIA USB to Type C.](https://www.reddit.com/r/InformationTechnology/comments/vzyjdz/can_a_macbook_pro_15inch2017_chargemaintain/)
+- [Advice for when management asks to implement a new system but production workers refuse to cooperate with you?](https://www.reddit.com/r/InformationTechnology/comments/vzxkah/advice_for_when_management_asks_to_implement_a/)
+- [Remote work setups/recommendations for developers and researchers?](https://www.reddit.com/r/InformationTechnology/comments/vzjq00/remote_work_setupsrecommendations_for_developers/)
 - [Master degree or just certifications?](https://www.reddit.com/r/InformationTechnology/comments/vzbdyh/master_degree_or_just_certifications/)
 - [Wifi speeds](https://www.reddit.com/r/InformationTechnology/comments/vz5b4a/wifi_speeds/)
 - [Online courses/Videos for Comptia A+?](https://www.reddit.com/r/InformationTechnology/comments/vydhk1/online_coursesvideos_for_comptia_a/)
 - [DoS &amp; DDoS Attacks Explained](https://www.reddit.com/r/InformationTechnology/comments/vy7u6s/dos_ddos_attacks_explained/)
-- [Where to go from helpdesk job](https://www.reddit.com/r/InformationTechnology/comments/vy712h/where_to_go_from_helpdesk_job/)
-- [Office network without a Domain Controller??](https://www.reddit.com/r/InformationTechnology/comments/vy4zcn/office_network_without_a_domain_controller/)
-- [Free4All Information Technology and Cyber Security Resources](https://www.reddit.com/r/InformationTechnology/comments/vxz1bf/free4all_information_technology_and_cyber/)
-- [How can I make $80000 in a year time from todat](https://www.reddit.com/r/InformationTechnology/comments/vxrxhz/how_can_i_make_80000_in_a_year_time_from_todat/)
-- [Account](https://www.reddit.com/r/InformationTechnology/comments/vxrpel/account/)
-- [Feeling hopeless, any advice?](https://www.reddit.com/r/InformationTechnology/comments/vxlup0/feeling_hopeless_any_advice/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

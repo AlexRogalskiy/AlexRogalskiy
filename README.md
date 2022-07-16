@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [U of G receives $1M donation to launch ethical AI training modules](https://www.itworldcanada.com/article/u-of-g-receives-1m-donation-to-launch-ethical-ai-training-modules/492742)
+- [Log4j vulnerability has reached endemic proportions, says report](https://www.itworldcanada.com/article/log4j-vulnerability-has-reached-endemic-proportions-says-report/492741)
+- [Cyber Security Today, Week in Review for Friday July 15, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-july-15-2022/492206)
+- [Study reveals dark data impeding successful DataOps strategies](https://www.itworldcanada.com/article/study-reveals-dark-data-impeding-successful-dataops-strategies/492688)
+- [Cyber Security Today – Friday, July 15, 2022 Quickbooks, credit card and new data scams](https://www.itworldcanada.com/article/cyber-security-today-quickbooks-credit-card-and-new-data-scams/492615)
+- [Hashtag Trending July 15 – Panasonic’s new battery plant; U.S. starting to allocate the broadband fund; Uber harassment lawsuit](https://www.itworldcanada.com/article/hashtag-trending-july-15-panasonics-new-battery-plant-u-s-starting-to-allocate-the-broadband-fund-uber-harassment-lawsuit/492660)
 - [The journey to make a difference](https://www.itworldcanada.com/article/the-journey-to-make-a-difference/492643)
 - [ISED grants advance contract to SamKnows to measure fixed wireless internet speeds in Canada](https://www.itworldcanada.com/article/ised-grants-advance-contract-to-samknows-to-measure-fixed-wireless-internet-speeds-in-canada/492575)
 - [Twitter back after a major outage](https://www.itworldcanada.com/article/twitter-back-after-a-major-outage/492594)
 - [Hashtag Trending July 14 – Netflix partners with Microsoft; TikTok more popular than YouTube; Tesla loses its AI director](https://www.itworldcanada.com/article/hashtag-trending-july-14-netflix-partners-with-microsoft-tiktok-more-popular-than-youtube-tesla-loses-its-ai-director/492512)
-- [CRTC orders Rogers to explain its network failure](https://www.itworldcanada.com/article/crtc-asks-rogers-to-explain-its-network-failure/492451)
-- [TCS launches Pace Port Toronto research and innovation centre](https://www.itworldcanada.com/article/tcs-launches-pace-port-toronto-research-and-innovation-centre/492314)
-- [Cyber Security Today, Wednesday July 13th, 2022 – Rogers scams, free decryptors and more…](https://www.itworldcanada.com/article/cyber-security-today-wednesday-july-13th-2022-rogers-scams-free-decryptors-and-more/492288)
-- [Hashtag Trending July 13 – Nikon to shift to mirrorless; Twitter rolls out Unmentioning; beware of Amazon Prime Day scams](https://www.itworldcanada.com/article/hashtag-trending-july-13-nikon-to-shift-to-mirrorless-twitter-rolls-out-unmentioning-beware-of-amazon-prime-day-scams/492375)
-- [Videotron supports Rogers and Shaw in merger dispute](https://www.itworldcanada.com/article/videotron-supports-rogers-and-shaw-in-merger-dispute/492296)
-- [Deloitte launches new security service based on Zero Trust](https://www.itworldcanada.com/article/deloitte-launches-new-security-service-based-on-zero-trust/492156)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

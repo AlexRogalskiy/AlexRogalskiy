@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [We discovered a 7-year old performance Issue in Elixir &lpar;2020&rpar;](https://code.tubitv.com/how-we-discovered-a-7-year-old-performance-issue-in-elixir-99080bdce9a1?gi=42c77b46207b)
-- [Sirum &lpar;YC W15 nonprofit&rpar; is hiring engineers and pharmacy technicians](https://news.ycombinator.com/item?id=32103342)
-- [Solar Car Will Soon Hit Production–and It Only Costs $25,900](https://singularityhub.com/2022/07/14/this-solar-car-will-soon-hit-production-and-it-only-costs-25900/)
-- [We discovered a 7-year old performance issue in Elixir &lpar;2020&rpar;](https://code.tubitv.com/how-we-discovered-a-7-year-old-performance-issue-in-elixir-99080bdce9a1?gi=60329427cb38)
-- [The Dhall Configuration Language](https://dhall-lang.org/)
-- [Celsius acknowledges $1.2B hole in balance sheet](https://www.coindesk.com/business/2022/07/14/celsius-acknowledges-12b-hole-in-balance-sheet/)
-- [Microsoft Windows Network File System v4 Remote Code Execution](https://www.thezdi.com/blog/2022/7/13/cve-2022-30136-microsoft-windows-network-file-system-v4-remote-code-execution-vulnerability)
-- [Hot Reloading in Swift](https://www.merowing.info/hot-reloading-in-swift/)
-- [Lessons from Writing a Compiler](https://borretti.me/article/lessons-writing-compiler)
-- [I disagree with Turing and Kahneman regarding statistical evidence &lpar;2014&rpar;](https://statmodeling.stat.columbia.edu/2014/09/03/disagree-alan-turing-daniel-kahneman-regarding-strength-statistical-evidence/)
+- [Everything you need to know about breastfeeding and intelligence](https://stuartritchie.substack.com/p/breastfeeding-iq)
+- [Android removes much of Fuchsia-related code as Starnix project progresses](https://9to5google.com/2022/07/15/android-removes-fuchsia-code-starnix/)
+- [Designing the Characters of &#39;Cowboy Bebop&#39;](https://animationobsessive.substack.com/p/designing-the-characters-of-cowboy)
+- [Vala Programming Language](https://vala.dev/)
+- [FCC proposes to increase minimum broadband speeds to 100 Mbps](https://www.fcc.gov/document/chairwoman-rosenworcel-proposes-increase-minimum-broadband-speeds)
+- [Advice for the next dozen Rust GUIs](https://raphlinus.github.io/rust/gui/2022/07/15/next-dozen-guis.html)
+- [Smarking &lpar;YC W15&rpar; Is Hiring a Staff ML Engineer](https://jobs.lever.co/smarking/e42d0a18-35fd-4e78-9c6d-fc775ad17c60)
+- [Satellites give clues about the coming global harvest](https://www.bbc.com/news/world-62149522)
+- [State of the SqueakPhone](https://syndicate-lang.org/journal/2022/06/03/phone-progress)
+- [“Critical” projects and volunteer maintainers](https://lwn.net/SubscriberLink/900953/44823d451920e233/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

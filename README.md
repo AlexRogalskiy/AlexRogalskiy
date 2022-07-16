@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Marketing Docs Are Not Written for Engineers](https://ethancbanks.com/marketing-docs-are-not-written-for-engineers/)
-- [Belt Cleaner](https://www.conveyorsplicing.com/)
-- [Ask HN: Siri&#39;s iOS calendar reminder notifications are neat, which team was it?](https://news.ycombinator.com/item?id=32104394)
-- [Why Does Everyone Have IBS?](https://www.thedriftmag.com/sick-to-our-stomachs/)
-- [Observability: What to Instrument?](https://www.chrisarmstrong.dev/posts/observability-what-to-instrument/)
-- [Microsoft moves to new Windows development cycle](https://www.windowscentral.com/software-apps/windows-11/microsoft-moves-to-new-windows-development-cycle-with-major-release-every-three-years-feature-drops-in-between)
-- [MBS’s $500B Desert Dream Just Keeps Getting Weirder](https://www.bloomberg.com/features/2022-mbs-neom-saudi-arabia/)
-- [Ask HN: Should Show HN posts be links or text?](https://news.ycombinator.com/item?id=32104343)
-- [Benchmarking The Linux 5.19 Kernel Built With “-O3 -march=native”](https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.19-O3-March-Native)
-- [The ‘Shamanification’ of the Tech CEO](https://www.wired.com/story/health-business-deprivation-technology/)
+- [The BA.5 Wave Is What Covid Normal Looks Like](https://www.theatlantic.com/health/archive/2022/07/ba5-covid-subvariants-forever/670514/)
+- [Invasive species are a problem of trade, climate change, and language](https://www.guernicamag.com/hook-line-and-sinker/)
+- [The average working day of Charles Darwin is ~4h/day](https://twitter.com/gregisenberg/status/1547920414877175815)
+- [Cruise robotaxi service under review following anonymous letter](https://techcrunch.com/2022/07/14/cruise-robotaxi-under-review-following-anonymous-letter/)
+- [The US military wants to understand the Linux kernel](https://www.technologyreview.com/2022/07/14/1055894/us-military-sofware-linux-kernel-open-source/)
+- [Tapping into the million-year energy source below our feet](https://news.mit.edu/2022/quaise-energy-geothermal-0628)
+- [New Era Search for Extraterrestrial Life: Finally Analyze Exoplanet Atmospheres](https://singularityhub.com/2022/07/15/a-new-era-for-alien-hunters-we-can-finally-see-into-exoplanet-atmospheres/)
+- [Study: Alcohol is never good for people under 40](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(22)00847-9/fulltext#%20)
+- [&#39;Where the Crawdads Sing&#39; Author Wanted for Questioning in Murder](https://www.theatlantic.com/books/archive/2022/07/where-the-crawdads-sing-delia-mark-owens-zambia-murder/670479/)
+- [Goodbye, Comet K2 Next stop: closest approach to the sun](https://www.space.com/goodbye-comet-k2-next-stop-perihelion)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

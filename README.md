@@ -369,6 +369,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [10 Best-Paying Jobs in Data Science](https://www.informationweek.com/big-data/10-best-paying-jobs-in-data-science)
+- [Enterprise AI is Hard. These 3 Guidelines Fuel Success](https://www.informationweek.com/big-data/enterprise-ai-is-hard-these-3-guidelines-fuel-success)
 - [IBM Databand.ai Acquisition Targets Data Observability](https://www.informationweek.com/big-data/ibm-databand-ai-acquisition-targets-data-observability)
 - [Investing in Integration Frameworks: Benefits and Best Practices](https://www.informationweek.com/software/investing-in-integration-frameworks-benefits-and-best-practices)
 - [Cloud, Data, and Political Protests Mark the 2022 AWS Summit](https://www.informationweek.com/cloud/cloud-data-and-political-protests-mark-the-2022-aws-summit)
@@ -377,8 +379,6 @@
 - [Why It&#39;s So Hard to Accurately Predict IT Trends](https://www.informationweek.com/strategic-cio/why-it-s-so-hard-to-accurately-predict-it-trends)
 - [Confronting the Cybersecurity Compliance Challenge](https://www.informationweek.com/security-and-risk-strategy/confronting-the-cybersecurity-compliance-challenge)
 - [What the US Supreme Court Ruling on the EPA Means for ESG](https://www.informationweek.com/big-data/what-the-us-supreme-court-ruling-on-the-epa-means-for-esg)
-- [APIs Do More Than Just Carry Data](https://www.informationweek.com/devops/apis-do-more-than-just-carry-data)
-- [June 2022 Global Tech Policy Bulletin: From USB-C Chargers to Supreme Court](https://www.informationweek.com/government/june-2022-tech-policy-bulletin-from-usb-c-chargers-supreme-court)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

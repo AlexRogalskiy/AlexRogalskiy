@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [China’s economic growth slumps sharply after Covid lockdowns](https://www.theguardian.com/business/2022/jul/15/chinas-quarterly-economic-growth-slumps-sharply-after-covid-lockdowns)
-- [Is Britain’s Homes for Ukraine scheme working?](https://www.theguardian.com/news/audio/2022/jul/15/is-britains-homes-for-ukraine-scheme-working-podcast)
-- [Antarctica bathed in dazzling colours in afterglow of Tonga eruption](https://www.theguardian.com/world/2022/jul/15/antarctica-bathed-in-dazzling-colours-in-afterglow-of-tonga-eruption)
-- [Woman who accused Emmett Till says she didn’t want him dead in memoir](https://www.theguardian.com/us-news/2022/jul/14/emmett-till-accuser-harm-memoir)
-- [Elephant and baby saved in dramatic rescue from manhole in Thailand](https://www.theguardian.com/world/2022/jul/15/elephant-and-baby-saved-in-dramatic-rescue-from-manhole-in-thailand)
-- [Russia-Ukraine war update: what we know on day 142 of the invasion](https://www.theguardian.com/world/2022/jul/15/russia-ukraine-war-update-what-we-know-on-day-142-of-the-invasion)
-- [Zelenskiy condemns Russian ‘terrorism’ as Vinnytsia attack kills more than 20](https://www.theguardian.com/world/2022/jul/14/russian-missiles-kill-ukrainian-city-vinnytsia)
-- [Secret Service agents’ January 6 texts were erased after oversight request](https://www.theguardian.com/us-news/2022/jul/14/us-secret-service-agents-texts-erased-january-6)
-- [Victims of historic forced adoption deserve apology, ministers told](https://www.theguardian.com/society/2022/jul/15/victims-of-historic-forced-adoption-deserve-apology-ministers-told)
-- [Jack Absolute Flies Again review – wartime comedy of manners fails to take off](https://www.theguardian.com/stage/2022/jul/15/jack-absolute-flies-again-review-wartime-comedy-of-manners-fails-to-take-off)
+- [‘Narco of narcos’: drug lord Rafael Caro Quintero arrested in Mexico](https://www.theguardian.com/world/2022/jul/15/rafael-caro-quintero-arrested-mexico-drug-lord)
+- [Elon Musk files motion against Twitter’s bid to fast-track trial](https://www.theguardian.com/technology/2022/jul/15/elon-musk-twitter-lawsuit-fast-track)
+- [Robert Lewandowski set to seal €50m Barcelona move from Bayern Munich](https://www.theguardian.com/football/2022/jul/16/robert-lewandowski-barcelona-bayern-munich-transfer-news)
+- [Fist bumps as Joe Biden arrives to reset ties with ‘pariah’ Saudi Arabia](https://www.theguardian.com/us-news/2022/jul/15/fist-bumps-as-joe-biden-arrives-to-reset-ties-with-pariah-saudi-arabia)
+- [Brilliant and unreadable Fran Kirby locks herself into England team | Jonathan Liew](https://www.theguardian.com/football/2022/jul/15/brilliant-and-unreadable-fran-kirby-locks-herself-into-england-team)
+- [Ivana Trump died of blunt force injuries to her torso, medical examiner says](https://www.theguardian.com/us-news/2022/jul/15/ivana-trump-donald-trump-wife-death-cause)
+- [Austria’s Nicole Billa books quarter-final with Germany as Norway crash out](https://www.theguardian.com/football/2022/jul/15/euro-2022-austria-norway-match-report)
+- [The First Night of the Proms review – moments of beauty amid the fury](https://www.theguardian.com/music/2022/jul/15/the-first-night-of-the-proms-review-moments-of-beauty-amid-the-fury)
+- [St Helens show strength by shutting out Huddersfield despite early red card](https://www.theguardian.com/sport/2022/jul/15/st-helens-continue-march-to-super-league-title-with-win-over-huddersfield)
+- [The first Tory leadership debate could significantly reshape the contest | Martin Kettle](https://www.theguardian.com/commentisfree/2022/jul/15/the-first-tory-leadership-debate-could-significantly-reshape-the-contest)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

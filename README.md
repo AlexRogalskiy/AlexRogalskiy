@@ -384,6 +384,9 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [The next frontier in cloud computing](https://www.infoworld.com/article/3667371/the-next-frontier-in-cloud-computing.html#tk.rss_all)
+- [Go language revises memory model](https://www.infoworld.com/article/3667273/go-language-revises-memory-model.html#tk.rss_all)
+- [What is Google JAX? NumPy on accelerators](https://www.infoworld.com/article/3666812/what-is-google-jax-numpy-on-accelerators.html#tk.rss_all)
 - [Rocky Linux 9.0 rocks new build system](https://www.infoworld.com/article/3667308/rocky-linux-90-rocks-new-build-system.html#tk.rss_all)
 - [StarRocks launches managed DBaaS for real-time analytics](https://www.infoworld.com/article/3667370/starrocks-launches-managed-dbaas-for-real-time-analytics.html#tk.rss_all)
 - [Microsoft .NET 7 will include rate limiting](https://www.infoworld.com/article/3667310/microsoft-net-7-will-include-rate-limiting.html#tk.rss_all)
@@ -391,9 +394,6 @@
 - [Intro to Pure CSS: Minimal, modular CSS layouts](https://www.infoworld.com/article/3666510/intro-to-pure-css-minimal-modular-css-layouts.html#tk.rss_all)
 - [How to work with a priority queue in .NET 6](https://www.infoworld.com/article/3666499/how-to-work-with-a-priority-queue-in-net-6.html#tk.rss_all)
 - [Google Cloud targets high performance workloads with Arm-based VMs and Batch job scheduling](https://www.infoworld.com/article/3666527/google-cloud-adds-arm-based-vms-and-automated-job-scheduling.html#tk.rss_all)
-- [Azure Artifacts helps you standardize on packages and modules](https://www.infoworld.com/article/3666733/azure-artifacts-helps-you-standardize-on-packages-and-modules.html#tk.rss_all)
-- [Nvidia unveils QODA for hybrid quantum-classical computing](https://www.infoworld.com/article/3666698/nvidia-unveils-qoda-for-hybrid-quantum-classical-computing.html#tk.rss_all)
-- [ASGI explained: The future of Python web development](https://www.infoworld.com/article/3658336/asgi-explained-the-future-of-python-web-development.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

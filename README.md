@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Everything you need to know about breastfeeding and intelligence](https://stuartritchie.substack.com/p/breastfeeding-iq)
-- [Android removes much of Fuchsia-related code as Starnix project progresses](https://9to5google.com/2022/07/15/android-removes-fuchsia-code-starnix/)
-- [Designing the Characters of &#39;Cowboy Bebop&#39;](https://animationobsessive.substack.com/p/designing-the-characters-of-cowboy)
-- [Vala Programming Language](https://vala.dev/)
-- [FCC proposes to increase minimum broadband speeds to 100 Mbps](https://www.fcc.gov/document/chairwoman-rosenworcel-proposes-increase-minimum-broadband-speeds)
-- [Advice for the next dozen Rust GUIs](https://raphlinus.github.io/rust/gui/2022/07/15/next-dozen-guis.html)
-- [Smarking &lpar;YC W15&rpar; Is Hiring a Staff ML Engineer](https://jobs.lever.co/smarking/e42d0a18-35fd-4e78-9c6d-fc775ad17c60)
-- [Satellites give clues about the coming global harvest](https://www.bbc.com/news/world-62149522)
-- [State of the SqueakPhone](https://syndicate-lang.org/journal/2022/06/03/phone-progress)
-- [“Critical” projects and volunteer maintainers](https://lwn.net/SubscriberLink/900953/44823d451920e233/)
+- [Wikipedia: Long-Term Abuse](https://en.wikipedia.org/wiki/Wikipedia:Long-term_abuse)
+- [An interactive mechanical contraption in pure CSS](https://cohost.org/blackle/post/42994-contraption)
+- [Dr. DOS Betamax&#39;s DOS Fansite](http://chebucto.ns.ca/~ak621/DOS/DOS-Head.html)
+- [Big Tech Monopolies Endanger American Security](https://www.economicliberties.us/our-work/big-tech-monopolies-endanger-american-security/)
+- [Byte Magazine: The Forth Language &lpar;1980&rpar;](https://archive.org/details/byte-magazine-1980-08)
+- [Herbert W. Franke has died](https://twitter.com/HerbertWFranke/status/1548321370781626372)
+- [Training my sense of CO2 ppm](https://interconnected.org/home/2022/07/14/co2)
+- [Skio is hiring &lpar;NYC/remote&rpar; – Subscriptions for Shopify &lpar;ReCharge migrations&rpar;](https://skio.com/careers/)
+- [Show HN: A compiler and VM for a simple language, in 150 lines of code](https://gist.github.com/p4bl0-/9f4e950e6c06fbba7e168097d89b0e46)
+- [YOLOv7: Trainable Bag-of-Freebies](https://arxiv.org/abs/2207.02696)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

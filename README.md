@@ -414,6 +414,8 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Question about where to go next](https://www.reddit.com/r/InformationTechnology/comments/w0qdun/question_about_where_to_go_next/)
+- [do I have to take both A+ tests before October?](https://www.reddit.com/r/InformationTechnology/comments/w0lhs9/do_i_have_to_take_both_a_tests_before_october/)
 - [College or Experience](https://www.reddit.com/r/InformationTechnology/comments/w04q1i/college_or_experience/)
 - [What is Command Line ETL?](https://www.reddit.com/r/InformationTechnology/comments/w005ou/what_is_command_line_etl/)
 - [Potential of business!!!?](https://www.reddit.com/r/InformationTechnology/comments/vzynij/potential_of_business/)
@@ -422,8 +424,6 @@
 - [Remote work setups/recommendations for developers and researchers?](https://www.reddit.com/r/InformationTechnology/comments/vzjq00/remote_work_setupsrecommendations_for_developers/)
 - [Master degree or just certifications?](https://www.reddit.com/r/InformationTechnology/comments/vzbdyh/master_degree_or_just_certifications/)
 - [Wifi speeds](https://www.reddit.com/r/InformationTechnology/comments/vz5b4a/wifi_speeds/)
-- [Online courses/Videos for Comptia A+?](https://www.reddit.com/r/InformationTechnology/comments/vydhk1/online_coursesvideos_for_comptia_a/)
-- [DoS &amp; DDoS Attacks Explained](https://www.reddit.com/r/InformationTechnology/comments/vy7u6s/dos_ddos_attacks_explained/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

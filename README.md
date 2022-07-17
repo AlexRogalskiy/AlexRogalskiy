@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [‘Narco of narcos’: drug lord Rafael Caro Quintero arrested in Mexico](https://www.theguardian.com/world/2022/jul/15/rafael-caro-quintero-arrested-mexico-drug-lord)
-- [Elon Musk files motion against Twitter’s bid to fast-track trial](https://www.theguardian.com/technology/2022/jul/15/elon-musk-twitter-lawsuit-fast-track)
-- [Robert Lewandowski set to seal €50m Barcelona move from Bayern Munich](https://www.theguardian.com/football/2022/jul/16/robert-lewandowski-barcelona-bayern-munich-transfer-news)
-- [Fist bumps as Joe Biden arrives to reset ties with ‘pariah’ Saudi Arabia](https://www.theguardian.com/us-news/2022/jul/15/fist-bumps-as-joe-biden-arrives-to-reset-ties-with-pariah-saudi-arabia)
-- [Brilliant and unreadable Fran Kirby locks herself into England team | Jonathan Liew](https://www.theguardian.com/football/2022/jul/15/brilliant-and-unreadable-fran-kirby-locks-herself-into-england-team)
-- [Ivana Trump died of blunt force injuries to her torso, medical examiner says](https://www.theguardian.com/us-news/2022/jul/15/ivana-trump-donald-trump-wife-death-cause)
-- [Austria’s Nicole Billa books quarter-final with Germany as Norway crash out](https://www.theguardian.com/football/2022/jul/15/euro-2022-austria-norway-match-report)
-- [The First Night of the Proms review – moments of beauty amid the fury](https://www.theguardian.com/music/2022/jul/15/the-first-night-of-the-proms-review-moments-of-beauty-amid-the-fury)
-- [St Helens show strength by shutting out Huddersfield despite early red card](https://www.theguardian.com/sport/2022/jul/15/st-helens-continue-march-to-super-league-title-with-win-over-huddersfield)
-- [The first Tory leadership debate could significantly reshape the contest | Martin Kettle](https://www.theguardian.com/commentisfree/2022/jul/15/the-first-tory-leadership-debate-could-significantly-reshape-the-contest)
+- [Documenta 15: Germany art fair chief resigns amid outrage over anti-Semitic works](https://www.theguardian.com/artanddesign/2022/jul/17/documenta-15-germany-art-fair-chief-resigns-amid-outrage-over-anti-semitic-works)
+- [Aircraft carrying ‘dangerous’ cargo crashes in northern Greece](https://www.theguardian.com/world/2022/jul/16/aircraft-carrying-dangerous-cargo-crashes-in-northern-greece)
+- [Strength in numbers helps Vingegaard overhaul Pogacar in Tour de France | William Fotheringham](https://www.theguardian.com/sport/blog/2022/jul/17/strength-in-numbers-helps-vingegaard-overhaul-pogacar-in-tour-de-france)
+- [Russia-Ukraine war at a glance: what we know on day 144 of the invasion](https://www.theguardian.com/world/2022/jul/17/russia-ukraine-war-at-a-glance-what-we-know-on-day-144-of-the-invasion)
+- [Experts confirm white whale carcass on Victorian beach is not Migaloo](https://www.theguardian.com/australia-news/2022/jul/17/scientists-to-determine-if-white-whale-carcass-on-victorian-beach-is-well-known-migaloo)
+- [Defibrillators to be installed in all English state schools by end of next school year](https://www.theguardian.com/education/2022/jul/17/defibrillators-to-be-installed-in-all-english-state-schools-by-end-of-next-school-year)
+- [White hot: How to wear summer’s coolest colour](https://www.theguardian.com/fashion/2022/jul/16/white-hot-how-to-wear-summers-coolest-colour)
+- [We love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2022/jul/16/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Protesters across UK decry ‘heinous’ Rwanda deportation plan](https://www.theguardian.com/politics/2022/jul/16/protesters-across-uk-decry-heinous-rwanda-deportation-plan)
+- [Hampshire hold nerve with last ball to beat Lancashire in T20 Blast final](https://www.theguardian.com/sport/2022/jul/16/hampshire-hold-nerve-to-beat-lancashire-in-thrilling-t20-blast-final)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

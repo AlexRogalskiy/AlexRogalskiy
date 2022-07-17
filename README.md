@@ -384,6 +384,8 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [GitHub Copilot users feel more productive](https://www.infoworld.com/article/3667376/github-copilot-users-feel-more-productive.html#tk.rss_all)
+- [So why did they decide to call it Java?](https://www.infoworld.com/article/2077265/so-why-did-they-decide-to-call-it-java.html#tk.rss_all)
 - [The next frontier in cloud computing](https://www.infoworld.com/article/3667371/the-next-frontier-in-cloud-computing.html#tk.rss_all)
 - [Go language revises memory model](https://www.infoworld.com/article/3667273/go-language-revises-memory-model.html#tk.rss_all)
 - [What is Google JAX? NumPy on accelerators](https://www.infoworld.com/article/3666812/what-is-google-jax-numpy-on-accelerators.html#tk.rss_all)
@@ -392,8 +394,6 @@
 - [Microsoft .NET 7 will include rate limiting](https://www.infoworld.com/article/3667310/microsoft-net-7-will-include-rate-limiting.html#tk.rss_all)
 - [What is Quarto? RStudio quietly rolls out next-generation R Markdown](https://www.infoworld.com/article/3666743/what-is-quarto-rstudio-quietly-rolls-out-next-generation-r-markdown.html#tk.rss_all)
 - [Intro to Pure CSS: Minimal, modular CSS layouts](https://www.infoworld.com/article/3666510/intro-to-pure-css-minimal-modular-css-layouts.html#tk.rss_all)
-- [How to work with a priority queue in .NET 6](https://www.infoworld.com/article/3666499/how-to-work-with-a-priority-queue-in-net-6.html#tk.rss_all)
-- [Google Cloud targets high performance workloads with Arm-based VMs and Batch job scheduling](https://www.infoworld.com/article/3666527/google-cloud-adds-arm-based-vms-and-automated-job-scheduling.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

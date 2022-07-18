@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Documenta 15: Germany art fair chief resigns amid outrage over anti-Semitic works](https://www.theguardian.com/artanddesign/2022/jul/17/documenta-15-germany-art-fair-chief-resigns-amid-outrage-over-anti-semitic-works)
-- [Aircraft carrying ‘dangerous’ cargo crashes in northern Greece](https://www.theguardian.com/world/2022/jul/16/aircraft-carrying-dangerous-cargo-crashes-in-northern-greece)
-- [Strength in numbers helps Vingegaard overhaul Pogacar in Tour de France | William Fotheringham](https://www.theguardian.com/sport/blog/2022/jul/17/strength-in-numbers-helps-vingegaard-overhaul-pogacar-in-tour-de-france)
-- [Russia-Ukraine war at a glance: what we know on day 144 of the invasion](https://www.theguardian.com/world/2022/jul/17/russia-ukraine-war-at-a-glance-what-we-know-on-day-144-of-the-invasion)
-- [Experts confirm white whale carcass on Victorian beach is not Migaloo](https://www.theguardian.com/australia-news/2022/jul/17/scientists-to-determine-if-white-whale-carcass-on-victorian-beach-is-well-known-migaloo)
-- [Defibrillators to be installed in all English state schools by end of next school year](https://www.theguardian.com/education/2022/jul/17/defibrillators-to-be-installed-in-all-english-state-schools-by-end-of-next-school-year)
-- [White hot: How to wear summer’s coolest colour](https://www.theguardian.com/fashion/2022/jul/16/white-hot-how-to-wear-summers-coolest-colour)
-- [We love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2022/jul/16/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Protesters across UK decry ‘heinous’ Rwanda deportation plan](https://www.theguardian.com/politics/2022/jul/16/protesters-across-uk-decry-heinous-rwanda-deportation-plan)
-- [Hampshire hold nerve with last ball to beat Lancashire in T20 Blast final](https://www.theguardian.com/sport/2022/jul/16/hampshire-hold-nerve-to-beat-lancashire-in-thrilling-t20-blast-final)
+- [Indiana shooting: gunman kills three in Greenwood Park mall attack](https://www.theguardian.com/us-news/2022/jul/18/indiana-shooting-gunman-kills-three-in-greenwood-park-mall-attack)
+- [‘Meltdown Monday’ and ‘Blowtorch Britain’: what the papers say about UK heatwave](https://www.theguardian.com/media/2022/jul/18/meltdown-monday-and-blowtorch-britain-what-the-papers-say-about-uk-heatwave)
+- [How right to buy fuelled the UK housing crisis – podcast](https://www.theguardian.com/news/audio/2022/jul/18/how-right-to-buy-fuelled-uk-housing-crisis-podcast)
+- [Rapper Kodak Black arrested on drug charges in Florida](https://www.theguardian.com/music/2022/jul/18/rapper-kodak-black-arrested-on-drug-charges-in-florida)
+- [China floods leave at least 12 dead, with thousands evacuated](https://www.theguardian.com/world/2022/jul/18/china-floods-sichuan-gansu-province-dead-thousands-evacuated)
+- [‘Utoro is my identity’: can a museum heal the scars of Korean migrants in Japan?](https://www.theguardian.com/world/2022/jul/18/utoro-is-my-identity-can-a-museum-heal-the-scars-of-korean-migrants-in-japan)
+- [Russia-Ukraine war at a glance: what we know on day 145 of the invasion](https://www.theguardian.com/world/2022/jul/18/russia-ukraine-war-at-a-glance-what-we-know-on-day-145-of-the-invasion)
+- [‘Worth waiting for’: Jennifer Lopez and Ben Affleck get married in Las Vegas](https://www.theguardian.com/culture/2022/jul/18/worth-waiting-for-jennifer-lopez-and-ben-affleck-marry-in-las-vegas)
+- [Russian journalist who staged TV protest over Ukraine invasion briefly detained](https://www.theguardian.com/world/2022/jul/18/russian-journalist-who-staged-tv-protest-over-ukraine-invasion-arrested-again)
+- [Pro-Brexit UK regions more dependent on EU for exports, report finds](https://www.theguardian.com/politics/2022/jul/17/pro-brexit-uk-regions-more-dependent-on-eu-for-exports-report-finds)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

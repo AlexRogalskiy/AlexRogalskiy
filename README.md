@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Looking for a program to visually manage our IT infrastructure.](https://www.reddit.com/r/InformationTechnology/comments/w1l91a/looking_for_a_program_to_visually_manage_our_it/)
+- [What positions can make over 100K without going into programming or management?](https://www.reddit.com/r/InformationTechnology/comments/w1kshc/what_positions_can_make_over_100k_without_going/)
+- [What four in-demand technological talents as technologists can we master and use outside the workplace?](https://www.reddit.com/r/InformationTechnology/comments/w1henh/what_four_indemand_technological_talents_as/)
+- [Negotiating consulting rate - advice](https://www.reddit.com/r/InformationTechnology/comments/w1hadh/negotiating_consulting_rate_advice/)
+- [How long should you wait before a piece of company hardware is considered abandoned?](https://www.reddit.com/r/InformationTechnology/comments/w1fxka/how_long_should_you_wait_before_a_piece_of/)
 - [Question about where to go next](https://www.reddit.com/r/InformationTechnology/comments/w0qdun/question_about_where_to_go_next/)
 - [do I have to take both A+ tests before October?](https://www.reddit.com/r/InformationTechnology/comments/w0lhs9/do_i_have_to_take_both_a_tests_before_october/)
 - [College or Experience](https://www.reddit.com/r/InformationTechnology/comments/w04q1i/college_or_experience/)
 - [What is Command Line ETL?](https://www.reddit.com/r/InformationTechnology/comments/w005ou/what_is_command_line_etl/)
 - [Potential of business!!!?](https://www.reddit.com/r/InformationTechnology/comments/vzynij/potential_of_business/)
-- [Can a MacBook Pro &lpar;15-inch,2017&rpar; charge/maintain battery levels with a 28W Solar Charger&lpar;5V/4.8A Max&rpar;? VIA USB to Type C.](https://www.reddit.com/r/InformationTechnology/comments/vzyjdz/can_a_macbook_pro_15inch2017_chargemaintain/)
-- [Advice for when management asks to implement a new system but production workers refuse to cooperate with you?](https://www.reddit.com/r/InformationTechnology/comments/vzxkah/advice_for_when_management_asks_to_implement_a/)
-- [Remote work setups/recommendations for developers and researchers?](https://www.reddit.com/r/InformationTechnology/comments/vzjq00/remote_work_setupsrecommendations_for_developers/)
-- [Master degree or just certifications?](https://www.reddit.com/r/InformationTechnology/comments/vzbdyh/master_degree_or_just_certifications/)
-- [Wifi speeds](https://www.reddit.com/r/InformationTechnology/comments/vz5b4a/wifi_speeds/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

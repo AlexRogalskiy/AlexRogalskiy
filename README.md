@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Wikipedia: Long-Term Abuse](https://en.wikipedia.org/wiki/Wikipedia:Long-term_abuse)
-- [An interactive mechanical contraption in pure CSS](https://cohost.org/blackle/post/42994-contraption)
-- [Dr. DOS Betamax&#39;s DOS Fansite](http://chebucto.ns.ca/~ak621/DOS/DOS-Head.html)
-- [Big Tech Monopolies Endanger American Security](https://www.economicliberties.us/our-work/big-tech-monopolies-endanger-american-security/)
-- [Byte Magazine: The Forth Language &lpar;1980&rpar;](https://archive.org/details/byte-magazine-1980-08)
-- [Herbert W. Franke has died](https://twitter.com/HerbertWFranke/status/1548321370781626372)
-- [Training my sense of CO2 ppm](https://interconnected.org/home/2022/07/14/co2)
-- [Skio is hiring &lpar;NYC/remote&rpar; – Subscriptions for Shopify &lpar;ReCharge migrations&rpar;](https://skio.com/careers/)
-- [Show HN: A compiler and VM for a simple language, in 150 lines of code](https://gist.github.com/p4bl0-/9f4e950e6c06fbba7e168097d89b0e46)
-- [YOLOv7: Trainable Bag-of-Freebies](https://arxiv.org/abs/2207.02696)
+- [An ex-Googler&#39;s guide to dev tools &lpar;2020&rpar;](https://about.sourcegraph.com/blog/ex-googler-guide-dev-tools)
+- [Fields Medal was never meant for ‘the greatest mathematical genius&#39;](https://www.science.org/content/article/fields-medal-was-never-meant-greatest-mathematical-genius)
+- [In Utah, researchers are trying to make geothermal energy a reality](https://www.science.org/content/article/utah-researchers-trying-unlock-earths-heat-make-geothermal-energy-reality)
+- [Lensm: Go Assembly and Source Viewer](https://github.com/loov/lensm)
+- [Show HN: Typograms, Markdown-like renderer for ASCII diagrams](https://code.sgo.to/typograms/)
+- [Building a Secure Software Supply Chain with GNU Guix](https://programming-journal.org/2023/7/1/)
+- [Rowan Atkinson: Visual Comedy &lpar;1992&rpar; [video]](https://www.youtube.com/watch?v=LeuiFa9pI7c)
+- [Neural Network Loss Landscapes: What do we know? &lpar;2021&rpar;](https://damueller.com/#/blog-post/NNLLs)
+- [The case for bad coffee &lpar;2015&rpar;](https://www.seriouseats.com/the-case-for-bad-coffee)
+- [Sitting and standing at work &lpar;2015&rpar;](http://ergo.human.cornell.edu/CUESitStand.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

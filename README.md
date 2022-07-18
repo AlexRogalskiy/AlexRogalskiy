@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Targeted Deanonymization via the Cache Side Channel: Attacks and Defenses [pdf]](https://leakuidatorplusteam.github.io/preprint.pdf)
-- [Age of Invention: Leveraged Philanthropy](https://antonhowes.substack.com/p/age-of-invention-leveraged-philanthropy)
-- [WebFeed: Turn Browser into Feed Reader](https://taoshu.in/webfeed/turn-browser-into-feed-reader.html)
-- [Show HN: I built a walkthrough of Redis&#39;s source code](https://app.codecrafters.io/walkthroughs/redis-bind-port)
-- [Zoning Paralyzed American Cities](https://www.theamericanconservative.com/how-zoning-paralyzed-american-cities/)
-- [The Perils of Telepathy &lpar;1918&rpar;](https://www.theatlantic.com/magazine/archive/1918/02/the-perils-of-telepathy/646631/)
-- [Ask HN: Does HN do anything to prevent AI-grade bots?](https://news.ycombinator.com/item?id=32124002)
-- [The Return of the Bison: Europe’s Largest Wild Animal](https://www.youtube.com/watch?v=B3o2tuN4rlQ)
-- [When I go to Facebook in a browser, it shows 4 messages, but “view as desktop”](https://news.ycombinator.com/item?id=32123990)
-- [Wikipedia: Long-Term Abuse](https://en.wikipedia.org/wiki/Wikipedia:Long-term_abuse)
+- [The U.S. Needs a Million Talents Program to Retain Technology Leadership](https://foreignpolicy.com/2022/07/16/immigration-us-technology-companies-work-visas-china-talent-competition-universities/)
+- [Ask HN: How did you become one of the first 50 at a major tech company?](https://news.ycombinator.com/item?id=32134274)
+- [DNA from Ancient Southern China Suggests Native Americans&#39; East Asian Roots](https://www.sciencedaily.com/releases/2022/07/220714145052.htm)
+- [Supercloud?Metacloud? The next frontier in cloud computing](https://www.infoworld.com/article/3667371/the-next-frontier-in-cloud-computing.html)
+- [After Weight-Loss Surgery, a Year of Joys and Disappointments](https://www.nytimes.com/2016/12/27/health/bariatric-surgery.html)
+- [Will the Real Landscape Photography Please Stand Up?](https://petapixel.com/2015/01/31/will-real-landscape-photography-please-stand/)
+- [Federal Judge Temporarily Blocks Enforcement of L.g.b.t.q. Protections](https://www.nytimes.com/2022/07/17/us/judge-blocks-biden-lgbt-student-rules.html)
+- [As a 76-year-old let me say: Joe Biden is too old to run again Robert Reich](https://www.theguardian.com/commentisfree/2022/jul/17/as-a-76-year-old-let-me-say-joe-biden-is-too-old-to-run-again)
+- [Texas House investigative committee releases Uvalde school shooting report](https://www.statesman.com/story/news/local/2022/07/17/uvalde-shooting-report-texas-house-investigative-committee-details/65373647007/)
+- [An ex-Googler&#39;s guide to dev tools &lpar;2020&rpar;](https://about.sourcegraph.com/blog/ex-googler-guide-dev-tools)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

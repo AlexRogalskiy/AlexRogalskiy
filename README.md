@@ -384,6 +384,9 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Open source isn’t working for AI](https://www.infoworld.com/article/3667433/open-source-isnt-working-for-ai.html#tk.rss_all)
+- [7 reasons Java is still great](https://www.infoworld.com/article/3666525/7-reasons-java-is-still-great.html#tk.rss_all)
+- [Securing data at rest and data in motion](https://www.infoworld.com/article/3666500/securing-data-at-rest-and-data-in-motion.html#tk.rss_all)
 - [GitHub Copilot users feel more productive](https://www.infoworld.com/article/3667376/github-copilot-users-feel-more-productive.html#tk.rss_all)
 - [So why did they decide to call it Java?](https://www.infoworld.com/article/2077265/so-why-did-they-decide-to-call-it-java.html#tk.rss_all)
 - [The next frontier in cloud computing](https://www.infoworld.com/article/3667371/the-next-frontier-in-cloud-computing.html#tk.rss_all)
@@ -391,9 +394,6 @@
 - [What is Google JAX? NumPy on accelerators](https://www.infoworld.com/article/3666812/what-is-google-jax-numpy-on-accelerators.html#tk.rss_all)
 - [Rocky Linux 9.0 rocks new build system](https://www.infoworld.com/article/3667308/rocky-linux-90-rocks-new-build-system.html#tk.rss_all)
 - [StarRocks launches managed DBaaS for real-time analytics](https://www.infoworld.com/article/3667370/starrocks-launches-managed-dbaas-for-real-time-analytics.html#tk.rss_all)
-- [Microsoft .NET 7 will include rate limiting](https://www.infoworld.com/article/3667310/microsoft-net-7-will-include-rate-limiting.html#tk.rss_all)
-- [What is Quarto? RStudio quietly rolls out next-generation R Markdown](https://www.infoworld.com/article/3666743/what-is-quarto-rstudio-quietly-rolls-out-next-generation-r-markdown.html#tk.rss_all)
-- [Intro to Pure CSS: Minimal, modular CSS layouts](https://www.infoworld.com/article/3666510/intro-to-pure-css-minimal-modular-css-layouts.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

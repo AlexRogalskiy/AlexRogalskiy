@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [An ex-Googler&#39;s guide to dev tools &lpar;2020&rpar;](https://about.sourcegraph.com/blog/ex-googler-guide-dev-tools)
-- [Fields Medal was never meant for ‘the greatest mathematical genius&#39;](https://www.science.org/content/article/fields-medal-was-never-meant-greatest-mathematical-genius)
-- [In Utah, researchers are trying to make geothermal energy a reality](https://www.science.org/content/article/utah-researchers-trying-unlock-earths-heat-make-geothermal-energy-reality)
-- [Lensm: Go Assembly and Source Viewer](https://github.com/loov/lensm)
-- [Show HN: Typograms, Markdown-like renderer for ASCII diagrams](https://code.sgo.to/typograms/)
-- [Building a Secure Software Supply Chain with GNU Guix](https://programming-journal.org/2023/7/1/)
-- [Rowan Atkinson: Visual Comedy &lpar;1992&rpar; [video]](https://www.youtube.com/watch?v=LeuiFa9pI7c)
-- [Neural Network Loss Landscapes: What do we know? &lpar;2021&rpar;](https://damueller.com/#/blog-post/NNLLs)
-- [The case for bad coffee &lpar;2015&rpar;](https://www.seriouseats.com/the-case-for-bad-coffee)
-- [Sitting and standing at work &lpar;2015&rpar;](http://ergo.human.cornell.edu/CUESitStand.html)
+- [Thoughts on ML Engineering After a Year of My PhD](https://www.shreya-shankar.com/phd-year-one/)
+- [Good managers write good](https://staysaasy.com/management/2022/07/10/Writing-Management.html)
+- [An update to paid sharing](https://about.netflix.com/en/news/update-to-paid-sharing)
+- [How to Design Programs](https://htdp.org/)
+- [Glassdoor not so anonymous](https://www.webworm.co/p/glassdoor)
+- [To hook diners, an invasive species of carp gets a new name](https://www.economist.com/united-states/2022/07/07/to-hook-american-diners-an-invasive-species-of-carp-gets-a-new-name)
+- [See Thru Jet Engine [video]](https://www.youtube.com/watch?v=MgL0GW248mE)
+- [Shannon&#39;s Demon and how returns can be created out of thin air](https://www.richmondquant.com/news/2021/9/21/shannons-demon-amp-how-portfolio-returns-can-be-created-out-of-thin-air)
+- [Film grain synthesis in AV1 &lpar;2019&rpar;](https://norkin.org/research/film_grain/index.html)
+- [Freshpaint &lpar;YC S19&rpar; is hiring engineers to build real-time data ingestion infra](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

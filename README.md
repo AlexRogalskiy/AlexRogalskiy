@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Putting automation into motion will put the wheels on UK economic growth](https://www.computerweekly.com/news/252522797/Putting-automation-into-motion-will-put-the-wheels-on-UK-economic-growth)
+- [US cyber agency CISA to open London office](https://www.computerweekly.com/news/252522855/US-cyber-agency-CISA-to-open-London-office)
+- [NHS Digital seeks out wireless healthcare innovation](https://www.computerweekly.com/news/252522852/NHS-Digital-seeks-out-wireless-healthcare-innovation)
+- [Dutch multinational hires HCL for digital transformation](https://www.computerweekly.com/news/252522847/Dutch-multinational-hires-HCL-for-digital-transformation)
+- [Government proposes pro-innovation AI framework](https://www.computerweekly.com/news/252522850/Government-proposes-pro-innovation-AI-framework)
+- [Oracle payroll system causes underpayment of Next staff](https://www.computerweekly.com/news/252522848/Oracle-payroll-system-causes-underpayment-of-Next-staff)
+- [What to look for when taking out a cyber insurance policy](https://www.computerweekly.com/feature/What-to-look-for-when-taking-out-a-cyber-insurance-policy)
 - [NHS trust ‘deliberately’ deleted up to 90,000 emails before tribunal hearing](https://www.computerweekly.com/news/252522787/NHS-trust-deliberately-deleted-up-to-90000-emails-before-tribunal-hearing)
 - [Drivers’ union calls for immediate dismissal of Uber executive](https://www.computerweekly.com/news/252522795/Drivers-union-calls-for-immediate-dismissal-of-Uber-executive)
 - [Log4Shell on its way to becoming ‘endemic’](https://www.computerweekly.com/news/252522789/Log4Shell-on-its-way-to-becoming-endemic)
-- [Videogame maker Bandai Namco confirms cyber attack](https://www.computerweekly.com/news/252522744/Videogame-maker-Bandai-Namco-confirms-cyber-attack)
-- [How hostile government APTs target journalists for cyber intrusions](https://www.computerweekly.com/news/252522742/How-hostile-government-APTs-target-journalists-for-cyber-intrusions)
-- [Netflix selects Microsoft as tech partner to build out its ad-supported subscription tier](https://www.computerweekly.com/news/252522739/Netflix-selects-Microsoft-as-tech-partner-to-build-out-its-ad-supported-subscription-tier)
-- [Government pauses Online Safety Bill’s progress](https://www.computerweekly.com/news/252522737/Government-pauses-Online-Safety-Bills-progress)
-- [ICO wants to ‘empower people through information’](https://www.computerweekly.com/news/252522734/ICO-wants-to-empower-people-through-information)
-- [Bloomberg CTO interview: Computer Weekly Downtime Upload podcast](https://www.computerweekly.com/podcast/Bloomberg-CTO-interview-Computer-Weekly-Downtime-Upload-podcast)
-- [Gartner: Software sales defy economic outlook](https://www.computerweekly.com/news/252522690/Gartner-Software-sales-defy-economic-outlook)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

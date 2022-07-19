@@ -354,6 +354,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Thinking of an in-place Windows upgrade? Here&#39;s how to do it.](https://www.computerworld.com/article/3667648/thinking-of-an-in-place-windows-upgrade-heres-how-to-do-it.html#tk.rss_all)
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [Inflation pushes some workers to new jobs — and some regrets](https://www.computerworld.com/article/3667489/inflation-pushes-some-workers-to-new-jobs-and-some-regrets.html#tk.rss_all)
 - [With a light July Patch Tuesday, it&#39;s time to invest in your IT processes](https://www.computerworld.com/article/3667375/with-a-light-july-patch-tuesday-its-time-to-invest-in-your-it-processes.html#tk.rss_all)
 - [Why Tim Cook is concerned about coding skills](https://www.computerworld.com/article/3667373/why-tim-cook-is-concerned-about-coding-skills.html#tk.rss_all)
 - [Zuckerberg, Musk and how to mitigate bad executive decisions](https://www.computerworld.com/article/3667470/zuckerberg-musk-and-how-to-mitigate-bad-executive-decisions.html#tk.rss_all)
@@ -361,9 +364,6 @@
 - [Podcast: The M2 MacBook Air reviews are in](https://www.computerworld.com/article/3667312/podcast-the-m2-macbook-air-reviews-are-in.html#tk.rss_all)
 - [Mobile convergence accelerates as &#39;Tap to Pay&#39; dings US retail](https://www.computerworld.com/article/3667272/mobile-convergence-accelerates-as-tap-to-pay-dings-us-retail.html#tk.rss_all)
 - [BrandPost: The Future of Apple Endpoint Software is Here and Mosyle Is Leading the Way](https://www.computerworld.com/article/3666735/the-future-of-apple-endpoint-software-is-here-and-mosyle-is-leading-the-way.html#tk.rss_all)
-- [Why open-plan offices are a disaster for your company](https://www.computerworld.com/article/3666739/why-open-plan-offices-are-a-disaster-for-your-company.html#tk.rss_all)
-- [Remote work spurs a national wage leveling in tech](https://www.computerworld.com/article/3666740/remote-work-spurs-a-national-wage-leveling-in-tech.html#tk.rss_all)
-- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

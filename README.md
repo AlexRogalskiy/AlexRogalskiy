@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Indiana shooting: gunman kills three in Greenwood Park mall attack](https://www.theguardian.com/us-news/2022/jul/18/indiana-shooting-gunman-kills-three-in-greenwood-park-mall-attack)
-- [‘Meltdown Monday’ and ‘Blowtorch Britain’: what the papers say about UK heatwave](https://www.theguardian.com/media/2022/jul/18/meltdown-monday-and-blowtorch-britain-what-the-papers-say-about-uk-heatwave)
-- [How right to buy fuelled the UK housing crisis – podcast](https://www.theguardian.com/news/audio/2022/jul/18/how-right-to-buy-fuelled-uk-housing-crisis-podcast)
-- [Rapper Kodak Black arrested on drug charges in Florida](https://www.theguardian.com/music/2022/jul/18/rapper-kodak-black-arrested-on-drug-charges-in-florida)
-- [China floods leave at least 12 dead, with thousands evacuated](https://www.theguardian.com/world/2022/jul/18/china-floods-sichuan-gansu-province-dead-thousands-evacuated)
-- [‘Utoro is my identity’: can a museum heal the scars of Korean migrants in Japan?](https://www.theguardian.com/world/2022/jul/18/utoro-is-my-identity-can-a-museum-heal-the-scars-of-korean-migrants-in-japan)
-- [Russia-Ukraine war at a glance: what we know on day 145 of the invasion](https://www.theguardian.com/world/2022/jul/18/russia-ukraine-war-at-a-glance-what-we-know-on-day-145-of-the-invasion)
-- [‘Worth waiting for’: Jennifer Lopez and Ben Affleck get married in Las Vegas](https://www.theguardian.com/culture/2022/jul/18/worth-waiting-for-jennifer-lopez-and-ben-affleck-marry-in-las-vegas)
-- [Russian journalist who staged TV protest over Ukraine invasion briefly detained](https://www.theguardian.com/world/2022/jul/18/russian-journalist-who-staged-tv-protest-over-ukraine-invasion-arrested-again)
-- [Pro-Brexit UK regions more dependent on EU for exports, report finds](https://www.theguardian.com/politics/2022/jul/17/pro-brexit-uk-regions-more-dependent-on-eu-for-exports-report-finds)
+- [Steve Bannon appears in court as contempt-of-Congress trial begins](https://www.theguardian.com/us-news/2022/jul/18/steve-bannon-contempt-of-congress-trial)
+- [Warnings on water use, transport and risks to health as heat heads for 41C](https://www.theguardian.com/uk-news/2022/jul/18/uk-weather-heatwave-boris-johnson-checked-out-airport-runways-closed)
+- [‘Earth sends a warning’: how the papers covered the UK’s scorching heat](https://www.theguardian.com/media/2022/jul/19/earth-sends-a-warning-how-the-papers-covered-the-uks-scorching-heat)
+- [Towering waves in Hawaii crash into homes, barrel through wedding venue](https://www.theguardian.com/us-news/2022/jul/18/hawaii-waves-swell-south-pacific)
+- [What will it take for the UK adapt to extreme heat?](https://www.theguardian.com/news/audio/2022/jul/19/what-will-it-take-for-the-uk-to-adapt-to-extreme-heat-podcast)
+- [Jewelry worth millions stolen from security truck at California rest stop](https://www.theguardian.com/us-news/2022/jul/18/jewelry-stolen-security-truck-california-rest-stop)
+- [Uvalde body camera video shows some police knew they needed to act quickly](https://www.theguardian.com/us-news/2022/jul/18/uvalde-school-shooting-body-camera-video)
+- [Russia-Ukraine war at a glance: what we know on day 146 of the invasion](https://www.theguardian.com/world/2022/jul/19/russia-ukraine-war-at-a-glance-what-we-know-on-day-146-of-the-invasion)
+- [Talking Horses: Newbury plans prize money boost with media rights move](https://www.theguardian.com/sport/blog/2022/jul/19/talking-horses-newbury-prize-money-media-rights-rtp)
+- [Tony Blair was warned repeal of anti-gay section 28 might harm election chances](https://www.theguardian.com/uk-news/2022/jul/19/tony-blair-warned-anti-gay-section-28-repeal-harm-election-chances)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

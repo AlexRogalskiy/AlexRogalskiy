@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The U.S. Needs a Million Talents Program to Retain Technology Leadership](https://foreignpolicy.com/2022/07/16/immigration-us-technology-companies-work-visas-china-talent-competition-universities/)
-- [Ask HN: How did you become one of the first 50 at a major tech company?](https://news.ycombinator.com/item?id=32134274)
-- [DNA from Ancient Southern China Suggests Native Americans&#39; East Asian Roots](https://www.sciencedaily.com/releases/2022/07/220714145052.htm)
-- [Supercloud?Metacloud? The next frontier in cloud computing](https://www.infoworld.com/article/3667371/the-next-frontier-in-cloud-computing.html)
-- [After Weight-Loss Surgery, a Year of Joys and Disappointments](https://www.nytimes.com/2016/12/27/health/bariatric-surgery.html)
-- [Will the Real Landscape Photography Please Stand Up?](https://petapixel.com/2015/01/31/will-real-landscape-photography-please-stand/)
-- [Federal Judge Temporarily Blocks Enforcement of L.g.b.t.q. Protections](https://www.nytimes.com/2022/07/17/us/judge-blocks-biden-lgbt-student-rules.html)
-- [As a 76-year-old let me say: Joe Biden is too old to run again Robert Reich](https://www.theguardian.com/commentisfree/2022/jul/17/as-a-76-year-old-let-me-say-joe-biden-is-too-old-to-run-again)
-- [Texas House investigative committee releases Uvalde school shooting report](https://www.statesman.com/story/news/local/2022/07/17/uvalde-shooting-report-texas-house-investigative-committee-details/65373647007/)
-- [An ex-Googler&#39;s guide to dev tools &lpar;2020&rpar;](https://about.sourcegraph.com/blog/ex-googler-guide-dev-tools)
+- [Ghana declares first ever outbreak of Ebola-like Marburg virus disease](https://abcnews.go.com/International/ghana-declares-1st-outbreak-ebola-marburg-virus-disease/story?id=86999548)
+- [Parsing XML at the Speed of Light](http://www.aosabook.org/en/posa/parsing-xml-at-the-speed-of-light.html)
+- [My original iPod is a time capsule from 2002 &lpar;2018&rpar;](https://www.theverge.com/2018/2/18/16992972/ipod-original-vintage-throwback-mp3-2000s)
+- [Thoughts on ML Engineering After a Year of My PhD](https://www.shreya-shankar.com/phd-year-one/)
+- [Optimization Manuals](https://www.agner.org/optimize/#manuals)
+- [63% of University of North Carolina Class of 2025 is female](https://alumni.unc.edu/news-publications/review-extras/admissions-article-archive-admissions-to-unc/charts/)
+- [Gazprom Claims Force Majeure in Its Halt of Gas Deliveries to Europe](https://www.wsj.com/articles/gazprom-claims-force-majeure-in-its-halt-of-gas-deliveries-to-europe-11658165893)
+- [Chip designers warm to U.S. bill despite big benefits to Intel](https://jp.reuters.com/article/usa-semiconductors-idUKKBN2OT0HN)
+- [Program Synthesis Explained &lpar;2015&rpar;](https://www.cs.utexas.edu/~bornholt/post/synthesis-explained.html)
+- [Mexican president&#39;s plea to Biden over Julian Assange as he renews asylum offer](https://www.sbs.com.au/news/article/mexican-presidents-plea-to-joe-biden-over-julian-assange-as-he-renews-asylum-offer/mo034mpvc)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

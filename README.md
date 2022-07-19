@@ -369,6 +369,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Cloud Monitoring Tools Help CIOs Reduce Carbon Footprint](https://www.informationweek.com/cloud/cloud-monitoring-tools-help-cios-reduce-carbon-footprint)
+- [Tips to Build a Stronger Third-Party Risk Management Program](https://www.informationweek.com/security-and-risk-strategy/tips-to-build-a-stronger-third-party-risk-management-program)
+- [6 Cloud Monitoring Use Cases and Why You Should Care](https://www.informationweek.com/cloud/6-cloud-monitoring-use-cases-and-why-you-should-care)
 - [10 Best-Paying Jobs in Data Science](https://www.informationweek.com/big-data/10-best-paying-jobs-in-data-science)
 - [Enterprise AI is Hard. These 3 Guidelines Fuel Success](https://www.informationweek.com/big-data/enterprise-ai-is-hard-these-3-guidelines-fuel-success)
 - [IBM Databand.ai Acquisition Targets Data Observability](https://www.informationweek.com/big-data/ibm-databand-ai-acquisition-targets-data-observability)
@@ -376,9 +379,6 @@
 - [Cloud, Data, and Political Protests Mark the 2022 AWS Summit](https://www.informationweek.com/cloud/cloud-data-and-political-protests-mark-the-2022-aws-summit)
 - [Ineffective Change Management &lpar;or the Short Shelf Life of Some CIOs&rpar;](https://www.informationweek.com/strategic-cio/ineffective-change-management-or-the-short-shelf-life-of-some-cios-)
 - [3 Ways to Empower Your Teams &lpar;and Why Needed More than Ever Now&rpar;](https://www.informationweek.com/strategic-cio/3-ways-to-empower-your-teams-and-why-needed-more-than-ever-now)
-- [Why It&#39;s So Hard to Accurately Predict IT Trends](https://www.informationweek.com/strategic-cio/why-it-s-so-hard-to-accurately-predict-it-trends)
-- [Confronting the Cybersecurity Compliance Challenge](https://www.informationweek.com/security-and-risk-strategy/confronting-the-cybersecurity-compliance-challenge)
-- [What the US Supreme Court Ruling on the EPA Means for ESG](https://www.informationweek.com/big-data/what-the-us-supreme-court-ruling-on-the-epa-means-for-esg)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

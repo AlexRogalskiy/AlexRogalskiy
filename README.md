@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Thoughts on ML Engineering After a Year of My PhD](https://www.shreya-shankar.com/phd-year-one/)
-- [Good managers write good](https://staysaasy.com/management/2022/07/10/Writing-Management.html)
-- [An update to paid sharing](https://about.netflix.com/en/news/update-to-paid-sharing)
-- [How to Design Programs](https://htdp.org/)
-- [Glassdoor not so anonymous](https://www.webworm.co/p/glassdoor)
-- [To hook diners, an invasive species of carp gets a new name](https://www.economist.com/united-states/2022/07/07/to-hook-american-diners-an-invasive-species-of-carp-gets-a-new-name)
-- [See Thru Jet Engine [video]](https://www.youtube.com/watch?v=MgL0GW248mE)
-- [Shannon&#39;s Demon and how returns can be created out of thin air](https://www.richmondquant.com/news/2021/9/21/shannons-demon-amp-how-portfolio-returns-can-be-created-out-of-thin-air)
-- [Film grain synthesis in AV1 &lpar;2019&rpar;](https://norkin.org/research/film_grain/index.html)
-- [Freshpaint &lpar;YC S19&rpar; is hiring engineers to build real-time data ingestion infra](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572)
+- [“No convincing evidence” that depression is caused by low serotonin levels](https://www.bmj.com/content/378/bmj.o1808)
+- [Show HN: bashttp - a very &lpar;very&rpar; simple web server in Bash](https://github.com/EddySchauHai/bashttp)
+- [The Einstein Principle: Accomplish More by Doing Less](https://www.calnewport.com/blog/2007/10/10/the-einstein-principle-accomplish-more-by-doing-less/)
+- [Introduction to TCP and Sockets](https://www.scottklement.com/rpg/socktut/introduction.html)
+- [Burnout](https://commoncog.com/g/burnout/)
+- [Small, Sharp Tools](https://brandur.org/small-sharp-tools)
+- [Fran Blanche: This Is Not Legal](https://www.youtube.com/watch?v=1qCM9L_FaFU)
+- [What I Miss About Working at Stripe](https://every.to/p/what-i-miss-about-working-at-stripe)
+- [PicoCart64: Nintendo 64 flash cart using a Raspberry Pi RP2040](https://github.com/kbeckmann/PicoCart64)
+- [Show HN: I built a handheld CHIP-8 game console to teach myself embedded systems](https://github.com/kurtjd/CHIPnGo)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

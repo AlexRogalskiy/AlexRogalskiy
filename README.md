@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Steve Bannon appears in court as contempt-of-Congress trial begins](https://www.theguardian.com/us-news/2022/jul/18/steve-bannon-contempt-of-congress-trial)
-- [Warnings on water use, transport and risks to health as heat heads for 41C](https://www.theguardian.com/uk-news/2022/jul/18/uk-weather-heatwave-boris-johnson-checked-out-airport-runways-closed)
-- [‘Earth sends a warning’: how the papers covered the UK’s scorching heat](https://www.theguardian.com/media/2022/jul/19/earth-sends-a-warning-how-the-papers-covered-the-uks-scorching-heat)
-- [Towering waves in Hawaii crash into homes, barrel through wedding venue](https://www.theguardian.com/us-news/2022/jul/18/hawaii-waves-swell-south-pacific)
-- [What will it take for the UK adapt to extreme heat?](https://www.theguardian.com/news/audio/2022/jul/19/what-will-it-take-for-the-uk-to-adapt-to-extreme-heat-podcast)
-- [Jewelry worth millions stolen from security truck at California rest stop](https://www.theguardian.com/us-news/2022/jul/18/jewelry-stolen-security-truck-california-rest-stop)
-- [Uvalde body camera video shows some police knew they needed to act quickly](https://www.theguardian.com/us-news/2022/jul/18/uvalde-school-shooting-body-camera-video)
-- [Russia-Ukraine war at a glance: what we know on day 146 of the invasion](https://www.theguardian.com/world/2022/jul/19/russia-ukraine-war-at-a-glance-what-we-know-on-day-146-of-the-invasion)
-- [Talking Horses: Newbury plans prize money boost with media rights move](https://www.theguardian.com/sport/blog/2022/jul/19/talking-horses-newbury-prize-money-media-rights-rtp)
-- [Tony Blair was warned repeal of anti-gay section 28 might harm election chances](https://www.theguardian.com/uk-news/2022/jul/19/tony-blair-warned-anti-gay-section-28-repeal-harm-election-chances)
+- [California police fatally shot 23-year-old Black man as he ran away, video shows](https://www.theguardian.com/us-news/2022/jul/19/police-killed-robert-adams-black-man-running-san-bernardino-california)
+- [Sri Lanka holds its breath as parliament chooses new president amid crisis](https://www.theguardian.com/world/2022/jul/20/sri-lanka-holds-its-breath-as-parliament-chooses-new-president-amid-crisis)
+- [Person in custody after bodies of three children found in Western Australia house fire](https://www.theguardian.com/australia-news/2022/jul/20/bodies-of-three-children-found-after-western-australia-house-fire)
+- [Secret Service turned over just one text message to January 6 panel, sources say](https://www.theguardian.com/us-news/2022/jul/19/secret-service-one-text-message-january-6-committee)
+- [Average UK school meals mostly made of ultra-processed foods](https://www.theguardian.com/food/2022/jul/20/average-uk-school-meals-mostly-made-of-ultra-processed-foods)
+- [Sri Lankans forced their president to flee the country: now what?](https://www.theguardian.com/news/audio/2022/jul/20/sri-lankans-forced-president-flee-now-what-podcast)
+- [‘Hellfire’: what the papers say about UK’s hottest ever day](https://www.theguardian.com/media/2022/jul/20/hellfire-what-the-papers-say-about-uks-hottest-ever-day)
+- [Anger in China after officials break into homes in hunt for Covid contacts](https://www.theguardian.com/world/2022/jul/20/china-covid-officials-break-into-homes-hunt-for-covid-contacts-guangzhou-apology-)
+- [English courts get new powers to dismiss Slapp cases against reporters](https://www.theguardian.com/media/2022/jul/20/english-courts-get-new-powers-to-dismiss-slapp-cases-against-reporters)
+- [Samsung cleared by UK watchdog over ad showing woman running at 2am](https://www.theguardian.com/society/2022/jul/20/samsung-cleared-by-uk-watchdog-over-ad-showing-woman-running-at-2am)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -384,6 +384,9 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Responding to your feedback on ‘metacloud’](https://www.infoworld.com/article/3667549/responding-to-your-feedback-on-metacloud.html#tk.rss_all)
+- [How we’ll solve software supply chain security](https://www.infoworld.com/article/3667473/how-well-solve-software-supply-chain-security.html#tk.rss_all)
+- [IT career roadmap: Director of engineering](https://www.infoworld.com/article/3664416/it-career-roadmap-director-of-engineering.html#tk.rss_all)
 - [Open source isn’t working for AI](https://www.infoworld.com/article/3667433/open-source-isnt-working-for-ai.html#tk.rss_all)
 - [7 reasons Java is still great](https://www.infoworld.com/article/3666525/7-reasons-java-is-still-great.html#tk.rss_all)
 - [Securing data at rest and data in motion](https://www.infoworld.com/article/3666500/securing-data-at-rest-and-data-in-motion.html#tk.rss_all)
@@ -391,9 +394,6 @@
 - [So why did they decide to call it Java?](https://www.infoworld.com/article/2077265/so-why-did-they-decide-to-call-it-java.html#tk.rss_all)
 - [The next frontier in cloud computing](https://www.infoworld.com/article/3667371/the-next-frontier-in-cloud-computing.html#tk.rss_all)
 - [Go language revises memory model](https://www.infoworld.com/article/3667273/go-language-revises-memory-model.html#tk.rss_all)
-- [What is Google JAX? NumPy on accelerators](https://www.infoworld.com/article/3666812/what-is-google-jax-numpy-on-accelerators.html#tk.rss_all)
-- [Rocky Linux 9.0 rocks new build system](https://www.infoworld.com/article/3667308/rocky-linux-90-rocks-new-build-system.html#tk.rss_all)
-- [StarRocks launches managed DBaaS for real-time analytics](https://www.infoworld.com/article/3667370/starrocks-launches-managed-dbaas-for-real-time-analytics.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

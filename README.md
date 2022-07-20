@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ghana declares first ever outbreak of Ebola-like Marburg virus disease](https://abcnews.go.com/International/ghana-declares-1st-outbreak-ebola-marburg-virus-disease/story?id=86999548)
-- [Parsing XML at the Speed of Light](http://www.aosabook.org/en/posa/parsing-xml-at-the-speed-of-light.html)
-- [My original iPod is a time capsule from 2002 &lpar;2018&rpar;](https://www.theverge.com/2018/2/18/16992972/ipod-original-vintage-throwback-mp3-2000s)
-- [Thoughts on ML Engineering After a Year of My PhD](https://www.shreya-shankar.com/phd-year-one/)
-- [Optimization Manuals](https://www.agner.org/optimize/#manuals)
-- [63% of University of North Carolina Class of 2025 is female](https://alumni.unc.edu/news-publications/review-extras/admissions-article-archive-admissions-to-unc/charts/)
-- [Gazprom Claims Force Majeure in Its Halt of Gas Deliveries to Europe](https://www.wsj.com/articles/gazprom-claims-force-majeure-in-its-halt-of-gas-deliveries-to-europe-11658165893)
-- [Chip designers warm to U.S. bill despite big benefits to Intel](https://jp.reuters.com/article/usa-semiconductors-idUKKBN2OT0HN)
-- [Program Synthesis Explained &lpar;2015&rpar;](https://www.cs.utexas.edu/~bornholt/post/synthesis-explained.html)
-- [Mexican president&#39;s plea to Biden over Julian Assange as he renews asylum offer](https://www.sbs.com.au/news/article/mexican-presidents-plea-to-joe-biden-over-julian-assange-as-he-renews-asylum-offer/mo034mpvc)
+- [US Secret Service says it hasn&#39;t been able to recover missing text messages](https://www.cnn.com/2022/07/19/politics/secret-service-texts-national-archives/index.html)
+- [Linux Memory Statistics](https://dropbear.xyz/2022/07/19/linux-memory-statistics/)
+- [Round 21 – TechEmpower Framework Benchmark](https://www.techempower.com/benchmarks/#section=data-r21)
+- [Bizarre vintage tobacco advertising that made smoking seem healthy, 1920s-1930s](https://rarehistoricalphotos.com/bizarre-vintage-tobacco-advertising/)
+- [PicoSystem, the tiny hackable handheld based on RP2040](https://www.raspberrypi.com/news/meet-picosystem-the-tiny-hackable-handheld-based-on-rp2040/)
+- [Interview with Sierra On-Line Founders Ken and Roberta Williams](https://kotaku.com/sierra-roberta-williams-kings-quest-interview-feature-1849192779)
+- [Activists push to bar anthropologists from identifying remains as male or female](https://www.thecollegefix.com/gender-activists-push-to-bar-anthropologists-from-identifying-human-remains-as-male-or-female/)
+- [The Creative vs. the Marketing Team: Yin and Yang, Oil and Water](https://www.smashingmagazine.com/2010/07/yin-and-yang-oil-and-water-creative-and-marketing/)
+- [Ask HN: What metric does your company use to measure deveveloper performance?](https://news.ycombinator.com/item?id=32160785)
+- [Google Begins Publicly Testing Its AR Glasses](https://www.cnet.com/tech/computing/google-begins-publicly-testing-its-ar-glasses/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

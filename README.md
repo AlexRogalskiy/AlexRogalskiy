@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
+- [Microsoft Teams now lets users send short video clip messages](https://www.computerworld.com/article/3667495/microsoft-teams-now-lets-users-send-short-video-clip-messages.html#tk.rss_all)
+- [Microsoft brings social network-style ‘stories’ to work](https://www.computerworld.com/article/3667480/microsoft-brings-social-network-style-stories-posts-to-work.html#tk.rss_all)
+- [Slack Pro is getting more expensive in September](https://www.computerworld.com/article/3667481/slack-pro-is-getting-more-expensive-from-september.html#tk.rss_all)
+- [Geopolitical events put pressure on IBM earnings](https://www.computerworld.com/article/3667479/geopolitical-events-put-pressure-on-ibm-earnings.html#tk.rss_all)
+- [Old PCs can find new life with Google ChromeOS Flex](https://www.computerworld.com/article/3667492/old-pcs-can-find-new-life-with-google-chromeos-flex.html#tk.rss_all)
+- [Q&amp;A: FNA&#39;s Carlos León on how digital money can be more efficient and safe](https://www.computerworld.com/article/3667275/qa-fnas-carlos-leon-on-how-digital-money-can-be-more-efficient-and-safe.html#tk.rss_all)
 - [Thinking of an in-place Windows upgrade? Here&#39;s how to do it.](https://www.computerworld.com/article/3667648/thinking-of-an-in-place-windows-upgrade-heres-how-to-do-it.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [Inflation pushes some workers to new jobs — and some regrets](https://www.computerworld.com/article/3667489/inflation-pushes-some-workers-to-new-jobs-and-some-regrets.html#tk.rss_all)
-- [With a light July Patch Tuesday, it&#39;s time to invest in your IT processes](https://www.computerworld.com/article/3667375/with-a-light-july-patch-tuesday-its-time-to-invest-in-your-it-processes.html#tk.rss_all)
-- [Why Tim Cook is concerned about coding skills](https://www.computerworld.com/article/3667373/why-tim-cook-is-concerned-about-coding-skills.html#tk.rss_all)
-- [Zuckerberg, Musk and how to mitigate bad executive decisions](https://www.computerworld.com/article/3667470/zuckerberg-musk-and-how-to-mitigate-bad-executive-decisions.html#tk.rss_all)
-- [When it comes to building customer trust, service trumps sustainability](https://www.computerworld.com/article/3666741/when-it-comes-to-building-customer-trust-service-trumps-sustainability.html#tk.rss_all)
-- [Podcast: The M2 MacBook Air reviews are in](https://www.computerworld.com/article/3667312/podcast-the-m2-macbook-air-reviews-are-in.html#tk.rss_all)
-- [Mobile convergence accelerates as &#39;Tap to Pay&#39; dings US retail](https://www.computerworld.com/article/3667272/mobile-convergence-accelerates-as-tap-to-pay-dings-us-retail.html#tk.rss_all)
-- [BrandPost: The Future of Apple Endpoint Software is Here and Mosyle Is Leading the Way](https://www.computerworld.com/article/3666735/the-future-of-apple-endpoint-software-is-here-and-mosyle-is-leading-the-way.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

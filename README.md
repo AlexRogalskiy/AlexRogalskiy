@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [A Computer Weekly buyer’s guide to supply chain security](https://www.computerweekly.com/ehandbook/A-Computer-Weekly-buyers-guide-to-supply-chain-security)
+- [CIO interview: Michael Taylor, Mercedes-AMG Petronas Formula One](https://www.computerweekly.com/news/252522562/CIO-Interview-Michael-Taylor-Mercedes-AMG-Petronas-Formula-One)
+- [Pro-business AI framework spans sector-specific regulations](https://www.computerweekly.com/news/252522896/Pro-business-AI-framework-spans-sector-specific-regulations)
+- [Where are all the technologists? Talent shortages and what to do about them](https://www.computerweekly.com/opinion/Where-are-all-the-technologists-Talent-shortages-and-what-to-do-about-them)
+- [Tracking the rise of homeworking across the UK](https://www.computerweekly.com/ezine/Computer-Weekly/Tracking-the-rise-of-homeworking-across-the-UK)
+- [Employee experience joins CX for total enterprise view](https://www.computerweekly.com/feature/Employee-experience-joins-CX-for-total-enterprise-view)
+- [MPs slam FCSA for declining to answer questions on umbrella companies withholding holiday pay](https://www.computerweekly.com/news/252522886/MPs-slam-FCSA-for-declining-to-answer-questions-on-umbrella-companies-withholding-holiday-pay)
 - [Putting automation into motion will put the wheels on UK economic growth](https://www.computerweekly.com/news/252522797/Putting-automation-into-motion-will-put-the-wheels-on-UK-economic-growth)
 - [US cyber agency CISA to open London office](https://www.computerweekly.com/news/252522855/US-cyber-agency-CISA-to-open-London-office)
 - [NHS Digital seeks out wireless healthcare innovation](https://www.computerweekly.com/news/252522852/NHS-Digital-seeks-out-wireless-healthcare-innovation)
-- [Dutch multinational hires HCL for digital transformation](https://www.computerweekly.com/news/252522847/Dutch-multinational-hires-HCL-for-digital-transformation)
-- [Government proposes pro-innovation AI framework](https://www.computerweekly.com/news/252522850/Government-proposes-pro-innovation-AI-framework)
-- [Oracle payroll system causes underpayment of Next staff](https://www.computerweekly.com/news/252522848/Oracle-payroll-system-causes-underpayment-of-Next-staff)
-- [What to look for when taking out a cyber insurance policy](https://www.computerweekly.com/feature/What-to-look-for-when-taking-out-a-cyber-insurance-policy)
-- [NHS trust ‘deliberately’ deleted up to 90,000 emails before tribunal hearing](https://www.computerweekly.com/news/252522787/NHS-trust-deliberately-deleted-up-to-90000-emails-before-tribunal-hearing)
-- [Drivers’ union calls for immediate dismissal of Uber executive](https://www.computerweekly.com/news/252522795/Drivers-union-calls-for-immediate-dismissal-of-Uber-executive)
-- [Log4Shell on its way to becoming ‘endemic’](https://www.computerweekly.com/news/252522789/Log4Shell-on-its-way-to-becoming-endemic)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

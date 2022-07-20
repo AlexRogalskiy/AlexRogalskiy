@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Canada’s network performance remains mostly unchanged compared to last quarter, finds Ookla report](https://www.itworldcanada.com/article/canadas-network-performance-remains-relatively-unchanged-compared-to-last-quarter-finds-ookla-report/493334)
+- [Two Canadian smart building software firms to merge offerings, R&amp;D](https://www.itworldcanada.com/article/two-canadian-smart-building-software-firms-to-merge-offerings-rd/493247)
+- [Coffee Briefing July 19, 2022 – Government of Canada invests C$7.7 million in tech SMEs and green recovery; Thomson Reuters expands remote work benefits; TikTok launches “Follow Me”; and more](https://www.itworldcanada.com/article/coffee-briefing-july-19-2022-government-of-canada-invests-c7-7-million-in-tech-smes-and-green-recovery-thomson-reuters-expands-remote-work-benefits-tiktok-launches-follow-me-and-more/493220)
+- [Huge phishing campaign evades MFA, leads to business email fraud: Microsoft](https://www.itworldcanada.com/article/huge-phishing-campaign-evades-mfa-leads-to-business-email-fraud-microsoft/493277)
+- [Hashtag Trending July 19 – Social media buyer’s remorse; Netflix new fee; are video game loot boxes gambling?](https://www.itworldcanada.com/article/hashtag-trending-july-19-social-media-buyers-remorse-netflix-new-fee-are-video-game-loot-boxes-gambling/493260)
 - [Cyber Security Today, July 18, 2022 – Ransomware targets small businesses, warnings for Digium Elastix and Netwrix Auditor administrators, and more](https://www.itworldcanada.com/article/cyber-security-today-july-18-2022-ransomware-targets-small-businesses-warnings-for-digium-elastix-and-netwrix-auditor-administrators-and-more/493066)
 - [Hashtag Trending July 18 – CATL new battery plants in Mexico; FCC proposes faster broadband speeds; JWST’s small storage](https://www.itworldcanada.com/article/hashtag-trending-july-18-catl-new-battery-plants-in-mexico-fcc-proposes-faster-broadband-speeds-jwsts-small-storage/493120)
 - [This week in ransomware – Friday, July 15, 2022](https://www.itworldcanada.com/article/this-week-in-ransomware-friday-july-15-2022/492888)
 - [Hashtag Weekend for Saturday, July 16, 2022 – Data analytics in policing and what we can learn.  Interview with Greg Stanisci](https://www.itworldcanada.com/article/hashtag-weekend-for-saturday-july-16-2022-data-analytics-in-policing-and-what-we-can-learn-interview-with-greg-stanisci/492875)
 - [U of G receives $1M donation to launch ethical AI training modules](https://www.itworldcanada.com/article/u-of-g-receives-1m-donation-to-launch-ethical-ai-training-modules/492742)
-- [Log4j vulnerability has reached endemic proportions, says report](https://www.itworldcanada.com/article/log4j-vulnerability-has-reached-endemic-proportions-says-report/492741)
-- [Cyber Security Today, Week in Review for Friday July 15, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-july-15-2022/492206)
-- [Study reveals dark data impeding successful DataOps strategies](https://www.itworldcanada.com/article/study-reveals-dark-data-impeding-successful-dataops-strategies/492688)
-- [Cyber Security Today – Friday, July 15, 2022 Quickbooks, credit card and new data scams](https://www.itworldcanada.com/article/cyber-security-today-quickbooks-credit-card-and-new-data-scams/492615)
-- [Hashtag Trending July 15 – Panasonic’s new battery plant; U.S. starting to allocate the broadband fund; Uber harassment lawsuit](https://www.itworldcanada.com/article/hashtag-trending-july-15-panasonics-new-battery-plant-u-s-starting-to-allocate-the-broadband-fund-uber-harassment-lawsuit/492660)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

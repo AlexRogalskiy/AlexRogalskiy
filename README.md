@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [FCC head wants to boost ‘broadband’ standard to 100Mbps nationwide](https://www.computerworld.com/article/3667928/fcc-head-wants-to-boost-broadband-standard-to-100mbps-nationwide.html#tk.rss_all)
+- [Apple reads the room, looks to slow hiring in &#39;23](https://www.computerworld.com/article/3667552/apple-reads-the-room-looks-to-slow-hiring-in-23.html#tk.rss_all)
+- [Will new EU crypto rules change how ransomware is played?](https://www.computerworld.com/article/3667281/will-new-eu-crypto-rules-change-how-ransomware-is-played.html#tk.rss_all)
+- [How to stay smart about Android app permissions](https://www.computerworld.com/article/3667500/android-app-permissions.html#tk.rss_all)
+- [7 ways to keep remote and hybrid teams connected](https://www.computerworld.com/article/3664852/how-to-keep-remote-and-hybrid-teams-connected.html#tk.rss_all)
+- [Netflix to launch ad-supported tier with Microsoft in 2023](https://www.computerworld.com/article/3667283/netflix-to-launch-ad-supported-tier-with-microsoft-in-2023.html#tk.rss_all)
 - [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
 - [Microsoft Teams now lets users send short video clip messages](https://www.computerworld.com/article/3667495/microsoft-teams-now-lets-users-send-short-video-clip-messages.html#tk.rss_all)
 - [Microsoft brings social network-style ‘stories’ to work](https://www.computerworld.com/article/3667480/microsoft-brings-social-network-style-stories-posts-to-work.html#tk.rss_all)
 - [Slack Pro is getting more expensive in September](https://www.computerworld.com/article/3667481/slack-pro-is-getting-more-expensive-from-september.html#tk.rss_all)
-- [Geopolitical events put pressure on IBM earnings](https://www.computerworld.com/article/3667479/geopolitical-events-put-pressure-on-ibm-earnings.html#tk.rss_all)
-- [Old PCs can find new life with Google ChromeOS Flex](https://www.computerworld.com/article/3667492/old-pcs-can-find-new-life-with-google-chromeos-flex.html#tk.rss_all)
-- [Q&amp;A: FNA&#39;s Carlos León on how digital money can be more efficient and safe](https://www.computerworld.com/article/3667275/qa-fnas-carlos-leon-on-how-digital-money-can-be-more-efficient-and-safe.html#tk.rss_all)
-- [Thinking of an in-place Windows upgrade? Here&#39;s how to do it.](https://www.computerworld.com/article/3667648/thinking-of-an-in-place-windows-upgrade-heres-how-to-do-it.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [Inflation pushes some workers to new jobs — and some regrets](https://www.computerworld.com/article/3667489/inflation-pushes-some-workers-to-new-jobs-and-some-regrets.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [California police fatally shot 23-year-old Black man as he ran away, video shows](https://www.theguardian.com/us-news/2022/jul/19/police-killed-robert-adams-black-man-running-san-bernardino-california)
-- [Sri Lanka holds its breath as parliament chooses new president amid crisis](https://www.theguardian.com/world/2022/jul/20/sri-lanka-holds-its-breath-as-parliament-chooses-new-president-amid-crisis)
-- [Person in custody after bodies of three children found in Western Australia house fire](https://www.theguardian.com/australia-news/2022/jul/20/bodies-of-three-children-found-after-western-australia-house-fire)
-- [Secret Service turned over just one text message to January 6 panel, sources say](https://www.theguardian.com/us-news/2022/jul/19/secret-service-one-text-message-january-6-committee)
-- [Average UK school meals mostly made of ultra-processed foods](https://www.theguardian.com/food/2022/jul/20/average-uk-school-meals-mostly-made-of-ultra-processed-foods)
-- [Sri Lankans forced their president to flee the country: now what?](https://www.theguardian.com/news/audio/2022/jul/20/sri-lankans-forced-president-flee-now-what-podcast)
-- [‘Hellfire’: what the papers say about UK’s hottest ever day](https://www.theguardian.com/media/2022/jul/20/hellfire-what-the-papers-say-about-uks-hottest-ever-day)
-- [Anger in China after officials break into homes in hunt for Covid contacts](https://www.theguardian.com/world/2022/jul/20/china-covid-officials-break-into-homes-hunt-for-covid-contacts-guangzhou-apology-)
-- [English courts get new powers to dismiss Slapp cases against reporters](https://www.theguardian.com/media/2022/jul/20/english-courts-get-new-powers-to-dismiss-slapp-cases-against-reporters)
-- [Samsung cleared by UK watchdog over ad showing woman running at 2am](https://www.theguardian.com/society/2022/jul/20/samsung-cleared-by-uk-watchdog-over-ad-showing-woman-running-at-2am)
+- [Ukraine war forcing China to rethink ‘how and when’ it may invade Taiwan, CIA chief says](https://www.theguardian.com/world/2022/jul/21/ukraine-war-forcing-china-to-rethink-how-and-when-it-may-invade-taiwan-cia-chief-says)
+- [Theresa May refuses to clap Boris Johnson during standing ovation – video](https://www.theguardian.com/politics/video/2022/jul/21/theresa-may-refuses-to-clap-boris-johnson-during-standing-ovation-video)
+- [How Covid keeps surprising us and confounding the experts](https://www.theguardian.com/news/audio/2022/jul/21/how-covid-keeps-surprising-us-and-confounding-the-experts-podcast)
+- [When the world overwhelms, joyous rituals like weddings endure – now that’s what J-Lo and I have in common | Van Badham](https://www.theguardian.com/commentisfree/2022/jul/21/bennifer-wedding-has-inspired-in-me-an-all-too-rare-feeling-of-hope)
+- [Sri Lanka braced for more unrest as new president vows crackdown on ‘fascist’ protests](https://www.theguardian.com/world/2022/jul/21/sri-lanka-unrest-new-president-crackdown-protests)
+- [Egypt relaxes street photography ban for tourists, up to a point](https://www.theguardian.com/world/2022/jul/21/egypt-relaxes-street-photography-ban-for-tourists-up-to-a-point)
+- [UK cybersecurity chiefs back plan to scan phones for child abuse images](https://www.theguardian.com/uk-news/2022/jul/21/uk-cybersecurity-chiefs-back-plan-to-scan-phones-for-child-abuse-images)
+- [Rise in insurance fraud fuelled by cost of living crisis, says UK insurer](https://www.theguardian.com/business/2022/jul/21/rise-in-insurance-fuelled-by-cost-of-living-crisis-says-uk-insurer)
+- [TikTok is fastest growing news source for UK adults, Ofcom finds](https://www.theguardian.com/technology/2022/jul/21/tiktok-is-fastest-growing-news-source-for-uk-adults-ofcom-finds)
+- [Shortlist announced for Waterstones debut fiction prize](https://www.theguardian.com/books/2022/jul/21/shortlist-announced-for-waterstones-debut-fiction-prize)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

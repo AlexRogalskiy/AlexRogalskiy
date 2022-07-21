@@ -384,16 +384,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Cilium launches eBPF-powered Kubernetes service mesh](https://www.infoworld.com/article/3667493/cilium-launches-ebpf-powered-kubernetes-service-mesh.html#tk.rss_all)
+- [Oracle partners with Microsoft to launch database service for Azure](https://www.infoworld.com/article/3667443/oracle-partners-with-microsoft-to-launch-database-service-for-azure.html#tk.rss_all)
+- [Trying out the Azure Developer CLI](https://www.infoworld.com/article/3667278/trying-out-the-azure-developer-cli.html#tk.rss_all)
+- [How to use Python dictionaries](https://www.infoworld.com/article/3665094/how-to-use-python-dictionaries.html#tk.rss_all)
 - [Responding to your feedback on ‘metacloud’](https://www.infoworld.com/article/3667549/responding-to-your-feedback-on-metacloud.html#tk.rss_all)
 - [How we’ll solve software supply chain security](https://www.infoworld.com/article/3667473/how-well-solve-software-supply-chain-security.html#tk.rss_all)
 - [IT career roadmap: Director of engineering](https://www.infoworld.com/article/3664416/it-career-roadmap-director-of-engineering.html#tk.rss_all)
 - [Open source isn’t working for AI](https://www.infoworld.com/article/3667433/open-source-isnt-working-for-ai.html#tk.rss_all)
 - [7 reasons Java is still great](https://www.infoworld.com/article/3666525/7-reasons-java-is-still-great.html#tk.rss_all)
 - [Securing data at rest and data in motion](https://www.infoworld.com/article/3666500/securing-data-at-rest-and-data-in-motion.html#tk.rss_all)
-- [GitHub Copilot users feel more productive](https://www.infoworld.com/article/3667376/github-copilot-users-feel-more-productive.html#tk.rss_all)
-- [So why did they decide to call it Java?](https://www.infoworld.com/article/2077265/so-why-did-they-decide-to-call-it-java.html#tk.rss_all)
-- [The next frontier in cloud computing](https://www.infoworld.com/article/3667371/the-next-frontier-in-cloud-computing.html#tk.rss_all)
-- [Go language revises memory model](https://www.infoworld.com/article/3667273/go-language-revises-memory-model.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

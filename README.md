@@ -369,6 +369,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [CIO, CDO and CTO: The 3 Faces of Executive IT](https://www.informationweek.com/strategic-cio/cio-cdo-and-cto-the-3-faces-of-executive-it)
+- [Uncovering the Pathway to Modern Organizational Resilience](https://www.informationweek.com/strategic-cio/uncovering-the-pathway-to-modern-organizational-resilience)
 - [How to Boost IT Team Creativity](https://www.informationweek.com/strategic-cio/how-to-boost-it-team-creativity)
 - [The State of ITOps and SecOps: An Inside Look](https://www.informationweek.com/security-and-risk-strategy/the-state-of-itops-and-secops-an-inside-look)
 - [How To Minimize the Impacts of Shadow IT on Your Business](https://www.informationweek.com/security-and-risk-strategy/how-to-minimize-the-impacts-of-shadow-it-on-your-business)
@@ -377,8 +379,6 @@
 - [Tips to Build a Stronger Third-Party Risk Management Program](https://www.informationweek.com/security-and-risk-strategy/tips-to-build-a-stronger-third-party-risk-management-program)
 - [6 Cloud Monitoring Use Cases and Why You Should Care](https://www.informationweek.com/cloud/6-cloud-monitoring-use-cases-and-why-you-should-care)
 - [10 Best-Paying Jobs in Data Science](https://www.informationweek.com/big-data/10-best-paying-jobs-in-data-science)
-- [Why Security Inspection Should Be a ZTNA Requirement](https://www.informationweek.com/palo-alto-networks/why-security-inspection-should-be-a-ztna-requirement)
-- [Enterprise AI is Hard. These 3 Guidelines Fuel Success](https://www.informationweek.com/big-data/enterprise-ai-is-hard-these-3-guidelines-fuel-success)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

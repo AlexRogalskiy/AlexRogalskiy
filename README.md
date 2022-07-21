@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [“No convincing evidence” that depression is caused by low serotonin levels](https://www.bmj.com/content/378/bmj.o1808)
-- [Show HN: bashttp - a very &lpar;very&rpar; simple web server in Bash](https://github.com/EddySchauHai/bashttp)
-- [The Einstein Principle: Accomplish More by Doing Less](https://www.calnewport.com/blog/2007/10/10/the-einstein-principle-accomplish-more-by-doing-less/)
-- [Introduction to TCP and Sockets](https://www.scottklement.com/rpg/socktut/introduction.html)
-- [Burnout](https://commoncog.com/g/burnout/)
-- [Small, Sharp Tools](https://brandur.org/small-sharp-tools)
-- [Fran Blanche: This Is Not Legal](https://www.youtube.com/watch?v=1qCM9L_FaFU)
-- [What I Miss About Working at Stripe](https://every.to/p/what-i-miss-about-working-at-stripe)
-- [PicoCart64: Nintendo 64 flash cart using a Raspberry Pi RP2040](https://github.com/kbeckmann/PicoCart64)
-- [Show HN: I built a handheld CHIP-8 game console to teach myself embedded systems](https://github.com/kurtjd/CHIPnGo)
+- [Microsoft Teams down for thousands of users](https://www.reuters.com/article/microsoft-outages-idCAKBN2OW03G)
+- [Alaska Airlines becomes first U.S. airline to launch electronic bag tag program](https://news.alaskaair.com/guest-experience/alaska-airlines-first-us-airline-to-launch-electronic-bag-tag/)
+- [A 165-Mile Drone Superhighway Will Soon Be Built in the UK](https://singularityhub.com/2022/07/20/a-165-mile-drone-superhighway-will-soon-be-built-in-the-uk/)
+- [8-bit 64K 1802 computer with front panel and serial port in an Altoids tin](http://www.sunrise-ev.com/1802.htm)
+- [Tell HN: Salesforce has globally revoked Slack&#39;s holiday shutdown benefit](https://news.ycombinator.com/item?id=32174596)
+- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Remote Machine Learning Engineers](https://news.ycombinator.com/item?id=32174543)
+- [Continued cyber activity in Eastern Europe observed by TAG](https://blog.google/threat-analysis-group/continued-cyber-activity-in-eastern-europe-observed-by-tag/)
+- [Archive.org Seeks Summary Judgment in Lawsuit Filed by Publishing Companies](https://blog.archive.org/2022/07/08/internet-archive-seeks-summary-judgment-in-federal-lawsuit-filed-by-publishing-companies/)
+- [Weeknotes: Datasette, SQLite-utils, Datasette Desktop](https://simonwillison.net/2022/Jul/20/weeknotes/)
+- [A framework for audio software development](https://cabbageaudio.com/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

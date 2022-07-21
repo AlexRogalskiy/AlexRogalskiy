@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [How many years at a help desk?](https://www.reddit.com/r/InformationTechnology/comments/w3xrl7/how_many_years_at_a_help_desk/)
+- [how do I start towards a career in IT/cyber security? is it right for me?](https://www.reddit.com/r/InformationTechnology/comments/w3tmzc/how_do_i_start_towards_a_career_in_itcyber/)
+- [IT Help Desk - doing virtual and in-person?](https://www.reddit.com/r/InformationTechnology/comments/w3nycp/it_help_desk_doing_virtual_and_inperson/)
+- [Study path as a newbie in Australia?](https://www.reddit.com/r/InformationTechnology/comments/w3g3pp/study_path_as_a_newbie_in_australia/)
 - [contract type work](https://www.reddit.com/r/InformationTechnology/comments/w3321f/contract_type_work/)
 - [If someone knows about ICT, can you answer my questions:](https://www.reddit.com/r/InformationTechnology/comments/w2z4td/if_someone_knows_about_ict_can_you_answer_my/)
 - [System Administrator-type Projects for a Work Study Job](https://www.reddit.com/r/InformationTechnology/comments/w2vgz0/system_administratortype_projects_for_a_work/)
 - [IT Major Bachelor](https://www.reddit.com/r/InformationTechnology/comments/w2uxrn/it_major_bachelor/)
 - [IT Career Switch](https://www.reddit.com/r/InformationTechnology/comments/w2svlu/it_career_switch/)
 - [How C|CISO Helped Me Effectively Communicate With Organizational Stakeholders | Uma Rajagopal](https://www.reddit.com/r/InformationTechnology/comments/w2lvff/how_cciso_helped_me_effectively_communicate_with/)
-- [Is My Experience Enough?](https://www.reddit.com/r/InformationTechnology/comments/w2lnuo/is_my_experience_enough/)
-- [Entry level positions](https://www.reddit.com/r/InformationTechnology/comments/w25fzc/entry_level_positions/)
-- [Looking for a program to visually manage our IT infrastructure.](https://www.reddit.com/r/InformationTechnology/comments/w1l91a/looking_for_a_program_to_visually_manage_our_it/)
-- [What positions can make over 100K without going into programming or management?](https://www.reddit.com/r/InformationTechnology/comments/w1kshc/what_positions_can_make_over_100k_without_going/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Bell’s Fibe trademark challenged in Federal Court](https://www.itworldcanada.com/article/bells-fibe-trademark-challenged-in-federal-court/493534)
+- [Four new ransomware groups to be aware of](https://www.itworldcanada.com/article/four-new-ransomware-groups-to-be-aware-of/493428)
+- [Cyber Security Today, July 20, 2022 – An anonymous service that can get you hacked, infected online restaurant platforms, a Mac backdoor discovered, and more](https://www.itworldcanada.com/article/cyber-security-today-july-20-2022-an-anonymous-service-that-can-get-you-hacked-infected-online-restaurant-platforms-a-mac-backdoor-discovered-and-more/493381)
+- [Hashtag Trending July 20 – Netflix silver lining; Snapchat for desktop; Apple settles keyboard lawsuit](https://www.itworldcanada.com/article/hashtag-trending-july-20-netflix-silver-lining-snapchat-for-desktop-apple-settles-keyboard-lawsuit/493448)
 - [Canada’s network performance remains mostly unchanged compared to last quarter, finds Ookla report](https://www.itworldcanada.com/article/canadas-network-performance-remains-relatively-unchanged-compared-to-last-quarter-finds-ookla-report/493334)
 - [Two Canadian smart building software firms to merge offerings, R&amp;D](https://www.itworldcanada.com/article/two-canadian-smart-building-software-firms-to-merge-offerings-rd/493247)
 - [Coffee Briefing July 19, 2022 – Government of Canada invests C$7.7 million in tech SMEs and green recovery; Thomson Reuters expands remote work benefits; TikTok launches “Follow Me”; and more](https://www.itworldcanada.com/article/coffee-briefing-july-19-2022-government-of-canada-invests-c7-7-million-in-tech-smes-and-green-recovery-thomson-reuters-expands-remote-work-benefits-tiktok-launches-follow-me-and-more/493220)
 - [Huge phishing campaign evades MFA, leads to business email fraud: Microsoft](https://www.itworldcanada.com/article/huge-phishing-campaign-evades-mfa-leads-to-business-email-fraud-microsoft/493277)
 - [Hashtag Trending July 19 – Social media buyer’s remorse; Netflix new fee; are video game loot boxes gambling?](https://www.itworldcanada.com/article/hashtag-trending-july-19-social-media-buyers-remorse-netflix-new-fee-are-video-game-loot-boxes-gambling/493260)
 - [Cyber Security Today, July 18, 2022 – Ransomware targets small businesses, warnings for Digium Elastix and Netwrix Auditor administrators, and more](https://www.itworldcanada.com/article/cyber-security-today-july-18-2022-ransomware-targets-small-businesses-warnings-for-digium-elastix-and-netwrix-auditor-administrators-and-more/493066)
-- [Hashtag Trending July 18 – CATL new battery plants in Mexico; FCC proposes faster broadband speeds; JWST’s small storage](https://www.itworldcanada.com/article/hashtag-trending-july-18-catl-new-battery-plants-in-mexico-fcc-proposes-faster-broadband-speeds-jwsts-small-storage/493120)
-- [This week in ransomware – Friday, July 15, 2022](https://www.itworldcanada.com/article/this-week-in-ransomware-friday-july-15-2022/492888)
-- [Hashtag Weekend for Saturday, July 16, 2022 – Data analytics in policing and what we can learn.  Interview with Greg Stanisci](https://www.itworldcanada.com/article/hashtag-weekend-for-saturday-july-16-2022-data-analytics-in-policing-and-what-we-can-learn-interview-with-greg-stanisci/492875)
-- [U of G receives $1M donation to launch ethical AI training modules](https://www.itworldcanada.com/article/u-of-g-receives-1m-donation-to-launch-ethical-ai-training-modules/492742)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

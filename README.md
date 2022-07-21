@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [US Secret Service says it hasn&#39;t been able to recover missing text messages](https://www.cnn.com/2022/07/19/politics/secret-service-texts-national-archives/index.html)
-- [Linux Memory Statistics](https://dropbear.xyz/2022/07/19/linux-memory-statistics/)
-- [Round 21 – TechEmpower Framework Benchmark](https://www.techempower.com/benchmarks/#section=data-r21)
-- [Bizarre vintage tobacco advertising that made smoking seem healthy, 1920s-1930s](https://rarehistoricalphotos.com/bizarre-vintage-tobacco-advertising/)
-- [PicoSystem, the tiny hackable handheld based on RP2040](https://www.raspberrypi.com/news/meet-picosystem-the-tiny-hackable-handheld-based-on-rp2040/)
-- [Interview with Sierra On-Line Founders Ken and Roberta Williams](https://kotaku.com/sierra-roberta-williams-kings-quest-interview-feature-1849192779)
-- [Activists push to bar anthropologists from identifying remains as male or female](https://www.thecollegefix.com/gender-activists-push-to-bar-anthropologists-from-identifying-human-remains-as-male-or-female/)
-- [The Creative vs. the Marketing Team: Yin and Yang, Oil and Water](https://www.smashingmagazine.com/2010/07/yin-and-yang-oil-and-water-creative-and-marketing/)
-- [Ask HN: What metric does your company use to measure deveveloper performance?](https://news.ycombinator.com/item?id=32160785)
-- [Google Begins Publicly Testing Its AR Glasses](https://www.cnet.com/tech/computing/google-begins-publicly-testing-its-ar-glasses/)
+- [Baidu unveils autonomous vehicle with detachable steering wheel](https://www.reuters.com/technology/baidu-unveils-autonomous-vehicle-without-steering-wheel-2022-07-21/)
+- [Checkers Was Solved](https://www.theatlantic.com/technology/archive/2017/07/marion-tinsley-checkers/534111/)
+- [Tesla Sells Majority of Bitcoin After Turbulent Crypto Foray](https://www.bloomberg.com/news/articles/2022-07-20/tesla-converts-most-bitcoin-adds-936-million-to-balance-sheet)
+- [THAT Reduced Their Database Load by 80% and Response Times by 40x](https://stellate.co/blog/40x-faster-graphql-for-that-conference)
+- [About the security content of macOS Monterey 12.5](https://support.apple.com/en-lamr/HT213345)
+- [Atlassian reveals critical flaws in almost everything it makes and touches](https://www.theregister.com/2022/07/21/atlassian_critical_security_advisories/)
+- [Tesla sells most of its Bitcoin holdings](https://www.bbc.com/news/business-62246367)
+- [Minecraft bans NFTs and blockchain, saying they don’t align with game’s values](https://www.marketwatch.com/story/minecraft-bans-nfts-and-blockchain-saying-they-dont-align-with-games-values-11658366802)
+- [Tesla Q2 2022 Financial Results and Q&amp;A Webcast](https://www.youtube.com/watch?v=kwpYe1Empwo)
+- [Ask HN: How to attract beta users for my productivity SaaS?](https://news.ycombinator.com/item?id=32175329)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

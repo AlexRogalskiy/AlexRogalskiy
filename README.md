@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [&lpar;ISC&rpar;² expands entry-level cyber programme after UK success](https://www.computerweekly.com/news/252522950/ISC-expands-entry-level-cyber-programme-after-UK-success)
+- [Transatlantic PET contest open for entries](https://www.computerweekly.com/news/252522952/Transatlantic-PET-contest-open-for-entries)
+- [Cato aims to bust cyber myths as it extends network protections](https://www.computerweekly.com/news/252522945/Cato-aims-to-bust-cyber-myths-as-it-extends-network-protections)
+- [Management of IT pioneer dies](https://www.computerweekly.com/news/252522949/Management-of-IT-pioneer-dies)
+- [Starling Bank withdraws application for licence in Ireland](https://www.computerweekly.com/news/252522942/Starling-Bank-withdraws-application-for-licence-in-Ireland)
+- [UK heatwave sparks cooling system meltdown in Google’s and Oracle’s London datacentre regions](https://www.computerweekly.com/news/252522933/UK-heatwave-sparks-cooling-system-meltdown-in-Googles-and-Oracles-London-datacentre-regions)
+- [Vodafone upgrades global network with SDN for flexible scalability](https://www.computerweekly.com/news/252522934/Vodafone-upgrades-global-network-with-SDN-for-flexible-scalability)
+- [Advanced Research and Invention Agency gets CEO and chairman](https://www.computerweekly.com/news/252522928/Advanced-Research-and-Invention-Agency-gets-CEO-and-chairman)
+- [Russia’s Cozy Bear abusing DropBox, Google Drive to target victims](https://www.computerweekly.com/news/252522929/Russias-Cozy-Bear-abusing-DropBox-Google-Drive-to-target-victims)
 - [A Computer Weekly buyer’s guide to supply chain security](https://www.computerweekly.com/ehandbook/A-Computer-Weekly-buyers-guide-to-supply-chain-security)
-- [CIO interview: Michael Taylor, Mercedes-AMG Petronas Formula One](https://www.computerweekly.com/news/252522562/CIO-Interview-Michael-Taylor-Mercedes-AMG-Petronas-Formula-One)
-- [Pro-business AI framework spans sector-specific regulations](https://www.computerweekly.com/news/252522896/Pro-business-AI-framework-spans-sector-specific-regulations)
-- [Where are all the technologists? Talent shortages and what to do about them](https://www.computerweekly.com/opinion/Where-are-all-the-technologists-Talent-shortages-and-what-to-do-about-them)
-- [Tracking the rise of homeworking across the UK](https://www.computerweekly.com/ezine/Computer-Weekly/Tracking-the-rise-of-homeworking-across-the-UK)
-- [Employee experience joins CX for total enterprise view](https://www.computerweekly.com/feature/Employee-experience-joins-CX-for-total-enterprise-view)
-- [MPs slam FCSA for declining to answer questions on umbrella companies withholding holiday pay](https://www.computerweekly.com/news/252522886/MPs-slam-FCSA-for-declining-to-answer-questions-on-umbrella-companies-withholding-holiday-pay)
-- [Putting automation into motion will put the wheels on UK economic growth](https://www.computerweekly.com/news/252522797/Putting-automation-into-motion-will-put-the-wheels-on-UK-economic-growth)
-- [US cyber agency CISA to open London office](https://www.computerweekly.com/news/252522855/US-cyber-agency-CISA-to-open-London-office)
-- [NHS Digital seeks out wireless healthcare innovation](https://www.computerweekly.com/news/252522852/NHS-Digital-seeks-out-wireless-healthcare-innovation)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

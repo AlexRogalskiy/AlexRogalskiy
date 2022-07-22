@@ -384,16 +384,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [R tutorials: Learn R programming for data science](https://www.infoworld.com/article/3411819/do-more-with-r-video-tutorials.html#tk.rss_all)
+- [The best new features in ASP.NET Core 6](https://www.infoworld.com/article/3667889/the-best-new-features-in-aspnet-core-6.html#tk.rss_all)
+- [12 ggplot extensions for snazzier R graphics](https://www.infoworld.com/article/3667496/12-ggplot-extensions-for-snazzier-r-graphics.html#tk.rss_all)
+- [Intro to Ethereum smart contracts](https://www.infoworld.com/article/3667276/intro-to-ethereum-smart-contracts.html#tk.rss_all)
 - [Cilium launches eBPF-powered Kubernetes service mesh](https://www.infoworld.com/article/3667493/cilium-launches-ebpf-powered-kubernetes-service-mesh.html#tk.rss_all)
 - [Oracle partners with Microsoft to launch database service for Azure](https://www.infoworld.com/article/3667443/oracle-partners-with-microsoft-to-launch-database-service-for-azure.html#tk.rss_all)
 - [Trying out the Azure Developer CLI](https://www.infoworld.com/article/3667278/trying-out-the-azure-developer-cli.html#tk.rss_all)
 - [How to use Python dictionaries](https://www.infoworld.com/article/3665094/how-to-use-python-dictionaries.html#tk.rss_all)
 - [Responding to your feedback on ‘metacloud’](https://www.infoworld.com/article/3667549/responding-to-your-feedback-on-metacloud.html#tk.rss_all)
 - [How we’ll solve software supply chain security](https://www.infoworld.com/article/3667473/how-well-solve-software-supply-chain-security.html#tk.rss_all)
-- [IT career roadmap: Director of engineering](https://www.infoworld.com/article/3664416/it-career-roadmap-director-of-engineering.html#tk.rss_all)
-- [Open source isn’t working for AI](https://www.infoworld.com/article/3667433/open-source-isnt-working-for-ai.html#tk.rss_all)
-- [7 reasons Java is still great](https://www.infoworld.com/article/3666525/7-reasons-java-is-still-great.html#tk.rss_all)
-- [Securing data at rest and data in motion](https://www.infoworld.com/article/3666500/securing-data-at-rest-and-data-in-motion.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

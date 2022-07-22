@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Microsoft Teams down for thousands of users](https://www.reuters.com/article/microsoft-outages-idCAKBN2OW03G)
-- [Alaska Airlines becomes first U.S. airline to launch electronic bag tag program](https://news.alaskaair.com/guest-experience/alaska-airlines-first-us-airline-to-launch-electronic-bag-tag/)
-- [A 165-Mile Drone Superhighway Will Soon Be Built in the UK](https://singularityhub.com/2022/07/20/a-165-mile-drone-superhighway-will-soon-be-built-in-the-uk/)
-- [8-bit 64K 1802 computer with front panel and serial port in an Altoids tin](http://www.sunrise-ev.com/1802.htm)
-- [Tell HN: Salesforce has globally revoked Slack&#39;s holiday shutdown benefit](https://news.ycombinator.com/item?id=32174596)
-- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Remote Machine Learning Engineers](https://news.ycombinator.com/item?id=32174543)
-- [Continued cyber activity in Eastern Europe observed by TAG](https://blog.google/threat-analysis-group/continued-cyber-activity-in-eastern-europe-observed-by-tag/)
-- [Archive.org Seeks Summary Judgment in Lawsuit Filed by Publishing Companies](https://blog.archive.org/2022/07/08/internet-archive-seeks-summary-judgment-in-federal-lawsuit-filed-by-publishing-companies/)
-- [Weeknotes: Datasette, SQLite-utils, Datasette Desktop](https://simonwillison.net/2022/Jul/20/weeknotes/)
-- [A framework for audio software development](https://cabbageaudio.com/)
+- [Bacterial and fungal isolation from face masks under the Covid-19 pandemic](https://www.nature.com/articles/s41598-022-15409-x)
+- [Ask HN: What Are You Learning?](https://news.ycombinator.com/item?id=32187745)
+- [Some Thoughts on Zig](https://v5.chriskrycho.com/journal/some-thoughts-on-zig/)
+- [The True Costs of Inflation in Small-Town Texas](https://www.newyorker.com/news/letter-from-the-southwest/the-true-costs-of-inflation-in-small-town-texas)
+- [Universe-Altering Implications of Julia Roberts Plot Twist in ‘Ocean’s Twelve’](https://decider.com/2019/10/15/the-julia-roberts-paradox-of-oceans-twelve/)
+- [Practical Deep Learning for Coders 2022 &lpar;new edition of fast.ai course&rpar;](https://www.fast.ai/2022/07/21/dl-coders-22/)
+- [Ask HN: What are some &#39;cool&#39; but obscure data structures you know about?](https://news.ycombinator.com/item?id=32186203)
+- [PropelAuth &lpar;YC W22&rpar; Is Hiring Rust Developers &lpar;US Remote&rpar;](https://www.ycombinator.com/companies/propelauth/jobs/b0dl3wz-founding-backend-engineer)
+- [Hertz paid Accenture $32M for a website that never went live](https://www.henricodolfing.com/2019/10/case-study-hertz-accenture-website.html)
+- [Dutch schools must stop using Google&#39;s email and cloud due to privacy concerns](https://tutanota.com/blog/posts/dutch-schools-must-stop-using-google-email-and-cloud-services/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

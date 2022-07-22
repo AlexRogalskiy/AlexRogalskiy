@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Baidu unveils autonomous vehicle with detachable steering wheel](https://www.reuters.com/technology/baidu-unveils-autonomous-vehicle-without-steering-wheel-2022-07-21/)
-- [Checkers Was Solved](https://www.theatlantic.com/technology/archive/2017/07/marion-tinsley-checkers/534111/)
-- [Tesla Sells Majority of Bitcoin After Turbulent Crypto Foray](https://www.bloomberg.com/news/articles/2022-07-20/tesla-converts-most-bitcoin-adds-936-million-to-balance-sheet)
-- [THAT Reduced Their Database Load by 80% and Response Times by 40x](https://stellate.co/blog/40x-faster-graphql-for-that-conference)
-- [About the security content of macOS Monterey 12.5](https://support.apple.com/en-lamr/HT213345)
-- [Atlassian reveals critical flaws in almost everything it makes and touches](https://www.theregister.com/2022/07/21/atlassian_critical_security_advisories/)
-- [Tesla sells most of its Bitcoin holdings](https://www.bbc.com/news/business-62246367)
-- [Minecraft bans NFTs and blockchain, saying they don’t align with game’s values](https://www.marketwatch.com/story/minecraft-bans-nfts-and-blockchain-saying-they-dont-align-with-games-values-11658366802)
-- [Tesla Q2 2022 Financial Results and Q&amp;A Webcast](https://www.youtube.com/watch?v=kwpYe1Empwo)
-- [Ask HN: How to attract beta users for my productivity SaaS?](https://news.ycombinator.com/item?id=32175329)
+- [Just 10 financial actors can accelerate a transition away from fossil fuels](https://www.sciencedirect.com/science/article/abs/pii/S2210422422000636)
+- [Prostitution and Attraction](https://stakedy.com/long/prostitution-and-attraction.html)
+- [Why I Build Design Systems with Stitches and Radix](https://ped.ro/writing/why-i-build-design-systems-with-stitches-and-radix)
+- [Amazon will see you now: Tech giant buys health-care chain One Medical for $3.9B](https://www.washingtonpost.com/business/2022/07/21/amazon-health-care/)
+- [After Covid: Unhappiness Is Worse Among Single and Non-Religious Americans](https://ifstudies.org/blog/after-covid-unhappiness-is-worse-among-single-and-non-religious-americans)
+- [Googie Architecture](https://en.wikipedia.org/wiki/Googie_architecture)
+- [Transformer Models: An Introduction and Catalog](https://amatriain.net/blog/transformer-models-an-introduction-and-catalog-2d1e9039f376/)
+- [Design patterns for asynchronous API communication](https://stackoverflow.blog/2022/07/21/event-driven-topic-design-using-kafka/)
+- [Book Review: Fussel on Class](https://astralcodexten.substack.com/p/book-review-fussell-on-class)
+- [American Diogenes – Henry David Thoreau&#39;s Living Philosophy](https://thelivingphilosophy.substack.com/p/american-diogenes-henry-david-thoreaus)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

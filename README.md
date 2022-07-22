@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine war forcing China to rethink ‘how and when’ it may invade Taiwan, CIA chief says](https://www.theguardian.com/world/2022/jul/21/ukraine-war-forcing-china-to-rethink-how-and-when-it-may-invade-taiwan-cia-chief-says)
-- [Theresa May refuses to clap Boris Johnson during standing ovation – video](https://www.theguardian.com/politics/video/2022/jul/21/theresa-may-refuses-to-clap-boris-johnson-during-standing-ovation-video)
-- [How Covid keeps surprising us and confounding the experts](https://www.theguardian.com/news/audio/2022/jul/21/how-covid-keeps-surprising-us-and-confounding-the-experts-podcast)
-- [When the world overwhelms, joyous rituals like weddings endure – now that’s what J-Lo and I have in common | Van Badham](https://www.theguardian.com/commentisfree/2022/jul/21/bennifer-wedding-has-inspired-in-me-an-all-too-rare-feeling-of-hope)
-- [Sri Lanka braced for more unrest as new president vows crackdown on ‘fascist’ protests](https://www.theguardian.com/world/2022/jul/21/sri-lanka-unrest-new-president-crackdown-protests)
-- [Egypt relaxes street photography ban for tourists, up to a point](https://www.theguardian.com/world/2022/jul/21/egypt-relaxes-street-photography-ban-for-tourists-up-to-a-point)
-- [UK cybersecurity chiefs back plan to scan phones for child abuse images](https://www.theguardian.com/uk-news/2022/jul/21/uk-cybersecurity-chiefs-back-plan-to-scan-phones-for-child-abuse-images)
-- [Rise in insurance fraud fuelled by cost of living crisis, says UK insurer](https://www.theguardian.com/business/2022/jul/21/rise-in-insurance-fuelled-by-cost-of-living-crisis-says-uk-insurer)
-- [TikTok is fastest growing news source for UK adults, Ofcom finds](https://www.theguardian.com/technology/2022/jul/21/tiktok-is-fastest-growing-news-source-for-uk-adults-ofcom-finds)
-- [Shortlist announced for Waterstones debut fiction prize](https://www.theguardian.com/books/2022/jul/21/shortlist-announced-for-waterstones-debut-fiction-prize)
+- [Jan 6 hearing: Trump said ‘I don’t want to say the election is over’ in speech outtake one day after riot](https://www.theguardian.com/us-news/live/2022/jul/21/jan-6-final-hearing-trump-capitol-latest-updates)
+- [Elvis actor Shonka Dukureh dies one month after big screen debut](https://www.theguardian.com/film/2022/jul/22/elvis-actor-shonka-dukureh-dies-one-month-after-big-screen-debut)
+- [Wild tiger numbers 40% higher than thought, says conservation group](https://www.theguardian.com/environment/2022/jul/22/wild-tiger-numbers-40-higher-than-thought-says-conservation-group)
+- [Liz Truss v Rishi Sunak – podcast](https://www.theguardian.com/news/audio/2022/jul/22/tory-leadership-contest-liz-truss-v-rishi-sunak-podcast)
+- [Sri Lanka security forces raid protest camp as Ranil Wickremesinghe flexes muscles](https://www.theguardian.com/world/2022/jul/22/sri-lanka-security-forces-raid-protest-camp-as-ranil-wickremesinghe-flexes-muscles)
+- [Splendour in the Grass chaos: music festival hit by torrential rain and wild weather](https://www.theguardian.com/australia-news/2022/jul/22/splendour-in-the-grass-2022-weather-rain-byon-bay-music-festival)
+- [Russia-Ukraine war: what we know on day 149 of the invasion](https://www.theguardian.com/world/2022/jul/22/russia-ukraine-war-what-we-know-on-day-149-of-the-invasion)
+- [FBI find nothing in New Jersey search for missing Teamsters boss Jimmy Hoffa](https://www.theguardian.com/us-news/2022/jul/21/fbi-jimmy-hoffa-new-jersey-bridge-search)
+- [Amber Heard to appeal order to pay $10m in Depp defamation case](https://www.theguardian.com/film/2022/jul/21/amber-heard-to-appeal-order-10m-johnny-depp-defamation-case)
+- [More than 160m women unable to get contraception they need, study finds](https://www.theguardian.com/society/2022/jul/21/more-than-160m-women-unable-to-get-contraception-they-need-study-finds)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

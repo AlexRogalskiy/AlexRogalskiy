@@ -369,6 +369,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Top Business Needs Driving IT Spending Today](https://www.informationweek.com/strategic-cio/top-business-needs-driving-it-spending-today)
+- [When to Justify a Legacy Upgrade](https://www.informationweek.com/strategic-cio/when-to-justify-a-legacy-upgrade)
+- [The Role of SSE and What it Means for SASE](https://www.informationweek.com/security-and-risk-strategy/the-role-of-sse-and-what-it-means-for-sase)
 - [CIO, CDO and CTO: The 3 Faces of Executive IT](https://www.informationweek.com/strategic-cio/cio-cdo-and-cto-the-3-faces-of-executive-it)
 - [Uncovering the Pathway to Modern Organizational Resilience](https://www.informationweek.com/strategic-cio/uncovering-the-pathway-to-modern-organizational-resilience)
 - [How to Boost IT Team Creativity](https://www.informationweek.com/strategic-cio/how-to-boost-it-team-creativity)
@@ -376,9 +379,6 @@
 - [How To Minimize the Impacts of Shadow IT on Your Business](https://www.informationweek.com/security-and-risk-strategy/how-to-minimize-the-impacts-of-shadow-it-on-your-business)
 - [Cloud Monitoring Tools Help CIOs Reduce Carbon Footprint](https://www.informationweek.com/cloud/cloud-monitoring-tools-help-cios-reduce-carbon-footprint)
 - [Consistent Data Protection Requires a New Approach to Securing Access](https://www.informationweek.com/palo-alto-networks/consistent-data-protection-requires-a-new-approach-to-securing-access)
-- [Tips to Build a Stronger Third-Party Risk Management Program](https://www.informationweek.com/security-and-risk-strategy/tips-to-build-a-stronger-third-party-risk-management-program)
-- [6 Cloud Monitoring Use Cases and Why You Should Care](https://www.informationweek.com/cloud/6-cloud-monitoring-use-cases-and-why-you-should-care)
-- [10 Best-Paying Jobs in Data Science](https://www.informationweek.com/big-data/10-best-paying-jobs-in-data-science)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

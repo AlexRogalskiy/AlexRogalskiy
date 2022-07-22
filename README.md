@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [Podcast: Big beta breakdown: Apple’s Fall 2022 OSes](https://www.computerworld.com/article/3668148/podcast-big-beta-breakdown-apples-fall-2022-oses.html#tk.rss_all)
+- [Apple, T-Mobile offer Business Essentials to US SMBs](https://www.computerworld.com/article/3668031/apple-t-mobile-offer-business-essentials-to-us-smbs.html#tk.rss_all)
+- [Why meetings don&#39;t work anymore](https://www.computerworld.com/article/3667491/why-meetings-dont-work-anymore.html#tk.rss_all)
+- [Apple’s iMessage is looking more like a workday collaboration platform](https://www.computerworld.com/article/3667317/apples-imessage-is-looking-more-like-a-workday-collaboration-platform.html#tk.rss_all)
 - [FCC head wants to boost ‘broadband’ standard to 100Mbps nationwide](https://www.computerworld.com/article/3667928/fcc-head-wants-to-boost-broadband-standard-to-100mbps-nationwide.html#tk.rss_all)
 - [Apple reads the room, looks to slow hiring in &#39;23](https://www.computerworld.com/article/3667552/apple-reads-the-room-looks-to-slow-hiring-in-23.html#tk.rss_all)
 - [Will new EU crypto rules change how ransomware is played?](https://www.computerworld.com/article/3667281/will-new-eu-crypto-rules-change-how-ransomware-is-played.html#tk.rss_all)
 - [How to stay smart about Android app permissions](https://www.computerworld.com/article/3667500/android-app-permissions.html#tk.rss_all)
 - [7 ways to keep remote and hybrid teams connected](https://www.computerworld.com/article/3664852/how-to-keep-remote-and-hybrid-teams-connected.html#tk.rss_all)
-- [Netflix to launch ad-supported tier with Microsoft in 2023](https://www.computerworld.com/article/3667283/netflix-to-launch-ad-supported-tier-with-microsoft-in-2023.html#tk.rss_all)
-- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
-- [Microsoft Teams now lets users send short video clip messages](https://www.computerworld.com/article/3667495/microsoft-teams-now-lets-users-send-short-video-clip-messages.html#tk.rss_all)
-- [Microsoft brings social network-style ‘stories’ to work](https://www.computerworld.com/article/3667480/microsoft-brings-social-network-style-stories-posts-to-work.html#tk.rss_all)
-- [Slack Pro is getting more expensive in September](https://www.computerworld.com/article/3667481/slack-pro-is-getting-more-expensive-from-september.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [The best of two clouds: Oracle Database Service gets tighter connection with Microsoft Azure](https://www.itworldcanada.com/article/the-best-of-two-clouds-oracle-database-service-gets-tighter-connection-with-microsoft-azure/493765)
+- [Western Digital releases 22TB HDDs in three product lines](https://www.itworldcanada.com/article/western-digital-releases-22tb-hdds-in-three-product-lines/493612)
+- [Quebecor CEO vehemently responds to comments by Bester and Klass in the Globe and Mail](https://www.itworldcanada.com/article/quebecor-ceo-vehemently-responds-to-comments-by-bester-and-klass-in-the-globe-and-mail/493743)
+- [Most infosec pros believe vendors over hype their cybersecurity products: Survey](https://www.itworldcanada.com/article/most-infosec-pros-believe-vendors-over-hype-their-cybersecurity-products-survey/493631)
+- [Governments must do more to fight ransomware, says insurance industry](https://www.itworldcanada.com/article/governments-must-do-more-to-fight-ransomware-says-insurance-industry/493584)
+- [Hashtag Trending July 21 – Mark Zuckerberg to explain Cambridge Analytica; creators struggle to profit on TikTok; USPS ups its EV purchase](https://www.itworldcanada.com/article/hashtag-trending-july-21-mark-zuckerberg-to-explain-cambridge-analytica-creators-struggle-to-profit-on-tiktok-usps-ups-its-ev-purchase/493711)
 - [Bell’s Fibe trademark challenged in Federal Court](https://www.itworldcanada.com/article/bells-fibe-trademark-challenged-in-federal-court/493534)
 - [Four new ransomware groups to be aware of](https://www.itworldcanada.com/article/four-new-ransomware-groups-to-be-aware-of/493428)
+- [Sophos releases details of its new cybersecurity defense unit](https://www.itworldcanada.com/article/sophos-releases-details-of-its-new-cybersecurity-defense-unit/493573)
 - [Cyber Security Today, July 20, 2022 – An anonymous service that can get you hacked, infected online restaurant platforms, a Mac backdoor discovered, and more](https://www.itworldcanada.com/article/cyber-security-today-july-20-2022-an-anonymous-service-that-can-get-you-hacked-infected-online-restaurant-platforms-a-mac-backdoor-discovered-and-more/493381)
-- [Hashtag Trending July 20 – Netflix silver lining; Snapchat for desktop; Apple settles keyboard lawsuit](https://www.itworldcanada.com/article/hashtag-trending-july-20-netflix-silver-lining-snapchat-for-desktop-apple-settles-keyboard-lawsuit/493448)
-- [Canada’s network performance remains mostly unchanged compared to last quarter, finds Ookla report](https://www.itworldcanada.com/article/canadas-network-performance-remains-relatively-unchanged-compared-to-last-quarter-finds-ookla-report/493334)
-- [Two Canadian smart building software firms to merge offerings, R&amp;D](https://www.itworldcanada.com/article/two-canadian-smart-building-software-firms-to-merge-offerings-rd/493247)
-- [Coffee Briefing July 19, 2022 – Government of Canada invests C$7.7 million in tech SMEs and green recovery; Thomson Reuters expands remote work benefits; TikTok launches “Follow Me”; and more](https://www.itworldcanada.com/article/coffee-briefing-july-19-2022-government-of-canada-invests-c7-7-million-in-tech-smes-and-green-recovery-thomson-reuters-expands-remote-work-benefits-tiktok-launches-follow-me-and-more/493220)
-- [Huge phishing campaign evades MFA, leads to business email fraud: Microsoft](https://www.itworldcanada.com/article/huge-phishing-campaign-evades-mfa-leads-to-business-email-fraud-microsoft/493277)
-- [Hashtag Trending July 19 – Social media buyer’s remorse; Netflix new fee; are video game loot boxes gambling?](https://www.itworldcanada.com/article/hashtag-trending-july-19-social-media-buyers-remorse-netflix-new-fee-are-video-game-loot-boxes-gambling/493260)
-- [Cyber Security Today, July 18, 2022 – Ransomware targets small businesses, warnings for Digium Elastix and Netwrix Auditor administrators, and more](https://www.itworldcanada.com/article/cyber-security-today-july-18-2022-ransomware-targets-small-businesses-warnings-for-digium-elastix-and-netwrix-auditor-administrators-and-more/493066)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

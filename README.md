@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Buy ‘plug-n-play’ malware for the price of a pint of beer](https://www.computerweekly.com/news/252523004/Buy-plug-n-play-malware-for-the-price-of-a-pint-of-beer)
+- [SSEN partners with Icebreaker One to break energy data silos](https://www.computerweekly.com/news/252522999/SSEN-partners-with-Icebreaker-One-to-break-energy-data-silos)
+- [Digital drives workplace trends in the Nordics](https://www.computerweekly.com/news/252522932/Digital-drives-workplace-trends-in-the-Nordics)
+- [Russia-linked APTs targeted fleeing Ukrainian civilians](https://www.computerweekly.com/news/252522996/Russia-linked-APT-targeted-fleeing-Ukrainian-civilians)
+- [UK government introduces data reforms legislation to Parliament](https://www.computerweekly.com/news/252522946/UK-government-introduces-data-reforms-legislation-to-Parliament)
+- [Data and Tech Aid pledges 10,000 first aid kits to Ukrainian civilians](https://www.computerweekly.com/news/252522960/Data-and-Tech-Aid-pledges-10000-first-aid-kits-to-Ukrainian-civilians)
 - [&lpar;ISC&rpar;² expands entry-level cyber programme after UK success](https://www.computerweekly.com/news/252522950/ISC-expands-entry-level-cyber-programme-after-UK-success)
 - [Transatlantic PET contest open for entries](https://www.computerweekly.com/news/252522952/Transatlantic-PET-contest-open-for-entries)
 - [Cato aims to bust cyber myths as it extends network protections](https://www.computerweekly.com/news/252522945/Cato-aims-to-bust-cyber-myths-as-it-extends-network-protections)
 - [Management of IT pioneer dies](https://www.computerweekly.com/news/252522949/Management-of-IT-pioneer-dies)
-- [Starling Bank withdraws application for licence in Ireland](https://www.computerweekly.com/news/252522942/Starling-Bank-withdraws-application-for-licence-in-Ireland)
-- [UK heatwave sparks cooling system meltdown in Google’s and Oracle’s London datacentre regions](https://www.computerweekly.com/news/252522933/UK-heatwave-sparks-cooling-system-meltdown-in-Googles-and-Oracles-London-datacentre-regions)
-- [Vodafone upgrades global network with SDN for flexible scalability](https://www.computerweekly.com/news/252522934/Vodafone-upgrades-global-network-with-SDN-for-flexible-scalability)
-- [Advanced Research and Invention Agency gets CEO and chairman](https://www.computerweekly.com/news/252522928/Advanced-Research-and-Invention-Agency-gets-CEO-and-chairman)
-- [Russia’s Cozy Bear abusing DropBox, Google Drive to target victims](https://www.computerweekly.com/news/252522929/Russias-Cozy-Bear-abusing-DropBox-Google-Drive-to-target-victims)
-- [A Computer Weekly buyer’s guide to supply chain security](https://www.computerweekly.com/ehandbook/A-Computer-Weekly-buyers-guide-to-supply-chain-security)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

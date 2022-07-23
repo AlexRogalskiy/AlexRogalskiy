@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Jan 6 hearing: Trump said ‘I don’t want to say the election is over’ in speech outtake one day after riot](https://www.theguardian.com/us-news/live/2022/jul/21/jan-6-final-hearing-trump-capitol-latest-updates)
-- [Elvis actor Shonka Dukureh dies one month after big screen debut](https://www.theguardian.com/film/2022/jul/22/elvis-actor-shonka-dukureh-dies-one-month-after-big-screen-debut)
-- [Wild tiger numbers 40% higher than thought, says conservation group](https://www.theguardian.com/environment/2022/jul/22/wild-tiger-numbers-40-higher-than-thought-says-conservation-group)
-- [Liz Truss v Rishi Sunak – podcast](https://www.theguardian.com/news/audio/2022/jul/22/tory-leadership-contest-liz-truss-v-rishi-sunak-podcast)
-- [Sri Lanka security forces raid protest camp as Ranil Wickremesinghe flexes muscles](https://www.theguardian.com/world/2022/jul/22/sri-lanka-security-forces-raid-protest-camp-as-ranil-wickremesinghe-flexes-muscles)
-- [Splendour in the Grass chaos: music festival hit by torrential rain and wild weather](https://www.theguardian.com/australia-news/2022/jul/22/splendour-in-the-grass-2022-weather-rain-byon-bay-music-festival)
-- [Russia-Ukraine war: what we know on day 149 of the invasion](https://www.theguardian.com/world/2022/jul/22/russia-ukraine-war-what-we-know-on-day-149-of-the-invasion)
-- [FBI find nothing in New Jersey search for missing Teamsters boss Jimmy Hoffa](https://www.theguardian.com/us-news/2022/jul/21/fbi-jimmy-hoffa-new-jersey-bridge-search)
-- [Amber Heard to appeal order to pay $10m in Depp defamation case](https://www.theguardian.com/film/2022/jul/21/amber-heard-to-appeal-order-10m-johnny-depp-defamation-case)
-- [More than 160m women unable to get contraception they need, study finds](https://www.theguardian.com/society/2022/jul/21/more-than-160m-women-unable-to-get-contraception-they-need-study-finds)
+- [Russia-Ukraine war: what we know on day 150 of the invasion](https://www.theguardian.com/world/2022/jul/23/russia-ukraine-war-what-we-know-on-day-150-of-the-invasion)
+- [China braces for ‘big heat’ day with temperatures set to soar](https://www.theguardian.com/world/2022/jul/23/china-braces-for-big-heat-day-with-temperatures-set-to-soar)
+- [Steve Bannon convicted of contempt of Congress for defying Capitol attack subpoena](https://www.theguardian.com/us-news/2022/jul/22/steve-bannon-trial-trump-contempt-congress-charges)
+- [What happened in the Russia-Ukraine war this week? Catch up with the must-read news and analysis](https://www.theguardian.com/world/2022/jul/23/what-happened-in-the-russia-ukraine-war-this-week-catch-up-with-the-must-read-news-and-analysis)
+- [TV tonight: Joe Lycett befriends the UK’s most weird but wonderful artists](https://www.theguardian.com/tv-and-radio/2022/jul/23/tv-tonight-joe-lycett-summer-exhibitionist-channel-4)
+- [Joe Biden’s mild Covid symptoms are improving, doctor says](https://www.theguardian.com/us-news/2022/jul/22/biden-covid-white-house-teachable-moment)
+- [Amazon’s Lord of the Rings cast reveal clips from The Rings of Power at Comic-Con](https://www.theguardian.com/film/2022/jul/22/amazons-lord-of-the-rings-cast-reveal-clips-from-the-rings-of-power-at-comic-con)
+- [Truss vows to scrap remaining EU laws by end of 2023 risking ‘bonfire of rights’](https://www.theguardian.com/politics/2022/jul/22/bonfire-of-rights-truss-vows-to-scrap-remaining-eu-laws-by-end-2023)
+- [VW boss Herbert Diess exits three years early after turbulent tenure](https://www.theguardian.com/business/2022/jul/22/vw-boss-herbert-diess-exits-three-years-early-after-turbulent-tenure)
+- [Linda Sembrant late show puts Sweden through to semi-final against England](https://www.theguardian.com/football/2022/jul/22/sweden-belgium-womens-euro-2022-quarter-final-match-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

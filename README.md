@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Just 10 financial actors can accelerate a transition away from fossil fuels](https://www.sciencedirect.com/science/article/abs/pii/S2210422422000636)
-- [Prostitution and Attraction](https://stakedy.com/long/prostitution-and-attraction.html)
-- [Why I Build Design Systems with Stitches and Radix](https://ped.ro/writing/why-i-build-design-systems-with-stitches-and-radix)
-- [Amazon will see you now: Tech giant buys health-care chain One Medical for $3.9B](https://www.washingtonpost.com/business/2022/07/21/amazon-health-care/)
-- [After Covid: Unhappiness Is Worse Among Single and Non-Religious Americans](https://ifstudies.org/blog/after-covid-unhappiness-is-worse-among-single-and-non-religious-americans)
-- [Googie Architecture](https://en.wikipedia.org/wiki/Googie_architecture)
-- [Transformer Models: An Introduction and Catalog](https://amatriain.net/blog/transformer-models-an-introduction-and-catalog-2d1e9039f376/)
-- [Design patterns for asynchronous API communication](https://stackoverflow.blog/2022/07/21/event-driven-topic-design-using-kafka/)
-- [Book Review: Fussel on Class](https://astralcodexten.substack.com/p/book-review-fussell-on-class)
-- [American Diogenes – Henry David Thoreau&#39;s Living Philosophy](https://thelivingphilosophy.substack.com/p/american-diogenes-henry-david-thoreaus)
+- [Ask HN: Why Don&#39;t Filesystems and OS&#39;s Provide Filesystem Transactions?](https://news.ycombinator.com/item?id=32200007)
+- [Old Dog](https://longreads.com/2022/07/19/this-old-dog/)
+- [Show HN: Cryptosaving a tool crypto DCA calculator](https://cryptosaving.app)
+- [False balance in news reports undermines faith in scientific consensus](https://phys.org/news/2022-07-false-news-coverage-climate-harder.html)
+- [Ask HN: Which would you choose for your dev tools?](https://news.ycombinator.com/item?id=32199919)
+- [The Upside-Down Logic of Electric SUVs](https://www.wsj.com/articles/the-upside-down-logic-of-electric-suvs-vehicles-co2-emissions-ford-subsidies-climate-change-auto-sector-11658524738)
+- [Why expensive housing prices aren’t good for most real estate agents](https://thehustle.co/why-expensive-housing-prices-arent-good-for-most-real-estate-agents-%ef%bf%bc/)
+- [Larry Bird will die young. Just ask him](https://www.espn.com/nba/story/_/id/14712117/larry-bird-believes-nba-big-men-die-young-right)
+- [T-Mobile will pay out $350M to customers in data breach settlement](https://techcrunch.com/2022/07/22/t-mobile-will-pay-out-350m-to-customers-in-data-breach-settlement/)
+- [Ask HN: What are some good “goto” React codebases?](https://news.ycombinator.com/item?id=32199828)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

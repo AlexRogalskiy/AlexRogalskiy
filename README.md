@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Russia could become the world’s largest market for illegal IT](https://www.computerweekly.com/news/252523036/Russia-could-become-the-worlds-largest-market-for-illegal-IT)
+- [SAP Q2 2022: Revenue up 13%, Ukraine war impact steady at €300m](https://www.computerweekly.com/news/252523008/SAP-Q2-2022-revenue-up-13-Ukraine-war-impact-steady-at-300m)
+- [UK heatwave linked to ongoing IT systems issues at Guy&#39;s &amp; St Thomas&#39; NHS Foundation Trust](https://www.computerweekly.com/news/252523037/UK-heatwave-linked-to-ongoing-IT-systems-issues-at-Guys-St-Thomas-NHS-Foundation-Trust)
+- [LinkedIn most impersonated brand in phishing attacks](https://www.computerweekly.com/news/252523033/LinkedIn-most-impersonated-brand-in-phishing-attacks)
+- [UK could see almost 15,000 tech jobs created this year](https://www.computerweekly.com/news/252523032/UK-could-see-almost-15000-tech-jobs-created-this-year)
+- [Forrester: European cloud adoption accelerates](https://www.computerweekly.com/news/252523005/Forrester-European-cloud-adoption-accelerates)
+- [GCHQ experts back scanning of encrypted phone messages to fight child abuse](https://www.computerweekly.com/news/252523028/GCHQ-experts-back-scanning-of-encrypted-phone-messages-to-fight-child-abuse)
 - [Buy ‘plug-n-play’ malware for the price of a pint of beer](https://www.computerweekly.com/news/252523004/Buy-plug-n-play-malware-for-the-price-of-a-pint-of-beer)
 - [SSEN partners with Icebreaker One to break energy data silos](https://www.computerweekly.com/news/252522999/SSEN-partners-with-Icebreaker-One-to-break-energy-data-silos)
 - [Digital drives workplace trends in the Nordics](https://www.computerweekly.com/news/252522932/Digital-drives-workplace-trends-in-the-Nordics)
-- [Russia-linked APTs targeted fleeing Ukrainian civilians](https://www.computerweekly.com/news/252522996/Russia-linked-APT-targeted-fleeing-Ukrainian-civilians)
-- [UK government introduces data reforms legislation to Parliament](https://www.computerweekly.com/news/252522946/UK-government-introduces-data-reforms-legislation-to-Parliament)
-- [Data and Tech Aid pledges 10,000 first aid kits to Ukrainian civilians](https://www.computerweekly.com/news/252522960/Data-and-Tech-Aid-pledges-10000-first-aid-kits-to-Ukrainian-civilians)
-- [&lpar;ISC&rpar;² expands entry-level cyber programme after UK success](https://www.computerweekly.com/news/252522950/ISC-expands-entry-level-cyber-programme-after-UK-success)
-- [Transatlantic PET contest open for entries](https://www.computerweekly.com/news/252522952/Transatlantic-PET-contest-open-for-entries)
-- [Cato aims to bust cyber myths as it extends network protections](https://www.computerweekly.com/news/252522945/Cato-aims-to-bust-cyber-myths-as-it-extends-network-protections)
-- [Management of IT pioneer dies](https://www.computerweekly.com/news/252522949/Management-of-IT-pioneer-dies)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

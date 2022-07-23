@@ -384,16 +384,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Majority of open source developers eyeing job change: EDB survey](https://www.infoworld.com/article/3668248/majority-of-open-source-developers-eyeing-job-change-edb-survey.html#tk.rss_all)
+- [How to attend RStudio Conference 2022 remotely for free](https://www.infoworld.com/article/3667993/how-to-attend-rstudio-conference-2022-remotely-for-free.html#tk.rss_all)
+- [Why do businesses suck at using data?](https://www.infoworld.com/article/3667888/why-do-businesses-suck-at-using-data.html#tk.rss_all)
+- [What is PaaS &lpar;platform-as-a-service&rpar;? A simpler way to build software applications](https://www.infoworld.com/article/3223434/what-is-paas-platform-as-a-service-a-simpler-way-to-build-software-applications.html#tk.rss_all)
+- [What is IaaS? A data center in the cloud packed with services](https://www.infoworld.com/article/3220669/what-is-iaas-your-data-center-in-the-cloud.html#tk.rss_all)
+- [What is cloud computing? Everything you need to know now](https://www.infoworld.com/article/2683784/what-is-cloud-computing.html#tk.rss_all)
 - [R tutorials: Learn R programming for data science](https://www.infoworld.com/article/3411819/do-more-with-r-video-tutorials.html#tk.rss_all)
 - [The best new features in ASP.NET Core 6](https://www.infoworld.com/article/3667889/the-best-new-features-in-aspnet-core-6.html#tk.rss_all)
 - [12 ggplot extensions for snazzier R graphics](https://www.infoworld.com/article/3667496/12-ggplot-extensions-for-snazzier-r-graphics.html#tk.rss_all)
 - [Intro to Ethereum smart contracts](https://www.infoworld.com/article/3667276/intro-to-ethereum-smart-contracts.html#tk.rss_all)
-- [Cilium launches eBPF-powered Kubernetes service mesh](https://www.infoworld.com/article/3667493/cilium-launches-ebpf-powered-kubernetes-service-mesh.html#tk.rss_all)
-- [Oracle partners with Microsoft to launch database service for Azure](https://www.infoworld.com/article/3667443/oracle-partners-with-microsoft-to-launch-database-service-for-azure.html#tk.rss_all)
-- [Trying out the Azure Developer CLI](https://www.infoworld.com/article/3667278/trying-out-the-azure-developer-cli.html#tk.rss_all)
-- [How to use Python dictionaries](https://www.infoworld.com/article/3665094/how-to-use-python-dictionaries.html#tk.rss_all)
-- [Responding to your feedback on ‘metacloud’](https://www.infoworld.com/article/3667549/responding-to-your-feedback-on-metacloud.html#tk.rss_all)
-- [How we’ll solve software supply chain security](https://www.infoworld.com/article/3667473/how-well-solve-software-supply-chain-security.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

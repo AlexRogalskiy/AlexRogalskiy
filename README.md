@@ -369,6 +369,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Quick Study: Cyber Resiliency and Risk](https://www.informationweek.com/security-and-risk-strategy/quick-study-cyber-resiliency-and-risk)
+- [What Can We Do to Address the Gender Gap in Tech Leadership?](https://www.informationweek.com/it-life/what-can-we-do-to-address-the-gender-gap-in-tech-leadership-)
+- [Long-Known Enterprise VPN Issues at Heart of Post-Roe Privacy Concerns](https://www.informationweek.com/security-and-risk-strategy/long-known-enterprise-vpn-issues-at-heart-of-post-roe-privacy-concerns)
 - [Top Business Needs Driving IT Spending Today](https://www.informationweek.com/strategic-cio/top-business-needs-driving-it-spending-today)
 - [When to Justify a Legacy Upgrade](https://www.informationweek.com/strategic-cio/when-to-justify-a-legacy-upgrade)
 - [The Role of SSE and What it Means for SASE](https://www.informationweek.com/security-and-risk-strategy/the-role-of-sse-and-what-it-means-for-sase)
@@ -376,9 +379,6 @@
 - [Uncovering the Pathway to Modern Organizational Resilience](https://www.informationweek.com/strategic-cio/uncovering-the-pathway-to-modern-organizational-resilience)
 - [How to Boost IT Team Creativity](https://www.informationweek.com/strategic-cio/how-to-boost-it-team-creativity)
 - [The State of ITOps and SecOps: An Inside Look](https://www.informationweek.com/security-and-risk-strategy/the-state-of-itops-and-secops-an-inside-look)
-- [How To Minimize the Impacts of Shadow IT on Your Business](https://www.informationweek.com/security-and-risk-strategy/how-to-minimize-the-impacts-of-shadow-it-on-your-business)
-- [Cloud Monitoring Tools Help CIOs Reduce Carbon Footprint](https://www.informationweek.com/cloud/cloud-monitoring-tools-help-cios-reduce-carbon-footprint)
-- [Consistent Data Protection Requires a New Approach to Securing Access](https://www.informationweek.com/palo-alto-networks/consistent-data-protection-requires-a-new-approach-to-securing-access)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [NetApp’s Spot PC: a foundation for a new desktop paradigm?](https://www.computerworld.com/article/3668189/netapps-spot-pc-a-foundation-for-a-new-desktop-paradigm.html#tk.rss_all)
+- [Considering a website redesign? Why not do it in public?](https://www.computerworld.com/article/3668128/considering-a-website-redesign-why-not-do-it-in-public.html#tk.rss_all)
+- [Zoom expands end-to-end encryption for Phone and breakout rooms](https://www.computerworld.com/article/3668130/zoom-expands-end-to-end-encryption-for-phone-and-breakout-rooms.html#tk.rss_all)
+- [Don’t get too emotional about emotion-reading AI](https://www.computerworld.com/article/3667499/don-t-get-too-emotional-about-emotion-reading-ai.html#tk.rss_all)
+- [3 little-known location tricks for Google Assistant on Android](https://www.computerworld.com/article/3667322/google-assistant-android-location.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [Podcast: Big beta breakdown: Apple’s Fall 2022 OSes](https://www.computerworld.com/article/3668148/podcast-big-beta-breakdown-apples-fall-2022-oses.html#tk.rss_all)
 - [Apple, T-Mobile offer Business Essentials to US SMBs](https://www.computerworld.com/article/3668031/apple-t-mobile-offer-business-essentials-to-us-smbs.html#tk.rss_all)
 - [Why meetings don&#39;t work anymore](https://www.computerworld.com/article/3667491/why-meetings-dont-work-anymore.html#tk.rss_all)
 - [Apple’s iMessage is looking more like a workday collaboration platform](https://www.computerworld.com/article/3667317/apples-imessage-is-looking-more-like-a-workday-collaboration-platform.html#tk.rss_all)
-- [FCC head wants to boost ‘broadband’ standard to 100Mbps nationwide](https://www.computerworld.com/article/3667928/fcc-head-wants-to-boost-broadband-standard-to-100mbps-nationwide.html#tk.rss_all)
-- [Apple reads the room, looks to slow hiring in &#39;23](https://www.computerworld.com/article/3667552/apple-reads-the-room-looks-to-slow-hiring-in-23.html#tk.rss_all)
-- [Will new EU crypto rules change how ransomware is played?](https://www.computerworld.com/article/3667281/will-new-eu-crypto-rules-change-how-ransomware-is-played.html#tk.rss_all)
-- [How to stay smart about Android app permissions](https://www.computerworld.com/article/3667500/android-app-permissions.html#tk.rss_all)
-- [7 ways to keep remote and hybrid teams connected](https://www.computerworld.com/article/3664852/how-to-keep-remote-and-hybrid-teams-connected.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

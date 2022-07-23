@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Bacterial and fungal isolation from face masks under the Covid-19 pandemic](https://www.nature.com/articles/s41598-022-15409-x)
-- [Ask HN: What Are You Learning?](https://news.ycombinator.com/item?id=32187745)
-- [Some Thoughts on Zig](https://v5.chriskrycho.com/journal/some-thoughts-on-zig/)
-- [The True Costs of Inflation in Small-Town Texas](https://www.newyorker.com/news/letter-from-the-southwest/the-true-costs-of-inflation-in-small-town-texas)
-- [Universe-Altering Implications of Julia Roberts Plot Twist in ‘Ocean’s Twelve’](https://decider.com/2019/10/15/the-julia-roberts-paradox-of-oceans-twelve/)
-- [Practical Deep Learning for Coders 2022 &lpar;new edition of fast.ai course&rpar;](https://www.fast.ai/2022/07/21/dl-coders-22/)
-- [Ask HN: What are some &#39;cool&#39; but obscure data structures you know about?](https://news.ycombinator.com/item?id=32186203)
-- [PropelAuth &lpar;YC W22&rpar; Is Hiring Rust Developers &lpar;US Remote&rpar;](https://www.ycombinator.com/companies/propelauth/jobs/b0dl3wz-founding-backend-engineer)
-- [Hertz paid Accenture $32M for a website that never went live](https://www.henricodolfing.com/2019/10/case-study-hertz-accenture-website.html)
-- [Dutch schools must stop using Google&#39;s email and cloud due to privacy concerns](https://tutanota.com/blog/posts/dutch-schools-must-stop-using-google-email-and-cloud-services/)
+- [GoodbyeDPI: Deep Packet Inspection circumvention utility](https://github.com/ValdikSS/GoodbyeDPI)
+- [Interactive exploration of Boston&#39;s subway system](http://mbtaviz.github.io/)
+- [Svix, the Enterprise Ready Webhook Service &lpar;YC W21&rpar; Is Hiring &lpar;Remote&rpar;](https://www.svix.com/careers/)
+- [New divorce app to help couples split assets in New York without lawyers](https://www.resolvy.com/)
+- [Unboxing a $100 Chromebook](https://twitter.com/timsneath/status/1550598445248811008)
+- [Google Fires Blake Lemoine, Engineer Who Called Its AI Sentient](https://bigtechnology.substack.com/p/google-fires-blake-lemoine-engineer)
+- [Where Expats Should &lpar;Not&rpar; Move in 2022](https://www.internations.org/press/press-release/where-expats-should-not-move-in-2022-40279)
+- [Hacker Lab Is Closing](https://hackerlab.org/en)
+- [Two containers with same number detected in Chittagong port](https://container-news.com/two-containers-with-same-number-detected-in-chittagong-port/)
+- [What I don’t like about working at a remote job](https://www.priconceptions.com/notebook/remote-jobs-bad)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

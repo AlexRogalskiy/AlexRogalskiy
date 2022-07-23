@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
-- [The best of two clouds: Oracle Database Service gets tighter connection with Microsoft Azure](https://www.itworldcanada.com/article/the-best-of-two-clouds-oracle-database-service-gets-tighter-connection-with-microsoft-azure/493765)
-- [Western Digital releases 22TB HDDs in three product lines](https://www.itworldcanada.com/article/western-digital-releases-22tb-hdds-in-three-product-lines/493612)
-- [Quebecor CEO vehemently responds to comments by Bester and Klass in the Globe and Mail](https://www.itworldcanada.com/article/quebecor-ceo-vehemently-responds-to-comments-by-bester-and-klass-in-the-globe-and-mail/493743)
-- [Most infosec pros believe vendors over hype their cybersecurity products: Survey](https://www.itworldcanada.com/article/most-infosec-pros-believe-vendors-over-hype-their-cybersecurity-products-survey/493631)
-- [Governments must do more to fight ransomware, says insurance industry](https://www.itworldcanada.com/article/governments-must-do-more-to-fight-ransomware-says-insurance-industry/493584)
-- [Hashtag Trending July 21 – Mark Zuckerberg to explain Cambridge Analytica; creators struggle to profit on TikTok; USPS ups its EV purchase](https://www.itworldcanada.com/article/hashtag-trending-july-21-mark-zuckerberg-to-explain-cambridge-analytica-creators-struggle-to-profit-on-tiktok-usps-ups-its-ev-purchase/493711)
-- [Bell’s Fibe trademark challenged in Federal Court](https://www.itworldcanada.com/article/bells-fibe-trademark-challenged-in-federal-court/493534)
-- [Four new ransomware groups to be aware of](https://www.itworldcanada.com/article/four-new-ransomware-groups-to-be-aware-of/493428)
-- [Sophos releases details of its new cybersecurity defense unit](https://www.itworldcanada.com/article/sophos-releases-details-of-its-new-cybersecurity-defense-unit/493573)
-- [Cyber Security Today, July 20, 2022 – An anonymous service that can get you hacked, infected online restaurant platforms, a Mac backdoor discovered, and more](https://www.itworldcanada.com/article/cyber-security-today-july-20-2022-an-anonymous-service-that-can-get-you-hacked-infected-online-restaurant-platforms-a-mac-backdoor-discovered-and-more/493381)
+- [Rogers names new CTO after masssive network failure](https://www.itworldcanada.com/article/rogers-names-new-cto-after-masssive-network-failure/494021)
+- [Appliances maker finding balance and investing in the future](https://www.itworldcanada.com/article/appliances-maker-finding-balance-and-investing-in-the-future/494016)
+- [Keys to unlocking the doors to digital transformation](https://www.itworldcanada.com/article/keys-to-unlocking-the-doors-to-digital-transformation/494012)
+- [How one company is powering 3D printing through cloud](https://www.itworldcanada.com/article/how-one-company-is-powering-3d-printing-through-cloud/494014)
+- [Cyber Security Today, Week in Review for Friday, July 22, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-july-22-2022/493777)
+- [Canadian Anti-fraud Centre name used in phishing campaign](https://www.itworldcanada.com/article/canadian-anti-fraud-centre-name-used-in-phishing-campaign/493916)
+- [Report reveals employee attrition, manager burnout to remain key challenges](https://www.itworldcanada.com/article/report-reveals-employee-attrition-manager-burnout-to-remain-key-challenges/493945)
+- [Calgary primed, ready for what it thinks will be a massive tech boom](https://www.itworldcanada.com/article/calgary-primed-ready-for-what-it-thinks-will-be-a-massive-tech-boom/493825)
+- [Malware aimed at industrial engineers discovered](https://www.itworldcanada.com/article/malware-aimed-at-industrial-engineers-discovered/493885)
+- [Government of Canada invests C$2.5 million to support new cleantech companies](https://www.itworldcanada.com/article/government-of-canada-invests-c2-5-million-to-support-new-cleantech-companies/493801)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

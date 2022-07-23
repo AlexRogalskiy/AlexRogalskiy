@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Python experts](https://www.reddit.com/r/InformationTechnology/comments/w5ryvk/python_experts/)
+- [software dev/engineer vs IT?](https://www.reddit.com/r/InformationTechnology/comments/w5kyc6/software_devengineer_vs_it/)
+- [Have an interview coming up related to a Server hosting company](https://www.reddit.com/r/InformationTechnology/comments/w5kpix/have_an_interview_coming_up_related_to_a_server/)
+- [I probably have a really silly question about local admin accounts](https://www.reddit.com/r/InformationTechnology/comments/w5dxbw/i_probably_have_a_really_silly_question_about/)
+- [Should I take this contract](https://www.reddit.com/r/InformationTechnology/comments/w5bhrm/should_i_take_this_contract/)
 - [Is IT help desk the first step? how different is software engineer/ IT/ cybersecurity?](https://www.reddit.com/r/InformationTechnology/comments/w4wza2/is_it_help_desk_the_first_step_how_different_is/)
 - [Case management application with no built in debugger](https://www.reddit.com/r/InformationTechnology/comments/w4wucb/case_management_application_with_no_built_in/)
 - [How can my friend break into IT?](https://www.reddit.com/r/InformationTechnology/comments/w4ao21/how_can_my_friend_break_into_it/)
 - [How many years at a help desk?](https://www.reddit.com/r/InformationTechnology/comments/w3xrl7/how_many_years_at_a_help_desk/)
 - [how do I start towards a career in IT/cyber security? is it right for me?](https://www.reddit.com/r/InformationTechnology/comments/w3tmzc/how_do_i_start_towards_a_career_in_itcyber/)
-- [IT Help Desk - doing virtual and in-person?](https://www.reddit.com/r/InformationTechnology/comments/w3nycp/it_help_desk_doing_virtual_and_inperson/)
-- [Study path as a newbie in Australia?](https://www.reddit.com/r/InformationTechnology/comments/w3g3pp/study_path_as_a_newbie_in_australia/)
-- [contract type work](https://www.reddit.com/r/InformationTechnology/comments/w3321f/contract_type_work/)
-- [If someone knows about ICT, can you answer my questions:](https://www.reddit.com/r/InformationTechnology/comments/w2z4td/if_someone_knows_about_ict_can_you_answer_my/)
-- [System Administrator-type Projects for a Work Study Job](https://www.reddit.com/r/InformationTechnology/comments/w2vgz0/system_administratortype_projects_for_a_work/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

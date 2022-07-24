@@ -429,6 +429,8 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Public explanation of Rogers outage has lots of blanks](https://www.itworldcanada.com/article/public-explanation-of-rogers-outage-has-lots-of-blanks/494150)
+- [Hashtag Weekend – Interview with Julian Galley of Compugen on his cross country bike tour in support of Alzheimer research](https://www.itworldcanada.com/article/hashtag-weekend-interview-with-julian-galley-of-compugen-on-his-cross-country-bike-tour-in-support-of-alzheimer-research/494134)
 - [Rogers names new CTO after masssive network failure](https://www.itworldcanada.com/article/rogers-names-new-cto-after-masssive-network-failure/494021)
 - [Appliances maker finding balance and investing in the future](https://www.itworldcanada.com/article/appliances-maker-finding-balance-and-investing-in-the-future/494016)
 - [Keys to unlocking the doors to digital transformation](https://www.itworldcanada.com/article/keys-to-unlocking-the-doors-to-digital-transformation/494012)
@@ -437,8 +439,6 @@
 - [Canadian Anti-fraud Centre name used in phishing campaign](https://www.itworldcanada.com/article/canadian-anti-fraud-centre-name-used-in-phishing-campaign/493916)
 - [Report reveals employee attrition, manager burnout to remain key challenges](https://www.itworldcanada.com/article/report-reveals-employee-attrition-manager-burnout-to-remain-key-challenges/493945)
 - [Calgary primed, ready for what it thinks will be a massive tech boom](https://www.itworldcanada.com/article/calgary-primed-ready-for-what-it-thinks-will-be-a-massive-tech-boom/493825)
-- [Malware aimed at industrial engineers discovered](https://www.itworldcanada.com/article/malware-aimed-at-industrial-engineers-discovered/493885)
-- [Government of Canada invests C$2.5 million to support new cleantech companies](https://www.itworldcanada.com/article/government-of-canada-invests-c2-5-million-to-support-new-cleantech-companies/493801)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

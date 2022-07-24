@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ask HN: Why Don&#39;t Filesystems and OS&#39;s Provide Filesystem Transactions?](https://news.ycombinator.com/item?id=32200007)
-- [Old Dog](https://longreads.com/2022/07/19/this-old-dog/)
-- [Show HN: Cryptosaving a tool crypto DCA calculator](https://cryptosaving.app)
-- [False balance in news reports undermines faith in scientific consensus](https://phys.org/news/2022-07-false-news-coverage-climate-harder.html)
-- [Ask HN: Which would you choose for your dev tools?](https://news.ycombinator.com/item?id=32199919)
-- [The Upside-Down Logic of Electric SUVs](https://www.wsj.com/articles/the-upside-down-logic-of-electric-suvs-vehicles-co2-emissions-ford-subsidies-climate-change-auto-sector-11658524738)
-- [Why expensive housing prices aren’t good for most real estate agents](https://thehustle.co/why-expensive-housing-prices-arent-good-for-most-real-estate-agents-%ef%bf%bc/)
-- [Larry Bird will die young. Just ask him](https://www.espn.com/nba/story/_/id/14712117/larry-bird-believes-nba-big-men-die-young-right)
-- [T-Mobile will pay out $350M to customers in data breach settlement](https://techcrunch.com/2022/07/22/t-mobile-will-pay-out-350m-to-customers-in-data-breach-settlement/)
-- [Ask HN: What are some good “goto” React codebases?](https://news.ycombinator.com/item?id=32199828)
+- [Ask HN: What are some keywords you track everyday?](https://news.ycombinator.com/item?id=32210004)
+- [Three Laws of Robotics](https://en.wikipedia.org/wiki/Three_Laws_of_Robotics)
+- [Show HN: Complete trace of the link of a distributed transaction](https://cectc.github.io/dbpack-doc/#/en-us/sql_tracing)
+- [Canada Reduces Fertilizer Use to meet emissions cap despite protests from farms](https://thecountersignal.com/trudeau-moves-forward-with-fertilizer-reduction-climate-policy/)
+- [Mastermind](https://patricksimpson.me/mastermind/)
+- [Ask HN: Alternatives to ELI5?](https://news.ycombinator.com/item?id=32209928)
+- [The Russian Economy Is Imploding](https://foreignpolicy.com/2022/07/22/russia-economy-sanctions-myths-ruble-business/)
+- [Visualizing the Length of the Fine Print, for 14 Popular Apps](https://www.visualcapitalist.com/terms-of-service-visualizing-the-length-of-internet-agreements/)
+- [Redbean – Server that runs on 6 OSes](https://hackaday.com/2022/07/22/color-us-impressed-redbean-runs-a-web-server-on-six-operating-systems/)
+- [Ask HN: How to find related pages using NLP?](https://news.ycombinator.com/item?id=32209849)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [what career options are suitable for someone like me?](https://www.reddit.com/r/InformationTechnology/comments/w6kgf1/what_career_options_are_suitable_for_someone_like/)
+- [Interested in becoming a Front End or Full Stack Web Dev.. best way to start?](https://www.reddit.com/r/InformationTechnology/comments/w6dqtp/interested_in_becoming_a_front_end_or_full_stack/)
+- [workers in IT with no degree, how do you get to where you are at?](https://www.reddit.com/r/InformationTechnology/comments/w68ad8/workers_in_it_with_no_degree_how_do_you_get_to/)
+- [Inverted button help](https://www.reddit.com/r/InformationTechnology/comments/w65i47/inverted_button_help/)
+- [&lpar;ISC&rpar;² PLEDGES 1 MILLION CERTIFIED IN CYBERSECURITY](https://www.reddit.com/r/InformationTechnology/comments/w600pj/isc²_pledges_1_million_certified_in_cybersecurity/)
 - [Python experts](https://www.reddit.com/r/InformationTechnology/comments/w5ryvk/python_experts/)
 - [software dev/engineer vs IT?](https://www.reddit.com/r/InformationTechnology/comments/w5kyc6/software_devengineer_vs_it/)
 - [Have an interview coming up related to a Server hosting company](https://www.reddit.com/r/InformationTechnology/comments/w5kpix/have_an_interview_coming_up_related_to_a_server/)
 - [I probably have a really silly question about local admin accounts](https://www.reddit.com/r/InformationTechnology/comments/w5dxbw/i_probably_have_a_really_silly_question_about/)
 - [Should I take this contract](https://www.reddit.com/r/InformationTechnology/comments/w5bhrm/should_i_take_this_contract/)
-- [Is IT help desk the first step? how different is software engineer/ IT/ cybersecurity?](https://www.reddit.com/r/InformationTechnology/comments/w4wza2/is_it_help_desk_the_first_step_how_different_is/)
-- [Case management application with no built in debugger](https://www.reddit.com/r/InformationTechnology/comments/w4wucb/case_management_application_with_no_built_in/)
-- [How can my friend break into IT?](https://www.reddit.com/r/InformationTechnology/comments/w4ao21/how_can_my_friend_break_into_it/)
-- [How many years at a help desk?](https://www.reddit.com/r/InformationTechnology/comments/w3xrl7/how_many_years_at_a_help_desk/)
-- [how do I start towards a career in IT/cyber security? is it right for me?](https://www.reddit.com/r/InformationTechnology/comments/w3tmzc/how_do_i_start_towards_a_career_in_itcyber/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

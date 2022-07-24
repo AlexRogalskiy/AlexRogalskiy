@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war: what we know on day 150 of the invasion](https://www.theguardian.com/world/2022/jul/23/russia-ukraine-war-what-we-know-on-day-150-of-the-invasion)
-- [China braces for ‘big heat’ day with temperatures set to soar](https://www.theguardian.com/world/2022/jul/23/china-braces-for-big-heat-day-with-temperatures-set-to-soar)
-- [Steve Bannon convicted of contempt of Congress for defying Capitol attack subpoena](https://www.theguardian.com/us-news/2022/jul/22/steve-bannon-trial-trump-contempt-congress-charges)
-- [What happened in the Russia-Ukraine war this week? Catch up with the must-read news and analysis](https://www.theguardian.com/world/2022/jul/23/what-happened-in-the-russia-ukraine-war-this-week-catch-up-with-the-must-read-news-and-analysis)
-- [TV tonight: Joe Lycett befriends the UK’s most weird but wonderful artists](https://www.theguardian.com/tv-and-radio/2022/jul/23/tv-tonight-joe-lycett-summer-exhibitionist-channel-4)
-- [Joe Biden’s mild Covid symptoms are improving, doctor says](https://www.theguardian.com/us-news/2022/jul/22/biden-covid-white-house-teachable-moment)
-- [Amazon’s Lord of the Rings cast reveal clips from The Rings of Power at Comic-Con](https://www.theguardian.com/film/2022/jul/22/amazons-lord-of-the-rings-cast-reveal-clips-from-the-rings-of-power-at-comic-con)
-- [Truss vows to scrap remaining EU laws by end of 2023 risking ‘bonfire of rights’](https://www.theguardian.com/politics/2022/jul/22/bonfire-of-rights-truss-vows-to-scrap-remaining-eu-laws-by-end-2023)
-- [VW boss Herbert Diess exits three years early after turbulent tenure](https://www.theguardian.com/business/2022/jul/22/vw-boss-herbert-diess-exits-three-years-early-after-turbulent-tenure)
-- [Linda Sembrant late show puts Sweden through to semi-final against England](https://www.theguardian.com/football/2022/jul/22/sweden-belgium-womens-euro-2022-quarter-final-match-report)
+- [Thousands evacuated over wildfire near Yosemite as California governor declares emergency](https://www.theguardian.com/us-news/2022/jul/23/yosemite-firefighters-oak-fire)
+- [Chinese court rules against single woman who wanted to freeze eggs](https://www.theguardian.com/world/2022/jul/24/chinese-court-rules-against-single-woman-who-wanted-to-freeze-eggs)
+- [China says Xi Jinping given local Covid jab as it seeks to ease vaccine safety fears](https://www.theguardian.com/world/2022/jul/24/china-says-xi-jinping-given-local-covid-jab-as-it-seeks-to-ease-vaccine-safety-fears)
+- [Russia-Ukraine war: what we know on day 151 of the invasion](https://www.theguardian.com/world/2022/jul/24/russia-ukraine-war-what-we-know-on-day-151-of-the-invasion)
+- [Boris Johnson’s plan to create large number of new peers comes under fire](https://www.theguardian.com/politics/2022/jul/23/boris-johnsons-plan-to-create-large-number-of-new-peers-comes-under-fire)
+- [Périsset holds nerve to sink Netherlands and put France into semi-finals](https://www.theguardian.com/football/2022/jul/23/perisset-holds-nerve-to-sink-netherlands-and-put-france-into-semi-finals)
+- [Rishi Sunak says as PM he would cap number of refugees UK accepts](https://www.theguardian.com/world/2022/jul/23/rishi-sunak-says-as-pm-he-would-cap-number-of-refugees-uk-accepts)
+- [‘It hit me hard but I learned a lot from it’: Lucy Bronze targets semi-final salvation](https://www.theguardian.com/football/2022/jul/23/it-hit-me-hard-but-i-learned-a-lot-from-it-lucy-bronze-targets-semi-final-salvation)
+- [RFU launches investigation after Luther Burrell’s racism in rugby revelations](https://www.theguardian.com/sport/2022/jul/23/rfu-launch-investigation-luther-burrell-racism-in-rugby-revelations)
+- [Katherine Brunt sets record as England clinch T20 series against South Africa](https://www.theguardian.com/sport/2022/jul/23/katherine-brunt-sets-record-as-england-clinch-t20-series-against-south-africa)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

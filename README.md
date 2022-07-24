@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [GoodbyeDPI: Deep Packet Inspection circumvention utility](https://github.com/ValdikSS/GoodbyeDPI)
-- [Interactive exploration of Boston&#39;s subway system](http://mbtaviz.github.io/)
-- [Svix, the Enterprise Ready Webhook Service &lpar;YC W21&rpar; Is Hiring &lpar;Remote&rpar;](https://www.svix.com/careers/)
-- [New divorce app to help couples split assets in New York without lawyers](https://www.resolvy.com/)
-- [Unboxing a $100 Chromebook](https://twitter.com/timsneath/status/1550598445248811008)
-- [Google Fires Blake Lemoine, Engineer Who Called Its AI Sentient](https://bigtechnology.substack.com/p/google-fires-blake-lemoine-engineer)
-- [Where Expats Should &lpar;Not&rpar; Move in 2022](https://www.internations.org/press/press-release/where-expats-should-not-move-in-2022-40279)
-- [Hacker Lab Is Closing](https://hackerlab.org/en)
-- [Two containers with same number detected in Chittagong port](https://container-news.com/two-containers-with-same-number-detected-in-chittagong-port/)
-- [What I don’t like about working at a remote job](https://www.priconceptions.com/notebook/remote-jobs-bad)
+- [Ask HN: What are some keywords you track everyday?](https://news.ycombinator.com/item?id=32210004)
+- [How to drive away your best engineers](https://blog.hulacorn.com/http://localhost:8080/2021/09/08/how-to-drive-away-your-best-engineers/)
+- [Male ‘biological clock’ can affect chances of birth more than was thought](https://www.theguardian.com/society/2022/jul/23/male-biological-clock-age-of-father-can-affect-chances-of-birth-new-research-shows)
+- [A chess robot in Moscow has broken the finger of its human opponent](https://newsbeezer.com/czechrepubliceng/a-chess-robot-in-moscow-has-broken-the-finger-of-its-human-opponent/)
+- [How to Fold a Julia Fractal – A tale of numbers that like to turn &lpar;2013&rpar;](https://acko.net/blog/how-to-fold-a-julia-fractal/)
+- [Ivy &lpar;YC W23&rpar; is hiring engineers to help unify ML](https://www.ycombinator.com/companies/ivy/jobs)
+- [Health effects of the use of non-sugar sweeteners: a review and meta-analysis](https://www.who.int/publications-detail-redirect/9789240046429)
+- [Twitter data breach exposes contact details for 5.4M accounts; on sale for $30k](https://9to5mac.com/2022/07/22/twitter-data-breach/)
+- [OfficerBreaker – pptx/docx/xlsx password remover](https://github.com/nedlir/OfficerBreaker)
+- [Vodafone and Deutsche Telekom to introduce persistent user tracking](https://blog.simpleanalytics.com/vodafone-deutsche-telekom-to-introduce-persistent-user-tracking)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

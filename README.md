@@ -354,6 +354,7 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Review: Apple’s M2 MacBook Air](https://www.computerworld.com/article/3668249/review-apples-m2-macbook-air.html#tk.rss_all)
 - [NetApp’s Spot PC: a foundation for a new desktop paradigm?](https://www.computerworld.com/article/3668189/netapps-spot-pc-a-foundation-for-a-new-desktop-paradigm.html#tk.rss_all)
 - [Considering a website redesign? Why not do it in public?](https://www.computerworld.com/article/3668128/considering-a-website-redesign-why-not-do-it-in-public.html#tk.rss_all)
 - [Zoom expands end-to-end encryption for Phone and breakout rooms](https://www.computerworld.com/article/3668130/zoom-expands-end-to-end-encryption-for-phone-and-breakout-rooms.html#tk.rss_all)
@@ -363,7 +364,6 @@
 - [Podcast: Big beta breakdown: Apple’s Fall 2022 OSes](https://www.computerworld.com/article/3668148/podcast-big-beta-breakdown-apples-fall-2022-oses.html#tk.rss_all)
 - [Apple, T-Mobile offer Business Essentials to US SMBs](https://www.computerworld.com/article/3668031/apple-t-mobile-offer-business-essentials-to-us-smbs.html#tk.rss_all)
 - [Why meetings don&#39;t work anymore](https://www.computerworld.com/article/3667491/why-meetings-dont-work-anymore.html#tk.rss_all)
-- [Apple’s iMessage is looking more like a workday collaboration platform](https://www.computerworld.com/article/3667317/apples-imessage-is-looking-more-like-a-workday-collaboration-platform.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

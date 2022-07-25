@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Trying to major in IT but...](https://www.reddit.com/r/InformationTechnology/comments/w7dyc3/trying_to_major_in_it_but/)
+- [Cisco CCNA Practice tests: 22 Questions and answers](https://www.reddit.com/r/InformationTechnology/comments/w7bsor/cisco_ccna_practice_tests_22_questions_and_answers/)
+- [question about WGU bachelor&#39;s?](https://www.reddit.com/r/InformationTechnology/comments/w740fg/question_about_wgu_bachelors/)
+- [How do I get my foot in the door?](https://www.reddit.com/r/InformationTechnology/comments/w6rxie/how_do_i_get_my_foot_in_the_door/)
+- [I created a database for tech training and resources.](https://www.reddit.com/r/InformationTechnology/comments/w6mvq5/i_created_a_database_for_tech_training_and/)
 - [what career options are suitable for someone like me?](https://www.reddit.com/r/InformationTechnology/comments/w6kgf1/what_career_options_are_suitable_for_someone_like/)
 - [Interested in becoming a Front End or Full Stack Web Dev.. best way to start?](https://www.reddit.com/r/InformationTechnology/comments/w6dqtp/interested_in_becoming_a_front_end_or_full_stack/)
 - [workers in IT with no degree, how do you get to where you are at?](https://www.reddit.com/r/InformationTechnology/comments/w68ad8/workers_in_it_with_no_degree_how_do_you_get_to/)
 - [Inverted button help](https://www.reddit.com/r/InformationTechnology/comments/w65i47/inverted_button_help/)
-- [&lpar;ISC&rpar;² PLEDGES 1 MILLION CERTIFIED IN CYBERSECURITY](https://www.reddit.com/r/InformationTechnology/comments/w600pj/isc²_pledges_1_million_certified_in_cybersecurity/)
 - [Python experts](https://www.reddit.com/r/InformationTechnology/comments/w5ryvk/python_experts/)
-- [software dev/engineer vs IT?](https://www.reddit.com/r/InformationTechnology/comments/w5kyc6/software_devengineer_vs_it/)
-- [Have an interview coming up related to a Server hosting company](https://www.reddit.com/r/InformationTechnology/comments/w5kpix/have_an_interview_coming_up_related_to_a_server/)
-- [I probably have a really silly question about local admin accounts](https://www.reddit.com/r/InformationTechnology/comments/w5dxbw/i_probably_have_a_really_silly_question_about/)
-- [Should I take this contract](https://www.reddit.com/r/InformationTechnology/comments/w5bhrm/should_i_take_this_contract/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

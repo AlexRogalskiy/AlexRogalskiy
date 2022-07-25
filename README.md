@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ask HN: What are some keywords you track everyday?](https://news.ycombinator.com/item?id=32210004)
-- [Three Laws of Robotics](https://en.wikipedia.org/wiki/Three_Laws_of_Robotics)
-- [Show HN: Complete trace of the link of a distributed transaction](https://cectc.github.io/dbpack-doc/#/en-us/sql_tracing)
-- [Canada Reduces Fertilizer Use to meet emissions cap despite protests from farms](https://thecountersignal.com/trudeau-moves-forward-with-fertilizer-reduction-climate-policy/)
-- [Mastermind](https://patricksimpson.me/mastermind/)
-- [Ask HN: Alternatives to ELI5?](https://news.ycombinator.com/item?id=32209928)
-- [The Russian Economy Is Imploding](https://foreignpolicy.com/2022/07/22/russia-economy-sanctions-myths-ruble-business/)
-- [Visualizing the Length of the Fine Print, for 14 Popular Apps](https://www.visualcapitalist.com/terms-of-service-visualizing-the-length-of-internet-agreements/)
-- [Redbean – Server that runs on 6 OSes](https://hackaday.com/2022/07/22/color-us-impressed-redbean-runs-a-web-server-on-six-operating-systems/)
-- [Ask HN: How to find related pages using NLP?](https://news.ycombinator.com/item?id=32209849)
+- [To Cut 270 Tonnes of Residential CO2 Down to 39](https://www.newsroom.co.nz/turning-270-tonnes-of-residential-co2-into-39)
+- [How to Safely Lend Someone Else Your Phone](https://www.wired.com/story/how-to-safely-lend-someone-else-your-phone/)
+- [The startup being built from Afterpay founder Nick Molnar’s parent’s basement](https://www.smartcompany.com.au/industries/retail/flagship-simon-nick-molnar-afterpay/)
+- [Ask HN: Should the ADA Apply to Software?](https://news.ycombinator.com/item?id=32220231)
+- [Reverse Engineering the MOS 6502 CPU](https://www.youtube.com/watch?v=fWqBmmPQP40)
+- [Marilyn the Poet](https://www.theparisreview.org/blog/2022/06/28/marilyn-monroes-poetry/)
+- [Animated Postgres Execution Plan](https://twitter.com/pgira/status/1550910428473163785)
+- [Ask HN: YouTube Channels for the Intellectually Curious](https://news.ycombinator.com/item?id=32220192)
+- [Laser fusion facility heads back to drawing board](https://www.nature.com/articles/d41586-022-02022-1)
+- [init.tips – Start on the Right Stack](https://init.tips/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

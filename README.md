@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Thousands evacuated over wildfire near Yosemite as California governor declares emergency](https://www.theguardian.com/us-news/2022/jul/23/yosemite-firefighters-oak-fire)
-- [Chinese court rules against single woman who wanted to freeze eggs](https://www.theguardian.com/world/2022/jul/24/chinese-court-rules-against-single-woman-who-wanted-to-freeze-eggs)
-- [China says Xi Jinping given local Covid jab as it seeks to ease vaccine safety fears](https://www.theguardian.com/world/2022/jul/24/china-says-xi-jinping-given-local-covid-jab-as-it-seeks-to-ease-vaccine-safety-fears)
-- [Russia-Ukraine war: what we know on day 151 of the invasion](https://www.theguardian.com/world/2022/jul/24/russia-ukraine-war-what-we-know-on-day-151-of-the-invasion)
-- [Boris Johnson’s plan to create large number of new peers comes under fire](https://www.theguardian.com/politics/2022/jul/23/boris-johnsons-plan-to-create-large-number-of-new-peers-comes-under-fire)
-- [Périsset holds nerve to sink Netherlands and put France into semi-finals](https://www.theguardian.com/football/2022/jul/23/perisset-holds-nerve-to-sink-netherlands-and-put-france-into-semi-finals)
-- [Rishi Sunak says as PM he would cap number of refugees UK accepts](https://www.theguardian.com/world/2022/jul/23/rishi-sunak-says-as-pm-he-would-cap-number-of-refugees-uk-accepts)
-- [‘It hit me hard but I learned a lot from it’: Lucy Bronze targets semi-final salvation](https://www.theguardian.com/football/2022/jul/23/it-hit-me-hard-but-i-learned-a-lot-from-it-lucy-bronze-targets-semi-final-salvation)
-- [RFU launches investigation after Luther Burrell’s racism in rugby revelations](https://www.theguardian.com/sport/2022/jul/23/rfu-launch-investigation-luther-burrell-racism-in-rugby-revelations)
-- [Katherine Brunt sets record as England clinch T20 series against South Africa](https://www.theguardian.com/sport/2022/jul/23/katherine-brunt-sets-record-as-england-clinch-t20-series-against-south-africa)
+- [California Oak fire remains uncontained as Al Gore warns ‘civilization at stake’](https://www.theguardian.com/us-news/2022/jul/24/california-oak-wildfire-uncontained)
+- [Homeless in California: the Americans forced to camp in the desert - podcast](https://www.theguardian.com/news/audio/2022/jul/25/homeless-in-california-the-americans-forced-to-camp-in-the-desert-podcast)
+- [Myanmar junta executes democracy activists in first such killings in decades](https://www.theguardian.com/world/2022/jul/25/myanmar-junta-executes-democracy-activists-state-media)
+- [‘We just don’t get visited’: why Australia is overlooked in world’s best restaurant rankings](https://www.theguardian.com/food/2022/jul/25/we-just-dont-get-visited-why-australia-is-overlooked-in-worlds-best-restaurant-rankings)
+- [Chinese military has become more aggressive and dangerous, says US chief of staff](https://www.theguardian.com/us-news/2022/jul/25/chinese-military-has-become-more-aggressive-and-dangerous-says-us-chief-of-staff)
+- [Russia-Ukraine war latest: what we know on day 152 of the invasion](https://www.theguardian.com/world/2022/jul/25/russia-ukraine-war-latest-what-we-know-on-day-152-of-the-invasion)
+- [Ukraine warns grain export deal will stall if there are further Russian airstrikes on key ports – as it happened](https://www.theguardian.com/world/live/2022/jul/24/russia-ukraine-war-ukraine-pushes-to-restart-grain-exports-from-odesa-after-missile-attack-live)
+- [Instagran: meet Thailand’s new generation of over-60s influencers](https://www.theguardian.com/world/2022/jul/25/instagran-meet-thailands-new-generation-of-over-60s-influencers)
+- [Britain’s ‘great unretirement’: cost of living drives older people back to work](https://www.theguardian.com/business/2022/jul/25/britains-great-unretirement-cost-of-living-drives-older-people-back-to-work)
+- [Two in five airport workers thinking of quitting, says UK jobs site](https://www.theguardian.com/world/2022/jul/25/two-in-five-airport-workers-thinking-of-quitting-says-uk-jobs-site)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

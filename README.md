@@ -369,6 +369,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [How Security Resignations Affect Developers’ Workloads](https://www.informationweek.com/strategic-cio/how-security-resignations-affect-developers-workloads)
+- [An Insider&#39;s Look at Intuit&#39;s AI and Data Science Operation](https://www.informationweek.com/big-data/an-insider-s-look-at-intuit-s-ai-and-data-science-operation)
+- [4 Principles of Developing an Ethical AI Strategy](https://www.informationweek.com/big-data/4-principles-of-developing-an-ethical-ai-strategy)
 - [Quick Study: Cyber Resiliency and Risk](https://www.informationweek.com/security-and-risk-strategy/quick-study-cyber-resiliency-and-risk)
 - [What Can We Do to Address the Gender Gap in Tech Leadership?](https://www.informationweek.com/it-life/what-can-we-do-to-address-the-gender-gap-in-tech-leadership-)
 - [Long-Known Enterprise VPN Issues at Heart of Post-Roe Privacy Concerns](https://www.informationweek.com/security-and-risk-strategy/long-known-enterprise-vpn-issues-at-heart-of-post-roe-privacy-concerns)
@@ -376,9 +379,6 @@
 - [When to Justify a Legacy Upgrade](https://www.informationweek.com/strategic-cio/when-to-justify-a-legacy-upgrade)
 - [The Role of SSE and What it Means for SASE](https://www.informationweek.com/security-and-risk-strategy/the-role-of-sse-and-what-it-means-for-sase)
 - [CIO, CDO and CTO: The 3 Faces of Executive IT](https://www.informationweek.com/strategic-cio/cio-cdo-and-cto-the-3-faces-of-executive-it)
-- [Uncovering the Pathway to Modern Organizational Resilience](https://www.informationweek.com/strategic-cio/uncovering-the-pathway-to-modern-organizational-resilience)
-- [How to Boost IT Team Creativity](https://www.informationweek.com/strategic-cio/how-to-boost-it-team-creativity)
-- [The State of ITOps and SecOps: An Inside Look](https://www.informationweek.com/security-and-risk-strategy/the-state-of-itops-and-secops-an-inside-look)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

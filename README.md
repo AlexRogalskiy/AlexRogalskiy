@@ -339,16 +339,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The Identity of Kim Il Sung &lpar;1949&rpar; &lpar;declassified 2011&rpar; [pdf]](https://www.cia.gov/readingroom/docs/CIA-RDP80-00809A000600270269-4.pdf)
-- [Building a tiny little broken calculator with parser combinators](https://blog.jfo.click/building-a-tiny-little-broken-calculator-with-parser-combinators/)
-- [Why are McDonald’s Self Service Kiosks so hackable?](https://ghuntley.com/mcdonalds/)
-- [Datadog dashboard for the Texas power grid](https://p.datadoghq.com/sb/5c2fc00be-393be929c9c55c3b80b557d08c30787a?from_ts=1658093527470&to_ts=1658698327470&live=true)
-- [A self-contained AVR programmer using an Arduino Uno](https://blog.jgc.org/2022/07/a-self-contained-avr-programmer-using.html)
-- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Product Manager](https://jobs.lever.co/buildzoom)
-- [Library Writing Realizations &lpar;2015&rpar;](http://cbloomrants.blogspot.com/2015/09/library-writing-realizations.html)
-- [Oblique Strategies on GameBoy](https://nickyflowers.itch.io/osgb)
-- [DwarFS: A fast high compression read-only file system](https://github.com/mhx/dwarfs)
-- [OpenXanadu](https://xanadu.com/xanademos/MoeJusteOrigins.html)
+- [Treadmill garbage collector by H. Baker](http://www.cofault.com/2022/07/treadmill.html)
+- [Shamelessness as a Strategy](https://nadia.xyz/shameless)
+- [Becoming a Full-Time Creator as a Software Engineer](https://blog.pragmaticengineer.com/how-to-become-a-full-time-creator/)
+- [Instagram gets worse with dark patterns lifted from TikTok](https://techcrunch.com/2022/07/25/instagram-gets-worse-with-dark-patterns-lifted-from-tiktok/)
+- [VRchat bans mods, embraces EAC](https://hello.vrchat.com/blog/vrchat-security-update)
+- [Emoji Kitchen](https://emoji.supply/kitchen/)
+- [A coding error caused Rogers outage that left millions without service](https://www.theglobeandmail.com/business/article-how-a-coding-error-caused-rogers-outage-that-left-millions-without/)
+- [New embedded programming language with C as a host language](https://vely.dev/)
+- [‘Solar tower’ system produces jet fuel from CO2, water, and sunlight](https://singularityhub.com/2022/07/25/this-solar-tower-system-produces-jet-fuel-from-co2-water-and-sunlight/)
+- [I bought a cheap electric pickup truck from Alibaba &lpar;2021&rpar;](https://electrek.co/2021/10/25/i-actually-bought-a-cheap-electric-pickup-truck-from-alibaba-heres-what-showed-up/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

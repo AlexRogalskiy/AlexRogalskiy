@@ -309,16 +309,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [To Cut 270 Tonnes of Residential CO2 Down to 39](https://www.newsroom.co.nz/turning-270-tonnes-of-residential-co2-into-39)
-- [How to Safely Lend Someone Else Your Phone](https://www.wired.com/story/how-to-safely-lend-someone-else-your-phone/)
-- [The startup being built from Afterpay founder Nick Molnar’s parent’s basement](https://www.smartcompany.com.au/industries/retail/flagship-simon-nick-molnar-afterpay/)
-- [Ask HN: Should the ADA Apply to Software?](https://news.ycombinator.com/item?id=32220231)
-- [Reverse Engineering the MOS 6502 CPU](https://www.youtube.com/watch?v=fWqBmmPQP40)
-- [Marilyn the Poet](https://www.theparisreview.org/blog/2022/06/28/marilyn-monroes-poetry/)
-- [Animated Postgres Execution Plan](https://twitter.com/pgira/status/1550910428473163785)
-- [Ask HN: YouTube Channels for the Intellectually Curious](https://news.ycombinator.com/item?id=32220192)
-- [Laser fusion facility heads back to drawing board](https://www.nature.com/articles/d41586-022-02022-1)
-- [init.tips – Start on the Right Stack](https://init.tips/)
+- [How to Get a Programming Job Straight Out of High School](https://malisper.me/how-to-get-a-programming-job-straight-out-of-high-school/)
+- [The Joe Rogan Experience: #1840 - Marc Andreessen](https://open.spotify.com/episode/2JDW5u8BlKHM5C5wInOT4u)
+- [The Danger of Microsoft Pluton](https://gabrielsieben.tech/2022/07/25/the-power-of-microsoft-pluton-2/)
+- [Learning Perpetual View Generation of Natural Scenes from Single Images](https://infinite-nature-zero.github.io/)
+- [Learning Neural Mesh-Based Implicit Field for Geometry and Texture Editing](https://zju3dv.github.io/neumesh/)
+- [Secure Hardware Architectures for Embedded Computer Vision Devices](https://www.slideshare.net/embeddedvision/secure-hardware-architecture-for-embedded-vision-a-presentation-from-neurobinder)
+- [Show HN: Maroofy – discover music you&#39;ll love, via 30s song clips](https://maroofy.com/?hn)
+- [Michigan medical students walk out on an anti-abortion keynote speaker](https://www.npr.org/2022/07/25/1113508044/michigan-medical-students-walk-out-on-an-anti-abortion-keynote-speaker)
+- [KDE Energy Measurement Lab Follow-Up: Sprint Achievements and To-Dos](https://eco.kde.org/blog/2022-07-25-sprint-lab-follow-up/)
+- [China approves Genuine Biotech&#39;s HIV drug for Covid patients](https://www.reuters.com/world/china/china-allow-use-genuine-biotechs-hiv-drug-covid-patients-2022-07-25/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -429,16 +429,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Toronto Symphony sideswiped by WordFly ransomware attack](https://www.itworldcanada.com/article/toronto-symphony-sideswiped-by-wordfly-ransomware-attack/494510)
+- [‘Outages happen,’ telecom regulator tells parliamentary committee looking into Rogers crisis](https://www.itworldcanada.com/article/outages-happen-telecom-regulator-tells-parliamentary-committee-looking-into-rogers-crisis/494490)
+- [Updated: Hardware vendor differences led to Rogers outage, says Rogers CTO](https://www.itworldcanada.com/article/hardware-vendor-differences-led-to-rogers-outage-says-rogers-cto/494468)
+- [More conditions may be imposed on telcos as result of Rogers outage, says government](https://www.itworldcanada.com/article/more-conditions-may-be-imposed-on-telcos-as-result-of-rogers-outage-says-government/494332)
+- [Ontario town still recovering from ransomware attack](https://www.itworldcanada.com/article/ontario-town-still-recovering-from-ransomware-attack/494385)
+- [Ransomware by the numbers – This Week in Ransomware for the week ending Sunday, July 24, 2022](https://www.itworldcanada.com/article/ransomware-by-the-numbers-this-week-in-ransomware-for-the-week-ending-sunday-july-24-2022/494298)
+- [Cyber Security Today, July 25, 2022 – Public hearings on the Rogers outage start today, a data breach at Entrust and patches issued for SonicWall and Confluence products](https://www.itworldcanada.com/article/cyber-security-today-july-25-2022-public-hearings-on-the-rogers-outage-start-today-a-data-breach-at-entrust-and-patches-issued-for-sonicwall-and-confluence-products/494305)
+- [Hashtag Trending July 25 – Uber non-prosecution; Amazon is the best workplace; ransomware hits small Canadian town](https://www.itworldcanada.com/article/hashtag-trending-july-25-uber-non-prosecution-amazon-is-the-best-workplace-ransomware-hits-small-canadian-town/494354)
 - [Public explanation of Rogers outage has lots of blanks](https://www.itworldcanada.com/article/public-explanation-of-rogers-outage-has-lots-of-blanks/494150)
 - [Hashtag Weekend – Interview with Julian Galley of Compugen on his cross country bike tour in support of Alzheimer research](https://www.itworldcanada.com/article/hashtag-weekend-interview-with-julian-galley-of-compugen-on-his-cross-country-bike-tour-in-support-of-alzheimer-research/494134)
-- [Rogers names new CTO after masssive network failure](https://www.itworldcanada.com/article/rogers-names-new-cto-after-masssive-network-failure/494021)
-- [Appliances maker finding balance and investing in the future](https://www.itworldcanada.com/article/appliances-maker-finding-balance-and-investing-in-the-future/494016)
-- [Keys to unlocking the doors to digital transformation](https://www.itworldcanada.com/article/keys-to-unlocking-the-doors-to-digital-transformation/494012)
-- [How one company is powering 3D printing through cloud](https://www.itworldcanada.com/article/how-one-company-is-powering-3d-printing-through-cloud/494014)
-- [Cyber Security Today, Week in Review for Friday, July 22, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-july-22-2022/493777)
-- [Canadian Anti-fraud Centre name used in phishing campaign](https://www.itworldcanada.com/article/canadian-anti-fraud-centre-name-used-in-phishing-campaign/493916)
-- [Report reveals employee attrition, manager burnout to remain key challenges](https://www.itworldcanada.com/article/report-reveals-employee-attrition-manager-burnout-to-remain-key-challenges/493945)
-- [Calgary primed, ready for what it thinks will be a massive tech boom](https://www.itworldcanada.com/article/calgary-primed-ready-for-what-it-thinks-will-be-a-massive-tech-boom/493825)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

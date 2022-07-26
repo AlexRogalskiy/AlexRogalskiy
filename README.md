@@ -399,16 +399,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Home Office ‘unlawfully’ approved MI5 bulk surveillance warrants](https://www.computerweekly.com/news/252523106/Home-office-unlawfully-approved-MI5-bulk-surveillance-warrants)
+- [NCSC seeks community input for Cyber Advisor service](https://www.computerweekly.com/news/252523102/NCSC-seeks-community-input-for-Cyber-Advisor-service)
+- [Umbrella IT contractors could get back-dated holiday pay windfall following Supreme Court ruling](https://www.computerweekly.com/news/252523099/Umbrella-IT-contractors-could-get-back-dated-holiday-pay-windfall-following-Supreme-Court-ruling)
+- [Latest Atlassian Confluence vulnerability raises concerns](https://www.computerweekly.com/news/252523100/Latest-Atlassian-Confluence-vulnerability-raises-concerns)
+- [CDO interview: Brandon Hootman, director of digital data, Caterpillar](https://www.computerweekly.com/news/252522625/CDO-interview-Brandon-Hootman-director-of-digital-data-Caterpillar)
+- [The Security Interviews: Why you need to protect abandoned digital assets](https://www.computerweekly.com/news/252523031/The-Security-Interviews-Why-you-need-to-protect-abandoned-digital-assets)
+- [CDO interview: Ian Rabagliati, product and experience director, Eurotunnel](https://www.computerweekly.com/news/252522616/CDO-interview-Ian-Rabagliati-product-and-experience-director-Eurotunnel)
 - [Russia could become the world’s largest market for illegal IT](https://www.computerweekly.com/news/252523036/Russia-could-become-the-worlds-largest-market-for-illegal-IT)
 - [SAP Q2 2022: Revenue up 13%, Ukraine war impact steady at €300m](https://www.computerweekly.com/news/252523008/SAP-Q2-2022-revenue-up-13-Ukraine-war-impact-steady-at-300m)
 - [UK heatwave linked to ongoing IT systems issues at Guy&#39;s &amp; St Thomas&#39; NHS Foundation Trust](https://www.computerweekly.com/news/252523037/UK-heatwave-linked-to-ongoing-IT-systems-issues-at-Guys-St-Thomas-NHS-Foundation-Trust)
-- [LinkedIn most impersonated brand in phishing attacks](https://www.computerweekly.com/news/252523033/LinkedIn-most-impersonated-brand-in-phishing-attacks)
-- [UK could see almost 15,000 tech jobs created this year](https://www.computerweekly.com/news/252523032/UK-could-see-almost-15000-tech-jobs-created-this-year)
-- [Forrester: European cloud adoption accelerates](https://www.computerweekly.com/news/252523005/Forrester-European-cloud-adoption-accelerates)
-- [GCHQ experts back scanning of encrypted phone messages to fight child abuse](https://www.computerweekly.com/news/252523028/GCHQ-experts-back-scanning-of-encrypted-phone-messages-to-fight-child-abuse)
-- [Buy ‘plug-n-play’ malware for the price of a pint of beer](https://www.computerweekly.com/news/252523004/Buy-plug-n-play-malware-for-the-price-of-a-pint-of-beer)
-- [SSEN partners with Icebreaker One to break energy data silos](https://www.computerweekly.com/news/252522999/SSEN-partners-with-Icebreaker-One-to-break-energy-data-silos)
-- [Digital drives workplace trends in the Nordics](https://www.computerweekly.com/news/252522932/Digital-drives-workplace-trends-in-the-Nordics)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

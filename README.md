@@ -354,16 +354,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
+- [Striving for a better balance in the future of work](https://www.computerworld.com/article/3668251/striving-for-a-better-balance-in-the-future-of-work.html#tk.rss_all)
+- [For SMBs, Microsoft offers a new layer of server protection](https://www.computerworld.com/article/3668034/for-smbs-microsoft-offers-a-new-layer-of-server-protection.html#tk.rss_all)
+- [Q&amp;A: Dropbox exec outlines company&#39;s journey into a remote-work world](https://www.computerworld.com/article/3667321/qa-dropbox-exec-outlines-companys-journey-into-a-remote-work-world.html#tk.rss_all)
 - [Review: Apple’s M2 MacBook Air](https://www.computerworld.com/article/3668249/review-apples-m2-macbook-air.html#tk.rss_all)
 - [NetApp’s Spot PC: a foundation for a new desktop paradigm?](https://www.computerworld.com/article/3668189/netapps-spot-pc-a-foundation-for-a-new-desktop-paradigm.html#tk.rss_all)
 - [Considering a website redesign? Why not do it in public?](https://www.computerworld.com/article/3668128/considering-a-website-redesign-why-not-do-it-in-public.html#tk.rss_all)
 - [Zoom expands end-to-end encryption for Phone and breakout rooms](https://www.computerworld.com/article/3668130/zoom-expands-end-to-end-encryption-for-phone-and-breakout-rooms.html#tk.rss_all)
 - [Don’t get too emotional about emotion-reading AI](https://www.computerworld.com/article/3667499/don-t-get-too-emotional-about-emotion-reading-ai.html#tk.rss_all)
 - [3 little-known location tricks for Google Assistant on Android](https://www.computerworld.com/article/3667322/google-assistant-android-location.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [Podcast: Big beta breakdown: Apple’s Fall 2022 OSes](https://www.computerworld.com/article/3668148/podcast-big-beta-breakdown-apples-fall-2022-oses.html#tk.rss_all)
-- [Apple, T-Mobile offer Business Essentials to US SMBs](https://www.computerworld.com/article/3668031/apple-t-mobile-offer-business-essentials-to-us-smbs.html#tk.rss_all)
-- [Why meetings don&#39;t work anymore](https://www.computerworld.com/article/3667491/why-meetings-dont-work-anymore.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

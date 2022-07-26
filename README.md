@@ -414,16 +414,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to hack System Networks using Kali Linux ?](https://www.reddit.com/r/InformationTechnology/comments/w830ok/how_to_hack_system_networks_using_kali_linux/)
+- [Anyone here part of the hiring process? I need your help.](https://www.reddit.com/r/InformationTechnology/comments/w7xq38/anyone_here_part_of_the_hiring_process_i_need/)
+- [Last Minute Feedback for Information Systems Technician interview.](https://www.reddit.com/r/InformationTechnology/comments/w7x6mr/last_minute_feedback_for_information_systems/)
+- [Getting past the great wall &lpar;Support&rpar;?](https://www.reddit.com/r/InformationTechnology/comments/w7wxg4/getting_past_the_great_wall_support/)
+- [Full process involved in onboarding and testing medical equipment before going live?](https://www.reddit.com/r/InformationTechnology/comments/w7w9ai/full_process_involved_in_onboarding_and_testing/)
 - [Trying to major in IT but...](https://www.reddit.com/r/InformationTechnology/comments/w7dyc3/trying_to_major_in_it_but/)
 - [Cisco CCNA Practice tests: 22 Questions and answers](https://www.reddit.com/r/InformationTechnology/comments/w7bsor/cisco_ccna_practice_tests_22_questions_and_answers/)
 - [question about WGU bachelor&#39;s?](https://www.reddit.com/r/InformationTechnology/comments/w740fg/question_about_wgu_bachelors/)
 - [How do I get my foot in the door?](https://www.reddit.com/r/InformationTechnology/comments/w6rxie/how_do_i_get_my_foot_in_the_door/)
 - [I created a database for tech training and resources.](https://www.reddit.com/r/InformationTechnology/comments/w6mvq5/i_created_a_database_for_tech_training_and/)
-- [what career options are suitable for someone like me?](https://www.reddit.com/r/InformationTechnology/comments/w6kgf1/what_career_options_are_suitable_for_someone_like/)
-- [Interested in becoming a Front End or Full Stack Web Dev.. best way to start?](https://www.reddit.com/r/InformationTechnology/comments/w6dqtp/interested_in_becoming_a_front_end_or_full_stack/)
-- [workers in IT with no degree, how do you get to where you are at?](https://www.reddit.com/r/InformationTechnology/comments/w68ad8/workers_in_it_with_no_degree_how_do_you_get_to/)
-- [Inverted button help](https://www.reddit.com/r/InformationTechnology/comments/w65i47/inverted_button_help/)
-- [Python experts](https://www.reddit.com/r/InformationTechnology/comments/w5ryvk/python_experts/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

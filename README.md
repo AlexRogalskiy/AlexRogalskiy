@@ -324,16 +324,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [California Oak fire remains uncontained as Al Gore warns ‘civilization at stake’](https://www.theguardian.com/us-news/2022/jul/24/california-oak-wildfire-uncontained)
-- [Homeless in California: the Americans forced to camp in the desert - podcast](https://www.theguardian.com/news/audio/2022/jul/25/homeless-in-california-the-americans-forced-to-camp-in-the-desert-podcast)
-- [Myanmar junta executes democracy activists in first such killings in decades](https://www.theguardian.com/world/2022/jul/25/myanmar-junta-executes-democracy-activists-state-media)
-- [‘We just don’t get visited’: why Australia is overlooked in world’s best restaurant rankings](https://www.theguardian.com/food/2022/jul/25/we-just-dont-get-visited-why-australia-is-overlooked-in-worlds-best-restaurant-rankings)
-- [Chinese military has become more aggressive and dangerous, says US chief of staff](https://www.theguardian.com/us-news/2022/jul/25/chinese-military-has-become-more-aggressive-and-dangerous-says-us-chief-of-staff)
-- [Russia-Ukraine war latest: what we know on day 152 of the invasion](https://www.theguardian.com/world/2022/jul/25/russia-ukraine-war-latest-what-we-know-on-day-152-of-the-invasion)
-- [Ukraine warns grain export deal will stall if there are further Russian airstrikes on key ports – as it happened](https://www.theguardian.com/world/live/2022/jul/24/russia-ukraine-war-ukraine-pushes-to-restart-grain-exports-from-odesa-after-missile-attack-live)
-- [Instagran: meet Thailand’s new generation of over-60s influencers](https://www.theguardian.com/world/2022/jul/25/instagran-meet-thailands-new-generation-of-over-60s-influencers)
-- [Britain’s ‘great unretirement’: cost of living drives older people back to work](https://www.theguardian.com/business/2022/jul/25/britains-great-unretirement-cost-of-living-drives-older-people-back-to-work)
-- [Two in five airport workers thinking of quitting, says UK jobs site](https://www.theguardian.com/world/2022/jul/25/two-in-five-airport-workers-thinking-of-quitting-says-uk-jobs-site)
+- [Japan executes man over Tokyo stabbing rampage – reports](https://www.theguardian.com/world/2022/jul/26/japan-executes-man-over-tokyo-stabbing-rampage-reports)
+- [Keep starfish off the barbecue: New Zealanders call for rockpool protections](https://www.theguardian.com/world/2022/jul/26/keep-starfish-off-the-barbecue-new-zealanders-call-for-rockpool-protections)
+- [‘Gloves are off’: what the papers say about the Tory leadership TV debate](https://www.theguardian.com/uk-news/2022/jul/26/gloves-are-off-what-the-papers-say-about-the-tory-leadership-tv-debate)
+- [Do the Democrats have a Biden problem? – podcast](https://www.theguardian.com/news/audio/2022/jul/26/do-the-democrats-have-a-biden-problem)
+- [Myanmar executions: US presses China to rein in junta, saying it cannot be ‘business as usual’](https://www.theguardian.com/world/2022/jul/26/myanmar-executions-us-presses-china-to-rein-in-junta-saying-it-cannot-be-business-as-usual)
+- [Russia-Ukraine war latest: what we know on day 153 of the invasion](https://www.theguardian.com/world/2022/jul/26/russia-ukraine-war-latest-what-we-know-on-day-153-of-the-invasion)
+- [Myanmar: The Forgotten Revolution review – as chilling and courageous as TV gets](https://www.theguardian.com/tv-and-radio/2022/jul/26/myanmar-the-forgotten-revolution-review-as-chilling-and-courageous-as-tv-gets)
+- [Energy bills will push millions into unmanageable debt, MPs warn](https://www.theguardian.com/business/2022/jul/26/energy-bills-will-plunge-millions-into-unmanageable-debt-warn-mps-ofgem)
+- [Women offenders still being jailed despite pledge to cut prisoner numbers, say MPs](https://www.theguardian.com/society/2022/jul/26/women-offenders-still-being-jailed-despite-pledge-to-cut-prisoner-numbers-say-mps)
+- [Ministers, one fears, still haven’t grasped scale of Ofgem’s regulatory failure | Nils Pratley](https://www.theguardian.com/business/nils-pratley-on-finance/2022/jul/26/ministers-one-fears-still-havent-grasped-scale-of-ofgem-regulatory-failure-energy-market)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

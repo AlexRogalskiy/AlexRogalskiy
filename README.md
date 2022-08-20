@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
-- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
-- [Striving for a better balance in the future of work](https://www.computerworld.com/article/3668251/striving-for-a-better-balance-in-the-future-of-work.html#tk.rss_all)
-- [For SMBs, Microsoft offers a new layer of server protection](https://www.computerworld.com/article/3668034/for-smbs-microsoft-offers-a-new-layer-of-server-protection.html#tk.rss_all)
-- [Q&amp;A: Dropbox exec outlines company&#39;s journey into a remote-work world](https://www.computerworld.com/article/3667321/qa-dropbox-exec-outlines-companys-journey-into-a-remote-work-world.html#tk.rss_all)
-- [Review: Apple’s M2 MacBook Air](https://www.computerworld.com/article/3668249/review-apples-m2-macbook-air.html#tk.rss_all)
-- [NetApp’s Spot PC: a foundation for a new desktop paradigm?](https://www.computerworld.com/article/3668189/netapps-spot-pc-a-foundation-for-a-new-desktop-paradigm.html#tk.rss_all)
-- [Considering a website redesign? Why not do it in public?](https://www.computerworld.com/article/3668128/considering-a-website-redesign-why-not-do-it-in-public.html#tk.rss_all)
-- [Zoom expands end-to-end encryption for Phone and breakout rooms](https://www.computerworld.com/article/3668130/zoom-expands-end-to-end-encryption-for-phone-and-breakout-rooms.html#tk.rss_all)
-- [Don’t get too emotional about emotion-reading AI](https://www.computerworld.com/article/3667499/don-t-get-too-emotional-about-emotion-reading-ai.html#tk.rss_all)
-- [3 little-known location tricks for Google Assistant on Android](https://www.computerworld.com/article/3667322/google-assistant-android-location.html#tk.rss_all)
+- [10 tricks for more efficient Android messaging](https://www.computerworld.com/article/3670391/android-messaging.html#tk.rss_all)
+- [Robocallers are now targeting businesses. Is there any way to keep them out?](https://www.computerworld.com/article/3670552/robocallers-are-now-targeting-businesses-is-there-any-way-to-keep-them-out.html#tk.rss_all)
+- [How &lpar;and why&rpar; Openreach deployed 30,000 iPhones to its engineers](https://www.computerworld.com/article/3670630/how-and-why-openreach-deployed-30000-iphones-to-its-engineers.html#tk.rss_all)
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [Podcast: Huge Apple Watch update](https://www.computerworld.com/article/3670551/huge-apple-watch-update.html#tk.rss_all)
+- [Productivity and the risks of ‘quiet quitting’](https://www.computerworld.com/article/3670631/productivity-and-the-risks-of-quiet-quitting.html#tk.rss_all)
+- [As businesses embrace fully-remote work, does company culture suffer?](https://www.computerworld.com/article/3670097/as-businesses-embrace-fully-remote-work-does-company-culture-suffer.html#tk.rss_all)
+- [Android security: Analysis, advice, and next-level knowledge](https://www.computerworld.com/article/3289768/android-security-analysis-advice-next-level-knowledge.html#tk.rss_all)
+- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
+- [Collaboration application spending grows in the face of economic uncertainty](https://www.computerworld.com/article/3669880/collaboration-application-spending-grows-in-the-face-of-economic-uncertainty.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

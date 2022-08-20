@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Treadmill garbage collector by H. Baker](http://www.cofault.com/2022/07/treadmill.html)
-- [Shamelessness as a Strategy](https://nadia.xyz/shameless)
-- [Becoming a Full-Time Creator as a Software Engineer](https://blog.pragmaticengineer.com/how-to-become-a-full-time-creator/)
-- [Instagram gets worse with dark patterns lifted from TikTok](https://techcrunch.com/2022/07/25/instagram-gets-worse-with-dark-patterns-lifted-from-tiktok/)
-- [VRchat bans mods, embraces EAC](https://hello.vrchat.com/blog/vrchat-security-update)
-- [Emoji Kitchen](https://emoji.supply/kitchen/)
-- [A coding error caused Rogers outage that left millions without service](https://www.theglobeandmail.com/business/article-how-a-coding-error-caused-rogers-outage-that-left-millions-without/)
-- [New embedded programming language with C as a host language](https://vely.dev/)
-- [‘Solar tower’ system produces jet fuel from CO2, water, and sunlight](https://singularityhub.com/2022/07/25/this-solar-tower-system-produces-jet-fuel-from-co2-water-and-sunlight/)
-- [I bought a cheap electric pickup truck from Alibaba &lpar;2021&rpar;](https://electrek.co/2021/10/25/i-actually-bought-a-cheap-electric-pickup-truck-from-alibaba-heres-what-showed-up/)
+- [Experts troubled by Canada’s euthanasia laws](https://apnews.com/article/covid-science-health-toronto-7c631558a457188d2bd2b5cfd360a867)
+- [Don’t plug in that free Microsoft Office USB drive you got in the mail](https://www.pcworld.com/article/833790/free-office-scam-uses-usb-drive-sent-through-mail.html)
+- [Diablo 1 for Web Browsers](https://github.com/d07RiV/diabloweb)
+- [Svix &lpar;YC W21&rpar; Is Hiring &lpar;Remote&rpar; – Enterprise-Ready Webhook Service](https://www.svix.com/careers/)
+- [High-Speed Rail Board Completes Environmental Clearance in Northern California](https://hsr.ca.gov/2022/08/18/news-release-high-speed-rail-board-completes-environmental-clearance-in-northern-california/)
+- [Nvidia to Share New Details on Grace CPU, Hopper GPU, NVLink Switch, Jetson Orin](https://blogs.nvidia.com/blog/2022/08/19/grace-hopper-nvswitch-hot-chips/)
+- [Digger – Back and Digitally Remastered &lpar;1998&rpar;](http://www.digger.org/)
+- [Seeing Like a State, Progress and Poverty, and Owning Land](http://www.loukidelis.com/on-land-ownership.html)
+- [Ask HN: Why is there no performant remote desktop for Mac/Linux?](https://news.ycombinator.com/item?id=32526108)
+- [App Store doesn&#39;t accept “too simple” apps](https://notes.alinpanaitiu.com/Dealing%20with%20App%20Store%20rejections)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

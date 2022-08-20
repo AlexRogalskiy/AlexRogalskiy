@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Japan executes man over Tokyo stabbing rampage – reports](https://www.theguardian.com/world/2022/jul/26/japan-executes-man-over-tokyo-stabbing-rampage-reports)
-- [Keep starfish off the barbecue: New Zealanders call for rockpool protections](https://www.theguardian.com/world/2022/jul/26/keep-starfish-off-the-barbecue-new-zealanders-call-for-rockpool-protections)
-- [‘Gloves are off’: what the papers say about the Tory leadership TV debate](https://www.theguardian.com/uk-news/2022/jul/26/gloves-are-off-what-the-papers-say-about-the-tory-leadership-tv-debate)
-- [Do the Democrats have a Biden problem? – podcast](https://www.theguardian.com/news/audio/2022/jul/26/do-the-democrats-have-a-biden-problem)
-- [Myanmar executions: US presses China to rein in junta, saying it cannot be ‘business as usual’](https://www.theguardian.com/world/2022/jul/26/myanmar-executions-us-presses-china-to-rein-in-junta-saying-it-cannot-be-business-as-usual)
-- [Russia-Ukraine war latest: what we know on day 153 of the invasion](https://www.theguardian.com/world/2022/jul/26/russia-ukraine-war-latest-what-we-know-on-day-153-of-the-invasion)
-- [Myanmar: The Forgotten Revolution review – as chilling and courageous as TV gets](https://www.theguardian.com/tv-and-radio/2022/jul/26/myanmar-the-forgotten-revolution-review-as-chilling-and-courageous-as-tv-gets)
-- [Energy bills will push millions into unmanageable debt, MPs warn](https://www.theguardian.com/business/2022/jul/26/energy-bills-will-plunge-millions-into-unmanageable-debt-warn-mps-ofgem)
-- [Women offenders still being jailed despite pledge to cut prisoner numbers, say MPs](https://www.theguardian.com/society/2022/jul/26/women-offenders-still-being-jailed-despite-pledge-to-cut-prisoner-numbers-say-mps)
-- [Ministers, one fears, still haven’t grasped scale of Ofgem’s regulatory failure | Nils Pratley](https://www.theguardian.com/business/nils-pratley-on-finance/2022/jul/26/ministers-one-fears-still-havent-grasped-scale-of-ofgem-regulatory-failure-energy-market)
+- [The sento owners making group bathing in Japan cool again](https://www.theguardian.com/world/2022/aug/20/the-sento-owners-making-group-bathing-in-japan-cool-again)
+- [Russia-Ukraine war latest: what we know on day 178 of the invasion](https://www.theguardian.com/world/2022/aug/20/russia-ukraine-war-latest-what-we-know-on-day-178-of-the-invasion)
+- [Macron calls Putin over fears Russia is weaponising captured nuclear plant](https://www.theguardian.com/world/2022/aug/19/ukraine-fears-russian-plan-to-cut-power-from-captured-nuclear-plant)
+- [‘#greyhairdon’tcare’: how women are embracing their grey hair](https://www.theguardian.com/lifeandstyle/2022/aug/19/who-needs-melanin-how-women-are-embracing-their-grey-hair)
+- [Drought in Horn of Africa places 22m people at risk of starvation, says UN](https://www.theguardian.com/world/2022/aug/20/drought-in-horn-of-africa-places-22m-people-at-risk-of-starvation-says-un)
+- [‘Dangerous misogynist’ Andrew Tate booted from Instagram and Facebook](https://www.theguardian.com/us-news/2022/aug/19/andrew-tate-instagram-facebook-removed)
+- [Thomas Tuchel dismisses VAR official Dean’s belated apology for missing foul](https://www.theguardian.com/football/2022/aug/19/thomas-tuchel-dismisses-var-officials-belated-apology-for-missing-foul)
+- [Kambundji pips Asher-Smith to 200m title after Muir and Hughes claim golds](https://www.theguardian.com/sport/2022/aug/19/kambundji-pips-asher-smith-to-200m-title-after-muir-and-hughes-claim-golds)
+- [Handley leads resurgent Leeds to win over Warrington to boost playoff push](https://www.theguardian.com/sport/2022/aug/19/handley-leads-resurgent-leeds-to-win-over-warrington-to-boost-playoff-push)
+- [From Suva runways to the pages of Vogue: the rising star of Fiji’s fledgling fashion scene](https://www.theguardian.com/world/2022/aug/20/from-suva-runways-to-the-pages-of-vogue-the-rising-star-of-fijis-fledgling-fashion-scene)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

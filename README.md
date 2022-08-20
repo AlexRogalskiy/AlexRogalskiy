@@ -400,16 +400,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Home Office ‘unlawfully’ approved MI5 bulk surveillance warrants](https://www.computerweekly.com/news/252523106/Home-office-unlawfully-approved-MI5-bulk-surveillance-warrants)
-- [NCSC seeks community input for Cyber Advisor service](https://www.computerweekly.com/news/252523102/NCSC-seeks-community-input-for-Cyber-Advisor-service)
-- [Umbrella IT contractors could get back-dated holiday pay windfall following Supreme Court ruling](https://www.computerweekly.com/news/252523099/Umbrella-IT-contractors-could-get-back-dated-holiday-pay-windfall-following-Supreme-Court-ruling)
-- [Latest Atlassian Confluence vulnerability raises concerns](https://www.computerweekly.com/news/252523100/Latest-Atlassian-Confluence-vulnerability-raises-concerns)
-- [CDO interview: Brandon Hootman, director of digital data, Caterpillar](https://www.computerweekly.com/news/252522625/CDO-interview-Brandon-Hootman-director-of-digital-data-Caterpillar)
-- [The Security Interviews: Why you need to protect abandoned digital assets](https://www.computerweekly.com/news/252523031/The-Security-Interviews-Why-you-need-to-protect-abandoned-digital-assets)
-- [CDO interview: Ian Rabagliati, product and experience director, Eurotunnel](https://www.computerweekly.com/news/252522616/CDO-interview-Ian-Rabagliati-product-and-experience-director-Eurotunnel)
-- [Russia could become the world’s largest market for illegal IT](https://www.computerweekly.com/news/252523036/Russia-could-become-the-worlds-largest-market-for-illegal-IT)
-- [SAP Q2 2022: Revenue up 13%, Ukraine war impact steady at €300m](https://www.computerweekly.com/news/252523008/SAP-Q2-2022-revenue-up-13-Ukraine-war-impact-steady-at-300m)
-- [UK heatwave linked to ongoing IT systems issues at Guy&#39;s &amp; St Thomas&#39; NHS Foundation Trust](https://www.computerweekly.com/news/252523037/UK-heatwave-linked-to-ongoing-IT-systems-issues-at-Guys-St-Thomas-NHS-Foundation-Trust)
+- [Google employees demand end to collection of abortion data](https://www.computerweekly.com/news/252524029/Google-employees-demand-end-to-collection-of-abortion-data)
+- [Cozy Bear targets MS 365 environments with new tactics](https://www.computerweekly.com/news/252524013/Cozy-Bear-targets-MS-365-environments-with-new-tactics)
+- [Apple patches two zero-days in macOs, iOS](https://www.computerweekly.com/news/252524012/Apple-patches-two-zero-days-in-macOs-iOS)
+- [Data sharing: How can we make sure the UK is a world leader?](https://www.computerweekly.com/opinion/Data-sharing-how-can-we-make-sure-the-UK-is-a-world-leader)
+- [IT Sustainability Think Tank: Why IT and procurement teams must work together to go green](https://www.computerweekly.com/opinion/IT-Sustainability-Think-Tank-Why-IT-and-procurement-teams-must-work-together-to-go-green)
+- [Fourth year rise in students sitting A-level computing](https://www.computerweekly.com/news/252523972/Fourth-year-rise-in-students-sitting-A-Level-computing)
+- [LexisNexis sued by immigration advocates over data practices](https://www.computerweekly.com/news/252523969/LexisNexis-sued-by-immigration-advocates-over-data-practices)
+- [Growing MFA use spurs ‘pass-the-cookie’ attacks](https://www.computerweekly.com/news/252523965/Growing-MFA-use-spurs-bypassing-pass-the-cookie-attacks)
+- [Amazon Ring vulnerability could have been used to spy on users](https://www.computerweekly.com/news/252523930/Amazon-Ring-vulnerability-could-have-been-used-to-spy-on-users)
+- [It takes a breach to force boards to take notice of cyber, says UK government](https://www.computerweekly.com/news/252523964/It-takes-a-breach-to-force-boards-to-take-notice-of-cyber-says-UK-government)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

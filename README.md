@@ -370,16 +370,16 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
-- [How Security Resignations Affect Developers’ Workloads](https://www.informationweek.com/strategic-cio/how-security-resignations-affect-developers-workloads)
-- [An Insider&#39;s Look at Intuit&#39;s AI and Data Science Operation](https://www.informationweek.com/big-data/an-insider-s-look-at-intuit-s-ai-and-data-science-operation)
-- [4 Principles of Developing an Ethical AI Strategy](https://www.informationweek.com/big-data/4-principles-of-developing-an-ethical-ai-strategy)
-- [Quick Study: Cyber Resiliency and Risk](https://www.informationweek.com/security-and-risk-strategy/quick-study-cyber-resiliency-and-risk)
-- [What Can We Do to Address the Gender Gap in Tech Leadership?](https://www.informationweek.com/it-life/what-can-we-do-to-address-the-gender-gap-in-tech-leadership-)
-- [Long-Known Enterprise VPN Issues at Heart of Post-Roe Privacy Concerns](https://www.informationweek.com/security-and-risk-strategy/long-known-enterprise-vpn-issues-at-heart-of-post-roe-privacy-concerns)
-- [Top Business Needs Driving IT Spending Today](https://www.informationweek.com/strategic-cio/top-business-needs-driving-it-spending-today)
-- [When to Justify a Legacy Upgrade](https://www.informationweek.com/strategic-cio/when-to-justify-a-legacy-upgrade)
-- [The Role of SSE and What it Means for SASE](https://www.informationweek.com/security-and-risk-strategy/the-role-of-sse-and-what-it-means-for-sase)
-- [CIO, CDO and CTO: The 3 Faces of Executive IT](https://www.informationweek.com/strategic-cio/cio-cdo-and-cto-the-3-faces-of-executive-it)
+- [What the FTC’s Scrutiny of Data Collection and Security May Mean](https://www.informationweek.com/big-data-analytics/what-the-ftc-s-scrutiny-of-data-collection-and-security-may-mean)
+- [How Military People and Processes Can Help Companies Win the Cyberwar](https://www.informationweek.com/security-and-risk-strategy/how-military-people-and-processes-can-help-companies-win-the-cyberwar)
+- [How Not to Waste Money on Cybersecurity](https://www.informationweek.com/security-and-risk-strategy/how-to-not-waste-money-on-cybersecurity)
+- [Redefining the Hybrid Workplace for Experience Parity](https://www.informationweek.com/it-life/redefining-the-hybrid-workplace-for-experience-parity)
+- [IT Job Market Still Strong, But Economic Headwinds Complicate Picture](https://www.informationweek.com/strategic-cio/it-job-market-still-strong-but-economic-headwinds-complicate-picture)
+- [Losing Tech Talent? Shift It From a Bug to a Feature](https://www.informationweek.com/strategic-cio/losing-tech-talent-shift-it-from-a-bug-to-a-feature)
+- [Whatever Happened to Six Sigma?](https://www.informationweek.com/it-life/whatever-happened-to-six-sigma-)
+- [Black Hat Postmortem: Geopolitical Risks and Complexity on the Rise](https://www.informationweek.com/security-and-risk-strategy/black-hat-postmortem-geopolitical-risks-and-complexity-on-the-rise)
+- [Who Should You Trust When Making Technology Decisions?](https://www.informationweek.com/strategic-cio/who-should-you-trust-when-making-technology-decisions-)
+- [CIOs Turn to the Cloud as Tech Budgets Come Under Scrutiny](https://www.informationweek.com/cloud/cios-turn-to-the-cloud-as-tech-budgets-come-under-scrutiny)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

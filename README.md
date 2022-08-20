@@ -430,16 +430,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
-- [Toronto Symphony sideswiped by WordFly ransomware attack](https://www.itworldcanada.com/article/toronto-symphony-sideswiped-by-wordfly-ransomware-attack/494510)
-- [‘Outages happen,’ telecom regulator tells parliamentary committee looking into Rogers crisis](https://www.itworldcanada.com/article/outages-happen-telecom-regulator-tells-parliamentary-committee-looking-into-rogers-crisis/494490)
-- [Updated: Hardware vendor differences led to Rogers outage, says Rogers CTO](https://www.itworldcanada.com/article/hardware-vendor-differences-led-to-rogers-outage-says-rogers-cto/494468)
-- [More conditions may be imposed on telcos as result of Rogers outage, says government](https://www.itworldcanada.com/article/more-conditions-may-be-imposed-on-telcos-as-result-of-rogers-outage-says-government/494332)
-- [Ontario town still recovering from ransomware attack](https://www.itworldcanada.com/article/ontario-town-still-recovering-from-ransomware-attack/494385)
-- [Ransomware by the numbers – This Week in Ransomware for the week ending Sunday, July 24, 2022](https://www.itworldcanada.com/article/ransomware-by-the-numbers-this-week-in-ransomware-for-the-week-ending-sunday-july-24-2022/494298)
-- [Cyber Security Today, July 25, 2022 – Public hearings on the Rogers outage start today, a data breach at Entrust and patches issued for SonicWall and Confluence products](https://www.itworldcanada.com/article/cyber-security-today-july-25-2022-public-hearings-on-the-rogers-outage-start-today-a-data-breach-at-entrust-and-patches-issued-for-sonicwall-and-confluence-products/494305)
-- [Hashtag Trending July 25 – Uber non-prosecution; Amazon is the best workplace; ransomware hits small Canadian town](https://www.itworldcanada.com/article/hashtag-trending-july-25-uber-non-prosecution-amazon-is-the-best-workplace-ransomware-hits-small-canadian-town/494354)
-- [Public explanation of Rogers outage has lots of blanks](https://www.itworldcanada.com/article/public-explanation-of-rogers-outage-has-lots-of-blanks/494150)
-- [Hashtag Weekend – Interview with Julian Galley of Compugen on his cross country bike tour in support of Alzheimer research](https://www.itworldcanada.com/article/hashtag-weekend-interview-with-julian-galley-of-compugen-on-his-cross-country-bike-tour-in-support-of-alzheimer-research/494134)
+- [Rogers provides more information to CRTC inquiry on July 8 outage](https://www.itworldcanada.com/article/rogers-provides-more-information-to-crtc-inquiry-on-july-8-outage/498916)
+- [Russian-based threat group targets Microsoft 365, says Mandiant](https://www.itworldcanada.com/article/russian-based-threat-group-targets-microsoft-365-says-mandiant/498897)
+- [CTM Insights set to license deepfake image detection advances to Allure Security](https://www.itworldcanada.com/article/ctm-insights-set-to-license-deepfake-image-detection-advances-to-allure-security/498885)
+- [Canadian company wins CapitaLand Sustainability X Challenge 2022 High Impact Award](https://www.itworldcanada.com/article/canadian-company-wins-capitaland-sustainability-x-challenge-2022-high-impact-award/498873)
+- [Honeycomb’s Liz Fong Jones speaks with Blameless about technical debt](https://www.itworldcanada.com/article/honeycombs-liz-fong-jones-speaks-with-blameless-about-technical-debt/498384)
+- [Cyber Security Today, Week in Review for Friday, August 19, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-august-19-2022/498783)
+- [Google updates its search engine to demote clickbait](https://www.itworldcanada.com/article/google-updates-its-search-engine-to-demote-clickbait/498840)
+- [Carbon neutral data centre market revenue set to soar: BIS](https://www.itworldcanada.com/article/carbon-neutral-data-centre-market-revenue-set-to-soar-bis/498766)
+- [Critical SAP vulnerability patched months ago now on US exploited bug list](https://www.itworldcanada.com/article/critical-sap-vulnerability-patched-months-ago-now-on-us-exploited-bug-list/498821)
+- [Cyber Security Today, Aug. 19, 2022 – Another huge DDoS attack, ransomware variants increase and a warning about vulnerable PLCs](https://www.itworldcanada.com/article/cyber-security-today-aug-19-2022-another-huge-ddos-attack-ransomware-variants-increase-and-a-warning-about-vulnerable-plcs/498780)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

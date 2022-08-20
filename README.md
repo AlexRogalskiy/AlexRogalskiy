@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [How to Get a Programming Job Straight Out of High School](https://malisper.me/how-to-get-a-programming-job-straight-out-of-high-school/)
-- [The Joe Rogan Experience: #1840 - Marc Andreessen](https://open.spotify.com/episode/2JDW5u8BlKHM5C5wInOT4u)
-- [The Danger of Microsoft Pluton](https://gabrielsieben.tech/2022/07/25/the-power-of-microsoft-pluton-2/)
-- [Learning Perpetual View Generation of Natural Scenes from Single Images](https://infinite-nature-zero.github.io/)
-- [Learning Neural Mesh-Based Implicit Field for Geometry and Texture Editing](https://zju3dv.github.io/neumesh/)
-- [Secure Hardware Architectures for Embedded Computer Vision Devices](https://www.slideshare.net/embeddedvision/secure-hardware-architecture-for-embedded-vision-a-presentation-from-neurobinder)
-- [Show HN: Maroofy – discover music you&#39;ll love, via 30s song clips](https://maroofy.com/?hn)
-- [Michigan medical students walk out on an anti-abortion keynote speaker](https://www.npr.org/2022/07/25/1113508044/michigan-medical-students-walk-out-on-an-anti-abortion-keynote-speaker)
-- [KDE Energy Measurement Lab Follow-Up: Sprint Achievements and To-Dos](https://eco.kde.org/blog/2022-07-25-sprint-lab-follow-up/)
-- [China approves Genuine Biotech&#39;s HIV drug for Covid patients](https://www.reuters.com/world/china/china-allow-use-genuine-biotechs-hiv-drug-covid-patients-2022-07-25/)
+- [Visual Sum of Cubes](https://x.st/visual-sum-of-cubes/)
+- [Ubuntu Bug #1973434: performance issues since 22.04 upgrade](https://bugs.launchpad.net/ubuntu/+source/linux/+bug/1973434)
+- [&#39;Forever chemicals&#39; destroyed by simple new method](https://phys.org/news/2022-08-chemicals-simple-method.html)
+- [Glitz and Glamour at LA Tech Week](https://www.protocol.com/newsletters/sourcecode/la-tech-week-dispatch)
+- [Update ECR registry map for new AWS regions](https://github.com/bottlerocket-os/bottlerocket/pull/2336/files)
+- [Decimation](https://en.wikipedia.org/wiki/Decimation_(punishment))
+- [Optimal Stopping](https://en.wikipedia.org/wiki/Optimal_stopping)
+- [Experts troubled by Canada’s euthanasia laws](https://apnews.com/article/covid-science-health-toronto-7c631558a457188d2bd2b5cfd360a867)
+- [To unlock housing, Tahoe program pays $24,000 to homeowners who rent to locals](https://www.sfgate.com/renotahoe/article/tahoe-pays-landlords-for-housing-17363148.php)
+- [Why are principal engineers so curmudgeonly?](https://news.ycombinator.com/item?id=32528597)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

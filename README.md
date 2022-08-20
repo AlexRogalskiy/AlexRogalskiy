@@ -385,16 +385,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
-- [How observability tools help with legacy software](https://www.infoworld.com/article/3667996/how-observability-tools-help-with-legacy-software.html#tk.rss_all)
-- [Manage morale, not metrics, for more effective engineering teams](https://www.infoworld.com/article/3667377/manage-morale-not-metrics-for-more-effective-engineering-teams.html#tk.rss_all)
-- [3 data quality metrics dataops should prioritize](https://www.infoworld.com/article/3667314/3-data-quality-metrics-dataops-should-prioritize.html#tk.rss_all)
-- [Majority of open source developers eyeing job change: EDB survey](https://www.infoworld.com/article/3668248/majority-of-open-source-developers-eyeing-job-change-edb-survey.html#tk.rss_all)
-- [How to attend RStudio Conference 2022 remotely for free](https://www.infoworld.com/article/3667993/how-to-attend-rstudio-conference-2022-remotely-for-free.html#tk.rss_all)
-- [Why do businesses suck at using data?](https://www.infoworld.com/article/3667888/why-do-businesses-suck-at-using-data.html#tk.rss_all)
-- [What is PaaS &lpar;platform-as-a-service&rpar;? A simpler way to build software applications](https://www.infoworld.com/article/3223434/what-is-paas-platform-as-a-service-a-simpler-way-to-build-software-applications.html#tk.rss_all)
-- [What is IaaS? A data center in the cloud packed with services](https://www.infoworld.com/article/3220669/what-is-iaas-your-data-center-in-the-cloud.html#tk.rss_all)
-- [What is cloud computing? Everything you need to know now](https://www.infoworld.com/article/2683784/what-is-cloud-computing.html#tk.rss_all)
-- [R tutorials: Learn R programming for data science](https://www.infoworld.com/article/3411819/do-more-with-r-video-tutorials.html#tk.rss_all)
+- [Complex cloud architecture is finally causing budgetary pain](https://www.infoworld.com/article/3670728/complex-cloud-architecture-is-finally-causing-budgetary-pain.html#tk.rss_all)
+- [What is an API? Application programming interfaces explained](https://www.infoworld.com/article/3269878/what-is-an-api-application-programming-interfaces-explained.html#tk.rss_all)
+- [Deno tees up easy NPM imports, speed boosts](https://www.infoworld.com/article/3670634/deno-tees-up-easy-npm-imports-speed-boosts.html#tk.rss_all)
+- [BrandPost: Run Databricks Queries in Up to 76% Less Time and Reduce Costs with Amazon® R5d Instances Featuring 2nd Gen Intel® Xeon® Scalable Processors](https://www.infoworld.com/article/3669881/run-databricks-queries-in-up-to-76-less-time-and-reduce-costs-with-amazon-r5d-instances-featuring-2.html#tk.rss_all)
+- [Microsoft Dev Box cloud-based workstations enter public preview](https://www.infoworld.com/article/3670569/microsoft-dev-box-cloud-based-workstations-enter-public-preview.html#tk.rss_all)
+- [What software developers should know about design: An interview with Soleio](https://www.infoworld.com/article/3670090/what-software-developers-should-know-about-design-an-interview-with-soleio.html#tk.rss_all)
+- [Lift and shift Windows applications to containers](https://www.infoworld.com/article/3670093/lift-and-shift-windows-applications-to-containers.html#tk.rss_all)
+- [Kubescape boosts Kubernetes scanning capabilities](https://www.infoworld.com/article/3669916/kubescape-boosts-kubernetes-scanning-capabilities.html#tk.rss_all)
+- [Microsoft .NET 6 bundled with Ubuntu Linux](https://www.infoworld.com/article/3669900/microsoft-net-6-bundled-with-ubuntu-linux.html#tk.rss_all)
+- [7 ugly YAML gotchas to avoid—and how to avoid them](https://www.infoworld.com/article/3669238/7-ugly-yaml-gotchas-to-avoid-and-how-to-avoid-them.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

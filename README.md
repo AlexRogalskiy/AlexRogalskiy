@@ -415,16 +415,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to hack System Networks using Kali Linux ?](https://www.reddit.com/r/InformationTechnology/comments/w830ok/how_to_hack_system_networks_using_kali_linux/)
-- [Anyone here part of the hiring process? I need your help.](https://www.reddit.com/r/InformationTechnology/comments/w7xq38/anyone_here_part_of_the_hiring_process_i_need/)
-- [Last Minute Feedback for Information Systems Technician interview.](https://www.reddit.com/r/InformationTechnology/comments/w7x6mr/last_minute_feedback_for_information_systems/)
-- [Getting past the great wall &lpar;Support&rpar;?](https://www.reddit.com/r/InformationTechnology/comments/w7wxg4/getting_past_the_great_wall_support/)
-- [Full process involved in onboarding and testing medical equipment before going live?](https://www.reddit.com/r/InformationTechnology/comments/w7w9ai/full_process_involved_in_onboarding_and_testing/)
-- [Trying to major in IT but...](https://www.reddit.com/r/InformationTechnology/comments/w7dyc3/trying_to_major_in_it_but/)
-- [Cisco CCNA Practice tests: 22 Questions and answers](https://www.reddit.com/r/InformationTechnology/comments/w7bsor/cisco_ccna_practice_tests_22_questions_and_answers/)
-- [question about WGU bachelor&#39;s?](https://www.reddit.com/r/InformationTechnology/comments/w740fg/question_about_wgu_bachelors/)
-- [How do I get my foot in the door?](https://www.reddit.com/r/InformationTechnology/comments/w6rxie/how_do_i_get_my_foot_in_the_door/)
-- [I created a database for tech training and resources.](https://www.reddit.com/r/InformationTechnology/comments/w6mvq5/i_created_a_database_for_tech_training_and/)
+- [Audit](https://www.reddit.com/r/InformationTechnology/comments/wsn70y/audit/)
+- [Help with Chrome OS and internet net](https://www.reddit.com/r/InformationTechnology/comments/ws5kl5/help_with_chrome_os_and_internet_net/)
+- [Anyone use ProtechGroup.com.au? IMS, CMS, CRUDs and general database management systems on the web](https://www.reddit.com/r/InformationTechnology/comments/ws2pz9/anyone_use_protechgroupcomau_ims_cms_cruds_and/)
+- [Any help appreciated](https://www.reddit.com/r/InformationTechnology/comments/wrzijl/any_help_appreciated/)
+- [How to check recent activity on Facebook?](https://www.reddit.com/r/InformationTechnology/comments/wrjguh/how_to_check_recent_activity_on_facebook/)
+- [HITRUST](https://www.reddit.com/r/InformationTechnology/comments/wr9k0w/hitrust/)
+- [IT equipment purchases for remote new hires: Is there an advantage to giving the new hire an allowance to buy whatever they need vs buying the IT equipment?](https://www.reddit.com/r/InformationTechnology/comments/wr7tee/it_equipment_purchases_for_remote_new_hires_is/)
+- [Spam email help??](https://www.reddit.com/r/InformationTechnology/comments/wqxk3p/spam_email_help/)
+- [Passion Projects that are IT related](https://www.reddit.com/r/InformationTechnology/comments/wq9p26/passion_projects_that_are_it_related/)
+- [How to post a direct link to Reddit?](https://www.reddit.com/r/InformationTechnology/comments/wq8frz/how_to_post_a_direct_link_to_reddit/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

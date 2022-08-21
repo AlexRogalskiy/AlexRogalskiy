@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Experts troubled by Canada’s euthanasia laws](https://apnews.com/article/covid-science-health-toronto-7c631558a457188d2bd2b5cfd360a867)
-- [Don’t plug in that free Microsoft Office USB drive you got in the mail](https://www.pcworld.com/article/833790/free-office-scam-uses-usb-drive-sent-through-mail.html)
-- [Diablo 1 for Web Browsers](https://github.com/d07RiV/diabloweb)
-- [Svix &lpar;YC W21&rpar; Is Hiring &lpar;Remote&rpar; – Enterprise-Ready Webhook Service](https://www.svix.com/careers/)
-- [High-Speed Rail Board Completes Environmental Clearance in Northern California](https://hsr.ca.gov/2022/08/18/news-release-high-speed-rail-board-completes-environmental-clearance-in-northern-california/)
-- [Nvidia to Share New Details on Grace CPU, Hopper GPU, NVLink Switch, Jetson Orin](https://blogs.nvidia.com/blog/2022/08/19/grace-hopper-nvswitch-hot-chips/)
-- [Digger – Back and Digitally Remastered &lpar;1998&rpar;](http://www.digger.org/)
-- [Seeing Like a State, Progress and Poverty, and Owning Land](http://www.loukidelis.com/on-land-ownership.html)
-- [Ask HN: Why is there no performant remote desktop for Mac/Linux?](https://news.ycombinator.com/item?id=32526108)
-- [App Store doesn&#39;t accept “too simple” apps](https://notes.alinpanaitiu.com/Dealing%20with%20App%20Store%20rejections)
+- [Beyond Hyperanthropomorphism. Or, why fears of AI are not even wrong](https://studio.ribbonfarm.com/p/beyond-hyperanthropomorphism)
+- [Ivy &lpar;YC W23&rpar; is hiring developers to help unify ML](https://www.ycombinator.com/companies/ivy/jobs)
+- [Show HN: As your priorities change, your Google calendar gets rearranged by AI](https://www.atomiclife.app/)
+- [How can we develop transformative tools for thought? [pdf]](https://numinous.productions/ttft/print/TTFT.pdf)
+- [Hyperparasite](https://en.wikipedia.org/wiki/Hyperparasite)
+- [Let&#39;s Try Gnome Boxes](https://glovesoff.substack.com/p/lets-try-gnome-boxes)
+- [Show HN: Brew.fm – Let bots discover new music on Spotify for you](https://www.brew.fm/)
+- [The Creedence Clearwater Revival Revival](https://www.newyorker.com/culture/cultural-comment/the-creedence-clearwater-revival-revival)
+- [A demo of GPT-3&#39;s ability to understand long instructions](https://twitter.com/goodside/status/1557524546412052482)
+- [Brian Kernighan adds Unicode support to Awk](https://github.com/onetrueawk/awk/commit/9ebe940cf3c652b0e373634d2aa4a00b8395b636)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

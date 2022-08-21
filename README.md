@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Visual Sum of Cubes](https://x.st/visual-sum-of-cubes/)
-- [Ubuntu Bug #1973434: performance issues since 22.04 upgrade](https://bugs.launchpad.net/ubuntu/+source/linux/+bug/1973434)
-- [&#39;Forever chemicals&#39; destroyed by simple new method](https://phys.org/news/2022-08-chemicals-simple-method.html)
-- [Glitz and Glamour at LA Tech Week](https://www.protocol.com/newsletters/sourcecode/la-tech-week-dispatch)
-- [Update ECR registry map for new AWS regions](https://github.com/bottlerocket-os/bottlerocket/pull/2336/files)
-- [Decimation](https://en.wikipedia.org/wiki/Decimation_(punishment))
-- [Optimal Stopping](https://en.wikipedia.org/wiki/Optimal_stopping)
-- [Experts troubled by Canada’s euthanasia laws](https://apnews.com/article/covid-science-health-toronto-7c631558a457188d2bd2b5cfd360a867)
-- [To unlock housing, Tahoe program pays $24,000 to homeowners who rent to locals](https://www.sfgate.com/renotahoe/article/tahoe-pays-landlords-for-housing-17363148.php)
-- [Why are principal engineers so curmudgeonly?](https://news.ycombinator.com/item?id=32528597)
+- [Show HN: HertzBeat – An open-source, real-time monitoring system](https://github.com/dromara/hertzbeat)
+- [JBIG2 Undetectable Data Corruption: Destroying Our Past, One Character at a Time](https://www.circuitousroot.com/artifice/resources/texts/jb2-jbig2/index.html)
+- [Using GPT-3 and Story Path to cure writer&#39;s block](https://storypath.app/for-writers-block)
+- [The high-return activity of raising others’ aspirations](https://marginalrevolution.com/marginalrevolution/2018/10/high-return-activity-raising-others-aspirations.html)
+- [The Backstory of 5 Startup Pivots That Grew to $43B](https://www.jasonshen.com/115/)
+- [Ask HN: Where to find HTML version of SICP?](https://news.ycombinator.com/item?id=32537032)
+- [It’s time to end the war on salt &lpar;2011&rpar;](https://www.scientificamerican.com/article/its-time-to-end-the-war-on-salt/)
+- [Ask HN: Anyone else feel trapped in FANG? How did you get out?](https://news.ycombinator.com/item?id=32537004)
+- [Ask HN: Small batch swag shirts for project?](https://news.ycombinator.com/item?id=32536941)
+- [Ask HN: What are the productive ways of using a smartphone?](https://news.ycombinator.com/item?id=32536916)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

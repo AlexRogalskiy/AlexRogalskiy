@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [The sento owners making group bathing in Japan cool again](https://www.theguardian.com/world/2022/aug/20/the-sento-owners-making-group-bathing-in-japan-cool-again)
-- [Russia-Ukraine war latest: what we know on day 178 of the invasion](https://www.theguardian.com/world/2022/aug/20/russia-ukraine-war-latest-what-we-know-on-day-178-of-the-invasion)
-- [Macron calls Putin over fears Russia is weaponising captured nuclear plant](https://www.theguardian.com/world/2022/aug/19/ukraine-fears-russian-plan-to-cut-power-from-captured-nuclear-plant)
-- [‘#greyhairdon’tcare’: how women are embracing their grey hair](https://www.theguardian.com/lifeandstyle/2022/aug/19/who-needs-melanin-how-women-are-embracing-their-grey-hair)
-- [Drought in Horn of Africa places 22m people at risk of starvation, says UN](https://www.theguardian.com/world/2022/aug/20/drought-in-horn-of-africa-places-22m-people-at-risk-of-starvation-says-un)
-- [‘Dangerous misogynist’ Andrew Tate booted from Instagram and Facebook](https://www.theguardian.com/us-news/2022/aug/19/andrew-tate-instagram-facebook-removed)
-- [Thomas Tuchel dismisses VAR official Dean’s belated apology for missing foul](https://www.theguardian.com/football/2022/aug/19/thomas-tuchel-dismisses-var-officials-belated-apology-for-missing-foul)
-- [Kambundji pips Asher-Smith to 200m title after Muir and Hughes claim golds](https://www.theguardian.com/sport/2022/aug/19/kambundji-pips-asher-smith-to-200m-title-after-muir-and-hughes-claim-golds)
-- [Handley leads resurgent Leeds to win over Warrington to boost playoff push](https://www.theguardian.com/sport/2022/aug/19/handley-leads-resurgent-leeds-to-win-over-warrington-to-boost-playoff-push)
-- [From Suva runways to the pages of Vogue: the rising star of Fiji’s fledgling fashion scene](https://www.theguardian.com/world/2022/aug/20/from-suva-runways-to-the-pages-of-vogue-the-rising-star-of-fijis-fledgling-fashion-scene)
+- [Two Russians and one Ukrainian arrested after suspected spying raid on Albanian arms factory](https://www.theguardian.com/world/2022/aug/21/two-russians-and-one-ukrainian-arrested-after-suspected-spying-raid-on-albanian-arms-factory)
+- [Volodymyr Zelenskiy warns of possible ‘vicious’ Russian attack ahead of Ukraine independence day](https://www.theguardian.com/world/2022/aug/21/volodymyr-zelenskiy-warns-of-vicious-russian-attack-ahead-of-ukraine-independence-day)
+- [Russia-Ukraine war latest: what we know on day 179 of the invasion](https://www.theguardian.com/world/2022/aug/21/russia-ukraine-war-latest-what-we-know-on-day-179-of-the-invasion)
+- [Oleksandr Usyk beats Anthony Joshua by split decision to retain world titles](https://www.theguardian.com/sport/2022/aug/21/oleksandr-usyk-beats-anthony-joshua-by-split-decision-to-retain-world-titles)
+- [Owami Davies: police watchdog investigates officers’ contact with missing woman](https://www.theguardian.com/uk-news/2022/aug/20/owami-davies-police-watchdog-investigates-officers-contact-with-missing-woman)
+- [Editors’ picks: 5 ways to style blazers – in pictures](https://www.theguardian.com/fashion/gallery/2022/aug/20/editors-picks-5-ways-to-style-blazers-in-pictures)
+- [Several killed as jihadist group seizes hotel in Somali capital](https://www.theguardian.com/world/2022/aug/19/casualties-reported-as-jihadist-group-seizes-hotel-in-somali-capital)
+- [Klopp claims Liverpool should ‘get points’ if Old Trafford game abandoned](https://www.theguardian.com/football/2022/aug/20/klopp-claims-liverpool-should-get-points-if-old-trafford-game-abandoned)
+- [Women in Finland post party videos to back PM Sanna Marin](https://www.theguardian.com/world/2022/aug/20/women-in-finland-post-party-videos-to-back-pm-sanna-marin)
+- [Gary Busey charged with sexual offenses at New Jersey convention](https://www.theguardian.com/us-news/2022/aug/20/gary-busey-actor-charged-new-jersey-sexual-contact-harassment)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

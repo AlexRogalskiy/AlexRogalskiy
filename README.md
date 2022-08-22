@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: HertzBeat – An open-source, real-time monitoring system](https://github.com/dromara/hertzbeat)
-- [JBIG2 Undetectable Data Corruption: Destroying Our Past, One Character at a Time](https://www.circuitousroot.com/artifice/resources/texts/jb2-jbig2/index.html)
-- [Using GPT-3 and Story Path to cure writer&#39;s block](https://storypath.app/for-writers-block)
-- [The high-return activity of raising others’ aspirations](https://marginalrevolution.com/marginalrevolution/2018/10/high-return-activity-raising-others-aspirations.html)
-- [The Backstory of 5 Startup Pivots That Grew to $43B](https://www.jasonshen.com/115/)
-- [Ask HN: Where to find HTML version of SICP?](https://news.ycombinator.com/item?id=32537032)
-- [It’s time to end the war on salt &lpar;2011&rpar;](https://www.scientificamerican.com/article/its-time-to-end-the-war-on-salt/)
-- [Ask HN: Anyone else feel trapped in FANG? How did you get out?](https://news.ycombinator.com/item?id=32537004)
-- [Ask HN: Small batch swag shirts for project?](https://news.ycombinator.com/item?id=32536941)
-- [Ask HN: What are the productive ways of using a smartphone?](https://news.ycombinator.com/item?id=32536916)
+- [Cas9 MRNAs](https://www.creative-biogene.com/crispr-cas9/products/mrna-414.html)
+- [A Korean Unicorn Once Replaced All Japanese Emojis with Korean Ones](https://tossface.cho.sh/)
+- [A Russian soldier&#39;s Ukraine journal: &#39;I will not participate in this madness&#39;](https://www.washingtonpost.com/world/2022/08/21/ukraine-russian-soldier-diary/)
+- [Cold Diffusion: Inverting Arbitrary Image Transforms Without Noise](https://arxiv.org/abs/2208.09392)
+- [Show HN: Install Gitlab locally with lxc container](https://ravish0007.github.io/post/gitlab-lxc/)
+- [Personalizing Text-to-Image Generation Using Textual Inversion](https://textual-inversion.github.io/)
+- [The Curious Afterlife of a Brain Trauma Survivor](https://www.wired.com/story/the-curious-afterlife-of-a-brain-trauma-survivor/)
+- [The First Chrome Exploit &lpar;2012&rpar;](https://blog.chromium.org/2012/05/tale-of-two-pwnies-part-1.html)
+- [Sundial: Fault-Tolerant Clock Synchronization for Datacenters](https://www.micahlerner.com/2022/07/03/sundial-fault-tolerant-clock-synchronization-for-datacenters.html)
+- [Show HN: What is Docker &lpar;in Docker&rpar;^n](https://scleox.github.io/explain_docker_nesting/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

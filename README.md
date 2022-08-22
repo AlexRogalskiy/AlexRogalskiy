@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Beyond Hyperanthropomorphism. Or, why fears of AI are not even wrong](https://studio.ribbonfarm.com/p/beyond-hyperanthropomorphism)
-- [Ivy &lpar;YC W23&rpar; is hiring developers to help unify ML](https://www.ycombinator.com/companies/ivy/jobs)
-- [Show HN: As your priorities change, your Google calendar gets rearranged by AI](https://www.atomiclife.app/)
-- [How can we develop transformative tools for thought? [pdf]](https://numinous.productions/ttft/print/TTFT.pdf)
-- [Hyperparasite](https://en.wikipedia.org/wiki/Hyperparasite)
-- [Let&#39;s Try Gnome Boxes](https://glovesoff.substack.com/p/lets-try-gnome-boxes)
-- [Show HN: Brew.fm – Let bots discover new music on Spotify for you](https://www.brew.fm/)
-- [The Creedence Clearwater Revival Revival](https://www.newyorker.com/culture/cultural-comment/the-creedence-clearwater-revival-revival)
-- [A demo of GPT-3&#39;s ability to understand long instructions](https://twitter.com/goodside/status/1557524546412052482)
-- [Brian Kernighan adds Unicode support to Awk](https://github.com/onetrueawk/awk/commit/9ebe940cf3c652b0e373634d2aa4a00b8395b636)
+- [Nonprofit Websites Are Full of Trackers. That Should Change](https://www.eff.org/deeplinks/2022/08/tracking-ubiquitous-within-nonprofits-it-doesnt-have-be)
+- [Applying a rule from Pixar with a camera from 1961](https://news.gregjeanneau.com/pixar-camera-1961/)
+- [Crazy Eddie’s Life Was Insane](https://www.nytimes.com/2022/08/09/books/review-retail-gangster-gary-weiss.html)
+- [This Program is Illegally Packaged in 14 Distributions](https://artemis.sh/2022/08/21/this-program-is-illegally-packaged-in-14-distributions.html)
+- [Inky Impression 5.7“ – Colour e-ink display for Raspberry Pi](https://core-electronics.com.au/guides/colour-e-ink-display-raspberry-pi/)
+- [The Google Pixel 6a highlights the problem with the U.S. phone market](https://www.xda-developers.com/google-pixel-6a-us-market-editorial/)
+- [Adam74: A terminal for a small 8-bit computer](https://www.engineersneedart.com/adam74/adam74.html)
+- [The Church of Interruption &lpar;2018&rpar;](https://sambleckley.com/writing/church-of-interruption.html)
+- [Offline-First Apps: Why Should Apps Be Made to Work in an Offline State?](https://www.dewsolutions.in/offline-first-apps/)
+- [BuildZoom &lpar;YC W13&rpar; is hiring a principal engineer](https://jobs.lever.co/buildzoom)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

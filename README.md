@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Two Russians and one Ukrainian arrested after suspected spying raid on Albanian arms factory](https://www.theguardian.com/world/2022/aug/21/two-russians-and-one-ukrainian-arrested-after-suspected-spying-raid-on-albanian-arms-factory)
-- [Volodymyr Zelenskiy warns of possible ‘vicious’ Russian attack ahead of Ukraine independence day](https://www.theguardian.com/world/2022/aug/21/volodymyr-zelenskiy-warns-of-vicious-russian-attack-ahead-of-ukraine-independence-day)
-- [Russia-Ukraine war latest: what we know on day 179 of the invasion](https://www.theguardian.com/world/2022/aug/21/russia-ukraine-war-latest-what-we-know-on-day-179-of-the-invasion)
-- [Oleksandr Usyk beats Anthony Joshua by split decision to retain world titles](https://www.theguardian.com/sport/2022/aug/21/oleksandr-usyk-beats-anthony-joshua-by-split-decision-to-retain-world-titles)
-- [Owami Davies: police watchdog investigates officers’ contact with missing woman](https://www.theguardian.com/uk-news/2022/aug/20/owami-davies-police-watchdog-investigates-officers-contact-with-missing-woman)
-- [Editors’ picks: 5 ways to style blazers – in pictures](https://www.theguardian.com/fashion/gallery/2022/aug/20/editors-picks-5-ways-to-style-blazers-in-pictures)
-- [Several killed as jihadist group seizes hotel in Somali capital](https://www.theguardian.com/world/2022/aug/19/casualties-reported-as-jihadist-group-seizes-hotel-in-somali-capital)
-- [Klopp claims Liverpool should ‘get points’ if Old Trafford game abandoned](https://www.theguardian.com/football/2022/aug/20/klopp-claims-liverpool-should-get-points-if-old-trafford-game-abandoned)
-- [Women in Finland post party videos to back PM Sanna Marin](https://www.theguardian.com/world/2022/aug/20/women-in-finland-post-party-videos-to-back-pm-sanna-marin)
-- [Gary Busey charged with sexual offenses at New Jersey convention](https://www.theguardian.com/us-news/2022/aug/20/gary-busey-actor-charged-new-jersey-sexual-contact-harassment)
+- [Possible South Korea link to New Zealand ‘children in suitcase’ mystery](https://www.theguardian.com/world/2022/aug/22/possible-south-korea-link-to-new-zealand-children-in-suitcase-mystery)
+- [United Arab Emirates reinstates ambassador to Iran after six-year absence](https://www.theguardian.com/world/2022/aug/22/united-arab-emirates-reinstates-ambassador-to-iran-after-six-year-absence)
+- [Revisited: The Division: New Orleans – part one – podcast](https://www.theguardian.com/news/audio/2022/aug/22/revisited-the-division-new-orleans-part-one-podcast)
+- [Leon Vitali, Stanley Kubrick collaborator and Barry Lyndon actor, dies aged 74](https://www.theguardian.com/film/2022/aug/22/leon-vitali-stanley-kubrick-collaborator-and-barry-lyndon-actor-dies-aged-74)
+- [Russia-Ukraine war latest: what we know on day 180 of the invasion](https://www.theguardian.com/world/2022/aug/22/russia-ukraine-war-latest-what-we-know-on-day-180-of-the-invasion)
+- [CEO of Israeli Pegasus spyware firm NSO to step down](https://www.theguardian.com/world/2022/aug/22/nso-group-ceo-shalev-hulio-step-down-israel-pegasus-spyware)
+- [Team GB and Wales decathlete Ben Gregory fighting for life after bike crash](https://www.theguardian.com/uk-news/2022/aug/21/team-gb-decathlete-ben-gregory-bike-crash)
+- [Average pay for FTSE 100 chiefs jumps by 39% to £3.4m](https://www.theguardian.com/business/2022/aug/22/average-pay-ftse-100-chiefs-jumps)
+- [UK ‘energy crisis hotspots’ identify areas at greatest risk from rising bills](https://www.theguardian.com/money/2022/aug/22/uk-energy-crisis-hotspots-identify-areas-at-greatest-risk-from-rising-bills)
+- [Strictly Come Dancing to celebrate BBC centenary with themed week](https://www.theguardian.com/tv-and-radio/2022/aug/22/strictly-come-dancing-bbc-centenary-blackpool-tower-ballroom)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

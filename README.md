@@ -415,16 +415,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Will there always be markdown and normal text editor apps &lpar;.txt or rich text&rpar; that can open, read, create, and render markdown on iOS and Android and any other mobile operating systems in the future?](https://www.reddit.com/r/InformationTechnology/comments/wufn3p/will_there_always_be_markdown_and_normal_text/)
+- [Ideas for an IT side hustle?](https://www.reddit.com/r/InformationTechnology/comments/wuduly/ideas_for_an_it_side_hustle/)
+- [MS-900 - Microsoft 365 Fundamentals Full Course for those that need it](https://www.reddit.com/r/InformationTechnology/comments/wu0ttt/ms900_microsoft_365_fundamentals_full_course_for/)
+- [questions?](https://www.reddit.com/r/InformationTechnology/comments/wu0q8w/questions/)
+- [What is DRaaS?](https://www.reddit.com/r/InformationTechnology/comments/wtuq2y/what_is_draas/)
 - [Domain Controller](https://www.reddit.com/r/InformationTechnology/comments/wtksex/domain_controller/)
 - [Windows Server ADDS Alternatives / Replacement](https://www.reddit.com/r/InformationTechnology/comments/wtd9wf/windows_server_adds_alternatives_replacement/)
 - [Help me to find a PC](https://www.reddit.com/r/InformationTechnology/comments/wt5xml/help_me_to_find_a_pc/)
 - [Audit](https://www.reddit.com/r/InformationTechnology/comments/wsn70y/audit/)
 - [Help with Chrome OS and internet net](https://www.reddit.com/r/InformationTechnology/comments/ws5kl5/help_with_chrome_os_and_internet_net/)
-- [Anyone use ProtechGroup.com.au? IMS, CMS, CRUDs and general database management systems on the web](https://www.reddit.com/r/InformationTechnology/comments/ws2pz9/anyone_use_protechgroupcomau_ims_cms_cruds_and/)
-- [Any help appreciated](https://www.reddit.com/r/InformationTechnology/comments/wrzijl/any_help_appreciated/)
-- [How to check recent activity on Facebook?](https://www.reddit.com/r/InformationTechnology/comments/wrjguh/how_to_check_recent_activity_on_facebook/)
-- [HITRUST](https://www.reddit.com/r/InformationTechnology/comments/wr9k0w/hitrust/)
-- [IT equipment purchases for remote new hires: Is there an advantage to giving the new hire an allowance to buy whatever they need vs buying the IT equipment?](https://www.reddit.com/r/InformationTechnology/comments/wr7tee/it_equipment_purchases_for_remote_new_hires_is/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

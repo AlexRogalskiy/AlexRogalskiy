@@ -415,16 +415,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Let&#39;s talk about chairs.](https://www.reddit.com/r/InformationTechnology/comments/wvcrwj/lets_talk_about_chairs/)
+- [Help !! Me Interview Prep please](https://www.reddit.com/r/InformationTechnology/comments/wv0e7c/help_me_interview_prep_please/)
+- [What&#39;s the difference between IT and ICT?](https://www.reddit.com/r/InformationTechnology/comments/wuxz69/whats_the_difference_between_it_and_ict/)
+- [How to lock &amp; unlock your Facebook Profile?](https://www.reddit.com/r/InformationTechnology/comments/wuvnuj/how_to_lock_unlock_your_facebook_profile/)
+- [What are the key elements required for creating an IT disaster recovery plan?](https://www.reddit.com/r/InformationTechnology/comments/wuszcb/what_are_the_key_elements_required_for_creating/)
 - [Will there always be markdown and normal text editor apps &lpar;.txt or rich text&rpar; that can open, read, create, and render markdown on iOS and Android and any other mobile operating systems in the future?](https://www.reddit.com/r/InformationTechnology/comments/wufn3p/will_there_always_be_markdown_and_normal_text/)
 - [Ideas for an IT side hustle?](https://www.reddit.com/r/InformationTechnology/comments/wuduly/ideas_for_an_it_side_hustle/)
 - [MS-900 - Microsoft 365 Fundamentals Full Course for those that need it](https://www.reddit.com/r/InformationTechnology/comments/wu0ttt/ms900_microsoft_365_fundamentals_full_course_for/)
 - [questions?](https://www.reddit.com/r/InformationTechnology/comments/wu0q8w/questions/)
 - [What is DRaaS?](https://www.reddit.com/r/InformationTechnology/comments/wtuq2y/what_is_draas/)
-- [Domain Controller](https://www.reddit.com/r/InformationTechnology/comments/wtksex/domain_controller/)
-- [Windows Server ADDS Alternatives / Replacement](https://www.reddit.com/r/InformationTechnology/comments/wtd9wf/windows_server_adds_alternatives_replacement/)
-- [Help me to find a PC](https://www.reddit.com/r/InformationTechnology/comments/wt5xml/help_me_to_find_a_pc/)
-- [Audit](https://www.reddit.com/r/InformationTechnology/comments/wsn70y/audit/)
-- [Help with Chrome OS and internet net](https://www.reddit.com/r/InformationTechnology/comments/ws5kl5/help_with_chrome_os_and_internet_net/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

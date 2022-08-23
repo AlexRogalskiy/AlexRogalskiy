@@ -385,6 +385,9 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Security is hard and won’t get much easier](https://www.infoworld.com/article/3670848/security-is-hard-and-wont-get-much-easier.html#tk.rss_all)
+- [Devs don’t want to do ops](https://www.infoworld.com/article/3669477/devs-don-t-want-to-do-ops.html#tk.rss_all)
+- [Avoid tech burnout: 5 ways to disconnect and relieve stress](https://www.infoworld.com/article/3669263/avoid-tech-burnout-5-ways-to-disconnect-and-relieve-stress.html#tk.rss_all)
 - [Complex cloud architecture is finally causing budgetary pain](https://www.infoworld.com/article/3670728/complex-cloud-architecture-is-finally-causing-budgetary-pain.html#tk.rss_all)
 - [What is an API? Application programming interfaces explained](https://www.infoworld.com/article/3269878/what-is-an-api-application-programming-interfaces-explained.html#tk.rss_all)
 - [Deno tees up easy NPM imports, speed boosts](https://www.infoworld.com/article/3670634/deno-tees-up-easy-npm-imports-speed-boosts.html#tk.rss_all)
@@ -392,9 +395,6 @@
 - [Microsoft Dev Box cloud-based workstations enter public preview](https://www.infoworld.com/article/3670569/microsoft-dev-box-cloud-based-workstations-enter-public-preview.html#tk.rss_all)
 - [What software developers should know about design: An interview with Soleio](https://www.infoworld.com/article/3670090/what-software-developers-should-know-about-design-an-interview-with-soleio.html#tk.rss_all)
 - [Lift and shift Windows applications to containers](https://www.infoworld.com/article/3670093/lift-and-shift-windows-applications-to-containers.html#tk.rss_all)
-- [Kubescape boosts Kubernetes scanning capabilities](https://www.infoworld.com/article/3669916/kubescape-boosts-kubernetes-scanning-capabilities.html#tk.rss_all)
-- [Microsoft .NET 6 bundled with Ubuntu Linux](https://www.infoworld.com/article/3669900/microsoft-net-6-bundled-with-ubuntu-linux.html#tk.rss_all)
-- [7 YAML gotchas to avoid—and how to avoid them](https://www.infoworld.com/article/3669238/7-yaml-gotchas-to-avoidand-how-to-avoid-them.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

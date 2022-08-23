@@ -400,16 +400,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Data classification: What it is and why you need it](https://www.computerweekly.com/feature/Data-classification-What-it-is-and-why-you-need-it)
+- [Contracting market weighs in on Liz Truss pledge to review IR35 rules if she becomes prime minister](https://www.computerweekly.com/news/252524072/Contracting-market-weighs-in-on-Liz-Truss-pledge-to-review-IR35-rules-if-she-becomes-prime-minister)
+- [State of open source: Computer Weekly Downtime Upload podcast](https://www.computerweekly.com/podcast/State-of-open-source-Computer-Weekly-Downtime-Upload-podcast)
+- [Kaspersky threat data added to Microsoft Sentinel service](https://www.computerweekly.com/news/252524060/Kaspersky-threat-data-added-to-Microsoft-Sentinel-service)
+- [Lloyd’s to end insurance coverage for state cyber attacks](https://www.computerweekly.com/news/252524057/Lloyds-to-end-insurance-coverage-for-state-cyber-attacks)
+- [Maybe 5G isn’t better: Computer Weekly Downtime Upload podcast](https://www.computerweekly.com/podcast/Maybe-5G-isnt-better-Computer-Weekly-Downtime-Upload-podcast)
 - [Google employees demand end to collection of abortion data](https://www.computerweekly.com/news/252524029/Google-employees-demand-end-to-collection-of-abortion-data)
 - [Cozy Bear targets MS 365 environments with new tactics](https://www.computerweekly.com/news/252524013/Cozy-Bear-targets-MS-365-environments-with-new-tactics)
 - [Apple patches two zero-days in macOs, iOS](https://www.computerweekly.com/news/252524012/Apple-patches-two-zero-days-in-macOs-iOS)
 - [Data sharing: How can we make sure the UK is a world leader?](https://www.computerweekly.com/opinion/Data-sharing-how-can-we-make-sure-the-UK-is-a-world-leader)
-- [IT Sustainability Think Tank: Why IT and procurement teams must work together to go green](https://www.computerweekly.com/opinion/IT-Sustainability-Think-Tank-Why-IT-and-procurement-teams-must-work-together-to-go-green)
-- [Fourth year rise in students sitting A-level computing](https://www.computerweekly.com/news/252523972/Fourth-year-rise-in-students-sitting-A-Level-computing)
-- [LexisNexis sued by immigration advocates over data practices](https://www.computerweekly.com/news/252523969/LexisNexis-sued-by-immigration-advocates-over-data-practices)
-- [Growing MFA use spurs ‘pass-the-cookie’ attacks](https://www.computerweekly.com/news/252523965/Growing-MFA-use-spurs-bypassing-pass-the-cookie-attacks)
-- [Amazon Ring vulnerability could have been used to spy on users](https://www.computerweekly.com/news/252523930/Amazon-Ring-vulnerability-could-have-been-used-to-spy-on-users)
-- [It takes a breach to force boards to take notice of cyber, says UK government](https://www.computerweekly.com/news/252523964/It-takes-a-breach-to-force-boards-to-take-notice-of-cyber-says-UK-government)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

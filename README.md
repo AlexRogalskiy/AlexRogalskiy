@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Cas9 MRNAs](https://www.creative-biogene.com/crispr-cas9/products/mrna-414.html)
-- [A Korean Unicorn Once Replaced All Japanese Emojis with Korean Ones](https://tossface.cho.sh/)
-- [A Russian soldier&#39;s Ukraine journal: &#39;I will not participate in this madness&#39;](https://www.washingtonpost.com/world/2022/08/21/ukraine-russian-soldier-diary/)
-- [Cold Diffusion: Inverting Arbitrary Image Transforms Without Noise](https://arxiv.org/abs/2208.09392)
-- [Show HN: Install Gitlab locally with lxc container](https://ravish0007.github.io/post/gitlab-lxc/)
-- [Personalizing Text-to-Image Generation Using Textual Inversion](https://textual-inversion.github.io/)
-- [The Curious Afterlife of a Brain Trauma Survivor](https://www.wired.com/story/the-curious-afterlife-of-a-brain-trauma-survivor/)
-- [The First Chrome Exploit &lpar;2012&rpar;](https://blog.chromium.org/2012/05/tale-of-two-pwnies-part-1.html)
-- [Sundial: Fault-Tolerant Clock Synchronization for Datacenters](https://www.micahlerner.com/2022/07/03/sundial-fault-tolerant-clock-synchronization-for-datacenters.html)
-- [Show HN: What is Docker &lpar;in Docker&rpar;^n](https://scleox.github.io/explain_docker_nesting/)
+- [MuseNet](https://openai.com/blog/musenet/)
+- [Google refuses to reinstate account after man took medical images of son’s groin](https://www.theguardian.com/technology/2022/aug/22/google-csam-account-blocked)
+- [Google Maps: Your Review Isn&#39;t Posted](https://www.seroundtable.com/google-maps-your-review-isnt-posted-33959.html)
+- [Strftime Reference and Sandbox](https://www.strfti.me/)
+- [Intel Details 3D Chip Packaging Tech for Meteor Lake, Arrow Lake and Lunar Lake](https://www.tomshardware.com/news/intel-details-3d-chip-packaging-tech-for-meteor-lake-arrow-lake-and-lunar-lake)
+- [The State of Java After Java 17](https://newrelic.com/blog/nerdlog/state-of-java-2022)
+- [GraphQL: For When REST Is Just Too Slow](https://thenewstack.io/graphql-for-when-rest-just-doesnt-cut-it/)
+- [Ask HN: Which subredits do you follow?](https://news.ycombinator.com/item?id=32560312)
+- [Mindblowing Loneliness](https://praveshkoirala.com/2022/08/23/mind-blowing-loneliness/)
+- [Kawasaki reveals hybrid system for motorcycles, test run on a dyno](https://shifting-gears.com/kawasaki-reveals-hybrid-system-for-motorcycles-test-run-on-a-dyno/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

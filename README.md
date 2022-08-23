@@ -430,16 +430,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Gartner survey reveals no stopping AI-based automation initiatives](https://www.itworldcanada.com/article/gartner-survey-reveals-no-stopping-ai-based-automation-initiatives/499092)
+- [Increase in ransomware attacks, number of variants and the attack surface itself: This Week in Ransomware as of Sunday, August 21, 2022](https://www.itworldcanada.com/article/increase-in-ransomware-attacks-number-of-variants-and-the-attack-surface-itself-this-week-in-ransomware-as-of-sunday-august-21-2022/499014)
+- [Cyber Security Today – Some CISO salaries are up, LockBit gang has troubles and crooks take advantage of poorly-secured WordPress sites](https://www.itworldcanada.com/article/cyber-security-today-some-ciso-salaries-are-up-lockbit-gang-has-troubles-and-crooks-take-advantage-of-poorly-secured-wordpress-sites/499016)
+- [Hashtag Trending Aug. 22 – Tesla increases FSD cost; an AC that uses no electricity; hackers wants your cookies more than santa](https://www.itworldcanada.com/article/hashtag-trending-aug-22-tesla-increases-fsd-cost-an-ac-that-uses-no-electricity-hackers-wants-your-cookies-more-than-santa/499021)
 - [Rogers provides more information to CRTC inquiry on July 8 outage](https://www.itworldcanada.com/article/rogers-provides-more-information-to-crtc-inquiry-on-july-8-outage/498916)
 - [Russian-based threat group targets Microsoft 365, says Mandiant](https://www.itworldcanada.com/article/russian-based-threat-group-targets-microsoft-365-says-mandiant/498897)
 - [CTM Insights set to license deepfake image detection advances to Allure Security](https://www.itworldcanada.com/article/ctm-insights-set-to-license-deepfake-image-detection-advances-to-allure-security/498885)
 - [Canadian company wins CapitaLand Sustainability X Challenge 2022 High Impact Award](https://www.itworldcanada.com/article/canadian-company-wins-capitaland-sustainability-x-challenge-2022-high-impact-award/498873)
 - [Honeycomb’s Liz Fong Jones speaks with Blameless about technical debt](https://www.itworldcanada.com/article/honeycombs-liz-fong-jones-speaks-with-blameless-about-technical-debt/498384)
 - [Cyber Security Today, Week in Review for Friday, August 19, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-august-19-2022/498783)
-- [Google updates its search engine to demote clickbait](https://www.itworldcanada.com/article/google-updates-its-search-engine-to-demote-clickbait/498840)
-- [Carbon neutral data centre market revenue set to soar: BIS](https://www.itworldcanada.com/article/carbon-neutral-data-centre-market-revenue-set-to-soar-bis/498766)
-- [Critical SAP vulnerability patched months ago now on US exploited bug list](https://www.itworldcanada.com/article/critical-sap-vulnerability-patched-months-ago-now-on-us-exploited-bug-list/498821)
-- [Cyber Security Today, Aug. 19, 2022 – Another huge DDoS attack, ransomware variants increase and a warning about vulnerable PLCs](https://www.itworldcanada.com/article/cyber-security-today-aug-19-2022-another-huge-ddos-attack-ransomware-variants-increase-and-a-warning-about-vulnerable-plcs/498780)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

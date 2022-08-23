@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Nonprofit Websites Are Full of Trackers. That Should Change](https://www.eff.org/deeplinks/2022/08/tracking-ubiquitous-within-nonprofits-it-doesnt-have-be)
-- [Applying a rule from Pixar with a camera from 1961](https://news.gregjeanneau.com/pixar-camera-1961/)
-- [Crazy Eddie’s Life Was Insane](https://www.nytimes.com/2022/08/09/books/review-retail-gangster-gary-weiss.html)
-- [This Program is Illegally Packaged in 14 Distributions](https://artemis.sh/2022/08/21/this-program-is-illegally-packaged-in-14-distributions.html)
-- [Inky Impression 5.7“ – Colour e-ink display for Raspberry Pi](https://core-electronics.com.au/guides/colour-e-ink-display-raspberry-pi/)
-- [The Google Pixel 6a highlights the problem with the U.S. phone market](https://www.xda-developers.com/google-pixel-6a-us-market-editorial/)
-- [Adam74: A terminal for a small 8-bit computer](https://www.engineersneedart.com/adam74/adam74.html)
-- [The Church of Interruption &lpar;2018&rpar;](https://sambleckley.com/writing/church-of-interruption.html)
-- [Offline-First Apps: Why Should Apps Be Made to Work in an Offline State?](https://www.dewsolutions.in/offline-first-apps/)
-- [BuildZoom &lpar;YC W13&rpar; is hiring a principal engineer](https://jobs.lever.co/buildzoom)
+- [Parsing SQL](https://tomassetti.me/parsing-sql/)
+- [Military drone swarms and how to combat them](https://smallwarsjournal.com/jrnl/art/military-drone-swarms-and-options-combat-them)
+- [EV shipping is set to blow internal combustion engines out of the water](https://pv-magazine-usa.com/2022/08/22/ev-shipping-is-set-to-blow-internal-combustion-engines-out-of-the-water/)
+- [The best and worst of 1994 and predictions for &#39;95](http://www.panix.com/~kgreenb/iw/bwv6n1.htm)
+- [Why Apple Will Switch to ARM-Based Macs &lpar;2014&rpar;](https://www.mattrichman.net/why-apple-will-switch-to-arm-based-macs/)
+- [My black body story &lpar;it&#39;s physics&rpar;](https://commandcenter.blogspot.com/2022/08/my-black-body-story-its-physics.html)
+- [An odd discovery on Spotify](https://www.robinsloan.com/newsletters/visions/#spotify)
+- [Young firms, old capital](https://www.sciencedirect.com/science/article/abs/pii/S0304405X21004098)
+- [Stripe down for 4 hours &lpar;and counting&rpar; for all those with Stripe Tax enabled](https://status.stripe.com/)
+- [Republishing a fork of the sanctioned Tornado Cash repositories](https://twitter.com/matthew_d_green/status/1561813046338748417)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

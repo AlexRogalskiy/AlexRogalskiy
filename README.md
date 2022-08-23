@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Tech event calendar 2022: Upcoming US shows, conferences, and IT expos](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
+- [What excites you about Windows 11? Inquiring minds want to know....](https://www.computerworld.com/article/3670636/what-excites-you-about-windows-11-inquiring-minds-want-to-know.html#tk.rss_all)
+- [10 lesser-known iOS 16 features to make work easier](https://www.computerworld.com/article/3670751/10-lesser-known-ios-16-features-to-make-work-easier.html#tk.rss_all)
+- [Q&amp;A: Real estate exec sees &#39;15-minute city&#39; concept migrating from Europe to the US](https://www.computerworld.com/article/3670729/qanda-commercial-real-estate-executive-sees-the-15-minute-city-migrating-from-europe-to-the-us-and.html#tk.rss_all)
 - [10 tricks for more efficient Android messaging](https://www.computerworld.com/article/3670391/android-messaging.html#tk.rss_all)
 - [Robocallers are now targeting businesses. Is there any way to keep them out?](https://www.computerworld.com/article/3670552/robocallers-are-now-targeting-businesses-is-there-any-way-to-keep-them-out.html#tk.rss_all)
 - [How &lpar;and why&rpar; Openreach deployed 30,000 iPhones to its engineers](https://www.computerworld.com/article/3670630/how-and-why-openreach-deployed-30000-iphones-to-its-engineers.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [Podcast: Huge Apple Watch update](https://www.computerworld.com/article/3670551/huge-apple-watch-update.html#tk.rss_all)
 - [Productivity and the risks of ‘quiet quitting’](https://www.computerworld.com/article/3670631/productivity-and-the-risks-of-quiet-quitting.html#tk.rss_all)
-- [As businesses embrace fully-remote work, does company culture suffer?](https://www.computerworld.com/article/3670097/as-businesses-embrace-fully-remote-work-does-company-culture-suffer.html#tk.rss_all)
-- [Android security: Analysis, advice, and next-level knowledge](https://www.computerworld.com/article/3289768/android-security-analysis-advice-next-level-knowledge.html#tk.rss_all)
-- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
-- [Collaboration application spending grows in the face of economic uncertainty](https://www.computerworld.com/article/3669880/collaboration-application-spending-grows-in-the-face-of-economic-uncertainty.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

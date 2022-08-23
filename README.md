@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Possible South Korea link to New Zealand ‘children in suitcase’ mystery](https://www.theguardian.com/world/2022/aug/22/possible-south-korea-link-to-new-zealand-children-in-suitcase-mystery)
-- [United Arab Emirates reinstates ambassador to Iran after six-year absence](https://www.theguardian.com/world/2022/aug/22/united-arab-emirates-reinstates-ambassador-to-iran-after-six-year-absence)
-- [Revisited: The Division: New Orleans – part one – podcast](https://www.theguardian.com/news/audio/2022/aug/22/revisited-the-division-new-orleans-part-one-podcast)
-- [Leon Vitali, Stanley Kubrick collaborator and Barry Lyndon actor, dies aged 74](https://www.theguardian.com/film/2022/aug/22/leon-vitali-stanley-kubrick-collaborator-and-barry-lyndon-actor-dies-aged-74)
-- [Russia-Ukraine war latest: what we know on day 180 of the invasion](https://www.theguardian.com/world/2022/aug/22/russia-ukraine-war-latest-what-we-know-on-day-180-of-the-invasion)
-- [CEO of Israeli Pegasus spyware firm NSO to step down](https://www.theguardian.com/world/2022/aug/22/nso-group-ceo-shalev-hulio-step-down-israel-pegasus-spyware)
-- [Team GB and Wales decathlete Ben Gregory fighting for life after bike crash](https://www.theguardian.com/uk-news/2022/aug/21/team-gb-decathlete-ben-gregory-bike-crash)
-- [Average pay for FTSE 100 chiefs jumps by 39% to £3.4m](https://www.theguardian.com/business/2022/aug/22/average-pay-ftse-100-chiefs-jumps)
-- [UK ‘energy crisis hotspots’ identify areas at greatest risk from rising bills](https://www.theguardian.com/money/2022/aug/22/uk-energy-crisis-hotspots-identify-areas-at-greatest-risk-from-rising-bills)
-- [Strictly Come Dancing to celebrate BBC centenary with themed week](https://www.theguardian.com/tv-and-radio/2022/aug/22/strictly-come-dancing-bbc-centenary-blackpool-tower-ballroom)
+- [Hundreds of Taiwanese trafficked to Cambodia and held captive by telecom scam gangs](https://www.theguardian.com/world/2022/aug/23/hundreds-of-taiwanese-trafficked-to-cambodia-and-held-captive-by-telecom-scam-gangs)
+- [Margaret Urlich, Aria winner and popular New Zealand singer, dies aged 57](https://www.theguardian.com/culture/2022/aug/23/margaret-urlich-aria-winner-and-popular-new-zealand-singer-dies-aged-57)
+- [Revisited: The Division: New Orleans – part two – podcast](https://www.theguardian.com/news/audio/2022/aug/23/revisited-the-division-new-orleans-part-two-podcast)
+- [Hungary sacks weather chief after forecast forces fireworks cancellation](https://www.theguardian.com/world/2022/aug/23/hungary-sacks-weather-chief-after-forecast-forces-fireworks-cancellation)
+- [Uniting church in Australia tells staff to avoid using Uber due to company’s ‘unethical foundations’](https://www.theguardian.com/technology/2022/aug/23/uniting-church-in-australia-tells-staff-to-avoid-using-uber-due-to-companys-unethical-foundations)
+- [Russia-Ukraine war latest: what we know on day 181 of the invasion](https://www.theguardian.com/world/2022/aug/23/russia-ukraine-war-latest-what-we-know-on-day-181-of-the-invasion)
+- [Google refuses to reinstate man’s account after he took medical images of son’s groin](https://www.theguardian.com/technology/2022/aug/22/google-csam-account-blocked)
+- [Shirtless scything scene was not a publicity shot, reveals Poldark star](https://www.theguardian.com/tv-and-radio/2022/aug/23/shirtless-scything-scene-was-not-a-publicity-shot-reveals-poldark-star)
+- [Scrap GCSEs and A-levels, says Tony Blair Institute in call for ‘radical reform’](https://www.theguardian.com/education/2022/aug/23/replace-gcses-and-a-levels-with-regular-assessments-says-tony-blair-institute)
+- [England’s housing strategy would blow entire carbon budget, says study](https://www.theguardian.com/environment/2022/aug/23/englands-housing-strategy-would-blow-entire-carbon-budget-says-study)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

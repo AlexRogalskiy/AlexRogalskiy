@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Apple’s investments in India are beginning to reap rewards](https://www.computerworld.com/article/3670593/apples-investments-in-india-are-beginning-to-reap-rewards.html#tk.rss_all)
+- [Android versions: A living history from 1.0 to 13](https://www.computerworld.com/article/3235946/android-versions-a-living-history-from-1-0-to-today.html#tk.rss_all)
+- [Working from home is here to stay](https://www.computerworld.com/article/3670749/working-from-home-is-here-to-stay.html#tk.rss_all)
+- [As frontline workers eye the exit, digital tools can aid staff retention](https://www.computerworld.com/article/3670750/as-frontline-workers-eye-the-exit-digital-tools-can-aid-staff-retention.html#tk.rss_all)
 - [Tech event calendar 2022: Upcoming US shows, conferences, and IT expos](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
 - [What excites you about Windows 11? Inquiring minds want to know....](https://www.computerworld.com/article/3670636/what-excites-you-about-windows-11-inquiring-minds-want-to-know.html#tk.rss_all)
 - [10 lesser-known iOS 16 features to make work easier](https://www.computerworld.com/article/3670751/10-lesser-known-ios-16-features-to-make-work-easier.html#tk.rss_all)
 - [Q&amp;A: Real estate exec sees &#39;15-minute city&#39; concept migrating from Europe to the US](https://www.computerworld.com/article/3670729/qanda-commercial-real-estate-executive-sees-the-15-minute-city-migrating-from-europe-to-the-us-and.html#tk.rss_all)
 - [10 tricks for more efficient Android messaging](https://www.computerworld.com/article/3670391/android-messaging.html#tk.rss_all)
 - [Robocallers are now targeting businesses. Is there any way to keep them out?](https://www.computerworld.com/article/3670552/robocallers-are-now-targeting-businesses-is-there-any-way-to-keep-them-out.html#tk.rss_all)
-- [How &lpar;and why&rpar; Openreach deployed 30,000 iPhones to its engineers](https://www.computerworld.com/article/3670630/how-and-why-openreach-deployed-30000-iphones-to-its-engineers.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [Podcast: Huge Apple Watch update](https://www.computerworld.com/article/3670551/huge-apple-watch-update.html#tk.rss_all)
-- [Productivity and the risks of ‘quiet quitting’](https://www.computerworld.com/article/3670631/productivity-and-the-risks-of-quiet-quitting.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

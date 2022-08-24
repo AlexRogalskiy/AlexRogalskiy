@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Hundreds of Taiwanese trafficked to Cambodia and held captive by telecom scam gangs](https://www.theguardian.com/world/2022/aug/23/hundreds-of-taiwanese-trafficked-to-cambodia-and-held-captive-by-telecom-scam-gangs)
-- [Margaret Urlich, Aria winner and popular New Zealand singer, dies aged 57](https://www.theguardian.com/culture/2022/aug/23/margaret-urlich-aria-winner-and-popular-new-zealand-singer-dies-aged-57)
-- [Revisited: The Division: New Orleans – part two – podcast](https://www.theguardian.com/news/audio/2022/aug/23/revisited-the-division-new-orleans-part-two-podcast)
-- [Hungary sacks weather chief after forecast forces fireworks cancellation](https://www.theguardian.com/world/2022/aug/23/hungary-sacks-weather-chief-after-forecast-forces-fireworks-cancellation)
-- [Uniting church in Australia tells staff to avoid using Uber due to company’s ‘unethical foundations’](https://www.theguardian.com/technology/2022/aug/23/uniting-church-in-australia-tells-staff-to-avoid-using-uber-due-to-companys-unethical-foundations)
-- [Russia-Ukraine war latest: what we know on day 181 of the invasion](https://www.theguardian.com/world/2022/aug/23/russia-ukraine-war-latest-what-we-know-on-day-181-of-the-invasion)
-- [Google refuses to reinstate man’s account after he took medical images of son’s groin](https://www.theguardian.com/technology/2022/aug/22/google-csam-account-blocked)
-- [Shirtless scything scene was not a publicity shot, reveals Poldark star](https://www.theguardian.com/tv-and-radio/2022/aug/23/shirtless-scything-scene-was-not-a-publicity-shot-reveals-poldark-star)
-- [Scrap GCSEs and A-levels, says Tony Blair Institute in call for ‘radical reform’](https://www.theguardian.com/education/2022/aug/23/replace-gcses-and-a-levels-with-regular-assessments-says-tony-blair-institute)
-- [England’s housing strategy would blow entire carbon budget, says study](https://www.theguardian.com/environment/2022/aug/23/englands-housing-strategy-would-blow-entire-carbon-budget-says-study)
+- [Russia-Ukraine war: Ukraine braces for Russian attacks as it marks independence day – live news](https://www.theguardian.com/world/live/2022/aug/24/russia-ukraine-war-ukraine-braces-for-russian-attacks-as-it-marks-independence-day-live-news)
+- [Angolans go to polls in most competitive election in decades](https://www.theguardian.com/world/2022/aug/24/angolans-go-to-polls-most-competitive-election-decades)
+- [Bird flu has killed 700 wild black vultures, says Georgia sanctuary](https://www.theguardian.com/world/2022/aug/24/bird-flu-has-killed-700-wild-black-vultures-says-georgia-sanctuary)
+- [Florida: Charlie Crist wins Democratic primary to challenge Ron DeSantis](https://www.theguardian.com/us-news/2022/aug/23/florida-charlie-crist-wins-ron-desantis-democratic-primary)
+- [Texas church issues apology for unauthorised ‘Christian’ Hamilton that rewrote bawdy raps](https://www.theguardian.com/stage/2022/aug/24/texas-church-issues-apology-for-unauthorised-christian-hamilton-that-rewrote-bawdy-raps)
+- [China heatwave: scorching temperatures and severe drought – in pictures](https://www.theguardian.com/environment/gallery/2022/aug/24/china-heatwave-scorching-temperatures-and-severe-drought-in-pictures)
+- [Revisited: The Division: New Orleans – part three – podcast](https://www.theguardian.com/news/audio/2022/aug/24/revisited-the-division-new-orleans-part-three-podcast)
+- [Russia-Ukraine war latest: what we know on day 182 of the invasion](https://www.theguardian.com/world/2022/aug/24/russia-ukraine-war-latest-what-we-know-on-day-182-of-the-invasion)
+- [Finland’s PM, Sanna Marin, apologises for ‘inappropriate’ pictures at residence](https://www.theguardian.com/world/2022/aug/24/finlands-pm-sanna-marin-apologises-for-inappropriate-pictures-at-residence)
+- [Eurotunnel passengers stranded underground for five hours](https://www.theguardian.com/uk-news/2022/aug/24/eurotunnel-passengers-stranded-underground-for-five-hours)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

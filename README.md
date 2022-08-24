@@ -400,16 +400,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [DevSecOps: Software developers lack sufficient security focus](https://www.computerweekly.com/news/252524107/DevSecOps-Software-developers-lack-sufficient-security-focus)
+- [Home Office announces Scale-up visa for fast-growth firms](https://www.computerweekly.com/news/252524113/Home-Office-announces-Scaleup-visa-for-fast-growth-firms)
+- [Bfloat16: What it is and how it impacts storage](https://www.computerweekly.com/feature/Bfloat16-What-it-is-and-how-it-impacts-storage)
+- [NCSC shares cyber guidance for large infrastructure builds](https://www.computerweekly.com/news/252524111/NCSC-shares-cyber-guidance-for-large-infrastructure-builds)
+- [IT leaders set to step up cloud investments over next two years, Colt research suggests](https://www.computerweekly.com/news/252524106/IT-leaders-set-to-step-up-cloud-investments-over-next-two-years-Colt-research-suggests)
+- [ODI: Smart data promise could founder against paywalls](https://www.computerweekly.com/opinion/ODI-Smart-data-promise-could-founder-against-paywalls)
+- [How digital technology rescued Merlin](https://www.computerweekly.com/ezine/Computer-Weekly/How-digital-technology-rescued-Merlin)
 - [Data classification: What it is and why you need it](https://www.computerweekly.com/feature/Data-classification-What-it-is-and-why-you-need-it)
 - [Contracting market weighs in on Liz Truss pledge to review IR35 rules if she becomes prime minister](https://www.computerweekly.com/news/252524072/Contracting-market-weighs-in-on-Liz-Truss-pledge-to-review-IR35-rules-if-she-becomes-prime-minister)
 - [State of open source: Computer Weekly Downtime Upload podcast](https://www.computerweekly.com/podcast/State-of-open-source-Computer-Weekly-Downtime-Upload-podcast)
-- [Kaspersky threat data added to Microsoft Sentinel service](https://www.computerweekly.com/news/252524060/Kaspersky-threat-data-added-to-Microsoft-Sentinel-service)
-- [Lloyd’s to end insurance coverage for state cyber attacks](https://www.computerweekly.com/news/252524057/Lloyds-to-end-insurance-coverage-for-state-cyber-attacks)
-- [Maybe 5G isn’t better: Computer Weekly Downtime Upload podcast](https://www.computerweekly.com/podcast/Maybe-5G-isnt-better-Computer-Weekly-Downtime-Upload-podcast)
-- [Google employees demand end to collection of abortion data](https://www.computerweekly.com/news/252524029/Google-employees-demand-end-to-collection-of-abortion-data)
-- [Cozy Bear targets MS 365 environments with new tactics](https://www.computerweekly.com/news/252524013/Cozy-Bear-targets-MS-365-environments-with-new-tactics)
-- [Apple patches two zero-days in macOs, iOS](https://www.computerweekly.com/news/252524012/Apple-patches-two-zero-days-in-macOs-iOS)
-- [Data sharing: How can we make sure the UK is a world leader?](https://www.computerweekly.com/opinion/Data-sharing-how-can-we-make-sure-the-UK-is-a-world-leader)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

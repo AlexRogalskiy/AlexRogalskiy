@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Parsing SQL](https://tomassetti.me/parsing-sql/)
-- [Military drone swarms and how to combat them](https://smallwarsjournal.com/jrnl/art/military-drone-swarms-and-options-combat-them)
-- [EV shipping is set to blow internal combustion engines out of the water](https://pv-magazine-usa.com/2022/08/22/ev-shipping-is-set-to-blow-internal-combustion-engines-out-of-the-water/)
-- [The best and worst of 1994 and predictions for &#39;95](http://www.panix.com/~kgreenb/iw/bwv6n1.htm)
-- [Why Apple Will Switch to ARM-Based Macs &lpar;2014&rpar;](https://www.mattrichman.net/why-apple-will-switch-to-arm-based-macs/)
-- [My black body story &lpar;it&#39;s physics&rpar;](https://commandcenter.blogspot.com/2022/08/my-black-body-story-its-physics.html)
-- [An odd discovery on Spotify](https://www.robinsloan.com/newsletters/visions/#spotify)
-- [Young firms, old capital](https://www.sciencedirect.com/science/article/abs/pii/S0304405X21004098)
-- [Stripe down for 4 hours &lpar;and counting&rpar; for all those with Stripe Tax enabled](https://status.stripe.com/)
-- [Republishing a fork of the sanctioned Tornado Cash repositories](https://twitter.com/matthew_d_green/status/1561813046338748417)
+- [Oven: The Company Behind Bun](https://oven.sh)
+- [Ask HN: DALL-E was trained on watermarked stock images?](https://news.ycombinator.com/item?id=32573523)
+- [Issues with upstream DNS provider](https://status.heroku.com/incidents/2453)
+- [Show HN: Pornpen.ai, AI-Generated Porn](https://pornpen.ai/)
+- [Effects of large vehicles on pedestrian and pedal-cyclist injury severity](https://www.sciencedirect.com/science/article/abs/pii/S0022437522000810)
+- [The future of Nginx: Getting back to our open source roots](https://www.nginx.com/blog/future-of-nginx-getting-back-to-open-source-roots/)
+- [Using Mushrooms for Fiber Dyeing](https://soulslikewheels.substack.com/p/lessons-in-mushroom-hunting-and-dyeing)
+- [Common tech jobs described as cabals of Mesoamerican wizards](https://etiennefd.substack.com/p/common-tech-jobs-described-as-cabals)
+- [Godot 4.0 will discontinue visual scripting](https://godotengine.org/article/godot-4-will-discontinue-visual-scripting)
+- [Release &lpar;YC W20&rpar; Is Hiring a Senior Product Manager](https://www.ycombinator.com/companies/release/jobs/t72DUPj-senior-product-manager)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [MuseNet](https://openai.com/blog/musenet/)
-- [Google refuses to reinstate account after man took medical images of son’s groin](https://www.theguardian.com/technology/2022/aug/22/google-csam-account-blocked)
-- [Google Maps: Your Review Isn&#39;t Posted](https://www.seroundtable.com/google-maps-your-review-isnt-posted-33959.html)
-- [Strftime Reference and Sandbox](https://www.strfti.me/)
-- [Intel Details 3D Chip Packaging Tech for Meteor Lake, Arrow Lake and Lunar Lake](https://www.tomshardware.com/news/intel-details-3d-chip-packaging-tech-for-meteor-lake-arrow-lake-and-lunar-lake)
-- [The State of Java After Java 17](https://newrelic.com/blog/nerdlog/state-of-java-2022)
-- [GraphQL: For When REST Is Just Too Slow](https://thenewstack.io/graphql-for-when-rest-just-doesnt-cut-it/)
-- [Ask HN: Which subredits do you follow?](https://news.ycombinator.com/item?id=32560312)
-- [Mindblowing Loneliness](https://praveshkoirala.com/2022/08/23/mind-blowing-loneliness/)
-- [Kawasaki reveals hybrid system for motorcycles, test run on a dyno](https://shifting-gears.com/kawasaki-reveals-hybrid-system-for-motorcycles-test-run-on-a-dyno/)
+- [Researcher develops algorithm to track mental states through the skin](https://www.sciencedaily.com/releases/2022/08/220810105158.htm)
+- [CDC Quietly Ends Differentiation on Covid Vaccination Status](https://brownstone.org/articles/cdc-quietly-ends-differentiation-on-covid-vaccination-status/)
+- [Eco-Fiction Became Realer Than Realism](https://www.thenation.com/article/culture/elvia-wilk-death-landscape/)
+- [Caches and Algorithms &lpar;1996&rpar;](https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.110.9155&rank=1&q=caches%20and%20algorithms&osm=&ossid=)
+- [Ask HN: Do you have something you continually work on for years?](https://news.ycombinator.com/item?id=32574718)
+- [Robert Hendy-Freegard](https://en.wikipedia.org/wiki/Robert_Hendy-Freegard)
+- [“Uptime 15,364 Days – The Computers of Voyager” by Aaron Cummings](https://www.youtube.com/watch?v=H62hZJVqs2o)
+- [Show HN: 3card a Decentralised Twitter](https://3card.vercel.app/)
+- [React – The Missing Parts: Question the rules for fun and profit](https://acko.net/blog/react-the-missing-parts/)
+- [Dirty dozen’ companies flooding UK beaches with plastic waste named](https://www.independent.co.uk/climate-change/news/worst-plastic-polluters-uk-beaches-cocacola-b2150295.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

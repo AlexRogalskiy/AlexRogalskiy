@@ -370,16 +370,16 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [No-Code Platforms and Easy Processes Bring the Benefits of Automation](https://www.informationweek.com/ai-or-machine-learning/no-code-platforms-and-easy-processes-bring-the-benefits-of-automation)
+- [Q&amp;A: How Data Science Fits into the Cloud Spend Equation](https://www.informationweek.com/big-data/q-a-how-data-science-fits-into-the-cloud-spend-equation)
+- [Why Hard Times Seem to Spur Technology Innovation](https://www.informationweek.com/strategic-cio/why-hard-times-seem-to-spur-technology-innovation)
+- [How to Select the Right AI Projects](https://www.informationweek.com/big-data/how-to-select-the-right-ai-projects)
 - [Understanding Metaverse’s Potential Business Opportunities](https://www.informationweek.com/big-data/understanding-metaverses-potential-business-opportunities)
 - [AI Is Now Mature Enough to Drive Revenue Growth](https://www.informationweek.com/big-data/ai-is-now-mature-enough-to-drive-revenue-growth)
 - [What the FTC’s Scrutiny of Data Collection and Security May Mean](https://www.informationweek.com/big-data-analytics/what-the-ftc-s-scrutiny-of-data-collection-and-security-may-mean)
 - [How Military People and Processes Can Help Companies Win the Cyberwar](https://www.informationweek.com/security-and-risk-strategy/how-military-people-and-processes-can-help-companies-win-the-cyberwar)
 - [How Not to Waste Money on Cybersecurity](https://www.informationweek.com/security-and-risk-strategy/how-to-not-waste-money-on-cybersecurity)
 - [Redefining the Hybrid Workplace for Experience Parity](https://www.informationweek.com/it-life/redefining-the-hybrid-workplace-for-experience-parity)
-- [IT Job Market Still Strong, But Economic Headwinds Complicate Picture](https://www.informationweek.com/strategic-cio/it-job-market-still-strong-but-economic-headwinds-complicate-picture)
-- [Losing Tech Talent? Shift It From a Bug to a Feature](https://www.informationweek.com/strategic-cio/losing-tech-talent-shift-it-from-a-bug-to-a-feature)
-- [Whatever Happened to Six Sigma?](https://www.informationweek.com/it-life/whatever-happened-to-six-sigma-)
-- [Black Hat Postmortem: Geopolitical Risks and Complexity on the Rise](https://www.informationweek.com/security-and-risk-strategy/black-hat-postmortem-geopolitical-risks-and-complexity-on-the-rise)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

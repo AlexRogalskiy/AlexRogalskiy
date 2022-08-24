@@ -385,16 +385,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [BrandPost: Optimize and Accelerate Cloud Apps for Cost Reduction With Intel® Workload Optimizer](https://www.infoworld.com/article/3670390/optimize-and-accelerate-cloud-apps-for-cost-reduction-with-intel-workload-optimizer.html#tk.rss_all)
+- [3 reasons cloud computing doesn’t save money](https://www.infoworld.com/article/3670851/3-reasons-cloud-computing-doesnt-save-money.html#tk.rss_all)
+- [Microsoft&#39;s C# 11 language upgrade nears the finish line](https://www.infoworld.com/article/3670793/microsofts-c-11-language-upgrade-nears-the-finish-line.html#tk.rss_all)
+- [IT career roadmap: Data scientist](https://www.infoworld.com/article/3670568/it-career-roadmap-data-scientist.html#tk.rss_all)
+- [Why Apache Iceberg will rule data in the cloud](https://www.infoworld.com/article/3669848/why-apache-iceberg-will-rule-data-in-the-cloud.html#tk.rss_all)
 - [Security is hard and won’t get much easier](https://www.infoworld.com/article/3670848/security-is-hard-and-wont-get-much-easier.html#tk.rss_all)
 - [Devs don’t want to do ops](https://www.infoworld.com/article/3669477/devs-don-t-want-to-do-ops.html#tk.rss_all)
 - [Avoid tech burnout: 5 ways to disconnect and relieve stress](https://www.infoworld.com/article/3669263/avoid-tech-burnout-5-ways-to-disconnect-and-relieve-stress.html#tk.rss_all)
 - [Complex cloud architecture is finally causing budgetary pain](https://www.infoworld.com/article/3670728/complex-cloud-architecture-is-finally-causing-budgetary-pain.html#tk.rss_all)
 - [What is an API? Application programming interfaces explained](https://www.infoworld.com/article/3269878/what-is-an-api-application-programming-interfaces-explained.html#tk.rss_all)
-- [Deno tees up easy NPM imports, speed boosts](https://www.infoworld.com/article/3670634/deno-tees-up-easy-npm-imports-speed-boosts.html#tk.rss_all)
-- [BrandPost: Run Databricks Queries in Up to 76% Less Time and Reduce Costs with Amazon® R5d Instances Featuring 2nd Gen Intel® Xeon® Scalable Processors](https://www.infoworld.com/article/3669881/run-databricks-queries-in-up-to-76-less-time-and-reduce-costs-with-amazon-r5d-instances-featuring-2.html#tk.rss_all)
-- [Microsoft Dev Box cloud-based workstations enter public preview](https://www.infoworld.com/article/3670569/microsoft-dev-box-cloud-based-workstations-enter-public-preview.html#tk.rss_all)
-- [What software developers should know about design: An interview with Soleio](https://www.infoworld.com/article/3670090/what-software-developers-should-know-about-design-an-interview-with-soleio.html#tk.rss_all)
-- [Lift and shift Windows applications to containers](https://www.infoworld.com/article/3670093/lift-and-shift-windows-applications-to-containers.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

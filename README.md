@@ -355,6 +355,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [The new workplace will be distributed, digital — and full of purpose](https://www.computerworld.com/article/3670738/the-new-workplace-will-be-distributed-digital-and-full-of-purpose.html#tk.rss_all)
+- [Microsoft OneNote cheat sheet](https://www.computerworld.com/article/3406779/microsoft-onenote-cheat-sheet.html#tk.rss_all)
+- [5 out-of-sight superpowers for Google Contacts on Android](https://www.computerworld.com/article/3670635/google-contacts-android.html#tk.rss_all)
 - [Apple’s investments in India are beginning to reap rewards](https://www.computerworld.com/article/3670593/apples-investments-in-india-are-beginning-to-reap-rewards.html#tk.rss_all)
 - [Android versions: A living history from 1.0 to 13](https://www.computerworld.com/article/3235946/android-versions-a-living-history-from-1-0-to-today.html#tk.rss_all)
 - [Working from home is here to stay](https://www.computerworld.com/article/3670749/working-from-home-is-here-to-stay.html#tk.rss_all)
@@ -362,9 +365,6 @@
 - [Tech event calendar 2022: Upcoming US shows, conferences, and IT expos](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
 - [What excites you about Windows 11? Inquiring minds want to know....](https://www.computerworld.com/article/3670636/what-excites-you-about-windows-11-inquiring-minds-want-to-know.html#tk.rss_all)
 - [10 lesser-known iOS 16 features to make work easier](https://www.computerworld.com/article/3670751/10-lesser-known-ios-16-features-to-make-work-easier.html#tk.rss_all)
-- [Q&amp;A: Real estate exec sees &#39;15-minute city&#39; concept migrating from Europe to the US](https://www.computerworld.com/article/3670729/qanda-commercial-real-estate-executive-sees-the-15-minute-city-migrating-from-europe-to-the-us-and.html#tk.rss_all)
-- [10 tricks for more efficient Android messaging](https://www.computerworld.com/article/3670391/android-messaging.html#tk.rss_all)
-- [Robocallers are now targeting businesses. Is there any way to keep them out?](https://www.computerworld.com/article/3670552/robocallers-are-now-targeting-businesses-is-there-any-way-to-keep-them-out.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

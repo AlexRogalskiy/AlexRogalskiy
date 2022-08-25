@@ -370,6 +370,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [DevOps and Security Takeaways from Twitter Whistleblower&#39;s Claims](https://www.informationweek.com/security-and-risk-strategy/devops-and-security-takeaways-from-twitter-whistleblowers-claims)
+- [How to Nurture Talent and Protect Your IT Stars](https://www.informationweek.com/strategic-cio/how-to-nurture-talent-and-protect-your-it-stars)
+- [Technology as a Competitive Edge in the Battle for Talent](https://www.informationweek.com/it-life/technology-as-a-competitive-edge-in-the-battle-for-talent)
 - [No-Code Platforms and Easy Processes Bring the Benefits of Automation](https://www.informationweek.com/ai-or-machine-learning/no-code-platforms-and-easy-processes-bring-the-benefits-of-automation)
 - [Q&amp;A: How Data Science Fits into the Cloud Spend Equation](https://www.informationweek.com/big-data/q-a-how-data-science-fits-into-the-cloud-spend-equation)
 - [Why Hard Times Seem to Spur Technology Innovation](https://www.informationweek.com/strategic-cio/why-hard-times-seem-to-spur-technology-innovation)
@@ -377,9 +380,6 @@
 - [Understanding Metaverse’s Potential Business Opportunities](https://www.informationweek.com/big-data/understanding-metaverses-potential-business-opportunities)
 - [AI Is Now Mature Enough to Drive Revenue Growth](https://www.informationweek.com/big-data/ai-is-now-mature-enough-to-drive-revenue-growth)
 - [What the FTC’s Scrutiny of Data Collection and Security May Mean](https://www.informationweek.com/big-data-analytics/what-the-ftc-s-scrutiny-of-data-collection-and-security-may-mean)
-- [How Military People and Processes Can Help Companies Win the Cyberwar](https://www.informationweek.com/security-and-risk-strategy/how-military-people-and-processes-can-help-companies-win-the-cyberwar)
-- [How Not to Waste Money on Cybersecurity](https://www.informationweek.com/security-and-risk-strategy/how-to-not-waste-money-on-cybersecurity)
-- [Redefining the Hybrid Workplace for Experience Parity](https://www.informationweek.com/it-life/redefining-the-hybrid-workplace-for-experience-parity)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

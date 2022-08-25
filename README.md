@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Researcher develops algorithm to track mental states through the skin](https://www.sciencedaily.com/releases/2022/08/220810105158.htm)
-- [CDC Quietly Ends Differentiation on Covid Vaccination Status](https://brownstone.org/articles/cdc-quietly-ends-differentiation-on-covid-vaccination-status/)
-- [Eco-Fiction Became Realer Than Realism](https://www.thenation.com/article/culture/elvia-wilk-death-landscape/)
-- [Caches and Algorithms &lpar;1996&rpar;](https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.110.9155&rank=1&q=caches%20and%20algorithms&osm=&ossid=)
-- [Ask HN: Do you have something you continually work on for years?](https://news.ycombinator.com/item?id=32574718)
-- [Robert Hendy-Freegard](https://en.wikipedia.org/wiki/Robert_Hendy-Freegard)
-- [“Uptime 15,364 Days – The Computers of Voyager” by Aaron Cummings](https://www.youtube.com/watch?v=H62hZJVqs2o)
-- [Show HN: 3card a Decentralised Twitter](https://3card.vercel.app/)
-- [React – The Missing Parts: Question the rules for fun and profit](https://acko.net/blog/react-the-missing-parts/)
-- [Dirty dozen’ companies flooding UK beaches with plastic waste named](https://www.independent.co.uk/climate-change/news/worst-plastic-polluters-uk-beaches-cocacola-b2150295.html)
+- [How GPT-3 Can Make US More Human](https://www.psychoftech.org/blog/2020/8/13/how-gpt-3-can-make-us-more-human)
+- [Ask HN: How to contact a human being at Google AdSense?](https://news.ycombinator.com/item?id=32589333)
+- [The Commodore 64 at 40](https://www.theguardian.com/games/2022/aug/24/the-commodore-64-at-40-it-pointed-to-the-future-of-video-games)
+- [Why tall hierarchies slow organizations down and how to fix them](https://lucasfcosta.com/2022/08/13/decision-making-hierarchies.html)
+- [A Regular Expression in 30 Lines of C](https://www.cs.princeton.edu/courses/archive/spr09/cos333/beautiful.html)
+- [Show HN: Eclipse: Python-fire inspired library to simplify creating CLIs in Go](https://github.com/avamsi/eclipse)
+- [Bootstrapped, Profitable, &amp; Proud: GitHub &lpar;2010&rpar;](https://signalvnoise.com/posts/2486-bootstrapped-profitable-proud-github)
+- [We&#39;re reverse engineering the human brain in the lab](https://www.ted.com/talks/sergiu_p_pasca_how_we_re_reverse_engineering_the_human_brain_in_the_lab)
+- [The next Sonos flagship speaker will play sound in nearly all directions](https://www.theverge.com/2022/8/24/23319989/sonos-optimo-speaker-features-design)
+- [No One Wants to Be a Law Professor Anymore](https://abovethelaw.com/2022/08/no-one-wants-to-be-a-law-professor-anymore/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

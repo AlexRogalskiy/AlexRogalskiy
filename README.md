@@ -400,16 +400,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Most CISOs think they’ve been attacked by a nation state](https://www.computerweekly.com/news/252524166/Most-CISOs-think-theyve-been-attacked-by-a-nation-state)
+- [Alleged Twitter security failings spell trouble ahead](https://www.computerweekly.com/news/252524156/Alleged-Twitter-security-failings-spell-trouble-ahead)
+- [Cloud storage TCO: Key pitfalls and how to avoid them](https://www.computerweekly.com/feature/Cloud-storage-TCO-Key-pitfalls-and-how-to-avoid-them)
+- [UK drought: Thames Water asks datacentres to consider using &#39;raw water&#39; to cool their sites](https://www.computerweekly.com/news/252524143/UK-drought-Thames-Water-asks-datacentres-to-consider-using-raw-water-to-cool-their-sites)
+- [Most Influential Women in UK Tech 2022: Entrants to the Hall of Fame](https://www.computerweekly.com/news/252524141/Most-Influential-Women-in-UK-Tech-2022-Entrants-to-the-Hall-of-Fame)
 - [DevSecOps: Software developers lack sufficient security focus](https://www.computerweekly.com/news/252524107/DevSecOps-Software-developers-lack-sufficient-security-focus)
 - [Home Office announces Scale-up visa for fast-growth firms](https://www.computerweekly.com/news/252524113/Home-Office-announces-Scaleup-visa-for-fast-growth-firms)
 - [Bfloat16: What it is and how it impacts storage](https://www.computerweekly.com/feature/Bfloat16-What-it-is-and-how-it-impacts-storage)
 - [NCSC shares cyber guidance for large infrastructure builds](https://www.computerweekly.com/news/252524111/NCSC-shares-cyber-guidance-for-large-infrastructure-builds)
 - [IT leaders set to step up cloud investments over next two years, Colt research suggests](https://www.computerweekly.com/news/252524106/IT-leaders-set-to-step-up-cloud-investments-over-next-two-years-Colt-research-suggests)
-- [ODI: Smart data promise could founder against paywalls](https://www.computerweekly.com/opinion/ODI-Smart-data-promise-could-founder-against-paywalls)
-- [How digital technology rescued Merlin](https://www.computerweekly.com/ezine/Computer-Weekly/How-digital-technology-rescued-Merlin)
-- [Data classification: What it is and why you need it](https://www.computerweekly.com/feature/Data-classification-What-it-is-and-why-you-need-it)
-- [Contracting market weighs in on Liz Truss pledge to review IR35 rules if she becomes prime minister](https://www.computerweekly.com/news/252524072/Contracting-market-weighs-in-on-Liz-Truss-pledge-to-review-IR35-rules-if-she-becomes-prime-minister)
-- [State of open source: Computer Weekly Downtime Upload podcast](https://www.computerweekly.com/podcast/State-of-open-source-Computer-Weekly-Downtime-Upload-podcast)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

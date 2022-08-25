@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war: Ukraine braces for Russian attacks as it marks independence day – live news](https://www.theguardian.com/world/live/2022/aug/24/russia-ukraine-war-ukraine-braces-for-russian-attacks-as-it-marks-independence-day-live-news)
-- [Angolans go to polls in most competitive election in decades](https://www.theguardian.com/world/2022/aug/24/angolans-go-to-polls-most-competitive-election-decades)
-- [Bird flu has killed 700 wild black vultures, says Georgia sanctuary](https://www.theguardian.com/world/2022/aug/24/bird-flu-has-killed-700-wild-black-vultures-says-georgia-sanctuary)
-- [Florida: Charlie Crist wins Democratic primary to challenge Ron DeSantis](https://www.theguardian.com/us-news/2022/aug/23/florida-charlie-crist-wins-ron-desantis-democratic-primary)
-- [Texas church issues apology for unauthorised ‘Christian’ Hamilton that rewrote bawdy raps](https://www.theguardian.com/stage/2022/aug/24/texas-church-issues-apology-for-unauthorised-christian-hamilton-that-rewrote-bawdy-raps)
-- [China heatwave: scorching temperatures and severe drought – in pictures](https://www.theguardian.com/environment/gallery/2022/aug/24/china-heatwave-scorching-temperatures-and-severe-drought-in-pictures)
-- [Revisited: The Division: New Orleans – part three – podcast](https://www.theguardian.com/news/audio/2022/aug/24/revisited-the-division-new-orleans-part-three-podcast)
-- [Russia-Ukraine war latest: what we know on day 182 of the invasion](https://www.theguardian.com/world/2022/aug/24/russia-ukraine-war-latest-what-we-know-on-day-182-of-the-invasion)
-- [Finland’s PM, Sanna Marin, apologises for ‘inappropriate’ pictures at residence](https://www.theguardian.com/world/2022/aug/24/finlands-pm-sanna-marin-apologises-for-inappropriate-pictures-at-residence)
-- [Eurotunnel passengers stranded underground for five hours](https://www.theguardian.com/uk-news/2022/aug/24/eurotunnel-passengers-stranded-underground-for-five-hours)
+- [Russia-Ukraine war: blasts heard in Kyiv region; Joe Biden to call Volodymyr Zelenskiy – live news](https://www.theguardian.com/world/live/2022/aug/25/russia-ukraine-war-blasts-heard-in-kyiv-region-joe-biden-to-call-volodymyr-zelenskiy-live-news)
+- [‘Secret’ screenings of cancelled Batgirl movie being held by studio – reports](https://www.theguardian.com/film/2022/aug/25/secret-screenings-of-cancelled-batgirl-movie-being-held-by-studio-reports)
+- [Solomon Islands to ban foreign journalists who are not ‘respectful’ – report](https://www.theguardian.com/world/2022/aug/25/solomon-islands-to-ban-foreign-journalists-who-are-not-respectful-report)
+- [Revisited: The Division: New Orleans – part four - podcast](https://www.theguardian.com/news/audio/2022/aug/25/revisited-the-division-new-orleans-part-four-podcast)
+- [The pregnancy prescription: ‘I was told a baby might cure my chronic pain. I was sold a lie’](https://www.theguardian.com/lifeandstyle/2022/aug/25/the-pregnancy-prescription-i-was-told-a-baby-might-cure-my-chronic-pain-i-was-sold-a-lie)
+- [Uvalde police chief fired for fumbled response to worst school shooting in US history](https://www.theguardian.com/us-news/2022/aug/24/uvalde-shooting-police-chief-pete-arredondo-fired)
+- [Russia-Ukraine war latest: what we know on day 183 of the invasion](https://www.theguardian.com/world/2022/aug/25/russia-ukraine-war-latest-what-we-know-on-day-183-of-the-invasion)
+- [Vanessa Bryant awarded $16m in suit over photos of Kobe’s crash](https://www.theguardian.com/sport/2022/aug/24/vanessa-bryant-trial-kobe-bryant-helicopter-crash-photos)
+- [Law firm sues Ghislaine Maxwell, saying it’s owed $878,000 for defense](https://www.theguardian.com/us-news/2022/aug/24/ghislaine-maxwell-law-firm-lawsuit)
+- [Economists demand urgent action on energy bills to avert ‘catastrophe’](https://www.theguardian.com/money/2022/aug/25/economists-urgent-action-energy-bills-winter-policies-price-freezes-taxes-cost-of-living-crisis)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

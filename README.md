@@ -385,6 +385,9 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Kestrel: The Microsoft web server you should be using](https://www.infoworld.com/article/3670792/kestrel-the-microsoft-web-server-you-should-be-using.html#tk.rss_all)
+- [Tech job market is up this year](https://www.infoworld.com/article/3670596/tech-job-market-is-up-this-year.html#tk.rss_all)
+- [Kissflow review: No code and low code for workflows](https://www.infoworld.com/article/3669915/kissflow-review-no-code-and-low-code-for-workflows.html#tk.rss_all)
 - [BrandPost: Optimize and Accelerate Cloud Apps for Cost Reduction With Intel® Workload Optimizer](https://www.infoworld.com/article/3670390/optimize-and-accelerate-cloud-apps-for-cost-reduction-with-intel-workload-optimizer.html#tk.rss_all)
 - [3 reasons cloud computing doesn’t save money](https://www.infoworld.com/article/3670851/3-reasons-cloud-computing-doesnt-save-money.html#tk.rss_all)
 - [Microsoft&#39;s C# 11 language upgrade nears the finish line](https://www.infoworld.com/article/3670793/microsofts-c-11-language-upgrade-nears-the-finish-line.html#tk.rss_all)
@@ -392,9 +395,6 @@
 - [Why Apache Iceberg will rule data in the cloud](https://www.infoworld.com/article/3669848/why-apache-iceberg-will-rule-data-in-the-cloud.html#tk.rss_all)
 - [Security is hard and won’t get much easier](https://www.infoworld.com/article/3670848/security-is-hard-and-wont-get-much-easier.html#tk.rss_all)
 - [Devs don’t want to do ops](https://www.infoworld.com/article/3669477/devs-don-t-want-to-do-ops.html#tk.rss_all)
-- [Avoid tech burnout: 5 ways to disconnect and relieve stress](https://www.infoworld.com/article/3669263/avoid-tech-burnout-5-ways-to-disconnect-and-relieve-stress.html#tk.rss_all)
-- [Complex cloud architecture is finally causing budgetary pain](https://www.infoworld.com/article/3670728/complex-cloud-architecture-is-finally-causing-budgetary-pain.html#tk.rss_all)
-- [What is an API? Application programming interfaces explained](https://www.infoworld.com/article/3269878/what-is-an-api-application-programming-interfaces-explained.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

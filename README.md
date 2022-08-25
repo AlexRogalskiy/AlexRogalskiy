@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Oven: The Company Behind Bun](https://oven.sh)
-- [Ask HN: DALL-E was trained on watermarked stock images?](https://news.ycombinator.com/item?id=32573523)
-- [Issues with upstream DNS provider](https://status.heroku.com/incidents/2453)
-- [Show HN: Pornpen.ai, AI-Generated Porn](https://pornpen.ai/)
-- [Effects of large vehicles on pedestrian and pedal-cyclist injury severity](https://www.sciencedirect.com/science/article/abs/pii/S0022437522000810)
-- [The future of Nginx: Getting back to our open source roots](https://www.nginx.com/blog/future-of-nginx-getting-back-to-open-source-roots/)
-- [Using Mushrooms for Fiber Dyeing](https://soulslikewheels.substack.com/p/lessons-in-mushroom-hunting-and-dyeing)
-- [Common tech jobs described as cabals of Mesoamerican wizards](https://etiennefd.substack.com/p/common-tech-jobs-described-as-cabals)
-- [Godot 4.0 will discontinue visual scripting](https://godotengine.org/article/godot-4-will-discontinue-visual-scripting)
-- [Release &lpar;YC W20&rpar; Is Hiring a Senior Product Manager](https://www.ycombinator.com/companies/release/jobs/t72DUPj-senior-product-manager)
+- [5G Networks Are Worryingly Hackable](https://spectrum.ieee.org/5g-virtualization-increased-hackability)
+- [The Four Dirty C-Words of the Internet](https://pauljun.me/the-four-dirty-c-words-of-the-internet)
+- [Starlink is reducing your monthly service fee](https://news.ycombinator.com/item?id=32588703)
+- [Why your website should be under 14kb in size](https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/)
+- [Patent Trolls Inbound: Our First Lawsuit](https://blog.comma.ai/ourfirstlawsuit/)
+- [V-memo a new directive to improve your Vue 3 app performance](https://zelig880.com/introducing-v-memo-a-new-directive-to-improve-your-vue-3-app-performance)
+- [OpenArt: “Pinterest” for Dalle-2 images and prompts](https://openart.ai/)
+- [A Theoretical Justification &lpar;2021&rpar;](https://memex.marginalia.nu/projects/edge/about.gmi#1.2)
+- [GeForce Now: A Review](https://whatever.scalzi.com/2022/08/24/geforce-now-a-review/)
+- [Smarking &lpar;YC W15&rpar; is hiring a product lead to digitize the parking industry](https://jobs.lever.co/smarking/3e6e8c04-8aaa-48f5-86e5-70386f857c55)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

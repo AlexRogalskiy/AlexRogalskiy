@@ -385,6 +385,9 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [12 ggplot extensions for snazzier R graphics](https://www.infoworld.com/article/3667496/12-ggplot-extensions-for-snazzier-r-graphics.html#tk.rss_all)
+- [BrandPost: Reduce Time to Decision With the Databricks Lakehouse Platform and Latest Intel 3rd Gen Xeon Scalable Processors](https://www.infoworld.com/article/3670392/reduce-time-to-decision-with-the-databricks-lakehouse-platform-and-latest-intel-3rd-gen-xeon-scalab.html#tk.rss_all)
+- [Intro to Astro: Clever lazy loading for JavaScript](https://www.infoworld.com/article/3669877/intro-to-astro-clever-lazy-loading-for-javascript.html#tk.rss_all)
 - [Kestrel: The Microsoft web server you should be using](https://www.infoworld.com/article/3670792/kestrel-the-microsoft-web-server-you-should-be-using.html#tk.rss_all)
 - [Tech job market is up this year](https://www.infoworld.com/article/3670596/tech-job-market-is-up-this-year.html#tk.rss_all)
 - [Kissflow review: No code and low code for workflows](https://www.infoworld.com/article/3669915/kissflow-review-no-code-and-low-code-for-workflows.html#tk.rss_all)
@@ -392,9 +395,6 @@
 - [3 reasons cloud computing doesn’t save money](https://www.infoworld.com/article/3670851/3-reasons-cloud-computing-doesnt-save-money.html#tk.rss_all)
 - [Microsoft&#39;s C# 11 language upgrade nears the finish line](https://www.infoworld.com/article/3670793/microsofts-c-11-language-upgrade-nears-the-finish-line.html#tk.rss_all)
 - [IT career roadmap: Data scientist](https://www.infoworld.com/article/3670568/it-career-roadmap-data-scientist.html#tk.rss_all)
-- [Why Apache Iceberg will rule data in the cloud](https://www.infoworld.com/article/3669848/why-apache-iceberg-will-rule-data-in-the-cloud.html#tk.rss_all)
-- [Security is hard and won’t get much easier](https://www.infoworld.com/article/3670848/security-is-hard-and-wont-get-much-easier.html#tk.rss_all)
-- [Devs don’t want to do ops](https://www.infoworld.com/article/3669477/devs-don-t-want-to-do-ops.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

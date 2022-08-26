@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [How GPT-3 Can Make US More Human](https://www.psychoftech.org/blog/2020/8/13/how-gpt-3-can-make-us-more-human)
-- [Ask HN: How to contact a human being at Google AdSense?](https://news.ycombinator.com/item?id=32589333)
-- [The Commodore 64 at 40](https://www.theguardian.com/games/2022/aug/24/the-commodore-64-at-40-it-pointed-to-the-future-of-video-games)
-- [Why tall hierarchies slow organizations down and how to fix them](https://lucasfcosta.com/2022/08/13/decision-making-hierarchies.html)
-- [A Regular Expression in 30 Lines of C](https://www.cs.princeton.edu/courses/archive/spr09/cos333/beautiful.html)
-- [Show HN: Eclipse: Python-fire inspired library to simplify creating CLIs in Go](https://github.com/avamsi/eclipse)
-- [Bootstrapped, Profitable, &amp; Proud: GitHub &lpar;2010&rpar;](https://signalvnoise.com/posts/2486-bootstrapped-profitable-proud-github)
-- [We&#39;re reverse engineering the human brain in the lab](https://www.ted.com/talks/sergiu_p_pasca_how_we_re_reverse_engineering_the_human_brain_in_the_lab)
-- [The next Sonos flagship speaker will play sound in nearly all directions](https://www.theverge.com/2022/8/24/23319989/sonos-optimo-speaker-features-design)
-- [No One Wants to Be a Law Professor Anymore](https://abovethelaw.com/2022/08/no-one-wants-to-be-a-law-professor-anymore/)
+- [‘P-Hacking’ Lets Scientists Massage Results. Method to Nix Statistical Loopholes](https://www.popularmechanics.com/science/math/a40971517/p-value-statistics-fragility-index/)
+- [Enstil: Search and Create AI Art for Free](http://enstil.ai/)
+- [Faster and Cheaper Serverless Computing on Harvested Resources](https://www.micahlerner.com/2021/11/30/faster-and-cheaper-serverless-computing-on-harvested-resources.html)
+- [Ask HN: What is the new term for &#39;slashdotted&#39;?](https://news.ycombinator.com/item?id=32603194)
+- [Show HN: Reccy – store, discover and share your favourite places](https://reccy.app)
+- [Ordered Input/Output pairs of meters, seconds, bits = biggest jobs](https://imgur.com/gallery/7aTSiTV)
+- [Ask HN: VM hosting that could start under a second?](https://news.ycombinator.com/item?id=32603170)
+- [Node.js Fundamentals: Web Server Without Dependencies](https://blog.bloomca.me/2018/12/22/writing-a-web-server-node.html)
+- [Framework Shipping to Australia Next](https://community.frame.work/t/shipping-to-australia-other-countries/2289)
+- [Our Crystal Mark is now on more than 23000 documents by over 1600 organisations](http://www.plainenglish.co.uk/about-us.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

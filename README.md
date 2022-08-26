@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [5G Networks Are Worryingly Hackable](https://spectrum.ieee.org/5g-virtualization-increased-hackability)
-- [The Four Dirty C-Words of the Internet](https://pauljun.me/the-four-dirty-c-words-of-the-internet)
-- [Starlink is reducing your monthly service fee](https://news.ycombinator.com/item?id=32588703)
-- [Why your website should be under 14kb in size](https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/)
-- [Patent Trolls Inbound: Our First Lawsuit](https://blog.comma.ai/ourfirstlawsuit/)
-- [V-memo a new directive to improve your Vue 3 app performance](https://zelig880.com/introducing-v-memo-a-new-directive-to-improve-your-vue-3-app-performance)
-- [OpenArt: “Pinterest” for Dalle-2 images and prompts](https://openart.ai/)
-- [A Theoretical Justification &lpar;2021&rpar;](https://memex.marginalia.nu/projects/edge/about.gmi#1.2)
-- [GeForce Now: A Review](https://whatever.scalzi.com/2022/08/24/geforce-now-a-review/)
-- [Smarking &lpar;YC W15&rpar; is hiring a product lead to digitize the parking industry](https://jobs.lever.co/smarking/3e6e8c04-8aaa-48f5-86e5-70386f857c55)
+- [White House Orders Journals to Drop Paywalls on Publicly Funded Research](https://www.nytimes.com/2022/08/25/us/white-house-federally-funded-research-access.html)
+- [Mudge&#39;s full Twitter whistleblower disclosure to SEC, FTC, &amp; DOJ [pdf]](https://s3.documentcloud.org/documents/22186683/twitter-whistleblower-disclosure.pdf)
+- [SpaceX, T-Mobile to connect satellites to cellphones in remote areas](https://www.wsj.com/articles/spacex-and-t-mobile-to-connect-starlink-satellites-to-cellphones-in-remote-parts-of-u-s-11661473520)
+- [Show HN: Devbox – Easy, predictable shells and containers](https://github.com/jetpack-io/devbox)
+- [Soketi: Simple, Fast and Resilient open-source WebSockets server](https://soketi.app/)
+- [Irata.online: A PLATO service for retro computing enthusiasts](https://irata.online/)
+- [Chez Scheme](https://github.com/cisco/ChezScheme)
+- [MQZiti – Zero Trust MQTT server and client](https://github.com/ekoby/mqziti)
+- [Launch HN: Artemis &lpar;YC S22&rpar; – Use comments to give code an interactive interface](https://news.ycombinator.com/item?id=32598603)
+- [Move Fast or Die: Key Startup Lessons](https://blog.southparkcommons.com/move-fast-or-die/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

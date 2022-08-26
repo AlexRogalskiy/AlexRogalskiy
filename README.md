@@ -355,6 +355,8 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Apple Business Essentials now supports non-App Store installs on Macs](https://www.computerworld.com/article/3671368/apple-business-essentials-now-supports-non-app-store-installs-on-macs.html#tk.rss_all)
+- [5 productivity tips for hybrid workers](https://www.computerworld.com/article/3665891/hybrid-workplace-productivity-tips.html#tk.rss_all)
 - [The new workplace will be distributed, digital — and full of purpose](https://www.computerworld.com/article/3670738/the-new-workplace-will-be-distributed-digital-and-full-of-purpose.html#tk.rss_all)
 - [Microsoft OneNote cheat sheet](https://www.computerworld.com/article/3406779/microsoft-onenote-cheat-sheet.html#tk.rss_all)
 - [5 out-of-sight superpowers for Google Contacts on Android](https://www.computerworld.com/article/3670635/google-contacts-android.html#tk.rss_all)
@@ -363,8 +365,6 @@
 - [Working from home is here to stay](https://www.computerworld.com/article/3670749/working-from-home-is-here-to-stay.html#tk.rss_all)
 - [As frontline workers eye the exit, digital tools can aid staff retention](https://www.computerworld.com/article/3670750/as-frontline-workers-eye-the-exit-digital-tools-can-aid-staff-retention.html#tk.rss_all)
 - [Tech event calendar 2022: Upcoming US shows, conferences, and IT expos](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
-- [What excites you about Windows 11? Inquiring minds want to know....](https://www.computerworld.com/article/3670636/what-excites-you-about-windows-11-inquiring-minds-want-to-know.html#tk.rss_all)
-- [10 lesser-known iOS 16 features to make work easier](https://www.computerworld.com/article/3670751/10-lesser-known-ios-16-features-to-make-work-easier.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

@@ -430,16 +430,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [LastPass hacked, source code stolen](https://www.itworldcanada.com/article/lastpass-hacked-source-code-stolen/499622)
+- [Intel signs a ‘first-of-its-kind’ co-investment agreement with Canadian asset management company](https://www.itworldcanada.com/article/intel-signs-a-first-of-its-kind-co-investment-agreement-with-canadian-asset-management-company/499593)
+- [More details emerge on BRP breach; additional employee data stolen](https://www.itworldcanada.com/article/more-details-emerge-on-brp-breach-additional-employee-data-stolen/499599)
+- [Employers need to magnetize their workforces rather than mandate a return to office, says new report from Poly](https://www.itworldcanada.com/article/employers-need-to-magnetize-their-workforces-rather-than-mandate-a-return-to-office-says-new-report-from-poly/499420)
+- [Group wins federal contract to automate network device authentication](https://www.itworldcanada.com/article/group-wins-federal-contract-to-automate-network-device-authentication/499535)
+- [Meta makes the case for creating a privacy red team](https://www.itworldcanada.com/article/meta-makes-the-case-for-creating-a-privacy-red-team/499483)
+- [Canada signs agreement with Volkswagen and Mercedes-Benz to make EV batteries](https://www.itworldcanada.com/article/canada-signs-agreement-with-volkswagen-and-mercedes-benz-to-make-ev-batteries/499428)
+- [Hashtag Trending Aug 25 – Snap privacy lawsuit settlement; random celeb posts in Facebook feeds; and Gmail targeted ads complaint](https://www.itworldcanada.com/article/hashtag-trending-aug-25-snap-privacy-lawsuit-settlement-random-celeb-posts-in-facebook-feeds-and-gmail-targeted-ads-complaint/499415)
 - [Analyst reacts strongly to news Oracle has ‘surveillance machine’](https://www.itworldcanada.com/article/analyst-reacts-strongly-to-news-oracle-has-surveillance-machine/499442)
 - [Layoffs and recession fears in the tech sector affecting employee morale](https://www.itworldcanada.com/article/layoffs-and-recession-fears-in-the-tech-sector-affecting-employee-morale/499382)
-- [Mass Minority’s BAM spinning out into standalone company](https://www.itworldcanada.com/article/mass-minoritys-bam-spinning-out-into-standalone-company/499419)
-- [Stolen BRP data leaked on the dark web](https://www.itworldcanada.com/article/stolen-brp-data-leaked-on-the-dark-web/499414)
-- [Robert Half CTO drills down on key features and AI technology in award-winning mobile app](https://www.itworldcanada.com/article/robert-half-cto-drills-down-on-key-features-and-ai-technology-in-award-winning-mobile-app/499157)
-- [Hashtag Trending Aug. 24 – Oracle lawsuit; Lamborghini sells a lot of its cars; Twitch lets  partners stream on YouTube and Facebook](https://www.itworldcanada.com/article/hashtag-trending-aug-24-oracle-lawsuit-lamborghini-sells-a-lot-of-its-cars-twitch-lets-partners-stream-on-youtube-and-facebook/499304)
-- [Cyber Security Today, August 24, 2022 – Watch your cyber insurance coverage, threat actors abusing SaaS platforms and more](https://www.itworldcanada.com/article/cyber-security-today-august-24-2022-watch-your-cyber-insurance-coverage-threat-actors-abusing-saas-platforms-and-more/499278)
-- [Meta reportedly agrees to US$37.5 million settlement in Facebook privacy violation suit](https://www.itworldcanada.com/article/meta-reportedly-agrees-to-us37-5-million-settlement-in-facebook-privacy-violation-suit/499263)
-- [Samsung’s handling of deepfakes research questioned](https://www.itworldcanada.com/article/samsungs-handling-of-deepfakes-research-questioned/499236)
-- [Government of Canada invests C$2.6 million to reduce aerospace sector’s environmental footprint](https://www.itworldcanada.com/article/government-of-canada-invests-c2-6-million-to-reduce-aerospace-sectors-environmental-footprint/499203)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

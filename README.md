@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war: blasts heard in Kyiv region; Joe Biden to call Volodymyr Zelenskiy – live news](https://www.theguardian.com/world/live/2022/aug/25/russia-ukraine-war-blasts-heard-in-kyiv-region-joe-biden-to-call-volodymyr-zelenskiy-live-news)
-- [‘Secret’ screenings of cancelled Batgirl movie being held by studio – reports](https://www.theguardian.com/film/2022/aug/25/secret-screenings-of-cancelled-batgirl-movie-being-held-by-studio-reports)
-- [Solomon Islands to ban foreign journalists who are not ‘respectful’ – report](https://www.theguardian.com/world/2022/aug/25/solomon-islands-to-ban-foreign-journalists-who-are-not-respectful-report)
-- [Revisited: The Division: New Orleans – part four - podcast](https://www.theguardian.com/news/audio/2022/aug/25/revisited-the-division-new-orleans-part-four-podcast)
-- [The pregnancy prescription: ‘I was told a baby might cure my chronic pain. I was sold a lie’](https://www.theguardian.com/lifeandstyle/2022/aug/25/the-pregnancy-prescription-i-was-told-a-baby-might-cure-my-chronic-pain-i-was-sold-a-lie)
-- [Uvalde police chief fired for fumbled response to worst school shooting in US history](https://www.theguardian.com/us-news/2022/aug/24/uvalde-shooting-police-chief-pete-arredondo-fired)
-- [Russia-Ukraine war latest: what we know on day 183 of the invasion](https://www.theguardian.com/world/2022/aug/25/russia-ukraine-war-latest-what-we-know-on-day-183-of-the-invasion)
-- [Vanessa Bryant awarded $16m in suit over photos of Kobe’s crash](https://www.theguardian.com/sport/2022/aug/24/vanessa-bryant-trial-kobe-bryant-helicopter-crash-photos)
-- [Law firm sues Ghislaine Maxwell, saying it’s owed $878,000 for defense](https://www.theguardian.com/us-news/2022/aug/24/ghislaine-maxwell-law-firm-lawsuit)
-- [Economists demand urgent action on energy bills to avert ‘catastrophe’](https://www.theguardian.com/money/2022/aug/25/economists-urgent-action-energy-bills-winter-policies-price-freezes-taxes-cost-of-living-crisis)
+- [Thailand zookeeper dresses as ostrich in novel approach to training drill](https://www.theguardian.com/world/2022/aug/26/thailand-zookeeper-dresses-as-ostrich-in-novel-approach-to-training-drill)
+- [Revisited: Searching for the shadow man &lpar;Part 1&rpar; - podcast](https://www.theguardian.com/news/audio/2022/aug/26/revisited-searching-for-the-shadow-man-part-1-podcast)
+- [‘This you?’: the seven letters exposing rightwing hypocrisy](https://www.theguardian.com/media/2022/aug/25/this-you-meme-biden-student-loan-forgiveness-twitter)
+- [Nuclear plant came close to ‘radiation disaster’, says Zelenskiy, amid calls for urgent UN visit](https://www.theguardian.com/world/2022/aug/26/zaporizhzhia-nuclear-power-plant-ukraine-russia-europe-radiation-disaster)
+- [Russia-Ukraine war latest: what we know on day 184 of the invasion](https://www.theguardian.com/world/2022/aug/26/russia-ukraine-war-latest-what-we-know-on-day-184-of-the-invasion)
+- [US firm behind Tasmanian tiger ‘de-extinction’ plan uses influencers to promote research](https://www.theguardian.com/australia-news/2022/aug/25/us-firm-behind-tasmanian-tiger-de-extinction-plan-uses-influencers-to-promote-research)
+- [Dominic Raab made Parole Board’s ‘difficult job next to impossible’](https://www.theguardian.com/society/2022/aug/26/dominic-raab-made-parole-boards-difficult-job-next-to-impossible)
+- [‘Britney was broken. I’ve been broken and it’s horrible’: Elton John on helping Britney Spears sing again](https://www.theguardian.com/music/2022/aug/26/britney-was-broken-ive-been-broken-and-its-horrible-elton-john-on-helping-britney-spears-sing-again)
+- [More than 100 hen harriers fledge in England for first time in a century](https://www.theguardian.com/environment/2022/aug/26/more-than-100-hen-harriers-fledge-in-england-for-first-time-in-a-century)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/blog/2022/aug/26/premier-league-10-things-to-look-out-for-this-weekend)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

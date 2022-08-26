@@ -370,16 +370,16 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
-- [DevOps and Security Takeaways from Twitter Whistleblower&#39;s Claims](https://www.informationweek.com/security-and-risk-strategy/devops-and-security-takeaways-from-twitter-whistleblowers-claims)
+- [How to Implement AIOps for SD-WAN in Your Network](https://www.informationweek.com/palo-alto-networks/how-to-implement-aiops-for-sd-wan-in-your-network)
+- [Quick Study:  Finding the Right Data](https://www.informationweek.com/big-data/quick-study-finding-the-right-data)
+- [3 Ways to Keep Software Installations and Upgrades Under Control](https://www.informationweek.com/software/3-ways-to-keep-software-installations-and-upgrades-under-control)
+- [DevOps and Security Takeaways From Twitter Whistleblower&#39;s Claims](https://www.informationweek.com/security-and-risk-strategy/devops-and-security-takeaways-from-twitter-whistleblowers-claims)
 - [How to Nurture Talent and Protect Your IT Stars](https://www.informationweek.com/strategic-cio/how-to-nurture-talent-and-protect-your-it-stars)
 - [Technology as a Competitive Edge in the Battle for Talent](https://www.informationweek.com/it-life/technology-as-a-competitive-edge-in-the-battle-for-talent)
 - [No-Code Platforms and Easy Processes Bring the Benefits of Automation](https://www.informationweek.com/ai-or-machine-learning/no-code-platforms-and-easy-processes-bring-the-benefits-of-automation)
 - [Q&amp;A: How Data Science Fits into the Cloud Spend Equation](https://www.informationweek.com/big-data/q-a-how-data-science-fits-into-the-cloud-spend-equation)
 - [Why Hard Times Seem to Spur Technology Innovation](https://www.informationweek.com/strategic-cio/why-hard-times-seem-to-spur-technology-innovation)
 - [How to Select the Right AI Projects](https://www.informationweek.com/big-data/how-to-select-the-right-ai-projects)
-- [Understanding Metaverse’s Potential Business Opportunities](https://www.informationweek.com/big-data/understanding-metaverses-potential-business-opportunities)
-- [AI Is Now Mature Enough to Drive Revenue Growth](https://www.informationweek.com/big-data/ai-is-now-mature-enough-to-drive-revenue-growth)
-- [What the FTC’s Scrutiny of Data Collection and Security May Mean](https://www.informationweek.com/big-data-analytics/what-the-ftc-s-scrutiny-of-data-collection-and-security-may-mean)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

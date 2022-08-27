@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [‘P-Hacking’ Lets Scientists Massage Results. Method to Nix Statistical Loopholes](https://www.popularmechanics.com/science/math/a40971517/p-value-statistics-fragility-index/)
-- [Enstil: Search and Create AI Art for Free](http://enstil.ai/)
-- [Faster and Cheaper Serverless Computing on Harvested Resources](https://www.micahlerner.com/2021/11/30/faster-and-cheaper-serverless-computing-on-harvested-resources.html)
-- [Ask HN: What is the new term for &#39;slashdotted&#39;?](https://news.ycombinator.com/item?id=32603194)
-- [Show HN: Reccy – store, discover and share your favourite places](https://reccy.app)
-- [Ordered Input/Output pairs of meters, seconds, bits = biggest jobs](https://imgur.com/gallery/7aTSiTV)
-- [Ask HN: VM hosting that could start under a second?](https://news.ycombinator.com/item?id=32603170)
-- [Node.js Fundamentals: Web Server Without Dependencies](https://blog.bloomca.me/2018/12/22/writing-a-web-server-node.html)
-- [Framework Shipping to Australia Next](https://community.frame.work/t/shipping-to-australia-other-countries/2289)
-- [Our Crystal Mark is now on more than 23000 documents by over 1600 organisations](http://www.plainenglish.co.uk/about-us.html)
+- [Americans view their jobs &lpar;2016&rpar;](https://www.pewresearch.org/social-trends/2016/10/06/3-how-americans-view-their-jobs/)
+- [WideTable: An Accelerator for Analytic Data Processing](http://bigfastdata.blogspot.com/2014/08/widetable-accelerator-for-analytic-data.html)
+- [RimstarOrg – LC Circuit: Selecting Coil and Capacitor &lpar;2017&rpar;](https://www.youtube.com/watch?v=tjD9I95RAbw)
+- [PostmarketOS: Considering Sourcehut, Part 2](https://postmarketos.org/blog/2022/08/26/considering-sourcehut-2/)
+- [The Open Source Series at Pragmatic Bookshelf](https://anonymoushash.vmbrasseur.com/2022/08/26/pragmatic-open-source-series)
+- [What Aristotle thought it meant to be truly wealthy](https://bigthink.com/thinking/aristotle-telos-money/)
+- [Smartphone gyroscopes threaten air-gapped systems](https://www.theregister.com/2022/08/23/phone_gyroscopes_airgapped_systems/)
+- [Ask HN: Are there Wi-Fi baby monitors with decent security?](https://news.ycombinator.com/item?id=32615382)
+- [MPX? Mpox? The struggle to replace ‘monkeypox’ with a name that isn’t racist](https://www.latimes.com/science/story/2022-08-26/many-say-the-name-is-racist-so-what-do-you-call-monkeypox)
+- [TechCrunch: Tool to Help Android Users Know If Device Compromised by Stalkerware](https://www.eff.org/deeplinks/2022/08/techcrunch-launches-lookup-tool-help-android-users-know-if-their-device-was)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

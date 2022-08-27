@@ -415,6 +415,8 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [HuntRootBlog](https://www.reddit.com/r/InformationTechnology/comments/wygd4o/huntrootblog/)
+- [Career Change Advice: IT Paths and Certs](https://www.reddit.com/r/InformationTechnology/comments/wygbrl/career_change_advice_it_paths_and_certs/)
 - [Job Interview Question Prep](https://www.reddit.com/r/InformationTechnology/comments/wxx09u/job_interview_question_prep/)
 - [Windows Program that indicates performance issues](https://www.reddit.com/r/InformationTechnology/comments/wxwxfk/windows_program_that_indicates_performance_issues/)
 - [Advice needed](https://www.reddit.com/r/InformationTechnology/comments/wxs5n3/advice_needed/)
@@ -423,8 +425,6 @@
 - [meeting room booking app for an iPad that will allow external users](https://www.reddit.com/r/InformationTechnology/comments/wx11rf/meeting_room_booking_app_for_an_ipad_that_will/)
 - [Security Onion](https://www.reddit.com/r/InformationTechnology/comments/wwsi31/security_onion/)
 - [Intro To Computer Science- Programming Language C #](https://www.reddit.com/r/InformationTechnology/comments/wwoktn/intro_to_computer_science_programming_language_c/)
-- [How to change username or password of Facebook?](https://www.reddit.com/r/InformationTechnology/comments/wwlbo6/how_to_change_username_or_password_of_facebook/)
-- [How to delete Facebook page or group?](https://www.reddit.com/r/InformationTechnology/comments/wwl8l3/how_to_delete_facebook_page_or_group/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

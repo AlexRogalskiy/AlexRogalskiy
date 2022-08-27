@@ -430,16 +430,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
-- [LastPass hacked, source code stolen](https://www.itworldcanada.com/article/lastpass-hacked-source-code-stolen/499622)
-- [Intel signs a ‘first-of-its-kind’ co-investment agreement with Canadian asset management company](https://www.itworldcanada.com/article/intel-signs-a-first-of-its-kind-co-investment-agreement-with-canadian-asset-management-company/499593)
-- [More details emerge on BRP breach; additional employee data stolen](https://www.itworldcanada.com/article/more-details-emerge-on-brp-breach-additional-employee-data-stolen/499599)
-- [Employers need to magnetize their workforces rather than mandate a return to office, says new report from Poly](https://www.itworldcanada.com/article/employers-need-to-magnetize-their-workforces-rather-than-mandate-a-return-to-office-says-new-report-from-poly/499420)
-- [Group wins federal contract to automate network device authentication](https://www.itworldcanada.com/article/group-wins-federal-contract-to-automate-network-device-authentication/499535)
-- [Meta makes the case for creating a privacy red team](https://www.itworldcanada.com/article/meta-makes-the-case-for-creating-a-privacy-red-team/499483)
-- [Canada signs agreement with Volkswagen and Mercedes-Benz to make EV batteries](https://www.itworldcanada.com/article/canada-signs-agreement-with-volkswagen-and-mercedes-benz-to-make-ev-batteries/499428)
-- [Hashtag Trending Aug 25 – Snap privacy lawsuit settlement; random celeb posts in Facebook feeds; and Gmail targeted ads complaint](https://www.itworldcanada.com/article/hashtag-trending-aug-25-snap-privacy-lawsuit-settlement-random-celeb-posts-in-facebook-feeds-and-gmail-targeted-ads-complaint/499415)
-- [Analyst reacts strongly to news Oracle has ‘surveillance machine’](https://www.itworldcanada.com/article/analyst-reacts-strongly-to-news-oracle-has-surveillance-machine/499442)
-- [Layoffs and recession fears in the tech sector affecting employee morale](https://www.itworldcanada.com/article/layoffs-and-recession-fears-in-the-tech-sector-affecting-employee-morale/499382)
+- [SpaceX partners with T-Mobile to provide cellular service across the entire U.S.](https://www.itworldcanada.com/article/spacex-partners-with-t-mobile-to-provide-cellular-service-across-the-entire-u-s/499860)
+- [Longer life for lithium-ion batteries could soon be possible](https://www.itworldcanada.com/article/longer-life-for-lithium-ion-batteries-could-soon-be-possible/499807)
+- [Webinar examines Zero Trust as ‘cybersecurity mindset’](https://www.itworldcanada.com/article/webinar-examines-zero-trust-as-cybersecurity-mindset/499763)
+- [Cyber Security Today, Week in Review for Friday, August 26, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-august-26-2022/499620)
+- [Hashtag Weekend: Quantum computing and what you need to know today with our guest Brian Lenahan, chair, Quantum Strategy Institute](https://www.itworldcanada.com/article/quantum-computing-and-what-you-need-to-know-today-with-our-guest-brian-lenahan-chair-quantum-strategy-institute/499817)
+- [Open Text to acquire Micro Focus in all-cash US$6 billion deal](https://www.itworldcanada.com/article/open-text-to-acquire-micro-focus-in-all-cash-us6-billion-deal/499781)
+- [Quebec’s privacy bill 64: Is your business ready?](https://www.itworldcanada.com/article/quebecs-privacy-bill-64-is-your-business-ready/499757)
+- [Canada faces a shortage in digital and STEM skills, says C.D Howe Institute report](https://www.itworldcanada.com/article/canada-faces-a-shortage-in-digital-and-stem-skills-says-c-d-howe-institute-report/499628)
+- [Hashtag Trending Aug. 26 – Federally funded research to be open access; new U.S. privacy law gains traction, Amazon Care shuts down](https://www.itworldcanada.com/article/hashtag-trending-aug-26-federally-funded-research-to-be-open-access-new-u-s-privacy-law-gains-traction-amazon-care-shuts-down/499725)
+- [Cyber Security Today, August 26, 2022 – Protect your Active Directory servers, a huge text-based phishing scam found and more](https://www.itworldcanada.com/article/cyber-security-today-august-26-2022-protect-your-active-directory-servers-a-huge-text-based-phishing-scam-found-and-more/499615)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

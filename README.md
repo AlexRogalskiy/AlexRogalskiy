@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Thailand zookeeper dresses as ostrich in novel approach to training drill](https://www.theguardian.com/world/2022/aug/26/thailand-zookeeper-dresses-as-ostrich-in-novel-approach-to-training-drill)
-- [Revisited: Searching for the shadow man &lpar;Part 1&rpar; - podcast](https://www.theguardian.com/news/audio/2022/aug/26/revisited-searching-for-the-shadow-man-part-1-podcast)
-- [‘This you?’: the seven letters exposing rightwing hypocrisy](https://www.theguardian.com/media/2022/aug/25/this-you-meme-biden-student-loan-forgiveness-twitter)
-- [Nuclear plant came close to ‘radiation disaster’, says Zelenskiy, amid calls for urgent UN visit](https://www.theguardian.com/world/2022/aug/26/zaporizhzhia-nuclear-power-plant-ukraine-russia-europe-radiation-disaster)
-- [Russia-Ukraine war latest: what we know on day 184 of the invasion](https://www.theguardian.com/world/2022/aug/26/russia-ukraine-war-latest-what-we-know-on-day-184-of-the-invasion)
-- [US firm behind Tasmanian tiger ‘de-extinction’ plan uses influencers to promote research](https://www.theguardian.com/australia-news/2022/aug/25/us-firm-behind-tasmanian-tiger-de-extinction-plan-uses-influencers-to-promote-research)
-- [Dominic Raab made Parole Board’s ‘difficult job next to impossible’](https://www.theguardian.com/society/2022/aug/26/dominic-raab-made-parole-boards-difficult-job-next-to-impossible)
-- [‘Britney was broken. I’ve been broken and it’s horrible’: Elton John on helping Britney Spears sing again](https://www.theguardian.com/music/2022/aug/26/britney-was-broken-ive-been-broken-and-its-horrible-elton-john-on-helping-britney-spears-sing-again)
-- [More than 100 hen harriers fledge in England for first time in a century](https://www.theguardian.com/environment/2022/aug/26/more-than-100-hen-harriers-fledge-in-england-for-first-time-in-a-century)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/blog/2022/aug/26/premier-league-10-things-to-look-out-for-this-weekend)
+- [‘What game is he playing?’: Lachlan Murdoch, Trump’s election lies and the legal fight against a small Australian website](https://www.theguardian.com/media/2022/aug/27/what-game-is-he-playing-lachlan-murdoch-trumps-election-lies-and-the-legal-fight-against-a-small-australian-website)
+- [Julian Assange files appeal against US extradition](https://www.theguardian.com/media/2022/aug/27/julian-assange-files-appeal-against-us-extradition)
+- [Russia blocks UN nuclear treaty agreement over Zaporizhzhia clause](https://www.theguardian.com/world/2022/aug/27/russia-blocks-un-nuclear-treaty-agreement-over-zaporizhzhia-clause)
+- [Ethiopia: airstrike hits playground in Tigray, killing at least seven](https://www.theguardian.com/world/2022/aug/27/ethiopia-airstrike-hits-playground-in-tigray-killing-at-least-seven)
+- [Russia-Ukraine war latest: what we know on day 185 of the invasion](https://www.theguardian.com/world/2022/aug/27/russia-ukraine-war-latest-what-we-know-on-day-185-of-the-invasion)
+- [Rising energy bills put millions of UK households at risk of winter catastrophe](https://www.theguardian.com/money/2022/aug/26/rising-energy-bills-millions-uk-households-risk-winter-catastrophe-price-cap)
+- [Nichelle Nichols to become latest Star Trek star to have ashes sent into space](https://www.theguardian.com/culture/2022/aug/26/nichelle-nichols-star-trek-ashes-space)
+- [Monkeypox cases appear to be declining in some large US cities](https://www.theguardian.com/world/2022/aug/26/monkeypox-cases-decline-large-us-cities)
+- [‘Wise and kind’ Labour peer Giles Radice dies at 85](https://www.theguardian.com/politics/2022/aug/26/wise-and-kind-labour-peer-giles-radice-dies-at-85)
+- [Second man arrested on suspicion of murdering Liverpool girl Olivia Pratt-Korbel](https://www.theguardian.com/uk-news/2022/aug/26/man-arrested-in-connection-with-killing-of-liverpool-girl-olivia-pratt-korbel)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

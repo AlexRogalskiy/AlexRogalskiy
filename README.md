@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [How Generation Z workers are different from everyone else](https://www.computerworld.com/article/3671390/how-generation-z-workers-are-different-from-everybody-else.html#tk.rss_all)
+- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [What is Managed Device Attestation on Apple platforms?](https://www.computerworld.com/article/3671132/what-is-managed-device-attestation-on-apple-platforms.html#tk.rss_all)
+- [The need to ‘work happy’](https://www.computerworld.com/article/3671150/the-need-to-work-happy.html#tk.rss_all)
+- [Planned ‘fixes’ for credit-card interchange fees will actually make fraud easier](https://www.computerworld.com/article/3671128/as-feds-eye-fixes-for-credit-card-interchanges-are-they-making-fraud-easier.html#tk.rss_all)
+- [Android, ChromeOS, and the future of app discovery](https://www.computerworld.com/article/3670754/android-chromeos-app-discovery.html#tk.rss_all)
 - [Apple Business Essentials now supports non-App Store installs on Macs](https://www.computerworld.com/article/3671368/apple-business-essentials-now-supports-non-app-store-installs-on-macs.html#tk.rss_all)
 - [5 productivity tips for hybrid workers](https://www.computerworld.com/article/3665891/hybrid-workplace-productivity-tips.html#tk.rss_all)
 - [The new workplace will be distributed, digital — and full of purpose](https://www.computerworld.com/article/3670738/the-new-workplace-will-be-distributed-digital-and-full-of-purpose.html#tk.rss_all)
-- [Microsoft OneNote cheat sheet](https://www.computerworld.com/article/3406779/microsoft-onenote-cheat-sheet.html#tk.rss_all)
-- [5 out-of-sight superpowers for Google Contacts on Android](https://www.computerworld.com/article/3670635/google-contacts-android.html#tk.rss_all)
-- [Apple’s investments in India are beginning to reap rewards](https://www.computerworld.com/article/3670593/apples-investments-in-india-are-beginning-to-reap-rewards.html#tk.rss_all)
-- [Android versions: A living history from 1.0 to 13](https://www.computerworld.com/article/3235946/android-versions-a-living-history-from-1-0-to-today.html#tk.rss_all)
-- [Working from home is here to stay](https://www.computerworld.com/article/3670749/working-from-home-is-here-to-stay.html#tk.rss_all)
-- [As frontline workers eye the exit, digital tools can aid staff retention](https://www.computerworld.com/article/3670750/as-frontline-workers-eye-the-exit-digital-tools-can-aid-staff-retention.html#tk.rss_all)
-- [Tech event calendar 2022: Upcoming US shows, conferences, and IT expos](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

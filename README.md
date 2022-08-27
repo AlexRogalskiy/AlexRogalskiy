@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [White House Orders Journals to Drop Paywalls on Publicly Funded Research](https://www.nytimes.com/2022/08/25/us/white-house-federally-funded-research-access.html)
-- [Mudge&#39;s full Twitter whistleblower disclosure to SEC, FTC, &amp; DOJ [pdf]](https://s3.documentcloud.org/documents/22186683/twitter-whistleblower-disclosure.pdf)
-- [SpaceX, T-Mobile to connect satellites to cellphones in remote areas](https://www.wsj.com/articles/spacex-and-t-mobile-to-connect-starlink-satellites-to-cellphones-in-remote-parts-of-u-s-11661473520)
-- [Show HN: Devbox – Easy, predictable shells and containers](https://github.com/jetpack-io/devbox)
-- [Soketi: Simple, Fast and Resilient open-source WebSockets server](https://soketi.app/)
-- [Irata.online: A PLATO service for retro computing enthusiasts](https://irata.online/)
-- [Chez Scheme](https://github.com/cisco/ChezScheme)
-- [MQZiti – Zero Trust MQTT server and client](https://github.com/ekoby/mqziti)
-- [Launch HN: Artemis &lpar;YC S22&rpar; – Use comments to give code an interactive interface](https://news.ycombinator.com/item?id=32598603)
-- [Move Fast or Die: Key Startup Lessons](https://blog.southparkcommons.com/move-fast-or-die/)
+- [One kitchen, hundreds of internet restaurants](https://peabee.substack.com/p/17-one-kitchen-hundreds-of-internet)
+- [Unidentified Aerial Phenomena](https://arxiv.org/abs/2208.11215)
+- [Ushering Out Strlcpy&lpar;&rpar;](https://lwn.net/SubscriberLink/905777/a6dba1b2ed54f04f/)
+- [Microsoft Clipchamp](https://clipchamp.com/en/windows-video-editor/)
+- [Meta Is Building an AI to Fact-Check Wikipedia–All 6.5M Articles](https://singularityhub.com/2022/08/26/meta-is-building-an-ai-to-fact-check-wikipedia-all-6-5-million-articles/)
+- [Tactical Combat Umbrella](https://thepreparednessexperience.com/tactical-umbrellas-self-defense/)
+- [Hackintosh: Run newer macOS on decades old Mac with OpenCore](https://dortania.github.io/OpenCore-Legacy-Patcher/START.html)
+- [Chrome allows websites to write to the clipboard without the user’s permission](https://news.ycombinator.com/item?id=32614037)
+- [Show HN: Subreddit Finder – find subreddits based on a topic](https://segue.co/subreddit/)
+- [Slack’s free plan change is causing an exodus](https://blog.zulip.com/2022/08/26/why-slacks-free-plan-change-is-causing-an-exodus/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

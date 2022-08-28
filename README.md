@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [‘What game is he playing?’: Lachlan Murdoch, Trump’s election lies and the legal fight against a small Australian website](https://www.theguardian.com/media/2022/aug/27/what-game-is-he-playing-lachlan-murdoch-trumps-election-lies-and-the-legal-fight-against-a-small-australian-website)
-- [Julian Assange files appeal against US extradition](https://www.theguardian.com/media/2022/aug/27/julian-assange-files-appeal-against-us-extradition)
-- [Russia blocks UN nuclear treaty agreement over Zaporizhzhia clause](https://www.theguardian.com/world/2022/aug/27/russia-blocks-un-nuclear-treaty-agreement-over-zaporizhzhia-clause)
-- [Ethiopia: airstrike hits playground in Tigray, killing at least seven](https://www.theguardian.com/world/2022/aug/27/ethiopia-airstrike-hits-playground-in-tigray-killing-at-least-seven)
-- [Russia-Ukraine war latest: what we know on day 185 of the invasion](https://www.theguardian.com/world/2022/aug/27/russia-ukraine-war-latest-what-we-know-on-day-185-of-the-invasion)
-- [Rising energy bills put millions of UK households at risk of winter catastrophe](https://www.theguardian.com/money/2022/aug/26/rising-energy-bills-millions-uk-households-risk-winter-catastrophe-price-cap)
-- [Nichelle Nichols to become latest Star Trek star to have ashes sent into space](https://www.theguardian.com/culture/2022/aug/26/nichelle-nichols-star-trek-ashes-space)
-- [Monkeypox cases appear to be declining in some large US cities](https://www.theguardian.com/world/2022/aug/26/monkeypox-cases-decline-large-us-cities)
-- [‘Wise and kind’ Labour peer Giles Radice dies at 85](https://www.theguardian.com/politics/2022/aug/26/wise-and-kind-labour-peer-giles-radice-dies-at-85)
-- [Second man arrested on suspicion of murdering Liverpool girl Olivia Pratt-Korbel](https://www.theguardian.com/uk-news/2022/aug/26/man-arrested-in-connection-with-killing-of-liverpool-girl-olivia-pratt-korbel)
+- [Three Dutch commandos wounded in shooting outside US hotel](https://www.theguardian.com/us-news/2022/aug/28/three-dutch-commandos-wounded-in-shooting-outside-us-hotel)
+- [Protests in India over release of 11 men jailed for gang rape](https://www.theguardian.com/world/2022/aug/28/protests-in-india-over-release-of-11-men-jailed-for-gang)
+- [Russia-Ukraine war latest: what we know on day 186 of the invasion](https://www.theguardian.com/world/2022/aug/28/russia-ukraine-war-latest-what-we-know-on-day-186-of-the-invasion)
+- [British blue chips are on the rise, but recession could torpedo prospects](https://www.theguardian.com/business/2022/aug/28/british-blue-chips-are-on-the-rise-but-recession-could-torpedo-prospects)
+- [Concerns over Ukraine nuclear plant persist amid reports of shelling](https://www.theguardian.com/world/2022/aug/27/concerns-over-ukraine-zaporizhzhia-nuclear-plant-persist-amid-reports-of-shelling)
+- [Two killed in the Netherlands as truck rolls into street party](https://www.theguardian.com/world/2022/aug/27/several-killed-in-the-netherlands-as-truck-rolls-into-street-party)
+- [We love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2022/aug/27/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Jacob Rees-Mogg to sell London offices as civil servants work from home](https://www.theguardian.com/politics/2022/aug/27/jacob-rees-mogg-to-sell-london-offices-as-civil-servants-work-from-home)
+- [At least 23 dead after conflict erupts between militias in Libya](https://www.theguardian.com/world/2022/aug/27/at-least-13-dead-after-conflict-erupts-between-militias-in-libya)
+- [Serbia and Kosovo reach free movement agreement](https://www.theguardian.com/world/2022/aug/27/serbia-and-kosovo-reach-free-movement-agreement)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

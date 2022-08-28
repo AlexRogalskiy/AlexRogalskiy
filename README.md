@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Americans view their jobs &lpar;2016&rpar;](https://www.pewresearch.org/social-trends/2016/10/06/3-how-americans-view-their-jobs/)
-- [WideTable: An Accelerator for Analytic Data Processing](http://bigfastdata.blogspot.com/2014/08/widetable-accelerator-for-analytic-data.html)
-- [RimstarOrg – LC Circuit: Selecting Coil and Capacitor &lpar;2017&rpar;](https://www.youtube.com/watch?v=tjD9I95RAbw)
-- [PostmarketOS: Considering Sourcehut, Part 2](https://postmarketos.org/blog/2022/08/26/considering-sourcehut-2/)
-- [The Open Source Series at Pragmatic Bookshelf](https://anonymoushash.vmbrasseur.com/2022/08/26/pragmatic-open-source-series)
-- [What Aristotle thought it meant to be truly wealthy](https://bigthink.com/thinking/aristotle-telos-money/)
-- [Smartphone gyroscopes threaten air-gapped systems](https://www.theregister.com/2022/08/23/phone_gyroscopes_airgapped_systems/)
-- [Ask HN: Are there Wi-Fi baby monitors with decent security?](https://news.ycombinator.com/item?id=32615382)
-- [MPX? Mpox? The struggle to replace ‘monkeypox’ with a name that isn’t racist](https://www.latimes.com/science/story/2022-08-26/many-say-the-name-is-racist-so-what-do-you-call-monkeypox)
-- [TechCrunch: Tool to Help Android Users Know If Device Compromised by Stalkerware](https://www.eff.org/deeplinks/2022/08/techcrunch-launches-lookup-tool-help-android-users-know-if-their-device-was)
+- [My First 7-Figure Trade &lpar;2016&rpar;](https://www.twitlonger.com/show/n_1sp2eu0)
+- [Biden Administration Plans for Legal Psychedelic Therapies Within Two Years](https://theintercept.com/2022/07/26/mdma-psilocybin-fda-ptsd/)
+- [Someone won the $1.34B Mega Millions prize. But they haven&#39;t claimed it](https://www.npr.org/2022/08/27/1119800806/mega-millions-jackpot-unclaimed-winner-illinois-lottery)
+- [Journey to Libbpf 1.0](https://nakryiko.com/posts/libbpf-v1/)
+- [The Rental Housing Crisis Is a Supply Problem That Needs Supply Solutions](https://www.americanprogress.org/article/the-rental-housing-crisis-is-a-supply-problem-that-needs-supply-solutions/)
+- [36,000km in three days: $8k car rental charge shocks Canadian woman](https://www.theguardian.com/world/2022/aug/26/avis-car-rental-overcharge-distance-canada)
+- [UN Sustainable Development Goals](https://sdgs.un.org/goals)
+- [Imperial College President’s PhD Scholarships – AfricaX](https://africaextended.com/things-that-matter/opportunities/imperial-college-presidents-phd-scholarships/)
+- [Show HN: Nested Expressions and One Regexp](http://lambdaway.free.fr/lambdawalks/?view=levithan)
+- [Two Chinese local banks enter bankruptcy procedures](https://asia.nikkei.com/Business/Markets/China-debt-crunch/Two-Chinese-local-banks-enter-bankruptcy-procedures)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

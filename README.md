@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [One kitchen, hundreds of internet restaurants](https://peabee.substack.com/p/17-one-kitchen-hundreds-of-internet)
-- [Unidentified Aerial Phenomena](https://arxiv.org/abs/2208.11215)
-- [Ushering Out Strlcpy&lpar;&rpar;](https://lwn.net/SubscriberLink/905777/a6dba1b2ed54f04f/)
-- [Microsoft Clipchamp](https://clipchamp.com/en/windows-video-editor/)
-- [Meta Is Building an AI to Fact-Check Wikipedia–All 6.5M Articles](https://singularityhub.com/2022/08/26/meta-is-building-an-ai-to-fact-check-wikipedia-all-6-5-million-articles/)
-- [Tactical Combat Umbrella](https://thepreparednessexperience.com/tactical-umbrellas-self-defense/)
-- [Hackintosh: Run newer macOS on decades old Mac with OpenCore](https://dortania.github.io/OpenCore-Legacy-Patcher/START.html)
-- [Chrome allows websites to write to the clipboard without the user’s permission](https://news.ycombinator.com/item?id=32614037)
-- [Show HN: Subreddit Finder – find subreddits based on a topic](https://segue.co/subreddit/)
-- [Slack’s free plan change is causing an exodus](https://blog.zulip.com/2022/08/26/why-slacks-free-plan-change-is-causing-an-exodus/)
+- [Washington D.C.-Area Startup Wants to Solve the Public Bathroom Problem](https://www.washingtonian.com/2022/08/24/this-dc-area-high-tech-toilet-startup-wants-to-solve-the-public-bathroom-problem/)
+- [Samba on Linux the Easy Way](https://glovesoff.substack.com/p/samba-on-linux-the-easy-way)
+- [Time Till Open Source Alternative](https://staltz.com/time-till-open-source-alternative.html)
+- [Acorn: A lightweight PaaS for Kubernertes, from Rancher founders](https://acorn.io/)
+- [Gimp development release 2.99.12 includes initial CMYK support](https://www.gimp.org/news/2022/08/27/gimp-2-99-12-released/)
+- [The Obsessive Pleasures of Mechanical-Keyboard Tinkerers](https://www.newyorker.com/tech/annals-of-technology/the-obsessive-pleasures-of-mechanical-keyboard-tinkerers)
+- [Reading fast, reading well, and reading widely](https://www.driverlesscrocodile.com/books-and-recommendations/tyler-cowen-on-reading-fast-reading-well-and-reading-widely/)
+- [Heroku to discontinue free product plans and delete inactive accounts](https://blog.heroku.com/next-chapter)
+- [Namecheap vulnerability they refuse to fix: no 2FA on support portal login](https://crimew.gay/notice/AMxFUTYtsMNtzbDzQu)
+- [Skio &lpar;subscriptions for Shopify, easy ReCharge migrations&rpar; is hiring](https://skio.com/careers/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -415,6 +415,7 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Any way of deploying a fresh version &lpar;un-setup&rpar; of windows 10 to multiple laptops quickly and easily?](https://www.reddit.com/r/InformationTechnology/comments/wzh3oh/any_way_of_deploying_a_fresh_version_unsetup_of/)
 - [HuntRootBlog](https://www.reddit.com/r/InformationTechnology/comments/wygd4o/huntrootblog/)
 - [Career Change Advice: IT Paths and Certs](https://www.reddit.com/r/InformationTechnology/comments/wygbrl/career_change_advice_it_paths_and_certs/)
 - [Job Interview Question Prep](https://www.reddit.com/r/InformationTechnology/comments/wxx09u/job_interview_question_prep/)
@@ -424,7 +425,6 @@
 - [Overcoming Talent Shortages In Technology](https://www.reddit.com/r/InformationTechnology/comments/wx7kwy/overcoming_talent_shortages_in_technology/)
 - [meeting room booking app for an iPad that will allow external users](https://www.reddit.com/r/InformationTechnology/comments/wx11rf/meeting_room_booking_app_for_an_ipad_that_will/)
 - [Security Onion](https://www.reddit.com/r/InformationTechnology/comments/wwsi31/security_onion/)
-- [Intro To Computer Science- Programming Language C #](https://www.reddit.com/r/InformationTechnology/comments/wwoktn/intro_to_computer_science_programming_language_c/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

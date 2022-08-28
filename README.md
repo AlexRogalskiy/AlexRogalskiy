@@ -406,8 +406,8 @@
 - [James Hatch, BAE Systems: Computer Weekly Downtime Upload podcast](https://www.computerweekly.com/podcast/James-Hatch-BAE-Systems-Computer-Weekly-Downtime-Upload-podcast)
 - [HelloFresh serves up data insights to in-house tech team with Informatica’s help](https://www.computerweekly.com/news/252524162/HelloFresh-serves-up-data-insights-to-in-house-tech-team-with-Informaticas-help)
 - [Adaptive RedAlert, Monster ransomwares go cross-platform](https://www.computerweekly.com/news/252524203/Adaptive-RedAlert-Monster-ransomwares-go-cross-platform)
-- [CW Nordics: Norway struggles to keep up with demand for tech specialists](https://www.computerweekly.com/ezine/CW-Nordics/CW-Nordics-Norway-struggles-to-keep-up-with-demand-for-tech-specialists)
 - [Millions of Plex users may be at risk in password breach](https://www.computerweekly.com/news/252524197/Millions-of-Plex-users-may-be-at-risk-in-password-breach)
+- [CW Nordics: Norway struggles to keep up with demand for tech specialists](https://www.computerweekly.com/ezine/CW-Nordics/CW-Nordics-Norway-struggles-to-keep-up-with-demand-for-tech-specialists)
 - [Security pros fret about stress and promotion over cyber attacks](https://www.computerweekly.com/news/252524170/Security-pros-fret-about-stress-and-promotion-over-cyber-attacks)
 - [LockBit 3.0 cements dominance of ransomware ecosystem](https://www.computerweekly.com/news/252524163/LockBit-30-cements-dominance-of-ransomware-ecosystem)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->

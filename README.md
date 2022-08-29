@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [My First 7-Figure Trade &lpar;2016&rpar;](https://www.twitlonger.com/show/n_1sp2eu0)
-- [Biden Administration Plans for Legal Psychedelic Therapies Within Two Years](https://theintercept.com/2022/07/26/mdma-psilocybin-fda-ptsd/)
-- [Someone won the $1.34B Mega Millions prize. But they haven&#39;t claimed it](https://www.npr.org/2022/08/27/1119800806/mega-millions-jackpot-unclaimed-winner-illinois-lottery)
-- [Journey to Libbpf 1.0](https://nakryiko.com/posts/libbpf-v1/)
-- [The Rental Housing Crisis Is a Supply Problem That Needs Supply Solutions](https://www.americanprogress.org/article/the-rental-housing-crisis-is-a-supply-problem-that-needs-supply-solutions/)
-- [36,000km in three days: $8k car rental charge shocks Canadian woman](https://www.theguardian.com/world/2022/aug/26/avis-car-rental-overcharge-distance-canada)
-- [UN Sustainable Development Goals](https://sdgs.un.org/goals)
-- [Imperial College President’s PhD Scholarships – AfricaX](https://africaextended.com/things-that-matter/opportunities/imperial-college-presidents-phd-scholarships/)
-- [Show HN: Nested Expressions and One Regexp](http://lambdaway.free.fr/lambdawalks/?view=levithan)
-- [Two Chinese local banks enter bankruptcy procedures](https://asia.nikkei.com/Business/Markets/China-debt-crunch/Two-Chinese-local-banks-enter-bankruptcy-procedures)
+- [Teenager Invented a Low-Cost Tool to Spot Elephant Poachers in Real Time](https://www.smithsonianmag.com/innovation/this-teenager-invented-a-low-cost-tool-to-spot-elephant-poachers-in-real-time-180980522/)
+- [Show HN: Weighted Markov Text Generator Sandbox](http://aperocky.com/markov/)
+- [Modules, Monoliths, and Microservices &lpar;2021&rpar;](https://tailscale.com/blog/modules-monoliths-and-microservices/)
+- [The Viable Systems Model, and where my team fits](https://jessitron.com/2022/08/28/the-viable-systems-model-and-where-my-team-fits/)
+- [4B-year-old chunk of Earth&#39;s crust found below Australia](https://www.livescience.com/4-billion-year-old-crust-australia)
+- [Chrono – A Git Time Machine](https://github.com/hazyuun/Chrono)
+- [Crypto Kirby: A Ridiculous Review of This YouTube Channel](https://www.cryptofireside.com/crypto-kirby/)
+- [Programming on 34 Keys](https://peppe.rs/posts/programming_on_34_keys/)
+- [London’s History, Washed Up on the Shores of the Thames](https://hyperallergic.com/731564/londons-history-washed-up-on-the-shores-of-the-thames/)
+- [Germany: Gas storage filling up faster than expected ahead of winter](https://www.dw.com/en/germany-gas-storage-filling-up-faster-than-expected-ahead-of-winter/a-62956111)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

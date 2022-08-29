@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Washington D.C.-Area Startup Wants to Solve the Public Bathroom Problem](https://www.washingtonian.com/2022/08/24/this-dc-area-high-tech-toilet-startup-wants-to-solve-the-public-bathroom-problem/)
-- [Samba on Linux the Easy Way](https://glovesoff.substack.com/p/samba-on-linux-the-easy-way)
-- [Time Till Open Source Alternative](https://staltz.com/time-till-open-source-alternative.html)
-- [Acorn: A lightweight PaaS for Kubernertes, from Rancher founders](https://acorn.io/)
-- [Gimp development release 2.99.12 includes initial CMYK support](https://www.gimp.org/news/2022/08/27/gimp-2-99-12-released/)
-- [The Obsessive Pleasures of Mechanical-Keyboard Tinkerers](https://www.newyorker.com/tech/annals-of-technology/the-obsessive-pleasures-of-mechanical-keyboard-tinkerers)
-- [Reading fast, reading well, and reading widely](https://www.driverlesscrocodile.com/books-and-recommendations/tyler-cowen-on-reading-fast-reading-well-and-reading-widely/)
-- [Heroku to discontinue free product plans and delete inactive accounts](https://blog.heroku.com/next-chapter)
-- [Namecheap vulnerability they refuse to fix: no 2FA on support portal login](https://crimew.gay/notice/AMxFUTYtsMNtzbDzQu)
-- [Skio &lpar;subscriptions for Shopify, easy ReCharge migrations&rpar; is hiring](https://skio.com/careers/)
+- [The sudden silencing of Guantanamo&#39;s artists](https://www.bbc.com/news/world-us-canada-62399826)
+- [Try Stable Diffusion&#39;s Img2Img Mode](https://huggingface.co/spaces/huggingface/diffuse-the-rest)
+- [PostgreSQL 15: Stats Collector Gone? What’s New?](https://www.percona.com/blog/postgresql-15-stats-collector-gone-whats-new/)
+- [Tetsuji: Remote Code Execution on a GameBoy Colour 22 Years Later](https://xcellerator.github.io/posts/tetsuji/)
+- [GitHub Does Dotfiles](https://dotfiles.github.io/)
+- [Wizz Air now charging some travellers a strange extra fee &lpar;2020&rpar;](https://thepointsguy.co.uk/news/wizz-air-ad-blocking-fee/)
+- [Presentation: Four programming languages from forty years ago &lpar;2018&rpar;](https://fsharpforfunandprofit.com/fourfromforty/)
+- [Stable Diffusion Is the Most Important AI Art Model Ever](https://thealgorithmicbridge.substack.com/p/stable-diffusion-is-the-most-important)
+- [The Quest for Fuel in World War II &lpar;1993&rpar;](http://www.eiaonline.com/history/bloodforoil.htm)
+- [Wren is a small, fast, class-based concurrent scripting language](https://wren.io)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

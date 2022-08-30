@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The sudden silencing of Guantanamo&#39;s artists](https://www.bbc.com/news/world-us-canada-62399826)
-- [Try Stable Diffusion&#39;s Img2Img Mode](https://huggingface.co/spaces/huggingface/diffuse-the-rest)
-- [PostgreSQL 15: Stats Collector Gone? What’s New?](https://www.percona.com/blog/postgresql-15-stats-collector-gone-whats-new/)
-- [Tetsuji: Remote Code Execution on a GameBoy Colour 22 Years Later](https://xcellerator.github.io/posts/tetsuji/)
-- [GitHub Does Dotfiles](https://dotfiles.github.io/)
-- [Wizz Air now charging some travellers a strange extra fee &lpar;2020&rpar;](https://thepointsguy.co.uk/news/wizz-air-ad-blocking-fee/)
-- [Presentation: Four programming languages from forty years ago &lpar;2018&rpar;](https://fsharpforfunandprofit.com/fourfromforty/)
-- [Stable Diffusion Is the Most Important AI Art Model Ever](https://thealgorithmicbridge.substack.com/p/stable-diffusion-is-the-most-important)
-- [The Quest for Fuel in World War II &lpar;1993&rpar;](http://www.eiaonline.com/history/bloodforoil.htm)
-- [Wren is a small, fast, class-based concurrent scripting language](https://wren.io)
+- [New Zealand&#39;s plan to prepare for inevitable climate change impacts](https://www.rnz.co.nz/news/on-the-inside/472305/new-zealand-s-plan-to-prepare-for-inevitable-climate-change-impacts-five-areas-where-the-hard-work-starts-now)
+- [CA Design Code Law AB-2273: You’ll Scan Your Face for Every Website You Visit](https://www.techdirt.com/2022/08/29/age-verification-providers-say-dont-worry-about-california-design-code-youll-just-have-to-scan-your-face-for-every-website-you-visit/)
+- [Crypto.com accidentally transfers $10.5m to woman instead of $100](https://tickernews.co/crypto-com-accidentally-transfers-10-5m-to-woman-instead-of-100/)
+- [PowerUp: IDE Decompilation and Disassembly Tools](https://github.com/badamczewski/PowerUp)
+- [WireGuard Servers Running from RAM](https://mullvad.net/tr/help/wireguard-servers-running-from-ram/)
+- [Python library for univariate regression, interpolation, and smoothing](https://github.com/brendanartley/Regressio)
+- [Why are you so busy?](https://tomlingham.com/articles/why-are-you-so-busy/)
+- [Stable Diffusion Textual Inversion](https://github.com/hlky/sd-enable-textual-inversion)
+- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
+- [Microformats Wiki](http://microformats.org/wiki/Main_Page)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -355,6 +355,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [For most users, Windows 11 22H2 doesn’t move the needle](https://www.computerworld.com/article/3671335/for-most-users-windows-11-22h2-doesnt-move-the-needle.html#tk.rss_all)
+- [Facebook agrees to settle class action lawsuit related to Cambridge Analytica data breach](https://www.csoonline.com/article/3671333/facebook-agrees-to-settle-class-action-lawsuit-related-to-cambridge-analytica-data-breach.html#tk.rss_all)
+- [Why Apple is building two different smartglasses platforms](https://www.computerworld.com/article/3671130/why-apple-is-building-two-different-smartglasses-platforms.html#tk.rss_all)
 - [How Generation Z workers are different from everyone else](https://www.computerworld.com/article/3671390/how-generation-z-workers-are-different-from-everybody-else.html#tk.rss_all)
 - [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
@@ -362,9 +365,6 @@
 - [The need to ‘work happy’](https://www.computerworld.com/article/3671150/the-need-to-work-happy.html#tk.rss_all)
 - [Planned ‘fixes’ for credit-card interchange fees will actually make fraud easier](https://www.computerworld.com/article/3671128/as-feds-eye-fixes-for-credit-card-interchanges-are-they-making-fraud-easier.html#tk.rss_all)
 - [Android, ChromeOS, and the future of app discovery](https://www.computerworld.com/article/3670754/android-chromeos-app-discovery.html#tk.rss_all)
-- [Apple Business Essentials now supports non-App Store installs on Macs](https://www.computerworld.com/article/3671368/apple-business-essentials-now-supports-non-app-store-installs-on-macs.html#tk.rss_all)
-- [5 productivity tips for hybrid workers](https://www.computerworld.com/article/3665891/hybrid-workplace-productivity-tips.html#tk.rss_all)
-- [The new workplace will be distributed, digital — and full of purpose](https://www.computerworld.com/article/3670738/the-new-workplace-will-be-distributed-digital-and-full-of-purpose.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

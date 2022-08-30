@@ -430,16 +430,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Charities in Canada in urgent need of computers, says ERA](https://www.itworldcanada.com/article/charities-in-canada-in-urgent-need-of-computers-says-era/500363)
+- [Is “state-backed” ransomware excluded from cyber insurance? Plus three points of irony. This Week in Ransomware – Monday, Aug 29th](https://www.itworldcanada.com/article/is-state-backed-ransomware-excluded-from-cyber-insurance-plus-three-points-of-irony-this-week-in-ransomware-monday-aug-29th/500300)
+- [LockBit ransomware gang adding DDoS attacks to its threats](https://www.itworldcanada.com/article/lockbit-ransomware-gang-adding-ddos-attacks-to-its-threats/500301)
+- [Open cybersecurity framework may be a boon for SIEMs, data analysts](https://www.itworldcanada.com/article/open-cybersecurity-framework-may-be-a-boon-for-siems-data-analysts/500215)
+- [Cyber Security Today, August 29, 2022 – Door Dash hacked, Facebook ready to face the music and Sephora agrees to pay a $1.2 million penalty](https://www.itworldcanada.com/article/cyber-security-today-august-29-2022-door-dash-hacked-facebook-ready-to-face-the-music-and-sephora-agrees-to-pay-a-1-2-million-penalty/500141)
+- [Hashtag Trending Aug 27 – Tesla wants to remove a video; Apple VR trademarks; can proctors scan students’ rooms before an exam?](https://www.itworldcanada.com/article/hashtag-trending-aug-27-tesla-wants-to-remove-a-video-apple-vr-trademarks-can-proctors-scan-students-rooms-before-an-exam/500229)
 - [SpaceX partners with T-Mobile to provide cellular service across the entire U.S.](https://www.itworldcanada.com/article/spacex-partners-with-t-mobile-to-provide-cellular-service-across-the-entire-u-s/499860)
 - [Longer life for lithium-ion batteries could soon be possible](https://www.itworldcanada.com/article/longer-life-for-lithium-ion-batteries-could-soon-be-possible/499807)
 - [Webinar examines Zero Trust as ‘cybersecurity mindset’](https://www.itworldcanada.com/article/webinar-examines-zero-trust-as-cybersecurity-mindset/499763)
 - [Cyber Security Today, Week in Review for Friday, August 26, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-august-26-2022/499620)
-- [Hashtag Weekend: Quantum computing and what you need to know today with our guest Brian Lenahan, chair, Quantum Strategy Institute](https://www.itworldcanada.com/article/quantum-computing-and-what-you-need-to-know-today-with-our-guest-brian-lenahan-chair-quantum-strategy-institute/499817)
-- [Open Text to acquire Micro Focus in all-cash US$6 billion deal](https://www.itworldcanada.com/article/open-text-to-acquire-micro-focus-in-all-cash-us6-billion-deal/499781)
-- [Quebec’s privacy bill 64: Is your business ready?](https://www.itworldcanada.com/article/quebecs-privacy-bill-64-is-your-business-ready/499757)
-- [Canada faces a shortage in digital and STEM skills, says C.D Howe Institute report](https://www.itworldcanada.com/article/canada-faces-a-shortage-in-digital-and-stem-skills-says-c-d-howe-institute-report/499628)
-- [Hashtag Trending Aug. 26 – Federally funded research to be open access; new U.S. privacy law gains traction, Amazon Care shuts down](https://www.itworldcanada.com/article/hashtag-trending-aug-26-federally-funded-research-to-be-open-access-new-u-s-privacy-law-gains-traction-amazon-care-shuts-down/499725)
-- [Cyber Security Today, August 26, 2022 – Protect your Active Directory servers, a huge text-based phishing scam found and more](https://www.itworldcanada.com/article/cyber-security-today-august-26-2022-protect-your-active-directory-servers-a-huge-text-based-phishing-scam-found-and-more/499615)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

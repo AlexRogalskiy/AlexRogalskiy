@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Artemis 1 rocket: what will the Nasa moon mission be carrying into space?](https://www.theguardian.com/science/2022/aug/29/artemis-1-nasa-rocket-to-moon-2022-mission-launch-time-what-carry-cargo-into-space)
-- [Revisited: searching for the shadow man &lpar;part 2&rpar; – podcast](https://www.theguardian.com/news/audio/2022/aug/29/revisited-searching-for-the-shadow-man-part-2)
-- [Two Air France pilots suspended after fight in cockpit prompts cabin crew to intervene](https://www.theguardian.com/business/2022/aug/29/two-air-france-pilots-suspended-after-fight-in-cockpit-prompts-cabin-crew-to-intervene)
-- [Flicking the kill switch: governments embrace internet shutdowns as a form of control](https://www.theguardian.com/technology/2022/aug/29/flicking-the-kill-switch-governments-embrace-internet-shutdowns-as-a-form-of-control)
-- [Russia-Ukraine war latest: what we know on day 187 of the invasion](https://www.theguardian.com/world/2022/aug/29/russia-ukraine-war-latest-what-we-know-on-day-187-of-the-invasion)
-- [Point of no return: crunch time as China tries to fend off property crash](https://www.theguardian.com/business/2022/aug/28/crunch-time-china-tries-to-fend-off-property-crash-global-economy)
-- [Almost one in four UK adults will not turn heating on at all this winter](https://www.theguardian.com/business/2022/aug/29/almost-quarter-of-uk-plans-to-go-without-heating-this-winter-energy-price-cap)
-- [Wizz Air named worst airline for UK-departing flight delays](https://www.theguardian.com/business/2022/aug/29/wizz-air-named-worst-airline-for-uk-departing-flight-delays)
-- [HMS Prince of Wales breaks down day after leaving Portsmouth](https://www.theguardian.com/uk-news/2022/aug/28/hms-prince-of-wales-breaks-down-day-after-leaving-portsmouth)
-- [Rory McIlroy overturns six-shot deficit to win remarkable Tour Championship](https://www.theguardian.com/sport/2022/aug/28/rory-mcilroy-overturns-six-shot-deficit-to-claim-record-tour-championship-win)
+- [Nick Kyrgios beats Thanasi Kokkinakis: US Open tennis 2022 – live!](https://www.theguardian.com/sport/live/2022/aug/29/us-open-tennis-2022-serena-williams-danka-kovinic-nick-kyrgios-thanasi-kokkinakis-latest-score)
+- [Fatal stabbing at Notting Hill carnival](https://www.theguardian.com/uk-news/2022/aug/30/fatal-stabbing-at-notting-hill-carnival)
+- [Chinese thinktank makes rare public call for Beijing to ease zero-Covid policy](https://www.theguardian.com/world/2022/aug/30/chinese-thinktank-makes-rare-public-call-for-beijing-to-ease-zero-covid-policy)
+- [The Benin bronzes and why their return to Nigeria matters – podcast](https://www.theguardian.com/news/audio/2022/aug/30/the-benin-bronzes-return-to-nigeria-podcast)
+- [Serena Williams proves the show’s not over with impressive US Open victory](https://www.theguardian.com/sport/2022/aug/29/serena-williams-danka-kovinic-us-open-first-round-tennis-report)
+- [Deadly violence in Baghdad after leading cleric Moqtada al-Sadr says he is quitting politics](https://www.theguardian.com/world/2022/aug/29/followers-shia-cleric-storm-iraq-government-palace-muqtada-al-sadr)
+- [Oh my gourd: Nebraska man paddles 38 miles in hollowed out pumpkin](https://www.theguardian.com/us-news/2022/aug/29/pumpkin-paddling-river-record-duane-hansen)
+- [Biden to give primetime address on the ‘battle for the soul of the nation’](https://www.theguardian.com/us-news/2022/aug/29/joe-biden-speech-philadelphia-democracy)
+- [Manchester United agree loan deal for Dubravka as Antony completes medical](https://www.theguardian.com/football/2022/aug/29/manchester-united-agree-deal-to-sign-martin-dubravka-from-newcastle)
+- [Met police make payments to families of three Stephen Port victims](https://www.theguardian.com/uk-news/2022/aug/30/met-police-make-payments-to-families-of-three-stephen-port-victims)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

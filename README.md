@@ -370,6 +370,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Cloud Migration: 9 Ways to Ease the Agony](https://www.informationweek.com/cloud/cloud-migration-9-ways-to-ease-the-agony)
+- [How to Transition to the Cloud](https://www.informationweek.com/cloud/how-to-transition-to-the-cloud)
 - [Why Migrating a Database to the Cloud is Like a Heart Transplant](https://www.informationweek.com/cloud/why-migrating-a-database-to-the-cloud-is-like-a-heart-transplant)
 - [How to Save Yourself From Vendor Lock-in and a Cloud Mess](https://www.informationweek.com/cloud/how-to-save-yourself-from-vendor-lock-in-and-a-cloud-mess)
 - [How to Implement AIOps for SD-WAN in Your Network](https://www.informationweek.com/palo-alto-networks/how-to-implement-aiops-for-sd-wan-in-your-network)
@@ -378,8 +380,6 @@
 - [DevOps and Security Takeaways From Twitter Whistleblower Claims](https://www.informationweek.com/security-and-risk-strategy/devops-and-security-takeaways-from-twitter-whistleblowers-claims)
 - [How to Nurture Talent and Protect Your IT Stars](https://www.informationweek.com/strategic-cio/how-to-nurture-talent-and-protect-your-it-stars)
 - [Technology as a Competitive Edge in the Battle for Talent](https://www.informationweek.com/it-life/technology-as-a-competitive-edge-in-the-battle-for-talent)
-- [No-Code Platforms and Easy Processes Bring the Benefits of Automation](https://www.informationweek.com/ai-or-machine-learning/no-code-platforms-and-easy-processes-bring-the-benefits-of-automation)
-- [Q&amp;A: How Data Science Fits into the Cloud Spend Equation](https://www.informationweek.com/big-data/q-a-how-data-science-fits-into-the-cloud-spend-equation)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

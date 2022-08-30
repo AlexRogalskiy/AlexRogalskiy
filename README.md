@@ -415,16 +415,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [New to IT, looking for help with setting up my first server &lpar;HPE MicroSvr G10&rpar;](https://www.reddit.com/r/InformationTechnology/comments/x16d9m/new_to_it_looking_for_help_with_setting_up_my/)
+- [Software Dev or IT crossroads](https://www.reddit.com/r/InformationTechnology/comments/x149lz/software_dev_or_it_crossroads/)
+- [Getting out of military going to IT](https://www.reddit.com/r/InformationTechnology/comments/x0wudb/getting_out_of_military_going_to_it/)
+- [Choosing what to minor in.](https://www.reddit.com/r/InformationTechnology/comments/x0v9q5/choosing_what_to_minor_in/)
+- [40 years old and want to change to IT. Possible? Also questions.](https://www.reddit.com/r/InformationTechnology/comments/x0r2lp/40_years_old_and_want_to_change_to_it_possible/)
+- [In the future will there are no longer be markdown or text editors in the app stores of iOS and Android or any future mobile operating systems? Will they all be taken off or deleted from the app stores because the companies go out of business?](https://www.reddit.com/r/InformationTechnology/comments/x0qyp9/in_the_future_will_there_are_no_longer_be/)
+- [IP adress issue](https://www.reddit.com/r/InformationTechnology/comments/x0lo0v/ip_adress_issue/)
+- [Felon Friendly](https://www.reddit.com/r/InformationTechnology/comments/x0f8u2/felon_friendly/)
 - [What USB-C docks do you use?](https://www.reddit.com/r/InformationTechnology/comments/x06l4b/what_usbc_docks_do_you_use/)
 - [Any way of deploying a fresh version &lpar;un-setup&rpar; of windows 10 to multiple laptops quickly and easily?](https://www.reddit.com/r/InformationTechnology/comments/wzh3oh/any_way_of_deploying_a_fresh_version_unsetup_of/)
-- [HuntRootBlog](https://www.reddit.com/r/InformationTechnology/comments/wygd4o/huntrootblog/)
-- [Career Change Advice: IT Paths and Certs](https://www.reddit.com/r/InformationTechnology/comments/wygbrl/career_change_advice_it_paths_and_certs/)
-- [Job Interview Question Prep](https://www.reddit.com/r/InformationTechnology/comments/wxx09u/job_interview_question_prep/)
-- [Windows Program that indicates performance issues](https://www.reddit.com/r/InformationTechnology/comments/wxwxfk/windows_program_that_indicates_performance_issues/)
-- [Advice needed](https://www.reddit.com/r/InformationTechnology/comments/wxs5n3/advice_needed/)
-- [Creating IT Department for a 22 Employee Org](https://www.reddit.com/r/InformationTechnology/comments/wxs0nf/creating_it_department_for_a_22_employee_org/)
-- [Overcoming Talent Shortages In Technology](https://www.reddit.com/r/InformationTechnology/comments/wx7kwy/overcoming_talent_shortages_in_technology/)
-- [meeting room booking app for an iPad that will allow external users](https://www.reddit.com/r/InformationTechnology/comments/wx11rf/meeting_room_booking_app_for_an_ipad_that_will/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

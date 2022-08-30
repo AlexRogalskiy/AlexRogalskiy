@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Teenager Invented a Low-Cost Tool to Spot Elephant Poachers in Real Time](https://www.smithsonianmag.com/innovation/this-teenager-invented-a-low-cost-tool-to-spot-elephant-poachers-in-real-time-180980522/)
-- [Show HN: Weighted Markov Text Generator Sandbox](http://aperocky.com/markov/)
-- [Modules, Monoliths, and Microservices &lpar;2021&rpar;](https://tailscale.com/blog/modules-monoliths-and-microservices/)
-- [The Viable Systems Model, and where my team fits](https://jessitron.com/2022/08/28/the-viable-systems-model-and-where-my-team-fits/)
-- [4B-year-old chunk of Earth&#39;s crust found below Australia](https://www.livescience.com/4-billion-year-old-crust-australia)
-- [Chrono – A Git Time Machine](https://github.com/hazyuun/Chrono)
-- [Crypto Kirby: A Ridiculous Review of This YouTube Channel](https://www.cryptofireside.com/crypto-kirby/)
-- [Programming on 34 Keys](https://peppe.rs/posts/programming_on_34_keys/)
-- [London’s History, Washed Up on the Shores of the Thames](https://hyperallergic.com/731564/londons-history-washed-up-on-the-shores-of-the-thames/)
-- [Germany: Gas storage filling up faster than expected ahead of winter](https://www.dw.com/en/germany-gas-storage-filling-up-faster-than-expected-ahead-of-winter/a-62956111)
+- [People who publish open-source projects, what makes you confident to do that?](https://news.ycombinator.com/item?id=32646474)
+- [Ask HN: Which MOOCs in Math/CS are worth still worth taking in 2022?](https://news.ycombinator.com/item?id=32646440)
+- [The Caffeinated Lives of Bees &lpar;2015&rpar;](https://www.nytimes.com/2015/10/19/science/the-caffeinated-lives-of-bees.html)
+- [Gestalt – Pinterest’s Design System](https://gestalt.pinterest.systems/)
+- [C64 Theremin](http://www.linusakesson.net/hardware/theremin/index.php)
+- [New Zealand&#39;s plan to prepare for inevitable climate change impacts](https://www.rnz.co.nz/news/on-the-inside/472305/new-zealand-s-plan-to-prepare-for-inevitable-climate-change-impacts-five-areas-where-the-hard-work-starts-now)
+- [eBay locking accounts of users who sell over $600 till they submit SSN for IRS](https://twitter.com/ReOpenChris/status/1564343345383706624)
+- [August 2022 Newsletter: Investment Cycles](https://www.lynalden.com/august-2022-newsletter/)
+- [Ask HN: How have you gotten more paying customers?](https://news.ycombinator.com/item?id=32646248)
+- [The Greatest Grid – Master Plan of Manhattan](https://thegreatestgrid.mcny.org)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

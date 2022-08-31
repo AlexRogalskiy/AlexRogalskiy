@@ -430,16 +430,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
-- [Charities in Canada in urgent need of computers, says ERA](https://www.itworldcanada.com/article/charities-in-canada-in-urgent-need-of-computers-says-era/500363)
-- [Is “state-backed” ransomware excluded from cyber insurance? Plus three points of irony. This Week in Ransomware – Monday, Aug 29th](https://www.itworldcanada.com/article/is-state-backed-ransomware-excluded-from-cyber-insurance-plus-three-points-of-irony-this-week-in-ransomware-monday-aug-29th/500300)
-- [LockBit ransomware gang adding DDoS attacks to its threats](https://www.itworldcanada.com/article/lockbit-ransomware-gang-adding-ddos-attacks-to-its-threats/500301)
-- [Open cybersecurity framework may be a boon for SIEMs, data analysts](https://www.itworldcanada.com/article/open-cybersecurity-framework-may-be-a-boon-for-siems-data-analysts/500215)
-- [Cyber Security Today, August 29, 2022 – Door Dash hacked, Facebook ready to face the music and Sephora agrees to pay a $1.2 million penalty](https://www.itworldcanada.com/article/cyber-security-today-august-29-2022-door-dash-hacked-facebook-ready-to-face-the-music-and-sephora-agrees-to-pay-a-1-2-million-penalty/500141)
-- [Hashtag Trending Aug 27 – Tesla wants to remove a video; Apple VR trademarks; can proctors scan students’ rooms before an exam?](https://www.itworldcanada.com/article/hashtag-trending-aug-27-tesla-wants-to-remove-a-video-apple-vr-trademarks-can-proctors-scan-students-rooms-before-an-exam/500229)
-- [SpaceX partners with T-Mobile to provide cellular service across the entire U.S.](https://www.itworldcanada.com/article/spacex-partners-with-t-mobile-to-provide-cellular-service-across-the-entire-u-s/499860)
-- [Longer life for lithium-ion batteries could soon be possible](https://www.itworldcanada.com/article/longer-life-for-lithium-ion-batteries-could-soon-be-possible/499807)
-- [Webinar examines Zero Trust as ‘cybersecurity mindset’](https://www.itworldcanada.com/article/webinar-examines-zero-trust-as-cybersecurity-mindset/499763)
-- [Cyber Security Today, Week in Review for Friday, August 26, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-august-26-2022/499620)
+- [Digital identity verification spend to exceed $20 billion globally by 2027, study reveals](https://www.itworldcanada.com/article/digital-identity-verification-spend-to-exceed-20-billion-globally-by-2027-study-reveals/500593)
+- [Magnet announces advisory board with 15 Canadian leaders](https://www.itworldcanada.com/article/magnet-announces-advisory-board-with-15-canadian-leaders/500566)
+- [Deeper Dive: The Metaverse:  Episode 5 – Future Proofing and Resource Guide](https://www.itworldcanada.com/article/deeper-dive-the-metaverse-episode-5-future-proofing-and-resource-guide/499120)
+- [Deeper Dive:  The Metaverse:  Episode 4 – The incredible world of Second Life](https://www.itworldcanada.com/article/deeper-dive-the-metaverse-episode-4-the-incredible-world-of-second-life/499118)
+- [Deeper Dive: The Metaverse: Episode 3 – The map of the metaverse](https://www.itworldcanada.com/article/deeper-dive-the-metaverse-episode-3-the-map-of-the-metaverse/499116)
+- [Deeper Dive: The Metaverse:  Episode 2 – When will it arrive?](https://www.itworldcanada.com/article/deeper-dive-the-metaverse-episode-2-when-will-it-arrive/499113)
+- [Deeper Dive: The Metaverse:   Episode 1 – The future history of the metaverse](https://www.itworldcanada.com/article/deeper-dive-the-metaverse-episode-1-the-future-history-of-the-metaverse/499110)
+- [Coffee Briefing August 30, 2022 – CapIntel announces new partnership; Twitter adds new podcasting and audio features; Xero teams up with BBPA to launch scholarship; and more](https://www.itworldcanada.com/article/coffee-briefing-august-30-2022-capintel-announces-new-partnership-twitter-adds-new-podcasting-and-audio-features-xero-teams-up-with-bbpa-to-launch-scholarship-and-more/500382)
+- [Twilio attack shows weaknesses in multifactor authentication systems](https://www.itworldcanada.com/article/twilio-attack-shows-weaknesses-in-multifactor-authentication-systems/500449)
+- [The Impact of Exemplary Leadership](https://www.itworldcanada.com/article/the-impact-of-exemplary-leadership/500362)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

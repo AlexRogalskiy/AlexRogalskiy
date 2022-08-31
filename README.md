@@ -370,6 +370,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [What You Need to Know About Web3](https://www.informationweek.com/big-data/what-you-need-to-know-about-web3)
+- [August 2022 Global Tech Policy Bulletin: From Trouble in Taiwan to Intrigue at the FTC](https://www.informationweek.com/government/august-2022-global-tech-policy-bulletin-from-trouble-in-taiwan-to-intrigue-at-the-ftc)
+- [How Observability Can Help Manage Complex IT Networks](https://www.informationweek.com/strategic-cio/how-observability-can-help-manage-complex-it-networks)
 - [Cloud Migration: 9 Ways to Ease the Agony](https://www.informationweek.com/cloud/cloud-migration-9-ways-to-ease-the-agony)
 - [How to Transition to the Cloud](https://www.informationweek.com/cloud/how-to-transition-to-the-cloud)
 - [Why Migrating a Database to the Cloud is Like a Heart Transplant](https://www.informationweek.com/cloud/why-migrating-a-database-to-the-cloud-is-like-a-heart-transplant)
@@ -377,9 +380,6 @@
 - [How to Implement AIOps for SD-WAN in Your Network](https://www.informationweek.com/palo-alto-networks/how-to-implement-aiops-for-sd-wan-in-your-network)
 - [Quick Study:  Finding the Right Data](https://www.informationweek.com/big-data/quick-study-finding-the-right-data)
 - [3 Ways to Keep Software Installations and Upgrades Under Control](https://www.informationweek.com/software/3-ways-to-keep-software-installations-and-upgrades-under-control)
-- [DevOps and Security Takeaways From Twitter Whistleblower Claims](https://www.informationweek.com/security-and-risk-strategy/devops-and-security-takeaways-from-twitter-whistleblowers-claims)
-- [How to Nurture Talent and Protect Your IT Stars](https://www.informationweek.com/strategic-cio/how-to-nurture-talent-and-protect-your-it-stars)
-- [Technology as a Competitive Edge in the Battle for Talent](https://www.informationweek.com/it-life/technology-as-a-competitive-edge-in-the-battle-for-talent)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

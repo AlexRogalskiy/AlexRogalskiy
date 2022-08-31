@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Nick Kyrgios beats Thanasi Kokkinakis: US Open tennis 2022 – live!](https://www.theguardian.com/sport/live/2022/aug/29/us-open-tennis-2022-serena-williams-danka-kovinic-nick-kyrgios-thanasi-kokkinakis-latest-score)
-- [Fatal stabbing at Notting Hill carnival](https://www.theguardian.com/uk-news/2022/aug/30/fatal-stabbing-at-notting-hill-carnival)
-- [Chinese thinktank makes rare public call for Beijing to ease zero-Covid policy](https://www.theguardian.com/world/2022/aug/30/chinese-thinktank-makes-rare-public-call-for-beijing-to-ease-zero-covid-policy)
-- [The Benin bronzes and why their return to Nigeria matters – podcast](https://www.theguardian.com/news/audio/2022/aug/30/the-benin-bronzes-return-to-nigeria-podcast)
-- [Serena Williams proves the show’s not over with impressive US Open victory](https://www.theguardian.com/sport/2022/aug/29/serena-williams-danka-kovinic-us-open-first-round-tennis-report)
-- [Deadly violence in Baghdad after leading cleric Moqtada al-Sadr says he is quitting politics](https://www.theguardian.com/world/2022/aug/29/followers-shia-cleric-storm-iraq-government-palace-muqtada-al-sadr)
-- [Oh my gourd: Nebraska man paddles 38 miles in hollowed out pumpkin](https://www.theguardian.com/us-news/2022/aug/29/pumpkin-paddling-river-record-duane-hansen)
-- [Biden to give primetime address on the ‘battle for the soul of the nation’](https://www.theguardian.com/us-news/2022/aug/29/joe-biden-speech-philadelphia-democracy)
-- [Manchester United agree loan deal for Dubravka as Antony completes medical](https://www.theguardian.com/football/2022/aug/29/manchester-united-agree-deal-to-sign-martin-dubravka-from-newcastle)
-- [Met police make payments to families of three Stephen Port victims](https://www.theguardian.com/uk-news/2022/aug/30/met-police-make-payments-to-families-of-three-stephen-port-victims)
+- [Greece should face more checks over asylum seeker treatment – EU official](https://www.theguardian.com/world/2022/aug/31/greece-should-face-more-checks-over-asylum-seeker-treatment-eu-official)
+- [‘I was close to death’: Syrian man tells how Greek officials pushed refugees back out to sea](https://www.theguardian.com/world/2022/aug/31/i-was-close-to-death-syrian-man-tells-how-greek-officials-pushed-refugees-back-out-to-sea)
+- [‘A true man of peace’: what the papers say about the death of Mikhail Gorbachev](https://www.theguardian.com/world/2022/aug/31/a-true-man-of-peace-what-the-papers-say-about-the-death-of-mikhail-gorbachev)
+- [Emma Raducanu’s US Open defence ends early with defeat to Alizé Cornet](https://www.theguardian.com/sport/2022/aug/30/emma-raducanu-us-open-tennis-alize-cornet-result)
+- [How to cope with rising energy bills – podcast](https://www.theguardian.com/news/audio/2022/aug/31/how-to-cope-with-rising-energy-bills-podcast)
+- [Mikhail Gorbachev – a life in pictures](https://www.theguardian.com/world/gallery/2022/aug/31/mikhail-gorbachev-a-life-in-pictures)
+- [‘I thought I would die before this moment’: one man’s fight against Singapore’s gay sex law](https://www.theguardian.com/world/2022/aug/31/i-thought-i-would-die-before-this-moment-one-mans-fight-against-singapores-gay-sex-law)
+- [Nasa to try launching Artemis 1 mission again on Saturday](https://www.theguardian.com/science/2022/aug/30/nasa-to-try-launching-artemis-1-mission-again-on-saturday)
+- [Food banks warn surge in demand will prevent feeding hungriest this winter](https://www.theguardian.com/business/2022/aug/30/food-banks-warn-surge-in-demand-will-prevent-feeding-hungriest-this-winter)
+- [Venus Williams quiet on her future after first-round exit from US Open](https://www.theguardian.com/sport/2022/aug/30/iga-swiatek-cruises-past-jasmine-paolini-to-reach-us-open-second-round)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

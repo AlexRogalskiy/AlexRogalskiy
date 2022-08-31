@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [New Zealand&#39;s plan to prepare for inevitable climate change impacts](https://www.rnz.co.nz/news/on-the-inside/472305/new-zealand-s-plan-to-prepare-for-inevitable-climate-change-impacts-five-areas-where-the-hard-work-starts-now)
-- [CA Design Code Law AB-2273: You’ll Scan Your Face for Every Website You Visit](https://www.techdirt.com/2022/08/29/age-verification-providers-say-dont-worry-about-california-design-code-youll-just-have-to-scan-your-face-for-every-website-you-visit/)
-- [Crypto.com accidentally transfers $10.5m to woman instead of $100](https://tickernews.co/crypto-com-accidentally-transfers-10-5m-to-woman-instead-of-100/)
-- [PowerUp: IDE Decompilation and Disassembly Tools](https://github.com/badamczewski/PowerUp)
-- [WireGuard Servers Running from RAM](https://mullvad.net/tr/help/wireguard-servers-running-from-ram/)
-- [Python library for univariate regression, interpolation, and smoothing](https://github.com/brendanartley/Regressio)
-- [Why are you so busy?](https://tomlingham.com/articles/why-are-you-so-busy/)
-- [Stable Diffusion Textual Inversion](https://github.com/hlky/sd-enable-textual-inversion)
-- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
-- [Microformats Wiki](http://microformats.org/wiki/Main_Page)
+- [Software Engineering Research Questions](https://neverworkintheory.org/2022/08/30/software-engineering-research-questions.html)
+- [Visual Studio Code is designed to fracture](https://ghuntley.com/fracture/)
+- [HashiCorp’s Multi-Product Strategy for Taking over a $630B Industry](https://foundationinc.co/lab/hashicorp-product-led-growth)
+- [DJI Drone Flies over the Top of Mount Everest](https://dronexl.co/2022/08/22/dji-mavic-3-flies-over-mount-everest/)
+- [Fed expects to launch long-awaited Faster Payments System by 2023](https://forkast.news/headlines/fed-faster-payments-system-by-2023/)
+- [Google Colab Pro is switching to compute credits](https://news.ycombinator.com/item?id=32656200)
+- [The Dynamic Runtime Inlining project](https://github.com/drti)
+- [Royal Caribbean to use SpaceX&#39;s Starlink to provide internet onboard their fleet](https://www.rclinvestor.com/press-releases/release/)
+- [Exploring 12M of the 2.3B images used to train Stable Diffusion](https://waxy.org/2022/08/exploring-12-million-of-the-images-used-to-train-stable-diffusions-image-generator/)
+- [Xcode Cloud overview](https://developer.apple.com/xcode-cloud/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

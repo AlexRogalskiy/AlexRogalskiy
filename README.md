@@ -415,16 +415,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Capstone Title](https://www.reddit.com/r/InformationTechnology/comments/x22j3s/capstone_title/)
+- [what to do after certification?](https://www.reddit.com/r/InformationTechnology/comments/x20uyd/what_to_do_after_certification/)
+- [Opinions on Coursera Google I.T. Course Specifically how is it seen on a resume?](https://www.reddit.com/r/InformationTechnology/comments/x1p8if/opinions_on_coursera_google_it_course/)
+- [W11 Desktop Icon change in appearance?](https://www.reddit.com/r/InformationTechnology/comments/x1lqhu/w11_desktop_icon_change_in_appearance/)
+- [hello, i have a simple question](https://www.reddit.com/r/InformationTechnology/comments/x1knqo/hello_i_have_a_simple_question/)
+- [How Can I Change My Job as a Digital Marketer ?](https://www.reddit.com/r/InformationTechnology/comments/x1k90x/how_can_i_change_my_job_as_a_digital_marketer/)
+- [SD-WAN solution for small business](https://www.reddit.com/r/InformationTechnology/comments/x1bj5n/sdwan_solution_for_small_business/)
 - [New to IT, looking for help with setting up my first server &lpar;HPE MicroSvr G10&rpar;](https://www.reddit.com/r/InformationTechnology/comments/x16d9m/new_to_it_looking_for_help_with_setting_up_my/)
 - [Software Dev or IT crossroads](https://www.reddit.com/r/InformationTechnology/comments/x149lz/software_dev_or_it_crossroads/)
 - [Getting out of military going to IT](https://www.reddit.com/r/InformationTechnology/comments/x0wudb/getting_out_of_military_going_to_it/)
-- [Choosing what to minor in.](https://www.reddit.com/r/InformationTechnology/comments/x0v9q5/choosing_what_to_minor_in/)
-- [40 years old and want to change to IT. Possible? Also questions.](https://www.reddit.com/r/InformationTechnology/comments/x0r2lp/40_years_old_and_want_to_change_to_it_possible/)
-- [In the future will there are no longer be markdown or text editors in the app stores of iOS and Android or any future mobile operating systems? Will they all be taken off or deleted from the app stores because the companies go out of business?](https://www.reddit.com/r/InformationTechnology/comments/x0qyp9/in_the_future_will_there_are_no_longer_be/)
-- [IP adress issue](https://www.reddit.com/r/InformationTechnology/comments/x0lo0v/ip_adress_issue/)
-- [Felon Friendly](https://www.reddit.com/r/InformationTechnology/comments/x0f8u2/felon_friendly/)
-- [What USB-C docks do you use?](https://www.reddit.com/r/InformationTechnology/comments/x06l4b/what_usbc_docks_do_you_use/)
-- [Any way of deploying a fresh version &lpar;un-setup&rpar; of windows 10 to multiple laptops quickly and easily?](https://www.reddit.com/r/InformationTechnology/comments/wzh3oh/any_way_of_deploying_a_fresh_version_unsetup_of/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

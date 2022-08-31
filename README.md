@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [People who publish open-source projects, what makes you confident to do that?](https://news.ycombinator.com/item?id=32646474)
-- [Ask HN: Which MOOCs in Math/CS are worth still worth taking in 2022?](https://news.ycombinator.com/item?id=32646440)
-- [The Caffeinated Lives of Bees &lpar;2015&rpar;](https://www.nytimes.com/2015/10/19/science/the-caffeinated-lives-of-bees.html)
-- [Gestalt – Pinterest’s Design System](https://gestalt.pinterest.systems/)
-- [C64 Theremin](http://www.linusakesson.net/hardware/theremin/index.php)
-- [New Zealand&#39;s plan to prepare for inevitable climate change impacts](https://www.rnz.co.nz/news/on-the-inside/472305/new-zealand-s-plan-to-prepare-for-inevitable-climate-change-impacts-five-areas-where-the-hard-work-starts-now)
-- [eBay locking accounts of users who sell over $600 till they submit SSN for IRS](https://twitter.com/ReOpenChris/status/1564343345383706624)
-- [August 2022 Newsletter: Investment Cycles](https://www.lynalden.com/august-2022-newsletter/)
-- [Ask HN: How have you gotten more paying customers?](https://news.ycombinator.com/item?id=32646248)
-- [The Greatest Grid – Master Plan of Manhattan](https://thegreatestgrid.mcny.org)
+- [Occupations by Gender Shares of Employment](https://web.archive.org/web/20190204074026/https://www.dol.gov/wb/stats/occ_gender_share_em_1020_txt.htm)
+- [First Jupiter Photo vs. James Webb’s Latest Shot](https://petapixel.com/2022/08/30/then-and-now-first-jupiter-photo-vs-james-webbs-latest-shot/)
+- [CBS4: KIA and Hyundai vehicles an easy target for thieves, thanks to social medi](https://www.cbsnews.com/colorado/news/kia-and-hyundai-vehicles-easy-target-thieves-social-media/)
+- [CA just voted to make it easier to add housing: will Bay Area cities build?](https://www.sfchronicle.com/bayarea/article/California-lawmakers-just-voted-to-make-it-easier-17406486.php)
+- [An Unofficial ‘Ubuntu Software’ App Is Better Than Ubuntu’s Actual One](https://www.omgubuntu.co.uk/2022/08/new-unofficial-ubuntu-software-app-flutter)
+- [Ask HN: What helped you get better at executing?](https://news.ycombinator.com/item?id=32658253)
+- [Musk files amendments seeking delay of Twitter trial to November](https://seekingalpha.com/news/3877938-musk-files-amendments-seeking-delay-of-twitter-trial-to-november)
+- [Toward Fearless Cargo Update](https://predr.ag/blog/toward-fearless-cargo-update/)
+- [Ask HN: How can I become a Forbes 30 under 30?](https://news.ycombinator.com/item?id=32658190)
+- [Twitter user arrested after criticizing El Salvador government](https://www.vice.com/en/article/m7g73q/el-salvador-nayib-bukele-arrested-man-twitter)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

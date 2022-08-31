@@ -355,6 +355,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
+- [How Apple is improving Mac device management in macOS 13](https://www.computerworld.com/article/3671810/how-apple-is-improving-mac-device-management-in-macos-13.html#tk.rss_all)
+- [Google Slides cheat sheet: How to get started](https://www.computerworld.com/article/3439078/how-to-use-google-slides.html#tk.rss_all)
 - [For most users, Windows 11 22H2 doesn’t move the needle](https://www.computerworld.com/article/3671335/for-most-users-windows-11-22h2-doesnt-move-the-needle.html#tk.rss_all)
 - [Facebook agrees to settle class action lawsuit related to Cambridge Analytica data breach](https://www.csoonline.com/article/3671333/facebook-agrees-to-settle-class-action-lawsuit-related-to-cambridge-analytica-data-breach.html#tk.rss_all)
 - [Why Apple is building two different smartglasses platforms](https://www.computerworld.com/article/3671130/why-apple-is-building-two-different-smartglasses-platforms.html#tk.rss_all)
@@ -362,9 +365,6 @@
 - [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [What is Managed Device Attestation on Apple platforms?](https://www.computerworld.com/article/3671132/what-is-managed-device-attestation-on-apple-platforms.html#tk.rss_all)
-- [The need to ‘work happy’](https://www.computerworld.com/article/3671150/the-need-to-work-happy.html#tk.rss_all)
-- [Planned ‘fixes’ for credit-card interchange fees will actually make fraud easier](https://www.computerworld.com/article/3671128/as-feds-eye-fixes-for-credit-card-interchanges-are-they-making-fraud-easier.html#tk.rss_all)
-- [Android, ChromeOS, and the future of app discovery](https://www.computerworld.com/article/3670754/android-chromeos-app-discovery.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

@@ -400,16 +400,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [A Computer Weekly buyer’s guide to customer and employee experience management](https://www.computerweekly.com/ehandbook/A-Computer-Weekly-buyers-guide-to-customer-and-employee-experience-management)
+- [IAM house Okta confirms 0ktapus/Scatter Swine attack](https://www.computerweekly.com/news/252524365/IAM-house-Okta-confirms-0ktapus-Scatter-Swine-attack)
+- [UK government presses on with new cyber rules for telcos](https://www.computerweekly.com/news/252524363/UK-government-presses-on-with-new-cyber-rules-for-telcos)
+- [LastPass breach limited in scale and well-managed, say experts](https://www.computerweekly.com/news/252524346/LastPass-breach-limited-in-scale-and-well-managed-say-experts)
+- [NetApp storage goes GA for VMware Cloud on AWS](https://www.computerweekly.com/news/252524251/NetApp-storage-goes-GA-for-VMware-Cloud-on-AWS)
+- [Confronting the unique challenges of hiring IT professionals in Saudi Arabia](https://www.computerweekly.com/news/252524355/Confronting-the-unique-challenges-of-hiring-IT-professionals-in-Saudi-Arabia)
+- [McKinsey advisory council highlights huge impact of tech on business](https://www.computerweekly.com/news/252524345/McKinsey-advisory-council-highlights-huge-impact-of-tech-on-business)
 - [CIOs: Geopolitics impacts your IT strategy](https://www.computerweekly.com/news/252524211/CIOs-Geopolitics-impacts-your-IT-strategy)
 - [Increase in number of girls taking GCSE computing exams in 2022](https://www.computerweekly.com/news/252524208/Increase-in-number-of-girls-taking-GCSE-computing-exams-in-2022)
 - [Criminal 0ktapus spoofed IAM firm in massive phishing attack](https://www.computerweekly.com/news/252524209/Criminal-0ktapus-spoofed-IAM-firm-in-massive-phishing-attack)
-- [James Hatch, BAE Systems: Computer Weekly Downtime Upload podcast](https://www.computerweekly.com/podcast/James-Hatch-BAE-Systems-Computer-Weekly-Downtime-Upload-podcast)
-- [HelloFresh serves up data insights to in-house tech team with Informatica’s help](https://www.computerweekly.com/news/252524162/HelloFresh-serves-up-data-insights-to-in-house-tech-team-with-Informaticas-help)
-- [Adaptive RedAlert, Monster ransomwares go cross-platform](https://www.computerweekly.com/news/252524203/Adaptive-RedAlert-Monster-ransomwares-go-cross-platform)
-- [Millions of Plex users may be at risk in password breach](https://www.computerweekly.com/news/252524197/Millions-of-Plex-users-may-be-at-risk-in-password-breach)
-- [CW Nordics: Norway struggles to keep up with demand for tech specialists](https://www.computerweekly.com/ezine/CW-Nordics/CW-Nordics-Norway-struggles-to-keep-up-with-demand-for-tech-specialists)
-- [Security pros fret about stress and promotion over cyber attacks](https://www.computerweekly.com/news/252524170/Security-pros-fret-about-stress-and-promotion-over-cyber-attacks)
-- [LockBit 3.0 cements dominance of ransomware ecosystem](https://www.computerweekly.com/news/252524163/LockBit-30-cements-dominance-of-ransomware-ecosystem)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

@@ -385,6 +385,9 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Microsoft adds container support to .NET SDK](https://www.infoworld.com/article/3671708/microsoft-adds-container-support-to-net-sdk.html#tk.rss_all)
+- [Automation is the ultimate cloud security tip](https://www.infoworld.com/article/3671356/automation-is-the-ultimate-cloud-security-tip.html#tk.rss_all)
+- [The benefits and challenges of event-driven architecture](https://www.infoworld.com/article/3669414/the-benefits-and-challenges-of-event-driven-architecture.html#tk.rss_all)
 - [TypeScript 4.8 shines on intersection and union types](https://www.infoworld.com/article/3664928/typescript-48-fixes-file-watching-on-linux-macos.html#tk.rss_all)
 - [Teradata launches VantageCloud Lake for ad-hoc analytics](https://www.infoworld.com/article/3671135/teradata-launches-vantagecloud-lake-for-ad-hoc-analytics.html#tk.rss_all)
 - [If Heroku is so special, why is it dying?](https://www.infoworld.com/article/3671355/if-heroku-is-so-special-why-is-it-dying.html#tk.rss_all)
@@ -392,9 +395,6 @@
 - [Give finops a say over cloud architecture decisions](https://www.infoworld.com/article/3671148/give-finops-a-say-over-cloud-architecture-decisions.html#tk.rss_all)
 - [What is JSON? The universal data format](https://www.infoworld.com/article/3222851/what-is-json-a-better-format-for-data-exchange.html#tk.rss_all)
 - [12 ggplot extensions for snazzier R graphics](https://www.infoworld.com/article/3667496/12-ggplot-extensions-for-snazzier-r-graphics.html#tk.rss_all)
-- [BrandPost: Reduce Time to Decision With the Databricks Lakehouse Platform and Latest Intel 3rd Gen Xeon Scalable Processors](https://www.infoworld.com/article/3670392/reduce-time-to-decision-with-the-databricks-lakehouse-platform-and-latest-intel-3rd-gen-xeon-scalab.html#tk.rss_all)
-- [Intro to Astro: Clever lazy loading for JavaScript](https://www.infoworld.com/article/3669877/intro-to-astro-clever-lazy-loading-for-javascript.html#tk.rss_all)
-- [Kestrel: The Microsoft web server you should be using](https://www.infoworld.com/article/3670792/kestrel-the-microsoft-web-server-you-should-be-using.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

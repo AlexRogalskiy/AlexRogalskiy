@@ -415,6 +415,9 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Different editions of the books, are they different?](https://www.reddit.com/r/InformationTechnology/comments/x2ur0o/different_editions_of_the_books_are_they_different/)
+- [Comptia A+ 901 vs 1001](https://www.reddit.com/r/InformationTechnology/comments/x2tbnz/comptia_a_901_vs_1001/)
+- [Friend was logged into laptop](https://www.reddit.com/r/InformationTechnology/comments/x2izmk/friend_was_logged_into_laptop/)
 - [Capstone Title](https://www.reddit.com/r/InformationTechnology/comments/x22j3s/capstone_title/)
 - [what to do after certification?](https://www.reddit.com/r/InformationTechnology/comments/x20uyd/what_to_do_after_certification/)
 - [Opinions on Coursera Google I.T. Course Specifically how is it seen on a resume?](https://www.reddit.com/r/InformationTechnology/comments/x1p8if/opinions_on_coursera_google_it_course/)
@@ -422,9 +425,6 @@
 - [hello, i have a simple question](https://www.reddit.com/r/InformationTechnology/comments/x1knqo/hello_i_have_a_simple_question/)
 - [How Can I Change My Job as a Digital Marketer ?](https://www.reddit.com/r/InformationTechnology/comments/x1k90x/how_can_i_change_my_job_as_a_digital_marketer/)
 - [SD-WAN solution for small business](https://www.reddit.com/r/InformationTechnology/comments/x1bj5n/sdwan_solution_for_small_business/)
-- [New to IT, looking for help with setting up my first server &lpar;HPE MicroSvr G10&rpar;](https://www.reddit.com/r/InformationTechnology/comments/x16d9m/new_to_it_looking_for_help_with_setting_up_my/)
-- [Software Dev or IT crossroads](https://www.reddit.com/r/InformationTechnology/comments/x149lz/software_dev_or_it_crossroads/)
-- [Getting out of military going to IT](https://www.reddit.com/r/InformationTechnology/comments/x0wudb/getting_out_of_military_going_to_it/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

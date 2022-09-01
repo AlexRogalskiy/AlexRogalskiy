@@ -385,16 +385,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [JDK 19: The new features in Java 19](https://www.infoworld.com/article/3653331/jdk-19-the-new-features-in-java-19.html#tk.rss_all)
+- [CodeSee launches enterprise plan with service maps](https://www.infoworld.com/article/3671988/codesee-launches-enterprise-plan-with-service-maps.html#tk.rss_all)
+- [Understand Visual Studio’s new extension model](https://www.infoworld.com/article/3671808/visual-studio-gets-a-new-extension-model.html#tk.rss_all)
+- [Use Cython to accelerate array iteration in NumPy](https://www.infoworld.com/article/3670116/use-cython-to-accelerate-array-iteration-in-numpy.html#tk.rss_all)
 - [Microsoft adds container support to .NET SDK](https://www.infoworld.com/article/3671708/microsoft-adds-container-support-to-net-sdk.html#tk.rss_all)
 - [Automation is the ultimate cloud security tip](https://www.infoworld.com/article/3671356/automation-is-the-ultimate-cloud-security-tip.html#tk.rss_all)
 - [The benefits and challenges of event-driven architecture](https://www.infoworld.com/article/3669414/the-benefits-and-challenges-of-event-driven-architecture.html#tk.rss_all)
 - [TypeScript 4.8 shines on intersection and union types](https://www.infoworld.com/article/3664928/typescript-48-fixes-file-watching-on-linux-macos.html#tk.rss_all)
 - [Teradata launches VantageCloud Lake for ad-hoc analytics](https://www.infoworld.com/article/3671135/teradata-launches-vantagecloud-lake-for-ad-hoc-analytics.html#tk.rss_all)
 - [If Heroku is so special, why is it dying?](https://www.infoworld.com/article/3671355/if-heroku-is-so-special-why-is-it-dying.html#tk.rss_all)
-- [TensorFlow, PyTorch, and JAX: Choosing a deep learning framework](https://www.infoworld.com/article/3670114/tensorflow-pytorch-and-jax-choosing-a-deep-learning-framework.html#tk.rss_all)
-- [Give finops a say over cloud architecture decisions](https://www.infoworld.com/article/3671148/give-finops-a-say-over-cloud-architecture-decisions.html#tk.rss_all)
-- [What is JSON? The universal data format](https://www.infoworld.com/article/3222851/what-is-json-a-better-format-for-data-exchange.html#tk.rss_all)
-- [12 ggplot extensions for snazzier R graphics](https://www.infoworld.com/article/3667496/12-ggplot-extensions-for-snazzier-r-graphics.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

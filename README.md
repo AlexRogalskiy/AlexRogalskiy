@@ -400,16 +400,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Burning up: Mitigation should sustain datacentre operations during extreme heat](https://www.computerweekly.com/feature/Burning-up-Mitigation-should-sustain-datacentre-operations-during-extreme-heat)
+- [Regional tech hub leaders want more support with levelling-up from next prime minister](https://www.computerweekly.com/news/252524422/Regional-tech-hub-leaders-want-more-support-with-levelling-up-from-next-Prime-Minister)
+- [Google debuts open source bug bounty programme](https://www.computerweekly.com/news/252524417/Google-debuts-open-source-bug-bounty-programme)
+- [VMware and IBM forge closer ties to build industry-specific hybrid cloud services](https://www.computerweekly.com/news/252524410/VMware-and-IBM-forge-closer-ties-to-build-industry-specific-hybrid-cloud-services)
+- [Norway has NOK200m plan to bolster cyber defences](https://www.computerweekly.com/news/252524358/Norway-has-NOK200m-plan-to-bolster-cyber-defences)
+- [NHS staff fall further behind amid ransomware attack](https://www.computerweekly.com/news/252524413/NHS-staff-fall-further-behind-amid-ransomware-attack)
+- [Quantum computing: Industrial opportunities](https://www.computerweekly.com/feature/Quantum-computing-industrial-opportunities)
+- [HPE supply chain issues drive up server prices](https://www.computerweekly.com/news/252524407/HPE-supply-chain-issues-drive-up-server-prices)
 - [A Computer Weekly buyer’s guide to customer and employee experience management](https://www.computerweekly.com/ehandbook/A-Computer-Weekly-buyers-guide-to-customer-and-employee-experience-management)
 - [IAM house Okta confirms 0ktapus/Scatter Swine attack](https://www.computerweekly.com/news/252524365/IAM-house-Okta-confirms-0ktapus-Scatter-Swine-attack)
-- [UK government presses on with new cyber rules for telcos](https://www.computerweekly.com/news/252524363/UK-government-presses-on-with-new-cyber-rules-for-telcos)
-- [LastPass breach limited in scale and well-managed, say experts](https://www.computerweekly.com/news/252524346/LastPass-breach-limited-in-scale-and-well-managed-say-experts)
-- [NetApp storage goes GA for VMware Cloud on AWS](https://www.computerweekly.com/news/252524251/NetApp-storage-goes-GA-for-VMware-Cloud-on-AWS)
-- [Confronting the unique challenges of hiring IT professionals in Saudi Arabia](https://www.computerweekly.com/news/252524355/Confronting-the-unique-challenges-of-hiring-IT-professionals-in-Saudi-Arabia)
-- [McKinsey advisory council highlights huge impact of tech on business](https://www.computerweekly.com/news/252524345/McKinsey-advisory-council-highlights-huge-impact-of-tech-on-business)
-- [CIOs: Geopolitics impacts your IT strategy](https://www.computerweekly.com/news/252524211/CIOs-Geopolitics-impacts-your-IT-strategy)
-- [Increase in number of girls taking GCSE computing exams in 2022](https://www.computerweekly.com/news/252524208/Increase-in-number-of-girls-taking-GCSE-computing-exams-in-2022)
-- [Criminal 0ktapus spoofed IAM firm in massive phishing attack](https://www.computerweekly.com/news/252524209/Criminal-0ktapus-spoofed-IAM-firm-in-massive-phishing-attack)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

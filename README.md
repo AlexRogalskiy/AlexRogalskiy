@@ -430,16 +430,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Laurentian Bank partners with Kyndryl for its cloud transformation journey](https://www.itworldcanada.com/article/laurentian-bank-partners-with-kyndryl-for-its-cloud-transformation-journey/500849)
+- [New VMware networking, security offerings targeted at multi-cloud world](https://www.itworldcanada.com/article/new-vmware-networking-security-offerings-targeted-at-multi-cloud-world/500660)
+- [VMware unveils new tools to drive autonomous workspaces](https://www.itworldcanada.com/article/vmware-unveils-new-tools-to-drive-autonomous-workspaces/500630)
+- [Sault Ste. Marie Transit Services partners with  Cubic’s Umo Mobility Platform](https://www.itworldcanada.com/article/sault-ste-marie-transit-services-partners-with-cubics-umo-mobility-platform/500809)
+- [Google expands bug bounty program to cover GitHub and other open source projects](https://www.itworldcanada.com/article/google-expands-bug-bounty-program-to-cover-github-and-other-open-source-projects/500722)
+- [Cyber Security Today, August 31, 2022 – Another email job scam, and how to celebrate International Women in Cyber Day](https://www.itworldcanada.com/article/cyber-security-today-august-31-2022-another-email-job-scam-and-how-to-celebrate-international-women-in-cyber-day/500703)
+- [Hashtag Trending August 31 – Qualcomm fine scrapped; Lastpass hacked; BlackBerry patent sale hangs](https://www.itworldcanada.com/article/hashtag-trending-august-31-qualcomm-fine-scrapped-lastpass-hacked-blackberry-patent-sale-hangs/500673)
 - [Digital identity verification spend to exceed $20 billion globally by 2027, study reveals](https://www.itworldcanada.com/article/digital-identity-verification-spend-to-exceed-20-billion-globally-by-2027-study-reveals/500593)
 - [Magnet announces advisory board with 15 Canadian leaders](https://www.itworldcanada.com/article/magnet-announces-advisory-board-with-15-canadian-leaders/500566)
 - [Deeper Dive: The Metaverse:  Episode 5 – Future Proofing and Resource Guide](https://www.itworldcanada.com/article/deeper-dive-the-metaverse-episode-5-future-proofing-and-resource-guide/499120)
-- [Deeper Dive:  The Metaverse:  Episode 4 – The incredible world of Second Life](https://www.itworldcanada.com/article/deeper-dive-the-metaverse-episode-4-the-incredible-world-of-second-life/499118)
-- [Deeper Dive: The Metaverse: Episode 3 – The map of the metaverse](https://www.itworldcanada.com/article/deeper-dive-the-metaverse-episode-3-the-map-of-the-metaverse/499116)
-- [Deeper Dive: The Metaverse:  Episode 2 – When will it arrive?](https://www.itworldcanada.com/article/deeper-dive-the-metaverse-episode-2-when-will-it-arrive/499113)
-- [Deeper Dive: The Metaverse:   Episode 1 – The future history of the metaverse](https://www.itworldcanada.com/article/deeper-dive-the-metaverse-episode-1-the-future-history-of-the-metaverse/499110)
-- [Coffee Briefing August 30, 2022 – CapIntel announces new partnership; Twitter adds new podcasting and audio features; Xero teams up with BBPA to launch scholarship; and more](https://www.itworldcanada.com/article/coffee-briefing-august-30-2022-capintel-announces-new-partnership-twitter-adds-new-podcasting-and-audio-features-xero-teams-up-with-bbpa-to-launch-scholarship-and-more/500382)
-- [Twilio attack shows weaknesses in multifactor authentication systems](https://www.itworldcanada.com/article/twilio-attack-shows-weaknesses-in-multifactor-authentication-systems/500449)
-- [The Impact of Exemplary Leadership](https://www.itworldcanada.com/article/the-impact-of-exemplary-leadership/500362)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

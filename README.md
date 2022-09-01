@@ -355,6 +355,8 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Addigy enables IT to automate Apple device configuration policies](https://www.computerworld.com/article/3671671/addigy-enables-it-to-automate-apple-device-configuration-policies.html#tk.rss_all)
+- [Got a Google Pixel? Flip this secret Android 13 switch](https://www.computerworld.com/article/3671357/google-pixel-android-13.html#tk.rss_all)
 - [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
 - [How Apple is improving Mac device management in macOS 13](https://www.computerworld.com/article/3671810/how-apple-is-improving-mac-device-management-in-macos-13.html#tk.rss_all)
 - [Google Slides cheat sheet: How to get started](https://www.computerworld.com/article/3439078/how-to-use-google-slides.html#tk.rss_all)
@@ -363,8 +365,6 @@
 - [Why Apple is building two different smartglasses platforms](https://www.computerworld.com/article/3671130/why-apple-is-building-two-different-smartglasses-platforms.html#tk.rss_all)
 - [How Generation Z workers are different from everyone else](https://www.computerworld.com/article/3671390/how-generation-z-workers-are-different-from-everybody-else.html#tk.rss_all)
 - [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [What is Managed Device Attestation on Apple platforms?](https://www.computerworld.com/article/3671132/what-is-managed-device-attestation-on-apple-platforms.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

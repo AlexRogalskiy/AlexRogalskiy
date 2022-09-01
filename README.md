@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Greece should face more checks over asylum seeker treatment – EU official](https://www.theguardian.com/world/2022/aug/31/greece-should-face-more-checks-over-asylum-seeker-treatment-eu-official)
-- [‘I was close to death’: Syrian man tells how Greek officials pushed refugees back out to sea](https://www.theguardian.com/world/2022/aug/31/i-was-close-to-death-syrian-man-tells-how-greek-officials-pushed-refugees-back-out-to-sea)
-- [‘A true man of peace’: what the papers say about the death of Mikhail Gorbachev](https://www.theguardian.com/world/2022/aug/31/a-true-man-of-peace-what-the-papers-say-about-the-death-of-mikhail-gorbachev)
-- [Emma Raducanu’s US Open defence ends early with defeat to Alizé Cornet](https://www.theguardian.com/sport/2022/aug/30/emma-raducanu-us-open-tennis-alize-cornet-result)
-- [How to cope with rising energy bills – podcast](https://www.theguardian.com/news/audio/2022/aug/31/how-to-cope-with-rising-energy-bills-podcast)
-- [Mikhail Gorbachev – a life in pictures](https://www.theguardian.com/world/gallery/2022/aug/31/mikhail-gorbachev-a-life-in-pictures)
-- [‘I thought I would die before this moment’: one man’s fight against Singapore’s gay sex law](https://www.theguardian.com/world/2022/aug/31/i-thought-i-would-die-before-this-moment-one-mans-fight-against-singapores-gay-sex-law)
-- [Nasa to try launching Artemis 1 mission again on Saturday](https://www.theguardian.com/science/2022/aug/30/nasa-to-try-launching-artemis-1-mission-again-on-saturday)
-- [Food banks warn surge in demand will prevent feeding hungriest this winter](https://www.theguardian.com/business/2022/aug/30/food-banks-warn-surge-in-demand-will-prevent-feeding-hungriest-this-winter)
-- [Venus Williams quiet on her future after first-round exit from US Open](https://www.theguardian.com/sport/2022/aug/30/iga-swiatek-cruises-past-jasmine-paolini-to-reach-us-open-second-round)
+- [Two Trump lawyers could be witnesses or targets in FBI investigation](https://www.theguardian.com/us-news/2022/aug/31/donald-trump-lawyers-christina-bobb-evan-corcoran)
+- [Culture this autumn: what to watch, read and listen to – podcast](https://www.theguardian.com/news/audio/2022/sep/01/culture-this-autumn-what-to-watch-read-and-listen-to-podcast)
+- [Serena Williams rolls back the years at US Open to beat No 2 seed Kontaveit](https://www.theguardian.com/sport/2022/aug/31/serena-williams-beats-anett-kontaveit-us-open-tennis-third-round)
+- [Suez Canal briefly blocked again after another ship, Affinity V, becomes stuck](https://www.theguardian.com/world/2022/sep/01/suez-canal-ship-stuck-blocked-again-affinity-v)
+- [Russia-Ukraine war latest: what we know on day 190 of the invasion](https://www.theguardian.com/world/2022/sep/01/russia-ukraine-war-latest-what-we-know-on-day-190-of-the-invasion)
+- [Shamima Begum: Justin Trudeau to ‘follow up’ Canadian spy claim](https://www.theguardian.com/uk-news/2022/sep/01/shamima-begum-justin-trudeau-to-follow-up-canadian-spy-claim)
+- [China’s treatment of Uyghurs may be crime against humanity, says UN human rights chief](https://www.theguardian.com/world/2022/aug/31/china-uyghur-muslims-xinjiang-michelle-bachelet-un)
+- [Transfer news: Chelsea make second Aubameyang bid as £75m Fofana arrives](https://www.theguardian.com/football/2022/aug/31/transfer-latest-leicester-boga-everton-garner-manchester-united)
+- [Cold homes will cost children’s lives and cause long-term damage, warn experts](https://www.theguardian.com/society/2022/sep/01/cold-homes-will-cost-childrens-lives-and-cause-long-term-damage-warn-experts)
+- [‘It’s cold, it’s mouldy, we’re ill non-stop’: the UK families living in fear of winter](https://www.theguardian.com/business/2022/sep/01/its-cold-its-mouldy-were-ill-non-stop-the-uk-families-living-in-fear-of-winter)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

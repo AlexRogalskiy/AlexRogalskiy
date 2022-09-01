@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Occupations by Gender Shares of Employment](https://web.archive.org/web/20190204074026/https://www.dol.gov/wb/stats/occ_gender_share_em_1020_txt.htm)
-- [First Jupiter Photo vs. James Webb’s Latest Shot](https://petapixel.com/2022/08/30/then-and-now-first-jupiter-photo-vs-james-webbs-latest-shot/)
-- [CBS4: KIA and Hyundai vehicles an easy target for thieves, thanks to social medi](https://www.cbsnews.com/colorado/news/kia-and-hyundai-vehicles-easy-target-thieves-social-media/)
-- [CA just voted to make it easier to add housing: will Bay Area cities build?](https://www.sfchronicle.com/bayarea/article/California-lawmakers-just-voted-to-make-it-easier-17406486.php)
-- [An Unofficial ‘Ubuntu Software’ App Is Better Than Ubuntu’s Actual One](https://www.omgubuntu.co.uk/2022/08/new-unofficial-ubuntu-software-app-flutter)
-- [Ask HN: What helped you get better at executing?](https://news.ycombinator.com/item?id=32658253)
-- [Musk files amendments seeking delay of Twitter trial to November](https://seekingalpha.com/news/3877938-musk-files-amendments-seeking-delay-of-twitter-trial-to-november)
-- [Toward Fearless Cargo Update](https://predr.ag/blog/toward-fearless-cargo-update/)
-- [Ask HN: How can I become a Forbes 30 under 30?](https://news.ycombinator.com/item?id=32658190)
-- [Twitter user arrested after criticizing El Salvador government](https://www.vice.com/en/article/m7g73q/el-salvador-nayib-bukele-arrested-man-twitter)
+- [Using DALLE2 to recreate Magic card art](https://dalle2blog.blogspot.com/2022/08/using-dalle2-to-recreate-magic-card-art.html)
+- [A substantial stratospheric cooling event is now being observed](https://www.severe-weather.eu/global-weather/cold-anomaly-stratosphere-polar-vortex-volcanic-cooling-winter-influence-fa/)
+- [Converging on Declarative Data Materialization](https://www.bitsondisk.com/writing/2022/convergent-data-materialization/)
+- [The only woman at D-Day: What Martha Gellhorn&#39;s letters reveal about her](https://www.cbc.ca/radio/day6/king-tides-impeach-o-meter-frosty-at-50-lindy-west-k-pop-deaths-and-mental-health-martha-gellhorn-more-1.5384775/the-only-woman-at-d-day-what-martha-gellhorn-s-letters-reveal-about-the-trailblazing-war-correspondent-1.5384779)
+- [Highest Jumping Robot](https://www.youtube.com/watch?v=daaDuC1kbds)
+- [Delhi High Court to Telegram: ‘Server in Singapore’ Is No Excuse](https://timesofindia.indiatimes.com/gadgets-news/delhi-high-court-to-telegram-server-in-singapore-is-no-excuse/articleshow/93915591.cms)
+- [Silicon Zanzibar](https://www.thecitizen.co.tz/tanzania/news/national/government-launches-silicon-zanzibar-initiative-with-wasoko-3932592)
+- [What does Google say about “last day of march 2022”](https://www.google.com/search?q=last+day+of+march+2022)
+- [Space Engine: Volumetric Accretion Disks](https://spaceengine.org/news/blog220830/)
+- [Compressing Images with Stable Diffusion](https://www.stavros.io/posts/compressing-images-with-stable-diffusion/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

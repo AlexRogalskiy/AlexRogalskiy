@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Software Engineering Research Questions](https://neverworkintheory.org/2022/08/30/software-engineering-research-questions.html)
-- [Visual Studio Code is designed to fracture](https://ghuntley.com/fracture/)
-- [HashiCorp’s Multi-Product Strategy for Taking over a $630B Industry](https://foundationinc.co/lab/hashicorp-product-led-growth)
-- [DJI Drone Flies over the Top of Mount Everest](https://dronexl.co/2022/08/22/dji-mavic-3-flies-over-mount-everest/)
-- [Fed expects to launch long-awaited Faster Payments System by 2023](https://forkast.news/headlines/fed-faster-payments-system-by-2023/)
-- [Google Colab Pro is switching to compute credits](https://news.ycombinator.com/item?id=32656200)
-- [The Dynamic Runtime Inlining project](https://github.com/drti)
-- [Royal Caribbean to use SpaceX&#39;s Starlink to provide internet onboard their fleet](https://www.rclinvestor.com/press-releases/release/)
-- [Exploring 12M of the 2.3B images used to train Stable Diffusion](https://waxy.org/2022/08/exploring-12-million-of-the-images-used-to-train-stable-diffusions-image-generator/)
-- [Xcode Cloud overview](https://developer.apple.com/xcode-cloud/)
+- [What does Google say about “last day of march 2022”](https://www.google.com/search?q=last+day+of+march+2022)
+- [Compressing Images with Stable Diffusion](https://www.stavros.io/posts/compressing-images-with-stable-diffusion/)
+- [California Approves Bill to Punish Doctors Who Spread False Information](https://www.nytimes.com/2022/08/29/technology/california-doctors-covid-misinformation.html)
+- [An acoustic study of domestic cat meows in 6 contexts and 4 mental states](https://peerj.com/preprints/27926/)
+- [Random Google Street View](https://randomstreetview.com/)
+- [The Dictatorship of the Articulate](https://florentcrivello.com/index.php/2022/09/01/the-dictatorship-of-the-articulate/)
+- [Scientific grant applications are getting heavier on hype](https://www.statnews.com/2022/08/30/science-grant-nih-hype-application/)
+- [Fylm: Web&#39;s most advanced colour corrector](https://fylm.ai/)
+- [Former world champion reveals that she was ordered to lose Olympic semi-final](https://sport.tv2.dk/badminton/2022-08-27-former-world-champion-reveals-that-she-was-ordered-to-lose-olympic-semi-final)
+- [Dear Linux, Privileged Ports Must Die](https://ar.al/2022/08/30/dear-linux-privileged-ports-must-die/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

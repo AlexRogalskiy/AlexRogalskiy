@@ -370,6 +370,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [How to Logically Evaluate an IT Job Offer](https://www.informationweek.com/it-life/how-to-logically-evaluate-an-it-job-offer)
+- [Why CIOs Need to Be Even More Dominant in the C-Suite Right Now](https://www.informationweek.com/strategic-cio/communication-leadership-skills-come-to-fore-among-cios)
+- [Is Your Business Prepared to Operate After a Ransomware Attack?](https://www.informationweek.com/security-and-risk-strategy/is-your-business-prepared-to-operate-after-a-ransomware-attack-)
 - [What You Need to Know About Web3](https://www.informationweek.com/big-data/what-you-need-to-know-about-web3)
 - [August 2022 Global Tech Policy Bulletin: From Trouble in Taiwan to Intrigue at the FTC](https://www.informationweek.com/government/august-2022-global-tech-policy-bulletin-from-trouble-in-taiwan-to-intrigue-at-the-ftc)
 - [How Observability Can Help Manage Complex IT Networks](https://www.informationweek.com/strategic-cio/how-observability-can-help-manage-complex-it-networks)
@@ -377,9 +380,6 @@
 - [How to Transition to the Cloud](https://www.informationweek.com/cloud/how-to-transition-to-the-cloud)
 - [Why Migrating a Database to the Cloud is Like a Heart Transplant](https://www.informationweek.com/cloud/why-migrating-a-database-to-the-cloud-is-like-a-heart-transplant)
 - [How to Save Yourself From Vendor Lock-in and a Cloud Mess](https://www.informationweek.com/cloud/how-to-save-yourself-from-vendor-lock-in-and-a-cloud-mess)
-- [How to Implement AIOps for SD-WAN in Your Network](https://www.informationweek.com/palo-alto-networks/how-to-implement-aiops-for-sd-wan-in-your-network)
-- [Quick Study:  Finding the Right Data](https://www.informationweek.com/big-data/quick-study-finding-the-right-data)
-- [3 Ways to Keep Software Installations and Upgrades Under Control](https://www.informationweek.com/software/3-ways-to-keep-software-installations-and-upgrades-under-control)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

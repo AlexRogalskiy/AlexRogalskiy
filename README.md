@@ -430,16 +430,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [AMD announces Ryzen 7000 series desktop processors, new AM5 socket, and new motherboard chipsets](https://www.itworldcanada.com/article/amd-announces-ryzen-7000-series-desktop-processors-new-am5-socket-and-new-motherboard-chipsets/500514)
+- [Soil mapping advances: Helping farmers one acre at a time](https://www.itworldcanada.com/article/soil-mapping-advances-helping-farmers-one-acre-at-a-time/500980)
+- [International Women in Cyber Day advice: Just say ‘yes’](https://www.itworldcanada.com/article/international-women-in-cyber-day-advice-just-say-yes/500901)
+- [Hashtag Trending September 1 – Truth Social not been approved by Google Play; Military AI startups are growing; LG’s new bendable OLED TV](https://www.itworldcanada.com/article/hashtag-trending-september-1-truth-social-not-been-approved-by-google-play-military-ai-startups-are-growing-lgs-new-bendable-oled-tv/500953)
 - [Laurentian Bank partners with Kyndryl for its cloud transformation journey](https://www.itworldcanada.com/article/laurentian-bank-partners-with-kyndryl-for-its-cloud-transformation-journey/500849)
 - [New VMware networking, security offerings targeted at multi-cloud world](https://www.itworldcanada.com/article/new-vmware-networking-security-offerings-targeted-at-multi-cloud-world/500660)
 - [VMware unveils new tools to drive autonomous workspaces](https://www.itworldcanada.com/article/vmware-unveils-new-tools-to-drive-autonomous-workspaces/500630)
 - [Sault Ste. Marie Transit Services partners with  Cubic’s Umo Mobility Platform](https://www.itworldcanada.com/article/sault-ste-marie-transit-services-partners-with-cubics-umo-mobility-platform/500809)
 - [Google expands bug bounty program to cover GitHub and other open source projects](https://www.itworldcanada.com/article/google-expands-bug-bounty-program-to-cover-github-and-other-open-source-projects/500722)
 - [Cyber Security Today, August 31, 2022 – Another email job scam, and how to celebrate International Women in Cyber Day](https://www.itworldcanada.com/article/cyber-security-today-august-31-2022-another-email-job-scam-and-how-to-celebrate-international-women-in-cyber-day/500703)
-- [Hashtag Trending August 31 – Qualcomm fine scrapped; Lastpass hacked; BlackBerry patent sale hangs](https://www.itworldcanada.com/article/hashtag-trending-august-31-qualcomm-fine-scrapped-lastpass-hacked-blackberry-patent-sale-hangs/500673)
-- [Digital identity verification spend to exceed $20 billion globally by 2027, study reveals](https://www.itworldcanada.com/article/digital-identity-verification-spend-to-exceed-20-billion-globally-by-2027-study-reveals/500593)
-- [Magnet announces advisory board with 15 Canadian leaders](https://www.itworldcanada.com/article/magnet-announces-advisory-board-with-15-canadian-leaders/500566)
-- [Deeper Dive: The Metaverse:  Episode 5 – Future Proofing and Resource Guide](https://www.itworldcanada.com/article/deeper-dive-the-metaverse-episode-5-future-proofing-and-resource-guide/499120)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

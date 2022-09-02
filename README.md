@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Apple pushes out emergency updates to address zero-day exploits](https://www.computerworld.com/article/3672111/apple-pushes-out-emergency-updates-to-address-zero-day-exploits.html#tk.rss_all)
+- [Podcast: Far Out up close — previewing Apple&#39;s big iPhone event](https://www.computerworld.com/article/3672431/podcast-far-out-up-close-previewing-apples-big-iphone-event.html#tk.rss_all)
+- [Will Apple make the App Store &lpar;more&rpar; business-friendly?](https://www.computerworld.com/article/3672238/will-apple-make-the-app-store-more-business-friendly.html#tk.rss_all)
+- [How to build a ‘citizen developer’ workforce](https://www.computerworld.com/article/3672108/how-to-build-a-citizen-development-workforce.html#tk.rss_all)
+- [Blockchain, AI, and the metaverse — tools for better decision-making?](https://www.computerworld.com/article/3672428/blockchain-ai-and-the-metaverse-tools-for-better-decision-making.html#tk.rss_all)
 - [Addigy enables IT to automate Apple device configuration policies](https://www.computerworld.com/article/3671671/addigy-enables-it-to-automate-apple-device-configuration-policies.html#tk.rss_all)
 - [Got a Google Pixel? Flip this secret Android 13 switch](https://www.computerworld.com/article/3671357/google-pixel-android-13.html#tk.rss_all)
 - [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
 - [How Apple is improving Mac device management in macOS 13](https://www.computerworld.com/article/3671810/how-apple-is-improving-mac-device-management-in-macos-13.html#tk.rss_all)
 - [Google Slides cheat sheet: How to get started](https://www.computerworld.com/article/3439078/how-to-use-google-slides.html#tk.rss_all)
-- [For most users, Windows 11 22H2 doesn’t move the needle](https://www.computerworld.com/article/3671335/for-most-users-windows-11-22h2-doesnt-move-the-needle.html#tk.rss_all)
-- [Facebook agrees to settle class action lawsuit related to Cambridge Analytica data breach](https://www.csoonline.com/article/3671333/facebook-agrees-to-settle-class-action-lawsuit-related-to-cambridge-analytica-data-breach.html#tk.rss_all)
-- [Why Apple is building two different smartglasses platforms](https://www.computerworld.com/article/3671130/why-apple-is-building-two-different-smartglasses-platforms.html#tk.rss_all)
-- [How Generation Z workers are different from everyone else](https://www.computerworld.com/article/3671390/how-generation-z-workers-are-different-from-everybody-else.html#tk.rss_all)
-- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

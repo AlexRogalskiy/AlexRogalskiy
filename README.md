@@ -400,16 +400,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Burning up: Mitigation should sustain datacentre operations during extreme heat](https://www.computerweekly.com/feature/Burning-up-Mitigation-should-sustain-datacentre-operations-during-extreme-heat)
-- [Regional tech hub leaders want more support with levelling-up from next prime minister](https://www.computerweekly.com/news/252524422/Regional-tech-hub-leaders-want-more-support-with-levelling-up-from-next-Prime-Minister)
-- [Google debuts open source bug bounty programme](https://www.computerweekly.com/news/252524417/Google-debuts-open-source-bug-bounty-programme)
-- [VMware and IBM forge closer ties to build industry-specific hybrid cloud services](https://www.computerweekly.com/news/252524410/VMware-and-IBM-forge-closer-ties-to-build-industry-specific-hybrid-cloud-services)
-- [Norway has NOK200m plan to bolster cyber defences](https://www.computerweekly.com/news/252524358/Norway-has-NOK200m-plan-to-bolster-cyber-defences)
-- [NHS staff fall further behind amid ransomware attack](https://www.computerweekly.com/news/252524413/NHS-staff-fall-further-behind-amid-ransomware-attack)
-- [Quantum computing: Industrial opportunities](https://www.computerweekly.com/feature/Quantum-computing-industrial-opportunities)
-- [HPE supply chain issues drive up server prices](https://www.computerweekly.com/news/252524407/HPE-supply-chain-issues-drive-up-server-prices)
-- [A Computer Weekly buyer’s guide to customer and employee experience management](https://www.computerweekly.com/ehandbook/A-Computer-Weekly-buyers-guide-to-customer-and-employee-experience-management)
-- [IAM house Okta confirms 0ktapus/Scatter Swine attack](https://www.computerweekly.com/news/252524365/IAM-house-Okta-confirms-0ktapus-Scatter-Swine-attack)
+- [Police interview Horizon scandal victim in investigation into potential perjury by Fujitsu staff](https://www.computerweekly.com/news/252524481/Police-interview-Horizon-scandal-victim-in-investigation-into-potential-perjury-by-Fujitsu-staff)
+- [Voting open: Who should be the 2022 Most Influential Woman in UK Tech?](https://www.computerweekly.com/news/252524478/Voting-open-Who-should-be-the-2022-Most-Influential-Woman-in-UK-Tech)
+- [Space nerds beware: James Webb images used to spread malware](https://www.computerweekly.com/news/252524474/Space-nerds-beware-James-Webb-images-used-to-spread-malware)
+- [Local authorities experience 10,000 attempted cyber attacks every day](https://www.computerweekly.com/news/252524477/Local-authorities-experience-10000-attempted-cyber-attacks-every-day)
+- [Swedish Electronics Protection Act coincides with major cyber spend](https://www.computerweekly.com/news/252524471/Swedish-electronics-protection-act-coincides-with-major-cyber-spend)
+- [New &lpar;ISC&rpar;² cyber careers schemes go live](https://www.computerweekly.com/news/252524472/New-ISC-cyber-careers-schemes-go-live)
+- [Google workers oppose cloud contract with Israeli government](https://www.computerweekly.com/news/252524426/Google-workers-oppose-cloud-contract-with-Israeli-government)
+- [Podcast: Storage the key bottleneck for AI processing](https://www.computerweekly.com/podcast/Podcast-Storage-the-key-bottleneck-for-AI-processing)
+- [Arm sues Qualcomm over Nuvia tie-up](https://www.computerweekly.com/news/252524468/Arm-sues-Qualcomm-over-Nuvia-tie-up)
+- [Security Think Tank: Effective DevSecOps requires collaboration](https://www.computerweekly.com/opinion/Security-Think-Tank-Effective-DevSecOps-requires-collaboration)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

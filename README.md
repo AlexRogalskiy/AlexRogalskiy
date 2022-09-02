@@ -385,6 +385,8 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [How to version minimal APIs in ASP.NET Core 6](https://www.infoworld.com/article/3671870/how-to-version-minimal-apis-in-aspnet-core-6.html#tk.rss_all)
+- [Intro to blockchain consensus mechanisms](https://www.infoworld.com/article/3669316/intro-to-blockchain-consensus-mechanisms.html#tk.rss_all)
 - [JDK 19: The new features in Java 19](https://www.infoworld.com/article/3653331/jdk-19-the-new-features-in-java-19.html#tk.rss_all)
 - [CodeSee launches enterprise plan with service maps](https://www.infoworld.com/article/3671988/codesee-launches-enterprise-plan-with-service-maps.html#tk.rss_all)
 - [Understand Visual Studio’s new extension model](https://www.infoworld.com/article/3671808/visual-studio-gets-a-new-extension-model.html#tk.rss_all)
@@ -393,8 +395,6 @@
 - [Automation is the ultimate cloud security tip](https://www.infoworld.com/article/3671356/automation-is-the-ultimate-cloud-security-tip.html#tk.rss_all)
 - [The benefits and challenges of event-driven architecture](https://www.infoworld.com/article/3669414/the-benefits-and-challenges-of-event-driven-architecture.html#tk.rss_all)
 - [TypeScript 4.8 shines on intersection and union types](https://www.infoworld.com/article/3664928/typescript-48-fixes-file-watching-on-linux-macos.html#tk.rss_all)
-- [Teradata launches VantageCloud Lake for ad-hoc analytics](https://www.infoworld.com/article/3671135/teradata-launches-vantagecloud-lake-for-ad-hoc-analytics.html#tk.rss_all)
-- [If Heroku is so special, why is it dying?](https://www.infoworld.com/article/3671355/if-heroku-is-so-special-why-is-it-dying.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

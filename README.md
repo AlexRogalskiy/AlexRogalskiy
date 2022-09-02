@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Two Trump lawyers could be witnesses or targets in FBI investigation](https://www.theguardian.com/us-news/2022/aug/31/donald-trump-lawyers-christina-bobb-evan-corcoran)
-- [Culture this autumn: what to watch, read and listen to – podcast](https://www.theguardian.com/news/audio/2022/sep/01/culture-this-autumn-what-to-watch-read-and-listen-to-podcast)
-- [Serena Williams rolls back the years at US Open to beat No 2 seed Kontaveit](https://www.theguardian.com/sport/2022/aug/31/serena-williams-beats-anett-kontaveit-us-open-tennis-third-round)
-- [Suez Canal briefly blocked again after another ship, Affinity V, becomes stuck](https://www.theguardian.com/world/2022/sep/01/suez-canal-ship-stuck-blocked-again-affinity-v)
-- [Russia-Ukraine war latest: what we know on day 190 of the invasion](https://www.theguardian.com/world/2022/sep/01/russia-ukraine-war-latest-what-we-know-on-day-190-of-the-invasion)
-- [Shamima Begum: Justin Trudeau to ‘follow up’ Canadian spy claim](https://www.theguardian.com/uk-news/2022/sep/01/shamima-begum-justin-trudeau-to-follow-up-canadian-spy-claim)
-- [China’s treatment of Uyghurs may be crime against humanity, says UN human rights chief](https://www.theguardian.com/world/2022/aug/31/china-uyghur-muslims-xinjiang-michelle-bachelet-un)
-- [Transfer news: Chelsea make second Aubameyang bid as £75m Fofana arrives](https://www.theguardian.com/football/2022/aug/31/transfer-latest-leicester-boga-everton-garner-manchester-united)
-- [Cold homes will cost children’s lives and cause long-term damage, warn experts](https://www.theguardian.com/society/2022/sep/01/cold-homes-will-cost-childrens-lives-and-cause-long-term-damage-warn-experts)
-- [‘It’s cold, it’s mouldy, we’re ill non-stop’: the UK families living in fear of winter](https://www.theguardian.com/business/2022/sep/01/its-cold-its-mouldy-were-ill-non-stop-the-uk-families-living-in-fear-of-winter)
+- [Iran nuclear deal: US dismisses latest move from Tehran as ‘not constructive’](https://www.theguardian.com/world/2022/sep/02/iran-nuclear-deal-tehran-says-it-is-finalising-negotiations-with-latest-eu-document)
+- [‘Sorry we beat them’: Czech pair send Williamses into probable doubles retirement](https://www.theguardian.com/sport/2022/sep/01/sorry-we-beat-them-czech-pair-send-williamses-into-probable-doubles-retirement)
+- [Cristina Fernández de Kirchner: man detained after pointing gun at Argentina vice-president](https://www.theguardian.com/world/2022/sep/02/cristina-kirchner-argentina-vice-president-man-detained-gun)
+- [Will Chileans vote for one of the world’s most progressive constitutions?](https://www.theguardian.com/news/audio/2022/sep/02/will-chileans-vote-for-one-of-the-worlds-most-progressive-constitutions)
+- [Australia raises permanent migration cap to 195,000 to ease workforce shortages](https://www.theguardian.com/australia-news/2022/sep/02/australia-raises-permanent-migration-cap-to-195000-to-ease-workforce-shortages)
+- [The Lord of the Rings: The Rings of Power recap episodes one and two – like no TV you’ve seen before](https://www.theguardian.com/tv-and-radio/2022/sep/02/the-lord-of-the-rings-the-rings-of-power-recap-episodes-one-and-two-like-no-tv-youve-seen-before)
+- [Russia-Ukraine war latest: what we know on day 191 of the invasion](https://www.theguardian.com/world/2022/sep/02/russia-ukraine-war-latest-what-we-know-on-day-191-of-the-invasion)
+- [Chelsea finally confirm Aubameyang and Zakaria deals after window closes](https://www.theguardian.com/football/2022/sep/02/chelsea-sign-aubameyang-from-barcelona-and-move-for-zakaria)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/blog/2022/sep/02/premier-league-10-things-to-look-out-for-this-weekend)
+- [Women’s Super League 2022-23 previews No 1: Arsenal](https://www.theguardian.com/football/2022/sep/02/women-super-league-2022-23-previews-no-1-arsenal)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

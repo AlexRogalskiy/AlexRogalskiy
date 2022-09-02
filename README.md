@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Using DALLE2 to recreate Magic card art](https://dalle2blog.blogspot.com/2022/08/using-dalle2-to-recreate-magic-card-art.html)
-- [A substantial stratospheric cooling event is now being observed](https://www.severe-weather.eu/global-weather/cold-anomaly-stratosphere-polar-vortex-volcanic-cooling-winter-influence-fa/)
-- [Converging on Declarative Data Materialization](https://www.bitsondisk.com/writing/2022/convergent-data-materialization/)
-- [The only woman at D-Day: What Martha Gellhorn&#39;s letters reveal about her](https://www.cbc.ca/radio/day6/king-tides-impeach-o-meter-frosty-at-50-lindy-west-k-pop-deaths-and-mental-health-martha-gellhorn-more-1.5384775/the-only-woman-at-d-day-what-martha-gellhorn-s-letters-reveal-about-the-trailblazing-war-correspondent-1.5384779)
-- [Highest Jumping Robot](https://www.youtube.com/watch?v=daaDuC1kbds)
-- [Delhi High Court to Telegram: ‘Server in Singapore’ Is No Excuse](https://timesofindia.indiatimes.com/gadgets-news/delhi-high-court-to-telegram-server-in-singapore-is-no-excuse/articleshow/93915591.cms)
-- [Silicon Zanzibar](https://www.thecitizen.co.tz/tanzania/news/national/government-launches-silicon-zanzibar-initiative-with-wasoko-3932592)
-- [What does Google say about “last day of march 2022”](https://www.google.com/search?q=last+day+of+march+2022)
-- [Space Engine: Volumetric Accretion Disks](https://spaceengine.org/news/blog220830/)
-- [Compressing Images with Stable Diffusion](https://www.stavros.io/posts/compressing-images-with-stable-diffusion/)
+- [Binary Golf Grand Prix 3 &lpar;6/17 - 8/19/22&rpar;](https://tmpout.sh/bggp/3/)
+- [Apple Storefronts](https://applestorefronts.appspot.com/)
+- [Color Diffusion – 2,331 color names run through Stable Diffusion](https://www.diffusion.gg)
+- [GitHub Trending tab is being deprecated, no longer available beginning 30/9/2022](https://github.com/trending)
+- [Ask HN: Identify duplicate files in my data hoard?](https://news.ycombinator.com/item?id=32686357)
+- [A Quick Dive into WebP](https://thoughts.greyh.at/posts/webp/)
+- [The Database CI/CD Best Practice with GitHub](https://www.bytebase.com/blog/database-cicd-best-practice-with-github)
+- [Online Circuit Simulator](https://dcaclab.com/)
+- [How Long Should a Cold Email Be?](https://nureply.com/blog/how-long-should-a-cold-email-be)
+- [Berners Street Hoax](https://en.wikipedia.org/wiki/Berners_Street_hoax)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

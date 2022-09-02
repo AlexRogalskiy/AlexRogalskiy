@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [What does Google say about “last day of march 2022”](https://www.google.com/search?q=last+day+of+march+2022)
-- [Compressing Images with Stable Diffusion](https://www.stavros.io/posts/compressing-images-with-stable-diffusion/)
-- [California Approves Bill to Punish Doctors Who Spread False Information](https://www.nytimes.com/2022/08/29/technology/california-doctors-covid-misinformation.html)
-- [An acoustic study of domestic cat meows in 6 contexts and 4 mental states](https://peerj.com/preprints/27926/)
-- [Random Google Street View](https://randomstreetview.com/)
-- [The Dictatorship of the Articulate](https://florentcrivello.com/index.php/2022/09/01/the-dictatorship-of-the-articulate/)
-- [Scientific grant applications are getting heavier on hype](https://www.statnews.com/2022/08/30/science-grant-nih-hype-application/)
-- [Fylm: Web&#39;s most advanced colour corrector](https://fylm.ai/)
-- [Former world champion reveals that she was ordered to lose Olympic semi-final](https://sport.tv2.dk/badminton/2022-08-27-former-world-champion-reveals-that-she-was-ordered-to-lose-olympic-semi-final)
-- [Dear Linux, Privileged Ports Must Die](https://ar.al/2022/08/30/dear-linux-privileged-ports-must-die/)
+- [Responding to recruiter emails with GPT-3](https://matthewbilyeu.com/blog/2022-09-01/responding-to-recruiter-emails-with-gpt-3)
+- [Why bother with warrants when cops can buy location data for under $10k?](https://www.theregister.com/2022/09/01/eff_fog_data_broker/)
+- [Notes on the SQLite DuckDB Paper](https://simonwillison.net/2022/Sep/1/sqlite-duckdb-paper/)
+- [Framework is now available in Australia](https://frame.work/au/en)
+- [Not Your Grandmother&#39;s Textbook Exercise](https://cacm.acm.org/blogs/blog-cacm/264263-not-your-grandmothers-textbook-exercise/fulltext)
+- [We clone a running VM in 2 seconds](https://codesandbox.io/post/how-we-clone-a-running-vm-in-2-seconds)
+- [USB 4 version 2 promises 80 Gbps speeds over existing cables](https://www.theverge.com/2022/9/1/23332838/usb-4-version-2-80-gbps-thunderbolt)
+- [Bibliogram, Open-source front-end for Instagram, is being discontinued](https://cadence.moe/blog/2022-09-01-discontinuing-bibliogram)
+- [Crystal Programming Language](https://crystal-lang.org/)
+- [TaxProper &lpar;YC S19&rpar; Is Hiring](https://taxproper.notion.site/TaxProper-is-Hiring-an-Operations-Analyst-781f129af8924b9096a28cb4960bea8d)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

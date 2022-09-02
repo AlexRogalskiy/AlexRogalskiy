@@ -415,16 +415,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [hello i need help,. Draw a flowchart to represent the logic of a program that allows the user to enter two values. The program outputs the product of the two values.](https://www.reddit.com/r/InformationTechnology/comments/x3qdfk/hello_i_need_help_draw_a_flowchart_to_represent/)
+- [Can&#39;t connect TV to my PC](https://www.reddit.com/r/InformationTechnology/comments/x3f1aa/cant_connect_tv_to_my_pc/)
+- [HELP Im trying to pursue IT but i have no idea where to start](https://www.reddit.com/r/InformationTechnology/comments/x3bhlz/help_im_trying_to_pursue_it_but_i_have_no_idea/)
+- [r/collapse talks about dying internet, how accurate is this?](https://www.reddit.com/r/InformationTechnology/comments/x36kco/rcollapse_talks_about_dying_internet_how_accurate/)
+- [I&#39;ve seen a lot of IT product development in Healthcare processes and that&#39;s what I realized](https://www.reddit.com/r/InformationTechnology/comments/x33hk0/ive_seen_a_lot_of_it_product_development_in/)
+- [Hardware Advice Needed](https://www.reddit.com/r/InformationTechnology/comments/x2xw8t/hardware_advice_needed/)
 - [Different editions of the books, are they different?](https://www.reddit.com/r/InformationTechnology/comments/x2ur0o/different_editions_of_the_books_are_they_different/)
 - [Comptia A+ 901 vs 1001](https://www.reddit.com/r/InformationTechnology/comments/x2tbnz/comptia_a_901_vs_1001/)
 - [Friend was logged into laptop](https://www.reddit.com/r/InformationTechnology/comments/x2izmk/friend_was_logged_into_laptop/)
 - [Capstone Title](https://www.reddit.com/r/InformationTechnology/comments/x22j3s/capstone_title/)
-- [what to do after certification?](https://www.reddit.com/r/InformationTechnology/comments/x20uyd/what_to_do_after_certification/)
-- [Opinions on Coursera Google I.T. Course Specifically how is it seen on a resume?](https://www.reddit.com/r/InformationTechnology/comments/x1p8if/opinions_on_coursera_google_it_course/)
-- [W11 Desktop Icon change in appearance?](https://www.reddit.com/r/InformationTechnology/comments/x1lqhu/w11_desktop_icon_change_in_appearance/)
-- [hello, i have a simple question](https://www.reddit.com/r/InformationTechnology/comments/x1knqo/hello_i_have_a_simple_question/)
-- [How Can I Change My Job as a Digital Marketer ?](https://www.reddit.com/r/InformationTechnology/comments/x1k90x/how_can_i_change_my_job_as_a_digital_marketer/)
-- [SD-WAN solution for small business](https://www.reddit.com/r/InformationTechnology/comments/x1bj5n/sdwan_solution_for_small_business/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

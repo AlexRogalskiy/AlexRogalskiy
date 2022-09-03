@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Responding to recruiter emails with GPT-3](https://matthewbilyeu.com/blog/2022-09-01/responding-to-recruiter-emails-with-gpt-3)
-- [Why bother with warrants when cops can buy location data for under $10k?](https://www.theregister.com/2022/09/01/eff_fog_data_broker/)
-- [Notes on the SQLite DuckDB Paper](https://simonwillison.net/2022/Sep/1/sqlite-duckdb-paper/)
-- [Framework is now available in Australia](https://frame.work/au/en)
-- [Not Your Grandmother&#39;s Textbook Exercise](https://cacm.acm.org/blogs/blog-cacm/264263-not-your-grandmothers-textbook-exercise/fulltext)
-- [We clone a running VM in 2 seconds](https://codesandbox.io/post/how-we-clone-a-running-vm-in-2-seconds)
-- [USB 4 version 2 promises 80 Gbps speeds over existing cables](https://www.theverge.com/2022/9/1/23332838/usb-4-version-2-80-gbps-thunderbolt)
-- [Bibliogram, Open-source front-end for Instagram, is being discontinued](https://cadence.moe/blog/2022-09-01-discontinuing-bibliogram)
-- [Crystal Programming Language](https://crystal-lang.org/)
-- [TaxProper &lpar;YC S19&rpar; Is Hiring](https://taxproper.notion.site/TaxProper-is-Hiring-an-Operations-Analyst-781f129af8924b9096a28cb4960bea8d)
+- [Nokia’s Burning Platform Memo](https://aaplinvestors.net/stats/iphone/nokiamemo/)
+- [Science is political, and that&#39;s a bad thing](https://stuartritchie.substack.com/p/science-is-political)
+- [AI is getting better at generating porn](https://techcrunch.com/2022/09/02/ai-is-getting-better-at-generating-porn-we-might-not-be-prepared-for-the-consequences/)
+- [If You Want This Job, We Must Interview You Forever](https://www.newyorker.com/humor/daily-shouts/if-you-want-this-job-we-must-interview-you-forever)
+- [Svix, the Enterprise Ready Webhook Service &lpar;YC W21&rpar; Is Hiring &lpar;Remote&rpar;](https://www.svix.com/careers/)
+- [Non Fungible Tickets](https://dx.tips/non-fungible-tickets)
+- [Mastodon still can’t replace Twitter](https://www.fastcompanyme.com/technology/sorry-elon-haters-mastodon-still-cant-replace-twitter/)
+- [Infrastructure as Software](https://www.justingarrison.com/blog/2022-06-01-infrastructure-as-software/)
+- [Tor – Arti 1.0.0 is released: Rust Tor implementation ready for production use](https://blog.torproject.org/arti_100_released/)
+- [UBS, Wealthfront Cancel $1.4B Deal](https://www.thinkadvisor.com/2022/09/02/ubs-wealthfront-cancel-1-4b-deal/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

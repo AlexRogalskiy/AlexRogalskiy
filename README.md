@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Binary Golf Grand Prix 3 &lpar;6/17 - 8/19/22&rpar;](https://tmpout.sh/bggp/3/)
-- [Apple Storefronts](https://applestorefronts.appspot.com/)
-- [Color Diffusion – 2,331 color names run through Stable Diffusion](https://www.diffusion.gg)
-- [GitHub Trending tab is being deprecated, no longer available beginning 30/9/2022](https://github.com/trending)
-- [Ask HN: Identify duplicate files in my data hoard?](https://news.ycombinator.com/item?id=32686357)
-- [A Quick Dive into WebP](https://thoughts.greyh.at/posts/webp/)
-- [The Database CI/CD Best Practice with GitHub](https://www.bytebase.com/blog/database-cicd-best-practice-with-github)
-- [Online Circuit Simulator](https://dcaclab.com/)
-- [How Long Should a Cold Email Be?](https://nureply.com/blog/how-long-should-a-cold-email-be)
-- [Berners Street Hoax](https://en.wikipedia.org/wiki/Berners_Street_hoax)
+- [I’ve been meeting with the same group of men for 36 years](https://www.theguardian.com/lifeandstyle/2022/jul/23/meeting-same-group-men-years-david-spiegelhalter)
+- [Witnesses, drone expert react to mysterious lights captured in Texas sky](https://www.fox7austin.com/news/mysterious-lights-in-the-sky-had-people-mesmerized-in-round-rock)
+- [Spanner on a modern columnar storage engine](https://cloud.google.com/blog/products/databases/spanner-modern-columnar-storage-engine)
+- [Moonshots vs. Baby Steps at a Scaleup: Who are you delivering for?](https://shermanonsoftware.com/2022/09/02/moonshots-vs-baby-steps-at-a-scaleup/)
+- [Alloy Tutorial](https://alloytools.org/tutorials/online/frame-FS-0.html)
+- [California bill would protect employees who use cannabis outside work](https://www.washingtonpost.com/nation/2022/09/01/california-cannabis-workers-protection/)
+- [Nova Microhypervisor](https://hypervisor.org/)
+- [Improved Multi-Blade Blower [video]](https://www.youtube.com/watch?v=fR9u2oLHFN8)
+- [PyPI Supply Chain Attack](https://arstechnica.com/information-technology/2022/09/actors-behind-pypi-supply-chain-attack-have-been-active-since-late-2021/)
+- [Ending support for legacy academic publishing](https://neural-reckoning.org/reviewing.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -370,6 +370,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Data’s Struggle to Become an Asset](https://www.informationweek.com/big-data/data-s-struggle-to-become-an-asset)
+- [Life in 2050: How Will AI Shape the Future?](https://www.informationweek.com/ai-or-machine-learning/life-in-2050-how-will-ai-shape-the-future-)
 - [California Data Privacy Law Nabs Sephora, Sets Stage for Future](https://www.informationweek.com/big-data/california-data-privacy-law-nabs-sephora-sets-stage-for-future)
 - [The Power of AI Coding Assistance](https://www.informationweek.com/software/the-power-of-ai-coding-assistance)
 - [CIOs: Stop Spending on Bad Tech](https://www.informationweek.com/software/cios-stop-spending-on-bad-tech)
@@ -378,8 +380,6 @@
 - [Is Your Business Prepared to Operate After a Ransomware Attack?](https://www.informationweek.com/security-and-risk-strategy/is-your-business-prepared-to-operate-after-a-ransomware-attack-)
 - [What You Need to Know About Web3](https://www.informationweek.com/big-data/what-you-need-to-know-about-web3)
 - [August 2022 Global Tech Policy Bulletin: From Trouble in Taiwan to Intrigue at the FTC](https://www.informationweek.com/government/august-2022-global-tech-policy-bulletin-from-trouble-in-taiwan-to-intrigue-at-the-ftc)
-- [How Observability Can Help Manage Complex IT Networks](https://www.informationweek.com/strategic-cio/how-observability-can-help-manage-complex-it-networks)
-- [Cloud Migration: 9 Ways to Ease the Agony](https://www.informationweek.com/cloud/cloud-migration-9-ways-to-ease-the-agony)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

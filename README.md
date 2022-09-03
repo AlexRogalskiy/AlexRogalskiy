@@ -430,16 +430,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Bell to acquire Distributel, a major independent network service provider](https://www.itworldcanada.com/article/bell-to-acquire-distributel-a-major-independent-network-service-provider/501277)
+- [What happened with CentOS will not happen with Rocky Linux: Kurtzer](https://www.itworldcanada.com/article/what-happened-with-centos-will-not-happen-with-rocky-linux-kurtzer/501239)
+- [Canadian Digital Trust &amp; Identity standard and others under review, comments invited](https://www.itworldcanada.com/article/canadian-digital-trust-identity-standard-and-others-under-review-comments-invited/501235)
+- [Ransomware attackers expand the attack surface. This Week in Ransomware – Friday, Sept 2](https://www.itworldcanada.com/article/ransomware-attackers-expand-the-attack-surface-this-week-in-ransomware-friday-sept-2/501214)
+- [Cyber Security Today, Week in Review for Friday, September 2, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-september-2-2022/501059)
+- [Inside the Ragnar Locker ransomware](https://www.itworldcanada.com/article/inside-the-ragnar-locker-ransomware/501193)
+- [Protect your customers and grow your business with Zero Trust](https://www.itworldcanada.com/article/protect-your-customers-and-grow-your-business-with-zero-trust/501203)
+- [Cyber Security Today, Sept. 2, 2022 – Hundreds of insecure mobile apps found, guidance for securely creating software and an uproar over American police cellphone tracking](https://www.itworldcanada.com/article/cyber-security-today-sept-2-2022-hundreds-of-insecure-mobile-apps-found-guidance-for-securely-creating-software-and-an-uproar-over-american-police-cellphone-tracking/501056)
+- [Hashtag Trending Sept. 2 – California’s power shortage; U.S. restricts China’s AI chips access; California’s digital asset law](https://www.itworldcanada.com/article/hashtag-trending-sept-2-californias-power-shortage-u-s-restricts-chinas-ai-chips-access-californias-digital-asset-law/501034)
 - [AMD announces Ryzen 7000 series desktop processors, new AM5 socket, and new motherboard chipsets](https://www.itworldcanada.com/article/amd-announces-ryzen-7000-series-desktop-processors-new-am5-socket-and-new-motherboard-chipsets/500514)
-- [Soil mapping advances: Helping farmers one acre at a time](https://www.itworldcanada.com/article/soil-mapping-advances-helping-farmers-one-acre-at-a-time/500980)
-- [International Women in Cyber Day advice: Just say ‘yes’](https://www.itworldcanada.com/article/international-women-in-cyber-day-advice-just-say-yes/500901)
-- [Hashtag Trending September 1 – Truth Social not been approved by Google Play; Military AI startups are growing; LG’s new bendable OLED TV](https://www.itworldcanada.com/article/hashtag-trending-september-1-truth-social-not-been-approved-by-google-play-military-ai-startups-are-growing-lgs-new-bendable-oled-tv/500953)
-- [Laurentian Bank partners with Kyndryl for its cloud transformation journey](https://www.itworldcanada.com/article/laurentian-bank-partners-with-kyndryl-for-its-cloud-transformation-journey/500849)
-- [New VMware networking, security offerings targeted at multi-cloud world](https://www.itworldcanada.com/article/new-vmware-networking-security-offerings-targeted-at-multi-cloud-world/500660)
-- [VMware unveils new tools to drive autonomous workspaces](https://www.itworldcanada.com/article/vmware-unveils-new-tools-to-drive-autonomous-workspaces/500630)
-- [Sault Ste. Marie Transit Services partners with  Cubic’s Umo Mobility Platform](https://www.itworldcanada.com/article/sault-ste-marie-transit-services-partners-with-cubics-umo-mobility-platform/500809)
-- [Google expands bug bounty program to cover GitHub and other open source projects](https://www.itworldcanada.com/article/google-expands-bug-bounty-program-to-cover-github-and-other-open-source-projects/500722)
-- [Cyber Security Today, August 31, 2022 – Another email job scam, and how to celebrate International Women in Cyber Day](https://www.itworldcanada.com/article/cyber-security-today-august-31-2022-another-email-job-scam-and-how-to-celebrate-international-women-in-cyber-day/500703)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

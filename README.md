@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Iran nuclear deal: US dismisses latest move from Tehran as ‘not constructive’](https://www.theguardian.com/world/2022/sep/02/iran-nuclear-deal-tehran-says-it-is-finalising-negotiations-with-latest-eu-document)
-- [‘Sorry we beat them’: Czech pair send Williamses into probable doubles retirement](https://www.theguardian.com/sport/2022/sep/01/sorry-we-beat-them-czech-pair-send-williamses-into-probable-doubles-retirement)
-- [Cristina Fernández de Kirchner: man detained after pointing gun at Argentina vice-president](https://www.theguardian.com/world/2022/sep/02/cristina-kirchner-argentina-vice-president-man-detained-gun)
-- [Will Chileans vote for one of the world’s most progressive constitutions?](https://www.theguardian.com/news/audio/2022/sep/02/will-chileans-vote-for-one-of-the-worlds-most-progressive-constitutions)
-- [Australia raises permanent migration cap to 195,000 to ease workforce shortages](https://www.theguardian.com/australia-news/2022/sep/02/australia-raises-permanent-migration-cap-to-195000-to-ease-workforce-shortages)
-- [The Lord of the Rings: The Rings of Power recap episodes one and two – like no TV you’ve seen before](https://www.theguardian.com/tv-and-radio/2022/sep/02/the-lord-of-the-rings-the-rings-of-power-recap-episodes-one-and-two-like-no-tv-youve-seen-before)
-- [Russia-Ukraine war latest: what we know on day 191 of the invasion](https://www.theguardian.com/world/2022/sep/02/russia-ukraine-war-latest-what-we-know-on-day-191-of-the-invasion)
-- [Chelsea finally confirm Aubameyang and Zakaria deals after window closes](https://www.theguardian.com/football/2022/sep/02/chelsea-sign-aubameyang-from-barcelona-and-move-for-zakaria)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/blog/2022/sep/02/premier-league-10-things-to-look-out-for-this-weekend)
-- [Women’s Super League 2022-23 previews No 1: Arsenal](https://www.theguardian.com/football/2022/sep/02/women-super-league-2022-23-previews-no-1-arsenal)
+- [US announces $1.1bn arms sale to Taiwan, angering China](https://www.theguardian.com/world/2022/sep/03/us-announces-11bn-arms-sale-to-taiwan-angering-china)
+- [Serena Williams’ US Open – and probably her career – ends with loss to Tomljanović](https://www.theguardian.com/sport/2022/sep/02/serena-williams-ajla-tomljanovi-us-open-tennis-third-round-retirement)
+- [Eight killed and dozens rescued from river at hazardous US-Mexico border crossing](https://www.theguardian.com/us-news/2022/sep/02/rio-grande-border-crossing-eight-killed)
+- [Formula One’s most wanted man Oscar Piastri signs with McLaren for 2023](https://www.theguardian.com/sport/2022/sep/03/formula-ones-most-wanted-man-oscar-piastri-signs-with-mclaren-for-2023)
+- [Russia-Ukraine war latest: what we know on day 192 of the invasion](https://www.theguardian.com/world/2022/sep/03/russia-ukraine-war-latest-what-we-know-on-day-192-of-the-invasion)
+- [A girl wanted to keep the goat she raised for a county fair. They chose to kill it](https://www.theguardian.com/us-news/2022/sep/02/goat-cedar-county-fair-auction-california)
+- [Blazes erupt across California as state bakes in scorching heat](https://www.theguardian.com/us-news/2022/sep/02/california-wildfires-heatwave-firefighters-route-fire)
+- [Doctors’ pensions: Labour would abolish cap, says Wes Streeting](https://www.theguardian.com/society/2022/sep/03/doctors-pensions-labour-would-abolish-cap-says-wes-streeting)
+- [Royal Yacht Britannia and Fountains Abbey voted top UK attractions](https://www.theguardian.com/uk-news/2022/sep/03/royal-yacht-britannia-and-fountains-abbey-voted-top-uk-attractions)
+- [Argentinians march for Cristina Kirchner after vice-president survives assassination bid](https://www.theguardian.com/world/2022/sep/02/argentina-cristina-fernandez-de-kirchner-protests-assassination-attempt)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

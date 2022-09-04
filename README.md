@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [I’ve been meeting with the same group of men for 36 years](https://www.theguardian.com/lifeandstyle/2022/jul/23/meeting-same-group-men-years-david-spiegelhalter)
-- [Witnesses, drone expert react to mysterious lights captured in Texas sky](https://www.fox7austin.com/news/mysterious-lights-in-the-sky-had-people-mesmerized-in-round-rock)
-- [Spanner on a modern columnar storage engine](https://cloud.google.com/blog/products/databases/spanner-modern-columnar-storage-engine)
-- [Moonshots vs. Baby Steps at a Scaleup: Who are you delivering for?](https://shermanonsoftware.com/2022/09/02/moonshots-vs-baby-steps-at-a-scaleup/)
-- [Alloy Tutorial](https://alloytools.org/tutorials/online/frame-FS-0.html)
-- [California bill would protect employees who use cannabis outside work](https://www.washingtonpost.com/nation/2022/09/01/california-cannabis-workers-protection/)
-- [Nova Microhypervisor](https://hypervisor.org/)
-- [Improved Multi-Blade Blower [video]](https://www.youtube.com/watch?v=fR9u2oLHFN8)
-- [PyPI Supply Chain Attack](https://arstechnica.com/information-technology/2022/09/actors-behind-pypi-supply-chain-attack-have-been-active-since-late-2021/)
-- [Ending support for legacy academic publishing](https://neural-reckoning.org/reviewing.html)
+- [CMU 15-799: Self-Driving Database Management Systems](https://15799.courses.cs.cmu.edu/spring2022/)
+- [What people get wrong about America’s burnout problem-the mandate for happiness](https://www.cnbc.com/2022/06/08/therapist-what-people-get-wrong-about-americas-burnout-problem.html)
+- [Odd: Israel Banning Planes with Four Engines](https://onemileatatime.com/news/israel-bans-planes-four-engines/)
+- [Ask HN: The most efficient method of conveying information is face-to-face](https://news.ycombinator.com/item?id=32709650)
+- [Cloud-native search engine for log management and analytics](https://github.com/quickwit-oss/quickwit)
+- [Meetup HN: Hyderabad](https://news.ycombinator.com/item?id=32709604)
+- [Establishing identity is a vital, risky and changing business](https://www.economist.com/christmas-specials/2018/12/18/establishing-identity-is-a-vital-risky-and-changing-business)
+- [High School Journalists in LA Learn About Censorship, from Their Own Principal](https://laist.com/news/high-school-journalists-in-la-learn-about-censorship-from-their-own-principal)
+- [Weev claimed Stormfront had insiders at Cloudflare, CEO claimed not true](https://twitter.com/GossiTheDog/status/1565128386753843201)
+- [Another HiFER Beacon](https://aa7ee.wordpress.com/2022/08/28/another-hifer-beacon/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [US announces $1.1bn arms sale to Taiwan, angering China](https://www.theguardian.com/world/2022/sep/03/us-announces-11bn-arms-sale-to-taiwan-angering-china)
-- [Serena Williams’ US Open – and probably her career – ends with loss to Tomljanović](https://www.theguardian.com/sport/2022/sep/02/serena-williams-ajla-tomljanovi-us-open-tennis-third-round-retirement)
-- [Eight killed and dozens rescued from river at hazardous US-Mexico border crossing](https://www.theguardian.com/us-news/2022/sep/02/rio-grande-border-crossing-eight-killed)
-- [Formula One’s most wanted man Oscar Piastri signs with McLaren for 2023](https://www.theguardian.com/sport/2022/sep/03/formula-ones-most-wanted-man-oscar-piastri-signs-with-mclaren-for-2023)
-- [Russia-Ukraine war latest: what we know on day 192 of the invasion](https://www.theguardian.com/world/2022/sep/03/russia-ukraine-war-latest-what-we-know-on-day-192-of-the-invasion)
-- [A girl wanted to keep the goat she raised for a county fair. They chose to kill it](https://www.theguardian.com/us-news/2022/sep/02/goat-cedar-county-fair-auction-california)
-- [Blazes erupt across California as state bakes in scorching heat](https://www.theguardian.com/us-news/2022/sep/02/california-wildfires-heatwave-firefighters-route-fire)
-- [Doctors’ pensions: Labour would abolish cap, says Wes Streeting](https://www.theguardian.com/society/2022/sep/03/doctors-pensions-labour-would-abolish-cap-says-wes-streeting)
-- [Royal Yacht Britannia and Fountains Abbey voted top UK attractions](https://www.theguardian.com/uk-news/2022/sep/03/royal-yacht-britannia-and-fountains-abbey-voted-top-uk-attractions)
-- [Argentinians march for Cristina Kirchner after vice-president survives assassination bid](https://www.theguardian.com/world/2022/sep/02/argentina-cristina-fernandez-de-kirchner-protests-assassination-attempt)
+- [Cloudflare reverses decision and drops trans trolling website Kiwi Farms](https://www.theguardian.com/technology/2022/sep/04/cloudflare-reverses-decision-and-drops-trans-trolling-website-kiwi-farms)
+- [Rafael Nadal makes it 18 straight against Gasquet to reach US Open fourth round](https://www.theguardian.com/sport/2022/sep/03/rafael-nadal-richard-gasquet-us-open-match)
+- [Russia-Ukraine war latest: what we know on day 193 of the invasion](https://www.theguardian.com/world/2022/sep/04/russia-ukraine-war-latest-what-we-know-on-day-193-of-the-invasion)
+- [MP Liam Fox dismisses reports about donation from Covid firm as ‘baseless smear’](https://www.theguardian.com/uk-news/2022/sep/04/mp-liam-fox-dismisses-reports-about-donation-from-covid-firm-as-baseless-smear)
+- [Totes amazing: 20 of the best back-to-work bags – in pictures](https://www.theguardian.com/fashion/gallery/2022/sep/03/totes-amazing-20-of-the-best-back-to-work-bags-in-pictures)
+- [Pilot lands plane after threatening to crash into Mississippi Walmart – report](https://www.theguardian.com/us-news/2022/sep/03/pilot-plane-walmart-mississippi-tupelo)
+- [Pearl review – Mia Goth and Ti West scare up a storm in extraordinary pandemic horror](https://www.theguardian.com/film/2022/sep/03/pearl-review-mia-goth-and-ti-west-scare-up-a-storm-in-extraordinary-pandemic-horror)
+- [At least 19 killed in Somalia in attack by al-Shabaab insurgents](https://www.theguardian.com/world/2022/sep/03/at-least-19-killed-in-somalia-in-attack-by-al-shabaab-insurgents)
+- [Lewis Gregory fires Trent Rockets past Manchester Originals to win Hundred](https://www.theguardian.com/sport/2022/sep/03/lewis-gregorys-heroics-fire-trent-rockets-past-manchester-originals-to-win-hundred)
+- [Dave Grohl pays tribute to Foo Fighters’ Taylor Hawkins at Wembley concert](https://www.theguardian.com/music/2022/sep/03/dave-grohl-tribute-foo-fighters-taylor-hawkins-wembley-concert)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

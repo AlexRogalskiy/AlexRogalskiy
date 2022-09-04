@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Nokia’s Burning Platform Memo](https://aaplinvestors.net/stats/iphone/nokiamemo/)
-- [Science is political, and that&#39;s a bad thing](https://stuartritchie.substack.com/p/science-is-political)
-- [AI is getting better at generating porn](https://techcrunch.com/2022/09/02/ai-is-getting-better-at-generating-porn-we-might-not-be-prepared-for-the-consequences/)
-- [If You Want This Job, We Must Interview You Forever](https://www.newyorker.com/humor/daily-shouts/if-you-want-this-job-we-must-interview-you-forever)
-- [Svix, the Enterprise Ready Webhook Service &lpar;YC W21&rpar; Is Hiring &lpar;Remote&rpar;](https://www.svix.com/careers/)
-- [Non Fungible Tickets](https://dx.tips/non-fungible-tickets)
-- [Mastodon still can’t replace Twitter](https://www.fastcompanyme.com/technology/sorry-elon-haters-mastodon-still-cant-replace-twitter/)
-- [Infrastructure as Software](https://www.justingarrison.com/blog/2022-06-01-infrastructure-as-software/)
-- [Tor – Arti 1.0.0 is released: Rust Tor implementation ready for production use](https://blog.torproject.org/arti_100_released/)
-- [UBS, Wealthfront Cancel $1.4B Deal](https://www.thinkadvisor.com/2022/09/02/ubs-wealthfront-cancel-1-4b-deal/)
+- [I ran the worlds largest DDoS-for-Hire empire and Cloudflare helped](https://rasbora.dev/blog/I-ran-the-worlds-largest-ddos-for-hire-empire-and-cloudflare-helped)
+- [Stable Diffusion PR optimizes VRAM, generate 576x1280 images with 6 GB VRAM](https://github.com/basujindal/stable-diffusion/pull/103)
+- [Tips and Tools for Text Mode Lovers](https://cli-ck.io/)
+- [Ivy &lpar;YC W23&rpar; is hiring software engineers to help unify ML](https://www.ycombinator.com/companies/ivy/jobs)
+- [Samsung Loses a Ton of User Data – Offers Nothing to Victims](https://www.makeuseof.com/samsung-data-breach-should-you-worry/)
+- [Isaac Newton Discovered the Binomial Power Series](https://www.quantamagazine.org/how-isaac-newton-discovered-the-binomial-power-series-20220831/)
+- [A fully open-source and end-to-end encrypted note taking alternative to Evernote](https://github.com/streetwriters/notesnook)
+- [Ask HN: If I enter account or order in a phone tree, why am I asked again?](https://news.ycombinator.com/item?id=32707737)
+- [Space Weather Prediction Center](https://www.spaceweather.gov/homepage)
+- [Blocking Kiwifarms](https://blog.cloudflare.com/kiwifarms-blocked/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

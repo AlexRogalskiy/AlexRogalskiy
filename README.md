@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [CMU 15-799: Self-Driving Database Management Systems](https://15799.courses.cs.cmu.edu/spring2022/)
-- [What people get wrong about America’s burnout problem-the mandate for happiness](https://www.cnbc.com/2022/06/08/therapist-what-people-get-wrong-about-americas-burnout-problem.html)
-- [Odd: Israel Banning Planes with Four Engines](https://onemileatatime.com/news/israel-bans-planes-four-engines/)
-- [Ask HN: The most efficient method of conveying information is face-to-face](https://news.ycombinator.com/item?id=32709650)
-- [Cloud-native search engine for log management and analytics](https://github.com/quickwit-oss/quickwit)
-- [Meetup HN: Hyderabad](https://news.ycombinator.com/item?id=32709604)
-- [Establishing identity is a vital, risky and changing business](https://www.economist.com/christmas-specials/2018/12/18/establishing-identity-is-a-vital-risky-and-changing-business)
-- [High School Journalists in LA Learn About Censorship, from Their Own Principal](https://laist.com/news/high-school-journalists-in-la-learn-about-censorship-from-their-own-principal)
-- [Weev claimed Stormfront had insiders at Cloudflare, CEO claimed not true](https://twitter.com/GossiTheDog/status/1565128386753843201)
-- [Another HiFER Beacon](https://aa7ee.wordpress.com/2022/08/28/another-hifer-beacon/)
+- [Teleport – The easiest, most secure way to access infrastructure](https://goteleport.com/)
+- [Vivado AXI Chip2Chip for multi-FPGA design](https://fpgaer.tech/?p=289)
+- [Empowering, alluring, degenerate? The evolution of red lipstick &lpar;2020&rpar;](https://www.cnn.com/style/article/red-lipstick-history-beauty/index.html)
+- [Woman in Motion tells story of how Star Trek’s Uhura changed NASA forever &lpar;2021&rpar;](https://arstechnica.com/gaming/2021/06/woman-in-motion-tells-story-of-how-star-treks-uhura-changed-nasa-forever/)
+- [Ask HN: MacBook Pro M1 16GB vs. 32GB](https://news.ycombinator.com/item?id=32720337)
+- [Ask HN: Can any startup go public?](https://news.ycombinator.com/item?id=32720323)
+- [Computer Hacker, voting rights activist bought stolen election machine on eBay](https://www.dailymail.co.uk/news/article-11179915/Man-bought-stolen-election-machine-says-authorities-havent-bothered-CONTACT-him.html)
+- [TikTok-addicted students delete app during exams](https://www.bbc.com/news/uk-wales-62720657)
+- [Prisoner&#39;s Cinema](https://en.wikipedia.org/wiki/Prisoner%27s_cinema)
+- [With Old Traditions and New Tech, Young Inuit Chart Their Changing Landscape](https://hakaimagazine.com/features/with-old-traditions-and-new-tech-young-inuit-chart-their-changing-landscape/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

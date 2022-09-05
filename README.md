@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [I ran the worlds largest DDoS-for-Hire empire and Cloudflare helped](https://rasbora.dev/blog/I-ran-the-worlds-largest-ddos-for-hire-empire-and-cloudflare-helped)
-- [Stable Diffusion PR optimizes VRAM, generate 576x1280 images with 6 GB VRAM](https://github.com/basujindal/stable-diffusion/pull/103)
-- [Tips and Tools for Text Mode Lovers](https://cli-ck.io/)
-- [Ivy &lpar;YC W23&rpar; is hiring software engineers to help unify ML](https://www.ycombinator.com/companies/ivy/jobs)
-- [Samsung Loses a Ton of User Data – Offers Nothing to Victims](https://www.makeuseof.com/samsung-data-breach-should-you-worry/)
-- [Isaac Newton Discovered the Binomial Power Series](https://www.quantamagazine.org/how-isaac-newton-discovered-the-binomial-power-series-20220831/)
-- [A fully open-source and end-to-end encrypted note taking alternative to Evernote](https://github.com/streetwriters/notesnook)
-- [Ask HN: If I enter account or order in a phone tree, why am I asked again?](https://news.ycombinator.com/item?id=32707737)
-- [Space Weather Prediction Center](https://www.spaceweather.gov/homepage)
-- [Blocking Kiwifarms](https://blog.cloudflare.com/kiwifarms-blocked/)
+- [Self-hosted email is the hardest it&#39;s ever been, but also the easiest](https://vadosware.io/post/its-never-been-easier-or-harder-to-self-host-email/)
+- [The WFH Folks](https://news.ycombinator.com/item?id=32720171)
+- [Email Done My Way, Part 0 – The Journey](https://jan.wildeboer.net/2022/08/Email-0-The-Journey-2022/)
+- [CreditKarma Fined 3M by FTC for Misleading Consumers with CreditCard Offers](https://thefintechtimes.com/credit-karma-fined-3million-by-ftc-for-misleading-consumers-with-credit-card-offers/)
+- [A Brief History of Just-In-Time &lpar;2003&rpar; [pdf]](http://eecs.ucf.edu/~dcm/Teaching/COT4810-Spring2011/Literature/JustInTimeCompilation.pdf)
+- [EV adoption in US is happening faster than predicted](https://www.recurrentauto.com/research/ev-adoption-us)
+- [Has  tiktok_us  been breached?](https://twitter.com/troyhunt/status/1566565409939427328)
+- [BuildZoom &lpar;YC W13&rpar; is hiring a principal engineer](https://jobs.lever.co/buildzoom)
+- [Retinas revived after donor&#39;s death open door to new science](https://www.nature.com/articles/d41586-022-01311-z)
+- [Unreal Rust](https://maikklein.github.io/unreal-rust-1/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

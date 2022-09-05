@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Cloudflare reverses decision and drops trans trolling website Kiwi Farms](https://www.theguardian.com/technology/2022/sep/04/cloudflare-reverses-decision-and-drops-trans-trolling-website-kiwi-farms)
-- [Rafael Nadal makes it 18 straight against Gasquet to reach US Open fourth round](https://www.theguardian.com/sport/2022/sep/03/rafael-nadal-richard-gasquet-us-open-match)
-- [Russia-Ukraine war latest: what we know on day 193 of the invasion](https://www.theguardian.com/world/2022/sep/04/russia-ukraine-war-latest-what-we-know-on-day-193-of-the-invasion)
-- [MP Liam Fox dismisses reports about donation from Covid firm as ‘baseless smear’](https://www.theguardian.com/uk-news/2022/sep/04/mp-liam-fox-dismisses-reports-about-donation-from-covid-firm-as-baseless-smear)
-- [Totes amazing: 20 of the best back-to-work bags – in pictures](https://www.theguardian.com/fashion/gallery/2022/sep/03/totes-amazing-20-of-the-best-back-to-work-bags-in-pictures)
-- [Pilot lands plane after threatening to crash into Mississippi Walmart – report](https://www.theguardian.com/us-news/2022/sep/03/pilot-plane-walmart-mississippi-tupelo)
-- [Pearl review – Mia Goth and Ti West scare up a storm in extraordinary pandemic horror](https://www.theguardian.com/film/2022/sep/03/pearl-review-mia-goth-and-ti-west-scare-up-a-storm-in-extraordinary-pandemic-horror)
-- [At least 19 killed in Somalia in attack by al-Shabaab insurgents](https://www.theguardian.com/world/2022/sep/03/at-least-19-killed-in-somalia-in-attack-by-al-shabaab-insurgents)
-- [Lewis Gregory fires Trent Rockets past Manchester Originals to win Hundred](https://www.theguardian.com/sport/2022/sep/03/lewis-gregorys-heroics-fire-trent-rockets-past-manchester-originals-to-win-hundred)
-- [Dave Grohl pays tribute to Foo Fighters’ Taylor Hawkins at Wembley concert](https://www.theguardian.com/music/2022/sep/03/dave-grohl-tribute-foo-fighters-taylor-hawkins-wembley-concert)
+- [Canada mass stabbing: police search for two suspects after 10 killed across Saskatchewan – latest updates](https://www.theguardian.com/world/live/2022/sep/05/canada-stabbing-attacks-two-suspects-police-search-killings-saskatchewan-stabbings-james-smith-cree-nation-weldon-live-news-latest-updates)
+- [Nick Kyrgios dethrones Daniil Medvedev to reach US Open last eight](https://www.theguardian.com/sport/2022/sep/05/nick-kyrgios-stuns-world-no-1-daniil-medvedev-to-reach-us-open-last-eight)
+- [Eight climbers killed on Klyuchevskaya Sopka volcano in Russia’s far east](https://www.theguardian.com/world/2022/sep/05/eight-climbers-killed-on-klyuchevskaya-sopka-volcano-in-russias-far-east)
+- [Chile votes overwhelmingly to reject new, progressive constitution](https://www.theguardian.com/world/2022/sep/05/chile-votes-overwhelmingly-to-reject-new-progressive-constitution)
+- [Should we delete our period tracking apps?](https://www.theguardian.com/news/audio/2022/sep/05/should-we-delete-our-period-tracking-apps)
+- [Historic Yangon villa where Aung San Suu Kyi was held for 15 years under threat](https://www.theguardian.com/world/2022/sep/05/historic-yangon-villa-where-aung-san-suu-kyi-was-held-for-15-years-under-threat)
+- [Cyrus Mistry, billionaire ex-chairman of Tata Sons, dies in India car crash](https://www.theguardian.com/world/2022/sep/05/cyrus-mistry-billionaire-ex-chairman-of-tata-sons-dies-in-india-car-crash)
+- [Russia-Ukraine war latest: what we know on day 194 of the invasion](https://www.theguardian.com/world/2022/sep/05/russia-ukraine-war-latest-what-we-know-on-day-194-of-the-invasion)
+- [Two killed in Northern California wildfire as firefighters continue to battle blazes](https://www.theguardian.com/world/2022/sep/04/northern-california-wildfires-heatwave)
+- [John Lewis stakes future on ‘moments economy’ as shopping habits shift](https://www.theguardian.com/business/2022/sep/05/john-lewis-moments-economy-shopping-habits-shift-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

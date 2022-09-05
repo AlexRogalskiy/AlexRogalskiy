@@ -415,16 +415,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [is this job alright?](https://www.reddit.com/r/InformationTechnology/comments/x5xjf9/is_this_job_alright/)
+- [i don&#39;t have experience 0 year on IT my position now IT support and i want to be good at it but it&#39;s so hard to my team to guide me for everything so it&#39;s hard to keep me in the job what should I do?](https://www.reddit.com/r/InformationTechnology/comments/x5vqkx/i_dont_have_experience_0_year_on_it_my_position/)
+- [How to get a job at Google as a software engineer](https://www.reddit.com/r/InformationTechnology/comments/x5ve3m/how_to_get_a_job_at_google_as_a_software_engineer/)
+- [IT Green Field](https://www.reddit.com/r/InformationTechnology/comments/x5pj7e/it_green_field/)
 - [IT Degree](https://www.reddit.com/r/InformationTechnology/comments/x53a60/it_degree/)
 - [What advice would you give someone who&#39;s going into their first service desk job](https://www.reddit.com/r/InformationTechnology/comments/x4xl8x/what_advice_would_you_give_someone_whos_going/)
 - [I&#39;m currently having internships in IT on Hotel u would like to learn more about how network work on hotel I&#39;m looking for any resource related](https://www.reddit.com/r/InformationTechnology/comments/x4ueg6/im_currently_having_internships_in_it_on_hotel_u/)
 - [Preparing for PCDC Exam | Helpful Tips](https://www.reddit.com/r/InformationTechnology/comments/x4n3ud/preparing_for_pcdc_exam_helpful_tips/)
 - [Is it true that IP addresses belong to networks, not individual nodes on a network?](https://www.reddit.com/r/InformationTechnology/comments/x4fw7b/is_it_true_that_ip_addresses_belong_to_networks/)
 - [Is comptia or CCNA valued in the UK?](https://www.reddit.com/r/InformationTechnology/comments/x4e98m/is_comptia_or_ccna_valued_in_the_uk/)
-- [IT Helpdesk Policy For Small Businesses](https://www.reddit.com/r/InformationTechnology/comments/x4cp65/it_helpdesk_policy_for_small_businesses/)
-- [Moon basic information | The Moon](https://www.reddit.com/r/InformationTechnology/comments/x47pft/moon_basic_information_the_moon/)
-- [MS-900 - Microsoft 365 Fundamentals Full Course for those that need it](https://www.reddit.com/r/InformationTechnology/comments/x46oql/ms900_microsoft_365_fundamentals_full_course_for/)
-- [What Does the Industry Want to See on a Resume That Will Stand Out](https://www.reddit.com/r/InformationTechnology/comments/x442dj/what_does_the_industry_want_to_see_on_a_resume/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

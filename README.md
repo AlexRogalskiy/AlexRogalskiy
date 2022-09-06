@@ -370,6 +370,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Navigating Complexities of M&amp;A: Getting the Culture Right](https://www.informationweek.com/strategic-cio/navigating-complexities-of-m-a-getting-the-culture-right)
+- [Inclusion and Allyship Should be Expected of Male Leaders](https://www.informationweek.com/it-life/inclusion-and-allyship-should-be-expected-of-male-leaders)
 - [Data’s Struggle to Become an Asset](https://www.informationweek.com/big-data/data-s-struggle-to-become-an-asset)
 - [Life in 2050: How Will AI Shape the Future?](https://www.informationweek.com/ai-or-machine-learning/life-in-2050-how-will-ai-shape-the-future-)
 - [California Data Privacy Law Nabs Sephora, Sets Stage for Future](https://www.informationweek.com/big-data/california-data-privacy-law-nabs-sephora-sets-stage-for-future)
@@ -378,8 +380,6 @@
 - [How to Logically Evaluate an IT Job Offer](https://www.informationweek.com/it-life/how-to-logically-evaluate-an-it-job-offer)
 - [Why CIOs Need to Be Even More Dominant in the C-Suite Right Now](https://www.informationweek.com/strategic-cio/communication-leadership-skills-come-to-fore-among-cios)
 - [Is Your Business Prepared to Operate After a Ransomware Attack?](https://www.informationweek.com/security-and-risk-strategy/is-your-business-prepared-to-operate-after-a-ransomware-attack-)
-- [What You Need to Know About Web3](https://www.informationweek.com/big-data/what-you-need-to-know-about-web3)
-- [August 2022 Global Tech Policy Bulletin: From Trouble in Taiwan to Intrigue at the FTC](https://www.informationweek.com/government/august-2022-global-tech-policy-bulletin-from-trouble-in-taiwan-to-intrigue-at-the-ftc)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

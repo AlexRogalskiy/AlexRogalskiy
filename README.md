@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Canada mass stabbing: police search for two suspects after 10 killed across Saskatchewan – latest updates](https://www.theguardian.com/world/live/2022/sep/05/canada-stabbing-attacks-two-suspects-police-search-killings-saskatchewan-stabbings-james-smith-cree-nation-weldon-live-news-latest-updates)
-- [Nick Kyrgios dethrones Daniil Medvedev to reach US Open last eight](https://www.theguardian.com/sport/2022/sep/05/nick-kyrgios-stuns-world-no-1-daniil-medvedev-to-reach-us-open-last-eight)
-- [Eight climbers killed on Klyuchevskaya Sopka volcano in Russia’s far east](https://www.theguardian.com/world/2022/sep/05/eight-climbers-killed-on-klyuchevskaya-sopka-volcano-in-russias-far-east)
-- [Chile votes overwhelmingly to reject new, progressive constitution](https://www.theguardian.com/world/2022/sep/05/chile-votes-overwhelmingly-to-reject-new-progressive-constitution)
-- [Should we delete our period tracking apps?](https://www.theguardian.com/news/audio/2022/sep/05/should-we-delete-our-period-tracking-apps)
-- [Historic Yangon villa where Aung San Suu Kyi was held for 15 years under threat](https://www.theguardian.com/world/2022/sep/05/historic-yangon-villa-where-aung-san-suu-kyi-was-held-for-15-years-under-threat)
-- [Cyrus Mistry, billionaire ex-chairman of Tata Sons, dies in India car crash](https://www.theguardian.com/world/2022/sep/05/cyrus-mistry-billionaire-ex-chairman-of-tata-sons-dies-in-india-car-crash)
-- [Russia-Ukraine war latest: what we know on day 194 of the invasion](https://www.theguardian.com/world/2022/sep/05/russia-ukraine-war-latest-what-we-know-on-day-194-of-the-invasion)
-- [Two killed in Northern California wildfire as firefighters continue to battle blazes](https://www.theguardian.com/world/2022/sep/04/northern-california-wildfires-heatwave)
-- [John Lewis stakes future on ‘moments economy’ as shopping habits shift](https://www.theguardian.com/business/2022/sep/05/john-lewis-moments-economy-shopping-habits-shift-report)
+- [‘Straight to business’: what the papers said about Liz Truss’s victory](https://www.theguardian.com/politics/2022/sep/06/i-will-deliver-what-the-papers-said-about-liz-trusss-victory)
+- [‘They twist the message’: Brazilian writer faces ire of Bolsonaro backers](https://www.theguardian.com/world/2022/sep/06/brazilian-writer-julian-fuks-faces-ire-jair-bolsonaro-backers)
+- [Russia buying millions of rockets and shells from North Korea, US intelligence says](https://www.theguardian.com/world/2022/sep/06/russia-buying-millions-rockets-shells-north-korea-us-intelligence-ukraine)
+- [Scientists hope ‘world’s loneliest tree’ will help answer climate questions](https://www.theguardian.com/world/2022/sep/06/scientists-hope-worlds-loneliest-tree-will-help-answer-climate-questions)
+- [Thirty-five civilians killed in convoy blast in Burkina Faso](https://www.theguardian.com/world/2022/sep/06/dozens-civilians-killed-burkina-faso-convoy-blast)
+- [‘We screamed our hearts out for help’: homeless escape Pakistan floods](https://www.theguardian.com/world/2022/sep/06/we-screamed-our-hearts-out-for-help-homeless-escape-pakistan-floods)
+- [What can Britain expect from Liz Truss as prime minister? – podcast](https://www.theguardian.com/politics/audio/2022/sep/06/what-can-britain-expect-from-liz-truss-as-prime-minister-podcast)
+- [Russia-Ukraine war latest: what we know on day 195 of the invasion](https://www.theguardian.com/world/2022/sep/06/russia-ukraine-war-latest-what-we-know-on-day-195-of-the-invasion)
+- [Kremlin scathing over Truss but Kyiv praises Britain’s new PM](https://www.theguardian.com/politics/2022/sep/05/kremlin-scathing-over-truss-but-kyiv-praises-britains-new-pm)
+- [Frances Tiafoe shocks Rafael Nadal in US Open fourth-round thriller](https://www.theguardian.com/sport/2022/sep/06/frances-tiafoe-rafael-nadal-us-open-tennis-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

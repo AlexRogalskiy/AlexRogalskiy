@@ -400,16 +400,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [UK payments upgrade to add more than £3bn to GDP, but much more on offer](https://www.computerweekly.com/news/252524579/UK-payments-upgrade-to-add-more-than-3bn-to-GDP-but-much-more-on-offer)
+- [Data-driven government needs practical steps](https://www.computerweekly.com/opinion/Data-driven-government-needs-practical-steps)
+- [Russian-speaking cyber criminals feel economic pinch](https://www.computerweekly.com/news/252524585/Russian-speaking-cyber-criminals-feel-economic-pinch)
+- [How water conservation and management floats on cloud](https://www.computerweekly.com/feature/How-water-conservation-and-management-floats-on-cloud)
+- [How Okta is regaining customer trust after a cyber attack](https://www.computerweekly.com/news/252524121/How-Okta-is-regaining-customer-trust-after-a-cyber-attack)
+- [Security Think Tank: Good procurement practices pave the way to app security](https://www.computerweekly.com/opinion/Security-Think-Tank-Good-procurement-practices-pave-the-way-to-app-security)
+- [New connectivity options driven by low Earth orbit satellites](https://www.computerweekly.com/feature/New-connectivity-options-driven-by-low-Earth-orbit-satellites)
 - [Cloud bursting: What it is and what it’s good for](https://www.computerweekly.com/feature/Cloud-bursting-What-it-is-and-what-its-good-for)
 - [Interview: Sibstar, the fintech app for dementia sufferers](https://www.computerweekly.com/news/252524416/Interview-Sibstar-the-fintech-app-for-dementia-sufferers)
 - [Dutch government finally allowed to use public cloud](https://www.computerweekly.com/news/252524519/Dutch-government-finally-allowed-to-use-public-cloud)
-- [Unstructured vs semi-structured data: Order from chaos](https://www.computerweekly.com/feature/Unstructured-vs-semi-structured-data-Order-from-chaos)
-- [HMRC to review how IR35 works in practice following PAC criticism](https://www.computerweekly.com/news/252524500/HMRC-to-review-how-IR35-works-in-practice-following-PAC-criticism)
-- [Security Think Tank: Shift left, shift right. What about shift everywhere?](https://www.computerweekly.com/opinion/Security-Think-Tank-Shift-left-shift-right-What-about-shift-everywhere)
-- [Police interview Horizon scandal victim in investigation into potential perjury by Fujitsu staff](https://www.computerweekly.com/news/252524481/Police-interview-Horizon-scandal-victim-in-investigation-into-potential-perjury-by-Fujitsu-staff)
-- [Voting open: Who should be the 2022 Most Influential Woman in UK Tech?](https://www.computerweekly.com/news/252524478/Voting-open-Who-should-be-the-2022-Most-Influential-Woman-in-UK-Tech)
-- [Space nerds beware: James Webb images used to spread malware](https://www.computerweekly.com/news/252524474/Space-nerds-beware-James-Webb-images-used-to-spread-malware)
-- [Local authorities experience 10,000 attempted cyber attacks every day](https://www.computerweekly.com/news/252524477/Local-authorities-experience-10000-attempted-cyber-attacks-every-day)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

@@ -385,6 +385,9 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [The cloud is coming for your mainframes](https://www.infoworld.com/article/3672149/the-cloud-is-coming-for-your-mainframes.html#tk.rss_all)
+- [What devops needs to know about data governance](https://www.infoworld.com/article/3672114/what-devops-needs-to-know-about-data-governance.html#tk.rss_all)
+- [8 Java frameworks for embedded development](https://www.infoworld.com/article/3669317/8-java-frameworks-for-embedded-development.html#tk.rss_all)
 - [3 multicloud lessons for cloud architects](https://www.infoworld.com/article/3672430/3-multicloud-lessons-for-cloud-architects.html#tk.rss_all)
 - [Apple moves WebKit to GitHub](https://www.infoworld.com/article/3672112/apple-moves-webkit-to-github.html#tk.rss_all)
 - [What is blockchain? Decentralized transactions for cryptocurrencies](https://www.infoworld.com/article/3653379/a-quick-guide-to-blockchain.html#tk.rss_all)
@@ -392,9 +395,6 @@
 - [Intro to blockchain consensus mechanisms](https://www.infoworld.com/article/3669316/intro-to-blockchain-consensus-mechanisms.html#tk.rss_all)
 - [JDK 19: The new features in Java 19](https://www.infoworld.com/article/3653331/jdk-19-the-new-features-in-java-19.html#tk.rss_all)
 - [CodeSee launches enterprise plan with service maps](https://www.infoworld.com/article/3671988/codesee-launches-enterprise-plan-with-service-maps.html#tk.rss_all)
-- [Understand Visual Studio’s new extension model](https://www.infoworld.com/article/3671808/visual-studio-gets-a-new-extension-model.html#tk.rss_all)
-- [Use Cython to accelerate array iteration in NumPy](https://www.infoworld.com/article/3670116/use-cython-to-accelerate-array-iteration-in-numpy.html#tk.rss_all)
-- [Microsoft adds container support to .NET SDK](https://www.infoworld.com/article/3671708/microsoft-adds-container-support-to-net-sdk.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

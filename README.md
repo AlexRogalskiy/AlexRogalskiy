@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Teleport – The easiest, most secure way to access infrastructure](https://goteleport.com/)
-- [Vivado AXI Chip2Chip for multi-FPGA design](https://fpgaer.tech/?p=289)
-- [Empowering, alluring, degenerate? The evolution of red lipstick &lpar;2020&rpar;](https://www.cnn.com/style/article/red-lipstick-history-beauty/index.html)
-- [Woman in Motion tells story of how Star Trek’s Uhura changed NASA forever &lpar;2021&rpar;](https://arstechnica.com/gaming/2021/06/woman-in-motion-tells-story-of-how-star-treks-uhura-changed-nasa-forever/)
-- [Ask HN: MacBook Pro M1 16GB vs. 32GB](https://news.ycombinator.com/item?id=32720337)
-- [Ask HN: Can any startup go public?](https://news.ycombinator.com/item?id=32720323)
-- [Computer Hacker, voting rights activist bought stolen election machine on eBay](https://www.dailymail.co.uk/news/article-11179915/Man-bought-stolen-election-machine-says-authorities-havent-bothered-CONTACT-him.html)
-- [TikTok-addicted students delete app during exams](https://www.bbc.com/news/uk-wales-62720657)
-- [Prisoner&#39;s Cinema](https://en.wikipedia.org/wiki/Prisoner%27s_cinema)
-- [With Old Traditions and New Tech, Young Inuit Chart Their Changing Landscape](https://hakaimagazine.com/features/with-old-traditions-and-new-tech-young-inuit-chart-their-changing-landscape/)
+- [Rapid retreat of Thwaites Glacier in the pre-satellite era](https://www.nature.com/articles/s41561-022-01019-9)
+- [We&#39;re about to experience sovereign debt crisis caused by Europe energy crisis](https://twitter.com/fejau_inc/status/1566657303784263681)
+- [The Shocking Problem That Could End Nuclear Fusion](https://www.youtube.com/watch?v=VHZMW0AmAKw)
+- [Ask HN: What’s coming in the next few months in image generators?](https://news.ycombinator.com/item?id=32732676)
+- [Porter Stemming Algorithm &lpar;2006&rpar;](https://tartarus.org/martin/PorterStemmer/)
+- [Rules of Makefiles &lpar;2015&rpar;](https://web.archive.org/web/20220211210124/http://make.mad-scientist.net/papers/rules-of-makefiles/)
+- [Diskuv OCaml – The Windows-friendly distribution of OCaml](https://github.com/diskuv/dkml-installer-ocaml)
+- [Search with Bing in the Microsoft Edge browser – earn up to 600 points a month](https://www.microsoft.com/en-us/rewards/edge-bonus)
+- [Crypto researcher’s fake Ponzi raises $100K in hours](https://cointelegraph.com/news/far-too-easy-crypto-researcher-s-fake-ponzi-raises-100k-in-hours)
+- [Interactive tool to generate basic design systems](https://hihayk.github.io/shaper/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

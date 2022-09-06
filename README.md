@@ -430,6 +430,7 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Cyber Security Today, Sept. 5, 2022 – An alert to energy companies, a warning to Linux administrators and more](https://www.itworldcanada.com/article/cyber-security-today-sept-5-2022-an-alert-to-energy-companies-a-warning-to-linux-administrators-and-more/501408)
 - [Samsung says some data on US customers stolen](https://www.itworldcanada.com/article/samsung-says-some-data-on-us-customers-stolen/501373)
 - [Bell to acquire Distributel, a major independent network service provider](https://www.itworldcanada.com/article/bell-to-acquire-distributel-a-major-independent-network-service-provider/501277)
 - [What happened with CentOS will not happen with Rocky Linux: Kurtzer](https://www.itworldcanada.com/article/what-happened-with-centos-will-not-happen-with-rocky-linux-kurtzer/501239)
@@ -439,7 +440,6 @@
 - [Inside the Ragnar Locker ransomware](https://www.itworldcanada.com/article/inside-the-ragnar-locker-ransomware/501193)
 - [Protect your customers and grow your business with Zero Trust](https://www.itworldcanada.com/article/protect-your-customers-and-grow-your-business-with-zero-trust/501203)
 - [Cyber Security Today, Sept. 2, 2022 – Hundreds of insecure mobile apps found, guidance for securely creating software and an uproar over American police cellphone tracking](https://www.itworldcanada.com/article/cyber-security-today-sept-2-2022-hundreds-of-insecure-mobile-apps-found-guidance-for-securely-creating-software-and-an-uproar-over-american-police-cellphone-tracking/501056)
-- [Hashtag Trending Sept. 2 – California’s power shortage; U.S. restricts China’s AI chips access; California’s digital asset law](https://www.itworldcanada.com/article/hashtag-trending-sept-2-californias-power-shortage-u-s-restricts-chinas-ai-chips-access-californias-digital-asset-law/501034)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

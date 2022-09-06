@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Self-hosted email is the hardest it&#39;s ever been, but also the easiest](https://vadosware.io/post/its-never-been-easier-or-harder-to-self-host-email/)
-- [The WFH Folks](https://news.ycombinator.com/item?id=32720171)
-- [Email Done My Way, Part 0 – The Journey](https://jan.wildeboer.net/2022/08/Email-0-The-Journey-2022/)
-- [CreditKarma Fined 3M by FTC for Misleading Consumers with CreditCard Offers](https://thefintechtimes.com/credit-karma-fined-3million-by-ftc-for-misleading-consumers-with-credit-card-offers/)
-- [A Brief History of Just-In-Time &lpar;2003&rpar; [pdf]](http://eecs.ucf.edu/~dcm/Teaching/COT4810-Spring2011/Literature/JustInTimeCompilation.pdf)
-- [EV adoption in US is happening faster than predicted](https://www.recurrentauto.com/research/ev-adoption-us)
-- [Has  tiktok_us  been breached?](https://twitter.com/troyhunt/status/1566565409939427328)
-- [BuildZoom &lpar;YC W13&rpar; is hiring a principal engineer](https://jobs.lever.co/buildzoom)
-- [Retinas revived after donor&#39;s death open door to new science](https://www.nature.com/articles/d41586-022-01311-z)
-- [Unreal Rust](https://maikklein.github.io/unreal-rust-1/)
+- [Long-term cardiac pathology in individuals with mild initial Covid-19 illness](https://www.nature.com/articles/s41591-022-02000-0)
+- [How sustainable are fake meats?](https://knowablemagazine.org/article/food-environment/2022/how-sustainable-are-fake-meats)
+- [Chitchatter: A P2P chat app that is serverless, decentralized, and ephemeral](https://chitchatter.im/)
+- [Keith Davis: He was protecting the oceans – then he disappeared](https://www.bbc.com/news/world-us-canada-62603911)
+- [Killing invasive species is now a competitive sport](https://www.newyorker.com/magazine/2022/09/12/killing-invasive-species-is-now-a-competitive-sport)
+- [Dreamy Blur](https://yuanchuan.dev/dreamy-blur)
+- [I patched my Slack client to keep “oops” messages others delete](https://github.com/SharonBrizinov/slack-anti-delete)
+- [Show HN: WakaQ - a Python distributed task queue](https://wakatime.com/blog/56-building-a-distributed-task-queue-in-python)
+- [Static site hosting hurdles](https://notes.volution.ro/v1/2022/09/notes/b08118d8/)
+- [How to present backend demos](https://rxhl.notion.site/How-To-Present-Backend-Demos-861303c09e3e48fcb33a2a6999260e59)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

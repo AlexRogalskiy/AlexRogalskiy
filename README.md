@@ -415,6 +415,9 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Podcasts for learning](https://www.reddit.com/r/InformationTechnology/comments/x6yean/podcasts_for_learning/)
+- [is it easy to find a entry level network administrator job with a bachelor&#39;s degree in computer technology from Kent state?](https://www.reddit.com/r/InformationTechnology/comments/x6veft/is_it_easy_to_find_a_entry_level_network/)
+- [I&#39;ve been out of the work force for 5 years because of addiction. I&#39;m now 10 months clean and have no criminal record. I have a bachelor&#39;s degree in computer technology with 6 months experience. After I heal from addiction and get my motivation back, will I be able to find another computer job?](https://www.reddit.com/r/InformationTechnology/comments/x6va5c/ive_been_out_of_the_work_force_for_5_years/)
 - [is this job alright?](https://www.reddit.com/r/InformationTechnology/comments/x5xjf9/is_this_job_alright/)
 - [i don&#39;t have experience 0 year on IT my position now IT support and i want to be good at it but it&#39;s so hard to my team to guide me for everything so it&#39;s hard to keep me in the job what should I do?](https://www.reddit.com/r/InformationTechnology/comments/x5vqkx/i_dont_have_experience_0_year_on_it_my_position/)
 - [How to get a job at Google as a software engineer](https://www.reddit.com/r/InformationTechnology/comments/x5ve3m/how_to_get_a_job_at_google_as_a_software_engineer/)
@@ -422,9 +425,6 @@
 - [IT Degree](https://www.reddit.com/r/InformationTechnology/comments/x53a60/it_degree/)
 - [What advice would you give someone who&#39;s going into their first service desk job](https://www.reddit.com/r/InformationTechnology/comments/x4xl8x/what_advice_would_you_give_someone_whos_going/)
 - [I&#39;m currently having internships in IT on Hotel u would like to learn more about how network work on hotel I&#39;m looking for any resource related](https://www.reddit.com/r/InformationTechnology/comments/x4ueg6/im_currently_having_internships_in_it_on_hotel_u/)
-- [Preparing for PCDC Exam | Helpful Tips](https://www.reddit.com/r/InformationTechnology/comments/x4n3ud/preparing_for_pcdc_exam_helpful_tips/)
-- [Is it true that IP addresses belong to networks, not individual nodes on a network?](https://www.reddit.com/r/InformationTechnology/comments/x4fw7b/is_it_true_that_ip_addresses_belong_to_networks/)
-- [Is comptia or CCNA valued in the UK?](https://www.reddit.com/r/InformationTechnology/comments/x4e98m/is_comptia_or_ccna_valued_in_the_uk/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

@@ -415,6 +415,8 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Career Progression](https://www.reddit.com/r/InformationTechnology/comments/x7g3jr/career_progression/)
+- [Reliable &amp; Affordable Website Hosting in Very Reasonable Price](https://www.reddit.com/r/InformationTechnology/comments/x7cavy/reliable_affordable_website_hosting_in_very/)
 - [Podcasts for learning](https://www.reddit.com/r/InformationTechnology/comments/x6yean/podcasts_for_learning/)
 - [is it easy to find a entry level network administrator job with a bachelor&#39;s degree in computer technology from Kent state?](https://www.reddit.com/r/InformationTechnology/comments/x6veft/is_it_easy_to_find_a_entry_level_network/)
 - [I&#39;ve been out of the work force for 5 years because of addiction. I&#39;m now 10 months clean and have no criminal record. I have a bachelor&#39;s degree in computer technology with 6 months experience. After I heal from addiction and get my motivation back, will I be able to find another computer job?](https://www.reddit.com/r/InformationTechnology/comments/x6va5c/ive_been_out_of_the_work_force_for_5_years/)
@@ -423,8 +425,6 @@
 - [How to get a job at Google as a software engineer](https://www.reddit.com/r/InformationTechnology/comments/x5ve3m/how_to_get_a_job_at_google_as_a_software_engineer/)
 - [IT Green Field](https://www.reddit.com/r/InformationTechnology/comments/x5pj7e/it_green_field/)
 - [IT Degree](https://www.reddit.com/r/InformationTechnology/comments/x53a60/it_degree/)
-- [What advice would you give someone who&#39;s going into their first service desk job](https://www.reddit.com/r/InformationTechnology/comments/x4xl8x/what_advice_would_you_give_someone_whos_going/)
-- [I&#39;m currently having internships in IT on Hotel u would like to learn more about how network work on hotel I&#39;m looking for any resource related](https://www.reddit.com/r/InformationTechnology/comments/x4ueg6/im_currently_having_internships_in_it_on_hotel_u/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

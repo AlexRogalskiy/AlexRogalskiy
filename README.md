@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Rapid retreat of Thwaites Glacier in the pre-satellite era](https://www.nature.com/articles/s41561-022-01019-9)
-- [We&#39;re about to experience sovereign debt crisis caused by Europe energy crisis](https://twitter.com/fejau_inc/status/1566657303784263681)
-- [The Shocking Problem That Could End Nuclear Fusion](https://www.youtube.com/watch?v=VHZMW0AmAKw)
-- [Ask HN: What’s coming in the next few months in image generators?](https://news.ycombinator.com/item?id=32732676)
-- [Porter Stemming Algorithm &lpar;2006&rpar;](https://tartarus.org/martin/PorterStemmer/)
-- [Rules of Makefiles &lpar;2015&rpar;](https://web.archive.org/web/20220211210124/http://make.mad-scientist.net/papers/rules-of-makefiles/)
-- [Diskuv OCaml – The Windows-friendly distribution of OCaml](https://github.com/diskuv/dkml-installer-ocaml)
-- [Search with Bing in the Microsoft Edge browser – earn up to 600 points a month](https://www.microsoft.com/en-us/rewards/edge-bonus)
-- [Crypto researcher’s fake Ponzi raises $100K in hours](https://cointelegraph.com/news/far-too-easy-crypto-researcher-s-fake-ponzi-raises-100k-in-hours)
-- [Interactive tool to generate basic design systems](https://hihayk.github.io/shaper/)
+- [Tarantula Nebula](https://www.youtube.com/watch?v=M7ySqzAHEXI)
+- [Open Knowledge Movement: Personal Reflections](https://rtnf.my.id/wiki-osm)
+- [Please just tell me what you do](https://evanjconrad.com/posts/nothing-language)
+- [Game Emulation via Neural Network](https://madebyoll.in/posts/game_emulation_via_dnn/)
+- [Ask HN: Repos with good deep learning code?](https://news.ycombinator.com/item?id=32746178)
+- [Ask HN: SDR Equivalent for Fiber Optic/Light](https://news.ycombinator.com/item?id=32746174)
+- [Fractions: Where it all goes wrong](https://www.scientificamerican.com/article/fractions-where-it-all-goes-wrong/)
+- [Micro-Abrasive Blasting: Etching Surfaces Cheaply and Without Chemicals &lpar;2014&rpar;](https://www.instructables.com/Etching-On-Any-Surface-Cheaply-And-Without-The-Use/)
+- [Will the world ever be all underwater](https://www.amnh.org/explore/ology/earth/ask-a-scientist-about-our-environment/will-the-world-ever-be-all-under-water)
+- [Caravanserai](https://en.wikipedia.org/wiki/Caravanserai)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

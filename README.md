@@ -355,6 +355,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Is Apple preparing its big idea for digital health?](https://www.computerworld.com/article/3672410/is-apple-preparing-its-big-idea-for-digital-health.html#tk.rss_all)
+- [When Windows updating goes bad — the case of the problematic patch](https://www.computerworld.com/article/3672150/when-windows-updating-goes-bad-the-case-of-the-problematic-patch.html#tk.rss_all)
+- [How many jobs are available in technology?](https://www.computerworld.com/article/3542681/how-many-jobs-are-available-in-technology.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
 - [Apple wasn’t fooling when it said it wanted to make Macs more secure](https://www.computerworld.com/article/3672528/apple-wasnt-fooling-when-it-said-it-wanted-to-make-macs-more-secure.html#tk.rss_all)
@@ -362,9 +365,6 @@
 - [Apple pushes out emergency updates to address zero-day exploits](https://www.computerworld.com/article/3672111/apple-pushes-out-emergency-updates-to-address-zero-day-exploits.html#tk.rss_all)
 - [Podcast: Far Out up close — previewing Apple&#39;s big iPhone event](https://www.computerworld.com/article/3672431/podcast-far-out-up-close-previewing-apples-big-iphone-event.html#tk.rss_all)
 - [Will Apple make the App Store &lpar;more&rpar; business-friendly?](https://www.computerworld.com/article/3672238/will-apple-make-the-app-store-more-business-friendly.html#tk.rss_all)
-- [How to build a ‘citizen developer’ workforce](https://www.computerworld.com/article/3672108/how-to-build-a-citizen-development-workforce.html#tk.rss_all)
-- [Blockchain, AI, and the metaverse — tools for better decision-making?](https://www.computerworld.com/article/3672428/blockchain-ai-and-the-metaverse-tools-for-better-decision-making.html#tk.rss_all)
-- [Addigy enables IT to automate Apple device configuration policies](https://www.computerworld.com/article/3671671/addigy-enables-it-to-automate-apple-device-configuration-policies.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

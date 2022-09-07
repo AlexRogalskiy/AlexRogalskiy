@@ -370,16 +370,16 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Leveraging the Power of Online Employee Self-Service Portals](https://www.informationweek.com/strategic-cio/leveraging-the-power-of-online-employee-self-service-portals)
+- [How to Optimize Your Organization for Innovation](https://www.informationweek.com/strategic-cio/how-to-optimize-your-organization-for-innovation)
+- [Quick Study: E-Commerce](https://www.informationweek.com/software/quick-study-e-commerce)
 - [Navigating Complexities of M&amp;A: Getting the Culture Right](https://www.informationweek.com/strategic-cio/navigating-complexities-of-m-a-getting-the-culture-right)
 - [Inclusion and Allyship Should be Expected of Male Leaders](https://www.informationweek.com/it-life/inclusion-and-allyship-should-be-expected-of-male-leaders)
 - [Data’s Struggle to Become an Asset](https://www.informationweek.com/big-data/data-s-struggle-to-become-an-asset)
 - [Life in 2050: How Will AI Shape the Future?](https://www.informationweek.com/ai-or-machine-learning/life-in-2050-how-will-ai-shape-the-future-)
+- [Why You Need Self-Serve in the Hybrid Workplace](https://www.informationweek.com/palo-alto-networks/why-you-need-self-serve-in-the-hybrid-workplace)
 - [California Data Privacy Law Nabs Sephora, Sets Stage for Future](https://www.informationweek.com/big-data/california-data-privacy-law-nabs-sephora-sets-stage-for-future)
 - [The Power of AI Coding Assistance](https://www.informationweek.com/software/the-power-of-ai-coding-assistance)
-- [CIOs: Stop Spending on Bad Tech](https://www.informationweek.com/software/cios-stop-spending-on-bad-tech)
-- [How to Logically Evaluate an IT Job Offer](https://www.informationweek.com/it-life/how-to-logically-evaluate-an-it-job-offer)
-- [Why CIOs Need to Be Even More Dominant in the C-Suite Right Now](https://www.informationweek.com/strategic-cio/communication-leadership-skills-come-to-fore-among-cios)
-- [Is Your Business Prepared to Operate After a Ransomware Attack?](https://www.informationweek.com/security-and-risk-strategy/is-your-business-prepared-to-operate-after-a-ransomware-attack-)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

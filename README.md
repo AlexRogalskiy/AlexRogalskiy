@@ -385,16 +385,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Visual Studio Code 1.71 brings merge editor improvements](https://www.infoworld.com/article/3672536/visual-studio-code-171-brings-merge-editor-improvements.html#tk.rss_all)
+- [The emerging field of cloud computing forensics](https://www.infoworld.com/article/3672532/the-emerging-field-of-cloud-computing-forensics.html#tk.rss_all)
+- [IT career roadmap: Cloud engineer](https://www.infoworld.com/article/3671110/it-career-roadmap-cloud-engineer.html#tk.rss_all)
+- [An AI alternative to code search tools](https://www.infoworld.com/article/3669910/an-ai-alternative-to-code-search-tools.html#tk.rss_all)
 - [The cloud is coming for your mainframes](https://www.infoworld.com/article/3672149/the-cloud-is-coming-for-your-mainframes.html#tk.rss_all)
 - [What devops needs to know about data governance](https://www.infoworld.com/article/3672114/what-devops-needs-to-know-about-data-governance.html#tk.rss_all)
 - [8 Java frameworks for embedded development](https://www.infoworld.com/article/3669317/8-java-frameworks-for-embedded-development.html#tk.rss_all)
 - [3 multicloud lessons for cloud architects](https://www.infoworld.com/article/3672430/3-multicloud-lessons-for-cloud-architects.html#tk.rss_all)
 - [Apple moves WebKit to GitHub](https://www.infoworld.com/article/3672112/apple-moves-webkit-to-github.html#tk.rss_all)
 - [What is blockchain? Decentralized transactions for cryptocurrencies](https://www.infoworld.com/article/3653379/a-quick-guide-to-blockchain.html#tk.rss_all)
-- [How to version minimal APIs in ASP.NET Core 6](https://www.infoworld.com/article/3671870/how-to-version-minimal-apis-in-aspnet-core-6.html#tk.rss_all)
-- [Intro to blockchain consensus mechanisms](https://www.infoworld.com/article/3669316/intro-to-blockchain-consensus-mechanisms.html#tk.rss_all)
-- [JDK 19: The new features in Java 19](https://www.infoworld.com/article/3653331/jdk-19-the-new-features-in-java-19.html#tk.rss_all)
-- [CodeSee launches enterprise plan with service maps](https://www.infoworld.com/article/3671988/codesee-launches-enterprise-plan-with-service-maps.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

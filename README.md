@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [‘Straight to business’: what the papers said about Liz Truss’s victory](https://www.theguardian.com/politics/2022/sep/06/i-will-deliver-what-the-papers-said-about-liz-trusss-victory)
-- [‘They twist the message’: Brazilian writer faces ire of Bolsonaro backers](https://www.theguardian.com/world/2022/sep/06/brazilian-writer-julian-fuks-faces-ire-jair-bolsonaro-backers)
-- [Russia buying millions of rockets and shells from North Korea, US intelligence says](https://www.theguardian.com/world/2022/sep/06/russia-buying-millions-rockets-shells-north-korea-us-intelligence-ukraine)
-- [Scientists hope ‘world’s loneliest tree’ will help answer climate questions](https://www.theguardian.com/world/2022/sep/06/scientists-hope-worlds-loneliest-tree-will-help-answer-climate-questions)
-- [Thirty-five civilians killed in convoy blast in Burkina Faso](https://www.theguardian.com/world/2022/sep/06/dozens-civilians-killed-burkina-faso-convoy-blast)
-- [‘We screamed our hearts out for help’: homeless escape Pakistan floods](https://www.theguardian.com/world/2022/sep/06/we-screamed-our-hearts-out-for-help-homeless-escape-pakistan-floods)
-- [What can Britain expect from Liz Truss as prime minister? – podcast](https://www.theguardian.com/politics/audio/2022/sep/06/what-can-britain-expect-from-liz-truss-as-prime-minister-podcast)
-- [Russia-Ukraine war latest: what we know on day 195 of the invasion](https://www.theguardian.com/world/2022/sep/06/russia-ukraine-war-latest-what-we-know-on-day-195-of-the-invasion)
-- [Kremlin scathing over Truss but Kyiv praises Britain’s new PM](https://www.theguardian.com/politics/2022/sep/05/kremlin-scathing-over-truss-but-kyiv-praises-britains-new-pm)
-- [Frances Tiafoe shocks Rafael Nadal in US Open fourth-round thriller](https://www.theguardian.com/sport/2022/sep/06/frances-tiafoe-rafael-nadal-us-open-tennis-report)
+- [Nick Kyrgios v Karen Khachanov: US Open tennis quarter-final – live!](https://www.theguardian.com/sport/live/2022/sep/06/us-open-tennis-quarter-finals-coco-gauff-nick-kyrgios-latest-score)
+- [Ukraine war and energy crisis on Truss agenda as British PM speaks to Biden](https://www.theguardian.com/politics/2022/sep/07/ukraine-war-and-global-energy-crisis-on-the-agenda-as-truss-and-biden-speak-for-first-time)
+- [Six Gulf states warn Netflix over content violating ‘Islamic values’](https://www.theguardian.com/world/2022/sep/07/six-gulf-states-warn-netflix-over-content-violating-islamic-values)
+- [Elon Musk demands Twitter trial delay over whistleblower concerns](https://www.theguardian.com/technology/2022/sep/06/elon-musk-demands-twitter-trial-delay-over-whistleblower-concerns)
+- [The human cost of Pakistan’s devastating floods](https://www.theguardian.com/news/audio/2022/sep/07/the-human-cost-of-pakistans-devastating-floods)
+- [FBI found document on foreign nuclear defenses at Mar-a-Lago – report](https://www.theguardian.com/us-news/2022/sep/06/donald-trump-mar-a-lago-documents-nuclear-weapons-report)
+- [Top chess player Hans Niemann admits cheating in past but says he is now ‘clean’](https://www.theguardian.com/sport/2022/sep/06/magnus-carlsen-leaves-sinquefield-cup-amid-niemann-chess-cheating-furore)
+- [UN calls for demilitarised zone around Zaporizhzhia nuclear plant](https://www.theguardian.com/world/2022/sep/06/iaea-gravely-concerned-about-damaged-zaporizhzhia-nuclear-power-plant)
+- [‘Into the storm’: what the papers say about Liz Truss’s first day](https://www.theguardian.com/politics/2022/sep/07/into-the-storm-what-the-papers-say-about-liz-trusss-first-day)
+- [Russia-Ukraine war latest: what we know on day 196 of the invasion](https://www.theguardian.com/world/2022/sep/07/russia-ukraine-war-latest-what-we-know-on-day-196-of-the-invasion)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

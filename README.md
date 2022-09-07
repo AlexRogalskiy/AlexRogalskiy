@@ -400,16 +400,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Campaigners call on Truss to change UK’s archaic hacking laws](https://www.computerweekly.com/news/252524622/Campaigners-call-on-Truss-to-change-UKs-archaic-hacking-laws)
+- [Ministry of Defence taps up NetCompany to support move away from legacy private cloud](https://www.computerweekly.com/news/252524617/Ministry-of-Defence-taps-up-NetCompany-to-support-move-away-from-legacy-private-cloud)
+- [Bus company Go-Ahead fighting off cyber attack](https://www.computerweekly.com/news/252524613/Bus-company-Go-Ahead-fighting-off-cyber-attack)
+- [New prime minister Liz Truss urged to press on with IR35 and loan charge policy reviews](https://www.computerweekly.com/news/252524615/New-Prime-Minister-Liz-Truss-urged-to-press-on-with-IR35-and-Loan-Charge-policy-reviews)
+- [Saudi Arabian organisations choose to outsource to improve cyber security posture](https://www.computerweekly.com/news/252524612/Saudi-Arabian-organisations-choose-to-outsource-to-improve-cyber-security-posture)
+- [Out with the old at Asda](https://www.computerweekly.com/ezine/Computer-Weekly/Out-with-the-old-at-Asda)
 - [UK payments upgrade to add more than £3bn to GDP, but much more on offer](https://www.computerweekly.com/news/252524579/UK-payments-upgrade-to-add-more-than-3bn-to-GDP-but-much-more-on-offer)
 - [Data-driven government needs practical steps](https://www.computerweekly.com/opinion/Data-driven-government-needs-practical-steps)
 - [Russian-speaking cyber criminals feel economic pinch](https://www.computerweekly.com/news/252524585/Russian-speaking-cyber-criminals-feel-economic-pinch)
 - [How water conservation and management floats on cloud](https://www.computerweekly.com/feature/How-water-conservation-and-management-floats-on-cloud)
-- [How Okta is regaining customer trust after a cyber attack](https://www.computerweekly.com/news/252524121/How-Okta-is-regaining-customer-trust-after-a-cyber-attack)
-- [Security Think Tank: Good procurement practices pave the way to app security](https://www.computerweekly.com/opinion/Security-Think-Tank-Good-procurement-practices-pave-the-way-to-app-security)
-- [New connectivity options driven by low Earth orbit satellites](https://www.computerweekly.com/feature/New-connectivity-options-driven-by-low-Earth-orbit-satellites)
-- [Cloud bursting: What it is and what it’s good for](https://www.computerweekly.com/feature/Cloud-bursting-What-it-is-and-what-its-good-for)
-- [Interview: Sibstar, the fintech app for dementia sufferers](https://www.computerweekly.com/news/252524416/Interview-Sibstar-the-fintech-app-for-dementia-sufferers)
-- [Dutch government finally allowed to use public cloud](https://www.computerweekly.com/news/252524519/Dutch-government-finally-allowed-to-use-public-cloud)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

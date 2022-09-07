@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Long-term cardiac pathology in individuals with mild initial Covid-19 illness](https://www.nature.com/articles/s41591-022-02000-0)
-- [How sustainable are fake meats?](https://knowablemagazine.org/article/food-environment/2022/how-sustainable-are-fake-meats)
-- [Chitchatter: A P2P chat app that is serverless, decentralized, and ephemeral](https://chitchatter.im/)
-- [Keith Davis: He was protecting the oceans – then he disappeared](https://www.bbc.com/news/world-us-canada-62603911)
-- [Killing invasive species is now a competitive sport](https://www.newyorker.com/magazine/2022/09/12/killing-invasive-species-is-now-a-competitive-sport)
-- [Dreamy Blur](https://yuanchuan.dev/dreamy-blur)
-- [I patched my Slack client to keep “oops” messages others delete](https://github.com/SharonBrizinov/slack-anti-delete)
-- [Show HN: WakaQ - a Python distributed task queue](https://wakatime.com/blog/56-building-a-distributed-task-queue-in-python)
-- [Static site hosting hurdles](https://notes.volution.ro/v1/2022/09/notes/b08118d8/)
-- [How to present backend demos](https://rxhl.notion.site/How-To-Present-Backend-Demos-861303c09e3e48fcb33a2a6999260e59)
+- [Jeremy is homeschooling his daughter](https://www.fast.ai/2022/09/06/homeschooling/)
+- [City-based soda pop taxes don’t effectively reduce sugar consumption](https://news.uga.edu/soda-pop-taxes-dont-reduce-sugar-consumption/)
+- [From Common Lisp to Julia](https://mfiano.net/posts/2022-09-04-from-common-lisp-to-julia/)
+- [Etleap &lpar;YC W13&rpar; Is Hiring Software Engineer – London](https://etleap.com/careers/software-engineer/)
+- [On the Efficacy of Online Proctoring using Proctorio &lpar;2021&rpar; [pdf]](https://ris.utwente.nl/ws/portalfiles/portal/275927505/3e2a9e5b2fad237a3d35f36fa2c5f44552f2.pdf)
+- [Ocean Shipping Rates Have Plunged 60% This Year](https://www.wsj.com/articles/ocean-shipping-rates-have-plunged-60-this-year-11662375780)
+- [Monocraft: A programming font based on the typeface used in Minecraft](https://github.com/IdreesInc/Monocraft)
+- [Preact Signals](https://github.com/preactjs/signals)
+- [Magnetic Cooling Cycle](https://www.magnotherm.com/technology/)
+- [New Text and Array Functions for Excel](https://techcommunity.microsoft.com/t5/excel-blog/announcing-new-text-and-array-functions/ba-p/3186066)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

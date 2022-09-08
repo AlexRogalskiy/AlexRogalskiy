@@ -415,16 +415,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [What is my role?](https://www.reddit.com/r/InformationTechnology/comments/x8lq02/what_is_my_role/)
+- [Help me gain some insight for my research](https://www.reddit.com/r/InformationTechnology/comments/x8jzms/help_me_gain_some_insight_for_my_research/)
+- [Will a Corsair H60 &lpar;120mm&rpar; Water Cool Radiator handle the temps with an AMD Ryzen 7 4800x CPU?](https://www.reddit.com/r/InformationTechnology/comments/x8i6qm/will_a_corsair_h60_120mm_water_cool_radiator/)
 - [Career Progression](https://www.reddit.com/r/InformationTechnology/comments/x7g3jr/career_progression/)
-- [Reliable &amp; Affordable Website Hosting in Very Reasonable Price](https://www.reddit.com/r/InformationTechnology/comments/x7cavy/reliable_affordable_website_hosting_in_very/)
 - [Podcasts for learning](https://www.reddit.com/r/InformationTechnology/comments/x6yean/podcasts_for_learning/)
 - [is it easy to find a entry level network administrator job with a bachelor&#39;s degree in computer technology from Kent state?](https://www.reddit.com/r/InformationTechnology/comments/x6veft/is_it_easy_to_find_a_entry_level_network/)
 - [I&#39;ve been out of the work force for 5 years because of addiction. I&#39;m now 10 months clean and have no criminal record. I have a bachelor&#39;s degree in computer technology with 6 months experience. After I heal from addiction and get my motivation back, will I be able to find another computer job?](https://www.reddit.com/r/InformationTechnology/comments/x6va5c/ive_been_out_of_the_work_force_for_5_years/)
 - [is this job alright?](https://www.reddit.com/r/InformationTechnology/comments/x5xjf9/is_this_job_alright/)
 - [i don&#39;t have experience 0 year on IT my position now IT support and i want to be good at it but it&#39;s so hard to my team to guide me for everything so it&#39;s hard to keep me in the job what should I do?](https://www.reddit.com/r/InformationTechnology/comments/x5vqkx/i_dont_have_experience_0_year_on_it_my_position/)
 - [How to get a job at Google as a software engineer](https://www.reddit.com/r/InformationTechnology/comments/x5ve3m/how_to_get_a_job_at_google_as_a_software_engineer/)
-- [IT Green Field](https://www.reddit.com/r/InformationTechnology/comments/x5pj7e/it_green_field/)
-- [IT Degree](https://www.reddit.com/r/InformationTechnology/comments/x53a60/it_degree/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

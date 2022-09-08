@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Jeremy is homeschooling his daughter](https://www.fast.ai/2022/09/06/homeschooling/)
-- [City-based soda pop taxes don’t effectively reduce sugar consumption](https://news.uga.edu/soda-pop-taxes-dont-reduce-sugar-consumption/)
-- [From Common Lisp to Julia](https://mfiano.net/posts/2022-09-04-from-common-lisp-to-julia/)
-- [Etleap &lpar;YC W13&rpar; Is Hiring Software Engineer – London](https://etleap.com/careers/software-engineer/)
-- [On the Efficacy of Online Proctoring using Proctorio &lpar;2021&rpar; [pdf]](https://ris.utwente.nl/ws/portalfiles/portal/275927505/3e2a9e5b2fad237a3d35f36fa2c5f44552f2.pdf)
-- [Ocean Shipping Rates Have Plunged 60% This Year](https://www.wsj.com/articles/ocean-shipping-rates-have-plunged-60-this-year-11662375780)
-- [Monocraft: A programming font based on the typeface used in Minecraft](https://github.com/IdreesInc/Monocraft)
-- [Preact Signals](https://github.com/preactjs/signals)
-- [Magnetic Cooling Cycle](https://www.magnotherm.com/technology/)
-- [New Text and Array Functions for Excel](https://techcommunity.microsoft.com/t5/excel-blog/announcing-new-text-and-array-functions/ba-p/3186066)
+- [I Tracked Everything I Read on the Internet for a Year](https://www.tdpain.net/blog/a-year-of-reading)
+- [5k Years Later, Beavers Return to the High Plains of West Texas](https://www.texasmonthly.com/travel/5000-years-later-beavers-return-high-plains-texas/)
+- [Our attention span is being robbed](https://unstructed.tech/2022/09/07/your-attention-span-is-being-robbed/)
+- [Riding in a peloton is the most energy efficient locomotion, finds new research](https://bikebiz.com/peloton-riding-is-planets-most-energy-efficient-locomotion-finds-new-research/)
+- [Why companies are interested in Myers-Briggs types](https://daily.jstor.org/why-companies-are-so-interested-in-your-myers-briggs-type/)
+- [Shannon Entropy Imposes Fundamental Limits on Communication](https://www.quantamagazine.org/how-claude-shannons-concept-of-entropy-quantifies-information-20220906/)
+- [Korean nuclear fusion reactor achieves 100M°C for 30 seconds](https://www.shiningscience.com/2022/09/korean-nuclear-fusion-reactor-achieves.html)
+- [New technical analysis confirms the evidence against Billy Mitchell](https://perfectpacman.com/2022/09/06/new-technical-analysis/)
+- [Globalstar SEC filing, Apple to use 85% of its satellite network capacity](https://sec.report/Document/0001366868-22-000059/)
+- [Emergency SOS via satellite is included for free with iPhone 14 Pro for 2 years](https://www.apple.com/iphone-14-pro/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

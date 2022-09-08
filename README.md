@@ -385,6 +385,9 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Doomed GitHub Trending page may be saved](https://www.infoworld.com/article/3673008/doomed-github-trending-page-may-be-saved.html#tk.rss_all)
+- [Golang adds vulnerability management tooling](https://www.infoworld.com/article/3672928/golang-adds-vulnerability-management-tooling.html#tk.rss_all)
+- [Dremio Cloud review: A fast and flexible data lakehouse on AWS](https://www.infoworld.com/article/3671872/dremio-cloud-review-a-fast-and-flexible-data-lakehouse-on-aws.html#tk.rss_all)
 - [Visual Studio Code 1.71 brings merge editor improvements](https://www.infoworld.com/article/3672536/visual-studio-code-171-brings-merge-editor-improvements.html#tk.rss_all)
 - [The emerging field of cloud computing forensics](https://www.infoworld.com/article/3672532/the-emerging-field-of-cloud-computing-forensics.html#tk.rss_all)
 - [IT career roadmap: Cloud engineer](https://www.infoworld.com/article/3671110/it-career-roadmap-cloud-engineer.html#tk.rss_all)
@@ -392,9 +395,6 @@
 - [The cloud is coming for your mainframes](https://www.infoworld.com/article/3672149/the-cloud-is-coming-for-your-mainframes.html#tk.rss_all)
 - [What devops needs to know about data governance](https://www.infoworld.com/article/3672114/what-devops-needs-to-know-about-data-governance.html#tk.rss_all)
 - [8 Java frameworks for embedded development](https://www.infoworld.com/article/3669317/8-java-frameworks-for-embedded-development.html#tk.rss_all)
-- [3 multicloud lessons for cloud architects](https://www.infoworld.com/article/3672430/3-multicloud-lessons-for-cloud-architects.html#tk.rss_all)
-- [Apple moves WebKit to GitHub](https://www.infoworld.com/article/3672112/apple-moves-webkit-to-github.html#tk.rss_all)
-- [What is blockchain? Decentralized transactions for cryptocurrencies](https://www.infoworld.com/article/3653379/a-quick-guide-to-blockchain.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

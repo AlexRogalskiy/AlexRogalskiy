@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Tarantula Nebula](https://www.youtube.com/watch?v=M7ySqzAHEXI)
-- [Open Knowledge Movement: Personal Reflections](https://rtnf.my.id/wiki-osm)
-- [Please just tell me what you do](https://evanjconrad.com/posts/nothing-language)
-- [Game Emulation via Neural Network](https://madebyoll.in/posts/game_emulation_via_dnn/)
-- [Ask HN: Repos with good deep learning code?](https://news.ycombinator.com/item?id=32746178)
-- [Ask HN: SDR Equivalent for Fiber Optic/Light](https://news.ycombinator.com/item?id=32746174)
-- [Fractions: Where it all goes wrong](https://www.scientificamerican.com/article/fractions-where-it-all-goes-wrong/)
-- [Micro-Abrasive Blasting: Etching Surfaces Cheaply and Without Chemicals &lpar;2014&rpar;](https://www.instructables.com/Etching-On-Any-Surface-Cheaply-And-Without-The-Use/)
-- [Will the world ever be all underwater](https://www.amnh.org/explore/ology/earth/ask-a-scientist-about-our-environment/will-the-world-ever-be-all-under-water)
-- [Caravanserai](https://en.wikipedia.org/wiki/Caravanserai)
+- [Ask HN: When did child grooming on the internet become socially acceptable?](https://news.ycombinator.com/item?id=32761027)
+- [Are Hawaii’s beach showers in violation of the Clean Water Act?](https://undark.org/2022/09/07/hawaii-beach-showers-violation-clean-water-act/)
+- [Surgeons performed a successful amputation 31,000 years ago in Borneo](https://arstechnica.com/science/2022/09/surgeons-performed-a-successful-amputation-31000-years-ago-in-borneo/)
+- [Let’s Stop Talking About Serverless Cold Starts](https://www.readysetcloud.io/blog/allen.helton/lets-stop-talking-about-serverless-cold-starts/)
+- [Parse-Time vs. Run-Time-Based Language Servers: Tradeoffs and Opportunities [pdf]](https://stefan-marr.de/downloads/tmp/parser-based-lsp.pdf)
+- [Revolut is in the middle of a major cost-cutting review, has revoked job offers](https://www.ft.com/content/34037b0a-cad0-4162-a891-9a70da5f84bc)
+- [Notorious dark-matter signal could be due to analysis error](https://www.nature.com/articles/d41586-022-02222-9)
+- [Russia hunts western parts to run its war machines](https://www.politico.eu/article/the-chips-are-down-russia-hunts-western-parts-to-run-its-war-machines/)
+- [UBQ: Material made of garbage could reduce big events’ carbon footprints](https://www.jpost.com/business-and-innovation/energy-and-infrastructure/article-716618)
+- [New malaria vaccine is world-changing, say scientists](https://www.bbc.com/news/health-62797776)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

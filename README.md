@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Nick Kyrgios v Karen Khachanov: US Open tennis quarter-final – live!](https://www.theguardian.com/sport/live/2022/sep/06/us-open-tennis-quarter-finals-coco-gauff-nick-kyrgios-latest-score)
-- [Ukraine war and energy crisis on Truss agenda as British PM speaks to Biden](https://www.theguardian.com/politics/2022/sep/07/ukraine-war-and-global-energy-crisis-on-the-agenda-as-truss-and-biden-speak-for-first-time)
-- [Six Gulf states warn Netflix over content violating ‘Islamic values’](https://www.theguardian.com/world/2022/sep/07/six-gulf-states-warn-netflix-over-content-violating-islamic-values)
-- [Elon Musk demands Twitter trial delay over whistleblower concerns](https://www.theguardian.com/technology/2022/sep/06/elon-musk-demands-twitter-trial-delay-over-whistleblower-concerns)
-- [The human cost of Pakistan’s devastating floods](https://www.theguardian.com/news/audio/2022/sep/07/the-human-cost-of-pakistans-devastating-floods)
-- [FBI found document on foreign nuclear defenses at Mar-a-Lago – report](https://www.theguardian.com/us-news/2022/sep/06/donald-trump-mar-a-lago-documents-nuclear-weapons-report)
-- [Top chess player Hans Niemann admits cheating in past but says he is now ‘clean’](https://www.theguardian.com/sport/2022/sep/06/magnus-carlsen-leaves-sinquefield-cup-amid-niemann-chess-cheating-furore)
-- [UN calls for demilitarised zone around Zaporizhzhia nuclear plant](https://www.theguardian.com/world/2022/sep/06/iaea-gravely-concerned-about-damaged-zaporizhzhia-nuclear-power-plant)
-- [‘Into the storm’: what the papers say about Liz Truss’s first day](https://www.theguardian.com/politics/2022/sep/07/into-the-storm-what-the-papers-say-about-liz-trusss-first-day)
-- [Russia-Ukraine war latest: what we know on day 196 of the invasion](https://www.theguardian.com/world/2022/sep/07/russia-ukraine-war-latest-what-we-know-on-day-196-of-the-invasion)
+- [Cineworld files for Chapter 11 bankruptcy protection in US](https://www.theguardian.com/business/2022/sep/08/cineworld-files-for-chapter-11-bankruptcy-protection-in-us)
+- [Local official arrested after Las Vegas reporter Jeff German found dead](https://www.theguardian.com/us-news/2022/sep/07/journalist-stabbing-las-vegas-jeff-german)
+- [White House warns Truss over efforts to ‘undo’ Northern Ireland protocol](https://www.theguardian.com/politics/2022/sep/08/white-house-warns-truss-over-efforts-to-undo-northern-ireland-protocol)
+- [Memphis shooting: arrest made after reports of man firing at people while recording on Facebook](https://www.theguardian.com/us-news/2022/sep/07/memphis-tennessee-shooter-driver-facebook)
+- [Liz Truss: the first 48 hours](https://www.theguardian.com/news/audio/2022/sep/08/liz-truss-the-first-48-hours)
+- [Temperatures smash records in US west as brutal heatwave continues](https://www.theguardian.com/us-news/2022/sep/07/california-record-temperatures-heatwave-blackouts-sacramento-reno)
+- [Top seed Iga Swiatek sees off Jessica Pegula to reach first US Open semi-final](https://www.theguardian.com/sport/2022/sep/07/iga-swiatek-jessica-pegula-us-open-match-report)
+- [Bolsonaro supporters fill Copacabana beach in yellow-shirted show of force](https://www.theguardian.com/world/2022/sep/07/brazil-bolsonaro-independence-day-rally-copacabana)
+- [Vietnam karaoke bar fire kills at least 32 people](https://www.theguardian.com/world/2022/sep/08/vietnam-karaoke-bar-fire-kills-at-least-32-people)
+- [Suspect arrested over Canada mass stabbing dies from self-inflicted injuries](https://www.theguardian.com/world/2022/sep/07/canada-stabbing-suspect-arrested-saskatchewan-killings)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

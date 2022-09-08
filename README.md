@@ -430,6 +430,9 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Major Canadian telecommunication companies agree to an emergency outage deal](https://www.itworldcanada.com/article/major-canadian-telecommunication-companies-agree-to-an-emergency-outage-deal/502071)
+- [InterContinental Hotel Group suffers cyberattack](https://www.itworldcanada.com/article/intercontinental-hotel-group-suffers-cyberattack/502027)
+- [Cyber Security Today for Wednesday Sept 7, 2022 – TikTok exposes billions of records, number one attack vector and more…](https://www.itworldcanada.com/article/cybersecuritytoday-for-wednesday-sept-7-2022-tiktok-exposes-billions-of-records-number-one-attack-vector-and-more/501909)
 - [Password manager Bitwarden gets $100M in funding](https://www.itworldcanada.com/article/password-manager-bitwarden-gets-100m-in-funding/501862)
 - [Canada to introduce a three-digit mental health emergency number](https://www.itworldcanada.com/article/canada-to-introduce-a-three-digit-mental-health-emergency-number/501839)
 - [Canadian company uses machine learning to promote DEI in the hiring process](https://www.itworldcanada.com/article/canadian-company-uses-machine-learning-to-promote-dei-in-the-hiring-process/501718)
@@ -437,9 +440,6 @@
 - [Elections Markham and IBM Canada launch virtual assistant](https://www.itworldcanada.com/article/elections-markham-and-ibm-canada-launch-virtual-assistant/501768)
 - [Hashtag Trending Sept. 6 – IRS accidentally leaks financial data; TikTok denies data breach; Amazon shutters two service centres](https://www.itworldcanada.com/article/hashtag-trending-sept-6-irs-accidentally-leaks-financial-data-tiktok-denies-data-breach-amazon-shutters-two-service-centres/501756)
 - [Cyber Security Today, Sept. 5, 2022 – An alert to energy companies, a warning to Linux administrators and more](https://www.itworldcanada.com/article/cyber-security-today-sept-5-2022-an-alert-to-energy-companies-a-warning-to-linux-administrators-and-more/501408)
-- [Samsung says some data on US customers stolen](https://www.itworldcanada.com/article/samsung-says-some-data-on-us-customers-stolen/501373)
-- [Bell to acquire Distributel, a major independent network service provider](https://www.itworldcanada.com/article/bell-to-acquire-distributel-a-major-independent-network-service-provider/501277)
-- [What happened with CentOS will not happen with Rocky Linux: Kurtzer](https://www.itworldcanada.com/article/what-happened-with-centos-will-not-happen-with-rocky-linux-kurtzer/501239)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

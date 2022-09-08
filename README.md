@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [After Apple&#39;s iPhone 14 launch event, a few things to consider](https://www.computerworld.com/article/3672932/after-apples-iphone-14-launch-event-a-few-things-to-consider.html#tk.rss_all)
+- [US Commerce Dept. unveils strategy for distributing CHIPS Act funds](https://www.computerworld.com/article/3672851/us-commerce-dept-unveils-strategy-for-distributing-chips-act-funds.html#tk.rss_all)
+- [America is &lpar;almost&rpar; ready for Apple Reality distortion](https://www.computerworld.com/article/3672120/america-is-almost-ready-for-apple-reality-distortion.html#tk.rss_all)
+- [Slack offers new DocuSign integration to streamline e-signature process](https://www.computerworld.com/article/3672121/slack-offers-new-docusign-integration-to-streamline-e-signature-process.html#tk.rss_all)
+- [Collaboration tech evolves for the post-COVID future](https://www.computerworld.com/article/3671114/collaboration-tech-post-covid-future.html#tk.rss_all)
 - [Is Apple preparing its big idea for digital health?](https://www.computerworld.com/article/3672410/is-apple-preparing-its-big-idea-for-digital-health.html#tk.rss_all)
 - [When Windows updating goes bad — the case of the problematic patch](https://www.computerworld.com/article/3672150/when-windows-updating-goes-bad-the-case-of-the-problematic-patch.html#tk.rss_all)
 - [How many jobs are available in technology?](https://www.computerworld.com/article/3542681/how-many-jobs-are-available-in-technology.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
-- [Apple wasn’t fooling when it said it wanted to make Macs more secure](https://www.computerworld.com/article/3672528/apple-wasnt-fooling-when-it-said-it-wanted-to-make-macs-more-secure.html#tk.rss_all)
-- [Decline in PC and tablet shipments will continue through 2023, says IDC](https://www.computerworld.com/article/3672409/decline-in-pc-and-tablet-shipments-will-continue-through-2023-says-idc.html#tk.rss_all)
-- [Apple pushes out emergency updates to address zero-day exploits](https://www.computerworld.com/article/3672111/apple-pushes-out-emergency-updates-to-address-zero-day-exploits.html#tk.rss_all)
-- [Podcast: Far Out up close — previewing Apple&#39;s big iPhone event](https://www.computerworld.com/article/3672431/podcast-far-out-up-close-previewing-apples-big-iphone-event.html#tk.rss_all)
-- [Will Apple make the App Store &lpar;more&rpar; business-friendly?](https://www.computerworld.com/article/3672238/will-apple-make-the-app-store-more-business-friendly.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

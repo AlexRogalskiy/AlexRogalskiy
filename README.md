@@ -385,16 +385,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [How to use EF Core as an in-memory database in ASP.NET Core 6](https://www.infoworld.com/article/3672154/how-to-use-ef-core-as-an-in-memory-database-in-asp-net-core-6.html#tk.rss_all)
+- [Error tracking with JavaScript, React, and Sentry](https://www.infoworld.com/article/3671874/error-tracking-with-javascript-react-and-sentry.html#tk.rss_all)
+- [How to create Word docs from R or Python with Quarto](https://www.infoworld.com/article/3671668/how-to-create-word-docs-from-r-or-python-with-quarto.html#tk.rss_all)
 - [Doomed GitHub Trending page may be saved](https://www.infoworld.com/article/3673008/doomed-github-trending-page-may-be-saved.html#tk.rss_all)
+- [BrandPost: Improving Splunk and Kafka Platforms with Cloud-Native Technologies](https://www.infoworld.com/article/3672930/improving-splunk-and-kafka-platforms-with-cloud-native-technologies.html#tk.rss_all)
 - [Golang adds vulnerability management tooling](https://www.infoworld.com/article/3672928/golang-adds-vulnerability-management-tooling.html#tk.rss_all)
+- [BrandPost: Modernize Your Enterprise Desktop Strategy with Workspot on Google Cloud, Powered by Intel](https://www.infoworld.com/article/3672850/modernize-your-enterprise-desktop-strategy-with-workspot-on-google-cloud-powered-by-intel.html#tk.rss_all)
+- [BrandPost: Intel Leverages SADA Partnership to Help Customers Realize Best-In-Class Cost and Performance on Google Cloud](https://www.infoworld.com/article/3672868/intel-leverages-sada-partnership-to-help-customers-realize-best-in-class-cost-and-performance-on-go.html#tk.rss_all)
+- [BrandPost: An Ecosystem Solution for Confidential Computing](https://www.infoworld.com/article/3672122/an-ecosystem-solution-for-confidential-computing.html#tk.rss_all)
 - [Dremio Cloud review: A fast and flexible data lakehouse on AWS](https://www.infoworld.com/article/3671872/dremio-cloud-review-a-fast-and-flexible-data-lakehouse-on-aws.html#tk.rss_all)
-- [Visual Studio Code 1.71 brings merge editor improvements](https://www.infoworld.com/article/3672536/visual-studio-code-171-brings-merge-editor-improvements.html#tk.rss_all)
-- [The emerging field of cloud computing forensics](https://www.infoworld.com/article/3672532/the-emerging-field-of-cloud-computing-forensics.html#tk.rss_all)
-- [IT career roadmap: Cloud engineer](https://www.infoworld.com/article/3671110/it-career-roadmap-cloud-engineer.html#tk.rss_all)
-- [An AI alternative to code search tools](https://www.infoworld.com/article/3669910/an-ai-alternative-to-code-search-tools.html#tk.rss_all)
-- [The cloud is coming for your mainframes](https://www.infoworld.com/article/3672149/the-cloud-is-coming-for-your-mainframes.html#tk.rss_all)
-- [What devops needs to know about data governance](https://www.infoworld.com/article/3672114/what-devops-needs-to-know-about-data-governance.html#tk.rss_all)
-- [8 Java frameworks for embedded development](https://www.infoworld.com/article/3669317/8-java-frameworks-for-embedded-development.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

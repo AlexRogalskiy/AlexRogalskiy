@@ -415,16 +415,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Brand new DC](https://www.reddit.com/r/InformationTechnology/comments/x9kth9/brand_new_dc/)
+- [How to separate support from projects with a small team?](https://www.reddit.com/r/InformationTechnology/comments/x9d8a7/how_to_separate_support_from_projects_with_a/)
+- [Best Sharepoint Training for groups](https://www.reddit.com/r/InformationTechnology/comments/x970ev/best_sharepoint_training_for_groups/)
+- [IT position](https://www.reddit.com/r/InformationTechnology/comments/x93nks/it_position/)
+- [No Audio After Windows Update?](https://www.reddit.com/r/InformationTechnology/comments/x92nzn/no_audio_after_windows_update/)
+- [USB bitlocking](https://www.reddit.com/r/InformationTechnology/comments/x8zfpm/usb_bitlocking/)
+- [Fetching Banking Data](https://www.reddit.com/r/InformationTechnology/comments/x8vlcv/fetching_banking_data/)
+- [Multimillion dollar company blizzard has a server problem](https://www.reddit.com/r/InformationTechnology/comments/x8vl7t/multimillion_dollar_company_blizzard_has_a_server/)
 - [What is my role?](https://www.reddit.com/r/InformationTechnology/comments/x8lq02/what_is_my_role/)
 - [Help me gain some insight for my research](https://www.reddit.com/r/InformationTechnology/comments/x8jzms/help_me_gain_some_insight_for_my_research/)
-- [Will a Corsair H60 &lpar;120mm&rpar; Water Cool Radiator handle the temps with an AMD Ryzen 7 4800x CPU?](https://www.reddit.com/r/InformationTechnology/comments/x8i6qm/will_a_corsair_h60_120mm_water_cool_radiator/)
-- [Career Progression](https://www.reddit.com/r/InformationTechnology/comments/x7g3jr/career_progression/)
-- [Podcasts for learning](https://www.reddit.com/r/InformationTechnology/comments/x6yean/podcasts_for_learning/)
-- [is it easy to find a entry level network administrator job with a bachelor&#39;s degree in computer technology from Kent state?](https://www.reddit.com/r/InformationTechnology/comments/x6veft/is_it_easy_to_find_a_entry_level_network/)
-- [I&#39;ve been out of the work force for 5 years because of addiction. I&#39;m now 10 months clean and have no criminal record. I have a bachelor&#39;s degree in computer technology with 6 months experience. After I heal from addiction and get my motivation back, will I be able to find another computer job?](https://www.reddit.com/r/InformationTechnology/comments/x6va5c/ive_been_out_of_the_work_force_for_5_years/)
-- [is this job alright?](https://www.reddit.com/r/InformationTechnology/comments/x5xjf9/is_this_job_alright/)
-- [i don&#39;t have experience 0 year on IT my position now IT support and i want to be good at it but it&#39;s so hard to my team to guide me for everything so it&#39;s hard to keep me in the job what should I do?](https://www.reddit.com/r/InformationTechnology/comments/x5vqkx/i_dont_have_experience_0_year_on_it_my_position/)
-- [How to get a job at Google as a software engineer](https://www.reddit.com/r/InformationTechnology/comments/x5ve3m/how_to_get_a_job_at_google_as_a_software_engineer/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

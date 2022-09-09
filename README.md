@@ -430,6 +430,8 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Words from a World Changer](https://www.itworldcanada.com/article/words-from-a-world-changer/501809)
+- [Hashtag Trending Sept. 8 – Apple’s new devices; new U.S. tech restriction against China; YouTube’s acquisition fiasco](https://www.itworldcanada.com/article/hashtag-trending-sept-8-apples-new-devices-new-u-s-tech-restriction-against-china-youtubes-acquisition-fiasco/502077)
 - [Major Canadian telecommunication companies agree to an emergency outage deal](https://www.itworldcanada.com/article/major-canadian-telecommunication-companies-agree-to-an-emergency-outage-deal/502071)
 - [InterContinental Hotel Group suffers cyberattack](https://www.itworldcanada.com/article/intercontinental-hotel-group-suffers-cyberattack/502027)
 - [Cyber Security Today for Wednesday Sept 7, 2022 – TikTok exposes billions of records, number one attack vector and more…](https://www.itworldcanada.com/article/cybersecuritytoday-for-wednesday-sept-7-2022-tiktok-exposes-billions-of-records-number-one-attack-vector-and-more/501909)
@@ -438,8 +440,6 @@
 - [Canadian company uses machine learning to promote DEI in the hiring process](https://www.itworldcanada.com/article/canadian-company-uses-machine-learning-to-promote-dei-in-the-hiring-process/501718)
 - [Coffee Briefing September 6, 2022-YouTube designated second fastest growing brand; Amazon Future Engineer Awards announces winners;  IGM collaborates with Microsoft; and more](https://www.itworldcanada.com/article/coffee-briefing-september-6-2022-youtube-designated-second-fastest-growing-brand-amazon-future-engineer-awards-announces-winners-igm-collaborates-with-microsoft-and-more/501223)
 - [Elections Markham and IBM Canada launch virtual assistant](https://www.itworldcanada.com/article/elections-markham-and-ibm-canada-launch-virtual-assistant/501768)
-- [Hashtag Trending Sept. 6 – IRS accidentally leaks financial data; TikTok denies data breach; Amazon shutters two service centres](https://www.itworldcanada.com/article/hashtag-trending-sept-6-irs-accidentally-leaks-financial-data-tiktok-denies-data-breach-amazon-shutters-two-service-centres/501756)
-- [Cyber Security Today, Sept. 5, 2022 – An alert to energy companies, a warning to Linux administrators and more](https://www.itworldcanada.com/article/cyber-security-today-sept-5-2022-an-alert-to-energy-companies-a-warning-to-linux-administrators-and-more/501408)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

@@ -400,16 +400,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [NCSC CyberUK event heads to Belfast in 2023](https://www.computerweekly.com/news/252524676/NCSC-CyberUK-event-heads-to-Belfast-in-2023)
+- [Chinese APT using PlugX malware on espionage targets](https://www.computerweekly.com/news/252524710/Chinese-APT-using-PlugX-malware-on-espionage-targets)
+- [Does quantum matter? A Computer Weekly Downtime Upload podcast](https://www.computerweekly.com/podcast/Does-quantum-matter-A-Computer-Weekly-Downtime-Upload-podcast)
+- [Dutch cyber security organisations to join forces](https://www.computerweekly.com/news/252524711/Dutch-cyber-security-organisations-to-join-forces)
+- [The changing role of CIO in Sweden](https://www.computerweekly.com/feature/The-changing-role-of-CIO-in-Sweden)
+- [Security Think Tank: Creating a DevSecOps-friendly cyber strategy](https://www.computerweekly.com/opinion/Security-Think-Tank-Creating-a-DevSecOps-friendly-cyber-strategy)
 - [Albania cuts diplomatic ties with Iran after cyber attack](https://www.computerweekly.com/news/252524673/Albania-cuts-diplomatic-ties-with-Iran-after-cyber-attack)
 - [Six UK-based startups among those chosen to participate in AWS Defence Accelerator](https://www.computerweekly.com/news/252524670/Six-UK-based-startups-among-those-chosen-to-participate-in-AWS-Defence-Accelerator)
 - [Tech Nation Libra programme selects 35 scaleups for second cohort](https://www.computerweekly.com/news/252524663/Tech-Nation-Libra-programme-accepts-35-scaleups-for-second-cohort)
 - [August ’22 a bumper month for high-impact vulnerabilities](https://www.computerweekly.com/news/252524667/August-22-a-bumper-month-for-high-impact-vulnerabilities)
-- [Prince’s Trust teams with threat management specialist in skills push](https://www.computerweekly.com/news/252524659/Princes-Trust-teams-with-threat-management-specialist-in-skills-push)
-- [Hotel group IHG confirms cyber attack after two-day outage](https://www.computerweekly.com/news/252524656/Hotel-group-IHG-confirms-cyber-attack-after-two-day-outage)
-- [US remains favoured datacentre location for world’s hyperscale cloud and internet giants](https://www.computerweekly.com/news/252524660/US-remains-favoured-datacentre-location-for-worlds-hyperscale-cloud-and-internet-giants)
-- [How Sweden goes about innovating](https://www.computerweekly.com/feature/How-Sweden-goes-about-innovating)
-- [Cyber threats to Europe’s grid: Utilities rethink strategy](https://www.computerweekly.com/news/252524655/Cyber-threats-to-Europes-grid-Utilities-rethink-strategy)
-- [VMware’s vSAN 8 gets a rebuild for the solid-state storage era](https://www.computerweekly.com/news/252524591/VMwares-vSAN-8-gets-a-rebuild-for-the-solid-state-storage-era)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

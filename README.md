@@ -370,16 +370,16 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Twilio Breach: 5 Questions to Ask About Protecting Your Own Business](https://www.informationweek.com/security-and-risk-strategy/twilio-breach-5-questions-to-ask-about-protecting-your-own-business)
+- [Crash Course on E-Discovery for CIOs and CDOs](https://www.informationweek.com/security-and-risk-strategy/crash-course-on-e-discovery-for-cios-and-cdos)
+- [FinTech Tools, Security Concerns Top of Mind for Gen-Z Banking](https://www.informationweek.com/fintech/fintech-tools-security-concerns-top-of-mind-for-gen-z-banking)
+- [Serving Today&#39;s Customer: Honor the Surface](https://www.informationweek.com/mobile/serving-today-s-customer-honor-the-surface)
 - [The Annual Drama of Digital Transformation](https://www.informationweek.com/strategic-cio/the-annual-drama-of-digital-transformation)
 - [Offboarding Staff Securely: Best Practices in the Extended Workforce Era](https://www.informationweek.com/security-and-risk-strategy/offboarding-staff-securely-best-practices-in-the-extended-workforce-era)
 - [There Are Pros and Cons to Outsourcing Coding Globally](https://www.informationweek.com/software/there-are-pros-and-cons-to-outsourcing-coding-globally)
 - [The Wild Ride in Tech Dealmaking Continues](https://www.informationweek.com/software/the-wild-ride-in-tech-dealmaking-continues)
 - [Leveraging the Power of Online Employee Self-Service Portals](https://www.informationweek.com/strategic-cio/leveraging-the-power-of-online-employee-self-service-portals)
 - [How to Optimize Your Organization for Innovation](https://www.informationweek.com/strategic-cio/how-to-optimize-your-organization-for-innovation)
-- [Quick Study: E-Commerce](https://www.informationweek.com/software/quick-study-e-commerce)
-- [Navigating Complexities of M&amp;A: Getting the Culture Right](https://www.informationweek.com/strategic-cio/navigating-complexities-of-m-a-getting-the-culture-right)
-- [Inclusion and Allyship Should be Expected of Male Leaders](https://www.informationweek.com/it-life/inclusion-and-allyship-should-be-expected-of-male-leaders)
-- [Data’s Struggle to Become an Asset](https://www.informationweek.com/big-data/data-s-struggle-to-become-an-asset)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

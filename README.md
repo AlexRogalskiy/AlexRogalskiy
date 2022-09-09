@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Cineworld files for Chapter 11 bankruptcy protection in US](https://www.theguardian.com/business/2022/sep/08/cineworld-files-for-chapter-11-bankruptcy-protection-in-us)
-- [Local official arrested after Las Vegas reporter Jeff German found dead](https://www.theguardian.com/us-news/2022/sep/07/journalist-stabbing-las-vegas-jeff-german)
-- [White House warns Truss over efforts to ‘undo’ Northern Ireland protocol](https://www.theguardian.com/politics/2022/sep/08/white-house-warns-truss-over-efforts-to-undo-northern-ireland-protocol)
-- [Memphis shooting: arrest made after reports of man firing at people while recording on Facebook](https://www.theguardian.com/us-news/2022/sep/07/memphis-tennessee-shooter-driver-facebook)
-- [Liz Truss: the first 48 hours](https://www.theguardian.com/news/audio/2022/sep/08/liz-truss-the-first-48-hours)
-- [Temperatures smash records in US west as brutal heatwave continues](https://www.theguardian.com/us-news/2022/sep/07/california-record-temperatures-heatwave-blackouts-sacramento-reno)
-- [Top seed Iga Swiatek sees off Jessica Pegula to reach first US Open semi-final](https://www.theguardian.com/sport/2022/sep/07/iga-swiatek-jessica-pegula-us-open-match-report)
-- [Bolsonaro supporters fill Copacabana beach in yellow-shirted show of force](https://www.theguardian.com/world/2022/sep/07/brazil-bolsonaro-independence-day-rally-copacabana)
-- [Vietnam karaoke bar fire kills at least 32 people](https://www.theguardian.com/world/2022/sep/08/vietnam-karaoke-bar-fire-kills-at-least-32-people)
-- [Suspect arrested over Canada mass stabbing dies from self-inflicted injuries](https://www.theguardian.com/world/2022/sep/07/canada-stabbing-suspect-arrested-saskatchewan-killings)
+- [Death of Queen Elizabeth II: world leaders pay tribute as King Charles III expresses ‘greatest sadness’ – latest news](https://www.theguardian.com/uk-news/live/2022/sep/08/queen-elizabeth-ii-dies-royals-monarchy-latest-news-updates)
+- [Josh Allen leads Buffalo Bills to victory over LA Rams in NFL season opener](https://www.theguardian.com/sport/2022/sep/08/buffalo-bills-los-angeles-rams-nfl-season-opener-josh-allen)
+- [Iga Swiatek and Ons Jabeur to meet for US Open title after semi-final wins – as it happened](https://www.theguardian.com/sport/live/2022/sep/08/us-open-tennis-semi-finals-live)
+- [The life and death of Queen Elizabeth II – podcast](https://www.theguardian.com/news/audio/2022/sep/09/the-life-and-death-of-queen-elizabeth-ii-podcast)
+- [‘Our hearts are broken’: how the UK papers reported the death of the Queen](https://www.theguardian.com/uk-news/2022/sep/09/our-hearts-are-broken-how-the-uk-papers-reported-the-death-of-the-queen)
+- [Fires, heat … a hurricane? California’s ‘most unusual’ week of extreme weather](https://www.theguardian.com/us-news/2022/sep/08/california-wildfires-fairview-fire-heatwave)
+- [Russia-Ukraine war latest: what we know on day 198 of the invasion](https://www.theguardian.com/world/2022/sep/09/russia-ukraine-war-latest-what-we-know-on-day-198-of-the-invasion)
+- [Kim Jong-un says new law guarantees North Korea will never give up nuclear weapons](https://www.theguardian.com/world/2022/sep/09/kim-jong-un-says-new-law-guarantees-north-korea-will-never-give-up-nuclear-weapons)
+- [Justice department appeals special master ruling for Trump documents](https://www.theguardian.com/us-news/2022/sep/08/justice-department-appeals-special-master-trump)
+- [Solomon Islands to delay election as PM tells Australia to ‘get ready’ to fund vote](https://www.theguardian.com/world/2022/sep/09/solomon-islands-to-delay-election-as-pm-tells-australia-to-get-ready-to-fund-vote)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -370,6 +370,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [How to Make Vendor Technology Bakeoffs Work](https://www.informationweek.com/software/how-to-make-vendor-technology-bakeoffs-work)
+- [Know Your Adversaries: The Top Network Bad Actors](https://www.informationweek.com/it-life/know-your-adversaries-the-top-network-bad-actors)
 - [Twilio Breach: 5 Questions to Ask About Protecting Your Own Business](https://www.informationweek.com/security-and-risk-strategy/twilio-breach-5-questions-to-ask-about-protecting-your-own-business)
 - [Crash Course on E-Discovery for CIOs and CDOs](https://www.informationweek.com/security-and-risk-strategy/crash-course-on-e-discovery-for-cios-and-cdos)
 - [FinTech Tools, Security Concerns Top of Mind for Gen-Z Banking](https://www.informationweek.com/fintech/fintech-tools-security-concerns-top-of-mind-for-gen-z-banking)
@@ -378,8 +380,6 @@
 - [Offboarding Staff Securely: Best Practices in the Extended Workforce Era](https://www.informationweek.com/security-and-risk-strategy/offboarding-staff-securely-best-practices-in-the-extended-workforce-era)
 - [There Are Pros and Cons to Outsourcing Coding Globally](https://www.informationweek.com/software/there-are-pros-and-cons-to-outsourcing-coding-globally)
 - [The Wild Ride in Tech Dealmaking Continues](https://www.informationweek.com/software/the-wild-ride-in-tech-dealmaking-continues)
-- [Leveraging the Power of Online Employee Self-Service Portals](https://www.informationweek.com/strategic-cio/leveraging-the-power-of-online-employee-self-service-portals)
-- [How to Optimize Your Organization for Innovation](https://www.informationweek.com/strategic-cio/how-to-optimize-your-organization-for-innovation)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

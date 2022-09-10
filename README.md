@@ -415,16 +415,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Recommended skills](https://www.reddit.com/r/InformationTechnology/comments/xadfi3/recommended_skills/)
+- [Anyone know where I can download the Windows 7 ISO?](https://www.reddit.com/r/InformationTechnology/comments/x9vfhf/anyone_know_where_i_can_download_the_windows_7_iso/)
+- [Interview](https://www.reddit.com/r/InformationTechnology/comments/x9sq3g/interview/)
 - [Brand new DC](https://www.reddit.com/r/InformationTechnology/comments/x9kth9/brand_new_dc/)
 - [How to separate support from projects with a small team?](https://www.reddit.com/r/InformationTechnology/comments/x9d8a7/how_to_separate_support_from_projects_with_a/)
 - [Best Sharepoint Training for groups](https://www.reddit.com/r/InformationTechnology/comments/x970ev/best_sharepoint_training_for_groups/)
 - [IT position](https://www.reddit.com/r/InformationTechnology/comments/x93nks/it_position/)
-- [No Audio After Windows Update?](https://www.reddit.com/r/InformationTechnology/comments/x92nzn/no_audio_after_windows_update/)
 - [USB bitlocking](https://www.reddit.com/r/InformationTechnology/comments/x8zfpm/usb_bitlocking/)
 - [Fetching Banking Data](https://www.reddit.com/r/InformationTechnology/comments/x8vlcv/fetching_banking_data/)
 - [Multimillion dollar company blizzard has a server problem](https://www.reddit.com/r/InformationTechnology/comments/x8vl7t/multimillion_dollar_company_blizzard_has_a_server/)
-- [What is my role?](https://www.reddit.com/r/InformationTechnology/comments/x8lq02/what_is_my_role/)
-- [Help me gain some insight for my research](https://www.reddit.com/r/InformationTechnology/comments/x8jzms/help_me_gain_some_insight_for_my_research/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

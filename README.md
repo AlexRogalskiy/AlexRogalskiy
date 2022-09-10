@@ -400,16 +400,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Interview: Keeping an IT business going during the Russian invasion](https://www.computerweekly.com/news/252524624/Interview-Keeping-an-IT-business-going-during-the-Russian-invasion)
+- [CW Europe: Why Russia could become the world’s biggest market for illegal IT](https://www.computerweekly.com/ezine/CW-Europe/CW-Europe-Why-Russia-could-become-the-worlds-biggest-market-for-illegal-IT)
+- [Security Think Tank: Adding trust to AppSec and DevSecOps](https://www.computerweekly.com/opinion/Security-Think-Tank-Adding-trust-to-AppSec-and-DevSecOps)
+- [Panasas’s double NAS offer aims at multiple analytics workloads](https://www.computerweekly.com/news/252524756/Panasass-double-NAS-offer-aims-at-multiple-analytics-workloads)
+- [Sweden is ideal breeding ground for a direct-to-consumer unicorn](https://www.computerweekly.com/news/252524755/Sweden-is-ideal-breeding-ground-for-a-direct-to-consumer-unicorn)
 - [NCSC CyberUK event heads to Belfast in 2023](https://www.computerweekly.com/news/252524676/NCSC-CyberUK-event-heads-to-Belfast-in-2023)
 - [Chinese APT using PlugX malware on espionage targets](https://www.computerweekly.com/news/252524710/Chinese-APT-using-PlugX-malware-on-espionage-targets)
 - [Does quantum matter? A Computer Weekly Downtime Upload podcast](https://www.computerweekly.com/podcast/Does-quantum-matter-A-Computer-Weekly-Downtime-Upload-podcast)
 - [Dutch cyber security organisations to join forces](https://www.computerweekly.com/news/252524711/Dutch-cyber-security-organisations-to-join-forces)
 - [The changing role of CIO in Sweden](https://www.computerweekly.com/feature/The-changing-role-of-CIO-in-Sweden)
-- [Security Think Tank: Creating a DevSecOps-friendly cyber strategy](https://www.computerweekly.com/opinion/Security-Think-Tank-Creating-a-DevSecOps-friendly-cyber-strategy)
-- [Albania cuts diplomatic ties with Iran after cyber attack](https://www.computerweekly.com/news/252524673/Albania-cuts-diplomatic-ties-with-Iran-after-cyber-attack)
-- [Six UK-based startups among those chosen to participate in AWS Defence Accelerator](https://www.computerweekly.com/news/252524670/Six-UK-based-startups-among-those-chosen-to-participate-in-AWS-Defence-Accelerator)
-- [Tech Nation Libra programme selects 35 scaleups for second cohort](https://www.computerweekly.com/news/252524663/Tech-Nation-Libra-programme-accepts-35-scaleups-for-second-cohort)
-- [August ’22 a bumper month for high-impact vulnerabilities](https://www.computerweekly.com/news/252524667/August-22-a-bumper-month-for-high-impact-vulnerabilities)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

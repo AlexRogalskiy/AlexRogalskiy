@@ -430,16 +430,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
-- [Words from a World Changer](https://www.itworldcanada.com/article/words-from-a-world-changer/501809)
+- [Hashtag Trending – the Weekend Edition: The problem with purchasing. An interview with Duncan Card.](https://www.itworldcanada.com/article/the-problem-with-purchasing-hashtag-trending-the-weekend-edition/502484)
+- [Cyber Security Today, Week in Review for Friday, September 9, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-september-9-2022/499282)
+- [CERT data scientists probe intricacies of deepfakes](https://www.itworldcanada.com/article/cert-data-scientists-probe-intricacies-of-deepfakes/501851)
+- [New Gartner survey reveals gaps in government tech purchase process](https://www.itworldcanada.com/article/new-gartner-survey-reveals-gaps-in-government-tech-purchase-process/502193)
+- [RxMx and Curatio announce merger to tackle gaps in healthcare](https://www.itworldcanada.com/article/rxmx-and-curatio-announce-merger-to-tackle-gaps-in-healthcare/502004)
+- [Hashtag Trending Sept. 9 – Free tax filing; remote proctor fails; Facebook button gone](https://www.itworldcanada.com/article/hashtag-trending-sept-9-free-tax-filing-remote-proctor-fails-facebook-button-gone/502457)
+- [Cyber Security Today for Friday, September 9th – Back to school, Cyberwars, Facebook can’t find your data and more…](https://www.itworldcanada.com/article/cyber-security-today-for-friday-september-9th-back-to-school-cyberwars-facebook-cant-find-your-data-and-more/502407)
+- [Words from a World Changer – an interview with Jim Balsillie](https://www.itworldcanada.com/article/words-from-a-world-changer/501809)
 - [Hashtag Trending Sept. 8 – Apple’s new devices; new U.S. tech restriction against China; YouTube’s acquisition fiasco](https://www.itworldcanada.com/article/hashtag-trending-sept-8-apples-new-devices-new-u-s-tech-restriction-against-china-youtubes-acquisition-fiasco/502077)
 - [Major Canadian telecommunication companies agree to an emergency outage deal](https://www.itworldcanada.com/article/major-canadian-telecommunication-companies-agree-to-an-emergency-outage-deal/502071)
-- [InterContinental Hotel Group suffers cyberattack](https://www.itworldcanada.com/article/intercontinental-hotel-group-suffers-cyberattack/502027)
-- [Cyber Security Today for Wednesday Sept 7, 2022 – TikTok exposes billions of records, number one attack vector and more…](https://www.itworldcanada.com/article/cybersecuritytoday-for-wednesday-sept-7-2022-tiktok-exposes-billions-of-records-number-one-attack-vector-and-more/501909)
-- [Password manager Bitwarden gets $100M in funding](https://www.itworldcanada.com/article/password-manager-bitwarden-gets-100m-in-funding/501862)
-- [Canada to introduce a three-digit mental health emergency number](https://www.itworldcanada.com/article/canada-to-introduce-a-three-digit-mental-health-emergency-number/501839)
-- [Canadian company uses machine learning to promote DEI in the hiring process](https://www.itworldcanada.com/article/canadian-company-uses-machine-learning-to-promote-dei-in-the-hiring-process/501718)
-- [Coffee Briefing September 6, 2022-YouTube designated second fastest growing brand; Amazon Future Engineer Awards announces winners;  IGM collaborates with Microsoft; and more](https://www.itworldcanada.com/article/coffee-briefing-september-6-2022-youtube-designated-second-fastest-growing-brand-amazon-future-engineer-awards-announces-winners-igm-collaborates-with-microsoft-and-more/501223)
-- [Elections Markham and IBM Canada launch virtual assistant](https://www.itworldcanada.com/article/elections-markham-and-ibm-canada-launch-virtual-assistant/501768)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

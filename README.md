@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Death of Queen Elizabeth II: world leaders pay tribute as King Charles III expresses ‘greatest sadness’ – latest news](https://www.theguardian.com/uk-news/live/2022/sep/08/queen-elizabeth-ii-dies-royals-monarchy-latest-news-updates)
-- [Josh Allen leads Buffalo Bills to victory over LA Rams in NFL season opener](https://www.theguardian.com/sport/2022/sep/08/buffalo-bills-los-angeles-rams-nfl-season-opener-josh-allen)
-- [Iga Swiatek and Ons Jabeur to meet for US Open title after semi-final wins – as it happened](https://www.theguardian.com/sport/live/2022/sep/08/us-open-tennis-semi-finals-live)
-- [The life and death of Queen Elizabeth II – podcast](https://www.theguardian.com/news/audio/2022/sep/09/the-life-and-death-of-queen-elizabeth-ii-podcast)
-- [‘Our hearts are broken’: how the UK papers reported the death of the Queen](https://www.theguardian.com/uk-news/2022/sep/09/our-hearts-are-broken-how-the-uk-papers-reported-the-death-of-the-queen)
-- [Fires, heat … a hurricane? California’s ‘most unusual’ week of extreme weather](https://www.theguardian.com/us-news/2022/sep/08/california-wildfires-fairview-fire-heatwave)
-- [Russia-Ukraine war latest: what we know on day 198 of the invasion](https://www.theguardian.com/world/2022/sep/09/russia-ukraine-war-latest-what-we-know-on-day-198-of-the-invasion)
-- [Kim Jong-un says new law guarantees North Korea will never give up nuclear weapons](https://www.theguardian.com/world/2022/sep/09/kim-jong-un-says-new-law-guarantees-north-korea-will-never-give-up-nuclear-weapons)
-- [Justice department appeals special master ruling for Trump documents](https://www.theguardian.com/us-news/2022/sep/08/justice-department-appeals-special-master-trump)
-- [Solomon Islands to delay election as PM tells Australia to ‘get ready’ to fund vote](https://www.theguardian.com/world/2022/sep/09/solomon-islands-to-delay-election-as-pm-tells-australia-to-get-ready-to-fund-vote)
+- [King Charles III thanks ‘darling Mama’ for ‘love and devotion’ in first address as monarch – latest updates](https://www.theguardian.com/uk-news/live/2022/sep/09/queen-elizabeth-ii-death-king-charles-iii-funeral-mourning-coronation-latest-news-live-updates)
+- [Carlos Alcaraz beats Frances Tiafoe: US Open tennis semi-final – live!](https://www.theguardian.com/sport/live/2022/sep/09/us-open-tennis-semi-final-alcaraz-tiafoe-live)
+- [Two dead and three missing in New Zealand after possible whale collision capsizes boat](https://www.theguardian.com/world/2022/sep/10/deaths-after-possible-whale-collision-capsizes-boat-in-new-zealand)
+- [Mar-a-Lago search: Trump team and Justice Department suggest rival ‘special master’ candidates](https://www.theguardian.com/us-news/2022/sep/10/mar-a-lago-search-trump-team-and-justice-department-suggest-rival-special-master-candidates)
+- [Queen’s death deepens UK’s downward spiral in global arena, US observers say](https://www.theguardian.com/uk-news/2022/sep/09/queen-elizabeth-death-uk-loss-global-arena)
+- [‘I pledge myself to you’: what the papers said about King Charles’s speech](https://www.theguardian.com/uk-news/2022/sep/10/i-pledge-myself-to-you-what-the-papers-said-about-king-charless-speech)
+- [When I met the Queen, she showed great seriousness and empathy – but also reduced us to raucous laughter | Kevin Rudd](https://www.theguardian.com/australia-news/commentisfree/2022/sep/10/when-i-met-the-queen-she-showed-great-seriousness-and-empathy-but-also-reduced-us-to-raucous-laughter)
+- [Tropical Storm Kay bears down on California with rain and 100mph winds](https://www.theguardian.com/us-news/2022/sep/09/california-wildfires-fairview-fire-storm-flash-floods)
+- [Ukraine-Russia war latest: what we know on day 199 of the invasion](https://www.theguardian.com/world/2022/sep/10/ukraine-russia-war-latest-what-we-know-on-day-199-of-the-invasion)
+- [Fred Wright hits back at ‘unfair’ Primoz Roglic accusations over Vuelta crash](https://www.theguardian.com/sport/2022/sep/09/cycling-vuelta-a-espana-mads-pedersen-stage-19-remco-evenepoel)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

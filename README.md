@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Study: Americans consistently overestimate how much culture has changed](https://www.pnas.org/doi/10.1073/pnas.2107260119#abstract)
-- [After a Legal Fight, Oberlin Says It Will Pay $36.59M to a Local Bakery](https://www.nytimes.com/2022/09/08/us/oberlin-bakery-lawsuit.html)
-- [Crash recovery for user-space block drivers](https://lwn.net/Articles/906097/)
-- [So you want to be a writer? by Charles Bukowski](https://poets.org/poem/so-you-want-be-writer)
-- [Nvidia Hopper Sweeps AI Inference Benchmarks in MLPerf Debut](https://blogs.nvidia.com/blog/2022/09/08/hopper-mlperf-inference/)
-- [It seems that the good times for online Minecraft play are over](https://bae.st/notice/AL3OGtBIWr6Bz2Y4um)
-- [Patreon laid off their security team](https://twitter.com/wbm312/status/1567974063578185728)
-- [Eight Secret Societies &lpar;2016&rpar;](https://www.smithsonianmag.com/history/secret-societies-you-might-not-know-180958294/)
-- [Our five failed YC applications and one successful one](https://www.relate.so/blog/six-applications-y-combinator/)
-- [Congress.gov API](https://api.congress.gov/)
+- [Android 13 requires devices to have more than 2GB RAM and 16GB storage](https://android-developers.googleblog.com/2022/09/optimize-for-android-go-lessons-from-google-apps-part-1.html)
+- [Filthy Plane Videos Ignite Debate About Airline Cleanliness](https://www.nytimes.com/2022/09/09/travel/dirty-planes.html)
+- [Ask HN: How to deal with a co-founder who has wasteful spending habits](https://news.ycombinator.com/item?id=32786367)
+- [Sonja Trauss, the Woman Stockpiling Cash to Sue SF over Housing Deadlock](https://sfstandard.com/housing-development/woman-stockpiling-cash-to-sue-sf-over-housing/)
+- [Regarding the eSIM-only iPhone 14 models in the U.S.](https://chrisx.xyz/blog/regarding-esim-only-iphone-14-in-the-us/)
+- [Gzip and Brotli Compression Level Estimator](https://tools.paulcalvano.com/compression.php)
+- [Olark &lpar;YC W09&rpar; Is Hiring an Account Executive who cares about accessibility](https://olark.hire.trakstar.com/jobs/fk02daq?source=hn)
+- [Simulated Growing Plants](https://www.youtube.com/watch?v=NogVlXVsJIs)
+- [Parallel Curves of Cubic Béziers](https://raphlinus.github.io/curves/2022/09/09/parallel-beziers.html)
+- [Evolving my note-taking processes](https://codethrasher.com/post/2022-09-09-evolving-my-note-taking-processes/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

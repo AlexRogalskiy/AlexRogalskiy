@@ -385,16 +385,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [R tutorials: Learn R programming for data science](https://www.infoworld.com/article/3411819/do-more-with-r-video-tutorials.html#tk.rss_all)
+- [TensorFlow 2.10 shines on Keras, Decision Forests](https://www.infoworld.com/article/3673272/tensorflow-210-shines-on-keras-decision-forests.html#tk.rss_all)
+- [What is JSP? Introduction to Jakarta Server Pages](https://www.infoworld.com/article/3336161/what-is-jsp-introduction-to-javaserver-pages.html#tk.rss_all)
+- [Wasmtime WebAssembly runtime set for 1.0 release](https://www.infoworld.com/article/3673229/wasmtime-webassembly-runtime-set-for-10-release.html#tk.rss_all)
+- [Start with a logical cloud architecture](https://www.infoworld.com/article/3672153/start-with-a-logical-cloud-architecture.html#tk.rss_all)
 - [How to use EF Core as an in-memory database in ASP.NET Core 6](https://www.infoworld.com/article/3672154/how-to-use-ef-core-as-an-in-memory-database-in-asp-net-core-6.html#tk.rss_all)
 - [Error tracking with JavaScript, React, and Sentry](https://www.infoworld.com/article/3671874/error-tracking-with-javascript-react-and-sentry.html#tk.rss_all)
 - [How to create Word docs from R or Python with Quarto](https://www.infoworld.com/article/3671668/how-to-create-word-docs-from-r-or-python-with-quarto.html#tk.rss_all)
 - [Doomed GitHub Trending page may be saved](https://www.infoworld.com/article/3673008/doomed-github-trending-page-may-be-saved.html#tk.rss_all)
 - [BrandPost: Improving Splunk and Kafka Platforms with Cloud-Native Technologies](https://www.infoworld.com/article/3672930/improving-splunk-and-kafka-platforms-with-cloud-native-technologies.html#tk.rss_all)
-- [Golang adds vulnerability management tooling](https://www.infoworld.com/article/3672928/golang-adds-vulnerability-management-tooling.html#tk.rss_all)
-- [BrandPost: Modernize Your Enterprise Desktop Strategy with Workspot on Google Cloud, Powered by Intel](https://www.infoworld.com/article/3672850/modernize-your-enterprise-desktop-strategy-with-workspot-on-google-cloud-powered-by-intel.html#tk.rss_all)
-- [BrandPost: Intel Leverages SADA Partnership to Help Customers Realize Best-In-Class Cost and Performance on Google Cloud](https://www.infoworld.com/article/3672868/intel-leverages-sada-partnership-to-help-customers-realize-best-in-class-cost-and-performance-on-go.html#tk.rss_all)
-- [BrandPost: An Ecosystem Solution for Confidential Computing](https://www.infoworld.com/article/3672122/an-ecosystem-solution-for-confidential-computing.html#tk.rss_all)
-- [Dremio Cloud review: A fast and flexible data lakehouse on AWS](https://www.infoworld.com/article/3671872/dremio-cloud-review-a-fast-and-flexible-data-lakehouse-on-aws.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Android 13 requires devices to have more than 2GB RAM and 16GB storage](https://android-developers.googleblog.com/2022/09/optimize-for-android-go-lessons-from-google-apps-part-1.html)
-- [Filthy Plane Videos Ignite Debate About Airline Cleanliness](https://www.nytimes.com/2022/09/09/travel/dirty-planes.html)
-- [Ask HN: How to deal with a co-founder who has wasteful spending habits](https://news.ycombinator.com/item?id=32786367)
-- [Sonja Trauss, the Woman Stockpiling Cash to Sue SF over Housing Deadlock](https://sfstandard.com/housing-development/woman-stockpiling-cash-to-sue-sf-over-housing/)
-- [Regarding the eSIM-only iPhone 14 models in the U.S.](https://chrisx.xyz/blog/regarding-esim-only-iphone-14-in-the-us/)
-- [Gzip and Brotli Compression Level Estimator](https://tools.paulcalvano.com/compression.php)
-- [Olark &lpar;YC W09&rpar; Is Hiring an Account Executive who cares about accessibility](https://olark.hire.trakstar.com/jobs/fk02daq?source=hn)
-- [Simulated Growing Plants](https://www.youtube.com/watch?v=NogVlXVsJIs)
-- [Parallel Curves of Cubic Béziers](https://raphlinus.github.io/curves/2022/09/09/parallel-beziers.html)
-- [Evolving my note-taking processes](https://codethrasher.com/post/2022-09-09-evolving-my-note-taking-processes/)
+- [Google&#39;s &#39;Rest and Vest&#39; Days for Senior Employees Are Over, Says CEO](https://www.inc.com/nick-hobson/googles-rest-vest-days-for-sr-employees-are-over-says-ceo-its-a-brilliant-idea.html)
+- [Brickit scans your pile of bricks and gives you ideas, with instructions](https://brickit.app/)
+- [The case for building something wonderful alone](https://derw.substack.com/p/the-case-for-building-something-wonderful)
+- [Modulating Brain Function with Microbiota](https://www.science.org/doi/10.1126/science.abo4220)
+- [How does the land use of different electricity sources compare?](https://ourworldindata.org/land-use-per-energy-source)
+- [Ask HN: Solopreneurs, how do you maintain a professional/social network?](https://news.ycombinator.com/item?id=32795970)
+- [Why Empty Offices Are Becoming Apartments in Texas’s Big Cities](https://www.texasmonthly.com/news-politics/downtown-offices-apartments-conversions/)
+- [Jackson MS water crisis resolved within 24 hours of Corps of Engr on site](https://www.wjtv.com/news/jacksons-water-crisis/jacksons-water-crisis-the-latest-updates/)
+- [Rethinking GPS: Engineering Next-Gen Location at Uber](https://www.uber.com/en-SE/blog/rethinking-gps/)
+- [Fabrice Bellard: Portrait of a Super-Productive Programmer &lpar;2011&rpar;](https://smartbear.com/blog/fabrice-bellard-portrait-of-a-super-productive-pro/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

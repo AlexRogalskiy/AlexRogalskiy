@@ -430,6 +430,7 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Oh, Canada; Back to school; and the new Cyberwars. This Week in Ransomware – Friday, Sept 9, 2022](https://www.itworldcanada.com/article/oh-canada-back-to-school-and-the-new-cyberwars-this-week-in-ransomware-friday-sept-9-2022/502505)
 - [Hashtag Trending – the Weekend Edition: The problem with purchasing. An interview with Duncan Card.](https://www.itworldcanada.com/article/the-problem-with-purchasing-hashtag-trending-the-weekend-edition/502484)
 - [Cyber Security Today, Week in Review for Friday, September 9, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-september-9-2022/499282)
 - [CERT data scientists probe intricacies of deepfakes](https://www.itworldcanada.com/article/cert-data-scientists-probe-intricacies-of-deepfakes/501851)
@@ -439,7 +440,6 @@
 - [Cyber Security Today for Friday, September 9th – Back to school, Cyberwars, Facebook can’t find your data and more…](https://www.itworldcanada.com/article/cyber-security-today-for-friday-september-9th-back-to-school-cyberwars-facebook-cant-find-your-data-and-more/502407)
 - [Words from a World Changer – an interview with Jim Balsillie](https://www.itworldcanada.com/article/words-from-a-world-changer/501809)
 - [Hashtag Trending Sept. 8 – Apple’s new devices; new U.S. tech restriction against China; YouTube’s acquisition fiasco](https://www.itworldcanada.com/article/hashtag-trending-sept-8-apples-new-devices-new-u-s-tech-restriction-against-china-youtubes-acquisition-fiasco/502077)
-- [Major Canadian telecommunication companies agree to an emergency outage deal](https://www.itworldcanada.com/article/major-canadian-telecommunication-companies-agree-to-an-emergency-outage-deal/502071)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

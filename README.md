@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ask HN: Do I have a chance to get into FAANG as a slow thinker?](https://news.ycombinator.com/item?id=32787701)
-- [Mourn the Queen, Not Her Empire](https://www.nytimes.com/2022/09/08/opinion/queen-empire-decolonization.html)
-- [On my resignation as regulator of the Dutch intelligence and security services](https://berthub.eu/articles/posts/resignation-as-intelligence-regulator/)
-- [COBOL Tutorial: What Is COBOL Programming Language?](https://www.guru99.com/learn-cobol-programming-tutorial.html)
-- [Sprig: The game console where every player is a creator](https://sprig.hackclub.com/)
-- [Dialed in User Interfaces](https://uptointerpretation.com/posts/gitgot-dialed-in-user-interfaces/)
-- [Usaco Training Program Gateway](https://train.usaco.org/)
-- [In pursuit of the best value US cloud provider](https://servicestack.net/blog/finding-best-us-value-cloud-provider)
-- [Navy Says All UFO Videos Classified Releasing Them ‘Will Harm National Security’](https://www.vice.com/en/article/4axn8p/navy-says-all-ufo-videos-classified-releasing-them-will-harm-national-security)
-- [Ask HN: Where to find jobs that have screening questions?](https://news.ycombinator.com/item?id=32787557)
+- [MicroSaaSHQ: A calmer ecosystem for Micro SaaS Builders](https://microsaashq.com/)
+- [Tom Bombadil Mystery Solved](https://www.nationalreview.com/corner/tom-bombadil-mystery-solved/)
+- [Concorde Turbo-Jet Engine, Complete with Afterburner - £565,000](https://www.ebay.com/itm/113823113322)
+- [Ask HN: Android now forcing App updates?](https://news.ycombinator.com/item?id=32796665)
+- [Guaranteed Income Spreads, City by City](https://www.nytimes.com/2022/09/10/business/economy/guaranteed-income.html)
+- [Ash HN: How do you distribute or shard Stable Diffusion?](https://news.ycombinator.com/item?id=32796613)
+- [&#39;We don’t have enough&#39; lithium globally to meet EV targets, mining CEO says](https://finance.yahoo.com/news/lithium-supply-ev-targets-miner-181513161.html)
+- [Clara, the sensational 18th century rhinoceros](https://en.wikipedia.org/wiki/Clara_(rhinoceros))
+- [Chess Is in Chaos over Suspicion That a Player Cheated Against Magnus Carlsen](https://www.wsj.com/articles/magnus-carlsen-hans-niemann-chess-cheating-scandal-11662644458)
+- [Understanding Convolution in Deep Learning &lpar;2015&rpar;](https://timdettmers.com/2015/03/26/convolution-deep-learning/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

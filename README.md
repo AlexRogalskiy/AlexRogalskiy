@@ -415,6 +415,8 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [I looking for some guidance on creating an IT contract for Independent Contractor](https://www.reddit.com/r/InformationTechnology/comments/xavqio/i_looking_for_some_guidance_on_creating_an_it/)
+- [Questions to ask your IT support provider?](https://www.reddit.com/r/InformationTechnology/comments/xalq12/questions_to_ask_your_it_support_provider/)
 - [Recommended skills](https://www.reddit.com/r/InformationTechnology/comments/xadfi3/recommended_skills/)
 - [Anyone know where I can download the Windows 7 ISO?](https://www.reddit.com/r/InformationTechnology/comments/x9vfhf/anyone_know_where_i_can_download_the_windows_7_iso/)
 - [Interview](https://www.reddit.com/r/InformationTechnology/comments/x9sq3g/interview/)
@@ -423,8 +425,6 @@
 - [Best Sharepoint Training for groups](https://www.reddit.com/r/InformationTechnology/comments/x970ev/best_sharepoint_training_for_groups/)
 - [IT position](https://www.reddit.com/r/InformationTechnology/comments/x93nks/it_position/)
 - [USB bitlocking](https://www.reddit.com/r/InformationTechnology/comments/x8zfpm/usb_bitlocking/)
-- [Fetching Banking Data](https://www.reddit.com/r/InformationTechnology/comments/x8vlcv/fetching_banking_data/)
-- [Multimillion dollar company blizzard has a server problem](https://www.reddit.com/r/InformationTechnology/comments/x8vl7t/multimillion_dollar_company_blizzard_has_a_server/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

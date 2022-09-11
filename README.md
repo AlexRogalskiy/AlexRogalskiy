@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [King Charles III thanks ‘darling Mama’ for ‘love and devotion’ in first address as monarch – latest updates](https://www.theguardian.com/uk-news/live/2022/sep/09/queen-elizabeth-ii-death-king-charles-iii-funeral-mourning-coronation-latest-news-live-updates)
-- [Carlos Alcaraz beats Frances Tiafoe: US Open tennis semi-final – live!](https://www.theguardian.com/sport/live/2022/sep/09/us-open-tennis-semi-final-alcaraz-tiafoe-live)
-- [Two dead and three missing in New Zealand after possible whale collision capsizes boat](https://www.theguardian.com/world/2022/sep/10/deaths-after-possible-whale-collision-capsizes-boat-in-new-zealand)
-- [Mar-a-Lago search: Trump team and Justice Department suggest rival ‘special master’ candidates](https://www.theguardian.com/us-news/2022/sep/10/mar-a-lago-search-trump-team-and-justice-department-suggest-rival-special-master-candidates)
-- [Queen’s death deepens UK’s downward spiral in global arena, US observers say](https://www.theguardian.com/uk-news/2022/sep/09/queen-elizabeth-death-uk-loss-global-arena)
-- [‘I pledge myself to you’: what the papers said about King Charles’s speech](https://www.theguardian.com/uk-news/2022/sep/10/i-pledge-myself-to-you-what-the-papers-said-about-king-charless-speech)
-- [When I met the Queen, she showed great seriousness and empathy – but also reduced us to raucous laughter | Kevin Rudd](https://www.theguardian.com/australia-news/commentisfree/2022/sep/10/when-i-met-the-queen-she-showed-great-seriousness-and-empathy-but-also-reduced-us-to-raucous-laughter)
-- [Tropical Storm Kay bears down on California with rain and 100mph winds](https://www.theguardian.com/us-news/2022/sep/09/california-wildfires-fairview-fire-storm-flash-floods)
-- [Ukraine-Russia war latest: what we know on day 199 of the invasion](https://www.theguardian.com/world/2022/sep/10/ukraine-russia-war-latest-what-we-know-on-day-199-of-the-invasion)
-- [Fred Wright hits back at ‘unfair’ Primoz Roglic accusations over Vuelta crash](https://www.theguardian.com/sport/2022/sep/09/cycling-vuelta-a-espana-mads-pedersen-stage-19-remco-evenepoel)
+- [King Charles III: Ardern speaks of ‘great loss’ during New Zealand proclamation; William, Catherine, Harry and Meghan view tributes in Windsor – live](https://www.theguardian.com/uk-news/live/2022/sep/10/king-charles-iii-proclaimed-st-james-palace-accession-council-latest-updates)
+- [Antigua and Barbuda to hold republic referendum within three years, says PM](https://www.theguardian.com/world/2022/sep/11/antigua-and-barbuda-republic-referendum-within-three-years-pm-queen-death)
+- [Sidney review – Poitier’s epic life story a paean to charm, talent and heroism](https://www.theguardian.com/film/2022/sep/11/sidney-review-poitiers-epic-life-story-a-paean-to-charm-talent-and-heroism)
+- [Ukraine-Russia war latest: what we know on day 200 of the invasion](https://www.theguardian.com/world/2022/sep/11/ukraine-russia-war-latest-what-we-know-on-day-200-of-the-invasion)
+- [Causeway review – Jennifer Lawrence makes a quick, stylish recovery in glossy drama](https://www.theguardian.com/film/2022/sep/11/causeway-review-jennifer-lawrence)
+- [UK cinema chains face long wait for cinemagoers to fall back in love](https://www.theguardian.com/film/2022/sep/11/uk-cinema-chains-face-long-wait-for-cinemagoers-to-fall-back-in-love)
+- [Iga Swiatek holds off Ons Jabeur rally to win US Open women’s singles](https://www.theguardian.com/sport/2022/sep/10/iga-swiatek-wins-us-open-womens-singles-beating-ons-jabeur)
+- [Chill factor: pre-fall transitional dresses - in pictures](https://www.theguardian.com/fashion/gallery/2022/sep/10/chill-factor-pre-fall-transitional-dresses-in-pictures)
+- [Sophia Dunkley powers England to victory over India in first T20](https://www.theguardian.com/sport/2022/sep/10/sophia-dunkley-powers-england-to-victory-over-india-in-first-t20)
+- [Bros review – Billy Eichner’s all-LGBTQ+ romantic comedy is a winner](https://www.theguardian.com/film/2022/sep/10/bros-review-billy-eichners-all-lgbtq-romantic-comedy-is-a-winner)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Google&#39;s &#39;Rest and Vest&#39; Days for Senior Employees Are Over, Says CEO](https://www.inc.com/nick-hobson/googles-rest-vest-days-for-sr-employees-are-over-says-ceo-its-a-brilliant-idea.html)
-- [Brickit scans your pile of bricks and gives you ideas, with instructions](https://brickit.app/)
-- [The case for building something wonderful alone](https://derw.substack.com/p/the-case-for-building-something-wonderful)
-- [Modulating Brain Function with Microbiota](https://www.science.org/doi/10.1126/science.abo4220)
-- [How does the land use of different electricity sources compare?](https://ourworldindata.org/land-use-per-energy-source)
-- [Ask HN: Solopreneurs, how do you maintain a professional/social network?](https://news.ycombinator.com/item?id=32795970)
-- [Why Empty Offices Are Becoming Apartments in Texas’s Big Cities](https://www.texasmonthly.com/news-politics/downtown-offices-apartments-conversions/)
-- [Jackson MS water crisis resolved within 24 hours of Corps of Engr on site](https://www.wjtv.com/news/jacksons-water-crisis/jacksons-water-crisis-the-latest-updates/)
-- [Rethinking GPS: Engineering Next-Gen Location at Uber](https://www.uber.com/en-SE/blog/rethinking-gps/)
-- [Fabrice Bellard: Portrait of a Super-Productive Programmer &lpar;2011&rpar;](https://smartbear.com/blog/fabrice-bellard-portrait-of-a-super-productive-pro/)
+- [~7% speedup from switch to +=](https://github.com/lstein/stable-diffusion/commit/62863ac586194a43ff952eba17a83cecf9956500)
+- [It Works!](http://pn./)
+- [Are You a DevOps Engineer If You Aren’t Writing Code?](https://blog.boot.dev/devops/devops-engineers-should-code/)
+- [MVP.css – Minimalist stylesheet for HTML elements](https://andybrewer.github.io/mvp/)
+- [One-Click Install Stable Diffusion GUI App for M1 Mac. No Dependencies Needed](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui)
+- [Heavier cars are safer for their drivers, but far deadlier for everyone else](https://academic.oup.com/restud/article-abstract/81/2/535/1517632)
+- [There are two kinds of happiness. Choose wisely](https://humbledollar.com/2022/09/choosing-happiness/)
+- [.ai](http://www.ai?)
+- [DIY Dial Caliper Repair Guide &lpar;Mitutoyo, Starrett, Browne &amp; Sharpe&rpar;](http://www.longislandindicator.com/p44.html)
+- [I learned to love testing game code](https://chadnauseam.com/coding/gamedev/automated-testing-in-bevy/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

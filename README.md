@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [MicroSaaSHQ: A calmer ecosystem for Micro SaaS Builders](https://microsaashq.com/)
-- [Tom Bombadil Mystery Solved](https://www.nationalreview.com/corner/tom-bombadil-mystery-solved/)
-- [Concorde Turbo-Jet Engine, Complete with Afterburner - £565,000](https://www.ebay.com/itm/113823113322)
-- [Ask HN: Android now forcing App updates?](https://news.ycombinator.com/item?id=32796665)
-- [Guaranteed Income Spreads, City by City](https://www.nytimes.com/2022/09/10/business/economy/guaranteed-income.html)
-- [Ash HN: How do you distribute or shard Stable Diffusion?](https://news.ycombinator.com/item?id=32796613)
-- [&#39;We don’t have enough&#39; lithium globally to meet EV targets, mining CEO says](https://finance.yahoo.com/news/lithium-supply-ev-targets-miner-181513161.html)
-- [Clara, the sensational 18th century rhinoceros](https://en.wikipedia.org/wiki/Clara_(rhinoceros))
-- [Chess Is in Chaos over Suspicion That a Player Cheated Against Magnus Carlsen](https://www.wsj.com/articles/magnus-carlsen-hans-niemann-chess-cheating-scandal-11662644458)
-- [Understanding Convolution in Deep Learning &lpar;2015&rpar;](https://timdettmers.com/2015/03/26/convolution-deep-learning/)
+- [Ask HN: How prevalent is the use of recursion in production level software?](https://news.ycombinator.com/item?id=32806056)
+- [How the cashless economy put more money in Seattle workers’ pockets](https://www.seattletimes.com/business/how-the-cashless-economy-put-more-money-in-seattle-workers-pockets/)
+- [Park&lpar;ing&rpar; Day](https://www.myparkingday.org)
+- [Nuitka is a Python compiler fully compatible with most Python versions](https://github.com/Nuitka/Nuitka)
+- [Automated Testing for League of Legends &lpar;2016&rpar;](https://technology.riotgames.com/news/automated-testing-league-legends)
+- [Browse wikis and docs with nested tooltips](https://chrome.google.com/webstore/detail/hoverflow/hejgdekfjconideemhoabeiadaeikpli)
+- [The Galleri Test: A New Blood Test for Cancer Screening](https://health.clevelandclinic.org/the-galleri-test/)
+- [Federal Judge Halts Arizona Ban on Filming Police Within 8 Feet](https://petapixel.com/2022/09/10/federal-judge-halts-arizona-ban-on-filming-police-within-8-feet/)
+- [Ask HN: Is it inefficient to execute programs while working?](https://news.ycombinator.com/item?id=32805907)
+- [Molecular evidence for SARS-CoV-2 in samples from patients since late 2019](https://doi.org/10.1016/j.envres.2022.113979)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [King Charles III: Ardern speaks of ‘great loss’ during New Zealand proclamation; William, Catherine, Harry and Meghan view tributes in Windsor – live](https://www.theguardian.com/uk-news/live/2022/sep/10/king-charles-iii-proclaimed-st-james-palace-accession-council-latest-updates)
-- [Antigua and Barbuda to hold republic referendum within three years, says PM](https://www.theguardian.com/world/2022/sep/11/antigua-and-barbuda-republic-referendum-within-three-years-pm-queen-death)
-- [Sidney review – Poitier’s epic life story a paean to charm, talent and heroism](https://www.theguardian.com/film/2022/sep/11/sidney-review-poitiers-epic-life-story-a-paean-to-charm-talent-and-heroism)
-- [Ukraine-Russia war latest: what we know on day 200 of the invasion](https://www.theguardian.com/world/2022/sep/11/ukraine-russia-war-latest-what-we-know-on-day-200-of-the-invasion)
-- [Causeway review – Jennifer Lawrence makes a quick, stylish recovery in glossy drama](https://www.theguardian.com/film/2022/sep/11/causeway-review-jennifer-lawrence)
-- [UK cinema chains face long wait for cinemagoers to fall back in love](https://www.theguardian.com/film/2022/sep/11/uk-cinema-chains-face-long-wait-for-cinemagoers-to-fall-back-in-love)
-- [Iga Swiatek holds off Ons Jabeur rally to win US Open women’s singles](https://www.theguardian.com/sport/2022/sep/10/iga-swiatek-wins-us-open-womens-singles-beating-ons-jabeur)
-- [Chill factor: pre-fall transitional dresses - in pictures](https://www.theguardian.com/fashion/gallery/2022/sep/10/chill-factor-pre-fall-transitional-dresses-in-pictures)
-- [Sophia Dunkley powers England to victory over India in first T20](https://www.theguardian.com/sport/2022/sep/10/sophia-dunkley-powers-england-to-victory-over-india-in-first-t20)
-- [Bros review – Billy Eichner’s all-LGBTQ+ romantic comedy is a winner](https://www.theguardian.com/film/2022/sep/10/bros-review-billy-eichners-all-lgbtq-romantic-comedy-is-a-winner)
+- [Queen Elizabeth’s coffin to be put on view in Edinburgh as King Charles and royals fly to Scotland – live](https://www.theguardian.com/uk-news/live/2022/sep/12/queen-elizabeth-edinburgh-coffin-lie-in-state-funeral-king-charles-westminster-hall-palace-holyroodhouse-live-news)
+- [Bestselling novel forces France to reckon with #MeToo movement](https://www.theguardian.com/world/2022/sep/12/france-metoo-movement-virginie-despentes-bestselling-novel)
+- [Johnson &amp; Johnson reaches $300m settlement over pelvic mesh implants](https://www.theguardian.com/business/2022/sep/12/johnson-johnson-reaches-300m-settlement-over-pelvic-mesh-implants)
+- [Rightwing Swedish election victory looms with more than 90% of vote counted](https://www.theguardian.com/world/2022/sep/11/swedish-election-exit-polls-far-right)
+- [‘Her final journey begins’: the front pages as Queen’s coffin arrives in Edinburgh](https://www.theguardian.com/uk-news/2022/sep/12/her-final-journey-begins-the-front-pages-as-queens-coffin-arrives-in-edinburgh)
+- [The Queen to lie in state in London: everything you need to know](https://www.theguardian.com/uk-news/2022/sep/12/queen-elizabeth-ii-lie-in-state-london-westminster-hall-when-where-public-view-attend-everything-you-need-to-know)
+- [What does the Queen’s death mean for the United Kingdom? – podcast](https://www.theguardian.com/news/audio/2022/sep/12/what-does-the-queens-death-mean-for-the-united-kingdom-podcast)
+- [Russia targets infrastructure in retaliation to rapid Ukraine gains](https://www.theguardian.com/world/2022/sep/11/zelenskiy-says-next-three-months-critical-as-ukrainian-advance-continues)
+- [My Policeman review – Harry Styles is arrestingly awkward in stodgy gay romance](https://www.theguardian.com/film/2022/sep/11/my-policeman-review-harry-styles-is-arrestingly-awkward-in-stodgy-gay-romance)
+- [Carlos Alcaraz beats Casper Ruud in US Open final to win first grand slam at age of 19](https://www.theguardian.com/sport/2022/sep/11/carlos-alcaraz-wins-us-open-final-tennis-casper-ruud-world-no-1)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

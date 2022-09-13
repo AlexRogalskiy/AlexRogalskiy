@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Queen Elizabeth’s coffin to be put on view in Edinburgh as King Charles and royals fly to Scotland – live](https://www.theguardian.com/uk-news/live/2022/sep/12/queen-elizabeth-edinburgh-coffin-lie-in-state-funeral-king-charles-westminster-hall-palace-holyroodhouse-live-news)
-- [Bestselling novel forces France to reckon with #MeToo movement](https://www.theguardian.com/world/2022/sep/12/france-metoo-movement-virginie-despentes-bestselling-novel)
-- [Johnson &amp; Johnson reaches $300m settlement over pelvic mesh implants](https://www.theguardian.com/business/2022/sep/12/johnson-johnson-reaches-300m-settlement-over-pelvic-mesh-implants)
-- [Rightwing Swedish election victory looms with more than 90% of vote counted](https://www.theguardian.com/world/2022/sep/11/swedish-election-exit-polls-far-right)
-- [‘Her final journey begins’: the front pages as Queen’s coffin arrives in Edinburgh](https://www.theguardian.com/uk-news/2022/sep/12/her-final-journey-begins-the-front-pages-as-queens-coffin-arrives-in-edinburgh)
-- [The Queen to lie in state in London: everything you need to know](https://www.theguardian.com/uk-news/2022/sep/12/queen-elizabeth-ii-lie-in-state-london-westminster-hall-when-where-public-view-attend-everything-you-need-to-know)
-- [What does the Queen’s death mean for the United Kingdom? – podcast](https://www.theguardian.com/news/audio/2022/sep/12/what-does-the-queens-death-mean-for-the-united-kingdom-podcast)
-- [Russia targets infrastructure in retaliation to rapid Ukraine gains](https://www.theguardian.com/world/2022/sep/11/zelenskiy-says-next-three-months-critical-as-ukrainian-advance-continues)
-- [My Policeman review – Harry Styles is arrestingly awkward in stodgy gay romance](https://www.theguardian.com/film/2022/sep/11/my-policeman-review-harry-styles-is-arrestingly-awkward-in-stodgy-gay-romance)
-- [Carlos Alcaraz beats Casper Ruud in US Open final to win first grand slam at age of 19](https://www.theguardian.com/sport/2022/sep/11/carlos-alcaraz-wins-us-open-final-tennis-casper-ruud-world-no-1)
+- [Emmys 2022: Succession, Ted Lasso, The White Lotus triumph](https://www.theguardian.com/tv-and-radio/2022/sep/12/emmys-2022-succession-ted-lasso-the-white-lotus-triumph)
+- [Papua New Guinea earthquake: seven dead amid fears more are buried under landslides](https://www.theguardian.com/world/2022/sep/13/papua-new-guinea-earthquake-dead-as-authorities-fear-more-could-be-buried)
+- [DoJ willing to consider Trump candidate for special master](https://www.theguardian.com/us-news/2022/sep/12/trump-lawyers-mar-a-lago-special-master-documents)
+- [Bureau of Meteorology to declare third La Niña is under way for Australia](https://www.theguardian.com/australia-news/2022/sep/13/bureau-of-meteorology-to-declare-third-la-nina-is-under-way-for-australia)
+- [Can King Charles reinvent himself and the monarchy? | podcast](https://www.theguardian.com/news/audio/2022/sep/13/can-king-charles-reinvent-himself-and-the-monarchy)
+- [Monkeypox fatality confirmed in Los Angeles, a possible US first](https://www.theguardian.com/us-news/2022/sep/12/monkeypox-death-los-angeles)
+- [US issues 40 subpoenas about Trump’s failed bid to overturn the 2020 election](https://www.theguardian.com/us-news/2022/sep/12/us-subpoenas-donald-trump-2020-election)
+- [Pakistan rushes to protect key power station as flood threat rises](https://www.theguardian.com/world/2022/sep/13/pakistan-rushes-to-protect-key-power-station-as-flood-threat-rises)
+- [Russia-Ukraine war latest: what we know on day 202 of the invasion](https://www.theguardian.com/world/2022/sep/13/russia-ukraine-war-latest-what-we-know-on-day-202-of-the-invasion)
+- [Poet laureate honours Queen Elizabeth II with new work, Floral Tribute](https://www.theguardian.com/books/2022/sep/13/poet-laureate-queen-elizabeth-ii-floral-tribute)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

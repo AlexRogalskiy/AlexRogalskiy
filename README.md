@@ -355,6 +355,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Email woes gotcha worried? How to fix problems and fend off attacks](https://www.computerworld.com/article/3673257/email-woes-gotcha-worried-how-to-fix-problems-and-fend-off-attacks.html#tk.rss_all)
+- [14+ reasons enterprises should upgrade to iOS 16](https://www.computerworld.com/article/3673311/14-reasons-enterprises-should-upgrade-to-ios-16.html#tk.rss_all)
+- [As telehealth use plummets, the healthcare industry faces a crossroads](https://www.computerworld.com/article/3673249/as-telehealth-use-plummets-the-healthcare-industry-faces-a-crossroads.html#tk.rss_all)
 - [It&#39;s time to quit quitting on the quiet quitters](https://www.computerworld.com/article/3673096/its-time-to-quit-quitting-on-the-quiet-quitters.html#tk.rss_all)
 - [Will your enterprise app dev teams visit Apple&#39;s Dynamic Island?](https://www.computerworld.com/article/3673291/will-your-enterprise-app-dev-teams-visit-apples-dynamic-island.html#tk.rss_all)
 - [Extended reality — where we are, what’s missing, and the problems ahead](https://www.computerworld.com/article/3673270/extended-reality-where-we-are-whats-missing-and-the-problems-ahead.html#tk.rss_all)
@@ -362,9 +365,6 @@
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [After Apple&#39;s iPhone 14 launch event, a few things to consider](https://www.computerworld.com/article/3672932/after-apples-iphone-14-launch-event-a-few-things-to-consider.html#tk.rss_all)
 - [US Commerce Dept. unveils strategy for distributing CHIPS Act funds](https://www.computerworld.com/article/3672851/us-commerce-dept-unveils-strategy-for-distributing-chips-act-funds.html#tk.rss_all)
-- [America is &lpar;almost&rpar; ready for Apple Reality distortion](https://www.computerworld.com/article/3672120/america-is-almost-ready-for-apple-reality-distortion.html#tk.rss_all)
-- [Slack offers new DocuSign integration to streamline e-signature process](https://www.computerworld.com/article/3672121/slack-offers-new-docusign-integration-to-streamline-e-signature-process.html#tk.rss_all)
-- [Collaboration tech evolves for the post-COVID future](https://www.computerworld.com/article/3671114/collaboration-tech-post-covid-future.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

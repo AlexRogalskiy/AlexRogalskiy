@@ -370,16 +370,16 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Reining in the Risks of Sustainable Sourcing](https://www.informationweek.com/sustainability/reining-in-the-risks-of-sustainable-sourcing)
+- [SAP North America’s New President Talks Reinventing for the Cloud](https://www.informationweek.com/cloud/sap-north-america-s-new-president-talks-reinventing-for-the-cloud)
+- [Two-Minute Toolkit: Kissflow on Low-Code for Digital Transformation](https://www.informationweek.com/devops/two-minute-toolkit-kissflow-on-low-code-for-digital-transformation)
+- [Ready for Anything: Forrester Preps IT Leaders to Be ‘Future Fit’](https://www.informationweek.com/strategic-cio/ready-for-anything-forrester-preps-it-leaders-to-be-future-fit-)
 - [How to Make Vendor Technology Bakeoffs Work](https://www.informationweek.com/software/how-to-make-vendor-technology-bakeoffs-work)
 - [Know Your Adversaries: The Top Network Bad Actors](https://www.informationweek.com/it-life/know-your-adversaries-the-top-network-bad-actors)
 - [Twilio Breach: 5 Questions to Ask About Protecting Your Own Business](https://www.informationweek.com/security-and-risk-strategy/twilio-breach-5-questions-to-ask-about-protecting-your-own-business)
 - [Crash Course on E-Discovery for CIOs and CDOs](https://www.informationweek.com/security-and-risk-strategy/crash-course-on-e-discovery-for-cios-and-cdos)
 - [FinTech Tools, Security Concerns Top of Mind for Gen-Z Banking](https://www.informationweek.com/fintech/fintech-tools-security-concerns-top-of-mind-for-gen-z-banking)
 - [Serving Today&#39;s Customer: Honor the Surface](https://www.informationweek.com/mobile/serving-today-s-customer-honor-the-surface)
-- [The Annual Drama of Digital Transformation](https://www.informationweek.com/strategic-cio/the-annual-drama-of-digital-transformation)
-- [Offboarding Staff Securely: Best Practices in the Extended Workforce Era](https://www.informationweek.com/security-and-risk-strategy/offboarding-staff-securely-best-practices-in-the-extended-workforce-era)
-- [There Are Pros and Cons to Outsourcing Coding Globally](https://www.informationweek.com/software/there-are-pros-and-cons-to-outsourcing-coding-globally)
-- [The Wild Ride in Tech Dealmaking Continues](https://www.informationweek.com/software/the-wild-ride-in-tech-dealmaking-continues)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

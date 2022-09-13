@@ -430,6 +430,9 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Cisco admits data posted by ransomware gang came from its systems](https://www.itworldcanada.com/article/cisco-admits-data-posted-by-ransomware-gang-came-from-its-systems/502561)
+- [Cyber Security Today, Sept. 12, 2022 – A vulnerability found in the BackupBuddy WordPress plugin, a new Linux malware discovered, and more](https://www.itworldcanada.com/article/cyber-security-today-sept-12-2022-a-vulnerability-found-in-the-backupbuddy-wordpress-plugin-a-new-linux-malware-discovered-and-more/502514)
+- [Hashtag Trending Sept. 12 – Meta dissolves Responsible Innovation Team; FCC wants to cut down on space debris, and Garmin reacts to Apple Watch Ultra](https://www.itworldcanada.com/article/hashtag-trending-sept-12-meta-dissolves-responsible-innovation-team-fcc-wants-to-cut-down-on-space-debris-and-garmin-reacts-to-apple-watch-ultra/502534)
 - [Apple iPhone 14 launches with better cameras, satellite connectivity, and 5G](https://www.itworldcanada.com/article/apple-iphone-14-launches-with-better-cameras-satellite-connectivity-and-5g/502517)
 - [Oh, Canada; Back to school; and the new Cyberwars. This Week in Ransomware – Friday, Sept 9, 2022](https://www.itworldcanada.com/article/oh-canada-back-to-school-and-the-new-cyberwars-this-week-in-ransomware-friday-sept-9-2022/502505)
 - [Hashtag Trending – the Weekend Edition: The problem with purchasing. An interview with Duncan Card.](https://www.itworldcanada.com/article/the-problem-with-purchasing-hashtag-trending-the-weekend-edition/502484)
@@ -437,9 +440,6 @@
 - [CERT data scientists probe intricacies of deepfakes](https://www.itworldcanada.com/article/cert-data-scientists-probe-intricacies-of-deepfakes/501851)
 - [New Gartner survey reveals gaps in government tech purchase process](https://www.itworldcanada.com/article/new-gartner-survey-reveals-gaps-in-government-tech-purchase-process/502193)
 - [RxMx and Curatio announce merger to tackle gaps in healthcare](https://www.itworldcanada.com/article/rxmx-and-curatio-announce-merger-to-tackle-gaps-in-healthcare/502004)
-- [Hashtag Trending Sept. 9 – Free tax filing; remote proctor fails; Facebook button gone](https://www.itworldcanada.com/article/hashtag-trending-sept-9-free-tax-filing-remote-proctor-fails-facebook-button-gone/502457)
-- [Cyber Security Today for Friday, September 9th – Back to school, Cyberwars, Facebook can’t find your data and more…](https://www.itworldcanada.com/article/cyber-security-today-for-friday-september-9th-back-to-school-cyberwars-facebook-cant-find-your-data-and-more/502407)
-- [Words from a World Changer – an interview with Jim Balsillie](https://www.itworldcanada.com/article/words-from-a-world-changer/501809)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

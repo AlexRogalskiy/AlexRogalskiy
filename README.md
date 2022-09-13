@@ -415,6 +415,9 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Can someone explain what would prevent an application / system from being scalable? Anything other than inability to integrate with other applications?](https://www.reddit.com/r/InformationTechnology/comments/xcu4xt/can_someone_explain_what_would_prevent_an/)
+- [Sandbox/ VM security](https://www.reddit.com/r/InformationTechnology/comments/xcsmdo/sandbox_vm_security/)
+- [Does anyone know of any examples of biometric use for employees?](https://www.reddit.com/r/InformationTechnology/comments/xcik57/does_anyone_know_of_any_examples_of_biometric_use/)
 - [Looking for a start.](https://www.reddit.com/r/InformationTechnology/comments/xc3517/looking_for_a_start/)
 - [Associate degree CS vs coding bootcamp vs getting A+ cert and then n+,s+](https://www.reddit.com/r/InformationTechnology/comments/xbzur2/associate_degree_cs_vs_coding_bootcamp_vs_getting/)
 - [Question](https://www.reddit.com/r/InformationTechnology/comments/xbtaiz/question/)
@@ -422,9 +425,6 @@
 - [1pass password manager change passwords](https://www.reddit.com/r/InformationTechnology/comments/xbg6jt/1pass_password_manager_change_passwords/)
 - [Is IT support analyst and help desk the same?](https://www.reddit.com/r/InformationTechnology/comments/xbde77/is_it_support_analyst_and_help_desk_the_same/)
 - [I looking for some guidance on creating an IT contract for Independent Contractor](https://www.reddit.com/r/InformationTechnology/comments/xavqio/i_looking_for_some_guidance_on_creating_an_it/)
-- [Questions to ask your IT support provider?](https://www.reddit.com/r/InformationTechnology/comments/xalq12/questions_to_ask_your_it_support_provider/)
-- [Recommended skills](https://www.reddit.com/r/InformationTechnology/comments/xadfi3/recommended_skills/)
-- [Anyone know where I can download the Windows 7 ISO?](https://www.reddit.com/r/InformationTechnology/comments/x9vfhf/anyone_know_where_i_can_download_the_windows_7_iso/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

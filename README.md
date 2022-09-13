@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [~7% speedup from switch to +=](https://github.com/lstein/stable-diffusion/commit/62863ac586194a43ff952eba17a83cecf9956500)
-- [It Works!](http://pn./)
-- [Are You a DevOps Engineer If You Aren’t Writing Code?](https://blog.boot.dev/devops/devops-engineers-should-code/)
-- [MVP.css – Minimalist stylesheet for HTML elements](https://andybrewer.github.io/mvp/)
-- [One-Click Install Stable Diffusion GUI App for M1 Mac. No Dependencies Needed](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui)
-- [Heavier cars are safer for their drivers, but far deadlier for everyone else](https://academic.oup.com/restud/article-abstract/81/2/535/1517632)
-- [There are two kinds of happiness. Choose wisely](https://humbledollar.com/2022/09/choosing-happiness/)
-- [.ai](http://www.ai?)
-- [DIY Dial Caliper Repair Guide &lpar;Mitutoyo, Starrett, Browne &amp; Sharpe&rpar;](http://www.longislandindicator.com/p44.html)
-- [I learned to love testing game code](https://chadnauseam.com/coding/gamedev/automated-testing-in-bevy/)
+- [The strange behavior of sound through solids](https://www.ias.edu/news/2022/sound-through-solids)
+- [A personal list of Rust grievances](https://gist.github.com/brendanzab/d41c3ae485d66c07178749eaeeb9e5f7)
+- [Planning Go 1.20 Cryptography Work](https://words.filippo.io/dispatches/go1-20/)
+- [Li-Ion Battery Warehouse Fire Put Out with Portland Cement &lpar;2021&rpar;](https://abc7chicago.com/morris-fire-update-evacuation/10849672/)
+- [AI Content Generation, Part 1: Machine Learning Basics](https://www.jonstokes.com/p/ai-content-generation-part-1-machine)
+- [SEC Charges VMware with Misleading Investors by Obscuring Financial Performance](https://www.sec.gov/news/press-release/2022-160)
+- [Prompt injection attacks against GPT-3](https://simonwillison.net/2022/Sep/12/prompt-injection/)
+- [Dark Sky iOS app ends December 31, 2022](https://blog.darksky.net/)
+- [Prenatal cannabis exposure associated with mental disorders in children](https://www.nih.gov/news-events/news-releases/prenatal-cannabis-exposure-associated-mental-disorders-children-persist-into-early-adolescence)
+- [Anti-royal protesters are being arrested in the U.K. as &#39;Not My King&#39; tag grows](https://text.npr.org/1122379162)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

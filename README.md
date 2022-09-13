@@ -385,16 +385,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Proposed Java API would enable sharing of immutable data across threads](https://www.infoworld.com/article/3673293/proposed-java-api-would-enable-sharing-of-immutable-data-across-threads.html#tk.rss_all)
+- [When is enough data enough?](https://www.infoworld.com/article/3673310/when-is-enough-data-enough.html#tk.rss_all)
+- [Hands-on with Microsoft’s CBL-Mariner 2.0 Linux](https://www.infoworld.com/article/3673254/hands-on-with-microsofts-cbl-mariner-20-linux.html#tk.rss_all)
+- [Software developer jobs: How to get hired now](https://www.infoworld.com/article/3672849/it-jobs-outlook-how-to-get-hired-in-2022.html#tk.rss_all)
 - [R tutorials: Learn R programming for data science](https://www.infoworld.com/article/3411819/do-more-with-r-video-tutorials.html#tk.rss_all)
 - [TensorFlow 2.10 shines on Keras, Decision Forests](https://www.infoworld.com/article/3673272/tensorflow-210-shines-on-keras-decision-forests.html#tk.rss_all)
 - [What is JSP? Introduction to Jakarta Server Pages](https://www.infoworld.com/article/3336161/what-is-jsp-introduction-to-javaserver-pages.html#tk.rss_all)
 - [Wasmtime WebAssembly runtime set for 1.0 release](https://www.infoworld.com/article/3673229/wasmtime-webassembly-runtime-set-for-10-release.html#tk.rss_all)
 - [Start with a logical cloud architecture](https://www.infoworld.com/article/3672153/start-with-a-logical-cloud-architecture.html#tk.rss_all)
 - [How to use EF Core as an in-memory database in ASP.NET Core 6](https://www.infoworld.com/article/3672154/how-to-use-ef-core-as-an-in-memory-database-in-asp-net-core-6.html#tk.rss_all)
-- [Error tracking with JavaScript, React, and Sentry](https://www.infoworld.com/article/3671874/error-tracking-with-javascript-react-and-sentry.html#tk.rss_all)
-- [How to create Word docs from R or Python with Quarto](https://www.infoworld.com/article/3671668/how-to-create-word-docs-from-r-or-python-with-quarto.html#tk.rss_all)
-- [Doomed GitHub Trending page may be saved](https://www.infoworld.com/article/3673008/doomed-github-trending-page-may-be-saved.html#tk.rss_all)
-- [BrandPost: Improving Splunk and Kafka Platforms with Cloud-Native Technologies](https://www.infoworld.com/article/3672930/improving-splunk-and-kafka-platforms-with-cloud-native-technologies.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ask HN: How prevalent is the use of recursion in production level software?](https://news.ycombinator.com/item?id=32806056)
-- [How the cashless economy put more money in Seattle workers’ pockets](https://www.seattletimes.com/business/how-the-cashless-economy-put-more-money-in-seattle-workers-pockets/)
-- [Park&lpar;ing&rpar; Day](https://www.myparkingday.org)
-- [Nuitka is a Python compiler fully compatible with most Python versions](https://github.com/Nuitka/Nuitka)
-- [Automated Testing for League of Legends &lpar;2016&rpar;](https://technology.riotgames.com/news/automated-testing-league-legends)
-- [Browse wikis and docs with nested tooltips](https://chrome.google.com/webstore/detail/hoverflow/hejgdekfjconideemhoabeiadaeikpli)
-- [The Galleri Test: A New Blood Test for Cancer Screening](https://health.clevelandclinic.org/the-galleri-test/)
-- [Federal Judge Halts Arizona Ban on Filming Police Within 8 Feet](https://petapixel.com/2022/09/10/federal-judge-halts-arizona-ban-on-filming-police-within-8-feet/)
-- [Ask HN: Is it inefficient to execute programs while working?](https://news.ycombinator.com/item?id=32805907)
-- [Molecular evidence for SARS-CoV-2 in samples from patients since late 2019](https://doi.org/10.1016/j.envres.2022.113979)
+- [Starbucks Odyssey will offer ability to earn NFTs](https://stories.starbucks.com/press/2022/starbucks-brewing-revolutionary-web3-experience-for-its-starbucks-rewards-members/)
+- [Columbia University Drops from No. 2 to No. 18 in U.S. News Rankings](https://www.nytimes.com/2022/09/12/us/columbia-university-us-news-ranking.html)
+- [Ian McEwan and the Mess of Living](https://www.newstatesman.com/culture/books/book-of-the-day/2022/08/ian-mcewan-lessons-perfect-mess)
+- [Go: Design and Implementation of Profile-Guided Optimization &lpar;PGO&rpar;](https://github.com/golang/go/issues/55025)
+- [Leaked Report from Instagram: &#39;Most Reels Users Have No Engagement Whatsoever&#39;](https://gizmodo.com/reels-instagram-meta-facebook-tiktok-1849526669)
+- [It’s time to bring contrast back to our smartphone photos](https://www.theverge.com/2022/9/12/23345028/iphone-samsung-smartphone-camera-photographic-styles-hdr-contrast)
+- [Free Speech Flag](https://en.wikipedia.org/wiki/Free_Speech_Flag)
+- [Integrating C++ header units into Office using MSVC &lpar;1/n&rpar;](https://devblogs.microsoft.com/cppblog/integrating-c-header-units-into-office-using-msvc-1-n/)
+- [Ask HN: How doze mode of Android works behind the scene](https://news.ycombinator.com/item?id=32820438)
+- [The Lookout - Control unprotected CCTV cameras with a Playstation controller](https://driesdepoorter.be/thelookout/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

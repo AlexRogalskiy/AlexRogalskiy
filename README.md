@@ -415,16 +415,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Tryng to swap to IT. Which branch?](https://www.reddit.com/r/InformationTechnology/comments/xdkg7b/tryng_to_swap_to_it_which_branch/)
+- [Field Tech Final Interview Fears](https://www.reddit.com/r/InformationTechnology/comments/xdkfei/field_tech_final_interview_fears/)
+- [Looking for IT Director](https://www.reddit.com/r/InformationTechnology/comments/xdgq41/looking_for_it_director/)
+- [pathway to becoming an IT analyst](https://www.reddit.com/r/InformationTechnology/comments/xddgi9/pathway_to_becoming_an_it_analyst/)
+- [looking to get into QA testing.](https://www.reddit.com/r/InformationTechnology/comments/xdbzrz/looking_to_get_into_qa_testing/)
+- [Does IIS basic authentication offer adequate protection for an intranet?](https://www.reddit.com/r/InformationTechnology/comments/xdaxb0/does_iis_basic_authentication_offer_adequate/)
+- [Transitioning from IT Recruiting to a BSA or PO role](https://www.reddit.com/r/InformationTechnology/comments/xd7wu3/transitioning_from_it_recruiting_to_a_bsa_or_po/)
 - [Can someone explain what would prevent an application / system from being scalable? Anything other than inability to integrate with other applications?](https://www.reddit.com/r/InformationTechnology/comments/xcu4xt/can_someone_explain_what_would_prevent_an/)
 - [Sandbox/ VM security](https://www.reddit.com/r/InformationTechnology/comments/xcsmdo/sandbox_vm_security/)
 - [Does anyone know of any examples of biometric use for employees?](https://www.reddit.com/r/InformationTechnology/comments/xcik57/does_anyone_know_of_any_examples_of_biometric_use/)
-- [Looking for a start.](https://www.reddit.com/r/InformationTechnology/comments/xc3517/looking_for_a_start/)
-- [Associate degree CS vs coding bootcamp vs getting A+ cert and then n+,s+](https://www.reddit.com/r/InformationTechnology/comments/xbzur2/associate_degree_cs_vs_coding_bootcamp_vs_getting/)
-- [Question](https://www.reddit.com/r/InformationTechnology/comments/xbtaiz/question/)
-- [How much could i move up in IT with just certificates? I feel like IT jobs cap out at around 60k a year id like to be making more than that in 10-20 years](https://www.reddit.com/r/InformationTechnology/comments/xbsua3/how_much_could_i_move_up_in_it_with_just/)
-- [1pass password manager change passwords](https://www.reddit.com/r/InformationTechnology/comments/xbg6jt/1pass_password_manager_change_passwords/)
-- [Is IT support analyst and help desk the same?](https://www.reddit.com/r/InformationTechnology/comments/xbde77/is_it_support_analyst_and_help_desk_the_same/)
-- [I looking for some guidance on creating an IT contract for Independent Contractor](https://www.reddit.com/r/InformationTechnology/comments/xavqio/i_looking_for_some_guidance_on_creating_an_it/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

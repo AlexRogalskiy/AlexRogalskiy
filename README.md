@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Starbucks Odyssey will offer ability to earn NFTs](https://stories.starbucks.com/press/2022/starbucks-brewing-revolutionary-web3-experience-for-its-starbucks-rewards-members/)
-- [Columbia University Drops from No. 2 to No. 18 in U.S. News Rankings](https://www.nytimes.com/2022/09/12/us/columbia-university-us-news-ranking.html)
-- [Ian McEwan and the Mess of Living](https://www.newstatesman.com/culture/books/book-of-the-day/2022/08/ian-mcewan-lessons-perfect-mess)
-- [Go: Design and Implementation of Profile-Guided Optimization &lpar;PGO&rpar;](https://github.com/golang/go/issues/55025)
-- [Leaked Report from Instagram: &#39;Most Reels Users Have No Engagement Whatsoever&#39;](https://gizmodo.com/reels-instagram-meta-facebook-tiktok-1849526669)
-- [It’s time to bring contrast back to our smartphone photos](https://www.theverge.com/2022/9/12/23345028/iphone-samsung-smartphone-camera-photographic-styles-hdr-contrast)
-- [Free Speech Flag](https://en.wikipedia.org/wiki/Free_Speech_Flag)
-- [Integrating C++ header units into Office using MSVC &lpar;1/n&rpar;](https://devblogs.microsoft.com/cppblog/integrating-c-header-units-into-office-using-msvc-1-n/)
-- [Ask HN: How doze mode of Android works behind the scene](https://news.ycombinator.com/item?id=32820438)
-- [The Lookout - Control unprotected CCTV cameras with a Playstation controller](https://driesdepoorter.be/thelookout/)
+- [Associations of Depression, Anxiety, Stress, and Loneliness with Long Covid Risk](https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2796097)
+- [Ask HN: Good resource to learn about audio streaming?](https://news.ycombinator.com/item?id=32833229)
+- [Ferrari Purosangue SUV Revealed](https://www.autoblog.com/2022/09/13/ferrari-purosangue-reveal/)
+- [Why Railroad Workers Like Me Are Planning to Strike This Friday](https://www.newsweek.com/why-railroad-workers-like-me-are-planning-strike-this-friday-opinion-1742513)
+- [Should we trust ScoMo&#39;s $170bn submarine deal?](https://www.crikey.com.au/2022/09/14/aukus-submarine-deal-scott-morrison/)
+- [Ninety Will Be the New 40 in 10 Years&#39; Time](https://www.newsweek.com/ninety-will-new-40-10-years-time-1742152)
+- [Breakthrough Discoveries for Thriving with Bipolar Disorder](https://www.bipolardiscoveries.org/)
+- [I built and shut down a popular text-to-image site in 2 weeks](https://amansanger.com/posts/enstil.html)
+- [Mudge is a cyber activist, not a business executive](https://cybersect.substack.com/p/re-mudge-v-twitter)
+- [Leaky Bucket](https://en.wikipedia.org/wiki/Leaky_bucket)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

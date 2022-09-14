@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Emmys 2022: Succession, Ted Lasso, The White Lotus triumph](https://www.theguardian.com/tv-and-radio/2022/sep/12/emmys-2022-succession-ted-lasso-the-white-lotus-triumph)
-- [Papua New Guinea earthquake: seven dead amid fears more are buried under landslides](https://www.theguardian.com/world/2022/sep/13/papua-new-guinea-earthquake-dead-as-authorities-fear-more-could-be-buried)
-- [DoJ willing to consider Trump candidate for special master](https://www.theguardian.com/us-news/2022/sep/12/trump-lawyers-mar-a-lago-special-master-documents)
-- [Bureau of Meteorology to declare third La Niña is under way for Australia](https://www.theguardian.com/australia-news/2022/sep/13/bureau-of-meteorology-to-declare-third-la-nina-is-under-way-for-australia)
-- [Can King Charles reinvent himself and the monarchy? | podcast](https://www.theguardian.com/news/audio/2022/sep/13/can-king-charles-reinvent-himself-and-the-monarchy)
-- [Monkeypox fatality confirmed in Los Angeles, a possible US first](https://www.theguardian.com/us-news/2022/sep/12/monkeypox-death-los-angeles)
-- [US issues 40 subpoenas about Trump’s failed bid to overturn the 2020 election](https://www.theguardian.com/us-news/2022/sep/12/us-subpoenas-donald-trump-2020-election)
-- [Pakistan rushes to protect key power station as flood threat rises](https://www.theguardian.com/world/2022/sep/13/pakistan-rushes-to-protect-key-power-station-as-flood-threat-rises)
-- [Russia-Ukraine war latest: what we know on day 202 of the invasion](https://www.theguardian.com/world/2022/sep/13/russia-ukraine-war-latest-what-we-know-on-day-202-of-the-invasion)
-- [Poet laureate honours Queen Elizabeth II with new work, Floral Tribute](https://www.theguardian.com/books/2022/sep/13/poet-laureate-queen-elizabeth-ii-floral-tribute)
+- [Ukraine takes control of entire Kharkiv region and towns seized at onset of Russian invasion](https://www.theguardian.com/world/2022/sep/13/ukraine-reclaim-control-of-kharkiv-and-towns-seized-at-onset-of-russian-invasion)
+- [Record number of young people in Japan rejecting marriage, survey shows](https://www.theguardian.com/world/2022/sep/14/record-number-of-young-people-in-japan-rejecting-marriage-survey-shows)
+- [Panel says Confederate memorial at Arlington cemetery should be dismantled](https://www.theguardian.com/us-news/2022/sep/13/arlington-national-cemetery-confederate-memorial)
+- [Will Liz Truss’s energy plan keep Britain warm this winter? – podcast](https://www.theguardian.com/news/audio/2022/sep/14/will-liz-trusss-energy-plan-keep-britain-warm-this-winter-podcast)
+- [Strength of ‘limitless’ China-Russia ties to be tested at summit](https://www.theguardian.com/world/2022/sep/14/strength-of-limitless-china-russia-ties-to-be-tested-at-summit)
+- [Kazakhstan to change name of capital from Nur-sultan back to Astana](https://www.theguardian.com/world/2022/sep/14/kazakhstan-to-change-name-of-capital-from-nur-sultan-back-to-astana)
+- [Russia-Ukraine at a glance: what we know on day 203 of the invasion](https://www.theguardian.com/world/2022/sep/14/russia-ukraine-at-a-glance-what-we-know-on-day-203-of-the-invasion)
+- [Hollow, cloying veneration greeted the Queen’s death. Now history calls on us to get an Australian head of state | Thomas Keneally](https://www.theguardian.com/commentisfree/2022/sep/14/hollow-cloying-veneration-greeted-the-queens-death-now-history-calls-on-us-to-get-an-australian-head-of-state)
+- [Catherine Called Birdy review – Lena Dunham’s delightful medieval romp](https://www.theguardian.com/film/2022/sep/13/catherine-called-birdy-review-lena-dunhams-delightful-medieval-romp)
+- [A moment that changed me: ‘as I recovered from spinal surgery, the death of Princess Diana made me value life’](https://www.theguardian.com/lifeandstyle/2022/sep/14/a-moment-that-changed-me-as-i-recovered-from-spinal-surgery-the-death-of-princess-diana-made-me-value-life)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

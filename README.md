@@ -400,16 +400,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Mandiant floats off into Google Cloud](https://www.computerweekly.com/news/252524828/Mandiant-floats-off-into-Google-Cloud)
-- [Contractors lack confidence in prime minister to follow through with promised IR35 review](https://www.computerweekly.com/news/252524822/Contractors-lack-confidence-in-Prime-Minister-to-follow-through-with-promised-IR35-review)
-- [Supporting roles make up 40% of Tech Nation visa endorsees](https://www.computerweekly.com/news/252524820/Supporting-roles-make-up-40-of-Tech-Nation-Visa-endorsees)
-- [CISOs should spend on critical apps, cloud, zero-trust, in 2023](https://www.computerweekly.com/news/252524813/CISOs-should-spend-on-critical-apps-cloud-zero-trust-in-2023)
-- [SAP users ramp up ESG efforts](https://www.computerweekly.com/news/252524775/SAP-users-ramp-up-ESG-efforts)
-- [Lloyd’s of London is digitally transforming through the front door](https://www.computerweekly.com/news/252524801/Lloyds-of-London-is-digitally-transforming-through-the-front-door)
-- [RPA’s day has come – the intelligent evolution of a productivity bot](https://www.computerweekly.com/feature/RPAs-day-has-come-the-intelligent-evolution-of-a-productivity-bot)
-- [Interview: Keeping an IT business going during the Russian invasion](https://www.computerweekly.com/news/252524624/Interview-Keeping-an-IT-business-going-during-the-Russian-invasion)
-- [CW Europe: Why Russia could become the world’s biggest market for illegal IT](https://www.computerweekly.com/ezine/CW-Europe/CW-Europe-Why-Russia-could-become-the-worlds-biggest-market-for-illegal-IT)
-- [Security Think Tank: Adding trust to AppSec and DevSecOps](https://www.computerweekly.com/opinion/Security-Think-Tank-Adding-trust-to-AppSec-and-DevSecOps)
+- [Cloud compromise a doddle for threat actors as victims attest](https://www.computerweekly.com/news/252524882/Cloud-compromise-a-doddle-for-threat-actors-as-victims-attest)
+- [AI Sweden connects the dots to keep the country competitive](https://www.computerweekly.com/feature/AI-Sweden-connects-the-dots-to-keep-the-country-competitive)
+- [Users warned over Azure Active Directory authentication flaw](https://www.computerweekly.com/news/252524880/Users-warned-over-Azure-Active-Directory-authentication-flaw)
+- [Cisco confirms leaked data was stolen in Yanluowang ransomware hit](https://www.computerweekly.com/news/252524873/Cisco-confirms-leaked-data-was-stolen-in-Yanluowang-ransomware-hit)
+- [JP Morgan acquires fintech for payments modernisation](https://www.computerweekly.com/news/252524878/JP-Morgan-acquires-fintech-for-payments-moderniation)
+- [Investment in UK fintech sees fall amid global turmoil](https://www.computerweekly.com/news/252524869/Investment-in-UK-fintech-sees-fall-amid-global-turmoil)
+- [OVHcloud opens new datacentre in Strasbourg at site of March 2021 fire](https://www.computerweekly.com/news/252524866/OVHcloud-opens-new-datacentre-in-Strasbourg-at-site-of-March-2021-fire)
+- [Blancco works with charity to provide IT for African schools](https://www.computerweekly.com/news/252524832/Blancco-works-with-charity-to-provide-IT-for-African-schools)
+- [Multi-persona impersonation adds new dimension to phishing](https://www.computerweekly.com/news/252524824/Multi-Persona-Impersonation-adds-new-dimension-to-phishing)
+- [Source responsibly: Tech sector efforts to root out forced labour are failing](https://www.computerweekly.com/ezine/Computer-Weekly/Source-responsibly-Tech-sector-efforts-to-root-out-forced-labour-are-failing)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

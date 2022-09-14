@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The strange behavior of sound through solids](https://www.ias.edu/news/2022/sound-through-solids)
-- [A personal list of Rust grievances](https://gist.github.com/brendanzab/d41c3ae485d66c07178749eaeeb9e5f7)
-- [Planning Go 1.20 Cryptography Work](https://words.filippo.io/dispatches/go1-20/)
-- [Li-Ion Battery Warehouse Fire Put Out with Portland Cement &lpar;2021&rpar;](https://abc7chicago.com/morris-fire-update-evacuation/10849672/)
-- [AI Content Generation, Part 1: Machine Learning Basics](https://www.jonstokes.com/p/ai-content-generation-part-1-machine)
-- [SEC Charges VMware with Misleading Investors by Obscuring Financial Performance](https://www.sec.gov/news/press-release/2022-160)
-- [Prompt injection attacks against GPT-3](https://simonwillison.net/2022/Sep/12/prompt-injection/)
-- [Dark Sky iOS app ends December 31, 2022](https://blog.darksky.net/)
-- [Prenatal cannabis exposure associated with mental disorders in children](https://www.nih.gov/news-events/news-releases/prenatal-cannabis-exposure-associated-mental-disorders-children-persist-into-early-adolescence)
-- [Anti-royal protesters are being arrested in the U.K. as &#39;Not My King&#39; tag grows](https://text.npr.org/1122379162)
+- [Why Car Wheels Are So Flat These Days](https://www.theautopian.com/heres-why-car-wheels-are-so-flat-these-days-and-no-its-not-just-aerodynamics-and-styling/)
+- [Sudden disturbing moves for IT in large companies, mandated by CEOs](https://old.reddit.com/r/sysadmin/comments/xda3jr/sudden_disturbing_moves_for_it_in_very_large/)
+- [Death by Hockey Sticks](https://dothemath.ucsd.edu/2022/09/death-by-hockey-sticks/)
+- [The transistor – or 25 miles on a hunk of Germanium &lpar;1953&rpar;](https://www.robkalmeijer.nl/techniek/electronica/radiotechniek/hambladen/qst/1953/03/page13/index.html)
+- [Signing Git Commits with Your SSH Key](https://calebhearth.com/sign-git-with-ssh)
+- [W3.css – A Minimal Alternative to Bootstrap](https://www.w3schools.com/w3css/default.asp)
+- [What Gödel Discovered &lpar;in Lisp&rpar;](https://stopa.io/post/269)
+- [Is Peer Review a Good Idea? &lpar;2020&rpar;](https://www.journals.uchicago.edu/doi/10.1093/bjps/axz029)
+- [“Secrets” about the consumer audio business you may find interesting](https://www.audiosciencereview.com/forum/index.php?threads%2Fsecrets-about-the-consumer-audio-business-you-may-find-interesting.37344%2F)
+- [Contentedge &lpar;YC W17&rpar; is hiring to build AI content writing software for SEO](https://www.contentedge.com/?pg=jobs)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

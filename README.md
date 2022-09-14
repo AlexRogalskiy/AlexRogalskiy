@@ -370,16 +370,16 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [How to Attract Venture Capital to Your Startup](https://www.informationweek.com/strategic-cio/how-to-attract-venture-capital-to-your-startup)
+- [How to Draw and Retain Top Talent in Cyber Security](https://www.informationweek.com/strategic-cio/how-to-draw-and-retain-top-talent-in-cyber-security)
+- [Does Your SD-WAN Deliver the Best ROI?](https://www.informationweek.com/palo-alto-networks/does-your-sd-wan-deliver-the-best-roi-)
+- [Overcoming Roadblocks to Digital Transformation with SASE](https://www.informationweek.com/palo-alto-networks/how-to-use-sase-to-accelerate-digital-transformation)
 - [Reining in the Risks of Sustainable Sourcing](https://www.informationweek.com/sustainability/reining-in-the-risks-of-sustainable-sourcing)
 - [SAP North America’s New President Talks Reinventing for the Cloud](https://www.informationweek.com/cloud/sap-north-america-s-new-president-talks-reinventing-for-the-cloud)
 - [Two-Minute Toolkit: Kissflow on Low-Code for Digital Transformation](https://www.informationweek.com/devops/two-minute-toolkit-kissflow-on-low-code-for-digital-transformation)
 - [Ready for Anything: Forrester Preps IT Leaders to Be ‘Future Fit’](https://www.informationweek.com/strategic-cio/ready-for-anything-forrester-preps-it-leaders-to-be-future-fit-)
 - [How to Make Vendor Technology Bakeoffs Work](https://www.informationweek.com/software/how-to-make-vendor-technology-bakeoffs-work)
 - [Know Your Adversaries: The Top Network Bad Actors](https://www.informationweek.com/it-life/know-your-adversaries-the-top-network-bad-actors)
-- [Twilio Breach: 5 Questions to Ask About Protecting Your Own Business](https://www.informationweek.com/security-and-risk-strategy/twilio-breach-5-questions-to-ask-about-protecting-your-own-business)
-- [Crash Course on E-Discovery for CIOs and CDOs](https://www.informationweek.com/security-and-risk-strategy/crash-course-on-e-discovery-for-cios-and-cdos)
-- [FinTech Tools, Security Concerns Top of Mind for Gen-Z Banking](https://www.informationweek.com/fintech/fintech-tools-security-concerns-top-of-mind-for-gen-z-banking)
-- [Serving Today&#39;s Customer: Honor the Surface](https://www.informationweek.com/mobile/serving-today-s-customer-honor-the-surface)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

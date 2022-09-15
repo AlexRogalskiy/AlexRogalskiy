@@ -385,6 +385,9 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [AutoRabit launches devsecops tool for Salesforce environments](https://www.csoonline.com/article/3673298/autorabit-launches-devsecops-tool-for-salesforce-environments.html#tk.rss_all)
+- [Swift language speeds standard library, reworks generics](https://www.infoworld.com/article/3673106/swift-language-speeds-standard-library-reworks-generics.html#tk.rss_all)
+- [Python garbage collection and the gc module](https://www.infoworld.com/article/3671673/python-garbage-collection-and-the-gc-module.html#tk.rss_all)
 - [Oracle MySQL HeatWave comes to AWS](https://www.infoworld.com/article/3673372/oracle-mysql-heatwave-comes-to-aws.html#tk.rss_all)
 - [3 things your cloud finops program needs](https://www.infoworld.com/article/3673369/3-things-your-cloud-finops-program-needs.html#tk.rss_all)
 - [A vision for making open source more equitable and secure](https://www.infoworld.com/article/3672433/a-vision-for-making-open-source-more-equitable-and-secure.html#tk.rss_all)
@@ -392,9 +395,6 @@
 - [Proposed Java API would enable sharing of immutable data across threads](https://www.infoworld.com/article/3673293/proposed-java-api-would-enable-sharing-of-immutable-data-across-threads.html#tk.rss_all)
 - [When is enough data enough?](https://www.infoworld.com/article/3673310/when-is-enough-data-enough.html#tk.rss_all)
 - [Hands-on with Microsoft’s CBL-Mariner 2.0 Linux](https://www.infoworld.com/article/3673254/hands-on-with-microsofts-cbl-mariner-20-linux.html#tk.rss_all)
-- [Software developer jobs: How to get hired now](https://www.infoworld.com/article/3672849/it-jobs-outlook-how-to-get-hired-in-2022.html#tk.rss_all)
-- [R tutorials: Learn R programming for data science](https://www.infoworld.com/article/3411819/do-more-with-r-video-tutorials.html#tk.rss_all)
-- [TensorFlow 2.10 shines on Keras, Decision Forests](https://www.infoworld.com/article/3673272/tensorflow-210-shines-on-keras-decision-forests.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

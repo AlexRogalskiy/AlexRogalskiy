@@ -370,6 +370,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [10 Cool International Locations for Remote Workers to Consider](https://www.informationweek.com/it-life/10-cool-international-locations-for-remote-workers-to-consider)
+- [Box and MongoDB CEOs Chat About Software and the Future of Work](https://www.informationweek.com/devops/box-and-mongodb-ceos-chat-about-software-and-the-future-of-work)
+- [3 Reasons Why You Should Invest in Your Employee Experiences](https://www.informationweek.com/strategic-cio/3-reasons-why-you-should-invest-in-your-employee-experiences)
 - [How to Attract Venture Capital to Your Startup](https://www.informationweek.com/strategic-cio/how-to-attract-venture-capital-to-your-startup)
 - [How to Draw and Retain Top Talent in Cyber Security](https://www.informationweek.com/strategic-cio/how-to-draw-and-retain-top-talent-in-cyber-security)
 - [Does Your SD-WAN Deliver the Best ROI?](https://www.informationweek.com/palo-alto-networks/does-your-sd-wan-deliver-the-best-roi-)
@@ -377,9 +380,6 @@
 - [Reining in the Risks of Sustainable Sourcing](https://www.informationweek.com/sustainability/reining-in-the-risks-of-sustainable-sourcing)
 - [SAP North America’s New President Talks Reinventing for the Cloud](https://www.informationweek.com/cloud/sap-north-america-s-new-president-talks-reinventing-for-the-cloud)
 - [Two-Minute Toolkit: Kissflow on Low-Code for Digital Transformation](https://www.informationweek.com/devops/two-minute-toolkit-kissflow-on-low-code-for-digital-transformation)
-- [Ready for Anything: Forrester Preps IT Leaders to Be ‘Future Fit’](https://www.informationweek.com/strategic-cio/ready-for-anything-forrester-preps-it-leaders-to-be-future-fit-)
-- [How to Make Vendor Technology Bakeoffs Work](https://www.informationweek.com/software/how-to-make-vendor-technology-bakeoffs-work)
-- [Know Your Adversaries: The Top Network Bad Actors](https://www.informationweek.com/it-life/know-your-adversaries-the-top-network-bad-actors)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

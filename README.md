@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Associations of Depression, Anxiety, Stress, and Loneliness with Long Covid Risk](https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2796097)
-- [Ask HN: Good resource to learn about audio streaming?](https://news.ycombinator.com/item?id=32833229)
-- [Ferrari Purosangue SUV Revealed](https://www.autoblog.com/2022/09/13/ferrari-purosangue-reveal/)
-- [Why Railroad Workers Like Me Are Planning to Strike This Friday](https://www.newsweek.com/why-railroad-workers-like-me-are-planning-strike-this-friday-opinion-1742513)
-- [Should we trust ScoMo&#39;s $170bn submarine deal?](https://www.crikey.com.au/2022/09/14/aukus-submarine-deal-scott-morrison/)
-- [Ninety Will Be the New 40 in 10 Years&#39; Time](https://www.newsweek.com/ninety-will-new-40-10-years-time-1742152)
-- [Breakthrough Discoveries for Thriving with Bipolar Disorder](https://www.bipolardiscoveries.org/)
-- [I built and shut down a popular text-to-image site in 2 weeks](https://amansanger.com/posts/enstil.html)
-- [Mudge is a cyber activist, not a business executive](https://cybersect.substack.com/p/re-mudge-v-twitter)
-- [Leaky Bucket](https://en.wikipedia.org/wiki/Leaky_bucket)
+- [Patagonia: Billionaire boss of fashion retailer gives company away](https://www.bbc.com/news/business-62906853)
+- [Pfizer/BioNTech: Comirnaty Bivalent Original/Omicron BA.4/BA.5](https://covid19.trackvaccines.org/vaccines/225/)
+- [Open source machine learning for video compression](https://www.collabora.com/news-and-blog/blog/2022/09/14/open-source-machine-learning-for-video-compression/)
+- [One of Gaming’s Greatest Writers Is Busy Crafting Romance Novels](https://www.wired.com/story/jane-jensen-eli-easton-interview/)
+- [Craiglist Killings](http://craigslistkillings.blogspot.com/)
+- [Not breaking things is hard](https://blog.liw.fi/posts/2022/09/14/not-breaking/)
+- [Ask HN: Is Ethereum&#39;s Merge one of the biggest successes in Open Source?](https://news.ycombinator.com/item?id=32846899)
+- [Moderna: Spikevax Bivalent Original/Omicron BA.4/BA.5](https://covid19.trackvaccines.org/vaccines/224/)
+- [Checkout trader&#39;s joe logo on Google](https://www.google.com/search?q=trader+joe)
+- [It Pays to Be Circomspect](https://blog.trailofbits.com/2022/09/15/it-pays-to-be-circomspect/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine takes control of entire Kharkiv region and towns seized at onset of Russian invasion](https://www.theguardian.com/world/2022/sep/13/ukraine-reclaim-control-of-kharkiv-and-towns-seized-at-onset-of-russian-invasion)
-- [Record number of young people in Japan rejecting marriage, survey shows](https://www.theguardian.com/world/2022/sep/14/record-number-of-young-people-in-japan-rejecting-marriage-survey-shows)
-- [Panel says Confederate memorial at Arlington cemetery should be dismantled](https://www.theguardian.com/us-news/2022/sep/13/arlington-national-cemetery-confederate-memorial)
-- [Will Liz Truss’s energy plan keep Britain warm this winter? – podcast](https://www.theguardian.com/news/audio/2022/sep/14/will-liz-trusss-energy-plan-keep-britain-warm-this-winter-podcast)
-- [Strength of ‘limitless’ China-Russia ties to be tested at summit](https://www.theguardian.com/world/2022/sep/14/strength-of-limitless-china-russia-ties-to-be-tested-at-summit)
-- [Kazakhstan to change name of capital from Nur-sultan back to Astana](https://www.theguardian.com/world/2022/sep/14/kazakhstan-to-change-name-of-capital-from-nur-sultan-back-to-astana)
-- [Russia-Ukraine at a glance: what we know on day 203 of the invasion](https://www.theguardian.com/world/2022/sep/14/russia-ukraine-at-a-glance-what-we-know-on-day-203-of-the-invasion)
-- [Hollow, cloying veneration greeted the Queen’s death. Now history calls on us to get an Australian head of state | Thomas Keneally](https://www.theguardian.com/commentisfree/2022/sep/14/hollow-cloying-veneration-greeted-the-queens-death-now-history-calls-on-us-to-get-an-australian-head-of-state)
-- [Catherine Called Birdy review – Lena Dunham’s delightful medieval romp](https://www.theguardian.com/film/2022/sep/13/catherine-called-birdy-review-lena-dunhams-delightful-medieval-romp)
-- [A moment that changed me: ‘as I recovered from spinal surgery, the death of Princess Diana made me value life’](https://www.theguardian.com/lifeandstyle/2022/sep/14/a-moment-that-changed-me-as-i-recovered-from-spinal-surgery-the-death-of-princess-diana-made-me-value-life)
+- [Ukraine city of Kryvyi Rih floods after Russian missile strikes hit dam](https://www.theguardian.com/world/2022/sep/15/ukraine-city-of-kryvyi-rih-floods-after-russian-missile-strikes-hit-dam)
+- [Is Russia on the retreat in Ukraine? - podcast](https://www.theguardian.com/news/audio/2022/sep/15/is-russia-on-the-retreat-in-ukraine-podcast)
+- [Moscow’s local allies were told ‘Russia is here for ever’. Now they flee Ukraine](https://www.theguardian.com/world/2022/sep/15/ukraine-russia-local-allies-flee)
+- [Great Britain beaten by USA in decisive late-night Davis Cup doubles finish](https://www.theguardian.com/sport/2022/sep/15/great-britain-beaten-by-usa-in-decisive-late-night-davis-cup-doubles-finish)
+- [Swedish PM resigns after conceding election defeat to rightwing bloc](https://www.theguardian.com/world/2022/sep/14/swedish-pm-concedes-election-defeat-to-bloc-led-by-far-right-sweden-democrats)
+- [Haaland’s winner against Dortmund reminiscent of Cruyff, says Guardiola](https://www.theguardian.com/football/2022/sep/14/erling-haaland-winner-manchester-city-borussia-dortmund-reminiscent-johan-cruyff-pep-guardiola)
+- [Woman arrested in South Korea over alleged murder of two children found in suitcases in New Zealand](https://www.theguardian.com/world/2022/sep/15/woman-arrested-in-seoul-over-alleged-of-two-children-found-in-suitcases-in-auckland)
+- [Burnout in doctors doubles chances of patient safety problems, study finds](https://www.theguardian.com/society/2022/sep/14/burnout-in-doctors-doubles-chances-of-patient-safety-problems-study-finds)
+- [R Kelly found guilty on child pornography and sex abuse charges](https://www.theguardian.com/us-news/2022/sep/14/r-kelly-found-guilty-on-child-pornography-and-sex-abuse-charges)
+- [Helena Rowland bags hat-trick as Red Roses beat Wales and set winning record](https://www.theguardian.com/sport/2022/sep/14/helena-rowland-hat-trick-red-roses-england-beat-wales-set-winning-record)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

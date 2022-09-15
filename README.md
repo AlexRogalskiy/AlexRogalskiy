@@ -415,16 +415,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [HR TRAINING SOFTWARE](https://www.reddit.com/r/InformationTechnology/comments/xeec6n/hr_training_software/)
+- [Phishing Email Info For Users](https://www.reddit.com/r/InformationTechnology/comments/xec050/phishing_email_info_for_users/)
+- [Remote Connections Explained - Network+ &lpar;N10-008&rpar;](https://www.reddit.com/r/InformationTechnology/comments/xe99kq/remote_connections_explained_network_n10008/)
+- [ATO Process](https://www.reddit.com/r/InformationTechnology/comments/xe5lhu/ato_process/)
+- [Hello, when will you need to use byte, short, int and long.](https://www.reddit.com/r/InformationTechnology/comments/xe3gd0/hello_when_will_you_need_to_use_byte_short_int/)
+- [What is the best way to allow another computer in another city to access a specific drive on a desktop in another city? &lpar;Without opening access to that drive to the public&rpar;](https://www.reddit.com/r/InformationTechnology/comments/xe1t1u/what_is_the_best_way_to_allow_another_computer_in/)
+- [Segmented Network Printer Help](https://www.reddit.com/r/InformationTechnology/comments/xdnbor/segmented_network_printer_help/)
 - [Tryng to swap to IT. Which branch?](https://www.reddit.com/r/InformationTechnology/comments/xdkg7b/tryng_to_swap_to_it_which_branch/)
 - [Field Tech Final Interview Fears](https://www.reddit.com/r/InformationTechnology/comments/xdkfei/field_tech_final_interview_fears/)
 - [Looking for IT Director](https://www.reddit.com/r/InformationTechnology/comments/xdgq41/looking_for_it_director/)
-- [pathway to becoming an IT analyst](https://www.reddit.com/r/InformationTechnology/comments/xddgi9/pathway_to_becoming_an_it_analyst/)
-- [looking to get into QA testing.](https://www.reddit.com/r/InformationTechnology/comments/xdbzrz/looking_to_get_into_qa_testing/)
-- [Does IIS basic authentication offer adequate protection for an intranet?](https://www.reddit.com/r/InformationTechnology/comments/xdaxb0/does_iis_basic_authentication_offer_adequate/)
-- [Transitioning from IT Recruiting to a BSA or PO role](https://www.reddit.com/r/InformationTechnology/comments/xd7wu3/transitioning_from_it_recruiting_to_a_bsa_or_po/)
-- [Can someone explain what would prevent an application / system from being scalable? Anything other than inability to integrate with other applications?](https://www.reddit.com/r/InformationTechnology/comments/xcu4xt/can_someone_explain_what_would_prevent_an/)
-- [Sandbox/ VM security](https://www.reddit.com/r/InformationTechnology/comments/xcsmdo/sandbox_vm_security/)
-- [Does anyone know of any examples of biometric use for employees?](https://www.reddit.com/r/InformationTechnology/comments/xcik57/does_anyone_know_of_any_examples_of_biometric_use/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

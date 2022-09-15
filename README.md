@@ -400,16 +400,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [FormBook knocks Emotet off top of malware chart](https://www.computerweekly.com/news/252524928/FormBook-knocks-Emotet-off-top-of-malware-chart)
+- [Ex-CISA head Krebs: Disrupt ransomware support networks to win the war](https://www.computerweekly.com/news/252524923/Ex-CISA-head-Krebs-Disrupt-ransomware-support-networks-to-win-the-war)
+- [Microsoft patches 64 vulnerabilities on September Patch Tuesday](https://www.computerweekly.com/news/252524916/Microsoft-patches-64-vulnerabilities-on-September-Patch-Tuesday)
+- [US to see huge increase in embedded finance transactions](https://www.computerweekly.com/news/252524917/US-to-see-huge-increase-in-embedded-finance-transactions)
+- [NCSC warns public of potential Queen-related phishing attacks](https://www.computerweekly.com/news/252524890/NCSC-warns-public-of-potential-Queen-related-phishing-attacks)
+- [DDoS attacks on UK financial sector surged during Ukraine war](https://www.computerweekly.com/news/252524889/DDoS-attacks-on-UK-financial-sector-surged-during-Ukraine-war)
 - [Cloud compromise a doddle for threat actors as victims attest](https://www.computerweekly.com/news/252524882/Cloud-compromise-a-doddle-for-threat-actors-as-victims-attest)
 - [AI Sweden connects the dots to keep the country competitive](https://www.computerweekly.com/feature/AI-Sweden-connects-the-dots-to-keep-the-country-competitive)
 - [Users warned over Azure Active Directory authentication flaw](https://www.computerweekly.com/news/252524880/Users-warned-over-Azure-Active-Directory-authentication-flaw)
 - [Cisco confirms leaked data was stolen in Yanluowang ransomware hit](https://www.computerweekly.com/news/252524873/Cisco-confirms-leaked-data-was-stolen-in-Yanluowang-ransomware-hit)
-- [JP Morgan acquires fintech for payments modernisation](https://www.computerweekly.com/news/252524878/JP-Morgan-acquires-fintech-for-payments-moderniation)
-- [Investment in UK fintech sees fall amid global turmoil](https://www.computerweekly.com/news/252524869/Investment-in-UK-fintech-sees-fall-amid-global-turmoil)
-- [OVHcloud opens new datacentre in Strasbourg at site of March 2021 fire](https://www.computerweekly.com/news/252524866/OVHcloud-opens-new-datacentre-in-Strasbourg-at-site-of-March-2021-fire)
-- [Blancco works with charity to provide IT for African schools](https://www.computerweekly.com/news/252524832/Blancco-works-with-charity-to-provide-IT-for-African-schools)
-- [Multi-persona impersonation adds new dimension to phishing](https://www.computerweekly.com/news/252524824/Multi-Persona-Impersonation-adds-new-dimension-to-phishing)
-- [Source responsibly: Tech sector efforts to root out forced labour are failing](https://www.computerweekly.com/ezine/Computer-Weekly/Source-responsibly-Tech-sector-efforts-to-root-out-forced-labour-are-failing)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

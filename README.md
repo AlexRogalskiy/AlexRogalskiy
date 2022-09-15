@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Why Car Wheels Are So Flat These Days](https://www.theautopian.com/heres-why-car-wheels-are-so-flat-these-days-and-no-its-not-just-aerodynamics-and-styling/)
-- [Sudden disturbing moves for IT in large companies, mandated by CEOs](https://old.reddit.com/r/sysadmin/comments/xda3jr/sudden_disturbing_moves_for_it_in_very_large/)
-- [Death by Hockey Sticks](https://dothemath.ucsd.edu/2022/09/death-by-hockey-sticks/)
-- [The transistor – or 25 miles on a hunk of Germanium &lpar;1953&rpar;](https://www.robkalmeijer.nl/techniek/electronica/radiotechniek/hambladen/qst/1953/03/page13/index.html)
-- [Signing Git Commits with Your SSH Key](https://calebhearth.com/sign-git-with-ssh)
-- [W3.css – A Minimal Alternative to Bootstrap](https://www.w3schools.com/w3css/default.asp)
-- [What Gödel Discovered &lpar;in Lisp&rpar;](https://stopa.io/post/269)
-- [Is Peer Review a Good Idea? &lpar;2020&rpar;](https://www.journals.uchicago.edu/doi/10.1093/bjps/axz029)
-- [“Secrets” about the consumer audio business you may find interesting](https://www.audiosciencereview.com/forum/index.php?threads%2Fsecrets-about-the-consumer-audio-business-you-may-find-interesting.37344%2F)
-- [Contentedge &lpar;YC W17&rpar; is hiring to build AI content writing software for SEO](https://www.contentedge.com/?pg=jobs)
+- [I figured out how to get GitHub Copilot to run in the terminal](https://github.com/maxwell-bland/copilot-in-the-terminal)
+- [Apple.com Is Down](https://www.apple.com/)
+- [Long Covid is now the third leading neurological disorder in the US](https://www.chicagomag.com/chicago-magazine/october-2022/the-long-haul/)
+- [How to help crying infants sleep. Study suggests a two-part path: “walk-to-sit” [pdf]](https://www.cell.com/current-biology/pdf/S0960-9822(22)01363-X.pdf)
+- [Dick the Birthday Boy: The Legacy Continues [video]](https://www.youtube.com/watch?v=hwu1427MUIE)
+- [Suspected counterfeit components found in ejection seat after fatal F-16 crash](https://www.airforcetimes.com/news/your-air-force/2022/09/13/an-f-16-pilot-died-when-his-ejection-seat-failed-was-it-counterfeit/)
+- [Head-On Crash: 2009 Chevrolet Malibu vs. 1959 Bel Air](https://www.thecarconnection.com/news/1035359_head-on-crash-2009-chevrolet-malibu-vs-59-bel-air)
+- [GraphBLAS](https://people.engr.tamu.edu/davis/GraphBLAS.html)
+- [Crazy Thin ‘Deep Insert’ ATM Skimmers](https://krebsonsecurity.com/2022/09/say-hello-to-crazy-thin-deep-insert-atm-skimmers/)
+- [iPhone 14 Pro Camera Review: Scotland](https://www.austinmann.com/trek/iphone-14-pro-camera-review-scotland)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

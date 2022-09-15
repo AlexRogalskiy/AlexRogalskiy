@@ -430,16 +430,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Gartner reveals four key customer service technology trends](https://www.itworldcanada.com/article/gartner-reveals-four-key-customer-service-technology-trends/503031)
+- [Corel rebrands to Alludo](https://www.itworldcanada.com/article/corel-rebrands-to-alludo/502985)
+- [Blameless announces integrations with ServiceNow and Microsoft Teams](https://www.itworldcanada.com/article/blameless-announces-integrations-with-servicenow-and-microsoft-teams/502977)
+- [Reel in phishing attacks with Zero Trust Network Access](https://www.itworldcanada.com/article/reel-in-phishing-attacks-with-zero-trust-network-access/502911)
+- [Twitter can’t protect users’ data, former CISO alleges](https://www.itworldcanada.com/article/twitter-cant-protect-users-data-former-ciso-alleges/502960)
+- [Cyber Security Today, Sept. 14, 2022 – Windows patches, a warning to medical IT administrators, a Mitel VoIP vulnerability being exploited and more](https://www.itworldcanada.com/article/cyber-security-today-sept-14-2022-windows-patches-a-warning-to-medical-it-administrators-a-mitel-voip-vulnerability-being-exploited-and-more/502838)
+- [Hashtag Trending Sept. 14 – Instagram Reels lacks engagement; Google faces U.K. and EU lawsuits; iOS 16 launches](https://www.itworldcanada.com/article/hashtag-trending-sept-14-instagram-reels-lacks-engagement-google-faces-u-k-and-eu-lawsuits-ios-16-launches/502764)
 - [Opensignal assesses ‘no signal’ problem and smartphone satellite connectivity opportunity](https://www.itworldcanada.com/article/opensignal-assesses-no-signal-problem-and-smartphone-satellite-connectivity-opportunity/502665)
 - [IWK Health, Cisco Canada, OnX Canada partner to connect NICU families with web-delivered application](https://www.itworldcanada.com/article/iwk-health-cisco-canada-onx-canada-partner-to-connect-nicu-families-with-web-delivered-application/502568)
 - [Security leaders are increasingly consolidating vendors, says Gartner](https://www.itworldcanada.com/article/security-leaders-are-increasingly-consolidating-vendors-says-gartner/502768)
-- [Coffee Briefing-September 13, 2022-ThinkData partners with Google; Apple Pay surpasses Mastercard to process over $6 trillion in a year; Instagram to cut back on shopping features; and more](https://www.itworldcanada.com/article/coffee-briefing-september-13-2022-thinkdata-partners-with-google-apple-pay-surpasses-mastercard-to-process-over-6-trillion-in-a-year-instagram-to-cut-back-on-shopping-features-and-more/502619)
-- [Hashtag Trending Sept. 13 – SpaceX upset at Starlink subsidy rejection; autonomous vehicles and human supervision; credit card companies to add a new code at gun stores to track sales](https://www.itworldcanada.com/article/hashtag-trending-sept-13-spacex-upset-at-starlink-subsidy-rejection-autonomous-vehicles-and-human-supervision-credit-card-companies-to-add-a-new-code-at-gun-stores-to-track-sales/502760)
-- [Intel 13th-gen ‘Raptor Lake’ processors to support Wi-Fi sensing](https://www.itworldcanada.com/article/intel-13th-gen-raptor-lake-processors-to-support-wi-fi-sensing/502710)
-- [Cisco admits data posted by ransomware gang came from its systems](https://www.itworldcanada.com/article/cisco-admits-data-posted-by-ransomware-gang-came-from-its-systems/502561)
-- [Cyber Security Today, Sept. 12, 2022 – A vulnerability found in the BackupBuddy WordPress plugin, a new Linux malware discovered, and more](https://www.itworldcanada.com/article/cyber-security-today-sept-12-2022-a-vulnerability-found-in-the-backupbuddy-wordpress-plugin-a-new-linux-malware-discovered-and-more/502514)
-- [Hashtag Trending Sept. 12 – Meta dissolves Responsible Innovation Team; FCC wants to cut down on space debris, and Garmin reacts to Apple Watch Ultra](https://www.itworldcanada.com/article/hashtag-trending-sept-12-meta-dissolves-responsible-innovation-team-fcc-wants-to-cut-down-on-space-debris-and-garmin-reacts-to-apple-watch-ultra/502534)
-- [Apple iPhone 14 launches with better cameras, satellite connectivity, and 5G](https://www.itworldcanada.com/article/apple-iphone-14-launches-with-better-cameras-satellite-connectivity-and-5g/502517)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

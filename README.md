@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Want to change a dysfunctional culture? Intel’s Israel Development Center shows how](https://www.computerworld.com/article/3673671/want-to-change-a-dysfunctional-culture-intels-israel-development-center-shows-how.html#tk.rss_all)
+- [The evolution of Apple&#39;s iPhone](https://www.computerworld.com/article/2604020/the-evolution-of-apples-iphone.html#tk.rss_all)
+- [Canva launches workplace product suite to improve visual collaboration](https://www.computerworld.com/article/3673670/canva-launches-workplace-product-suite-to-improve-visual-collaboration.html#tk.rss_all)
+- [Coming in Windows 11 22H2, a change of update cadence?](https://www.computerworld.com/article/3673297/coming-in-windows-11-22h2-a-change-of-update-cadence.html#tk.rss_all)
+- [Why Apple&#39;s October event matters to business](https://www.computerworld.com/article/3673668/why-apples-october-event-matters-to-business.html#tk.rss_all)
+- [Noteworthy tech acquisitions 2022](https://www.computerworld.com/article/3646533/noteworthy-tech-acquisitions-2022.html#tk.rss_all)
+- [Windows troubleshooting tips, tools, and techniques](https://www.computerworld.com/article/3672929/windows-troubleshooting-tips-tools-techniques.html#tk.rss_all)
+- [The 20-minute Android tune-up](https://www.computerworld.com/article/3331847/android-tune-up-20-minute.html#tk.rss_all)
 - [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
 - [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
-- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [The quick and easy guide to eSIM on Apple&#39;s iPhone 14](https://www.computerworld.com/article/3673100/the-quick-and-easy-guide-to-esim-on-apples-iphone-14.html#tk.rss_all)
-- [Tech salaries on the rise globally: report](https://www.computerworld.com/article/3673232/tech-salaries-on-the-rise-globally-report.html#tk.rss_all)
-- [Yes, &#39;quiet quitting&#39; is real](https://www.computerworld.com/article/3673259/yes-quiet-quitting-is-real.html#tk.rss_all)
-- [Q&amp;A: From parkourist to data analyst — how upskilling launched a tech career](https://www.computerworld.com/article/3673271/qa-from-parkourist-to-data-analyst-how-low-code-opened-doors-to-a-tech-career.html#tk.rss_all)
-- [Email woes gotcha worried? How to fix problems and fend off attacks](https://www.computerworld.com/article/3673257/email-woes-gotcha-worried-how-to-fix-problems-and-fend-off-attacks.html#tk.rss_all)
-- [14+ reasons enterprises should upgrade to iOS 16](https://www.computerworld.com/article/3673311/14-reasons-enterprises-should-upgrade-to-ios-16.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

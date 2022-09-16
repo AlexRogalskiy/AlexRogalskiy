@@ -385,6 +385,9 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [JavaFX 19 rich client Java platform arrives](https://www.infoworld.com/article/3673888/javafx-19-rich-client-java-platform-arrives.html#tk.rss_all)
+- [How to create a custom configuration provider in ASP.NET Core 6](https://www.infoworld.com/article/3673211/how-to-create-a-custom-configuration-provider-in-asp-net-core-6.html#tk.rss_all)
+- [Intro to Blitz.js: A full-stack framework for Next.js](https://www.infoworld.com/article/3673088/intro-to-blitzjs-a-full-stack-framework-for-nextjs.html#tk.rss_all)
 - [AutoRabit launches devsecops tool for Salesforce environments](https://www.csoonline.com/article/3673298/autorabit-launches-devsecops-tool-for-salesforce-environments.html#tk.rss_all)
 - [Swift language speeds standard library, reworks generics](https://www.infoworld.com/article/3673106/swift-language-speeds-standard-library-reworks-generics.html#tk.rss_all)
 - [Python garbage collection and the gc module](https://www.infoworld.com/article/3671673/python-garbage-collection-and-the-gc-module.html#tk.rss_all)
@@ -392,9 +395,6 @@
 - [3 things your cloud finops program needs](https://www.infoworld.com/article/3673369/3-things-your-cloud-finops-program-needs.html#tk.rss_all)
 - [A vision for making open source more equitable and secure](https://www.infoworld.com/article/3672433/a-vision-for-making-open-source-more-equitable-and-secure.html#tk.rss_all)
 - [Rust programming language gains dedicated security team](https://www.infoworld.com/article/3673210/rust-programming-language-gains-dedicated-security-team.html#tk.rss_all)
-- [Proposed Java API would enable sharing of immutable data across threads](https://www.infoworld.com/article/3673293/proposed-java-api-would-enable-sharing-of-immutable-data-across-threads.html#tk.rss_all)
-- [When is enough data enough?](https://www.infoworld.com/article/3673310/when-is-enough-data-enough.html#tk.rss_all)
-- [Hands-on with Microsoft’s CBL-Mariner 2.0 Linux](https://www.infoworld.com/article/3673254/hands-on-with-microsofts-cbl-mariner-20-linux.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

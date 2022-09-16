@@ -370,6 +370,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [How to Prepare for New PCI DSS 4.0 Requirements](https://www.informationweek.com/fintech/how-to-prepare-for-new-pci-dss-4-0-requirements)
+- [Two-Factor Authentication by 2023 is Not Soon Enough](https://www.informationweek.com/security-and-risk-strategy/two-factor-authentication-by-2023-is-not-soon-enough)
+- [Chip Shortage Update](https://www.informationweek.com/sustainability/chip-shortage-update)
 - [10 Cool International Locations for Remote Workers to Consider](https://www.informationweek.com/it-life/10-cool-international-locations-for-remote-workers-to-consider)
 - [Box and MongoDB CEOs Chat About Software and the Future of Work](https://www.informationweek.com/devops/box-and-mongodb-ceos-chat-about-software-and-the-future-of-work)
 - [3 Reasons Why You Should Invest in Your Employee Experiences](https://www.informationweek.com/strategic-cio/3-reasons-why-you-should-invest-in-your-employee-experiences)
@@ -377,9 +380,6 @@
 - [How to Draw and Retain Top Talent in Cyber Security](https://www.informationweek.com/strategic-cio/how-to-draw-and-retain-top-talent-in-cyber-security)
 - [Does Your SD-WAN Deliver the Best ROI?](https://www.informationweek.com/palo-alto-networks/does-your-sd-wan-deliver-the-best-roi-)
 - [Overcoming Roadblocks to Digital Transformation with SASE](https://www.informationweek.com/palo-alto-networks/how-to-use-sase-to-accelerate-digital-transformation)
-- [Reining in the Risks of Sustainable Sourcing](https://www.informationweek.com/sustainability/reining-in-the-risks-of-sustainable-sourcing)
-- [SAP North America’s New President Talks Reinventing for the Cloud](https://www.informationweek.com/cloud/sap-north-america-s-new-president-talks-reinventing-for-the-cloud)
-- [Two-Minute Toolkit: Kissflow on Low-Code for Digital Transformation](https://www.informationweek.com/devops/two-minute-toolkit-kissflow-on-low-code-for-digital-transformation)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

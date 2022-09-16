@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Workday expands service that surfaces employee skills](https://www.computerworld.com/article/3673937/workday-expands-service-that-surfaces-employee-skills.html#tk.rss_all)
+- [BrandPost: In the Battle Against Ransomware, Organizations Need to Enhance their Data Protection Capabilities](https://www.computerworld.com/article/3674050/in-the-battle-against-ransomware-organizations-need-to-enhance-their-data-protection-capabilities.html#tk.rss_all)
+- [Adobe&#39;s $20B Figma acquisition highlights web-based collaboration trends](https://www.computerworld.com/article/3673934/adobes-20b-figma-acquisition-highlights-web-based-collaboration-trends.html#tk.rss_all)
+- [Google’s failure to quash EU antitrust ruling has broad implications for tech companies](https://www.computerworld.com/article/3674049/googles-failure-to-quash-eu-antitrust-ruling-has-broad-implications-for-tech-companies.html#tk.rss_all)
+- [iPhone users have become more cautious about fast iOS upgrades](https://www.computerworld.com/article/3673931/iphone-users-have-become-more-cautious-about-fast-ios-upgrades.html#tk.rss_all)
+- [Digital whiteboards: The next must-have tool for hybrid teams?](https://www.computerworld.com/article/3673092/digital-whiteboards-next-must-have-tool-for-hybrid-teams.html#tk.rss_all)
 - [Want to change a dysfunctional culture? Intel’s Israel Development Center shows how](https://www.computerworld.com/article/3673671/want-to-change-a-dysfunctional-culture-intels-israel-development-center-shows-how.html#tk.rss_all)
 - [The evolution of Apple&#39;s iPhone](https://www.computerworld.com/article/2604020/the-evolution-of-apples-iphone.html#tk.rss_all)
 - [Canva launches workplace product suite to improve visual collaboration](https://www.computerworld.com/article/3673670/canva-launches-workplace-product-suite-to-improve-visual-collaboration.html#tk.rss_all)
 - [Coming in Windows 11 22H2, a change of update cadence?](https://www.computerworld.com/article/3673297/coming-in-windows-11-22h2-a-change-of-update-cadence.html#tk.rss_all)
-- [Why Apple&#39;s October event matters to business](https://www.computerworld.com/article/3673668/why-apples-october-event-matters-to-business.html#tk.rss_all)
-- [Noteworthy tech acquisitions 2022](https://www.computerworld.com/article/3646533/noteworthy-tech-acquisitions-2022.html#tk.rss_all)
-- [Windows troubleshooting tips, tools, and techniques](https://www.computerworld.com/article/3672929/windows-troubleshooting-tips-tools-techniques.html#tk.rss_all)
-- [The 20-minute Android tune-up](https://www.computerworld.com/article/3331847/android-tune-up-20-minute.html#tk.rss_all)
-- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
-- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

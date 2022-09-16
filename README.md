@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine city of Kryvyi Rih floods after Russian missile strikes hit dam](https://www.theguardian.com/world/2022/sep/15/ukraine-city-of-kryvyi-rih-floods-after-russian-missile-strikes-hit-dam)
-- [Is Russia on the retreat in Ukraine? - podcast](https://www.theguardian.com/news/audio/2022/sep/15/is-russia-on-the-retreat-in-ukraine-podcast)
-- [Moscow’s local allies were told ‘Russia is here for ever’. Now they flee Ukraine](https://www.theguardian.com/world/2022/sep/15/ukraine-russia-local-allies-flee)
-- [Great Britain beaten by USA in decisive late-night Davis Cup doubles finish](https://www.theguardian.com/sport/2022/sep/15/great-britain-beaten-by-usa-in-decisive-late-night-davis-cup-doubles-finish)
-- [Swedish PM resigns after conceding election defeat to rightwing bloc](https://www.theguardian.com/world/2022/sep/14/swedish-pm-concedes-election-defeat-to-bloc-led-by-far-right-sweden-democrats)
-- [Haaland’s winner against Dortmund reminiscent of Cruyff, says Guardiola](https://www.theguardian.com/football/2022/sep/14/erling-haaland-winner-manchester-city-borussia-dortmund-reminiscent-johan-cruyff-pep-guardiola)
-- [Woman arrested in South Korea over alleged murder of two children found in suitcases in New Zealand](https://www.theguardian.com/world/2022/sep/15/woman-arrested-in-seoul-over-alleged-of-two-children-found-in-suitcases-in-auckland)
-- [Burnout in doctors doubles chances of patient safety problems, study finds](https://www.theguardian.com/society/2022/sep/14/burnout-in-doctors-doubles-chances-of-patient-safety-problems-study-finds)
-- [R Kelly found guilty on child pornography and sex abuse charges](https://www.theguardian.com/us-news/2022/sep/14/r-kelly-found-guilty-on-child-pornography-and-sex-abuse-charges)
-- [Helena Rowland bags hat-trick as Red Roses beat Wales and set winning record](https://www.theguardian.com/sport/2022/sep/14/helena-rowland-hat-trick-red-roses-england-beat-wales-set-winning-record)
+- [Son of Fijian prime minister faces NSW court on domestic violence-related charges](https://www.theguardian.com/world/2022/sep/16/son-of-fijian-prime-minister-faces-nsw-court-on-domestic-violence-related-charges)
+- [Uber investigating computer network breach – report](https://www.theguardian.com/technology/2022/sep/15/uber-computer-network-hack-report)
+- [‘I did not identify as a lesbian’: Anne Heche reflects on Ellen DeGeneres in upcoming memoir](https://www.theguardian.com/film/2022/sep/16/anne-heche-memoir-call-me-anne-release-date-january-2023)
+- [I feel smothered by messages. My partner says she misses me, but it’s only been four hours!](https://www.theguardian.com/lifeandstyle/2022/sep/16/i-feel-smothered-by-messages-my-partner-says-she-misses-me-but-its-only-been-four-hours)
+- [Can the commonwealth survive the death of the queen?](https://www.theguardian.com/news/audio/2022/sep/16/can-the-commonwealth-survive-the-death-of-the-queen)
+- [Viewfinder: photography from the 1970s to now – in pictures](https://www.theguardian.com/artanddesign/gallery/2022/sep/16/viewfinder-photography-from-the-1970s-to-now-in-pictures)
+- [Judge proposed by Trump named special master in Mar-a-Lago records case](https://www.theguardian.com/us-news/2022/sep/15/judge-raymond-drearie-trump-special-master-records-case)
+- [Ukraine mass burial site with 440 bodies discovered in recaptured Izium, says police chief](https://www.theguardian.com/world/2022/sep/16/ukraine-mass-grave-with-440-bodies-discovered-in-recaptured-izium-says-police-chief)
+- [Blade Runner 2099: ‘provocative’ TV sequel greenlit by Amazon](https://www.theguardian.com/tv-and-radio/2022/sep/16/blade-runner-2099-provocative-tv-sequel-greenlit-by-amazon)
+- [Do Revenge review – biting Netflix comedy updates Strangers on a Train](https://www.theguardian.com/film/2022/sep/15/do-revenge-review-biting-netflix-comedy-updates-strangers-on-a-train)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

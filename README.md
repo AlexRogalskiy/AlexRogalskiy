@@ -415,16 +415,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [A Detailed Talk about K8S Cluster Security from the Perspective of Attackers &lpar;Part 1&rpar;](https://www.reddit.com/r/InformationTechnology/comments/xf3la9/a_detailed_talk_about_k8s_cluster_security_from/)
+- [best laptop ?](https://www.reddit.com/r/InformationTechnology/comments/xf0m8p/best_laptop/)
+- [I&#39;m a health startup CTO and I&#39;m afraid](https://www.reddit.com/r/InformationTechnology/comments/xexflr/im_a_health_startup_cto_and_im_afraid/)
+- [Software for massive image deployment](https://www.reddit.com/r/InformationTechnology/comments/xevfj2/software_for_massive_image_deployment/)
 - [HR TRAINING SOFTWARE](https://www.reddit.com/r/InformationTechnology/comments/xeec6n/hr_training_software/)
 - [Phishing Email Info For Users](https://www.reddit.com/r/InformationTechnology/comments/xec050/phishing_email_info_for_users/)
 - [Remote Connections Explained - Network+ &lpar;N10-008&rpar;](https://www.reddit.com/r/InformationTechnology/comments/xe99kq/remote_connections_explained_network_n10008/)
 - [ATO Process](https://www.reddit.com/r/InformationTechnology/comments/xe5lhu/ato_process/)
 - [Hello, when will you need to use byte, short, int and long.](https://www.reddit.com/r/InformationTechnology/comments/xe3gd0/hello_when_will_you_need_to_use_byte_short_int/)
 - [What is the best way to allow another computer in another city to access a specific drive on a desktop in another city? &lpar;Without opening access to that drive to the public&rpar;](https://www.reddit.com/r/InformationTechnology/comments/xe1t1u/what_is_the_best_way_to_allow_another_computer_in/)
-- [Segmented Network Printer Help](https://www.reddit.com/r/InformationTechnology/comments/xdnbor/segmented_network_printer_help/)
-- [Tryng to swap to IT. Which branch?](https://www.reddit.com/r/InformationTechnology/comments/xdkg7b/tryng_to_swap_to_it_which_branch/)
-- [Field Tech Final Interview Fears](https://www.reddit.com/r/InformationTechnology/comments/xdkfei/field_tech_final_interview_fears/)
-- [Looking for IT Director](https://www.reddit.com/r/InformationTechnology/comments/xdgq41/looking_for_it_director/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

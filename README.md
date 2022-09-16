@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [I figured out how to get GitHub Copilot to run in the terminal](https://github.com/maxwell-bland/copilot-in-the-terminal)
-- [Apple.com Is Down](https://www.apple.com/)
-- [Long Covid is now the third leading neurological disorder in the US](https://www.chicagomag.com/chicago-magazine/october-2022/the-long-haul/)
-- [How to help crying infants sleep. Study suggests a two-part path: “walk-to-sit” [pdf]](https://www.cell.com/current-biology/pdf/S0960-9822(22)01363-X.pdf)
-- [Dick the Birthday Boy: The Legacy Continues [video]](https://www.youtube.com/watch?v=hwu1427MUIE)
-- [Suspected counterfeit components found in ejection seat after fatal F-16 crash](https://www.airforcetimes.com/news/your-air-force/2022/09/13/an-f-16-pilot-died-when-his-ejection-seat-failed-was-it-counterfeit/)
-- [Head-On Crash: 2009 Chevrolet Malibu vs. 1959 Bel Air](https://www.thecarconnection.com/news/1035359_head-on-crash-2009-chevrolet-malibu-vs-59-bel-air)
-- [GraphBLAS](https://people.engr.tamu.edu/davis/GraphBLAS.html)
-- [Crazy Thin ‘Deep Insert’ ATM Skimmers](https://krebsonsecurity.com/2022/09/say-hello-to-crazy-thin-deep-insert-atm-skimmers/)
-- [iPhone 14 Pro Camera Review: Scotland](https://www.austinmann.com/trek/iphone-14-pro-camera-review-scotland)
+- [McDonald&#39;s CEO sounds the alarm over crime in Chicago](https://www.cnn.com/2022/09/15/business/mcdonalds-ceo-chicago-crime/index.html)
+- [Death of a Project &lpar;1965&rpar;](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.691.3128&rep=rep1&type=pdf)
+- [The sooner we accept RCS is dead, the sooner we can choose the next platform](https://www.androidpolice.com/android-iphone-rcs-give-up-messaging-platform/)
+- [Confirmed the MOS 7600/7601 Pong chip is a true microcontroller](http://oldvcr.blogspot.com/2022/09/confirmed-mos-76007601-pong-chip-is.html)
+- [I Had a Dream](https://scottaaronson.blog/?p=6718)
+- [Macwright.com redirects HN readers away](https://macwright.com/2022/09/15/hacker-news.html)
+- [Uber Investigating Breach of Its Computer Systems](https://www.nytimes.com/2022/09/15/technology/uber-hacking-breach.html)
+- [Plasma Bigscreen](https://plasma-bigscreen.org/)
+- [Scientists are using AI to dream up revolutionary new proteins](https://www.nature.com/articles/d41586-022-02947-7)
+- [Building the Future of the Command Line](https://github.com/readme/featured/future-of-the-command-line)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Patagonia: Billionaire boss of fashion retailer gives company away](https://www.bbc.com/news/business-62906853)
-- [Pfizer/BioNTech: Comirnaty Bivalent Original/Omicron BA.4/BA.5](https://covid19.trackvaccines.org/vaccines/225/)
-- [Open source machine learning for video compression](https://www.collabora.com/news-and-blog/blog/2022/09/14/open-source-machine-learning-for-video-compression/)
-- [One of Gaming’s Greatest Writers Is Busy Crafting Romance Novels](https://www.wired.com/story/jane-jensen-eli-easton-interview/)
-- [Craiglist Killings](http://craigslistkillings.blogspot.com/)
-- [Not breaking things is hard](https://blog.liw.fi/posts/2022/09/14/not-breaking/)
-- [Ask HN: Is Ethereum&#39;s Merge one of the biggest successes in Open Source?](https://news.ycombinator.com/item?id=32846899)
-- [Moderna: Spikevax Bivalent Original/Omicron BA.4/BA.5](https://covid19.trackvaccines.org/vaccines/224/)
-- [Checkout trader&#39;s joe logo on Google](https://www.google.com/search?q=trader+joe)
-- [It Pays to Be Circomspect](https://blog.trailofbits.com/2022/09/15/it-pays-to-be-circomspect/)
+- [North Korea&#39;s Lazarus hackers exploiting Log4j flaw to hack US energy companies](https://techcrunch.com/2022/09/08/north-korea-lazarus-united-states-energy/)
+- [What Is Essential?](https://decafbad.net/2022/09/15/what-is-essential/)
+- [Ask HN: Adobe-Figma acquisition–Why angry at Adobe and not at Figma for selling?](https://news.ycombinator.com/item?id=32861917)
+- [Porsche Goes Glamping: Iconic Automaker Launches Rooftop Tent](https://gearjunkie.com/motors/porsche-rooftop-tent)
+- [Uber suffers computer system breach, alerts authorities](https://www.washingtonpost.com/technology/2022/09/15/uber-hack/)
+- [Ask HN: Added to mailing lists without consent recently?](https://news.ycombinator.com/item?id=32861901)
+- [The Last Member of an Uncontacted Tribe](https://www.newyorker.com/culture/annals-of-inquiry/the-last-member-of-an-uncontacted-tribe)
+- [The Commoditization of Social Interaction and Other Progress](https://nathanieltravis.com/2022/09/14/the-commoditization-of-social-interaction-and-other-progress/)
+- [The Logic of Collective Action &lpar;2019&rpar;](https://www.thoughtco.com/the-logic-of-collective-action-1146238)
+- [The 2022 Ig Nobel Prize Winners](https://improbable.com/ig/winners/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -430,16 +430,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Dell Technologies and Red Hat expand partnership to accelerate DevOps in multi-cloud environments](https://www.itworldcanada.com/article/dell-technologies-and-red-hat-expand-partnership-to-accelerate-devops-in-multi-cloud-environments/502981)
+- [Tips for keeping your kids and your office cyber-safe](https://www.itworldcanada.com/article/tips-for-keeping-your-kids-and-your-office-cyber-safe/503019)
+- [More needs to be done to earn digital trust of customers, says ISACA survey](https://www.itworldcanada.com/article/more-needs-to-be-done-to-earn-digital-trust-of-customers-says-isaca-survey/503091)
+- [Intel and Mila join forces for responsible artificial intelligence](https://www.itworldcanada.com/article/intel-and-mila-join-forces-for-responsible-artificial-intelligence/503139)
+- [Employees are tired of application login issues, says report](https://www.itworldcanada.com/article/employees-are-tired-of-application-login-issues-says-report/503081)
+- [Hashtag Trending Sept. 15 – Apple’s ad placements; AT&amp;T’s new 5G network only available for new phones; Twilio cuts staff](https://www.itworldcanada.com/article/hashtag-trending-sept-15-apples-new-ad-placements-at-twilio-cuts-staff/503022)
 - [Gartner reveals four key customer service technology trends](https://www.itworldcanada.com/article/gartner-reveals-four-key-customer-service-technology-trends/503031)
 - [Corel rebrands to Alludo](https://www.itworldcanada.com/article/corel-rebrands-to-alludo/502985)
 - [Blameless announces integrations with ServiceNow and Microsoft Teams](https://www.itworldcanada.com/article/blameless-announces-integrations-with-servicenow-and-microsoft-teams/502977)
 - [Reel in phishing attacks with Zero Trust Network Access](https://www.itworldcanada.com/article/reel-in-phishing-attacks-with-zero-trust-network-access/502911)
-- [Twitter can’t protect users’ data, former CISO alleges](https://www.itworldcanada.com/article/twitter-cant-protect-users-data-former-ciso-alleges/502960)
-- [Cyber Security Today, Sept. 14, 2022 – Windows patches, a warning to medical IT administrators, a Mitel VoIP vulnerability being exploited and more](https://www.itworldcanada.com/article/cyber-security-today-sept-14-2022-windows-patches-a-warning-to-medical-it-administrators-a-mitel-voip-vulnerability-being-exploited-and-more/502838)
-- [Hashtag Trending Sept. 14 – Instagram Reels lacks engagement; Google faces U.K. and EU lawsuits; iOS 16 launches](https://www.itworldcanada.com/article/hashtag-trending-sept-14-instagram-reels-lacks-engagement-google-faces-u-k-and-eu-lawsuits-ios-16-launches/502764)
-- [Opensignal assesses ‘no signal’ problem and smartphone satellite connectivity opportunity](https://www.itworldcanada.com/article/opensignal-assesses-no-signal-problem-and-smartphone-satellite-connectivity-opportunity/502665)
-- [IWK Health, Cisco Canada, OnX Canada partner to connect NICU families with web-delivered application](https://www.itworldcanada.com/article/iwk-health-cisco-canada-onx-canada-partner-to-connect-nicu-families-with-web-delivered-application/502568)
-- [Security leaders are increasingly consolidating vendors, says Gartner](https://www.itworldcanada.com/article/security-leaders-are-increasingly-consolidating-vendors-says-gartner/502768)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

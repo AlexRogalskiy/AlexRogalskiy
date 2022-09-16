@@ -400,16 +400,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [EU Cyber Resilience Act sets global standard for connected products](https://www.computerweekly.com/news/252524993/EU-Cyber-Resilience-Act-sets-global-standard-for-connected-products)
+- [SAP maintenance fee increase: What you need to know](https://www.computerweekly.com/news/252524984/SAP-maintenance-fee-increase-What-you-need-to-know)
+- [Nominations closing soon for annual cyber awards](https://www.computerweekly.com/news/252524987/Nominations-closing-soon-for-annual-cyber-awards)
+- [New player pioneers ‘active cyber insurance’ for UK market](https://www.computerweekly.com/news/252524985/New-player-pioneers-active-cyber-insurance-for-UK-market)
+- [Organisations failing to account for digital trust](https://www.computerweekly.com/news/252524982/Organisations-failing-to-account-for-digital-trust)
+- [US charges three Iranians over CNI cyber attacks](https://www.computerweekly.com/news/252524979/US-charges-three-Iranians-over-CNI-cyber-attacks)
 - [FormBook knocks Emotet off top of malware chart](https://www.computerweekly.com/news/252524928/FormBook-knocks-Emotet-off-top-of-malware-chart)
 - [Ex-CISA head Krebs: Disrupt ransomware support networks to win the war](https://www.computerweekly.com/news/252524923/Ex-CISA-head-Krebs-Disrupt-ransomware-support-networks-to-win-the-war)
 - [Microsoft patches 64 vulnerabilities on September Patch Tuesday](https://www.computerweekly.com/news/252524916/Microsoft-patches-64-vulnerabilities-on-September-Patch-Tuesday)
 - [US to see huge increase in embedded finance transactions](https://www.computerweekly.com/news/252524917/US-to-see-huge-increase-in-embedded-finance-transactions)
-- [NCSC warns public of potential Queen-related phishing attacks](https://www.computerweekly.com/news/252524890/NCSC-warns-public-of-potential-Queen-related-phishing-attacks)
-- [DDoS attacks on UK financial sector surged during Ukraine war](https://www.computerweekly.com/news/252524889/DDoS-attacks-on-UK-financial-sector-surged-during-Ukraine-war)
-- [Cloud compromise a doddle for threat actors as victims attest](https://www.computerweekly.com/news/252524882/Cloud-compromise-a-doddle-for-threat-actors-as-victims-attest)
-- [AI Sweden connects the dots to keep the country competitive](https://www.computerweekly.com/feature/AI-Sweden-connects-the-dots-to-keep-the-country-competitive)
-- [Users warned over Azure Active Directory authentication flaw](https://www.computerweekly.com/news/252524880/Users-warned-over-Azure-Active-Directory-authentication-flaw)
-- [Cisco confirms leaked data was stolen in Yanluowang ransomware hit](https://www.computerweekly.com/news/252524873/Cisco-confirms-leaked-data-was-stolen-in-Yanluowang-ransomware-hit)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [McDonald&#39;s CEO sounds the alarm over crime in Chicago](https://www.cnn.com/2022/09/15/business/mcdonalds-ceo-chicago-crime/index.html)
-- [Death of a Project &lpar;1965&rpar;](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.691.3128&rep=rep1&type=pdf)
-- [The sooner we accept RCS is dead, the sooner we can choose the next platform](https://www.androidpolice.com/android-iphone-rcs-give-up-messaging-platform/)
-- [Confirmed the MOS 7600/7601 Pong chip is a true microcontroller](http://oldvcr.blogspot.com/2022/09/confirmed-mos-76007601-pong-chip-is.html)
-- [I Had a Dream](https://scottaaronson.blog/?p=6718)
-- [Macwright.com redirects HN readers away](https://macwright.com/2022/09/15/hacker-news.html)
-- [Uber Investigating Breach of Its Computer Systems](https://www.nytimes.com/2022/09/15/technology/uber-hacking-breach.html)
-- [Plasma Bigscreen](https://plasma-bigscreen.org/)
-- [Scientists are using AI to dream up revolutionary new proteins](https://www.nature.com/articles/d41586-022-02947-7)
-- [Building the Future of the Command Line](https://github.com/readme/featured/future-of-the-command-line)
+- [Apple to Move a Part of Its Embedded Cores to RISC-V](https://www.techpowerup.com/298936/report-apple-to-move-a-part-of-its-embedded-cores-to-risc-v-stepping-away-from-arm-isa)
+- [Blocking Web Fonts for Speed and Privacy](https://collinmbarrett.com/block-web-fonts/)
+- [Bankman-Fried survived the slump and still expanded](https://www.cnbc.com/2022/09/16/how-billionaire-bankman-fried-survived-the-slump-and-still-expanded.html)
+- [“The Suck” &lpar;Learning Anything by Writing It Out by Hand&rpar;](https://scottscheper.com/letter/40/)
+- [Synthetic embryo with brain and beating heart created by Cambridge scientists](https://www.cambridgeindependent.co.uk/news/synthetic-embryo-with-brain-and-beating-heart-created-by-uni-9271220/)
+- [Retrobot: A Discord bot that plays emulated games with friends over chat](https://github.com/rossimo/retrobot)
+- [Flashbots](https://blog.bitmex.com/flashbots/)
+- [CoreML Benchmark for the iPhone 14 Pro](https://www.photoroom.com/tech/core-ml-performance-2022/)
+- [TinyBase v2.0: reactive data store for local-first apps](https://tinybase.org/guides/releases/#v2-0)
+- [Egg Boxing](https://peterattiamd.com/egg-boxing/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

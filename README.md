@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [North Korea&#39;s Lazarus hackers exploiting Log4j flaw to hack US energy companies](https://techcrunch.com/2022/09/08/north-korea-lazarus-united-states-energy/)
-- [What Is Essential?](https://decafbad.net/2022/09/15/what-is-essential/)
-- [Ask HN: Adobe-Figma acquisition–Why angry at Adobe and not at Figma for selling?](https://news.ycombinator.com/item?id=32861917)
-- [Porsche Goes Glamping: Iconic Automaker Launches Rooftop Tent](https://gearjunkie.com/motors/porsche-rooftop-tent)
-- [Uber suffers computer system breach, alerts authorities](https://www.washingtonpost.com/technology/2022/09/15/uber-hack/)
-- [Ask HN: Added to mailing lists without consent recently?](https://news.ycombinator.com/item?id=32861901)
-- [The Last Member of an Uncontacted Tribe](https://www.newyorker.com/culture/annals-of-inquiry/the-last-member-of-an-uncontacted-tribe)
-- [The Commoditization of Social Interaction and Other Progress](https://nathanieltravis.com/2022/09/14/the-commoditization-of-social-interaction-and-other-progress/)
-- [The Logic of Collective Action &lpar;2019&rpar;](https://www.thoughtco.com/the-logic-of-collective-action-1146238)
-- [The 2022 Ig Nobel Prize Winners](https://improbable.com/ig/winners/)
+- [Surrealdb – FOSS document-graph database, for the realtime web in Rust](https://github.com/surrealdb/surrealdb)
+- [Anti-Debug: Debug Flags – Evasion Techniques](https://anti-debug.checkpoint.com/techniques/debug-flags.html)
+- [5th Circuit Rules Internet Companies Have No Right to Moderate](https://www.techdirt.com/2022/09/16/5th-circuit-rewrites-a-century-of-1st-amendment-law-to-argue-internet-companies-have-no-right-to-moderate/)
+- [Sleek Solar Car Goes 600 Miles on a Charge and Is Gearing Up for Production](https://singularityhub.com/2022/09/16/this-hybrid-solar-powered-car-is-about-to-start-production/)
+- [For Once, California Might Choose More Housing over More Parking](https://slate.com/business/2022/09/california-parking-housing-ab2097-newsom.html)
+- [Photography for Geeks](https://lcamtuf.coredump.cx/photo_basics/)
+- [US will lose China tech war if 5G, AI, microchip ‘core’ fronts are not fortified](https://www.scmp.com/news/china/science/article/3192386/us-will-lose-china-tech-war-if-5g-ai-microchip-core-fronts-are)
+- [Saul Kripke Died](https://twitter.com/kripkecenter/status/1570886336068096000)
+- [China’s Discovery of Lunar Mineral Could Add to Fuller View of the Moon](https://www.nytimes.com/2022/09/16/science/new-moon-mineral-china.html)
+- [Why mobile app environments is practically dominated by Android and iOS?](https://news.ycombinator.com/item?id=32874399)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

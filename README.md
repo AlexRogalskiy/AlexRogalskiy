@@ -355,6 +355,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Critical zero-days make September&#39;s Patch Tuesday a &#39;Patch Now&#39; release](https://www.computerworld.com/article/3673944/critical-zero-days-make-septembers-patch-tuesday-a-patch-now-release.html#tk.rss_all)
+- [What&#39;s new in Notifications in iOS 16?](https://www.computerworld.com/article/3674208/whats-new-in-notifications-in-ios-16.html#tk.rss_all)
+- [Sadly, IT can no longer trust geolocation for much of anything](https://www.computerworld.com/article/3673104/sadly-it-can-no-longer-trust-geolocation-for-almost-anything.html#tk.rss_all)
 - [Workday expands service that surfaces employee skills](https://www.computerworld.com/article/3673937/workday-expands-service-that-surfaces-employee-skills.html#tk.rss_all)
 - [BrandPost: In the Battle Against Ransomware, Organizations Need to Enhance their Data Protection Capabilities](https://www.computerworld.com/article/3674050/in-the-battle-against-ransomware-organizations-need-to-enhance-their-data-protection-capabilities.html#tk.rss_all)
 - [Adobe&#39;s $20B Figma acquisition highlights web-based collaboration trends](https://www.computerworld.com/article/3673934/adobes-20b-figma-acquisition-highlights-web-based-collaboration-trends.html#tk.rss_all)
@@ -362,9 +365,6 @@
 - [iPhone users have become more cautious about fast iOS upgrades](https://www.computerworld.com/article/3673931/iphone-users-have-become-more-cautious-about-fast-ios-upgrades.html#tk.rss_all)
 - [Digital whiteboards: The next must-have tool for hybrid teams?](https://www.computerworld.com/article/3673092/digital-whiteboards-next-must-have-tool-for-hybrid-teams.html#tk.rss_all)
 - [Want to change a dysfunctional culture? Intel’s Israel Development Center shows how](https://www.computerworld.com/article/3673671/want-to-change-a-dysfunctional-culture-intels-israel-development-center-shows-how.html#tk.rss_all)
-- [The evolution of Apple&#39;s iPhone](https://www.computerworld.com/article/2604020/the-evolution-of-apples-iphone.html#tk.rss_all)
-- [Canva launches workplace product suite to improve visual collaboration](https://www.computerworld.com/article/3673670/canva-launches-workplace-product-suite-to-improve-visual-collaboration.html#tk.rss_all)
-- [Coming in Windows 11 22H2, a change of update cadence?](https://www.computerworld.com/article/3673297/coming-in-windows-11-22h2-a-change-of-update-cadence.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

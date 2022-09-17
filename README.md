@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Son of Fijian prime minister faces NSW court on domestic violence-related charges](https://www.theguardian.com/world/2022/sep/16/son-of-fijian-prime-minister-faces-nsw-court-on-domestic-violence-related-charges)
-- [Uber investigating computer network breach – report](https://www.theguardian.com/technology/2022/sep/15/uber-computer-network-hack-report)
-- [‘I did not identify as a lesbian’: Anne Heche reflects on Ellen DeGeneres in upcoming memoir](https://www.theguardian.com/film/2022/sep/16/anne-heche-memoir-call-me-anne-release-date-january-2023)
-- [I feel smothered by messages. My partner says she misses me, but it’s only been four hours!](https://www.theguardian.com/lifeandstyle/2022/sep/16/i-feel-smothered-by-messages-my-partner-says-she-misses-me-but-its-only-been-four-hours)
-- [Can the commonwealth survive the death of the queen?](https://www.theguardian.com/news/audio/2022/sep/16/can-the-commonwealth-survive-the-death-of-the-queen)
-- [Viewfinder: photography from the 1970s to now – in pictures](https://www.theguardian.com/artanddesign/gallery/2022/sep/16/viewfinder-photography-from-the-1970s-to-now-in-pictures)
-- [Judge proposed by Trump named special master in Mar-a-Lago records case](https://www.theguardian.com/us-news/2022/sep/15/judge-raymond-drearie-trump-special-master-records-case)
-- [Ukraine mass burial site with 440 bodies discovered in recaptured Izium, says police chief](https://www.theguardian.com/world/2022/sep/16/ukraine-mass-grave-with-440-bodies-discovered-in-recaptured-izium-says-police-chief)
-- [Blade Runner 2099: ‘provocative’ TV sequel greenlit by Amazon](https://www.theguardian.com/tv-and-radio/2022/sep/16/blade-runner-2099-provocative-tv-sequel-greenlit-by-amazon)
-- [Do Revenge review – biting Netflix comedy updates Strangers on a Train](https://www.theguardian.com/film/2022/sep/15/do-revenge-review-biting-netflix-comedy-updates-strangers-on-a-train)
+- [Fighting flares on disputed Kyrgyzstan-Tajikistan border, killing 24 people](https://www.theguardian.com/world/2022/sep/17/fighting-flares-on-disputed-kyrgyzstan-tajikistan-border-killing-dozens)
+- [Israeli airstrike on Damascus airport kills five Syrian troops – reports](https://www.theguardian.com/world/2022/sep/17/israeli-airstrike-on-damascus-airport-kills-five-syrian-troops-reports)
+- [Russia-Ukraine war latest: what we know on day 206 of the invasion](https://www.theguardian.com/world/2022/sep/17/russia-ukraine-war-latest-what-we-know-on-day-206-of-the-invasion)
+- [Harrison Reed completes Fulham’s six-minute goal-rush as Forest’s woes go on](https://www.theguardian.com/football/2022/sep/16/nottingham-forest-fulham-premier-league-match-report)
+- [Rock’n’roll or Thatcherism: which will the new Elizabethan era be remembered for? | Matthew Engel](https://www.theguardian.com/commentisfree/2022/sep/17/new-elizabethan-era-remembered-elizabeth-reign)
+- [We love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2022/sep/16/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Murray and Salisbury battle to the last but Britain crash out of Davis Cup](https://www.theguardian.com/sport/2022/sep/16/murray-and-salisbury-battle-to-the-last-but-britain-crash-out-of-davis-cup)
+- [Woman and child found dead in Leeds flat](https://www.theguardian.com/world/2022/sep/16/woman-and-child-found-dead-in-leeds-flat)
+- [Leeds stun Wigan to reach Grand Final as remarkable resurgence goes on](https://www.theguardian.com/sport/2022/sep/16/leeds-pull-out-stunning-win-at-wigan-to-reach-grand-final)
+- [Queen’s funeral will be biggest ever event for police, with 10,000 on duty](https://www.theguardian.com/uk-news/2022/sep/16/queens-funeral-will-be-biggest-ever-event-for-police-and-whitehall-says-met)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

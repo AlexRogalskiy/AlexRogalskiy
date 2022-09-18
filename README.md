@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Apple to Move a Part of Its Embedded Cores to RISC-V](https://www.techpowerup.com/298936/report-apple-to-move-a-part-of-its-embedded-cores-to-risc-v-stepping-away-from-arm-isa)
-- [Blocking Web Fonts for Speed and Privacy](https://collinmbarrett.com/block-web-fonts/)
-- [Bankman-Fried survived the slump and still expanded](https://www.cnbc.com/2022/09/16/how-billionaire-bankman-fried-survived-the-slump-and-still-expanded.html)
-- [“The Suck” &lpar;Learning Anything by Writing It Out by Hand&rpar;](https://scottscheper.com/letter/40/)
-- [Synthetic embryo with brain and beating heart created by Cambridge scientists](https://www.cambridgeindependent.co.uk/news/synthetic-embryo-with-brain-and-beating-heart-created-by-uni-9271220/)
-- [Retrobot: A Discord bot that plays emulated games with friends over chat](https://github.com/rossimo/retrobot)
-- [Flashbots](https://blog.bitmex.com/flashbots/)
-- [CoreML Benchmark for the iPhone 14 Pro](https://www.photoroom.com/tech/core-ml-performance-2022/)
-- [TinyBase v2.0: reactive data store for local-first apps](https://tinybase.org/guides/releases/#v2-0)
-- [Egg Boxing](https://peterattiamd.com/egg-boxing/)
+- [Wegmans ends self-checkout app after too much shoplifting](https://www.cnn.com/2022/09/16/business-food/wegmans-scan-and-go-app-shoplifting/index.html)
+- [The Allied “Passierschein” Safe Conduct Passes of WWII](https://web.archive.org/web/20220913004820/http://www.psywarrior.com/GermanSCP.html)
+- [Everyone you meet is living a story that you know nothing about](https://joylere.substack.com/p/unabridged)
+- [Ivy &lpar;YC W23&rpar; is hiring developers to help unify ML](https://www.ycombinator.com/companies/ivy/jobs)
+- [How to Make a Sundial](https://www.sundialzone.com/en/sundial)
+- [Wildlife Photographer of the Year &lpar;2021&rpar;](https://www.nhm.ac.uk/wpy/gallery?tags=ed.current)
+- [Show HN: A virtual Yubikey device for 2FA/WebAuthN](https://github.com/bulwarkid/virtual-fido)
+- [$ rm Important.txt &lpar;uh oh&rpar;](https://xenodium.com/rm-important-txt-oh-sht/)
+- [Phorge: Going Public](https://we.phorge.it/phame/post/view/1/going_public/)
+- [Show HN: LambdaLisp – A Lisp interpreter that runs on lambda calculus](https://woodrush.github.io/blog/lambdalisp.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

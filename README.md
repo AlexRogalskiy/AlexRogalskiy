@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Fighting flares on disputed Kyrgyzstan-Tajikistan border, killing 24 people](https://www.theguardian.com/world/2022/sep/17/fighting-flares-on-disputed-kyrgyzstan-tajikistan-border-killing-dozens)
-- [Israeli airstrike on Damascus airport kills five Syrian troops – reports](https://www.theguardian.com/world/2022/sep/17/israeli-airstrike-on-damascus-airport-kills-five-syrian-troops-reports)
-- [Russia-Ukraine war latest: what we know on day 206 of the invasion](https://www.theguardian.com/world/2022/sep/17/russia-ukraine-war-latest-what-we-know-on-day-206-of-the-invasion)
-- [Harrison Reed completes Fulham’s six-minute goal-rush as Forest’s woes go on](https://www.theguardian.com/football/2022/sep/16/nottingham-forest-fulham-premier-league-match-report)
-- [Rock’n’roll or Thatcherism: which will the new Elizabethan era be remembered for? | Matthew Engel](https://www.theguardian.com/commentisfree/2022/sep/17/new-elizabethan-era-remembered-elizabeth-reign)
-- [We love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2022/sep/16/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Murray and Salisbury battle to the last but Britain crash out of Davis Cup](https://www.theguardian.com/sport/2022/sep/16/murray-and-salisbury-battle-to-the-last-but-britain-crash-out-of-davis-cup)
-- [Woman and child found dead in Leeds flat](https://www.theguardian.com/world/2022/sep/16/woman-and-child-found-dead-in-leeds-flat)
-- [Leeds stun Wigan to reach Grand Final as remarkable resurgence goes on](https://www.theguardian.com/sport/2022/sep/16/leeds-pull-out-stunning-win-at-wigan-to-reach-grand-final)
-- [Queen’s funeral will be biggest ever event for police, with 10,000 on duty](https://www.theguardian.com/uk-news/2022/sep/16/queens-funeral-will-be-biggest-ever-event-for-police-and-whitehall-says-met)
+- [Canelo Álvarez v Gennady Golovkin III: undisputed super-middleweight championship – live!](https://www.theguardian.com/sport/live/2022/sep/17/canelo-alvarez-gennady-golovkin-iii-fight-live-round-by-round)
+- [‘My children saved my life’: the terrifying toll of a political scandal in South Korea](https://www.theguardian.com/world/2022/sep/18/my-children-saved-my-life-the-terrifying-toll-of-a-political-scandal-in-south-korea)
+- [Russia-Ukraine war latest: what we know on day 207 of the invasion](https://www.theguardian.com/world/2022/sep/18/russia-ukraine-war-latest-what-we-know-on-day-207-of-the-invasion)
+- [Biggest interest rate rise for 25 years could spell showdown at the Bank](https://www.theguardian.com/business/2022/sep/18/biggest-interest-rate-rise-for-25-years-could-spell-showdown-at-the-bank)
+- [Four cups of tea a day can help keep diabetes away, say Chinese scientists](https://www.theguardian.com/food/2022/sep/18/four-cups-of-tea-a-day-can-help-keep-diabetes-away-say-chinese-scientists)
+- [Man charged after alleged attempt to grab Queen’s coffin](https://www.theguardian.com/uk-news/2022/sep/17/queen-coffin-man-charged-westminster-hall)
+- [Man charged with attempted murder after Leicester Square police stabbings](https://www.theguardian.com/uk-news/2022/sep/17/police-officer-stabbed-leicester-square-london-leaves-hospital)
+- [Joe and Jill Biden fly to London for funeral of Queen Elizabeth II](https://www.theguardian.com/us-news/2022/sep/17/joe-biden-jill-funeral-queen-elizabeth-ii)
+- [Texas sends another busload of migrants to Kamala Harris’s home](https://www.theguardian.com/us-news/2022/sep/17/texas-migrants-kamala-harris-washington-home)
+- [‘Whatever happens I respect the owners’: Rodgers and Leicester in crisis](https://www.theguardian.com/football/2022/sep/17/whatever-happens-i-respect-the-owners-rodgers-and-leicester-in-crisis)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

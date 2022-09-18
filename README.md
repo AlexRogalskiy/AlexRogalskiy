@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Surrealdb – FOSS document-graph database, for the realtime web in Rust](https://github.com/surrealdb/surrealdb)
-- [Anti-Debug: Debug Flags – Evasion Techniques](https://anti-debug.checkpoint.com/techniques/debug-flags.html)
-- [5th Circuit Rules Internet Companies Have No Right to Moderate](https://www.techdirt.com/2022/09/16/5th-circuit-rewrites-a-century-of-1st-amendment-law-to-argue-internet-companies-have-no-right-to-moderate/)
-- [Sleek Solar Car Goes 600 Miles on a Charge and Is Gearing Up for Production](https://singularityhub.com/2022/09/16/this-hybrid-solar-powered-car-is-about-to-start-production/)
-- [For Once, California Might Choose More Housing over More Parking](https://slate.com/business/2022/09/california-parking-housing-ab2097-newsom.html)
-- [Photography for Geeks](https://lcamtuf.coredump.cx/photo_basics/)
-- [US will lose China tech war if 5G, AI, microchip ‘core’ fronts are not fortified](https://www.scmp.com/news/china/science/article/3192386/us-will-lose-china-tech-war-if-5g-ai-microchip-core-fronts-are)
-- [Saul Kripke Died](https://twitter.com/kripkecenter/status/1570886336068096000)
-- [China’s Discovery of Lunar Mineral Could Add to Fuller View of the Moon](https://www.nytimes.com/2022/09/16/science/new-moon-mineral-china.html)
-- [Why mobile app environments is practically dominated by Android and iOS?](https://news.ycombinator.com/item?id=32874399)
+- [At eBay, Lurid Crimes and the Search for Punishment](https://www.nytimes.com/2022/09/16/technology/ebay-cyberstalking-crimes.html)
+- [How Much Does an Extra Pound Slow You Down?](https://www.runnersworld.com/nutrition-weight-loss/a20856066/how-much-does-an-extra-pound-slow-you-down/)
+- [Wegmans ends self-checkout app after too much shoplifting](https://www.cnn.com/2022/09/16/business-food/wegmans-scan-and-go-app-shoplifting/index.html)
+- [After 75 Years, Cheetahs Return to India in a Grand Experiment](https://www.nytimes.com/2022/09/16/world/asia/cheetah-relocation-india.html)
+- [NPM framework for converting chess notation into coded, vibrating messages](https://www.npmjs.com/package/@alleyio/cheatbeads)
+- [Gen Z Never Learned to Read Cursive](https://www.theatlantic.com/magazine/archive/2022/10/gen-z-handwriting-teaching-cursive-history/671246/)
+- [Military History Visualized Bottom 5 Tanks](https://www.youtube.com/watch?v=slD0DXJIGmI)
+- [Caring for the only known full kākāpō feather cloak in the world](https://blog.britishmuseum.org/caring-for-the-only-known-full-kakapo-feather-cloak-in-the-world/)
+- [Ask HN: Why is local event search so bad?](https://news.ycombinator.com/item?id=32884174)
+- [The Merge Is Done Now What?](https://every.to/almanack/the-merge-is-done-now-what)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

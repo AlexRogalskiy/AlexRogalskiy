@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [At eBay, Lurid Crimes and the Search for Punishment](https://www.nytimes.com/2022/09/16/technology/ebay-cyberstalking-crimes.html)
-- [How Much Does an Extra Pound Slow You Down?](https://www.runnersworld.com/nutrition-weight-loss/a20856066/how-much-does-an-extra-pound-slow-you-down/)
-- [Wegmans ends self-checkout app after too much shoplifting](https://www.cnn.com/2022/09/16/business-food/wegmans-scan-and-go-app-shoplifting/index.html)
-- [After 75 Years, Cheetahs Return to India in a Grand Experiment](https://www.nytimes.com/2022/09/16/world/asia/cheetah-relocation-india.html)
-- [NPM framework for converting chess notation into coded, vibrating messages](https://www.npmjs.com/package/@alleyio/cheatbeads)
-- [Gen Z Never Learned to Read Cursive](https://www.theatlantic.com/magazine/archive/2022/10/gen-z-handwriting-teaching-cursive-history/671246/)
-- [Military History Visualized Bottom 5 Tanks](https://www.youtube.com/watch?v=slD0DXJIGmI)
-- [Caring for the only known full kākāpō feather cloak in the world](https://blog.britishmuseum.org/caring-for-the-only-known-full-kakapo-feather-cloak-in-the-world/)
-- [Ask HN: Why is local event search so bad?](https://news.ycombinator.com/item?id=32884174)
-- [The Merge Is Done Now What?](https://every.to/almanack/the-merge-is-done-now-what)
+- [Launch Apps from the Lock Scren](https://apps.apple.com/us/app/shortcuts-quick-open/id1071033222)
+- [‘When Eero Met His Match’ Review: Making Saarinen Soar](https://www.wsj.com/articles/when-eero-met-his-match-book-review-making-saarinen-soar-11663339420)
+- [NanoFORTH](https://github.com/chochain/nanoFORTH)
+- [https://16777217/](https://16777217./)
+- [Ask HN: How did you learn Strategy?](https://news.ycombinator.com/item?id=32894157)
+- [Searx. Best private web search that is not DuckDuckGo](https://searx.space)
+- [A First Look at _hyperscript](https://putyourlightson.com/articles/a-first-look-at-hyperscript)
+- [Twilio CEO announces 11% of employees will be laid off](https://www.foxbusiness.com/economy/twilio-ceo-announces-11-of-employees-lose-jobs-anti-racist-focused-layoffs)
+- [A few guidelines for navigating social media](https://dmitrybrant.com/2022/09/18/a-few-guidelines-for-navigating-social-media)
+- [A better Kubernetes, from the ground up &lpar;2020&rpar;](https://blog.dave.tf/post/new-kubernetes/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

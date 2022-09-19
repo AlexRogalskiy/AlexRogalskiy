@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Canelo Álvarez v Gennady Golovkin III: undisputed super-middleweight championship – live!](https://www.theguardian.com/sport/live/2022/sep/17/canelo-alvarez-gennady-golovkin-iii-fight-live-round-by-round)
-- [‘My children saved my life’: the terrifying toll of a political scandal in South Korea](https://www.theguardian.com/world/2022/sep/18/my-children-saved-my-life-the-terrifying-toll-of-a-political-scandal-in-south-korea)
-- [Russia-Ukraine war latest: what we know on day 207 of the invasion](https://www.theguardian.com/world/2022/sep/18/russia-ukraine-war-latest-what-we-know-on-day-207-of-the-invasion)
-- [Biggest interest rate rise for 25 years could spell showdown at the Bank](https://www.theguardian.com/business/2022/sep/18/biggest-interest-rate-rise-for-25-years-could-spell-showdown-at-the-bank)
-- [Four cups of tea a day can help keep diabetes away, say Chinese scientists](https://www.theguardian.com/food/2022/sep/18/four-cups-of-tea-a-day-can-help-keep-diabetes-away-say-chinese-scientists)
-- [Man charged after alleged attempt to grab Queen’s coffin](https://www.theguardian.com/uk-news/2022/sep/17/queen-coffin-man-charged-westminster-hall)
-- [Man charged with attempted murder after Leicester Square police stabbings](https://www.theguardian.com/uk-news/2022/sep/17/police-officer-stabbed-leicester-square-london-leaves-hospital)
-- [Joe and Jill Biden fly to London for funeral of Queen Elizabeth II](https://www.theguardian.com/us-news/2022/sep/17/joe-biden-jill-funeral-queen-elizabeth-ii)
-- [Texas sends another busload of migrants to Kamala Harris’s home](https://www.theguardian.com/us-news/2022/sep/17/texas-migrants-kamala-harris-washington-home)
-- [‘Whatever happens I respect the owners’: Rodgers and Leicester in crisis](https://www.theguardian.com/football/2022/sep/17/whatever-happens-i-respect-the-owners-rodgers-and-leicester-in-crisis)
+- [Queen’s funeral: state procession will see Elizabeth II remembered in Westminster Abbey service – latest updates](https://www.theguardian.com/uk-news/live/2022/sep/19/queen-elizabeth-ii-state-funeral-westminster-abbey-updates)
+- [Fifteen arrested to ‘deter further disorder’ in Leicester, say police](https://www.theguardian.com/uk-news/2022/sep/19/fifteen-arrested-to-deter-further-disorder-in-leicester-say-police)
+- [Queen’s funeral: timeline of day’s key moments](https://www.theguardian.com/uk-news/2022/sep/19/queens-funeral-timeline-of-days-key-moments)
+- [Joe Biden repeats claim that US forces would defend Taiwan if China attacked](https://www.theguardian.com/world/2022/sep/19/joe-biden-repeats-claim-that-us-forces-would-defend-taiwan-if-china-attacked)
+- [The Queen’s funeral: power, projection and personal reflection – podcast](https://www.theguardian.com/news/audio/2022/sep/19/the-queens-funeral-power-projection-and-personal-reflection-podcast)
+- [Monkeypox: don’t touch foreigners, says China health chief, as first case reported](https://www.theguardian.com/world/2022/sep/19/monkeypox-dont-touch-foreigners-says-china-health-chief-as-first-case-reported)
+- [Anger in China after 27 people killed in Covid quarantine bus crash](https://www.theguardian.com/world/2022/sep/19/anger-in-china-after-27-people-killed-in-covid-quarantine-bus-crash)
+- [Flooding and landslides in Puerto Rico after Hurricane Fiona knocks out power to island](https://www.theguardian.com/world/2022/sep/18/hurricane-fiona-puerto-rico)
+- [Russia-Ukraine war latest: what we know on day 208 of the invasion](https://www.theguardian.com/world/2022/sep/19/russia-ukraine-war-latest-what-we-know-on-day-208-of-the-invasion)
+- [‘You just get on with it’: Jacinda Ardern says Queen gave her ‘best advice’ on being a new mum and leader](https://www.theguardian.com/world/2022/sep/19/jacinda-ardern-queen-elizabeth-advice-on-being-a-new-mother-and-leader)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

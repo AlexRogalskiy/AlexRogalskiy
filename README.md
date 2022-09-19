@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Wegmans ends self-checkout app after too much shoplifting](https://www.cnn.com/2022/09/16/business-food/wegmans-scan-and-go-app-shoplifting/index.html)
-- [The Allied “Passierschein” Safe Conduct Passes of WWII](https://web.archive.org/web/20220913004820/http://www.psywarrior.com/GermanSCP.html)
-- [Everyone you meet is living a story that you know nothing about](https://joylere.substack.com/p/unabridged)
-- [Ivy &lpar;YC W23&rpar; is hiring developers to help unify ML](https://www.ycombinator.com/companies/ivy/jobs)
-- [How to Make a Sundial](https://www.sundialzone.com/en/sundial)
-- [Wildlife Photographer of the Year &lpar;2021&rpar;](https://www.nhm.ac.uk/wpy/gallery?tags=ed.current)
-- [Show HN: A virtual Yubikey device for 2FA/WebAuthN](https://github.com/bulwarkid/virtual-fido)
-- [$ rm Important.txt &lpar;uh oh&rpar;](https://xenodium.com/rm-important-txt-oh-sht/)
-- [Phorge: Going Public](https://we.phorge.it/phame/post/view/1/going_public/)
-- [Show HN: LambdaLisp – A Lisp interpreter that runs on lambda calculus](https://woodrush.github.io/blog/lambdalisp.html)
+- [Ask HN: What do you think when companies ask for Gritty people?](https://news.ycombinator.com/item?id=32893292)
+- [Censorship of our report on govt purchasing from Microsoft, Amazon, and Alphabet](https://techinquiry.org/?about=UNI-censorship)
+- [Bitcoin is not a Store of Value](https://cryptostackers.substack.com/p/bitcoin-is-not-a-store-of-value)
+- [Tuned Mass Damper of Taipei 101](https://www.atlasobscura.com/places/tuned-mass-damper-of-taipei-101)
+- [Figma: A Random Walk in Palo Alto](https://adamnash.blog/2022/09/16/figma-a-random-walk-in-palo-alto/)
+- [Flexport is hiring smart, gritty People who get stuff done](https://Flexport.com/careers)
+- [An X11 Apologist Tries Wayland](https://artemis.sh/2022/09/18/wayland-from-an-x-apologist.html)
+- [America’s most remarkable kid died in Newcastle, Utah](https://www.deseret.com/2022/8/22/23309244/cole-summers-died-newcastle-utah-warren-buffett-charlie-munger-bari-weiss-unschooled)
+- [Not Perfect, Just Better](https://satfax.substack.com/p/not-perfect-just-better)
+- [Hot Chips 34: AMD’s Instinct MI200 Architecture](https://chipsandcheese.com/2022/09/18/hot-chips-34-amds-instinct-mi200-architecture/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

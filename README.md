@@ -370,16 +370,16 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Automation Gains a Foothold, But How to Scale It Is the Challenge](https://www.informationweek.com/big-data/automation-gains-a-foothold-but-how-to-scale-it-is-the-challenge)
+- [Two-Minute Toolkit: CloudSphere on Cybersecurity and Offboarding](https://www.informationweek.com/security-and-risk-strategy/two-minute-toolkit-cloudsphere-on-cybersecurity-and-offboarding)
+- [How to Measure Automation Success for the Enterprise](https://www.informationweek.com/big-data/how-to-measure-automation-success-for-the-enterprise)
+- [6 SASE Components and their Impact on Network Security](https://www.informationweek.com/cloud/6-sase-components-and-their-impact-on-network-security)
+- [VC and Analyst Notes from FinovateFall on the Future of Fintech](https://www.informationweek.com/fintech/vc-and-analyst-notes-from-finovatefall-on-the-future-of-fintech)
+- [What Do US Restrictions of China Sales Mean for the AI Chip Industry?](https://www.informationweek.com/government/what-do-us-restrictions-of-china-sales-mean-for-the-ai-chip-industry-)
 - [How to Prepare for New PCI DSS 4.0 Requirements](https://www.informationweek.com/fintech/how-to-prepare-for-new-pci-dss-4-0-requirements)
-- [Two-Factor Authentication by 2023 is Not Soon Enough](https://www.informationweek.com/security-and-risk-strategy/two-factor-authentication-by-2023-is-not-soon-enough)
 - [Chip Shortage Update](https://www.informationweek.com/sustainability/chip-shortage-update)
+- [Two-Factor Authentication by 2023 is Not Soon Enough](https://www.informationweek.com/security-and-risk-strategy/two-factor-authentication-by-2023-is-not-soon-enough)
 - [10 Cool International Locations for Remote Workers to Consider](https://www.informationweek.com/it-life/10-cool-international-locations-for-remote-workers-to-consider)
-- [Box and MongoDB CEOs Chat About Software and the Future of Work](https://www.informationweek.com/devops/box-and-mongodb-ceos-chat-about-software-and-the-future-of-work)
-- [3 Reasons Why You Should Invest in Your Employee Experiences](https://www.informationweek.com/strategic-cio/3-reasons-why-you-should-invest-in-your-employee-experiences)
-- [How to Attract Venture Capital to Your Startup](https://www.informationweek.com/strategic-cio/how-to-attract-venture-capital-to-your-startup)
-- [How to Draw and Retain Top Talent in Cyber Security](https://www.informationweek.com/strategic-cio/how-to-draw-and-retain-top-talent-in-cyber-security)
-- [Does Your SD-WAN Deliver the Best ROI?](https://www.informationweek.com/palo-alto-networks/does-your-sd-wan-deliver-the-best-roi-)
-- [Overcoming Roadblocks to Digital Transformation with SASE](https://www.informationweek.com/palo-alto-networks/how-to-use-sase-to-accelerate-digital-transformation)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

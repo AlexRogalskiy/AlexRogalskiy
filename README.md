@@ -385,16 +385,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [When openness doesn’t matter](https://www.infoworld.com/article/3673945/when-openness-doesnt-matter.html#tk.rss_all)
+- [5 best practices for securing CI/CD pipelines](https://www.infoworld.com/article/3673891/5-best-practices-for-securing-cicd-pipelines.html#tk.rss_all)
+- [Brendan Eich: Don’t blame cookies and JavaScript](https://www.infoworld.com/article/3673292/brendan-eich-dont-blame-cookies-and-javascript.html#tk.rss_all)
+- [Go developers are catching on to generics — survey](https://www.infoworld.com/article/3674118/go-developers-are-catching-on-to-generics-survey.html#tk.rss_all)
+- [Microsoft .NET 7 enters release candidate phase](https://www.infoworld.com/article/3674114/microsoft-net-7-enters-release-candidate-phase.html#tk.rss_all)
+- [Are we experiencing cloudflation?](https://www.infoworld.com/article/3674048/are-we-experiencing-cloudflation.html#tk.rss_all)
+- [What is CUDA? Parallel programming for GPUs](https://www.infoworld.com/article/3299703/what-is-cuda-parallel-programming-for-gpus.html#tk.rss_all)
 - [JavaFX 19 rich client Java platform arrives](https://www.infoworld.com/article/3673888/javafx-19-rich-client-java-platform-arrives.html#tk.rss_all)
 - [How to create a custom configuration provider in ASP.NET Core 6](https://www.infoworld.com/article/3673211/how-to-create-a-custom-configuration-provider-in-asp-net-core-6.html#tk.rss_all)
 - [Intro to Blitz.js: A full-stack framework for Next.js](https://www.infoworld.com/article/3673088/intro-to-blitzjs-a-full-stack-framework-for-nextjs.html#tk.rss_all)
-- [AutoRabit launches devsecops tool for Salesforce environments](https://www.csoonline.com/article/3673298/autorabit-launches-devsecops-tool-for-salesforce-environments.html#tk.rss_all)
-- [Swift language speeds standard library, reworks generics](https://www.infoworld.com/article/3673106/swift-language-speeds-standard-library-reworks-generics.html#tk.rss_all)
-- [Python garbage collection and the gc module](https://www.infoworld.com/article/3671673/python-garbage-collection-and-the-gc-module.html#tk.rss_all)
-- [Oracle MySQL HeatWave comes to AWS](https://www.infoworld.com/article/3673372/oracle-mysql-heatwave-comes-to-aws.html#tk.rss_all)
-- [3 things your cloud finops program needs](https://www.infoworld.com/article/3673369/3-things-your-cloud-finops-program-needs.html#tk.rss_all)
-- [A vision for making open source more equitable and secure](https://www.infoworld.com/article/3672433/a-vision-for-making-open-source-more-equitable-and-secure.html#tk.rss_all)
-- [Rust programming language gains dedicated security team](https://www.infoworld.com/article/3673210/rust-programming-language-gains-dedicated-security-team.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

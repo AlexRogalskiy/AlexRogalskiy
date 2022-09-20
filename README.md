@@ -415,16 +415,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [A Detailed Talk about K8S Cluster Security from the Perspective of Attackers &lpar;Part 1&rpar;](https://www.reddit.com/r/InformationTechnology/comments/xf3la9/a_detailed_talk_about_k8s_cluster_security_from/)
-- [best laptop ?](https://www.reddit.com/r/InformationTechnology/comments/xf0m8p/best_laptop/)
-- [I&#39;m a health startup CTO and I&#39;m afraid](https://www.reddit.com/r/InformationTechnology/comments/xexflr/im_a_health_startup_cto_and_im_afraid/)
-- [Software for massive image deployment](https://www.reddit.com/r/InformationTechnology/comments/xevfj2/software_for_massive_image_deployment/)
-- [HR TRAINING SOFTWARE](https://www.reddit.com/r/InformationTechnology/comments/xeec6n/hr_training_software/)
-- [Phishing Email Info For Users](https://www.reddit.com/r/InformationTechnology/comments/xec050/phishing_email_info_for_users/)
-- [Remote Connections Explained - Network+ &lpar;N10-008&rpar;](https://www.reddit.com/r/InformationTechnology/comments/xe99kq/remote_connections_explained_network_n10008/)
-- [ATO Process](https://www.reddit.com/r/InformationTechnology/comments/xe5lhu/ato_process/)
-- [Hello, when will you need to use byte, short, int and long.](https://www.reddit.com/r/InformationTechnology/comments/xe3gd0/hello_when_will_you_need_to_use_byte_short_int/)
-- [What is the best way to allow another computer in another city to access a specific drive on a desktop in another city? &lpar;Without opening access to that drive to the public&rpar;](https://www.reddit.com/r/InformationTechnology/comments/xe1t1u/what_is_the_best_way_to_allow_another_computer_in/)
+- [Internet Problem](https://www.reddit.com/r/InformationTechnology/comments/xiw3tw/internet_problem/)
+- [Trending technologies used by software companies to develop web based applications.](https://www.reddit.com/r/InformationTechnology/comments/xijy8o/trending_technologies_used_by_software_companies/)
+- [Servers and routers connected](https://www.reddit.com/r/InformationTechnology/comments/xiihbf/servers_and_routers_connected/)
+- [A Talk About Java Serialization and Deserialization](https://www.reddit.com/r/InformationTechnology/comments/xi8m20/a_talk_about_java_serialization_and/)
+- [How do you deal with &quot;too much talkative&quot; customers?](https://www.reddit.com/r/InformationTechnology/comments/xhu5sy/how_do_you_deal_with_too_much_talkative_customers/)
+- [What&#39;s your company&#39;s stack and which processes are automated?](https://www.reddit.com/r/InformationTechnology/comments/xgwfxp/whats_your_companys_stack_and_which_processes_are/)
+- [MongoDB and its features](https://www.reddit.com/r/InformationTechnology/comments/xgnhrn/mongodb_and_its_features/)
+- [SEO and Digital MArketing](https://www.reddit.com/r/InformationTechnology/comments/xgicha/seo_and_digital_marketing/)
+- [IT JOBS](https://www.reddit.com/r/InformationTechnology/comments/xg54u9/it_jobs/)
+- [Domain Names and Web Hosting](https://www.reddit.com/r/InformationTechnology/comments/xfyi0f/domain_names_and_web_hosting/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

@@ -355,6 +355,8 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [As Windows 11 22H2 draws near, Windows 10 hangs on](https://www.computerworld.com/article/3674056/as-windows-11-22h2-draws-near-windows-10-hangs-on.html#tk.rss_all)
+- [Google Workspace vs. Microsoft 365: What’s the best office suite for business?](https://www.computerworld.com/article/3515808/g-suite-vs-office-365-whats-the-best-office-suite-for-business.html#tk.rss_all)
 - [Critical zero-days make September&#39;s Patch Tuesday a &#39;Patch Now&#39; release](https://www.computerworld.com/article/3673944/critical-zero-days-make-septembers-patch-tuesday-a-patch-now-release.html#tk.rss_all)
 - [What&#39;s new in Notifications in iOS 16?](https://www.computerworld.com/article/3674208/whats-new-in-notifications-in-ios-16.html#tk.rss_all)
 - [Sadly, IT can no longer trust geolocation for much of anything](https://www.computerworld.com/article/3673104/sadly-it-can-no-longer-trust-geolocation-for-almost-anything.html#tk.rss_all)
@@ -363,8 +365,6 @@
 - [Adobe&#39;s $20B Figma acquisition highlights web-based collaboration trends](https://www.computerworld.com/article/3673934/adobes-20b-figma-acquisition-highlights-web-based-collaboration-trends.html#tk.rss_all)
 - [Google’s failure to quash EU antitrust ruling has broad implications for tech companies](https://www.computerworld.com/article/3674049/googles-failure-to-quash-eu-antitrust-ruling-has-broad-implications-for-tech-companies.html#tk.rss_all)
 - [iPhone users have become more cautious about fast iOS upgrades](https://www.computerworld.com/article/3673931/iphone-users-have-become-more-cautious-about-fast-ios-upgrades.html#tk.rss_all)
-- [Digital whiteboards: The next must-have tool for hybrid teams?](https://www.computerworld.com/article/3673092/digital-whiteboards-next-must-have-tool-for-hybrid-teams.html#tk.rss_all)
-- [Want to change a dysfunctional culture? Intel’s Israel Development Center shows how](https://www.computerworld.com/article/3673671/want-to-change-a-dysfunctional-culture-intels-israel-development-center-shows-how.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

@@ -430,16 +430,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
-- [Dell Technologies and Red Hat expand partnership to accelerate DevOps in multi-cloud environments](https://www.itworldcanada.com/article/dell-technologies-and-red-hat-expand-partnership-to-accelerate-devops-in-multi-cloud-environments/502981)
-- [Tips for keeping your kids and your office cyber-safe](https://www.itworldcanada.com/article/tips-for-keeping-your-kids-and-your-office-cyber-safe/503019)
-- [More needs to be done to earn digital trust of customers, says ISACA survey](https://www.itworldcanada.com/article/more-needs-to-be-done-to-earn-digital-trust-of-customers-says-isaca-survey/503091)
-- [Intel and Mila join forces for responsible artificial intelligence](https://www.itworldcanada.com/article/intel-and-mila-join-forces-for-responsible-artificial-intelligence/503139)
-- [Employees are tired of application login issues, says report](https://www.itworldcanada.com/article/employees-are-tired-of-application-login-issues-says-report/503081)
-- [Hashtag Trending Sept. 15 – Apple’s ad placements; AT&amp;T’s new 5G network only available for new phones; Twilio cuts staff](https://www.itworldcanada.com/article/hashtag-trending-sept-15-apples-new-ad-placements-at-twilio-cuts-staff/503022)
-- [Gartner reveals four key customer service technology trends](https://www.itworldcanada.com/article/gartner-reveals-four-key-customer-service-technology-trends/503031)
-- [Corel rebrands to Alludo](https://www.itworldcanada.com/article/corel-rebrands-to-alludo/502985)
-- [Blameless announces integrations with ServiceNow and Microsoft Teams](https://www.itworldcanada.com/article/blameless-announces-integrations-with-servicenow-and-microsoft-teams/502977)
-- [Reel in phishing attacks with Zero Trust Network Access](https://www.itworldcanada.com/article/reel-in-phishing-attacks-with-zero-trust-network-access/502911)
+- [Uber says compromised credentials of a contractor led to data breach](https://www.itworldcanada.com/article/uber-says-compromised-credentials-of-a-contractor-led-to-data-breach/503802)
+- [Microsoft Surface Laptop Go 2 review: it has its charms, but is not for everyone](https://www.itworldcanada.com/article/microsoft-surface-laptop-go-2-review-it-has-its-charms-but-is-not-for-everyone/503729)
+- [AI and wine are not that different, says SAS’s director of AI ethics](https://www.itworldcanada.com/article/ai-and-wine-are-not-that-different-says-sass-director-of-ai-ethics/503456)
+- [Cyber Security Today, Sept. 19, 2022 – Bell division recovering from ransomware, a handy browser utility causes trouble, and a vulnerability in Microsoft Teams](https://www.itworldcanada.com/article/cyber-security-today-sept-19-2022-bell-division-recovering-from-ransomware-a-handy-browser-utility-causes-trouble-and-a-vulnerability-in-microsoft-teams/503642)
+- [Hashtag Trending Sept. 19 – New child protection law in California; accidental money; Canadian police raids hacker](https://www.itworldcanada.com/article/hashtag-trending-sept-19-new-child-protection-law-in-california-accidental-money-canadian-police-raids-hacker/503668)
+- [Diia – Ukraine implements world leading digital government in the middle of a war.  What’s our excuse?](https://www.itworldcanada.com/article/diia-ukraine-implements-world-leading-digital-government-in-the-middle-of-a-war-whats-our-excuse/502597)
+- [Cyber Security Today, Week in Review for Friday, September 16, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-september-16-2022/503018)
+- [Women in Cyber Day symposium to focus on education](https://www.itworldcanada.com/article/women-in-cyber-day-symposium-to-focus-on-education/503374)
+- [Infosec pros focus on preventing attacks but miss important alerts, conference told](https://www.itworldcanada.com/article/infosec-pros-focus-on-preventing-attacks-but-miss-important-alerts-conference-told/503273)
+- [Uber worker allegedly gave password to an IT impersonator](https://www.itworldcanada.com/article/uber-worker-allegedly-gave-password-to-an-it-impersonator/503339)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

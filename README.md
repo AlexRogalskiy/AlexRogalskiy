@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Ask HN: What do you think when companies ask for Gritty people?](https://news.ycombinator.com/item?id=32893292)
-- [Censorship of our report on govt purchasing from Microsoft, Amazon, and Alphabet](https://techinquiry.org/?about=UNI-censorship)
-- [Bitcoin is not a Store of Value](https://cryptostackers.substack.com/p/bitcoin-is-not-a-store-of-value)
-- [Tuned Mass Damper of Taipei 101](https://www.atlasobscura.com/places/tuned-mass-damper-of-taipei-101)
-- [Figma: A Random Walk in Palo Alto](https://adamnash.blog/2022/09/16/figma-a-random-walk-in-palo-alto/)
-- [Flexport is hiring smart, gritty People who get stuff done](https://Flexport.com/careers)
-- [An X11 Apologist Tries Wayland](https://artemis.sh/2022/09/18/wayland-from-an-x-apologist.html)
-- [America’s most remarkable kid died in Newcastle, Utah](https://www.deseret.com/2022/8/22/23309244/cole-summers-died-newcastle-utah-warren-buffett-charlie-munger-bari-weiss-unschooled)
-- [Not Perfect, Just Better](https://satfax.substack.com/p/not-perfect-just-better)
-- [Hot Chips 34: AMD’s Instinct MI200 Architecture](https://chipsandcheese.com/2022/09/18/hot-chips-34-amds-instinct-mi200-architecture/)
+- [Cache Your CORS](https://httptoolkit.tech/blog/cache-your-cors/)
+- [Public buses across country quietly adding microphones to record conversations](https://www.wired.com/2012/12/public-bus-audio-surveillance/)
+- [Faster CPython 3.12 Plan](https://github.com/faster-cpython/ideas/wiki/Workflow-for-3.12-cycle)
+- [Azure CTO: “It&#39;s time to halt starting any new projects in C/C++”](https://twitter.com/markrussinovich/status/1571995117233504257)
+- [Show HN: Figr.app – a multi-user, notepad style calculator &lpar;desktop app&rpar;](https://www.figr.app/)
+- [More US Employers Are Trapping Workers in a New Form of Indentured Servitude](https://truthout.org/articles/more-us-employers-are-trapping-workers-in-a-new-form-of-indentured-servitude/)
+- [Jqp: A TUI playground for exploring jq](https://github.com/noahgorstein/jqp)
+- [An opinionated guide to making friends](https://blog.aadilali.com/posts/friends.html)
+- [‘Serial’ case: Adnan Syed released, conviction tossed](https://apnews.com/article/baltimore-adnan-syed-hae-min-lee-024f739b28b33cf50e76c50d640c0882)
+- [Stable Diffusion Text-Prompt-Based Inpainting – Replace Hair, Fashion](https://github.com/amrrs/stable-diffusion-prompt-inpainting)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -400,16 +400,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Putting artificial intelligence and machine learning workloads in the cloud](https://www.computerweekly.com/feature/Putting-artificial-intelligence-and-machine-learning-workloads-in-the-cloud)
+- [Barnet Council awards Capita contract extension](https://www.computerweekly.com/news/252525035/Barnet-Council-awards-Capita-contract-extension)
+- [Six new vulnerabilities added to CISA catalogue](https://www.computerweekly.com/news/252525032/Six-new-vulnerabilities-added-to-CISA-catalogue)
+- [Uber suffers major cyber attack](https://www.computerweekly.com/news/252525030/Uber-suffers-major-cyber-attack)
+- [Energy crisis IT impact: Computer Weekly Downtime Upload podcast](https://www.computerweekly.com/podcast/Energy-crisis-IT-impact-Computer-Weekly-Downtime-Upload-podcast)
 - [EU Cyber Resilience Act sets global standard for connected products](https://www.computerweekly.com/news/252524993/EU-Cyber-Resilience-Act-sets-global-standard-for-connected-products)
 - [SAP maintenance fee increase: What you need to know](https://www.computerweekly.com/news/252524984/SAP-maintenance-fee-increase-What-you-need-to-know)
 - [Nominations closing soon for annual cyber awards](https://www.computerweekly.com/news/252524987/Nominations-closing-soon-for-annual-cyber-awards)
 - [New player pioneers ‘active cyber insurance’ for UK market](https://www.computerweekly.com/news/252524985/New-player-pioneers-active-cyber-insurance-for-UK-market)
 - [Organisations failing to account for digital trust](https://www.computerweekly.com/news/252524982/Organisations-failing-to-account-for-digital-trust)
-- [US charges three Iranians over CNI cyber attacks](https://www.computerweekly.com/news/252524979/US-charges-three-Iranians-over-CNI-cyber-attacks)
-- [FormBook knocks Emotet off top of malware chart](https://www.computerweekly.com/news/252524928/FormBook-knocks-Emotet-off-top-of-malware-chart)
-- [Ex-CISA head Krebs: Disrupt ransomware support networks to win the war](https://www.computerweekly.com/news/252524923/Ex-CISA-head-Krebs-Disrupt-ransomware-support-networks-to-win-the-war)
-- [Microsoft patches 64 vulnerabilities on September Patch Tuesday](https://www.computerweekly.com/news/252524916/Microsoft-patches-64-vulnerabilities-on-September-Patch-Tuesday)
-- [US to see huge increase in embedded finance transactions](https://www.computerweekly.com/news/252524917/US-to-see-huge-increase-in-embedded-finance-transactions)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

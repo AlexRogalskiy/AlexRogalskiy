@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Launch Apps from the Lock Scren](https://apps.apple.com/us/app/shortcuts-quick-open/id1071033222)
-- [‘When Eero Met His Match’ Review: Making Saarinen Soar](https://www.wsj.com/articles/when-eero-met-his-match-book-review-making-saarinen-soar-11663339420)
-- [NanoFORTH](https://github.com/chochain/nanoFORTH)
-- [https://16777217/](https://16777217./)
-- [Ask HN: How did you learn Strategy?](https://news.ycombinator.com/item?id=32894157)
-- [Searx. Best private web search that is not DuckDuckGo](https://searx.space)
-- [A First Look at _hyperscript](https://putyourlightson.com/articles/a-first-look-at-hyperscript)
-- [Twilio CEO announces 11% of employees will be laid off](https://www.foxbusiness.com/economy/twilio-ceo-announces-11-of-employees-lose-jobs-anti-racist-focused-layoffs)
-- [A few guidelines for navigating social media](https://dmitrybrant.com/2022/09/18/a-few-guidelines-for-navigating-social-media)
-- [A better Kubernetes, from the ground up &lpar;2020&rpar;](https://blog.dave.tf/post/new-kubernetes/)
+- [Do tools like OptinMonster annoy you?](https://news.ycombinator.com/item?id=32907518)
+- [Stand back, the FTC is here to police gig work](https://www.theregister.com/2022/09/16/ftc_gig_work/)
+- [Automatic differentiation in a lot more than 38 lines of F#](https://github.com/DiffSharp/DiffSharp)
+- [The Internet Is Already Over](https://samkriss.substack.com/p/the-internet-is-already-over)
+- [No, President Biden, the pandemic is not over](https://www.washingtonpost.com/opinions/2022/09/19/biden-pandemic-over-60-minutes-wrong/)
+- [Open source offline programming documentation](https://zealdocs.org/)
+- [Ask HN: Curated list of JavaScript-free/lite sites?](https://news.ycombinator.com/item?id=32907424)
+- [Things that will be possible in a database platform when we apply AI and LLMs](https://twitter.com/nikitabase/status/1571723421389824002)
+- [Mark Zuckerberg’s Net Worth Is Down $71B, Putting Focus on Meta’s Woes](https://www.bloomberg.com/news/articles/2022-09-19/mark-zuckerberg-s-net-worth-is-down-71-billion-putting-focus-on-meta-s-woes)
+- [I&#39;m Building a Self-Destructing USB Drive](https://interruptlabs.ca/2022/07/29/I-m-Building-a-Self-Destructing-USB-Drive/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

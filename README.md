@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Queen’s funeral: state procession will see Elizabeth II remembered in Westminster Abbey service – latest updates](https://www.theguardian.com/uk-news/live/2022/sep/19/queen-elizabeth-ii-state-funeral-westminster-abbey-updates)
-- [Fifteen arrested to ‘deter further disorder’ in Leicester, say police](https://www.theguardian.com/uk-news/2022/sep/19/fifteen-arrested-to-deter-further-disorder-in-leicester-say-police)
-- [Queen’s funeral: timeline of day’s key moments](https://www.theguardian.com/uk-news/2022/sep/19/queens-funeral-timeline-of-days-key-moments)
-- [Joe Biden repeats claim that US forces would defend Taiwan if China attacked](https://www.theguardian.com/world/2022/sep/19/joe-biden-repeats-claim-that-us-forces-would-defend-taiwan-if-china-attacked)
-- [The Queen’s funeral: power, projection and personal reflection – podcast](https://www.theguardian.com/news/audio/2022/sep/19/the-queens-funeral-power-projection-and-personal-reflection-podcast)
-- [Monkeypox: don’t touch foreigners, says China health chief, as first case reported](https://www.theguardian.com/world/2022/sep/19/monkeypox-dont-touch-foreigners-says-china-health-chief-as-first-case-reported)
-- [Anger in China after 27 people killed in Covid quarantine bus crash](https://www.theguardian.com/world/2022/sep/19/anger-in-china-after-27-people-killed-in-covid-quarantine-bus-crash)
-- [Flooding and landslides in Puerto Rico after Hurricane Fiona knocks out power to island](https://www.theguardian.com/world/2022/sep/18/hurricane-fiona-puerto-rico)
-- [Russia-Ukraine war latest: what we know on day 208 of the invasion](https://www.theguardian.com/world/2022/sep/19/russia-ukraine-war-latest-what-we-know-on-day-208-of-the-invasion)
-- [‘You just get on with it’: Jacinda Ardern says Queen gave her ‘best advice’ on being a new mum and leader](https://www.theguardian.com/world/2022/sep/19/jacinda-ardern-queen-elizabeth-advice-on-being-a-new-mother-and-leader)
+- [Puerto Rico battles blackout and lack of safe water in wake of Hurricane Fiona](https://www.theguardian.com/world/2022/sep/19/puerto-rico-hurricane-fiona-power-water)
+- [Liz Truss lands in US to reset ‘special relationship’ on first foreign trip as PM](https://www.theguardian.com/politics/2022/sep/20/liz-truss-lands-in-us-to-reset-special-relationship-on-first-foreign-trip-as-pm)
+- [The Russian soldier exposing what life is really like in Putin’s invading army - podcast](https://www.theguardian.com/news/audio/2022/sep/20/the-russian-soldier-exposing-the-horrors-of-life-in-putins-invading-army-podcast)
+- [Brad Pitt makes surprise debut as a sculptor at Finland art gallery](https://www.theguardian.com/artanddesign/2022/sep/20/brad-pitt-debut-as-sculptor-finland-art-gallery-nick-cave-thomas-houseago)
+- [Russia-Ukraine war latest: what we know on day 209 of the invasion](https://www.theguardian.com/world/2022/sep/20/russia-ukraine-war-latest-what-we-know-on-day-209-of-the-invasion)
+- [Night owls may be more prone to heart disease and diabetes, study finds](https://www.theguardian.com/science/2022/sep/20/night-owls-may-be-more-prone-to-heart-disease-and-diabetes-study-finds)
+- [UK business investment lowest in G7 despite corporation tax cuts, says IPPR](https://www.theguardian.com/business/2022/sep/20/uk-business-investment-lowest-in-g7-corporation-tax-cuts-ippr)
+- [Judge orders release of Adnan Syed after more than two decades in prison](https://www.theguardian.com/us-news/2022/sep/19/adnan-syed-judge-orders-release-serial-conviction-vacated)
+- [Nigeria battling floods ‘beyond control’ as warning given of dams overflowing](https://www.theguardian.com/world/2022/sep/19/nigeria-battling-worst-floods-in-a-decade-with-more-than-300-people-killed-in-2022)
+- [Human composting: California clears the way for greener burial method](https://www.theguardian.com/us-news/2022/sep/19/human-composting-california-human-remains-green-burial)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

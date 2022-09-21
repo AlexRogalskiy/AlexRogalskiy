@@ -430,16 +430,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Canada’s biggest telecom operators rank high in 5G reach, Opensignal report finds](https://www.itworldcanada.com/article/canadas-biggest-telecom-operators-rank-high-in-5g-reach-opensignal-report-finds/503749)
+- [“My digital success” platform launching to assist Quebec SMBs in their digital transformation](https://www.itworldcanada.com/article/my-digital-success-platform-launching-to-assist-quebec-smbs-in-their-digital-transformation/503799)
+- [Slack to get Canvas and new features for Huddle](https://www.itworldcanada.com/article/slack-to-get-canvas-and-new-features-for-huddle/503879)
+- [Coffee Briefing September 20, 2022 – Zoho’s new office; Walmart rolls out AI solution for on-shelf availability; Ocrolus launches fraud detection solution for lenders; and more](https://www.itworldcanada.com/article/coffee-briefing-september-20-2022-zohos-new-office-walmart-rolls-out-ai-solution-for-on-shelf-availability-ocrolus-launches-fraud-detection-solution-for-lenders-and-more/503413)
+- [Salesforce Genie is now generally available to power real-time CRM experiences](https://www.itworldcanada.com/article/salesforce-genie-is-now-generally-available-to-power-real-time-crm-experiences/503780)
 - [Uber says compromised credentials of a contractor led to data breach](https://www.itworldcanada.com/article/uber-says-compromised-credentials-of-a-contractor-led-to-data-breach/503802)
 - [Microsoft Surface Laptop Go 2 review: it has its charms, but is not for everyone](https://www.itworldcanada.com/article/microsoft-surface-laptop-go-2-review-it-has-its-charms-but-is-not-for-everyone/503729)
 - [AI and wine are not that different, says SAS’s director of AI ethics](https://www.itworldcanada.com/article/ai-and-wine-are-not-that-different-says-sass-director-of-ai-ethics/503456)
 - [Cyber Security Today, Sept. 19, 2022 – Bell division recovering from ransomware, a handy browser utility causes trouble, and a vulnerability in Microsoft Teams](https://www.itworldcanada.com/article/cyber-security-today-sept-19-2022-bell-division-recovering-from-ransomware-a-handy-browser-utility-causes-trouble-and-a-vulnerability-in-microsoft-teams/503642)
 - [Hashtag Trending Sept. 19 – New child protection law in California; accidental money; Canadian police raids hacker](https://www.itworldcanada.com/article/hashtag-trending-sept-19-new-child-protection-law-in-california-accidental-money-canadian-police-raids-hacker/503668)
-- [Diia – Ukraine implements world leading digital government in the middle of a war.  What’s our excuse?](https://www.itworldcanada.com/article/diia-ukraine-implements-world-leading-digital-government-in-the-middle-of-a-war-whats-our-excuse/502597)
-- [Cyber Security Today, Week in Review for Friday, September 16, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-september-16-2022/503018)
-- [Women in Cyber Day symposium to focus on education](https://www.itworldcanada.com/article/women-in-cyber-day-symposium-to-focus-on-education/503374)
-- [Infosec pros focus on preventing attacks but miss important alerts, conference told](https://www.itworldcanada.com/article/infosec-pros-focus-on-preventing-attacks-but-miss-important-alerts-conference-told/503273)
-- [Uber worker allegedly gave password to an IT impersonator](https://www.itworldcanada.com/article/uber-worker-allegedly-gave-password-to-an-it-impersonator/503339)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

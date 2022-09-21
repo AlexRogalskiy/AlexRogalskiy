@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Cache Your CORS](https://httptoolkit.tech/blog/cache-your-cors/)
-- [Public buses across country quietly adding microphones to record conversations](https://www.wired.com/2012/12/public-bus-audio-surveillance/)
-- [Faster CPython 3.12 Plan](https://github.com/faster-cpython/ideas/wiki/Workflow-for-3.12-cycle)
-- [Azure CTO: “It&#39;s time to halt starting any new projects in C/C++”](https://twitter.com/markrussinovich/status/1571995117233504257)
-- [Show HN: Figr.app – a multi-user, notepad style calculator &lpar;desktop app&rpar;](https://www.figr.app/)
-- [More US Employers Are Trapping Workers in a New Form of Indentured Servitude](https://truthout.org/articles/more-us-employers-are-trapping-workers-in-a-new-form-of-indentured-servitude/)
-- [Jqp: A TUI playground for exploring jq](https://github.com/noahgorstein/jqp)
-- [An opinionated guide to making friends](https://blog.aadilali.com/posts/friends.html)
-- [‘Serial’ case: Adnan Syed released, conviction tossed](https://apnews.com/article/baltimore-adnan-syed-hae-min-lee-024f739b28b33cf50e76c50d640c0882)
-- [Stable Diffusion Text-Prompt-Based Inpainting – Replace Hair, Fashion](https://github.com/amrrs/stable-diffusion-prompt-inpainting)
+- [Can I Use a System Call?](https://justine.lol/cosmopolitan/functions.html)
+- [Etleap &lpar;YC W13&rpar; Is Hiring Software Engineer – London](https://etleap.com/careers/software-engineer/)
+- [Backend for Front-end](https://blog.frankel.ch/backend-for-frontend/)
+- [Upcyling a 40-year-old Tandy Model 100 Portable Computer](https://spectrum.ieee.org/upcycle-a-vintage-lcd)
+- [YouTube’s ‘dislike’ barely works according to new study on recommendations](https://www.engadget.com/mozilla-youtube-recommendation-study-080006930.html)
+- [Fork of the popular “I don&#39;t care about cookies” extension](https://github.com/OhMyGuus/I-Dont-Care-About-Cookies)
+- [Philosophy of mathematics – a reading list &lpar;2020&rpar;](https://www.logicmatters.net/2020/11/16/philosophy-of-mathematics-a-reading-list/)
+- [LibRedirect: Redirect YouTube, Twitter, Instagram to privacy friendly services](https://github.com/libredirect/libredirect)
+- [Show HN: TaskTXT, plain text task-timing notepad](https://tasktxt.com/)
+- [EU Open Web Search project kicked off](https://openwebsearch.eu/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

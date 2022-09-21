@@ -415,16 +415,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Need IT answers for School assignment.](https://www.reddit.com/r/InformationTechnology/comments/xjj61e/need_it_answers_for_school_assignment/)
+- [help how to create a flowcart](https://www.reddit.com/r/InformationTechnology/comments/xj3zud/help_how_to_create_a_flowcart/)
+- [A story about a CTO, who made many mistakes: my insights after communicating with health startups CTOs](https://www.reddit.com/r/InformationTechnology/comments/xj1ctv/a_story_about_a_cto_who_made_many_mistakes_my/)
+- [School or certs?](https://www.reddit.com/r/InformationTechnology/comments/xizbig/school_or_certs/)
 - [Internet Problem](https://www.reddit.com/r/InformationTechnology/comments/xiw3tw/internet_problem/)
 - [Trending technologies used by software companies to develop web based applications.](https://www.reddit.com/r/InformationTechnology/comments/xijy8o/trending_technologies_used_by_software_companies/)
 - [Servers and routers connected](https://www.reddit.com/r/InformationTechnology/comments/xiihbf/servers_and_routers_connected/)
 - [A Talk About Java Serialization and Deserialization](https://www.reddit.com/r/InformationTechnology/comments/xi8m20/a_talk_about_java_serialization_and/)
 - [How do you deal with &quot;too much talkative&quot; customers?](https://www.reddit.com/r/InformationTechnology/comments/xhu5sy/how_do_you_deal_with_too_much_talkative_customers/)
 - [What&#39;s your company&#39;s stack and which processes are automated?](https://www.reddit.com/r/InformationTechnology/comments/xgwfxp/whats_your_companys_stack_and_which_processes_are/)
-- [MongoDB and its features](https://www.reddit.com/r/InformationTechnology/comments/xgnhrn/mongodb_and_its_features/)
-- [SEO and Digital MArketing](https://www.reddit.com/r/InformationTechnology/comments/xgicha/seo_and_digital_marketing/)
-- [IT JOBS](https://www.reddit.com/r/InformationTechnology/comments/xg54u9/it_jobs/)
-- [Domain Names and Web Hosting](https://www.reddit.com/r/InformationTechnology/comments/xfyi0f/domain_names_and_web_hosting/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

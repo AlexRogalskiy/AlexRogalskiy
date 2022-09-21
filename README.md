@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Windows 11 2022 Update is the version enterprises can move to](https://www.computerworld.com/article/3673902/windows-11-2022-update-is-the-version-enterprises-can-move-to.html#tk.rss_all)
+- [Windows 11 22H2: Small but welcome changes](https://www.computerworld.com/article/3673373/windows-11-22h2-small-but-welcome-changes.html#tk.rss_all)
+- [Macs still lead the ACSI survey as PCs go mobile and work goes remote](https://www.computerworld.com/article/3674312/macs-still-lead-the-acsi-survey-as-pcs-go-mobile-and-work-goes-remote.html#tk.rss_all)
+- [Slack launches new Slack Canvas tool at Dreamforce 2022](https://www.computerworld.com/article/3674125/slack-launches-new-slack-canvas-tool-at-dreamforce-2022.html#tk.rss_all)
+- [Android&#39;s underappreciated design revolution](https://www.computerworld.com/article/3674134/android-design-revolution.html#tk.rss_all)
 - [As Windows 11 22H2 draws near, Windows 10 hangs on](https://www.computerworld.com/article/3674056/as-windows-11-22h2-draws-near-windows-10-hangs-on.html#tk.rss_all)
 - [Google Workspace vs. Microsoft 365: What’s the best office suite for business?](https://www.computerworld.com/article/3515808/g-suite-vs-office-365-whats-the-best-office-suite-for-business.html#tk.rss_all)
 - [Critical zero-days make September&#39;s Patch Tuesday a &#39;Patch Now&#39; release](https://www.computerworld.com/article/3673944/critical-zero-days-make-septembers-patch-tuesday-a-patch-now-release.html#tk.rss_all)
 - [What&#39;s new in Notifications in iOS 16?](https://www.computerworld.com/article/3674208/whats-new-in-notifications-in-ios-16.html#tk.rss_all)
 - [Sadly, IT can no longer trust geolocation for much of anything](https://www.computerworld.com/article/3673104/sadly-it-can-no-longer-trust-geolocation-for-almost-anything.html#tk.rss_all)
-- [Workday expands service that surfaces employee skills](https://www.computerworld.com/article/3673937/workday-expands-service-that-surfaces-employee-skills.html#tk.rss_all)
-- [BrandPost: In the Battle Against Ransomware, Organizations Need to Enhance their Data Protection Capabilities](https://www.computerworld.com/article/3674050/in-the-battle-against-ransomware-organizations-need-to-enhance-their-data-protection-capabilities.html#tk.rss_all)
-- [Adobe&#39;s $20B Figma acquisition highlights web-based collaboration trends](https://www.computerworld.com/article/3673934/adobes-20b-figma-acquisition-highlights-web-based-collaboration-trends.html#tk.rss_all)
-- [Google’s failure to quash EU antitrust ruling has broad implications for tech companies](https://www.computerworld.com/article/3674049/googles-failure-to-quash-eu-antitrust-ruling-has-broad-implications-for-tech-companies.html#tk.rss_all)
-- [iPhone users have become more cautious about fast iOS upgrades](https://www.computerworld.com/article/3673931/iphone-users-have-become-more-cautious-about-fast-ios-upgrades.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

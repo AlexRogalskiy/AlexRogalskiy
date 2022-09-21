@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Puerto Rico battles blackout and lack of safe water in wake of Hurricane Fiona](https://www.theguardian.com/world/2022/sep/19/puerto-rico-hurricane-fiona-power-water)
-- [Liz Truss lands in US to reset ‘special relationship’ on first foreign trip as PM](https://www.theguardian.com/politics/2022/sep/20/liz-truss-lands-in-us-to-reset-special-relationship-on-first-foreign-trip-as-pm)
-- [The Russian soldier exposing what life is really like in Putin’s invading army - podcast](https://www.theguardian.com/news/audio/2022/sep/20/the-russian-soldier-exposing-the-horrors-of-life-in-putins-invading-army-podcast)
-- [Brad Pitt makes surprise debut as a sculptor at Finland art gallery](https://www.theguardian.com/artanddesign/2022/sep/20/brad-pitt-debut-as-sculptor-finland-art-gallery-nick-cave-thomas-houseago)
-- [Russia-Ukraine war latest: what we know on day 209 of the invasion](https://www.theguardian.com/world/2022/sep/20/russia-ukraine-war-latest-what-we-know-on-day-209-of-the-invasion)
-- [Night owls may be more prone to heart disease and diabetes, study finds](https://www.theguardian.com/science/2022/sep/20/night-owls-may-be-more-prone-to-heart-disease-and-diabetes-study-finds)
-- [UK business investment lowest in G7 despite corporation tax cuts, says IPPR](https://www.theguardian.com/business/2022/sep/20/uk-business-investment-lowest-in-g7-corporation-tax-cuts-ippr)
-- [Judge orders release of Adnan Syed after more than two decades in prison](https://www.theguardian.com/us-news/2022/sep/19/adnan-syed-judge-orders-release-serial-conviction-vacated)
-- [Nigeria battling floods ‘beyond control’ as warning given of dams overflowing](https://www.theguardian.com/world/2022/sep/19/nigeria-battling-worst-floods-in-a-decade-with-more-than-300-people-killed-in-2022)
-- [Human composting: California clears the way for greener burial method](https://www.theguardian.com/us-news/2022/sep/19/human-composting-california-human-remains-green-burial)
+- [Shinzo Abe: man sets himself alight in protest at state funeral for killed Japan PM](https://www.theguardian.com/world/2022/sep/21/shinzo-abe-man-sets-himself-alight-in-protest-at-state-funeral-for-killed-japan-pm)
+- [Huge insect crawls across Jacinda Ardern&#39;s shoulder during press conference – video](https://www.theguardian.com/world/video/2022/sep/21/huge-insect-crawls-across-jacinda-arderns-shoulder-during-press-conference-video)
+- [New Zealand’s world-beating jump in wealth down to ‘rise of landed gentry’, says economist](https://www.theguardian.com/world/2022/sep/21/new-zealands-world-beating-jump-in-wealth-down-to-rise-of-landed-gentry-says-economist)
+- [The police killing of Chris Kaba - podcast](https://www.theguardian.com/news/audio/2022/sep/21/the-police-killing-of-chris-kaba-podcast)
+- [Biden to rally world leaders against Russian attempts to annex Ukraine regions](https://www.theguardian.com/world/2022/sep/21/joe-biden-un-ukraine-russia-annex-referendums)
+- [Kentucky man seeking parole says he still hears voices that led to school shooting](https://www.theguardian.com/us-news/2022/sep/20/kentucky-school-shooting-michael-carneal-parole)
+- [Myanmar junta attack on school condemned as child death toll rises to 11](https://www.theguardian.com/world/2022/sep/21/myanmar-junta-attack-on-school-condemned-as-child-death-toll-rises-to-11)
+- [China’s ‘hidden epidemics’: the preventable diseases that could reshape a nation](https://www.theguardian.com/world/2022/sep/21/chinas-hidden-epidemics-the-preventable-diseases-that-could-reshape-a-nation)
+- [Writer E Jean Carroll to file new lawsuit after accusing Trump of rape](https://www.theguardian.com/us-news/2022/sep/20/e-jean-carroll-trump-lawsuit)
+- [New RSC co-artistic directors ready to ‘shake up’ Shakespeare](https://www.theguardian.com/stage/2022/sep/21/new-rsc-co-artistic-directors-ready-to-shake-up-shakespeare)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -370,6 +370,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Sam&#39;s Club CTO Talks Infrastructure Modernization, AI](https://www.informationweek.com/strategic-cio/sam-s-club-cto-talks-infrastructure-modernization-ai)
+- [Are Channel Partners a Bottleneck?](https://www.informationweek.com/strategic-cio/are-channel-partners-a-bottleneck-)
+- [Next Wave of Digital Transformation and Its Impact on IT](https://www.informationweek.com/big-data/next-wave-of-digital-transformation-and-its-impact-on-it)
 - [Automation Gains a Foothold, But How to Scale It Is the Challenge](https://www.informationweek.com/big-data/automation-gains-a-foothold-but-how-to-scale-it-is-the-challenge)
 - [Two-Minute Toolkit: CloudSphere on Cybersecurity and Offboarding](https://www.informationweek.com/security-and-risk-strategy/two-minute-toolkit-cloudsphere-on-cybersecurity-and-offboarding)
 - [How to Measure Automation Success for the Enterprise](https://www.informationweek.com/big-data/how-to-measure-automation-success-for-the-enterprise)
@@ -377,9 +380,6 @@
 - [VC and Analyst Notes from FinovateFall on the Future of Fintech](https://www.informationweek.com/fintech/vc-and-analyst-notes-from-finovatefall-on-the-future-of-fintech)
 - [What Do US Restrictions of China Sales Mean for the AI Chip Industry?](https://www.informationweek.com/government/what-do-us-restrictions-of-china-sales-mean-for-the-ai-chip-industry-)
 - [How to Prepare for New PCI DSS 4.0 Requirements](https://www.informationweek.com/fintech/how-to-prepare-for-new-pci-dss-4-0-requirements)
-- [Chip Shortage Update](https://www.informationweek.com/sustainability/chip-shortage-update)
-- [Two-Factor Authentication by 2023 is Not Soon Enough](https://www.informationweek.com/security-and-risk-strategy/two-factor-authentication-by-2023-is-not-soon-enough)
-- [10 Cool International Locations for Remote Workers to Consider](https://www.informationweek.com/it-life/10-cool-international-locations-for-remote-workers-to-consider)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

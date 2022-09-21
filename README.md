@@ -385,6 +385,9 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [JDK 19: The new features in Java 19](https://www.infoworld.com/article/3653331/jdk-19-the-new-features-in-java-19.html#tk.rss_all)
+- [3 wins and 3 losses for cloud computing](https://www.infoworld.com/article/3674135/3-wins-and-3-losses-for-cloud-computing.html#tk.rss_all)
+- [5 steps to lower Kubernetes costs](https://www.infoworld.com/article/3673261/5-steps-to-lower-kubernetes-costs.html#tk.rss_all)
 - [When openness doesn’t matter](https://www.infoworld.com/article/3673945/when-openness-doesnt-matter.html#tk.rss_all)
 - [5 best practices for securing CI/CD pipelines](https://www.infoworld.com/article/3673891/5-best-practices-for-securing-cicd-pipelines.html#tk.rss_all)
 - [Brendan Eich: Don’t blame cookies and JavaScript](https://www.infoworld.com/article/3673292/brendan-eich-dont-blame-cookies-and-javascript.html#tk.rss_all)
@@ -392,9 +395,6 @@
 - [Microsoft .NET 7 enters release candidate phase](https://www.infoworld.com/article/3674114/microsoft-net-7-enters-release-candidate-phase.html#tk.rss_all)
 - [Are we experiencing cloudflation?](https://www.infoworld.com/article/3674048/are-we-experiencing-cloudflation.html#tk.rss_all)
 - [What is CUDA? Parallel programming for GPUs](https://www.infoworld.com/article/3299703/what-is-cuda-parallel-programming-for-gpus.html#tk.rss_all)
-- [JavaFX 19 rich client Java platform arrives](https://www.infoworld.com/article/3673888/javafx-19-rich-client-java-platform-arrives.html#tk.rss_all)
-- [How to create a custom configuration provider in ASP.NET Core 6](https://www.infoworld.com/article/3673211/how-to-create-a-custom-configuration-provider-in-asp-net-core-6.html#tk.rss_all)
-- [Intro to Blitz.js: A full-stack framework for Next.js](https://www.infoworld.com/article/3673088/intro-to-blitzjs-a-full-stack-framework-for-nextjs.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

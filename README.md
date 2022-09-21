@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Do tools like OptinMonster annoy you?](https://news.ycombinator.com/item?id=32907518)
-- [Stand back, the FTC is here to police gig work](https://www.theregister.com/2022/09/16/ftc_gig_work/)
-- [Automatic differentiation in a lot more than 38 lines of F#](https://github.com/DiffSharp/DiffSharp)
-- [The Internet Is Already Over](https://samkriss.substack.com/p/the-internet-is-already-over)
-- [No, President Biden, the pandemic is not over](https://www.washingtonpost.com/opinions/2022/09/19/biden-pandemic-over-60-minutes-wrong/)
-- [Open source offline programming documentation](https://zealdocs.org/)
-- [Ask HN: Curated list of JavaScript-free/lite sites?](https://news.ycombinator.com/item?id=32907424)
-- [Things that will be possible in a database platform when we apply AI and LLMs](https://twitter.com/nikitabase/status/1571723421389824002)
-- [Mark Zuckerberg’s Net Worth Is Down $71B, Putting Focus on Meta’s Woes](https://www.bloomberg.com/news/articles/2022-09-19/mark-zuckerberg-s-net-worth-is-down-71-billion-putting-focus-on-meta-s-woes)
-- [I&#39;m Building a Self-Destructing USB Drive](https://interruptlabs.ca/2022/07/29/I-m-Building-a-Self-Destructing-USB-Drive/)
+- [Google Deepmind Researcher Co-Authors Paper Saying AI Will Eliminate Humanity](https://www.vice.com/en/article/93aqep/google-deepmind-researcher-co-authors-paper-saying-ai-will-eliminate-humanity)
+- [Where decentralization in autonomous organizations matters](https://vitalik.ca/general/2022/09/20/daos.html)
+- [Forever young, beautiful and scandal-free: South Korea&#39;s virtual influencers](https://www.cnn.com/style/article/south-korea-virtual-influencers-beauty-social-media-intl-hnk-dst/index.html)
+- [Woolly mammoths were still around when the Great Pyramid of Giza was built](http://quadcitiesdaily.com/?p=746475)
+- [The periodic table of endangered eleme](https://www.visualcapitalist.com/cp/the-periodic-table-of-endangered-elements/)
+- [Daily &#39;Breath Training&#39; can work as well as Meds to reduce high blood pressure](https://text.npr.org/1123500781)
+- [Ask HN: Do you regret being a generalist?](https://news.ycombinator.com/item?id=32920577)
+- [Rituals for Engineering Teams](https://charity.wtf/2022/08/15/rituals-for-engineering-teams/)
+- [How a small Bengaluru-based bakery took on Amazon and won](https://www.moneycontrol.com/news/business/how-a-small-bengaluru-based-bakery-took-on-amazon-and-won-9200621.html)
+- [LibreOffice will now cost $8.99 on the Mac App Store](https://www.xda-developers.com/libreoffice-on-the-mac-app-store-costs-8-99/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

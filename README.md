@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Shinzo Abe: man sets himself alight in protest at state funeral for killed Japan PM](https://www.theguardian.com/world/2022/sep/21/shinzo-abe-man-sets-himself-alight-in-protest-at-state-funeral-for-killed-japan-pm)
-- [Huge insect crawls across Jacinda Ardern&#39;s shoulder during press conference – video](https://www.theguardian.com/world/video/2022/sep/21/huge-insect-crawls-across-jacinda-arderns-shoulder-during-press-conference-video)
-- [New Zealand’s world-beating jump in wealth down to ‘rise of landed gentry’, says economist](https://www.theguardian.com/world/2022/sep/21/new-zealands-world-beating-jump-in-wealth-down-to-rise-of-landed-gentry-says-economist)
-- [The police killing of Chris Kaba - podcast](https://www.theguardian.com/news/audio/2022/sep/21/the-police-killing-of-chris-kaba-podcast)
-- [Biden to rally world leaders against Russian attempts to annex Ukraine regions](https://www.theguardian.com/world/2022/sep/21/joe-biden-un-ukraine-russia-annex-referendums)
-- [Kentucky man seeking parole says he still hears voices that led to school shooting](https://www.theguardian.com/us-news/2022/sep/20/kentucky-school-shooting-michael-carneal-parole)
-- [Myanmar junta attack on school condemned as child death toll rises to 11](https://www.theguardian.com/world/2022/sep/21/myanmar-junta-attack-on-school-condemned-as-child-death-toll-rises-to-11)
-- [China’s ‘hidden epidemics’: the preventable diseases that could reshape a nation](https://www.theguardian.com/world/2022/sep/21/chinas-hidden-epidemics-the-preventable-diseases-that-could-reshape-a-nation)
-- [Writer E Jean Carroll to file new lawsuit after accusing Trump of rape](https://www.theguardian.com/us-news/2022/sep/20/e-jean-carroll-trump-lawsuit)
-- [New RSC co-artistic directors ready to ‘shake up’ Shakespeare](https://www.theguardian.com/stage/2022/sep/21/new-rsc-co-artistic-directors-ready-to-shake-up-shakespeare)
+- [How La Niña took a NSW dam from near dry to over capacity in three years  – video](https://www.theguardian.com/australia-news/video/2022/sep/22/how-la-nina-took-a-nsw-dam-from-near-dry-to-over-capacity-in-three-years-video)
+- [North Korea denies supplying weapons or ammunition to Russia](https://www.theguardian.com/world/2022/sep/21/north-korea-denies-supplying-weapons-or-ammunition-to-russia)
+- [Liz Truss dismisses Putin’s nuclear threats as sign of desperation](https://www.theguardian.com/politics/2022/sep/21/liz-truss-dismisses-putins-nuclear-threats-as-statement-of-weakness)
+- [Court lifts hold on classified records seized from Mar-a-Lago in Trump inquiry](https://www.theguardian.com/us-news/2022/sep/21/donald-trump-mar-a-lago-records-hold-lifted)
+- [How the Champions League final nearly ended in disaster - podcast](https://www.theguardian.com/news/audio/2022/sep/22/how-the-champions-league-final-nearly-ended-in-disaster-podcast)
+- [Khmer Rouge: Cambodia court to rule on genocide appeal of last surviving leader](https://www.theguardian.com/world/2022/sep/22/khmer-rouge-tribunal-cambodia-court-rule-genocide-appeal-last-surviving-leader-khieu-samphan)
+- [Nearly 200 stranded pilot whales die on Tasmanian beach](https://www.theguardian.com/australia-news/2022/sep/22/nearly-200-stranded-pilot-whales-die-on-tasmanian-beach)
+- [New Zealand hopes to banish jargon with plain language law](https://www.theguardian.com/world/2022/sep/22/new-zealand-hopes-to-banish-jargon-with-plain-language-law)
+- [Senator Joe Manchin unveils bill that would expedite federal energy projects](https://www.theguardian.com/us-news/2022/sep/21/joe-manchin-energy-bill-fossil-fuels)
+- [Russia protests: more than 1,300 arrested at anti-war demonstrations](https://www.theguardian.com/world/2022/sep/22/russia-protests-more-than-1300-arrested-at-anti-war-demonstrations-ukraine)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

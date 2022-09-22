@@ -355,6 +355,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Six in 10 workers want to ditch the 40-hour work week, survey finds](https://www.computerworld.com/article/3674668/six-in-10-workers-want-to-ditch-the-40-hour-work-week-survey-finds.html#tk.rss_all)
+- [A tale of two companies: How Intel and Dell are creating better places to work](https://www.computerworld.com/article/3674155/a-tale-of-two-companies-how-intel-and-dell-are-creating-better-places-to-work.html#tk.rss_all)
+- [How to share Safari Tab Groups on iPhone](https://www.computerworld.com/article/3674217/how-to-share-safari-tab-groups-on-iphone.html#tk.rss_all)
 - [Windows 11 2022 Update is the version enterprises can move to](https://www.computerworld.com/article/3673902/windows-11-2022-update-is-the-version-enterprises-can-move-to.html#tk.rss_all)
 - [Windows 11 22H2: Small but welcome changes](https://www.computerworld.com/article/3673373/windows-11-22h2-small-but-welcome-changes.html#tk.rss_all)
 - [Macs still lead the ACSI survey as PCs go mobile and work goes remote](https://www.computerworld.com/article/3674312/macs-still-lead-the-acsi-survey-as-pcs-go-mobile-and-work-goes-remote.html#tk.rss_all)
@@ -362,9 +365,6 @@
 - [Android&#39;s underappreciated design revolution](https://www.computerworld.com/article/3674134/android-design-revolution.html#tk.rss_all)
 - [As Windows 11 22H2 draws near, Windows 10 hangs on](https://www.computerworld.com/article/3674056/as-windows-11-22h2-draws-near-windows-10-hangs-on.html#tk.rss_all)
 - [Google Workspace vs. Microsoft 365: What’s the best office suite for business?](https://www.computerworld.com/article/3515808/g-suite-vs-office-365-whats-the-best-office-suite-for-business.html#tk.rss_all)
-- [Critical zero-days make September&#39;s Patch Tuesday a &#39;Patch Now&#39; release](https://www.computerworld.com/article/3673944/critical-zero-days-make-septembers-patch-tuesday-a-patch-now-release.html#tk.rss_all)
-- [What&#39;s new in Notifications in iOS 16?](https://www.computerworld.com/article/3674208/whats-new-in-notifications-in-ios-16.html#tk.rss_all)
-- [Sadly, IT can no longer trust geolocation for much of anything](https://www.computerworld.com/article/3673104/sadly-it-can-no-longer-trust-geolocation-for-almost-anything.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

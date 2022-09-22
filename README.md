@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Can I Use a System Call?](https://justine.lol/cosmopolitan/functions.html)
-- [Etleap &lpar;YC W13&rpar; Is Hiring Software Engineer – London](https://etleap.com/careers/software-engineer/)
-- [Backend for Front-end](https://blog.frankel.ch/backend-for-frontend/)
-- [Upcyling a 40-year-old Tandy Model 100 Portable Computer](https://spectrum.ieee.org/upcycle-a-vintage-lcd)
-- [YouTube’s ‘dislike’ barely works according to new study on recommendations](https://www.engadget.com/mozilla-youtube-recommendation-study-080006930.html)
-- [Fork of the popular “I don&#39;t care about cookies” extension](https://github.com/OhMyGuus/I-Dont-Care-About-Cookies)
-- [Philosophy of mathematics – a reading list &lpar;2020&rpar;](https://www.logicmatters.net/2020/11/16/philosophy-of-mathematics-a-reading-list/)
-- [LibRedirect: Redirect YouTube, Twitter, Instagram to privacy friendly services](https://github.com/libredirect/libredirect)
-- [Show HN: TaskTXT, plain text task-timing notepad](https://tasktxt.com/)
-- [EU Open Web Search project kicked off](https://openwebsearch.eu/)
+- [The Deceiving Stretch of Water with 100% Mortality Rate](https://the-yorkshireman.com/the-strid/)
+- [Using a Canon EOS camera as a webcam in Debian](https://www.schlachter.xyz/projects/debian-dslr-webcam-with-secure-boot)
+- [Olive.c: a simple graphics library that does not have any dependencies](https://tsoding.org/olive.c/)
+- [The IT Crowd US Pilot](https://archive.org/details/the-it-crowd-us-pilot)
+- [Ask HN: Why is Microsoft Teams still so bad?](https://news.ycombinator.com/item?id=32932137)
+- [AWS vs. GCP reliability is wildly different](https://freeman.vc/notes/aws-vs-gcp-reliability-is-wildly-different)
+- [A text adventure game on TypeScript&#39;s type system](https://github.com/cassiozen/TDungeon)
+- [Neutralisation of cockroaches with laser automated by machine vision](https://www.researchgate.net/publication/363699728_Selective_neutralisation_and_deterring_of_cockroaches_with_laser_automated_by_machine_vision)
+- [MinIO passes 1B cumulative Docker Pulls](https://blog.min.io/one-billion-docker-pulls/)
+- [Why do we salt the ice when making ice cream?](https://www.timothyrice.org/icecreamsalt/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

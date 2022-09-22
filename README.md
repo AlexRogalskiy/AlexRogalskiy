@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Google Deepmind Researcher Co-Authors Paper Saying AI Will Eliminate Humanity](https://www.vice.com/en/article/93aqep/google-deepmind-researcher-co-authors-paper-saying-ai-will-eliminate-humanity)
-- [Where decentralization in autonomous organizations matters](https://vitalik.ca/general/2022/09/20/daos.html)
-- [Forever young, beautiful and scandal-free: South Korea&#39;s virtual influencers](https://www.cnn.com/style/article/south-korea-virtual-influencers-beauty-social-media-intl-hnk-dst/index.html)
-- [Woolly mammoths were still around when the Great Pyramid of Giza was built](http://quadcitiesdaily.com/?p=746475)
-- [The periodic table of endangered eleme](https://www.visualcapitalist.com/cp/the-periodic-table-of-endangered-elements/)
-- [Daily &#39;Breath Training&#39; can work as well as Meds to reduce high blood pressure](https://text.npr.org/1123500781)
-- [Ask HN: Do you regret being a generalist?](https://news.ycombinator.com/item?id=32920577)
-- [Rituals for Engineering Teams](https://charity.wtf/2022/08/15/rituals-for-engineering-teams/)
-- [How a small Bengaluru-based bakery took on Amazon and won](https://www.moneycontrol.com/news/business/how-a-small-bengaluru-based-bakery-took-on-amazon-and-won-9200621.html)
-- [LibreOffice will now cost $8.99 on the Mac App Store](https://www.xda-developers.com/libreoffice-on-the-mac-app-store-costs-8-99/)
+- [I Prefer Mithril over Angular and React](https://github.com/pdfernhout/choose-mithril)
+- [Google wants to take on Dolby with new open media formats](https://www.protocol.com/entertainment/google-dolby-atmos-vision-project-caviar)
+- [California is awash in renewable energy – except when it’s most needed](https://www.washingtonpost.com/us-policy/2022/09/21/california-is-awash-renewable-energy-except-when-its-most-needed/)
+- [The Harrowing Search for the Elusive Technical Answer](https://www.lastweekinaws.com/blog/the-harrowing-search-for-the-elusive-technical-answer/)
+- [Salesforce CEO Marc Benioff on quiet quitting: Do what makes you happy](https://www.bizjournals.com/sanfrancisco/inno/stories/inno-insights/2022/09/21/dreamforce-2022-marc-benioff-quiet-quitting.html)
+- [NixOS: For Developers](https://myme.no/posts/2020-01-26-nixos-for-development.html#virtual-environments-using-nix-shell)
+- [Bank of Japan keeps 0% rates, remains global outlier despite weak yen](https://www.reuters.com/markets/asia/boj-keep-ultra-low-rates-remain-global-outlier-despite-weak-yen-2022-09-21/)
+- [A C++ Acronym Glossary](https://quuxplusone.github.io/blog/2019/08/02/the-tough-guide-to-cpp-acronyms/)
+- [An Introduction to Nix-Shell](http://ghedam.at/15978/an-introduction-to-nix-shell)
+- [Phoenix LiveView 0.18 Released](https://www.phoenixframework.org/blog/phoenix-liveview-0.18-released)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

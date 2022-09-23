@@ -430,16 +430,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
-- [Canada’s biggest telecom operators rank high in 5G reach, Opensignal report finds](https://www.itworldcanada.com/article/canadas-biggest-telecom-operators-rank-high-in-5g-reach-opensignal-report-finds/503749)
-- [“My digital success” platform launching to assist Quebec SMBs in their digital transformation](https://www.itworldcanada.com/article/my-digital-success-platform-launching-to-assist-quebec-smbs-in-their-digital-transformation/503799)
-- [Slack to get Canvas and new features for Huddle](https://www.itworldcanada.com/article/slack-to-get-canvas-and-new-features-for-huddle/503879)
-- [Coffee Briefing September 20, 2022 – Zoho’s new office; Walmart rolls out AI solution for on-shelf availability; Ocrolus launches fraud detection solution for lenders; and more](https://www.itworldcanada.com/article/coffee-briefing-september-20-2022-zohos-new-office-walmart-rolls-out-ai-solution-for-on-shelf-availability-ocrolus-launches-fraud-detection-solution-for-lenders-and-more/503413)
-- [Salesforce Genie is now generally available to power real-time CRM experiences](https://www.itworldcanada.com/article/salesforce-genie-is-now-generally-available-to-power-real-time-crm-experiences/503780)
-- [Uber says compromised credentials of a contractor led to data breach](https://www.itworldcanada.com/article/uber-says-compromised-credentials-of-a-contractor-led-to-data-breach/503802)
-- [Microsoft Surface Laptop Go 2 review: it has its charms, but is not for everyone](https://www.itworldcanada.com/article/microsoft-surface-laptop-go-2-review-it-has-its-charms-but-is-not-for-everyone/503729)
-- [AI and wine are not that different, says SAS’s director of AI ethics](https://www.itworldcanada.com/article/ai-and-wine-are-not-that-different-says-sass-director-of-ai-ethics/503456)
-- [Cyber Security Today, Sept. 19, 2022 – Bell division recovering from ransomware, a handy browser utility causes trouble, and a vulnerability in Microsoft Teams](https://www.itworldcanada.com/article/cyber-security-today-sept-19-2022-bell-division-recovering-from-ransomware-a-handy-browser-utility-causes-trouble-and-a-vulnerability-in-microsoft-teams/503642)
-- [Hashtag Trending Sept. 19 – New child protection law in California; accidental money; Canadian police raids hacker](https://www.itworldcanada.com/article/hashtag-trending-sept-19-new-child-protection-law-in-california-accidental-money-canadian-police-raids-hacker/503668)
+- [ILX Group examines steps firms must take to future-proof themselves](https://www.itworldcanada.com/article/ilx-group-examines-steps-firms-must-take-to-future-proof-themselves/504377)
+- [Forbes names CGI one of the “World’s Best Management Consulting Firms”](https://www.itworldcanada.com/article/forbes-names-cgi-one-of-the-worlds-best-management-consulting-firms/504372)
+- [Hundreds of thousands of applications at risk from unpatched Python bug, say researchers](https://www.itworldcanada.com/article/hundreds-of-thousands-of-applications-at-risk-from-unpatched-python-bug-say-researchers/504333)
+- [Canadian dataware platform announces data liberation solution for credit unions](https://www.itworldcanada.com/article/canadian-dataware-platform-announces-data-liberation-solution-for-credit-unions/504336)
+- [Get rid of unencrypted email, fax in health sector, urge Canadian privacy regulators](https://www.itworldcanada.com/article/get-rid-of-unencrypted-email-fax-in-health-sector-urge-canadian-privacy-regulators/504311)
+- [Canadian SMBs, employees criticized for poor cybersecurity practices](https://www.itworldcanada.com/article/canadian-smbs-employees-criticized-for-poor-cybersecurity-practices/504284)
+- [Hashtag Trending Sept. 22 – Getty Images bans AI images; revive a lawsuit against Facebook; Morgan Stanley fined $35 million](https://www.itworldcanada.com/article/hashtag-trending-sept-22-getty-images-bans-ai-images-revive-a-lawsuit-against-facebook-morgan-stanley-fined-35-million/504164)
+- [Canadian households have $6 billion worth of dead cell phones lying around](https://www.itworldcanada.com/article/canadian-households-have-6-billion-worth-of-dead-cell-phones-lying-around/503845)
+- [Microsoft releases first Windows 11 major update](https://www.itworldcanada.com/article/microsoft-releases-first-windows-11-major-update/504141)
+- [As Canadians start travelling more, security risks increase](https://www.itworldcanada.com/article/as-canadians-start-travelling-more-security-risks-increase/503856)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

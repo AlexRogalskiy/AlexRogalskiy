@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The Deceiving Stretch of Water with 100% Mortality Rate](https://the-yorkshireman.com/the-strid/)
-- [Using a Canon EOS camera as a webcam in Debian](https://www.schlachter.xyz/projects/debian-dslr-webcam-with-secure-boot)
-- [Olive.c: a simple graphics library that does not have any dependencies](https://tsoding.org/olive.c/)
-- [The IT Crowd US Pilot](https://archive.org/details/the-it-crowd-us-pilot)
-- [Ask HN: Why is Microsoft Teams still so bad?](https://news.ycombinator.com/item?id=32932137)
-- [AWS vs. GCP reliability is wildly different](https://freeman.vc/notes/aws-vs-gcp-reliability-is-wildly-different)
-- [A text adventure game on TypeScript&#39;s type system](https://github.com/cassiozen/TDungeon)
-- [Neutralisation of cockroaches with laser automated by machine vision](https://www.researchgate.net/publication/363699728_Selective_neutralisation_and_deterring_of_cockroaches_with_laser_automated_by_machine_vision)
-- [MinIO passes 1B cumulative Docker Pulls](https://blog.min.io/one-billion-docker-pulls/)
-- [Why do we salt the ice when making ice cream?](https://www.timothyrice.org/icecreamsalt/)
+- [The South Asian Polycrisis](https://adamtooze.substack.com/p/chartbook-153-the-south-asian-polycrisis)
+- [Nightdrive](https://incoherency.co.uk/blog/stories/nightdrive.html)
+- [Uify: One Workspace](https://uify.io/)
+- [Super-Earths Are Bigger and More Habitable Than Earth, and Astronomers Are Di](https://singularityhub.com/2022/09/22/super-earths-are-bigger-and-more-habitable-than-earth-and-astronomers-are-discovering-more-of-the-billions-they-think-are-out-there/)
+- [A pair of Rust kernel modules](https://lwn.net/Articles/907685/)
+- [We Need New Motherboards Before GPUs Collapse Under Their Own Gravity](https://erikmcclure.com/blog/we-need-new-motherboards/)
+- [Rust 2024 the Year of Everywhere?](https://smallcultfollowing.com/babysteps/blog/2022/09/22/rust-2024-the-year-of-everywhere/)
+- [Avoiding homework with code &lpar;and getting caught&rpar;](https://alistair.blog/mochip)
+- [Despite faster broadband every year, web pages don&#39;t load any faster](https://www.datafantic.com/how-much-time-do-we-waste-waiting-for-websites-to-load/)
+- [Expanding access to the future of work with crypto payouts](https://stripe.com/newsroom/stories/braintrust-crypto-payouts)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -400,16 +400,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Datacentre operators urged to tighten up their carbon emissions and water usage reporting](https://www.computerweekly.com/news/252525138/Datacentre-operators-urged-to-tighten-up-their-carbon-emissions-and-water-usage-reporting)
-- [IHG attackers phished employee to deploy destructive wiper](https://www.computerweekly.com/news/252525120/IHG-attackers-phished-employee-to-deploy-destructive-wiper)
-- [Reports Uber and Rockstar incidents work of same attacker](https://www.computerweekly.com/news/252525126/Reports-Uber-and-Rockstar-incidents-work-of-same-attacker)
-- [A gold medal performance for networking](https://www.computerweekly.com/ezine/Computer-Weekly/A-gold-medal-performance-for-networking)
-- [Putting artificial intelligence and machine learning workloads in the cloud](https://www.computerweekly.com/feature/Putting-artificial-intelligence-and-machine-learning-workloads-in-the-cloud)
-- [Barnet Council awards Capita contract extension](https://www.computerweekly.com/news/252525035/Barnet-Council-awards-Capita-contract-extension)
-- [Six new vulnerabilities added to CISA catalogue](https://www.computerweekly.com/news/252525032/Six-new-vulnerabilities-added-to-CISA-catalogue)
-- [Uber suffers major cyber attack](https://www.computerweekly.com/news/252525030/Uber-suffers-major-cyber-attack)
-- [Energy crisis IT impact: Computer Weekly Downtime Upload podcast](https://www.computerweekly.com/podcast/Energy-crisis-IT-impact-Computer-Weekly-Downtime-Upload-podcast)
-- [EU Cyber Resilience Act sets global standard for connected products](https://www.computerweekly.com/news/252524993/EU-Cyber-Resilience-Act-sets-global-standard-for-connected-products)
+- [Tech Nation announces 13 startups for 11th Future Fifty cohort](https://www.computerweekly.com/news/252525256/Tech-Nation-announces-13-startups-for-11th-Future-Fifty-cohort)
+- [Ofcom turns its attention to the hyperscalers](https://www.computerweekly.com/news/252525242/Ofcom-turns-its-attention-to-the-hyperscalers)
+- [ALPHV/BlackCat ransomware family becoming more dangerous](https://www.computerweekly.com/news/252525240/ALPHV-BlackCat-ransomware-family-becoming-more-dangerous)
+- [Privacy Pledge signatories dream of alternative internet](https://www.computerweekly.com/news/252525237/Privacy-Pledge-signatories-dream-of-alternative-internet)
+- [Dr Martens goes feetfirst into cloud-to-cloud backup](https://www.computerweekly.com/news/252525238/Dr-Martens-goes-feetfirst-into-cloud-to-cloud-backup)
+- [Contractors call for IR35 review and tax cuts in Chancellor’s mini-Budget](https://www.computerweekly.com/news/252525206/Contractors-call-for-IR35-review-and-tax-cuts-in-Chancellors-mini-Budget)
+- [NCSC publishes cyber guidance for retailers](https://www.computerweekly.com/news/252525200/NCSC-publishes-cyber-guidance-for-retailers)
+- [15-year-old Python bug present in 350,000 open source projects](https://www.computerweekly.com/news/252525183/15-year-old-Python-bug-present-in-350k-open-source-projects)
+- [Mobile operators work on holographic calling pilot](https://www.computerweekly.com/news/252525195/Mobile-operators-work-on-holographic-calling-pilot)
+- [Dreamforce 2022: Benioff and Taylor uncork real-time Genie to toast ‘new day’](https://www.computerweekly.com/news/252525180/Dreamforce-2022-Benioff-uncorks-real-time-Genie-to-toast-new-day)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

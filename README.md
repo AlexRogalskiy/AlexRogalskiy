@@ -415,16 +415,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Need IT answers for School assignment.](https://www.reddit.com/r/InformationTechnology/comments/xjj61e/need_it_answers_for_school_assignment/)
-- [help how to create a flowcart](https://www.reddit.com/r/InformationTechnology/comments/xj3zud/help_how_to_create_a_flowcart/)
-- [A story about a CTO, who made many mistakes: my insights after communicating with health startups CTOs](https://www.reddit.com/r/InformationTechnology/comments/xj1ctv/a_story_about_a_cto_who_made_many_mistakes_my/)
-- [School or certs?](https://www.reddit.com/r/InformationTechnology/comments/xizbig/school_or_certs/)
-- [Internet Problem](https://www.reddit.com/r/InformationTechnology/comments/xiw3tw/internet_problem/)
-- [Trending technologies used by software companies to develop web based applications.](https://www.reddit.com/r/InformationTechnology/comments/xijy8o/trending_technologies_used_by_software_companies/)
-- [Servers and routers connected](https://www.reddit.com/r/InformationTechnology/comments/xiihbf/servers_and_routers_connected/)
-- [A Talk About Java Serialization and Deserialization](https://www.reddit.com/r/InformationTechnology/comments/xi8m20/a_talk_about_java_serialization_and/)
-- [How do you deal with &quot;too much talkative&quot; customers?](https://www.reddit.com/r/InformationTechnology/comments/xhu5sy/how_do_you_deal_with_too_much_talkative_customers/)
-- [What&#39;s your company&#39;s stack and which processes are automated?](https://www.reddit.com/r/InformationTechnology/comments/xgwfxp/whats_your_companys_stack_and_which_processes_are/)
+- [I feel so stupid asking IT for help](https://www.reddit.com/r/InformationTechnology/comments/xlawb9/i_feel_so_stupid_asking_it_for_help/)
+- [The Blind Exploits To Rule Watchguard Firewalls Vulnerabilities -- CVE-2022-31790](https://www.reddit.com/r/InformationTechnology/comments/xl8lln/the_blind_exploits_to_rule_watchguard_firewalls/)
+- [AD issue](https://www.reddit.com/r/InformationTechnology/comments/xl8bbi/ad_issue/)
+- [Fileless Viruses Vs RAM](https://www.reddit.com/r/InformationTechnology/comments/xl7djk/fileless_viruses_vs_ram/)
+- [Company iPhone Management](https://www.reddit.com/r/InformationTechnology/comments/xl6rjp/company_iphone_management/)
+- [How to count in binary](https://www.reddit.com/r/InformationTechnology/comments/xl6ie6/how_to_count_in_binary/)
+- [Cloud Engineering Immersive](https://www.reddit.com/r/InformationTechnology/comments/xl5q6o/cloud_engineering_immersive/)
+- [Role of IT Solutions in Business](https://www.reddit.com/r/InformationTechnology/comments/xkyepo/role_of_it_solutions_in_business/)
+- [Anybody familiar with ISC2 certs?](https://www.reddit.com/r/InformationTechnology/comments/xktfhn/anybody_familiar_with_isc2_certs/)
+- [&quot;It seems to me that a new CTO is trying to kick me and my team out&quot; - stories about ruining startup development](https://www.reddit.com/r/InformationTechnology/comments/xkryhm/it_seems_to_me_that_a_new_cto_is_trying_to_kick/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

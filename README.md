@@ -370,16 +370,16 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [4 Lessons Learned From the Latest Uber Breach](https://www.informationweek.com/security-and-risk-strategy/4-lessons-learned-from-the-latest-uber-breach)
+- [Reduce the Pain of Modernizing Mainframes in 4 Steps](https://www.informationweek.com/strategic-cio/reduce-the-pain-of-modernizing-mainframes-in-4-steps)
+- [Mobile Tech Transforming Bill Payment Habits](https://www.informationweek.com/mobile/mobile-tech-transforming-bill-payment-habits)
+- [Attracting Talent Now Requires a Work from Anywhere Program](https://www.informationweek.com/it-life/attracting-talent-now-requires-a-work-from-anywhere-program)
+- [How IT Leaders Can Be Proactive in the Face of Change](https://www.informationweek.com/it-life/how-it-leaders-can-be-proactive-in-the-face-of-change)
+- [IT Talent Crunch Shifts Tech Investment Strategies](https://www.informationweek.com/strategic-cio/it-talent-crunch-shifts-tech-investment-strategies)
+- [How CIOs Can Prevent Themselves From Burning Out](https://www.informationweek.com/it-life/how-cios-can-prevent-themselves-from-burning-out)
+- [Creating an Inclusive Culture for Women in DevOps](https://www.informationweek.com/devops/creating-an-inclusive-culture-for-women-in-devops)
+- [Understanding SASE Security Efficacy in a Complex World](https://www.informationweek.com/palo-alto-networks/understanding-sase-security-efficacy-in-a-complex-world)
 - [Sam&#39;s Club CTO Talks Infrastructure Modernization, AI](https://www.informationweek.com/strategic-cio/sam-s-club-cto-talks-infrastructure-modernization-ai)
-- [Are Channel Partners a Bottleneck?](https://www.informationweek.com/strategic-cio/are-channel-partners-a-bottleneck-)
-- [Next Wave of Digital Transformation and Its Impact on IT](https://www.informationweek.com/big-data/next-wave-of-digital-transformation-and-its-impact-on-it)
-- [Automation Gains a Foothold, But How to Scale It Is the Challenge](https://www.informationweek.com/big-data/automation-gains-a-foothold-but-how-to-scale-it-is-the-challenge)
-- [Two-Minute Toolkit: CloudSphere on Cybersecurity and Offboarding](https://www.informationweek.com/security-and-risk-strategy/two-minute-toolkit-cloudsphere-on-cybersecurity-and-offboarding)
-- [How to Measure Automation Success for the Enterprise](https://www.informationweek.com/big-data/how-to-measure-automation-success-for-the-enterprise)
-- [6 SASE Components and their Impact on Network Security](https://www.informationweek.com/cloud/6-sase-components-and-their-impact-on-network-security)
-- [VC and Analyst Notes from FinovateFall on the Future of Fintech](https://www.informationweek.com/fintech/vc-and-analyst-notes-from-finovatefall-on-the-future-of-fintech)
-- [What Do US Restrictions of China Sales Mean for the AI Chip Industry?](https://www.informationweek.com/government/what-do-us-restrictions-of-china-sales-mean-for-the-ai-chip-industry-)
-- [How to Prepare for New PCI DSS 4.0 Requirements](https://www.informationweek.com/fintech/how-to-prepare-for-new-pci-dss-4-0-requirements)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

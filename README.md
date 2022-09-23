@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [I Prefer Mithril over Angular and React](https://github.com/pdfernhout/choose-mithril)
-- [Google wants to take on Dolby with new open media formats](https://www.protocol.com/entertainment/google-dolby-atmos-vision-project-caviar)
-- [California is awash in renewable energy – except when it’s most needed](https://www.washingtonpost.com/us-policy/2022/09/21/california-is-awash-renewable-energy-except-when-its-most-needed/)
-- [The Harrowing Search for the Elusive Technical Answer](https://www.lastweekinaws.com/blog/the-harrowing-search-for-the-elusive-technical-answer/)
-- [Salesforce CEO Marc Benioff on quiet quitting: Do what makes you happy](https://www.bizjournals.com/sanfrancisco/inno/stories/inno-insights/2022/09/21/dreamforce-2022-marc-benioff-quiet-quitting.html)
-- [NixOS: For Developers](https://myme.no/posts/2020-01-26-nixos-for-development.html#virtual-environments-using-nix-shell)
-- [Bank of Japan keeps 0% rates, remains global outlier despite weak yen](https://www.reuters.com/markets/asia/boj-keep-ultra-low-rates-remain-global-outlier-despite-weak-yen-2022-09-21/)
-- [A C++ Acronym Glossary](https://quuxplusone.github.io/blog/2019/08/02/the-tough-guide-to-cpp-acronyms/)
-- [An Introduction to Nix-Shell](http://ghedam.at/15978/an-introduction-to-nix-shell)
-- [Phoenix LiveView 0.18 Released](https://www.phoenixframework.org/blog/phoenix-liveview-0.18-released)
+- [Why the Obvious Geopolitics of the Taiwan Policy Act of 2022 Matter](https://thediplomat.com/2022/09/why-the-obvious-geopolitics-of-the-taiwan-policy-act-of-2022-matter/)
+- [Maps, the Territory, and Meta-Rationality](https://metarationality.com/maps-and-territory)
+- [Show HN: Cancerdb.com – Moonbathing](https://cancerdb.com/posts/moonbathing.html)
+- [Why no company has made a good AirTag wallet](https://www.inputmag.com/reviews/airtag-wallets-shady-world)
+- [Theodore&#39;s Royalty and Monarchy Site &lpar;2000–2022–&rpar;](http://www.royaltymonarchy.com/)
+- [Majority favor maximum age limits for elected officials](https://www.cbsnews.com/news/elected-officials-maximum-age-limits-opinion-poll-2022-09-08/)
+- [Noam Chomsky: The War in Ukraine Has Entered a New Phase](https://truthout.org/articles/noam-chomsky-the-war-in-ukraine-has-entered-a-new-phase/)
+- [USB 3.2 and 3.1 Explained: What&#39;s Gen 1, Gen 2 and Gen 2x2?](https://www.tomshardware.com/news/usb-3-2-explained)
+- [Soyuz rocket rolls out for launch of Russian-American crew to space station](https://spaceflightnow.com/2022/09/18/soyuz-rocket-rolls-out-for-launch-of-russian-american-crew-to-space-station/)
+- [Open platform for building developer portals by Spotify](https://backstage.io/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

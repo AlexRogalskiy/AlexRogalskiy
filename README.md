@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [How La Niña took a NSW dam from near dry to over capacity in three years  – video](https://www.theguardian.com/australia-news/video/2022/sep/22/how-la-nina-took-a-nsw-dam-from-near-dry-to-over-capacity-in-three-years-video)
-- [North Korea denies supplying weapons or ammunition to Russia](https://www.theguardian.com/world/2022/sep/21/north-korea-denies-supplying-weapons-or-ammunition-to-russia)
-- [Liz Truss dismisses Putin’s nuclear threats as sign of desperation](https://www.theguardian.com/politics/2022/sep/21/liz-truss-dismisses-putins-nuclear-threats-as-statement-of-weakness)
-- [Court lifts hold on classified records seized from Mar-a-Lago in Trump inquiry](https://www.theguardian.com/us-news/2022/sep/21/donald-trump-mar-a-lago-records-hold-lifted)
-- [How the Champions League final nearly ended in disaster - podcast](https://www.theguardian.com/news/audio/2022/sep/22/how-the-champions-league-final-nearly-ended-in-disaster-podcast)
-- [Khmer Rouge: Cambodia court to rule on genocide appeal of last surviving leader](https://www.theguardian.com/world/2022/sep/22/khmer-rouge-tribunal-cambodia-court-rule-genocide-appeal-last-surviving-leader-khieu-samphan)
-- [Nearly 200 stranded pilot whales die on Tasmanian beach](https://www.theguardian.com/australia-news/2022/sep/22/nearly-200-stranded-pilot-whales-die-on-tasmanian-beach)
-- [New Zealand hopes to banish jargon with plain language law](https://www.theguardian.com/world/2022/sep/22/new-zealand-hopes-to-banish-jargon-with-plain-language-law)
-- [Senator Joe Manchin unveils bill that would expedite federal energy projects](https://www.theguardian.com/us-news/2022/sep/21/joe-manchin-energy-bill-fossil-fuels)
-- [Russia protests: more than 1,300 arrested at anti-war demonstrations](https://www.theguardian.com/world/2022/sep/22/russia-protests-more-than-1300-arrested-at-anti-war-demonstrations-ukraine)
+- [Unification Church says it accepted ‘excessive’ donations from mother of suspect in Abe killing](https://www.theguardian.com/world/2022/sep/23/unification-church-says-it-accepted-excessive-donations-from-mother-of-suspect-in-abe-killing)
+- [I greedily claimed free WhatsApp food but now I am burdened with the cheese touch | Brigid Delaney](https://www.theguardian.com/commentisfree/2022/sep/23/i-greedily-claimed-free-whatsapp-food-but-now-i-am-burdened-with-the-cheese-touch)
+- [Unprecedented events creating ‘extremely severe’ risk of global recession – economist Adam Tooze](https://www.theguardian.com/business/2022/sep/23/unprecedented-events-creating-extremely-severe-risk-of-global-recession-economist-adam-tooze)
+- [Can I Tell You a Secret, episode 1: the beginning - podcast](https://www.theguardian.com/news/audio/2022/sep/23/can-i-tell-you-a-secret-episode-1-the-beginning)
+- [Iran’s president says Mahsa Amini death must be investigated as protests grow](https://www.theguardian.com/world/2022/sep/23/iran-protests-2022-mahsa-amini-president-ebrahim-raisi-says-kurdish-woman-death-in-custody-must-be-investigated)
+- [Mutiny in Spain squad as 15 footballers refuse to play in bid to oust head coach](https://www.theguardian.com/football/2022/sep/23/mutiny-spain-squad-women-football-refuse-play-oust-head-coach-jorge-vilda)
+- [China’s former justice minister faces life in prison amid purge of security officials](https://www.theguardian.com/world/2022/sep/23/chinas-former-justice-minister-faces-life-in-prison-amid-purge-of-security-officials)
+- [Russia-Ukraine war latest: what we know on day 212 of the invasion](https://www.theguardian.com/world/2022/sep/23/russia-ukraine-war-latest-what-we-know-on-day-212-of-the-invasion)
+- [Tintagel among castles at risk unless England can hold back the tide](https://www.theguardian.com/culture/2022/sep/23/tintagel-among-castles-at-risk-coastal-erosion-english-heritage)
+- [Starmer must not ‘sit back’ if Labour is to win next election, Mandelson says](https://www.theguardian.com/politics/2022/sep/23/keir-starmer-labour-party-peter-mandelson-election)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

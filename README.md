@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Tech event calendar 2022: Upcoming US shows, conferences, and IT expos](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
+- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
+- [BrandPost: In the Battle Against Ransomware, Organizations Need to Enhance their Data Protection Capabilities](https://www.computerworld.com/article/3674050/in-the-battle-against-ransomware-organizations-need-to-enhance-their-data-protection-capabilities.html#tk.rss_all)
+- [Microsoft Viva enhancements address employee disconnect in hybrid work environments](https://www.computerworld.com/article/3674688/microsoft-viva-enhancements-address-employee-disconnect-in-hybrid-work-environments.html#tk.rss_all)
+- [UK&#39;s Ofcom to probe cloud services, messenger apps, and smart devices](https://www.computerworld.com/article/3674689/uks-ofcom-to-probe-cloud-services-messenger-apps-and-smart-devices.html#tk.rss_all)
+- [Google Sheets power tips: How to use filters and slicers](https://www.computerworld.com/article/3673903/google-sheets-how-to-use-filters-and-slicers.html#tk.rss_all)
 - [Six in 10 workers want to ditch the 40-hour work week, survey finds](https://www.computerworld.com/article/3674668/six-in-10-workers-want-to-ditch-the-40-hour-work-week-survey-finds.html#tk.rss_all)
 - [A tale of two companies: How Intel and Dell are creating better places to work](https://www.computerworld.com/article/3674155/a-tale-of-two-companies-how-intel-and-dell-are-creating-better-places-to-work.html#tk.rss_all)
-- [How to share Safari Tab Groups on iPhone](https://www.computerworld.com/article/3674217/how-to-share-safari-tab-groups-on-iphone.html#tk.rss_all)
-- [Windows 11 2022 Update is the version enterprises can move to](https://www.computerworld.com/article/3673902/windows-11-2022-update-is-the-version-enterprises-can-move-to.html#tk.rss_all)
-- [Windows 11 22H2: Small but welcome changes](https://www.computerworld.com/article/3673373/windows-11-22h2-small-but-welcome-changes.html#tk.rss_all)
-- [Macs still lead the ACSI survey as PCs go mobile and work goes remote](https://www.computerworld.com/article/3674312/macs-still-lead-the-acsi-survey-as-pcs-go-mobile-and-work-goes-remote.html#tk.rss_all)
-- [Slack launches new Slack Canvas tool at Dreamforce 2022](https://www.computerworld.com/article/3674125/slack-launches-new-slack-canvas-tool-at-dreamforce-2022.html#tk.rss_all)
-- [Android&#39;s underappreciated design revolution](https://www.computerworld.com/article/3674134/android-design-revolution.html#tk.rss_all)
-- [As Windows 11 22H2 draws near, Windows 10 hangs on](https://www.computerworld.com/article/3674056/as-windows-11-22h2-draws-near-windows-10-hangs-on.html#tk.rss_all)
-- [Google Workspace vs. Microsoft 365: What’s the best office suite for business?](https://www.computerworld.com/article/3515808/g-suite-vs-office-365-whats-the-best-office-suite-for-business.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

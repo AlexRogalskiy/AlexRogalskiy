@@ -400,16 +400,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Conversation between two police officers formed basis of EncroChat warrant, court hears](https://www.computerweekly.com/news/252525299/Conversation-between-two-police-officers-formed-basis-of-EncroChat-warrant-court-hears)
+- [The challenges of verifying AI for healthcare](https://www.computerweekly.com/news/252524829/The-challenges-of-verifying-AI-for-healthcare)
+- [It’s time for engineering teams to own DevSecOps](https://www.computerweekly.com/opinion/Its-time-for-engineering-teams-to-own-DevSecOps)
+- [NCA ‘deliberately concealed’ information when it applied for EncroChat warrants, tribunal hears](https://www.computerweekly.com/news/252525205/NCA-deliberately-concealed-information-when-it-applied-for-EncroChat-warrants-tribunal-hears)
+- [Threat actors abused lack of MFA, OAuth in spam campaign](https://www.computerweekly.com/news/252525290/Threat-actors-abused-lack-of-MFA-OAuth-in-spam-campaign)
+- [IR35 reforms to be scrapped in public and private sectors from April 2023, government confirms](https://www.computerweekly.com/news/252525296/IR35-reforms-to-be-scrapped-in-public-and-private-sectors-from-April-2023-government-confirms)
+- [Post Office scandal inquiry chair intervenes in slow compensation progress](https://www.computerweekly.com/news/252525291/Post-Office-scandal-inquiry-chair-intervenes-in-slow-compensation-progress)
+- [Mini-Budget 2022: HMRC tells firms to update payroll software ahead of November NI tax cut](https://www.computerweekly.com/news/252525286/Mini-Budget-2022-HMRC-tells-firms-to-update-payroll-software-now-before-November-NI-tax-cut)
 - [Tech Nation announces 13 startups for 11th Future Fifty cohort](https://www.computerweekly.com/news/252525256/Tech-Nation-announces-13-startups-for-11th-Future-Fifty-cohort)
 - [Ofcom turns its attention to the hyperscalers](https://www.computerweekly.com/news/252525242/Ofcom-turns-its-attention-to-the-hyperscalers)
-- [ALPHV/BlackCat ransomware family becoming more dangerous](https://www.computerweekly.com/news/252525240/ALPHV-BlackCat-ransomware-family-becoming-more-dangerous)
-- [Privacy Pledge signatories dream of alternative internet](https://www.computerweekly.com/news/252525237/Privacy-Pledge-signatories-dream-of-alternative-internet)
-- [Dr Martens goes feetfirst into cloud-to-cloud backup](https://www.computerweekly.com/news/252525238/Dr-Martens-goes-feetfirst-into-cloud-to-cloud-backup)
-- [Contractors call for IR35 review and tax cuts in Chancellor’s mini-Budget](https://www.computerweekly.com/news/252525206/Contractors-call-for-IR35-review-and-tax-cuts-in-Chancellors-mini-Budget)
-- [NCSC publishes cyber guidance for retailers](https://www.computerweekly.com/news/252525200/NCSC-publishes-cyber-guidance-for-retailers)
-- [15-year-old Python bug present in 350,000 open source projects](https://www.computerweekly.com/news/252525183/15-year-old-Python-bug-present-in-350k-open-source-projects)
-- [Mobile operators work on holographic calling pilot](https://www.computerweekly.com/news/252525195/Mobile-operators-work-on-holographic-calling-pilot)
-- [Dreamforce 2022: Benioff and Taylor uncork real-time Genie to toast ‘new day’](https://www.computerweekly.com/news/252525180/Dreamforce-2022-Benioff-uncorks-real-time-Genie-to-toast-new-day)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

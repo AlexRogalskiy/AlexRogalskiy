@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The South Asian Polycrisis](https://adamtooze.substack.com/p/chartbook-153-the-south-asian-polycrisis)
-- [Nightdrive](https://incoherency.co.uk/blog/stories/nightdrive.html)
-- [Uify: One Workspace](https://uify.io/)
-- [Super-Earths Are Bigger and More Habitable Than Earth, and Astronomers Are Di](https://singularityhub.com/2022/09/22/super-earths-are-bigger-and-more-habitable-than-earth-and-astronomers-are-discovering-more-of-the-billions-they-think-are-out-there/)
-- [A pair of Rust kernel modules](https://lwn.net/Articles/907685/)
-- [We Need New Motherboards Before GPUs Collapse Under Their Own Gravity](https://erikmcclure.com/blog/we-need-new-motherboards/)
-- [Rust 2024 the Year of Everywhere?](https://smallcultfollowing.com/babysteps/blog/2022/09/22/rust-2024-the-year-of-everywhere/)
-- [Avoiding homework with code &lpar;and getting caught&rpar;](https://alistair.blog/mochip)
-- [Despite faster broadband every year, web pages don&#39;t load any faster](https://www.datafantic.com/how-much-time-do-we-waste-waiting-for-websites-to-load/)
-- [Expanding access to the future of work with crypto payouts](https://stripe.com/newsroom/stories/braintrust-crypto-payouts)
+- [Get in Zoomer, We&#39;re Saving React](https://acko.net/blog/get-in-zoomer-we-re-saving-react/)
+- [Technology Choices for My SaaS in Retrospect](https://thomasbandt.com/technology-choices-in-retrospect)
+- [Something is haunting American Airlines’ announcements and nobody knows how](https://waxy.org/2022/09/a-mysterious-voice-is-haunting-american-airlines-in-flight-announcements-and-nobody-knows-how/)
+- [Optimizing compilers deduplicate strings and arrays](https://lemire.me/blog/2022/09/23/optimizing-compilers-deduplicate-strings-and-arrays/)
+- [Replit &lpar;YC W18&rpar; Is Hiring ML Engineers to Build AI for Code](https://replit.com/careers)
+- [The image in this post displays its own MD5 hash](https://retr0.id/notice/ANqlvFZD1eIqjmRiFc)
+- [At 4.4 miles, Wyoming team sets new rifle shot world record](https://cowboystatedaily.com/2022/09/20/at-4-4-miles-wyoming-team-sets-new-rifle-shot-world-record/)
+- [Algorithms and data structures implemented in many programming languages](https://the-algorithms.com/)
+- [&#39;Securing Open Source Software Act&#39; introduced to US Senate](https://www.hsgac.senate.gov/media/majority-media/peters-and-portman-introduce-bipartisan-legislation-to-help-secure-open-source-software_)
+- [Shasta: AI-powered audio recording and editing](https://pages.adobe.com/shasta/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

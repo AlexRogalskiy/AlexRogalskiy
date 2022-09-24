@@ -385,6 +385,9 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [What is the JDK? Introduction to the Java Development Kit](https://www.infoworld.com/article/3296360/what-is-the-jdk-introduction-to-the-java-development-kit.html#tk.rss_all)
+- [How devops in the cloud breaks down](https://www.infoworld.com/article/3674690/how-devops-in-the-cloud-breaks-down.html#tk.rss_all)
+- [What’s new in Rust 1.64](https://www.infoworld.com/article/3267624/whats-new-in-the-rust-language.html#tk.rss_all)
 - [Eclipse Jakarta EE upgrade zeroes in on cloud](https://www.infoworld.com/article/3674708/curtain-rises-on-eclipse-enterprise-java-upgrade.html#tk.rss_all)
 - [How to use route handler filters in minimal APIs in ASP.NET Core 7](https://www.infoworld.com/article/3674589/how-to-use-route-handler-filters-in-minimal-apis-in-aspnet-core-7.html#tk.rss_all)
 - [Intro to Redwood.js: Rapid application development with React](https://www.infoworld.com/article/3673314/intro-to-redwoodjs-rapid-application-development-with-react.html#tk.rss_all)
@@ -392,9 +395,6 @@
 - [Cppfront project aims to modernize C++](https://www.infoworld.com/article/3674213/cppfront-project-aims-to-modernize-c.html#tk.rss_all)
 - [Starburst’s new data products aim to ease cross-cloud analytics](https://www.infoworld.com/article/3674216/starburst-s-new-data-products-aim-to-ease-cross-cloud-analytics.html#tk.rss_all)
 - [Intro to Nuitka: A better way to compile and distribute Python](https://www.infoworld.com/article/3673932/intro-to-nuitka-a-better-way-to-compile-and-distribute-python-applications.html#tk.rss_all)
-- [JDK 19: The new features in Java 19](https://www.infoworld.com/article/3653331/jdk-19-the-new-features-in-java-19.html#tk.rss_all)
-- [3 wins and 3 losses for cloud computing](https://www.infoworld.com/article/3674135/3-wins-and-3-losses-for-cloud-computing.html#tk.rss_all)
-- [5 steps to lower Kubernetes costs](https://www.infoworld.com/article/3673261/5-steps-to-lower-kubernetes-costs.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

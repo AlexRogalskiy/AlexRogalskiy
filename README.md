@@ -370,6 +370,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Quick Study: Emerging Fintech](https://www.informationweek.com/fintech/quick-study-emerging-fintech)
+- [The Right System Architecture Will Reduce Software Failures](https://www.informationweek.com/software/the-right-system-architecture-will-reduce-software-failures)
 - [4 Lessons Learned From the Latest Uber Breach](https://www.informationweek.com/security-and-risk-strategy/4-lessons-learned-from-the-latest-uber-breach)
 - [Reduce the Pain of Modernizing Mainframes in 4 Steps](https://www.informationweek.com/strategic-cio/reduce-the-pain-of-modernizing-mainframes-in-4-steps)
 - [Mobile Tech Transforming Bill Payment Habits](https://www.informationweek.com/mobile/mobile-tech-transforming-bill-payment-habits)
@@ -378,8 +380,6 @@
 - [IT Talent Crunch Shifts Tech Investment Strategies](https://www.informationweek.com/strategic-cio/it-talent-crunch-shifts-tech-investment-strategies)
 - [How CIOs Can Prevent Themselves From Burning Out](https://www.informationweek.com/it-life/how-cios-can-prevent-themselves-from-burning-out)
 - [Creating an Inclusive Culture for Women in DevOps](https://www.informationweek.com/devops/creating-an-inclusive-culture-for-women-in-devops)
-- [Understanding SASE Security Efficacy in a Complex World](https://www.informationweek.com/palo-alto-networks/understanding-sase-security-efficacy-in-a-complex-world)
-- [Sam&#39;s Club CTO Talks Infrastructure Modernization, AI](https://www.informationweek.com/strategic-cio/sam-s-club-cto-talks-infrastructure-modernization-ai)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

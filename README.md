@@ -415,16 +415,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Need help on follow up email regarding potential job](https://www.reddit.com/r/InformationTechnology/comments/xmh5po/need_help_on_follow_up_email_regarding_potential/)
+- [Help Me Find: Hard Drive Rails/Trays for NAS](https://www.reddit.com/r/InformationTechnology/comments/xmbslz/help_me_find_hard_drive_railstrays_for_nas/)
+- [I felt like an idiot as a Information Technology Consultant?](https://www.reddit.com/r/InformationTechnology/comments/xm8ctv/i_felt_like_an_idiot_as_a_information_technology/)
+- [Help with those questions](https://www.reddit.com/r/InformationTechnology/comments/xm2m46/help_with_those_questions/)
+- [What is a &quot;digital watermark&quot; on a PDF?](https://www.reddit.com/r/InformationTechnology/comments/xm0x1a/what_is_a_digital_watermark_on_a_pdf/)
+- [Opening Presentation Multiple Devices](https://www.reddit.com/r/InformationTechnology/comments/xm05vt/opening_presentation_multiple_devices/)
 - [I feel so stupid asking IT for help](https://www.reddit.com/r/InformationTechnology/comments/xlawb9/i_feel_so_stupid_asking_it_for_help/)
 - [The Blind Exploits To Rule Watchguard Firewalls Vulnerabilities -- CVE-2022-31790](https://www.reddit.com/r/InformationTechnology/comments/xl8lln/the_blind_exploits_to_rule_watchguard_firewalls/)
 - [AD issue](https://www.reddit.com/r/InformationTechnology/comments/xl8bbi/ad_issue/)
 - [Fileless Viruses Vs RAM](https://www.reddit.com/r/InformationTechnology/comments/xl7djk/fileless_viruses_vs_ram/)
-- [Company iPhone Management](https://www.reddit.com/r/InformationTechnology/comments/xl6rjp/company_iphone_management/)
-- [How to count in binary](https://www.reddit.com/r/InformationTechnology/comments/xl6ie6/how_to_count_in_binary/)
-- [Cloud Engineering Immersive](https://www.reddit.com/r/InformationTechnology/comments/xl5q6o/cloud_engineering_immersive/)
-- [Role of IT Solutions in Business](https://www.reddit.com/r/InformationTechnology/comments/xkyepo/role_of_it_solutions_in_business/)
-- [Anybody familiar with ISC2 certs?](https://www.reddit.com/r/InformationTechnology/comments/xktfhn/anybody_familiar_with_isc2_certs/)
-- [&quot;It seems to me that a new CTO is trying to kick me and my team out&quot; - stories about ruining startup development](https://www.reddit.com/r/InformationTechnology/comments/xkryhm/it_seems_to_me_that_a_new_cto_is_trying_to_kick/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

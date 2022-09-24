@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Why the Obvious Geopolitics of the Taiwan Policy Act of 2022 Matter](https://thediplomat.com/2022/09/why-the-obvious-geopolitics-of-the-taiwan-policy-act-of-2022-matter/)
-- [Maps, the Territory, and Meta-Rationality](https://metarationality.com/maps-and-territory)
-- [Show HN: Cancerdb.com – Moonbathing](https://cancerdb.com/posts/moonbathing.html)
-- [Why no company has made a good AirTag wallet](https://www.inputmag.com/reviews/airtag-wallets-shady-world)
-- [Theodore&#39;s Royalty and Monarchy Site &lpar;2000–2022–&rpar;](http://www.royaltymonarchy.com/)
-- [Majority favor maximum age limits for elected officials](https://www.cbsnews.com/news/elected-officials-maximum-age-limits-opinion-poll-2022-09-08/)
-- [Noam Chomsky: The War in Ukraine Has Entered a New Phase](https://truthout.org/articles/noam-chomsky-the-war-in-ukraine-has-entered-a-new-phase/)
-- [USB 3.2 and 3.1 Explained: What&#39;s Gen 1, Gen 2 and Gen 2x2?](https://www.tomshardware.com/news/usb-3-2-explained)
-- [Soyuz rocket rolls out for launch of Russian-American crew to space station](https://spaceflightnow.com/2022/09/18/soyuz-rocket-rolls-out-for-launch-of-russian-american-crew-to-space-station/)
-- [Open platform for building developer portals by Spotify](https://backstage.io/)
+- [NFT firms say Apple rules make the App Store &#39;impossible&#39;](https://appleinsider.com/articles/22/09/23/nft-firms-say-apple-rules-make-the-app-store-impossible)
+- [Always Be Journaling &lpar;2018&rpar;](https://letterstoanewdeveloper.com/2018/12/14/always-be-journaling/)
+- [We the Purple People &lpar;2021&rpar;](https://www.getdbt.com/blog/we-the-purple-people/)
+- [Ops.io](https://community.ops.io/)
+- [Proposed new law to ban &lpar;some?&rpar; computer code in UK company names](https://decoded.legal/blog/2022/09/proposal-no-computer-code-in-company-names)
+- [UK authorities have arrested a teenager linked to GTA VI leak](https://arstechnica.com/gaming/2022/09/report-uk-authorities-have-arrested-a-teenager-linked-to-gta-vi-leak/)
+- [Centralized Logging Tool](https://clearinsights.io/logging/)
+- [Estimating the environmental impacts of 57,000 food products](https://www.pnas.org/doi/full/10.1073/pnas.2120584119)
+- [New &#39;Wolfi&#39; Linux Distro Focuses on Software Supply Chain Security](https://www.securityweek.com/new-wolfi-linux-distro-focuses-software-supply-chain-security)
+- [Open up, it&#39;s the IRS. We&#39;re here about the crypto tax you dodged](https://www.theregister.com/2022/09/23/irs_cryptocurrency_income_tax/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -430,16 +430,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [B.C. regional government acknowledges cyber attack](https://www.itworldcanada.com/article/b-c-regional-government-acknowledges-cyber-attack/504480)
+- [Lighthouse Labs tracks career trajectories of its alumni in new report](https://www.itworldcanada.com/article/lighthouse-labs-tracks-career-trajectories-of-its-alumni-in-new-report/504465)
+- [New 5G services uplift carrier speeds, but haven’t yet cut costs](https://www.itworldcanada.com/article/new-5g-services-uplift-carrier-speeds-but-havent-yet-cut-costs/504449)
+- [Cyber Security Today, Week in Review for September 23, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-september-23-2022/504380)
+- [CIRA announces off-network protection for DNS Firewall](https://www.itworldcanada.com/article/cira-announces-off-network-protection-for-dns-firewall/504431)
+- [Cisco Canada survey reveals innovation is not a priority for most Canadian organizations](https://www.itworldcanada.com/article/cisco-canada-survey-reveals-innovation-is-not-a-priority-for-most-canadian-organizations/504132)
+- [Cloud services to bridge digital divide between small and big companies: AWS Impact Report](https://www.itworldcanada.com/article/cloud-services-to-bridge-digital-divide-between-small-and-big-companies-aws-impact-report/503954)
+- [Cyber Security Today, Sept. 23, 2022 – How a lack of MFA contributed to a hack](https://www.itworldcanada.com/article/cyber-security-today-sept-23-2022-how-a-lack-of-mfa-contributed-to-a-hack/504385)
 - [ILX Group examines steps firms must take to future-proof themselves](https://www.itworldcanada.com/article/ilx-group-examines-steps-firms-must-take-to-future-proof-themselves/504377)
 - [Forbes names CGI one of the “World’s Best Management Consulting Firms”](https://www.itworldcanada.com/article/forbes-names-cgi-one-of-the-worlds-best-management-consulting-firms/504372)
-- [Hundreds of thousands of applications at risk from unpatched Python bug, say researchers](https://www.itworldcanada.com/article/hundreds-of-thousands-of-applications-at-risk-from-unpatched-python-bug-say-researchers/504333)
-- [Canadian dataware platform announces data liberation solution for credit unions](https://www.itworldcanada.com/article/canadian-dataware-platform-announces-data-liberation-solution-for-credit-unions/504336)
-- [Get rid of unencrypted email, fax in health sector, urge Canadian privacy regulators](https://www.itworldcanada.com/article/get-rid-of-unencrypted-email-fax-in-health-sector-urge-canadian-privacy-regulators/504311)
-- [Canadian SMBs, employees criticized for poor cybersecurity practices](https://www.itworldcanada.com/article/canadian-smbs-employees-criticized-for-poor-cybersecurity-practices/504284)
-- [Hashtag Trending Sept. 22 – Getty Images bans AI images; revive a lawsuit against Facebook; Morgan Stanley fined $35 million](https://www.itworldcanada.com/article/hashtag-trending-sept-22-getty-images-bans-ai-images-revive-a-lawsuit-against-facebook-morgan-stanley-fined-35-million/504164)
-- [Canadian households have $6 billion worth of dead cell phones lying around](https://www.itworldcanada.com/article/canadian-households-have-6-billion-worth-of-dead-cell-phones-lying-around/503845)
-- [Microsoft releases first Windows 11 major update](https://www.itworldcanada.com/article/microsoft-releases-first-windows-11-major-update/504141)
-- [As Canadians start travelling more, security risks increase](https://www.itworldcanada.com/article/as-canadians-start-travelling-more-security-risks-increase/503856)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

@@ -355,6 +355,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Podcast: iPhone 14 Pro: Buy or nah?](https://www.computerworld.com/article/3674808/podcast-iphone-14-pro-buy-or-nah.html#tk.rss_all)
+- [Jamf Pro now lets IT admins manage AWS Mac instances](https://www.computerworld.com/article/3674869/jamf-pro-now-lets-it-admins-manage-aws-mac-instances.html#tk.rss_all)
+- [3 smart settings for better Google Pixel battery life](https://www.computerworld.com/article/3674315/google-pixel-battery-life.html#tk.rss_all)
 - [Tech event calendar 2022: Upcoming US shows, conferences, and IT expos](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
@@ -362,9 +365,6 @@
 - [BrandPost: In the Battle Against Ransomware, Organizations Need to Enhance their Data Protection Capabilities](https://www.computerworld.com/article/3674050/in-the-battle-against-ransomware-organizations-need-to-enhance-their-data-protection-capabilities.html#tk.rss_all)
 - [Microsoft Viva enhancements address employee disconnect in hybrid work environments](https://www.computerworld.com/article/3674688/microsoft-viva-enhancements-address-employee-disconnect-in-hybrid-work-environments.html#tk.rss_all)
 - [UK&#39;s Ofcom to probe cloud services, messenger apps, and smart devices](https://www.computerworld.com/article/3674689/uks-ofcom-to-probe-cloud-services-messenger-apps-and-smart-devices.html#tk.rss_all)
-- [Google Sheets power tips: How to use filters and slicers](https://www.computerworld.com/article/3673903/google-sheets-how-to-use-filters-and-slicers.html#tk.rss_all)
-- [Six in 10 workers want to ditch the 40-hour work week, survey finds](https://www.computerworld.com/article/3674668/six-in-10-workers-want-to-ditch-the-40-hour-work-week-survey-finds.html#tk.rss_all)
-- [A tale of two companies: How Intel and Dell are creating better places to work](https://www.computerworld.com/article/3674155/a-tale-of-two-companies-how-intel-and-dell-are-creating-better-places-to-work.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

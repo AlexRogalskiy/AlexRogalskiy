@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [NFT firms say Apple rules make the App Store &#39;impossible&#39;](https://appleinsider.com/articles/22/09/23/nft-firms-say-apple-rules-make-the-app-store-impossible)
-- [Always Be Journaling &lpar;2018&rpar;](https://letterstoanewdeveloper.com/2018/12/14/always-be-journaling/)
-- [We the Purple People &lpar;2021&rpar;](https://www.getdbt.com/blog/we-the-purple-people/)
-- [Ops.io](https://community.ops.io/)
-- [Proposed new law to ban &lpar;some?&rpar; computer code in UK company names](https://decoded.legal/blog/2022/09/proposal-no-computer-code-in-company-names)
-- [UK authorities have arrested a teenager linked to GTA VI leak](https://arstechnica.com/gaming/2022/09/report-uk-authorities-have-arrested-a-teenager-linked-to-gta-vi-leak/)
-- [Centralized Logging Tool](https://clearinsights.io/logging/)
-- [Estimating the environmental impacts of 57,000 food products](https://www.pnas.org/doi/full/10.1073/pnas.2120584119)
-- [New &#39;Wolfi&#39; Linux Distro Focuses on Software Supply Chain Security](https://www.securityweek.com/new-wolfi-linux-distro-focuses-software-supply-chain-security)
-- [Open up, it&#39;s the IRS. We&#39;re here about the crypto tax you dodged](https://www.theregister.com/2022/09/23/irs_cryptocurrency_income_tax/)
+- [Catalytic Process with Lignin Could Enable 100% Sustainable Aviation Fuel](https://www.nrel.gov/news/press/2022/catalytic-process-with-lignin-could-enable-100-sustainable-aviation-fuel.html)
+- [Why your life could be part of someone else&#39;s game](https://www.bbc.com/future/article/20220920-why-your-life-could-be-part-of-someone-elses-game)
+- [Aeroflot Flight 593](https://en.wikipedia.org/wiki/Aeroflot_Flight_593)
+- [Compute North Files for Bankruptcy as Crypto-Mining Data Center Owes Up to $500M](https://www.coindesk.com/business/2022/09/22/crypto-mining-data-center-provider-compute-north-files-for-bankruptcy-protection/)
+- [LSTM to predict menstruation and menstrual cycles](https://github.com/lenakmeth/MenstruatioNN)
+- [&#39;Much worse than the 1970s: Historian Niall Ferguson has a warning for investors](https://www.youtube.com/watch?v=Q2vqnpXWM0Y)
+- [The Canadian tech boom is fizzling out](https://www.theglobeandmail.com/business/article-canadian-tech-startups-downturn-layoffs/)
+- [How I made this website and started writing blog](https://zihan.ga/post/3)
+- [X-15B &lpar;2019&rpar;](http://www.astronautix.com/x/x-15b.html)
+- [The Harry Partch Instrumentarium &lpar;2012&rpar;](https://www.youtube.com/watch?v=9UZjhTlGT0o)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

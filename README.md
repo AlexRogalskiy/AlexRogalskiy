@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [China says US sending ‘dangerous signals’ on Taiwan](https://www.theguardian.com/world/2022/sep/24/china-says-us-sending-dangerous-signals-on-taiwan)
-- [Russia-Ukraine war latest: what we know on day 213 of the invasion](https://www.theguardian.com/world/2022/sep/24/russia-ukraine-war-latest-what-we-know-on-day-213-of-the-invasion)
-- [Roger Federer bids emotional farewell in doubles defeat alongside Rafael Nadal](https://www.theguardian.com/sport/2022/sep/24/roger-federer-tennis-laver-cup-rafael-nadal-sock-tiafoe)
-- [Mini-budget 2022: what it means for you](https://www.theguardian.com/uk-news/2022/sep/23/mini-budget-2022-what-it-means-for-you)
-- [Interest in dangerous ‘NyQuil chicken’ videos surged after US agency warning](https://www.theguardian.com/technology/2022/sep/23/fda-nyquil-chicken-video-tiktok-trends-media)
-- [UK EuroMillions ticket-holder wins £171m jackpot](https://www.theguardian.com/uk-news/2022/sep/23/uk-euromillions-ticket-holder-wins-171m-jackpot)
-- [Am I Being Unreasonable? review – Daisy May Cooper is absurdly brilliant](https://www.theguardian.com/tv-and-radio/2022/sep/23/am-i-being-unreasonable-review-daisy-may-cooper-is-absurdly-brilliant)
-- [Ukraine downgrades ties with Tehran over drone supply to Russia](https://www.theguardian.com/world/2022/sep/23/ukraine-iran-russia-drone-diplomatic-ties)
-- [Monkeypox vaccine second doses available for most at risk, says UKHSA](https://www.theguardian.com/world/2022/sep/23/monkeypox-vaccine-second-doses-available-for-most-at-risk-says-ukhsa)
-- [US to expand internet access to help Iranians evade state surveillance](https://www.theguardian.com/world/2022/sep/23/us-iranians-internet-state-surveillance-protests-mahsa-amini)
+- [North Korea fires ballistic missile towards sea, says South Korean military](https://www.theguardian.com/world/2022/sep/25/north-korea-fires-ballistic-missile-says-south-korean-military)
+- [Nasa delays Artemis 1 moon rocket launch again as tropical storm Ian looms](https://www.theguardian.com/science/2022/sep/25/nasa-delays-artemis-1-moon-rocket-launch-again-as-tropical-storm-ian-looms)
+- [Death toll from sinking of Lebanon boat rises to 94](https://www.theguardian.com/world/2022/sep/24/lebanon-migrant-boat-sinking-syria-death-toll)
+- [Russia-Ukraine war latest: what we know on day 214 of the invasion](https://www.theguardian.com/world/2022/sep/25/russia-ukraine-war-latest-what-we-know-on-day-214-of-the-invasion)
+- [Porsche gears up for IPO thrills but dealmakers are stuck in the slow lane](https://www.theguardian.com/business/2022/sep/25/porsche-gears-up-for-ipo-thrills-but-dealmakers-are-stuck-in-the-slow-lane)
+- [Joe Joyce fells Joseph Parker to move towards world heavyweight title shot](https://www.theguardian.com/sport/2022/sep/25/joe-joyce-fells-joseph-parker-to-move-towards-world-heavyweight-title-shot)
+- [Wild West: actor Lydia West - in pictures](https://www.theguardian.com/fashion/gallery/2022/sep/24/wild-west-actor-lydia-west-in-pictures)
+- [Stride out: the new season’s finest footwear – in pictures](https://www.theguardian.com/fashion/gallery/2022/sep/24/stride-out-the-new-seasons-finest-footwear-in-pictures)
+- [Russia’s allies China and India call for negotiations to end Ukraine war](https://www.theguardian.com/world/2022/sep/24/russias-allies-china-and-india-call-for-negotiations-to-end-ukraine-war)
+- [Novak Djokovic stars as Europeans take Laver Cup control over Team World](https://www.theguardian.com/sport/2022/sep/24/novak-djokovic-stars-as-europeans-take-laver-cup-control-over-team-world)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

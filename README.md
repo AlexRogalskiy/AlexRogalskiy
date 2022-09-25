@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Get in Zoomer, We&#39;re Saving React](https://acko.net/blog/get-in-zoomer-we-re-saving-react/)
-- [Technology Choices for My SaaS in Retrospect](https://thomasbandt.com/technology-choices-in-retrospect)
-- [Something is haunting American Airlines’ announcements and nobody knows how](https://waxy.org/2022/09/a-mysterious-voice-is-haunting-american-airlines-in-flight-announcements-and-nobody-knows-how/)
-- [Optimizing compilers deduplicate strings and arrays](https://lemire.me/blog/2022/09/23/optimizing-compilers-deduplicate-strings-and-arrays/)
-- [Replit &lpar;YC W18&rpar; Is Hiring ML Engineers to Build AI for Code](https://replit.com/careers)
-- [The image in this post displays its own MD5 hash](https://retr0.id/notice/ANqlvFZD1eIqjmRiFc)
-- [At 4.4 miles, Wyoming team sets new rifle shot world record](https://cowboystatedaily.com/2022/09/20/at-4-4-miles-wyoming-team-sets-new-rifle-shot-world-record/)
-- [Algorithms and data structures implemented in many programming languages](https://the-algorithms.com/)
-- [&#39;Securing Open Source Software Act&#39; introduced to US Senate](https://www.hsgac.senate.gov/media/majority-media/peters-and-portman-introduce-bipartisan-legislation-to-help-secure-open-source-software_)
-- [Shasta: AI-powered audio recording and editing](https://pages.adobe.com/shasta/)
+- [This page is a truly naked, brutalist HTML quine](https://secretgeek.github.io/html_wysiwyg/html.html)
+- [I Fooled Millions into Thinking Chocolate Helps Weight Loss](https://gizmodo.com/i-fooled-millions-into-thinking-chocolate-helps-weight-1707251800)
+- [New Insignia for Air Domain Intelligence Has a UFO](https://www.airdomainintelligence.mil/)
+- [Okta Exposes Passwords in Clear Text for Possible Theft](https://www.darkreading.com/application-security/okta-exposes-passwords-clear-text-theft)
+- [GCP, AWS, and Azure ARM-based server performance comparison](https://apisix.apache.org/blog/2022/08/12/arm-performance-google-aws-azure-with-apisix/)
+- [webЯcade – WASM based retro emulation on any device](https://github.com/webrcade/webrcade)
+- [Firezone &lpar;YC W22&rpar; is hiring a founding engineer to build an open-source VPN](https://www.ycombinator.com/companies/firezone/jobs)
+- [Fixed-Point HTML](https://habilis.net/fixed-point-html/)
+- [iPhones and action discoverability](https://alexanderell.is/posts/iphone-discoverability/)
+- [Gadgetbridge is an Android application for your smart watch and other devices](https://gadgetbridge.org/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

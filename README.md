@@ -415,6 +415,9 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Entry level help desk position](https://www.reddit.com/r/InformationTechnology/comments/xn7ntw/entry_level_help_desk_position/)
+- [Best laptop for student in IT?](https://www.reddit.com/r/InformationTechnology/comments/xmrx65/best_laptop_for_student_in_it/)
+- [Nosy Scrum masters](https://www.reddit.com/r/InformationTechnology/comments/xmp11u/nosy_scrum_masters/)
 - [Need help on follow up email regarding potential job](https://www.reddit.com/r/InformationTechnology/comments/xmh5po/need_help_on_follow_up_email_regarding_potential/)
 - [Help Me Find: Hard Drive Rails/Trays for NAS](https://www.reddit.com/r/InformationTechnology/comments/xmbslz/help_me_find_hard_drive_railstrays_for_nas/)
 - [I felt like an idiot as a Information Technology Consultant?](https://www.reddit.com/r/InformationTechnology/comments/xm8ctv/i_felt_like_an_idiot_as_a_information_technology/)
@@ -422,9 +425,6 @@
 - [What is a &quot;digital watermark&quot; on a PDF?](https://www.reddit.com/r/InformationTechnology/comments/xm0x1a/what_is_a_digital_watermark_on_a_pdf/)
 - [Opening Presentation Multiple Devices](https://www.reddit.com/r/InformationTechnology/comments/xm05vt/opening_presentation_multiple_devices/)
 - [I feel so stupid asking IT for help](https://www.reddit.com/r/InformationTechnology/comments/xlawb9/i_feel_so_stupid_asking_it_for_help/)
-- [The Blind Exploits To Rule Watchguard Firewalls Vulnerabilities -- CVE-2022-31790](https://www.reddit.com/r/InformationTechnology/comments/xl8lln/the_blind_exploits_to_rule_watchguard_firewalls/)
-- [AD issue](https://www.reddit.com/r/InformationTechnology/comments/xl8bbi/ad_issue/)
-- [Fileless Viruses Vs RAM](https://www.reddit.com/r/InformationTechnology/comments/xl7djk/fileless_viruses_vs_ram/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

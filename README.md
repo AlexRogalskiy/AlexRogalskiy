@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Catalytic Process with Lignin Could Enable 100% Sustainable Aviation Fuel](https://www.nrel.gov/news/press/2022/catalytic-process-with-lignin-could-enable-100-sustainable-aviation-fuel.html)
-- [Why your life could be part of someone else&#39;s game](https://www.bbc.com/future/article/20220920-why-your-life-could-be-part-of-someone-elses-game)
-- [Aeroflot Flight 593](https://en.wikipedia.org/wiki/Aeroflot_Flight_593)
-- [Compute North Files for Bankruptcy as Crypto-Mining Data Center Owes Up to $500M](https://www.coindesk.com/business/2022/09/22/crypto-mining-data-center-provider-compute-north-files-for-bankruptcy-protection/)
-- [LSTM to predict menstruation and menstrual cycles](https://github.com/lenakmeth/MenstruatioNN)
-- [&#39;Much worse than the 1970s: Historian Niall Ferguson has a warning for investors](https://www.youtube.com/watch?v=Q2vqnpXWM0Y)
-- [The Canadian tech boom is fizzling out](https://www.theglobeandmail.com/business/article-canadian-tech-startups-downturn-layoffs/)
-- [How I made this website and started writing blog](https://zihan.ga/post/3)
-- [X-15B &lpar;2019&rpar;](http://www.astronautix.com/x/x-15b.html)
-- [The Harry Partch Instrumentarium &lpar;2012&rpar;](https://www.youtube.com/watch?v=9UZjhTlGT0o)
+- [In the Unlikely Event](https://99percentinvisible.org/episode/in-the-unlikely-event/)
+- [Journalists – 2022 Midterm Elections – Legal Guide](https://www.rcfp.org/resources/election-legal-guide/)
+- [Hacked and Banned from Facebook](https://news.ycombinator.com/item?id=32979435)
+- [AI Knows How You Got That Perfect Instagram Photo](https://www.nytimes.com/2022/09/24/technology/surveillance-footage-instagram.html)
+- [Archives of PoC ‖ GTFO – Proof of Concept or Get the Fuck Out](https://pocorgtfo.hacke.rs/)
+- [The Privacy Properties of the Nym Mixnet &lpar;2020&rpar;](https://blog.nymtech.net/to-defeat-five-eyes-surveillance-youll-need-the-privacy-properties-of-the-nym-mixnet-dd233431e7cc)
+- [Outfit: Virtual Shopping](https://www.outfitappt.com/)
+- [The Database CI/CD Best Practice with GitHub](https://www.bytebase.com/blog/database-cicd-best-practice-with-github)
+- [How many ants live on Earth? Scientists finally have an answer](https://www.science.org/content/article/how-many-ants-live-earth)
+- [Hobbits and the Hard Right: How Fantasy Inspires Italy’s Potential New Leader](https://www.nytimes.com/2022/09/21/world/europe/giorgia-meloni-lord-of-the-rings.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

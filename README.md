@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [This page is a truly naked, brutalist HTML quine](https://secretgeek.github.io/html_wysiwyg/html.html)
-- [I Fooled Millions into Thinking Chocolate Helps Weight Loss](https://gizmodo.com/i-fooled-millions-into-thinking-chocolate-helps-weight-1707251800)
-- [New Insignia for Air Domain Intelligence Has a UFO](https://www.airdomainintelligence.mil/)
-- [Okta Exposes Passwords in Clear Text for Possible Theft](https://www.darkreading.com/application-security/okta-exposes-passwords-clear-text-theft)
-- [GCP, AWS, and Azure ARM-based server performance comparison](https://apisix.apache.org/blog/2022/08/12/arm-performance-google-aws-azure-with-apisix/)
-- [webЯcade – WASM based retro emulation on any device](https://github.com/webrcade/webrcade)
-- [Firezone &lpar;YC W22&rpar; is hiring a founding engineer to build an open-source VPN](https://www.ycombinator.com/companies/firezone/jobs)
-- [Fixed-Point HTML](https://habilis.net/fixed-point-html/)
-- [iPhones and action discoverability](https://alexanderell.is/posts/iphone-discoverability/)
-- [Gadgetbridge is an Android application for your smart watch and other devices](https://gadgetbridge.org/)
+- [McKinsey and Providence colluded to force poor patients into destitution](https://pluralistic.net/2022/09/25/criminal-conspiracy/#payment-is-expected)
+- [50 Years Ago, Sugar Industry Quietly Paid Scientists to Point Blame at Fat &lpar;2016&rpar;](https://www.npr.org/sections/thetwo-way/2016/09/13/493739074/50-years-ago-sugar-industry-quietly-paid-scientists-to-point-blame-at-fat)
+- [British pound plunged to hit a record low of $1.0382](https://www.cnbc.com/2022/09/26/sterling-hits-record-low-against-the-dollar-as-other-asia-pacific-currencies-weaken.html)
+- [Adversarial Collaboration](https://www.edge.org/adversarial-collaboration-daniel-kahneman)
+- [JMAP: It’s Like IMAP but Not Really &lpar;2019&rpar;](https://unencumberedbyfacts.com/2019/01/24/jmap-its-like-imap-but-not-really/)
+- [Exploring Time and Order in Distributed Systems](https://voidpapers.substack.com/p/voidpapers-time-clocks-and-the-ordering)
+- [Katara: Synthesizing CRDTs with Verified Lifting](https://arxiv.org/abs/2205.12425)
+- [Downturn Career Decisions](https://lethain.com/downturn-career-decisions/)
+- [Mcmaster.com is the best e-commerce site I&#39;ve ever used](https://www.bedelstein.com/post/mcmaster-carr)
+- [Show HN: A Little Tool to Visualize Guitar Chords](https://muted.io/guitar-chords/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

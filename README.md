@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [North Korea fires ballistic missile towards sea, says South Korean military](https://www.theguardian.com/world/2022/sep/25/north-korea-fires-ballistic-missile-says-south-korean-military)
-- [Nasa delays Artemis 1 moon rocket launch again as tropical storm Ian looms](https://www.theguardian.com/science/2022/sep/25/nasa-delays-artemis-1-moon-rocket-launch-again-as-tropical-storm-ian-looms)
-- [Death toll from sinking of Lebanon boat rises to 94](https://www.theguardian.com/world/2022/sep/24/lebanon-migrant-boat-sinking-syria-death-toll)
-- [Russia-Ukraine war latest: what we know on day 214 of the invasion](https://www.theguardian.com/world/2022/sep/25/russia-ukraine-war-latest-what-we-know-on-day-214-of-the-invasion)
-- [Porsche gears up for IPO thrills but dealmakers are stuck in the slow lane](https://www.theguardian.com/business/2022/sep/25/porsche-gears-up-for-ipo-thrills-but-dealmakers-are-stuck-in-the-slow-lane)
-- [Joe Joyce fells Joseph Parker to move towards world heavyweight title shot](https://www.theguardian.com/sport/2022/sep/25/joe-joyce-fells-joseph-parker-to-move-towards-world-heavyweight-title-shot)
-- [Wild West: actor Lydia West - in pictures](https://www.theguardian.com/fashion/gallery/2022/sep/24/wild-west-actor-lydia-west-in-pictures)
-- [Stride out: the new season’s finest footwear – in pictures](https://www.theguardian.com/fashion/gallery/2022/sep/24/stride-out-the-new-seasons-finest-footwear-in-pictures)
-- [Russia’s allies China and India call for negotiations to end Ukraine war](https://www.theguardian.com/world/2022/sep/24/russias-allies-china-and-india-call-for-negotiations-to-end-ukraine-war)
-- [Novak Djokovic stars as Europeans take Laver Cup control over Team World](https://www.theguardian.com/sport/2022/sep/24/novak-djokovic-stars-as-europeans-take-laver-cup-control-over-team-world)
+- [Italy elections: Giorgia Meloni hails ‘night of pride’ as exit polls point to far-right coalition victory](https://www.theguardian.com/world/2022/sep/25/italy-elections-exit-polls-point-to-victory-for-coalition-led-by-far-right-giorgia-meloni)
+- [Five rescuers killed after Super Typhoon Noru hits the Philippines](https://www.theguardian.com/world/2022/sep/26/rescuers-killed-after-super-typhoon-noru-hits-philippines)
+- [Hong Kong’s Cardinal Zen goes on trial over fund defending arrested protesters](https://www.theguardian.com/world/2022/sep/26/hong-kongs-cardinal-zen-goes-on-trial-over-fund-defending-arrested-protesters)
+- [Four arrested over alleged plot to kidnap Belgian justice minister](https://www.theguardian.com/world/2022/sep/26/four-arrested-over-alleged-plot-to-kidnap-belgian-justice-minister)
+- [Pound hits all-time low against dollar after mini-budget rocks markets](https://www.theguardian.com/business/2022/sep/25/city-braces-for-more-volatility-mini-budget-rocks-pound-parity-dollar-bond-tax)
+- [The secrets of Lake Mead and the drought exposing them](https://www.theguardian.com/news/audio/2022/sep/26/the-secrets-of-lake-mead-and-the-drought-exposing-them)
+- [Death toll grows in Iran as Mahsa Amini protests continue for 10th night](https://www.theguardian.com/world/2022/sep/26/death-toll-grows-in-iran-as-mahsa-amini-protests-continue-for-10th-night)
+- [‘A generational talent’: Rihanna to perform Super Bowl half-time show](https://www.theguardian.com/sport/2022/sep/26/a-generational-talent-rihanna-to-perform-super-bowl-half-time-show)
+- [Two US veterans back in Alabama after Russian captivity in Ukraine](https://www.theguardian.com/us-news/2022/sep/25/us-veterans-drueke-huynh-alabama-russian-captivity-ukraine)
+- [Australian surfer Chris Davidson dies after punch outside pub](https://www.theguardian.com/sport/2022/sep/26/australian-surfer-chris-davidson-dies-after-punch-outside-pub)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

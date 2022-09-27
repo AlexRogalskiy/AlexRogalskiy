@@ -415,6 +415,9 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Thinking about starting I.T business](https://www.reddit.com/r/InformationTechnology/comments/xor4o2/thinking_about_starting_it_business/)
+- [How valuable is a college degree if I already have an IT job?](https://www.reddit.com/r/InformationTechnology/comments/xoomju/how_valuable_is_a_college_degree_if_i_already/)
+- [Any platforms like instagram and whatsapp which u cant download in googleplay?](https://www.reddit.com/r/InformationTechnology/comments/xogxsk/any_platforms_like_instagram_and_whatsapp_which_u/)
 - [Learn Rust?](https://www.reddit.com/r/InformationTechnology/comments/xo62sd/learn_rust/)
 - [Would you play/use an I.T. Operations Simulator Game?](https://www.reddit.com/r/InformationTechnology/comments/xo3g5y/would_you_playuse_an_it_operations_simulator_game/)
 - [Extremely frustrated with my current IT job](https://www.reddit.com/r/InformationTechnology/comments/xo2xvi/extremely_frustrated_with_my_current_it_job/)
@@ -422,9 +425,6 @@
 - [Advice for post-grad &lpar;data science/informatics](https://www.reddit.com/r/InformationTechnology/comments/xnre29/advice_for_postgrad_data_scienceinformatics/)
 - [Entry level help desk position](https://www.reddit.com/r/InformationTechnology/comments/xn7ntw/entry_level_help_desk_position/)
 - [Best laptop for student in IT?](https://www.reddit.com/r/InformationTechnology/comments/xmrx65/best_laptop_for_student_in_it/)
-- [Nosy Scrum masters](https://www.reddit.com/r/InformationTechnology/comments/xmp11u/nosy_scrum_masters/)
-- [Need help on follow up email regarding potential job](https://www.reddit.com/r/InformationTechnology/comments/xmh5po/need_help_on_follow_up_email_regarding_potential/)
-- [Help Me Find: Hard Drive Rails/Trays for NAS](https://www.reddit.com/r/InformationTechnology/comments/xmbslz/help_me_find_hard_drive_railstrays_for_nas/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

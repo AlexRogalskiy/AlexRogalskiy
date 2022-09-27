@@ -370,6 +370,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Data Management Models for the Cloud](https://www.informationweek.com/cloud/data-management-models-for-the-cloud)
+- [Top 10 Trends Transforming the Cloud, According to Forrester](https://www.informationweek.com/cloud/top-10-trends-transforming-the-cloud-according-to-forrester)
+- [5 Reasons Why SMBs Should be America’s Cloud Role Models](https://www.informationweek.com/cloud/5-reasons-why-smbs-should-be-america-s-cloud-role-models)
 - [Quick Study: Emerging Fintech](https://www.informationweek.com/fintech/quick-study-emerging-fintech)
 - [The Right System Architecture Will Reduce Software Failures](https://www.informationweek.com/software/the-right-system-architecture-will-reduce-software-failures)
 - [4 Lessons Learned From the Latest Uber Breach](https://www.informationweek.com/security-and-risk-strategy/4-lessons-learned-from-the-latest-uber-breach)
@@ -377,9 +380,6 @@
 - [Mobile Tech Transforming Bill Payment Habits](https://www.informationweek.com/mobile/mobile-tech-transforming-bill-payment-habits)
 - [Attracting Talent Now Requires a Work from Anywhere Program](https://www.informationweek.com/it-life/attracting-talent-now-requires-a-work-from-anywhere-program)
 - [How IT Leaders Can Be Proactive in the Face of Change](https://www.informationweek.com/it-life/how-it-leaders-can-be-proactive-in-the-face-of-change)
-- [IT Talent Crunch Shifts Tech Investment Strategies](https://www.informationweek.com/strategic-cio/it-talent-crunch-shifts-tech-investment-strategies)
-- [How CIOs Can Prevent Themselves From Burning Out](https://www.informationweek.com/it-life/how-cios-can-prevent-themselves-from-burning-out)
-- [Creating an Inclusive Culture for Women in DevOps](https://www.informationweek.com/devops/creating-an-inclusive-culture-for-women-in-devops)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

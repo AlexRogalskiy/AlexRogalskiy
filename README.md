@@ -430,16 +430,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Nvidia GeForce RTX 4000 series graphics cards: promising specs but major pricing problems](https://www.itworldcanada.com/article/nvidia-geforce-rtx-4000-series-graphics-cards-promising-specs-but-major-pricing-problems/504343)
+- [Infosec leaders deferring transformation, consolidating tools as fears of recession increase](https://www.itworldcanada.com/article/infosec-leaders-deferring-transformation-consolidating-tools-as-fears-of-recession-increase/504825)
+- [Microsoft and OPG announce Canada-first partnership to power a Net-Zero future in Ontario](https://www.itworldcanada.com/article/microsoft-and-opg-announce-canada-first-partnership-to-power-a-net-zero-future-in-ontario/504968)
+- [MSE’s zeroing in on three key top technology priorities: Gartner](https://www.itworldcanada.com/article/mses-zeroing-in-on-three-key-top-technology-priorities-gartner/504966)
+- [Hashtag Trending Weekend Edition, September 23, 2022 – Today we are going to hear an interview with Alan Hoving about his experience as an early citizen on Second Life.](https://www.itworldcanada.com/article/hashtag-trending-weekend-edition-september-23-2022-today-we-are-going-to-hear-an-interview-with-alan-hoving-about-his-experience-as-an-early-citizen-on-second-life/504964)
+- [Cyber Security Today, Sept. 26, 2022 – Arrest of a teen in UK may be tied to Uber and other hacks, a huge credit card scam revealed, and more](https://www.itworldcanada.com/article/cyber-security-today-sept-26-2022-arrest-of-a-teen-in-uk-may-be-tied-to-uber-and-other-hacks-a-huge-credit-card-scam-revealed-and-more/504808)
 - [B.C. regional government acknowledges cyber attack](https://www.itworldcanada.com/article/b-c-regional-government-acknowledges-cyber-attack/504480)
 - [Lighthouse Labs tracks career trajectories of its alumni in new report](https://www.itworldcanada.com/article/lighthouse-labs-tracks-career-trajectories-of-its-alumni-in-new-report/504465)
 - [New 5G services uplift carrier speeds, but haven’t yet cut costs](https://www.itworldcanada.com/article/new-5g-services-uplift-carrier-speeds-but-havent-yet-cut-costs/504449)
 - [Cyber Security Today, Week in Review for September 23, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-september-23-2022/504380)
-- [CIRA announces off-network protection for DNS Firewall](https://www.itworldcanada.com/article/cira-announces-off-network-protection-for-dns-firewall/504431)
-- [Cisco Canada survey reveals innovation is not a priority for most Canadian organizations](https://www.itworldcanada.com/article/cisco-canada-survey-reveals-innovation-is-not-a-priority-for-most-canadian-organizations/504132)
-- [Cloud services to bridge digital divide between small and big companies: AWS Impact Report](https://www.itworldcanada.com/article/cloud-services-to-bridge-digital-divide-between-small-and-big-companies-aws-impact-report/503954)
-- [Cyber Security Today, Sept. 23, 2022 – How a lack of MFA contributed to a hack](https://www.itworldcanada.com/article/cyber-security-today-sept-23-2022-how-a-lack-of-mfa-contributed-to-a-hack/504385)
-- [ILX Group examines steps firms must take to future-proof themselves](https://www.itworldcanada.com/article/ilx-group-examines-steps-firms-must-take-to-future-proof-themselves/504377)
-- [Forbes names CGI one of the “World’s Best Management Consulting Firms”](https://www.itworldcanada.com/article/forbes-names-cgi-one-of-the-worlds-best-management-consulting-firms/504372)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

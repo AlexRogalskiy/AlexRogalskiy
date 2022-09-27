@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [McKinsey and Providence colluded to force poor patients into destitution](https://pluralistic.net/2022/09/25/criminal-conspiracy/#payment-is-expected)
-- [50 Years Ago, Sugar Industry Quietly Paid Scientists to Point Blame at Fat &lpar;2016&rpar;](https://www.npr.org/sections/thetwo-way/2016/09/13/493739074/50-years-ago-sugar-industry-quietly-paid-scientists-to-point-blame-at-fat)
-- [British pound plunged to hit a record low of $1.0382](https://www.cnbc.com/2022/09/26/sterling-hits-record-low-against-the-dollar-as-other-asia-pacific-currencies-weaken.html)
-- [Adversarial Collaboration](https://www.edge.org/adversarial-collaboration-daniel-kahneman)
-- [JMAP: It’s Like IMAP but Not Really &lpar;2019&rpar;](https://unencumberedbyfacts.com/2019/01/24/jmap-its-like-imap-but-not-really/)
-- [Exploring Time and Order in Distributed Systems](https://voidpapers.substack.com/p/voidpapers-time-clocks-and-the-ordering)
-- [Katara: Synthesizing CRDTs with Verified Lifting](https://arxiv.org/abs/2205.12425)
-- [Downturn Career Decisions](https://lethain.com/downturn-career-decisions/)
-- [Mcmaster.com is the best e-commerce site I&#39;ve ever used](https://www.bedelstein.com/post/mcmaster-carr)
-- [Show HN: A Little Tool to Visualize Guitar Chords](https://muted.io/guitar-chords/)
+- [New Release: 0 A.D. Alpha 26: Zhuangzi &lpar;Open Source Ancient Warfare RTS&rpar;](https://play0ad.com/new-release-0-a-d-alpha-26-zhuangzi/)
+- [The Next Century of Computing](https://bzogrammer.substack.com/p/the-next-century-of-computing)
+- [Why Feelings of Guilt May Signal Leadership Potential](https://www.gsb.stanford.edu/insights/why-feelings-guilt-may-signal-leadership-potential)
+- [Stop Overcomplicating It: The Simple Guidebook to Upping Your Management Game](https://review.firstround.com/stop-overcomplicating-it-the-simple-guidebook-to-upping-your-management-game)
+- [Physicists Rewrite a Quantum Rule That Clashes with Our Universe](https://www.quantamagazine.org/physicists-rewrite-a-quantum-rule-that-clashes-with-our-universe-20220926/)
+- [Experimenting a New Syntax to Write SVG](https://yuanchuan.dev/experimenting-a-new-syntax-to-write-svg)
+- [Ignite – Use Firecracker VMs with Docker images](https://github.com/weaveworks/ignite)
+- [Only Persistent Login](http://avodonosov.blogspot.com/2022/09/google-login-dialog-does-not-have.html)
+- [Enhance: a web standards-based HTML framework](https://enhance.dev/docs/)
+- [Isolates, microVMs, and WebAssembly](https://notes.crmarsh.com/isolates-microvms-and-webassembly)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

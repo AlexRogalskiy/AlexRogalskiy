@@ -400,16 +400,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Bank warns of spike in online cost-of-living scams](https://www.computerweekly.com/news/252525391/Bank-warns-of-spike-in-online-cost-of-living-scams)
+- [How Russian intelligence hacked the encrypted emails of former MI6 boss Richard Dearlove](https://www.computerweekly.com/news/252525366/How-Russian-intelligence-hacked-the-encrypted-emails-of-former-MI6-boss-Richard-Dearlove)
+- [Data analysis and artificial intelligence key industrial strategy missions for Labour](https://www.computerweekly.com/news/252525379/Data-analysis-and-artificial-intelligence-key-industrial-strategy-missions-for-Labour)
+- [More than 30 startups to join Plexal’s Cyber Runway accelerator](https://www.computerweekly.com/news/252525372/More-than-30-startups-to-join-Plexals-Cyber-Runway-accelerator)
+- [Tech salaries continue to increase as firms search for talent](https://www.computerweekly.com/news/252525370/Tech-salaries-continue-to-increase-as-firms-search-for-talent)
+- [PoINT to offer on-site S3 object storage archive on disk and tape](https://www.computerweekly.com/news/252525364/PoINT-to-offer-on-site-S3-object-storage-archive-on-disk-and-tape)
+- [FCSA calls for government clampdown on cloned umbrella companies](https://www.computerweekly.com/news/252525362/FCSA-calls-for-government-clampdown-on-cloned-umbrella-companies)
+- [Microsoft Azure UK region to host data of five million healthcare research scheme volunteers](https://www.computerweekly.com/news/252525354/Microsoft-Azure-UK-region-to-host-data-of-five-million-healthcare-research-scheme-volunteers)
 - [Conversation between two police officers formed basis of EncroChat warrant, court hears](https://www.computerweekly.com/news/252525299/Conversation-between-two-police-officers-formed-basis-of-EncroChat-warrant-court-hears)
 - [The challenges of verifying AI for healthcare](https://www.computerweekly.com/news/252524829/The-challenges-of-verifying-AI-for-healthcare)
-- [It’s time for engineering teams to own DevSecOps](https://www.computerweekly.com/opinion/Its-time-for-engineering-teams-to-own-DevSecOps)
-- [NCA ‘deliberately concealed’ information when it applied for EncroChat warrants, tribunal hears](https://www.computerweekly.com/news/252525205/NCA-deliberately-concealed-information-when-it-applied-for-EncroChat-warrants-tribunal-hears)
-- [Threat actors abused lack of MFA, OAuth in spam campaign](https://www.computerweekly.com/news/252525290/Threat-actors-abused-lack-of-MFA-OAuth-in-spam-campaign)
-- [IR35 reforms to be scrapped in public and private sectors from April 2023, government confirms](https://www.computerweekly.com/news/252525296/IR35-reforms-to-be-scrapped-in-public-and-private-sectors-from-April-2023-government-confirms)
-- [Post Office scandal inquiry chair intervenes in slow compensation progress](https://www.computerweekly.com/news/252525291/Post-Office-scandal-inquiry-chair-intervenes-in-slow-compensation-progress)
-- [Mini-Budget 2022: HMRC tells firms to update payroll software ahead of November NI tax cut](https://www.computerweekly.com/news/252525286/Mini-Budget-2022-HMRC-tells-firms-to-update-payroll-software-now-before-November-NI-tax-cut)
-- [Tech Nation announces 13 startups for 11th Future Fifty cohort](https://www.computerweekly.com/news/252525256/Tech-Nation-announces-13-startups-for-11th-Future-Fifty-cohort)
-- [Ofcom turns its attention to the hyperscalers](https://www.computerweekly.com/news/252525242/Ofcom-turns-its-attention-to-the-hyperscalers)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

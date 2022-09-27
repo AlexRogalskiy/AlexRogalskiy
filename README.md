@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [In the Unlikely Event](https://99percentinvisible.org/episode/in-the-unlikely-event/)
-- [Journalists – 2022 Midterm Elections – Legal Guide](https://www.rcfp.org/resources/election-legal-guide/)
-- [Hacked and Banned from Facebook](https://news.ycombinator.com/item?id=32979435)
-- [AI Knows How You Got That Perfect Instagram Photo](https://www.nytimes.com/2022/09/24/technology/surveillance-footage-instagram.html)
-- [Archives of PoC ‖ GTFO – Proof of Concept or Get the Fuck Out](https://pocorgtfo.hacke.rs/)
-- [The Privacy Properties of the Nym Mixnet &lpar;2020&rpar;](https://blog.nymtech.net/to-defeat-five-eyes-surveillance-youll-need-the-privacy-properties-of-the-nym-mixnet-dd233431e7cc)
-- [Outfit: Virtual Shopping](https://www.outfitappt.com/)
-- [The Database CI/CD Best Practice with GitHub](https://www.bytebase.com/blog/database-cicd-best-practice-with-github)
-- [How many ants live on Earth? Scientists finally have an answer](https://www.science.org/content/article/how-many-ants-live-earth)
-- [Hobbits and the Hard Right: How Fantasy Inspires Italy’s Potential New Leader](https://www.nytimes.com/2022/09/21/world/europe/giorgia-meloni-lord-of-the-rings.html)
+- [A Mathematician’s Lament by Paul Lockhart [pdf]](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf)
+- [Cost of public EV charging rises by more than 42% in four months](https://www.autocar.co.uk/car-news/consumer/cost-public-ev-charging-rises-more-42-four-months)
+- [NASA just crashed a spacecraft into an asteroid to see what would happen](https://www.theverge.com/2022/9/26/23372818/nasa-dart-crash-asteroid-redirect)
+- [BBC Sound Effects](https://sound-effects.bbcrewind.co.uk/)
+- [Multiple driverless Cruise cars block traffic in San Francisco](https://www.sfgate.com/local/article/driverless-cruise-cars-block-SF-traffic-17467985.php)
+- [Bayes&#39; Rule: Guide](https://arbital.com/p/bayes_rule/?l=1zq)
+- [Want to learn Linux but scared to damage system](https://news.ycombinator.com/item?id=32991410)
+- [Linux 6.0 Merges the AMD Performance Fix for the Old “Dummy Wait” Workaround](https://www.phoronix.com/news/Linux-6.0-AMD-Chipset-WA)
+- [Ask HN: Fast superhuman/linear-like syncing service?](https://news.ycombinator.com/item?id=32991383)
+- [Atlas observations of the DART spacecraft impact at Didymos](https://twitter.com/fallingstarIfA/status/1574583529731670021)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

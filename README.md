@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Windows 11 22H2 gets a slew of new group policy changes](https://www.computerworld.com/article/3674835/windows-11-22h2-gets-a-slew-of-new-group-policy-changes.html#tk.rss_all)
+- [Tech event calendar 2022: Upcoming US shows, conferences, and IT expos](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
+- [Jamf buys ZecOps to bring  high-end security to Apple enterprise](https://www.computerworld.com/article/3674792/jamf-buys-zecops-to-bring-world-class-security-to-apple-enterprise.html#tk.rss_all)
+- [Four-day workweek pilot shows wide support for a 32-hour week](https://www.computerworld.com/article/3674829/four-day-workweek-pilot-shows-wide-support-for-a-32-hour-week.html#tk.rss_all)
 - [Podcast: iPhone 14 Pro: Buy or nah?](https://www.computerworld.com/article/3674808/podcast-iphone-14-pro-buy-or-nah.html#tk.rss_all)
 - [Jamf Pro now lets IT admins manage AWS Mac instances](https://www.computerworld.com/article/3674869/jamf-pro-now-lets-it-admins-manage-aws-mac-instances.html#tk.rss_all)
 - [3 smart settings for better Google Pixel battery life](https://www.computerworld.com/article/3674315/google-pixel-battery-life.html#tk.rss_all)
-- [Tech event calendar 2022: Upcoming US shows, conferences, and IT expos](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
 - [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
-- [BrandPost: In the Battle Against Ransomware, Organizations Need to Enhance their Data Protection Capabilities](https://www.computerworld.com/article/3674050/in-the-battle-against-ransomware-organizations-need-to-enhance-their-data-protection-capabilities.html#tk.rss_all)
-- [Microsoft Viva enhancements address employee disconnect in hybrid work environments](https://www.computerworld.com/article/3674688/microsoft-viva-enhancements-address-employee-disconnect-in-hybrid-work-environments.html#tk.rss_all)
-- [UK&#39;s Ofcom to probe cloud services, messenger apps, and smart devices](https://www.computerworld.com/article/3674689/uks-ofcom-to-probe-cloud-services-messenger-apps-and-smart-devices.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

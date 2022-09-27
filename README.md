@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Italy elections: Giorgia Meloni hails ‘night of pride’ as exit polls point to far-right coalition victory](https://www.theguardian.com/world/2022/sep/25/italy-elections-exit-polls-point-to-victory-for-coalition-led-by-far-right-giorgia-meloni)
-- [Five rescuers killed after Super Typhoon Noru hits the Philippines](https://www.theguardian.com/world/2022/sep/26/rescuers-killed-after-super-typhoon-noru-hits-philippines)
-- [Hong Kong’s Cardinal Zen goes on trial over fund defending arrested protesters](https://www.theguardian.com/world/2022/sep/26/hong-kongs-cardinal-zen-goes-on-trial-over-fund-defending-arrested-protesters)
-- [Four arrested over alleged plot to kidnap Belgian justice minister](https://www.theguardian.com/world/2022/sep/26/four-arrested-over-alleged-plot-to-kidnap-belgian-justice-minister)
-- [Pound hits all-time low against dollar after mini-budget rocks markets](https://www.theguardian.com/business/2022/sep/25/city-braces-for-more-volatility-mini-budget-rocks-pound-parity-dollar-bond-tax)
-- [The secrets of Lake Mead and the drought exposing them](https://www.theguardian.com/news/audio/2022/sep/26/the-secrets-of-lake-mead-and-the-drought-exposing-them)
-- [Death toll grows in Iran as Mahsa Amini protests continue for 10th night](https://www.theguardian.com/world/2022/sep/26/death-toll-grows-in-iran-as-mahsa-amini-protests-continue-for-10th-night)
-- [‘A generational talent’: Rihanna to perform Super Bowl half-time show](https://www.theguardian.com/sport/2022/sep/26/a-generational-talent-rihanna-to-perform-super-bowl-half-time-show)
-- [Two US veterans back in Alabama after Russian captivity in Ukraine](https://www.theguardian.com/us-news/2022/sep/25/us-veterans-drueke-huynh-alabama-russian-captivity-ukraine)
-- [Australian surfer Chris Davidson dies after punch outside pub](https://www.theguardian.com/sport/2022/sep/26/australian-surfer-chris-davidson-dies-after-punch-outside-pub)
+- [‘It’s a murder scene’: wild pigs torment residents in New Zealand capital](https://www.theguardian.com/world/2022/sep/27/its-a-scene-wild-pigs-torment-residents-in-new-zealand-capital)
+- [Lyrics on trial: how US rappers have their music used against them in court - podcast](https://www.theguardian.com/news/audio/2022/sep/27/lyrics-on-trial-how-us-rappers-have-their-music-used-against-them-in-court-podcast)
+- [Nasa successfully crashes spacecraft into asteroid in planetary defense test](https://www.theguardian.com/science/2022/sep/26/nasa-spacecraft-asteroid-crash-planetary-defense-test)
+- [Russia-Ukraine war latest: what we know on day 216 of the invasion](https://www.theguardian.com/world/2022/sep/27/russia-ukraine-war-latest-what-we-know-on-day-216-of-the-invasion)
+- [Super-rich UK non-doms avoiding £3.2bn in tax each year, report finds](https://www.theguardian.com/news/2022/sep/27/super-rich-uk-non-doms-avoiding-32bn-in-tax-each-year-report-finds)
+- [King Charles III’s official monogram design released by palace](https://www.theguardian.com/uk-news/2022/sep/26/king-charles-iiis-official-monogram-design-released-by-palace)
+- [Elon Musk to face deposition by Twitter lawyers ahead of trial](https://www.theguardian.com/technology/2022/sep/26/elon-musk-deposition-twitter-lawyers)
+- [MoD admits ‘mistakes were made’ in RAF diversity recruitment drive](https://www.theguardian.com/uk-news/2022/sep/26/mod-mistakes-made-raf-diversity-recruitment-drive)
+- [Florida issues evacuation order for Tampa ahead of Hurricane Ian](https://www.theguardian.com/us-news/2022/sep/26/hurricane-ian-tracker-path-florida-cuba-cayman-islands)
+- [‘Coming back to finish the job’: Starmer aims to reclaim centre ground](https://www.theguardian.com/politics/2022/sep/26/labour-conference-starmer-party-financial-responsibility)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

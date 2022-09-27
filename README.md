@@ -385,16 +385,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [JDK 20: What’s next for Java?](https://www.infoworld.com/article/3674993/jdk-20-whats-next-for-java.html#tk.rss_all)
+- [Azure on Arm is here at last](https://www.infoworld.com/article/3674953/azure-on-arm-is-here-at-last.html#tk.rss_all)
+- [Which cloud is for you?](https://www.infoworld.com/article/3674811/which-cloud-is-for-you.html#tk.rss_all)
+- [13 open source projects transforming AI and machine learning](https://www.infoworld.com/article/3673976/13-open-source-projects-transforming-ai-and-machine-learning.html#tk.rss_all)
 - [What is the JDK? Introduction to the Java Development Kit](https://www.infoworld.com/article/3296360/what-is-the-jdk-introduction-to-the-java-development-kit.html#tk.rss_all)
 - [How devops in the cloud breaks down](https://www.infoworld.com/article/3674690/how-devops-in-the-cloud-breaks-down.html#tk.rss_all)
 - [What’s new in Rust 1.64](https://www.infoworld.com/article/3267624/whats-new-in-the-rust-language.html#tk.rss_all)
 - [Eclipse Jakarta EE upgrade zeroes in on cloud](https://www.infoworld.com/article/3674708/curtain-rises-on-eclipse-enterprise-java-upgrade.html#tk.rss_all)
 - [How to use route handler filters in minimal APIs in ASP.NET Core 7](https://www.infoworld.com/article/3674589/how-to-use-route-handler-filters-in-minimal-apis-in-aspnet-core-7.html#tk.rss_all)
 - [Intro to Redwood.js: Rapid application development with React](https://www.infoworld.com/article/3673314/intro-to-redwoodjs-rapid-application-development-with-react.html#tk.rss_all)
-- [CockroachDB gets database migration tool, as CockroachDB Serverless launches](https://www.infoworld.com/article/3674140/cockroachdb-gets-database-migration-tool-as-cockroachdb-serverless-launches.html#tk.rss_all)
-- [Cppfront project aims to modernize C++](https://www.infoworld.com/article/3674213/cppfront-project-aims-to-modernize-c.html#tk.rss_all)
-- [Starburst’s new data products aim to ease cross-cloud analytics](https://www.infoworld.com/article/3674216/starburst-s-new-data-products-aim-to-ease-cross-cloud-analytics.html#tk.rss_all)
-- [Intro to Nuitka: A better way to compile and distribute Python](https://www.infoworld.com/article/3673932/intro-to-nuitka-a-better-way-to-compile-and-distribute-python-applications.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

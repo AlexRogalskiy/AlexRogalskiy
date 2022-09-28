@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Jamf touts big boost to enterprise security at JNUC](https://www.computerworld.com/article/3674843/jamf-touts-big-boost-to-enterprise-security-at-jnuc.html#tk.rss_all)
+- [Apple CEO Tim Cook wants more women in tech](https://www.computerworld.com/article/3674840/apple-ceo-tim-cook-wants-more-women-in-tech.html#tk.rss_all)
+- [GoTo adds co-browsing functionality to its contact center offering](https://www.computerworld.com/article/3674839/goto-adds-co-browsing-functionality-to-its-contact-center-offering.html#tk.rss_all)
+- [How to pick the right DEX tool for the best digital employee experience](https://www.computerworld.com/article/3669288/how-to-choose-digital-employee-experience-tool.html#tk.rss_all)
 - [Windows 11 22H2 gets a slew of new group policy changes](https://www.computerworld.com/article/3674835/windows-11-22h2-gets-a-slew-of-new-group-policy-changes.html#tk.rss_all)
 - [Tech event calendar 2022: Upcoming US shows, conferences, and IT expos](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
 - [Jamf buys ZecOps to bring  high-end security to Apple enterprise](https://www.computerworld.com/article/3674792/jamf-buys-zecops-to-bring-world-class-security-to-apple-enterprise.html#tk.rss_all)
 - [Four-day workweek pilot shows wide support for a 32-hour week](https://www.computerworld.com/article/3674829/four-day-workweek-pilot-shows-wide-support-for-a-32-hour-week.html#tk.rss_all)
 - [Podcast: iPhone 14 Pro: Buy or nah?](https://www.computerworld.com/article/3674808/podcast-iphone-14-pro-buy-or-nah.html#tk.rss_all)
 - [Jamf Pro now lets IT admins manage AWS Mac instances](https://www.computerworld.com/article/3674869/jamf-pro-now-lets-it-admins-manage-aws-mac-instances.html#tk.rss_all)
-- [3 smart settings for better Google Pixel battery life](https://www.computerworld.com/article/3674315/google-pixel-battery-life.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
-- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

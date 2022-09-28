@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [New Release: 0 A.D. Alpha 26: Zhuangzi &lpar;Open Source Ancient Warfare RTS&rpar;](https://play0ad.com/new-release-0-a-d-alpha-26-zhuangzi/)
-- [The Next Century of Computing](https://bzogrammer.substack.com/p/the-next-century-of-computing)
-- [Why Feelings of Guilt May Signal Leadership Potential](https://www.gsb.stanford.edu/insights/why-feelings-guilt-may-signal-leadership-potential)
-- [Stop Overcomplicating It: The Simple Guidebook to Upping Your Management Game](https://review.firstround.com/stop-overcomplicating-it-the-simple-guidebook-to-upping-your-management-game)
-- [Physicists Rewrite a Quantum Rule That Clashes with Our Universe](https://www.quantamagazine.org/physicists-rewrite-a-quantum-rule-that-clashes-with-our-universe-20220926/)
-- [Experimenting a New Syntax to Write SVG](https://yuanchuan.dev/experimenting-a-new-syntax-to-write-svg)
-- [Ignite – Use Firecracker VMs with Docker images](https://github.com/weaveworks/ignite)
-- [Only Persistent Login](http://avodonosov.blogspot.com/2022/09/google-login-dialog-does-not-have.html)
-- [Enhance: a web standards-based HTML framework](https://enhance.dev/docs/)
-- [Isolates, microVMs, and WebAssembly](https://notes.crmarsh.com/isolates-microvms-and-webassembly)
+- [Nord Stream Hyperbaric Welding](https://www.wermac.org/nordstream/nordstream_part9.html)
+- [The Open Source PC That Fits in Your Pocket](https://spectrum.ieee.org/meet-an-open-source-pc-that-can-fit-in-your-pocket)
+- [Taken Under Fascism, Spain’s ‘Stolen Babies’ Are Learning the Truth](https://www.nytimes.com/2022/09/27/magazine/spain-stolen-babies.html)
+- [California can&#39;t save every burned town](https://www.latimes.com/california/story/2022-09-27/california-climate-change-stop-rebuilding-rural-towns-wildfire-greenville)
+- [Snakeware – Linux distro with Python userspace inspired by Commodore 64](https://github.com/joshiemoore/snakeware)
+- [Integrating with Fastmail](https://www.fastmail.com/developer/integrating-with-fastmail/)
+- [Explosive Laden Drone Found Near Nord Stream Pipeline &lpar;2015&rpar;](https://www.pipeline-journal.net/news/explosive-laden-drone-found-near-nord-stream-pipeline)
+- [Building Blocks for Theoretical Computer Science [pdf]](https://mfleck.cs.illinois.edu/building-blocks/updates-fa2017//whole-book.pdf)
+- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
+- [A beginners guide to Esperanto &lpar;2003&rpar;](https://www.theguardian.com/lifeandstyle/2003/jul/12/weekend.davidnewnham)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

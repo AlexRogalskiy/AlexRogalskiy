@@ -400,16 +400,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Fraudsters adapt phishing scams to exploit cost-of-living crisis](https://www.computerweekly.com/news/252525422/Fraudsters-adapt-phishing-scams-to-exploit-cost-of-living-crisis)
+- [DeepMind aims to close STEM skills gap with new programme](https://www.computerweekly.com/news/252525429/Deepmind-aims-to-close-STEM-skills-gap-with-new-programme)
+- [A Computer Weekly buyer’s guide to satellite broadband](https://www.computerweekly.com/ehandbook/A-Computer-Weekly-buyers-guide-to-satellite-broadband)
+- [Robo investment platform adopts open banking-based payments](https://www.computerweekly.com/news/252525418/Robo-investment-platform-adopts-open-banking-based-payments)
+- [Guy’s Cancer collaborates with healthtech provider to digitise patient care](https://www.computerweekly.com/news/252525413/Guys-Cancer-collaborates-on-digitising-patient-care)
+- [American football giants jet into digital age with HCLTech](https://www.computerweekly.com/news/252525421/American-football-giants-jet-into-digital-age-with-HCLTech)
+- [Specsavers clinicians used company data to spot Covid referral collapse](https://www.computerweekly.com/news/252525409/Specsavers-clinicians-used-company-data-to-spot-Covid-referral-collapse)
+- [Broadcasters treat data science as niche and sporadic in use](https://www.computerweekly.com/news/252525410/Broadcasters-treat-data-science-as-niche-and-sporadic-in-use)
+- [Making digital a key ingredient at Mondelez](https://www.computerweekly.com/ezine/Computer-Weekly/Making-digital-a-key-ingredient-at-Mondelez)
 - [Bank warns of spike in online cost-of-living scams](https://www.computerweekly.com/news/252525391/Bank-warns-of-spike-in-online-cost-of-living-scams)
-- [How Russian intelligence hacked the encrypted emails of former MI6 boss Richard Dearlove](https://www.computerweekly.com/news/252525366/How-Russian-intelligence-hacked-the-encrypted-emails-of-former-MI6-boss-Richard-Dearlove)
-- [Data analysis and artificial intelligence key industrial strategy missions for Labour](https://www.computerweekly.com/news/252525379/Data-analysis-and-artificial-intelligence-key-industrial-strategy-missions-for-Labour)
-- [More than 30 startups to join Plexal’s Cyber Runway accelerator](https://www.computerweekly.com/news/252525372/More-than-30-startups-to-join-Plexals-Cyber-Runway-accelerator)
-- [Tech salaries continue to increase as firms search for talent](https://www.computerweekly.com/news/252525370/Tech-salaries-continue-to-increase-as-firms-search-for-talent)
-- [PoINT to offer on-site S3 object storage archive on disk and tape](https://www.computerweekly.com/news/252525364/PoINT-to-offer-on-site-S3-object-storage-archive-on-disk-and-tape)
-- [FCSA calls for government clampdown on cloned umbrella companies](https://www.computerweekly.com/news/252525362/FCSA-calls-for-government-clampdown-on-cloned-umbrella-companies)
-- [Microsoft Azure UK region to host data of five million healthcare research scheme volunteers](https://www.computerweekly.com/news/252525354/Microsoft-Azure-UK-region-to-host-data-of-five-million-healthcare-research-scheme-volunteers)
-- [Conversation between two police officers formed basis of EncroChat warrant, court hears](https://www.computerweekly.com/news/252525299/Conversation-between-two-police-officers-formed-basis-of-EncroChat-warrant-court-hears)
-- [The challenges of verifying AI for healthcare](https://www.computerweekly.com/news/252524829/The-challenges-of-verifying-AI-for-healthcare)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

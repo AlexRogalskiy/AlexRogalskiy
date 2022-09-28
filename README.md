@@ -415,16 +415,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Thinking about starting I.T business](https://www.reddit.com/r/InformationTechnology/comments/xor4o2/thinking_about_starting_it_business/)
+- [What is the most accurate way to determine how old a computer is? &lpar;Windows OS&rpar;](https://www.reddit.com/r/InformationTechnology/comments/xpzcsd/what_is_the_most_accurate_way_to_determine_how/)
+- [About to finish Google IT Support Specialist Cert. Landed internship...need help](https://www.reddit.com/r/InformationTechnology/comments/xpxn87/about_to_finish_google_it_support_specialist_cert/)
+- [Is it wise to get a bachelors degree in cybersecurity?](https://www.reddit.com/r/InformationTechnology/comments/xpug6x/is_it_wise_to_get_a_bachelors_degree_in/)
+- [New Job](https://www.reddit.com/r/InformationTechnology/comments/xpt22h/new_job/)
+- [Do Part-Time Help Desk positions exist for career changers?](https://www.reddit.com/r/InformationTechnology/comments/xprxpa/do_parttime_help_desk_positions_exist_for_career/)
+- [Need some volunteers for QnA Interview/Survey](https://www.reddit.com/r/InformationTechnology/comments/xpgnwo/need_some_volunteers_for_qna_interviewsurvey/)
+- [How can I learn IT?](https://www.reddit.com/r/InformationTechnology/comments/xpdc2q/how_can_i_learn_it/)
+- [Interview](https://www.reddit.com/r/InformationTechnology/comments/xpa10f/interview/)
 - [How valuable is a college degree if I already have an IT job?](https://www.reddit.com/r/InformationTechnology/comments/xoomju/how_valuable_is_a_college_degree_if_i_already/)
 - [Any platforms like instagram and whatsapp which u cant download in googleplay?](https://www.reddit.com/r/InformationTechnology/comments/xogxsk/any_platforms_like_instagram_and_whatsapp_which_u/)
-- [Learn Rust?](https://www.reddit.com/r/InformationTechnology/comments/xo62sd/learn_rust/)
-- [Would you play/use an I.T. Operations Simulator Game?](https://www.reddit.com/r/InformationTechnology/comments/xo3g5y/would_you_playuse_an_it_operations_simulator_game/)
-- [Extremely frustrated with my current IT job](https://www.reddit.com/r/InformationTechnology/comments/xo2xvi/extremely_frustrated_with_my_current_it_job/)
-- [Stepping into IT Career](https://www.reddit.com/r/InformationTechnology/comments/xo0p7y/stepping_into_it_career/)
-- [Advice for post-grad &lpar;data science/informatics](https://www.reddit.com/r/InformationTechnology/comments/xnre29/advice_for_postgrad_data_scienceinformatics/)
-- [Entry level help desk position](https://www.reddit.com/r/InformationTechnology/comments/xn7ntw/entry_level_help_desk_position/)
-- [Best laptop for student in IT?](https://www.reddit.com/r/InformationTechnology/comments/xmrx65/best_laptop_for_student_in_it/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

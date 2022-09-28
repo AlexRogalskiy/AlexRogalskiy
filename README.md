@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [‘It’s a murder scene’: wild pigs torment residents in New Zealand capital](https://www.theguardian.com/world/2022/sep/27/its-a-scene-wild-pigs-torment-residents-in-new-zealand-capital)
-- [Lyrics on trial: how US rappers have their music used against them in court - podcast](https://www.theguardian.com/news/audio/2022/sep/27/lyrics-on-trial-how-us-rappers-have-their-music-used-against-them-in-court-podcast)
-- [Nasa successfully crashes spacecraft into asteroid in planetary defense test](https://www.theguardian.com/science/2022/sep/26/nasa-spacecraft-asteroid-crash-planetary-defense-test)
-- [Russia-Ukraine war latest: what we know on day 216 of the invasion](https://www.theguardian.com/world/2022/sep/27/russia-ukraine-war-latest-what-we-know-on-day-216-of-the-invasion)
-- [Super-rich UK non-doms avoiding £3.2bn in tax each year, report finds](https://www.theguardian.com/news/2022/sep/27/super-rich-uk-non-doms-avoiding-32bn-in-tax-each-year-report-finds)
-- [King Charles III’s official monogram design released by palace](https://www.theguardian.com/uk-news/2022/sep/26/king-charles-iiis-official-monogram-design-released-by-palace)
-- [Elon Musk to face deposition by Twitter lawyers ahead of trial](https://www.theguardian.com/technology/2022/sep/26/elon-musk-deposition-twitter-lawyers)
-- [MoD admits ‘mistakes were made’ in RAF diversity recruitment drive](https://www.theguardian.com/uk-news/2022/sep/26/mod-mistakes-made-raf-diversity-recruitment-drive)
-- [Florida issues evacuation order for Tampa ahead of Hurricane Ian](https://www.theguardian.com/us-news/2022/sep/26/hurricane-ian-tracker-path-florida-cuba-cayman-islands)
-- [‘Coming back to finish the job’: Starmer aims to reclaim centre ground](https://www.theguardian.com/politics/2022/sep/26/labour-conference-starmer-party-financial-responsibility)
+- [New Zealand: average stay in emergency housing rises seven-fold in five years](https://www.theguardian.com/world/2022/sep/28/new-zealand-average-stay-in-emergency-housing-rises-seven-fold-in-five-years)
+- [Zelenskiy dismisses Kremlin-led referendums in Ukraine as &#39;farce&#39; – video](https://www.theguardian.com/world/video/2022/sep/28/zelenskiy-dismisses-kremlin-led-referendums-in-ukraine-as-farce-video)
+- [US Pacific summit faces rocky start as island leaders reject Washington’s offers](https://www.theguardian.com/world/2022/sep/28/us-pacific-summit-faces-rocky-start-as-island-leaders-reject-washingtons-offers)
+- [Does Labour have a route out of Britain’s rolling crises?](https://www.theguardian.com/news/audio/2022/sep/28/does-labour-have-a-route-out-of-britains-rolling-crises)
+- [Hurricane Ian: Cuba left without power as intensifying storm heads to Florida](https://www.theguardian.com/us-news/2022/sep/27/hurricane-ian-florida-tampa-cuba)
+- [Nuclear attack in Ukraine should spark ‘devastating’ Nato response, says Polish foreign minister](https://www.theguardian.com/world/2022/sep/28/ukraine-nato-russia-nuclear-weapons-devastating-poland-foreign-minister)
+- [Russia-Ukraine war latest: what we know on day 217 of the invasion](https://www.theguardian.com/world/2022/sep/28/russia-ukraine-war-latest-what-we-know-on-day-217-of-the-invasion)
+- [European leaders blame sabotage as gas pours into Baltic from Nord Stream pipelines](https://www.theguardian.com/business/2022/sep/27/nord-stream-1-2-pipelines-leak-baltic-sabotage-fears)
+- [IMF urges UK government to reconsider tax-cutting plans](https://www.theguardian.com/politics/2022/sep/27/kwasi-kwartengs-tax-cuts-likely-to-increase-inequality-imf-says)
+- [Lucian Freud review – the Queen, Leigh Bowery and the artist’s ex-wives stand brutally revealed](https://www.theguardian.com/artanddesign/2022/sep/28/lucian-freud-new-perspectives-review-national-gallery-london)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

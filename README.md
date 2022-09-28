@@ -370,16 +370,16 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Top 3 IT Service Management Misconceptions](https://www.informationweek.com/software/top-3-it-service-management-misconceptions)
+- [Quick Study: The Evolving Roles of CIOs and IT Leaders](https://www.informationweek.com/strategic-cio/quick-study-the-evolving-roles-of-cio-and-it-leaders)
+- [Level Up Your Analytics: How to Vet Third-Party Data Providers](https://www.informationweek.com/big-data/level-up-your-analytics-how-to-vet-third-party-data-providers)
+- [Cybersecurity Just Became a Board Issue for Real](https://www.informationweek.com/security-and-risk-strategy/cybersecurity-just-became-a-board-issue-for-real)
 - [Data Management Models for the Cloud](https://www.informationweek.com/cloud/data-management-models-for-the-cloud)
 - [Top 10 Trends Transforming the Cloud, According to Forrester](https://www.informationweek.com/cloud/top-10-trends-transforming-the-cloud-according-to-forrester)
 - [5 Reasons Why SMBs Should be America’s Cloud Role Models](https://www.informationweek.com/cloud/5-reasons-why-smbs-should-be-america-s-cloud-role-models)
 - [Quick Study: Emerging Fintech](https://www.informationweek.com/fintech/quick-study-emerging-fintech)
 - [The Right System Architecture Will Reduce Software Failures](https://www.informationweek.com/software/the-right-system-architecture-will-reduce-software-failures)
 - [4 Lessons Learned From the Latest Uber Breach](https://www.informationweek.com/security-and-risk-strategy/4-lessons-learned-from-the-latest-uber-breach)
-- [Reduce the Pain of Modernizing Mainframes in 4 Steps](https://www.informationweek.com/strategic-cio/reduce-the-pain-of-modernizing-mainframes-in-4-steps)
-- [Mobile Tech Transforming Bill Payment Habits](https://www.informationweek.com/mobile/mobile-tech-transforming-bill-payment-habits)
-- [Attracting Talent Now Requires a Work from Anywhere Program](https://www.informationweek.com/it-life/attracting-talent-now-requires-a-work-from-anywhere-program)
-- [How IT Leaders Can Be Proactive in the Face of Change](https://www.informationweek.com/it-life/how-it-leaders-can-be-proactive-in-the-face-of-change)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

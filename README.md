@@ -385,16 +385,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [SAS Viya analytics suite now available on Azure Marketplace](https://www.infoworld.com/article/3674838/sas-viya-analytics-suite-now-available-on-azure-marketplace.html#tk.rss_all)
+- [Cloud’s key role in the emerging hybrid workforce](https://www.infoworld.com/article/3674837/clouds-key-role-in-the-emerging-hybrid-workforce.html#tk.rss_all)
+- [New TypeScript operator finds coding mistakes](https://www.infoworld.com/article/3674814/new-typescript-operator-finds-coding-mistakes.html#tk.rss_all)
+- [The ever-widening world of Wasm](https://www.infoworld.com/article/3674124/the-ever-widening-world-of-wasm.html#tk.rss_all)
 - [JDK 20: What’s next for Java?](https://www.infoworld.com/article/3674993/jdk-20-whats-next-for-java.html#tk.rss_all)
 - [Azure on Arm is here at last](https://www.infoworld.com/article/3674953/azure-on-arm-is-here-at-last.html#tk.rss_all)
 - [Which cloud is for you?](https://www.infoworld.com/article/3674811/which-cloud-is-for-you.html#tk.rss_all)
 - [13 open source projects transforming AI and machine learning](https://www.infoworld.com/article/3673976/13-open-source-projects-transforming-ai-and-machine-learning.html#tk.rss_all)
-- [What is the JDK? Introduction to the Java Development Kit](https://www.infoworld.com/article/3296360/what-is-the-jdk-introduction-to-the-java-development-kit.html#tk.rss_all)
 - [How devops in the cloud breaks down](https://www.infoworld.com/article/3674690/how-devops-in-the-cloud-breaks-down.html#tk.rss_all)
-- [What’s new in Rust 1.64](https://www.infoworld.com/article/3267624/whats-new-in-the-rust-language.html#tk.rss_all)
-- [Eclipse Jakarta EE upgrade zeroes in on cloud](https://www.infoworld.com/article/3674708/curtain-rises-on-eclipse-enterprise-java-upgrade.html#tk.rss_all)
-- [How to use route handler filters in minimal APIs in ASP.NET Core 7](https://www.infoworld.com/article/3674589/how-to-use-route-handler-filters-in-minimal-apis-in-aspnet-core-7.html#tk.rss_all)
-- [Intro to Redwood.js: Rapid application development with React](https://www.infoworld.com/article/3673314/intro-to-redwoodjs-rapid-application-development-with-react.html#tk.rss_all)
+- [What is the JDK? Introduction to the Java Development Kit](https://www.infoworld.com/article/3296360/what-is-the-jdk-introduction-to-the-java-development-kit.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

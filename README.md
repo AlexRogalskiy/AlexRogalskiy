@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [A Mathematician’s Lament by Paul Lockhart [pdf]](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf)
-- [Cost of public EV charging rises by more than 42% in four months](https://www.autocar.co.uk/car-news/consumer/cost-public-ev-charging-rises-more-42-four-months)
-- [NASA just crashed a spacecraft into an asteroid to see what would happen](https://www.theverge.com/2022/9/26/23372818/nasa-dart-crash-asteroid-redirect)
-- [BBC Sound Effects](https://sound-effects.bbcrewind.co.uk/)
-- [Multiple driverless Cruise cars block traffic in San Francisco](https://www.sfgate.com/local/article/driverless-cruise-cars-block-SF-traffic-17467985.php)
-- [Bayes&#39; Rule: Guide](https://arbital.com/p/bayes_rule/?l=1zq)
-- [Want to learn Linux but scared to damage system](https://news.ycombinator.com/item?id=32991410)
-- [Linux 6.0 Merges the AMD Performance Fix for the Old “Dummy Wait” Workaround](https://www.phoronix.com/news/Linux-6.0-AMD-Chipset-WA)
-- [Ask HN: Fast superhuman/linear-like syncing service?](https://news.ycombinator.com/item?id=32991383)
-- [Atlas observations of the DART spacecraft impact at Didymos](https://twitter.com/fallingstarIfA/status/1574583529731670021)
+- [Food and Power in 16th-Century Ireland: Household Accounts from Dublin Castle](https://www.cambridge.org/core/journals/historical-journal/article/food-and-power-in-sixteenthcentury-ireland-studying-household-accounts-from-dublin-castle/C179A0BBE0E6FA8A4C485727CF093756)
+- [Fast Company takes website offline after Apple News account hack](https://www.cnn.com/2022/09/27/media/fast-company-apple-news/index.html)
+- [Queensland, Australia to build world&#39;s largest pumped hydro energy storage](https://www.abc.net.au/news/2022-09-28/queensland-government-energy-pumped-hydro-scheme-jobs-palaszczuk/101481160)
+- [Ask HN: Explaining many short tenures due to poor mental health](https://news.ycombinator.com/item?id=33004134)
+- [WhatsApp fixes critical security bug that puts Android data at risk](https://techcrunch.com/2022/09/27/whatsapp-critical-security-bug/)
+- [Hackers hijack Fast Company, send obscene push alert through Apple News](https://www.marketwatch.com/story/hackers-hijack-fast-company-send-obscene-push-alert-through-apple-news-11664331724)
+- [Tooth-flossing hacked: simple new tool flosses all teeth at once in few seconds](https://blizzbrush.com/pages/blizzflosser)
+- [U.S. approves 50 states&#39; EV charging plans](https://www.reuters.com/business/autos-transportation/us-approves-50-states-ev-charging-plans-2022-09-27/)
+- [Celsius CEO Alex Mashinsky resigns during lender&#39;s bankruptcy proceedings](https://www.protocol.com/bulletins/celsius-ceo-resigns-during-bankruptcy)
+- [When an MMORPG has a stronger currency than your country](https://slate.com/technology/2021/08/venezuelans-old-school-runescape-tasks.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

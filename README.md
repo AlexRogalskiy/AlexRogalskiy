@@ -370,16 +370,16 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Why Branch Simplicity is Key for Digital Transformation](https://www.informationweek.com/palo-alto-networks/why-branch-simplicity-is-key-for-digital-transformation)
+- [How to Become an IT Thought Leader](https://www.informationweek.com/strategic-cio/how-to-become-an-it-thought-leader)
+- [Is the IT Strategic Plan Working for Your Organization?](https://www.informationweek.com/strategic-cio/is-the-it-strategic-plan-working-for-your-organization-)
+- [Want a Data Job? Learn Data Engineering, Not Data Science](https://www.informationweek.com/big-data/want-a-data-job-learn-data-engineering-not-data-science)
 - [Top 3 IT Service Management Misconceptions](https://www.informationweek.com/software/top-3-it-service-management-misconceptions)
 - [Quick Study: The Evolving Roles of CIOs and IT Leaders](https://www.informationweek.com/strategic-cio/quick-study-the-evolving-roles-of-cio-and-it-leaders)
 - [Level Up Your Analytics: How to Vet Third-Party Data Providers](https://www.informationweek.com/big-data/level-up-your-analytics-how-to-vet-third-party-data-providers)
 - [Cybersecurity Just Became a Board Issue for Real](https://www.informationweek.com/security-and-risk-strategy/cybersecurity-just-became-a-board-issue-for-real)
 - [Data Management Models for the Cloud](https://www.informationweek.com/cloud/data-management-models-for-the-cloud)
 - [Top 10 Trends Transforming the Cloud, According to Forrester](https://www.informationweek.com/cloud/top-10-trends-transforming-the-cloud-according-to-forrester)
-- [5 Reasons Why SMBs Should be America’s Cloud Role Models](https://www.informationweek.com/cloud/5-reasons-why-smbs-should-be-america-s-cloud-role-models)
-- [Quick Study: Emerging Fintech](https://www.informationweek.com/fintech/quick-study-emerging-fintech)
-- [The Right System Architecture Will Reduce Software Failures](https://www.informationweek.com/software/the-right-system-architecture-will-reduce-software-failures)
-- [4 Lessons Learned From the Latest Uber Breach](https://www.informationweek.com/security-and-risk-strategy/4-lessons-learned-from-the-latest-uber-breach)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

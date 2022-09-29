@@ -430,16 +430,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Fiona aftermath: N.S. premier irate over telecoms’ response to storm](https://www.itworldcanada.com/article/fiona-aftermath-n-s-premier-irate-over-telecoms-response-to-storm/505527)
+- [Microsoft report reveals new trends, productivity paranoia, in the hybrid work era](https://www.itworldcanada.com/article/microsoft-report-reveals-new-trends-productivity-paranoia-in-the-hybrid-work-era/505512)
+- [Hashtag Trending Sept. 28 – Girls Who Code book ban; Amazon’s early holiday sale; Netflix hires gaming experts](https://www.itworldcanada.com/article/hashtag-trending-sept-28-girls-who-code-book-ban-amazons-early-holiday-sale-netflix-hires-gaming-experts/505475)
+- [Leadership Coaches Weigh in on the New World of Work](https://www.itworldcanada.com/article/leadership-coaches-weigh-in-on-the-new-world-of-work/505188)
+- [Cyber Security Today, September 28, 2022 – PowerPoint delivers malware and more…](https://www.itworldcanada.com/article/cyber-security-today-september-28-2022-powerpoint-delivers-malware-and-more/505444)
 - [Infosys opens in Calgary with plans to create 1000 local jobs by 2024](https://www.itworldcanada.com/article/infosys-opens-in-calgary-with-plans-to-create-1000-local-jobs-by-2024/505127)
 - [Coffee Briefing-September 27, 2022 – OpsGuru achieves AWS Premier Tier Services Partner Status; ServiceNow launches Now Platform Tokyo; Eleven-x announces smart parking solution; and more](https://www.itworldcanada.com/article/coffee-briefing-september-27-2022-opsguru-achieves-aws-premier-tier-services-partner-status-servicenow-launches-now-platform-tokyo-eleven-x-announces-smart-parking-solution-and-more/504882)
 - [Intel launches 13th-gen ‘Raptor Lake-S’ desktop processors](https://www.itworldcanada.com/article/intel-launches-13th-gen-raptor-lake-s-desktop-processors/505152)
 - [Hashtag Trending Sept. 27 – TikTok faces fine from U.K.; Apple to make iPhone 14 in India; Camera system using AI being tested to catch drivers on phones](https://www.itworldcanada.com/article/hashtag-trending-sept-27-tiktok-faces-fine-from-u-k-apple-to-make-iphone-14-in-india-camera-system-using-ai-being-tested-to-catch-drivers-on-phones/505086)
 - [Nvidia GeForce RTX 4000 series graphics cards: promising specs but major pricing problems](https://www.itworldcanada.com/article/nvidia-geforce-rtx-4000-series-graphics-cards-promising-specs-but-major-pricing-problems/504343)
-- [Infosec leaders deferring transformation, consolidating tools as fears of recession increase](https://www.itworldcanada.com/article/infosec-leaders-deferring-transformation-consolidating-tools-as-fears-of-recession-increase/504825)
-- [Microsoft and OPG announce Canada-first partnership to power a Net-Zero future in Ontario](https://www.itworldcanada.com/article/microsoft-and-opg-announce-canada-first-partnership-to-power-a-net-zero-future-in-ontario/504968)
-- [MSE’s zeroing in on three key top technology priorities: Gartner](https://www.itworldcanada.com/article/mses-zeroing-in-on-three-key-top-technology-priorities-gartner/504966)
-- [Hashtag Trending Weekend Edition, September 23, 2022 – Today we are going to hear an interview with Alan Hoving about his experience as an early citizen on Second Life.](https://www.itworldcanada.com/article/hashtag-trending-weekend-edition-september-23-2022-today-we-are-going-to-hear-an-interview-with-alan-hoving-about-his-experience-as-an-early-citizen-on-second-life/504964)
-- [Cyber Security Today, Sept. 26, 2022 – Arrest of a teen in UK may be tied to Uber and other hacks, a huge credit card scam revealed, and more](https://www.itworldcanada.com/article/cyber-security-today-sept-26-2022-arrest-of-a-teen-in-uk-may-be-tied-to-uber-and-other-hacks-a-huge-credit-card-scam-revealed-and-more/504808)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

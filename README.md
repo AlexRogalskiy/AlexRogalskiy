@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Food and Power in 16th-Century Ireland: Household Accounts from Dublin Castle](https://www.cambridge.org/core/journals/historical-journal/article/food-and-power-in-sixteenthcentury-ireland-studying-household-accounts-from-dublin-castle/C179A0BBE0E6FA8A4C485727CF093756)
-- [Fast Company takes website offline after Apple News account hack](https://www.cnn.com/2022/09/27/media/fast-company-apple-news/index.html)
-- [Queensland, Australia to build world&#39;s largest pumped hydro energy storage](https://www.abc.net.au/news/2022-09-28/queensland-government-energy-pumped-hydro-scheme-jobs-palaszczuk/101481160)
-- [Ask HN: Explaining many short tenures due to poor mental health](https://news.ycombinator.com/item?id=33004134)
-- [WhatsApp fixes critical security bug that puts Android data at risk](https://techcrunch.com/2022/09/27/whatsapp-critical-security-bug/)
-- [Hackers hijack Fast Company, send obscene push alert through Apple News](https://www.marketwatch.com/story/hackers-hijack-fast-company-send-obscene-push-alert-through-apple-news-11664331724)
-- [Tooth-flossing hacked: simple new tool flosses all teeth at once in few seconds](https://blizzbrush.com/pages/blizzflosser)
-- [U.S. approves 50 states&#39; EV charging plans](https://www.reuters.com/business/autos-transportation/us-approves-50-states-ev-charging-plans-2022-09-27/)
-- [Celsius CEO Alex Mashinsky resigns during lender&#39;s bankruptcy proceedings](https://www.protocol.com/bulletins/celsius-ceo-resigns-during-bankruptcy)
-- [When an MMORPG has a stronger currency than your country](https://slate.com/technology/2021/08/venezuelans-old-school-runescape-tasks.html)
+- [RootMyTV is a user-friendly exploit for rooting/jailbreaking LG webOS smart TVs](https://github.com/RootMyTV/RootMyTV.github.io)
+- [Dev blog exploring retro &lpar;Windows 95&rpar; computer virus development](https://log.vexation.ca)
+- [On Mr. Beast and Being Alone in a Circle for 100 Days](https://coldhealing.substack.com/p/on-mr-beast-and-being-alone-in-a)
+- [Coding Machines &lpar;2009&rpar;](https://www.teamten.com/lawrence/writings/coding-machines/)
+- [Remote work drove more than 60% of home price surge during pandemic: Fed study](https://nypost.com/2022/09/26/remote-work-drove-more-than-60-of-home-price-surge-during-pandemic-fed-study/)
+- [Google Search adding ‘Discussions and forums’ section](https://9to5google.com/2022/09/28/google-search-discussions-forums/)
+- [For developers, flow state starts with your finger tips](https://stackoverflow.blog/2022/09/28/for-developers-flow-state-starts-with-your-finger-tips/)
+- [Concrete paths to avert existential risk from AI](https://www.lesswrong.com/posts/AsNjqggQQ4yJcbsWn/ai-safety-endgame-stories)
+- [Doctors tell all – and it&#39;s bad](https://www.theatlantic.com/magazine/archive/2014/11/doctors-tell-all-and-its-bad/380785/)
+- [Cloudflare&#39;s CAPTCHA replacement lacks crosswalks, checkboxes, Google](https://arstechnica.com/information-technology/2022/09/cloudflares-captcha-replacement-lacks-crosswalks-checkboxes-google/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

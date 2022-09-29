@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Nord Stream Hyperbaric Welding](https://www.wermac.org/nordstream/nordstream_part9.html)
-- [The Open Source PC That Fits in Your Pocket](https://spectrum.ieee.org/meet-an-open-source-pc-that-can-fit-in-your-pocket)
-- [Taken Under Fascism, Spain’s ‘Stolen Babies’ Are Learning the Truth](https://www.nytimes.com/2022/09/27/magazine/spain-stolen-babies.html)
-- [California can&#39;t save every burned town](https://www.latimes.com/california/story/2022-09-27/california-climate-change-stop-rebuilding-rural-towns-wildfire-greenville)
-- [Snakeware – Linux distro with Python userspace inspired by Commodore 64](https://github.com/joshiemoore/snakeware)
-- [Integrating with Fastmail](https://www.fastmail.com/developer/integrating-with-fastmail/)
-- [Explosive Laden Drone Found Near Nord Stream Pipeline &lpar;2015&rpar;](https://www.pipeline-journal.net/news/explosive-laden-drone-found-near-nord-stream-pipeline)
-- [Building Blocks for Theoretical Computer Science [pdf]](https://mfleck.cs.illinois.edu/building-blocks/updates-fa2017//whole-book.pdf)
-- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
-- [A beginners guide to Esperanto &lpar;2003&rpar;](https://www.theguardian.com/lifeandstyle/2003/jul/12/weekend.davidnewnham)
+- [&quot;Ducks,” the Canadian cartoonist Kate Beaton’s new graphic memoir](https://www.newyorker.com/books/page-turner/how-kate-beaton-paid-off-her-student-loans)
+- [Meta has banned the personal Facebook accounts for everyone on our team](https://twitter.com/TheOGapp_/status/1575265782094647296)
+- [Kittyhawk Air Taxi Startup Is Winding Down](https://www.wsj.com/articles/kittyhawk-google-co-founder-larry-pages-air-taxi-startup-is-winding-down-11663792210)
+- [Converting Coal Power Plants to Nuclear Gains Steam](https://spectrum.ieee.org/nuclear-power-plant)
+- [Badssl.com](https://badssl.com/)
+- [Show HN: ButtFish – Transmit Morse Code of chess moves to your butt](https://github.com/RonSijm/ButtFish)
+- [Scientists find wreckage of ship that tried to warn Titanic of iceberg](https://www.cnn.com/travel/article/titanic-warning-ss-mesaba-irish-sea-intl-scli-scn/index.html)
+- [The most dangerous road for cyclists in America](https://www.bicycling.com/culture/a41119529/the-most-dangerous-road-for-cyclists-in-america/)
+- [New &lpar;LTE&rpar; Rotary Cell Phone [video]](https://www.youtube.com/watch?v=uV1C-41tq64)
+- [Matrix: Third Room Tech Preview [video]](https://matrix.org/blog/2022/09/27/announcing-third-room-tech-preview-1/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

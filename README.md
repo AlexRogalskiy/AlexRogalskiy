@@ -385,16 +385,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Cryptojacking, DDoS attacks increase in container-based cloud systems](https://www.csoonline.com/article/3675368/cryptojacking-ddos-attacks-increase-in-container-based-cloud-systems.html#tk.rss_all)
+- [Microsoft .NET 7 bolsters WebAssembly support](https://www.infoworld.com/article/3674862/microsoft-net-7-bolsters-webassembly-support.html#tk.rss_all)
+- [GitHub for English teachers](https://www.infoworld.com/article/3674309/github-for-english-teachers.html#tk.rss_all)
+- [Why the C programming language still rules](https://www.infoworld.com/article/3402023/why-the-c-programming-language-still-rules.html#tk.rss_all)
 - [SAS Viya analytics suite now available on Azure Marketplace](https://www.infoworld.com/article/3674838/sas-viya-analytics-suite-now-available-on-azure-marketplace.html#tk.rss_all)
 - [Cloud’s key role in the emerging hybrid workforce](https://www.infoworld.com/article/3674837/clouds-key-role-in-the-emerging-hybrid-workforce.html#tk.rss_all)
 - [New TypeScript operator finds coding mistakes](https://www.infoworld.com/article/3674814/new-typescript-operator-finds-coding-mistakes.html#tk.rss_all)
 - [The ever-widening world of Wasm](https://www.infoworld.com/article/3674124/the-ever-widening-world-of-wasm.html#tk.rss_all)
 - [JDK 20: What’s next for Java?](https://www.infoworld.com/article/3674993/jdk-20-whats-next-for-java.html#tk.rss_all)
 - [Azure on Arm is here at last](https://www.infoworld.com/article/3674953/azure-on-arm-is-here-at-last.html#tk.rss_all)
-- [Which cloud is for you?](https://www.infoworld.com/article/3674811/which-cloud-is-for-you.html#tk.rss_all)
-- [13 open source projects transforming AI and machine learning](https://www.infoworld.com/article/3673976/13-open-source-projects-transforming-ai-and-machine-learning.html#tk.rss_all)
-- [How devops in the cloud breaks down](https://www.infoworld.com/article/3674690/how-devops-in-the-cloud-breaks-down.html#tk.rss_all)
-- [What is the JDK? Introduction to the Java Development Kit](https://www.infoworld.com/article/3296360/what-is-the-jdk-introduction-to-the-java-development-kit.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

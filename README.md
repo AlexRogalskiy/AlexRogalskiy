@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [New Zealand: average stay in emergency housing rises seven-fold in five years](https://www.theguardian.com/world/2022/sep/28/new-zealand-average-stay-in-emergency-housing-rises-seven-fold-in-five-years)
-- [Zelenskiy dismisses Kremlin-led referendums in Ukraine as &#39;farce&#39; – video](https://www.theguardian.com/world/video/2022/sep/28/zelenskiy-dismisses-kremlin-led-referendums-in-ukraine-as-farce-video)
-- [US Pacific summit faces rocky start as island leaders reject Washington’s offers](https://www.theguardian.com/world/2022/sep/28/us-pacific-summit-faces-rocky-start-as-island-leaders-reject-washingtons-offers)
-- [Does Labour have a route out of Britain’s rolling crises?](https://www.theguardian.com/news/audio/2022/sep/28/does-labour-have-a-route-out-of-britains-rolling-crises)
-- [Hurricane Ian: Cuba left without power as intensifying storm heads to Florida](https://www.theguardian.com/us-news/2022/sep/27/hurricane-ian-florida-tampa-cuba)
-- [Nuclear attack in Ukraine should spark ‘devastating’ Nato response, says Polish foreign minister](https://www.theguardian.com/world/2022/sep/28/ukraine-nato-russia-nuclear-weapons-devastating-poland-foreign-minister)
-- [Russia-Ukraine war latest: what we know on day 217 of the invasion](https://www.theguardian.com/world/2022/sep/28/russia-ukraine-war-latest-what-we-know-on-day-217-of-the-invasion)
-- [European leaders blame sabotage as gas pours into Baltic from Nord Stream pipelines](https://www.theguardian.com/business/2022/sep/27/nord-stream-1-2-pipelines-leak-baltic-sabotage-fears)
-- [IMF urges UK government to reconsider tax-cutting plans](https://www.theguardian.com/politics/2022/sep/27/kwasi-kwartengs-tax-cuts-likely-to-increase-inequality-imf-says)
-- [Lucian Freud review – the Queen, Leigh Bowery and the artist’s ex-wives stand brutally revealed](https://www.theguardian.com/artanddesign/2022/sep/28/lucian-freud-new-perspectives-review-national-gallery-london)
+- [Hurricane Ian latest updates: 2 million in Florida lose power as storm weakens to category 2 – live](https://www.theguardian.com/us-news/live/2022/sep/28/hurricane-ian-florida-tracker-path-latest-updates)
+- [Mahsa Amini: how one women’s death ignited protests in Iran - podcast](https://www.theguardian.com/news/audio/2022/sep/29/mahsa-amini-how-one-womens-death-ignited-protests-in-iran-podcast)
+- [Coolio, US west coast rapper of Gangsta’s Paradise fame, dies aged 59](https://www.theguardian.com/music/2022/sep/28/coolio-dead-59-gangstas-paradise-rap)
+- [Shooting at California school campus leaves at least six people injured](https://www.theguardian.com/us-news/2022/sep/28/california-high-school-shooting-oakland)
+- [New Zealand bans live animal exports from April 2023](https://www.theguardian.com/world/2022/sep/29/new-zealand-bans-live-animal-exports-from-april-2023)
+- [Russia-Ukraine war latest: what we know on day 218 of the invasion](https://www.theguardian.com/world/2022/sep/29/russia-ukraine-war-latest-what-we-know-on-day-218-of-the-invasion)
+- [US strikes partnership deal with Pacific Island leaders at historic summit](https://www.theguardian.com/world/2022/sep/29/us-pledges-to-boost-aid-and-diplomacy-in-pacific-as-historic-summit-begins)
+- [Denmark’s Queen Margrethe strips four grandchildren of royal titles](https://www.theguardian.com/world/2022/sep/29/denmarks-queen-margrethe-strips-four-grandchildren-of-royal-titles)
+- [Ukraine calls for Russia to be declared ‘terrorist state’ after damning report](https://www.theguardian.com/world/2022/sep/29/ukraine-calls-for-russia-to-be-declared-terrorist-state-after-damning-report)
+- [Record 8m households in UK struggle to manage telecoms bills, says Ofcom](https://www.theguardian.com/business/2022/sep/29/record-8m-households-uk-struggle-telecoms-bills-ofcom-inflation-price-rises)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -415,6 +415,9 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [38 year old Police Officer here looking for a career change to IT. Any tips/suggestions on how to start?](https://www.reddit.com/r/InformationTechnology/comments/xqld44/38_year_old_police_officer_here_looking_for_a/)
+- [Need to collect some info from people working in the IT industry for a school project](https://www.reddit.com/r/InformationTechnology/comments/xqctzf/need_to_collect_some_info_from_people_working_in/)
+- [Where to learn C# and Java](https://www.reddit.com/r/InformationTechnology/comments/xq7sgb/where_to_learn_c_and_java/)
 - [What is the most accurate way to determine how old a computer is? &lpar;Windows OS&rpar;](https://www.reddit.com/r/InformationTechnology/comments/xpzcsd/what_is_the_most_accurate_way_to_determine_how/)
 - [About to finish Google IT Support Specialist Cert. Landed internship...need help](https://www.reddit.com/r/InformationTechnology/comments/xpxn87/about_to_finish_google_it_support_specialist_cert/)
 - [Is it wise to get a bachelors degree in cybersecurity?](https://www.reddit.com/r/InformationTechnology/comments/xpug6x/is_it_wise_to_get_a_bachelors_degree_in/)
@@ -422,9 +425,6 @@
 - [Do Part-Time Help Desk positions exist for career changers?](https://www.reddit.com/r/InformationTechnology/comments/xprxpa/do_parttime_help_desk_positions_exist_for_career/)
 - [Need some volunteers for QnA Interview/Survey](https://www.reddit.com/r/InformationTechnology/comments/xpgnwo/need_some_volunteers_for_qna_interviewsurvey/)
 - [How can I learn IT?](https://www.reddit.com/r/InformationTechnology/comments/xpdc2q/how_can_i_learn_it/)
-- [Interview](https://www.reddit.com/r/InformationTechnology/comments/xpa10f/interview/)
-- [How valuable is a college degree if I already have an IT job?](https://www.reddit.com/r/InformationTechnology/comments/xoomju/how_valuable_is_a_college_degree_if_i_already/)
-- [Any platforms like instagram and whatsapp which u cant download in googleplay?](https://www.reddit.com/r/InformationTechnology/comments/xogxsk/any_platforms_like_instagram_and_whatsapp_which_u/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

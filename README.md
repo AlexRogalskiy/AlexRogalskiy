@@ -400,16 +400,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Fraudsters adapt phishing scams to exploit cost-of-living crisis](https://www.computerweekly.com/news/252525422/Fraudsters-adapt-phishing-scams-to-exploit-cost-of-living-crisis)
-- [DeepMind aims to close STEM skills gap with new programme](https://www.computerweekly.com/news/252525429/Deepmind-aims-to-close-STEM-skills-gap-with-new-programme)
-- [A Computer Weekly buyer’s guide to satellite broadband](https://www.computerweekly.com/ehandbook/A-Computer-Weekly-buyers-guide-to-satellite-broadband)
-- [Robo investment platform adopts open banking-based payments](https://www.computerweekly.com/news/252525418/Robo-investment-platform-adopts-open-banking-based-payments)
-- [Guy’s Cancer collaborates with healthtech provider to digitise patient care](https://www.computerweekly.com/news/252525413/Guys-Cancer-collaborates-on-digitising-patient-care)
-- [American football giants jet into digital age with HCLTech](https://www.computerweekly.com/news/252525421/American-football-giants-jet-into-digital-age-with-HCLTech)
-- [Specsavers clinicians used company data to spot Covid referral collapse](https://www.computerweekly.com/news/252525409/Specsavers-clinicians-used-company-data-to-spot-Covid-referral-collapse)
-- [Broadcasters treat data science as niche and sporadic in use](https://www.computerweekly.com/news/252525410/Broadcasters-treat-data-science-as-niche-and-sporadic-in-use)
-- [Making digital a key ingredient at Mondelez](https://www.computerweekly.com/ezine/Computer-Weekly/Making-digital-a-key-ingredient-at-Mondelez)
-- [Bank warns of spike in online cost-of-living scams](https://www.computerweekly.com/news/252525391/Bank-warns-of-spike-in-online-cost-of-living-scams)
+- [AIOps for storage: Potential huge benefits, but lots of lock-in](https://www.computerweekly.com/feature/AIOps-for-storage-Potential-huge-benefits-but-lots-of-lock-in)
+- [Koch’s networking: Computer Weekly Downtime Upload podcast](https://www.computerweekly.com/podcast/Kochs-networking-Computer-Weekly-Downtime-Upload-podcast)
+- [Datacentres and energy, top women in tech – Computer Weekly Downtime Upload podcast](https://www.computerweekly.com/podcast/Datacentres-and-energy-top-women-in-tech-Computer-Weekly-Downtime-Upload-podcast)
+- [UK suffers third highest number of ransomware attacks globally](https://www.computerweekly.com/news/252525466/UK-suffers-third-highest-number-of-ransomware-attacks-globally)
+- [Whistleblower Peter Duffy calls for oversight of NHS records to prevent evidence tampering](https://www.computerweekly.com/news/252525465/Whistleblower-Peter-Duffy-calls-for-oversight-of-NHS-records-to-prevent-evidence-tampering)
+- [Data protection in Finland, four years after GDPR came into force](https://www.computerweekly.com/news/252525464/Data-protection-in-Finland-four-years-after-GDPR-came-into-force)
+- [Russia ready for complete switch to domestic IT infrastructure](https://www.computerweekly.com/news/252525417/Russia-ready-for-complete-switch-to-domestic-IT-infrastructure)
+- [Security Think Tank: Three steps to a solid DevSecOps strategy](https://www.computerweekly.com/opinion/Security-Think-Tank-Three-steps-to-a-solid-DevSecOps-strategy)
+- [Online Safety Bill needs complete overhaul, say rights groups](https://www.computerweekly.com/news/252525462/Online-Safety-Bill-needs-complete-overhaul-say-rights-groups)
+- [How the pandemic accelerated tech adoption in hospitality](https://www.computerweekly.com/feature/How-the-pandemic-accelerated-tech-adoption-in-hospitality)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

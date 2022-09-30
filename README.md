@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Hurricane Ian latest updates: 2 million in Florida lose power as storm weakens to category 2 – live](https://www.theguardian.com/us-news/live/2022/sep/28/hurricane-ian-florida-tracker-path-latest-updates)
-- [Mahsa Amini: how one women’s death ignited protests in Iran - podcast](https://www.theguardian.com/news/audio/2022/sep/29/mahsa-amini-how-one-womens-death-ignited-protests-in-iran-podcast)
-- [Coolio, US west coast rapper of Gangsta’s Paradise fame, dies aged 59](https://www.theguardian.com/music/2022/sep/28/coolio-dead-59-gangstas-paradise-rap)
-- [Shooting at California school campus leaves at least six people injured](https://www.theguardian.com/us-news/2022/sep/28/california-high-school-shooting-oakland)
-- [New Zealand bans live animal exports from April 2023](https://www.theguardian.com/world/2022/sep/29/new-zealand-bans-live-animal-exports-from-april-2023)
-- [Russia-Ukraine war latest: what we know on day 218 of the invasion](https://www.theguardian.com/world/2022/sep/29/russia-ukraine-war-latest-what-we-know-on-day-218-of-the-invasion)
-- [US strikes partnership deal with Pacific Island leaders at historic summit](https://www.theguardian.com/world/2022/sep/29/us-pledges-to-boost-aid-and-diplomacy-in-pacific-as-historic-summit-begins)
-- [Denmark’s Queen Margrethe strips four grandchildren of royal titles](https://www.theguardian.com/world/2022/sep/29/denmarks-queen-margrethe-strips-four-grandchildren-of-royal-titles)
-- [Ukraine calls for Russia to be declared ‘terrorist state’ after damning report](https://www.theguardian.com/world/2022/sep/29/ukraine-calls-for-russia-to-be-declared-terrorist-state-after-damning-report)
-- [Record 8m households in UK struggle to manage telecoms bills, says Ofcom](https://www.theguardian.com/business/2022/sep/29/record-8m-households-uk-struggle-telecoms-bills-ofcom-inflation-price-rises)
+- [More than 700 rescues in Florida as ‘historic storm’ heads towards South Carolina - live](https://www.theguardian.com/us-news/live/2022/sep/29/hurricane-ian-latest-updates-live-news-florida-storm)
+- [Dolphins’ loss to Bengals overshadowed by Tua Tagovailoa’s hospitalization](https://www.theguardian.com/sport/2022/sep/29/tua-tagovailoa-neck-head-injuries-miami-dolphins)
+- [Brazil’s election: a last chance to save the Amazon?](https://www.theguardian.com/news/audio/2022/sep/30/brazils-election-a-last-chance-to-save-the-amazon)
+- [Thumbs down to ‘middle finger’ health campaign in New Zealand](https://www.theguardian.com/world/2022/sep/30/thumbs-down-to-middle-finger-health-campaign-in-new-zealand)
+- [US announces aid for Pacific, as it tries to combat China’s influence in region](https://www.theguardian.com/world/2022/sep/30/us-announces-aid-for-pacific-as-it-tries-to-combat-chinas-influence-in-region)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/blog/2022/sep/30/premier-league-10-things-to-look-out-for-this-weekend)
+- [Average income of Deloitte’s partners in UK and Switzerland tops £1m](https://www.theguardian.com/business/2022/sep/30/average-income-deloitte-swiss-uk-partners)
+- [King Charles III 50p coin unveiled ahead of circulation this year](https://www.theguardian.com/uk-news/2022/sep/30/king-charles-iii-50p-coin-unveiled-ahead-of-circulation-this-year)
+- [Parents ‘eating cold meals’ to save on UK energy costs](https://www.theguardian.com/business/2022/sep/30/parents-eating-cold-meals-save-uk-energy-costs-food)
+- [BBC to broadcast lost episode of Hancock’s Half Hour](https://www.theguardian.com/culture/2022/sep/29/bbc-to-broadcast-lost-episode-of-hancocks-half-hour)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

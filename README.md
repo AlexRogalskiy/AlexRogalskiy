@@ -415,16 +415,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [38 year old Police Officer here looking for a career change to IT. Any tips/suggestions on how to start?](https://www.reddit.com/r/InformationTechnology/comments/xqld44/38_year_old_police_officer_here_looking_for_a/)
-- [Need to collect some info from people working in the IT industry for a school project](https://www.reddit.com/r/InformationTechnology/comments/xqctzf/need_to_collect_some_info_from_people_working_in/)
-- [Where to learn C# and Java](https://www.reddit.com/r/InformationTechnology/comments/xq7sgb/where_to_learn_c_and_java/)
-- [What is the most accurate way to determine how old a computer is? &lpar;Windows OS&rpar;](https://www.reddit.com/r/InformationTechnology/comments/xpzcsd/what_is_the_most_accurate_way_to_determine_how/)
-- [About to finish Google IT Support Specialist Cert. Landed internship...need help](https://www.reddit.com/r/InformationTechnology/comments/xpxn87/about_to_finish_google_it_support_specialist_cert/)
-- [Is it wise to get a bachelors degree in cybersecurity?](https://www.reddit.com/r/InformationTechnology/comments/xpug6x/is_it_wise_to_get_a_bachelors_degree_in/)
-- [New Job](https://www.reddit.com/r/InformationTechnology/comments/xpt22h/new_job/)
-- [Do Part-Time Help Desk positions exist for career changers?](https://www.reddit.com/r/InformationTechnology/comments/xprxpa/do_parttime_help_desk_positions_exist_for_career/)
-- [Need some volunteers for QnA Interview/Survey](https://www.reddit.com/r/InformationTechnology/comments/xpgnwo/need_some_volunteers_for_qna_interviewsurvey/)
-- [How can I learn IT?](https://www.reddit.com/r/InformationTechnology/comments/xpdc2q/how_can_i_learn_it/)
+- [&quot;Noob?&quot; question about WiFi](https://www.reddit.com/r/InformationTechnology/comments/xrr9h7/noob_question_about_wifi/)
+- [Is there a way to use an .ovf with vmdk file, but no .nvram file in VMware Workstation Pro?](https://www.reddit.com/r/InformationTechnology/comments/xrr94t/is_there_a_way_to_use_an_ovf_with_vmdk_file_but/)
+- [full stack developer versus Cloud engineer boot camp?](https://www.reddit.com/r/InformationTechnology/comments/xrptoz/full_stack_developer_versus_cloud_engineer_boot/)
+- [full stack developer versus Cloud engineer boot camp?](https://www.reddit.com/r/InformationTechnology/comments/xrou8l/full_stack_developer_versus_cloud_engineer_boot/)
+- [Can I get hired working from home with zero IT experience?](https://www.reddit.com/r/InformationTechnology/comments/xroj18/can_i_get_hired_working_from_home_with_zero_it/)
+- [I cannot wrap my head around what’s the difference between a “hub” &amp; a “unmanaged switch”.. please help me! Much appreciated!](https://www.reddit.com/r/InformationTechnology/comments/xro8eu/i_cannot_wrap_my_head_around_whats_the_difference/)
+- [Anyone knows about creating active directory in Windows? Using server manager? Im in a virtual machine and I could not find it. I tried to use the powershell as well](https://www.reddit.com/r/InformationTechnology/comments/xrmzmj/anyone_knows_about_creating_active_directory_in/)
+- [Best Practices - PLC data to cloud](https://www.reddit.com/r/InformationTechnology/comments/xrir93/best_practices_plc_data_to_cloud/)
+- [&quot;ComputerName$&quot; user account on my computer.](https://www.reddit.com/r/InformationTechnology/comments/xrbqo7/computername_user_account_on_my_computer/)
+- [Jira issue](https://www.reddit.com/r/InformationTechnology/comments/xr8zqx/jira_issue/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

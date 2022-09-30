@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [&quot;Ducks,” the Canadian cartoonist Kate Beaton’s new graphic memoir](https://www.newyorker.com/books/page-turner/how-kate-beaton-paid-off-her-student-loans)
-- [Meta has banned the personal Facebook accounts for everyone on our team](https://twitter.com/TheOGapp_/status/1575265782094647296)
-- [Kittyhawk Air Taxi Startup Is Winding Down](https://www.wsj.com/articles/kittyhawk-google-co-founder-larry-pages-air-taxi-startup-is-winding-down-11663792210)
-- [Converting Coal Power Plants to Nuclear Gains Steam](https://spectrum.ieee.org/nuclear-power-plant)
-- [Badssl.com](https://badssl.com/)
-- [Show HN: ButtFish – Transmit Morse Code of chess moves to your butt](https://github.com/RonSijm/ButtFish)
-- [Scientists find wreckage of ship that tried to warn Titanic of iceberg](https://www.cnn.com/travel/article/titanic-warning-ss-mesaba-irish-sea-intl-scli-scn/index.html)
-- [The most dangerous road for cyclists in America](https://www.bicycling.com/culture/a41119529/the-most-dangerous-road-for-cyclists-in-america/)
-- [New &lpar;LTE&rpar; Rotary Cell Phone [video]](https://www.youtube.com/watch?v=uV1C-41tq64)
-- [Matrix: Third Room Tech Preview [video]](https://matrix.org/blog/2022/09/27/announcing-third-room-tech-preview-1/)
+- [Lycoris Recoil: Turning Original Anime Production Chaos in Your Favor](https://blog.sakugabooru.com/2022/09/28/lycoris-recoil-and-shingo-adachi-turning-original-anime-production-chaos-in-your-favor/)
+- [The Reality of Celebratory Gunfire](https://www.1point21interactive.com/celebratory-gunfire/)
+- [Taking a Break](https://neugierig.org/software/blog/2022/09/break.html)
+- [MDM: Human Motion Diffusion Model](https://guytevet.github.io/mdm-page/)
+- [Private profiles are now generally available on GitHub](https://github.blog/changelog/2022-09-29-private-profiles-are-now-generally-available/)
+- [How to fix an ancient GDB problem](https://lwn.net/SubscriberLink/909496/a56a9a4ab41ff079/)
+- [The brain is the battlefield of the future](https://mwi.usma.edu/mwi-video-brain-battlefield-future-dr-james-giordano/)
+- [UK pensions hit with £100m margin calls as gilts and sterling slide](https://www.risk.net/derivatives/7954682/uk-pensions-hit-with-ps100m-margin-calls-as-gilts-and-sterling-slide)
+- [I Visited Bucha Today](https://www.amazonredshiftresearchproject.org/slblog/index.html#butcha)
+- [Why Modern Software Is Slow](https://randomascii.wordpress.com/2022/09/29/why-modern-software-is-slow-windows-voice-recorder/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

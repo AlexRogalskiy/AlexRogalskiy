@@ -430,16 +430,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Cybersecurity webinar open for all Canadian federal public servants](https://www.itworldcanada.com/article/cybersecurity-webinar-open-for-all-canadian-federal-public-servants/505538)
+- [Cataleya and Springboard partner to combine business intelligence and global infrastructure in a single solution](https://www.itworldcanada.com/article/cataleya-and-springboard-partner-to-combine-business-intelligence-and-global-infrastructure-in-a-single-solution/505217)
+- [Half of security pros believe risks in the cloud greater than on-prem: Survey](https://www.itworldcanada.com/article/half-of-security-pros-believe-risks-in-the-cloud-greater-than-on-prem-survey/505544)
+- [Hashtag Trending Sept. 29 – More EV charging stations; Meta shuts down political influence network; and FCC cracks down on spam texts](https://www.itworldcanada.com/article/hashtag-trending-sept-29-more-ev-charging-stations-meta-shuts-down-political-influence-network-and-fcc-cracks-down-on-spam-texts/505531)
 - [Fiona aftermath: N.S. premier irate over telecoms’ response to storm](https://www.itworldcanada.com/article/fiona-aftermath-n-s-premier-irate-over-telecoms-response-to-storm/505527)
 - [Microsoft report reveals new trends, productivity paranoia, in the hybrid work era](https://www.itworldcanada.com/article/microsoft-report-reveals-new-trends-productivity-paranoia-in-the-hybrid-work-era/505512)
 - [Hashtag Trending Sept. 28 – Girls Who Code book ban; Amazon’s early holiday sale; Netflix hires gaming experts](https://www.itworldcanada.com/article/hashtag-trending-sept-28-girls-who-code-book-ban-amazons-early-holiday-sale-netflix-hires-gaming-experts/505475)
 - [Leadership Coaches Weigh in on the New World of Work](https://www.itworldcanada.com/article/leadership-coaches-weigh-in-on-the-new-world-of-work/505188)
 - [Cyber Security Today, September 28, 2022 – PowerPoint delivers malware and more…](https://www.itworldcanada.com/article/cyber-security-today-september-28-2022-powerpoint-delivers-malware-and-more/505444)
 - [Infosys opens in Calgary with plans to create 1000 local jobs by 2024](https://www.itworldcanada.com/article/infosys-opens-in-calgary-with-plans-to-create-1000-local-jobs-by-2024/505127)
-- [Coffee Briefing-September 27, 2022 – OpsGuru achieves AWS Premier Tier Services Partner Status; ServiceNow launches Now Platform Tokyo; Eleven-x announces smart parking solution; and more](https://www.itworldcanada.com/article/coffee-briefing-september-27-2022-opsguru-achieves-aws-premier-tier-services-partner-status-servicenow-launches-now-platform-tokyo-eleven-x-announces-smart-parking-solution-and-more/504882)
-- [Intel launches 13th-gen ‘Raptor Lake-S’ desktop processors](https://www.itworldcanada.com/article/intel-launches-13th-gen-raptor-lake-s-desktop-processors/505152)
-- [Hashtag Trending Sept. 27 – TikTok faces fine from U.K.; Apple to make iPhone 14 in India; Camera system using AI being tested to catch drivers on phones](https://www.itworldcanada.com/article/hashtag-trending-sept-27-tiktok-faces-fine-from-u-k-apple-to-make-iphone-14-in-india-camera-system-using-ai-being-tested-to-catch-drivers-on-phones/505086)
-- [Nvidia GeForce RTX 4000 series graphics cards: promising specs but major pricing problems](https://www.itworldcanada.com/article/nvidia-geforce-rtx-4000-series-graphics-cards-promising-specs-but-major-pricing-problems/504343)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

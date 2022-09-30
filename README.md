@@ -400,16 +400,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [CDO interview: Danny Gonzalez, chief digital and innovation officer, London North Eastern Railway](https://www.computerweekly.com/news/252524997/CDO-interview-Danny-Gonzalez-chief-digital-and-innovation-officer-London-North-Eastern-Railway)
+- [Cost-of-living crisis could spur fintech adoption](https://www.computerweekly.com/news/252525516/Cost-of-living-crisis-could-spur-fintech-adoption)
+- [Five startups to join NCSC for Startups initiative](https://www.computerweekly.com/news/252525479/Five-startups-to-join-NCSC-for-Startups-initiative)
+- [What cloud users need to know: Ensuring greater end point engagement for improved cloud delivery](https://www.computerweekly.com/feature/What-cloud-users-need-to-know-Ensuring-greater-end-point-engagement-for-improved-cloud-delivery)
+- [Failure of Russia’s cyber attacks on Ukraine is most important lesson for NCSC](https://www.computerweekly.com/news/252525514/Failure-of-Russias-cyber-attacks-on-Ukraine-is-most-important-lesson-for-NCSC)
+- [KPMG: IT chiefs vote for innovation, but are they forgetting tech debt?](https://www.computerweekly.com/news/252525459/KPMG-IT-chiefs-vote-for-innovation-but-are-they-forgetting-tech-debt)
 - [AIOps for storage: Potential huge benefits, but lots of lock-in](https://www.computerweekly.com/feature/AIOps-for-storage-Potential-huge-benefits-but-lots-of-lock-in)
 - [Koch’s networking: Computer Weekly Downtime Upload podcast](https://www.computerweekly.com/podcast/Kochs-networking-Computer-Weekly-Downtime-Upload-podcast)
 - [Datacentres and energy, top women in tech – Computer Weekly Downtime Upload podcast](https://www.computerweekly.com/podcast/Datacentres-and-energy-top-women-in-tech-Computer-Weekly-Downtime-Upload-podcast)
 - [UK suffers third highest number of ransomware attacks globally](https://www.computerweekly.com/news/252525466/UK-suffers-third-highest-number-of-ransomware-attacks-globally)
-- [Whistleblower Peter Duffy calls for oversight of NHS records to prevent evidence tampering](https://www.computerweekly.com/news/252525465/Whistleblower-Peter-Duffy-calls-for-oversight-of-NHS-records-to-prevent-evidence-tampering)
-- [Data protection in Finland, four years after GDPR came into force](https://www.computerweekly.com/news/252525464/Data-protection-in-Finland-four-years-after-GDPR-came-into-force)
-- [Russia ready for complete switch to domestic IT infrastructure](https://www.computerweekly.com/news/252525417/Russia-ready-for-complete-switch-to-domestic-IT-infrastructure)
-- [Security Think Tank: Three steps to a solid DevSecOps strategy](https://www.computerweekly.com/opinion/Security-Think-Tank-Three-steps-to-a-solid-DevSecOps-strategy)
-- [Online Safety Bill needs complete overhaul, say rights groups](https://www.computerweekly.com/news/252525462/Online-Safety-Bill-needs-complete-overhaul-say-rights-groups)
-- [How the pandemic accelerated tech adoption in hospitality](https://www.computerweekly.com/feature/How-the-pandemic-accelerated-tech-adoption-in-hospitality)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

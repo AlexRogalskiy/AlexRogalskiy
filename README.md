@@ -370,16 +370,16 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Noberus Amps Its Tactics: How IT Leaders Can Keep Up with Evolving Ransomware](https://www.informationweek.com/security-and-risk-strategy/noberus-amps-its-tactics-how-it-leaders-can-keep-up-with-evolving-ransomware)
+- [Is It Time to Rethink DevSecOps After Major Security Breaches?](https://www.informationweek.com/devops/is-it-time-to-rethink-devsecops-after-major-security-breaches-)
+- [Can Low-Code Tools Really Deliver Business Value?](https://www.informationweek.com/devops/can-low-code-tools-really-deliver-business-value-)
+- [To BYOT &amp; Back Again: How IT Models are Evolving](https://www.informationweek.com/strategic-cio/to-byot-back-again-how-it-models-are-evolving)
 - [Why Branch Simplicity is Key for Digital Transformation](https://www.informationweek.com/palo-alto-networks/why-branch-simplicity-is-key-for-digital-transformation)
 - [How to Become an IT Thought Leader](https://www.informationweek.com/strategic-cio/how-to-become-an-it-thought-leader)
 - [Is the IT Strategic Plan Working for Your Organization?](https://www.informationweek.com/strategic-cio/is-the-it-strategic-plan-working-for-your-organization-)
 - [Want a Data Job? Learn Data Engineering, Not Data Science](https://www.informationweek.com/big-data/want-a-data-job-learn-data-engineering-not-data-science)
 - [Top 3 IT Service Management Misconceptions](https://www.informationweek.com/software/top-3-it-service-management-misconceptions)
 - [Quick Study: The Evolving Roles of CIOs and IT Leaders](https://www.informationweek.com/strategic-cio/quick-study-the-evolving-roles-of-cio-and-it-leaders)
-- [Level Up Your Analytics: How to Vet Third-Party Data Providers](https://www.informationweek.com/big-data/level-up-your-analytics-how-to-vet-third-party-data-providers)
-- [Cybersecurity Just Became a Board Issue for Real](https://www.informationweek.com/security-and-risk-strategy/cybersecurity-just-became-a-board-issue-for-real)
-- [Data Management Models for the Cloud](https://www.informationweek.com/cloud/data-management-models-for-the-cloud)
-- [Top 10 Trends Transforming the Cloud, According to Forrester](https://www.informationweek.com/cloud/top-10-trends-transforming-the-cloud-according-to-forrester)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

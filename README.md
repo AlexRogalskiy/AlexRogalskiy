@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [RootMyTV is a user-friendly exploit for rooting/jailbreaking LG webOS smart TVs](https://github.com/RootMyTV/RootMyTV.github.io)
-- [Dev blog exploring retro &lpar;Windows 95&rpar; computer virus development](https://log.vexation.ca)
-- [On Mr. Beast and Being Alone in a Circle for 100 Days](https://coldhealing.substack.com/p/on-mr-beast-and-being-alone-in-a)
-- [Coding Machines &lpar;2009&rpar;](https://www.teamten.com/lawrence/writings/coding-machines/)
-- [Remote work drove more than 60% of home price surge during pandemic: Fed study](https://nypost.com/2022/09/26/remote-work-drove-more-than-60-of-home-price-surge-during-pandemic-fed-study/)
-- [Google Search adding ‘Discussions and forums’ section](https://9to5google.com/2022/09/28/google-search-discussions-forums/)
-- [For developers, flow state starts with your finger tips](https://stackoverflow.blog/2022/09/28/for-developers-flow-state-starts-with-your-finger-tips/)
-- [Concrete paths to avert existential risk from AI](https://www.lesswrong.com/posts/AsNjqggQQ4yJcbsWn/ai-safety-endgame-stories)
-- [Doctors tell all – and it&#39;s bad](https://www.theatlantic.com/magazine/archive/2014/11/doctors-tell-all-and-its-bad/380785/)
-- [Cloudflare&#39;s CAPTCHA replacement lacks crosswalks, checkboxes, Google](https://arstechnica.com/information-technology/2022/09/cloudflares-captcha-replacement-lacks-crosswalks-checkboxes-google/)
+- [The weirdest deep-sea creatures that lurk in the oceans](https://www.sciencefocus.com/nature/deep-sea-creatures/)
+- [Leading VC to provide up to $1.25B to back startups built on Cloudflare Workers](https://blog.cloudflare.com/workers-launchpad/)
+- [Johnstown Flood](https://en.wikipedia.org/wiki/Johnstown_Flood)
+- [Mystery Hackers Are ‘Hyperjacking’ Targets for Insidious Spying](https://www.wired.com/story/hyperjacking-vmware-mandiant/)
+- [Hacker shares how they allegedly breached Fast Company’s site](https://www.bleepingcomputer.com/news/security/hacker-shares-how-they-allegedly-breached-fast-company-s-site/)
+- [Where does the bad code come from? [video]](https://www.youtube.com/watch?v=7YpFGkG-u1w)
+- [California companies must include salary ranges in job postings under new law](https://www.sfchronicle.com/politics/article/California-companies-must-include-salary-ranges-17470742.php)
+- [How to shift an 18 speed transmission](https://www.youtube.com/watch?v=8mBgrsS5rDU)
+- [Pakistan PM house bugged hacker claims to have hacked the bugger now blackmail?](https://news.ycombinator.com/item?id=33030751)
+- [Authors Publish Letter Protesting Publishers’ Lawsuit Against Internet Archive](https://deadline.com/2022/09/authors-open-letter-publishers-lawsuit-internet-archive-1235129802/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

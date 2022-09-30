@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Atlassian takes aim at app sprawl with collaboration-suite subscription service](https://www.computerworld.com/article/3675388/atlassian-takes-aim-at-saas-sprawl-with-new-subscription-service-for-its-work-management-suite.html#tk.rss_all)
+- [iPhone users complain iOS 16 is a battery drain, has other issues](https://www.computerworld.com/article/3675533/iphone-users-complain-ios-16-is-a-battery-drain-has-other-issues.html#tk.rss_all)
+- [Apple’s enterprise IT pitch: Management, security, identity](https://www.computerworld.com/article/3675331/apples-enterprise-it-pitch-management-security-identity.html#tk.rss_all)
+- [MIT-based startup&#39;s cooling tech can cut data center energy costs, footprint](https://www.networkworld.com/article/3675328/mit-based-startups-cooling-tech-can-cut-data-center-energy-costs-footprint.html#tk.rss_all)
+- [7 secrets for a smarter Android Chrome experience](https://www.computerworld.com/article/3674831/android-chrome-secrets.html#tk.rss_all)
 - [16 Wall Street firms fined $1.8B for using private text apps, lying about it](https://www.computerworld.com/article/3675289/16-wall-street-firms-fined-18b-for-using-private-text-apps-lying-about-it.html#tk.rss_all)
 - [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [How Ukraine’s MacPaw got its business ready for war](https://www.computerworld.com/article/3674870/how-ukraines-macpaw-got-its-business-ready-for-war.html#tk.rss_all)
 - [Mozilla: Apple, Google, and Microsoft lock you into their browsers](https://www.computerworld.com/article/3674858/mozilla-apple-google-and-microsoft-lock-you-into-their-browsers.html#tk.rss_all)
-- [Jamf touts big boost to enterprise security at JNUC](https://www.computerworld.com/article/3674843/jamf-touts-big-boost-to-enterprise-security-at-jnuc.html#tk.rss_all)
-- [Apple CEO Tim Cook wants more women in tech](https://www.computerworld.com/article/3674840/apple-ceo-tim-cook-wants-more-women-in-tech.html#tk.rss_all)
-- [GoTo adds co-browsing functionality to its contact center offering](https://www.computerworld.com/article/3674839/goto-adds-co-browsing-functionality-to-its-contact-center-offering.html#tk.rss_all)
-- [How to pick the right DEX tool for the best digital employee experience](https://www.computerworld.com/article/3669288/how-to-choose-digital-employee-experience-tool.html#tk.rss_all)
-- [Windows 11 22H2 gets a slew of new group policy changes](https://www.computerworld.com/article/3674835/windows-11-22h2-gets-a-slew-of-new-group-policy-changes.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

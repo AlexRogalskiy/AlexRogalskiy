@@ -370,6 +370,8 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Forrester and Finovate Conferences Continue Diversity Dialogues](https://www.informationweek.com/fintech/forrester-and-finovate-conferences-continue-diversity-dialogues)
+- [No One’s in the Safe Zone: Preparing for a Cyber Hurricane](https://www.informationweek.com/security-and-risk-strategy/no-one-s-in-the-safe-zone-preparing-for-a-cyber-hurricane)
 - [Noberus Amps Its Tactics: How IT Leaders Can Keep Up with Evolving Ransomware](https://www.informationweek.com/security-and-risk-strategy/noberus-amps-its-tactics-how-it-leaders-can-keep-up-with-evolving-ransomware)
 - [Is It Time to Rethink DevSecOps After Major Security Breaches?](https://www.informationweek.com/devops/is-it-time-to-rethink-devsecops-after-major-security-breaches-)
 - [Can Low-Code Tools Really Deliver Business Value?](https://www.informationweek.com/devops/can-low-code-tools-really-deliver-business-value-)
@@ -378,8 +380,6 @@
 - [How to Become an IT Thought Leader](https://www.informationweek.com/strategic-cio/how-to-become-an-it-thought-leader)
 - [Is the IT Strategic Plan Working for Your Organization?](https://www.informationweek.com/strategic-cio/is-the-it-strategic-plan-working-for-your-organization-)
 - [Want a Data Job? Learn Data Engineering, Not Data Science](https://www.informationweek.com/big-data/want-a-data-job-learn-data-engineering-not-data-science)
-- [Top 3 IT Service Management Misconceptions](https://www.informationweek.com/software/top-3-it-service-management-misconceptions)
-- [Quick Study: The Evolving Roles of CIOs and IT Leaders](https://www.informationweek.com/strategic-cio/quick-study-the-evolving-roles-of-cio-and-it-leaders)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

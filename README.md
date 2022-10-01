@@ -400,6 +400,9 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [A new take on an old relationship: Nordic startups lure UK investors to their front doors](https://www.computerweekly.com/news/252525576/A-new-take-on-an-old-relationship-Nordic-startups-lure-UK-investors-to-their-front-doors)
+- [Surveillance tech firms complicit in MENA human rights abuses](https://www.computerweekly.com/news/252525584/Surveillance-tech-firms-complicit-in-MENA-human-rights-abuses)
+- [Interview: Rachel Hilliam, chair, Alliance for Data Science Professionals](https://www.computerweekly.com/news/252525007/Interview-Rachel-Hilliam-chair-Alliance-for-Data-Science-Professionals)
 - [CDO interview: Danny Gonzalez, chief digital and innovation officer, London North Eastern Railway](https://www.computerweekly.com/news/252524997/CDO-interview-Danny-Gonzalez-chief-digital-and-innovation-officer-London-North-Eastern-Railway)
 - [Cost-of-living crisis could spur fintech adoption](https://www.computerweekly.com/news/252525516/Cost-of-living-crisis-could-spur-fintech-adoption)
 - [Five startups to join NCSC for Startups initiative](https://www.computerweekly.com/news/252525479/Five-startups-to-join-NCSC-for-Startups-initiative)
@@ -407,9 +410,6 @@
 - [Failure of Russia’s cyber attacks on Ukraine is most important lesson for NCSC](https://www.computerweekly.com/news/252525514/Failure-of-Russias-cyber-attacks-on-Ukraine-is-most-important-lesson-for-NCSC)
 - [KPMG: IT chiefs vote for innovation, but are they forgetting tech debt?](https://www.computerweekly.com/news/252525459/KPMG-IT-chiefs-vote-for-innovation-but-are-they-forgetting-tech-debt)
 - [AIOps for storage: Potential huge benefits, but lots of lock-in](https://www.computerweekly.com/feature/AIOps-for-storage-Potential-huge-benefits-but-lots-of-lock-in)
-- [Koch’s networking: Computer Weekly Downtime Upload podcast](https://www.computerweekly.com/podcast/Kochs-networking-Computer-Weekly-Downtime-Upload-podcast)
-- [Datacentres and energy, top women in tech – Computer Weekly Downtime Upload podcast](https://www.computerweekly.com/podcast/Datacentres-and-energy-top-women-in-tech-Computer-Weekly-Downtime-Upload-podcast)
-- [UK suffers third highest number of ransomware attacks globally](https://www.computerweekly.com/news/252525466/UK-suffers-third-highest-number-of-ransomware-attacks-globally)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

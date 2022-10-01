@@ -430,16 +430,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
-- [Cybersecurity webinar open for all Canadian federal public servants](https://www.itworldcanada.com/article/cybersecurity-webinar-open-for-all-canadian-federal-public-servants/505538)
-- [Cataleya and Springboard partner to combine business intelligence and global infrastructure in a single solution](https://www.itworldcanada.com/article/cataleya-and-springboard-partner-to-combine-business-intelligence-and-global-infrastructure-in-a-single-solution/505217)
-- [Half of security pros believe risks in the cloud greater than on-prem: Survey](https://www.itworldcanada.com/article/half-of-security-pros-believe-risks-in-the-cloud-greater-than-on-prem-survey/505544)
-- [Hashtag Trending Sept. 29 – More EV charging stations; Meta shuts down political influence network; and FCC cracks down on spam texts](https://www.itworldcanada.com/article/hashtag-trending-sept-29-more-ev-charging-stations-meta-shuts-down-political-influence-network-and-fcc-cracks-down-on-spam-texts/505531)
-- [Fiona aftermath: N.S. premier irate over telecoms’ response to storm](https://www.itworldcanada.com/article/fiona-aftermath-n-s-premier-irate-over-telecoms-response-to-storm/505527)
-- [Microsoft report reveals new trends, productivity paranoia, in the hybrid work era](https://www.itworldcanada.com/article/microsoft-report-reveals-new-trends-productivity-paranoia-in-the-hybrid-work-era/505512)
-- [Hashtag Trending Sept. 28 – Girls Who Code book ban; Amazon’s early holiday sale; Netflix hires gaming experts](https://www.itworldcanada.com/article/hashtag-trending-sept-28-girls-who-code-book-ban-amazons-early-holiday-sale-netflix-hires-gaming-experts/505475)
-- [Leadership Coaches Weigh in on the New World of Work](https://www.itworldcanada.com/article/leadership-coaches-weigh-in-on-the-new-world-of-work/505188)
-- [Cyber Security Today, September 28, 2022 – PowerPoint delivers malware and more…](https://www.itworldcanada.com/article/cyber-security-today-september-28-2022-powerpoint-delivers-malware-and-more/505444)
-- [Infosys opens in Calgary with plans to create 1000 local jobs by 2024](https://www.itworldcanada.com/article/infosys-opens-in-calgary-with-plans-to-create-1000-local-jobs-by-2024/505127)
+- [Responsible data use and customer education can encourage consumers to share their data, Xero says](https://www.itworldcanada.com/article/responsible-data-use-and-customer-education-can-encourage-consumers-to-share-their-data-xero-says/505068)
+- [Broadband woes derailing smart farming initiatives: CRRBC panel](https://www.itworldcanada.com/article/broadband-woes-derailing-smart-farming-initiatives-crrbc-panel/505890)
+- [Cyber Security Today, Week in Review for Friday, September 30, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-september-30-2022/505685)
+- [Federal privacy commissioner silent on proposed new privacy act for businesses](https://www.itworldcanada.com/article/federal-privacy-commissioner-silent-on-proposed-new-privacy-act-for-businesses/505696)
+- [Canadians are not doing enough to protect themselves against increasing cyber threats: RBC Cyber Security Poll](https://www.itworldcanada.com/article/canadians-are-not-doing-enough-to-protect-themselves-against-increasing-cyber-threats-rbc-cyber-security-poll/505592)
+- [ATB Ventures introduces suite of digital identity products](https://www.itworldcanada.com/article/atb-ventures-introduces-suite-of-digital-identity-products/505631)
+- [Prilex POS attack group more active this year, report warns](https://www.itworldcanada.com/article/prilex-pos-attack-group-more-active-this-year-report-warns/505562)
+- [VMware admins warned to harden hypervisors](https://www.itworldcanada.com/article/vmware-admins-warned-to-harden-hypervisors/505755)
+- [Listen to Interac’s hot new single to help with intentional spending](https://www.itworldcanada.com/article/listen-to-interacs-hot-new-single-to-help-with-intentional-spending/505669)
+- [Hashtag Trending Sept. 30 – Amazon raises wages; Google shuts down Stadia, Instagram bans Pornhub](https://www.itworldcanada.com/article/hashtag-trending-sept-30-amazon-raises-wages-google-shuts-down-stadia-instagram-bans-pornhub/505776)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The weirdest deep-sea creatures that lurk in the oceans](https://www.sciencefocus.com/nature/deep-sea-creatures/)
-- [Leading VC to provide up to $1.25B to back startups built on Cloudflare Workers](https://blog.cloudflare.com/workers-launchpad/)
-- [Johnstown Flood](https://en.wikipedia.org/wiki/Johnstown_Flood)
-- [Mystery Hackers Are ‘Hyperjacking’ Targets for Insidious Spying](https://www.wired.com/story/hyperjacking-vmware-mandiant/)
-- [Hacker shares how they allegedly breached Fast Company’s site](https://www.bleepingcomputer.com/news/security/hacker-shares-how-they-allegedly-breached-fast-company-s-site/)
-- [Where does the bad code come from? [video]](https://www.youtube.com/watch?v=7YpFGkG-u1w)
-- [California companies must include salary ranges in job postings under new law](https://www.sfchronicle.com/politics/article/California-companies-must-include-salary-ranges-17470742.php)
-- [How to shift an 18 speed transmission](https://www.youtube.com/watch?v=8mBgrsS5rDU)
-- [Pakistan PM house bugged hacker claims to have hacked the bugger now blackmail?](https://news.ycombinator.com/item?id=33030751)
-- [Authors Publish Letter Protesting Publishers’ Lawsuit Against Internet Archive](https://deadline.com/2022/09/authors-open-letter-publishers-lawsuit-internet-archive-1235129802/)
+- [MrBeast Said He Turned Down $1B Deal for His YouTube Channel](https://www.insider.com/mr-beast-turned-down-1-billion-dollar-deal-youtuber-2022-9)
+- [Japan spent ¥2.84T in September intervention to prop up yen](https://www.japantimes.co.jp/news/2022/09/30/business/financial-markets/japan-forex-intervention-total/)
+- [Those who didn&#39;t have access to a PC as a kid, how did you learn to code later?](https://news.ycombinator.com/item?id=33043803)
+- [The Era of Fast, Cheap Genome Sequencing Is Here](https://www.wired.com/story/the-era-of-fast-cheap-genome-sequencing-is-here/)
+- [Elon Musk Unveils Humanoid ‘Optimus’ Robot at Tesla’s AI Day](https://www.theguardian.com/technology/2022/sep/30/tesla-optimus-humanoid-robot-elon-musk-ai-day)
+- [Trevor noah leaving daily show](https://variety.com/2022/tv/news/trevor-noah-leaving-daily-show-1235388893/)
+- [Slow Migration of User Data](https://fusionauth.io/learn/expert-advice/identity-basics/slow-migration)
+- [Spain’s Largest Telecom Company Telefónica Now Accepts Bitcoin, Crypto Payments](https://bitcoinmagazine.com/business/spains-telef%C3%B3nica-begins-accepting-bitcoin-crypto-payments)
+- [An AI called Dragonfly is helping design faster-charging batteries](https://www.popsci.com/technology/ai-robotics-battery-design-discovery/)
+- [Nord Stream Attacks Expose Vulnerability of EU Infrastructure](https://www.spiegel.de/politik/deutschland/nord-stream-anschlag-operation-seebeben-a-2525d727-a892-4781-89b7-34cd5d1ecae3)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

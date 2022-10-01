@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [More than 700 rescues in Florida as ‘historic storm’ heads towards South Carolina - live](https://www.theguardian.com/us-news/live/2022/sep/29/hurricane-ian-latest-updates-live-news-florida-storm)
-- [Dolphins’ loss to Bengals overshadowed by Tua Tagovailoa’s hospitalization](https://www.theguardian.com/sport/2022/sep/29/tua-tagovailoa-neck-head-injuries-miami-dolphins)
-- [Brazil’s election: a last chance to save the Amazon?](https://www.theguardian.com/news/audio/2022/sep/30/brazils-election-a-last-chance-to-save-the-amazon)
-- [Thumbs down to ‘middle finger’ health campaign in New Zealand](https://www.theguardian.com/world/2022/sep/30/thumbs-down-to-middle-finger-health-campaign-in-new-zealand)
-- [US announces aid for Pacific, as it tries to combat China’s influence in region](https://www.theguardian.com/world/2022/sep/30/us-announces-aid-for-pacific-as-it-tries-to-combat-chinas-influence-in-region)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/blog/2022/sep/30/premier-league-10-things-to-look-out-for-this-weekend)
-- [Average income of Deloitte’s partners in UK and Switzerland tops £1m](https://www.theguardian.com/business/2022/sep/30/average-income-deloitte-swiss-uk-partners)
-- [King Charles III 50p coin unveiled ahead of circulation this year](https://www.theguardian.com/uk-news/2022/sep/30/king-charles-iii-50p-coin-unveiled-ahead-of-circulation-this-year)
-- [Parents ‘eating cold meals’ to save on UK energy costs](https://www.theguardian.com/business/2022/sep/30/parents-eating-cold-meals-save-uk-energy-costs-food)
-- [BBC to broadcast lost episode of Hancock’s Half Hour](https://www.theguardian.com/culture/2022/sep/29/bbc-to-broadcast-lost-episode-of-hancocks-half-hour)
+- [North Korea fires ballistic missiles in fourth launch in a week after naval drills](https://www.theguardian.com/world/2022/oct/01/north-korea-fires-ballistic-missiles-in-fourth-launch-in-a-week-after-naval-drills)
+- [Elon Musk unveils humanoid ‘Optimus’ robot at Tesla’s AI Day](https://www.theguardian.com/technology/2022/sep/30/tesla-optimus-humanoid-robot-elon-musk-ai-day)
+- [Hurricane Ian moves into South Carolina after rampage in Florida](https://www.theguardian.com/us-news/2022/sep/30/hurricane-ian-south-carolina-charleston-florida-death-toll)
+- [Russia-Ukraine war latest: what we know on day 220 of the invasion](https://www.theguardian.com/world/2022/oct/01/russia-ukraine-war-latest-what-we-know-on-day-220-of-the-invasion)
+- [What happened in the Russia-Ukraine war this week? Catch up with the must-read news and analysis](https://www.theguardian.com/world/2022/oct/01/what-happened-in-the-russia-ukraine-war-this-week-catch-up-with-the-must-read-news-and-analysis)
+- [What’s on Netflix and Amazon this month – October](https://www.theguardian.com/tv-and-radio/ng-interactive/2022/oct/01/whats-on-netflix-and-amazon-this-month-october)
+- [The week around the world in 20 pictures](https://www.theguardian.com/artanddesign/gallery/2022/sep/30/the-week-around-the-world-in-20-pictures)
+- [Worcester players turn against owners after statement blaming squad](https://www.theguardian.com/sport/2022/sep/30/worcester-rugby-players-and-staff-could-be-out-of-work-within-days)
+- [Russia’s consulate in New York vandalized in apparent protest](https://www.theguardian.com/us-news/2022/sep/30/russia-consulate-new-york-vandalized-ukraine-war)
+- [A quest for romance ended with a woodchipper and two murder trials](https://www.theguardian.com/australia-news/2022/oct/01/a-quest-for-romance-ended-with-a-woodchipper-and-two-trials)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

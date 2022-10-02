@@ -415,6 +415,7 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Northern Virginia](https://www.reddit.com/r/InformationTechnology/comments/xsxm3b/northern_virginia/)
 - [Does anyone know how to make new Hotkeys?](https://www.reddit.com/r/InformationTechnology/comments/xs92dv/does_anyone_know_how_to_make_new_hotkeys/)
 - [Can I negotiate salary from a new job offer?](https://www.reddit.com/r/InformationTechnology/comments/xs7dmb/can_i_negotiate_salary_from_a_new_job_offer/)
 - [Anyone with the same situation? EAD holder](https://www.reddit.com/r/InformationTechnology/comments/xs2l27/anyone_with_the_same_situation_ead_holder/)
@@ -424,7 +425,6 @@
 - [full stack developer versus Cloud engineer boot camp?](https://www.reddit.com/r/InformationTechnology/comments/xrptoz/full_stack_developer_versus_cloud_engineer_boot/)
 - [full stack developer versus Cloud engineer boot camp?](https://www.reddit.com/r/InformationTechnology/comments/xrou8l/full_stack_developer_versus_cloud_engineer_boot/)
 - [Can I get hired working from home with zero IT experience?](https://www.reddit.com/r/InformationTechnology/comments/xroj18/can_i_get_hired_working_from_home_with_zero_it/)
-- [I cannot wrap my head around what’s the difference between a “hub” &amp; a “unmanaged switch”.. please help me! Much appreciated!](https://www.reddit.com/r/InformationTechnology/comments/xro8eu/i_cannot_wrap_my_head_around_whats_the_difference/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

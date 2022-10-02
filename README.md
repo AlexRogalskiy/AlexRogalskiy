@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Nier Automata for Switch is a miracle port](https://www.rpgsite.net/feature/13323-nier-automata-for-switch-is-a-miracle-port)
-- [YouTube age-restriction quagmire exposed by 78-minute Mega Man documentary](https://arstechnica.com/gaming/2022/09/youtube-age-restriction-quagmire-exposed-by-78-minute-mega-man-documentary/)
-- [GitHub&#39;s Missing Merge Option](https://tylercipriani.com/blog/2022/09/30/githubs-missing-merge-option/)
-- [H4CK1NG G00GL3](https://h4ck1ng.google)
-- [Magic Leap 2: The most immersive AR platform for enterprise](https://www.magicleap.com/en-us/magic-leap-2-video)
-- [Co-Founding Considered Harmful](https://florentcrivello.com/co-founding-considered-harmful/)
-- [The Fedora Project Remains Community Driven](https://theevilskeleton.gitlab.io/2022/09/30/the-fedora-project-remains-community-driven.html)
-- [Lyra V2 – a better, faster, and more versatile speech codec](https://opensource.googleblog.com/2022/09/lyra-v2-a-better-faster-and-more-versatile-speech-codec.html)
-- [Citrix acquired and merged with Tibco for $16.5B](https://www.cloud.com/news/press-release.html)
-- [AirMyne &lpar;YC W22&rpar; is hiring a chemical engineer in Berkeley, CA](https://www.ycombinator.com/companies/airmyne/jobs/4F7mJr4-chemical-engineer)
+- [NetNewsWire: Free and Open Source RSS Reader for Mac and iOS](https://netnewswire.com/)
+- [Palantir Had Secret Plan to Crack UK’s NHS: ‘Buying Our Way In’](https://www.bloomberg.com/news/articles/2022-09-30/palantir-had-plan-to-crack-uk-health-system-buying-our-way-in)
+- [An Elegy for GNU and RMS](https://catgirl.ai/log/elegy-gnu/)
+- [Stadia died because no one trusts Google](https://techcrunch.com/2022/10/01/stadia-died-because-no-one-trusts-google/)
+- [How Writing Has Spread Across the World, from 3000 BC to This Year](https://www.openculture.com/2022/09/how-writing-has-spread-across-the-world-from-3000-bc-to-this-year-an-animated-map.html)
+- [Remote Functions. Instead of API](https://telefunc.com/)
+- [Systems Software Research is Irrelevant &lpar;2000&rpar; [pdf]](https://doc.cat-v.org/bell_labs/utah2000/utah2000.pdf)
+- [230K Chinese “persuaded to return” from abroad to establish Extraterritoriality](https://safeguarddefenders.com/en/blog/230000-policing-expands)
+- [Stellarium 1.0](https://stellarium.org/release/2022/10/01/stellarium-1.0.html)
+- [Padlet &lpar;YC W13&rpar; Is Hiring in SF to Build Software for a Good Education](https://padlet.jobs)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [MrBeast Said He Turned Down $1B Deal for His YouTube Channel](https://www.insider.com/mr-beast-turned-down-1-billion-dollar-deal-youtuber-2022-9)
-- [Japan spent ¥2.84T in September intervention to prop up yen](https://www.japantimes.co.jp/news/2022/09/30/business/financial-markets/japan-forex-intervention-total/)
-- [Those who didn&#39;t have access to a PC as a kid, how did you learn to code later?](https://news.ycombinator.com/item?id=33043803)
-- [The Era of Fast, Cheap Genome Sequencing Is Here](https://www.wired.com/story/the-era-of-fast-cheap-genome-sequencing-is-here/)
-- [Elon Musk Unveils Humanoid ‘Optimus’ Robot at Tesla’s AI Day](https://www.theguardian.com/technology/2022/sep/30/tesla-optimus-humanoid-robot-elon-musk-ai-day)
-- [Trevor noah leaving daily show](https://variety.com/2022/tv/news/trevor-noah-leaving-daily-show-1235388893/)
-- [Slow Migration of User Data](https://fusionauth.io/learn/expert-advice/identity-basics/slow-migration)
-- [Spain’s Largest Telecom Company Telefónica Now Accepts Bitcoin, Crypto Payments](https://bitcoinmagazine.com/business/spains-telef%C3%B3nica-begins-accepting-bitcoin-crypto-payments)
-- [An AI called Dragonfly is helping design faster-charging batteries](https://www.popsci.com/technology/ai-robotics-battery-design-discovery/)
-- [Nord Stream Attacks Expose Vulnerability of EU Infrastructure](https://www.spiegel.de/politik/deutschland/nord-stream-anschlag-operation-seebeben-a-2525d727-a892-4781-89b7-34cd5d1ecae3)
+- [Oh goodie, now everyone can share NFTs on Instagram or Facebook](https://www.theverge.com/2022/9/30/23380631/meta-nft-digital-collectibles-instagram-facebook)
+- [It costs $0 to start a business](https://twitter.com/IAmPascio/status/1573666136473862145)
+- [Why there&#39;s no “who is hiring” thread this month?](https://news.ycombinator.com/item?id=33052679)
+- [DigitalSherlocks Scholarships](https://www.digitalsherlocks.org/360os-digitalsherlocks)
+- [‘Inventor of the Future’ Review: Buckminster Fuller’s Big Designs](https://www.wsj.com/articles/inventor-of-the-future-book-review-buckminster-fullers-big-designs-11664551418)
+- [Open Letter to the Whostp and Subcommittee on Open Science](https://ostp-letter.github.io/)
+- [Milky Way&#39;s graveyard of dead stars found](https://phys.org/news/2022-09-milky-graveyard-dead-stars.html)
+- [Star Trek’s Lieutenant Uhura Overcame Astronomical Odds](https://www.quantamagazine.org/how-star-treks-lieutenant-uhura-overcame-astronomical-odds-20220930/)
+- [LSD-like molecules counter depession without the trip](https://www.ucsf.edu/news/2022/09/423891/lsd-molecules-counter-depression-without-trip)
+- [Text Is the Universal Interface](https://scale.com/blog/text-universal-interface)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

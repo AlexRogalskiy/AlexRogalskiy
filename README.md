@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [North Korea fires ballistic missiles in fourth launch in a week after naval drills](https://www.theguardian.com/world/2022/oct/01/north-korea-fires-ballistic-missiles-in-fourth-launch-in-a-week-after-naval-drills)
-- [Elon Musk unveils humanoid ‘Optimus’ robot at Tesla’s AI Day](https://www.theguardian.com/technology/2022/sep/30/tesla-optimus-humanoid-robot-elon-musk-ai-day)
-- [Hurricane Ian moves into South Carolina after rampage in Florida](https://www.theguardian.com/us-news/2022/sep/30/hurricane-ian-south-carolina-charleston-florida-death-toll)
-- [Russia-Ukraine war latest: what we know on day 220 of the invasion](https://www.theguardian.com/world/2022/oct/01/russia-ukraine-war-latest-what-we-know-on-day-220-of-the-invasion)
-- [What happened in the Russia-Ukraine war this week? Catch up with the must-read news and analysis](https://www.theguardian.com/world/2022/oct/01/what-happened-in-the-russia-ukraine-war-this-week-catch-up-with-the-must-read-news-and-analysis)
-- [What’s on Netflix and Amazon this month – October](https://www.theguardian.com/tv-and-radio/ng-interactive/2022/oct/01/whats-on-netflix-and-amazon-this-month-october)
-- [The week around the world in 20 pictures](https://www.theguardian.com/artanddesign/gallery/2022/sep/30/the-week-around-the-world-in-20-pictures)
-- [Worcester players turn against owners after statement blaming squad](https://www.theguardian.com/sport/2022/sep/30/worcester-rugby-players-and-staff-could-be-out-of-work-within-days)
-- [Russia’s consulate in New York vandalized in apparent protest](https://www.theguardian.com/us-news/2022/sep/30/russia-consulate-new-york-vandalized-ukraine-war)
-- [A quest for romance ended with a woodchipper and two murder trials](https://www.theguardian.com/australia-news/2022/oct/01/a-quest-for-romance-ended-with-a-woodchipper-and-two-trials)
+- [Venezuela swaps prisoners with US in hint of thawing relations](https://www.theguardian.com/world/2022/oct/02/venezuelan-swaps-prisoners-with-us-in-hint-of-thawing-relations)
+- [Indonesia football riot: 129 people killed after stampede at match](https://www.theguardian.com/world/2022/oct/02/indonesia-football-fans-killed-east-java-arema-malang)
+- [The 2022 Deni Ute Muster – in pictures](https://www.theguardian.com/australia-news/gallery/2022/oct/02/the-2022-deni-ute-muster-in-pictures)
+- [Till review – sensitive Emmett Till drama aims to educate and honor](https://www.theguardian.com/film/2022/oct/01/till-review-sensitive-emmett-till-drama-aims-to-educate-and-honor)
+- [Russia-Ukraine war latest: what we know on day 221 of the invasion](https://www.theguardian.com/world/2022/oct/02/russia-ukraine-war-latest-what-we-know-on-day-221-of-the-invasion)
+- [North star: actor Olivia Cooke - in pictures](https://www.theguardian.com/fashion/gallery/2022/oct/01/north-star-actor-olivia-cooke-in-pictures)
+- [Wild things: Roar into autumn with leopard print](https://www.theguardian.com/fashion/2022/oct/02/wild-things-roar-into-autumn-with-leopard-print)
+- [Humiliation for Vladimir Putin as Ukrainians liberate key city of Lyman](https://www.theguardian.com/world/2022/oct/01/humiliation-for-vladimir-putin-as-ukrainians-liberate-key-city-of-lyman)
+- [Ministers warn of scammers posing as energy bill support scheme](https://www.theguardian.com/money/2022/oct/01/energy-bill-support-scheme-scam-alert)
+- [‘He can come back stronger’: Kipchoge backs Farah to get over injury problems](https://www.theguardian.com/sport/2022/oct/01/he-can-come-back-stronger-kipchoge-backs-farah-to-get-over-injury-problems)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -430,6 +430,7 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Hashtag Trending Weekend Edition – Interview with Jim Balsillie, co-founder of BlackBerry and the CIO Strategy Council](https://www.itworldcanada.com/article/hashtag-trending-weekend-edition-interview-with-jim-balsillie-co-founder-of-blackberry/505852)
 - [Responsible data use and customer education can encourage consumers to share their data, Xero says](https://www.itworldcanada.com/article/responsible-data-use-and-customer-education-can-encourage-consumers-to-share-their-data-xero-says/505068)
 - [Broadband woes derailing smart farming initiatives: CRRBC panel](https://www.itworldcanada.com/article/broadband-woes-derailing-smart-farming-initiatives-crrbc-panel/505890)
 - [Cyber Security Today, Week in Review for Friday, September 30, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-september-30-2022/505685)
@@ -439,7 +440,6 @@
 - [Prilex POS attack group more active this year, report warns](https://www.itworldcanada.com/article/prilex-pos-attack-group-more-active-this-year-report-warns/505562)
 - [VMware admins warned to harden hypervisors](https://www.itworldcanada.com/article/vmware-admins-warned-to-harden-hypervisors/505755)
 - [Listen to Interac’s hot new single to help with intentional spending](https://www.itworldcanada.com/article/listen-to-interacs-hot-new-single-to-help-with-intentional-spending/505669)
-- [Hashtag Trending Sept. 30 – Amazon raises wages; Google shuts down Stadia, Instagram bans Pornhub](https://www.itworldcanada.com/article/hashtag-trending-sept-30-amazon-raises-wages-google-shuts-down-stadia-instagram-bans-pornhub/505776)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

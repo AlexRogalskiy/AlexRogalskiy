@@ -415,6 +415,8 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [remote work](https://www.reddit.com/r/InformationTechnology/comments/xtsigl/remote_work/)
+- [DATA ANALYST](https://www.reddit.com/r/InformationTechnology/comments/xtpgmw/data_analyst/)
 - [Northern Virginia](https://www.reddit.com/r/InformationTechnology/comments/xsxm3b/northern_virginia/)
 - [Does anyone know how to make new Hotkeys?](https://www.reddit.com/r/InformationTechnology/comments/xs92dv/does_anyone_know_how_to_make_new_hotkeys/)
 - [Can I negotiate salary from a new job offer?](https://www.reddit.com/r/InformationTechnology/comments/xs7dmb/can_i_negotiate_salary_from_a_new_job_offer/)
@@ -423,8 +425,6 @@
 - [&quot;Noob?&quot; question about WiFi](https://www.reddit.com/r/InformationTechnology/comments/xrr9h7/noob_question_about_wifi/)
 - [Is there a way to use an .ovf with vmdk file, but no .nvram file in VMware Workstation Pro?](https://www.reddit.com/r/InformationTechnology/comments/xrr94t/is_there_a_way_to_use_an_ovf_with_vmdk_file_but/)
 - [full stack developer versus Cloud engineer boot camp?](https://www.reddit.com/r/InformationTechnology/comments/xrptoz/full_stack_developer_versus_cloud_engineer_boot/)
-- [full stack developer versus Cloud engineer boot camp?](https://www.reddit.com/r/InformationTechnology/comments/xrou8l/full_stack_developer_versus_cloud_engineer_boot/)
-- [Can I get hired working from home with zero IT experience?](https://www.reddit.com/r/InformationTechnology/comments/xroj18/can_i_get_hired_working_from_home_with_zero_it/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

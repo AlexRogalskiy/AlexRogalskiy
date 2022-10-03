@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [NetNewsWire: Free and Open Source RSS Reader for Mac and iOS](https://netnewswire.com/)
-- [Palantir Had Secret Plan to Crack UK’s NHS: ‘Buying Our Way In’](https://www.bloomberg.com/news/articles/2022-09-30/palantir-had-plan-to-crack-uk-health-system-buying-our-way-in)
-- [An Elegy for GNU and RMS](https://catgirl.ai/log/elegy-gnu/)
-- [Stadia died because no one trusts Google](https://techcrunch.com/2022/10/01/stadia-died-because-no-one-trusts-google/)
-- [How Writing Has Spread Across the World, from 3000 BC to This Year](https://www.openculture.com/2022/09/how-writing-has-spread-across-the-world-from-3000-bc-to-this-year-an-animated-map.html)
-- [Remote Functions. Instead of API](https://telefunc.com/)
-- [Systems Software Research is Irrelevant &lpar;2000&rpar; [pdf]](https://doc.cat-v.org/bell_labs/utah2000/utah2000.pdf)
-- [230K Chinese “persuaded to return” from abroad to establish Extraterritoriality](https://safeguarddefenders.com/en/blog/230000-policing-expands)
-- [Stellarium 1.0](https://stellarium.org/release/2022/10/01/stellarium-1.0.html)
-- [Padlet &lpar;YC W13&rpar; Is Hiring in SF to Build Software for a Good Education](https://padlet.jobs)
+- [PayPal’s updated acceptable use policy [pdf]](https://www.paypalobjects.com/marketing/ua/pdf/AU/en/acceptableuse-full-110322.pdf)
+- [Linux Kernel 6.0](https://lwn.net/Articles/910087/)
+- [Flexport is hiring engineers to build technology to power supply chains](https://flexport.com/careers)
+- [Why JWTs Suck as Session Tokens &lpar;2017&rpar;](https://developer.okta.com/blog/2017/08/17/why-jwts-suck-as-session-tokens)
+- [New Pegasus Spyware Abuses Identified in Mexico](https://citizenlab.ca/2022/10/new-pegasus-spyware-abuses-identified-in-mexico/)
+- [Go Auth Lib](https://github.com/go-pkgz/auth)
+- [Muon: GPU Based Electron on a Diet](https://github.com/ImVexed/muon)
+- [Photo of plutonium at Los Alamos shut down a lab for four years &lpar;2017&rpar;](https://www.science.org/content/article/near-disaster-federal-nuclear-weapons-laboratory-takes-hidden-toll-america-s-arsenal)
+- [Collect a dossier on a person by username from thousands of sites](https://github.com/soxoj/maigret)
+- [New asteroid strike images show impact &#39;a lot bigger than expected&#39;](https://www.spacedaily.com/reports/New_asteroid_strike_images_show_impact_a_lot_bigger_than_expected_999.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Oh goodie, now everyone can share NFTs on Instagram or Facebook](https://www.theverge.com/2022/9/30/23380631/meta-nft-digital-collectibles-instagram-facebook)
-- [It costs $0 to start a business](https://twitter.com/IAmPascio/status/1573666136473862145)
-- [Why there&#39;s no “who is hiring” thread this month?](https://news.ycombinator.com/item?id=33052679)
-- [DigitalSherlocks Scholarships](https://www.digitalsherlocks.org/360os-digitalsherlocks)
-- [‘Inventor of the Future’ Review: Buckminster Fuller’s Big Designs](https://www.wsj.com/articles/inventor-of-the-future-book-review-buckminster-fullers-big-designs-11664551418)
-- [Open Letter to the Whostp and Subcommittee on Open Science](https://ostp-letter.github.io/)
-- [Milky Way&#39;s graveyard of dead stars found](https://phys.org/news/2022-09-milky-graveyard-dead-stars.html)
-- [Star Trek’s Lieutenant Uhura Overcame Astronomical Odds](https://www.quantamagazine.org/how-star-treks-lieutenant-uhura-overcame-astronomical-odds-20220930/)
-- [LSD-like molecules counter depession without the trip](https://www.ucsf.edu/news/2022/09/423891/lsd-molecules-counter-depression-without-trip)
-- [Text Is the Universal Interface](https://scale.com/blog/text-universal-interface)
+- [The Law of One Price](https://en.wikipedia.org/wiki/Law_of_one_price)
+- [Git Improves Zettelkasten](https://www.dtsheffler.com/notebook/2015-09-10-git-for-zettelkasten/)
+- [Keeping the Lights on in California, Together](https://leap.energy/news-and-resources/article/keeping-the-lights-on-in-california-together)
+- [A New Job at AWS](https://www.windley.com/archives/2022/09/a_new_job_at_aws.shtml)
+- [World Economy Roiled by Simultaneous Shocks Echoing 2007 Anxiety](https://www.bloomberg.com/news/articles/2022-10-01/world-economy-roiled-by-simultanous-shocks-echoing-2007-anxiety)
+- [The five massive ocean rubbish patches](https://www.bbc.com/future/article/20220930-the-ocean-gyres-creating-huge-new-plastic-patches)
+- [Tesla now has 160k customers running its Full Self Driving beta](https://www.theverge.com/2022/10/1/23380764/tesla-ai-day-full-self-driving-fsd-updates-dojo-supercomputer)
+- [Sony has set a target of 2M Playstation VR2 headsets sold by March 2023](https://www.bloomberg.com/news/articles/2022-10-03/sony-psvr2-headset-production-plan-2-million-units-by-march-2023)
+- [What Japan’s iconic beef can teach us about ‘soft power’](https://www.japantimes.co.jp/life/2022/10/03/food/japan-wagyu-soft-power/)
+- [Gboard Stick Version](https://landing.google.co.jp/________________/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

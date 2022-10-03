@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Venezuela swaps prisoners with US in hint of thawing relations](https://www.theguardian.com/world/2022/oct/02/venezuelan-swaps-prisoners-with-us-in-hint-of-thawing-relations)
-- [Indonesia football riot: 129 people killed after stampede at match](https://www.theguardian.com/world/2022/oct/02/indonesia-football-fans-killed-east-java-arema-malang)
-- [The 2022 Deni Ute Muster – in pictures](https://www.theguardian.com/australia-news/gallery/2022/oct/02/the-2022-deni-ute-muster-in-pictures)
-- [Till review – sensitive Emmett Till drama aims to educate and honor](https://www.theguardian.com/film/2022/oct/01/till-review-sensitive-emmett-till-drama-aims-to-educate-and-honor)
-- [Russia-Ukraine war latest: what we know on day 221 of the invasion](https://www.theguardian.com/world/2022/oct/02/russia-ukraine-war-latest-what-we-know-on-day-221-of-the-invasion)
-- [North star: actor Olivia Cooke - in pictures](https://www.theguardian.com/fashion/gallery/2022/oct/01/north-star-actor-olivia-cooke-in-pictures)
-- [Wild things: Roar into autumn with leopard print](https://www.theguardian.com/fashion/2022/oct/02/wild-things-roar-into-autumn-with-leopard-print)
-- [Humiliation for Vladimir Putin as Ukrainians liberate key city of Lyman](https://www.theguardian.com/world/2022/oct/01/humiliation-for-vladimir-putin-as-ukrainians-liberate-key-city-of-lyman)
-- [Ministers warn of scammers posing as energy bill support scheme](https://www.theguardian.com/money/2022/oct/01/energy-bill-support-scheme-scam-alert)
-- [‘He can come back stronger’: Kipchoge backs Farah to get over injury problems](https://www.theguardian.com/sport/2022/oct/01/he-can-come-back-stronger-kipchoge-backs-farah-to-get-over-injury-problems)
+- [Brazil elections 2022 live: Lula headed for run-off with Bolsonaro](https://www.theguardian.com/world/live/2022/oct/03/brazil-elections-2022-jair-bolsonaro-lula-latest-results-live-updates)
+- [Witnesses to history: New Zealand news photographers share their best shots](https://www.theguardian.com/world/2022/oct/03/witnesses-to-history-new-zealand-news-photographers-share-their-best-shots)
+- [How the assassination of Shinzo Abe became a political scandal in Japan – podcast](https://www.theguardian.com/news/audio/2022/oct/03/today-in-focus-podcast-assassination-shinzo-abe-political-scandal-japan)
+- [Indonesia football tragedy: questions mount over police response](https://www.theguardian.com/world/2022/oct/03/indonesia-football-tragedy-questions-mount-over-police-response)
+- [Russia-Ukraine war latest: what we know on day 222 of the invasion](https://www.theguardian.com/world/2022/oct/03/russia-ukraine-war-latest-what-we-know-on-day-222-of-the-invasion)
+- [Everyone Can Rap review – an incredibly heartwarming hip-hop contest](https://www.theguardian.com/tv-and-radio/2022/oct/02/everyone-can-rap-review-an-incredibly-heartwarming-hip-hop-contest)
+- [Continental Cup roundup: Smith strikes as Birmingham stun top-flight Brighton](https://www.theguardian.com/football/2022/oct/02/continental-cup-roundup-smith-strikes-as-birmingham-stun-top-flight-brighton)
+- [‘I’m tired of the lies’: the young activists leading the way on climate action](https://www.theguardian.com/environment/2022/oct/02/climate-crisis-young-people-activism-around-world)
+- [Capitol attack officer Fanone hits out at ‘weasel’ McCarthy in startling interview](https://www.theguardian.com/books/2022/oct/02/michael-fanone-capitol-attack-officer-kevin-mccarthy-republicans-trump)
+- [Labour demands names of guests at champagne event Kwarteng attended](https://www.theguardian.com/politics/2022/oct/02/labour-demands-names-of-guests-at-champagne-event-kwarteng-attended)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Law of One Price](https://en.wikipedia.org/wiki/Law_of_one_price)
-- [Git Improves Zettelkasten](https://www.dtsheffler.com/notebook/2015-09-10-git-for-zettelkasten/)
-- [Keeping the Lights on in California, Together](https://leap.energy/news-and-resources/article/keeping-the-lights-on-in-california-together)
-- [A New Job at AWS](https://www.windley.com/archives/2022/09/a_new_job_at_aws.shtml)
-- [World Economy Roiled by Simultaneous Shocks Echoing 2007 Anxiety](https://www.bloomberg.com/news/articles/2022-10-01/world-economy-roiled-by-simultanous-shocks-echoing-2007-anxiety)
-- [The five massive ocean rubbish patches](https://www.bbc.com/future/article/20220930-the-ocean-gyres-creating-huge-new-plastic-patches)
-- [Tesla now has 160k customers running its Full Self Driving beta](https://www.theverge.com/2022/10/1/23380764/tesla-ai-day-full-self-driving-fsd-updates-dojo-supercomputer)
-- [Sony has set a target of 2M Playstation VR2 headsets sold by March 2023](https://www.bloomberg.com/news/articles/2022-10-03/sony-psvr2-headset-production-plan-2-million-units-by-march-2023)
-- [What Japan’s iconic beef can teach us about ‘soft power’](https://www.japantimes.co.jp/life/2022/10/03/food/japan-wagyu-soft-power/)
-- [Gboard Stick Version](https://landing.google.co.jp/________________/)
+- [Tree Talk](https://tree-talk.net/)
+- [Moore’s Law Keeps Chip Leaders Ahead of the Pack](https://www.bloomberg.com/opinion/articles/2022-10-02/moore-s-law-keeps-semiconductor-leaders-like-tsmc-intel-and-samsung-ahead)
+- [The Evolution of Java at Microsoft [pdf]](https://cdn.graph.office.net/prod/media/java/infographic-evolution-of-java-at-microsoft.pdf)
+- [“Creative” ways to use a $30 Wyze camera](https://technicallychallenged.substack.com/p/creative-ways-to-use-a-30-wyze-camera)
+- [Mapping Wikipedia with BERT and UMAP](https://home.nomic.ai/visxwiki)
+- [Learn the PHP Framework for Web Artisans](https://bootcamp.laravel.com/)
+- [Chrome on M1 Mac: Must disable hardware acceleration to get smooth scrolling](https://old.reddit.com/r/apple/comments/sjtz6l/psa_for_1416_mbp_owners_that_use_chrome_disable/)
+- [Show HN: A macOS app to search for CLI commands quickly](https://askcommand.com/)
+- [It&#39;s Time to Accept the Existence of a Social Media Bubble &lpar;2012&rpar;](https://www.theatlantic.com/technology/archive/2012/04/following-instagram-its-time-accept-social-media-tech-bubble/329543/)
+- [My Self-Hosting Setup](https://univalence.me/posts/selfhosting)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

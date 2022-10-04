@@ -415,16 +415,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Resources/studies/tips on I.T. obsolescence management in large tech companies?](https://www.reddit.com/r/InformationTechnology/comments/xv31n6/resourcesstudiestips_on_it_obsolescence/)
+- [Why are ISPs sending modems that can&#39;t change it&#39;s gateway?](https://www.reddit.com/r/InformationTechnology/comments/xuzdh7/why_are_isps_sending_modems_that_cant_change_its/)
+- [What tips would you give someone with zero experience?](https://www.reddit.com/r/InformationTechnology/comments/xurxxw/what_tips_would_you_give_someone_with_zero/)
+- [Am I being blocked by IT or is there a data limit?](https://www.reddit.com/r/InformationTechnology/comments/xui7nk/am_i_being_blocked_by_it_or_is_there_a_data_limit/)
+- [Jobs to Apply for People with Limited IT experience?](https://www.reddit.com/r/InformationTechnology/comments/xug4bh/jobs_to_apply_for_people_with_limited_it/)
+- [&quot;Add Event&quot; is greyed out for the SharePoint calendar](https://www.reddit.com/r/InformationTechnology/comments/xu9uds/add_event_is_greyed_out_for_the_sharepoint/)
 - [remote work](https://www.reddit.com/r/InformationTechnology/comments/xtsigl/remote_work/)
 - [DATA ANALYST](https://www.reddit.com/r/InformationTechnology/comments/xtpgmw/data_analyst/)
 - [Northern Virginia](https://www.reddit.com/r/InformationTechnology/comments/xsxm3b/northern_virginia/)
 - [Does anyone know how to make new Hotkeys?](https://www.reddit.com/r/InformationTechnology/comments/xs92dv/does_anyone_know_how_to_make_new_hotkeys/)
-- [Can I negotiate salary from a new job offer?](https://www.reddit.com/r/InformationTechnology/comments/xs7dmb/can_i_negotiate_salary_from_a_new_job_offer/)
-- [Anyone with the same situation? EAD holder](https://www.reddit.com/r/InformationTechnology/comments/xs2l27/anyone_with_the_same_situation_ead_holder/)
-- [What app/website you recommend for beginners &lpar;for practice&rpar;?](https://www.reddit.com/r/InformationTechnology/comments/xryrdt/what_appwebsite_you_recommend_for_beginners_for/)
-- [&quot;Noob?&quot; question about WiFi](https://www.reddit.com/r/InformationTechnology/comments/xrr9h7/noob_question_about_wifi/)
-- [Is there a way to use an .ovf with vmdk file, but no .nvram file in VMware Workstation Pro?](https://www.reddit.com/r/InformationTechnology/comments/xrr94t/is_there_a_way_to_use_an_ovf_with_vmdk_file_but/)
-- [full stack developer versus Cloud engineer boot camp?](https://www.reddit.com/r/InformationTechnology/comments/xrptoz/full_stack_developer_versus_cloud_engineer_boot/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

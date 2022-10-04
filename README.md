@@ -430,16 +430,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Hashtag Trending Oct. 3 – Touch ID future; mapping the brain; more efficient solar panels](https://www.itworldcanada.com/article/hashtag-trending-oct-3-touch-id-future-mapping-the-brain-more-efficient-solar-panels/506560)
+- [New tactics and the big picture. The Week in Ransomware – Monday, Oct 3, 2022](https://www.itworldcanada.com/article/new-tactics-and-the-big-picture-the-week-in-ransomware-monday-oct-3-2022/506407)
+- [TV service providers ask CRTC to increase basic TV prices](https://www.itworldcanada.com/article/tv-service-providers-ask-crtc-to-increase-basic-tv-prices/506485)
+- [Cyber Security Today, Oct. 3, 2022 – Warnings to Exchange and Comm100 administrators, and how the CIA might have messed up](https://www.itworldcanada.com/article/cyber-security-today-oct-3-2022-warnings-to-exchange-and-comm100-administrators-and-how-the-cia-might-have-messed-up/506199)
 - [Hashtag Trending Weekend Edition – Interview with Jim Balsillie, co-founder of BlackBerry and the CIO Strategy Council](https://www.itworldcanada.com/article/hashtag-trending-weekend-edition-interview-with-jim-balsillie-co-founder-of-blackberry/505852)
 - [Responsible data use and customer education can encourage consumers to share their data, Xero says](https://www.itworldcanada.com/article/responsible-data-use-and-customer-education-can-encourage-consumers-to-share-their-data-xero-says/505068)
 - [Broadband woes derailing smart farming initiatives: CRRBC panel](https://www.itworldcanada.com/article/broadband-woes-derailing-smart-farming-initiatives-crrbc-panel/505890)
 - [Cyber Security Today, Week in Review for Friday, September 30, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-september-30-2022/505685)
 - [Federal privacy commissioner silent on proposed new privacy act for businesses](https://www.itworldcanada.com/article/federal-privacy-commissioner-silent-on-proposed-new-privacy-act-for-businesses/505696)
 - [Canadians are not doing enough to protect themselves against increasing cyber threats: RBC Cyber Security Poll](https://www.itworldcanada.com/article/canadians-are-not-doing-enough-to-protect-themselves-against-increasing-cyber-threats-rbc-cyber-security-poll/505592)
-- [ATB Ventures introduces suite of digital identity products](https://www.itworldcanada.com/article/atb-ventures-introduces-suite-of-digital-identity-products/505631)
-- [Prilex POS attack group more active this year, report warns](https://www.itworldcanada.com/article/prilex-pos-attack-group-more-active-this-year-report-warns/505562)
-- [VMware admins warned to harden hypervisors](https://www.itworldcanada.com/article/vmware-admins-warned-to-harden-hypervisors/505755)
-- [Listen to Interac’s hot new single to help with intentional spending](https://www.itworldcanada.com/article/listen-to-interacs-hot-new-single-to-help-with-intentional-spending/505669)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Brazil elections 2022 live: Lula headed for run-off with Bolsonaro](https://www.theguardian.com/world/live/2022/oct/03/brazil-elections-2022-jair-bolsonaro-lula-latest-results-live-updates)
-- [Witnesses to history: New Zealand news photographers share their best shots](https://www.theguardian.com/world/2022/oct/03/witnesses-to-history-new-zealand-news-photographers-share-their-best-shots)
-- [How the assassination of Shinzo Abe became a political scandal in Japan – podcast](https://www.theguardian.com/news/audio/2022/oct/03/today-in-focus-podcast-assassination-shinzo-abe-political-scandal-japan)
-- [Indonesia football tragedy: questions mount over police response](https://www.theguardian.com/world/2022/oct/03/indonesia-football-tragedy-questions-mount-over-police-response)
-- [Russia-Ukraine war latest: what we know on day 222 of the invasion](https://www.theguardian.com/world/2022/oct/03/russia-ukraine-war-latest-what-we-know-on-day-222-of-the-invasion)
-- [Everyone Can Rap review – an incredibly heartwarming hip-hop contest](https://www.theguardian.com/tv-and-radio/2022/oct/02/everyone-can-rap-review-an-incredibly-heartwarming-hip-hop-contest)
-- [Continental Cup roundup: Smith strikes as Birmingham stun top-flight Brighton](https://www.theguardian.com/football/2022/oct/02/continental-cup-roundup-smith-strikes-as-birmingham-stun-top-flight-brighton)
-- [‘I’m tired of the lies’: the young activists leading the way on climate action](https://www.theguardian.com/environment/2022/oct/02/climate-crisis-young-people-activism-around-world)
-- [Capitol attack officer Fanone hits out at ‘weasel’ McCarthy in startling interview](https://www.theguardian.com/books/2022/oct/02/michael-fanone-capitol-attack-officer-kevin-mccarthy-republicans-trump)
-- [Labour demands names of guests at champagne event Kwarteng attended](https://www.theguardian.com/politics/2022/oct/02/labour-demands-names-of-guests-at-champagne-event-kwarteng-attended)
+- [Matthew Stafford – and protestor – mauled as 49ers beat Los Angeles Rams](https://www.theguardian.com/sport/2022/oct/03/san-francisco-49ers-los-angeles-rams-nfl-monday-night-football)
+- [Truss and Kwarteng: counting the cost of chaos - podcast](https://www.theguardian.com/news/audio/2022/oct/04/truss-and-kwarteng-counting-the-cost-of-chaos-podcast)
+- [Pakistan’s PM says rival Imran Khan is ‘biggest liar on earth’](https://www.theguardian.com/world/2022/oct/04/pakistans-pm-says-rival-imran-khan-is-biggest-liar-on-earth)
+- [‘Damage is done’: what the papers say after Truss and Kwarteng’s tax U-turn](https://www.theguardian.com/media/2022/oct/04/damage-is-done-what-the-papers-say-after-truss-and-kwartengs-tax-backflip)
+- [North Korea fires missile over Japan prompting warnings for residents to shelter](https://www.theguardian.com/world/2022/oct/04/north-korea-fires-missile-over-japan-prompting-warnings-for-residents-to-shelter)
+- [‘Rage, but also joy and completeness’: bringing New Zealand’s stolen ancestors home](https://www.theguardian.com/world/2022/oct/04/rage-but-also-joy-and-completeness-bringing-new-zealands-stolen-ancestors-home)
+- [Nick Kyrgios will seek to have assault charge dismissed on mental health grounds, court hears](https://www.theguardian.com/sport/2022/oct/04/nick-kyrgios-will-seek-to-have-assault-charge-dismissed-on-mental-health-grounds-court-hears)
+- [Russia-Ukraine war latest: what we know on day 223 of the invasion](https://www.theguardian.com/world/2022/oct/04/russia-ukraine-war-latest-what-we-know-on-day-223-of-the-invasion)
+- [British shoppers likely to spend £4.4bn less on non-essentials during Christmas period](https://www.theguardian.com/business/2022/oct/04/british-shoppers-likely-to-spend-less-on-non-essentials-during-christmas-period)
+- [Number of potential trafficking victims locked up in UK triples in four years](https://www.theguardian.com/uk-news/2022/oct/04/number-of-potential-trafficking-victims-locked-up-in-uk-triples-in-four-years)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

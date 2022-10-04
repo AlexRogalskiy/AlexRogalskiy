@@ -385,16 +385,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Kotlin 1.7.20 advances K2 compiler](https://www.infoworld.com/article/3669417/kotlin-1720-advances-k2-compiler.html#tk.rss_all)
+- [Materialize offers early release of its streaming database as a service](https://www.infoworld.com/article/3675556/materialize-offers-early-release-of-its-streaming-database-as-a-service.html#tk.rss_all)
+- [Mozilla is looking for a scapegoat](https://www.infoworld.com/article/3675628/mozilla-is-looking-for-a-scapegoat.html#tk.rss_all)
+- [The importance of monitoring machine learning models](https://www.infoworld.com/article/3675389/the-importance-of-monitoring-machine-learning-models.html#tk.rss_all)
+- [Bun JavaScript runtime is in the oven](https://www.infoworld.com/article/3675351/bun-javascript-runtime-is-in-the-oven.html#tk.rss_all)
+- [How to choose a cloud machine learning platform](https://www.infoworld.com/article/3568889/how-to-choose-a-cloud-machine-learning-platform.html#tk.rss_all)
 - [What is Node.js? The JavaScript runtime explained](https://www.infoworld.com/article/3210589/what-is-nodejs-javascript-runtime-explained.html#tk.rss_all)
 - [Enterprises embrace devsecops practices against supply chain attacks](https://www.csoonline.com/article/3675350/enterprises-embrace-devsecops-practices-against-supply-chain-attacks.html#tk.rss_all)
 - [Deno 1.26 improves Node.js compatibility, npm support](https://www.infoworld.com/article/3675537/deno-126-improves-nodejs-compatibility-npm-support.html#tk.rss_all)
 - [The dirty little secret about edge computing](https://www.infoworld.com/article/3675530/the-dirty-little-secret-about-edge-computing.html#tk.rss_all)
-- [MIT startup DataCebo offers tool to evaluate synthetic data](https://www.infoworld.com/article/3675554/mit-startup-datacebo-offers-tool-to-evaluate-synthetic-data.html#tk.rss_all)
-- [Should C/C++ be deprecated in favor of Rust?](https://www.infoworld.com/article/3675330/should-c-and-c-plus-plus-be-deprecated-in-favor-of-rust.html#tk.rss_all)
-- [Where JavaScript is headed in 2022](https://www.infoworld.com/article/3674859/where-javascript-is-headed-in-2022.html#tk.rss_all)
-- [Why developers hold the key to cloud security](https://www.infoworld.com/article/3674813/why-developers-hold-the-key-to-cloud-security.html#tk.rss_all)
-- [Cryptojacking, DDoS attacks increase in container-based cloud systems](https://www.csoonline.com/article/3675368/cryptojacking-ddos-attacks-increase-in-container-based-cloud-systems.html#tk.rss_all)
-- [Microsoft .NET 7 bolsters WebAssembly support](https://www.infoworld.com/article/3674862/microsoft-net-7-bolsters-webassembly-support.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

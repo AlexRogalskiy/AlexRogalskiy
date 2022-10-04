@@ -400,16 +400,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Natural History Museum partners with AWS for biodiversity research push](https://www.computerweekly.com/news/252525637/Natural-History-Museum-partners-with-AWS-for-biodiversity-research-push)
+- [IR35 reforms repeal: How it stands to benefit the tech sector’s SMEs and contractors](https://www.computerweekly.com/opinion/IR35-reforms-repeal-How-it-stands-to-benefit-the-tech-sectors-SMEs-and-contractors)
+- [How to protect against SMS mobile security weakness](https://www.computerweekly.com/opinion/How-to-protect-against-SMS-mobile-security-weakness)
+- [StorPool takes its software-defined storage to the AWS cloud](https://www.computerweekly.com/news/252525627/StorPool-takes-its-software-defined-storage-to-the-AWS-cloud)
+- [Security regulation cuts online payment fraud at 73% of retailers](https://www.computerweekly.com/news/252525623/Security-regulation-cuts-online-payment-fraud-at-73-of-retailers)
+- [Edge storage: What it is and the technologies it uses](https://www.computerweekly.com/feature/Edge-storage-What-it-is-and-the-technologies-it-uses)
+- [Digital transformation is brewing at Heineken](https://www.computerweekly.com/news/252525617/Digital-transformation-is-brewing-at-Heineken)
+- [CIO interview: James Fleming, Francis Crick Institute](https://www.computerweekly.com/news/252525295/CIO-Interview-James-Fleming-Francis-Crick-Institute)
+- [Key ingredients for a successful API recipe](https://www.computerweekly.com/feature/Key-ingredients-for-a-successful-API-recipe)
 - [A new take on an old relationship: Nordic startups lure UK investors to their front doors](https://www.computerweekly.com/news/252525576/A-new-take-on-an-old-relationship-Nordic-startups-lure-UK-investors-to-their-front-doors)
-- [Surveillance tech firms complicit in MENA human rights abuses](https://www.computerweekly.com/news/252525584/Surveillance-tech-firms-complicit-in-MENA-human-rights-abuses)
-- [Interview: Rachel Hilliam, chair, Alliance for Data Science Professionals](https://www.computerweekly.com/news/252525007/Interview-Rachel-Hilliam-chair-Alliance-for-Data-Science-Professionals)
-- [CDO interview: Danny Gonzalez, chief digital and innovation officer, London North Eastern Railway](https://www.computerweekly.com/news/252524997/CDO-interview-Danny-Gonzalez-chief-digital-and-innovation-officer-London-North-Eastern-Railway)
-- [Cost-of-living crisis could spur fintech adoption](https://www.computerweekly.com/news/252525516/Cost-of-living-crisis-could-spur-fintech-adoption)
-- [Five startups to join NCSC for Startups initiative](https://www.computerweekly.com/news/252525479/Five-startups-to-join-NCSC-for-Startups-initiative)
-- [What cloud users need to know: Ensuring greater end point engagement for improved cloud delivery](https://www.computerweekly.com/feature/What-cloud-users-need-to-know-Ensuring-greater-end-point-engagement-for-improved-cloud-delivery)
-- [Failure of Russia’s cyber attacks on Ukraine is most important lesson for NCSC](https://www.computerweekly.com/news/252525514/Failure-of-Russias-cyber-attacks-on-Ukraine-is-most-important-lesson-for-NCSC)
-- [KPMG: IT chiefs vote for innovation, but are they forgetting tech debt?](https://www.computerweekly.com/news/252525459/KPMG-IT-chiefs-vote-for-innovation-but-are-they-forgetting-tech-debt)
-- [AIOps for storage: Potential huge benefits, but lots of lock-in](https://www.computerweekly.com/feature/AIOps-for-storage-Potential-huge-benefits-but-lots-of-lock-in)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

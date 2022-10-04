@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [PayPal’s updated acceptable use policy [pdf]](https://www.paypalobjects.com/marketing/ua/pdf/AU/en/acceptableuse-full-110322.pdf)
-- [Linux Kernel 6.0](https://lwn.net/Articles/910087/)
-- [Flexport is hiring engineers to build technology to power supply chains](https://flexport.com/careers)
-- [Why JWTs Suck as Session Tokens &lpar;2017&rpar;](https://developer.okta.com/blog/2017/08/17/why-jwts-suck-as-session-tokens)
-- [New Pegasus Spyware Abuses Identified in Mexico](https://citizenlab.ca/2022/10/new-pegasus-spyware-abuses-identified-in-mexico/)
-- [Go Auth Lib](https://github.com/go-pkgz/auth)
-- [Muon: GPU Based Electron on a Diet](https://github.com/ImVexed/muon)
-- [Photo of plutonium at Los Alamos shut down a lab for four years &lpar;2017&rpar;](https://www.science.org/content/article/near-disaster-federal-nuclear-weapons-laboratory-takes-hidden-toll-america-s-arsenal)
-- [Collect a dossier on a person by username from thousands of sites](https://github.com/soxoj/maigret)
-- [New asteroid strike images show impact &#39;a lot bigger than expected&#39;](https://www.spacedaily.com/reports/New_asteroid_strike_images_show_impact_a_lot_bigger_than_expected_999.html)
+- [Testing a Cheap ExpressCard to NVMe SSD Adapter on My ThinkPad T430](https://ounapuu.ee/posts/2022/10/04/testing-expresscard-nvme-ssd-adapter/)
+- [Codebase as Database: Turning the IDE Inside Out with Datalog](https://petevilter.me/post/datalog-typechecking/)
+- [ZFS 2.1.6 Released](https://github.com/openzfs/zfs/releases/tag/zfs-2.1.6)
+- [What Can’t the Internet Handle in 2022? Apostrophes](https://www.wsj.com/articles/internet-mangles-names-accents-web-forms-11664462695)
+- [We Burned Down Players’ Houses in Ultima Online](https://blog.cotten.io/that-time-we-burned-down-players-houses-in-ultima-online-7e556618c8f0?gi=d16a5fbc3623)
+- [Hckr news – Hacker News sorted by time](https://hckrnews.com/)
+- [Meticulous &lpar;YC S21&rpar; Is Hiring #3 Founding Engineer in London](https://news.ycombinator.com/item?id=33073638)
+- [From Burned Out Tech CEO to Amazon Warehouse Associate](https://www.jasonshen.com/120/)
+- [PS5 4.03 Kernel Exploit](https://github.com/Cryptogenic/PS5-4.03-Kernel-Exploit)
+- [The Fundamentals of Control Theory](https://engineeringmedia.com/books)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

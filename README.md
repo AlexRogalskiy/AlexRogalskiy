@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Tree Talk](https://tree-talk.net/)
-- [Moore’s Law Keeps Chip Leaders Ahead of the Pack](https://www.bloomberg.com/opinion/articles/2022-10-02/moore-s-law-keeps-semiconductor-leaders-like-tsmc-intel-and-samsung-ahead)
-- [The Evolution of Java at Microsoft [pdf]](https://cdn.graph.office.net/prod/media/java/infographic-evolution-of-java-at-microsoft.pdf)
-- [“Creative” ways to use a $30 Wyze camera](https://technicallychallenged.substack.com/p/creative-ways-to-use-a-30-wyze-camera)
-- [Mapping Wikipedia with BERT and UMAP](https://home.nomic.ai/visxwiki)
-- [Learn the PHP Framework for Web Artisans](https://bootcamp.laravel.com/)
-- [Chrome on M1 Mac: Must disable hardware acceleration to get smooth scrolling](https://old.reddit.com/r/apple/comments/sjtz6l/psa_for_1416_mbp_owners_that_use_chrome_disable/)
-- [Show HN: A macOS app to search for CLI commands quickly](https://askcommand.com/)
-- [It&#39;s Time to Accept the Existence of a Social Media Bubble &lpar;2012&rpar;](https://www.theatlantic.com/technology/archive/2012/04/following-instagram-its-time-accept-social-media-tech-bubble/329543/)
-- [My Self-Hosting Setup](https://univalence.me/posts/selfhosting)
+- [Fault Tolerant Generic Distributed Critical Section Is Impossible](https://blog.the-pans.com/generic-distributed-critical-section-is-impossible/)
+- [Baets by Der](https://redballoonsecurity.com/./index.html)
+- [New data set pushes limits of neuroscience](https://www.wired.com/story/a-huge-new-data-set-pushes-the-limits-of-neuroscience/)
+- [The Chicxulub Impact Produced a Powerful Global Tsunami](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021AV000627)
+- [A man who wrote the Onion&#39;s Supreme Court brief takes parody seriously](https://www.npr.org/2022/10/04/1126773469/onion-supreme-court-brief-author-interview)
+- [Algorithmic Curation Impacts Media Exposure in Twitter Timelines](https://par.nsf.gov/servlets/purl/10301842)
+- [Ask HN: Does someone on earth have access to fast Dalle?](https://news.ycombinator.com/item?id=33090594)
+- [AI-powered communication coach that helps you speak with confidence and clarity](https://www.poised.com/)
+- [Family stages car accidents to collect millions in payouts](https://nymag.com/intelligencer/article/staged-car-crashes-insurance-fraud.html)
+- [A Nuclear Zugzwang?](https://policytensor.substack.com/p/a-nuclear-zugzwang)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

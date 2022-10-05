@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Matthew Stafford – and protestor – mauled as 49ers beat Los Angeles Rams](https://www.theguardian.com/sport/2022/oct/03/san-francisco-49ers-los-angeles-rams-nfl-monday-night-football)
-- [Truss and Kwarteng: counting the cost of chaos - podcast](https://www.theguardian.com/news/audio/2022/oct/04/truss-and-kwarteng-counting-the-cost-of-chaos-podcast)
-- [Pakistan’s PM says rival Imran Khan is ‘biggest liar on earth’](https://www.theguardian.com/world/2022/oct/04/pakistans-pm-says-rival-imran-khan-is-biggest-liar-on-earth)
-- [‘Damage is done’: what the papers say after Truss and Kwarteng’s tax U-turn](https://www.theguardian.com/media/2022/oct/04/damage-is-done-what-the-papers-say-after-truss-and-kwartengs-tax-backflip)
-- [North Korea fires missile over Japan prompting warnings for residents to shelter](https://www.theguardian.com/world/2022/oct/04/north-korea-fires-missile-over-japan-prompting-warnings-for-residents-to-shelter)
-- [‘Rage, but also joy and completeness’: bringing New Zealand’s stolen ancestors home](https://www.theguardian.com/world/2022/oct/04/rage-but-also-joy-and-completeness-bringing-new-zealands-stolen-ancestors-home)
-- [Nick Kyrgios will seek to have assault charge dismissed on mental health grounds, court hears](https://www.theguardian.com/sport/2022/oct/04/nick-kyrgios-will-seek-to-have-assault-charge-dismissed-on-mental-health-grounds-court-hears)
-- [Russia-Ukraine war latest: what we know on day 223 of the invasion](https://www.theguardian.com/world/2022/oct/04/russia-ukraine-war-latest-what-we-know-on-day-223-of-the-invasion)
-- [British shoppers likely to spend £4.4bn less on non-essentials during Christmas period](https://www.theguardian.com/business/2022/oct/04/british-shoppers-likely-to-spend-less-on-non-essentials-during-christmas-period)
-- [Number of potential trafficking victims locked up in UK triples in four years](https://www.theguardian.com/uk-news/2022/oct/04/number-of-potential-trafficking-victims-locked-up-in-uk-triples-in-four-years)
+- [Is Vladimir Putin really prepared to use nuclear weapons? – podcast](https://www.theguardian.com/news/audio/2022/oct/05/is-vladimir-putin-really-prepared-to-use-nuclear-weapons-podcast)
+- [Suspect in California kidnapping is in custody as family is still missing](https://www.theguardian.com/us-news/2022/oct/04/family-including-8-month-old-child-kidnapped-at-gunpoint-in-central-california)
+- [Outrage after Philippine journalist Percival Mabasa shot dead in Manila](https://www.theguardian.com/world/2022/oct/05/outrage-after-philippine-journalist-percival-mabasa-shot-dead-in-manila)
+- [Musk’s Twitter deal is his least bad option – but he must repair the damage he’s done](https://www.theguardian.com/technology/2022/oct/04/elon-musk-twitter-deal-least-bad-option-analysis)
+- [Aaron Judge moves into eternity with 62nd home run to break AL record](https://www.theguardian.com/sport/2022/oct/04/aaron-judge-home-run-record-new-york-yankees-baseball-mlb-roger-maris)
+- [Avalanche in Indian Himalayas kills at least four with dozens missing](https://www.theguardian.com/world/2022/oct/05/dead-and-several-missing-after-avalanche-in-indian-himalayas)
+- [Frasier is back in the building: sequel series greenlit at Paramount+](https://www.theguardian.com/tv-and-radio/2022/oct/05/frasier-is-back-in-the-building-sequel-series-greenlit-at-paramount)
+- [Immune reactions to severe Covid may trigger brain problems, study finds](https://www.theguardian.com/world/2022/oct/05/immune-reactions-to-severe-covid-may-trigger-brain-problems-study-finds)
+- [Trump asks supreme court to intervene in Mar-a-Lago special master dispute](https://www.theguardian.com/us-news/2022/oct/04/trump-supreme-court-ruling-classified-documents)
+- [California serial killer appears to be ‘on a mission’, as police link seven shootings](https://www.theguardian.com/us-news/2022/oct/04/ballistics-tests-link-seven-shootings-in-california-in-possible-serial-killer-case)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

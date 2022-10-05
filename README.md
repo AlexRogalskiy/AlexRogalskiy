@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Testing a Cheap ExpressCard to NVMe SSD Adapter on My ThinkPad T430](https://ounapuu.ee/posts/2022/10/04/testing-expresscard-nvme-ssd-adapter/)
-- [Codebase as Database: Turning the IDE Inside Out with Datalog](https://petevilter.me/post/datalog-typechecking/)
-- [ZFS 2.1.6 Released](https://github.com/openzfs/zfs/releases/tag/zfs-2.1.6)
-- [What Can’t the Internet Handle in 2022? Apostrophes](https://www.wsj.com/articles/internet-mangles-names-accents-web-forms-11664462695)
-- [We Burned Down Players’ Houses in Ultima Online](https://blog.cotten.io/that-time-we-burned-down-players-houses-in-ultima-online-7e556618c8f0?gi=d16a5fbc3623)
-- [Hckr news – Hacker News sorted by time](https://hckrnews.com/)
-- [Meticulous &lpar;YC S21&rpar; Is Hiring #3 Founding Engineer in London](https://news.ycombinator.com/item?id=33073638)
-- [From Burned Out Tech CEO to Amazon Warehouse Associate](https://www.jasonshen.com/120/)
-- [PS5 4.03 Kernel Exploit](https://github.com/Cryptogenic/PS5-4.03-Kernel-Exploit)
-- [The Fundamentals of Control Theory](https://engineeringmedia.com/books)
+- [Study: Time-Restricted Eating Improves Cardiovascular Health for Firefighters](https://today.ucsd.edu/story/study-time-restricted-eating-improves-cardiovascular-health-for-firefighters)
+- [Internet Archive Seeks Material for Library of Amateur Radio and Communications](https://blog.archive.org/2022/10/04/internet-archive-seeks-donations-of-materials-to-build-a-digital-library-of-amateur-radio-and-communications/)
+- [Show HN: Async UI: A Rust UI Library Where Everything is a Future](https://wishawa.github.io/posts/async-ui-intro/)
+- [The Full Chess Cheating Report of Hans Neiman](https://www.chess.com/blog/CHESScom/hans-niemann-report)
+- [HHS purchases $290M worth of drugs for nuclear emergencies](https://aspr.hhs.gov:443/newsroom/Pages/ARS-Oct2022.aspx)
+- [Netlink Added to FreeBSD – Unmodified Linux IP&lpar;8&rpar; Correctly Works](https://cgit.freebsd.org/src/commit/?id=7e5bf68495cc0a8c9793a338a8a02009a7f6dbb6)
+- [How criminals are using jammers, deauthers to disrupt WiFi security cameras](https://www.wxyz.com/news/how-criminals-are-using-jammers-deauthers-to-disrupt-wifi-security-cameras)
+- [Tesla Vision Update: Replacing Ultrasonic Sensors with Tesla Vision](https://www.tesla.com/support/transitioning-tesla-vision)
+- [Micron picks Syracuse for computer chip plant that would bring up to 9k jobs](https://www.syracuse.com/business/2022/10/micron-picks-syracuse-suburb-for-huge-computer-chip-plant-that-would-bring-up-to-9000-jobs.html)
+- [How to move a running process into a tmux session &lpar;2020&rpar;](https://xai.sh/2020/10/16/Move-running-process-into-tmux-session.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

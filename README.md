@@ -355,6 +355,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Micron to build largest chip factory in US history](https://www.computerworld.com/article/3675354/micron-to-build-largest-chip-factory-in-us-history.html#tk.rss_all)
+- [Mosyle aims to improve enterprise Mac deployment for new users](https://www.computerworld.com/article/3675352/mosyle-aims-to-improve-enterprise-mac-deployment-for-new-users.html#tk.rss_all)
+- [Android file transfer: How to move data between your phone and computer](https://www.computerworld.com/article/3214452/android-file-transfer-how-to-move-data-between-your-phone-and-computer.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [Apple will dominate the enterprise, says Kandji CEO](https://www.computerworld.com/article/3675540/apple-will-dominate-the-enterprise-says-kandji-ceo.html#tk.rss_all)
 - [Windows 11 22H2 is out, so why isn’t your PC getting it?](https://www.computerworld.com/article/3675334/windows-11-22h2-is-out-so-why-isnt-your-pc-getting-it.html#tk.rss_all)
@@ -362,9 +365,6 @@
 - [The evolution of the MacBook](https://www.computerworld.com/article/3157371/the-evolution-of-the-macbook.html#tk.rss_all)
 - [How Taiwan deployed 400,000 iPads in a few weeks](https://www.computerworld.com/article/3675332/how-taiwan-deployed-400000-ipads-in-a-few-weeks.html#tk.rss_all)
 - [Is it finally time to upgrade to Windows 11?](https://www.computerworld.com/article/3675349/is-it-finally-time-to-upgrade-to-windows-11.html#tk.rss_all)
-- [Smartphone satellite expectations will soon crash to Earth](https://www.computerworld.com/article/3674853/smartphone-satellite-expectations-will-soon-crash-to-earth.html#tk.rss_all)
-- [Atlassian takes aim at app sprawl with collaboration-suite subscription service](https://www.computerworld.com/article/3675388/atlassian-takes-aim-at-saas-sprawl-with-new-subscription-service-for-its-work-management-suite.html#tk.rss_all)
-- [iPhone users complain iOS 16 is a battery drain, has other issues](https://www.computerworld.com/article/3675533/iphone-users-complain-ios-16-is-a-battery-drain-has-other-issues.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

@@ -415,6 +415,8 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Looking for a new IT job, preferably remote, but having issues.](https://www.reddit.com/r/InformationTechnology/comments/xvulcw/looking_for_a_new_it_job_preferably_remote_but/)
+- [how to get a entry level IT job?](https://www.reddit.com/r/InformationTechnology/comments/xvldyt/how_to_get_a_entry_level_it_job/)
 - [Resources/studies/tips on I.T. obsolescence management in large tech companies?](https://www.reddit.com/r/InformationTechnology/comments/xv31n6/resourcesstudiestips_on_it_obsolescence/)
 - [Why are ISPs sending modems that can&#39;t change it&#39;s gateway?](https://www.reddit.com/r/InformationTechnology/comments/xuzdh7/why_are_isps_sending_modems_that_cant_change_its/)
 - [What tips would you give someone with zero experience?](https://www.reddit.com/r/InformationTechnology/comments/xurxxw/what_tips_would_you_give_someone_with_zero/)
@@ -423,8 +425,6 @@
 - [&quot;Add Event&quot; is greyed out for the SharePoint calendar](https://www.reddit.com/r/InformationTechnology/comments/xu9uds/add_event_is_greyed_out_for_the_sharepoint/)
 - [remote work](https://www.reddit.com/r/InformationTechnology/comments/xtsigl/remote_work/)
 - [DATA ANALYST](https://www.reddit.com/r/InformationTechnology/comments/xtpgmw/data_analyst/)
-- [Northern Virginia](https://www.reddit.com/r/InformationTechnology/comments/xsxm3b/northern_virginia/)
-- [Does anyone know how to make new Hotkeys?](https://www.reddit.com/r/InformationTechnology/comments/xs92dv/does_anyone_know_how_to_make_new_hotkeys/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

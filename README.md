@@ -400,16 +400,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Public sector aims to close digital skills gap with private sector](https://www.computerweekly.com/news/252525692/Public-sector-aims-to-close-digital-skills-gap-with-private-sector)
+- [NFS vs SMB vs CIFS: File storage protocols defined](https://www.computerweekly.com/feature/NFS-vs-SMB-vs-CIFS-File-storage-protocols-defined)
+- [IR35 reforms to be scrapped: What IT contractors need to know](https://www.computerweekly.com/news/252525685/IR35-reforms-to-be-scrapped-What-IT-contractors-need-to-know)
+- [Tories to replace GDPR](https://www.computerweekly.com/news/252525690/Tories-to-replace-GDPR)
+- [How to design a data architecture for business success](https://www.computerweekly.com/feature/How-to-design-a-data-architecture-for-business-success)
+- [Next phase of open banking already gathering pace](https://www.computerweekly.com/news/252525679/Next-phase-of-open-banking-already-gathering-pace)
+- [France extradites Spanish EncroChat cryptophone distributors for complicity with organised crime](https://www.computerweekly.com/news/252525642/France-extradites-Spanish-EncroChat-cryptophone-distributors-for-complicity-with-organised-crime)
+- [Putting APIs to work](https://www.computerweekly.com/ezine/Computer-Weekly/Putting-APIs-to-work)
 - [Natural History Museum partners with AWS for biodiversity research push](https://www.computerweekly.com/news/252525637/Natural-History-Museum-partners-with-AWS-for-biodiversity-research-push)
 - [IR35 reforms repeal: How it stands to benefit the tech sector’s SMEs and contractors](https://www.computerweekly.com/opinion/IR35-reforms-repeal-How-it-stands-to-benefit-the-tech-sectors-SMEs-and-contractors)
-- [How to protect against SMS mobile security weakness](https://www.computerweekly.com/opinion/How-to-protect-against-SMS-mobile-security-weakness)
-- [StorPool takes its software-defined storage to the AWS cloud](https://www.computerweekly.com/news/252525627/StorPool-takes-its-software-defined-storage-to-the-AWS-cloud)
-- [Security regulation cuts online payment fraud at 73% of retailers](https://www.computerweekly.com/news/252525623/Security-regulation-cuts-online-payment-fraud-at-73-of-retailers)
-- [Edge storage: What it is and the technologies it uses](https://www.computerweekly.com/feature/Edge-storage-What-it-is-and-the-technologies-it-uses)
-- [Digital transformation is brewing at Heineken](https://www.computerweekly.com/news/252525617/Digital-transformation-is-brewing-at-Heineken)
-- [CIO interview: James Fleming, Francis Crick Institute](https://www.computerweekly.com/news/252525295/CIO-Interview-James-Fleming-Francis-Crick-Institute)
-- [Key ingredients for a successful API recipe](https://www.computerweekly.com/feature/Key-ingredients-for-a-successful-API-recipe)
-- [A new take on an old relationship: Nordic startups lure UK investors to their front doors](https://www.computerweekly.com/news/252525576/A-new-take-on-an-old-relationship-Nordic-startups-lure-UK-investors-to-their-front-doors)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

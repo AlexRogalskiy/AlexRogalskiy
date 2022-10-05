@@ -385,16 +385,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Linux 6.0 kernel arrives, quietly](https://www.infoworld.com/article/3675393/linux-60-kernel-arrives-quietly.html#tk.rss_all)
+- [TypeScript turns 10 years old](https://www.infoworld.com/article/3675546/typescript-turns-10-years-old.html#tk.rss_all)
+- [Cloud computing is reinventing cars and trucks](https://www.infoworld.com/article/3675373/cloud-computing-is-reinventing-cars-and-trucks.html#tk.rss_all)
+- [Why CIOs should make the leap to Flutter now](https://www.infoworld.com/article/3674988/why-cios-should-make-the-leap-to-flutter-now.html#tk.rss_all)
+- [IT career roadmap: Vice president of engineering](https://www.infoworld.com/article/3674062/it-career-roadmap-vice-president-of-engineering.html#tk.rss_all)
 - [Kotlin 1.7.20 advances K2 compiler](https://www.infoworld.com/article/3669417/kotlin-1720-advances-k2-compiler.html#tk.rss_all)
 - [Materialize offers early release of its streaming database as a service](https://www.infoworld.com/article/3675556/materialize-offers-early-release-of-its-streaming-database-as-a-service.html#tk.rss_all)
 - [Mozilla is looking for a scapegoat](https://www.infoworld.com/article/3675628/mozilla-is-looking-for-a-scapegoat.html#tk.rss_all)
 - [The importance of monitoring machine learning models](https://www.infoworld.com/article/3675389/the-importance-of-monitoring-machine-learning-models.html#tk.rss_all)
 - [Bun JavaScript runtime is in the oven](https://www.infoworld.com/article/3675351/bun-javascript-runtime-is-in-the-oven.html#tk.rss_all)
-- [How to choose a cloud machine learning platform](https://www.infoworld.com/article/3568889/how-to-choose-a-cloud-machine-learning-platform.html#tk.rss_all)
-- [What is Node.js? The JavaScript runtime explained](https://www.infoworld.com/article/3210589/what-is-nodejs-javascript-runtime-explained.html#tk.rss_all)
-- [Enterprises embrace devsecops practices against supply chain attacks](https://www.csoonline.com/article/3675350/enterprises-embrace-devsecops-practices-against-supply-chain-attacks.html#tk.rss_all)
-- [Deno 1.26 improves Node.js compatibility, npm support](https://www.infoworld.com/article/3675537/deno-126-improves-nodejs-compatibility-npm-support.html#tk.rss_all)
-- [The dirty little secret about edge computing](https://www.infoworld.com/article/3675530/the-dirty-little-secret-about-edge-computing.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

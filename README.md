@@ -385,6 +385,9 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Apollo GraphQL debuts GraphOS platform for building ‘supergraphs’](https://www.infoworld.com/article/3675949/apollo-graphql-debuts-graphos-platform-for-building-supergraphs.html#tk.rss_all)
+- [Hands-on with MongoDB queryable encryption and Node.js](https://www.infoworld.com/article/3675390/hands-on-with-mongodb-queryable-encryption-and-node-js.html#tk.rss_all)
+- [How to use cancellation tokens in ASP.NET Core 7](https://www.infoworld.com/article/3674845/how-to-use-cancellation-tokens-in-aspnet-core-7.html#tk.rss_all)
 - [Linux 6.0 kernel arrives, quietly](https://www.infoworld.com/article/3675393/linux-60-kernel-arrives-quietly.html#tk.rss_all)
 - [TypeScript turns 10 years old](https://www.infoworld.com/article/3675546/typescript-turns-10-years-old.html#tk.rss_all)
 - [Cloud computing is reinventing cars and trucks](https://www.infoworld.com/article/3675373/cloud-computing-is-reinventing-cars-and-trucks.html#tk.rss_all)
@@ -392,9 +395,6 @@
 - [IT career roadmap: Vice president of engineering](https://www.infoworld.com/article/3674062/it-career-roadmap-vice-president-of-engineering.html#tk.rss_all)
 - [Kotlin 1.7.20 advances K2 compiler](https://www.infoworld.com/article/3669417/kotlin-1720-advances-k2-compiler.html#tk.rss_all)
 - [Materialize offers early release of its streaming database as a service](https://www.infoworld.com/article/3675556/materialize-offers-early-release-of-its-streaming-database-as-a-service.html#tk.rss_all)
-- [Mozilla is looking for a scapegoat](https://www.infoworld.com/article/3675628/mozilla-is-looking-for-a-scapegoat.html#tk.rss_all)
-- [The importance of monitoring machine learning models](https://www.infoworld.com/article/3675389/the-importance-of-monitoring-machine-learning-models.html#tk.rss_all)
-- [Bun JavaScript runtime is in the oven](https://www.infoworld.com/article/3675351/bun-javascript-runtime-is-in-the-oven.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

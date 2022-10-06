@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Study: Time-Restricted Eating Improves Cardiovascular Health for Firefighters](https://today.ucsd.edu/story/study-time-restricted-eating-improves-cardiovascular-health-for-firefighters)
-- [Internet Archive Seeks Material for Library of Amateur Radio and Communications](https://blog.archive.org/2022/10/04/internet-archive-seeks-donations-of-materials-to-build-a-digital-library-of-amateur-radio-and-communications/)
-- [Show HN: Async UI: A Rust UI Library Where Everything is a Future](https://wishawa.github.io/posts/async-ui-intro/)
-- [The Full Chess Cheating Report of Hans Neiman](https://www.chess.com/blog/CHESScom/hans-niemann-report)
-- [HHS purchases $290M worth of drugs for nuclear emergencies](https://aspr.hhs.gov:443/newsroom/Pages/ARS-Oct2022.aspx)
-- [Netlink Added to FreeBSD – Unmodified Linux IP&lpar;8&rpar; Correctly Works](https://cgit.freebsd.org/src/commit/?id=7e5bf68495cc0a8c9793a338a8a02009a7f6dbb6)
-- [How criminals are using jammers, deauthers to disrupt WiFi security cameras](https://www.wxyz.com/news/how-criminals-are-using-jammers-deauthers-to-disrupt-wifi-security-cameras)
-- [Tesla Vision Update: Replacing Ultrasonic Sensors with Tesla Vision](https://www.tesla.com/support/transitioning-tesla-vision)
-- [Micron picks Syracuse for computer chip plant that would bring up to 9k jobs](https://www.syracuse.com/business/2022/10/micron-picks-syracuse-suburb-for-huge-computer-chip-plant-that-would-bring-up-to-9000-jobs.html)
-- [How to move a running process into a tmux session &lpar;2020&rpar;](https://xai.sh/2020/10/16/Move-running-process-into-tmux-session.html)
+- [DOE requires plans to promote diversity from grant applicants](https://www.science.org/content/article/department-energy-requires-plans-promote-diversity-grant-applicants)
+- [Range anxiety and the realities of electric vehicle dependability](https://legalinsurrection.com/2022/10/range-anxiety-and-the-realities-of-electric-vehicle-dependability/)
+- [RFC: C++ Buffer Hardening](https://discourse.llvm.org/t/rfc-c-buffer-hardening/65734)
+- [What Makes the Zig Programming Language Unique?](https://erikexplores.substack.com/p/what-makes-the-zig-programming-language)
+- [CISA: Election Security Rumor vs. Reality](https://www.cisa.gov/rumorcontrol)
+- [Splunk IP suit against Cribl](https://www.splunk.com/en_us/blog/bulletins/splunk-files-intellectual-property-complaint-against-cribl.html)
+- [Air Force Plans New Blended Wing Body Cargo/Tanker Aircraft by 2027](https://www.airandspaceforces.com/air-force-plans-new-blended-wing-body-cargo-tanker-aircraft-by-2027/)
+- [So you&#39;re using a weird language](https://morepablo.com/2022/09/so-you-re-using-a-weird-language.html)
+- [Open Source Firmware Conference 2022 [videos]](https://www.osfc.io/2022/schedule/)
+- [Jq Internals: Backtracking &lpar;2017&rpar;](https://github.com/stedolan/jq/wiki/Internals:-backtracking)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

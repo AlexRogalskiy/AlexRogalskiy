@@ -415,16 +415,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Python Use in the IT Industry](https://www.reddit.com/r/InformationTechnology/comments/xwu5li/python_use_in_the_it_industry/)
+- [Careers with a Master&#39;s in Information Systems?](https://www.reddit.com/r/InformationTechnology/comments/xwo09x/careers_with_a_masters_in_information_systems/)
+- [Help! Need an advice on a project](https://www.reddit.com/r/InformationTechnology/comments/xwg5c5/help_need_an_advice_on_a_project/)
+- [Two servers having USB issues after upgrading to Server 2019](https://www.reddit.com/r/InformationTechnology/comments/xwfglf/two_servers_having_usb_issues_after_upgrading_to/)
+- [Is there a way to disconnect inactive/idle devices from router to save on background data consumption?](https://www.reddit.com/r/InformationTechnology/comments/xwax8p/is_there_a_way_to_disconnect_inactiveidle_devices/)
 - [Looking for a new IT job, preferably remote, but having issues.](https://www.reddit.com/r/InformationTechnology/comments/xvulcw/looking_for_a_new_it_job_preferably_remote_but/)
-- [how to get a entry level IT job?](https://www.reddit.com/r/InformationTechnology/comments/xvldyt/how_to_get_a_entry_level_it_job/)
 - [Resources/studies/tips on I.T. obsolescence management in large tech companies?](https://www.reddit.com/r/InformationTechnology/comments/xv31n6/resourcesstudiestips_on_it_obsolescence/)
 - [Why are ISPs sending modems that can&#39;t change it&#39;s gateway?](https://www.reddit.com/r/InformationTechnology/comments/xuzdh7/why_are_isps_sending_modems_that_cant_change_its/)
 - [What tips would you give someone with zero experience?](https://www.reddit.com/r/InformationTechnology/comments/xurxxw/what_tips_would_you_give_someone_with_zero/)
 - [Am I being blocked by IT or is there a data limit?](https://www.reddit.com/r/InformationTechnology/comments/xui7nk/am_i_being_blocked_by_it_or_is_there_a_data_limit/)
-- [Jobs to Apply for People with Limited IT experience?](https://www.reddit.com/r/InformationTechnology/comments/xug4bh/jobs_to_apply_for_people_with_limited_it/)
-- [&quot;Add Event&quot; is greyed out for the SharePoint calendar](https://www.reddit.com/r/InformationTechnology/comments/xu9uds/add_event_is_greyed_out_for_the_sharepoint/)
-- [remote work](https://www.reddit.com/r/InformationTechnology/comments/xtsigl/remote_work/)
-- [DATA ANALYST](https://www.reddit.com/r/InformationTechnology/comments/xtpgmw/data_analyst/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

@@ -370,6 +370,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Capital One’s Marty Andolino Discusses Tech Productivity](https://www.informationweek.com/fintech/capital-one-s-marty-andolino-discusses-tech-productivity)
+- [CIO Roles Disrupted Amid Enterprise Changes](https://www.informationweek.com/strategic-cio/cio-roles-disrupted-amid-enterprise-changes)
+- [3 Lessons in Creating an ‘Antifragile’ Business Strategy](https://www.informationweek.com/strategic-cio/3-lessons-in-creating-an-antifragile-business-strategy)
 - [Prepared for Ransomware and Other Data Risks? Think Again](https://www.informationweek.com/security-and-risk-strategy/prepared-for-ransomware-and-other-data-risks-think-again)
 - [How to Tell the Difference Between IT Fads and Trends](https://www.informationweek.com/it-life/how-to-tell-the-difference-between-it-fads-and-trends)
 - [Making Hybrid Work: Best Practices for Return to Office](https://www.informationweek.com/strategic-cio/making-hybrid-work-best-practices-for-return-to-office)
@@ -377,9 +380,6 @@
 - [5 Barriers of Digital Risk Assessment](https://www.informationweek.com/security-and-risk-strategy/5-barriers-of-digital-risk-assessment)
 - [Analytics Specialist SAS Joins the Cloud-Based Pay-As-You-Go Movement](https://www.informationweek.com/big-data/analytics-specialist-sas-joins-the-cloud-based-pay-as-you-go-movement)
 - [Roadmap to RPA Implementation: Thinking Long Term](https://www.informationweek.com/software/roadmap-to-rpa-implementation-thinking-long-term)
-- [Data’s Power to Inform Decisions in Business and Work](https://www.informationweek.com/big-data/data-s-power-to-inform-decisions-in-business-and-work)
-- [Forrester and Finovate Conferences Continue Diversity Dialogues](https://www.informationweek.com/fintech/forrester-and-finovate-conferences-continue-diversity-dialogues)
-- [No One’s in the Safe Zone: Preparing for a Cyber Hurricane](https://www.informationweek.com/security-and-risk-strategy/no-one-s-in-the-safe-zone-preparing-for-a-cyber-hurricane)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

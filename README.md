@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Fault Tolerant Generic Distributed Critical Section Is Impossible](https://blog.the-pans.com/generic-distributed-critical-section-is-impossible/)
-- [Baets by Der](https://redballoonsecurity.com/./index.html)
-- [New data set pushes limits of neuroscience](https://www.wired.com/story/a-huge-new-data-set-pushes-the-limits-of-neuroscience/)
-- [The Chicxulub Impact Produced a Powerful Global Tsunami](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021AV000627)
-- [A man who wrote the Onion&#39;s Supreme Court brief takes parody seriously](https://www.npr.org/2022/10/04/1126773469/onion-supreme-court-brief-author-interview)
-- [Algorithmic Curation Impacts Media Exposure in Twitter Timelines](https://par.nsf.gov/servlets/purl/10301842)
-- [Ask HN: Does someone on earth have access to fast Dalle?](https://news.ycombinator.com/item?id=33090594)
-- [AI-powered communication coach that helps you speak with confidence and clarity](https://www.poised.com/)
-- [Family stages car accidents to collect millions in payouts](https://nymag.com/intelligencer/article/staged-car-crashes-insurance-fraud.html)
-- [A Nuclear Zugzwang?](https://policytensor.substack.com/p/a-nuclear-zugzwang)
+- [NYU’s firing of Professor Maitland Jones Jr. should frighten every American](https://nypost.com/2022/10/05/nyus-firing-of-this-professor-should-frighten-every-american/)
+- [The Innocent Man, Part One &lpar;2012&rpar;](https://www.texasmonthly.com/news-politics/the-innocent-man-part-one/)
+- [Linux Kernel ORB: write device drivers in Perl &lpar;2000&rpar;](https://lore.kernel.org/lkml/Pine.LNX.4.21.0012081626140.7741-100000@www.nondot.org/)
+- [Dr Herbert Gross – MIT Calculus Revisited](https://ocw.mit.edu/courses/res-18-006-calculus-revisited-single-variable-calculus-fall-2010/)
+- [Which Computer Science specialization has potential to be most in demand by 2030](https://news.ycombinator.com/item?id=33103939)
+- [Predictions for the Music Business in 10 Years](https://tedgioia.substack.com/p/20-predictions-for-the-music-business)
+- [How Trustworthy Are Supplements?](https://astralcodexten.substack.com/p/how-trustworthy-are-supplements)
+- [Musk sought a discount of as much as 30%, then just 10%, finally paid full price](https://www.nytimes.com/2022/10/05/technology/elon-musk-twitter-discount.html)
+- [Elon Musk&#39;s deposition delayed as he wrangles with Twitter over deal](https://www.ft.com/content/2d7a5359-5de7-42ad-b5ba-955d35d127cd)
+- [Is there a valid reason why Google Meet doesn&#39;t support 1080p?](https://news.ycombinator.com/item?id=33103795)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

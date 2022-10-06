@@ -430,16 +430,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
-- [Musk offers to buy Twitter at the original share offering if Twitter drops court actions](https://www.itworldcanada.com/article/musk-offers-to-buy-twitter-at-the-original-share-offering-if-twitter-drops-court-actions/506697)
+- [Ex-Uber CSO convicted of cover-up in 2016 data breach](https://www.itworldcanada.com/article/ex-uber-cso-convicted-of-cover-up-in-2016-data-breach/506957)
+- [OpenText CEO: Time to prepare for 2030 and all that it will bring](https://www.itworldcanada.com/article/opentext-ceo-time-to-prepare-for-2030-and-all-that-it-will-bring/506711)
+- [Zylo’s 2022 SaaSME zeros in on driving SaaS cost savings](https://www.itworldcanada.com/article/zylos-2022-saasme-zeros-in-on-driving-saas-cost-savings/506605)
+- [Shadow APIs a key target for malicious attacks, reveals new report](https://www.itworldcanada.com/article/shadow-apis-a-key-target-for-malicious-attacks-reveals-new-report/506743)
+- [New platform uses augmented reality to power video-enabled packaging](https://www.itworldcanada.com/article/new-platform-uses-augmented-reality-to-power-video-enabled-packaging/506781)
+- [Novipro announces hybrid CyberEx conference](https://www.itworldcanada.com/article/novipro-announces-hybrid-cyberex-conference/506780)
+- [Musk offers to buy Twitter at the original price if Twitter drops court actions](https://www.itworldcanada.com/article/musk-offers-to-buy-twitter-at-the-original-share-offering-if-twitter-drops-court-actions/506697)
 - [New report reveals “cost of working” crisis for Canadian employees](https://www.itworldcanada.com/article/new-report-reveals-cost-of-working-crisis-for-canadian-employees/506463)
 - [Why bringing SAS Viya onto Microsoft Azure Marketplace is a big deal](https://www.itworldcanada.com/article/why-bringing-sas-viya-on-microsoft-azure-marketplace-is-a-big-deal/506524)
 - [Tenable announces new exposure management platform](https://www.itworldcanada.com/article/tenable-announces-new-exposure-management-platform/506625)
-- [Post-graduate degree in offensive cyber security offered by Canadian university](https://www.itworldcanada.com/article/post-graduate-degree-in-offensive-cyber-security-offered-by-canadian-university/506636)
-- [Coffee Briefing October 4, 2022 – Cisco awards; Intuit’s new Toronto office; Twitter launches new video features; and more](https://www.itworldcanada.com/article/coffee-briefing-october-4-2022-cisco-awards-intuits-new-toronto-office-twitter-launches-new-video-features-and-more/506450)
-- [Montreal defence supplier hit by ransomware](https://www.itworldcanada.com/article/montreal-defence-supplier-hit-by-ransomware/506506)
-- [Boards, CISOs often aren’t in sync on cybersecurity, says survey](https://www.itworldcanada.com/article/boards-cisos-often-arent-in-sync-on-cybersecurity-says-survey/506591)
-- [Hashtag Trending Oct. 3 – Touch ID future; mapping the brain; more efficient solar panels](https://www.itworldcanada.com/article/hashtag-trending-oct-3-touch-id-future-mapping-the-brain-more-efficient-solar-panels/506560)
-- [New tactics and the big picture. The Week in Ransomware – Monday, Oct 3, 2022](https://www.itworldcanada.com/article/new-tactics-and-the-big-picture-the-week-in-ransomware-monday-oct-3-2022/506407)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

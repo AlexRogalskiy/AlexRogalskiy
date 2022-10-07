@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [DOE requires plans to promote diversity from grant applicants](https://www.science.org/content/article/department-energy-requires-plans-promote-diversity-grant-applicants)
-- [Range anxiety and the realities of electric vehicle dependability](https://legalinsurrection.com/2022/10/range-anxiety-and-the-realities-of-electric-vehicle-dependability/)
-- [RFC: C++ Buffer Hardening](https://discourse.llvm.org/t/rfc-c-buffer-hardening/65734)
-- [What Makes the Zig Programming Language Unique?](https://erikexplores.substack.com/p/what-makes-the-zig-programming-language)
-- [CISA: Election Security Rumor vs. Reality](https://www.cisa.gov/rumorcontrol)
-- [Splunk IP suit against Cribl](https://www.splunk.com/en_us/blog/bulletins/splunk-files-intellectual-property-complaint-against-cribl.html)
-- [Air Force Plans New Blended Wing Body Cargo/Tanker Aircraft by 2027](https://www.airandspaceforces.com/air-force-plans-new-blended-wing-body-cargo-tanker-aircraft-by-2027/)
-- [So you&#39;re using a weird language](https://morepablo.com/2022/09/so-you-re-using-a-weird-language.html)
-- [Open Source Firmware Conference 2022 [videos]](https://www.osfc.io/2022/schedule/)
-- [Jq Internals: Backtracking &lpar;2017&rpar;](https://github.com/stedolan/jq/wiki/Internals:-backtracking)
+- [Celsius exposes the names of all customers](https://web3isgoinggreat.com/single/celsius-exposes-the-names-of-all-customers-and-their-recent-transactions-in-court-filing--including-their-execs)
+- [Study links omega-3s to improved brain structure, cognition at midlife](https://news.uthscsa.edu/study-links-omega-3s-to-improved-brain-structure-cognition-at-midlife/)
+- [Why doesn&#39;t Bash&#39;s `set -e` do what I expected?](http://mywiki.wooledge.org/BashFAQ/105)
+- [WebVM: WASM virtual machine in browser with networking via Tailscale](https://leaningtech.com/webvm-virtual-machine-with-networking-via-tailscale/)
+- [Ask HN: What content/knowledge is most important?](https://news.ycombinator.com/item?id=33116230)
+- [Show HN: Lambda-8cc – An x86 C compiler written in untyped lambda calculus](https://github.com/woodrush/lambda-8cc)
+- [Recreating macOS’s Drift Screensaver with Rust and WASM](https://github.com/sandydoo/flux)
+- [Upgrade to Linux](https://www.upgradetolinux.com/)
+- [Dormant spores decide to wake-up by counting in their sleep using electricity](https://www.science.org/doi/10.1126/science.abl7484)
+- [BYU profs create new nuclear reactor to produce nuclear energy more safely](https://news.byu.edu/byu-profs-create-safer-system-to-produce-nuclear-energy)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

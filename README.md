@@ -370,6 +370,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Avoiding the Top Mistakes Made by Tech Startups](https://www.informationweek.com/it-life/avoiding-the-top-mistakes-made-by-tech-startups)
+- [September 2022 Global Tech Policy Bulletin: From Turmoil in Iran to Biden’s Big Tech Impasse](https://www.informationweek.com/government/september-2022-global-tech-policy-bulletin-from-turmoil-in-iran-to-biden-s-big-tech-impasse)
+- [Why SaaS Management Is a Must-Have for Digital Transformation](https://www.informationweek.com/cloud/why-saas-management-is-a-must-have-for-digital-transformation)
 - [Capital One’s Marty Andolino Discusses Tech Productivity](https://www.informationweek.com/fintech/capital-one-s-marty-andolino-discusses-tech-productivity)
 - [CIO Roles Disrupted Amid Enterprise Changes](https://www.informationweek.com/strategic-cio/cio-roles-disrupted-amid-enterprise-changes)
 - [3 Lessons in Creating an ‘Antifragile’ Business Strategy](https://www.informationweek.com/strategic-cio/3-lessons-in-creating-an-antifragile-business-strategy)
@@ -377,9 +380,6 @@
 - [How to Tell the Difference Between IT Fads and Trends](https://www.informationweek.com/it-life/how-to-tell-the-difference-between-it-fads-and-trends)
 - [Making Hybrid Work: Best Practices for Return to Office](https://www.informationweek.com/strategic-cio/making-hybrid-work-best-practices-for-return-to-office)
 - [‘Trees Grow’ and Other Tales of Wireless Deployment Challenges](https://www.informationweek.com/mobile/-trees-grow-and-other-tales-of-wireless-deployment-challenges)
-- [5 Barriers of Digital Risk Assessment](https://www.informationweek.com/security-and-risk-strategy/5-barriers-of-digital-risk-assessment)
-- [Analytics Specialist SAS Joins the Cloud-Based Pay-As-You-Go Movement](https://www.informationweek.com/big-data/analytics-specialist-sas-joins-the-cloud-based-pay-as-you-go-movement)
-- [Roadmap to RPA Implementation: Thinking Long Term](https://www.informationweek.com/software/roadmap-to-rpa-implementation-thinking-long-term)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

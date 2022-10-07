@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [NYU’s firing of Professor Maitland Jones Jr. should frighten every American](https://nypost.com/2022/10/05/nyus-firing-of-this-professor-should-frighten-every-american/)
-- [The Innocent Man, Part One &lpar;2012&rpar;](https://www.texasmonthly.com/news-politics/the-innocent-man-part-one/)
-- [Linux Kernel ORB: write device drivers in Perl &lpar;2000&rpar;](https://lore.kernel.org/lkml/Pine.LNX.4.21.0012081626140.7741-100000@www.nondot.org/)
-- [Dr Herbert Gross – MIT Calculus Revisited](https://ocw.mit.edu/courses/res-18-006-calculus-revisited-single-variable-calculus-fall-2010/)
-- [Which Computer Science specialization has potential to be most in demand by 2030](https://news.ycombinator.com/item?id=33103939)
-- [Predictions for the Music Business in 10 Years](https://tedgioia.substack.com/p/20-predictions-for-the-music-business)
-- [How Trustworthy Are Supplements?](https://astralcodexten.substack.com/p/how-trustworthy-are-supplements)
-- [Musk sought a discount of as much as 30%, then just 10%, finally paid full price](https://www.nytimes.com/2022/10/05/technology/elon-musk-twitter-discount.html)
-- [Elon Musk&#39;s deposition delayed as he wrangles with Twitter over deal](https://www.ft.com/content/2d7a5359-5de7-42ad-b5ba-955d35d127cd)
-- [Is there a valid reason why Google Meet doesn&#39;t support 1080p?](https://news.ycombinator.com/item?id=33103795)
+- [“Life Goes on” with Stewart Brand](https://www.palladiummag.com/2022/09/14/life-goes-on-with-stewart-brand/)
+- [Community Groups: Community-led vs. Company-led](https://www.happyandeffective.com/blog/community-groups-community-led-vs-company-led)
+- [Padder – A one-time pad implementation](https://www.go350.com/posts/padder-a-one-time-pad-implementation/)
+- [Binance chain bug postmortem – Proof verifier bug](https://twitter.com/samczsun/status/1578185275062132736)
+- [Show HN: Go-anytime: a parser for dates and ranges of unknown format](https://github.com/ijt/go-anytime)
+- [“If plan A is for you to take multiple rounds of .308 in your back...” &lpar;2000&rpar;](https://web.archive.org/web/20040706001343/http://www.mallninja.com/Am%20I%20Being%20Careful%20Enough%20-%20Glock%20Talk.htm)
+- [I ordered robot takeout on two campuses with wildly different results](https://www.fullstackeconomics.com/p/the-robot-takeout-revolution-is-closer)
+- [Surprise: AirPods Pro Are as Unrepairable as Ever – iFixit News](https://www.ifixit.com/News/66194/apples-new-airpods-are-telling-users-to-replace-the-batteries-already-too-bad-thats-impossible)
+- [Some leading robot makers are pledging not to weaponize them](https://www.npr.org/2022/10/06/1127227605/boston-dynamics-robots-pledge-against-weapons)
+- [Former Uber Security Chief Found Guilty of Hiding Hack from Authorities](https://www.nytimes.com/2022/10/05/technology/uber-security-chief-joe-sullivan-verdict.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

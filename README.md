@@ -415,8 +415,9 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Hotjar alternatives for Android](https://www.reddit.com/r/InformationTechnology/comments/xx2hy0/hotjar_alternatives_for_android/)
+- [Role for thesis](https://www.reddit.com/r/InformationTechnology/comments/xx1rh1/role_for_thesis/)
 - [Python Use in the IT Industry](https://www.reddit.com/r/InformationTechnology/comments/xwu5li/python_use_in_the_it_industry/)
-- [Careers with a Master&#39;s in Information Systems?](https://www.reddit.com/r/InformationTechnology/comments/xwo09x/careers_with_a_masters_in_information_systems/)
 - [Help! Need an advice on a project](https://www.reddit.com/r/InformationTechnology/comments/xwg5c5/help_need_an_advice_on_a_project/)
 - [Two servers having USB issues after upgrading to Server 2019](https://www.reddit.com/r/InformationTechnology/comments/xwfglf/two_servers_having_usb_issues_after_upgrading_to/)
 - [Is there a way to disconnect inactive/idle devices from router to save on background data consumption?](https://www.reddit.com/r/InformationTechnology/comments/xwax8p/is_there_a_way_to_disconnect_inactiveidle_devices/)
@@ -424,7 +425,6 @@
 - [Resources/studies/tips on I.T. obsolescence management in large tech companies?](https://www.reddit.com/r/InformationTechnology/comments/xv31n6/resourcesstudiestips_on_it_obsolescence/)
 - [Why are ISPs sending modems that can&#39;t change it&#39;s gateway?](https://www.reddit.com/r/InformationTechnology/comments/xuzdh7/why_are_isps_sending_modems_that_cant_change_its/)
 - [What tips would you give someone with zero experience?](https://www.reddit.com/r/InformationTechnology/comments/xurxxw/what_tips_would_you_give_someone_with_zero/)
-- [Am I being blocked by IT or is there a data limit?](https://www.reddit.com/r/InformationTechnology/comments/xui7nk/am_i_being_blocked_by_it_or_is_there_a_data_limit/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

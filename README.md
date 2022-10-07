@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Is Liz Truss already fighting to save her premiership? – podcast](https://www.theguardian.com/news/audio/2022/oct/06/is-liz-truss-already-fighting-to-save-her-premiership-podcast)
-- [Warning over cough syrups after 66 children die in The Gambia](https://www.theguardian.com/world/2022/oct/06/warning-over-cough-syrups-after-66-children-die-in-the-gambia)
-- [Defiant Niemann ‘won’t back down’ amid damning chess cheating report](https://www.theguardian.com/sport/2022/oct/05/hans-niemann-us-chess-championship-cheating-scandal)
-- [Nationalist fervour ratcheted up in lead up to China’s communist party congress](https://www.theguardian.com/world/2022/oct/06/nationalist-fervour-ratcheted-up-in-lead-up-to-chinas-communist-party-congress)
-- [Pakistani PM says he should not have to beg for help after catastrophic floods](https://www.theguardian.com/world/2022/oct/06/pakistani-pm-says-he-should-not-have-to-beg-for-help-after-catastrophic-floods)
-- [Abby Dow named on bench for England’s Rugby World Cup opener](https://www.theguardian.com/sport/2022/oct/06/abby-dow-named-on-bench-for-englands-rugby-world-cup-opener)
-- [Cancer patients in England and Wales facing ‘unacceptable’ wait for support](https://www.theguardian.com/society/2022/oct/06/cancer-patients-in-england-and-wales-facing-unacceptable-wait-for-support)
-- [Suella Braverman speaks out against likely UK trade deal with India](https://www.theguardian.com/politics/2022/oct/06/suella-braverman-speaks-out-against-likely-uk-trade-deal-with-india)
-- [UK drivers for Bolt ride-hailing app pursue worker benefits claim](https://www.theguardian.com/money/2022/oct/06/drivers-bolt-ride-hailing-app-worker-benefits-claim)
-- [Nurses across UK to vote in first ever RCN strike ballot over pay](https://www.theguardian.com/society/2022/oct/06/nurses-across-uk-to-vote-in-first-ever-rcn-strike-ballot-over-pay)
+- [Indonesia stadium disaster: six face criminal charges over deadly crush](https://www.theguardian.com/world/2022/oct/07/indonesia-stadium-disaster-six-face-criminal-charges-over-deadly-crush)
+- [Biden warns world would face ‘Armageddon’ if Putin uses a tactical nuclear weapon in Ukraine](https://www.theguardian.com/us-news/2022/oct/07/biden-warns-world-would-face-armageddon-if-putin-uses-a-tactical-nuclear-weapon-in-ukraine)
+- [Legal quirk allows gay couples in China to get married online in conservative Utah](https://www.theguardian.com/world/2022/oct/07/legal-quirk-allows-gay-couples-in-china-to-get-married-online-in-conservative-utah)
+- [The cheating scandal rocking the chess world - podcast](https://www.theguardian.com/news/audio/2022/oct/07/the-cheating-scandal-rocking-the-chess-world)
+- [Three senior Islamic State militants killed in US strikes in Syria](https://www.theguardian.com/us-news/2022/oct/06/us-military-syria-airstrike-islamic-state)
+- [Easter Island fire causes ‘irreparable’ damage to famous moai statues](https://www.theguardian.com/world/2022/oct/07/easter-island-fire-causes-irreparable-damage-to-famous-moai-statues)
+- [Thailand in mourning after children killed in mass stabbing and shooting](https://www.theguardian.com/world/2022/oct/07/thailand-in-mourning-after-children-killed-in-mass-stabbing-and-shooting)
+- [Two deputies fired after arrest video shows them punching and kneeing a man](https://www.theguardian.com/us-news/2022/oct/06/arkansas-deputies-fired-violent-arrest)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/blog/2022/oct/07/premier-league-10-things-to-look-out-for-this-weekend)
+- [Russia-Ukraine war latest: what we know on day 226 of the invasion](https://www.theguardian.com/world/2022/oct/07/russia-ukraine-war-latest-what-we-know-on-day-226-of-the-invasion)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

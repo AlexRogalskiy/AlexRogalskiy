@@ -400,16 +400,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Oil giant Shell lends support to LF Energy in its open source power networks push](https://www.computerweekly.com/news/252525799/Oil-giant-Shell-lends-support-to-LF-Energy-in-its-open-source-power-networks-push)
+- [EU rolling out measures for online safety and AI liability](https://www.computerweekly.com/news/252525798/EU-rolling-out-measures-for-online-safety-and-AI-liability)
+- [SMEs in Europe ready to invest in real-time payment capabilities](https://www.computerweekly.com/news/252525783/SMEs-in-Europe-ready-to-invest-in-real-time-payment-capabilities)
+- [Proposals for scanning encrypted messages should be cut from Online Safety Bill, say researchers](https://www.computerweekly.com/news/252525778/Proposals-for-scanning-encrypted-messages-should-be-cut-from-Online-Safety-Bill-say-researchers)
+- [Tech Nation and PwC launch joint climate tech accelerator](https://www.computerweekly.com/news/252525757/Tech-Nation-and-PwC-launch-joint-climate-tech-accelerator)
+- [JPMorgan’s UK digital bank app outage locks customers out](https://www.computerweekly.com/news/252525772/JPMorgans-UK-digital-bank-outage-locks-customers-out)
 - [Clickwork and labour exploitation in the digital economy](https://www.computerweekly.com/feature/Clickwork-and-labour-exploitation-in-the-digital-economy)
 - [Air gaps for backup and how they help against ransomware](https://www.computerweekly.com/feature/Air-gaps-for-backup-and-how-they-help-against-ransomware)
 - [Three ways that APIs can fail](https://www.computerweekly.com/opinion/Three-ways-that-APIs-can-fail)
 - [How to maximise tech recruitment in an uncertain and unpredictable market](https://www.computerweekly.com/opinion/How-to-maximise-tech-recruitmentin-an-uncertain-and-unpredictable-market)
-- [Italian Supreme Court calls for prosecutors to disclose information on Sky ECC hacking operation](https://www.computerweekly.com/news/252525734/Italian-Supreme-Court-calls-for-prosecutors-to-disclose-information-on-Sky-ECC-hacking-operation)
-- [Young people in tech unhappy despite inclusion push](https://www.computerweekly.com/news/252525731/Young-people-in-tech-unhappy-despite-inclusion-push)
-- [Providers unconcerned about Ofcom probe into hyperscaler influence on cloud market](https://www.computerweekly.com/feature/Providers-unconcerned-about-Ofcom-probe-into-hyperscaler-influence-on-cloud-market)
-- [Developer wellbeing: A Computer Weekly Downtime Upload podcast](https://www.computerweekly.com/podcast/Developer-wellbeing-A-Computer-Weekly-Downtime-Upload-podcast)
-- [Forrester: US set to dominate AI enterprise software market](https://www.computerweekly.com/news/252525729/Forrester-US-set-to-dominate-AI-enterprise-software-market)
-- [Use site reliability engineering to address cloud instability](https://www.computerweekly.com/opinion/Use-site-reliability-engineering-to-address-cloud-instability)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

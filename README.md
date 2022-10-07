@@ -430,6 +430,7 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Hashtag Trending Oct. 6 – Social media and depression; Micron semiconductor investment; Google Cloud Region comes to South Africa](https://www.itworldcanada.com/article/hashtag-trending-oct-6-social-media-and-depression-micron-semiconductor-investment-google-cloud-region-comes-to-south-africa/506937)
 - [Ex-Uber CSO convicted of cover-up in 2016 data breach](https://www.itworldcanada.com/article/ex-uber-cso-convicted-of-cover-up-in-2016-data-breach/506957)
 - [OpenText CEO: Time to prepare for 2030 and all that it will bring](https://www.itworldcanada.com/article/opentext-ceo-time-to-prepare-for-2030-and-all-that-it-will-bring/506711)
 - [Zylo’s 2022 SaaSME zeros in on driving SaaS cost savings](https://www.itworldcanada.com/article/zylos-2022-saasme-zeros-in-on-driving-saas-cost-savings/506605)
@@ -439,7 +440,6 @@
 - [Musk offers to buy Twitter at the original price if Twitter drops court actions](https://www.itworldcanada.com/article/musk-offers-to-buy-twitter-at-the-original-share-offering-if-twitter-drops-court-actions/506697)
 - [New report reveals “cost of working” crisis for Canadian employees](https://www.itworldcanada.com/article/new-report-reveals-cost-of-working-crisis-for-canadian-employees/506463)
 - [Why bringing SAS Viya onto Microsoft Azure Marketplace is a big deal](https://www.itworldcanada.com/article/why-bringing-sas-viya-on-microsoft-azure-marketplace-is-a-big-deal/506524)
-- [Tenable announces new exposure management platform](https://www.itworldcanada.com/article/tenable-announces-new-exposure-management-platform/506625)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

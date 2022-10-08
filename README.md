@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Indonesia stadium disaster: six face criminal charges over deadly crush](https://www.theguardian.com/world/2022/oct/07/indonesia-stadium-disaster-six-face-criminal-charges-over-deadly-crush)
-- [Biden warns world would face ‘Armageddon’ if Putin uses a tactical nuclear weapon in Ukraine](https://www.theguardian.com/us-news/2022/oct/07/biden-warns-world-would-face-armageddon-if-putin-uses-a-tactical-nuclear-weapon-in-ukraine)
-- [Legal quirk allows gay couples in China to get married online in conservative Utah](https://www.theguardian.com/world/2022/oct/07/legal-quirk-allows-gay-couples-in-china-to-get-married-online-in-conservative-utah)
-- [The cheating scandal rocking the chess world - podcast](https://www.theguardian.com/news/audio/2022/oct/07/the-cheating-scandal-rocking-the-chess-world)
-- [Three senior Islamic State militants killed in US strikes in Syria](https://www.theguardian.com/us-news/2022/oct/06/us-military-syria-airstrike-islamic-state)
-- [Easter Island fire causes ‘irreparable’ damage to famous moai statues](https://www.theguardian.com/world/2022/oct/07/easter-island-fire-causes-irreparable-damage-to-famous-moai-statues)
-- [Thailand in mourning after children killed in mass stabbing and shooting](https://www.theguardian.com/world/2022/oct/07/thailand-in-mourning-after-children-killed-in-mass-stabbing-and-shooting)
-- [Two deputies fired after arrest video shows them punching and kneeing a man](https://www.theguardian.com/us-news/2022/oct/06/arkansas-deputies-fired-violent-arrest)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/blog/2022/oct/07/premier-league-10-things-to-look-out-for-this-weekend)
-- [Russia-Ukraine war latest: what we know on day 226 of the invasion](https://www.theguardian.com/world/2022/oct/07/russia-ukraine-war-latest-what-we-know-on-day-226-of-the-invasion)
+- [Fiji v England: Women’s Rugby World Cup – live](https://www.theguardian.com/sport/live/2022/oct/08/fiji-v-england-womens-rugby-world-cup-live)
+- [Elon Musk suggests making Taiwan a ‘special administrative zone’ similar to Hong Kong](https://www.theguardian.com/technology/2022/oct/08/elon-musk-taiwan-china-special-administrative-zone-hong-kong)
+- [Two New York hospitals agree to pay more than $165m to 147 abuse victims](https://www.theguardian.com/us-news/2022/oct/07/new-york-hospitals-settle-abuse-victims)
+- [Three dead in explosion at Irish petrol station](https://www.theguardian.com/world/2022/oct/07/injuries-reported-after-explosion-at-county-donegal-service-station)
+- [Radiation ‘hotspots’: legacy of British nuclear tests lingers on idyllic islands in Western Australia](https://www.theguardian.com/australia-news/2022/oct/08/radiation-hotspots-legacy-of-british-nuclear-tests-lingers-on-idyllic-islands-in-western-australia)
+- [Public sector job losses could pass 100,000 if government refuses pay rises, says IFS](https://www.theguardian.com/business/2022/oct/08/public-sector-job-losses-could-pass-100000-if-government-refuses-pay-rises-says-ifs)
+- [Ministers back free train travel for military to remembrance services after outcry](https://www.theguardian.com/uk-news/2022/oct/07/free-train-travel-for-military-to-attend-remembrance-services-scrapped)
+- [Ohio court blocks six-week abortion ban indefinitely](https://www.theguardian.com/us-news/2022/oct/07/ohio-court-blocks-six-week-abortion-ban-indefinitely)
+- [Truss ‘considering plans to send childcare cash to parents’ in England](https://www.theguardian.com/money/2022/oct/07/truss-considering-plans-to-send-childcare-cash-to-parents-in-england)
+- [The week around the world in 20 pictures](https://www.theguardian.com/artanddesign/gallery/2022/oct/07/the-week-around-the-world-in-20-pictures)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

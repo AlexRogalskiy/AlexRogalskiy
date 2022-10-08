@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [“Life Goes on” with Stewart Brand](https://www.palladiummag.com/2022/09/14/life-goes-on-with-stewart-brand/)
-- [Community Groups: Community-led vs. Company-led](https://www.happyandeffective.com/blog/community-groups-community-led-vs-company-led)
-- [Padder – A one-time pad implementation](https://www.go350.com/posts/padder-a-one-time-pad-implementation/)
-- [Binance chain bug postmortem – Proof verifier bug](https://twitter.com/samczsun/status/1578185275062132736)
-- [Show HN: Go-anytime: a parser for dates and ranges of unknown format](https://github.com/ijt/go-anytime)
-- [“If plan A is for you to take multiple rounds of .308 in your back...” &lpar;2000&rpar;](https://web.archive.org/web/20040706001343/http://www.mallninja.com/Am%20I%20Being%20Careful%20Enough%20-%20Glock%20Talk.htm)
-- [I ordered robot takeout on two campuses with wildly different results](https://www.fullstackeconomics.com/p/the-robot-takeout-revolution-is-closer)
-- [Surprise: AirPods Pro Are as Unrepairable as Ever – iFixit News](https://www.ifixit.com/News/66194/apples-new-airpods-are-telling-users-to-replace-the-batteries-already-too-bad-thats-impossible)
-- [Some leading robot makers are pledging not to weaponize them](https://www.npr.org/2022/10/06/1127227605/boston-dynamics-robots-pledge-against-weapons)
-- [Former Uber Security Chief Found Guilty of Hiding Hack from Authorities](https://www.nytimes.com/2022/10/05/technology/uber-security-chief-joe-sullivan-verdict.html)
+- [Ask HN: Anyone else getting a lot more bruteforce attacks from Google Cloud IPs?](https://news.ycombinator.com/item?id=33129508)
+- [Show HN: I wrote a short story about von Neumann probes](https://f52.charlieharrington.com/stories/nibbles/)
+- [College of Engineering to Host Fall Registered Student Organization Fair](https://news.uark.edu/articles/62187/college-of-engineering-to-host-fall-registered-student-organization-fair)
+- [Privacy as Product](https://berjon.com/privacy-as-product/)
+- [Can Car-to-Car Communication Technology Save Lives?](https://www.nytimes.com/2022/10/05/business/c-v2x-car-communication-technology.html)
+- [Boston Dynamics and five other tech firms pledge not to weaponize their robots](https://www.npr.org/2022/10/06/1127227605/boston-dynamics-robots-pledge-against-weapons)
+- [One of the longest-ruling families in human history](https://www.thoughtco.com/the-chola-empire-195485)
+- [Intel, SiFive Demo High-Performance RISC-V on Intel 4](https://fuse.wikichip.org/news/7277/intel-sifive-demo-high-performance-risc-v-horse-creek-dev-platform-on-intel-4-process/)
+- [Some Google Pixel phones are struggling to reach emergency services – again](https://www.androidpolice.com/google-pixel-phones-struggling-to-reach-emergency/)
+- [AlphaTensor by DeepMind Explained](https://www.youtube.com/watch?v=3N3Bl5AA5QU)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

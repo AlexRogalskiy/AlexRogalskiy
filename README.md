@@ -400,6 +400,8 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Bolt drivers take legal action over employment status](https://www.computerweekly.com/news/252525838/Bolt-drivers-take-legal-action-over-employment-status)
+- [IT Sustainability Think Tank: Getting to grips with greenwashing](https://www.computerweekly.com/opinion/IT-Sustainability-Think-Tank-Getting-to-grips-with-greenwashing)
 - [Oil giant Shell lends support to LF Energy in its open source power networks push](https://www.computerweekly.com/news/252525799/Oil-giant-Shell-lends-support-to-LF-Energy-in-its-open-source-power-networks-push)
 - [EU rolling out measures for online safety and AI liability](https://www.computerweekly.com/news/252525798/EU-rolling-out-measures-for-online-safety-and-AI-liability)
 - [SMEs in Europe ready to invest in real-time payment capabilities](https://www.computerweekly.com/news/252525783/SMEs-in-Europe-ready-to-invest-in-real-time-payment-capabilities)
@@ -408,8 +410,6 @@
 - [JPMorgan’s UK digital bank app outage locks customers out](https://www.computerweekly.com/news/252525772/JPMorgans-UK-digital-bank-outage-locks-customers-out)
 - [Clickwork and labour exploitation in the digital economy](https://www.computerweekly.com/feature/Clickwork-and-labour-exploitation-in-the-digital-economy)
 - [Air gaps for backup and how they help against ransomware](https://www.computerweekly.com/feature/Air-gaps-for-backup-and-how-they-help-against-ransomware)
-- [Three ways that APIs can fail](https://www.computerweekly.com/opinion/Three-ways-that-APIs-can-fail)
-- [How to maximise tech recruitment in an uncertain and unpredictable market](https://www.computerweekly.com/opinion/How-to-maximise-tech-recruitmentin-an-uncertain-and-unpredictable-market)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

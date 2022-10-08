@@ -430,16 +430,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Defending Ukraine: SecTor session probes a complex cyber war](https://www.itworldcanada.com/article/defending-ukraine-sector-session-probes-a-complex-cyber-war/507289)
+- [Parliamentary committee urges Ottawa to pause use of facial recognition](https://www.itworldcanada.com/article/parliamentary-committee-urges-ottawa-to-pause-use-of-facial-recognition/507193)
+- [Cyber Security Today, Week in Review for Oct. 7, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-oct-7-2022/507161)
+- [Government of Canada to invest over $7 million in the Kitchener-Waterloo tech sector](https://www.itworldcanada.com/article/government-of-canada-to-invest-over-7-million-in-the-kitchener-waterloo-tech-sector/507271)
+- [Most business continuity plans are ‘wildly out of date’, SecTor conference told](https://www.itworldcanada.com/article/most-business-continuity-plans-are-wildly-out-of-date-sector-conference-told/507177)
+- [Cyber Security Today, Oct. 7, 2022 – Why an overhaul of your business continuity plan is needed, and more](https://www.itworldcanada.com/article/cyber-security-today-oct-7-2022-why-an-overhaul-of-your-business-continuity-plan-is-needed-and-more/507168)
 - [Hashtag Trending Oct. 6 – Social media and depression; Micron semiconductor investment; Google Cloud Region comes to South Africa](https://www.itworldcanada.com/article/hashtag-trending-oct-6-social-media-and-depression-micron-semiconductor-investment-google-cloud-region-comes-to-south-africa/506937)
 - [Ex-Uber CSO convicted of cover-up in 2016 data breach](https://www.itworldcanada.com/article/ex-uber-cso-convicted-of-cover-up-in-2016-data-breach/506957)
 - [OpenText CEO: Time to prepare for 2030 and all that it will bring](https://www.itworldcanada.com/article/opentext-ceo-time-to-prepare-for-2030-and-all-that-it-will-bring/506711)
 - [Zylo’s 2022 SaaSME zeros in on driving SaaS cost savings](https://www.itworldcanada.com/article/zylos-2022-saasme-zeros-in-on-driving-saas-cost-savings/506605)
-- [Shadow APIs a key target for malicious attacks, reveals new report](https://www.itworldcanada.com/article/shadow-apis-a-key-target-for-malicious-attacks-reveals-new-report/506743)
-- [New platform uses augmented reality to power video-enabled packaging](https://www.itworldcanada.com/article/new-platform-uses-augmented-reality-to-power-video-enabled-packaging/506781)
-- [Novipro announces hybrid CyberEx conference](https://www.itworldcanada.com/article/novipro-announces-hybrid-cyberex-conference/506780)
-- [Musk offers to buy Twitter at the original price if Twitter drops court actions](https://www.itworldcanada.com/article/musk-offers-to-buy-twitter-at-the-original-share-offering-if-twitter-drops-court-actions/506697)
-- [New report reveals “cost of working” crisis for Canadian employees](https://www.itworldcanada.com/article/new-report-reveals-cost-of-working-crisis-for-canadian-employees/506463)
-- [Why bringing SAS Viya onto Microsoft Azure Marketplace is a big deal](https://www.itworldcanada.com/article/why-bringing-sas-viya-on-microsoft-azure-marketplace-is-a-big-deal/506524)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Celsius exposes the names of all customers](https://web3isgoinggreat.com/single/celsius-exposes-the-names-of-all-customers-and-their-recent-transactions-in-court-filing--including-their-execs)
-- [Study links omega-3s to improved brain structure, cognition at midlife](https://news.uthscsa.edu/study-links-omega-3s-to-improved-brain-structure-cognition-at-midlife/)
-- [Why doesn&#39;t Bash&#39;s `set -e` do what I expected?](http://mywiki.wooledge.org/BashFAQ/105)
-- [WebVM: WASM virtual machine in browser with networking via Tailscale](https://leaningtech.com/webvm-virtual-machine-with-networking-via-tailscale/)
-- [Ask HN: What content/knowledge is most important?](https://news.ycombinator.com/item?id=33116230)
-- [Show HN: Lambda-8cc – An x86 C compiler written in untyped lambda calculus](https://github.com/woodrush/lambda-8cc)
-- [Recreating macOS’s Drift Screensaver with Rust and WASM](https://github.com/sandydoo/flux)
-- [Upgrade to Linux](https://www.upgradetolinux.com/)
-- [Dormant spores decide to wake-up by counting in their sleep using electricity](https://www.science.org/doi/10.1126/science.abl7484)
-- [BYU profs create new nuclear reactor to produce nuclear energy more safely](https://news.byu.edu/byu-profs-create-safer-system-to-produce-nuclear-energy)
+- [Intel, SiFive Demo High-Performance RISC-V on Intel 4](https://fuse.wikichip.org/news/7277/intel-sifive-demo-high-performance-risc-v-horse-creek-dev-platform-on-intel-4-process/)
+- [A Cheap 2.5GbE PoE Unmanaged Switch](https://www.servethehome.com/the-ultimate-cheap-2-5gbe-poe-unmanaged-switch-hasivo-s1100p-8gt/)
+- [Combination of Rapamycin and Acarbose significantly Extends Lifespan](https://www.lifespan.io/news/combination-of-rapamycin-and-acarbose-extends-lifespan/)
+- [C Programming on System 6](https://jcs.org/2022/09/29/vcfmw)
+- [Patients can now access all their health records digitally](https://www.statnews.com/2022/10/06/health-data-information-blocking-records/)
+- [Retinoid restores eye-specific brain responses in mice with retinal degeneration](https://www.cell.com/current-biology/fulltext/S0960-9822(22)01449-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS096098222201449X%3Fshowall%3Dtrue)
+- [Is the FSF Fighting the Previous War?](https://irreal.org/blog/?p=10864)
+- [Lufthansa bans AirTags in checked luggage](https://onemileatatime.com/news/lufthansa-bans-airtags/)
+- [4x4 ASCII Font &lpar;2016&rpar;](https://simplifier.neocities.org/4x4.html)
+- [How I Made a Self-Quoting Tweet](https://oisinmoran.com/quinetweet)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

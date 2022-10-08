@@ -385,6 +385,8 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [VS Code 1.72 enhances Git source control](https://www.infoworld.com/article/3676069/vs-code-172-enhances-git-source-control.html#tk.rss_all)
+- [Companies are still waiting for their cloud ROI](https://www.infoworld.com/article/3675374/companies-are-still-waiting-for-their-cloud-roi.html#tk.rss_all)
 - [Canonical expands application security coverage](https://www.infoworld.com/article/3675959/canonical-expands-application-security-coverage.html#tk.rss_all)
 - [How to merge data in R using R merge, dplyr, or data.table](https://www.infoworld.com/article/3454356/how-to-merge-data-in-r-using-r-merge-dplyr-or-datatable.html#tk.rss_all)
 - [Data visualization with Observable JavaScript](https://www.infoworld.com/article/3674852/data-visualization-with-observable-javascript.html#tk.rss_all)
@@ -393,8 +395,6 @@
 - [Apollo GraphQL debuts GraphOS platform for building ‘supergraphs’](https://www.infoworld.com/article/3675949/apollo-graphql-debuts-graphos-platform-for-building-supergraphs.html#tk.rss_all)
 - [Hands-on with MongoDB queryable encryption and Node.js](https://www.infoworld.com/article/3675390/hands-on-with-mongodb-queryable-encryption-and-node-js.html#tk.rss_all)
 - [How to use cancellation tokens in ASP.NET Core 7](https://www.infoworld.com/article/3674845/how-to-use-cancellation-tokens-in-aspnet-core-7.html#tk.rss_all)
-- [Linux 6.0 kernel arrives, quietly](https://www.infoworld.com/article/3675393/linux-60-kernel-arrives-quietly.html#tk.rss_all)
-- [TypeScript turns 10 years old](https://www.infoworld.com/article/3675546/typescript-turns-10-years-old.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

@@ -415,6 +415,8 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [The future is web?](https://www.reddit.com/r/InformationTechnology/comments/xysgyt/the_future_is_web/)
+- [Is my touchpad broken?](https://www.reddit.com/r/InformationTechnology/comments/xys0rt/is_my_touchpad_broken/)
 - [How is $38 job in Cyber Security domain with complete remote work in California?](https://www.reddit.com/r/InformationTechnology/comments/xy5ngz/how_is_38_job_in_cyber_security_domain_with/)
 - [Hotjar alternatives for Android](https://www.reddit.com/r/InformationTechnology/comments/xx2hy0/hotjar_alternatives_for_android/)
 - [Role for thesis](https://www.reddit.com/r/InformationTechnology/comments/xx1rh1/role_for_thesis/)
@@ -423,8 +425,6 @@
 - [Two servers having USB issues after upgrading to Server 2019](https://www.reddit.com/r/InformationTechnology/comments/xwfglf/two_servers_having_usb_issues_after_upgrading_to/)
 - [Is there a way to disconnect inactive/idle devices from router to save on background data consumption?](https://www.reddit.com/r/InformationTechnology/comments/xwax8p/is_there_a_way_to_disconnect_inactiveidle_devices/)
 - [Looking for a new IT job, preferably remote, but having issues.](https://www.reddit.com/r/InformationTechnology/comments/xvulcw/looking_for_a_new_it_job_preferably_remote_but/)
-- [Resources/studies/tips on I.T. obsolescence management in large tech companies?](https://www.reddit.com/r/InformationTechnology/comments/xv31n6/resourcesstudiestips_on_it_obsolescence/)
-- [Why are ISPs sending modems that can&#39;t change it&#39;s gateway?](https://www.reddit.com/r/InformationTechnology/comments/xuzdh7/why_are_isps_sending_modems_that_cant_change_its/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ask HN: Anyone else getting a lot more bruteforce attacks from Google Cloud IPs?](https://news.ycombinator.com/item?id=33129508)
-- [Show HN: I wrote a short story about von Neumann probes](https://f52.charlieharrington.com/stories/nibbles/)
-- [College of Engineering to Host Fall Registered Student Organization Fair](https://news.uark.edu/articles/62187/college-of-engineering-to-host-fall-registered-student-organization-fair)
-- [Privacy as Product](https://berjon.com/privacy-as-product/)
-- [Can Car-to-Car Communication Technology Save Lives?](https://www.nytimes.com/2022/10/05/business/c-v2x-car-communication-technology.html)
-- [Boston Dynamics and five other tech firms pledge not to weaponize their robots](https://www.npr.org/2022/10/06/1127227605/boston-dynamics-robots-pledge-against-weapons)
-- [One of the longest-ruling families in human history](https://www.thoughtco.com/the-chola-empire-195485)
-- [Intel, SiFive Demo High-Performance RISC-V on Intel 4](https://fuse.wikichip.org/news/7277/intel-sifive-demo-high-performance-risc-v-horse-creek-dev-platform-on-intel-4-process/)
-- [Some Google Pixel phones are struggling to reach emergency services – again](https://www.androidpolice.com/google-pixel-phones-struggling-to-reach-emergency/)
-- [AlphaTensor by DeepMind Explained](https://www.youtube.com/watch?v=3N3Bl5AA5QU)
+- [Making heuristics smarter with GPT-3](https://www.trickster.dev/post/making-heuristics-smarter-with-gpt3/)
+- [Life Extension for Stars](https://www.youtube.com/watch?v=IY0KWLanlLM)
+- [Defending Earth from Asteroids](https://www.youtube.com/watch?v=8ZMJfx3lRVg)
+- [Building a Microgame &lpar;2020&rpar;](https://craigmbooth.com/blog/microgame-you-killed-a-bear/)
+- [Six Shooter Glue Gun](http://vijemiller.com/index.php?t=Six_Shooter_Glue_Gun)
+- [Google Japan designed a &lpar;long&rpar; single row keyboard](https://www.youtube.com/watch?v=9G3DWHf1xX0)
+- [Python Preloaded – Bundle Python executable with preloaded modules](https://github.com/albertz/python-preloaded)
+- [Landlords of the internet: Big data and big real estate](https://journals.sagepub.com/doi/10.1177/03063127221124943)
+- [Telecomunications Act 1996](https://transition.fcc.gov/Reports/tcom1996.txt)
+- [Untangling Lifetimes: The Arena Allocator](https://www.rfleury.com/p/untangling-lifetimes-the-arena-allocator)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

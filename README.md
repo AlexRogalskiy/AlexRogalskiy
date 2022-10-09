@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Intel, SiFive Demo High-Performance RISC-V on Intel 4](https://fuse.wikichip.org/news/7277/intel-sifive-demo-high-performance-risc-v-horse-creek-dev-platform-on-intel-4-process/)
-- [A Cheap 2.5GbE PoE Unmanaged Switch](https://www.servethehome.com/the-ultimate-cheap-2-5gbe-poe-unmanaged-switch-hasivo-s1100p-8gt/)
-- [Combination of Rapamycin and Acarbose significantly Extends Lifespan](https://www.lifespan.io/news/combination-of-rapamycin-and-acarbose-extends-lifespan/)
-- [C Programming on System 6](https://jcs.org/2022/09/29/vcfmw)
-- [Patients can now access all their health records digitally](https://www.statnews.com/2022/10/06/health-data-information-blocking-records/)
-- [Retinoid restores eye-specific brain responses in mice with retinal degeneration](https://www.cell.com/current-biology/fulltext/S0960-9822(22)01449-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS096098222201449X%3Fshowall%3Dtrue)
-- [Is the FSF Fighting the Previous War?](https://irreal.org/blog/?p=10864)
-- [Lufthansa bans AirTags in checked luggage](https://onemileatatime.com/news/lufthansa-bans-airtags/)
-- [4x4 ASCII Font &lpar;2016&rpar;](https://simplifier.neocities.org/4x4.html)
-- [How I Made a Self-Quoting Tweet](https://oisinmoran.com/quinetweet)
+- [The gangs that kidnap Asians and force them to commit cyberfraud](https://www.economist.com/asia/2022/10/06/the-gangs-that-kidnap-asians-and-force-them-to-commit-cyberfraud)
+- [Ask HN: Is Substack the New Medium?](https://news.ycombinator.com/item?id=33137417)
+- [A Few of My Favorite Things About the OpenBSD Packet Filter Tools](https://bsdly.blogspot.com/2022/09/a-few-of-my-favorite-things-about.html)
+- [Basilisk II Macintosh 68K emulator ported to iPadOS &lpar;2021&rpar;](https://blog.gingerbeardman.com/2021/04/21/building-basiliskii-for-ios/)
+- [Modeling Starlink Capacity](https://mikepuchol.com/modeling-starlink-capacity-843b2387f501)
+- [JSON Crack – Seamlessly visualize your JSON data instantly into graphs](https://github.com/AykutSarac/jsoncrack.com)
+- [Magic Leap 2](https://www.magicleap.com/magic-leap-2)
+- [MIT engineers build a battery-free, wireless underwater camera](https://news.mit.edu/2022/battery-free-wireless-underwater-camera-0926)
+- [Technical milestone reached: global earth system simulations with 1.2 km resoln](https://mpimet.mpg.de/en/communication/news/single-news/page?tx_news_pi1%5Bnews%5D=1625&cHash=adb91342d7d66372c6f521b313d7f59f)
+- [DALL·E 2 vs. $10 Fiverr Commissions](https://simonberens.me/blog/dalle-2-vs-10-fiverr-commission)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

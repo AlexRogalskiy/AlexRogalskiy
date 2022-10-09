@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Fiji v England: Women’s Rugby World Cup – live](https://www.theguardian.com/sport/live/2022/oct/08/fiji-v-england-womens-rugby-world-cup-live)
-- [Elon Musk suggests making Taiwan a ‘special administrative zone’ similar to Hong Kong](https://www.theguardian.com/technology/2022/oct/08/elon-musk-taiwan-china-special-administrative-zone-hong-kong)
-- [Two New York hospitals agree to pay more than $165m to 147 abuse victims](https://www.theguardian.com/us-news/2022/oct/07/new-york-hospitals-settle-abuse-victims)
-- [Three dead in explosion at Irish petrol station](https://www.theguardian.com/world/2022/oct/07/injuries-reported-after-explosion-at-county-donegal-service-station)
-- [Radiation ‘hotspots’: legacy of British nuclear tests lingers on idyllic islands in Western Australia](https://www.theguardian.com/australia-news/2022/oct/08/radiation-hotspots-legacy-of-british-nuclear-tests-lingers-on-idyllic-islands-in-western-australia)
-- [Public sector job losses could pass 100,000 if government refuses pay rises, says IFS](https://www.theguardian.com/business/2022/oct/08/public-sector-job-losses-could-pass-100000-if-government-refuses-pay-rises-says-ifs)
-- [Ministers back free train travel for military to remembrance services after outcry](https://www.theguardian.com/uk-news/2022/oct/07/free-train-travel-for-military-to-attend-remembrance-services-scrapped)
-- [Ohio court blocks six-week abortion ban indefinitely](https://www.theguardian.com/us-news/2022/oct/07/ohio-court-blocks-six-week-abortion-ban-indefinitely)
-- [Truss ‘considering plans to send childcare cash to parents’ in England](https://www.theguardian.com/money/2022/oct/07/truss-considering-plans-to-send-childcare-cash-to-parents-in-england)
-- [The week around the world in 20 pictures](https://www.theguardian.com/artanddesign/gallery/2022/oct/07/the-week-around-the-world-in-20-pictures)
+- [Hurricane Julia: Nicaragua braces amid flash flood and mudslide warnings](https://www.theguardian.com/world/2022/oct/09/hurricane-julia-nicaragua-braces-amid-flash-flood-and-mudslide-warnings)
+- [Russia-Ukraine war latest: what we know on day 228 of the invasion](https://www.theguardian.com/world/2022/oct/09/russia-ukraine-war-latest-what-we-know-on-day-228-of-the-invasion)
+- [Jumping Sundays: The rise and fall of counterculture in Aotearoa New Zealand](https://www.theguardian.com/culture/2022/oct/09/jumping-sundays-the-1960s-counterculture-that-rejected-conservative-new-zealand)
+- [Kwasi Kwarteng buckles up for first date with IMF | Richard Partington](https://www.theguardian.com/business/2022/oct/09/kwasi-kwarteng-awkward-imf-meeting-budget)
+- [The Edit: the best new sweatshirts – in pictures](https://www.theguardian.com/fashion/gallery/2022/oct/08/the-edit-the-best-new-sweatshirts-in-pictures)
+- [North Korea fires two more ballistic missiles after South Korea and US navy drills](https://www.theguardian.com/world/2022/oct/08/north-korea-has-fired-ballistic-missile-says-seoul)
+- [Banks stand to lose at least $500m if they fund Elon Musk’s Twitter takeover](https://www.theguardian.com/technology/2022/oct/08/banks-loss-elon-musk-twitter-takeover)
+- [Conor Burns sacked after being seen ‘touching young man’s thigh’, witness says](https://www.theguardian.com/politics/2022/oct/08/conor-burns-sacked-after-being-seen-touching-young-mans-thigh-witness-says)
+- [Texas police fires officer who shot a teen sitting in his car in a fast food parking lot](https://www.theguardian.com/us-news/2022/oct/08/texas-police-fires-officer-shot-teenager)
+- [Why Julia Gillard&#39;s misogyny speech still resonates a decade later – video](https://www.theguardian.com/australia-news/video/2022/oct/07/why-julia-gillards-misogyny-speech-still-resonates-a-decade-later-video)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

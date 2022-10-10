@@ -430,6 +430,7 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Cyber Security Today, Oct. 5, 2022 – An American sentenced to 25 years for laundering money, TD Bank alerts customers in the U.S. of a data theft, and more](https://www.itworldcanada.com/article/cyber-security-today-oct-5-2022-an-american-sentenced-to-25-years-for-laundering-money-td-bank-alerts-customers-in-the-u-s-of-a-data-theft-and-more/506630)
 - [Dr. Melvin Greer, Chief Data Scientist at Intel – the interview on Hashtag Trending Weekend Edition](https://www.itworldcanada.com/article/dr-melvin-greer-chief-data-scientist-at-intel-the-interview-on-hashtag-trending-weekend-edition/507326)
 - [Defending Ukraine: SecTor session probes a complex cyber war](https://www.itworldcanada.com/article/defending-ukraine-sector-session-probes-a-complex-cyber-war/507289)
 - [Parliamentary committee urges Ottawa to pause use of facial recognition](https://www.itworldcanada.com/article/parliamentary-committee-urges-ottawa-to-pause-use-of-facial-recognition/507193)
@@ -439,7 +440,6 @@
 - [Cyber Security Today, Oct. 7, 2022 – Why an overhaul of your business continuity plan is needed, and more](https://www.itworldcanada.com/article/cyber-security-today-oct-7-2022-why-an-overhaul-of-your-business-continuity-plan-is-needed-and-more/507168)
 - [Hashtag Trending Oct. 6 – Social media and depression; Micron semiconductor investment; Google Cloud Region comes to South Africa](https://www.itworldcanada.com/article/hashtag-trending-oct-6-social-media-and-depression-micron-semiconductor-investment-google-cloud-region-comes-to-south-africa/506937)
 - [Ex-Uber CSO convicted of cover-up in 2016 data breach](https://www.itworldcanada.com/article/ex-uber-cso-convicted-of-cover-up-in-2016-data-breach/506957)
-- [OpenText CEO: Time to prepare for 2030 and all that it will bring](https://www.itworldcanada.com/article/opentext-ceo-time-to-prepare-for-2030-and-all-that-it-will-bring/506711)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

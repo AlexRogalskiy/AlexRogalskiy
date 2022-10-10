@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Making heuristics smarter with GPT-3](https://www.trickster.dev/post/making-heuristics-smarter-with-gpt3/)
-- [Life Extension for Stars](https://www.youtube.com/watch?v=IY0KWLanlLM)
-- [Defending Earth from Asteroids](https://www.youtube.com/watch?v=8ZMJfx3lRVg)
-- [Building a Microgame &lpar;2020&rpar;](https://craigmbooth.com/blog/microgame-you-killed-a-bear/)
-- [Six Shooter Glue Gun](http://vijemiller.com/index.php?t=Six_Shooter_Glue_Gun)
-- [Google Japan designed a &lpar;long&rpar; single row keyboard](https://www.youtube.com/watch?v=9G3DWHf1xX0)
-- [Python Preloaded – Bundle Python executable with preloaded modules](https://github.com/albertz/python-preloaded)
-- [Landlords of the internet: Big data and big real estate](https://journals.sagepub.com/doi/10.1177/03063127221124943)
-- [Telecomunications Act 1996](https://transition.fcc.gov/Reports/tcom1996.txt)
-- [Untangling Lifetimes: The Arena Allocator](https://www.rfleury.com/p/untangling-lifetimes-the-arena-allocator)
+- [Kademlia: A Peer-to-peer information system based on the XOR Metric [pdf]](https://pdos.csail.mit.edu/~petar/papers/maymounkov-kademlia-lncs.pdf)
+- [Statement of Chairman Pai on Section 230 Rulemaking [pdf]](https://docs.fcc.gov/public/attachments/DOC-367567A1.pdf)
+- [Social Media Is Probably Doomed](https://lauren.vortex.com/2022/10/04/social-media-is-probably-doomed)
+- [List of films with high frame rates](https://en.wikipedia.org/wiki/List_of_films_with_high_frame_rates)
+- [It&#39;s Time for Operating Systems to Rediscover Hardware &lpar;2021&rpar; [video]](https://www.youtube.com/watch?v=36myc8wQhLo)
+- [Carmack Unscripted – Meta Connect 2022](https://metaconnect.com/en-us/program/afa6b1a8-d749-4ab7-bf1e-f531266fd315/)
+- [How much did you lose with Celsius Network?](https://celsiusnetworth.com/)
+- [How to fine-tune your AI images with these simple prompting techniques](https://www.sagiodev.com/blog/how_to_finetune_ai_images_prompts/)
+- [Tasered to Death – PIMA County Jail](https://www.youtube.com/watch?v=PDGWPxqrZTw)
+- [Meta Connect Live Streaming on October 11](https://metaconnect.com/en-us/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

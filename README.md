@@ -400,6 +400,7 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [ODI food poverty study shows black families and North East suffering most](https://www.computerweekly.com/news/252525841/ODI-food-poverty-study-shows-black-families-and-North-East-suffering-most)
 - [Bolt drivers take legal action over employment status](https://www.computerweekly.com/news/252525838/Bolt-drivers-take-legal-action-over-employment-status)
 - [IT Sustainability Think Tank: Getting to grips with greenwashing](https://www.computerweekly.com/opinion/IT-Sustainability-Think-Tank-Getting-to-grips-with-greenwashing)
 - [Oil giant Shell lends support to LF Energy in its open source power networks push](https://www.computerweekly.com/news/252525799/Oil-giant-Shell-lends-support-to-LF-Energy-in-its-open-source-power-networks-push)
@@ -409,7 +410,6 @@
 - [Tech Nation and PwC launch joint climate tech accelerator](https://www.computerweekly.com/news/252525757/Tech-Nation-and-PwC-launch-joint-climate-tech-accelerator)
 - [JPMorgan’s UK digital bank app outage locks customers out](https://www.computerweekly.com/news/252525772/JPMorgans-UK-digital-bank-outage-locks-customers-out)
 - [Clickwork and labour exploitation in the digital economy](https://www.computerweekly.com/feature/Clickwork-and-labour-exploitation-in-the-digital-economy)
-- [Air gaps for backup and how they help against ransomware](https://www.computerweekly.com/feature/Air-gaps-for-backup-and-how-they-help-against-ransomware)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

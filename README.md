@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The gangs that kidnap Asians and force them to commit cyberfraud](https://www.economist.com/asia/2022/10/06/the-gangs-that-kidnap-asians-and-force-them-to-commit-cyberfraud)
-- [Ask HN: Is Substack the New Medium?](https://news.ycombinator.com/item?id=33137417)
-- [A Few of My Favorite Things About the OpenBSD Packet Filter Tools](https://bsdly.blogspot.com/2022/09/a-few-of-my-favorite-things-about.html)
-- [Basilisk II Macintosh 68K emulator ported to iPadOS &lpar;2021&rpar;](https://blog.gingerbeardman.com/2021/04/21/building-basiliskii-for-ios/)
-- [Modeling Starlink Capacity](https://mikepuchol.com/modeling-starlink-capacity-843b2387f501)
-- [JSON Crack – Seamlessly visualize your JSON data instantly into graphs](https://github.com/AykutSarac/jsoncrack.com)
-- [Magic Leap 2](https://www.magicleap.com/magic-leap-2)
-- [MIT engineers build a battery-free, wireless underwater camera](https://news.mit.edu/2022/battery-free-wireless-underwater-camera-0926)
-- [Technical milestone reached: global earth system simulations with 1.2 km resoln](https://mpimet.mpg.de/en/communication/news/single-news/page?tx_news_pi1%5Bnews%5D=1625&cHash=adb91342d7d66372c6f521b313d7f59f)
-- [DALL·E 2 vs. $10 Fiverr Commissions](https://simonberens.me/blog/dalle-2-vs-10-fiverr-commission)
+- [Malicious update/malware by a semi-advanced adversary](https://axelp.io/UltimateUpdate)
+- [Why Is Europe More Equal Than the United States?](https://www.aeaweb.org/articles?id=10.1257/app.20200703)
+- [Show HN: I built a site that finds the cheapest place to buy a book](https://www.pagesonpages.com/)
+- [Why the Internet Needs the InterPlanetary File System](https://spectrum.ieee.org/peer-to-peer-network)
+- [Halfix – A portable x86 emulator written in C99](https://github.com/nepx/halfix)
+- [Show HN: I built a WASI playground for running CLI binaries in the browser](https://runno.dev/wasi)
+- [What’s behind chinook and chum salmon declines in Alaska?](https://www.fisheries.noaa.gov/feature-story/whats-behind-chinook-and-chum-salmon-declines-alaska)
+- [Recent discoveries that have changed how we think about human origins](https://singularityhub.com/2022/10/09/six-recent-discoveries-that-have-changed-how-we-think-about-human-origins/)
+- [Energy vs. Sovereign Bond Markets](https://www.lynalden.com/october-2022-newsletter/)
+- [PDF processing and analysis with open-source tools](https://www.bitsgalore.org/2021/09/06/pdf-processing-and-analysis-with-open-source-tools)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

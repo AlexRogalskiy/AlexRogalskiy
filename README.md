@@ -415,16 +415,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Does it matter which college I get my Computer Information Technology B.S. from?](https://www.reddit.com/r/InformationTechnology/comments/y0351a/does_it_matter_which_college_i_get_my_computer/)
+- [Why is beautifulSoup not working for me?](https://www.reddit.com/r/InformationTechnology/comments/xzulj8/why_is_beautifulsoup_not_working_for_me/)
+- [First tip on how to get an I.T. job, learn to find information and adapt to teaching yourself](https://www.reddit.com/r/InformationTechnology/comments/xztbm3/first_tip_on_how_to_get_an_it_job_learn_to_find/)
+- [Project managers are useless for small teams!](https://www.reddit.com/r/InformationTechnology/comments/xzq1c6/project_managers_are_useless_for_small_teams/)
+- [Is my touchpad broken or is just not active?](https://www.reddit.com/r/InformationTechnology/comments/xzo2rs/is_my_touchpad_broken_or_is_just_not_active/)
+- [First IT job?](https://www.reddit.com/r/InformationTechnology/comments/xznx2z/first_it_job/)
+- [Lean to code](https://www.reddit.com/r/InformationTechnology/comments/xznsp7/lean_to_code/)
 - [The future is web?](https://www.reddit.com/r/InformationTechnology/comments/xysgyt/the_future_is_web/)
 - [Is my touchpad broken?](https://www.reddit.com/r/InformationTechnology/comments/xys0rt/is_my_touchpad_broken/)
 - [How is $38 job in Cyber Security domain with complete remote work in California?](https://www.reddit.com/r/InformationTechnology/comments/xy5ngz/how_is_38_job_in_cyber_security_domain_with/)
-- [Hotjar alternatives for Android](https://www.reddit.com/r/InformationTechnology/comments/xx2hy0/hotjar_alternatives_for_android/)
-- [Role for thesis](https://www.reddit.com/r/InformationTechnology/comments/xx1rh1/role_for_thesis/)
-- [Python Use in the IT Industry](https://www.reddit.com/r/InformationTechnology/comments/xwu5li/python_use_in_the_it_industry/)
-- [Help! Need an advice on a project](https://www.reddit.com/r/InformationTechnology/comments/xwg5c5/help_need_an_advice_on_a_project/)
-- [Two servers having USB issues after upgrading to Server 2019](https://www.reddit.com/r/InformationTechnology/comments/xwfglf/two_servers_having_usb_issues_after_upgrading_to/)
-- [Is there a way to disconnect inactive/idle devices from router to save on background data consumption?](https://www.reddit.com/r/InformationTechnology/comments/xwax8p/is_there_a_way_to_disconnect_inactiveidle_devices/)
-- [Looking for a new IT job, preferably remote, but having issues.](https://www.reddit.com/r/InformationTechnology/comments/xvulcw/looking_for_a_new_it_job_preferably_remote_but/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

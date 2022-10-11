@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Malicious update/malware by a semi-advanced adversary](https://axelp.io/UltimateUpdate)
-- [Why Is Europe More Equal Than the United States?](https://www.aeaweb.org/articles?id=10.1257/app.20200703)
-- [Show HN: I built a site that finds the cheapest place to buy a book](https://www.pagesonpages.com/)
-- [Why the Internet Needs the InterPlanetary File System](https://spectrum.ieee.org/peer-to-peer-network)
-- [Halfix – A portable x86 emulator written in C99](https://github.com/nepx/halfix)
-- [Show HN: I built a WASI playground for running CLI binaries in the browser](https://runno.dev/wasi)
-- [What’s behind chinook and chum salmon declines in Alaska?](https://www.fisheries.noaa.gov/feature-story/whats-behind-chinook-and-chum-salmon-declines-alaska)
-- [Recent discoveries that have changed how we think about human origins](https://singularityhub.com/2022/10/09/six-recent-discoveries-that-have-changed-how-we-think-about-human-origins/)
-- [Energy vs. Sovereign Bond Markets](https://www.lynalden.com/october-2022-newsletter/)
-- [PDF processing and analysis with open-source tools](https://www.bitsgalore.org/2021/09/06/pdf-processing-and-analysis-with-open-source-tools)
+- [Ask HN: How did you stop drinking?](https://news.ycombinator.com/item?id=33158947)
+- [Human Motion Diffusion Model](https://github.com/GuyTevet/motion-diffusion-model)
+- [Making an ML Invisibility Cloak](https://www.cs.umd.edu/~tomg/projects/invisible/)
+- [U.S. Army Chooses Google Workspace](https://cloud.google.com/blog/topics/public-sector/us-army-chooses-google-to-deliver-cutting-edge-collaboration)
+- [VirtualBox 7.0 Released – Full VM Encryption Support, New Direct3D Acceleration](https://www.virtualbox.org/wiki/Changelog-7.0)
+- [SmooshGate &lpar;2021&rpar;](https://developer.chrome.com/blog/smooshgate/)
+- [Microbes that cause cavities can form superorganisms able to ‘crawl’](https://penntoday.upenn.edu/news/microbes-cause-cavities-can-form-superorganisms-able-crawl-and-spread-teeth)
+- [How Wine works 101](https://werat.dev/blog/how-wine-works-101/)
+- [Show HN: Satori – Convert HTML and CSS to SVG](https://github.com/vercel/satori)
+- [RCE via GitHub import](https://gitlab.com/gitlab-org/gitlab/-/issues/371098)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -415,16 +415,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [does anyone have labs/tutorials etc so I can practice entry level IT skills?](https://www.reddit.com/r/InformationTechnology/comments/y0s06t/does_anyone_have_labstutorials_etc_so_i_can/)
+- [What am I supposed to do with this god-forsaken catch-22 &lpar;No real world IT job experience but need a JOB for EXPERIENCE&rpar;](https://www.reddit.com/r/InformationTechnology/comments/y0rw04/what_am_i_supposed_to_do_with_this_godforsaken/)
+- [Recommend battery backup/surge protector for network switches](https://www.reddit.com/r/InformationTechnology/comments/y0qtix/recommend_battery_backupsurge_protector_for/)
+- [Advice Regarding Starting a Software House!](https://www.reddit.com/r/InformationTechnology/comments/y0eb9p/advice_regarding_starting_a_software_house/)
+- [Hi, i am a first year 2nd sem international student in Australia studying Bachelors of ICT currently, i am really confused between my majors and which one should i go with.](https://www.reddit.com/r/InformationTechnology/comments/y0amci/hi_i_am_a_first_year_2nd_sem_international/)
 - [Does it matter which college I get my Computer Information Technology B.S. from?](https://www.reddit.com/r/InformationTechnology/comments/y0351a/does_it_matter_which_college_i_get_my_computer/)
 - [Why is beautifulSoup not working for me?](https://www.reddit.com/r/InformationTechnology/comments/xzulj8/why_is_beautifulsoup_not_working_for_me/)
 - [First tip on how to get an I.T. job, learn to find information and adapt to teaching yourself](https://www.reddit.com/r/InformationTechnology/comments/xztbm3/first_tip_on_how_to_get_an_it_job_learn_to_find/)
 - [Project managers are useless for small teams!](https://www.reddit.com/r/InformationTechnology/comments/xzq1c6/project_managers_are_useless_for_small_teams/)
 - [Is my touchpad broken or is just not active?](https://www.reddit.com/r/InformationTechnology/comments/xzo2rs/is_my_touchpad_broken_or_is_just_not_active/)
-- [First IT job?](https://www.reddit.com/r/InformationTechnology/comments/xznx2z/first_it_job/)
-- [Lean to code](https://www.reddit.com/r/InformationTechnology/comments/xznsp7/lean_to_code/)
-- [The future is web?](https://www.reddit.com/r/InformationTechnology/comments/xysgyt/the_future_is_web/)
-- [Is my touchpad broken?](https://www.reddit.com/r/InformationTechnology/comments/xys0rt/is_my_touchpad_broken/)
-- [How is $38 job in Cyber Security domain with complete remote work in California?](https://www.reddit.com/r/InformationTechnology/comments/xy5ngz/how_is_38_job_in_cyber_security_domain_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Kademlia: A Peer-to-peer information system based on the XOR Metric [pdf]](https://pdos.csail.mit.edu/~petar/papers/maymounkov-kademlia-lncs.pdf)
-- [Statement of Chairman Pai on Section 230 Rulemaking [pdf]](https://docs.fcc.gov/public/attachments/DOC-367567A1.pdf)
-- [Social Media Is Probably Doomed](https://lauren.vortex.com/2022/10/04/social-media-is-probably-doomed)
-- [List of films with high frame rates](https://en.wikipedia.org/wiki/List_of_films_with_high_frame_rates)
-- [It&#39;s Time for Operating Systems to Rediscover Hardware &lpar;2021&rpar; [video]](https://www.youtube.com/watch?v=36myc8wQhLo)
-- [Carmack Unscripted – Meta Connect 2022](https://metaconnect.com/en-us/program/afa6b1a8-d749-4ab7-bf1e-f531266fd315/)
-- [How much did you lose with Celsius Network?](https://celsiusnetworth.com/)
-- [How to fine-tune your AI images with these simple prompting techniques](https://www.sagiodev.com/blog/how_to_finetune_ai_images_prompts/)
-- [Tasered to Death – PIMA County Jail](https://www.youtube.com/watch?v=PDGWPxqrZTw)
-- [Meta Connect Live Streaming on October 11](https://metaconnect.com/en-us/)
+- [Russia 1985-1999 TraumaZone: Curtis exceptional collage of conflict and collapse](https://www.ft.com/content/9f1ba82f-33fe-4a24-820e-01ecb209c5d2)
+- [Adam Curtis: Russia 1985-1999 TraumaZone: Collapse of Communism and Democracy](https://www.bbc.com/mediacentre/2022/adam-curtis-russia-1985-1999-traumazone)
+- [Economics Nobel Should Come with a Warning](https://www.bloomberg.com/opinion/articles/2022-10-10/the-2022-economics-nobel-should-come-with-a-warning)
+- [The Giant: A new exhibit showcases the work of Diane Arbus](https://www.tabletmag.com/sections/arts-letters/articles/the-giant-diane-arbus-cataclysm)
+- [PayPal faces backlash after floating $2500 fines for sharing misinformation](https://www.washingtonpost.com/politics/2022/10/10/paypal-faces-backlash-after-floating-fines-sharing-misinformation/)
+- [Toilet Meal](https://en.wikipedia.org/wiki/Toilet_meal)
+- [Michael Tsai – Blog – Midjourney Scam App](https://mjtsai.com/blog/2022/10/10/midjourney-scam-app/)
+- [The Professional Impostor Manifesto](https://impostor.ly/)
+- [Hacker Newz – Unofficial Hacker News Interface Alternative](https://www.hackernewz.com/)
+- [1kB Forum with added IP logging](https://gist.github.com/Xeoncross/1503594)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

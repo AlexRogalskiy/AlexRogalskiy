@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war news: Putin to convene national security council; Zaporizhzhia hit again overnight – live](https://www.theguardian.com/world/live/2022/oct/10/russia-ukraine-war-live-news-putin-russian-security-council-zaporizhzhia-nuclear-power-plant-hit-again-latest-updates)
-- [North Korea says missile tests simulated striking South with tactical nuclear weapons](https://www.theguardian.com/world/2022/oct/10/north-korea-says-missile-tests-simulated-striking-south-with-tactical-nuclear-weapons)
-- [Venezuela floods kill 25 after month’s worth of rain falls in eight hours](https://www.theguardian.com/world/2022/oct/10/venezuela-floods-kill-25-after-months-worth-of-rain-falls-in-eight-hours)
-- [The crisis in Britain’s nurseries: are we failing our youngest children? - podcast](https://www.theguardian.com/education/audio/2022/oct/10/crisis-in-britain-nurseries-podcast)
-- [Rising golf star Tom Kim matches Tiger Woods’s PGA Tour feat in Las Vegas](https://www.theguardian.com/sport/2022/oct/10/rising-golf-star-tom-kim-matches-tiger-woodss-pga-tour-feat-in-las-vegas)
-- [Taiwan politicians dismiss Elon Musk’s ‘ill-informed and belittling’ China comments](https://www.theguardian.com/technology/2022/oct/10/taiwan-elon-musk-china-special-admin-region-comments-ill-informed-and-belittling)
-- [Russia-Ukraine war latest: what we know on day 229 of the invasion](https://www.theguardian.com/world/2022/oct/10/russia-ukraine-war-latest-what-we-know-on-day-229-of-the-invasion)
-- [Sold to gangs, forced to run online scams: inside Cambodia’s cybercrime crisis](https://www.theguardian.com/world/2022/oct/10/sold-to-gangs-forced-to-run-online-scams-inside-cambodias-cybercrime-crisis)
-- [Amazon to up electric fleet by thousands across UK and continent](https://www.theguardian.com/technology/2022/oct/10/amazon-electric-fleet-investment-uk-europe)
-- [Patients turning to A&amp;E as wait times for NHS mental health treatment spiral](https://www.theguardian.com/society/2022/oct/10/nhs-mental-health-patients-wait-times)
+- [Chiefs roar back to win after Raiders’ questionable two-point attempt](https://www.theguardian.com/sport/2022/oct/10/chiefs-roar-back-to-win-after-raiders-questionable-two-point-attempt)
+- [Japan opens borders to tourists as last pandemic travel restrictions eased](https://www.theguardian.com/world/2022/oct/11/japan-opens-borders-to-tourists-as-last-pandemic-travel-restrictions-eased)
+- [Molly Russell: how a teenager’s death put social media on trial](https://www.theguardian.com/news/audio/2022/oct/11/molly-russell-how-a-teenagers-death-put-social-media-on-trial)
+- [New Zealand farmers may pay for greenhouse gas emissions under world-first plans](https://www.theguardian.com/world/2022/oct/11/new-zealand-farmers-may-pay-for-greenhouse-gas-emissions-under-world-first-plans)
+- [Democratic senator threatens to freeze weapons sales to Saudi Arabia over support of Russia](https://www.theguardian.com/us-news/2022/oct/11/democratic-senator-robert-menendez-threatens-to-freeze-weapons-sales-to-saudi-arabia-over-support-of-russia)
+- [Russia-Ukraine war latest: what we know on day 230 of the invasion](https://www.theguardian.com/world/2022/oct/11/russia-ukraine-war-latest-what-we-know-on-day-230-of-the-invasion)
+- [Rise in UK borrowers falling behind on mortgage payments, says Santander](https://www.theguardian.com/business/2022/oct/11/rise-in-uk-borrowers-falling-behind-on-mortgage-payments-says-santander)
+- [Profumo spy had weakness for women and drink, archives reveal](https://www.theguardian.com/uk-news/2022/oct/11/profumo-spy-had-weakness-for-women-and-drink-archives-reveal)
+- [Half of poorest countries have cut health spending despite Covid, says Oxfam](https://www.theguardian.com/inequality/2022/oct/11/half-of-poorest-countries-have-cut-health-spending-despite-covid-says-oxfam)
+- [Unfunded tax cuts mean UK ‘will need £60bn spending cuts’](https://www.theguardian.com/politics/2022/oct/11/unfunded-tax-cuts-mean-uk-will-need-60bn-spending-cuts)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

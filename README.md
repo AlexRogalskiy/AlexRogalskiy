@@ -385,6 +385,9 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Endor Labs offers dependency management platform for open source software](https://www.csoonline.com/article/3675963/endor-labs-offers-dependency-management-platform-for-open-source-software.html#tk.rss_all)
+- [8 signs your low-code platform is overpromising and underdelivering](https://www.infoworld.com/article/3675892/8-signs-your-low-code-platform-is-overpromising-and-underdelivering.html#tk.rss_all)
+- [7 reasons to love the Rust language—and 7 reasons not to](https://www.infoworld.com/article/3675391/7-reasons-to-love-the-rust-language-and-7-reasons-not-to.html#tk.rss_all)
 - [VS Code 1.72 enhances Git source control](https://www.infoworld.com/article/3676069/vs-code-172-enhances-git-source-control.html#tk.rss_all)
 - [Companies are still waiting for their cloud ROI](https://www.infoworld.com/article/3675374/companies-are-still-waiting-for-their-cloud-roi.html#tk.rss_all)
 - [Canonical expands application security coverage](https://www.infoworld.com/article/3675959/canonical-expands-application-security-coverage.html#tk.rss_all)
@@ -392,9 +395,6 @@
 - [Data visualization with Observable JavaScript](https://www.infoworld.com/article/3674852/data-visualization-with-observable-javascript.html#tk.rss_all)
 - [Learn Observable JavaScript with Observable notebooks](https://www.infoworld.com/article/3674809/learn-observable-javascript-with-observable-notebooks.html#tk.rss_all)
 - [A beginner&#39;s guide to using Observable JavaScript, R, and Python with Quarto](https://www.infoworld.com/article/3674789/a-beginners-guide-to-using-observable-javascript-r-and-python-with-quarto.html#tk.rss_all)
-- [Apollo GraphQL debuts GraphOS platform for building ‘supergraphs’](https://www.infoworld.com/article/3675949/apollo-graphql-debuts-graphos-platform-for-building-supergraphs.html#tk.rss_all)
-- [Hands-on with MongoDB queryable encryption and Node.js](https://www.infoworld.com/article/3675390/hands-on-with-mongodb-queryable-encryption-and-node-js.html#tk.rss_all)
-- [How to use cancellation tokens in ASP.NET Core 7](https://www.infoworld.com/article/3674845/how-to-use-cancellation-tokens-in-aspnet-core-7.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

@@ -400,16 +400,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Currency markets causing choppy waters for UK outsourcing](https://www.computerweekly.com/opinion/Currency-markets-causing-choppy-waters-for-UK-Outsourcing)
+- [Online marketplace momentum ushers in new era for retailers](https://www.computerweekly.com/feature/Online-marketplace-momentum-ushers-in-new-era-for-retailers)
+- [Dutch infrastructure sector seeks closer collaboration with government](https://www.computerweekly.com/news/252525801/Dutch-infrastructure-sector-seeks-closer-collaboration-with-government)
+- [Morrisons joins the fast-growing retail media movement](https://www.computerweekly.com/feature/Morrisons-joins-the-fast-growing-retail-media-movement)
+- [IT Sustainability Think Tank: What IT leaders need to know about greenwashing](https://www.computerweekly.com/opinion/IT-Sustainability-Think-Tank-What-IT-leaders-need-to-know-about-greenwashing)
+- [Ukraine and EU explore deeper cyber collaboration](https://www.computerweekly.com/news/252525849/Ukraine-and-EU-explore-deeper-cyber-collaboration)
+- [Security Think Tank: Design security in to reap container benefits](https://www.computerweekly.com/opinion/Security-Think-Tank-Design-security-in-to-reap-container-benefits)
+- [Forrester: How to expand your API strategy](https://www.computerweekly.com/feature/Forrester-How-to-expand-your-API-strategy)
 - [ODI food poverty study shows black families and North East suffering most](https://www.computerweekly.com/news/252525841/ODI-food-poverty-study-shows-black-families-and-North-East-suffering-most)
 - [Bolt drivers take legal action over employment status](https://www.computerweekly.com/news/252525838/Bolt-drivers-take-legal-action-over-employment-status)
-- [IT Sustainability Think Tank: Getting to grips with greenwashing](https://www.computerweekly.com/opinion/IT-Sustainability-Think-Tank-Getting-to-grips-with-greenwashing)
-- [Oil giant Shell lends support to LF Energy in its open source power networks push](https://www.computerweekly.com/news/252525799/Oil-giant-Shell-lends-support-to-LF-Energy-in-its-open-source-power-networks-push)
-- [EU rolling out measures for online safety and AI liability](https://www.computerweekly.com/news/252525798/EU-rolling-out-measures-for-online-safety-and-AI-liability)
-- [SMEs in Europe ready to invest in real-time payment capabilities](https://www.computerweekly.com/news/252525783/SMEs-in-Europe-ready-to-invest-in-real-time-payment-capabilities)
-- [Proposals for scanning encrypted messages should be cut from Online Safety Bill, say researchers](https://www.computerweekly.com/news/252525778/Proposals-for-scanning-encrypted-messages-should-be-cut-from-Online-Safety-Bill-say-researchers)
-- [Tech Nation and PwC launch joint climate tech accelerator](https://www.computerweekly.com/news/252525757/Tech-Nation-and-PwC-launch-joint-climate-tech-accelerator)
-- [JPMorgan’s UK digital bank app outage locks customers out](https://www.computerweekly.com/news/252525772/JPMorgans-UK-digital-bank-outage-locks-customers-out)
-- [Clickwork and labour exploitation in the digital economy](https://www.computerweekly.com/feature/Clickwork-and-labour-exploitation-in-the-digital-economy)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

@@ -370,6 +370,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [How to Budget Effectively for Multi-Cloud](https://www.informationweek.com/cloud/how-to-budget-effectively-for-multi-cloud)
+- [Could Subscription Models Work for Cloud Services?](https://www.informationweek.com/cloud/could-subscription-models-work-for-cloud-services-)
+- [FinovateFall: Innovation, Partnerships and Community Banking 2.0](https://www.informationweek.com/fintech/finovatefall-innovation-partnerships-and-community-banking-2-0)
 - [LAUSD Ransomware Attack: Understanding Cybersecurity Risks in Education](https://www.informationweek.com/security-and-risk-strategy/lausd-ransomware-attack-understanding-cybersecurity-risks-in-education)
 - [Sam Rad Talks Tech’s Social Impact at the Women in IT Summit](https://www.informationweek.com/fintech/sam-rad-talks-tech-s-social-impact-at-the-women-in-it-summit)
 - [Cloud Outages: Causes, Consequences, Prevention, Recovery](https://www.informationweek.com/cloud/cloud-outages-causes-consequences-prevention-recovery)
@@ -377,9 +380,6 @@
 - [September 2022 Global Tech Policy Bulletin: From Turmoil in Iran to Biden’s Big Tech Impasse](https://www.informationweek.com/government/september-2022-global-tech-policy-bulletin-from-turmoil-in-iran-to-biden-s-big-tech-impasse)
 - [Why SaaS Management Is a Must-Have for Digital Transformation](https://www.informationweek.com/cloud/why-saas-management-is-a-must-have-for-digital-transformation)
 - [Capital One’s Marty Andolino Discusses Tech Productivity](https://www.informationweek.com/fintech/capital-one-s-marty-andolino-discusses-tech-productivity)
-- [CIO Roles Disrupted Amid Enterprise Changes](https://www.informationweek.com/strategic-cio/cio-roles-disrupted-amid-enterprise-changes)
-- [3 Lessons in Creating an ‘Antifragile’ Business Strategy](https://www.informationweek.com/strategic-cio/3-lessons-in-creating-an-antifragile-business-strategy)
-- [Prepared for Ransomware and Other Data Risks? Think Again](https://www.informationweek.com/security-and-risk-strategy/prepared-for-ransomware-and-other-data-risks-think-again)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

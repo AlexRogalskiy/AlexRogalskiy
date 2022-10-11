@@ -355,6 +355,7 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Blogger’s notebook: File Explorer tabs, Ignite, and Windows 11 22H2](https://www.computerworld.com/article/3675966/bloggers-notebook-file-explorer-tabs-ignite-and-windows-11-22h2.html#tk.rss_all)
 - [Now your business can deploy virtual Mac desktops in the cloud](https://www.computerworld.com/article/3676129/now-your-business-can-deploy-virtual-mac-desktops-in-the-cloud.html#tk.rss_all)
 - [Is your company a ‘most loved&#39; workplace? It should be](https://www.computerworld.com/article/3676228/is-your-company-a-most-loved-workplace-it-should-be.html#tk.rss_all)
 - [How to turn your car into the ultimate mobile office](https://www.computerworld.com/article/3674772/how-to-turn-your-car-into-ultimate-mobile-office.html#tk.rss_all)
@@ -364,7 +365,6 @@
 - [Yes, you can outsource hybrid workplace disruption](https://www.computerworld.com/article/3676068/yes-you-can-outsource-hybrid-workplace-disruption.html#tk.rss_all)
 - [Online privacy: Best browsers, settings, and tips](https://www.computerworld.com/article/3587752/online-privacy-best-browsers-settings-and-tips.html#tk.rss_all)
 - [How Apple Car could become the future car-as-a-service](https://www.computerworld.com/article/3675355/how-apple-car-could-become-the-future-car-as-a-service.html#tk.rss_all)
-- [Coming soon — a resume-validating blockchain network for job seekers](https://www.computerworld.com/article/3675547/coming-soon-a-resume-validating-blockchain-network-for-job-seekers.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

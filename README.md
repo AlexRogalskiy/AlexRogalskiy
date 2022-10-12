@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Ask HN: How did you stop drinking?](https://news.ycombinator.com/item?id=33158947)
-- [Human Motion Diffusion Model](https://github.com/GuyTevet/motion-diffusion-model)
-- [Making an ML Invisibility Cloak](https://www.cs.umd.edu/~tomg/projects/invisible/)
-- [U.S. Army Chooses Google Workspace](https://cloud.google.com/blog/topics/public-sector/us-army-chooses-google-to-deliver-cutting-edge-collaboration)
-- [VirtualBox 7.0 Released – Full VM Encryption Support, New Direct3D Acceleration](https://www.virtualbox.org/wiki/Changelog-7.0)
-- [SmooshGate &lpar;2021&rpar;](https://developer.chrome.com/blog/smooshgate/)
-- [Microbes that cause cavities can form superorganisms able to ‘crawl’](https://penntoday.upenn.edu/news/microbes-cause-cavities-can-form-superorganisms-able-crawl-and-spread-teeth)
-- [How Wine works 101](https://werat.dev/blog/how-wine-works-101/)
-- [Show HN: Satori – Convert HTML and CSS to SVG](https://github.com/vercel/satori)
-- [RCE via GitHub import](https://gitlab.com/gitlab-org/gitlab/-/issues/371098)
+- [Brex layoffs](https://www.brex.com/journal/message-from-pedro)
+- [How to prove you know a secret without giving it away](https://www.quantamagazine.org/how-to-prove-you-know-a-secret-without-giving-it-away-20221011/)
+- [Valve Employee Handbook &lpar;2012&rpar; [pdf]](https://cdn.cloudflare.steamstatic.com/apps/valve/Valve_NewEmployeeHandbook.pdf)
+- [Qwik: No hydration, auto lazy-loading, edge-optimized, and fun](https://qwik.builder.io/)
+- [GitHub Copilot exposes names in TODO comments](https://twitter.com/aeolianeth/status/1579980661464895490)
+- [Authors’ names have ‘astonishing’ influence on peer reviewers: study](https://www.nature.com/articles/d41586-022-03256-9)
+- [An unexpected revival of Firefox OS](https://tuxphones.com/capyloon-firefox-os-b2gos-linux/)
+- [When going somewhere does a thing: on links and buttons](https://kilianvalkhof.com/2022/css-html/when-going-somewhere-does-a-thing-on-links-and-buttons/)
+- [Researchers find ‘significant rates’ of sinking ground in Houston suburbs](https://uh.edu/news-events/stories/2022-news-articles/october-2022/10112022-houston-subsidence.php)
+- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

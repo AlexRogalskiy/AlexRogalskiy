@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [PC sales fall off a cliff](https://www.computerworld.com/article/3675895/pc-sales-fall-off-a-cliff.html#tk.rss_all)
+- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
+- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [If the PC market is in decline, how&#39;s Apple faring?](https://www.computerworld.com/article/3676132/if-the-pc-market-is-in-decline-hows-apple-faring.html#tk.rss_all)
+- [The four-day workweek works](https://www.computerworld.com/article/3676268/the-four-day-workweek-works.html#tk.rss_all)
+- [What everyone&#39;s getting wrong about the Google Pixel 7](https://www.computerworld.com/article/3675965/google-pixel-7.html#tk.rss_all)
 - [Blogger’s notebook: File Explorer tabs, Ignite, and Windows 11 22H2](https://www.computerworld.com/article/3675966/bloggers-notebook-file-explorer-tabs-ignite-and-windows-11-22h2.html#tk.rss_all)
 - [Now your business can deploy virtual Mac desktops in the cloud](https://www.computerworld.com/article/3676129/now-your-business-can-deploy-virtual-mac-desktops-in-the-cloud.html#tk.rss_all)
 - [Is your company a ‘most loved&#39; workplace? It should be](https://www.computerworld.com/article/3676228/is-your-company-a-most-loved-workplace-it-should-be.html#tk.rss_all)
-- [How to turn your car into the ultimate mobile office](https://www.computerworld.com/article/3674772/how-to-turn-your-car-into-ultimate-mobile-office.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
-- [Podcast: Eye on Apple Watch](https://www.computerworld.com/article/3675960/podcast-eye-on-apple-watch.html#tk.rss_all)
-- [Yes, you can outsource hybrid workplace disruption](https://www.computerworld.com/article/3676068/yes-you-can-outsource-hybrid-workplace-disruption.html#tk.rss_all)
-- [Online privacy: Best browsers, settings, and tips](https://www.computerworld.com/article/3587752/online-privacy-best-browsers-settings-and-tips.html#tk.rss_all)
-- [How Apple Car could become the future car-as-a-service](https://www.computerworld.com/article/3675355/how-apple-car-could-become-the-future-car-as-a-service.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

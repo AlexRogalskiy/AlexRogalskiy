@@ -415,6 +415,8 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Best portable docking station](https://www.reddit.com/r/InformationTechnology/comments/y1e2yo/best_portable_docking_station/)
+- [Is IT a worthy major?](https://www.reddit.com/r/InformationTechnology/comments/y1dncz/is_it_a_worthy_major/)
 - [does anyone have labs/tutorials etc so I can practice entry level IT skills?](https://www.reddit.com/r/InformationTechnology/comments/y0s06t/does_anyone_have_labstutorials_etc_so_i_can/)
 - [What am I supposed to do with this god-forsaken catch-22 &lpar;No real world IT job experience but need a JOB for EXPERIENCE&rpar;](https://www.reddit.com/r/InformationTechnology/comments/y0rw04/what_am_i_supposed_to_do_with_this_godforsaken/)
 - [Recommend battery backup/surge protector for network switches](https://www.reddit.com/r/InformationTechnology/comments/y0qtix/recommend_battery_backupsurge_protector_for/)
@@ -423,8 +425,6 @@
 - [Does it matter which college I get my Computer Information Technology B.S. from?](https://www.reddit.com/r/InformationTechnology/comments/y0351a/does_it_matter_which_college_i_get_my_computer/)
 - [Why is beautifulSoup not working for me?](https://www.reddit.com/r/InformationTechnology/comments/xzulj8/why_is_beautifulsoup_not_working_for_me/)
 - [First tip on how to get an I.T. job, learn to find information and adapt to teaching yourself](https://www.reddit.com/r/InformationTechnology/comments/xztbm3/first_tip_on_how_to_get_an_it_job_learn_to_find/)
-- [Project managers are useless for small teams!](https://www.reddit.com/r/InformationTechnology/comments/xzq1c6/project_managers_are_useless_for_small_teams/)
-- [Is my touchpad broken or is just not active?](https://www.reddit.com/r/InformationTechnology/comments/xzo2rs/is_my_touchpad_broken_or_is_just_not_active/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Russia 1985-1999 TraumaZone: Curtis exceptional collage of conflict and collapse](https://www.ft.com/content/9f1ba82f-33fe-4a24-820e-01ecb209c5d2)
-- [Adam Curtis: Russia 1985-1999 TraumaZone: Collapse of Communism and Democracy](https://www.bbc.com/mediacentre/2022/adam-curtis-russia-1985-1999-traumazone)
-- [Economics Nobel Should Come with a Warning](https://www.bloomberg.com/opinion/articles/2022-10-10/the-2022-economics-nobel-should-come-with-a-warning)
-- [The Giant: A new exhibit showcases the work of Diane Arbus](https://www.tabletmag.com/sections/arts-letters/articles/the-giant-diane-arbus-cataclysm)
-- [PayPal faces backlash after floating $2500 fines for sharing misinformation](https://www.washingtonpost.com/politics/2022/10/10/paypal-faces-backlash-after-floating-fines-sharing-misinformation/)
-- [Toilet Meal](https://en.wikipedia.org/wiki/Toilet_meal)
-- [Michael Tsai – Blog – Midjourney Scam App](https://mjtsai.com/blog/2022/10/10/midjourney-scam-app/)
-- [The Professional Impostor Manifesto](https://impostor.ly/)
-- [Hacker Newz – Unofficial Hacker News Interface Alternative](https://www.hackernewz.com/)
-- [1kB Forum with added IP logging](https://gist.github.com/Xeoncross/1503594)
+- [Nikon Small World microscopy contest 2022](https://arstechnica.com/science/2022/10/nikon-small-world-microscopy-contest-2022-meet-this-years-top-10-winners/)
+- [&#39;The worst is yet to come&#39; for the global economy, IMF warns](https://www.devex.com/news/the-worst-is-yet-to-come-for-the-global-economy-imf-warns-104167)
+- [Another $100M+ Crypto Hack. When will they learn?](https://p2eanalytics.com/web3/hackers-drain-100m-off-solana-based-defi-platform-mango-markets)
+- [Ask HN: How are you, a dev/programmer, preparing for climate change?](https://news.ycombinator.com/item?id=33172559)
+- [California makes digital license plates legal for everyone](https://www.autoblog.com/2022/10/10/digital-license-plates-legal-all-of-california/)
+- [Dart mission successfully shifted its target’s orbit](https://arstechnica.com/science/2022/10/dart-mission-successfully-shifted-its-targets-orbit/)
+- [The Creator Economy will look like the Music Business](https://www.armthecreators.com/the-creator-economy-will-look-like-the-music-business/)
+- [NASA&#39;s DART impact changed asteroid&#39;s orbit forever in planetary defense test](https://www.space.com/nasa-dart-asteroid-impact-orbit-change-success)
+- [The Way in Which Brian Eno Created Ambient 1: Music for Airports](https://reverbmachine.com/blog/deconstructing-brian-eno-music-for-airports/)
+- [Pittsburgh International Airport Just Installed a Giant Algae Air Purifier](https://www.forbes.com/sites/jenniferhicks/2022/10/09/pittsburgh-international-airport-just-installed-a-giant-algae-air-purifier/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

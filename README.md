@@ -400,16 +400,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Reducing the cyber stack with API security](https://www.computerweekly.com/opinion/Reducing-the-cyber-stack-with-API-security)
+- [Contractor left Toyota source code exposed for five years](https://www.computerweekly.com/news/252525929/Contractor-left-Toyota-source-code-exposed-for-five-years)
+- [Post Office scandal inquiry restarts with call for a pause amid disclosure controversy](https://www.computerweekly.com/news/252525926/Post-Office-scandal-inquiry-restarts-with-call-for-a-pause-amid-disclosure-controversy)
+- [Google Cloud fleshes out sovereign cloud capabilities for European enterprises](https://www.computerweekly.com/news/252525925/Google-Cloud-fleshes-out-sovereign-cloud-capabilities-for-European-enterprises)
+- [Wayfair shutters datacentres and ends hybrid cloud strategy with Google Cloud move](https://www.computerweekly.com/news/252525924/Wayfair-shutters-datacentres-and-ends-hybrid-cloud-strategy-with-Google-Cloud-move)
+- [Government bins IR35 reforms – what you need to know](https://www.computerweekly.com/ezine/Computer-Weekly/Government-bins-IR35-reforms-what-you-need-to-know)
 - [Currency markets causing choppy waters for UK outsourcing](https://www.computerweekly.com/opinion/Currency-markets-causing-choppy-waters-for-UK-Outsourcing)
 - [Online marketplace momentum ushers in new era for retailers](https://www.computerweekly.com/feature/Online-marketplace-momentum-ushers-in-new-era-for-retailers)
 - [Dutch infrastructure sector seeks closer collaboration with government](https://www.computerweekly.com/news/252525801/Dutch-infrastructure-sector-seeks-closer-collaboration-with-government)
 - [Morrisons joins the fast-growing retail media movement](https://www.computerweekly.com/feature/Morrisons-joins-the-fast-growing-retail-media-movement)
-- [IT Sustainability Think Tank: What IT leaders need to know about greenwashing](https://www.computerweekly.com/opinion/IT-Sustainability-Think-Tank-What-IT-leaders-need-to-know-about-greenwashing)
-- [Ukraine and EU explore deeper cyber collaboration](https://www.computerweekly.com/news/252525849/Ukraine-and-EU-explore-deeper-cyber-collaboration)
-- [Security Think Tank: Design security in to reap container benefits](https://www.computerweekly.com/opinion/Security-Think-Tank-Design-security-in-to-reap-container-benefits)
-- [Forrester: How to expand your API strategy](https://www.computerweekly.com/feature/Forrester-How-to-expand-your-API-strategy)
-- [ODI food poverty study shows black families and North East suffering most](https://www.computerweekly.com/news/252525841/ODI-food-poverty-study-shows-black-families-and-North-East-suffering-most)
-- [Bolt drivers take legal action over employment status](https://www.computerweekly.com/news/252525838/Bolt-drivers-take-legal-action-over-employment-status)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

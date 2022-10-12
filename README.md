@@ -430,16 +430,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [VMware opens new AI research and innovation centre in Montreal](https://www.itworldcanada.com/article/vmware-opens-new-ai-research-and-innovation-centre-in-montreal/507379)
+- [Canadian companies risk neglecting cybersecurity as recession looms](https://www.itworldcanada.com/article/canadian-companies-risk-neglecting-cybersecurity-as-recession-looms/507321)
+- [Ontario’s employee electronic monitoring law comes into effect today](https://www.itworldcanada.com/article/ontarios-employee-electronic-monitoring-law-comes-into-effect-today/507374)
+- [Coffee Briefing October 11, 2022 – Hootsuite’s Heyday announces integrations for Instagram and Messenger; Google Services provided C$37 billion worth of economic activity to Canadian organizations; AI firm Sidetrade opens in Calgary; and more](https://www.itworldcanada.com/article/coffee-briefing-october-11-2022-hootsuites-heyday-announces-integrations-for-instagram-and-messenger-google-services-provided-c37-billion-worth-of-economic-activity-to-canadian-organizations-a/507300)
+- [New research emphasizes the need for organizations to use a skills-based talent strategy](https://www.itworldcanada.com/article/new-research-emphasizes-the-need-for-organizations-to-use-a-skills-based-talent-strategy/506896)
+- [OpenText announces integration with Google Workspace; unveils updates to support modern work](https://www.itworldcanada.com/article/opentext-announces-integration-with-google-workspace-unveils-updates-to-support-modern-work/507004)
+- [OpenText announces Cloud Editions 22.4](https://www.itworldcanada.com/article/opentext-announces-cloud-editions-22-4/507070)
+- [Hashtag Trending Oct. 11 – Dutch court says employees can keep webcam off; Papa Johns sued for data collection; one million Facebook account information potentially stolen](https://www.itworldcanada.com/article/hashtag-trending-oct-11-dutch-court-says-employees-can-keep-webcam-off-papa-johns-sued-for-data-collection-one-million-facebook-account-information-potentially-stolen/507350)
 - [Cyber Security Today, Oct. 10, 2022 -Warnings to Zimbra and Fortinet administrators, lessons from the hack of a US defence contractor and more](https://www.itworldcanada.com/article/cyber-security-today-oct-10-2022-warnings-to-zimbra-and-fortinet-administrators-lessons-from-the-hack-of-a-us-defence-contractor-and-more/507344)
 - [Cyber Security Today, Oct. 5, 2022 – An American sentenced to 25 years for laundering money, TD Bank alerts customers in the U.S. of a data theft, and more](https://www.itworldcanada.com/article/cyber-security-today-oct-5-2022-an-american-sentenced-to-25-years-for-laundering-money-td-bank-alerts-customers-in-the-u-s-of-a-data-theft-and-more/506630)
-- [Dr. Melvin Greer, Chief Data Scientist at Intel – the interview on Hashtag Trending Weekend Edition](https://www.itworldcanada.com/article/dr-melvin-greer-chief-data-scientist-at-intel-the-interview-on-hashtag-trending-weekend-edition/507326)
-- [Defending Ukraine: SecTor session probes a complex cyber war](https://www.itworldcanada.com/article/defending-ukraine-sector-session-probes-a-complex-cyber-war/507289)
-- [Parliamentary committee urges Ottawa to pause use of facial recognition](https://www.itworldcanada.com/article/parliamentary-committee-urges-ottawa-to-pause-use-of-facial-recognition/507193)
-- [Cyber Security Today, Week in Review for Oct. 7, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-oct-7-2022/507161)
-- [Government of Canada to invest over $7 million in the Kitchener-Waterloo tech sector](https://www.itworldcanada.com/article/government-of-canada-to-invest-over-7-million-in-the-kitchener-waterloo-tech-sector/507271)
-- [Most business continuity plans are ‘wildly out of date’, SecTor conference told](https://www.itworldcanada.com/article/most-business-continuity-plans-are-wildly-out-of-date-sector-conference-told/507177)
-- [Cyber Security Today, Oct. 7, 2022 – Why an overhaul of your business continuity plan is needed, and more](https://www.itworldcanada.com/article/cyber-security-today-oct-7-2022-why-an-overhaul-of-your-business-continuity-plan-is-needed-and-more/507168)
-- [Hashtag Trending Oct. 6 – Social media and depression; Micron semiconductor investment; Google Cloud Region comes to South Africa](https://www.itworldcanada.com/article/hashtag-trending-oct-6-social-media-and-depression-micron-semiconductor-investment-google-cloud-region-comes-to-south-africa/506937)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

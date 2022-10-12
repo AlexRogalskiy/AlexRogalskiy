@@ -370,16 +370,16 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Back to the Future: The Rise of Edge Computing](https://www.informationweek.com/big-data/back-to-the-future-the-rise-of-edge-computing)
+- [What to Expect in 2023: IT Spending, Recession, Talent Crisis, Privacy](https://www.informationweek.com/strategic-cio/what-to-expect-in-2023-it-spending-recession-talent-crisis-privacy)
+- [How IT Leaders Can Survive While Helping Mergers Succeed](https://www.informationweek.com/strategic-cio/how-it-leaders-can-survive-while-helping-mergers-succeed)
+- [Looking to Insulate Growth? Leverage an Outside-In Perspective](https://www.informationweek.com/enterprise-agility/looking-to-insulate-growth-leverage-an-outside-in-perspective)
 - [How to Budget Effectively for Multi-Cloud](https://www.informationweek.com/cloud/how-to-budget-effectively-for-multi-cloud)
 - [Could Subscription Models Work for Cloud Services?](https://www.informationweek.com/cloud/could-subscription-models-work-for-cloud-services-)
 - [FinovateFall: Innovation, Partnerships and Community Banking 2.0](https://www.informationweek.com/fintech/finovatefall-innovation-partnerships-and-community-banking-2-0)
 - [LAUSD Ransomware Attack: Understanding Cybersecurity Risks in Education](https://www.informationweek.com/security-and-risk-strategy/lausd-ransomware-attack-understanding-cybersecurity-risks-in-education)
 - [Sam Rad Talks Tech’s Social Impact at the Women in IT Summit](https://www.informationweek.com/fintech/sam-rad-talks-tech-s-social-impact-at-the-women-in-it-summit)
 - [Cloud Outages: Causes, Consequences, Prevention, Recovery](https://www.informationweek.com/cloud/cloud-outages-causes-consequences-prevention-recovery)
-- [Avoiding the Top Mistakes Made by Tech Startups](https://www.informationweek.com/it-life/avoiding-the-top-mistakes-made-by-tech-startups)
-- [September 2022 Global Tech Policy Bulletin: From Turmoil in Iran to Biden’s Big Tech Impasse](https://www.informationweek.com/government/september-2022-global-tech-policy-bulletin-from-turmoil-in-iran-to-biden-s-big-tech-impasse)
-- [Why SaaS Management Is a Must-Have for Digital Transformation](https://www.informationweek.com/cloud/why-saas-management-is-a-must-have-for-digital-transformation)
-- [Capital One’s Marty Andolino Discusses Tech Productivity](https://www.informationweek.com/fintech/capital-one-s-marty-andolino-discusses-tech-productivity)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

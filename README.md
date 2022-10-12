@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Chiefs roar back to win after Raiders’ questionable two-point attempt](https://www.theguardian.com/sport/2022/oct/10/chiefs-roar-back-to-win-after-raiders-questionable-two-point-attempt)
-- [Japan opens borders to tourists as last pandemic travel restrictions eased](https://www.theguardian.com/world/2022/oct/11/japan-opens-borders-to-tourists-as-last-pandemic-travel-restrictions-eased)
-- [Molly Russell: how a teenager’s death put social media on trial](https://www.theguardian.com/news/audio/2022/oct/11/molly-russell-how-a-teenagers-death-put-social-media-on-trial)
-- [New Zealand farmers may pay for greenhouse gas emissions under world-first plans](https://www.theguardian.com/world/2022/oct/11/new-zealand-farmers-may-pay-for-greenhouse-gas-emissions-under-world-first-plans)
-- [Democratic senator threatens to freeze weapons sales to Saudi Arabia over support of Russia](https://www.theguardian.com/us-news/2022/oct/11/democratic-senator-robert-menendez-threatens-to-freeze-weapons-sales-to-saudi-arabia-over-support-of-russia)
-- [Russia-Ukraine war latest: what we know on day 230 of the invasion](https://www.theguardian.com/world/2022/oct/11/russia-ukraine-war-latest-what-we-know-on-day-230-of-the-invasion)
-- [Rise in UK borrowers falling behind on mortgage payments, says Santander](https://www.theguardian.com/business/2022/oct/11/rise-in-uk-borrowers-falling-behind-on-mortgage-payments-says-santander)
-- [Profumo spy had weakness for women and drink, archives reveal](https://www.theguardian.com/uk-news/2022/oct/11/profumo-spy-had-weakness-for-women-and-drink-archives-reveal)
-- [Half of poorest countries have cut health spending despite Covid, says Oxfam](https://www.theguardian.com/inequality/2022/oct/11/half-of-poorest-countries-have-cut-health-spending-despite-covid-says-oxfam)
-- [Unfunded tax cuts mean UK ‘will need £60bn spending cuts’](https://www.theguardian.com/politics/2022/oct/11/unfunded-tax-cuts-mean-uk-will-need-60bn-spending-cuts)
+- [Russia-Ukraine war live: Russia sustains losses in southern Ukraine; Biden doesn’t think Putin will use nuclear weapons](https://www.theguardian.com/world/live/2022/oct/12/russia-ukraine-war-live-russia-sustains-losses-in-southern-ukraine-biden-doesnt-think-putin-will-use-nuclear-weapons)
+- [Saudi Arabia will face ‘consequences’, says Biden, amid anger at cuts in oil output](https://www.theguardian.com/us-news/2022/oct/11/biden-signals-rethink-over-saudi-ties-amid-anger-at-cuts-in-oil-output)
+- [Australian MP says the Queen was the &#39;Michael Jordan of aristocracy&#39; in condolence motion – video](https://www.theguardian.com/australia-news/video/2022/oct/12/queensland-mp-says-the-queen-was-the-michael-jordan-of-aristocracy-in-condolence-motion-video)
+- [The meteoric rise of Suella Braverman – podcast](https://www.theguardian.com/news/audio/2022/oct/12/the-meteoric-rise-of-suella-braverman-podcast)
+- [New Zealand bird of the year contest courts controversy as favourite struck from ballot](https://www.theguardian.com/environment/2022/oct/12/new-zealand-bird-of-the-year-contest-favourite-kakapo-blocked)
+- [‘The new Paul Hogan’: Australia unveils new tourism ambassador Ruby the Roo](https://www.theguardian.com/business/2022/oct/12/the-new-paul-hogan-australia-unveils-new-tourism-ambassador-ruby-the-roo)
+- [Unaired Kanye West-Tucker Carlson material contains more racist conspiracy theories](https://www.theguardian.com/music/2022/oct/11/kanye-west-tucker-carlson-interview-racism-conspiracy)
+- [Russia-Ukraine war latest: what we know on day 231 of the invasion](https://www.theguardian.com/world/2022/oct/12/russia-ukraine-war-latest-what-we-know-on-day-231-of-the-invasion)
+- [Mahathir Mohamad: 97-year-old Malaysian former leader to run for parliament](https://www.theguardian.com/politics/2022/oct/12/mahathir-mohamad-97-year-old-malaysian-former-leader-to-run-for-parliament)
+- [Nasa says Dart mission succeeded in shifting asteroid’s orbit](https://www.theguardian.com/science/2022/oct/11/nasa-dart-spacecraft-asteroid-successful)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

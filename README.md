@@ -400,16 +400,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Reducing the cyber stack with API security](https://www.computerweekly.com/opinion/Reducing-the-cyber-stack-with-API-security)
-- [Contractor left Toyota source code exposed for five years](https://www.computerweekly.com/news/252525929/Contractor-left-Toyota-source-code-exposed-for-five-years)
-- [Post Office scandal inquiry restarts with call for a pause amid disclosure controversy](https://www.computerweekly.com/news/252525926/Post-Office-scandal-inquiry-restarts-with-call-for-a-pause-amid-disclosure-controversy)
-- [Google Cloud fleshes out sovereign cloud capabilities for European enterprises](https://www.computerweekly.com/news/252525925/Google-Cloud-fleshes-out-sovereign-cloud-capabilities-for-European-enterprises)
-- [Wayfair shutters datacentres and ends hybrid cloud strategy with Google Cloud move](https://www.computerweekly.com/news/252525924/Wayfair-shutters-datacentres-and-ends-hybrid-cloud-strategy-with-Google-Cloud-move)
-- [Government bins IR35 reforms – what you need to know](https://www.computerweekly.com/ezine/Computer-Weekly/Government-bins-IR35-reforms-what-you-need-to-know)
-- [Currency markets causing choppy waters for UK outsourcing](https://www.computerweekly.com/opinion/Currency-markets-causing-choppy-waters-for-UK-Outsourcing)
-- [Online marketplace momentum ushers in new era for retailers](https://www.computerweekly.com/feature/Online-marketplace-momentum-ushers-in-new-era-for-retailers)
-- [Dutch infrastructure sector seeks closer collaboration with government](https://www.computerweekly.com/news/252525801/Dutch-infrastructure-sector-seeks-closer-collaboration-with-government)
-- [Morrisons joins the fast-growing retail media movement](https://www.computerweekly.com/feature/Morrisons-joins-the-fast-growing-retail-media-movement)
+- [Union claims Google datacentre contractors in US face repercussions for demanding &#39;basic benefits&#39;](https://www.computerweekly.com/news/252526007/Union-claims-Google-datacentre-contractors-in-US-face-repercussions-for-demanding-basic-benefits)
+- [Cloud bursting: What is it, what workloads, what technologies?](https://www.computerweekly.com/feature/Cloud-bursting-What-is-it-what-workloads-what-technologies)
+- [Finance regulator cracks down on use of messaging apps](https://www.computerweekly.com/news/252525993/Finance-regulator-cracks-down-on-use-of-messaging-apps)
+- [NCSC urges organisations to secure supply chains](https://www.computerweekly.com/news/252525995/NCSC-urges-organisations-to-secure-supply-chains)
+- [Major PC providers experience a massive fall in PC shipments](https://www.computerweekly.com/news/252525983/Major-PC-providers-experience-a-massive-fall-in-PC-shipments)
+- [Santander and Google offer tech to help businesses smooth move to cloud](https://www.computerweekly.com/news/252525985/Santander-and-Google-offer-tech-to-help-businesses-smooth-move-to-cloud)
+- [IT sustainability strategies: Why enterprises need to start with the datacentre when going green](https://www.computerweekly.com/feature/IT-sustainability-strategies-Why-enterprises-need-to-start-with-the-datacentre-when-going-green)
+- [French Supreme Court rejects EncroChat verdict after lawyers question secrecy over hacking operation](https://www.computerweekly.com/news/252525971/French-Supreme-Court-rejects-EncroChat-evidence-after-lawyers-question-defence-secrecy)
+- [Microsoft fixes lone zero-day on October Patch Tuesday](https://www.computerweekly.com/news/252525979/Microsoft-fixes-lone-zero-day-on-October-Patch-Tuesday)
+- [ICO selectively discloses reprimands for data protection breaches](https://www.computerweekly.com/news/252525851/ICO-selectively-discloses-reprimands-for-data-protection-breaches)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

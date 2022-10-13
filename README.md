@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [Microsoft relaunches Syntex with broad set of AI-based content management tools](https://www.computerworld.com/article/3676509/microsoft-relaunches-syntex-with-broad-set-of-ai-based-content-management-tools.html#tk.rss_all)
+- [This is why Apple will lead the business market](https://www.computerworld.com/article/3676150/this-is-why-apple-will-lead-the-business-market.html#tk.rss_all)
+- [Asana boosts goal tracking, resource management, and security](https://www.computerworld.com/article/3676233/asana-boosts-goal-tracking-resource-management-and-security.html#tk.rss_all)
+- [Will the CHIPS Act really bring back semiconductor production and tech jobs?](https://www.computerworld.com/article/3676128/will-the-chips-act-really-bring-back-semiconductor-production-and-tech-jobs.html#tk.rss_all)
+- [EU-US data sharing agreement: Is it a done deal?](https://www.computerworld.com/article/3676284/eu-us-data-sharing-agreement-is-it-a-done-deal.html#tk.rss_all)
 - [PC sales fall off a cliff](https://www.computerworld.com/article/3675895/pc-sales-fall-off-a-cliff.html#tk.rss_all)
 - [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
 - [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [If the PC market is in decline, how&#39;s Apple faring?](https://www.computerworld.com/article/3676132/if-the-pc-market-is-in-decline-hows-apple-faring.html#tk.rss_all)
-- [The four-day workweek works](https://www.computerworld.com/article/3676268/the-four-day-workweek-works.html#tk.rss_all)
-- [What everyone&#39;s getting wrong about the Google Pixel 7](https://www.computerworld.com/article/3675965/google-pixel-7.html#tk.rss_all)
-- [Blogger’s notebook: File Explorer tabs, Ignite, and Windows 11 22H2](https://www.computerworld.com/article/3675966/bloggers-notebook-file-explorer-tabs-ignite-and-windows-11-22h2.html#tk.rss_all)
-- [Now your business can deploy virtual Mac desktops in the cloud](https://www.computerworld.com/article/3676129/now-your-business-can-deploy-virtual-mac-desktops-in-the-cloud.html#tk.rss_all)
-- [Is your company a ‘most loved&#39; workplace? It should be](https://www.computerworld.com/article/3676228/is-your-company-a-most-loved-workplace-it-should-be.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

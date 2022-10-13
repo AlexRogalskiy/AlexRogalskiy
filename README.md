@@ -385,16 +385,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [VirtualBox 7 remotes into Oracle Cloud](https://www.infoworld.com/article/3676570/virtualbox-7-remotes-into-oracle-cloud.html#tk.rss_all)
+- [Microsoft relaunches Syntex with broad set of AI-based content management tools](https://www.computerworld.com/article/3676509/microsoft-relaunches-syntex-with-broad-set-of-ai-based-content-management-tools.html#tk.rss_all)
+- [Microsoft debuts PostgreSQL support for Cosmos DB, multiple Azure updates](https://www.infoworld.com/article/3676508/microsoft-adds-azure-services-postgresql-support-for-cosmos-db.html#tk.rss_all)
+- [Ignite 2022: Making Azure your development hub](https://www.infoworld.com/article/3676283/ignite-2022-making-azure-your-development-hub.html#tk.rss_all)
+- [WebAssembly comes to Apache web server](https://www.infoworld.com/article/3676134/webassembly-comes-to-apache-web-server.html#tk.rss_all)
+- [6 Kubernetes distributions leading the container revolution](https://www.infoworld.com/article/3265059/6-kubernetes-distributions-leading-the-container-revolution.html#tk.rss_all)
 - [Kotlin Multiplatform Mobile SDK nears the finish line](https://www.infoworld.com/article/3676282/kotlin-multiplatform-mobile-sdk-nears-the-finish-line.html#tk.rss_all)
 - [Google aims for BigLake data lake support for all unstructured data](https://www.infoworld.com/article/3676074/google-aims-for-biglake-data-lake-support-for-all-unstructured-data.html#tk.rss_all)
 - [Google kicks up ‘openness’ a notch](https://www.infoworld.com/article/3675964/google-kicks-up-openness-a-notch.html#tk.rss_all)
 - [Cloud security is the new battle zone](https://www.infoworld.com/article/3676071/cloud-security-is-the-new-battle-zone.html#tk.rss_all)
-- [How intelligent automation changes CI/CD](https://www.infoworld.com/article/3658209/how-intelligent-automation-changes-cicd.html#tk.rss_all)
-- [Endor Labs offers dependency management platform for open source software](https://www.csoonline.com/article/3675963/endor-labs-offers-dependency-management-platform-for-open-source-software.html#tk.rss_all)
-- [8 signs your low-code platform is overpromising and underdelivering](https://www.infoworld.com/article/3675892/8-signs-your-low-code-platform-is-overpromising-and-underdelivering.html#tk.rss_all)
-- [7 reasons to love the Rust language—and 7 reasons not to](https://www.infoworld.com/article/3675391/7-reasons-to-love-the-rust-language-and-7-reasons-not-to.html#tk.rss_all)
-- [VS Code 1.72 enhances Git source control](https://www.infoworld.com/article/3676069/vs-code-172-enhances-git-source-control.html#tk.rss_all)
-- [Companies are still waiting for their cloud ROI](https://www.infoworld.com/article/3675374/companies-are-still-waiting-for-their-cloud-roi.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

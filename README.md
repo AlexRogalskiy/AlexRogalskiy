@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Nikon Small World microscopy contest 2022](https://arstechnica.com/science/2022/10/nikon-small-world-microscopy-contest-2022-meet-this-years-top-10-winners/)
-- [&#39;The worst is yet to come&#39; for the global economy, IMF warns](https://www.devex.com/news/the-worst-is-yet-to-come-for-the-global-economy-imf-warns-104167)
-- [Another $100M+ Crypto Hack. When will they learn?](https://p2eanalytics.com/web3/hackers-drain-100m-off-solana-based-defi-platform-mango-markets)
-- [Ask HN: How are you, a dev/programmer, preparing for climate change?](https://news.ycombinator.com/item?id=33172559)
-- [California makes digital license plates legal for everyone](https://www.autoblog.com/2022/10/10/digital-license-plates-legal-all-of-california/)
-- [Dart mission successfully shifted its target’s orbit](https://arstechnica.com/science/2022/10/dart-mission-successfully-shifted-its-targets-orbit/)
-- [The Creator Economy will look like the Music Business](https://www.armthecreators.com/the-creator-economy-will-look-like-the-music-business/)
-- [NASA&#39;s DART impact changed asteroid&#39;s orbit forever in planetary defense test](https://www.space.com/nasa-dart-asteroid-impact-orbit-change-success)
-- [The Way in Which Brian Eno Created Ambient 1: Music for Airports](https://reverbmachine.com/blog/deconstructing-brian-eno-music-for-airports/)
-- [Pittsburgh International Airport Just Installed a Giant Algae Air Purifier](https://www.forbes.com/sites/jenniferhicks/2022/10/09/pittsburgh-international-airport-just-installed-a-giant-algae-air-purifier/)
+- [Painting with a Database](https://www.pingcap.com/blog/painting-with-a-database/)
+- [Reverse Engineering a GPU from 2009](https://garnet.codeberg.page/posts/gpu-reversing/)
+- [Ask HN: Have Anyone Tried Visla?](https://news.ycombinator.com/item?id=33187052)
+- [Lufthansa flip-flops, AirTags now allowed on flights](https://appleinsider.com/articles/22/10/12/lufthansa-flip-flops-airtags-now-allowed-on-flights)
+- [Samsung phones blowing up at pandemic rates,urging return of removable batteries](https://www.phonearena.com/news/samsung-phones-blowing-up-at-pandemic-rates-urging-return-of-removable-batteries-samsung-responds_id142922)
+- [Signal’s Founder on GPG &lpar;2015&rpar;](https://moxie.org/2015/02/24/gpg-and-me.html)
+- [Inventions that are fighting the rise of facial recognition technology](https://bigthink.com/the-present/facial-recognition/)
+- [The workers leaving their dream jobs](https://www.bbc.com/worklife/article/20221010-the-workers-leaving-their-dream-jobs)
+- [Nietzsche in Turin](https://www.newstatesman.com/culture/books/2022/07/nietzsche-in-turin-review-lesley-chamberlain-guy-de-pourtales)
+- [Hawthorne Effect](https://en.wikipedia.org/wiki/Hawthorne_effect)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

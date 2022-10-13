@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war live: Russia sustains losses in southern Ukraine; Biden doesn’t think Putin will use nuclear weapons](https://www.theguardian.com/world/live/2022/oct/12/russia-ukraine-war-live-russia-sustains-losses-in-southern-ukraine-biden-doesnt-think-putin-will-use-nuclear-weapons)
-- [Saudi Arabia will face ‘consequences’, says Biden, amid anger at cuts in oil output](https://www.theguardian.com/us-news/2022/oct/11/biden-signals-rethink-over-saudi-ties-amid-anger-at-cuts-in-oil-output)
-- [Australian MP says the Queen was the &#39;Michael Jordan of aristocracy&#39; in condolence motion – video](https://www.theguardian.com/australia-news/video/2022/oct/12/queensland-mp-says-the-queen-was-the-michael-jordan-of-aristocracy-in-condolence-motion-video)
-- [The meteoric rise of Suella Braverman – podcast](https://www.theguardian.com/news/audio/2022/oct/12/the-meteoric-rise-of-suella-braverman-podcast)
-- [New Zealand bird of the year contest courts controversy as favourite struck from ballot](https://www.theguardian.com/environment/2022/oct/12/new-zealand-bird-of-the-year-contest-favourite-kakapo-blocked)
-- [‘The new Paul Hogan’: Australia unveils new tourism ambassador Ruby the Roo](https://www.theguardian.com/business/2022/oct/12/the-new-paul-hogan-australia-unveils-new-tourism-ambassador-ruby-the-roo)
-- [Unaired Kanye West-Tucker Carlson material contains more racist conspiracy theories](https://www.theguardian.com/music/2022/oct/11/kanye-west-tucker-carlson-interview-racism-conspiracy)
-- [Russia-Ukraine war latest: what we know on day 231 of the invasion](https://www.theguardian.com/world/2022/oct/12/russia-ukraine-war-latest-what-we-know-on-day-231-of-the-invasion)
-- [Mahathir Mohamad: 97-year-old Malaysian former leader to run for parliament](https://www.theguardian.com/politics/2022/oct/12/mahathir-mohamad-97-year-old-malaysian-former-leader-to-run-for-parliament)
-- [Nasa says Dart mission succeeded in shifting asteroid’s orbit](https://www.theguardian.com/science/2022/oct/11/nasa-dart-spacecraft-asteroid-successful)
+- [North Korea says it tested cruise missiles able to carry ‘tactical nukes’](https://www.theguardian.com/world/2022/oct/13/north-korea-says-it-tested-cruise-missiles-able-to-carry-tactical-nukes)
+- [Putin’s revenge for the Crimea bridge attack - podcast](https://www.theguardian.com/world/audio/2022/oct/13/putin-revenge-crimea-bridge-attack-podcast)
+- [Democrats issue fresh ultimatum to Saudi Arabia over oil production](https://www.theguardian.com/us-news/2022/oct/12/us-democrats-threaten-saudi-arabia-with-arms-freeze-over-oil-output)
+- [Biden hails UN general assembly vote condemning Russia annexations in Ukraine](https://www.theguardian.com/world/2022/oct/13/biden-hails-un-general-assembly-vote-condemning-russia-annexations-in-ukraine)
+- [Jamaica broadcasting regulator bans music and TV deemed to glorify crime](https://www.theguardian.com/world/2022/oct/13/jamaica-broadcasting-commission-regulator-bans-music-tv-deemed-to-glorify-crime)
+- [‘Lula represents hope’: Brazil presidential frontrunner takes his message into Rio’s favelas](https://www.theguardian.com/world/2022/oct/13/lula-represents-hope-brazil-presidential-frontrunner-takes-his-message-into-rios-favelas)
+- [Trump ordered records moved after subpoena, Mar-a-Lago staffer said – reports](https://www.theguardian.com/us-news/2022/oct/12/donald-trump-mar-a-lago-documents)
+- [Russia-Ukraine war latest: what we know on day 232 of the invasion](https://www.theguardian.com/world/2022/oct/13/russia-ukraine-war-latest-what-we-know-on-day-232-of-the-invasion)
+- [Taiwan opens borders to tourists as restrictions eased after 2.5 years](https://www.theguardian.com/world/2022/oct/13/taiwan-opens-borders-to-tourists-as-restrictions-eased-after-25-years)
+- [Alex Jones ordered to pay Sandy Hook families $965m over hoax claims](https://www.theguardian.com/us-news/2022/oct/12/alex-jones-sandy-hook-hoax-lawsuit-damages)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

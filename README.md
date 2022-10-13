@@ -370,6 +370,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Jobs Are Getting in the Way of Work &lpar;Here’s What’s Coming Next&rpar;](https://www.informationweek.com/strategic-cio/jobs-are-getting-in-the-way-of-work-here-s-what-s-coming-next-)
+- [Quiet Quitting in the IT Department Impacts the Entire Enterprise](https://www.informationweek.com/it-life/quiet-quitting-in-the-it-department-impacts-the-entire-enterprise)
+- [Uniting Technology and Sustainability to Drive Value](https://www.informationweek.com/sustainability/uniting-technology-and-sustainability-to-drive-value)
 - [Back to the Future: The Rise of Edge Computing](https://www.informationweek.com/big-data/back-to-the-future-the-rise-of-edge-computing)
 - [What to Expect in 2023: IT Spending, Recession, Talent Crisis, Privacy](https://www.informationweek.com/strategic-cio/what-to-expect-in-2023-it-spending-recession-talent-crisis-privacy)
 - [How IT Leaders Can Survive While Helping Mergers Succeed](https://www.informationweek.com/strategic-cio/how-it-leaders-can-survive-while-helping-mergers-succeed)
@@ -377,9 +380,6 @@
 - [How to Budget Effectively for Multi-Cloud](https://www.informationweek.com/cloud/how-to-budget-effectively-for-multi-cloud)
 - [Could Subscription Models Work for Cloud Services?](https://www.informationweek.com/cloud/could-subscription-models-work-for-cloud-services-)
 - [FinovateFall: Innovation, Partnerships and Community Banking 2.0](https://www.informationweek.com/fintech/finovatefall-innovation-partnerships-and-community-banking-2-0)
-- [LAUSD Ransomware Attack: Understanding Cybersecurity Risks in Education](https://www.informationweek.com/security-and-risk-strategy/lausd-ransomware-attack-understanding-cybersecurity-risks-in-education)
-- [Sam Rad Talks Tech’s Social Impact at the Women in IT Summit](https://www.informationweek.com/fintech/sam-rad-talks-tech-s-social-impact-at-the-women-in-it-summit)
-- [Cloud Outages: Causes, Consequences, Prevention, Recovery](https://www.informationweek.com/cloud/cloud-outages-causes-consequences-prevention-recovery)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

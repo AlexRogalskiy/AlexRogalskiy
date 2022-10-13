@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Brex layoffs](https://www.brex.com/journal/message-from-pedro)
-- [How to prove you know a secret without giving it away](https://www.quantamagazine.org/how-to-prove-you-know-a-secret-without-giving-it-away-20221011/)
-- [Valve Employee Handbook &lpar;2012&rpar; [pdf]](https://cdn.cloudflare.steamstatic.com/apps/valve/Valve_NewEmployeeHandbook.pdf)
-- [Qwik: No hydration, auto lazy-loading, edge-optimized, and fun](https://qwik.builder.io/)
-- [GitHub Copilot exposes names in TODO comments](https://twitter.com/aeolianeth/status/1579980661464895490)
-- [Authors’ names have ‘astonishing’ influence on peer reviewers: study](https://www.nature.com/articles/d41586-022-03256-9)
-- [An unexpected revival of Firefox OS](https://tuxphones.com/capyloon-firefox-os-b2gos-linux/)
-- [When going somewhere does a thing: on links and buttons](https://kilianvalkhof.com/2022/css-html/when-going-somewhere-does-a-thing-on-links-and-buttons/)
-- [Researchers find ‘significant rates’ of sinking ground in Houston suburbs](https://uh.edu/news-events/stories/2022-news-articles/october-2022/10112022-houston-subsidence.php)
-- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
+- [Ask HN: Firing an employee under a month before vest?](https://news.ycombinator.com/item?id=33186789)
+- [Can Trees Heal Heart Disease?](https://www.discovermagazine.com/health/can-trees-heal-hearts)
+- [Nearly half of Covid patients haven’t fully recovered months later, study finds](https://www.nytimes.com/2022/10/12/health/long-covid.html)
+- [Taildrop](https://tailscale.com/kb/1106/taildrop/)
+- [Young adults in L.A. to get $1k a month under new guaranteed income program](https://www.latimes.com/california/story/2022-10-12/l-a-basic-income-program-to-give-young-adults-1-000-a-month)
+- [Fixing macOS Zsh Terminal History Settings](https://blog.akatz.org/fixing-macos-zsh-terminal-history-settings/)
+- [The Degradation Drug](https://theamericanscholar.org/the-degradation-drug/)
+- [First signs of a slight decline in secondhand bookshops in Britain](http://wormwoodiana.blogspot.com/2022/06/first-signs-of-slight-decline-in.html)
+- [Algorithms predict sports teams&#39; moves with 80% accuracy [pdf]](http://lisc.mae.cornell.edu/LISCpapers/TIST_Action_Junyi22.pdf)
+- [Use NextDNS everywhere you use Tailscale](https://tailscale.com/blog/nextdns/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

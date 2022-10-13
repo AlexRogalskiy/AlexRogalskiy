@@ -415,16 +415,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Study tips](https://www.reddit.com/r/InformationTechnology/comments/y2l21f/study_tips/)
+- [Need help - lagging gaming - network switch](https://www.reddit.com/r/InformationTechnology/comments/y2jqn0/need_help_lagging_gaming_network_switch/)
+- [Best naming conventions for computers at a small start up](https://www.reddit.com/r/InformationTechnology/comments/y2h245/best_naming_conventions_for_computers_at_a_small/)
+- [How do you pronounce the abbreviation “gif”?](https://www.reddit.com/r/InformationTechnology/comments/y29nm4/how_do_you_pronounce_the_abbreviation_gif/)
+- [Help needed - Fill out a short survey for my school project](https://www.reddit.com/r/InformationTechnology/comments/y27rqd/help_needed_fill_out_a_short_survey_for_my_school/)
+- [New Infrastructure](https://www.reddit.com/r/InformationTechnology/comments/y25xgl/new_infrastructure/)
+- [what the difference between CS and IT?](https://www.reddit.com/r/InformationTechnology/comments/y22e57/what_the_difference_between_cs_and_it/)
 - [Best portable docking station](https://www.reddit.com/r/InformationTechnology/comments/y1e2yo/best_portable_docking_station/)
 - [Is IT a worthy major?](https://www.reddit.com/r/InformationTechnology/comments/y1dncz/is_it_a_worthy_major/)
 - [does anyone have labs/tutorials etc so I can practice entry level IT skills?](https://www.reddit.com/r/InformationTechnology/comments/y0s06t/does_anyone_have_labstutorials_etc_so_i_can/)
-- [What am I supposed to do with this god-forsaken catch-22 &lpar;No real world IT job experience but need a JOB for EXPERIENCE&rpar;](https://www.reddit.com/r/InformationTechnology/comments/y0rw04/what_am_i_supposed_to_do_with_this_godforsaken/)
-- [Recommend battery backup/surge protector for network switches](https://www.reddit.com/r/InformationTechnology/comments/y0qtix/recommend_battery_backupsurge_protector_for/)
-- [Advice Regarding Starting a Software House!](https://www.reddit.com/r/InformationTechnology/comments/y0eb9p/advice_regarding_starting_a_software_house/)
-- [Hi, i am a first year 2nd sem international student in Australia studying Bachelors of ICT currently, i am really confused between my majors and which one should i go with.](https://www.reddit.com/r/InformationTechnology/comments/y0amci/hi_i_am_a_first_year_2nd_sem_international/)
-- [Does it matter which college I get my Computer Information Technology B.S. from?](https://www.reddit.com/r/InformationTechnology/comments/y0351a/does_it_matter_which_college_i_get_my_computer/)
-- [Why is beautifulSoup not working for me?](https://www.reddit.com/r/InformationTechnology/comments/xzulj8/why_is_beautifulsoup_not_working_for_me/)
-- [First tip on how to get an I.T. job, learn to find information and adapt to teaching yourself](https://www.reddit.com/r/InformationTechnology/comments/xztbm3/first_tip_on_how_to_get_an_it_job_learn_to_find/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

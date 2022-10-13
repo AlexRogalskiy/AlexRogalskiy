@@ -430,16 +430,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [85 per cent of I&amp;O leaders expect to increase their automation within 3 years: Gartner](https://www.itworldcanada.com/article/85-per-cent-of-io-leaders-expect-to-increase-their-automation-within-3-years-gartner/507526)
+- [Sage announces new acquisition, product updates at its Transform event](https://www.itworldcanada.com/article/sage-announces-new-acquisition-product-updates-at-its-transform-event/507652)
+- [Microsoft announces Surface Pro 9 with an Arm processor option](https://www.itworldcanada.com/article/microsoft-announces-surface-pro-9-with-an-arm-processor-option/507653)
+- [Google Cloud unveils innovations at Next’ 22](https://www.itworldcanada.com/article/google-cloud-unveils-innovations-at-next-22/507457)
+- [Rogers is the first carrier to offer Microsoft’s Team Phone Mobile](https://www.itworldcanada.com/article/rogers-is-the-first-carrier-to-offer-microsofts-team-phone-mobile/507444)
+- [Cyber Security Today, Oct. 12, 2022 – Toyota blames contractor for five-year data leak, code from Intel is leaked and more](https://www.itworldcanada.com/article/cyber-security-today-oct-12-2022-toyota-blames-contractor-for-five-year-data-leak-code-from-intel-is-leaked-and-more/507491)
 - [VMware opens new AI research and innovation centre in Montreal](https://www.itworldcanada.com/article/vmware-opens-new-ai-research-and-innovation-centre-in-montreal/507379)
 - [Canadian companies risk neglecting cybersecurity as recession looms](https://www.itworldcanada.com/article/canadian-companies-risk-neglecting-cybersecurity-as-recession-looms/507321)
 - [Ontario’s employee electronic monitoring law comes into effect today](https://www.itworldcanada.com/article/ontarios-employee-electronic-monitoring-law-comes-into-effect-today/507374)
 - [Coffee Briefing October 11, 2022 – Hootsuite’s Heyday announces integrations for Instagram and Messenger; Google Services provided C$37 billion worth of economic activity to Canadian organizations; AI firm Sidetrade opens in Calgary; and more](https://www.itworldcanada.com/article/coffee-briefing-october-11-2022-hootsuites-heyday-announces-integrations-for-instagram-and-messenger-google-services-provided-c37-billion-worth-of-economic-activity-to-canadian-organizations-a/507300)
-- [New research emphasizes the need for organizations to use a skills-based talent strategy](https://www.itworldcanada.com/article/new-research-emphasizes-the-need-for-organizations-to-use-a-skills-based-talent-strategy/506896)
-- [OpenText announces integration with Google Workspace; unveils updates to support modern work](https://www.itworldcanada.com/article/opentext-announces-integration-with-google-workspace-unveils-updates-to-support-modern-work/507004)
-- [OpenText announces Cloud Editions 22.4](https://www.itworldcanada.com/article/opentext-announces-cloud-editions-22-4/507070)
-- [Hashtag Trending Oct. 11 – Dutch court says employees can keep webcam off; Papa Johns sued for data collection; one million Facebook account information potentially stolen](https://www.itworldcanada.com/article/hashtag-trending-oct-11-dutch-court-says-employees-can-keep-webcam-off-papa-johns-sued-for-data-collection-one-million-facebook-account-information-potentially-stolen/507350)
-- [Cyber Security Today, Oct. 10, 2022 -Warnings to Zimbra and Fortinet administrators, lessons from the hack of a US defence contractor and more](https://www.itworldcanada.com/article/cyber-security-today-oct-10-2022-warnings-to-zimbra-and-fortinet-administrators-lessons-from-the-hack-of-a-us-defence-contractor-and-more/507344)
-- [Cyber Security Today, Oct. 5, 2022 – An American sentenced to 25 years for laundering money, TD Bank alerts customers in the U.S. of a data theft, and more](https://www.itworldcanada.com/article/cyber-security-today-oct-5-2022-an-american-sentenced-to-25-years-for-laundering-money-td-bank-alerts-customers-in-the-u-s-of-a-data-theft-and-more/506630)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

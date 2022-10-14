@@ -430,16 +430,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Cubic announces new partnership and highlights its focus on sustainable solutions](https://www.itworldcanada.com/article/cubic-announces-new-partnership-and-highlights-its-focus-on-sustainable-solutions/507639)
+- [Schneider CEO call for increased action to fight ‘triple crisis’](https://www.itworldcanada.com/article/schneider-ceo-call-for-increased-action-to-fight-triple-crisis/507718)
+- [Microsoft finally updates the Surface Studio after four years, but is it enough?](https://www.itworldcanada.com/article/microsoft-finally-updates-the-surface-studio-after-four-years-but-is-it-enough/507725)
+- [Google Cloud announces new security solutions](https://www.itworldcanada.com/article/google-cloud-announces-new-security-solutions/507670)
+- [AWS launches three new programs to bolster IT and cloud skills and help Ukrainians rejoin the workforce](https://www.itworldcanada.com/article/aws-launches-three-new-programs-to-bolster-it-and-cloud-skills-and-help-ukrainians-rejoin-the-workforce/507632)
+- [Key partnerships announced at Google Cloud Next 2022](https://www.itworldcanada.com/article/key-partnerships-announced-at-google-cloud-next-2022/507443)
+- [Hashtag Trending Oct. 13 – Intel layoffs; Space tech could cut EV charging times; Microsoft army goggles fail test](https://www.itworldcanada.com/article/hashtag-trending-oct-13-intel-layoffs-space-tech-could-cut-ev-charging-times-microsoft-army-goggles-fail-test/507741)
 - [85 per cent of I&amp;O leaders expect to increase their automation within 3 years: Gartner](https://www.itworldcanada.com/article/85-per-cent-of-io-leaders-expect-to-increase-their-automation-within-3-years-gartner/507526)
 - [Sage announces new acquisition, product updates at its Transform event](https://www.itworldcanada.com/article/sage-announces-new-acquisition-product-updates-at-its-transform-event/507652)
 - [Microsoft announces Surface Pro 9 with an Arm processor option](https://www.itworldcanada.com/article/microsoft-announces-surface-pro-9-with-an-arm-processor-option/507653)
-- [Google Cloud unveils innovations at Next’ 22](https://www.itworldcanada.com/article/google-cloud-unveils-innovations-at-next-22/507457)
-- [Rogers is the first carrier to offer Microsoft’s Team Phone Mobile](https://www.itworldcanada.com/article/rogers-is-the-first-carrier-to-offer-microsofts-team-phone-mobile/507444)
-- [Cyber Security Today, Oct. 12, 2022 – Toyota blames contractor for five-year data leak, code from Intel is leaked and more](https://www.itworldcanada.com/article/cyber-security-today-oct-12-2022-toyota-blames-contractor-for-five-year-data-leak-code-from-intel-is-leaked-and-more/507491)
-- [VMware opens new AI research and innovation centre in Montreal](https://www.itworldcanada.com/article/vmware-opens-new-ai-research-and-innovation-centre-in-montreal/507379)
-- [Canadian companies risk neglecting cybersecurity as recession looms](https://www.itworldcanada.com/article/canadian-companies-risk-neglecting-cybersecurity-as-recession-looms/507321)
-- [Ontario’s employee electronic monitoring law comes into effect today](https://www.itworldcanada.com/article/ontarios-employee-electronic-monitoring-law-comes-into-effect-today/507374)
-- [Coffee Briefing October 11, 2022 – Hootsuite’s Heyday announces integrations for Instagram and Messenger; Google Services provided C$37 billion worth of economic activity to Canadian organizations; AI firm Sidetrade opens in Calgary; and more](https://www.itworldcanada.com/article/coffee-briefing-october-11-2022-hootsuites-heyday-announces-integrations-for-instagram-and-messenger-google-services-provided-c37-billion-worth-of-economic-activity-to-canadian-organizations-a/507300)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

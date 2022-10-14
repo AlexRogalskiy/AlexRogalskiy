@@ -415,16 +415,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [I&amp;O vs. S&amp;A](https://www.reddit.com/r/InformationTechnology/comments/y3hmpv/io_vs_sa/)
+- [what is the difference between Current State Modulation and State transition Modulation?](https://www.reddit.com/r/InformationTechnology/comments/y3e9tt/what_is_the_difference_between_current_state/)
+- [New Computer Setup](https://www.reddit.com/r/InformationTechnology/comments/y39hnt/new_computer_setup/)
+- [New User Checklist](https://www.reddit.com/r/InformationTechnology/comments/y30btl/new_user_checklist/)
 - [Study tips](https://www.reddit.com/r/InformationTechnology/comments/y2l21f/study_tips/)
 - [Need help - lagging gaming - network switch](https://www.reddit.com/r/InformationTechnology/comments/y2jqn0/need_help_lagging_gaming_network_switch/)
 - [Best naming conventions for computers at a small start up](https://www.reddit.com/r/InformationTechnology/comments/y2h245/best_naming_conventions_for_computers_at_a_small/)
 - [How do you pronounce the abbreviation “gif”?](https://www.reddit.com/r/InformationTechnology/comments/y29nm4/how_do_you_pronounce_the_abbreviation_gif/)
 - [Help needed - Fill out a short survey for my school project](https://www.reddit.com/r/InformationTechnology/comments/y27rqd/help_needed_fill_out_a_short_survey_for_my_school/)
 - [New Infrastructure](https://www.reddit.com/r/InformationTechnology/comments/y25xgl/new_infrastructure/)
-- [what the difference between CS and IT?](https://www.reddit.com/r/InformationTechnology/comments/y22e57/what_the_difference_between_cs_and_it/)
-- [Best portable docking station](https://www.reddit.com/r/InformationTechnology/comments/y1e2yo/best_portable_docking_station/)
-- [Is IT a worthy major?](https://www.reddit.com/r/InformationTechnology/comments/y1dncz/is_it_a_worthy_major/)
-- [does anyone have labs/tutorials etc so I can practice entry level IT skills?](https://www.reddit.com/r/InformationTechnology/comments/y0s06t/does_anyone_have_labstutorials_etc_so_i_can/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

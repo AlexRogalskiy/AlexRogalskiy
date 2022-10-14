@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Ask HN: Firing an employee under a month before vest?](https://news.ycombinator.com/item?id=33186789)
-- [Can Trees Heal Heart Disease?](https://www.discovermagazine.com/health/can-trees-heal-hearts)
-- [Nearly half of Covid patients haven’t fully recovered months later, study finds](https://www.nytimes.com/2022/10/12/health/long-covid.html)
-- [Taildrop](https://tailscale.com/kb/1106/taildrop/)
-- [Young adults in L.A. to get $1k a month under new guaranteed income program](https://www.latimes.com/california/story/2022-10-12/l-a-basic-income-program-to-give-young-adults-1-000-a-month)
-- [Fixing macOS Zsh Terminal History Settings](https://blog.akatz.org/fixing-macos-zsh-terminal-history-settings/)
-- [The Degradation Drug](https://theamericanscholar.org/the-degradation-drug/)
-- [First signs of a slight decline in secondhand bookshops in Britain](http://wormwoodiana.blogspot.com/2022/06/first-signs-of-slight-decline-in.html)
-- [Algorithms predict sports teams&#39; moves with 80% accuracy [pdf]](http://lisc.mae.cornell.edu/LISCpapers/TIST_Action_Junyi22.pdf)
-- [Use NextDNS everywhere you use Tailscale](https://tailscale.com/blog/nextdns/)
+- [Beware of Bun.js](https://gist.github.com/littledivy/b9351c3ccf8ab99f7e14461db37044dc)
+- [Linear.app](https://linear.app/homepage)
+- [Code Review Handbook](https://www.sledgeworx.io/code-review-handbook/)
+- [Equifax used records it collects from companies to fire employees with 2nd jobs](https://www.businessinsider.com/equifax-fires-employees-for-working-two-jobs-2022-10)
+- [Oracle lays off more than 200 California-based workers](https://www.datacenterdynamics.com/en/news/oracle-lays-off-more-than-200-california-based-workers/)
+- [If AI can read, then plain text can be weaponized &lpar;2019&rpar;](https://bdtechtalks.com/2019/04/02/ai-nlp-paraphrasing-adversarial-attacks/)
+- [Bun v0.2.0](https://github.com/oven-sh/bun/releases/tag/bun-v0.2.0)
+- [Tcl Ported to Go](https://gitlab.com/cznic/tcl)
+- [Deep language algorithms predict semantic comprehension from brain activity](https://www.nature.com/articles/s41598-022-20460-9)
+- [Heaviest element yet detected in an exoplanet atmosphere](https://www.eso.org/public/news/eso2213/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

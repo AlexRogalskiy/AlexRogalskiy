@@ -385,16 +385,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [12 top-notch libraries for C++ programming](https://www.infoworld.com/article/3516151/12-top-notch-libraries-for-c-plus-plus-programming.html#tk.rss_all)
+- [Ant Group lists OceanBase on AWS Marketplace to increase reach](https://www.infoworld.com/article/3676595/ant-group-lists-oceanbase-on-aws-marketplace-to-increase-reach.html#tk.rss_all)
+- [Use model validation in minimal APIs in ASP.NET Core 6](https://www.infoworld.com/article/3676077/use-model-validation-in-minimal-apis-in-aspnet-core-6.html#tk.rss_all)
+- [Natural language processing with Apache OpenNLP](https://www.infoworld.com/article/3675893/natural-language-processing-with-apache-opennlp.html#tk.rss_all)
 - [VirtualBox 7 remotes into Oracle Cloud](https://www.infoworld.com/article/3676570/virtualbox-7-remotes-into-oracle-cloud.html#tk.rss_all)
 - [Microsoft relaunches Syntex with broad set of AI-based content management tools](https://www.computerworld.com/article/3676509/microsoft-relaunches-syntex-with-broad-set-of-ai-based-content-management-tools.html#tk.rss_all)
 - [Microsoft debuts PostgreSQL support for Cosmos DB, multiple Azure updates](https://www.infoworld.com/article/3676508/microsoft-adds-azure-services-postgresql-support-for-cosmos-db.html#tk.rss_all)
 - [Ignite 2022: Making Azure your development hub](https://www.infoworld.com/article/3676283/ignite-2022-making-azure-your-development-hub.html#tk.rss_all)
 - [WebAssembly comes to Apache web server](https://www.infoworld.com/article/3676134/webassembly-comes-to-apache-web-server.html#tk.rss_all)
 - [6 Kubernetes distributions leading the container revolution](https://www.infoworld.com/article/3265059/6-kubernetes-distributions-leading-the-container-revolution.html#tk.rss_all)
-- [Kotlin Multiplatform Mobile SDK nears the finish line](https://www.infoworld.com/article/3676282/kotlin-multiplatform-mobile-sdk-nears-the-finish-line.html#tk.rss_all)
-- [Google aims for BigLake data lake support for all unstructured data](https://www.infoworld.com/article/3676074/google-aims-for-biglake-data-lake-support-for-all-unstructured-data.html#tk.rss_all)
-- [Google kicks up ‘openness’ a notch](https://www.infoworld.com/article/3675964/google-kicks-up-openness-a-notch.html#tk.rss_all)
-- [Cloud security is the new battle zone](https://www.infoworld.com/article/3676071/cloud-security-is-the-new-battle-zone.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

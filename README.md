@@ -370,6 +370,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Data Storage IT Careers Evolve with the Cloud](https://www.informationweek.com/it-life/data-storage-it-careers-evolve-with-the-cloud)
+- [IBM Invests in Emerging Digital Product Engineering Market](https://www.informationweek.com/strategic-cio/ibm-invests-in-emerging-digital-product-engineering-market)
+- [Can Your Company Justify an IT R&amp;D Department?](https://www.informationweek.com/strategic-cio/can-your-company-justify-an-it-r-d-department-)
 - [Jobs Are Getting in the Way of Work &lpar;Here’s What’s Coming Next&rpar;](https://www.informationweek.com/strategic-cio/jobs-are-getting-in-the-way-of-work-here-s-what-s-coming-next-)
 - [Quiet Quitting in the IT Department Impacts the Entire Enterprise](https://www.informationweek.com/it-life/quiet-quitting-in-the-it-department-impacts-the-entire-enterprise)
 - [Uniting Technology and Sustainability to Drive Value](https://www.informationweek.com/sustainability/uniting-technology-and-sustainability-to-drive-value)
@@ -377,9 +380,6 @@
 - [What to Expect in 2023: IT Spending, Recession, Talent Crisis, Privacy](https://www.informationweek.com/strategic-cio/what-to-expect-in-2023-it-spending-recession-talent-crisis-privacy)
 - [How IT Leaders Can Survive While Helping Mergers Succeed](https://www.informationweek.com/strategic-cio/how-it-leaders-can-survive-while-helping-mergers-succeed)
 - [Looking to Insulate Growth? Leverage an Outside-In Perspective](https://www.informationweek.com/enterprise-agility/looking-to-insulate-growth-leverage-an-outside-in-perspective)
-- [How to Budget Effectively for Multi-Cloud](https://www.informationweek.com/cloud/how-to-budget-effectively-for-multi-cloud)
-- [Could Subscription Models Work for Cloud Services?](https://www.informationweek.com/cloud/could-subscription-models-work-for-cloud-services-)
-- [FinovateFall: Innovation, Partnerships and Community Banking 2.0](https://www.informationweek.com/fintech/finovatefall-innovation-partnerships-and-community-banking-2-0)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

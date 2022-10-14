@@ -400,16 +400,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Union claims Google datacentre contractors in US face repercussions for demanding &#39;basic benefits&#39;](https://www.computerweekly.com/news/252526007/Union-claims-Google-datacentre-contractors-in-US-face-repercussions-for-demanding-basic-benefits)
-- [Cloud bursting: What is it, what workloads, what technologies?](https://www.computerweekly.com/feature/Cloud-bursting-What-is-it-what-workloads-what-technologies)
-- [Finance regulator cracks down on use of messaging apps](https://www.computerweekly.com/news/252525993/Finance-regulator-cracks-down-on-use-of-messaging-apps)
-- [NCSC urges organisations to secure supply chains](https://www.computerweekly.com/news/252525995/NCSC-urges-organisations-to-secure-supply-chains)
-- [Major PC providers experience a massive fall in PC shipments](https://www.computerweekly.com/news/252525983/Major-PC-providers-experience-a-massive-fall-in-PC-shipments)
-- [Santander and Google offer tech to help businesses smooth move to cloud](https://www.computerweekly.com/news/252525985/Santander-and-Google-offer-tech-to-help-businesses-smooth-move-to-cloud)
-- [IT sustainability strategies: Why enterprises need to start with the datacentre when going green](https://www.computerweekly.com/feature/IT-sustainability-strategies-Why-enterprises-need-to-start-with-the-datacentre-when-going-green)
-- [French Supreme Court rejects EncroChat verdict after lawyers question secrecy over hacking operation](https://www.computerweekly.com/news/252525971/French-Supreme-Court-rejects-EncroChat-evidence-after-lawyers-question-defence-secrecy)
-- [Microsoft fixes lone zero-day on October Patch Tuesday](https://www.computerweekly.com/news/252525979/Microsoft-fixes-lone-zero-day-on-October-Patch-Tuesday)
-- [ICO selectively discloses reprimands for data protection breaches](https://www.computerweekly.com/news/252525851/ICO-selectively-discloses-reprimands-for-data-protection-breaches)
+- [Cyber training firm KnowBe4 bought by private equity firm](https://www.computerweekly.com/news/252526052/Cyber-training-firm-KnowBe4-bought-by-private-equity-firm)
+- [Unsung Heroes Awards celebrate diversity in cyber community](https://www.computerweekly.com/news/252526046/Unsung-Heroes-Awards-celebrate-diversity-in-cyber-community)
+- [Dutch influence standards for post-quantum cryptography](https://www.computerweekly.com/news/252526051/Dutch-influence-standards-for-post-quantum-cryptography)
+- [Perpetrators of subpostmaster suffering in Horizon scandal must face public inquiry](https://www.computerweekly.com/news/252526045/Those-responsible-for-subpostmaster-suffering-in-Horizon-scandal-must-face-public-inquiry)
+- [Is object storage good for databases?](https://www.computerweekly.com/feature/Is-object-storage-good-for-databases)
+- [Gartner: Remote work, zero trust, cloud still driving cyber spend](https://www.computerweekly.com/news/252526040/Gartner-Remote-work-zero-trust-cloud-still-driving-cyber-spend)
+- [CW Middle East: Qatar strengthens cyber defences ahead of FIFA World Cup](https://www.computerweekly.com/ezine/CW-Middle-East/CW-Middle-East-Qatar-strengthens-cyber-defences-ahead-of-FIFA-World-Cup)
+- [Turing launches government-backed AI standards information hub](https://www.computerweekly.com/news/252526022/Turing-launches-government-backed-AI-standards-information-hub)
+- [Bowled out: NVMe flash pioneer Pavilion Data ceases business](https://www.computerweekly.com/news/252526009/Bowled-out-NVMe-flash-pioneer-Pavilion-Data-ceases-business)
+- [IT Sustainability Think Tank: How IT buyers can verify the green claims of their supply chain](https://www.computerweekly.com/opinion/IT-Sustainability-Think-Tank-How-IT-buyers-can-verify-the-green-claims-of-their-supply-chain)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Painting with a Database](https://www.pingcap.com/blog/painting-with-a-database/)
-- [Reverse Engineering a GPU from 2009](https://garnet.codeberg.page/posts/gpu-reversing/)
-- [Ask HN: Have Anyone Tried Visla?](https://news.ycombinator.com/item?id=33187052)
-- [Lufthansa flip-flops, AirTags now allowed on flights](https://appleinsider.com/articles/22/10/12/lufthansa-flip-flops-airtags-now-allowed-on-flights)
-- [Samsung phones blowing up at pandemic rates,urging return of removable batteries](https://www.phonearena.com/news/samsung-phones-blowing-up-at-pandemic-rates-urging-return-of-removable-batteries-samsung-responds_id142922)
-- [Signal’s Founder on GPG &lpar;2015&rpar;](https://moxie.org/2015/02/24/gpg-and-me.html)
-- [Inventions that are fighting the rise of facial recognition technology](https://bigthink.com/the-present/facial-recognition/)
-- [The workers leaving their dream jobs](https://www.bbc.com/worklife/article/20221010-the-workers-leaving-their-dream-jobs)
-- [Nietzsche in Turin](https://www.newstatesman.com/culture/books/2022/07/nietzsche-in-turin-review-lesley-chamberlain-guy-de-pourtales)
-- [Hawthorne Effect](https://en.wikipedia.org/wiki/Hawthorne_effect)
+- [A library to create clean architecture projects](https://www.npmjs.com/package/clean-setup)
+- [A Hope for AI](https://geohot.github.io//blog/jekyll/update/2022/10/13/a-hope.html)
+- [NASA: Dart mission altered asteroid&#39;s orbit by 32 minutes – TechSpot](https://www.techspot.com/news/96293-nasa-dart-mission-altered-asteroid-orbit-32-minutes.html)
+- [Wazero: The zero dependency WebAssembly runtime for Go developers](https://wazero.io/)
+- [Tether Slashes Commercial Paper to Zero](https://tether.to/en/tether-slashes-commercial-paper-to-zero/)
+- [The Rust Programming Language, 2nd Edition &lpar;Covering Rust 2021&rpar;](https://nostarch.com/rust-programming-language-2nd-edition)
+- [The Search for the Prefect Sound](https://www.washingtonpost.com/arts-entertainment/interactive/2022/perfect-sound-quality-vinyl-records/)
+- [Beware of Bun.js](https://gist.github.com/littledivy/b9351c3ccf8ab99f7e14461db37044dc)
+- [Using an Amiga in 2021: Making an intro](https://datagubbe.se/mkdem/)
+- [The Appeal of Scientific Heroism](https://www.newyorker.com/culture/annals-of-inquiry/the-appeal-of-scientific-heroism)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

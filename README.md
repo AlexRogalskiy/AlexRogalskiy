@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [North Korea says it tested cruise missiles able to carry ‘tactical nukes’](https://www.theguardian.com/world/2022/oct/13/north-korea-says-it-tested-cruise-missiles-able-to-carry-tactical-nukes)
-- [Putin’s revenge for the Crimea bridge attack - podcast](https://www.theguardian.com/world/audio/2022/oct/13/putin-revenge-crimea-bridge-attack-podcast)
-- [Democrats issue fresh ultimatum to Saudi Arabia over oil production](https://www.theguardian.com/us-news/2022/oct/12/us-democrats-threaten-saudi-arabia-with-arms-freeze-over-oil-output)
-- [Biden hails UN general assembly vote condemning Russia annexations in Ukraine](https://www.theguardian.com/world/2022/oct/13/biden-hails-un-general-assembly-vote-condemning-russia-annexations-in-ukraine)
-- [Jamaica broadcasting regulator bans music and TV deemed to glorify crime](https://www.theguardian.com/world/2022/oct/13/jamaica-broadcasting-commission-regulator-bans-music-tv-deemed-to-glorify-crime)
-- [‘Lula represents hope’: Brazil presidential frontrunner takes his message into Rio’s favelas](https://www.theguardian.com/world/2022/oct/13/lula-represents-hope-brazil-presidential-frontrunner-takes-his-message-into-rios-favelas)
-- [Trump ordered records moved after subpoena, Mar-a-Lago staffer said – reports](https://www.theguardian.com/us-news/2022/oct/12/donald-trump-mar-a-lago-documents)
-- [Russia-Ukraine war latest: what we know on day 232 of the invasion](https://www.theguardian.com/world/2022/oct/13/russia-ukraine-war-latest-what-we-know-on-day-232-of-the-invasion)
-- [Taiwan opens borders to tourists as restrictions eased after 2.5 years](https://www.theguardian.com/world/2022/oct/13/taiwan-opens-borders-to-tourists-as-restrictions-eased-after-25-years)
-- [Alex Jones ordered to pay Sandy Hook families $965m over hoax claims](https://www.theguardian.com/us-news/2022/oct/12/alex-jones-sandy-hook-hoax-lawsuit-damages)
+- [Dissidents in China detained and harassed as Beijing prepares for party congress](https://www.theguardian.com/world/2022/oct/14/dissidents-in-china-detained-and-harassed-as-beijing-prepares-for-party-congress)
+- [Why Nevada will prove crucial in November: Politics Weekly America – podcast](https://www.theguardian.com/politics/audio/2022/oct/14/why-nevada-prove-crucial-november-midterms-politics-weekly-america-podcast)
+- [Elon Musk under federal investigation over $44bn Twitter deal – filing](https://www.theguardian.com/technology/2022/oct/13/elon-musk-investigation-twitter-takeover-deal)
+- [Inside Frieze: what can it tell us about art, money and power in 2022? – podcast](https://www.theguardian.com/news/audio/2022/oct/14/inside-frieze-what-can-it-tell-us-about-art-money-power-2022-podcast)
+- [Five people, including one police officer, killed in North Carolina shooting](https://www.theguardian.com/us-news/2022/oct/13/north-carolina-shooting)
+- [She Said review – a stirring drama about the fall of Harvey Weinstein](https://www.theguardian.com/film/2022/oct/13/she-said-review-a-stirring-drama-about-the-fall-of-harvey-weinstein)
+- [‘Do you believe this?’: New video shows how Nancy Pelosi took charge in Capitol riot](https://www.theguardian.com/us-news/2022/oct/14/do-you-believe-this-new-video-shows-how-nancy-pelosi-took-charge-in-capitol-riot)
+- [Kwasi Kwarteng dashes home early from US amid tax U-turn chaos](https://www.theguardian.com/politics/2022/oct/14/kwasi-kwarteng-dashes-home-early-from-us-amid-tax-u-turn-chaos)
+- [Dutch crown princess moves out of student flat after security threats](https://www.theguardian.com/world/2022/oct/14/dutch-crown-princess-moves-out-of-student-flat-after-security-threats)
+- [Hope for stability as Iraqi parliament elects president](https://www.theguardian.com/world/2022/oct/14/hope-for-stability-as-iraqi-parliament-elects-president)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

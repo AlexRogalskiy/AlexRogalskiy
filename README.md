@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [BrandPost: Bigger Together: How to Maximize Mainframe’s Value](https://www.computerworld.com/article/3676598/bigger-together-how-to-maximize-mainframe-s-value.html#tk.rss_all)
+- [Zero-days flaws mean it&#39;s time to patch Exchange and Windows](https://www.computerworld.com/article/3676636/zero-days-flaws-mean-its-time-to-patch-exchange-and-windows.html#tk.rss_all)
+- [BrandPost: Ethical Dilemmas of AI](https://www.computerworld.com/article/3676599/ethical-dilemmas-of-ai.html#tk.rss_all)
+- [BrandPost: Beyond Encryption: A Layered Approach to Cyberthreat Defense](https://www.computerworld.com/article/3676635/beyond-encryption-a-layered-approach-to-cyberthreat-defense.html#tk.rss_all)
+- [BrandPost: The Future of the Hybrid Cloud](https://www.computerworld.com/article/3676692/the-future-of-the-hybrid-cloud.html#tk.rss_all)
+- [Why are you hoarding your old smartphones?](https://www.computerworld.com/article/3676908/why-are-you-hoarding-your-old-smartphones.html#tk.rss_all)
+- [Bashing 4 new myths about digital nomads](https://www.computerworld.com/article/3676669/bashing-4-new-myths-about-digital-nomads.html#tk.rss_all)
+- [Google Pixel 7 vs. every past Pixel: To upgrade or not to upgrade?](https://www.computerworld.com/article/3676569/google-pixel-7-vs-past-pixel-upgrade.html#tk.rss_all)
+- [Google Smart Lock: The complete guide](https://www.computerworld.com/article/3322626/google-smart-lock-complete-guide.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [How many jobs are available in technology?](https://www.computerworld.com/article/3542681/how-many-jobs-are-available-in-technology.html#tk.rss_all)
-- [How will Meta handle a dose of Apple Reality?](https://www.computerworld.com/article/3676633/how-will-meta-handle-a-dose-of-apple-reality.html#tk.rss_all)
-- [Office to be rebranded Microsoft 365](https://www.computerworld.com/article/3676828/office-to-be-rebranded-microsoft-365.html#tk.rss_all)
-- [The Microsoft-Cisco Teams collaboration could create an interoperability revolution](https://www.computerworld.com/article/3676631/the-microsoft-cisco-teams-collaboration-could-create-an-interoperability-revolution.html#tk.rss_all)
-- [Would a US digital dollar let the government track you?](https://www.computerworld.com/article/3676591/would-a-us-digital-dollar-let-the-government-track-you.html#tk.rss_all)
-- [Microsoft relaunches Syntex with broad set of AI-based content management tools](https://www.computerworld.com/article/3676509/microsoft-relaunches-syntex-with-broad-set-of-ai-based-content-management-tools.html#tk.rss_all)
-- [This is why Apple will lead the business market](https://www.computerworld.com/article/3676150/this-is-why-apple-will-lead-the-business-market.html#tk.rss_all)
-- [Asana boosts goal tracking, resource management, and security](https://www.computerworld.com/article/3676233/asana-boosts-goal-tracking-resource-management-and-security.html#tk.rss_all)
-- [Will the CHIPS Act really bring back semiconductor production and tech jobs?](https://www.computerworld.com/article/3676128/will-the-chips-act-really-bring-back-semiconductor-production-and-tech-jobs.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

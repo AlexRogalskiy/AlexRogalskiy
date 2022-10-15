@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Dissidents in China detained and harassed as Beijing prepares for party congress](https://www.theguardian.com/world/2022/oct/14/dissidents-in-china-detained-and-harassed-as-beijing-prepares-for-party-congress)
-- [Why Nevada will prove crucial in November: Politics Weekly America – podcast](https://www.theguardian.com/politics/audio/2022/oct/14/why-nevada-prove-crucial-november-midterms-politics-weekly-america-podcast)
-- [Elon Musk under federal investigation over $44bn Twitter deal – filing](https://www.theguardian.com/technology/2022/oct/13/elon-musk-investigation-twitter-takeover-deal)
-- [Inside Frieze: what can it tell us about art, money and power in 2022? – podcast](https://www.theguardian.com/news/audio/2022/oct/14/inside-frieze-what-can-it-tell-us-about-art-money-power-2022-podcast)
-- [Five people, including one police officer, killed in North Carolina shooting](https://www.theguardian.com/us-news/2022/oct/13/north-carolina-shooting)
-- [She Said review – a stirring drama about the fall of Harvey Weinstein](https://www.theguardian.com/film/2022/oct/13/she-said-review-a-stirring-drama-about-the-fall-of-harvey-weinstein)
-- [‘Do you believe this?’: New video shows how Nancy Pelosi took charge in Capitol riot](https://www.theguardian.com/us-news/2022/oct/14/do-you-believe-this-new-video-shows-how-nancy-pelosi-took-charge-in-capitol-riot)
-- [Kwasi Kwarteng dashes home early from US amid tax U-turn chaos](https://www.theguardian.com/politics/2022/oct/14/kwasi-kwarteng-dashes-home-early-from-us-amid-tax-u-turn-chaos)
-- [Dutch crown princess moves out of student flat after security threats](https://www.theguardian.com/world/2022/oct/14/dutch-crown-princess-moves-out-of-student-flat-after-security-threats)
-- [Hope for stability as Iraqi parliament elects president](https://www.theguardian.com/world/2022/oct/14/hope-for-stability-as-iraqi-parliament-elects-president)
+- [Herschel Walker denies abortion ban support and brandishes ‘police badge’ in Georgia debate](https://www.theguardian.com/us-news/2022/oct/15/us-midterm-elections-herschel-walker-abortion-ban-police-badge-georgia-senate-debate-warnock)
+- [Turkey coalmine blast leaves at least 25 dead with dozens still trapped](https://www.theguardian.com/world/2022/oct/14/turkey-asmara-coalmine-blast-leaves-at-least-14-dead-and-49-still-trapped-underground)
+- [Iran protests: Joe Biden says US stands with ‘brave women’ after Mahsa Amini death](https://www.theguardian.com/us-news/2022/oct/15/iran-protests-joe-biden-says-us-stands-with-brave-women-after-mahsa-amini-death)
+- [Rupert Murdoch considering merging Fox and News Corp once again](https://www.theguardian.com/media/2022/oct/14/rupert-murdoch-possible-fox-news-corp-merger)
+- [Justice department asks court to reject appointment of Trump special master](https://www.theguardian.com/us-news/2022/oct/14/trump-mar-a-lago-special-master-justice-department)
+- [Filippo Ganna adds 4,000m track cycling world record to hour benchmark](https://www.theguardian.com/sport/2022/oct/15/filippo-ganna-adds-4000m-track-cycling-world-record-to-hour-benchmark)
+- [Five million UK families ‘face mortgage rising by £5,100 a year by end of 2024’](https://www.theguardian.com/money/2022/oct/15/uk-families-mortgage-rising-resolution-foundation)
+- [Broadband customers face up to 14% hike in bills, warns Which?](https://www.theguardian.com/business/2022/oct/15/broadband-customers-face-up-to-14-hike-in-bills-warns-which)
+- [Truss premiership ‘hanging by thread’ after Kwarteng sacking and latest U-turn](https://www.theguardian.com/politics/2022/oct/14/liz-truss-kwasi-kwarteng-sacking-u-turn-hanging-by-thread)
+- [Manchester City ‘can do what they want’ financially despite FFP, Klopp claims](https://www.theguardian.com/football/2022/oct/14/jurgen-klopp-liverpool-manchester-city-ffp)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

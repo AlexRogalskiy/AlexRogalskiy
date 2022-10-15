@@ -370,6 +370,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Understanding DDoS Attacks on US Airport Websites and Escalating Critical Infrastructure Cyberattacks](https://www.informationweek.com/security-and-risk-strategy/understanding-ddos-attacks-on-us-airport-websites-and-escalating-critical-infrastructure-cyberattacks)
+- [DC Fintech Week Explores Risks and Opportunity in Crypto Winter](https://www.informationweek.com/fintech/dc-fintech-week-explores-risks-and-opportunity-in-crypto-winter)
+- [Not A Typical CIO: Lessons Learned as Chief Insights Officer](https://www.informationweek.com/it-life/not-a-typical-cio-lessons-learned-as-chief-insights-officer)
 - [Data Storage IT Careers Evolve with the Cloud](https://www.informationweek.com/it-life/data-storage-it-careers-evolve-with-the-cloud)
 - [IBM Invests in Emerging Digital Product Engineering Market](https://www.informationweek.com/strategic-cio/ibm-invests-in-emerging-digital-product-engineering-market)
 - [Can Your Company Justify an IT R&amp;D Department?](https://www.informationweek.com/strategic-cio/can-your-company-justify-an-it-r-d-department-)
@@ -377,9 +380,6 @@
 - [Quiet Quitting in the IT Department Impacts the Entire Enterprise](https://www.informationweek.com/it-life/quiet-quitting-in-the-it-department-impacts-the-entire-enterprise)
 - [Uniting Technology and Sustainability to Drive Value](https://www.informationweek.com/sustainability/uniting-technology-and-sustainability-to-drive-value)
 - [Back to the Future: The Rise of Edge Computing](https://www.informationweek.com/big-data/back-to-the-future-the-rise-of-edge-computing)
-- [What to Expect in 2023: IT Spending, Recession, Talent Crisis, Privacy](https://www.informationweek.com/strategic-cio/what-to-expect-in-2023-it-spending-recession-talent-crisis-privacy)
-- [How IT Leaders Can Survive While Helping Mergers Succeed](https://www.informationweek.com/strategic-cio/how-it-leaders-can-survive-while-helping-mergers-succeed)
-- [Looking to Insulate Growth? Leverage an Outside-In Perspective](https://www.informationweek.com/enterprise-agility/looking-to-insulate-growth-leverage-an-outside-in-perspective)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

@@ -400,16 +400,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Malicious WhatsApp add-on highlights risks of third-party mods](https://www.computerweekly.com/news/252526108/Malicious-WhatsApp-add-on-highlights-risks-of-third-party-mods)
+- [Annual costs of Hackney ransomware attack exceed £12m](https://www.computerweekly.com/news/252526106/Annual-costs-of-Hackney-ransomware-attack-exceed-12m)
+- [Office 365 email encryption flaw could pose risk to user privacy](https://www.computerweekly.com/news/252526100/Office-365-email-encryption-flaw-could-pose-risk-to-user-privacy)
+- [Fujitsu to finally face blame for its part in Post Office Horizon scandal](https://www.computerweekly.com/news/252526102/Fujitsu-to-finally-face-up-to-blame-for-its-part-in-Post-Office-Horizon-scandal)
+- [Advanced: Healthcare data was stolen in LockBit 3.0 attack](https://www.computerweekly.com/news/252526099/Advanced-Healthcare-data-was-stolen-in-LockBit-30-attack)
+- [Protecting children by scanning encrypted messages is ‘magical thinking’, says Cambridge professor](https://www.computerweekly.com/news/252526059/Scanning-encrypted-messages-to-protect-children-is-magical-thinking-says-Cambridge-professor)
 - [Cyber training firm KnowBe4 bought by private equity firm](https://www.computerweekly.com/news/252526052/Cyber-training-firm-KnowBe4-bought-by-private-equity-firm)
 - [Unsung Heroes Awards celebrate diversity in cyber community](https://www.computerweekly.com/news/252526046/Unsung-Heroes-Awards-celebrate-diversity-in-cyber-community)
 - [Dutch influence standards for post-quantum cryptography](https://www.computerweekly.com/news/252526051/Dutch-influence-standards-for-post-quantum-cryptography)
 - [Perpetrators of subpostmaster suffering in Horizon scandal must face public inquiry](https://www.computerweekly.com/news/252526045/Those-responsible-for-subpostmaster-suffering-in-Horizon-scandal-must-face-public-inquiry)
-- [Is object storage good for databases?](https://www.computerweekly.com/feature/Is-object-storage-good-for-databases)
-- [Gartner: Remote work, zero trust, cloud still driving cyber spend](https://www.computerweekly.com/news/252526040/Gartner-Remote-work-zero-trust-cloud-still-driving-cyber-spend)
-- [CW Middle East: Qatar strengthens cyber defences ahead of FIFA World Cup](https://www.computerweekly.com/ezine/CW-Middle-East/CW-Middle-East-Qatar-strengthens-cyber-defences-ahead-of-FIFA-World-Cup)
-- [Turing launches government-backed AI standards information hub](https://www.computerweekly.com/news/252526022/Turing-launches-government-backed-AI-standards-information-hub)
-- [Bowled out: NVMe flash pioneer Pavilion Data ceases business](https://www.computerweekly.com/news/252526009/Bowled-out-NVMe-flash-pioneer-Pavilion-Data-ceases-business)
-- [IT Sustainability Think Tank: How IT buyers can verify the green claims of their supply chain](https://www.computerweekly.com/opinion/IT-Sustainability-Think-Tank-How-IT-buyers-can-verify-the-green-claims-of-their-supply-chain)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

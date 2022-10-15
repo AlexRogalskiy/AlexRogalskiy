@@ -415,16 +415,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [I went from cleaning toilets to IT Analyst in two years, advice on my next steps?](https://www.reddit.com/r/InformationTechnology/comments/y4c0b0/i_went_from_cleaning_toilets_to_it_analyst_in_two/)
+- [Recommend a PowerPoint viewer](https://www.reddit.com/r/InformationTechnology/comments/y49qib/recommend_a_powerpoint_viewer/)
+- [Getting metadata from jpeg included in body of email](https://www.reddit.com/r/InformationTechnology/comments/y3u58h/getting_metadata_from_jpeg_included_in_body_of/)
+- [How to start an IT career without a degree?](https://www.reddit.com/r/InformationTechnology/comments/y3s686/how_to_start_an_it_career_without_a_degree/)
 - [I&amp;O vs. S&amp;A](https://www.reddit.com/r/InformationTechnology/comments/y3hmpv/io_vs_sa/)
 - [what is the difference between Current State Modulation and State transition Modulation?](https://www.reddit.com/r/InformationTechnology/comments/y3e9tt/what_is_the_difference_between_current_state/)
 - [New Computer Setup](https://www.reddit.com/r/InformationTechnology/comments/y39hnt/new_computer_setup/)
 - [New User Checklist](https://www.reddit.com/r/InformationTechnology/comments/y30btl/new_user_checklist/)
 - [Study tips](https://www.reddit.com/r/InformationTechnology/comments/y2l21f/study_tips/)
 - [Need help - lagging gaming - network switch](https://www.reddit.com/r/InformationTechnology/comments/y2jqn0/need_help_lagging_gaming_network_switch/)
-- [Best naming conventions for computers at a small start up](https://www.reddit.com/r/InformationTechnology/comments/y2h245/best_naming_conventions_for_computers_at_a_small/)
-- [How do you pronounce the abbreviation “gif”?](https://www.reddit.com/r/InformationTechnology/comments/y29nm4/how_do_you_pronounce_the_abbreviation_gif/)
-- [Help needed - Fill out a short survey for my school project](https://www.reddit.com/r/InformationTechnology/comments/y27rqd/help_needed_fill_out_a_short_survey_for_my_school/)
-- [New Infrastructure](https://www.reddit.com/r/InformationTechnology/comments/y25xgl/new_infrastructure/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

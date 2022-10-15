@@ -430,16 +430,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Hamilton employee mistakenly sends email blast with all names and addresses visible](https://www.itworldcanada.com/article/hamilton-employee-mistakenly-sends-email-blast-with-all-names-and-addresses-visible/508029)
+- [Cyber Security Today, Week in Review for Friday, Oct. 14, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-oct-14-2022/507853)
+- [Technology Impact Awards highlight innovative companies in British Columbia](https://www.itworldcanada.com/article/technology-impact-awards-highlight-innovative-companies-in-british-columbia/507291)
+- [Microsoft Ignite 2022: Microsoft Teams updates and features](https://www.itworldcanada.com/article/microsoft-ignite-2022-microsoft-teams-updates-and-features/507813)
+- [Why call police after a cyber attack? Because they’re waiting for you](https://www.itworldcanada.com/article/why-call-police-after-a-cyber-attack-because-theyre-waiting-for-you/507885)
+- [Sidebar: When you want to call police about a cyber incident](https://www.itworldcanada.com/article/sidebar-when-you-want-to-call-police-about-a-cyber-incident/507882)
+- [Ericsson Canada partners with Montreal universities on 5G sustainablity research](https://www.itworldcanada.com/article/ericsson-canada-partners-with-montreal-universities-on-5g-sustainablity-research/507911)
+- [Cyber Security Today, Oct. 14, 2022 – The Emotet botnet has improved, phony Google Translate pages used for phishing, fake COVID scams in the US continue, and more](https://www.itworldcanada.com/article/cyber-security-today-oct-14-2022-the-emotet-botnet-has-improved-phony-google-translate-pages-used-for-phishing-fake-covid-scams-in-the-us-continue-and-more/507844)
+- [Hashtag Trending Oct. 14 – TikTok e-commerce; Amazon launches Kuiper satellites; Meta’s new VR headsets](https://www.itworldcanada.com/article/hashtag-trending-oct-14-tiktok-e-commerce-amazon-launches-kuiper-satellites-metas-new-vr-headsets/507775)
 - [Cubic announces new partnership and highlights its focus on sustainable solutions](https://www.itworldcanada.com/article/cubic-announces-new-partnership-and-highlights-its-focus-on-sustainable-solutions/507639)
-- [Schneider CEO call for increased action to fight ‘triple crisis’](https://www.itworldcanada.com/article/schneider-ceo-call-for-increased-action-to-fight-triple-crisis/507718)
-- [Microsoft finally updates the Surface Studio after four years, but is it enough?](https://www.itworldcanada.com/article/microsoft-finally-updates-the-surface-studio-after-four-years-but-is-it-enough/507725)
-- [Google Cloud announces new security solutions](https://www.itworldcanada.com/article/google-cloud-announces-new-security-solutions/507670)
-- [AWS launches three new programs to bolster IT and cloud skills and help Ukrainians rejoin the workforce](https://www.itworldcanada.com/article/aws-launches-three-new-programs-to-bolster-it-and-cloud-skills-and-help-ukrainians-rejoin-the-workforce/507632)
-- [Key partnerships announced at Google Cloud Next 2022](https://www.itworldcanada.com/article/key-partnerships-announced-at-google-cloud-next-2022/507443)
-- [Hashtag Trending Oct. 13 – Intel layoffs; Space tech could cut EV charging times; Microsoft army goggles fail test](https://www.itworldcanada.com/article/hashtag-trending-oct-13-intel-layoffs-space-tech-could-cut-ev-charging-times-microsoft-army-goggles-fail-test/507741)
-- [85 per cent of I&amp;O leaders expect to increase their automation within 3 years: Gartner](https://www.itworldcanada.com/article/85-per-cent-of-io-leaders-expect-to-increase-their-automation-within-3-years-gartner/507526)
-- [Sage announces new acquisition, product updates at its Transform event](https://www.itworldcanada.com/article/sage-announces-new-acquisition-product-updates-at-its-transform-event/507652)
-- [Microsoft announces Surface Pro 9 with an Arm processor option](https://www.itworldcanada.com/article/microsoft-announces-surface-pro-9-with-an-arm-processor-option/507653)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

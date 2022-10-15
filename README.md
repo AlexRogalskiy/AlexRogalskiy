@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [A library to create clean architecture projects](https://www.npmjs.com/package/clean-setup)
-- [A Hope for AI](https://geohot.github.io//blog/jekyll/update/2022/10/13/a-hope.html)
-- [NASA: Dart mission altered asteroid&#39;s orbit by 32 minutes – TechSpot](https://www.techspot.com/news/96293-nasa-dart-mission-altered-asteroid-orbit-32-minutes.html)
-- [Wazero: The zero dependency WebAssembly runtime for Go developers](https://wazero.io/)
-- [Tether Slashes Commercial Paper to Zero](https://tether.to/en/tether-slashes-commercial-paper-to-zero/)
-- [The Rust Programming Language, 2nd Edition &lpar;Covering Rust 2021&rpar;](https://nostarch.com/rust-programming-language-2nd-edition)
-- [The Search for the Prefect Sound](https://www.washingtonpost.com/arts-entertainment/interactive/2022/perfect-sound-quality-vinyl-records/)
-- [Beware of Bun.js](https://gist.github.com/littledivy/b9351c3ccf8ab99f7e14461db37044dc)
-- [Using an Amiga in 2021: Making an intro](https://datagubbe.se/mkdem/)
-- [The Appeal of Scientific Heroism](https://www.newyorker.com/culture/annals-of-inquiry/the-appeal-of-scientific-heroism)
+- [Vectrex does things I never thought possible](https://www.youtube.com/watch?v=8Dv15YRAmzM)
+- [Play ball drop game on my Twitter banner](https://twitter.com/_olivernguyen/status/1572484125382311937)
+- [Here&#39;s why you couldn’t see anything on House of the Dragon](https://www.theverge.com/2022/10/3/23386058/house-of-the-dragon-episode-7-too-dark-compression-my-eyes)
+- [China fines Kenya for SGR loan default](https://www.businessdailyafrica.com/bd/economy/china-fines-kenya-sh1-31bn-for-defaulting-on-sgr-loans-3983020)
+- [MC446132: The Office app is becoming the Microsoft 365 app](https://pupuweb.com/mc446132-office-app-becoming-microsoft-365-app/)
+- [Show HN: GPG-fingerprint-filter-GPU – Collide GPG key fingerprints, CUDA powered](https://github.com/cuihaoleo/gpg-fingerprint-filter-gpu)
+- [Will Elon Musk&#39;s Warning About the Future Hold True for Medicine?](https://www.kevinmd.com/2022/10/is-elon-musk-right-about-the-future-of-medicine.html)
+- [How Mobile Phones Became a Privacy Battleground](https://www.nytimes.com/wirecutter/blog/protect-your-privacy-in-mobile-phones/)
+- [Little Rules About Big Things](https://collabfund.com/blog/little-rules-about-big-things/)
+- [GNU Modula-2 patch review status](https://splendidisolation.ddns.net/public/modula2/patchsummary.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

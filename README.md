@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Beware of Bun.js](https://gist.github.com/littledivy/b9351c3ccf8ab99f7e14461db37044dc)
-- [Linear.app](https://linear.app/homepage)
-- [Code Review Handbook](https://www.sledgeworx.io/code-review-handbook/)
-- [Equifax used records it collects from companies to fire employees with 2nd jobs](https://www.businessinsider.com/equifax-fires-employees-for-working-two-jobs-2022-10)
-- [Oracle lays off more than 200 California-based workers](https://www.datacenterdynamics.com/en/news/oracle-lays-off-more-than-200-california-based-workers/)
-- [If AI can read, then plain text can be weaponized &lpar;2019&rpar;](https://bdtechtalks.com/2019/04/02/ai-nlp-paraphrasing-adversarial-attacks/)
-- [Bun v0.2.0](https://github.com/oven-sh/bun/releases/tag/bun-v0.2.0)
-- [Tcl Ported to Go](https://gitlab.com/cznic/tcl)
-- [Deep language algorithms predict semantic comprehension from brain activity](https://www.nature.com/articles/s41598-022-20460-9)
-- [Heaviest element yet detected in an exoplanet atmosphere](https://www.eso.org/public/news/eso2213/)
+- [Is anyone else trying to opt out of Equifax WorkNumber?](https://news.ycombinator.com/item?id=33210775)
+- [The Cancellation of ‘Jihad Rehab’](https://www.nationalreview.com/2022/10/inside-the-shameful-cancellation-of-jihad-rehab-2/)
+- [The VSCode GitLab extension now supports getting code completions from FauxPilot](https://twitter.com/moyix/status/1581069716231049216)
+- [RISC-V Public review for standard extensions Zc](https://groups.google.com/a/groups.riscv.org/g/isa-dev/c/aTgHkmkPXrw)
+- [Disposable Root Servers](https://blog.thc.org/disposable-root-servers)
+- [WiGLE: Wireless Network Mapping](https://www.wigle.net/)
+- [Psychiatry Wars: a lawsuit that put psychoanalysis on trial](https://www.theguardian.com/society/2022/oct/11/psychiatry-wars-psychoanalysis-antidepressants-rachel-aviv)
+- [What Happened to Rod McKuen?](https://slate.com/culture/2022/10/rod-mckuen-best-selling-poet-songs-what-happened.html)
+- [A Chinese American gangster transformed money laundering for drug cartels](https://www.propublica.org/article/china-cartels-xizhi-li-money-laundering)
+- [Sweden’s incoming cabinet says new nuclear reactors will be built](https://www.bloomberg.com/news/articles/2022-10-14/sweden-s-incoming-cabinet-says-will-build-new-nuclear-reactors)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Vectrex does things I never thought possible](https://www.youtube.com/watch?v=8Dv15YRAmzM)
-- [Play ball drop game on my Twitter banner](https://twitter.com/_olivernguyen/status/1572484125382311937)
-- [Here&#39;s why you couldn’t see anything on House of the Dragon](https://www.theverge.com/2022/10/3/23386058/house-of-the-dragon-episode-7-too-dark-compression-my-eyes)
-- [China fines Kenya for SGR loan default](https://www.businessdailyafrica.com/bd/economy/china-fines-kenya-sh1-31bn-for-defaulting-on-sgr-loans-3983020)
-- [MC446132: The Office app is becoming the Microsoft 365 app](https://pupuweb.com/mc446132-office-app-becoming-microsoft-365-app/)
-- [Show HN: GPG-fingerprint-filter-GPU – Collide GPG key fingerprints, CUDA powered](https://github.com/cuihaoleo/gpg-fingerprint-filter-gpu)
-- [Will Elon Musk&#39;s Warning About the Future Hold True for Medicine?](https://www.kevinmd.com/2022/10/is-elon-musk-right-about-the-future-of-medicine.html)
-- [How Mobile Phones Became a Privacy Battleground](https://www.nytimes.com/wirecutter/blog/protect-your-privacy-in-mobile-phones/)
-- [Little Rules About Big Things](https://collabfund.com/blog/little-rules-about-big-things/)
-- [GNU Modula-2 patch review status](https://splendidisolation.ddns.net/public/modula2/patchsummary.html)
+- [Tell HN: Do you use MPC-HC and get colorful artifacts around black lines?](https://news.ycombinator.com/item?id=33220940)
+- [&#39;It&#39;s a scam&#39;: self-driving cars are going nowhere](https://www.autoblog.com/2022/10/08/autonomous-cars-slow-progress-losses-doubt/)
+- [Understanding the Pareto Principle &lpar;The 80/20 Rule&rpar;](https://betterexplained.com/articles/understanding-the-pareto-principle-the-8020-rule/)
+- [7GUIs: A GUI Programming Benchmark](https://eugenkiss.github.io/7guis/)
+- [A short story about the word “chauffeur”](https://songxytr.substack.com/p/1-the-chauffeur-and-the-lost-hook)
+- [Spotify survey hints at $19.99 ‘Platinum’ plan that would include HiFi streaming](https://www.theverge.com/2022/10/14/23404968/spotify-hifi-platinum-survey-library-playlist-features)
+- [Hike 25 Miles Across Boston on the Walking City Trail](https://www.bostontrails.org/)
+- [Avraham Eisenberg – a “highly profitable trading strategy”](https://twitter.com/avi_eisen/status/1581326197241180160)
+- [Tape Deck](http://www.tapedeck.org)
+- [Google&#39;s Journey from Java to Kotlin for Server Side Programming](https://www.youtube.com/watch?v=o14wGByBRAQ)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

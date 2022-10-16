@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Herschel Walker denies abortion ban support and brandishes ‘police badge’ in Georgia debate](https://www.theguardian.com/us-news/2022/oct/15/us-midterm-elections-herschel-walker-abortion-ban-police-badge-georgia-senate-debate-warnock)
-- [Turkey coalmine blast leaves at least 25 dead with dozens still trapped](https://www.theguardian.com/world/2022/oct/14/turkey-asmara-coalmine-blast-leaves-at-least-14-dead-and-49-still-trapped-underground)
-- [Iran protests: Joe Biden says US stands with ‘brave women’ after Mahsa Amini death](https://www.theguardian.com/us-news/2022/oct/15/iran-protests-joe-biden-says-us-stands-with-brave-women-after-mahsa-amini-death)
-- [Rupert Murdoch considering merging Fox and News Corp once again](https://www.theguardian.com/media/2022/oct/14/rupert-murdoch-possible-fox-news-corp-merger)
-- [Justice department asks court to reject appointment of Trump special master](https://www.theguardian.com/us-news/2022/oct/14/trump-mar-a-lago-special-master-justice-department)
-- [Filippo Ganna adds 4,000m track cycling world record to hour benchmark](https://www.theguardian.com/sport/2022/oct/15/filippo-ganna-adds-4000m-track-cycling-world-record-to-hour-benchmark)
-- [Five million UK families ‘face mortgage rising by £5,100 a year by end of 2024’](https://www.theguardian.com/money/2022/oct/15/uk-families-mortgage-rising-resolution-foundation)
-- [Broadband customers face up to 14% hike in bills, warns Which?](https://www.theguardian.com/business/2022/oct/15/broadband-customers-face-up-to-14-hike-in-bills-warns-which)
-- [Truss premiership ‘hanging by thread’ after Kwarteng sacking and latest U-turn](https://www.theguardian.com/politics/2022/oct/14/liz-truss-kwasi-kwarteng-sacking-u-turn-hanging-by-thread)
-- [Manchester City ‘can do what they want’ financially despite FFP, Klopp claims](https://www.theguardian.com/football/2022/oct/14/jurgen-klopp-liverpool-manchester-city-ffp)
+- [Xi Jinping speech opens China Communist party congress](https://www.theguardian.com/world/2022/oct/16/xi-jinping-speech-opens-china-communist-party-congress)
+- [‘Send off the clowns’: Labour ads tear into Tories amid Truss crisis](https://www.theguardian.com/politics/2022/oct/16/send-off-the-clowns-labour-ads-tear-into-tories-amid-truss-crisis)
+- [Police make arrest in suspected Stockton serial killer case](https://www.theguardian.com/us-news/2022/oct/16/police-make-arrest-in-suspected-stockton-serial-killer-case)
+- [In wake of nursery killings, Thailand faces reckoning over drugs, guns and mental health](https://www.theguardian.com/world/2022/oct/16/in-wake-of-nursery-killings-thailand-faces-reckoning-over-drugs-guns-and-mental-health)
+- [BAE Systems in middle of dogfight between Saudis and Biden over oil](https://www.theguardian.com/business/2022/oct/16/bae-systems-in-middle-of-dogfight-between-saudis-and-biden-over-oil)
+- [Common drugs could fight obesity and diabetes, say scientists](https://www.theguardian.com/science/2022/oct/16/common-drugs-could-fight-obesity-and-diabetes-say-scientists)
+- [Government to unveil crackdown on climate activism and strike action](https://www.theguardian.com/world/2022/oct/16/crackdown-strike-action-activism-protests-london-glue-police)
+- [Michael Cheika: ‘Lebanese sport doesn’t get many moments like this’](https://www.theguardian.com/sport/2022/oct/16/michael-cheika-lebanese-sport-doesnt-get-many-moments-like-this)
+- [‘I’m in survival mode’: crackdown on journalists intensifies in Iran](https://www.theguardian.com/world/2022/oct/16/im-in-survival-mode-crackdown-on-journalists-intensifies-in-iran)
+- [Claressa Shields beats Savannah Marshall in thriller to unify world titles](https://www.theguardian.com/sport/2022/oct/15/claressa-shields-beats-savannah-marshall-in-thriller-to-unify-world-titles)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

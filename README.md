@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Is anyone else trying to opt out of Equifax WorkNumber?](https://news.ycombinator.com/item?id=33210775)
-- [The Cancellation of ‘Jihad Rehab’](https://www.nationalreview.com/2022/10/inside-the-shameful-cancellation-of-jihad-rehab-2/)
-- [The VSCode GitLab extension now supports getting code completions from FauxPilot](https://twitter.com/moyix/status/1581069716231049216)
-- [RISC-V Public review for standard extensions Zc](https://groups.google.com/a/groups.riscv.org/g/isa-dev/c/aTgHkmkPXrw)
-- [Disposable Root Servers](https://blog.thc.org/disposable-root-servers)
-- [WiGLE: Wireless Network Mapping](https://www.wigle.net/)
-- [Psychiatry Wars: a lawsuit that put psychoanalysis on trial](https://www.theguardian.com/society/2022/oct/11/psychiatry-wars-psychoanalysis-antidepressants-rachel-aviv)
-- [What Happened to Rod McKuen?](https://slate.com/culture/2022/10/rod-mckuen-best-selling-poet-songs-what-happened.html)
-- [A Chinese American gangster transformed money laundering for drug cartels](https://www.propublica.org/article/china-cartels-xizhi-li-money-laundering)
-- [Sweden’s incoming cabinet says new nuclear reactors will be built](https://www.bloomberg.com/news/articles/2022-10-14/sweden-s-incoming-cabinet-says-will-build-new-nuclear-reactors)
+- [Apple bought out all of Newsweek&#39;s 1984 Election issue ad space for Mac](https://aresluna.org/attached/computerhistory/ads/international/apple/mac-newsweek)
+- [OpenAPI Generator allows generation of API client libraries from OpenAPI Specs](https://github.com/OpenAPITools/openapi-generator)
+- [US Export Restrictions, Intel Layoffs, Applied Materials, and TSMC](https://www.fabricatedknowledge.com/p/us-export-restrictions-intel-layoffs)
+- [AdaptOver: Persistent DoS and IMSI Extraction from 3.8km away](https://dl.acm.org/doi/10.1145/3495243.3560525)
+- [Goldfish Social – Free open source alternative for Vine / TikTok &lpar;alpha&rpar;](https://github.com/Goldfish-Social/Goldfish)
+- [Show HN: A social network like Myspace, built on top of Notion](https://mynotion.space)
+- [The Wonderfully Terrible World of C and C++ Text Encoding APIs &lpar;With Some Rust&rpar;](https://thephd.dev/the-c-c++-rust-string-text-encoding-api-landscape)
+- [Promoted.ai &lpar;YC W21&rpar; Is Hiring a Staff ML Engineer](https://www.ycombinator.com/companies/promoted/jobs/8f7rQXj-staff-machine-learning-engineer)
+- [Logseq: Privacy-First, Joyful Platform for Knowledge Management](https://logseq.com/?)
+- [Moving from React to Htmx](https://htmx.org/essays/a-real-world-react-to-htmx-port/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

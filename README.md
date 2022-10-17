@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Apple bought out all of Newsweek&#39;s 1984 Election issue ad space for Mac](https://aresluna.org/attached/computerhistory/ads/international/apple/mac-newsweek)
-- [OpenAPI Generator allows generation of API client libraries from OpenAPI Specs](https://github.com/OpenAPITools/openapi-generator)
-- [US Export Restrictions, Intel Layoffs, Applied Materials, and TSMC](https://www.fabricatedknowledge.com/p/us-export-restrictions-intel-layoffs)
-- [AdaptOver: Persistent DoS and IMSI Extraction from 3.8km away](https://dl.acm.org/doi/10.1145/3495243.3560525)
-- [Goldfish Social – Free open source alternative for Vine / TikTok &lpar;alpha&rpar;](https://github.com/Goldfish-Social/Goldfish)
-- [Show HN: A social network like Myspace, built on top of Notion](https://mynotion.space)
-- [The Wonderfully Terrible World of C and C++ Text Encoding APIs &lpar;With Some Rust&rpar;](https://thephd.dev/the-c-c++-rust-string-text-encoding-api-landscape)
-- [Promoted.ai &lpar;YC W21&rpar; Is Hiring a Staff ML Engineer](https://www.ycombinator.com/companies/promoted/jobs/8f7rQXj-staff-machine-learning-engineer)
-- [Logseq: Privacy-First, Joyful Platform for Knowledge Management](https://logseq.com/?)
-- [Moving from React to Htmx](https://htmx.org/essays/a-real-world-react-to-htmx-port/)
+- [The Dead End](https://redmonk.com/sogrady/2022/09/23/dead-end/)
+- [If ghosts could speak, their speech would approximate this key &lpar;1778&rpar;](https://www.listsofnote.com/p/if-ghosts-could-speak-their-speech)
+- [Ryzen 7000 amdgpu boot hang](http://aigarius.com/blog/2022/10/16/ryzen-7000-amdgpu/)
+- [The Z80&#39;s protected mode discovered after 40 years [video]](https://www.youtube.com/watch?v=DLSUAVPKeYk)
+- [Learn Enough C to Survive](https://codeofhonor.substack.com/p/learn-enough-c-to-survive)
+- [Htmx, WebAssembly, Rust, ServiceWorker Proof of Concept](https://github.com/richardanaya/wasm-service)
+- [Hex Triplet Words](https://hex-triplet-words.glitch.me/)
+- [Show HN: I have built a library of screenplays for movies and TV shows](https://screenplays.io)
+- [Streaming data in Postgres to 1M clients with GraphQL](https://github.com/hasura/graphql-engine/blob/master/architecture/streaming-subscriptions.md)
+- [The US National Archives’ preservation plans for 600 file formats](https://www.archives.gov/preservation/digital-preservation/risk)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

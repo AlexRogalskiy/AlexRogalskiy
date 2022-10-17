@@ -415,6 +415,7 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Does anyone know the power shell command to remove machines out of VLANs?](https://www.reddit.com/r/InformationTechnology/comments/y5xefh/does_anyone_know_the_power_shell_command_to/)
 - [I went from cleaning toilets to IT Analyst in two years, advice on my next steps?](https://www.reddit.com/r/InformationTechnology/comments/y4c0b0/i_went_from_cleaning_toilets_to_it_analyst_in_two/)
 - [Recommend a PowerPoint viewer](https://www.reddit.com/r/InformationTechnology/comments/y49qib/recommend_a_powerpoint_viewer/)
 - [Getting metadata from jpeg included in body of email](https://www.reddit.com/r/InformationTechnology/comments/y3u58h/getting_metadata_from_jpeg_included_in_body_of/)
@@ -424,7 +425,6 @@
 - [New Computer Setup](https://www.reddit.com/r/InformationTechnology/comments/y39hnt/new_computer_setup/)
 - [New User Checklist](https://www.reddit.com/r/InformationTechnology/comments/y30btl/new_user_checklist/)
 - [Study tips](https://www.reddit.com/r/InformationTechnology/comments/y2l21f/study_tips/)
-- [Need help - lagging gaming - network switch](https://www.reddit.com/r/InformationTechnology/comments/y2jqn0/need_help_lagging_gaming_network_switch/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

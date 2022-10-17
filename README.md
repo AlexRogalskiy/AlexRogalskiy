@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Tell HN: Do you use MPC-HC and get colorful artifacts around black lines?](https://news.ycombinator.com/item?id=33220940)
-- [&#39;It&#39;s a scam&#39;: self-driving cars are going nowhere](https://www.autoblog.com/2022/10/08/autonomous-cars-slow-progress-losses-doubt/)
-- [Understanding the Pareto Principle &lpar;The 80/20 Rule&rpar;](https://betterexplained.com/articles/understanding-the-pareto-principle-the-8020-rule/)
-- [7GUIs: A GUI Programming Benchmark](https://eugenkiss.github.io/7guis/)
-- [A short story about the word “chauffeur”](https://songxytr.substack.com/p/1-the-chauffeur-and-the-lost-hook)
-- [Spotify survey hints at $19.99 ‘Platinum’ plan that would include HiFi streaming](https://www.theverge.com/2022/10/14/23404968/spotify-hifi-platinum-survey-library-playlist-features)
-- [Hike 25 Miles Across Boston on the Walking City Trail](https://www.bostontrails.org/)
-- [Avraham Eisenberg – a “highly profitable trading strategy”](https://twitter.com/avi_eisen/status/1581326197241180160)
-- [Tape Deck](http://www.tapedeck.org)
-- [Google&#39;s Journey from Java to Kotlin for Server Side Programming](https://www.youtube.com/watch?v=o14wGByBRAQ)
+- [PicoGUS – ISA Card Emulation on the Raspberry Pi Pico&#39;s RP2040 Microcontroller](https://github.com/polpo/picogus)
+- [Tech Startups Hiring Remote Workers in Canada](https://tommera.com/living-in-canada/20-tech-startups-hiring-remote-workers-in-canada/)
+- [Betafish: A Chess Engine and AI Move Finder](https://github.com/Strryke/betafish)
+- [Privacy respecting weather app for Android](https://f-droid.org/packages/org.secuso.privacyfriendlyweather/)
+- [Ian Knot – Fastest Shoelace Knot](https://www.fieggen.com/shoelace/ianknot.htm)
+- [Apple freezes plan to use China&#39;s YMTC chips amid political pressure](https://asia.nikkei.com/Business/Tech/Semiconductors/Apple-freezes-plan-to-use-China-s-YMTC-chips-amid-political-pressure)
+- [Ask HN: Any simple web apps for teaching kids?](https://news.ycombinator.com/item?id=33229692)
+- [The Dead End](https://redmonk.com/sogrady/2022/09/23/dead-end/)
+- [Artists say AI image generators are copying their style](https://www.businessinsider.com/ai-image-generators-artists-copying-style-thousands-images-2022-10)
+- [BMW to move production of electric minis from UK to China](https://www.reuters.com/business/autos-transportation/bmw-move-production-electric-minis-uk-china-the-times-2022-10-14/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Xi Jinping speech opens China Communist party congress](https://www.theguardian.com/world/2022/oct/16/xi-jinping-speech-opens-china-communist-party-congress)
-- [‘Send off the clowns’: Labour ads tear into Tories amid Truss crisis](https://www.theguardian.com/politics/2022/oct/16/send-off-the-clowns-labour-ads-tear-into-tories-amid-truss-crisis)
-- [Police make arrest in suspected Stockton serial killer case](https://www.theguardian.com/us-news/2022/oct/16/police-make-arrest-in-suspected-stockton-serial-killer-case)
-- [In wake of nursery killings, Thailand faces reckoning over drugs, guns and mental health](https://www.theguardian.com/world/2022/oct/16/in-wake-of-nursery-killings-thailand-faces-reckoning-over-drugs-guns-and-mental-health)
-- [BAE Systems in middle of dogfight between Saudis and Biden over oil](https://www.theguardian.com/business/2022/oct/16/bae-systems-in-middle-of-dogfight-between-saudis-and-biden-over-oil)
-- [Common drugs could fight obesity and diabetes, say scientists](https://www.theguardian.com/science/2022/oct/16/common-drugs-could-fight-obesity-and-diabetes-say-scientists)
-- [Government to unveil crackdown on climate activism and strike action](https://www.theguardian.com/world/2022/oct/16/crackdown-strike-action-activism-protests-london-glue-police)
-- [Michael Cheika: ‘Lebanese sport doesn’t get many moments like this’](https://www.theguardian.com/sport/2022/oct/16/michael-cheika-lebanese-sport-doesnt-get-many-moments-like-this)
-- [‘I’m in survival mode’: crackdown on journalists intensifies in Iran](https://www.theguardian.com/world/2022/oct/16/im-in-survival-mode-crackdown-on-journalists-intensifies-in-iran)
-- [Claressa Shields beats Savannah Marshall in thriller to unify world titles](https://www.theguardian.com/sport/2022/oct/15/claressa-shields-beats-savannah-marshall-in-thriller-to-unify-world-titles)
+- [Seth Green alleges Bill Murray dropped him in bin ‘by his ankles’ as a child](https://www.theguardian.com/film/2022/oct/17/seth-green-alleges-bill-murray-dropped-him-in-bin-by-his-ankles-as-a-child)
+- [Lula brands Bolsonaro ‘tiny little dictator’ in Brazil TV debate](https://www.theguardian.com/world/2022/oct/17/lula-brands-bolsonaro-tiny-little-dictator-in-brazil-tv-debate)
+- [Is it time to rethink the laws on assisted dying? - podcast](https://www.theguardian.com/news/audio/2022/oct/17/is-it-time-to-rethink-the-laws-on-assisted-dying-podcast)
+- [Greece and Turkey trade blame after 92 naked migrants rescued at border](https://www.theguardian.com/world/2022/oct/17/greece-and-turkey-trade-blame-after-92-naked-migrants-rescued-at-border)
+- [British woman fatally shot while hunting boar in France, prosecutor says](https://www.theguardian.com/world/2022/oct/17/british-woman-fatally-shot-while-hunting-boar-in-france-prosecutor-says)
+- [Huge failings kept hundreds of corrupt officers in the force, admits Met chief](https://www.theguardian.com/uk-news/2022/oct/17/hundreds-of-met-police-officers-not-sacked-for-serious-offences-finds-review)
+- [Goldman Sachs expects worse UK recession in 2023](https://www.theguardian.com/business/2022/oct/17/goldman-sachs-expects-worse-uk-recession-in-2023)
+- [UK joins international effort to uncover first moments of the universe](https://www.theguardian.com/science/2022/oct/17/uk-joins-international-effort-to-uncover-first-moments-of-the-universe)
+- [UK house prices rise in October despite economic turmoil](https://www.theguardian.com/business/2022/oct/17/uk-house-prices-rise-in-october-despite-economic-turmoil)
+- [UK can take lead in averting mass atrocity crimes, MPs’ report says](https://www.theguardian.com/politics/2022/oct/17/uk-can-take-lead-in-averting-mass-atrocity-crimes-mps-report-says)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Apple hits the brakes on plans to use Chinese memory chips](https://www.computerworld.com/article/3676856/apple-hits-the-brakes-on-plans-to-use-chinese-memory-chips.html#tk.rss_all)
+- [Why sustainable tech is becoming a top initiative for execs](https://www.computerworld.com/article/3676637/why-sustainable-tech-is-becoming-a-top-initiative-for-execs.html#tk.rss_all)
+- [Get ready for the next big thing in Macs and the iPad Pro](https://www.computerworld.com/article/3676830/get-ready-for-the-next-big-thing-in-macs-and-the-ipad-pro.html#tk.rss_all)
+- [Microsoft Ignite in the rear-view mirror: What we learned](https://www.computerworld.com/article/3676854/microsoft-ignite-in-the-rear-view-mirror-what-we-learned.html#tk.rss_all)
+- [How to choose the best Android phones for business](https://www.computerworld.com/article/3676594/how-to-choose-the-best-android-phones-for-business.html#tk.rss_all)
 - [BrandPost: Bigger Together: How to Maximize Mainframe’s Value](https://www.computerworld.com/article/3676598/bigger-together-how-to-maximize-mainframe-s-value.html#tk.rss_all)
-- [Zero-days flaws mean it&#39;s time to patch Exchange and Windows](https://www.computerworld.com/article/3676636/zero-days-flaws-mean-its-time-to-patch-exchange-and-windows.html#tk.rss_all)
+- [Zero-day flaws mean it&#39;s time to patch Exchange and Windows](https://www.computerworld.com/article/3676636/zero-day-flaws-mean-its-time-to-patch-exchange-and-windows.html#tk.rss_all)
 - [BrandPost: Ethical Dilemmas of AI](https://www.computerworld.com/article/3676599/ethical-dilemmas-of-ai.html#tk.rss_all)
 - [BrandPost: Beyond Encryption: A Layered Approach to Cyberthreat Defense](https://www.computerworld.com/article/3676635/beyond-encryption-a-layered-approach-to-cyberthreat-defense.html#tk.rss_all)
 - [BrandPost: The Future of the Hybrid Cloud](https://www.computerworld.com/article/3676692/the-future-of-the-hybrid-cloud.html#tk.rss_all)
-- [Why are you hoarding your old smartphones?](https://www.computerworld.com/article/3676908/why-are-you-hoarding-your-old-smartphones.html#tk.rss_all)
-- [Bashing 4 new myths about digital nomads](https://www.computerworld.com/article/3676669/bashing-4-new-myths-about-digital-nomads.html#tk.rss_all)
-- [Google Pixel 7 vs. every past Pixel: To upgrade or not to upgrade?](https://www.computerworld.com/article/3676569/google-pixel-7-vs-past-pixel-upgrade.html#tk.rss_all)
-- [Google Smart Lock: The complete guide](https://www.computerworld.com/article/3322626/google-smart-lock-complete-guide.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

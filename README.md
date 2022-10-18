@@ -400,16 +400,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [GRAID puts RAID on a GPU for cut-price disk protection and rebuilds](https://www.computerweekly.com/news/252526179/GRAID-puts-RAID-on-a-GPU-for-cut-price-disk-protection-and-rebuilds)
+- [IR35 reforms repeal scrapped: Government labelled ‘spineless’ over u-turn](https://www.computerweekly.com/news/252526174/IR35-reforms-repeal-scrapped-Government-labelled-spineless-over-U-turn)
+- [Global IT and business services spending slows amid economic fears](https://www.computerweekly.com/news/252526170/Global-IT-and-business-services-spending-slows-amid-economic-fears)
+- [Government u-turns on plans to scrap IR35 reforms in public and private sector from April 2023](https://www.computerweekly.com/news/252526168/Government-u-turns-on-plans-to-scrap-IR35-reforms-in-public-and-private-sector-from-April-2023)
+- [Biden ramps up China chip sanctions](https://www.computerweekly.com/news/252526166/Biden-ramps-up-China-chip-sanctions)
+- [Vodafone starts sizeable three-year SAP systems migration to Google Cloud](https://www.computerweekly.com/news/252526157/Vodafone-starts-sizeable-three-year-SAP-systems-migration-to-Google-Cloud)
+- [IT Sustainability Think Tank: Assessing a supplier’s sustainability credentials](https://www.computerweekly.com/opinion/IT-Sustainability-Think-Tank-Assessing-a-suppliers-sustainability-credentials)
+- [API management: Assessing reliability and security](https://www.computerweekly.com/feature/API-Management-assessing-reliability-and-security)
 - [Malicious WhatsApp add-on highlights risks of third-party mods](https://www.computerweekly.com/news/252526108/Malicious-WhatsApp-add-on-highlights-risks-of-third-party-mods)
 - [Annual costs of Hackney ransomware attack exceed £12m](https://www.computerweekly.com/news/252526106/Annual-costs-of-Hackney-ransomware-attack-exceed-12m)
-- [Office 365 email encryption flaw could pose risk to user privacy](https://www.computerweekly.com/news/252526100/Office-365-email-encryption-flaw-could-pose-risk-to-user-privacy)
-- [Fujitsu to finally face blame for its part in Post Office Horizon scandal](https://www.computerweekly.com/news/252526102/Fujitsu-to-finally-face-up-to-blame-for-its-part-in-Post-Office-Horizon-scandal)
-- [Advanced: Healthcare data was stolen in LockBit 3.0 attack](https://www.computerweekly.com/news/252526099/Advanced-Healthcare-data-was-stolen-in-LockBit-30-attack)
-- [Protecting children by scanning encrypted messages is ‘magical thinking’, says Cambridge professor](https://www.computerweekly.com/news/252526059/Scanning-encrypted-messages-to-protect-children-is-magical-thinking-says-Cambridge-professor)
-- [Cyber training firm KnowBe4 bought by private equity firm](https://www.computerweekly.com/news/252526052/Cyber-training-firm-KnowBe4-bought-by-private-equity-firm)
-- [Unsung Heroes Awards celebrate diversity in cyber community](https://www.computerweekly.com/news/252526046/Unsung-Heroes-Awards-celebrate-diversity-in-cyber-community)
-- [Dutch influence standards for post-quantum cryptography](https://www.computerweekly.com/news/252526051/Dutch-influence-standards-for-post-quantum-cryptography)
-- [Perpetrators of subpostmaster suffering in Horizon scandal must face public inquiry](https://www.computerweekly.com/news/252526045/Those-responsible-for-subpostmaster-suffering-in-Horizon-scandal-must-face-public-inquiry)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

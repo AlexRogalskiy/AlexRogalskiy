@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [PicoGUS – ISA Card Emulation on the Raspberry Pi Pico&#39;s RP2040 Microcontroller](https://github.com/polpo/picogus)
-- [Tech Startups Hiring Remote Workers in Canada](https://tommera.com/living-in-canada/20-tech-startups-hiring-remote-workers-in-canada/)
-- [Betafish: A Chess Engine and AI Move Finder](https://github.com/Strryke/betafish)
-- [Privacy respecting weather app for Android](https://f-droid.org/packages/org.secuso.privacyfriendlyweather/)
-- [Ian Knot – Fastest Shoelace Knot](https://www.fieggen.com/shoelace/ianknot.htm)
-- [Apple freezes plan to use China&#39;s YMTC chips amid political pressure](https://asia.nikkei.com/Business/Tech/Semiconductors/Apple-freezes-plan-to-use-China-s-YMTC-chips-amid-political-pressure)
-- [Ask HN: Any simple web apps for teaching kids?](https://news.ycombinator.com/item?id=33229692)
-- [The Dead End](https://redmonk.com/sogrady/2022/09/23/dead-end/)
-- [Artists say AI image generators are copying their style](https://www.businessinsider.com/ai-image-generators-artists-copying-style-thousands-images-2022-10)
-- [BMW to move production of electric minis from UK to China](https://www.reuters.com/business/autos-transportation/bmw-move-production-electric-minis-uk-china-the-times-2022-10-14/)
+- [Mississippi River’s low water level reveals shipwreck](https://apnews.com/article/louisiana-baton-rouge-mississippi-river-climate-and-environment-4265f1645b7b345e80642208b103f2e5)
+- [The Bruce Willis Deepfake Is Everyone&#39;s Problem](https://www.wired.com/story/bruce-willis-deepfake-rights-law/)
+- [NASA astronaut Jim McDivitt, who led Gemini and Apollo missions, dies at 93](https://www.npr.org/2022/10/17/1129511108/nasa-astronaut-jim-mcdivitt-dies-gemini-apollo)
+- [A Mellotron M400: How the Mellotron Works](https://www.youtube.com/watch?v=ByD8gH7kYxs)
+- [Ask HN: Who’s been laid off and what’s your strategy for seeking new employment](https://news.ycombinator.com/item?id=33242807)
+- [Species Cite: Enter a species name and get a citation from the publication](https://species-cite.herokuapp.com/)
+- [Running Tokio async application in WebAssembly. A talk on RustAu](https://www.youtube.com/watch?v=8Zjf48YGZ0g)
+- [Stability AI Raises $101M at $1B valuation](https://techcrunch.com/2022/10/17/stability-ai-the-startup-behind-stable-diffusion-raises-101m/)
+- [Flint tools found in cave among the oldest ever discovered in Poland](https://scienceinpoland.pl/en/news/news%2C93939%2Cflint-tools-found-cave-among-oldest-ever-discovered-poland.html)
+- [Inabe No Suminawa: Master Craftsman of Hida](https://blogs.bl.uk/asian-and-african/2022/09/inabe-no-suminawa.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

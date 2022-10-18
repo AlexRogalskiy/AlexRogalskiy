@@ -430,16 +430,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
-- [Cloud as Architecture.  A discussion with Jeff DeVerter, CTO Microsoft Products and Services at Rackspace: Hashtag Trending Weekend Edition](https://www.itworldcanada.com/article/cloud-as-architecture-a-discussion-with-jeff-deverter-cto-microsoft-products-and-services-at-rackspace-hashtag-trending-weekend-edition/508130)
-- [Hamilton employee mistakenly sends email blast with all names and addresses visible](https://www.itworldcanada.com/article/hamilton-employee-mistakenly-sends-email-blast-with-all-names-and-addresses-visible/508029)
-- [Cyber Security Today, Week in Review for Friday, Oct. 14, 2022](https://www.itworldcanada.com/article/cyber-security-today-week-in-review-for-friday-oct-14-2022/507853)
-- [Technology Impact Awards highlight innovative companies in British Columbia](https://www.itworldcanada.com/article/technology-impact-awards-highlight-innovative-companies-in-british-columbia/507291)
-- [Microsoft Ignite 2022: Microsoft Teams updates and features](https://www.itworldcanada.com/article/microsoft-ignite-2022-microsoft-teams-updates-and-features/507813)
-- [Why call police after a cyber attack? Because they’re waiting for you](https://www.itworldcanada.com/article/why-call-police-after-a-cyber-attack-because-theyre-waiting-for-you/507885)
-- [Sidebar: When you want to call police about a cyber incident](https://www.itworldcanada.com/article/sidebar-when-you-want-to-call-police-about-a-cyber-incident/507882)
-- [Ericsson Canada partners with Montreal universities on 5G sustainablity research](https://www.itworldcanada.com/article/ericsson-canada-partners-with-montreal-universities-on-5g-sustainablity-research/507911)
-- [Cyber Security Today, Oct. 14, 2022 – The Emotet botnet has improved, phony Google Translate pages used for phishing, fake COVID scams in the US continue, and more](https://www.itworldcanada.com/article/cyber-security-today-oct-14-2022-the-emotet-botnet-has-improved-phony-google-translate-pages-used-for-phishing-fake-covid-scams-in-the-us-continue-and-more/507844)
-- [Hashtag Trending Oct. 14 – TikTok e-commerce; Amazon launches Kuiper satellites; Meta’s new VR headsets](https://www.itworldcanada.com/article/hashtag-trending-oct-14-tiktok-e-commerce-amazon-launches-kuiper-satellites-metas-new-vr-headsets/507775)
+- [Diffie tells security pros: Prepare for the quantum computing era](https://www.itworldcanada.com/article/diffie-tells-security-pros-prepare-for-the-quantum-computing-era/507494)
+- [Hard-coded keys in some Siemens PLCs can be cracked, say researchers](https://www.itworldcanada.com/article/hard-coded-keys-in-some-siemens-plcs-can-be-cracked-say-researchers/507968)
+- [AWS releases biggest survey to date on digital skills](https://www.itworldcanada.com/article/aws-releases-biggest-survey-to-date-on-digital-skills/507837)
+- [The Microsoft Surface Laptop 5 launches with upgraded internals](https://www.itworldcanada.com/article/the-microsoft-surface-laptop-5-launches-with-upgraded-internals/507938)
+- [Top 10 cloud technology predictions from Google Cloud Next](https://www.itworldcanada.com/article/top-10-cloud-technology-predictions-from-google-cloud-next/508041)
+- [Project Bonsai cornerstone of new TCS, Microsoft initiative](https://www.itworldcanada.com/article/project-bonsai-cornerstone-of-new-tcs-microsoft-initiative/508043)
+- [Schneider’s EcoStruxure Energy Hub receives major upgrade](https://www.itworldcanada.com/article/schneiders-ecostruxure-energy-hub-receives-major-upgrade/507820)
+- [New Schneider offerings aimed at helping firms tackle energy, climate woes](https://www.itworldcanada.com/article/new-schneider-offerings-aimed-at-helping-firms-tackle-energy-climate-woes/507832)
+- [This Week in Ransomware – Friday, October 14, 2022](https://www.itworldcanada.com/article/this-week-in-ransomware-friday-october-14-2022/508138)
+- [5 CIO Traits for Digital Transformation Success](https://www.itworldcanada.com/article/5-cio-traits-for-digital-transformation-success/508400)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

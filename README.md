@@ -385,16 +385,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [PostgreSQL 15 streamlines workload management, improves performance](https://www.infoworld.com/article/3676855/postgresql-15-streamlines-workload-management-improves-performance.html#tk.rss_all)
+- [The cloud has a people problem](https://www.infoworld.com/article/3676853/the-cloud-has-a-people-problem.html#tk.rss_all)
+- [The best open source software of 2022](https://www.infoworld.com/article/3676829/the-best-open-source-software-of-2022.html#tk.rss_all)
+- [Get ready for the metaverse](https://www.infoworld.com/article/3676634/get-ready-for-the-metaverse.html#tk.rss_all)
 - [Java needs sequenced collections, OpenJDK proposal says](https://www.infoworld.com/article/3676848/java-needs-sequenced-collections-openjdk-proposal-says.html#tk.rss_all)
 - [Get used to cloud vendor lock-in](https://www.infoworld.com/article/3676072/get-used-to-cloud-vendor-lock-in.html#tk.rss_all)
 - [12 top-notch libraries for C++ programming](https://www.infoworld.com/article/3516151/12-top-notch-libraries-for-c-plus-plus-programming.html#tk.rss_all)
 - [What is Kotlin? The Java alternative explained](https://www.infoworld.com/article/3224868/what-is-kotlin-the-java-alternative-explained.html#tk.rss_all)
 - [Ant Group lists OceanBase on AWS Marketplace to increase reach](https://www.infoworld.com/article/3676595/ant-group-lists-oceanbase-on-aws-marketplace-to-increase-reach.html#tk.rss_all)
 - [Use model validation in minimal APIs in ASP.NET Core 6](https://www.infoworld.com/article/3676077/use-model-validation-in-minimal-apis-in-aspnet-core-6.html#tk.rss_all)
-- [Natural language processing with Apache OpenNLP](https://www.infoworld.com/article/3675893/natural-language-processing-with-apache-opennlp.html#tk.rss_all)
-- [VirtualBox 7 remotes into Oracle Cloud](https://www.infoworld.com/article/3676570/virtualbox-7-remotes-into-oracle-cloud.html#tk.rss_all)
-- [Microsoft relaunches Syntex with broad set of AI-based content management tools](https://www.computerworld.com/article/3676509/microsoft-relaunches-syntex-with-broad-set-of-ai-based-content-management-tools.html#tk.rss_all)
-- [Microsoft debuts PostgreSQL support for Cosmos DB, multiple Azure updates](https://www.infoworld.com/article/3676508/microsoft-adds-azure-services-postgresql-support-for-cosmos-db.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

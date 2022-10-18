@@ -415,6 +415,8 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Does anyone know of any great IT discord servers?](https://www.reddit.com/r/InformationTechnology/comments/y6kzqt/does_anyone_know_of_any_great_it_discord_servers/)
+- [Certificate Server Issues](https://www.reddit.com/r/InformationTechnology/comments/y6kt2x/certificate_server_issues/)
 - [Does anyone know the power shell command to remove machines out of VLANs?](https://www.reddit.com/r/InformationTechnology/comments/y5xefh/does_anyone_know_the_power_shell_command_to/)
 - [I went from cleaning toilets to IT Analyst in two years, advice on my next steps?](https://www.reddit.com/r/InformationTechnology/comments/y4c0b0/i_went_from_cleaning_toilets_to_it_analyst_in_two/)
 - [Recommend a PowerPoint viewer](https://www.reddit.com/r/InformationTechnology/comments/y49qib/recommend_a_powerpoint_viewer/)
@@ -423,8 +425,6 @@
 - [I&amp;O vs. S&amp;A](https://www.reddit.com/r/InformationTechnology/comments/y3hmpv/io_vs_sa/)
 - [what is the difference between Current State Modulation and State transition Modulation?](https://www.reddit.com/r/InformationTechnology/comments/y3e9tt/what_is_the_difference_between_current_state/)
 - [New Computer Setup](https://www.reddit.com/r/InformationTechnology/comments/y39hnt/new_computer_setup/)
-- [New User Checklist](https://www.reddit.com/r/InformationTechnology/comments/y30btl/new_user_checklist/)
-- [Study tips](https://www.reddit.com/r/InformationTechnology/comments/y2l21f/study_tips/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

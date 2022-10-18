@@ -370,6 +370,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [10 Actionable Tips for Managing/Governing Data](https://www.informationweek.com/big-data/10-actionable-tips-for-managing-governing-data)
+- [Digital Transformation and the Virtualization of the Workplace](https://www.informationweek.com/big-data/digital-transformation-and-the-virtualization-of-the-workplace)
+- [How CIOs Can Prepare the Enterprise for the Metaverse](https://www.informationweek.com/strategic-cio/how-cios-can-prepare-the-enterprise-for-the-metaverse)
 - [Understanding DDoS Attacks on US Airport Websites and Escalating Critical Infrastructure Cyberattacks](https://www.informationweek.com/security-and-risk-strategy/understanding-ddos-attacks-on-us-airport-websites-and-escalating-critical-infrastructure-cyberattacks)
 - [DC Fintech Week Explores Risks and Opportunity in Crypto Winter](https://www.informationweek.com/fintech/dc-fintech-week-explores-risks-and-opportunity-in-crypto-winter)
 - [Not A Typical CIO: Lessons Learned as Chief Insights Officer](https://www.informationweek.com/it-life/not-a-typical-cio-lessons-learned-as-chief-insights-officer)
@@ -377,9 +380,6 @@
 - [IBM Invests in Emerging Digital Product Engineering Market](https://www.informationweek.com/strategic-cio/ibm-invests-in-emerging-digital-product-engineering-market)
 - [Can Your Company Justify an IT R&amp;D Department?](https://www.informationweek.com/strategic-cio/can-your-company-justify-an-it-r-d-department-)
 - [Jobs Are Getting in the Way of Work &lpar;Here’s What’s Coming Next&rpar;](https://www.informationweek.com/strategic-cio/jobs-are-getting-in-the-way-of-work-here-s-what-s-coming-next-)
-- [Quiet Quitting in the IT Department Impacts the Entire Enterprise](https://www.informationweek.com/it-life/quiet-quitting-in-the-it-department-impacts-the-entire-enterprise)
-- [Uniting Technology and Sustainability to Drive Value](https://www.informationweek.com/sustainability/uniting-technology-and-sustainability-to-drive-value)
-- [Back to the Future: The Rise of Edge Computing](https://www.informationweek.com/big-data/back-to-the-future-the-rise-of-edge-computing)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

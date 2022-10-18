@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The Dead End](https://redmonk.com/sogrady/2022/09/23/dead-end/)
-- [If ghosts could speak, their speech would approximate this key &lpar;1778&rpar;](https://www.listsofnote.com/p/if-ghosts-could-speak-their-speech)
-- [Ryzen 7000 amdgpu boot hang](http://aigarius.com/blog/2022/10/16/ryzen-7000-amdgpu/)
-- [The Z80&#39;s protected mode discovered after 40 years [video]](https://www.youtube.com/watch?v=DLSUAVPKeYk)
-- [Learn Enough C to Survive](https://codeofhonor.substack.com/p/learn-enough-c-to-survive)
-- [Htmx, WebAssembly, Rust, ServiceWorker Proof of Concept](https://github.com/richardanaya/wasm-service)
-- [Hex Triplet Words](https://hex-triplet-words.glitch.me/)
-- [Show HN: I have built a library of screenplays for movies and TV shows](https://screenplays.io)
-- [Streaming data in Postgres to 1M clients with GraphQL](https://github.com/hasura/graphql-engine/blob/master/architecture/streaming-subscriptions.md)
-- [The US National Archives’ preservation plans for 600 file formats](https://www.archives.gov/preservation/digital-preservation/risk)
+- [Microsoft layoffs around 1000 people](https://twitter.com/tomwarren/status/1582188080873689088)
+- [How to become a pirate archivist](http://annas-blog.org/blog-how-to-become-a-pirate-archivist.html)
+- [GitHub Copi­lot inves­ti­ga­tion](https://githubcopilotinvestigation.com/)
+- [AI Data Laundering](https://waxy.org/2022/09/ai-data-laundering-how-academic-and-nonprofit-researchers-shield-tech-companies-from-accountability/)
+- [Reverse Engineer’s Perspective on the Boeing 787 ‘51 days’ Directive](https://ioactive.com/reverse-engineers-perspective-on-the-boeing-787-51-days-airworthiness-directive/)
+- [Almost 25% of world’s seafloor now mapped](https://www.hydro-international.com/content/news/seabed-2030-almost-25-of-world-s-seafloor-now-mapped)
+- [How to hide your IP address](https://educatedguesswork.org/posts/traffic-relaying/)
+- [Ask HN: Have you ever heard of users demonstrating against software?](https://news.ycombinator.com/item?id=33238708)
+- [pigz: A parallel implementation of gzip for multi-core machines](https://github.com/madler/pigz)
+- [North Paw](https://sensebridge.net/projects/northpaw/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Seth Green alleges Bill Murray dropped him in bin ‘by his ankles’ as a child](https://www.theguardian.com/film/2022/oct/17/seth-green-alleges-bill-murray-dropped-him-in-bin-by-his-ankles-as-a-child)
-- [Lula brands Bolsonaro ‘tiny little dictator’ in Brazil TV debate](https://www.theguardian.com/world/2022/oct/17/lula-brands-bolsonaro-tiny-little-dictator-in-brazil-tv-debate)
-- [Is it time to rethink the laws on assisted dying? - podcast](https://www.theguardian.com/news/audio/2022/oct/17/is-it-time-to-rethink-the-laws-on-assisted-dying-podcast)
-- [Greece and Turkey trade blame after 92 naked migrants rescued at border](https://www.theguardian.com/world/2022/oct/17/greece-and-turkey-trade-blame-after-92-naked-migrants-rescued-at-border)
-- [British woman fatally shot while hunting boar in France, prosecutor says](https://www.theguardian.com/world/2022/oct/17/british-woman-fatally-shot-while-hunting-boar-in-france-prosecutor-says)
-- [Huge failings kept hundreds of corrupt officers in the force, admits Met chief](https://www.theguardian.com/uk-news/2022/oct/17/hundreds-of-met-police-officers-not-sacked-for-serious-offences-finds-review)
-- [Goldman Sachs expects worse UK recession in 2023](https://www.theguardian.com/business/2022/oct/17/goldman-sachs-expects-worse-uk-recession-in-2023)
-- [UK joins international effort to uncover first moments of the universe](https://www.theguardian.com/science/2022/oct/17/uk-joins-international-effort-to-uncover-first-moments-of-the-universe)
-- [UK house prices rise in October despite economic turmoil](https://www.theguardian.com/business/2022/oct/17/uk-house-prices-rise-in-october-despite-economic-turmoil)
-- [UK can take lead in averting mass atrocity crimes, MPs’ report says](https://www.theguardian.com/politics/2022/oct/17/uk-can-take-lead-in-averting-mass-atrocity-crimes-mps-report-says)
+- [Four missing Oklahoma men found dismembered in river, police say](https://www.theguardian.com/us-news/2022/oct/17/dismembered-bodies-oklahoma-river-four-missing-men)
+- [Who’s running Britain?](https://www.theguardian.com/news/audio/2022/oct/18/whos-running-britain-podcast)
+- [Frequent use of hair-straightening products may raise uterine cancer risk, study says](https://www.theguardian.com/us-news/2022/oct/17/hair-straightening-products-may-increase-risk-of-uterine-cancer)
+- [‘The ghost PM’: what the papers say about Liz Truss’s hold on power](https://www.theguardian.com/uk-news/2022/oct/18/the-ghost-pm-what-the-papers-say-about-liz-trusss-hold-on-power)
+- [Ezra Miller pleads not guilty to stealing liquor from a neighbor’s home](https://www.theguardian.com/film/2022/oct/17/ezra-miller-not-guilty-stealing-liquor-vermont)
+- [RFU and Premiership to face DCMS inquiry as Wasps confirm redundancies](https://www.theguardian.com/sport/2022/oct/17/wasps-relegation-administration-players-redundant-rugby-union-premiership)
+- [Los Angeles city councilmembers cut from committee roles amid pressure to resign](https://www.theguardian.com/us-news/2022/oct/17/los-angeles-city-council-removed-racist-language)
+- [Wildfires in US west fueling extreme weather in other states, study finds](https://www.theguardian.com/us-news/2022/oct/17/wildfires-us-west-extreme-weather-central-states)
+- [UK to issue ‘threat alert’ over China’s attempts to recruit RAF pilots](https://www.theguardian.com/uk-news/2022/oct/18/uk-officials-threat-alert-china-attempts-to-recruit-raf-pilots)
+- [UK justice system ‘ill-equipped’ for rise in fraud, say MPs](https://www.theguardian.com/uk-news/2022/oct/18/uk-justice-system-ill-equipped-for-rise-in-say-mps)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

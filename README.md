@@ -400,16 +400,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [A Computer Weekly buyer’s guide to AI, ML and RPA](https://www.computerweekly.com/ehandbook/A-Computer-Weekly-buyers-guide-to-AI-ML-and-RPA)
+- [Apache vulnerability a risk, but not as widespread as Log4Shell](https://www.computerweekly.com/news/252526218/Apache-vulnerability-a-risk-but-not-as-widespread-as-Log4Shell)
+- [Virtually all vulnerable open source downloads are avoidable](https://www.computerweekly.com/news/252526226/Virtually-all-vulnerable-open-source-downloads-are-avoidable)
+- [Why some businesses are failing at AI](https://www.computerweekly.com/news/252526204/Why-some-businesses-are-failing-at-AI)
+- [Subpostmaster federation failed its members when they needed it most](https://www.computerweekly.com/news/252526209/Subpostmaster-federation-failed-its-members-when-they-needed-it-most)
+- [Castrol to open datacentre immersion cooling test facility at Berkshire HQ](https://www.computerweekly.com/news/252526207/Castrol-to-open-datacentre-immersion-cooling-test-facility-at-HQ)
+- [How Russia hacked a former MI6 spy chief](https://www.computerweekly.com/ezine/Computer-Weekly/How-Russia-hacked-a-former-MI6-spy-chief)
 - [GRAID puts RAID on a GPU for cut-price disk protection and rebuilds](https://www.computerweekly.com/news/252526179/GRAID-puts-RAID-on-a-GPU-for-cut-price-disk-protection-and-rebuilds)
 - [IR35 reforms repeal scrapped: Government labelled ‘spineless’ over u-turn](https://www.computerweekly.com/news/252526174/IR35-reforms-repeal-scrapped-Government-labelled-spineless-over-U-turn)
 - [Global IT and business services spending slows amid economic fears](https://www.computerweekly.com/news/252526170/Global-IT-and-business-services-spending-slows-amid-economic-fears)
-- [Government u-turns on plans to scrap IR35 reforms in public and private sector from April 2023](https://www.computerweekly.com/news/252526168/Government-u-turns-on-plans-to-scrap-IR35-reforms-in-public-and-private-sector-from-April-2023)
-- [Biden ramps up China chip sanctions](https://www.computerweekly.com/news/252526166/Biden-ramps-up-China-chip-sanctions)
-- [Vodafone starts sizeable three-year SAP systems migration to Google Cloud](https://www.computerweekly.com/news/252526157/Vodafone-starts-sizeable-three-year-SAP-systems-migration-to-Google-Cloud)
-- [IT Sustainability Think Tank: Assessing a supplier’s sustainability credentials](https://www.computerweekly.com/opinion/IT-Sustainability-Think-Tank-Assessing-a-suppliers-sustainability-credentials)
-- [API management: Assessing reliability and security](https://www.computerweekly.com/feature/API-Management-assessing-reliability-and-security)
-- [Malicious WhatsApp add-on highlights risks of third-party mods](https://www.computerweekly.com/news/252526108/Malicious-WhatsApp-add-on-highlights-risks-of-third-party-mods)
-- [Annual costs of Hackney ransomware attack exceed £12m](https://www.computerweekly.com/news/252526106/Annual-costs-of-Hackney-ransomware-attack-exceed-12m)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

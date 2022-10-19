@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Four missing Oklahoma men found dismembered in river, police say](https://www.theguardian.com/us-news/2022/oct/17/dismembered-bodies-oklahoma-river-four-missing-men)
-- [Who’s running Britain?](https://www.theguardian.com/news/audio/2022/oct/18/whos-running-britain-podcast)
-- [Frequent use of hair-straightening products may raise uterine cancer risk, study says](https://www.theguardian.com/us-news/2022/oct/17/hair-straightening-products-may-increase-risk-of-uterine-cancer)
-- [‘The ghost PM’: what the papers say about Liz Truss’s hold on power](https://www.theguardian.com/uk-news/2022/oct/18/the-ghost-pm-what-the-papers-say-about-liz-trusss-hold-on-power)
-- [Ezra Miller pleads not guilty to stealing liquor from a neighbor’s home](https://www.theguardian.com/film/2022/oct/17/ezra-miller-not-guilty-stealing-liquor-vermont)
-- [RFU and Premiership to face DCMS inquiry as Wasps confirm redundancies](https://www.theguardian.com/sport/2022/oct/17/wasps-relegation-administration-players-redundant-rugby-union-premiership)
-- [Los Angeles city councilmembers cut from committee roles amid pressure to resign](https://www.theguardian.com/us-news/2022/oct/17/los-angeles-city-council-removed-racist-language)
-- [Wildfires in US west fueling extreme weather in other states, study finds](https://www.theguardian.com/us-news/2022/oct/17/wildfires-us-west-extreme-weather-central-states)
-- [UK to issue ‘threat alert’ over China’s attempts to recruit RAF pilots](https://www.theguardian.com/uk-news/2022/oct/18/uk-officials-threat-alert-china-attempts-to-recruit-raf-pilots)
-- [UK justice system ‘ill-equipped’ for rise in fraud, say MPs](https://www.theguardian.com/uk-news/2022/oct/18/uk-justice-system-ill-equipped-for-rise-in-say-mps)
+- [Daniel Greenberg becomes MPs’ standards tsar in wake of outside job scandals](https://www.theguardian.com/politics/2022/oct/19/daniel-greenberg-becomes-mps-standards-tsar-in-wake-of-outside-job-scandals)
+- [The Crown creator rejects criticism show is ‘unkind’ to King Charles amid row over facts](https://www.theguardian.com/tv-and-radio/2022/oct/19/the-crown-creator-rejects-criticism-show-is-unkind-to-king-charles-amid-row-over-facts)
+- [Julian Assange: Australian government urged to show ‘courage’ against US over charges](https://www.theguardian.com/media/2022/oct/19/julian-assange-australian-government-urged-to-show-courage-against-us-over-charges)
+- [Liz Truss’s attack on nature – podcast](https://www.theguardian.com/news/audio/2022/oct/19/liz-truss-attack-on-nature-podcast)
+- [What do US curbs on selling microchips to China mean for the global economy?](https://www.theguardian.com/world/2022/oct/19/what-do-us-curbs-on-selling-microchips-to-china-mean-for-the-global-economy)
+- [Indonesia to demolish football stadium where scores died in crowd crush](https://www.theguardian.com/world/2022/oct/19/indonesia-to-demolish-football-stadium-where-scores-died-in-crowd-crush)
+- [Kristin Smart: classmate found guilty of murdering California woman missing since 1996](https://www.theguardian.com/us-news/2022/oct/18/kristin-smart-missing-murder-paul-flores-found-guilty)
+- [Russia-Ukraine war latest: what we know on day 238 of the invasion](https://www.theguardian.com/world/2022/oct/19/russia-ukraine-war-latest-what-we-know-on-day-238-of-the-invasion)
+- [California man charged with three deaths in suspected serial killer case](https://www.theguardian.com/us-news/2022/oct/18/california-man-charged-suspected-serial-killer-case)
+- [Next pandemic may come from melting glaciers, new data shows](https://www.theguardian.com/science/2022/oct/19/next-pandemic-may-come-from-melting-glaciers-new-data-shows)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

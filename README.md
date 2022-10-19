@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Mississippi River’s low water level reveals shipwreck](https://apnews.com/article/louisiana-baton-rouge-mississippi-river-climate-and-environment-4265f1645b7b345e80642208b103f2e5)
-- [The Bruce Willis Deepfake Is Everyone&#39;s Problem](https://www.wired.com/story/bruce-willis-deepfake-rights-law/)
-- [NASA astronaut Jim McDivitt, who led Gemini and Apollo missions, dies at 93](https://www.npr.org/2022/10/17/1129511108/nasa-astronaut-jim-mcdivitt-dies-gemini-apollo)
-- [A Mellotron M400: How the Mellotron Works](https://www.youtube.com/watch?v=ByD8gH7kYxs)
-- [Ask HN: Who’s been laid off and what’s your strategy for seeking new employment](https://news.ycombinator.com/item?id=33242807)
-- [Species Cite: Enter a species name and get a citation from the publication](https://species-cite.herokuapp.com/)
-- [Running Tokio async application in WebAssembly. A talk on RustAu](https://www.youtube.com/watch?v=8Zjf48YGZ0g)
-- [Stability AI Raises $101M at $1B valuation](https://techcrunch.com/2022/10/17/stability-ai-the-startup-behind-stable-diffusion-raises-101m/)
-- [Flint tools found in cave among the oldest ever discovered in Poland](https://scienceinpoland.pl/en/news/news%2C93939%2Cflint-tools-found-cave-among-oldest-ever-discovered-poland.html)
-- [Inabe No Suminawa: Master Craftsman of Hida](https://blogs.bl.uk/asian-and-african/2022/09/inabe-no-suminawa.html)
+- [AnySnooze – Chrome Extension for snoozing tabs](https://chrome.google.com/webstore/detail/anysnooze/mebjcmajkcccdjbonefhlbkledilfnjj)
+- [Iterable Delivery Part 4: What Are the Blockers?](https://shermanonsoftware.com/2022/10/18/the-blockers/)
+- [macOS Ventura](https://www.apple.com/macos/ventura/)
+- [If your product is Great, it doesn&#39;t need to be Good &lpar;2010&rpar;](http://paulbuchheit.blogspot.com/2010/02/if-your-product-is-great-it-doesnt-need.html)
+- [Binance Plotted to Dodge Regulators](https://www.reuters.com/investigates/special-report/fintech-crypto-binance-zhao/)
+- [Famous &#39;Star Wars&#39; Poster Was Created in Just 36 Hours](https://www.slashfilm.com/576538/greg-hildebrandt-interview/)
+- [Art and&amp; CODE Symposium: Hackety Hack, why the lucky stiff &lpar;2011&rpar; [video]](https://www.youtube.com/watch?v=20ihzA8v89U)
+- [Future Pinball – A Real Time Pinball Development System](https://futurepinball.com)
+- [Neal.fun](https://neal.fun/)
+- [A Canon of User Experience](http://www.bogieland.com/postings/post_canonux.php)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -415,6 +415,7 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Entry level position](https://www.reddit.com/r/InformationTechnology/comments/y7a4wc/entry_level_position/)
 - [Does anyone know of any great IT discord servers?](https://www.reddit.com/r/InformationTechnology/comments/y6kzqt/does_anyone_know_of_any_great_it_discord_servers/)
 - [Certificate Server Issues](https://www.reddit.com/r/InformationTechnology/comments/y6kt2x/certificate_server_issues/)
 - [Does anyone know the power shell command to remove machines out of VLANs?](https://www.reddit.com/r/InformationTechnology/comments/y5xefh/does_anyone_know_the_power_shell_command_to/)
@@ -424,7 +425,6 @@
 - [How to start an IT career without a degree?](https://www.reddit.com/r/InformationTechnology/comments/y3s686/how_to_start_an_it_career_without_a_degree/)
 - [I&amp;O vs. S&amp;A](https://www.reddit.com/r/InformationTechnology/comments/y3hmpv/io_vs_sa/)
 - [what is the difference between Current State Modulation and State transition Modulation?](https://www.reddit.com/r/InformationTechnology/comments/y3e9tt/what_is_the_difference_between_current_state/)
-- [New Computer Setup](https://www.reddit.com/r/InformationTechnology/comments/y39hnt/new_computer_setup/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

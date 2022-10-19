@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Microsoft layoffs around 1000 people](https://twitter.com/tomwarren/status/1582188080873689088)
-- [How to become a pirate archivist](http://annas-blog.org/blog-how-to-become-a-pirate-archivist.html)
-- [GitHub Copi­lot inves­ti­ga­tion](https://githubcopilotinvestigation.com/)
-- [AI Data Laundering](https://waxy.org/2022/09/ai-data-laundering-how-academic-and-nonprofit-researchers-shield-tech-companies-from-accountability/)
-- [Reverse Engineer’s Perspective on the Boeing 787 ‘51 days’ Directive](https://ioactive.com/reverse-engineers-perspective-on-the-boeing-787-51-days-airworthiness-directive/)
-- [Almost 25% of world’s seafloor now mapped](https://www.hydro-international.com/content/news/seabed-2030-almost-25-of-world-s-seafloor-now-mapped)
-- [How to hide your IP address](https://educatedguesswork.org/posts/traffic-relaying/)
-- [Ask HN: Have you ever heard of users demonstrating against software?](https://news.ycombinator.com/item?id=33238708)
-- [pigz: A parallel implementation of gzip for multi-core machines](https://github.com/madler/pigz)
-- [North Paw](https://sensebridge.net/projects/northpaw/)
+- [81% of IT teams directed to reduce or halt cloud spending](https://venturebeat.com/data-infrastructure/report-81-of-it-teams-directed-to-reduce-or-halt-cloud-spending-by-c-suite/)
+- [IDA cybersecurity software provider Hex-Rays acquired](https://smartfinvc.com/news/smartfin-acquires-leading-cybersecurity-software-provider-hex-rays-together-with-sfpim-and-sriw/)
+- [Show HN: Stable Diffusion, but Fast](https://healthydiffusion.com/?a)
+- [Focus Is Saying No to Good Ideas](https://commoncog.com/focus-saying-no-to-good-ideas/)
+- [Card skimming disproportionally affects those most in need](https://krebsonsecurity.com/2022/10/how-card-skimming-disproportionally-affects-those-most-in-need/)
+- [Ask HN: What not-profit-seeking project are you tinkering with this week?](https://news.ycombinator.com/item?id=33256412)
+- [Starlink Aviation](https://www.starlink.com/aviation)
+- [Ask HN: Am I getting older or did typing on the iPhone become unbearable?](https://news.ycombinator.com/item?id=33256168)
+- [A digital ecommerce transformation &lpar;2017&rpar;](http://joelcrabb.com/?p=334)
+- [An Engine of Improvement for the Social Processes of Science](https://scienceplusplus.org/metascience/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

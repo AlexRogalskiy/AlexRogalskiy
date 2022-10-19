@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Microsoft rolls out first &#39;moment&#39; update for Windows 11; Win 10 22H2 now available](https://www.computerworld.com/article/3676838/microsoft-rolls-out-first-moment-update-for-windows-11-win-10-22h2-now-available.html#tk.rss_all)
+- [Microsoft lays off nearly 1,000 staffers: Reports](https://www.computerworld.com/article/3676580/microsoft-lays-off-nearly-1-000-staffers-reports.html#tk.rss_all)
+- [Why America’s oldest bank launched a crypto custody service](https://www.computerworld.com/article/3676836/why-americas-oldest-bank-launched-a-crypto-custody-service.html#tk.rss_all)
+- [Apple updates the iPad Pro and entry-level iPad](https://www.computerworld.com/article/3676835/apple-updates-the-ipad-pro-and-entry-level-ipad.html#tk.rss_all)
+- [Tableau re-engineers dashboards, adds new analytics tools for business analysts](https://www.computerworld.com/article/3676697/tableau-re-engineers-dashboards-adds-new-analytics-tools-for-business-analysts.html#tk.rss_all)
+- [7 helpful hidden settings for your Google Pixel 7](https://www.computerworld.com/article/3676694/google-pixel-7-settings.html#tk.rss_all)
+- [How to manage and customize Windows Terminal](https://www.computerworld.com/article/3676596/how-to-manage-and-customize-windows-terminal.html#tk.rss_all)
 - [Apple hits the brakes on plans to use Chinese memory chips](https://www.computerworld.com/article/3676856/apple-hits-the-brakes-on-plans-to-use-chinese-memory-chips.html#tk.rss_all)
 - [Why sustainable tech is becoming a top initiative for execs](https://www.computerworld.com/article/3676637/why-sustainable-tech-is-becoming-a-top-initiative-for-execs.html#tk.rss_all)
 - [Get ready for the next big thing in Macs and the iPad Pro](https://www.computerworld.com/article/3676830/get-ready-for-the-next-big-thing-in-macs-and-the-ipad-pro.html#tk.rss_all)
-- [Microsoft Ignite in the rear-view mirror: What we learned](https://www.computerworld.com/article/3676854/microsoft-ignite-in-the-rear-view-mirror-what-we-learned.html#tk.rss_all)
-- [How to choose the best Android phones for business](https://www.computerworld.com/article/3676594/how-to-choose-the-best-android-phones-for-business.html#tk.rss_all)
-- [BrandPost: Bigger Together: How to Maximize Mainframe’s Value](https://www.computerworld.com/article/3676598/bigger-together-how-to-maximize-mainframe-s-value.html#tk.rss_all)
-- [Zero-day flaws mean it&#39;s time to patch Exchange and Windows](https://www.computerworld.com/article/3676636/zero-day-flaws-mean-its-time-to-patch-exchange-and-windows.html#tk.rss_all)
-- [BrandPost: Ethical Dilemmas of AI](https://www.computerworld.com/article/3676599/ethical-dilemmas-of-ai.html#tk.rss_all)
-- [BrandPost: Beyond Encryption: A Layered Approach to Cyberthreat Defense](https://www.computerworld.com/article/3676635/beyond-encryption-a-layered-approach-to-cyberthreat-defense.html#tk.rss_all)
-- [BrandPost: The Future of the Hybrid Cloud](https://www.computerworld.com/article/3676692/the-future-of-the-hybrid-cloud.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [AnySnooze – Chrome Extension for snoozing tabs](https://chrome.google.com/webstore/detail/anysnooze/mebjcmajkcccdjbonefhlbkledilfnjj)
-- [Iterable Delivery Part 4: What Are the Blockers?](https://shermanonsoftware.com/2022/10/18/the-blockers/)
-- [macOS Ventura](https://www.apple.com/macos/ventura/)
-- [If your product is Great, it doesn&#39;t need to be Good &lpar;2010&rpar;](http://paulbuchheit.blogspot.com/2010/02/if-your-product-is-great-it-doesnt-need.html)
-- [Binance Plotted to Dodge Regulators](https://www.reuters.com/investigates/special-report/fintech-crypto-binance-zhao/)
-- [Famous &#39;Star Wars&#39; Poster Was Created in Just 36 Hours](https://www.slashfilm.com/576538/greg-hildebrandt-interview/)
-- [Art and&amp; CODE Symposium: Hackety Hack, why the lucky stiff &lpar;2011&rpar; [video]](https://www.youtube.com/watch?v=20ihzA8v89U)
-- [Future Pinball – A Real Time Pinball Development System](https://futurepinball.com)
-- [Neal.fun](https://neal.fun/)
-- [A Canon of User Experience](http://www.bogieland.com/postings/post_canonux.php)
+- [Spirit shareholders approve takeover by JetBlue after battle for discount airlin](https://www.cnbc.com/2022/10/19/spirit-jetblue-takeover-wins-shareholder-approval.html)
+- [Dropping in on Gottfried Leibniz &lpar;2013&rpar;](https://writings.stephenwolfram.com/2013/05/dropping-in-on-gottfried-leibniz/)
+- [Directors Resign from the Boards of Five Companies – Clayton Act, Section 8](https://www.justice.gov/opa/pr/directors-resign-boards-five-companies-response-justice-department-concerns-about-potentially)
+- [Stop Scanning Me [EU]](https://stopscanningme.eu/en/)
+- [Pig War &lpar;1859&rpar;](https://en.wikipedia.org/wiki/Pig_War_(1859))
+- [Great Britain: Money &lpar;2008&rpar;](http://pierre-marteau.com/wiki/index.php?title=Great_Britain:Money)
+- [Data extraction from vector graphics in scientific publications](https://github.com/jhamlin-ufl/vextract)
+- [AI will replace middle management before robots replace hourly workers](https://chatterhead.bearblog.dev/ai-will-replace-middle-management-not-hourly-workers/)
+- [Show HN: Stable Diffusion, but Fast](https://healthydiffusion.com/?c)
+- [Internet down in multiple cities across France after suspected sabotage](https://www.telegraph.co.uk/world-news/2022/04/27/internet-multiple-cities-across-france-suspected-sabotage/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

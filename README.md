@@ -385,16 +385,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Node.js 19 boosts HTTP throughput](https://www.infoworld.com/article/3677189/nodejs-19-boosts-http-throughput.html#tk.rss_all)
+- [BrandPost: Intel, Wayfair, Red Hat and Aible on Getting AI Results in 30 Days](https://www.infoworld.com/article/3676688/intel-wayfair-red-hat-and-aible-on-getting-ai-results-in-30-days.html#tk.rss_all)
+- [BrandPost: Enhance Cloud Security Posture Management with Confidential VM](https://www.infoworld.com/article/3676629/enhance-cloud-security-posture-management-with-confidential-vm.html#tk.rss_all)
+- [BrandPost: ScyllaDB on the New AWS EC2 I4i Instances: Twice the Throughput &amp; Lower Latency](https://www.infoworld.com/article/3676592/scylladb-on-the-new-aws-ec2-i4i-instances-twice-the-throughput-and-lower-latency.html#tk.rss_all)
+- [BrandPost: MinIO Industry-Leading Multi-Cloud Object Storage Delivers Superior Intel Optimized Performance for Customers](https://www.infoworld.com/article/3676628/minio-industry-leading-multi-cloud-object-storage-delivers-superior-intel-optimized-performance-for.html#tk.rss_all)
+- [BrandPost: Performance Impact of Stacking Abaqus Jobs on 3rd Generation Intel Scalable Processors](https://www.infoworld.com/article/3676589/performance-impact-of-stacking-abaqus-jobs-on-3rd-generation-intel-scalable-processors.html#tk.rss_all)
+- [BrandPost: NASCAR’s Next Gen Race Car Proven Safe by Simulation](https://www.infoworld.com/article/3676588/nascar-s-next-gen-race-car-proven-safe-by-simulation.html#tk.rss_all)
+- [Java 20 begins to take shape](https://www.infoworld.com/article/3676699/java-20-begins-to-take-shape.html#tk.rss_all)
+- [Intro to Qwik: A superfast JavaScript framework](https://www.infoworld.com/article/3676577/intro-to-qwik-a-superfast-javascript-framework.html#tk.rss_all)
 - [Oracle unveils performance pack for Java 8](https://www.infoworld.com/article/3676578/oracle-unveils-performance-pack-for-java-8.html#tk.rss_all)
-- [Oracle debuts MySQL HeatWave Lakehouse to take on rivals](https://www.infoworld.com/article/3676833/oracle-debuts-mysql-heatwave-lakehouse-to-take-on-rivals.html#tk.rss_all)
-- [Run your own Oracle Cloud with Oracle Alloy](https://www.infoworld.com/article/3676859/run-your-own-oracle-cloud-with-oracle-alloy.html#tk.rss_all)
-- [Public package repos expose thousands of API security tokens—and they’re active](https://www.infoworld.com/article/3676831/public-package-repos-expose-thousands-of-active-api-security-tokens.html#tk.rss_all)
-- [Was moving to cloud a mistake?](https://www.infoworld.com/article/3676597/was-moving-to-cloud-a-mistake.html#tk.rss_all)
-- [Lazy vs. eager instantiation in Java: Which is better?](https://www.infoworld.com/article/3675954/lazy-vs-eager-instantiation-in-java-which-is-better.html#tk.rss_all)
-- [PostgreSQL 15 streamlines workload management, improves performance](https://www.infoworld.com/article/3676855/postgresql-15-streamlines-workload-management-improves-performance.html#tk.rss_all)
-- [The cloud has a people problem](https://www.infoworld.com/article/3676853/the-cloud-has-a-people-problem.html#tk.rss_all)
-- [The best open source software of 2022](https://www.infoworld.com/article/3676829/the-best-open-source-software-of-2022.html#tk.rss_all)
-- [How to get ready for the metaverse](https://www.infoworld.com/article/3676634/how-to-get-ready-for-the-metaverse.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

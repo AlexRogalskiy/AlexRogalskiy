@@ -415,16 +415,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Entry level position](https://www.reddit.com/r/InformationTechnology/comments/y7a4wc/entry_level_position/)
+- [LF : WEBSITE CREATOR](https://www.reddit.com/r/InformationTechnology/comments/y8l95e/lf_website_creator/)
+- [Automating AD cleanups, user creation, off boarding and server environment documentation](https://www.reddit.com/r/InformationTechnology/comments/y8fwzh/automating_ad_cleanups_user_creation_off_boarding/)
+- [Service Now Ticketing System](https://www.reddit.com/r/InformationTechnology/comments/y8d0qm/service_now_ticketing_system/)
+- [Credit Card Benefits Banking Details](https://www.reddit.com/r/InformationTechnology/comments/y8blws/credit_card_benefits_banking_details/)
+- [MS-900 - Microsoft 365 Fundamentals Full Course for those that need it](https://www.reddit.com/r/InformationTechnology/comments/y885jl/ms900_microsoft_365_fundamentals_full_course_for/)
+- [WLAN vs WWAN](https://www.reddit.com/r/InformationTechnology/comments/y81yuc/wlan_vs_wwan/)
 - [Does anyone know of any great IT discord servers?](https://www.reddit.com/r/InformationTechnology/comments/y6kzqt/does_anyone_know_of_any_great_it_discord_servers/)
 - [Certificate Server Issues](https://www.reddit.com/r/InformationTechnology/comments/y6kt2x/certificate_server_issues/)
 - [Does anyone know the power shell command to remove machines out of VLANs?](https://www.reddit.com/r/InformationTechnology/comments/y5xefh/does_anyone_know_the_power_shell_command_to/)
 - [I went from cleaning toilets to IT Analyst in two years, advice on my next steps?](https://www.reddit.com/r/InformationTechnology/comments/y4c0b0/i_went_from_cleaning_toilets_to_it_analyst_in_two/)
-- [Recommend a PowerPoint viewer](https://www.reddit.com/r/InformationTechnology/comments/y49qib/recommend_a_powerpoint_viewer/)
-- [Getting metadata from jpeg included in body of email](https://www.reddit.com/r/InformationTechnology/comments/y3u58h/getting_metadata_from_jpeg_included_in_body_of/)
-- [How to start an IT career without a degree?](https://www.reddit.com/r/InformationTechnology/comments/y3s686/how_to_start_an_it_career_without_a_degree/)
-- [I&amp;O vs. S&amp;A](https://www.reddit.com/r/InformationTechnology/comments/y3hmpv/io_vs_sa/)
-- [what is the difference between Current State Modulation and State transition Modulation?](https://www.reddit.com/r/InformationTechnology/comments/y3e9tt/what_is_the_difference_between_current_state/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

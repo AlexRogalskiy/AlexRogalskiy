@@ -400,16 +400,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [A Computer Weekly buyer’s guide to AI, ML and RPA](https://www.computerweekly.com/ehandbook/A-Computer-Weekly-buyers-guide-to-AI-ML-and-RPA)
-- [Apache vulnerability a risk, but not as widespread as Log4Shell](https://www.computerweekly.com/news/252526218/Apache-vulnerability-a-risk-but-not-as-widespread-as-Log4Shell)
-- [Virtually all vulnerable open source downloads are avoidable](https://www.computerweekly.com/news/252526226/Virtually-all-vulnerable-open-source-downloads-are-avoidable)
-- [Why some businesses are failing at AI](https://www.computerweekly.com/news/252526204/Why-some-businesses-are-failing-at-AI)
-- [Subpostmaster federation failed its members when they needed it most](https://www.computerweekly.com/news/252526209/Subpostmaster-federation-failed-its-members-when-they-needed-it-most)
-- [Castrol to open datacentre immersion cooling test facility at Berkshire HQ](https://www.computerweekly.com/news/252526207/Castrol-to-open-datacentre-immersion-cooling-test-facility-at-HQ)
-- [How Russia hacked a former MI6 spy chief](https://www.computerweekly.com/ezine/Computer-Weekly/How-Russia-hacked-a-former-MI6-spy-chief)
-- [GRAID puts RAID on a GPU for cut-price disk protection and rebuilds](https://www.computerweekly.com/news/252526179/GRAID-puts-RAID-on-a-GPU-for-cut-price-disk-protection-and-rebuilds)
-- [IR35 reforms repeal scrapped: Government labelled ‘spineless’ over u-turn](https://www.computerweekly.com/news/252526174/IR35-reforms-repeal-scrapped-Government-labelled-spineless-over-U-turn)
-- [Global IT and business services spending slows amid economic fears](https://www.computerweekly.com/news/252526170/Global-IT-and-business-services-spending-slows-amid-economic-fears)
+- [Computer Weekly announces the Most Influential Women in UK Tech 2022](https://www.computerweekly.com/news/252526203/Computer-Weekly-announces-the-2022-Most-Influential-Women-in-UK-Tech)
+- [Why the Most Influential Woman in UK Tech 2022 created a book of role models](https://www.computerweekly.com/news/252526202/Why-the-Most-Influential-Woman-in-UK-Tech-2022-created-a-book-of-role-models)
+- [Computer Weekly’s Women in UK Tech Rising Stars 2022](https://www.computerweekly.com/news/252526236/Computer-Weeklys-women-in-UK-tech-Rising-Stars-2022)
+- [Ransomware crews regrouping as LockBit rise continues](https://www.computerweekly.com/news/252526278/Ransomware-crews-regrouping-as-LockBit-rise-continues)
+- [Lloyds Bank launches innovation sandbox](https://www.computerweekly.com/news/252526279/Lloyds-Bank-launches-innovation-sandbox)
+- [Greenland investigates potential blockchain-based election system](https://www.computerweekly.com/news/252526273/Greenland-investigate-potential-blockchain-based-election-system)
+- [Work in the metaverse: A Computer Weekly Downtime Upload podcast](https://www.computerweekly.com/podcast/Work-in-the-Metaverse-A-Computer-Weekly-Downtime-Upload-podcast)
+- [Gartner: Hero CIOs are needed again to save businesses](https://www.computerweekly.com/news/252526271/Gartner-Hero-CIOs-are-needed-again-to-save-businesses)
+- [Oracle CloudWorld 2022: Ellison vaunts centrality of healthcare to mission](https://www.computerweekly.com/news/252526259/Oracle-CloudWorld-2022-Ellison-vaunts-centrality-of-healthcare-to-mission)
+- [Treat cyber crime as a ‘strategic threat’, UK businesses told](https://www.computerweekly.com/news/252526265/Treat-cyber-crime-as-strategic-threat-UK-businesses-told)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

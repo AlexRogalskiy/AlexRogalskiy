@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
+- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
+- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
+- [Apple’s next big thing might be healthcare](https://www.computerworld.com/article/3676840/apples-next-big-thing-might-be-healthcare.html#tk.rss_all)
+- [For IT, showing you’re productive matters now more than ever](https://www.computerworld.com/article/3676672/for-it-showing-youre-productive-matters-now-more-than-ever.html#tk.rss_all)
 - [Microsoft rolls out first &#39;moment&#39; update for Windows 11; Win 10 22H2 now available](https://www.computerworld.com/article/3676838/microsoft-rolls-out-first-moment-update-for-windows-11-win-10-22h2-now-available.html#tk.rss_all)
 - [Microsoft lays off nearly 1,000 staffers: Reports](https://www.computerworld.com/article/3676580/microsoft-lays-off-nearly-1-000-staffers-reports.html#tk.rss_all)
 - [Why America’s oldest bank launched a crypto custody service](https://www.computerworld.com/article/3676836/why-americas-oldest-bank-launched-a-crypto-custody-service.html#tk.rss_all)
 - [Apple updates the iPad Pro and entry-level iPad](https://www.computerworld.com/article/3676835/apple-updates-the-ipad-pro-and-entry-level-ipad.html#tk.rss_all)
-- [Tableau re-engineers dashboards, adds new analytics tools for business analysts](https://www.computerworld.com/article/3676697/tableau-re-engineers-dashboards-adds-new-analytics-tools-for-business-analysts.html#tk.rss_all)
-- [7 helpful hidden settings for your Google Pixel 7](https://www.computerworld.com/article/3676694/google-pixel-7-settings.html#tk.rss_all)
-- [How to manage and customize Windows Terminal](https://www.computerworld.com/article/3676596/how-to-manage-and-customize-windows-terminal.html#tk.rss_all)
-- [Apple hits the brakes on plans to use Chinese memory chips](https://www.computerworld.com/article/3676856/apple-hits-the-brakes-on-plans-to-use-chinese-memory-chips.html#tk.rss_all)
-- [Why sustainable tech is becoming a top initiative for execs](https://www.computerworld.com/article/3676637/why-sustainable-tech-is-becoming-a-top-initiative-for-execs.html#tk.rss_all)
-- [Get ready for the next big thing in Macs and the iPad Pro](https://www.computerworld.com/article/3676830/get-ready-for-the-next-big-thing-in-macs-and-the-ipad-pro.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

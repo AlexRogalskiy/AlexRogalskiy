@@ -370,6 +370,9 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [Quick Study:  IT Budgets and Cost Management](https://www.informationweek.com/strategic-cio/quick-study-it-budgets-and-cost-management)
+- [Services You Should Expect From Your Cyber Insurance Provider](https://www.informationweek.com/security-and-risk-strategy/services-you-should-expect-from-your-cyber-insurance-provider)
+- [Cracking the Code for Skills-Based Hiring](https://www.informationweek.com/strategic-cio/cracking-the-code-for-skills-based-hiring)
 - [How the European Energy Crisis Could Impact IT](https://www.informationweek.com/sustainability/how-the-european-energy-crisis-could-impact-it)
 - [How to Tackle Cyberthreats in the Metaverse](https://www.informationweek.com/security-and-risk-strategy/how-to-tackle-cyberthreats-in-the-metaverse)
 - [Helping CIOs Close Skills Gaps Amid Digital Transformation in Financial Services](https://www.informationweek.com/fintech/helping-cios-close-skills-gaps-amid-digital-transformation-in-financial-services)
@@ -377,9 +380,6 @@
 - [Digital Transformation and the Virtualization of the Workplace](https://www.informationweek.com/big-data/digital-transformation-and-the-virtualization-of-the-workplace)
 - [How CIOs Can Prepare the Enterprise for the Metaverse](https://www.informationweek.com/strategic-cio/how-cios-can-prepare-the-enterprise-for-the-metaverse)
 - [Understanding DDoS Attacks on US Airport Websites and Escalating Critical Infrastructure Cyberattacks](https://www.informationweek.com/security-and-risk-strategy/understanding-ddos-attacks-on-us-airport-websites-and-escalating-critical-infrastructure-cyberattacks)
-- [DC Fintech Week Explores Risks and Opportunity in Crypto Winter](https://www.informationweek.com/fintech/dc-fintech-week-explores-risks-and-opportunity-in-crypto-winter)
-- [Not A Typical CIO: Lessons Learned as Chief Insights Officer](https://www.informationweek.com/it-life/not-a-typical-cio-lessons-learned-as-chief-insights-officer)
-- [Data Storage IT Careers Evolve with the Cloud](https://www.informationweek.com/it-life/data-storage-it-careers-evolve-with-the-cloud)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

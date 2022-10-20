@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Daniel Greenberg becomes MPs’ standards tsar in wake of outside job scandals](https://www.theguardian.com/politics/2022/oct/19/daniel-greenberg-becomes-mps-standards-tsar-in-wake-of-outside-job-scandals)
-- [The Crown creator rejects criticism show is ‘unkind’ to King Charles amid row over facts](https://www.theguardian.com/tv-and-radio/2022/oct/19/the-crown-creator-rejects-criticism-show-is-unkind-to-king-charles-amid-row-over-facts)
-- [Julian Assange: Australian government urged to show ‘courage’ against US over charges](https://www.theguardian.com/media/2022/oct/19/julian-assange-australian-government-urged-to-show-courage-against-us-over-charges)
-- [Liz Truss’s attack on nature – podcast](https://www.theguardian.com/news/audio/2022/oct/19/liz-truss-attack-on-nature-podcast)
-- [What do US curbs on selling microchips to China mean for the global economy?](https://www.theguardian.com/world/2022/oct/19/what-do-us-curbs-on-selling-microchips-to-china-mean-for-the-global-economy)
-- [Indonesia to demolish football stadium where scores died in crowd crush](https://www.theguardian.com/world/2022/oct/19/indonesia-to-demolish-football-stadium-where-scores-died-in-crowd-crush)
-- [Kristin Smart: classmate found guilty of murdering California woman missing since 1996](https://www.theguardian.com/us-news/2022/oct/18/kristin-smart-missing-murder-paul-flores-found-guilty)
-- [Russia-Ukraine war latest: what we know on day 238 of the invasion](https://www.theguardian.com/world/2022/oct/19/russia-ukraine-war-latest-what-we-know-on-day-238-of-the-invasion)
-- [California man charged with three deaths in suspected serial killer case](https://www.theguardian.com/us-news/2022/oct/18/california-man-charged-suspected-serial-killer-case)
-- [Next pandemic may come from melting glaciers, new data shows](https://www.theguardian.com/science/2022/oct/19/next-pandemic-may-come-from-melting-glaciers-new-data-shows)
+- [NZ court rejects appeal against 9-month home detention sentence for five rapes](https://www.theguardian.com/world/2022/oct/20/nz-court-rejects-appeal-against-9-month-home-detention-sentence-for-five-rapes)
+- [Beijing steps up Covid measures as cases quadruple during key CCP congress meeting](https://www.theguardian.com/world/2022/oct/20/beijing-steps-up-covid-measures-as-cases-quadruple-during-key-ccp-congress-meeting)
+- [Eight killed in suspected parcel bomb explosions at Myanmar’s Insein prison](https://www.theguardian.com/world/2022/oct/20/killed-in-suspected-parcel-bomb-explosions-at-myanmars-insein-prison)
+- [The all-powerful Xi Jinping – podcast](https://www.theguardian.com/news/audio/2022/oct/20/all-powerful-xi-jinping-china-congress-podcast)
+- [Human rights abuses in Qatar ‘persist on significant scale’, says Amnesty report](https://www.theguardian.com/football/2022/oct/20/fifa-world-cup-human-rights-abuses-qatar-amnesty-international)
+- [Trump signed statement alleging voter fraud knowing it was false, judge says](https://www.theguardian.com/us-news/2022/oct/19/trump-voter-fraud-claim-signed-document)
+- [New Zealand passes plain language bill to jettison jargon](https://www.theguardian.com/world/2022/oct/20/new-zealand-passes-plain-language-bill-to-jettison-jargon)
+- [Liz Truss’s government on the brink after Suella Braverman’s parting shot](https://www.theguardian.com/politics/2022/oct/19/liz-truss-government-on-the-brink-after-suella-bravermans-parting-shot)
+- [Silent Hill 2 remake announced as Konami exhumes hit horror series](https://www.theguardian.com/games/2022/oct/20/silent-hill-2-remake-townfall-ascension-konami-transmission)
+- [Truss publishes plans to ensure transport services run during strikes](https://www.theguardian.com/uk-news/2022/oct/20/truss-publishes-plans-to-ensure-transport-services-run-during-strikes)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [81% of IT teams directed to reduce or halt cloud spending](https://venturebeat.com/data-infrastructure/report-81-of-it-teams-directed-to-reduce-or-halt-cloud-spending-by-c-suite/)
-- [IDA cybersecurity software provider Hex-Rays acquired](https://smartfinvc.com/news/smartfin-acquires-leading-cybersecurity-software-provider-hex-rays-together-with-sfpim-and-sriw/)
-- [Show HN: Stable Diffusion, but Fast](https://healthydiffusion.com/?a)
-- [Focus Is Saying No to Good Ideas](https://commoncog.com/focus-saying-no-to-good-ideas/)
-- [Card skimming disproportionally affects those most in need](https://krebsonsecurity.com/2022/10/how-card-skimming-disproportionally-affects-those-most-in-need/)
-- [Ask HN: What not-profit-seeking project are you tinkering with this week?](https://news.ycombinator.com/item?id=33256412)
-- [Starlink Aviation](https://www.starlink.com/aviation)
-- [Ask HN: Am I getting older or did typing on the iPhone become unbearable?](https://news.ycombinator.com/item?id=33256168)
-- [A digital ecommerce transformation &lpar;2017&rpar;](http://joelcrabb.com/?p=334)
-- [An Engine of Improvement for the Social Processes of Science](https://scienceplusplus.org/metascience/)
+- [Pig War &lpar;1859&rpar;](https://en.wikipedia.org/wiki/Pig_War_(1859))
+- [AI will replace middle management before robots replace hourly workers](https://chatterhead.bearblog.dev/ai-will-replace-middle-management-not-hourly-workers/)
+- [A large scale non-linear optimization library](https://github.com/ceres-solver/ceres-solver)
+- [Stop Writing Dead Programs](https://jackrusher.com/strange-loop-2022/)
+- [Pocket Casts Mobile Apps Are Now Open Source](https://blog.pocketcasts.com/2022/10/19/pocket-casts-mobile-apps-are-now-open-source/)
+- [The Mystery of 355/113 &lpar;2010&rpar;](http://davidbau.com/archives/2010/03/14/the_mystery_of_355113.html)
+- [PostgresML is 8-40x faster than Python HTTP microservices](https://postgresml.org/blog/postgresml-is-8x-faster-than-python-http-microservices/)
+- [NIH blocks access to genetics database if research enters “forbidden” territory](https://www.city-journal.org/nih-blocks-access-to-genetics-database)
+- [We are still early with the cloud](https://erikbern.com/2022/10/19/we-are-still-early-with-the-cloud.html)
+- [A Geometrically Natural Uncomputable Function &lpar;2008&rpar;](https://xorshammer.com/2008/09/04/a-geometrically-natural-uncomputable-function/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

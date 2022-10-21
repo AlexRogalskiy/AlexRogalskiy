@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Spirit shareholders approve takeover by JetBlue after battle for discount airlin](https://www.cnbc.com/2022/10/19/spirit-jetblue-takeover-wins-shareholder-approval.html)
-- [Dropping in on Gottfried Leibniz &lpar;2013&rpar;](https://writings.stephenwolfram.com/2013/05/dropping-in-on-gottfried-leibniz/)
-- [Directors Resign from the Boards of Five Companies – Clayton Act, Section 8](https://www.justice.gov/opa/pr/directors-resign-boards-five-companies-response-justice-department-concerns-about-potentially)
-- [Stop Scanning Me [EU]](https://stopscanningme.eu/en/)
-- [Pig War &lpar;1859&rpar;](https://en.wikipedia.org/wiki/Pig_War_(1859))
-- [Great Britain: Money &lpar;2008&rpar;](http://pierre-marteau.com/wiki/index.php?title=Great_Britain:Money)
-- [Data extraction from vector graphics in scientific publications](https://github.com/jhamlin-ufl/vextract)
-- [AI will replace middle management before robots replace hourly workers](https://chatterhead.bearblog.dev/ai-will-replace-middle-management-not-hourly-workers/)
-- [Show HN: Stable Diffusion, but Fast](https://healthydiffusion.com/?c)
-- [Internet down in multiple cities across France after suspected sabotage](https://www.telegraph.co.uk/world-news/2022/04/27/internet-multiple-cities-across-france-suspected-sabotage/)
+- [All Access Digital Discount Token – Crypto](https://news.ycombinator.com/item?id=33284184)
+- [Endonuclease fingerprint indicates a synthetic origin of SARS-CoV-2](https://www.facebook.com/flx/warn/?u=https%3A%2F%2Ftwitter.com%2FWashburneAlex%2Fstatus%2F1583145276151189504%3Ft%3DsVncxW0ThaO72KbIxiBYRQ%26s%3D07&h=AT1Ew--MSqKcWeeJhn0x4wndZciQBAvG8INcTscdqKBpvAiWg0QI5cGaLOzuuy6qgFhz8b9d9bZ0le0ieIDmPwEbvTmV2xgdARh8wLwF1uBvW6digsxl4DJ965L4Wef6Joc)
+- [Killing One Bird with Two-and-a-Half Stones in Mac OS X Mail](https://techreflect.net/2022/10/killing-one-bird-with-two-and-a-half-stones-in-mac-os-x-mail/)
+- [Autoencoder for robust prediction of personalized clinical drug response](https://www.nature.com/articles/s42256-022-00541-0)
+- [Ubuntu Touch seeking sponsors of ARM64 CPU power for CI build infrastructure](https://sunweavers.net/blog/node/141)
+- [Australian health insurer&#39;s infosec incident diagnosis goes to emergency](https://www.theregister.com/2022/10/20/medibank_data_breach_worsens/)
+- [Etteilla’s Livre de Thot Tarot &lpar;ca. 1789&rpar;](https://publicdomainreview.org/collection/etteilla-thot/)
+- [Part of lost star catalog of Hipparchus found lurking under medieval codex](https://arstechnica.com/science/2022/10/part-of-lost-star-catalog-of-hipparchus-found-lurking-under-medieval-codex/)
+- [The federal income tax brackets for 2023](https://www.axios.com/2022/10/19/income-tax-brackets-2023-irs)
+- [Siberian remains could represent first-known Neanderthal community](https://www.nhm.ac.uk/discover/news/2022/october/siberian-remains-could-represent-first-known-neanderthal-community.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

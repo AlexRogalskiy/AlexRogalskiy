@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [NZ court rejects appeal against 9-month home detention sentence for five rapes](https://www.theguardian.com/world/2022/oct/20/nz-court-rejects-appeal-against-9-month-home-detention-sentence-for-five-rapes)
-- [Beijing steps up Covid measures as cases quadruple during key CCP congress meeting](https://www.theguardian.com/world/2022/oct/20/beijing-steps-up-covid-measures-as-cases-quadruple-during-key-ccp-congress-meeting)
-- [Eight killed in suspected parcel bomb explosions at Myanmar’s Insein prison](https://www.theguardian.com/world/2022/oct/20/killed-in-suspected-parcel-bomb-explosions-at-myanmars-insein-prison)
-- [The all-powerful Xi Jinping – podcast](https://www.theguardian.com/news/audio/2022/oct/20/all-powerful-xi-jinping-china-congress-podcast)
-- [Human rights abuses in Qatar ‘persist on significant scale’, says Amnesty report](https://www.theguardian.com/football/2022/oct/20/fifa-world-cup-human-rights-abuses-qatar-amnesty-international)
-- [Trump signed statement alleging voter fraud knowing it was false, judge says](https://www.theguardian.com/us-news/2022/oct/19/trump-voter-fraud-claim-signed-document)
-- [New Zealand passes plain language bill to jettison jargon](https://www.theguardian.com/world/2022/oct/20/new-zealand-passes-plain-language-bill-to-jettison-jargon)
-- [Liz Truss’s government on the brink after Suella Braverman’s parting shot](https://www.theguardian.com/politics/2022/oct/19/liz-truss-government-on-the-brink-after-suella-bravermans-parting-shot)
-- [Silent Hill 2 remake announced as Konami exhumes hit horror series](https://www.theguardian.com/games/2022/oct/20/silent-hill-2-remake-townfall-ascension-konami-transmission)
-- [Truss publishes plans to ensure transport services run during strikes](https://www.theguardian.com/uk-news/2022/oct/20/truss-publishes-plans-to-ensure-transport-services-run-during-strikes)
+- [Elon Musk plans to cut 75% of Twitter staff if he takes over company – report](https://www.theguardian.com/technology/2022/oct/20/elon-musk-twitter-staff-layoff-takeover)
+- [The end of Liz Truss - podcast](https://www.theguardian.com/news/audio/2022/oct/21/the-end-of-liz-truss-podcast)
+- [US charges seven over alleged Beijing plot to forcibly repatriate ‘elite’ Chinese](https://www.theguardian.com/world/2022/oct/21/us-charge-seven-over-alleged-beijing-plot-to-forcibly-repatriate-elite-chinese)
+- [Taylor Swift’s new album Midnights to drop in hours, marking the singer’s return to pop](https://www.theguardian.com/music/2022/oct/21/taylor-swifts-new-album-midnights-to-drop-in-hours-marking-the-singers-return-to-pop)
+- [Iran protests: democracies have ‘moral obligation’ to help, Canada foreign minister says](https://www.theguardian.com/world/2022/oct/21/iran-protests-democracies-have-moral-obligation-to-help-canada-foreign-minister)
+- [‘Will Boris bounce back?’: what the papers say as Liz Truss quits and Tories search for new leader](https://www.theguardian.com/media/2022/oct/21/newspaper-front-pages-today-will-boris-bounce-back-what-the-papers-say-as-liz-truss-quits-and-tories-search-for-new-leader)
+- [Almost 8m people in UK struggling to pay bills, says City watchdog](https://www.theguardian.com/business/2022/oct/21/people-uk-struggling-pay-bills-fca-financial-trouble)
+- [Private rents in Britain hit record highs, with 20% rise in some areas](https://www.theguardian.com/money/2022/oct/21/private-rents-britain-hit-record-high-demand-properties)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2022/oct/21/premier-league-10-things-to-look-out-for-this-weekend)
+- [Zara enters resale market with Pre-owned service](https://www.theguardian.com/business/2022/oct/21/zara-enters-resale-market-pre-owned-service)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -385,6 +385,7 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [How to improve EF Core 7 performance](https://www.infoworld.com/article/3676583/how-to-improve-ef-core-7-performance.html#tk.rss_all)
 - [Node.js 19 boosts HTTP throughput](https://www.infoworld.com/article/3677189/nodejs-19-boosts-http-throughput.html#tk.rss_all)
 - [BrandPost: Intel, Wayfair, Red Hat and Aible on Getting AI Results in 30 Days](https://www.infoworld.com/article/3676688/intel-wayfair-red-hat-and-aible-on-getting-ai-results-in-30-days.html#tk.rss_all)
 - [BrandPost: Enhance Cloud Security Posture Management with Confidential VM](https://www.infoworld.com/article/3676629/enhance-cloud-security-posture-management-with-confidential-vm.html#tk.rss_all)
@@ -394,7 +395,6 @@
 - [BrandPost: NASCAR’s Next Gen Race Car Proven Safe by Simulation](https://www.infoworld.com/article/3676588/nascar-s-next-gen-race-car-proven-safe-by-simulation.html#tk.rss_all)
 - [Java 20 begins to take shape](https://www.infoworld.com/article/3676699/java-20-begins-to-take-shape.html#tk.rss_all)
 - [Intro to Qwik: A superfast JavaScript framework](https://www.infoworld.com/article/3676577/intro-to-qwik-a-superfast-javascript-framework.html#tk.rss_all)
-- [Oracle unveils performance pack for Java 8](https://www.infoworld.com/article/3676578/oracle-unveils-performance-pack-for-java-8.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

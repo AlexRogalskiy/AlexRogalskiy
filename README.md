@@ -415,16 +415,16 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to ban a range of IP from accessing my website?](https://www.reddit.com/r/InformationTechnology/comments/y9ifow/how_to_ban_a_range_of_ip_from_accessing_my_website/)
+- [Am I intelligent enough to work in IT and earn decent salary?](https://www.reddit.com/r/InformationTechnology/comments/y9by23/am_i_intelligent_enough_to_work_in_it_and_earn/)
+- [Preparing for the CompTIA A+ Certification](https://www.reddit.com/r/InformationTechnology/comments/y91q3j/preparing_for_the_comptia_a_certification/)
+- [App development](https://www.reddit.com/r/InformationTechnology/comments/y8w8vv/app_development/)
 - [LF : WEBSITE CREATOR](https://www.reddit.com/r/InformationTechnology/comments/y8l95e/lf_website_creator/)
 - [Automating AD cleanups, user creation, off boarding and server environment documentation](https://www.reddit.com/r/InformationTechnology/comments/y8fwzh/automating_ad_cleanups_user_creation_off_boarding/)
 - [Service Now Ticketing System](https://www.reddit.com/r/InformationTechnology/comments/y8d0qm/service_now_ticketing_system/)
 - [Credit Card Benefits Banking Details](https://www.reddit.com/r/InformationTechnology/comments/y8blws/credit_card_benefits_banking_details/)
 - [MS-900 - Microsoft 365 Fundamentals Full Course for those that need it](https://www.reddit.com/r/InformationTechnology/comments/y885jl/ms900_microsoft_365_fundamentals_full_course_for/)
 - [WLAN vs WWAN](https://www.reddit.com/r/InformationTechnology/comments/y81yuc/wlan_vs_wwan/)
-- [Does anyone know of any great IT discord servers?](https://www.reddit.com/r/InformationTechnology/comments/y6kzqt/does_anyone_know_of_any_great_it_discord_servers/)
-- [Certificate Server Issues](https://www.reddit.com/r/InformationTechnology/comments/y6kt2x/certificate_server_issues/)
-- [Does anyone know the power shell command to remove machines out of VLANs?](https://www.reddit.com/r/InformationTechnology/comments/y5xefh/does_anyone_know_the_power_shell_command_to/)
-- [I went from cleaning toilets to IT Analyst in two years, advice on my next steps?](https://www.reddit.com/r/InformationTechnology/comments/y4c0b0/i_went_from_cleaning_toilets_to_it_analyst_in_two/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

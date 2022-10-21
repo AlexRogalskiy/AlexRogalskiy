@@ -400,16 +400,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [What do the US’s new software security rules mean for UK organisations?](https://www.computerweekly.com/feature/What-do-the-US-new-software-security-rules-mean-for-UK-organisations)
+- [The Security Interviews: Why now for ZTNA 2.0?](https://www.computerweekly.com/news/252526164/The-Security-Interviews-Why-now-for-ZTNA-20)
+- [Parliamentary committee launches inquiry into AI governance](https://www.computerweekly.com/news/252526324/Parliamentary-committee-launches-inquiry-into-AI-governance)
+- [Cyber professional shortfall hits 3.4 million](https://www.computerweekly.com/news/252526318/Cyber-professional-shortfall-hits-34-million)
+- [NatWest data breach whistleblower demands bank pay data controller fee to ICO](https://www.computerweekly.com/news/252526314/NatWest-data-breach-whistleblower-demands-bank-pay-data-controller-fee-to-ICO)
+- [IBM takes the bits out of deep learning](https://www.computerweekly.com/news/252526315/IBM-takes-the-bits-out-of-deep-learning)
 - [Computer Weekly announces the Most Influential Women in UK Tech 2022](https://www.computerweekly.com/news/252526203/Computer-Weekly-announces-the-2022-Most-Influential-Women-in-UK-Tech)
 - [Why the Most Influential Woman in UK Tech 2022 created a book of role models](https://www.computerweekly.com/news/252526202/Why-the-Most-Influential-Woman-in-UK-Tech-2022-created-a-book-of-role-models)
 - [Computer Weekly’s Women in UK Tech Rising Stars 2022](https://www.computerweekly.com/news/252526236/Computer-Weeklys-women-in-UK-tech-Rising-Stars-2022)
 - [Ransomware crews regrouping as LockBit rise continues](https://www.computerweekly.com/news/252526278/Ransomware-crews-regrouping-as-LockBit-rise-continues)
-- [Lloyds Bank launches innovation sandbox](https://www.computerweekly.com/news/252526279/Lloyds-Bank-launches-innovation-sandbox)
-- [Greenland investigates potential blockchain-based election system](https://www.computerweekly.com/news/252526273/Greenland-investigate-potential-blockchain-based-election-system)
-- [Work in the metaverse: A Computer Weekly Downtime Upload podcast](https://www.computerweekly.com/podcast/Work-in-the-Metaverse-A-Computer-Weekly-Downtime-Upload-podcast)
-- [Gartner: Hero CIOs are needed again to save businesses](https://www.computerweekly.com/news/252526271/Gartner-Hero-CIOs-are-needed-again-to-save-businesses)
-- [Oracle CloudWorld 2022: Ellison vaunts centrality of healthcare to mission](https://www.computerweekly.com/news/252526259/Oracle-CloudWorld-2022-Ellison-vaunts-centrality-of-healthcare-to-mission)
-- [Treat cyber crime as a ‘strategic threat’, UK businesses told](https://www.computerweekly.com/news/252526265/Treat-cyber-crime-as-strategic-threat-UK-businesses-told)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

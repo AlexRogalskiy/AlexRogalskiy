@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Pig War &lpar;1859&rpar;](https://en.wikipedia.org/wiki/Pig_War_(1859))
-- [AI will replace middle management before robots replace hourly workers](https://chatterhead.bearblog.dev/ai-will-replace-middle-management-not-hourly-workers/)
-- [A large scale non-linear optimization library](https://github.com/ceres-solver/ceres-solver)
-- [Stop Writing Dead Programs](https://jackrusher.com/strange-loop-2022/)
-- [Pocket Casts Mobile Apps Are Now Open Source](https://blog.pocketcasts.com/2022/10/19/pocket-casts-mobile-apps-are-now-open-source/)
-- [The Mystery of 355/113 &lpar;2010&rpar;](http://davidbau.com/archives/2010/03/14/the_mystery_of_355113.html)
-- [PostgresML is 8-40x faster than Python HTTP microservices](https://postgresml.org/blog/postgresml-is-8x-faster-than-python-http-microservices/)
-- [NIH blocks access to genetics database if research enters “forbidden” territory](https://www.city-journal.org/nih-blocks-access-to-genetics-database)
-- [We are still early with the cloud](https://erikbern.com/2022/10/19/we-are-still-early-with-the-cloud.html)
-- [A Geometrically Natural Uncomputable Function &lpar;2008&rpar;](https://xorshammer.com/2008/09/04/a-geometrically-natural-uncomputable-function/)
+- [Why we chose not to release Stable Diffusion 1.5 as quickly](https://danieljeffries.substack.com/p/why-the-future-of-open-source-ai)
+- [Show HN: I&#39;m trying to guess your personality by your comments with an NLP model](https://ezpersonality.com)
+- [Hightouch &lpar;YC S19&rpar; Is Hiring an Engineering Manager](https://boards.greenhouse.io/hightouch/jobs/4580317004)
+- [The State of AV1 Playback Support](https://bitmovin.com/av1-playback-support/)
+- [Size of Andromeda galaxy compared to the Moon](https://astronomy.stackexchange.com/questions/23378/is-this-photocomposition-of-andromedas-galaxy-and-the-moon-accurate)
+- [A Bluetooth Low Energy  soil moisture sensor](https://github.com/rbaron/b-parasite)
+- [Stop Scanning Me](https://stopscanningme.eu/en/)
+- [SHA-3 Buffer Overflow](https://mouha.be/sha-3-buffer-overflow/)
+- [Barcelona-style “superblocks” could make cities greener and less car-centric](https://www.anthropocenemagazine.org/2022/03/barceolona-style-superblocks-a-surprising-number-of-cities-greener/)
+- [Stability.ai sent a take down request to Runway ML&#39;s SD v1.5 citing IP Leak](https://huggingface.co/runwayml/stable-diffusion-v1-5/discussions/1)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

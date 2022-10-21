@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Google opens up Workspace with slew of third-party integrations](https://www.computerworld.com/article/3677628/google-opens-up-workspace-with-slew-of-third-party-integrations.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [IT spending to grow, as companies use tech to battle expected recession](https://www.computerworld.com/article/3677588/it-spending-to-grow-as-companies-use-tech-to-battle-expected-recession.html#tk.rss_all)
+- [Lenovo Tech World 2022: aiming for a metaverse upgrade?](https://www.computerworld.com/article/3677568/lenovo-tech-world-2022-aiming-for-a-metaverse-upgrade.html#tk.rss_all)
+- [IBM sales jump shows the mainframe is not dead, with hybrid cloud alive and well](https://www.networkworld.com/article/3677548/ibm-sales-jump-shows-the-mainframe-is-not-dead-with-hybrid-cloud-alive-and-well.html#tk.rss_all)
+- [7+ ways macOS Ventura will make you more productive](https://www.computerworld.com/article/3677468/7-ways-macos-ventura-will-make-you-more-productive.html#tk.rss_all)
+- [The best states in the US for tech jobs](https://www.computerworld.com/article/3677229/the-best-states-in-the-us-for-tech-jobs.html#tk.rss_all)
 - [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
 - [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
 - [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
-- [Apple’s next big thing might be healthcare](https://www.computerworld.com/article/3676840/apples-next-big-thing-might-be-healthcare.html#tk.rss_all)
-- [For IT, showing you’re productive matters now more than ever](https://www.computerworld.com/article/3676672/for-it-showing-youre-productive-matters-now-more-than-ever.html#tk.rss_all)
-- [Microsoft rolls out first &#39;moment&#39; update for Windows 11; Win 10 22H2 now available](https://www.computerworld.com/article/3676838/microsoft-rolls-out-first-moment-update-for-windows-11-win-10-22h2-now-available.html#tk.rss_all)
-- [Microsoft lays off nearly 1,000 staffers: Reports](https://www.computerworld.com/article/3676580/microsoft-lays-off-nearly-1-000-staffers-reports.html#tk.rss_all)
-- [Why America’s oldest bank launched a crypto custody service](https://www.computerworld.com/article/3676836/why-americas-oldest-bank-launched-a-crypto-custody-service.html#tk.rss_all)
-- [Apple updates the iPad Pro and entry-level iPad](https://www.computerworld.com/article/3676835/apple-updates-the-ipad-pro-and-entry-level-ipad.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Elon Musk plans to cut 75% of Twitter staff if he takes over company – report](https://www.theguardian.com/technology/2022/oct/20/elon-musk-twitter-staff-layoff-takeover)
-- [The end of Liz Truss - podcast](https://www.theguardian.com/news/audio/2022/oct/21/the-end-of-liz-truss-podcast)
-- [US charges seven over alleged Beijing plot to forcibly repatriate ‘elite’ Chinese](https://www.theguardian.com/world/2022/oct/21/us-charge-seven-over-alleged-beijing-plot-to-forcibly-repatriate-elite-chinese)
-- [Taylor Swift’s new album Midnights to drop in hours, marking the singer’s return to pop](https://www.theguardian.com/music/2022/oct/21/taylor-swifts-new-album-midnights-to-drop-in-hours-marking-the-singers-return-to-pop)
-- [Iran protests: democracies have ‘moral obligation’ to help, Canada foreign minister says](https://www.theguardian.com/world/2022/oct/21/iran-protests-democracies-have-moral-obligation-to-help-canada-foreign-minister)
-- [‘Will Boris bounce back?’: what the papers say as Liz Truss quits and Tories search for new leader](https://www.theguardian.com/media/2022/oct/21/newspaper-front-pages-today-will-boris-bounce-back-what-the-papers-say-as-liz-truss-quits-and-tories-search-for-new-leader)
-- [Almost 8m people in UK struggling to pay bills, says City watchdog](https://www.theguardian.com/business/2022/oct/21/people-uk-struggling-pay-bills-fca-financial-trouble)
-- [Private rents in Britain hit record highs, with 20% rise in some areas](https://www.theguardian.com/money/2022/oct/21/private-rents-britain-hit-record-high-demand-properties)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2022/oct/21/premier-league-10-things-to-look-out-for-this-weekend)
-- [Zara enters resale market with Pre-owned service](https://www.theguardian.com/business/2022/oct/21/zara-enters-resale-market-pre-owned-service)
+- [‘Surely … not again’: what the papers say about Johnson and the Tory leadership race](https://www.theguardian.com/uk-news/2022/oct/22/surely-not-again-what-the-papers-say-about-johnson-and-the-tory-leadership-race)
+- [Russian and US defence ministers discuss Ukraine war in rare talks](https://www.theguardian.com/world/2022/oct/22/russian-and-us-defence-ministers-discuss-ukraine-war-in-rare-talks)
+- [Russia-Ukraine war latest: what we know on day 241 of the invasion](https://www.theguardian.com/world/2022/oct/22/russia-ukraine-war-latest-what-we-know-on-day-241-of-the-invasion)
+- [Where are the women at the top of Chinese politics?](https://www.theguardian.com/world/2022/oct/22/where-are-the-women-at-the-top-of-chinese-politics)
+- [The Devil’s Hour: a perfect freaky little Halloween treat](https://www.theguardian.com/tv-and-radio/2022/oct/22/the-devils-hour-jessica-raine-peter-capaldi-perfect-halloween-treat)
+- [Johnson flies back to UK as Sunak’s backers claim he has passed threshold of 100 MPs](https://www.theguardian.com/politics/2022/oct/21/boris-johnson-gaining-ground-on-rishi-sunak-in-tory-leadership-race)
+- [Brisbane-based Indigenous art collective proppaNOW wins prestigious global prize](https://www.theguardian.com/artanddesign/2022/oct/22/brisbane-based-indigenous-art-collective-proppanow-wins-prestigious-global-prize)
+- [Antonio Conte says Tottenham players need to ‘waste time’ when suffering](https://www.theguardian.com/football/2022/oct/21/antonio-conte-says-tottenham-players-need-to-waste-time-when-suffering)
+- [House of the Dragon: HBO ‘disappointed’ as season finale leaks](https://www.theguardian.com/tv-and-radio/2022/oct/21/house-of-the-dragon-hbo-season-finale-leak)
+- [Andy Ackers: ‘It’s not been a sweet journey but I’ve worked my socks off’](https://www.theguardian.com/sport/2022/oct/21/andy-ackers-its-not-been-a-sweet-journey-but-ive-worked-my-socks-off)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Why we chose not to release Stable Diffusion 1.5 as quickly](https://danieljeffries.substack.com/p/why-the-future-of-open-source-ai)
-- [Show HN: I&#39;m trying to guess your personality by your comments with an NLP model](https://ezpersonality.com)
-- [Hightouch &lpar;YC S19&rpar; Is Hiring an Engineering Manager](https://boards.greenhouse.io/hightouch/jobs/4580317004)
-- [The State of AV1 Playback Support](https://bitmovin.com/av1-playback-support/)
-- [Size of Andromeda galaxy compared to the Moon](https://astronomy.stackexchange.com/questions/23378/is-this-photocomposition-of-andromedas-galaxy-and-the-moon-accurate)
-- [A Bluetooth Low Energy  soil moisture sensor](https://github.com/rbaron/b-parasite)
-- [Stop Scanning Me](https://stopscanningme.eu/en/)
-- [SHA-3 Buffer Overflow](https://mouha.be/sha-3-buffer-overflow/)
-- [Barcelona-style “superblocks” could make cities greener and less car-centric](https://www.anthropocenemagazine.org/2022/03/barceolona-style-superblocks-a-surprising-number-of-cities-greener/)
-- [Stability.ai sent a take down request to Runway ML&#39;s SD v1.5 citing IP Leak](https://huggingface.co/runwayml/stable-diffusion-v1-5/discussions/1)
+- [A Moonshot for Coral Breeding Was Successful](https://hakaimagazine.com/features/a-moonshot-for-coral-breeding-was-successful/)
+- [Clojure 15th Anniversary: A Retrospective](https://building.nubank.com.br/clojure-15th-anniversary-a-retrospective/)
+- [A Soviet Circus Clown Tried to Prove That Dogs Can Be Psychic](https://www.atlasobscura.com/articles/dog-telepathy)
+- [Smithsonian Open Access-download, share, and reuse Smithsonian’s images](https://www.si.edu/openaccess)
+- [Celebrating 5 Years of Pop _OS](https://blog.system76.com/post/celebrating-5-years-of-pop_os/)
+- [Butterfly wing patterns emerge from ancient ‘junk’ DNA](https://news.cornell.edu/stories/2022/10/butterfly-wing-patterns-emerge-ancient-junk-dna)
+- [The Gentleperson&#39;s Guide To Forum Spies &lpar;2012&rpar;](https://cryptome.org/2012/07/gent-forum-spies.htm)
+- [Long Covid: Hair loss and sexual dysfunction among wider symptoms, study finds](https://www.bmj.com/content/378/bmj.o1887)
+- [Fractional &lpar;YC W21&rpar; Is Hiring an iOS Lead](https://www.ycombinator.com/companies/fractional/jobs/CAbyds4-ios-lead)
+- [ProjectM: LGPL Reimplementation of Ryan Geiss&#39; Milkdrop from Winamp/Kodi](https://codav.itch.io/projectm)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -415,6 +415,8 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Job Interview](https://www.reddit.com/r/InformationTechnology/comments/y9qj67/job_interview/)
+- [How can I write a script in Notepad that would automatically fill out my information in my ticketing system?](https://www.reddit.com/r/InformationTechnology/comments/y9q0vv/how_can_i_write_a_script_in_notepad_that_would/)
 - [How to ban a range of IP from accessing my website?](https://www.reddit.com/r/InformationTechnology/comments/y9ifow/how_to_ban_a_range_of_ip_from_accessing_my_website/)
 - [Am I intelligent enough to work in IT and earn decent salary?](https://www.reddit.com/r/InformationTechnology/comments/y9by23/am_i_intelligent_enough_to_work_in_it_and_earn/)
 - [Preparing for the CompTIA A+ Certification](https://www.reddit.com/r/InformationTechnology/comments/y91q3j/preparing_for_the_comptia_a_certification/)
@@ -423,8 +425,6 @@
 - [Automating AD cleanups, user creation, off boarding and server environment documentation](https://www.reddit.com/r/InformationTechnology/comments/y8fwzh/automating_ad_cleanups_user_creation_off_boarding/)
 - [Service Now Ticketing System](https://www.reddit.com/r/InformationTechnology/comments/y8d0qm/service_now_ticketing_system/)
 - [Credit Card Benefits Banking Details](https://www.reddit.com/r/InformationTechnology/comments/y8blws/credit_card_benefits_banking_details/)
-- [MS-900 - Microsoft 365 Fundamentals Full Course for those that need it](https://www.reddit.com/r/InformationTechnology/comments/y885jl/ms900_microsoft_365_fundamentals_full_course_for/)
-- [WLAN vs WWAN](https://www.reddit.com/r/InformationTechnology/comments/y81yuc/wlan_vs_wwan/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

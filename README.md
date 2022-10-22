@@ -400,16 +400,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [HSBC chooses Oracle Exadata Cloud@Customer service to underpin digital](https://www.computerweekly.com/news/252526383/HSBC-chooses-Oracle-Exadata-CloudCustomer-service-to-underpin-digital)
+- [Cloud bursting: Six key steps in planning and decision-making](https://www.computerweekly.com/feature/Cloud-bursting-Six-key-steps-in-planning-and-decision-making)
+- [Ukrainian and UK IT sectors to deepen collaboration, partnerships](https://www.computerweekly.com/news/252526378/Ukrainian-and-UK-IT-sectors-to-deepen-collaboration-partnerships)
+- [Did Truss authorise ‘war risk’ provocation over Black Sea?](https://www.computerweekly.com/news/252526360/Did-Truss-authorise-war-risk-provocation-over-Black-Sea)
+- [Efficiency to empathy: Customer experience in cost-of living crisis](https://www.computerweekly.com/feature/Efficiency-to-empathy-customer-experience-in-cost-of-living-crisis)
+- [Microsoft slams external researchers over its own data leak](https://www.computerweekly.com/news/252526376/Microsoft-slams-external-researchers-over-its-own-data-leak)
+- [High data quality key to reducing supply chain disruption](https://www.computerweekly.com/feature/High-data-quality-key-to-reducing-supply-chain-disruption)
 - [What do the US’s new software security rules mean for UK organisations?](https://www.computerweekly.com/feature/What-do-the-US-new-software-security-rules-mean-for-UK-organisations)
 - [The Security Interviews: Why now for ZTNA 2.0?](https://www.computerweekly.com/news/252526164/The-Security-Interviews-Why-now-for-ZTNA-20)
 - [Parliamentary committee launches inquiry into AI governance](https://www.computerweekly.com/news/252526324/Parliamentary-committee-launches-inquiry-into-AI-governance)
-- [Cyber professional shortfall hits 3.4 million](https://www.computerweekly.com/news/252526318/Cyber-professional-shortfall-hits-34-million)
-- [NatWest data breach whistleblower demands bank pay data controller fee to ICO](https://www.computerweekly.com/news/252526314/NatWest-data-breach-whistleblower-demands-bank-pay-data-controller-fee-to-ICO)
-- [IBM takes the bits out of deep learning](https://www.computerweekly.com/news/252526315/IBM-takes-the-bits-out-of-deep-learning)
-- [Computer Weekly announces the Most Influential Women in UK Tech 2022](https://www.computerweekly.com/news/252526203/Computer-Weekly-announces-the-2022-Most-Influential-Women-in-UK-Tech)
-- [Why the Most Influential Woman in UK Tech 2022 created a book of role models](https://www.computerweekly.com/news/252526202/Why-the-Most-Influential-Woman-in-UK-Tech-2022-created-a-book-of-role-models)
-- [Computer Weekly’s Women in UK Tech Rising Stars 2022](https://www.computerweekly.com/news/252526236/Computer-Weeklys-women-in-UK-tech-Rising-Stars-2022)
-- [Ransomware crews regrouping as LockBit rise continues](https://www.computerweekly.com/news/252526278/Ransomware-crews-regrouping-as-LockBit-rise-continues)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

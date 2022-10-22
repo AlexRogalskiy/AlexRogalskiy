@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [All Access Digital Discount Token – Crypto](https://news.ycombinator.com/item?id=33284184)
-- [Endonuclease fingerprint indicates a synthetic origin of SARS-CoV-2](https://www.facebook.com/flx/warn/?u=https%3A%2F%2Ftwitter.com%2FWashburneAlex%2Fstatus%2F1583145276151189504%3Ft%3DsVncxW0ThaO72KbIxiBYRQ%26s%3D07&h=AT1Ew--MSqKcWeeJhn0x4wndZciQBAvG8INcTscdqKBpvAiWg0QI5cGaLOzuuy6qgFhz8b9d9bZ0le0ieIDmPwEbvTmV2xgdARh8wLwF1uBvW6digsxl4DJ965L4Wef6Joc)
-- [Killing One Bird with Two-and-a-Half Stones in Mac OS X Mail](https://techreflect.net/2022/10/killing-one-bird-with-two-and-a-half-stones-in-mac-os-x-mail/)
-- [Autoencoder for robust prediction of personalized clinical drug response](https://www.nature.com/articles/s42256-022-00541-0)
-- [Ubuntu Touch seeking sponsors of ARM64 CPU power for CI build infrastructure](https://sunweavers.net/blog/node/141)
-- [Australian health insurer&#39;s infosec incident diagnosis goes to emergency](https://www.theregister.com/2022/10/20/medibank_data_breach_worsens/)
-- [Etteilla’s Livre de Thot Tarot &lpar;ca. 1789&rpar;](https://publicdomainreview.org/collection/etteilla-thot/)
-- [Part of lost star catalog of Hipparchus found lurking under medieval codex](https://arstechnica.com/science/2022/10/part-of-lost-star-catalog-of-hipparchus-found-lurking-under-medieval-codex/)
-- [The federal income tax brackets for 2023](https://www.axios.com/2022/10/19/income-tax-brackets-2023-irs)
-- [Siberian remains could represent first-known Neanderthal community](https://www.nhm.ac.uk/discover/news/2022/october/siberian-remains-could-represent-first-known-neanderthal-community.html)
+- [Cube-V cores on a KCU116 = 1024 dynamically interleaved threads = ~30 GIPS](https://twitter.com/arduissimo/status/1234516795278733314)
+- [Pitfalls of Debounced Functions](https://www.shukantpal.com/blog/software/pitfalls-of-debounced-functions/)
+- [‘Wellness Month’ at Twitter Turns Frantic as Musk Deal Looms](https://www.bloomberg.com/news/articles/2022-10-21/elon-musk-twitter-deal-coincides-with-employee-wellness-month)
+- [Some People Are Mosquito Magnets, and They’re Stuck That Way](https://www.scientificamerican.com/article/some-people-really-are-mosquito-magnets-and-theyre-stuck-that-way/)
+- [Dozens of papers co-authored by Nobel laureate raise concerns](https://www.nature.com/articles/d41586-022-03032-9)
+- [Approaching the Altar](https://www.mikeguarneri.com/p/approaching-the-altar)
+- [Eureka Finding the key to ancient Egypt](https://www.britishmuseum.org/blog/eureka-finding-key-ancient-egypt)
+- [Symptoms and risk factors for long Covid in non-hospitalized adults](https://www.nature.com/articles/s41591-022-01909-w)
+- [A Transformer That Solves Small Tabular Classification Problems in a Second](https://arxiv.org/abs/2207.01848)
+- [Backdooring a Summarizerbot to Shape Opinion](https://pluralistic.net/2022/10/21/let-me-summarize/#i-read-the-abstract)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

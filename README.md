@@ -385,6 +385,8 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Oracle makes Java discovery service free to all](https://www.infoworld.com/article/3677569/discover-your-old-and-broken-java-instances-on-oracle-cloud.html#tk.rss_all)
+- [It’s time to prioritize SaaS security](https://www.infoworld.com/article/3677270/dont-neglect-saas-security.html#tk.rss_all)
 - [How to improve EF Core 7 performance](https://www.infoworld.com/article/3676583/how-to-improve-ef-core-7-performance.html#tk.rss_all)
 - [Node.js 19 boosts HTTP throughput](https://www.infoworld.com/article/3677189/nodejs-19-boosts-http-throughput.html#tk.rss_all)
 - [BrandPost: Intel, Wayfair, Red Hat and Aible on Getting AI Results in 30 Days](https://www.infoworld.com/article/3676688/intel-wayfair-red-hat-and-aible-on-getting-ai-results-in-30-days.html#tk.rss_all)
@@ -393,8 +395,6 @@
 - [BrandPost: MinIO Industry-Leading Multi-Cloud Object Storage Delivers Superior Intel Optimized Performance for Customers](https://www.infoworld.com/article/3676628/minio-industry-leading-multi-cloud-object-storage-delivers-superior-intel-optimized-performance-for.html#tk.rss_all)
 - [BrandPost: Performance Impact of Stacking Abaqus Jobs on 3rd Generation Intel Scalable Processors](https://www.infoworld.com/article/3676589/performance-impact-of-stacking-abaqus-jobs-on-3rd-generation-intel-scalable-processors.html#tk.rss_all)
 - [BrandPost: NASCAR’s Next Gen Race Car Proven Safe by Simulation](https://www.infoworld.com/article/3676588/nascar-s-next-gen-race-car-proven-safe-by-simulation.html#tk.rss_all)
-- [Java 20 begins to take shape](https://www.infoworld.com/article/3676699/java-20-begins-to-take-shape.html#tk.rss_all)
-- [Intro to Qwik: A superfast JavaScript framework](https://www.infoworld.com/article/3676577/intro-to-qwik-a-superfast-javascript-framework.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

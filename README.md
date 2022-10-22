@@ -355,6 +355,8 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Workers with two jobs — is this really a problem?](https://www.computerworld.com/article/3677271/workers-with-two-jobs-is-this-really-a-problem.html#tk.rss_all)
+- [9 more out-of-sight settings for your Google Pixel 7](https://www.computerworld.com/article/3676582/google-pixel-7-more-settings.html#tk.rss_all)
 - [Google opens up Workspace with slew of third-party integrations](https://www.computerworld.com/article/3677628/google-opens-up-workspace-with-slew-of-third-party-integrations.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [IT spending to grow, as companies use tech to battle expected recession](https://www.computerworld.com/article/3677588/it-spending-to-grow-as-companies-use-tech-to-battle-expected-recession.html#tk.rss_all)
@@ -363,8 +365,6 @@
 - [7+ ways macOS Ventura will make you more productive](https://www.computerworld.com/article/3677468/7-ways-macos-ventura-will-make-you-more-productive.html#tk.rss_all)
 - [The best states in the US for tech jobs](https://www.computerworld.com/article/3677229/the-best-states-in-the-us-for-tech-jobs.html#tk.rss_all)
 - [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
-- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
-- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

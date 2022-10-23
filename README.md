@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [A Moonshot for Coral Breeding Was Successful](https://hakaimagazine.com/features/a-moonshot-for-coral-breeding-was-successful/)
-- [Clojure 15th Anniversary: A Retrospective](https://building.nubank.com.br/clojure-15th-anniversary-a-retrospective/)
-- [A Soviet Circus Clown Tried to Prove That Dogs Can Be Psychic](https://www.atlasobscura.com/articles/dog-telepathy)
-- [Smithsonian Open Access-download, share, and reuse Smithsonian’s images](https://www.si.edu/openaccess)
-- [Celebrating 5 Years of Pop _OS](https://blog.system76.com/post/celebrating-5-years-of-pop_os/)
-- [Butterfly wing patterns emerge from ancient ‘junk’ DNA](https://news.cornell.edu/stories/2022/10/butterfly-wing-patterns-emerge-ancient-junk-dna)
-- [The Gentleperson&#39;s Guide To Forum Spies &lpar;2012&rpar;](https://cryptome.org/2012/07/gent-forum-spies.htm)
-- [Long Covid: Hair loss and sexual dysfunction among wider symptoms, study finds](https://www.bmj.com/content/378/bmj.o1887)
-- [Fractional &lpar;YC W21&rpar; Is Hiring an iOS Lead](https://www.ycombinator.com/companies/fractional/jobs/CAbyds4-ios-lead)
-- [ProjectM: LGPL Reimplementation of Ryan Geiss&#39; Milkdrop from Winamp/Kodi](https://codav.itch.io/projectm)
+- [Google has most of my email because it has all of yours &lpar;2014&rpar;](https://mako.cc/copyrighteous/google-has-most-of-my-email-because-it-has-all-of-yours)
+- [A new paper claims SARS-CoV-2 bears signs of genetic engineering](https://www.economist.com/science-and-technology/2022/10/22/a-new-paper-claims-sars-cov-2-bears-signs-of-genetic-engineering)
+- [On finally learning to program at the age of 40 &lpar;2020&rpar;](https://github.com/Dhghomon/programming_at_40)
+- [A &#39;screenless smartphone&#39;](https://www.vice.com/en/article/k7bxpw/mymanu-titan-screenless-smartphone)
+- [Tell HN: I was tired of being a perfectionist so I built an app within 24 hours](https://news.ycombinator.com/item?id=33303269)
+- [Most Americans think money comes before mission at U.S. news organizations](https://knightfoundation.org/press/releases/most-americans-think-money-comes-before-mission-at-u-s-news-organizations-according-to-a-new-gallup-knight-study/)
+- [GlueSQL: SQL database engine as a library](https://github.com/gluesql/gluesql)
+- [Pure Data as a plugin, with a new GUI](https://github.com/timothyschoen/PlugData)
+- [The Raspberry Pi 400 in My Bedroom](https://joeldare.com/private-analtyics-and-my-raspberry-pi-400.html)
+- [News Music Search Archive](http://www.newsmusicsearcharchive.com/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

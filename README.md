@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Cube-V cores on a KCU116 = 1024 dynamically interleaved threads = ~30 GIPS](https://twitter.com/arduissimo/status/1234516795278733314)
-- [Pitfalls of Debounced Functions](https://www.shukantpal.com/blog/software/pitfalls-of-debounced-functions/)
-- [‘Wellness Month’ at Twitter Turns Frantic as Musk Deal Looms](https://www.bloomberg.com/news/articles/2022-10-21/elon-musk-twitter-deal-coincides-with-employee-wellness-month)
-- [Some People Are Mosquito Magnets, and They’re Stuck That Way](https://www.scientificamerican.com/article/some-people-really-are-mosquito-magnets-and-theyre-stuck-that-way/)
-- [Dozens of papers co-authored by Nobel laureate raise concerns](https://www.nature.com/articles/d41586-022-03032-9)
-- [Approaching the Altar](https://www.mikeguarneri.com/p/approaching-the-altar)
-- [Eureka Finding the key to ancient Egypt](https://www.britishmuseum.org/blog/eureka-finding-key-ancient-egypt)
-- [Symptoms and risk factors for long Covid in non-hospitalized adults](https://www.nature.com/articles/s41591-022-01909-w)
-- [A Transformer That Solves Small Tabular Classification Problems in a Second](https://arxiv.org/abs/2207.01848)
-- [Backdooring a Summarizerbot to Shape Opinion](https://pluralistic.net/2022/10/21/let-me-summarize/#i-read-the-abstract)
+- [Sandy Hook Families Seek $2.75T from Alex Jones – BNN](https://www.bnnbloomberg.ca/sandy-hook-families-seek-2-75-trillion-from-alex-jones-1.1836028.amp.html)
+- [OpenFind: Text Search for Images](https://open.getfind.app/)
+- [It&#39;s a Mad Information War](https://consilienceproject.org/its-a-mad-information-war/)
+- [License Changes for Six Labors Products Including ImageSharp](https://sixlabors.com/posts/license-changes/)
+- [The Tragedy of the World’s First Seed Bank](https://www.sciencehistory.org/distillations/the-tragedy-of-the-worlds-first-seed-bank)
+- [“Any idea what they are?” – American pilots report racetrack UAP in recent weeks](https://thedebrief.org/any-idea-what-they-are-american-pilots-report-multiple-encounters-with-unusual-racetrack-uap-in-recent-weeks/)
+- [Freeter](https://sulfonilklorida.bearblog.dev/freeter/)
+- [Ptorx: Send and receive mail without using your real email address](https://github.com/xyfir/ptorx)
+- [Ask HN: Is DDG Becoming Unusable?](https://news.ycombinator.com/item?id=33304270)
+- [Ben Nadel: Base Tag HREF Doesn&#39;t Affect Document Root-Relative URLs](https://www.bennadel.com/blog/4341-base-tag-href-doesnt-affect-document-root-relative-urls.htm)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

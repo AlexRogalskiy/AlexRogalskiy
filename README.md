@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [‘Surely … not again’: what the papers say about Johnson and the Tory leadership race](https://www.theguardian.com/uk-news/2022/oct/22/surely-not-again-what-the-papers-say-about-johnson-and-the-tory-leadership-race)
-- [Russian and US defence ministers discuss Ukraine war in rare talks](https://www.theguardian.com/world/2022/oct/22/russian-and-us-defence-ministers-discuss-ukraine-war-in-rare-talks)
-- [Russia-Ukraine war latest: what we know on day 241 of the invasion](https://www.theguardian.com/world/2022/oct/22/russia-ukraine-war-latest-what-we-know-on-day-241-of-the-invasion)
-- [Where are the women at the top of Chinese politics?](https://www.theguardian.com/world/2022/oct/22/where-are-the-women-at-the-top-of-chinese-politics)
-- [The Devil’s Hour: a perfect freaky little Halloween treat](https://www.theguardian.com/tv-and-radio/2022/oct/22/the-devils-hour-jessica-raine-peter-capaldi-perfect-halloween-treat)
-- [Johnson flies back to UK as Sunak’s backers claim he has passed threshold of 100 MPs](https://www.theguardian.com/politics/2022/oct/21/boris-johnson-gaining-ground-on-rishi-sunak-in-tory-leadership-race)
-- [Brisbane-based Indigenous art collective proppaNOW wins prestigious global prize](https://www.theguardian.com/artanddesign/2022/oct/22/brisbane-based-indigenous-art-collective-proppanow-wins-prestigious-global-prize)
-- [Antonio Conte says Tottenham players need to ‘waste time’ when suffering](https://www.theguardian.com/football/2022/oct/21/antonio-conte-says-tottenham-players-need-to-waste-time-when-suffering)
-- [House of the Dragon: HBO ‘disappointed’ as season finale leaks](https://www.theguardian.com/tv-and-radio/2022/oct/21/house-of-the-dragon-hbo-season-finale-leak)
-- [Andy Ackers: ‘It’s not been a sweet journey but I’ve worked my socks off’](https://www.theguardian.com/sport/2022/oct/21/andy-ackers-its-not-been-a-sweet-journey-but-ive-worked-my-socks-off)
+- [China’s president Xi Jinping expected to secure historic third term in power – live updates](https://www.theguardian.com/world/live/2022/oct/23/chinas-president-xi-jinping-expected-to-secure-historic-third-term-in-power)
+- [Slippery, hungry, sometimes angry: Singapore struggles with ‘unparalleled’ otter boom](https://www.theguardian.com/environment/2022/oct/23/slippery-hungry-sometimes-angry-singapore-struggles-with-unparalleled-otter-boom)
+- [Ukraine faces power outages after ‘massive’ Russian strikes target energy facilities](https://www.theguardian.com/world/2022/oct/23/ukraine-faces-power-outages-after-massive-russian-strikes-target-energy-facilities)
+- [Russia-Ukraine war latest: what we know on day 242 of the invasion](https://www.theguardian.com/world/2022/oct/23/russia-ukraine-war-latest-what-we-know-on-day-242-of-the-invasion)
+- [We love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2022/oct/22/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Senior Tories say Boris Johnson’s return as PM would risk party’s death](https://www.theguardian.com/politics/2022/oct/22/senior-tories-say-johnsons-return-as-pm-would-risk-conservative-partys-death)
+- [Hot pink: Fabulous fuchsia is back in bloom this autumn](https://www.theguardian.com/fashion/2022/oct/22/hot-pink-fabulous-fuchsia-is-back-in-bloom-this-autumn)
+- [America is built on a racist social contract. It’s time to tear it up and start anew | Steve Phillips](https://www.theguardian.com/commentisfree/2022/oct/22/america-racist-social-contract-start-anew-steve-phillips)
+- [Clément Lenglet: ‘Without the ball, Spurs are the best. We have to improve with it’](https://www.theguardian.com/football/2022/oct/22/clement-lenglet-without-the-ball-spurs-are-the-best-we-have-to-improve-with-it)
+- [Micheál Martin urges DUP to restore powersharing at Stormont](https://www.theguardian.com/uk-news/2022/oct/22/micheal-martin-urges-dup-to-restore-powersharing-at-stormont)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

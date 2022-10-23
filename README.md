@@ -415,6 +415,8 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Lots of News](https://www.reddit.com/r/InformationTechnology/comments/yawhg6/lots_of_news/)
+- [What is the value of cloud computing to an entrepreneur who is starting a business?](https://www.reddit.com/r/InformationTechnology/comments/yaqq6a/what_is_the_value_of_cloud_computing_to_an/)
 - [Job Interview](https://www.reddit.com/r/InformationTechnology/comments/y9qj67/job_interview/)
 - [How can I write a script in Notepad that would automatically fill out my information in my ticketing system?](https://www.reddit.com/r/InformationTechnology/comments/y9q0vv/how_can_i_write_a_script_in_notepad_that_would/)
 - [How to ban a range of IP from accessing my website?](https://www.reddit.com/r/InformationTechnology/comments/y9ifow/how_to_ban_a_range_of_ip_from_accessing_my_website/)
@@ -423,8 +425,6 @@
 - [App development](https://www.reddit.com/r/InformationTechnology/comments/y8w8vv/app_development/)
 - [LF : WEBSITE CREATOR](https://www.reddit.com/r/InformationTechnology/comments/y8l95e/lf_website_creator/)
 - [Automating AD cleanups, user creation, off boarding and server environment documentation](https://www.reddit.com/r/InformationTechnology/comments/y8fwzh/automating_ad_cleanups_user_creation_off_boarding/)
-- [Service Now Ticketing System](https://www.reddit.com/r/InformationTechnology/comments/y8d0qm/service_now_ticketing_system/)
-- [Credit Card Benefits Banking Details](https://www.reddit.com/r/InformationTechnology/comments/y8blws/credit_card_benefits_banking_details/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

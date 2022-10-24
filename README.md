@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Sandy Hook Families Seek $2.75T from Alex Jones – BNN](https://www.bnnbloomberg.ca/sandy-hook-families-seek-2-75-trillion-from-alex-jones-1.1836028.amp.html)
-- [OpenFind: Text Search for Images](https://open.getfind.app/)
-- [It&#39;s a Mad Information War](https://consilienceproject.org/its-a-mad-information-war/)
-- [License Changes for Six Labors Products Including ImageSharp](https://sixlabors.com/posts/license-changes/)
-- [The Tragedy of the World’s First Seed Bank](https://www.sciencehistory.org/distillations/the-tragedy-of-the-worlds-first-seed-bank)
-- [“Any idea what they are?” – American pilots report racetrack UAP in recent weeks](https://thedebrief.org/any-idea-what-they-are-american-pilots-report-multiple-encounters-with-unusual-racetrack-uap-in-recent-weeks/)
-- [Freeter](https://sulfonilklorida.bearblog.dev/freeter/)
-- [Ptorx: Send and receive mail without using your real email address](https://github.com/xyfir/ptorx)
-- [Ask HN: Is DDG Becoming Unusable?](https://news.ycombinator.com/item?id=33304270)
-- [Ben Nadel: Base Tag HREF Doesn&#39;t Affect Document Root-Relative URLs](https://www.bennadel.com/blog/4341-base-tag-href-doesnt-affect-document-root-relative-urls.htm)
+- [Comparing Alphabets](https://old.reddit.com/r/interestingasfuck/comments/y8ufk2/which_language_are_you_looking_at/)
+- [All About E: The Language That Infiltrated JavaScript](https://thenewstack.io/all-about-e-the-language-that-infiltrated-javascript/)
+- [Alan Moore: I am in charge of this universe](https://aeon.co/essays/alan-moore-i-am-in-charge-of-this-universe)
+- [Has the time come for a quantum revolution in economics?](https://aeon.co/essays/has-the-time-come-for-a-quantum-revolution-in-economics)
+- [Why Gen X Failed](https://compactmag.com/article/why-gen-x-failed)
+- [Minister criticises UN as inspectors denied access to NSW jails](https://www.abc.net.au/news/2022-10-24/nsw-minister-concerned-un-prison-inspectors-will-pick-on-them/101569028)
+- [Mark Zuckerberg&#39;s $10B plan to make it impossible for remote workers to hide](https://fortune.com/2022/10/18/mark-zuckerberg-meta-avatars-video-chat-zoom-fatigue/)
+- [Project Yatsuhashi 01 – 5GHz LNA](http://analogmiko.com/AMK/content/MPW7_1_LNA/)
+- [VS](https://community.codenewbie.org/roshan100kar/-vs--1dkk)
+- [I proudly wake up at 8:59 a.m., one minute before starting my remote work job](https://fortune.com/2022/10/23/waking-up-one-minute-before-remote-job/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

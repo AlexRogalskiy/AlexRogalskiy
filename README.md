@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [China’s president Xi Jinping expected to secure historic third term in power – live updates](https://www.theguardian.com/world/live/2022/oct/23/chinas-president-xi-jinping-expected-to-secure-historic-third-term-in-power)
-- [Slippery, hungry, sometimes angry: Singapore struggles with ‘unparalleled’ otter boom](https://www.theguardian.com/environment/2022/oct/23/slippery-hungry-sometimes-angry-singapore-struggles-with-unparalleled-otter-boom)
-- [Ukraine faces power outages after ‘massive’ Russian strikes target energy facilities](https://www.theguardian.com/world/2022/oct/23/ukraine-faces-power-outages-after-massive-russian-strikes-target-energy-facilities)
-- [Russia-Ukraine war latest: what we know on day 242 of the invasion](https://www.theguardian.com/world/2022/oct/23/russia-ukraine-war-latest-what-we-know-on-day-242-of-the-invasion)
-- [We love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2022/oct/22/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Senior Tories say Boris Johnson’s return as PM would risk party’s death](https://www.theguardian.com/politics/2022/oct/22/senior-tories-say-johnsons-return-as-pm-would-risk-conservative-partys-death)
-- [Hot pink: Fabulous fuchsia is back in bloom this autumn](https://www.theguardian.com/fashion/2022/oct/22/hot-pink-fabulous-fuchsia-is-back-in-bloom-this-autumn)
-- [America is built on a racist social contract. It’s time to tear it up and start anew | Steve Phillips](https://www.theguardian.com/commentisfree/2022/oct/22/america-racist-social-contract-start-anew-steve-phillips)
-- [Clément Lenglet: ‘Without the ball, Spurs are the best. We have to improve with it’](https://www.theguardian.com/football/2022/oct/22/clement-lenglet-without-the-ball-spurs-are-the-best-we-have-to-improve-with-it)
-- [Micheál Martin urges DUP to restore powersharing at Stormont](https://www.theguardian.com/uk-news/2022/oct/22/micheal-martin-urges-dup-to-restore-powersharing-at-stormont)
+- [Russia-Ukraine war live news: 25,000 have fled Kherson, Moscow says; west denounces Kremlin ‘dirty bomb’ claim](https://www.theguardian.com/world/live/2022/oct/24/russia-ukraine-war-live-news-25000-have-fled-kherson-moscow-says-west-denounces-kremlin-dirty-bomb-claim)
+- [China economy grows faster than expected, but falls short of targets as risks loom](https://www.theguardian.com/world/2022/oct/24/china-economy-gdp-growth-faster-than-expected-but-falls-short-of-targets-as-risks-loom)
+- [Terror to elation: Ukrainian woman’s journey from Azovstal to PoW to freedom](https://www.theguardian.com/world/2022/oct/24/terror-to-elation-ukrainian-womans-journey-from-azovstal-to-pow-to-freedom)
+- [Global deforestation pledge will be missed without urgent action, say researchers](https://www.theguardian.com/environment/2022/oct/24/global-deforestation-pledge-destruction-forests)
+- [Operation Soteria: a new approach to investigating rape – podcast](https://www.theguardian.com/news/audio/2022/oct/24/operation-soteria-rape-conviction-rates-podcast)
+- [Big opportunity, little interest: New Zealand struggles to fill dream job protecting wildlife](https://www.theguardian.com/world/2022/oct/24/new-zealand-struggles-to-fill-dream-job-protecting-wildlife)
+- [Two dead after Hurricane Roslyn hits Mexico Pacific coast](https://www.theguardian.com/world/2022/oct/23/hurricane-roslyn-hits-mexico)
+- [‘Bojo: It’s a no’: what the papers say as Johnson pulls out and Sunak surges ahead](https://www.theguardian.com/media/2022/oct/24/newspaper-front-pages-today-uk-what-the-papers-say-boris-johnson-bojo-no-rishi-sunak-tory-leadership-race)
+- [Who is Li Qiang, the man poised to become China’s next premier?](https://www.theguardian.com/world/2022/oct/24/who-is-li-qiang-the-man-poised-to-become-chinas-next-premier)
+- [‘Simona’s integrity is faultless’: former coach throws support behind Halep](https://www.theguardian.com/sport/2022/oct/24/simonas-integrity-is-faultless-former-coach-throws-support-behind-halep)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

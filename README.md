@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Google has most of my email because it has all of yours &lpar;2014&rpar;](https://mako.cc/copyrighteous/google-has-most-of-my-email-because-it-has-all-of-yours)
-- [A new paper claims SARS-CoV-2 bears signs of genetic engineering](https://www.economist.com/science-and-technology/2022/10/22/a-new-paper-claims-sars-cov-2-bears-signs-of-genetic-engineering)
-- [On finally learning to program at the age of 40 &lpar;2020&rpar;](https://github.com/Dhghomon/programming_at_40)
-- [A &#39;screenless smartphone&#39;](https://www.vice.com/en/article/k7bxpw/mymanu-titan-screenless-smartphone)
-- [Tell HN: I was tired of being a perfectionist so I built an app within 24 hours](https://news.ycombinator.com/item?id=33303269)
-- [Most Americans think money comes before mission at U.S. news organizations](https://knightfoundation.org/press/releases/most-americans-think-money-comes-before-mission-at-u-s-news-organizations-according-to-a-new-gallup-knight-study/)
-- [GlueSQL: SQL database engine as a library](https://github.com/gluesql/gluesql)
-- [Pure Data as a plugin, with a new GUI](https://github.com/timothyschoen/PlugData)
-- [The Raspberry Pi 400 in My Bedroom](https://joeldare.com/private-analtyics-and-my-raspberry-pi-400.html)
-- [News Music Search Archive](http://www.newsmusicsearcharchive.com/)
+- [I proudly wake up at 8:59 a.m., one minute before starting my remote work job](https://fortune.com/2022/10/23/waking-up-one-minute-before-remote-job/)
+- [Buffers on the Edge: Python and Rust](https://alexgaynor.net/2022/oct/23/buffers-on-the-edge/)
+- [Debugging C with Cosmopolitan Libc](https://ahgamut.github.io/2022/10/23/debugging-c-with-cosmo/)
+- [Dotfile madness &lpar;2019&rpar;](https://0x46.net/thoughts/2019/02/01/dotfile-madness/)
+- [98.css – design system for building faithful recreations of Windows 98 UIs](https://jdan.github.io/98.css/)
+- [Maintaining sufficient free space with ZFS](https://taras.glek.net/post/curious-case-of-maintaining-sufficient-free-space-with-zfs/)
+- [Study: Electroshock therapy more successful for depression than ketamine](https://today.uconn.edu/2022/10/electroshock-therapy-more-successful-for-depression-than-ketamine/)
+- [Gamification affects software developers: Cautionary evidence from GitHub](https://arxiv.org/abs/2006.02371)
+- [The Social Recession: By the Numbers](https://novum.substack.com/p/social-recession-by-the-numbers)
+- [Watashiato](https://www.dictionaryofobscuresorrows.com/post/668222500424007680/watashiato)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

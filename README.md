@@ -415,6 +415,9 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Admin rights](https://www.reddit.com/r/InformationTechnology/comments/ybzwyi/admin_rights/)
+- [For those that are 50+ and successfully made a career change.](https://www.reddit.com/r/InformationTechnology/comments/ybzgn8/for_those_that_are_50_and_successfully_made_a/)
+- [U.K. petition](https://www.reddit.com/r/InformationTechnology/comments/ybltjy/uk_petition/)
 - [Lots of News](https://www.reddit.com/r/InformationTechnology/comments/yawhg6/lots_of_news/)
 - [What is the value of cloud computing to an entrepreneur who is starting a business?](https://www.reddit.com/r/InformationTechnology/comments/yaqq6a/what_is_the_value_of_cloud_computing_to_an/)
 - [Job Interview](https://www.reddit.com/r/InformationTechnology/comments/y9qj67/job_interview/)
@@ -422,9 +425,6 @@
 - [How to ban a range of IP from accessing my website?](https://www.reddit.com/r/InformationTechnology/comments/y9ifow/how_to_ban_a_range_of_ip_from_accessing_my_website/)
 - [Am I intelligent enough to work in IT and earn decent salary?](https://www.reddit.com/r/InformationTechnology/comments/y9by23/am_i_intelligent_enough_to_work_in_it_and_earn/)
 - [Preparing for the CompTIA A+ Certification](https://www.reddit.com/r/InformationTechnology/comments/y91q3j/preparing_for_the_comptia_a_certification/)
-- [App development](https://www.reddit.com/r/InformationTechnology/comments/y8w8vv/app_development/)
-- [LF : WEBSITE CREATOR](https://www.reddit.com/r/InformationTechnology/comments/y8l95e/lf_website_creator/)
-- [Automating AD cleanups, user creation, off boarding and server environment documentation](https://www.reddit.com/r/InformationTechnology/comments/y8fwzh/automating_ad_cleanups_user_creation_off_boarding/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

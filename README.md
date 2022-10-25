@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Comparing Alphabets](https://old.reddit.com/r/interestingasfuck/comments/y8ufk2/which_language_are_you_looking_at/)
-- [All About E: The Language That Infiltrated JavaScript](https://thenewstack.io/all-about-e-the-language-that-infiltrated-javascript/)
-- [Alan Moore: I am in charge of this universe](https://aeon.co/essays/alan-moore-i-am-in-charge-of-this-universe)
-- [Has the time come for a quantum revolution in economics?](https://aeon.co/essays/has-the-time-come-for-a-quantum-revolution-in-economics)
-- [Why Gen X Failed](https://compactmag.com/article/why-gen-x-failed)
-- [Minister criticises UN as inspectors denied access to NSW jails](https://www.abc.net.au/news/2022-10-24/nsw-minister-concerned-un-prison-inspectors-will-pick-on-them/101569028)
-- [Mark Zuckerberg&#39;s $10B plan to make it impossible for remote workers to hide](https://fortune.com/2022/10/18/mark-zuckerberg-meta-avatars-video-chat-zoom-fatigue/)
-- [Project Yatsuhashi 01 – 5GHz LNA](http://analogmiko.com/AMK/content/MPW7_1_LNA/)
-- [VS](https://community.codenewbie.org/roshan100kar/-vs--1dkk)
-- [I proudly wake up at 8:59 a.m., one minute before starting my remote work job](https://fortune.com/2022/10/23/waking-up-one-minute-before-remote-job/)
+- [Ask HN: How to Take Trade-off Decisions in Programming?](https://news.ycombinator.com/item?id=33326174)
+- [What “Work” Looks Like](https://blog.jim-nielsen.com/2022/what-work-looks-like/)
+- [Go and Proxy Servers: HTTP Proxies](https://eli.thegreenplace.net/2022/go-and-proxy-servers-part-1-http-proxies/)
+- [Conor Kennedy, grandson of RFK, secretly enlisted to fight in Ukraine](https://www.boston.com/news/national-news/2022/10/24/conor-kennedy-grandson-of-robert-f-kennedy-enlisted-secretly-to-fight-in-ukraine/)
+- [Math Scores Fell in Nearly Every State, and Reading Dipped on National Exam](https://www.nytimes.com/2022/10/24/us/math-reading-scores-pandemic.html)
+- [Online Greek Interlinear Bible &lpar;2015&rpar;](https://www.scripture4all.org/OnlineInterlinear/Greek_Index.htm)
+- [Social Media and Mental Health](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3919760)
+- [You Will Never Make a Novel Tech Product](https://www.nichfury.com/p/never)
+- [NZ Uber drivers win employment rights court case](https://www.1news.co.nz/2022/10/25/nz-uber-drivers-win-employment-rights-court-case/)
+- [Want to Communicate Effectively at Work? Eliminate These Cognitive Distortions](https://www.techtello.com/avoid-these-cognitive-distortions-to-communicate-effectively/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

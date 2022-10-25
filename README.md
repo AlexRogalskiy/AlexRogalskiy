@@ -355,6 +355,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [10+ ways iPadOS 16 can make you more productive](https://www.computerworld.com/article/3677868/10-ways-ipados-16-can-make-you-more-productive.html#tk.rss_all)
+- [What does Windows 10 22H2 bring to the table? Not much.](https://www.computerworld.com/article/3677571/what-does-windows-10-22h2-bring-to-the-table-not-much.html#tk.rss_all)
+- [Sustainable IT: An environmental and social approach to business tech](https://www.computerworld.com/article/3676131/sustainable-it-environmental-and-social-approach-to-business-technology.html#tk.rss_all)
 - [Workers with two jobs — is this really a problem?](https://www.computerworld.com/article/3677271/workers-with-two-jobs-is-this-really-a-problem.html#tk.rss_all)
 - [9 more out-of-sight settings for your Google Pixel 7](https://www.computerworld.com/article/3676582/google-pixel-7-more-settings.html#tk.rss_all)
 - [Google opens up Workspace with slew of third-party integrations](https://www.computerworld.com/article/3677628/google-opens-up-workspace-with-slew-of-third-party-integrations.html#tk.rss_all)
@@ -362,9 +365,6 @@
 - [IT spending to grow, as companies use tech to battle expected recession](https://www.computerworld.com/article/3677588/it-spending-to-grow-as-companies-use-tech-to-battle-expected-recession.html#tk.rss_all)
 - [Lenovo Tech World 2022: aiming for a metaverse upgrade?](https://www.computerworld.com/article/3677568/lenovo-tech-world-2022-aiming-for-a-metaverse-upgrade.html#tk.rss_all)
 - [IBM sales jump shows the mainframe is not dead, with hybrid cloud alive and well](https://www.networkworld.com/article/3677548/ibm-sales-jump-shows-the-mainframe-is-not-dead-with-hybrid-cloud-alive-and-well.html#tk.rss_all)
-- [7+ ways macOS Ventura will make you more productive](https://www.computerworld.com/article/3677468/7-ways-macos-ventura-will-make-you-more-productive.html#tk.rss_all)
-- [The best states in the US for tech jobs](https://www.computerworld.com/article/3677229/the-best-states-in-the-us-for-tech-jobs.html#tk.rss_all)
-- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [I proudly wake up at 8:59 a.m., one minute before starting my remote work job](https://fortune.com/2022/10/23/waking-up-one-minute-before-remote-job/)
-- [Buffers on the Edge: Python and Rust](https://alexgaynor.net/2022/oct/23/buffers-on-the-edge/)
-- [Debugging C with Cosmopolitan Libc](https://ahgamut.github.io/2022/10/23/debugging-c-with-cosmo/)
-- [Dotfile madness &lpar;2019&rpar;](https://0x46.net/thoughts/2019/02/01/dotfile-madness/)
-- [98.css – design system for building faithful recreations of Windows 98 UIs](https://jdan.github.io/98.css/)
-- [Maintaining sufficient free space with ZFS](https://taras.glek.net/post/curious-case-of-maintaining-sufficient-free-space-with-zfs/)
-- [Study: Electroshock therapy more successful for depression than ketamine](https://today.uconn.edu/2022/10/electroshock-therapy-more-successful-for-depression-than-ketamine/)
-- [Gamification affects software developers: Cautionary evidence from GitHub](https://arxiv.org/abs/2006.02371)
-- [The Social Recession: By the Numbers](https://novum.substack.com/p/social-recession-by-the-numbers)
-- [Watashiato](https://www.dictionaryofobscuresorrows.com/post/668222500424007680/watashiato)
+- [Want to Communicate Effectively at Work? Eliminate These Cognitive Distortions](https://www.techtello.com/avoid-these-cognitive-distortions-to-communicate-effectively/)
+- [EU Gives Final Approval to Law That Will Force iPhone to Switch to USB-C](https://www.macrumors.com/2022/10/24/eu-gives-final-approval-to-usb-c-law/)
+- [Meta Learning Backpropagation and Improving It](https://arxiv.org/abs/2012.14905)
+- [Ask HN: What Is the Hype with Docker?](https://news.ycombinator.com/item?id=33325474)
+- [Car feature subscriptions should be illegal, New Jersey Legislators say](https://arstechnica.com/cars/2022/10/new-jersey-politicians-want-to-ban-subscriptions-for-car-hardware/)
+- [The Cult of Dd](https://eklitzke.org/the-cult-of-dd)
+- [Bumble releases open-source A.I. feature to help combat cyberflashing](https://bumble.com/the-buzz/bumble-open-source-private-detector-ai-cyberflashing-dick-pics)
+- [Salary Transparency](https://xeiaso.net/salary-transparency)
+- [The Surreal Horror of PAM &lpar;2021&rpar;](https://xeiaso.net/talks/surreal-horror-pam-2021-11-09)
+- [New Psychedelic Entactogens](https://psychedelicreview.com/new-psychedelic-entactogens-designer-drugs-produce-designer-effects/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

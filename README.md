@@ -370,16 +370,16 @@
 ### _Information Week posts_
 
 <!-- INFORMATIONWEEK-POST-LIST:START -->
+- [BaaS, Social Payment Apps Gain Traction](https://www.informationweek.com/fintech/baas-social-payment-apps-gain-traction)
+- [CIOs Face IT Spending Squeeze, Security Woes, Higher Expectations in 2023](https://www.informationweek.com/strategic-cio/cios-face-it-spending-squeeze-security-woes-higher-expectations-in-2023)
+- [Cloud Certifications: A Differentiating Factor in the Tech Industry](https://www.informationweek.com/cloud/cloud-certifications-a-differentiating-factor-in-the-tech-industry)
+- [Tips to Achieve Enterprise ML Success](https://www.informationweek.com/big-data/tips-to-achieve-enterprise-ml-success)
 - [Buttoning Up Cybersecurity to Avoid Fashion Retailer&#39;s Fate](https://www.informationweek.com/security-and-risk-strategy/buttoning-up-cybersecurity-to-avoid-fashion-retailer-s-fate)
 - [Why Your IT Organization Needs to Embrace Continuous Improvement](https://www.informationweek.com/strategic-cio/why-your-it-organization-needs-to-embrace-continuous-improvement)
 - [Your Apple Watch Might Save Your Life](https://www.informationweek.com/healthcare/your-apple-watch-might-save-your-life)
 - [How CFOs Will Tackle Challenges Heading into 2023](https://www.informationweek.com/big-data/how-cfos-will-tackle-challenges-heading-into-2023)
 - [Where is Blockchain Headed?](https://www.informationweek.com/fintech/where-is-blockchain-headed-)
 - [How to Break Bad News to Your IT Team Without Killing Morale](https://www.informationweek.com/strategic-cio/how-to-break-bad-news-to-your-it-team-without-killing-morale)
-- [Quick Study:  IT Budgets and Cost Management](https://www.informationweek.com/strategic-cio/quick-study-it-budgets-and-cost-management)
-- [Services You Should Expect From Your Cyber Insurance Provider](https://www.informationweek.com/security-and-risk-strategy/services-you-should-expect-from-your-cyber-insurance-provider)
-- [Cracking the Code for Skills-Based Hiring](https://www.informationweek.com/strategic-cio/cracking-the-code-for-skills-based-hiring)
-- [How the European Energy Crisis Could Impact IT](https://www.informationweek.com/sustainability/how-the-european-energy-crisis-could-impact-it)
 <!-- INFORMATIONWEEK-POST-LIST:END -->
 
 ### _InfoWorld posts_

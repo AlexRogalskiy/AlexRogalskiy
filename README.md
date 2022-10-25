@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war live news: 25,000 have fled Kherson, Moscow says; west denounces Kremlin ‘dirty bomb’ claim](https://www.theguardian.com/world/live/2022/oct/24/russia-ukraine-war-live-news-25000-have-fled-kherson-moscow-says-west-denounces-kremlin-dirty-bomb-claim)
-- [China economy grows faster than expected, but falls short of targets as risks loom](https://www.theguardian.com/world/2022/oct/24/china-economy-gdp-growth-faster-than-expected-but-falls-short-of-targets-as-risks-loom)
-- [Terror to elation: Ukrainian woman’s journey from Azovstal to PoW to freedom](https://www.theguardian.com/world/2022/oct/24/terror-to-elation-ukrainian-womans-journey-from-azovstal-to-pow-to-freedom)
-- [Global deforestation pledge will be missed without urgent action, say researchers](https://www.theguardian.com/environment/2022/oct/24/global-deforestation-pledge-destruction-forests)
-- [Operation Soteria: a new approach to investigating rape – podcast](https://www.theguardian.com/news/audio/2022/oct/24/operation-soteria-rape-conviction-rates-podcast)
-- [Big opportunity, little interest: New Zealand struggles to fill dream job protecting wildlife](https://www.theguardian.com/world/2022/oct/24/new-zealand-struggles-to-fill-dream-job-protecting-wildlife)
-- [Two dead after Hurricane Roslyn hits Mexico Pacific coast](https://www.theguardian.com/world/2022/oct/23/hurricane-roslyn-hits-mexico)
-- [‘Bojo: It’s a no’: what the papers say as Johnson pulls out and Sunak surges ahead](https://www.theguardian.com/media/2022/oct/24/newspaper-front-pages-today-uk-what-the-papers-say-boris-johnson-bojo-no-rishi-sunak-tory-leadership-race)
-- [Who is Li Qiang, the man poised to become China’s next premier?](https://www.theguardian.com/world/2022/oct/24/who-is-li-qiang-the-man-poised-to-become-chinas-next-premier)
-- [‘Simona’s integrity is faultless’: former coach throws support behind Halep](https://www.theguardian.com/sport/2022/oct/24/simonas-integrity-is-faultless-former-coach-throws-support-behind-halep)
+- [Progressive Democrats urge Joe Biden to shift strategy and directly engage with Russia](https://www.theguardian.com/us-news/2022/oct/25/progressive-democrats-urge-joe-biden-to-shift-strategy-and-directly-engage-with-russia)
+- [Four Palestinians killed by Israeli forces in West Bank, health ministry says](https://www.theguardian.com/world/2022/oct/25/palestinians-killed-west-bank-firefight-israeli-forces)
+- [Xi Jinping’s party purge prompts fears of greater Taiwan invasion risk](https://www.theguardian.com/world/2022/oct/25/xi-jinping-party-purge-china-taiwan-invasion-risk)
+- [Harvey Weinstein’s new rape trial begins in Los Angeles](https://www.theguardian.com/world/2022/oct/24/harvey-weinstein-rape-trial-jennifer-siebel-newsom-los-angeles-court)
+- [Is the UK ready for Rishi Sunak? – podcast](https://www.theguardian.com/politics/audio/2022/oct/25/is-the-uk-ready-for-rishi-sunak-podcast)
+- [Chorus of outrage against Kanye West grows as antisemitic incidents rattle LA](https://www.theguardian.com/us-news/2022/oct/24/los-angeles-leaders-condemn-kanye-wests-antisemitic-comments)
+- [‘Who voted for you?’: what the papers say as Rishi Sunak prepares to become prime minister](https://www.theguardian.com/media/2022/oct/25/who-voted-for-you-what-the-papers-say-as-rishi-sunak-prepares-to-become-prime-minister)
+- [Russia-Ukraine war latest: what we know on day 244 of the invasion](https://www.theguardian.com/world/2022/oct/25/russia-ukraine-war-latest-what-we-know-on-day-244-of-the-invasion)
+- [One in five girls in England don’t feel safe at school – survey](https://www.theguardian.com/world/2022/oct/25/one-in-five-girls-in-england-dont-feel-safe-at-school-survey)
+- [Tim Paine alleges South African ball tampering followed Australian sandpaper scandal](https://www.theguardian.com/sport/2022/oct/25/tim-paine-alleges-south-african-ball-tampering-followed-australian-sandpaper-scandal)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

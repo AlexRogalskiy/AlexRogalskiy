@@ -400,16 +400,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
+- [Complacency biggest cyber risk to UK plc, says ICO](https://www.computerweekly.com/news/252526431/Complacency-biggest-cyber-risk-to-UK-plc-says-ICO)
+- [Half of staff might quit after a cyber attack, report says](https://www.computerweekly.com/news/252526433/Half-of-staff-might-quit-after-a-cyber-attack-report-says)
+- [Digital Transformation Week Amsterdam: The growing divide between the haves and have-nots](https://www.computerweekly.com/news/252526432/Digital-transformation-week-Amsterdam-The-growing-divide-between-the-haves-and-have-nots)
+- [Berlingske Media to go all-digital in 2023](https://www.computerweekly.com/news/252526425/Berlingske-Media-to-go-all-digital-in-2023)
+- [Improving finance and accounting software with AI](https://www.computerweekly.com/feature/Improving-finance-and-accounting-software-with-AI)
 - [HSBC chooses Oracle Exadata Cloud@Customer service to underpin digital](https://www.computerweekly.com/news/252526383/HSBC-chooses-Oracle-Exadata-CloudCustomer-service-to-underpin-digital)
 - [Cloud bursting: Six key steps in planning and decision-making](https://www.computerweekly.com/feature/Cloud-bursting-Six-key-steps-in-planning-and-decision-making)
 - [Ukrainian and UK IT sectors to deepen collaboration, partnerships](https://www.computerweekly.com/news/252526378/Ukrainian-and-UK-IT-sectors-to-deepen-collaboration-partnerships)
 - [Did Truss authorise ‘war risk’ provocation over Black Sea?](https://www.computerweekly.com/news/252526360/Did-Truss-authorise-war-risk-provocation-over-Black-Sea)
 - [Efficiency to empathy: Customer experience in cost-of living crisis](https://www.computerweekly.com/feature/Efficiency-to-empathy-customer-experience-in-cost-of-living-crisis)
-- [Microsoft slams external researchers over its own data leak](https://www.computerweekly.com/news/252526376/Microsoft-slams-external-researchers-over-its-own-data-leak)
-- [High data quality key to reducing supply chain disruption](https://www.computerweekly.com/feature/High-data-quality-key-to-reducing-supply-chain-disruption)
-- [What do the US’s new software security rules mean for UK organisations?](https://www.computerweekly.com/feature/What-do-the-US-new-software-security-rules-mean-for-UK-organisations)
-- [The Security Interviews: Why now for ZTNA 2.0?](https://www.computerweekly.com/news/252526164/The-Security-Interviews-Why-now-for-ZTNA-20)
-- [Parliamentary committee launches inquiry into AI governance](https://www.computerweekly.com/news/252526324/Parliamentary-committee-launches-inquiry-into-AI-governance)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Want to Communicate Effectively at Work? Eliminate These Cognitive Distortions](https://www.techtello.com/avoid-these-cognitive-distortions-to-communicate-effectively/)
-- [EU Gives Final Approval to Law That Will Force iPhone to Switch to USB-C](https://www.macrumors.com/2022/10/24/eu-gives-final-approval-to-usb-c-law/)
-- [Meta Learning Backpropagation and Improving It](https://arxiv.org/abs/2012.14905)
-- [Ask HN: What Is the Hype with Docker?](https://news.ycombinator.com/item?id=33325474)
-- [Car feature subscriptions should be illegal, New Jersey Legislators say](https://arstechnica.com/cars/2022/10/new-jersey-politicians-want-to-ban-subscriptions-for-car-hardware/)
-- [The Cult of Dd](https://eklitzke.org/the-cult-of-dd)
-- [Bumble releases open-source A.I. feature to help combat cyberflashing](https://bumble.com/the-buzz/bumble-open-source-private-detector-ai-cyberflashing-dick-pics)
-- [Salary Transparency](https://xeiaso.net/salary-transparency)
-- [The Surreal Horror of PAM &lpar;2021&rpar;](https://xeiaso.net/talks/surreal-horror-pam-2021-11-09)
-- [New Psychedelic Entactogens](https://psychedelicreview.com/new-psychedelic-entactogens-designer-drugs-produce-designer-effects/)
+- [SpaceX Launches Starlink ‘Flat High-Performance’ Dish for Moving Vehicles](https://teslanorth.com/2022/10/25/spacex-launches-starlink-flat-high-performance-dish-for-internet-in-moving-vehicles/)
+- [The Hotel I Booked Online Became a Homeless Shelter and No One Told Me](https://www.nytimes.com/2022/10/25/travel/tripped-up-hotel-booking.html)
+- [How to request removal of your contact info from Google search results](https://blog.google/products/search/a-new-search-tool-to-help-control-your-online-presence/)
+- [Our Conscious Experience of the World Is but a Memory, Says New Theory](https://singularityhub.com/2022/10/25/could-consciousness-be-a-memory-system-new-theory-says-yes/)
+- [The irrelevance of test scores is greatly exaggerated](https://dynomight.net/are-tests-irrelevant/)
+- [Microsoft FY23 Q1 Earnings](https://www.microsoft.com/en-us/investor/earnings/FY-2023-Q1/press-release-webcast)
+- [TabPFN: Transformer Solves Small Tabular Classification in a Second](https://www.automl.org/tabpfn-a-transformer-that-solves-small-tabular-classification-problems-in-a-second/)
+- [Multi-Kernel Drifting](https://luqman.ca/blog/multi-kernel-drifting/)
+- [Google added HEVC support in Chrome](https://bitmovin.com/google-adds-hevc-support-chrome/)
+- [Show HN: Encrypt and hide files inside images](https://github.com/7thSamurai/steganography)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

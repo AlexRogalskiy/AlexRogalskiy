@@ -400,16 +400,16 @@
 ### _Computer Weekly posts_
 
 <!-- COMPUTERWEEKLY-POST-LIST:START -->
-- [Complacency biggest cyber risk to UK plc, says ICO](https://www.computerweekly.com/news/252526431/Complacency-biggest-cyber-risk-to-UK-plc-says-ICO)
-- [Half of staff might quit after a cyber attack, report says](https://www.computerweekly.com/news/252526433/Half-of-staff-might-quit-after-a-cyber-attack-report-says)
-- [Digital Transformation Week Amsterdam: The growing divide between the haves and have-nots](https://www.computerweekly.com/news/252526432/Digital-transformation-week-Amsterdam-The-growing-divide-between-the-haves-and-have-nots)
-- [Berlingske Media to go all-digital in 2023](https://www.computerweekly.com/news/252526425/Berlingske-Media-to-go-all-digital-in-2023)
-- [Improving finance and accounting software with AI](https://www.computerweekly.com/feature/Improving-finance-and-accounting-software-with-AI)
-- [HSBC chooses Oracle Exadata Cloud@Customer service to underpin digital](https://www.computerweekly.com/news/252526383/HSBC-chooses-Oracle-Exadata-CloudCustomer-service-to-underpin-digital)
-- [Cloud bursting: Six key steps in planning and decision-making](https://www.computerweekly.com/feature/Cloud-bursting-Six-key-steps-in-planning-and-decision-making)
-- [Ukrainian and UK IT sectors to deepen collaboration, partnerships](https://www.computerweekly.com/news/252526378/Ukrainian-and-UK-IT-sectors-to-deepen-collaboration-partnerships)
-- [Did Truss authorise ‘war risk’ provocation over Black Sea?](https://www.computerweekly.com/news/252526360/Did-Truss-authorise-war-risk-provocation-over-Black-Sea)
-- [Efficiency to empathy: Customer experience in cost-of living crisis](https://www.computerweekly.com/feature/Efficiency-to-empathy-customer-experience-in-cost-of-living-crisis)
+- [Apple patches new iPhone zero-day](https://www.computerweekly.com/news/252526494/Apple-patches-new-iPhone-zero-day)
+- [Google Cloud in 2022: What’s in it for the enterprise?](https://www.computerweekly.com/news/252526440/Google-Cloud-in-2022-Whats-in-it-for-the-enterprise)
+- [Dutch lawyers raise human rights concerns over hacked cryptophone data](https://www.computerweekly.com/news/252526497/Dutch-lawyers-raise-human-rights-concerns-over-hacked-cryptophone-data)
+- [Sainsbury’s outsources for cloud-first benefits](https://www.computerweekly.com/news/252526486/Sainsburys-outsources-for-cloud-first-benefits)
+- [Apple puts pressure on manufacturing partners to decarbonise their operations through yearly audits](https://www.computerweekly.com/news/252526492/Apple-puts-pressure-on-manufacturing-partners-to-decarbonise-their-operations-through-yearly-audits)
+- [US authorities charge two Chinese spies over telco security probe](https://www.computerweekly.com/news/252526477/US-authorities-charge-two-Chinese-spies-over-telco-security-probe)
+- [UK needs stronger regional innovation clusters outside South East](https://www.computerweekly.com/news/252526479/UK-needs-stronger-regional-innovation-clusters-outside-Southeast)
+- [UK finance regulator investigates big tech finance threats and benefits](https://www.computerweekly.com/news/252526476/UK-finance-regulator-investigates-big-tech-finance-threats-and-benefits)
+- [Germany: European Court of Justice asked to rule on legality of hacked EncroChat phone evidence](https://www.computerweekly.com/news/252526474/Germany-European-Court-of-Justice-asked-to-rule-on-legality-of-hacked-EncroChat-phone-evidence)
+- [Digital-first businesses more willing to accept some fraud](https://www.computerweekly.com/news/252526439/Digital-first-businesses-more-willing-to-accept-some-fraud)
 <!-- COMPUTERWEEKLY-POST-LIST:END -->
 
 ### _Reddit posts_

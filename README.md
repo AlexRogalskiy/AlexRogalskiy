@@ -415,6 +415,8 @@
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Too Much Information and Options. I want to kick start my IT CAREER.](https://www.reddit.com/r/InformationTechnology/comments/ydcauj/too_much_information_and_options_i_want_to_kick/)
+- [IT | CYBERSECURITY | MUSIC | FUNNY](https://www.reddit.com/r/InformationTechnology/comments/yd5ky1/it_cybersecurity_music_funny/)
 - [Trying to get my head deepnin IT for my career.](https://www.reddit.com/r/InformationTechnology/comments/yctcq7/trying_to_get_my_head_deepnin_it_for_my_career/)
 - [Rapid 7 nexpose](https://www.reddit.com/r/InformationTechnology/comments/ycjjdr/rapid_7_nexpose/)
 - [Potential Switch of my Career Path to IT-Possible Testimonials, Things I should know, Academia, Etc.](https://www.reddit.com/r/InformationTechnology/comments/yced8x/potential_switch_of_my_career_path_to_itpossible/)
@@ -423,8 +425,6 @@
 - [For those that are 50+ and successfully made a career change.](https://www.reddit.com/r/InformationTechnology/comments/ybzgn8/for_those_that_are_50_and_successfully_made_a/)
 - [U.K. petition](https://www.reddit.com/r/InformationTechnology/comments/ybltjy/uk_petition/)
 - [Lots of News](https://www.reddit.com/r/InformationTechnology/comments/yawhg6/lots_of_news/)
-- [What is the value of cloud computing to an entrepreneur who is starting a business?](https://www.reddit.com/r/InformationTechnology/comments/yaqq6a/what_is_the_value_of_cloud_computing_to_an/)
-- [Job Interview](https://www.reddit.com/r/InformationTechnology/comments/y9qj67/job_interview/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _ITWorld Canada posts_

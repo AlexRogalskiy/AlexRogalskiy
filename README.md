@@ -385,16 +385,16 @@
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Ubuntu 22.10 shines on MicroPython, microcontrollers](https://www.infoworld.com/article/3677575/ubuntu-22-10-shines-on-micropython-microcontrollers.html#tk.rss_all)
+- [Condensers promise to accelerate Java programs](https://www.infoworld.com/article/3677770/condensers-promise-to-accelerate-java-programs.html#tk.rss_all)
+- [Why openness always matters](https://www.infoworld.com/article/3677572/why-openness-always-matters.html#tk.rss_all)
+- [Why you’re getting cloud security wrong](https://www.infoworld.com/article/3677570/why-youre-getting-cloud-security-wrong.html#tk.rss_all)
+- [IT career roadmap: Full-stack developer](https://www.infoworld.com/article/3676691/it-career-roadmap-full-stack-developer.html#tk.rss_all)
 - [The best new features and fixes in Python 3.11](https://www.infoworld.com/article/3660550/the-best-new-features-and-fixes-in-python-311.html#tk.rss_all)
 - [12 ggplot extensions for snazzier R graphics](https://www.infoworld.com/article/3667496/12-ggplot-extensions-for-snazzier-r-graphics.html#tk.rss_all)
 - [Sysdig’s new Cost Advisor aims to cut Kubernetes costs](https://www.infoworld.com/article/3677851/sysdigs-new-cost-advisor-aims-to-cut-kubernetes-costs.html#tk.rss_all)
 - [Postgres is eating relational](https://www.infoworld.com/article/3677629/postgres-is-eating-relational.html#tk.rss_all)
 - [Most reported CVEs for Docker Hub images are harmless](https://www.infoworld.com/article/3677550/most-reported-cves-for-docker-hub-images-are-harmless.html#tk.rss_all)
-- [5 modelops capabilities that boost data science productivity](https://www.infoworld.com/article/3677368/5-modelops-capabilities-that-boost-data-science-productivity.html#tk.rss_all)
-- [How to choose a cloud CI/CD platform](https://www.infoworld.com/article/3620932/how-to-choose-a-cloud-cicd-platform.html#tk.rss_all)
-- [Oracle makes Java discovery service free to all](https://www.infoworld.com/article/3677569/discover-your-old-and-broken-java-instances-on-oracle-cloud.html#tk.rss_all)
-- [It’s time to prioritize SaaS security](https://www.infoworld.com/article/3677270/dont-neglect-saas-security.html#tk.rss_all)
-- [How to improve EF Core 7 performance](https://www.infoworld.com/article/3676583/how-to-improve-ef-core-7-performance.html#tk.rss_all)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _Computer Weekly posts_

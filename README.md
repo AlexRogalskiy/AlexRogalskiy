@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Progressive Democrats urge Joe Biden to shift strategy and directly engage with Russia](https://www.theguardian.com/us-news/2022/oct/25/progressive-democrats-urge-joe-biden-to-shift-strategy-and-directly-engage-with-russia)
-- [Four Palestinians killed by Israeli forces in West Bank, health ministry says](https://www.theguardian.com/world/2022/oct/25/palestinians-killed-west-bank-firefight-israeli-forces)
-- [Xi Jinping’s party purge prompts fears of greater Taiwan invasion risk](https://www.theguardian.com/world/2022/oct/25/xi-jinping-party-purge-china-taiwan-invasion-risk)
-- [Harvey Weinstein’s new rape trial begins in Los Angeles](https://www.theguardian.com/world/2022/oct/24/harvey-weinstein-rape-trial-jennifer-siebel-newsom-los-angeles-court)
-- [Is the UK ready for Rishi Sunak? – podcast](https://www.theguardian.com/politics/audio/2022/oct/25/is-the-uk-ready-for-rishi-sunak-podcast)
-- [Chorus of outrage against Kanye West grows as antisemitic incidents rattle LA](https://www.theguardian.com/us-news/2022/oct/24/los-angeles-leaders-condemn-kanye-wests-antisemitic-comments)
-- [‘Who voted for you?’: what the papers say as Rishi Sunak prepares to become prime minister](https://www.theguardian.com/media/2022/oct/25/who-voted-for-you-what-the-papers-say-as-rishi-sunak-prepares-to-become-prime-minister)
-- [Russia-Ukraine war latest: what we know on day 244 of the invasion](https://www.theguardian.com/world/2022/oct/25/russia-ukraine-war-latest-what-we-know-on-day-244-of-the-invasion)
-- [One in five girls in England don’t feel safe at school – survey](https://www.theguardian.com/world/2022/oct/25/one-in-five-girls-in-england-dont-feel-safe-at-school-survey)
-- [Tim Paine alleges South African ball tampering followed Australian sandpaper scandal](https://www.theguardian.com/sport/2022/oct/25/tim-paine-alleges-south-african-ball-tampering-followed-australian-sandpaper-scandal)
+- [Biden and Sunak vow to support Ukraine and counter China in first call](https://www.theguardian.com/politics/2022/oct/26/biden-and-sunak-vow-to-support-ukraine-and-counter-china-in-first-call)
+- [The rise of Europe’s far-right parties – podcast](https://www.theguardian.com/news/audio/2022/oct/26/the-rise-of-europes-far-right-parties-podcast)
+- [‘Sunak’s crisis cabinet’: what the papers say after prime minister’s reshuffle](https://www.theguardian.com/media/2022/oct/26/sunaks-crisis-cabinet-what-the-papers-say-after-prime-ministers-reshuffle)
+- [Harvey Weinstein accuser testifies she wanted to ‘destroy’ herself after assault](https://www.theguardian.com/us-news/2022/oct/25/harvey-weinstein-trial-witness)
+- [Cyclone Sitrang: 24 dead as Bangladesh seeks to restore power to millions](https://www.theguardian.com/world/2022/oct/26/cyclone-sitrang-24-dead-as-bangladesh-seeks-to-restore-power-to-millions)
+- [Russia-Ukraine war at a glance: what we know on day 245 of the invasion](https://www.theguardian.com/world/2022/oct/26/russia-ukraine-war-at-a-glance-what-we-know-on-day-245-of-the-invasion)
+- [King Charles criticises lack of vocational education while on The Repair Shop](https://www.theguardian.com/education/2022/oct/26/king-charles-criticises-lack-vocational-education-the-repair-shop)
+- [Industry season two, episode five recap – finally, we get everything we’ve been waiting for!](https://www.theguardian.com/tv-and-radio/2022/oct/25/industry-season-two-episode-five-recap-finally-we-get-everything-weve-been-waiting-for)
+- [Global health at mercy of fossil fuel addiction, warn scientists](https://www.theguardian.com/environment/2022/oct/25/global-health-fossil-fuels-climate-oil-gas-food-energy-cost-of-living)
+- [Deadliest summer for heat-related deaths in Arizona’s biggest county](https://www.theguardian.com/us-news/2022/oct/25/arizona-heat-related-deaths-summer-maricopa-county)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

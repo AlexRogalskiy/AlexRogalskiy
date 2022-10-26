@@ -355,6 +355,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Cisco Webex supports hybrid work with new collaboration capabilities](https://www.computerworld.com/article/3677497/cisco-webex-supports-hybrid-work-with-new-collaboration-capabilities.html#tk.rss_all)
+- [Apple’s DeskView and Continuity Camera come to Webex](https://www.computerworld.com/article/3677630/apples-deskview-and-continuity-camera-come-to-webex.html#tk.rss_all)
+- [Why more than half of IT leaders may be looking for new jobs](https://www.computerworld.com/article/3677573/why-more-than-half-of-it-leaders-may-be-looking-for-new-jobs.html#tk.rss_all)
 - [10+ ways iPadOS 16 can make you more productive](https://www.computerworld.com/article/3677868/10-ways-ipados-16-can-make-you-more-productive.html#tk.rss_all)
 - [What does Windows 10 22H2 bring to the table? Not much.](https://www.computerworld.com/article/3677571/what-does-windows-10-22h2-bring-to-the-table-not-much.html#tk.rss_all)
 - [Sustainable IT: An environmental and social approach to business tech](https://www.computerworld.com/article/3676131/sustainable-it-environmental-and-social-approach-to-business-technology.html#tk.rss_all)
@@ -362,9 +365,6 @@
 - [9 more out-of-sight settings for your Google Pixel 7](https://www.computerworld.com/article/3676582/google-pixel-7-more-settings.html#tk.rss_all)
 - [Google opens up Workspace with slew of third-party integrations](https://www.computerworld.com/article/3677628/google-opens-up-workspace-with-slew-of-third-party-integrations.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [IT spending to grow, as companies use tech to battle expected recession](https://www.computerworld.com/article/3677588/it-spending-to-grow-as-companies-use-tech-to-battle-expected-recession.html#tk.rss_all)
-- [Lenovo Tech World 2022: aiming for a metaverse upgrade?](https://www.computerworld.com/article/3677568/lenovo-tech-world-2022-aiming-for-a-metaverse-upgrade.html#tk.rss_all)
-- [IBM sales jump shows the mainframe is not dead, with hybrid cloud alive and well](https://www.networkworld.com/article/3677548/ibm-sales-jump-shows-the-mainframe-is-not-dead-with-hybrid-cloud-alive-and-well.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

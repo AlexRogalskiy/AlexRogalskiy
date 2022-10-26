@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ask HN: How to Take Trade-off Decisions in Programming?](https://news.ycombinator.com/item?id=33326174)
-- [What “Work” Looks Like](https://blog.jim-nielsen.com/2022/what-work-looks-like/)
-- [Go and Proxy Servers: HTTP Proxies](https://eli.thegreenplace.net/2022/go-and-proxy-servers-part-1-http-proxies/)
-- [Conor Kennedy, grandson of RFK, secretly enlisted to fight in Ukraine](https://www.boston.com/news/national-news/2022/10/24/conor-kennedy-grandson-of-robert-f-kennedy-enlisted-secretly-to-fight-in-ukraine/)
-- [Math Scores Fell in Nearly Every State, and Reading Dipped on National Exam](https://www.nytimes.com/2022/10/24/us/math-reading-scores-pandemic.html)
-- [Online Greek Interlinear Bible &lpar;2015&rpar;](https://www.scripture4all.org/OnlineInterlinear/Greek_Index.htm)
-- [Social Media and Mental Health](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3919760)
-- [You Will Never Make a Novel Tech Product](https://www.nichfury.com/p/never)
-- [NZ Uber drivers win employment rights court case](https://www.1news.co.nz/2022/10/25/nz-uber-drivers-win-employment-rights-court-case/)
-- [Want to Communicate Effectively at Work? Eliminate These Cognitive Distortions](https://www.techtello.com/avoid-these-cognitive-distortions-to-communicate-effectively/)
+- [Building Software to Last Forever](https://herman.bearblog.dev/building-software-to-last-forever/)
+- [Sponsorblock Is Down](https://status.sponsor.ajay.app/)
+- [SwitchGlass 2.0](https://hypercritical.co/2022/10/25/switchglass-2)
+- [3D Positioning with Only Two Motors](https://athelaseng.substack.com/p/-3d-positioning-with-only-two-motors)
+- [Anchorage engineer plans to recycle ocean garbage into plastic lumber](https://alaskapublic.org/2021/05/19/anchorage-engineer-plans-to-recycle-ocean-garbage-into-plastic-lumber/)
+- [HVAC Systems – Indoor Air Quality Design Tools for Schools](https://www.epa.gov/iaq-schools/heating-ventilation-and-air-conditioning-systems-part-indoor-air-quality-design-tools)
+- [Open source sustainment and the future of Gitea](https://blog.gitea.io/2022/10/open-source-sustainment-and-the-future-of-gitea/)
+- [Airtable’s Quality Engineers Use Airtable &lpar;To Test Airtable&rpar;](https://blog.airtable.com/how-quality-engineers-use-airtable-to-test-airtable/)
+- [Sysdig: People are “freejacking” GitHub to mine crypto](https://www.techtarget.com/searchsecurity/news/252526523/Cryptomining-campaign-abused-free-GitHub-account-trials)
+- [OpenStreetMap Americana Style](https://github.com/ZeLonewolf/openstreetmap-americana)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

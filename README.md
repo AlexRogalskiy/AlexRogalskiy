@@ -430,16 +430,16 @@
 ### _ITWorld Canada posts_
 
 <!-- ITWORLDCANADA-POST-LIST:START -->
+- [Privacy rights must be respected in digital ID systems, say Canadian regulators](https://www.itworldcanada.com/article/privacy-rights-must-be-respected-in-digital-id-systems-say-canadian-regulators/509796)
+- [BlackBerry secure communication suite gets the nod for NATO networks](https://www.itworldcanada.com/article/blackberry-secure-communication-suite-gets-the-nod-for-nato-networks/509814)
+- [Coffee Briefing October 25, 2022 – Hootsuite partners with WHO; Sparrow receives C$1 million in funding; Visa’s Installments available at Canada’s largest retailers; and more](https://www.itworldcanada.com/article/coffee-briefing-october-25-2022-hootsuite-partners-with-who-sparrow-receives-c1-million-in-funding-visas-installments-available-at-canadas-largest-retailers-and-more/509760)
+- [Failure to start is one of the biggest mistakes CISOs make, MapleSEC conference told](https://www.itworldcanada.com/article/failure-to-start-is-one-of-the-biggest-mistakes-cisos-make-maplesec-conference-told/509805)
 - [MapleSEC, Myth and More: This Week In Ransomware – Oct 23rd, 2022](https://www.itworldcanada.com/article/maplesec-myth-and-more-this-week-in-ransomware-oct-23rd-2022/509621)
 - [Canadian CIO Association &lpar;CIOCAN&rpar; – New chapter chairs](https://www.itworldcanada.com/article/canadian-cio-association-ciocan-new-chapter-chairs/509780)
 - [Trilliant brings water consumption tracking into data-driven age](https://www.itworldcanada.com/article/trilliant-brings-water-consumption-tracking-into-data-driven-age/509773)
 - [Meta threatens to cancel news sharing over Bill C-18](https://www.itworldcanada.com/article/meta-threatens-to-cancel-news-sharing-over-bill-c-18/509748)
 - [Cyber Security Today, Oct. 24, 2022 – A new ransomware data removal tool is found, a warning that exploit proofs-of-concepts in Github may not be safe, and more](https://www.itworldcanada.com/article/cyber-security-today-oct-24-2022-a-new-ransomware-data-removal-tool-is-found-a-warning-that-exploit-proofs-of-concepts-in-github-may-not-be-safe-and-more/509655)
 - [Hashtag Trending Oct. 24 – Meta mulls news sharing in Canada; incredible new astronomy camera; new anti-cockroach lasers](https://www.itworldcanada.com/article/hashtag-trending-oct-24-meta-mulls-news-sharing-in-canada-incredible-new-astronomy-camera-new-anti-cockroach-lasers/509688)
-- [Digging deep on data and AI: Nik LIndstrom from Unit Q – Hashtag Trending Weekend Edition for Oct 22nd 2022](https://www.itworldcanada.com/article/digging-deep-on-data-and-ai-nick-lindstrom-from-unit-q-hashtag-trending-weekend-edition-for-oct-22nd-2022/509626)
-- [Forbes names CGI one of the “World’s Best Employers”](https://www.itworldcanada.com/article/forbes-names-cgi-one-of-the-worlds-best-employers/509376)
-- [Stanford names Mila’s founder third most influential scientist in the world](https://www.itworldcanada.com/article/stanford-names-milas-founder-third-most-influential-scientist-in-the-world/509358)
-- [Trio of experts explores the complex world of ransomware](https://www.itworldcanada.com/article/trio-of-experts-explores-the-complex-world-of-ransomware/509329)
 <!-- ITWORLDCANADA-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/icons/activities.png" alt="Recent Activities icon" width="30px" height="30px" style="max-width:100%;"> _Recent Activities_

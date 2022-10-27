@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [SpaceX Launches Starlink ‘Flat High-Performance’ Dish for Moving Vehicles](https://teslanorth.com/2022/10/25/spacex-launches-starlink-flat-high-performance-dish-for-internet-in-moving-vehicles/)
-- [The Hotel I Booked Online Became a Homeless Shelter and No One Told Me](https://www.nytimes.com/2022/10/25/travel/tripped-up-hotel-booking.html)
-- [How to request removal of your contact info from Google search results](https://blog.google/products/search/a-new-search-tool-to-help-control-your-online-presence/)
-- [Our Conscious Experience of the World Is but a Memory, Says New Theory](https://singularityhub.com/2022/10/25/could-consciousness-be-a-memory-system-new-theory-says-yes/)
-- [The irrelevance of test scores is greatly exaggerated](https://dynomight.net/are-tests-irrelevant/)
-- [Microsoft FY23 Q1 Earnings](https://www.microsoft.com/en-us/investor/earnings/FY-2023-Q1/press-release-webcast)
-- [TabPFN: Transformer Solves Small Tabular Classification in a Second](https://www.automl.org/tabpfn-a-transformer-that-solves-small-tabular-classification-problems-in-a-second/)
-- [Multi-Kernel Drifting](https://luqman.ca/blog/multi-kernel-drifting/)
-- [Google added HEVC support in Chrome](https://bitmovin.com/google-adds-hevc-support-chrome/)
-- [Show HN: Encrypt and hide files inside images](https://github.com/7thSamurai/steganography)
+- [We Switched from Python to Go](https://getstream.io/blog/switched-python-go/)
+- [An ode to that “coffee friend”](https://tiramisu.bearblog.dev/coffee-gift/)
+- [Show HN: I solved my New Tab page](https://startertab.com/)
+- [Most buildings at MIT campus are remaining closed to the public](https://twitter.com/jack_b_reid/status/1556735206547066880)
+- [Galactic settlement of low-mass stars as a resolution to the Fermi paradox](https://arxiv.org/abs/2210.10656)
+- [Emulator Performance: WebAssembly vs. JavaScript &lpar;2021&rpar;](http://8bitworkshop.com/docs/posts/2021/webassembly-vs-javascript-emulator-performance.html)
+- [Vim After 15 Years &lpar;2017&rpar;](https://blog.langworth.com/vim3)
+- [Video gaming may be associated with better cognitive performance in children](https://nida.nih.gov/news-events/news-releases/2022/10/video-gaming-may-be-associated-with-better-cognitive-performance-in-children)
+- [Unreal Tournament 99 running on WASM &lpar;2017&rpar;](https://icculus.org/ut99-emscripten/)
+- [The United States’ Unamendable Constitution](https://www.newyorker.com/culture/annals-of-inquiry/the-united-states-unamendable-constitution)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

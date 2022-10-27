@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
-- [Cisco Webex supports hybrid work with new collaboration capabilities](https://www.computerworld.com/article/3677497/cisco-webex-supports-hybrid-work-with-new-collaboration-capabilities.html#tk.rss_all)
-- [Apple’s DeskView and Continuity Camera come to Webex](https://www.computerworld.com/article/3677630/apples-deskview-and-continuity-camera-come-to-webex.html#tk.rss_all)
-- [Why more than half of IT leaders may be looking for new jobs](https://www.computerworld.com/article/3677573/why-more-than-half-of-it-leaders-may-be-looking-for-new-jobs.html#tk.rss_all)
-- [10+ ways iPadOS 16 can make you more productive](https://www.computerworld.com/article/3677868/10-ways-ipados-16-can-make-you-more-productive.html#tk.rss_all)
-- [What does Windows 10 22H2 bring to the table? Not much.](https://www.computerworld.com/article/3677571/what-does-windows-10-22h2-bring-to-the-table-not-much.html#tk.rss_all)
-- [Sustainable IT: An environmental and social approach to business tech](https://www.computerworld.com/article/3676131/sustainable-it-environmental-and-social-approach-to-business-technology.html#tk.rss_all)
-- [Workers with two jobs — is this really a problem?](https://www.computerworld.com/article/3677271/workers-with-two-jobs-is-this-really-a-problem.html#tk.rss_all)
-- [9 more out-of-sight settings for your Google Pixel 7](https://www.computerworld.com/article/3676582/google-pixel-7-more-settings.html#tk.rss_all)
-- [Google opens up Workspace with slew of third-party integrations](https://www.computerworld.com/article/3677628/google-opens-up-workspace-with-slew-of-third-party-integrations.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
+- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
+- [BrandPost: Q&amp;A: How do you proactively solve problems by tracking IoT devices?](https://www.computerworld.com/article/3677578/qanda-how-do-you-proactively-solve-problems-by-tracking-iot-devices.html#tk.rss_all)
+- [BrandPost: Top 3 Mobile Security Lessons](https://www.computerworld.com/article/3677577/top-3-mobile-security-lessons.html#tk.rss_all)
+- [BrandPost: VMware Customers are Building the New Multi-Cloud Universe](https://www.computerworld.com/article/3677875/vmware-customers-are-building-the-new-multi-cloud-universe.html#tk.rss_all)
+- [BrandPost: Top Three Kubernetes Myths](https://www.computerworld.com/article/3677500/top-three-kubernetes-myths.html#tk.rss_all)
+- [BrandPost: Saved by Zero](https://www.computerworld.com/article/3677865/saved-by-zero.html#tk.rss_all)
+- [Apple VP confirms iPhones will shift to USB-C](https://www.computerworld.com/article/3677864/apple-vp-confirms-iphones-will-shift-to-usb-c.html#tk.rss_all)
+- [Rising cloud revenue helps soften Microsoft’s growth slowdown](https://www.computerworld.com/article/3677867/rising-cloud-revenue-helps-soften-microsofts-growth-slowdown.html#tk.rss_all)
+- [Is performance tracking about to go mobile?](https://www.computerworld.com/article/3677855/is-performance-tracking-about-to-go-mobile.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Building Software to Last Forever](https://herman.bearblog.dev/building-software-to-last-forever/)
-- [Sponsorblock Is Down](https://status.sponsor.ajay.app/)
-- [SwitchGlass 2.0](https://hypercritical.co/2022/10/25/switchglass-2)
-- [3D Positioning with Only Two Motors](https://athelaseng.substack.com/p/-3d-positioning-with-only-two-motors)
-- [Anchorage engineer plans to recycle ocean garbage into plastic lumber](https://alaskapublic.org/2021/05/19/anchorage-engineer-plans-to-recycle-ocean-garbage-into-plastic-lumber/)
-- [HVAC Systems – Indoor Air Quality Design Tools for Schools](https://www.epa.gov/iaq-schools/heating-ventilation-and-air-conditioning-systems-part-indoor-air-quality-design-tools)
-- [Open source sustainment and the future of Gitea](https://blog.gitea.io/2022/10/open-source-sustainment-and-the-future-of-gitea/)
-- [Airtable’s Quality Engineers Use Airtable &lpar;To Test Airtable&rpar;](https://blog.airtable.com/how-quality-engineers-use-airtable-to-test-airtable/)
-- [Sysdig: People are “freejacking” GitHub to mine crypto](https://www.techtarget.com/searchsecurity/news/252526523/Cryptomining-campaign-abused-free-GitHub-account-trials)
-- [OpenStreetMap Americana Style](https://github.com/ZeLonewolf/openstreetmap-americana)
+- [Deceptive fund name crackdown puts investment managers on edge](https://www.ft.com/content/536fc7fb-0748-4289-97ed-a6e50bd6435a)
+- [Is there any note-taking software/app for video?](https://news.ycombinator.com/item?id=33352743)
+- [Write tests. Not too many. Mostly integration](https://kentcdodds.com/blog/write-tests)
+- [Ask HN: How long do take home coding projects take you?](https://news.ycombinator.com/item?id=33352703)
+- [A Better Way to UseMemo and UseCallback](https://betterprogramming.pub/a-better-way-to-usememo-and-usecallback-58288a19f91c)
+- [The Essential Philip K. Dick](https://www.nytimes.com/2022/10/26/books/best-philip-k-dick-novels.html)
+- [What a Wednesday is like for a quarterback in the NFL](https://theathletic.com/3722112/2022/10/26/rams-quarterback-john-wolford/)
+- [Computers Draw Weird Shapes &lpar;Marching Squares&rpar; [video]](https://www.youtube.com/watch?v=6oMZb3yP_H8)
+- [Exploration of M31 via Black-Hole Slingshots and the “Intergalactic Imperative”](https://arxiv.org/abs/2210.10622)
+- [The On-Line Encyclopedia of Integer Sequences](https://oeis.org/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

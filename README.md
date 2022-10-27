@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Biden and Sunak vow to support Ukraine and counter China in first call](https://www.theguardian.com/politics/2022/oct/26/biden-and-sunak-vow-to-support-ukraine-and-counter-china-in-first-call)
-- [The rise of Europe’s far-right parties – podcast](https://www.theguardian.com/news/audio/2022/oct/26/the-rise-of-europes-far-right-parties-podcast)
-- [‘Sunak’s crisis cabinet’: what the papers say after prime minister’s reshuffle](https://www.theguardian.com/media/2022/oct/26/sunaks-crisis-cabinet-what-the-papers-say-after-prime-ministers-reshuffle)
-- [Harvey Weinstein accuser testifies she wanted to ‘destroy’ herself after assault](https://www.theguardian.com/us-news/2022/oct/25/harvey-weinstein-trial-witness)
-- [Cyclone Sitrang: 24 dead as Bangladesh seeks to restore power to millions](https://www.theguardian.com/world/2022/oct/26/cyclone-sitrang-24-dead-as-bangladesh-seeks-to-restore-power-to-millions)
-- [Russia-Ukraine war at a glance: what we know on day 245 of the invasion](https://www.theguardian.com/world/2022/oct/26/russia-ukraine-war-at-a-glance-what-we-know-on-day-245-of-the-invasion)
-- [King Charles criticises lack of vocational education while on The Repair Shop](https://www.theguardian.com/education/2022/oct/26/king-charles-criticises-lack-vocational-education-the-repair-shop)
-- [Industry season two, episode five recap – finally, we get everything we’ve been waiting for!](https://www.theguardian.com/tv-and-radio/2022/oct/25/industry-season-two-episode-five-recap-finally-we-get-everything-weve-been-waiting-for)
-- [Global health at mercy of fossil fuel addiction, warn scientists](https://www.theguardian.com/environment/2022/oct/25/global-health-fossil-fuels-climate-oil-gas-food-energy-cost-of-living)
-- [Deadliest summer for heat-related deaths in Arizona’s biggest county](https://www.theguardian.com/us-news/2022/oct/25/arizona-heat-related-deaths-summer-maricopa-county)
+- [Bees ‘count’ from left to right, study finds](https://www.theguardian.com/environment/2022/oct/27/bees-count-from-left-to-right-study-finds)
+- [Kanye West escorted out of Skechers office after showing up unannounced](https://www.theguardian.com/music/2022/oct/26/kanye-west-escorted-out-skechers)
+- [Harvey Weinstein trial: witness breaks down as defense digs into lack of proof](https://www.theguardian.com/us-news/2022/oct/26/harvey-weinstein-trial-witness-breaks-down-defense-questions)
+- [Meta shares plummet alongside billion-dollar losses in metaverse division](https://www.theguardian.com/technology/2022/oct/26/meta-earnings-report-facebook-stocks)
+- [Can Rishi Sunak pull the Conservative party back together? – podcast](https://www.theguardian.com/news/audio/2022/oct/27/can-rishi-sunak-pull-the-conservative-party-back-together-podcast)
+- [Second woman says Herschel Walker pressured her to have abortion](https://www.theguardian.com/us-news/2022/oct/26/herschel-walker-georgia-senate-abortion-clinic)
+- [Before-and-after satellite imagery will track Ukraine cultural damage, UN says](https://www.theguardian.com/world/2022/oct/27/before-and-after-satellite-imagery-will-track-ukraine-cultural-damage-un-says)
+- [Australia and England meet on T20 World Cup precipice having both lost their bite | Geoff Lemon](https://www.theguardian.com/sport/blog/2022/oct/27/australia-and-england-meet-on-t20-world-cup-precipice-having-both-lost-their-bite)
+- [Bruce Lehrmann trial aborted with jury discharged after outside material brought into jury room](https://www.theguardian.com/australia-news/2022/oct/27/jury-discharged-in-bruce-lehrmann-case-after-material-entered-jury-room-that-ought-not-to-have)
+- [Woman arrested after attack on Jacinda Ardern’s office in Auckland](https://www.theguardian.com/world/2022/oct/27/jacinda-ardern-woman-arrested-after-attack-on-new-zealand-prime-minister-office-auckland)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

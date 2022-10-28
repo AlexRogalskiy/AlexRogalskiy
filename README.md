@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Deceptive fund name crackdown puts investment managers on edge](https://www.ft.com/content/536fc7fb-0748-4289-97ed-a6e50bd6435a)
-- [Is there any note-taking software/app for video?](https://news.ycombinator.com/item?id=33352743)
-- [Write tests. Not too many. Mostly integration](https://kentcdodds.com/blog/write-tests)
-- [Ask HN: How long do take home coding projects take you?](https://news.ycombinator.com/item?id=33352703)
-- [A Better Way to UseMemo and UseCallback](https://betterprogramming.pub/a-better-way-to-usememo-and-usecallback-58288a19f91c)
-- [The Essential Philip K. Dick](https://www.nytimes.com/2022/10/26/books/best-philip-k-dick-novels.html)
-- [What a Wednesday is like for a quarterback in the NFL](https://theathletic.com/3722112/2022/10/26/rams-quarterback-john-wolford/)
-- [Computers Draw Weird Shapes &lpar;Marching Squares&rpar; [video]](https://www.youtube.com/watch?v=6oMZb3yP_H8)
-- [Exploration of M31 via Black-Hole Slingshots and the “Intergalactic Imperative”](https://arxiv.org/abs/2210.10622)
-- [The On-Line Encyclopedia of Integer Sequences](https://oeis.org/)
+- [Venture Capital Is Ripe for Disruption](https://every.to/napkin-math/venture-capital-is-ripe-for-disruption)
+- [Show HN: Alcove.xyz – A Nuzzle replacement using RSS](https://www.alcove.xyz)
+- [Ask HN: What is your opinion on computational photography?](https://news.ycombinator.com/item?id=33367292)
+- [Pumped-Storage Hydroelectricity](https://en.wikipedia.org/wiki/Pumped-storage_hydroelectricity)
+- [Beyond Catastrophe: A New Climate Reality Is Coming into View](https://www.nytimes.com/interactive/2022/10/26/magazine/climate-change-warming-world.html)
+- [Most Active Names in Credit and Equity Derivatives](https://www.clarusft.com/most-active-names-in-credit-and-equity-derivatives-oct22/)
+- [American Meat Consumption](https://zach.ws/meat/)
+- [Paul Graham’s Legacy](https://www.cringely.com/2022/10/27/paul-grahams-legacy/)
+- [YouTuber built gas-generator Tesla to avoid plugging in on 1,800-mile road trip](https://www.autoblog.com/2022/10/26/a-youtuber-built-a-gas-generator-powered-tesla-to-avoid-plugging-in-on-an-1-800-mile-road-trip/)
+- [Ask HN: How to Share Code with Intern?](https://news.ycombinator.com/item?id=33367106)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [We Switched from Python to Go](https://getstream.io/blog/switched-python-go/)
-- [An ode to that “coffee friend”](https://tiramisu.bearblog.dev/coffee-gift/)
-- [Show HN: I solved my New Tab page](https://startertab.com/)
-- [Most buildings at MIT campus are remaining closed to the public](https://twitter.com/jack_b_reid/status/1556735206547066880)
-- [Galactic settlement of low-mass stars as a resolution to the Fermi paradox](https://arxiv.org/abs/2210.10656)
-- [Emulator Performance: WebAssembly vs. JavaScript &lpar;2021&rpar;](http://8bitworkshop.com/docs/posts/2021/webassembly-vs-javascript-emulator-performance.html)
-- [Vim After 15 Years &lpar;2017&rpar;](https://blog.langworth.com/vim3)
-- [Video gaming may be associated with better cognitive performance in children](https://nida.nih.gov/news-events/news-releases/2022/10/video-gaming-may-be-associated-with-better-cognitive-performance-in-children)
-- [Unreal Tournament 99 running on WASM &lpar;2017&rpar;](https://icculus.org/ut99-emscripten/)
-- [The United States’ Unamendable Constitution](https://www.newyorker.com/culture/annals-of-inquiry/the-united-states-unamendable-constitution)
+- [Ask HN: How many are switching to Mastodon?](https://news.ycombinator.com/item?id=33367063)
+- [Jitx &lpar;YC S18&rpar; is hiring an application engineer to code PCBs](https://jobs.lever.co/jitxinc/3d62a65c-92c7-4996-82e3-0ff64e258d6b)
+- [NEOM has nothing to do with 3rd parties claiming to offer a NEOM cryptocurrency](https://www.neom.com/en-us/crypto-disclaimer)
+- [Apple Reports Fourth Quarter Results](https://www.apple.com/newsroom/2022/10/apple-reports-fourth-quarter-results/)
+- [Apple security bounty upgraded](https://security.apple.com/blog/apple-security-bounty-upgraded/)
+- [Pokemon Card Animation](https://deck-24abcd.netlify.app/)
+- [Wild mammal biomass has declined by 85% since the rise of humans](https://ourworldindata.org/mammals)
+- [Extracting Zooming Shots from 600 Hrs of Police Helicopter Surveillance Footage](https://lav.io/notes/the-zooms/)
+- [Towards the next generation of XNU memory safety: kalloc_type](https://security.apple.com/blog/towards-the-next-generation-of-xnu-memory-safety/)
+- [Specialist – visual representations of CPython 3.11&#39;s new adaptive interpreter](https://pypi.org/project/specialist/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

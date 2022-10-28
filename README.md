@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Bees ‘count’ from left to right, study finds](https://www.theguardian.com/environment/2022/oct/27/bees-count-from-left-to-right-study-finds)
-- [Kanye West escorted out of Skechers office after showing up unannounced](https://www.theguardian.com/music/2022/oct/26/kanye-west-escorted-out-skechers)
-- [Harvey Weinstein trial: witness breaks down as defense digs into lack of proof](https://www.theguardian.com/us-news/2022/oct/26/harvey-weinstein-trial-witness-breaks-down-defense-questions)
-- [Meta shares plummet alongside billion-dollar losses in metaverse division](https://www.theguardian.com/technology/2022/oct/26/meta-earnings-report-facebook-stocks)
-- [Can Rishi Sunak pull the Conservative party back together? – podcast](https://www.theguardian.com/news/audio/2022/oct/27/can-rishi-sunak-pull-the-conservative-party-back-together-podcast)
-- [Second woman says Herschel Walker pressured her to have abortion](https://www.theguardian.com/us-news/2022/oct/26/herschel-walker-georgia-senate-abortion-clinic)
-- [Before-and-after satellite imagery will track Ukraine cultural damage, UN says](https://www.theguardian.com/world/2022/oct/27/before-and-after-satellite-imagery-will-track-ukraine-cultural-damage-un-says)
-- [Australia and England meet on T20 World Cup precipice having both lost their bite | Geoff Lemon](https://www.theguardian.com/sport/blog/2022/oct/27/australia-and-england-meet-on-t20-world-cup-precipice-having-both-lost-their-bite)
-- [Bruce Lehrmann trial aborted with jury discharged after outside material brought into jury room](https://www.theguardian.com/australia-news/2022/oct/27/jury-discharged-in-bruce-lehrmann-case-after-material-entered-jury-room-that-ought-not-to-have)
-- [Woman arrested after attack on Jacinda Ardern’s office in Auckland](https://www.theguardian.com/world/2022/oct/27/jacinda-ardern-woman-arrested-after-attack-on-new-zealand-prime-minister-office-auckland)
+- [Elon Musk reportedly fires top Twitter executives as he takes over company](https://www.theguardian.com/technology/2022/oct/27/elon-musk-completes-twitter-takeover)
+- [New Zealand women to be able to access abortion over the phone](https://www.theguardian.com/world/2022/oct/28/new-zealand-women-telehealth-abortion-access-phone-call)
+- [Kanye West claims he lost $2bn in one day amid backlash to antisemitic comments](https://www.theguardian.com/music/2022/oct/28/kanye-west-claims-he-lost-2bn-in-one-day-amid-backlash-to-antisemitic-comments)
+- [‘Dying of boredom’: the fight to release Thailand’s shopping mall gorilla](https://www.theguardian.com/world/2022/oct/28/thailand-shopping-mall-gorilla-fight-to-release-bua-noi)
+- [Was Hu Jintao’s removal from China’s 20th party congress suspicious or not?](https://www.theguardian.com/world/2022/oct/28/china-hu-jintao-removal-20th-party-congress-suspicious-or-not)
+- [War hero or war criminal? Australia’s defamation trial of the century – podcast](https://www.theguardian.com/news/audio/2022/oct/28/war-hero-or-war-criminal-australias-defamation-trial-of-the-century-podcast)
+- [Are these the best tweets of all time?](https://www.theguardian.com/technology/2022/oct/28/are-these-the-best-tweets-of-all-time)
+- [Russia-Ukraine war at a glance: what we know on day 247 of the invasion](https://www.theguardian.com/world/2022/oct/28/russia-ukraine-war-at-a-glance-what-we-know-on-day-247-of-the-invasion)
+- [Northern Ireland set for snap election after Stormont fails to elect speaker](https://www.theguardian.com/uk-news/2022/oct/27/northern-ireland-set-for-snap-election-after-stormont-fails-to-elect-speaker)
+- [John Lewis chair Sharon White tops list of influential black Britons](https://www.theguardian.com/business/2022/oct/28/powerlist-award-sharon-white-john-lewis-chair-black-britons)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

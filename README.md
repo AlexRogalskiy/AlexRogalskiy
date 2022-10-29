@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Venture Capital Is Ripe for Disruption](https://every.to/napkin-math/venture-capital-is-ripe-for-disruption)
-- [Show HN: Alcove.xyz – A Nuzzle replacement using RSS](https://www.alcove.xyz)
-- [Ask HN: What is your opinion on computational photography?](https://news.ycombinator.com/item?id=33367292)
-- [Pumped-Storage Hydroelectricity](https://en.wikipedia.org/wiki/Pumped-storage_hydroelectricity)
-- [Beyond Catastrophe: A New Climate Reality Is Coming into View](https://www.nytimes.com/interactive/2022/10/26/magazine/climate-change-warming-world.html)
-- [Most Active Names in Credit and Equity Derivatives](https://www.clarusft.com/most-active-names-in-credit-and-equity-derivatives-oct22/)
-- [American Meat Consumption](https://zach.ws/meat/)
-- [Paul Graham’s Legacy](https://www.cringely.com/2022/10/27/paul-grahams-legacy/)
-- [YouTuber built gas-generator Tesla to avoid plugging in on 1,800-mile road trip](https://www.autoblog.com/2022/10/26/a-youtuber-built-a-gas-generator-powered-tesla-to-avoid-plugging-in-on-an-1-800-mile-road-trip/)
-- [Ask HN: How to Share Code with Intern?](https://news.ycombinator.com/item?id=33367106)
+- [That time an Israeli F-15 landed without a wing](https://taskandpurpose.com/tech-tactics/1983-negev-mid-air-collision/)
+- [Henry Ford, Innovation, and That “Faster Horse” Quote &lpar;2011&rpar;](https://hbr.org/2011/08/henry-ford-never-said-the-fast)
+- [Ask HN: What&#39;s a good template for providing SaaS quotes to customers?](https://news.ycombinator.com/item?id=33380649)
+- [Ask HN: A bookkeeping app worthy of coders?](https://news.ycombinator.com/item?id=33380648)
+- [Hedy: A Gradual Programming Language](https://hedycode.com/)
+- [Tell HN: Archive.ubuntu.com repositories appear to be down](https://news.ycombinator.com/item?id=33380584)
+- [Metacognitive Note-Taking for Creativity](https://idiotlamborghini.com/articles/metacognitive_note_taking_for_creativity)
+- [Real Programmers Don&#39;t Use Pascal &lpar;1983&rpar;](https://www.ecb.torontomu.ca/~elf/hack/realmen.html)
+- [Google Introduces Cloud-Based Blockchain Node Service for Ethereum](https://www.coindesk.com/tech/2022/10/27/google-introduces-cloud-based-blockchain-node-service-for-ethereum/)
+- [Ask HN: Does anyone believe Quantum Computing will scale?](https://news.ycombinator.com/item?id=33380515)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

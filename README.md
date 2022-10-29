@@ -355,6 +355,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Apple&#39;s Q4 results show growth in &#39;interesting times&#39;](https://www.computerworld.com/article/3678309/apples-q4-results-show-growth-in-interesting-times.html#tk.rss_all)
+- [Intel forced to cut jobs and spending as revenue continues to decline](https://www.computerworld.com/article/3678294/intel-forced-to-cut-jobs-and-spending-as-revenue-continues-to-decline.html#tk.rss_all)
+- [iPhone to Android: The ultimate switching guide](https://www.computerworld.com/article/3218067/how-to-switch-from-iphone-to-android-ultimate-guide.html#tk.rss_all)
 - [Google execs knew &#39;Incognito mode&#39; failed to protect privacy, suit claims](https://www.computerworld.com/article/3678190/google-execs-knew-incognito-mode-failed-to-protect-privacy-suit-claims.html#tk.rss_all)
 - [As videoconferencing needs change, it&#39;s time to plan for what comes next](https://www.computerworld.com/article/3678288/as-videoconferencing-needs-change-its-time-to-plan-for-what-comes-next.html#tk.rss_all)
 - [Apple improves iCloud.com for better ease of use](https://www.computerworld.com/article/3678189/apple-improves-icloudcom-for-better-ease-of-use.html#tk.rss_all)
@@ -362,9 +365,6 @@
 - [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
 - [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
 - [BrandPost: Q&amp;A: How do you proactively solve problems by tracking IoT devices?](https://www.computerworld.com/article/3677578/qanda-how-do-you-proactively-solve-problems-by-tracking-iot-devices.html#tk.rss_all)
-- [BrandPost: Top 3 Mobile Security Lessons](https://www.computerworld.com/article/3677577/top-3-mobile-security-lessons.html#tk.rss_all)
-- [BrandPost: VMware Customers are Building the New Multi-Cloud Universe](https://www.computerworld.com/article/3677875/vmware-customers-are-building-the-new-multi-cloud-universe.html#tk.rss_all)
-- [BrandPost: Top Three Kubernetes Myths](https://www.computerworld.com/article/3677500/top-three-kubernetes-myths.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

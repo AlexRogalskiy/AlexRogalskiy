@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Elon Musk reportedly fires top Twitter executives as he takes over company](https://www.theguardian.com/technology/2022/oct/27/elon-musk-completes-twitter-takeover)
-- [New Zealand women to be able to access abortion over the phone](https://www.theguardian.com/world/2022/oct/28/new-zealand-women-telehealth-abortion-access-phone-call)
-- [Kanye West claims he lost $2bn in one day amid backlash to antisemitic comments](https://www.theguardian.com/music/2022/oct/28/kanye-west-claims-he-lost-2bn-in-one-day-amid-backlash-to-antisemitic-comments)
-- [‘Dying of boredom’: the fight to release Thailand’s shopping mall gorilla](https://www.theguardian.com/world/2022/oct/28/thailand-shopping-mall-gorilla-fight-to-release-bua-noi)
-- [Was Hu Jintao’s removal from China’s 20th party congress suspicious or not?](https://www.theguardian.com/world/2022/oct/28/china-hu-jintao-removal-20th-party-congress-suspicious-or-not)
-- [War hero or war criminal? Australia’s defamation trial of the century – podcast](https://www.theguardian.com/news/audio/2022/oct/28/war-hero-or-war-criminal-australias-defamation-trial-of-the-century-podcast)
-- [Are these the best tweets of all time?](https://www.theguardian.com/technology/2022/oct/28/are-these-the-best-tweets-of-all-time)
-- [Russia-Ukraine war at a glance: what we know on day 247 of the invasion](https://www.theguardian.com/world/2022/oct/28/russia-ukraine-war-at-a-glance-what-we-know-on-day-247-of-the-invasion)
-- [Northern Ireland set for snap election after Stormont fails to elect speaker](https://www.theguardian.com/uk-news/2022/oct/27/northern-ireland-set-for-snap-election-after-stormont-fails-to-elect-speaker)
-- [John Lewis chair Sharon White tops list of influential black Britons](https://www.theguardian.com/business/2022/oct/28/powerlist-award-sharon-white-john-lewis-chair-black-britons)
+- [World Series 2022 Game 1: Philadelphia Phillies v Houston Astros – live!](https://www.theguardian.com/sport/live/2022/oct/29/world-series-2022-game-1-philadelphia-phillies-v-houston-astros-live)
+- [Tiny endo-microscope could spot breast cancer cells forming](https://www.theguardian.com/society/2022/oct/29/tiny-endo-microscope-could-spot-breast-cancer-cells-forming)
+- [Ben Roberts-Smith v the media, part one: reputation – podcast](https://www.theguardian.com/news/audio/2022/oct/29/ben-roberts-smith-v-the-media-part-one-reputation-podcast)
+- [Rebel Wilson: Australian Press Council condemns SMH column on same-sex relationship](https://www.theguardian.com/media/2022/oct/29/rebel-wilson-australian-press-council-condemns-sydney-morning-herald-column-on-same-sex-relationship)
+- [Russia-Ukraine war at a glance: what we know on day 248 of the invasion](https://www.theguardian.com/world/2022/oct/29/russia-ukraine-war-at-a-glance-what-we-know-on-day-248-of-the-invasion)
+- [Paul Pelosi, husband of Nancy Pelosi, in hospital with skull fracture after attack](https://www.theguardian.com/us-news/2022/oct/28/paul-pelosi-nancy-pelosi-attack-san-francisco-home)
+- [Royal Navy chief orders inquiry into ‘abhorrent’ allegations of bullying and sexual harassment](https://www.theguardian.com/uk-news/2022/oct/28/royal-navy-chief-orders-investigation-into-abhorrent-allegations-of-bullying-misogyny-and-sexual-harassment)
+- [Australia drops opposition to treaty banning nuclear weapons at UN vote](https://www.theguardian.com/world/2022/oct/29/australia-drops-opposition-to-treaty-banning-nuclear-weapons-at-un-vote)
+- [Hannah Goslar, Anne Frank’s friend and Holocaust survivor, dies aged 93](https://www.theguardian.com/world/2022/oct/28/hannah-goslar-anne-franks-friend-and-holocaust-survivor-dies-aged-93)
+- [Elon Musk’s Twitter is going to be a disaster | Hamilton Nolan](https://www.theguardian.com/commentisfree/2022/oct/28/elon-musk-twitter-disaster)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

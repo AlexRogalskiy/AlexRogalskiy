@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Ask HN: How many are switching to Mastodon?](https://news.ycombinator.com/item?id=33367063)
-- [Jitx &lpar;YC S18&rpar; is hiring an application engineer to code PCBs](https://jobs.lever.co/jitxinc/3d62a65c-92c7-4996-82e3-0ff64e258d6b)
-- [NEOM has nothing to do with 3rd parties claiming to offer a NEOM cryptocurrency](https://www.neom.com/en-us/crypto-disclaimer)
-- [Apple Reports Fourth Quarter Results](https://www.apple.com/newsroom/2022/10/apple-reports-fourth-quarter-results/)
-- [Apple security bounty upgraded](https://security.apple.com/blog/apple-security-bounty-upgraded/)
-- [Pokemon Card Animation](https://deck-24abcd.netlify.app/)
-- [Wild mammal biomass has declined by 85% since the rise of humans](https://ourworldindata.org/mammals)
-- [Extracting Zooming Shots from 600 Hrs of Police Helicopter Surveillance Footage](https://lav.io/notes/the-zooms/)
-- [Towards the next generation of XNU memory safety: kalloc_type](https://security.apple.com/blog/towards-the-next-generation-of-xnu-memory-safety/)
-- [Specialist – visual representations of CPython 3.11&#39;s new adaptive interpreter](https://pypi.org/project/specialist/)
+- [The Art of the Desk Setup](https://arun.is/blog/desk-setup/)
+- [AI-generated art sparks furious backlash from Japan’s anime community](https://restofworld.org/2022/ai-backlash-anime-artists/)
+- [Source Code for SunOS 4.1.3 &lpar;1992&rpar;](https://github.com/Arquivotheca/SunOS-4.1.3)
+- [Since becoming Meta, Facebook’s parent company has lost US$650B](https://globalnews.ca/news/9233468/meta-facebook-loses-650-billion-market-value/)
+- [Daemon – Writing and packaging system daemons](https://man7.org/linux/man-pages/man7/daemon.7.html)
+- [Decker, a platform that builds on the legacy of Hypercard and classic macOS](https://beyondloom.com/decker/index.html)
+- [Disk Prices](https://diskprices.com/?locale=us)
+- [Stable Diffusion Prompt Book](https://openart.ai/promptbook)
+- [Lidar reveals urbanization and landscape modifications at ancient Maya city](https://ucalgary.ca/news/ucalgary-research-collaboration-reveals-new-urbanization-and-landscape-modifications-ancient-maya)
+- [Nanowire synapses 30,000x faster than nature’s](https://spectrum.ieee.org/neuromorphic-computing-superconducting-synapse)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

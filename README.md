@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [World Series 2022 Game 1: Philadelphia Phillies v Houston Astros – live!](https://www.theguardian.com/sport/live/2022/oct/29/world-series-2022-game-1-philadelphia-phillies-v-houston-astros-live)
-- [Tiny endo-microscope could spot breast cancer cells forming](https://www.theguardian.com/society/2022/oct/29/tiny-endo-microscope-could-spot-breast-cancer-cells-forming)
-- [Ben Roberts-Smith v the media, part one: reputation – podcast](https://www.theguardian.com/news/audio/2022/oct/29/ben-roberts-smith-v-the-media-part-one-reputation-podcast)
-- [Rebel Wilson: Australian Press Council condemns SMH column on same-sex relationship](https://www.theguardian.com/media/2022/oct/29/rebel-wilson-australian-press-council-condemns-sydney-morning-herald-column-on-same-sex-relationship)
-- [Russia-Ukraine war at a glance: what we know on day 248 of the invasion](https://www.theguardian.com/world/2022/oct/29/russia-ukraine-war-at-a-glance-what-we-know-on-day-248-of-the-invasion)
-- [Paul Pelosi, husband of Nancy Pelosi, in hospital with skull fracture after attack](https://www.theguardian.com/us-news/2022/oct/28/paul-pelosi-nancy-pelosi-attack-san-francisco-home)
-- [Royal Navy chief orders inquiry into ‘abhorrent’ allegations of bullying and sexual harassment](https://www.theguardian.com/uk-news/2022/oct/28/royal-navy-chief-orders-investigation-into-abhorrent-allegations-of-bullying-misogyny-and-sexual-harassment)
-- [Australia drops opposition to treaty banning nuclear weapons at UN vote](https://www.theguardian.com/world/2022/oct/29/australia-drops-opposition-to-treaty-banning-nuclear-weapons-at-un-vote)
-- [Hannah Goslar, Anne Frank’s friend and Holocaust survivor, dies aged 93](https://www.theguardian.com/world/2022/oct/28/hannah-goslar-anne-franks-friend-and-holocaust-survivor-dies-aged-93)
-- [Elon Musk’s Twitter is going to be a disaster | Hamilton Nolan](https://www.theguardian.com/commentisfree/2022/oct/28/elon-musk-twitter-disaster)
+- [World Series 2022 Game 2: Philadelphia Phillies v Houston Astros – live!](https://www.theguardian.com/sport/live/2022/oct/30/world-series-game-1-philadelphia-phillies-v-houston-astros-live-latest-score)
+- [England defeat Australia 41-5 in Women’s Rugby World Cup quarter-final](https://www.theguardian.com/sport/live/2022/oct/30/england-v-australia-womens-rugby-world-cup-quarter-final-live)
+- [Kiribati controversy as attorney general becomes acting chief justice](https://www.theguardian.com/world/2022/oct/30/kiribati-controversy-as-attorney-general-becomes-acting-chief-justice)
+- [At least 150 killed in crowd crush during Halloween festivities in Seoul](https://www.theguardian.com/world/2022/oct/29/dozens-of-people-crushed-by-large-crowd-at-halloween-festivities-in-south-korea)
+- [Russia-Ukraine war at a glance: what we know on day 249 of the invasion](https://www.theguardian.com/world/2022/oct/30/russia-ukraine-war-at-a-glance-what-we-know-on-day-249-of-the-invasion)
+- [Uber hopes to hail new era of stability after a wild 10-year ride](https://www.theguardian.com/technology/2022/oct/30/uber-hopes-to-hail-new-era-of-stability-after-a-wild-10-year-ride)
+- [20 of the best winter coats to wear now - in pictures](https://www.theguardian.com/fashion/gallery/2022/oct/29/20-of-the-best-winter-coats-to-wear-now-in-pictures)
+- [Mercedes and Ferrari left fuming over punishment for Red Bull budget breach](https://www.theguardian.com/sport/2022/oct/29/mercedes-and-ferrari-rage-at-insufficient-punishment-for-red-bull-budget-breach)
+- [Braverman’s secret meetings with ‘anti-woke’ MP flagged by officials before she quit](https://www.theguardian.com/politics/2022/oct/29/suella-braverman-secretive-meetings-antiwoke-mp-officials)
+- [Gerald Stern, prize-winning American lyrical poet, dies aged 97](https://www.theguardian.com/books/2022/oct/29/gerald-stern-prize-winning-american-lyrical-poet-dies-aged-97)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

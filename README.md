@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [That time an Israeli F-15 landed without a wing](https://taskandpurpose.com/tech-tactics/1983-negev-mid-air-collision/)
-- [Henry Ford, Innovation, and That “Faster Horse” Quote &lpar;2011&rpar;](https://hbr.org/2011/08/henry-ford-never-said-the-fast)
-- [Ask HN: What&#39;s a good template for providing SaaS quotes to customers?](https://news.ycombinator.com/item?id=33380649)
-- [Ask HN: A bookkeeping app worthy of coders?](https://news.ycombinator.com/item?id=33380648)
-- [Hedy: A Gradual Programming Language](https://hedycode.com/)
-- [Tell HN: Archive.ubuntu.com repositories appear to be down](https://news.ycombinator.com/item?id=33380584)
-- [Metacognitive Note-Taking for Creativity](https://idiotlamborghini.com/articles/metacognitive_note_taking_for_creativity)
-- [Real Programmers Don&#39;t Use Pascal &lpar;1983&rpar;](https://www.ecb.torontomu.ca/~elf/hack/realmen.html)
-- [Google Introduces Cloud-Based Blockchain Node Service for Ethereum](https://www.coindesk.com/tech/2022/10/27/google-introduces-cloud-based-blockchain-node-service-for-ethereum/)
-- [Ask HN: Does anyone believe Quantum Computing will scale?](https://news.ycombinator.com/item?id=33380515)
+- [Show HN: I made a tool to generate tweets famous people could have said](https://tweethunter.io/generate-tweets)
+- [Advancing SDN from OpenFlow to P4](https://dl.acm.org/doi/10.1145/3556973)
+- [Sportsage: A Tale of the Super Bowl Hoark](http://www.textfiles.com/anarchy/SCAMS/freebg3.hac)
+- [Shortest Path Bridging](https://en.wikipedia.org/wiki/IEEE_802.1aq)
+- [Pull Request Is Now the Unit of Review](https://matt-rickard.com/pull-requests-not-commits)
+- [Beats in the Browser](https://www.youtube.com/watch?v=PdOy8EOd2dU)
+- [The Death of Trill &lpar;2016&rpar;](https://networkingnerd.net/2016/05/11/the-death-of-trill/)
+- [Semiconductor export ban hitting China followed by biotech and AI restrictions](https://www.scmp.com/news/china/article/3197515/semiconductor-export-curbs-hitting-china-be-followed-biotech-and-ai-restrictions-us-official)
+- [3D Box Projection as SVG](https://fatih-erikli.github.io/box/)
+- [Ask HN: How do you track all your different productions changes?](https://news.ycombinator.com/item?id=33390613)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

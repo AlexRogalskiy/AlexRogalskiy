@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The Art of the Desk Setup](https://arun.is/blog/desk-setup/)
-- [AI-generated art sparks furious backlash from Japan’s anime community](https://restofworld.org/2022/ai-backlash-anime-artists/)
-- [Source Code for SunOS 4.1.3 &lpar;1992&rpar;](https://github.com/Arquivotheca/SunOS-4.1.3)
-- [Since becoming Meta, Facebook’s parent company has lost US$650B](https://globalnews.ca/news/9233468/meta-facebook-loses-650-billion-market-value/)
-- [Daemon – Writing and packaging system daemons](https://man7.org/linux/man-pages/man7/daemon.7.html)
-- [Decker, a platform that builds on the legacy of Hypercard and classic macOS](https://beyondloom.com/decker/index.html)
-- [Disk Prices](https://diskprices.com/?locale=us)
-- [Stable Diffusion Prompt Book](https://openart.ai/promptbook)
-- [Lidar reveals urbanization and landscape modifications at ancient Maya city](https://ucalgary.ca/news/ucalgary-research-collaboration-reveals-new-urbanization-and-landscape-modifications-ancient-maya)
-- [Nanowire synapses 30,000x faster than nature’s](https://spectrum.ieee.org/neuromorphic-computing-superconducting-synapse)
+- [HN Mining or: How I Learned that there are some among us with soft quotes](https://github.com/chapmanjacobd/hn_mining)
+- [Strong behavioral individuality is present at the first day after birth](https://www.nature.com/articles/s41467-022-34113-y)
+- [How the New York City steam system works](https://untappedcities.com/2021/07/09/new-york-city-steam-system/)
+- [Promoted.ai &lpar;YC W21&rpar; is hiring a staff data engineer with Flink experience](https://www.ycombinator.com/companies/promoted/jobs/wc5X1S4-staff-data-engineer-flink)
+- [The Perfect Commit](https://simonwillison.net/2022/Oct/29/the-perfect-commit/)
+- [The Restaurant Industry’s Worst Idea: QR Code Menus](https://www.theatlantic.com/ideas/archive/2022/10/qr-code-menus-restaurants-pandemic/671888/)
+- [Tesla engineers were on-site to evaluate the Twitter staff’s code, workers said](https://www.washingtonpost.com/technology/2022/10/29/elon-musk-twitter-takeover/)
+- [AdGuard Home: Network-wide ads and trackers blocking DNS server](https://github.com/AdguardTeam/AdGuardHome)
+- [Somali Law &lpar;2013&rpar;](http://www.daviddfriedman.com/Academic/Course_Pages/legal_systems_very_different_12/Book_Draft/Systems/SomaliLawChapter.html)
+- [Some common geographic mental misplacements](https://storymaps.arcgis.com/stories/1e7f582d478a4b99bd0c70fffeac4c8b)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

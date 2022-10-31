@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [HN Mining or: How I Learned that there are some among us with soft quotes](https://github.com/chapmanjacobd/hn_mining)
-- [Strong behavioral individuality is present at the first day after birth](https://www.nature.com/articles/s41467-022-34113-y)
-- [How the New York City steam system works](https://untappedcities.com/2021/07/09/new-york-city-steam-system/)
-- [Promoted.ai &lpar;YC W21&rpar; is hiring a staff data engineer with Flink experience](https://www.ycombinator.com/companies/promoted/jobs/wc5X1S4-staff-data-engineer-flink)
-- [The Perfect Commit](https://simonwillison.net/2022/Oct/29/the-perfect-commit/)
-- [The Restaurant Industry’s Worst Idea: QR Code Menus](https://www.theatlantic.com/ideas/archive/2022/10/qr-code-menus-restaurants-pandemic/671888/)
-- [Tesla engineers were on-site to evaluate the Twitter staff’s code, workers said](https://www.washingtonpost.com/technology/2022/10/29/elon-musk-twitter-takeover/)
-- [AdGuard Home: Network-wide ads and trackers blocking DNS server](https://github.com/AdguardTeam/AdGuardHome)
-- [Somali Law &lpar;2013&rpar;](http://www.daviddfriedman.com/Academic/Course_Pages/legal_systems_very_different_12/Book_Draft/Systems/SomaliLawChapter.html)
-- [Some common geographic mental misplacements](https://storymaps.arcgis.com/stories/1e7f582d478a4b99bd0c70fffeac4c8b)
+- [“There Seem to be 10 managers for every one dev at Twitter” – Elon](https://twitter.com/elonmusk/status/1586686935518498816)
+- [Ousterhout: It&#39;s time to replace TCP in the Datacenter [pdf]](https://web.stanford.edu/~ouster/cgi-bin/papers/replaceTcp.pdf)
+- [SQLite – Partial Indexes](https://www.sqlite.org/partialindex.html)
+- [Solarized](https://ethanschoonover.com/solarized/)
+- [Why Is Symmetry So Important in Particle Physics?](https://mfaizan.github.io/2022/10/02/symmetry.html)
+- [Star Trek &lpar;1964&rpar; [pdf]](http://leethomson.myzen.co.uk/Star_Trek/1_Original_Series/Star_Trek_Pitch.pdf)
+- [PwshPaint: A pixel art editor for the terminal in PowerShell](https://github.com/ShaunLawrie/PwshPaint)
+- [AT Protocol Overview](https://atproto.com/guides/overview)
+- [Ent: An Entity Framework for Go](https://github.com/ent/ent)
+- [Charge Robotics &lpar;YC S21&rpar; is hiring meches to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: I made a tool to generate tweets famous people could have said](https://tweethunter.io/generate-tweets)
-- [Advancing SDN from OpenFlow to P4](https://dl.acm.org/doi/10.1145/3556973)
-- [Sportsage: A Tale of the Super Bowl Hoark](http://www.textfiles.com/anarchy/SCAMS/freebg3.hac)
-- [Shortest Path Bridging](https://en.wikipedia.org/wiki/IEEE_802.1aq)
-- [Pull Request Is Now the Unit of Review](https://matt-rickard.com/pull-requests-not-commits)
-- [Beats in the Browser](https://www.youtube.com/watch?v=PdOy8EOd2dU)
-- [The Death of Trill &lpar;2016&rpar;](https://networkingnerd.net/2016/05/11/the-death-of-trill/)
-- [Semiconductor export ban hitting China followed by biotech and AI restrictions](https://www.scmp.com/news/china/article/3197515/semiconductor-export-curbs-hitting-china-be-followed-biotech-and-ai-restrictions-us-official)
-- [3D Box Projection as SVG](https://fatih-erikli.github.io/box/)
-- [Ask HN: How do you track all your different productions changes?](https://news.ycombinator.com/item?id=33390613)
+- [Hiller Model 1031-A-1 Flying Platform](https://www.si.edu/object/hiller-model-1031-1-flying-platform%3Anasm_A19610070000)
+- [“There Seem to be 10 managers for every one dev at Twitter” – Elon](https://twitter.com/elonmusk/status/1586686935518498816)
+- [I Have Tried to Set a Better Example for Angular Components](https://blog.worldmaker.net/2022/10/30/angular-components/)
+- [Exploration of Redux 0.x](https://blog.union.io/code/2022/10/30/redux/)
+- [Flyway – Increase reliability of deployments by versioning your database](https://flywaydb.org/)
+- [Something spooky is happening at the edge of the solar system – Space](https://www.space.com/heliopause-unusual-ripples-voyager)
+- [Cotopaxi, venture capital and SF crime](https://newsletter.employbl.com/p/cotopaxi-multi-million-dollar-toilets)
+- [Bring Back Vine?](https://twitter.com/elonmusk/status/1586918804780630016)
+- [Lambda-Calculus Revisited](http://lambdaway.free.fr/lambdawalks/?view=lambdacode5)
+- [AI Startups Won&#39;t Be Selling AI](https://datastream.substack.com/p/the-best-ai-startup-ideas-wont-be)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

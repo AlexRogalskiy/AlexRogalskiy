@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [World Series 2022 Game 2: Philadelphia Phillies v Houston Astros – live!](https://www.theguardian.com/sport/live/2022/oct/30/world-series-game-1-philadelphia-phillies-v-houston-astros-live-latest-score)
-- [England defeat Australia 41-5 in Women’s Rugby World Cup quarter-final](https://www.theguardian.com/sport/live/2022/oct/30/england-v-australia-womens-rugby-world-cup-quarter-final-live)
-- [Kiribati controversy as attorney general becomes acting chief justice](https://www.theguardian.com/world/2022/oct/30/kiribati-controversy-as-attorney-general-becomes-acting-chief-justice)
-- [At least 150 killed in crowd crush during Halloween festivities in Seoul](https://www.theguardian.com/world/2022/oct/29/dozens-of-people-crushed-by-large-crowd-at-halloween-festivities-in-south-korea)
-- [Russia-Ukraine war at a glance: what we know on day 249 of the invasion](https://www.theguardian.com/world/2022/oct/30/russia-ukraine-war-at-a-glance-what-we-know-on-day-249-of-the-invasion)
-- [Uber hopes to hail new era of stability after a wild 10-year ride](https://www.theguardian.com/technology/2022/oct/30/uber-hopes-to-hail-new-era-of-stability-after-a-wild-10-year-ride)
-- [20 of the best winter coats to wear now - in pictures](https://www.theguardian.com/fashion/gallery/2022/oct/29/20-of-the-best-winter-coats-to-wear-now-in-pictures)
-- [Mercedes and Ferrari left fuming over punishment for Red Bull budget breach](https://www.theguardian.com/sport/2022/oct/29/mercedes-and-ferrari-rage-at-insufficient-punishment-for-red-bull-budget-breach)
-- [Braverman’s secret meetings with ‘anti-woke’ MP flagged by officials before she quit](https://www.theguardian.com/politics/2022/oct/29/suella-braverman-secretive-meetings-antiwoke-mp-officials)
-- [Gerald Stern, prize-winning American lyrical poet, dies aged 97](https://www.theguardian.com/books/2022/oct/29/gerald-stern-prize-winning-american-lyrical-poet-dies-aged-97)
+- [Greta Thunberg to skip ‘greenwashing’ Cop27 climate summit in Egypt](https://www.theguardian.com/environment/2022/oct/31/greta-thunberg-to-skip-greenwashing-cop27-climate-summit-in-egypt)
+- [South Korea in mourning after deadly Itaewon crowd crush in Seoul](https://www.theguardian.com/world/2022/oct/31/seoul-itaewon-crowd-crush-south-korea-in-mourning)
+- [‘There’s only one way to deal with a rat – put it down’: the undercover officer who infiltrated Liverpool’s gangs](https://www.theguardian.com/uk-news/2022/oct/31/theres-only-one-way-to-deal-with-a-rat-put-it-down-the-undercover-officer-who-infiltrated-liverpools-gangs)
+- [What does it take to be an undercover police officer?– podcast](https://www.theguardian.com/news/audio/2022/oct/31/what-does-it-take-to-be-an-undercover-police-officer-podcast)
+- [Poverty, housing and the Amazon: Lula’s in-tray as president-elect of Brazil](https://www.theguardian.com/world/2022/oct/31/lula-policies-priorities-win-brazil-president-election-poverty-housing-amazon)
+- [Russia-Ukraine war at a glance: what we know on day 250 of the invasion](https://www.theguardian.com/world/2022/oct/31/russia-ukraine-war-at-a-glance-what-we-know-on-day-250-of-the-invasion)
+- [What’s on Netflix and Amazon this month – November](https://www.theguardian.com/tv-and-radio/ng-interactive/2022/oct/31/whats-on-netflix-and-amazon-this-month-november)
+- [Lula stages astonishing comeback to beat far-right Bolsonaro in Brazil election](https://www.theguardian.com/world/2022/oct/30/lula-stages-astonishing-comeback-to-beat-bolsonaro-in-brazil-election)
+- [New York to pay $36m for wrongly convicting two men of Malcolm X killing](https://www.theguardian.com/us-news/2022/oct/30/new-york-to-pay-36m-to-men-exonerated-for-of-malcolm-x)
+- [Nearly 2m public sector workers close to quitting over pay, says TUC](https://www.theguardian.com/society/2022/oct/30/nearly-2m-public-sector-workers-close-to-quitting-over-pay-says-tuc)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

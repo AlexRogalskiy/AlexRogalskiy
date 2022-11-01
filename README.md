@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Greta Thunberg to skip ‘greenwashing’ Cop27 climate summit in Egypt](https://www.theguardian.com/environment/2022/oct/31/greta-thunberg-to-skip-greenwashing-cop27-climate-summit-in-egypt)
-- [South Korea in mourning after deadly Itaewon crowd crush in Seoul](https://www.theguardian.com/world/2022/oct/31/seoul-itaewon-crowd-crush-south-korea-in-mourning)
-- [‘There’s only one way to deal with a rat – put it down’: the undercover officer who infiltrated Liverpool’s gangs](https://www.theguardian.com/uk-news/2022/oct/31/theres-only-one-way-to-deal-with-a-rat-put-it-down-the-undercover-officer-who-infiltrated-liverpools-gangs)
-- [What does it take to be an undercover police officer?– podcast](https://www.theguardian.com/news/audio/2022/oct/31/what-does-it-take-to-be-an-undercover-police-officer-podcast)
-- [Poverty, housing and the Amazon: Lula’s in-tray as president-elect of Brazil](https://www.theguardian.com/world/2022/oct/31/lula-policies-priorities-win-brazil-president-election-poverty-housing-amazon)
-- [Russia-Ukraine war at a glance: what we know on day 250 of the invasion](https://www.theguardian.com/world/2022/oct/31/russia-ukraine-war-at-a-glance-what-we-know-on-day-250-of-the-invasion)
-- [What’s on Netflix and Amazon this month – November](https://www.theguardian.com/tv-and-radio/ng-interactive/2022/oct/31/whats-on-netflix-and-amazon-this-month-november)
-- [Lula stages astonishing comeback to beat far-right Bolsonaro in Brazil election](https://www.theguardian.com/world/2022/oct/30/lula-stages-astonishing-comeback-to-beat-bolsonaro-in-brazil-election)
-- [New York to pay $36m for wrongly convicting two men of Malcolm X killing](https://www.theguardian.com/us-news/2022/oct/30/new-york-to-pay-36m-to-men-exonerated-for-of-malcolm-x)
-- [Nearly 2m public sector workers close to quitting over pay, says TUC](https://www.theguardian.com/society/2022/oct/30/nearly-2m-public-sector-workers-close-to-quitting-over-pay-says-tuc)
+- [Culture wars, abortion and conspiracy theories: what the midterms tell us about the US – podcast](https://www.theguardian.com/news/audio/2022/nov/01/culture-wars-abortion-and-conspiracy-theories-what-the-midterms-tell-us-about-the-us-podcast)
+- [US judge blocks $2.2bn Penguin Random House merger](https://www.theguardian.com/books/2022/oct/31/penguin-random-house-simon-schuster-merger-blocked)
+- [Russia-Ukraine war at a glance: what we know on day 251 of the invasion](https://www.theguardian.com/world/2022/nov/01/russia-ukraine-war-at-a-glance-what-we-know-on-day-251-of-the-invasion)
+- [Labour needs more ‘coherent narrative’ to win next election, Starmer told](https://www.theguardian.com/politics/2022/nov/01/labour-needs-more-coherent-narrative-to-win-election-starmer-told)
+- [‘Alarming’ rise in type 2 diabetes among UK under-40s](https://www.theguardian.com/society/2022/nov/01/alarming-rise-in-type-2-diabetes-among-uk-under-40s)
+- [Clubs fear being ‘wiped off the map’ without independent regulator](https://www.theguardian.com/football/2022/nov/01/clubs-fear-being-wiped-off-the-map-without-independent-regulator)
+- [World Series rainout as Astros and Phillies will play Game 3 on Tuesday](https://www.theguardian.com/sport/2022/oct/31/world-series-rainout-astros-phillies-game-3-tuesday)
+- [Australian EV conversion startup merges with UK firm to turn classic cars electric](https://www.theguardian.com/environment/2022/nov/01/jaunt-motors-zero-ev-merger-fellten-to-convert-classic-cars-vehicles-electric)
+- [UK-backed battery firm Britishvolt considers entering administration](https://www.theguardian.com/business/2022/oct/31/uk-battery-firm-britishvolt-administration-gigafactory)
+- [Prosecutors accuse Trump Organization of ‘greed and cheating’ in tax fraud trial](https://www.theguardian.com/us-news/2022/oct/31/trump-orgnization-tax-fraud-trial-new-york)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

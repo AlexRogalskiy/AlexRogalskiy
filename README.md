@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Hiller Model 1031-A-1 Flying Platform](https://www.si.edu/object/hiller-model-1031-1-flying-platform%3Anasm_A19610070000)
-- [“There Seem to be 10 managers for every one dev at Twitter” – Elon](https://twitter.com/elonmusk/status/1586686935518498816)
-- [I Have Tried to Set a Better Example for Angular Components](https://blog.worldmaker.net/2022/10/30/angular-components/)
-- [Exploration of Redux 0.x](https://blog.union.io/code/2022/10/30/redux/)
-- [Flyway – Increase reliability of deployments by versioning your database](https://flywaydb.org/)
-- [Something spooky is happening at the edge of the solar system – Space](https://www.space.com/heliopause-unusual-ripples-voyager)
-- [Cotopaxi, venture capital and SF crime](https://newsletter.employbl.com/p/cotopaxi-multi-million-dollar-toilets)
-- [Bring Back Vine?](https://twitter.com/elonmusk/status/1586918804780630016)
-- [Lambda-Calculus Revisited](http://lambdaway.free.fr/lambdawalks/?view=lambdacode5)
-- [AI Startups Won&#39;t Be Selling AI](https://datastream.substack.com/p/the-best-ai-startup-ideas-wont-be)
+- [Penguin Random House Blocked from Acquiring Rival Publisher Simon and Schuster](https://www.wsj.com/articles/penguin-random-house-blocked-from-acquiring-rival-publisher-simon-schuster-11667257838)
+- [Titanic Kaggle Prediction with RapidMiner](https://michaelrideout.info/2022/10/31/kaggle-titanic-rapidminer/)
+- [The Notorious Hacker Who’s Trying to Fix Social Media](https://gizmodo.com/jester-hacker-trying-to-fix-social-media-countersocial-1849035091)
+- [Eighty Metric tons anywhere in the world in about an hour](https://theintercept.com/2022/06/19/spacex-pentagon-elon-musk-space-defense/)
+- [Salary Transparency Helps Everyone](https://www.aljazeera.com/economy/2022/10/31/salary-transparency-laws-aim-to-circumvent-disparities)
+- [Ask HN: Looking for Task Automation?](https://news.ycombinator.com/item?id=33416634)
+- [Stable Diffusion resources &lpar;pile of links and up-to-date news&rpar;](https://rentry.co/sdupdates)
+- [Compiling Rust is NP-hard](https://compilercrim.es/rust-np/)
+- [Docker Hub OCI Artifacts Support](https://www.docker.com/blog/announcing-docker-hub-oci-artifacts-support/)
+- [Why I Ditched Django for NextJS](https://billprin.com/2022/10/30/ditched-django-nextjs.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

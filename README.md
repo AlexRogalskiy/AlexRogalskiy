@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [“There Seem to be 10 managers for every one dev at Twitter” – Elon](https://twitter.com/elonmusk/status/1586686935518498816)
-- [Ousterhout: It&#39;s time to replace TCP in the Datacenter [pdf]](https://web.stanford.edu/~ouster/cgi-bin/papers/replaceTcp.pdf)
-- [SQLite – Partial Indexes](https://www.sqlite.org/partialindex.html)
-- [Solarized](https://ethanschoonover.com/solarized/)
-- [Why Is Symmetry So Important in Particle Physics?](https://mfaizan.github.io/2022/10/02/symmetry.html)
-- [Star Trek &lpar;1964&rpar; [pdf]](http://leethomson.myzen.co.uk/Star_Trek/1_Original_Series/Star_Trek_Pitch.pdf)
-- [PwshPaint: A pixel art editor for the terminal in PowerShell](https://github.com/ShaunLawrie/PwshPaint)
-- [AT Protocol Overview](https://atproto.com/guides/overview)
-- [Ent: An Entity Framework for Go](https://github.com/ent/ent)
-- [Charge Robotics &lpar;YC S21&rpar; is hiring meches to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer)
+- [Ask HN: What social media site could replace Twitter?](https://news.ycombinator.com/item?id=33416498)
+- [Road to Artificial General Intelligence](https://maraoz.com/2022/10/31/agi-roadmap/)
+- [The mysterious Viking runes found in a landlocked US state](https://www.bbc.com/travel/article/20221030-the-mysterious-viking-runes-found-in-a-landlocked-us-state)
+- [Chip Design Shifts as Fundamental Laws Run Out of Steam](https://semiengineering.com/chip-design-shifts-as-fundamental-laws-run-out-of-steam/)
+- [US judge blocks $2.2B Penguin Random House merger](https://www.theguardian.com/books/2022/oct/31/penguin-random-house-simon-schuster-merger-blocked)
+- [Turbopack Performance Benchmarks](https://turbo.build/blog/turbopack-benchmarks)
+- [Caring for the only full kākāpō feather cloak in the world Show image caption](https://www.britishmuseum.org/blog/caring-only-known-full-kakapo-feather-cloak-world)
+- [The Browser Company’s Darin Fisher thinks it’s time to reinvent the browser](https://www.theverge.com/2022/10/31/23428862/arc-browser-web-company-darin-fisher)
+- [A configuration management system for pets, not cattle](https://github.com/ema/pets)
+- [Nicheless is a micro-blogging platform for raw, unfiltered thoughts](https://nicheless.blog/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

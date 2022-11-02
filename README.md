@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Location flexibility linked to improved organizational outcomes](https://www.computerworld.com/article/3678174/location-flexibility-linked-to-improved-organizational-outcomes.html#tk.rss_all)
+- [Your company brand may soon be held hostage to Adobe, Pantone](https://www.computerworld.com/article/3678297/your-company-brand-may-soon-be-held-hostage-to-adobe-pantone.html#tk.rss_all)
+- [BrandPost: Data Storage Power: Preparing for an Intelligent Digital Future](https://www.computerworld.com/article/3678358/data-storage-power-preparing-for-an-intelligent-digital-future.html#tk.rss_all)
+- [How ‘synthetic media’ will transform business forever](https://www.computerworld.com/article/3678172/how-synthetic-media-will-transform-business-forever.html#tk.rss_all)
+- [This would be a good time to test your cloud ROI](https://www.computerworld.com/article/3678430/this-would-be-a-good-time-to-test-your-cloud-roi.html#tk.rss_all)
 - [Global monthly semiconductor sales drop as chip market takes another hit](https://www.computerworld.com/article/3678152/global-monthly-semiconductor-sales-drop-as-chip-market-takes-another-hit.html#tk.rss_all)
 - [Apple&#39;s Mac renaissance has truly begun](https://www.computerworld.com/article/3678312/apples-mac-renaissance-has-truly-begun.html#tk.rss_all)
 - [Beware going down the Windows beta-testing rabbit hole](https://www.computerworld.com/article/3678351/beware-going-down-the-windows-beta-testing-rabbit-hole.html#tk.rss_all)
 - [Q&amp;A: Chase CIO offers top interview tips for tech job seekers](https://www.computerworld.com/article/3678349/chase-cio-offers-top-interview-tips-for-tech-job-seekers.html#tk.rss_all)
 - [Apple&#39;s Q4 results show growth in &#39;interesting times&#39;](https://www.computerworld.com/article/3678309/apples-q4-results-show-growth-in-interesting-times.html#tk.rss_all)
-- [Intel forced to cut jobs and spending as revenue continues to decline](https://www.computerworld.com/article/3678294/intel-forced-to-cut-jobs-and-spending-as-revenue-continues-to-decline.html#tk.rss_all)
-- [iPhone to Android: The ultimate switching guide](https://www.computerworld.com/article/3218067/how-to-switch-from-iphone-to-android-ultimate-guide.html#tk.rss_all)
-- [Google execs knew &#39;Incognito mode&#39; failed to protect privacy, suit claims](https://www.computerworld.com/article/3678190/google-execs-knew-incognito-mode-failed-to-protect-privacy-suit-claims.html#tk.rss_all)
-- [As videoconferencing needs change, it&#39;s time to plan for what comes next](https://www.computerworld.com/article/3678288/as-videoconferencing-needs-change-its-time-to-plan-for-what-comes-next.html#tk.rss_all)
-- [Apple improves iCloud.com for better ease of use](https://www.computerworld.com/article/3678189/apple-improves-icloudcom-for-better-ease-of-use.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

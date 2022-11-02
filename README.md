@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Culture wars, abortion and conspiracy theories: what the midterms tell us about the US – podcast](https://www.theguardian.com/news/audio/2022/nov/01/culture-wars-abortion-and-conspiracy-theories-what-the-midterms-tell-us-about-the-us-podcast)
-- [US judge blocks $2.2bn Penguin Random House merger](https://www.theguardian.com/books/2022/oct/31/penguin-random-house-simon-schuster-merger-blocked)
-- [Russia-Ukraine war at a glance: what we know on day 251 of the invasion](https://www.theguardian.com/world/2022/nov/01/russia-ukraine-war-at-a-glance-what-we-know-on-day-251-of-the-invasion)
-- [Labour needs more ‘coherent narrative’ to win next election, Starmer told](https://www.theguardian.com/politics/2022/nov/01/labour-needs-more-coherent-narrative-to-win-election-starmer-told)
-- [‘Alarming’ rise in type 2 diabetes among UK under-40s](https://www.theguardian.com/society/2022/nov/01/alarming-rise-in-type-2-diabetes-among-uk-under-40s)
-- [Clubs fear being ‘wiped off the map’ without independent regulator](https://www.theguardian.com/football/2022/nov/01/clubs-fear-being-wiped-off-the-map-without-independent-regulator)
-- [World Series rainout as Astros and Phillies will play Game 3 on Tuesday](https://www.theguardian.com/sport/2022/oct/31/world-series-rainout-astros-phillies-game-3-tuesday)
-- [Australian EV conversion startup merges with UK firm to turn classic cars electric](https://www.theguardian.com/environment/2022/nov/01/jaunt-motors-zero-ev-merger-fellten-to-convert-classic-cars-vehicles-electric)
-- [UK-backed battery firm Britishvolt considers entering administration](https://www.theguardian.com/business/2022/oct/31/uk-battery-firm-britishvolt-administration-gigafactory)
-- [Prosecutors accuse Trump Organization of ‘greed and cheating’ in tax fraud trial](https://www.theguardian.com/us-news/2022/oct/31/trump-orgnization-tax-fraud-trial-new-york)
+- [World Series Game 3: Houston Astros 0-7 Philadelphia Phillies – as it happened](https://www.theguardian.com/sport/live/2022/nov/01/world-series-game-3-philadelphia-phillies-v-houston-astros-live-latest-score)
+- [North Korea missile crosses maritime border with South for first time](https://www.theguardian.com/world/2022/nov/02/north-korea-has-fired-three-ballistic-missiles-into-sea-south-koreas-military-says)
+- [Just Stop Oil and the threat of the public order bill | podcast](https://www.theguardian.com/news/audio/2022/nov/02/just-stop-oil-and-the-threat-of-the-public-order-bill-podcast)
+- [Sydney’s Taronga zoo put into lockdown after five lions escape enclosure](https://www.theguardian.com/australia-news/2022/nov/02/taronga-zoo-put-into-lockdown-after-five-lions-break-out-of-enclosure)
+- [Denmark election result keeps Social Democrats at the helm](https://www.theguardian.com/world/2022/nov/02/denmark-election-result-keeps-social-democrats-at-the-helm)
+- [James Corden responds to accusations he copied a Ricky Gervais joke](https://www.theguardian.com/culture/2022/nov/02/james-corden-responds-to-accusations-he-copied-a-ricky-gervais-joke)
+- [Julie Powell, food writer and blogger behind Julie &amp; Julia, dies aged 49](https://www.theguardian.com/books/2022/nov/02/julie-powell-food-writer-and-blogger-behind-julie-julia-dies-aged-49)
+- [Russia-Ukraine war at a glance: what we know on day 252 of the invasion](https://www.theguardian.com/world/2022/nov/02/russia-ukraine-war-at-a-glance-what-we-know-on-day-252-of-the-invasion)
+- [‘Prevalent’ predatory, misogynistic culture in police, official report finds](https://www.theguardian.com/uk-news/2022/nov/02/prevalent-predatory-misogynistic-culture-in-police-official-report-finds)
+- [Recruitment of UK spies no longer restricted to those with British parents](https://www.theguardian.com/uk-news/2022/nov/02/recruitment-of-uk-spies-no-longer-restricted-to-those-with-british-parents)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

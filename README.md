@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Penguin Random House Blocked from Acquiring Rival Publisher Simon and Schuster](https://www.wsj.com/articles/penguin-random-house-blocked-from-acquiring-rival-publisher-simon-schuster-11667257838)
-- [Titanic Kaggle Prediction with RapidMiner](https://michaelrideout.info/2022/10/31/kaggle-titanic-rapidminer/)
-- [The Notorious Hacker Who’s Trying to Fix Social Media](https://gizmodo.com/jester-hacker-trying-to-fix-social-media-countersocial-1849035091)
-- [Eighty Metric tons anywhere in the world in about an hour](https://theintercept.com/2022/06/19/spacex-pentagon-elon-musk-space-defense/)
-- [Salary Transparency Helps Everyone](https://www.aljazeera.com/economy/2022/10/31/salary-transparency-laws-aim-to-circumvent-disparities)
-- [Ask HN: Looking for Task Automation?](https://news.ycombinator.com/item?id=33416634)
-- [Stable Diffusion resources &lpar;pile of links and up-to-date news&rpar;](https://rentry.co/sdupdates)
-- [Compiling Rust is NP-hard](https://compilercrim.es/rust-np/)
-- [Docker Hub OCI Artifacts Support](https://www.docker.com/blog/announcing-docker-hub-oci-artifacts-support/)
-- [Why I Ditched Django for NextJS](https://billprin.com/2022/10/30/ditched-django-nextjs.html)
+- [Interactive Storytelling Tools for Writers](http://www.erasmatazz.com/index.html)
+- [Nikolai Muchgian, MakerDAO co-founder has died](https://twitter.com/omnicraig/status/1586432239105060864)
+- [Huge ‘planet killer’ asteroid discovered – and it’s heading our way](https://www.theguardian.com/science/2022/nov/01/huge-planet-killer-asteroid-discovered-and-its-heading-our-way)
+- [A Trillion Dollar Opportunity](https://talia.gold/2022/10/31/a-trillion-dollar-opportunity/)
+- [George Hotz, iPhone hacker and Elon Musk antagonist, is leaving Comma AI](https://www.theverge.com/2022/10/31/23433110/george-hotz-comma-ai-step-down-driver-assist)
+- [I build my minimum viable products](https://levels.io/how-i-build-my-minimum-viable-products/)
+- [EU Digital Markets Act: rules for digital gatekeepers](https://ec.europa.eu/commission/presscorner/detail/en/IP_22_6423)
+- [Google Hangouts is no longer be available](https://support.google.com/chat/answer/9854901?hl=en)
+- [Gravity Train](https://en.wikipedia.org/wiki/Gravity_train)
+- [Ask HN: Do you agree with HN&#39;s shadow banning certain submissions?](https://news.ycombinator.com/item?id=33431062)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

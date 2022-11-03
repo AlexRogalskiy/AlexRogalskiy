@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Apple must take another brick from its wall, says EU](https://www.computerworld.com/article/3678689/apple-must-take-another-brick-from-its-wall-says-eu.html#tk.rss_all)
+- [BrandPost: From Banks to Bananas: The Future of AI for IT Operations](https://www.computerworld.com/article/3678299/from-banks-to-bananas-the-future-of-ai-for-it-operations.html#tk.rss_all)
+- [BrandPost: The Economics of Technology Investments](https://www.computerworld.com/article/3678357/the-economics-of-technology-investments.html#tk.rss_all)
+- [BrandPost: Compliance: Meeting Regulatory Requirements...and More](https://www.computerworld.com/article/3678356/compliance-meeting-regulatory-requirements-and-more.html#tk.rss_all)
+- [How to unlock Google Assistant&#39;s most advanced Android shortcuts](https://www.computerworld.com/article/3678151/google-assistant-android-shortcuts.html#tk.rss_all)
 - [Location flexibility linked to improved organizational outcomes](https://www.computerworld.com/article/3678174/location-flexibility-linked-to-improved-organizational-outcomes.html#tk.rss_all)
 - [Your company brand may soon be held hostage to Adobe, Pantone](https://www.computerworld.com/article/3678297/your-company-brand-may-soon-be-held-hostage-to-adobe-pantone.html#tk.rss_all)
 - [BrandPost: Data Storage Power: Preparing for an Intelligent Digital Future](https://www.computerworld.com/article/3678358/data-storage-power-preparing-for-an-intelligent-digital-future.html#tk.rss_all)
 - [How ‘synthetic media’ will transform business forever](https://www.computerworld.com/article/3678172/how-synthetic-media-will-transform-business-forever.html#tk.rss_all)
 - [This would be a good time to test your cloud ROI](https://www.computerworld.com/article/3678430/this-would-be-a-good-time-to-test-your-cloud-roi.html#tk.rss_all)
-- [Global monthly semiconductor sales drop as chip market takes another hit](https://www.computerworld.com/article/3678152/global-monthly-semiconductor-sales-drop-as-chip-market-takes-another-hit.html#tk.rss_all)
-- [Apple&#39;s Mac renaissance has truly begun](https://www.computerworld.com/article/3678312/apples-mac-renaissance-has-truly-begun.html#tk.rss_all)
-- [Beware going down the Windows beta-testing rabbit hole](https://www.computerworld.com/article/3678351/beware-going-down-the-windows-beta-testing-rabbit-hole.html#tk.rss_all)
-- [Q&amp;A: Chase CIO offers top interview tips for tech job seekers](https://www.computerworld.com/article/3678349/chase-cio-offers-top-interview-tips-for-tech-job-seekers.html#tk.rss_all)
-- [Apple&#39;s Q4 results show growth in &#39;interesting times&#39;](https://www.computerworld.com/article/3678309/apples-q4-results-show-growth-in-interesting-times.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

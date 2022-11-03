@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Interactive Storytelling Tools for Writers](http://www.erasmatazz.com/index.html)
-- [Nikolai Muchgian, MakerDAO co-founder has died](https://twitter.com/omnicraig/status/1586432239105060864)
-- [Huge ‘planet killer’ asteroid discovered – and it’s heading our way](https://www.theguardian.com/science/2022/nov/01/huge-planet-killer-asteroid-discovered-and-its-heading-our-way)
-- [A Trillion Dollar Opportunity](https://talia.gold/2022/10/31/a-trillion-dollar-opportunity/)
-- [George Hotz, iPhone hacker and Elon Musk antagonist, is leaving Comma AI](https://www.theverge.com/2022/10/31/23433110/george-hotz-comma-ai-step-down-driver-assist)
-- [I build my minimum viable products](https://levels.io/how-i-build-my-minimum-viable-products/)
-- [EU Digital Markets Act: rules for digital gatekeepers](https://ec.europa.eu/commission/presscorner/detail/en/IP_22_6423)
-- [Google Hangouts is no longer be available](https://support.google.com/chat/answer/9854901?hl=en)
-- [Gravity Train](https://en.wikipedia.org/wiki/Gravity_train)
-- [Ask HN: Do you agree with HN&#39;s shadow banning certain submissions?](https://news.ycombinator.com/item?id=33431062)
+- [The Dark Shadow Cast by Moon Sun Myung’s Unification Church and Abe Shinzo](https://apjjf.org/2022/17/McGill.html)
+- [I spent 10 days in a secret Chinese Covid detention centre](https://www.ft.com/content/77622627-9433-445a-a763-a547b77b58ed)
+- [Instagram will soon allow select creators to make and sell NFTs directly in app](https://techcrunch.com/2022/11/02/instagram-allow-select-creators-make-sell-nfts-creator-updates/)
+- [The fastest site builder on the planet](https://fastur.com)
+- [The Jargon File](http://www.catb.org/jargon/html/)
+- [Palimpsest](https://en.wikipedia.org/wiki/Palimpsest)
+- [Linguistic relativity and the color naming debate](https://en.wikipedia.org/wiki/Linguistic_relativity_and_the_color_naming_debate)
+- [The Case of the Upside-Down Mondrian](https://www.newyorker.com/culture/cultural-comment/the-case-of-the-upside-down-mondrian)
+- [Decompression Sickness](https://en.wikipedia.org/wiki/Decompression_sickness)
+- [Wharton, Berkeley, NYU Offering Online M.B.A.s for the First Time](https://www.wsj.com/articles/online-mba-wharton-berkeley-nyu-georgetown-11667343552)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

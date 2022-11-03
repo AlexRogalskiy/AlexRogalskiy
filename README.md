@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [World Series Game 3: Houston Astros 0-7 Philadelphia Phillies – as it happened](https://www.theguardian.com/sport/live/2022/nov/01/world-series-game-3-philadelphia-phillies-v-houston-astros-live-latest-score)
-- [North Korea missile crosses maritime border with South for first time](https://www.theguardian.com/world/2022/nov/02/north-korea-has-fired-three-ballistic-missiles-into-sea-south-koreas-military-says)
-- [Just Stop Oil and the threat of the public order bill | podcast](https://www.theguardian.com/news/audio/2022/nov/02/just-stop-oil-and-the-threat-of-the-public-order-bill-podcast)
-- [Sydney’s Taronga zoo put into lockdown after five lions escape enclosure](https://www.theguardian.com/australia-news/2022/nov/02/taronga-zoo-put-into-lockdown-after-five-lions-break-out-of-enclosure)
-- [Denmark election result keeps Social Democrats at the helm](https://www.theguardian.com/world/2022/nov/02/denmark-election-result-keeps-social-democrats-at-the-helm)
-- [James Corden responds to accusations he copied a Ricky Gervais joke](https://www.theguardian.com/culture/2022/nov/02/james-corden-responds-to-accusations-he-copied-a-ricky-gervais-joke)
-- [Julie Powell, food writer and blogger behind Julie &amp; Julia, dies aged 49](https://www.theguardian.com/books/2022/nov/02/julie-powell-food-writer-and-blogger-behind-julie-julia-dies-aged-49)
-- [Russia-Ukraine war at a glance: what we know on day 252 of the invasion](https://www.theguardian.com/world/2022/nov/02/russia-ukraine-war-at-a-glance-what-we-know-on-day-252-of-the-invasion)
-- [‘Prevalent’ predatory, misogynistic culture in police, official report finds](https://www.theguardian.com/uk-news/2022/nov/02/prevalent-predatory-misogynistic-culture-in-police-official-report-finds)
-- [Recruitment of UK spies no longer restricted to those with British parents](https://www.theguardian.com/uk-news/2022/nov/02/recruitment-of-uk-spies-no-longer-restricted-to-those-with-british-parents)
+- [World Series Game 4 live: Astros bring combined no-hitter of Phillies into ninth inning](https://www.theguardian.com/sport/live/2022/nov/02/world-series-game-4-philadelphia-phillies-v-houston-astros-live-latest-score)
+- [Can Twitter survive Elon Musk? &lpar;And can Musk survive Twitter?&rpar; – podcast](https://www.theguardian.com/news/audio/2022/nov/03/can-twitter-survive-elon-musk-podcast)
+- [Zelenskiy labels Putin U-turn on Ukraine grain deal a ‘failure of Russian aggression’](https://www.theguardian.com/world/2022/nov/03/zelenskiy-and-ukraines-allies-label-putins-u-turn-on-grain-deal-a-humiliating-defeat)
+- [Twitter exodus: company faces murky future as top managers flee the nest](https://www.theguardian.com/technology/2022/nov/02/twitter-departures-elon-musk-layoffs)
+- [Biden urges Americans to take a stand against political violence: ‘We’re facing a defining moment’](https://www.theguardian.com/us-news/2022/nov/02/joe-biden-speech-political-violence-preserve-democracy-midterm-election)
+- [Whether it&#39;s Kit Connor or Harry Styles, forcing a celebrity to come out is not progress | Patrick Lenton](https://www.theguardian.com/culture/2022/nov/03/whether-its-kit-connor-or-harry-styles-forcing-a-celebrity-to-come-out-is-not-progress)
+- [North Korea launches suspected ICBM amid fresh missile tests, sparking alarm in Japan](https://www.theguardian.com/world/2022/nov/03/north-korea-launches-ballistic-missile-sparking-emergency-warnings-in-japan)
+- [Russia-Ukraine war at a glance: what we know on day 253 of the invasion](https://www.theguardian.com/world/2022/nov/03/russia-ukraine-war-at-a-glance-what-we-know-on-day-253-of-the-invasion)
+- [World Cup 2022 team guides part 1: Ecuador](https://www.theguardian.com/football/2022/nov/03/world-cup-2022-team-guide-ecuador)
+- [Climate crisis brings growing numbers of unusual jellyfish to UK seas](https://www.theguardian.com/environment/2022/nov/03/climate-crisis-brings-growing-numbers-of-unusual-jellyfish-to-uk-seas)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

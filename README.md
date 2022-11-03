@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Cook Shortage Threatens to Sink U.S. Coast Guard Operations](https://www.forbes.com/sites/craighooper/2022/10/31/a-cook-shortage-threatens-to-sink-us-coast-guard-operations/)
-- [Rate Hikes Are Affecting the Economy](https://www.apricitas.io/p/how-rate-hikes-are-affecting-the)
-- [Moving past TCP in the data center, part 1](https://lwn.net/SubscriberLink/913260/8819c42491a70e9b/)
-- [Show HN: Tier.run – Terraform for Stripe](https://github.com/tierrun)
-- [Rise of Generative AI will be comparable to the rise of CGI in the early 90s](https://sarharibhakti.substack.com/p/rise-of-generative-ai-will-be-comparable)
-- [Show HN: HiSHtory: Your shell history in context, synced, and queryable](https://github.com/ddworken/hishtory)
-- [Auth0 Verifiable Credentials](https://verifiablecredentials.dev/)
-- [Cache Associativity](https://en.algorithmica.org/hpc/cpu-cache/associativity/)
-- [NASA finds super-emitters of methane](https://www.smithsonianmag.com/smart-news/nasa-finds-more-than-50-super-emitters-of-methane-180981045/)
-- [Facebook has a hidden tool to delete your phone number, email](https://www.businessinsider.com/facebook-has-hidden-tool-to-delete-your-phone-number-email-2022-10)
+- [Russell Napier: The world will experience a capex boom](https://themarket.ch/interview/russell-napier-the-world-will-experience-a-capex-boom-ld.7606)
+- [What&#39;s the word for a large collection of fraudulent web stores?](https://chair6.net/a-large-collection-of-fraudulent-web-stores.html)
+- [Can I exec a new process without an executable file? &lpar;2015&rpar;](https://unix.stackexchange.com/questions/230472/can-i-exec-an-entirely-new-process-without-an-executable-file)
+- [Blip: A tool for seeing your internet latency](https://github.com/apenwarr/blip)
+- [Today’s inflation is not a repeat of the 1970s](https://awealthofcommonsense.com/2022/11/why-todays-inflation-is-not-a-repeat-of-the-1970s/)
+- [An AWS account just for getting into other AWS accounts](https://src-bin.com/an-aws-account-just-for-getting-into-other-aws-accounts/)
+- [Justice Department announces takedown of catalytic converter theft ring](https://www.justice.gov/opa/pr/justice-department-announces-takedown-nationwide-catalytic-converter-theft-ring)
+- [Apache AGE, a PostgreSQL extension with graph database functionality](https://github.com/apache/age)
+- [American society is so focused on race that it is blind to class](https://www.economist.com/leaders/2022/11/02/american-society-is-so-focused-on-race-that-it-is-blind-to-class)
+- [Next C compiler is a D compiler: Introducing DMD&#39;s ImportC](https://briancallahan.net/blog/20220704.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

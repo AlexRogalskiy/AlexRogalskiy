@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Russell Napier: The world will experience a capex boom](https://themarket.ch/interview/russell-napier-the-world-will-experience-a-capex-boom-ld.7606)
-- [What&#39;s the word for a large collection of fraudulent web stores?](https://chair6.net/a-large-collection-of-fraudulent-web-stores.html)
-- [Can I exec a new process without an executable file? &lpar;2015&rpar;](https://unix.stackexchange.com/questions/230472/can-i-exec-an-entirely-new-process-without-an-executable-file)
-- [Blip: A tool for seeing your internet latency](https://github.com/apenwarr/blip)
-- [Today’s inflation is not a repeat of the 1970s](https://awealthofcommonsense.com/2022/11/why-todays-inflation-is-not-a-repeat-of-the-1970s/)
-- [An AWS account just for getting into other AWS accounts](https://src-bin.com/an-aws-account-just-for-getting-into-other-aws-accounts/)
-- [Justice Department announces takedown of catalytic converter theft ring](https://www.justice.gov/opa/pr/justice-department-announces-takedown-nationwide-catalytic-converter-theft-ring)
-- [Apache AGE, a PostgreSQL extension with graph database functionality](https://github.com/apache/age)
-- [American society is so focused on race that it is blind to class](https://www.economist.com/leaders/2022/11/02/american-society-is-so-focused-on-race-that-it-is-blind-to-class)
-- [Next C compiler is a D compiler: Introducing DMD&#39;s ImportC](https://briancallahan.net/blog/20220704.html)
+- [ZLibrary domains have been seized by the United States Postal Inspection Service](http://3lib.net/)
+- [Clojure from a Schemer&#39;s Perspective &lpar;2021&rpar;](https://www.more-magic.net/posts/thoughts-on-clojure.html)
+- [Twitter to start layoffs -internal email](https://www.reuters.com/technology/twitter-start-layoffs-friday-morning-internal-email-2022-11-04/)
+- [Attach your private rail car to an Amtrak train](https://www.amtrak.com/privately-owned-rail-cars)
+- [Passage Is Joining 1Password](https://passage.id/post/passage-is-joining-1password)
+- [Robinhood reported a 35% drop in September monthly active users](https://www.wsj.com/articles/robinhood-cuts-losses-after-transaction-revenue-drops-11667426198)
+- [Is Microsoft&#39;s CBL-Mariner Going to Become Microsoft Linux?](https://boxofcables.dev/cbl-delridge-is-dead-long-live-cbl-mariner/)
+- [Microsoft is killing custom domain names in Outlook.com](https://www.bigtechwire.com/2022/11/02/microsoft-is-killing-custom-domain-names-in-outlook-com/)
+- [Release &lpar;YC W20&rpar; Is Hiring – Senior Software Engineer – Cloud Infrastructure](https://www.ycombinator.com/companies/release/jobs/DQlAy09AD-senior-software-engineer-cloud-infrastructure)
+- [We&#39;ve filed a lawsuit against GitHub Copilot](https://githubcopilotlitigation.com/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

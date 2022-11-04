@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [World Series Game 4 live: Astros bring combined no-hitter of Phillies into ninth inning](https://www.theguardian.com/sport/live/2022/nov/02/world-series-game-4-philadelphia-phillies-v-houston-astros-live-latest-score)
-- [Can Twitter survive Elon Musk? &lpar;And can Musk survive Twitter?&rpar; – podcast](https://www.theguardian.com/news/audio/2022/nov/03/can-twitter-survive-elon-musk-podcast)
-- [Zelenskiy labels Putin U-turn on Ukraine grain deal a ‘failure of Russian aggression’](https://www.theguardian.com/world/2022/nov/03/zelenskiy-and-ukraines-allies-label-putins-u-turn-on-grain-deal-a-humiliating-defeat)
-- [Twitter exodus: company faces murky future as top managers flee the nest](https://www.theguardian.com/technology/2022/nov/02/twitter-departures-elon-musk-layoffs)
-- [Biden urges Americans to take a stand against political violence: ‘We’re facing a defining moment’](https://www.theguardian.com/us-news/2022/nov/02/joe-biden-speech-political-violence-preserve-democracy-midterm-election)
-- [Whether it&#39;s Kit Connor or Harry Styles, forcing a celebrity to come out is not progress | Patrick Lenton](https://www.theguardian.com/culture/2022/nov/03/whether-its-kit-connor-or-harry-styles-forcing-a-celebrity-to-come-out-is-not-progress)
-- [North Korea launches suspected ICBM amid fresh missile tests, sparking alarm in Japan](https://www.theguardian.com/world/2022/nov/03/north-korea-launches-ballistic-missile-sparking-emergency-warnings-in-japan)
-- [Russia-Ukraine war at a glance: what we know on day 253 of the invasion](https://www.theguardian.com/world/2022/nov/03/russia-ukraine-war-at-a-glance-what-we-know-on-day-253-of-the-invasion)
-- [World Cup 2022 team guides part 1: Ecuador](https://www.theguardian.com/football/2022/nov/03/world-cup-2022-team-guide-ecuador)
-- [Climate crisis brings growing numbers of unusual jellyfish to UK seas](https://www.theguardian.com/environment/2022/nov/03/climate-crisis-brings-growing-numbers-of-unusual-jellyfish-to-uk-seas)
+- [World Series Game 5: Astros nose ahead of Phillies on Peña’s third-inning home run – live!](https://www.theguardian.com/sport/live/2022/nov/03/world-series-game-5-philadelphia-phillies-v-houston-astros-live-latest-score)
+- [UN nuclear inspectors shut down Russian ‘dirty bomb’ claim against Ukraine](https://www.theguardian.com/world/2022/nov/04/un-nuclear-inspectors-shut-down-russian-dirty-bomb-claim-against-ukraine)
+- [Cop27: was this the year climate progress unravelled?](https://www.theguardian.com/news/audio/2022/nov/04/cop27-was-this-the-year-climate-progress-unravelled)
+- [Sketch dismissed as Rembrandt ‘crude imitation’ revealed to be genuine](https://www.theguardian.com/artanddesign/2022/nov/04/rembrandt-sketch-raising-of-the-cross-not-fake-revealed-as-work-of-dutch-master)
+- [Elon Musk announces Twitter mass layoffs to begin Friday](https://www.theguardian.com/technology/2022/nov/03/elon-musk-twitter-mass-layoffs-begin)
+- [Russia-Ukraine war at a glance: what we know on day 254 of the invasion](https://www.theguardian.com/world/2022/nov/04/russia-ukraine-war-at-a-glance-what-we-know-on-day-254-of-the-invasion)
+- [Brooklyn Nets suspend Kyrie Irving over ‘failure to disavow antisemitism’](https://www.theguardian.com/sport/2022/nov/03/kyrie-irving-suspended-brooklyn-nets-antisemitic-beliefs)
+- [FBI says it has credible information of ‘broad’ threat to New Jersey synagogues](https://www.theguardian.com/us-news/2022/nov/03/fbi-new-jersey-synagogues-threat)
+- [World Cup 2022 team guides part 3: Senegal](https://www.theguardian.com/football/2022/nov/04/world-cup-2022-senegal-team-guide)
+- [Brazil supreme court ruling to reactivate Amazon Fund gives hope in fight to save rainforest](https://www.theguardian.com/world/2022/nov/04/brazil-supreme-court-ruling-to-reactivate-amazon-fund-gives-hope-in-fight-to-save-rainforest)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

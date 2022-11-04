@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Podcast: Apple’s holiday push](https://www.computerworld.com/article/3678770/podcast-apples-holiday-push.html#tk.rss_all)
+- [How the new Matter standard could unleash innovation in IoT](https://www.computerworld.com/article/3678988/how-the-new-matter-standard-could-unleash-innovation-in-iot.html#tk.rss_all)
+- [Can today’s videoconferencing tech evolve into tomorrow’s metaverse?](https://www.computerworld.com/article/3678969/can-todays-videoconferencing-tech-evolve-into-tomorrows-metaverse.html#tk.rss_all)
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
+- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
+- [Q&amp;A: Expedia CTO details return-to-work program for workers who come back](https://www.computerworld.com/article/3678302/qa-expedia-cto-details-return-to-work-program-for-workers-who-come-back.html#tk.rss_all)
 - [Apple must take another brick from its wall, says EU](https://www.computerworld.com/article/3678689/apple-must-take-another-brick-from-its-wall-says-eu.html#tk.rss_all)
 - [BrandPost: From Banks to Bananas: The Future of AI for IT Operations](https://www.computerworld.com/article/3678299/from-banks-to-bananas-the-future-of-ai-for-it-operations.html#tk.rss_all)
 - [BrandPost: The Economics of Technology Investments](https://www.computerworld.com/article/3678357/the-economics-of-technology-investments.html#tk.rss_all)
-- [BrandPost: Compliance: Meeting Regulatory Requirements...and More](https://www.computerworld.com/article/3678356/compliance-meeting-regulatory-requirements-and-more.html#tk.rss_all)
-- [How to unlock Google Assistant&#39;s most advanced Android shortcuts](https://www.computerworld.com/article/3678151/google-assistant-android-shortcuts.html#tk.rss_all)
-- [Location flexibility linked to improved organizational outcomes](https://www.computerworld.com/article/3678174/location-flexibility-linked-to-improved-organizational-outcomes.html#tk.rss_all)
-- [Your company brand may soon be held hostage to Adobe, Pantone](https://www.computerworld.com/article/3678297/your-company-brand-may-soon-be-held-hostage-to-adobe-pantone.html#tk.rss_all)
-- [BrandPost: Data Storage Power: Preparing for an Intelligent Digital Future](https://www.computerworld.com/article/3678358/data-storage-power-preparing-for-an-intelligent-digital-future.html#tk.rss_all)
-- [How ‘synthetic media’ will transform business forever](https://www.computerworld.com/article/3678172/how-synthetic-media-will-transform-business-forever.html#tk.rss_all)
-- [This would be a good time to test your cloud ROI](https://www.computerworld.com/article/3678430/this-would-be-a-good-time-to-test-your-cloud-roi.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

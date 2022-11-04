@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Dark Shadow Cast by Moon Sun Myung’s Unification Church and Abe Shinzo](https://apjjf.org/2022/17/McGill.html)
-- [I spent 10 days in a secret Chinese Covid detention centre](https://www.ft.com/content/77622627-9433-445a-a763-a547b77b58ed)
-- [Instagram will soon allow select creators to make and sell NFTs directly in app](https://techcrunch.com/2022/11/02/instagram-allow-select-creators-make-sell-nfts-creator-updates/)
-- [The fastest site builder on the planet](https://fastur.com)
-- [The Jargon File](http://www.catb.org/jargon/html/)
-- [Palimpsest](https://en.wikipedia.org/wiki/Palimpsest)
-- [Linguistic relativity and the color naming debate](https://en.wikipedia.org/wiki/Linguistic_relativity_and_the_color_naming_debate)
-- [The Case of the Upside-Down Mondrian](https://www.newyorker.com/culture/cultural-comment/the-case-of-the-upside-down-mondrian)
-- [Decompression Sickness](https://en.wikipedia.org/wiki/Decompression_sickness)
-- [Wharton, Berkeley, NYU Offering Online M.B.A.s for the First Time](https://www.wsj.com/articles/online-mba-wharton-berkeley-nyu-georgetown-11667343552)
+- [Twitter down: Is it due to layoff news?](https://news.ycombinator.com/item?id=33461789)
+- [The Official Guide to Mermaid.js](https://mermaid-js.github.io/mermaid/landing/)
+- [Floppy disk supplier says business is booming [video]](https://www.youtube.com/watch?v=-KspNLO9i9g)
+- [General Mills, Audi and Pfizer Join List of Companies Pausing Twitter Ads](https://www.wsj.com/articles/general-mills-audi-and-pfizer-join-growing-list-of-companies-pausing-twitter-ads-11667507765)
+- [Show HN: Vectory, a tool for visually tracking and comparing embeddings](https://github.com/pentoai/vectory)
+- [A 23-hour-long “game” to raise money for abortion funds](https://abortionbus.org)
+- [CDC issues new opioid prescribing guidance](https://www.npr.org/sections/health-shots/2022/11/03/1133908157/new-opioid-prescribing-guidelines-give-doctors-more-leeway-to-treat-pain)
+- [Twitter to make job cuts after Elon Musk takeover](https://www.bbc.com/news/technology-63495125)
+- [For 40 Years, This Russian Family Was Cut Off from All Human Contact](https://www.smithsonianmag.com/history/for-40-years-this-russian-family-was-cut-off-from-all-human-contact-unaware-of-world-war-ii-7354256/)
+- [Jorts the Cat has caused a denial of service for a Twitter to Mastodon bridge](https://beta.birdsite.live/users/jortsthecat/remote_follow)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

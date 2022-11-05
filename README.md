@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Twitter down: Is it due to layoff news?](https://news.ycombinator.com/item?id=33461789)
-- [The Official Guide to Mermaid.js](https://mermaid-js.github.io/mermaid/landing/)
-- [Floppy disk supplier says business is booming [video]](https://www.youtube.com/watch?v=-KspNLO9i9g)
-- [General Mills, Audi and Pfizer Join List of Companies Pausing Twitter Ads](https://www.wsj.com/articles/general-mills-audi-and-pfizer-join-growing-list-of-companies-pausing-twitter-ads-11667507765)
-- [Show HN: Vectory, a tool for visually tracking and comparing embeddings](https://github.com/pentoai/vectory)
-- [A 23-hour-long “game” to raise money for abortion funds](https://abortionbus.org)
-- [CDC issues new opioid prescribing guidance](https://www.npr.org/sections/health-shots/2022/11/03/1133908157/new-opioid-prescribing-guidelines-give-doctors-more-leeway-to-treat-pain)
-- [Twitter to make job cuts after Elon Musk takeover](https://www.bbc.com/news/technology-63495125)
-- [For 40 Years, This Russian Family Was Cut Off from All Human Contact](https://www.smithsonianmag.com/history/for-40-years-this-russian-family-was-cut-off-from-all-human-contact-unaware-of-world-war-ii-7354256/)
-- [Jorts the Cat has caused a denial of service for a Twitter to Mastodon bridge](https://beta.birdsite.live/users/jortsthecat/remote_follow)
+- [How Complex Systems Fail [pdf]](https://www.researchgate.net/profile/Richard-Cook-8/publication/228797158_How_complex_systems_fail/links/5caf748a299bf120975f697e/How-complex-systems-fail.pdf)
+- [Show HN: Structpad: notepad-database hybrid that helps you use abstract thinking](https://structpad.app)
+- [My Sad, Lonely, Expensive Adventures in Zuckerberg’s V.R](https://www.nytimes.com/2022/11/04/opinion/facebook-meta-zuckerberg-virtual-reality.html)
+- [Coca-Cola products sold in Russia via China despite brand exit](https://twitter.com/ogapav/status/1588633565235146752)
+- [Twenty Technology horror stories about learning the hard way](https://opensource.com/article/22/10/technology-horror-stories)
+- [Enforcing .NET code style rules at compile time](https://blog.genezini.com/p/enforcing-.net-code-style-rules-at-compile-time/)
+- [Accessibility: Px or Rem?](https://matklad.github.io/2022/11/05/accessibility-px-or-rem.html)
+- [Cloud native dev toolings enables fully-fledged microservices in WebAssembly](https://containerjournal.com/news/news-releases/wasmedge-brings-cloud-native-tooling-to-webassembly/)
+- [Ask HN: How best can writer share their work?](https://news.ycombinator.com/item?id=33477358)
+- [How to Rein in Elon Musk](https://washingtonmonthly.com/2022/11/03/how-to-rein-in-elon-musk/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

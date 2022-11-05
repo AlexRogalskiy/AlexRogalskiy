@@ -355,6 +355,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [JumpCloud brings Remote Access to cross-platform teams](https://www.computerworld.com/article/3679050/jumpcloud-brings-remote-access-to-cross-platform-teams.html#tk.rss_all)
+- [Are in-office mandates killing productivity?](https://www.computerworld.com/article/3678971/are-in-office-mandates-killing-productivity.html#tk.rss_all)
+- [11 out-of-sight Pixel Watch superpowers](https://www.computerworld.com/article/3678728/pixel-watch-voice-commands.html#tk.rss_all)
 - [Podcast: Apple’s holiday push](https://www.computerworld.com/article/3678770/podcast-apples-holiday-push.html#tk.rss_all)
 - [How the new Matter standard could unleash innovation in IoT](https://www.computerworld.com/article/3678988/how-the-new-matter-standard-could-unleash-innovation-in-iot.html#tk.rss_all)
 - [Can today’s videoconferencing tech evolve into tomorrow’s metaverse?](https://www.computerworld.com/article/3678969/can-todays-videoconferencing-tech-evolve-into-tomorrows-metaverse.html#tk.rss_all)
@@ -362,9 +365,6 @@
 - [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
 - [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
 - [Q&amp;A: Expedia CTO details return-to-work program for workers who come back](https://www.computerworld.com/article/3678302/qa-expedia-cto-details-return-to-work-program-for-workers-who-come-back.html#tk.rss_all)
-- [Apple must take another brick from its wall, says EU](https://www.computerworld.com/article/3678689/apple-must-take-another-brick-from-its-wall-says-eu.html#tk.rss_all)
-- [BrandPost: From Banks to Bananas: The Future of AI for IT Operations](https://www.computerworld.com/article/3678299/from-banks-to-bananas-the-future-of-ai-for-it-operations.html#tk.rss_all)
-- [BrandPost: The Economics of Technology Investments](https://www.computerworld.com/article/3678357/the-economics-of-technology-investments.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

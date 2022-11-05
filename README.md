@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [World Series Game 5: Astros nose ahead of Phillies on Peña’s third-inning home run – live!](https://www.theguardian.com/sport/live/2022/nov/03/world-series-game-5-philadelphia-phillies-v-houston-astros-live-latest-score)
-- [UN nuclear inspectors shut down Russian ‘dirty bomb’ claim against Ukraine](https://www.theguardian.com/world/2022/nov/04/un-nuclear-inspectors-shut-down-russian-dirty-bomb-claim-against-ukraine)
-- [Cop27: was this the year climate progress unravelled?](https://www.theguardian.com/news/audio/2022/nov/04/cop27-was-this-the-year-climate-progress-unravelled)
-- [Sketch dismissed as Rembrandt ‘crude imitation’ revealed to be genuine](https://www.theguardian.com/artanddesign/2022/nov/04/rembrandt-sketch-raising-of-the-cross-not-fake-revealed-as-work-of-dutch-master)
-- [Elon Musk announces Twitter mass layoffs to begin Friday](https://www.theguardian.com/technology/2022/nov/03/elon-musk-twitter-mass-layoffs-begin)
-- [Russia-Ukraine war at a glance: what we know on day 254 of the invasion](https://www.theguardian.com/world/2022/nov/04/russia-ukraine-war-at-a-glance-what-we-know-on-day-254-of-the-invasion)
-- [Brooklyn Nets suspend Kyrie Irving over ‘failure to disavow antisemitism’](https://www.theguardian.com/sport/2022/nov/03/kyrie-irving-suspended-brooklyn-nets-antisemitic-beliefs)
-- [FBI says it has credible information of ‘broad’ threat to New Jersey synagogues](https://www.theguardian.com/us-news/2022/nov/03/fbi-new-jersey-synagogues-threat)
-- [World Cup 2022 team guides part 3: Senegal](https://www.theguardian.com/football/2022/nov/04/world-cup-2022-senegal-team-guide)
-- [Brazil supreme court ruling to reactivate Amazon Fund gives hope in fight to save rainforest](https://www.theguardian.com/world/2022/nov/04/brazil-supreme-court-ruling-to-reactivate-amazon-fund-gives-hope-in-fight-to-save-rainforest)
+- [Russia-Ukraine war at a glance: what we know on day 255 of the invasion](https://www.theguardian.com/world/2022/nov/05/russia-ukraine-war-at-a-glance-what-we-know-on-day-255-of-the-invasion)
+- [House January 6 panel grants Trump’s request for extension to subpoena](https://www.theguardian.com/us-news/2022/nov/04/capitol-attack-panel-donald-trump-extension-subpoena)
+- [Twitter slashes nearly half its workforce as Musk admits ‘massive drop’ in revenue](https://www.theguardian.com/technology/2022/nov/04/twitter-layoffs-elon-musk-revenue-drop)
+- [Top Trump adviser granted immunity testifies in Mar-a-Lago papers case](https://www.theguardian.com/us-news/2022/nov/04/trump-adviser-immunity-mar-a-lago-papers-kash-patel)
+- [Labour plans expansion of state nursery sector in England to ease pressure on parents](https://www.theguardian.com/politics/2022/nov/05/labour-plans-expansion-of-state-nursery-sector-in-england-to-ease-pressure-on-parents)
+- [‘It’s not just childcare’: focus on early years education sets Estonia apart](https://www.theguardian.com/education/2022/nov/05/estonia-focus-early-year-innovative-kindergarten-highest-performer-international-education-ranking)
+- [World Cup 2022 team guides part 5: England](https://www.theguardian.com/football/2022/nov/05/world-cup-2022-team-guide-england)
+- [I am free while the women of Iran are not afforded the same luxury – but now they are spearheading a revolution | Setareh Vaziri](https://www.theguardian.com/commentisfree/2022/nov/05/i-am-free-while-the-women-of-iran-are-not-afforded-the-same-luxury-but-now-they-are-spearheading-a-revolution)
+- [John Major and Tony Blair criticise The Crown’s dramatisation of secret meeting](https://www.theguardian.com/tv-and-radio/2022/nov/04/john-major-and-tony-blair-criticise-the-crowns-dramatisation-of-secret-meeting)
+- [Twitter layoffs raise questions about future of infrastructure and moderation](https://www.theguardian.com/technology/2022/nov/04/twitter-layoffs-misinformation-moderation)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

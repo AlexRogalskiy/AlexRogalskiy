@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [ZLibrary domains have been seized by the United States Postal Inspection Service](http://3lib.net/)
-- [Clojure from a Schemer&#39;s Perspective &lpar;2021&rpar;](https://www.more-magic.net/posts/thoughts-on-clojure.html)
-- [Twitter to start layoffs -internal email](https://www.reuters.com/technology/twitter-start-layoffs-friday-morning-internal-email-2022-11-04/)
-- [Attach your private rail car to an Amtrak train](https://www.amtrak.com/privately-owned-rail-cars)
-- [Passage Is Joining 1Password](https://passage.id/post/passage-is-joining-1password)
-- [Robinhood reported a 35% drop in September monthly active users](https://www.wsj.com/articles/robinhood-cuts-losses-after-transaction-revenue-drops-11667426198)
-- [Is Microsoft&#39;s CBL-Mariner Going to Become Microsoft Linux?](https://boxofcables.dev/cbl-delridge-is-dead-long-live-cbl-mariner/)
-- [Microsoft is killing custom domain names in Outlook.com](https://www.bigtechwire.com/2022/11/02/microsoft-is-killing-custom-domain-names-in-outlook-com/)
-- [Release &lpar;YC W20&rpar; Is Hiring – Senior Software Engineer – Cloud Infrastructure](https://www.ycombinator.com/companies/release/jobs/DQlAy09AD-senior-software-engineer-cloud-infrastructure)
-- [We&#39;ve filed a lawsuit against GitHub Copilot](https://githubcopilotlitigation.com/)
+- [Musk orders Twitter to cut infrastructure costs by $1B – sources](https://www.reuters.com/technology/musk-orders-twitter-cut-infrastructure-costs-by-1-bln-sources-2022-11-03/)
+- [60% of home compostable plastic doesn’t fully break down, ending up in our soil](https://blog.frontiersin.org/2022/11/03/60-of-home-compostable-plastic-doesnt-fully-break-down-ending-up-in-our-soil/)
+- [Ironies of Automation](https://blog.acolyer.org/2020/01/08/ironies-of-automation/)
+- [Intel plans to rival TSMC and Samsung as a chip supplier](https://asia.nikkei.com/Business/Business-Spotlight/How-Intel-plans-to-rival-TSMC-and-Samsung-as-a-chip-supplier)
+- [Ask HN: How much does the environment you&#39;re in contribute to performance?](https://news.ycombinator.com/item?id=33475720)
+- [Lawsuit against Meta invokes modern portfolio theory to protect shareholders](https://corpgov.law.harvard.edu/2022/11/04/lawsuit-against-meta-invokes-modern-portfolio-theory-to-protect-diversified-shareholders/)
+- [Darcy – federated social media platform](https://darcy.is/)
+- [Starlink to start “deprioritizing” taffic after 1TB monthly](https://i.imgur.com/NfSTpZN.jpg)
+- [Hollow City: Edward Hopper’s portraits of urban alienation](https://thebaffler.com/latest/hollow-city-arn)
+- [Rage Against The Machine’s explosive debut album changed everything](https://www.loudersound.com/features/rage-against-the-machine-debut-album-story)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

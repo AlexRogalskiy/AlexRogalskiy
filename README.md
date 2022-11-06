@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war at a glance: what we know on day 255 of the invasion](https://www.theguardian.com/world/2022/nov/05/russia-ukraine-war-at-a-glance-what-we-know-on-day-255-of-the-invasion)
-- [House January 6 panel grants Trump’s request for extension to subpoena](https://www.theguardian.com/us-news/2022/nov/04/capitol-attack-panel-donald-trump-extension-subpoena)
-- [Twitter slashes nearly half its workforce as Musk admits ‘massive drop’ in revenue](https://www.theguardian.com/technology/2022/nov/04/twitter-layoffs-elon-musk-revenue-drop)
-- [Top Trump adviser granted immunity testifies in Mar-a-Lago papers case](https://www.theguardian.com/us-news/2022/nov/04/trump-adviser-immunity-mar-a-lago-papers-kash-patel)
-- [Labour plans expansion of state nursery sector in England to ease pressure on parents](https://www.theguardian.com/politics/2022/nov/05/labour-plans-expansion-of-state-nursery-sector-in-england-to-ease-pressure-on-parents)
-- [‘It’s not just childcare’: focus on early years education sets Estonia apart](https://www.theguardian.com/education/2022/nov/05/estonia-focus-early-year-innovative-kindergarten-highest-performer-international-education-ranking)
-- [World Cup 2022 team guides part 5: England](https://www.theguardian.com/football/2022/nov/05/world-cup-2022-team-guide-england)
-- [I am free while the women of Iran are not afforded the same luxury – but now they are spearheading a revolution | Setareh Vaziri](https://www.theguardian.com/commentisfree/2022/nov/05/i-am-free-while-the-women-of-iran-are-not-afforded-the-same-luxury-but-now-they-are-spearheading-a-revolution)
-- [John Major and Tony Blair criticise The Crown’s dramatisation of secret meeting](https://www.theguardian.com/tv-and-radio/2022/nov/04/john-major-and-tony-blair-criticise-the-crowns-dramatisation-of-secret-meeting)
-- [Twitter layoffs raise questions about future of infrastructure and moderation](https://www.theguardian.com/technology/2022/nov/04/twitter-layoffs-misinformation-moderation)
+- [World Series Game 6 live: Yordan Álvarez’s home run gives Astros lead over Phillies in sixth](https://www.theguardian.com/sport/live/2022/nov/05/world-series-game-5-philadelphia-phillies-v-houston-astros-live-latest-score)
+- [Russia-Ukraine war at a glance: what we know on day 256 of the invasion](https://www.theguardian.com/world/2022/nov/06/russia-ukraine-war-at-a-glance-what-we-know-on-day-256-of-the-invasion)
+- [AstraZeneca looks fighting fit despite the ills of the UK science sector](https://www.theguardian.com/business/2022/nov/06/astrazeneca-looks-fighting-fit-despite-the-ills-of-the-uk-science-sector)
+- [Extra bank holiday for coronation of King Charles III set for 8 May 2023](https://www.theguardian.com/uk-news/2022/nov/06/extra-bank-holiday-for-coronation-of-king-charles-iii-set-for-8-may-2023)
+- [TV Tonight: More hapless celebs head to the jungle](https://www.theguardian.com/tv-and-radio/2022/nov/06/tv-tonight-more-hapless-celebs-head-to-the-jungle)
+- [We love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2022/nov/05/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Gavin Williamson sent expletive-laden messages to chief whip](https://www.theguardian.com/politics/2022/nov/05/williamson-sent-expletive-laden-messages-to-chief-whip)
+- [Sole mates: 20 of the best men’s footwear – in pictures](https://www.theguardian.com/fashion/gallery/2022/nov/05/sole-mates-20-of-the-best-mens-footwear-in-pictures)
+- [Unbeaten Flightline crushes field to soar to Breeders’ Cup Classic win](https://www.theguardian.com/sport/2022/nov/05/unbeaten-flightline-crushes-field-to-soar-to-breeders-cup-classic-win)
+- [Sunak claims role as ‘clean energy champion’ on eve of Cop27](https://www.theguardian.com/politics/2022/nov/05/sunak-claims-role-as-clean-energy-champion-on-eve-of-cop27)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

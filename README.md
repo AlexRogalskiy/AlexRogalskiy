@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Musk orders Twitter to cut infrastructure costs by $1B – sources](https://www.reuters.com/technology/musk-orders-twitter-cut-infrastructure-costs-by-1-bln-sources-2022-11-03/)
-- [60% of home compostable plastic doesn’t fully break down, ending up in our soil](https://blog.frontiersin.org/2022/11/03/60-of-home-compostable-plastic-doesnt-fully-break-down-ending-up-in-our-soil/)
-- [Ironies of Automation](https://blog.acolyer.org/2020/01/08/ironies-of-automation/)
-- [Intel plans to rival TSMC and Samsung as a chip supplier](https://asia.nikkei.com/Business/Business-Spotlight/How-Intel-plans-to-rival-TSMC-and-Samsung-as-a-chip-supplier)
-- [Ask HN: How much does the environment you&#39;re in contribute to performance?](https://news.ycombinator.com/item?id=33475720)
-- [Lawsuit against Meta invokes modern portfolio theory to protect shareholders](https://corpgov.law.harvard.edu/2022/11/04/lawsuit-against-meta-invokes-modern-portfolio-theory-to-protect-diversified-shareholders/)
-- [Darcy – federated social media platform](https://darcy.is/)
-- [Starlink to start “deprioritizing” taffic after 1TB monthly](https://i.imgur.com/NfSTpZN.jpg)
-- [Hollow City: Edward Hopper’s portraits of urban alienation](https://thebaffler.com/latest/hollow-city-arn)
-- [Rage Against The Machine’s explosive debut album changed everything](https://www.loudersound.com/features/rage-against-the-machine-debut-album-story)
+- [Tool that lists all Fediverse instances including Mastodon, Pleroma, &amp; Rebased](http://demo.fedilist.com/)
+- [“I worked at Facebook when we [were] 200. [Twitter’s] layoffs are appropriate”](https://twitter.com/rsg/status/1588969950668283905)
+- [Twitter sources say company reached out to fired people asking them to come back](https://twitter.com/caseynewton/status/1589075543420325888)
+- [Level responds to lock picker opening its $330 Apple Store lock in seconds](https://www.techradar.com/news/the-apple-stores-dollar330-level-lock-plus-smart-lock-isnt-as-secure-as-youd-think)
+- [Meta’s Meltdown Shows How Big Tech’s Invincible Era Is Over](https://www.bloomberg.com/news/articles/2022-11-03/meta-meta-stock-price-underscores-faang-company-troubles)
+- [Pleroma, LitePub, ActivityPub and JSON-LD &lpar;2018&rpar;](https://ariadne.space/2018/11/12/pleroma-litepub-activitypub-and-json-ld/)
+- [NASA Puts Jet Propulsion Lab on Blast over Psyche Mission Failures](https://futurism.com/the-byte/nasa-jpl-psyche-independent-review)
+- [Bashing new myths about digital nomads](https://www.computerworld.com/article/3676669/bashing-4-new-myths-about-digital-nomads.html)
+- [Thoughts on the “Guard” Proposal for Go&#39;s Error Handling](https://wagslane.dev/posts/guard-keyword-error-handling-golang/)
+- [TCP in under 200 LOC as parser-expression-grammar for RFC ASCII diagrams &lpar;2008&rpar;](http://www.moserware.com/2008/04/towards-moores-law-software-part-3-of-3.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

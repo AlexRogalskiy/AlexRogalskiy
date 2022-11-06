@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [How Complex Systems Fail [pdf]](https://www.researchgate.net/profile/Richard-Cook-8/publication/228797158_How_complex_systems_fail/links/5caf748a299bf120975f697e/How-complex-systems-fail.pdf)
-- [Show HN: Structpad: notepad-database hybrid that helps you use abstract thinking](https://structpad.app)
-- [My Sad, Lonely, Expensive Adventures in Zuckerberg’s V.R](https://www.nytimes.com/2022/11/04/opinion/facebook-meta-zuckerberg-virtual-reality.html)
-- [Coca-Cola products sold in Russia via China despite brand exit](https://twitter.com/ogapav/status/1588633565235146752)
-- [Twenty Technology horror stories about learning the hard way](https://opensource.com/article/22/10/technology-horror-stories)
-- [Enforcing .NET code style rules at compile time](https://blog.genezini.com/p/enforcing-.net-code-style-rules-at-compile-time/)
-- [Accessibility: Px or Rem?](https://matklad.github.io/2022/11/05/accessibility-px-or-rem.html)
-- [Cloud native dev toolings enables fully-fledged microservices in WebAssembly](https://containerjournal.com/news/news-releases/wasmedge-brings-cloud-native-tooling-to-webassembly/)
-- [Ask HN: How best can writer share their work?](https://news.ycombinator.com/item?id=33477358)
-- [How to Rein in Elon Musk](https://washingtonmonthly.com/2022/11/03/how-to-rein-in-elon-musk/)
+- [Generate Google Slides from Wikipedia Content](https://github.com/vilmacio/gslides-maker)
+- [Elliptic Curve Cryptography: a gentle introduction &lpar;2015&rpar;](https://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/)
+- [What Shopping on Amazon Feels Like](https://www.youtube.com/watch?v=nQpxAvjD_30)
+- [The Shallowness of Google Translate &lpar;2018&rpar;](https://www.theatlantic.com/technology/archive/2018/01/the-shallowness-of-google-translate/551570/)
+- [The Spine Collector &lpar;2021&rpar;](https://www.vulture.com/2022/01/stealing-books-before-release-mystery.html)
+- [Homeland Security Admits It Tried to Manufacture Fake Terrorists for Trump](https://twitter.com/gizmodo/status/1588861712622825472)
+- [First Look at 2023 US Housing Forecasts](https://calculatedrisk.substack.com/p/first-look-at-2023-housing-forecasts)
+- [Iran’s embattled currency plunges to historic lows amid protests](https://www.aljazeera.com/news/2022/11/5/iran-currency-plunges-to-historic-lows-amid-protests)
+- [The Worlds Smallest Condominium](https://en.wikipedia.org/wiki/Pheasant_Island)
+- [Tool that lists all Fediverse instances including Mastodon, Pleroma, &amp; Rebased](http://demo.fedilist.com/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

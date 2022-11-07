@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Tool that lists all Fediverse instances including Mastodon, Pleroma, &amp; Rebased](http://demo.fedilist.com/)
-- [“I worked at Facebook when we [were] 200. [Twitter’s] layoffs are appropriate”](https://twitter.com/rsg/status/1588969950668283905)
-- [Twitter sources say company reached out to fired people asking them to come back](https://twitter.com/caseynewton/status/1589075543420325888)
-- [Level responds to lock picker opening its $330 Apple Store lock in seconds](https://www.techradar.com/news/the-apple-stores-dollar330-level-lock-plus-smart-lock-isnt-as-secure-as-youd-think)
-- [Meta’s Meltdown Shows How Big Tech’s Invincible Era Is Over](https://www.bloomberg.com/news/articles/2022-11-03/meta-meta-stock-price-underscores-faang-company-troubles)
-- [Pleroma, LitePub, ActivityPub and JSON-LD &lpar;2018&rpar;](https://ariadne.space/2018/11/12/pleroma-litepub-activitypub-and-json-ld/)
-- [NASA Puts Jet Propulsion Lab on Blast over Psyche Mission Failures](https://futurism.com/the-byte/nasa-jpl-psyche-independent-review)
-- [Bashing new myths about digital nomads](https://www.computerworld.com/article/3676669/bashing-4-new-myths-about-digital-nomads.html)
-- [Thoughts on the “Guard” Proposal for Go&#39;s Error Handling](https://wagslane.dev/posts/guard-keyword-error-handling-golang/)
-- [TCP in under 200 LOC as parser-expression-grammar for RFC ASCII diagrams &lpar;2008&rpar;](http://www.moserware.com/2008/04/towards-moores-law-software-part-3-of-3.html)
+- [Twitter lays off 1000 California, primarily San Francisco, employees](https://www.mercurynews.com/2022/11/05/twitter-layoff-job-cut-elon-musk-tech-economy-bay-area-900-state-1000/)
+- [Wells Fargo mortgage staff brace for layoffs as U.S. loan volumes collapse](https://www.cnbc.com/2022/11/02/wells-fargo-mortgage-staff-brace-for-layoffs-as-us-loan-volumes-collapse.html)
+- [The Interactive Fiction Competition](https://ifcomp.org/)
+- [How to rip audio CDs 2022 – with drive accuracy listing](https://pilabor.com/blog/2022/10/audio-cd-ripping-hardware/)
+- [Almost monospaced: the perfect fonts for writing](https://blakewatson.com/journal/almost-monospaced-the-perfect-fonts-for-writing/)
+- [Update on Supply of iPhone 14 Pro and iPhone 14 Pro Max](https://www.apple.com/newsroom/2022/11/update-on-supply-of-iphone-14-pro-and-iphone-14-pro-max/)
+- [Honda electric moped coming, intended to fit “50cc” category](https://www.cycleworld.com/story/motorcycle-news/honda-electric-moped-coming-soon/)
+- [Barilla passive cooker](https://www.barilla.com/en-gb/passive-cooking)
+- [Bloated college administration is making education unaffordable](https://quillette.com/2022/11/02/bloated-college-administration-is-making-education-unaffordable/)
+- [The lonely runner conjecture](https://en.wikipedia.org/wiki/Lonely_runner_conjecture)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

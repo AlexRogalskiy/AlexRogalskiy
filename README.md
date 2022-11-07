@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Generate Google Slides from Wikipedia Content](https://github.com/vilmacio/gslides-maker)
-- [Elliptic Curve Cryptography: a gentle introduction &lpar;2015&rpar;](https://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/)
-- [What Shopping on Amazon Feels Like](https://www.youtube.com/watch?v=nQpxAvjD_30)
-- [The Shallowness of Google Translate &lpar;2018&rpar;](https://www.theatlantic.com/technology/archive/2018/01/the-shallowness-of-google-translate/551570/)
-- [The Spine Collector &lpar;2021&rpar;](https://www.vulture.com/2022/01/stealing-books-before-release-mystery.html)
-- [Homeland Security Admits It Tried to Manufacture Fake Terrorists for Trump](https://twitter.com/gizmodo/status/1588861712622825472)
-- [First Look at 2023 US Housing Forecasts](https://calculatedrisk.substack.com/p/first-look-at-2023-housing-forecasts)
-- [Iran’s embattled currency plunges to historic lows amid protests](https://www.aljazeera.com/news/2022/11/5/iran-currency-plunges-to-historic-lows-amid-protests)
-- [The Worlds Smallest Condominium](https://en.wikipedia.org/wiki/Pheasant_Island)
-- [Tool that lists all Fediverse instances including Mastodon, Pleroma, &amp; Rebased](http://demo.fedilist.com/)
+- [If you die in the game, you die in real life](https://palmerluckey.com/if-you-die-in-the-game-you-die-in-real-life/)
+- [Conserving Beirut&#39;s Shattered Glass](https://www.britishmuseum.org/blog/conserving-beiruts-shattered-glass)
+- [Migrate from Linux to FreeBSD](https://klarasystems.com/articles/easily-migrate-from-linux-to-freebsd/)
+- [Twitter employees warn of scenario making platform unreliable on election night](https://www.alternet.org/2022/11/elon-musk-twitter-2658601279/)
+- [High-Performance Transparent Radiative Cooler Designed by Quantum Computing](https://pubs.acs.org/doi/full/10.1021/acsenergylett.2c01969#)
+- [List of Animals by Number of Neurons](https://en.wikipedia.org/wiki/List_of_animals_by_number_of_neurons)
+- [Keep ’em coming: Why your first ideas aren’t always the best](https://www.gsb.stanford.edu/insights/keep-em-coming-why-your-first-ideas-arent-always-best)
+- [Apple Execs on iMessage for Android &lpar;2013&rpar;](https://twitter.com/techemails/status/1589450766506692609)
+- [Twitter Engineers Are Resigning](https://twitter.com/rakyll/status/1589350822051459073)
+- [What Is Pleroma? &lpar;2018&rpar;](https://blog.soykaf.com/post/what-is-pleroma/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

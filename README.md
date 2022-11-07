@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [World Series Game 6 live: Yordan Álvarez’s home run gives Astros lead over Phillies in sixth](https://www.theguardian.com/sport/live/2022/nov/05/world-series-game-5-philadelphia-phillies-v-houston-astros-live-latest-score)
-- [Russia-Ukraine war at a glance: what we know on day 256 of the invasion](https://www.theguardian.com/world/2022/nov/06/russia-ukraine-war-at-a-glance-what-we-know-on-day-256-of-the-invasion)
-- [AstraZeneca looks fighting fit despite the ills of the UK science sector](https://www.theguardian.com/business/2022/nov/06/astrazeneca-looks-fighting-fit-despite-the-ills-of-the-uk-science-sector)
-- [Extra bank holiday for coronation of King Charles III set for 8 May 2023](https://www.theguardian.com/uk-news/2022/nov/06/extra-bank-holiday-for-coronation-of-king-charles-iii-set-for-8-may-2023)
-- [TV Tonight: More hapless celebs head to the jungle](https://www.theguardian.com/tv-and-radio/2022/nov/06/tv-tonight-more-hapless-celebs-head-to-the-jungle)
-- [We love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2022/nov/05/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Gavin Williamson sent expletive-laden messages to chief whip](https://www.theguardian.com/politics/2022/nov/05/williamson-sent-expletive-laden-messages-to-chief-whip)
-- [Sole mates: 20 of the best men’s footwear – in pictures](https://www.theguardian.com/fashion/gallery/2022/nov/05/sole-mates-20-of-the-best-mens-footwear-in-pictures)
-- [Unbeaten Flightline crushes field to soar to Breeders’ Cup Classic win](https://www.theguardian.com/sport/2022/nov/05/unbeaten-flightline-crushes-field-to-soar-to-breeders-cup-classic-win)
-- [Sunak claims role as ‘clean energy champion’ on eve of Cop27](https://www.theguardian.com/politics/2022/nov/05/sunak-claims-role-as-clean-energy-champion-on-eve-of-cop27)
+- [Who is robbing Lebanon’s banks? – podcast](https://www.theguardian.com/news/audio/2022/nov/07/who-is-robbing-lebanons-banks-podcast)
+- [Republicans and Democrats make last arguments as midterms loom](https://www.theguardian.com/us-news/2022/nov/06/republicans-democrats-midterm-elections-closing-arguments)
+- [Twitter will ban impersonators, Elon Musk says, as users flock to take his name](https://www.theguardian.com/technology/2022/nov/07/twitter-will-ban-permanently-suspend-impersonator-accounts-elon-musk-says-as-users-take-his-name)
+- [Russia-Ukraine war at a glance: what we know on day 257 of the invasion](https://www.theguardian.com/world/2022/nov/07/russia-ukraine-war-at-a-glance-what-we-know-on-day-257-of-the-invasion)
+- [Facebook’s parent Meta prepares to slash thousands of jobs – reports](https://www.theguardian.com/technology/2022/nov/07/facebook-parent-meta-prepares-large-scale-layoffs-fire-thousands-jobs-reports)
+- [Apple warns iPhone shipments will be delayed due to Covid restrictions at Foxconn plant](https://www.theguardian.com/technology/2022/nov/07/apple-warns-iphone-shipments-will-be-delayed-due-to-covid-restrictions-at-foxconn-plant)
+- [Jeremy Hunt to outline £60bn of tax rises and spending cuts](https://www.theguardian.com/politics/2022/nov/06/jeremy-hunt-set-to-outline-60bn-in-tax-rises-and-spending-cuts)
+- [Super-rich’s carbon investment emissions ‘equivalent to whole of France’](https://www.theguardian.com/environment/2022/nov/07/super-richs-carbon-investment-emissions-equivalent-to-whole-of-france)
+- [More than 138,000 properties in England and Wales owned by offshore companies](https://www.theguardian.com/uk-news/2022/nov/07/more-than-138000-properties-in-england-and-wales-owned-by-offshore-companies)
+- [Residential speed limit of 20mph to save Wales £100m in first year](https://www.theguardian.com/uk-news/2022/nov/07/residential-speed-limit-20mph-wales)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

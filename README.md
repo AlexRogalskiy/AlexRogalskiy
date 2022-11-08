@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [If you die in the game, you die in real life](https://palmerluckey.com/if-you-die-in-the-game-you-die-in-real-life/)
-- [Conserving Beirut&#39;s Shattered Glass](https://www.britishmuseum.org/blog/conserving-beiruts-shattered-glass)
-- [Migrate from Linux to FreeBSD](https://klarasystems.com/articles/easily-migrate-from-linux-to-freebsd/)
-- [Twitter employees warn of scenario making platform unreliable on election night](https://www.alternet.org/2022/11/elon-musk-twitter-2658601279/)
-- [High-Performance Transparent Radiative Cooler Designed by Quantum Computing](https://pubs.acs.org/doi/full/10.1021/acsenergylett.2c01969#)
-- [List of Animals by Number of Neurons](https://en.wikipedia.org/wiki/List_of_animals_by_number_of_neurons)
-- [Keep ’em coming: Why your first ideas aren’t always the best](https://www.gsb.stanford.edu/insights/keep-em-coming-why-your-first-ideas-arent-always-best)
-- [Apple Execs on iMessage for Android &lpar;2013&rpar;](https://twitter.com/techemails/status/1589450766506692609)
-- [Twitter Engineers Are Resigning](https://twitter.com/rakyll/status/1589350822051459073)
-- [What Is Pleroma? &lpar;2018&rpar;](https://blog.soykaf.com/post/what-is-pleroma/)
+- [Texinfo 7.0 released: LaTeX, ePub 3 added as output formats](https://lists.gnu.org/archive/html/info-gnu/2022-11/msg00002.html)
+- [Fast Incremental Builds with Speculation and Cancellation](https://blog.pantsbuild.org/fast-incremental-builds-speculation-cancellation/)
+- [Censorship on Mastodon Instances](https://twitter.com/taoeffect/status/1589289001802141697)
+- [AI Tool for Content Distribution](https://news.ycombinator.com/item?id=33515461)
+- [Elon Musk is bad at this](https://www.theatlantic.com/technology/archive/2022/11/elon-musk-twitter-poor-management-layoffs-advertisers/672029/)
+- [A Proposal for News Organization Mastodon Servers and More](https://newsletter.danhon.com/archive/s13e17-a-proposal-for-news-organization-mastodon/)
+- [Elon Musk Is a Lot Like Henry Ford](https://www.readtpa.com/p/elon-musk-henry-ford)
+- [First Impressions of Bluesky&#39;s at Protocol](https://educatedguesswork.org/posts/atproto-firstlook/)
+- [I spent 10 days in a secret Chinese Covid detention centre](https://www.ft.com/content/77622627-9433-445a-a763-a547b77b58ed)
+- [Structured Procrastination](http://www.structuredprocrastination.com/index.php)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

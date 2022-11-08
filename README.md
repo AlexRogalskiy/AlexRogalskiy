@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Meta reportedly set to cut thousands of jobs this week](https://www.computerworld.com/article/3678772/meta-reportedly-set-to-cut-thousands-of-jobs-this-week.html#tk.rss_all)
+- [For Windows 8, the end is near](https://www.computerworld.com/article/3678853/for-windows-8-the-end-is-near.html#tk.rss_all)
+- [Apple: COVID-19 will hit iPhone supplies](https://www.computerworld.com/article/3679070/apple-covid-19-will-hit-iphone-supplies.html#tk.rss_all)
+- [How to protect your privacy in Windows 10](https://www.computerworld.com/article/3622001/how-to-protect-privacy-windows-10.html#tk.rss_all)
+- [How many jobs are available in technology in the US?](https://www.computerworld.com/article/3542681/how-many-jobs-are-available-in-technology.html#tk.rss_all)
 - [JumpCloud brings Remote Access to cross-platform teams](https://www.computerworld.com/article/3679050/jumpcloud-brings-remote-access-to-cross-platform-teams.html#tk.rss_all)
 - [Are in-office mandates killing productivity?](https://www.computerworld.com/article/3678971/are-in-office-mandates-killing-productivity.html#tk.rss_all)
 - [11 out-of-sight Pixel Watch superpowers](https://www.computerworld.com/article/3678728/pixel-watch-voice-commands.html#tk.rss_all)
 - [Podcast: Apple’s holiday push](https://www.computerworld.com/article/3678770/podcast-apples-holiday-push.html#tk.rss_all)
 - [How the new Matter standard could unleash innovation in IoT](https://www.computerworld.com/article/3678988/how-the-new-matter-standard-could-unleash-innovation-in-iot.html#tk.rss_all)
-- [Can today’s videoconferencing tech evolve into tomorrow’s metaverse?](https://www.computerworld.com/article/3678969/can-todays-videoconferencing-tech-evolve-into-tomorrows-metaverse.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
-- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
-- [Q&amp;A: Expedia CTO details return-to-work program for workers who come back](https://www.computerworld.com/article/3678302/qa-expedia-cto-details-return-to-work-program-for-workers-who-come-back.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

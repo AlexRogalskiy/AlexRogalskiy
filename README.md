@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Twitter lays off 1000 California, primarily San Francisco, employees](https://www.mercurynews.com/2022/11/05/twitter-layoff-job-cut-elon-musk-tech-economy-bay-area-900-state-1000/)
-- [Wells Fargo mortgage staff brace for layoffs as U.S. loan volumes collapse](https://www.cnbc.com/2022/11/02/wells-fargo-mortgage-staff-brace-for-layoffs-as-us-loan-volumes-collapse.html)
-- [The Interactive Fiction Competition](https://ifcomp.org/)
-- [How to rip audio CDs 2022 – with drive accuracy listing](https://pilabor.com/blog/2022/10/audio-cd-ripping-hardware/)
-- [Almost monospaced: the perfect fonts for writing](https://blakewatson.com/journal/almost-monospaced-the-perfect-fonts-for-writing/)
-- [Update on Supply of iPhone 14 Pro and iPhone 14 Pro Max](https://www.apple.com/newsroom/2022/11/update-on-supply-of-iphone-14-pro-and-iphone-14-pro-max/)
-- [Honda electric moped coming, intended to fit “50cc” category](https://www.cycleworld.com/story/motorcycle-news/honda-electric-moped-coming-soon/)
-- [Barilla passive cooker](https://www.barilla.com/en-gb/passive-cooking)
-- [Bloated college administration is making education unaffordable](https://quillette.com/2022/11/02/bloated-college-administration-is-making-education-unaffordable/)
-- [The lonely runner conjecture](https://en.wikipedia.org/wiki/Lonely_runner_conjecture)
+- [Graduate students question career options](https://www.nature.com/articles/d41586-022-03586-8)
+- [LGP-30 found in basement, the same model of drum computer programmed by “Mel”](https://old.reddit.com/r/vintagecomputing/comments/yonoa5/i_found_ancient_computers_in_the_basement_of_my/)
+- [Industrialization of Biotech vs. the Biologization of Industry](https://centuryofbio.substack.com/p/atoms-are-local)
+- [Towns are testing new ballot counting machines that use open source software](https://www.nhpr.org/politics/2022-11-07/three-n-h-towns-are-testing-out-new-ballot-counting-machines-that-use-open-source-software)
+- [So I lost my OpenBSD FDE password &lpar;2016&rpar;](https://words.filippo.io/so-i-lost-my-openbsd-fde-password/)
+- [Esperanto is not my favourite artificial language &lpar;2002&rpar;](http://miresperanto.com/konkurentoj/not_my_favourite.htm)
+- [Overton&#39;s window creates opportunities for the brave](https://underorion.se/en/posts/overtons/)
+- [Ribbon Health &lpar;YC S17&rpar; is hiring engineers to change healthcare](https://www.ribbonhealth.com/blog/is-health-tech-the-next-big-industry-for-senior-software-engineer-opportunities/)
+- [Monumental &lpar;if correct&rpar; advance in number theory posted to ArXiv by Yitang Zhang](https://news.ycombinator.com/item?id=33512338)
+- [LiteDB: A .NET embedded NoSQL database](https://www.litedb.org/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

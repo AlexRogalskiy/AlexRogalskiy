@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Who is robbing Lebanon’s banks? – podcast](https://www.theguardian.com/news/audio/2022/nov/07/who-is-robbing-lebanons-banks-podcast)
-- [Republicans and Democrats make last arguments as midterms loom](https://www.theguardian.com/us-news/2022/nov/06/republicans-democrats-midterm-elections-closing-arguments)
-- [Twitter will ban impersonators, Elon Musk says, as users flock to take his name](https://www.theguardian.com/technology/2022/nov/07/twitter-will-ban-permanently-suspend-impersonator-accounts-elon-musk-says-as-users-take-his-name)
-- [Russia-Ukraine war at a glance: what we know on day 257 of the invasion](https://www.theguardian.com/world/2022/nov/07/russia-ukraine-war-at-a-glance-what-we-know-on-day-257-of-the-invasion)
-- [Facebook’s parent Meta prepares to slash thousands of jobs – reports](https://www.theguardian.com/technology/2022/nov/07/facebook-parent-meta-prepares-large-scale-layoffs-fire-thousands-jobs-reports)
-- [Apple warns iPhone shipments will be delayed due to Covid restrictions at Foxconn plant](https://www.theguardian.com/technology/2022/nov/07/apple-warns-iphone-shipments-will-be-delayed-due-to-covid-restrictions-at-foxconn-plant)
-- [Jeremy Hunt to outline £60bn of tax rises and spending cuts](https://www.theguardian.com/politics/2022/nov/06/jeremy-hunt-set-to-outline-60bn-in-tax-rises-and-spending-cuts)
-- [Super-rich’s carbon investment emissions ‘equivalent to whole of France’](https://www.theguardian.com/environment/2022/nov/07/super-richs-carbon-investment-emissions-equivalent-to-whole-of-france)
-- [More than 138,000 properties in England and Wales owned by offshore companies](https://www.theguardian.com/uk-news/2022/nov/07/more-than-138000-properties-in-england-and-wales-owned-by-offshore-companies)
-- [Residential speed limit of 20mph to save Wales £100m in first year](https://www.theguardian.com/uk-news/2022/nov/07/residential-speed-limit-20mph-wales)
+- [US midterms: is it still the economy, stupid? - podcast](https://www.theguardian.com/news/audio/2022/nov/08/us-midterms-is-it-still-the-economy-stupid-podcast)
+- [Antarctica’s biggest Covid outbreak yet puts US station McMurdo on pause](https://www.theguardian.com/world/2022/nov/08/antarcticas-biggest-covid-outbreak-yet-puts-us-station-mcmurdo-on-pause)
+- [Hong Kong police seize secretary of aid fund for democracy protesters](https://www.theguardian.com/world/2022/nov/08/hong-kong-police-seize-sze-ching-wee-secretary-of-612-humanitarian-relief-fund-2019-protests)
+- [Police investigate ‘excrement in a box’ left at Tory MP’s office in Stroud](https://www.theguardian.com/uk-news/2022/nov/08/police-investigate-excrement-in-a-box-left-at-tory-mps-office-in-stroud)
+- [Developing countries ‘will need $2tn a year in climate funding by 2030’](https://www.theguardian.com/environment/2022/nov/08/developing-countries-climate-crisis-funding-2030-report-nicholas-stern)
+- [Supermarkets must help those in England’s ‘food deserts’, says Which?](https://www.theguardian.com/society/2022/nov/08/supermarkets-must-help-england-food-deserts-cost-living-which)
+- [Scotland to lose two Commons seats in latest Boundary Commission proposals](https://www.theguardian.com/uk-news/2022/nov/08/scotland-to-lose-two-commons-seats-in-latest-boundary-commission-proposals)
+- [Have I got mews for you: Peter Barber, the miracle creator of dazzling streets](https://www.theguardian.com/artanddesign/2022/nov/08/mews-peter-barber-soane-medal-dazzling-streets-housing-architect)
+- [World Cup 2022 team guides part 11: Poland](https://www.theguardian.com/football/2022/nov/08/world-cup-2022-team-guide-poland)
+- [London pupils to be trained to recognise sexist behaviour](https://www.theguardian.com/education/2022/nov/08/london-pupils-to-be-trained-to-recognise-sexist-behaviour)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [US midterms: is it still the economy, stupid? - podcast](https://www.theguardian.com/news/audio/2022/nov/08/us-midterms-is-it-still-the-economy-stupid-podcast)
-- [Antarctica’s biggest Covid outbreak yet puts US station McMurdo on pause](https://www.theguardian.com/world/2022/nov/08/antarcticas-biggest-covid-outbreak-yet-puts-us-station-mcmurdo-on-pause)
-- [Hong Kong police seize secretary of aid fund for democracy protesters](https://www.theguardian.com/world/2022/nov/08/hong-kong-police-seize-sze-ching-wee-secretary-of-612-humanitarian-relief-fund-2019-protests)
-- [Police investigate ‘excrement in a box’ left at Tory MP’s office in Stroud](https://www.theguardian.com/uk-news/2022/nov/08/police-investigate-excrement-in-a-box-left-at-tory-mps-office-in-stroud)
-- [Developing countries ‘will need $2tn a year in climate funding by 2030’](https://www.theguardian.com/environment/2022/nov/08/developing-countries-climate-crisis-funding-2030-report-nicholas-stern)
-- [Supermarkets must help those in England’s ‘food deserts’, says Which?](https://www.theguardian.com/society/2022/nov/08/supermarkets-must-help-england-food-deserts-cost-living-which)
-- [Scotland to lose two Commons seats in latest Boundary Commission proposals](https://www.theguardian.com/uk-news/2022/nov/08/scotland-to-lose-two-commons-seats-in-latest-boundary-commission-proposals)
-- [Have I got mews for you: Peter Barber, the miracle creator of dazzling streets](https://www.theguardian.com/artanddesign/2022/nov/08/mews-peter-barber-soane-medal-dazzling-streets-housing-architect)
-- [World Cup 2022 team guides part 11: Poland](https://www.theguardian.com/football/2022/nov/08/world-cup-2022-team-guide-poland)
-- [London pupils to be trained to recognise sexist behaviour](https://www.theguardian.com/education/2022/nov/08/london-pupils-to-be-trained-to-recognise-sexist-behaviour)
+- [Midterm elections 2022: polls close in most US states as Republicans surge in Florida – live](https://www.theguardian.com/us-news/live/2022/nov/08/midterm-elections-2022-polls-results-senate-house-us-midterm-voting-republicans-democrats-live-updates-latest-news)
+- [What the scandal at Manston asylum centre says about our migration system – podcast](https://www.theguardian.com/news/audio/2022/nov/09/what-scandal-manston-asylum-centre-says-about-migration-system-podcast)
+- [US midterms threaten Democrats’ control of Congress as key polls close](https://www.theguardian.com/us-news/2022/nov/08/2022-midterms-democrats-tightly-fought-races-trump)
+- [Australian Monarchist League calls for boycott of The Crown and Netflix](https://www.theguardian.com/tv-and-radio/2022/nov/09/australian-monarchist-league-calls-for-boycott-of-the-crown-and-netflix)
+- [Twitter to offer ‘official’ label for select verified accounts](https://www.theguardian.com/technology/2022/nov/08/twitter-official-label-verified-accounts-blue)
+- [Donald Trump warns party rival Ron DeSantis not to run for president in 2024](https://www.theguardian.com/us-news/2022/nov/08/donald-trump-ron-desantis-2024-president-campaign)
+- [Russia-Ukraine war at a glance: what we know on day 259 of the invasion](https://www.theguardian.com/world/2022/nov/09/russia-ukraine-war-at-a-glance-what-we-know-on-day-259-of-the-invasion)
+- [Industry season two, double-bill finale recap – superbankers assemble!](https://www.theguardian.com/tv-and-radio/2022/nov/09/industry-season-two-double-bill-finale-recap-superbankers-assemble)
+- [Lively guinea pig and giraffe toys flagged as ‘Christmas bestsellers’](https://www.theguardian.com/business/2022/nov/09/lively-guinea-pig-and-giraffe-toys-flagged-as-christmas-bestsellers)
+- [Climate crisis will have huge impact on Africa’s economies, study says](https://www.theguardian.com/world/2022/nov/09/climate-crisis-huge-impact-africa-economies-study-says)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

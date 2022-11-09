@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Graduate students question career options](https://www.nature.com/articles/d41586-022-03586-8)
-- [LGP-30 found in basement, the same model of drum computer programmed by “Mel”](https://old.reddit.com/r/vintagecomputing/comments/yonoa5/i_found_ancient_computers_in_the_basement_of_my/)
-- [Industrialization of Biotech vs. the Biologization of Industry](https://centuryofbio.substack.com/p/atoms-are-local)
-- [Towns are testing new ballot counting machines that use open source software](https://www.nhpr.org/politics/2022-11-07/three-n-h-towns-are-testing-out-new-ballot-counting-machines-that-use-open-source-software)
-- [So I lost my OpenBSD FDE password &lpar;2016&rpar;](https://words.filippo.io/so-i-lost-my-openbsd-fde-password/)
-- [Esperanto is not my favourite artificial language &lpar;2002&rpar;](http://miresperanto.com/konkurentoj/not_my_favourite.htm)
-- [Overton&#39;s window creates opportunities for the brave](https://underorion.se/en/posts/overtons/)
-- [Ribbon Health &lpar;YC S17&rpar; is hiring engineers to change healthcare](https://www.ribbonhealth.com/blog/is-health-tech-the-next-big-industry-for-senior-software-engineer-opportunities/)
-- [Monumental &lpar;if correct&rpar; advance in number theory posted to ArXiv by Yitang Zhang](https://news.ycombinator.com/item?id=33512338)
-- [LiteDB: A .NET embedded NoSQL database](https://www.litedb.org/)
+- [Tell HN: Duty of Care](https://news.ycombinator.com/item?id=33526922)
+- [Containers are chroot with a marketing budget](https://earthly.dev/blog/chroot/)
+- [I plan to leave tech to pursue art](https://liamhz.com/blog/leaving-tech-to-pursue-art)
+- [Why are glasses so expensive? The industry prefers to keep that blurry &lpar;2019&rpar;](https://www.latimes.com/business/lazarus/la-fi-lazarus-why-are-eyeglasses-so-expensive-20190122-story.html)
+- [In the 1990s a piece of Germany’s air traffic control software ran on Emacs](https://old.reddit.com/r/emacs/comments/lly7po/do_you_use_emacs_lisp_as_a_general_purpose/)
+- [Recreating sci-fi terminals using VHS](https://blog.ldodds.com/2022/11/08/recreating-sci-fi-terminals-using-vhs/)
+- [Compound &lpar;YC S19&rpar; is hiring to build financial products for tech people](https://withcompound.com/company/about)
+- [It&#39;s not Ruby that&#39;s slow, it&#39;s your database](https://berk.es/2022/08/09/ruby-slow-database-slow/)
+- [Leaderless Teams](https://www.brettmacfarlane.com/blog/2022/leadersless-teams)
+- [Unix as a tool forge and how Emacs fits in Unix philosophy](https://lambdaland.org/posts/2022-11-07_unix_philosophy/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

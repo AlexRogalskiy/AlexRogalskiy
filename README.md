@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Texinfo 7.0 released: LaTeX, ePub 3 added as output formats](https://lists.gnu.org/archive/html/info-gnu/2022-11/msg00002.html)
-- [Fast Incremental Builds with Speculation and Cancellation](https://blog.pantsbuild.org/fast-incremental-builds-speculation-cancellation/)
-- [Censorship on Mastodon Instances](https://twitter.com/taoeffect/status/1589289001802141697)
-- [AI Tool for Content Distribution](https://news.ycombinator.com/item?id=33515461)
-- [Elon Musk is bad at this](https://www.theatlantic.com/technology/archive/2022/11/elon-musk-twitter-poor-management-layoffs-advertisers/672029/)
-- [A Proposal for News Organization Mastodon Servers and More](https://newsletter.danhon.com/archive/s13e17-a-proposal-for-news-organization-mastodon/)
-- [Elon Musk Is a Lot Like Henry Ford](https://www.readtpa.com/p/elon-musk-henry-ford)
-- [First Impressions of Bluesky&#39;s at Protocol](https://educatedguesswork.org/posts/atproto-firstlook/)
-- [I spent 10 days in a secret Chinese Covid detention centre](https://www.ft.com/content/77622627-9433-445a-a763-a547b77b58ed)
-- [Structured Procrastination](http://www.structuredprocrastination.com/index.php)
+- [Why I Hope to Die at 75 &lpar;2014&rpar;](https://www.theatlantic.com/magazine/archive/2014/10/why-i-hope-to-die-at-75/379329/)
+- [I-Sim2Real: Reinforcement Learning in human-robot interaction loops](https://sites.google.com/view/is2r)
+- [Apple Is Tracking You Even When Its Own Privacy Settings Say Not, Research Says](https://gizmodo.com/apple-iphone-analytics-tracking-even-when-off-app-store-1849757558)
+- [Aphex Twin Spurned the 90s Dance Mainstream &lpar;“Windowlicker”&rpar;](https://www.youtube.com/watch?v=SOUvcVc14L4)
+- [First Aussies to get needle-free Covid-19 vaccine patch](https://www.afr.com/companies/healthcare-and-fitness/first-aussies-to-get-needle-free-covid-19-vaccine-patch-20221107-p5bw5n)
+- [YC Startup School – How to get and evaluate startup ideas](https://www.youtube.com/watch?v=Th8JoIan4dg)
+- [Sequoia: Sam Bankman-Fried Has a Savior Complex–and Maybe You Should Too](https://www.sequoiacap.com/article/sam-bankman-fried-spotlight/)
+- [Sriram Krishnan: The Indian-American &#39;Helping&#39; Elon Musk Run Twitter](https://www.bbc.com/news/world-asia-india-63481873)
+- [Eoapi is an open source API tool with a plugin system](https://github.com/eolinker/eoapi)
+- [TikTok’s Greatest Asset Isn’t Its Algorithm–It’s Your Phone](https://www.wired.com/story/tiktok-phones-extended-mind-philosophy/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -355,6 +355,8 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Cloud, services to fuel 3.7% jump in EMEA IT spending in 2023: Gartner](https://www.computerworld.com/article/3679492/cloud-services-to-fuel-37-jump-in-emea-it-spending-in-2023-gartner.html#tk.rss_all)
+- [iOS Mail alternatives: 5 business-friendly options](https://www.computerworld.com/article/3678729/ios-mail-alternatives-for-business.html#tk.rss_all)
 - [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
 - [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
 - [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
@@ -363,8 +365,6 @@
 - [LambdaTest adds macOS Ventura testing to its cloud](https://www.computerworld.com/article/3679432/lambdatest-adds-macos-ventura-testing-to-its-cloud.html#tk.rss_all)
 - [Should you let workers know the salaries you pay?](https://www.computerworld.com/article/3678973/should-you-let-workers-know-the-salaries-you-pay.html#tk.rss_all)
 - [How to create a complete Microsoft experience on Android](https://www.computerworld.com/article/3262705/how-to-create-a-complete-microsoft-experience-on-android.html#tk.rss_all)
-- [Meta reportedly set to cut thousands of jobs this week](https://www.computerworld.com/article/3678772/meta-reportedly-set-to-cut-thousands-of-jobs-this-week.html#tk.rss_all)
-- [For Windows 8, the end is near](https://www.computerworld.com/article/3678853/for-windows-8-the-end-is-near.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

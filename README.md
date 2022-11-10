@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Why I Hope to Die at 75 &lpar;2014&rpar;](https://www.theatlantic.com/magazine/archive/2014/10/why-i-hope-to-die-at-75/379329/)
-- [I-Sim2Real: Reinforcement Learning in human-robot interaction loops](https://sites.google.com/view/is2r)
-- [Apple Is Tracking You Even When Its Own Privacy Settings Say Not, Research Says](https://gizmodo.com/apple-iphone-analytics-tracking-even-when-off-app-store-1849757558)
-- [Aphex Twin Spurned the 90s Dance Mainstream &lpar;“Windowlicker”&rpar;](https://www.youtube.com/watch?v=SOUvcVc14L4)
-- [First Aussies to get needle-free Covid-19 vaccine patch](https://www.afr.com/companies/healthcare-and-fitness/first-aussies-to-get-needle-free-covid-19-vaccine-patch-20221107-p5bw5n)
-- [YC Startup School – How to get and evaluate startup ideas](https://www.youtube.com/watch?v=Th8JoIan4dg)
-- [Sequoia: Sam Bankman-Fried Has a Savior Complex–and Maybe You Should Too](https://www.sequoiacap.com/article/sam-bankman-fried-spotlight/)
-- [Sriram Krishnan: The Indian-American &#39;Helping&#39; Elon Musk Run Twitter](https://www.bbc.com/news/world-asia-india-63481873)
-- [Eoapi is an open source API tool with a plugin system](https://github.com/eolinker/eoapi)
-- [TikTok’s Greatest Asset Isn’t Its Algorithm–It’s Your Phone](https://www.wired.com/story/tiktok-phones-extended-mind-philosophy/)
+- [AppHarbor Is Shutting Down](https://blog.appharbor.com/2022/11/09/shutting-down-appharbor)
+- [Mozilla security policy: concerns about Trustcor](https://groups.google.com/a/mozilla.org/g/dev-security-policy/c/oxX69KFvsm4/m/etbBho-VBQAJ)
+- [GraphQL Kotlin Apollo Server](https://romankudryashov.com/blog/2020/02/how-to-graphql/)
+- [Delegating trust is really, really, really hard &lpar;infosec edition&rpar;](https://pluralistic.net/2022/11/09/infosec-blackpill/#on-trusting-trust)
+- [China’s zero-Covid policy under growing strain as cases spread across country](https://www.scmp.com/news/china/politics/article/3199021/chinas-zero-covid-policy-under-growing-strain-cases-continue-spread-across-country)
+- [After Natural Disasters, Electric Vehicles Come to the Rescue](https://www.bloomberg.com/news/features/2022-11-07/how-electric-cars-can-provide-backup-power-in-emergencies)
+- [GitHub Octoverse 2022: The state of open source software](https://octoverse.github.com/)
+- [Elon Musk Rejected FTX CEO’s $15B Offer for Twitter](https://watcher.guru/news/elon-musk-rejected-ftx-ceos-15b-offer-for-twitter)
+- [Mario flipped off Twitter for nearly two hours with Musk’s ‘verification’](https://www.theverge.com/2022/11/9/23450289/twitter-impersonators-official-mario-musk-jesus-valve)
+- [Mythic bet big on analog AI but has run out of cash](https://www.theregister.com/2022/11/09/mythic_analog_ai_chips/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

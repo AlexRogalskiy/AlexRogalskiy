@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Tell HN: Duty of Care](https://news.ycombinator.com/item?id=33526922)
-- [Containers are chroot with a marketing budget](https://earthly.dev/blog/chroot/)
-- [I plan to leave tech to pursue art](https://liamhz.com/blog/leaving-tech-to-pursue-art)
-- [Why are glasses so expensive? The industry prefers to keep that blurry &lpar;2019&rpar;](https://www.latimes.com/business/lazarus/la-fi-lazarus-why-are-eyeglasses-so-expensive-20190122-story.html)
-- [In the 1990s a piece of Germany’s air traffic control software ran on Emacs](https://old.reddit.com/r/emacs/comments/lly7po/do_you_use_emacs_lisp_as_a_general_purpose/)
-- [Recreating sci-fi terminals using VHS](https://blog.ldodds.com/2022/11/08/recreating-sci-fi-terminals-using-vhs/)
-- [Compound &lpar;YC S19&rpar; is hiring to build financial products for tech people](https://withcompound.com/company/about)
-- [It&#39;s not Ruby that&#39;s slow, it&#39;s your database](https://berk.es/2022/08/09/ruby-slow-database-slow/)
-- [Leaderless Teams](https://www.brettmacfarlane.com/blog/2022/leadersless-teams)
-- [Unix as a tool forge and how Emacs fits in Unix philosophy](https://lambdaland.org/posts/2022-11-07_unix_philosophy/)
+- [Sequoia has marked its investment in FTX down to $0](https://twitter.com/sequoia/status/1590522718650499073)
+- [GitHub stars won&#39;t pay your rent &lpar;2020&rpar;](https://kitze.io/posts/github-stars-wont-pay-your-rent)
+- [I strive to be a 0.1x Engineer &lpar;2016&rpar;](https://benjiweber.co.uk/blog/2016/01/25/why-i-strive-to-be-a-0-1x-engineer/)
+- [Kurt Vonnegut at 100](https://thecritic.co.uk/issues/november-2022/remembering-an-effervescently-affable-man/)
+- [Warren Calls Out Wells Fargo and Zelle for “Evasive” Responses about Fraud](https://www.warren.senate.gov/oversight/letters/warren-calls-out-wells-fargo-and-zelle-for-evasive-inaccurate-and-misleading-responses-about-fraud-and-scams-on-zelle-calls-for-companies-to-publicly-release-all-data-on-zelle-fraud-and-scams)
+- [Thoughts on Arc Browser](https://chrishannah.me/arc-browser/)
+- [Stretch iPhone to its limit: 2GiB Stable Diffusion model runs locally on device](https://liuliu.me/eyes/stretch-iphone-to-its-limit-a-2gib-model-that-can-draw-everything-in-your-pocket/)
+- [iOS 16.1.1 includes fixes for two libxml vulnerabilities](https://support.apple.com/en-us/HT213505)
+- [Zuckerberg&#39;s leaked email on VR strategy &lpar;2015&rpar;](https://www.scribd.com/document/399594551/2015-06-22-MARK-S-VISION)
+- [Fossil species found living off southern California; notes on the genus Cymatioa](https://zookeys.pensoft.net/article/95139/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

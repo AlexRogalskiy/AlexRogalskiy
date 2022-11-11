@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [US midterm elections 2022: Biden hails Democratic victories even as Congress control remains in limbo – live](https://www.theguardian.com/us-news/live/2022/nov/09/midterm-elections-2022-results-senate-house-us-democrats-republicans-live-updates-latest-news)
-- [Iran’s protest generation on why they won’t be silenced | podcast](https://www.theguardian.com/news/audio/2022/nov/10/irans-protest-generation-on-why-they-wont-be-silenced-podcast)
-- [Biden says Elon Musk’s connections to other countries &#39;worthy of being looked at&#39;](https://www.theguardian.com/technology/2022/nov/10/biden-says-elon-musks-connections-to-other-countries-worthy-of-being-looked-at)
-- [Israel’s president says ‘world is worried’ about far-right partner in Netanyahu coalition](https://www.theguardian.com/world/2022/nov/10/israel-president-isaac-herzog-benjamin-netanyahu-coalition-itamar-ben-gvir)
-- [Heckler gets life ban from Royal Opera House for shouting ‘rubbish’ at child actor](https://www.theguardian.com/music/2022/nov/10/heckler-gets-life-ban-from-royal-opera-house-for-shouting-rubbish-at-child-actor)
-- [Jürgen Klopp ‘committed’ to Liverpool no matter the owner but plays down sale](https://www.theguardian.com/football/2022/nov/10/jurgen-klopp-committed-to-liverpool-no-matter-who-owns-club)
-- [Sunak warned UK public services will need £43bn a year to ‘stand still’](https://www.theguardian.com/business/2022/nov/10/sunak-warned-uk-public-services-will-need-43bn-a-year-to-stand-still)
-- [UK house prices stall as mortgage rate rise fuels caution](https://www.theguardian.com/money/2022/nov/10/uk-house-prices-stall-as-mortgage-rate-rise-fuels-caution)
-- [Victorian pumping station among 175 heritage sites deemed at risk in England](https://www.theguardian.com/culture/2022/nov/10/victorian-pumping-station-among-175-heritage-sites-deemed-at-risk-in-england)
-- [John Lewis’ Christmas ad goes back to basics with foster dad’s story](https://www.theguardian.com/business/2022/nov/10/john-lewis-christmas-ad-goes-back-to-basics-with-foster-dads-story)
+- [US midterm elections 2022: Trump backlash grows as top Virginia Republican says ‘I could not support him’ – live](https://www.theguardian.com/us-news/live/2022/nov/10/midterm-elections-2022-results-senate-house-us-democrats-republicans-live-updates-latest-news)
+- [Cop27: the future is solar, but it won’t be simple – podcast](https://www.theguardian.com/news/audio/2022/nov/11/cop27-the-future-is-solar-but-it-wont-be-simple-podcast)
+- [Russia-Ukraine war at a glance: what we know on day 261 of the invasion](https://www.theguardian.com/world/2022/nov/11/russia-ukraine-war-at-a-glance-what-we-know-on-day-261-of-the-invasion)
+- [Exodus continues at Twitter as Elon Musk hints at possible bankruptcy](https://www.theguardian.com/technology/2022/nov/10/exodus-twitter-elon-musk-possible-bankruptcy)
+- [Biden to meet Xi Jinping at G20 in first face-to-face talks as president](https://www.theguardian.com/us-news/2022/nov/10/biden-xi-jinping-meeting-china-g20-summit-taiwan)
+- [Prospect of shared T20 World Cup title looms with rain set to hit final in Melbourne](https://www.theguardian.com/sport/2022/nov/11/prospect-of-shared-t20-world-cup-title-looms-with-rain-set-to-hit-final)
+- [‘I fell in love’: Matt Hancock admits he ‘messed up’ on I’m a Celebrity](https://www.theguardian.com/politics/2022/nov/10/i-fell-in-love-matt-hancock-admits-he-messed-up-on-im-a-celebrity)
+- [World Cup 2022 team guides part 17: Costa Rica](https://www.theguardian.com/football/2022/nov/11/world-cup-2022-team-guide-costa-rica)
+- [I’m struggling to maintain friendships with people who have kids. How do I connect?](https://www.theguardian.com/lifeandstyle/2022/nov/11/im-struggling-to-maintain-friendships-with-people-who-have-kids-how-do-i-connect)
+- [Australian researchers trial temporary sperm blocker in ‘gamechanger’ for men’s contraception](https://www.theguardian.com/australia-news/2022/nov/11/male-contraception-australia-trial-sperm-blocker-contraceptive-gel-temporary-vasectomy-alternative)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

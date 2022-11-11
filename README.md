@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [Apple to spend $450M on SOS via satellite for iPhones](https://www.computerworld.com/article/3679690/apple-to-spend-450m-on-sos-via-satellite-for-iphones.html#tk.rss_all)
+- [In the shadow of the Twitter disaster: How to prep for layoffs](https://www.computerworld.com/article/3679692/in-the-shadow-of-the-twitter-disaster-how-to-prep-for-layoffs.html#tk.rss_all)
+- [Corporate execs confident on sustainability goals, admit more work needed](https://www.computerworld.com/article/3679508/corporate-execs-confident-on-sustainability-goals-admit-more-work-needed.html#tk.rss_all)
+- [5 advanced add-ons for the Gmail Android app](https://www.computerworld.com/article/3678773/gmail-android-app-add-ons.html#tk.rss_all)
 - [Cloud, services to fuel 3.7% jump in EMEA IT spending in 2023: Gartner](https://www.computerworld.com/article/3679492/cloud-services-to-fuel-37-jump-in-emea-it-spending-in-2023-gartner.html#tk.rss_all)
 - [iOS Mail alternatives: 5 business-friendly options](https://www.computerworld.com/article/3678729/ios-mail-alternatives-for-business.html#tk.rss_all)
 - [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
 - [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
 - [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [Zoom focuses on email and contact center integrations at Zoomtopia 2022](https://www.computerworld.com/article/3679392/zoom-focuses-on-email-and-contact-center-integrations-at-zoomtopia-2022.html#tk.rss_all)
-- [LambdaTest adds macOS Ventura testing to its cloud](https://www.computerworld.com/article/3679432/lambdatest-adds-macos-ventura-testing-to-its-cloud.html#tk.rss_all)
-- [Should you let workers know the salaries you pay?](https://www.computerworld.com/article/3678973/should-you-let-workers-know-the-salaries-you-pay.html#tk.rss_all)
-- [How to create a complete Microsoft experience on Android](https://www.computerworld.com/article/3262705/how-to-create-a-complete-microsoft-experience-on-android.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

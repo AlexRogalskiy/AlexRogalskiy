@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [AppHarbor Is Shutting Down](https://blog.appharbor.com/2022/11/09/shutting-down-appharbor)
-- [Mozilla security policy: concerns about Trustcor](https://groups.google.com/a/mozilla.org/g/dev-security-policy/c/oxX69KFvsm4/m/etbBho-VBQAJ)
-- [GraphQL Kotlin Apollo Server](https://romankudryashov.com/blog/2020/02/how-to-graphql/)
-- [Delegating trust is really, really, really hard &lpar;infosec edition&rpar;](https://pluralistic.net/2022/11/09/infosec-blackpill/#on-trusting-trust)
-- [China’s zero-Covid policy under growing strain as cases spread across country](https://www.scmp.com/news/china/politics/article/3199021/chinas-zero-covid-policy-under-growing-strain-cases-continue-spread-across-country)
-- [After Natural Disasters, Electric Vehicles Come to the Rescue](https://www.bloomberg.com/news/features/2022-11-07/how-electric-cars-can-provide-backup-power-in-emergencies)
-- [GitHub Octoverse 2022: The state of open source software](https://octoverse.github.com/)
-- [Elon Musk Rejected FTX CEO’s $15B Offer for Twitter](https://watcher.guru/news/elon-musk-rejected-ftx-ceos-15b-offer-for-twitter)
-- [Mario flipped off Twitter for nearly two hours with Musk’s ‘verification’](https://www.theverge.com/2022/11/9/23450289/twitter-impersonators-official-mario-musk-jesus-valve)
-- [Mythic bet big on analog AI but has run out of cash](https://www.theregister.com/2022/11/09/mythic_analog_ai_chips/)
+- [Google refunding 3 years of Stadia purchases starting this week](https://arstechnica.com/gadgets/2022/11/google-refunding-three-years-of-stadia-purchases-starting-this-week/)
+- [The Making of &lpar;Raspberry&rpar; Pi](https://web.archive.org/web/20160505025610/https://www.raspberrypi.org/about/)
+- [Too much efficiency makes everything worse](https://sohl-dickstein.github.io/2022/11/06/strong-Goodhart.html)
+- [Google Play Store Changes Could Make Your App Subscriptions Cheaper](https://www.cnet.com/tech/services-and-software/google-play-store-changes-could-make-your-app-subscriptions-cheaper/)
+- [HCL is the fastest growing language according to the GitHub Octoverse 2022](https://octoverse.github.com/2022/top-programming-languages)
+- [Hammer needs nails: browser with unlimited power](https://github.com/torappinfo)
+- [Police Use DNA Phenotyping to Limit Pool of Suspects to 15,000](https://www.vice.com/en/article/y3pkgj/police-use-dna-phenotyping-to-limit-pool-of-suspects-to-15000)
+- [Federal court strikes down Biden&#39;s student loan forgiveness program](https://www.cnn.com/2022/11/10/politics/biden-student-loan-forgiveness-struck-down/index.html)
+- [BlockFi paused withdrawals. WTF is happening with crypto?](https://news.ycombinator.com/item?id=33556795)
+- [Book Review: Rhythms of the Brain](https://astralcodexten.substack.com/p/book-review-rhythms-of-the-brain)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

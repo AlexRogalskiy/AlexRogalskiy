@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Google refunding 3 years of Stadia purchases starting this week](https://arstechnica.com/gadgets/2022/11/google-refunding-three-years-of-stadia-purchases-starting-this-week/)
-- [The Making of &lpar;Raspberry&rpar; Pi](https://web.archive.org/web/20160505025610/https://www.raspberrypi.org/about/)
-- [Too much efficiency makes everything worse](https://sohl-dickstein.github.io/2022/11/06/strong-Goodhart.html)
-- [Google Play Store Changes Could Make Your App Subscriptions Cheaper](https://www.cnet.com/tech/services-and-software/google-play-store-changes-could-make-your-app-subscriptions-cheaper/)
-- [HCL is the fastest growing language according to the GitHub Octoverse 2022](https://octoverse.github.com/2022/top-programming-languages)
-- [Hammer needs nails: browser with unlimited power](https://github.com/torappinfo)
-- [Police Use DNA Phenotyping to Limit Pool of Suspects to 15,000](https://www.vice.com/en/article/y3pkgj/police-use-dna-phenotyping-to-limit-pool-of-suspects-to-15000)
-- [Federal court strikes down Biden&#39;s student loan forgiveness program](https://www.cnn.com/2022/11/10/politics/biden-student-loan-forgiveness-struck-down/index.html)
-- [BlockFi paused withdrawals. WTF is happening with crypto?](https://news.ycombinator.com/item?id=33556795)
-- [Book Review: Rhythms of the Brain](https://astralcodexten.substack.com/p/book-review-rhythms-of-the-brain)
+- [Ask HN: Tool to find identical file subtrees scattered over disks](https://news.ycombinator.com/item?id=33569566)
+- [Silence, Solitude, and the Philosophy of Pipe Smoking [video]](https://www.youtube.com/watch?v=Mp7-A-6jrcg)
+- [Jacques Rossi – Siberian Survivor](https://www.bbc.co.uk/worldservice/people/highlights/001027_siberia.shtml)
+- [AWS multi region VPC peering setup with Terraform](https://elbazi.me/aws-multi-region-vpc-peering-using-terraform-a0b8aabf084b)
+- [Free fall in shares of Amazon reveals US’ structural problems](https://www.globaltimes.cn/page/202211/1279271.shtml)
+- [Ask HN: What kind of programming jobs involve some travelling?](https://news.ycombinator.com/item?id=33569479)
+- [Nvidia Proposing New Linux API for Dynamic Mux Switching with Dual-GPU Laptops](https://www.phoronix.com/news/NVIDIA-Dynamic-Mux-Switching)
+- [Teams Conduct Check-Outs, Preparations Ahead of Next Artemis I Launch Attempt](https://blogs.nasa.gov/artemis/2022/11/11/teams-conduct-check-outs-preparations-ahead-of-next-artemis-i-launch-attempt/)
+- [Vanilla Rails Is Plenty](https://dev.37signals.com/vanilla-rails-is-plenty)
+- [Sophistry and the Savior](https://www.moneyandstate.com/blog/sophistry-and-the-savior)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

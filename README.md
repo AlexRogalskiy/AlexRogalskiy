@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Book Review: Rhythms of the Brain](https://astralcodexten.substack.com/p/book-review-rhythms-of-the-brain)
-- [Map of the Internet](https://ipv4.dev.sarl/)
-- [Zendo: The Game of Inductive Logic](https://www.looneylabs.com/games/zendo)
-- [Show HN: GitHub Org Audit Tool](https://github.com/EISMGard/github-audit-tool)
-- [A Cypherpunk’s Manifesto &lpar;1993&rpar;](https://what.cd/)
-- [I make $8k/year sending cheap flight alert emails](https://phillyflightlist.com/cheap-flight-newsletter-makes-money/)
-- [CRISPR cancer trial success paves the way for personalized treatments](https://www.nature.com/articles/d41586-022-03676-7)
-- [&amp;lt;i&amp;gt;: The Idiomatic Text element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/i)
-- [NSA guidance on how to protect against software memory safety issues [pdf]](https://media.defense.gov/2022/Nov/10/2003112742/-1/-1/0/CSI_SOFTWARE_MEMORY_SAFETY.PDF)
-- [Block web scanners with ipset and iptables](https://nbailey.ca/post/block-scanners/)
+- [Well Known Short Seller Claims SBF Is a Fraud Weeks Ago](https://www.youtube.com/watch?v=VbDiWXFxqr8)
+- [Tunneling Internet through WhatsApp to get around network data usage limits](https://github.com/aleixrodriala/wa-tunnel)
+- [The Next Hot Job: Pretending to Be a Robot](https://www.wsj.com/articles/the-next-hot-job-pretending-to-be-a-robot-11567224001)
+- [Notmuch – Just an email system](https://notmuchmail.org/)
+- [.bestbuy](http://nic.bestbuy/)
+- [Type-Signature.com](https://type-signature.com/)
+- [Bubbles](https://oimo.io/works/bubbles/)
+- [Each visit to the page deteriorates the main image](https://crowd-jpeg.vercel.app/)
+- [Chaos Bernie: Delete Azure resources by playing Doom](https://github.com/secureworks/chaosbernie)
+- [An unconfirmed tweet about Freeport LNG is upending gas markets](https://www.bloomberg.com/news/articles/2022-11-11/an-unconfirmed-tweet-about-freeport-lng-is-upending-gas-markets)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

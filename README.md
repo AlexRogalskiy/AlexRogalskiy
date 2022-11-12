@@ -355,6 +355,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Patch Tuesday includes 6 Windows zero-day flaws; patch now!](https://www.computerworld.com/article/3679631/patch-tuesday-includes-6-windows-zero-day-flaws-patch-now.html#tk.rss_all)
+- [Jamf Q3 data confirms rapid Mac adoption across the enterprise](https://www.computerworld.com/article/3679730/jamf-q3-data-confirms-rapid-mac-adoption-across-the-enterprise.html#tk.rss_all)
+- [It&#39;s time to talk about productivity again](https://www.computerworld.com/article/3679434/its-time-to-talk-about-productivity-again.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [Apple to spend $450M on SOS via satellite for iPhones](https://www.computerworld.com/article/3679690/apple-to-spend-450m-on-sos-via-satellite-for-iphones.html#tk.rss_all)
 - [In the shadow of the Twitter disaster: How to prep for layoffs](https://www.computerworld.com/article/3679692/in-the-shadow-of-the-twitter-disaster-how-to-prep-for-layoffs.html#tk.rss_all)
@@ -362,9 +365,6 @@
 - [5 advanced add-ons for the Gmail Android app](https://www.computerworld.com/article/3678773/gmail-android-app-add-ons.html#tk.rss_all)
 - [Cloud, services to fuel 3.7% jump in EMEA IT spending in 2023: Gartner](https://www.computerworld.com/article/3679492/cloud-services-to-fuel-37-jump-in-emea-it-spending-in-2023-gartner.html#tk.rss_all)
 - [iOS Mail alternatives: 5 business-friendly options](https://www.computerworld.com/article/3678729/ios-mail-alternatives-for-business.html#tk.rss_all)
-- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
-- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
-- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

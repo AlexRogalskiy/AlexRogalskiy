@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ask HN: Tool to find identical file subtrees scattered over disks](https://news.ycombinator.com/item?id=33569566)
-- [Silence, Solitude, and the Philosophy of Pipe Smoking [video]](https://www.youtube.com/watch?v=Mp7-A-6jrcg)
-- [Jacques Rossi – Siberian Survivor](https://www.bbc.co.uk/worldservice/people/highlights/001027_siberia.shtml)
-- [AWS multi region VPC peering setup with Terraform](https://elbazi.me/aws-multi-region-vpc-peering-using-terraform-a0b8aabf084b)
-- [Free fall in shares of Amazon reveals US’ structural problems](https://www.globaltimes.cn/page/202211/1279271.shtml)
-- [Ask HN: What kind of programming jobs involve some travelling?](https://news.ycombinator.com/item?id=33569479)
-- [Nvidia Proposing New Linux API for Dynamic Mux Switching with Dual-GPU Laptops](https://www.phoronix.com/news/NVIDIA-Dynamic-Mux-Switching)
-- [Teams Conduct Check-Outs, Preparations Ahead of Next Artemis I Launch Attempt](https://blogs.nasa.gov/artemis/2022/11/11/teams-conduct-check-outs-preparations-ahead-of-next-artemis-i-launch-attempt/)
-- [Vanilla Rails Is Plenty](https://dev.37signals.com/vanilla-rails-is-plenty)
-- [Sophistry and the Savior](https://www.moneyandstate.com/blog/sophistry-and-the-savior)
+- [Capture the flag using OSINT techniques&lpar;2019&rpar;](https://www.netwatchglobal.com/solutions/capture-the-flag-using-osint-techniques/)
+- [Iranian who made Paris airport home for 18 years dies](https://www.bbc.com/news/world-europe-63612017)
+- [The Bike Thieves of Burlington, Vermont](https://www.nytimes.com/2022/11/12/business/burlington-police-stolen-bikes.html)
+- [Therahos Elizabeth Holmes asks for a lenient 18-month sentence at home](https://www.sfgate.com/business/article/Elizabeth-Holmes-asks-for-a-lenient-18-month-17577190.php)
+- [New two-factor authenticator: your Commodore 64](http://oldvcr.blogspot.com/2022/11/meet-your-new-two-factor-authenticator.html)
+- [Simple note-taking app with a Markdown editor, built with Flutter and Firebase](https://github.com/Dev-Salem/notat)
+- [Ask HN: AWS Global Accelerator to/from ISPs Outage?](https://news.ycombinator.com/item?id=33579517)
+- [It Got So Much Worse](https://www.youtube.com/watch?v=MWfuDeO9thk)
+- [Ask HN: How to Moneytize TUI Tools?](https://news.ycombinator.com/item?id=33579450)
+- [A drug cartel godfather bid millions to buy a fleet of military aircraft](https://www.icij.org/inside-icij/2022/11/a-drug-cartel-godfather-bid-millions-to-buy-a-fleet-of-obsolete-egyptian-military-aircraft/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

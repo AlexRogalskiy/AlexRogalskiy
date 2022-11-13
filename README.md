@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Well Known Short Seller Claims SBF Is a Fraud Weeks Ago](https://www.youtube.com/watch?v=VbDiWXFxqr8)
-- [Tunneling Internet through WhatsApp to get around network data usage limits](https://github.com/aleixrodriala/wa-tunnel)
-- [The Next Hot Job: Pretending to Be a Robot](https://www.wsj.com/articles/the-next-hot-job-pretending-to-be-a-robot-11567224001)
-- [Notmuch – Just an email system](https://notmuchmail.org/)
-- [.bestbuy](http://nic.bestbuy/)
-- [Type-Signature.com](https://type-signature.com/)
-- [Bubbles](https://oimo.io/works/bubbles/)
-- [Each visit to the page deteriorates the main image](https://crowd-jpeg.vercel.app/)
-- [Chaos Bernie: Delete Azure resources by playing Doom](https://github.com/secureworks/chaosbernie)
-- [An unconfirmed tweet about Freeport LNG is upending gas markets](https://www.bloomberg.com/news/articles/2022-11-11/an-unconfirmed-tweet-about-freeport-lng-is-upending-gas-markets)
+- [Crypto.com “accidentally” sent $400M worth of ETH to a wrong address](https://twitter.com/mikeburgersburg/status/1591611423159111680)
+- [From Plex to Jellyfin Media Server](https://www.ctrl.blog/entry/jellyfin-vs-plex.html)
+- [VNA6000 6GHz Portable Vector Network Analyzer](https://www.tindie.com/products/hcxqsgroup/nanorfe-vna6000/)
+- [Information for foreign citizens in Longyearbyen [pdf]](https://www.sysselmesteren.no/contentassets/56050909aa744d6a8219111ff62988f6/engelsk--informasjon-til-utenlandske-statsborgere-engelsk.pdf)
+- [FTX’s SBF had a secret &#39;back door&#39; to transfer billions off the books](https://www.cnbc.com/2022/11/12/1-billion-to-2-billion-of-ftx-customer-funds-missing-report.html)
+- [Programming Games for Atari 2600](https://forums.atariage.com/topic/339819-upcoming-book-on-atari-2600-programming-now-available/)
+- [Achieving 100Gbps intrusion prevention on a single server](https://blog.acolyer.org/2020/11/16/pigasus/)
+- [Hard Reset](https://sarahguo.com/blog/hardreset)
+- [Digital Astronomy with Cellular Automata](https://kylehovey.github.io/blog/automata-nebula)
+- [It’s getting harder to do a randomized trial for some drugs](https://www.statnews.com/2022/11/03/why-were-not-prepared-for-next-wave-of-biotech-innovation/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

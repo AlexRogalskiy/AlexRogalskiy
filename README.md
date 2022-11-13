@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Batman voice actor Kevin Conroy dies aged 66](https://www.theguardian.com/us-news/2022/nov/12/batman-voice-actor-kevin-conroy-dies-aged-66)
-- [Russia-Ukraine war at a glance: what we know on day 262 of the invasion](https://www.theguardian.com/world/2022/nov/12/russia-ukraine-war-at-a-glance-what-we-know-on-day-262-of-the-invasion)
-- [England fans ‘must not worry’ about Harry Kane’s fitness, insists Conte](https://www.theguardian.com/football/2022/nov/12/harry-kane-world-cup-fitness-england-tottenham-antonio-conte)
-- [Matt Hancock asks for ‘a bit of forgiveness’ for breaking Covid rules](https://www.theguardian.com/tv-and-radio/2022/nov/11/hancock-asks-for-a-bit-of-forgiveness-for-breaking-rules-while-health-secretary)
-- [Angela Rayner’s former aide ‘given significant payout’ after media leaks](https://www.theguardian.com/politics/2022/nov/11/labour-angela-rayner-jack-mckenn-former-aide-payout-after-leaks)
-- [Australia into Rugby League World Cup final after epic battle with New Zealand](https://www.theguardian.com/sport/2022/nov/11/australia-new-zealand-rugby-league-world-cup-semi-final-match-report)
-- [Sanitation firm accused of employing 31 children at animal slaughter facilities](https://www.theguardian.com/us-news/2022/nov/11/nebraska-packers-sanitation-child-labor-animal-slaughter)
-- [Jess Park scores on England debut to cap impressive friendly win over Japan](https://www.theguardian.com/football/2022/nov/11/park-caps-dream-debut-with-goal-for-england-women-in-win-over-japan)
-- [Haas’s Kevin Magnussen takes sprint pole in Brazilian F1 GP shock](https://www.theguardian.com/sport/2022/nov/11/unconfined-joy-for-magnussen-as-he-delivers-first-ever-pole-position-for-haas)
-- [World Cup hero? Even triumph for Messi will not save this compromised spectacle | Barney Ronay](https://www.theguardian.com/football/blog/2022/nov/11/lionel-messi-argentina-world-cup-qatar)
+- [Democrats retain control of Senate after crucial victory in Nevada](https://www.theguardian.com/us-news/2022/nov/13/democrats-win-senate-control-midterm-elections-2022)
+- [Ethiopian rivals agree on humanitarian access for war-ravaged Tigray](https://www.theguardian.com/world/2022/nov/13/ethiopian-rivals-agree-on-humanitarian-access-for-war-ravaged-tigray)
+- [World Cup 2022 team guides part 21: Belgium](https://www.theguardian.com/football/2022/nov/13/world-cup-2022-belgium-team-guide)
+- [Solid stripes: the best Breton jumpers and how to style them](https://www.theguardian.com/fashion/2022/nov/12/solid-stripes-the-best-breton-jumpers-and-how-to-style-them)
+- [We Love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2022/nov/12/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Brand new bags: 10 of the best top-handle bags – in pictures](https://www.theguardian.com/fashion/gallery/2022/nov/12/brand-new-bags-10-of-the-best-top-handle-bags-in-pictures)
+- [‘Come together as one’: Black Ferns’ World Cup triumph unites nation](https://www.theguardian.com/sport/2022/nov/13/come-together-as-one-black-ferns-world-cup-triumph-unites-nation)
+- [UK health secretary says nurses’ pay demands not ‘reasonable or affordable’](https://www.theguardian.com/society/2022/nov/12/uk-health-secretary-says-nurses-pay-demands-not-reasonable-or-affordable)
+- [Six feared dead after military planes collide at Dallas airshow](https://www.theguardian.com/us-news/2022/nov/12/dallas-airshow-crash-collision-planes)
+- [Bahrain holds election without opposition candidates](https://www.theguardian.com/world/2022/nov/12/bahrain-holds-election-without-opposition-candidates)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

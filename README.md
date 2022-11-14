@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Crypto.com “accidentally” sent $400M worth of ETH to a wrong address](https://twitter.com/mikeburgersburg/status/1591611423159111680)
-- [From Plex to Jellyfin Media Server](https://www.ctrl.blog/entry/jellyfin-vs-plex.html)
-- [VNA6000 6GHz Portable Vector Network Analyzer](https://www.tindie.com/products/hcxqsgroup/nanorfe-vna6000/)
-- [Information for foreign citizens in Longyearbyen [pdf]](https://www.sysselmesteren.no/contentassets/56050909aa744d6a8219111ff62988f6/engelsk--informasjon-til-utenlandske-statsborgere-engelsk.pdf)
-- [FTX’s SBF had a secret &#39;back door&#39; to transfer billions off the books](https://www.cnbc.com/2022/11/12/1-billion-to-2-billion-of-ftx-customer-funds-missing-report.html)
-- [Programming Games for Atari 2600](https://forums.atariage.com/topic/339819-upcoming-book-on-atari-2600-programming-now-available/)
-- [Achieving 100Gbps intrusion prevention on a single server](https://blog.acolyer.org/2020/11/16/pigasus/)
-- [Hard Reset](https://sarahguo.com/blog/hardreset)
-- [Digital Astronomy with Cellular Automata](https://kylehovey.github.io/blog/automata-nebula)
-- [It’s getting harder to do a randomized trial for some drugs](https://www.statnews.com/2022/11/03/why-were-not-prepared-for-next-wave-of-biotech-innovation/)
+- [The Community Corrosive Effects of CLAs](https://blog.hansenpartnership.com/the-community-corrosive-effects-of-clas/)
+- [In Memory of Betty Burke &lpar;Founding Exec Director of Nanog&rpar;](https://www.nanog.org/stories/in-memory-of-betty-burke/)
+- [You could own a 555-XXXX phone number but Verizon charged you $2,500 to use it](https://lookify.io/blog/555-phone-number)
+- [Starlink User Terminal Modchip](https://github.com/KULeuven-COSIC/Starlink-FI)
+- [OpenBSD: Immutable Userland Mappings](https://marc.info/?l=openbsd-tech&m=166203784715942)
+- [The Motorola PowerStack](https://www.wolfeden.org/unix-museum/motorola/powerstack.html)
+- [Scrutiny – A WebUI for smartd S.M.A.R.T monitoring &lpar;written in Go&rpar;](https://github.com/AnalogJ/scrutiny)
+- [How to Get Rich &lpar;2019&rpar;](https://nav.al/rich)
+- [OneSignal &lpar;YC S11&rpar; Is Hiring Product Engineers](https://onesignal.com/careers/1d573829-e95f-4aa3-a5b0-8f2080b21b65)
+- [Finding the Darkest Pencil](https://unsharpen.com/darkest-pencil/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

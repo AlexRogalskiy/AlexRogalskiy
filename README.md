@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Democrats retain control of Senate after crucial victory in Nevada](https://www.theguardian.com/us-news/2022/nov/13/democrats-win-senate-control-midterm-elections-2022)
-- [Ethiopian rivals agree on humanitarian access for war-ravaged Tigray](https://www.theguardian.com/world/2022/nov/13/ethiopian-rivals-agree-on-humanitarian-access-for-war-ravaged-tigray)
-- [World Cup 2022 team guides part 21: Belgium](https://www.theguardian.com/football/2022/nov/13/world-cup-2022-belgium-team-guide)
-- [Solid stripes: the best Breton jumpers and how to style them](https://www.theguardian.com/fashion/2022/nov/12/solid-stripes-the-best-breton-jumpers-and-how-to-style-them)
-- [We Love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2022/nov/12/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Brand new bags: 10 of the best top-handle bags – in pictures](https://www.theguardian.com/fashion/gallery/2022/nov/12/brand-new-bags-10-of-the-best-top-handle-bags-in-pictures)
-- [‘Come together as one’: Black Ferns’ World Cup triumph unites nation](https://www.theguardian.com/sport/2022/nov/13/come-together-as-one-black-ferns-world-cup-triumph-unites-nation)
-- [UK health secretary says nurses’ pay demands not ‘reasonable or affordable’](https://www.theguardian.com/society/2022/nov/12/uk-health-secretary-says-nurses-pay-demands-not-reasonable-or-affordable)
-- [Six feared dead after military planes collide at Dallas airshow](https://www.theguardian.com/us-news/2022/nov/12/dallas-airshow-crash-collision-planes)
-- [Bahrain holds election without opposition candidates](https://www.theguardian.com/world/2022/nov/12/bahrain-holds-election-without-opposition-candidates)
+- [The mystery of Teesside’s dead crabs - podcast](https://www.theguardian.com/news/audio/2022/nov/14/the-mystery-of-teesside-dead-crabs-podcast)
+- [Hong Kong calls for investigation after protest song replaced Chinese national anthem at rugby sevens game](https://www.theguardian.com/world/2022/nov/14/glory-to-hong-kong-protest-song-played-instead-of-china-national-anthem-rugby-sevens-game-south-korea)
+- [Dua Lipa denies she’s performing at the Qatar World Cup](https://www.theguardian.com/music/2022/nov/14/dua-lipa-denies-shes-performing-at-the-qatar-world-cup)
+- [G20 explainer: everything you need to know about this week’s crucial summit](https://www.theguardian.com/world/2022/nov/14/g20-summit-2022-explainer-everything-you-need-to-know-about-this-weeks-crucial-summit)
+- [Russia-Ukraine war at a glance: what we know on day 264 of the invasion](https://www.theguardian.com/world/2022/nov/14/russia-ukraine-war-at-a-glance-what-we-know-on-day-265-of-the-invasion)
+- [South Australia suffers biggest blackout since 2016 as weather system brings more flooding to inland NSW](https://www.theguardian.com/australia-news/2022/nov/14/more-flood-warnings-for-inland-nsw-as-wild-weather-cuts-off-power-to-thousands-in-south-australia)
+- [Energy bills: older Britons will pay more but youngest will struggle most, report finds](https://www.theguardian.com/money/2022/nov/14/energy-bills-older-britons-will-pay-more-but-youngest-will-struggle-most-report-finds)
+- [TV property presenter Jonnie Irwin reveals he has terminal cancer](https://www.theguardian.com/tv-and-radio/2022/nov/14/tv-property-presenter-jonnie-irwin-terminal-cancer)
+- [Exodus of first-time buyers puts brakes on UK housing market](https://www.theguardian.com/business/2022/nov/14/exodus-of-first-time-buyers-brakes-uk-housing-market)
+- [More than 40,000 asylum seekers in UK waiting one to three years for decision](https://www.theguardian.com/world/2022/nov/14/more-than-40000-asylum-seekers-in-uk-waiting-one-to-three-years-for-decision)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

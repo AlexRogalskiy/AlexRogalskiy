@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Capture the flag using OSINT techniques&lpar;2019&rpar;](https://www.netwatchglobal.com/solutions/capture-the-flag-using-osint-techniques/)
-- [Iranian who made Paris airport home for 18 years dies](https://www.bbc.com/news/world-europe-63612017)
-- [The Bike Thieves of Burlington, Vermont](https://www.nytimes.com/2022/11/12/business/burlington-police-stolen-bikes.html)
-- [Therahos Elizabeth Holmes asks for a lenient 18-month sentence at home](https://www.sfgate.com/business/article/Elizabeth-Holmes-asks-for-a-lenient-18-month-17577190.php)
-- [New two-factor authenticator: your Commodore 64](http://oldvcr.blogspot.com/2022/11/meet-your-new-two-factor-authenticator.html)
-- [Simple note-taking app with a Markdown editor, built with Flutter and Firebase](https://github.com/Dev-Salem/notat)
-- [Ask HN: AWS Global Accelerator to/from ISPs Outage?](https://news.ycombinator.com/item?id=33579517)
-- [It Got So Much Worse](https://www.youtube.com/watch?v=MWfuDeO9thk)
-- [Ask HN: How to Moneytize TUI Tools?](https://news.ycombinator.com/item?id=33579450)
-- [A drug cartel godfather bid millions to buy a fleet of military aircraft](https://www.icij.org/inside-icij/2022/11/a-drug-cartel-godfather-bid-millions-to-buy-a-fleet-of-obsolete-egyptian-military-aircraft/)
+- [FTX Faces Criminal Investigation in Bahamas After Crypto Exchange Collapses](https://www.forbes.com/sites/saradorn/2022/11/13/ftx-faces-criminal-investigation-in-bahamas-after-crypto-exchange-collapses-police-say/)
+- [1&rpar; What](https://twitter.com/sbf_ftx/status/1591989554881658880)
+- [10k brains: The origins of Denmark’s psychiatric brain collection basement](https://www.cnn.com/2022/11/11/world/denmark-brain-collection-scn-spc-intl/index.html)
+- [NBATickets.NBA.com](https://nbatickets.nba.com/)
+- [TDP and turbo parameter modification with MSR on non-overclockable CPU](https://gist.github.com/Mnkai/5a8edd34bd949199224b33bd90b8c3d4)
+- [Optimizing Restaurant Kitchen Workflow &lpar;2019&rpar;](https://fesmag.com/topics/trends/16960-go-with-the-flow-secrets-to-optimizing-kitchen-workflow)
+- [Banksy artworks appear on destroyed buildings in Ukraine](https://www.aljazeera.com/news/2022/11/12/mysterious-banksys-artwork-appears-on-destroyed-homes-in-ukraine)
+- [The Cost of Going Cashless](https://www.nytimes.com/2022/11/13/opinion/cashless-pay-problem.html)
+- [Investors Who Put $2B into FTX Face Scrutiny, Too](https://www.nytimes.com/2022/11/11/technology/ftx-investors-venture-capital.html)
+- [Replace “Contact Me” – Private hostable: https://doc.voce.chat/widget](https://www.chat.com/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The Community Corrosive Effects of CLAs](https://blog.hansenpartnership.com/the-community-corrosive-effects-of-clas/)
-- [In Memory of Betty Burke &lpar;Founding Exec Director of Nanog&rpar;](https://www.nanog.org/stories/in-memory-of-betty-burke/)
-- [You could own a 555-XXXX phone number but Verizon charged you $2,500 to use it](https://lookify.io/blog/555-phone-number)
-- [Starlink User Terminal Modchip](https://github.com/KULeuven-COSIC/Starlink-FI)
-- [OpenBSD: Immutable Userland Mappings](https://marc.info/?l=openbsd-tech&m=166203784715942)
-- [The Motorola PowerStack](https://www.wolfeden.org/unix-museum/motorola/powerstack.html)
-- [Scrutiny – A WebUI for smartd S.M.A.R.T monitoring &lpar;written in Go&rpar;](https://github.com/AnalogJ/scrutiny)
-- [How to Get Rich &lpar;2019&rpar;](https://nav.al/rich)
-- [OneSignal &lpar;YC S11&rpar; Is Hiring Product Engineers](https://onesignal.com/careers/1d573829-e95f-4aa3-a5b0-8f2080b21b65)
-- [Finding the Darkest Pencil](https://unsharpen.com/darkest-pencil/)
+- [Ask HN: What has succeeded for you when working with volunteers?](https://news.ycombinator.com/item?id=33604501)
+- [&#39;Be&#39; is nice, end of story](https://www.abortretry.fail/p/be-is-nice-end-of-story)
+- [Flexport Is Hiring Software Engineers to Digitize Global Trade](https://flexport.com/careers)
+- [Fencer Matthias Behr takes in relatives of the opponent he stabbed &lpar;2022&rpar;](https://www.archysport.com/2022/05/fencer-matthias-behr-takes-in-relatives-of-the-opponent-he-stabbed/)
+- [Сhecking for leaked data without storing any](https://medispank.com/blog.html)
+- [How the War Was Won](https://cepr.org/voxeu/columns/how-war-was-won)
+- [Chess, but moves are simultaneous](https://chess2.fun)
+- [PayPal inactivity fee](https://www.paypal.com/re/smarthelp/article/what-is-the-inactivity-fee-(eu-countries)-faq4427)
+- [Wrap Up: Bicycle trip logistics](https://www.peterispedaling.com/blog/wrap-up-trip-logistics)
+- [Topology, a Categorical Approach &lpar;2020&rpar;](https://topology.mitpress.mit.edu/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

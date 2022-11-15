@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Tech layoffs in 2022: A timeline](https://www.computerworld.com/article/3679733/tech-layoffs-in-2022-a-timeline.html#tk.rss_all)
+- [Amazon to layoff 10,000 employees: Report](https://www.computerworld.com/article/3680068/amazon-to-layoff-10-000-employees-report.html#tk.rss_all)
+- [Do you really know what’s inside your iOS and Android apps?](https://www.computerworld.com/article/3679694/do-you-really-know-whats-inside-your-ios-and-android-apps.html#tk.rss_all)
+- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
+- [Q&amp;A: RPI president says CHIPs Act will spur quantum computing, next-gen tech](https://www.computerworld.com/article/3679709/qa-rpi-president-says-chips-act-will-spur-quantum-computing-next-gen-tech.html#tk.rss_all)
 - [Patch Tuesday includes 6 Windows zero-day flaws; patch now!](https://www.computerworld.com/article/3679631/patch-tuesday-includes-6-windows-zero-day-flaws-patch-now.html#tk.rss_all)
 - [Jamf Q3 data confirms rapid Mac adoption across the enterprise](https://www.computerworld.com/article/3679730/jamf-q3-data-confirms-rapid-mac-adoption-across-the-enterprise.html#tk.rss_all)
 - [It&#39;s time to talk about productivity again](https://www.computerworld.com/article/3679434/its-time-to-talk-about-productivity-again.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [Apple to spend $450M on SOS via satellite for iPhones](https://www.computerworld.com/article/3679690/apple-to-spend-450m-on-sos-via-satellite-for-iphones.html#tk.rss_all)
-- [In the shadow of the Twitter disaster: How to prep for layoffs](https://www.computerworld.com/article/3679692/in-the-shadow-of-the-twitter-disaster-how-to-prep-for-layoffs.html#tk.rss_all)
-- [Corporate execs confident on sustainability goals, admit more work needed](https://www.computerworld.com/article/3679508/corporate-execs-confident-on-sustainability-goals-admit-more-work-needed.html#tk.rss_all)
-- [5 advanced add-ons for the Gmail Android app](https://www.computerworld.com/article/3678773/gmail-android-app-add-ons.html#tk.rss_all)
-- [Cloud, services to fuel 3.7% jump in EMEA IT spending in 2023: Gartner](https://www.computerworld.com/article/3679492/cloud-services-to-fuel-37-jump-in-emea-it-spending-in-2023-gartner.html#tk.rss_all)
-- [iOS Mail alternatives: 5 business-friendly options](https://www.computerworld.com/article/3678729/ios-mail-alternatives-for-business.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

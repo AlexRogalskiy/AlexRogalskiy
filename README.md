@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [The mystery of Teesside’s dead crabs - podcast](https://www.theguardian.com/news/audio/2022/nov/14/the-mystery-of-teesside-dead-crabs-podcast)
-- [Hong Kong calls for investigation after protest song replaced Chinese national anthem at rugby sevens game](https://www.theguardian.com/world/2022/nov/14/glory-to-hong-kong-protest-song-played-instead-of-china-national-anthem-rugby-sevens-game-south-korea)
-- [Dua Lipa denies she’s performing at the Qatar World Cup](https://www.theguardian.com/music/2022/nov/14/dua-lipa-denies-shes-performing-at-the-qatar-world-cup)
-- [G20 explainer: everything you need to know about this week’s crucial summit](https://www.theguardian.com/world/2022/nov/14/g20-summit-2022-explainer-everything-you-need-to-know-about-this-weeks-crucial-summit)
-- [Russia-Ukraine war at a glance: what we know on day 264 of the invasion](https://www.theguardian.com/world/2022/nov/14/russia-ukraine-war-at-a-glance-what-we-know-on-day-265-of-the-invasion)
-- [South Australia suffers biggest blackout since 2016 as weather system brings more flooding to inland NSW](https://www.theguardian.com/australia-news/2022/nov/14/more-flood-warnings-for-inland-nsw-as-wild-weather-cuts-off-power-to-thousands-in-south-australia)
-- [Energy bills: older Britons will pay more but youngest will struggle most, report finds](https://www.theguardian.com/money/2022/nov/14/energy-bills-older-britons-will-pay-more-but-youngest-will-struggle-most-report-finds)
-- [TV property presenter Jonnie Irwin reveals he has terminal cancer](https://www.theguardian.com/tv-and-radio/2022/nov/14/tv-property-presenter-jonnie-irwin-terminal-cancer)
-- [Exodus of first-time buyers puts brakes on UK housing market](https://www.theguardian.com/business/2022/nov/14/exodus-of-first-time-buyers-brakes-uk-housing-market)
-- [More than 40,000 asylum seekers in UK waiting one to three years for decision](https://www.theguardian.com/world/2022/nov/14/more-than-40000-asylum-seekers-in-uk-waiting-one-to-three-years-for-decision)
+- [Is the UK housing market heading for a crash? – podcast](https://www.theguardian.com/news/audio/2022/nov/15/uk-housing-market-prices-property-podcast)
+- [West seeking to convince G20 that Russia’s war in Ukraine is responsible for global economic suffering](https://www.theguardian.com/world/2022/nov/15/g20-russia-ukraine-war-global-economic-suffering)
+- [Millions of missing women: China grapples with legacy of one-child policy as population ages](https://www.theguardian.com/world/2022/nov/15/millions-of-missing-women-china-grapples-with-legacy-of-one-child-policy-as-population-ages)
+- [Russia-Ukraine war at a glance: what we know on day 265 of the invasion](https://www.theguardian.com/world/2022/nov/15/russia-ukraine-war-at-a-glance-what-we-know-on-day-265-of-the-invasion)
+- [Global corporations ‘cheating public out of billions in tax’, say campaigners](https://www.theguardian.com/business/2022/nov/15/global-corporations-cheating-public-out-of-billions-in-tax-say-campaigners)
+- [World Cup 2022 team guides part 25: Brazil](https://www.theguardian.com/football/2022/nov/15/world-cup-2022-team-guide-25-brazil)
+- [Methane emissions from 15 meat and dairy companies rival those of the EU](https://www.theguardian.com/environment/2022/nov/15/methane-emissions-meat-dairy-companies)
+- [Michelle Obama admits to hating her appearance in new book](https://www.theguardian.com/books/2022/nov/15/michelle-obama-admits-to-hating-her-appearance-in-new-book-the-light-we-carry-becoming)
+- [The Light We Carry by Michelle Obama review – lessons in life](https://www.theguardian.com/books/2022/nov/15/the-light-we-carry-by-michelle-obama-review-lessons-in-life)
+- [NHS staff ‘petrified’ of how bad winter will be at hospitals in England](https://www.theguardian.com/society/2022/nov/15/nhs-staff-petrified-bad-winter-hospitals-england)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [FTX Faces Criminal Investigation in Bahamas After Crypto Exchange Collapses](https://www.forbes.com/sites/saradorn/2022/11/13/ftx-faces-criminal-investigation-in-bahamas-after-crypto-exchange-collapses-police-say/)
-- [1&rpar; What](https://twitter.com/sbf_ftx/status/1591989554881658880)
-- [10k brains: The origins of Denmark’s psychiatric brain collection basement](https://www.cnn.com/2022/11/11/world/denmark-brain-collection-scn-spc-intl/index.html)
-- [NBATickets.NBA.com](https://nbatickets.nba.com/)
-- [TDP and turbo parameter modification with MSR on non-overclockable CPU](https://gist.github.com/Mnkai/5a8edd34bd949199224b33bd90b8c3d4)
-- [Optimizing Restaurant Kitchen Workflow &lpar;2019&rpar;](https://fesmag.com/topics/trends/16960-go-with-the-flow-secrets-to-optimizing-kitchen-workflow)
-- [Banksy artworks appear on destroyed buildings in Ukraine](https://www.aljazeera.com/news/2022/11/12/mysterious-banksys-artwork-appears-on-destroyed-homes-in-ukraine)
-- [The Cost of Going Cashless](https://www.nytimes.com/2022/11/13/opinion/cashless-pay-problem.html)
-- [Investors Who Put $2B into FTX Face Scrutiny, Too](https://www.nytimes.com/2022/11/11/technology/ftx-investors-venture-capital.html)
-- [Replace “Contact Me” – Private hostable: https://doc.voce.chat/widget](https://www.chat.com/)
+- [Elon Musk&#39;s effect on Twitter policies in India](https://www.nytimes.com/2022/11/14/opinion/elon-musk-twitter-free-speech-india.html)
+- [Smart Garden: a plant environmental monitoring system](https://projects-raspberry.com/smart-garden/)
+- [As Pay TV Subscribers Decline Faster, Pressure Builds for Streaming Profits](https://www.hollywoodreporter.com/business/business-news/pay-tv-quarterly-decline-1235261585/)
+- [Ask HN: Has Mastodon blown its big chance?](https://news.ycombinator.com/item?id=33604704)
+- [Stacked Area Graphs Are Not Your Friend](https://everydayanalytics.ca/2014/08/stacked-area-graphs-are-not-your-friend.html)
+- [Set Proof [pdf]](https://www.setgame.com/sites/default/files/teacherscorner/SETPROOF.pdf)
+- [Elon Musk: ‘I have Tesla covered too’ as he sleeps at Twitter HQ](https://electrek.co/2022/11/14/elon-musk-tesla-covered-too-sleeps-twitter-hq/)
+- [Cesium detected in the atmosphere of a hot white dwarf](https://phys.org/news/2022-11-cesium-atmosphere-hot-white-dwarf.html)
+- [How to Think About Relativity](https://www.quantamagazine.org/how-to-think-about-relativitys-concept-of-space-time-20221114/)
+- [Capstone Is at the Moon Advanced Space Leads Pathfinding Efforts for NASA](https://advancedspace.com/capstone-nasa-pathfinder-arrives-at-moon/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

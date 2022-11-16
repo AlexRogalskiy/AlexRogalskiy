@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Elon Musk&#39;s effect on Twitter policies in India](https://www.nytimes.com/2022/11/14/opinion/elon-musk-twitter-free-speech-india.html)
-- [Smart Garden: a plant environmental monitoring system](https://projects-raspberry.com/smart-garden/)
-- [As Pay TV Subscribers Decline Faster, Pressure Builds for Streaming Profits](https://www.hollywoodreporter.com/business/business-news/pay-tv-quarterly-decline-1235261585/)
-- [Ask HN: Has Mastodon blown its big chance?](https://news.ycombinator.com/item?id=33604704)
-- [Stacked Area Graphs Are Not Your Friend](https://everydayanalytics.ca/2014/08/stacked-area-graphs-are-not-your-friend.html)
-- [Set Proof [pdf]](https://www.setgame.com/sites/default/files/teacherscorner/SETPROOF.pdf)
-- [Elon Musk: ‘I have Tesla covered too’ as he sleeps at Twitter HQ](https://electrek.co/2022/11/14/elon-musk-tesla-covered-too-sleeps-twitter-hq/)
-- [Cesium detected in the atmosphere of a hot white dwarf](https://phys.org/news/2022-11-cesium-atmosphere-hot-white-dwarf.html)
-- [How to Think About Relativity](https://www.quantamagazine.org/how-to-think-about-relativitys-concept-of-space-time-20221114/)
-- [Capstone Is at the Moon Advanced Space Leads Pathfinding Efforts for NASA](https://advancedspace.com/capstone-nasa-pathfinder-arrives-at-moon/)
+- [SDN in the Stratosphere: Loon’s Aerospace Mesh Network](https://www.micahlerner.com/2022/10/08/sdn-in-the-stratosphere-loons-aerospace-mesh-network.html)
+- [The Extraordinary Redundancy of Spinning UFO Drones](https://www.youtube.com/watch?v=taU7mRTnrtY)
+- [Making Sense of Moral Change](https://asteriskmag.com/issues/1/making-sense-of-moral-change)
+- [I want to make the most addictive app EVER](https://news.ycombinator.com/item?id=33618296)
+- [Ok so what the fuck is the deal with Solana anyway](https://2501babe.github.io/posts/solana101.html)
+- [Stochastic Terrorism Uses Disgust to Incite Violence](https://www.scientificamerican.com/article/how-stochastic-terrorism-uses-disgust-to-incite-violence/)
+- [Professor Steve Keen explains why austerity economics is naive](https://www.youtube.com/watch?v=Au2N07eHa-Q)
+- [The Gray Lady Winked exposes a different side of the NYT](https://www.thegrayladywinked.com)
+- [R2U: R Packages &lpar;Cran&rpar; as Ubuntu Binaries](https://github.com/eddelbuettel/r2u)
+- [Choonsik&#39;s Diary](https://lr.doesbook.kr/en/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

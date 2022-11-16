@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Is the UK housing market heading for a crash? – podcast](https://www.theguardian.com/news/audio/2022/nov/15/uk-housing-market-prices-property-podcast)
-- [West seeking to convince G20 that Russia’s war in Ukraine is responsible for global economic suffering](https://www.theguardian.com/world/2022/nov/15/g20-russia-ukraine-war-global-economic-suffering)
-- [Millions of missing women: China grapples with legacy of one-child policy as population ages](https://www.theguardian.com/world/2022/nov/15/millions-of-missing-women-china-grapples-with-legacy-of-one-child-policy-as-population-ages)
-- [Russia-Ukraine war at a glance: what we know on day 265 of the invasion](https://www.theguardian.com/world/2022/nov/15/russia-ukraine-war-at-a-glance-what-we-know-on-day-265-of-the-invasion)
-- [Global corporations ‘cheating public out of billions in tax’, say campaigners](https://www.theguardian.com/business/2022/nov/15/global-corporations-cheating-public-out-of-billions-in-tax-say-campaigners)
-- [World Cup 2022 team guides part 25: Brazil](https://www.theguardian.com/football/2022/nov/15/world-cup-2022-team-guide-25-brazil)
-- [Methane emissions from 15 meat and dairy companies rival those of the EU](https://www.theguardian.com/environment/2022/nov/15/methane-emissions-meat-dairy-companies)
-- [Michelle Obama admits to hating her appearance in new book](https://www.theguardian.com/books/2022/nov/15/michelle-obama-admits-to-hating-her-appearance-in-new-book-the-light-we-carry-becoming)
-- [The Light We Carry by Michelle Obama review – lessons in life](https://www.theguardian.com/books/2022/nov/15/the-light-we-carry-by-michelle-obama-review-lessons-in-life)
-- [NHS staff ‘petrified’ of how bad winter will be at hospitals in England](https://www.theguardian.com/society/2022/nov/15/nhs-staff-petrified-bad-winter-hospitals-england)
+- [Trump announces 2024 run nearly two years after inspiring deadly Capitol riot](https://www.theguardian.com/us-news/2022/nov/15/donald-trump-announces-presidential-run-2024-midterms-ron-desantis)
+- [Russia-Ukraine war live news: Biden says ‘unlikely’ that Poland missile was fired from Russia](https://www.theguardian.com/world/live/2022/nov/16/russia-ukraine-war-live-news-emergency-g20-meeting-after-russian-made-missiles-land-in-poland)
+- [Reclaiming Kherson: what Russia’s retreat means for the fight for Ukraine - podcast](https://www.theguardian.com/world/audio/2022/nov/16/reclaiming-kherson-what-russia-retreat-means-ukraine-podcast)
+- [Weinstein trial: defense demands graphic details from Jennifer Siebel Newsom](https://www.theguardian.com/world/2022/nov/15/harvey-weinstein-trial-judge-drops-four-charges)
+- [Poland considers calling meeting of Nato ministers after missile strike](https://www.theguardian.com/world/2022/nov/15/stray-russian-missiles-feared-landed-poland-ukraine)
+- [Manu Tuilagi: ‘You’ve got to have the mindset of imposing our game on them’](https://www.theguardian.com/sport/2022/nov/16/manu-tuilagi-youve-got-to-have-the-mindset-of-imposing-our-game-on-them)
+- [Shareholders reap record payouts from price surge during energy crisis](https://www.theguardian.com/business/2022/nov/16/shareholders-reap-record-payouts-from-price-surge-during-energy-crisis)
+- [Poland explosion unlikely to spark escalation – but risks of Nato-Russia clash are real](https://www.theguardian.com/world/2022/nov/15/explosion-in-poland-unlikely-to-spark-escalation-even-if-caused-by-russian-missiles)
+- [One billion young people risk hearing loss from loud music](https://www.theguardian.com/society/2022/nov/15/one-billion-young-people-risk-hearing-loss-from-loud-music)
+- [Edinson Cavani: ‘Maybe I don’t fully fit with modern football, in terms of attitudes’ | Sid Lowe](https://www.theguardian.com/football/2022/nov/15/edinson-cavani-maybe-i-dont-fully-fit-with-modern-football-in-terms-of-attitudes)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

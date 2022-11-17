@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Trump announces 2024 run nearly two years after inspiring deadly Capitol riot](https://www.theguardian.com/us-news/2022/nov/15/donald-trump-announces-presidential-run-2024-midterms-ron-desantis)
-- [Russia-Ukraine war live news: Biden says ‘unlikely’ that Poland missile was fired from Russia](https://www.theguardian.com/world/live/2022/nov/16/russia-ukraine-war-live-news-emergency-g20-meeting-after-russian-made-missiles-land-in-poland)
-- [Reclaiming Kherson: what Russia’s retreat means for the fight for Ukraine - podcast](https://www.theguardian.com/world/audio/2022/nov/16/reclaiming-kherson-what-russia-retreat-means-ukraine-podcast)
-- [Weinstein trial: defense demands graphic details from Jennifer Siebel Newsom](https://www.theguardian.com/world/2022/nov/15/harvey-weinstein-trial-judge-drops-four-charges)
-- [Poland considers calling meeting of Nato ministers after missile strike](https://www.theguardian.com/world/2022/nov/15/stray-russian-missiles-feared-landed-poland-ukraine)
-- [Manu Tuilagi: ‘You’ve got to have the mindset of imposing our game on them’](https://www.theguardian.com/sport/2022/nov/16/manu-tuilagi-youve-got-to-have-the-mindset-of-imposing-our-game-on-them)
-- [Shareholders reap record payouts from price surge during energy crisis](https://www.theguardian.com/business/2022/nov/16/shareholders-reap-record-payouts-from-price-surge-during-energy-crisis)
-- [Poland explosion unlikely to spark escalation – but risks of Nato-Russia clash are real](https://www.theguardian.com/world/2022/nov/15/explosion-in-poland-unlikely-to-spark-escalation-even-if-caused-by-russian-missiles)
-- [One billion young people risk hearing loss from loud music](https://www.theguardian.com/society/2022/nov/15/one-billion-young-people-risk-hearing-loss-from-loud-music)
-- [Edinson Cavani: ‘Maybe I don’t fully fit with modern football, in terms of attitudes’ | Sid Lowe](https://www.theguardian.com/football/2022/nov/15/edinson-cavani-maybe-i-dont-fully-fit-with-modern-football-in-terms-of-attitudes)
+- [Australia v England: first one-day international – live](https://www.theguardian.com/sport/live/2022/nov/17/australia-vs-england-live-updates-score-first-one-day-international-cricket-odi-latest-scores-aus-v-eng)
+- [Autumn statement 2022: it’s going to hurt but will it work? - podcast](https://www.theguardian.com/news/audio/2022/nov/17/autumn-statement-2022-its-going-to-hurt-but-will-it-work-podcast)
+- [Republicans claw back control of US House after underwhelming midterms](https://www.theguardian.com/us-news/2022/nov/16/us-midterms-2022-republicans-win-control-house-representatives-congress-midterm-election-results)
+- [Karen Bass becomes the first female mayor of Los Angeles](https://www.theguardian.com/us-news/2022/nov/16/karen-bass-los-angeles-mayor-victory-us-midterms)
+- [Want to buy Joan Didion’s sunglasses? That’ll be $27,000. Her broken clock? $35,000](https://www.theguardian.com/books/2022/nov/17/joan-didion-estate-sale-auction)
+- [Extreme weather fuels government oppression in island nations, study finds](https://www.theguardian.com/world/2022/nov/17/extreme-weather-climate-crisis-democratic-erosion-autocracies-study-finds)
+- [Xi angrily rebukes Trudeau over ‘leaks’ to media about Canada-China relations](https://www.theguardian.com/world/2022/nov/16/xi-trudeau-canada-china-g20)
+- [Russia-Ukraine war at a glance: what we know on day 267 of the invasion](https://www.theguardian.com/world/2022/nov/17/russia-ukraine-war-at-a-glance-what-we-know-on-day-267-of-the-invasion)
+- [Bono review – U2 frontman’s pared back ‘solo in Soho’ show is a triumph](https://www.theguardian.com/music/2022/nov/17/bono-review-u2-frontmans-pared-back-solo-in-soho-show-is-a-triumph)
+- [Cristiano Ronaldo says Alex Ferguson advised against Manchester City move](https://www.theguardian.com/football/2022/nov/16/ronaldo-bombshell-has-shocked-manchester-united-admits-varane)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

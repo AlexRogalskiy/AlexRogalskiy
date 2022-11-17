@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [SDN in the Stratosphere: Loon’s Aerospace Mesh Network](https://www.micahlerner.com/2022/10/08/sdn-in-the-stratosphere-loons-aerospace-mesh-network.html)
-- [The Extraordinary Redundancy of Spinning UFO Drones](https://www.youtube.com/watch?v=taU7mRTnrtY)
-- [Making Sense of Moral Change](https://asteriskmag.com/issues/1/making-sense-of-moral-change)
-- [I want to make the most addictive app EVER](https://news.ycombinator.com/item?id=33618296)
-- [Ok so what the fuck is the deal with Solana anyway](https://2501babe.github.io/posts/solana101.html)
-- [Stochastic Terrorism Uses Disgust to Incite Violence](https://www.scientificamerican.com/article/how-stochastic-terrorism-uses-disgust-to-incite-violence/)
-- [Professor Steve Keen explains why austerity economics is naive](https://www.youtube.com/watch?v=Au2N07eHa-Q)
-- [The Gray Lady Winked exposes a different side of the NYT](https://www.thegrayladywinked.com)
-- [R2U: R Packages &lpar;Cran&rpar; as Ubuntu Binaries](https://github.com/eddelbuettel/r2u)
-- [Choonsik&#39;s Diary](https://lr.doesbook.kr/en/)
+- [Ask HN: Gesture Recognition for JavaScript?](https://news.ycombinator.com/item?id=33634363)
+- [The 20-Year Boondoggle](https://www.theverge.com/c/23374767/dhs-homeland-security-bureaucracy-20-years)
+- [Shaping contactless radiation forces through anomalous acoustic scattering](https://www.nature.com/articles/s41467-022-34207-7)
+- [The Hodgepodge Is Normal](https://seths.blog/2022/11/the-hodgepodge-is-normal/)
+- [Polyamory](https://en.wikipedia.org/wiki/Polyamory)
+- [Niche Datasets &lpar;Data Is Plural&rpar;](https://www.data-is-plural.com/archive/)
+- [A Polyomino Tiling Algorithm &lpar;2018&rpar;](https://gfredericks.com/blog/99)
+- [Guinness, Cadbury’s and Nissan told to avoid ‘toxic’ and ‘dangerous’ Twitter](https://www.telegraph.co.uk/business/2022/11/15/guinness-cadburys-nissan-told-avoid-toxic-dangerous-twitter/)
+- [United Egg of America](https://gfredericks.com/blog/82)
+- [Life on the List &lpar;2009&rpar;](https://anildash.com/2009/12/29/life_on_the_list/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

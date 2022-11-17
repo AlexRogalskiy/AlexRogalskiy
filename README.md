@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The good delusion: has effective altruism broken bad?](https://www.economist.com/1843/2022/11/15/the-good-delusion-has-effective-altruism-broken-bad)
-- [Americans to Provide Biometrics and Pay Fee Traveling to the U.K. From 2023](https://www.traveloffpath.com/americans-will-have-to-provide-biometrics-and-pay-fee-traveling-to-the-u-k-from-2023/)
-- [Digital books wear out faster than physical books](http://blog.archive.org/2022/11/15/digital-books-wear-out-faster-than-physical-books/)
-- [The Bucks can’t wear cream uniforms because they interfere with digital ads](https://paullukas.substack.com/p/exclusive-the-inside-story-of-why)
-- [Charge Robotics &lpar;YC S21&rpar; is hiring meches to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer)
-- [Researchers thought this was a bug &lpar;Borwein integrals&rpar; [video]](https://www.youtube.com/watch?v=851U557j6HE)
-- [Good Old Fashioned AI is dead, long live New-Fangled AI](https://billwadge.com/2022/11/13/gofai-is-dead-long-live-nf-ai/)
-- [All companies are fucked up](https://jonpauluritis.com/articles/all-companies-are-fucked-up/)
-- [Adding a hinge to a Game Boy that God never intended](https://posts.decontextualize.com/pocket-sp/)
-- [Divers accidentally find a piece of the Challenger space shuttle](https://www.smithsonianmag.com/smart-news/divers-accidentally-find-a-piece-of-the-challenger-space-shuttle-180981121/)
+- [The Future of the Amazon, and Maybe the Planet, Depends on Brazil’s Lula](https://www.newyorker.com/news/daily-comment/the-future-of-the-amazon-and-maybe-the-planet-depends-on-brazils-president-elect-lula)
+- [My ADHD founder toolbox](https://hypatia.ca/2022/03/03/my-adhd-founder-toolbox/)
+- [How did Cole factor 2^67−1 in 1903?](https://mathoverflow.net/questions/207321/how-did-cole-factor-267-1-in-1903)
+- [AI found a bug in my code](https://joel.tools/codegen/)
+- [Two weeks of dealing with Google as a developer](https://danfitdegree.hashnode.dev/nothing-has-ever-angered-me-more-than-the-google-play-team)
+- [Reconstructing images a person sees via non-invasive brain scans](https://mind-vis.github.io/)
+- [Clear snow the laziest way](https://www.instructables.com/Clear-Snow-the-Laziest-Way-Imaginable/)
+- [Meticulous &lpar;YC S21&rpar; is hiring engineer #3 in London](https://news.ycombinator.com/item?id=33630503)
+- [CPSC calls for full recall of all Onewheel self-balancing electric skateboards](https://www.cpsc.gov/Newsroom/News-Releases/2023/CPSC-Warns-Consumers-to-Stop-Using-Onewheel-Self-Balancing-Electric-Skateboards-Due-to-Ejection-Hazard-At-Least-Four-Deaths-and-Multiple-Injuries-Reported)
+- [Robot treats 500k plants per hour with 95% less chemicals [video]](https://www.youtube.com/watch?v=sV0cR_Nhac0)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

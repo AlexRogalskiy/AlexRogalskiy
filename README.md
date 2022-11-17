@@ -355,6 +355,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Offboarding processes pose security risks as job turnover increases: Report](https://www.computerworld.com/article/3680368/offboarding-processes-pose-security-risks-as-job-turnover-increases-report.html#tk.rss_all)
+- [Mosyle brings new iPhone, iPad endpoint security options](https://www.computerworld.com/article/3680232/mosyle-brings-new-iphone-ipad-endpoint-security-options.html#tk.rss_all)
+- [FTX meltdown likely to spur crypto regulations, cool digital currency push](https://www.computerworld.com/article/3680131/ftx-meltdown-likely-to-spur-crypto-regulations-cool-digital-currency-push.html#tk.rss_all)
 - [Asana to lay off 9% of its workforce to improve operating costs](https://www.computerworld.com/article/3680153/asana-to-lay-off-9-of-its-workforce-to-improve-operating-costs.html#tk.rss_all)
 - [As remote work gains favor, employees&#39; relationships to their jobs are in flux: Report](https://www.computerworld.com/article/3680152/as-remote-work-gains-favor-employees-relationships-to-their-jobs-are-in-flux-report.html#tk.rss_all)
 - [How to use Emergency SOS via satellite on iPhone 14](https://www.computerworld.com/article/3680089/how-to-use-emergency-sos-via-satellite-on-iphone-14.html#tk.rss_all)
@@ -362,9 +365,6 @@
 - [Tech layoffs in 2022: A timeline](https://www.computerworld.com/article/3679733/tech-layoffs-in-2022-a-timeline.html#tk.rss_all)
 - [Amazon to layoff 10,000 employees: Report](https://www.computerworld.com/article/3680068/amazon-to-layoff-10-000-employees-report.html#tk.rss_all)
 - [Do you really know what’s inside your iOS and Android apps?](https://www.computerworld.com/article/3679694/do-you-really-know-whats-inside-your-ios-and-android-apps.html#tk.rss_all)
-- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
-- [Q&amp;A: RPI president says CHIPs Act will spur quantum computing, next-gen tech](https://www.computerworld.com/article/3679709/qa-rpi-president-says-chips-act-will-spur-quantum-computing-next-gen-tech.html#tk.rss_all)
-- [Patch Tuesday includes 6 Windows zero-day flaws; patch now!](https://www.computerworld.com/article/3679631/patch-tuesday-includes-6-windows-zero-day-flaws-patch-now.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

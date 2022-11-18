@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ask HN: Gesture Recognition for JavaScript?](https://news.ycombinator.com/item?id=33634363)
-- [The 20-Year Boondoggle](https://www.theverge.com/c/23374767/dhs-homeland-security-bureaucracy-20-years)
-- [Shaping contactless radiation forces through anomalous acoustic scattering](https://www.nature.com/articles/s41467-022-34207-7)
-- [The Hodgepodge Is Normal](https://seths.blog/2022/11/the-hodgepodge-is-normal/)
-- [Polyamory](https://en.wikipedia.org/wiki/Polyamory)
-- [Niche Datasets &lpar;Data Is Plural&rpar;](https://www.data-is-plural.com/archive/)
-- [A Polyomino Tiling Algorithm &lpar;2018&rpar;](https://gfredericks.com/blog/99)
-- [Guinness, Cadbury’s and Nissan told to avoid ‘toxic’ and ‘dangerous’ Twitter](https://www.telegraph.co.uk/business/2022/11/15/guinness-cadburys-nissan-told-avoid-toxic-dangerous-twitter/)
-- [United Egg of America](https://gfredericks.com/blog/82)
-- [Life on the List &lpar;2009&rpar;](https://anildash.com/2009/12/29/life_on_the_list/)
+- [Space-Based Solar Power](https://www.esa.int/Enabling_Support/Space_Engineering_Technology/SOLARIS/SBSP_overview)
+- [Industrial Meat and Dairy Is Destroying the Planet](https://gizmodo.com/methane-emissions-meat-dairy-global-warming-1849796160)
+- [Annie Ernaux Turns Memory into Art](https://www.newyorker.com/magazine/2022/11/21/annie-ernaux-turns-memory-into-art)
+- [Fred P. Brooks has passed away](https://twitter.com/stevebellovin/status/1593414068634734592)
+- [Researchers Quietly Cracked Zeppelin Ransomware Keys](https://krebsonsecurity.com/2022/11/researchers-quietly-cracked-zeppelin-ransomware-keys/)
+- [Hacker News – hide visited comments](https://chrome.google.com/webstore/detail/hacker-news-hide-visited/hdkoggfgilbdommlpnkeljgamgemblbp)
+- [Om Malik: How FTX built a house of cards](https://om.co/2022/11/17/how-ftx-built-a-house-of-cards/)
+- [Passkeys.directory by 1password](https://passkeys.directory/)
+- [U.S. Indicts Two Russians for Running the ‘Z-Library’ Piracy Ring](https://torrentfreak.com/u-s-indicts-two-russians-for-running-the-z-library-piracy-ring221117/)
+- [Neither Here nor There](https://seths.blog/2022/11/neither-here-nor-there/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

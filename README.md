@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The Future of the Amazon, and Maybe the Planet, Depends on Brazil’s Lula](https://www.newyorker.com/news/daily-comment/the-future-of-the-amazon-and-maybe-the-planet-depends-on-brazils-president-elect-lula)
-- [My ADHD founder toolbox](https://hypatia.ca/2022/03/03/my-adhd-founder-toolbox/)
-- [How did Cole factor 2^67−1 in 1903?](https://mathoverflow.net/questions/207321/how-did-cole-factor-267-1-in-1903)
-- [AI found a bug in my code](https://joel.tools/codegen/)
-- [Two weeks of dealing with Google as a developer](https://danfitdegree.hashnode.dev/nothing-has-ever-angered-me-more-than-the-google-play-team)
-- [Reconstructing images a person sees via non-invasive brain scans](https://mind-vis.github.io/)
-- [Clear snow the laziest way](https://www.instructables.com/Clear-Snow-the-Laziest-Way-Imaginable/)
-- [Meticulous &lpar;YC S21&rpar; is hiring engineer #3 in London](https://news.ycombinator.com/item?id=33630503)
-- [CPSC calls for full recall of all Onewheel self-balancing electric skateboards](https://www.cpsc.gov/Newsroom/News-Releases/2023/CPSC-Warns-Consumers-to-Stop-Using-Onewheel-Self-Balancing-Electric-Skateboards-Due-to-Ejection-Hazard-At-Least-Four-Deaths-and-Multiple-Injuries-Reported)
-- [Robot treats 500k plants per hour with 95% less chemicals [video]](https://www.youtube.com/watch?v=sV0cR_Nhac0)
+- [Researchers Quietly Cracked Zeppelin Ransomware Keys](https://krebsonsecurity.com/2022/11/researchers-quietly-cracked-zeppelin-ransomware-keys/)
+- [Association between Vitamin D supplementation and Covid infection and mortality](https://www.nature.com/articles/s41598-022-24053-4)
+- [How safe is ayahuasca? Large-scale study explores](https://www.technologynetworks.com/biopharma/news/how-safe-is-ayahuasca-large-scale-study-explores-367665)
+- [How the Billboard Hot 100 Lost Interest in the Key Change](https://tedium.co/2022/11/09/the-death-of-the-key-change)
+- [Neocities: A platform that lets you create your own website/follow other&#39;s sites](https://neocities.org/)
+- [Tailscale Funnel](https://tailscale.com/blog/introducing-tailscale-funnel/)
+- [ASML looking to finally get ahead of Moore’s Law](https://bits-chips.nl/artikel/asml-looking-to-finally-get-ahead-of-moores-law/)
+- [Twitter alerted employees all office buildings closed and badge access suspended](https://twitter.com/zoeschiffer/status/1593391604785504257)
+- [Hardening unused &lpar;sub&rpar;domains](https://www.mailhardener.com/kb/hardening-unused-domains)
+- [Kodable &lpar;YC IK12&rpar; Is Hiring a Full Stack Engineer to help us teach kids to code](https://www.indeed.com/job/full-stack-engineer-c4948f7319bbd2f4?_ga=2.104740672.1378721118.1668634777-1229181858.1666896160)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

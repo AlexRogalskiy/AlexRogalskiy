@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Australia v England: first one-day international – live](https://www.theguardian.com/sport/live/2022/nov/17/australia-vs-england-live-updates-score-first-one-day-international-cricket-odi-latest-scores-aus-v-eng)
-- [Autumn statement 2022: it’s going to hurt but will it work? - podcast](https://www.theguardian.com/news/audio/2022/nov/17/autumn-statement-2022-its-going-to-hurt-but-will-it-work-podcast)
-- [Republicans claw back control of US House after underwhelming midterms](https://www.theguardian.com/us-news/2022/nov/16/us-midterms-2022-republicans-win-control-house-representatives-congress-midterm-election-results)
-- [Karen Bass becomes the first female mayor of Los Angeles](https://www.theguardian.com/us-news/2022/nov/16/karen-bass-los-angeles-mayor-victory-us-midterms)
-- [Want to buy Joan Didion’s sunglasses? That’ll be $27,000. Her broken clock? $35,000](https://www.theguardian.com/books/2022/nov/17/joan-didion-estate-sale-auction)
-- [Extreme weather fuels government oppression in island nations, study finds](https://www.theguardian.com/world/2022/nov/17/extreme-weather-climate-crisis-democratic-erosion-autocracies-study-finds)
-- [Xi angrily rebukes Trudeau over ‘leaks’ to media about Canada-China relations](https://www.theguardian.com/world/2022/nov/16/xi-trudeau-canada-china-g20)
-- [Russia-Ukraine war at a glance: what we know on day 267 of the invasion](https://www.theguardian.com/world/2022/nov/17/russia-ukraine-war-at-a-glance-what-we-know-on-day-267-of-the-invasion)
-- [Bono review – U2 frontman’s pared back ‘solo in Soho’ show is a triumph](https://www.theguardian.com/music/2022/nov/17/bono-review-u2-frontmans-pared-back-solo-in-soho-show-is-a-triumph)
-- [Cristiano Ronaldo says Alex Ferguson advised against Manchester City move](https://www.theguardian.com/football/2022/nov/16/ronaldo-bombshell-has-shocked-manchester-united-admits-varane)
+- [Excitement, boycotts and rainbow protest: Qatar’s World Cup kicks off | podcast](https://www.theguardian.com/news/audio/2022/nov/18/excitement-boycotts-and-rainbow-protest-qatar-world-cup-kicks-off-podcast)
+- [Twitter ‘closes offices’ after Elon Musk’s loyalty oath sparks wave of resignations](https://www.theguardian.com/technology/2022/nov/17/elon-musk-twitter-closes-offices-loyalty-oath-resignations)
+- [North Korean ICBM lands in Japan’s exclusive economic zone, PM says](https://www.theguardian.com/world/2022/nov/18/north-korea-has-launched-suspected-icbm-intercontinental-ballistic-missile-says-south)
+- [James Webb telescope finds two of the oldest and most distant galaxies ever seen](https://www.theguardian.com/science/2022/nov/18/james-webb-telescope-finds-two-of-the-oldest-and-most-distant-galaxies-ever-seen)
+- [FBI director ‘very concerned’ by reports of secret Chinese police stations in US](https://www.theguardian.com/world/2022/nov/18/fbi-director-very-concerned-by-reports-of-secret-chinese-police-stations-in-us)
+- [Asia must not become arena for ‘big power contest’, says China’s Xi ahead of Apec summit](https://www.theguardian.com/world/2022/nov/18/asia-must-not-become-arena-for-big-power-contest-says-chinas-xi-ahead-of-apec-summit)
+- [World Cup 2022 team guides part 31: South Korea](https://www.theguardian.com/football/2022/nov/18/world-cup-2022-team-guide-south-korea)
+- [Russia-Ukraine war at a glance: what we know on day 268 of the invasion](https://www.theguardian.com/world/2022/nov/18/russia-ukraine-war-at-a-glance-what-we-know-on-day-268-of-the-invasion)
+- [December Royal Mail strike action to include Christmas Eve](https://www.theguardian.com/politics/2022/nov/17/december-royal-mail-strike-action-to-include-christmas-eve)
+- [Beer could be banned from all eight World Cup stadiums in potential U-turn](https://www.theguardian.com/football/2022/nov/17/world-cup-hosts-qatar-pressure-fifa-to-stop-beer-sales-at-stadiums)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

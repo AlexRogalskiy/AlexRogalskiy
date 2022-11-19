@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Space-Based Solar Power](https://www.esa.int/Enabling_Support/Space_Engineering_Technology/SOLARIS/SBSP_overview)
-- [Industrial Meat and Dairy Is Destroying the Planet](https://gizmodo.com/methane-emissions-meat-dairy-global-warming-1849796160)
-- [Annie Ernaux Turns Memory into Art](https://www.newyorker.com/magazine/2022/11/21/annie-ernaux-turns-memory-into-art)
-- [Fred P. Brooks has passed away](https://twitter.com/stevebellovin/status/1593414068634734592)
-- [Researchers Quietly Cracked Zeppelin Ransomware Keys](https://krebsonsecurity.com/2022/11/researchers-quietly-cracked-zeppelin-ransomware-keys/)
-- [Hacker News – hide visited comments](https://chrome.google.com/webstore/detail/hacker-news-hide-visited/hdkoggfgilbdommlpnkeljgamgemblbp)
-- [Om Malik: How FTX built a house of cards](https://om.co/2022/11/17/how-ftx-built-a-house-of-cards/)
-- [Passkeys.directory by 1password](https://passkeys.directory/)
-- [U.S. Indicts Two Russians for Running the ‘Z-Library’ Piracy Ring](https://torrentfreak.com/u-s-indicts-two-russians-for-running-the-z-library-piracy-ring221117/)
-- [Neither Here nor There](https://seths.blog/2022/11/neither-here-nor-there/)
+- [A Journey in Creating an Operating System Kernel: The 539kernel Book](https://539kernel.com/)
+- [Berkshire Hathaway Crypto &lpar;Not&rpar;](https://berkshirehathawaytx.com/)
+- [Cartier&#39;s Masse Mystérieuse Introduced at Watches and Wonders 2022](https://www.hodinkee.com/articles/the-watches-and-wondrously-strange-cartier-masse-mysterieux)
+- [Jaguar Land Rover to hire redundant Meta and Twitter staff](https://www.autocar.co.uk/car-news/business-recruitment/jaguar-land-rover-hire-redundant-meta-and-twitter-staff)
+- [What happened at the 2:00 meeting at Twitter for “anyone who can code”?](https://news.ycombinator.com/item?id=33666304)
+- [Does Time Flow? New Clues Come from a Century-Old Approach to Math &lpar;2020&rpar;](https://www.quantamagazine.org/does-time-really-flow-new-clues-come-from-a-century-old-approach-to-math-20200407/)
+- [Keep It Simple with the Hock Principle](http://blog.bernieportal.com/en/hr-party-of-one/simplicity-hock-principle)
+- [Elon Musk orders software programmers to Twitter HQ amid 1k resignations](https://fortune.com/2022/11/18/elon-musk-orders-all-coders-to-show-up-at-twitter-hq-friday-afternoon-after-data-suggests-1000-1200-employees-have-resigned/)
+- [Choosing the correct paint for unsightly heat pipes and radiators &lpar;2021&rpar;](https://ronquillopainting.com/choosing-the-correct-paint-for-those-unsightly-heat-pipes-and-radiators/)
+- [Five Intellectual Horrors of the SBF/EA Complex](https://muldoon.cloud/2022/11/14/ea.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

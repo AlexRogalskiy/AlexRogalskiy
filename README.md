@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Excitement, boycotts and rainbow protest: Qatar’s World Cup kicks off | podcast](https://www.theguardian.com/news/audio/2022/nov/18/excitement-boycotts-and-rainbow-protest-qatar-world-cup-kicks-off-podcast)
-- [Twitter ‘closes offices’ after Elon Musk’s loyalty oath sparks wave of resignations](https://www.theguardian.com/technology/2022/nov/17/elon-musk-twitter-closes-offices-loyalty-oath-resignations)
-- [North Korean ICBM lands in Japan’s exclusive economic zone, PM says](https://www.theguardian.com/world/2022/nov/18/north-korea-has-launched-suspected-icbm-intercontinental-ballistic-missile-says-south)
-- [James Webb telescope finds two of the oldest and most distant galaxies ever seen](https://www.theguardian.com/science/2022/nov/18/james-webb-telescope-finds-two-of-the-oldest-and-most-distant-galaxies-ever-seen)
-- [FBI director ‘very concerned’ by reports of secret Chinese police stations in US](https://www.theguardian.com/world/2022/nov/18/fbi-director-very-concerned-by-reports-of-secret-chinese-police-stations-in-us)
-- [Asia must not become arena for ‘big power contest’, says China’s Xi ahead of Apec summit](https://www.theguardian.com/world/2022/nov/18/asia-must-not-become-arena-for-big-power-contest-says-chinas-xi-ahead-of-apec-summit)
-- [World Cup 2022 team guides part 31: South Korea](https://www.theguardian.com/football/2022/nov/18/world-cup-2022-team-guide-south-korea)
-- [Russia-Ukraine war at a glance: what we know on day 268 of the invasion](https://www.theguardian.com/world/2022/nov/18/russia-ukraine-war-at-a-glance-what-we-know-on-day-268-of-the-invasion)
-- [December Royal Mail strike action to include Christmas Eve](https://www.theguardian.com/politics/2022/nov/17/december-royal-mail-strike-action-to-include-christmas-eve)
-- [Beer could be banned from all eight World Cup stadiums in potential U-turn](https://www.theguardian.com/football/2022/nov/17/world-cup-hosts-qatar-pressure-fifa-to-stop-beer-sales-at-stadiums)
+- [Australia v England: second one-day international – live](https://www.theguardian.com/sport/live/2022/nov/19/australia-vs-england-live-updates-score-second-one-day-international-cricket-odi-latest-scores-aus-v-eng)
+- [‘I’m afraid to have children’: fear of an older future in Japan and South Korea](https://www.theguardian.com/world/2022/nov/19/fear-older-future-japan-south-korea-birth-fertility-rates-population)
+- [Russia-Ukraine war at a glance: what we know on day 269 of the invasion](https://www.theguardian.com/world/2022/nov/19/russia-ukraine-war-at-a-glance-what-we-know-on-day-269-of-the-invasion)
+- [Jacinda Ardern raises Taiwan with Xi Jinping at Apec meeting](https://www.theguardian.com/world/2022/nov/19/jacinda-ardern-raises-taiwan-with-xi-jinping-at-apec-meeting)
+- [Search for woman swept into river ‘stood down’ as heavy rain batters Scotland](https://www.theguardian.com/uk-news/2022/nov/18/flooding-shuts-schools-and-disrupts-travel-after-heavy-rain-in-scotland)
+- [Elon Musk summons Twitter engineers to headquarters amid mass resignations](https://www.theguardian.com/technology/2022/nov/18/elon-musk-twitter-engineers-workers-mass-resignation)
+- [North Korean leader Kim Jong-un reveals daughter at ballistic missile test](https://www.theguardian.com/world/2022/nov/18/north-korean-leader-kim-jong-un-reveals-daughter-at-ballistic-missile-test)
+- [Lionel Scaloni: ‘When you play for Argentina, that grrr is always there’](https://www.theguardian.com/football/2022/nov/18/lionel-scaloni-when-you-play-for-argentina-that-grrr-is-always-there)
+- [Theranos founder Elizabeth Holmes sentenced to more than 11 years for defrauding investors](https://www.theguardian.com/us-news/2022/nov/18/elizabeth-holmes-theranos-trial-sentencing)
+- [Charlene White first to be eliminated from I’m a Celebrity](https://www.theguardian.com/tv-and-radio/2022/nov/18/charlene-white-first-to-be-eliminated-from-im-a-celebrity)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

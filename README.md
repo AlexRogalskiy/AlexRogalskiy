@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Researchers Quietly Cracked Zeppelin Ransomware Keys](https://krebsonsecurity.com/2022/11/researchers-quietly-cracked-zeppelin-ransomware-keys/)
-- [Association between Vitamin D supplementation and Covid infection and mortality](https://www.nature.com/articles/s41598-022-24053-4)
-- [How safe is ayahuasca? Large-scale study explores](https://www.technologynetworks.com/biopharma/news/how-safe-is-ayahuasca-large-scale-study-explores-367665)
-- [How the Billboard Hot 100 Lost Interest in the Key Change](https://tedium.co/2022/11/09/the-death-of-the-key-change)
-- [Neocities: A platform that lets you create your own website/follow other&#39;s sites](https://neocities.org/)
-- [Tailscale Funnel](https://tailscale.com/blog/introducing-tailscale-funnel/)
-- [ASML looking to finally get ahead of Moore’s Law](https://bits-chips.nl/artikel/asml-looking-to-finally-get-ahead-of-moores-law/)
-- [Twitter alerted employees all office buildings closed and badge access suspended](https://twitter.com/zoeschiffer/status/1593391604785504257)
-- [Hardening unused &lpar;sub&rpar;domains](https://www.mailhardener.com/kb/hardening-unused-domains)
-- [Kodable &lpar;YC IK12&rpar; Is Hiring a Full Stack Engineer to help us teach kids to code](https://www.indeed.com/job/full-stack-engineer-c4948f7319bbd2f4?_ga=2.104740672.1378721118.1668634777-1229181858.1666896160)
+- [How to Sell Tickets Fairly](https://barnabas.me/blog/2022/11/selling-tickets-fairly/)
+- [Solving Puzzles with Hypothesis](https://edoput.it/2022/11/18/hypothesis.html)
+- [$477M FTX ‘hack’ was a Bahamian government asset seizure](https://www.marketwatch.com/story/supposed-477-million-ftx-hack-was-actually-a-bahamian-government-asset-seizure-11668782216)
+- [How Windows decide whether your computer has limited or full Internet access](https://devblogs.microsoft.com/oldnewthing/20221115-00/?p=107399)
+- [es4x, a server framework on top of GraalJS and Vert.x](https://reactiverse.io/es4x/)
+- [The Centipede’s Dilemma](https://en.wikipedia.org/wiki/The_Centipede%27s_Dilemma)
+- [Use this kernel parameter in your kiosk](https://cedwards.xyz/use-this-kernel-parameter-in-your-kiosk/)
+- [Show HN: I made a free transcription service powered by Whisper AI](https://freesubtitles.ai)
+- [Elizabeth Holmes is sentenced to more than 11 years for fraud](https://www.nytimes.com/2022/11/18/technology/elizabeth-holmes-sentence-theranos.html)
+- [The stick shift might survive the electric revolution](https://robbreport.com/motors/cars/manual-transmission-electric-vehicles-future-1234774864/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

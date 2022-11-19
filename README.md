@@ -355,6 +355,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [The future of security: smarter devices that protect themselves](https://www.computerworld.com/article/3680728/the-future-of-security-smarter-devices-that-protect-themselves.html#tk.rss_all)
+- [Nvidia nudges Omniverse closer to connected digital twins — and full automation](https://www.computerworld.com/article/3680391/nvidia-nudges-omniverse-closer-to-connected-digital-twins-and-full-automation.html#tk.rss_all)
+- [Google Sheets power tips: How to use dropdown lists](https://www.computerworld.com/article/3677859/google-sheets-how-to-use-dropdown-lists.html#tk.rss_all)
 - [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
 - [Why Macs and iPhones should avoid installing &#39;orphan&#39; apps](https://www.computerworld.com/article/3680548/why-macs-and-iphones-should-avoid-installing-orphan-apps.html#tk.rss_all)
 - [How intelligent automation will change the way we work](https://www.computerworld.com/article/3680230/how-intelligent-automation-will-change-the-way-we-work.html#tk.rss_all)
@@ -362,9 +365,6 @@
 - [Offboarding processes pose security risks as job turnover increases: Report](https://www.computerworld.com/article/3680368/offboarding-processes-pose-security-risks-as-job-turnover-increases-report.html#tk.rss_all)
 - [Mosyle brings new iPhone, iPad endpoint security options](https://www.computerworld.com/article/3680232/mosyle-brings-new-iphone-ipad-endpoint-security-options.html#tk.rss_all)
 - [FTX meltdown likely to spur crypto regulations, cool digital currency push](https://www.computerworld.com/article/3680131/ftx-meltdown-likely-to-spur-crypto-regulations-cool-digital-currency-push.html#tk.rss_all)
-- [Asana to lay off 9% of its workforce to improve operating costs](https://www.computerworld.com/article/3680153/asana-to-lay-off-9-of-its-workforce-to-improve-operating-costs.html#tk.rss_all)
-- [As remote work gains favor, employees&#39; relationships to their jobs are in flux: Report](https://www.computerworld.com/article/3680152/as-remote-work-gains-favor-employees-relationships-to-their-jobs-are-in-flux-report.html#tk.rss_all)
-- [How to use Emergency SOS via satellite on iPhone 14](https://www.computerworld.com/article/3680089/how-to-use-emergency-sos-via-satellite-on-iphone-14.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

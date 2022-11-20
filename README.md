@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [How to Sell Tickets Fairly](https://barnabas.me/blog/2022/11/selling-tickets-fairly/)
-- [Solving Puzzles with Hypothesis](https://edoput.it/2022/11/18/hypothesis.html)
-- [$477M FTX ‘hack’ was a Bahamian government asset seizure](https://www.marketwatch.com/story/supposed-477-million-ftx-hack-was-actually-a-bahamian-government-asset-seizure-11668782216)
-- [How Windows decide whether your computer has limited or full Internet access](https://devblogs.microsoft.com/oldnewthing/20221115-00/?p=107399)
-- [es4x, a server framework on top of GraalJS and Vert.x](https://reactiverse.io/es4x/)
-- [The Centipede’s Dilemma](https://en.wikipedia.org/wiki/The_Centipede%27s_Dilemma)
-- [Use this kernel parameter in your kiosk](https://cedwards.xyz/use-this-kernel-parameter-in-your-kiosk/)
-- [Show HN: I made a free transcription service powered by Whisper AI](https://freesubtitles.ai)
-- [Elizabeth Holmes is sentenced to more than 11 years for fraud](https://www.nytimes.com/2022/11/18/technology/elizabeth-holmes-sentence-theranos.html)
-- [The stick shift might survive the electric revolution](https://robbreport.com/motors/cars/manual-transmission-electric-vehicles-future-1234774864/)
+- [Power struggles among nice people](https://www.edbatista.com/2022/03/power-struggles-among-nice-people.html)
+- [Closures and Objects Are Equivalent &lpar;2013&rpar;](https://wiki.c2.com/?ClosuresAndObjectsAreEquivalent)
+- [Brilliant jerks, crazy hotties, and other artifacts of range restriction &lpar;2019&rpar;](https://towardsdatascience.com/brilliant-jerks-crazy-hotties-and-other-artifacts-of-range-restriction-c53785ae249f)
+- [Tiniest x86-64-Linux emulator](https://github.com/jart/blink)
+- [Show HN: Rssnix – Unix-style filesystem-based RSS/Atom/JSON Feed fetcher/reader](https://github.com/jafarlihi/rssnix)
+- [Putting Z-Library on IPFS](http://annas-blog.org/putting-5,998,794-books-on-ipfs.html)
+- [Ask HN: What is the thing you&#39;ve built that you regret the most?](https://news.ycombinator.com/item?id=33675112)
+- [Starting FORTH &lpar;1981&rpar; [pdf]](https://www.forth.com/starting-forth/)
+- [How the famous “comfy shorts” quote worked in Japanese Pokémon](https://legendsoflocalization.com/a-look-at-pokemon-and-comfy-shorts/)
+- [Investigating why Steam started picking a random font](http://blog.pkh.me/p/35-investigating-why-steam-started-picking-a-random-font.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

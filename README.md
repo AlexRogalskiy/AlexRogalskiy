@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [A Journey in Creating an Operating System Kernel: The 539kernel Book](https://539kernel.com/)
-- [Berkshire Hathaway Crypto &lpar;Not&rpar;](https://berkshirehathawaytx.com/)
-- [Cartier&#39;s Masse Mystérieuse Introduced at Watches and Wonders 2022](https://www.hodinkee.com/articles/the-watches-and-wondrously-strange-cartier-masse-mysterieux)
-- [Jaguar Land Rover to hire redundant Meta and Twitter staff](https://www.autocar.co.uk/car-news/business-recruitment/jaguar-land-rover-hire-redundant-meta-and-twitter-staff)
-- [What happened at the 2:00 meeting at Twitter for “anyone who can code”?](https://news.ycombinator.com/item?id=33666304)
-- [Does Time Flow? New Clues Come from a Century-Old Approach to Math &lpar;2020&rpar;](https://www.quantamagazine.org/does-time-really-flow-new-clues-come-from-a-century-old-approach-to-math-20200407/)
-- [Keep It Simple with the Hock Principle](http://blog.bernieportal.com/en/hr-party-of-one/simplicity-hock-principle)
-- [Elon Musk orders software programmers to Twitter HQ amid 1k resignations](https://fortune.com/2022/11/18/elon-musk-orders-all-coders-to-show-up-at-twitter-hq-friday-afternoon-after-data-suggests-1000-1200-employees-have-resigned/)
-- [Choosing the correct paint for unsightly heat pipes and radiators &lpar;2021&rpar;](https://ronquillopainting.com/choosing-the-correct-paint-for-those-unsightly-heat-pipes-and-radiators/)
-- [Five Intellectual Horrors of the SBF/EA Complex](https://muldoon.cloud/2022/11/14/ea.html)
+- [Berkson&#39;s Paradox](https://en.wikipedia.org/wiki/Berkson%27s_paradox)
+- [Sweden: Traces of Explosives Found at Baltic Sea Pipelines](https://www.military.com/daily-news/2022/11/18/sweden-traces-of-explosives-found-baltic-sea-pipelines.html)
+- [The Curse of Unreasonably Sized Networks](https://apenwarr.ca/log/20201028)
+- [If this is real life unit test regression test](https://www.youtube.com/watch?v=esQyYGezS7c)
+- [Oikema House of Pleasure by Claude-Nicolas Ledoux &lpar;2020&rpar;](https://archeyes.com/oikema-house-pleasure-claude-nicolas-ledoux/)
+- [Taylor Swift – The Eras Tour onsale explained](https://business.ticketmaster.com/business-solutions/taylor-swift-the-eras-tour-onsale-explained/)
+- [The Arc browser is the Chrome replacement I’ve been waiting for](https://www.theverge.com/23462235/arc-web-browser-review)
+- [Ask HN: What are some startups that failed because of tone-deaf founders?](https://news.ycombinator.com/item?id=33677734)
+- [Quest for My Perfect Watch](https://lock.cmpxchg8b.com/watch.html)
+- [Elon Musk Restores Donald Trump’s Twitter Account](https://www.cnn.com/2022/11/19/business/twitter-musk-trump-reinstate/index.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Australia v England: second one-day international – live](https://www.theguardian.com/sport/live/2022/nov/19/australia-vs-england-live-updates-score-second-one-day-international-cricket-odi-latest-scores-aus-v-eng)
-- [‘I’m afraid to have children’: fear of an older future in Japan and South Korea](https://www.theguardian.com/world/2022/nov/19/fear-older-future-japan-south-korea-birth-fertility-rates-population)
-- [Russia-Ukraine war at a glance: what we know on day 269 of the invasion](https://www.theguardian.com/world/2022/nov/19/russia-ukraine-war-at-a-glance-what-we-know-on-day-269-of-the-invasion)
-- [Jacinda Ardern raises Taiwan with Xi Jinping at Apec meeting](https://www.theguardian.com/world/2022/nov/19/jacinda-ardern-raises-taiwan-with-xi-jinping-at-apec-meeting)
-- [Search for woman swept into river ‘stood down’ as heavy rain batters Scotland](https://www.theguardian.com/uk-news/2022/nov/18/flooding-shuts-schools-and-disrupts-travel-after-heavy-rain-in-scotland)
-- [Elon Musk summons Twitter engineers to headquarters amid mass resignations](https://www.theguardian.com/technology/2022/nov/18/elon-musk-twitter-engineers-workers-mass-resignation)
-- [North Korean leader Kim Jong-un reveals daughter at ballistic missile test](https://www.theguardian.com/world/2022/nov/18/north-korean-leader-kim-jong-un-reveals-daughter-at-ballistic-missile-test)
-- [Lionel Scaloni: ‘When you play for Argentina, that grrr is always there’](https://www.theguardian.com/football/2022/nov/18/lionel-scaloni-when-you-play-for-argentina-that-grrr-is-always-there)
-- [Theranos founder Elizabeth Holmes sentenced to more than 11 years for defrauding investors](https://www.theguardian.com/us-news/2022/nov/18/elizabeth-holmes-theranos-trial-sentencing)
-- [Charlene White first to be eliminated from I’m a Celebrity](https://www.theguardian.com/tv-and-radio/2022/nov/18/charlene-white-first-to-be-eliminated-from-im-a-celebrity)
+- [Russia-Ukraine war at a glance: what we know on day 270 of the invasion](https://www.theguardian.com/world/2022/nov/20/russia-ukraine-war-at-a-glance-what-we-know-on-day-270-of-the-invasion)
+- [Twitter lifts Donald Trump ban after Elon Musk’s poll](https://www.theguardian.com/us-news/2022/nov/20/twitter-lifts-donald-trump-ban-after-elon-musks-poll)
+- [Black Friday may lose its sparkle as football and inflation hit online sales](https://www.theguardian.com/business/2022/nov/20/black-friday-may-lose-its-sparkle-as-football-and-inflation-hit-online-sales)
+- [Rochdale housing boss fired after death of Awaab Ishak due to mould exposure](https://www.theguardian.com/society/2022/nov/19/awaab-ishak-death-boss-of-rochdale-housing-body-sacked)
+- [Mark Allen comeback secures UK Championship final meeting with Ding](https://www.theguardian.com/sport/2022/nov/19/mark-allen-comeback-secures-uk-championship-final-meeting-with-ding)
+- [Turkey bombs towns across northern Syria after Istanbul bombing, say reports](https://www.theguardian.com/world/2022/nov/19/turkey-bombs-towns-across-northern-syria-after-istanbul-bombing-say-reports)
+- [We Love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2022/nov/19/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Boy, 17, killed in ‘targeted attack’ in Cambridge](https://www.theguardian.com/uk-news/2022/nov/19/boy-17-stabbed-targeted-attack-cambridge)
+- [Cop27 on verge of ‘historic step’ as rich nations relent on climate aid to poor](https://www.theguardian.com/environment/2022/nov/19/cop27-divisions-and-splits-threaten-deal-to-tackle-climate-crisis)
+- [Karim Benzema ruled out of whole World Cup in major blow to France](https://www.theguardian.com/football/2022/nov/19/karim-benzema-ruled-out-of-whole-world-cup-in-major-blow-to-france)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

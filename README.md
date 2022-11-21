@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war at a glance: what we know on day 270 of the invasion](https://www.theguardian.com/world/2022/nov/20/russia-ukraine-war-at-a-glance-what-we-know-on-day-270-of-the-invasion)
-- [Twitter lifts Donald Trump ban after Elon Musk’s poll](https://www.theguardian.com/us-news/2022/nov/20/twitter-lifts-donald-trump-ban-after-elon-musks-poll)
-- [Black Friday may lose its sparkle as football and inflation hit online sales](https://www.theguardian.com/business/2022/nov/20/black-friday-may-lose-its-sparkle-as-football-and-inflation-hit-online-sales)
-- [Rochdale housing boss fired after death of Awaab Ishak due to mould exposure](https://www.theguardian.com/society/2022/nov/19/awaab-ishak-death-boss-of-rochdale-housing-body-sacked)
-- [Mark Allen comeback secures UK Championship final meeting with Ding](https://www.theguardian.com/sport/2022/nov/19/mark-allen-comeback-secures-uk-championship-final-meeting-with-ding)
-- [Turkey bombs towns across northern Syria after Istanbul bombing, say reports](https://www.theguardian.com/world/2022/nov/19/turkey-bombs-towns-across-northern-syria-after-istanbul-bombing-say-reports)
-- [We Love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2022/nov/19/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Boy, 17, killed in ‘targeted attack’ in Cambridge](https://www.theguardian.com/uk-news/2022/nov/19/boy-17-stabbed-targeted-attack-cambridge)
-- [Cop27 on verge of ‘historic step’ as rich nations relent on climate aid to poor](https://www.theguardian.com/environment/2022/nov/19/cop27-divisions-and-splits-threaten-deal-to-tackle-climate-crisis)
-- [Karim Benzema ruled out of whole World Cup in major blow to France](https://www.theguardian.com/football/2022/nov/19/karim-benzema-ruled-out-of-whole-world-cup-in-major-blow-to-france)
+- [Beyond 8 billion: why the world’s population matters – podcast](https://www.theguardian.com/news/audio/2022/nov/21/beyond-8bn-why-the-world-population-matters-podcast)
+- [Deniliquin evacuates ahead of major flooding with severe weather warnings across NSW](https://www.theguardian.com/australia-news/2022/nov/21/deniliquin-evacuates-ahead-of-major-flooding-with-severe-weather-warnings-across-nsw)
+- [What do you think about lowering New Zealand’s voting age to 16?](https://www.theguardian.com/world/2022/nov/21/what-do-you-think-about-lowering-new-zealands-voting-age-to-16)
+- [Voting age of 18 is discriminatory, New Zealand supreme court rules](https://www.theguardian.com/world/2022/nov/21/voting-age-of-18-is-discriminatory-new-zealand-supreme-court-rules)
+- [China reports first Covid death for six months as Beijing cases rise](https://www.theguardian.com/world/2022/nov/21/china-reports-first-covid-death-for-six-months-as-beijing-cases-rise)
+- [Iran arrests top actors who removed headcarves, in wider crackdown on celebrities](https://www.theguardian.com/world/2022/nov/21/iran-arrests-actors-for-removing-headscarves-in-wider-crackdown-on-celebrities)
+- [Russia-Ukraine war at a glance: what we know on day 271 of the invasion](https://www.theguardian.com/world/2022/nov/21/russia-ukraine-war-at-a-glance-what-we-know-on-day-271of-the-invasion)
+- [Paradise paused: Asia-Pacific tourism continues to lag after the Covid induced freeze](https://www.theguardian.com/world/2022/nov/21/paradise-paused-asia-pacific-tourism-continues-to-lag-after-the-covid-induced-freeze)
+- [UK restaurants going bankrupt at faster rate than during Covid](https://www.theguardian.com/business/2022/nov/21/uk-restaurants-bankrupt-faster-rate-covid-closures)
+- [Two-thirds of UK’s biggest advertisers to cut television spend](https://www.theguardian.com/media/2022/nov/21/two-thirds-uk-biggest-advertisers-cut-television-spend-digital)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

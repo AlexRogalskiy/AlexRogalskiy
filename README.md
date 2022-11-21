@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Berkson&#39;s Paradox](https://en.wikipedia.org/wiki/Berkson%27s_paradox)
-- [Sweden: Traces of Explosives Found at Baltic Sea Pipelines](https://www.military.com/daily-news/2022/11/18/sweden-traces-of-explosives-found-baltic-sea-pipelines.html)
-- [The Curse of Unreasonably Sized Networks](https://apenwarr.ca/log/20201028)
-- [If this is real life unit test regression test](https://www.youtube.com/watch?v=esQyYGezS7c)
-- [Oikema House of Pleasure by Claude-Nicolas Ledoux &lpar;2020&rpar;](https://archeyes.com/oikema-house-pleasure-claude-nicolas-ledoux/)
-- [Taylor Swift – The Eras Tour onsale explained](https://business.ticketmaster.com/business-solutions/taylor-swift-the-eras-tour-onsale-explained/)
-- [The Arc browser is the Chrome replacement I’ve been waiting for](https://www.theverge.com/23462235/arc-web-browser-review)
-- [Ask HN: What are some startups that failed because of tone-deaf founders?](https://news.ycombinator.com/item?id=33677734)
-- [Quest for My Perfect Watch](https://lock.cmpxchg8b.com/watch.html)
-- [Elon Musk Restores Donald Trump’s Twitter Account](https://www.cnn.com/2022/11/19/business/twitter-musk-trump-reinstate/index.html)
+- [The Hunt for the Dark Web’s Biggest Kingpin, Part 1](https://www.wired.com/story/alphabay-series-part-1-the-shadow/)
+- [Ask HN: What are your favorite books/courses of 2022? Why?](https://news.ycombinator.com/item?id=33688207)
+- [Year 2038 Problem](https://en.wikipedia.org/wiki/Year_2038_problem)
+- [The FLExible Network Tester](https://flent.org/)
+- [Amazon makes a new push into healthcare](https://www.economist.com/business/2022/11/20/amazon-makes-a-new-push-into-health-care)
+- [Multics Emacs History/Design &lpar;1996&rpar;](https://multicians.org/mepap.html)
+- [How Caroline Ellison Found Herself at the Center of the FTX Crypto Collapse](https://www.wsj.com/articles/how-caroline-ellison-found-herself-at-the-center-of-the-ftx-crypto-collapse-11668899604)
+- [R49081 Is Prime](https://mersenneforum.org/showpost.php?p=602219&postcount=35)
+- [Optical Proximity Correction &lpar;OPC&rpar;](https://en.wikipedia.org/wiki/Optical_proximity_correction)
+- [Disney Shocker Bob Iger Back as CEO, Bob Chapek Out](https://deadline.com/2022/11/disney-bob-iger-returns-ceo-bob-chapek-out-1235178223/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

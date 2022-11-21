@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Power struggles among nice people](https://www.edbatista.com/2022/03/power-struggles-among-nice-people.html)
-- [Closures and Objects Are Equivalent &lpar;2013&rpar;](https://wiki.c2.com/?ClosuresAndObjectsAreEquivalent)
-- [Brilliant jerks, crazy hotties, and other artifacts of range restriction &lpar;2019&rpar;](https://towardsdatascience.com/brilliant-jerks-crazy-hotties-and-other-artifacts-of-range-restriction-c53785ae249f)
-- [Tiniest x86-64-Linux emulator](https://github.com/jart/blink)
-- [Show HN: Rssnix – Unix-style filesystem-based RSS/Atom/JSON Feed fetcher/reader](https://github.com/jafarlihi/rssnix)
-- [Putting Z-Library on IPFS](http://annas-blog.org/putting-5,998,794-books-on-ipfs.html)
-- [Ask HN: What is the thing you&#39;ve built that you regret the most?](https://news.ycombinator.com/item?id=33675112)
-- [Starting FORTH &lpar;1981&rpar; [pdf]](https://www.forth.com/starting-forth/)
-- [How the famous “comfy shorts” quote worked in Japanese Pokémon](https://legendsoflocalization.com/a-look-at-pokemon-and-comfy-shorts/)
-- [Investigating why Steam started picking a random font](http://blog.pkh.me/p/35-investigating-why-steam-started-picking-a-random-font.html)
+- [Criticizing Computers](https://annasofia.xyz/2022/11/05/criticizing-computers.html)
+- [OpenZFS on OS X](https://github.com/openzfsonosx)
+- [Minecraft Running on Asahi Linux with Open Source GPU Drivers](https://social.treehouse.systems/@alyssa/109378606742926582)
+- [France bans Office 365 and Google Docs from schools and public administration](https://siecledigital.fr/2022/11/17/le-ministre-de-leducation-nationale-ne-veut-pas-de-microsoft-office-365-ni-de-google-workspace/)
+- [Username cannot contain &#39;clyde&#39;](https://old.reddit.com/r/discordapp/comments/ywjcep/cant_use_my_name/)
+- [Briar: Peer-to-Peer Encrypted Messaging](https://briarproject.org/how-it-works/)
+- [Liquid and immersion is the new cool at Supercomputing &#39;22](https://www.theregister.com/2022/11/19/liquid_cooling_sc22/)
+- [For some with ADHD, the low rumble of brown noise quiets the brain](https://www.washingtonpost.com/wellness/2022/11/14/brown-noise-adhd-focus/)
+- [DOS/4GW and Protected Mode &lpar;2021&rpar;](https://pikuma.com/blog/what-is-dos4gw-protected-mode)
+- [Kite is saying farewell and open-sourcing its code](https://www.kite.com/blog/product/kite-is-saying-farewell/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Beyond 8 billion: why the world’s population matters – podcast](https://www.theguardian.com/news/audio/2022/nov/21/beyond-8bn-why-the-world-population-matters-podcast)
-- [Deniliquin evacuates ahead of major flooding with severe weather warnings across NSW](https://www.theguardian.com/australia-news/2022/nov/21/deniliquin-evacuates-ahead-of-major-flooding-with-severe-weather-warnings-across-nsw)
-- [What do you think about lowering New Zealand’s voting age to 16?](https://www.theguardian.com/world/2022/nov/21/what-do-you-think-about-lowering-new-zealands-voting-age-to-16)
-- [Voting age of 18 is discriminatory, New Zealand supreme court rules](https://www.theguardian.com/world/2022/nov/21/voting-age-of-18-is-discriminatory-new-zealand-supreme-court-rules)
-- [China reports first Covid death for six months as Beijing cases rise](https://www.theguardian.com/world/2022/nov/21/china-reports-first-covid-death-for-six-months-as-beijing-cases-rise)
-- [Iran arrests top actors who removed headcarves, in wider crackdown on celebrities](https://www.theguardian.com/world/2022/nov/21/iran-arrests-actors-for-removing-headscarves-in-wider-crackdown-on-celebrities)
-- [Russia-Ukraine war at a glance: what we know on day 271 of the invasion](https://www.theguardian.com/world/2022/nov/21/russia-ukraine-war-at-a-glance-what-we-know-on-day-271of-the-invasion)
-- [Paradise paused: Asia-Pacific tourism continues to lag after the Covid induced freeze](https://www.theguardian.com/world/2022/nov/21/paradise-paused-asia-pacific-tourism-continues-to-lag-after-the-covid-induced-freeze)
-- [UK restaurants going bankrupt at faster rate than during Covid](https://www.theguardian.com/business/2022/nov/21/uk-restaurants-bankrupt-faster-rate-covid-closures)
-- [Two-thirds of UK’s biggest advertisers to cut television spend](https://www.theguardian.com/media/2022/nov/21/two-thirds-uk-biggest-advertisers-cut-television-spend-digital)
+- [Jury deliberations begin in January 6 sedition trial of Oath Keepers founder](https://www.theguardian.com/us-news/2022/nov/21/jan-6-oath-keepers-founder-stewart-rhodes-sedition-trial)
+- [One dead and 16 injured after SUV slams into Massachusetts Apple store](https://www.theguardian.com/technology/2022/nov/21/apple-massachusetts-store-one-dead-usa)
+- [Here’s the tragedy of ‘mateship’ – many men just don’t talk about stuff that really matters | Paul Daley](https://www.theguardian.com/commentisfree/2022/nov/22/heres-the-tragedy-of-mateship-many-men-just-dont-talk-about-stuff-that-really-matters)
+- [Jay Leno released from hospital after suffering serious burns in car fire](https://www.theguardian.com/media/2022/nov/21/jay-leno-burned-hospital-released-car-fire)
+- [Indonesian earthquake: rescuers search for survivors trapped in rubble](https://www.theguardian.com/world/2022/nov/22/indonesian-earthquake-rescuers-search-for-survivors-trapped-in-rubble)
+- [Colorado Springs shooting: suspect faces murder and hate crime charges](https://www.theguardian.com/us-news/2022/nov/21/colorado-springs-shooting-mayor-hate-crime)
+- [Dozens dead in factory fire in Chinese city of Anyang – state media](https://www.theguardian.com/world/2022/nov/22/factory-fire-deaths-chinese-city-anyang-henan-china)
+- [Victims of Colorado Springs shooting remembered: ‘He lit up a room’](https://www.theguardian.com/us-news/2022/nov/21/colorado-springs-shooting-victims)
+- [Indonesia earthquake: lives and homes left ruined in Java – in pictures](https://www.theguardian.com/world/gallery/2022/nov/22/indonesia-earthquake-2022-java-in-pictures)
+- [Prosecution rests case early in Trump Organization tax fraud trial](https://www.theguardian.com/us-news/2022/nov/21/trump-organization-tax-fraud-trial)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

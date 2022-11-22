@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Criticizing Computers](https://annasofia.xyz/2022/11/05/criticizing-computers.html)
-- [OpenZFS on OS X](https://github.com/openzfsonosx)
-- [Minecraft Running on Asahi Linux with Open Source GPU Drivers](https://social.treehouse.systems/@alyssa/109378606742926582)
-- [France bans Office 365 and Google Docs from schools and public administration](https://siecledigital.fr/2022/11/17/le-ministre-de-leducation-nationale-ne-veut-pas-de-microsoft-office-365-ni-de-google-workspace/)
-- [Username cannot contain &#39;clyde&#39;](https://old.reddit.com/r/discordapp/comments/ywjcep/cant_use_my_name/)
-- [Briar: Peer-to-Peer Encrypted Messaging](https://briarproject.org/how-it-works/)
-- [Liquid and immersion is the new cool at Supercomputing &#39;22](https://www.theregister.com/2022/11/19/liquid_cooling_sc22/)
-- [For some with ADHD, the low rumble of brown noise quiets the brain](https://www.washingtonpost.com/wellness/2022/11/14/brown-noise-adhd-focus/)
-- [DOS/4GW and Protected Mode &lpar;2021&rpar;](https://pikuma.com/blog/what-is-dos4gw-protected-mode)
-- [Kite is saying farewell and open-sourcing its code](https://www.kite.com/blog/product/kite-is-saying-farewell/)
+- [One wierd trick can save Californians $37](https://news.ycombinator.com/item?id=33701036)
+- [Deus Ex: Human Revolution in &lpar;up to&rpar; gigapixel panoramas](https://joumxyzptlk.de/deusex_panorama.html)
+- [Amazon Alexa is a “colossal failure,” on pace to lose $10B this year](https://arstechnica.com/gadgets/2022/11/amazon-alexa-is-a-colossal-failure-on-pace-to-lose-10-billion-this-year/)
+- [Basics of Concrete Barriers](https://highways.dot.gov/public-roads/marchapril-2000/basics-concrete-barriers)
+- [Show HN: Wiretap – Transparent WireGuard proxy server without root](https://github.com/sandialabs/wiretap)
+- [Moving Away from UUIDs](https://neilmadden.blog/2018/08/30/moving-away-from-uuids/)
+- [Kubeshark: The API Traffic Viewer for Kubernetes](https://github.com/kubeshark/kubeshark)
+- [Is wine fake?](https://asteriskmag.com/issues/1/is-wine-fake)
+- [Eye of the Beholder: C64 Port](https://bitbucket.org/JackAsser/eye-of-the-beholder-c64/src/master/)
+- [The Last Ridge Racer](https://arcadeblogger.com/2022/11/20/the-last-ridge-racer/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

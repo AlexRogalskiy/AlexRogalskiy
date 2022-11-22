@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Hunt for the Dark Web’s Biggest Kingpin, Part 1](https://www.wired.com/story/alphabay-series-part-1-the-shadow/)
-- [Ask HN: What are your favorite books/courses of 2022? Why?](https://news.ycombinator.com/item?id=33688207)
-- [Year 2038 Problem](https://en.wikipedia.org/wiki/Year_2038_problem)
-- [The FLExible Network Tester](https://flent.org/)
-- [Amazon makes a new push into healthcare](https://www.economist.com/business/2022/11/20/amazon-makes-a-new-push-into-health-care)
-- [Multics Emacs History/Design &lpar;1996&rpar;](https://multicians.org/mepap.html)
-- [How Caroline Ellison Found Herself at the Center of the FTX Crypto Collapse](https://www.wsj.com/articles/how-caroline-ellison-found-herself-at-the-center-of-the-ftx-crypto-collapse-11668899604)
-- [R49081 Is Prime](https://mersenneforum.org/showpost.php?p=602219&postcount=35)
-- [Optical Proximity Correction &lpar;OPC&rpar;](https://en.wikipedia.org/wiki/Optical_proximity_correction)
-- [Disney Shocker Bob Iger Back as CEO, Bob Chapek Out](https://deadline.com/2022/11/disney-bob-iger-returns-ceo-bob-chapek-out-1235178223/)
+- [Russia Releases Detailed Views of Its ‘Satan’ Missile](https://www.thedrive.com/the-war-zone/russia-releases-incredibly-detailed-views-of-its-massive-satan-missile)
+- [An offshore workforce is training Amazon’s warehouse-monitoring algorithms](https://www.theverge.com/2022/11/21/23466219/amazon-warehouse-surveillance-camera-offshore-workers-india-costa-rica)
+- [‘Do You Want to Rebuild at 80?’ Rethinking Where to Retire](https://www.nytimes.com/2022/11/18/business/where-to-retire-climate-change.html)
+- [Twitter is making DMs encrypted and adding video, voice chat, per Elon Musk](https://www.theverge.com/2022/11/21/23472174/twitter-dms-encrypted-elon-musk-voice-video-calling)
+- [Tumblr to add support for ActivityPub, the protocol powering Mastodon](https://techcrunch.com/2022/11/21/tumblr-to-add-support-for-activitypub-the-social-protocol-powering-mastodon-and-other-apps/)
+- [Little Languages Are the Future of Programming](https://chreke.com/little-languages.html)
+- [The World – Residences at Sea](https://aboardtheworld.com/)
+- [Show HN: ossrank.com/compare](https://rywalker.com/comparing-open-source-projects-3c45ce0c8ae5)
+- [ROBLOX_OOF.mp3, or let&#39;s not leave it to liars &amp; opportunists to make up history](https://www.youtube.com/watch?v=0twDETh6QaI)
+- [Over 200k Servers in One Place - Visiting Hetzner in Falkenstein &lpar;2021&rpar;](https://www.youtube.com/watch?v=5eo8nz_niiM)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

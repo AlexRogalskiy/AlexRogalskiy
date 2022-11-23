@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Russia Releases Detailed Views of Its ‘Satan’ Missile](https://www.thedrive.com/the-war-zone/russia-releases-incredibly-detailed-views-of-its-massive-satan-missile)
-- [An offshore workforce is training Amazon’s warehouse-monitoring algorithms](https://www.theverge.com/2022/11/21/23466219/amazon-warehouse-surveillance-camera-offshore-workers-india-costa-rica)
-- [‘Do You Want to Rebuild at 80?’ Rethinking Where to Retire](https://www.nytimes.com/2022/11/18/business/where-to-retire-climate-change.html)
-- [Twitter is making DMs encrypted and adding video, voice chat, per Elon Musk](https://www.theverge.com/2022/11/21/23472174/twitter-dms-encrypted-elon-musk-voice-video-calling)
-- [Tumblr to add support for ActivityPub, the protocol powering Mastodon](https://techcrunch.com/2022/11/21/tumblr-to-add-support-for-activitypub-the-social-protocol-powering-mastodon-and-other-apps/)
-- [Little Languages Are the Future of Programming](https://chreke.com/little-languages.html)
-- [The World – Residences at Sea](https://aboardtheworld.com/)
-- [Show HN: ossrank.com/compare](https://rywalker.com/comparing-open-source-projects-3c45ce0c8ae5)
-- [ROBLOX_OOF.mp3, or let&#39;s not leave it to liars &amp; opportunists to make up history](https://www.youtube.com/watch?v=0twDETh6QaI)
-- [Over 200k Servers in One Place - Visiting Hetzner in Falkenstein &lpar;2021&rpar;](https://www.youtube.com/watch?v=5eo8nz_niiM)
+- [Where Will the Thousands of Laid-Off Tech Workers Go?](https://slate.com/technology/2022/11/tech-jobs-hiring-amazon-meta-twitter-layoffs.html)
+- [Apple Nearing Deal for Michael Lewis&#39; Book Rights on Story of Sam Bankman-Fried](https://deadline.com/2022/11/apple-deal-michael-lewis-book-crypto-king-sam-bankman-fried-ftx-1235180511/)
+- [LG Chem is going to build a $3B EV battery cathode factory – largest in the US](https://electrek.co/2022/11/22/lg-chem-ev-battery-cathode-factory/)
+- [Grace Hopper: Full Lecture at the University of Tennessee &lpar;1983&rpar;](https://www.youtube.com/watch?v=wHdHCoeUbU4)
+- [Measuring Perception in AI Models](https://www.deepmind.com/blog/measuring-perception-in-ai-models)
+- [Moonlight Maze](https://en.wikipedia.org/wiki/Moonlight_Maze)
+- [A lightswitch so good they made it illegal](https://www.youtube.com/watch?v=y59h-9rXALY)
+- [Amazon makes a new push into health care](https://www.economist.com/business/2022/11/20/amazon-makes-a-new-push-into-health-care)
+- [Drought Reveals Rare American Lion Fossil in Dried Up Mississippi River](https://www.smithsonianmag.com/smart-news/drought-reveals-rare-american-lion-fossil-in-dried-up-mississippi-river-180981166/)
+- [Plastics tsunami: Can a landmark treaty stop waste from choking the oceans?](https://www.nature.com/articles/d41586-022-03793-3)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

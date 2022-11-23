@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [One wierd trick can save Californians $37](https://news.ycombinator.com/item?id=33701036)
-- [Deus Ex: Human Revolution in &lpar;up to&rpar; gigapixel panoramas](https://joumxyzptlk.de/deusex_panorama.html)
-- [Amazon Alexa is a “colossal failure,” on pace to lose $10B this year](https://arstechnica.com/gadgets/2022/11/amazon-alexa-is-a-colossal-failure-on-pace-to-lose-10-billion-this-year/)
-- [Basics of Concrete Barriers](https://highways.dot.gov/public-roads/marchapril-2000/basics-concrete-barriers)
-- [Show HN: Wiretap – Transparent WireGuard proxy server without root](https://github.com/sandialabs/wiretap)
-- [Moving Away from UUIDs](https://neilmadden.blog/2018/08/30/moving-away-from-uuids/)
-- [Kubeshark: The API Traffic Viewer for Kubernetes](https://github.com/kubeshark/kubeshark)
-- [Is wine fake?](https://asteriskmag.com/issues/1/is-wine-fake)
-- [Eye of the Beholder: C64 Port](https://bitbucket.org/JackAsser/eye-of-the-beholder-c64/src/master/)
-- [The Last Ridge Racer](https://arcadeblogger.com/2022/11/20/the-last-ridge-racer/)
+- [Department of Defense Releases Zero Trust Strategy and Roadmap](https://www.defense.gov/News/Releases/Release/Article/3225919/department-of-defense-releases-zero-trust-strategy-and-roadmap/)
+- [Safely writing code that isn&#39;t thread-safe: An under-appreciated Rust feature](http://cliffle.com/blog/not-thread-safe/)
+- [Against Parasite Publishers: Making Journals Free](https://zenodo.org/record/7212922)
+- [The Twitter Advertiser Exodus](https://caterina.net/2022/11/21/the-twitter-advertiser-exodus/)
+- [AP fired reporter after dangerous blunder – Slack chats reveal chaotic process](https://www.semafor.com/article/11/22/2022/ap-fired-a-reporter-after-a-dangerous-blunder-slack-messages-reveal-a-chaotic-process)
+- [NASA Uses RISC-V Vector Spec to Soup Up Space Computers](https://www.eetimes.com/nasa-uses-risc-v-vector-spec-to-soup-up-space-computers/)
+- [Show HN: Visualising real-time Sydney bus congestion with Marey charts](https://jakecoppinger.com/2022/11/visualising-sydney-bus-congestion-with-marey-charts/)
+- [Gratitude is a secret weapon for attracting more opportunities](https://www.exaltitude.io/blogs/why-gratitude-is-the-secret-weapon-for-attracting-more-opportunities-and-creating-positive-change)
+- [Decades of air pollution undermine the immune system](https://www.cuimc.columbia.edu/news/decades-air-pollution-undermine-immune-system)
+- [Building the fastest Lua interpreter automatically](https://sillycross.github.io/2022/11/22/2022-11-22/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

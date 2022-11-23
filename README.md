@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Tech layoffs in 2022: A timeline](https://www.computerworld.com/article/3679733/tech-layoffs-in-2022-a-timeline.html#tk.rss_all)
+- [Zoom sales growth slows as online business slumps in post-pandemic era](https://www.computerworld.com/article/3680374/zoom-sales-growth-slows-as-online-business-slumps-in-post-pandemic-era.html#tk.rss_all)
+- [Apple, Google face legal pressure over UK mobile services dominance](https://www.computerworld.com/article/3680394/apple-google-face-legal-pressure-over-uk-mobile-services-dominance.html#tk.rss_all)
+- [Is ChromeOS right for you? A 4-question quiz to find out](https://www.computerworld.com/article/2893364/is-chrome-os-right-for-you.html#tk.rss_all)
 - [Amazon shuts Wickr Me encrypted messaging service; enterprise service remains](https://www.computerworld.com/article/3680554/amazon-shuts-wickr-me-encrypted-messaging-service-enterprise-service-remains.html#tk.rss_all)
 - [Spot virtual workplace creators on the future of work](https://www.computerworld.com/article/3680573/spot-virtual-workplace-creators-on-the-future-of-work.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [Making sense of out-of-band Windows updates and KIRs](https://www.computerworld.com/article/3680574/out-of-band-windows-updates-and-known-issue-rollbacks-explained.html#tk.rss_all)
 - [What Amazon, Twitter, Meta, and others got wrong with layoffs](https://www.computerworld.com/article/3680448/what-amazon-twitter-meta-and-others-got-wrong-with-layoffs.html#tk.rss_all)
 - [The future of security: smarter devices that protect themselves](https://www.computerworld.com/article/3680728/the-future-of-security-smarter-devices-that-protect-themselves.html#tk.rss_all)
-- [Nvidia nudges Omniverse closer to connected digital twins — and full automation](https://www.computerworld.com/article/3680391/nvidia-nudges-omniverse-closer-to-connected-digital-twins-and-full-automation.html#tk.rss_all)
-- [Google Sheets power tips: How to use dropdown lists](https://www.computerworld.com/article/3677859/google-sheets-how-to-use-dropdown-lists.html#tk.rss_all)
-- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
-- [Why Macs and iPhones should avoid installing &#39;orphan&#39; apps](https://www.computerworld.com/article/3680548/why-macs-and-iphones-should-avoid-installing-orphan-apps.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

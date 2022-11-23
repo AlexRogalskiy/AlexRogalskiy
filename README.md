@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Jury deliberations begin in January 6 sedition trial of Oath Keepers founder](https://www.theguardian.com/us-news/2022/nov/21/jan-6-oath-keepers-founder-stewart-rhodes-sedition-trial)
-- [One dead and 16 injured after SUV slams into Massachusetts Apple store](https://www.theguardian.com/technology/2022/nov/21/apple-massachusetts-store-one-dead-usa)
-- [Here’s the tragedy of ‘mateship’ – many men just don’t talk about stuff that really matters | Paul Daley](https://www.theguardian.com/commentisfree/2022/nov/22/heres-the-tragedy-of-mateship-many-men-just-dont-talk-about-stuff-that-really-matters)
-- [Jay Leno released from hospital after suffering serious burns in car fire](https://www.theguardian.com/media/2022/nov/21/jay-leno-burned-hospital-released-car-fire)
-- [Indonesian earthquake: rescuers search for survivors trapped in rubble](https://www.theguardian.com/world/2022/nov/22/indonesian-earthquake-rescuers-search-for-survivors-trapped-in-rubble)
-- [Colorado Springs shooting: suspect faces murder and hate crime charges](https://www.theguardian.com/us-news/2022/nov/21/colorado-springs-shooting-mayor-hate-crime)
-- [Dozens dead in factory fire in Chinese city of Anyang – state media](https://www.theguardian.com/world/2022/nov/22/factory-fire-deaths-chinese-city-anyang-henan-china)
-- [Victims of Colorado Springs shooting remembered: ‘He lit up a room’](https://www.theguardian.com/us-news/2022/nov/21/colorado-springs-shooting-victims)
-- [Indonesia earthquake: lives and homes left ruined in Java – in pictures](https://www.theguardian.com/world/gallery/2022/nov/22/indonesia-earthquake-2022-java-in-pictures)
-- [Prosecution rests case early in Trump Organization tax fraud trial](https://www.theguardian.com/us-news/2022/nov/21/trump-organization-tax-fraud-trial)
+- [Kyiv demands apology after PM Orbán wears scarf showing parts of Ukraine as Hungarian](https://www.theguardian.com/world/2022/nov/23/hungary-pm-viktor-orban-scarf-showing-ukraine-territory-hungarian)
+- [Bolsonaro derided for ‘senseless’ challenge to Brazil election he lost last month](https://www.theguardian.com/world/2022/nov/23/bolsonaro-derided-for-senseless-challenge-to-brazil-election-he-lost-last-month)
+- [Simu Liu criticises Quentin Tarantino after director laments the ‘Marvelisation of Hollywood’](https://www.theguardian.com/culture/2022/nov/23/simu-liu-criticises-quentin-tarantino-after-director-laments-the-marvelisation-of-hollywood)
+- [Iran planning massive expansion of uranium capacity – UN nuclear watchdog](https://www.theguardian.com/world/2022/nov/23/iran-planning-massive-expansion-of-uranium-capacity-un-nuclear-watchdog)
+- [Russia-Ukraine war at a glance: what we know on day 273 of the invasion](https://www.theguardian.com/world/2022/nov/23/russia-ukraine-war-at-a-glance-what-we-know-on-day-273-of-the-invasion)
+- [Severely ill refusing sicknotes as they cannot afford time off, says GPs’ head](https://www.theguardian.com/business/2022/nov/22/severely-ill-refusing-sicknotes-as-they-cannot-afford-not-to-work-says-gps-head)
+- [Menopausal women in NHS England workforce to be offered flexible working](https://www.theguardian.com/society/2022/nov/23/menopausal-women-in-nhs-england-workforce-to-be-offered-flexible-working)
+- [UK’s digital services tax reaps almost £360m from US tech giants in first year](https://www.theguardian.com/technology/2022/nov/23/uks-digital-services-tax-reaps-almost-360m-from-us-tech-giants-in-first-year)
+- [Keir Starmer walks fine line in shifting Labour’s stance on immigration](https://www.theguardian.com/politics/2022/nov/23/keir-starmer-walks-fine-line-shifting-labour-stance-immigration)
+- [Tens of thousands of Scotland’s teachers to strike on Thursday](https://www.theguardian.com/uk-news/2022/nov/22/tens-of-thousands-of-scotlands-teachers-to-strike-on-thursday)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

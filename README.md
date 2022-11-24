@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Kyiv demands apology after PM Orbán wears scarf showing parts of Ukraine as Hungarian](https://www.theguardian.com/world/2022/nov/23/hungary-pm-viktor-orban-scarf-showing-ukraine-territory-hungarian)
-- [Bolsonaro derided for ‘senseless’ challenge to Brazil election he lost last month](https://www.theguardian.com/world/2022/nov/23/bolsonaro-derided-for-senseless-challenge-to-brazil-election-he-lost-last-month)
-- [Simu Liu criticises Quentin Tarantino after director laments the ‘Marvelisation of Hollywood’](https://www.theguardian.com/culture/2022/nov/23/simu-liu-criticises-quentin-tarantino-after-director-laments-the-marvelisation-of-hollywood)
-- [Iran planning massive expansion of uranium capacity – UN nuclear watchdog](https://www.theguardian.com/world/2022/nov/23/iran-planning-massive-expansion-of-uranium-capacity-un-nuclear-watchdog)
-- [Russia-Ukraine war at a glance: what we know on day 273 of the invasion](https://www.theguardian.com/world/2022/nov/23/russia-ukraine-war-at-a-glance-what-we-know-on-day-273-of-the-invasion)
-- [Severely ill refusing sicknotes as they cannot afford time off, says GPs’ head](https://www.theguardian.com/business/2022/nov/22/severely-ill-refusing-sicknotes-as-they-cannot-afford-not-to-work-says-gps-head)
-- [Menopausal women in NHS England workforce to be offered flexible working](https://www.theguardian.com/society/2022/nov/23/menopausal-women-in-nhs-england-workforce-to-be-offered-flexible-working)
-- [UK’s digital services tax reaps almost £360m from US tech giants in first year](https://www.theguardian.com/technology/2022/nov/23/uks-digital-services-tax-reaps-almost-360m-from-us-tech-giants-in-first-year)
-- [Keir Starmer walks fine line in shifting Labour’s stance on immigration](https://www.theguardian.com/politics/2022/nov/23/keir-starmer-walks-fine-line-shifting-labour-stance-immigration)
-- [Tens of thousands of Scotland’s teachers to strike on Thursday](https://www.theguardian.com/uk-news/2022/nov/22/tens-of-thousands-of-scotlands-teachers-to-strike-on-thursday)
+- [Names of six victims released in shooting at Virginia Walmart](https://www.theguardian.com/us-news/2022/nov/23/multiple-deaths-after-shooting-at-walmart-in-chesapeake-virginia)
+- [Brazil judge fines Bolsonaro allies millions after ‘bad faith’ election challenge](https://www.theguardian.com/world/2022/nov/24/brazil-judge-fines-bolsonaro-allies-millions-after-bad-faith-election-challenge)
+- [Mary Peltola, first Alaska Native in Congress, wins bid to retain seat](https://www.theguardian.com/us-news/2022/nov/23/mary-peltola-wins-alaska-democrat)
+- [Russia strikes are crime against humanity, Zelenskiy tells UN, as power cut in Ukraine and Moldova](https://www.theguardian.com/world/2022/nov/24/russia-strikes-are-against-humanity-zelenskiy-tells-un-as-power-cut-in-ukraine-and-moldova)
+- [Fighting an exodus, Hong Kong faces a tough task to lure back young people](https://www.theguardian.com/world/2022/nov/24/fighting-an-exodus-hong-kong-faces-a-tough-task-to-lure-back-young-people)
+- [Ticketmaster’s Taylor Swift chaos triggers US Senate antitrust hearing](https://www.theguardian.com/music/2022/nov/24/ticketmaster-taylor-swift-eras-tour-ticket-chaos-us-senate-antitrust-hearing)
+- [Six men charged over international drug ring after Sydney dawn raids seize cash, cocaine and crypto](https://www.theguardian.com/australia-news/2022/nov/24/six-men-charged-over-international-drug-ring-after-dawn-raids-seize-cash-cocaine-and-crypto)
+- [Airport security rules on liquids and laptops could be lifted in UK in 2024 – reports](https://www.theguardian.com/uk-news/2022/nov/23/airport-security-rules-on-liquids-and-laptops-could-be-lifted-in-uk-in-2024-reports)
+- [Michael Gove cuts funding to Rochdale housing association where child died](https://www.theguardian.com/society/2022/nov/24/michael-gove-cuts-funding-to-rochdale-housing-association-where-child-died)
+- [UK aid to Afghanistan entrenched corruption and injustice, report finds](https://www.theguardian.com/world/2022/nov/24/uk-aid-to-afghanistan-entrenched-corruption-and-injustice-report-finds)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

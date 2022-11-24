@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Changes to Google&#39;s employee appraisal system stir layoff fears](https://www.computerworld.com/article/3681109/changes-to-googles-employee-appraisal-system-stir-layoff-fears.html#tk.rss_all)
+- [HP to cut up to 6,000 staff in plan to mitigate PC market softness](https://www.computerworld.com/article/3681068/hp-to-cut-up-to-6000-staff-in-plan-to-mitigate-pc-market-softness.html#tk.rss_all)
+- [Apple has improved Mac MDM with this important feature](https://www.computerworld.com/article/3680396/apple-has-improved-mac-mdm-with-this-important-feature.html#tk.rss_all)
+- [Demand for IT pros remains high even as layoffs continue](https://www.computerworld.com/article/3680731/demand-for-it-pros-remains-high-even-as-layoffs-continue.html#tk.rss_all)
 - [Tech layoffs in 2022: A timeline](https://www.computerworld.com/article/3679733/tech-layoffs-in-2022-a-timeline.html#tk.rss_all)
 - [Zoom sales growth slows as online business slumps in post-pandemic era](https://www.computerworld.com/article/3680374/zoom-sales-growth-slows-as-online-business-slumps-in-post-pandemic-era.html#tk.rss_all)
 - [Apple, Google face legal pressure over UK mobile services dominance](https://www.computerworld.com/article/3680394/apple-google-face-legal-pressure-over-uk-mobile-services-dominance.html#tk.rss_all)
 - [Is ChromeOS right for you? A 4-question quiz to find out](https://www.computerworld.com/article/2893364/is-chrome-os-right-for-you.html#tk.rss_all)
 - [Amazon shuts Wickr Me encrypted messaging service; enterprise service remains](https://www.computerworld.com/article/3680554/amazon-shuts-wickr-me-encrypted-messaging-service-enterprise-service-remains.html#tk.rss_all)
 - [Spot virtual workplace creators on the future of work](https://www.computerworld.com/article/3680573/spot-virtual-workplace-creators-on-the-future-of-work.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [Making sense of out-of-band Windows updates and KIRs](https://www.computerworld.com/article/3680574/out-of-band-windows-updates-and-known-issue-rollbacks-explained.html#tk.rss_all)
-- [What Amazon, Twitter, Meta, and others got wrong with layoffs](https://www.computerworld.com/article/3680448/what-amazon-twitter-meta-and-others-got-wrong-with-layoffs.html#tk.rss_all)
-- [The future of security: smarter devices that protect themselves](https://www.computerworld.com/article/3680728/the-future-of-security-smarter-devices-that-protect-themselves.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

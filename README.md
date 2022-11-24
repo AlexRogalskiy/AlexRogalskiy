@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Where Will the Thousands of Laid-Off Tech Workers Go?](https://slate.com/technology/2022/11/tech-jobs-hiring-amazon-meta-twitter-layoffs.html)
-- [Apple Nearing Deal for Michael Lewis&#39; Book Rights on Story of Sam Bankman-Fried](https://deadline.com/2022/11/apple-deal-michael-lewis-book-crypto-king-sam-bankman-fried-ftx-1235180511/)
-- [LG Chem is going to build a $3B EV battery cathode factory – largest in the US](https://electrek.co/2022/11/22/lg-chem-ev-battery-cathode-factory/)
-- [Grace Hopper: Full Lecture at the University of Tennessee &lpar;1983&rpar;](https://www.youtube.com/watch?v=wHdHCoeUbU4)
-- [Measuring Perception in AI Models](https://www.deepmind.com/blog/measuring-perception-in-ai-models)
-- [Moonlight Maze](https://en.wikipedia.org/wiki/Moonlight_Maze)
-- [A lightswitch so good they made it illegal](https://www.youtube.com/watch?v=y59h-9rXALY)
-- [Amazon makes a new push into health care](https://www.economist.com/business/2022/11/20/amazon-makes-a-new-push-into-health-care)
-- [Drought Reveals Rare American Lion Fossil in Dried Up Mississippi River](https://www.smithsonianmag.com/smart-news/drought-reveals-rare-american-lion-fossil-in-dried-up-mississippi-river-180981166/)
-- [Plastics tsunami: Can a landmark treaty stop waste from choking the oceans?](https://www.nature.com/articles/d41586-022-03793-3)
+- [Reactivating suspended Facebook account of Hungarian anti-government activist](https://news.ycombinator.com/item?id=33727285)
+- [US military goes zero-trust on software](https://www.theregister.com/2022/11/23/dod_cisa_omb_cybersecurity/)
+- [Shutting Down Deadpendency](https://alistairb.dev/shutting-down-deadpendency/)
+- [Building a life with purpose after loss](https://community.thriveglobal.com/building-a-life-with-purpose-after-loss/)
+- [My Doom Emacs configuration, with commentary](https://zzamboni.org/post/my-doom-emacs-configuration-with-commentary/)
+- [The Beauty of Databases](https://aman-agarwal.com/2022/11/02/databases-explained/)
+- [Switching to Doom Emacs](https://ethanaa.com/blog/switching-to-doom-emacs/#doom-emacs)
+- [Repository archive date now shown in UI](https://github.blog/changelog/2022-11-23-repository-archive-date-now-shown-in-ui/)
+- [Injections for diabetes, cancer could become unnecessary](https://news.ucr.edu/articles/2022/11/10/injections-diabetes-cancer-could-become-unnecessary)
+- [The waning days of DEI&#39;s dominance](https://world.hey.com/dhh/the-waning-days-of-dei-s-dominance-9a5b656c)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

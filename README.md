@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Department of Defense Releases Zero Trust Strategy and Roadmap](https://www.defense.gov/News/Releases/Release/Article/3225919/department-of-defense-releases-zero-trust-strategy-and-roadmap/)
-- [Safely writing code that isn&#39;t thread-safe: An under-appreciated Rust feature](http://cliffle.com/blog/not-thread-safe/)
-- [Against Parasite Publishers: Making Journals Free](https://zenodo.org/record/7212922)
-- [The Twitter Advertiser Exodus](https://caterina.net/2022/11/21/the-twitter-advertiser-exodus/)
-- [AP fired reporter after dangerous blunder – Slack chats reveal chaotic process](https://www.semafor.com/article/11/22/2022/ap-fired-a-reporter-after-a-dangerous-blunder-slack-messages-reveal-a-chaotic-process)
-- [NASA Uses RISC-V Vector Spec to Soup Up Space Computers](https://www.eetimes.com/nasa-uses-risc-v-vector-spec-to-soup-up-space-computers/)
-- [Show HN: Visualising real-time Sydney bus congestion with Marey charts](https://jakecoppinger.com/2022/11/visualising-sydney-bus-congestion-with-marey-charts/)
-- [Gratitude is a secret weapon for attracting more opportunities](https://www.exaltitude.io/blogs/why-gratitude-is-the-secret-weapon-for-attracting-more-opportunities-and-creating-positive-change)
-- [Decades of air pollution undermine the immune system](https://www.cuimc.columbia.edu/news/decades-air-pollution-undermine-immune-system)
-- [Building the fastest Lua interpreter automatically](https://sillycross.github.io/2022/11/22/2022-11-22/)
+- [Show HN: Could you be a web designer?](https://www.kapwing.com/could-you-be-a-web-designer)
+- [Rebuilding after the replication crisis](https://asteriskmag.com/issues/1/rebuilding-after-the-replication-crisis)
+- [Stable Diffusion 2.0 Release](https://stability.ai/blog/stable-diffusion-v2-release)
+- [Earth might be experiencing 7th mass extinction, not 6th](https://news.ucr.edu/articles/2022/11/22/earth-might-be-experiencing-7th-mass-extinction-not-6th)
+- [Socrates on the forgetfulness that comes with writing](https://newlearningonline.com/literacies/chapter-1/socrates-on-the-forgetfulness-that-comes-with-writing)
+- [First active chemistry on an exoplanet revealed by Webb telescope](https://www.nature.com/articles/d41586-022-03820-3)
+- [Westinghouse sees a tech disrupter in its eVinci microreactor](https://www.power-eng.com/nuclear/westinghouse-sees-a-tech-disrupter-in-its-evinci-microreactor/)
+- [Ruby concurrency is hard: how I became a Ruby on Rails contributor](https://mensfeld.pl/2022/11/ruby-concurrency-is-hard-how-i-became-a-ruby-on-rails-contributor/)
+- [Guide to Lock Convoys](https://davekilian.com/lock-convoys.html)
+- [What if we talked about over-60s’ screen time as we talk about young people’s?](https://webdevlaw.uk/2022/08/18/a-thought-experiment-what-if-we-talked-about-the-over-60s-screen-time-the-way-we-talk-about-young-peoples-screen-time/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Show HN: Could you be a web designer?](https://www.kapwing.com/could-you-be-a-web-designer)
-- [Rebuilding after the replication crisis](https://asteriskmag.com/issues/1/rebuilding-after-the-replication-crisis)
-- [Stable Diffusion 2.0 Release](https://stability.ai/blog/stable-diffusion-v2-release)
-- [Earth might be experiencing 7th mass extinction, not 6th](https://news.ucr.edu/articles/2022/11/22/earth-might-be-experiencing-7th-mass-extinction-not-6th)
-- [Socrates on the forgetfulness that comes with writing](https://newlearningonline.com/literacies/chapter-1/socrates-on-the-forgetfulness-that-comes-with-writing)
-- [First active chemistry on an exoplanet revealed by Webb telescope](https://www.nature.com/articles/d41586-022-03820-3)
-- [Westinghouse sees a tech disrupter in its eVinci microreactor](https://www.power-eng.com/nuclear/westinghouse-sees-a-tech-disrupter-in-its-evinci-microreactor/)
-- [Ruby concurrency is hard: how I became a Ruby on Rails contributor](https://mensfeld.pl/2022/11/ruby-concurrency-is-hard-how-i-became-a-ruby-on-rails-contributor/)
-- [Guide to Lock Convoys](https://davekilian.com/lock-convoys.html)
-- [What if we talked about over-60s’ screen time as we talk about young people’s?](https://webdevlaw.uk/2022/08/18/a-thought-experiment-what-if-we-talked-about-the-over-60s-screen-time-the-way-we-talk-about-young-peoples-screen-time/)
+- [“You don&#39;t have a voltmeter. Do you have a potato?”](https://diy.stackexchange.com/a/252050)
+- [Jean-Marie Straub has died](https://www.cinematheque.ch/i/actualites/article/disparition-de-jean-marie-straub/)
+- [Writing docs well: why should a software engineer care?](https://surfingcomplexity.blog/2022/11/24/writing-docs-well-why-should-a-software-engineer-care/)
+- [Show HN: A new way to do footnotes](https://try.scroll.pub/#scroll%0A%20%23%20Footnotes%20beta%20test%0A%20%0A%20*%20This%20demo%20shows%20a%20new%20idea%20for%20how%20to%20do%20footnotes%20in%20Scroll%5Escroll.%0A%20%0A%20%5Escroll%20Scroll%20is%20a%20new%20language%20and%20static%20site%20publishing%20tool.%20It%20is%20an%20extensible%20alternative%20to%20markdown.%0A%20%20https%3A%2F%2Fscroll.pub%20Scroll%0A%20%0A%20*%20Scroll%20was%20started%20by%20a%20kid%20from%20Brockton%20which%20is%20a%20city%20in%20Massachusetts%5Estate.%20Brockton%20was%20incorporated%20in%201881%5Einc.%20%0A%20%20https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FBrockton%2C_Massachusetts%20Brockton%0A%20%0A%20%5Estate%20A%20state%20in%20the%20United%20States.%0A%20%0A%20%5Einc%20Brockton%20was%20incorporated%20as%20a%20city%20in%201881%2C%20but%20as%20a%20town%20in%201821.%20Wikipedia.%0A%20%20https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FBrockton%2C_Massachusetts%20Wikipedia%0A%20%0A%20%23%23%20Footnotes%0A%20%0A%20notes)
+- [Congressmembers Tried to Stop the SEC’s Inquiry into FTX](https://prospect.org/power/congressmembers-tried-to-stop-secs-inquiry-into-ftx/)
+- [Show HN: A decentralized semantic web built atop Activity Pub](https://github.com/chatternet/chatternet-client-http)
+- [Show HN: FIFA Interactive Bracket &lpar;World Cup&rpar;](https://worldcup.cole.ws/)
+- [Show HN: AI generated puzzles from Wikipedia articles](https://doodleai.darraghoriordan.com/)
+- [Show HN: Have fun betting virtual &lpar;not real&rpar; money on predictions from HN users](https://kudotap.com)
+- [Why it’s hard to buy deodorant in Manhattan](https://www.economist.com/united-states/2022/11/24/why-its-hard-to-buy-deodorant-in-manhattan)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

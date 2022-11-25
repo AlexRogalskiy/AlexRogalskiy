@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Reactivating suspended Facebook account of Hungarian anti-government activist](https://news.ycombinator.com/item?id=33727285)
-- [US military goes zero-trust on software](https://www.theregister.com/2022/11/23/dod_cisa_omb_cybersecurity/)
-- [Shutting Down Deadpendency](https://alistairb.dev/shutting-down-deadpendency/)
-- [Building a life with purpose after loss](https://community.thriveglobal.com/building-a-life-with-purpose-after-loss/)
-- [My Doom Emacs configuration, with commentary](https://zzamboni.org/post/my-doom-emacs-configuration-with-commentary/)
-- [The Beauty of Databases](https://aman-agarwal.com/2022/11/02/databases-explained/)
-- [Switching to Doom Emacs](https://ethanaa.com/blog/switching-to-doom-emacs/#doom-emacs)
-- [Repository archive date now shown in UI](https://github.blog/changelog/2022-11-23-repository-archive-date-now-shown-in-ui/)
-- [Injections for diabetes, cancer could become unnecessary](https://news.ucr.edu/articles/2022/11/10/injections-diabetes-cancer-could-become-unnecessary)
-- [The waning days of DEI&#39;s dominance](https://world.hey.com/dhh/the-waning-days-of-dei-s-dominance-9a5b656c)
+- [Ask HN: What are you trying for Advent of Code this year?](https://news.ycombinator.com/item?id=33738677)
+- [Show HN: Pretty-pocket – Export Pocket data to JSON](https://github.com/n89nanda/pretty-pocket)
+- [iPod Nano V6 LCD Hacking](https://www.electricstuff.co.uk/nanohack.html)
+- [Ornithopter with morphing-coupled wingbeat pattern [video]](https://www.youtube.com/watch?v=TXg-qoRN0co)
+- [How to parse Command Line arguments in Go](https://n89nanda.github.io/how-to-parse-command-line-arguments-in-go/)
+- [Wax on Wax Off – Deploying Dataflows on AWS with GitHub Actions](https://bytewax.io/blog/waxctl-aws)
+- [Grey wolves infected with this parasite are more likely to become pack leaders](https://abcnews.go.com/US/grey-wolves-infected-parasite-become-pack-leaders-scientists/story?id=93487254)
+- [Debussy’s Claire de Lune on two Launchpad X [video] &lpar;2020&rpar;](https://www.youtube.com/watch?v=JSlF6irHYSo)
+- [Thanks Hacker News](https://news.ycombinator.com/item?id=33738546)
+- [The US Has a Bomb-Sniffing Dog Shortage](https://www.wired.com/story/us-bomb-dog-shortage/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

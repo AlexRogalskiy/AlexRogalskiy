@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Names of six victims released in shooting at Virginia Walmart](https://www.theguardian.com/us-news/2022/nov/23/multiple-deaths-after-shooting-at-walmart-in-chesapeake-virginia)
-- [Brazil judge fines Bolsonaro allies millions after ‘bad faith’ election challenge](https://www.theguardian.com/world/2022/nov/24/brazil-judge-fines-bolsonaro-allies-millions-after-bad-faith-election-challenge)
-- [Mary Peltola, first Alaska Native in Congress, wins bid to retain seat](https://www.theguardian.com/us-news/2022/nov/23/mary-peltola-wins-alaska-democrat)
-- [Russia strikes are crime against humanity, Zelenskiy tells UN, as power cut in Ukraine and Moldova](https://www.theguardian.com/world/2022/nov/24/russia-strikes-are-against-humanity-zelenskiy-tells-un-as-power-cut-in-ukraine-and-moldova)
-- [Fighting an exodus, Hong Kong faces a tough task to lure back young people](https://www.theguardian.com/world/2022/nov/24/fighting-an-exodus-hong-kong-faces-a-tough-task-to-lure-back-young-people)
-- [Ticketmaster’s Taylor Swift chaos triggers US Senate antitrust hearing](https://www.theguardian.com/music/2022/nov/24/ticketmaster-taylor-swift-eras-tour-ticket-chaos-us-senate-antitrust-hearing)
-- [Six men charged over international drug ring after Sydney dawn raids seize cash, cocaine and crypto](https://www.theguardian.com/australia-news/2022/nov/24/six-men-charged-over-international-drug-ring-after-dawn-raids-seize-cash-cocaine-and-crypto)
-- [Airport security rules on liquids and laptops could be lifted in UK in 2024 – reports](https://www.theguardian.com/uk-news/2022/nov/23/airport-security-rules-on-liquids-and-laptops-could-be-lifted-in-uk-in-2024-reports)
-- [Michael Gove cuts funding to Rochdale housing association where child died](https://www.theguardian.com/society/2022/nov/24/michael-gove-cuts-funding-to-rochdale-housing-association-where-child-died)
-- [UK aid to Afghanistan entrenched corruption and injustice, report finds](https://www.theguardian.com/world/2022/nov/24/uk-aid-to-afghanistan-entrenched-corruption-and-injustice-report-finds)
+- [Colorado Springs shooting shows LGBTQ+ people facing ‘different kind of hate’](https://www.theguardian.com/us-news/2022/nov/25/colorado-springs-shooting-club-q-lgbtq-people-facing-different-kind-of-hate)
+- [Ronaldo makes history as Brazil join the party – Football Daily podcast](https://www.theguardian.com/football/audio/2022/nov/25/cristiano-ronaldo-makes-history-brazil-join-party-world-cup-football-daily-podcast)
+- [Russia-Ukraine war at a glance: what we know on day 275 of the invasion](https://www.theguardian.com/world/2022/nov/25/russia-ukraine-war-at-a-glance-what-we-know-on-day-275-of-the-invasion)
+- [UK foreign secretary visits Kyiv to reaffirm support for Ukraine](https://www.theguardian.com/politics/2022/nov/25/uk-foreign-secretary-visits-kyiv-reaffirm-support-ukraine)
+- [More than a third of UK school support staff helping pupils pay for food – survey](https://www.theguardian.com/education/2022/nov/25/more-than-a-third-of-uk-school-support-staff-helping-pupils-pay-for-food-survey)
+- [‘Point of no return’: Chris Packham leads calls for Rishi Sunak to attend Cop15](https://www.theguardian.com/environment/2022/nov/25/chris-packham-leads-call-for-pm-to-attend-cop15-aoe)
+- [Nurses to strike for two days as December disruption deepens](https://www.theguardian.com/business/2022/nov/24/nurses-likely-to-join-postal-education-and-rail-staff-in-pre-christmas-strikes)
+- [China threat looms in Taiwan’s local elections as voters weigh island’s future](https://www.theguardian.com/world/2022/nov/25/china-threat-looms-in-taiwans-local-elections-as-voters-weigh-islands-future)
+- [Elf the Musical review – Buddy’s back with some syrupy showtunes](https://www.theguardian.com/stage/2022/nov/24/elf-the-musical-review-dominion-theatre-london)
+- [Online safety bill will criminalise ‘downblousing’ and ‘deepfake’ porn](https://www.theguardian.com/technology/2022/nov/24/online-safety-bill-to-return-to-parliament-next-month)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

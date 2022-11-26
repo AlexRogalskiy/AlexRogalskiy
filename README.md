@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ask HN: What are you trying for Advent of Code this year?](https://news.ycombinator.com/item?id=33738677)
-- [Show HN: Pretty-pocket – Export Pocket data to JSON](https://github.com/n89nanda/pretty-pocket)
-- [iPod Nano V6 LCD Hacking](https://www.electricstuff.co.uk/nanohack.html)
-- [Ornithopter with morphing-coupled wingbeat pattern [video]](https://www.youtube.com/watch?v=TXg-qoRN0co)
-- [How to parse Command Line arguments in Go](https://n89nanda.github.io/how-to-parse-command-line-arguments-in-go/)
-- [Wax on Wax Off – Deploying Dataflows on AWS with GitHub Actions](https://bytewax.io/blog/waxctl-aws)
-- [Grey wolves infected with this parasite are more likely to become pack leaders](https://abcnews.go.com/US/grey-wolves-infected-parasite-become-pack-leaders-scientists/story?id=93487254)
-- [Debussy’s Claire de Lune on two Launchpad X [video] &lpar;2020&rpar;](https://www.youtube.com/watch?v=JSlF6irHYSo)
-- [Thanks Hacker News](https://news.ycombinator.com/item?id=33738546)
-- [The US Has a Bomb-Sniffing Dog Shortage](https://www.wired.com/story/us-bomb-dog-shortage/)
+- [Tom Brady, Giselle Bündchen, Larry David Sued in FTX Class Action Suit](https://deadline.com/2022/11/tom-brady-giselle-bundchen-ftx-lawsuit-larry-david-steph-curry-crypto-1235174541/)
+- [Ask HN: Why would Google email me a data export for a different account?](https://news.ycombinator.com/item?id=33749185)
+- [Synthetic Environment for Analysis and Simulations](https://en.wikipedia.org/wiki/Synthetic_Environment_for_Analysis_and_Simulations)
+- [GitHub Copilot can be political](https://www.youtube.com/watch?v=-lcKIB3Ai7U)
+- [Technique for saving content from a `data:text/HTML` URI](https://mottaquikarim.github.io/dev/posts/a-technique-for-saving-content-from-a-datatext/html-uri/)
+- [The hardest game: predicting a recession](https://www.frontruncrypto.com/p/the-hardest-game-predicting-a-recession)
+- [Dreamcast Architecture: A Practical Analysis](https://www.copetti.org/writings/consoles/dreamcast/)
+- [I have some concerns about Post that are only getting deeper](https://threadreaderapp.com/thread/1596214193510027265.html)
+- [Elon Musk Bans CrimethInc. From Twitter at the Urging of Far-Right Troll](https://crimethinc.com/2022/11/25/elon-musk-bans-crimethinc-from-twitter-on-request-from-far-right-troll)
+- [Ask HN: In 5 years will Apple be somewhat competitive with Nvidia?](https://news.ycombinator.com/item?id=33749018)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [“You don&#39;t have a voltmeter. Do you have a potato?”](https://diy.stackexchange.com/a/252050)
-- [Jean-Marie Straub has died](https://www.cinematheque.ch/i/actualites/article/disparition-de-jean-marie-straub/)
-- [Writing docs well: why should a software engineer care?](https://surfingcomplexity.blog/2022/11/24/writing-docs-well-why-should-a-software-engineer-care/)
-- [Show HN: A new way to do footnotes](https://try.scroll.pub/#scroll%0A%20%23%20Footnotes%20beta%20test%0A%20%0A%20*%20This%20demo%20shows%20a%20new%20idea%20for%20how%20to%20do%20footnotes%20in%20Scroll%5Escroll.%0A%20%0A%20%5Escroll%20Scroll%20is%20a%20new%20language%20and%20static%20site%20publishing%20tool.%20It%20is%20an%20extensible%20alternative%20to%20markdown.%0A%20%20https%3A%2F%2Fscroll.pub%20Scroll%0A%20%0A%20*%20Scroll%20was%20started%20by%20a%20kid%20from%20Brockton%20which%20is%20a%20city%20in%20Massachusetts%5Estate.%20Brockton%20was%20incorporated%20in%201881%5Einc.%20%0A%20%20https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FBrockton%2C_Massachusetts%20Brockton%0A%20%0A%20%5Estate%20A%20state%20in%20the%20United%20States.%0A%20%0A%20%5Einc%20Brockton%20was%20incorporated%20as%20a%20city%20in%201881%2C%20but%20as%20a%20town%20in%201821.%20Wikipedia.%0A%20%20https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FBrockton%2C_Massachusetts%20Wikipedia%0A%20%0A%20%23%23%20Footnotes%0A%20%0A%20notes)
-- [Congressmembers Tried to Stop the SEC’s Inquiry into FTX](https://prospect.org/power/congressmembers-tried-to-stop-secs-inquiry-into-ftx/)
-- [Show HN: A decentralized semantic web built atop Activity Pub](https://github.com/chatternet/chatternet-client-http)
-- [Show HN: FIFA Interactive Bracket &lpar;World Cup&rpar;](https://worldcup.cole.ws/)
-- [Show HN: AI generated puzzles from Wikipedia articles](https://doodleai.darraghoriordan.com/)
-- [Show HN: Have fun betting virtual &lpar;not real&rpar; money on predictions from HN users](https://kudotap.com)
-- [Why it’s hard to buy deodorant in Manhattan](https://www.economist.com/united-states/2022/11/24/why-its-hard-to-buy-deodorant-in-manhattan)
+- [The Impossible Port: MacOS](https://blog.ryujinx.org/the-impossible-port-macos/)
+- [RFC 1855: Netiquette Guidelines &lpar;1995&rpar;](https://www.rfc-editor.org/rfc/rfc1855)
+- [AI Art Panic](https://opguides.info/posts/aiartpanic/)
+- [Can Tokyo’s charms be replicated elsewhere?](https://www.economist.com/culture/2022/11/24/can-tokyos-charms-be-replicated-elsewhere)
+- [Gifaanisqatsi: A Random Koyaanisqatsi Generator](https://www.monkeon.co.uk/gifaanisqatsi/)
+- [Show HN: Open-Source Page Block Builder with Remix and Tailwind CSS](https://remix-page-blocks.vercel.app)
+- [New two-factor authenticator: Commodore 64](http://oldvcr.blogspot.com/2022/11/meet-your-new-two-factor-authenticator.html)
+- [Choosing Nim out of a crowded market for systems programming languages](https://forum.nim-lang.org/t/9655)
+- [Nostr is a stupid simple P2P protocol that works, built by builders](https://news.ycombinator.com/item?id=33746360)
+- [The Peacemaker missile’s navigation suite &lpar;2019&rpar;](https://www.thedrive.com/the-war-zone/30254/this-isnt-a-sci-fi-prop-its-a-doomsday-navigator-for-americas-biggest-cold-war-icbm)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

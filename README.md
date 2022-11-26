@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Colorado Springs shooting shows LGBTQ+ people facing ‘different kind of hate’](https://www.theguardian.com/us-news/2022/nov/25/colorado-springs-shooting-club-q-lgbtq-people-facing-different-kind-of-hate)
-- [Ronaldo makes history as Brazil join the party – Football Daily podcast](https://www.theguardian.com/football/audio/2022/nov/25/cristiano-ronaldo-makes-history-brazil-join-party-world-cup-football-daily-podcast)
-- [Russia-Ukraine war at a glance: what we know on day 275 of the invasion](https://www.theguardian.com/world/2022/nov/25/russia-ukraine-war-at-a-glance-what-we-know-on-day-275-of-the-invasion)
-- [UK foreign secretary visits Kyiv to reaffirm support for Ukraine](https://www.theguardian.com/politics/2022/nov/25/uk-foreign-secretary-visits-kyiv-reaffirm-support-ukraine)
-- [More than a third of UK school support staff helping pupils pay for food – survey](https://www.theguardian.com/education/2022/nov/25/more-than-a-third-of-uk-school-support-staff-helping-pupils-pay-for-food-survey)
-- [‘Point of no return’: Chris Packham leads calls for Rishi Sunak to attend Cop15](https://www.theguardian.com/environment/2022/nov/25/chris-packham-leads-call-for-pm-to-attend-cop15-aoe)
-- [Nurses to strike for two days as December disruption deepens](https://www.theguardian.com/business/2022/nov/24/nurses-likely-to-join-postal-education-and-rail-staff-in-pre-christmas-strikes)
-- [China threat looms in Taiwan’s local elections as voters weigh island’s future](https://www.theguardian.com/world/2022/nov/25/china-threat-looms-in-taiwans-local-elections-as-voters-weigh-islands-future)
-- [Elf the Musical review – Buddy’s back with some syrupy showtunes](https://www.theguardian.com/stage/2022/nov/24/elf-the-musical-review-dominion-theatre-london)
-- [Online safety bill will criminalise ‘downblousing’ and ‘deepfake’ porn](https://www.theguardian.com/technology/2022/nov/24/online-safety-bill-to-return-to-parliament-next-month)
+- [Russia-Ukraine war at a glance: what we know on day 276 of the invasion](https://www.theguardian.com/world/2022/nov/26/russia-ukraine-war-at-a-glance-what-we-know-on-day-276-of-the-invasion)
+- [Slower ski lifts and less artificial snow: French resorts tackle energy crisis](https://www.theguardian.com/world/2022/nov/26/slower-ski-lifts-and-less-artificial-snow-french-resorts-tackle-energy-crisis)
+- [Original Observer Photography](https://www.theguardian.com/artanddesign/gallery/2022/nov/26/original-observer-photography)
+- [Stodgy England toil in cold footballing custard but the message is don’t panic | Barney Ronay](https://www.theguardian.com/football/2022/nov/25/stodgy-england-toil-in-cold-footballing-custard-but-the-message-is-dont-panic)
+- [Tasmanian flower farmer ‘shocked’ to learn she planted opium poppies by mistake](https://www.theguardian.com/australia-news/2022/nov/26/tasmanian-flower-farmer-shocked-to-learn-she-planted-opium-poppies-by-mistake)
+- [Rocket launches pose extinction-level threat to SA’s tiny southern emu wren, conservationists warn](https://www.theguardian.com/australia-news/2022/nov/26/rocket-launches-pose-extinction-level-threat-to-sas-tiny-southern-emu-wren-conservationists-warn)
+- [England close on World Cup knockouts but USA draw tempers expectations](https://www.theguardian.com/football/2022/nov/25/england-close-on-world-cup-knockout-stages-usa-draw-tempers-expectations-qatar-2022)
+- [Bondi becomes nude beach as thousands take part in Spencer Tunick’s Sydney installation](https://www.theguardian.com/artanddesign/2022/nov/26/bondi-becomes-nude-beach-as-thousands-take-part-in-spencer-tunicks-sydney-installation)
+- [Cruise passenger who fell overboard rescued in ‘Thanksgiving miracle’](https://www.theguardian.com/us-news/2022/nov/25/cruise-passenger-overboard-gulf-of-mexico-rescued)
+- [England 0-0 USA: player ratings from the World Cup Group B game](https://www.theguardian.com/football/2022/nov/25/england-0-0-usa-player-ratings-from-the-world-cup-group-b-game)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

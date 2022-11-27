@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war at a glance: what we know on day 276 of the invasion](https://www.theguardian.com/world/2022/nov/26/russia-ukraine-war-at-a-glance-what-we-know-on-day-276-of-the-invasion)
-- [Slower ski lifts and less artificial snow: French resorts tackle energy crisis](https://www.theguardian.com/world/2022/nov/26/slower-ski-lifts-and-less-artificial-snow-french-resorts-tackle-energy-crisis)
-- [Original Observer Photography](https://www.theguardian.com/artanddesign/gallery/2022/nov/26/original-observer-photography)
-- [Stodgy England toil in cold footballing custard but the message is don’t panic | Barney Ronay](https://www.theguardian.com/football/2022/nov/25/stodgy-england-toil-in-cold-footballing-custard-but-the-message-is-dont-panic)
-- [Tasmanian flower farmer ‘shocked’ to learn she planted opium poppies by mistake](https://www.theguardian.com/australia-news/2022/nov/26/tasmanian-flower-farmer-shocked-to-learn-she-planted-opium-poppies-by-mistake)
-- [Rocket launches pose extinction-level threat to SA’s tiny southern emu wren, conservationists warn](https://www.theguardian.com/australia-news/2022/nov/26/rocket-launches-pose-extinction-level-threat-to-sas-tiny-southern-emu-wren-conservationists-warn)
-- [England close on World Cup knockouts but USA draw tempers expectations](https://www.theguardian.com/football/2022/nov/25/england-close-on-world-cup-knockout-stages-usa-draw-tempers-expectations-qatar-2022)
-- [Bondi becomes nude beach as thousands take part in Spencer Tunick’s Sydney installation](https://www.theguardian.com/artanddesign/2022/nov/26/bondi-becomes-nude-beach-as-thousands-take-part-in-spencer-tunicks-sydney-installation)
-- [Cruise passenger who fell overboard rescued in ‘Thanksgiving miracle’](https://www.theguardian.com/us-news/2022/nov/25/cruise-passenger-overboard-gulf-of-mexico-rescued)
-- [England 0-0 USA: player ratings from the World Cup Group B game](https://www.theguardian.com/football/2022/nov/25/england-0-0-usa-player-ratings-from-the-world-cup-group-b-game)
+- [Pakistan’s Imran Khan vows to fight to ‘last drop of blood’ in first rally since being shot](https://www.theguardian.com/world/2022/nov/27/pakistans-imran-khan-vows-to-fight-to-last-drop-of-blood-in-first-rally-since-being-shot)
+- [Queiroz tells Klinsmann to resign and visit Iran camp after BBC comments](https://www.theguardian.com/football/2022/nov/27/carlos-queiroz-jurgen-klinsmann-iran-bbc-comments-world-cup)
+- [High-rise mortgage costs see surge in rents across the UK](https://www.theguardian.com/business/2022/nov/27/high-rise-mortgage-costs-see-surge-in-rents-across-the-uk)
+- [Messi revives Argentina and Mbappé fires France into last 16 – Football Daily podcast](https://www.theguardian.com/football/audio/2022/nov/26/messi-revives-argentina-and-mbappe-fires-france-into-last-16-football-daily-podcast)
+- [Party spirit: 10 key festive trends for men and women – in pictures](https://www.theguardian.com/fashion/gallery/2022/nov/26/party-spirit-10-key-festive-trends-for-men-and-women-in-pictures)
+- [Two 16-year-old boys fatally stabbed about mile apart in south-east London](https://www.theguardian.com/uk-news/2022/nov/26/two-16-year-old-boys-fatally-stabbed-about-mile-apart-in-south-east-london)
+- [Alok Sharma backs bid to lift ban on onshore windfarms in England](https://www.theguardian.com/environment/2022/nov/26/alok-sharma-backs-bid-to-lift-ban-on-onshore-windfarms-in-england)
+- [‘Abhorrent trolls’ who encourage self-harm online face criminal prosecution, says minister](https://www.theguardian.com/technology/2022/nov/26/abhorrent-trolls-who-encourage-self-harm-online-face-criminal-prosecution-says-minister)
+- [Luke Shaw motivated by video of Wales celebrating England’s Euro 2016 exit](https://www.theguardian.com/football/2022/nov/26/luke-shaw-motivated-by-video-of-wales-celebrating-englands-euro-2016-exit)
+- [‘No gamble at all’: Southgate insists he did not risk Kane’s fitness against USA](https://www.theguardian.com/football/2022/nov/26/gareth-southgate-insists-he-did-not-gamble-on-harry-kanes-fitness)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

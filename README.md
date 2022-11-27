@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Tom Brady, Giselle Bündchen, Larry David Sued in FTX Class Action Suit](https://deadline.com/2022/11/tom-brady-giselle-bundchen-ftx-lawsuit-larry-david-steph-curry-crypto-1235174541/)
-- [Ask HN: Why would Google email me a data export for a different account?](https://news.ycombinator.com/item?id=33749185)
-- [Synthetic Environment for Analysis and Simulations](https://en.wikipedia.org/wiki/Synthetic_Environment_for_Analysis_and_Simulations)
-- [GitHub Copilot can be political](https://www.youtube.com/watch?v=-lcKIB3Ai7U)
-- [Technique for saving content from a `data:text/HTML` URI](https://mottaquikarim.github.io/dev/posts/a-technique-for-saving-content-from-a-datatext/html-uri/)
-- [The hardest game: predicting a recession](https://www.frontruncrypto.com/p/the-hardest-game-predicting-a-recession)
-- [Dreamcast Architecture: A Practical Analysis](https://www.copetti.org/writings/consoles/dreamcast/)
-- [I have some concerns about Post that are only getting deeper](https://threadreaderapp.com/thread/1596214193510027265.html)
-- [Elon Musk Bans CrimethInc. From Twitter at the Urging of Far-Right Troll](https://crimethinc.com/2022/11/25/elon-musk-bans-crimethinc-from-twitter-on-request-from-far-right-troll)
-- [Ask HN: In 5 years will Apple be somewhat competitive with Nvidia?](https://news.ycombinator.com/item?id=33749018)
+- [Top Ethereum NFT Projects by Quantity](https://dune.com/a6b8/nft-top-100)
+- [Artwork – a simple front-end framework with no HTML](https://github.com/thebinarysearchtree/artwork)
+- [SF police seek permission for its robots to use deadly force](https://www.engadget.com/san-francisco-police-seek-permission-for-its-robots-to-use-deadly-force-183514906.html)
+- [Create Your Own Compiler: A step-by-step interactive tutorial](https://citw.dev/tutorial/create-your-own-compiler)
+- [Twitter Working on End-to-End Encryption for Direct Messages](https://www.macrumors.com/2022/11/16/twitter-encrypted-dms-in-development/)
+- [Ask HN: Does Anyone Use Node.js with Postgres?](https://news.ycombinator.com/item?id=33759592)
+- [French scientists decode 500-year-old letter](https://www.bbc.co.uk/news/world-europe-63757443)
+- [How America turned against the First Amendment](https://www.theverge.com/23435358/first-amendment-free-speech-midterm-elections-courts-hypocrisy)
+- [A tiny school in western NSW has made a small fortune from its first wheat crop](https://www.abc.net.au/news/2022-11-27/nsw-hermidale-public-school-wheat-crop-sale-to-fund-excursions/101688622)
+- [Nothing to Display](https://maheepk.net/posts/nothing-to-display/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

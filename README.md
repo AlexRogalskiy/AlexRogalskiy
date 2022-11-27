@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The Impossible Port: MacOS](https://blog.ryujinx.org/the-impossible-port-macos/)
-- [RFC 1855: Netiquette Guidelines &lpar;1995&rpar;](https://www.rfc-editor.org/rfc/rfc1855)
-- [AI Art Panic](https://opguides.info/posts/aiartpanic/)
-- [Can Tokyo’s charms be replicated elsewhere?](https://www.economist.com/culture/2022/11/24/can-tokyos-charms-be-replicated-elsewhere)
-- [Gifaanisqatsi: A Random Koyaanisqatsi Generator](https://www.monkeon.co.uk/gifaanisqatsi/)
-- [Show HN: Open-Source Page Block Builder with Remix and Tailwind CSS](https://remix-page-blocks.vercel.app)
-- [New two-factor authenticator: Commodore 64](http://oldvcr.blogspot.com/2022/11/meet-your-new-two-factor-authenticator.html)
-- [Choosing Nim out of a crowded market for systems programming languages](https://forum.nim-lang.org/t/9655)
-- [Nostr is a stupid simple P2P protocol that works, built by builders](https://news.ycombinator.com/item?id=33746360)
-- [The Peacemaker missile’s navigation suite &lpar;2019&rpar;](https://www.thedrive.com/the-war-zone/30254/this-isnt-a-sci-fi-prop-its-a-doomsday-navigator-for-americas-biggest-cold-war-icbm)
+- [Too fast, too furious: Dangerous street takeovers stymie police, anger neighbors](https://cronkitenews.azpbs.org/2022/09/08/street-racing-reckless-driving-los-angeles-phoenix/)
+- [Bye, Twitter](https://www.tbray.org/ongoing/When/202x/2022/11/26/Bye-Twitter)
+- [Most Ordinary Americans in 2016 Are Richer Than Was John D. Rockefeller in 1916](https://cafehayek.com/2016/02/40405.html)
+- [What&#39;s a good Linux terminal emulator that doesn&#39;t try to reinvent TMUX?](https://news.ycombinator.com/item?id=33759023)
+- [Young Australians just won a human rights case against an enormous coal mine](https://theconversation.com/this-case-has-made-legal-history-young-australians-just-won-a-human-rights-case-against-an-enormous-coal-mine-195350)
+- [Non conventional 3D Print challenges &lpar;GCode&rpar;](https://fullcontrol.xyz/#/models)
+- [SSHGuard](https://www.sshguard.net/)
+- [A bug fix in the 8086 microprocessor, revealed in the die&#39;s silicon](https://www.righto.com/2022/11/a-bug-fix-in-8086-microprocessor.html)
+- [Mangle, a programming language for deductive database programming](https://github.com/google/mangle)
+- [Converting a WW2-Era Engine Cowl Flaps Indicator into a USB Peripheral](https://bikerglen.com/blog/ww2-engine-cowl-flaps-indicator/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

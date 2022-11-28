@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Too fast, too furious: Dangerous street takeovers stymie police, anger neighbors](https://cronkitenews.azpbs.org/2022/09/08/street-racing-reckless-driving-los-angeles-phoenix/)
-- [Bye, Twitter](https://www.tbray.org/ongoing/When/202x/2022/11/26/Bye-Twitter)
-- [Most Ordinary Americans in 2016 Are Richer Than Was John D. Rockefeller in 1916](https://cafehayek.com/2016/02/40405.html)
-- [What&#39;s a good Linux terminal emulator that doesn&#39;t try to reinvent TMUX?](https://news.ycombinator.com/item?id=33759023)
-- [Young Australians just won a human rights case against an enormous coal mine](https://theconversation.com/this-case-has-made-legal-history-young-australians-just-won-a-human-rights-case-against-an-enormous-coal-mine-195350)
-- [Non conventional 3D Print challenges &lpar;GCode&rpar;](https://fullcontrol.xyz/#/models)
-- [SSHGuard](https://www.sshguard.net/)
-- [A bug fix in the 8086 microprocessor, revealed in the die&#39;s silicon](https://www.righto.com/2022/11/a-bug-fix-in-8086-microprocessor.html)
-- [Mangle, a programming language for deductive database programming](https://github.com/google/mangle)
-- [Converting a WW2-Era Engine Cowl Flaps Indicator into a USB Peripheral](https://bikerglen.com/blog/ww2-engine-cowl-flaps-indicator/)
+- [The AI War and How to Win It](https://alexw.substack.com/p/war)
+- [Clang is better than GCC](https://yurichev.org/clang/)
+- [Photography for geeks](https://lcamtuf.coredump.cx/photo_basics/)
+- [Meta’s Adversarial Threat Report, Third Quarter 2022](https://about.fb.com/news/2022/11/metas-adversarial-threat-report-q3-2022/)
+- [NopeCHA: Captcha Solver](https://chrome.google.com/webstore/detail/nopecha-captcha-solver/dknlfmjaanfblgfdfebhijalfmhmjjjo)
+- [OneSignal &lpar;YC S11&rpar; Is Hiring a Head of Developer Relations](https://onesignal.com/careers/b1924054-503d-4816-9314-7e4622abdfd7)
+- [Git Notes](https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature/)
+- [Stack Computers: the new wave &lpar;1989&rpar; [pdf]](https://users.ece.cmu.edu/~koopman/stack_computers/stack_computers_book.pdf)
+- [FreeTube – A Private YouTube Client](https://freetubeapp.io/)
+- [Temporal Programming, a new name for an old paradigm](https://github.com/aappleby/Metron/blob/master/docs/TemporalTLDR.md)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

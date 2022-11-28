@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Top Ethereum NFT Projects by Quantity](https://dune.com/a6b8/nft-top-100)
-- [Artwork – a simple front-end framework with no HTML](https://github.com/thebinarysearchtree/artwork)
-- [SF police seek permission for its robots to use deadly force](https://www.engadget.com/san-francisco-police-seek-permission-for-its-robots-to-use-deadly-force-183514906.html)
-- [Create Your Own Compiler: A step-by-step interactive tutorial](https://citw.dev/tutorial/create-your-own-compiler)
-- [Twitter Working on End-to-End Encryption for Direct Messages](https://www.macrumors.com/2022/11/16/twitter-encrypted-dms-in-development/)
-- [Ask HN: Does Anyone Use Node.js with Postgres?](https://news.ycombinator.com/item?id=33759592)
-- [French scientists decode 500-year-old letter](https://www.bbc.co.uk/news/world-europe-63757443)
-- [How America turned against the First Amendment](https://www.theverge.com/23435358/first-amendment-free-speech-midterm-elections-courts-hypocrisy)
-- [A tiny school in western NSW has made a small fortune from its first wheat crop](https://www.abc.net.au/news/2022-11-27/nsw-hermidale-public-school-wheat-crop-sale-to-fund-excursions/101688622)
-- [Nothing to Display](https://maheepk.net/posts/nothing-to-display/)
+- [TiDB Cloud – A MySQL Compatible HTAP Serverless Database](https://www.pingcap.com/tidb-cloud/)
+- [The secret bias hidden in mortgage-approval algorithms &lpar;2021&rpar;](https://apnews.com/article/lifestyle-technology-business-race-and-ethnicity-racial-injustice-b920d945a6a13db1e1aee44d91475205)
+- [Lightweight Alpine VMs on macOS](https://beringresearch.github.io/macpine/)
+- [Every graph has a sparsifier with edges linear its vertices](https://arxiv.org/abs/0808.0163)
+- [US bans Chinese telecoms imports – won&#39;t even consider authorizing them](https://www.theregister.com/2022/11/27/fcc_china_equipment_authorization_ban/)
+- [Batik Designs in a Javanese Manuscript: Serat Damar Wulan](https://blogs.bl.uk/asian-and-african/2022/11/batik-designs-in-a-javanese-manuscript-serat-damar-wulan.html)
+- [Twitter grapples with Chinese spam obscuring news of protests](https://www.washingtonpost.com/technology/2022/11/27/twitter-china-spam-protests/)
+- [Health Canada reveals causes of kids’ Tylenol and drug shortages](https://www.thestar.com/politics/federal/2022/11/15/health-canada-says-more-childrens-pain-medication-is-on-the-way-but-not-how-much.html)
+- [Tiny Nativity scene in the eye of a needle on display in Birmingham](https://www.bbc.com/news/uk-england-birmingham-63774581)
+- [Proto Indo European Folk Tales](https://www.youtube.com/watch?v=eBiYS2TmVmg)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

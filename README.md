@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Pakistan’s Imran Khan vows to fight to ‘last drop of blood’ in first rally since being shot](https://www.theguardian.com/world/2022/nov/27/pakistans-imran-khan-vows-to-fight-to-last-drop-of-blood-in-first-rally-since-being-shot)
-- [Queiroz tells Klinsmann to resign and visit Iran camp after BBC comments](https://www.theguardian.com/football/2022/nov/27/carlos-queiroz-jurgen-klinsmann-iran-bbc-comments-world-cup)
-- [High-rise mortgage costs see surge in rents across the UK](https://www.theguardian.com/business/2022/nov/27/high-rise-mortgage-costs-see-surge-in-rents-across-the-uk)
-- [Messi revives Argentina and Mbappé fires France into last 16 – Football Daily podcast](https://www.theguardian.com/football/audio/2022/nov/26/messi-revives-argentina-and-mbappe-fires-france-into-last-16-football-daily-podcast)
-- [Party spirit: 10 key festive trends for men and women – in pictures](https://www.theguardian.com/fashion/gallery/2022/nov/26/party-spirit-10-key-festive-trends-for-men-and-women-in-pictures)
-- [Two 16-year-old boys fatally stabbed about mile apart in south-east London](https://www.theguardian.com/uk-news/2022/nov/26/two-16-year-old-boys-fatally-stabbed-about-mile-apart-in-south-east-london)
-- [Alok Sharma backs bid to lift ban on onshore windfarms in England](https://www.theguardian.com/environment/2022/nov/26/alok-sharma-backs-bid-to-lift-ban-on-onshore-windfarms-in-england)
-- [‘Abhorrent trolls’ who encourage self-harm online face criminal prosecution, says minister](https://www.theguardian.com/technology/2022/nov/26/abhorrent-trolls-who-encourage-self-harm-online-face-criminal-prosecution-says-minister)
-- [Luke Shaw motivated by video of Wales celebrating England’s Euro 2016 exit](https://www.theguardian.com/football/2022/nov/26/luke-shaw-motivated-by-video-of-wales-celebrating-englands-euro-2016-exit)
-- [‘No gamble at all’: Southgate insists he did not risk Kane’s fitness against USA](https://www.theguardian.com/football/2022/nov/26/gareth-southgate-insists-he-did-not-gamble-on-harry-kanes-fitness)
+- [Nicole Kidman surprises Broadway with $100,000 bid for Hugh Jackman’s hat](https://www.theguardian.com/film/2022/nov/28/nicole-kidman-surprises-broadway-with-100000-bid-for-hugh-jackmans-hat)
+- [The Fijian island being strangled by vines](https://www.theguardian.com/artanddesign/2022/nov/28/the-fijian-island-being-strangled-by-vines)
+- [Russia-Ukraine war at a glance: what we know on day 278 of the invasion](https://www.theguardian.com/world/2022/nov/28/russia-ukraine-war-at-a-glance-what-we-know-on-day-278-of-the-invasion)
+- [I’m a Celebrity final review – at least Matt the rat didn’t win](https://www.theguardian.com/tv-and-radio/2022/nov/28/im-a-celebrity-final-review-at-least-matt-hancock-the-rat-didnt-win)
+- [Clashes in Shanghai as protests over zero-Covid policy grip China](https://www.theguardian.com/world/2022/nov/28/clashes-in-shanghai-as-protests-over-zero-covid-policy-grip-china)
+- [Lack of support denting prospects for UK computer chip sector, say MPs](https://www.theguardian.com/business/2022/nov/28/lack-of-support-denting-prospects-for-uk-computer-chip-sector-say-mps)
+- [Amazon’s UK tax bill could rise by £29m amid business rates overhaul](https://www.theguardian.com/business/2022/nov/28/amazon-uk-tax-bill-could-rise-29m-next-year-business-rates-change)
+- [DWP deducting on average £80 a month from Scottish families on UC](https://www.theguardian.com/society/2022/nov/28/dwp-deducting-scotland-families-univeral-credit-debt)
+- [UK homeowners forced to settle for below asking price, Zoopla says](https://www.theguardian.com/money/2022/nov/28/uk-homeowners-forced-to-settle-for-below-asking-price-zoopla-says)
+- [Germany grit, Morocco magic and Croatia crush Canada – Football Daily](https://www.theguardian.com/football/audio/2022/nov/27/spain-germany-belgium-morocco-croatia-canada-football-daily)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

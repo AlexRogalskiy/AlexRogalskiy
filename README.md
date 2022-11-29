@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Alation’s Connected Sheets brings data governance to spreadsheets](https://www.infoworld.com/article/3681336/alation-s-connected-sheets-brings-data-governance-to-spreadsheets.html#tk.rss_all)
+- [AWS releases Wickr, its encrypted messaging service for enterprises](https://www.computerworld.com/article/3681334/aws-releases-wickr-its-encrypted-messaging-service-for-enterprises.html#tk.rss_all)
+- [Why you must remember to update T&amp;Cs in Apple Business Manager](https://www.computerworld.com/article/3681548/why-you-must-remember-to-update-tcs-in-apple-business-manager.html#tk.rss_all)
+- [How to troubleshoot and reset Windows Update](https://www.computerworld.com/article/3673711/how-to-troubleshoot-and-reset-windows-update.html#tk.rss_all)
 - [Meta teaches an AI to lie, strategize](https://www.computerworld.com/article/3681330/meta-teaches-an-ai-to-lie-strategize.html#tk.rss_all)
 - [Changes to Google&#39;s employee appraisal system stir layoff fears](https://www.computerworld.com/article/3681109/changes-to-googles-employee-appraisal-system-stir-layoff-fears.html#tk.rss_all)
 - [HP to cut up to 6,000 staff in plan to mitigate PC market softness](https://www.computerworld.com/article/3681068/hp-to-cut-up-to-6000-staff-in-plan-to-mitigate-pc-market-softness.html#tk.rss_all)
 - [Apple has improved Mac MDM with this important feature](https://www.computerworld.com/article/3680396/apple-has-improved-mac-mdm-with-this-important-feature.html#tk.rss_all)
 - [Demand for IT pros remains high even as layoffs continue](https://www.computerworld.com/article/3680731/demand-for-it-pros-remains-high-even-as-layoffs-continue.html#tk.rss_all)
 - [Tech layoffs in 2022: A timeline](https://www.computerworld.com/article/3679733/tech-layoffs-in-2022-a-timeline.html#tk.rss_all)
-- [Zoom sales growth slows as online business slumps in post-pandemic era](https://www.computerworld.com/article/3680374/zoom-sales-growth-slows-as-online-business-slumps-in-post-pandemic-era.html#tk.rss_all)
-- [Apple, Google face legal pressure over UK mobile services dominance](https://www.computerworld.com/article/3680394/apple-google-face-legal-pressure-over-uk-mobile-services-dominance.html#tk.rss_all)
-- [Is ChromeOS right for you? A 4-question quiz to find out](https://www.computerworld.com/article/2893364/is-chrome-os-right-for-you.html#tk.rss_all)
-- [Amazon shuts Wickr Me encrypted messaging service; enterprise service remains](https://www.computerworld.com/article/3680554/amazon-shuts-wickr-me-encrypted-messaging-service-enterprise-service-remains.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

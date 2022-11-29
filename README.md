@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The AI War and How to Win It](https://alexw.substack.com/p/war)
-- [Clang is better than GCC](https://yurichev.org/clang/)
-- [Photography for geeks](https://lcamtuf.coredump.cx/photo_basics/)
-- [Meta’s Adversarial Threat Report, Third Quarter 2022](https://about.fb.com/news/2022/11/metas-adversarial-threat-report-q3-2022/)
-- [NopeCHA: Captcha Solver](https://chrome.google.com/webstore/detail/nopecha-captcha-solver/dknlfmjaanfblgfdfebhijalfmhmjjjo)
-- [OneSignal &lpar;YC S11&rpar; Is Hiring a Head of Developer Relations](https://onesignal.com/careers/b1924054-503d-4816-9314-7e4622abdfd7)
-- [Git Notes](https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature/)
-- [Stack Computers: the new wave &lpar;1989&rpar; [pdf]](https://users.ece.cmu.edu/~koopman/stack_computers/stack_computers_book.pdf)
-- [FreeTube – A Private YouTube Client](https://freetubeapp.io/)
-- [Temporal Programming, a new name for an old paradigm](https://github.com/aappleby/Metron/blob/master/docs/TemporalTLDR.md)
+- [Motorola 68030 wire wrap prototype](https://retrocomputingforum.com/t/68030-prototype-at-1-mhz-18-boards-of-ttl/1387)
+- [EU Regulator: Proposal to force websites to pay telcos puts Internet at risk](https://cyberlaw.stanford.edu/blog/2022/11/eus-top-telecom-regulator-big-telecoms-proposal-force-websites-pay-them-puts-internet)
+- [JupyterLite: a JupyterLab distribution that runs in the browser](https://github.com/jupyterlite/jupyterlite)
+- [New GPT-3 model: text-DaVinci-003](https://beta.openai.com/docs/models/overview)
+- [Stable Diffusion 2.0 and the Importance of Negative Prompts for Good Results](https://minimaxir.com/2022/11/stable-diffusion-negative-prompt/)
+- [Ivy &lpar;YC W23&rpar; Is Hiring Engineers to Unify ML](https://www.ycombinator.com/companies/ivy/jobs)
+- [The Buy and Hold Mindset](https://avc.com/2022/11/the-buy-and-hold-mindset/)
+- [Enabling the Future of GitHub&#39;s REST API with API Versioning](https://github.blog/2022-11-28-to-infinity-and-beyond-enabling-the-future-of-githubs-rest-api-with-api-versioning/)
+- [AirDrop is now limited to 10 minutes](https://twitter.com/tibor/status/1597296268275240960)
+- [Protect me from what I want](https://www.tbray.org/ongoing/When/202x/2022/11/28/On-Algorithms)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

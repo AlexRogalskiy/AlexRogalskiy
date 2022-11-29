@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [TiDB Cloud – A MySQL Compatible HTAP Serverless Database](https://www.pingcap.com/tidb-cloud/)
-- [The secret bias hidden in mortgage-approval algorithms &lpar;2021&rpar;](https://apnews.com/article/lifestyle-technology-business-race-and-ethnicity-racial-injustice-b920d945a6a13db1e1aee44d91475205)
-- [Lightweight Alpine VMs on macOS](https://beringresearch.github.io/macpine/)
-- [Every graph has a sparsifier with edges linear its vertices](https://arxiv.org/abs/0808.0163)
-- [US bans Chinese telecoms imports – won&#39;t even consider authorizing them](https://www.theregister.com/2022/11/27/fcc_china_equipment_authorization_ban/)
-- [Batik Designs in a Javanese Manuscript: Serat Damar Wulan](https://blogs.bl.uk/asian-and-african/2022/11/batik-designs-in-a-javanese-manuscript-serat-damar-wulan.html)
-- [Twitter grapples with Chinese spam obscuring news of protests](https://www.washingtonpost.com/technology/2022/11/27/twitter-china-spam-protests/)
-- [Health Canada reveals causes of kids’ Tylenol and drug shortages](https://www.thestar.com/politics/federal/2022/11/15/health-canada-says-more-childrens-pain-medication-is-on-the-way-but-not-how-much.html)
-- [Tiny Nativity scene in the eye of a needle on display in Birmingham](https://www.bbc.com/news/uk-england-birmingham-63774581)
-- [Proto Indo European Folk Tales](https://www.youtube.com/watch?v=eBiYS2TmVmg)
+- [Aliens of the Sea](https://www.youtube.com/watch?v=mFP_AjJeP-M)
+- [25% of hiring managers are less likely to move forward with Jewish applicants](https://www.resumebuilder.com/1-in-4-hiring-managers-say-they-are-less-likely-to-move-forward-with-jewish-applicants/)
+- [Vanilla Rails authentication with the Authentication Zero gem](https://codewithrails.com/rails-authentication)
+- [It’s visual delight that you’re looking for, not gamification](https://uxdesign.cc/its-visual-delight-that-you-re-looking-for-not-gamification-a779c4743af0)
+- [The Fijian island being strangled by vines](https://www.theguardian.com/artanddesign/2022/nov/28/the-fijian-island-being-strangled-by-vines)
+- [Package is Deprecated because the Maintainer locked himself out by accident](https://github.com/palantir/python-language-server/issues/935)
+- [The death of literary culture &lpar;2021&rpar;](https://jakeseliger.com/2021/09/30/the-death-of-literary-culture/)
+- [Coast Guard crew carrying Christmas Tree Ship load is crossing Lake Michigan](https://www.mlive.com/news/2022/11/coast-guard-crew-carrying-christmas-tree-ship-load-is-crossing-lake-michigan.html)
+- [Boil Water Notice for City of Houston](https://mailchi.mp/houstontx/boilwaternoticenovember2022)
+- [On Video-Text](https://cristobal.space/writing/video-text)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

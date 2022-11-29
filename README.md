@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Nicole Kidman surprises Broadway with $100,000 bid for Hugh Jackman’s hat](https://www.theguardian.com/film/2022/nov/28/nicole-kidman-surprises-broadway-with-100000-bid-for-hugh-jackmans-hat)
-- [The Fijian island being strangled by vines](https://www.theguardian.com/artanddesign/2022/nov/28/the-fijian-island-being-strangled-by-vines)
-- [Russia-Ukraine war at a glance: what we know on day 278 of the invasion](https://www.theguardian.com/world/2022/nov/28/russia-ukraine-war-at-a-glance-what-we-know-on-day-278-of-the-invasion)
-- [I’m a Celebrity final review – at least Matt the rat didn’t win](https://www.theguardian.com/tv-and-radio/2022/nov/28/im-a-celebrity-final-review-at-least-matt-hancock-the-rat-didnt-win)
-- [Clashes in Shanghai as protests over zero-Covid policy grip China](https://www.theguardian.com/world/2022/nov/28/clashes-in-shanghai-as-protests-over-zero-covid-policy-grip-china)
-- [Lack of support denting prospects for UK computer chip sector, say MPs](https://www.theguardian.com/business/2022/nov/28/lack-of-support-denting-prospects-for-uk-computer-chip-sector-say-mps)
-- [Amazon’s UK tax bill could rise by £29m amid business rates overhaul](https://www.theguardian.com/business/2022/nov/28/amazon-uk-tax-bill-could-rise-29m-next-year-business-rates-change)
-- [DWP deducting on average £80 a month from Scottish families on UC](https://www.theguardian.com/society/2022/nov/28/dwp-deducting-scotland-families-univeral-credit-debt)
-- [UK homeowners forced to settle for below asking price, Zoopla says](https://www.theguardian.com/money/2022/nov/28/uk-homeowners-forced-to-settle-for-below-asking-price-zoopla-says)
-- [Germany grit, Morocco magic and Croatia crush Canada – Football Daily](https://www.theguardian.com/football/audio/2022/nov/27/spain-germany-belgium-morocco-croatia-canada-football-daily)
+- [Adani port protests: more than 80 wounded in latest clash to halt project in India’s Kerala](https://www.theguardian.com/business/2022/nov/29/adani-port-protests-india-kerala-vizhinjam-project)
+- [Russia-Ukraine war at a glance: what we know on day 279 of the invasion](https://www.theguardian.com/world/2022/nov/29/russia-ukraine-war-at-a-glance-what-we-know-on-day-279-of-the-invasion)
+- [New Zealand ‘suitcase’ murders: South Korea hands over 42-year-old suspect](https://www.theguardian.com/world/2022/nov/29/new-zealand-suitcase-murders-south-korea-hands-over-42-year-old-suspect)
+- [Will Smith ‘completely understands’ if audiences avoid his films post Oscars slap](https://www.theguardian.com/film/2022/nov/29/will-smith-emancipation-movie-understands-if-people-avoid-his-films-after-chris-rock-oscars-slap)
+- [Republican officials in Arizona county refuse to certify midterm results](https://www.theguardian.com/us-news/2022/nov/28/republicans-arizona-county-refuse-to-certify-midterm-election-results)
+- [Senior media figures call for law to stop oligarchs silencing UK journalists](https://www.theguardian.com/news/2022/nov/29/slapps-senior-media-figures-call-for-law-stop-oligarchs-silencing-uk-journalists)
+- [Nia Archives, Cat Burns and Flo nominated for Brits Rising Star award](https://www.theguardian.com/music/2022/nov/29/nia-archives-cat-burns-and-flo-nominated-for-brits-rising-star-award)
+- [Calls for UK ban on pre-payment meter installations made under court warrants](https://www.theguardian.com/society/2022/nov/29/calls-for-uk-ban-on-pre-payment-meter-installations-made-under-court-warrants)
+- [Cannabis oil failed to improve pain or quality of life in palliative care cancer patients, study shows](https://www.theguardian.com/australia-news/2022/nov/29/cannabis-oil-failed-to-improve-pain-or-quality-of-life-in-palliative-care-cancer-patients-study-shows)
+- [Aboubakar scoop and Kudus strike add to World Cup goalfest – Football Daily](https://www.theguardian.com/football/audio/2022/nov/28/aboubakar-scoop-and-kudus-strike-add-to-world-cup-goalfest-football-daily)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

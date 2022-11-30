@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Motorola 68030 wire wrap prototype](https://retrocomputingforum.com/t/68030-prototype-at-1-mhz-18-boards-of-ttl/1387)
-- [EU Regulator: Proposal to force websites to pay telcos puts Internet at risk](https://cyberlaw.stanford.edu/blog/2022/11/eus-top-telecom-regulator-big-telecoms-proposal-force-websites-pay-them-puts-internet)
-- [JupyterLite: a JupyterLab distribution that runs in the browser](https://github.com/jupyterlite/jupyterlite)
-- [New GPT-3 model: text-DaVinci-003](https://beta.openai.com/docs/models/overview)
-- [Stable Diffusion 2.0 and the Importance of Negative Prompts for Good Results](https://minimaxir.com/2022/11/stable-diffusion-negative-prompt/)
-- [Ivy &lpar;YC W23&rpar; Is Hiring Engineers to Unify ML](https://www.ycombinator.com/companies/ivy/jobs)
-- [The Buy and Hold Mindset](https://avc.com/2022/11/the-buy-and-hold-mindset/)
-- [Enabling the Future of GitHub&#39;s REST API with API Versioning](https://github.blog/2022-11-28-to-infinity-and-beyond-enabling-the-future-of-githubs-rest-api-with-api-versioning/)
-- [AirDrop is now limited to 10 minutes](https://twitter.com/tibor/status/1597296268275240960)
-- [Protect me from what I want](https://www.tbray.org/ongoing/When/202x/2022/11/28/On-Algorithms)
+- [U.S. government to backstop mortgages above $1M for the first time](https://www.wsj.com/articles/u-s-government-to-backstop-mortgages-above-1-million-mark-for-first-time-11669740331)
+- [$50SAT](http://www.50dollarsat.info/)
+- [Show HN: Trading cards made with e-ink displays](https://www.wyldcard.io/blog/introducing-wyldcard)
+- [Artist feeds childhood diary into GPT-3 to have a moving chat with herself](https://nwn.blogs.com/nwn/2022/11/michelle-huang-ai-art-gpt-diary-conversation.html)
+- [No Privacy in the Electronics Repair Industry](https://arxiv.org/abs/2211.05824)
+- [Show HN: A userscript that adds archive URLs below the paywalled HN submissions](https://github.com/MostlyEmre/hn-anti-paywall)
+- [The Mall Only Has 3 Stores](https://unfairnation.substack.com/p/the-mall-only-has-3-stores)
+- [Who Controls the Internet? Authoritative NS Records in gTLDs](https://netmeister.org/blog/nsauth-diversity.html)
+- [How Stuff Gets eXposed](https://sgx.fail/)
+- [Pele&#39;s Hair](https://www.nps.gov/havo/learn/nature/peles-hair.htm)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

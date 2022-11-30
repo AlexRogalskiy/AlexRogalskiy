@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Adani port protests: more than 80 wounded in latest clash to halt project in India’s Kerala](https://www.theguardian.com/business/2022/nov/29/adani-port-protests-india-kerala-vizhinjam-project)
-- [Russia-Ukraine war at a glance: what we know on day 279 of the invasion](https://www.theguardian.com/world/2022/nov/29/russia-ukraine-war-at-a-glance-what-we-know-on-day-279-of-the-invasion)
-- [New Zealand ‘suitcase’ murders: South Korea hands over 42-year-old suspect](https://www.theguardian.com/world/2022/nov/29/new-zealand-suitcase-murders-south-korea-hands-over-42-year-old-suspect)
-- [Will Smith ‘completely understands’ if audiences avoid his films post Oscars slap](https://www.theguardian.com/film/2022/nov/29/will-smith-emancipation-movie-understands-if-people-avoid-his-films-after-chris-rock-oscars-slap)
-- [Republican officials in Arizona county refuse to certify midterm results](https://www.theguardian.com/us-news/2022/nov/28/republicans-arizona-county-refuse-to-certify-midterm-election-results)
-- [Senior media figures call for law to stop oligarchs silencing UK journalists](https://www.theguardian.com/news/2022/nov/29/slapps-senior-media-figures-call-for-law-stop-oligarchs-silencing-uk-journalists)
-- [Nia Archives, Cat Burns and Flo nominated for Brits Rising Star award](https://www.theguardian.com/music/2022/nov/29/nia-archives-cat-burns-and-flo-nominated-for-brits-rising-star-award)
-- [Calls for UK ban on pre-payment meter installations made under court warrants](https://www.theguardian.com/society/2022/nov/29/calls-for-uk-ban-on-pre-payment-meter-installations-made-under-court-warrants)
-- [Cannabis oil failed to improve pain or quality of life in palliative care cancer patients, study shows](https://www.theguardian.com/australia-news/2022/nov/29/cannabis-oil-failed-to-improve-pain-or-quality-of-life-in-palliative-care-cancer-patients-study-shows)
-- [Aboubakar scoop and Kudus strike add to World Cup goalfest – Football Daily](https://www.theguardian.com/football/audio/2022/nov/28/aboubakar-scoop-and-kudus-strike-add-to-world-cup-goalfest-football-daily)
+- [Hawaii’s Mauna Loa volcano erupts – in pictures](https://www.theguardian.com/environment/gallery/2022/nov/30/hawaiis-mauna-loa-volcano-erupts-in-pictures)
+- [Kim Kardashian and Kanye West reach divorce settlement](https://www.theguardian.com/music/2022/nov/29/kardashian-kanye-west-divorce-agreement-reached)
+- [Jailed Belarus opposition figure Maria Kolesnikova ‘in intensive care’](https://www.theguardian.com/world/2022/nov/30/jailed-belarus-opposition-figure-maria-kolesnikova-in-intensive-care)
+- [Russia-Ukraine war at a glance: what we know on day 280 of the invasion](https://www.theguardian.com/world/2022/nov/30/russia-ukraine-war-at-a-glance-what-we-know-on-day-280-of-the-invasion)
+- [Drug slows cognitive decline in Alzheimer’s patients, study reveals](https://www.theguardian.com/society/2022/nov/30/drug-slows-cognitive-decline-in-alzheimers-patients-study-reveals)
+- [Singapore lifts gay sex ban but blocks path toward marriage equality](https://www.theguardian.com/world/2022/nov/30/singapore-lifts-gay-sex-ban-but-blocks-path-toward-marriage-equality)
+- [South Dakota bans TikTok access on state-owned devices citing ties to China](https://www.theguardian.com/us-news/2022/nov/29/south-dakota-bans-tiktok-state-owned-devices)
+- [US Senate passes bill protecting same-sex marriage](https://www.theguardian.com/us-news/2022/nov/29/us-same-sex-marriage-law-senate-passes)
+- [Jacinda Ardern and Sanna Marin dismiss suggestion their age and gender was reason for meeting](https://www.theguardian.com/world/2022/nov/30/jacinda-ardern-and-sanna-marin-dismiss-suggestion-their-age-and-gender-was-reason-for-meeting)
+- [Oath Keepers founder Stewart Rhodes found guilty of seditious conspiracy](https://www.theguardian.com/us-news/2022/nov/29/oath-keepers-militia-founder-stewart-rhodes-seditious-conspiracy)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

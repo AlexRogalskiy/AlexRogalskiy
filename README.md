@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Aliens of the Sea](https://www.youtube.com/watch?v=mFP_AjJeP-M)
-- [25% of hiring managers are less likely to move forward with Jewish applicants](https://www.resumebuilder.com/1-in-4-hiring-managers-say-they-are-less-likely-to-move-forward-with-jewish-applicants/)
-- [Vanilla Rails authentication with the Authentication Zero gem](https://codewithrails.com/rails-authentication)
-- [It’s visual delight that you’re looking for, not gamification](https://uxdesign.cc/its-visual-delight-that-you-re-looking-for-not-gamification-a779c4743af0)
-- [The Fijian island being strangled by vines](https://www.theguardian.com/artanddesign/2022/nov/28/the-fijian-island-being-strangled-by-vines)
-- [Package is Deprecated because the Maintainer locked himself out by accident](https://github.com/palantir/python-language-server/issues/935)
-- [The death of literary culture &lpar;2021&rpar;](https://jakeseliger.com/2021/09/30/the-death-of-literary-culture/)
-- [Coast Guard crew carrying Christmas Tree Ship load is crossing Lake Michigan](https://www.mlive.com/news/2022/11/coast-guard-crew-carrying-christmas-tree-ship-load-is-crossing-lake-michigan.html)
-- [Boil Water Notice for City of Houston](https://mailchi.mp/houstontx/boilwaternoticenovember2022)
-- [On Video-Text](https://cristobal.space/writing/video-text)
+- [Serpbear: Search Engine Position Rank Tracking App](https://github.com/towfiqi/serpbear)
+- [‘Magic doesn’t pay the bills’: Walt Disney workers march near the park](https://deadline.com/2022/11/walt-disney-world-workers-march-near-park-wage-increase-1235185689/)
+- [When Nazis took Manhattan &lpar;2019&rpar;](https://www.npr.org/sections/codeswitch/2019/02/20/695941323/when-nazis-took-manhattan)
+- [A Vim Guide for Advanced Users](https://thevaluable.dev/vim-advanced/)
+- [Chrome OS Flex is a bad operating system](https://www.youtube.com/watch?v=XYBMdKlYygg)
+- [Gas prices now at pre-Ukraine invasion levels; White House takes partial credit](https://www.fox4news.com/news/gas-prices-now-at-pre-ukraine-invasion-levels-white-house-takes-partial-credit-for-it)
+- [Don’t Make Revenue the Enemy](https://thebaton.substack.com/p/dont-make-revenue-the-enemy)
+- [Procedurally Generated Mocks](https://www.blankenship.io/blog/2022-11-30/)
+- [Sam Bankman-Fried to New York Times: “I Wasn&#39;t Running Alameda”](https://cryptobriefing.com/sam-bankman-fried-to-new-york-times-i-wasnt-running-alameda/)
+- [Tim Cook is now following Elon Musk on Twitter](https://twitter.com/bigtechalert/status/1598142355097387009)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

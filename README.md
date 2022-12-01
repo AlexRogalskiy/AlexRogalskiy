@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [U.S. government to backstop mortgages above $1M for the first time](https://www.wsj.com/articles/u-s-government-to-backstop-mortgages-above-1-million-mark-for-first-time-11669740331)
-- [$50SAT](http://www.50dollarsat.info/)
-- [Show HN: Trading cards made with e-ink displays](https://www.wyldcard.io/blog/introducing-wyldcard)
-- [Artist feeds childhood diary into GPT-3 to have a moving chat with herself](https://nwn.blogs.com/nwn/2022/11/michelle-huang-ai-art-gpt-diary-conversation.html)
-- [No Privacy in the Electronics Repair Industry](https://arxiv.org/abs/2211.05824)
-- [Show HN: A userscript that adds archive URLs below the paywalled HN submissions](https://github.com/MostlyEmre/hn-anti-paywall)
-- [The Mall Only Has 3 Stores](https://unfairnation.substack.com/p/the-mall-only-has-3-stores)
-- [Who Controls the Internet? Authoritative NS Records in gTLDs](https://netmeister.org/blog/nsauth-diversity.html)
-- [How Stuff Gets eXposed](https://sgx.fail/)
-- [Pele&#39;s Hair](https://www.nps.gov/havo/learn/nature/peles-hair.htm)
+- [Show HN: I am building a Safari Web Extension to switch tabs efficiently](https://taptab.manibatra.xyz/)
+- [Don&#39;t End the Week with Nothing &lpar;2014&rpar;](https://training.kalzumeus.com/newsletters/archive/do-not-end-the-week-with-nothing)
+- [Making unphishable 2FA phishable](https://mjg59.dreamwidth.org/62175.html)
+- [Age that kids acquire mobile phones not linked to well-being: study](https://med.stanford.edu/news/all-news/2022/11/children-mobile-phone-age.html)
+- [GIMP Turns 27](https://www.gimp.org/news/2022/11/21/gimp-27-birthday/)
+- [We found critical vulnerabilities in Hive Social](https://zerforschung.org/posts/hive-en/)
+- [Meticulous &lpar;YC S21&rpar; Is Hiring #3 Founding Engineer in London](https://news.ycombinator.com/item?id=33807621)
+- [FTX’s collapse was a crime, not an accident](https://www.coindesk.com/layer2/2022/11/30/ftxs-collapse-was-a-crime-not-an-accident/)
+- [This Week&#39;s Hype](https://www.math.columbia.edu/~woit/wordpress/?p=13181)
+- [New details on commercial spyware vendor Variston](https://blog.google/threat-analysis-group/new-details-on-commercial-spyware-vendor-variston/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

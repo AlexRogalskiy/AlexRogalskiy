@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [BrandPost: AIOps: The Path to a Better IT Paradigm](https://www.computerworld.com/article/3681888/aiops-the-path-to-a-better-it-paradigm.html#tk.rss_all)
+- [BrandPost: Forget Rip and Replace. Innovate in Place.](https://www.computerworld.com/article/3681849/forget-rip-and-replace-innovate-in-place.html#tk.rss_all)
+- [BrandPost: The Underrated Elements of Cyber Resiliency](https://www.computerworld.com/article/3681829/the-underrated-elements-of-cyber-resiliency.html#tk.rss_all)
+- [IBM, Maersk scuttle blockchain-based TradeLens supply chain platform](https://www.computerworld.com/article/3681098/ibm-maersk-scuttle-blockchain-based-tradelens-supply-chain-platform.html#tk.rss_all)
+- [AWS brings Verified Access security to the Apple enterprise](https://www.computerworld.com/article/3681451/aws-brings-verified-access-security-to-the-apple-enterprise.html#tk.rss_all)
+- [3 quick tricks for smarter Android sharing](https://www.computerworld.com/article/3681654/android-sharing.html#tk.rss_all)
+- [The new way to hire tech workers: from the bottom up](https://www.computerworld.com/article/3681651/the-new-way-to-hire-tech-workers-from-the-bottom-up.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [When fees are &#39;taxes&#39; and free speech costs $8 a month](https://www.computerworld.com/article/3681077/when-fees-are-taxes-and-free-speech-costs-8-a-month.html#tk.rss_all)
 - [How not to manage a business, starring Twitter&#39;s Elon Musk](https://www.computerworld.com/article/3681073/how-not-to-manage-a-business-starring-twitters-elon-musk.html#tk.rss_all)
-- [Alation’s Connected Sheets brings data governance to spreadsheets](https://www.infoworld.com/article/3681336/alation-s-connected-sheets-brings-data-governance-to-spreadsheets.html#tk.rss_all)
-- [AWS releases Wickr, its encrypted messaging service for enterprises](https://www.computerworld.com/article/3681334/aws-releases-wickr-its-encrypted-messaging-service-for-enterprises.html#tk.rss_all)
-- [Why you must remember to update T&amp;Cs in Apple Business Manager](https://www.computerworld.com/article/3681548/why-you-must-remember-to-update-tcs-in-apple-business-manager.html#tk.rss_all)
-- [How to troubleshoot and reset Windows Update](https://www.computerworld.com/article/3673711/how-to-troubleshoot-and-reset-windows-update.html#tk.rss_all)
-- [Meta teaches an AI to lie, strategize](https://www.computerworld.com/article/3681330/meta-teaches-an-ai-to-lie-strategize.html#tk.rss_all)
-- [Changes to Google&#39;s employee appraisal system stir layoff fears](https://www.computerworld.com/article/3681109/changes-to-googles-employee-appraisal-system-stir-layoff-fears.html#tk.rss_all)
-- [HP to cut up to 6,000 staff in plan to mitigate PC market softness](https://www.computerworld.com/article/3681068/hp-to-cut-up-to-6000-staff-in-plan-to-mitigate-pc-market-softness.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

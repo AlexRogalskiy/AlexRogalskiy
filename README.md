@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Show HN: I am building a Safari Web Extension to switch tabs efficiently](https://taptab.manibatra.xyz/)
-- [Don&#39;t End the Week with Nothing &lpar;2014&rpar;](https://training.kalzumeus.com/newsletters/archive/do-not-end-the-week-with-nothing)
-- [Making unphishable 2FA phishable](https://mjg59.dreamwidth.org/62175.html)
-- [Age that kids acquire mobile phones not linked to well-being: study](https://med.stanford.edu/news/all-news/2022/11/children-mobile-phone-age.html)
-- [GIMP Turns 27](https://www.gimp.org/news/2022/11/21/gimp-27-birthday/)
-- [We found critical vulnerabilities in Hive Social](https://zerforschung.org/posts/hive-en/)
-- [Meticulous &lpar;YC S21&rpar; Is Hiring #3 Founding Engineer in London](https://news.ycombinator.com/item?id=33807621)
-- [FTX’s collapse was a crime, not an accident](https://www.coindesk.com/layer2/2022/11/30/ftxs-collapse-was-a-crime-not-an-accident/)
-- [This Week&#39;s Hype](https://www.math.columbia.edu/~woit/wordpress/?p=13181)
-- [New details on commercial spyware vendor Variston](https://blog.google/threat-analysis-group/new-details-on-commercial-spyware-vendor-variston/)
+- [America’s School Districts Are Too Big](https://www.wsj.com/articles/americas-school-districts-are-too-big-deconsolidation-democratic-local-control-community-efficiency-tuition-unions-11669818901)
+- [BloomTech, previously Lambda School, cuts half of staff](https://techcrunch.com/2022/12/01/bloomtech-previously-lambda-school-cuts-half-of-staff/)
+- [Accelerando &lpar;2005&rpar;](https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html)
+- [Android platform signing key compromised](https://bugs.chromium.org/p/apvi/issues/detail?id=100)
+- [The distinction between free speech as a legal right and cultural value](https://www.thefire.org/news/free-speech-culture-elon-musk-and-twitter)
+- [Show HN: A Japanese learning app focused on efficient vocab/grammar acquisition](https://lessons.nihongo-app.com)
+- [The Legacy of Peer-to-Peer Systems](https://cacm.acm.org/blogs/blog-cacm/267236-the-legacy-of-peer-to-peer-systems/fulltext)
+- [Stable Diffusion with Core ML on Apple Silicon](https://machinelearning.apple.com/research/stable-diffusion-coreml-apple-silicon)
+- [Gut epithelial barrier damage caused by dishwasher detergents and rinse aids](https://www.jacionline.org/article/S0091-6749(22)01477-4/fulltext)
+- [Mastering Stratego](https://www.deepmind.com/blog/mastering-stratego-the-classic-game-of-imperfect-information)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

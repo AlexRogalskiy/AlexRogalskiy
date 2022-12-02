@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Serpbear: Search Engine Position Rank Tracking App](https://github.com/towfiqi/serpbear)
-- [‘Magic doesn’t pay the bills’: Walt Disney workers march near the park](https://deadline.com/2022/11/walt-disney-world-workers-march-near-park-wage-increase-1235185689/)
-- [When Nazis took Manhattan &lpar;2019&rpar;](https://www.npr.org/sections/codeswitch/2019/02/20/695941323/when-nazis-took-manhattan)
-- [A Vim Guide for Advanced Users](https://thevaluable.dev/vim-advanced/)
-- [Chrome OS Flex is a bad operating system](https://www.youtube.com/watch?v=XYBMdKlYygg)
-- [Gas prices now at pre-Ukraine invasion levels; White House takes partial credit](https://www.fox4news.com/news/gas-prices-now-at-pre-ukraine-invasion-levels-white-house-takes-partial-credit-for-it)
-- [Don’t Make Revenue the Enemy](https://thebaton.substack.com/p/dont-make-revenue-the-enemy)
-- [Procedurally Generated Mocks](https://www.blankenship.io/blog/2022-11-30/)
-- [Sam Bankman-Fried to New York Times: “I Wasn&#39;t Running Alameda”](https://cryptobriefing.com/sam-bankman-fried-to-new-york-times-i-wasnt-running-alameda/)
-- [Tim Cook is now following Elon Musk on Twitter](https://twitter.com/bigtechalert/status/1598142355097387009)
+- [Ask HN: Is there a search tool that indexes a curated subset of the web?](https://news.ycombinator.com/item?id=33825975)
+- [Japanese companies to reduce reliance on China suppliers: Nikkei survey](https://asia.nikkei.com/Spotlight/Supply-Chain/Japan-makers-to-reduce-reliance-on-China-suppliers-Nikkei-survey)
+- [What Will Enter the Public Domain in 2023? A Festive Countdown](https://publicdomainreview.org/features/entering-the-public-domain/2023/)
+- [The Light Phone, $50 off until 15 Dec](https://www.thelightphone.com/products)
+- [Pig organs partially revived in dead animals – researchers are stunned](https://www.nature.com/articles/d41586-022-02112-0)
+- [The labor shortage could last for years](https://fortune.com/2022/11/17/declining-birth-rate-labor-shortage-workforce-population-glassdoor-indeed-report/)
+- [Ask HN: What&#39;s the most performant/practical model/API for text extraction?](https://news.ycombinator.com/item?id=33825866)
+- [Hive Social turns off servers after researchers warn hackers can access all data](https://arstechnica.com/information-technology/2022/12/hive-social-turns-off-servers-after-researchers-warn-hackers-can-access-all-data/)
+- [Jerry Lawson](https://en.wikipedia.org/wiki/Jerry_Lawson_(engineer))
+- [&#39;No Cooperation&#39;: How Sam Bankman-Fried Tried to Cling to FTX](https://www.nytimes.com/2022/11/29/technology/sam-bankman-fried-ftx-bankruptcy.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

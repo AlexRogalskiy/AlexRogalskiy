@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war at a glance: what we know on day 281 of the invasion](https://www.theguardian.com/world/2022/dec/01/russia-ukraine-war-at-a-glance-what-we-know-on-day-281-of-the-invasion)
-- [‘See you on the other side’: musicians pay tribute to Fleetwood Mac’s Christine McVie](https://www.theguardian.com/music/2022/dec/01/musicians-pay-tribute-to-christine-mcvie-fleetwood-mac)
-- [Socceroos set up Argentina tie as Denmark flop – Football Daily podcast](https://www.theguardian.com/football/audio/2022/dec/01/socceroos-set-up-argentina-tie-as-denmark-flop-football-daily-podcast)
-- [FTX founder Sam Bankman-Fried says he ‘screwed up’ but didn’t commit fraud](https://www.theguardian.com/technology/2022/nov/30/ftx-sam-bankman-fried-i-screwed-up)
-- [Weinstein trial: prosecutor says ‘hotels were his trap’ in closing arguments](https://www.theguardian.com/world/2022/nov/30/harvey-weinstein-los-angeles-trial-closing-arguments-begin)
-- [Independent inquiry over death of boy, 5, sent home from hospital](https://www.theguardian.com/uk-news/2022/nov/30/rotherham-independent-inquiry-to-look-at-death-of-boy-from-pneumonia)
-- [What’s on Netflix and Amazon this month – December](https://www.theguardian.com/tv-and-radio/ng-interactive/2022/dec/01/whats-on-netflix-and-amazon-this-month-december)
-- [The best theatre to stream this month: Age of Rage, A Scary Little Tempest and more](https://www.theguardian.com/stage/2022/dec/01/the-best-theatre-to-stream-this-month-ivo-van-hove-little-match-girl)
-- [It&#39;s been a joy watching the World Cup with my kids. Just don’t tell them it’s not live | Adam Liaw](https://www.theguardian.com/commentisfree/2022/dec/01/its-been-a-joy-watching-the-world-cup-with-my-kids-just-dont-tell-them-its-not-live)
-- [Aymeric Laporte: ‘I’m not a football addict. I don’t like watching matches’](https://www.theguardian.com/football/2022/nov/30/aymeric-laporte-spain-world-cup-not-football-addict)
+- [Republicans delete tweet that appears to support Kanye West after he praises Nazis](https://www.theguardian.com/music/2022/dec/01/kanye-west-ye-republican-tweet-deleted)
+- [Labour hold City of Chester in first byelection since Johnson and Truss resignations](https://www.theguardian.com/politics/2022/dec/02/labour-easily-holds-city-of-chester-seat-in-first-byelection-test-for-sunak)
+- [Failure of officials to follow policy caused California gun owners’ data leak](https://www.theguardian.com/us-news/2022/dec/01/california-justice-department-gun-owner-data-leak-error)
+- [Russia-Ukraine war at a glance: what we know on day 282 of the invasion](https://www.theguardian.com/world/2022/dec/02/russia-ukraine-war-at-a-glance-what-we-know-on-day-282-of-the-invasion)
+- [Viva Magenta! What Pantone’s colour of the year tells us about 2023](https://www.theguardian.com/fashion/2022/dec/02/viva-magenta-what-pantones-colour-of-the-year-tells-us-about-2023)
+- [Welsh primary school pupil dies after contracting invasive Strep A](https://www.theguardian.com/uk-news/2022/dec/02/welsh-primary-school-pupil-dies-after-contracting-invasive-strep-a)
+- [Hansi Flick left in limbo as Germany fail to find new winning blueprint | Jonathan Liew](https://www.theguardian.com/football/blog/2022/dec/01/hansi-flick-germany-world-cup-limbo-fail-winning-blueprint)
+- [My wife says pursuing my hobby will end our marriage. Let’s call it, hypothetically, motorcycling](https://www.theguardian.com/lifeandstyle/2022/dec/02/my-wife-says-pursuing-my-hobby-will-end-our-marriage-lets-call-it-hypothetically-motorcycling)
+- [Matt Hancock says he vetoed ‘bonkers proposal’ to let out prisoners during lockdown](https://www.theguardian.com/world/2022/dec/01/matt-hancock-says-he-vetoed-bonkers-proposal-to-let-out-prisoners-during-lockdown)
+- [David Fuller: victims’ families to be compensated by UK government](https://www.theguardian.com/uk-news/2022/dec/01/david-fuller-victims-families-to-be-compensated-by-uk-government)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

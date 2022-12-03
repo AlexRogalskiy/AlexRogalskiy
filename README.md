@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Republicans delete tweet that appears to support Kanye West after he praises Nazis](https://www.theguardian.com/music/2022/dec/01/kanye-west-ye-republican-tweet-deleted)
-- [Labour hold City of Chester in first byelection since Johnson and Truss resignations](https://www.theguardian.com/politics/2022/dec/02/labour-easily-holds-city-of-chester-seat-in-first-byelection-test-for-sunak)
-- [Failure of officials to follow policy caused California gun owners’ data leak](https://www.theguardian.com/us-news/2022/dec/01/california-justice-department-gun-owner-data-leak-error)
-- [Russia-Ukraine war at a glance: what we know on day 282 of the invasion](https://www.theguardian.com/world/2022/dec/02/russia-ukraine-war-at-a-glance-what-we-know-on-day-282-of-the-invasion)
-- [Viva Magenta! What Pantone’s colour of the year tells us about 2023](https://www.theguardian.com/fashion/2022/dec/02/viva-magenta-what-pantones-colour-of-the-year-tells-us-about-2023)
-- [Welsh primary school pupil dies after contracting invasive Strep A](https://www.theguardian.com/uk-news/2022/dec/02/welsh-primary-school-pupil-dies-after-contracting-invasive-strep-a)
-- [Hansi Flick left in limbo as Germany fail to find new winning blueprint | Jonathan Liew](https://www.theguardian.com/football/blog/2022/dec/01/hansi-flick-germany-world-cup-limbo-fail-winning-blueprint)
-- [My wife says pursuing my hobby will end our marriage. Let’s call it, hypothetically, motorcycling](https://www.theguardian.com/lifeandstyle/2022/dec/02/my-wife-says-pursuing-my-hobby-will-end-our-marriage-lets-call-it-hypothetically-motorcycling)
-- [Matt Hancock says he vetoed ‘bonkers proposal’ to let out prisoners during lockdown](https://www.theguardian.com/world/2022/dec/01/matt-hancock-says-he-vetoed-bonkers-proposal-to-let-out-prisoners-during-lockdown)
-- [David Fuller: victims’ families to be compensated by UK government](https://www.theguardian.com/uk-news/2022/dec/01/david-fuller-victims-families-to-be-compensated-by-uk-government)
+- [Graham Arnold relishing success of Socceroos ‘platinum generation’](https://www.theguardian.com/football/2022/dec/03/graham-arnold-relishing-success-of-australias-platinum-generation)
+- [Game of cojones: Serbia suffer and give Granit Xhaka the last word | Barney Ronay](https://www.theguardian.com/football/blog/2022/dec/02/serbia-suffer-and-give-granit-xhaka-last-word-in-game-of-gesture-politics-switzerland-world-cup)
+- [Peter Kay review – from tried and tested everyman routine to jaw-dropping pageant](https://www.theguardian.com/culture/2022/dec/02/peter-kay-review-tried-tested-everyman-routine-to-jaw-dropping-pageant)
+- [League One: Ipswich held and Plymouth beaten in boost for chasing pack](https://www.theguardian.com/football/2022/dec/02/league-one-ipswich-fleetwood-plymouth-port-vale)
+- [Earthshot fund gives £1m to UK scientists fighting climate crisis](https://www.theguardian.com/environment/2022/dec/02/earthshot-fund-gives-1m-to-uk-scientists-fighting-climate-crisis)
+- [Seven in 10 nurseries in England warn fees will rise amid energy crisis](https://www.theguardian.com/education/2022/dec/02/nurseries-england-warn-fees-rise-energy-crisis)
+- [‘The defeats always stay’: Jordan Henderson reflects on near misses](https://www.theguardian.com/football/2022/dec/02/jordan-henderson-england-liverpool-near-misses)
+- [Suspect arrested in killing of rapper Takeoff, say Houston police](https://www.theguardian.com/us-news/2022/dec/02/takeoff-killing-murder-arrest-migos)
+- [‘Enough is enough’: wave of strikes led by ‘fantastic’ women, says Frances O’Grady](https://www.theguardian.com/politics/2022/dec/02/strikes-lead-women-frances-ogrady-tuc-unions)
+- [Aboubakar stuns Brazil with Cameroon winner but is sent off for celebration](https://www.theguardian.com/football/2022/dec/02/cameroon-brazil-world-cup-group-g-match-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

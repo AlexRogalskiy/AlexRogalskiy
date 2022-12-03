@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [America’s School Districts Are Too Big](https://www.wsj.com/articles/americas-school-districts-are-too-big-deconsolidation-democratic-local-control-community-efficiency-tuition-unions-11669818901)
-- [BloomTech, previously Lambda School, cuts half of staff](https://techcrunch.com/2022/12/01/bloomtech-previously-lambda-school-cuts-half-of-staff/)
-- [Accelerando &lpar;2005&rpar;](https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html)
-- [Android platform signing key compromised](https://bugs.chromium.org/p/apvi/issues/detail?id=100)
-- [The distinction between free speech as a legal right and cultural value](https://www.thefire.org/news/free-speech-culture-elon-musk-and-twitter)
-- [Show HN: A Japanese learning app focused on efficient vocab/grammar acquisition](https://lessons.nihongo-app.com)
-- [The Legacy of Peer-to-Peer Systems](https://cacm.acm.org/blogs/blog-cacm/267236-the-legacy-of-peer-to-peer-systems/fulltext)
-- [Stable Diffusion with Core ML on Apple Silicon](https://machinelearning.apple.com/research/stable-diffusion-coreml-apple-silicon)
-- [Gut epithelial barrier damage caused by dishwasher detergents and rinse aids](https://www.jacionline.org/article/S0091-6749(22)01477-4/fulltext)
-- [Mastering Stratego](https://www.deepmind.com/blog/mastering-stratego-the-classic-game-of-imperfect-information)
+- [Why I only use plain black wallpapers](https://tiramisu.bearblog.dev/your-desktop-is-not-a-destination/)
+- [Starshield: Secured satellite network for government entities](https://www.spacex.com/starshield/)
+- [The Twitter Files](https://twitter.com/mtaibbi/status/1598822959866683394)
+- [The Financial Times has had an error on its “Market Data” page for 18 months](https://mako.cc/copyrighteous/the-financial-times-has-been-printing-an-obvious-error-on-its-market-data-page-for-18-months-and-nobody-else-seems-to-have-noticed)
+- [Datasette’s new JSON write API: The first alpha of Datasette 1.0](https://simonwillison.net/2022/Dec/2/datasette-write-api/)
+- [Puter](https://puter.com/)
+- [The clever reason scammers can’t spell &lpar;2019&rpar;](https://itservices.wp.st-andrews.ac.uk/2019/06/06/the-clever-reason-scammers-cant-spell/)
+- [Carmack on star fields in VR](https://twitter.com/id_aa_carmack/status/1598792396191375361)
+- [South Dakota first to ban TikTok on state-owned devices](https://gizmodo.com/tiktok-china-south-dakota-ban-bytedance-1849836201)
+- [Drag and Drop from Terminal](https://blog.meain.io/2022/terminal-drag-and-drop/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

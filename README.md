@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ask HN: Is there a search tool that indexes a curated subset of the web?](https://news.ycombinator.com/item?id=33825975)
-- [Japanese companies to reduce reliance on China suppliers: Nikkei survey](https://asia.nikkei.com/Spotlight/Supply-Chain/Japan-makers-to-reduce-reliance-on-China-suppliers-Nikkei-survey)
-- [What Will Enter the Public Domain in 2023? A Festive Countdown](https://publicdomainreview.org/features/entering-the-public-domain/2023/)
-- [The Light Phone, $50 off until 15 Dec](https://www.thelightphone.com/products)
-- [Pig organs partially revived in dead animals – researchers are stunned](https://www.nature.com/articles/d41586-022-02112-0)
-- [The labor shortage could last for years](https://fortune.com/2022/11/17/declining-birth-rate-labor-shortage-workforce-population-glassdoor-indeed-report/)
-- [Ask HN: What&#39;s the most performant/practical model/API for text extraction?](https://news.ycombinator.com/item?id=33825866)
-- [Hive Social turns off servers after researchers warn hackers can access all data](https://arstechnica.com/information-technology/2022/12/hive-social-turns-off-servers-after-researchers-warn-hackers-can-access-all-data/)
-- [Jerry Lawson](https://en.wikipedia.org/wiki/Jerry_Lawson_(engineer))
-- [&#39;No Cooperation&#39;: How Sam Bankman-Fried Tried to Cling to FTX](https://www.nytimes.com/2022/11/29/technology/sam-bankman-fried-ftx-bankruptcy.html)
+- [What Linux distributions to recommend to computer scientists](https://informatique-libre.be/swilmet/blog/2022-11-26-recommendation-linux-distros.html)
+- [Did you know the Supreme Court axed a number of media ownership rules?](http://www.chicagomediaaction.org/news.php?id=737)
+- [Upscayl vs. Upscaler: Real-ESRGAN is getting native Linux apps](https://librearts.org/2022/11/upscayl-upscaler-real-esrgan/)
+- [Hacking a weird TV censoring device [video]](https://www.youtube.com/watch?v=a6EWIh2D1NQ)
+- [Ray Bradbury, the Art of Fiction No. 203 &lpar;2010&rpar;](https://www.theparisreview.org/interviews/6012/the-art-of-fiction-no-203-ray-bradbury)
+- [Simple Secret Santa in Python](https://github.com/dpittsley/stuff/blob/main/secret_santa.py)
+- [Automated Testing of Gnome Shell](https://blogs.gnome.org/shell-dev/2022/12/02/automated-testing-of-gnome-shell/)
+- [Why You Hate Matplotlib](https://ryxcommar.com/2020/04/11/why-you-hate-matplotlib/)
+- [Twitter exec says moving fast on moderation, as harmful content surges](https://www.reuters.com/technology/twitter-exec-says-moving-fast-moderation-harmful-content-surges-2022-12-03/)
+- [OsmocomDECT – New DECT research / playground](https://projects.osmocom.org/news/202)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

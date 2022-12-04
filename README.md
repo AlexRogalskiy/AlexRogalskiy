@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Graham Arnold relishing success of Socceroos ‘platinum generation’](https://www.theguardian.com/football/2022/dec/03/graham-arnold-relishing-success-of-australias-platinum-generation)
-- [Game of cojones: Serbia suffer and give Granit Xhaka the last word | Barney Ronay](https://www.theguardian.com/football/blog/2022/dec/02/serbia-suffer-and-give-granit-xhaka-last-word-in-game-of-gesture-politics-switzerland-world-cup)
-- [Peter Kay review – from tried and tested everyman routine to jaw-dropping pageant](https://www.theguardian.com/culture/2022/dec/02/peter-kay-review-tried-tested-everyman-routine-to-jaw-dropping-pageant)
-- [League One: Ipswich held and Plymouth beaten in boost for chasing pack](https://www.theguardian.com/football/2022/dec/02/league-one-ipswich-fleetwood-plymouth-port-vale)
-- [Earthshot fund gives £1m to UK scientists fighting climate crisis](https://www.theguardian.com/environment/2022/dec/02/earthshot-fund-gives-1m-to-uk-scientists-fighting-climate-crisis)
-- [Seven in 10 nurseries in England warn fees will rise amid energy crisis](https://www.theguardian.com/education/2022/dec/02/nurseries-england-warn-fees-rise-energy-crisis)
-- [‘The defeats always stay’: Jordan Henderson reflects on near misses](https://www.theguardian.com/football/2022/dec/02/jordan-henderson-england-liverpool-near-misses)
-- [Suspect arrested in killing of rapper Takeoff, say Houston police](https://www.theguardian.com/us-news/2022/dec/02/takeoff-killing-murder-arrest-migos)
-- [‘Enough is enough’: wave of strikes led by ‘fantastic’ women, says Frances O’Grady](https://www.theguardian.com/politics/2022/dec/02/strikes-lead-women-frances-ogrady-tuc-unions)
-- [Aboubakar stuns Brazil with Cameroon winner but is sent off for celebration](https://www.theguardian.com/football/2022/dec/02/cameroon-brazil-world-cup-group-g-match-report)
+- [Russia-Ukraine war at a glance: what we know on day 284 of the invasion](https://www.theguardian.com/world/2022/dec/04/russia-ukraine-war-at-a-glance-what-we-know-on-day-284-of-the-invasion)
+- [Iran reviewing mandatory headscarf law amid ongoing protests](https://www.theguardian.com/world/2022/dec/04/iran-reviewing-mandatory-headscarf-law-amid-ongoing-protests)
+- [Britain is in decline. Sunak’s deluded approach will do nothing to stop it | Simon Tisdall](https://www.theguardian.com/commentisfree/2022/dec/04/sunak-deluded-wont-stop-britain-decline)
+- [Rail industry prays for a Christmas miracle to avert strikes](https://www.theguardian.com/business/2022/dec/04/rail-industry-prays-for-a-christmas-miracle-to-avert-strikes)
+- [Factchecking organisation wins prestigious British Academy award](https://www.theguardian.com/media/2022/dec/04/factchecking-organisation-wins-prestigious-british-academy-award)
+- [World Cup 2022: Argentina bring Australia’s adventure to an end – in pictures](https://www.theguardian.com/football/gallery/2022/dec/04/world-cup-2022-argentina-bring-australias-world-cup-adventure-to-an-end-in-pictures)
+- [We love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2022/dec/03/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Tyson Fury turns focus to Usyk after dominating Derek Chisora to retain title](https://www.theguardian.com/sport/2022/dec/03/tyson-fury-retains-heavyweight-title-after-stopping-derek-chisora)
+- [BBC chairman criticises Emily Maitlis’ Newsnight comments on Dominic Cummings](https://www.theguardian.com/media/2022/dec/03/bbc-chairman-criticises-emily-maitlis-newsnight-comments-on-dominic-cummings)
+- [Australia and USA bow out bravely as World Cup last 16 begins – Football Daily](https://www.theguardian.com/football/audio/2022/dec/03/world-cup-2022-argentina-australia-netherlands-usa-football-daily)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

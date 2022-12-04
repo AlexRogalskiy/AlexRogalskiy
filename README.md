@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [What Linux distributions to recommend to computer scientists](https://informatique-libre.be/swilmet/blog/2022-11-26-recommendation-linux-distros.html)
-- [Did you know the Supreme Court axed a number of media ownership rules?](http://www.chicagomediaaction.org/news.php?id=737)
-- [Upscayl vs. Upscaler: Real-ESRGAN is getting native Linux apps](https://librearts.org/2022/11/upscayl-upscaler-real-esrgan/)
-- [Hacking a weird TV censoring device [video]](https://www.youtube.com/watch?v=a6EWIh2D1NQ)
-- [Ray Bradbury, the Art of Fiction No. 203 &lpar;2010&rpar;](https://www.theparisreview.org/interviews/6012/the-art-of-fiction-no-203-ray-bradbury)
-- [Simple Secret Santa in Python](https://github.com/dpittsley/stuff/blob/main/secret_santa.py)
-- [Automated Testing of Gnome Shell](https://blogs.gnome.org/shell-dev/2022/12/02/automated-testing-of-gnome-shell/)
-- [Why You Hate Matplotlib](https://ryxcommar.com/2020/04/11/why-you-hate-matplotlib/)
-- [Twitter exec says moving fast on moderation, as harmful content surges](https://www.reuters.com/technology/twitter-exec-says-moving-fast-moderation-harmful-content-surges-2022-12-03/)
-- [OsmocomDECT – New DECT research / playground](https://projects.osmocom.org/news/202)
+- [Using Neovim as a Fennel Compiler](https://enochchau.com/blog/2022/using-neovim-as-a-fennel-compiler/)
+- [Yjs: Shared data types for building collaborative software](https://github.com/yjs/yjs)
+- [Yjs – Shared Editing](https://yjs.dev/)
+- [Building a Growth Engineering Organization from Scratch](https://blog.dopt.com/growth-engineering-at-mux)
+- [SQL for Data Scientists](https://www.wiley.com/en-us/search?pq=1119669367%7Crelevance)
+- [Tell HN: ChatGPT can generate content in other languages](https://news.ycombinator.com/item?id=33849865)
+- [Electronic Computers Improve Management Control &lpar;1957&rpar;](https://www.youtube.com/watch?v=ru4PWEiBess)
+- [TSA Begins Quietly Testing Facial Recognition Tech](https://news.slashdot.org/story/22/12/03/0519225/americas-tsa-begins-quietly-testing-facial-recognition-tech-at-16-airports)
+- [Debian Emerald Theme](https://wiki.debian.org/DebianArt/Themes/Emerald)
+- [Ticketbot – supybot plugin to look up bug numbers and the like](https://github.com/weaselp/ticketbot)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

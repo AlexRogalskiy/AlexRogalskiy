@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Why I only use plain black wallpapers](https://tiramisu.bearblog.dev/your-desktop-is-not-a-destination/)
-- [Starshield: Secured satellite network for government entities](https://www.spacex.com/starshield/)
-- [The Twitter Files](https://twitter.com/mtaibbi/status/1598822959866683394)
-- [The Financial Times has had an error on its “Market Data” page for 18 months](https://mako.cc/copyrighteous/the-financial-times-has-been-printing-an-obvious-error-on-its-market-data-page-for-18-months-and-nobody-else-seems-to-have-noticed)
-- [Datasette’s new JSON write API: The first alpha of Datasette 1.0](https://simonwillison.net/2022/Dec/2/datasette-write-api/)
-- [Puter](https://puter.com/)
-- [The clever reason scammers can’t spell &lpar;2019&rpar;](https://itservices.wp.st-andrews.ac.uk/2019/06/06/the-clever-reason-scammers-cant-spell/)
-- [Carmack on star fields in VR](https://twitter.com/id_aa_carmack/status/1598792396191375361)
-- [South Dakota first to ban TikTok on state-owned devices](https://gizmodo.com/tiktok-china-south-dakota-ban-bytedance-1849836201)
-- [Drag and Drop from Terminal](https://blog.meain.io/2022/terminal-drag-and-drop/)
+- [Emacs should become a Wayland compositor](https://emacsconf.org/2022/talks/wayland/)
+- [Ask HN: Best books read in 2022](https://news.ycombinator.com/item?id=33849267)
+- [Fosshost Is Shutting Down](https://fosshost.org/)
+- [Gameboy Doctor: debug and fix your gameboy emulator](https://robertheaton.com/gameboy-doctor/)
+- [Building a Virtual Machine Inside ChatGPT](https://www.engraved.blog/building-a-virtual-machine-inside/)
+- [Anker’s Eufy lied to us about the security of its security cameras](https://www.theverge.com/2022/11/30/23486753/anker-eufy-security-camera-cloud-private-encryption-authentication-storage)
+- [MSN replaced journalists with AI publishing fake news about mermaids and Bigfoot](https://futurism.com/msn-is-publishing-more-fake-news)
+- [France prepares for possibility of electricity blackouts during winter months](https://www.rfi.fr/en/france/20221201-how-france-is-preparing-to-avoid-a-major-blackout-this-winter)
+- [Adventures in Advent of Code](https://davedelong.com/blog/2022/12/03/adventures-in-advent-of-code/)
+- [MagSpoof: Wireless Magstrip Spoofer](https://github.com/samyk/magspoof)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

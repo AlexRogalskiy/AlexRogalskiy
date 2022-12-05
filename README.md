@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Using Neovim as a Fennel Compiler](https://enochchau.com/blog/2022/using-neovim-as-a-fennel-compiler/)
-- [Yjs: Shared data types for building collaborative software](https://github.com/yjs/yjs)
-- [Yjs – Shared Editing](https://yjs.dev/)
-- [Building a Growth Engineering Organization from Scratch](https://blog.dopt.com/growth-engineering-at-mux)
-- [SQL for Data Scientists](https://www.wiley.com/en-us/search?pq=1119669367%7Crelevance)
-- [Tell HN: ChatGPT can generate content in other languages](https://news.ycombinator.com/item?id=33849865)
-- [Electronic Computers Improve Management Control &lpar;1957&rpar;](https://www.youtube.com/watch?v=ru4PWEiBess)
-- [TSA Begins Quietly Testing Facial Recognition Tech](https://news.slashdot.org/story/22/12/03/0519225/americas-tsa-begins-quietly-testing-facial-recognition-tech-at-16-airports)
-- [Debian Emerald Theme](https://wiki.debian.org/DebianArt/Themes/Emerald)
-- [Ticketbot – supybot plugin to look up bug numbers and the like](https://github.com/weaselp/ticketbot)
+- [As the Arctic warms, beavers are moving in](https://knowablemagazine.org/article/living-world/2022/as-arctic-warms-beavers-move-in)
+- [The conspiracy theory economics of Bitcoin](https://davidgerard.co.uk/blockchain/the-conspiracist-gold-bug-economics-of-bitcoin/)
+- [Ask HN: Should I be scared of you stealing my idea?](https://news.ycombinator.com/item?id=33860728)
+- [Why and How ZK-Snark Works](https://arxiv.org/abs/1906.07221)
+- [How to Become a Smart Contract Auditor](https://jacksonkelley.gumroad.com/l/how-to-become-a-smart-contract-auditor)
+- [A mediocre Dutch artist cast &#39;the forger&#39;s spell&#39; &lpar;2008&rpar;](http://www.npr.org/templates/story/story.php?storyId=92483237)
+- [When Liquidity Changes, Everything Changes](https://www.getrevue.co/profile/raoulgmi/issues/when-liquidity-changes-everything-changes-1479317)
+- [NixOS Webzine – Your tasty dose of reproducible NixOS news](https://webzine.nixos.cafe/)
+- [Assault on California Power Station Raises 2014](https://www.wsj.com/articles/SB10001424052702304851104579359141941621778)
+- [Nibbler 4 Bit CPU](https://www.bigmessowires.com/nibbler/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war at a glance: what we know on day 284 of the invasion](https://www.theguardian.com/world/2022/dec/04/russia-ukraine-war-at-a-glance-what-we-know-on-day-284-of-the-invasion)
-- [Iran reviewing mandatory headscarf law amid ongoing protests](https://www.theguardian.com/world/2022/dec/04/iran-reviewing-mandatory-headscarf-law-amid-ongoing-protests)
-- [Britain is in decline. Sunak’s deluded approach will do nothing to stop it | Simon Tisdall](https://www.theguardian.com/commentisfree/2022/dec/04/sunak-deluded-wont-stop-britain-decline)
-- [Rail industry prays for a Christmas miracle to avert strikes](https://www.theguardian.com/business/2022/dec/04/rail-industry-prays-for-a-christmas-miracle-to-avert-strikes)
-- [Factchecking organisation wins prestigious British Academy award](https://www.theguardian.com/media/2022/dec/04/factchecking-organisation-wins-prestigious-british-academy-award)
-- [World Cup 2022: Argentina bring Australia’s adventure to an end – in pictures](https://www.theguardian.com/football/gallery/2022/dec/04/world-cup-2022-argentina-bring-australias-world-cup-adventure-to-an-end-in-pictures)
-- [We love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2022/dec/03/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Tyson Fury turns focus to Usyk after dominating Derek Chisora to retain title](https://www.theguardian.com/sport/2022/dec/03/tyson-fury-retains-heavyweight-title-after-stopping-derek-chisora)
-- [BBC chairman criticises Emily Maitlis’ Newsnight comments on Dominic Cummings](https://www.theguardian.com/media/2022/dec/03/bbc-chairman-criticises-emily-maitlis-newsnight-comments-on-dominic-cummings)
-- [Australia and USA bow out bravely as World Cup last 16 begins – Football Daily](https://www.theguardian.com/football/audio/2022/dec/03/world-cup-2022-argentina-australia-netherlands-usa-football-daily)
+- [Italy home to 11 of 100-plus unofficial Chinese ‘police stations’](https://www.theguardian.com/world/2022/dec/05/italy-home-11-unofficial-chinese-police-stations-world)
+- [2,500 Caspian seals found dead along Russian coastline](https://www.theguardian.com/world/2022/dec/05/2500-caspian-seals-found-dead-along-russian-coastline)
+- [Russia-Ukraine war at a glance: what we know on day 285 of the invasion](https://www.theguardian.com/world/2022/dec/05/russia-ukraine-war-at-a-glance-what-we-know-on-day-285-of-the-invasion)
+- [Stephen Flynn announces candidacy for SNP leadership](https://www.theguardian.com/politics/2022/dec/05/stephen-flynn-announces-candidacy-for-snp-leadership)
+- [Home Office considers detention and ban for people entering illegally](https://www.theguardian.com/uk-news/2022/dec/04/home-office-considers-detention-ban-migrants-entering-illegally)
+- [Sunak’s government ‘going backwards’ on green economy, says CBI](https://www.theguardian.com/business/2022/dec/05/sunak-government-going-backwards-on-green-economy-says-cbi)
+- [MPs to revisit assisted dying with an inquiry next year](https://www.theguardian.com/society/2022/dec/05/mps-assisted-dying-inquiry-next-year)
+- [Government plans NHS pension overhaul to ease pressures over winter](https://www.theguardian.com/society/2022/dec/05/government-plans-nhs-pension-overhaul-to-ease-pressures-over-winter)
+- [UK staff to have right to ask for flexible working from day one in job](https://www.theguardian.com/money/2022/dec/05/uk-staff-to-have-right-to-ask-for-flexible-working-from-day-one-in-job)
+- [Plans for visitor centre in Saltaire draws residents’ ire](https://www.theguardian.com/culture/2022/dec/05/plans-for-visitor-centre-in-saltaire-draws-residents-ire)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

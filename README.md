@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Emacs should become a Wayland compositor](https://emacsconf.org/2022/talks/wayland/)
-- [Ask HN: Best books read in 2022](https://news.ycombinator.com/item?id=33849267)
-- [Fosshost Is Shutting Down](https://fosshost.org/)
-- [Gameboy Doctor: debug and fix your gameboy emulator](https://robertheaton.com/gameboy-doctor/)
-- [Building a Virtual Machine Inside ChatGPT](https://www.engraved.blog/building-a-virtual-machine-inside/)
-- [Anker’s Eufy lied to us about the security of its security cameras](https://www.theverge.com/2022/11/30/23486753/anker-eufy-security-camera-cloud-private-encryption-authentication-storage)
-- [MSN replaced journalists with AI publishing fake news about mermaids and Bigfoot](https://futurism.com/msn-is-publishing-more-fake-news)
-- [France prepares for possibility of electricity blackouts during winter months](https://www.rfi.fr/en/france/20221201-how-france-is-preparing-to-avoid-a-major-blackout-this-winter)
-- [Adventures in Advent of Code](https://davedelong.com/blog/2022/12/03/adventures-in-advent-of-code/)
-- [MagSpoof: Wireless Magstrip Spoofer](https://github.com/samyk/magspoof)
+- [Nibbler 4 Bit CPU](https://www.bigmessowires.com/nibbler/)
+- [Tell HN: ChatGPT can reply like a specific Reddit or HN user, including you](https://news.ycombinator.com/item?id=33860562)
+- [“corner crossing”, legally gray method of traversing checkerboard of public land](https://www.themeateater.com/conservation/public-lands-and-waters/inside-the-wyoming-corner-crossing-case-everyone-is-watching)
+- [Activision’s faulty anti-cheat software](https://blog.mikeswanson.com/post/702753924034297856/activisions-faulty-anti-cheat-software)
+- [Egui commit: Implement accessibility APIs via AccessKit](https://github.com/emilk/egui/commit/e1f348e4b24c2fa83d25c6a7ddfd9b38b85de161)
+- [Google has a company strategy, not a product strategy](https://jackiebavaro.substack.com/p/hot-take-google-has-a-company-strategy)
+- [Memory leaks detection paper co-authored by Netflix CEO Reed Hastings in 1992 [pdf]](https://web.stanford.edu/class/cs343/resources/purify.pdf)
+- [Archaeologists ask Netflix to reclassify Graham Hancock’s docuseries as fiction](https://news.artnet.com/art-world/archaeologists-graham-hancocks-ancient-apocalypse-fiction-2222060)
+- [ChatGPT passes the 2022 AP Computer Science A free response section](https://gist.github.com/Gaelan/cf5ae4a1e9d8d64cb0b732cf3a38e04a)
+- [Weather CLI Tool](https://github.com/eoin-barr/weatherme)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

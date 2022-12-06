@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Nibbler 4 Bit CPU](https://www.bigmessowires.com/nibbler/)
-- [Tell HN: ChatGPT can reply like a specific Reddit or HN user, including you](https://news.ycombinator.com/item?id=33860562)
-- [“corner crossing”, legally gray method of traversing checkerboard of public land](https://www.themeateater.com/conservation/public-lands-and-waters/inside-the-wyoming-corner-crossing-case-everyone-is-watching)
-- [Activision’s faulty anti-cheat software](https://blog.mikeswanson.com/post/702753924034297856/activisions-faulty-anti-cheat-software)
-- [Egui commit: Implement accessibility APIs via AccessKit](https://github.com/emilk/egui/commit/e1f348e4b24c2fa83d25c6a7ddfd9b38b85de161)
-- [Google has a company strategy, not a product strategy](https://jackiebavaro.substack.com/p/hot-take-google-has-a-company-strategy)
-- [Memory leaks detection paper co-authored by Netflix CEO Reed Hastings in 1992 [pdf]](https://web.stanford.edu/class/cs343/resources/purify.pdf)
-- [Archaeologists ask Netflix to reclassify Graham Hancock’s docuseries as fiction](https://news.artnet.com/art-world/archaeologists-graham-hancocks-ancient-apocalypse-fiction-2222060)
-- [ChatGPT passes the 2022 AP Computer Science A free response section](https://gist.github.com/Gaelan/cf5ae4a1e9d8d64cb0b732cf3a38e04a)
-- [Weather CLI Tool](https://github.com/eoin-barr/weatherme)
+- [Amazon is offering users $2 a month for letting it track phone data](https://www.businessinsider.com/amazon-offering-users-2-dollars-month-for-track-phone-data-2022-12)
+- [Framer&#39;s Magic Motion](https://www.nan.fyi/magic-motion)
+- [Ancient Computers &lpar;2015&rpar;](https://ethw.org/Ancient_Computers)
+- [Asymmetry detected in the distribution of galaxies](https://www.quantamagazine.org/asymmetry-detected-in-the-distribution-of-galaxies-20221205/)
+- [ChatGPT vs. a Cryptic Crossword](https://jameswillia.ms/posts/chatgpt-cryptics.html)
+- [SPACs collapse as $11B of deals are called off within an hour](https://www.bloomberg.com/news/articles/2022-12-05/spacs-collapse-as-11-billion-of-deals-are-called-off-within-an-hour)
+- [Inkscape 1.2.2](https://inkscape.org/release/inkscape-1.2.2/)
+- [New process allows 3-D printing of microscale metallic parts](https://www.caltech.edu/about/news/new-process-allows-3-d-printing-of-microscale-metallic-parts)
+- [VCs using scouts means founders get the short end of the stick &lpar;2021&rpar;](https://sifted.eu/articles/vc-scout-programme-problems/)
+- [Simulate Asteroid Impacts on Earth](https://neal.fun/asteroid-launcher/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

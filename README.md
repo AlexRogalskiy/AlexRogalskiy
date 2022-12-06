@@ -355,6 +355,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [JumpCloud hits AWS marketplace as Apple&#39;s enterprise market grows](https://www.computerworld.com/article/3681831/jumpcloud-hits-aws-marketplace-as-apples-enterprise-market-grows.html#tk.rss_all)
+- [Biometrics are even less accurate than we thought](https://www.computerworld.com/article/3682149/biometrics-are-even-less-accurate-than-we-thought.html#tk.rss_all)
+- [How many jobs are available in technology in the US?](https://www.computerworld.com/article/3542681/how-many-jobs-are-available-in-technology.html#tk.rss_all)
 - [Amazon layoffs now expected to mount to 20,000, including top managers](https://www.computerworld.com/article/3682071/amazon-layoffs-now-expected-to-mount-to-20000-including-top-managers.html#tk.rss_all)
 - [Apple gives up on &#39;Reality,&#39; but still wants to extend it](https://www.computerworld.com/article/3681892/apple-gives-up-on-reality-but-still-wants-to-extend-it.html#tk.rss_all)
 - [Maersk&#39;s TradeLens demise likely a death knell for blockchain consortiums](https://www.computerworld.com/article/3682128/maersks-tradelens-demise-likely-a-death-knell-for-blockchain-consortiums.html#tk.rss_all)
@@ -362,9 +365,6 @@
 - [BrandPost: AIOps: The Path to a Better IT Paradigm](https://www.computerworld.com/article/3681888/aiops-the-path-to-a-better-it-paradigm.html#tk.rss_all)
 - [BrandPost: The Underrated Elements of Cyber Resiliency](https://www.computerworld.com/article/3681829/the-underrated-elements-of-cyber-resiliency.html#tk.rss_all)
 - [BrandPost: Forget Rip and Replace. Innovate in Place.](https://www.computerworld.com/article/3681849/forget-rip-and-replace-innovate-in-place.html#tk.rss_all)
-- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
-- [From monolith to modular: How enterprise content management is evolving](https://www.computerworld.com/article/3680556/how-enterprise-content-management-is-evolving-from-monolith-to-modular.html#tk.rss_all)
-- [So, you were laid off? Don’t panic](https://www.computerworld.com/article/3681830/so-you-were-laid-off-dont-panic.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

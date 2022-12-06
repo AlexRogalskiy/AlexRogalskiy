@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [As the Arctic warms, beavers are moving in](https://knowablemagazine.org/article/living-world/2022/as-arctic-warms-beavers-move-in)
-- [The conspiracy theory economics of Bitcoin](https://davidgerard.co.uk/blockchain/the-conspiracist-gold-bug-economics-of-bitcoin/)
-- [Ask HN: Should I be scared of you stealing my idea?](https://news.ycombinator.com/item?id=33860728)
-- [Why and How ZK-Snark Works](https://arxiv.org/abs/1906.07221)
-- [How to Become a Smart Contract Auditor](https://jacksonkelley.gumroad.com/l/how-to-become-a-smart-contract-auditor)
-- [A mediocre Dutch artist cast &#39;the forger&#39;s spell&#39; &lpar;2008&rpar;](http://www.npr.org/templates/story/story.php?storyId=92483237)
-- [When Liquidity Changes, Everything Changes](https://www.getrevue.co/profile/raoulgmi/issues/when-liquidity-changes-everything-changes-1479317)
-- [NixOS Webzine – Your tasty dose of reproducible NixOS news](https://webzine.nixos.cafe/)
-- [Assault on California Power Station Raises 2014](https://www.wsj.com/articles/SB10001424052702304851104579359141941621778)
-- [Nibbler 4 Bit CPU](https://www.bigmessowires.com/nibbler/)
+- [Are Dreams Predictions?](https://aeon.co/essays/how-dreams-predict-the-future-by-making-sense-of-the-past)
+- [Ask HN: In the future will you purchase such a service?](https://news.ycombinator.com/item?id=33875138)
+- [A Conversation About Web Design and Typography with ChatGPT](https://matthiasott.com/notes/a-conversation-with-chatgpt)
+- [Syntax errors are the doom of us all, including botnet authors](https://arstechnica.com/information-technology/2022/12/advanced-botnet-taken-down-by-an-all-too-human-flaw-syntax-error/)
+- [The Roof Always Caves In: Why there is nothing wrong with being doomed](https://comment.org/the-roof-always-caves-in/)
+- [Hertz to pay $168M in bogus theft settlement](https://abcnews.go.com/Business/wireStory/hertz-pay-168-million-bogus-theft-settlement-94485878)
+- [Katzenpost: Traffic Analysis Resistant Messaging](https://katzenpost.mixnetworks.org/index.html)
+- [Considering the Kids Online Safety Act](https://techpolicy.press/considering-kosa-a-bill-to-protect-children-from-online-harms/)
+- [Aesthetic Movements](https://cari.institute/aesthetics)
+- [I shall toil at a reduced volume](https://drewdevault.com/2022/12/01/I-shall-toil-quietly.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

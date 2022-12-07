@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Amazon is offering users $2 a month for letting it track phone data](https://www.businessinsider.com/amazon-offering-users-2-dollars-month-for-track-phone-data-2022-12)
-- [Framer&#39;s Magic Motion](https://www.nan.fyi/magic-motion)
-- [Ancient Computers &lpar;2015&rpar;](https://ethw.org/Ancient_Computers)
-- [Asymmetry detected in the distribution of galaxies](https://www.quantamagazine.org/asymmetry-detected-in-the-distribution-of-galaxies-20221205/)
-- [ChatGPT vs. a Cryptic Crossword](https://jameswillia.ms/posts/chatgpt-cryptics.html)
-- [SPACs collapse as $11B of deals are called off within an hour](https://www.bloomberg.com/news/articles/2022-12-05/spacs-collapse-as-11-billion-of-deals-are-called-off-within-an-hour)
-- [Inkscape 1.2.2](https://inkscape.org/release/inkscape-1.2.2/)
-- [New process allows 3-D printing of microscale metallic parts](https://www.caltech.edu/about/news/new-process-allows-3-d-printing-of-microscale-metallic-parts)
-- [VCs using scouts means founders get the short end of the stick &lpar;2021&rpar;](https://sifted.eu/articles/vc-scout-programme-problems/)
-- [Simulate Asteroid Impacts on Earth](https://neal.fun/asteroid-launcher/)
+- [Caterpillar offers phone with built-in FLIR camera](https://www.catphones.com/en-us/cat-s62-pro-smartphone/)
+- [Beware of the perfect gentleman](https://www.vice.com/en/article/n7zmvd/beware-of-the-perfect-gentleman)
+- [Finding Language in the Brain](https://thereader.mitpress.mit.edu/finding-language-in-the-brain/)
+- [Loopr: A Loop/Reduction Macro for Clojure](https://aphyr.com/posts/360-loopr-a-loop-reduction-macro-for-clojure)
+- [Odiggo &lpar;YC S21&rpar;, a hardware startup, is looking for a tech co-founder](https://news.ycombinator.com/item?id=33886973)
+- [RadTrike Electric Tricycle](https://www.radpowerbikes.com/products/radtrike-electric-tricycle)
+- [Quantum steampunk, a retrofuturistic field of physics](https://www.popularmechanics.com/science/a32209316/quantum-steampunk-physics/)
+- [I Taught ChatGPT to Invent a Language](https://maximumeffort.substack.com/p/i-taught-chatgpt-to-invent-a-language)
+- [OpenAI quietly launched Whisper V2 in a GitHub commit](https://github.com/openai/whisper/commit/4179ed2475cc84cba66868b516232ef1b74dacdf)
+- [Apple announces ‘upgrade’ to App Store pricing, adding 700 new price points](https://9to5mac.com/2022/12/06/app-store-pricing-changes-developers/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

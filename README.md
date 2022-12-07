@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Ransomware attack knocks Rackspace’s Exchange servers offline](https://www.networkworld.com/article/3681895/ransomware-attack-knocks-rackspaces-exchange-servers-offline.html#tk.rss_all)
+- [What you need to know about the UK’s Online Safety Bill](https://www.computerworld.com/article/3681832/what-you-need-to-know-about-the-uks-online-safety-bill.html#tk.rss_all)
+- [Apple gives developers wider App Store price flexibility](https://www.computerworld.com/article/3682074/apple-gives-developers-wider-app-store-price-flexibility.html#tk.rss_all)
+- [Stewart Butterfield announces he’s stepping down as Slack’s CEO](https://www.computerworld.com/article/3681938/stewart-butterfield-announces-he-s-stepping-down-as-slack-s-ceo.html#tk.rss_all)
+- [UK set to mandate right to request flexible work from first day on the job](https://www.computerworld.com/article/3681935/uk-set-to-mandate-right-to-request-flexible-work-from-first-day-on-the-job.html#tk.rss_all)
+- [Instead of tech gifts, give updates and support](https://www.computerworld.com/article/3681936/instead-of-tech-gifts-give-updates-and-support.html#tk.rss_all)
+- [As reshoring brings chipmakers back to the US, Apple looks to jump on board](https://www.computerworld.com/article/3681991/as-re-shoring-brings-chipmakers-back-to-the-us-apple-looks-to-jump-on-board.html#tk.rss_all)
 - [JumpCloud hits AWS marketplace as Apple&#39;s enterprise market grows](https://www.computerworld.com/article/3681831/jumpcloud-hits-aws-marketplace-as-apples-enterprise-market-grows.html#tk.rss_all)
 - [Biometrics are even less accurate than we thought](https://www.computerworld.com/article/3682149/biometrics-are-even-less-accurate-than-we-thought.html#tk.rss_all)
 - [How many jobs are available in technology in the US?](https://www.computerworld.com/article/3542681/how-many-jobs-are-available-in-technology.html#tk.rss_all)
-- [Amazon layoffs now expected to mount to 20,000, including top managers](https://www.computerworld.com/article/3682071/amazon-layoffs-now-expected-to-mount-to-20000-including-top-managers.html#tk.rss_all)
-- [Apple gives up on &#39;Reality,&#39; but still wants to extend it](https://www.computerworld.com/article/3681892/apple-gives-up-on-reality-but-still-wants-to-extend-it.html#tk.rss_all)
-- [Maersk&#39;s TradeLens demise likely a death knell for blockchain consortiums](https://www.computerworld.com/article/3682128/maersks-tradelens-demise-likely-a-death-knell-for-blockchain-consortiums.html#tk.rss_all)
-- [Hey, Google: It&#39;s time to step up your Pixel upgrade promise](https://www.computerworld.com/article/3681115/google-pixel-upgrade.html#tk.rss_all)
-- [BrandPost: AIOps: The Path to a Better IT Paradigm](https://www.computerworld.com/article/3681888/aiops-the-path-to-a-better-it-paradigm.html#tk.rss_all)
-- [BrandPost: The Underrated Elements of Cyber Resiliency](https://www.computerworld.com/article/3681829/the-underrated-elements-of-cyber-resiliency.html#tk.rss_all)
-- [BrandPost: Forget Rip and Replace. Innovate in Place.](https://www.computerworld.com/article/3681849/forget-rip-and-replace-innovate-in-place.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

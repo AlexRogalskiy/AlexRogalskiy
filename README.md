@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Are Dreams Predictions?](https://aeon.co/essays/how-dreams-predict-the-future-by-making-sense-of-the-past)
-- [Ask HN: In the future will you purchase such a service?](https://news.ycombinator.com/item?id=33875138)
-- [A Conversation About Web Design and Typography with ChatGPT](https://matthiasott.com/notes/a-conversation-with-chatgpt)
-- [Syntax errors are the doom of us all, including botnet authors](https://arstechnica.com/information-technology/2022/12/advanced-botnet-taken-down-by-an-all-too-human-flaw-syntax-error/)
-- [The Roof Always Caves In: Why there is nothing wrong with being doomed](https://comment.org/the-roof-always-caves-in/)
-- [Hertz to pay $168M in bogus theft settlement](https://abcnews.go.com/Business/wireStory/hertz-pay-168-million-bogus-theft-settlement-94485878)
-- [Katzenpost: Traffic Analysis Resistant Messaging](https://katzenpost.mixnetworks.org/index.html)
-- [Considering the Kids Online Safety Act](https://techpolicy.press/considering-kosa-a-bill-to-protect-children-from-online-harms/)
-- [Aesthetic Movements](https://cari.institute/aesthetics)
-- [I shall toil at a reduced volume](https://drewdevault.com/2022/12/01/I-shall-toil-quietly.html)
+- [Boeing’s last 747 is rolling out of the factory](https://www.cnbc.com/2022/12/06/boeing-747-production-is-ending-with-shift-to-twin-engine-jets.html)
+- [David Deutsch: How close are we to creating an artificial intelligence](https://aeon.co/essays/how-close-are-we-to-creating-artificial-intelligence)
+- [Redshift Auto-Copy from S3](https://twitter.com/asimjalis/status/1600318190558806016)
+- [RCE via SSTI on Spring Boot Error Page with Akamai WAF Bypass](https://h1pmnh.github.io/post/writeup_spring_el_waf_bypass/)
+- [Tesla to add radar in its cars next month amid self-driving suite concerns](https://electrek.co/2022/12/06/tesla-radar-car-next-month-self-driving-suite-concerns/)
+- [Scientist proposes ambitious plan for sending wildlife to Mars](https://interestingengineering.com/innovation/a-forest-bubble-on-mars)
+- [Finding divisors of a number with Python &lpar;2019&rpar;](https://alexwlchan.net/2019/07/finding-divisors-with-python/)
+- [Ask HN: What is the best way to distribute static content with authentication?](https://news.ycombinator.com/item?id=33889964)
+- [Before Google, There Was the Reference Librarian](https://hackaday.com/2021/01/27/before-google-there-was-the-reference-librarian/)
+- [The World’s Brightest Laser Pointer?](https://hackaday.com/2022/12/06/the-worlds-brightest-laser-pointer/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

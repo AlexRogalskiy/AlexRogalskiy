@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Kirstie Alley, Cheers and Look Who’s Talking actor, dies aged 71](https://www.theguardian.com/film/2022/dec/06/kirstie-alley-dies-aged-71-cheers-look-whos-talking-actor)
-- [‘Now I see it’s not just me who’s angry’: readers in China on wave of protests](https://www.theguardian.com/world/2022/dec/06/readers-in-china-on-wave-of-protests)
-- [China to come to standstill for late leader Jiang Zemin’s memorial](https://www.theguardian.com/world/2022/dec/06/china-jiang-zemin-memorial-service)
-- [Naomi Judd’s family drops lawsuit barring release of singer’s last moments](https://www.theguardian.com/us-news/2022/dec/05/naomi-judds-family-drops-lawsuit-barring-release-singers-last-moments)
-- [Musk’s Neuralink faces federal inquiry after killing 1,500 animals in testing](https://www.theguardian.com/technology/2022/dec/05/neuralink-animal-testing-elon-musk-investigation)
-- [Russia-Ukraine war at a glance: what we know on day 286 of the invasion](https://www.theguardian.com/world/2022/dec/06/russia-ukraine-war-at-a-glance-what-we-know-on-day-286-of-the-invasion)
-- [Free preschool childcare for all would boost UK growth, report finds](https://www.theguardian.com/money/2022/dec/06/free-preschool-childcare-for-all-would-boost-uk-growth-report-finds)
-- [Farmers urge UK government to fund hedge creation to bolster biodiversity](https://www.theguardian.com/environment/2022/dec/06/farmers-urge-uk-government-fund-hedge-creation-biodiversity)
-- [UK retailers boosted by November sales of winter coats and hot water bottles](https://www.theguardian.com/business/2022/dec/06/uk-retailers-boosted-by-november-sales-of-winter-coats-and-hot-water-bottles)
-- [Delays in seeing a GP mean millions will get diagnosis too late, says Labour](https://www.theguardian.com/society/2022/dec/05/delays-in-seeing-a-gp-mean-millions-will-get-diagnosis-too-late-says-labour)
+- [Georgia runoff election: tight contest in crucial Senate race – follow live](https://www.theguardian.com/us-news/live/2022/dec/06/georgia-runoff-election-raphael-warnock-herschel-walker-senate-vote-latest)
+- [Iran protests: five sentenced to death over killing of paramilitary member](https://www.theguardian.com/world/2022/dec/07/iran-protests-five-sentenced-to-death-over-killing-of-paramilitary-member)
+- [‘An understated power’: Hamish Kilgour of The Clean remembered as a restless innovator](https://www.theguardian.com/world/2022/dec/07/an-understated-power-hamish-kilgour-of-the-clean-remembered-as-a-restless-innovator)
+- [San Francisco lawmakers vote to ban killer robots in drastic U-turn](https://www.theguardian.com/us-news/2022/dec/06/san-francisco-lawmakers-ban-killer-robots-u-turn)
+- [Tokyo Olympics bribery scandal threatens to derail Winter Games bid](https://www.theguardian.com/world/2022/dec/07/tokyo-olympics-bribery-scandal-threatens-sapporo-winter-games-bid)
+- [Taiwan foreign minister: China may scapegoat us over Covid protests](https://www.theguardian.com/world/2022/dec/07/taiwan-foreign-minister-china-may-scapegoat-us-over-covid-protests)
+- [Portugal hit Switzerland for six and Morocco shock Spain – Football Daily podcast](https://www.theguardian.com/football/audio/2022/dec/07/portugal-hit-switzerland-for-six-and-morocco-shock-spain-football-daily-podcast)
+- [Russia-Ukraine war at a glance: what we know on day 287 of the invasion](https://www.theguardian.com/world/2022/dec/07/russia-ukraine-war-at-a-glance-what-we-know-on-day-287-of-the-invasion)
+- [New UK disability claims double in past year, with fastest rise among teens – IFS](https://www.theguardian.com/business/2022/dec/06/cost-of-living-keeps-depression-rates-above-pre-pandemic-levels-says-ons)
+- [Joe Biden and Rishi Sunak agree to increase gas exports from US to UK](https://www.theguardian.com/environment/2022/dec/07/joe-biden-and-rishi-sunak-agree-to-increase-gas-exports-from-us-to-uk)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

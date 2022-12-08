@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Caterpillar offers phone with built-in FLIR camera](https://www.catphones.com/en-us/cat-s62-pro-smartphone/)
-- [Beware of the perfect gentleman](https://www.vice.com/en/article/n7zmvd/beware-of-the-perfect-gentleman)
-- [Finding Language in the Brain](https://thereader.mitpress.mit.edu/finding-language-in-the-brain/)
-- [Loopr: A Loop/Reduction Macro for Clojure](https://aphyr.com/posts/360-loopr-a-loop-reduction-macro-for-clojure)
-- [Odiggo &lpar;YC S21&rpar;, a hardware startup, is looking for a tech co-founder](https://news.ycombinator.com/item?id=33886973)
-- [RadTrike Electric Tricycle](https://www.radpowerbikes.com/products/radtrike-electric-tricycle)
-- [Quantum steampunk, a retrofuturistic field of physics](https://www.popularmechanics.com/science/a32209316/quantum-steampunk-physics/)
-- [I Taught ChatGPT to Invent a Language](https://maximumeffort.substack.com/p/i-taught-chatgpt-to-invent-a-language)
-- [OpenAI quietly launched Whisper V2 in a GitHub commit](https://github.com/openai/whisper/commit/4179ed2475cc84cba66868b516232ef1b74dacdf)
-- [Apple announces ‘upgrade’ to App Store pricing, adding 700 new price points](https://9to5mac.com/2022/12/06/app-store-pricing-changes-developers/)
+- [Soil in Midwestern US is Eroding 10 to 1k Times Faster than it Forms](https://www.umass.edu/news/article/soil-midwestern-us-eroding-10-1000-times-faster-it-forms-study-finds)
+- [Paleontologist accused of faking data in dino-killing asteroid paper](https://www.science.org/content/article/paleontologist-accused-faking-data-dino-killing-asteroid-paper)
+- [TSMC founder Morris Chang says globalization &#39;almost dead&#39;](https://asia.nikkei.com/Business/Tech/Semiconductors/TSMC-founder-Morris-Chang-says-globalization-almost-dead)
+- [Precise atom manipulation through deep reinforcement learning](https://www.nature.com/articles/s41467-022-35149-w)
+- [Java 20: A Sneak Peek on the Panama FFM API](http://minborgsjavapot.blogspot.com/2022/12/java-20-sneak-peek-on-panama-ffm-api.html)
+- [Tabs and Makefile &lpar;2015&rpar;](https://beebo.org/haycorn/2015-04-20_tabs-and-makefiles.html)
+- [Avenue &lpar;YC W21&rpar; is hiring software engineers in NYC &lpar;React/TypeScript/tRPC&rpar;](https://jobs.ashbyhq.com/avenue/f4e8842d-83ae-413a-9ee3-d20c2b39380a)
+- [What&#39;s Great about Julia?](https://viralinstruction.com/posts/goodjulia/)
+- [Engineered photosynthesis demonstrated in animals in vivo via synthetic biology](https://www.nature.com/articles/s41586-022-05499-y)
+- [Publicity Stunt Fallout](https://scottaaronson.blog/?p=6871)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

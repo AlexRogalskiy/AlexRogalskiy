@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Apple finally adds encryption to iCloud backups](https://www.computerworld.com/article/3682649/apple-finally-adds-encryption-to-icloud-backups.html#tk.rss_all)
+- [Apple accelerates plans to move more manufacturing out of China](https://www.computerworld.com/article/3682144/apple-accelerates-plans-to-move-more-manufacturing-out-of-china.html#tk.rss_all)
+- [Apple, iPhones, and China: Short-term problems need a long-term fix](https://www.computerworld.com/article/3682001/apple-iphones-and-china-short-term-problems-need-a-long-term-fix.html#tk.rss_all)
+- [US Congress rolls back proposal to restrict use of Chinese chips](https://www.computerworld.com/article/3682588/us-congress-rolls-back-proposal-to-restrict-use-of-chinese-chips.html#tk.rss_all)
+- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [A compliance fight in Germany could hurt Microsoft customers](https://www.computerworld.com/article/3682131/a-compliance-fight-in-germany-could-hurt-microsoft-customers.html#tk.rss_all)
+- [A new Chromebook productivity feature worth finding](https://www.computerworld.com/article/3682133/chromebook-productivity-feature.html#tk.rss_all)
+- [Buyer’s guide: How to choose the right business laptops](https://www.computerworld.com/article/2524405/buyers-guide-to-business-laptops.html#tk.rss_all)
 - [Ransomware attack knocks Rackspace’s Exchange servers offline](https://www.networkworld.com/article/3681895/ransomware-attack-knocks-rackspaces-exchange-servers-offline.html#tk.rss_all)
-- [What you need to know about the UK’s Online Safety Bill](https://www.computerworld.com/article/3681832/what-you-need-to-know-about-the-uks-online-safety-bill.html#tk.rss_all)
-- [Apple gives developers wider App Store price flexibility](https://www.computerworld.com/article/3682074/apple-gives-developers-wider-app-store-price-flexibility.html#tk.rss_all)
-- [Stewart Butterfield announces he’s stepping down as Slack’s CEO](https://www.computerworld.com/article/3681938/stewart-butterfield-announces-he-s-stepping-down-as-slack-s-ceo.html#tk.rss_all)
-- [UK set to mandate right to request flexible work from first day on the job](https://www.computerworld.com/article/3681935/uk-set-to-mandate-right-to-request-flexible-work-from-first-day-on-the-job.html#tk.rss_all)
-- [Instead of tech gifts, give updates and support](https://www.computerworld.com/article/3681936/instead-of-tech-gifts-give-updates-and-support.html#tk.rss_all)
-- [As reshoring brings chipmakers back to the US, Apple looks to jump on board](https://www.computerworld.com/article/3681991/as-re-shoring-brings-chipmakers-back-to-the-us-apple-looks-to-jump-on-board.html#tk.rss_all)
-- [JumpCloud hits AWS marketplace as Apple&#39;s enterprise market grows](https://www.computerworld.com/article/3681831/jumpcloud-hits-aws-marketplace-as-apples-enterprise-market-grows.html#tk.rss_all)
-- [Biometrics are even less accurate than we thought](https://www.computerworld.com/article/3682149/biometrics-are-even-less-accurate-than-we-thought.html#tk.rss_all)
-- [How many jobs are available in technology in the US?](https://www.computerworld.com/article/3542681/how-many-jobs-are-available-in-technology.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

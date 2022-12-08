@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Georgia runoff election: tight contest in crucial Senate race – follow live](https://www.theguardian.com/us-news/live/2022/dec/06/georgia-runoff-election-raphael-warnock-herschel-walker-senate-vote-latest)
-- [Iran protests: five sentenced to death over killing of paramilitary member](https://www.theguardian.com/world/2022/dec/07/iran-protests-five-sentenced-to-death-over-killing-of-paramilitary-member)
-- [‘An understated power’: Hamish Kilgour of The Clean remembered as a restless innovator](https://www.theguardian.com/world/2022/dec/07/an-understated-power-hamish-kilgour-of-the-clean-remembered-as-a-restless-innovator)
-- [San Francisco lawmakers vote to ban killer robots in drastic U-turn](https://www.theguardian.com/us-news/2022/dec/06/san-francisco-lawmakers-ban-killer-robots-u-turn)
-- [Tokyo Olympics bribery scandal threatens to derail Winter Games bid](https://www.theguardian.com/world/2022/dec/07/tokyo-olympics-bribery-scandal-threatens-sapporo-winter-games-bid)
-- [Taiwan foreign minister: China may scapegoat us over Covid protests](https://www.theguardian.com/world/2022/dec/07/taiwan-foreign-minister-china-may-scapegoat-us-over-covid-protests)
-- [Portugal hit Switzerland for six and Morocco shock Spain – Football Daily podcast](https://www.theguardian.com/football/audio/2022/dec/07/portugal-hit-switzerland-for-six-and-morocco-shock-spain-football-daily-podcast)
-- [Russia-Ukraine war at a glance: what we know on day 287 of the invasion](https://www.theguardian.com/world/2022/dec/07/russia-ukraine-war-at-a-glance-what-we-know-on-day-287-of-the-invasion)
-- [New UK disability claims double in past year, with fastest rise among teens – IFS](https://www.theguardian.com/business/2022/dec/06/cost-of-living-keeps-depression-rates-above-pre-pandemic-levels-says-ons)
-- [Joe Biden and Rishi Sunak agree to increase gas exports from US to UK](https://www.theguardian.com/environment/2022/dec/07/joe-biden-and-rishi-sunak-agree-to-increase-gas-exports-from-us-to-uk)
+- [New York Times poised for first mass staff walkout in 40 years](https://www.theguardian.com/media/2022/dec/07/new-york-times-strike-walkout)
+- [‘A little nerve-racking’: worry and scepticism in Bali over ban on sex outside marriage](https://www.theguardian.com/world/2022/dec/08/a-little-nerve-racking-worry-and-scepticism-in-bali-over-ban-on-sex-outside-marriage)
+- [Canada to review ‘disconcerting’ police radio deal with ties to China, says Trudeau](https://www.theguardian.com/world/2022/dec/08/canada-to-review-disconcerting-police-radio-deal-with-ties-to-china-says-trudeau)
+- [Russia-Ukraine war at a glance: what we know on day 288 of the invasion](https://www.theguardian.com/world/2022/dec/08/russia-ukraine-war-at-a-glance-what-we-know-on-day-288-of-the-invasion)
+- [Texas bans TikTok on government devices amid China data-sharing fears](https://www.theguardian.com/technology/2022/dec/07/texas-bans-tiktok-government-devices-china-data-sharing-fears)
+- [Peru president removed from office and charged with ‘rebellion’ after alleged coup attempt](https://www.theguardian.com/world/2022/dec/07/peru-president-detained-pedro-castillo-coup)
+- [Parents who refused ‘vaccinated blood’ transfusion speak out after court places Baby W in care](https://www.theguardian.com/world/2022/dec/08/parents-who-refused-baby-w-nz-vaccinated-blood-transfusion-speak-out-new-zealand)
+- [Ex-Theranos exec Sunny Balwani sentenced to nearly 13 years in prison](https://www.theguardian.com/technology/2022/dec/07/former-theranos-exec-sunny-balwani-prison-sentence)
+- [First coinage featuring King Charles III released](https://www.theguardian.com/uk-news/2022/dec/08/first-coinage-featuring-king-charles-iii-released)
+- [CBI urges UK government to decide which industries get energy support](https://www.theguardian.com/business/2022/dec/08/cbi-business-energy-support-relief-)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Boeing’s last 747 is rolling out of the factory](https://www.cnbc.com/2022/12/06/boeing-747-production-is-ending-with-shift-to-twin-engine-jets.html)
-- [David Deutsch: How close are we to creating an artificial intelligence](https://aeon.co/essays/how-close-are-we-to-creating-artificial-intelligence)
-- [Redshift Auto-Copy from S3](https://twitter.com/asimjalis/status/1600318190558806016)
-- [RCE via SSTI on Spring Boot Error Page with Akamai WAF Bypass](https://h1pmnh.github.io/post/writeup_spring_el_waf_bypass/)
-- [Tesla to add radar in its cars next month amid self-driving suite concerns](https://electrek.co/2022/12/06/tesla-radar-car-next-month-self-driving-suite-concerns/)
-- [Scientist proposes ambitious plan for sending wildlife to Mars](https://interestingengineering.com/innovation/a-forest-bubble-on-mars)
-- [Finding divisors of a number with Python &lpar;2019&rpar;](https://alexwlchan.net/2019/07/finding-divisors-with-python/)
-- [Ask HN: What is the best way to distribute static content with authentication?](https://news.ycombinator.com/item?id=33889964)
-- [Before Google, There Was the Reference Librarian](https://hackaday.com/2021/01/27/before-google-there-was-the-reference-librarian/)
-- [The World’s Brightest Laser Pointer?](https://hackaday.com/2022/12/06/the-worlds-brightest-laser-pointer/)
+- [Intel is using DXVK for their Windows Arc GPU DX9 drivers](https://www.gamingonlinux.com/2022/12/intel-using-dxvk-part-of-steam-proton-for-their-windows-arc-gpu-dx-9-drivers/)
+- [Google combines Maps and Waze teams as pressures mount to cut costs](https://techcrunch.com/2022/12/07/google-combines-maps-and-waze-teams-as-pressures-mount-to-cut-costs/)
+- [Bitwarden Community Guide](https://bitwarden.com/blog/community-guide/)
+- [Quickly switch between Tailscale accounts](https://tailscale.com/blog/fast-user-switching/)
+- [Amazon sued by DC Attorney General for deceiving customers who tipped drivers](https://arstechnica.com/tech-policy/2022/12/amazon-sued-by-dc-attorney-general-for-deceiving-customers-who-tipped-drivers/)
+- [Elon Musk turns Twitter into &#39;hotel&#39; for staff](https://www.bbc.co.uk/news/technology-63897608)
+- [Oldest-ever extracted DNA reveals life in Greenland two million years ago](https://www.reuters.com/lifestyle/science/oldest-dna-record-2-million-years-reveals-greenlands-lost-world-2022-12-07/)
+- [Amazon will give your delivery driver $5 if you ask Alexa to say thank you](https://techcrunch.com/2022/12/07/amazon-will-give-your-overworked-delivery-driver-5-if-you-ask-alexa-to-say-thank-you/)
+- [The future of electric cars: will Tesla maintain its dominance or be overtaken?](https://wireshock.com/the-future-of-electric-cars-will-tesla-maintain-its-dominance-or-be-overtaken)
+- [Sacred Geometry, Reclaiming the Lost Art and Science of the Ancients](https://www.howtube.com/KBVeDqAWn3mI?htcampaign=SG-website)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

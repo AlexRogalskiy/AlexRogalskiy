@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [New York Times poised for first mass staff walkout in 40 years](https://www.theguardian.com/media/2022/dec/07/new-york-times-strike-walkout)
-- [‘A little nerve-racking’: worry and scepticism in Bali over ban on sex outside marriage](https://www.theguardian.com/world/2022/dec/08/a-little-nerve-racking-worry-and-scepticism-in-bali-over-ban-on-sex-outside-marriage)
-- [Canada to review ‘disconcerting’ police radio deal with ties to China, says Trudeau](https://www.theguardian.com/world/2022/dec/08/canada-to-review-disconcerting-police-radio-deal-with-ties-to-china-says-trudeau)
-- [Russia-Ukraine war at a glance: what we know on day 288 of the invasion](https://www.theguardian.com/world/2022/dec/08/russia-ukraine-war-at-a-glance-what-we-know-on-day-288-of-the-invasion)
-- [Texas bans TikTok on government devices amid China data-sharing fears](https://www.theguardian.com/technology/2022/dec/07/texas-bans-tiktok-government-devices-china-data-sharing-fears)
-- [Peru president removed from office and charged with ‘rebellion’ after alleged coup attempt](https://www.theguardian.com/world/2022/dec/07/peru-president-detained-pedro-castillo-coup)
-- [Parents who refused ‘vaccinated blood’ transfusion speak out after court places Baby W in care](https://www.theguardian.com/world/2022/dec/08/parents-who-refused-baby-w-nz-vaccinated-blood-transfusion-speak-out-new-zealand)
-- [Ex-Theranos exec Sunny Balwani sentenced to nearly 13 years in prison](https://www.theguardian.com/technology/2022/dec/07/former-theranos-exec-sunny-balwani-prison-sentence)
-- [First coinage featuring King Charles III released](https://www.theguardian.com/uk-news/2022/dec/08/first-coinage-featuring-king-charles-iii-released)
-- [CBI urges UK government to decide which industries get energy support](https://www.theguardian.com/business/2022/dec/08/cbi-business-energy-support-relief-)
+- [Detective in alleged Meghan Thee Stallion shooting accused of domestic violence](https://www.theguardian.com/music/2022/dec/08/meghan-thee-stallion-shooting-detective-accused-domestic-violence)
+- [Christchurch attack inquiry: coroner declines to remove lawyer after request from families](https://www.theguardian.com/world/2022/dec/09/christchurch-attack-inquiry-coroner-declines-to-remove-lawyer-after-request-from-families)
+- [All South Koreans to become younger as traditional age system scrapped](https://www.theguardian.com/world/2022/dec/09/all-south-koreans-to-become-younger-as-traditional-age-system-scrapped)
+- [Former California prison warden convicted on sexual abuse charges](https://www.theguardian.com/us-news/2022/dec/08/ray-j-garcia-california-prison-charges)
+- [Women sue Twitter, claiming Musk layoffs unfairly targeted female staff](https://www.theguardian.com/technology/2022/dec/08/twitter-sued-firing-female-workers-after-musk-buyout)
+- [Tory MP plans legislation to strip Harry and Meghan of royal titles](https://www.theguardian.com/uk-news/2022/dec/09/tory-mp-plans-legislation-strip-harry-meghan-royal-titles)
+- [UK will sanction human rights abusers rather than ‘commentate’, says Cleverly](https://www.theguardian.com/politics/2022/dec/09/uk-will-sanction-human-rights-abusers-rather-than-commentate-says-cleverly)
+- [Study reveals footballers more likely to have worse brain health after age of 65](https://www.theguardian.com/football/2022/dec/09/study-reveals-footballers-more-likely-to-have-worse-brain-health-after-age-of-65)
+- [Newsies review – ‘tis the season for Disney musical about industrial relations](https://www.theguardian.com/stage/2022/dec/08/newsies-review-disney-musical-industrial-relations-troubadour-wembley-park-theatre)
+- [Racism poses public health threat to millions worldwide, finds report](https://www.theguardian.com/science/2022/dec/08/racism-poses-public-health-threat-to-millions-worldwide-finds-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

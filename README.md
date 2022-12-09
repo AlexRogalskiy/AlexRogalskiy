@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Google Chrome gets memory- and power-saving modes](https://www.computerworld.com/article/3682650/google-chrome-gets-memory-and-power-saving-modes.html#tk.rss_all)
+- [Kandji improves its Device Harmony Platform for Apple enterprise](https://www.computerworld.com/article/3682749/kandji-improves-its-device-harmony-platform-for-apple-enterprise.html#tk.rss_all)
+- [Salesforce deepens integration between Slack, Sales Cloud](https://www.computerworld.com/article/3682750/salesforce-deepens-integration-between-slack-sales-cloud.html#tk.rss_all)
+- [ChatGPT: Finally, an AI chatbot worth talking to](https://www.computerworld.com/article/3682143/chatgpt-finally-an-ai-chatbot-worth-talking-to.html#tk.rss_all)
+- [Atlassian targets ITSM with new additions to Jira Service Management](https://www.computerworld.com/article/3682628/atlassian-targets-itsm-with-new-additions-to-jira-service-management.html#tk.rss_all)
 - [Apple finally adds encryption to iCloud backups](https://www.computerworld.com/article/3682649/apple-finally-adds-encryption-to-icloud-backups.html#tk.rss_all)
 - [Apple accelerates plans to move more manufacturing out of China](https://www.computerworld.com/article/3682144/apple-accelerates-plans-to-move-more-manufacturing-out-of-china.html#tk.rss_all)
 - [Apple, iPhones, and China: Short-term problems need a long-term fix](https://www.computerworld.com/article/3682001/apple-iphones-and-china-short-term-problems-need-a-long-term-fix.html#tk.rss_all)
 - [US Congress rolls back proposal to restrict use of Chinese chips](https://www.computerworld.com/article/3682588/us-congress-rolls-back-proposal-to-restrict-use-of-chinese-chips.html#tk.rss_all)
 - [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [A compliance fight in Germany could hurt Microsoft customers](https://www.computerworld.com/article/3682131/a-compliance-fight-in-germany-could-hurt-microsoft-customers.html#tk.rss_all)
-- [A new Chromebook productivity feature worth finding](https://www.computerworld.com/article/3682133/chromebook-productivity-feature.html#tk.rss_all)
-- [Buyer’s guide: How to choose the right business laptops](https://www.computerworld.com/article/2524405/buyers-guide-to-business-laptops.html#tk.rss_all)
-- [Ransomware attack knocks Rackspace’s Exchange servers offline](https://www.networkworld.com/article/3681895/ransomware-attack-knocks-rackspaces-exchange-servers-offline.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Soil in Midwestern US is Eroding 10 to 1k Times Faster than it Forms](https://www.umass.edu/news/article/soil-midwestern-us-eroding-10-1000-times-faster-it-forms-study-finds)
-- [Paleontologist accused of faking data in dino-killing asteroid paper](https://www.science.org/content/article/paleontologist-accused-faking-data-dino-killing-asteroid-paper)
-- [TSMC founder Morris Chang says globalization &#39;almost dead&#39;](https://asia.nikkei.com/Business/Tech/Semiconductors/TSMC-founder-Morris-Chang-says-globalization-almost-dead)
-- [Precise atom manipulation through deep reinforcement learning](https://www.nature.com/articles/s41467-022-35149-w)
-- [Java 20: A Sneak Peek on the Panama FFM API](http://minborgsjavapot.blogspot.com/2022/12/java-20-sneak-peek-on-panama-ffm-api.html)
-- [Tabs and Makefile &lpar;2015&rpar;](https://beebo.org/haycorn/2015-04-20_tabs-and-makefiles.html)
-- [Avenue &lpar;YC W21&rpar; is hiring software engineers in NYC &lpar;React/TypeScript/tRPC&rpar;](https://jobs.ashbyhq.com/avenue/f4e8842d-83ae-413a-9ee3-d20c2b39380a)
-- [What&#39;s Great about Julia?](https://viralinstruction.com/posts/goodjulia/)
-- [Engineered photosynthesis demonstrated in animals in vivo via synthetic biology](https://www.nature.com/articles/s41586-022-05499-y)
-- [Publicity Stunt Fallout](https://scottaaronson.blog/?p=6871)
+- [What Is Going on with Neo4j?](https://news.ycombinator.com/item?id=33916240)
+- [Concrete Built the Modern World. Now It’s Destroying It](https://www.noemamag.com/concrete-built-the-modern-world-now-its-destroying-it/)
+- [Ads are down across the internet – Google Ad Manager Outage](https://ads.google.com/status/publisher/incidents/EsQcYmPW6wkQvc9NZ4WB)
+- [Dallas midair tragedy: New videos show startling change in flight path of p-63](https://www.planeandpilotmag.com/news/the-latest/2022/11/30/dallas-midair-tragedy-new-video-shows-startling-change-in-flight-path-of-p-63/)
+- [Every modeler is supposed to be a great Python programmer](https://statmodeling.stat.columbia.edu/2022/12/08/the-cleantech-job-market-every-modeler-is-supposed-to-be-a-great-python-programmer/)
+- [AlphaCode Attention Visualization](https://alphacode.deepmind.com/)
+- [ChatGPT, Rot13, and Daniel Kahneman](https://jameswillia.ms/posts/chatgpt-rot13.html)
+- [Generally Intelligent &lpar;YC S17&rpar; is hiring senior software engineers](https://news.ycombinator.com/item?id=33913332)
+- [Goodbye to the C++ Implementation of Zig](https://ziglang.org/news/goodbye-cpp/)
+- [Bumblebee: GPT2, Stable Diffusion, and More in Elixir](https://news.livebook.dev/announcing-bumblebee-gpt2-stable-diffusion-and-more-in-elixir-3Op73O)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

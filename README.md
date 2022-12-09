@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Intel is using DXVK for their Windows Arc GPU DX9 drivers](https://www.gamingonlinux.com/2022/12/intel-using-dxvk-part-of-steam-proton-for-their-windows-arc-gpu-dx-9-drivers/)
-- [Google combines Maps and Waze teams as pressures mount to cut costs](https://techcrunch.com/2022/12/07/google-combines-maps-and-waze-teams-as-pressures-mount-to-cut-costs/)
-- [Bitwarden Community Guide](https://bitwarden.com/blog/community-guide/)
-- [Quickly switch between Tailscale accounts](https://tailscale.com/blog/fast-user-switching/)
-- [Amazon sued by DC Attorney General for deceiving customers who tipped drivers](https://arstechnica.com/tech-policy/2022/12/amazon-sued-by-dc-attorney-general-for-deceiving-customers-who-tipped-drivers/)
-- [Elon Musk turns Twitter into &#39;hotel&#39; for staff](https://www.bbc.co.uk/news/technology-63897608)
-- [Oldest-ever extracted DNA reveals life in Greenland two million years ago](https://www.reuters.com/lifestyle/science/oldest-dna-record-2-million-years-reveals-greenlands-lost-world-2022-12-07/)
-- [Amazon will give your delivery driver $5 if you ask Alexa to say thank you](https://techcrunch.com/2022/12/07/amazon-will-give-your-overworked-delivery-driver-5-if-you-ask-alexa-to-say-thank-you/)
-- [The future of electric cars: will Tesla maintain its dominance or be overtaken?](https://wireshock.com/the-future-of-electric-cars-will-tesla-maintain-its-dominance-or-be-overtaken)
-- [Sacred Geometry, Reclaiming the Lost Art and Science of the Ancients](https://www.howtube.com/KBVeDqAWn3mI?htcampaign=SG-website)
+- [Twitter Files – part 2 – Twitter thread](https://threadreaderapp.com/thread/1601007575633305600.html)
+- [Scientists Trace Society’s Myths to Primordial Origins &lpar;2016&rpar;](https://www.scientificamerican.com/article/scientists-trace-society-rsquo-s-myths-to-primordial-origins/)
+- [The Toughest Material on Earth](https://www.sciencedaily.com/releases/2022/12/221208114743.htm)
+- [Scala School](https://twitter.github.io/scala_school/)
+- [Women sue Twitter, claiming Musk layoffs unfairly targeted female staff](https://www.theguardian.com/technology/2022/dec/08/twitter-sued-firing-female-workers-after-musk-buyout)
+- [The Free Press](https://www.thefp.com/)
+- [Patient&#39;s own immune cells effective as living medicine for melanoma](https://www.sciencedaily.com/releases/2022/12/221207183650.htm)
+- [AI selfies – and their critics – are taking the internet by storm](https://www.washingtonpost.com/technology/2022/12/08/lensa-ai-portraits/)
+- [Dwarf Fortress, the Deepest Most Insane Simulation Game Ever Got Shiny Makeover](https://reason.com/2022/12/08/dwarf-fortress-the-deepest-most-insane-computer-simulation-game-ever-just-got-a-shiny-new-makeover/)
+- [Tesla says its self-driving technology may be a ‘failure’ – but not fraud](https://www.latimes.com/business/story/2022-12-08/tesla-lawsuit-full-self-driving-technology-failure-not-fraud)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

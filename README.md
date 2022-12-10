@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Detective in alleged Meghan Thee Stallion shooting accused of domestic violence](https://www.theguardian.com/music/2022/dec/08/meghan-thee-stallion-shooting-detective-accused-domestic-violence)
-- [Christchurch attack inquiry: coroner declines to remove lawyer after request from families](https://www.theguardian.com/world/2022/dec/09/christchurch-attack-inquiry-coroner-declines-to-remove-lawyer-after-request-from-families)
-- [All South Koreans to become younger as traditional age system scrapped](https://www.theguardian.com/world/2022/dec/09/all-south-koreans-to-become-younger-as-traditional-age-system-scrapped)
-- [Former California prison warden convicted on sexual abuse charges](https://www.theguardian.com/us-news/2022/dec/08/ray-j-garcia-california-prison-charges)
-- [Women sue Twitter, claiming Musk layoffs unfairly targeted female staff](https://www.theguardian.com/technology/2022/dec/08/twitter-sued-firing-female-workers-after-musk-buyout)
-- [Tory MP plans legislation to strip Harry and Meghan of royal titles](https://www.theguardian.com/uk-news/2022/dec/09/tory-mp-plans-legislation-strip-harry-meghan-royal-titles)
-- [UK will sanction human rights abusers rather than ‘commentate’, says Cleverly](https://www.theguardian.com/politics/2022/dec/09/uk-will-sanction-human-rights-abusers-rather-than-commentate-says-cleverly)
-- [Study reveals footballers more likely to have worse brain health after age of 65](https://www.theguardian.com/football/2022/dec/09/study-reveals-footballers-more-likely-to-have-worse-brain-health-after-age-of-65)
-- [Newsies review – ‘tis the season for Disney musical about industrial relations](https://www.theguardian.com/stage/2022/dec/08/newsies-review-disney-musical-industrial-relations-troubadour-wembley-park-theatre)
-- [Racism poses public health threat to millions worldwide, finds report](https://www.theguardian.com/science/2022/dec/08/racism-poses-public-health-threat-to-millions-worldwide-finds-report)
+- [Russia-Ukraine war at a glance: what we know on day 290 of the invasion](https://www.theguardian.com/world/2022/dec/10/russia-ukraine-war-at-a-glance-what-we-know-on-day-290-of-the-invasion)
+- [‘The authorities will step up control’: where next for China after protests?](https://www.theguardian.com/world/2022/dec/10/control-china-protests-covid-lockdown-xi-jinping)
+- [FTX’s Sam Bankman-Fried to testify before Congress next week](https://www.theguardian.com/technology/2022/dec/09/ftx-sam-bankman-fried-willing-to-testify-to-congress-next-week)
+- [Brazil bow out, Messi magic and so much World Cup drama – Football Daily](https://www.theguardian.com/football/audio/2022/dec/09/brazil-bow-out-messi-magic-and-so-much-world-cup-drama-football-daily)
+- [Gareth Southgate urges England to ‘step up mentally’ to France challenge](https://www.theguardian.com/football/2022/dec/09/gareth-southgate-urges-england-step-up-mentally-france-challenge-world-cup)
+- [Lord Young, former Conservative minister and businessman, dies aged 90](https://www.theguardian.com/politics/2022/dec/09/lord-young-conservative-minister-and-businessman-dies-aged-90)
+- [Darmon at the double as Montpellier fight back to beat 14-man London Irish](https://www.theguardian.com/sport/2022/dec/09/darmon-at-the-double-as-montpellier-fight-back-to-beat-14-man-london-irish)
+- [Gareth Southgate increases security after photos published of his home](https://www.theguardian.com/football/2022/dec/09/gareth-southgate-increases-security-after-photos-published-of-his-home)
+- [Two PCs sacked for sharing offensive messages](https://www.theguardian.com/uk-news/2022/dec/09/two-pcs-sacked-for-sharing-offensive-messages-with-wayne-couzens)
+- [Judge denies justice department plea to hold Trump in contempt over records](https://www.theguardian.com/us-news/2022/dec/09/trump-records-prosecutors-judge-hearing)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

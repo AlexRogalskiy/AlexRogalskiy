@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Twitter Files – part 2 – Twitter thread](https://threadreaderapp.com/thread/1601007575633305600.html)
-- [Scientists Trace Society’s Myths to Primordial Origins &lpar;2016&rpar;](https://www.scientificamerican.com/article/scientists-trace-society-rsquo-s-myths-to-primordial-origins/)
-- [The Toughest Material on Earth](https://www.sciencedaily.com/releases/2022/12/221208114743.htm)
-- [Scala School](https://twitter.github.io/scala_school/)
-- [Women sue Twitter, claiming Musk layoffs unfairly targeted female staff](https://www.theguardian.com/technology/2022/dec/08/twitter-sued-firing-female-workers-after-musk-buyout)
-- [The Free Press](https://www.thefp.com/)
-- [Patient&#39;s own immune cells effective as living medicine for melanoma](https://www.sciencedaily.com/releases/2022/12/221207183650.htm)
-- [AI selfies – and their critics – are taking the internet by storm](https://www.washingtonpost.com/technology/2022/12/08/lensa-ai-portraits/)
-- [Dwarf Fortress, the Deepest Most Insane Simulation Game Ever Got Shiny Makeover](https://reason.com/2022/12/08/dwarf-fortress-the-deepest-most-insane-computer-simulation-game-ever-just-got-a-shiny-new-makeover/)
-- [Tesla says its self-driving technology may be a ‘failure’ – but not fraud](https://www.latimes.com/business/story/2022-12-08/tesla-lawsuit-full-self-driving-technology-failure-not-fraud)
+- [Tell HN: I&#39;ve been banned from Twitter for defending myself from defamation](https://news.ycombinator.com/item?id=33929182)
+- [Millions of US Millennials Moved in with Their Parents This Year](https://www.bloomberg.com/news/articles/2022-12-06/millions-of-us-millennials-moved-in-with-their-parents-this-year)
+- [Air in India&#39;s financial capital getting worse than smog-filled Delhi](https://www.bbc.com/news/world-asia-india-63913032)
+- [Lashon Hara](https://en.wikipedia.org/wiki/Lashon_hara)
+- [How to read tweets without logging in](https://www.ghostery.com/blog/how-to-read-tweets-without-logging-in)
+- [ActiveState Komodo IDE Now Open Source](https://www.activestate.com/blog/activestate-komodo-ide-now-open-source/)
+- [Show HN: ChatGPT but for Rap Battles](https://rappingai.com/)
+- [Can plasma instability be the savior for magnetic nozzle plasma thrusters](https://www.spacedaily.com/m/reports/Can_plasma_instability_in_fact_be_the_savior_for_magnetic_nozzle_plasma_thrusters_999.html)
+- [Learning and Practicing Abstraction](https://the.scapegoat.dev/learning-and-practicing-abstraction/)
+- [James Webb Space Telescope &#39;fingerprints&#39; earliest galaxies](https://www.bbc.com/news/science-environment-63919257)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

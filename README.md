@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [What Is Going on with Neo4j?](https://news.ycombinator.com/item?id=33916240)
-- [Concrete Built the Modern World. Now It’s Destroying It](https://www.noemamag.com/concrete-built-the-modern-world-now-its-destroying-it/)
-- [Ads are down across the internet – Google Ad Manager Outage](https://ads.google.com/status/publisher/incidents/EsQcYmPW6wkQvc9NZ4WB)
-- [Dallas midair tragedy: New videos show startling change in flight path of p-63](https://www.planeandpilotmag.com/news/the-latest/2022/11/30/dallas-midair-tragedy-new-video-shows-startling-change-in-flight-path-of-p-63/)
-- [Every modeler is supposed to be a great Python programmer](https://statmodeling.stat.columbia.edu/2022/12/08/the-cleantech-job-market-every-modeler-is-supposed-to-be-a-great-python-programmer/)
-- [AlphaCode Attention Visualization](https://alphacode.deepmind.com/)
-- [ChatGPT, Rot13, and Daniel Kahneman](https://jameswillia.ms/posts/chatgpt-rot13.html)
-- [Generally Intelligent &lpar;YC S17&rpar; is hiring senior software engineers](https://news.ycombinator.com/item?id=33913332)
-- [Goodbye to the C++ Implementation of Zig](https://ziglang.org/news/goodbye-cpp/)
-- [Bumblebee: GPT2, Stable Diffusion, and More in Elixir](https://news.livebook.dev/announcing-bumblebee-gpt2-stable-diffusion-and-more-in-elixir-3Op73O)
+- [Renewal of .dev domain with Google costs $850](https://twitter.com/emirkarsiyakali/status/1601373440979525632)
+- [AT&amp;T Long Lines – A Forgotten System &lpar;2018&rpar;](http://personal.garrettfuller.org/blog/2018/01/19/att-long-lines-a-forgotten-system/)
+- [Programming Languages: Application and Interpretation, 3rd Ed](https://www.plai.org/)
+- [Show HN: Panoptisch – A recursive dependency scanner for Python projects](https://github.com/R9295/panoptisch)
+- [A 100MW solar farm in Texas will mount panels directly on the ground](https://www.canarymedia.com/articles/solar/a-100mw-solar-farm-in-texas-will-mount-panels-directly-on-the-ground)
+- [Apple to end employee gagging clauses after activist campaign](https://www.ft.com/content/8cd27d16-c996-4dc7-86af-ed6f40ff361c)
+- [Debunking common myths about the Autobahn](https://blog.datawrapper.de/the-case-for-speed-limits/)
+- [Uxn is a virtual machine with 32 instructions](https://wiki.xxiivv.com/site/uxn.html)
+- [A Faster Horse](https://redmonk.com/sogrady/2022/12/09/faster-horse/)
+- [Glow: Render Markdown on the CLI](https://github.com/charmbracelet/glow)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

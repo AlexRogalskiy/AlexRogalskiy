@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Tech layoffs in 2022: A timeline](https://www.computerworld.com/article/3679733/tech-layoffs-in-2022-a-timeline.html#tk.rss_all)
+- [Apple sets a security challenge for 2023](https://www.computerworld.com/article/3682889/apple-sets-a-security-challenge-for-2023.html#tk.rss_all)
+- [Maybe you need a workstation instead of a PC](https://www.computerworld.com/article/3682652/maybe-you-need-a-workstation-instead-of-a-pc.html#tk.rss_all)
+- [Airtable becomes latest company to announce layoffs, cutting 20% of its workforce](https://www.computerworld.com/article/3682752/airtable-becomes-latest-company-to-announce-layoffs-cutting-20-of-its-workforce.html#tk.rss_all)
+- [An Android shortcut secret](https://www.computerworld.com/article/3681999/android-shortcut-secret.html#tk.rss_all)
 - [Google Chrome gets memory- and power-saving modes](https://www.computerworld.com/article/3682650/google-chrome-gets-memory-and-power-saving-modes.html#tk.rss_all)
 - [Kandji improves its Device Harmony Platform for Apple enterprise](https://www.computerworld.com/article/3682749/kandji-improves-its-device-harmony-platform-for-apple-enterprise.html#tk.rss_all)
 - [Salesforce deepens integration between Slack, Sales Cloud](https://www.computerworld.com/article/3682750/salesforce-deepens-integration-between-slack-sales-cloud.html#tk.rss_all)
 - [ChatGPT: Finally, an AI chatbot worth talking to](https://www.computerworld.com/article/3682143/chatgpt-finally-an-ai-chatbot-worth-talking-to.html#tk.rss_all)
 - [Atlassian targets ITSM with new additions to Jira Service Management](https://www.computerworld.com/article/3682628/atlassian-targets-itsm-with-new-additions-to-jira-service-management.html#tk.rss_all)
-- [Apple finally adds encryption to iCloud backups](https://www.computerworld.com/article/3682649/apple-finally-adds-encryption-to-icloud-backups.html#tk.rss_all)
-- [Apple accelerates plans to move more manufacturing out of China](https://www.computerworld.com/article/3682144/apple-accelerates-plans-to-move-more-manufacturing-out-of-china.html#tk.rss_all)
-- [Apple, iPhones, and China: Short-term problems need a long-term fix](https://www.computerworld.com/article/3682001/apple-iphones-and-china-short-term-problems-need-a-long-term-fix.html#tk.rss_all)
-- [US Congress rolls back proposal to restrict use of Chinese chips](https://www.computerworld.com/article/3682588/us-congress-rolls-back-proposal-to-restrict-use-of-chinese-chips.html#tk.rss_all)
-- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

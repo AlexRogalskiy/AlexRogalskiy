@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war at a glance: what we know on day 290 of the invasion](https://www.theguardian.com/world/2022/dec/10/russia-ukraine-war-at-a-glance-what-we-know-on-day-290-of-the-invasion)
-- [‘The authorities will step up control’: where next for China after protests?](https://www.theguardian.com/world/2022/dec/10/control-china-protests-covid-lockdown-xi-jinping)
-- [FTX’s Sam Bankman-Fried to testify before Congress next week](https://www.theguardian.com/technology/2022/dec/09/ftx-sam-bankman-fried-willing-to-testify-to-congress-next-week)
-- [Brazil bow out, Messi magic and so much World Cup drama – Football Daily](https://www.theguardian.com/football/audio/2022/dec/09/brazil-bow-out-messi-magic-and-so-much-world-cup-drama-football-daily)
-- [Gareth Southgate urges England to ‘step up mentally’ to France challenge](https://www.theguardian.com/football/2022/dec/09/gareth-southgate-urges-england-step-up-mentally-france-challenge-world-cup)
-- [Lord Young, former Conservative minister and businessman, dies aged 90](https://www.theguardian.com/politics/2022/dec/09/lord-young-conservative-minister-and-businessman-dies-aged-90)
-- [Darmon at the double as Montpellier fight back to beat 14-man London Irish](https://www.theguardian.com/sport/2022/dec/09/darmon-at-the-double-as-montpellier-fight-back-to-beat-14-man-london-irish)
-- [Gareth Southgate increases security after photos published of his home](https://www.theguardian.com/football/2022/dec/09/gareth-southgate-increases-security-after-photos-published-of-his-home)
-- [Two PCs sacked for sharing offensive messages](https://www.theguardian.com/uk-news/2022/dec/09/two-pcs-sacked-for-sharing-offensive-messages-with-wayne-couzens)
-- [Judge denies justice department plea to hold Trump in contempt over records](https://www.theguardian.com/us-news/2022/dec/09/trump-records-prosecutors-judge-hearing)
+- [Russia-Ukraine war at a glance: what we know on day 291 of the invasion](https://www.theguardian.com/world/2022/dec/11/russia-ukraine-war-at-a-glance-what-we-know-on-day-291-of-the-invasion)
+- [Bank of England set to spoil the festive mood with another interest rate rise](https://www.theguardian.com/business/2022/dec/11/bank-of-england-set-to-spoil-the-festive-mood-with-another-interest-rate-rise)
+- [England head home from World Cup rueing another penalty miss](https://www.theguardian.com/football/2022/dec/10/england-head-home-from-world-cup-rueing-another-penalty-miss)
+- [Gareth Southgate will wait before making decision on England future](https://www.theguardian.com/football/2022/dec/10/gareth-southgate-will-wait-before-making-decision-on-england-future)
+- [Heartbreak for England and more Moroccan miracles – Football Daily](https://www.theguardian.com/football/audio/2022/dec/10/heartbreak-for-england-and-more-moroccan-miracles-football-daily)
+- [Triangle of Sadness takes four top prizes at European film awards](https://www.theguardian.com/film/2022/dec/10/triangle-of-sadness-takes-trio-of-top-prizes-at-european-film-awards)
+- [Peru’s new president swears in her cabinet with anti-corruption pledge](https://www.theguardian.com/world/2022/dec/10/perus-new-president-swears-in-her-cabinet-with-anti-corruption-pledge)
+- [Black EU citizen with settled status temporarily denied entry into UK](https://www.theguardian.com/world/2022/dec/10/black-eu-citizen-with-settled-status-temporarily-denied-entry-into-uk)
+- [England out of World Cup after Harry Kane penalty miss against France](https://www.theguardian.com/football/2022/dec/10/england-france-world-cup-quarter-final-match-report)
+- [Calls for EU reform after five arrested in Qatar corruption inquiry](https://www.theguardian.com/world/2022/dec/10/calls-for-eu-reform-after-five-arrested-in-qatar-corruption-inquiry)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Tell HN: I&#39;ve been banned from Twitter for defending myself from defamation](https://news.ycombinator.com/item?id=33929182)
-- [Millions of US Millennials Moved in with Their Parents This Year](https://www.bloomberg.com/news/articles/2022-12-06/millions-of-us-millennials-moved-in-with-their-parents-this-year)
-- [Air in India&#39;s financial capital getting worse than smog-filled Delhi](https://www.bbc.com/news/world-asia-india-63913032)
-- [Lashon Hara](https://en.wikipedia.org/wiki/Lashon_hara)
-- [How to read tweets without logging in](https://www.ghostery.com/blog/how-to-read-tweets-without-logging-in)
-- [ActiveState Komodo IDE Now Open Source](https://www.activestate.com/blog/activestate-komodo-ide-now-open-source/)
-- [Show HN: ChatGPT but for Rap Battles](https://rappingai.com/)
-- [Can plasma instability be the savior for magnetic nozzle plasma thrusters](https://www.spacedaily.com/m/reports/Can_plasma_instability_in_fact_be_the_savior_for_magnetic_nozzle_plasma_thrusters_999.html)
-- [Learning and Practicing Abstraction](https://the.scapegoat.dev/learning-and-practicing-abstraction/)
-- [James Webb Space Telescope &#39;fingerprints&#39; earliest galaxies](https://www.bbc.com/news/science-environment-63919257)
+- [Ask HN: Have you ever used an image consultant?](https://news.ycombinator.com/item?id=33939509)
+- [Base editing: Revolutionary therapy clears girl&#39;s incurable cancer](https://www.bbc.com/news/health-63859184)
+- [Jobs, Cook, Ive–Blevins? The Rise of Apple’s Cost Cutter &lpar;2020&rpar;](https://www.wsj.com/articles/jobs-cook-iveblevins-the-rise-of-apples-cost-cutter-11579803981)
+- [Is dark matter’s “nightmare scenario” true?](https://bigthink.com/starts-with-a-bang/dark-matter-nightmare-scenario/)
+- [Over-Engineering Secret Santa with Python Cryptography and Datasette](https://simonwillison.net/2022/Dec/11/over-engineering-secret-santa/)
+- [Show HN: Form4 Filings](https://100ktrading.com)
+- [Ask HN: Laid off employees, did the company ask you to return equipment?](https://news.ycombinator.com/item?id=33939467)
+- [The Club of Rome at 50 years old](https://bombthrower.com/the-club-of-rome-at-50-years-old/)
+- [First ammonia-powered jet flight in 2023: A roadmap to clean aviation](https://newatlas.com/aircraft/aviation-h2-ammonia-fuel-jet-aircraft/)
+- [SBF tried to destabilize crypto market to save FTX: Report](https://cointelegraph.com/news/sbf-tried-to-destabilize-crypto-market-to-save-ftx-report)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Renewal of .dev domain with Google costs $850](https://twitter.com/emirkarsiyakali/status/1601373440979525632)
-- [AT&amp;T Long Lines – A Forgotten System &lpar;2018&rpar;](http://personal.garrettfuller.org/blog/2018/01/19/att-long-lines-a-forgotten-system/)
-- [Programming Languages: Application and Interpretation, 3rd Ed](https://www.plai.org/)
-- [Show HN: Panoptisch – A recursive dependency scanner for Python projects](https://github.com/R9295/panoptisch)
-- [A 100MW solar farm in Texas will mount panels directly on the ground](https://www.canarymedia.com/articles/solar/a-100mw-solar-farm-in-texas-will-mount-panels-directly-on-the-ground)
-- [Apple to end employee gagging clauses after activist campaign](https://www.ft.com/content/8cd27d16-c996-4dc7-86af-ed6f40ff361c)
-- [Debunking common myths about the Autobahn](https://blog.datawrapper.de/the-case-for-speed-limits/)
-- [Uxn is a virtual machine with 32 instructions](https://wiki.xxiivv.com/site/uxn.html)
-- [A Faster Horse](https://redmonk.com/sogrady/2022/12/09/faster-horse/)
-- [Glow: Render Markdown on the CLI](https://github.com/charmbracelet/glow)
+- [Copyright denied as pose lacks originality](https://twitter.com/zemotion/status/1600529480099196928)
+- [Zero-Cost Well-Defined Signed Integer Overflow in C++](https://rentry.co/c955s)
+- [Fuzzing ping&lpar;8&rpar; and finding a 24 year old bug](https://tlakh.xyz/fuzzing-ping.html)
+- [Disputing a Parking Fine with ChatGPT](https://notesbylex.com/disputing-a-parking-fine-with-chatgpt.html)
+- [Amtrak asks fed regulators to investigate Union Pacific handling of Sunset Ltd](https://www.trains.com/trn/news-reviews/news-wire/amtrak-asks-federal-regulators-to-investigate-union-pacific-handling-of-sunset-limited/)
+- [Tell HN: HP printers force you into agreement](https://news.ycombinator.com/item?id=33936862)
+- [Haskell, Ada, C++, Awk: An Experiment in Prototyping Productivity &lpar;1994&rpar; [pdf]](https://www.cs.yale.edu/publications/techreports/tr1049.pdf)
+- [The Making of Toy Story &lpar;1996&rpar; [pdf]](http://people.uncw.edu/ricanekk/teaching/spring09/csc100/lectures/pattersone/TheMakingOfToyStory.pdf)
+- [Simulated wormholes for my real friends, real wormholes for my simulated friends](https://4gravitons.com/2022/12/09/simulated-wormholes-for-my-real-friends-real-wormholes-for-my-simulated-friends/)
+- [Sign in with Google has been removed for your privacy](https://slimvoice.co/login)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

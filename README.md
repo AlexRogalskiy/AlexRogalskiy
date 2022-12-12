@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ask HN: Have you ever used an image consultant?](https://news.ycombinator.com/item?id=33939509)
-- [Base editing: Revolutionary therapy clears girl&#39;s incurable cancer](https://www.bbc.com/news/health-63859184)
-- [Jobs, Cook, Ive–Blevins? The Rise of Apple’s Cost Cutter &lpar;2020&rpar;](https://www.wsj.com/articles/jobs-cook-iveblevins-the-rise-of-apples-cost-cutter-11579803981)
-- [Is dark matter’s “nightmare scenario” true?](https://bigthink.com/starts-with-a-bang/dark-matter-nightmare-scenario/)
-- [Over-Engineering Secret Santa with Python Cryptography and Datasette](https://simonwillison.net/2022/Dec/11/over-engineering-secret-santa/)
-- [Show HN: Form4 Filings](https://100ktrading.com)
-- [Ask HN: Laid off employees, did the company ask you to return equipment?](https://news.ycombinator.com/item?id=33939467)
-- [The Club of Rome at 50 years old](https://bombthrower.com/the-club-of-rome-at-50-years-old/)
-- [First ammonia-powered jet flight in 2023: A roadmap to clean aviation](https://newatlas.com/aircraft/aviation-h2-ammonia-fuel-jet-aircraft/)
-- [SBF tried to destabilize crypto market to save FTX: Report](https://cointelegraph.com/news/sbf-tried-to-destabilize-crypto-market-to-save-ftx-report)
+- [A GPT-3 chatbot based on Huberman Lab](https://twitter.com/danshipper/status/1602126357953142784)
+- [Building emergency pathways in your software &lpar;never to be used&rpar;](https://ravendb.net/articles/building-emergency-pathways-in-your-software-never-to-be-used)
+- [Elastic cloud services: scaling snowflake&#39;s control plane](https://dl.acm.org/doi/10.1145/3542929.3563483)
+- [This is Definitely one of the most keyboards in my collection](https://old.reddit.com/r/MechanicalKeyboards/comments/x5z60p/this_is_definitely_one_of_the_most_keyboards_in/)
+- [Gaza authorities discover over 60 Roman era graves](https://www.independent.co.uk/news/gaza-ap-roman-hamas-gaza-city-b2243165.html)
+- [Switching to Go – First Impressions](https://henrikwarne.com/2022/12/11/switching-to-go-first-impressions/)
+- [Akvorado: A netflow collector, enricher, and visualizer](https://vincent.bernat.ch/en/blog/2022-akvorado-flow-collector)
+- [Binance&#39;s Alleged Crypto Audit Failed, Not Even Its Auditor Would Vouch for It](https://mishtalk.com/economics/binances-alleged-crypto-audit-failed-not-even-its-auditor-would-vouch-for-it)
+- [Brave Has a “Copy Clean Link” Feature](https://mastodon.social/@brave/109366925475722416)
+- [How to Make Friends](https://www.youtube.com/watch?v=I9hJ_Rux9y0)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

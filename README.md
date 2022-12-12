@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Copyright denied as pose lacks originality](https://twitter.com/zemotion/status/1600529480099196928)
-- [Zero-Cost Well-Defined Signed Integer Overflow in C++](https://rentry.co/c955s)
-- [Fuzzing ping&lpar;8&rpar; and finding a 24 year old bug](https://tlakh.xyz/fuzzing-ping.html)
-- [Disputing a Parking Fine with ChatGPT](https://notesbylex.com/disputing-a-parking-fine-with-chatgpt.html)
-- [Amtrak asks fed regulators to investigate Union Pacific handling of Sunset Ltd](https://www.trains.com/trn/news-reviews/news-wire/amtrak-asks-federal-regulators-to-investigate-union-pacific-handling-of-sunset-limited/)
-- [Tell HN: HP printers force you into agreement](https://news.ycombinator.com/item?id=33936862)
-- [Haskell, Ada, C++, Awk: An Experiment in Prototyping Productivity &lpar;1994&rpar; [pdf]](https://www.cs.yale.edu/publications/techreports/tr1049.pdf)
-- [The Making of Toy Story &lpar;1996&rpar; [pdf]](http://people.uncw.edu/ricanekk/teaching/spring09/csc100/lectures/pattersone/TheMakingOfToyStory.pdf)
-- [Simulated wormholes for my real friends, real wormholes for my simulated friends](https://4gravitons.com/2022/12/09/simulated-wormholes-for-my-real-friends-real-wormholes-for-my-simulated-friends/)
-- [Sign in with Google has been removed for your privacy](https://slimvoice.co/login)
+- [Sharrow MX-1: Tipless propeller &lpar;2020&rpar;](https://www.mby.com/gear/sharrow-mx-1-tipless-propeller-110120)
+- [No one reads the terms of service. Lawmakers want to fix that with &#39;TLDR&#39; bill](https://www.washingtonpost.com/politics/2022/01/13/no-one-reads-terms-service-lawmakers-want-fix-that-with-new-tldr-bill/)
+- [The 6.1 kernel is out](https://lwn.net/Articles/917504/)
+- [Are you a nice to have or a must have?](https://www.yannickoswald.com/post/are-you-a-nice-to-have-or-must-have)
+- [Astronomers Just Confirmed the Most Ancient Galaxies Ever Observed](https://singularityhub.com/2022/12/11/astronomers-just-confirmed-the-most-ancient-galaxies-ever-observed/)
+- [As Carvana crashes, used car dealers, not buyers, stand to win big](https://www.businessinsider.com/used-vehicle-retailer-carvana-bankruptcy-car-buyers-inventory-2022-12)
+- [Japanese Manga are being eclipsed by Korean webtoons](https://www.economist.com/asia/2022/12/08/japanese-manga-are-being-eclipsed-by-korean-webtoons)
+- [Is Dark Mode Good for Your Eyes? &lpar;2020&rpar;](https://kevquirk.com/is-dark-mode-such-a-good-idea/)
+- [Creating aerial imagery with a bike helmet camera &lpar;GoPro&rpar; and OpenDroneMap](https://jakecoppinger.com/2022/12/creating-aerial-imagery-with-a-bike-helmet-camera-and-opendronemap/)
+- [OneSignal &lpar;YC S11&rpar; Is Hiring a Product Engineer](https://onesignal.com/careers/4004540006)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

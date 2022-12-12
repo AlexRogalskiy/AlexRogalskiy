@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war at a glance: what we know on day 291 of the invasion](https://www.theguardian.com/world/2022/dec/11/russia-ukraine-war-at-a-glance-what-we-know-on-day-291-of-the-invasion)
-- [Bank of England set to spoil the festive mood with another interest rate rise](https://www.theguardian.com/business/2022/dec/11/bank-of-england-set-to-spoil-the-festive-mood-with-another-interest-rate-rise)
-- [England head home from World Cup rueing another penalty miss](https://www.theguardian.com/football/2022/dec/10/england-head-home-from-world-cup-rueing-another-penalty-miss)
-- [Gareth Southgate will wait before making decision on England future](https://www.theguardian.com/football/2022/dec/10/gareth-southgate-will-wait-before-making-decision-on-england-future)
-- [Heartbreak for England and more Moroccan miracles – Football Daily](https://www.theguardian.com/football/audio/2022/dec/10/heartbreak-for-england-and-more-moroccan-miracles-football-daily)
-- [Triangle of Sadness takes four top prizes at European film awards](https://www.theguardian.com/film/2022/dec/10/triangle-of-sadness-takes-trio-of-top-prizes-at-european-film-awards)
-- [Peru’s new president swears in her cabinet with anti-corruption pledge](https://www.theguardian.com/world/2022/dec/10/perus-new-president-swears-in-her-cabinet-with-anti-corruption-pledge)
-- [Black EU citizen with settled status temporarily denied entry into UK](https://www.theguardian.com/world/2022/dec/10/black-eu-citizen-with-settled-status-temporarily-denied-entry-into-uk)
-- [England out of World Cup after Harry Kane penalty miss against France](https://www.theguardian.com/football/2022/dec/10/england-france-world-cup-quarter-final-match-report)
-- [Calls for EU reform after five arrested in Qatar corruption inquiry](https://www.theguardian.com/world/2022/dec/10/calls-for-eu-reform-after-five-arrested-in-qatar-corruption-inquiry)
+- [Jacinda Ardern vows to ‘focus on economy’ after months of poor polling](https://www.theguardian.com/world/2022/dec/12/jacinda-ardern-vows-to-focus-on-economy-after-months-of-poor-polling)
+- [Georgia Holt, actor, singer and Cher’s mother, dies aged 96](https://www.theguardian.com/music/2022/dec/12/georgia-holt-actor-singer-and-chers-mother-dies-aged-96)
+- [China preparing fresh pretext to practise future attacks, says Taiwan foreign minister](https://www.theguardian.com/world/2022/dec/12/china-preparing-fresh-pretext-to-practise-future-attacks-says-taiwan-foreign-minister)
+- [Lockerbie plane bombing: what happened and who is the third suspect?](https://www.theguardian.com/uk-news/2022/dec/12/lockerbie-plane-bombing-what-happened-and-who-is-the-third-suspect)
+- [Ukrainian strike hits Russian barracks in occupied Melitopol](https://www.theguardian.com/world/2022/dec/11/ukrainian-himars-missiles-hit-russian-occupied-melitopol)
+- [Fears for UK economy after manufacturing sector shrinks by 4%](https://www.theguardian.com/business/2022/dec/12/fears-for-uk-economy-after-manufacturing-sector-shrinks-by-4)
+- [Schools in England face ‘significant squeeze’ on budgets, IFS report finds](https://www.theguardian.com/education/2022/dec/12/schools-in-england-face-significant-squeeze-on-budgets-ifs-report-finds)
+- [Mother Goose review – zany Ian McKellen rules over a fluffy affair](https://www.theguardian.com/stage/2022/dec/12/mother-goose-review-ian-mckellen-john-bishop-panto)
+- [Average asking price of UK homes down by 2.1% in a month, says Rightmove](https://www.theguardian.com/business/2022/dec/12/average-asking-price-uk-homes-december-rightmove)
+- [Patti LaBelle rushed offstage after bomb threat made at Wisconsin show](https://www.theguardian.com/music/2022/dec/12/patti-labelle-rushed-offstage-after-bomb-threat-made-at-wisconsin-show)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

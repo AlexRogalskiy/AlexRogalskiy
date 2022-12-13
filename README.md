@@ -355,6 +355,7 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [5 things Elon Musk could learn from Microsoft CEO Satya Nadella](https://www.computerworld.com/article/3682893/5-things-elon-musk-could-learn-from-microsoft-ceo-satya-nadella.html#tk.rss_all)
 - [Tech layoffs in 2022: A timeline](https://www.computerworld.com/article/3679733/tech-layoffs-in-2022-a-timeline.html#tk.rss_all)
 - [Apple sets a security challenge for 2023](https://www.computerworld.com/article/3682889/apple-sets-a-security-challenge-for-2023.html#tk.rss_all)
 - [Maybe you need a workstation instead of a PC](https://www.computerworld.com/article/3682652/maybe-you-need-a-workstation-instead-of-a-pc.html#tk.rss_all)
@@ -364,7 +365,6 @@
 - [Kandji improves its Device Harmony Platform for Apple enterprise](https://www.computerworld.com/article/3682749/kandji-improves-its-device-harmony-platform-for-apple-enterprise.html#tk.rss_all)
 - [Salesforce deepens integration between Slack, Sales Cloud](https://www.computerworld.com/article/3682750/salesforce-deepens-integration-between-slack-sales-cloud.html#tk.rss_all)
 - [ChatGPT: Finally, an AI chatbot worth talking to](https://www.computerworld.com/article/3682143/chatgpt-finally-an-ai-chatbot-worth-talking-to.html#tk.rss_all)
-- [Atlassian targets ITSM with new additions to Jira Service Management](https://www.computerworld.com/article/3682628/atlassian-targets-itsm-with-new-additions-to-jira-service-management.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

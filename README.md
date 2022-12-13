@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Sharrow MX-1: Tipless propeller &lpar;2020&rpar;](https://www.mby.com/gear/sharrow-mx-1-tipless-propeller-110120)
-- [No one reads the terms of service. Lawmakers want to fix that with &#39;TLDR&#39; bill](https://www.washingtonpost.com/politics/2022/01/13/no-one-reads-terms-service-lawmakers-want-fix-that-with-new-tldr-bill/)
-- [The 6.1 kernel is out](https://lwn.net/Articles/917504/)
-- [Are you a nice to have or a must have?](https://www.yannickoswald.com/post/are-you-a-nice-to-have-or-must-have)
-- [Astronomers Just Confirmed the Most Ancient Galaxies Ever Observed](https://singularityhub.com/2022/12/11/astronomers-just-confirmed-the-most-ancient-galaxies-ever-observed/)
-- [As Carvana crashes, used car dealers, not buyers, stand to win big](https://www.businessinsider.com/used-vehicle-retailer-carvana-bankruptcy-car-buyers-inventory-2022-12)
-- [Japanese Manga are being eclipsed by Korean webtoons](https://www.economist.com/asia/2022/12/08/japanese-manga-are-being-eclipsed-by-korean-webtoons)
-- [Is Dark Mode Good for Your Eyes? &lpar;2020&rpar;](https://kevquirk.com/is-dark-mode-such-a-good-idea/)
-- [Creating aerial imagery with a bike helmet camera &lpar;GoPro&rpar; and OpenDroneMap](https://jakecoppinger.com/2022/12/creating-aerial-imagery-with-a-bike-helmet-camera-and-opendronemap/)
-- [OneSignal &lpar;YC S11&rpar; Is Hiring a Product Engineer](https://onesignal.com/careers/4004540006)
+- [What I learned at Gitlab that I don&#39;t want to forget](https://blog.boleary.dev/what-i-learned-at-gitlab-that-i-dont-want-to-forget/)
+- [Statement from Fosshost&#39;s Founder](https://fosshost.org/founder.html)
+- [Solving Advent of Code with jq](https://github.com/odnoletkov/advent-of-code-jq)
+- [Ask HN: If I get locked out of everything, please try to help me](https://news.ycombinator.com/item?id=33963269)
+- [On Twitch, You Can Never Log Off](https://every.to/cybernaut/on-twitch-you-can-never-log-off)
+- [Data behind high-functioning engineering organizations [pdf]](https://www.datocms-assets.com/65181/1667327773-iconiq-analytics-insights-engineering-in-a-hybrid-world.pdf)
+- [Clojure is a trinity of language, REPL, and structural editor](https://blog.jakubholy.net/2022/trinity-of-clojure/)
+- [SBF Arrested by Bahamian Authorities](https://twitter.com/tier10k/status/1602446984090107905)
+- [Building Games with DragonRuby – A free book on Ruby game dev](https://book.dragonriders.community/)
+- [Why hasn’t technology disrupted higher education already?](https://www.slowboring.com/p/why-hasnt-technology-disrupted-higher)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

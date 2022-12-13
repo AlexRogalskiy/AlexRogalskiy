@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Jacinda Ardern vows to ‘focus on economy’ after months of poor polling](https://www.theguardian.com/world/2022/dec/12/jacinda-ardern-vows-to-focus-on-economy-after-months-of-poor-polling)
-- [Georgia Holt, actor, singer and Cher’s mother, dies aged 96](https://www.theguardian.com/music/2022/dec/12/georgia-holt-actor-singer-and-chers-mother-dies-aged-96)
-- [China preparing fresh pretext to practise future attacks, says Taiwan foreign minister](https://www.theguardian.com/world/2022/dec/12/china-preparing-fresh-pretext-to-practise-future-attacks-says-taiwan-foreign-minister)
-- [Lockerbie plane bombing: what happened and who is the third suspect?](https://www.theguardian.com/uk-news/2022/dec/12/lockerbie-plane-bombing-what-happened-and-who-is-the-third-suspect)
-- [Ukrainian strike hits Russian barracks in occupied Melitopol](https://www.theguardian.com/world/2022/dec/11/ukrainian-himars-missiles-hit-russian-occupied-melitopol)
-- [Fears for UK economy after manufacturing sector shrinks by 4%](https://www.theguardian.com/business/2022/dec/12/fears-for-uk-economy-after-manufacturing-sector-shrinks-by-4)
-- [Schools in England face ‘significant squeeze’ on budgets, IFS report finds](https://www.theguardian.com/education/2022/dec/12/schools-in-england-face-significant-squeeze-on-budgets-ifs-report-finds)
-- [Mother Goose review – zany Ian McKellen rules over a fluffy affair](https://www.theguardian.com/stage/2022/dec/12/mother-goose-review-ian-mckellen-john-bishop-panto)
-- [Average asking price of UK homes down by 2.1% in a month, says Rightmove](https://www.theguardian.com/business/2022/dec/12/average-asking-price-uk-homes-december-rightmove)
-- [Patti LaBelle rushed offstage after bomb threat made at Wisconsin show](https://www.theguardian.com/music/2022/dec/12/patti-labelle-rushed-offstage-after-bomb-threat-made-at-wisconsin-show)
+- [Sam Bankman-Fried arrested in the Bahamas as criminal charges loom](https://www.theguardian.com/us-news/2022/dec/12/former-ftx-ceo-sam-bankman-fried-arrested-in-the-bahamas-local-authorities-say)
+- [Jacinda Ardern will need more than a ‘paring back’ of policies to win | Henry Cooke](https://www.theguardian.com/world/2022/dec/13/jacinda-ardern-will-need-more-than-a-paring-back-of-policies-to-win)
+- [Russia-Ukraine war at a glance: what we know on day 293 of the invasion](https://www.theguardian.com/world/2022/dec/13/russia-ukraine-war-at-a-glance-what-we-know-on-day-293-of-the-invasion)
+- [Black prisoners and white guards ‘should cook together to break down barriers’](https://www.theguardian.com/society/2022/dec/13/black-prisoners-white-guards-cook-together-break-down-barriers)
+- [Genome sequencing trial to test benefits of identifying genetic diseases at birth](https://www.theguardian.com/science/2022/dec/13/genome-sequencing-trial-to-test-benefits-of-identifying-genetic-diseases-at-birth)
+- [Poland’s only cosmonaut, Mirosław Hermaszewski, dies aged 81](https://www.theguardian.com/world/2022/dec/12/polands-only-cosmonaut-mirosaw-hermaszewski-dies-aged-81)
+- [Lockerbie bomb suspect in US custody was ‘abducted from home’ by warlord](https://www.theguardian.com/uk-news/2022/dec/12/lockerbie-bomb-suspect-masud-us-custody)
+- [Angelo Badalamenti, David Lynch’s composer on Twin Peaks, Blue Velvet and more, dies aged 85](https://www.theguardian.com/music/2022/dec/13/angelo-badalamenti-david-lynchs-composer-on-twin-peaks-blue-velvet-and-more-dies-aged-85)
+- [Nurses will strike this week in UK after talks with health secretary stall](https://www.theguardian.com/society/2022/dec/12/uk-ministers-accused-of-making-false-claims-on-efforts-to-avert-nurses-strike)
+- [Kwarteng had ‘all the advice’ but disregarded warnings on mini-budget, MPs told](https://www.theguardian.com/politics/2022/dec/12/kwarteng-had-all-the-advice-but-disregarded-warnings-on-mini-budget-mps-told)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

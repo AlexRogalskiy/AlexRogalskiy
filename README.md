@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [A GPT-3 chatbot based on Huberman Lab](https://twitter.com/danshipper/status/1602126357953142784)
-- [Building emergency pathways in your software &lpar;never to be used&rpar;](https://ravendb.net/articles/building-emergency-pathways-in-your-software-never-to-be-used)
-- [Elastic cloud services: scaling snowflake&#39;s control plane](https://dl.acm.org/doi/10.1145/3542929.3563483)
-- [This is Definitely one of the most keyboards in my collection](https://old.reddit.com/r/MechanicalKeyboards/comments/x5z60p/this_is_definitely_one_of_the_most_keyboards_in/)
-- [Gaza authorities discover over 60 Roman era graves](https://www.independent.co.uk/news/gaza-ap-roman-hamas-gaza-city-b2243165.html)
-- [Switching to Go – First Impressions](https://henrikwarne.com/2022/12/11/switching-to-go-first-impressions/)
-- [Akvorado: A netflow collector, enricher, and visualizer](https://vincent.bernat.ch/en/blog/2022-akvorado-flow-collector)
-- [Binance&#39;s Alleged Crypto Audit Failed, Not Even Its Auditor Would Vouch for It](https://mishtalk.com/economics/binances-alleged-crypto-audit-failed-not-even-its-auditor-would-vouch-for-it)
-- [Brave Has a “Copy Clean Link” Feature](https://mastodon.social/@brave/109366925475722416)
-- [How to Make Friends](https://www.youtube.com/watch?v=I9hJ_Rux9y0)
+- [MIT mainstay Mary Chung retiring, close restaurant](https://www.universalhub.com/2022/mit-mainstay-mary-chung-retiring-close-restaurant)
+- [Chinese bots swamp Twitter with porn to hide news of mass protests](https://nypost.com/2022/11/28/chinese-swamp-twitter-with-porn-to-block-protest-news/)
+- [Small banks warn they may have to drop Zelle over scam payment costs](https://www.wsj.com/articles/small-banks-warn-they-might-have-to-drop-zelle-over-scam-payment-costs-11670849934)
+- [SpaceX is offering to sell insider shares](https://www.bloomberg.com/news/articles/2022-12-13/spacex-tender-offer-is-said-to-value-company-at-140-billion-lblj2e1f)
+- [Facts about the fall of the NFT Market](https://richartruddie.typepad.com/entrepreneur/2022/12/astonishing-facts-on-the-fall-of-nft-art-.html)
+- [An Analysis of Caffeine in Coffee](https://www.youtube.com/watch?v=etnMr8oUSDo)
+- [FTX founder Sam Bankman-Fried’s parents, who teach Stanford Law, under scrutiny](https://www.nytimes.com/2022/12/12/technology/sbf-parents-ftx-collapse.html)
+- [Picol, a Tcl interpreter in 550 lines of C code](http://oldblog.antirez.com/page/picol.html)
+- [Major Fusion Energy Breakthrough to Be Announced by Scientists](https://www.nytimes.com/2022/12/12/science/nuclear-fusion-energy-breakthrough.html)
+- [Musk’s Twitter Dissolves Trust and Safety Council](https://apnews.com/article/elon-musk-twitter-inc-technology-business-a9b795e8050de12319b82b5dd7118cd7)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

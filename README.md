@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
-- [5 things Elon Musk could learn from Microsoft CEO Satya Nadella](https://www.computerworld.com/article/3682893/5-things-elon-musk-could-learn-from-microsoft-ceo-satya-nadella.html#tk.rss_all)
-- [Tech layoffs in 2022: A timeline](https://www.computerworld.com/article/3679733/tech-layoffs-in-2022-a-timeline.html#tk.rss_all)
-- [Apple sets a security challenge for 2023](https://www.computerworld.com/article/3682889/apple-sets-a-security-challenge-for-2023.html#tk.rss_all)
-- [Maybe you need a workstation instead of a PC](https://www.computerworld.com/article/3682652/maybe-you-need-a-workstation-instead-of-a-pc.html#tk.rss_all)
-- [Airtable becomes latest company to announce layoffs, cutting 20% of its workforce](https://www.computerworld.com/article/3682752/airtable-becomes-latest-company-to-announce-layoffs-cutting-20-of-its-workforce.html#tk.rss_all)
-- [An Android shortcut secret](https://www.computerworld.com/article/3681999/android-shortcut-secret.html#tk.rss_all)
-- [Google Chrome gets memory- and power-saving modes](https://www.computerworld.com/article/3682650/google-chrome-gets-memory-and-power-saving-modes.html#tk.rss_all)
-- [Kandji improves its Device Harmony Platform for Apple enterprise](https://www.computerworld.com/article/3682749/kandji-improves-its-device-harmony-platform-for-apple-enterprise.html#tk.rss_all)
-- [Salesforce deepens integration between Slack, Sales Cloud](https://www.computerworld.com/article/3682750/salesforce-deepens-integration-between-slack-sales-cloud.html#tk.rss_all)
-- [ChatGPT: Finally, an AI chatbot worth talking to](https://www.computerworld.com/article/3682143/chatgpt-finally-an-ai-chatbot-worth-talking-to.html#tk.rss_all)
+- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
+- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
+- [European Commission takes step toward approving EU-US data privacy pact](https://www.computerworld.com/article/3683068/european-commission-takes-step-toward-approving-eu-us-data-privacy-pact.html#tk.rss_all)
+- [A third of UK workers to stay online over holidays, following global trend](https://www.computerworld.com/article/3682657/a-third-of-uk-workers-to-stay-online-over-holidays-following-global-trend.html#tk.rss_all)
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [Fred Brooks is gone, but his IT management lessons will live forever](https://www.computerworld.com/article/3682850/fred-brooks-is-gone-but-his-it-management-lessons-will-live-forever.html#tk.rss_all)
+- [MetroStar’s ‘fast and fearless’ IT culture is fueled by upskilling](https://www.computerworld.com/article/3681340/metrostar-fast-fearless-it-culture-fueled-by-upskilling.html#tk.rss_all)
+- [Genentech cracks the code for a healthy, happy workforce](https://www.computerworld.com/article/3681116/genentech-cracks-the-code-for-healthy-happy-workforce.html#tk.rss_all)
+- [Avanade’s support for flex work fosters an efficient IT team](https://www.computerworld.com/article/3681083/avanade-support-for-flex-work-fosters-efficient-it-team.html#tk.rss_all)
+- [Best Places to Work in IT 2023](https://www.computerworld.com/article/3681081/best-places-to-work-in-it-2023.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

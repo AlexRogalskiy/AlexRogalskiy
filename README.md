@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Sam Bankman-Fried arrested in the Bahamas as criminal charges loom](https://www.theguardian.com/us-news/2022/dec/12/former-ftx-ceo-sam-bankman-fried-arrested-in-the-bahamas-local-authorities-say)
-- [Jacinda Ardern will need more than a ‘paring back’ of policies to win | Henry Cooke](https://www.theguardian.com/world/2022/dec/13/jacinda-ardern-will-need-more-than-a-paring-back-of-policies-to-win)
-- [Russia-Ukraine war at a glance: what we know on day 293 of the invasion](https://www.theguardian.com/world/2022/dec/13/russia-ukraine-war-at-a-glance-what-we-know-on-day-293-of-the-invasion)
-- [Black prisoners and white guards ‘should cook together to break down barriers’](https://www.theguardian.com/society/2022/dec/13/black-prisoners-white-guards-cook-together-break-down-barriers)
-- [Genome sequencing trial to test benefits of identifying genetic diseases at birth](https://www.theguardian.com/science/2022/dec/13/genome-sequencing-trial-to-test-benefits-of-identifying-genetic-diseases-at-birth)
-- [Poland’s only cosmonaut, Mirosław Hermaszewski, dies aged 81](https://www.theguardian.com/world/2022/dec/12/polands-only-cosmonaut-mirosaw-hermaszewski-dies-aged-81)
-- [Lockerbie bomb suspect in US custody was ‘abducted from home’ by warlord](https://www.theguardian.com/uk-news/2022/dec/12/lockerbie-bomb-suspect-masud-us-custody)
-- [Angelo Badalamenti, David Lynch’s composer on Twin Peaks, Blue Velvet and more, dies aged 85](https://www.theguardian.com/music/2022/dec/13/angelo-badalamenti-david-lynchs-composer-on-twin-peaks-blue-velvet-and-more-dies-aged-85)
-- [Nurses will strike this week in UK after talks with health secretary stall](https://www.theguardian.com/society/2022/dec/12/uk-ministers-accused-of-making-false-claims-on-efforts-to-avert-nurses-strike)
-- [Kwarteng had ‘all the advice’ but disregarded warnings on mini-budget, MPs told](https://www.theguardian.com/politics/2022/dec/12/kwarteng-had-all-the-advice-but-disregarded-warnings-on-mini-budget-mps-told)
+- [Oregon governor commutes sentences of everyone on death row in state](https://www.theguardian.com/us-news/2022/dec/13/oregon-governor-commutes-death-sentences)
+- [‘Everyone is so desperate’: backpackers grapple with Australia’s high costs](https://www.theguardian.com/travel/2022/dec/14/everyone-is-so-desperate-backpackers-grapple-with-australias-high-costs)
+- [‘This place makes me utterly miserable’: Azealia Banks refuses to tour Australia again](https://www.theguardian.com/music/2022/dec/14/this-place-makes-me-utterly-miserable-azealia-banks-refuses-to-tour-australia-again)
+- [Nasa mission will give unprecedented view of Earth’s surface water](https://www.theguardian.com/science/2022/dec/13/nasa-swot-satellite-radar-survey-launch)
+- [Russia-Ukraine war at a glance: what we know on day 294 of the invasion](https://www.theguardian.com/world/2022/dec/14/russia-ukraine-war-at-a-glance-what-we-know-on-day-294-of-the-invasion)
+- [Majestic Messi earns Argentina a place in World Cup final – Football Daily](https://www.theguardian.com/football/audio/2022/dec/14/majestic-messi-earns-argentina-a-place-in-the-final-football-daily)
+- [Lionel Messi sets up his shot at destiny with throwback brilliance | Barney Ronay](https://www.theguardian.com/football/blog/2022/dec/14/lionel-messi-sets-up-shot-at-destiny-with-throwback-brilliance-argentina-world-cup)
+- [Labour seeks answers over disgraced MP’s role in Anne Sacoolas case](https://www.theguardian.com/politics/2022/dec/14/labour-seeks-answers-over-disgraced-mp-chris-pincher-role-in-anne-sacoolas-case)
+- [Get cracking: work as a team to solve our festive puzzle, says GCHQ](https://www.theguardian.com/uk-news/2022/dec/14/get-cracking-work-as-a-team-to-solve-our-festive-puzzle-says-gchq)
+- [Single-use plastic items to be banned in England — reports](https://www.theguardian.com/environment/2022/dec/13/single-use-plastic-items-to-be-banned-in-england-reports)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

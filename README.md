@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [What I learned at Gitlab that I don&#39;t want to forget](https://blog.boleary.dev/what-i-learned-at-gitlab-that-i-dont-want-to-forget/)
-- [Statement from Fosshost&#39;s Founder](https://fosshost.org/founder.html)
-- [Solving Advent of Code with jq](https://github.com/odnoletkov/advent-of-code-jq)
-- [Ask HN: If I get locked out of everything, please try to help me](https://news.ycombinator.com/item?id=33963269)
-- [On Twitch, You Can Never Log Off](https://every.to/cybernaut/on-twitch-you-can-never-log-off)
-- [Data behind high-functioning engineering organizations [pdf]](https://www.datocms-assets.com/65181/1667327773-iconiq-analytics-insights-engineering-in-a-hybrid-world.pdf)
-- [Clojure is a trinity of language, REPL, and structural editor](https://blog.jakubholy.net/2022/trinity-of-clojure/)
-- [SBF Arrested by Bahamian Authorities](https://twitter.com/tier10k/status/1602446984090107905)
-- [Building Games with DragonRuby – A free book on Ruby game dev](https://book.dragonriders.community/)
-- [Why hasn’t technology disrupted higher education already?](https://www.slowboring.com/p/why-hasnt-technology-disrupted-higher)
+- [Tailscale/golink: A private shortlink service for tailnets](https://github.com/tailscale/golink)
+- [A native internet protocol for social media](https://www.getrevue.co/profile/jackjack/issues/a-native-internet-protocol-for-social-media-1503112)
+- [Reddit&#39;s photo albums broke due to Integer overflow of Signed Int32](https://old.reddit.com/r/shittychangelog/comments/zl5gaz/here_at_reddit_we_believe_everything_is_better_in/)
+- [After 20 years the Dwarf Fortress devs have to get used to being millionaires](https://www.pcgamer.com/after-spending-20-years-simulating-reality-the-dwarf-fortress-devs-have-to-get-used-to-a-new-one-being-millionaires/)
+- [No, Google did not hike the price of a .dev domain from $12 to $850](https://www.agwa.name/blog/post/domain_pricing_is_very_confusing)
+- [A software change allowed FTX to use client money](https://www.reuters.com/technology/how-secret-software-change-allowed-ftx-use-client-money-2022-12-13/)
+- [The Flickr Foundation](https://www.flickr.org/announcing-the-flickr-foundation/)
+- [MindsDB &lpar;YC W20&rpar; Is Hiring a Senior PM](https://jobs.lever.co/mindsdb/5ef21d35-8386-4b1c-941d-77aed16b2c18)
+- [About the security content of iOS 16.2 and iPadOS 16.2](https://support.apple.com/en-gb/HT213530)
+- [How to rebuild social media on top of RSS](https://tfos.co/p/rebuild-social-media/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

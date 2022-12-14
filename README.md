@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [MIT mainstay Mary Chung retiring, close restaurant](https://www.universalhub.com/2022/mit-mainstay-mary-chung-retiring-close-restaurant)
-- [Chinese bots swamp Twitter with porn to hide news of mass protests](https://nypost.com/2022/11/28/chinese-swamp-twitter-with-porn-to-block-protest-news/)
-- [Small banks warn they may have to drop Zelle over scam payment costs](https://www.wsj.com/articles/small-banks-warn-they-might-have-to-drop-zelle-over-scam-payment-costs-11670849934)
-- [SpaceX is offering to sell insider shares](https://www.bloomberg.com/news/articles/2022-12-13/spacex-tender-offer-is-said-to-value-company-at-140-billion-lblj2e1f)
-- [Facts about the fall of the NFT Market](https://richartruddie.typepad.com/entrepreneur/2022/12/astonishing-facts-on-the-fall-of-nft-art-.html)
-- [An Analysis of Caffeine in Coffee](https://www.youtube.com/watch?v=etnMr8oUSDo)
-- [FTX founder Sam Bankman-Fried’s parents, who teach Stanford Law, under scrutiny](https://www.nytimes.com/2022/12/12/technology/sbf-parents-ftx-collapse.html)
-- [Picol, a Tcl interpreter in 550 lines of C code](http://oldblog.antirez.com/page/picol.html)
-- [Major Fusion Energy Breakthrough to Be Announced by Scientists](https://www.nytimes.com/2022/12/12/science/nuclear-fusion-energy-breakthrough.html)
-- [Musk’s Twitter Dissolves Trust and Safety Council](https://apnews.com/article/elon-musk-twitter-inc-technology-business-a9b795e8050de12319b82b5dd7118cd7)
+- [Colloque Walter Lippmann](https://en.wikipedia.org/wiki/Colloque_Walter_Lippmann)
+- [Timing of expressing milk and a baby drinking it affects infant sleep](https://www.newscientist.com/article/2349993-timing-of-expressing-milk-and-a-baby-drinking-it-affects-infant-sleep/)
+- [What strings does this regex matches? &lpar;a|b&rpar;](https://news.ycombinator.com/item?id=33979254)
+- [235M – interestingly groovy portrait of the Soviet Union in the 1960s](https://www.theguardian.com/film/2022/dec/12/235000000-review-interestingly-groovy-portrait-of-the-soviet-union-in-the-1960s)
+- [Bloom&#39;s 2 Sigma Problem](https://en.wikipedia.org/wiki/Bloom%27s_2_sigma_problem)
+- [The Essence of Software Engineering &lpar;CC-BY&rpar;](https://openresearchlibrary.org/content/686675e2-b885-4fe1-9cfc-f79f567fcd0c)
+- [Keynote: Celebrating the 10 Years of Elixir – José Valim – ElixirConf EU 2022](https://www.youtube.com/watch?v=Jf5Hsa1KOc8)
+- [Elon Musk&#39;s Twitter isn&#39;t paying its bills](https://www.axios.com/2022/12/14/twitter-elon-musk-paying-bills-rent)
+- [Prosecutors Say FTX Was Engaged in a ‘Massive, Yearslong Fraud’](https://www.nytimes.com/2022/12/13/business/ftx-sam-bankman-fried-fraud-charges.html)
+- [Reasonable Philosophies Led to FTX’s Crypto Scam Collapsing](https://skepchick.org/2022/12/how-reasonable-philosophies-led-to-ftxs-crypto-scam-collapsing/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

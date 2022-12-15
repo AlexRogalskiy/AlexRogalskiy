@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Colloque Walter Lippmann](https://en.wikipedia.org/wiki/Colloque_Walter_Lippmann)
-- [Timing of expressing milk and a baby drinking it affects infant sleep](https://www.newscientist.com/article/2349993-timing-of-expressing-milk-and-a-baby-drinking-it-affects-infant-sleep/)
-- [What strings does this regex matches? &lpar;a|b&rpar;](https://news.ycombinator.com/item?id=33979254)
-- [235M – interestingly groovy portrait of the Soviet Union in the 1960s](https://www.theguardian.com/film/2022/dec/12/235000000-review-interestingly-groovy-portrait-of-the-soviet-union-in-the-1960s)
-- [Bloom&#39;s 2 Sigma Problem](https://en.wikipedia.org/wiki/Bloom%27s_2_sigma_problem)
-- [The Essence of Software Engineering &lpar;CC-BY&rpar;](https://openresearchlibrary.org/content/686675e2-b885-4fe1-9cfc-f79f567fcd0c)
-- [Keynote: Celebrating the 10 Years of Elixir – José Valim – ElixirConf EU 2022](https://www.youtube.com/watch?v=Jf5Hsa1KOc8)
-- [Elon Musk&#39;s Twitter isn&#39;t paying its bills](https://www.axios.com/2022/12/14/twitter-elon-musk-paying-bills-rent)
-- [Prosecutors Say FTX Was Engaged in a ‘Massive, Yearslong Fraud’](https://www.nytimes.com/2022/12/13/business/ftx-sam-bankman-fried-fraud-charges.html)
-- [Reasonable Philosophies Led to FTX’s Crypto Scam Collapsing](https://skepchick.org/2022/12/how-reasonable-philosophies-led-to-ftxs-crypto-scam-collapsing/)
+- [Artemis I – Orion Offloaded from USS Portland: Transport to Kennedy Space Center](https://blogs.nasa.gov/artemis/2022/12/14/artemis-i-update-orion-offloaded-from-uss-portland-in-preparation-for-transport-to-kennedy-space-center/)
+- [Elon Musk taking legal action over Twitter account that tracks his private jet](https://www.bbc.co.uk/news/world-us-canada-63978323)
+- [Ask HN: Google Chrome is uploading my password to their password leak API?](https://news.ycombinator.com/item?id=33994221)
+- [ACLU: Flock [YC] Is Building a New AI-Driven Mass-Surveillance System [pdf]](https://www.aclu.org/sites/default/files/field_document/flock_1.pdf)
+- [OpenAI CEO admits ChatGPT risks. What now?](https://venturebeat.com/ai/openai-ceo-admits-chatgpt-risks-what-now-the-ai-beat/)
+- [Is SBF about to be EPSTEINED? Redacted with Clayton Morris [video][25 mins]](https://www.youtube.com/watch?v=VhaIhtXkaII)
+- [File Chooser Thumbnails Party](https://gitlab.gnome.org/Teams/Engagement/Events/General/-/issues/16)
+- [Two temperate Earth-mass planets orbiting the nearby star GJ1002](https://arxiv.org/abs/2212.07332)
+- [Loot box State of Play 2022: Regulatory and policy research developments](https://www.gamesindustry.biz/loot-box-state-of-play-2022-regulatory-and-policy-research-developments)
+- [Add an “icon view with thumbnails” mode &lpar;like Nautilus&rpar; finally closed](https://gitlab.gnome.org/GNOME/gtk/-/commit/b0f65ead84c1ecd5f40683503ca972c6e1a95b3c)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

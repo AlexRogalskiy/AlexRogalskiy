@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
+- [Apple looks poised to open its walled garden in 2023](https://www.computerworld.com/article/3682761/apple-looks-poised-to-open-its-walled-garden-in-2023.html#tk.rss_all)
+- [7 hidden tricks for your Chromebook trackpad](https://www.computerworld.com/article/3682853/chromebook-trackpad-gestures.html#tk.rss_all)
+- [The Great Resignation isn’t over yet](https://www.computerworld.com/article/3682758/the-great-resignation-isnt-over-yet.html#tk.rss_all)
 - [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
 - [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
 - [European Commission takes step toward approving EU-US data privacy pact](https://www.computerworld.com/article/3683068/european-commission-takes-step-toward-approving-eu-us-data-privacy-pact.html#tk.rss_all)
 - [A third of UK workers to stay online over holidays, following global trend](https://www.computerworld.com/article/3682657/a-third-of-uk-workers-to-stay-online-over-holidays-following-global-trend.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [Fred Brooks is gone, but his IT management lessons will live forever](https://www.computerworld.com/article/3682850/fred-brooks-is-gone-but-his-it-management-lessons-will-live-forever.html#tk.rss_all)
-- [MetroStar’s ‘fast and fearless’ IT culture is fueled by upskilling](https://www.computerworld.com/article/3681340/metrostar-fast-fearless-it-culture-fueled-by-upskilling.html#tk.rss_all)
-- [Genentech cracks the code for a healthy, happy workforce](https://www.computerworld.com/article/3681116/genentech-cracks-the-code-for-healthy-happy-workforce.html#tk.rss_all)
-- [Avanade’s support for flex work fosters an efficient IT team](https://www.computerworld.com/article/3681083/avanade-support-for-flex-work-fosters-efficient-it-team.html#tk.rss_all)
-- [Best Places to Work in IT 2023](https://www.computerworld.com/article/3681081/best-places-to-work-in-it-2023.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

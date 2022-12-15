@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Oregon governor commutes sentences of everyone on death row in state](https://www.theguardian.com/us-news/2022/dec/13/oregon-governor-commutes-death-sentences)
-- [‘Everyone is so desperate’: backpackers grapple with Australia’s high costs](https://www.theguardian.com/travel/2022/dec/14/everyone-is-so-desperate-backpackers-grapple-with-australias-high-costs)
-- [‘This place makes me utterly miserable’: Azealia Banks refuses to tour Australia again](https://www.theguardian.com/music/2022/dec/14/this-place-makes-me-utterly-miserable-azealia-banks-refuses-to-tour-australia-again)
-- [Nasa mission will give unprecedented view of Earth’s surface water](https://www.theguardian.com/science/2022/dec/13/nasa-swot-satellite-radar-survey-launch)
-- [Russia-Ukraine war at a glance: what we know on day 294 of the invasion](https://www.theguardian.com/world/2022/dec/14/russia-ukraine-war-at-a-glance-what-we-know-on-day-294-of-the-invasion)
-- [Majestic Messi earns Argentina a place in World Cup final – Football Daily](https://www.theguardian.com/football/audio/2022/dec/14/majestic-messi-earns-argentina-a-place-in-the-final-football-daily)
-- [Lionel Messi sets up his shot at destiny with throwback brilliance | Barney Ronay](https://www.theguardian.com/football/blog/2022/dec/14/lionel-messi-sets-up-shot-at-destiny-with-throwback-brilliance-argentina-world-cup)
-- [Labour seeks answers over disgraced MP’s role in Anne Sacoolas case](https://www.theguardian.com/politics/2022/dec/14/labour-seeks-answers-over-disgraced-mp-chris-pincher-role-in-anne-sacoolas-case)
-- [Get cracking: work as a team to solve our festive puzzle, says GCHQ](https://www.theguardian.com/uk-news/2022/dec/14/get-cracking-work-as-a-team-to-solve-our-festive-puzzle-says-gchq)
-- [Single-use plastic items to be banned in England — reports](https://www.theguardian.com/environment/2022/dec/13/single-use-plastic-items-to-be-banned-in-england-reports)
+- [Twitter suspends account that monitors flight paths of Elon Musk’s private jet](https://www.theguardian.com/technology/2022/dec/14/twitter-elon-musk-private-jet-account-suspended)
+- [No Christmas ceasefire in Ukraine, Russia says, as winter deadlock sets in](https://www.theguardian.com/world/2022/dec/15/no-christmas-ceasefire-in-ukraine-russia-says-as-winter-deadlock-sets-in)
+- [Texas attorney general sought data on gender changes to state IDs](https://www.theguardian.com/us-news/2022/dec/14/texas-attorney-general-sought-data-on-gender-changes-to-state-ids)
+- [Russia-Ukraine war at a glance: what we know on day 295 of the invasion](https://www.theguardian.com/world/2022/dec/15/russia-ukraine-war-at-a-glance-what-we-know-on-day-295-of-the-invasion)
+- [Has Griezmann finally found his right position? - Football Daily podcast](https://www.theguardian.com/football/audio/2022/dec/15/antoine-griezmann-right-position-football-daily-podcast-world-cup-france-morocco)
+- [Children of the Taliban review – this beautiful documentary is an absolute must-watch](https://www.theguardian.com/tv-and-radio/2022/dec/15/children-of-the-taliban-review-this-beautiful-documentary-is-an-absolute-must-watch)
+- [Scathing report condemns UK police for ‘victim blaming’ in rape cases](https://www.theguardian.com/society/2022/dec/15/scathing-report-condemns-uk-police-for-victim-blaming-in-cases)
+- [Rules on liquids and laptops to be eased at UK airports from June 2024](https://www.theguardian.com/world/2022/dec/15/rules-on-liquids-and-laptops-to-be-eased-at-uk-airports-from-june-2024)
+- [Higher education regulator to make freedom of speech priority next year](https://www.theguardian.com/education/2022/dec/15/higher-education-regulator-to-make-freedom-of-speech-priority-next-year)
+- [Citizens Advice says record number sought energy help in November](https://www.theguardian.com/money/2022/dec/15/citizens-advice-says-record-number-sought-energy-help-in-november)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

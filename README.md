@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Tailscale/golink: A private shortlink service for tailnets](https://github.com/tailscale/golink)
-- [A native internet protocol for social media](https://www.getrevue.co/profile/jackjack/issues/a-native-internet-protocol-for-social-media-1503112)
-- [Reddit&#39;s photo albums broke due to Integer overflow of Signed Int32](https://old.reddit.com/r/shittychangelog/comments/zl5gaz/here_at_reddit_we_believe_everything_is_better_in/)
-- [After 20 years the Dwarf Fortress devs have to get used to being millionaires](https://www.pcgamer.com/after-spending-20-years-simulating-reality-the-dwarf-fortress-devs-have-to-get-used-to-a-new-one-being-millionaires/)
-- [No, Google did not hike the price of a .dev domain from $12 to $850](https://www.agwa.name/blog/post/domain_pricing_is_very_confusing)
-- [A software change allowed FTX to use client money](https://www.reuters.com/technology/how-secret-software-change-allowed-ftx-use-client-money-2022-12-13/)
-- [The Flickr Foundation](https://www.flickr.org/announcing-the-flickr-foundation/)
-- [MindsDB &lpar;YC W20&rpar; Is Hiring a Senior PM](https://jobs.lever.co/mindsdb/5ef21d35-8386-4b1c-941d-77aed16b2c18)
-- [About the security content of iOS 16.2 and iPadOS 16.2](https://support.apple.com/en-gb/HT213530)
-- [How to rebuild social media on top of RSS](https://tfos.co/p/rebuild-social-media/)
+- [Fusion “Breakthrough” Won’t Lead to Practical Fusion Energy](https://spectrum.ieee.org/national-ignition-facility-impractical)
+- [Maryland couple fights home owners assoc. and wins ushering in new state law](https://www.nytimes.com/2022/12/14/climate/native-plants-lawns-homeowners.html)
+- [Twitter has re-suspended ElonJet account](https://twitter.com/elonjet/)
+- [A circuit simulator that doesn&#39;t look like it was made in 2003](https://www.withdiode.com/projects/62716731-5e1e-4622-86af-90d8e6b5123b)
+- [Turn the radio volume down for adverts and DJs talking](https://matthewfelgate.wordpress.com/2022/12/14/turn-the-radio-volume-down-for-adverts-and-djs-talking/)
+- [How does GPT obtain its ability? Tracing emergent abilities of language models](https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1)
+- [MuseScore 4](https://musescore.org/en/4.0)
+- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
+- [The Death of SRAM?](https://fuse.wikichip.org/news/7343/iedm-2022-did-we-just-witness-the-death-of-sram/)
+- [You can hook your MIDI keyboard up to a website with Firefox 108](https://www.theregister.com/2022/12/14/firefox_108/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

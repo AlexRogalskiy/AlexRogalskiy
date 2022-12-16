@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Fusion “Breakthrough” Won’t Lead to Practical Fusion Energy](https://spectrum.ieee.org/national-ignition-facility-impractical)
-- [Maryland couple fights home owners assoc. and wins ushering in new state law](https://www.nytimes.com/2022/12/14/climate/native-plants-lawns-homeowners.html)
-- [Twitter has re-suspended ElonJet account](https://twitter.com/elonjet/)
-- [A circuit simulator that doesn&#39;t look like it was made in 2003](https://www.withdiode.com/projects/62716731-5e1e-4622-86af-90d8e6b5123b)
-- [Turn the radio volume down for adverts and DJs talking](https://matthewfelgate.wordpress.com/2022/12/14/turn-the-radio-volume-down-for-adverts-and-djs-talking/)
-- [How does GPT obtain its ability? Tracing emergent abilities of language models](https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1)
-- [MuseScore 4](https://musescore.org/en/4.0)
-- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
-- [The Death of SRAM?](https://fuse.wikichip.org/news/7343/iedm-2022-did-we-just-witness-the-death-of-sram/)
-- [You can hook your MIDI keyboard up to a website with Firefox 108](https://www.theregister.com/2022/12/14/firefox_108/)
+- [Twitter just banned a wave of prominent journalists with no explanation](https://techcrunch.com/2022/12/15/twitter-just-banned-a-wave-of-prominent-journalists-with-no-explanation/)
+- [Ancient grammatical puzzle solved after 2,500 years](https://phys.org/news/2022-12-ancient-grammatical-puzzle-years.html)
+- [Vintage Apple Advertisements](https://www.printmag.com/advertising/making-the-mac-20-vintage-apple-ads/)
+- [Secret scanning is now available for free on public repositories](https://github.blog/changelog/2022-12-15-secret-scanning-is-now-available-for-free-on-public-repositories/)
+- [IvorySQL: Open-source Oracle-compatible PostgreSQL](https://github.com/IvorySQL/IvorySQL)
+- [Help choose the syntax for CSS Nesting](https://webkit.org/blog/13607/help-choose-from-options-for-css-nesting-syntax/)
+- [Things I want from Devs as SRE/DevOps](https://oschvr.com/posts/what-id-like-as-sre/)
+- [The Bitter Lesson &lpar;2019&rpar;](http://incompleteideas.net/IncIdeas/BitterLesson.html)
+- [Show HN: Readwise Reader, an all-in-one reading app](https://readwise.io/read)
+- [Common Lisp &lpar;1986&rpar;](https://groups.google.com/g/net.lang.lisp/c/P7W_1ISJ-sU/m/GAo6w-0B7oQJ)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

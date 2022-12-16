@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Twitter suspends account that monitors flight paths of Elon Musk’s private jet](https://www.theguardian.com/technology/2022/dec/14/twitter-elon-musk-private-jet-account-suspended)
-- [No Christmas ceasefire in Ukraine, Russia says, as winter deadlock sets in](https://www.theguardian.com/world/2022/dec/15/no-christmas-ceasefire-in-ukraine-russia-says-as-winter-deadlock-sets-in)
-- [Texas attorney general sought data on gender changes to state IDs](https://www.theguardian.com/us-news/2022/dec/14/texas-attorney-general-sought-data-on-gender-changes-to-state-ids)
-- [Russia-Ukraine war at a glance: what we know on day 295 of the invasion](https://www.theguardian.com/world/2022/dec/15/russia-ukraine-war-at-a-glance-what-we-know-on-day-295-of-the-invasion)
-- [Has Griezmann finally found his right position? - Football Daily podcast](https://www.theguardian.com/football/audio/2022/dec/15/antoine-griezmann-right-position-football-daily-podcast-world-cup-france-morocco)
-- [Children of the Taliban review – this beautiful documentary is an absolute must-watch](https://www.theguardian.com/tv-and-radio/2022/dec/15/children-of-the-taliban-review-this-beautiful-documentary-is-an-absolute-must-watch)
-- [Scathing report condemns UK police for ‘victim blaming’ in rape cases](https://www.theguardian.com/society/2022/dec/15/scathing-report-condemns-uk-police-for-victim-blaming-in-cases)
-- [Rules on liquids and laptops to be eased at UK airports from June 2024](https://www.theguardian.com/world/2022/dec/15/rules-on-liquids-and-laptops-to-be-eased-at-uk-airports-from-june-2024)
-- [Higher education regulator to make freedom of speech priority next year](https://www.theguardian.com/education/2022/dec/15/higher-education-regulator-to-make-freedom-of-speech-priority-next-year)
-- [Citizens Advice says record number sought energy help in November](https://www.theguardian.com/money/2022/dec/15/citizens-advice-says-record-number-sought-energy-help-in-november)
+- [Twitter suspends accounts of several journalists who had reported on Musk](https://www.theguardian.com/technology/2022/dec/15/twitter-suspends-accounts-journalists-musk)
+- [Russia-Ukraine war at a glance: what we know on day 296 of the invasion](https://www.theguardian.com/world/2022/dec/16/russia-ukraine-war-at-a-glance-what-we-know-on-day-296-of-the-invasion)
+- [Henry Cavill won’t return to The Witcher despite losing Superman role](https://www.theguardian.com/film/2022/dec/16/henry-cavill-wont-return-to-the-witcher-despite-losing-superman-role)
+- [Malaysia landslide: 100 people feared trapped at campsite near Kuala Lumpur](https://www.theguardian.com/world/2022/dec/16/malaysia-landslide-trapped-campsite-near-kuala-lumpur)
+- [US National Archives releases more than 12,000 documents on JFK assassination](https://www.theguardian.com/us-news/2022/dec/15/us-national-archives-releases-documents-jfk-assassination)
+- [Former Peru president ordered to remain in custody for 18 months as protest death toll rises to 12](https://www.theguardian.com/world/2022/dec/16/peru-protests-death-toll-rises-to-12-after-another-day-of-violent-clashes-castillo)
+- [Archaeologists say find near Stonehenge is ancient goldsmith’s toolkit](https://www.theguardian.com/science/2022/dec/16/archaeologists-find-near-stonehenge-ancient-goldsmiths-toolkit)
+- [World Cup 2022 briefing: Argentina v France will provide subplots aplenty](https://www.theguardian.com/football/2022/dec/16/world-cup-2022-briefing-argentina-v-france-will-provide-subplots-aplenty)
+- [Finland defence minister to take two months’ paternity leave amid Nato bid](https://www.theguardian.com/world/2022/dec/16/finland-defence-minister-to-take-two-months-paternity-leave-amid-nato-bid)
+- [Ex-Texas officer convicted of manslaughter for shooting Atatiana Jefferson](https://www.theguardian.com/us-news/2022/dec/15/ex-texas-officer-charged-manslaughter-shooting-atatiana-jefferson)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

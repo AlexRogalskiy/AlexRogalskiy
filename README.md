@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Twitter suspends accounts of several journalists who had reported on Musk](https://www.theguardian.com/technology/2022/dec/15/twitter-suspends-accounts-journalists-musk)
-- [Russia-Ukraine war at a glance: what we know on day 296 of the invasion](https://www.theguardian.com/world/2022/dec/16/russia-ukraine-war-at-a-glance-what-we-know-on-day-296-of-the-invasion)
-- [Henry Cavill won’t return to The Witcher despite losing Superman role](https://www.theguardian.com/film/2022/dec/16/henry-cavill-wont-return-to-the-witcher-despite-losing-superman-role)
-- [Malaysia landslide: 100 people feared trapped at campsite near Kuala Lumpur](https://www.theguardian.com/world/2022/dec/16/malaysia-landslide-trapped-campsite-near-kuala-lumpur)
-- [US National Archives releases more than 12,000 documents on JFK assassination](https://www.theguardian.com/us-news/2022/dec/15/us-national-archives-releases-documents-jfk-assassination)
-- [Former Peru president ordered to remain in custody for 18 months as protest death toll rises to 12](https://www.theguardian.com/world/2022/dec/16/peru-protests-death-toll-rises-to-12-after-another-day-of-violent-clashes-castillo)
-- [Archaeologists say find near Stonehenge is ancient goldsmith’s toolkit](https://www.theguardian.com/science/2022/dec/16/archaeologists-find-near-stonehenge-ancient-goldsmiths-toolkit)
-- [World Cup 2022 briefing: Argentina v France will provide subplots aplenty](https://www.theguardian.com/football/2022/dec/16/world-cup-2022-briefing-argentina-v-france-will-provide-subplots-aplenty)
-- [Finland defence minister to take two months’ paternity leave amid Nato bid](https://www.theguardian.com/world/2022/dec/16/finland-defence-minister-to-take-two-months-paternity-leave-amid-nato-bid)
-- [Ex-Texas officer convicted of manslaughter for shooting Atatiana Jefferson](https://www.theguardian.com/us-news/2022/dec/15/ex-texas-officer-charged-manslaughter-shooting-atatiana-jefferson)
+- [Australia v South Africa: first Test, day one – live](https://www.theguardian.com/sport/live/2022/dec/17/australia-vs-south-africa-cricket-live-updates-score-first-test-day-one-latest-scores-aus-v-sa)
+- [Malaysia landslide kills at least 21 campers as recovery efforts continue](https://www.theguardian.com/world/2022/dec/17/malaysia-landslide-kills-at-least-21-campers-as-recovery-efforts-continue)
+- [Russia-Ukraine war at a glance: what we know on day 297 of the invasion](https://www.theguardian.com/world/2022/dec/17/russia-ukraine-war-at-a-glance-what-we-know-on-day-297-of-the-invasion)
+- [‘What was it for?’: the mental toll of China’s three years in Covid lockdowns](https://www.theguardian.com/world/2022/dec/17/what-was-it-for-the-mental-toll-of-chinas-three-years-in-covid-lockdowns)
+- [Pressure on ministers to avert NHS strikes ahead of ‘very challenging’ week](https://www.theguardian.com/uk-news/2022/dec/16/pressure-on-ministers-to-avert-nhs-strikes-ahead-of-very-challenging-week)
+- [World Cup 2022 briefing: why the third-place playoff is worth watching](https://www.theguardian.com/football/2022/dec/17/world-cup-2022-briefing-why-the-third-place-playoff-is-worth-watching)
+- [Three people still in critical condition after suspected crush at Asake gig in Brixton](https://www.theguardian.com/uk-news/2022/dec/16/four-people-in-critical-condition-after-crush-at-o2-academy-brixton)
+- [Hergé illustration for Tintin in America expected to sell for €2m](https://www.theguardian.com/books/2022/dec/17/herge-illustration-for-tintin-in-america-expected-to-sell-for-2m)
+- [Avanti West Coast rewarded with over £4m in taxpayer-funded bonuses](https://www.theguardian.com/uk-news/2022/dec/16/avanti-west-coast-rewarded-with-over-4m-in-taxpayer-funded-bonuses)
+- [Beau Greaves denied by William O’Connor on her PDC world darts debut](https://www.theguardian.com/sport/2022/dec/16/pdc-world-darts-championship-beau-greaves-william-oconnor-michael-smith)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Amazon is helping Ukraine by putting its &#39;government in a box&#39;](https://www.latimes.com/business/story/2022-12-15/amazon-ukraine-war-cloud-data)
-- [Ask HN: Is there still a future for front end developers?](https://news.ycombinator.com/item?id=34008751)
-- [Bison Relay: The Sovereign Internet](https://blog.decred.org/2022/12/14/Bison-Relay-The-Sovereign-Internet/)
-- [Update from the World of Fedora Workstation](https://blogs.gnome.org/uraeus/2022/12/14/update-from-the-world-of-fedora-workstation/)
-- [Sandy Hook happened 10 years ago today,25000 children killed by guns in US since](https://twitter.com/tristansnell/status/1603140693274271745)
-- [Twitter bans accounts of CNN, NYT, WaPo journalists](https://www.cnn.com/2022/12/15/media/twitter-musk-journalists-hnk-intl/index.html)
-- [Twitter Suspends Accounts of Rival Mastodon and Several High-Profile Journalists](https://www.forbes.com/sites/nicholasreimann/2022/12/15/twitter-suspends-accounts-for-rival-mastodon-and-several-high-profile-journalists/)
-- [Twitter suspends journalists who have been covering Elon Musk and the company](https://www.nbcnews.com/tech/social-media/twitter-suspends-journalists-covering-elon-musk-company-rcna62032)
-- [Alberta Takes Back Constitutional Jurisdiction Effective Jan First, 2023 [video]](https://www.youtube.com/watch?v=3jOJ-h4HbkI)
-- [Cruise received approval from the SF DMV to expand to the full 7x7, 24/7](https://twitter.com/kvogt/status/1603548091772465154)
+- [Intel IFS Ready to Weed Out Faulty Silicon with Linux 6.2](https://www.phoronix.com/news/Linux-6.2-x86-Microcode)
+- [Binance, Alone at the Top After FTX, Stirs ‘Too Big to Fail’ Crypto Worry](https://www.bloomberg.com/news/articles/2022-12-16/binance-faces-too-big-to-fail-worry-as-ftx-collapse-boosts-dominance)
+- [Chidb – a project for teaching how RDBMS are built from scratch](http://chi.cs.uchicago.edu/chidb/index.html)
+- [Rackspace says customers will start getting ransomware-hit data within days](https://www.expressnews.com/business/article/Rackspace-says-customers-will-start-getting-17659893.php)
+- [LLVM Bolt: Binary Optimisation and Layout Tool](https://github.com/llvm/llvm-project/blob/main/bolt/README.md)
+- [Marc Benioff tells Salesforce new employees are ‘facing lower productivity’](https://www.cnbc.com/2022/12/16/marc-benioff-says-newer-salesforce-employees-are-less-productive.html)
+- [MacStories Is on Mastodon with Its Own Server](https://www.macstories.net/news/macstories-is-on-mastodon-with-its-own-server/)
+- [How Families of American Hostages Created Bipartisan Support for Prisoner Swaps](https://www.newyorker.com/news/news-desk/how-the-families-of-american-hostages-created-bipartisan-support-for-prisoner-swaps)
+- [United States Legislative Markup XML Schema](https://github.com/usgpo/uslm)
+- [GPT-2 Output Detector Demo](https://huggingface.co/openai-detector/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

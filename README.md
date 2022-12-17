@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Patch Tuesday: Two zero-day flaws in Windows need immediate attention](https://www.computerworld.com/article/3683593/patch-tuesday-two-zero-day-flaws-in-windows-need-immediate-attention.html#tk.rss_all)
+- [Jamf Protect adds powerful telemetry to protect Mac enterprise](https://www.computerworld.com/article/3683510/jamf-protect-adds-powerful-telemetry-to-protect-mac-enterprise.html#tk.rss_all)
+- [Reframing our understanding of remote work](https://www.computerworld.com/article/3682811/reframing-our-understanding-of-remote-work.html#tk.rss_all)
+- [10 Android tips you shouldn&#39;t miss from 2022](https://www.computerworld.com/article/3328644/android-tips-2022.html#tk.rss_all)
+- [Innovation vs. execution: You have to have both](https://www.computerworld.com/article/3683315/innovation-vs-execution-you-have-to-have-both.html#tk.rss_all)
 - [Microsoft calls time out on Apple Watch Authenticator](https://www.computerworld.com/article/3683471/microsoft-calls-time-out-on-apple-watch-authenticator.html#tk.rss_all)
 - [Zoho&#39;s new customer service tool combines bots, human intervention](https://www.computerworld.com/article/3683470/zohos-new-customer-service-tool-combines-bots-human-intervention.html#tk.rss_all)
 - [Microsoft’s EU data boundary plan to take effect Jan. 1](https://www.computerworld.com/article/3683291/microsofts-eu-data-boundary-plan-to-take-effect-jan-1.html#tk.rss_all)
 - [GPT: High-tech parlor trick or the first real AI for everyday use?](https://www.computerworld.com/article/3683209/gpt-high-tech-parlor-trick-or-first-real-ai-for-everyday-use.html#tk.rss_all)
 - [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
-- [Apple looks poised to open its walled garden in 2023](https://www.computerworld.com/article/3682761/apple-looks-poised-to-open-its-walled-garden-in-2023.html#tk.rss_all)
-- [7 hidden tricks for your Chromebook trackpad](https://www.computerworld.com/article/3682853/chromebook-trackpad-gestures.html#tk.rss_all)
-- [The Great Resignation isn’t over yet](https://www.computerworld.com/article/3682758/the-great-resignation-isnt-over-yet.html#tk.rss_all)
-- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
-- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

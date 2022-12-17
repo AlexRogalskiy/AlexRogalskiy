@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Twitter just banned a wave of prominent journalists with no explanation](https://techcrunch.com/2022/12/15/twitter-just-banned-a-wave-of-prominent-journalists-with-no-explanation/)
-- [Ancient grammatical puzzle solved after 2,500 years](https://phys.org/news/2022-12-ancient-grammatical-puzzle-years.html)
-- [Vintage Apple Advertisements](https://www.printmag.com/advertising/making-the-mac-20-vintage-apple-ads/)
-- [Secret scanning is now available for free on public repositories](https://github.blog/changelog/2022-12-15-secret-scanning-is-now-available-for-free-on-public-repositories/)
-- [IvorySQL: Open-source Oracle-compatible PostgreSQL](https://github.com/IvorySQL/IvorySQL)
-- [Help choose the syntax for CSS Nesting](https://webkit.org/blog/13607/help-choose-from-options-for-css-nesting-syntax/)
-- [Things I want from Devs as SRE/DevOps](https://oschvr.com/posts/what-id-like-as-sre/)
-- [The Bitter Lesson &lpar;2019&rpar;](http://incompleteideas.net/IncIdeas/BitterLesson.html)
-- [Show HN: Readwise Reader, an all-in-one reading app](https://readwise.io/read)
-- [Common Lisp &lpar;1986&rpar;](https://groups.google.com/g/net.lang.lisp/c/P7W_1ISJ-sU/m/GAo6w-0B7oQJ)
+- [Open source USB C camera with C mount lens, MIPI Sensor, Lattice FPGA, USB 3.0](https://www.circuitvalley.com/2022/06/pensource-usb-c-industrial-camera-c-mount-fpga-imx-mipi-usb-3-crosslinknx.html)
+- [John Carmack Leaves Meta](https://www.businessinsider.com/john-carmack-meta-consulting-cto-virtual-reality-leaving-2022-12)
+- [Schizophrenia: The new etiological synthesis](https://www.sciencedirect.com/science/article/pii/S0149763422003839)
+- [Congress passes legislation to end US participation in global shark fin trade](https://www.humanesociety.org/news/congress-passes-legislation-end-us-participation-global-shark-fin-trade)
+- [90s Web &quot;Humor&quot; Button](https://www.monkeon.co.uk/90s-web-humor-button/)
+- [Thomas Pynchon, famously private, sells his archive](https://www.nytimes.com/2022/12/14/arts/thomas-pynchon-huntington-archive.html)
+- [Fears of ‘dead pool’ on Colorado River as drought threatens Hoover Dam water](https://www.latimes.com/environment/story/2022-12-16/risk-of-dead-pool-looms-at-colorado-river-meeting)
+- [The Twitter Files, Part Six](https://twitter.com/mtaibbi/status/1603857534737072128)
+- [I almost failed to search a 37 GB text file in under 1 millisecond](https://death.andgravity.com/pwned)
+- [Peter Norvig critically reviews AlphaCode&#39;s code quality](https://github.com/norvig/pytudes/blob/main/ipynb/AlphaCode.ipynb)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

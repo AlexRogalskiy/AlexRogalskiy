@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Intel IFS Ready to Weed Out Faulty Silicon with Linux 6.2](https://www.phoronix.com/news/Linux-6.2-x86-Microcode)
-- [Binance, Alone at the Top After FTX, Stirs ‘Too Big to Fail’ Crypto Worry](https://www.bloomberg.com/news/articles/2022-12-16/binance-faces-too-big-to-fail-worry-as-ftx-collapse-boosts-dominance)
-- [Chidb – a project for teaching how RDBMS are built from scratch](http://chi.cs.uchicago.edu/chidb/index.html)
-- [Rackspace says customers will start getting ransomware-hit data within days](https://www.expressnews.com/business/article/Rackspace-says-customers-will-start-getting-17659893.php)
-- [LLVM Bolt: Binary Optimisation and Layout Tool](https://github.com/llvm/llvm-project/blob/main/bolt/README.md)
-- [Marc Benioff tells Salesforce new employees are ‘facing lower productivity’](https://www.cnbc.com/2022/12/16/marc-benioff-says-newer-salesforce-employees-are-less-productive.html)
-- [MacStories Is on Mastodon with Its Own Server](https://www.macstories.net/news/macstories-is-on-mastodon-with-its-own-server/)
-- [How Families of American Hostages Created Bipartisan Support for Prisoner Swaps](https://www.newyorker.com/news/news-desk/how-the-families-of-american-hostages-created-bipartisan-support-for-prisoner-swaps)
-- [United States Legislative Markup XML Schema](https://github.com/usgpo/uslm)
-- [GPT-2 Output Detector Demo](https://huggingface.co/openai-detector/)
+- [Hard Cider&#39;s Mysterious Demise](https://mason.gmu.edu/~drwillia/cider.html)
+- [Can Computers Create Art?](https://www.mdpi.com/2076-0752/7/2/18)
+- [Philosophy Bro](https://www.philosophybro.com)
+- [TheLounge: Modern, responsive, cross-platform, self-hosted web IRC client](https://github.com/thelounge/thelounge)
+- [Odd vs. Even Number Psychology](https://uxdesign.cc/odd-vs-even-number-psychology-6307047bf5de)
+- [Software Visualization – Challenge, Accepted](https://engineering.atspotify.com/2022/07/software-visualization-challenge-accepted/)
+- [Podcast: Stable Diffusion Breaks the Internet](https://changelog.com/podcast/506)
+- [Uncharted waters: what startups can learn from pirates about compensation](https://devonzuegel.com/post/uncharted-waters-what-startups-can-learn-from-pirates-about-compensation)
+- [What’s New with Forms in 2022?](https://css-tricks.com/whats-new-with-forms-in-2022/)
+- [Show HN: A Highly Opinionated, Fully Functional Obsidian Vault](https://github.com/bramses/bramses-highly-opinionated-vault-2023)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

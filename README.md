@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Australia v South Africa: first Test, day one – live](https://www.theguardian.com/sport/live/2022/dec/17/australia-vs-south-africa-cricket-live-updates-score-first-test-day-one-latest-scores-aus-v-sa)
-- [Malaysia landslide kills at least 21 campers as recovery efforts continue](https://www.theguardian.com/world/2022/dec/17/malaysia-landslide-kills-at-least-21-campers-as-recovery-efforts-continue)
-- [Russia-Ukraine war at a glance: what we know on day 297 of the invasion](https://www.theguardian.com/world/2022/dec/17/russia-ukraine-war-at-a-glance-what-we-know-on-day-297-of-the-invasion)
-- [‘What was it for?’: the mental toll of China’s three years in Covid lockdowns](https://www.theguardian.com/world/2022/dec/17/what-was-it-for-the-mental-toll-of-chinas-three-years-in-covid-lockdowns)
-- [Pressure on ministers to avert NHS strikes ahead of ‘very challenging’ week](https://www.theguardian.com/uk-news/2022/dec/16/pressure-on-ministers-to-avert-nhs-strikes-ahead-of-very-challenging-week)
-- [World Cup 2022 briefing: why the third-place playoff is worth watching](https://www.theguardian.com/football/2022/dec/17/world-cup-2022-briefing-why-the-third-place-playoff-is-worth-watching)
-- [Three people still in critical condition after suspected crush at Asake gig in Brixton](https://www.theguardian.com/uk-news/2022/dec/16/four-people-in-critical-condition-after-crush-at-o2-academy-brixton)
-- [Hergé illustration for Tintin in America expected to sell for €2m](https://www.theguardian.com/books/2022/dec/17/herge-illustration-for-tintin-in-america-expected-to-sell-for-2m)
-- [Avanti West Coast rewarded with over £4m in taxpayer-funded bonuses](https://www.theguardian.com/uk-news/2022/dec/16/avanti-west-coast-rewarded-with-over-4m-in-taxpayer-funded-bonuses)
-- [Beau Greaves denied by William O’Connor on her PDC world darts debut](https://www.theguardian.com/sport/2022/dec/16/pdc-world-darts-championship-beau-greaves-william-oconnor-michael-smith)
+- [Australia v South Africa: first Test, day two – live](https://www.theguardian.com/sport/live/2022/dec/18/australia-vs-south-africa-cricket-live-updates-score-first-test-day-two-latest-scores-aus-v-sa)
+- [Russia-Ukraine war at a glance: what we know on day 298 of the invasion](https://www.theguardian.com/world/2022/dec/18/russia-ukraine-war-at-a-glance-what-we-know-on-day-298-of-the-invasion)
+- [World Cup 2022 briefing: Qatar’s big show comes to an end](https://www.theguardian.com/football/2022/dec/18/world-cup-2022-briefing-qatar-argentina-france-final)
+- [Why swearing is a Christmas stress-buster](https://www.theguardian.com/lifeandstyle/2022/dec/18/why-swearing-is-a-christmas-stress-buster)
+- [UK hospitality sector fears rail strikes will make its gravy train hit the buffers this Christmas](https://www.theguardian.com/business/2022/dec/18/uk-hospitality-sector-fears-rail-strikes-will-make-its-gravy-train-hit-the-buffers-this-christmas)
+- [Man charged with murder of NHS nurse and her two children in Kettering](https://www.theguardian.com/uk-news/2022/dec/17/man-charged-with-of-woman-and-her-two-children-in-kettering)
+- [We Love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2022/dec/17/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Ear candy: 20 of the best statement earrings - in pictures](https://www.theguardian.com/fashion/gallery/2022/dec/17/ear-candy-20-of-the-best-statement-earring--in-pictures)
+- [Former PDC finalist Simon Whitlock survives scare against Christian Perez](https://www.theguardian.com/sport/2022/dec/17/former-pdc-finalist-simon-whitlock-survives-scare-against-christian-perez)
+- [South Africa president Cyril Ramaphosa one of just two candidates for ANC leadership](https://www.theguardian.com/world/2022/dec/17/president-cyril-ramaphosa-one-of-just-two-contenders-for-anc-leadership)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

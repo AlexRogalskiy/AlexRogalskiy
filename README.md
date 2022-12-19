@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Live Captions: an application that provides live captions for the Linux desktop](https://github.com/abb128/LiveCaptions)
-- [Does It Inline?](https://bolinlang.com/does-it-inline)
-- [The human cost of neurotechnology failure](https://www.nature.com/immersive/d41586-022-03810-5/index.html)
-- [The record-breaking -108.00 diopter myopia lenses &lpar;2016&rpar;](https://www.pointsdevue.com/article/record-high-myopia-solved-alliance-experts-10800-d)
-- [The Golden Age of Basic &lpar;2014&rpar;](https://spectrum.ieee.org/the-golden-age-of-basic)
-- [Steve Jobs Insult Response &lpar;1997&rpar; [video]](https://www.youtube.com/watch?v=oeqPrUmVz-o)
-- [A self-updating list of the most current useragents](https://www.useragents.me)
-- [Tell HN: Google is correlating location data to your IP](https://news.ycombinator.com/item?id=34032484)
-- [Get root on macOS 13.0.1 the macOS Dirty Cow bug](https://worthdoingbadly.com/macdirtycow/)
-- [Capture the flag using OSINT techniques &lpar;2019&rpar;](https://www.netwatchglobal.com/solutions/capture-the-flag-using-osint-techniques/)
+- [A Math Problem Generator](https://github.com/lukew3/mathgenerator)
+- [35% of Japanese people say they’ll ‘never travel’ again](https://www.cnbc.com/2022/12/19/dont-want-to-travel-many-in-japan-say-theyll-never-travel-again.html)
+- [NumPy 1.24 Release Notes](https://github.com/numpy/numpy/releases/tag/v1.24.0)
+- [Marion Smith, the world’s most prolific cave explorer, dies at 80](https://www.nytimes.com/2022/12/16/us/marion-smith-dead.html)
+- [Should I step down as head of Twitter? I will abide by the results of this poll](https://twitter.com/elonmusk/status/1604617643973124097)
+- [Devpod: Remote development environment at Uber](https://www.uber.com/blog/devpod-improving-developer-productivity-at-uber/)
+- [Twitter suspends pg&#39;s account [fixed]](https://twitter.com/paulg/)
+- [A minor memorial for Leo Laporte on terrestrial AM radio](http://oldvcr.blogspot.com/2022/12/a-minor-memorial-for-leo-laporte-on.html)
+- [Ask HN: Anyone tired of everything being a subscription now?](https://news.ycombinator.com/item?id=34041962)
+- [Government should incentivize high performance home builders](https://dan.bulwinkle.net/blog/government-should-incentivize-green-builders/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

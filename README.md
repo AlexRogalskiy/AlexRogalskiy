@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Australia v South Africa: first Test, day two – live](https://www.theguardian.com/sport/live/2022/dec/18/australia-vs-south-africa-cricket-live-updates-score-first-test-day-two-latest-scores-aus-v-sa)
-- [Russia-Ukraine war at a glance: what we know on day 298 of the invasion](https://www.theguardian.com/world/2022/dec/18/russia-ukraine-war-at-a-glance-what-we-know-on-day-298-of-the-invasion)
-- [World Cup 2022 briefing: Qatar’s big show comes to an end](https://www.theguardian.com/football/2022/dec/18/world-cup-2022-briefing-qatar-argentina-france-final)
-- [Why swearing is a Christmas stress-buster](https://www.theguardian.com/lifeandstyle/2022/dec/18/why-swearing-is-a-christmas-stress-buster)
-- [UK hospitality sector fears rail strikes will make its gravy train hit the buffers this Christmas](https://www.theguardian.com/business/2022/dec/18/uk-hospitality-sector-fears-rail-strikes-will-make-its-gravy-train-hit-the-buffers-this-christmas)
-- [Man charged with murder of NHS nurse and her two children in Kettering](https://www.theguardian.com/uk-news/2022/dec/17/man-charged-with-of-woman-and-her-two-children-in-kettering)
-- [We Love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2022/dec/17/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Ear candy: 20 of the best statement earrings - in pictures](https://www.theguardian.com/fashion/gallery/2022/dec/17/ear-candy-20-of-the-best-statement-earring--in-pictures)
-- [Former PDC finalist Simon Whitlock survives scare against Christian Perez](https://www.theguardian.com/sport/2022/dec/17/former-pdc-finalist-simon-whitlock-survives-scare-against-christian-perez)
-- [South Africa president Cyril Ramaphosa one of just two candidates for ANC leadership](https://www.theguardian.com/world/2022/dec/17/president-cyril-ramaphosa-one-of-just-two-contenders-for-anc-leadership)
+- [Hawaii flight turbulence injures 20 passengers, 11 seriously](https://www.theguardian.com/us-news/2022/dec/19/hawaii-flight-turbulence-injures-20-passengers-11-seriously)
+- [‘Freak wave’ kills three at South African beach](https://www.theguardian.com/world/2022/dec/19/freak-wave-kills-three-at-south-african-beach)
+- [Pope Francis orders Parthenon marbles held by Vatican be returned to Greece](https://www.theguardian.com/artanddesign/2022/dec/19/pope-francis-orders-parthenon-marbles-held-by-vatican-be-returned-to-greece)
+- [Russia-Ukraine war at a glance: what we know on day 299 of the invasion](https://www.theguardian.com/world/2022/dec/19/russia-ukraine-war-at-a-glance-what-we-know-on-day-299-of-the-invasion)
+- [PDC darts: Aspinall flies past Krcmar after Heta beats former champion Lewis](https://www.theguardian.com/sport/2022/dec/19/pdc-darts-aspinall-flies-past-krcmar-after-heta-beats-former-champion-lewis)
+- [£2 cap for many bus fares in England expected to save 2m car journeys](https://www.theguardian.com/money/2022/dec/19/2-cap-for-many-bus-fares-in-england-expected-to-save-2m-car-journeys)
+- [Ikea UK profits fall by almost a fifth despite 12% increase in sales](https://www.theguardian.com/business/2022/dec/19/ikea-uk-profits-fall-by-almost-a-fifth-despite-12-increase-in-sales)
+- [Call for wealth tax as UK billionaire numbers up by 20% since pandemic](https://www.theguardian.com/news/2022/dec/19/call-for-wealth-tax-as-uk-billionaire-numbers-up-by-20-since-pandemic)
+- [Up to 20m car trips predicted in run-up to Christmas as thaw brings flood risk](https://www.theguardian.com/uk-news/2022/dec/19/up-to-20m-car-trips-predicted-in-run-up-to-christmas-as-thaw-brings-flood-risk)
+- [Poor state of English and Welsh courts worsening backlog, says Law Society](https://www.theguardian.com/law/2022/dec/19/poor-state-english-welsh-courts-worsening-backlog-law-society)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

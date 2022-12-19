@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Hard Cider&#39;s Mysterious Demise](https://mason.gmu.edu/~drwillia/cider.html)
-- [Can Computers Create Art?](https://www.mdpi.com/2076-0752/7/2/18)
-- [Philosophy Bro](https://www.philosophybro.com)
-- [TheLounge: Modern, responsive, cross-platform, self-hosted web IRC client](https://github.com/thelounge/thelounge)
-- [Odd vs. Even Number Psychology](https://uxdesign.cc/odd-vs-even-number-psychology-6307047bf5de)
-- [Software Visualization – Challenge, Accepted](https://engineering.atspotify.com/2022/07/software-visualization-challenge-accepted/)
-- [Podcast: Stable Diffusion Breaks the Internet](https://changelog.com/podcast/506)
-- [Uncharted waters: what startups can learn from pirates about compensation](https://devonzuegel.com/post/uncharted-waters-what-startups-can-learn-from-pirates-about-compensation)
-- [What’s New with Forms in 2022?](https://css-tricks.com/whats-new-with-forms-in-2022/)
-- [Show HN: A Highly Opinionated, Fully Functional Obsidian Vault](https://github.com/bramses/bramses-highly-opinionated-vault-2023)
+- [Futel.net](http://futel.net/)
+- [Microsoft Begins Providing DirectX Shader Compiler Linux Binaries](https://www.phoronix.com/news/Microsoft-DX-Shader-Linux-Build)
+- [Chinese business confidence at lowest in almost a decade](https://www.reuters.com/world/china/chinese-business-confidence-lowest-almost-decade-survey-2022-12-19/)
+- [Volodymyr Zelensky and his generals explain why the war hangs in the balance](https://www.economist.com/ukraines-fateful-winter)
+- [I asked ChatGPT to stop using the word “apologize”. Response below](https://news.ycombinator.com/item?id=34047423)
+- [The transistor&#39;s story is one of innovation and immigration](https://www.marketplace.org/shows/marketplace-morning-report/happy-birthday-to-the-transistor/)
+- [Explicit Ontologies in a World Without](https://davidbieber.com/snippets/2022-12-16-note-taking-ontologies/)
+- [Australia Launches Offshore Wind to Move Away from Coal](https://www.bloomberg.com/news/articles/2022-12-19/australia-launches-offshore-wind-to-move-away-from-coal)
+- [Covid Vaccine Hesitancy and Risk of a Traffic Crash](https://www.amjmed.com/article/S0002-9343(22)00822-1/fulltext#%20)
+- [Musk launches poll on whether he should quit as Twitter CEO](https://www.reuters.com/technology/twitter-will-remove-accounts-created-solely-promote-other-social-platforms-2022-12-18/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

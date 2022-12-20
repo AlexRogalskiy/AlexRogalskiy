@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Hawaii flight turbulence injures 20 passengers, 11 seriously](https://www.theguardian.com/us-news/2022/dec/19/hawaii-flight-turbulence-injures-20-passengers-11-seriously)
-- [‘Freak wave’ kills three at South African beach](https://www.theguardian.com/world/2022/dec/19/freak-wave-kills-three-at-south-african-beach)
-- [Pope Francis orders Parthenon marbles held by Vatican be returned to Greece](https://www.theguardian.com/artanddesign/2022/dec/19/pope-francis-orders-parthenon-marbles-held-by-vatican-be-returned-to-greece)
-- [Russia-Ukraine war at a glance: what we know on day 299 of the invasion](https://www.theguardian.com/world/2022/dec/19/russia-ukraine-war-at-a-glance-what-we-know-on-day-299-of-the-invasion)
-- [PDC darts: Aspinall flies past Krcmar after Heta beats former champion Lewis](https://www.theguardian.com/sport/2022/dec/19/pdc-darts-aspinall-flies-past-krcmar-after-heta-beats-former-champion-lewis)
-- [£2 cap for many bus fares in England expected to save 2m car journeys](https://www.theguardian.com/money/2022/dec/19/2-cap-for-many-bus-fares-in-england-expected-to-save-2m-car-journeys)
-- [Ikea UK profits fall by almost a fifth despite 12% increase in sales](https://www.theguardian.com/business/2022/dec/19/ikea-uk-profits-fall-by-almost-a-fifth-despite-12-increase-in-sales)
-- [Call for wealth tax as UK billionaire numbers up by 20% since pandemic](https://www.theguardian.com/news/2022/dec/19/call-for-wealth-tax-as-uk-billionaire-numbers-up-by-20-since-pandemic)
-- [Up to 20m car trips predicted in run-up to Christmas as thaw brings flood risk](https://www.theguardian.com/uk-news/2022/dec/19/up-to-20m-car-trips-predicted-in-run-up-to-christmas-as-thaw-brings-flood-risk)
-- [Poor state of English and Welsh courts worsening backlog, says Law Society](https://www.theguardian.com/law/2022/dec/19/poor-state-english-welsh-courts-worsening-backlog-law-society)
+- [Harvey Weinstein found guilty of rape and sexual assault in Los Angeles trial](https://www.theguardian.com/world/2022/dec/19/harvey-weinstein-trial-guilty-los-angeles)
+- [‘My power’s really low’: Nasa’s Insight Mars rover prepares to sign off from the Red Planet](https://www.theguardian.com/science/2022/dec/20/my-powers-really-low-nasas-insight-mars-rover-signs-off-from-the-red-planet)
+- [Supreme court blocks Biden from lifting Covid-era border restrictions](https://www.theguardian.com/us-news/2022/dec/19/us-supreme-court-blocks-title-42-migration-border-policy)
+- [Russia-Ukraine war at a glance: what we know on day 300 of the invasion](https://www.theguardian.com/world/2022/dec/20/russia-ukraine-war-at-a-glance-what-we-know-on-day-300-of-the-invasion)
+- [‘Is Santa Claus not real?’ my daughter asked. I froze like Rudolph in headlights | Conal Hanna](https://www.theguardian.com/commentisfree/2022/dec/20/is-santa-claus-not-real-my-daughter-asked-i-froze-like-rudolph-in-headlights)
+- [Ambulance strike in England and Wales will bring ‘huge risk of harm’](https://www.theguardian.com/uk-news/2022/dec/19/ambulance-strike-in-england-and-wales-will-bring-huge-risk-of-harm)
+- [Eagles quarterback Jalen Hurts suffered right shoulder sprain, sources say](https://www.theguardian.com/sport/2022/dec/19/jalen-hurts-shoulder-injury-philadelphia-eagles)
+- [Exodus of more than half a million from workforce ‘puts UK economy at risk’](https://www.theguardian.com/business/2022/dec/20/exodus-of-more-than-half-a-million-from-workforce-puts-uk-economy-at-risk)
+- [King Charles III bank note designs revealed by Bank of England](https://www.theguardian.com/business/2022/dec/20/king-charles-iii-bank-note-designs-revealed-by-bank-of-england)
+- [Gerwyn Price fights back to beat Luke Woodhouse as Steve Beaton crashes out](https://www.theguardian.com/sport/2022/dec/19/gerwyn-price-fights-back-to-beat-luke-woodhouse-as-steve-beaton-crashes-out)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

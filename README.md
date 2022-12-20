@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Futel.net](http://futel.net/)
-- [Microsoft Begins Providing DirectX Shader Compiler Linux Binaries](https://www.phoronix.com/news/Microsoft-DX-Shader-Linux-Build)
-- [Chinese business confidence at lowest in almost a decade](https://www.reuters.com/world/china/chinese-business-confidence-lowest-almost-decade-survey-2022-12-19/)
-- [Volodymyr Zelensky and his generals explain why the war hangs in the balance](https://www.economist.com/ukraines-fateful-winter)
-- [I asked ChatGPT to stop using the word “apologize”. Response below](https://news.ycombinator.com/item?id=34047423)
-- [The transistor&#39;s story is one of innovation and immigration](https://www.marketplace.org/shows/marketplace-morning-report/happy-birthday-to-the-transistor/)
-- [Explicit Ontologies in a World Without](https://davidbieber.com/snippets/2022-12-16-note-taking-ontologies/)
-- [Australia Launches Offshore Wind to Move Away from Coal](https://www.bloomberg.com/news/articles/2022-12-19/australia-launches-offshore-wind-to-move-away-from-coal)
-- [Covid Vaccine Hesitancy and Risk of a Traffic Crash](https://www.amjmed.com/article/S0002-9343(22)00822-1/fulltext#%20)
-- [Musk launches poll on whether he should quit as Twitter CEO](https://www.reuters.com/technology/twitter-will-remove-accounts-created-solely-promote-other-social-platforms-2022-12-18/)
+- [Amazon&#39;s Kindle Publishing for Periodicals Program Ending](https://locusmag.com/2022/12/kindle-subscription-program-ending/)
+- [A man reveals his impending death on Twitter. Experts say it may make sense.](https://www.marketwatch.com/story/a-man-reveals-his-impending-death-on-twitter-heres-why-experts-say-it-may-make-sense-to-do-so-11671487106)
+- [SpaceX Pulls Off 3 Orbital Launches in 34 Hours, Smashing Its Record](https://gizmodo.com/spacex-three-falcon-9-launches-breaks-record-1849909984)
+- [Empowering Female Attorneys Through Mentorship – Marcy Resnik](https://www.wtsp.com/article/features/great-day-live/marcy-resnik-and-the-importance-of-mentorship-for-female-attorneys/67-2cb7d8bf-d92b-413f-96a6-f3178ab0303e)
+- [Stanford&#39;s Elimination of Harmful Language &lpar;In IT&rpar; Initiative [pdf]](https://s.wsj.net/public/resources/documents/stanfordlanguage.pdf)
+- [Baby Pickle and the Negative Minus-One-Hundred Function](https://bancosparenting.wordpress.com/2022/12/08/baby-pickle-and-the-negative-minus-one-hundred-function/)
+- [The cargo hauling aircraft with no pilots on board](https://www.bbc.com/news/business-63595481)
+- [Swatters used Ring cameras to livestream attacks, taunt police, prosecutors say](https://arstechnica.com/information-technology/2022/12/swatters-used-ring-cameras-to-livestream-attacks-taunt-police-prosecutors-say/)
+- [Show HN: Wrong Door – a GPT3 game experiment](https://www.wrongdoor.dev/)
+- [The True Meaning of the Phrase ‘More Honoured in the Breach Than the Observance’](https://interestingliterature.com/2020/05/more-honoured-breach-observance-phrase-meaning/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

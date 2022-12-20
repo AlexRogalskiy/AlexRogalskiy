@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [A Math Problem Generator](https://github.com/lukew3/mathgenerator)
-- [35% of Japanese people say they’ll ‘never travel’ again](https://www.cnbc.com/2022/12/19/dont-want-to-travel-many-in-japan-say-theyll-never-travel-again.html)
-- [NumPy 1.24 Release Notes](https://github.com/numpy/numpy/releases/tag/v1.24.0)
-- [Marion Smith, the world’s most prolific cave explorer, dies at 80](https://www.nytimes.com/2022/12/16/us/marion-smith-dead.html)
-- [Should I step down as head of Twitter? I will abide by the results of this poll](https://twitter.com/elonmusk/status/1604617643973124097)
-- [Devpod: Remote development environment at Uber](https://www.uber.com/blog/devpod-improving-developer-productivity-at-uber/)
-- [Twitter suspends pg&#39;s account [fixed]](https://twitter.com/paulg/)
-- [A minor memorial for Leo Laporte on terrestrial AM radio](http://oldvcr.blogspot.com/2022/12/a-minor-memorial-for-leo-laporte-on.html)
-- [Ask HN: Anyone tired of everything being a subscription now?](https://news.ycombinator.com/item?id=34041962)
-- [Government should incentivize high performance home builders](https://dan.bulwinkle.net/blog/government-should-incentivize-green-builders/)
+- [Content Moderation Survivor Bias](https://cyber.fsi.stanford.edu/io/news/content-moderation-survivor-bias)
+- [The Windows Subsystem for Android now runs Android 13 in beta](https://github.com/microsoft/WSA/discussions/167)
+- [FILM: Frame Interpolation for Large Motion](https://github.com/google-research/frame-interpolation)
+- [Amazon Ring cameras used in nationwide ‘swatting’ spree, US Justice Dept. says](https://www.bloomberg.com/news/articles/2022-12-19/two-charged-with-using-amazon-ring-cameras-in-nationwide-swatting-spree)
+- [The Force Engine v1.0 Released](https://theforceengine.github.io/)
+- [Implementing ‘strlen’ using SVE](https://lemire.me/blog/2022/12/19/implementing-strlen-using-sve/)
+- [Zstandard – Fast real-time compression algorithm](https://github.com/facebook/zstd)
+- [Ryugu isotopes suggest it formed close to comets along with some unique minerals](https://phys.org/news/2022-12-isotopic-signatures-ryugu-comets-unique.html)
+- [Astronomical Calculations for Hard SF in Common Lisp](https://borretti.me/article/astronomical-calculations-for-hard-sf-common-lisp)
+- [Fast memcpy, A System Design](https://www.sigarch.org/fast-memcpy-a-system-design/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

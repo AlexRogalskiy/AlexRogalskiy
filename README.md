@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Amazon&#39;s Kindle Publishing for Periodicals Program Ending](https://locusmag.com/2022/12/kindle-subscription-program-ending/)
-- [A man reveals his impending death on Twitter. Experts say it may make sense.](https://www.marketwatch.com/story/a-man-reveals-his-impending-death-on-twitter-heres-why-experts-say-it-may-make-sense-to-do-so-11671487106)
-- [SpaceX Pulls Off 3 Orbital Launches in 34 Hours, Smashing Its Record](https://gizmodo.com/spacex-three-falcon-9-launches-breaks-record-1849909984)
-- [Empowering Female Attorneys Through Mentorship – Marcy Resnik](https://www.wtsp.com/article/features/great-day-live/marcy-resnik-and-the-importance-of-mentorship-for-female-attorneys/67-2cb7d8bf-d92b-413f-96a6-f3178ab0303e)
-- [Stanford&#39;s Elimination of Harmful Language &lpar;In IT&rpar; Initiative [pdf]](https://s.wsj.net/public/resources/documents/stanfordlanguage.pdf)
-- [Baby Pickle and the Negative Minus-One-Hundred Function](https://bancosparenting.wordpress.com/2022/12/08/baby-pickle-and-the-negative-minus-one-hundred-function/)
-- [The cargo hauling aircraft with no pilots on board](https://www.bbc.com/news/business-63595481)
-- [Swatters used Ring cameras to livestream attacks, taunt police, prosecutors say](https://arstechnica.com/information-technology/2022/12/swatters-used-ring-cameras-to-livestream-attacks-taunt-police-prosecutors-say/)
-- [Show HN: Wrong Door – a GPT3 game experiment](https://www.wrongdoor.dev/)
-- [The True Meaning of the Phrase ‘More Honoured in the Breach Than the Observance’](https://interestingliterature.com/2020/05/more-honoured-breach-observance-phrase-meaning/)
+- [KCBX to Shut Down Santa Barbara Signal Citing Climate Change](https://radioinsight.com/headlines/246312/kcbx-to-shut-down-santa-barbara-signal-citing-climate-change/)
+- [Tesla stock concerns go beyond Elon Musk multitasking at Twitter: Analyst](https://finance.yahoo.com/news/tesla-stock-concerns-go-beyond-elon-musk-multitasking-at-twitter-analyst-183159045.html)
+- [How to spot AI-generated text](https://www.technologyreview.com/2022/12/19/1065596/how-to-spot-ai-generated-text/)
+- [Elon Musk says he&#39;ll resign as head of Twitter](https://abcnews.go.com/Business/elon-musk-hell-resign-head-twitter/story?id=95630793)
+- [Open Circuits: The Inner Beauty of Electronic Components](https://opencircuitsbook.com/)
+- [Nio Blackmailed for Millions in Bitcoin by Data-Stealing Hackers](https://www.bloomberg.com/news/articles/2022-12-20/nio-blackmailed-for-millions-in-bitcoin-by-data-stealing-hackers)
+- [Apple to start making MacBooks in Vietnam by mid-2023](https://asia.nikkei.com/Spotlight/Supply-Chain/Apple-to-start-making-MacBooks-in-Vietnam-by-mid-2023)
+- [The return of Andrea Dworkin’s radical vision](https://www.bookforum.com/print/2505/the-return-of-andrea-dworkin-s-radical-vision-20623)
+- [Why Is Everyone Paying the Same?](https://www.aeqium.com/post/why-is-everyone-paying-the-same)
+- [Musk Confirms He’ll Resign as Twitter CEO After Successor Found](https://www.bloomberg.com/news/articles/2022-12-21/musk-to-run-twitter-software-servers-teams-after-new-ceo-found)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

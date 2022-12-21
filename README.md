@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Content Moderation Survivor Bias](https://cyber.fsi.stanford.edu/io/news/content-moderation-survivor-bias)
-- [The Windows Subsystem for Android now runs Android 13 in beta](https://github.com/microsoft/WSA/discussions/167)
-- [FILM: Frame Interpolation for Large Motion](https://github.com/google-research/frame-interpolation)
-- [Amazon Ring cameras used in nationwide ‘swatting’ spree, US Justice Dept. says](https://www.bloomberg.com/news/articles/2022-12-19/two-charged-with-using-amazon-ring-cameras-in-nationwide-swatting-spree)
-- [The Force Engine v1.0 Released](https://theforceengine.github.io/)
-- [Implementing ‘strlen’ using SVE](https://lemire.me/blog/2022/12/19/implementing-strlen-using-sve/)
-- [Zstandard – Fast real-time compression algorithm](https://github.com/facebook/zstd)
-- [Ryugu isotopes suggest it formed close to comets along with some unique minerals](https://phys.org/news/2022-12-isotopic-signatures-ryugu-comets-unique.html)
-- [Astronomical Calculations for Hard SF in Common Lisp](https://borretti.me/article/astronomical-calculations-for-hard-sf-common-lisp)
-- [Fast memcpy, A System Design](https://www.sigarch.org/fast-memcpy-a-system-design/)
+- [Gut microbiome affects motivation to exercise in mice: study](https://singularityhub.com/2022/12/20/to-hack-your-motivation-to-exercise-you-may-just-need-to-tweak-your-gut-microbiome/)
+- [The recent Bank of Japan meeting and its implications for markets](https://themacrocompass.substack.com/p/bank-of-japan-surprise)
+- [Being Glue &lpar;2019&rpar;](https://noidea.dog/glue)
+- [Devbox 0.2.0: Automatic Nix installer, plugins, and background services](https://www.jetpack.io/blog/devbox-0-2-0/)
+- [Mozilla to explore healthy social media alternative](https://blog.mozilla.org/en/mozilla/mozilla-launch-fediverse-instance-social-media-alternative/)
+- [AI&#39;s Jurassic Park Moment](https://cacm.acm.org/blogs/blog-cacm/267674-ais-jurassic-park-moment/fulltext)
+- [Signed distance functions in 46 lines of Python](https://vgel.me/posts/donut/)
+- [People took some potassium and lost some weight](https://slimemoldtimemold.com/2022/12/20/people-took-some-potassium-and-lost-some-weight/)
+- [An extensive letter from Edsger Dijkstra to my 19 year old self &lpar;1989&rpar;](https://mastodon.online/@raph/109547934082265439)
+- [Bach’s Accidental Masterpiece](https://www.newstatesman.com/culture/music/2022/11/well-tempered-clavier-bach-300-years-accidental-masterpiece)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Harvey Weinstein found guilty of rape and sexual assault in Los Angeles trial](https://www.theguardian.com/world/2022/dec/19/harvey-weinstein-trial-guilty-los-angeles)
-- [‘My power’s really low’: Nasa’s Insight Mars rover prepares to sign off from the Red Planet](https://www.theguardian.com/science/2022/dec/20/my-powers-really-low-nasas-insight-mars-rover-signs-off-from-the-red-planet)
-- [Supreme court blocks Biden from lifting Covid-era border restrictions](https://www.theguardian.com/us-news/2022/dec/19/us-supreme-court-blocks-title-42-migration-border-policy)
-- [Russia-Ukraine war at a glance: what we know on day 300 of the invasion](https://www.theguardian.com/world/2022/dec/20/russia-ukraine-war-at-a-glance-what-we-know-on-day-300-of-the-invasion)
-- [‘Is Santa Claus not real?’ my daughter asked. I froze like Rudolph in headlights | Conal Hanna](https://www.theguardian.com/commentisfree/2022/dec/20/is-santa-claus-not-real-my-daughter-asked-i-froze-like-rudolph-in-headlights)
-- [Ambulance strike in England and Wales will bring ‘huge risk of harm’](https://www.theguardian.com/uk-news/2022/dec/19/ambulance-strike-in-england-and-wales-will-bring-huge-risk-of-harm)
-- [Eagles quarterback Jalen Hurts suffered right shoulder sprain, sources say](https://www.theguardian.com/sport/2022/dec/19/jalen-hurts-shoulder-injury-philadelphia-eagles)
-- [Exodus of more than half a million from workforce ‘puts UK economy at risk’](https://www.theguardian.com/business/2022/dec/20/exodus-of-more-than-half-a-million-from-workforce-puts-uk-economy-at-risk)
-- [King Charles III bank note designs revealed by Bank of England](https://www.theguardian.com/business/2022/dec/20/king-charles-iii-bank-note-designs-revealed-by-bank-of-england)
-- [Gerwyn Price fights back to beat Luke Woodhouse as Steve Beaton crashes out](https://www.theguardian.com/sport/2022/dec/19/gerwyn-price-fights-back-to-beat-luke-woodhouse-as-steve-beaton-crashes-out)
+- [Six bodies recovered during search for missing marines from sunken Thai warship](https://www.theguardian.com/world/2022/dec/21/six-bodies-recovered-during-search-for-missing-marines-from-sunken-thai-warship)
+- [Who is Princess Bha? Thailand’s presumed royal heir is lying in hospital](https://www.theguardian.com/world/2022/dec/21/who-is-princess-bha-thailands-presumed-royal-heir-is-lying-in-hospital)
+- [House committee votes to release Trump’s tax returns to the public](https://www.theguardian.com/us-news/2022/dec/20/house-committee-votes-release-trump-tax-returns)
+- [China Covid infection surge puts end of global emergency in doubt – WHO](https://www.theguardian.com/world/2022/dec/21/china-covid-infection-surge-puts-end-of-global-emergency-in-doubt-who)
+- [Scientists claim first discovery of mammal eaten by dinosaur](https://www.theguardian.com/science/2022/dec/21/scientists-claim-first-ever-discovery-of-mammal-eaten-by-dinosaur)
+- [Ambulance strike: NHS leaders urge public to avoid risky activity](https://www.theguardian.com/uk-news/2022/dec/20/ambulance-strike-nhs-leaders-urge-public-to-avoid-risky-activity)
+- [Children in hostels with ex-prisoners up to 55 miles from school, Shelter warns](https://www.theguardian.com/society/2022/dec/21/children-hostels-ex-prisoners-55-miles-from-school-shelter-warns)
+- [Easy street: these are the most expensive streets in the UK](https://www.theguardian.com/business/2022/dec/21/easy-street-these-are-the-most-expensive-streets-in-the-uk)
+- [London extends lead as most searched UK location on Rightmove](https://www.theguardian.com/business/2022/dec/21/london-extends-lead-as-most-searched-uk-location-on-rightmove)
+- [Nearly 2m UK households behind on bill payments as Christmas approaches](https://www.theguardian.com/business/2022/dec/21/nearly-2m-uk-households-behind-on-bill-payments-as-christmas-approaches)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -355,6 +355,8 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Why it makes sense for Apple to join the ‘Fediverse’](https://www.computerworld.com/article/3684008/why-it-makes-sense-for-apple-to-join-the-fediverse.html#tk.rss_all)
+- [As China pushes its digital currency plans, the US falls behind](https://www.computerworld.com/article/3683968/as-china-pushes-its-digital-currency-plans-the-us-falls-behind.html#tk.rss_all)
 - [The 7 best productivity improvements Apple introduced in 2022](https://www.computerworld.com/article/3683890/the-7-best-productivity-improvements-apple-introduced-in-2022.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [The top Google Pixel tips of 2022](https://www.computerworld.com/article/3682775/google-pixel-tips-2022.html#tk.rss_all)
@@ -363,8 +365,6 @@
 - [The trials and tribulations of Microsoft’s KB5012170 patch](https://www.computerworld.com/article/3683213/the-trials-and-tribulations-of-microsoft-s-kb5012170-patch.html#tk.rss_all)
 - [Patch Tuesday: Two zero-day flaws in Windows need immediate attention](https://www.computerworld.com/article/3683593/patch-tuesday-two-zero-day-flaws-in-windows-need-immediate-attention.html#tk.rss_all)
 - [Jamf Protect adds powerful telemetry to protect Mac enterprise](https://www.computerworld.com/article/3683510/jamf-protect-adds-powerful-telemetry-to-protect-mac-enterprise.html#tk.rss_all)
-- [Reframing our understanding of remote work](https://www.computerworld.com/article/3682811/reframing-our-understanding-of-remote-work.html#tk.rss_all)
-- [10 Android tips you shouldn&#39;t miss from 2022](https://www.computerworld.com/article/3328644/android-tips-2022.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

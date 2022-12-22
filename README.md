@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [KCBX to Shut Down Santa Barbara Signal Citing Climate Change](https://radioinsight.com/headlines/246312/kcbx-to-shut-down-santa-barbara-signal-citing-climate-change/)
-- [Tesla stock concerns go beyond Elon Musk multitasking at Twitter: Analyst](https://finance.yahoo.com/news/tesla-stock-concerns-go-beyond-elon-musk-multitasking-at-twitter-analyst-183159045.html)
-- [How to spot AI-generated text](https://www.technologyreview.com/2022/12/19/1065596/how-to-spot-ai-generated-text/)
-- [Elon Musk says he&#39;ll resign as head of Twitter](https://abcnews.go.com/Business/elon-musk-hell-resign-head-twitter/story?id=95630793)
-- [Open Circuits: The Inner Beauty of Electronic Components](https://opencircuitsbook.com/)
-- [Nio Blackmailed for Millions in Bitcoin by Data-Stealing Hackers](https://www.bloomberg.com/news/articles/2022-12-20/nio-blackmailed-for-millions-in-bitcoin-by-data-stealing-hackers)
-- [Apple to start making MacBooks in Vietnam by mid-2023](https://asia.nikkei.com/Spotlight/Supply-Chain/Apple-to-start-making-MacBooks-in-Vietnam-by-mid-2023)
-- [The return of Andrea Dworkin’s radical vision](https://www.bookforum.com/print/2505/the-return-of-andrea-dworkin-s-radical-vision-20623)
-- [Why Is Everyone Paying the Same?](https://www.aeqium.com/post/why-is-everyone-paying-the-same)
-- [Musk Confirms He’ll Resign as Twitter CEO After Successor Found](https://www.bloomberg.com/news/articles/2022-12-21/musk-to-run-twitter-software-servers-teams-after-new-ceo-found)
+- [Statement on U.S. vs. Samuel Bankman-Fried, Caroline Ellison, Gary Wang](https://twitter.com/sdnynews/status/1605745361842327552)
+- [Woman barred from seeing Rockettes after facial recognition tech identified her](https://www.nbcnews.com/news/us-news/girl-scout-mom-kicked-radio-city-barred-seeing-rockettes-facial-recogn-rcna62606)
+- [Choanoflagellate](https://en.wikipedia.org/wiki/Choanoflagellate)
+- [The monolith is cluttered, new features **must** be built on microservices](https://twitter.com/rafaelsales/status/1605747874775457792)
+- [Programming in the Age of Intelligent Machines](http://breandan.net/public/programming_with_intelligent_machines.html)
+- [SEC Charges Caroline Ellison and Gary Wang with Defrauding Investors](https://www.sec.gov/news/press-release/2022-234)
+- [NASA’s Perseverance Rover to Begin Building Martian Sample Depot](https://www.jpl.nasa.gov/news/nasas-perseverance-rover-to-begin-building-martian-sample-depot)
+- [Corporations Use Software to Dominate, Kill Innovation, &amp; Undermine Regulation](https://www.amazon.com/New-Goliaths-Corporations-Industries-Innovation/dp/0300255047)
+- [Ask HN: Can you help remember the name of a project shared on Hacker News?](https://news.ycombinator.com/item?id=34088844)
+- [Two Executives in Sam Bankman-Fried’s Crypto Empire Plead Guilty to Fraud](https://www.nytimes.com/2022/12/21/technology/ftx-fraud-guilty-pleas.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

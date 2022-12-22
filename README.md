@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Gut microbiome affects motivation to exercise in mice: study](https://singularityhub.com/2022/12/20/to-hack-your-motivation-to-exercise-you-may-just-need-to-tweak-your-gut-microbiome/)
-- [The recent Bank of Japan meeting and its implications for markets](https://themacrocompass.substack.com/p/bank-of-japan-surprise)
-- [Being Glue &lpar;2019&rpar;](https://noidea.dog/glue)
-- [Devbox 0.2.0: Automatic Nix installer, plugins, and background services](https://www.jetpack.io/blog/devbox-0-2-0/)
-- [Mozilla to explore healthy social media alternative](https://blog.mozilla.org/en/mozilla/mozilla-launch-fediverse-instance-social-media-alternative/)
-- [AI&#39;s Jurassic Park Moment](https://cacm.acm.org/blogs/blog-cacm/267674-ais-jurassic-park-moment/fulltext)
-- [Signed distance functions in 46 lines of Python](https://vgel.me/posts/donut/)
-- [People took some potassium and lost some weight](https://slimemoldtimemold.com/2022/12/20/people-took-some-potassium-and-lost-some-weight/)
-- [An extensive letter from Edsger Dijkstra to my 19 year old self &lpar;1989&rpar;](https://mastodon.online/@raph/109547934082265439)
-- [Bach’s Accidental Masterpiece](https://www.newstatesman.com/culture/music/2022/11/well-tempered-clavier-bach-300-years-accidental-masterpiece)
+- [Hotels turn to robots and room cleanings every 4 days to ease staffing shortages](https://www.npr.org/2022/12/21/1143475374/hotels-labor-worker-shortage-robots-automation)
+- [The Pocket Guide to Debugging](https://jvns.ca/blog/2022/12/21/new-zine--the-pocket-guide-to-debugging/)
+- [Avoid exception throwing in performance-sensitive code](https://lemire.me/blog/2022/05/13/avoid-exception-throwing-in-performance-sensitive-code/)
+- [Enzymes That Could Make It Cheaper to Recycle Than Make Them from Petroleum](https://www.nrel.gov/news/features/2022/scientists-discover-enzymes-cheaper-to-recycle-waste-polyester-textiles-and-bottles-than-making-from-petroleum.html)
+- [Netflix: 30% bitrate saving using Film Grain Synthesis](https://waveletbeam.com/index.php/news/48-netflix-film-grain-synthesis)
+- [All 1,400 Google Chrome CLI flags](https://peter.sh/experiments/chromium-command-line-switches/)
+- [Pixelmator Pro gets a magical, AI‑powered Deband feature](https://www.pixelmator.com/blog/2022/12/21/pixelmator-pro-gets-a-magical-ai-powered-deband-feature/)
+- [The End of Programming](https://cacm.acm.org/magazines/2023/1/267976-the-end-of-programming/fulltext)
+- [Nim version 2.0.0 release candidate](https://nim-lang.org/blog/2022/12/21/version-20-rc.html)
+- [Implementing a Toy Optimizer](https://www.pypy.org/posts/2022/07/toy-optimizer.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

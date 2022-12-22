@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Six bodies recovered during search for missing marines from sunken Thai warship](https://www.theguardian.com/world/2022/dec/21/six-bodies-recovered-during-search-for-missing-marines-from-sunken-thai-warship)
-- [Who is Princess Bha? Thailand’s presumed royal heir is lying in hospital](https://www.theguardian.com/world/2022/dec/21/who-is-princess-bha-thailands-presumed-royal-heir-is-lying-in-hospital)
-- [House committee votes to release Trump’s tax returns to the public](https://www.theguardian.com/us-news/2022/dec/20/house-committee-votes-release-trump-tax-returns)
-- [China Covid infection surge puts end of global emergency in doubt – WHO](https://www.theguardian.com/world/2022/dec/21/china-covid-infection-surge-puts-end-of-global-emergency-in-doubt-who)
-- [Scientists claim first discovery of mammal eaten by dinosaur](https://www.theguardian.com/science/2022/dec/21/scientists-claim-first-ever-discovery-of-mammal-eaten-by-dinosaur)
-- [Ambulance strike: NHS leaders urge public to avoid risky activity](https://www.theguardian.com/uk-news/2022/dec/20/ambulance-strike-nhs-leaders-urge-public-to-avoid-risky-activity)
-- [Children in hostels with ex-prisoners up to 55 miles from school, Shelter warns](https://www.theguardian.com/society/2022/dec/21/children-hostels-ex-prisoners-55-miles-from-school-shelter-warns)
-- [Easy street: these are the most expensive streets in the UK](https://www.theguardian.com/business/2022/dec/21/easy-street-these-are-the-most-expensive-streets-in-the-uk)
-- [London extends lead as most searched UK location on Rightmove](https://www.theguardian.com/business/2022/dec/21/london-extends-lead-as-most-searched-uk-location-on-rightmove)
-- [Nearly 2m UK households behind on bill payments as Christmas approaches](https://www.theguardian.com/business/2022/dec/21/nearly-2m-uk-households-behind-on-bill-payments-as-christmas-approaches)
+- [Russia-Ukraine war live: ‘It would be naive to wait for peace from Russia’ Zelenskiy says in address to US Congress](https://www.theguardian.com/world/live/2022/dec/22/russia-ukraine-war-zelenskiy-congress-address-washington-news-live-updates)
+- [Jacinda Ardern’s ‘arrogant prick’ comment nets more than $100,000 at auction](https://www.theguardian.com/world/2022/dec/22/jacinda-arderns-arrogant-prick-comment-nets-more-than-100000-at-auction)
+- [Journey bandmates in legal fight over performance for Donald Trump](https://www.theguardian.com/music/2022/dec/22/journey-bandmates-in-legal-fight-over-performance-for-donald-trump)
+- [Russia-Ukraine war at a glance: what we know on day 302 of the invasion](https://www.theguardian.com/world/2022/dec/22/russia-ukraine-war-at-a-glance-what-we-know-on-day-302-of-the-invasion)
+- [NHS braced for surge of patients after ambulance workers’ strike](https://www.theguardian.com/society/2022/dec/21/nhs-braces-for-tide-of-people-who-delayed-care-amid-ambulance-workers-strike)
+- [UK children with growth disturbance given access to weekly injections](https://www.theguardian.com/society/2022/dec/22/uk-children-growth-disturbance-given-access-weekly-injection-hormone-somatrogon)
+- [Near-faultless Michael van Gerwen wins his  return to PDC World Championship](https://www.theguardian.com/sport/2022/dec/21/near-faultless-michael-van-gerwen-wins-his-return-to-pdc-world-championship)
+- [Honours committees ‘pressured by No 10 to reward Tory donors’](https://www.theguardian.com/politics/2022/dec/21/honours-committees-pressured-by-no-10-to-reward-tory-donors)
+- [Israel moves sharply to right as Netanyahu forms new coalition](https://www.theguardian.com/world/2022/dec/21/benjamin-netanyahu-israel-rightwing-government)
+- [Scottish parliament vote on gender recognition changes delayed until Thursday](https://www.theguardian.com/world/2022/dec/21/scotland-set-to-pass-controversial-gender-recognition-reforms)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Statement on U.S. vs. Samuel Bankman-Fried, Caroline Ellison, Gary Wang](https://twitter.com/sdnynews/status/1605745361842327552)
-- [Woman barred from seeing Rockettes after facial recognition tech identified her](https://www.nbcnews.com/news/us-news/girl-scout-mom-kicked-radio-city-barred-seeing-rockettes-facial-recogn-rcna62606)
-- [Choanoflagellate](https://en.wikipedia.org/wiki/Choanoflagellate)
-- [The monolith is cluttered, new features **must** be built on microservices](https://twitter.com/rafaelsales/status/1605747874775457792)
-- [Programming in the Age of Intelligent Machines](http://breandan.net/public/programming_with_intelligent_machines.html)
-- [SEC Charges Caroline Ellison and Gary Wang with Defrauding Investors](https://www.sec.gov/news/press-release/2022-234)
-- [NASA’s Perseverance Rover to Begin Building Martian Sample Depot](https://www.jpl.nasa.gov/news/nasas-perseverance-rover-to-begin-building-martian-sample-depot)
-- [Corporations Use Software to Dominate, Kill Innovation, &amp; Undermine Regulation](https://www.amazon.com/New-Goliaths-Corporations-Industries-Innovation/dp/0300255047)
-- [Ask HN: Can you help remember the name of a project shared on Hacker News?](https://news.ycombinator.com/item?id=34088844)
-- [Two Executives in Sam Bankman-Fried’s Crypto Empire Plead Guilty to Fraud](https://www.nytimes.com/2022/12/21/technology/ftx-fraud-guilty-pleas.html)
+- [‘Mind-blowing’ network of magma chambers found under Hawaii’s volcanoes](https://www.washingtonpost.com/science/2022/12/22/hawaii-volcanoes-magma-chambers/)
+- [Stop Talking to Each Other and Start Buying Things](https://catvalente.substack.com/p/stop-talking-to-each-other-and-start)
+- [The End of Netflix Password Sharing Is Nigh](https://www.wsj.com/articles/netflix-password-sharing-end-11671636600)
+- [Ask HN: How to collect usage data without violate user privacy?](https://news.ycombinator.com/item?id=34101689)
+- [Why Monolithic architecture might still be a better fit](https://blog.chinaza.dev/why-monolithic-architecture-might-still-be-a-better-fit)
+- [MySQL Workbench is a buggy heap of garbage](https://bugs.mysql.com/bug.php?id=76858)
+- [Tesla: Wireless Charging Platform](https://shop.tesla.com/product/wireless-charging-platform)
+- [Microfront Ends](https://vercel.com/templates/next.js/microfrontends)
+- [Genann: Simple neural network library in ANSI C](https://github.com/codeplea/genann)
+- [Twitter&#39;s top global policy official departs as layoffs continue](https://www.reuters.com/technology/twitters-top-global-policy-official-departs-layoffs-continue-2022-12-22/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

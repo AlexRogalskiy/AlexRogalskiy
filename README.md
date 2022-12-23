@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war live: ‘It would be naive to wait for peace from Russia’ Zelenskiy says in address to US Congress](https://www.theguardian.com/world/live/2022/dec/22/russia-ukraine-war-zelenskiy-congress-address-washington-news-live-updates)
-- [Jacinda Ardern’s ‘arrogant prick’ comment nets more than $100,000 at auction](https://www.theguardian.com/world/2022/dec/22/jacinda-arderns-arrogant-prick-comment-nets-more-than-100000-at-auction)
-- [Journey bandmates in legal fight over performance for Donald Trump](https://www.theguardian.com/music/2022/dec/22/journey-bandmates-in-legal-fight-over-performance-for-donald-trump)
-- [Russia-Ukraine war at a glance: what we know on day 302 of the invasion](https://www.theguardian.com/world/2022/dec/22/russia-ukraine-war-at-a-glance-what-we-know-on-day-302-of-the-invasion)
-- [NHS braced for surge of patients after ambulance workers’ strike](https://www.theguardian.com/society/2022/dec/21/nhs-braces-for-tide-of-people-who-delayed-care-amid-ambulance-workers-strike)
-- [UK children with growth disturbance given access to weekly injections](https://www.theguardian.com/society/2022/dec/22/uk-children-growth-disturbance-given-access-weekly-injection-hormone-somatrogon)
-- [Near-faultless Michael van Gerwen wins his  return to PDC World Championship](https://www.theguardian.com/sport/2022/dec/21/near-faultless-michael-van-gerwen-wins-his-return-to-pdc-world-championship)
-- [Honours committees ‘pressured by No 10 to reward Tory donors’](https://www.theguardian.com/politics/2022/dec/21/honours-committees-pressured-by-no-10-to-reward-tory-donors)
-- [Israel moves sharply to right as Netanyahu forms new coalition](https://www.theguardian.com/world/2022/dec/21/benjamin-netanyahu-israel-rightwing-government)
-- [Scottish parliament vote on gender recognition changes delayed until Thursday](https://www.theguardian.com/world/2022/dec/21/scotland-set-to-pass-controversial-gender-recognition-reforms)
+- [Secret train and a government plane: how Zelenskiy made his high-security trip to the US](https://www.theguardian.com/world/2022/dec/23/secret-train-and-a-government-plane-how-zelenskiy-made-his-high-security-trip-to-the-us)
+- [Russia-Ukraine war at a glance: what we know on day 303 of the invasion](https://www.theguardian.com/world/2022/dec/23/russia-ukraine-war-at-a-glance-what-we-know-on-day-303-of-the-invasion)
+- [TikTok’s parent company fires four workers for improper access of user data](https://www.theguardian.com/technology/2022/dec/22/tiktok-bytedance-workers-fired-data-access-journalists)
+- [Taliban minister defends closing universities to women as global backlash grows](https://www.theguardian.com/world/2022/dec/23/taliban-minister-defends-closing-universities-to-women-as-global-backlash-grows)
+- [James Wade makes shock exit from PDC world darts after defeat by Jim Williams](https://www.theguardian.com/sport/2022/dec/22/james-wade-makes-shock-exit-from-pdc-world-darts-after-defeat-by-jim-williams)
+- [How accurate are China’s Covid death numbers?](https://www.theguardian.com/world/2022/dec/23/how-accurate-are-chinas-covid-death-numbers)
+- [Guardiola hails ‘grumpy’ De Bruyne but says Phillips not ‘in best condition’](https://www.theguardian.com/football/2022/dec/22/guardiola-hails-grumpy-de-bruyne-but-says-phillips-not-in-best-condition)
+- [Probation officer who assessed Killamarsh murderer reportedly sacked](https://www.theguardian.com/uk-news/2022/dec/22/probation-officer-who-assessed-killamarsh-murderer-reportedly-sacked)
+- [The peculiar history of thornapple, the hallucinogenic weed that ended up in supermarket spinach](https://www.theguardian.com/australia-news/2022/dec/23/the-peculiar-history-of-thornapple-the-hallucinogenic-weed-that-ended-up-in-supermarket-spinach)
+- [Pill for Covid does not reduce risk of hospitalisation or death, UK study finds](https://www.theguardian.com/world/2022/dec/22/molnupiravir-pill-for-covid-does-not-reduce-risk-of-hospitalisation-or-death-uk-study-finds)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

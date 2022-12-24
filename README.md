@@ -355,6 +355,7 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Tips for new tech devices](https://www.computerworld.com/article/3153208/tips-for-new-tech-devices.html#tk.rss_all)
 - [Why enterprises should embrace remote work in 2023](https://www.computerworld.com/article/3684050/why-enterprises-should-embrace-remote-work-in-2023.html#tk.rss_all)
 - [2022&#39;s top Google Assistant advice for Android](https://www.computerworld.com/article/3682776/google-assistant-android-2022.html#tk.rss_all)
 - [Why it makes sense for Apple to join the ‘Fediverse’](https://www.computerworld.com/article/3684008/why-it-makes-sense-for-apple-to-join-the-fediverse.html#tk.rss_all)
@@ -364,7 +365,6 @@
 - [The top Google Pixel tips of 2022](https://www.computerworld.com/article/3682775/google-pixel-tips-2022.html#tk.rss_all)
 - [How to use Excel macros to save time and automate your work](https://www.computerworld.com/article/3678210/how-to-use-excel-macros-save-time-automate-work.html#tk.rss_all)
 - [As the EU embraces cell phone calls on planes, could the US be next?](https://www.computerworld.com/article/3683310/as-the-eu-embraces-cell-phone-calls-on-planes-could-the-us-be-next.html#tk.rss_all)
-- [The trials and tribulations of Microsoft’s KB5012170 patch](https://www.computerworld.com/article/3683213/the-trials-and-tribulations-of-microsoft-s-kb5012170-patch.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

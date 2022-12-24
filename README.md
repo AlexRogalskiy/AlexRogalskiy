@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [PicoCAD – A tiny modeller for tiny models](https://johanpeitz.itch.io/picocad)
-- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Systems Engineers](https://news.ycombinator.com/item?id=34101086)
-- [On why I gave up drinking in my early twenties](https://oscargws.substack.com/p/why-i-gave-up-drinking-in-my-twenties)
-- [NuttX RTOS for PinePhone: Display Engine](https://lupyuen.github.io/articles/de3)
-- [2022 Medley Interlisp Annual Report](https://interlisp.org/news/2022medleyannualreport/)
-- [Show HN: My bookmarks of HN and who I&#39;m following](https://handlr.sapico.me/?domain=https%3A%2F%2Fnews.ycombinator.com)
-- [Serverless Video Transcription inspired by Cyberpunk 2077](https://github.com/elanmart/cbp-translate)
-- [40 Years of PCMag: An Illustrated Guide](https://www.pcmag.com/news/40-years-of-pcmag-an-illustrated-guide)
-- [Linux Kernel Ksmbd Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1690/)
-- [Password Requirements: Myths and Madness](https://www.franzoni.eu/password-requirements-myths-madness/)
+- [TikTok banned on government devices under spending bill passed by Congress](https://www.cnbc.com/2022/12/23/congress-passes-spending-bill-with-tiktok-ban-on-government-devices.html)
+- [How we slowed the subway down](https://homesignalblog.wordpress.com/2022/12/21/how-we-slowed-the-subway-down/)
+- [The situation at LastPass may be worse than they are letting on](https://twitter.com/cryptopathic/status/1606416137771782151)
+- [Managing tape drives and libraries with the Unix/Linux CLI](http://blogs.intellique.com/cgi-bin/tech/2022/01/27)
+- [Dating of a large tool assemblage at the Cooper’s Ferry site &lpar;Idaho, USA&rpar;](https://www.science.org/doi/10.1126/sciadv.ade1248)
+- [A new chat feature has been released by You Search](https://you.com/search?q=what+was+the+recent+breakthrough+in+fusion+research%3F&fromSearchBar=true&tbm=youchat)
+- [GitHub Statistics](https://ossinsight.io/)
+- [The Print Shop Club – Create Apple II Print Shop printouts on-line](https://theprintshop.club/)
+- [News for Ruby 3.2.0](https://docs.ruby-lang.org/en/master/NEWS_md.html#label-NEWS+for+Ruby+3.2.0)
+- [Sierra Christmas Card 1986: A Computer Christmas](https://archive.org/details/sierra-christmas-card-1986)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [‘Mind-blowing’ network of magma chambers found under Hawaii’s volcanoes](https://www.washingtonpost.com/science/2022/12/22/hawaii-volcanoes-magma-chambers/)
-- [Stop Talking to Each Other and Start Buying Things](https://catvalente.substack.com/p/stop-talking-to-each-other-and-start)
-- [The End of Netflix Password Sharing Is Nigh](https://www.wsj.com/articles/netflix-password-sharing-end-11671636600)
-- [Ask HN: How to collect usage data without violate user privacy?](https://news.ycombinator.com/item?id=34101689)
-- [Why Monolithic architecture might still be a better fit](https://blog.chinaza.dev/why-monolithic-architecture-might-still-be-a-better-fit)
-- [MySQL Workbench is a buggy heap of garbage](https://bugs.mysql.com/bug.php?id=76858)
-- [Tesla: Wireless Charging Platform](https://shop.tesla.com/product/wireless-charging-platform)
-- [Microfront Ends](https://vercel.com/templates/next.js/microfrontends)
-- [Genann: Simple neural network library in ANSI C](https://github.com/codeplea/genann)
-- [Twitter&#39;s top global policy official departs as layoffs continue](https://www.reuters.com/technology/twitters-top-global-policy-official-departs-layoffs-continue-2022-12-22/)
+- [Brain stimulation boosts hearing in rats with ear implants](https://www.nature.com/articles/d41586-022-04553-z)
+- [Ask HN: What&#39;s the best book you read in 2022?](https://news.ycombinator.com/item?id=34113155)
+- [One Look at Our Future](https://marginalrevolution.com/marginalrevolution/2022/12/one-look-at-our-future.html)
+- [How can a COIN&lpar;COunterINsurgency&rpar; game incorporate a non-violent faction? &lpar;2017&rpar;](https://theplayersaid.com/2017/05/01/interview-with-bruce-mansfield-designer-of-gandhi-the-decolonization-of-british-india-1917-1947-by-gmt-games/)
+- [An Unexpected Ass Kicking](https://impossiblehq.com/an-unexpected-ass-kicking/)
+- [Control our Milwaukee homes Christmas lights](https://mkelights.com/)
+- [Let&#39;s build a browser engine &lpar;2014&rpar;](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
+- [You can&#39;t say Link In Bio on TikTok](https://news.ycombinator.com/item?id=34113064)
+- [A Brief History of Geologic Time &lpar;2017&rpar;](https://www.youtube.com/watch?v=rWp5ZpJAIAE)
+- [Thomas Hobbes Subtweeted Francis Bacon](https://whatisthequestion.wordpress.com/2022/12/23/thomas-hobbes-subtweeted-francis-bacon/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

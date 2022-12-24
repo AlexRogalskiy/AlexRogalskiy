@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Secret train and a government plane: how Zelenskiy made his high-security trip to the US](https://www.theguardian.com/world/2022/dec/23/secret-train-and-a-government-plane-how-zelenskiy-made-his-high-security-trip-to-the-us)
-- [Russia-Ukraine war at a glance: what we know on day 303 of the invasion](https://www.theguardian.com/world/2022/dec/23/russia-ukraine-war-at-a-glance-what-we-know-on-day-303-of-the-invasion)
-- [TikTok’s parent company fires four workers for improper access of user data](https://www.theguardian.com/technology/2022/dec/22/tiktok-bytedance-workers-fired-data-access-journalists)
-- [Taliban minister defends closing universities to women as global backlash grows](https://www.theguardian.com/world/2022/dec/23/taliban-minister-defends-closing-universities-to-women-as-global-backlash-grows)
-- [James Wade makes shock exit from PDC world darts after defeat by Jim Williams](https://www.theguardian.com/sport/2022/dec/22/james-wade-makes-shock-exit-from-pdc-world-darts-after-defeat-by-jim-williams)
-- [How accurate are China’s Covid death numbers?](https://www.theguardian.com/world/2022/dec/23/how-accurate-are-chinas-covid-death-numbers)
-- [Guardiola hails ‘grumpy’ De Bruyne but says Phillips not ‘in best condition’](https://www.theguardian.com/football/2022/dec/22/guardiola-hails-grumpy-de-bruyne-but-says-phillips-not-in-best-condition)
-- [Probation officer who assessed Killamarsh murderer reportedly sacked](https://www.theguardian.com/uk-news/2022/dec/22/probation-officer-who-assessed-killamarsh-murderer-reportedly-sacked)
-- [The peculiar history of thornapple, the hallucinogenic weed that ended up in supermarket spinach](https://www.theguardian.com/australia-news/2022/dec/23/the-peculiar-history-of-thornapple-the-hallucinogenic-weed-that-ended-up-in-supermarket-spinach)
-- [Pill for Covid does not reduce risk of hospitalisation or death, UK study finds](https://www.theguardian.com/world/2022/dec/22/molnupiravir-pill-for-covid-does-not-reduce-risk-of-hospitalisation-or-death-uk-study-finds)
+- [Fiji parliament confirms Sitiveni Rabuka as prime minister after days of uncertainty](https://www.theguardian.com/world/2022/dec/24/fiji-parliament-confirms-sitiveni-rabuka-as-prime-minister-after-days-of-uncertainty)
+- [Tory Lanez found guilty in Megan Thee Stallion shooting](https://www.theguardian.com/music/2022/dec/24/tory-lanez-found-guilty-in-megan-thee-stallion-shooting)
+- [Cross sees off Williams at PDC World Darts as Clayton and Noppert progress](https://www.theguardian.com/sport/2022/dec/23/rob-cross-scott-williams-pdc-world-darts-championship-jonny-clayton-danny-noppert)
+- [Elon Musk ‘orders Twitter to remove suicide prevention feature’](https://www.theguardian.com/technology/2022/dec/23/elon-musk-orders-twitter-to-remove-suicide-prevention-feature)
+- [Kalvin Phillips left out of Manchester City squad because he was ‘overweight’](https://www.theguardian.com/football/2022/dec/23/kalvin-phillips-left-out-of-manchester-city-squad-because-he-was-overweight)
+- [A Ghost Story for Christmas: Count Magnus review – Mark Gatiss’s creepy tale could barely be less thrilling](https://www.theguardian.com/tv-and-radio/2022/dec/23/a-ghost-story-for-christmas-count-magnus-review-mark-gatisss-creepy-tale-could-barely-be-less-thrilling)
+- [London Irish’s Tom Pearson helps stun Saracens as Steve Borthwick watches on](https://www.theguardian.com/sport/2022/dec/23/london-irishs-tom-pearson-helps-stun-leaders-saracens-in-feisty-clash)
+- [John Lundstram’s stunner seals victory for lacklustre Rangers at Ross County](https://www.theguardian.com/football/2022/dec/23/ross-county-rangers-scottish-premiership-match-report)
+- [‘Once in a generation’ freeze for Christmas as bomb cyclone hits US](https://www.theguardian.com/us-news/2022/dec/23/us-weather-bomb-cyclone-us-christmas-latest)
+- [King Charles chooses chapel at Windsor for first Christmas message](https://www.theguardian.com/uk-news/2022/dec/23/king-charles-chooses-st-georges-chapel-windsor-first-christmas-message)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

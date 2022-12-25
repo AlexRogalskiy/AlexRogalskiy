@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Fiji parliament confirms Sitiveni Rabuka as prime minister after days of uncertainty](https://www.theguardian.com/world/2022/dec/24/fiji-parliament-confirms-sitiveni-rabuka-as-prime-minister-after-days-of-uncertainty)
-- [Tory Lanez found guilty in Megan Thee Stallion shooting](https://www.theguardian.com/music/2022/dec/24/tory-lanez-found-guilty-in-megan-thee-stallion-shooting)
-- [Cross sees off Williams at PDC World Darts as Clayton and Noppert progress](https://www.theguardian.com/sport/2022/dec/23/rob-cross-scott-williams-pdc-world-darts-championship-jonny-clayton-danny-noppert)
-- [Elon Musk ‘orders Twitter to remove suicide prevention feature’](https://www.theguardian.com/technology/2022/dec/23/elon-musk-orders-twitter-to-remove-suicide-prevention-feature)
-- [Kalvin Phillips left out of Manchester City squad because he was ‘overweight’](https://www.theguardian.com/football/2022/dec/23/kalvin-phillips-left-out-of-manchester-city-squad-because-he-was-overweight)
-- [A Ghost Story for Christmas: Count Magnus review – Mark Gatiss’s creepy tale could barely be less thrilling](https://www.theguardian.com/tv-and-radio/2022/dec/23/a-ghost-story-for-christmas-count-magnus-review-mark-gatisss-creepy-tale-could-barely-be-less-thrilling)
-- [London Irish’s Tom Pearson helps stun Saracens as Steve Borthwick watches on](https://www.theguardian.com/sport/2022/dec/23/london-irishs-tom-pearson-helps-stun-leaders-saracens-in-feisty-clash)
-- [John Lundstram’s stunner seals victory for lacklustre Rangers at Ross County](https://www.theguardian.com/football/2022/dec/23/ross-county-rangers-scottish-premiership-match-report)
-- [‘Once in a generation’ freeze for Christmas as bomb cyclone hits US](https://www.theguardian.com/us-news/2022/dec/23/us-weather-bomb-cyclone-us-christmas-latest)
-- [King Charles chooses chapel at Windsor for first Christmas message](https://www.theguardian.com/uk-news/2022/dec/23/king-charles-chooses-st-georges-chapel-windsor-first-christmas-message)
+- [Pope condemns power hungry and alludes to Ukraine conflict in Christmas Eve mass](https://www.theguardian.com/world/2022/dec/25/pope-condemns-power-hungry-and-alludes-to-ukraine-conflict-in-christmas-eve-mass)
+- [Russia-Ukraine war at a glance: what we know on day 305 of the invasion](https://www.theguardian.com/world/2022/dec/25/russia-ukraine-war-at-a-glance-what-we-know-on-day-305-of-the-invasion)
+- [Should my girlfriend’s dog stop sleeping in our bed?](https://www.theguardian.com/lifeandstyle/2022/dec/25/should-my-girlfriends-dog-stop-sleeping-in-our-bed)
+- [‘Another night together’: Pelé ‘fights with faith’ in hospital as family gather](https://www.theguardian.com/football/2022/dec/24/another-night-together-pele-fights-with-faith-in-hospital-as-family-gather)
+- [Christmas Carole review – Suranne Jones is pitch perfect in this instant festive classic](https://www.theguardian.com/tv-and-radio/2022/dec/24/christmas-carole-review-suranne-jones-is-pitch-perfect-in-this-instant-festive-classic)
+- [Huge ‘bomb cyclone’ storm hits US with life-threatening cold as holidays begin](https://www.theguardian.com/us-news/2022/dec/24/huge-winter-storm-bomb-cyclone-us-life-threatening-cold-holidays)
+- [Kurdish rapper wins appeal against death sentence in Iran](https://www.theguardian.com/world/2022/dec/24/kurdish-rapper-wins-appeal-against-death-sentence-in-iran)
+- [Twitter restores suicide prevention feature](https://www.theguardian.com/technology/2022/dec/24/twitter-restores-suicide-prevention-feature)
+- [Border town of El Paso scrambles as more migrants risk it all to reach US](https://www.theguardian.com/us-news/2022/dec/24/el-paso-us-mexico-border-migrants-crisis)
+- [Taliban stop women from working for aid organisations](https://www.theguardian.com/world/2022/dec/24/taliban-stop-women-from-working-for-aid-organisations)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

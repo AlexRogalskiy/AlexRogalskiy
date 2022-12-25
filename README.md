@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [TikTok banned on government devices under spending bill passed by Congress](https://www.cnbc.com/2022/12/23/congress-passes-spending-bill-with-tiktok-ban-on-government-devices.html)
-- [How we slowed the subway down](https://homesignalblog.wordpress.com/2022/12/21/how-we-slowed-the-subway-down/)
-- [The situation at LastPass may be worse than they are letting on](https://twitter.com/cryptopathic/status/1606416137771782151)
-- [Managing tape drives and libraries with the Unix/Linux CLI](http://blogs.intellique.com/cgi-bin/tech/2022/01/27)
-- [Dating of a large tool assemblage at the Cooper’s Ferry site &lpar;Idaho, USA&rpar;](https://www.science.org/doi/10.1126/sciadv.ade1248)
-- [A new chat feature has been released by You Search](https://you.com/search?q=what+was+the+recent+breakthrough+in+fusion+research%3F&fromSearchBar=true&tbm=youchat)
-- [GitHub Statistics](https://ossinsight.io/)
-- [The Print Shop Club – Create Apple II Print Shop printouts on-line](https://theprintshop.club/)
-- [News for Ruby 3.2.0](https://docs.ruby-lang.org/en/master/NEWS_md.html#label-NEWS+for+Ruby+3.2.0)
-- [Sierra Christmas Card 1986: A Computer Christmas](https://archive.org/details/sierra-christmas-card-1986)
+- [Nobody Cares About Your Blog](https://mssprovenance.blogspot.com/2022/12/nobody-cares-about-your-blog.html)
+- [What does Overture Map mean for the future of OpenStreetMap](https://blog.andygol.co.ua/en/2022/12/24/creating-overture-map-and-future-of-osm/)
+- [Ask HN: Who else is working/on call over Christmas?](https://news.ycombinator.com/item?id=34122578)
+- [Tell HN: Everyone should have a holiday dinner this year](https://news.ycombinator.com/item?id=34122118)
+- [How to write unmantainable code &lpar;2015&rpar;](https://github.com/Droogans/unmaintainable-code)
+- [What ChatGPT can&#39;t do](https://auerstack.substack.com/p/what-chatgpt-cant-do)
+- [PostScript Cartridge for HP LaserJet](https://www.pagetable.com/?p=1721)
+- [Merry Christmas, HN](https://news.ycombinator.com/item?id=34121082)
+- [Stanford hates fun](https://johnhcochrane.blogspot.com/2022/12/stanford-hates-fun.html)
+- [The cold hard truth about electric vehicles in winter](https://www.axios.com/2022/03/04/the-cold-hard-truth-about-electric-vehicles-in-winter)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

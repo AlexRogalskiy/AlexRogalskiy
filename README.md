@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Brain stimulation boosts hearing in rats with ear implants](https://www.nature.com/articles/d41586-022-04553-z)
-- [Ask HN: What&#39;s the best book you read in 2022?](https://news.ycombinator.com/item?id=34113155)
-- [One Look at Our Future](https://marginalrevolution.com/marginalrevolution/2022/12/one-look-at-our-future.html)
-- [How can a COIN&lpar;COunterINsurgency&rpar; game incorporate a non-violent faction? &lpar;2017&rpar;](https://theplayersaid.com/2017/05/01/interview-with-bruce-mansfield-designer-of-gandhi-the-decolonization-of-british-india-1917-1947-by-gmt-games/)
-- [An Unexpected Ass Kicking](https://impossiblehq.com/an-unexpected-ass-kicking/)
-- [Control our Milwaukee homes Christmas lights](https://mkelights.com/)
-- [Let&#39;s build a browser engine &lpar;2014&rpar;](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
-- [You can&#39;t say Link In Bio on TikTok](https://news.ycombinator.com/item?id=34113064)
-- [A Brief History of Geologic Time &lpar;2017&rpar;](https://www.youtube.com/watch?v=rWp5ZpJAIAE)
-- [Thomas Hobbes Subtweeted Francis Bacon](https://whatisthequestion.wordpress.com/2022/12/23/thomas-hobbes-subtweeted-francis-bacon/)
+- [Delivery Drivers Can’t Find Your House Number](https://www.wsj.com/articles/delivery-drivers-packages-christmas-decorations-11671637157)
+- [Bun v0.4.0](https://github.com/oven-sh/bun/releases/tag/bun-v0.4.0)
+- [Skifree-Linux](https://sourceforge.net/projects/skifree-linux/)
+- [Expectation Fields](https://www.autodidacts.io/expectation-fields/)
+- [Taxpayers paying billions for the renovations and construction of NFL stadiums](https://www.cnbc.com/2022/12/22/taxpayers-are-paying-billions-for-nfl-stadiums-heres-how.html)
+- [Should We Tax Robots?](https://www.technology.org/2022/12/23/should-we-tax-robots/)
+- [FTX founder SBF was &#39;chilling&#39; at JFK lounge before flying business class home](https://www.businessinsider.com/ftx-sam-bankman-fried-aa-lounge-jfk-flight-san-francisco-2022-12)
+- [The Twitter Files Archive](https://www.twitterfiles.co/)
+- [Nobody Cares About Your Blog](https://mssprovenance.blogspot.com/2022/12/nobody-cares-about-your-blog.html)
+- [A fake baby bump shows the limits of US chip sanctions on China](https://www.ft.com/content/a59224da-e86d-4289-aa95-41e6b7a04c0d)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

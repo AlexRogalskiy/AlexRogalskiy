@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Pope condemns power hungry and alludes to Ukraine conflict in Christmas Eve mass](https://www.theguardian.com/world/2022/dec/25/pope-condemns-power-hungry-and-alludes-to-ukraine-conflict-in-christmas-eve-mass)
-- [Russia-Ukraine war at a glance: what we know on day 305 of the invasion](https://www.theguardian.com/world/2022/dec/25/russia-ukraine-war-at-a-glance-what-we-know-on-day-305-of-the-invasion)
-- [Should my girlfriend’s dog stop sleeping in our bed?](https://www.theguardian.com/lifeandstyle/2022/dec/25/should-my-girlfriends-dog-stop-sleeping-in-our-bed)
-- [‘Another night together’: Pelé ‘fights with faith’ in hospital as family gather](https://www.theguardian.com/football/2022/dec/24/another-night-together-pele-fights-with-faith-in-hospital-as-family-gather)
-- [Christmas Carole review – Suranne Jones is pitch perfect in this instant festive classic](https://www.theguardian.com/tv-and-radio/2022/dec/24/christmas-carole-review-suranne-jones-is-pitch-perfect-in-this-instant-festive-classic)
-- [Huge ‘bomb cyclone’ storm hits US with life-threatening cold as holidays begin](https://www.theguardian.com/us-news/2022/dec/24/huge-winter-storm-bomb-cyclone-us-life-threatening-cold-holidays)
-- [Kurdish rapper wins appeal against death sentence in Iran](https://www.theguardian.com/world/2022/dec/24/kurdish-rapper-wins-appeal-against-death-sentence-in-iran)
-- [Twitter restores suicide prevention feature](https://www.theguardian.com/technology/2022/dec/24/twitter-restores-suicide-prevention-feature)
-- [Border town of El Paso scrambles as more migrants risk it all to reach US](https://www.theguardian.com/us-news/2022/dec/24/el-paso-us-mexico-border-migrants-crisis)
-- [Taliban stop women from working for aid organisations](https://www.theguardian.com/world/2022/dec/24/taliban-stop-women-from-working-for-aid-organisations)
+- [Australia v South Africa: second Test, day one – live](https://www.theguardian.com/sport/live/2022/dec/26/australia-vs-south-africa-cricket-live-updates-score-second-test-boxing-day-one-latest-scores-aus-v-sa)
+- [Russia-Ukraine war at a glance: what we know on day 306 of the invasion](https://www.theguardian.com/world/2022/dec/26/russia-ukraine-war-at-a-glance-what-we-know-on-day-306-of-the-invasion)
+- [Labour attacks delays to online safety bill as it highlights Christmas scams](https://www.theguardian.com/technology/2022/dec/26/labour-attacks-delays-to-online-safety-bill-as-it-highlights-christmas-scams)
+- [UK to stop publishing Covid modelling data](https://www.theguardian.com/world/2022/dec/25/uk-to-stop-publishing-covid-modelling-data)
+- [Trust in Frank Lampard hangs by thread before Everton’s Boxing D-Day](https://www.theguardian.com/football/2022/dec/25/trust-in-frank-lampard-hangs-by-thread-before-evertons-boxing-d-day)
+- [Liverpool’s Jürgen Klopp showers praise on ‘just exceptional’ Jude Bellingham](https://www.theguardian.com/football/2022/dec/25/liverpools-jurgen-klopp-showers-praise-on-just-exceptional-jude-bellingham)
+- [Graham Potter ‘more confident’ of changing Chelsea’s fortunes after talks](https://www.theguardian.com/football/2022/dec/25/graham-potter-more-confident-of-changing-chelseas-fortunes-after-talks)
+- [Antonio Conte admits to ‘strange’ experience of watching Kane v Lloris](https://www.theguardian.com/football/2022/dec/25/antonio-conte-admits-to-strange-experience-of-watching-kane-v-lloris)
+- [Kevin De Bruyne claims goal obsession can drive Erling Haaland to 800 club](https://www.theguardian.com/football/2022/dec/25/kevin-de-bruyne-claims-goal-obsession-can-drive-erling-haaland-to-800-club)
+- [Mikel Arteta wants Arsenal to make January signings as quickly as possible](https://www.theguardian.com/football/2022/dec/25/mikel-arteta-wants-arsenal-to-make-january-signings-as-quickly-as-possible)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

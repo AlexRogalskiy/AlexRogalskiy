@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Delivery Drivers Can’t Find Your House Number](https://www.wsj.com/articles/delivery-drivers-packages-christmas-decorations-11671637157)
-- [Bun v0.4.0](https://github.com/oven-sh/bun/releases/tag/bun-v0.4.0)
-- [Skifree-Linux](https://sourceforge.net/projects/skifree-linux/)
-- [Expectation Fields](https://www.autodidacts.io/expectation-fields/)
-- [Taxpayers paying billions for the renovations and construction of NFL stadiums](https://www.cnbc.com/2022/12/22/taxpayers-are-paying-billions-for-nfl-stadiums-heres-how.html)
-- [Should We Tax Robots?](https://www.technology.org/2022/12/23/should-we-tax-robots/)
-- [FTX founder SBF was &#39;chilling&#39; at JFK lounge before flying business class home](https://www.businessinsider.com/ftx-sam-bankman-fried-aa-lounge-jfk-flight-san-francisco-2022-12)
-- [The Twitter Files Archive](https://www.twitterfiles.co/)
-- [Nobody Cares About Your Blog](https://mssprovenance.blogspot.com/2022/12/nobody-cares-about-your-blog.html)
-- [A fake baby bump shows the limits of US chip sanctions on China](https://www.ft.com/content/a59224da-e86d-4289-aa95-41e6b7a04c0d)
+- [Japan to begin extracting rare earth metals from seabed in 2024](https://archive.vn/cmEkC)
+- [Critical Program Reading &lpar;1975&rpar; – 16mm Film](https://www.youtube.com/watch?v=7hdJQkn8rtA)
+- [Google’s water use is soaring, consume more than 25% of water used in The Dalles](https://www.oregonlive.com/silicon-forest/2022/12/googles-water-use-is-soaring-in-the-dalles-records-show-with-two-more-data-centers-to-come.html)
+- [Is it time to consider systematic data destruction policies?](https://news.ycombinator.com/item?id=34133721)
+- [The Canon Cat: the little computer that could have changed the world](https://adventofcomputing.libsyn.com/episode-98-the-canon-cat?tdest_id=1264190)
+- [Three power substations vandalized in Washington state, over 14K lost power](https://abcnews.go.com/US/2-power-substations-attacked-washington-state-7k-lost/story?id=95812232)
+- [Happy Birthday to Jesus&#39; Twin Sister, the Vampire Camilla](https://gizmodo.com/lupin-iii-christmas-jesus-sister-vampire-camilla-1849927775)
+- [Staff+ engineers, how do you learn new technologies at a new company?](https://news.ycombinator.com/item?id=34133673)
+- [Toronto&#39;s Christmas Meal for the Homeless](https://www.youtube.com/watch?v=0PP8bWDQjRc)
+- [HDDSuperClone, bypasses the kernel IDE/AHCI/USB stack, released as GPL2](https://github.com/thesourcerer8/hddsuperclone)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

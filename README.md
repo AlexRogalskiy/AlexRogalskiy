@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Nobody Cares About Your Blog](https://mssprovenance.blogspot.com/2022/12/nobody-cares-about-your-blog.html)
-- [What does Overture Map mean for the future of OpenStreetMap](https://blog.andygol.co.ua/en/2022/12/24/creating-overture-map-and-future-of-osm/)
-- [Ask HN: Who else is working/on call over Christmas?](https://news.ycombinator.com/item?id=34122578)
-- [Tell HN: Everyone should have a holiday dinner this year](https://news.ycombinator.com/item?id=34122118)
-- [How to write unmantainable code &lpar;2015&rpar;](https://github.com/Droogans/unmaintainable-code)
-- [What ChatGPT can&#39;t do](https://auerstack.substack.com/p/what-chatgpt-cant-do)
-- [PostScript Cartridge for HP LaserJet](https://www.pagetable.com/?p=1721)
-- [Merry Christmas, HN](https://news.ycombinator.com/item?id=34121082)
-- [Stanford hates fun](https://johnhcochrane.blogspot.com/2022/12/stanford-hates-fun.html)
-- [The cold hard truth about electric vehicles in winter](https://www.axios.com/2022/03/04/the-cold-hard-truth-about-electric-vehicles-in-winter)
+- [In the World of Astrophysics, One Failed Cancel Campaign Led to Another](https://quillette.com/2022/12/25/character-assassination-social-justice-physics/)
+- [Holography without Lasers: Hand-drawn Holograms &lpar;1999&rpar;](http://amasci.com/amateur/holo1.html)
+- [All I Want for Christmas Is These Seven TypeScript Improvements](https://effectivetypescript.com/2022/12/25/christmas/)
+- [Source Code for Populous for Windows CE / Dreamcast Released](https://github.com/LemonHaze420/DCPopulous)
+- [MIT statement on freedom of expression and academic freedom](https://twitter.com/thefireorg/status/1606010943309336576)
+- [The antimicrobial resistance crisis needs action now](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001918)
+- [AI chatbots are not a replacement for search engines](https://iai.tv/articles/all-knowing-machines-are-a-fantasy-auid-2334)
+- [Ask HN: Has anyone successfully recovered photos from a broken Android phone?](https://news.ycombinator.com/item?id=34131436)
+- [General guidance when working as a cloud engineer](https://www.lockedinspace.com/posts/001.html)
+- [OneSignal &lpar;YC S11&rpar; Is Hiring a Head of Developer Relations](https://onesignal.com/careers/4004532006)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

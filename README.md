@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [In the World of Astrophysics, One Failed Cancel Campaign Led to Another](https://quillette.com/2022/12/25/character-assassination-social-justice-physics/)
-- [Holography without Lasers: Hand-drawn Holograms &lpar;1999&rpar;](http://amasci.com/amateur/holo1.html)
-- [All I Want for Christmas Is These Seven TypeScript Improvements](https://effectivetypescript.com/2022/12/25/christmas/)
-- [Source Code for Populous for Windows CE / Dreamcast Released](https://github.com/LemonHaze420/DCPopulous)
-- [MIT statement on freedom of expression and academic freedom](https://twitter.com/thefireorg/status/1606010943309336576)
-- [The antimicrobial resistance crisis needs action now](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001918)
-- [AI chatbots are not a replacement for search engines](https://iai.tv/articles/all-knowing-machines-are-a-fantasy-auid-2334)
-- [Ask HN: Has anyone successfully recovered photos from a broken Android phone?](https://news.ycombinator.com/item?id=34131436)
-- [General guidance when working as a cloud engineer](https://www.lockedinspace.com/posts/001.html)
-- [OneSignal &lpar;YC S11&rpar; Is Hiring a Head of Developer Relations](https://onesignal.com/careers/4004532006)
+- [Show HN: How many advertising panels in Sydney are near a public telephone?](https://observablehq.com/@mjbo/sydney-qms-panel-public-telephone-pairings)
+- [Running Windows 7 on a 5 MHz CPU with 128MB of RAM](https://www.tomshardware.com/news/windows-7-runs-at-5-mhz)
+- [Rigs of Rods: free and open source vehicle simulator that uses soft-body physics](https://www.rigsofrods.org/)
+- [Creepy Website Similarity](https://memex.marginalia.nu/log/69-creepy-website-similarity.gmi)
+- [Binary Posters](https://github.com/corkami/pics/blob/master/binary/README.md)
+- [Are You Really Losing Weight?](https://jasmcole.com/2022/02/10/losing-it/)
+- [A Visual Guide to React&#39;s useEffect](https://alexsidorenko.com/blog/useeffect/)
+- [The Tipping Point: How France Changed the Tides of the American Revolution](https://www.battlefields.org/learn/articles/how-france-helped-win-american-revolution)
+- [Mold linker: targeting macOS/iOS now requires a commercial license](https://github.com/rui314/mold/releases/tag/v1.8.0)
+- [eBay, Etsy and other marketplaces on brink of having to disclose seller details](https://www.eseller365.com/ebay-etsy-inform-act-hidden-spending-bill/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

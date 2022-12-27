@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Australia v South Africa: second Test, day one – live](https://www.theguardian.com/sport/live/2022/dec/26/australia-vs-south-africa-cricket-live-updates-score-second-test-boxing-day-one-latest-scores-aus-v-sa)
-- [Russia-Ukraine war at a glance: what we know on day 306 of the invasion](https://www.theguardian.com/world/2022/dec/26/russia-ukraine-war-at-a-glance-what-we-know-on-day-306-of-the-invasion)
-- [Labour attacks delays to online safety bill as it highlights Christmas scams](https://www.theguardian.com/technology/2022/dec/26/labour-attacks-delays-to-online-safety-bill-as-it-highlights-christmas-scams)
-- [UK to stop publishing Covid modelling data](https://www.theguardian.com/world/2022/dec/25/uk-to-stop-publishing-covid-modelling-data)
-- [Trust in Frank Lampard hangs by thread before Everton’s Boxing D-Day](https://www.theguardian.com/football/2022/dec/25/trust-in-frank-lampard-hangs-by-thread-before-evertons-boxing-d-day)
-- [Liverpool’s Jürgen Klopp showers praise on ‘just exceptional’ Jude Bellingham](https://www.theguardian.com/football/2022/dec/25/liverpools-jurgen-klopp-showers-praise-on-just-exceptional-jude-bellingham)
-- [Graham Potter ‘more confident’ of changing Chelsea’s fortunes after talks](https://www.theguardian.com/football/2022/dec/25/graham-potter-more-confident-of-changing-chelseas-fortunes-after-talks)
-- [Antonio Conte admits to ‘strange’ experience of watching Kane v Lloris](https://www.theguardian.com/football/2022/dec/25/antonio-conte-admits-to-strange-experience-of-watching-kane-v-lloris)
-- [Kevin De Bruyne claims goal obsession can drive Erling Haaland to 800 club](https://www.theguardian.com/football/2022/dec/25/kevin-de-bruyne-claims-goal-obsession-can-drive-erling-haaland-to-800-club)
-- [Mikel Arteta wants Arsenal to make January signings as quickly as possible](https://www.theguardian.com/football/2022/dec/25/mikel-arteta-wants-arsenal-to-make-january-signings-as-quickly-as-possible)
+- [Australia v South Africa: second Test, day two – live](https://www.theguardian.com/sport/live/2022/dec/27/australia-v-south-africa-second-test-day-two-live)
+- [Russia-Ukraine war at a glance: what we know on day 307 of the invasion](https://www.theguardian.com/world/2022/dec/27/russia-ukraine-war-at-a-glance-what-we-know-on-day-307-of-the-invasion)
+- [US braces for more deaths as ‘blizzard of the century’ grips nation](https://www.theguardian.com/us-news/2022/dec/27/us-braces-for-more-deaths-as-blizzard-of-the-century-grips-nation)
+- [A solitary morning ocean swim is a salty sanctuary for introverts like me | Rose Saltman](https://www.theguardian.com/commentisfree/2022/dec/27/a-solitary-morning-ocean-swim-is-a-salty-sanctuary-for-introverts-like-me)
+- [UK government TV ad urges households to take 30 seconds to reduce energy bills](https://www.theguardian.com/business/2022/dec/27/uk-government-tv-ad-urges-households-to-take-30-seconds-to-reduce-energy-bills)
+- [Four people drown in Australian waterways over Christmas weekend](https://www.theguardian.com/australia-news/2022/dec/27/four-people-drown-in-australian-waterways-over-christmas-weekend)
+- [Liverpool agree initial £37m deal for Cody Gakpo with PSV Eindhoven](https://www.theguardian.com/football/2022/dec/26/liverpool-cody-gakpo-psv-eindhoven)
+- [The Crown and Blake’s 7 actor Stephen Greif dies at 78](https://www.theguardian.com/tv-and-radio/2022/dec/26/the-crown-and-blakes-7-actor-stephen-greif-dies-at-78)
+- [Detectorists Christmas Special review – the best thing you will watch all festive period](https://www.theguardian.com/tv-and-radio/2022/dec/26/detectorists-christmas-special-review-the-best-thing-you-will-watch-all-festive-period)
+- [Nketiah rounds off recovery as Arsenal beat West Ham and go seven clear at top](https://www.theguardian.com/football/2022/dec/26/arsenal-west-ham-premier-league-match-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

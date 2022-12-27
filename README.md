@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Japan to begin extracting rare earth metals from seabed in 2024](https://archive.vn/cmEkC)
-- [Critical Program Reading &lpar;1975&rpar; – 16mm Film](https://www.youtube.com/watch?v=7hdJQkn8rtA)
-- [Google’s water use is soaring, consume more than 25% of water used in The Dalles](https://www.oregonlive.com/silicon-forest/2022/12/googles-water-use-is-soaring-in-the-dalles-records-show-with-two-more-data-centers-to-come.html)
-- [Is it time to consider systematic data destruction policies?](https://news.ycombinator.com/item?id=34133721)
-- [The Canon Cat: the little computer that could have changed the world](https://adventofcomputing.libsyn.com/episode-98-the-canon-cat?tdest_id=1264190)
-- [Three power substations vandalized in Washington state, over 14K lost power](https://abcnews.go.com/US/2-power-substations-attacked-washington-state-7k-lost/story?id=95812232)
-- [Happy Birthday to Jesus&#39; Twin Sister, the Vampire Camilla](https://gizmodo.com/lupin-iii-christmas-jesus-sister-vampire-camilla-1849927775)
-- [Staff+ engineers, how do you learn new technologies at a new company?](https://news.ycombinator.com/item?id=34133673)
-- [Toronto&#39;s Christmas Meal for the Homeless](https://www.youtube.com/watch?v=0PP8bWDQjRc)
-- [HDDSuperClone, bypasses the kernel IDE/AHCI/USB stack, released as GPL2](https://github.com/thesourcerer8/hddsuperclone)
+- [Godfather Android Malware Targets 400 Banks and Crypto Exchanges](https://www.extremetech.com/mobile/341778-godfather-android-malware-targets-400-banks-and-crypto-exchanges)
+- [NPM package to navigate and manipulate the TypeScript AST](https://ts-morph.com/)
+- [Cycles of Work](https://letterstoanewdeveloper.com/2022/12/26/cycles-of-work/)
+- [Password Storage Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html)
+- [2022 has been a year of brutal inflation](https://finance.yahoo.com/news/2022-brutal-inflation-165654303.html)
+- [Ask HN: LastPass hack: deleted LP accounts?](https://news.ycombinator.com/item?id=34144167)
+- [US consumer spending stalls even as inflation eases](https://www.ft.com/content/aeecce94-7e30-4291-9dbe-86820567e1ef)
+- [Trading Games](https://ofdollarsanddata.com/trading-games/)
+- [Coracle – a web client for the Nostr protocol](https://coracle.social)
+- [Ask HN: Any tips for dealing with the anxiety of having written bad code?](https://news.ycombinator.com/item?id=34144093)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

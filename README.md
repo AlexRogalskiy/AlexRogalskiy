@@ -355,6 +355,8 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [The top 12 tech stories of 2022](https://www.computerworld.com/article/3684170/the-top-12-tech-stories-of-2022.html#tk.rss_all)
+- [What to expect from Apple in 2023](https://www.computerworld.com/article/3683269/what-to-expect-from-apple-in-2023.html#tk.rss_all)
 - [Tips for new tech devices](https://www.computerworld.com/article/3153208/tips-for-new-tech-devices.html#tk.rss_all)
 - [Why enterprises should embrace remote work in 2023](https://www.computerworld.com/article/3684050/why-enterprises-should-embrace-remote-work-in-2023.html#tk.rss_all)
 - [2022&#39;s top Google Assistant advice for Android](https://www.computerworld.com/article/3682776/google-assistant-android-2022.html#tk.rss_all)
@@ -363,8 +365,6 @@
 - [The 7 best productivity improvements Apple introduced in 2022](https://www.computerworld.com/article/3683890/the-7-best-productivity-improvements-apple-introduced-in-2022.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [The top Google Pixel tips of 2022](https://www.computerworld.com/article/3682775/google-pixel-tips-2022.html#tk.rss_all)
-- [How to use Excel macros to save time and automate your work](https://www.computerworld.com/article/3678210/how-to-use-excel-macros-save-time-automate-work.html#tk.rss_all)
-- [As the EU embraces cell phone calls on planes, could the US be next?](https://www.computerworld.com/article/3683310/as-the-eu-embraces-cell-phone-calls-on-planes-could-the-us-be-next.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

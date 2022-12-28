@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Australia v South Africa: second Test, day two – live](https://www.theguardian.com/sport/live/2022/dec/27/australia-v-south-africa-second-test-day-two-live)
-- [Russia-Ukraine war at a glance: what we know on day 307 of the invasion](https://www.theguardian.com/world/2022/dec/27/russia-ukraine-war-at-a-glance-what-we-know-on-day-307-of-the-invasion)
-- [US braces for more deaths as ‘blizzard of the century’ grips nation](https://www.theguardian.com/us-news/2022/dec/27/us-braces-for-more-deaths-as-blizzard-of-the-century-grips-nation)
-- [A solitary morning ocean swim is a salty sanctuary for introverts like me | Rose Saltman](https://www.theguardian.com/commentisfree/2022/dec/27/a-solitary-morning-ocean-swim-is-a-salty-sanctuary-for-introverts-like-me)
-- [UK government TV ad urges households to take 30 seconds to reduce energy bills](https://www.theguardian.com/business/2022/dec/27/uk-government-tv-ad-urges-households-to-take-30-seconds-to-reduce-energy-bills)
-- [Four people drown in Australian waterways over Christmas weekend](https://www.theguardian.com/australia-news/2022/dec/27/four-people-drown-in-australian-waterways-over-christmas-weekend)
-- [Liverpool agree initial £37m deal for Cody Gakpo with PSV Eindhoven](https://www.theguardian.com/football/2022/dec/26/liverpool-cody-gakpo-psv-eindhoven)
-- [The Crown and Blake’s 7 actor Stephen Greif dies at 78](https://www.theguardian.com/tv-and-radio/2022/dec/26/the-crown-and-blakes-7-actor-stephen-greif-dies-at-78)
-- [Detectorists Christmas Special review – the best thing you will watch all festive period](https://www.theguardian.com/tv-and-radio/2022/dec/26/detectorists-christmas-special-review-the-best-thing-you-will-watch-all-festive-period)
-- [Nketiah rounds off recovery as Arsenal beat West Ham and go seven clear at top](https://www.theguardian.com/football/2022/dec/26/arsenal-west-ham-premier-league-match-report)
+- [Australia v South Africa: second Test, day three – live](https://www.theguardian.com/sport/live/2022/dec/28/australia-v-south-africa-second-test-day-three-live)
+- [Security council tells Taliban to reverse restrictions on women in Afghanistan](https://www.theguardian.com/world/2022/dec/28/security-council-tells-taliban-to-reverse-restrictions-on-women-in-afghanistan)
+- [US supreme court refuses to lift pandemic-era immigration limit](https://www.theguardian.com/law/2022/dec/27/us-supreme-court-pandemic-era-immigration-limit-title-42)
+- [New York winter storm death toll at 34 with more snow on the way](https://www.theguardian.com/us-news/2022/dec/27/new-york-snowstorm-death-toll-us-winter-storm-buffalo)
+- [Dozens of Iran protesters facing charges punishable by death – rights group](https://www.theguardian.com/world/2022/dec/28/dozens-of-iran-protesters-facing-charges-punishable-by-death-rights-group)
+- [PDC world darts: Huybrechts shocks Wright and Price routs Van Barneveld](https://www.theguardian.com/sport/2022/dec/27/reigning-pdc-darts-champion-peter-wright-knocked-out-by-huybrechts)
+- [Russia-Ukraine war at a glance: what we know on day 308 of the invasion](https://www.theguardian.com/world/2022/dec/28/russia-ukraine-war-at-a-glance-what-we-know-on-day-308-of-the-invasion)
+- [£1.4bn devolution deal for north-east England announced](https://www.theguardian.com/politics/2022/dec/28/14bn-devolution-deal-for-north-east-england-announced)
+- [Scientists develop blood test for Alzheimer’s disease](https://www.theguardian.com/society/2022/dec/28/scientists-develop-blood-test-for-alzheimers-disease)
+- [Talking Horses: A Plus Tard looking to bounce back in Savills Chase](https://www.theguardian.com/sport/blog/2022/dec/28/talking-horses-a-plus-tard-looking-to-bounce-back-in-savills-chase)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

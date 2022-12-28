@@ -355,6 +355,8 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Did Microsoft make a bad $69B bet on Activision Blizzard?](https://www.computerworld.com/article/3683214/did-microsoft-make-a-bad-69b-bet-on-activision-blizzard.html#tk.rss_all)
+- [Handy PowerPoint keyboard shortcuts for Windows and Mac](https://www.computerworld.com/article/3682669/handy-powerpoint-keyboard-shortcuts-for-windows-and-mac.html#tk.rss_all)
 - [The top 12 tech stories of 2022](https://www.computerworld.com/article/3684170/the-top-12-tech-stories-of-2022.html#tk.rss_all)
 - [What to expect from Apple in 2023](https://www.computerworld.com/article/3683269/what-to-expect-from-apple-in-2023.html#tk.rss_all)
 - [Tips for new tech devices](https://www.computerworld.com/article/3153208/tips-for-new-tech-devices.html#tk.rss_all)
@@ -363,8 +365,6 @@
 - [Why it makes sense for Apple to join the ‘Fediverse’](https://www.computerworld.com/article/3684008/why-it-makes-sense-for-apple-to-join-the-fediverse.html#tk.rss_all)
 - [As China pushes its digital currency plans, the US falls behind](https://www.computerworld.com/article/3683968/as-china-pushes-its-digital-currency-plans-the-us-falls-behind.html#tk.rss_all)
 - [The 7 best productivity improvements Apple introduced in 2022](https://www.computerworld.com/article/3683890/the-7-best-productivity-improvements-apple-introduced-in-2022.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [The top Google Pixel tips of 2022](https://www.computerworld.com/article/3682775/google-pixel-tips-2022.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

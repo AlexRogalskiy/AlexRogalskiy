@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Godfather Android Malware Targets 400 Banks and Crypto Exchanges](https://www.extremetech.com/mobile/341778-godfather-android-malware-targets-400-banks-and-crypto-exchanges)
-- [NPM package to navigate and manipulate the TypeScript AST](https://ts-morph.com/)
-- [Cycles of Work](https://letterstoanewdeveloper.com/2022/12/26/cycles-of-work/)
-- [Password Storage Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html)
-- [2022 has been a year of brutal inflation](https://finance.yahoo.com/news/2022-brutal-inflation-165654303.html)
-- [Ask HN: LastPass hack: deleted LP accounts?](https://news.ycombinator.com/item?id=34144167)
-- [US consumer spending stalls even as inflation eases](https://www.ft.com/content/aeecce94-7e30-4291-9dbe-86820567e1ef)
-- [Trading Games](https://ofdollarsanddata.com/trading-games/)
-- [Coracle – a web client for the Nostr protocol](https://coracle.social)
-- [Ask HN: Any tips for dealing with the anxiety of having written bad code?](https://news.ycombinator.com/item?id=34144093)
+- [New iPad Mini could be a year away](https://www.theverge.com/2022/12/27/23527746/ipad-mini-new-chip-rumor-date-specs)
+- [Stranger Things and the Amiga 1000](https://www.datagubbe.se/stranger/)
+- [Installing an Ethernet card and video card and other upgrades for a Mac SE/30](https://biosrhythm.com/?p=2413)
+- [AI Is Now Essential National Infrastructure](https://www.wired.com/story/digital-infrastructure-artificial-intelligence/)
+- [F/0.3 – The Impossible Lens – Building a Large Format DoF Movie Camera](https://www.youtube.com/watch?v=-4uzyhbDFas)
+- [Is the profitable business of scientific publishing bad for science? &lpar;2017&rpar;](https://www.theguardian.com/science/2017/jun/27/profitable-business-scientific-publishing-bad-for-science)
+- [China’s $1.3 Trillion Housing Crackdown Leaves Few Winners](https://www.bloomberg.com/news/articles/2022-12-28/-1-3-trillion-china-housing-crackdown-hasn-t-fixed-unaffordable-property-market)
+- [Southwest Air Memos Showed Growing Alarm on Eve of Epic Winter Storm](https://www.bloomberg.com/news/articles/2022-12-27/southwest-memos-showed-growing-alarm-on-eve-of-epic-winter-storm)
+- [Microsoft Edge is actually good](https://www.theverge.com/23523118/microsoft-edge-browser-chrome-internet-firefox-explorer)
+- [Electric Car tzero 0-60 3.6 SEC faster than Tesla Roadster [video]](https://www.youtube.com/watch?v=gb9E222QsM0)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

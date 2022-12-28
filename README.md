@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Show HN: How many advertising panels in Sydney are near a public telephone?](https://observablehq.com/@mjbo/sydney-qms-panel-public-telephone-pairings)
-- [Running Windows 7 on a 5 MHz CPU with 128MB of RAM](https://www.tomshardware.com/news/windows-7-runs-at-5-mhz)
-- [Rigs of Rods: free and open source vehicle simulator that uses soft-body physics](https://www.rigsofrods.org/)
-- [Creepy Website Similarity](https://memex.marginalia.nu/log/69-creepy-website-similarity.gmi)
-- [Binary Posters](https://github.com/corkami/pics/blob/master/binary/README.md)
-- [Are You Really Losing Weight?](https://jasmcole.com/2022/02/10/losing-it/)
-- [A Visual Guide to React&#39;s useEffect](https://alexsidorenko.com/blog/useeffect/)
-- [The Tipping Point: How France Changed the Tides of the American Revolution](https://www.battlefields.org/learn/articles/how-france-helped-win-american-revolution)
-- [Mold linker: targeting macOS/iOS now requires a commercial license](https://github.com/rui314/mold/releases/tag/v1.8.0)
-- [eBay, Etsy and other marketplaces on brink of having to disclose seller details](https://www.eseller365.com/ebay-etsy-inform-act-hidden-spending-bill/)
+- [Ventura Issues](https://mjtsai.com/blog/2022/12/27/ventura-issues/)
+- [Existing smartphones will connect with new satellite constellations in 2023](https://spectrum.ieee.org/satellite-cellphone)
+- [Added 49 volumes of Arkansas, Mississippi, and Tennessee law](https://official.resource.org/@carlmalamud/109582097911957160)
+- [Beaker Browser is now archived](https://github.com/beakerbrowser/beaker/blob/master/archive-notice.md)
+- [Vandals destroy 30k-year-old indigenous cave drawings in Australia](https://www.smithsonianmag.com/smart-news/30000-year-old-indigenous-cave-drawings-in-australia-have-been-destroyed-180981363/)
+- [How RISC-V Timer Interrupts Work](https://danielmangum.com/posts/risc-v-bytes-timer-interrupts/)
+- [Brooklyn Bar Menu Generator &lpar;2015&rpar;](https://www.brooklynbarmenus.com)
+- [KMSCon – A Userspace System Console That Does Not Depend on Any Graphics Server](https://cgit.freedesktop.org/~dvdhrm/kmscon/plain/README)
+- [Experian Vulnerability Shows Any Report with just SSN, DOB, ADR](https://infosec.exchange/@briankrebs/109587022002246891)
+- [When Algorithms Rule, Values Can Wither](https://sloanreview.mit.edu/article/when-algorithms-rule-values-can-wither/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

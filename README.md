@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Australia v South Africa: second Test, day three – live](https://www.theguardian.com/sport/live/2022/dec/28/australia-v-south-africa-second-test-day-three-live)
-- [Security council tells Taliban to reverse restrictions on women in Afghanistan](https://www.theguardian.com/world/2022/dec/28/security-council-tells-taliban-to-reverse-restrictions-on-women-in-afghanistan)
-- [US supreme court refuses to lift pandemic-era immigration limit](https://www.theguardian.com/law/2022/dec/27/us-supreme-court-pandemic-era-immigration-limit-title-42)
-- [New York winter storm death toll at 34 with more snow on the way](https://www.theguardian.com/us-news/2022/dec/27/new-york-snowstorm-death-toll-us-winter-storm-buffalo)
-- [Dozens of Iran protesters facing charges punishable by death – rights group](https://www.theguardian.com/world/2022/dec/28/dozens-of-iran-protesters-facing-charges-punishable-by-death-rights-group)
-- [PDC world darts: Huybrechts shocks Wright and Price routs Van Barneveld](https://www.theguardian.com/sport/2022/dec/27/reigning-pdc-darts-champion-peter-wright-knocked-out-by-huybrechts)
-- [Russia-Ukraine war at a glance: what we know on day 308 of the invasion](https://www.theguardian.com/world/2022/dec/28/russia-ukraine-war-at-a-glance-what-we-know-on-day-308-of-the-invasion)
-- [£1.4bn devolution deal for north-east England announced](https://www.theguardian.com/politics/2022/dec/28/14bn-devolution-deal-for-north-east-england-announced)
-- [Scientists develop blood test for Alzheimer’s disease](https://www.theguardian.com/society/2022/dec/28/scientists-develop-blood-test-for-alzheimers-disease)
-- [Talking Horses: A Plus Tard looking to bounce back in Savills Chase](https://www.theguardian.com/sport/blog/2022/dec/28/talking-horses-a-plus-tard-looking-to-bounce-back-in-savills-chase)
+- [Australia v South Africa: second Test, day four – live](https://www.theguardian.com/sport/live/2022/dec/29/australia-v-south-africa-second-test-day-four-live)
+- [Peru’s ousted president Pedro Castillo says he is a victim of ‘political revenge’](https://www.theguardian.com/world/2022/dec/29/perus-ousted-president-pedro-castillo-says-he-is-a-victim-of-political-revenge)
+- [Twitter users report global outage with many unable to log into website or app](https://www.theguardian.com/technology/2022/dec/29/twitter-users-report-global-outage-with-many-unable-to-log-into-website-or-app)
+- [Bolivian opposition leader Luis Fernando Camacho arrested on ‘terrorism’ charges](https://www.theguardian.com/world/2022/dec/29/bolivian-opposition-leader-luis-fernando-camachos-whereabouts-unknown-after-police-arrest)
+- [My 104-year-old Nan’s secret to a long life | Lewis Isaacs](https://www.theguardian.com/commentisfree/2022/dec/29/my-104-year-old-nans-secret-to-a-long-life)
+- [Myanmar’s junta blamed for deaths of more than 160 children in 2022](https://www.theguardian.com/world/2022/dec/29/myanmars-junta-blamed-for-deaths-of-more-than-160-children-in-2022)
+- [Russia-Ukraine war at a glance: what we know on day 309 of the invasion](https://www.theguardian.com/world/2022/dec/29/russia-ukraine-war-at-a-glance-what-we-know-on-day-309-of-the-invasion)
+- [Rishi Sunak needs ‘exit strategy’ from ‘1980s playbook’ on strikes, says TUC](https://www.theguardian.com/politics/2022/dec/29/rishi-sunak-needs-exit-strategy-from-1980s-playbook-on-strikes-says-tuc)
+- [Women with restricted abortion access may face higher suicide risk – study](https://www.theguardian.com/us-news/2022/dec/28/women-restricted-abortion-access-higher-suicide-risk)
+- [Pep Guardiola: fit and firing Erling Haaland will only get better](https://www.theguardian.com/football/2022/dec/28/pep-guardiola-fit-and-firing-erling-haaland-will-only-get-better)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

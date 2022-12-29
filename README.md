@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [New iPad Mini could be a year away](https://www.theverge.com/2022/12/27/23527746/ipad-mini-new-chip-rumor-date-specs)
-- [Stranger Things and the Amiga 1000](https://www.datagubbe.se/stranger/)
-- [Installing an Ethernet card and video card and other upgrades for a Mac SE/30](https://biosrhythm.com/?p=2413)
-- [AI Is Now Essential National Infrastructure](https://www.wired.com/story/digital-infrastructure-artificial-intelligence/)
-- [F/0.3 – The Impossible Lens – Building a Large Format DoF Movie Camera](https://www.youtube.com/watch?v=-4uzyhbDFas)
-- [Is the profitable business of scientific publishing bad for science? &lpar;2017&rpar;](https://www.theguardian.com/science/2017/jun/27/profitable-business-scientific-publishing-bad-for-science)
-- [China’s $1.3 Trillion Housing Crackdown Leaves Few Winners](https://www.bloomberg.com/news/articles/2022-12-28/-1-3-trillion-china-housing-crackdown-hasn-t-fixed-unaffordable-property-market)
-- [Southwest Air Memos Showed Growing Alarm on Eve of Epic Winter Storm](https://www.bloomberg.com/news/articles/2022-12-27/southwest-memos-showed-growing-alarm-on-eve-of-epic-winter-storm)
-- [Microsoft Edge is actually good](https://www.theverge.com/23523118/microsoft-edge-browser-chrome-internet-firefox-explorer)
-- [Electric Car tzero 0-60 3.6 SEC faster than Tesla Roadster [video]](https://www.youtube.com/watch?v=gb9E222QsM0)
+- [Oresteia: Murder, Infidelity, Vengeance, Juries](https://en.wikipedia.org/wiki/Oresteia)
+- [Space Force takes over all military satellite communications](https://www.stripes.com/branches/space_force/2022-12-28/space-force-satellite-communications-8566158.html)
+- [Is Elon Musk the Greatest Genius of Our Time? Sure](https://thedipierro.com/sell-your-soul-to-elon-musk/)
+- [Win7 Simu – Experience Windows 7 in your web browser](https://win7simu.visnalize.com/)
+- [ChatGPT Banned on Chinese Social Media App WeChat](https://voicebot.ai/2022/12/28/chatgpt-banned-on-chinese-social-media-app-wechat/)
+- [The Last Institutions](https://www.city-journal.org/the-last-institutions)
+- [Twitter Outages](https://news.ycombinator.com/item?id=34168652)
+- [Twitter down for thousands of users](https://www.reuters.com/technology/twitter-down-thousands-users-downdetectorcom-2022-12-29/)
+- [I’m thankful for US public libraries – beautiful icons of a better civic era](https://www.theguardian.com/commentisfree/2022/dec/28/usa-public-libraries)
+- [Elon Musk tells Tesla employees don’t be ‘bothered by stock market craziness’](https://www.cnbc.com/2022/12/28/elon-musk-tells-tesla-employees-to-ignore-stock-market-craziness.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

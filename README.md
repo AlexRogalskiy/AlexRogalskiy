@@ -355,6 +355,7 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [14 tech luminaries we lost in 2022](https://www.computerworld.com/article/3682772/14-tech-luminaries-we-lost-in-2022.html#tk.rss_all)
 - [US-China chip war puts global enterprises in the crosshairs](https://www.computerworld.com/article/3683790/us-china-chip-war-puts-global-enterprises-in-the-crosshairs.html#tk.rss_all)
 - [The top Chromebook tips of 2022](https://www.computerworld.com/article/3328830/chromebook-tips-2022.html#tk.rss_all)
 - [Did Microsoft make a bad $69B bet on Activision Blizzard?](https://www.computerworld.com/article/3683214/did-microsoft-make-a-bad-69b-bet-on-activision-blizzard.html#tk.rss_all)
@@ -364,7 +365,6 @@
 - [Tips for new tech devices](https://www.computerworld.com/article/3153208/tips-for-new-tech-devices.html#tk.rss_all)
 - [Why enterprises should embrace remote work in 2023](https://www.computerworld.com/article/3684050/why-enterprises-should-embrace-remote-work-in-2023.html#tk.rss_all)
 - [2022&#39;s top Google Assistant advice for Android](https://www.computerworld.com/article/3682776/google-assistant-android-2022.html#tk.rss_all)
-- [Why it makes sense for Apple to join the ‘Fediverse’](https://www.computerworld.com/article/3684008/why-it-makes-sense-for-apple-to-join-the-fediverse.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

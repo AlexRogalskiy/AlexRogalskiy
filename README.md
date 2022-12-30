@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Oresteia: Murder, Infidelity, Vengeance, Juries](https://en.wikipedia.org/wiki/Oresteia)
-- [Space Force takes over all military satellite communications](https://www.stripes.com/branches/space_force/2022-12-28/space-force-satellite-communications-8566158.html)
-- [Is Elon Musk the Greatest Genius of Our Time? Sure](https://thedipierro.com/sell-your-soul-to-elon-musk/)
-- [Win7 Simu – Experience Windows 7 in your web browser](https://win7simu.visnalize.com/)
-- [ChatGPT Banned on Chinese Social Media App WeChat](https://voicebot.ai/2022/12/28/chatgpt-banned-on-chinese-social-media-app-wechat/)
-- [The Last Institutions](https://www.city-journal.org/the-last-institutions)
-- [Twitter Outages](https://news.ycombinator.com/item?id=34168652)
-- [Twitter down for thousands of users](https://www.reuters.com/technology/twitter-down-thousands-users-downdetectorcom-2022-12-29/)
-- [I’m thankful for US public libraries – beautiful icons of a better civic era](https://www.theguardian.com/commentisfree/2022/dec/28/usa-public-libraries)
-- [Elon Musk tells Tesla employees don’t be ‘bothered by stock market craziness’](https://www.cnbc.com/2022/12/28/elon-musk-tells-tesla-employees-to-ignore-stock-market-craziness.html)
+- [Live Typer](https://livetyper.com/)
+- [What the Fediverse &lpar;does/n&#39;t&rpar; solve](https://pluralistic.net/2022/12/23/semipermeable-membranes/#free-as-in-puppies)
+- [An Interview with a Ukrainian Pilot](https://wartranslated.com/interviewkaraya/)
+- [New Biomarker Test Can Detect Alzheimer’s Neurodegeneration in Blood](https://www.upmc.com/media/news/122722-alzheimers-neurodegeneration)
+- [CIA and FBI can neither confirm nor deny they know about TAILS operating system](https://lunduke.substack.com/p/cia-and-fbi-can-neither-confirm-nor)
+- [Annotated history of modern AI and deep neural networks](https://people.idsia.ch/~juergen/deep-learning-history.html)
+- [Cancer free after immunotherapy trial](https://www.theguardian.com/science/2022/dec/30/man-year-to-live-now-cancer-free-after-immunotherapy-trial)
+- [Funeral of STALKER dev V. Yezhov killed in action. Interview with widow [video]](https://www.rferl.org/a/ukraine-developer-stalker-video-game-killed-bakhmut/32197490.html)
+- [Topic Analysis of App Store Reviews: A Heatmap Approach with App Store Reviews](https://serpapi.com/blog/topic-analysis-of-app-store-reviews-a-heatmap-approach-with-the-app-store-reviews-scraper-api/)
+- [React Admin: React Framework for B2B Apps](https://marmelab.com/react-admin/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Australia v South Africa: second Test, day four – live](https://www.theguardian.com/sport/live/2022/dec/29/australia-v-south-africa-second-test-day-four-live)
-- [Peru’s ousted president Pedro Castillo says he is a victim of ‘political revenge’](https://www.theguardian.com/world/2022/dec/29/perus-ousted-president-pedro-castillo-says-he-is-a-victim-of-political-revenge)
-- [Twitter users report global outage with many unable to log into website or app](https://www.theguardian.com/technology/2022/dec/29/twitter-users-report-global-outage-with-many-unable-to-log-into-website-or-app)
-- [Bolivian opposition leader Luis Fernando Camacho arrested on ‘terrorism’ charges](https://www.theguardian.com/world/2022/dec/29/bolivian-opposition-leader-luis-fernando-camachos-whereabouts-unknown-after-police-arrest)
-- [My 104-year-old Nan’s secret to a long life | Lewis Isaacs](https://www.theguardian.com/commentisfree/2022/dec/29/my-104-year-old-nans-secret-to-a-long-life)
-- [Myanmar’s junta blamed for deaths of more than 160 children in 2022](https://www.theguardian.com/world/2022/dec/29/myanmars-junta-blamed-for-deaths-of-more-than-160-children-in-2022)
-- [Russia-Ukraine war at a glance: what we know on day 309 of the invasion](https://www.theguardian.com/world/2022/dec/29/russia-ukraine-war-at-a-glance-what-we-know-on-day-309-of-the-invasion)
-- [Rishi Sunak needs ‘exit strategy’ from ‘1980s playbook’ on strikes, says TUC](https://www.theguardian.com/politics/2022/dec/29/rishi-sunak-needs-exit-strategy-from-1980s-playbook-on-strikes-says-tuc)
-- [Women with restricted abortion access may face higher suicide risk – study](https://www.theguardian.com/us-news/2022/dec/28/women-restricted-abortion-access-higher-suicide-risk)
-- [Pep Guardiola: fit and firing Erling Haaland will only get better](https://www.theguardian.com/football/2022/dec/28/pep-guardiola-fit-and-firing-erling-haaland-will-only-get-better)
+- [Pelé dies aged 82: tributes paid to a football great](https://www.theguardian.com/football/live/2022/dec/29/pele-dies-aged-82-tributes-paid-to-a-football-great-live-updates-and-reaction)
+- [The day I met a teenage Pelé, ‘the greatest advertisement Brazil ever had’](https://www.theguardian.com/football/2022/dec/30/the-day-i-met-a-teenage-pele-the-greatest-advertisement-brazil-ever-had)
+- [Andrew Tate detained in Romania on organised crime and rape charges](https://www.theguardian.com/world/2022/dec/30/andrew-tate-detained-in-romania-on-organised-and-charges)
+- [Russia-Ukraine war at a glance: what we know on day 310 of the invasion](https://www.theguardian.com/world/2022/dec/30/russia-ukraine-war-at-a-glance-what-we-know-on-day-310-of-the-invasion)
+- [Remembering Vivienne Westwood: ‘The rebel who was never without a cause’](https://www.theguardian.com/fashion/2022/dec/30/vivienne-westwood-an-appreciation)
+- [Police: 1,800 officers recruited under Boris Johnson scheme ‘have resigned’](https://www.theguardian.com/uk-news/2022/dec/30/police-1800-officers-recruited-under-boris-johnson-scheme-have-resigned)
+- [Robbie Williams says he sees a lot of himself in Harry Styles](https://www.theguardian.com/music/2022/dec/30/robbie-williams-harry-styles-bbc)
+- [Blair asked Bush during first phone call if he could call him by first name](https://www.theguardian.com/politics/2022/dec/30/blair-bush-first-phone-call-first-name)
+- [‘Groundhog year’: UK disposable incomes to fall by 3.8% in 2023](https://www.theguardian.com/business/2022/dec/30/groundhog-year-uk-disposable-incomes-to-fall-by-38-in-2023)
+- [Man given a year to live now cancer-free after immunotherapy trial](https://www.theguardian.com/science/2022/dec/30/man-year-to-live-now-cancer-free-after-immunotherapy-trial)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

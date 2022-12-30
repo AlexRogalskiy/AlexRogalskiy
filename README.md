@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [GPT3/DALL-E2 in Discord, chat like ChatGPT, generate images, and more](https://github.com/Kav-K/GPT3Discord)
-- [Hiding in Plain Sight](https://www.laphamsquarterly.org/democracy/hiding-plain-sight)
-- [ChatBCG: Generative AI For Slides](https://www.chatbcg.com/)
-- [Build your front end in React, then let ChatGPT be your Redux reducer](https://spindas.dreamwidth.org/4207.html)
-- [Barnes and Noble&#39;s surprising turnaround](https://tedgioia.substack.com/p/what-can-we-learn-from-barnes-and)
-- [Why Solana was decimated by Bankman-Fried’s downfall](https://www.coindesk.com/consensus-magazine/2022/12/28/why-solana-was-decimated-by-bankman-frieds-downfall/)
-- [Golden Cove’s Lopsided Vector Register File](https://chipsandcheese.com/2022/12/25/golden-coves-lopsided-vector-register-file/)
-- [The 68k Wars: The Age of Multimedia &lpar;2017&rpar;](https://www.filfre.net/2017/10/the-68000-wars-part-5-the-age-of-multimedia/)
-- [“Why We Sleep” is riddled with scientific and factual errors &lpar;2019&rpar;](https://guzey.com/books/why-we-sleep/)
-- [A goblet which arbitrates during drinking parties &lpar;2019&rpar;](https://aljazaribook.com/en/2019/10/15/a-goblet-which-arbitrates_en/)
+- [Poll: What&#39;s the best laptop for Linux these days?](https://news.ycombinator.com/item?id=34180508)
+- [ChatGPT Political Compass](https://www.gptoverflow.link/question/1519492600837443584/chatgpt-political-compass)
+- [Kagi – Paid Search Engine](https://kagi.com:443/)
+- [This adventure starts with git-lfs](https://withinboredom.info/blog/2022/12/29/golang-is-evil-on-shitty-networks/)
+- [I&#39;m just trying to change this lightbulb &lpar;2014&rpar;](https://www.mikesteder.com/engineering/management/gifs/software/illustrated/2014/12/31/software-engineering-illustrated-im-just-trying-to-change-this-lightbulb.html)
+- [Freenet build 1495: new user experience and performance](https://freenetproject.org/freenet-build-1495-new-user-experience-and-performance.html)
+- [The IE 11 user-agent forced Mozilla to freeze part of its user-agent string](https://miketaylr.com/posts/2022/12/how-the-IE-11-ua-string-broke-sites-in-firefox.html)
+- [Stone tablet shows Babylonians able to approximate √2 with 99.9999% accuracy](https://twitter.com/tivadardanka/status/1608419325706391554)
+- [Unintended consequences of blocking IP addresses](https://blog.cloudflare.com/consequences-of-ip-blocking/)
+- [Endless Horse](http://endless.horse)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Poll: What&#39;s the best laptop for Linux these days?](https://news.ycombinator.com/item?id=34180508)
-- [ChatGPT Political Compass](https://www.gptoverflow.link/question/1519492600837443584/chatgpt-political-compass)
-- [Kagi – Paid Search Engine](https://kagi.com:443/)
-- [This adventure starts with git-lfs](https://withinboredom.info/blog/2022/12/29/golang-is-evil-on-shitty-networks/)
-- [I&#39;m just trying to change this lightbulb &lpar;2014&rpar;](https://www.mikesteder.com/engineering/management/gifs/software/illustrated/2014/12/31/software-engineering-illustrated-im-just-trying-to-change-this-lightbulb.html)
-- [Freenet build 1495: new user experience and performance](https://freenetproject.org/freenet-build-1495-new-user-experience-and-performance.html)
-- [The IE 11 user-agent forced Mozilla to freeze part of its user-agent string](https://miketaylr.com/posts/2022/12/how-the-IE-11-ua-string-broke-sites-in-firefox.html)
-- [Stone tablet shows Babylonians able to approximate √2 with 99.9999% accuracy](https://twitter.com/tivadardanka/status/1608419325706391554)
-- [Unintended consequences of blocking IP addresses](https://blog.cloudflare.com/consequences-of-ip-blocking/)
-- [Endless Horse](http://endless.horse)
+- [Seattle tech worker charged for theft inspired by the movie &#39;Office Space&#39;](https://komonews.com/news/local/seattle-tech-worker-charged-for-theft-inspired-by-the-movie-office-space)
+- [Decentralized storage company Storj removed their warrant canary](https://www.storj.io/canary.txt)
+- [This Year I Will Write More](https://candrewlee14.github.io/blog/i-will-write-more/)
+- [SouthwestAirlines&#39; Meltdown Shows How Corporations Pit Consumers Against Workers](https://thecolumn.substack.com/p/southwest-airlines-christmas-meltdown)
+- [Young adults are struggling with their mental health](https://www.kqed.org/mindshift/60624/young-adults-are-struggling-with-their-mental-health-is-more-childhood-independence-the-answer)
+- [Control Pandas, Polars, or SQL from One DSL](https://github.com/WinVector/data_algebra)
+- [I wrote a SQL engine in Python](https://github.com/marsupialtail/quokka/blob/master/blog/why.md)
+- [What are those dents in I-90 outside Seattle?](https://boards.straightdope.com/t/what-are-those-dents-in-i-90-outside-seattle/422061/30)
+- [Show HN: RSS Brain](https://www.rssbrain.com/)
+- [Phoenix 1.7 is View-less](https://www.germanvelasco.com/blog/phoenix-1-7-is-view-less)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

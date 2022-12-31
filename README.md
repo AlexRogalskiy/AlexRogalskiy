@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Live Typer](https://livetyper.com/)
-- [What the Fediverse &lpar;does/n&#39;t&rpar; solve](https://pluralistic.net/2022/12/23/semipermeable-membranes/#free-as-in-puppies)
-- [An Interview with a Ukrainian Pilot](https://wartranslated.com/interviewkaraya/)
-- [New Biomarker Test Can Detect Alzheimer’s Neurodegeneration in Blood](https://www.upmc.com/media/news/122722-alzheimers-neurodegeneration)
-- [CIA and FBI can neither confirm nor deny they know about TAILS operating system](https://lunduke.substack.com/p/cia-and-fbi-can-neither-confirm-nor)
-- [Annotated history of modern AI and deep neural networks](https://people.idsia.ch/~juergen/deep-learning-history.html)
-- [Cancer free after immunotherapy trial](https://www.theguardian.com/science/2022/dec/30/man-year-to-live-now-cancer-free-after-immunotherapy-trial)
-- [Funeral of STALKER dev V. Yezhov killed in action. Interview with widow [video]](https://www.rferl.org/a/ukraine-developer-stalker-video-game-killed-bakhmut/32197490.html)
-- [Topic Analysis of App Store Reviews: A Heatmap Approach with App Store Reviews](https://serpapi.com/blog/topic-analysis-of-app-store-reviews-a-heatmap-approach-with-the-app-store-reviews-scraper-api/)
-- [React Admin: React Framework for B2B Apps](https://marmelab.com/react-admin/)
+- [Migrate from S3 with Cloudflare R2 Super Slurper](https://blog.cloudflare.com/cloudflare-r2-super-slurper/)
+- [Ask HN: What is your new year&#39;s resolution?](https://news.ycombinator.com/item?id=34192647)
+- [My First Impressions of Tailscale](https://maxniederman.com/posts/tailscale-impressions/)
+- [GNSS for Precion Guided Weapons](http://ael.cbnu.ac.kr/ael/research/technology_handbook/GNSS/GNSS-for-precision-guided-munitions.htm)
+- [Unusul order of JavaScript Object properties](https://codepipet.com/javascript-unusual-order-for-object-properties/)
+- [Inspired by Office Space film, software engineer steals over $300K](https://lite.cnn.com/en/article/h_4afd9fe62c9277cc16d1c822cede510c)
+- [What I Learned: studying for certifications](https://rkulidzan.com/2022/02/16/what-i-learned-studying-for-certifications/)
+- [Show HN: Hoverflow – Nested browsing for wikis and docs](https://hoverflow.io)
+- [Neil Howe: The Fourth Turning Has Begun, How Will It Unfold?](https://www.youtube.com/watch?v=u9EmSI12raQ)
+- [Tulip Mania](https://en.wikipedia.org/wiki/Tulip_mania)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

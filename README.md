@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Pelé dies aged 82: tributes paid to a football great](https://www.theguardian.com/football/live/2022/dec/29/pele-dies-aged-82-tributes-paid-to-a-football-great-live-updates-and-reaction)
-- [The day I met a teenage Pelé, ‘the greatest advertisement Brazil ever had’](https://www.theguardian.com/football/2022/dec/30/the-day-i-met-a-teenage-pele-the-greatest-advertisement-brazil-ever-had)
-- [Andrew Tate detained in Romania on organised crime and rape charges](https://www.theguardian.com/world/2022/dec/30/andrew-tate-detained-in-romania-on-organised-and-charges)
-- [Russia-Ukraine war at a glance: what we know on day 310 of the invasion](https://www.theguardian.com/world/2022/dec/30/russia-ukraine-war-at-a-glance-what-we-know-on-day-310-of-the-invasion)
-- [Remembering Vivienne Westwood: ‘The rebel who was never without a cause’](https://www.theguardian.com/fashion/2022/dec/30/vivienne-westwood-an-appreciation)
-- [Police: 1,800 officers recruited under Boris Johnson scheme ‘have resigned’](https://www.theguardian.com/uk-news/2022/dec/30/police-1800-officers-recruited-under-boris-johnson-scheme-have-resigned)
-- [Robbie Williams says he sees a lot of himself in Harry Styles](https://www.theguardian.com/music/2022/dec/30/robbie-williams-harry-styles-bbc)
-- [Blair asked Bush during first phone call if he could call him by first name](https://www.theguardian.com/politics/2022/dec/30/blair-bush-first-phone-call-first-name)
-- [‘Groundhog year’: UK disposable incomes to fall by 3.8% in 2023](https://www.theguardian.com/business/2022/dec/30/groundhog-year-uk-disposable-incomes-to-fall-by-38-in-2023)
-- [Man given a year to live now cancer-free after immunotherapy trial](https://www.theguardian.com/science/2022/dec/30/man-year-to-live-now-cancer-free-after-immunotherapy-trial)
+- [North Korea fires three ballistic missiles in latest tests](https://www.theguardian.com/world/2022/dec/31/north-korea-fires-ballistic-missile-in-latest-of-barrage-of-tests)
+- [UK’s problems will not ‘go away’, admits Sunak after ‘tough’ 2022](https://www.theguardian.com/politics/2022/dec/31/uks-problems-will-not-go-away-admits-sunak-after-tough-2022)
+- [Ambulance staff reportedly urged to conserve oxygen amid ‘twindemic’](https://www.theguardian.com/society/2022/dec/30/ambulance-staff-reportedly-urged-to-conserve-oxygen-amid-twindemic)
+- [Transgender woman sues female-only app Giggle for Girls for alleged discrimination](https://www.theguardian.com/media/2022/dec/31/transgender-woman-sues-female-only-app-giggle-for-girls-for-alleged-discrimination)
+- [David Moyes accepts he is fighting for his West Ham future amid losing streak](https://www.theguardian.com/football/2022/dec/30/david-moyes-west-ham-future-brentford-defeat)
+- [PDC world darts: Van Gerwen and Smith march on, Cross and Humphries go out](https://www.theguardian.com/sport/2022/dec/30/pdc-world-darts-van-gerwen-and-smith-march-on-cross-and-humphries-go-out)
+- [Wind, ice and flood chaos predicted across Scotland for Hogmanay](https://www.theguardian.com/uk-news/2022/dec/30/wind-ice-and-flood-chaos-predicted-across-scotland-for-hogmanay)
+- [Aerosmith’s Steven Tyler sued for 1970s sexual battery and assault of minor](https://www.theguardian.com/music/2022/dec/30/aerosmith-steven-tyler-lawsuit-sexual-battery-assault)
+- [New year honours 2023: Mary Quant and Lionesses among those recognised](https://www.theguardian.com/uk-news/2022/dec/30/new-year-honours-2023-mary-quant-and-lionesses-among-those-recognised)
+- [Leah Williamson among Lionesses recognised in New Year honours list](https://www.theguardian.com/football/2022/dec/30/leah-williamson-among-lionesses-recognised-in-new-year-honours-list)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

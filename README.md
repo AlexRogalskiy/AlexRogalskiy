@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Seattle tech worker charged for theft inspired by the movie &#39;Office Space&#39;](https://komonews.com/news/local/seattle-tech-worker-charged-for-theft-inspired-by-the-movie-office-space)
-- [Decentralized storage company Storj removed their warrant canary](https://www.storj.io/canary.txt)
-- [This Year I Will Write More](https://candrewlee14.github.io/blog/i-will-write-more/)
-- [SouthwestAirlines&#39; Meltdown Shows How Corporations Pit Consumers Against Workers](https://thecolumn.substack.com/p/southwest-airlines-christmas-meltdown)
-- [Young adults are struggling with their mental health](https://www.kqed.org/mindshift/60624/young-adults-are-struggling-with-their-mental-health-is-more-childhood-independence-the-answer)
-- [Control Pandas, Polars, or SQL from One DSL](https://github.com/WinVector/data_algebra)
-- [I wrote a SQL engine in Python](https://github.com/marsupialtail/quokka/blob/master/blog/why.md)
-- [What are those dents in I-90 outside Seattle?](https://boards.straightdope.com/t/what-are-those-dents-in-i-90-outside-seattle/422061/30)
-- [Show HN: RSS Brain](https://www.rssbrain.com/)
-- [Phoenix 1.7 is View-less](https://www.germanvelasco.com/blog/phoenix-1-7-is-view-less)
+- [Compromised PyTorch-nightly dependency chain December 30th, 2022](https://pytorch.org/blog/compromised-nightly-dependency/)
+- [Compromised PyTorch-nightly dependency chain between December 25th – December 30](https://pytorch.org/blog/compromised-nightly-dependency/)
+- [I did Advent of Code on a Playstation](https://bvisness.me/advent-of-dreams/)
+- [I am not a supplier](https://www.softwaremaxims.com/blog/not-a-supplier)
+- [Tell HN: Happy New Year](https://news.ycombinator.com/item?id=34201366)
+- [Oxytocin, trust, and reciprocity &lpar;2007&rpar;](https://www.hugthemonkey.com/2007/03/paul_zak_oxytoc.html)
+- [Seven stowaways and a hijacked oil tanker](https://www.theguardian.com/world/2022/jun/09/stowaways-oil-tanker-isle-of-wight-hijacking-strange-case-nave-andromeda)
+- [The State of HTTP in 2022](https://blog.cloudflare.com/the-state-of-http-in-2022/)
+- [Large-scale vehicle classification](https://blog.aqnichol.com/2022/12/31/large-scale-vehicle-classification/)
+- [CPU branch prediction evolution over years &lpar;2017&rpar;](https://danluu.com/branch-prediction/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

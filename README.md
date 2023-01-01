@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Migrate from S3 with Cloudflare R2 Super Slurper](https://blog.cloudflare.com/cloudflare-r2-super-slurper/)
-- [Ask HN: What is your new year&#39;s resolution?](https://news.ycombinator.com/item?id=34192647)
-- [My First Impressions of Tailscale](https://maxniederman.com/posts/tailscale-impressions/)
-- [GNSS for Precion Guided Weapons](http://ael.cbnu.ac.kr/ael/research/technology_handbook/GNSS/GNSS-for-precision-guided-munitions.htm)
-- [Unusul order of JavaScript Object properties](https://codepipet.com/javascript-unusual-order-for-object-properties/)
-- [Inspired by Office Space film, software engineer steals over $300K](https://lite.cnn.com/en/article/h_4afd9fe62c9277cc16d1c822cede510c)
-- [What I Learned: studying for certifications](https://rkulidzan.com/2022/02/16/what-i-learned-studying-for-certifications/)
-- [Show HN: Hoverflow – Nested browsing for wikis and docs](https://hoverflow.io)
-- [Neil Howe: The Fourth Turning Has Begun, How Will It Unfold?](https://www.youtube.com/watch?v=u9EmSI12raQ)
-- [Tulip Mania](https://en.wikipedia.org/wiki/Tulip_mania)
+- [“Scale” by Greg Egan](https://www.gregegan.net/SCALE/SCALE.html)
+- [eBay’s Notification Platform Used Fault Injection in New Ways](https://tech.ebayinc.com/engineering/how-ebays-notification-platform-used-fault-injection-in-new-ways/)
+- [Playing jazz on the chromatic AND diatonic harmonica](https://www.youtube.com/watch?v=9jrpqmcyWOI)
+- [Lemon Pigs Are the World’s Newest New Year’s Tradition](https://www.atlasobscura.com/articles/lemon-pigs-new-year)
+- [Libertarianism, liberalism is fueling San Francisco’s drug crisis](https://www.sfchronicle.com/opinion/openforum/article/liberal-sf-drug-crisis-17669296.php)
+- [Do You Want to Buy a House in Canada? Not So Fast](https://www.nytimes.com/2022/12/29/realestate/canada-bans-foreign-buyers.html)
+- [Coworkers Are Less Ambitious; Bosses Adjust to the New Order &lpar;WSJ&rpar;](https://www.wsj.com/articles/your-coworkers-are-less-ambitious-bosses-adjust-to-the-new-order-11672441067)
+- [Compromised PyTorch-nightly dependency chain December 30th, 2022](https://pytorch.org/blog/compromised-nightly-dependency/)
+- [Entering the job market with no qualifications](https://news.ycombinator.com/item?id=34202834)
+- [CDC reports a new strain of omicron taking over in the U.S.](https://www.nbcnews.com/health/health-news/xbb15-subvariant-cdc-reports-new-omicron-strain-taking-rcna63512)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

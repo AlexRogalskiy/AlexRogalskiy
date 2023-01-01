@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [North Korea fires three ballistic missiles in latest tests](https://www.theguardian.com/world/2022/dec/31/north-korea-fires-ballistic-missile-in-latest-of-barrage-of-tests)
-- [UK’s problems will not ‘go away’, admits Sunak after ‘tough’ 2022](https://www.theguardian.com/politics/2022/dec/31/uks-problems-will-not-go-away-admits-sunak-after-tough-2022)
-- [Ambulance staff reportedly urged to conserve oxygen amid ‘twindemic’](https://www.theguardian.com/society/2022/dec/30/ambulance-staff-reportedly-urged-to-conserve-oxygen-amid-twindemic)
-- [Transgender woman sues female-only app Giggle for Girls for alleged discrimination](https://www.theguardian.com/media/2022/dec/31/transgender-woman-sues-female-only-app-giggle-for-girls-for-alleged-discrimination)
-- [David Moyes accepts he is fighting for his West Ham future amid losing streak](https://www.theguardian.com/football/2022/dec/30/david-moyes-west-ham-future-brentford-defeat)
-- [PDC world darts: Van Gerwen and Smith march on, Cross and Humphries go out](https://www.theguardian.com/sport/2022/dec/30/pdc-world-darts-van-gerwen-and-smith-march-on-cross-and-humphries-go-out)
-- [Wind, ice and flood chaos predicted across Scotland for Hogmanay](https://www.theguardian.com/uk-news/2022/dec/30/wind-ice-and-flood-chaos-predicted-across-scotland-for-hogmanay)
-- [Aerosmith’s Steven Tyler sued for 1970s sexual battery and assault of minor](https://www.theguardian.com/music/2022/dec/30/aerosmith-steven-tyler-lawsuit-sexual-battery-assault)
-- [New year honours 2023: Mary Quant and Lionesses among those recognised](https://www.theguardian.com/uk-news/2022/dec/30/new-year-honours-2023-mary-quant-and-lionesses-among-those-recognised)
-- [Leah Williamson among Lionesses recognised in New Year honours list](https://www.theguardian.com/football/2022/dec/30/leah-williamson-among-lionesses-recognised-in-new-year-honours-list)
+- [Xi Jinping urges unity as China’s Covid fight enters ‘new phase’](https://www.theguardian.com/world/2022/dec/31/china-xi-jinping-new-year-address)
+- [New Year’s Eve celebrations: fireworks and festivities amid global uncertainties](https://www.theguardian.com/world/2023/jan/01/new-years-eve-celebrations-fireworks-and-festivities-amid-global-uncertainties)
+- [Russia-Ukraine war at a glance: what we know on day 312 of the invasion](https://www.theguardian.com/world/2023/jan/01/russia-ukraine-war-at-a-glance-what-we-know-on-day-31-of-the-invasion)
+- [Kim Jong-un vows to ‘exponentially’ increase nuclear warhead production](https://www.theguardian.com/world/2023/jan/01/kim-jong-un-north-korea-exponentially-increase-nuclear-warhead-production)
+- [Crypto collapses, Mone’s masks and golden goodbyes: the 2022 Observer business awards](https://www.theguardian.com/business/2023/jan/01/crypto-collapses-mones-masks-and-golden-goodbyes-the-2022-observer-business-awards)
+- [What’s on Netflix and Amazon this month – January](https://www.theguardian.com/tv-and-radio/ng-interactive/2023/jan/01/whats-on-netflix-and-amazon-this-month-january)
+- [Cosy knits: 5 ways to style cosy knits](https://www.theguardian.com/fashion/gallery/2022/dec/31/cosy-knits-5-ways-to-style-cosy-knits)
+- [‘So noble, so kind’: Pope Francis leads tributes to Benedict XVI](https://www.theguardian.com/world/2022/dec/31/benedict-xvi-pope-tributes)
+- [Real Madrid’s Vinícius Júnior accuses La Liga of ‘doing nothing’ over racist abuse](https://www.theguardian.com/football/2022/dec/31/real-madrids-vinicius-junior-accuses-la-liga-doing-nothing-about-racist-abuse)
+- [Keely Hodgkinson’s hatred of losing will propel her to 2023 success, claims Coe](https://www.theguardian.com/sport/2022/dec/31/keely-hodgkinson-2023-success-sebastian-coe-athletics)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

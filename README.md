@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [“Scale” by Greg Egan](https://www.gregegan.net/SCALE/SCALE.html)
-- [eBay’s Notification Platform Used Fault Injection in New Ways](https://tech.ebayinc.com/engineering/how-ebays-notification-platform-used-fault-injection-in-new-ways/)
-- [Playing jazz on the chromatic AND diatonic harmonica](https://www.youtube.com/watch?v=9jrpqmcyWOI)
-- [Lemon Pigs Are the World’s Newest New Year’s Tradition](https://www.atlasobscura.com/articles/lemon-pigs-new-year)
-- [Libertarianism, liberalism is fueling San Francisco’s drug crisis](https://www.sfchronicle.com/opinion/openforum/article/liberal-sf-drug-crisis-17669296.php)
-- [Do You Want to Buy a House in Canada? Not So Fast](https://www.nytimes.com/2022/12/29/realestate/canada-bans-foreign-buyers.html)
-- [Coworkers Are Less Ambitious; Bosses Adjust to the New Order &lpar;WSJ&rpar;](https://www.wsj.com/articles/your-coworkers-are-less-ambitious-bosses-adjust-to-the-new-order-11672441067)
-- [Compromised PyTorch-nightly dependency chain December 30th, 2022](https://pytorch.org/blog/compromised-nightly-dependency/)
-- [Entering the job market with no qualifications](https://news.ycombinator.com/item?id=34202834)
-- [CDC reports a new strain of omicron taking over in the U.S.](https://www.nbcnews.com/health/health-news/xbb15-subvariant-cdc-reports-new-omicron-strain-taking-rcna63512)
+- [GPT Takes the Bar Exam](https://twitter.com/hadip/status/1609722809055600641)
+- [Using AI to design and test games, tune difficulty, find world geometry flaws](https://www.wired.com/story/machine-learning-ai-game-development-bosses-enemies/)
+- [AI Hardware Will Be Everywhere &lpar;For a Fee&rpar;](https://www.youtube.com/watch?v=v0BWmvBiXY0)
+- [Live Course on Synthetic Data and Generative AI](https://learncrunch.com/course/synthetic-data-and-explainable-ai-01)
+- [Consulting firm tells family to keep IndyCar, IMS &lpar;2013&rpar;](https://www.usatoday.com/story/sports/motor/indycar/2013/03/01/hulman-george-family-indianapolis-motor-speedway-indycar-series-changes/1958065/)
+- [Researchers discover soap bubble film is colder than surrounding air](https://phys.org/news/2022-12-soap-cooler-air.html)
+- [Hacked Russian Files Reveal Propaganda Agreement with China](https://theintercept.com/2022/12/30/russia-china-news-media-agreement/)
+- [Red Team / Pen Testing Tools and Techniques: A Collection of Resources](https://github.com/A-poc/RedTeam-Tools)
+- [Distributed Remote Backups with LibreCMC on Budget](https://alperatmaca.com.tr/posts/remote-backup/)
+- [Ask HN: How can I make a website that live hundred years after I died?](https://news.ycombinator.com/item?id=34213362)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

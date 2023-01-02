@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Compromised PyTorch-nightly dependency chain December 30th, 2022](https://pytorch.org/blog/compromised-nightly-dependency/)
-- [Compromised PyTorch-nightly dependency chain between December 25th – December 30](https://pytorch.org/blog/compromised-nightly-dependency/)
-- [I did Advent of Code on a Playstation](https://bvisness.me/advent-of-dreams/)
-- [I am not a supplier](https://www.softwaremaxims.com/blog/not-a-supplier)
-- [Tell HN: Happy New Year](https://news.ycombinator.com/item?id=34201366)
-- [Oxytocin, trust, and reciprocity &lpar;2007&rpar;](https://www.hugthemonkey.com/2007/03/paul_zak_oxytoc.html)
-- [Seven stowaways and a hijacked oil tanker](https://www.theguardian.com/world/2022/jun/09/stowaways-oil-tanker-isle-of-wight-hijacking-strange-case-nave-andromeda)
-- [The State of HTTP in 2022](https://blog.cloudflare.com/the-state-of-http-in-2022/)
-- [Large-scale vehicle classification](https://blog.aqnichol.com/2022/12/31/large-scale-vehicle-classification/)
-- [CPU branch prediction evolution over years &lpar;2017&rpar;](https://danluu.com/branch-prediction/)
+- [For U.S. Companies, the Race for the New EV Battery Is On](https://e360.yale.edu/features/alternate-ev-battery-technology)
+- [Automatic snow tires throw chains at your wheels [video]](https://www.youtube.com/watch?v=x2IQNsLuikw)
+- [Blog series on building an air sensor with Arduino](https://www.airdeets.com/blog/diy-arduino-based-air-sensor-pt1)
+- [Should this paper in Psychological Science be retracted?](https://statmodeling.stat.columbia.edu/2016/06/28/khkhkj/)
+- [Orrery &lpar;Earth, Moon, and Sun&rpar;](https://www.instructables.com/Orrery-Earth-Moon-and-Sun/)
+- [Remaking old computer graphics with AI image generation](https://jalammar.github.io/ai-image-generation-tools/)
+- [Langoguessr](https://langoguessr.com)
+- [Software Detection of Currency &lpar;2004&rpar;](https://murdoch.is/projects/currency/)
+- [Building a Frankenstein 64](https://celso.io/retrocomputing/2022/12/27/c64-from-scratch)
+- [Adding design-by-contract conditions to C++ via a GCC plugin](https://gavinray97.github.io/blog/adding-invariant-to-cpp-design-by-contract)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

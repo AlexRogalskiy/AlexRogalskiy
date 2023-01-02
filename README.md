@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Xi Jinping urges unity as China’s Covid fight enters ‘new phase’](https://www.theguardian.com/world/2022/dec/31/china-xi-jinping-new-year-address)
-- [New Year’s Eve celebrations: fireworks and festivities amid global uncertainties](https://www.theguardian.com/world/2023/jan/01/new-years-eve-celebrations-fireworks-and-festivities-amid-global-uncertainties)
-- [Russia-Ukraine war at a glance: what we know on day 312 of the invasion](https://www.theguardian.com/world/2023/jan/01/russia-ukraine-war-at-a-glance-what-we-know-on-day-31-of-the-invasion)
-- [Kim Jong-un vows to ‘exponentially’ increase nuclear warhead production](https://www.theguardian.com/world/2023/jan/01/kim-jong-un-north-korea-exponentially-increase-nuclear-warhead-production)
-- [Crypto collapses, Mone’s masks and golden goodbyes: the 2022 Observer business awards](https://www.theguardian.com/business/2023/jan/01/crypto-collapses-mones-masks-and-golden-goodbyes-the-2022-observer-business-awards)
-- [What’s on Netflix and Amazon this month – January](https://www.theguardian.com/tv-and-radio/ng-interactive/2023/jan/01/whats-on-netflix-and-amazon-this-month-january)
-- [Cosy knits: 5 ways to style cosy knits](https://www.theguardian.com/fashion/gallery/2022/dec/31/cosy-knits-5-ways-to-style-cosy-knits)
-- [‘So noble, so kind’: Pope Francis leads tributes to Benedict XVI](https://www.theguardian.com/world/2022/dec/31/benedict-xvi-pope-tributes)
-- [Real Madrid’s Vinícius Júnior accuses La Liga of ‘doing nothing’ over racist abuse](https://www.theguardian.com/football/2022/dec/31/real-madrids-vinicius-junior-accuses-la-liga-doing-nothing-about-racist-abuse)
-- [Keely Hodgkinson’s hatred of losing will propel her to 2023 success, claims Coe](https://www.theguardian.com/sport/2022/dec/31/keely-hodgkinson-2023-success-sebastian-coe-athletics)
+- [Croatia takes final steps into EU with open border and euro switch](https://www.theguardian.com/world/2023/jan/02/croatia-takes-final-steps-into-eu-with-open-border-and-euro-switch)
+- [Russia-Ukraine war at a glance: what we know on day 313 of the invasion](https://www.theguardian.com/world/2023/jan/02/russia-ukraine-war-at-a-glance-what-we-know-on-day-313-of-the-invasion)
+- [Drone attack on Kyiv after air alerts issued across eastern Ukraine](https://www.theguardian.com/world/2023/jan/02/drone-attack-on-kyiv-after-air-alerts-issued-across-eastern-ukraine)
+- [People turning to DIY health treatment amid shortage of GP appointments](https://www.theguardian.com/society/2023/jan/02/people-turning-to-diy-health-treatment-amid-shortage-of-gp-appointments)
+- [More than third of UK adults would struggle to find extra £20](https://www.theguardian.com/business/2023/jan/02/more-than-third-of-uk-adults-would-struggle-to-find-extra-20)
+- [£50m fund will boost UK nuclear fuel projects, ministers say](https://www.theguardian.com/business/2023/jan/02/50m-fund-will-boost-uk-nuclear-fuel-projects-ministers-say)
+- [Qantas flight to Philippines forced to turn back to Sydney as authorities close airspace](https://www.theguardian.com/business/2023/jan/02/qantas-flight-to-philippines-forced-to-turn-back-to-sydney-as-authorities-close-airspace)
+- [Machete-wielding man attacks New York City police at New Year’s Eve event](https://www.theguardian.com/us-news/2023/jan/01/machete-wielding-man-attacks-new-york-city-police-times-square)
+- [Virgil van Dijk says anything is possible for Liverpool in ‘crazy’ season](https://www.theguardian.com/football/2023/jan/01/virgil-van-dijk-says-anything-is-possible-for-liverpool-in-crazy-season)
+- [Ange Postecoglou calls for Old Firm match to be free of big VAR delays](https://www.theguardian.com/football/2023/jan/01/ange-postecoglou-old-firm-match-free-big-var-delays-rangers-celtic)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

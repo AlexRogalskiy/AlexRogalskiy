@@ -355,6 +355,7 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [4 up-and-coming employee mobile apps](https://www.computerworld.com/article/3682000/4-up-and-coming-employee-mobile-apps.html#tk.rss_all)
 - [The one real problem with synthetic media](https://www.computerworld.com/article/3684408/the-one-real-problem-with-synthetic-media.html#tk.rss_all)
 - [Low-code development platforms to grow 25% in 2023](https://www.computerworld.com/article/3684173/low-code-development-platforms-to-grow-25-in-2023.html#tk.rss_all)
 - [How Bolt uses Slack to kill internal email](https://www.computerworld.com/article/3684089/how-bolt-uses-slack-to-kill-internal-email.html#tk.rss_all)
@@ -364,7 +365,6 @@
 - [Did Microsoft make a bad $69B bet on Activision Blizzard?](https://www.computerworld.com/article/3683214/did-microsoft-make-a-bad-69b-bet-on-activision-blizzard.html#tk.rss_all)
 - [Handy PowerPoint keyboard shortcuts for Windows and Mac](https://www.computerworld.com/article/3682669/handy-powerpoint-keyboard-shortcuts-for-windows-and-mac.html#tk.rss_all)
 - [The top 12 tech stories of 2022](https://www.computerworld.com/article/3684170/the-top-12-tech-stories-of-2022.html#tk.rss_all)
-- [What to expect from Apple in 2023](https://www.computerworld.com/article/3683269/what-to-expect-from-apple-in-2023.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

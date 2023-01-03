@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [For U.S. Companies, the Race for the New EV Battery Is On](https://e360.yale.edu/features/alternate-ev-battery-technology)
-- [Automatic snow tires throw chains at your wheels [video]](https://www.youtube.com/watch?v=x2IQNsLuikw)
-- [Blog series on building an air sensor with Arduino](https://www.airdeets.com/blog/diy-arduino-based-air-sensor-pt1)
-- [Should this paper in Psychological Science be retracted?](https://statmodeling.stat.columbia.edu/2016/06/28/khkhkj/)
-- [Orrery &lpar;Earth, Moon, and Sun&rpar;](https://www.instructables.com/Orrery-Earth-Moon-and-Sun/)
-- [Remaking old computer graphics with AI image generation](https://jalammar.github.io/ai-image-generation-tools/)
-- [Langoguessr](https://langoguessr.com)
-- [Software Detection of Currency &lpar;2004&rpar;](https://murdoch.is/projects/currency/)
-- [Building a Frankenstein 64](https://celso.io/retrocomputing/2022/12/27/c64-from-scratch)
-- [Adding design-by-contract conditions to C++ via a GCC plugin](https://gavinray97.github.io/blog/adding-invariant-to-cpp-design-by-contract)
+- [Incoming Potentially Catastrophic Storm for SF Area](https://forecast.weather.gov/product.php?site=MTR&issuedby=MTR&product=AFD&format=CI&version=1&glossary=1)
+- [Books for Software Engineers in 2023](https://grantisom.com/2023/01/02/mustread-books-for.html)
+- [My YouTube earnings](https://brickexperimentchannel.wordpress.com/2022/11/19/my-youtube-earnings/)
+- [Solving a Dungeons and Dragons riddle using Prolog](https://gist.github.com/Spuffynism/446c7c2d498477491d8137e8f234d4a9)
+- [The strangest computer manual ever written](https://ironicsans.substack.com/p/the-strangest-computer-manual-ever)
+- [Tallow in plastics – why? &lpar;2016&rpar;](https://www.impact-solutions.co.uk/tallow-in-plastics/)
+- [Rust for Professionals](https://overexact.com/rust-for-professionals/)
+- [HypChain, the first completely hypothetical blockchain](https://www.hypchain.com/)
+- [Ask HN: Pros and cons of thinking in public vs. in private?](https://news.ycombinator.com/item?id=34223288)
+- [English as She Is Spoke &lpar;1884&rpar; [pdf]](https://www.exclassics.com/espoke/espkpdf.pdf)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

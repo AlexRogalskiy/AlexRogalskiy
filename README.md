@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Croatia takes final steps into EU with open border and euro switch](https://www.theguardian.com/world/2023/jan/02/croatia-takes-final-steps-into-eu-with-open-border-and-euro-switch)
-- [Russia-Ukraine war at a glance: what we know on day 313 of the invasion](https://www.theguardian.com/world/2023/jan/02/russia-ukraine-war-at-a-glance-what-we-know-on-day-313-of-the-invasion)
-- [Drone attack on Kyiv after air alerts issued across eastern Ukraine](https://www.theguardian.com/world/2023/jan/02/drone-attack-on-kyiv-after-air-alerts-issued-across-eastern-ukraine)
-- [People turning to DIY health treatment amid shortage of GP appointments](https://www.theguardian.com/society/2023/jan/02/people-turning-to-diy-health-treatment-amid-shortage-of-gp-appointments)
-- [More than third of UK adults would struggle to find extra £20](https://www.theguardian.com/business/2023/jan/02/more-than-third-of-uk-adults-would-struggle-to-find-extra-20)
-- [£50m fund will boost UK nuclear fuel projects, ministers say](https://www.theguardian.com/business/2023/jan/02/50m-fund-will-boost-uk-nuclear-fuel-projects-ministers-say)
-- [Qantas flight to Philippines forced to turn back to Sydney as authorities close airspace](https://www.theguardian.com/business/2023/jan/02/qantas-flight-to-philippines-forced-to-turn-back-to-sydney-as-authorities-close-airspace)
-- [Machete-wielding man attacks New York City police at New Year’s Eve event](https://www.theguardian.com/us-news/2023/jan/01/machete-wielding-man-attacks-new-york-city-police-times-square)
-- [Virgil van Dijk says anything is possible for Liverpool in ‘crazy’ season](https://www.theguardian.com/football/2023/jan/01/virgil-van-dijk-says-anything-is-possible-for-liverpool-in-crazy-season)
-- [Ange Postecoglou calls for Old Firm match to be free of big VAR delays](https://www.theguardian.com/football/2023/jan/01/ange-postecoglou-old-firm-match-free-big-var-delays-rangers-celtic)
+- [Bodies left to decay outside overcrowded Papua New Guinea morgue, footage shows](https://www.theguardian.com/world/2023/jan/03/bodies-left-to-decay-outside-overcrowded-papua-new-guinea-morgue-footage-shows)
+- [Unlike past campaigns, today’s concern for the Great Barrier Reef is stuck in neutral | Rohan Lloyd](https://www.theguardian.com/commentisfree/2023/jan/03/unlike-past-campaigns-todays-concern-for-the-great-barrier-reef-is-stuck-in-neutral)
+- [Former US Marine held in Australia received more than $100,000 to train Chinese pilots, indictment alleges](https://www.theguardian.com/australia-news/2023/jan/03/former-us-marine-held-in-australia-received-more-than-100000-to-train-chinese-pilots-indictment-alleges)
+- [Jeremy Renner out of surgery after accident, but remains in critical condition](https://www.theguardian.com/film/2023/jan/03/jeremy-renner-out-of-surgery-after-accident-but-remains-in-critical-condition)
+- [France’s Cesar film awards ban anyone being investigated on sex crimes](https://www.theguardian.com/film/2023/jan/03/frances-cesar-film-awards-ban-anyone-being-investigated-on-sex-crimes)
+- [Russia-Ukraine war at a glance: what we know on day 314 of the invasion](https://www.theguardian.com/world/2023/jan/03/russia-ukraine-war-at-a-glance-what-we-know-on-day-314-of-the-invasion)
+- [Two Britons among four killed helicopter collision in Australia](https://www.theguardian.com/world/2023/jan/02/two-britons-among-four-killed-in-australia-helicopter-collision)
+- [PDC world darts: Van Gerwen wins spiky encounter to set up final with Smith](https://www.theguardian.com/sport/2023/jan/02/pdc-world-darts-semi-finals-michael-van-gerwen-smith)
+- [Rafael Nadal calls for United Cup overhaul after defeat to Alex de Minaur in Sydney](https://www.theguardian.com/sport/2023/jan/03/rafael-nadal-calls-for-united-cup-overhaul-after-defeat-to-alex-de-minaur-in-sydney)
+- [Arsenal eye 10-point lead but Mikel Arteta expects ‘big test’ from Newcastle](https://www.theguardian.com/football/2023/jan/02/arsenal-big-test-newcastle-premier-league-mikel-arteta)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

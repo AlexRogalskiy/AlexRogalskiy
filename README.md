@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [GPT Takes the Bar Exam](https://twitter.com/hadip/status/1609722809055600641)
-- [Using AI to design and test games, tune difficulty, find world geometry flaws](https://www.wired.com/story/machine-learning-ai-game-development-bosses-enemies/)
-- [AI Hardware Will Be Everywhere &lpar;For a Fee&rpar;](https://www.youtube.com/watch?v=v0BWmvBiXY0)
-- [Live Course on Synthetic Data and Generative AI](https://learncrunch.com/course/synthetic-data-and-explainable-ai-01)
-- [Consulting firm tells family to keep IndyCar, IMS &lpar;2013&rpar;](https://www.usatoday.com/story/sports/motor/indycar/2013/03/01/hulman-george-family-indianapolis-motor-speedway-indycar-series-changes/1958065/)
-- [Researchers discover soap bubble film is colder than surrounding air](https://phys.org/news/2022-12-soap-cooler-air.html)
-- [Hacked Russian Files Reveal Propaganda Agreement with China](https://theintercept.com/2022/12/30/russia-china-news-media-agreement/)
-- [Red Team / Pen Testing Tools and Techniques: A Collection of Resources](https://github.com/A-poc/RedTeam-Tools)
-- [Distributed Remote Backups with LibreCMC on Budget](https://alperatmaca.com.tr/posts/remote-backup/)
-- [Ask HN: How can I make a website that live hundred years after I died?](https://news.ycombinator.com/item?id=34213362)
+- [When the Right Tried to Cancel the Turtles](https://tribunemag.co.uk/2021/04/when-the-right-tried-to-cancel-the-turtles)
+- [Ask HN: How to detect when a bullet hits a cardboard?](https://news.ycombinator.com/item?id=34226796)
+- [2022: The Year in Visual Stories and Graphics](https://www.nytimes.com/interactive/2022/12/28/us/2022-year-in-graphics.html)
+- [The Ethics of Open Source](https://www.theregister.com/2023/01/01/foss_and_geopolitics/)
+- [Show HN: Annotate – Online image annotation and labeling tool](https://annotate.pixlab.io/)
+- [Opt-Into Better Default Headers](https://github.com/mikewest/baseline-header)
+- [18th century technology in your jet engine?](https://www.youtube.com/watch?v=7te0PePyagk)
+- [Show HN: Terragen.sh – proof of concept Terraform boilerplate generator](https://terragen.sh)
+- [Better Synonyms: Find the perfect word with GPT-3](https://www.bettersynonyms.com/)
+- [Generating Random Convex Polygons](https://cglab.ca/~sander/misc/ConvexGeneration/convex.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

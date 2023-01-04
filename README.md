@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Bodies left to decay outside overcrowded Papua New Guinea morgue, footage shows](https://www.theguardian.com/world/2023/jan/03/bodies-left-to-decay-outside-overcrowded-papua-new-guinea-morgue-footage-shows)
-- [Unlike past campaigns, today’s concern for the Great Barrier Reef is stuck in neutral | Rohan Lloyd](https://www.theguardian.com/commentisfree/2023/jan/03/unlike-past-campaigns-todays-concern-for-the-great-barrier-reef-is-stuck-in-neutral)
-- [Former US Marine held in Australia received more than $100,000 to train Chinese pilots, indictment alleges](https://www.theguardian.com/australia-news/2023/jan/03/former-us-marine-held-in-australia-received-more-than-100000-to-train-chinese-pilots-indictment-alleges)
-- [Jeremy Renner out of surgery after accident, but remains in critical condition](https://www.theguardian.com/film/2023/jan/03/jeremy-renner-out-of-surgery-after-accident-but-remains-in-critical-condition)
-- [France’s Cesar film awards ban anyone being investigated on sex crimes](https://www.theguardian.com/film/2023/jan/03/frances-cesar-film-awards-ban-anyone-being-investigated-on-sex-crimes)
-- [Russia-Ukraine war at a glance: what we know on day 314 of the invasion](https://www.theguardian.com/world/2023/jan/03/russia-ukraine-war-at-a-glance-what-we-know-on-day-314-of-the-invasion)
-- [Two Britons among four killed helicopter collision in Australia](https://www.theguardian.com/world/2023/jan/02/two-britons-among-four-killed-in-australia-helicopter-collision)
-- [PDC world darts: Van Gerwen wins spiky encounter to set up final with Smith](https://www.theguardian.com/sport/2023/jan/02/pdc-world-darts-semi-finals-michael-van-gerwen-smith)
-- [Rafael Nadal calls for United Cup overhaul after defeat to Alex de Minaur in Sydney](https://www.theguardian.com/sport/2023/jan/03/rafael-nadal-calls-for-united-cup-overhaul-after-defeat-to-alex-de-minaur-in-sydney)
-- [Arsenal eye 10-point lead but Mikel Arteta expects ‘big test’ from Newcastle](https://www.theguardian.com/football/2023/jan/02/arsenal-big-test-newcastle-premier-league-mikel-arteta)
+- [Australia v South Africa: third Test, day one – live](https://www.theguardian.com/sport/live/2023/jan/04/australia-v-south-africa-third-test-day-one-live)
+- [McCarthy faces long battle for House speaker after he falls short on third vote](https://www.theguardian.com/us-news/2023/jan/03/kevin-mccarthy-house-speaker-vote-republicans)
+- [‘I’m too messed up now to type’: Jeremy Renner shares first statement – and selfie – after accident](https://www.theguardian.com/film/2023/jan/04/im-too-messed-up-now-to-type-jeremy-renner-shares-first-statement-and-selfie-after-accident)
+- [Russia-Ukraine war at a glance: What we know on day 315 of the invasion](https://www.theguardian.com/world/2023/jan/04/russia-ukraine-war-at-a-glance-what-we-know-on-day-315-of-the-invasion)
+- [China criticises other countries over ‘political’ Covid travel restrictions](https://www.theguardian.com/world/2023/jan/03/china-criticises-other-countries-for-excessive-covid-travel-rules)
+- [Disabled people among hardest hit by cost of living crisis, finds study](https://www.theguardian.com/business/2023/jan/04/disabled-people-cost-of-living-crisis-energy-use-food-resolution-foundation)
+- [UK’s top 10 singles of 2022 were all by British artists](https://www.theguardian.com/music/2023/jan/04/uk-top-10-singles-of-2022-were-all-by-british-artists-harry-styles)
+- [Anger and grief at rare public commemoration in Russia after Makiivka strike](https://www.theguardian.com/world/2023/jan/04/anger-and-grief-at-rare-public-commemoration-in-russia-after-makiivka-strike)
+- [Mikel Arteta aggrieved at ‘scandalous’ failures to award Arsenal penalties](https://www.theguardian.com/football/2023/jan/03/mikel-arteta-aggrieved-at-scandalous-failures-to-award-arsenal-penalties)
+- [Frank Lampard ‘can’t control talk’ over future after Everton thrashing](https://www.theguardian.com/football/2023/jan/03/frank-lampard-cant-control-talk-over-future-after-everton-thrashing)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [When the Right Tried to Cancel the Turtles](https://tribunemag.co.uk/2021/04/when-the-right-tried-to-cancel-the-turtles)
-- [Ask HN: How to detect when a bullet hits a cardboard?](https://news.ycombinator.com/item?id=34226796)
-- [2022: The Year in Visual Stories and Graphics](https://www.nytimes.com/interactive/2022/12/28/us/2022-year-in-graphics.html)
-- [The Ethics of Open Source](https://www.theregister.com/2023/01/01/foss_and_geopolitics/)
-- [Show HN: Annotate – Online image annotation and labeling tool](https://annotate.pixlab.io/)
-- [Opt-Into Better Default Headers](https://github.com/mikewest/baseline-header)
-- [18th century technology in your jet engine?](https://www.youtube.com/watch?v=7te0PePyagk)
-- [Show HN: Terragen.sh – proof of concept Terraform boilerplate generator](https://terragen.sh)
-- [Better Synonyms: Find the perfect word with GPT-3](https://www.bettersynonyms.com/)
-- [Generating Random Convex Polygons](https://cglab.ca/~sander/misc/ConvexGeneration/convex.html)
+- [List of Router Firmware Projects](https://en.wikipedia.org/wiki/List_of_router_firmware_projects)
+- [Are Databases Becoming Just Query Engines for Big Object Stores?](https://www.datanami.com/2023/01/03/are-databases-becoming-just-query-engines-for-big-object-stores/)
+- [Easy Tricks to Never Overthink Again &lpar;Blogpost&rpar;](https://empoweryourliferightnow.blogspot.com/2023/01/7-easy-tricks-to-never-overthink-again.html)
+- [Amazon secures $8B loan, anticipating market headwinds](https://techcrunch.com/2023/01/03/amazon-secures-8b-loan-anticipating-market-headwinds/)
+- [The MOS 6502 is &lpar;mostly&rpar; Turing-complete without registers](http://oldvcr.blogspot.com/2023/01/the-mos-6502-is-mostly-turing-complete.html)
+- [Truth data: the training system used to measure fighter pilot performance](https://skiesmag.com/news/truth-data-training-system-used-measure-fighter-pilot-performance/)
+- [Tesla Model Y and 3 Are Most American Made Cars of 2022](https://www.tesmanian.com/blogs/tesmanian-blog/tesla-model-y-3-are-the-most-american-made-car-of-2022-model-x-s-take-5th-6th)
+- [Ask HN: How to Manage Tasks?](https://news.ycombinator.com/item?id=34241089)
+- [Shopify Is Canceling All Meetings with More Than Two Employees to Free Up Time](https://www.forbes.com/sites/jenamcgregor/2023/01/03/shopify-is-canceling-all-meetings-with-more-than-two-people-from-workers-calendars-and-urging-few-to-be-added-back/)
+- [Twitter is reversing its ban on political ads](https://www.engadget.com/twitter-is-reversing-its-ban-on-political-ads-004916587.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

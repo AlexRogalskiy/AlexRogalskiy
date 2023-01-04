@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Incoming Potentially Catastrophic Storm for SF Area](https://forecast.weather.gov/product.php?site=MTR&issuedby=MTR&product=AFD&format=CI&version=1&glossary=1)
-- [Books for Software Engineers in 2023](https://grantisom.com/2023/01/02/mustread-books-for.html)
-- [My YouTube earnings](https://brickexperimentchannel.wordpress.com/2022/11/19/my-youtube-earnings/)
-- [Solving a Dungeons and Dragons riddle using Prolog](https://gist.github.com/Spuffynism/446c7c2d498477491d8137e8f234d4a9)
-- [The strangest computer manual ever written](https://ironicsans.substack.com/p/the-strangest-computer-manual-ever)
-- [Tallow in plastics – why? &lpar;2016&rpar;](https://www.impact-solutions.co.uk/tallow-in-plastics/)
-- [Rust for Professionals](https://overexact.com/rust-for-professionals/)
-- [HypChain, the first completely hypothetical blockchain](https://www.hypchain.com/)
-- [Ask HN: Pros and cons of thinking in public vs. in private?](https://news.ycombinator.com/item?id=34223288)
-- [English as She Is Spoke &lpar;1884&rpar; [pdf]](https://www.exclassics.com/espoke/espkpdf.pdf)
+- [Hitman 3 to become ‘World of Assassination’](https://www.ioi.dk/hitman-3-to-world-of-assassination/)
+- [BusyBox 1.36.0](https://busybox.net/)
+- [Tell HN: I just received my Equifax breach settlement check](https://news.ycombinator.com/item?id=34240298)
+- [Meta Quest Pro – Bad AR Passthrough](https://kguttag.com/2023/01/03/meta-quest-pro-part-1-unbelievably-bad-ar-passthrough/)
+- [Google wants RISC-V to be a “tier-1” Android architecture](https://arstechnica.com/gadgets/2023/01/google-announces-official-android-support-for-risc-v/)
+- [Migrating from AWS to Fly.io](https://terrateam.io/blog/flying-away-from-aws)
+- [To build truly intelligent machines, teach them cause and effect &lpar;2018&rpar;](https://www.quantamagazine.org/to-build-truly-intelligent-machines-teach-them-cause-and-effect-20180515)
+- [Next-generation Qi2 wireless charging standard embraces Apple&#39;s MagSafe](https://www.macrumors.com/2023/01/03/qi2-wireless-charging-standard-gains-magsafe/)
+- [Show HN: A device that only lets you type lol if you&#39;ve truly laughed out loud](https://twitter.com/lanewinfield/status/1610294277434933249)
+- [AT&amp;T&#39;s predictions of the future &lpar;1993&rpar;](https://www.youtube.com/watch?v=Xm9jr0cSqZo)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

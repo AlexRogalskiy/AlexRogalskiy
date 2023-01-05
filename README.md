@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [List of Router Firmware Projects](https://en.wikipedia.org/wiki/List_of_router_firmware_projects)
-- [Are Databases Becoming Just Query Engines for Big Object Stores?](https://www.datanami.com/2023/01/03/are-databases-becoming-just-query-engines-for-big-object-stores/)
-- [Easy Tricks to Never Overthink Again &lpar;Blogpost&rpar;](https://empoweryourliferightnow.blogspot.com/2023/01/7-easy-tricks-to-never-overthink-again.html)
-- [Amazon secures $8B loan, anticipating market headwinds](https://techcrunch.com/2023/01/03/amazon-secures-8b-loan-anticipating-market-headwinds/)
-- [The MOS 6502 is &lpar;mostly&rpar; Turing-complete without registers](http://oldvcr.blogspot.com/2023/01/the-mos-6502-is-mostly-turing-complete.html)
-- [Truth data: the training system used to measure fighter pilot performance](https://skiesmag.com/news/truth-data-training-system-used-measure-fighter-pilot-performance/)
-- [Tesla Model Y and 3 Are Most American Made Cars of 2022](https://www.tesmanian.com/blogs/tesmanian-blog/tesla-model-y-3-are-the-most-american-made-car-of-2022-model-x-s-take-5th-6th)
-- [Ask HN: How to Manage Tasks?](https://news.ycombinator.com/item?id=34241089)
-- [Shopify Is Canceling All Meetings with More Than Two Employees to Free Up Time](https://www.forbes.com/sites/jenamcgregor/2023/01/03/shopify-is-canceling-all-meetings-with-more-than-two-people-from-workers-calendars-and-urging-few-to-be-added-back/)
-- [Twitter is reversing its ban on political ads](https://www.engadget.com/twitter-is-reversing-its-ban-on-political-ads-004916587.html)
+- [Kendrick Lamar’s New Chapter: Raw, Intimate and Unconstrained](https://www.nytimes.com/2022/12/27/magazine/kendrick-lamar-dave-free.html)
+- [Sony says the Playstation 5 shortage is over](https://www.theverge.com/2023/1/4/23539918/sony-playstation-5-shortage-over)
+- [Earth: A Status Report](https://www.overcomingbias.com/2023/01/earth-a-status-report.html)
+- [Adventures of Being a Solopreneur](https://www.zigpoll.com/blog/being-a-solopreneur-part-one)
+- [A New Music Programming Pin](https://www.youtube.com/watch?v=1FFTaI__l_A)
+- [Escaping from Bhyve](https://www.synacktiv.com/publications/escaping-from-bhyve.html)
+- [Show HN: GPT powered keyboard for iOS device](https://apps.apple.com/ca/app/ai-writer/id6444013958)
+- [Speaker Elections Decided by Multiple Ballots](https://history.house.gov/People/Office/Speakers-Multiple-Ballots/)
+- [Twisted carbon-eating tower is rising in the East](https://www.cnn.com/style/article/vincent-callebaut-tao-zhu-yin-yuan/index.html)
+- [We were all fans of Ken Block](https://www.theverge.com/23539381/ken-block-youtube-skateboard-rally-gymkhana-x-games)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

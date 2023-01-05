@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Australia v South Africa: third Test, day one – live](https://www.theguardian.com/sport/live/2023/jan/04/australia-v-south-africa-third-test-day-one-live)
-- [McCarthy faces long battle for House speaker after he falls short on third vote](https://www.theguardian.com/us-news/2023/jan/03/kevin-mccarthy-house-speaker-vote-republicans)
-- [‘I’m too messed up now to type’: Jeremy Renner shares first statement – and selfie – after accident](https://www.theguardian.com/film/2023/jan/04/im-too-messed-up-now-to-type-jeremy-renner-shares-first-statement-and-selfie-after-accident)
-- [Russia-Ukraine war at a glance: What we know on day 315 of the invasion](https://www.theguardian.com/world/2023/jan/04/russia-ukraine-war-at-a-glance-what-we-know-on-day-315-of-the-invasion)
-- [China criticises other countries over ‘political’ Covid travel restrictions](https://www.theguardian.com/world/2023/jan/03/china-criticises-other-countries-for-excessive-covid-travel-rules)
-- [Disabled people among hardest hit by cost of living crisis, finds study](https://www.theguardian.com/business/2023/jan/04/disabled-people-cost-of-living-crisis-energy-use-food-resolution-foundation)
-- [UK’s top 10 singles of 2022 were all by British artists](https://www.theguardian.com/music/2023/jan/04/uk-top-10-singles-of-2022-were-all-by-british-artists-harry-styles)
-- [Anger and grief at rare public commemoration in Russia after Makiivka strike](https://www.theguardian.com/world/2023/jan/04/anger-and-grief-at-rare-public-commemoration-in-russia-after-makiivka-strike)
-- [Mikel Arteta aggrieved at ‘scandalous’ failures to award Arsenal penalties](https://www.theguardian.com/football/2023/jan/03/mikel-arteta-aggrieved-at-scandalous-failures-to-award-arsenal-penalties)
-- [Frank Lampard ‘can’t control talk’ over future after Everton thrashing](https://www.theguardian.com/football/2023/jan/03/frank-lampard-cant-control-talk-over-future-after-everton-thrashing)
+- [Australia v South Africa: third Test, day two – live](https://www.theguardian.com/sport/live/2023/jan/05/australia-v-south-africa-third-test-day-two-live)
+- [House without a speaker as McCarthy fails to secure majority in six rounds of voting – live](https://www.theguardian.com/us-news/live/2023/jan/04/mccarthy-house-speaker-vote-republicans-trump-live-updates)
+- [Gio Reyna’s parents flagged Gregg Berhalter’s domestic dispute to US Soccer](https://www.theguardian.com/football/2023/jan/04/reyna-family-us-soccer-gregg-berhalter-domestic-incident)
+- [Russia-Ukraine war at a glance: What we know on day 316 of the invasion](https://www.theguardian.com/world/2023/jan/05/russia-ukraine-war-at-a-glance-what-we-know-on-day-316-of-the-invasion)
+- [Prince Harry details physical attack by brother William in new book](https://www.theguardian.com/books/2023/jan/04/prince-harry-william-physical-attack-2019-meghan-spare-book)
+- [Number of populist world leaders at 20-year low](https://www.theguardian.com/world/2023/jan/05/number-of-populist-world-leaders-at-20-year-low)
+- [Electric car sales reach record high in UK despite supply chain disruption](https://www.theguardian.com/business/2023/jan/05/electric-car-sales-reach-record-high-in-uk-despite-supply-chain-disruption)
+- [Anti-strike law could be brought forward as government tries to end disputes](https://www.theguardian.com/politics/2023/jan/04/anti-strike-law-could-be-brought-forward-as-government-tries-to-end-disputes)
+- [Cruises, crowds and fragile ecosystems: the delicate dance of Antarctic tourism](https://www.theguardian.com/world/2023/jan/05/cruises-crowds-and-fragile-ecosystems-the-delicate-dance-of-antarctic-tourism)
+- [Conte praises Spurs character after Palace win but ‘Levy Out’ chants remain](https://www.theguardian.com/football/2023/jan/04/antonio-conte-praises-tottenhams-character-after-crystal-palace-win)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

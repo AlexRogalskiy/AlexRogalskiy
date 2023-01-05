@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [The best remote tech jobs for 2023](https://www.computerworld.com/article/3684049/the-best-remote-tech-jobs-for-2023.html#tk.rss_all)
+- [Meta hit with $413 million fine in EU for breaking GDPR rules](https://www.computerworld.com/article/3684514/meta-hit-with-413-million-fine-in-eu-for-breaking-gdpr-rules.html#tk.rss_all)
+- [Apple contributes MagSafe to Qi2 standard — why it matters](https://www.computerworld.com/article/3684512/apple-contributes-magsafe-to-qi2-standard-why-it-matters.html#tk.rss_all)
+- [Microsoft reported to be integrating ChatGPT3 AI with Bing search](https://www.computerworld.com/article/3684489/microsoft-reported-to-be-integrating-chatgpt3-ai-with-bing-search.html#tk.rss_all)
+- [The best Android apps for team collaboration](https://www.computerworld.com/article/3672242/best-android-apps-team-collaboration.html#tk.rss_all)
 - [It’s 2023 — time for new Windows hardware?](https://www.computerworld.com/article/3684273/its-2023-time-for-new-windows-hardware.html#tk.rss_all)
 - [A back-to-business Apple news briefing](https://www.computerworld.com/article/3684370/a-back-to-business-apple-news-briefing.html#tk.rss_all)
 - [BrandPost: Mainframe Is a Part of Your Cloud Strategy - Now What?](https://www.computerworld.com/article/3684172/mainframe-is-a-part-of-your-cloud-strategy-now-what.html#tk.rss_all)
 - [BrandPost: How to Orchestrate Enterprise IT Like a Maestro](https://www.computerworld.com/article/3684111/how-to-orchestrate-enterprise-it-like-a-maestro.html#tk.rss_all)
 - [How layoffs can affect diversity in tech—and what to do about it](https://www.computerworld.com/article/3683913/how-layoffs-can-affect-diversity-in-techand-what-to-do-about-it.html#tk.rss_all)
-- [4 up-and-coming employee mobile apps](https://www.computerworld.com/article/3682000/4-up-and-coming-employee-mobile-apps.html#tk.rss_all)
-- [The one real problem with synthetic media](https://www.computerworld.com/article/3684408/the-one-real-problem-with-synthetic-media.html#tk.rss_all)
-- [Low-code development platforms to grow 25% in 2023](https://www.computerworld.com/article/3684173/low-code-development-platforms-to-grow-25-in-2023.html#tk.rss_all)
-- [How Bolt uses Slack to kill internal email](https://www.computerworld.com/article/3684089/how-bolt-uses-slack-to-kill-internal-email.html#tk.rss_all)
-- [14 tech luminaries we lost in 2022](https://www.computerworld.com/article/3682772/14-tech-luminaries-we-lost-in-2022.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

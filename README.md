@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Hitman 3 to become ‘World of Assassination’](https://www.ioi.dk/hitman-3-to-world-of-assassination/)
-- [BusyBox 1.36.0](https://busybox.net/)
-- [Tell HN: I just received my Equifax breach settlement check](https://news.ycombinator.com/item?id=34240298)
-- [Meta Quest Pro – Bad AR Passthrough](https://kguttag.com/2023/01/03/meta-quest-pro-part-1-unbelievably-bad-ar-passthrough/)
-- [Google wants RISC-V to be a “tier-1” Android architecture](https://arstechnica.com/gadgets/2023/01/google-announces-official-android-support-for-risc-v/)
-- [Migrating from AWS to Fly.io](https://terrateam.io/blog/flying-away-from-aws)
-- [To build truly intelligent machines, teach them cause and effect &lpar;2018&rpar;](https://www.quantamagazine.org/to-build-truly-intelligent-machines-teach-them-cause-and-effect-20180515)
-- [Next-generation Qi2 wireless charging standard embraces Apple&#39;s MagSafe](https://www.macrumors.com/2023/01/03/qi2-wireless-charging-standard-gains-magsafe/)
-- [Show HN: A device that only lets you type lol if you&#39;ve truly laughed out loud](https://twitter.com/lanewinfield/status/1610294277434933249)
-- [AT&amp;T&#39;s predictions of the future &lpar;1993&rpar;](https://www.youtube.com/watch?v=Xm9jr0cSqZo)
+- [Tell HN: Crypto/web3 grifters are Now AI/ML grifters](https://news.ycombinator.com/item?id=34254377)
+- [FTC Cracks Down on Companies That Impose Harmful Noncompete Restrictions](https://www.ftc.gov/news-events/news/press-releases/2023/01/ftc-cracks-down-companies-impose-harmful-noncompete-restrictions-thousands-workers)
+- [RIP SF/f author Suzy McKee Charnas &lpar;1939-2023&rpar;](https://locusmag.com/2023/01/suzy-mckee-charnas-1939-2023/)
+- [Amazon to Lay Off over 17,000 Workers, More Than First Planned](https://www.wsj.com/articles/amazon-to-lay-off-over-17-000-workers-more-than-first-planned-11672874304)
+- [DragonFly BSD 6.4](https://www.dragonflybsd.org/release64/)
+- [Newsraft: feed reader with ncurses user interface](https://codeberg.org/grisha/newsraft)
+- [Emerge &lpar;YC W21&rpar; is hiring engineers to build the future of mobile development](https://www.ycombinator.com/companies/emerge-tools/jobs/5Y3MCJi-senior-mobile-engineer-remote)
+- [Kids and music lessons: why do many promising players quit early?](https://thewalrus.ca/why-do-kids-hate-music-lessons/)
+- [Two surprises in browser crashes](https://neugierig.org/software/blog/2023/01/browser-crashes.html)
+- [Emulating an emulator inside itself. Meet Blink](https://hiro.codes/read/emulating-an-emulator-inside-itself.-meet-blink)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

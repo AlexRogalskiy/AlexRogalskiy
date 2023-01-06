@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Kendrick Lamar’s New Chapter: Raw, Intimate and Unconstrained](https://www.nytimes.com/2022/12/27/magazine/kendrick-lamar-dave-free.html)
-- [Sony says the Playstation 5 shortage is over](https://www.theverge.com/2023/1/4/23539918/sony-playstation-5-shortage-over)
-- [Earth: A Status Report](https://www.overcomingbias.com/2023/01/earth-a-status-report.html)
-- [Adventures of Being a Solopreneur](https://www.zigpoll.com/blog/being-a-solopreneur-part-one)
-- [A New Music Programming Pin](https://www.youtube.com/watch?v=1FFTaI__l_A)
-- [Escaping from Bhyve](https://www.synacktiv.com/publications/escaping-from-bhyve.html)
-- [Show HN: GPT powered keyboard for iOS device](https://apps.apple.com/ca/app/ai-writer/id6444013958)
-- [Speaker Elections Decided by Multiple Ballots](https://history.house.gov/People/Office/Speakers-Multiple-Ballots/)
-- [Twisted carbon-eating tower is rising in the East](https://www.cnn.com/style/article/vincent-callebaut-tao-zhu-yin-yuan/index.html)
-- [We were all fans of Ken Block](https://www.theverge.com/23539381/ken-block-youtube-skateboard-rally-gymkhana-x-games)
+- [Circleci Warns Customers to Rotate Secrets After Security Incident](https://duo.com/decipher/circleci-warns-customers-to-rotate-secrets-after-security-incident)
+- [Has China’s Young Thousand Talents been successful in recruiting and nurturing?](https://www.science.org/doi/10.1126/science.abq1218)
+- [Summarise News Content with AI Browser Extension](https://chrome.google.com/webstore/detail/headline-ai/nhoifffibflnooboidhpmifkfjeegjbg)
+- [Auto-Browsing Reddit with My Mind](https://www.youtube.com/watch?v=cWPEpdtaMp8)
+- [Real World Divorce](http://www.realworlddivorce.com/)
+- [2022 JavaScript Rising Stars](https://risingstars.js.org/2022/en)
+- [Making THAT chess cheat device](https://www.youtube.com/watch?v=5uDM3fPeNFM)
+- [Why Japan is offering 1M yen per child to move out of Tokyo](https://www.moneycontrol.com/news/trends/why-japan-is-offering-1-million-yen-per-child-to-move-out-of-tokyo-other-big-cities-9816391.html)
+- [Prisoner in Austin. So Unreal](https://news.ycombinator.com/item?id=34270110)
+- [Astronomer lays off 20% of workforce](https://old.reddit.com/r/dataengineering/comments/1041369/seems_like_astronomer_quietly_laid_off_20/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

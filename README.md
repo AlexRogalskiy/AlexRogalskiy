@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Australia v South Africa: third Test, day two – live](https://www.theguardian.com/sport/live/2023/jan/05/australia-v-south-africa-third-test-day-two-live)
-- [House without a speaker as McCarthy fails to secure majority in six rounds of voting – live](https://www.theguardian.com/us-news/live/2023/jan/04/mccarthy-house-speaker-vote-republicans-trump-live-updates)
-- [Gio Reyna’s parents flagged Gregg Berhalter’s domestic dispute to US Soccer](https://www.theguardian.com/football/2023/jan/04/reyna-family-us-soccer-gregg-berhalter-domestic-incident)
-- [Russia-Ukraine war at a glance: What we know on day 316 of the invasion](https://www.theguardian.com/world/2023/jan/05/russia-ukraine-war-at-a-glance-what-we-know-on-day-316-of-the-invasion)
-- [Prince Harry details physical attack by brother William in new book](https://www.theguardian.com/books/2023/jan/04/prince-harry-william-physical-attack-2019-meghan-spare-book)
-- [Number of populist world leaders at 20-year low](https://www.theguardian.com/world/2023/jan/05/number-of-populist-world-leaders-at-20-year-low)
-- [Electric car sales reach record high in UK despite supply chain disruption](https://www.theguardian.com/business/2023/jan/05/electric-car-sales-reach-record-high-in-uk-despite-supply-chain-disruption)
-- [Anti-strike law could be brought forward as government tries to end disputes](https://www.theguardian.com/politics/2023/jan/04/anti-strike-law-could-be-brought-forward-as-government-tries-to-end-disputes)
-- [Cruises, crowds and fragile ecosystems: the delicate dance of Antarctic tourism](https://www.theguardian.com/world/2023/jan/05/cruises-crowds-and-fragile-ecosystems-the-delicate-dance-of-antarctic-tourism)
-- [Conte praises Spurs character after Palace win but ‘Levy Out’ chants remain](https://www.theguardian.com/football/2023/jan/04/antonio-conte-praises-tottenhams-character-after-crystal-palace-win)
+- [Australia v South Africa: third Test, day three – live](https://www.theguardian.com/sport/live/2023/jan/06/australia-v-south-africa-third-test-day-three-live)
+- [Kevin McCarthy loses speakership bid on third day as votes tally climbs to 11](https://www.theguardian.com/us-news/2023/jan/05/kevin-mccarthy-house-still-without-speaker)
+- [Veteran surfer dies at Portuguese big-wave break Nazaré](https://www.theguardian.com/world/2023/jan/06/veteran-surfer-dies-at-portuguese-big-wave-break-nazare)
+- [Indie bookshop numbers hit 10-year high in 2022 defying brutal UK retail year](https://www.theguardian.com/books/2023/jan/06/indie-bookshop-numbers-hit-10-year-high-in-2022-defying-brutal-uk-retail-year)
+- [FA Cup third round: 10 things to look out for this weekend](https://www.theguardian.com/football/2023/jan/06/fa-cup-third-round-10-things-to-look-out-for-this-weekend)
+- [Why is TikTok obsessed with dogs that look like pizza slices, and why is that making me sad?](https://www.theguardian.com/culture/2023/jan/06/why-is-tiktok-obsessed-with-dogs-that-look-like-pizza-slices-and-why-is-that-making-me-sad)
+- [Joan Sydney, Neighbours and A Country Practice actor, dies aged 83](https://www.theguardian.com/tv-and-radio/2023/jan/06/joan-sydney-neighbours-and-a-country-practice-actor-dies-aged-83)
+- [Hillary Clinton to join Columbia University as global affairs professor](https://www.theguardian.com/us-news/2023/jan/05/hillary-clinton-columbia-university-global-affairs-professor)
+- [‘I am a big boy’: Lampard demands Everton show courage in survival fight](https://www.theguardian.com/football/2023/jan/05/frank-lampard-demands-everton-show-courage-in-their-fight-for-survival)
+- [900,000 crimes committed by people on bail under Tories, analysis finds](https://www.theguardian.com/law/2023/jan/05/900000-crimes-committed-by-people-on-bail-under-tories-analysis-finds)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Tell HN: Crypto/web3 grifters are Now AI/ML grifters](https://news.ycombinator.com/item?id=34254377)
-- [FTC Cracks Down on Companies That Impose Harmful Noncompete Restrictions](https://www.ftc.gov/news-events/news/press-releases/2023/01/ftc-cracks-down-companies-impose-harmful-noncompete-restrictions-thousands-workers)
-- [RIP SF/f author Suzy McKee Charnas &lpar;1939-2023&rpar;](https://locusmag.com/2023/01/suzy-mckee-charnas-1939-2023/)
-- [Amazon to Lay Off over 17,000 Workers, More Than First Planned](https://www.wsj.com/articles/amazon-to-lay-off-over-17-000-workers-more-than-first-planned-11672874304)
-- [DragonFly BSD 6.4](https://www.dragonflybsd.org/release64/)
-- [Newsraft: feed reader with ncurses user interface](https://codeberg.org/grisha/newsraft)
-- [Emerge &lpar;YC W21&rpar; is hiring engineers to build the future of mobile development](https://www.ycombinator.com/companies/emerge-tools/jobs/5Y3MCJi-senior-mobile-engineer-remote)
-- [Kids and music lessons: why do many promising players quit early?](https://thewalrus.ca/why-do-kids-hate-music-lessons/)
-- [Two surprises in browser crashes](https://neugierig.org/software/blog/2023/01/browser-crashes.html)
-- [Emulating an emulator inside itself. Meet Blink](https://hiro.codes/read/emulating-an-emulator-inside-itself.-meet-blink)
+- [Omg.lol – A lovable web page and email address, just for you](https://home.omg.lol)
+- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Simulation Engineers](https://news.ycombinator.com/item?id=34269503)
+- [Roland&#39;s 50th Anniversary Concept Piano makes use of drone speakers](https://articles.roland.com/soaring-sound-meet-the-piano-of-the-future/)
+- [Google’s quest to digitize troops’ tissue samples](https://www.propublica.org/article/google-human-tissue-jpc-military)
+- [Transcoding Unicode with AVX-512: AMD Zen 4 vs. Intel Ice Lake](https://lemire.me/blog/2023/01/05/transcoding-unicode-with-avx-512-amd-zen-4-vs-intel-ice-lake/)
+- [Libcpucycles is a public-domain microlibrary for counting CPU cycles](https://cpucycles.cr.yp.to/)
+- [Database of 200k cell images yields new mathematical framework](https://alleninstitute.org/what-we-do/cell-science/news-press/articles/interior-design-our-cells)
+- [The physics principle of diffusion inspired modern AI art](https://www.quantamagazine.org/the-physics-principle-that-inspired-modern-ai-art-20230105/)
+- [Why are antennas popping up over the Salt Lake City foothills?](https://ksltv.com/516749/why-are-antennas-popping-up-all-over-the-foothills-salt-lake-city-seeks-to-solve-mystery/)
+- [Microfeatures I&#39;d like to see in more languages](https://buttondown.email/hillelwayne/archive/microfeatures-id-like-to-see-in-more-languages/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

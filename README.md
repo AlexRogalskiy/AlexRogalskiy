@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Circleci Warns Customers to Rotate Secrets After Security Incident](https://duo.com/decipher/circleci-warns-customers-to-rotate-secrets-after-security-incident)
-- [Has China’s Young Thousand Talents been successful in recruiting and nurturing?](https://www.science.org/doi/10.1126/science.abq1218)
-- [Summarise News Content with AI Browser Extension](https://chrome.google.com/webstore/detail/headline-ai/nhoifffibflnooboidhpmifkfjeegjbg)
-- [Auto-Browsing Reddit with My Mind](https://www.youtube.com/watch?v=cWPEpdtaMp8)
-- [Real World Divorce](http://www.realworlddivorce.com/)
-- [2022 JavaScript Rising Stars](https://risingstars.js.org/2022/en)
-- [Making THAT chess cheat device](https://www.youtube.com/watch?v=5uDM3fPeNFM)
-- [Why Japan is offering 1M yen per child to move out of Tokyo](https://www.moneycontrol.com/news/trends/why-japan-is-offering-1-million-yen-per-child-to-move-out-of-tokyo-other-big-cities-9816391.html)
-- [Prisoner in Austin. So Unreal](https://news.ycombinator.com/item?id=34270110)
-- [Astronomer lays off 20% of workforce](https://old.reddit.com/r/dataengineering/comments/1041369/seems_like_astronomer_quietly_laid_off_20/)
+- [IndieGoGo just canceled the campaign, refunded the donors, with no appeal](https://twitter.com/ninapaley/status/1611122694304722946)
+- [Burned by layoffs, tech workers are rethinking risk](https://techcrunch.com/2023/01/04/burned-by-layoffs-tech-workers-are-rethinking-risk/)
+- [Index of Learning Styles Questionnaire](https://www.engr.ncsu.edu/stem-resources/)
+- [English Eel-Rents: 10th-17th Centuries](https://historiacartarum.org/eel-rents-project/english-eel-rents-10th-17th-centuries/)
+- [Were the Irish Druids from the Lost Island of Atlantis?](https://www.mikeguarneri.com/p/were-the-irish-druids-from-the-lost)
+- [Ivermectin: From Soil to Worms, and Beyond &lpar;2019&rpar;](https://www.isglobal.org/healthisglobal/-/custom-blog-portlet/ivermectina-del-suelo-a-las-lombrices-y-mas-alla/3098670/0)
+- [Fully Transcribed Podcasts](https://steno.ai/)
+- [Hippotat – Asinine IP over HTTP](https://www.chiark.greenend.org.uk/~ianmdlvl/hippotat/current/docs/README.html)
+- [Show HN: Simple and powerful HTTP API testing](https://testingisdocumenting.org/blog/testing/simple-REST-test/)
+- [Always Bet on Text](https://graydon2.dreamwidth.org/193447.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

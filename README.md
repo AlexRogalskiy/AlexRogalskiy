@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Omg.lol – A lovable web page and email address, just for you](https://home.omg.lol)
-- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Simulation Engineers](https://news.ycombinator.com/item?id=34269503)
-- [Roland&#39;s 50th Anniversary Concept Piano makes use of drone speakers](https://articles.roland.com/soaring-sound-meet-the-piano-of-the-future/)
-- [Google’s quest to digitize troops’ tissue samples](https://www.propublica.org/article/google-human-tissue-jpc-military)
-- [Transcoding Unicode with AVX-512: AMD Zen 4 vs. Intel Ice Lake](https://lemire.me/blog/2023/01/05/transcoding-unicode-with-avx-512-amd-zen-4-vs-intel-ice-lake/)
-- [Libcpucycles is a public-domain microlibrary for counting CPU cycles](https://cpucycles.cr.yp.to/)
-- [Database of 200k cell images yields new mathematical framework](https://alleninstitute.org/what-we-do/cell-science/news-press/articles/interior-design-our-cells)
-- [The physics principle of diffusion inspired modern AI art](https://www.quantamagazine.org/the-physics-principle-that-inspired-modern-ai-art-20230105/)
-- [Why are antennas popping up over the Salt Lake City foothills?](https://ksltv.com/516749/why-are-antennas-popping-up-all-over-the-foothills-salt-lake-city-seeks-to-solve-mystery/)
-- [Microfeatures I&#39;d like to see in more languages](https://buttondown.email/hillelwayne/archive/microfeatures-id-like-to-see-in-more-languages/)
+- [Monkey stone tools shed doubts on the human origin of archeological sites](https://journals.sagepub.com/doi/10.1177/09596836221131707)
+- [Death by vegetable oil: What the studies say &lpar;2020&rpar;](https://www.jeffnobbs.com/posts/death-by-vegetable-oil-what-the-studies-say)
+- [Artsy Engineering Handbook](https://github.com/artsy/README)
+- [Less gym time, same results: Why ‘lowering’ weights is all you need to do](https://www.ecu.edu.au/newsroom/articles/research/less-gym-time-same-results-why-lowering-weights-is-all-you-need-to-do)
+- [BugChecker – a SoftICE-like kernel and user debugger for Windows](https://github.com/vitoplantamura/BugChecker)
+- [Perfect Circle](https://neal.fun/perfect-circle/)
+- [Why was Roman concrete so durable?](https://news.mit.edu/2023/roman-concrete-durability-lime-casts-0106)
+- [Netscape&#39;s Constellation &lpar;1997&rpar;](https://people.apache.org/~jim/NewArchitect/webrevu/1997/02_07/developers/02_07_97_2.html)
+- [Sunken Greenhouse](https://thetinylife.com/sunken-greenhouse/)
+- [Show HN: I spent 2 years building Tablane as a 17-year-old](https://github.com/Tablane/tablane)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

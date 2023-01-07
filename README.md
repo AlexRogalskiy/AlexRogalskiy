@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [How many jobs are available in technology in the US?](https://www.computerworld.com/article/3542681/how-many-jobs-are-available-in-technology.html#tk.rss_all)
+- [Microsoft teases Windows 12 at CES 2023](https://www.computerworld.com/article/3684754/microsoft-teases-windows-12-at-ces-2023.html#tk.rss_all)
+- [Microsoft’s bid for Activision-Blizzard faces new regulatory delays in UK](https://www.computerworld.com/article/3684751/microsoft-s-bid-for-activision-blizzard-faces-new-regulatory-delays-in-uk.html#tk.rss_all)
+- [Microsoft doc details the dos and don’ts of Mac ransomware](https://www.computerworld.com/article/3684849/microsoft-doc-details-the-dos-and-donts-of-mac-ransomware.html#tk.rss_all)
+- [7 advanced Android adjustments for your new year](https://www.computerworld.com/article/3684513/advanced-android-adjustments.html#tk.rss_all)
 - [Apple in India shows the future of tech](https://www.computerworld.com/article/3684731/apple-in-india-shows-the-future-of-tech.html#tk.rss_all)
 - [Amazon confirms more than 18,000 employees to be laid off](https://www.computerworld.com/article/3684789/amazon-confirms-more-than-18000-employees-to-be-laid-off.html#tk.rss_all)
 - [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
 - [Raises for some IT pros could jump 8% in 2023, exceeding inflation](https://www.computerworld.com/article/3684748/raises-for-some-it-pros-could-jump-8-in-2023-exceeding-inflation.html#tk.rss_all)
-- [The best remote tech jobs for 2023](https://www.computerworld.com/article/3684049/the-best-remote-tech-jobs-for-2023.html#tk.rss_all)
-- [Meta hit with $413 million fine in EU for breaking GDPR rules](https://www.computerworld.com/article/3684514/meta-hit-with-413-million-fine-in-eu-for-breaking-gdpr-rules.html#tk.rss_all)
-- [Apple contributes MagSafe to Qi2 standard — why it matters](https://www.computerworld.com/article/3684512/apple-contributes-magsafe-to-qi2-standard-why-it-matters.html#tk.rss_all)
-- [Microsoft reported to be integrating ChatGPT3 AI with Bing search](https://www.computerworld.com/article/3684489/microsoft-reported-to-be-integrating-chatgpt3-ai-with-bing-search.html#tk.rss_all)
-- [The best Android apps for team collaboration](https://www.computerworld.com/article/3672242/best-android-apps-team-collaboration.html#tk.rss_all)
-- [It’s 2023 — time for new Windows hardware?](https://www.computerworld.com/article/3684273/its-2023-time-for-new-windows-hardware.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

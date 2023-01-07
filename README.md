@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Australia v South Africa: third Test, day three – live](https://www.theguardian.com/sport/live/2023/jan/06/australia-v-south-africa-third-test-day-three-live)
-- [Kevin McCarthy loses speakership bid on third day as votes tally climbs to 11](https://www.theguardian.com/us-news/2023/jan/05/kevin-mccarthy-house-still-without-speaker)
-- [Veteran surfer dies at Portuguese big-wave break Nazaré](https://www.theguardian.com/world/2023/jan/06/veteran-surfer-dies-at-portuguese-big-wave-break-nazare)
-- [Indie bookshop numbers hit 10-year high in 2022 defying brutal UK retail year](https://www.theguardian.com/books/2023/jan/06/indie-bookshop-numbers-hit-10-year-high-in-2022-defying-brutal-uk-retail-year)
-- [FA Cup third round: 10 things to look out for this weekend](https://www.theguardian.com/football/2023/jan/06/fa-cup-third-round-10-things-to-look-out-for-this-weekend)
-- [Why is TikTok obsessed with dogs that look like pizza slices, and why is that making me sad?](https://www.theguardian.com/culture/2023/jan/06/why-is-tiktok-obsessed-with-dogs-that-look-like-pizza-slices-and-why-is-that-making-me-sad)
-- [Joan Sydney, Neighbours and A Country Practice actor, dies aged 83](https://www.theguardian.com/tv-and-radio/2023/jan/06/joan-sydney-neighbours-and-a-country-practice-actor-dies-aged-83)
-- [Hillary Clinton to join Columbia University as global affairs professor](https://www.theguardian.com/us-news/2023/jan/05/hillary-clinton-columbia-university-global-affairs-professor)
-- [‘I am a big boy’: Lampard demands Everton show courage in survival fight](https://www.theguardian.com/football/2023/jan/05/frank-lampard-demands-everton-show-courage-in-their-fight-for-survival)
-- [900,000 crimes committed by people on bail under Tories, analysis finds](https://www.theguardian.com/law/2023/jan/05/900000-crimes-committed-by-people-on-bail-under-tories-analysis-finds)
+- [Australia v South Africa: third Test, day four – live](https://www.theguardian.com/sport/live/2023/jan/07/australia-v-south-africa-third-test-day-four-live)
+- [Russia-Ukraine war at a glance: what we know on day 318 of the invasion](https://www.theguardian.com/world/2023/jan/07/russia-ukraine-war-at-a-glance-what-we-know-on-day-318-of-the-invasion)
+- [‘We’ll have the votes’: McCarthy appears upbeat as House adjourns](https://www.theguardian.com/us-news/2023/jan/06/house-speaker-spectacle-continues-mccarthy-faces-fourth-day-voting)
+- [Six-year-old intentionally shot teacher in Virginia school, police say](https://www.theguardian.com/us-news/2023/jan/06/virginia-school-student-shot-teacher)
+- [Morrissey says Miley Cyrus album exit was nothing to do with his politics](https://www.theguardian.com/music/2023/jan/07/morrissey-says-miley-cyrus-exit-was-nothing-to-do-with-his-politics)
+- [Quarter of ambulance patients in England wait an hour to get into A&amp;E after arrival](https://www.theguardian.com/society/2023/jan/06/quarter-of-ambulance-patients-in-england-faced-hours-wait-for-a-and-e)
+- [Man held on suspicion of murder after death of elderly woman in Cotswolds](https://www.theguardian.com/uk-news/2023/jan/06/man-held-on-suspicion-of-after-death-of-elderly-woman-in-cotswolds)
+- [Alex Jones lawyer’s license is suspended for releasing sensitive records](https://www.theguardian.com/us-news/2023/jan/06/alex-jones-lawyer-license-suspended-sensitive-records-release)
+- [Antonio Conte mourns another friend with the death of Gianluca Vialli](https://www.theguardian.com/football/2023/jan/06/antonio-conte-mourns-another-friend-with-death-of-gianluca-vialli)
+- [Marcus Rashford shines in Manchester United’s FA Cup win over Everton](https://www.theguardian.com/football/2023/jan/06/manchester-united-everton-fa-cup-third-round-match-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

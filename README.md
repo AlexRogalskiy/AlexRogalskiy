@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Australia v South Africa: third Test, day four – live](https://www.theguardian.com/sport/live/2023/jan/07/australia-v-south-africa-third-test-day-four-live)
-- [Russia-Ukraine war at a glance: what we know on day 318 of the invasion](https://www.theguardian.com/world/2023/jan/07/russia-ukraine-war-at-a-glance-what-we-know-on-day-318-of-the-invasion)
-- [‘We’ll have the votes’: McCarthy appears upbeat as House adjourns](https://www.theguardian.com/us-news/2023/jan/06/house-speaker-spectacle-continues-mccarthy-faces-fourth-day-voting)
-- [Six-year-old intentionally shot teacher in Virginia school, police say](https://www.theguardian.com/us-news/2023/jan/06/virginia-school-student-shot-teacher)
-- [Morrissey says Miley Cyrus album exit was nothing to do with his politics](https://www.theguardian.com/music/2023/jan/07/morrissey-says-miley-cyrus-exit-was-nothing-to-do-with-his-politics)
-- [Quarter of ambulance patients in England wait an hour to get into A&amp;E after arrival](https://www.theguardian.com/society/2023/jan/06/quarter-of-ambulance-patients-in-england-faced-hours-wait-for-a-and-e)
-- [Man held on suspicion of murder after death of elderly woman in Cotswolds](https://www.theguardian.com/uk-news/2023/jan/06/man-held-on-suspicion-of-after-death-of-elderly-woman-in-cotswolds)
-- [Alex Jones lawyer’s license is suspended for releasing sensitive records](https://www.theguardian.com/us-news/2023/jan/06/alex-jones-lawyer-license-suspended-sensitive-records-release)
-- [Antonio Conte mourns another friend with the death of Gianluca Vialli](https://www.theguardian.com/football/2023/jan/06/antonio-conte-mourns-another-friend-with-death-of-gianluca-vialli)
-- [Marcus Rashford shines in Manchester United’s FA Cup win over Everton](https://www.theguardian.com/football/2023/jan/06/manchester-united-everton-fa-cup-third-round-match-report)
+- [Australia v South Africa: third Test, day five – live](https://www.theguardian.com/sport/live/2023/jan/08/australia-v-south-africa-third-test-day-five-live)
+- [China drops quarantine for visitors as lunar new year travel kicks off amid Covid surge](https://www.theguardian.com/world/2023/jan/08/china-drops-quarantine-for-visitors-as-lunar-new-year-travel-kicks-off-amid-covid-surge)
+- [Russia-Ukraine war at a glance: what we know on day 319 of the invasion](https://www.theguardian.com/world/2023/jan/08/russia-ukraine-war-at-a-glance-what-we-know-on-day-319-of-the-invasion)
+- [‘Unstoppable’ Novak Djokovic suffers injury scare in Adelaide win as streak hits 33 games](https://www.theguardian.com/sport/2023/jan/08/unstoppable-novak-djokovic-suffers-injury-scare-in-adelaide-win-as-streak-hits-33-games)
+- [British firms set to feel chill as Jeremy Hunt cuts energy bill relief](https://www.theguardian.com/business/2023/jan/08/british-firms-set-to-feel-chill-as-jeremy-hunt-cuts-energy-bill-relief)
+- [Damar Hamlin posts on social media for first time since cardiac arrest on field](https://www.theguardian.com/sport/2023/jan/08/damar-hamlin-buffalo-bills-nfl-instagram-post)
+- [Twitter reportedly makes more cuts to online safety teams](https://www.theguardian.com/technology/2023/jan/07/twitter-reportedly-makes-more-cuts-to-online-safety-teams)
+- [Julen Lopetegui says ‘tactical camera’ showed Wolves goal should have stood](https://www.theguardian.com/football/2023/jan/07/julen-lopetegui-tactical-camera-showed-var-mistake-wolves-goal)
+- [At least one dead and 57 injured in collision on Mexico City’s metro](https://www.theguardian.com/world/2023/jan/07/at-least-one-dead-and-22-injured-in-collision-on-mexico-citys-metro)
+- [Chile’s justice minister resigns in face of opposition to protester pardons](https://www.theguardian.com/world/2023/jan/07/chiles-justice-minister-resigns-in-face-of-opposition-to-protester-pardons)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

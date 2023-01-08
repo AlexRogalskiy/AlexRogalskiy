@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Monkey stone tools shed doubts on the human origin of archeological sites](https://journals.sagepub.com/doi/10.1177/09596836221131707)
-- [Death by vegetable oil: What the studies say &lpar;2020&rpar;](https://www.jeffnobbs.com/posts/death-by-vegetable-oil-what-the-studies-say)
-- [Artsy Engineering Handbook](https://github.com/artsy/README)
-- [Less gym time, same results: Why ‘lowering’ weights is all you need to do](https://www.ecu.edu.au/newsroom/articles/research/less-gym-time-same-results-why-lowering-weights-is-all-you-need-to-do)
-- [BugChecker – a SoftICE-like kernel and user debugger for Windows](https://github.com/vitoplantamura/BugChecker)
-- [Perfect Circle](https://neal.fun/perfect-circle/)
-- [Why was Roman concrete so durable?](https://news.mit.edu/2023/roman-concrete-durability-lime-casts-0106)
-- [Netscape&#39;s Constellation &lpar;1997&rpar;](https://people.apache.org/~jim/NewArchitect/webrevu/1997/02_07/developers/02_07_97_2.html)
-- [Sunken Greenhouse](https://thetinylife.com/sunken-greenhouse/)
-- [Show HN: I spent 2 years building Tablane as a 17-year-old](https://github.com/Tablane/tablane)
+- [California is getting drenched. So why can&#39;t it save water for the drought?](https://www.npr.org/2023/01/07/1147494521/california-weather-storm-water)
+- [Oxygene Pt. 4 by Jean-Michel Jarre, Performed by 19KB of JavaScript Code](https://dittytoy.net/ditty/24373308b4)
+- [Tell HN: Maarten van Emden died on January 4, 2023](https://news.ycombinator.com/item?id=34294817)
+- [Afroman – Will You Help Me Repair My Door &lpar;Official Music Video&rpar;](https://www.youtube.com/watch?v=oponIfu5L3Y)
+- [Testing Without Mocks: A Pattern Language](https://www.jamesshore.com/v2/projects/testing-without-mocks/testing-without-mocks)
+- [The i3-gaps project has been merged with i3](https://github.com/Airblader/i3)
+- [Jailbroken iOS can&#39;t run macOS apps – I spent a week to find out why &lpar;2021&rpar;](https://worthdoingbadly.com/macappsios/)
+- [There Is No Software Maintenance](https://henrikwarne.com/2023/01/07/there-is-no-software-maintenance/)
+- [Using Qt 6 under LGPLv3](https://embeddeduse.com/2023/01/06/using-qt-5-15-and-qt-6-under-lgplv3/)
+- [ChatGPT won’t replace search engines any time soon](https://www.algolia.com/blog/ai/why-chatgpt-wont-replace-search-engines-any-time-soon/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

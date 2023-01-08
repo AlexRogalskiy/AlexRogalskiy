@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [IndieGoGo just canceled the campaign, refunded the donors, with no appeal](https://twitter.com/ninapaley/status/1611122694304722946)
-- [Burned by layoffs, tech workers are rethinking risk](https://techcrunch.com/2023/01/04/burned-by-layoffs-tech-workers-are-rethinking-risk/)
-- [Index of Learning Styles Questionnaire](https://www.engr.ncsu.edu/stem-resources/)
-- [English Eel-Rents: 10th-17th Centuries](https://historiacartarum.org/eel-rents-project/english-eel-rents-10th-17th-centuries/)
-- [Were the Irish Druids from the Lost Island of Atlantis?](https://www.mikeguarneri.com/p/were-the-irish-druids-from-the-lost)
-- [Ivermectin: From Soil to Worms, and Beyond &lpar;2019&rpar;](https://www.isglobal.org/healthisglobal/-/custom-blog-portlet/ivermectina-del-suelo-a-las-lombrices-y-mas-alla/3098670/0)
-- [Fully Transcribed Podcasts](https://steno.ai/)
-- [Hippotat – Asinine IP over HTTP](https://www.chiark.greenend.org.uk/~ianmdlvl/hippotat/current/docs/README.html)
-- [Show HN: Simple and powerful HTTP API testing](https://testingisdocumenting.org/blog/testing/simple-REST-test/)
-- [Always Bet on Text](https://graydon2.dreamwidth.org/193447.html)
+- [The Details Behind David Beckham’s MLS Contract That Earned $500M](https://huddleup.substack.com/p/the-hidden-details-behind-david-beckhams)
+- [Jersey City Got to Zero Traffic Deaths on Its Streets](https://www.bloomberg.com/news/features/2022-12-28/it-s-been-a-deadly-year-on-us-roads-except-in-this-city)
+- [Microbenchmarking AMD’s RDNA 3 Graphics Architecture](https://chipsandcheese.com/2023/01/07/microbenchmarking-amds-rdna-3-graphics-architecture/)
+- [SDL2 common mistakes and how to avoid them](https://nullprogram.com/blog/2023/01/08/)
+- [Foraging for Abundance](https://breatheyourbeing.substack.com/p/foraging-for-abundance)
+- [Turn Every Page – The Adventures of Robert Caro and Robert Gottlieb](https://www.nytimes.com/2022/12/29/movies/turn-every-page-review.html)
+- [U.S. gov&#39;t announces intent to slash citizenship renunciation fee by four-fifths](https://www.americanexpatfinance.com/news/item/1089-us-govt-announces-intent-to-slash-citizenship-renunciation-fee)
+- [Russia’s Rebound](https://www.foreignaffairs.com/ukraine/russia-rebound-moscow-recovered-military-setbacks)
+- [Acer Unveils the EKinekt Bike Desk to Empower Active and Sustainable Lifestyles](https://news.acer.com/acer-unveils-the-ekinekt-bike-desk-to-empower-active-and-sustainable-lifestyles)
+- [Jewish artist paved the way for new tax laws in Albany Georgia](https://news.ycombinator.com/item?id=34295218)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

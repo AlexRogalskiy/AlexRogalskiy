@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Details Behind David Beckham’s MLS Contract That Earned $500M](https://huddleup.substack.com/p/the-hidden-details-behind-david-beckhams)
-- [Jersey City Got to Zero Traffic Deaths on Its Streets](https://www.bloomberg.com/news/features/2022-12-28/it-s-been-a-deadly-year-on-us-roads-except-in-this-city)
-- [Microbenchmarking AMD’s RDNA 3 Graphics Architecture](https://chipsandcheese.com/2023/01/07/microbenchmarking-amds-rdna-3-graphics-architecture/)
-- [SDL2 common mistakes and how to avoid them](https://nullprogram.com/blog/2023/01/08/)
-- [Foraging for Abundance](https://breatheyourbeing.substack.com/p/foraging-for-abundance)
-- [Turn Every Page – The Adventures of Robert Caro and Robert Gottlieb](https://www.nytimes.com/2022/12/29/movies/turn-every-page-review.html)
-- [U.S. gov&#39;t announces intent to slash citizenship renunciation fee by four-fifths](https://www.americanexpatfinance.com/news/item/1089-us-govt-announces-intent-to-slash-citizenship-renunciation-fee)
-- [Russia’s Rebound](https://www.foreignaffairs.com/ukraine/russia-rebound-moscow-recovered-military-setbacks)
-- [Acer Unveils the EKinekt Bike Desk to Empower Active and Sustainable Lifestyles](https://news.acer.com/acer-unveils-the-ekinekt-bike-desk-to-empower-active-and-sustainable-lifestyles)
-- [Jewish artist paved the way for new tax laws in Albany Georgia](https://news.ycombinator.com/item?id=34295218)
+- [Build a New One](https://seths.blog/2023/01/build-a-new-one/)
+- [Extreme questions to trigger new, better ideas](https://longform.asmartbear.com/posts/extreme-questions/)
+- [Pro-Bolsonaro rioters storm Brazil’s top government offices](https://apnews.com/article/jair-bolsonaro-brazil-government-caribbean-0c03c098a5e2a09ac534412c30ae8355)
+- [Ask HN: What would HN on Mastodon be like?](https://news.ycombinator.com/item?id=34305957)
+- [Walker’s Manly Exercises](https://blogs.bl.uk/untoldlives/2023/01/walkers-manly-exercises.html)
+- [A Profession, If You Can Keep It](https://contingentmagazine.org/2023/01/07/a-profession-if-you-can-keep-it/)
+- [Let me write, I mean, think about it](https://critter.blog/2023/01/04/let-me-write-i-mean-think-about-it/)
+- [The Dystopia We Fear Is Keeping Us from the Abundance Utopia We Deserve](https://www.nytimes.com/2023/01/08/opinion/nuclear-fusion-flying-cars.html)
+- [BeeLine Reader: Read Faster and Easier, All Day Long](https://www.beelinereader.com/)
+- [Understanding Japan &lpar;2014&rpar;](https://sive.rs/jp14)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

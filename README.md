@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [California is getting drenched. So why can&#39;t it save water for the drought?](https://www.npr.org/2023/01/07/1147494521/california-weather-storm-water)
-- [Oxygene Pt. 4 by Jean-Michel Jarre, Performed by 19KB of JavaScript Code](https://dittytoy.net/ditty/24373308b4)
-- [Tell HN: Maarten van Emden died on January 4, 2023](https://news.ycombinator.com/item?id=34294817)
-- [Afroman – Will You Help Me Repair My Door &lpar;Official Music Video&rpar;](https://www.youtube.com/watch?v=oponIfu5L3Y)
-- [Testing Without Mocks: A Pattern Language](https://www.jamesshore.com/v2/projects/testing-without-mocks/testing-without-mocks)
-- [The i3-gaps project has been merged with i3](https://github.com/Airblader/i3)
-- [Jailbroken iOS can&#39;t run macOS apps – I spent a week to find out why &lpar;2021&rpar;](https://worthdoingbadly.com/macappsios/)
-- [There Is No Software Maintenance](https://henrikwarne.com/2023/01/07/there-is-no-software-maintenance/)
-- [Using Qt 6 under LGPLv3](https://embeddeduse.com/2023/01/06/using-qt-5-15-and-qt-6-under-lgplv3/)
-- [ChatGPT won’t replace search engines any time soon](https://www.algolia.com/blog/ai/why-chatgpt-wont-replace-search-engines-any-time-soon/)
+- [And Just Like That, America Becomes More Rural](https://www.wsj.com/articles/and-just-like-that-america-becomes-more-rural-11672963347)
+- [Reintroducing bison on tallgrass prairie doubles plant diversity](https://www.agriculture.com/news/business/kansas-research-shows-reintroducing-bison-on-tallgrass-prairie-doubles-plant-diversity)
+- [Furby source code &lpar;1998&rpar;](https://archive.org/details/furby-source)
+- [Safari is released to the world &lpar;2013&rpar;](https://donmelton.com/2013/01/10/safari-is-released-to-the-world/)
+- [Unbricking a Bios-Bricked Motherboard](https://davidesnotes.com/shorts/1/)
+- [CDC File Transfer](https://github.com/google/cdc-file-transfer)
+- [Monitoring ECC memory on Linux with rasdaemon](https://www.setphaserstostun.org/posts/monitoring-ecc-memory-on-linux-with-rasdaemon/)
+- [Smells, Spanners, and Switches &lpar;2016&rpar;](https://inference-review.com/article/smells-spanners-and-switches)
+- [OneSignal &lpar;YC S11&rpar; Is Hiring Product Engineers](https://onesignal.com/careers/4004540006)
+- [Finding Fulfillment](https://longform.asmartbear.com/docs/fulfillment/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

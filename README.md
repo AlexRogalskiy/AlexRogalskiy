@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Australia v South Africa: third Test, day five – live](https://www.theguardian.com/sport/live/2023/jan/08/australia-v-south-africa-third-test-day-five-live)
-- [China drops quarantine for visitors as lunar new year travel kicks off amid Covid surge](https://www.theguardian.com/world/2023/jan/08/china-drops-quarantine-for-visitors-as-lunar-new-year-travel-kicks-off-amid-covid-surge)
-- [Russia-Ukraine war at a glance: what we know on day 319 of the invasion](https://www.theguardian.com/world/2023/jan/08/russia-ukraine-war-at-a-glance-what-we-know-on-day-319-of-the-invasion)
-- [‘Unstoppable’ Novak Djokovic suffers injury scare in Adelaide win as streak hits 33 games](https://www.theguardian.com/sport/2023/jan/08/unstoppable-novak-djokovic-suffers-injury-scare-in-adelaide-win-as-streak-hits-33-games)
-- [British firms set to feel chill as Jeremy Hunt cuts energy bill relief](https://www.theguardian.com/business/2023/jan/08/british-firms-set-to-feel-chill-as-jeremy-hunt-cuts-energy-bill-relief)
-- [Damar Hamlin posts on social media for first time since cardiac arrest on field](https://www.theguardian.com/sport/2023/jan/08/damar-hamlin-buffalo-bills-nfl-instagram-post)
-- [Twitter reportedly makes more cuts to online safety teams](https://www.theguardian.com/technology/2023/jan/07/twitter-reportedly-makes-more-cuts-to-online-safety-teams)
-- [Julen Lopetegui says ‘tactical camera’ showed Wolves goal should have stood](https://www.theguardian.com/football/2023/jan/07/julen-lopetegui-tactical-camera-showed-var-mistake-wolves-goal)
-- [At least one dead and 57 injured in collision on Mexico City’s metro](https://www.theguardian.com/world/2023/jan/07/at-least-one-dead-and-22-injured-in-collision-on-mexico-citys-metro)
-- [Chile’s justice minister resigns in face of opposition to protester pardons](https://www.theguardian.com/world/2023/jan/07/chiles-justice-minister-resigns-in-face-of-opposition-to-protester-pardons)
+- [Brazil protests: Bolsonaro denounces violence as 300 arrested after his supporters storm congress –live](https://www.theguardian.com/world/live/2023/jan/08/brazils-presidential-palace-and-supreme-court-stormed-by-pro-bolsonaro-supporters-live)
+- [Russia-Ukraine war at a glance: what we know on day 320 of the invasion](https://www.theguardian.com/world/2023/jan/09/russia-ukraine-war-at-a-glance-what-we-know-on-day-320-of-the-invasion)
+- [Prince Harry defends tell-all memoir in furious ITV interview](https://www.theguardian.com/uk-news/2023/jan/08/prince-harry-defends-tell-all-memoir-in-furious-itv-interview)
+- [UK household income likely to fall by £2,000 a year, says thinktank](https://www.theguardian.com/business/2023/jan/09/uk-household-income-likely-to-fall-by-2000-a-year-says-thinktank)
+- [UK manufacturers fear blackouts and job losses after energy subsidy cut](https://www.theguardian.com/business/2023/jan/09/uk-manufacturers-fear-blackouts-and-job-losses-after-energy-subsidy-cut)
+- [Ministers’ procurement bill a ‘charter for cronies’, says Labour](https://www.theguardian.com/uk-news/2023/jan/09/ministers-procurement-bill-a-charter-for-cronies-says-labour)
+- [Care providers ask for doubled fees to care for people discharged from hospitals](https://www.theguardian.com/society/2023/jan/08/care-providers-ask-for-doubled-fees-to-care-for-people-discharged-from-hospitals)
+- [Households in Yorkshire ‘most willing to live near windfarm’](https://www.theguardian.com/environment/2023/jan/09/households-in-yorkshire-most-willing-to-live-near-windfarm)
+- [Bolsonaro supporters storm Brazil’s political buildings – in pictures](https://www.theguardian.com/news/gallery/2023/jan/08/bolsonaro-supporters-storm-brazils-political-buildings-in-pictures)
+- [Mark Selby knocked out of Masters by Hossein Vafaei on day of shocks](https://www.theguardian.com/sport/2023/jan/08/shaun-murphy-dumps-defending-champion-neil-robertson-out-of-masters-snooker)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

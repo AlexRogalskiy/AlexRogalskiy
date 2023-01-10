@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [And Just Like That, America Becomes More Rural](https://www.wsj.com/articles/and-just-like-that-america-becomes-more-rural-11672963347)
-- [Reintroducing bison on tallgrass prairie doubles plant diversity](https://www.agriculture.com/news/business/kansas-research-shows-reintroducing-bison-on-tallgrass-prairie-doubles-plant-diversity)
-- [Furby source code &lpar;1998&rpar;](https://archive.org/details/furby-source)
-- [Safari is released to the world &lpar;2013&rpar;](https://donmelton.com/2013/01/10/safari-is-released-to-the-world/)
-- [Unbricking a Bios-Bricked Motherboard](https://davidesnotes.com/shorts/1/)
-- [CDC File Transfer](https://github.com/google/cdc-file-transfer)
-- [Monitoring ECC memory on Linux with rasdaemon](https://www.setphaserstostun.org/posts/monitoring-ecc-memory-on-linux-with-rasdaemon/)
-- [Smells, Spanners, and Switches &lpar;2016&rpar;](https://inference-review.com/article/smells-spanners-and-switches)
-- [OneSignal &lpar;YC S11&rpar; Is Hiring Product Engineers](https://onesignal.com/careers/4004540006)
-- [Finding Fulfillment](https://longform.asmartbear.com/docs/fulfillment/)
+- [Tell HN: Airbnb has no system in place when a host cancels on a renter](https://news.ycombinator.com/item?id=34319414)
+- [Old Man Yells at Cloud: Technology has gotten objectively worse](https://www.jonandnic.com/2023/01/08/old-man-yells-at-cloud/)
+- [Canada buys 88 F-35 fighter jets for $14.2B](https://www.aljazeera.com/news/2023/1/9/canada-finalises-deal-to-buy-dozens-of-f-35-fighter-jets-from-us)
+- [UPS and the Package Wars](https://www.newyorker.com/magazine/2023/01/16/can-ups-still-deliver-a-middle-class-life)
+- [Fyrox Game Engine 0.29](https://fyrox.rs/blog/post/feature-highlights-0-29/)
+- [Visualizing the Inside of Cells at Previously Impossible Resolutions Provides Vi](https://singularityhub.com/2023/01/09/visualizing-the-inside-of-cells-at-previously-impossible-resolutions-provides-vivid-insights-into-how-they-work/)
+- [A college student made an app to detect AI-written text](https://www.npr.org/2023/01/09/1147549845/gptzero-ai-chatgpt-edward-tian-plagiarism)
+- [Making Sense of Hexdump &lpar;2008&rpar;](https://www.suse.com/c/making-sense-hexdump/)
+- [Just: A Command Runner](https://github.com/casey/just)
+- [Tomu – A family of devices which fit inside your USB port](https://tomu.im/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

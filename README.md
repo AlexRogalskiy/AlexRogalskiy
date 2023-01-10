@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Brazil protests: Bolsonaro denounces violence as 300 arrested after his supporters storm congress –live](https://www.theguardian.com/world/live/2023/jan/08/brazils-presidential-palace-and-supreme-court-stormed-by-pro-bolsonaro-supporters-live)
-- [Russia-Ukraine war at a glance: what we know on day 320 of the invasion](https://www.theguardian.com/world/2023/jan/09/russia-ukraine-war-at-a-glance-what-we-know-on-day-320-of-the-invasion)
-- [Prince Harry defends tell-all memoir in furious ITV interview](https://www.theguardian.com/uk-news/2023/jan/08/prince-harry-defends-tell-all-memoir-in-furious-itv-interview)
-- [UK household income likely to fall by £2,000 a year, says thinktank](https://www.theguardian.com/business/2023/jan/09/uk-household-income-likely-to-fall-by-2000-a-year-says-thinktank)
-- [UK manufacturers fear blackouts and job losses after energy subsidy cut](https://www.theguardian.com/business/2023/jan/09/uk-manufacturers-fear-blackouts-and-job-losses-after-energy-subsidy-cut)
-- [Ministers’ procurement bill a ‘charter for cronies’, says Labour](https://www.theguardian.com/uk-news/2023/jan/09/ministers-procurement-bill-a-charter-for-cronies-says-labour)
-- [Care providers ask for doubled fees to care for people discharged from hospitals](https://www.theguardian.com/society/2023/jan/08/care-providers-ask-for-doubled-fees-to-care-for-people-discharged-from-hospitals)
-- [Households in Yorkshire ‘most willing to live near windfarm’](https://www.theguardian.com/environment/2023/jan/09/households-in-yorkshire-most-willing-to-live-near-windfarm)
-- [Bolsonaro supporters storm Brazil’s political buildings – in pictures](https://www.theguardian.com/news/gallery/2023/jan/08/bolsonaro-supporters-storm-brazils-political-buildings-in-pictures)
-- [Mark Selby knocked out of Masters by Hossein Vafaei on day of shocks](https://www.theguardian.com/sport/2023/jan/08/shaun-murphy-dumps-defending-champion-neil-robertson-out-of-masters-snooker)
+- [Dr Dre deplores ‘hateful’ Marjorie Taylor Greene using his song in removed video](https://www.theguardian.com/music/2023/jan/09/dr-dre-marjorie-taylor-greene-song-promo-video)
+- [Several California counties ordered to evacuate as deadly storm weathers on](https://www.theguardian.com/us-news/2023/jan/09/california-weather-flooding-storms-heavy-rains-winds)
+- [US justice department investigating papers stored at Biden’s former institute](https://www.theguardian.com/us-news/2023/jan/09/us-justice-department-investigating-documents-biden)
+- [Russia-Ukraine war at a glance: what we know on day 321 of the invasion](https://www.theguardian.com/world/2023/jan/10/russia-ukraine-war-at-a-glance-what-we-know-on-day-321-of-the-invasion)
+- [Former Team GB rower killed after being thrown from horse, inquest hears](https://www.theguardian.com/uk-news/2023/jan/10/former-team-gb-rower-killed-after-being-thrown-from-horse-inquest-hears)
+- [‘Bottles, glass, bullets’: inside the wreckage of Brazil’s failed coup](https://www.theguardian.com/world/2023/jan/09/brazil-failed-coup-wreckage)
+- [Disappointing end to UK space mission as satellites fail to reach orbit](https://www.theguardian.com/science/2023/jan/09/uks-first-orbital-rocket-mission-takes-off-from-cornwall)
+- [Millions of cat owners could be forced to microchip pets](https://www.theguardian.com/lifeandstyle/2023/jan/10/millions-of-cat-owners-could-be-forced-to-microchip-pets)
+- [Christmas and World Cup help UK retail sales rise in December](https://www.theguardian.com/business/2023/jan/10/christmas-and-world-cup-help-uk-retail-sales-rise-in-december)
+- [NHS in England to offer artificial pancreas to help manage type 1 diabetes](https://www.theguardian.com/society/2023/jan/10/nhs-england-artificial-pancreas-type-1-diabetes)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

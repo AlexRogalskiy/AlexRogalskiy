@@ -355,6 +355,8 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Apple won’t announce VR for the rest of us at WWDC](https://www.computerworld.com/article/3684793/apple-wont-announce-vr-for-the-rest-of-us-at-wwdc.html#tk.rss_all)
+- [How to buy PCs for your enterprise](https://www.computerworld.com/article/3682771/how-to-buy-pcs-for-your-enterprise.html#tk.rss_all)
 - [How many jobs are available in technology in the US?](https://www.computerworld.com/article/3542681/how-many-jobs-are-available-in-technology.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [Microsoft teases Windows 12 at CES 2023](https://www.computerworld.com/article/3684754/microsoft-teases-windows-12-at-ces-2023.html#tk.rss_all)
@@ -363,8 +365,6 @@
 - [7 advanced Android adjustments for your new year](https://www.computerworld.com/article/3684513/advanced-android-adjustments.html#tk.rss_all)
 - [Apple in India shows the future of tech](https://www.computerworld.com/article/3684731/apple-in-india-shows-the-future-of-tech.html#tk.rss_all)
 - [Amazon confirms more than 18,000 employees to be laid off](https://www.computerworld.com/article/3684789/amazon-confirms-more-than-18000-employees-to-be-laid-off.html#tk.rss_all)
-- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
-- [Raises for some IT pros could jump 8% in 2023, exceeding inflation](https://www.computerworld.com/article/3684748/raises-for-some-it-pros-could-jump-8-in-2023-exceeding-inflation.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

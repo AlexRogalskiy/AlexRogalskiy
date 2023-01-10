@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Build a New One](https://seths.blog/2023/01/build-a-new-one/)
-- [Extreme questions to trigger new, better ideas](https://longform.asmartbear.com/posts/extreme-questions/)
-- [Pro-Bolsonaro rioters storm Brazil’s top government offices](https://apnews.com/article/jair-bolsonaro-brazil-government-caribbean-0c03c098a5e2a09ac534412c30ae8355)
-- [Ask HN: What would HN on Mastodon be like?](https://news.ycombinator.com/item?id=34305957)
-- [Walker’s Manly Exercises](https://blogs.bl.uk/untoldlives/2023/01/walkers-manly-exercises.html)
-- [A Profession, If You Can Keep It](https://contingentmagazine.org/2023/01/07/a-profession-if-you-can-keep-it/)
-- [Let me write, I mean, think about it](https://critter.blog/2023/01/04/let-me-write-i-mean-think-about-it/)
-- [The Dystopia We Fear Is Keeping Us from the Abundance Utopia We Deserve](https://www.nytimes.com/2023/01/08/opinion/nuclear-fusion-flying-cars.html)
-- [BeeLine Reader: Read Faster and Easier, All Day Long](https://www.beelinereader.com/)
-- [Understanding Japan &lpar;2014&rpar;](https://sive.rs/jp14)
+- [LangChain: An interface for composing chains of LLM calls](https://github.com/hwchase17/langchain)
+- [VanadiumOS: Portable, multi-user Unix-like OS](https://github.com/p-durlej/newsys)
+- [Identifying People Using Cell Phone Location Data](https://www.schneier.com/blog/archives/2023/01/identifying-people-using-cell-phone-location-data.html)
+- [What the West Doesn’t Know About China’s Silicon Valley](https://www.wired.com/story/what-the-west-doesnt-know-about-chinas-silicon-valley/)
+- [Handling 100K Consumers with One Pulsar Topic](https://streamnative.io/blog/case/2023-01-10-handling-100k-consumers-with-one-pulsar-topic/)
+- [China’s Covid patients face medical debt crisis as insurers refuse coverage](https://www.ft.com/content/c049eb2d-4455-4ed3-b775-2c6818ec5737)
+- [New Jersey, Ohio join other states in banning TikTok from state devices](https://www.reuters.com/technology/new-jersey-ohio-join-other-states-banning-tiktok-state-devices-2023-01-09/)
+- [Pfizer says it could start making Paxlovid in China in 3-4 months](https://www.ft.com/content/c7bd523e-54e1-46b6-ae27-10e75f7b5db0)
+- [Renode: Simulate physical hardware development for IoT and embedded systems](https://renode.io)
+- [Public Transit Goes Off Rails with Fewer Riders, Dwindling Cash, Rising Crime](https://www.wsj.com/articles/subway-mta-bart-public-transit-new-york-boston-san-francisco-11673198418)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

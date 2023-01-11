@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [IT leads industries in remote jobs](https://www.computerworld.com/article/3685232/it-leads-industries-in-remote-jobs.html#tk.rss_all)
+- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
+- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
+- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
+- [15 years of iPhone put Apple into business](https://www.computerworld.com/article/3685228/15-years-of-iphone-put-apple-into-business.html#tk.rss_all)
+- [Meta launches AI-based VRS system to reduce bias in advertising](https://www.computerworld.com/article/3685229/meta-launches-ai-based-vrs-system-to-reduce-bias-in-advertising.html#tk.rss_all)
+- [The office is dead](https://www.computerworld.com/article/3684773/the-office-is-dead.html#tk.rss_all)
+- [Microsoft in talks to invest $10 billion in OpenAI: Report](https://www.computerworld.com/article/3685208/microsoft-in-talks-to-invest-10-billion-in-openai-report.html#tk.rss_all)
+- [This lawsuit against Microsoft could change the future of AI](https://www.computerworld.com/article/3684734/this-lawsuit-against-microsoft-could-change-the-future-of-ai.html#tk.rss_all)
 - [Apple won’t announce VR for the rest of us at WWDC](https://www.computerworld.com/article/3684793/apple-wont-announce-vr-for-the-rest-of-us-at-wwdc.html#tk.rss_all)
-- [How to buy PCs for your enterprise](https://www.computerworld.com/article/3682771/how-to-buy-pcs-for-your-enterprise.html#tk.rss_all)
-- [How many jobs are available in technology in the US?](https://www.computerworld.com/article/3542681/how-many-jobs-are-available-in-technology.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [Microsoft teases Windows 12 at CES 2023](https://www.computerworld.com/article/3684754/microsoft-teases-windows-12-at-ces-2023.html#tk.rss_all)
-- [Microsoft’s bid for Activision-Blizzard faces new regulatory delays in UK](https://www.computerworld.com/article/3684751/microsoft-s-bid-for-activision-blizzard-faces-new-regulatory-delays-in-uk.html#tk.rss_all)
-- [Microsoft doc details the dos and don’ts of Mac ransomware](https://www.computerworld.com/article/3684849/microsoft-doc-details-the-dos-and-donts-of-mac-ransomware.html#tk.rss_all)
-- [7 advanced Android adjustments for your new year](https://www.computerworld.com/article/3684513/advanced-android-adjustments.html#tk.rss_all)
-- [Apple in India shows the future of tech](https://www.computerworld.com/article/3684731/apple-in-india-shows-the-future-of-tech.html#tk.rss_all)
-- [Amazon confirms more than 18,000 employees to be laid off](https://www.computerworld.com/article/3684789/amazon-confirms-more-than-18000-employees-to-be-laid-off.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Tell HN: Airbnb has no system in place when a host cancels on a renter](https://news.ycombinator.com/item?id=34319414)
-- [Old Man Yells at Cloud: Technology has gotten objectively worse](https://www.jonandnic.com/2023/01/08/old-man-yells-at-cloud/)
-- [Canada buys 88 F-35 fighter jets for $14.2B](https://www.aljazeera.com/news/2023/1/9/canada-finalises-deal-to-buy-dozens-of-f-35-fighter-jets-from-us)
-- [UPS and the Package Wars](https://www.newyorker.com/magazine/2023/01/16/can-ups-still-deliver-a-middle-class-life)
-- [Fyrox Game Engine 0.29](https://fyrox.rs/blog/post/feature-highlights-0-29/)
-- [Visualizing the Inside of Cells at Previously Impossible Resolutions Provides Vi](https://singularityhub.com/2023/01/09/visualizing-the-inside-of-cells-at-previously-impossible-resolutions-provides-vivid-insights-into-how-they-work/)
-- [A college student made an app to detect AI-written text](https://www.npr.org/2023/01/09/1147549845/gptzero-ai-chatgpt-edward-tian-plagiarism)
-- [Making Sense of Hexdump &lpar;2008&rpar;](https://www.suse.com/c/making-sense-hexdump/)
-- [Just: A Command Runner](https://github.com/casey/just)
-- [Tomu – A family of devices which fit inside your USB port](https://tomu.im/)
+- [What Happens When a CPU Starts](https://lateblt.tripod.com/bit68.txt)
+- [HTML with Superpowers: An Introduction to Web Components](https://htmlwithsuperpowers.netlify.app/)
+- [Crypto.com will delist Tether in Canada](https://decrypt.co/118812/crypto-com-delist-tether-canada)
+- [Show HN: usbc.wtf – an article and quiz to find the right USB-C cable](https://usbc.wtf/)
+- [The Remarkable Emptiness of Existence](https://nautil.us/the-remarkable-emptiness-of-existence-256323/)
+- [In Lebanon, solar power is booming](https://www.sapiens.org/culture/lebanon-solar-power/)
+- [whoarethey: Determine Who Can Log in to an SSH Server](https://www.agwa.name/blog/post/whoarethey)
+- [MuscleWiki: Find exercises that work specific muscles](https://musclewiki.com/)
+- [NeevaAI](https://neeva.com/blog/introducing-neevaai)
+- [Researchers identify protein that helps skin cancer spread](https://www.qmul.ac.uk/media/news/2022/smd/researchers-identify-protein-that-helps-skin-cancer-spread-throughout-the-body.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

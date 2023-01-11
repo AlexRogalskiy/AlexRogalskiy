@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Dr Dre deplores ‘hateful’ Marjorie Taylor Greene using his song in removed video](https://www.theguardian.com/music/2023/jan/09/dr-dre-marjorie-taylor-greene-song-promo-video)
-- [Several California counties ordered to evacuate as deadly storm weathers on](https://www.theguardian.com/us-news/2023/jan/09/california-weather-flooding-storms-heavy-rains-winds)
-- [US justice department investigating papers stored at Biden’s former institute](https://www.theguardian.com/us-news/2023/jan/09/us-justice-department-investigating-documents-biden)
-- [Russia-Ukraine war at a glance: what we know on day 321 of the invasion](https://www.theguardian.com/world/2023/jan/10/russia-ukraine-war-at-a-glance-what-we-know-on-day-321-of-the-invasion)
-- [Former Team GB rower killed after being thrown from horse, inquest hears](https://www.theguardian.com/uk-news/2023/jan/10/former-team-gb-rower-killed-after-being-thrown-from-horse-inquest-hears)
-- [‘Bottles, glass, bullets’: inside the wreckage of Brazil’s failed coup](https://www.theguardian.com/world/2023/jan/09/brazil-failed-coup-wreckage)
-- [Disappointing end to UK space mission as satellites fail to reach orbit](https://www.theguardian.com/science/2023/jan/09/uks-first-orbital-rocket-mission-takes-off-from-cornwall)
-- [Millions of cat owners could be forced to microchip pets](https://www.theguardian.com/lifeandstyle/2023/jan/10/millions-of-cat-owners-could-be-forced-to-microchip-pets)
-- [Christmas and World Cup help UK retail sales rise in December](https://www.theguardian.com/business/2023/jan/10/christmas-and-world-cup-help-uk-retail-sales-rise-in-december)
-- [NHS in England to offer artificial pancreas to help manage type 1 diabetes](https://www.theguardian.com/society/2023/jan/10/nhs-england-artificial-pancreas-type-1-diabetes)
+- [Golden Globes 2023: the winners, the losers, the controversy – live!](https://www.theguardian.com/film/live/2023/jan/10/golden-globes-2023-winners-losers-nominees-latest-live)
+- [Genocide investigation opened against Peru president after protest deaths](https://www.theguardian.com/world/2023/jan/11/genocide-investigation-opened-against-peru-president-after-protest-deaths)
+- [Cardinal George Pell dies aged 81 in Rome](https://www.theguardian.com/australia-news/2023/jan/11/george-pell-dead-australian-cardinal-dies-aged-81-rome-vatican)
+- [Death toll in California storms hits 17 and ‘likely to grow’, says state’s governor](https://www.theguardian.com/us-news/2023/jan/10/california-storms-flooding-evacuations-latest)
+- [Harvey Weinstein says #MeToo skewed New York rape conviction in appeal](https://www.theguardian.com/world/2023/jan/10/harvey-weinstein-metoo-new-york-conviction-appeal)
+- [Russia-Ukraine war at a glance: what we know on day 322 of the invasion](https://www.theguardian.com/world/2023/jan/11/russia-ukraine-war-at-a-glance-what-we-know-on-day-322-of-the-invasion)
+- [Yemen: 87 civilians killed by UK and US weapons in just over a year](https://www.theguardian.com/world/2023/jan/11/yemen-87-civilians-killed-by-uk-and-us-weapons-in-just-over-a-year)
+- [Concern as proportion of children in England on antipsychotics doubles](https://www.theguardian.com/business/2023/jan/10/concern-as-proportion-of-children-in-england-on-antipsychotics-doubles)
+- [Counter-terrorism police investigate after uranium seized at Heathrow](https://www.theguardian.com/uk-news/2023/jan/10/counter-terrorism-police-investigate-after-uranium-seized-at-heathrow)
+- [Head of Russia’s Wagner group says his troops have taken control of Soledar](https://www.theguardian.com/world/2023/jan/10/head-of-wagner-group-says-his-troops-have-taken-control-of-soledar)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

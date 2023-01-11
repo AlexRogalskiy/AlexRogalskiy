@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [LangChain: An interface for composing chains of LLM calls](https://github.com/hwchase17/langchain)
-- [VanadiumOS: Portable, multi-user Unix-like OS](https://github.com/p-durlej/newsys)
-- [Identifying People Using Cell Phone Location Data](https://www.schneier.com/blog/archives/2023/01/identifying-people-using-cell-phone-location-data.html)
-- [What the West Doesn’t Know About China’s Silicon Valley](https://www.wired.com/story/what-the-west-doesnt-know-about-chinas-silicon-valley/)
-- [Handling 100K Consumers with One Pulsar Topic](https://streamnative.io/blog/case/2023-01-10-handling-100k-consumers-with-one-pulsar-topic/)
-- [China’s Covid patients face medical debt crisis as insurers refuse coverage](https://www.ft.com/content/c049eb2d-4455-4ed3-b775-2c6818ec5737)
-- [New Jersey, Ohio join other states in banning TikTok from state devices](https://www.reuters.com/technology/new-jersey-ohio-join-other-states-banning-tiktok-state-devices-2023-01-09/)
-- [Pfizer says it could start making Paxlovid in China in 3-4 months](https://www.ft.com/content/c7bd523e-54e1-46b6-ae27-10e75f7b5db0)
-- [Renode: Simulate physical hardware development for IoT and embedded systems](https://renode.io)
-- [Public Transit Goes Off Rails with Fewer Riders, Dwindling Cash, Rising Crime](https://www.wsj.com/articles/subway-mta-bart-public-transit-new-york-boston-san-francisco-11673198418)
+- [Ask HN: Can ChatGPT make a &#39;ctrl-C&#39; please?](https://news.ycombinator.com/item?id=34334278)
+- [Anatomy of a hack: How crackers ransack passwords like “qeadzcwrsfxv1331”](https://arstechnica.com/information-technology/2013/05/how-crackers-make-minced-meat-out-of-your-passwords/)
+- [BioNTech buys UK AI startup InstaDeep in £562M deal](https://www.ft.com/content/6670acad-8a5b-4c4a-b6a8-48dc307b6d4d)
+- [Cloud Apartments promises lower-cost living in factory-made units](https://www.businessinsider.com/cloud-apartments-aims-cut-housing-costs-a-third-2023-1)
+- [Prediction Market FAQ](https://astralcodexten.substack.com/p/prediction-market-faq)
+- [The Power of Product Thinking](https://future.com/product-thinking/)
+- [2023 Is the Year to Pay Attention to Women&#39;s Healthcare](https://mailchi.mp/e0f97ff81d03/2023-the-year-for-good-healthcare)
+- [Why a 17-Mile Stretch of Arizona Highway Is a Booming Logistics Hub](https://www.youtube.com/watch?v=b-LTkp039X0)
+- [Apple’s next custom hardware trick might be its own microLED screens](https://www.theverge.com/2023/1/10/23549429/microled-apple-watch-rumor-custom-design-samsung)
+- [A fifth of passwords used by federal agency cracked in security audit](https://arstechnica.com/information-technology/2023/01/a-fifth-of-passwords-used-by-federal-agency-cracked-in-security-audit/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

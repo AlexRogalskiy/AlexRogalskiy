@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ask HN: Can ChatGPT make a &#39;ctrl-C&#39; please?](https://news.ycombinator.com/item?id=34334278)
-- [Anatomy of a hack: How crackers ransack passwords like “qeadzcwrsfxv1331”](https://arstechnica.com/information-technology/2013/05/how-crackers-make-minced-meat-out-of-your-passwords/)
-- [BioNTech buys UK AI startup InstaDeep in £562M deal](https://www.ft.com/content/6670acad-8a5b-4c4a-b6a8-48dc307b6d4d)
-- [Cloud Apartments promises lower-cost living in factory-made units](https://www.businessinsider.com/cloud-apartments-aims-cut-housing-costs-a-third-2023-1)
-- [Prediction Market FAQ](https://astralcodexten.substack.com/p/prediction-market-faq)
-- [The Power of Product Thinking](https://future.com/product-thinking/)
-- [2023 Is the Year to Pay Attention to Women&#39;s Healthcare](https://mailchi.mp/e0f97ff81d03/2023-the-year-for-good-healthcare)
-- [Why a 17-Mile Stretch of Arizona Highway Is a Booming Logistics Hub](https://www.youtube.com/watch?v=b-LTkp039X0)
-- [Apple’s next custom hardware trick might be its own microLED screens](https://www.theverge.com/2023/1/10/23549429/microled-apple-watch-rumor-custom-design-samsung)
-- [A fifth of passwords used by federal agency cracked in security audit](https://arstechnica.com/information-technology/2023/01/a-fifth-of-passwords-used-by-federal-agency-cracked-in-security-audit/)
+- [The raw-milk revolutionaries who are raging against the machine](https://www.thefp.com/p/raw-milk)
+- [Testing Freedom](https://www.discoursemagazine.com/ideas/2023/01/09/testing-freedom/)
+- [US official warns of risks posed by heavy electric vehicles](https://apnews.com/article/technology-road-safety-national-transportation-board-automotive-accidents-dd5c4260f68e9f5dcb430a02cc939f6b)
+- [RPG fans irate as D&amp;D tries to shut its “open” game license](https://arstechnica.com/gaming/2023/01/rpg-fans-irate-as-dd-tries-to-shut-its-open-game-license/)
+- [Methylated gases could be an unambiguous indicator of alien life](https://www.sciencenews.org/article/methylated-gases-indicator-alien-life)
+- [Velocity defeats itself. Get acceleration instead](https://jessitron.com/2022/12/22/velocity-defeats-itself-get-acceleration-instead/)
+- [MrBeast: Future of YouTube, Twitter, TikTok, and Instagram – Lex Fridman Podcast](https://www.youtube.com/watch?v=Z3_PwvvfxIU)
+- [Ask HN: Why are there so few old ICs?](https://news.ycombinator.com/item?id=34348269)
+- [Traditional offices are as outdated as typewriters. Employers need to adapt](https://www.usatoday.com/story/opinion/2023/01/09/why-workers-never-going-back-traditional-offices/10990265002/)
+- [Extreme Acceleration Is the New Traffic Safety Frontier](https://www.bloomberg.com/news/features/2023-01-06/welcome-to-the-age-of-extreme-acceleration)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

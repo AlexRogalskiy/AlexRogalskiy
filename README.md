@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [What Happens When a CPU Starts](https://lateblt.tripod.com/bit68.txt)
-- [HTML with Superpowers: An Introduction to Web Components](https://htmlwithsuperpowers.netlify.app/)
-- [Crypto.com will delist Tether in Canada](https://decrypt.co/118812/crypto-com-delist-tether-canada)
-- [Show HN: usbc.wtf – an article and quiz to find the right USB-C cable](https://usbc.wtf/)
-- [The Remarkable Emptiness of Existence](https://nautil.us/the-remarkable-emptiness-of-existence-256323/)
-- [In Lebanon, solar power is booming](https://www.sapiens.org/culture/lebanon-solar-power/)
-- [whoarethey: Determine Who Can Log in to an SSH Server](https://www.agwa.name/blog/post/whoarethey)
-- [MuscleWiki: Find exercises that work specific muscles](https://musclewiki.com/)
-- [NeevaAI](https://neeva.com/blog/introducing-neevaai)
-- [Researchers identify protein that helps skin cancer spread](https://www.qmul.ac.uk/media/news/2022/smd/researchers-identify-protein-that-helps-skin-cancer-spread-throughout-the-body.html)
+- [The Collapse of U.S. Healthcare – The Perspective of a Primary Care Physician](https://news.ycombinator.com/item?id=34347962)
+- [New Video of Tesla Crash Demonstrates the Problem of Semi-Automated Driving](https://www.theautopian.com/newly-released-video-of-thanksgiving-day-tesla-full-self-driving-crash-demonstrates-the-fundamental-problem-of-semi-automated-driving-systems/)
+- [The energy crisis and Europe’s astonishing luck](https://www.economist.com/finance-and-economics/2023/01/11/the-energy-crisis-and-europes-astonishing-luck)
+- [CTEs as Lookup Tables](https://misfra.me/2023/ctes-as-lookup-tables/)
+- [Setting the TZ environment variable avoids thousands of system calls &lpar;2017&rpar;](https://blog.packagecloud.io/set-environment-variable-save-thousands-of-system-calls/)
+- [Etleap &lpar;YC W13&rpar; is hiring a software engineer &lpar;London&rpar;](https://etleap.com/careers/software-engineer/)
+- [How many AMD RX 7900 XTX&#39;s are defective?](https://www.jeffgeerling.com/blog/2023/how-many-amd-rx-7900-xtxs-are-defective)
+- [Conc: Better Structured Concurrency for Go](https://github.com/sourcegraph/conc)
+- [Heat exchanger header with fractal geometry](https://patents.google.com/patent/US20200284532A1/en)
+- [An online IDE for visual programming in Prolog](https://github.com/toblotron/praxis-ide)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

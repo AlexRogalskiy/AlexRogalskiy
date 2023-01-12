@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Golden Globes 2023: the winners, the losers, the controversy – live!](https://www.theguardian.com/film/live/2023/jan/10/golden-globes-2023-winners-losers-nominees-latest-live)
-- [Genocide investigation opened against Peru president after protest deaths](https://www.theguardian.com/world/2023/jan/11/genocide-investigation-opened-against-peru-president-after-protest-deaths)
-- [Cardinal George Pell dies aged 81 in Rome](https://www.theguardian.com/australia-news/2023/jan/11/george-pell-dead-australian-cardinal-dies-aged-81-rome-vatican)
-- [Death toll in California storms hits 17 and ‘likely to grow’, says state’s governor](https://www.theguardian.com/us-news/2023/jan/10/california-storms-flooding-evacuations-latest)
-- [Harvey Weinstein says #MeToo skewed New York rape conviction in appeal](https://www.theguardian.com/world/2023/jan/10/harvey-weinstein-metoo-new-york-conviction-appeal)
-- [Russia-Ukraine war at a glance: what we know on day 322 of the invasion](https://www.theguardian.com/world/2023/jan/11/russia-ukraine-war-at-a-glance-what-we-know-on-day-322-of-the-invasion)
-- [Yemen: 87 civilians killed by UK and US weapons in just over a year](https://www.theguardian.com/world/2023/jan/11/yemen-87-civilians-killed-by-uk-and-us-weapons-in-just-over-a-year)
-- [Concern as proportion of children in England on antipsychotics doubles](https://www.theguardian.com/business/2023/jan/10/concern-as-proportion-of-children-in-england-on-antipsychotics-doubles)
-- [Counter-terrorism police investigate after uranium seized at Heathrow](https://www.theguardian.com/uk-news/2023/jan/10/counter-terrorism-police-investigate-after-uranium-seized-at-heathrow)
-- [Head of Russia’s Wagner group says his troops have taken control of Soledar](https://www.theguardian.com/world/2023/jan/10/head-of-wagner-group-says-his-troops-have-taken-control-of-soledar)
+- [‘We are inextricably linked’: Māori tribe urges Sotheby’s to return relics up for auction](https://www.theguardian.com/world/2023/jan/12/maori-tribe-sothebys-relics-auction-new-zealand)
+- [Russia-Ukraine war at a glance: what we know on day 323 of the invasion](https://www.theguardian.com/world/2023/jan/12/russia-ukraine-war-at-a-glance-what-we-know-on-day-323-of-the-invasion)
+- [Daniel Andrews ‘couldn’t think of anything more distressing’ for victims than a state funeral for George Pell](https://www.theguardian.com/australia-news/2023/jan/12/daniel-andrews-rules-out-victoria-state-funeral-for-cardinal-george-pell)
+- [UK coal-burning power plant to stay open two years longer than planned](https://www.theguardian.com/environment/2023/jan/11/uk-coal-burning-power-plant-to-stay-open-two-years-longer-than-planned)
+- [Biden under scrutiny as second batch of classified documents reportedly found](https://www.theguardian.com/us-news/2023/jan/11/joe-biden-second-batch-classified-documents)
+- [Republican-controlled House pushes for new abortion restrictions](https://www.theguardian.com/us-news/2023/jan/11/new-abortion-restrictions-bills-republicans-house-congress)
+- [Heart full of soul: the maverick genius of Jeff Beck, the ‘guitarist’s guitarist’ | Alexis Petridis](https://www.theguardian.com/music/2023/jan/12/heart-full-of-soul-the-maverick-genius-of-jeff-beck-the-guitarists-guitarist)
+- [Graham Potter claims managing Chelsea is ‘hardest job in football’](https://www.theguardian.com/football/2023/jan/11/graham-potter-claims-managing-chelsea-is-hardest-job-in-football)
+- [England produce strong finish to win series-opener against Jamaica](https://www.theguardian.com/sport/2023/jan/11/england-produce-strong-finish-to-win-series-opener-against-jamaica)
+- [Call to end forced installation of UK prepayment meters after millions suffer without power](https://www.theguardian.com/money/2023/jan/11/call-to-end-forced-installation-of-uk-prepayment-meters-after-millions-suffer-without-power)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Apple puts local businesses on the Maps](https://www.computerworld.com/article/3685291/apple-puts-local-businesses-on-the-maps.html#tk.rss_all)
+- [US flights resume after system failure causes FAA to halt air travel](https://www.computerworld.com/article/3685211/us-flights-resume-after-system-failure-causes-faa-to-halt-air-travel.html#tk.rss_all)
+- [Microsoft announces release date for Teams Premium offering](https://www.computerworld.com/article/3685210/microsoft-announces-release-date-for-teams-premium-offering.html#tk.rss_all)
+- [The most promising Google Pixel product of 2023](https://www.computerworld.com/article/3684855/google-pixel-2023.html#tk.rss_all)
+- [How to switch from Android to iPhone](https://www.computerworld.com/article/3217024/how-to-switch-from-android-to-iphone.html#tk.rss_all)
 - [IT leads industries in remote jobs](https://www.computerworld.com/article/3685232/it-leads-industries-in-remote-jobs.html#tk.rss_all)
 - [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
 - [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
 - [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
 - [15 years of iPhone put Apple into business](https://www.computerworld.com/article/3685228/15-years-of-iphone-put-apple-into-business.html#tk.rss_all)
-- [Meta launches AI-based VRS system to reduce bias in advertising](https://www.computerworld.com/article/3685229/meta-launches-ai-based-vrs-system-to-reduce-bias-in-advertising.html#tk.rss_all)
-- [The office is dead](https://www.computerworld.com/article/3684773/the-office-is-dead.html#tk.rss_all)
-- [Microsoft in talks to invest $10 billion in OpenAI: Report](https://www.computerworld.com/article/3685208/microsoft-in-talks-to-invest-10-billion-in-openai-report.html#tk.rss_all)
-- [This lawsuit against Microsoft could change the future of AI](https://www.computerworld.com/article/3684734/this-lawsuit-against-microsoft-could-change-the-future-of-ai.html#tk.rss_all)
-- [Apple won’t announce VR for the rest of us at WWDC](https://www.computerworld.com/article/3684793/apple-wont-announce-vr-for-the-rest-of-us-at-wwdc.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

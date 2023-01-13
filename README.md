@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The raw-milk revolutionaries who are raging against the machine](https://www.thefp.com/p/raw-milk)
-- [Testing Freedom](https://www.discoursemagazine.com/ideas/2023/01/09/testing-freedom/)
-- [US official warns of risks posed by heavy electric vehicles](https://apnews.com/article/technology-road-safety-national-transportation-board-automotive-accidents-dd5c4260f68e9f5dcb430a02cc939f6b)
-- [RPG fans irate as D&amp;D tries to shut its “open” game license](https://arstechnica.com/gaming/2023/01/rpg-fans-irate-as-dd-tries-to-shut-its-open-game-license/)
-- [Methylated gases could be an unambiguous indicator of alien life](https://www.sciencenews.org/article/methylated-gases-indicator-alien-life)
-- [Velocity defeats itself. Get acceleration instead](https://jessitron.com/2022/12/22/velocity-defeats-itself-get-acceleration-instead/)
-- [MrBeast: Future of YouTube, Twitter, TikTok, and Instagram – Lex Fridman Podcast](https://www.youtube.com/watch?v=Z3_PwvvfxIU)
-- [Ask HN: Why are there so few old ICs?](https://news.ycombinator.com/item?id=34348269)
-- [Traditional offices are as outdated as typewriters. Employers need to adapt](https://www.usatoday.com/story/opinion/2023/01/09/why-workers-never-going-back-traditional-offices/10990265002/)
-- [Extreme Acceleration Is the New Traffic Safety Frontier](https://www.bloomberg.com/news/features/2023-01-06/welcome-to-the-age-of-extreme-acceleration)
+- [How much more Netflix can the world absorb?](https://www.newyorker.com/magazine/2023/01/16/how-much-more-netflix-can-the-world-absorb-bela-bajaria)
+- [How a Fire Engine Works](https://www.youtube.com/watch?v=pEdlz9AUlqA)
+- [Poor man&#39;s VPN via SSH socks proxy](https://www.redpill-linpro.com/sysadvent/2015/12/13/socks-proxy-as-poor-mans-vpn.html)
+- [Bill Ackman on SBF](https://twitter.com/billackman/status/1613698252599164928)
+- [The Economics of Maps](https://www.aeaweb.org/articles?id=10.1257/jep.34.1.196)
+- [Java’s History Could Point the Way for WebAssembly](https://thenewstack.io/javas-history-could-point-the-way-for-webassembly/)
+- [Godalmighty, Exxon Knew Everything](https://billmckibben.substack.com/p/godalmighty-exxon-knew-absolutely)
+- [Untold story of Serhiy Korolyov – the Ukrainian who launched humanity into space](https://kyivindependent.com/opinion/yaroslav-azhnyuk-an-untold-story-of-serhiy-korolyov-the-ukrainian-who-launched-humanity-into-space)
+- [Is Microsoft about to get the deal of the century?](https://garymarcus.substack.com/p/is-microsoft-about-to-get-the-deal)
+- [CNET Is Experimenting with an AI Assist. Here&#39;s Why](https://www.cnet.com/tech/cnet-is-experimenting-with-an-ai-assist-heres-why/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

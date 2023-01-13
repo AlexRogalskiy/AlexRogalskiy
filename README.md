@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [‘We are inextricably linked’: Māori tribe urges Sotheby’s to return relics up for auction](https://www.theguardian.com/world/2023/jan/12/maori-tribe-sothebys-relics-auction-new-zealand)
-- [Russia-Ukraine war at a glance: what we know on day 323 of the invasion](https://www.theguardian.com/world/2023/jan/12/russia-ukraine-war-at-a-glance-what-we-know-on-day-323-of-the-invasion)
-- [Daniel Andrews ‘couldn’t think of anything more distressing’ for victims than a state funeral for George Pell](https://www.theguardian.com/australia-news/2023/jan/12/daniel-andrews-rules-out-victoria-state-funeral-for-cardinal-george-pell)
-- [UK coal-burning power plant to stay open two years longer than planned](https://www.theguardian.com/environment/2023/jan/11/uk-coal-burning-power-plant-to-stay-open-two-years-longer-than-planned)
-- [Biden under scrutiny as second batch of classified documents reportedly found](https://www.theguardian.com/us-news/2023/jan/11/joe-biden-second-batch-classified-documents)
-- [Republican-controlled House pushes for new abortion restrictions](https://www.theguardian.com/us-news/2023/jan/11/new-abortion-restrictions-bills-republicans-house-congress)
-- [Heart full of soul: the maverick genius of Jeff Beck, the ‘guitarist’s guitarist’ | Alexis Petridis](https://www.theguardian.com/music/2023/jan/12/heart-full-of-soul-the-maverick-genius-of-jeff-beck-the-guitarists-guitarist)
-- [Graham Potter claims managing Chelsea is ‘hardest job in football’](https://www.theguardian.com/football/2023/jan/11/graham-potter-claims-managing-chelsea-is-hardest-job-in-football)
-- [England produce strong finish to win series-opener against Jamaica](https://www.theguardian.com/sport/2023/jan/11/england-produce-strong-finish-to-win-series-opener-against-jamaica)
-- [Call to end forced installation of UK prepayment meters after millions suffer without power](https://www.theguardian.com/money/2023/jan/11/call-to-end-forced-installation-of-uk-prepayment-meters-after-millions-suffer-without-power)
+- [Elle Edwards: man charged with Christmas Eve murder of 26-year-old](https://www.theguardian.com/uk-news/2023/jan/13/elle-edwards-man-charged-with-christmas-eve-of-26-year-old)
+- [Lisa Marie Presley, singer and daughter of Elvis, dies aged 54](https://www.theguardian.com/music/2023/jan/13/lisa-marie-presley-singer-and-daughter-of-elvis-dies-aged-54)
+- [Russia-Ukraine war at a glance: what we know on day 324 of the invasion](https://www.theguardian.com/world/2023/jan/13/russia-ukraine-war-at-a-glance-what-we-know-on-day-324-of-the-invasion)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2023/jan/13/premier-league-10-things-to-look-out-for-this-weekend)
+- [Time to branch out? Trees put lawns in the shade when it comes to tackling climate crisis](https://www.theguardian.com/world/2023/jan/13/time-to-branch-out-trees-put-lawns-in-the-shade-when-it-comes-to-tackling-climate-crisis)
+- [Government urged to combat ‘pitiful returns’ for musicians](https://www.theguardian.com/music/2023/jan/13/government-urged-to-combat-pitiful-returns-for-musicians)
+- [In the Footsteps of Killers review – Emilia Fox’s disrespectful crime show will make your soul recoil](https://www.theguardian.com/tv-and-radio/2023/jan/12/in-the-footsteps-of-killers-review-emilia-foxs-disrespectful-show-will-make-your-soul-recoil)
+- [Mark Williams knocks out his nemesis Ronnie O’Sullivan in Masters thriller](https://www.theguardian.com/sport/2023/jan/12/mark-williams-knocks-out-nemesis-ronnie-osullivan-masters-thriller)
+- [Royal Mail ransomware attackers threaten to publish stolen data](https://www.theguardian.com/business/2023/jan/12/royal-mail-ransomware-attackers-threaten-to-publish-stolen-data)
+- [Meta alleges surveillance firm collected data on 600,000 users via fake accounts](https://www.theguardian.com/technology/2023/jan/12/meta-voyager-labs-surveillance-fake-accounts)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

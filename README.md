@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Microsoft finally ends Windows 7 and 8.x support](https://www.computerworld.com/article/3685369/microsoft-finally-ends-windows-7-windows-8-support.html#tk.rss_all)
+- [Database error, not cyberattack, led to air travel stoppage, FAA says](https://www.computerworld.com/article/3685533/database-error-not-cyberattack-led-to-air-travel-stoppage-faa-says.html#tk.rss_all)
+- [Amazon to face off with workers, government on staff reduction in India](https://www.computerworld.com/article/3685411/amazon-to-face-off-with-workers-government-on-staff-reduction-in-india.html#tk.rss_all)
+- [Is that an iPad in your fire truck or am I seeing things?](https://www.computerworld.com/article/3685530/is-that-an-ipad-in-your-fire-truck-or-am-i-seeing-things.html#tk.rss_all)
+- [PC sales fell hard in 2022](https://www.computerworld.com/article/3685433/pc-sales-fell-hard-in-2022.html#tk.rss_all)
+- [Microsoft launches new 365 Basic tier, overhauls its Office app](https://www.computerworld.com/article/3685432/microsoft-launches-new-365-basic-tier-overhauls-its-office-app.html#tk.rss_all)
+- [Alphabet-owned Verily cuts 15% workforce to simplify operating model](https://www.computerworld.com/article/3685410/alphabet-owned-verily-cuts-15-workforce-to-simplify-operating-model.html#tk.rss_all)
+- [Your next job recruiter might be an AI bot](https://www.computerworld.com/article/3685409/your-next-job-recruiter-might-be-an-ai-bot.html#tk.rss_all)
 - [Apple puts local businesses on the Maps](https://www.computerworld.com/article/3685291/apple-puts-local-businesses-on-the-maps.html#tk.rss_all)
 - [US flights resume after system failure causes FAA to halt air travel](https://www.computerworld.com/article/3685211/us-flights-resume-after-system-failure-causes-faa-to-halt-air-travel.html#tk.rss_all)
-- [Microsoft announces release date for Teams Premium offering](https://www.computerworld.com/article/3685210/microsoft-announces-release-date-for-teams-premium-offering.html#tk.rss_all)
-- [The most promising Google Pixel product of 2023](https://www.computerworld.com/article/3684855/google-pixel-2023.html#tk.rss_all)
-- [How to switch from Android to iPhone](https://www.computerworld.com/article/3217024/how-to-switch-from-android-to-iphone.html#tk.rss_all)
-- [IT leads industries in remote jobs](https://www.computerworld.com/article/3685232/it-leads-industries-in-remote-jobs.html#tk.rss_all)
-- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
-- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
-- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
-- [15 years of iPhone put Apple into business](https://www.computerworld.com/article/3685228/15-years-of-iphone-put-apple-into-business.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

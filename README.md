@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The Collapse of U.S. Healthcare – The Perspective of a Primary Care Physician](https://news.ycombinator.com/item?id=34347962)
-- [New Video of Tesla Crash Demonstrates the Problem of Semi-Automated Driving](https://www.theautopian.com/newly-released-video-of-thanksgiving-day-tesla-full-self-driving-crash-demonstrates-the-fundamental-problem-of-semi-automated-driving-systems/)
-- [The energy crisis and Europe’s astonishing luck](https://www.economist.com/finance-and-economics/2023/01/11/the-energy-crisis-and-europes-astonishing-luck)
-- [CTEs as Lookup Tables](https://misfra.me/2023/ctes-as-lookup-tables/)
-- [Setting the TZ environment variable avoids thousands of system calls &lpar;2017&rpar;](https://blog.packagecloud.io/set-environment-variable-save-thousands-of-system-calls/)
-- [Etleap &lpar;YC W13&rpar; is hiring a software engineer &lpar;London&rpar;](https://etleap.com/careers/software-engineer/)
-- [How many AMD RX 7900 XTX&#39;s are defective?](https://www.jeffgeerling.com/blog/2023/how-many-amd-rx-7900-xtxs-are-defective)
-- [Conc: Better Structured Concurrency for Go](https://github.com/sourcegraph/conc)
-- [Heat exchanger header with fractal geometry](https://patents.google.com/patent/US20200284532A1/en)
-- [An online IDE for visual programming in Prolog](https://github.com/toblotron/praxis-ide)
+- [Loss of epigenetic information can drive aging in mice](https://hms.harvard.edu/news/loss-epigenetic-information-can-drive-aging-restoration-can-reverse)
+- [This Voice Doesn&#39;t Exist – Generative Voice AI](https://blog.elevenlabs.io/enter-the-new-year-with-a-bang/)
+- [Foundational knowledge is worth a thousand tools](https://lucaskostka.com/posts/foundational_knowledge)
+- [Your tech stack is not the product](https://hoho.com/posts/your-stack-is-not-the-product/)
+- [Null Call: Advice for the vestigial shamans among us &lpar;2021&rpar;](https://arcove.substack.com/p/null-call)
+- [Charge Robotics &lpar;YC S21&rpar; is hiring meches to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer)
+- [Supporting the use of Rust in the Chromium project](https://security.googleblog.com/2023/01/supporting-use-of-rust-in-chromium.html)
+- [The James Webb Space Telescope is finding too many early galaxies](https://skyandtelescope.org/astronomy-news/the-james-webb-space-telescope-is-finding-too-many-early-galaxies/)
+- [Webb confirms its first exoplanet](https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_confirms_its_first_exoplanet)
+- [Just use a monorepo](https://buttondown.email/blog/just-use-a-monorepo)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

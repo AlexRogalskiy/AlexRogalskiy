@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Elle Edwards: man charged with Christmas Eve murder of 26-year-old](https://www.theguardian.com/uk-news/2023/jan/13/elle-edwards-man-charged-with-christmas-eve-of-26-year-old)
-- [Lisa Marie Presley, singer and daughter of Elvis, dies aged 54](https://www.theguardian.com/music/2023/jan/13/lisa-marie-presley-singer-and-daughter-of-elvis-dies-aged-54)
-- [Russia-Ukraine war at a glance: what we know on day 324 of the invasion](https://www.theguardian.com/world/2023/jan/13/russia-ukraine-war-at-a-glance-what-we-know-on-day-324-of-the-invasion)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2023/jan/13/premier-league-10-things-to-look-out-for-this-weekend)
-- [Time to branch out? Trees put lawns in the shade when it comes to tackling climate crisis](https://www.theguardian.com/world/2023/jan/13/time-to-branch-out-trees-put-lawns-in-the-shade-when-it-comes-to-tackling-climate-crisis)
-- [Government urged to combat ‘pitiful returns’ for musicians](https://www.theguardian.com/music/2023/jan/13/government-urged-to-combat-pitiful-returns-for-musicians)
-- [In the Footsteps of Killers review – Emilia Fox’s disrespectful crime show will make your soul recoil](https://www.theguardian.com/tv-and-radio/2023/jan/12/in-the-footsteps-of-killers-review-emilia-foxs-disrespectful-show-will-make-your-soul-recoil)
-- [Mark Williams knocks out his nemesis Ronnie O’Sullivan in Masters thriller](https://www.theguardian.com/sport/2023/jan/12/mark-williams-knocks-out-nemesis-ronnie-osullivan-masters-thriller)
-- [Royal Mail ransomware attackers threaten to publish stolen data](https://www.theguardian.com/business/2023/jan/12/royal-mail-ransomware-attackers-threaten-to-publish-stolen-data)
-- [Meta alleges surveillance firm collected data on 600,000 users via fake accounts](https://www.theguardian.com/technology/2023/jan/12/meta-voyager-labs-surveillance-fake-accounts)
+- [George Pell lying in state in Vatican’s St Stephen of the Abyssinians church](https://www.theguardian.com/australia-news/2023/jan/14/george-pell-lying-in-state-in-vaticans-st-stephen-of-the-abyssinians-church)
+- [Treasury secretary: US to reach debt ceiling on Thursday](https://www.theguardian.com/business/2023/jan/13/treasury-secretary-janet-yellen-debt-ceiling)
+- [HRT ‘potentially important’ in reducing women’s dementia risk](https://www.theguardian.com/society/2023/jan/14/hrt-potentially-important-in-reducing-womens-dementia-risk)
+- [Prince Harry: I left out details as I feared family would not forgive me](https://www.theguardian.com/uk-news/2023/jan/13/prince-harry-i-left-out-details-as-i-feared-family-would-not-forgive-me)
+- [A lack of Styles: Gucci showcases new direction for its menswear](https://www.theguardian.com/fashion/2023/jan/13/a-lack-of-styles-gucci-showcases-new-direction-for-its-menswear)
+- [Soaked California prepares for more flooding as thousands remain without power](https://www.theguardian.com/us-news/2023/jan/13/california-storms-flooding-rain-weather)
+- [Conte turns up pressure on ‘favourites’ Arsenal and calls for referee respect](https://www.theguardian.com/football/2023/jan/13/antonio-conte-arsenal-pressure-tottenham)
+- [Rampant Napoli thrash Juventus to open up 10-point advantage in Serie A](https://www.theguardian.com/football/2023/jan/13/napoli-thrash-juventus-serie-a-victor-osimhen)
+- [Japan’s PM vows to modernise military for new era of threats](https://www.theguardian.com/world/2023/jan/13/japans-pm-vows-to-modernise-military-for-new-era-of-threats)
+- [Aston Villa’s Leon Bailey and Emi Buendía extend Leeds’ worrying run](https://www.theguardian.com/football/2023/jan/13/aston-villas-leon-bailey-and-emi-buendia-extend-leeds-worrying-run)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

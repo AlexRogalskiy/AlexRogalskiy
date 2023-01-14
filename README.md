@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Google warns court against changing liability shield for internet companies](https://www.computerworld.com/article/3685535/google-warns-court-against-changing-liability-shield-for-internet-companies.html#tk.rss_all)
+- [Patch now to address critical Windows zero-day flaw](https://www.computerworld.com/article/3685534/patch-now-to-address-critical-windows-zero-day-flaw.html#tk.rss_all)
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [Microsoft aims to improve OKR adoption with Viva Goals integrations](https://www.computerworld.com/article/3685668/microsoft-aims-to-improve-okr-adoption-with-viva-goals-integrations.html#tk.rss_all)
+- [How Apple and ‘composable business’ go hand in glove](https://www.computerworld.com/article/3685489/how-apple-and-composable-business-go-hand-in-glove.html#tk.rss_all)
+- [Hybrid-work hardware debuts at CES. Wait…, what?](https://www.computerworld.com/article/3684756/hybrid-work-hardware-debuts-at-ces-wait-what.html#tk.rss_all)
+- [The productivity promise &lpar;and perils&rpar; of generative AI](https://www.computerworld.com/article/3685371/the-productivity-promise-and-perils-with-generative-ai.html#tk.rss_all)
+- [9 Android accessibility treasures that&#39;ll make anyone more productive](https://www.computerworld.com/article/3346010/android-accessibility.html#tk.rss_all)
+- [Alphabet robotics subsidiary Intrinsic lays off 20% staff](https://www.computerworld.com/article/3685413/alphabet-robotics-subsidiary-intrinsic-lays-off-20-staff.html#tk.rss_all)
 - [Microsoft finally ends Windows 7 and 8.x support](https://www.computerworld.com/article/3685369/microsoft-finally-ends-windows-7-windows-8-support.html#tk.rss_all)
-- [Database error, not cyberattack, led to air travel stoppage, FAA says](https://www.computerworld.com/article/3685533/database-error-not-cyberattack-led-to-air-travel-stoppage-faa-says.html#tk.rss_all)
-- [Amazon to face off with workers, government on staff reduction in India](https://www.computerworld.com/article/3685411/amazon-to-face-off-with-workers-government-on-staff-reduction-in-india.html#tk.rss_all)
-- [Is that an iPad in your fire truck or am I seeing things?](https://www.computerworld.com/article/3685530/is-that-an-ipad-in-your-fire-truck-or-am-i-seeing-things.html#tk.rss_all)
-- [PC sales fell hard in 2022](https://www.computerworld.com/article/3685433/pc-sales-fell-hard-in-2022.html#tk.rss_all)
-- [Microsoft launches new 365 Basic tier, overhauls its Office app](https://www.computerworld.com/article/3685432/microsoft-launches-new-365-basic-tier-overhauls-its-office-app.html#tk.rss_all)
-- [Alphabet-owned Verily cuts 15% workforce to simplify operating model](https://www.computerworld.com/article/3685410/alphabet-owned-verily-cuts-15-workforce-to-simplify-operating-model.html#tk.rss_all)
-- [Your next job recruiter might be an AI bot](https://www.computerworld.com/article/3685409/your-next-job-recruiter-might-be-an-ai-bot.html#tk.rss_all)
-- [Apple puts local businesses on the Maps](https://www.computerworld.com/article/3685291/apple-puts-local-businesses-on-the-maps.html#tk.rss_all)
-- [US flights resume after system failure causes FAA to halt air travel](https://www.computerworld.com/article/3685211/us-flights-resume-after-system-failure-causes-faa-to-halt-air-travel.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

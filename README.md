@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [How much more Netflix can the world absorb?](https://www.newyorker.com/magazine/2023/01/16/how-much-more-netflix-can-the-world-absorb-bela-bajaria)
-- [How a Fire Engine Works](https://www.youtube.com/watch?v=pEdlz9AUlqA)
-- [Poor man&#39;s VPN via SSH socks proxy](https://www.redpill-linpro.com/sysadvent/2015/12/13/socks-proxy-as-poor-mans-vpn.html)
-- [Bill Ackman on SBF](https://twitter.com/billackman/status/1613698252599164928)
-- [The Economics of Maps](https://www.aeaweb.org/articles?id=10.1257/jep.34.1.196)
-- [Java’s History Could Point the Way for WebAssembly](https://thenewstack.io/javas-history-could-point-the-way-for-webassembly/)
-- [Godalmighty, Exxon Knew Everything](https://billmckibben.substack.com/p/godalmighty-exxon-knew-absolutely)
-- [Untold story of Serhiy Korolyov – the Ukrainian who launched humanity into space](https://kyivindependent.com/opinion/yaroslav-azhnyuk-an-untold-story-of-serhiy-korolyov-the-ukrainian-who-launched-humanity-into-space)
-- [Is Microsoft about to get the deal of the century?](https://garymarcus.substack.com/p/is-microsoft-about-to-get-the-deal)
-- [CNET Is Experimenting with an AI Assist. Here&#39;s Why](https://www.cnet.com/tech/cnet-is-experimenting-with-an-ai-assist-heres-why/)
+- [Spray-On Smart Skin Reads Typing and Hand Gestures](https://spectrum.ieee.org/gesture-recognition-spray-on-skin)
+- [Carl Hewitt has died [pdf]](https://web.stanford.edu/class/ee380/Carl-Hewitt.pdf)
+- [Something’s not quite right, and we’re looking into it](https://twitter.com/spotifystatus/status/1614078310023045129)
+- [WebRTC in Jetpack Compose](https://github.com/GetStream/webrtc-in-jetpack-compose)
+- [Some Business Graphs for 2022](https://jvns.ca/blog/2023/01/10/some-business-graphs-for-2022/)
+- [The iPhone Keyboard – Make It or Break It &lpar;2022&rpar;](https://commoncog.com/case/iphone-keyboard/)
+- [What are p-adic numbers? &lpar;2008&rpar;](https://divisbyzero.com/2008/11/24/what-are-p-adic-numbers/)
+- [Bivalent Covid-19 Vaccines – A Cautionary Tale](https://www.nejm.org/doi/full/10.1056/NEJMp2215780)
+- [What if there were a cryptocurrency that supported disputes?](https://blog.efitz.net/blog/what-if-there-were-a-cryptocurrency-that-supported-disputes/)
+- [Phone trips: narrated tapes about the old telephone network](http://www.wideweb.com/phonetrips/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

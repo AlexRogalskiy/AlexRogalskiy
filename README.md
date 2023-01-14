@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Loss of epigenetic information can drive aging in mice](https://hms.harvard.edu/news/loss-epigenetic-information-can-drive-aging-restoration-can-reverse)
-- [This Voice Doesn&#39;t Exist – Generative Voice AI](https://blog.elevenlabs.io/enter-the-new-year-with-a-bang/)
-- [Foundational knowledge is worth a thousand tools](https://lucaskostka.com/posts/foundational_knowledge)
-- [Your tech stack is not the product](https://hoho.com/posts/your-stack-is-not-the-product/)
-- [Null Call: Advice for the vestigial shamans among us &lpar;2021&rpar;](https://arcove.substack.com/p/null-call)
-- [Charge Robotics &lpar;YC S21&rpar; is hiring meches to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer)
-- [Supporting the use of Rust in the Chromium project](https://security.googleblog.com/2023/01/supporting-use-of-rust-in-chromium.html)
-- [The James Webb Space Telescope is finding too many early galaxies](https://skyandtelescope.org/astronomy-news/the-james-webb-space-telescope-is-finding-too-many-early-galaxies/)
-- [Webb confirms its first exoplanet](https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_confirms_its_first_exoplanet)
-- [Just use a monorepo](https://buttondown.email/blog/just-use-a-monorepo)
+- [WInd3x, the iPod Bootrom exploit 10 years too late](https://q3k.org/wInd3x.html)
+- [What three new USGS maps reveal about Mars](https://www.usgs.gov/special-topics/planetary-geologic-mapping/news/a-martian-mons-mystery-paleo-climate-change-and)
+- [Long Covid: major findings, mechanisms and recommendations](https://www.nature.com/articles/s41579-022-00846-2)
+- [EPA Proposes to Strengthen Air Quality Standards](https://www.epa.gov/newsreleases/epa-proposes-strengthen-air-quality-standards-protect-public-harmful-effects-soot)
+- [How will the remaining uplift affect the Scandinavian landscape?](https://geoforskning.no/hvordan-vil-gjenstaende-landheving-pavirke-landskapet-eng/)
+- [GitHub – pi-hole/pi-hole: A black hole for Internet advertisements](https://github.com/pi-hole/pi-hole)
+- [Sickcodes/Docker-OS X: Run macOS VM in a Docker](https://github.com/sickcodes/Docker-OSX)
+- [Cuba and the geopolitics of submarine cables](https://www.kentik.com/blog/cuba-and-the-geopolitics-of-submarine-cables/)
+- [Shapecatcher: Draw the Unicode character you want](https://shapecatcher.com/)
+- [ExifTool – Read, Write and Edit Meta Information](https://exiftool.org/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

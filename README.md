@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Spray-On Smart Skin Reads Typing and Hand Gestures](https://spectrum.ieee.org/gesture-recognition-spray-on-skin)
-- [Carl Hewitt has died [pdf]](https://web.stanford.edu/class/ee380/Carl-Hewitt.pdf)
-- [Something’s not quite right, and we’re looking into it](https://twitter.com/spotifystatus/status/1614078310023045129)
-- [WebRTC in Jetpack Compose](https://github.com/GetStream/webrtc-in-jetpack-compose)
-- [Some Business Graphs for 2022](https://jvns.ca/blog/2023/01/10/some-business-graphs-for-2022/)
-- [The iPhone Keyboard – Make It or Break It &lpar;2022&rpar;](https://commoncog.com/case/iphone-keyboard/)
-- [What are p-adic numbers? &lpar;2008&rpar;](https://divisbyzero.com/2008/11/24/what-are-p-adic-numbers/)
-- [Bivalent Covid-19 Vaccines – A Cautionary Tale](https://www.nejm.org/doi/full/10.1056/NEJMp2215780)
-- [What if there were a cryptocurrency that supported disputes?](https://blog.efitz.net/blog/what-if-there-were-a-cryptocurrency-that-supported-disputes/)
-- [Phone trips: narrated tapes about the old telephone network](http://www.wideweb.com/phonetrips/)
+- [Ask HN: Can we just normalise AI &lpar;read:ChatGPT for now&rpar; as our internet persona?](https://news.ycombinator.com/item?id=34386190)
+- [Scanlines vs. hard pixels: is pixel art truly retro anymore?](https://noplatform.wordpress.com/2021/07/02/scanlines-vs-hard-pixels-is-pixel-art-truly-retro-anymore/)
+- [How to Use AI for Interior Design: Unlocking the Potential of Technology](https://coolaiid.com/blog/5-ways-to-use-ai-for-interior-design-unlocking-the-potential-of-technology-in-home-decor.html)
+- [Ask HN: Is this FOMO or passion? How to fix it?](https://news.ycombinator.com/item?id=34386174)
+- [View Source](https://neatnik.net/view-source/)
+- [Hydrogen Will Not Save Us](https://www.youtube.com/watch?v=Zklo4Z1SqkE)
+- [Did the Music Business Just Kill the Vinyl Revival?](https://tedgioia.substack.com/p/did-the-music-business-just-kill)
+- [The Misunderstood MVP &lpar;2021&rpar;](https://jhall.io/archive/2021/06/13/the-misunderstood-mvp/)
+- [The Key to California’s Survival Is Hidden Underground](https://www.wired.com/story/the-key-to-californias-survival-is-hidden-underground/)
+- [Zipwall Dust Containment System – 4 Year Look-Back Review &lpar;2021&rpar;](https://www.toolboxbuzz.com/safety-work-wear/zipwall-dust-containment-system-4-year-look-back-review/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

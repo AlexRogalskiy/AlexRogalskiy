@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [George Pell lying in state in Vatican’s St Stephen of the Abyssinians church](https://www.theguardian.com/australia-news/2023/jan/14/george-pell-lying-in-state-in-vaticans-st-stephen-of-the-abyssinians-church)
-- [Treasury secretary: US to reach debt ceiling on Thursday](https://www.theguardian.com/business/2023/jan/13/treasury-secretary-janet-yellen-debt-ceiling)
-- [HRT ‘potentially important’ in reducing women’s dementia risk](https://www.theguardian.com/society/2023/jan/14/hrt-potentially-important-in-reducing-womens-dementia-risk)
-- [Prince Harry: I left out details as I feared family would not forgive me](https://www.theguardian.com/uk-news/2023/jan/13/prince-harry-i-left-out-details-as-i-feared-family-would-not-forgive-me)
-- [A lack of Styles: Gucci showcases new direction for its menswear](https://www.theguardian.com/fashion/2023/jan/13/a-lack-of-styles-gucci-showcases-new-direction-for-its-menswear)
-- [Soaked California prepares for more flooding as thousands remain without power](https://www.theguardian.com/us-news/2023/jan/13/california-storms-flooding-rain-weather)
-- [Conte turns up pressure on ‘favourites’ Arsenal and calls for referee respect](https://www.theguardian.com/football/2023/jan/13/antonio-conte-arsenal-pressure-tottenham)
-- [Rampant Napoli thrash Juventus to open up 10-point advantage in Serie A](https://www.theguardian.com/football/2023/jan/13/napoli-thrash-juventus-serie-a-victor-osimhen)
-- [Japan’s PM vows to modernise military for new era of threats](https://www.theguardian.com/world/2023/jan/13/japans-pm-vows-to-modernise-military-for-new-era-of-threats)
-- [Aston Villa’s Leon Bailey and Emi Buendía extend Leeds’ worrying run](https://www.theguardian.com/football/2023/jan/13/aston-villas-leon-bailey-and-emi-buendia-extend-leeds-worrying-run)
+- [Russia-Ukraine war at a glance: what we know on day 326 of the invasion](https://www.theguardian.com/world/2023/jan/15/russia-ukraine-war-at-a-glance-what-we-know-on-day-326-of-the-invasion)
+- [Davos’s elite will need to do some soul-searching in a world falling apart](https://www.theguardian.com/business/2023/jan/15/davoss-elite-will-need-to-do-some-soul-searching-in-a-world-falling-apart)
+- [The edit: 16 of the best woolly hats for winter days](https://www.theguardian.com/fashion/gallery/2023/jan/14/the-edit-16-of-the-best-woolly-hats-for-winter-days)
+- [Mark Williams and Judd Trump win easily to set up tantalising Masters final](https://www.theguardian.com/sport/2023/jan/14/mark-williams-masters-snooker-jack-lisowski-judd-trump-stuart-bingham)
+- [Cloud shot up in front of Hawaiian Airlines plane that hit severe turbulence last month](https://www.theguardian.com/world/2023/jan/14/hawaiian-airlines-flight-turbulence)
+- [Arsenal revamp captures buzz around a club that finally feels vibrant again](https://www.theguardian.com/football/2023/jan/14/arsenal-emirates-revamp-captures-buzz-finally-feels-vibrant-again)
+- [How fast-moving floods took a deadly toll on California’s capital: ‘No one expected it’](https://www.theguardian.com/us-news/2023/jan/14/california-storms-flooding-sacramento-county)
+- [Girl, 7, critically injured in shooting at double memorial service in London](https://www.theguardian.com/uk-news/2023/jan/14/girl-7-among-four-injured-in-shooting-outside-london-funeral)
+- [Biden lawyers found more classified documents at his home than was known](https://www.theguardian.com/us-news/2023/jan/14/joe-biden-classified-documents-found)
+- [Suella Braverman tells Holocaust survivor she will not apologise for ‘invasion’ rhetoric](https://www.theguardian.com/world/2023/jan/14/suella-braverman-wont-apologise-to-holocaust-survivor-for-calling-migrants-invasion)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war at a glance: what we know on day 326 of the invasion](https://www.theguardian.com/world/2023/jan/15/russia-ukraine-war-at-a-glance-what-we-know-on-day-326-of-the-invasion)
-- [Davos’s elite will need to do some soul-searching in a world falling apart](https://www.theguardian.com/business/2023/jan/15/davoss-elite-will-need-to-do-some-soul-searching-in-a-world-falling-apart)
-- [The edit: 16 of the best woolly hats for winter days](https://www.theguardian.com/fashion/gallery/2023/jan/14/the-edit-16-of-the-best-woolly-hats-for-winter-days)
-- [Mark Williams and Judd Trump win easily to set up tantalising Masters final](https://www.theguardian.com/sport/2023/jan/14/mark-williams-masters-snooker-jack-lisowski-judd-trump-stuart-bingham)
-- [Cloud shot up in front of Hawaiian Airlines plane that hit severe turbulence last month](https://www.theguardian.com/world/2023/jan/14/hawaiian-airlines-flight-turbulence)
-- [Arsenal revamp captures buzz around a club that finally feels vibrant again](https://www.theguardian.com/football/2023/jan/14/arsenal-emirates-revamp-captures-buzz-finally-feels-vibrant-again)
-- [How fast-moving floods took a deadly toll on California’s capital: ‘No one expected it’](https://www.theguardian.com/us-news/2023/jan/14/california-storms-flooding-sacramento-county)
-- [Girl, 7, critically injured in shooting at double memorial service in London](https://www.theguardian.com/uk-news/2023/jan/14/girl-7-among-four-injured-in-shooting-outside-london-funeral)
-- [Biden lawyers found more classified documents at his home than was known](https://www.theguardian.com/us-news/2023/jan/14/joe-biden-classified-documents-found)
-- [Suella Braverman tells Holocaust survivor she will not apologise for ‘invasion’ rhetoric](https://www.theguardian.com/world/2023/jan/14/suella-braverman-wont-apologise-to-holocaust-survivor-for-calling-migrants-invasion)
+- [Man arrested on suspicion of attempted murder over London church drive-by shooting](https://www.theguardian.com/uk-news/2023/jan/16/euston-shooting-man-arrested-london-funeral-church)
+- [Russia-Ukraine war at a glance: what we know on day 327 of the invasion](https://www.theguardian.com/world/2023/jan/16/russia-ukraine-war-at-a-glance-what-we-know-on-day-327-of-the-invasion)
+- [Australia’s richest 1% pocketed $150,000 a minute over past decade, Oxfam research finds](https://www.theguardian.com/australia-news/2023/jan/16/australian-billionaires-pocketed-150000-a-minute-over-past-decade-oxfam-research-finds)
+- [German tank manufacturer’s warning puts pressure on Ukraine’s allies](https://www.theguardian.com/world/2023/jan/15/german-battle-tanks-for-ukraine-wont-be-ready-until-2024)
+- [History revisited: what the isolationist Qing dynasty tells us about Xi Jinping’s China](https://www.theguardian.com/world/2023/jan/16/what-the-isolationist-qing-dynasty-tells-us-about-xi-jinpings-china)
+- [Man arrested on suspicion of terror offence after Heathrow uranium seizure](https://www.theguardian.com/uk-news/2023/jan/15/man-arrested-on-suspicion-of-terror-offence-after-heathrow-uranium-seizure)
+- [Call for new taxes on super-rich after 1% pocket two-thirds of all new wealth](https://www.theguardian.com/inequality/2023/jan/16/oxfam-calls-for-new-taxes-on-super-rich-pocket-dollar-26tn-start-of-pandemic-davos)
+- [Fintech firm Revolut calls in psychologists after criticism of its corporate culture](https://www.theguardian.com/business/2023/jan/16/fintech-revolut-psychologists-criticism-corporate-culture-uk-banking-licence)
+- [Sainsbury’s signs deal with food delivery app Just Eat](https://www.theguardian.com/business/2023/jan/16/sainsburys-signs-deal-with-food-delivery-app-just-eat)
+- [Richard E Grant to host 2023 Bafta film awards](https://www.theguardian.com/film/2023/jan/16/richard-e-grant-to-host-2023-bafta-film-awards)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

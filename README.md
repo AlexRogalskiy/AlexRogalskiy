@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ask HN: Can we just normalise AI &lpar;read:ChatGPT for now&rpar; as our internet persona?](https://news.ycombinator.com/item?id=34386190)
-- [Scanlines vs. hard pixels: is pixel art truly retro anymore?](https://noplatform.wordpress.com/2021/07/02/scanlines-vs-hard-pixels-is-pixel-art-truly-retro-anymore/)
-- [How to Use AI for Interior Design: Unlocking the Potential of Technology](https://coolaiid.com/blog/5-ways-to-use-ai-for-interior-design-unlocking-the-potential-of-technology-in-home-decor.html)
-- [Ask HN: Is this FOMO or passion? How to fix it?](https://news.ycombinator.com/item?id=34386174)
-- [View Source](https://neatnik.net/view-source/)
-- [Hydrogen Will Not Save Us](https://www.youtube.com/watch?v=Zklo4Z1SqkE)
-- [Did the Music Business Just Kill the Vinyl Revival?](https://tedgioia.substack.com/p/did-the-music-business-just-kill)
-- [The Misunderstood MVP &lpar;2021&rpar;](https://jhall.io/archive/2021/06/13/the-misunderstood-mvp/)
-- [The Key to California’s Survival Is Hidden Underground](https://www.wired.com/story/the-key-to-californias-survival-is-hidden-underground/)
-- [Zipwall Dust Containment System – 4 Year Look-Back Review &lpar;2021&rpar;](https://www.toolboxbuzz.com/safety-work-wear/zipwall-dust-containment-system-4-year-look-back-review/)
+- [IMF says fragmentation could cost global economy up to 7% of GDP](https://www.reuters.com/markets/imf-says-fragmentation-could-cost-global-economy-up-7-gdp-2023-01-15/)
+- [Project Everest: Probably secure communication software](https://project-everest.github.io/)
+- [Show HN: Mastodon Developers Discuss How Best to Hide Their Child Porn Problems](https://github.com/mastodon/mastodon/issues/1847)
+- [Finding Land for Renewables Is a Policy Challenge, Not a Technical Challenge](https://climateer.substack.com/p/land-use)
+- [Boomers don&#39;t have nearly enough retirement savings, especially women](https://www.businessinsider.com/boomers-dont-have-retirement-savings-women-have-less-than-men-2022-1)
+- [Show HN: Itsy-Gitsy – a static site generator for Git repositories](https://github.com/mrmekon/itsy-gitsy)
+- [U.S. Will Hit Debt Limit Jan. 19, Yellen Tells Congress](https://www.nytimes.com/2023/01/13/business/economy/debt-limit-us-economy.html)
+- [Show HN: Terra Firma, a playable erosion simulation](https://store.steampowered.com/app/1482770/Terra_Firma/)
+- [A small mistake does not a complex systems failure make](https://surfingcomplexity.blog/2023/01/15/a-small-mistake-does-not-a-complex-systems-failure-make/)
+- [Sounds of melting glaciers used to better predict sea level rise](https://www.straitstimes.com/singapore/sound-of-melting-glaciers-could-help-to-better-predict-sea-level-rise-nus-scientist)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [China leads the quest for small modular nuclear reactors–will the world follow?](https://spectrum.ieee.org/small-modular-reactors)
-- [1500 Archers on a 28.8: Network Programming in Age of Empires and Beyond](https://www.gamedeveloper.com/programming/1500-archers-on-a-28-8-network-programming-in-age-of-empires-and-beyond)
-- [Improving Async Networking in Python](https://roberts.pm/index.php?p=article&path=p2pd&category=most-recent)
-- [SAIC Galaxy 1100: a pre-CDE VUE of the PA-RISC with a security clearance](http://oldvcr.blogspot.com/2023/01/saic-galaxy-1100-pre-cde-vue-of-pa-risc.html)
-- [Common Hall-effect sensor myths](https://e2e.ti.com/blogs_/b/analogwire/posts/5-common-hall-effect-sensor-myths)
-- [Windows 98 Icons are Great &lpar;2015&rpar;](https://alexmeub.com/old-windows-icons/)
-- [We invested 10% to pay back tech debt](https://blog.alexewerlof.com/p/tech-debt-day)
-- [The Shit Show](https://furbo.org/2023/01/15/the-shit-show/)
-- [Awk: Power and Promise of a 40 yr old language &lpar;2021&rpar;](https://www.fosslife.org/awk-power-and-promise-40-year-old-language)
-- [What we know now about Friday night’s near-disaster at JFK airport](https://viewfromthewing.com/what-we-know-now-about-friday-nights-near-disaster-at-jfk-airport/)
+- [Pretty Good House](https://www.prettygoodhouse.org)
+- [Show HN: Otterkit – COBOL compiler for .NET](https://github.com/otterkit/otterkit)
+- [Blaze: A high-performance C++ math library](https://bitbucket.org/blaze-lib/blaze/src/master/)
+- [Quitting the rat race](https://seanbarry.dev/posts/quitting-the-rat-race/)
+- [Programmer salaries in the age of LLMs](https://milkyeggs.com/?p=303)
+- [Show HN: Vento, a screen recorder that lets you rewind and record over mistakes](https://vento.so)
+- [Major standard library changes in Go 1.20](https://blog.carlmjohnson.net/post/2023/golang-120-arenas-errors-responsecontroller/)
+- [Show HN: Anonymous Feedback Tool for Teams](https://runsignals.com/)
+- [The hardest part of being a junior developer](https://rachsmith.com/the-hardest-part-of-being-a-jnr/)
+- [Crows of Karachi](https://orionmagazine.org/article/crows-of-karachi-pakistan/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

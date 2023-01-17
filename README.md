@@ -355,6 +355,7 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Microsoft Visio cheat sheet: How to get started](https://www.computerworld.com/article/3683914/microsoft-visio-cheat-sheet-create-diagrams.html#tk.rss_all)
 - [Google warns court against changing liability shield for internet companies](https://www.computerworld.com/article/3685535/google-warns-court-against-changing-liability-shield-for-internet-companies.html#tk.rss_all)
 - [Patch now to address critical Windows zero-day flaw](https://www.computerworld.com/article/3685534/patch-now-to-address-critical-windows-zero-day-flaw.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
@@ -364,7 +365,6 @@
 - [The productivity promise &lpar;and perils&rpar; of generative AI](https://www.computerworld.com/article/3685371/the-productivity-promise-and-perils-with-generative-ai.html#tk.rss_all)
 - [9 Android accessibility treasures that&#39;ll make anyone more productive](https://www.computerworld.com/article/3346010/android-accessibility.html#tk.rss_all)
 - [Alphabet robotics subsidiary Intrinsic lays off 20% staff](https://www.computerworld.com/article/3685413/alphabet-robotics-subsidiary-intrinsic-lays-off-20-staff.html#tk.rss_all)
-- [Microsoft finally ends Windows 7 and 8.x support](https://www.computerworld.com/article/3685369/microsoft-finally-ends-windows-7-windows-8-support.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

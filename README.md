@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [IMF says fragmentation could cost global economy up to 7% of GDP](https://www.reuters.com/markets/imf-says-fragmentation-could-cost-global-economy-up-7-gdp-2023-01-15/)
-- [Project Everest: Probably secure communication software](https://project-everest.github.io/)
-- [Show HN: Mastodon Developers Discuss How Best to Hide Their Child Porn Problems](https://github.com/mastodon/mastodon/issues/1847)
-- [Finding Land for Renewables Is a Policy Challenge, Not a Technical Challenge](https://climateer.substack.com/p/land-use)
-- [Boomers don&#39;t have nearly enough retirement savings, especially women](https://www.businessinsider.com/boomers-dont-have-retirement-savings-women-have-less-than-men-2022-1)
-- [Show HN: Itsy-Gitsy – a static site generator for Git repositories](https://github.com/mrmekon/itsy-gitsy)
-- [U.S. Will Hit Debt Limit Jan. 19, Yellen Tells Congress](https://www.nytimes.com/2023/01/13/business/economy/debt-limit-us-economy.html)
-- [Show HN: Terra Firma, a playable erosion simulation](https://store.steampowered.com/app/1482770/Terra_Firma/)
-- [A small mistake does not a complex systems failure make](https://surfingcomplexity.blog/2023/01/15/a-small-mistake-does-not-a-complex-systems-failure-make/)
-- [Sounds of melting glaciers used to better predict sea level rise](https://www.straitstimes.com/singapore/sound-of-melting-glaciers-could-help-to-better-predict-sea-level-rise-nus-scientist)
+- [Voice control for handsfree Linux computing](https://numenvoice.com/)
+- [Flaws and features in the Flent network testing tool](https://blog.cerowrt.org/post/flaws_in_flent/)
+- [AMD Quietly Lists 31 New CPU Vulnerabilities, Issues Patch Guidance](https://www.tomshardware.com/news/amd-discloses-31-new-cpu-vulnerabilities)
+- [Legit Startups – AI Generated Startup Websites](https://legit-startups.com/)
+- [A collection of math tutorials in C](https://github.com/Foadsf/Cmathtuts)
+- [Scientists use a laser beam to control lightning bolts](https://www.science.org/content/article/playing-zeus-scientists-use-laser-beam-control-lightning-bolts)
+- [Checkboxes](https://www.jezzamon.com/checkboxes/)
+- [Ask HN: Got an email from someone expecting a bug bounty. What to do?](https://news.ycombinator.com/item?id=34408369)
+- [James Cameron&#39;s Already Setting Avatar 3 on Fire](https://gizmodo.com/avatar-3-way-of-water-sequel-fire-james-cameron-1849993680)
+- [China’s population drops for the first time in decades](https://www.cnbc.com/2023/01/17/chinas-population-drops-for-the-first-time-in-decades.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

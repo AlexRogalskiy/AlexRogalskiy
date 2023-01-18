@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [China’s population falls for first time in more than 60 years](https://www.theguardian.com/world/2023/jan/17/chinas-population-falls-for-first-time-in-more-than-60-years)
-- [Children hurt eating liquid nitrogen ‘dragon’s breath’ snack in Indonesian Tiktok trend](https://www.theguardian.com/world/2023/jan/17/dragons-breath-tiktok-trend-children-hurt-indoneseia-eating-liquid-nitrogen-dragon-snack-chiki-ngebul)
-- [Russian flags banned at Australian Open following criticism from Ukrainian ambassador](https://www.theguardian.com/sport/2023/jan/17/russian-flags-banned-at-australian-open-following-criticism-from-ukrainian-ambassador)
-- [‘Binge rainfall’ sends New Zealanders’ summer plans down the drain](https://www.theguardian.com/world/2023/jan/17/new-zealand-weather-summer-binge-rainfall)
-- [Nepal plane crash co-pilot was married to pilot who died in Yeti Airlines accident in 2006](https://www.theguardian.com/world/2023/jan/17/nepal-plane-crash-co-pilot-was-married-to-pilot-who-died-in-yeti-airlines-accident-in-2006)
-- [‘This song sucks’: Nick Cave responds to ChatGPT song written in style of Nick Cave](https://www.theguardian.com/music/2023/jan/17/this-song-sucks-nick-cave-responds-to-chatgpt-song-written-in-style-of-nick-cave)
-- [Russia-Ukraine war at a glance: what we know on day 328 of the invasion](https://www.theguardian.com/world/2023/jan/17/russia-ukraine-war-at-a-glance-what-we-know-on-day-328-of-the-invasion)
-- [Ethnic segregation in England and Wales on the wane, research finds](https://www.theguardian.com/uk-news/2023/jan/17/ethnic-segregation-in-england-and-wales-on-the-wane-research-finds)
-- [Antidepressants ‘should be reduced in stages’ to avoid withdrawal symptoms](https://www.theguardian.com/society/2023/jan/17/antidepressants-should-be-reduced-in-stages-to-avoid-withdrawal-symptoms)
-- [Energy bills: calls for ‘social tariff’ when UK government support ends](https://www.theguardian.com/money/2023/jan/17/uk-energy-bills-social-tariff-government-jeremy-hunt)
+- [Maria Ressa, Philippine Nobel prize winner, acquitted of tax evasion charges](https://www.theguardian.com/world/2023/jan/18/maria-ressa-acquitted-tax-evasion-charges-philippine-nobel-prize-winner-rappler-news)
+- [‘A little off his rocker’: jurors grilled over views of Elon Musk for shareholder trial](https://www.theguardian.com/technology/2023/jan/17/elon-musk-tesla-trial-alleged-fraud-funding-secured-tweet)
+- [George Santos reportedly to be seated on two House committees](https://www.theguardian.com/us-news/2023/jan/17/george-santos-house-committees)
+- [Ron Jeremy found ‘not competent’ to stand trial for multiple rape charges](https://www.theguardian.com/society/2023/jan/17/ron-jeremy-found-not-competent-to-stand-trial-for-multiple-charges)
+- [Russia-Ukraine war at a glance: what we know on day 329 of the invasion](https://www.theguardian.com/world/2023/jan/18/russia-ukraine-war-at-a-glance-what-we-know-on-day-329-of-the-invasion)
+- [Legal experts call for new UK offence of inducing sexual activity by deception](https://www.theguardian.com/uk-news/2023/jan/18/legal-experts-call-for-new-uk-offence-of-inducing-sexual-activity-by-deception)
+- [Cost of supermarket budget brands rose 20.3% in December, survey finds](https://www.theguardian.com/business/2023/jan/18/cost-of-supermarket-budget-brands-rose-203-in-december-survey-finds)
+- [‘Tax us now’: ultra-rich call on governments to introduce wealth taxes](https://www.theguardian.com/business/2023/jan/18/tax-us-now-ultra-rich-wealth-tax-davos)
+- [Jürgen Klopp relieved at ‘important sign’ for Liverpool in win over Wolves](https://www.theguardian.com/football/2023/jan/17/jurgen-klopp-relieved-at-important-sign-for-liverpool-in-win-over-wolves)
+- [People should not take cake into the office, suggests food watchdog chief](https://www.theguardian.com/society/2023/jan/17/people-should-not-take-cakes-in-to-the-office-suggests-food-watchdog-chief)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

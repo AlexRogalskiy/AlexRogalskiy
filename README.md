@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Pretty Good House](https://www.prettygoodhouse.org)
-- [Show HN: Otterkit – COBOL compiler for .NET](https://github.com/otterkit/otterkit)
-- [Blaze: A high-performance C++ math library](https://bitbucket.org/blaze-lib/blaze/src/master/)
-- [Quitting the rat race](https://seanbarry.dev/posts/quitting-the-rat-race/)
-- [Programmer salaries in the age of LLMs](https://milkyeggs.com/?p=303)
-- [Show HN: Vento, a screen recorder that lets you rewind and record over mistakes](https://vento.so)
-- [Major standard library changes in Go 1.20](https://blog.carlmjohnson.net/post/2023/golang-120-arenas-errors-responsecontroller/)
-- [Show HN: Anonymous Feedback Tool for Teams](https://runsignals.com/)
-- [The hardest part of being a junior developer](https://rachsmith.com/the-hardest-part-of-being-a-jnr/)
-- [Crows of Karachi](https://orionmagazine.org/article/crows-of-karachi-pakistan/)
+- [LangChain: Build AI apps with LLMs through composability](https://github.com/hwchase17/langchain)
+- [Printable Puzzle Project](https://www.puzzlehub.org/)
+- [Show HN: I made a tool, create GitHub Repository from local directory directly](https://github.com/shunak/wfh)
+- [Smithsonian will restore hundreds of the oldest sound recordings](https://www.smithsonianmag.com/smart-news/smithsonian-will-restore-nearly-300-never-before-heard-recordings-by-alexander-graham-bell-180981440/)
+- [GPT-3.5 and Wolfram Alpha via LangChain](https://huggingface.co/spaces/JavaFXpert/Chat-GPT-LangChain)
+- [Ask HN: Techwise, how did TikTok get so good?](https://news.ycombinator.com/item?id=34421594)
+- [A stack of feed-forward layers does surprisingly well on ImageNet](https://arxiv.org/abs/2105.02723)
+- [Show HN: Summate.it – Quickly summarize web articles with OpenAI](https://summate.it/?v2)
+- [The art of knowing when to quit](https://blog.jim-nielsen.com/2023/art-of-knowing-when-to-quit/)
+- [A flurry of new studies identifies causes of the Industrial Revolution](https://www.economist.com/graphic-detail/2023/01/17/a-flurry-of-new-studies-identifies-causes-of-the-industrial-revolution)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

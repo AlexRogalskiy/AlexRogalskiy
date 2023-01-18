@@ -355,6 +355,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Good-bye, Windows 7](https://www.computerworld.com/article/3685571/good-bye-windows-7.html#tk.rss_all)
+- [Apple unveils new Macs with faster M2 Pro, M2 Max chips](https://www.computerworld.com/article/3685418/apple-unveils-new-macs-with-faster-m2-pro-m2-max-chips.html#tk.rss_all)
+- [Q&amp;A: How to create workplace culture in a time of remote work](https://www.computerworld.com/article/3685669/qa-how-to-create-workplace-culture-in-a-time-of-remote-work.html#tk.rss_all)
 - [Microsoft Visio cheat sheet: How to get started](https://www.computerworld.com/article/3683914/microsoft-visio-cheat-sheet-create-diagrams.html#tk.rss_all)
 - [Google warns court against changing liability shield for internet companies](https://www.computerworld.com/article/3685535/google-warns-court-against-changing-liability-shield-for-internet-companies.html#tk.rss_all)
 - [Patch now to address critical Windows zero-day flaw](https://www.computerworld.com/article/3685534/patch-now-to-address-critical-windows-zero-day-flaw.html#tk.rss_all)
@@ -362,9 +365,6 @@
 - [Microsoft aims to improve OKR adoption with Viva Goals integrations](https://www.computerworld.com/article/3685668/microsoft-aims-to-improve-okr-adoption-with-viva-goals-integrations.html#tk.rss_all)
 - [How Apple and ‘composable business’ go hand in glove](https://www.computerworld.com/article/3685489/how-apple-and-composable-business-go-hand-in-glove.html#tk.rss_all)
 - [Hybrid-work hardware debuts at CES. Wait…, what?](https://www.computerworld.com/article/3684756/hybrid-work-hardware-debuts-at-ces-wait-what.html#tk.rss_all)
-- [The productivity promise &lpar;and perils&rpar; of generative AI](https://www.computerworld.com/article/3685371/the-productivity-promise-and-perils-with-generative-ai.html#tk.rss_all)
-- [9 Android accessibility treasures that&#39;ll make anyone more productive](https://www.computerworld.com/article/3346010/android-accessibility.html#tk.rss_all)
-- [Alphabet robotics subsidiary Intrinsic lays off 20% staff](https://www.computerworld.com/article/3685413/alphabet-robotics-subsidiary-intrinsic-lays-off-20-staff.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

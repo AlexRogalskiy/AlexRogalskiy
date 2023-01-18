@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Voice control for handsfree Linux computing](https://numenvoice.com/)
-- [Flaws and features in the Flent network testing tool](https://blog.cerowrt.org/post/flaws_in_flent/)
-- [AMD Quietly Lists 31 New CPU Vulnerabilities, Issues Patch Guidance](https://www.tomshardware.com/news/amd-discloses-31-new-cpu-vulnerabilities)
-- [Legit Startups – AI Generated Startup Websites](https://legit-startups.com/)
-- [A collection of math tutorials in C](https://github.com/Foadsf/Cmathtuts)
-- [Scientists use a laser beam to control lightning bolts](https://www.science.org/content/article/playing-zeus-scientists-use-laser-beam-control-lightning-bolts)
-- [Checkboxes](https://www.jezzamon.com/checkboxes/)
-- [Ask HN: Got an email from someone expecting a bug bounty. What to do?](https://news.ycombinator.com/item?id=34408369)
-- [James Cameron&#39;s Already Setting Avatar 3 on Fire](https://gizmodo.com/avatar-3-way-of-water-sequel-fire-james-cameron-1849993680)
-- [China’s population drops for the first time in decades](https://www.cnbc.com/2023/01/17/chinas-population-drops-for-the-first-time-in-decades.html)
+- [Sabians](https://en.wikipedia.org/wiki/Sabians)
+- [New Apple M2 Chips](https://www.youtube.com/watch?v=6Ij9PiehENA)
+- [How to start measuring Scope 3 emissions](https://www.unravelcarbon.com/blog/companies-get-started-scope-3-measurement)
+- [Would You Fall for It? [video on 1950’s propaganda]](https://www.youtube.com/watch?v=n94-_yE4IeU)
+- [Rune: An experimental Emacs Lisp interpreter written in Rust](https://github.com/CeleritasCelery/rune)
+- [The Radical Design of PizzaExpress](https://vittles.substack.com/p/the-radical-design-of-pizzaexpress)
+- [FEC dismisses GOP complaint that Google censored fundraising emails in Gmail](https://www.theverge.com/2023/1/17/23559062/google-gmail-spam-filter-gop-republican-fundraising-midterms-emails)
+- [Google’s Stadia Controller Bluetooth support is available now](https://www.theverge.com/2023/1/17/23559203/google-stadia-controller-bluetooth-support-tool-download)
+- [LangChain: Build AI apps with LLMs through composability](https://github.com/hwchase17/langchain)
+- [In a Stable Career Track, Where Does the Risk Go?](https://www.thediff.co/archive/in-a-stable-career-track-where-does-the-risk-go/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

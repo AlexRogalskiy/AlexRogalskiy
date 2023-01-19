@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Maria Ressa, Philippine Nobel prize winner, acquitted of tax evasion charges](https://www.theguardian.com/world/2023/jan/18/maria-ressa-acquitted-tax-evasion-charges-philippine-nobel-prize-winner-rappler-news)
-- [‘A little off his rocker’: jurors grilled over views of Elon Musk for shareholder trial](https://www.theguardian.com/technology/2023/jan/17/elon-musk-tesla-trial-alleged-fraud-funding-secured-tweet)
-- [George Santos reportedly to be seated on two House committees](https://www.theguardian.com/us-news/2023/jan/17/george-santos-house-committees)
-- [Ron Jeremy found ‘not competent’ to stand trial for multiple rape charges](https://www.theguardian.com/society/2023/jan/17/ron-jeremy-found-not-competent-to-stand-trial-for-multiple-charges)
-- [Russia-Ukraine war at a glance: what we know on day 329 of the invasion](https://www.theguardian.com/world/2023/jan/18/russia-ukraine-war-at-a-glance-what-we-know-on-day-329-of-the-invasion)
-- [Legal experts call for new UK offence of inducing sexual activity by deception](https://www.theguardian.com/uk-news/2023/jan/18/legal-experts-call-for-new-uk-offence-of-inducing-sexual-activity-by-deception)
-- [Cost of supermarket budget brands rose 20.3% in December, survey finds](https://www.theguardian.com/business/2023/jan/18/cost-of-supermarket-budget-brands-rose-203-in-december-survey-finds)
-- [‘Tax us now’: ultra-rich call on governments to introduce wealth taxes](https://www.theguardian.com/business/2023/jan/18/tax-us-now-ultra-rich-wealth-tax-davos)
-- [Jürgen Klopp relieved at ‘important sign’ for Liverpool in win over Wolves](https://www.theguardian.com/football/2023/jan/17/jurgen-klopp-relieved-at-important-sign-for-liverpool-in-win-over-wolves)
-- [People should not take cake into the office, suggests food watchdog chief](https://www.theguardian.com/society/2023/jan/17/people-should-not-take-cakes-in-to-the-office-suggests-food-watchdog-chief)
+- [Missing hiker reported in California revealed as British actor Julian Sands](https://www.theguardian.com/us-news/2023/jan/18/julian-sands-actor-missing-california-hiking)
+- [Russia-Ukraine war at a glance: what we know on day 330 of the invasion](https://www.theguardian.com/world/2023/jan/19/russia-ukraine-war-at-a-glance-what-we-know-on-day-330-of-the-invasion)
+- [Jacinda Ardern resigns as prime minister of New Zealand](https://www.theguardian.com/world/2023/jan/19/jacinda-ardern-resigns-as-prime-minister-of-new-zealand)
+- [King Charles redirects £1bn windfarm profits towards ‘public good’](https://www.theguardian.com/uk-news/2023/jan/19/king-charles-redirects-1bn-windfarm-profits-towards-public-good)
+- [Mental health racial bias in England and Wales is ‘inexcusable’, says report](https://www.theguardian.com/society/2023/jan/19/mental-health-racial-bias-in-england-and-wales-is-inexcusable-says-report)
+- [Deloitte reveal more than half of world’s 20 richest clubs are in Premier League](https://www.theguardian.com/football/2023/jan/19/more-than-half-20-richest-clubs-in-world-premier-league-deloitte-report)
+- [Cyber-attacks have tripled in past year, says Ukraine’s cybersecurity agency](https://www.theguardian.com/world/2023/jan/19/cyber-attacks-have-tripled-in-past-year-says-ukraine-cybersecurity-agency)
+- [‘Medieval institution’: Commonwealth Guardian readers on Prince Harry’s Spare](https://www.theguardian.com/uk-news/2023/jan/18/medieval-institution-commonwealth-guardian-readers-on-prince-harrys-spare)
+- [Scientists suggest eating oily fish linked to lower risk of kidney disease](https://www.theguardian.com/science/2023/jan/18/scientists-eating-oily-fish-lower-risk-of-chronic-kidney-disease-omega-3-fatty-acids)
+- [Labour seeks inquiry into Boris Johnson and credit facility guaranteed by cousin](https://www.theguardian.com/politics/2023/jan/18/labour-seeks-inquiry-into-boris-johnson-and-credit-facility-guaranteed-by-cousin)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

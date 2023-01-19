@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Microsoft CEO Satya Nadella confirms plan to lay off 10,000 workers](https://www.computerworld.com/article/3685420/microsoft-ceo-satya-nadella-confirms-plan-to-lay-off-10000-workers.html#tk.rss_all)
+- [Apple now offers Wi-Fi 6E in Macs; what does it do?](https://www.computerworld.com/article/3685576/apple-now-offers-wi-fi-6e-in-macs-what-does-it-do.html#tk.rss_all)
+- [Gen Zers and millennials split over the appeal of remote work](https://www.computerworld.com/article/3685792/gen-zers-and-millennials-split-over-the-appeal-of-remote-work.html#tk.rss_all)
+- [A colossal Wear OS calendar upgrade — Google Pixel Watch and beyond](https://www.computerworld.com/article/3685539/pixel-watch-wear-os-calendar.html#tk.rss_all)
+- [Enterprise software, services to boost 2023 IT spending by 2.3%: Gartner](https://www.computerworld.com/article/3685791/enterprise-software-services-sales-to-boost-2023-it-spending-by-2-3-gartner.html#tk.rss_all)
+- [Microsoft could layoff 11,000 employees: Reports](https://www.computerworld.com/article/3685380/microsoft-could-layoff-11-000-employees-reports.html#tk.rss_all)
 - [Good-bye, Windows 7](https://www.computerworld.com/article/3685571/good-bye-windows-7.html#tk.rss_all)
 - [Apple unveils new Macs with faster M2 Pro, M2 Max chips](https://www.computerworld.com/article/3685418/apple-unveils-new-macs-with-faster-m2-pro-m2-max-chips.html#tk.rss_all)
 - [Q&amp;A: How to create workplace culture in a time of remote work](https://www.computerworld.com/article/3685669/qa-how-to-create-workplace-culture-in-a-time-of-remote-work.html#tk.rss_all)
-- [Microsoft Visio cheat sheet: How to get started](https://www.computerworld.com/article/3683914/microsoft-visio-cheat-sheet-create-diagrams.html#tk.rss_all)
-- [Google warns court against changing liability shield for internet companies](https://www.computerworld.com/article/3685535/google-warns-court-against-changing-liability-shield-for-internet-companies.html#tk.rss_all)
-- [Patch now to address critical Windows zero-day flaw](https://www.computerworld.com/article/3685534/patch-now-to-address-critical-windows-zero-day-flaw.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [Microsoft aims to improve OKR adoption with Viva Goals integrations](https://www.computerworld.com/article/3685668/microsoft-aims-to-improve-okr-adoption-with-viva-goals-integrations.html#tk.rss_all)
-- [How Apple and ‘composable business’ go hand in glove](https://www.computerworld.com/article/3685489/how-apple-and-composable-business-go-hand-in-glove.html#tk.rss_all)
-- [Hybrid-work hardware debuts at CES. Wait…, what?](https://www.computerworld.com/article/3684756/hybrid-work-hardware-debuts-at-ces-wait-what.html#tk.rss_all)
+- [Microsoft cheat sheets: Dive into Windows and Office apps](https://www.computerworld.com/article/3199247/microsoft-cheat-sheets-dive-into-windows-and-office-apps.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

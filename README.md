@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Sabians](https://en.wikipedia.org/wiki/Sabians)
-- [New Apple M2 Chips](https://www.youtube.com/watch?v=6Ij9PiehENA)
-- [How to start measuring Scope 3 emissions](https://www.unravelcarbon.com/blog/companies-get-started-scope-3-measurement)
-- [Would You Fall for It? [video on 1950’s propaganda]](https://www.youtube.com/watch?v=n94-_yE4IeU)
-- [Rune: An experimental Emacs Lisp interpreter written in Rust](https://github.com/CeleritasCelery/rune)
-- [The Radical Design of PizzaExpress](https://vittles.substack.com/p/the-radical-design-of-pizzaexpress)
-- [FEC dismisses GOP complaint that Google censored fundraising emails in Gmail](https://www.theverge.com/2023/1/17/23559062/google-gmail-spam-filter-gop-republican-fundraising-midterms-emails)
-- [Google’s Stadia Controller Bluetooth support is available now](https://www.theverge.com/2023/1/17/23559203/google-stadia-controller-bluetooth-support-tool-download)
-- [LangChain: Build AI apps with LLMs through composability](https://github.com/hwchase17/langchain)
-- [In a Stable Career Track, Where Does the Risk Go?](https://www.thediff.co/archive/in-a-stable-career-track-where-does-the-risk-go/)
+- [How the Xbox got its good looks](https://arun.is/blog/xbox/)
+- [JetBlue plane hits parked aircraft at JFK airport](https://www.bbc.com/news/world-us-canada-64325434)
+- [Nvidia Grace CPU Superchip Architecture in Depth](https://developer.nvidia.com/blog/nvidia-grace-cpu-superchip-architecture-in-depth/)
+- [Scamp – a self-contained Forth computer](https://udamonic.com/what-is-a-scamp.html)
+- [Gnome Report Shows Gnome Extensions Are Super Popular](https://www.omglinux.com/gnome-data-collect-tool-results/)
+- [ChatGPT listed as author on research papers: many scientists disapprove](https://www.nature.com/articles/d41586-023-00107-z)
+- [Atlantis &lpar;Open Source Terraform Automation&rpar; v0.22.3 Released](https://github.com/runatlantis/atlantis/releases/tag/v0.22.3)
+- [Security Audit of Git](https://x41-dsec.de/security/research/news/2023/01/17/git-security-audit-ostif/)
+- [List of File Signatures](https://en.wikipedia.org/wiki/List_of_file_signatures)
+- [Naming Things in Code](https://www.youtube.com/watch?v=-J3wNP6u5YU)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

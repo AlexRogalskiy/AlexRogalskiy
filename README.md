@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [LangChain: Build AI apps with LLMs through composability](https://github.com/hwchase17/langchain)
-- [Printable Puzzle Project](https://www.puzzlehub.org/)
-- [Show HN: I made a tool, create GitHub Repository from local directory directly](https://github.com/shunak/wfh)
-- [Smithsonian will restore hundreds of the oldest sound recordings](https://www.smithsonianmag.com/smart-news/smithsonian-will-restore-nearly-300-never-before-heard-recordings-by-alexander-graham-bell-180981440/)
-- [GPT-3.5 and Wolfram Alpha via LangChain](https://huggingface.co/spaces/JavaFXpert/Chat-GPT-LangChain)
-- [Ask HN: Techwise, how did TikTok get so good?](https://news.ycombinator.com/item?id=34421594)
-- [A stack of feed-forward layers does surprisingly well on ImageNet](https://arxiv.org/abs/2105.02723)
-- [Show HN: Summate.it – Quickly summarize web articles with OpenAI](https://summate.it/?v2)
-- [The art of knowing when to quit](https://blog.jim-nielsen.com/2023/art-of-knowing-when-to-quit/)
-- [A flurry of new studies identifies causes of the Industrial Revolution](https://www.economist.com/graphic-detail/2023/01/17/a-flurry-of-new-studies-identifies-causes-of-the-industrial-revolution)
+- [Amazon Closing AmazonSmile](https://www.aboutamazon.com/news/company-news/amazon-closing-amazonsmile-to-focus-its-philanthropic-giving-to-programs-with-greater-impact)
+- [Things I’ve learned in my years as a software engineer](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/)
+- [Show HN: Unblob – extraction suite for 30+ file formats](https://github.com/onekey-sec/unblob)
+- [Boston Dynamics’ bipedal robot Atlas can now grab and toss](https://www.theverge.com/23560592/boston-dynamics-atlas-robot-bipedal-work-video-construction-site)
+- [HC-tree is an experimental high-concurrency database back end for SQLite](https://sqlite.org/hctree/doc/hctree/doc/hctree/index.html)
+- [An aggressive, stealthy web spider operating from Microsoft IP space](https://utcc.utoronto.ca/~cks/space/blog/web/AggressiveStealthyWebSpider)
+- [Someone stole my car and now I own hundreds of vinyl records](https://mkaic.substack.com/p/someone-stole-my-car-and-now-i-own)
+- [Loneliness is a measure of self-understanding](http://stan.bar/loneliness/)
+- [Aviator &lpar;YC S21&rpar; Is hiring senior engineers interested in dev productivity](https://www.ycombinator.com/companies/aviator/jobs)
+- [Burn-out, daunting work, overstretched, and it&#39;s just too much](https://www.adama-platform.com/2023/01/18/daunting-over-stretched.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [How the Xbox got its good looks](https://arun.is/blog/xbox/)
-- [JetBlue plane hits parked aircraft at JFK airport](https://www.bbc.com/news/world-us-canada-64325434)
-- [Nvidia Grace CPU Superchip Architecture in Depth](https://developer.nvidia.com/blog/nvidia-grace-cpu-superchip-architecture-in-depth/)
-- [Scamp – a self-contained Forth computer](https://udamonic.com/what-is-a-scamp.html)
-- [Gnome Report Shows Gnome Extensions Are Super Popular](https://www.omglinux.com/gnome-data-collect-tool-results/)
-- [ChatGPT listed as author on research papers: many scientists disapprove](https://www.nature.com/articles/d41586-023-00107-z)
-- [Atlantis &lpar;Open Source Terraform Automation&rpar; v0.22.3 Released](https://github.com/runatlantis/atlantis/releases/tag/v0.22.3)
-- [Security Audit of Git](https://x41-dsec.de/security/research/news/2023/01/17/git-security-audit-ostif/)
-- [List of File Signatures](https://en.wikipedia.org/wiki/List_of_file_signatures)
-- [Naming Things in Code](https://www.youtube.com/watch?v=-J3wNP6u5YU)
+- [Social Security Administration Redesign](https://www.ssa.gov/)
+- [AI Passes U.S. Medical Licensing Exam](https://www.medpagetoday.com/special-reports/exclusives/102705)
+- [Revenue Management for Meth Dealers in Flint &lpar;2012&rpar;](http://web.archive.org/web/20160302234916/http://analyticsmadeskeezy.com/2012/10/08/revenue-management-for-meth-dealers-in-flint/)
+- [Generous and Selfish](https://seths.blog/2023/01/the-odd-generous-selfish-cycle/)
+- [Tell HN: These Are Tough Times](https://news.ycombinator.com/item?id=34448407)
+- [The Pull of Cities](https://antonhowes.substack.com/p/age-of-invention-the-pull-of-cities)
+- [Passwordless Deployments to the Cloud](https://github.blog/2023-01-11-passwordless-deployments-to-the-cloud/)
+- [Ask HN: How do you keep track of your medical history?](https://news.ycombinator.com/item?id=34448353)
+- [Show HN: Music Audio Search Engine Using OpenAI&#39;s Embeddings on GPT Descriptions](https://muzic-sage.vercel.app/)
+- [1923 cartoon eerily predicted 2023](https://arstechnica.com/information-technology/2023/01/a-cartoonist-predicted-2023s-ai-drawing-machines-in-1923/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

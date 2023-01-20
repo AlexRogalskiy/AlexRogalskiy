@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Amazon Closing AmazonSmile](https://www.aboutamazon.com/news/company-news/amazon-closing-amazonsmile-to-focus-its-philanthropic-giving-to-programs-with-greater-impact)
-- [Things I’ve learned in my years as a software engineer](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/)
-- [Show HN: Unblob – extraction suite for 30+ file formats](https://github.com/onekey-sec/unblob)
-- [Boston Dynamics’ bipedal robot Atlas can now grab and toss](https://www.theverge.com/23560592/boston-dynamics-atlas-robot-bipedal-work-video-construction-site)
-- [HC-tree is an experimental high-concurrency database back end for SQLite](https://sqlite.org/hctree/doc/hctree/doc/hctree/index.html)
-- [An aggressive, stealthy web spider operating from Microsoft IP space](https://utcc.utoronto.ca/~cks/space/blog/web/AggressiveStealthyWebSpider)
-- [Someone stole my car and now I own hundreds of vinyl records](https://mkaic.substack.com/p/someone-stole-my-car-and-now-i-own)
-- [Loneliness is a measure of self-understanding](http://stan.bar/loneliness/)
-- [Aviator &lpar;YC S21&rpar; Is hiring senior engineers interested in dev productivity](https://www.ycombinator.com/companies/aviator/jobs)
-- [Burn-out, daunting work, overstretched, and it&#39;s just too much](https://www.adama-platform.com/2023/01/18/daunting-over-stretched.html)
+- [The Grapes of Wrath was banned in the USSR because showed poor people had cars](https://sites.psu.edu/comm150honors/2016/02/04/the-grapes-of-wraths-foreshadowing-of-the-cold-war/)
+- [How to own an airline in 3 easy steps and grab the TSA nofly list along the way](https://maia.crimew.gay/posts/how-to-hack-an-airline/)
+- [Nuclear explosion impact on humans indoors &lpar;2022&rpar;](https://aip.scitation.org/doi/10.1063/5.0132565)
+- [Apple releases Lisa source code](https://computerhistory.org/press-releases/chm-makes-apple-lisa-source-code-available-to-the-public-as-a-part-of-its-art-of-code-series/)
+- [Unusual compound found in Rembrandt’s The Night Watch](https://www.esrf.fr/home/news/general/content-news/general/unusual-compound-found-in-rembrandts-the-night-watch.html)
+- [So why a News Feed?](https://post.news/article/2KYjMzTY05WmEZmxJnG3PGqyVpz)
+- [ChatRWKV, like ChatGPT but powered by the RWKV &lpar;RNN-based, open&rpar; language model](https://github.com/BlinkDL/ChatRWKV)
+- [Twitterrific has been discontinued](https://blog.iconfactory.com/2023/01/twitterrific-end-of-an-era/)
+- [Sudoedit can edit arbitrary files](https://seclists.org/oss-sec/2023/q1/42)
+- [Emerge &lpar;YC W21&rpar; is hiring engineers to build the future of mobile development](https://www.ycombinator.com/companies/emerge-tools/jobs/5Y3MCJi-senior-mobile-engineer-remote)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

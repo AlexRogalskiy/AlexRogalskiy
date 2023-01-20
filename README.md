@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Missing hiker reported in California revealed as British actor Julian Sands](https://www.theguardian.com/us-news/2023/jan/18/julian-sands-actor-missing-california-hiking)
-- [Russia-Ukraine war at a glance: what we know on day 330 of the invasion](https://www.theguardian.com/world/2023/jan/19/russia-ukraine-war-at-a-glance-what-we-know-on-day-330-of-the-invasion)
-- [Jacinda Ardern resigns as prime minister of New Zealand](https://www.theguardian.com/world/2023/jan/19/jacinda-ardern-resigns-as-prime-minister-of-new-zealand)
-- [King Charles redirects £1bn windfarm profits towards ‘public good’](https://www.theguardian.com/uk-news/2023/jan/19/king-charles-redirects-1bn-windfarm-profits-towards-public-good)
-- [Mental health racial bias in England and Wales is ‘inexcusable’, says report](https://www.theguardian.com/society/2023/jan/19/mental-health-racial-bias-in-england-and-wales-is-inexcusable-says-report)
-- [Deloitte reveal more than half of world’s 20 richest clubs are in Premier League](https://www.theguardian.com/football/2023/jan/19/more-than-half-20-richest-clubs-in-world-premier-league-deloitte-report)
-- [Cyber-attacks have tripled in past year, says Ukraine’s cybersecurity agency](https://www.theguardian.com/world/2023/jan/19/cyber-attacks-have-tripled-in-past-year-says-ukraine-cybersecurity-agency)
-- [‘Medieval institution’: Commonwealth Guardian readers on Prince Harry’s Spare](https://www.theguardian.com/uk-news/2023/jan/18/medieval-institution-commonwealth-guardian-readers-on-prince-harrys-spare)
-- [Scientists suggest eating oily fish linked to lower risk of kidney disease](https://www.theguardian.com/science/2023/jan/18/scientists-eating-oily-fish-lower-risk-of-chronic-kidney-disease-omega-3-fatty-acids)
-- [Labour seeks inquiry into Boris Johnson and credit facility guaranteed by cousin](https://www.theguardian.com/politics/2023/jan/18/labour-seeks-inquiry-into-boris-johnson-and-credit-facility-guaranteed-by-cousin)
+- [Are AI-generated songs a ‘grotesque mockery’ of humanity or simply an opportunity to make a new kind of music?  | Jeff Sparrow](https://www.theguardian.com/commentisfree/2023/jan/20/are-ai-generated-songs-a-grotesque-mockery-of-humanity-or-simply-an-opportunity-to-make-a-new-kind-of-music)
+- [Xi’s authority dented by sudden Covid U-turn but iron grip on power is undimmed](https://www.theguardian.com/world/2023/jan/20/xis-authority-dented-by-sudden-covid-u-turn-but-iron-grip-on-power-is-undimmed)
+- [Jacinda Ardern: political figures believe abuse and threats contributed to PM’s resignation](https://www.theguardian.com/world/2023/jan/20/jacinda-ardern-speculation-that-abuse-and-threats-contributed-to-resignation)
+- [Ron DeSantis bans African American studies class from Florida high schools](https://www.theguardian.com/us-news/2023/jan/19/ron-desantis-bans-african-american-studies-florida-schools)
+- [‘Years to rebuild’: Biden takes in scale of California storm destruction on visit](https://www.theguardian.com/us-news/2023/jan/19/joe-biden-california-storm-destruction-visit)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/blog/2023/jan/20/premier-league-10-things-to-look-out-for-this-weekend)
+- [Poland could send Leopard tanks to Ukraine without German approval](https://www.theguardian.com/world/2023/jan/19/poland-could-send-leopard-tanks-to-ukraine-without-german-approval)
+- [Russia-Ukraine war at a glance: what we know on day 331 of the invasion](https://www.theguardian.com/world/2023/jan/20/russia-ukraine-war-at-a-glance-what-we-know-on-day-331-of-the-invasion)
+- [Scientists discover emperor penguin colony in Antarctica using satellite images](https://www.theguardian.com/environment/2023/jan/20/scientists-discover-emperor-penguin-colony-in-antarctica-using-satellite-images)
+- [Netflix co-founder Reed Hastings steps down as CEO of streaming company](https://www.theguardian.com/media/2023/jan/19/reed-hastings-resigns-netflix-ceo)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

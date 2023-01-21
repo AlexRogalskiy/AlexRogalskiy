@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Apple appeals UK probe, but is it just buying time?](https://www.computerworld.com/article/3686054/apple-appeals-uk-probe-but-is-it-just-buying-time.html#tk.rss_all)
+- [Big tech backs Google in defending internet liability protections](https://www.computerworld.com/article/3685934/big-tech-backs-google-in-defending-internet-liability-protections.html#tk.rss_all)
+- [Google&#39;s parent company Alphabet to cut 12,000 jobs](https://www.computerworld.com/article/3686031/googles-parent-company-alphabet-to-cut-12-000-jobs.html#tk.rss_all)
+- [iCloud for Windows: What is it &lpar;and how do you use it&rpar;?](https://www.computerworld.com/article/3402080/icloud-for-windows-what-is-it-and-how-do-you-use-it.html#tk.rss_all)
+- [8 advanced Android clipboard tricks](https://www.computerworld.com/article/3685385/android-clipboard-tricks.html#tk.rss_all)
 - [Generative AI isn’t about what you think it is](https://www.computerworld.com/article/3686093/generative-ai-isnt-about-what-you-think-it-is.html#tk.rss_all)
 - [Winget: The best way to keep Windows apps updated](https://www.computerworld.com/article/3684171/winget-the-best-way-to-keep-windows-apps-updated.html#tk.rss_all)
 - [Microsoft CEO Satya Nadella confirms plan to lay off 10,000 workers](https://www.computerworld.com/article/3685420/microsoft-ceo-satya-nadella-confirms-plan-to-lay-off-10000-workers.html#tk.rss_all)
 - [Apple now offers Wi-Fi 6E in Macs; what does it do?](https://www.computerworld.com/article/3685576/apple-now-offers-wi-fi-6e-in-macs-what-does-it-do.html#tk.rss_all)
 - [Gen Zers and millennials split over the appeal of remote work](https://www.computerworld.com/article/3685792/gen-zers-and-millennials-split-over-the-appeal-of-remote-work.html#tk.rss_all)
-- [A colossal Wear OS calendar upgrade — Google Pixel Watch and beyond](https://www.computerworld.com/article/3685539/pixel-watch-wear-os-calendar.html#tk.rss_all)
-- [Enterprise software, services to boost 2023 IT spending by 2.3%: Gartner](https://www.computerworld.com/article/3685791/enterprise-software-services-sales-to-boost-2023-it-spending-by-2-3-gartner.html#tk.rss_all)
-- [Microsoft could layoff 11,000 employees: Reports](https://www.computerworld.com/article/3685380/microsoft-could-layoff-11-000-employees-reports.html#tk.rss_all)
-- [Good-bye, Windows 7](https://www.computerworld.com/article/3685571/good-bye-windows-7.html#tk.rss_all)
-- [Apple unveils new Macs with faster M2 Pro, M2 Max chips](https://www.computerworld.com/article/3685418/apple-unveils-new-macs-with-faster-m2-pro-m2-max-chips.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

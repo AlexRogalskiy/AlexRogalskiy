@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Are AI-generated songs a ‘grotesque mockery’ of humanity or simply an opportunity to make a new kind of music?  | Jeff Sparrow](https://www.theguardian.com/commentisfree/2023/jan/20/are-ai-generated-songs-a-grotesque-mockery-of-humanity-or-simply-an-opportunity-to-make-a-new-kind-of-music)
-- [Xi’s authority dented by sudden Covid U-turn but iron grip on power is undimmed](https://www.theguardian.com/world/2023/jan/20/xis-authority-dented-by-sudden-covid-u-turn-but-iron-grip-on-power-is-undimmed)
-- [Jacinda Ardern: political figures believe abuse and threats contributed to PM’s resignation](https://www.theguardian.com/world/2023/jan/20/jacinda-ardern-speculation-that-abuse-and-threats-contributed-to-resignation)
-- [Ron DeSantis bans African American studies class from Florida high schools](https://www.theguardian.com/us-news/2023/jan/19/ron-desantis-bans-african-american-studies-florida-schools)
-- [‘Years to rebuild’: Biden takes in scale of California storm destruction on visit](https://www.theguardian.com/us-news/2023/jan/19/joe-biden-california-storm-destruction-visit)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/blog/2023/jan/20/premier-league-10-things-to-look-out-for-this-weekend)
-- [Poland could send Leopard tanks to Ukraine without German approval](https://www.theguardian.com/world/2023/jan/19/poland-could-send-leopard-tanks-to-ukraine-without-german-approval)
-- [Russia-Ukraine war at a glance: what we know on day 331 of the invasion](https://www.theguardian.com/world/2023/jan/20/russia-ukraine-war-at-a-glance-what-we-know-on-day-331-of-the-invasion)
-- [Scientists discover emperor penguin colony in Antarctica using satellite images](https://www.theguardian.com/environment/2023/jan/20/scientists-discover-emperor-penguin-colony-in-antarctica-using-satellite-images)
-- [Netflix co-founder Reed Hastings steps down as CEO of streaming company](https://www.theguardian.com/media/2023/jan/19/reed-hastings-resigns-netflix-ceo)
+- [‘We’re not done’: abortion opponents hold first March for Life since fall of Roe](https://www.theguardian.com/world/2023/jan/20/march-for-life-anti-abortion-roe-v-wade-fall)
+- [Lula to visit Brazil’s Yanomami Indigenous territory amid vow to tackle crisis](https://www.theguardian.com/world/2023/jan/20/brazil-indigenous-minister-sonia-guajajara-yanomami-crisis-illegal-miners)
+- [Chris Hipkins set to become next prime minister of New Zealand](https://www.theguardian.com/world/2023/jan/20/chris-hipkins-set-to-become-next-prime-minister-of-new-zealand)
+- [Sajid Javid calls for patients to pay for GP and A&amp;E visits](https://www.theguardian.com/politics/2023/jan/20/sajid-javid-calls-for-patients-to-pay-for-gp-and-ae-visits)
+- [Biden accused of hypocrisy as he seeks extradition of Julian Assange](https://www.theguardian.com/media/2023/jan/20/joe-biden-julian-assange-extradition-tribunal)
+- [Twins killed in Canada bank shootout aimed to kill as many police as possible](https://www.theguardian.com/world/2023/jan/20/twins-killed-canada-shootout-kill-police-bank)
+- [Owen Williams seals drama-laden late victory for Ospreys over Leicester](https://www.theguardian.com/sport/2023/jan/20/leicester-ospreys-european-rugby-champions-cup-match-report-rugby-union)
+- [Man, 27, arrested on suspicion of terrorism after Leeds maternity unit evacuated](https://www.theguardian.com/uk-news/2023/jan/20/leeds-hospital-evacuates-patients-after-suspicious-package-found-st-jamess)
+- [Yellow weather warning issued for dangerous ‘freezing fog’](https://www.theguardian.com/uk-news/2023/jan/20/yellow-weather-warning-issued-for-dangeorus-freezing-fog)
+- [Labour’s Rachel Reeves aiming to be ‘Britain’s first green chancellor’](https://www.theguardian.com/money/2023/jan/20/labours-rachel-reeves-aiming-to-be-britains-first-green-chancellor)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

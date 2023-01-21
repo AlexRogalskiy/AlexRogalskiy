@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Social Security Administration Redesign](https://www.ssa.gov/)
-- [AI Passes U.S. Medical Licensing Exam](https://www.medpagetoday.com/special-reports/exclusives/102705)
-- [Revenue Management for Meth Dealers in Flint &lpar;2012&rpar;](http://web.archive.org/web/20160302234916/http://analyticsmadeskeezy.com/2012/10/08/revenue-management-for-meth-dealers-in-flint/)
-- [Generous and Selfish](https://seths.blog/2023/01/the-odd-generous-selfish-cycle/)
-- [Tell HN: These Are Tough Times](https://news.ycombinator.com/item?id=34448407)
-- [The Pull of Cities](https://antonhowes.substack.com/p/age-of-invention-the-pull-of-cities)
-- [Passwordless Deployments to the Cloud](https://github.blog/2023-01-11-passwordless-deployments-to-the-cloud/)
-- [Ask HN: How do you keep track of your medical history?](https://news.ycombinator.com/item?id=34448353)
-- [Show HN: Music Audio Search Engine Using OpenAI&#39;s Embeddings on GPT Descriptions](https://muzic-sage.vercel.app/)
-- [1923 cartoon eerily predicted 2023](https://arstechnica.com/information-technology/2023/01/a-cartoonist-predicted-2023s-ai-drawing-machines-in-1923/)
+- [ChatGPT releases “Professional Plan” for $42/mo](https://news.ycombinator.com/item?id=34463171)
+- [Optimizing Chromium with Bolt](https://aaupov.github.io/blog/2022/11/12/bolt-chromium)
+- [What Is a Company For?](https://shapingchaos.ghost.io/shaping-chaos-issue-5/)
+- [Questionable things ChatGPT has already been used for](https://mashable.com/article/chatgpt-scary-uses)
+- [Prompt engineer salary range $250k – $335k](https://twitter.com/harishkgarg/status/1616617521188319232)
+- [Genesis Owes over $3.5B to Top Creditors](https://www.coindesk.com/business/2023/01/20/genesis-owes-over-35b-to-top-50-creditors/)
+- [What Companies Still Get Wrong About Layoffs](https://hbr.org/2022/12/what-companies-still-get-wrong-about-layoffs)
+- [AI Writing Detection: A Losing Battle Worth Fighting](https://www.insidehighered.com/news/2023/01/20/academics-work-detect-chatgpt-and-other-ai-writing)
+- [The European Way to Die: On euthanasia and assisted suicide](https://harpers.org/archive/2023/02/the-european-way-to-die-euthanasia-assisted-suicide-michel-houellebecq/)
+- [The Continuum Hypothesis](https://plato.stanford.edu/entries/continuum-hypothesis/#UltInnMod)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

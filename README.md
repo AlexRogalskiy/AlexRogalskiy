@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The Grapes of Wrath was banned in the USSR because showed poor people had cars](https://sites.psu.edu/comm150honors/2016/02/04/the-grapes-of-wraths-foreshadowing-of-the-cold-war/)
-- [How to own an airline in 3 easy steps and grab the TSA nofly list along the way](https://maia.crimew.gay/posts/how-to-hack-an-airline/)
-- [Nuclear explosion impact on humans indoors &lpar;2022&rpar;](https://aip.scitation.org/doi/10.1063/5.0132565)
-- [Apple releases Lisa source code](https://computerhistory.org/press-releases/chm-makes-apple-lisa-source-code-available-to-the-public-as-a-part-of-its-art-of-code-series/)
-- [Unusual compound found in Rembrandt’s The Night Watch](https://www.esrf.fr/home/news/general/content-news/general/unusual-compound-found-in-rembrandts-the-night-watch.html)
-- [So why a News Feed?](https://post.news/article/2KYjMzTY05WmEZmxJnG3PGqyVpz)
-- [ChatRWKV, like ChatGPT but powered by the RWKV &lpar;RNN-based, open&rpar; language model](https://github.com/BlinkDL/ChatRWKV)
-- [Twitterrific has been discontinued](https://blog.iconfactory.com/2023/01/twitterrific-end-of-an-era/)
-- [Sudoedit can edit arbitrary files](https://seclists.org/oss-sec/2023/q1/42)
-- [Emerge &lpar;YC W21&rpar; is hiring engineers to build the future of mobile development](https://www.ycombinator.com/companies/emerge-tools/jobs/5Y3MCJi-senior-mobile-engineer-remote)
+- [GPT-3: Techniques to improve reliability](https://github.com/openai/openai-cookbook/blob/main/techniques_to_improve_reliability.md)
+- [You don&#39;t have to engage with people on the Internet](https://xeiaso.net/blog/lesson-online-feedback)
+- [Viral illnesses may increase chances of developing neurodegenerative diseases](http://www.nia.nih.gov/news/could-viral-illness-increase-chances-developing-alzheimers-or-other-neurodegenerative-diseasep/)
+- [IRS Free File: Do Your Taxes for Free](https://www.irs.gov/filing/free-file-do-your-federal-taxes-for-free)
+- [Building Reliable Distributed Systems in Node.js](https://temporal.io/blog/building-reliable-distributed-systems-in-node)
+- [Summer Afternoon – A WebGL Experiment](https://summer-afternoon.vlucendo.com/)
+- [Fighting murder convictions that rest on shoddy stats](https://www.science.org/content/article/unlucky-numbers-fighting-murder-convictions-rest-shoddy-stats)
+- [Can you trust your quantum simulator?](https://news.mit.edu/2023/quantum-simulator-randomness-0118)
+- [Tell HN: From bartending to managing cloud infrastructure](https://news.ycombinator.com/item?id=34460997)
+- [Ain&#39;t it funny how the knight moves?](https://www.funnyhowtheknightmoves.com/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

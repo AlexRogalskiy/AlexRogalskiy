@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [ChatGPT releases “Professional Plan” for $42/mo](https://news.ycombinator.com/item?id=34463171)
-- [Optimizing Chromium with Bolt](https://aaupov.github.io/blog/2022/11/12/bolt-chromium)
-- [What Is a Company For?](https://shapingchaos.ghost.io/shaping-chaos-issue-5/)
-- [Questionable things ChatGPT has already been used for](https://mashable.com/article/chatgpt-scary-uses)
-- [Prompt engineer salary range $250k – $335k](https://twitter.com/harishkgarg/status/1616617521188319232)
-- [Genesis Owes over $3.5B to Top Creditors](https://www.coindesk.com/business/2023/01/20/genesis-owes-over-35b-to-top-50-creditors/)
-- [What Companies Still Get Wrong About Layoffs](https://hbr.org/2022/12/what-companies-still-get-wrong-about-layoffs)
-- [AI Writing Detection: A Losing Battle Worth Fighting](https://www.insidehighered.com/news/2023/01/20/academics-work-detect-chatgpt-and-other-ai-writing)
-- [The European Way to Die: On euthanasia and assisted suicide](https://harpers.org/archive/2023/02/the-european-way-to-die-euthanasia-assisted-suicide-michel-houellebecq/)
-- [The Continuum Hypothesis](https://plato.stanford.edu/entries/continuum-hypothesis/#UltInnMod)
+- [Ask HN: What is the status of of the chip shortage?](https://news.ycombinator.com/item?id=34473515)
+- [The Social Responsibility of Business is to Increase its Profits &lpar;1970&rpar;[pdf]](http://websites.umich.edu/~thecore/doc/Friedman.pdf)
+- [Awake launches easiest eFoil ever as beginner-friendly flying electric surfboard](https://electrek.co/2023/01/21/awake-vinga-3-electric-hydrofoil-board/)
+- [Google Fuchsia OS team affected by layoffs](https://9to5google.com/2023/01/21/fuchsia-area-120-google-layoffs/)
+- [So, Why Not the Coin?](https://www.joshbarro.com/p/so-why-not-the-coin)
+- [Sukhoi&#39;s Jumbo Jet &lpar;KR-860 which never happened&rpar;](https://en.wikipedia.org/wiki/Sukhoi_KR-860)
+- [Ask HN: Best resources to learn about nuclear war risks?](https://news.ycombinator.com/item?id=34473458)
+- [Solid State Active Cooling at CES [video]](https://www.youtube.com/watch?v=YGxTnGEAx3E)
+- [Are You Ready to Take Care of Your Boomer Parents?](https://www.bloomberg.com/opinion/articles/2023-01-21/are-you-ready-to-take-care-of-your-boomer-parents)
+- [Rocket Exhaust Driven Amplification of Whistler Waves Frm Ground VLF Transmittrs](https://ui.adsabs.harvard.edu:443/abs/2021AGUFMSA24C..02B/abstract)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

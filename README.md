@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [‘We’re not done’: abortion opponents hold first March for Life since fall of Roe](https://www.theguardian.com/world/2023/jan/20/march-for-life-anti-abortion-roe-v-wade-fall)
-- [Lula to visit Brazil’s Yanomami Indigenous territory amid vow to tackle crisis](https://www.theguardian.com/world/2023/jan/20/brazil-indigenous-minister-sonia-guajajara-yanomami-crisis-illegal-miners)
-- [Chris Hipkins set to become next prime minister of New Zealand](https://www.theguardian.com/world/2023/jan/20/chris-hipkins-set-to-become-next-prime-minister-of-new-zealand)
-- [Sajid Javid calls for patients to pay for GP and A&amp;E visits](https://www.theguardian.com/politics/2023/jan/20/sajid-javid-calls-for-patients-to-pay-for-gp-and-ae-visits)
-- [Biden accused of hypocrisy as he seeks extradition of Julian Assange](https://www.theguardian.com/media/2023/jan/20/joe-biden-julian-assange-extradition-tribunal)
-- [Twins killed in Canada bank shootout aimed to kill as many police as possible](https://www.theguardian.com/world/2023/jan/20/twins-killed-canada-shootout-kill-police-bank)
-- [Owen Williams seals drama-laden late victory for Ospreys over Leicester](https://www.theguardian.com/sport/2023/jan/20/leicester-ospreys-european-rugby-champions-cup-match-report-rugby-union)
-- [Man, 27, arrested on suspicion of terrorism after Leeds maternity unit evacuated](https://www.theguardian.com/uk-news/2023/jan/20/leeds-hospital-evacuates-patients-after-suspicious-package-found-st-jamess)
-- [Yellow weather warning issued for dangerous ‘freezing fog’](https://www.theguardian.com/uk-news/2023/jan/20/yellow-weather-warning-issued-for-dangeorus-freezing-fog)
-- [Labour’s Rachel Reeves aiming to be ‘Britain’s first green chancellor’](https://www.theguardian.com/money/2023/jan/20/labours-rachel-reeves-aiming-to-be-britains-first-green-chancellor)
+- [New Zealand: Labour caucus votes in Chris Hipkins to succeed Jacinda Ardern](https://www.theguardian.com/world/2023/jan/22/new-zealand-labour-caucus-votes-in-chris-hipkins-to-succeed-jacinda-ardern)
+- [Russia-Ukraine war at a glance: what we know on day 333 of the invasion](https://www.theguardian.com/world/2023/jan/22/russia-ukraine-war-at-a-glance-what-we-know-on-day-333-of-the-invasion)
+- [Peru police make violent raid on Lima’s San Marcos University](https://www.theguardian.com/world/2023/jan/22/peru-police-make-violent-raid-on-limas-san-marcos-university)
+- [Patrick Mahomes beats injury to lead Chiefs past Jaguars and into AFC title game](https://www.theguardian.com/sport/2023/jan/21/nfl-playoffs-kansas-city-chiefs-jacksonville-jaguars-patrick-mahomes-injury)
+- [Liam Smith stuns Chris Eubank Jr with fourth-round stoppage](https://www.theguardian.com/sport/2023/jan/22/liam-smith-stuns-chris-eubank-jr-with-fourth-round-stoppage)
+- [Sandi Toksvig to meet Archbishop of Canterbury over same-sex marriage](https://www.theguardian.com/world/2023/jan/22/sandi-toksvig-to-meet-archbishop-of-canterbury-over-same-sex-marriage)
+- [First industrial action at Amazon UK hopes to strike at firm’s union hostility](https://www.theguardian.com/technology/2023/jan/22/first-industrial-action-at-amazon-uk-hopes-to-strike-at-firms-union-hostility)
+- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2023/jan/21/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Get active: 18 of the best sportswear for men and women – in pictures](https://www.theguardian.com/fashion/gallery/2023/jan/21/get-active-the-best-sportswear-for-men-and-women-in-pictures)
+- [Stagecoach co-founder Ann Gloag charged with human trafficking](https://www.theguardian.com/uk-news/2023/jan/21/dame-ann-gloag-stagecoach-co-founder-charged-with-human-trafficking)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

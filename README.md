@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [GPT-3: Techniques to improve reliability](https://github.com/openai/openai-cookbook/blob/main/techniques_to_improve_reliability.md)
-- [You don&#39;t have to engage with people on the Internet](https://xeiaso.net/blog/lesson-online-feedback)
-- [Viral illnesses may increase chances of developing neurodegenerative diseases](http://www.nia.nih.gov/news/could-viral-illness-increase-chances-developing-alzheimers-or-other-neurodegenerative-diseasep/)
-- [IRS Free File: Do Your Taxes for Free](https://www.irs.gov/filing/free-file-do-your-federal-taxes-for-free)
-- [Building Reliable Distributed Systems in Node.js](https://temporal.io/blog/building-reliable-distributed-systems-in-node)
-- [Summer Afternoon – A WebGL Experiment](https://summer-afternoon.vlucendo.com/)
-- [Fighting murder convictions that rest on shoddy stats](https://www.science.org/content/article/unlucky-numbers-fighting-murder-convictions-rest-shoddy-stats)
-- [Can you trust your quantum simulator?](https://news.mit.edu/2023/quantum-simulator-randomness-0118)
-- [Tell HN: From bartending to managing cloud infrastructure](https://news.ycombinator.com/item?id=34460997)
-- [Ain&#39;t it funny how the knight moves?](https://www.funnyhowtheknightmoves.com/)
+- [The Schwarzschild Defence](https://www.nature.com/articles/d41586-022-04550-2)
+- [Rumors of GTA online exploits allowing remote code execution on gamer PCs](https://old.reddit.com/r/gtaonline/comments/10hsosu/mass_reporting_the_dangerous_pc_exploit/)
+- [Microsoft has laid off entire teams behind Virtual, Mixed Reality, and HoloLens](https://www.windowscentral.com/microsoft/microsoft-has-laid-off-entire-teams-behind-virtual-mixed-reality-and-hololens)
+- [Binance says banking partner will stop processing SWIFT transfers under $100K](https://twitter.com/mikeburgersburg/status/1616901701927059457)
+- [What Happened with the Substation Attack in North Carolina?](https://practical.engineering/blog/2023/1/16/what-really-happened-with-the-substation-attack-in-north-carolina)
+- [The Sweet Spot for Buying Used Cars](https://www.amolas.dev/blog/buy-used-cars/)
+- [TSMC is making the best of a bad geopolitical situation](https://www.economist.com/business/2023/01/19/tsmc-is-making-the-best-of-a-bad-geopolitical-situation)
+- [ECC RAM should be a human right](https://dmitrybrant.com/2023/01/21/ecc-ram-should-be-a-human-right)
+- [Pattern Theory: The Mathematics of Perception &lpar;D. Mumford&rpar; &lpar;2002&rpar;](https://arxiv.org/abs/math/0212400)
+- [Inherit environment variables from PID 1 by reading /proc/1/environ](https://gist.github.com/milesrichardson/8f1c9c7088f8a4e889019d7ce0559ec9)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

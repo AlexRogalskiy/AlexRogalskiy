@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ask HN: What is the status of of the chip shortage?](https://news.ycombinator.com/item?id=34473515)
-- [The Social Responsibility of Business is to Increase its Profits &lpar;1970&rpar;[pdf]](http://websites.umich.edu/~thecore/doc/Friedman.pdf)
-- [Awake launches easiest eFoil ever as beginner-friendly flying electric surfboard](https://electrek.co/2023/01/21/awake-vinga-3-electric-hydrofoil-board/)
-- [Google Fuchsia OS team affected by layoffs](https://9to5google.com/2023/01/21/fuchsia-area-120-google-layoffs/)
-- [So, Why Not the Coin?](https://www.joshbarro.com/p/so-why-not-the-coin)
-- [Sukhoi&#39;s Jumbo Jet &lpar;KR-860 which never happened&rpar;](https://en.wikipedia.org/wiki/Sukhoi_KR-860)
-- [Ask HN: Best resources to learn about nuclear war risks?](https://news.ycombinator.com/item?id=34473458)
-- [Solid State Active Cooling at CES [video]](https://www.youtube.com/watch?v=YGxTnGEAx3E)
-- [Are You Ready to Take Care of Your Boomer Parents?](https://www.bloomberg.com/opinion/articles/2023-01-21/are-you-ready-to-take-care-of-your-boomer-parents)
-- [Rocket Exhaust Driven Amplification of Whistler Waves Frm Ground VLF Transmittrs](https://ui.adsabs.harvard.edu:443/abs/2021AGUFMSA24C..02B/abstract)
+- [Tech Job Requirements in 2023](https://www.youtube.com/watch?v=6KefznccsY0)
+- [Ask HN: What is your experience in tech consulting?](https://news.ycombinator.com/item?id=34484710)
+- [Extracting text from PDF using ChatGPT](https://nutanc.substack.com/p/extracting-text-from-pdf-using-chatgpt)
+- [Microsoft’s Quasi-Acquisition of OpenAI: Clever Circumvention of Antitrust?](https://tammystakes.substack.com/p/microsofts-quasi-acquisition-of-openai)
+- [Videos Show How to Make KDE, GNOME, XFCE Look Like macOS Big Sur](https://news.ycombinator.com/item?id=34484691)
+- [The Psychology of Indifference](https://gratiaplenacounseling.org/the-psychology-of-indifference/)
+- [The Failing Economy of Sri Lanka](https://www.youtube.com/watch?v=LXxC8ni4fsc)
+- [From the air, scientists map fast paths for recharging California&#39;s groundwater](https://www.latimes.com/california/story/2022-11-18/hidden-riverbeds-may-be-key-to-recharghing-aquifers)
+- [Pizzino](https://en.wikipedia.org/wiki/Pizzino)
+- [Global glacier change in the 21st century](https://www.science.org/doi/10.1126/science.abo1324)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

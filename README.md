@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [New Zealand: Labour caucus votes in Chris Hipkins to succeed Jacinda Ardern](https://www.theguardian.com/world/2023/jan/22/new-zealand-labour-caucus-votes-in-chris-hipkins-to-succeed-jacinda-ardern)
-- [Russia-Ukraine war at a glance: what we know on day 333 of the invasion](https://www.theguardian.com/world/2023/jan/22/russia-ukraine-war-at-a-glance-what-we-know-on-day-333-of-the-invasion)
-- [Peru police make violent raid on Lima’s San Marcos University](https://www.theguardian.com/world/2023/jan/22/peru-police-make-violent-raid-on-limas-san-marcos-university)
-- [Patrick Mahomes beats injury to lead Chiefs past Jaguars and into AFC title game](https://www.theguardian.com/sport/2023/jan/21/nfl-playoffs-kansas-city-chiefs-jacksonville-jaguars-patrick-mahomes-injury)
-- [Liam Smith stuns Chris Eubank Jr with fourth-round stoppage](https://www.theguardian.com/sport/2023/jan/22/liam-smith-stuns-chris-eubank-jr-with-fourth-round-stoppage)
-- [Sandi Toksvig to meet Archbishop of Canterbury over same-sex marriage](https://www.theguardian.com/world/2023/jan/22/sandi-toksvig-to-meet-archbishop-of-canterbury-over-same-sex-marriage)
-- [First industrial action at Amazon UK hopes to strike at firm’s union hostility](https://www.theguardian.com/technology/2023/jan/22/first-industrial-action-at-amazon-uk-hopes-to-strike-at-firms-union-hostility)
-- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2023/jan/21/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Get active: 18 of the best sportswear for men and women – in pictures](https://www.theguardian.com/fashion/gallery/2023/jan/21/get-active-the-best-sportswear-for-men-and-women-in-pictures)
-- [Stagecoach co-founder Ann Gloag charged with human trafficking](https://www.theguardian.com/uk-news/2023/jan/21/dame-ann-gloag-stagecoach-co-founder-charged-with-human-trafficking)
+- [Ten dead in shooting after lunar new year festival near Los Angeles](https://www.theguardian.com/us-news/2023/jan/22/monterey-park-shooting-los-angeles-lunar-new-year-festival)
+- [Hipkins is unlikely to reach heights of Jacindamania, and that may suit New Zealanders](https://www.theguardian.com/world/2023/jan/23/hipkins-is-unlikely-to-reach-heights-of-jacindamania-and-that-may-suit-new-zealanders)
+- [‘He sounded great’: David Crosby was working on new album when he died, musicians reveal](https://www.theguardian.com/music/2023/jan/23/he-sounded-great-david-crosby-was-working-on-new-album-when-he-died-musicians-reveal)
+- [France protests: man lost testicle after clashes with police – lawyer](https://www.theguardian.com/world/2023/jan/23/france-protests-retirement-age-pension-reform-man-loses-testicle-clashes-with-police)
+- [Aukus won’t undermine Australia’s stance against nuclear weapons | Penny Wong](https://www.theguardian.com/commentisfree/2023/jan/23/aukus-wont-undermine-australias-stance-against-nuclear-weapons)
+- [Russia-Ukraine war at a glance: what we know on day 334 of the invasion](https://www.theguardian.com/world/2023/jan/23/russia-ukraine-war-at-a-glance-what-we-know-on-day-334-of-the-invasion)
+- [Impending UK recession could be twice as bad as anticipated, say analysts](https://www.theguardian.com/business/2023/jan/23/impending-uk-recession-could-be-twice-as-bad-as-anticipated-say-analysts)
+- [Charity calls for UK cities of sport to match cities of culture](https://www.theguardian.com/sport/2023/jan/23/charity-calls-for-uk-cities-of-sport-to-match-cities-of-culture)
+- [WRU facing allegations of sexism and discrimination in BBC investigation](https://www.theguardian.com/sport/2023/jan/23/welsh-rugby-union-wru-facing-allegations-sexism-discrimination-bbc-investigation)
+- [Hundreds gather to mourn Lisa Marie Presley at Graceland memorial service](https://www.theguardian.com/music/2023/jan/22/lisa-marie-presley-memorial-service-graceland)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

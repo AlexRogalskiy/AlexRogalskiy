@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The Schwarzschild Defence](https://www.nature.com/articles/d41586-022-04550-2)
-- [Rumors of GTA online exploits allowing remote code execution on gamer PCs](https://old.reddit.com/r/gtaonline/comments/10hsosu/mass_reporting_the_dangerous_pc_exploit/)
-- [Microsoft has laid off entire teams behind Virtual, Mixed Reality, and HoloLens](https://www.windowscentral.com/microsoft/microsoft-has-laid-off-entire-teams-behind-virtual-mixed-reality-and-hololens)
-- [Binance says banking partner will stop processing SWIFT transfers under $100K](https://twitter.com/mikeburgersburg/status/1616901701927059457)
-- [What Happened with the Substation Attack in North Carolina?](https://practical.engineering/blog/2023/1/16/what-really-happened-with-the-substation-attack-in-north-carolina)
-- [The Sweet Spot for Buying Used Cars](https://www.amolas.dev/blog/buy-used-cars/)
-- [TSMC is making the best of a bad geopolitical situation](https://www.economist.com/business/2023/01/19/tsmc-is-making-the-best-of-a-bad-geopolitical-situation)
-- [ECC RAM should be a human right](https://dmitrybrant.com/2023/01/21/ecc-ram-should-be-a-human-right)
-- [Pattern Theory: The Mathematics of Perception &lpar;D. Mumford&rpar; &lpar;2002&rpar;](https://arxiv.org/abs/math/0212400)
-- [Inherit environment variables from PID 1 by reading /proc/1/environ](https://gist.github.com/milesrichardson/8f1c9c7088f8a4e889019d7ce0559ec9)
+- [&#39;A complete failure&#39; Japan&#39;s &#39;fantasy&#39; hydrogen strategy does nothing](https://www.hydrogeninsight.com/policy/a-complete-failure-japans-fantasy-hydrogen-strategy-does-nothing-for-decarbonisation-study/2-1-1326788?zephr_sso_ott=aLG5CC)
+- [A guide for playing The Sims 1 on Intel and ARM Macs](https://github.com/hackergolucky/PlaySimsOnMac/blob/main/README.md)
+- [Why Developers Never Use State Machines &lpar;2011&rpar;](https://skorks.com/2011/09/why-developers-never-use-state-machines/)
+- [Rust on macOS 9](https://twitter.com/turbolent/status/1617231570573873152)
+- [WY Union Says Court Ruling in Kroger–Albertson’s Merger Favors “Ultra-Wealthy”](https://cowboystatedaily.com/2023/01/19/fight-over-albertsons-kroger-grocery-mega-merger-moves-goes-political/)
+- [CMI says 2022 had the worst second half for mortality since 2010](https://actuaries.org.uk/news-and-media-releases/news-articles/2023/jan/17-january-23-cmi-says-2022-had-the-worst-second-half-for-mortality-since-2010/)
+- [Guide to Software Architecture Documentation](https://www.workingsoftware.dev/software-architecture-documentation-the-ultimate-guide/)
+- [The Body in the Buddha &lpar;2017&rpar;](https://www.economist.com/1843/2017/05/04/the-body-in-the-buddha)
+- [The Point of the Banach-Tarski Theorem](https://www.solipsys.co.uk/new/ThePointOfTheBanachTarskiTheorem.html?wa22hn)
+- [OneSignal &lpar;YC S11&rpar; Is Hiring Engineers](https://onesignal.com/careers)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

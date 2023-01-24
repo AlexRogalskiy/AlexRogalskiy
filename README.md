@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Tech Job Requirements in 2023](https://www.youtube.com/watch?v=6KefznccsY0)
-- [Ask HN: What is your experience in tech consulting?](https://news.ycombinator.com/item?id=34484710)
-- [Extracting text from PDF using ChatGPT](https://nutanc.substack.com/p/extracting-text-from-pdf-using-chatgpt)
-- [Microsoft’s Quasi-Acquisition of OpenAI: Clever Circumvention of Antitrust?](https://tammystakes.substack.com/p/microsofts-quasi-acquisition-of-openai)
-- [Videos Show How to Make KDE, GNOME, XFCE Look Like macOS Big Sur](https://news.ycombinator.com/item?id=34484691)
-- [The Psychology of Indifference](https://gratiaplenacounseling.org/the-psychology-of-indifference/)
-- [The Failing Economy of Sri Lanka](https://www.youtube.com/watch?v=LXxC8ni4fsc)
-- [From the air, scientists map fast paths for recharging California&#39;s groundwater](https://www.latimes.com/california/story/2022-11-18/hidden-riverbeds-may-be-key-to-recharghing-aquifers)
-- [Pizzino](https://en.wikipedia.org/wiki/Pizzino)
-- [Global glacier change in the 21st century](https://www.science.org/doi/10.1126/science.abo1324)
+- [Bug Bounty Wall of Shame – A leaderboard for projects who rug bug bounty hunters](https://bug-bounty-wall-of-shame.github.io/)
+- [JIT selection from independent streams: alternative to “big backlog” &lpar;2022&rpar;](https://longform.asmartbear.com/posts/jit-backlogs/)
+- [Small Ottawa firm subcontracted ArriveCan app to multinationals](https://www.theglobeandmail.com/politics/article-arrivecan-subcontractors-multinationals/)
+- [Crypto exchange Gemini lays off 10% of workforce in its latest round of cuts](https://www.cnbc.com/2023/01/23/crypto-exchange-gemini-lays-off-10percent-of-workforce-.html)
+- [GPT Index](https://github.com/jerryjliu/gpt_index)
+- [Ballistica: The BombSquad Game Engine](https://github.com/efroemling/ballistica)
+- [Archaeologists discovered a new papyrus of Egyptian Book of the Dead](https://arstechnica.com/science/2023/01/archaeologists-discovered-a-new-papyrus-of-egyptian-book-of-the-dead/)
+- [SpaceX fuels up fully stacked Starship vehicle for first time](https://www.space.com/spacex-stacked-starship-first-fueling-test)
+- [IBM 6780 Quietwriter](https://www.youtube.com/watch?v=C7shs981w8s)
+- [Pybi and Posy](https://discuss.python.org/t/announce-pybi-and-posy/23021)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

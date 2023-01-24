@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ten dead in shooting after lunar new year festival near Los Angeles](https://www.theguardian.com/us-news/2023/jan/22/monterey-park-shooting-los-angeles-lunar-new-year-festival)
-- [Hipkins is unlikely to reach heights of Jacindamania, and that may suit New Zealanders](https://www.theguardian.com/world/2023/jan/23/hipkins-is-unlikely-to-reach-heights-of-jacindamania-and-that-may-suit-new-zealanders)
-- [‘He sounded great’: David Crosby was working on new album when he died, musicians reveal](https://www.theguardian.com/music/2023/jan/23/he-sounded-great-david-crosby-was-working-on-new-album-when-he-died-musicians-reveal)
-- [France protests: man lost testicle after clashes with police – lawyer](https://www.theguardian.com/world/2023/jan/23/france-protests-retirement-age-pension-reform-man-loses-testicle-clashes-with-police)
-- [Aukus won’t undermine Australia’s stance against nuclear weapons | Penny Wong](https://www.theguardian.com/commentisfree/2023/jan/23/aukus-wont-undermine-australias-stance-against-nuclear-weapons)
-- [Russia-Ukraine war at a glance: what we know on day 334 of the invasion](https://www.theguardian.com/world/2023/jan/23/russia-ukraine-war-at-a-glance-what-we-know-on-day-334-of-the-invasion)
-- [Impending UK recession could be twice as bad as anticipated, say analysts](https://www.theguardian.com/business/2023/jan/23/impending-uk-recession-could-be-twice-as-bad-as-anticipated-say-analysts)
-- [Charity calls for UK cities of sport to match cities of culture](https://www.theguardian.com/sport/2023/jan/23/charity-calls-for-uk-cities-of-sport-to-match-cities-of-culture)
-- [WRU facing allegations of sexism and discrimination in BBC investigation](https://www.theguardian.com/sport/2023/jan/23/welsh-rugby-union-wru-facing-allegations-sexism-discrimination-bbc-investigation)
-- [Hundreds gather to mourn Lisa Marie Presley at Graceland memorial service](https://www.theguardian.com/music/2023/jan/22/lisa-marie-presley-memorial-service-graceland)
+- [China’s shrinking population: what it means for the rest of the world - expert panel](https://www.theguardian.com/world/2023/jan/24/china-population-decline-negative-growth-what-it-means-for-world)
+- [WHO urges action after cough syrups linked to more than 300 child deaths](https://www.theguardian.com/world/2023/jan/24/who-urges-action-after-cough-syrups-linked-to-more-than-300-child-deaths)
+- [Eddie Aikau surf contest: local lifeguard beats world’s best big wave surfers to take title](https://www.theguardian.com/sport/2023/jan/24/eddie-aikau-invitational-surf-contest-hawaii-local-lifeguard-luke-shepardson-wins-big-wave-title)
+- [Monterey Park shooting death toll rises to 11, including dance hall manager](https://www.theguardian.com/us-news/2023/jan/23/monterey-park-california-shooting-victims-motive)
+- [‘No animals were harmed’: Kylie Jenner’s ultra-realistic lion head sparks uproar at Paris fashion week](https://www.theguardian.com/fashion/2023/jan/24/no-animals-were-harmed-kylie-jenners-ultra-realistic-lion-head-sparks-inferno-at-paris-fashion-week)
+- [Russia-Ukraine war at a glance: what we know on day 335 of the invasion](https://www.theguardian.com/world/2023/jan/24/russia-ukraine-war-at-a-glance-what-we-know-on-day-335-of-the-invasion)
+- [Did she inspire or fail to deliver? Readers on how Jacinda Ardern will be remembered](https://www.theguardian.com/world/2023/jan/24/readers-on-how-jacinda-ardern-will-be-remembered-as-new-zealand-prime-minister-pm)
+- [Probation service and ministers have ‘blood on hands’, say Zara Aleena’s family](https://www.theguardian.com/society/2023/jan/24/probation-service-ministers-blood-hands-zara-aleena-family-inspector-report)
+- [Poorest in UK have £40 a month less to spare than a year ago, study finds](https://www.theguardian.com/money/2023/jan/24/poorest-in-uk-have-40-a-month-less-to-spare-than-a-year-ago-study-finds)
+- [Temperatures to reach -9C in southern England as cold snap continues](https://www.theguardian.com/uk-news/2023/jan/23/temperatures-to-reach--9c-in-southern-england-as-cold-snap-continues)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

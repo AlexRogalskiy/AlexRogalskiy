@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [&#39;A complete failure&#39; Japan&#39;s &#39;fantasy&#39; hydrogen strategy does nothing](https://www.hydrogeninsight.com/policy/a-complete-failure-japans-fantasy-hydrogen-strategy-does-nothing-for-decarbonisation-study/2-1-1326788?zephr_sso_ott=aLG5CC)
-- [A guide for playing The Sims 1 on Intel and ARM Macs](https://github.com/hackergolucky/PlaySimsOnMac/blob/main/README.md)
-- [Why Developers Never Use State Machines &lpar;2011&rpar;](https://skorks.com/2011/09/why-developers-never-use-state-machines/)
-- [Rust on macOS 9](https://twitter.com/turbolent/status/1617231570573873152)
-- [WY Union Says Court Ruling in Kroger–Albertson’s Merger Favors “Ultra-Wealthy”](https://cowboystatedaily.com/2023/01/19/fight-over-albertsons-kroger-grocery-mega-merger-moves-goes-political/)
-- [CMI says 2022 had the worst second half for mortality since 2010](https://actuaries.org.uk/news-and-media-releases/news-articles/2023/jan/17-january-23-cmi-says-2022-had-the-worst-second-half-for-mortality-since-2010/)
-- [Guide to Software Architecture Documentation](https://www.workingsoftware.dev/software-architecture-documentation-the-ultimate-guide/)
-- [The Body in the Buddha &lpar;2017&rpar;](https://www.economist.com/1843/2017/05/04/the-body-in-the-buddha)
-- [The Point of the Banach-Tarski Theorem](https://www.solipsys.co.uk/new/ThePointOfTheBanachTarskiTheorem.html?wa22hn)
-- [OneSignal &lpar;YC S11&rpar; Is Hiring Engineers](https://onesignal.com/careers)
+- [Bitwarden Design Flaw](https://palant.info/2023/01/23/bitwarden-design-flaw-server-side-iterations/)
+- [International domain names: where does HTTPS://meßagefactory.ca lead you?](https://lemire.me/blog/2023/01/23/international-domain-names-where-does-https-mesagefactory-ca-lead-you/)
+- [Why the infosec community is ahead of the curve and rationalists and nihilists](https://ioc.exchange/@invisv/109740474201888576)
+- [Blizzard fires WoW Classic lead after he protests employee evaluation policy](https://www.pcgamer.com/blizzard-fires-wow-classic-lead-after-he-protests-employee-evaluation-policy/)
+- [How Equifax Became a Private IRS](https://mattstoller.substack.com/p/how-equifax-became-a-private-irs)
+- [Ask HN: How is the tech market in SF? How does it compare to remote?](https://news.ycombinator.com/item?id=34496794)
+- [ChatGPT passes MBA exam given by a Wharton professor](https://www.nbcnews.com/tech/tech-news/chatgpt-passes-mba-exam-wharton-professor-rcna67036)
+- [Setting the clock ahead to see what breaks](https://rachelbythebay.com/w/2023/01/19/time/)
+- [If you are using Cloudflare and Chrome, add custom header to see cache hit](https://kiru.io/blog/posts/2022/easily-detect-cloudflare-cache-hit/)
+- [About Security Keys for Apple ID](https://support.apple.com/en-us/HT213154)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

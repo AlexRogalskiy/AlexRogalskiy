@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Bitwarden Design Flaw](https://palant.info/2023/01/23/bitwarden-design-flaw-server-side-iterations/)
-- [International domain names: where does HTTPS://meßagefactory.ca lead you?](https://lemire.me/blog/2023/01/23/international-domain-names-where-does-https-mesagefactory-ca-lead-you/)
-- [Why the infosec community is ahead of the curve and rationalists and nihilists](https://ioc.exchange/@invisv/109740474201888576)
-- [Blizzard fires WoW Classic lead after he protests employee evaluation policy](https://www.pcgamer.com/blizzard-fires-wow-classic-lead-after-he-protests-employee-evaluation-policy/)
-- [How Equifax Became a Private IRS](https://mattstoller.substack.com/p/how-equifax-became-a-private-irs)
-- [Ask HN: How is the tech market in SF? How does it compare to remote?](https://news.ycombinator.com/item?id=34496794)
-- [ChatGPT passes MBA exam given by a Wharton professor](https://www.nbcnews.com/tech/tech-news/chatgpt-passes-mba-exam-wharton-professor-rcna67036)
-- [Setting the clock ahead to see what breaks](https://rachelbythebay.com/w/2023/01/19/time/)
-- [If you are using Cloudflare and Chrome, add custom header to see cache hit](https://kiru.io/blog/posts/2022/easily-detect-cloudflare-cache-hit/)
-- [About Security Keys for Apple ID](https://support.apple.com/en-us/HT213154)
+- [Three Bugs in the Go MySQL Driver](https://github.blog/2020-05-20-three-bugs-in-the-go-mysql-driver/)
+- [Ibn Battuta: A Scholar&#39;s Epic Journey](https://www.jurnalanas.com/blog/2018-03-24-ibn-battuta-and-his-journey)
+- [Apple issues security update for the almost 10-year-old iPhone 5S](https://www.theverge.com/2023/1/24/23569600/apple-iphone-5s-security-update-ios-12)
+- [Fast JavaScript-to-WASM Call from FTL](https://github.com/WebKit/WebKit/pull/8607)
+- [Mystery Signal from a Helicopter &lpar;2014&rpar;](https://www.windytan.com/2014/02/mystery-signal-from-helicopter.html)
+- [How to Prioritize Tasks?](https://jimmyislive.dev/posts/how-to-prioritize/)
+- [Bulldozer, AMD’s Crash Modernization: Caching and Conclusion](https://chipsandcheese.com/2023/01/24/bulldozer-amds-crash-modernization-caching-and-conclusion/)
+- [Show HN: Infisical – open-source secrets manager for developers](https://infisical.com/)
+- [Jerry &lpar;YC S17&rpar; is hiring a senior product designer &lpar;remote&rpar;](https://jobs.ashbyhq.com/Jerry/0a1e6878-1f8d-443e-aaad-fcdd97ee1829?departmentId=35139ec5-efdf-4d54-bbfb-47d24a37e6e2)
+- [Show HN: Turning books into chatbots with GPT-3](https://www.konjer.xyz/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

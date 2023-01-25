@@ -355,6 +355,8 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Apple marks Data Privacy Week with in-store privacy training, more](https://www.computerworld.com/article/3686269/apple-marks-data-privacy-week-with-in-store-privacy-training-more.html#tk.rss_all)
+- [How Microsoft is helping Ukraine’s cyberwar against Russia](https://www.computerworld.com/article/3685939/how-microsoft-is-helping-ukraine-s-cyberwar-against-russia.html#tk.rss_all)
 - [Review: The M2 Mac mini is the perfect desktop for most users](https://www.computerworld.com/article/3685937/review-the-m2-mac-mini-is-the-perfect-desktop-for-most-users.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
@@ -363,8 +365,6 @@
 - [Apple appeals UK probe, but is it just buying time?](https://www.computerworld.com/article/3686054/apple-appeals-uk-probe-but-is-it-just-buying-time.html#tk.rss_all)
 - [Big tech backs Google in defending internet liability protections](https://www.computerworld.com/article/3685934/big-tech-backs-google-in-defending-internet-liability-protections.html#tk.rss_all)
 - [Google&#39;s parent company Alphabet to cut 12,000 jobs](https://www.computerworld.com/article/3686031/googles-parent-company-alphabet-to-cut-12-000-jobs.html#tk.rss_all)
-- [iCloud for Windows: What is it &lpar;and how do you use it&rpar;?](https://www.computerworld.com/article/3402080/icloud-for-windows-what-is-it-and-how-do-you-use-it.html#tk.rss_all)
-- [8 advanced Android clipboard tricks](https://www.computerworld.com/article/3685385/android-clipboard-tricks.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

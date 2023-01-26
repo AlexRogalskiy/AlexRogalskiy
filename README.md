@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Three Bugs in the Go MySQL Driver](https://github.blog/2020-05-20-three-bugs-in-the-go-mysql-driver/)
-- [Ibn Battuta: A Scholar&#39;s Epic Journey](https://www.jurnalanas.com/blog/2018-03-24-ibn-battuta-and-his-journey)
-- [Apple issues security update for the almost 10-year-old iPhone 5S](https://www.theverge.com/2023/1/24/23569600/apple-iphone-5s-security-update-ios-12)
-- [Fast JavaScript-to-WASM Call from FTL](https://github.com/WebKit/WebKit/pull/8607)
-- [Mystery Signal from a Helicopter &lpar;2014&rpar;](https://www.windytan.com/2014/02/mystery-signal-from-helicopter.html)
-- [How to Prioritize Tasks?](https://jimmyislive.dev/posts/how-to-prioritize/)
-- [Bulldozer, AMD’s Crash Modernization: Caching and Conclusion](https://chipsandcheese.com/2023/01/24/bulldozer-amds-crash-modernization-caching-and-conclusion/)
-- [Show HN: Infisical – open-source secrets manager for developers](https://infisical.com/)
-- [Jerry &lpar;YC S17&rpar; is hiring a senior product designer &lpar;remote&rpar;](https://jobs.ashbyhq.com/Jerry/0a1e6878-1f8d-443e-aaad-fcdd97ee1829?departmentId=35139ec5-efdf-4d54-bbfb-47d24a37e6e2)
-- [Show HN: Turning books into chatbots with GPT-3](https://www.konjer.xyz/)
+- [OpenAI Major Outage](https://status.openai.com/#)
+- [Tell HN: Whole Yandex Git repository leaked](https://news.ycombinator.com/item?id=34525936)
+- [Show HN: A tool to design and run user state machines](https://www.dopt.com/)
+- [Magnetoactive liquid-solid phase transitional matter](https://www.cell.com/matter/fulltext/S2590-2385(22)00693-2)
+- [Etleap &lpar;YC W13&rpar; is hiring a software engineer &lpar;London&rpar;](https://etleap.com/careers/software-engineer/)
+- [I almost bought a scanner](http://leejo.github.io/2023/01/25/scanner/)
+- [Composefs: Content-Addressable Overlay Filesystem for Linux](https://github.com/containers/composefs)
+- [ASML Q4 2022 financial results](https://www.asml.com/en/news/press-releases/2023/q4-2022-financial-results)
+- [Designing my own ASIC with tiny tapeout](https://teaandtechtime.com/designing-my-very-own-asic-with-tiny-tapeout/)
+- [Building the perfect memory bandwidth beast](https://www.nextplatform.com/2023/01/24/building-the-perfect-memory-bandwidth-beast/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

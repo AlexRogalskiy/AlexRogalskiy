@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Cisco&#39;s Mac choice scheme confirms Apple&#39;s future in enterprise tech](https://www.computerworld.com/article/3686060/ciscos-mac-choice-scheme-confirms-apples-future-in-enterprise-tech.html#tk.rss_all)
+- [How layoffs at Google could affect enterprise cloud services](https://www.computerworld.com/article/3686061/how-layoffs-at-google-could-affect-enterprise-cloud-services.html#tk.rss_all)
+- [Atlassian doubles down on automation with new capabilities for Confluence](https://www.computerworld.com/article/3686272/atlassian-doubles-down-on-automation-with-new-capabilities-for-confluence.html#tk.rss_all)
+- [Tech layoffs in 2023: A timeline](https://www.computerworld.com/article/3685936/tech-layoffs-in-2023-a-timeline.html#tk.rss_all)
+- [Microsoft Teams and Outlook suffer global outages](https://www.computerworld.com/article/3686035/microsoft-teams-and-outlook-suffer-global-outages.html#tk.rss_all)
+- [Big banks&#39; proposed digital wallet payment system likely to fail](https://www.computerworld.com/article/3686101/big-banks-proposed-digital-wallet-payment-system-likely-to-fail.html#tk.rss_all)
+- [13 advanced tips for Android 13](https://www.computerworld.com/article/3685491/advanced-tips-for-android-13.html#tk.rss_all)
+- [Microsoft says cloud demand waning, plans to infuse AI into products](https://www.computerworld.com/article/3686273/microsoft-says-cloud-demand-waning-plans-to-infuse-ai-into-products.html#tk.rss_all)
 - [Apple marks Data Privacy Week with in-store privacy training, more](https://www.computerworld.com/article/3686269/apple-marks-data-privacy-week-with-in-store-privacy-training-more.html#tk.rss_all)
 - [How Microsoft is helping Ukraine’s cyberwar against Russia](https://www.computerworld.com/article/3685939/how-microsoft-is-helping-ukraine-s-cyberwar-against-russia.html#tk.rss_all)
-- [Review: The M2 Mac mini is the perfect desktop for most users](https://www.computerworld.com/article/3685937/review-the-m2-mac-mini-is-the-perfect-desktop-for-most-users.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
-- [Tech layoffs in 2023: A timeline](https://www.computerworld.com/article/3685936/tech-layoffs-in-2023-a-timeline.html#tk.rss_all)
-- [Microsoft exec: AI will reinvent Windows user experience, define ‘our time’](https://www.computerworld.com/article/3686051/microsoft-exec-ai-will-reinvent-windows-user-experience-define-our-time.html#tk.rss_all)
-- [Apple appeals UK probe, but is it just buying time?](https://www.computerworld.com/article/3686054/apple-appeals-uk-probe-but-is-it-just-buying-time.html#tk.rss_all)
-- [Big tech backs Google in defending internet liability protections](https://www.computerworld.com/article/3685934/big-tech-backs-google-in-defending-internet-liability-protections.html#tk.rss_all)
-- [Google&#39;s parent company Alphabet to cut 12,000 jobs](https://www.computerworld.com/article/3686031/googles-parent-company-alphabet-to-cut-12-000-jobs.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

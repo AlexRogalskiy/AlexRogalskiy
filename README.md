@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [Morgan Stanley fines some employees $1M for WhatsApp, iMessage use](https://www.computerworld.com/article/3686529/morgan-stanley-fines-some-employees-1m-for-whatsapp-imessage-use.html#tk.rss_all)
+- [Tech jobs dominate the top 25 &#39;best&#39; jobs in the US, Indeed says](https://www.computerworld.com/article/3686195/tech-jobs-dominate-the-top-25-best-jobs-in-the-us-indeed-says.html#tk.rss_all)
 - [Cisco&#39;s Mac choice scheme confirms Apple&#39;s future in enterprise tech](https://www.computerworld.com/article/3686060/ciscos-mac-choice-scheme-confirms-apples-future-in-enterprise-tech.html#tk.rss_all)
 - [How layoffs at Google could affect enterprise cloud services](https://www.computerworld.com/article/3686061/how-layoffs-at-google-could-affect-enterprise-cloud-services.html#tk.rss_all)
 - [Atlassian doubles down on automation with new capabilities for Confluence](https://www.computerworld.com/article/3686272/atlassian-doubles-down-on-automation-with-new-capabilities-for-confluence.html#tk.rss_all)
 - [Tech layoffs in 2023: A timeline](https://www.computerworld.com/article/3685936/tech-layoffs-in-2023-a-timeline.html#tk.rss_all)
 - [Microsoft Teams and Outlook suffer global outages](https://www.computerworld.com/article/3686035/microsoft-teams-and-outlook-suffer-global-outages.html#tk.rss_all)
 - [Big banks&#39; proposed digital wallet payment system likely to fail](https://www.computerworld.com/article/3686101/big-banks-proposed-digital-wallet-payment-system-likely-to-fail.html#tk.rss_all)
-- [13 advanced tips for Android 13](https://www.computerworld.com/article/3685491/advanced-tips-for-android-13.html#tk.rss_all)
-- [Microsoft says cloud demand waning, plans to infuse AI into products](https://www.computerworld.com/article/3686273/microsoft-says-cloud-demand-waning-plans-to-infuse-ai-into-products.html#tk.rss_all)
-- [Apple marks Data Privacy Week with in-store privacy training, more](https://www.computerworld.com/article/3686269/apple-marks-data-privacy-week-with-in-store-privacy-training-more.html#tk.rss_all)
-- [How Microsoft is helping Ukraine’s cyberwar against Russia](https://www.computerworld.com/article/3685939/how-microsoft-is-helping-ukraine-s-cyberwar-against-russia.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

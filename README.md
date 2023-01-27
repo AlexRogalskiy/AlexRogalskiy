@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [OpenAI Major Outage](https://status.openai.com/#)
-- [Tell HN: Whole Yandex Git repository leaked](https://news.ycombinator.com/item?id=34525936)
-- [Show HN: A tool to design and run user state machines](https://www.dopt.com/)
-- [Magnetoactive liquid-solid phase transitional matter](https://www.cell.com/matter/fulltext/S2590-2385(22)00693-2)
-- [Etleap &lpar;YC W13&rpar; is hiring a software engineer &lpar;London&rpar;](https://etleap.com/careers/software-engineer/)
-- [I almost bought a scanner](http://leejo.github.io/2023/01/25/scanner/)
-- [Composefs: Content-Addressable Overlay Filesystem for Linux](https://github.com/containers/composefs)
-- [ASML Q4 2022 financial results](https://www.asml.com/en/news/press-releases/2023/q4-2022-financial-results)
-- [Designing my own ASIC with tiny tapeout](https://teaandtechtime.com/designing-my-very-own-asic-with-tiny-tapeout/)
-- [Building the perfect memory bandwidth beast](https://www.nextplatform.com/2023/01/24/building-the-perfect-memory-bandwidth-beast/)
+- [Sci-Hub: knowledge as a human right](https://sci-hub.ru/)
+- [Why VR/AR gets farther away as it comes into focus](https://www.matthewball.vc/all/why-vrar-gets-farther-away-as-it-comes-into-focus)
+- [DataDog asked OpenTelemetry contributor to kill pull request](https://github.com/open-telemetry/opentelemetry-collector-contrib/pull/5836)
+- [SQLAlchemy 2.0 Released](https://www.sqlalchemy.org/blog/2023/01/26/sqlalchemy-2.0.0-released/)
+- [ImGUI Ported to a LiteX SoC](https://github.com/suarezvictor/litex_imgui_usb_demo)
+- [Slack is the opposite of organizational memory &lpar;2018&rpar;](https://abe-winter.github.io/plea%27s/help/2018/02/11/slack.html)
+- [Grokking big unfamiliar codebases](https://www.jeremyong.com/game%20engines/2023/01/25/grokking-big-unfamiliar-codebases/)
+- [Galaga, Pac-Man, Donkey Kong Emulator for ESP32](https://github.com/harbaum/galagino)
+- [France&#39;s largest semiconductor company got nationalized in plain sight &lpar;2022&rpar;](https://www.fabricatedknowledge.com/p/how-frances-largest-semiconductor)
+- [A dinosaur with a remarkably preserved face](https://arstechnica.com/science/2023/01/researchers-look-a-dinosaur-in-its-remarkably-preserved-face/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

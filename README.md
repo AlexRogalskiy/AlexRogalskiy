@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine’s Odesa, the ‘pearl of the Black Sea’, added to Unesco World Heritage list](https://www.theguardian.com/world/2023/jan/26/ukraines-odesa-the-pearl-of-the-black-sea-added-to-unesco-world-heritage-list)
-- [Ukraine says US and German tank pledges ‘only the beginning’ and calls for fighter jets](https://www.theguardian.com/world/2023/jan/26/ukraine-says-us-and-german-tank-pledges-only-the-beginning-and-calls-for-fighter-jets)
-- [Asteroid 2023 BU about to pass Earth in one of closest ever encounters](https://www.theguardian.com/science/2023/jan/26/asteroid-2023-bu-about-to-pass-earth-in-one-of-closest-ever-encounters)
-- [Who is Taryn Brumfitt? Here’s what you need to know about the 2023 Australian of the Year](https://www.theguardian.com/australia-news/2023/jan/26/who-is-taryn-brumfitt-2023-australian-of-the-year-body-image-activist)
-- [Justin Roiland dropped from two more TV shows after domestic abuse charges](https://www.theguardian.com/tv-and-radio/2023/jan/26/justin-roiland-dropped-koala-man-solar-opposites-tv-shows-rick-and-morty-domestic-abuse-charges)
-- [Netflix denies any Squid Game reality show contestants have suffered ‘serious injury’](https://www.theguardian.com/tv-and-radio/2023/jan/26/netflix-denies-any-squid-game-reality-show-contestants-have-suffered-serious-injury)
-- [Trump’s Facebook and Instagram ban to be lifted, Meta announces](https://www.theguardian.com/us-news/2023/jan/25/trump-facebook-ban-lifted-unbanned-instagram-meta-pages-latest)
-- [Russia-Ukraine war at a glance: what we know on day 337 of the invasion](https://www.theguardian.com/world/2023/jan/26/russia-ukraine-war-at-a-glance-what-we-know-on-day-337-of-the-invasion)
-- [Onion smuggling rackets thrive as staple becomes a luxury in Philippines](https://www.theguardian.com/world/2023/jan/26/onion-smuggling-rackets-thrive-as-staple-becomes-a-luxury-in-philippines)
-- [Post-Brexit farm subsidies in England revealed](https://www.theguardian.com/environment/2023/jan/26/details-long-awaited-farming-subsidies-overhaul-england-revealed)
+- [California moves to disbar Trump’s lawyer John Eastman over 2020 election](https://www.theguardian.com/us-news/2023/jan/26/trump-lawyer-john-eastman-california-disbar-2020-election)
+- [Birdsong boosts mental wellbeing for 90% of people, UK poll finds](https://www.theguardian.com/environment/2023/jan/27/birdsong-boosts-mental-wellbeing-for-90-of-people-uk-poll-finds)
+- [Covid lockdowns created ‘online backdoor’ for child abusers, says charity](https://www.theguardian.com/society/2023/jan/27/covid-lockdowns-created-online-backdoor-for-child-abusers-says-charity)
+- [FA Cup fourth round: 10 things to look out for this weekend](https://www.theguardian.com/football/blog/2023/jan/27/fa-cup-fourth-round-10-things-to-look-out-for-this-weekend)
+- [BuzzFeed to use AI to ‘enhance’ its content and quizzes – report](https://www.theguardian.com/media/2023/jan/26/buzzfeed-artifical-intelligence-content-quizzes-chatgpt)
+- [Jeremy Hunt to promote low-tax and private sector ‘re-tooling’ of industry](https://www.theguardian.com/politics/2023/jan/26/hunt-chancellor-promote-low-tax-private-sector-re-tooling-industry)
+- [Vinícius Júnior enjoys last laugh for Real Madrid after depressing derby buildup](https://www.theguardian.com/football/2023/jan/26/vinicius-junior-enjoys-last-laugh-for-real-madrid-after-depressing-derby-buildup)
+- [Russia-Ukraine war at a glance: what we know on day 338 of the invasion](https://www.theguardian.com/world/2023/jan/27/russia-ukraine-war-at-a-glance-what-we-know-on-day-338-of-the-invasion)
+- [Welby told me gay marriage progress will be ‘glacial’, says Sandi Toksvig](https://www.theguardian.com/world/2023/jan/26/sandi-toksvig-laments-untenable-church-of-england-stance-on-gay-marriage)
+- [US military raid kills key Islamic State regional leader in Somalia, officials say](https://www.theguardian.com/us-news/2023/jan/26/us-military-raid-somalia-islamic-state-leader-al-sudani-killed)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

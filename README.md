@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [TeoCommerce: Unlimited ECommerce Support as a Service](https://teocommerce.com/)
-- [PyCharm plugin for Reloadium – Hot Reloading and Profiling for Python](https://plugins.jetbrains.com/plugin/18509-reloadium--hot-reloading--profiling-for-python)
-- [Chicken Tax](https://en.wikipedia.org/wiki/Chicken_tax)
-- [How will Satya Nadella handle Microsoft’s ChatGPT moment?](https://www.economist.com/business/2023/01/25/how-will-satya-nadella-handle-microsofts-chatgpt-moment)
-- [It&#39;s cheaper to rent than buy in 95% of the US](https://www.bizjournals.com/columbus/news/2023/01/23/rent-affordability.html)
-- [How the U.S. Government Amassed $31T in Debt](https://www.nytimes.com/2023/01/22/business/economy/federal-debt-history.html)
-- [Apple beefs up smartphone services in ‘silent war’ against Google](https://www.ft.com/content/1146da72-8337-46f4-b59f-c28c8ef617c4)
-- [Smithy: A language for defining services and SDKs](https://smithy.io/2.0/index.html)
-- [Broadcast messages to everyone on your network](https://github.com/tobyshooters/tickle)
-- [Reflecting on Books I Read in 2022](https://sharedphysics.com/books-i-read-in-2022/)
+- [Can these rocks power light bulbs? No, say the experts](https://www.bbc.com/news/64390767)
+- [I went inside Andrew Tate’s Hustler University – where ‘Gs’ celebrate making $11](https://www.independent.co.uk/news/world/europe/andrew-tate-news-real-world-b2263644.html)
+- [The billions dollar VR/AR headset question](https://daringfireball.net/2023/01/the_billions-dollar_vr_ar_headset_question)
+- [Stripe Held Talks for New Funding at $60B Valuation](https://www.wsj.com/livecoverage/stock-market-news-today-01-26-2023/card/stripe-held-talks-for-new-funding-at-60-billion-valuation-aHC2sG3rw0wXjoTotK4S)
+- [Rust&#39;s Ugly Syntax](https://matklad.github.io/2023/01/26/rusts-ugly-syntax.html)
+- [MusicLM: Generating Music from Text](https://google-research.github.io/seanet/musiclm/examples/)
+- [Quora Layoffs](https://quorablog.quora.com/Company-update?ch=10&oid=97805843&share=1139ae3a&srid=u2DPP&target_type=post)
+- [Another Look at Workplace Incentives &lpar;2002&rpar;](https://www.alfiekohn.org/article/another-look-workplace-incentives/)
+- [Electric vehicle sales in Europe in 2022](https://www.electromaps.com/en/blog/electric-vehicle-sales-2022-europe)
+- [How to Make 2023 Your Year of No Burnout](https://www.remoteworkprep.com/blog/how-to-make-2023-your-year-of-no-burnout)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

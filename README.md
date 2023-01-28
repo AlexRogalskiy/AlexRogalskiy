@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Sci-Hub: knowledge as a human right](https://sci-hub.ru/)
-- [Why VR/AR gets farther away as it comes into focus](https://www.matthewball.vc/all/why-vrar-gets-farther-away-as-it-comes-into-focus)
-- [DataDog asked OpenTelemetry contributor to kill pull request](https://github.com/open-telemetry/opentelemetry-collector-contrib/pull/5836)
-- [SQLAlchemy 2.0 Released](https://www.sqlalchemy.org/blog/2023/01/26/sqlalchemy-2.0.0-released/)
-- [ImGUI Ported to a LiteX SoC](https://github.com/suarezvictor/litex_imgui_usb_demo)
-- [Slack is the opposite of organizational memory &lpar;2018&rpar;](https://abe-winter.github.io/plea%27s/help/2018/02/11/slack.html)
-- [Grokking big unfamiliar codebases](https://www.jeremyong.com/game%20engines/2023/01/25/grokking-big-unfamiliar-codebases/)
-- [Galaga, Pac-Man, Donkey Kong Emulator for ESP32](https://github.com/harbaum/galagino)
-- [France&#39;s largest semiconductor company got nationalized in plain sight &lpar;2022&rpar;](https://www.fabricatedknowledge.com/p/how-frances-largest-semiconductor)
-- [A dinosaur with a remarkably preserved face](https://arstechnica.com/science/2023/01/researchers-look-a-dinosaur-in-its-remarkably-preserved-face/)
+- [Selfie: An educational platform for teaching systems engineering](https://github.com/cksystemsteaching/selfie)
+- [Multi·On: Your AI Web Co-Pilot Powered by ChatGPT](https://multion.ai)
+- [“Pigeon Neck” Illusion](https://michaelbach.de/ot/mot-pigeonNeck/index.html)
+- [Broider: Pixel Art CSS Borders](https://maxbittker.github.io/broider/)
+- [Why Go and Not Rust? &lpar;2019&rpar;](https://kristoff.it/blog/why-go-and-not-rust/)
+- [Weather Machine – Rock solid weather APIs with zero hassle](https://weathermachine.io/)
+- [First signs of spring have arrived in parts of south 3 weeks sooner than average](https://www.usanpn.org/news/spring)
+- [Building a Sleeper Computer from an SGI Indy](https://buu342.me/blog/projects/01-SGIIndySleeper.html)
+- [Kevin Mitnick Hacked California Law in 1983](https://www.schneier.com/blog/archives/2023/01/kevin-mitnick-hacked-california-law-in-1983.html)
+- [Wizards of the Coast Releases SRD Under Creative Commons License &lpar;CC-BY-4.0&rpar;](https://www.dndbeyond.com/posts/1439-ogl-1-0a-creative-commons)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

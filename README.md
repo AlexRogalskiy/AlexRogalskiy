@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Can these rocks power light bulbs? No, say the experts](https://www.bbc.com/news/64390767)
-- [I went inside Andrew Tate’s Hustler University – where ‘Gs’ celebrate making $11](https://www.independent.co.uk/news/world/europe/andrew-tate-news-real-world-b2263644.html)
-- [The billions dollar VR/AR headset question](https://daringfireball.net/2023/01/the_billions-dollar_vr_ar_headset_question)
-- [Stripe Held Talks for New Funding at $60B Valuation](https://www.wsj.com/livecoverage/stock-market-news-today-01-26-2023/card/stripe-held-talks-for-new-funding-at-60-billion-valuation-aHC2sG3rw0wXjoTotK4S)
-- [Rust&#39;s Ugly Syntax](https://matklad.github.io/2023/01/26/rusts-ugly-syntax.html)
-- [MusicLM: Generating Music from Text](https://google-research.github.io/seanet/musiclm/examples/)
-- [Quora Layoffs](https://quorablog.quora.com/Company-update?ch=10&oid=97805843&share=1139ae3a&srid=u2DPP&target_type=post)
-- [Another Look at Workplace Incentives &lpar;2002&rpar;](https://www.alfiekohn.org/article/another-look-workplace-incentives/)
-- [Electric vehicle sales in Europe in 2022](https://www.electromaps.com/en/blog/electric-vehicle-sales-2022-europe)
-- [How to Make 2023 Your Year of No Burnout](https://www.remoteworkprep.com/blog/how-to-make-2023-your-year-of-no-burnout)
+- [GitHub API for reverting a pull request](https://github.blog/changelog/2023-01-27-api-for-reverting-a-pull-request/)
+- [Magic the Gathering Players Lament the Loss of 30-Year History](https://mtgrocks.com/mtg-players-lament-the-loss-of-30-year-history/)
+- [The Neuroscience of Meditation: Four Models](https://opentheory.net/2018/12/the-neuroscience-of-meditation/)
+- [Unvaccinated NY healthcare workers won&#39;t be rehired despite staffing crisis](https://thenationaldesk.com/news/americas-news-now/unvaccinated-ny-health-care-workers-wont-be-rehired-despite-mandate-overturning-and-staffing-crisis-new-york-kathy-hochul-covid-vaccine-vax-vaccination-coronavirus-worker-staff-healthcare)
+- [Self-locking gears prevent backdriving &lpar;2012&rpar;](https://gearsolutions.com/features/applications-for-self-locking-gears/)
+- [How Saliva Changes the Flavor of Food](https://www.smithsonianmag.com/science-nature/how-saliva-changes-the-flavor-of-food-180981477/)
+- [Stanford researchers measure thousands of molecules from a single drop of blood](https://med.stanford.edu/news/all-news/2023/01/blood-drop-microsample-snyder.html)
+- [An investigation into Apple’s new Relay network](https://blog.apnic.net/2023/01/25/an-investigation-into-apples-new-relay-network/)
+- [Benefits of static types &lpar;2014&rpar;](https://danluu.com/empirical-pl/)
+- [Ask HN: What social login would you most likely use on a new site?](https://news.ycombinator.com/item?id=34554382)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

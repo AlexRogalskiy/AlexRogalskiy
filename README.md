@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [California moves to disbar Trump’s lawyer John Eastman over 2020 election](https://www.theguardian.com/us-news/2023/jan/26/trump-lawyer-john-eastman-california-disbar-2020-election)
-- [Birdsong boosts mental wellbeing for 90% of people, UK poll finds](https://www.theguardian.com/environment/2023/jan/27/birdsong-boosts-mental-wellbeing-for-90-of-people-uk-poll-finds)
-- [Covid lockdowns created ‘online backdoor’ for child abusers, says charity](https://www.theguardian.com/society/2023/jan/27/covid-lockdowns-created-online-backdoor-for-child-abusers-says-charity)
-- [FA Cup fourth round: 10 things to look out for this weekend](https://www.theguardian.com/football/blog/2023/jan/27/fa-cup-fourth-round-10-things-to-look-out-for-this-weekend)
-- [BuzzFeed to use AI to ‘enhance’ its content and quizzes – report](https://www.theguardian.com/media/2023/jan/26/buzzfeed-artifical-intelligence-content-quizzes-chatgpt)
-- [Jeremy Hunt to promote low-tax and private sector ‘re-tooling’ of industry](https://www.theguardian.com/politics/2023/jan/26/hunt-chancellor-promote-low-tax-private-sector-re-tooling-industry)
-- [Vinícius Júnior enjoys last laugh for Real Madrid after depressing derby buildup](https://www.theguardian.com/football/2023/jan/26/vinicius-junior-enjoys-last-laugh-for-real-madrid-after-depressing-derby-buildup)
-- [Russia-Ukraine war at a glance: what we know on day 338 of the invasion](https://www.theguardian.com/world/2023/jan/27/russia-ukraine-war-at-a-glance-what-we-know-on-day-338-of-the-invasion)
-- [Welby told me gay marriage progress will be ‘glacial’, says Sandi Toksvig](https://www.theguardian.com/world/2023/jan/26/sandi-toksvig-laments-untenable-church-of-england-stance-on-gay-marriage)
-- [US military raid kills key Islamic State regional leader in Somalia, officials say](https://www.theguardian.com/us-news/2023/jan/26/us-military-raid-somalia-islamic-state-leader-al-sudani-killed)
+- [Protests erupt across US after video of Tyre Nichols’s fatal beating is released – follow live](https://www.theguardian.com/us-news/live/2023/jan/27/biden-tyre-nichols-police-video-rnc-politics-latest-updates)
+- [Eight Israelis killed leaving synagogue in East Jerusalem](https://www.theguardian.com/world/2023/jan/27/seven-israelis-killed-leaving-synagogue-in-east-jerusalem)
+- [New Zealand flooding: two dead and two missing as Auckland hit by record rainfall](https://www.theguardian.com/world/2023/jan/28/new-zealand-flooding-auckland-deaths-missing-record-rainfall)
+- [Moisés Caicedo asks to leave Brighton for ‘magnificent opportunity’ elsewhere](https://www.theguardian.com/football/2023/jan/27/arsenal-60m-bid-moises-caicedo-brighton)
+- [Capitol rioter who assaulted Brian Sicknick gets near-seven year sentence](https://www.theguardian.com/us-news/2023/jan/27/capitol-rioter-assaulted-officer-brian-sicknick-sentence)
+- [British army serviceman, 21, charged with terror and explosive offences](https://www.theguardian.com/uk-news/2023/jan/27/british-army-serviceman-21-charged-with-terror-and-explosive-offences)
+- [Family of woman found ‘mummified’ say privacy laws kept them in the dark](https://www.theguardian.com/society/2023/jan/27/family-of-woman-found-mummified-say-privacy-laws-kept-them-in-the-dark)
+- [Domestic abuse charges in England and Wales halved since 2015, as offences doubled](https://www.theguardian.com/society/2023/jan/27/domestic-abuse-charges-in-england-and-wales-halved-since-2015-while-offences-doubled)
+- [Starmer to pledge Labour is party of ‘sound money’ and public service](https://www.theguardian.com/politics/2023/jan/27/starmer-to-pledge-labour-is-party-of-sound-money-and-public-service)
+- [Peru’s beleaguered president urges congress to bring 2024 elections forward](https://www.theguardian.com/world/2023/jan/27/peru-elections-dina-boluarte-bring-forward)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

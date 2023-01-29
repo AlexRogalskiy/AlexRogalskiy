@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Protests erupt across US after video of Tyre Nichols’s fatal beating is released – follow live](https://www.theguardian.com/us-news/live/2023/jan/27/biden-tyre-nichols-police-video-rnc-politics-latest-updates)
-- [Eight Israelis killed leaving synagogue in East Jerusalem](https://www.theguardian.com/world/2023/jan/27/seven-israelis-killed-leaving-synagogue-in-east-jerusalem)
-- [New Zealand flooding: two dead and two missing as Auckland hit by record rainfall](https://www.theguardian.com/world/2023/jan/28/new-zealand-flooding-auckland-deaths-missing-record-rainfall)
-- [Moisés Caicedo asks to leave Brighton for ‘magnificent opportunity’ elsewhere](https://www.theguardian.com/football/2023/jan/27/arsenal-60m-bid-moises-caicedo-brighton)
-- [Capitol rioter who assaulted Brian Sicknick gets near-seven year sentence](https://www.theguardian.com/us-news/2023/jan/27/capitol-rioter-assaulted-officer-brian-sicknick-sentence)
-- [British army serviceman, 21, charged with terror and explosive offences](https://www.theguardian.com/uk-news/2023/jan/27/british-army-serviceman-21-charged-with-terror-and-explosive-offences)
-- [Family of woman found ‘mummified’ say privacy laws kept them in the dark](https://www.theguardian.com/society/2023/jan/27/family-of-woman-found-mummified-say-privacy-laws-kept-them-in-the-dark)
-- [Domestic abuse charges in England and Wales halved since 2015, as offences doubled](https://www.theguardian.com/society/2023/jan/27/domestic-abuse-charges-in-england-and-wales-halved-since-2015-while-offences-doubled)
-- [Starmer to pledge Labour is party of ‘sound money’ and public service](https://www.theguardian.com/politics/2023/jan/27/starmer-to-pledge-labour-is-party-of-sound-money-and-public-service)
-- [Peru’s beleaguered president urges congress to bring 2024 elections forward](https://www.theguardian.com/world/2023/jan/27/peru-elections-dina-boluarte-bring-forward)
+- [Drone attack hits Iran ammunition factory – reports](https://www.theguardian.com/world/2023/jan/29/drone-attack-hits-iran-ammunition-factory-reports)
+- [Russia-Ukraine war at a glance: what we know on day 340 of the invasion](https://www.theguardian.com/world/2023/jan/29/russia-ukraine-war-at-a-glance-what-we-know-on-day-340-of-the-invasion)
+- [Anthony Yarde stopped in eighth round by brilliant Artur Beterbiev](https://www.theguardian.com/sport/2023/jan/28/anthony-yarde-stopped-in-eighth-round-by-artur-beterbiev)
+- [Quilty pleasures: 20 of the best men’s puffer jackets – in pictures](https://www.theguardian.com/fashion/gallery/2023/jan/28/quilty-pleasures-20-of-the-best-mens-puffer-jackets-in-pictures)
+- [Israel moves to ‘strengthen’ Jewish settlements after shootings](https://www.theguardian.com/world/2023/jan/28/israel-moves-to-strengthen-jewish-settlements-after-shootings)
+- [Trump says he is ‘more angry’ than ever as he tries to revive White House bid](https://www.theguardian.com/us-news/2023/jan/28/donald-trump-2024-campaign-trail)
+- [Memphis police disband unit whose officers fatally beat Tyre Nichols](https://www.theguardian.com/us-news/2023/jan/28/memphis-police-scorpion-unit-disbanded)
+- [Tom Verlaine, frontman and guitarist of US band Television, dies at 73](https://www.theguardian.com/music/2023/jan/28/tom-verlaine-frontman-and-guitarist-of-us-band-television-dies-at-73)
+- [Classy Casemiro kickstarts Manchester United win over 10-man Reading](https://www.theguardian.com/football/2023/jan/28/manchester-united-reading-fa-cup-fourth-round-match-report)
+- [Memo to Dyche: Everton have become a stepping-stone on the way down club | Jonathan Wilson](https://www.theguardian.com/football/blog/2023/jan/28/memo-to-dyche-everton-have-become-a-stepping-stone-on-the-way-down-club)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

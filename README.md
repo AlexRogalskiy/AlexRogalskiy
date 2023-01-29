@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Selfie: An educational platform for teaching systems engineering](https://github.com/cksystemsteaching/selfie)
-- [Multi·On: Your AI Web Co-Pilot Powered by ChatGPT](https://multion.ai)
-- [“Pigeon Neck” Illusion](https://michaelbach.de/ot/mot-pigeonNeck/index.html)
-- [Broider: Pixel Art CSS Borders](https://maxbittker.github.io/broider/)
-- [Why Go and Not Rust? &lpar;2019&rpar;](https://kristoff.it/blog/why-go-and-not-rust/)
-- [Weather Machine – Rock solid weather APIs with zero hassle](https://weathermachine.io/)
-- [First signs of spring have arrived in parts of south 3 weeks sooner than average](https://www.usanpn.org/news/spring)
-- [Building a Sleeper Computer from an SGI Indy](https://buu342.me/blog/projects/01-SGIIndySleeper.html)
-- [Kevin Mitnick Hacked California Law in 1983](https://www.schneier.com/blog/archives/2023/01/kevin-mitnick-hacked-california-law-in-1983.html)
-- [Wizards of the Coast Releases SRD Under Creative Commons License &lpar;CC-BY-4.0&rpar;](https://www.dndbeyond.com/posts/1439-ogl-1-0a-creative-commons)
+- [Show HN: Git Heat Map – a tool for visualising git repo activity for each file](https://github.com/jmforsythe/Git-Heat-Map)
+- [Ask HN: What is the best source to learn Docker in 2023?](https://news.ycombinator.com/item?id=34563353)
+- [Orion Browser](https://browser.kagi.com/)
+- [Apple sued for promising privacy, failing at it](https://www.theregister.com/2023/01/28/apple_sued_privacy/)
+- [What are some interesting uses of WebUSB you have come across?](https://news.ycombinator.com/item?id=34562256)
+- [AutoHotkey v2 Official Release Announcement](https://www.autohotkey.com/boards/viewtopic.php?t=112989)
+- [Features I&#39;d Like in PostgreSQL](https://gilslotd.com/blog/features_id_postgresql)
+- [Tracy: A hybrid frame and sampling profiler for games and other applications](https://github.com/wolfpld/tracy)
+- [Naval Architecture &lpar;2021&rpar;](https://ciechanow.ski/naval-architecture/)
+- [Chronophoto](https://www.chronophoto.app/game.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

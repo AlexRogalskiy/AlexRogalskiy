@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [GitHub API for reverting a pull request](https://github.blog/changelog/2023-01-27-api-for-reverting-a-pull-request/)
-- [Magic the Gathering Players Lament the Loss of 30-Year History](https://mtgrocks.com/mtg-players-lament-the-loss-of-30-year-history/)
-- [The Neuroscience of Meditation: Four Models](https://opentheory.net/2018/12/the-neuroscience-of-meditation/)
-- [Unvaccinated NY healthcare workers won&#39;t be rehired despite staffing crisis](https://thenationaldesk.com/news/americas-news-now/unvaccinated-ny-health-care-workers-wont-be-rehired-despite-mandate-overturning-and-staffing-crisis-new-york-kathy-hochul-covid-vaccine-vax-vaccination-coronavirus-worker-staff-healthcare)
-- [Self-locking gears prevent backdriving &lpar;2012&rpar;](https://gearsolutions.com/features/applications-for-self-locking-gears/)
-- [How Saliva Changes the Flavor of Food](https://www.smithsonianmag.com/science-nature/how-saliva-changes-the-flavor-of-food-180981477/)
-- [Stanford researchers measure thousands of molecules from a single drop of blood](https://med.stanford.edu/news/all-news/2023/01/blood-drop-microsample-snyder.html)
-- [An investigation into Apple’s new Relay network](https://blog.apnic.net/2023/01/25/an-investigation-into-apples-new-relay-network/)
-- [Benefits of static types &lpar;2014&rpar;](https://danluu.com/empirical-pl/)
-- [Ask HN: What social login would you most likely use on a new site?](https://news.ycombinator.com/item?id=34554382)
+- [Designing Arithmetic Circuits with Deep Reinforcement Learning](https://developer.nvidia.com/blog/designing-arithmetic-circuits-with-deep-reinforcement-learning/)
+- [The 2012 Millennium Artifact](https://www.cs.rochester.edu/users/faculty/nelson/courses/csc_200/project_2012_site/index.html)
+- [Air Force general predicts war with China in 2025, tells officers to get ready](https://www.nbcnews.com/politics/national-security/us-air-force-general-predicts-war-china-2025-memo-rcna67967)
+- [Why NoSQL is better for big data applications](https://www.projectpro.io/article/nosql-vs-sql-4-reasons-why-nosql-is-better-for-big-data-applications/86)
+- [The Rebirth of Magic – AI Short Film &lpar;Terence McKenna&rpar;](https://www.youtube.com/watch?v=uXUK9WpwmIs)
+- [Can an electric circuit do recursion?](https://electronics.stackexchange.com/a/158915/331615)
+- [Amazon Will Start Charging Prime Members for US Grocery Orders of Less Than $150](https://www.bloomberg.com/news/articles/2023-01-27/amazon-will-start-charging-prime-members-for-most-grocery-deliveries)
+- [Japan, Netherlands Agree to Limit Exports of Chip-Making Equipment to China](https://www.wsj.com/articles/japan-netherlands-agree-to-limit-exports-of-chip-making-equipment-to-china-11674952328)
+- [Trade Foundation Course &lpar;TFC&rpar;](https://www.gafta.com/TFC)
+- [Preliminary Post Incident Review &lpar;PIR&rpar; – Azure Networking – Global WAN Issues](https://status.azure.com/en-gb/status/history/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

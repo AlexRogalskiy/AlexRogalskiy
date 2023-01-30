@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Designing Arithmetic Circuits with Deep Reinforcement Learning](https://developer.nvidia.com/blog/designing-arithmetic-circuits-with-deep-reinforcement-learning/)
-- [The 2012 Millennium Artifact](https://www.cs.rochester.edu/users/faculty/nelson/courses/csc_200/project_2012_site/index.html)
-- [Air Force general predicts war with China in 2025, tells officers to get ready](https://www.nbcnews.com/politics/national-security/us-air-force-general-predicts-war-china-2025-memo-rcna67967)
-- [Why NoSQL is better for big data applications](https://www.projectpro.io/article/nosql-vs-sql-4-reasons-why-nosql-is-better-for-big-data-applications/86)
-- [The Rebirth of Magic – AI Short Film &lpar;Terence McKenna&rpar;](https://www.youtube.com/watch?v=uXUK9WpwmIs)
-- [Can an electric circuit do recursion?](https://electronics.stackexchange.com/a/158915/331615)
-- [Amazon Will Start Charging Prime Members for US Grocery Orders of Less Than $150](https://www.bloomberg.com/news/articles/2023-01-27/amazon-will-start-charging-prime-members-for-most-grocery-deliveries)
-- [Japan, Netherlands Agree to Limit Exports of Chip-Making Equipment to China](https://www.wsj.com/articles/japan-netherlands-agree-to-limit-exports-of-chip-making-equipment-to-china-11674952328)
-- [Trade Foundation Course &lpar;TFC&rpar;](https://www.gafta.com/TFC)
-- [Preliminary Post Incident Review &lpar;PIR&rpar; – Azure Networking – Global WAN Issues](https://status.azure.com/en-gb/status/history/)
+- [Using AI to answer free-form questions based on a particular library of content](https://github.com/dglazkov/polymath)
+- [Inflation and record-high rents have almost a third of Gen Z living at home](https://www.businessinsider.com/inflation-high-rent-gen-z-living-at-home-permanently-2022-7)
+- [The abolition of mandatory retirement changed America in unexpected ways](https://slate.com/human-interest/2011/04/mandatory-retirement-how-the-abolition-of-mandatory-retirement-continues-to-change-america-in-unexpected-ways.html)
+- [New MIT Research Indicates That Automation Is Responsible for Income Inequality](https://scitechdaily.com/new-mit-research-indicates-that-automation-is-responsible-for-income-inequality/)
+- [Play Anything](https://bogost.com/books/play-anything/)
+- [Cyber Security Multi-Tool: Flipper Zero](https://firewallchronicles.wordpress.com/2023/01/29/cyber-security-multi-tool-flipper-zero/)
+- [Meme-stock groups have raised $5B in 2 years](https://www.ft.com/content/adc1de86-a09d-4dcf-a54f-2e52ab68cffd)
+- [JavaScript AST Manipulation with Babel: AST Modification APIs](https://www.trickster.dev/post/javascript-ast-manipulation-with-babel-ast-modification-apis/)
+- [Show HN: Train CIFAR10 to 94% in under 10 seconds on a single A100](https://github.com/tysam-code/hlb-CIFAR10)
+- [Video about CDC’s battle to end a seemingly effective cure for cancer](https://www.youtube.com/watch?v=rmxUsAI29fw)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Show HN: Git Heat Map – a tool for visualising git repo activity for each file](https://github.com/jmforsythe/Git-Heat-Map)
-- [Ask HN: What is the best source to learn Docker in 2023?](https://news.ycombinator.com/item?id=34563353)
-- [Orion Browser](https://browser.kagi.com/)
-- [Apple sued for promising privacy, failing at it](https://www.theregister.com/2023/01/28/apple_sued_privacy/)
-- [What are some interesting uses of WebUSB you have come across?](https://news.ycombinator.com/item?id=34562256)
-- [AutoHotkey v2 Official Release Announcement](https://www.autohotkey.com/boards/viewtopic.php?t=112989)
-- [Features I&#39;d Like in PostgreSQL](https://gilslotd.com/blog/features_id_postgresql)
-- [Tracy: A hybrid frame and sampling profiler for games and other applications](https://github.com/wolfpld/tracy)
-- [Naval Architecture &lpar;2021&rpar;](https://ciechanow.ski/naval-architecture/)
-- [Chronophoto](https://www.chronophoto.app/game.html)
+- [Cyclic Combinational Circuits [pdf]](http://www.mriedel.ece.umn.edu/wiki/images/7/7a/Riedel_Cyclic_Combinational_Circuits.pdf)
+- [Scale transform -50 x*x + 240 x – 7](https://statmodeling.stat.columbia.edu/2023/01/29/you-wish-youre-first-to-invent-this-scale-transform-50-xx-240-x-7/)
+- [The Future of Employment: How Susceptible Are Jobs to Computerisation? &lpar;2013&rpar; [pdf]](https://www.oxfordmartin.ox.ac.uk/downloads/academic/The_Future_of_Employment.pdf)
+- [Ejaculation frequency and prostate cancer &lpar;2022&rpar;](https://www.health.harvard.edu/mens-health/ejaculation_frequency_and_prostate_cancer)
+- [The customer is always right in matters of taste](https://www.mickmel.com/the-customer-is-always-right-in-matters-of-taste/)
+- [Swift Achieved Dynamic Linking Where Rust Couldn&#39;t](https://faultlore.com/blah/swift-abi/)
+- [Ask HN: How can I get into cyber security research?](https://news.ycombinator.com/item?id=34572912)
+- [An Implementation of the Solaris Doors API for Linux &lpar;1998&rpar; [pdf]](http://www.rampant.org/doors/linux-doors.pdf)
+- [The “Build Your Own Redis” Book Is Completed](https://build-your-own.org/blog/20230127_byor/)
+- [Spaghetti-Tree Hoax](https://en.wikipedia.org/wiki/Spaghetti-tree_hoax)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Drone attack hits Iran ammunition factory – reports](https://www.theguardian.com/world/2023/jan/29/drone-attack-hits-iran-ammunition-factory-reports)
-- [Russia-Ukraine war at a glance: what we know on day 340 of the invasion](https://www.theguardian.com/world/2023/jan/29/russia-ukraine-war-at-a-glance-what-we-know-on-day-340-of-the-invasion)
-- [Anthony Yarde stopped in eighth round by brilliant Artur Beterbiev](https://www.theguardian.com/sport/2023/jan/28/anthony-yarde-stopped-in-eighth-round-by-artur-beterbiev)
-- [Quilty pleasures: 20 of the best men’s puffer jackets – in pictures](https://www.theguardian.com/fashion/gallery/2023/jan/28/quilty-pleasures-20-of-the-best-mens-puffer-jackets-in-pictures)
-- [Israel moves to ‘strengthen’ Jewish settlements after shootings](https://www.theguardian.com/world/2023/jan/28/israel-moves-to-strengthen-jewish-settlements-after-shootings)
-- [Trump says he is ‘more angry’ than ever as he tries to revive White House bid](https://www.theguardian.com/us-news/2023/jan/28/donald-trump-2024-campaign-trail)
-- [Memphis police disband unit whose officers fatally beat Tyre Nichols](https://www.theguardian.com/us-news/2023/jan/28/memphis-police-scorpion-unit-disbanded)
-- [Tom Verlaine, frontman and guitarist of US band Television, dies at 73](https://www.theguardian.com/music/2023/jan/28/tom-verlaine-frontman-and-guitarist-of-us-band-television-dies-at-73)
-- [Classy Casemiro kickstarts Manchester United win over 10-man Reading](https://www.theguardian.com/football/2023/jan/28/manchester-united-reading-fa-cup-fourth-round-match-report)
-- [Memo to Dyche: Everton have become a stepping-stone on the way down club | Jonathan Wilson](https://www.theguardian.com/football/blog/2023/jan/28/memo-to-dyche-everton-have-become-a-stepping-stone-on-the-way-down-club)
+- [AFC Championship Game: Cincinnati Bengals v Kansas City Chiefs – live](https://www.theguardian.com/sport/live/2023/jan/29/afc-championship-game-cincinnati-bengals-kansas-city-chiefs-nfl-playoffs-football-latest-score)
+- [Russia-Ukraine war at a glance: what we know on day 341 of the invasion](https://www.theguardian.com/world/2023/jan/30/russia-ukraine-war-at-a-glance-what-we-know-on-day-341-of-the-invasion)
+- [Boris Johnson says Putin claimed he could send missile to hit UK ‘in a minute’](https://www.theguardian.com/uk-news/2023/jan/30/boris-johnson-says-putin-claimed-he-could-send-missile-to-hit-uk-in-a-minute)
+- [Rishi Sunak set to unveil emergency care plan to slash NHS waiting times](https://www.theguardian.com/society/2023/jan/30/rishi-sunak-set-to-unveil-emergency-care-plan-to-slash-nhs-waiting-times)
+- [Dividends from UK-listed firms up 16.5% in 2022, far outstripping pay rises](https://www.theguardian.com/money/2023/jan/30/dividends-from-uk-listed-firms-up-165-in-2022-far-outstripping-pay-rises)
+- [French coastguard rescues 83 people from small boats crossing Channel](https://www.theguardian.com/uk-news/2023/jan/29/french-coastguard-rescues-83-people-from-small-boats-crossing-channel)
+- [Annie Wersching, best known for role in TV series 24, dies at 45](https://www.theguardian.com/tv-and-radio/2023/jan/29/annie-wersching-best-known-for-role-in-tv-series-24-dies-at-45)
+- [Happy Valley recap: series three, episode five – is Tommy about to launch a siege?](https://www.theguardian.com/tv-and-radio/2023/jan/29/happy-valley-recap-series-three-episode-five-is-tommy-about-to-launch-a-siege)
+- [Ron DeSantis prepares for 2024 White House bid as Trump hits campaign trail](https://www.theguardian.com/us-news/2023/jan/29/desantis-trump-2024-white-house-bid)
+- [Transfer roundup: Chelsea still hopeful of signing Enzo Fernández from Benfica](https://www.theguardian.com/football/2023/jan/29/chelsea-sign-malo-gusto-lyon-right-back-transfer-news)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

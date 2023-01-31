@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Using AI to answer free-form questions based on a particular library of content](https://github.com/dglazkov/polymath)
-- [Inflation and record-high rents have almost a third of Gen Z living at home](https://www.businessinsider.com/inflation-high-rent-gen-z-living-at-home-permanently-2022-7)
-- [The abolition of mandatory retirement changed America in unexpected ways](https://slate.com/human-interest/2011/04/mandatory-retirement-how-the-abolition-of-mandatory-retirement-continues-to-change-america-in-unexpected-ways.html)
-- [New MIT Research Indicates That Automation Is Responsible for Income Inequality](https://scitechdaily.com/new-mit-research-indicates-that-automation-is-responsible-for-income-inequality/)
-- [Play Anything](https://bogost.com/books/play-anything/)
-- [Cyber Security Multi-Tool: Flipper Zero](https://firewallchronicles.wordpress.com/2023/01/29/cyber-security-multi-tool-flipper-zero/)
-- [Meme-stock groups have raised $5B in 2 years](https://www.ft.com/content/adc1de86-a09d-4dcf-a54f-2e52ab68cffd)
-- [JavaScript AST Manipulation with Babel: AST Modification APIs](https://www.trickster.dev/post/javascript-ast-manipulation-with-babel-ast-modification-apis/)
-- [Show HN: Train CIFAR10 to 94% in under 10 seconds on a single A100](https://github.com/tysam-code/hlb-CIFAR10)
-- [Video about CDC’s battle to end a seemingly effective cure for cancer](https://www.youtube.com/watch?v=rmxUsAI29fw)
+- [The Limits of Computational Photography](https://yager.io/comp/comp.html)
+- [The Beginner&#39;s Guide to Overcomplicating Coffee](https://tylercipriani.com/blog/2023/01/31/coffee-science/)
+- [Hacker finds bug that allowed anyone to bypass Facebook 2FA](https://techcrunch.com/2023/01/30/facebook-two-factor-bypass-bug/)
+- [Need help with students who&#39;ve turned my class into a dating service](https://academia.stackexchange.com/questions/192977/need-help-with-students-whove-turned-my-class-into-a-dating-service)
+- [US police use digital data to prosecute abortions](https://techcrunch.com/2023/01/27/digital-data-roe-wade-reproductive-privacy/)
+- [The portmantout: A portmanteau of every word in English](http://tom7.org/portmantout/)
+- [Commodore 64 Kernal API Reference](https://www.pagetable.com/c64ref/kernal/)
+- [Weekly GNU-Like Mobile Linux Update: Unofficial Ubuntu Touch on PinePhone Pro](https://linmob.net/weekly-update-4-2023/)
+- [Tell HN: Google FI 3rd party breach](https://news.ycombinator.com/item?id=34590051)
+- [Rendering Markdown Views in Rails](https://rollen.io/blog/markdown-rails/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

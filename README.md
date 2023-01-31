@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Cyclic Combinational Circuits [pdf]](http://www.mriedel.ece.umn.edu/wiki/images/7/7a/Riedel_Cyclic_Combinational_Circuits.pdf)
-- [Scale transform -50 x*x + 240 x – 7](https://statmodeling.stat.columbia.edu/2023/01/29/you-wish-youre-first-to-invent-this-scale-transform-50-xx-240-x-7/)
-- [The Future of Employment: How Susceptible Are Jobs to Computerisation? &lpar;2013&rpar; [pdf]](https://www.oxfordmartin.ox.ac.uk/downloads/academic/The_Future_of_Employment.pdf)
-- [Ejaculation frequency and prostate cancer &lpar;2022&rpar;](https://www.health.harvard.edu/mens-health/ejaculation_frequency_and_prostate_cancer)
-- [The customer is always right in matters of taste](https://www.mickmel.com/the-customer-is-always-right-in-matters-of-taste/)
-- [Swift Achieved Dynamic Linking Where Rust Couldn&#39;t](https://faultlore.com/blah/swift-abi/)
-- [Ask HN: How can I get into cyber security research?](https://news.ycombinator.com/item?id=34572912)
-- [An Implementation of the Solaris Doors API for Linux &lpar;1998&rpar; [pdf]](http://www.rampant.org/doors/linux-doors.pdf)
-- [The “Build Your Own Redis” Book Is Completed](https://build-your-own.org/blog/20230127_byor/)
-- [Spaghetti-Tree Hoax](https://en.wikipedia.org/wiki/Spaghetti-tree_hoax)
+- [Google Fi seemingly affected by latest T-Mobile data breach](https://9to5google.com/2023/01/30/google-fi-data-breach-tmobile/)
+- [Yahoo is making a return to search](https://searchengineland.com/yahoo-is-making-a-return-to-search-392341)
+- [Cistercian Numerals](https://kottke.org/23/01/cistercian-numerals)
+- [Rewrite it in Rust](https://github.com/fish-shell/fish-shell/pull/9512)
+- [Google Play Developer Antitrust Litigation](https://www.googleplaydevelopersettlement.com)
+- [Ask HN: Do you use JSON Schema? Help us shape its future stability guarantees](https://news.ycombinator.com/item?id=34587360)
+- [Git archive checksums may change](https://github.blog/changelog/2023-01-30-git-archive-checksums-may-change/)
+- [Automerge 2.0](https://automerge.org/blog/automerge-2/)
+- [Burning a NeXTCube &lpar;1993&rpar;](https://simson.net/ref/1993/cubefire.html)
+- [SimulaVR FPGA Image Processing Pipeline](https://simulavr.com/blog/fpga-image-processing-pipeline/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Google Fi seemingly affected by latest T-Mobile data breach](https://9to5google.com/2023/01/30/google-fi-data-breach-tmobile/)
-- [Yahoo is making a return to search](https://searchengineland.com/yahoo-is-making-a-return-to-search-392341)
-- [Cistercian Numerals](https://kottke.org/23/01/cistercian-numerals)
-- [Rewrite it in Rust](https://github.com/fish-shell/fish-shell/pull/9512)
-- [Google Play Developer Antitrust Litigation](https://www.googleplaydevelopersettlement.com)
-- [Ask HN: Do you use JSON Schema? Help us shape its future stability guarantees](https://news.ycombinator.com/item?id=34587360)
-- [Git archive checksums may change](https://github.blog/changelog/2023-01-30-git-archive-checksums-may-change/)
-- [Automerge 2.0](https://automerge.org/blog/automerge-2/)
-- [Burning a NeXTCube &lpar;1993&rpar;](https://simson.net/ref/1993/cubefire.html)
-- [SimulaVR FPGA Image Processing Pipeline](https://simulavr.com/blog/fpga-image-processing-pipeline/)
+- [Is remote work bad for the economy?](https://www.fractional.work/p/is-remote-work-bad-for-the-economy)
+- [Intel Cuts Employee Pay to Maintain Quarterly Dividend](https://www.semianalysis.com/p/intel-cuts-pay-for-employees-to-keep)
+- [Tablevibe &lpar;YC S21&rpar; hiring AU sales exec to help restaurants go direct-to-consumer](https://www.ycombinator.com/companies/tablevibe-co/jobs/aN5DPci-senior-sales-executive-australia-new-zealand)
+- [Show HN: KnifeGeek – Online Database of Pocket Knives](https://www.knifegeek.io/)
+- [Concordia students set to launch most powerful rocket developed by civilians](https://www.concordia.ca/news/stories/2023/01/23/members-of-space-concordia-have-their-hearts-set-on-the-stars.html)
+- [Show HN: TunnlTo – Windows WireGuard split tunnel client built with Rust, Tauri](https://github.com/TunnlTo/desktop-app)
+- [Ask HN: How do you test SQL?](https://news.ycombinator.com/item?id=34602318)
+- [Modernizing C arrays for greater memory safety: a case study in the Linux kernel](https://people.kernel.org/kees/bounded-flexible-arrays-in-c)
+- [Combobulate: Structured Movement and Editing with Tree-Sitter](https://www.masteringemacs.org/article/combobulate-structured-movement-editing-treesitter)
+- [Critical brain hypothesis: A physical theory for when the brain performs best](https://www.quantamagazine.org/a-physical-theory-for-when-the-brain-performs-best-20230131/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

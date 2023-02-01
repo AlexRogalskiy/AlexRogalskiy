@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Limits of Computational Photography](https://yager.io/comp/comp.html)
-- [The Beginner&#39;s Guide to Overcomplicating Coffee](https://tylercipriani.com/blog/2023/01/31/coffee-science/)
-- [Hacker finds bug that allowed anyone to bypass Facebook 2FA](https://techcrunch.com/2023/01/30/facebook-two-factor-bypass-bug/)
-- [Need help with students who&#39;ve turned my class into a dating service](https://academia.stackexchange.com/questions/192977/need-help-with-students-whove-turned-my-class-into-a-dating-service)
-- [US police use digital data to prosecute abortions](https://techcrunch.com/2023/01/27/digital-data-roe-wade-reproductive-privacy/)
-- [The portmantout: A portmanteau of every word in English](http://tom7.org/portmantout/)
-- [Commodore 64 Kernal API Reference](https://www.pagetable.com/c64ref/kernal/)
-- [Weekly GNU-Like Mobile Linux Update: Unofficial Ubuntu Touch on PinePhone Pro](https://linmob.net/weekly-update-4-2023/)
-- [Tell HN: Google FI 3rd party breach](https://news.ycombinator.com/item?id=34590051)
-- [Rendering Markdown Views in Rails](https://rollen.io/blog/markdown-rails/)
+- [Google Fi customer accounts hacked in SIM attack related to recent breach](https://9to5google.com/2023/01/31/google-fi-customer-hack-story/)
+- [Self-perceived facial attractiveness reduces mask-wearing intention](https://www.frontiersin.org/articles/10.3389/fpsyg.2023.1084941/full)
+- [Ask HN: How to get a job as a test case engineer for AI?](https://news.ycombinator.com/item?id=34605598)
+- [Ask HN: Which Discord servers are you on?](https://news.ycombinator.com/item?id=34605588)
+- [The OK Computer &lpar;Apple Lisa&rpar;](https://www.theverge.com/c/23570610/apple-lisa-computer-legacy)
+- [What Makes Discovery of Witches Tick?](https://barbariangrunge.substack.com/p/what-makes-discovery-of-witches-tick)
+- [Ask HN: Is it still safe to use Stripe?](https://news.ycombinator.com/item?id=34605540)
+- [Differences Between iOS and Android Mastodon Clients](https://daringfireball.net/2023/01/meanwhile_over_in_androidtown)
+- [Sam Bankman-Fried accused of possible witness tampering [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.nysd.590940/gov.uscourts.nysd.590940.50.0.pdf)
+- [Show HN: What do you want or expect from an antidetect browser](https://www.morelogin.com)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

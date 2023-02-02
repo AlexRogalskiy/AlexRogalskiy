@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Key suspects in killing of Haiti president Jovenel Moïse ‘sent to US for trial’](https://www.theguardian.com/world/2023/feb/01/key-suspects-in-killing-of-haiti-president-jovenel-moise-sent-to-us-for-trial)
-- [Chelsea sign Benfica’s Enzo Fernández for British record £106.8m fee](https://www.theguardian.com/football/2023/feb/01/chelsea-to-sign-enzo-fernandez-benfica-british-record-transfer-fee)
-- [IOC stands by sanctions against Russia and Belarus over invasion of Ukraine](https://www.theguardian.com/sport/2023/feb/01/ioc-stands-by-sanctions-against-russia-and-belarus-over-invasion-of-ukraine)
-- [Russia-Ukraine war at a glance: what we know on day 343 of the invasion](https://www.theguardian.com/world/2023/feb/01/russia-ukraine-war-at-a-glance-what-we-know-on-day-343-of-the-invasion)
-- [Royal Navy orders investigation into nuclear submarine ‘repaired with glue’](https://www.theguardian.com/uk-news/2023/feb/01/royal-navy-orders-investigation-into-nuclear-submarine-repaired-with-glue)
-- [Almost 13,000 offshore companies with UK property fail to declare owners](https://www.theguardian.com/uk-news/2023/feb/01/almost-13000-offshore-companies-with-uk-property-fail-to-declare-owners)
-- [‘Can’t make this stuff up’: California sinkhole devours cars despite warning signs](https://www.theguardian.com/us-news/2023/jan/31/cant-make-this-stuff-up-california-sinkhole-devours-cars-despite-warning-signs)
-- [Casa Susanna review – this portrait of queer life in an era of illegality is incredibly moving](https://www.theguardian.com/tv-and-radio/2023/jan/31/casa-susanna-review-this-portrait-of-queer-life-in-an-era-of-illegality-is-incredibly-moving)
-- [Everton’s barren window prompts angry fans to protest at training ground](https://www.theguardian.com/football/2023/jan/31/barren-window-leaves-everton-with-a-weaker-squad-for-relegation-scrap)
-- [Charges filed against Alec Baldwin for ‘extremely reckless acts’ on Rust set](https://www.theguardian.com/us-news/2023/jan/31/alec-baldwin-rust-formally-charged-involuntary-manslaughter-halyna-hutchins)
+- [I tried the TikTok ‘non-aesthetic’ home fad. But it was a nightmare designed to inflict pain on me | Michael Sun](https://www.theguardian.com/commentisfree/2023/feb/02/i-tried-the-tiktok-non-aesthetic-home-fad-but-it-was-a-nightmare-designed-to-inflict-pain-on-me)
+- [Canada votes to take in 10,000 Uyghur refugees amid Chinese pressure to force their return](https://www.theguardian.com/world/2023/feb/02/canada-votes-to-take-in-10000-uyghur-refugees-amid-chinese-pressure-to-force-their-return)
+- [Australia’s new $5 banknote will feature Indigenous history instead of King Charles](https://www.theguardian.com/australia-news/2023/feb/02/australia-new-5-dollar-banknote-indigenous-history-note-instead-of-king-charles)
+- [Russia planning major offensive to mark first anniversary of war: Ukraine defence minister](https://www.theguardian.com/world/2023/feb/02/russia-major-new-offensive-to-mark-one-year-anniversary-ukraine-war)
+- [Mexico zoo chief accused of ordering pygmy goats to be killed and cooked for party](https://www.theguardian.com/world/2023/feb/02/mexico-zoo-chief-accused-of-ordering-pygmy-goats-to-be-killed-and-cooked-for-party)
+- [US opens embassy in Solomon Islands after 30-year absence to counter China](https://www.theguardian.com/world/2023/feb/02/us-opens-embassy-in-solomon-islands-to-counter-china)
+- [Myanmar junta extends state of emergency, delaying promised elections](https://www.theguardian.com/world/2023/feb/02/myanmar-junta-extends-state-of-emergency-delaying-promised-elections)
+- [Russia-Ukraine war at a glance: what we know on day 344 of the invasion](https://www.theguardian.com/world/2023/feb/02/russia-ukraine-war-at-a-glance-what-we-know-on-day-344-of-the-invasion)
+- [Households in England and Wales face biggest water bills rise in decades](https://www.theguardian.com/money/2023/feb/02/households-in-england-and-wales-face-biggest-water-bills-rise-in-decades)
+- [Public health groups urge Rishi Sunak to widen free school meals programme](https://www.theguardian.com/education/2023/feb/02/public-health-groups-urge-rishi-sunak-to-widen-free-school-meals-programme)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

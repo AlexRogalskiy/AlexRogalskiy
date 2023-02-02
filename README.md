@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Google Fi customer accounts hacked in SIM attack related to recent breach](https://9to5google.com/2023/01/31/google-fi-customer-hack-story/)
-- [Self-perceived facial attractiveness reduces mask-wearing intention](https://www.frontiersin.org/articles/10.3389/fpsyg.2023.1084941/full)
-- [Ask HN: How to get a job as a test case engineer for AI?](https://news.ycombinator.com/item?id=34605598)
-- [Ask HN: Which Discord servers are you on?](https://news.ycombinator.com/item?id=34605588)
-- [The OK Computer &lpar;Apple Lisa&rpar;](https://www.theverge.com/c/23570610/apple-lisa-computer-legacy)
-- [What Makes Discovery of Witches Tick?](https://barbariangrunge.substack.com/p/what-makes-discovery-of-witches-tick)
-- [Ask HN: Is it still safe to use Stripe?](https://news.ycombinator.com/item?id=34605540)
-- [Differences Between iOS and Android Mastodon Clients](https://daringfireball.net/2023/01/meanwhile_over_in_androidtown)
-- [Sam Bankman-Fried accused of possible witness tampering [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.nysd.590940/gov.uscourts.nysd.590940.50.0.pdf)
-- [Show HN: What do you want or expect from an antidetect browser](https://www.morelogin.com)
+- [OpenAI CEO Sam Altman](https://www.businessinsider.com/sam-altman-chatgpt-openai-ceo-career-net-worth-ycombinator-prepper-2023-1)
+- [Shenzhen Fuman LM358S die-shot](https://zeptobars.com/en/read/Shenzhen-Fuman-LM358S-general-purpose-opamp)
+- [Meta Platforms Q4 2022 Earnings Review](https://stockmarketnerd.substack.com/p/meta-platforms-q4-2022-earnings-review)
+- [Court in Italy rules in favour of children who do not want to see grandparents](https://www.theguardian.com/world/2023/feb/01/italy-court-rules-children-not-obliged-to-see-grandparents)
+- [The Toybox Build System](https://honeybunch.neocities.org/blog/toybox-build-system/)
+- [I just published my Python AI book](https://leanpub.com/pythonai)
+- [Your App&#39;s package.json Is Wrong](https://pedrocattori.dev/blog/your-apps-packagejson-is-wrong)
+- [Tokens, Please: Comparing OpenID Connect with Video Game “Papers, Please”](https://www.toddtee.sh/posts/github-actions-oidc/)
+- [I Migrated 300 Posts from Obsidian Publish to Ghost](https://www.bramadams.dev/202301312143/)
+- [Couple in Iran sentenced to 10 years in prison for dancing in viral video](https://www.insider.com/young-iranian-couple-imprisoned-10-years-dancing-together-video-2023-2)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

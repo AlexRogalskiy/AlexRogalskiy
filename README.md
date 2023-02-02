@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Intel cuts employee, executive salaries as it faces weak PC, chip demand](https://www.computerworld.com/article/3686968/intel-cuts-employee-executive-salaries-as-it-faces-weak-pc-chip-demand.html#tk.rss_all)
+- [US agency calls Apple, Google App Stores &#39;harmful&#39;](https://www.computerworld.com/article/3686949/us-agency-calls-apple-google-app-stores-harmful.html#tk.rss_all)
+- [BrandPost: Come What May: Anticipate Disasters — and Recover Quickly](https://www.computerworld.com/article/3686948/come-what-may-anticipate-disasters-and-recover-quickly.html#tk.rss_all)
+- [BrandPost: Making the Mainframe Central to Your Data Fabric Strategy](https://www.computerworld.com/article/3686048/making-the-mainframe-central-to-your-data-fabric-strategy.html#tk.rss_all)
+- [BrandPost: 3 Enterprise Tech Investments with the Biggest Payoff](https://www.computerworld.com/article/3686029/3-enterprise-tech-investments-with-the-biggest-payoff.html#tk.rss_all)
+- [PayPal to lay off 2,000 employees](https://www.computerworld.com/article/3686536/paypal-to-lay-off-2000-employees.html#tk.rss_all)
+- [6 surprising facts about ChatGPT nobody told you](https://www.computerworld.com/article/3686616/6-surprising-facts-about-chatgpt-nobody-told-you.html#tk.rss_all)
+- [5 hidden settings for a smarter Google Assistant Android experience](https://www.computerworld.com/article/3686514/google-assistant-android-settings.html#tk.rss_all)
 - [What we’ll be looking for in Apple’s Q1 results](https://www.computerworld.com/article/3686576/what-well-be-looking-for-in-apples-q1-results.html#tk.rss_all)
 - [The Great Resignation: Where did the millions who quit their jobs go?](https://www.computerworld.com/article/3686615/the-great-resignation-where-did-the-millions-who-quit-their-jobs-go.html#tk.rss_all)
-- [Desktop tweaks in Windows can be fun, but watch out for risks](https://www.computerworld.com/article/3686614/desktop-tweaks-in-windows-can-be-fun-but-watch-out-for-risks.html#tk.rss_all)
-- [Apple wants to build a new computing platform with AR](https://www.computerworld.com/article/3686512/apple-wants-to-build-a-new-computing-platform-with-ar.html#tk.rss_all)
-- [Tech layoffs in 2023: A timeline](https://www.computerworld.com/article/3685936/tech-layoffs-in-2023-a-timeline.html#tk.rss_all)
-- [US wins support from Japan and Netherlands to clip China’s chip industry](https://www.computerworld.com/article/3686571/us-wins-support-from-japan-and-netherlands-to-clip-chinas-chip-industry.html#tk.rss_all)
-- [Study: When employees don’t have to commute, they work](https://www.computerworld.com/article/3686653/study-when-employees-dont-have-to-commute-they-work.html#tk.rss_all)
-- [Intel suffers double-digit revenue decline in Q4 2022](https://www.computerworld.com/article/3686475/intel-suffers-double-digit-revenue-decline-in-q4-2022.html#tk.rss_all)
-- [MacStadium sees a ‘massive opportunity’ for Apple in business markets](https://www.computerworld.com/article/3686689/macstadium-sees-a-massive-opportunity-for-apple-in-business-markets.html#tk.rss_all)
-- [Google Forms cheat sheet: How to get started](https://www.computerworld.com/article/3445387/google-forms-cheat-sheet-how-to-get-started.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

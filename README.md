@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Is remote work bad for the economy?](https://www.fractional.work/p/is-remote-work-bad-for-the-economy)
-- [Intel Cuts Employee Pay to Maintain Quarterly Dividend](https://www.semianalysis.com/p/intel-cuts-pay-for-employees-to-keep)
-- [Tablevibe &lpar;YC S21&rpar; hiring AU sales exec to help restaurants go direct-to-consumer](https://www.ycombinator.com/companies/tablevibe-co/jobs/aN5DPci-senior-sales-executive-australia-new-zealand)
-- [Show HN: KnifeGeek – Online Database of Pocket Knives](https://www.knifegeek.io/)
-- [Concordia students set to launch most powerful rocket developed by civilians](https://www.concordia.ca/news/stories/2023/01/23/members-of-space-concordia-have-their-hearts-set-on-the-stars.html)
-- [Show HN: TunnlTo – Windows WireGuard split tunnel client built with Rust, Tauri](https://github.com/TunnlTo/desktop-app)
-- [Ask HN: How do you test SQL?](https://news.ycombinator.com/item?id=34602318)
-- [Modernizing C arrays for greater memory safety: a case study in the Linux kernel](https://people.kernel.org/kees/bounded-flexible-arrays-in-c)
-- [Combobulate: Structured Movement and Editing with Tree-Sitter](https://www.masteringemacs.org/article/combobulate-structured-movement-editing-treesitter)
-- [Critical brain hypothesis: A physical theory for when the brain performs best](https://www.quantamagazine.org/a-physical-theory-for-when-the-brain-performs-best-20230131/)
+- [Google layoffs Jan 20, 2023 – California WARN public records](https://airtable.cool/shrF23JdDHMQ3QDyw)
+- [Microsoft Teams Premium: powered by OpenAI’s GPT-3.5](https://www.microsoft.com/en-us/microsoft-365/blog/2023/02/01/microsoft-teams-premium-cut-costs-and-add-ai-powered-productivity/)
+- [Infinite partial sumsets in the primes](https://terrytao.wordpress.com/2023/01/26/infinite-partial-sumsets-in-the-primes/)
+- [Float Compression 3: Filters](https://aras-p.info/blog/2023/02/01/Float-Compression-3-Filters/)
+- [Information Theory, Inference, and Learning Algorithms &lpar;2003&rpar;](https://inference.org.uk/itila/book.html)
+- [ChatGPT is a bullshit generator but it can still be amazingly useful](https://aisnakeoil.substack.com/p/chatgpt-is-a-bullshit-generator-but)
+- [Hypermedia Clients](https://htmx.org/essays/hypermedia-clients/)
+- [We need less powerful languages &lpar;2015&rpar;](https://lukeplant.me.uk/blog/posts/less-powerful-languages/)
+- [Meta Reports Fourth Quarter and Full Year 2022 Results](https://investor.fb.com/investor-news/press-release-details/2023/Meta-Reports-Fourth-Quarter-and-Full-Year-2022-Results/default.aspx)
+- [Glen Canyon Revealed](https://www.hcn.org/issues/55.2/features-water-glen-canyon-revealed)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

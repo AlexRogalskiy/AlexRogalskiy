@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [I tried the TikTok ‘non-aesthetic’ home fad. But it was a nightmare designed to inflict pain on me | Michael Sun](https://www.theguardian.com/commentisfree/2023/feb/02/i-tried-the-tiktok-non-aesthetic-home-fad-but-it-was-a-nightmare-designed-to-inflict-pain-on-me)
-- [Canada votes to take in 10,000 Uyghur refugees amid Chinese pressure to force their return](https://www.theguardian.com/world/2023/feb/02/canada-votes-to-take-in-10000-uyghur-refugees-amid-chinese-pressure-to-force-their-return)
-- [Australia’s new $5 banknote will feature Indigenous history instead of King Charles](https://www.theguardian.com/australia-news/2023/feb/02/australia-new-5-dollar-banknote-indigenous-history-note-instead-of-king-charles)
-- [Russia planning major offensive to mark first anniversary of war: Ukraine defence minister](https://www.theguardian.com/world/2023/feb/02/russia-major-new-offensive-to-mark-one-year-anniversary-ukraine-war)
-- [Mexico zoo chief accused of ordering pygmy goats to be killed and cooked for party](https://www.theguardian.com/world/2023/feb/02/mexico-zoo-chief-accused-of-ordering-pygmy-goats-to-be-killed-and-cooked-for-party)
-- [US opens embassy in Solomon Islands after 30-year absence to counter China](https://www.theguardian.com/world/2023/feb/02/us-opens-embassy-in-solomon-islands-to-counter-china)
-- [Myanmar junta extends state of emergency, delaying promised elections](https://www.theguardian.com/world/2023/feb/02/myanmar-junta-extends-state-of-emergency-delaying-promised-elections)
-- [Russia-Ukraine war at a glance: what we know on day 344 of the invasion](https://www.theguardian.com/world/2023/feb/02/russia-ukraine-war-at-a-glance-what-we-know-on-day-344-of-the-invasion)
-- [Households in England and Wales face biggest water bills rise in decades](https://www.theguardian.com/money/2023/feb/02/households-in-england-and-wales-face-biggest-water-bills-rise-in-decades)
-- [Public health groups urge Rishi Sunak to widen free school meals programme](https://www.theguardian.com/education/2023/feb/02/public-health-groups-urge-rishi-sunak-to-widen-free-school-meals-programme)
+- [Italian mob suspect Edgardo Greco found working as pizza chef after 16 years on run](https://www.theguardian.com/world/2023/feb/03/italian-mob-suspect-edgardo-greco-found-working-as-pizza-chef-after-16-years-on-run)
+- [Pentagon says it is monitoring Chinese spy balloon spotted flying over US](https://www.theguardian.com/us-news/2023/feb/02/pentagon-chinese-spy-balloon)
+- [Russia-Ukraine war at a glance: what we know on day 345 of the invasion](https://www.theguardian.com/world/2023/feb/03/russia-ukraine-war-at-a-glance-what-we-know-on-day-345-of-the-invasion)
+- [Putin uses Stalingrad trip to liken Ukraine to second world war](https://www.theguardian.com/world/2023/feb/02/stalingrad-events-see-putin-warn-of-response-to-western-aggression)
+- [Northern Ireland fire chief appeals for strike cover to avoid army call-up](https://www.theguardian.com/uk-news/2023/feb/03/northern-ireland-fire-chief-appeals-for-strike-cover-to-avoid-army-call-up)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/blog/2023/feb/03/premier-league-10-things-to-look-out-for-this-weekend)
+- [Apple posts first revenue drop in four years](https://www.theguardian.com/technology/2023/feb/02/apple-revenue-drop-first-quarter-fiscal-year-2023)
+- [Potter admits challenge of keeping larger dressing room happy at Chelsea](https://www.theguardian.com/football/2023/feb/02/graham-potter-admits-challenge-of-keeping-dressing-room-happy-at-chelsea)
+- [New Jersey councilmember shot and killed outside of her home](https://www.theguardian.com/us-news/2023/feb/02/eunice-dwumfour-new-jersey-councilmember-killed)
+- [Ofgem warns suppliers over forcible installation of prepayment meters](https://www.theguardian.com/business/2023/feb/02/watchdog-urges-uk-energy-suppliers-to-use-only-accredited-bailiffs)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [Microsoft’s new Teams Premium tier integrates with OpenAI&#39;s GPT-3.5](https://www.computerworld.com/article/3687170/microsoft-s-new-teams-premium-tier-integrates-with-openais-gpt-3-5.html#tk.rss_all)
+- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
+- [Apple’s growth story is consistent and sustained](https://www.computerworld.com/article/3687228/apples-growth-story-is-consistent-and-sustained.html#tk.rss_all)
+- [ACLU, public defenders push back against Google giving police your mobile data](https://www.computerworld.com/article/3686535/aclu-public-defenders-push-back-against-google-giving-police-your-mobile-data.html#tk.rss_all)
+- [Over 100K of unfilled jobs for IT workers eliminated in the US: Report](https://www.computerworld.com/article/3687208/over-100k-of-unfilled-jobs-for-it-workers-eliminated-in-the-us-report.html#tk.rss_all)
 - [Intel cuts employee, executive salaries as it faces weak PC, chip demand](https://www.computerworld.com/article/3686968/intel-cuts-employee-executive-salaries-as-it-faces-weak-pc-chip-demand.html#tk.rss_all)
 - [US agency calls Apple, Google App Stores &#39;harmful&#39;](https://www.computerworld.com/article/3686949/us-agency-calls-apple-google-app-stores-harmful.html#tk.rss_all)
 - [BrandPost: Come What May: Anticipate Disasters — and Recover Quickly](https://www.computerworld.com/article/3686948/come-what-may-anticipate-disasters-and-recover-quickly.html#tk.rss_all)
 - [BrandPost: Making the Mainframe Central to Your Data Fabric Strategy](https://www.computerworld.com/article/3686048/making-the-mainframe-central-to-your-data-fabric-strategy.html#tk.rss_all)
-- [BrandPost: 3 Enterprise Tech Investments with the Biggest Payoff](https://www.computerworld.com/article/3686029/3-enterprise-tech-investments-with-the-biggest-payoff.html#tk.rss_all)
-- [PayPal to lay off 2,000 employees](https://www.computerworld.com/article/3686536/paypal-to-lay-off-2000-employees.html#tk.rss_all)
-- [6 surprising facts about ChatGPT nobody told you](https://www.computerworld.com/article/3686616/6-surprising-facts-about-chatgpt-nobody-told-you.html#tk.rss_all)
-- [5 hidden settings for a smarter Google Assistant Android experience](https://www.computerworld.com/article/3686514/google-assistant-android-settings.html#tk.rss_all)
-- [What we’ll be looking for in Apple’s Q1 results](https://www.computerworld.com/article/3686576/what-well-be-looking-for-in-apples-q1-results.html#tk.rss_all)
-- [The Great Resignation: Where did the millions who quit their jobs go?](https://www.computerworld.com/article/3686615/the-great-resignation-where-did-the-millions-who-quit-their-jobs-go.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

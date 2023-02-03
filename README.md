@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Google layoffs Jan 20, 2023 – California WARN public records](https://airtable.cool/shrF23JdDHMQ3QDyw)
-- [Microsoft Teams Premium: powered by OpenAI’s GPT-3.5](https://www.microsoft.com/en-us/microsoft-365/blog/2023/02/01/microsoft-teams-premium-cut-costs-and-add-ai-powered-productivity/)
-- [Infinite partial sumsets in the primes](https://terrytao.wordpress.com/2023/01/26/infinite-partial-sumsets-in-the-primes/)
-- [Float Compression 3: Filters](https://aras-p.info/blog/2023/02/01/Float-Compression-3-Filters/)
-- [Information Theory, Inference, and Learning Algorithms &lpar;2003&rpar;](https://inference.org.uk/itila/book.html)
-- [ChatGPT is a bullshit generator but it can still be amazingly useful](https://aisnakeoil.substack.com/p/chatgpt-is-a-bullshit-generator-but)
-- [Hypermedia Clients](https://htmx.org/essays/hypermedia-clients/)
-- [We need less powerful languages &lpar;2015&rpar;](https://lukeplant.me.uk/blog/posts/less-powerful-languages/)
-- [Meta Reports Fourth Quarter and Full Year 2022 Results](https://investor.fb.com/investor-news/press-release-details/2023/Meta-Reports-Fourth-Quarter-and-Full-Year-2022-Results/default.aspx)
-- [Glen Canyon Revealed](https://www.hcn.org/issues/55.2/features-water-glen-canyon-revealed)
+- [Astrée Static Analyzer for C and C++](https://www.absint.com/astree/index.htm)
+- [Show HN: An API for Pix2Pix: Edit Images with Text Prompts](https://www.leapml.dev/)
+- [DeepSource &lpar;YC W20&rpar; is looking for a Senior Front-end engineer](https://deepsource.io/jobs/listing/senior-software-engineer-frontend/4788400004/)
+- [Show HN: I trained an AI model on 120M+ songs from iTunes](https://maroofy.com/?hn=v3)
+- [Seawater electrolysis by adjusting the local reaction environment of a catalyst](https://www.nature.com/articles/s41560-023-01195-x)
+- [An obituary for the man who saved North Carolina from Nuclear Disaster](https://www.ncrabbithole.com/p/jack-revelle-goldsboro-nc-broken-arrow-obituary)
+- [Google search &#39;raters&#39; demand fair treatment, deliver petition at headquarters](https://www.mv-voice.com/news/2023/02/02/google-search-quality-raters-demand-fair-treatment-deliver-petition-at-mountain-view-headquarters)
+- [Wonderful Progress Against Severe Lupus](https://www.science.org/content/blog-post/wonderful-progress-against-severe-lupus)
+- [Engagement with fact-checked posts on Reddit](https://academic.oup.com/pnasnexus/advance-article/doi/10.1093/pnasnexus/pgad018/7008465)
+- [Chinese surveillance balloon spotted over U.S., Pentagon says](https://www.washingtonpost.com/national-security/2023/02/02/chinese-spy-balloon-pentagon/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

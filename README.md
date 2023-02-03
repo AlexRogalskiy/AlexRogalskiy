@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [OpenAI CEO Sam Altman](https://www.businessinsider.com/sam-altman-chatgpt-openai-ceo-career-net-worth-ycombinator-prepper-2023-1)
-- [Shenzhen Fuman LM358S die-shot](https://zeptobars.com/en/read/Shenzhen-Fuman-LM358S-general-purpose-opamp)
-- [Meta Platforms Q4 2022 Earnings Review](https://stockmarketnerd.substack.com/p/meta-platforms-q4-2022-earnings-review)
-- [Court in Italy rules in favour of children who do not want to see grandparents](https://www.theguardian.com/world/2023/feb/01/italy-court-rules-children-not-obliged-to-see-grandparents)
-- [The Toybox Build System](https://honeybunch.neocities.org/blog/toybox-build-system/)
-- [I just published my Python AI book](https://leanpub.com/pythonai)
-- [Your App&#39;s package.json Is Wrong](https://pedrocattori.dev/blog/your-apps-packagejson-is-wrong)
-- [Tokens, Please: Comparing OpenID Connect with Video Game “Papers, Please”](https://www.toddtee.sh/posts/github-actions-oidc/)
-- [I Migrated 300 Posts from Obsidian Publish to Ghost](https://www.bramadams.dev/202301312143/)
-- [Couple in Iran sentenced to 10 years in prison for dancing in viral video](https://www.insider.com/young-iranian-couple-imprisoned-10-years-dancing-together-video-2023-2)
+- [Show HN: AI powered audience and problem based idea generation](https://twitter.com/motyar/status/1621207818249588737)
+- [ChatGPT sets record for fastest-growing user base in history, report say](https://arstechnica.com/information-technology/2023/02/chatgpt-sets-record-for-fastest-growing-user-base-in-history-report-says/)
+- [Mexico Home for Next Tesla Factory](https://www.tesmanian.com/blogs/tesmanian-blog/tesla-to-announce-a-new-factory-in-mexico-soon-says-countrys-foreign-affairs-minister)
+- [Alive: Uruguayan Air Force 571](https://en.wikipedia.org/wiki/Uruguayan_Air_Force_Flight_571)
+- [ISP admits lying to FCC about size of network to block funding to rivals](https://arstechnica.com/tech-policy/2023/02/cable-company-tries-to-block-grants-to-rivals-by-lying-about-coverage-area/)
+- [Cover Browser: 450k Covers of Comics, Books](https://www.coverbrowser.com/)
+- [Twitter&#39;s new basic API tier to be about $100 per month with ID verification](https://twitter.com/elonmusk/status/1621259936524300289)
+- [Tether: The former plastic surgeon behind the crypto reserve currency &lpar;2021&rpar;](https://www.ft.com/content/4da3060c-8e1a-439f-a1d7-a6a4688ad6ca)
+- [The First Television Journal &lpar;1928&rpar;](https://comicbookplus.com/?dlid=37097)
+- [This Resumé Got Me an Interview](https://old.reddit.com/r/recruitinghell/comments/qhg5jo/this_resume_got_me_an_interview/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

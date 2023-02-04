@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Italian mob suspect Edgardo Greco found working as pizza chef after 16 years on run](https://www.theguardian.com/world/2023/feb/03/italian-mob-suspect-edgardo-greco-found-working-as-pizza-chef-after-16-years-on-run)
-- [Pentagon says it is monitoring Chinese spy balloon spotted flying over US](https://www.theguardian.com/us-news/2023/feb/02/pentagon-chinese-spy-balloon)
-- [Russia-Ukraine war at a glance: what we know on day 345 of the invasion](https://www.theguardian.com/world/2023/feb/03/russia-ukraine-war-at-a-glance-what-we-know-on-day-345-of-the-invasion)
-- [Putin uses Stalingrad trip to liken Ukraine to second world war](https://www.theguardian.com/world/2023/feb/02/stalingrad-events-see-putin-warn-of-response-to-western-aggression)
-- [Northern Ireland fire chief appeals for strike cover to avoid army call-up](https://www.theguardian.com/uk-news/2023/feb/03/northern-ireland-fire-chief-appeals-for-strike-cover-to-avoid-army-call-up)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/blog/2023/feb/03/premier-league-10-things-to-look-out-for-this-weekend)
-- [Apple posts first revenue drop in four years](https://www.theguardian.com/technology/2023/feb/02/apple-revenue-drop-first-quarter-fiscal-year-2023)
-- [Potter admits challenge of keeping larger dressing room happy at Chelsea](https://www.theguardian.com/football/2023/feb/02/graham-potter-admits-challenge-of-keeping-dressing-room-happy-at-chelsea)
-- [New Jersey councilmember shot and killed outside of her home](https://www.theguardian.com/us-news/2023/feb/02/eunice-dwumfour-new-jersey-councilmember-killed)
-- [Ofgem warns suppliers over forcible installation of prepayment meters](https://www.theguardian.com/business/2023/feb/02/watchdog-urges-uk-energy-suppliers-to-use-only-accredited-bailiffs)
+- [Russia-Ukraine war at a glance: what we know on day 346 of the invasion](https://www.theguardian.com/world/2023/feb/04/russia-ukraine-war-at-a-glance-what-we-know-on-day-346-of-the-invasion)
+- [John Lydon loses out on Eurovision selection as Wild Youth chosen to represent Ireland](https://www.theguardian.com/tv-and-radio/2023/feb/04/john-lydon-loses-out-on-eurovision-selection-as-wild-youth-chosen-to-represent-ireland)
+- [Chile widens state of emergency as raging wildfires leave at least 13 dead](https://www.theguardian.com/world/2023/feb/03/chile-wildfires-state-of-emergency)
+- [Sixth Memphis police officer fired for role in arrest of Tyre Nichols](https://www.theguardian.com/us-news/2023/feb/03/sixth-memphis-police-officer-fired-tyre-nichols-arrest)
+- [Three teenage boys charged with murder of man, 20, in Walsall](https://www.theguardian.com/uk-news/2023/feb/04/three-teenage-boys-charged-with-of-man-20-in-walsall)
+- [Six-year-old uses father’s phone to order $1,000 worth of food on Grubhub](https://www.theguardian.com/us-news/2023/feb/03/six-year-old-orders-1000-worth-food-grubhub)
+- [Right Here, Right Now review – Fatboy Slim’s beach concert will make you flinch with anxiety](https://www.theguardian.com/tv-and-radio/2023/feb/03/right-here-right-now-review-fatboy-slims-beach-concert-will-make-you-flinch-with-anxiety)
+- [Digested week: Alec Baldwin on gun control? Silence would be preferable | Emma Brockes](https://www.theguardian.com/uk-news/emma-brockes-column/2023/feb/03/digested-week-alec-baldwin-on-gun-control-silence-would-be-preferable)
+- [New add to George Santos’s résumé: producer on Spider-Man musical](https://www.theguardian.com/us-news/2023/feb/03/george-santos-producer-spider-man-musical)
+- [Royal Navy sailors in hospital after ‘wrong chemical’ added to ship’s water](https://www.theguardian.com/uk-news/2023/feb/03/royal-navy-sailors-in-hospital-after-wrong-chemical-added-to-ships-water)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

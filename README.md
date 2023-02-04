@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: AI powered audience and problem based idea generation](https://twitter.com/motyar/status/1621207818249588737)
-- [ChatGPT sets record for fastest-growing user base in history, report say](https://arstechnica.com/information-technology/2023/02/chatgpt-sets-record-for-fastest-growing-user-base-in-history-report-says/)
-- [Mexico Home for Next Tesla Factory](https://www.tesmanian.com/blogs/tesmanian-blog/tesla-to-announce-a-new-factory-in-mexico-soon-says-countrys-foreign-affairs-minister)
-- [Alive: Uruguayan Air Force 571](https://en.wikipedia.org/wiki/Uruguayan_Air_Force_Flight_571)
-- [ISP admits lying to FCC about size of network to block funding to rivals](https://arstechnica.com/tech-policy/2023/02/cable-company-tries-to-block-grants-to-rivals-by-lying-about-coverage-area/)
-- [Cover Browser: 450k Covers of Comics, Books](https://www.coverbrowser.com/)
-- [Twitter&#39;s new basic API tier to be about $100 per month with ID verification](https://twitter.com/elonmusk/status/1621259936524300289)
-- [Tether: The former plastic surgeon behind the crypto reserve currency &lpar;2021&rpar;](https://www.ft.com/content/4da3060c-8e1a-439f-a1d7-a6a4688ad6ca)
-- [The First Television Journal &lpar;1928&rpar;](https://comicbookplus.com/?dlid=37097)
-- [This Resumé Got Me an Interview](https://old.reddit.com/r/recruitinghell/comments/qhg5jo/this_resume_got_me_an_interview/)
+- [Top comparison PS5 vs. Xbox Series X](https://news.ycombinator.com/item?id=34650715)
+- [The optimal amount of fraud is non-zero](https://www.bitsaboutmoney.com/archive/optimal-amount-of-fraud/)
+- [Page Turners: Literature in Ancient Egypt](https://www.britishmuseum.org/blog/page-turners-literature-ancient-egypt)
+- [Informational Lobbying and Commercial Diplomacy [pdf]](https://www.calvinthrall.com/assets/amcham_adst_0.5.0.pdf)
+- [$100M Magic: Why Bruno Mars and Other Stars Are Ditching Their Managers](https://www.forbes.com/sites/forbesdigitalcovers/2018/07/16/100m-magic-why-bruno-mars-and-other-stars-are-ditching-their-managers/)
+- [Indoor Air Quality and Strategic Decision Making](https://pubsonline.informs.org/doi/10.1287/mnsc.2022.4643)
+- [BLIP-2 Image to text demo](https://huggingface.co/spaces/Salesforce/BLIP2)
+- [Review of statistical methods to accelerate the speed of A/B testing](https://aurimas.eu/blog/2023/01/getting-to-decisions-faster-in-a-b-tests-part-1-literature-review/)
+- [Vulkan Scene Graph. The Open Scene Graph Successor](https://github.com/vsg-dev/VulkanSceneGraph)
+- [A New Drug Switched Off My Appetite. What’s Left?](https://www.wired.com/story/new-drug-switched-off-appetite-mounjaro/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

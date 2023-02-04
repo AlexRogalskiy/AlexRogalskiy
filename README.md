@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Astrée Static Analyzer for C and C++](https://www.absint.com/astree/index.htm)
-- [Show HN: An API for Pix2Pix: Edit Images with Text Prompts](https://www.leapml.dev/)
-- [DeepSource &lpar;YC W20&rpar; is looking for a Senior Front-end engineer](https://deepsource.io/jobs/listing/senior-software-engineer-frontend/4788400004/)
-- [Show HN: I trained an AI model on 120M+ songs from iTunes](https://maroofy.com/?hn=v3)
-- [Seawater electrolysis by adjusting the local reaction environment of a catalyst](https://www.nature.com/articles/s41560-023-01195-x)
-- [An obituary for the man who saved North Carolina from Nuclear Disaster](https://www.ncrabbithole.com/p/jack-revelle-goldsboro-nc-broken-arrow-obituary)
-- [Google search &#39;raters&#39; demand fair treatment, deliver petition at headquarters](https://www.mv-voice.com/news/2023/02/02/google-search-quality-raters-demand-fair-treatment-deliver-petition-at-mountain-view-headquarters)
-- [Wonderful Progress Against Severe Lupus](https://www.science.org/content/blog-post/wonderful-progress-against-severe-lupus)
-- [Engagement with fact-checked posts on Reddit](https://academic.oup.com/pnasnexus/advance-article/doi/10.1093/pnasnexus/pgad018/7008465)
-- [Chinese surveillance balloon spotted over U.S., Pentagon says](https://www.washingtonpost.com/national-security/2023/02/02/chinese-spy-balloon-pentagon/)
+- [Polish communist era 8 bit computer used in banks, MK-45 outdated at arrival](https://www.youtube.com/watch?v=CMRAMxtS21A)
+- [Hustle bros are jumping on the AI bandwagon](https://www.theverge.com/2023/2/2/23582772/chatgpt-ai-get-rich-quick-schemes-hustlers-web)
+- [The KLF: Chaos, magic and the band who burned £1M](https://johnhiggs.com/books/the-klf/)
+- [A single line of code brought down a half-billion euro rocket launch](https://jam.dev/blog/famous-bugs-rocket-launch/)
+- [Show HN: Webapp.io - Free firecracker-based full-stack hosting](https://webapp.io/hosting)
+- [43 Hours on the Amtrak Southwest Chief](https://www.0x58ed.com/blog/amtrak-southwest-chief)
+- [Show HN: DocsGPT, open-source documentation assistant, fully aware of libraries](https://github.com/arc53/docsgpt)
+- [Is this poison ivy?](https://www.birdandmoon.com/poisonivy/)
+- [Critique of the mind/body problem](https://www.jsanilac.com/mind/)
+- [Update on Samsung SSD Reliability](https://www.pugetsystems.com/blog/2023/02/02/update-on-samsung-ssd-reliability/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

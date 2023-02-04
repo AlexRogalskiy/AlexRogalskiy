@@ -355,6 +355,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Apple’s $117.2 billion Q1 misses earnings expectations](https://www.computerworld.com/article/3687130/apples-1172-billion-q1-misses-earnings-expectations.html#tk.rss_all)
+- [How to protect your privacy in Windows 11](https://www.computerworld.com/article/3684413/how-to-protect-your-privacy-in-windows-11.html#tk.rss_all)
+- [5 more out-of-sight options to supercharge Google Assistant on Android](https://www.computerworld.com/article/3686478/google-assistant-android-options.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [Microsoft’s new Teams Premium tier integrates with OpenAI&#39;s GPT-3.5](https://www.computerworld.com/article/3687170/microsoft-s-new-teams-premium-tier-integrates-with-openais-gpt-3-5.html#tk.rss_all)
 - [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
@@ -362,9 +365,6 @@
 - [ACLU, public defenders push back against Google giving police your mobile data](https://www.computerworld.com/article/3686535/aclu-public-defenders-push-back-against-google-giving-police-your-mobile-data.html#tk.rss_all)
 - [Over 100K of unfilled jobs for IT workers eliminated in the US: Report](https://www.computerworld.com/article/3687208/over-100k-of-unfilled-jobs-for-it-workers-eliminated-in-the-us-report.html#tk.rss_all)
 - [Intel cuts employee, executive salaries as it faces weak PC, chip demand](https://www.computerworld.com/article/3686968/intel-cuts-employee-executive-salaries-as-it-faces-weak-pc-chip-demand.html#tk.rss_all)
-- [US agency calls Apple, Google App Stores &#39;harmful&#39;](https://www.computerworld.com/article/3686949/us-agency-calls-apple-google-app-stores-harmful.html#tk.rss_all)
-- [BrandPost: Come What May: Anticipate Disasters — and Recover Quickly](https://www.computerworld.com/article/3686948/come-what-may-anticipate-disasters-and-recover-quickly.html#tk.rss_all)
-- [BrandPost: Making the Mainframe Central to Your Data Fabric Strategy](https://www.computerworld.com/article/3686048/making-the-mainframe-central-to-your-data-fabric-strategy.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Polish communist era 8 bit computer used in banks, MK-45 outdated at arrival](https://www.youtube.com/watch?v=CMRAMxtS21A)
-- [Hustle bros are jumping on the AI bandwagon](https://www.theverge.com/2023/2/2/23582772/chatgpt-ai-get-rich-quick-schemes-hustlers-web)
-- [The KLF: Chaos, magic and the band who burned £1M](https://johnhiggs.com/books/the-klf/)
-- [A single line of code brought down a half-billion euro rocket launch](https://jam.dev/blog/famous-bugs-rocket-launch/)
-- [Show HN: Webapp.io - Free firecracker-based full-stack hosting](https://webapp.io/hosting)
-- [43 Hours on the Amtrak Southwest Chief](https://www.0x58ed.com/blog/amtrak-southwest-chief)
-- [Show HN: DocsGPT, open-source documentation assistant, fully aware of libraries](https://github.com/arc53/docsgpt)
-- [Is this poison ivy?](https://www.birdandmoon.com/poisonivy/)
-- [Critique of the mind/body problem](https://www.jsanilac.com/mind/)
-- [Update on Samsung SSD Reliability](https://www.pugetsystems.com/blog/2023/02/02/update-on-samsung-ssd-reliability/)
+- [I&#39;ve been told &lpar;many times&rpar; that “the good employees never get laid off”](https://twitter.com/d_feldman/status/1621767964533063681)
+- [The Market for Lemons -  Alex Russell on JS frontends](https://infrequently.org/2023/02/the-market-for-lemons/)
+- [Showering at the South Pole](https://brr.fyi/posts/showering-at-the-south-pole)
+- [Augmenting Human Intellect: A Conceptual Framework](https://www.dougengelbart.org/pubs/augment-3906.html)
+- [U.S. military shoots down suspected Chinese surveillance balloon](https://www.cnbc.com/2023/02/04/us-military-prepares-to-take-down-suspected-chinese-surveillance-balloon.html)
+- [Sussman Explains the End of SICP](https://irreal.org/blog/?p=11127)
+- [The Magic of Sampling, and Its Limitations](https://research.swtch.com/sample)
+- [Nostr.how – A Complete Guide to Nostr](https://www.nostr.how/)
+- [Scalability is overrated](https://waseem.substack.com/p/scalability-is-overrated)
+- [Libostree](https://ostreedev.github.io/ostree/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

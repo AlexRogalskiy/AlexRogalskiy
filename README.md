@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Top comparison PS5 vs. Xbox Series X](https://news.ycombinator.com/item?id=34650715)
-- [The optimal amount of fraud is non-zero](https://www.bitsaboutmoney.com/archive/optimal-amount-of-fraud/)
-- [Page Turners: Literature in Ancient Egypt](https://www.britishmuseum.org/blog/page-turners-literature-ancient-egypt)
-- [Informational Lobbying and Commercial Diplomacy [pdf]](https://www.calvinthrall.com/assets/amcham_adst_0.5.0.pdf)
-- [$100M Magic: Why Bruno Mars and Other Stars Are Ditching Their Managers](https://www.forbes.com/sites/forbesdigitalcovers/2018/07/16/100m-magic-why-bruno-mars-and-other-stars-are-ditching-their-managers/)
-- [Indoor Air Quality and Strategic Decision Making](https://pubsonline.informs.org/doi/10.1287/mnsc.2022.4643)
-- [BLIP-2 Image to text demo](https://huggingface.co/spaces/Salesforce/BLIP2)
-- [Review of statistical methods to accelerate the speed of A/B testing](https://aurimas.eu/blog/2023/01/getting-to-decisions-faster-in-a-b-tests-part-1-literature-review/)
-- [Vulkan Scene Graph. The Open Scene Graph Successor](https://github.com/vsg-dev/VulkanSceneGraph)
-- [A New Drug Switched Off My Appetite. What’s Left?](https://www.wired.com/story/new-drug-switched-off-appetite-mounjaro/)
+- [A more interesting animation app, good interaction details](https://news.ycombinator.com/item?id=34661061)
+- [Squaring 2 digit numbers, mentally](https://www.nigamanth.com/blog/2023/squaring-trick.html)
+- [MBTI Explorer](https://twitter.com/elzr/status/1621624447286509568)
+- [Near-miss between FedEx and Southwest flights in Austin](https://twitter.com/winglets747/status/1622038080680038400)
+- [California scraps plans to mandate Covid-19 vaccines for schoolchildren](https://www.washingtonexaminer.com/policy/healthcare/california-scraps-plans-mandate-covid-19-vaccines-schoolchildren)
+- [2001: In China Computers Erodes Traditional Handwriting Stirring Cultural Debate](https://www.nytimes.com/2001/02/01/technology/in-china-computer-use-erodes-traditional-handwriting-stirring-a.html)
+- [The Blazing World](https://en.wikipedia.org/wiki/The_Blazing_World)
+- [An Even Deadlier Pandemic Could Soon Be Here](https://www.nytimes.com/2023/02/03/opinion/bird-flu-h5n1-pandemic.html)
+- [I&#39;ve been told &lpar;many times&rpar; that “the good employees never get laid off”](https://twitter.com/d_feldman/status/1621767964533063681)
+- [Netflix slammed for portraying Jews as &#39;white, privileged and racist&#39;](https://www.thejc.com/news/world/netflix-slammed-for-portraying-jews-as-white-privileged-and-racist-in-hit-rom-com-%27you-people%27-3GaQubnMuhkdJMA35rmD7T)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war at a glance: what we know on day 346 of the invasion](https://www.theguardian.com/world/2023/feb/04/russia-ukraine-war-at-a-glance-what-we-know-on-day-346-of-the-invasion)
-- [John Lydon loses out on Eurovision selection as Wild Youth chosen to represent Ireland](https://www.theguardian.com/tv-and-radio/2023/feb/04/john-lydon-loses-out-on-eurovision-selection-as-wild-youth-chosen-to-represent-ireland)
-- [Chile widens state of emergency as raging wildfires leave at least 13 dead](https://www.theguardian.com/world/2023/feb/03/chile-wildfires-state-of-emergency)
-- [Sixth Memphis police officer fired for role in arrest of Tyre Nichols](https://www.theguardian.com/us-news/2023/feb/03/sixth-memphis-police-officer-fired-tyre-nichols-arrest)
-- [Three teenage boys charged with murder of man, 20, in Walsall](https://www.theguardian.com/uk-news/2023/feb/04/three-teenage-boys-charged-with-of-man-20-in-walsall)
-- [Six-year-old uses father’s phone to order $1,000 worth of food on Grubhub](https://www.theguardian.com/us-news/2023/feb/03/six-year-old-orders-1000-worth-food-grubhub)
-- [Right Here, Right Now review – Fatboy Slim’s beach concert will make you flinch with anxiety](https://www.theguardian.com/tv-and-radio/2023/feb/03/right-here-right-now-review-fatboy-slims-beach-concert-will-make-you-flinch-with-anxiety)
-- [Digested week: Alec Baldwin on gun control? Silence would be preferable | Emma Brockes](https://www.theguardian.com/uk-news/emma-brockes-column/2023/feb/03/digested-week-alec-baldwin-on-gun-control-silence-would-be-preferable)
-- [New add to George Santos’s résumé: producer on Spider-Man musical](https://www.theguardian.com/us-news/2023/feb/03/george-santos-producer-spider-man-musical)
-- [Royal Navy sailors in hospital after ‘wrong chemical’ added to ship’s water](https://www.theguardian.com/uk-news/2023/feb/03/royal-navy-sailors-in-hospital-after-wrong-chemical-added-to-ships-water)
+- [Russia-Ukraine war at a glance: what we know on day 347 of the invasion](https://www.theguardian.com/world/2023/feb/05/russia-ukraine-war-at-a-glance-what-we-know-on-day-347-of-the-invasion)
+- [Israel protests: thousands rally for fifth week against government’s legal reforms](https://www.theguardian.com/world/2023/feb/05/israel-protests-thousands-rally-for-fifth-week-against-governments-legal-reforms)
+- [We’ve avoided recession for now, but the outlook is one of perma-gloom](https://www.theguardian.com/business/2023/feb/05/weve-avoided-recession-for-now-but-the-outlook-is-one-of-perma-gloom)
+- [Grant Shapps tells Ofgem to toughen up over prepayment meter scandal](https://www.theguardian.com/politics/2023/feb/05/grant-shapps-tells-ofgem-to-toughen-up-over-prepayment-meter-scandal)
+- [Knit Picks:  wrap up in picture perfect woolies – in pictures](https://www.theguardian.com/fashion/gallery/2023/feb/04/knit-picks-wrap-up-in-picture-perfect-woolies-in-pictures)
+- [Clue to rising sea levels lies in DNA of 4m-year-old octopus, scientists say](https://www.theguardian.com/world/2023/feb/05/clue-to-rising-sea-levels-lies-in-dna-of-4m-year-old-octopus-scientists-say)
+- [Victim of Met police sex predator says she wants him to spend 40 years in jail](https://www.theguardian.com/uk-news/2023/feb/04/victim-of-met-police-sex-predator-says-she-wants-him-to-spend-40-years-in-jail)
+- [Liz Truss says she didn’t get ‘realistic chance’ to enact tax-cutting agenda](https://www.theguardian.com/politics/2023/feb/04/liz-truss-expected-political-comeback-sunday)
+- [US shoots down suspected Chinese spy balloon over east coast](https://www.theguardian.com/us-news/2023/feb/04/chinese-spy-balloon-shot-down-us)
+- [Marjorie Taylor Greene faces backlash for saying her salary is ‘too low’](https://www.theguardian.com/us-news/2023/feb/04/marjorie-taylor-greene-backlash-congressional-salary)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

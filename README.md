@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [I&#39;ve been told &lpar;many times&rpar; that “the good employees never get laid off”](https://twitter.com/d_feldman/status/1621767964533063681)
-- [The Market for Lemons -  Alex Russell on JS frontends](https://infrequently.org/2023/02/the-market-for-lemons/)
-- [Showering at the South Pole](https://brr.fyi/posts/showering-at-the-south-pole)
-- [Augmenting Human Intellect: A Conceptual Framework](https://www.dougengelbart.org/pubs/augment-3906.html)
-- [U.S. military shoots down suspected Chinese surveillance balloon](https://www.cnbc.com/2023/02/04/us-military-prepares-to-take-down-suspected-chinese-surveillance-balloon.html)
-- [Sussman Explains the End of SICP](https://irreal.org/blog/?p=11127)
-- [The Magic of Sampling, and Its Limitations](https://research.swtch.com/sample)
-- [Nostr.how – A Complete Guide to Nostr](https://www.nostr.how/)
-- [Scalability is overrated](https://waseem.substack.com/p/scalability-is-overrated)
-- [Libostree](https://ostreedev.github.io/ostree/)
+- [7.8 magnitude earthquake hits Turkiye](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jllz/executive)
+- [The fraudulent claims made by IBM about Watson and AI &lpar;2021&rpar;](https://www.rogerschank.com/fraudulent-claims-made-by-IBM-about-Watson-and-AI)
+- [Announcing Masonry 0.1, and my vision for Rust UI](https://poignardazur.github.io//2023/02/02/masonry-01-and-my-vision-for-rust-ui/)
+- [PhpBB 3.3.10](https://www.phpbb.com/community/viewtopic.php?t=2635986)
+- [Stable Attribution](https://www.stableattribution.com)
+- [The rise of universities’ diversity bureaucrats &lpar;2018&rpar;](https://www.economist.com/the-economist-explains/2018/05/08/the-rise-of-universities-diversity-bureaucrats)
+- [OneSignal &lpar;YC S11&rpar; Is Hiring Engineers](https://onesignal.com/careers)
+- [Duolingo’s AI Learns What You Need to Learn](https://spectrum.ieee.org/duolingo)
+- [Artificial intelligence just lost a leader](https://rjlipton.wpcomstaging.com/2023/02/05/artificial-intelligence-just-lost-a-leader/)
+- [Finland’s most-wanted hacker nabbed in France](https://krebsonsecurity.com/2023/02/finlands-most-wanted-hacker-nabbed-in-france/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

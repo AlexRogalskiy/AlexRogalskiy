@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war at a glance: what we know on day 347 of the invasion](https://www.theguardian.com/world/2023/feb/05/russia-ukraine-war-at-a-glance-what-we-know-on-day-347-of-the-invasion)
-- [Israel protests: thousands rally for fifth week against government’s legal reforms](https://www.theguardian.com/world/2023/feb/05/israel-protests-thousands-rally-for-fifth-week-against-governments-legal-reforms)
-- [We’ve avoided recession for now, but the outlook is one of perma-gloom](https://www.theguardian.com/business/2023/feb/05/weve-avoided-recession-for-now-but-the-outlook-is-one-of-perma-gloom)
-- [Grant Shapps tells Ofgem to toughen up over prepayment meter scandal](https://www.theguardian.com/politics/2023/feb/05/grant-shapps-tells-ofgem-to-toughen-up-over-prepayment-meter-scandal)
-- [Knit Picks:  wrap up in picture perfect woolies – in pictures](https://www.theguardian.com/fashion/gallery/2023/feb/04/knit-picks-wrap-up-in-picture-perfect-woolies-in-pictures)
-- [Clue to rising sea levels lies in DNA of 4m-year-old octopus, scientists say](https://www.theguardian.com/world/2023/feb/05/clue-to-rising-sea-levels-lies-in-dna-of-4m-year-old-octopus-scientists-say)
-- [Victim of Met police sex predator says she wants him to spend 40 years in jail](https://www.theguardian.com/uk-news/2023/feb/04/victim-of-met-police-sex-predator-says-she-wants-him-to-spend-40-years-in-jail)
-- [Liz Truss says she didn’t get ‘realistic chance’ to enact tax-cutting agenda](https://www.theguardian.com/politics/2023/feb/04/liz-truss-expected-political-comeback-sunday)
-- [US shoots down suspected Chinese spy balloon over east coast](https://www.theguardian.com/us-news/2023/feb/04/chinese-spy-balloon-shot-down-us)
-- [Marjorie Taylor Greene faces backlash for saying her salary is ‘too low’](https://www.theguardian.com/us-news/2023/feb/04/marjorie-taylor-greene-backlash-congressional-salary)
+- [Grammys 2023: Beyoncé and Harry Styles win early awards – live](https://www.theguardian.com/music/live/2023/feb/05/grammys-2023-harry-styles-bad-bunny-beyonce-adele-taylor-swift)
+- [Andy Farrell guarantees Johnny Sexton will be fit and ready for trip to Paris](https://www.theguardian.com/sport/2023/feb/06/rugby-union-andy-farrell-guarantees-johnny-sexton-will-be-fit-and-ready-for-trip-to-paris)
+- [UK apprenticeship levy is a £3.5bn mistake, say business leaders](https://www.theguardian.com/education/2023/feb/06/uk-apprenticeship-levy-is-a-35bn-mistake-say-business-leaders)
+- [Buddhist temple in south-east Melbourne gutted by fire](https://www.theguardian.com/australia-news/2023/feb/06/bright-moon-buddhist-temple-fire-springvale-melbourne)
+- [Head of Epsom College found dead at school alongside husband and daughter](https://www.theguardian.com/uk-news/2023/feb/05/head-of-epsom-college-found-dead-at-school-alongside-husband-and-daughter)
+- [Ukraine’s defence minister to be moved from post, says Zelenskiy ally](https://www.theguardian.com/world/2023/feb/05/talk-of-resignation-and-retreat-swirls-in-ukraine-as-bakhmut-enters-endgame)
+- [White House rejects Republican fire over wait to down Chinese spy balloon](https://www.theguardian.com/us-news/2023/feb/05/chinese-spy-balloon-biden-white-house-republicans)
+- [Happy Valley finale review – one of TV’s greatest trilogies gets a fiery farewell](https://www.theguardian.com/tv-and-radio/2023/feb/05/happy-valley-finale-review-sally-wainwright-sarah-lancashire-one-of-tvs-greatest-trilogies-gets-a-fiery-farewell)
+- [England team Borthwick inherited from Eddie Jones ‘weren’t good at anything’](https://www.theguardian.com/sport/2023/feb/05/england-team-borthwick-inherited-from-eddie-jones-werent-good-at-anything)
+- [Trump documents: Congress offered briefing on records kept at Mar-a-Lago](https://www.theguardian.com/us-news/2023/feb/05/trump-documents-congress-briefing-mar-a-lago)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

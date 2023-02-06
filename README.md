@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [A more interesting animation app, good interaction details](https://news.ycombinator.com/item?id=34661061)
-- [Squaring 2 digit numbers, mentally](https://www.nigamanth.com/blog/2023/squaring-trick.html)
-- [MBTI Explorer](https://twitter.com/elzr/status/1621624447286509568)
-- [Near-miss between FedEx and Southwest flights in Austin](https://twitter.com/winglets747/status/1622038080680038400)
-- [California scraps plans to mandate Covid-19 vaccines for schoolchildren](https://www.washingtonexaminer.com/policy/healthcare/california-scraps-plans-mandate-covid-19-vaccines-schoolchildren)
-- [2001: In China Computers Erodes Traditional Handwriting Stirring Cultural Debate](https://www.nytimes.com/2001/02/01/technology/in-china-computer-use-erodes-traditional-handwriting-stirring-a.html)
-- [The Blazing World](https://en.wikipedia.org/wiki/The_Blazing_World)
-- [An Even Deadlier Pandemic Could Soon Be Here](https://www.nytimes.com/2023/02/03/opinion/bird-flu-h5n1-pandemic.html)
-- [I&#39;ve been told &lpar;many times&rpar; that “the good employees never get laid off”](https://twitter.com/d_feldman/status/1621767964533063681)
-- [Netflix slammed for portraying Jews as &#39;white, privileged and racist&#39;](https://www.thejc.com/news/world/netflix-slammed-for-portraying-jews-as-white-privileged-and-racist-in-hit-rom-com-%27you-people%27-3GaQubnMuhkdJMA35rmD7T)
+- [Nuclear Tweets per Minute](https://nucleartweets.com/)
+- [Exploring Question Answering from Tabular Data with GPT-3 and Tapas](https://analytix.nl/post/exploring-question-answering-from-tabular-data-with-gpt-3-and-tapas/)
+- [‘Get something that’s fun to play, then think about the story’: Nintendo&#39;s Story](https://www.theguardian.com/games/2023/feb/04/how-nintendo-keeps-levelling-up)
+- [Google works on Blink-based iOS browser contrary to Apple&#39;s WebKit rule](https://www.theregister.com/2023/02/03/googles_chromium_ios/)
+- [Jailbreaking ChatGPT](https://twitter.com/venturetwins/status/1622243944649347074)
+- [Why You Should Ignore the Metagame](https://ofdollarsanddata.com/why-you-should-ignore-the-metagame/)
+- [Known tags/settings suggested to opt out of having your content in AI training](https://github.com/healsdata/ai-training-opt-out)
+- [The last type-declaration file you&#39;ll ever need](https://twitter.com/roramigator/status/1622415002727600128)
+- [Ask HN: WPM for a Programmer](https://news.ycombinator.com/item?id=34672425)
+- [“World&#39;s Food Supplies Still Under Threat,” “Multiple Risks Remain,”](https://farmpolicynews.illinois.edu/2023/01/ft-worlds-food-supplies-still-under-threat-multiple-risks-remain-notes-bloomberg-news/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

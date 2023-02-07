@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Nuclear Tweets per Minute](https://nucleartweets.com/)
-- [Exploring Question Answering from Tabular Data with GPT-3 and Tapas](https://analytix.nl/post/exploring-question-answering-from-tabular-data-with-gpt-3-and-tapas/)
-- [‘Get something that’s fun to play, then think about the story’: Nintendo&#39;s Story](https://www.theguardian.com/games/2023/feb/04/how-nintendo-keeps-levelling-up)
-- [Google works on Blink-based iOS browser contrary to Apple&#39;s WebKit rule](https://www.theregister.com/2023/02/03/googles_chromium_ios/)
-- [Jailbreaking ChatGPT](https://twitter.com/venturetwins/status/1622243944649347074)
-- [Why You Should Ignore the Metagame](https://ofdollarsanddata.com/why-you-should-ignore-the-metagame/)
-- [Known tags/settings suggested to opt out of having your content in AI training](https://github.com/healsdata/ai-training-opt-out)
-- [The last type-declaration file you&#39;ll ever need](https://twitter.com/roramigator/status/1622415002727600128)
-- [Ask HN: WPM for a Programmer](https://news.ycombinator.com/item?id=34672425)
-- [“World&#39;s Food Supplies Still Under Threat,” “Multiple Risks Remain,”](https://farmpolicynews.illinois.edu/2023/01/ft-worlds-food-supplies-still-under-threat-multiple-risks-remain-notes-bloomberg-news/)
+- [Embarrassment as US cyber ambassador&#39;s Twitter account is hacked](https://www.theregister.com/2023/02/06/us_cyber_ambassador_hacked/)
+- [The Dawn of Rigour in the Art of Programming &lpar;2023 Interview with Don Knuth&rpar;](https://bhavana.org.in/the-dawn-of-rigour-in-the-art-of-programming/)
+- [mactype: Better font rendering for Windows.](https://github.com/snowie2000/mactype)
+- [Open Source Internship Programs You Can Apply to &lpar;Updated for 2023&rpar;](https://navendu.me/posts/open-source-internship-programs/)
+- [Hwasong Concentration Camp](https://en.wikipedia.org/wiki/Hwasong_concentration_camp)
+- [Previous Chinese balloon incursions were studied by Pentagon UFO task force](https://www.nytimes.com/2023/02/06/us/politics/china-spy-balloon-trump-administration.html)
+- [Bonus Wisdom of Crowds Analysis](https://astralcodexten.substack.com/p/bonus-wisdom-of-crowds-analysis)
+- [Redacted Secrets of NSA &lpar;2008&rpar;](http://www.literatecode.com/nsa)
+- [Penske Media Takes Big Stake in Vox Media](https://variety.com/2023/digital/news/pmc-acquires-vox-media-investment-stake-1235514761/)
+- [Why do pop songs have so many songwriters?](https://tedium.co/2023/02/04/why-do-modern-pop-songs-have-so-many-credited-writers/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [7.8 magnitude earthquake hits Turkiye](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jllz/executive)
-- [The fraudulent claims made by IBM about Watson and AI &lpar;2021&rpar;](https://www.rogerschank.com/fraudulent-claims-made-by-IBM-about-Watson-and-AI)
-- [Announcing Masonry 0.1, and my vision for Rust UI](https://poignardazur.github.io//2023/02/02/masonry-01-and-my-vision-for-rust-ui/)
-- [PhpBB 3.3.10](https://www.phpbb.com/community/viewtopic.php?t=2635986)
-- [Stable Attribution](https://www.stableattribution.com)
-- [The rise of universities’ diversity bureaucrats &lpar;2018&rpar;](https://www.economist.com/the-economist-explains/2018/05/08/the-rise-of-universities-diversity-bureaucrats)
-- [OneSignal &lpar;YC S11&rpar; Is Hiring Engineers](https://onesignal.com/careers)
-- [Duolingo’s AI Learns What You Need to Learn](https://spectrum.ieee.org/duolingo)
-- [Artificial intelligence just lost a leader](https://rjlipton.wpcomstaging.com/2023/02/05/artificial-intelligence-just-lost-a-leader/)
-- [Finland’s most-wanted hacker nabbed in France](https://krebsonsecurity.com/2023/02/finlands-most-wanted-hacker-nabbed-in-france/)
+- [Silicon Valley needs to stop laying off workers and start firing CEOs](https://www.businessinsider.com/fire-blame-ceo-tech-employee-layoffs-google-facebook-salesforce-amazon-2023-2)
+- [We come to bury ChatGPT, not to praise it](https://www.danmcquillan.org/chatgpt.html)
+- [Simulation of tsunami from dinosaur-killing asteroid that brought 2.5 mile waves](https://sos.noaa.gov/catalog/datasets/tsunami-asteroid-impact-66-million-years-ago/)
+- [Turkey earthquake: please keep 28.540 clear for communications](https://forums.qrz.com/index.php?threads/turkey-earthquake-please-keep-28-540-clear-for-communications.850385/)
+- [I don’t want a new phone, but I’m probably buying one](https://www.kooslooijesteijn.net/blog/you-are-making-me-buy-a-new-phone)
+- [The Dutch benefits scandal: a cautionary tale for algorithmic enforcement](https://eulawenforcement.com/?p=7941)
+- [Show HN: Flappy Bird and Wordle](https://flappybirdle.com/)
+- [The United States Frequency Allocation Chart](https://www.beautifulpublicdata.com/the-united-states-radio-frequency-allocation-chart/)
+- [Visual design rules you can safely follow](https://anthonyhobday.com/sideprojects/saferules/)
+- [Explore the Silk Roads](https://www.intofarlands.com/the-silk-roads)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

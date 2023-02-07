@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Grammys 2023: Beyoncé and Harry Styles win early awards – live](https://www.theguardian.com/music/live/2023/feb/05/grammys-2023-harry-styles-bad-bunny-beyonce-adele-taylor-swift)
-- [Andy Farrell guarantees Johnny Sexton will be fit and ready for trip to Paris](https://www.theguardian.com/sport/2023/feb/06/rugby-union-andy-farrell-guarantees-johnny-sexton-will-be-fit-and-ready-for-trip-to-paris)
-- [UK apprenticeship levy is a £3.5bn mistake, say business leaders](https://www.theguardian.com/education/2023/feb/06/uk-apprenticeship-levy-is-a-35bn-mistake-say-business-leaders)
-- [Buddhist temple in south-east Melbourne gutted by fire](https://www.theguardian.com/australia-news/2023/feb/06/bright-moon-buddhist-temple-fire-springvale-melbourne)
-- [Head of Epsom College found dead at school alongside husband and daughter](https://www.theguardian.com/uk-news/2023/feb/05/head-of-epsom-college-found-dead-at-school-alongside-husband-and-daughter)
-- [Ukraine’s defence minister to be moved from post, says Zelenskiy ally](https://www.theguardian.com/world/2023/feb/05/talk-of-resignation-and-retreat-swirls-in-ukraine-as-bakhmut-enters-endgame)
-- [White House rejects Republican fire over wait to down Chinese spy balloon](https://www.theguardian.com/us-news/2023/feb/05/chinese-spy-balloon-biden-white-house-republicans)
-- [Happy Valley finale review – one of TV’s greatest trilogies gets a fiery farewell](https://www.theguardian.com/tv-and-radio/2023/feb/05/happy-valley-finale-review-sally-wainwright-sarah-lancashire-one-of-tvs-greatest-trilogies-gets-a-fiery-farewell)
-- [England team Borthwick inherited from Eddie Jones ‘weren’t good at anything’](https://www.theguardian.com/sport/2023/feb/05/england-team-borthwick-inherited-from-eddie-jones-werent-good-at-anything)
-- [Trump documents: Congress offered briefing on records kept at Mar-a-Lago](https://www.theguardian.com/us-news/2023/feb/05/trump-documents-congress-briefing-mar-a-lago)
+- [Pamela Anderson to host Pamela’s Cooking with Love, a plant-based cooking show](https://www.theguardian.com/culture/2023/feb/07/pamela-anderson-host-pamelas-cooking-with-love-plant-based-cooking-show)
+- [Dozens of lawsuits claim hair relaxers cause cancer and other health problems](https://www.theguardian.com/us-news/2023/feb/06/loreal-hair-relaxer-lawsuit-cancer)
+- [Russia-Ukraine war at a glance: what we know on day 349 of the invasion](https://www.theguardian.com/world/2023/feb/07/russia-ukraine-war-at-a-glance-what-we-know-on-day-349-of-the-invasion)
+- [Hundreds more bus services in England under threat amid funding shortfall](https://www.theguardian.com/uk-news/2023/feb/07/hundreds-more-bus-services-in-england-under-threat-amid-funding-shortfall)
+- [Expert diver says he ‘doesn’t think’ Nicola Bulley is in River Wyre](https://www.theguardian.com/uk-news/2023/feb/06/nicola-bulley-missing-search-river-forensic-expert)
+- [Pilots survive Boeing 737 water bomber crash while fighting bushfire in Western Australia](https://www.theguardian.com/australia-news/2023/feb/07/pilots-survive-boeing-737-water-bomber-crash-while-fighting-bushfire-in-western-australia)
+- [War of words over downed Chinese spy balloon continues as US recovers debris](https://www.theguardian.com/world/2023/feb/06/china-accuses-us-of-overreaction-after-it-shot-down-high-altitude-balloon)
+- [Cohabiting adults have lower blood sugar levels, study finds](https://www.theguardian.com/society/2023/feb/06/cohabiting-adults-lower-blood-sugar-levels-study)
+- [Flaco the owl flees New York Central Park zoo after enclosure vandalized](https://www.theguardian.com/us-news/2023/feb/06/flaco-owl-escapes-new-york-central-park-zoo)
+- [Ghana’s Christian Atsu remains missing after Turkey earthquakes](https://www.theguardian.com/football/2023/feb/06/christian-atsu-turkey-earthquakes-hatayspor-newcastle-chelsea)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

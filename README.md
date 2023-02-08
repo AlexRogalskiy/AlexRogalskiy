@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Pamela Anderson to host Pamela’s Cooking with Love, a plant-based cooking show](https://www.theguardian.com/culture/2023/feb/07/pamela-anderson-host-pamelas-cooking-with-love-plant-based-cooking-show)
-- [Dozens of lawsuits claim hair relaxers cause cancer and other health problems](https://www.theguardian.com/us-news/2023/feb/06/loreal-hair-relaxer-lawsuit-cancer)
-- [Russia-Ukraine war at a glance: what we know on day 349 of the invasion](https://www.theguardian.com/world/2023/feb/07/russia-ukraine-war-at-a-glance-what-we-know-on-day-349-of-the-invasion)
-- [Hundreds more bus services in England under threat amid funding shortfall](https://www.theguardian.com/uk-news/2023/feb/07/hundreds-more-bus-services-in-england-under-threat-amid-funding-shortfall)
-- [Expert diver says he ‘doesn’t think’ Nicola Bulley is in River Wyre](https://www.theguardian.com/uk-news/2023/feb/06/nicola-bulley-missing-search-river-forensic-expert)
-- [Pilots survive Boeing 737 water bomber crash while fighting bushfire in Western Australia](https://www.theguardian.com/australia-news/2023/feb/07/pilots-survive-boeing-737-water-bomber-crash-while-fighting-bushfire-in-western-australia)
-- [War of words over downed Chinese spy balloon continues as US recovers debris](https://www.theguardian.com/world/2023/feb/06/china-accuses-us-of-overreaction-after-it-shot-down-high-altitude-balloon)
-- [Cohabiting adults have lower blood sugar levels, study finds](https://www.theguardian.com/society/2023/feb/06/cohabiting-adults-lower-blood-sugar-levels-study)
-- [Flaco the owl flees New York Central Park zoo after enclosure vandalized](https://www.theguardian.com/us-news/2023/feb/06/flaco-owl-escapes-new-york-central-park-zoo)
-- [Ghana’s Christian Atsu remains missing after Turkey earthquakes](https://www.theguardian.com/football/2023/feb/06/christian-atsu-turkey-earthquakes-hatayspor-newcastle-chelsea)
+- [Joe Biden urges Congress to unite to ‘finish the job’ in State of the Union address – live](https://www.theguardian.com/us-news/live/2023/feb/07/joe-biden-state-of-the-union-us-politics-live)
+- [Canada’s Justin Trudeau greets political opponent with awkward handshake](https://www.theguardian.com/world/2023/feb/08/canadas-justin-trudeau-greets-political-opponent-with-awkward-handshake)
+- [Separatists fighters in Papua hold New Zealand pilot hostage](https://www.theguardian.com/world/2023/feb/08/separatists-fighters-in-papua-hold-new-zealand-pilot-hostage)
+- [‘A bit of a hoarder’: woodpeckers stash 700lbs of nuts in California home](https://www.theguardian.com/environment/2023/feb/07/woodpeckers-700lbs-acorns-santa-rosa-california)
+- [‘We just want to live in a normal world’: China’s young protesters speak out, and disappear](https://www.theguardian.com/world/2023/feb/08/we-just-want-to-live-in-a-normal-world-chinas-young-protesters-speak-out-and-disappear)
+- [Zoom cuts workforce by 15% as pandemic-driven demand wanes](https://www.theguardian.com/technology/2023/feb/07/zoom-layoff-cuts-workforce-by-15-percent)
+- [Russia-Ukraine war at a glance: what we know on day 350 of the invasion](https://www.theguardian.com/world/2023/feb/08/russia-ukraine-war-at-a-glance-what-we-know-on-day-350-of-the-invasion)
+- [Epsom College ‘to close until after half-term’ owing to homicide inquiry](https://www.theguardian.com/uk-news/2023/feb/08/epsom-college-to-close-until-after-half-term-owing-to-homicide-inquiry)
+- [McDonald’s signs legal pledge amid UK sexual harassment concerns](https://www.theguardian.com/business/2023/feb/08/mcdonalds-signs-legal-pledge-amid-uk-sexual-harassment-concerns)
+- [Raging Bull to be given home at Birmingham New Street station](https://www.theguardian.com/uk-news/2023/feb/08/raging-bull-to-be-given-home-at-birmingham-new-street-station)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

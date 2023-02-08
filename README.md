@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Embarrassment as US cyber ambassador&#39;s Twitter account is hacked](https://www.theregister.com/2023/02/06/us_cyber_ambassador_hacked/)
-- [The Dawn of Rigour in the Art of Programming &lpar;2023 Interview with Don Knuth&rpar;](https://bhavana.org.in/the-dawn-of-rigour-in-the-art-of-programming/)
-- [mactype: Better font rendering for Windows.](https://github.com/snowie2000/mactype)
-- [Open Source Internship Programs You Can Apply to &lpar;Updated for 2023&rpar;](https://navendu.me/posts/open-source-internship-programs/)
-- [Hwasong Concentration Camp](https://en.wikipedia.org/wiki/Hwasong_concentration_camp)
-- [Previous Chinese balloon incursions were studied by Pentagon UFO task force](https://www.nytimes.com/2023/02/06/us/politics/china-spy-balloon-trump-administration.html)
-- [Bonus Wisdom of Crowds Analysis](https://astralcodexten.substack.com/p/bonus-wisdom-of-crowds-analysis)
-- [Redacted Secrets of NSA &lpar;2008&rpar;](http://www.literatecode.com/nsa)
-- [Penske Media Takes Big Stake in Vox Media](https://variety.com/2023/digital/news/pmc-acquires-vox-media-investment-stake-1235514761/)
-- [Why do pop songs have so many songwriters?](https://tedium.co/2023/02/04/why-do-modern-pop-songs-have-so-many-credited-writers/)
+- [Students learn more from active classrooms, but they think they’re learning less](https://statmodeling.stat.columbia.edu/2023/01/24/students-learn-more-from-active-classrooms-but-theyre-not-always-aware-of-this/)
+- [YouChat 2.0 – Unlock the Power of AI with the Search Assistant That Works](https://blog.you.com/introducing-youchat-2-0-unlock-the-power-of-ai-with-the-search-assistant-that-works-for-you-4b18aa3007bf)
+- [Culture vs. Systems &lpar;Lethain&rpar;](https://lethain.com/culture-vs-systems/)
+- [Community Site for Knife Collectors](https://www.knifewikilab.com/category/best-bushcraft-knife)
+- [Sudden Flood Risks Threaten 15M People](https://tj.news/national-post/102060210)
+- [Rephrase, an email domain to interpret and summarize your text](https://rephrase.cc/)
+- [Biden to Urge Quadrupling New 1% Tax on Stock Buybacks](https://www.wsj.com/articles/biden-to-urge-quadrupling-new-1-tax-on-stock-buybacks-11675723035)
+- [Developer Conferences Schedule](https://github.com/scraly/developers-conferences-agenda)
+- [How Schema.org Models the World of Search](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4345169)
+- [Ask HN: How to use OpenAI API with my own data?](https://news.ycombinator.com/item?id=34703196)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

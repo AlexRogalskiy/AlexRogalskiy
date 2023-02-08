@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Silicon Valley needs to stop laying off workers and start firing CEOs](https://www.businessinsider.com/fire-blame-ceo-tech-employee-layoffs-google-facebook-salesforce-amazon-2023-2)
-- [We come to bury ChatGPT, not to praise it](https://www.danmcquillan.org/chatgpt.html)
-- [Simulation of tsunami from dinosaur-killing asteroid that brought 2.5 mile waves](https://sos.noaa.gov/catalog/datasets/tsunami-asteroid-impact-66-million-years-ago/)
-- [Turkey earthquake: please keep 28.540 clear for communications](https://forums.qrz.com/index.php?threads/turkey-earthquake-please-keep-28-540-clear-for-communications.850385/)
-- [I don’t want a new phone, but I’m probably buying one](https://www.kooslooijesteijn.net/blog/you-are-making-me-buy-a-new-phone)
-- [The Dutch benefits scandal: a cautionary tale for algorithmic enforcement](https://eulawenforcement.com/?p=7941)
-- [Show HN: Flappy Bird and Wordle](https://flappybirdle.com/)
-- [The United States Frequency Allocation Chart](https://www.beautifulpublicdata.com/the-united-states-radio-frequency-allocation-chart/)
-- [Visual design rules you can safely follow](https://anthonyhobday.com/sideprojects/saferules/)
-- [Explore the Silk Roads](https://www.intofarlands.com/the-silk-roads)
+- [CBMC: The C Bounded Model Checker](https://arxiv.org/abs/2302.02384)
+- [Discovery of an Exceptionally Rare Nearby and Energetic Gamma-Ray Burst](https://arxiv.org/abs/2302.03642)
+- [Intelligence is everywhere: From AI to cephalopods](https://newhumanist.org.uk/articles/6068/intelligence-is-everywhere)
+- [Ask HN: How to know if laptop enrolled in Intel Management Engine?](https://news.ycombinator.com/item?id=34702825)
+- [Play Runescape Classic Again](https://rsc.vet/)
+- [The New Madrid Seismic Zone](https://www.usgs.gov/programs/earthquake-hazards/new-madrid-seismic-zone)
+- [Prehistoric Images and Medicines Under the Sea in Cosquer Cave](https://www.bradshawfoundation.com/cosquer/)
+- [Nintendo Will Pay Its Workers 10% More](https://www.gamespot.com/articles/nintendo-will-pay-its-workers-10-more/1100-6511268/)
+- [Nullness markers to enable flattening](https://mail.openjdk.org/pipermail/valhalla-spec-experts/2023-February/002223.html)
+- [Jerry &lpar;YC S17&rpar; Is Hiring Sr / Staff Software Engineer](https://jobs.ashbyhq.com/Jerry/142d1a0a-56e4-4deb-92bd-20c0e13d35f9)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

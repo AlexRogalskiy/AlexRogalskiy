@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Microsoft Bing is about to get chatty with OpenAI](https://www.computerworld.com/article/3687220/microsoft-bing-is-about-to-get-chatty-with-openai.html#tk.rss_all)
+- [Zoom lays off 15% of its workforce after growth spurt during pandemic](https://www.computerworld.com/article/3687176/zoom-lays-off-15-of-its-workforce-after-growth-spurt-during-pandemic.html#tk.rss_all)
+- [Qualys now supports macOS in its cloud security tools](https://www.computerworld.com/article/3687055/qualys-now-supports-macos-in-its-cloud-security-tools.html#tk.rss_all)
+- [Microsoft Outlook and Teams suffer another global outage](https://www.computerworld.com/article/3687052/microsoft-outlook-and-teams-suffer-another-global-outage.html#tk.rss_all)
+- [A game-changing Gboard Android discovery](https://www.computerworld.com/article/3687050/gboard-android-discovery.html#tk.rss_all)
+- [4 ways DEI tools can drive change across the workplace](https://www.computerworld.com/article/3685930/4-ways-dei-tools-can-drive-change-across-the-workplace.html#tk.rss_all)
 - [How many jobs are available in technology in the US?](https://www.computerworld.com/article/3542681/how-many-jobs-are-available-in-technology.html#tk.rss_all)
 - [6 less-well-known Mac productivity tips](https://www.computerworld.com/article/3687312/6-less-well-known-mac-productivity-tips.html#tk.rss_all)
 - [Dell Technologies to lay off 6,650 staffers](https://www.computerworld.com/article/3687311/dell-technologies-to-lay-off-6650-staffers.html#tk.rss_all)
 - [Q&amp;A: Fintech expert: digital wallets need this tech &#39;magic&#39; or they&#39;ll fail](https://www.computerworld.com/article/3687231/qa-fintech-expert-digital-wallets-need-this-tech-magic-or-theyll-fail.html#tk.rss_all)
-- [Apple’s $117.2 billion Q1 misses earnings expectations](https://www.computerworld.com/article/3687130/apples-1172-billion-q1-misses-earnings-expectations.html#tk.rss_all)
-- [How to protect your privacy in Windows 11](https://www.computerworld.com/article/3684413/how-to-protect-your-privacy-in-windows-11.html#tk.rss_all)
-- [5 more out-of-sight options to supercharge Google Assistant on Android](https://www.computerworld.com/article/3686478/google-assistant-android-options.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [Microsoft’s new Teams Premium tier integrates with OpenAI&#39;s GPT-3.5](https://www.computerworld.com/article/3687170/microsoft-s-new-teams-premium-tier-integrates-with-openais-gpt-3-5.html#tk.rss_all)
-- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

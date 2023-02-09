@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Students learn more from active classrooms, but they think they’re learning less](https://statmodeling.stat.columbia.edu/2023/01/24/students-learn-more-from-active-classrooms-but-theyre-not-always-aware-of-this/)
-- [YouChat 2.0 – Unlock the Power of AI with the Search Assistant That Works](https://blog.you.com/introducing-youchat-2-0-unlock-the-power-of-ai-with-the-search-assistant-that-works-for-you-4b18aa3007bf)
-- [Culture vs. Systems &lpar;Lethain&rpar;](https://lethain.com/culture-vs-systems/)
-- [Community Site for Knife Collectors](https://www.knifewikilab.com/category/best-bushcraft-knife)
-- [Sudden Flood Risks Threaten 15M People](https://tj.news/national-post/102060210)
-- [Rephrase, an email domain to interpret and summarize your text](https://rephrase.cc/)
-- [Biden to Urge Quadrupling New 1% Tax on Stock Buybacks](https://www.wsj.com/articles/biden-to-urge-quadrupling-new-1-tax-on-stock-buybacks-11675723035)
-- [Developer Conferences Schedule](https://github.com/scraly/developers-conferences-agenda)
-- [How Schema.org Models the World of Search](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4345169)
-- [Ask HN: How to use OpenAI API with my own data?](https://news.ycombinator.com/item?id=34703196)
+- [Drug Makers in Search of Contract Research Organizations](https://contractresearchorganizationnews.blogspot.com/2023/02/drug-makers-in-search-of-contract.html)
+- [Hard Earned: Meet the Working Class &lpar;2012&rpar;](https://www.youtube.com/watch?v=51aByxLOa9Q)
+- [Noise2Music: Text-Conditioned Music Generation with Diffusion Models](https://google-research.github.io/noise2music/)
+- [The first developer preview of Android 14](https://android-developers.googleblog.com/2023/02/first-developer-preview-android14.html)
+- [PowerToys Quick Accent adds the ability to type en and em dashes](https://github.com/microsoft/PowerToys/pull/20469)
+- [Cart Before the Horse or Web3’s Growth Story](https://mertdev.dev/cart-before-the-horse-or-web3s-growth-story)
+- [Reporters claim Fediverse is slumping despite increase in usage](https://www.techdirt.com/2023/02/08/lazy-reporters-claiming-fediverse-is-slumping-despite-massive-increase-in-usage/)
+- [Older PC Emulator](https://pcem-emulator.co.uk/)
+- [Netflix’s anime AI art causes background artist panic](https://restofworld.org/2023/netflix-anime-ai-artists/)
+- [Your work future could depend on how well you can talk to AI](https://www.theatlantic.com/technology/archive/2023/02/openai-text-models-google-search-engine-bard-chatbot-chatgpt-prompt-writing/672991/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

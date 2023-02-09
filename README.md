@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Joe Biden urges Congress to unite to ‘finish the job’ in State of the Union address – live](https://www.theguardian.com/us-news/live/2023/feb/07/joe-biden-state-of-the-union-us-politics-live)
-- [Canada’s Justin Trudeau greets political opponent with awkward handshake](https://www.theguardian.com/world/2023/feb/08/canadas-justin-trudeau-greets-political-opponent-with-awkward-handshake)
-- [Separatists fighters in Papua hold New Zealand pilot hostage](https://www.theguardian.com/world/2023/feb/08/separatists-fighters-in-papua-hold-new-zealand-pilot-hostage)
-- [‘A bit of a hoarder’: woodpeckers stash 700lbs of nuts in California home](https://www.theguardian.com/environment/2023/feb/07/woodpeckers-700lbs-acorns-santa-rosa-california)
-- [‘We just want to live in a normal world’: China’s young protesters speak out, and disappear](https://www.theguardian.com/world/2023/feb/08/we-just-want-to-live-in-a-normal-world-chinas-young-protesters-speak-out-and-disappear)
-- [Zoom cuts workforce by 15% as pandemic-driven demand wanes](https://www.theguardian.com/technology/2023/feb/07/zoom-layoff-cuts-workforce-by-15-percent)
-- [Russia-Ukraine war at a glance: what we know on day 350 of the invasion](https://www.theguardian.com/world/2023/feb/08/russia-ukraine-war-at-a-glance-what-we-know-on-day-350-of-the-invasion)
-- [Epsom College ‘to close until after half-term’ owing to homicide inquiry](https://www.theguardian.com/uk-news/2023/feb/08/epsom-college-to-close-until-after-half-term-owing-to-homicide-inquiry)
-- [McDonald’s signs legal pledge amid UK sexual harassment concerns](https://www.theguardian.com/business/2023/feb/08/mcdonalds-signs-legal-pledge-amid-uk-sexual-harassment-concerns)
-- [Raging Bull to be given home at Birmingham New Street station](https://www.theguardian.com/uk-news/2023/feb/08/raging-bull-to-be-given-home-at-birmingham-new-street-station)
+- [Russia-Ukraine war at a glance: what we know on day 351 of the invasion](https://www.theguardian.com/world/2023/feb/09/russia-ukraine-war-at-a-glance-what-we-know-on-day-351-of-the-invasion)
+- [New Zealand government under fire after shelving Christchurch hate speech reforms](https://www.theguardian.com/world/2023/feb/09/new-zealand-government-under-fire-after-shelving-christchurch-hate-speech-reforms)
+- [Twitter users temporarily unable to post in latest outage since Musk takeover](https://www.theguardian.com/technology/2023/feb/09/twitter-users-temporarily-unable-to-post-in-latest-outage-since-musk-takeover)
+- [Jury rules artist’s NFTs of ‘MetaBirkins’ violate Hermès’ trademark rights](https://www.theguardian.com/fashion/2023/feb/08/hermes-metabirkins-trademark-court-case-mason-rothschild)
+- [Greenpeace threatens legal action over UK failure to meet fuel poverty targets](https://www.theguardian.com/society/2023/feb/09/greenpeace-threatens-legal-action-over-uk-failure-to-meet-fuel-poverty-targets)
+- [Students should be told of university course job prospects, says commission](https://www.theguardian.com/education/2023/feb/09/students-university-course-job-prospects-social-mobility-commission)
+- [Millions with mental health needs not seeking NHS help, watchdog says](https://www.theguardian.com/society/2023/feb/09/millions-with-mental-health-needs-not-seeking-nhs-help-watchdog-says)
+- [Wreck of ship carrying rare ‘ordinary’ crockery wins protection off Kent coast](https://www.theguardian.com/culture/2023/feb/09/wreck-of-ship-carrying-rare-ordinary-crockery-wins-protection-off-kent-coast)
+- [Disney announces 7,000 layoffs while teasing Toy Story and Frozen sequels](https://www.theguardian.com/us-news/2023/feb/08/disney-job-cuts-savings)
+- [Downed balloon one of a ‘fleet’ of Chinese surveillance devices, US alleges](https://www.theguardian.com/world/2023/feb/08/downed-balloon-one-of-a-fleet-of-chinese-surveillance-devices-us-alleges)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

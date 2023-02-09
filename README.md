@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Zoho unveils Trident unified communications platform for the enterprise](https://www.computerworld.com/article/3687142/zoho-unveils-trident-unified-communications-platform-for-the-enterprise.html#tk.rss_all)
+- [Do Google and Mozilla know something about Apple we don&#39;t?](https://www.computerworld.com/article/3687221/do-google-and-mozilla-know-something-about-apple-we-dont.html#tk.rss_all)
+- [Google Maps gets more immersive live views, even from above](https://www.computerworld.com/article/3687224/google-maps-gets-more-immersive-live-views-even-from-above.html#tk.rss_all)
+- [Windows 12 and AI: a coming boon or boondoggle?](https://www.computerworld.com/article/3687096/windows-12-and-ai-a-coming-boon-or-boondoggle.html#tk.rss_all)
 - [Microsoft Bing is about to get chatty with OpenAI](https://www.computerworld.com/article/3687220/microsoft-bing-is-about-to-get-chatty-with-openai.html#tk.rss_all)
 - [Zoom lays off 15% of its workforce after growth spurt during pandemic](https://www.computerworld.com/article/3687176/zoom-lays-off-15-of-its-workforce-after-growth-spurt-during-pandemic.html#tk.rss_all)
 - [Qualys now supports macOS in its cloud security tools](https://www.computerworld.com/article/3687055/qualys-now-supports-macos-in-its-cloud-security-tools.html#tk.rss_all)
 - [Microsoft Outlook and Teams suffer another global outage](https://www.computerworld.com/article/3687052/microsoft-outlook-and-teams-suffer-another-global-outage.html#tk.rss_all)
 - [A game-changing Gboard Android discovery](https://www.computerworld.com/article/3687050/gboard-android-discovery.html#tk.rss_all)
 - [4 ways DEI tools can drive change across the workplace](https://www.computerworld.com/article/3685930/4-ways-dei-tools-can-drive-change-across-the-workplace.html#tk.rss_all)
-- [How many jobs are available in technology in the US?](https://www.computerworld.com/article/3542681/how-many-jobs-are-available-in-technology.html#tk.rss_all)
-- [6 less-well-known Mac productivity tips](https://www.computerworld.com/article/3687312/6-less-well-known-mac-productivity-tips.html#tk.rss_all)
-- [Dell Technologies to lay off 6,650 staffers](https://www.computerworld.com/article/3687311/dell-technologies-to-lay-off-6650-staffers.html#tk.rss_all)
-- [Q&amp;A: Fintech expert: digital wallets need this tech &#39;magic&#39; or they&#39;ll fail](https://www.computerworld.com/article/3687231/qa-fintech-expert-digital-wallets-need-this-tech-magic-or-theyll-fail.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

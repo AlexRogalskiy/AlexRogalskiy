@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [CBMC: The C Bounded Model Checker](https://arxiv.org/abs/2302.02384)
-- [Discovery of an Exceptionally Rare Nearby and Energetic Gamma-Ray Burst](https://arxiv.org/abs/2302.03642)
-- [Intelligence is everywhere: From AI to cephalopods](https://newhumanist.org.uk/articles/6068/intelligence-is-everywhere)
-- [Ask HN: How to know if laptop enrolled in Intel Management Engine?](https://news.ycombinator.com/item?id=34702825)
-- [Play Runescape Classic Again](https://rsc.vet/)
-- [The New Madrid Seismic Zone](https://www.usgs.gov/programs/earthquake-hazards/new-madrid-seismic-zone)
-- [Prehistoric Images and Medicines Under the Sea in Cosquer Cave](https://www.bradshawfoundation.com/cosquer/)
-- [Nintendo Will Pay Its Workers 10% More](https://www.gamespot.com/articles/nintendo-will-pay-its-workers-10-more/1100-6511268/)
-- [Nullness markers to enable flattening](https://mail.openjdk.org/pipermail/valhalla-spec-experts/2023-February/002223.html)
-- [Jerry &lpar;YC S17&rpar; Is Hiring Sr / Staff Software Engineer](https://jobs.ashbyhq.com/Jerry/142d1a0a-56e4-4deb-92bd-20c0e13d35f9)
+- [My 2022 self was wrong about meditation, monitors, and sleep](https://guzey.com/2022-lessons/)
+- [The entire prompt of Microsoft Bing Chat](https://twitter.com/kliu128/status/1623472922374574080)
+- [Covid drug drives viral mutations – and now some want to halt its use](https://www.nature.com/articles/d41586-023-00347-z)
+- [Photoprism – open-source Google Photos Alternative](https://www.photoprism.app/)
+- [Apache Kafka Beyond the Basics: Windowing](https://www.confluent.io/blog/windowing-in-kafka-streams/)
+- [Vestas unveils solution to end landfill disposal for wind turbine blades](https://www.vestas.com/en/media/company-news/2023/vestas-unveils-circularity-solution-to-end-landfill-for-c3710818)
+- [Twitter starts limiting how many tweets you can post per day](https://forum.cktn.de/t/twitter-starts-limiting-how-many-tweets-you-can-post-per-day/493)
+- [Top byte ignore for fun and memory savings](https://www.linaro.org/blog/top-byte-ignore-for-fun-and-memory-savings/)
+- [Show HN: StackOverflow.gg – AI-generated answers to every coding question](https://stackoverflow.gg/)
+- [Is Google’s 20-year search dominance about to end?](https://www.economist.com/business/2023/02/08/is-googles-20-year-search-dominance-about-to-end)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

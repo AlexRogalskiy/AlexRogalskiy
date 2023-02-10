@@ -355,6 +355,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [Does ChatGPT spell curtains for Apple Business Chat?](https://www.computerworld.com/article/3687612/does-chatgpt-spell-curtains-for-apple-business-chat.html#tk.rss_all)
+- [Google Sheets power tips: Create an automatically updating spreadsheet](https://www.computerworld.com/article/3684733/how-to-create-automatically-updating-google-sheet.html#tk.rss_all)
 - [Zoho unveils Trident unified communications platform for the enterprise](https://www.computerworld.com/article/3687142/zoho-unveils-trident-unified-communications-platform-for-the-enterprise.html#tk.rss_all)
 - [Do Google and Mozilla know something about Apple we don&#39;t?](https://www.computerworld.com/article/3687221/do-google-and-mozilla-know-something-about-apple-we-dont.html#tk.rss_all)
 - [Google Maps gets more immersive live views, even from above](https://www.computerworld.com/article/3687224/google-maps-gets-more-immersive-live-views-even-from-above.html#tk.rss_all)
@@ -362,9 +365,6 @@
 - [Microsoft Bing is about to get chatty with OpenAI](https://www.computerworld.com/article/3687220/microsoft-bing-is-about-to-get-chatty-with-openai.html#tk.rss_all)
 - [Zoom lays off 15% of its workforce after growth spurt during pandemic](https://www.computerworld.com/article/3687176/zoom-lays-off-15-of-its-workforce-after-growth-spurt-during-pandemic.html#tk.rss_all)
 - [Qualys now supports macOS in its cloud security tools](https://www.computerworld.com/article/3687055/qualys-now-supports-macos-in-its-cloud-security-tools.html#tk.rss_all)
-- [Microsoft Outlook and Teams suffer another global outage](https://www.computerworld.com/article/3687052/microsoft-outlook-and-teams-suffer-another-global-outage.html#tk.rss_all)
-- [A game-changing Gboard Android discovery](https://www.computerworld.com/article/3687050/gboard-android-discovery.html#tk.rss_all)
-- [4 ways DEI tools can drive change across the workplace](https://www.computerworld.com/article/3685930/4-ways-dei-tools-can-drive-change-across-the-workplace.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

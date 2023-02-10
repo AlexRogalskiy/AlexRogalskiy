@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Drug Makers in Search of Contract Research Organizations](https://contractresearchorganizationnews.blogspot.com/2023/02/drug-makers-in-search-of-contract.html)
-- [Hard Earned: Meet the Working Class &lpar;2012&rpar;](https://www.youtube.com/watch?v=51aByxLOa9Q)
-- [Noise2Music: Text-Conditioned Music Generation with Diffusion Models](https://google-research.github.io/noise2music/)
-- [The first developer preview of Android 14](https://android-developers.googleblog.com/2023/02/first-developer-preview-android14.html)
-- [PowerToys Quick Accent adds the ability to type en and em dashes](https://github.com/microsoft/PowerToys/pull/20469)
-- [Cart Before the Horse or Web3’s Growth Story](https://mertdev.dev/cart-before-the-horse-or-web3s-growth-story)
-- [Reporters claim Fediverse is slumping despite increase in usage](https://www.techdirt.com/2023/02/08/lazy-reporters-claiming-fediverse-is-slumping-despite-massive-increase-in-usage/)
-- [Older PC Emulator](https://pcem-emulator.co.uk/)
-- [Netflix’s anime AI art causes background artist panic](https://restofworld.org/2023/netflix-anime-ai-artists/)
-- [Your work future could depend on how well you can talk to AI](https://www.theatlantic.com/technology/archive/2023/02/openai-text-models-google-search-engine-bard-chatbot-chatgpt-prompt-writing/672991/)
+- [High-fidelity quantum link realized](https://www.nature.com/articles/s41467-022-35285-3)
+- [Hotwire – Send HTML, Not JavaScript and JSON, over the Wire](https://hotwired.dev/)
+- [Bernstein, The greatest 5 min. in music education](https://www.youtube.com/watch?v=Gt2zubHcER4)
+- [ChatGPT Completions with C#](https://www.c-sharpcorner.com/article/chatgpt-completions-with-c-sharp/)
+- [A year after outcry, IRS still doesn’t offer taxpayers alternative to ID.me](https://cyberscoop.com/irs-facial-recognition-identity-privacy/)
+- [Ploopy Open-Source Headphones](https://ploopy.co/headphones/)
+- [I hate Stackoverflow and ChatGPT is my savior](https://fgclue.wordpress.com/2023/02/09/i-hate-stackoverflow-and-chatgpt-is-my-savior/)
+- [Shell’s board of directors sued over ‘flawed’ climate strategy](https://www.euronews.com/green/2023/02/09/shells-board-of-directors-sued-over-flawed-climate-strategy-in-first-of-its-kind-lawsuit)
+- [Ask HN: Advice for processing large quantities of data locally?](https://news.ycombinator.com/item?id=34734835)
+- [Gumby Coin: a story about a 1958 claymation character, cryptocurrency, and pizza](https://basta.substack.com/p/gumby-coin-a-wild-story-about-a-1958)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

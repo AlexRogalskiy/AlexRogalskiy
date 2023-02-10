@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [My 2022 self was wrong about meditation, monitors, and sleep](https://guzey.com/2022-lessons/)
-- [The entire prompt of Microsoft Bing Chat](https://twitter.com/kliu128/status/1623472922374574080)
-- [Covid drug drives viral mutations – and now some want to halt its use](https://www.nature.com/articles/d41586-023-00347-z)
-- [Photoprism – open-source Google Photos Alternative](https://www.photoprism.app/)
-- [Apache Kafka Beyond the Basics: Windowing](https://www.confluent.io/blog/windowing-in-kafka-streams/)
-- [Vestas unveils solution to end landfill disposal for wind turbine blades](https://www.vestas.com/en/media/company-news/2023/vestas-unveils-circularity-solution-to-end-landfill-for-c3710818)
-- [Twitter starts limiting how many tweets you can post per day](https://forum.cktn.de/t/twitter-starts-limiting-how-many-tweets-you-can-post-per-day/493)
-- [Top byte ignore for fun and memory savings](https://www.linaro.org/blog/top-byte-ignore-for-fun-and-memory-savings/)
-- [Show HN: StackOverflow.gg – AI-generated answers to every coding question](https://stackoverflow.gg/)
-- [Is Google’s 20-year search dominance about to end?](https://www.economist.com/business/2023/02/08/is-googles-20-year-search-dominance-about-to-end)
+- [Housing Starts to Look the Same](https://www.nytimes.com/2023/01/20/realestate/housing-developments-city-architecture.html)
+- [Why big tech companies need so many people](https://thebuilderjr.substack.com/p/why-big-tech-companies-need-so-many)
+- [Ask HN: Why isn’t Google cutting executive pay and bonuses?](https://news.ycombinator.com/item?id=34734422)
+- [Etleap &lpar;YC W13&rpar; Is Hiring a Software Engineer &lpar;London&rpar;](https://etleap.com/careers/software-engineer/)
+- [A new way to build with Large Language Models](https://blog.fixie.ai/introducing-fixie-ai-a-new-way-to-build-with-large-language-models-d4e1aeee6b81)
+- [Trunk-Based Development: Game Changers](https://trunkbaseddevelopment.com/game-changers/)
+- [Dragon’s Lair Overhaul Black Edition &lpar;1/16th scale&rpar;](https://newwavetoys.com/products/dragons-lair-x-replicade-overhaul-black)
+- [British Rail’s short experiment with travelling pubs &lpar;2020&rpar;](https://www.ianvisits.co.uk/articles/british-rails-short-experiment-with-travelling-pubs-36068/)
+- [Scientists document two separate reservoirs of latent HIV in patients](https://www.unc.edu/posts/2023/02/08/scientists-document-two-separate-reservoirs-of-latent-hiv-in-patients/)
+- [Image Compression with Singular Value Decomposition](http://timbaumann.info/svd-image-compression-demo/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

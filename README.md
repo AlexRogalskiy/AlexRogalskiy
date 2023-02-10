@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war at a glance: what we know on day 351 of the invasion](https://www.theguardian.com/world/2023/feb/09/russia-ukraine-war-at-a-glance-what-we-know-on-day-351-of-the-invasion)
-- [New Zealand government under fire after shelving Christchurch hate speech reforms](https://www.theguardian.com/world/2023/feb/09/new-zealand-government-under-fire-after-shelving-christchurch-hate-speech-reforms)
-- [Twitter users temporarily unable to post in latest outage since Musk takeover](https://www.theguardian.com/technology/2023/feb/09/twitter-users-temporarily-unable-to-post-in-latest-outage-since-musk-takeover)
-- [Jury rules artist’s NFTs of ‘MetaBirkins’ violate Hermès’ trademark rights](https://www.theguardian.com/fashion/2023/feb/08/hermes-metabirkins-trademark-court-case-mason-rothschild)
-- [Greenpeace threatens legal action over UK failure to meet fuel poverty targets](https://www.theguardian.com/society/2023/feb/09/greenpeace-threatens-legal-action-over-uk-failure-to-meet-fuel-poverty-targets)
-- [Students should be told of university course job prospects, says commission](https://www.theguardian.com/education/2023/feb/09/students-university-course-job-prospects-social-mobility-commission)
-- [Millions with mental health needs not seeking NHS help, watchdog says](https://www.theguardian.com/society/2023/feb/09/millions-with-mental-health-needs-not-seeking-nhs-help-watchdog-says)
-- [Wreck of ship carrying rare ‘ordinary’ crockery wins protection off Kent coast](https://www.theguardian.com/culture/2023/feb/09/wreck-of-ship-carrying-rare-ordinary-crockery-wins-protection-off-kent-coast)
-- [Disney announces 7,000 layoffs while teasing Toy Story and Frozen sequels](https://www.theguardian.com/us-news/2023/feb/08/disney-job-cuts-savings)
-- [Downed balloon one of a ‘fleet’ of Chinese surveillance devices, US alleges](https://www.theguardian.com/world/2023/feb/08/downed-balloon-one-of-a-fleet-of-chinese-surveillance-devices-us-alleges)
+- [Labour wins West Lancashire byelection with 10% swing](https://www.theguardian.com/politics/2023/feb/10/labour-wins-west-lancashire-byelection-with-big-majority)
+- [Baby born in rubble of Syria earthquake is named Aya and given a home](https://www.theguardian.com/world/2023/feb/10/baby-aya-syria-earthquake-newborn-name)
+- [Andy Farrell calls on Irish fans to be ‘weapon’ against France in Six Nations](https://www.theguardian.com/sport/2023/feb/09/dan-sheehan-injury-a-major-blow-for-ireland-ahead-of-france-showdown-six-nations-rugby-union)
+- [Mike Pence subpoenaed in Trump special counsel investigations – reports](https://www.theguardian.com/us-news/2023/feb/09/mike-pence-subpoenaed-trump-special-counsel-investigations)
+- [Russia-Ukraine war at a glance: what we know on day 352 of the invasion](https://www.theguardian.com/world/2023/feb/10/russia-ukraine-war-at-a-glance-what-we-know-on-day-352-of-the-invasion)
+- [Paramore: This Is Why review – deft songs of millennial malaise](https://www.theguardian.com/music/2023/feb/09/paramore-this-is-why-review-deft-songs-of-millennial-malaise)
+- [Thousands of Afghans who helped British forces ‘remain stranded by UK’](https://www.theguardian.com/world/2023/feb/10/thousands-of-afghans-who-helped-british-forces-remain-stranded-by-uk)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2023/feb/10/premier-league-10-things-to-look-out-for-this-weekend)
+- [UK travellers warned of a big jump in the cost of hiring a car overseas](https://www.theguardian.com/money/2023/feb/10/uk-travellers-big-jump-cost-hiring-car-overseas-which-holiday-hotspots)
+- [Your Place or Mine review – Netflix romcom has big stars but little charm](https://www.theguardian.com/film/2023/feb/09/your-place-or-mine-review-netflix-romcom-reese-witherspoon-ashton-kutcher)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

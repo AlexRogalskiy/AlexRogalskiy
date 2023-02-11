@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [High-fidelity quantum link realized](https://www.nature.com/articles/s41467-022-35285-3)
-- [Hotwire – Send HTML, Not JavaScript and JSON, over the Wire](https://hotwired.dev/)
-- [Bernstein, The greatest 5 min. in music education](https://www.youtube.com/watch?v=Gt2zubHcER4)
-- [ChatGPT Completions with C#](https://www.c-sharpcorner.com/article/chatgpt-completions-with-c-sharp/)
-- [A year after outcry, IRS still doesn’t offer taxpayers alternative to ID.me](https://cyberscoop.com/irs-facial-recognition-identity-privacy/)
-- [Ploopy Open-Source Headphones](https://ploopy.co/headphones/)
-- [I hate Stackoverflow and ChatGPT is my savior](https://fgclue.wordpress.com/2023/02/09/i-hate-stackoverflow-and-chatgpt-is-my-savior/)
-- [Shell’s board of directors sued over ‘flawed’ climate strategy](https://www.euronews.com/green/2023/02/09/shells-board-of-directors-sued-over-flawed-climate-strategy-in-first-of-its-kind-lawsuit)
-- [Ask HN: Advice for processing large quantities of data locally?](https://news.ycombinator.com/item?id=34734835)
-- [Gumby Coin: a story about a 1958 claymation character, cryptocurrency, and pizza](https://basta.substack.com/p/gumby-coin-a-wild-story-about-a-1958)
+- [The Snack-Cake Economy: How I Learned Money in Prison](https://www.wealthsimple.com/en-ca/magazine/nico-walker-money-diaries)
+- [The Cartoon Guide to Computer Science &lpar;1983&rpar;](https://archive.org/details/TheCartoonGuideToComputerScience)
+- [Inside BP’s Decision to Dial Back Its Green Transition](https://www.wsj.com/articles/inside-bps-decision-to-dial-back-its-green-transition-500d1f3c)
+- [Ask HN: Would you pay for AI art on a T-shirt?](https://news.ycombinator.com/item?id=34748887)
+- [Ask HN: Does Hacker News have keyboard shortcuts?](https://news.ycombinator.com/item?id=34748838)
+- [Harassment in video games: “moderation needs to be re-thought” &lpar;2021&rpar;](https://gameworldobserver.com/2021/10/06/sharon-fisher-on-harassment-and-toxic-behaviour-in-video-games-the-old-fashioned-approach-to-moderation-needs-to-be-re-thought)
+- [UNM gifted New Mexico’s largest public telescope](https://news.unm.edu/news/unm-taos-gifted-new-mexicos-largest-public-telescope)
+- [IBM Research&#39;s Vela is an AI supercomputer in the cloud](https://research.ibm.com/blog/AI-supercomputer-Vela-GPU-cluster)
+- [Show HN: Sauron – A live news visualization map](https://sauron.matthew.science)
+- [The Algorithm for Precision Medicine](https://bertrand.might.net/articles/algorithm-for-precision-medicine/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Tech layoffs in 2023: A timeline](https://www.computerworld.com/article/3685936/tech-layoffs-in-2023-a-timeline.html#tk.rss_all)
+- [Yahoo to lay off 20% of its staff as it cuts advertising tech business](https://www.computerworld.com/article/3687734/yahoo-to-lay-off-20-of-its-staff-as-it-cuts-advertising-tech-business.html#tk.rss_all)
+- [Microsoft cuts HoloLens, Xbox, Surface jobs as industrial metaverse team said to fold](https://www.computerworld.com/article/3687732/microsoft-cuts-hololens-xbox-surface-jobs-as-industrial-metaverse-team-said-to-fold.html#tk.rss_all)
+- [Apple&#39;s second-user smartphone business is booming](https://www.computerworld.com/article/3687613/apples-second-user-smartphone-business-is-booming.html#tk.rss_all)
+- [Why we don’t need the four-day workweek — or weekends](https://www.computerworld.com/article/3687608/why-we-don-t-need-the-four-day-workweek-or-weekends.html#tk.rss_all)
+- [The gathering AI storm between Microsoft and Google](https://www.computerworld.com/article/3687810/the-gathering-ai-storm-between-microsoft-and-google.html#tk.rss_all)
+- [10 highly useful add-ins for Microsoft Office](https://www.computerworld.com/article/3320858/10-highly-useful-add-ins-for-microsoft-office.html#tk.rss_all)
+- [12 Gboard shortcuts that&#39;ll change how you type on Android](https://www.computerworld.com/article/3626191/gboard-shortcuts-android.html#tk.rss_all)
+- [GitHub lays off 10% of workforce, plans to go fully remote to cut costs](https://www.computerworld.com/article/3687809/github-lays-off-10-of-workforce-plans-to-go-fully-remote-to-cut-costs.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [Does ChatGPT spell curtains for Apple Business Chat?](https://www.computerworld.com/article/3687612/does-chatgpt-spell-curtains-for-apple-business-chat.html#tk.rss_all)
-- [Google Sheets power tips: Create an automatically updating spreadsheet](https://www.computerworld.com/article/3684733/how-to-create-automatically-updating-google-sheet.html#tk.rss_all)
-- [Zoho unveils Trident unified communications platform for the enterprise](https://www.computerworld.com/article/3687142/zoho-unveils-trident-unified-communications-platform-for-the-enterprise.html#tk.rss_all)
-- [Do Google and Mozilla know something about Apple we don&#39;t?](https://www.computerworld.com/article/3687221/do-google-and-mozilla-know-something-about-apple-we-dont.html#tk.rss_all)
-- [Google Maps gets more immersive live views, even from above](https://www.computerworld.com/article/3687224/google-maps-gets-more-immersive-live-views-even-from-above.html#tk.rss_all)
-- [Windows 12 and AI: a coming boon or boondoggle?](https://www.computerworld.com/article/3687096/windows-12-and-ai-a-coming-boon-or-boondoggle.html#tk.rss_all)
-- [Microsoft Bing is about to get chatty with OpenAI](https://www.computerworld.com/article/3687220/microsoft-bing-is-about-to-get-chatty-with-openai.html#tk.rss_all)
-- [Zoom lays off 15% of its workforce after growth spurt during pandemic](https://www.computerworld.com/article/3687176/zoom-lays-off-15-of-its-workforce-after-growth-spurt-during-pandemic.html#tk.rss_all)
-- [Qualys now supports macOS in its cloud security tools](https://www.computerworld.com/article/3687055/qualys-now-supports-macos-in-its-cloud-security-tools.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

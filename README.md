@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Housing Starts to Look the Same](https://www.nytimes.com/2023/01/20/realestate/housing-developments-city-architecture.html)
-- [Why big tech companies need so many people](https://thebuilderjr.substack.com/p/why-big-tech-companies-need-so-many)
-- [Ask HN: Why isn’t Google cutting executive pay and bonuses?](https://news.ycombinator.com/item?id=34734422)
-- [Etleap &lpar;YC W13&rpar; Is Hiring a Software Engineer &lpar;London&rpar;](https://etleap.com/careers/software-engineer/)
-- [A new way to build with Large Language Models](https://blog.fixie.ai/introducing-fixie-ai-a-new-way-to-build-with-large-language-models-d4e1aeee6b81)
-- [Trunk-Based Development: Game Changers](https://trunkbaseddevelopment.com/game-changers/)
-- [Dragon’s Lair Overhaul Black Edition &lpar;1/16th scale&rpar;](https://newwavetoys.com/products/dragons-lair-x-replicade-overhaul-black)
-- [British Rail’s short experiment with travelling pubs &lpar;2020&rpar;](https://www.ianvisits.co.uk/articles/british-rails-short-experiment-with-travelling-pubs-36068/)
-- [Scientists document two separate reservoirs of latent HIV in patients](https://www.unc.edu/posts/2023/02/08/scientists-document-two-separate-reservoirs-of-latent-hiv-in-patients/)
-- [Image Compression with Singular Value Decomposition](http://timbaumann.info/svd-image-compression-demo/)
+- [Why Everyone Feels Like They’re Faking It](https://www.newyorker.com/magazine/2023/02/13/the-dubious-rise-of-impostor-syndrome)
+- [Treasure trove of mechanical animations](https://kottke.org/15/04/treasure-trove-of-over-1700-mechanical-animations)
+- [Why did Mozilla remove XUL add-ons? &lpar;2020&rpar;](https://yoric.github.io/post/why-did-mozilla-remove-xul-addons/)
+- [A Gentle Introduction to CRDTs](https://vlcn.io/blog/gentle-intro-to-crdts.html)
+- [Ask HN: What Happened to Elm?](https://news.ycombinator.com/item?id=34746161)
+- [US jet shoots down unknown object flying off Alaska coast](https://apnews.com/article/pentagon-shoots-down-unknown-flying-object-175f9078d1df36e392b2956ba771001e)
+- [Money Laundering and AML Compliance](https://www.bitsaboutmoney.com/archive/money-laundering-and-aml-compliance/)
+- [The Inference Cost of Search Disruption – Large Language Model Cost Analysis](https://www.semianalysis.com/p/the-inference-cost-of-search-disruption)
+- [Ask HN: Why did medium.com &quot;fail&quot;?](https://news.ycombinator.com/item?id=34743772)
+- [Understanding and coding the self-attention mechanism of large language models](https://sebastianraschka.com/blog/2023/self-attention-from-scratch.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

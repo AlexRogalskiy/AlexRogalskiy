@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Snack-Cake Economy: How I Learned Money in Prison](https://www.wealthsimple.com/en-ca/magazine/nico-walker-money-diaries)
-- [The Cartoon Guide to Computer Science &lpar;1983&rpar;](https://archive.org/details/TheCartoonGuideToComputerScience)
-- [Inside BP’s Decision to Dial Back Its Green Transition](https://www.wsj.com/articles/inside-bps-decision-to-dial-back-its-green-transition-500d1f3c)
-- [Ask HN: Would you pay for AI art on a T-shirt?](https://news.ycombinator.com/item?id=34748887)
-- [Ask HN: Does Hacker News have keyboard shortcuts?](https://news.ycombinator.com/item?id=34748838)
-- [Harassment in video games: “moderation needs to be re-thought” &lpar;2021&rpar;](https://gameworldobserver.com/2021/10/06/sharon-fisher-on-harassment-and-toxic-behaviour-in-video-games-the-old-fashioned-approach-to-moderation-needs-to-be-re-thought)
-- [UNM gifted New Mexico’s largest public telescope](https://news.unm.edu/news/unm-taos-gifted-new-mexicos-largest-public-telescope)
-- [IBM Research&#39;s Vela is an AI supercomputer in the cloud](https://research.ibm.com/blog/AI-supercomputer-Vela-GPU-cluster)
-- [Show HN: Sauron – A live news visualization map](https://sauron.matthew.science)
-- [The Algorithm for Precision Medicine](https://bertrand.might.net/articles/algorithm-for-precision-medicine/)
+- [50 Years Ago, UFOs Seized Washington&#39;s Imagination &lpar;2002&rpar;](https://www.washingtonpost.com/archive/lifestyle/2002/07/21/50-years-ago-unidentified-flying-objects-from-way-beyond-the-beltway-seized-the-capitals-imagination/59f74156-51f4-4204-96df-e12be061d3f8/)
+- [Warehouse Robots to Automate Your Living Room](https://spectrum.ieee.org/warehouse-robots-in-living-room)
+- [Mitochondria–Fundamental to Life and Health](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4684129/)
+- [Neuralink investigated for possible unsafe transport of contaminated hardware](https://www.cnbc.com/2023/02/11/elon-musks-neuralink-is-under-investigation.html)
+- [It&#39;s easy to build better, cheaper Philips Hue LED strips yourself &lpar;2020&rpar;](https://char.gd/blog/2018/building-better-cheaper-philips-hue-led-strips)
+- [AdaCore, a Rust Foundation Silver Member](https://foundation.rust-lang.org/news/member-spotlight-adacore/)
+- [EVA3D: Compositional 3D Human Generation from 2D Image Collections](https://hongfz16.github.io/projects/EVA3D.html)
+- [Ask HN: Is there a difference between user and server security?](https://news.ycombinator.com/item?id=34758902)
+- [The Art of Curation: An Interview with Maria Popova from BrainPickings](https://www.neboagency.com/blog/art-curation-interview-maria-popova/)
+- [F-15s Scrambled from Portland Air National Guard Base](https://twitter.com/sentdefender/status/1624576868140679168)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

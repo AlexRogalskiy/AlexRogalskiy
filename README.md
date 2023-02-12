@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Why Everyone Feels Like They’re Faking It](https://www.newyorker.com/magazine/2023/02/13/the-dubious-rise-of-impostor-syndrome)
-- [Treasure trove of mechanical animations](https://kottke.org/15/04/treasure-trove-of-over-1700-mechanical-animations)
-- [Why did Mozilla remove XUL add-ons? &lpar;2020&rpar;](https://yoric.github.io/post/why-did-mozilla-remove-xul-addons/)
-- [A Gentle Introduction to CRDTs](https://vlcn.io/blog/gentle-intro-to-crdts.html)
-- [Ask HN: What Happened to Elm?](https://news.ycombinator.com/item?id=34746161)
-- [US jet shoots down unknown object flying off Alaska coast](https://apnews.com/article/pentagon-shoots-down-unknown-flying-object-175f9078d1df36e392b2956ba771001e)
-- [Money Laundering and AML Compliance](https://www.bitsaboutmoney.com/archive/money-laundering-and-aml-compliance/)
-- [The Inference Cost of Search Disruption – Large Language Model Cost Analysis](https://www.semianalysis.com/p/the-inference-cost-of-search-disruption)
-- [Ask HN: Why did medium.com &quot;fail&quot;?](https://news.ycombinator.com/item?id=34743772)
-- [Understanding and coding the self-attention mechanism of large language models](https://sebastianraschka.com/blog/2023/self-attention-from-scratch.html)
+- [U.S. Representative Comments on New “Object” over Montana](https://twitter.com/reprosendale/status/1624579901608034306)
+- [Health concerns mounting as animals become sick after train derailment](https://www.wkbn.com/news/local-news/east-palestine-train-derailment/health-concerns-mounting-as-animals-become-sick-after-train-derailment/)
+- [U.S. FAA closes some airspace in Montana for Defense Department activities](https://www.reuters.com/article/usa-object-montana-idUSL1N34S008)
+- [Show HN: G-Script – Visual Scripting for the Web](https://g-script.io/)
+- [NOTAM: Montana airspace temporarily restricted for national defense purposes](https://twitter.com/IntelCrab/status/1624569071583854596)
+- [Don’t force child care workers to get college degrees](https://www.fullstackeconomics.com/p/dont-force-child-care-workers-to)
+- [To ease the housing crunch, more places end single-family zoning](https://www.npr.org/2023/02/11/1155094278/states-cities-end-single-family-zoning-housing-affordable)
+- [Deteriorating Mitochondria Linked to Major Depression in Older Adults](https://today.uconn.edu/2023/02/mitochondria-linked-to-major-depression-in-older-adults/)
+- [“Hunger cliff” looms as 32 states set to slash food-stamp benefits](https://www.cbsnews.com/news/food-stamps-snap-benefits-cut-in-32-states-emergency-allotments-march-2023/)
+- [The Toll of Layoff Anxiety](https://www.bbc.com/worklife/article/20230203-stress-anxiety-global-layoffs)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

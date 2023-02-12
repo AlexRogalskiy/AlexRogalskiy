@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Children fleeing danger in small boats should be deported, says Tory thinktank](https://www.theguardian.com/world/2023/feb/11/children-fleeing-danger-in-small-boats-should-be-deported-says-tory-thinktank)
-- [US confirms ‘high-altitude object’ taken down over Alaska – as it happened](https://www.theguardian.com/us-news/live/2023/feb/10/mike-pence-subpoena-trump-jan-6-biden-us-politics-latest)
-- [Far-right protesters clash with police at Merseyside hotel housing asylum seekers](https://www.theguardian.com/uk-news/2023/feb/10/far-right-demonstrators-clash-with-police-at-liverpool-hotel-housing-asylum-seekers)
-- [Survivors pulled from rubble 100 hours after quake as toll passes 23,000](https://www.theguardian.com/world/2023/feb/10/aid-convoy-turkey-syria-earthquake-rescue-continues)
-- [Rust shooting: Baldwin’s attorneys say prosecutors made ‘a basic legal error’](https://www.theguardian.com/us-news/2023/feb/10/rust-shooting-alec-baldwin-manslaughter)
-- [Mikel Arteta has built his team to be tougher than Arsenal he played for | David Hytner](https://www.theguardian.com/football/2023/feb/10/mikel-arteta-arsenal-tougher-brentford-preview)
-- [Jonjo Shelvey: ‘Leaving Newcastle was hard, but I can’t say I regret it’](https://www.theguardian.com/football/2023/feb/10/jonjo-shelvey-leaving-newcastle-was-hard-but-i-cant-say-i-regret-it)
-- [Unidentified object shot down over Alaska by US military, White House says](https://www.theguardian.com/us-news/2023/feb/10/alaska-us-military-unidentified-object-white-house)
-- [Tributes paid to boxing writer Ron Lewis after his death at age of 54](https://www.theguardian.com/sport/2023/feb/10/tributes-paid-to-sports-writer-ron-lewis-after-sudden-death-at-age-of-54)
-- [Crackdown on ‘birth tourism’ as pregnant Russians flock to Argentina](https://www.theguardian.com/world/2023/feb/10/argentina-pregnant-russians-birth-tourism-crackdown)
+- [Russia-Ukraine war at a glance: what we know on day 354 of the invasion](https://www.theguardian.com/world/2023/feb/12/russia-ukraine-war-at-a-glance-what-we-know-on-day-354-of-the-invasion)
+- [BBC chairman Richard Sharp ‘breached standards expected’ for job application](https://www.theguardian.com/media/2023/feb/12/bbc-chairman-richard-sharp-breached-standards-johnson-loan)
+- [Inflation may have peaked, but the cost of living pain is far from over](https://www.theguardian.com/business/2023/feb/12/inflation-may-have-peaked-but-the-cost-of-living-pain-is-far-from-over)
+- [Trench lessons: Experiment with new takes on an old staple](https://www.theguardian.com/fashion/2023/feb/11/trench-lessons-experiment-with-new-takes-on-an-old-staple)
+- [We Love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2023/feb/11/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Trump was issued subpoena for folder marked ‘Classified Evening Briefing’ discovered at Mar-a-Lago](https://www.theguardian.com/us-news/2023/feb/12/trump-was-issued-subpoena-for-folder-marked-classified-evening-briefing-discovered-at-mar-a-lago)
+- [New ‘unidentified object’ shot down over Canada, says Trudeau](https://www.theguardian.com/world/2023/feb/11/new-unidentified-object-shot-down-over-canada-says-trudeau)
+- [Warning violence hampering earthquake rescue efforts in Turkey](https://www.theguardian.com/world/2023/feb/11/warning-violence-hampering-earthquake-rescue-efforts-in-southern-turkey)
+- [Brit awards 2023: Stormzy, Shania Twain and Stanley Tucci – in pictures](https://www.theguardian.com/music/gallery/2023/feb/11/brit-awards-2023-in-pictures)
+- [The trouble with Harry Styles’ triumph at the Brits? His teen fans weren’t watching](https://www.theguardian.com/music/2023/feb/11/the-trouble-with-harry-styles-triumph-at-the-brits-his-teen-fans-werent-watching)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

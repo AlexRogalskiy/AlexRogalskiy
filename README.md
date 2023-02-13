@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war at a glance: what we know on day 354 of the invasion](https://www.theguardian.com/world/2023/feb/12/russia-ukraine-war-at-a-glance-what-we-know-on-day-354-of-the-invasion)
-- [BBC chairman Richard Sharp ‘breached standards expected’ for job application](https://www.theguardian.com/media/2023/feb/12/bbc-chairman-richard-sharp-breached-standards-johnson-loan)
-- [Inflation may have peaked, but the cost of living pain is far from over](https://www.theguardian.com/business/2023/feb/12/inflation-may-have-peaked-but-the-cost-of-living-pain-is-far-from-over)
-- [Trench lessons: Experiment with new takes on an old staple](https://www.theguardian.com/fashion/2023/feb/11/trench-lessons-experiment-with-new-takes-on-an-old-staple)
-- [We Love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2023/feb/11/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Trump was issued subpoena for folder marked ‘Classified Evening Briefing’ discovered at Mar-a-Lago](https://www.theguardian.com/us-news/2023/feb/12/trump-was-issued-subpoena-for-folder-marked-classified-evening-briefing-discovered-at-mar-a-lago)
-- [New ‘unidentified object’ shot down over Canada, says Trudeau](https://www.theguardian.com/world/2023/feb/11/new-unidentified-object-shot-down-over-canada-says-trudeau)
-- [Warning violence hampering earthquake rescue efforts in Turkey](https://www.theguardian.com/world/2023/feb/11/warning-violence-hampering-earthquake-rescue-efforts-in-southern-turkey)
-- [Brit awards 2023: Stormzy, Shania Twain and Stanley Tucci – in pictures](https://www.theguardian.com/music/gallery/2023/feb/11/brit-awards-2023-in-pictures)
-- [The trouble with Harry Styles’ triumph at the Brits? His teen fans weren’t watching](https://www.theguardian.com/music/2023/feb/11/the-trouble-with-harry-styles-triumph-at-the-brits-his-teen-fans-werent-watching)
+- [Super Bowl LVII: Kansas City Chiefs v Philadelphia Eagles – live](https://www.theguardian.com/sport/live/2023/feb/12/super-bowl-lvii-kansas-city-chiefs-v-philadelphia-eagles-nfl-football-latest-score-live)
+- [Cyclone Gabrielle: state of emergency in parts of New Zealand as storm gears up – live](https://www.theguardian.com/world/live/2023/feb/13/cyclone-gabrielle-new-zealand-regional-states-of-emergency-evacuation-declared-auckland-as-storm-approaches)
+- [Mikaela Shiffrin leads push for winter sports sustainability amid climate crisis](https://www.theguardian.com/sport/2023/feb/13/mikaela-shiffrin-leads-push-for-winter-sports-sustainability-amid-climate-crisis)
+- [David Jolicoeur, founding member of De La Soul who also performed as Trugoy the Dove, dies aged 54](https://www.theguardian.com/music/2023/feb/13/david-jolicoeur-founding-member-of-de-la-soul-dies-aged-54)
+- [Dictator Hun Sen shuts down Cambodia’s VOD broadcaster](https://www.theguardian.com/world/2023/feb/13/dictator-hun-sen-shuts-down-cambodias-vod-broadcaster)
+- [Russia-Ukraine war at a glance: what we know on day 355 of the invasion](https://www.theguardian.com/world/2023/feb/13/russia-ukraine-war-at-a-glance-what-we-know-on-day-355-of-the-invasion)
+- [Labour condemns ‘catalogue of waste’ on government ‘credit cards’](https://www.theguardian.com/politics/2023/feb/13/labour-condemns-catalogue-of-waste-on-government-credit-cards)
+- [‘Bank of mum and dad’ stoking Britain’s rising inequality, warns report](https://www.theguardian.com/business/2023/feb/13/bank-of-mum-and-dad-uk-inequality-pounds-transfer-children-ifs)
+- [Nurses’ union in UK warns of exodus of young staff](https://www.theguardian.com/society/2023/feb/13/nurses-union-in-uk-warns-of-exodus-of-young-staff)
+- [Just nine out of 116 AI professionals in films are women, study finds](https://www.theguardian.com/technology/2023/feb/13/just-nine-out-of-116-ai-professionals-in-films-are-women-study-finds)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

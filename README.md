@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [U.S. Representative Comments on New “Object” over Montana](https://twitter.com/reprosendale/status/1624579901608034306)
-- [Health concerns mounting as animals become sick after train derailment](https://www.wkbn.com/news/local-news/east-palestine-train-derailment/health-concerns-mounting-as-animals-become-sick-after-train-derailment/)
-- [U.S. FAA closes some airspace in Montana for Defense Department activities](https://www.reuters.com/article/usa-object-montana-idUSL1N34S008)
-- [Show HN: G-Script – Visual Scripting for the Web](https://g-script.io/)
-- [NOTAM: Montana airspace temporarily restricted for national defense purposes](https://twitter.com/IntelCrab/status/1624569071583854596)
-- [Don’t force child care workers to get college degrees](https://www.fullstackeconomics.com/p/dont-force-child-care-workers-to)
-- [To ease the housing crunch, more places end single-family zoning](https://www.npr.org/2023/02/11/1155094278/states-cities-end-single-family-zoning-housing-affordable)
-- [Deteriorating Mitochondria Linked to Major Depression in Older Adults](https://today.uconn.edu/2023/02/mitochondria-linked-to-major-depression-in-older-adults/)
-- [“Hunger cliff” looms as 32 states set to slash food-stamp benefits](https://www.cbsnews.com/news/food-stamps-snap-benefits-cut-in-32-states-emergency-allotments-march-2023/)
-- [The Toll of Layoff Anxiety](https://www.bbc.com/worklife/article/20230203-stress-anxiety-global-layoffs)
+- [Mars Wrigley Fined After Two Factory Workers Fell into Chocolate Tank](https://www.businessinsider.com/mars-wrigley-fined-factory-workers-fell-chocolate-tank-2023-2)
+- [NameCheap&amp;#x27;s email hacked to send Metamask, DHL phishing emails](https://www.bleepingcomputer.com/news/security/namecheaps-email-hacked-to-send-metamask-dhl-phishing-emails/)
+- [Transparent Aluminum](https://en.wikipedia.org/wiki/Aluminium_oxynitride)
+- [ESA: Small meteorite will safely impact atmosphere tonight over northern France](https://twitter.com/esaoperations/status/1624901825785724929)
+- [&amp;lt;3 Deno](https://matklad.github.io/2023/02/12/a-love-letter-to-deno.html)
+- [Futurist Programming Notes](http://www.graficaobscura.com/future/futnotes.html)
+- [I chose OpenAI over academia: reflections on academic and industry job markets](https://rowanzellers.com/blog/rowan-job-search2/)
+- [Military shoots down another high-altitude object, over Lake Huron: officials](https://abcnews.go.com/US/military-shoots-high-altitude-object-lake-huron-officials/story?id=97068247)
+- [Multi-Account Containers](https://support.mozilla.org/en-US/kb/containers)
+- [Algorithmic Trading: A Practitioner’s Guide](https://henrikwarne.com/2023/02/12/algorithmic-trading-a-practitioners-guide/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [50 Years Ago, UFOs Seized Washington&#39;s Imagination &lpar;2002&rpar;](https://www.washingtonpost.com/archive/lifestyle/2002/07/21/50-years-ago-unidentified-flying-objects-from-way-beyond-the-beltway-seized-the-capitals-imagination/59f74156-51f4-4204-96df-e12be061d3f8/)
-- [Warehouse Robots to Automate Your Living Room](https://spectrum.ieee.org/warehouse-robots-in-living-room)
-- [Mitochondria–Fundamental to Life and Health](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4684129/)
-- [Neuralink investigated for possible unsafe transport of contaminated hardware](https://www.cnbc.com/2023/02/11/elon-musks-neuralink-is-under-investigation.html)
-- [It&#39;s easy to build better, cheaper Philips Hue LED strips yourself &lpar;2020&rpar;](https://char.gd/blog/2018/building-better-cheaper-philips-hue-led-strips)
-- [AdaCore, a Rust Foundation Silver Member](https://foundation.rust-lang.org/news/member-spotlight-adacore/)
-- [EVA3D: Compositional 3D Human Generation from 2D Image Collections](https://hongfz16.github.io/projects/EVA3D.html)
-- [Ask HN: Is there a difference between user and server security?](https://news.ycombinator.com/item?id=34758902)
-- [The Art of Curation: An Interview with Maria Popova from BrainPickings](https://www.neboagency.com/blog/art-curation-interview-maria-popova/)
-- [F-15s Scrambled from Portland Air National Guard Base](https://twitter.com/sentdefender/status/1624576868140679168)
+- [How to Survive If You Were Part of the Tech Layoffs](https://www.wired.com/story/how-to-survive-big-tech-layoffs/)
+- [Good resource for a self learner in AI](https://aman.ai/)
+- [US military shoots down object over Lake Huron](https://www.detroitnews.com/story/news/local/michigan/2023/02/12/object-decommissioned-over-lake-huron-michigan-airspace-closure/69897024007/)
+- [DietPi released a new version 8.14](https://news.ycombinator.com/item?id=34769513)
+- [iPhone hardware subscription program delayed by engineering, technical setbacks](https://9to5mac.com/2023/02/12/iphone-hardware-subscription-service-delays/)
+- [United dive after Maui departure adds to list of industry close calls](https://theaircurrent.com/aviation-safety/united-maui-dive-ua1722-close-call/)
+- [My Fear of Commitment to the First CPU Core](https://www.jabperf.com/my-fear-of-commitment-to-the-1st-cpu-core/)
+- [The lessor known Intellectual Property: Mask Works-The data needed to make an IC](https://en.wikipedia.org/wiki/Semiconductor_Chip_Protection_Act_of_1984)
+- [Crypto Firm Paxos Faces SEC Lawsuit over Binance USD Token](https://www.wsj.com/articles/crypto-firm-paxos-faces-sec-lawsuit-over-binance-usd-token-8031e7a7)
+- [Mars Wrigley Fined After Two Factory Workers Fell into Chocolate Tank](https://www.businessinsider.com/mars-wrigley-fined-factory-workers-fell-chocolate-tank-2023-2)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

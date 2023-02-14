@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Mars Wrigley Fined After Two Factory Workers Fell into Chocolate Tank](https://www.businessinsider.com/mars-wrigley-fined-factory-workers-fell-chocolate-tank-2023-2)
-- [NameCheap&amp;#x27;s email hacked to send Metamask, DHL phishing emails](https://www.bleepingcomputer.com/news/security/namecheaps-email-hacked-to-send-metamask-dhl-phishing-emails/)
-- [Transparent Aluminum](https://en.wikipedia.org/wiki/Aluminium_oxynitride)
-- [ESA: Small meteorite will safely impact atmosphere tonight over northern France](https://twitter.com/esaoperations/status/1624901825785724929)
-- [&amp;lt;3 Deno](https://matklad.github.io/2023/02/12/a-love-letter-to-deno.html)
-- [Futurist Programming Notes](http://www.graficaobscura.com/future/futnotes.html)
-- [I chose OpenAI over academia: reflections on academic and industry job markets](https://rowanzellers.com/blog/rowan-job-search2/)
-- [Military shoots down another high-altitude object, over Lake Huron: officials](https://abcnews.go.com/US/military-shoots-high-altitude-object-lake-huron-officials/story?id=97068247)
-- [Multi-Account Containers](https://support.mozilla.org/en-US/kb/containers)
-- [Algorithmic Trading: A Practitioner’s Guide](https://henrikwarne.com/2023/02/12/algorithmic-trading-a-practitioners-guide/)
+- [Ohio train derailment: environmental disaster quietly unfolding](https://www.fastcompany.com/90848025/ohio-train-derailment-toxic-chemicals-pvc-spill-fire-disaster)
+- [Better without AI](https://betterwithout.ai/)
+- [More than five whys and “layer eight” problems](http://rachelbythebay.com/w/2023/02/13/broken/)
+- [Google’s fully homomorphic encryption compiler – a primer](https://jeremykun.com/2023/02/13/googles-fully-homomorphic-encryption-compiler-a-primer/)
+- [U.S. copyright office tells judge that AI artwork isn’t protectable](https://petapixel.com/2023/02/09/u-s-copyright-office-tells-judge-that-ai-artwork-isnt-protectable/)
+- [pix2pix-zero: Zero-Shot Image-to-Image Translation](https://pix2pixzero.github.io/)
+- [GPU Video acceleration in the Windows Subsystem for Linux now available](https://devblogs.microsoft.com/commandline/d3d12-gpu-video-acceleration-in-the-windows-subsystem-for-linux-now-available/)
+- [Reimplementing the Coreutils in a modern language &lpar;Rust&rpar;](https://fosdem.org/2023/schedule/event/rust_coreutils/)
+- [So what’s next &lpar;personal news from developer of popular CoreJS polyfill](https://github.com/zloirock/core-js/blob/master/docs/2023-02-14-so-whats-next.md)
+- [The retaliation: Pranking my roommate with targeted Facebook ads &lpar;2014&rpar;](http://ghostinfluence.com/the-ultimate-retaliation-pranking-my-roommate-with-targeted-facebook-ads/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

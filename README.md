@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [How to Survive If You Were Part of the Tech Layoffs](https://www.wired.com/story/how-to-survive-big-tech-layoffs/)
-- [Good resource for a self learner in AI](https://aman.ai/)
-- [US military shoots down object over Lake Huron](https://www.detroitnews.com/story/news/local/michigan/2023/02/12/object-decommissioned-over-lake-huron-michigan-airspace-closure/69897024007/)
-- [DietPi released a new version 8.14](https://news.ycombinator.com/item?id=34769513)
-- [iPhone hardware subscription program delayed by engineering, technical setbacks](https://9to5mac.com/2023/02/12/iphone-hardware-subscription-service-delays/)
-- [United dive after Maui departure adds to list of industry close calls](https://theaircurrent.com/aviation-safety/united-maui-dive-ua1722-close-call/)
-- [My Fear of Commitment to the First CPU Core](https://www.jabperf.com/my-fear-of-commitment-to-the-1st-cpu-core/)
-- [The lessor known Intellectual Property: Mask Works-The data needed to make an IC](https://en.wikipedia.org/wiki/Semiconductor_Chip_Protection_Act_of_1984)
-- [Crypto Firm Paxos Faces SEC Lawsuit over Binance USD Token](https://www.wsj.com/articles/crypto-firm-paxos-faces-sec-lawsuit-over-binance-usd-token-8031e7a7)
-- [Mars Wrigley Fined After Two Factory Workers Fell into Chocolate Tank](https://www.businessinsider.com/mars-wrigley-fined-factory-workers-fell-chocolate-tank-2023-2)
+- [Updates on Uber](https://onepercentamonth.com/2023/02/13/updates-on-uber-it-is-flying/)
+- [A city under the sand: The Lost City of Cecil B DeMille](https://www.bbc.com/travel/article/20230212-a-city-under-the-sand-the-lost-city-of-cecil-b-demille)
+- [Ask HN: Blog style communication with co-workers?](https://news.ycombinator.com/item?id=34784448)
+- [Recycled denim: Have Pangaia and Evrnu made a big breakthrough?](https://www.voguebusiness.com/sustainability/recycled-denim-have-pangaia-and-evrnu-made-a-big-breakthrough)
+- [Make a quote, Share your life experience, Be Happy](https://kuuote.com/)
+- [Holographic Versatile Disc &lpar;HVD&rpar;](https://en.wikipedia.org/wiki/Holographic_Versatile_Disc)
+- [For some electric vehicle owners, recharging now more costly than filling up](https://www.cbsnews.com/news/electric-car-2023-costs-gas-vehicles/)
+- [First-of-its-kind study shows how traffic pollution impairs brain function](https://newatlas.com/health-wellbeing/diesel-traffic-pollution-impairs-brain-function-dmn-cognition/)
+- [Afternoon Project: CryptMaster 2001](https://lcamtuf.substack.com/p/afternoon-project-cryptmaster-2001)
+- [$500 a Month, No Strings: Chicago Experiments with a Guaranteed Income](https://www.nytimes.com/2023/02/13/us/politics/universal-basic-income-chicago.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

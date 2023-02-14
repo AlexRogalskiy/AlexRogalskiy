@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Super Bowl LVII: Kansas City Chiefs v Philadelphia Eagles – live](https://www.theguardian.com/sport/live/2023/feb/12/super-bowl-lvii-kansas-city-chiefs-v-philadelphia-eagles-nfl-football-latest-score-live)
-- [Cyclone Gabrielle: state of emergency in parts of New Zealand as storm gears up – live](https://www.theguardian.com/world/live/2023/feb/13/cyclone-gabrielle-new-zealand-regional-states-of-emergency-evacuation-declared-auckland-as-storm-approaches)
-- [Mikaela Shiffrin leads push for winter sports sustainability amid climate crisis](https://www.theguardian.com/sport/2023/feb/13/mikaela-shiffrin-leads-push-for-winter-sports-sustainability-amid-climate-crisis)
-- [David Jolicoeur, founding member of De La Soul who also performed as Trugoy the Dove, dies aged 54](https://www.theguardian.com/music/2023/feb/13/david-jolicoeur-founding-member-of-de-la-soul-dies-aged-54)
-- [Dictator Hun Sen shuts down Cambodia’s VOD broadcaster](https://www.theguardian.com/world/2023/feb/13/dictator-hun-sen-shuts-down-cambodias-vod-broadcaster)
-- [Russia-Ukraine war at a glance: what we know on day 355 of the invasion](https://www.theguardian.com/world/2023/feb/13/russia-ukraine-war-at-a-glance-what-we-know-on-day-355-of-the-invasion)
-- [Labour condemns ‘catalogue of waste’ on government ‘credit cards’](https://www.theguardian.com/politics/2023/feb/13/labour-condemns-catalogue-of-waste-on-government-credit-cards)
-- [‘Bank of mum and dad’ stoking Britain’s rising inequality, warns report](https://www.theguardian.com/business/2023/feb/13/bank-of-mum-and-dad-uk-inequality-pounds-transfer-children-ifs)
-- [Nurses’ union in UK warns of exodus of young staff](https://www.theguardian.com/society/2023/feb/13/nurses-union-in-uk-warns-of-exodus-of-young-staff)
-- [Just nine out of 116 AI professionals in films are women, study finds](https://www.theguardian.com/technology/2023/feb/13/just-nine-out-of-116-ai-professionals-in-films-are-women-study-finds)
+- [Cyclone Gabrielle: people trapped on roofs in New Zealand’s North Island as national emergency declared – live updates](https://www.theguardian.com/world/live/2023/feb/14/cyclone-gabrielle-communities-cut-off-in-new-zealands-north-island-as-national-emergency-declared-live)
+- [It’s the bridesmaids you’ve got to watch out for: notes from a professional wedding singer | Lucy Ridge](https://www.theguardian.com/commentisfree/2023/feb/14/its-the-bridesmaids-youve-got-to-watch-out-for-notes-from-a-professional-wedding-singer)
+- [Weinermobile in a pickle after falling victim to catalytic converter thieves](https://www.theguardian.com/us-news/2023/feb/13/weinermobile-in-a-pickle-after-falling-victim-to-catalytic-converter-thieves)
+- [Most top-tier English councils to raise council tax by maximum permitted](https://www.theguardian.com/society/2023/feb/14/most-top-tier-english-councils-to-raise-council-tax-by-maximum-permitted)
+- [Leaders urged to ‘take a stand’ after violence outside Knowsley asylum hotel](https://www.theguardian.com/world/2023/feb/14/leaders-urged-to-take-a-stand-after-violence-outside-knowsley-asylum-hotel)
+- [Syria’s Assad agrees to open two more entry points for aid to earthquake victims](https://www.theguardian.com/world/2023/feb/13/syrias-assad-agrees-to-open-two-more-entry-points-for-aid-to-earthquake-victims)
+- [Ministers launch long-awaited consultation on buy now, pay later firms](https://www.theguardian.com/business/2023/feb/13/ministers-launch-long-awaited-consultation-on-buy-now-pay-later-firms)
+- [Republican senator Tim Scott preparing presidential run – report](https://www.theguardian.com/us-news/2023/feb/13/republican-senator-tim-scott-preparing-presidential-run-report-donald-trump)
+- [The Last of Us recap episode five – all hell breaks loose](https://www.theguardian.com/tv-and-radio/2023/feb/13/the-last-of-us-recap-episode-five-all-hell-breaks-loose)
+- [Better review – this moreish bent copper show gets stronger and stronger](https://www.theguardian.com/tv-and-radio/2023/feb/13/better-review-this-moreish-bent-copper-show-gets-stronger-and-stronger)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

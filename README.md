@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [How do you want Microsoft updates — in ‘dribbles’ or all at once?](https://www.computerworld.com/article/3687634/how-do-you-want-microsoft-updates-in-dribbles-or-all-at-once.html#tk.rss_all)
+- [Apple wants to offer your &lpar;digital&rpar; life for rent](https://www.computerworld.com/article/3687632/apple-wants-to-offer-your-digital-life-for-rent.html#tk.rss_all)
+- [South Korean startup Rebellions reportedly launches new AI chip](https://www.computerworld.com/article/3687989/south-korean-startup-rebellions-reportedly-launches-new-ai-chip.html#tk.rss_all)
+- [Bing vs. Google: the new AI-driven search wars are on](https://www.computerworld.com/article/3687988/bing-vs-google-the-new-ai-driven-search-wars-are-on.html#tk.rss_all)
+- [The best Android password managers](https://www.computerworld.com/article/3267964/best-android-password-managers.html#tk.rss_all)
 - [Tech layoffs in 2023: A timeline](https://www.computerworld.com/article/3685936/tech-layoffs-in-2023-a-timeline.html#tk.rss_all)
 - [Yahoo to lay off 20% of its staff as it cuts advertising tech business](https://www.computerworld.com/article/3687734/yahoo-to-lay-off-20-of-its-staff-as-it-cuts-advertising-tech-business.html#tk.rss_all)
 - [Microsoft cuts HoloLens, Xbox, Surface jobs as industrial metaverse team said to fold](https://www.computerworld.com/article/3687732/microsoft-cuts-hololens-xbox-surface-jobs-as-industrial-metaverse-team-said-to-fold.html#tk.rss_all)
 - [Apple&#39;s second-user smartphone business is booming](https://www.computerworld.com/article/3687613/apples-second-user-smartphone-business-is-booming.html#tk.rss_all)
 - [Why we don’t need the four-day workweek — or weekends](https://www.computerworld.com/article/3687608/why-we-don-t-need-the-four-day-workweek-or-weekends.html#tk.rss_all)
-- [The gathering AI storm between Microsoft and Google](https://www.computerworld.com/article/3687810/the-gathering-ai-storm-between-microsoft-and-google.html#tk.rss_all)
-- [10 highly useful add-ins for Microsoft Office](https://www.computerworld.com/article/3320858/10-highly-useful-add-ins-for-microsoft-office.html#tk.rss_all)
-- [12 Gboard shortcuts that&#39;ll change how you type on Android](https://www.computerworld.com/article/3626191/gboard-shortcuts-android.html#tk.rss_all)
-- [GitHub lays off 10% of workforce, plans to go fully remote to cut costs](https://www.computerworld.com/article/3687809/github-lays-off-10-of-workforce-plans-to-go-fully-remote-to-cut-costs.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

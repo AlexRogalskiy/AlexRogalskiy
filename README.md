@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Ohio train derailment: environmental disaster quietly unfolding](https://www.fastcompany.com/90848025/ohio-train-derailment-toxic-chemicals-pvc-spill-fire-disaster)
-- [Better without AI](https://betterwithout.ai/)
-- [More than five whys and “layer eight” problems](http://rachelbythebay.com/w/2023/02/13/broken/)
-- [Google’s fully homomorphic encryption compiler – a primer](https://jeremykun.com/2023/02/13/googles-fully-homomorphic-encryption-compiler-a-primer/)
-- [U.S. copyright office tells judge that AI artwork isn’t protectable](https://petapixel.com/2023/02/09/u-s-copyright-office-tells-judge-that-ai-artwork-isnt-protectable/)
-- [pix2pix-zero: Zero-Shot Image-to-Image Translation](https://pix2pixzero.github.io/)
-- [GPU Video acceleration in the Windows Subsystem for Linux now available](https://devblogs.microsoft.com/commandline/d3d12-gpu-video-acceleration-in-the-windows-subsystem-for-linux-now-available/)
-- [Reimplementing the Coreutils in a modern language &lpar;Rust&rpar;](https://fosdem.org/2023/schedule/event/rust_coreutils/)
-- [So what’s next &lpar;personal news from developer of popular CoreJS polyfill](https://github.com/zloirock/core-js/blob/master/docs/2023-02-14-so-whats-next.md)
-- [The retaliation: Pranking my roommate with targeted Facebook ads &lpar;2014&rpar;](http://ghostinfluence.com/the-ultimate-retaliation-pranking-my-roommate-with-targeted-facebook-ads/)
+- [Thunderbird 115 Supernova Preview: The New Folder Pane](https://blog.thunderbird.net/2023/02/thunderbird-115-supernova-preview-the-new-folder-pane/)
+- [At least four Google AI researchers have joined OpenAI](https://twitter.com/izzyz/status/1625595375087423488)
+- [Berkshire dumps shares in TSMC, banks; increases Apple stake](https://www.reuters.com/business/buffetts-berkshire-reduces-stake-activision-blizzard-2023-02-14/)
+- [Seven states push to require ID for watching porn online](https://arstechnica.com/tech-policy/2023/02/seven-states-push-to-require-id-for-watching-porn-online/)
+- [HAProxy Security Update &lpar;CVE-2023-25725&rpar;](https://www.mail-archive.com/haproxy@formilux.org/msg43229.html)
+- [SkillzTruth - Proof of concept demonstrating how to cheat on Skillz apps](https://www.skillztruth.com/)
+- [Dis This: Disassemble Python code online](http://blog.pamelafox.org/2023/02/dis-this-disassemble-python-code-online.html)
+- [Saving Energy: Home Server That Automatically Suspends to RAM and Wakes Up Again](https://maximiliangolla.com/blog/2022-10-wol-plex-server/)
+- [What Is ChatGPT Doing and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
+- [The Case for Frameworks](https://seldo.com/posts/the_case_for_frameworks)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

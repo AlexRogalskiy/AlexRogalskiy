@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Cyclone Gabrielle: people trapped on roofs in New Zealand’s North Island as national emergency declared – live updates](https://www.theguardian.com/world/live/2023/feb/14/cyclone-gabrielle-communities-cut-off-in-new-zealands-north-island-as-national-emergency-declared-live)
-- [It’s the bridesmaids you’ve got to watch out for: notes from a professional wedding singer | Lucy Ridge](https://www.theguardian.com/commentisfree/2023/feb/14/its-the-bridesmaids-youve-got-to-watch-out-for-notes-from-a-professional-wedding-singer)
-- [Weinermobile in a pickle after falling victim to catalytic converter thieves](https://www.theguardian.com/us-news/2023/feb/13/weinermobile-in-a-pickle-after-falling-victim-to-catalytic-converter-thieves)
-- [Most top-tier English councils to raise council tax by maximum permitted](https://www.theguardian.com/society/2023/feb/14/most-top-tier-english-councils-to-raise-council-tax-by-maximum-permitted)
-- [Leaders urged to ‘take a stand’ after violence outside Knowsley asylum hotel](https://www.theguardian.com/world/2023/feb/14/leaders-urged-to-take-a-stand-after-violence-outside-knowsley-asylum-hotel)
-- [Syria’s Assad agrees to open two more entry points for aid to earthquake victims](https://www.theguardian.com/world/2023/feb/13/syrias-assad-agrees-to-open-two-more-entry-points-for-aid-to-earthquake-victims)
-- [Ministers launch long-awaited consultation on buy now, pay later firms](https://www.theguardian.com/business/2023/feb/13/ministers-launch-long-awaited-consultation-on-buy-now-pay-later-firms)
-- [Republican senator Tim Scott preparing presidential run – report](https://www.theguardian.com/us-news/2023/feb/13/republican-senator-tim-scott-preparing-presidential-run-report-donald-trump)
-- [The Last of Us recap episode five – all hell breaks loose](https://www.theguardian.com/tv-and-radio/2023/feb/13/the-last-of-us-recap-episode-five-all-hell-breaks-loose)
-- [Better review – this moreish bent copper show gets stronger and stronger](https://www.theguardian.com/tv-and-radio/2023/feb/13/better-review-this-moreish-bent-copper-show-gets-stronger-and-stronger)
+- [Thom Browne shoots wearability to the moon at Little Prince-inspired New York show](https://www.theguardian.com/fashion/2023/feb/15/thom-browne-shoots-wearability-to-the-moon-at-little-prince-inspired-new-york-show)
+- [‘What next’ can be the hardest conversation for a terminally ill patient and doctor | Ranjana Srivastava](https://www.theguardian.com/commentisfree/2023/feb/15/what-next-can-be-the-hardest-conversation-for-a-terminally-ill-patient-and-doctor)
+- [Fukushima: Japan insists release of 1.3m tonnes of ‘treated’ water is safe](https://www.theguardian.com/environment/2023/feb/15/fukushima-japan-insists-release-of-treated-water-is-safe-nuclear-disaster)
+- [Biden drops candidate’s nomination to human rights post over Israel remarks](https://www.theguardian.com/us-news/2023/feb/14/biden-withdraws-nominee-human-rights-post-israel-remarks)
+- [Labour out of EHRC special measures after progress on tackling antisemitism](https://www.theguardian.com/politics/2023/feb/15/labour-out-of-ehrc-special-measures-after-progress-on-tackling-antisemitism)
+- [Chinese cameras leave British police vulnerable to spying, says watchdog](https://www.theguardian.com/world/2023/feb/15/chinese-cameras-leave-british-police-vulnerable-to-spying-says-watchdog)
+- [Girl with deadly inherited condition is cured with gene therapy on NHS](https://www.theguardian.com/society/2023/feb/15/girl-with-deadly-inherited-condition-mld-cured-gene-therapy-libmeldy-nhs)
+- [Russia-Ukraine war at a glance: what we know on day 357 of the invasion](https://www.theguardian.com/world/2023/feb/15/russia-ukraine-war-at-a-glance-what-we-know-on-day-357-of-the-invasion)
+- [Strike action threatens Wales v England Six Nations game in Cardiff](https://www.theguardian.com/sport/2023/feb/14/kyle-sinckler-faces-fitness-race-for-englands-six-nations-clash-with-wales-rugby-union)
+- [Cyclone Gabrielle: at least three dead in New Zealand storm as regions remain cut off](https://www.theguardian.com/world/2023/feb/15/cyclone-gabrielle-new-zealand-storm-deaths-regions-cut-off)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

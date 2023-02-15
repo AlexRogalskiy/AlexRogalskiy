@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
+- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
+- [How to use Apple’s advanced iCloud security tools](https://www.computerworld.com/article/3687636/how-to-use-apples-advanced-icloud-security-tools.html#tk.rss_all)
+- [Is this the end of non-compete contracts?](https://www.computerworld.com/article/3687737/is-this-the-end-of-non-compete-contracts.html#tk.rss_all)
+- [How enterprises can use ChatGPT and GPT-3](https://www.computerworld.com/article/3687614/how-enterprises-can-use-chatgpt-and-gpt-3.html#tk.rss_all)
+- [The best privacy and security apps for Android](https://www.computerworld.com/article/3269019/best-privacy-security-apps-android.html#tk.rss_all)
+- [Twilio announces fresh round of layoffs, impacting 17% of its workforce](https://www.networkworld.com/article/3687739/twilio-announces-fresh-round-of-layoffs-impacting-17-of-its-workforce.html#tk.rss_all)
 - [How do you want Microsoft updates — in ‘dribbles’ or all at once?](https://www.computerworld.com/article/3687634/how-do-you-want-microsoft-updates-in-dribbles-or-all-at-once.html#tk.rss_all)
 - [Apple wants to offer your &lpar;digital&rpar; life for rent](https://www.computerworld.com/article/3687632/apple-wants-to-offer-your-digital-life-for-rent.html#tk.rss_all)
 - [South Korean startup Rebellions reportedly launches new AI chip](https://www.computerworld.com/article/3687989/south-korean-startup-rebellions-reportedly-launches-new-ai-chip.html#tk.rss_all)
-- [Bing vs. Google: the new AI-driven search wars are on](https://www.computerworld.com/article/3687988/bing-vs-google-the-new-ai-driven-search-wars-are-on.html#tk.rss_all)
-- [The best Android password managers](https://www.computerworld.com/article/3267964/best-android-password-managers.html#tk.rss_all)
-- [Tech layoffs in 2023: A timeline](https://www.computerworld.com/article/3685936/tech-layoffs-in-2023-a-timeline.html#tk.rss_all)
-- [Yahoo to lay off 20% of its staff as it cuts advertising tech business](https://www.computerworld.com/article/3687734/yahoo-to-lay-off-20-of-its-staff-as-it-cuts-advertising-tech-business.html#tk.rss_all)
-- [Microsoft cuts HoloLens, Xbox, Surface jobs as industrial metaverse team said to fold](https://www.computerworld.com/article/3687732/microsoft-cuts-hololens-xbox-surface-jobs-as-industrial-metaverse-team-said-to-fold.html#tk.rss_all)
-- [Apple&#39;s second-user smartphone business is booming](https://www.computerworld.com/article/3687613/apples-second-user-smartphone-business-is-booming.html#tk.rss_all)
-- [Why we don’t need the four-day workweek — or weekends](https://www.computerworld.com/article/3687608/why-we-don-t-need-the-four-day-workweek-or-weekends.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

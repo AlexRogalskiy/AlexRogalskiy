@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Updates on Uber](https://onepercentamonth.com/2023/02/13/updates-on-uber-it-is-flying/)
-- [A city under the sand: The Lost City of Cecil B DeMille](https://www.bbc.com/travel/article/20230212-a-city-under-the-sand-the-lost-city-of-cecil-b-demille)
-- [Ask HN: Blog style communication with co-workers?](https://news.ycombinator.com/item?id=34784448)
-- [Recycled denim: Have Pangaia and Evrnu made a big breakthrough?](https://www.voguebusiness.com/sustainability/recycled-denim-have-pangaia-and-evrnu-made-a-big-breakthrough)
-- [Make a quote, Share your life experience, Be Happy](https://kuuote.com/)
-- [Holographic Versatile Disc &lpar;HVD&rpar;](https://en.wikipedia.org/wiki/Holographic_Versatile_Disc)
-- [For some electric vehicle owners, recharging now more costly than filling up](https://www.cbsnews.com/news/electric-car-2023-costs-gas-vehicles/)
-- [First-of-its-kind study shows how traffic pollution impairs brain function](https://newatlas.com/health-wellbeing/diesel-traffic-pollution-impairs-brain-function-dmn-cognition/)
-- [Afternoon Project: CryptMaster 2001](https://lcamtuf.substack.com/p/afternoon-project-cryptmaster-2001)
-- [$500 a Month, No Strings: Chicago Experiments with a Guaranteed Income](https://www.nytimes.com/2023/02/13/us/politics/universal-basic-income-chicago.html)
+- [Ways to extend your company&#39;s runway](https://www.airplane.dev/blog/ways-to-extend-your-companys-runway)
+- [Linode rebranded as Akamai’s cloud computing services](https://www.linode.com/blog/linode/a-bold-new-approach-to-the-cloud/)
+- [How big is a visible photo? [video]](https://www.youtube.com/watch?v=SDtAh9IwG-I)
+- [1: Scale 1983 WarGames WOPR computer model](https://twitter.com/6502b/status/1625507300923392000)
+- [Real and Fake Worlds: Why the Trains Are Failing](https://mikecernovich.substack.com/p/real-and-fake-worlds-why-the-trains)
+- [Thunderbird 115 Supernova Preview: The New Folder Pane](https://blog.thunderbird.net/2023/02/thunderbird-115-supernova-preview-the-new-folder-pane/)
+- [Circadian – Suspend-on-Idle Daemon for GNU/Linux Power Management](https://github.com/mrmekon/circadian)
+- [Only 50% of iPhone Casings Made in India Meet Apple&#39;s Quality Standards](https://www.macrumors.com/2023/02/14/only-half-of-indian-iphone-casings-meet-standards/)
+- [This Pocket PC Is Big on Open Source](https://spectrum.ieee.org/mnt-pocket-reform)
+- [Twitter now “greenlights” all Musk tweets for artificial promotion](https://twitter.com/tomcoates/status/1625678737105915906)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

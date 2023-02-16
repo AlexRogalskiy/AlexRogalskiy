@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Thunderbird 115 Supernova Preview: The New Folder Pane](https://blog.thunderbird.net/2023/02/thunderbird-115-supernova-preview-the-new-folder-pane/)
-- [At least four Google AI researchers have joined OpenAI](https://twitter.com/izzyz/status/1625595375087423488)
-- [Berkshire dumps shares in TSMC, banks; increases Apple stake](https://www.reuters.com/business/buffetts-berkshire-reduces-stake-activision-blizzard-2023-02-14/)
-- [Seven states push to require ID for watching porn online](https://arstechnica.com/tech-policy/2023/02/seven-states-push-to-require-id-for-watching-porn-online/)
-- [HAProxy Security Update &lpar;CVE-2023-25725&rpar;](https://www.mail-archive.com/haproxy@formilux.org/msg43229.html)
-- [SkillzTruth - Proof of concept demonstrating how to cheat on Skillz apps](https://www.skillztruth.com/)
-- [Dis This: Disassemble Python code online](http://blog.pamelafox.org/2023/02/dis-this-disassemble-python-code-online.html)
-- [Saving Energy: Home Server That Automatically Suspends to RAM and Wakes Up Again](https://maximiliangolla.com/blog/2022-10-wol-plex-server/)
-- [What Is ChatGPT Doing and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
-- [The Case for Frameworks](https://seldo.com/posts/the_case_for_frameworks)
+- [Show HN: Ractor – a Rust-based actor framework with clusters and supervisors](https://github.com/slawlor/ractor)
+- [Scientists find first observational evidence linking black holes to dark energy](https://news.umich.edu/scientists-find-first-observational-evidence-linking-black-holes-to-dark-energy/)
+- [Cut the Cutesy Errors](https://alexwlchan.net/2022/no-cute/)
+- [SkyNews &lpar;Canadian Astronomy magazine&rpar; is closing](https://skynews.ca/skynews-is-closing/)
+- [Zantac’s maker kept quiet about cancer risks for 40 years](https://www.fiercepharma.com/pharma/gsk-was-warned-repeatedly-about-zantac-risks-didnt-act-warnings-bloomberg)
+- [SQLite the only database you will ever need in most cases](https://www.unixsheikh.com/articles/sqlite-the-only-database-you-will-ever-need-in-most-cases.html)
+- [SOBA: Potential blood test for Alzheimer&amp;#x27;s disease](https://www.pnas.org/doi/10.1073/pnas.2213157119)
+- [Apple Reportedly Planning to Limit iPhone 15 USB-C Port in Same Way as Lightning](https://www.macrumors.com/2023/02/10/apple-planning-to-limit-iphone-15-usb-c-port/)
+- [Prompt Engine – Microsoft&amp;#x27;s prompt engineering library](https://github.com/microsoft/prompt-engine)
+- [Intel Publishes Fast AVX-512 Sorting Library, 10~17x Faster Sorts in NumPy](https://www.phoronix.com/news/Intel-AVX-512-Quicksort-Numpy)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

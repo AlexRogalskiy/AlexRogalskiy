@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Security tool adoption jumps, Okta report shows](https://www.computerworld.com/article/3688350/security-tool-adoption-jumps-okta-report-shows.html#tk.rss_all)
+- [BrandPost: The Six Degrees of Customer Experience](https://www.computerworld.com/article/3688349/the-six-degrees-of-customer-experience.html#tk.rss_all)
+- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
+- [OpenAI-based &#39;MacWhisper&#39; could meet all your transcription needs](https://www.computerworld.com/article/3688229/openai-based-macwhisper-could-meet-all-your-transcription-needs.html#tk.rss_all)
+- [TSMC board approves $3.5B capital injection for Arizona factory](https://www.computerworld.com/article/3687815/tsmc-board-approves-35b-capital-injection-for-arizona-factory.html#tk.rss_all)
+- [Bard, Bing, and the 90% problem](https://www.computerworld.com/article/3687633/google-bard-chatgpt-bing-ai-chatbot-search.html#tk.rss_all)
+- [Download: UEM vendor comparison chart 2023](https://www.computerworld.com/article/3408656/download-uem-vendor-comparison-chart-unified-endpoint-management.html#tk.rss_all)
+- [Enterprise mobility 2023: UEM meets DEX](https://www.computerworld.com/article/3202649/enterprise-mobility-2023-uem-meets-dex.html#tk.rss_all)
+- [Most in-demand skills for 2023, according to LinkedIn](https://www.computerworld.com/article/3688109/most-in-demand-skills-for-2023-according-to-linkedin.html#tk.rss_all)
 - [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
-- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
-- [How to use Apple’s advanced iCloud security tools](https://www.computerworld.com/article/3687636/how-to-use-apples-advanced-icloud-security-tools.html#tk.rss_all)
-- [Is this the end of non-compete contracts?](https://www.computerworld.com/article/3687737/is-this-the-end-of-non-compete-contracts.html#tk.rss_all)
-- [How enterprises can use ChatGPT and GPT-3](https://www.computerworld.com/article/3687614/how-enterprises-can-use-chatgpt-and-gpt-3.html#tk.rss_all)
-- [The best privacy and security apps for Android](https://www.computerworld.com/article/3269019/best-privacy-security-apps-android.html#tk.rss_all)
-- [Twilio announces fresh round of layoffs, impacting 17% of its workforce](https://www.networkworld.com/article/3687739/twilio-announces-fresh-round-of-layoffs-impacting-17-of-its-workforce.html#tk.rss_all)
-- [How do you want Microsoft updates — in ‘dribbles’ or all at once?](https://www.computerworld.com/article/3687634/how-do-you-want-microsoft-updates-in-dribbles-or-all-at-once.html#tk.rss_all)
-- [Apple wants to offer your &lpar;digital&rpar; life for rent](https://www.computerworld.com/article/3687632/apple-wants-to-offer-your-digital-life-for-rent.html#tk.rss_all)
-- [South Korean startup Rebellions reportedly launches new AI chip](https://www.computerworld.com/article/3687989/south-korean-startup-rebellions-reportedly-launches-new-ai-chip.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

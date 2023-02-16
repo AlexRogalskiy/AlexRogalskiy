@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ways to extend your company&#39;s runway](https://www.airplane.dev/blog/ways-to-extend-your-companys-runway)
-- [Linode rebranded as Akamai’s cloud computing services](https://www.linode.com/blog/linode/a-bold-new-approach-to-the-cloud/)
-- [How big is a visible photo? [video]](https://www.youtube.com/watch?v=SDtAh9IwG-I)
-- [1: Scale 1983 WarGames WOPR computer model](https://twitter.com/6502b/status/1625507300923392000)
-- [Real and Fake Worlds: Why the Trains Are Failing](https://mikecernovich.substack.com/p/real-and-fake-worlds-why-the-trains)
-- [Thunderbird 115 Supernova Preview: The New Folder Pane](https://blog.thunderbird.net/2023/02/thunderbird-115-supernova-preview-the-new-folder-pane/)
-- [Circadian – Suspend-on-Idle Daemon for GNU/Linux Power Management](https://github.com/mrmekon/circadian)
-- [Only 50% of iPhone Casings Made in India Meet Apple&#39;s Quality Standards](https://www.macrumors.com/2023/02/14/only-half-of-indian-iphone-casings-meet-standards/)
-- [This Pocket PC Is Big on Open Source](https://spectrum.ieee.org/mnt-pocket-reform)
-- [Twitter now “greenlights” all Musk tweets for artificial promotion](https://twitter.com/tomcoates/status/1625678737105915906)
+- [US Border Patrol Is Finally Able to Check E-Passport Data](https://www.wired.com/story/us-border-patrol-epassport-verification/)
+- [CMU CS Academy: a free online computer science curriculum by Carnegie Mellon](https://academy.cs.cmu.edu/)
+- [Wireless Networking in the Developing World](https://wndw.net/book.html)
+- [Keanu Reeves Says Deepfakes ‘Scary,’ Confirms His Contracts Ban Digital Edits](https://variety.com/2023/film/news/keanu-reeves-slams-deepfakes-film-contract-prevents-digital-edits-1235523698/)
+- [The Need to Read](http://www.paulgraham.com/read.html)
+- [Ask HN: What startups/side hustle you built on top of AI APIs?](https://news.ycombinator.com/item?id=34814150)
+- [Elon Musk reportedly forced Twitter algorithm to boost his tweets](https://www.theguardian.com/technology/2023/feb/15/elon-musk-changes-twitter-algorithm-super-bowl-slump-report)
+- [Rumble wins injunction against New York’s online censorship law](https://reclaimthenet.org/rumble-wins-injunction-against-new-yorks-online-censorship-law)
+- [Prompt Marketplace](https://promptbase.com/)
+- [Why Jargon Feeds on Lazy Minds](https://hbr.org/2008/08/why-jargon-feeds-on-lazy-minds)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

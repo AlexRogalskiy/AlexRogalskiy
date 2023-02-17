@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [US Border Patrol Is Finally Able to Check E-Passport Data](https://www.wired.com/story/us-border-patrol-epassport-verification/)
-- [CMU CS Academy: a free online computer science curriculum by Carnegie Mellon](https://academy.cs.cmu.edu/)
-- [Wireless Networking in the Developing World](https://wndw.net/book.html)
-- [Keanu Reeves Says Deepfakes ‘Scary,’ Confirms His Contracts Ban Digital Edits](https://variety.com/2023/film/news/keanu-reeves-slams-deepfakes-film-contract-prevents-digital-edits-1235523698/)
-- [The Need to Read](http://www.paulgraham.com/read.html)
-- [Ask HN: What startups/side hustle you built on top of AI APIs?](https://news.ycombinator.com/item?id=34814150)
-- [Elon Musk reportedly forced Twitter algorithm to boost his tweets](https://www.theguardian.com/technology/2023/feb/15/elon-musk-changes-twitter-algorithm-super-bowl-slump-report)
-- [Rumble wins injunction against New York’s online censorship law](https://reclaimthenet.org/rumble-wins-injunction-against-new-yorks-online-censorship-law)
-- [Prompt Marketplace](https://promptbase.com/)
-- [Why Jargon Feeds on Lazy Minds](https://hbr.org/2008/08/why-jargon-feeds-on-lazy-minds)
+- [How to Power a Plane with Leftover Chinese Hot Pot](https://www.bloomberg.com/news/features/2023-02-15/how-to-power-an-airplane-with-recycled-chinese-hot-pot)
+- [Short clip on Huawei’s tree-planting robot](https://twitter.com/wanfengnannan/status/1394982589044232197)
+- [A human-driven decline in global burned area](https://www.science.org/doi/10.1126/science.aal4108)
+- [Docker Compose NAS](https://github.com/AdrienPoupa/docker-compose-nas)
+- [Vestas has a new way to keep wind turbine blades out of the dump](https://www.canarymedia.com/articles/wind/vestas-has-a-new-way-to-keep-wind-turbine-blades-out-of-the-dump)
+- [Dicts are now ordered, get used to it &lpar;2020&rpar;](https://softwaremaniacs.org/blog/2020/02/05/dicts-ordered/en/)
+- [Meta’s Push to Solve the Noisy Office](https://www.wsj.com/articles/inside-metas-push-to-solve-the-noisy-office-ba43042)
+- [Simple Modern JavaScript Using JavaScript Modules and Import Maps](https://vue-mjs.web-templates.io/blog/javascript)
+- [Constant-time instructions and processor optimizations](https://lwn.net/Articles/921511/)
+- [Git archive generation meets Hyrum&#39;s law](https://lwn.net/Articles/921787/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

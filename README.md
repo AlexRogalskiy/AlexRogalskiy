@@ -355,6 +355,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [To get the most from generative AI, something’s got to change](https://www.computerworld.com/article/3688356/to-get-the-most-from-generative-ai-somethings-got-to-change.html#tk.rss_all)
+- [Teams across all of Apple are now focused on mixed reality](https://www.computerworld.com/article/3688352/teams-across-all-of-apple-are-now-focused-on-mixed-reality.html#tk.rss_all)
+- [Android 13 Upgrade Report Card: Surprise!](https://www.computerworld.com/article/3687640/android-13-upgrade-report-card.html#tk.rss_all)
 - [Security tool adoption jumps, Okta report shows](https://www.computerworld.com/article/3688350/security-tool-adoption-jumps-okta-report-shows.html#tk.rss_all)
 - [BrandPost: The Six Degrees of Customer Experience](https://www.computerworld.com/article/3688349/the-six-degrees-of-customer-experience.html#tk.rss_all)
 - [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
@@ -362,9 +365,6 @@
 - [TSMC board approves $3.5B capital injection for Arizona factory](https://www.computerworld.com/article/3687815/tsmc-board-approves-35b-capital-injection-for-arizona-factory.html#tk.rss_all)
 - [Bard, Bing, and the 90% problem](https://www.computerworld.com/article/3687633/google-bard-chatgpt-bing-ai-chatbot-search.html#tk.rss_all)
 - [Download: UEM vendor comparison chart 2023](https://www.computerworld.com/article/3408656/download-uem-vendor-comparison-chart-unified-endpoint-management.html#tk.rss_all)
-- [Enterprise mobility 2023: UEM meets DEX](https://www.computerworld.com/article/3202649/enterprise-mobility-2023-uem-meets-dex.html#tk.rss_all)
-- [Most in-demand skills for 2023, according to LinkedIn](https://www.computerworld.com/article/3688109/most-in-demand-skills-for-2023-according-to-linkedin.html#tk.rss_all)
-- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [New Zealand v England: first Test – live](https://www.theguardian.com/sport/live/2023/feb/16/new-zealand-v-england-first-test-live-cricket)
-- [‘Perfect explosion’: merger of neutron stars creates spherical cosmic blast](https://www.theguardian.com/science/2023/feb/15/perfect-explosion-kilonova-neutron-stars-explode)
-- [Cyclone Gabrielle: fresh storm warnings for New Zealand’s worst-hit regions as death toll rises to five](https://www.theguardian.com/world/2023/feb/16/cyclone-gabrielle-new-zealand-weather-floods-flooding-storm-warnings-deaths)
-- [US could default this summer unless $31.4tn debt ceiling is raised, CBO warns](https://www.theguardian.com/business/2023/feb/15/us-treasury-default-debt-ceiling)
-- [Golden Mummies of Egypt review – ancient faces meet your eye across millennia](https://www.theguardian.com/artanddesign/2023/feb/16/mummy-issues-the-ancient-faces-that-open-a-window-to-the-beyond)
-- [Unions call for urgent action on England’s ‘dangerous’ school buildings](https://www.theguardian.com/education/2023/feb/16/unions-call-for-urgent-action-on-englands-dangerous-school-buildings)
-- [Most health claims on formula milk ‘not backed by evidence’](https://www.theguardian.com/science/2023/feb/15/most-health-claims-on-formula-milk-not-backed-by-evidence)
-- [Man charged with murder of woman after fire in Stoke-on-Trent](https://www.theguardian.com/uk-news/2023/feb/15/man-charged-with-of-woman-after-fire-in-stoke-on-trent)
-- [Society has never produced so much food, yet we live in a world where only the rich get to be healthy | Van Badham](https://www.theguardian.com/commentisfree/2023/feb/16/society-has-never-produced-so-much-food-yet-we-live-in-a-world-where-only-the-rich-get-to-be-healthy)
-- [Labour to promise more neighbourhood police officers ‘like Catherine Cawood’](https://www.theguardian.com/uk-news/2023/feb/15/labour-to-promise-more-neighbourhood-police-officers-like-catherine-cawood)
+- [New Zealand v England: first Test, day two – live](https://www.theguardian.com/sport/live/2023/feb/17/new-zealand-v-england-first-test-day-two-live-score-updates)
+- [Cyclone Gabrielle: temporary morgues set up in New Zealand as rescues continue](https://www.theguardian.com/world/2023/feb/17/cyclone-gabrielle-nz-temporary-morgues-napier-hastings-death-toll-new-zealand)
+- [‘Trust the government’: EPA seeks to reassure Ohio residents near toxic spill](https://www.theguardian.com/us-news/2023/feb/16/east-palestine-ohio-derailment-toxic-chemicals-epa-meeting)
+- [Joe Biden declared healthy and ‘fit for duty’ after exam at Walter Reed hospital](https://www.theguardian.com/us-news/2023/feb/16/joe-biden-annual-exam-walter-reed-fit-for-duty)
+- [Russia-Ukraine war at a glance: what we know on day 359 of the invasion](https://www.theguardian.com/world/2023/feb/17/russia-ukraine-war-at-a-glance-what-we-know-on-day-359-of-the-invasion)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/blog/2023/feb/17/premier-league-10-things-to-look-out-for-this-weekend)
+- [‘It’s a long-term journey we’re on’: taking a ride towards self-driving cars](https://www.theguardian.com/technology/2023/feb/17/taking-ride-self-driving-car-nissan-servcity-autonomous-vehicles)
+- [Skrillex: Quest for Fire review | Alexis Petridis&#39;s album of the week](https://www.theguardian.com/music/2023/feb/17/skrillex-quest-for-fire-review-edm-owsla-atlantic)
+- [Oregon overturns ‘second amendment sanctuary’ law in blow to gun movement](https://www.theguardian.com/us-news/2023/feb/16/oregon-second-amendment-sanctuary-decision)
+- [Rishi Sunak travels to Belfast in sign NI protocol deal is imminent](https://www.theguardian.com/politics/2023/feb/16/rishi-sunak-travel-belfast-ni-protocol-deal-imminent)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

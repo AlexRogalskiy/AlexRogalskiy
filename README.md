@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Show HN: Ractor – a Rust-based actor framework with clusters and supervisors](https://github.com/slawlor/ractor)
-- [Scientists find first observational evidence linking black holes to dark energy](https://news.umich.edu/scientists-find-first-observational-evidence-linking-black-holes-to-dark-energy/)
-- [Cut the Cutesy Errors](https://alexwlchan.net/2022/no-cute/)
-- [SkyNews &lpar;Canadian Astronomy magazine&rpar; is closing](https://skynews.ca/skynews-is-closing/)
-- [Zantac’s maker kept quiet about cancer risks for 40 years](https://www.fiercepharma.com/pharma/gsk-was-warned-repeatedly-about-zantac-risks-didnt-act-warnings-bloomberg)
-- [SQLite the only database you will ever need in most cases](https://www.unixsheikh.com/articles/sqlite-the-only-database-you-will-ever-need-in-most-cases.html)
-- [SOBA: Potential blood test for Alzheimer&amp;#x27;s disease](https://www.pnas.org/doi/10.1073/pnas.2213157119)
-- [Apple Reportedly Planning to Limit iPhone 15 USB-C Port in Same Way as Lightning](https://www.macrumors.com/2023/02/10/apple-planning-to-limit-iphone-15-usb-c-port/)
-- [Prompt Engine – Microsoft&amp;#x27;s prompt engineering library](https://github.com/microsoft/prompt-engine)
-- [Intel Publishes Fast AVX-512 Sorting Library, 10~17x Faster Sorts in NumPy](https://www.phoronix.com/news/Intel-AVX-512-Quicksort-Numpy)
+- [SEC Charges Terraform and CEO Do Kwon with Defrauding Investors InCrypto Schemes](https://www.sec.gov/news/press-release/2023-32)
+- [Sloth – A Mac app that shows all open files, directories, sockets, etc.](https://github.com/sveinbjornt/Sloth)
+- [New Malware Abuses Microsoft IIS Feature to Establish Backdoor](https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/frebniis-malware-iis)
+- [InCaptions: Search in YouTube Captions](https://incaptions.com/)
+- [I_suck_and_my_tests_are_order_dependent](https://www.rubydoc.info/gems/minitest/Minitest%2FTest.i_suck_and_my_tests_are_order_dependent!)
+- [Hydrogen: Does Earth hold vast stores of a renewable, carbon-free fuel?](https://www.science.org/content/article/hidden-hydrogen-earth-may-hold-vast-stores-renewable-carbon-free-fuel)
+- [Show HN: I made an early 2000s-inspired internet forum](https://basementcommunity.com)
+- [Writing JavaScript without a build system](https://jvns.ca/blog/2023/02/16/writing-javascript-without-a-build-system/)
+- [The Silicon Valley Loop](https://nymag.com/intelligencer/2023/02/the-silicon-valley-loop-malcolm-harriss-palo-alto.html)
+- [Programming AIs worry me](https://buttondown.email/hillelwayne/archive/programming-ais-worry-me/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

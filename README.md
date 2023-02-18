@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [New Zealand v England: first Test, day two – live](https://www.theguardian.com/sport/live/2023/feb/17/new-zealand-v-england-first-test-day-two-live-score-updates)
-- [Cyclone Gabrielle: temporary morgues set up in New Zealand as rescues continue](https://www.theguardian.com/world/2023/feb/17/cyclone-gabrielle-nz-temporary-morgues-napier-hastings-death-toll-new-zealand)
-- [‘Trust the government’: EPA seeks to reassure Ohio residents near toxic spill](https://www.theguardian.com/us-news/2023/feb/16/east-palestine-ohio-derailment-toxic-chemicals-epa-meeting)
-- [Joe Biden declared healthy and ‘fit for duty’ after exam at Walter Reed hospital](https://www.theguardian.com/us-news/2023/feb/16/joe-biden-annual-exam-walter-reed-fit-for-duty)
-- [Russia-Ukraine war at a glance: what we know on day 359 of the invasion](https://www.theguardian.com/world/2023/feb/17/russia-ukraine-war-at-a-glance-what-we-know-on-day-359-of-the-invasion)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/blog/2023/feb/17/premier-league-10-things-to-look-out-for-this-weekend)
-- [‘It’s a long-term journey we’re on’: taking a ride towards self-driving cars](https://www.theguardian.com/technology/2023/feb/17/taking-ride-self-driving-car-nissan-servcity-autonomous-vehicles)
-- [Skrillex: Quest for Fire review | Alexis Petridis&#39;s album of the week](https://www.theguardian.com/music/2023/feb/17/skrillex-quest-for-fire-review-edm-owsla-atlantic)
-- [Oregon overturns ‘second amendment sanctuary’ law in blow to gun movement](https://www.theguardian.com/us-news/2023/feb/16/oregon-second-amendment-sanctuary-decision)
-- [Rishi Sunak travels to Belfast in sign NI protocol deal is imminent](https://www.theguardian.com/politics/2023/feb/16/rishi-sunak-travel-belfast-ni-protocol-deal-imminent)
+- [New Zealand v England: first Test, day three – live](https://www.theguardian.com/sport/live/2023/feb/18/new-zealand-v-england-first-test-day-three-live)
+- [Medea review – Sophie Okonedo is magnificent as ancient Greece’s preeminent rebel woman](https://www.theguardian.com/stage/2023/feb/18/medea-review-sohoplace-london)
+- [The Strictly shuffle: Baftas shake things up with new TV format as awards go live](https://www.theguardian.com/film/2023/feb/18/the-strictly-shuffle-baftas-shake-things-up-with-new-tv-format-as-awards-go-live)
+- [Nearly 1,000 contributors protest New York Times’ coverage of trans people](https://www.theguardian.com/us-news/2023/feb/17/new-york-times-contributors-open-letter-protest-anti-trans-coverage)
+- [Candlelit vigil for Brianna Ghey held in home village of Culcheth](https://www.theguardian.com/uk-news/2023/feb/17/appeal-for-brianna-gheys-family-raises-more-than-100000)
+- [Sheikh Jassim bin Hamad al-Thani confirms bid for Manchester United](https://www.theguardian.com/football/2023/feb/17/sheikh-jassim-bin-hamad-al-thani-confirms-bid-for-manchester-united)
+- [Pep Guardiola insists surprise tactical tweaks will continue at Manchester City](https://www.theguardian.com/football/2023/feb/17/pep-guardiola-insists-surprise-tactical-tweaks-will-continue-at-manchester-city)
+- [Rishi Sunak to call for new Nato charter to ensure ‘lasting peace’ for Ukraine](https://www.theguardian.com/politics/2023/feb/17/rishi-sunak-speech-ukraine-munich-security-conference)
+- [Klopp says Ceferin should not resign but Paris was ‘worst possible’ venue for final](https://www.theguardian.com/football/2023/feb/17/klopp-says-ceferin-should-not-resign-liverpool-champions-league-final)
+- [Police release of Nicola Bulley’s personal details ‘as sexist as it comes’](https://www.theguardian.com/uk-news/2023/feb/17/police-release-of-nicola-bulleys-personal-details-as-sexist-as-it-comes)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [SEC Charges Terraform and CEO Do Kwon with Defrauding Investors InCrypto Schemes](https://www.sec.gov/news/press-release/2023-32)
-- [Sloth – A Mac app that shows all open files, directories, sockets, etc.](https://github.com/sveinbjornt/Sloth)
-- [New Malware Abuses Microsoft IIS Feature to Establish Backdoor](https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/frebniis-malware-iis)
-- [InCaptions: Search in YouTube Captions](https://incaptions.com/)
-- [I_suck_and_my_tests_are_order_dependent](https://www.rubydoc.info/gems/minitest/Minitest%2FTest.i_suck_and_my_tests_are_order_dependent!)
-- [Hydrogen: Does Earth hold vast stores of a renewable, carbon-free fuel?](https://www.science.org/content/article/hidden-hydrogen-earth-may-hold-vast-stores-renewable-carbon-free-fuel)
-- [Show HN: I made an early 2000s-inspired internet forum](https://basementcommunity.com)
-- [Writing JavaScript without a build system](https://jvns.ca/blog/2023/02/16/writing-javascript-without-a-build-system/)
-- [The Silicon Valley Loop](https://nymag.com/intelligencer/2023/02/the-silicon-valley-loop-malcolm-harriss-palo-alto.html)
-- [Programming AIs worry me](https://buttondown.email/hillelwayne/archive/programming-ais-worry-me/)
+- [Ask HN: What would it take for an AI to convince us it is conscious?](https://news.ycombinator.com/item?id=34843137)
+- [Grug Notes, A tool for text: simple, fast, self-organizing notes](https://grugnotes.com/)
+- [Rejected Emoji Proposals](https://charlottebuff.com/unicode/misc/rejected-emoji-proposals/)
+- [An update on two-factor authentication using SMS on Twitter](https://blog.twitter.com/en_us/topics/product/2023/an-update-on-two-factor-authentication-using-sms-on-twitter)
+- [MySpace Rebuilt on Squarespace CMS](https://www.mysquare.space)
+- [Making macOS Apps Uninstallable](https://notes.alinpanaitiu.com/Making%20macOS%20apps%20uninstallable)
+- [Clinic to open near Ohio derailment as health worries linger](https://apnews.com/article/pennsylvania-ohio-climate-and-environment-health-ad32648e67289166f9ae1e9d104ca53b)
+- [Alles Mesh Synthesizer](https://notes.variogram.com/2022/09/23/alles-amy/)
+- [Man beats machine at Go in human victory over AI](https://www.ft.com/content/175e5314-a7f7-4741-a786-273219f433a1)
+- [Loved Before – Recycled soft toy store](https://www.lovedbefore.london)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [How to Power a Plane with Leftover Chinese Hot Pot](https://www.bloomberg.com/news/features/2023-02-15/how-to-power-an-airplane-with-recycled-chinese-hot-pot)
-- [Short clip on Huawei’s tree-planting robot](https://twitter.com/wanfengnannan/status/1394982589044232197)
-- [A human-driven decline in global burned area](https://www.science.org/doi/10.1126/science.aal4108)
-- [Docker Compose NAS](https://github.com/AdrienPoupa/docker-compose-nas)
-- [Vestas has a new way to keep wind turbine blades out of the dump](https://www.canarymedia.com/articles/wind/vestas-has-a-new-way-to-keep-wind-turbine-blades-out-of-the-dump)
-- [Dicts are now ordered, get used to it &lpar;2020&rpar;](https://softwaremaniacs.org/blog/2020/02/05/dicts-ordered/en/)
-- [Meta’s Push to Solve the Noisy Office](https://www.wsj.com/articles/inside-metas-push-to-solve-the-noisy-office-ba43042)
-- [Simple Modern JavaScript Using JavaScript Modules and Import Maps](https://vue-mjs.web-templates.io/blog/javascript)
-- [Constant-time instructions and processor optimizations](https://lwn.net/Articles/921511/)
-- [Git archive generation meets Hyrum&#39;s law](https://lwn.net/Articles/921787/)
+- [Virtual reality telemetry means you can virtually kiss goodbye to privacy](https://www.theregister.com/2023/02/18/vr_telemetry_identity/)
+- [Investors, techies gather in San Francisco to bathe in hype sparked by ChatGPT](https://www.cnbc.com/2023/02/17/jasper-generative-ai-conference-in-san-francisco-what-was-it-like.html)
+- [Microsoft limits Bing chats to 5 questions per session, 50 questions per day](https://www.reuters.com/technology/microsoft-limits-bing-chats-5-questions-per-session-2023-02-18/)
+- [Symbolic Discovery of Optimization Algorithms](https://arxiv.org/abs/2302.06675)
+- [Twitter will now charge to secure your account with an SMS text message](https://www.theverge.com/2023/2/17/23605073/twitter-blue-charge-sms-2fa)
+- [Ask HN: What would it take for an AI to convince us it is conscious?](https://news.ycombinator.com/item?id=34843137)
+- [It&#39;s probably time to stop recommending Clean Code &lpar;2020&rpar;](https://qntm.org/clean)
+- [Waymo expands service in San Francisco](https://www.axios.com/local/san-francisco/2023/02/17/waymo-san-francisco-service-expansion-autonomous-cars)
+- [What Is a Mathematical Structure of Conscious Experience?](https://arxiv.org/abs/2301.11812)
+- [Grug Notes, A tool for text: simple, fast, self-organizing notes](https://grugnotes.com/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

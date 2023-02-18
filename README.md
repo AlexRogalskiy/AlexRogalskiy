@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [EU parliamentary committee says &#39;no&#39; to EU-US data privacy framework](https://www.computerworld.com/article/3688512/eu-parliamentary-committee-says-no-to-eu-us-data-privacy-framework.html#tk.rss_all)
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
+- [Microsoft officially unleashes Windows 11 on Apple Silicon Macs](https://www.computerworld.com/article/3688552/microsoft-officially-unleashes-windows-11-on-apple-silicon-macs.html#tk.rss_all)
+- [Three zero-days require urgent attention for Windows, Exchange](https://www.computerworld.com/article/3688551/three-zero-days-require-urgent-attention-for-windows-exchange.html#tk.rss_all)
+- [Q&amp;A: What happened when a customer support company upgraded some features to ChatGPT?](https://www.computerworld.com/article/3688428/qa-what-happened-when-a-chatbot-provider-upgraded-to-chatgpt.html#tk.rss_all)
 - [To get the most from generative AI, something’s got to change](https://www.computerworld.com/article/3688356/to-get-the-most-from-generative-ai-somethings-got-to-change.html#tk.rss_all)
 - [Teams across all of Apple are now focused on mixed reality](https://www.computerworld.com/article/3688352/teams-across-all-of-apple-are-now-focused-on-mixed-reality.html#tk.rss_all)
 - [Android 13 Upgrade Report Card: Surprise!](https://www.computerworld.com/article/3687640/android-13-upgrade-report-card.html#tk.rss_all)
 - [Security tool adoption jumps, Okta report shows](https://www.computerworld.com/article/3688350/security-tool-adoption-jumps-okta-report-shows.html#tk.rss_all)
-- [BrandPost: The Six Degrees of Customer Experience](https://www.computerworld.com/article/3688349/the-six-degrees-of-customer-experience.html#tk.rss_all)
-- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
-- [OpenAI-based &#39;MacWhisper&#39; could meet all your transcription needs](https://www.computerworld.com/article/3688229/openai-based-macwhisper-could-meet-all-your-transcription-needs.html#tk.rss_all)
-- [TSMC board approves $3.5B capital injection for Arizona factory](https://www.computerworld.com/article/3687815/tsmc-board-approves-35b-capital-injection-for-arizona-factory.html#tk.rss_all)
-- [Bard, Bing, and the 90% problem](https://www.computerworld.com/article/3687633/google-bard-chatgpt-bing-ai-chatbot-search.html#tk.rss_all)
-- [Download: UEM vendor comparison chart 2023](https://www.computerworld.com/article/3408656/download-uem-vendor-comparison-chart-unified-endpoint-management.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

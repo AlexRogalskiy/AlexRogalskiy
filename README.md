@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [New Zealand v England: first Test, day three – live](https://www.theguardian.com/sport/live/2023/feb/18/new-zealand-v-england-first-test-day-three-live)
-- [Medea review – Sophie Okonedo is magnificent as ancient Greece’s preeminent rebel woman](https://www.theguardian.com/stage/2023/feb/18/medea-review-sohoplace-london)
-- [The Strictly shuffle: Baftas shake things up with new TV format as awards go live](https://www.theguardian.com/film/2023/feb/18/the-strictly-shuffle-baftas-shake-things-up-with-new-tv-format-as-awards-go-live)
-- [Nearly 1,000 contributors protest New York Times’ coverage of trans people](https://www.theguardian.com/us-news/2023/feb/17/new-york-times-contributors-open-letter-protest-anti-trans-coverage)
-- [Candlelit vigil for Brianna Ghey held in home village of Culcheth](https://www.theguardian.com/uk-news/2023/feb/17/appeal-for-brianna-gheys-family-raises-more-than-100000)
-- [Sheikh Jassim bin Hamad al-Thani confirms bid for Manchester United](https://www.theguardian.com/football/2023/feb/17/sheikh-jassim-bin-hamad-al-thani-confirms-bid-for-manchester-united)
-- [Pep Guardiola insists surprise tactical tweaks will continue at Manchester City](https://www.theguardian.com/football/2023/feb/17/pep-guardiola-insists-surprise-tactical-tweaks-will-continue-at-manchester-city)
-- [Rishi Sunak to call for new Nato charter to ensure ‘lasting peace’ for Ukraine](https://www.theguardian.com/politics/2023/feb/17/rishi-sunak-speech-ukraine-munich-security-conference)
-- [Klopp says Ceferin should not resign but Paris was ‘worst possible’ venue for final](https://www.theguardian.com/football/2023/feb/17/klopp-says-ceferin-should-not-resign-liverpool-champions-league-final)
-- [Police release of Nicola Bulley’s personal details ‘as sexist as it comes’](https://www.theguardian.com/uk-news/2023/feb/17/police-release-of-nicola-bulleys-personal-details-as-sexist-as-it-comes)
+- [New Zealand v England: first Test, day four – live](https://www.theguardian.com/sport/live/2023/feb/19/new-zealand-v-england-first-test-day-four-live)
+- [Russia-Ukraine war at a glance: what we know on day 361 of the invasion](https://www.theguardian.com/world/2023/feb/19/russia-ukraine-war-at-a-glance-what-we-know-on-day-361-of-the-invasion)
+- [Deadly air strike on Kafr Sousa suburb of Damascus](https://www.theguardian.com/world/2023/feb/19/deadly-air-strike-on-kafr-sousa-suburb-of-damascus)
+- [‘Everyone’s pretty gutted’: New Zealanders struggle to pick up pieces after Cyclone Gabrielle](https://www.theguardian.com/world/2023/feb/19/everyones-pretty-gutted-new-zealanders-struggle-to-pick-up-pieces-after-cyclone-gabrielle)
+- [Brussels tries to form united front against Putin’s oligarchs](https://www.theguardian.com/world/2023/feb/19/brussels-tries-to-form-united-front-against-putins-oligarchs)
+- [Revealed: record number of households in UK depending on food banks](https://www.theguardian.com/society/2023/feb/19/record-number-of-uk-households-depending-on-food-banks)
+- [Blinken meets with China’s top diplomat after US shoots down balloon](https://www.theguardian.com/us-news/2023/feb/18/us-china-relations-antony-blinken-wang-yi-balloon)
+- [Refugee charity rejects Tory vice-chair’s claim they are ‘just as bad as people-smugglers’](https://www.theguardian.com/world/2023/feb/18/refugee-charity-rejects-tory-vice-chairs-claim-they-are-just-as-bad-as-people-smugglers)
+- [Oversized shirts: 5 ways to style your favourite top – in pictures](https://www.theguardian.com/fashion/gallery/2023/feb/18/oversized-shirts-5-ways-to-style-your-favourite-top-in-pictures)
+- [SNP leadership: Humza Yousaf and Ash Regan announce plans to stand](https://www.theguardian.com/uk-news/2023/feb/18/snp-leadership-humza-yousaf-and-ash-regan-announces-plans-to-stand)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

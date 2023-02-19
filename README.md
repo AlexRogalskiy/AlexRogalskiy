@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Ask HN: What would it take for an AI to convince us it is conscious?](https://news.ycombinator.com/item?id=34843137)
-- [Grug Notes, A tool for text: simple, fast, self-organizing notes](https://grugnotes.com/)
-- [Rejected Emoji Proposals](https://charlottebuff.com/unicode/misc/rejected-emoji-proposals/)
-- [An update on two-factor authentication using SMS on Twitter](https://blog.twitter.com/en_us/topics/product/2023/an-update-on-two-factor-authentication-using-sms-on-twitter)
-- [MySpace Rebuilt on Squarespace CMS](https://www.mysquare.space)
-- [Making macOS Apps Uninstallable](https://notes.alinpanaitiu.com/Making%20macOS%20apps%20uninstallable)
-- [Clinic to open near Ohio derailment as health worries linger](https://apnews.com/article/pennsylvania-ohio-climate-and-environment-health-ad32648e67289166f9ae1e9d104ca53b)
-- [Alles Mesh Synthesizer](https://notes.variogram.com/2022/09/23/alles-amy/)
-- [Man beats machine at Go in human victory over AI](https://www.ft.com/content/175e5314-a7f7-4741-a786-273219f433a1)
-- [Loved Before – Recycled soft toy store](https://www.lovedbefore.london)
+- [&amp;quot;BGP at home&amp;quot;: getting a DIA circuit installed at home](https://aaka.sh/posts/20230129-bgp-at-home.html)
+- [80k megapixel panorama photograph of New York City](https://www.earthcam.net/projects/empirestatebuilding/gigapixelpanorama/2021/)
+- [Portugal Says No More Golden Visas and No More Airbnbs](https://gizmodo.com/digital-nomad-airbnb-golden-visa-remote-work-1850127066)
+- [A Spiritual Successor to Emacs](https://vivekhaldar.com/articles/a-spiritual-successor-to-emacs/)
+- [Fully documented source code for Elite on the BBC Micro](https://www.bbcelite.com/)
+- [Show HN: Sora, Personal Publishing Platform](https://sora.city/)
+- [Setting Up an Electronics Workshop](https://lcamtuf.substack.com/p/setting-up-an-electronics-workshop)
+- [The AI Mirror Test, which smart people keep failing](https://www.theverge.com/23604075/ai-chatbots-bing-chatgpt-intelligent-sentient-mirror-test)
+- [Voice.ai denies claim it violated open source software license requirements](https://www.theregister.com/2023/02/08/voiceai_open_source/)
+- [Poor schemas, poor cataloguing: why music tagging sucks](https://sporks.space/2023/02/18/poor-schemas-poor-cataloguing-why-music-tagging-sucks/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

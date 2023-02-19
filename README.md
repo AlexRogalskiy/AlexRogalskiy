@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Virtual reality telemetry means you can virtually kiss goodbye to privacy](https://www.theregister.com/2023/02/18/vr_telemetry_identity/)
-- [Investors, techies gather in San Francisco to bathe in hype sparked by ChatGPT](https://www.cnbc.com/2023/02/17/jasper-generative-ai-conference-in-san-francisco-what-was-it-like.html)
-- [Microsoft limits Bing chats to 5 questions per session, 50 questions per day](https://www.reuters.com/technology/microsoft-limits-bing-chats-5-questions-per-session-2023-02-18/)
-- [Symbolic Discovery of Optimization Algorithms](https://arxiv.org/abs/2302.06675)
-- [Twitter will now charge to secure your account with an SMS text message](https://www.theverge.com/2023/2/17/23605073/twitter-blue-charge-sms-2fa)
-- [Ask HN: What would it take for an AI to convince us it is conscious?](https://news.ycombinator.com/item?id=34843137)
-- [It&#39;s probably time to stop recommending Clean Code &lpar;2020&rpar;](https://qntm.org/clean)
-- [Waymo expands service in San Francisco](https://www.axios.com/local/san-francisco/2023/02/17/waymo-san-francisco-service-expansion-autonomous-cars)
-- [What Is a Mathematical Structure of Conscious Experience?](https://arxiv.org/abs/2301.11812)
-- [Grug Notes, A tool for text: simple, fast, self-organizing notes](https://grugnotes.com/)
+- [Our Philosophy of Working](https://www.thinkmill.com.au/writing/thinkmills-philosophy-of-working/)
+- [Ask HN: Why everyone forgot about epilepsy warnings?](https://news.ycombinator.com/item?id=34853618)
+- [The US plan to become the world’s cleantech superpower](https://www.ft.com/content/e0b55820-3a16-4018-a417-0e7c91737ffd)
+- [Study suggests watching nature documentaries on TV is good for the planet](https://phys.org/news/2023-02-nature-documentaries-tv-good-planet.html)
+- [Containers of fossils from 1909 expedition reconstructed nondestructively](https://phys.org/news/2023-02-contents-fossils-reconstructed-nondestructively.html)
+- [Cobalt, a crucial battery material, is suddenly superabundant](https://www.economist.com/finance-and-economics/2023/02/16/cobalt-a-crucial-battery-material-is-suddenly-superabundant)
+- [A link in bio – Your personal page to show everything you are, create and sell](https://bento.me/en/home)
+- [DuskOS – 32-bit Forth OS mixed with C](https://sr.ht/~vdupras/duskos/)
+- [Debian 12 “Bookworm” Enters Its Soft Freeze](https://www.phoronix.com/news/Debian-12-Soft-Freeze)
+- [Dead after Tesla slams into fire truck](https://www.cbsnews.com/sanfrancisco/news/1-dead-5-injured-including-firefighters-when-tesla-slams-into-fire-truck-on-i-680/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

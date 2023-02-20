@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [&amp;quot;BGP at home&amp;quot;: getting a DIA circuit installed at home](https://aaka.sh/posts/20230129-bgp-at-home.html)
-- [80k megapixel panorama photograph of New York City](https://www.earthcam.net/projects/empirestatebuilding/gigapixelpanorama/2021/)
-- [Portugal Says No More Golden Visas and No More Airbnbs](https://gizmodo.com/digital-nomad-airbnb-golden-visa-remote-work-1850127066)
-- [A Spiritual Successor to Emacs](https://vivekhaldar.com/articles/a-spiritual-successor-to-emacs/)
-- [Fully documented source code for Elite on the BBC Micro](https://www.bbcelite.com/)
-- [Show HN: Sora, Personal Publishing Platform](https://sora.city/)
-- [Setting Up an Electronics Workshop](https://lcamtuf.substack.com/p/setting-up-an-electronics-workshop)
-- [The AI Mirror Test, which smart people keep failing](https://www.theverge.com/23604075/ai-chatbots-bing-chatgpt-intelligent-sentient-mirror-test)
-- [Voice.ai denies claim it violated open source software license requirements](https://www.theregister.com/2023/02/08/voiceai_open_source/)
-- [Poor schemas, poor cataloguing: why music tagging sucks](https://sporks.space/2023/02/18/poor-schemas-poor-cataloguing-why-music-tagging-sucks/)
+- [Our Reality May Be a Sum of All Possible Realities](https://www.quantamagazine.org/how-our-reality-may-be-a-sum-of-all-possible-realities-20230206/)
+- [Police say GPS tag darts can eliminate need for dangerous high-speed chases](https://www.cbsnews.com/chicago/news/oak-brook-police-gps-tag-darts/)
+- [Bing threatens to dox a student in revenge for prompt hacking](https://twitter.com/tobyordoxford/status/1627414519784910849)
+- [I still Lisp &lpar;2021&rpar;](https://betterprogramming.pub/why-i-still-lisp-and-you-should-too-18a2ae36bd8)
+- [IBM Research&amp;#x27;s Vela Is an AI Supercomputer in the Cloud](https://research.ibm.com/blog/AI-supercomputer-Vela-GPU-cluster)
+- [Library of Congress Digitization Strategy: 2023-2027](https://blogs.loc.gov/thesignal/2023/02/library-of-congress-digitization-strategy-2023-2027/)
+- [Rust – What made it “click” for me &lpar;Ownership and memory internals&rpar;](https://deavid.wordpress.com/2021/06/06/rust-what-made-it-click-for-me-ownership-memory-internals/)
+- [Using AI tools to design an entire website](https://www.samdickie.me/writing/experiment-1-creating-a-landing-page-using-ai-tools-no-code)
+- [Self hosting in 2023](https://grifel.dev/decentralization/)
+- [Functional Core, Imperative Shell &lpar;2012&rpar;](https://www.destroyallsoftware.com/screencasts/catalog/functional-core-imperative-shell)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

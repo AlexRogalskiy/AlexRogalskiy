@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Our Philosophy of Working](https://www.thinkmill.com.au/writing/thinkmills-philosophy-of-working/)
-- [Ask HN: Why everyone forgot about epilepsy warnings?](https://news.ycombinator.com/item?id=34853618)
-- [The US plan to become the world’s cleantech superpower](https://www.ft.com/content/e0b55820-3a16-4018-a417-0e7c91737ffd)
-- [Study suggests watching nature documentaries on TV is good for the planet](https://phys.org/news/2023-02-nature-documentaries-tv-good-planet.html)
-- [Containers of fossils from 1909 expedition reconstructed nondestructively](https://phys.org/news/2023-02-contents-fossils-reconstructed-nondestructively.html)
-- [Cobalt, a crucial battery material, is suddenly superabundant](https://www.economist.com/finance-and-economics/2023/02/16/cobalt-a-crucial-battery-material-is-suddenly-superabundant)
-- [A link in bio – Your personal page to show everything you are, create and sell](https://bento.me/en/home)
-- [DuskOS – 32-bit Forth OS mixed with C](https://sr.ht/~vdupras/duskos/)
-- [Debian 12 “Bookworm” Enters Its Soft Freeze](https://www.phoronix.com/news/Debian-12-Soft-Freeze)
-- [Dead after Tesla slams into fire truck](https://www.cbsnews.com/sanfrancisco/news/1-dead-5-injured-including-firefighters-when-tesla-slams-into-fire-truck-on-i-680/)
+- [A Toy Programming Language 1.0.0](https://github.com/Ratstail91/Toy/releases/tag/v1.0.0)
+- [A Secretive Israeli Company Says It Manipulated More Than 30 Elections Worldwide](https://gizmodo.com/team-jorge-election-meddling-tal-hanan-misinformation-1850120328)
+- [“Blowing up pipelines is a war crime” vivid chants in Washington DC](https://twitter.com/anyaparampil/status/1627424478660632578)
+- [The Next Hot Housing Market Is Out of This World. It’s in the Metaverse](https://www.nytimes.com/2023/02/19/realestate/metaverse-vr-housing-market.html)
+- [Buffer](https://publish.buffer.com/)
+- [Ten Oldest National Flags](https://www.oldest.org/culture/flags/)
+- [Ask HN: Finding a Business Mentor](https://news.ycombinator.com/item?id=34864065)
+- [Flying Planes with Python and JavaScript](https://pomax.github.io/are-we-flying/)
+- [Facebook Parent Plans to Sell ‘Meta Verified’ Accounts](https://www.nytimes.com/2023/02/19/business/meta-facebook-instagram-verified-accounts.html)
+- [Business software: what&#39;s a price which doesn&#39;t need approval?](https://news.ycombinator.com/item?id=34864003)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

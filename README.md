@@ -355,6 +355,7 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Google Sheets power tips: How to use pivot tables](https://www.computerworld.com/article/3686110/google-sheets-how-to-use-pivot-tables.html#tk.rss_all)
 - [EU parliamentary committee says &#39;no&#39; to EU-US data privacy framework](https://www.computerworld.com/article/3688512/eu-parliamentary-committee-says-no-to-eu-us-data-privacy-framework.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
@@ -364,7 +365,6 @@
 - [To get the most from generative AI, something’s got to change](https://www.computerworld.com/article/3688356/to-get-the-most-from-generative-ai-somethings-got-to-change.html#tk.rss_all)
 - [Teams across all of Apple are now focused on mixed reality](https://www.computerworld.com/article/3688352/teams-across-all-of-apple-are-now-focused-on-mixed-reality.html#tk.rss_all)
 - [Android 13 Upgrade Report Card: Surprise!](https://www.computerworld.com/article/3687640/android-13-upgrade-report-card.html#tk.rss_all)
-- [Security tool adoption jumps, Okta report shows](https://www.computerworld.com/article/3688350/security-tool-adoption-jumps-okta-report-shows.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

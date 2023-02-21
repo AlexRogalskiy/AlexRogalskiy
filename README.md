@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [A Toy Programming Language 1.0.0](https://github.com/Ratstail91/Toy/releases/tag/v1.0.0)
-- [A Secretive Israeli Company Says It Manipulated More Than 30 Elections Worldwide](https://gizmodo.com/team-jorge-election-meddling-tal-hanan-misinformation-1850120328)
-- [“Blowing up pipelines is a war crime” vivid chants in Washington DC](https://twitter.com/anyaparampil/status/1627424478660632578)
-- [The Next Hot Housing Market Is Out of This World. It’s in the Metaverse](https://www.nytimes.com/2023/02/19/realestate/metaverse-vr-housing-market.html)
-- [Buffer](https://publish.buffer.com/)
-- [Ten Oldest National Flags](https://www.oldest.org/culture/flags/)
-- [Ask HN: Finding a Business Mentor](https://news.ycombinator.com/item?id=34864065)
-- [Flying Planes with Python and JavaScript](https://pomax.github.io/are-we-flying/)
-- [Facebook Parent Plans to Sell ‘Meta Verified’ Accounts](https://www.nytimes.com/2023/02/19/business/meta-facebook-instagram-verified-accounts.html)
-- [Business software: what&#39;s a price which doesn&#39;t need approval?](https://news.ycombinator.com/item?id=34864003)
+- [Latency Compensating Methods in Client/Server Game Protocol &lpar;2001&rpar;](https://developer.valvesoftware.com/wiki/Latency_Compensating_Methods_in_Client/Server_In-game_Protocol_Design_and_Optimization)
+- [ChatGPT and UTF-8 encoding rules](https://social.treehouse.systems/@marcan/109897648211048548)
+- [Ask HN: What do you use for basic data analysis, visualization, and graphing?](https://news.ycombinator.com/item?id=34875728)
+- [Whatever Happened to the Metaverse?](https://www.ft.com/content/bddec314-3f4c-4296-ae6f-eb2a5328c109)
+- [Microsoft Teams is getting big performance improvements next month](https://www.theverge.com/2023/2/20/23607037/microsoft-teams-performance-improvements-less-cpu-memory)
+- [The Drive Home](https://ghiculescu.substack.com/p/the-drive-home)
+- [Driver Assistance Technologies Reduce Front-to-Rear Crashes by 50%](https://www.mitre.org/news-insights/news-release/forward-collision-warning-and-automatic-emergency-braking-reduce-front)
+- [Professor writes history essays with ChatGPT and has students correct them](https://old.reddit.com/r/ChatGPT/comments/117gtom/my_friend_is_in_university_and_taking_a_history/)
+- [Alfred instituted the Nobel peace prize to “relieve his conscience”](https://qz.com/1092033/nobel-prize-2017-the-inventor-of-the-awards-alfred-nobel-didnt-want-to-be-remembered-for-his-work)
+- [Ask HN: Morning “standup”, minus the bad parts, for morning motivation?](https://news.ycombinator.com/item?id=34875608)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Our Reality May Be a Sum of All Possible Realities](https://www.quantamagazine.org/how-our-reality-may-be-a-sum-of-all-possible-realities-20230206/)
-- [Police say GPS tag darts can eliminate need for dangerous high-speed chases](https://www.cbsnews.com/chicago/news/oak-brook-police-gps-tag-darts/)
-- [Bing threatens to dox a student in revenge for prompt hacking](https://twitter.com/tobyordoxford/status/1627414519784910849)
-- [I still Lisp &lpar;2021&rpar;](https://betterprogramming.pub/why-i-still-lisp-and-you-should-too-18a2ae36bd8)
-- [IBM Research&amp;#x27;s Vela Is an AI Supercomputer in the Cloud](https://research.ibm.com/blog/AI-supercomputer-Vela-GPU-cluster)
-- [Library of Congress Digitization Strategy: 2023-2027](https://blogs.loc.gov/thesignal/2023/02/library-of-congress-digitization-strategy-2023-2027/)
-- [Rust – What made it “click” for me &lpar;Ownership and memory internals&rpar;](https://deavid.wordpress.com/2021/06/06/rust-what-made-it-click-for-me-ownership-memory-internals/)
-- [Using AI tools to design an entire website](https://www.samdickie.me/writing/experiment-1-creating-a-landing-page-using-ai-tools-no-code)
-- [Self hosting in 2023](https://grifel.dev/decentralization/)
-- [Functional Core, Imperative Shell &lpar;2012&rpar;](https://www.destroyallsoftware.com/screencasts/catalog/functional-core-imperative-shell)
+- [Clarksworld closes submissions due to GPT spam](https://twitter.com/ShackletonCI/status/1627730312925966336)
+- [Ask HN: What do you use for basic data analysis, visualization, and graphing?](https://news.ycombinator.com/item?id=34875728)
+- [Professor writes history essays with ChatGPT and has students correct them](https://old.reddit.com/r/ChatGPT/comments/117gtom/my_friend_is_in_university_and_taking_a_history/)
+- [Databricks counts being laid off as “red flag”](https://www.teamblind.com/post/Databricks---deplorable-company-5TX4Mn6C)
+- [&amp;#x27;artificial photosynthesis&amp;#x27; claimed 10x more efficient](https://news.uchicago.edu/story/chemists-create-artificial-photosynthesis-system-10-times-more-efficient-existing-systems)
+- [Widespread ethernet issues reported on new M2 Pro Mac mini](https://forums.macrumors.com/threads/m2-pro-ethernet-issues.2378455/)
+- [Make systemd better for Podman with Quadlet](https://www.redhat.com/sysadmin/quadlet-podman)
+- [Linux 6.2: The first mainstream Linux kernel for Apple M1 chips arrives](https://www.zdnet.com/article/linux-6-2-the-first-mainstream-linux-kernel-for-apple-m1-chips-arrives/)
+- [Communication as a Critical Business Skill](https://sphericalcowconsulting.com/2023/02/19/communication-as-a-critical-business-skill/)
+- [Relationship Hero &lpar;YC S17&rpar; Is Hiring Sales Associates &lpar;Remote, Non-US&rpar;](https://relationshiphero.com/careers?role=salesAssociate)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

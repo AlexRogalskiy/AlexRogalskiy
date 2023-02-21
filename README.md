@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [North Korea launches more missiles as Kim sister warns Pacific could become ‘firing range’](https://www.theguardian.com/world/2023/feb/20/north-korea-launches-more-missiles-as-kim-sister-warns-pacific-could-become-firing-range)
-- [Russia-Ukraine war at a glance: what we know on day 362 of the invasion](https://www.theguardian.com/world/2023/feb/20/russia-ukraine-war-at-a-glance-what-we-know-on-day-362-of-the-invasion)
-- [Body found in search for missing woman Nicola Bulley, say police](https://www.theguardian.com/uk-news/2023/feb/19/nicola-bulley-police-say-body-found-in-search)
-- [Four English councils bring half of legal actions for blue badge misuse](https://www.theguardian.com/society/2023/feb/20/four-english-councils-bring-half-of-legal-actions-for-blue-badge-misuse)
-- [Self-driving vehicles from overseas face ban in England and Wales](https://www.theguardian.com/technology/2023/feb/20/self-driving-vehicles-from-overseas-face-ban-in-england-and-wales)
-- [Let kids read for fun says new BookTrust writer in residence SF Said](https://www.theguardian.com/books/2023/feb/20/let-kids-read-for-fun-says-new-booktrust-writer-in-residence-sf-said)
-- [Loss of nearly 15,000 UK retail jobs a ‘brutal start to 2023’, report says](https://www.theguardian.com/business/2023/feb/20/loss-of-nearly-15000-uk-retail-jobs-a-brutal-start-to-2023-report-says)
-- [It’s not a darning tool, it’s a very naughty toy: Roman dildo found](https://www.theguardian.com/science/2023/feb/20/its-not-a-darning-tool-its-a-very-naughty-toy-roman-dildo-found)
-- [Ignacio Lopez: ‘I’m trying to figure out how to most effectively wind up the English’](https://www.theguardian.com/stage/2023/feb/20/ignacio-lopez-comedian)
-- [Jon Rahm becomes world No 1 after winning the Genesis Invitational](https://www.theguardian.com/sport/2023/feb/19/jon-rahm-becomes-world-no-1-after-winning-the-genesis-invitational)
+- [Dom Phillips and Bruno Pereira remembered in Rio as carnival emerges from Bolsonaro era](https://www.theguardian.com/world/2023/feb/21/dom-phillips-and-bruno-pereira-remembered-in-rio-as-carnival-emerges-from-bolsonaro-era)
+- [The global aid system failed Syria just as it did Afghanistan. How long can this go on? | Shadi Khan Saif](https://www.theguardian.com/commentisfree/2023/feb/21/the-global-aid-system-failed-syria-just-as-it-did-afghanistan-how-long-can-this-go-on)
+- [Russia-Ukraine war at a glance: what we know on day 363 of the invasion](https://www.theguardian.com/world/2023/feb/21/russia-ukraine-war-at-a-glance-what-we-know-on-day-363-of-the-invasion)
+- [Energy crisis stemming from Ukraine war ‘cost £1k for every UK adult’](https://www.theguardian.com/business/2023/feb/21/energy-crisis-ukraine-war-uk-cost-gas)
+- [Quarter of UK households regularly run out of money for essentials, survey says](https://www.theguardian.com/business/2023/feb/21/quarter-of-uk-households-regularly-run-out-of-money-for-essentials-survey-says)
+- [Business and workers hail success of UK’s four-day week trial](https://www.theguardian.com/money/2023/feb/21/four-day-week-uk-trial-success-pattern)
+- [Mike Nelson review – spooky rooms and indoor deserts create a disturbingly masculine world](https://www.theguardian.com/artanddesign/2023/feb/21/mike-nelson-review-hayward-gallery-spooky-rooms-and-indoor-deserts-create-a-pleasurably-disturbing-show)
+- [Burberry brings it back home with a twist at London fashion week](https://www.theguardian.com/fashion/2023/feb/20/burberry-brings-it-back-home-with-a-twist-at-london-fashion-week)
+- [Boris Johnson and Liz Truss urge Rishi Sunak to send fighter jets to Ukraine](https://www.theguardian.com/world/2023/feb/20/boris-johnson-and-liz-truss-urge-rishi-sunak-to-send-fighter-jets-to-ukraine)
+- [US informed Russia of Joe Biden’s Kyiv visit hours before departure](https://www.theguardian.com/us-news/2023/feb/20/how-biden-pulled-off-a-visit-to-an-active-ukrainian-war-zone)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

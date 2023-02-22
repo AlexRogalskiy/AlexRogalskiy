@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Clarksworld closes submissions due to GPT spam](https://twitter.com/ShackletonCI/status/1627730312925966336)
-- [Ask HN: What do you use for basic data analysis, visualization, and graphing?](https://news.ycombinator.com/item?id=34875728)
-- [Professor writes history essays with ChatGPT and has students correct them](https://old.reddit.com/r/ChatGPT/comments/117gtom/my_friend_is_in_university_and_taking_a_history/)
-- [Databricks counts being laid off as “red flag”](https://www.teamblind.com/post/Databricks---deplorable-company-5TX4Mn6C)
-- [&amp;#x27;artificial photosynthesis&amp;#x27; claimed 10x more efficient](https://news.uchicago.edu/story/chemists-create-artificial-photosynthesis-system-10-times-more-efficient-existing-systems)
-- [Widespread ethernet issues reported on new M2 Pro Mac mini](https://forums.macrumors.com/threads/m2-pro-ethernet-issues.2378455/)
-- [Make systemd better for Podman with Quadlet](https://www.redhat.com/sysadmin/quadlet-podman)
-- [Linux 6.2: The first mainstream Linux kernel for Apple M1 chips arrives](https://www.zdnet.com/article/linux-6-2-the-first-mainstream-linux-kernel-for-apple-m1-chips-arrives/)
-- [Communication as a Critical Business Skill](https://sphericalcowconsulting.com/2023/02/19/communication-as-a-critical-business-skill/)
-- [Relationship Hero &lpar;YC S17&rpar; Is Hiring Sales Associates &lpar;Remote, Non-US&rpar;](https://relationshiphero.com/careers?role=salesAssociate)
+- [GoDaddy says a multi-year breach hijacked customer websites and accounts](https://arstechnica.com/information-technology/2023/02/godaddy-says-a-multi-year-breach-hijacked-customer-websites-and-accounts/)
+- [AI Is Useful for Capitalists but Probably Terrible for Anyone Else](https://mebassett.info/ai-useful-for-capitalist)
+- [Experts discover how zebra stripes work to thwart horsefly attacks](https://phys.org/news/2023-02-experts-zebra-stripes-thwart-horsefly.html)
+- [NLRB Rules That Employers Can&amp;#x27;t Require Laid-Off Staff to Waive Labor Law Rights](https://www.nlrb.gov/news-outreach/news-story/board-rules-that-employers-may-not-offer-severance-agreements-requiring)
+- [A warning from Walmart about the health of the American consumer](https://www.economist.com/business/2023/02/21/a-warning-from-walmart-about-the-health-of-the-american-consumer)
+- [Coin Operated Capitalism](https://columbialawreview.org/content/coin-operated-capitalism/)
+- [Ask HN: How are the current layoffs affecting non-US developers?](https://news.ycombinator.com/item?id=34889624)
+- [AWS will offer HF’s products to its customers and run its next LLM tool](https://www.bloomberg.com/news/articles/2023-02-21/amazon-s-aws-joins-with-ai-startup-hugging-face-as-chatgpt-competition-heats-up)
+- [CHM: The Remarkable Ivan Sutherland &lpar;2023&rpar;](https://computerhistory.org/blog/the-remarkable-ivan-sutherland/)
+- [Poisoning Web-Scale Training Datasets Is Practical](https://arxiv.org/abs/2302.10149)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

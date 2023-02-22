@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Latency Compensating Methods in Client/Server Game Protocol &lpar;2001&rpar;](https://developer.valvesoftware.com/wiki/Latency_Compensating_Methods_in_Client/Server_In-game_Protocol_Design_and_Optimization)
-- [ChatGPT and UTF-8 encoding rules](https://social.treehouse.systems/@marcan/109897648211048548)
-- [Ask HN: What do you use for basic data analysis, visualization, and graphing?](https://news.ycombinator.com/item?id=34875728)
-- [Whatever Happened to the Metaverse?](https://www.ft.com/content/bddec314-3f4c-4296-ae6f-eb2a5328c109)
-- [Microsoft Teams is getting big performance improvements next month](https://www.theverge.com/2023/2/20/23607037/microsoft-teams-performance-improvements-less-cpu-memory)
-- [The Drive Home](https://ghiculescu.substack.com/p/the-drive-home)
-- [Driver Assistance Technologies Reduce Front-to-Rear Crashes by 50%](https://www.mitre.org/news-insights/news-release/forward-collision-warning-and-automatic-emergency-braking-reduce-front)
-- [Professor writes history essays with ChatGPT and has students correct them](https://old.reddit.com/r/ChatGPT/comments/117gtom/my_friend_is_in_university_and_taking_a_history/)
-- [Alfred instituted the Nobel peace prize to “relieve his conscience”](https://qz.com/1092033/nobel-prize-2017-the-inventor-of-the-awards-alfred-nobel-didnt-want-to-be-remembered-for-his-work)
-- [Ask HN: Morning “standup”, minus the bad parts, for morning motivation?](https://news.ycombinator.com/item?id=34875608)
+- [Show HN: List of Companies That Use Next.js and Tailwind CSS](https://github.com/btahir/nextail-companies)
+- [Investing in Replicate](https://a16z.com/2023/02/21/investing-in-replicate/)
+- [The Usability of Advanced Type Systems: Rust as a Case Study](https://arxiv.org/abs/2301.02308)
+- [How My Website Works](https://brianlovin.com/writing/how-my-website-works)
+- [Misconceptions about ChatGPT and Writing](https://www.metastellar.com/nonfiction/essays/7-top-misconceptions-about-chatgpt-and-writing/)
+- [Social media for lead generation still does wonders](https://www.codesmashapp.com/)
+- [Forbes 400 Self-Made Score: From Silver Spooners to Bootstrappers](https://www.forbes.com/sites/carlossanchezmora/2022/09/27/the-2022-forbes-400-self-made-score-from-silver-spooners-to-bootstrappers/)
+- [Ford partners with LG Energy Solution to build European EV battery plant](https://electrek.co/2023/02/21/ford-lges-to-build-europes-largest-ev-battery-plants/)
+- [Japanese startup offers balloon trips to the edge of space](https://www.telegraph.co.uk/world-news/2023/02/21/go-space-watching-balloon-start-ups-cut-price-offer-tourists/)
+- [Subway builds an ‘EV charging oasis’ so you can recharge while you eat fresh](https://electrek.co/2023/02/21/subway-builds-an-ev-charging-oasis-so-you-can-recharge-while-you-eat-fresh/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

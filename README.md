@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: List of Companies That Use Next.js and Tailwind CSS](https://github.com/btahir/nextail-companies)
-- [Investing in Replicate](https://a16z.com/2023/02/21/investing-in-replicate/)
-- [The Usability of Advanced Type Systems: Rust as a Case Study](https://arxiv.org/abs/2301.02308)
-- [How My Website Works](https://brianlovin.com/writing/how-my-website-works)
-- [Misconceptions about ChatGPT and Writing](https://www.metastellar.com/nonfiction/essays/7-top-misconceptions-about-chatgpt-and-writing/)
-- [Social media for lead generation still does wonders](https://www.codesmashapp.com/)
-- [Forbes 400 Self-Made Score: From Silver Spooners to Bootstrappers](https://www.forbes.com/sites/carlossanchezmora/2022/09/27/the-2022-forbes-400-self-made-score-from-silver-spooners-to-bootstrappers/)
-- [Ford partners with LG Energy Solution to build European EV battery plant](https://electrek.co/2023/02/21/ford-lges-to-build-europes-largest-ev-battery-plants/)
-- [Japanese startup offers balloon trips to the edge of space](https://www.telegraph.co.uk/world-news/2023/02/21/go-space-watching-balloon-start-ups-cut-price-offer-tourists/)
-- [Subway builds an ‘EV charging oasis’ so you can recharge while you eat fresh](https://electrek.co/2023/02/21/subway-builds-an-ev-charging-oasis-so-you-can-recharge-while-you-eat-fresh/)
+- [A brief exploration of Mexico&#39;s transparency law](https://www.eff.org/deeplinks/2023/02/como-luchamos-y-ganamos-el-acceso-los-registros-sobre-la-policia-predictiva-en-una)
+- [Toshiba HD-DVD firmware archive](http://www.mirrorsite.net/files/toshiba/hd-dvd/)
+- [Technology over the Long Run](https://ourworldindata.org/technology-long-run)
+- [Unlocker for Windows 1.9.5 Delete Locked Files Uchripk](https://uchripk.com/unlocker-for-windows-deletelock-files-uchripk/)
+- [Replacing Google Analytics](https://allisonseboldt.com/replacing-universal-analytics-plausible-vs-fathom-vs-simple-analytics/)
+- [Distributed Systems for Fun and Profit](http://book.mixu.net/distsys/)
+- [Supreme Court admits they&#39;re not the best choice to decide internet future](https://appleinsider.com/articles/23/02/22/supreme-court-admits-theyre-not-the-best-choice-to-decide-the-future-of-the-internet)
+- [Coinbase beats on revenue and earnings, but usage continues to decline](https://www.cnbc.com/2023/02/21/coinbase-coin-earnings-q4-2022.html)
+- [DNA tied a noted French-horn teacher to unsolved sex crimes](https://www.wsj.com/articles/how-dna-tied-a-noted-french-horn-teacher-to-a-string-of-unsolved-sex-crimes-b8e05926)
+- [How to Get Rid of Enterprise](https://news.ycombinator.com/item?id=34905868)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

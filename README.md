@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [As four-day workweek trial ends, most companies stick with the change](https://www.computerworld.com/article/3688948/as-four-day-workweek-trial-ends-most-companies-stick-with-the-change.html#tk.rss_all)
+- [Apple-in-business use accelerates, but device management still an issue](https://www.computerworld.com/article/3688364/apple-in-business-use-accelerates-but-device-management-still-an-issue.html#tk.rss_all)
+- [5 smart secrets for a better Google Tasks experience](https://www.computerworld.com/article/3688514/google-tasks-secrets.html#tk.rss_all)
+- [Job seekers are using ChatGPT to write resumes — and nabbing jobs](https://www.computerworld.com/article/3688336/job-seekers-are-using-chatgpt-to-write-resumes-and-nabbing-jobs.html#tk.rss_all)
 - [Section 230 liability protections on trial in Google Supreme Court case](https://www.computerworld.com/article/3688769/section-230-liability-protections-on-trial-in-google-supreme-court-case.html#tk.rss_all)
 - [Why is Apple making big improvements to web apps for iPhone?](https://www.computerworld.com/article/3688575/why-is-apple-making-big-improvements-to-web-apps-for-iphone.html#tk.rss_all)
 - [12 ways to speed up Windows 11](https://www.computerworld.com/article/3687056/how-to-speed-up-windows-11.html#tk.rss_all)
 - [Microsoft more than triples Bing Search API prices to recoup investments](https://www.computerworld.com/article/3688574/microsoft-more-than-triples-bing-search-api-prices-to-recoup-investments.html#tk.rss_all)
 - [Google Sheets power tips: How to use pivot tables](https://www.computerworld.com/article/3686110/google-sheets-how-to-use-pivot-tables.html#tk.rss_all)
 - [EU parliamentary committee says &#39;no&#39; to EU-US data privacy framework](https://www.computerworld.com/article/3688512/eu-parliamentary-committee-says-no-to-eu-us-data-privacy-framework.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
-- [Microsoft officially unleashes Windows 11 on Apple Silicon Macs](https://www.computerworld.com/article/3688552/microsoft-officially-unleashes-windows-11-on-apple-silicon-macs.html#tk.rss_all)
-- [Three zero-days require urgent attention for Windows, Exchange](https://www.computerworld.com/article/3688551/three-zero-days-require-urgent-attention-for-windows-exchange.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

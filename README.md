@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [GoDaddy says a multi-year breach hijacked customer websites and accounts](https://arstechnica.com/information-technology/2023/02/godaddy-says-a-multi-year-breach-hijacked-customer-websites-and-accounts/)
-- [AI Is Useful for Capitalists but Probably Terrible for Anyone Else](https://mebassett.info/ai-useful-for-capitalist)
-- [Experts discover how zebra stripes work to thwart horsefly attacks](https://phys.org/news/2023-02-experts-zebra-stripes-thwart-horsefly.html)
-- [NLRB Rules That Employers Can&amp;#x27;t Require Laid-Off Staff to Waive Labor Law Rights](https://www.nlrb.gov/news-outreach/news-story/board-rules-that-employers-may-not-offer-severance-agreements-requiring)
-- [A warning from Walmart about the health of the American consumer](https://www.economist.com/business/2023/02/21/a-warning-from-walmart-about-the-health-of-the-american-consumer)
-- [Coin Operated Capitalism](https://columbialawreview.org/content/coin-operated-capitalism/)
-- [Ask HN: How are the current layoffs affecting non-US developers?](https://news.ycombinator.com/item?id=34889624)
-- [AWS will offer HF’s products to its customers and run its next LLM tool](https://www.bloomberg.com/news/articles/2023-02-21/amazon-s-aws-joins-with-ai-startup-hugging-face-as-chatgpt-competition-heats-up)
-- [CHM: The Remarkable Ivan Sutherland &lpar;2023&rpar;](https://computerhistory.org/blog/the-remarkable-ivan-sutherland/)
-- [Poisoning Web-Scale Training Datasets Is Practical](https://arxiv.org/abs/2302.10149)
+- [Optical Transformers](https://arxiv.org/abs/2302.10360)
+- [Tell HN: Oops Upwork did it again](https://news.ycombinator.com/item?id=34904478)
+- [Time to get the Posix elephant off our necks?](https://queue.acm.org/detail.cfm?id=3570921)
+- [A Malleable Web](https://oio.land/the-malleable-web)
+- [Monitoring My Weather at Home](https://tylercipriani.com/blog/2023/02/19/weather-station/)
+- [Physics and Mathematics Self-Study Project](https://www.diegovera.org/projects)
+- [Mercedes-Benz previews its operating system MB.OS](https://media.mbusa.com/releases/software-architects-mercedes-benz-previews-its-operating-system-mbos)
+- [Mexico&amp;#x27;s former public security head convicted by U.S. of taking cartel bribes](https://www.npr.org/2023/02/21/1158587253/mexico-genaro-garcia-luna-convicted-drug-cartel-bribes)
+- [Poste.io – Complete Mail Server](https://poste.io/)
+- [Social media is a cause, not a correlate, of mental illness in teen girls](https://jonathanhaidt.substack.com/p/social-media-mental-illness-epidemic)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

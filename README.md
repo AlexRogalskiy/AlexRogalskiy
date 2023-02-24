@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Optical Transformers](https://arxiv.org/abs/2302.10360)
-- [Tell HN: Oops Upwork did it again](https://news.ycombinator.com/item?id=34904478)
-- [Time to get the Posix elephant off our necks?](https://queue.acm.org/detail.cfm?id=3570921)
-- [A Malleable Web](https://oio.land/the-malleable-web)
-- [Monitoring My Weather at Home](https://tylercipriani.com/blog/2023/02/19/weather-station/)
-- [Physics and Mathematics Self-Study Project](https://www.diegovera.org/projects)
-- [Mercedes-Benz previews its operating system MB.OS](https://media.mbusa.com/releases/software-architects-mercedes-benz-previews-its-operating-system-mbos)
-- [Mexico&amp;#x27;s former public security head convicted by U.S. of taking cartel bribes](https://www.npr.org/2023/02/21/1158587253/mexico-genaro-garcia-luna-convicted-drug-cartel-bribes)
-- [Poste.io – Complete Mail Server](https://poste.io/)
-- [Social media is a cause, not a correlate, of mental illness in teen girls](https://jonathanhaidt.substack.com/p/social-media-mental-illness-epidemic)
+- [Eduard: Swiss-Style Relief Shading for Maps Using Machine Learning](https://dilpreet.co/projects/eduard)
+- [FCC Considering Banning Transfer of Online Consent Forms](https://tcpaworld.com/2023/02/23/closing-the-lead-generator-loophole-fcc-considering-banning-transfer-of-online-consent-forms-and-other-critical-changes-and-i-warned-you/)
+- [So, you’ve been challenged to a duel. What are the rules? &lpar;2016&rpar;](https://blogs.loc.gov/law/2016/06/so-youve-been-challenged-to-a-duel-what-are-the-rules/)
+- [Ray Dalio retired with exit package potentially worth billions of dollars](https://www.nytimes.com/2023/02/20/business/bridgewater-ray-dalio-retire.html)
+- [DOJ Preps Antitrust Suit to Block Adobe’s $20B Figma Deal](https://www.bloomberg.com/news/articles/2023-02-23/doj-preparing-suit-to-block-adobe-s-20-billion-deal-for-figma)
+- [Sex, food or water? How mice decide](https://www.nature.com/articles/d41586-023-00521-3)
+- [Don&amp;#x27;t believe ChatGPT – we do not offer a &amp;quot;phone lookup&amp;quot; service](https://blog.opencagedata.com/post/dont-believe-chatgpt)
+- [KDE and GNOME seeks $100k to turn Flathub into a Store for the Linux desktop](https://github.com/PlaintextGroup/oss-virtual-incubator/blob/main/proposals/flathub-linux-app-store.md)
+- [The FBI now recommends using an ad blocker when searching the web](https://www.standard.co.uk/tech/fbi-recommends-ad-blocker-online-scams-b1048998.html)
+- [AI’s Instagram Problem](https://www.deeplearning.ai/the-batch/someone-elses-cool-ai-project-doesnt-make-your-project-less-valuable/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

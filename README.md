@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ivanka Trump and Jared Kushner subpoenaed in January 6 investigation – report](https://www.theguardian.com/us-news/2023/feb/22/ivanka-trump-jared-kushner-subpoena-january-6-investigation)
-- [Journalist and child killed near scene of fatal Florida shooting earlier in day](https://www.theguardian.com/us-news/2023/feb/22/journalist-child-scene-earlier-fatal-florida)
-- [UN chief condemns Russian invasion as assembly votes on motion calling for peace](https://www.theguardian.com/world/2023/feb/23/un-chief-condemns-russian-invasion-ukraine-united-nations-assembly-vote-peace-motion)
-- [Brazil floods: death toll rises to 48 as landslides and looters prevent aid reaching survivors](https://www.theguardian.com/world/2023/feb/23/brazil-floods-death-toll-flooding-landslides-looters-sao-paulo-state)
-- [England seam attack ‘licking their lips’ ahead of second Test against New Zealand](https://www.theguardian.com/sport/2023/feb/23/england-seam-attack-licking-their-lips-ahead-of-second-test-against-new-zealand)
-- [Surfing great Kelly Slater to retire after Paris Olympics in 2024](https://www.theguardian.com/sport/2023/feb/23/surfing-great-kelly-slater-to-retire-after-paris-olympics-in-2024)
-- [Russia-Ukraine war at a glance: what we know on day 365 of the invasion](https://www.theguardian.com/world/2023/feb/23/russia-ukraine-war-at-a-glance-what-we-know-on-day-365-of-the-invasion)
-- [Turkey fines broadcasters for coverage critical of earthquake response](https://www.theguardian.com/world/2023/feb/23/turkey-fines-broadcasters-for-coverage-critical-of-earthquake-response)
-- [Women work two months for free, reveals TUC analysis](https://www.theguardian.com/business/2023/feb/23/women-work-two-months-for-free-reveals-tuc-analysis)
-- [Five ‘national missions’ to form core of Labour manifesto – Keir Starmer](https://www.theguardian.com/politics/2023/feb/23/five-national-missions-to-form-core-of-labour-manifesto-keir-starmer)
+- [Russia-Ukraine war live: ‘we will rebuild’ says Zelenskiy on anniversary of invasion; China calls for end to attacks on civilians](https://www.theguardian.com/world/live/2023/feb/24/russia-ukraine-war-live-updates-one-year-anniversary-russian-invasion)
+- [New Zealand v England: second Test, day one – live](https://www.theguardian.com/sport/live/2023/feb/23/new-zealand-v-england-second-test-day-one-live-score-updates)
+- [Bird flu: 11-year-old girl in Cambodia dies after being infected](https://www.theguardian.com/world/2023/feb/24/bird-flu-11-year-old-girl-in-cambodia-dies-after-being-infected)
+- [Harry Styles required to provide the story of his life for New Zealand census](https://www.theguardian.com/music/2023/feb/24/harry-styles-required-to-provide-the-story-of-his-life-for-new-zealand-census)
+- [Nearly a million across US without power as wild winter storm hits](https://www.theguardian.com/us-news/2023/feb/23/winter-storms-us-high-temperatures-snow-blizzard-winds)
+- [Harvey Weinstein sentenced to 16 additional years for LA rape conviction](https://www.theguardian.com/world/2023/feb/23/harvey-weinstein-los-angeles-rape-conviction-sentencing)
+- [Russia-Ukraine war at a glance: what we know on day 366 of the invasion](https://www.theguardian.com/world/2023/feb/24/russia-ukraine-war-at-a-glance-what-we-know-on-day-366-of-the-invasion)
+- [Grenfell: System Failure review – sobering unpicking of a tragedy](https://www.theguardian.com/stage/2023/feb/24/grenfell-system-failure-review-sobering-unpicking-of-a-tragedy)
+- [North Korea test-fires four missiles to show ability to launch nuclear attack](https://www.theguardian.com/world/2023/feb/24/north-korea-test-fires-four-missiles-to-show-ability-to-launch-nuclear-attack)
+- [Alec Baldwin pleads not guilty to manslaughter in Rust film shooting](https://www.theguardian.com/film/2023/feb/23/alec-baldwin-pleads-not-guilty-rust-film-shooting)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

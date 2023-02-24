@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [A brief exploration of Mexico&#39;s transparency law](https://www.eff.org/deeplinks/2023/02/como-luchamos-y-ganamos-el-acceso-los-registros-sobre-la-policia-predictiva-en-una)
-- [Toshiba HD-DVD firmware archive](http://www.mirrorsite.net/files/toshiba/hd-dvd/)
-- [Technology over the Long Run](https://ourworldindata.org/technology-long-run)
-- [Unlocker for Windows 1.9.5 Delete Locked Files Uchripk](https://uchripk.com/unlocker-for-windows-deletelock-files-uchripk/)
-- [Replacing Google Analytics](https://allisonseboldt.com/replacing-universal-analytics-plausible-vs-fathom-vs-simple-analytics/)
-- [Distributed Systems for Fun and Profit](http://book.mixu.net/distsys/)
-- [Supreme Court admits they&#39;re not the best choice to decide internet future](https://appleinsider.com/articles/23/02/22/supreme-court-admits-theyre-not-the-best-choice-to-decide-the-future-of-the-internet)
-- [Coinbase beats on revenue and earnings, but usage continues to decline](https://www.cnbc.com/2023/02/21/coinbase-coin-earnings-q4-2022.html)
-- [DNA tied a noted French-horn teacher to unsolved sex crimes](https://www.wsj.com/articles/how-dna-tied-a-noted-french-horn-teacher-to-a-string-of-unsolved-sex-crimes-b8e05926)
-- [How to Get Rid of Enterprise](https://news.ycombinator.com/item?id=34905868)
+- [To understand AI sentience, first understand it in animals](https://aeon.co/essays/to-understand-ai-sentience-first-understand-it-in-animals)
+- [Keyword Generics Progress February 2023](https://blog.rust-lang.org/inside-rust/2023/02/23/keyword-generics-progress-report-feb-2023.html)
+- [Bot for participating in cookie-based raffles on SteamGift](https://github.com/PalmaLuv/SteamGiftBot)
+- [Faking Algebraic Effects and Handlers with Traits: a Rust Design Pattern](https://blog.shtsoft.eu)
+- [AI art replicates inequity at scale. We need to learn about its biases](https://www.theguardian.com/books/2023/feb/24/ai-art-replicates-inequity-at-scale-we-need-to-learn-about-its-biases-and-outsmart-the-algorithm)
+- [Novel Prompt Injection Threats to Application-Integrated Large Language Models](https://arxiv.org/abs/2302.12173)
+- [A Simple Wrapper for [SharedPreferences]](https://github.com/camus-design/simple_shared_preferences)
+- [Substack - The Home for Great Blogging](https://substack.com/for-bloggers)
+- [Ask HN: Distinctions btwn Data Scientist v. Machine Learning Engr v. MLOps Engr?](https://news.ycombinator.com/item?id=34919846)
+- [Tim Urban of Wait But Why wrote a book](https://waitbutwhy.com/2023/02/last-six-years.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

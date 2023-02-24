@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Supreme Court justices parse US antiterrorism law in Twitter case](https://www.computerworld.com/article/3689009/supreme-court-justices-parse-us-antiterrorism-law-in-twitter-case.html#tk.rss_all)
+- [5 reasons videoconferencing is on the decline &lpar;again&rpar;](https://www.computerworld.com/article/3688913/5-reasons-videoconferencing-is-on-the-decline-again.html#tk.rss_all)
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [Hard-to-spot Mac crypto-mining threat, XMRig, hits Pirate Bay](https://www.computerworld.com/article/3689149/hard-to-spot-mac-crypto-mining-threat-xmrig-hits-pirate-bay.html#tk.rss_all)
+- [As Microsoft embraces AI, it says sayonara to the metaverse](https://www.computerworld.com/article/3688433/as-microsoft-embraces-ai-it-says-sayonara-to-the-metaverse.html#tk.rss_all)
 - [As four-day workweek trial ends, most companies stick with the change](https://www.computerworld.com/article/3688948/as-four-day-workweek-trial-ends-most-companies-stick-with-the-change.html#tk.rss_all)
 - [Apple-in-business use accelerates, but device management still an issue](https://www.computerworld.com/article/3688364/apple-in-business-use-accelerates-but-device-management-still-an-issue.html#tk.rss_all)
 - [5 smart secrets for a better Google Tasks experience](https://www.computerworld.com/article/3688514/google-tasks-secrets.html#tk.rss_all)
 - [Job seekers are using ChatGPT to write resumes — and nabbing jobs](https://www.computerworld.com/article/3688336/job-seekers-are-using-chatgpt-to-write-resumes-and-nabbing-jobs.html#tk.rss_all)
 - [Section 230 liability protections on trial in Google Supreme Court case](https://www.computerworld.com/article/3688769/section-230-liability-protections-on-trial-in-google-supreme-court-case.html#tk.rss_all)
-- [Why is Apple making big improvements to web apps for iPhone?](https://www.computerworld.com/article/3688575/why-is-apple-making-big-improvements-to-web-apps-for-iphone.html#tk.rss_all)
-- [12 ways to speed up Windows 11](https://www.computerworld.com/article/3687056/how-to-speed-up-windows-11.html#tk.rss_all)
-- [Microsoft more than triples Bing Search API prices to recoup investments](https://www.computerworld.com/article/3688574/microsoft-more-than-triples-bing-search-api-prices-to-recoup-investments.html#tk.rss_all)
-- [Google Sheets power tips: How to use pivot tables](https://www.computerworld.com/article/3686110/google-sheets-how-to-use-pivot-tables.html#tk.rss_all)
-- [EU parliamentary committee says &#39;no&#39; to EU-US data privacy framework](https://www.computerworld.com/article/3688512/eu-parliamentary-committee-says-no-to-eu-us-data-privacy-framework.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

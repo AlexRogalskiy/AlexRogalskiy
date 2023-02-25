@@ -355,6 +355,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [MWC: iPhone Emergency SOS triggers new space race](https://www.computerworld.com/article/3689151/mwc-iphone-emergency-sos-triggers-new-space-race.html#tk.rss_all)
+- [TSMC to invest $7.4 billion in second Japan chip factory: Report](https://www.computerworld.com/article/3688933/tsmc-to-invest-74-billion-in-second-japan-chip-factory-report.html#tk.rss_all)
+- [Skills-based hiring continues to rise as degree requirements fade](https://www.computerworld.com/article/3689170/skills-based-hiring-continues-to-rise-as-degree-requirements-fade.html#tk.rss_all)
 - [Supreme Court justices parse US antiterrorism law in Twitter case](https://www.computerworld.com/article/3689009/supreme-court-justices-parse-us-antiterrorism-law-in-twitter-case.html#tk.rss_all)
 - [5 reasons videoconferencing is on the decline &lpar;again&rpar;](https://www.computerworld.com/article/3688913/5-reasons-videoconferencing-is-on-the-decline-again.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
@@ -362,9 +365,6 @@
 - [As Microsoft embraces AI, it says sayonara to the metaverse](https://www.computerworld.com/article/3688433/as-microsoft-embraces-ai-it-says-sayonara-to-the-metaverse.html#tk.rss_all)
 - [As four-day workweek trial ends, most companies stick with the change](https://www.computerworld.com/article/3688948/as-four-day-workweek-trial-ends-most-companies-stick-with-the-change.html#tk.rss_all)
 - [Apple-in-business use accelerates, but device management still an issue](https://www.computerworld.com/article/3688364/apple-in-business-use-accelerates-but-device-management-still-an-issue.html#tk.rss_all)
-- [5 smart secrets for a better Google Tasks experience](https://www.computerworld.com/article/3688514/google-tasks-secrets.html#tk.rss_all)
-- [Job seekers are using ChatGPT to write resumes — and nabbing jobs](https://www.computerworld.com/article/3688336/job-seekers-are-using-chatgpt-to-write-resumes-and-nabbing-jobs.html#tk.rss_all)
-- [Section 230 liability protections on trial in Google Supreme Court case](https://www.computerworld.com/article/3688769/section-230-liability-protections-on-trial-in-google-supreme-court-case.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

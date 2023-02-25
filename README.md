@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [To understand AI sentience, first understand it in animals](https://aeon.co/essays/to-understand-ai-sentience-first-understand-it-in-animals)
-- [Keyword Generics Progress February 2023](https://blog.rust-lang.org/inside-rust/2023/02/23/keyword-generics-progress-report-feb-2023.html)
-- [Bot for participating in cookie-based raffles on SteamGift](https://github.com/PalmaLuv/SteamGiftBot)
-- [Faking Algebraic Effects and Handlers with Traits: a Rust Design Pattern](https://blog.shtsoft.eu)
-- [AI art replicates inequity at scale. We need to learn about its biases](https://www.theguardian.com/books/2023/feb/24/ai-art-replicates-inequity-at-scale-we-need-to-learn-about-its-biases-and-outsmart-the-algorithm)
-- [Novel Prompt Injection Threats to Application-Integrated Large Language Models](https://arxiv.org/abs/2302.12173)
-- [A Simple Wrapper for [SharedPreferences]](https://github.com/camus-design/simple_shared_preferences)
-- [Substack - The Home for Great Blogging](https://substack.com/for-bloggers)
-- [Ask HN: Distinctions btwn Data Scientist v. Machine Learning Engr v. MLOps Engr?](https://news.ycombinator.com/item?id=34919846)
-- [Tim Urban of Wait But Why wrote a book](https://waitbutwhy.com/2023/02/last-six-years.html)
+- [Ask HN: Anyone else getting lots of Google Docs comment spam?](https://news.ycombinator.com/item?id=34933173)
+- [High-skilled visa holders at risk of deportation amid tech layoffs](https://www.washingtonpost.com/us-policy/2023/02/24/temporary-visa-h1b-tech-layoffs/)
+- [Life After Tech: Former Google Employee Says Layoff Was Blessing in Disguise](https://www.nbcbayarea.com/news/tech/life-after-tech-former-google-employee-says-layoff-was-blessing-in-disguise/3165980/)
+- [Turning, Wandering, Waltzing: On George Balanchine’s Vienna Waltzes](https://newcriterion.com/issues/2023/3/turning-wandering-waltzing)
+- [Adderall, OxyContin Prescriptions to Require In-Person Visit Under DEA Plan](https://www.wsj.com/articles/adderall-oxycontin-prescriptions-to-require-in-person-doctor-visit-under-biden-plan-dd7bd3a7)
+- [GNOME&#39;s Horrid Coding Practices](https://felipec.wordpress.com/2023/02/24/gnomes-horrid-coding-practices/)
+- [A Basic iPhone Feature Helps Criminals Steal Your Entire Digital Life](https://www.wsj.com/articles/apple-iphone-security-theft-passcode-data-privacya-basic-iphone-feature-helps-criminals-steal-your-digital-life-cbf14b1a)
+- [Mechanical Principles Combined in a Useless Lego Machine](https://www.youtube.com/watch?v=M1-YeqGynlw)
+- [Engineering students design Raspberry Pi Pico CubeSat platform](https://www.raspberrypi.com/news/engineering-students-design-raspberry-pi-pico-cubesat-platform/)
+- [Consistent caching with PostgreSQL logical replication and a Redis API](https://shortishly.com/blog/streaming-replication-redis-api/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Eduard: Swiss-Style Relief Shading for Maps Using Machine Learning](https://dilpreet.co/projects/eduard)
-- [FCC Considering Banning Transfer of Online Consent Forms](https://tcpaworld.com/2023/02/23/closing-the-lead-generator-loophole-fcc-considering-banning-transfer-of-online-consent-forms-and-other-critical-changes-and-i-warned-you/)
-- [So, you’ve been challenged to a duel. What are the rules? &lpar;2016&rpar;](https://blogs.loc.gov/law/2016/06/so-youve-been-challenged-to-a-duel-what-are-the-rules/)
-- [Ray Dalio retired with exit package potentially worth billions of dollars](https://www.nytimes.com/2023/02/20/business/bridgewater-ray-dalio-retire.html)
-- [DOJ Preps Antitrust Suit to Block Adobe’s $20B Figma Deal](https://www.bloomberg.com/news/articles/2023-02-23/doj-preparing-suit-to-block-adobe-s-20-billion-deal-for-figma)
-- [Sex, food or water? How mice decide](https://www.nature.com/articles/d41586-023-00521-3)
-- [Don&amp;#x27;t believe ChatGPT – we do not offer a &amp;quot;phone lookup&amp;quot; service](https://blog.opencagedata.com/post/dont-believe-chatgpt)
-- [KDE and GNOME seeks $100k to turn Flathub into a Store for the Linux desktop](https://github.com/PlaintextGroup/oss-virtual-incubator/blob/main/proposals/flathub-linux-app-store.md)
-- [The FBI now recommends using an ad blocker when searching the web](https://www.standard.co.uk/tech/fbi-recommends-ad-blocker-online-scams-b1048998.html)
-- [AI’s Instagram Problem](https://www.deeplearning.ai/the-batch/someone-elses-cool-ai-project-doesnt-make-your-project-less-valuable/)
+- [UK Proposes Even More Stupid Ideas for Directly Regulating the Internet](https://www.techdirt.com/2023/02/23/uk-proposes-even-more-stupid-ideas-for-directly-regulating-the-internet-service-providers/)
+- [U-2 pilot&amp;#x27;s selfie above China&amp;#x27;s balloon taken over Missouri: How we know that](https://www.npr.org/2023/02/23/1159007203/selfie-china-balloon-photo)
+- [Daily.place](https://www.daily.place/)
+- [Bun v0.5.7](https://bun.sh/blog/bun-v0.5.7)
+- [John Boyer, blind software engineer, dies](https://www.jsonline.com/story/news/education/2023/02/24/john-boyer-blind-software-engineer-in-madison-wisconsin-dies/69907224007/)
+- [Analysis finds Australia’s inflation being driven by company profits, not wages](https://www.theguardian.com/business/2023/feb/24/an-economic-fairytale-australias-inflation-being-driven-by-company-profits-and-not-wages-analysis-finds)
+- [Learn Vim &lpar;2021&rpar;](https://github.com/iggredible/Learn-Vim)
+- [Charge Robotics &lpar;YC S21&rpar; is hiring meches to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer)
+- [Show HN: Sail a historical full-rigged ship in real global weather](https://thapen.itch.io/painted-ocean)
+- [Paper Models of Vintage Computers](http://rockybergen.com/papercraft)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

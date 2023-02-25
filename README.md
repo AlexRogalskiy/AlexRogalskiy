@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war live: ‘we will rebuild’ says Zelenskiy on anniversary of invasion; China calls for end to attacks on civilians](https://www.theguardian.com/world/live/2023/feb/24/russia-ukraine-war-live-updates-one-year-anniversary-russian-invasion)
-- [New Zealand v England: second Test, day one – live](https://www.theguardian.com/sport/live/2023/feb/23/new-zealand-v-england-second-test-day-one-live-score-updates)
-- [Bird flu: 11-year-old girl in Cambodia dies after being infected](https://www.theguardian.com/world/2023/feb/24/bird-flu-11-year-old-girl-in-cambodia-dies-after-being-infected)
-- [Harry Styles required to provide the story of his life for New Zealand census](https://www.theguardian.com/music/2023/feb/24/harry-styles-required-to-provide-the-story-of-his-life-for-new-zealand-census)
-- [Nearly a million across US without power as wild winter storm hits](https://www.theguardian.com/us-news/2023/feb/23/winter-storms-us-high-temperatures-snow-blizzard-winds)
-- [Harvey Weinstein sentenced to 16 additional years for LA rape conviction](https://www.theguardian.com/world/2023/feb/23/harvey-weinstein-los-angeles-rape-conviction-sentencing)
-- [Russia-Ukraine war at a glance: what we know on day 366 of the invasion](https://www.theguardian.com/world/2023/feb/24/russia-ukraine-war-at-a-glance-what-we-know-on-day-366-of-the-invasion)
-- [Grenfell: System Failure review – sobering unpicking of a tragedy](https://www.theguardian.com/stage/2023/feb/24/grenfell-system-failure-review-sobering-unpicking-of-a-tragedy)
-- [North Korea test-fires four missiles to show ability to launch nuclear attack](https://www.theguardian.com/world/2023/feb/24/north-korea-test-fires-four-missiles-to-show-ability-to-launch-nuclear-attack)
-- [Alec Baldwin pleads not guilty to manslaughter in Rust film shooting](https://www.theguardian.com/film/2023/feb/23/alec-baldwin-pleads-not-guilty-rust-film-shooting)
+- [New Zealand v England: second Test, day two – live](https://www.theguardian.com/sport/live/2023/feb/24/new-zealand-v-england-second-test-day-two-live-score-updates)
+- [What happened in the Russia-Ukraine war this week? Catch up with the must-read news and analysis](https://www.theguardian.com/world/2023/feb/25/what-happened-in-the-russia-ukraine-war-this-week-catch-up-with-the-must-read-news-and-analysis)
+- [Jeremy Hunt under pressure to cancel planned cut to energy bills support](https://www.theguardian.com/money/2023/feb/25/jeremy-hunt-energy-bills-support-cut-tuc-analysis)
+- [Tory MP reveals abuse over pregnancy as reselection bid fails](https://www.theguardian.com/politics/2023/feb/24/tory-mp-reveals-abuse-over-pregnancy-as-reselection-bid-fails)
+- [Rare winter freeze blankets California in ice and snow – in pictures](https://www.theguardian.com/us-news/gallery/2023/feb/24/california-winter-freeze-snow-pictures-los-angeles)
+- [Photographer describes Florida ordeal that killed journalist: ‘He kept shooting’](https://www.theguardian.com/us-news/2023/feb/24/florida-shooting-journalist-killed-photographer)
+- [Search to resume in morning after tug capsizes on River Clyde](https://www.theguardian.com/uk-news/2023/feb/24/major-search-for-two-crew-after-tugboat-capsizes-on-river-clyde)
+- [Ken Bruce says BBC has hastened his Radio 2 exit](https://www.theguardian.com/media/2023/feb/24/ken-bruce-says-bbc-has-hastened-his-radio-2-exit)
+- [US attempts to win over UN members who are neutral on war in Ukraine](https://www.theguardian.com/world/2023/feb/24/us-attempts-to-win-over-un-members-who-are-neutral-on-war-in-ukraine)
+- [Marcus Rashford: ‘Out on the pitch. That’s where I get my happiness’](https://www.theguardian.com/football/2023/feb/24/marcus-rashford-manchester-united-carabao-cup-final)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

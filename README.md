@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [New Zealand v England: second Test, day two – live](https://www.theguardian.com/sport/live/2023/feb/24/new-zealand-v-england-second-test-day-two-live-score-updates)
-- [What happened in the Russia-Ukraine war this week? Catch up with the must-read news and analysis](https://www.theguardian.com/world/2023/feb/25/what-happened-in-the-russia-ukraine-war-this-week-catch-up-with-the-must-read-news-and-analysis)
-- [Jeremy Hunt under pressure to cancel planned cut to energy bills support](https://www.theguardian.com/money/2023/feb/25/jeremy-hunt-energy-bills-support-cut-tuc-analysis)
-- [Tory MP reveals abuse over pregnancy as reselection bid fails](https://www.theguardian.com/politics/2023/feb/24/tory-mp-reveals-abuse-over-pregnancy-as-reselection-bid-fails)
-- [Rare winter freeze blankets California in ice and snow – in pictures](https://www.theguardian.com/us-news/gallery/2023/feb/24/california-winter-freeze-snow-pictures-los-angeles)
-- [Photographer describes Florida ordeal that killed journalist: ‘He kept shooting’](https://www.theguardian.com/us-news/2023/feb/24/florida-shooting-journalist-killed-photographer)
-- [Search to resume in morning after tug capsizes on River Clyde](https://www.theguardian.com/uk-news/2023/feb/24/major-search-for-two-crew-after-tugboat-capsizes-on-river-clyde)
-- [Ken Bruce says BBC has hastened his Radio 2 exit](https://www.theguardian.com/media/2023/feb/24/ken-bruce-says-bbc-has-hastened-his-radio-2-exit)
-- [US attempts to win over UN members who are neutral on war in Ukraine](https://www.theguardian.com/world/2023/feb/24/us-attempts-to-win-over-un-members-who-are-neutral-on-war-in-ukraine)
-- [Marcus Rashford: ‘Out on the pitch. That’s where I get my happiness’](https://www.theguardian.com/football/2023/feb/24/marcus-rashford-manchester-united-carabao-cup-final)
+- [New Zealand v England: second Test, day three – live](https://www.theguardian.com/sport/live/2023/feb/25/new-zealand-v-england-second-test-day-three-live)
+- [Russia-Ukraine war at a glance: what we know on day 368 of the invasion](https://www.theguardian.com/world/2023/feb/26/russia-ukraine-war-at-a-glance-what-we-know-on-day-368-of-the-invasion)
+- [Thailand’s missing monkeys: why did hundreds of rhesus macaques vanish from a temple?](https://www.theguardian.com/world/2023/feb/26/thailands-missing-monkeys-why-did-hundreds-of-rhesus-macaques-vanish-from-a-temple)
+- [Ohio rail crash: toxic waste removal suspended amid contamination fears](https://www.theguardian.com/us-news/2023/feb/25/ohio-toxic-train-site-east-palestine-houston-material)
+- [Bitter harvest for some in a global economy changed by Russia’s war](https://www.theguardian.com/business/2023/feb/26/bitter-harvest-for-some-in-a-global-economy-changed-by-russias-war)
+- [Sixth arrest over shooting of police officer in Omagh](https://www.theguardian.com/uk-news/2023/feb/25/sixth-arrest-over-shooting-of-police-officer-in-omagh)
+- [On the button: Make a big statement in a skater cardigan](https://www.theguardian.com/fashion/2023/feb/25/on-the-button-make-a-big-statement-in-a-skater-cardigan)
+- [We love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2023/feb/25/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Hundreds in Tunisia protest against president’s anti-migrant clampdown](https://www.theguardian.com/world/2023/feb/25/hundreds-in-tunisia-protest-against-presidents-anti-migrant-clampdown)
+- [House where four University of Idaho students were killed to be demolished](https://www.theguardian.com/us-news/2023/feb/25/university-of-idaho-student-murders-home-demolished)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

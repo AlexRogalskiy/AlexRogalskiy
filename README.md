@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [UK Proposes Even More Stupid Ideas for Directly Regulating the Internet](https://www.techdirt.com/2023/02/23/uk-proposes-even-more-stupid-ideas-for-directly-regulating-the-internet-service-providers/)
-- [U-2 pilot&amp;#x27;s selfie above China&amp;#x27;s balloon taken over Missouri: How we know that](https://www.npr.org/2023/02/23/1159007203/selfie-china-balloon-photo)
-- [Daily.place](https://www.daily.place/)
-- [Bun v0.5.7](https://bun.sh/blog/bun-v0.5.7)
-- [John Boyer, blind software engineer, dies](https://www.jsonline.com/story/news/education/2023/02/24/john-boyer-blind-software-engineer-in-madison-wisconsin-dies/69907224007/)
-- [Analysis finds Australia’s inflation being driven by company profits, not wages](https://www.theguardian.com/business/2023/feb/24/an-economic-fairytale-australias-inflation-being-driven-by-company-profits-and-not-wages-analysis-finds)
-- [Learn Vim &lpar;2021&rpar;](https://github.com/iggredible/Learn-Vim)
-- [Charge Robotics &lpar;YC S21&rpar; is hiring meches to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer)
-- [Show HN: Sail a historical full-rigged ship in real global weather](https://thapen.itch.io/painted-ocean)
-- [Paper Models of Vintage Computers](http://rockybergen.com/papercraft)
+- [The most radioactive spot in New York City can also fix your muffler](https://www.atlasobscura.com/places/primo-autobody-repair)
+- [Medical response to a vinyl chloride release from a train derailment &lpar;2017&rpar;](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5776704/)
+- [Four Stars for Peeling Paint and Broken Doors? What’s Behind High Airbnb Ratings](https://www.wsj.com/articles/four-stars-for-peeling-paint-and-broken-doors-whats-behind-high-airbnb-ratings-da26390e)
+- [Single-pulse real-time billion-frames-per-second imaging of flame temperature](https://www.nature.com/articles/s41377-023-01095-5)
+- [Checking Firewall Equivalence with Z3](https://ahelwer.ca/post/2018-02-13-z3-firewall/)
+- [SymPy makes math fun again](https://wordsandbuttons.online/sympy_makes_math_fun_again.html)
+- [Awesome Docker Compose Examples](https://github.com/Haxxnet/Compose-Examples)
+- [Bizarre and unusual uses of DNS](https://fosdem.org/2023/schedule/event/dns_bizarre_and_unusual_uses_of_dns/)
+- [Bloom&amp;#x27;s 2 sigma problem](https://en.wikipedia.org/wiki/Bloom%27s_2_sigma_problem)
+- [Masonry Heaters: 18-24 hours of heat output from a single wood fire](https://www.mha-net.org/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

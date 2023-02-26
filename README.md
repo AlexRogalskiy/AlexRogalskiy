@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ask HN: Anyone else getting lots of Google Docs comment spam?](https://news.ycombinator.com/item?id=34933173)
-- [High-skilled visa holders at risk of deportation amid tech layoffs](https://www.washingtonpost.com/us-policy/2023/02/24/temporary-visa-h1b-tech-layoffs/)
-- [Life After Tech: Former Google Employee Says Layoff Was Blessing in Disguise](https://www.nbcbayarea.com/news/tech/life-after-tech-former-google-employee-says-layoff-was-blessing-in-disguise/3165980/)
-- [Turning, Wandering, Waltzing: On George Balanchine’s Vienna Waltzes](https://newcriterion.com/issues/2023/3/turning-wandering-waltzing)
-- [Adderall, OxyContin Prescriptions to Require In-Person Visit Under DEA Plan](https://www.wsj.com/articles/adderall-oxycontin-prescriptions-to-require-in-person-doctor-visit-under-biden-plan-dd7bd3a7)
-- [GNOME&#39;s Horrid Coding Practices](https://felipec.wordpress.com/2023/02/24/gnomes-horrid-coding-practices/)
-- [A Basic iPhone Feature Helps Criminals Steal Your Entire Digital Life](https://www.wsj.com/articles/apple-iphone-security-theft-passcode-data-privacya-basic-iphone-feature-helps-criminals-steal-your-digital-life-cbf14b1a)
-- [Mechanical Principles Combined in a Useless Lego Machine](https://www.youtube.com/watch?v=M1-YeqGynlw)
-- [Engineering students design Raspberry Pi Pico CubeSat platform](https://www.raspberrypi.com/news/engineering-students-design-raspberry-pi-pico-cubesat-platform/)
-- [Consistent caching with PostgreSQL logical replication and a Redis API](https://shortishly.com/blog/streaming-replication-redis-api/)
+- [Mumps – Massachusetts General Hospital Utility Multi-Programming System](https://en.wikipedia.org/wiki/MUMPS)
+- [MSI&#39;s &lpar;In&rpar;Secure Boot: Part 2](https://dawidpotocki.com/en/2023/02/26/msi-insecure-boot-part-2/)
+- [Work Hard](https://terrytao.wordpress.com/career-advice/work-hard/)
+- [I feel like I’ve been training my whole life for this moment](https://franklantz.substack.com/p/well-here-we-are)
+- [It’s a Smol_world](https://tendril.blog/@snej/log2/133/)
+- [An Ode to Jimmy Carter, the Outdoors President](https://www.outsideonline.com/outdoor-adventure/environment/jimmy-carter-outdoors-president/)
+- [Sharing the Load: Amish Healthcare Financing &lpar;2016&rpar;](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5198134/)
+- [Joe and Lex React to “#1 Cause of Obesity Is Genetics” Claim](https://www.youtube.com/watch?v=1gdmlNxxkME)
+- [What a Sixty-Five-Year-Old Book Teaches Us About A.I](https://www.newyorker.com/books/second-read/what-a-sixty-five-year-old-book-teaches-us-about-ai)
+- [Robust Arithmetic in Computational Geometry](https://observablehq.com/@mourner/non-robust-arithmetic-as-art)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

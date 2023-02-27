@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [New Zealand v England: second Test, day three – live](https://www.theguardian.com/sport/live/2023/feb/25/new-zealand-v-england-second-test-day-three-live)
-- [Russia-Ukraine war at a glance: what we know on day 368 of the invasion](https://www.theguardian.com/world/2023/feb/26/russia-ukraine-war-at-a-glance-what-we-know-on-day-368-of-the-invasion)
-- [Thailand’s missing monkeys: why did hundreds of rhesus macaques vanish from a temple?](https://www.theguardian.com/world/2023/feb/26/thailands-missing-monkeys-why-did-hundreds-of-rhesus-macaques-vanish-from-a-temple)
-- [Ohio rail crash: toxic waste removal suspended amid contamination fears](https://www.theguardian.com/us-news/2023/feb/25/ohio-toxic-train-site-east-palestine-houston-material)
-- [Bitter harvest for some in a global economy changed by Russia’s war](https://www.theguardian.com/business/2023/feb/26/bitter-harvest-for-some-in-a-global-economy-changed-by-russias-war)
-- [Sixth arrest over shooting of police officer in Omagh](https://www.theguardian.com/uk-news/2023/feb/25/sixth-arrest-over-shooting-of-police-officer-in-omagh)
-- [On the button: Make a big statement in a skater cardigan](https://www.theguardian.com/fashion/2023/feb/25/on-the-button-make-a-big-statement-in-a-skater-cardigan)
-- [We love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2023/feb/25/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Hundreds in Tunisia protest against president’s anti-migrant clampdown](https://www.theguardian.com/world/2023/feb/25/hundreds-in-tunisia-protest-against-presidents-anti-migrant-clampdown)
-- [House where four University of Idaho students were killed to be demolished](https://www.theguardian.com/us-news/2023/feb/25/university-of-idaho-student-murders-home-demolished)
+- [New Zealand v England: second Test, day four – live](https://www.theguardian.com/sport/live/2023/feb/26/new-zealand-v-england-second-test-day-four-live-score-updates)
+- [Russia-Ukraine war at a glance: what we know on day 369 of the invasion](https://www.theguardian.com/world/2023/feb/27/russia-ukraine-war-at-a-glance-what-we-know-on-day-369-of-the-invasion)
+- [Big Buddha and funeral home rights: how China is tackling its massive debt burden](https://www.theguardian.com/world/2023/feb/27/big-buddha-and-funeral-home-rights-how-china-is-tackling-its-massive-provincial-government-debt-burden)
+- [Cameron Norrie beats world No 2 Carlos Alcaraz to claim Rio Open](https://www.theguardian.com/sport/2023/feb/26/cameron-norrie-beats-world-no-2-carlos-alcaraz-to-claim-rio-open)
+- [Missing Chinese billionaire banker Bao Fan assisting authorities in investigation, company says](https://www.theguardian.com/world/2023/feb/27/bao-fan-missing-chinese-billionaire-banker-assisting-investigation-company-china-renaissance-holdings-says)
+- [UK government is hiding £28bn of ‘stealth cuts’ to public services, says report](https://www.theguardian.com/business/2023/feb/27/uk-government-is-hiding-28bn-of-stealth-cuts-to-public-services-says-report)
+- [Value of UK housing stock hit record £8.7tn in 2022](https://www.theguardian.com/money/2023/feb/27/total-value-of-uk-housing-stock-record-868tn-2022-fall-house-prices-2023)
+- [Eating disorder patients ‘repeatedly failed’, says England watchdog](https://www.theguardian.com/society/2023/feb/27/eating-disorder-patients-repeatedly-failed-says-england-watchdog)
+- [Sheffield becomes latest city to implement clean air zone](https://www.theguardian.com/uk-news/2023/feb/27/sheffield-becomes-latest-city-to-implement-clean-air-zone)
+- [MPs urge crackdown on pornography to tackle violence against women](https://www.theguardian.com/society/2023/feb/27/mps-urge-crackdown-on-pornography-to-tackle-violence-against-women)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

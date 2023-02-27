@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The most radioactive spot in New York City can also fix your muffler](https://www.atlasobscura.com/places/primo-autobody-repair)
-- [Medical response to a vinyl chloride release from a train derailment &lpar;2017&rpar;](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5776704/)
-- [Four Stars for Peeling Paint and Broken Doors? What’s Behind High Airbnb Ratings](https://www.wsj.com/articles/four-stars-for-peeling-paint-and-broken-doors-whats-behind-high-airbnb-ratings-da26390e)
-- [Single-pulse real-time billion-frames-per-second imaging of flame temperature](https://www.nature.com/articles/s41377-023-01095-5)
-- [Checking Firewall Equivalence with Z3](https://ahelwer.ca/post/2018-02-13-z3-firewall/)
-- [SymPy makes math fun again](https://wordsandbuttons.online/sympy_makes_math_fun_again.html)
-- [Awesome Docker Compose Examples](https://github.com/Haxxnet/Compose-Examples)
-- [Bizarre and unusual uses of DNS](https://fosdem.org/2023/schedule/event/dns_bizarre_and_unusual_uses_of_dns/)
-- [Bloom&amp;#x27;s 2 sigma problem](https://en.wikipedia.org/wiki/Bloom%27s_2_sigma_problem)
-- [Masonry Heaters: 18-24 hours of heat output from a single wood fire](https://www.mha-net.org/)
+- [DMCA Takedown of iptv-org&amp;#x2F;iptv on GitHub](https://github.com/iptv-org/iptv)
+- [The Runner Who Leads Every Pack and Then Vanishes](https://www.nytimes.com/2023/02/25/sports/erik-sowinski-pacer.html)
+- [Met Office says Northern Lights will be visible in England tonight and tomorrow](https://www.bristolpost.co.uk/news/uk-world-news/met-office-says-northern-lights-8190884)
+- [Loongson’s LSX and LASX Vector Extensions](https://chipsandcheese.com/2023/02/26/loongsons-lsx-and-lasx-vector-extensions/)
+- [Tilde.news – A Link Aggregator for the Tildeverse](https://tilde.news)
+- [Feedbase is an Atom&amp;#x2F;RSS-feed to nntp gateway](http://feedbase.org/about/)
+- [DreamWorld &lpar;YC W21&rpar; Is Hiring Unreal Engine Game Developers](https://www.ycombinator.com/companies/dreamworld/jobs/atBKbEg-unreal-engine-game-developer-senior)
+- [Help! Is This Arabic?](https://isthisarabic.com/)
+- [Inmos and the Transputer &lpar;1998&rpar;](https://www.transputer.net/fbooks/iandt/inmos_transputer.html)
+- [Relic: Functional relational programming for Clojure&lpar;Script&rpar;](https://github.com/wotbrew/relic)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Mumps – Massachusetts General Hospital Utility Multi-Programming System](https://en.wikipedia.org/wiki/MUMPS)
-- [MSI&#39;s &lpar;In&rpar;Secure Boot: Part 2](https://dawidpotocki.com/en/2023/02/26/msi-insecure-boot-part-2/)
-- [Work Hard](https://terrytao.wordpress.com/career-advice/work-hard/)
-- [I feel like I’ve been training my whole life for this moment](https://franklantz.substack.com/p/well-here-we-are)
-- [It’s a Smol_world](https://tendril.blog/@snej/log2/133/)
-- [An Ode to Jimmy Carter, the Outdoors President](https://www.outsideonline.com/outdoor-adventure/environment/jimmy-carter-outdoors-president/)
-- [Sharing the Load: Amish Healthcare Financing &lpar;2016&rpar;](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5198134/)
-- [Joe and Lex React to “#1 Cause of Obesity Is Genetics” Claim](https://www.youtube.com/watch?v=1gdmlNxxkME)
-- [What a Sixty-Five-Year-Old Book Teaches Us About A.I](https://www.newyorker.com/books/second-read/what-a-sixty-five-year-old-book-teaches-us-about-ai)
-- [Robust Arithmetic in Computational Geometry](https://observablehq.com/@mourner/non-robust-arithmetic-as-art)
+- [The Death of Beautiful Rendition and 3D Pop on Modern Lenses](https://photographylife.com/the-death-of-beautiful-rendition-and-3d-pop-on-modern-lenses)
+- [Tribute to the Passing of Teradata Automation](https://blog.devgenius.io/tribute-to-the-passing-of-teradata-automation-512836573eb1)
+- [Did we just change Animation forever?](https://www.youtube.com/watch?v=_9LX9HSQkWo)
+- [Are Aircraft Carriers Obsolete?](https://austinvernon.site/blog/aircraftcarrier.html)
+- [OpenGauss Security Policy](https://www.modb.pro/issue/16991)
+- [The cursed universes of Dana Sibera](https://newsletter.shifthappens.site/archive/the-cursed-universes-of-dana-sibera/)
+- [Tesla crashes into Girl Scout table and wounds 3 at Northern California Walmart](https://www.sacbee.com/news/local/crime/article272608416.html)
+- [Amazon has a donkey meat problem](https://www.wired.com/story/amazon-donkey-meat-california/)
+- [Brains Don&#39;t Have to Be Computers &lpar;A Purple Peril&rpar; &lpar;2015&rpar;](http://psychsciencenotes.blogspot.com/2015/07/brains-dont-have-to-be-computers-purple.html)
+- [AI Corrects Accents](https://www.sanas.ai/demo)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
+- [Twitter stealthily lays off 10% of remaining workers, including tech staff](https://www.computerworld.com/article/3688938/twitter-stealthily-lays-off-10-of-remaining-workers-including-tech-staff.html#tk.rss_all)
+- [US-led &#39;Fab 4&#39; chip alliance meets to coordinate supply chain resilience](https://www.computerworld.com/article/3689157/us-led-fab-4-chip-alliance-meets-to-coordinate-supply-chain-resilience.html#tk.rss_all)
+- [Software bugs that bug me – and how to swat them down](https://www.computerworld.com/article/3689155/software-bugs-that-bug-me-and-how-to-swat-them-down.html#tk.rss_all)
+- [Qualcomm again hints at Apple’s future iPhone plans](https://www.computerworld.com/article/3689177/qualcomm-again-hints-at-apples-future-iphone-plans.html#tk.rss_all)
+- [Q&amp;A: ChatGPT isn&#39;t sentient, it’s a next-word prediction engine](https://www.computerworld.com/article/3688934/chatgpt-is-not-sentient-it-s-a-next-word-prediction-engine.html#tk.rss_all)
 - [MWC: iPhone Emergency SOS triggers new space race](https://www.computerworld.com/article/3689151/mwc-iphone-emergency-sos-triggers-new-space-race.html#tk.rss_all)
 - [TSMC to invest $7.4 billion in second Japan chip factory: Report](https://www.computerworld.com/article/3688933/tsmc-to-invest-74-billion-in-second-japan-chip-factory-report.html#tk.rss_all)
 - [Skills-based hiring continues to rise as degree requirements fade](https://www.computerworld.com/article/3689170/skills-based-hiring-continues-to-rise-as-degree-requirements-fade.html#tk.rss_all)
 - [Supreme Court justices parse US antiterrorism law in Twitter case](https://www.computerworld.com/article/3689009/supreme-court-justices-parse-us-antiterrorism-law-in-twitter-case.html#tk.rss_all)
-- [5 reasons videoconferencing is on the decline &lpar;again&rpar;](https://www.computerworld.com/article/3688913/5-reasons-videoconferencing-is-on-the-decline-again.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [Hard-to-spot Mac crypto-mining threat, XMRig, hits Pirate Bay](https://www.computerworld.com/article/3689149/hard-to-spot-mac-crypto-mining-threat-xmrig-hits-pirate-bay.html#tk.rss_all)
-- [As Microsoft embraces AI, it says sayonara to the metaverse](https://www.computerworld.com/article/3688433/as-microsoft-embraces-ai-it-says-sayonara-to-the-metaverse.html#tk.rss_all)
-- [As four-day workweek trial ends, most companies stick with the change](https://www.computerworld.com/article/3688948/as-four-day-workweek-trial-ends-most-companies-stick-with-the-change.html#tk.rss_all)
-- [Apple-in-business use accelerates, but device management still an issue](https://www.computerworld.com/article/3688364/apple-in-business-use-accelerates-but-device-management-still-an-issue.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

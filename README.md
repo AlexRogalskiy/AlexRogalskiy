@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [DMCA Takedown of iptv-org&amp;#x2F;iptv on GitHub](https://github.com/iptv-org/iptv)
-- [The Runner Who Leads Every Pack and Then Vanishes](https://www.nytimes.com/2023/02/25/sports/erik-sowinski-pacer.html)
-- [Met Office says Northern Lights will be visible in England tonight and tomorrow](https://www.bristolpost.co.uk/news/uk-world-news/met-office-says-northern-lights-8190884)
-- [Loongson’s LSX and LASX Vector Extensions](https://chipsandcheese.com/2023/02/26/loongsons-lsx-and-lasx-vector-extensions/)
-- [Tilde.news – A Link Aggregator for the Tildeverse](https://tilde.news)
-- [Feedbase is an Atom&amp;#x2F;RSS-feed to nntp gateway](http://feedbase.org/about/)
-- [DreamWorld &lpar;YC W21&rpar; Is Hiring Unreal Engine Game Developers](https://www.ycombinator.com/companies/dreamworld/jobs/atBKbEg-unreal-engine-game-developer-senior)
-- [Help! Is This Arabic?](https://isthisarabic.com/)
-- [Inmos and the Transputer &lpar;1998&rpar;](https://www.transputer.net/fbooks/iandt/inmos_transputer.html)
-- [Relic: Functional relational programming for Clojure&lpar;Script&rpar;](https://github.com/wotbrew/relic)
+- [Vimium – The Hacker&amp;#x27;s Browser](https://vimium.github.io/)
+- [Firecracker internals: deep dive inside the technology powering AWS Lambda&lpar;2021&rpar;](https://www.talhoffman.com/2021/07/18/firecracker-internals/)
+- [Mathematical Foundations of Computer Networking](https://www.pearson.com/en-us/subject-catalog/p/mathematical-foundations-of-computer-networking/P200000009272/9780321792105)
+- [Keep your AI claims in check](https://www.ftc.gov/business-guidance/blog/2023/02/keep-your-ai-claims-check)
+- [Linux-factory: A framework used to create custom Linux Debian operating systems](https://github.com/clayrisser/linux-factory)
+- [Show HN: Former game devs building a platform showcasing game projects](https://projectgoobii.com/)
+- [Using HDMI radio interference for high-speed data transfer](https://www.windytan.com/2023/02/using-hdmi-radio-interference-for-high.html)
+- [Bitmovin &lpar;YC S15&rpar; Is Hiring Solution Engineers in Video in the US](https://bitmovin.com/careers/)
+- [W3C Beta Website](https://beta.w3.org/)
+- [Amazon removes books from Kindle Unlimited after they appear on pirate sites](https://torrentfreak.com/amazon-removes-books-from-kindle-unlimited-after-they-appear-on-pirate-sites-230206/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

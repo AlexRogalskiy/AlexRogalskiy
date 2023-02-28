@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Death of Beautiful Rendition and 3D Pop on Modern Lenses](https://photographylife.com/the-death-of-beautiful-rendition-and-3d-pop-on-modern-lenses)
-- [Tribute to the Passing of Teradata Automation](https://blog.devgenius.io/tribute-to-the-passing-of-teradata-automation-512836573eb1)
-- [Did we just change Animation forever?](https://www.youtube.com/watch?v=_9LX9HSQkWo)
-- [Are Aircraft Carriers Obsolete?](https://austinvernon.site/blog/aircraftcarrier.html)
-- [OpenGauss Security Policy](https://www.modb.pro/issue/16991)
-- [The cursed universes of Dana Sibera](https://newsletter.shifthappens.site/archive/the-cursed-universes-of-dana-sibera/)
-- [Tesla crashes into Girl Scout table and wounds 3 at Northern California Walmart](https://www.sacbee.com/news/local/crime/article272608416.html)
-- [Amazon has a donkey meat problem](https://www.wired.com/story/amazon-donkey-meat-california/)
-- [Brains Don&#39;t Have to Be Computers &lpar;A Purple Peril&rpar; &lpar;2015&rpar;](http://psychsciencenotes.blogspot.com/2015/07/brains-dont-have-to-be-computers-purple.html)
-- [AI Corrects Accents](https://www.sanas.ai/demo)
+- [Small modular nuclear reactors could reshape Southwest Virginia&#39;s coal country](https://www.washingtonpost.com/climate-solutions/2023/02/19/coal-nuclear-smr-modular/)
+- [Unfolder for Mac – a 3D modelcreating papercraft](https://www.unfolder.app/)
+- [Rare insect found at Arkansas Walmart sets historic record](https://phys.org/news/2023-02-rare-insect-arkansas-walmart-historic.html)
+- [Electric vehicle drivers get candid about charging: &#39;Logistical nightmare&#39;](https://abcnews.go.com/Business/broken-machines-long-waits-reality-charging-electric-vehicle/story?id=97389275)
+- [Contact networks have small metric backbones that maintain community structure](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010854)
+- [US Marshals Suffer Ransomware Breach of Sensitive Information](https://www.bloomberg.com/news/articles/2023-02-28/us-marshals-suffer-ransomware-breach-of-sensitive-information)
+- [Putin&#39;s £274M spy plane blown up by Belarusian partisans](https://news.yahoo.com/putins-274m-spy-plane-destroyed-133313500.html)
+- [Building a Video Chat App: WebRTC in Jetpack Compose &lpar;Part2&rpar;](https://getstream.io/blog/webrtc-jetpack-compose/)
+- [Comparing React to VanillaJS](https://itsover.au/posts/react.html)
+- [Hierarchical Database Model](https://en.wikipedia.org/wiki/Hierarchical_database_model)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

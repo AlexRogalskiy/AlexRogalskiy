@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Small modular nuclear reactors could reshape Southwest Virginia&#39;s coal country](https://www.washingtonpost.com/climate-solutions/2023/02/19/coal-nuclear-smr-modular/)
-- [Unfolder for Mac – a 3D modelcreating papercraft](https://www.unfolder.app/)
-- [Rare insect found at Arkansas Walmart sets historic record](https://phys.org/news/2023-02-rare-insect-arkansas-walmart-historic.html)
-- [Electric vehicle drivers get candid about charging: &#39;Logistical nightmare&#39;](https://abcnews.go.com/Business/broken-machines-long-waits-reality-charging-electric-vehicle/story?id=97389275)
-- [Contact networks have small metric backbones that maintain community structure](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010854)
-- [US Marshals Suffer Ransomware Breach of Sensitive Information](https://www.bloomberg.com/news/articles/2023-02-28/us-marshals-suffer-ransomware-breach-of-sensitive-information)
-- [Putin&#39;s £274M spy plane blown up by Belarusian partisans](https://news.yahoo.com/putins-274m-spy-plane-destroyed-133313500.html)
-- [Building a Video Chat App: WebRTC in Jetpack Compose &lpar;Part2&rpar;](https://getstream.io/blog/webrtc-jetpack-compose/)
-- [Comparing React to VanillaJS](https://itsover.au/posts/react.html)
-- [Hierarchical Database Model](https://en.wikipedia.org/wiki/Hierarchical_database_model)
+- [Tesla officially opens Superchargers to non-Tesla EV owners in the US](https://electrek.co/2023/02/28/tesla-officially-opens-superchargers-non-tesla-ev-owners-us-how-it-works/)
+- [Couples counseling for front- and back-end developers](https://us11.campaign-archive.com/?e=01d2b095a0&u=9d7ced8c4bbd6c2f238673f0f&id=6e71bb1932)
+- [Ask HN: Is HN &lpar;or the world&rpar; getting politically extreme?](https://news.ycombinator.com/item?id=34978115)
+- [Palantir Meets IL6 Security Requirements with Apollo](https://blog.palantir.com/how-palantir-meets-il6-security-requirements-with-apollo-f6c3f0c51fe)
+- [RadioGPT and TVGPT to replace DJ And Morning shows with social media posting](https://futurimedia.com/radiogpt/)
+- [Sure looks like Beijing stole blueprints from chip fab world&#39;s ASML](https://www.theregister.com/2023/02/27/asml_china_data_spying/)
+- [New FAA rules make it easier to fly recreational drones in restricted airspace](https://www.dpreview.com/news/4636847884/new-faa-rules-make-it-easier-for-recreational-drone-pilots-to-fly-in-restricted-airspaces)
+- [Move over Morricone The record labels rescuing lost Italian B-movie scores](https://www.theguardian.com/music/2022/dec/13/move-over-morricone-the-record-labels-rescuing-lost-italian-b-movie-scores)
+- [Open AI Grows](https://www.howtheygrow.co/p/how-openai-grows)
+- [HashiCorp Grove: A SaaS log collection framework](https://github.com/hashicorp-forge/grove)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

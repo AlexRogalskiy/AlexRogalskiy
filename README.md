@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
+- [New Windows 11 update puts Bing Chat front and center](https://www.computerworld.com/article/3688953/new-windows-11-update-puts-bing-chat-front-and-center.html#tk.rss_all)
+- [MacStadium’s VMWare virtualization replacement now available at AWS](https://www.computerworld.com/article/3688919/macstadiums-vmware-virtualization-replacement-now-available-at-aws.html#tk.rss_all)
+- [Zoom sets sights on AI development as it posts fourth-quarter loss](https://www.computerworld.com/article/3688952/zoom-sets-sights-on-ai-development-as-it-posts-fourth-quarter-loss.html#tk.rss_all)
+- [‘Digital twin’ tech is twice as great as the metaverse](https://www.computerworld.com/article/3688917/digital-twin-tech-is-twice-as-great-as-the-metaverse.html#tk.rss_all)
 - [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
 - [Twitter stealthily lays off 10% of remaining workers, including tech staff](https://www.computerworld.com/article/3688938/twitter-stealthily-lays-off-10-of-remaining-workers-including-tech-staff.html#tk.rss_all)
 - [US-led &#39;Fab 4&#39; chip alliance meets to coordinate supply chain resilience](https://www.computerworld.com/article/3689157/us-led-fab-4-chip-alliance-meets-to-coordinate-supply-chain-resilience.html#tk.rss_all)
 - [Software bugs that bug me – and how to swat them down](https://www.computerworld.com/article/3689155/software-bugs-that-bug-me-and-how-to-swat-them-down.html#tk.rss_all)
 - [Qualcomm again hints at Apple’s future iPhone plans](https://www.computerworld.com/article/3689177/qualcomm-again-hints-at-apples-future-iphone-plans.html#tk.rss_all)
-- [Q&amp;A: ChatGPT isn&#39;t sentient, it’s a next-word prediction engine](https://www.computerworld.com/article/3688934/chatgpt-is-not-sentient-it-s-a-next-word-prediction-engine.html#tk.rss_all)
-- [MWC: iPhone Emergency SOS triggers new space race](https://www.computerworld.com/article/3689151/mwc-iphone-emergency-sos-triggers-new-space-race.html#tk.rss_all)
-- [TSMC to invest $7.4 billion in second Japan chip factory: Report](https://www.computerworld.com/article/3688933/tsmc-to-invest-74-billion-in-second-japan-chip-factory-report.html#tk.rss_all)
-- [Skills-based hiring continues to rise as degree requirements fade](https://www.computerworld.com/article/3689170/skills-based-hiring-continues-to-rise-as-degree-requirements-fade.html#tk.rss_all)
-- [Supreme Court justices parse US antiterrorism law in Twitter case](https://www.computerworld.com/article/3689009/supreme-court-justices-parse-us-antiterrorism-law-in-twitter-case.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

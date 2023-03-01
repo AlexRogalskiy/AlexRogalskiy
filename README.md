@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Vimium – The Hacker&amp;#x27;s Browser](https://vimium.github.io/)
-- [Firecracker internals: deep dive inside the technology powering AWS Lambda&lpar;2021&rpar;](https://www.talhoffman.com/2021/07/18/firecracker-internals/)
-- [Mathematical Foundations of Computer Networking](https://www.pearson.com/en-us/subject-catalog/p/mathematical-foundations-of-computer-networking/P200000009272/9780321792105)
-- [Keep your AI claims in check](https://www.ftc.gov/business-guidance/blog/2023/02/keep-your-ai-claims-check)
-- [Linux-factory: A framework used to create custom Linux Debian operating systems](https://github.com/clayrisser/linux-factory)
-- [Show HN: Former game devs building a platform showcasing game projects](https://projectgoobii.com/)
-- [Using HDMI radio interference for high-speed data transfer](https://www.windytan.com/2023/02/using-hdmi-radio-interference-for-high.html)
-- [Bitmovin &lpar;YC S15&rpar; Is Hiring Solution Engineers in Video in the US](https://bitmovin.com/careers/)
-- [W3C Beta Website](https://beta.w3.org/)
-- [Amazon removes books from Kindle Unlimited after they appear on pirate sites](https://torrentfreak.com/amazon-removes-books-from-kindle-unlimited-after-they-appear-on-pirate-sites-230206/)
+- [How Duolingo reignited user growth](https://www.lennysnewsletter.com/p/how-duolingo-reignited-user-growth)
+- [Indirect Prompt Injection on Bing Chat](https://greshake.github.io/)
+- [Make JDK source code UTF-8](https://bugs.openjdk.org/browse/JDK-8301971)
+- [AMD Zen2 ymm registers rolling back](https://lkml.org/lkml/2023/2/22/33)
+- [Apartment rents fall as new supply hits market](https://www.wsj.com/articles/apartment-rents-fall-as-crush-of-new-supply-hits-market-2403c6ea)
+- [OneSignal &lpar;YC S11&rpar; Is Hiring Engineers to Work on Mobile Customer Engagement](https://onesignal.com/careers)
+- [LokiOS: A new version of CP&amp;#x2F;M 2.2, written from scratch](https://forum.vcfed.org/index.php?threads/introducing-lokios-a-new-version-of-cp-m-written-from-scratch-compatible-with-cp-m2-2-programs.1242138/)
+- [TCG TPM2.0 implementations vulnerable to memory corruption](https://kb.cert.org/vuls/id/782720)
+- [OpenAI&amp;#x27;s Foundry leaked pricing says a lot](https://cognitiverevolution.substack.com/p/openais-foundry-leaked-pricing-says)
+- [Jailbreak Chat: A collection of ChatGPT jailbreaks](https://www.jailbreakchat.com)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

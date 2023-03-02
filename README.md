@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Tesla officially opens Superchargers to non-Tesla EV owners in the US](https://electrek.co/2023/02/28/tesla-officially-opens-superchargers-non-tesla-ev-owners-us-how-it-works/)
-- [Couples counseling for front- and back-end developers](https://us11.campaign-archive.com/?e=01d2b095a0&u=9d7ced8c4bbd6c2f238673f0f&id=6e71bb1932)
-- [Ask HN: Is HN &lpar;or the world&rpar; getting politically extreme?](https://news.ycombinator.com/item?id=34978115)
-- [Palantir Meets IL6 Security Requirements with Apollo](https://blog.palantir.com/how-palantir-meets-il6-security-requirements-with-apollo-f6c3f0c51fe)
-- [RadioGPT and TVGPT to replace DJ And Morning shows with social media posting](https://futurimedia.com/radiogpt/)
-- [Sure looks like Beijing stole blueprints from chip fab world&#39;s ASML](https://www.theregister.com/2023/02/27/asml_china_data_spying/)
-- [New FAA rules make it easier to fly recreational drones in restricted airspace](https://www.dpreview.com/news/4636847884/new-faa-rules-make-it-easier-for-recreational-drone-pilots-to-fly-in-restricted-airspaces)
-- [Move over Morricone The record labels rescuing lost Italian B-movie scores](https://www.theguardian.com/music/2022/dec/13/move-over-morricone-the-record-labels-rescuing-lost-italian-b-movie-scores)
-- [Open AI Grows](https://www.howtheygrow.co/p/how-openai-grows)
-- [HashiCorp Grove: A SaaS log collection framework](https://github.com/hashicorp-forge/grove)
+- [Russian Offensive Campaign Assessment, March 1, 2023 &lpar;ISW&rpar;](https://www.understandingwar.org/backgrounder/russian-offensive-campaign-assessment-march-1-2023)
+- [Float Compression 7: More Filtering Optimization](https://aras-p.info/blog/2023/03/01/Float-Compression-7-More-Filtering-Optimization/)
+- [Super-fast insect urination powered by the physics of superpropulsion](https://phys.org/news/2023-02-super-fast-insect-urination-powered-physics.html)
+- [Protein Project – Analysis of well-known protein supplements in India](https://twitter.com/theliverdr/status/1629670100595888128)
+- [Fossil fuel companies donated $700M to US universities over 10 years](https://www.theguardian.com/environment/2023/mar/01/fossil-fuel-companies-donate-millions-us-universities)
+- [Developing Open Source Is a Political Act](https://www.zettlr.com/post/release-developing-open-source-political-act)
+- [Kotaku Re-Review: There Is No Fixing CDPR&#39;s Cyberpunk 2077](https://kotaku.com/cyberpunk-2077-fixed-re-review-2023-impressions-saved-1850143200)
+- [‘Havana syndrome’ not caused by foreign adversary, US intelligence says](https://www.theguardian.com/us-news/2023/mar/01/havana-syndrome-us-intelligence-services-determine-no-foreign-adversaries)
+- [Five Key Lessons for Successful Web3 Adoption](https://www.web3wednes.day/p/five-key-lessons-successful-web3-adoption)
+- [U.S. Postal Service starts nationwide electric vehicle fleet, buying 9,250 EVs](https://www.cbsnews.com/news/u-s-postal-service-starts-nationwide-electric-vehicle-fleet-buying-9250-evs-and-thousands-of-charging-stations/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Greece train crash: 26 killed and dozens injured in collision](https://www.theguardian.com/world/2023/mar/01/greece-train-crash-deaths-injuries-larissa-collision-derailment)
-- [German publisher Axel Springer says journalists could be replaced by AI](https://www.theguardian.com/technology/2023/mar/01/german-publisher-axel-springer-says-journalists-could-be-replaced-by-ai)
-- [Finland starts building fence on Russian border as MPs prepare to vote on Nato bid](https://www.theguardian.com/world/2023/mar/01/finland-starts-building-fence-on-russian-border-as-mps-prepare-to-vote-on-nato-bid)
-- [‘Abusing state power’: China lashes out at US over TikTok bans](https://www.theguardian.com/world/2023/mar/01/abusing-state-power-china-lashes-out-at-us-over-tiktok-bans)
-- [Russia-Ukraine war at a glance: what we know on day 371 of the invasion](https://www.theguardian.com/world/2023/mar/01/russia-ukraine-war-at-a-glance-what-we-know-on-day-371-of-the-invasion)
-- [England’s poorer pupils face ‘geographic exclusion’ from top state schools – study](https://www.theguardian.com/education/2023/mar/01/england-poorer-pupils-face-exclusion-from-top-state-schools-study)
-- [£14bn plan to reduce NHS cancer backlogs in England is failing, MPs say](https://www.theguardian.com/society/2023/mar/01/plan-to-reduce-nhs-cancer-backlogs-in-england-failing-mps-say)
-- [Lufthansa’s ‘green’ adverts banned in UK for misleading consumers](https://www.theguardian.com/business/2023/mar/01/airline-green-adverts-banned-uk-lufthansa-asa)
-- [World’s richest people lost total of $10tn in 2022, report finds](https://www.theguardian.com/news/2023/mar/01/worlds-richest-people-lost-total-of-10tn-in-2022-report-finds)
-- [Scientists discover fossils of oldest known potential pollinators](https://www.theguardian.com/science/2023/mar/01/scientists-discover-fossils-of-oldest-known-potential-pollinators)
+- [Man lost in Amazon for a month says he ate worms and drank own urine to survive](https://www.theguardian.com/world/2023/mar/02/man-lost-in-amazon-jungle-survives-eating-worms-drinking-urine)
+- [Google executives summoned by Canada MPs after blocking news content over ‘link tax’](https://www.theguardian.com/world/2023/mar/02/google-blocking-news-canada-online-news-act-link-tax-facebook)
+- [DNA used to identify California mother whose body was found 27 years ago](https://www.theguardian.com/us-news/2023/mar/01/body-submerged-refrigerator-27-years-identified)
+- [New Easter Island moai statue discovered in volcano crater](https://www.theguardian.com/world/2023/mar/02/new-easter-island-moai-statue-discovered-in-volcano-crater)
+- [Rupert Murdoch and Donald Trump: an origin story | Fiona Katauskas](https://www.theguardian.com/commentisfree/picture/2023/mar/02/rupert-murdoch-and-donald-trump-an-origin-story)
+- [Calls grow in Canada for inquiry into alleged election interference by China](https://www.theguardian.com/world/2023/mar/02/calls-grow-in-canada-for-inquiry-into-alleged-election-interference-by-china)
+- [Romania PM unveils AI ‘adviser’ to tell him what people think in real time](https://www.theguardian.com/world/2023/mar/02/romania-ion-ai-government-honorary-adviser-artificial-intelligence-pm-nicolae-ciuca)
+- [Man arrested in Pennsylvania after explosive allegedly found in check-in bag](https://www.theguardian.com/us-news/2023/mar/01/man-arrested-in-pennsylvania-after-explosive-allegedly-found-check-in-bag)
+- [Russia-Ukraine war at a glance: what we know on day 372 of the invasion](https://www.theguardian.com/world/2023/mar/02/russia-ukraine-war-at-a-glance-what-we-know-on-day-372-of-the-invasion)
+- [New Zealand Māori life captured by famed photographer Ans Westra – picture essay](https://www.theguardian.com/artanddesign/2023/mar/02/new-zealand-maori-life-captured-by-famed-photographer-ans-westra-picture-essay)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
+- [US sets guidelines for semiconductor makers seeking CHIPS Act funds](https://www.computerworld.com/article/3689629/us-sets-guidelines-for-semiconductor-makers-seeking-chips-act-funds.html#tk.rss_all)
+- [Apple’s MFi scheme for USB-C is a good thing](https://www.computerworld.com/article/3689250/apples-mfi-scheme-for-usb-c-is-a-good-thing.html#tk.rss_all)
+- [Bing’s AI chatbot came to work for me. I had to fire it.](https://www.computerworld.com/article/3688920/bings-ai-chatbot-came-to-work-for-me-i-had-to-fire-it.html#tk.rss_all)
+- [3 awesome new Samsung Android 13 shortcuts](https://www.computerworld.com/article/3689178/android-13-shortcuts-samsung.html#tk.rss_all)
 - [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
 - [New Windows 11 update puts Bing Chat front and center](https://www.computerworld.com/article/3688953/new-windows-11-update-puts-bing-chat-front-and-center.html#tk.rss_all)
-- [MacStadium’s VMWare virtualization replacement now available at AWS](https://www.computerworld.com/article/3688919/macstadiums-vmware-virtualization-replacement-now-available-at-aws.html#tk.rss_all)
 - [Zoom sets sights on AI development as it posts fourth-quarter loss](https://www.computerworld.com/article/3688952/zoom-sets-sights-on-ai-development-as-it-posts-fourth-quarter-loss.html#tk.rss_all)
 - [‘Digital twin’ tech is twice as great as the metaverse](https://www.computerworld.com/article/3688917/digital-twin-tech-is-twice-as-great-as-the-metaverse.html#tk.rss_all)
-- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
-- [Twitter stealthily lays off 10% of remaining workers, including tech staff](https://www.computerworld.com/article/3688938/twitter-stealthily-lays-off-10-of-remaining-workers-including-tech-staff.html#tk.rss_all)
-- [US-led &#39;Fab 4&#39; chip alliance meets to coordinate supply chain resilience](https://www.computerworld.com/article/3689157/us-led-fab-4-chip-alliance-meets-to-coordinate-supply-chain-resilience.html#tk.rss_all)
-- [Software bugs that bug me – and how to swat them down](https://www.computerworld.com/article/3689155/software-bugs-that-bug-me-and-how-to-swat-them-down.html#tk.rss_all)
-- [Qualcomm again hints at Apple’s future iPhone plans](https://www.computerworld.com/article/3689177/qualcomm-again-hints-at-apples-future-iphone-plans.html#tk.rss_all)
+- [MacStadium’s VMWare virtualization replacement now available at AWS](https://www.computerworld.com/article/3688919/macstadiums-vmware-virtualization-replacement-now-available-at-aws.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

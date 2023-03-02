@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [How Duolingo reignited user growth](https://www.lennysnewsletter.com/p/how-duolingo-reignited-user-growth)
-- [Indirect Prompt Injection on Bing Chat](https://greshake.github.io/)
-- [Make JDK source code UTF-8](https://bugs.openjdk.org/browse/JDK-8301971)
-- [AMD Zen2 ymm registers rolling back](https://lkml.org/lkml/2023/2/22/33)
-- [Apartment rents fall as new supply hits market](https://www.wsj.com/articles/apartment-rents-fall-as-crush-of-new-supply-hits-market-2403c6ea)
-- [OneSignal &lpar;YC S11&rpar; Is Hiring Engineers to Work on Mobile Customer Engagement](https://onesignal.com/careers)
-- [LokiOS: A new version of CP&amp;#x2F;M 2.2, written from scratch](https://forum.vcfed.org/index.php?threads/introducing-lokios-a-new-version-of-cp-m-written-from-scratch-compatible-with-cp-m2-2-programs.1242138/)
-- [TCG TPM2.0 implementations vulnerable to memory corruption](https://kb.cert.org/vuls/id/782720)
-- [OpenAI&amp;#x27;s Foundry leaked pricing says a lot](https://cognitiverevolution.substack.com/p/openais-foundry-leaked-pricing-says)
-- [Jailbreak Chat: A collection of ChatGPT jailbreaks](https://www.jailbreakchat.com)
+- [U.S. Postal Service starts nationwide electric vehicle fleet, buying 9,250 EVs](https://www.cbsnews.com/news/u-s-postal-service-starts-nationwide-electric-vehicle-fleet-buying-9250-evs-and-thousands-of-charging-stations/)
+- [Asteroid lost 1M kilograms after collision with DART spacecraft](https://www.nature.com/articles/d41586-023-00601-4)
+- [Stanford researchers find only 3% of HTTP runs on port 80 [pdf]](https://lizizhikevich.github.io/assets/papers/lzr.pdf)
+- [US-Japan team hails H2-boron plasma fusion breakthrough](https://www.rechargenews.com/energy-transition/100-000-years-of-power-us-japan-team-hails-h2-boron-plasma-fusion-breakthrough/2-1-1411318?zephr_sso_ott=QAIu08)
+- [ARM vs. Intel on Amazon’s Cloud: A URL Parsing Benchmark](https://lemire.me/blog/2023/03/01/arm-vs-intel-on-amazons-cloud/)
+- [HackerFM – An AI Generated HN Podcast Using the New ChatGPT API](https://hackerfm.com/index)
+- [Specs of Inexpensive 2023 Amazon Fire HD 10 Tablet Leaked: NFC and GPS](https://tabletmonkeys.com/2023-version-fire-hd-10-leaks/)
+- [Drop-in endpoint observability for Docker and K8s](https://www.akitasoftware.com/blog-posts/launching-akitas-open-beta)
+- [Standard Notes](https://standardnotes.com)
+- [Using Stable Diffusion techniques to create 2D game environments](https://talesofsyn.com/posts/creating-isometric-rpg-game-backgrounds)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

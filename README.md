@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Generative AI will change PCs and smartphones, making one &lpar;or both&rpar; obsolete](https://www.computerworld.com/article/3689872/generative-ai-will-change-pcs-and-smartphones-making-one-or-both-obsolete.html#tk.rss_all)
+- [For Apple’s enterprise success, endpoint management is the new black](https://www.computerworld.com/article/3689888/for-apples-enterprise-success-endpoint-management-is-the-new-black.html#tk.rss_all)
+- [OpenAI launches APIs for ChatGPT and Whisper](https://www.computerworld.com/article/3689868/openai-launches-apis-for-chatgpt-and-whisper.html#tk.rss_all)
+- [Microsoft Intune Suite consolidates endpoint management and protection](https://www.computerworld.com/article/3689809/microsoft-intune-suite-consolidates-endpoint-management-and-protection.html#tk.rss_all)
+- [Bad onboarding can lead to high quit rates for new workers](https://www.computerworld.com/article/3688951/bad-onboarding-can-lead-to-high-quit-rates.html#tk.rss_all)
 - [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
 - [US sets guidelines for semiconductor makers seeking CHIPS Act funds](https://www.computerworld.com/article/3689629/us-sets-guidelines-for-semiconductor-makers-seeking-chips-act-funds.html#tk.rss_all)
 - [Apple’s MFi scheme for USB-C is a good thing](https://www.computerworld.com/article/3689250/apples-mfi-scheme-for-usb-c-is-a-good-thing.html#tk.rss_all)
 - [Bing’s AI chatbot came to work for me. I had to fire it.](https://www.computerworld.com/article/3688920/bings-ai-chatbot-came-to-work-for-me-i-had-to-fire-it.html#tk.rss_all)
 - [3 awesome new Samsung Android 13 shortcuts](https://www.computerworld.com/article/3689178/android-13-shortcuts-samsung.html#tk.rss_all)
-- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
-- [New Windows 11 update puts Bing Chat front and center](https://www.computerworld.com/article/3688953/new-windows-11-update-puts-bing-chat-front-and-center.html#tk.rss_all)
-- [Zoom sets sights on AI development as it posts fourth-quarter loss](https://www.computerworld.com/article/3688952/zoom-sets-sights-on-ai-development-as-it-posts-fourth-quarter-loss.html#tk.rss_all)
-- [‘Digital twin’ tech is twice as great as the metaverse](https://www.computerworld.com/article/3688917/digital-twin-tech-is-twice-as-great-as-the-metaverse.html#tk.rss_all)
-- [MacStadium’s VMWare virtualization replacement now available at AWS](https://www.computerworld.com/article/3688919/macstadiums-vmware-virtualization-replacement-now-available-at-aws.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Man lost in Amazon for a month says he ate worms and drank own urine to survive](https://www.theguardian.com/world/2023/mar/02/man-lost-in-amazon-jungle-survives-eating-worms-drinking-urine)
-- [Google executives summoned by Canada MPs after blocking news content over ‘link tax’](https://www.theguardian.com/world/2023/mar/02/google-blocking-news-canada-online-news-act-link-tax-facebook)
-- [DNA used to identify California mother whose body was found 27 years ago](https://www.theguardian.com/us-news/2023/mar/01/body-submerged-refrigerator-27-years-identified)
-- [New Easter Island moai statue discovered in volcano crater](https://www.theguardian.com/world/2023/mar/02/new-easter-island-moai-statue-discovered-in-volcano-crater)
-- [Rupert Murdoch and Donald Trump: an origin story | Fiona Katauskas](https://www.theguardian.com/commentisfree/picture/2023/mar/02/rupert-murdoch-and-donald-trump-an-origin-story)
-- [Calls grow in Canada for inquiry into alleged election interference by China](https://www.theguardian.com/world/2023/mar/02/calls-grow-in-canada-for-inquiry-into-alleged-election-interference-by-china)
-- [Romania PM unveils AI ‘adviser’ to tell him what people think in real time](https://www.theguardian.com/world/2023/mar/02/romania-ion-ai-government-honorary-adviser-artificial-intelligence-pm-nicolae-ciuca)
-- [Man arrested in Pennsylvania after explosive allegedly found in check-in bag](https://www.theguardian.com/us-news/2023/mar/01/man-arrested-in-pennsylvania-after-explosive-allegedly-found-check-in-bag)
-- [Russia-Ukraine war at a glance: what we know on day 372 of the invasion](https://www.theguardian.com/world/2023/mar/02/russia-ukraine-war-at-a-glance-what-we-know-on-day-372-of-the-invasion)
-- [New Zealand Māori life captured by famed photographer Ans Westra – picture essay](https://www.theguardian.com/artanddesign/2023/mar/02/new-zealand-maori-life-captured-by-famed-photographer-ans-westra-picture-essay)
+- [India v Australia: third Test, day three – live](https://www.theguardian.com/sport/live/2023/mar/03/india-vs-australia-live-updates-cricket-score-third-test-3rd-day-three-ind-v-aus-scorecard-international-match-latest-scores-indore-holkar-stadium)
+- [Israel and the West Bank: a week of rage and rampage - podcast](https://www.theguardian.com/news/audio/2023/mar/03/israel-west-bank-week-rage-rampage-podcast)
+- [Alex Murdaugh found guilty of murder of wife and son](https://www.theguardian.com/us-news/2023/mar/02/alex-murdaugh-guilty-murder-trial-verdict)
+- [Xi Jinping to tighten Communist party’s grip with overhaul of China’s government at key meeting](https://www.theguardian.com/world/2023/mar/03/xi-jinping-to-tighten-communist-partys-grip-with-overhaul-of-chinas-government-at-key-meeting)
+- [Drugs, jacuzzis and a horse: the anarchic Philippines prison where anything can be bought](https://www.theguardian.com/world/2023/mar/03/drugs-jacuzzis-and-a-horse-the-anarchic-philippines-prison-where-anything-can-be-bought)
+- [Russia-Ukraine war at a glance: what we know on day 373 of the invasion](https://www.theguardian.com/world/2023/mar/03/russia-ukraine-war-at-a-glance-what-we-know-on-day-373-of-the-invasion)
+- [Alex Murdaugh shines a true light on privilege in the US | Emma Brockes](https://www.theguardian.com/commentisfree/2023/mar/02/alex-murdaugh-murderer-privilege-us)
+- [Violence, corruption, power: key moments of Alex Murdaugh’s trial](https://www.theguardian.com/us-news/2023/mar/02/alex-murdaugh-trial-key-moments)
+- [Health unions could call off strikes as Steve Barclay opens door to pay talks](https://www.theguardian.com/uk-news/2023/mar/02/health-unions-could-call-off-strikes-as-steve-barclay-opens-door-to-pay-talks)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2023/mar/03/premier-league-10-things-to-look-out-for-this-weekend)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

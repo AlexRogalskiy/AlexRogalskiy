@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [U.S. Postal Service starts nationwide electric vehicle fleet, buying 9,250 EVs](https://www.cbsnews.com/news/u-s-postal-service-starts-nationwide-electric-vehicle-fleet-buying-9250-evs-and-thousands-of-charging-stations/)
-- [Asteroid lost 1M kilograms after collision with DART spacecraft](https://www.nature.com/articles/d41586-023-00601-4)
-- [Stanford researchers find only 3% of HTTP runs on port 80 [pdf]](https://lizizhikevich.github.io/assets/papers/lzr.pdf)
-- [US-Japan team hails H2-boron plasma fusion breakthrough](https://www.rechargenews.com/energy-transition/100-000-years-of-power-us-japan-team-hails-h2-boron-plasma-fusion-breakthrough/2-1-1411318?zephr_sso_ott=QAIu08)
-- [ARM vs. Intel on Amazon’s Cloud: A URL Parsing Benchmark](https://lemire.me/blog/2023/03/01/arm-vs-intel-on-amazons-cloud/)
-- [HackerFM – An AI Generated HN Podcast Using the New ChatGPT API](https://hackerfm.com/index)
-- [Specs of Inexpensive 2023 Amazon Fire HD 10 Tablet Leaked: NFC and GPS](https://tabletmonkeys.com/2023-version-fire-hd-10-leaks/)
-- [Drop-in endpoint observability for Docker and K8s](https://www.akitasoftware.com/blog-posts/launching-akitas-open-beta)
-- [Standard Notes](https://standardnotes.com)
-- [Using Stable Diffusion techniques to create 2D game environments](https://talesofsyn.com/posts/creating-isometric-rpg-game-backgrounds)
+- [Redox OS – A Unix-Like Operating System Written in Rust](https://www.redox-os.org/)
+- [Replika users fell in love with their AI chatbot companions. Then they lost them](https://www.abc.net.au/news/science/2023-03-01/replika-users-fell-in-love-with-their-ai-chatbot-companion/102028196)
+- [Tesla&amp;#x27;s Next-Gen Electric Motors Will Get Rid of Rare Earth Elements](https://insideevs.com/news/655233/tesla-next-gen-eletric-motors-no-rare-earth-elements/)
+- [Rethinking Splice&lpar;&rpar;](https://lwn.net/Articles/923237/)
+- [Initial V: A BMW shifter converted to a Bluetooth Keyboard for use with Vim](https://github.com/tenderlove/initial-v)
+- [Cosmic Text: Pure Rust multi-line text handling](https://github.com/pop-os/cosmic-text)
+- [Show HN: Nosey Parker, a fast and low-noise secrets detector for textual data](https://github.com/praetorian-inc/noseyparker)
+- [Ford Hires 550 Former Argo.ai Engineers, Creates Latitude.ai](https://media.ford.com/content/fordmedia/fna/us/en/news/2023/03/02/ford-establishes-latitude-ai-to-develop-future-automated-driving.html)
+- [The Super Tiny Compiler](https://github.com/jamiebuilds/the-super-tiny-compiler)
+- [Opted out, yet tracked. Are regulations enough to protect your privacy?](https://arxiv.org/abs/2202.00885)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

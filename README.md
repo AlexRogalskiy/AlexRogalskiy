@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Russian Offensive Campaign Assessment, March 1, 2023 &lpar;ISW&rpar;](https://www.understandingwar.org/backgrounder/russian-offensive-campaign-assessment-march-1-2023)
-- [Float Compression 7: More Filtering Optimization](https://aras-p.info/blog/2023/03/01/Float-Compression-7-More-Filtering-Optimization/)
-- [Super-fast insect urination powered by the physics of superpropulsion](https://phys.org/news/2023-02-super-fast-insect-urination-powered-physics.html)
-- [Protein Project – Analysis of well-known protein supplements in India](https://twitter.com/theliverdr/status/1629670100595888128)
-- [Fossil fuel companies donated $700M to US universities over 10 years](https://www.theguardian.com/environment/2023/mar/01/fossil-fuel-companies-donate-millions-us-universities)
-- [Developing Open Source Is a Political Act](https://www.zettlr.com/post/release-developing-open-source-political-act)
-- [Kotaku Re-Review: There Is No Fixing CDPR&#39;s Cyberpunk 2077](https://kotaku.com/cyberpunk-2077-fixed-re-review-2023-impressions-saved-1850143200)
-- [‘Havana syndrome’ not caused by foreign adversary, US intelligence says](https://www.theguardian.com/us-news/2023/mar/01/havana-syndrome-us-intelligence-services-determine-no-foreign-adversaries)
-- [Five Key Lessons for Successful Web3 Adoption](https://www.web3wednes.day/p/five-key-lessons-successful-web3-adoption)
-- [U.S. Postal Service starts nationwide electric vehicle fleet, buying 9,250 EVs](https://www.cbsnews.com/news/u-s-postal-service-starts-nationwide-electric-vehicle-fleet-buying-9250-evs-and-thousands-of-charging-stations/)
+- [Days are 24 hours for all of us](https://un.curl.dev/life/24h)
+- [The Waluigi Effect](https://www.lesswrong.com/posts/D7PumeYTDPfBTp3i7/the-waluigi-effect-mega-post)
+- [Better performance per watt, but why ARM server market share not grown over x86](https://news.ycombinator.com/item?id=35005594)
+- [Google Dev Library letter – 19th Edition](https://developers.googleblog.com/2023/03/google-dev-library-letters-19th-edition.html)
+- [Amazon Basics CPU Cooler Is Its First Foray into PC Components](https://www.tomshardware.com/news/amazon-basics-cpu-cooler-is-its-first-foray-into-pc-components)
+- [The track of a bicycle back tire [pdf]](https://tlakoba.w3.uvm.edu/AppliedUGMath/final_talks_previous_years/BicycleTracks.pdf)
+- [The Largest 3D-Printed Neighborhood Is Here](https://www.bloomberg.com/features/2023-3d-printed-houses-austin-texas/)
+- [Is Hacker News Turing Complete?](https://news.ycombinator.com/item?id=35005539)
+- [Musk: &#39;AI stresses me out&#39;](https://www.reuters.com/business/autos-transportation/musk-ai-stresses-me-out-2023-03-02/)
+- [Decentralized Governance for Git Communities](https://github.com/gov4git/gov4git)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

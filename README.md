@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [India v Australia: third Test, day three – live](https://www.theguardian.com/sport/live/2023/mar/03/india-vs-australia-live-updates-cricket-score-third-test-3rd-day-three-ind-v-aus-scorecard-international-match-latest-scores-indore-holkar-stadium)
-- [Israel and the West Bank: a week of rage and rampage - podcast](https://www.theguardian.com/news/audio/2023/mar/03/israel-west-bank-week-rage-rampage-podcast)
-- [Alex Murdaugh found guilty of murder of wife and son](https://www.theguardian.com/us-news/2023/mar/02/alex-murdaugh-guilty-murder-trial-verdict)
-- [Xi Jinping to tighten Communist party’s grip with overhaul of China’s government at key meeting](https://www.theguardian.com/world/2023/mar/03/xi-jinping-to-tighten-communist-partys-grip-with-overhaul-of-chinas-government-at-key-meeting)
-- [Drugs, jacuzzis and a horse: the anarchic Philippines prison where anything can be bought](https://www.theguardian.com/world/2023/mar/03/drugs-jacuzzis-and-a-horse-the-anarchic-philippines-prison-where-anything-can-be-bought)
-- [Russia-Ukraine war at a glance: what we know on day 373 of the invasion](https://www.theguardian.com/world/2023/mar/03/russia-ukraine-war-at-a-glance-what-we-know-on-day-373-of-the-invasion)
-- [Alex Murdaugh shines a true light on privilege in the US | Emma Brockes](https://www.theguardian.com/commentisfree/2023/mar/02/alex-murdaugh-murderer-privilege-us)
-- [Violence, corruption, power: key moments of Alex Murdaugh’s trial](https://www.theguardian.com/us-news/2023/mar/02/alex-murdaugh-trial-key-moments)
-- [Health unions could call off strikes as Steve Barclay opens door to pay talks](https://www.theguardian.com/uk-news/2023/mar/02/health-unions-could-call-off-strikes-as-steve-barclay-opens-door-to-pay-talks)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2023/mar/03/premier-league-10-things-to-look-out-for-this-weekend)
+- [WHO calls on US to share information on Covid-19 origins after China lab claims](https://www.theguardian.com/world/2023/mar/04/who-calls-on-us-to-share-information-on-covid-19-origins-after-china-lab-claims)
+- [State of emergency declared in Vanuatu after second cyclone in a week](https://www.theguardian.com/world/2023/mar/04/state-of-emergency-declared-in-vanuatu-after-second-cyclone-in-a-week)
+- [From Creed III to Slowthai: a complete guide to this week’s entertainment](https://www.theguardian.com/culture/2023/mar/04/going-out-staying-in-complete-guide-to-the-weeks-entertainment)
+- [Growers count cost as Cyclone Gabrielle buries New Zealand vineyards in silt](https://www.theguardian.com/world/2023/mar/03/growers-count-cost-as-cyclone-gabrielle-buries-new-zealand-vineyards-in-silt)
+- [Chelsea fear hand could be forced on Graham Potter as crunch games arrive](https://www.theguardian.com/football/2023/mar/03/chelsea-graham-potter-leeds-dortmund)
+- [Three lifeboats launched after fire breaks out on ferry in Channel](https://www.theguardian.com/world/2023/mar/03/three-lifeboats-launched-after-fire-breaks-out-on-ferry-in-channel)
+- [West Ham used club money to donate £9,000 to Conservative party in 2022](https://www.theguardian.com/football/2023/mar/03/west-ham-used-club-money-to-donate-conservative-party-2022)
+- [‘Create chaos’: Leandro Trossard is delivering Arsenal’s Plan B in title bid](https://www.theguardian.com/football/2023/mar/03/arsenal-mikel-arteta-leandro-trossard-is-delivering-arsenals-plan-b-in-title-bid)
+- [Singin’ the coups: Donald Trump releases single with January 6 prisoners](https://www.theguardian.com/us-news/2023/mar/03/donald-trump-song-charity-single-january-6-prisoners)
+- [Boris Johnson in battle for political future amid fresh evidence he misled MPs](https://www.theguardian.com/politics/2023/mar/03/boris-johnson-give-evidence-privileges-committee-inquiry)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Redox OS – A Unix-Like Operating System Written in Rust](https://www.redox-os.org/)
-- [Replika users fell in love with their AI chatbot companions. Then they lost them](https://www.abc.net.au/news/science/2023-03-01/replika-users-fell-in-love-with-their-ai-chatbot-companion/102028196)
-- [Tesla&amp;#x27;s Next-Gen Electric Motors Will Get Rid of Rare Earth Elements](https://insideevs.com/news/655233/tesla-next-gen-eletric-motors-no-rare-earth-elements/)
-- [Rethinking Splice&lpar;&rpar;](https://lwn.net/Articles/923237/)
-- [Initial V: A BMW shifter converted to a Bluetooth Keyboard for use with Vim](https://github.com/tenderlove/initial-v)
-- [Cosmic Text: Pure Rust multi-line text handling](https://github.com/pop-os/cosmic-text)
-- [Show HN: Nosey Parker, a fast and low-noise secrets detector for textual data](https://github.com/praetorian-inc/noseyparker)
-- [Ford Hires 550 Former Argo.ai Engineers, Creates Latitude.ai](https://media.ford.com/content/fordmedia/fna/us/en/news/2023/03/02/ford-establishes-latitude-ai-to-develop-future-automated-driving.html)
-- [The Super Tiny Compiler](https://github.com/jamiebuilds/the-super-tiny-compiler)
-- [Opted out, yet tracked. Are regulations enough to protect your privacy?](https://arxiv.org/abs/2202.00885)
+- [Roald Dahl ebooks remotely updated to censored versions after purchase](https://www.thetimes.co.uk/article/roald-dahl-collection-books-changes-text-puffin-uk-2023-rm2622vl0)
+- [California community colleges rely too much on part-time faculty; misspend funds](https://www.bakersfield.com/news/california-community-colleges-rely-too-much-on-part-time-faculty-and-misspend-funds-audit-finds/article_b7b5da7e-b93b-11ed-9e70-5fd006aad8d7.html)
+- [20M digits of pi in 1 minute using Julia](https://gist.github.com/juliusgeo/41811563811a6e523086e514ef2bec4a)
+- [AI teaches itself to use an API](https://twitter.com/DYtweetshere/status/1631349179934203904)
+- [Amazon Buys One Medical](https://www.onemedical.com/mediacenter/one-medical-joins-amazon/)
+- [What I Learned Reading 1k Investor Reports](https://collabfund.com/blog/i-read-1-000-investor-reports-last-year-heres-what-i-learned/)
+- [Cool URIs Don&amp;#x27;t Change &lpar;1998&rpar;](https://www.w3.org/Provider/Style/URI)
+- [Oldest Human Genome from Southern Spain](https://www.forensicmag.com/594943-Oldest-Human-Genome-from-Southern-Spain/)
+- [I am Neal Stephenson, sci-fi author, geek, and now, sword maker – AMA](https://old.reddit.com/r/books/comments/11h6hg5/i_am_neal_stephenson_scifi_author_geek_and_now/)
+- [ARM64 Linux Workstation](https://jasoneckert.github.io/myblog/ultimate-linux-arm64-workstation/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

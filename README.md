@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Days are 24 hours for all of us](https://un.curl.dev/life/24h)
-- [The Waluigi Effect](https://www.lesswrong.com/posts/D7PumeYTDPfBTp3i7/the-waluigi-effect-mega-post)
-- [Better performance per watt, but why ARM server market share not grown over x86](https://news.ycombinator.com/item?id=35005594)
-- [Google Dev Library letter – 19th Edition](https://developers.googleblog.com/2023/03/google-dev-library-letters-19th-edition.html)
-- [Amazon Basics CPU Cooler Is Its First Foray into PC Components](https://www.tomshardware.com/news/amazon-basics-cpu-cooler-is-its-first-foray-into-pc-components)
-- [The track of a bicycle back tire [pdf]](https://tlakoba.w3.uvm.edu/AppliedUGMath/final_talks_previous_years/BicycleTracks.pdf)
-- [The Largest 3D-Printed Neighborhood Is Here](https://www.bloomberg.com/features/2023-3d-printed-houses-austin-texas/)
-- [Is Hacker News Turing Complete?](https://news.ycombinator.com/item?id=35005539)
-- [Musk: &#39;AI stresses me out&#39;](https://www.reuters.com/business/autos-transportation/musk-ai-stresses-me-out-2023-03-02/)
-- [Decentralized Governance for Git Communities](https://github.com/gov4git/gov4git)
+- [Oakland ransomware attackers leak &#39;confidential&#39; data](https://www.sfgate.com/tech/article/oakland-ransomware-attackers-may-leak-data-17818589.php)
+- [Layoffs can have negative long-term consequences for companies](https://www.axios.com/2023/03/03/how-layoffs-can-have-negative-long-term-consequences-for-companies)
+- [Silvergate Capital shares plunge 55% as bank raises doubts about its future](https://www.cnn.com/2023/03/02/business/silvergate-capital-crypto-ftx/index.html)
+- [Ask HN: How to you know expected time for ticket?](https://news.ycombinator.com/item?id=35017551)
+- [Chaucer’s Leading Lady](https://theamericanscholar.org/chaucers-leading-lady/)
+- [Self-Destructing USB Drive](https://hackaday.com/2023/03/01/self-destructing-usb-drive-releases-the-magic-smoke/)
+- [Human Drivers Avoid Crashes 99.999819% of the Time](https://jalopnik.com/self-driving-car-vs-human-99-percent-safe-crash-data-1850170268)
+- [Colombia tries a new solution for Pablo Escobar’s &#39;cocaine hippos&#39;](https://www.washingtonpost.com/world/2023/03/03/colombia-escobar-hippos/)
+- [Elastic Cloud Services: Scaling Snowflake’s Control Plane](https://www.micahlerner.com/2023/01/19/elastic-cloud-services-scaling-snowflakes-control-plane.html)
+- [Granny &lpar;Orca&rpar;](https://en.wikipedia.org/wiki/Granny_(orca))
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [IT’s lovefest with GPT-3 needs to meet reality now](https://www.computerworld.com/article/3689968/its-lovefest-with-gpt-3-needs-to-meet-reality-now.html#tk.rss_all)
+- [Apple&#39;s supply chain is accelerating the move to India](https://www.computerworld.com/article/3689970/apples-supply-chain-is-accelerating-the-move-to-india.html#tk.rss_all)
+- [China pumps $1.9 billion into homegrown chip-making firm YMTC](https://www.computerworld.com/article/3689695/china-pumps-19-billion-into-homegrown-chip-making-firm-ymtc.html#tk.rss_all)
+- [Dell’s revenue growth hinges on enterprise hardware sales](https://www.computerworld.com/article/3689912/dell-s-revenue-growth-hinges-on-enterprise-hardware-sales.html#tk.rss_all)
+- [Quick fixes for common Windows remote desktop problems](https://www.computerworld.com/article/3688354/fix-windows-remote-desktop-problems.html#tk.rss_all)
+- [Tech layoffs in 2023: A timeline](https://www.computerworld.com/article/3685936/tech-layoffs-in-2023-a-timeline.html#tk.rss_all)
+- [13 hidden tricks for making the most of Android gestures](https://www.computerworld.com/article/3439060/android-gestures.html#tk.rss_all)
 - [Generative AI will change PCs and smartphones, making one &lpar;or both&rpar; obsolete](https://www.computerworld.com/article/3689872/generative-ai-will-change-pcs-and-smartphones-making-one-or-both-obsolete.html#tk.rss_all)
 - [For Apple’s enterprise success, endpoint management is the new black](https://www.computerworld.com/article/3689888/for-apples-enterprise-success-endpoint-management-is-the-new-black.html#tk.rss_all)
-- [OpenAI launches APIs for ChatGPT and Whisper](https://www.computerworld.com/article/3689868/openai-launches-apis-for-chatgpt-and-whisper.html#tk.rss_all)
-- [Microsoft Intune Suite consolidates endpoint management and protection](https://www.computerworld.com/article/3689809/microsoft-intune-suite-consolidates-endpoint-management-and-protection.html#tk.rss_all)
-- [Bad onboarding can lead to high quit rates for new workers](https://www.computerworld.com/article/3688951/bad-onboarding-can-lead-to-high-quit-rates.html#tk.rss_all)
-- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
-- [US sets guidelines for semiconductor makers seeking CHIPS Act funds](https://www.computerworld.com/article/3689629/us-sets-guidelines-for-semiconductor-makers-seeking-chips-act-funds.html#tk.rss_all)
-- [Apple’s MFi scheme for USB-C is a good thing](https://www.computerworld.com/article/3689250/apples-mfi-scheme-for-usb-c-is-a-good-thing.html#tk.rss_all)
-- [Bing’s AI chatbot came to work for me. I had to fire it.](https://www.computerworld.com/article/3688920/bings-ai-chatbot-came-to-work-for-me-i-had-to-fire-it.html#tk.rss_all)
-- [3 awesome new Samsung Android 13 shortcuts](https://www.computerworld.com/article/3689178/android-13-shortcuts-samsung.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

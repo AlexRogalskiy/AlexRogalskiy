@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [WHO calls on US to share information on Covid-19 origins after China lab claims](https://www.theguardian.com/world/2023/mar/04/who-calls-on-us-to-share-information-on-covid-19-origins-after-china-lab-claims)
-- [State of emergency declared in Vanuatu after second cyclone in a week](https://www.theguardian.com/world/2023/mar/04/state-of-emergency-declared-in-vanuatu-after-second-cyclone-in-a-week)
-- [From Creed III to Slowthai: a complete guide to this week’s entertainment](https://www.theguardian.com/culture/2023/mar/04/going-out-staying-in-complete-guide-to-the-weeks-entertainment)
-- [Growers count cost as Cyclone Gabrielle buries New Zealand vineyards in silt](https://www.theguardian.com/world/2023/mar/03/growers-count-cost-as-cyclone-gabrielle-buries-new-zealand-vineyards-in-silt)
-- [Chelsea fear hand could be forced on Graham Potter as crunch games arrive](https://www.theguardian.com/football/2023/mar/03/chelsea-graham-potter-leeds-dortmund)
-- [Three lifeboats launched after fire breaks out on ferry in Channel](https://www.theguardian.com/world/2023/mar/03/three-lifeboats-launched-after-fire-breaks-out-on-ferry-in-channel)
-- [West Ham used club money to donate £9,000 to Conservative party in 2022](https://www.theguardian.com/football/2023/mar/03/west-ham-used-club-money-to-donate-conservative-party-2022)
-- [‘Create chaos’: Leandro Trossard is delivering Arsenal’s Plan B in title bid](https://www.theguardian.com/football/2023/mar/03/arsenal-mikel-arteta-leandro-trossard-is-delivering-arsenals-plan-b-in-title-bid)
-- [Singin’ the coups: Donald Trump releases single with January 6 prisoners](https://www.theguardian.com/us-news/2023/mar/03/donald-trump-song-charity-single-january-6-prisoners)
-- [Boris Johnson in battle for political future amid fresh evidence he misled MPs](https://www.theguardian.com/politics/2023/mar/03/boris-johnson-give-evidence-privileges-committee-inquiry)
+- [Sydney Harbour Bridge turns rainbow for Pride march – in pictures](https://www.theguardian.com/culture/gallery/2023/mar/05/sydney-harbour-bridge-turns-rainbow-for-pride-march-in-pictures)
+- [Anthony Albanese among 50,000 marching across Sydney Harbour Bridge for WorldPride](https://www.theguardian.com/culture/2023/mar/05/anthony-albanese-among-50000-marching-across-sydney-harbour-bridge-for-worldpride)
+- [Russia-Ukraine war at a glance: what we know on day 375 of the invasion](https://www.theguardian.com/world/2023/mar/05/russia-ukraine-war-at-a-glance-what-we-know-on-day-375-of-the-invasion)
+- [‘I am your retribution’: Trump rules supreme at CPAC as he relaunches bid for White House](https://www.theguardian.com/us-news/2023/mar/05/i-am-your-retribution-trump-rules-supreme-at-cpac-as-he-relaunches-bid-for-white-house)
+- [Former Trump adviser Kellyanne Conway and George Conway to divorce](https://www.theguardian.com/us-news/2023/mar/04/kellyanne-conway-george-conway-divorce)
+- [Matt Hancock wanted to ‘frighten everyone’ into following Covid rules](https://www.theguardian.com/politics/2023/mar/05/matt-hancock-wanted-to-frighten-everyone-into-following-covid-rules)
+- [A gambling white paper by Easter would be a turn-up for the books](https://www.theguardian.com/business/2023/mar/05/a-gambling-white-paper-by-easter-would-be-a-turn-up-for-the-books)
+- [Train fares in England and Wales to rise by 5.9% despite poor service](https://www.theguardian.com/money/2023/mar/05/train-fares-in-england-and-wales-to-rise-by-59-despite-poor-service)
+- [Government encourages public to share coronation celebrations on digital map](https://www.theguardian.com/uk-news/2023/mar/04/government-encourages-public-to-share-coronation-celebrations-on-digital-map)
+- [McIlroy and Hatton among big guns poised for Arnold Palmer shootout](https://www.theguardian.com/sport/2023/mar/04/mcilroy-and-hatton-among-big-guns-poised-for-arnold-palmer-shootout)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

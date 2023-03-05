@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Oakland ransomware attackers leak &#39;confidential&#39; data](https://www.sfgate.com/tech/article/oakland-ransomware-attackers-may-leak-data-17818589.php)
-- [Layoffs can have negative long-term consequences for companies](https://www.axios.com/2023/03/03/how-layoffs-can-have-negative-long-term-consequences-for-companies)
-- [Silvergate Capital shares plunge 55% as bank raises doubts about its future](https://www.cnn.com/2023/03/02/business/silvergate-capital-crypto-ftx/index.html)
-- [Ask HN: How to you know expected time for ticket?](https://news.ycombinator.com/item?id=35017551)
-- [Chaucer’s Leading Lady](https://theamericanscholar.org/chaucers-leading-lady/)
-- [Self-Destructing USB Drive](https://hackaday.com/2023/03/01/self-destructing-usb-drive-releases-the-magic-smoke/)
-- [Human Drivers Avoid Crashes 99.999819% of the Time](https://jalopnik.com/self-driving-car-vs-human-99-percent-safe-crash-data-1850170268)
-- [Colombia tries a new solution for Pablo Escobar’s &#39;cocaine hippos&#39;](https://www.washingtonpost.com/world/2023/03/03/colombia-escobar-hippos/)
-- [Elastic Cloud Services: Scaling Snowflake’s Control Plane](https://www.micahlerner.com/2023/01/19/elastic-cloud-services-scaling-snowflakes-control-plane.html)
-- [Granny &lpar;Orca&rpar;](https://en.wikipedia.org/wiki/Granny_(orca))
+- [Qualcomm wants to replace eSIMs with iSIMs, has the first certified SoC](https://arstechnica.com/gadgets/2023/03/qualcomm-wants-to-replace-esims-with-isims-has-the-first-certified-soc/)
+- [Identifiers.org](http://identifiers.org)
+- [Show HN: ChatGpt Powered Symptom Checker](https://symptomchecker.io/)
+- [The Quest to Build a Flying Submarine](https://planehistoria.com/experimental/the-quest-to-build-a-flying-submarine/)
+- [ATM thieves use glue and &#39;tap&#39; function to drain accounts at Chase Bank](https://abc7news.com/atm-scam-tap-card-chase-bank-function/12905397/)
+- [BioModels](https://www.ebi.ac.uk/biomodels/)
+- [They put all their money in an East Palestine home. The derailment trapped them](https://www.washingtonpost.com/nation/2023/03/04/ohio-train-derailment-residents-stuck-property-value/)
+- [The Bibliography on Computational and Algorithmic Learning Theory](https://www-alg.ist.hokudai.ac.jp/~thomas/COLTBIB/coltbib.jhtml)
+- [ChatGPT, and the future of search and the web ecosystem](https://jiho-ml.com/en-chatgpt-search/)
+- [Lucky girl syndrome and the endless rebranding of “The Secret”](https://www.vox.com/the-goods/23580200/lucky-girl-syndrome-tiktok-manifesting)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

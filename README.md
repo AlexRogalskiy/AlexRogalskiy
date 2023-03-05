@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Roald Dahl ebooks remotely updated to censored versions after purchase](https://www.thetimes.co.uk/article/roald-dahl-collection-books-changes-text-puffin-uk-2023-rm2622vl0)
-- [California community colleges rely too much on part-time faculty; misspend funds](https://www.bakersfield.com/news/california-community-colleges-rely-too-much-on-part-time-faculty-and-misspend-funds-audit-finds/article_b7b5da7e-b93b-11ed-9e70-5fd006aad8d7.html)
-- [20M digits of pi in 1 minute using Julia](https://gist.github.com/juliusgeo/41811563811a6e523086e514ef2bec4a)
-- [AI teaches itself to use an API](https://twitter.com/DYtweetshere/status/1631349179934203904)
-- [Amazon Buys One Medical](https://www.onemedical.com/mediacenter/one-medical-joins-amazon/)
-- [What I Learned Reading 1k Investor Reports](https://collabfund.com/blog/i-read-1-000-investor-reports-last-year-heres-what-i-learned/)
-- [Cool URIs Don&amp;#x27;t Change &lpar;1998&rpar;](https://www.w3.org/Provider/Style/URI)
-- [Oldest Human Genome from Southern Spain](https://www.forensicmag.com/594943-Oldest-Human-Genome-from-Southern-Spain/)
-- [I am Neal Stephenson, sci-fi author, geek, and now, sword maker – AMA](https://old.reddit.com/r/books/comments/11h6hg5/i_am_neal_stephenson_scifi_author_geek_and_now/)
-- [ARM64 Linux Workstation](https://jasoneckert.github.io/myblog/ultimate-linux-arm64-workstation/)
+- [The Incompatibility of Open Core and Profit](https://bytesdataaction.substack.com/p/open-core-profit)
+- [Fix Intel CPU Throttling on Linux](https://github.com/erpalma/throttled)
+- [Genetics show grapevines domesticated in 2 places, 3k years earlier than thought](https://wineanorak.com/2023/03/02/big-news-new-genetic-evidence-shows-that-the-grapevine-was-domesticated-in-two-locations-and-3000-years-earlier-than-previously-thought/)
+- [Show HN: Tiny Metasearch Engine to Find Software Developers](https://talentsignals.com)
+- [Learning to Summarize from Human Feedback](https://arxiv.org/abs/2009.01325)
+- [Word-processor idiot &lpar;Japanese expression&rpar;](https://en.wiktionary.org/wiki/%E3%83%AF%E3%83%BC%E3%83%97%E3%83%AD%E9%A6%AC%E9%B9%BF)
+- [Minimal, allocation-free OpenMetrics implementation for no-std&amp;#x2F;embedded Rust](https://github.com/hawkw/tinymetrics)
+- [Mux &lpar;YC W16&rpar; is looking for a BDR that&amp;#x27;s reading Hacker News](https://www.mux.com/jobs)
+- [The dogs of Chernobyl](https://www.science.org/doi/10.1126/sciadv.ade2537)
+- [Boehm-Demers-Weiser Garbage Collector](https://github.com/ivmai/bdwgc)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

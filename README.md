@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Qualcomm wants to replace eSIMs with iSIMs, has the first certified SoC](https://arstechnica.com/gadgets/2023/03/qualcomm-wants-to-replace-esims-with-isims-has-the-first-certified-soc/)
-- [Identifiers.org](http://identifiers.org)
-- [Show HN: ChatGpt Powered Symptom Checker](https://symptomchecker.io/)
-- [The Quest to Build a Flying Submarine](https://planehistoria.com/experimental/the-quest-to-build-a-flying-submarine/)
-- [ATM thieves use glue and &#39;tap&#39; function to drain accounts at Chase Bank](https://abc7news.com/atm-scam-tap-card-chase-bank-function/12905397/)
-- [BioModels](https://www.ebi.ac.uk/biomodels/)
-- [They put all their money in an East Palestine home. The derailment trapped them](https://www.washingtonpost.com/nation/2023/03/04/ohio-train-derailment-residents-stuck-property-value/)
-- [The Bibliography on Computational and Algorithmic Learning Theory](https://www-alg.ist.hokudai.ac.jp/~thomas/COLTBIB/coltbib.jhtml)
-- [ChatGPT, and the future of search and the web ecosystem](https://jiho-ml.com/en-chatgpt-search/)
-- [Lucky girl syndrome and the endless rebranding of “The Secret”](https://www.vox.com/the-goods/23580200/lucky-girl-syndrome-tiktok-manifesting)
+- [Hacker News Client](https://hn.errplane.eu.org/)
+- [Consumers are reaching a breaking point](https://www.vox.com/the-goods/23614085/consumer-spending-inflation-corporations-profits-retail-economy)
+- [Pentagon Sees Giant Cargo Cranes as Possible Chinese Spying Tools](https://www.wsj.com/articles/pentagon-sees-giant-cargo-cranes-as-possible-chinese-spying-tools-887c4ade)
+- [Gleam for Elm Users](https://gleam.run/cheatsheets/gleam-for-elm-users/)
+- [Lessons learned from 5 years of indie hacking](https://allisonseboldt.com/5-years-of-indie-hacking/)
+- [List of oldest living state leaders](https://en.wikipedia.org/wiki/List_of_oldest_living_state_leaders)
+- [Gleam for Rust Users](https://gleam.run/cheatsheets/gleam-for-rust-users/)
+- [Gleam for PHP Users](https://gleam.run/cheatsheets/gleam-for-php-users/)
+- [Gleam for Python Users](https://gleam.run/cheatsheets/gleam-for-python-users/)
+- [Teaching Clip to Count to Ten](https://arxiv.org/abs/2302.12066)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

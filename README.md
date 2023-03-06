@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The Incompatibility of Open Core and Profit](https://bytesdataaction.substack.com/p/open-core-profit)
-- [Fix Intel CPU Throttling on Linux](https://github.com/erpalma/throttled)
-- [Genetics show grapevines domesticated in 2 places, 3k years earlier than thought](https://wineanorak.com/2023/03/02/big-news-new-genetic-evidence-shows-that-the-grapevine-was-domesticated-in-two-locations-and-3000-years-earlier-than-previously-thought/)
-- [Show HN: Tiny Metasearch Engine to Find Software Developers](https://talentsignals.com)
-- [Learning to Summarize from Human Feedback](https://arxiv.org/abs/2009.01325)
-- [Word-processor idiot &lpar;Japanese expression&rpar;](https://en.wiktionary.org/wiki/%E3%83%AF%E3%83%BC%E3%83%97%E3%83%AD%E9%A6%AC%E9%B9%BF)
-- [Minimal, allocation-free OpenMetrics implementation for no-std&amp;#x2F;embedded Rust](https://github.com/hawkw/tinymetrics)
-- [Mux &lpar;YC W16&rpar; is looking for a BDR that&amp;#x27;s reading Hacker News](https://www.mux.com/jobs)
-- [The dogs of Chernobyl](https://www.science.org/doi/10.1126/sciadv.ade2537)
-- [Boehm-Demers-Weiser Garbage Collector](https://github.com/ivmai/bdwgc)
+- [Phoenix 1.7.0 Released: Built-In Tailwind, Verified Routes, LiveView Streams](https://www.phoenixframework.org/blog/phoenix-1.7-final-released)
+- [Fed Reserve Zoom conference canceled after &amp;#x27;porn-bombing&amp;#x27;](https://www.reuters.com/world/us/feds-waller-virtual-event-canceled-after-zoom-hijack-2023-03-02/)
+- [“Your File May Violate Google Drive&amp;#x27;s Terms of Service”](https://news.ycombinator.com/item?id=35036142)
+- [Rebranding the Wise design system for everyone &lpar;part 1&rpar;](https://wise.design/design-at-wise/stories/accessible-but-never-boring)
+- [Non-occupational physical activity and risk of CV disease, cancer and mortality](https://bjsm.bmj.com/content/early/2023/01/23/bjsports-2022-105669)
+- [Even the Pylint codebase uses Ruff](https://github.com/PyCQA/pylint/blob/47cb11f4cb01a61f83d915d88e828f103a479980/pyproject.toml)
+- [Can the West’s perplexing employment miracle continue?](https://www.economist.com/finance-and-economics/2023/03/05/can-the-wests-perplexing-employment-miracle-continue)
+- [Miller Puckette: Inside PureData – Lectures on pd&amp;#x2F;development of computer music](http://msp.ucsd.edu/syllabi/206.20s/index.htm)
+- [Van Gogh, AMD’s Steam Deck APU](https://chipsandcheese.com/2023/03/05/van-gogh-amds-steam-deck-apu/)
+- [On the Candlemaker&amp;#x27;s Petition](https://pmarca.substack.com/p/on-the-candlemakers-petition)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

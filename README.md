@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Sydney Harbour Bridge turns rainbow for Pride march – in pictures](https://www.theguardian.com/culture/gallery/2023/mar/05/sydney-harbour-bridge-turns-rainbow-for-pride-march-in-pictures)
-- [Anthony Albanese among 50,000 marching across Sydney Harbour Bridge for WorldPride](https://www.theguardian.com/culture/2023/mar/05/anthony-albanese-among-50000-marching-across-sydney-harbour-bridge-for-worldpride)
-- [Russia-Ukraine war at a glance: what we know on day 375 of the invasion](https://www.theguardian.com/world/2023/mar/05/russia-ukraine-war-at-a-glance-what-we-know-on-day-375-of-the-invasion)
-- [‘I am your retribution’: Trump rules supreme at CPAC as he relaunches bid for White House](https://www.theguardian.com/us-news/2023/mar/05/i-am-your-retribution-trump-rules-supreme-at-cpac-as-he-relaunches-bid-for-white-house)
-- [Former Trump adviser Kellyanne Conway and George Conway to divorce](https://www.theguardian.com/us-news/2023/mar/04/kellyanne-conway-george-conway-divorce)
-- [Matt Hancock wanted to ‘frighten everyone’ into following Covid rules](https://www.theguardian.com/politics/2023/mar/05/matt-hancock-wanted-to-frighten-everyone-into-following-covid-rules)
-- [A gambling white paper by Easter would be a turn-up for the books](https://www.theguardian.com/business/2023/mar/05/a-gambling-white-paper-by-easter-would-be-a-turn-up-for-the-books)
-- [Train fares in England and Wales to rise by 5.9% despite poor service](https://www.theguardian.com/money/2023/mar/05/train-fares-in-england-and-wales-to-rise-by-59-despite-poor-service)
-- [Government encourages public to share coronation celebrations on digital map](https://www.theguardian.com/uk-news/2023/mar/04/government-encourages-public-to-share-coronation-celebrations-on-digital-map)
-- [McIlroy and Hatton among big guns poised for Arnold Palmer shootout](https://www.theguardian.com/sport/2023/mar/04/mcilroy-and-hatton-among-big-guns-poised-for-arnold-palmer-shootout)
+- [Russia-Ukraine war at a glance: what we know on day 376 of the invasion](https://www.theguardian.com/world/2023/mar/06/russia-ukraine-war-at-a-glance-what-we-know-on-day-376-of-the-invasion)
+- [Huge fire at Rohingya refugee camp in Bangladesh leaves thousands without shelter](https://www.theguardian.com/world/2023/mar/06/rohingya-refugee-camp-fire-bangladesh-coxs-bazar)
+- [Boris Johnson ‘nominates father for a knighthood’](https://www.theguardian.com/politics/2023/mar/05/boris-johnson-nominates-father-for-a-knighthood)
+- [Campaigners call for end to ‘peak fare rip off’ on trains in England and Wales](https://www.theguardian.com/money/2023/mar/06/campaigners-call-for-end-to-peak-fare-rip-off-in-england-and-wales)
+- [‘Complex emotions’: Harewood House commissions portrait of David Harewood](https://www.theguardian.com/culture/2023/mar/06/complex-emotions-harewood-house-commissions-portrait-of-david-harewood)
+- [Andrew Gilding stuns Michael van Gerwen to win UK Open darts title](https://www.theguardian.com/sport/2023/mar/05/darts-uk-open-andrew-gilding-michael-van-gerwen)
+- [Kurt Kitayama holds off McIlroy to win thrilling Arnold Palmer Invitational](https://www.theguardian.com/sport/2023/mar/05/kurt-kitayama-holds-off-mcilroy-to-win-thrilling-arnold-palmer-invitational-golf)
+- [Estonia’s PM, Kaja Kallas, secures election win with pro-Ukraine stance](https://www.theguardian.com/world/2023/mar/05/estonias-pm-kaja-kallas-secures-election-win-with-pro-ukraine-stance)
+- [Harry and Meghan have been invited to coronation, spokesperson indicates](https://www.theguardian.com/uk-news/2023/mar/05/harry-and-meghan-have-been-invited-to-coronation-spokesperson-indicates)
+- [Sunak isn’t halting migrant boats or chasing traffickers: he’s just chasing headlines again | Diane Taylor](https://www.theguardian.com/commentisfree/2023/mar/05/tory-tough-talk-asylum-seekers-small-boats)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

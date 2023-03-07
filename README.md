@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Phoenix 1.7.0 Released: Built-In Tailwind, Verified Routes, LiveView Streams](https://www.phoenixframework.org/blog/phoenix-1.7-final-released)
-- [Fed Reserve Zoom conference canceled after &amp;#x27;porn-bombing&amp;#x27;](https://www.reuters.com/world/us/feds-waller-virtual-event-canceled-after-zoom-hijack-2023-03-02/)
-- [“Your File May Violate Google Drive&amp;#x27;s Terms of Service”](https://news.ycombinator.com/item?id=35036142)
-- [Rebranding the Wise design system for everyone &lpar;part 1&rpar;](https://wise.design/design-at-wise/stories/accessible-but-never-boring)
-- [Non-occupational physical activity and risk of CV disease, cancer and mortality](https://bjsm.bmj.com/content/early/2023/01/23/bjsports-2022-105669)
-- [Even the Pylint codebase uses Ruff](https://github.com/PyCQA/pylint/blob/47cb11f4cb01a61f83d915d88e828f103a479980/pyproject.toml)
-- [Can the West’s perplexing employment miracle continue?](https://www.economist.com/finance-and-economics/2023/03/05/can-the-wests-perplexing-employment-miracle-continue)
-- [Miller Puckette: Inside PureData – Lectures on pd&amp;#x2F;development of computer music](http://msp.ucsd.edu/syllabi/206.20s/index.htm)
-- [Van Gogh, AMD’s Steam Deck APU](https://chipsandcheese.com/2023/03/05/van-gogh-amds-steam-deck-apu/)
-- [On the Candlemaker&amp;#x27;s Petition](https://pmarca.substack.com/p/on-the-candlemakers-petition)
+- [Microsoft Edge is getting a video upscaler to make blurry old videos look better](https://www.theverge.com/2023/3/6/23627080/microsoft-edge-video-upscaling-ai-super-resolution-vsr)
+- [SafeButler &lpar;YC S17&rpar; Is Hiring Business Development](https://www.safebutler.com/careers)
+- [Domain Names as Handles in Bluesky](https://blueskyweb.xyz/blog/3-6-2023-domain-names-as-handles-in-bluesky)
+- [A Vulnerability in Implementations of SHA-3, Shake, EdDSA](https://eprint.iacr.org/2023/331)
+- [Show HN: Roastedby.ai – Talk some trash, have some fun](https://www.roastedby.ai/)
+- [Cabel Sasser: Untitled Goose Game rejected from the Mac App Store twice](https://social.panic.com/@cabel/109977366338856750)
+- [Shiki Syntax Highlighter](https://shiki.matsu.io/)
+- [Cross-Domain Thinking Drives Insights and Innovation](https://markmcneilly.substack.com/p/cross-domain-thinking-drives-insights)
+- [GPT-3 will ignore tools when it disagrees with them](https://vgel.me/posts/tools-not-needed/)
+- [Europe&amp;#x27;s big tech bill is coming to fruition](https://www.technologyreview.com/2023/03/06/1069391/safer-internet-dsa-dma-eu/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

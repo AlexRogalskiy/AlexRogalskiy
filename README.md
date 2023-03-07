@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Hacker News Client](https://hn.errplane.eu.org/)
-- [Consumers are reaching a breaking point](https://www.vox.com/the-goods/23614085/consumer-spending-inflation-corporations-profits-retail-economy)
-- [Pentagon Sees Giant Cargo Cranes as Possible Chinese Spying Tools](https://www.wsj.com/articles/pentagon-sees-giant-cargo-cranes-as-possible-chinese-spying-tools-887c4ade)
-- [Gleam for Elm Users](https://gleam.run/cheatsheets/gleam-for-elm-users/)
-- [Lessons learned from 5 years of indie hacking](https://allisonseboldt.com/5-years-of-indie-hacking/)
-- [List of oldest living state leaders](https://en.wikipedia.org/wiki/List_of_oldest_living_state_leaders)
-- [Gleam for Rust Users](https://gleam.run/cheatsheets/gleam-for-rust-users/)
-- [Gleam for PHP Users](https://gleam.run/cheatsheets/gleam-for-php-users/)
-- [Gleam for Python Users](https://gleam.run/cheatsheets/gleam-for-python-users/)
-- [Teaching Clip to Count to Ten](https://arxiv.org/abs/2302.12066)
+- [Urlgen: A script that generates URL variations to test URL parsers with](https://github.com/bagder/urlgen)
+- [Technical Analysis of Online Meeting Tool with Automatic Language Recognition、](https://news.ycombinator.com/item?id=35050949)
+- [Chicken Became an American Obsession &lpar;2022&rpar;](https://www.youtube.com/watch?v=iXuta25LYgc)
+- [Atlassian to shed 5 per cent of workers](https://www.abc.net.au/news/2023-03-07/atlassian-cuts-5-per-cent-of-work-force-tech-industry-layoffs/102062078)
+- [Coinbase Tells User Missing $96,000 After Security Breach Is His Problem](https://www.bloomberg.com/news/articles/2023-03-07/coinbase-tells-user-missing-96-000-after-breach-is-his-problem-suit-claims)
+- [NASA’s Curiosity Views First ‘Sun Rays’ on Mars](https://www.jpl.nasa.gov/news/nasas-curiosity-views-first-sun-rays-on-mars)
+- [Designing Sound – WWDC 2017 &lpar;2017&rpar;](https://developer.apple.com/videos/play/wwdc2017/803/)
+- [90k Miles on My Tesla Model 3 – Maintenance Costs Higher Than Expected](https://cleantechnica.com/2023/03/06/90000-miles-on-my-tesla-model-3-maintenance-costs-higher-than-expected/)
+- [Meltwater Pulse 1A](https://en.wikipedia.org/wiki/Meltwater_pulse_1A)
+- [Pandas 2.0 and Its Ecosystem &lpar;Arrow, Polars, DuckDB&rpar;](https://airbyte.com/blog/pandas-2-0-ecosystem-arrow-polars-duckdb)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

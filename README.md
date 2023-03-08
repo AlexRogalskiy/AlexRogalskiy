@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Sex worker, survivor, Māori TV star: world’s first transgender MP remembered as trailblazer](https://www.theguardian.com/world/2023/mar/07/georgina-beyer-worlds-first-transgender-mp-remembered-as-trailblazer)
-- [‘I was in a bad way’: Conor Benn admits feeling suicidal after positive drugs tests](https://www.theguardian.com/sport/2023/mar/07/conor-benn-admits-feeling-suicidal-positive-drugs-tests-chris-eubank-jr)
-- [Russia-Ukraine war at a glance: what we know on day 377 of the invasion](https://www.theguardian.com/world/2023/mar/07/russia-ukraine-war-at-a-glance-what-we-know-on-day-377-of-the-invasion)
-- [Justin Trudeau to appoint special rapporteur to probe foreign interference in elections](https://www.theguardian.com/world/2023/mar/07/canada-pm-justin-trudeau-special-rapporteur-probe-foreign-interference)
-- [UK among most liberal countries on divorce and abortion, survey reveals](https://www.theguardian.com/uk-news/2023/mar/07/uk-among-most-liberal-countries-on-divorce-and-abortion-survey-reveals)
-- [UK shoppers slash spending as price rises and energy bills bite](https://www.theguardian.com/business/2023/mar/07/uk-shoppers-cut-spending-price-rises-energy-bills-brc-budget)
-- [Producers feared David Attenborough would catch bird flu and die during filming](https://www.theguardian.com/tv-and-radio/2023/mar/07/producers-feared-david-attenborough-would-catch-bird-flu-and-die-during-filming)
-- [Missing black and Asian people less likely to be found by police, report finds](https://www.theguardian.com/world/2023/mar/07/race-disparities-in-missing-person-cases-revealed)
-- [Children of same-sex couples fare at least as well as in other families – study](https://www.theguardian.com/science/2023/mar/06/children-of-same-sex-couples-fare-at-least-as-well-as-in-other-families-study)
-- [Jonathan Liew again named columnist of the year as SJAs honour Rob Burrow](https://www.theguardian.com/sport/2023/mar/06/jonathan-liew-wins-sja-columnist-of-the-year-for-second-successive-year)
+- [Musk backpedals after mocking disabled Twitter worker in tweet ‘storm’](https://www.theguardian.com/technology/2023/mar/07/elon-musk-twitter-employee-feud-haraldur-thorleifsson)
+- [Buried by mud and silt, New Zealand’s farms face ‘10-year recovery’ – picture essay](https://www.theguardian.com/world/2023/mar/08/buried-by-mud-and-silt-new-zealands-farms-face-10-year-recovery-picture-essay)
+- [Holi festival celebrations in India and around the world – in pictures](https://www.theguardian.com/world/gallery/2023/mar/08/holi-festival-celebrations-in-india-and-around-the-world-in-pictures)
+- [White House backs bill that could give it power to ban TikTok nationwide](https://www.theguardian.com/technology/2023/mar/07/white-house-bipartisan-bill-tiktok-ban)
+- [Biden reportedly considers detaining migrant families in major reversal](https://www.theguardian.com/us-news/2023/mar/07/biden-migrant-families-detention)
+- [Russia-Ukraine war at a glance: what we know on day 378 of the invasion](https://www.theguardian.com/world/2023/mar/08/russia-ukraine-war-at-a-glance-what-we-know-on-day-378-of-the-invasion)
+- [Government pledges equal access to school PE sports for boys and girls](https://www.theguardian.com/sport/2023/mar/08/government-pledges-equal-access-to-school-pe-sports-for-boys-and-girls)
+- [Home Office unable to say when emergency services network will launch](https://www.theguardian.com/society/2023/mar/08/home-office-unable-when-emergency-services-network-launch)
+- [Schools in England seeing more pupil absences on Fridays](https://www.theguardian.com/world/2023/mar/07/schools-in-england-seeing-more-pupil-absences-on-fridays)
+- [TV tonight: Kathy Burke’s wonderfully uplifting documentary about getting older](https://www.theguardian.com/tv-and-radio/2023/mar/08/tv-tonight-kathy-burkes-wonderfully-uplifting-documentary-about-getting-older)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

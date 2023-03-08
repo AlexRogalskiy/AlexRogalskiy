@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Urlgen: A script that generates URL variations to test URL parsers with](https://github.com/bagder/urlgen)
-- [Technical Analysis of Online Meeting Tool with Automatic Language Recognition、](https://news.ycombinator.com/item?id=35050949)
-- [Chicken Became an American Obsession &lpar;2022&rpar;](https://www.youtube.com/watch?v=iXuta25LYgc)
-- [Atlassian to shed 5 per cent of workers](https://www.abc.net.au/news/2023-03-07/atlassian-cuts-5-per-cent-of-work-force-tech-industry-layoffs/102062078)
-- [Coinbase Tells User Missing $96,000 After Security Breach Is His Problem](https://www.bloomberg.com/news/articles/2023-03-07/coinbase-tells-user-missing-96-000-after-breach-is-his-problem-suit-claims)
-- [NASA’s Curiosity Views First ‘Sun Rays’ on Mars](https://www.jpl.nasa.gov/news/nasas-curiosity-views-first-sun-rays-on-mars)
-- [Designing Sound – WWDC 2017 &lpar;2017&rpar;](https://developer.apple.com/videos/play/wwdc2017/803/)
-- [90k Miles on My Tesla Model 3 – Maintenance Costs Higher Than Expected](https://cleantechnica.com/2023/03/06/90000-miles-on-my-tesla-model-3-maintenance-costs-higher-than-expected/)
-- [Meltwater Pulse 1A](https://en.wikipedia.org/wiki/Meltwater_pulse_1A)
-- [Pandas 2.0 and Its Ecosystem &lpar;Arrow, Polars, DuckDB&rpar;](https://airbyte.com/blog/pandas-2-0-ecosystem-arrow-polars-duckdb)
+- [Multi-Geo Replication 101 for Apache Kafka: The What, How, and Why](https://www.confluent.io/blog/multi-geo-replication-in-apache-kafka/)
+- [Things DBs Don&#39;t Do – But Should](https://www.thenile.dev/blog/things-dbs-dont-do)
+- [Nord Stream pipelines sabotaged by pro-Ukrainian group](https://www.smh.com.au/world/north-america/nord-stream-pipelines-sabotaged-by-pro-ukrainian-group-us-intel-suggests-20230308-p5cq91.html)
+- [The War on Suffering](https://boyle.substack.com/p/the-war-on-suffering)
+- [Image reconstruction with latent diffusion models from human brain activity [pdf]](https://www.biorxiv.org/content/10.1101/2022.11.18.517004v2.full.pdf)
+- [Concurrency vs. Parallelism](https://freecontent.manning.com/concurrency-vs-parallelism/)
+- [The Falcon 9 Achieves the Shuttle’s Dreams](https://www.thespacereview.com/article/4542/1)
+- [Tell HN: OpenAI removed all my ChatGPT history without telling me](https://news.ycombinator.com/item?id=35064388)
+- [R.L. Stine accuses publisher of censoring Goosebumps books without permission](https://www.nationalreview.com/news/r-l-stine-self-censoring-goosebumps-books-to-be-more-inclusive/)
+- [The Liberating Power of Default-Dead](https://blog.southparkcommons.com/starting-companies-in-a-market-collapse/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

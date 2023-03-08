@@ -355,6 +355,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Jamf VP explains enterprise security threats — and how to mitigate them](https://www.computerworld.com/article/3690149/jamf-vp-explains-enterprise-security-threats-and-how-to-mitigate-them.html#tk.rss_all)
+- [Atlassian lays off 5% of staff to refocus on cloud, ITSM](https://www.computerworld.com/article/3689975/atlassian-lays-off-5-of-staff-to-refocus-on-cloud-itsm.html#tk.rss_all)
+- [Buyer’s guide: How to choose the right business projector](https://www.computerworld.com/article/2484711/buyers-guide-to-business-projectors.html#tk.rss_all)
 - [Microsoft touts new GPT-powered chatbot for Dynamics 365 CRM, ERP apps](https://www.computerworld.com/article/3689972/microsoft-touts-new-gpt-powered-chatbot-for-dynamics-365-crm-erp-apps.html#tk.rss_all)
 - [Maybe one day every platform will be as secure as Apple](https://www.computerworld.com/article/3689889/maybe-one-day-every-platform-will-be-as-secure-as-apple.html#tk.rss_all)
 - [How AI can help find new employees](https://www.computerworld.com/article/3689691/how-ai-can-help-find-new-employees.html#tk.rss_all)
@@ -362,9 +365,6 @@
 - [IT’s lovefest with GPT-3 needs to meet reality now](https://www.computerworld.com/article/3689968/its-lovefest-with-gpt-3-needs-to-meet-reality-now.html#tk.rss_all)
 - [Apple&#39;s supply chain is accelerating the move to India](https://www.computerworld.com/article/3689970/apples-supply-chain-is-accelerating-the-move-to-india.html#tk.rss_all)
 - [China pumps $1.9 billion into homegrown chip-making firm YMTC](https://www.computerworld.com/article/3689695/china-pumps-19-billion-into-homegrown-chip-making-firm-ymtc.html#tk.rss_all)
-- [Dell’s revenue growth hinges on enterprise hardware sales](https://www.computerworld.com/article/3689912/dell-s-revenue-growth-hinges-on-enterprise-hardware-sales.html#tk.rss_all)
-- [Quick fixes for common Windows remote desktop problems](https://www.computerworld.com/article/3688354/fix-windows-remote-desktop-problems.html#tk.rss_all)
-- [Tech layoffs in 2023: A timeline](https://www.computerworld.com/article/3685936/tech-layoffs-in-2023-a-timeline.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

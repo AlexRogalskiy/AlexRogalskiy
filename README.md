@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Microsoft Edge is getting a video upscaler to make blurry old videos look better](https://www.theverge.com/2023/3/6/23627080/microsoft-edge-video-upscaling-ai-super-resolution-vsr)
-- [SafeButler &lpar;YC S17&rpar; Is Hiring Business Development](https://www.safebutler.com/careers)
-- [Domain Names as Handles in Bluesky](https://blueskyweb.xyz/blog/3-6-2023-domain-names-as-handles-in-bluesky)
-- [A Vulnerability in Implementations of SHA-3, Shake, EdDSA](https://eprint.iacr.org/2023/331)
-- [Show HN: Roastedby.ai – Talk some trash, have some fun](https://www.roastedby.ai/)
-- [Cabel Sasser: Untitled Goose Game rejected from the Mac App Store twice](https://social.panic.com/@cabel/109977366338856750)
-- [Shiki Syntax Highlighter](https://shiki.matsu.io/)
-- [Cross-Domain Thinking Drives Insights and Innovation](https://markmcneilly.substack.com/p/cross-domain-thinking-drives-insights)
-- [GPT-3 will ignore tools when it disagrees with them](https://vgel.me/posts/tools-not-needed/)
-- [Europe&amp;#x27;s big tech bill is coming to fruition](https://www.technologyreview.com/2023/03/06/1069391/safer-internet-dsa-dma-eu/)
+- [We deploy 5X faster with warm Docker containers](https://dagster.io/blog/fast-deploys-with-pex-and-docker)
+- [Google Releases Paper on Embodied LLM &lpar;562b parameters&rpar;](https://palm-e.github.io/#demo)
+- [Jerry &lpar;YC S17&rpar; Is Hiring Sr PM &amp;#x2F; Designers &lpar;SF&amp;#x2F;Toronto&amp;#x2F;Remote&rpar;](https://getjerry.com/careers)
+- [HP have updated their printers to ban ‘non-HP’ cartridges](https://old.reddit.com/r/assholedesign/comments/11l4kne/hp_have_updated_their_printers_to_outright_ban/)
+- [The decline of net neutrality activism](https://neelc.org/posts/net-neutrality-activism/)
+- [Sued by Meta, Freenom halts domain registrations](https://krebsonsecurity.com/2023/03/sued-by-meta-freenom-halts-domain-registrations/)
+- [ChatGPT Explained: A normie&amp;#x27;s guide to how it works](https://www.jonstokes.com/p/chatgpt-explained-a-guide-for-normies)
+- [Graduate students at the University of Southern California have won a union](https://jacobin.com/2023/03/university-of-southern-california-grad-student-workers-union-bargaining-demands-nlrb)
+- [BlinderKitten: Free lighting software](http://blinderkitten.lighting)
+- [Zero energy ready homes are coming](https://www.energy.gov/eere/articles/zero-energy-ready-homes-are-coming-neighborhood-near-you)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

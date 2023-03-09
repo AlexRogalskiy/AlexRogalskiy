@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Multi-Geo Replication 101 for Apache Kafka: The What, How, and Why](https://www.confluent.io/blog/multi-geo-replication-in-apache-kafka/)
-- [Things DBs Don&#39;t Do – But Should](https://www.thenile.dev/blog/things-dbs-dont-do)
-- [Nord Stream pipelines sabotaged by pro-Ukrainian group](https://www.smh.com.au/world/north-america/nord-stream-pipelines-sabotaged-by-pro-ukrainian-group-us-intel-suggests-20230308-p5cq91.html)
-- [The War on Suffering](https://boyle.substack.com/p/the-war-on-suffering)
-- [Image reconstruction with latent diffusion models from human brain activity [pdf]](https://www.biorxiv.org/content/10.1101/2022.11.18.517004v2.full.pdf)
-- [Concurrency vs. Parallelism](https://freecontent.manning.com/concurrency-vs-parallelism/)
-- [The Falcon 9 Achieves the Shuttle’s Dreams](https://www.thespacereview.com/article/4542/1)
-- [Tell HN: OpenAI removed all my ChatGPT history without telling me](https://news.ycombinator.com/item?id=35064388)
-- [R.L. Stine accuses publisher of censoring Goosebumps books without permission](https://www.nationalreview.com/news/r-l-stine-self-censoring-goosebumps-books-to-be-more-inclusive/)
-- [The Liberating Power of Default-Dead](https://blog.southparkcommons.com/starting-companies-in-a-market-collapse/)
+- [How WIRED Will Use Generative AI Tools](https://www.wired.com/story/how-wired-will-use-generative-ai-tools/)
+- [Open-Vocabulary Panoptic Segmentation with Text-to-Image Diffusion Models](https://jerryxu.net/ODISE/)
+- [ICE – BlackKnight merger Biden administration to fight $13B mortgage merger](https://fortune.com/2023/03/06/housing-mortgages-13-biillion-acquisition-intercontinental-black-knight-ftc-biden-khan/)
+- [Augmented Reality Welding System](https://www.millerwelds.com/equipment/training-solutions/training-equipment/mobilearc-augmented-reality-welding-system-m90560)
+- [Ha&#39;aretz reports on Israeli agents influencing foreign elections](https://www.haaretz.com/israel-news/security-aviation/2023-02-15/ty-article-magazine/.premium/hacking-extortion-election-interference-the-toolkit-of-israels-agents-of-chaos/00000186-4aa6-d933-af9e-cbe7aa9c0000)
+- [A Sad New Category of Abusive Intellectual Property Litigation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4381824)
+- [“To understand a sentence is to know the conditions under which it is true.”](https://news.ycombinator.com/item?id=35077671)
+- [DMS-100 Startup and First Phone Calls](https://www.youtube.com/watch?v=-8qjfPgVAAs)
+- [OOP: A practical alternative to Inheritance](https://github.com/manifold-systems/manifold/tree/master/manifold-deps-parent/manifold-delegation)
+- [Thailand is using monkey labor to source coconut milk](https://www.businessinsider.com/forced-monkey-labor-allegations-stop-hellofresh-thailand-coconut-milk-2023-3)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

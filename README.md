@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Musk backpedals after mocking disabled Twitter worker in tweet ‘storm’](https://www.theguardian.com/technology/2023/mar/07/elon-musk-twitter-employee-feud-haraldur-thorleifsson)
-- [Buried by mud and silt, New Zealand’s farms face ‘10-year recovery’ – picture essay](https://www.theguardian.com/world/2023/mar/08/buried-by-mud-and-silt-new-zealands-farms-face-10-year-recovery-picture-essay)
-- [Holi festival celebrations in India and around the world – in pictures](https://www.theguardian.com/world/gallery/2023/mar/08/holi-festival-celebrations-in-india-and-around-the-world-in-pictures)
-- [White House backs bill that could give it power to ban TikTok nationwide](https://www.theguardian.com/technology/2023/mar/07/white-house-bipartisan-bill-tiktok-ban)
-- [Biden reportedly considers detaining migrant families in major reversal](https://www.theguardian.com/us-news/2023/mar/07/biden-migrant-families-detention)
-- [Russia-Ukraine war at a glance: what we know on day 378 of the invasion](https://www.theguardian.com/world/2023/mar/08/russia-ukraine-war-at-a-glance-what-we-know-on-day-378-of-the-invasion)
-- [Government pledges equal access to school PE sports for boys and girls](https://www.theguardian.com/sport/2023/mar/08/government-pledges-equal-access-to-school-pe-sports-for-boys-and-girls)
-- [Home Office unable to say when emergency services network will launch](https://www.theguardian.com/society/2023/mar/08/home-office-unable-when-emergency-services-network-launch)
-- [Schools in England seeing more pupil absences on Fridays](https://www.theguardian.com/world/2023/mar/07/schools-in-england-seeing-more-pupil-absences-on-fridays)
-- [TV tonight: Kathy Burke’s wonderfully uplifting documentary about getting older](https://www.theguardian.com/tv-and-radio/2023/mar/08/tv-tonight-kathy-burkes-wonderfully-uplifting-documentary-about-getting-older)
+- [Zelenskiy backs Georgia protesters in fight for ‘democratic success’ amid further clashes](https://www.theguardian.com/world/2023/mar/09/zelenskiy-backs-georgia-protesters-in-fight-for-democratic-success-amid-further-clashes)
+- [Growing numbers of Chinese citizens set their sights on the US – via the deadly Darién Gap](https://www.theguardian.com/world/2023/mar/09/growing-numbers-of-chinese-citizens-set-their-sights-on-the-us-via-the-deadly-darien-gap)
+- [Aukus submarine deal: Australia expected to choose UK design, sources say](https://www.theguardian.com/world/2023/mar/08/uk-to-unveil-nuclear-submarines-deal-with-australia-sources-say)
+- [Chelsea’s Emma Hayes urges WSL clubs to do more for players who have babies](https://www.theguardian.com/football/2023/mar/08/womens-super-league-wsl-chelsea-brighton-arsenal-liverpool)
+- [Lawmaker who gave tours of Capitol will lead inquiry of January 6 panel](https://www.theguardian.com/us-news/2023/mar/08/lawmaker-who-gave-tour-of-capitol-to-lead-january-6-panel-inquiry)
+- [Russia-Ukraine war at a glance: what we know on day 379 of the invasion](https://www.theguardian.com/world/2023/mar/09/russia-ukraine-war-at-a-glance-what-we-know-on-day-379-of-the-invasion)
+- [Veterans give searing testimony on US withdrawal from Afghanistan at hearing](https://www.theguardian.com/world/2023/mar/08/afghanistan-withdrawal-hearings-house-committee)
+- [Guardian wins daily newspaper of the year at the Press Awards](https://www.theguardian.com/culture/2023/mar/09/guardian-wins-daily-newspaper-of-the-year-at-the-press-awards)
+- [UK house prices could be stabilising despite falls, say surveyors](https://www.theguardian.com/business/2023/mar/09/uk-house-prices-could-be-stabilising-despite-falls-say-surveyors)
+- [Pentagon accused of blocking effort to hand Russia war crimes evidence to ICC](https://www.theguardian.com/world/2023/mar/08/pentagon-international-criminal-court-russia-war-crimes)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

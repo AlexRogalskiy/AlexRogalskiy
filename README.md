@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [DuckDuckGo debuts AI-based search using OpenAI and Anthropic language models](https://www.computerworld.com/article/3690308/duckduckgo-debuts-ai-based-search-using-openai-and-anthropic-language-models.html#tk.rss_all)
+- [Slack boosts AI capabilities with new ChatGPT app](https://www.computerworld.com/article/3689918/slack-boosts-ai-capabilities-with-new-chatgpt-app.html#tk.rss_all)
+- [Why you should use Apple’s Rapid Security Response](https://www.computerworld.com/article/3689916/why-you-should-use-apples-rapid-security-response.html#tk.rss_all)
+- [Q&amp;A: Allstate HR exec on the rise of remote work: &#39;The world is changing….&#39;](https://www.computerworld.com/article/3689815/qa-allstate-hr-exec-on-rise-of-remote-work-the-world-is-changing.html#tk.rss_all)
+- [How to turn any website into a custom Android widget](https://www.computerworld.com/article/3689698/custom-android-widget.html#tk.rss_all)
 - [Jamf VP explains enterprise security threats — and how to mitigate them](https://www.computerworld.com/article/3690149/jamf-vp-explains-enterprise-security-threats-and-how-to-mitigate-them.html#tk.rss_all)
 - [Atlassian lays off 5% of staff to refocus on cloud, ITSM](https://www.computerworld.com/article/3689975/atlassian-lays-off-5-of-staff-to-refocus-on-cloud-itsm.html#tk.rss_all)
 - [Buyer’s guide: How to choose the right business projector](https://www.computerworld.com/article/2484711/buyers-guide-to-business-projectors.html#tk.rss_all)
 - [Microsoft touts new GPT-powered chatbot for Dynamics 365 CRM, ERP apps](https://www.computerworld.com/article/3689972/microsoft-touts-new-gpt-powered-chatbot-for-dynamics-365-crm-erp-apps.html#tk.rss_all)
 - [Maybe one day every platform will be as secure as Apple](https://www.computerworld.com/article/3689889/maybe-one-day-every-platform-will-be-as-secure-as-apple.html#tk.rss_all)
-- [How AI can help find new employees](https://www.computerworld.com/article/3689691/how-ai-can-help-find-new-employees.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [IT’s lovefest with GPT-3 needs to meet reality now](https://www.computerworld.com/article/3689968/its-lovefest-with-gpt-3-needs-to-meet-reality-now.html#tk.rss_all)
-- [Apple&#39;s supply chain is accelerating the move to India](https://www.computerworld.com/article/3689970/apples-supply-chain-is-accelerating-the-move-to-india.html#tk.rss_all)
-- [China pumps $1.9 billion into homegrown chip-making firm YMTC](https://www.computerworld.com/article/3689695/china-pumps-19-billion-into-homegrown-chip-making-firm-ymtc.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

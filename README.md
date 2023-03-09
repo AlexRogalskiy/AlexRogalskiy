@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [We deploy 5X faster with warm Docker containers](https://dagster.io/blog/fast-deploys-with-pex-and-docker)
-- [Google Releases Paper on Embodied LLM &lpar;562b parameters&rpar;](https://palm-e.github.io/#demo)
-- [Jerry &lpar;YC S17&rpar; Is Hiring Sr PM &amp;#x2F; Designers &lpar;SF&amp;#x2F;Toronto&amp;#x2F;Remote&rpar;](https://getjerry.com/careers)
-- [HP have updated their printers to ban ‘non-HP’ cartridges](https://old.reddit.com/r/assholedesign/comments/11l4kne/hp_have_updated_their_printers_to_outright_ban/)
-- [The decline of net neutrality activism](https://neelc.org/posts/net-neutrality-activism/)
-- [Sued by Meta, Freenom halts domain registrations](https://krebsonsecurity.com/2023/03/sued-by-meta-freenom-halts-domain-registrations/)
-- [ChatGPT Explained: A normie&amp;#x27;s guide to how it works](https://www.jonstokes.com/p/chatgpt-explained-a-guide-for-normies)
-- [Graduate students at the University of Southern California have won a union](https://jacobin.com/2023/03/university-of-southern-california-grad-student-workers-union-bargaining-demands-nlrb)
-- [BlinderKitten: Free lighting software](http://blinderkitten.lighting)
-- [Zero energy ready homes are coming](https://www.energy.gov/eere/articles/zero-energy-ready-homes-are-coming-neighborhood-near-you)
+- [Control Mario Kart 64 with Your Car over Can Bus](https://github.com/DanH42/CatchMeIfYouCAN)
+- [8vdX &lpar;YC W22&rpar; Is Hiring](https://www.ycombinator.com/companies/8vdx/jobs/oKQSIyc-software-engineers-full-stack-front-end-back-end-developers)
+- [Single File Elixir Scripts](https://fly.io/phoenix-files/single-file-elixir-scripts/)
+- [Audio Engineer Explains NPR&amp;#x27;s Signature Sound](https://current.org/2015/06/a-top-audio-engineer-explains-nprs-signature-sound/)
+- [Disclosure: Supervisor security vulnerability](https://www.home-assistant.io/blog/2023/03/08/supervisor-security-disclosure/)
+- [GDevelop: An open-source, cross-platform, free, and easy game-making app](https://gdevelop.io/)
+- [Full screen triangle optimization](https://30fps.net/pages/twotris/)
+- [Lisp-powered laptop with a battery life measured in years](https://www.hackster.io/news/andreas-eriksen-s-potatop-is-a-lisp-powered-laptop-with-a-battery-life-measured-in-years-2f5d79653f24)
+- [Code coverage for Go integration tests](https://go.dev/blog/integration-test-coverage)
+- [Show HN: BBC “In Our Time”, categorised by Dewey Decimal, heavy lifting by GPT](https://genmon.github.io/braggoscope/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

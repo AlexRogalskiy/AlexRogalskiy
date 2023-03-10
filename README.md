@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [How WIRED Will Use Generative AI Tools](https://www.wired.com/story/how-wired-will-use-generative-ai-tools/)
-- [Open-Vocabulary Panoptic Segmentation with Text-to-Image Diffusion Models](https://jerryxu.net/ODISE/)
-- [ICE – BlackKnight merger Biden administration to fight $13B mortgage merger](https://fortune.com/2023/03/06/housing-mortgages-13-biillion-acquisition-intercontinental-black-knight-ftc-biden-khan/)
-- [Augmented Reality Welding System](https://www.millerwelds.com/equipment/training-solutions/training-equipment/mobilearc-augmented-reality-welding-system-m90560)
-- [Ha&#39;aretz reports on Israeli agents influencing foreign elections](https://www.haaretz.com/israel-news/security-aviation/2023-02-15/ty-article-magazine/.premium/hacking-extortion-election-interference-the-toolkit-of-israels-agents-of-chaos/00000186-4aa6-d933-af9e-cbe7aa9c0000)
-- [A Sad New Category of Abusive Intellectual Property Litigation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4381824)
-- [“To understand a sentence is to know the conditions under which it is true.”](https://news.ycombinator.com/item?id=35077671)
-- [DMS-100 Startup and First Phone Calls](https://www.youtube.com/watch?v=-8qjfPgVAAs)
-- [OOP: A practical alternative to Inheritance](https://github.com/manifold-systems/manifold/tree/master/manifold-deps-parent/manifold-delegation)
-- [Thailand is using monkey labor to source coconut milk](https://www.businessinsider.com/forced-monkey-labor-allegations-stop-hellofresh-thailand-coconut-milk-2023-3)
+- [Santos allegedly masterminded 2017 ATM fraud](https://www.politico.com/news/2023/03/09/santos-masterminded-atm-fraud-feds-00086417)
+- [Serverless maps at 1/700 the cost of Google Maps API](https://protomaps.com/blog/serverless-maps-now-open-source)
+- [Your Content Is Driving ChatGPT](https://www.inma.org/blogs/newsroom-initiative/post.cfm/your-content-is-driving-chatgpt)
+- [Scroll Tutorial](https://scroll.pub/tutorial.html)
+- [Trucks Are Killing Us](https://www.youtube.com/watch?v=jN7mSXMruEo)
+- [Host your own Snap Camera server after the shutdown on January 25, 2023](https://github.com/ptrumpis/snap-camera-server)
+- [Phone verification is ransomware for your privacy](https://news.ycombinator.com/item?id=35089698)
+- [Google’s Plan to Catch ChatGPT Is to Stuff AI into Everything](https://www.bloomberg.com/news/articles/2023-03-08/chatgpt-success-drives-google-to-put-ai-in-all-its-products)
+- [Porn, Piracy, Fraud: What Lurks Inside Google’s Black Box Ad Empire](https://www.propublica.org/article/google-display-ads-piracy-porn-fraud)
+- [Washington Suffers as Federal Employees Work from Home](https://www.bloomberg.com/news/features/2023-03-09/wfh-federal-employees-have-republicans-some-dems-demanding-return-to-office)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

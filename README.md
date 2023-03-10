@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Zelenskiy backs Georgia protesters in fight for ‘democratic success’ amid further clashes](https://www.theguardian.com/world/2023/mar/09/zelenskiy-backs-georgia-protesters-in-fight-for-democratic-success-amid-further-clashes)
-- [Growing numbers of Chinese citizens set their sights on the US – via the deadly Darién Gap](https://www.theguardian.com/world/2023/mar/09/growing-numbers-of-chinese-citizens-set-their-sights-on-the-us-via-the-deadly-darien-gap)
-- [Aukus submarine deal: Australia expected to choose UK design, sources say](https://www.theguardian.com/world/2023/mar/08/uk-to-unveil-nuclear-submarines-deal-with-australia-sources-say)
-- [Chelsea’s Emma Hayes urges WSL clubs to do more for players who have babies](https://www.theguardian.com/football/2023/mar/08/womens-super-league-wsl-chelsea-brighton-arsenal-liverpool)
-- [Lawmaker who gave tours of Capitol will lead inquiry of January 6 panel](https://www.theguardian.com/us-news/2023/mar/08/lawmaker-who-gave-tour-of-capitol-to-lead-january-6-panel-inquiry)
-- [Russia-Ukraine war at a glance: what we know on day 379 of the invasion](https://www.theguardian.com/world/2023/mar/09/russia-ukraine-war-at-a-glance-what-we-know-on-day-379-of-the-invasion)
-- [Veterans give searing testimony on US withdrawal from Afghanistan at hearing](https://www.theguardian.com/world/2023/mar/08/afghanistan-withdrawal-hearings-house-committee)
-- [Guardian wins daily newspaper of the year at the Press Awards](https://www.theguardian.com/culture/2023/mar/09/guardian-wins-daily-newspaper-of-the-year-at-the-press-awards)
-- [UK house prices could be stabilising despite falls, say surveyors](https://www.theguardian.com/business/2023/mar/09/uk-house-prices-could-be-stabilising-despite-falls-say-surveyors)
-- [Pentagon accused of blocking effort to hand Russia war crimes evidence to ICC](https://www.theguardian.com/world/2023/mar/08/pentagon-international-criminal-court-russia-war-crimes)
+- [Judge defends ejection of breastfeeding mother and baby from Melbourne court as ‘self-explanatory’](https://www.theguardian.com/australia-news/2023/mar/10/judge-ejects-breastfeeding-mother-and-her-baby-from-melbourne-court-sparking-criticism)
+- [Free college and IVF help: China hunts for ways to raise its birthrate](https://www.theguardian.com/world/2023/mar/10/free-college-and-ivf-help-china-hunts-for-ways-to-raise-its-birthrate)
+- [Biden budget includes billions for Pacific islands in bid to ‘out-compete’ China](https://www.theguardian.com/world/2023/mar/10/biden-budget-includes-billions-for-pacific-islands-in-bid-to-out-compete-china)
+- [Giving the middle finger is a ‘God-given right’, Canadian judge rules](https://www.theguardian.com/world/2023/mar/10/giving-the-middle-finger-is-a-god-given-right-canada-canadian-judge-rules)
+- [Russia-Ukraine war at a glance: what we know on day 380 of the invasion](https://www.theguardian.com/world/2023/mar/10/russia-ukraine-war-at-a-glance-what-we-know-on-day-380-of-the-invasion)
+- [Trump told of possible criminal charges for paying off Stormy Daniels – report](https://www.theguardian.com/us-news/2023/mar/09/donald-trump-stormy-daniels-criminal-charges)
+- [FCA urges UK banks to consider cutting mortgage payments for those struggling](https://www.theguardian.com/money/2023/mar/10/fca-urges-uk-banks-to-consider-cutting-mortgage-payments-struggling-borrowers)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2023/mar/10/premier-league-10-things-to-look-out-for-this-weekend)
+- [Gary Lineker stands by his immigration policy remarks](https://www.theguardian.com/football/2023/mar/09/gary-lineker-says-he-stands-by-remarks-about-immigration-policy-bbc)
+- [Undercooked Emma Raducanu beats Danka Kovinic at Indian Wells](https://www.theguardian.com/sport/2023/mar/09/undercooked-emma-raducanu-beats-danka-kovinic-at-indiana-wells-open)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

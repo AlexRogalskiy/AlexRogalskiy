@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Control Mario Kart 64 with Your Car over Can Bus](https://github.com/DanH42/CatchMeIfYouCAN)
-- [8vdX &lpar;YC W22&rpar; Is Hiring](https://www.ycombinator.com/companies/8vdx/jobs/oKQSIyc-software-engineers-full-stack-front-end-back-end-developers)
-- [Single File Elixir Scripts](https://fly.io/phoenix-files/single-file-elixir-scripts/)
-- [Audio Engineer Explains NPR&amp;#x27;s Signature Sound](https://current.org/2015/06/a-top-audio-engineer-explains-nprs-signature-sound/)
-- [Disclosure: Supervisor security vulnerability](https://www.home-assistant.io/blog/2023/03/08/supervisor-security-disclosure/)
-- [GDevelop: An open-source, cross-platform, free, and easy game-making app](https://gdevelop.io/)
-- [Full screen triangle optimization](https://30fps.net/pages/twotris/)
-- [Lisp-powered laptop with a battery life measured in years](https://www.hackster.io/news/andreas-eriksen-s-potatop-is-a-lisp-powered-laptop-with-a-battery-life-measured-in-years-2f5d79653f24)
-- [Code coverage for Go integration tests](https://go.dev/blog/integration-test-coverage)
-- [Show HN: BBC “In Our Time”, categorised by Dewey Decimal, heavy lifting by GPT](https://genmon.github.io/braggoscope/)
+- [Yyvette&amp;#x27;s Bridal](https://yvettesbridalformal.p1r8.net/)
+- [ChatGPT Is Now Finding Bugs in Databases](https://celerdata.com/blog/chatgpt-is-now-finding-bugs-in-databases)
+- [GPT-4 is coming next week – and it will be multimodal, says Microsoft Germany](https://www.heise.de/news/GPT-4-is-coming-next-week-and-it-will-be-multimodal-says-Microsoft-Germany-7540972.html)
+- [Sigmoid Colon: The biologically inspired activation function](https://github.com/poopingface/sigmoidcolon)
+- [Internet Story &lpar;2011&rpar; [video]](https://www.youtube.com/watch?v=g-SL4ejpP94)
+- [$22B project to provide 8% of UK energy via undersea cable from North Africa](https://e360.yale.edu/features/africa-europe-solar-wind-power)
+- [An Update on Dianna&amp;#x27;s Health &lpar;Physics Girl&rpar; [video]](https://www.youtube.com/watch?v=vydgkCCXbTA)
+- [VR Airplane Deicer Simulator](https://globalgroundsupport.com/vr-deicer-simulator/)
+- [Cobble_stone &lpar;The Texture of Your Childhood&rpar;](https://github.com/Render96/Render96Wiki/wiki/cobble_stone-%28The-Texture-of-Your-Childhood%29)
+- [Silicon Valley Bank’s shares are tanking](https://techcrunch.com/2023/03/09/silicon-valley-banks-shares-are-tanking-as-a-mess-unfolds/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

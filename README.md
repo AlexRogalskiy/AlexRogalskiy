@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [ChatGPT now chatting via Azure OpenAI Service](https://www.infoworld.com/article/3690335/chatgpt-now-chatting-via-azure-openai-service.html#tk.rss_all)
+- [How many jobs are available in technology in the US?](https://www.computerworld.com/article/3542681/how-many-jobs-are-available-in-technology.html#tk.rss_all)
+- [US-China chip war to hit affiliates of server maker Inspur](https://www.networkworld.com/article/3690591/us-china-chip-war-to-hit-affiliates-of-server-maker-inspur.html#tk.rss_all)
+- [Microsoft&#39;s tiny Word improvement is a big productivity boost](https://www.computerworld.com/article/3690611/microsofts-tiny-word-improvement-is-a-big-productivity-boost.html#tk.rss_all)
+- [Can’t hire? Can’t get hired? How to avoid the “Great Mismatch” trap!](https://www.computerworld.com/article/3689817/can-t-hire-can-t-get-hired-how-to-avoid-the-great-mismatch-trap.html#tk.rss_all)
+- [Q&amp;A: Schneider Electric CIO talks IT staffing, sustainability, and digital transformation](https://www.computerworld.com/article/3690410/qa-schneider-electric-cio-talks-it-staffing-sustainability-and-digital-transformation.html#tk.rss_all)
+- [5 wild new ways to make Android widgets more useful](https://www.computerworld.com/article/3617828/android-widgets.html#tk.rss_all)
+- [Unnecessary meetings draining employee productivity: Report](https://www.computerworld.com/article/3690608/unnecessary-meetings-draining-employee-productivity-report.html#tk.rss_all)
+- [What is generative AI? The evolution of artificial intelligence](https://www.infoworld.com/article/3689973/what-is-generative-ai-the-evolution-of-artificial-intelligence.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [GrammarlyGo and the coming wave of generative AI productivity](https://www.computerworld.com/article/3690270/grammarlygo-and-the-coming-wave-of-generative-ai-productivity.html#tk.rss_all)
-- [Netherlands to restrict export of &#39;advanced&#39; chip-making tech to China](https://www.networkworld.com/article/3690509/netherlands-to-restrict-export-of-advanced-chip-making-tech-to-china.html#tk.rss_all)
-- [ChatGPT on Apple Watch? There’s an app for that…](https://www.computerworld.com/article/3690331/chatgpt-on-apple-watch-theres-an-app-for-that.html#tk.rss_all)
-- [Are tech firms really firing their IT workers? No.](https://www.computerworld.com/article/3690309/about-those-tech-layoff-headlines-most-companies-arent-firing-it-workers.html#tk.rss_all)
-- [DuckDuckGo debuts AI-based search using OpenAI and Anthropic language models](https://www.computerworld.com/article/3690308/duckduckgo-debuts-ai-based-search-using-openai-and-anthropic-language-models.html#tk.rss_all)
-- [Slack boosts AI capabilities with new ChatGPT app](https://www.computerworld.com/article/3689918/slack-boosts-ai-capabilities-with-new-chatgpt-app.html#tk.rss_all)
-- [Why you should use Apple’s Rapid Security Response](https://www.computerworld.com/article/3689916/why-you-should-use-apples-rapid-security-response.html#tk.rss_all)
-- [Q&amp;A: Allstate HR exec on the rise of remote work: &#39;The world is changing….&#39;](https://www.computerworld.com/article/3689815/qa-allstate-hr-exec-on-rise-of-remote-work-the-world-is-changing.html#tk.rss_all)
-- [How to turn any website into a custom Android widget](https://www.computerworld.com/article/3689698/custom-android-widget.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

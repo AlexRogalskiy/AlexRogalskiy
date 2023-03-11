@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Santos allegedly masterminded 2017 ATM fraud](https://www.politico.com/news/2023/03/09/santos-masterminded-atm-fraud-feds-00086417)
-- [Serverless maps at 1/700 the cost of Google Maps API](https://protomaps.com/blog/serverless-maps-now-open-source)
-- [Your Content Is Driving ChatGPT](https://www.inma.org/blogs/newsroom-initiative/post.cfm/your-content-is-driving-chatgpt)
-- [Scroll Tutorial](https://scroll.pub/tutorial.html)
-- [Trucks Are Killing Us](https://www.youtube.com/watch?v=jN7mSXMruEo)
-- [Host your own Snap Camera server after the shutdown on January 25, 2023](https://github.com/ptrumpis/snap-camera-server)
-- [Phone verification is ransomware for your privacy](https://news.ycombinator.com/item?id=35089698)
-- [Google’s Plan to Catch ChatGPT Is to Stuff AI into Everything](https://www.bloomberg.com/news/articles/2023-03-08/chatgpt-success-drives-google-to-put-ai-in-all-its-products)
-- [Porn, Piracy, Fraud: What Lurks Inside Google’s Black Box Ad Empire](https://www.propublica.org/article/google-display-ads-piracy-porn-fraud)
-- [Washington Suffers as Federal Employees Work from Home](https://www.bloomberg.com/news/features/2023-03-09/wfh-federal-employees-have-republicans-some-dems-demanding-return-to-office)
+- [America&#39;s Censorship-Industrial Complex](https://public.substack.com/p/exposed-americas-secret-censorship)
+- [HighRes image reconstruction w latent diffusion models from human brain activity [pdf]](https://www.biorxiv.org/content/10.1101/2022.11.18.517004v2.full.pdf)
+- [Dell’s Latitude 7330 convinced me that business laptops are too expensive](https://www.theverge.com/23630381/dell-latitude-7330-review-design-specs-price-features)
+- [Kopia – incremental backups, encryption, compression, data deduplication](https://github.com/kopia/kopia)
+- [SVB Depositors, Investors Tried to Pull $42B Thursday](https://www.bloomberg.com/news/articles/2023-03-11/svb-depositors-investors-tried-to-pull-42-billion-on-thursday)
+- [Biden want&#39;s tougher cloud security](https://www.politico.com/news/2023/03/10/white-house-cloud-overhaul-00086595)
+- [First Republic Bank files 8-K – Tech only 4% of total deposits; no sector &gt;9%](https://ir.firstrepublic.com/static-files/295faa27-f208-4936-81ff-6c8bfa0fb6b5)
+- [Bing crossed 100M daily active users for the first time with Bing Chat AI](https://www.windowscentral.com/software-apps/bing/microsoft-bing-just-crossed-100-million-daily-active-users-for-the-first-time-ever-thanks-to-bing-chat-ai)
+- [Moody&#39;s Downgrades Credit Ratings on Silicon Valley Bank, SVB Financial](https://www.reuters.com/markets/us/moodys-downgrades-credit-ratings-silicon-valley-bank-svb-financial-2023-03-11/)
+- [A stubbornly strong economy complicates the fight against inflation](https://www.economist.com/leaders/2023/03/08/a-stubbornly-strong-economy-complicates-the-fight-against-inflation)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

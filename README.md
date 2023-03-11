@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Yyvette&amp;#x27;s Bridal](https://yvettesbridalformal.p1r8.net/)
-- [ChatGPT Is Now Finding Bugs in Databases](https://celerdata.com/blog/chatgpt-is-now-finding-bugs-in-databases)
-- [GPT-4 is coming next week – and it will be multimodal, says Microsoft Germany](https://www.heise.de/news/GPT-4-is-coming-next-week-and-it-will-be-multimodal-says-Microsoft-Germany-7540972.html)
-- [Sigmoid Colon: The biologically inspired activation function](https://github.com/poopingface/sigmoidcolon)
-- [Internet Story &lpar;2011&rpar; [video]](https://www.youtube.com/watch?v=g-SL4ejpP94)
-- [$22B project to provide 8% of UK energy via undersea cable from North Africa](https://e360.yale.edu/features/africa-europe-solar-wind-power)
-- [An Update on Dianna&amp;#x27;s Health &lpar;Physics Girl&rpar; [video]](https://www.youtube.com/watch?v=vydgkCCXbTA)
-- [VR Airplane Deicer Simulator](https://globalgroundsupport.com/vr-deicer-simulator/)
-- [Cobble_stone &lpar;The Texture of Your Childhood&rpar;](https://github.com/Render96/Render96Wiki/wiki/cobble_stone-%28The-Texture-of-Your-Childhood%29)
-- [Silicon Valley Bank’s shares are tanking](https://techcrunch.com/2023/03/09/silicon-valley-banks-shares-are-tanking-as-a-mess-unfolds/)
+- [SVB Depositors, Investors Tried to Pull $42B Thursday](https://www.bloomberg.com/news/articles/2023-03-11/svb-depositors-investors-tried-to-pull-42-billion-on-thursday)
+- [First Republic Bank files 8-K – Tech only 4% of total deposits; no sector &amp;gt;9%](https://ir.firstrepublic.com/static-files/295faa27-f208-4936-81ff-6c8bfa0fb6b5)
+- [GPT-4 will arrive next week and will be multimodal](https://www.gearrice.com/update/gpt-4-will-arrive-next-week-and-will-be-multimodal/)
+- [CEO of failed Silicon Valley Bank no longer a director at SF Fed](https://www.reuters.com/markets/us/ceo-failed-silicon-valley-bank-no-longer-director-sf-fed-2023-03-10/)
+- [Polls find strong support for nuclear in UK and Switzerland](https://www.world-nuclear-news.org/Articles/Polls-find-strong-support-for-nuclear-in-UK-and-Sw?feed=feed)
+- [Python Basics Onepager](https://github.com/IvanReznikov/DataVerse/blob/main/Onepagers/onepager_python_basics.md)
+- [What does Silicon Valley Bank’s collapse mean for the financial system?](https://www.economist.com/finance-and-economics/2023/03/10/what-does-silicon-valley-banks-collapse-mean-for-the-financial-system)
+- [SF payroll firm Rippling has to delay payouts after Silicon Valley Bank collapse](https://www.sfgate.com/tech/article/rippling-pay-silicon-valley-bank-17832441.php)
+- [Saving 4M books from landfill](http://blog.archive.org/2023/03/08/saving-4-million-books-from-landfill/)
+- [Emergency bridge loan for SVB customers](https://www.brex.com/svb-emergency-line)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

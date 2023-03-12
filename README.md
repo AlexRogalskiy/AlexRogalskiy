@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [America&#39;s Censorship-Industrial Complex](https://public.substack.com/p/exposed-americas-secret-censorship)
-- [HighRes image reconstruction w latent diffusion models from human brain activity [pdf]](https://www.biorxiv.org/content/10.1101/2022.11.18.517004v2.full.pdf)
-- [Dell’s Latitude 7330 convinced me that business laptops are too expensive](https://www.theverge.com/23630381/dell-latitude-7330-review-design-specs-price-features)
-- [Kopia – incremental backups, encryption, compression, data deduplication](https://github.com/kopia/kopia)
-- [SVB Depositors, Investors Tried to Pull $42B Thursday](https://www.bloomberg.com/news/articles/2023-03-11/svb-depositors-investors-tried-to-pull-42-billion-on-thursday)
-- [Biden want&#39;s tougher cloud security](https://www.politico.com/news/2023/03/10/white-house-cloud-overhaul-00086595)
-- [First Republic Bank files 8-K – Tech only 4% of total deposits; no sector &gt;9%](https://ir.firstrepublic.com/static-files/295faa27-f208-4936-81ff-6c8bfa0fb6b5)
-- [Bing crossed 100M daily active users for the first time with Bing Chat AI](https://www.windowscentral.com/software-apps/bing/microsoft-bing-just-crossed-100-million-daily-active-users-for-the-first-time-ever-thanks-to-bing-chat-ai)
-- [Moody&#39;s Downgrades Credit Ratings on Silicon Valley Bank, SVB Financial](https://www.reuters.com/markets/us/moodys-downgrades-credit-ratings-silicon-valley-bank-svb-financial-2023-03-11/)
-- [A stubbornly strong economy complicates the fight against inflation](https://www.economist.com/leaders/2023/03/08/a-stubbornly-strong-economy-complicates-the-fight-against-inflation)
+- [CodeGen: An Open Large Language Model for Code with Multi-Turn Program Synthesis](https://arxiv.org/abs/2203.13474)
+- [Ask HN: What open source AI projects do you wish existed?](https://news.ycombinator.com/item?id=35115715)
+- [Big Business’s relentless push to equate the free market with freedom](https://www.washingtonpost.com/books/2023/03/10/big-myth-business-oreskes-conway/)
+- [Secret Colours of the Commodore 64](https://www.aaronbell.com/secret-colours-of-the-commodore-64/)
+- [Over 1,200 CEOs and founders have signed this YC petition](https://docs.google.com/forms/d/e/1FAIpQLSd0_0JOGdaXSDs-WaAXzzEy_tR7akOF7GBTfTb-r-Me0trNPQ/viewform)
+- [Ask HN: Please consider donating your karma](https://news.ycombinator.com/item?id=35115644)
+- [The Most Efficient and Environment Friendly Programming Languages](https://stratoflow.com/efficient-and-environment-friendly-programming-languages/)
+- [Jeremy Grantham: World of Super Bubbles Has No Soft Landings](https://www.bloomberg.com/news/articles/2023-03-11/jeremy-grantham-s-world-of-super-bubbles-has-no-soft-landings)
+- [Decarbonization pathways for the cement and concrete cycle &lpar;2021&rpar; [pdf]](https://www.climateworks.org/wp-content/uploads/2021/03/Decarbonizing_Concrete.pdf)
+- [Ask HN: What reads made you a better engineer?](https://news.ycombinator.com/item?id=35115613)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

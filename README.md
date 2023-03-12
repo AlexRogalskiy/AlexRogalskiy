@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Li Qiang: Xi Jinping, China’s president, names next premier](https://www.theguardian.com/world/2023/mar/11/li-qiang-xi-jinping-chinas-president-nominates-next-premier)
-- [‘A defeated person’: sidelined by Xi, China’s Li Keqiang bows out as premier](https://www.theguardian.com/world/2023/mar/11/a-defeated-person-sidelined-by-xi-chinas-li-keqiang-bows-out-as-premier)
-- [Money Shot: The Pornhub Story review – doc can’t find a point of view](https://www.theguardian.com/film/2023/mar/11/money-shot-the-pornhub-story-review-netflix)
-- [UK government takes fight over Russian athletes’ ban to Olympic sponsors](https://www.theguardian.com/sport/2023/mar/11/uk-government-takes-fight-over-russian-athletes-ban-to-olympic-sponsors)
-- [Podcaster and husband allegedly killed by stalker in Washington state](https://www.theguardian.com/us-news/2023/mar/10/podcaster-husband-killed-alleged-stalker-washington-state)
-- [Silicon Valley Bank fails in largest bank collapse since 2008 crisis](https://www.theguardian.com/business/2023/mar/10/european-markets-spooked-by-us-bank-shares-sell-off)
-- [Angry Antonio Conte turns on the Tottenham fans for lacking ‘patience’](https://www.theguardian.com/football/2023/mar/10/antonio-conte-tottenham-future-contract-richarlison-nottingham-forest)
-- [Jeremy Hunt’s budget to announce £20bn funding to cut carbon emissions](https://www.theguardian.com/uk-news/2023/mar/10/jeremy-hunt-budget-cut-carbon-emissions-clean-energy-small-nuclear-reactors)
-- [Guardiola supports Walker after police action over allegedly ‘exposing himself’](https://www.theguardian.com/football/2023/mar/10/guardiola-supports-walker-after-police-action-over-allegedly-exposing-himself)
-- [Why did Silicon Valley Bank fail?](https://www.theguardian.com/us-news/2023/mar/10/silicon-valley-bank-collapse-explainer)
+- [Cyril Ramaphosa ‘farmgate’ inquiry clears South African president – watchdog](https://www.theguardian.com/world/2023/mar/12/cyril-ramaphosa-farmgate-inquiry-clears-south-african-president-watchdog)
+- [Russia-Ukraine war at a glance: what we know on day 382 of the invasion](https://www.theguardian.com/world/2023/mar/12/russia-ukraine-war-at-a-glance-what-we-know-on-day-382-of-the-invasion)
+- [Match of the Day review – without Lineker, this is just 20 minutes of shameful, joyless TV](https://www.theguardian.com/tv-and-radio/2023/mar/12/match-of-the-day-review-without-gary-lineker-this-is-just-20-minutes-of-shameful-joyless-tv)
+- [Hunt likely to save spending spree for polling day, not budget speech](https://www.theguardian.com/uk-news/2023/mar/12/hunt-likely-to-save-spending-spree-for-polling-day-not-budget-speech)
+- [We love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2023/mar/11/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Extra costs for customers on prepayment meters to be scrapped in budget](https://www.theguardian.com/money/2023/mar/11/extra-costs-for-customers-on-prepayment-meters-to-be-scrapped-in-budget)
+- [Rory McIlroy wants to ‘get back to being a golfer’ after missing Sawgrass cut](https://www.theguardian.com/sport/2023/mar/11/rory-mcilroy-wants-to-get-back-to-being-a-golfer-after-missing-players-championship-cut)
+- [Sunak heads to US to unveil latest news on Australian nuclear sub deal](https://www.theguardian.com/world/2023/mar/11/sunak-heads-to-us-to-unveil-latest-news-on-australian-nuclear-sub-deal)
+- [Emma Raducanu finds form against Linette to advance at Indian Wells](https://www.theguardian.com/sport/2023/mar/11/emma-raducanu-takes-out-linette-to-reach-third-round-at-indian-wells)
+- [Steve Borthwick admits England face ‘stark reality’ after thrashing by France](https://www.theguardian.com/sport/2023/mar/11/ellis-genge-admits-england-were-taught-a-harsh-lesson-in-hammering-by-france)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

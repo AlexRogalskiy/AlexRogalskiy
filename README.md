@@ -355,8 +355,8 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
-- [ChatGPT now chatting via Azure OpenAI Service](https://www.infoworld.com/article/3690335/chatgpt-now-chatting-via-azure-openai-service.html#tk.rss_all)
 - [How many jobs are available in technology in the US?](https://www.computerworld.com/article/3542681/how-many-jobs-are-available-in-technology.html#tk.rss_all)
+- [ChatGPT now chatting via Azure OpenAI Service](https://www.infoworld.com/article/3690335/chatgpt-now-chatting-via-azure-openai-service.html#tk.rss_all)
 - [US-China chip war to hit affiliates of server maker Inspur](https://www.networkworld.com/article/3690591/us-china-chip-war-to-hit-affiliates-of-server-maker-inspur.html#tk.rss_all)
 - [Microsoft&#39;s tiny Word improvement is a big productivity boost](https://www.computerworld.com/article/3690611/microsofts-tiny-word-improvement-is-a-big-productivity-boost.html#tk.rss_all)
 - [Can’t hire? Can’t get hired? How to avoid the “Great Mismatch” trap!](https://www.computerworld.com/article/3689817/can-t-hire-can-t-get-hired-how-to-avoid-the-great-mismatch-trap.html#tk.rss_all)

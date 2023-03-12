@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [SVB Depositors, Investors Tried to Pull $42B Thursday](https://www.bloomberg.com/news/articles/2023-03-11/svb-depositors-investors-tried-to-pull-42-billion-on-thursday)
-- [First Republic Bank files 8-K – Tech only 4% of total deposits; no sector &amp;gt;9%](https://ir.firstrepublic.com/static-files/295faa27-f208-4936-81ff-6c8bfa0fb6b5)
-- [GPT-4 will arrive next week and will be multimodal](https://www.gearrice.com/update/gpt-4-will-arrive-next-week-and-will-be-multimodal/)
-- [CEO of failed Silicon Valley Bank no longer a director at SF Fed](https://www.reuters.com/markets/us/ceo-failed-silicon-valley-bank-no-longer-director-sf-fed-2023-03-10/)
-- [Polls find strong support for nuclear in UK and Switzerland](https://www.world-nuclear-news.org/Articles/Polls-find-strong-support-for-nuclear-in-UK-and-Sw?feed=feed)
-- [Python Basics Onepager](https://github.com/IvanReznikov/DataVerse/blob/main/Onepagers/onepager_python_basics.md)
-- [What does Silicon Valley Bank’s collapse mean for the financial system?](https://www.economist.com/finance-and-economics/2023/03/10/what-does-silicon-valley-banks-collapse-mean-for-the-financial-system)
-- [SF payroll firm Rippling has to delay payouts after Silicon Valley Bank collapse](https://www.sfgate.com/tech/article/rippling-pay-silicon-valley-bank-17832441.php)
-- [Saving 4M books from landfill](http://blog.archive.org/2023/03/08/saving-4-million-books-from-landfill/)
-- [Emergency bridge loan for SVB customers](https://www.brex.com/svb-emergency-line)
+- [Mechanical aircraft weight and balance computer using whippletrees](https://www.airwaysmuseum.com/Librascope.htm)
+- [Ask HN: More magazines like Quanta and Noema?](https://news.ycombinator.com/item?id=35114679)
+- [OldLinux: Ancient Linux Resources](http://www.oldlinux.org/)
+- [Reflections on a Decade of Coding](https://www.scattered-thoughts.net/writing/reflections-on-a-decade-of-coding/)
+- [An Update on USDC and Silicon Valley Bank](https://www.circle.com/blog/an-update-on-usdc-and-silicon-valley-bank)
+- [A Bank of One&amp;#x27;s Own](https://nayafia.substack.com/p/a-bank-of-ones-own)
+- [On mindsets, mind shifts and wins](https://davestewart.co.uk/blog/mind-shifts-and-wins/)
+- [Large language models are having their Stable Diffusion moment](https://simonwillison.net/2023/Mar/11/llama/)
+- [Etsy Delays Seller Payouts Due to Run on Silicon Valley Bank](https://www.ecommercebytes.com/C/abblog/blog.pl?/pl/2023/3/1678509907.html)
+- [Map of an Insect’s Brain](https://www.smithsonianmag.com/smart-news/see-the-first-complete-map-of-an-insects-brain-180981778/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

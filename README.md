@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [CodeGen: An Open Large Language Model for Code with Multi-Turn Program Synthesis](https://arxiv.org/abs/2203.13474)
-- [Ask HN: What open source AI projects do you wish existed?](https://news.ycombinator.com/item?id=35115715)
-- [Big Business’s relentless push to equate the free market with freedom](https://www.washingtonpost.com/books/2023/03/10/big-myth-business-oreskes-conway/)
-- [Secret Colours of the Commodore 64](https://www.aaronbell.com/secret-colours-of-the-commodore-64/)
-- [Over 1,200 CEOs and founders have signed this YC petition](https://docs.google.com/forms/d/e/1FAIpQLSd0_0JOGdaXSDs-WaAXzzEy_tR7akOF7GBTfTb-r-Me0trNPQ/viewform)
-- [Ask HN: Please consider donating your karma](https://news.ycombinator.com/item?id=35115644)
-- [The Most Efficient and Environment Friendly Programming Languages](https://stratoflow.com/efficient-and-environment-friendly-programming-languages/)
-- [Jeremy Grantham: World of Super Bubbles Has No Soft Landings](https://www.bloomberg.com/news/articles/2023-03-11/jeremy-grantham-s-world-of-super-bubbles-has-no-soft-landings)
-- [Decarbonization pathways for the cement and concrete cycle &lpar;2021&rpar; [pdf]](https://www.climateworks.org/wp-content/uploads/2021/03/Decarbonizing_Concrete.pdf)
-- [Ask HN: What reads made you a better engineer?](https://news.ycombinator.com/item?id=35115613)
+- [Casper attack steals data using air-gapped computer&#39;s internal speaker](https://www.bleepingcomputer.com/news/security/casper-attack-steals-data-using-air-gapped-computers-internal-speaker/)
+- [ChatGPT powered Rust proc macro that generates code at compile-time](https://github.com/retrage/gpt-macro)
+- [Full-Reserve Banking](https://en.wikipedia.org/wiki/Full-reserve_banking)
+- [SVB’s Lobby Groups Fought Proposal to Bolster Deposit Insurance](https://www.levernews.com/svbs-lobby-groups-fought-proposal-to-bolster-deposit-insurance/)
+- [Ask HN: What has AI ruined for you?](https://news.ycombinator.com/item?id=35130091)
+- [Ask HN: Is it just me, or could file conversion websites be a honeypot?](https://news.ycombinator.com/item?id=35130045)
+- [USDC repegs to $1 after Fed announces FDIC will cover uninsured SVB deposits](https://cointelegraph.com/news/usdc-bounces-back-towards-1-peg-after-fed-announcement)
+- [Ask HN: What are the data compression characteristics of LLMs?](https://news.ycombinator.com/item?id=35130027)
+- [Britain’s Colin Kaepernick Moment: BBC Sparks Its Own Culture War Crisis](https://www.wsj.com/articles/britains-colin-kaepernick-moment-bbc-sparks-its-own-culture-war-crisis-fb41d43a)
+- [Daft: Python Distributed Dataframes for Complex Data](https://www.getdaft.io/index.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

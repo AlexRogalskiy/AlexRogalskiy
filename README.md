@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Cyril Ramaphosa ‘farmgate’ inquiry clears South African president – watchdog](https://www.theguardian.com/world/2023/mar/12/cyril-ramaphosa-farmgate-inquiry-clears-south-african-president-watchdog)
-- [Russia-Ukraine war at a glance: what we know on day 382 of the invasion](https://www.theguardian.com/world/2023/mar/12/russia-ukraine-war-at-a-glance-what-we-know-on-day-382-of-the-invasion)
-- [Match of the Day review – without Lineker, this is just 20 minutes of shameful, joyless TV](https://www.theguardian.com/tv-and-radio/2023/mar/12/match-of-the-day-review-without-gary-lineker-this-is-just-20-minutes-of-shameful-joyless-tv)
-- [Hunt likely to save spending spree for polling day, not budget speech](https://www.theguardian.com/uk-news/2023/mar/12/hunt-likely-to-save-spending-spree-for-polling-day-not-budget-speech)
-- [We love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2023/mar/11/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Extra costs for customers on prepayment meters to be scrapped in budget](https://www.theguardian.com/money/2023/mar/11/extra-costs-for-customers-on-prepayment-meters-to-be-scrapped-in-budget)
-- [Rory McIlroy wants to ‘get back to being a golfer’ after missing Sawgrass cut](https://www.theguardian.com/sport/2023/mar/11/rory-mcilroy-wants-to-get-back-to-being-a-golfer-after-missing-players-championship-cut)
-- [Sunak heads to US to unveil latest news on Australian nuclear sub deal](https://www.theguardian.com/world/2023/mar/11/sunak-heads-to-us-to-unveil-latest-news-on-australian-nuclear-sub-deal)
-- [Emma Raducanu finds form against Linette to advance at Indian Wells](https://www.theguardian.com/sport/2023/mar/11/emma-raducanu-takes-out-linette-to-reach-third-round-at-indian-wells)
-- [Steve Borthwick admits England face ‘stark reality’ after thrashing by France](https://www.theguardian.com/sport/2023/mar/11/ellis-genge-admits-england-were-taught-a-harsh-lesson-in-hammering-by-france)
+- [Oscars 2023: Rihanna performs Lift Me Up from Black Panther – follow live!](https://www.theguardian.com/film/live/2023/mar/12/oscars-red-carpet-ceremony-winners-losers-academy-awards-live)
+- [Xi Jinping vows to oppose Taiwan independence in closing speech of China parliament](https://www.theguardian.com/world/2023/mar/13/xi-jinping-taiwan-independence-china-parliament-national-peoples-congress)
+- [Russia-Ukraine war at a glance: what we know on day 383 of the invasion](https://www.theguardian.com/world/2023/mar/13/russia-ukraine-war-at-a-glance-what-we-know-on-day-383-of-the-invasion)
+- [China’s ‘rotten girls’ are escaping into erotic fiction about gay men](https://www.theguardian.com/world/2023/mar/13/chinas-rotten-girls-are-escaping-into-erotic-fiction-about-gay-men)
+- [Hugh Grant gets Oscars off to awkward start on red carpet – before comparing himself to a scrotum on stage](https://www.theguardian.com/film/2023/mar/12/hugh-grant-oscars-interview-red-carpet)
+- [North Korea fires cruise missiles as US-South Korean military drills begin](https://www.theguardian.com/world/2023/mar/13/north-korea-fires-cruise-missiles-as-us-south-korean-military-drills-begin)
+- [Leading UK food businesses call for clearer rules on food labelling](https://www.theguardian.com/business/2023/mar/13/leading-uk-food-businesses-call-for-clearer-rules-on-food-labelling)
+- [France challenging Russia as second biggest arms exporter behind US](https://www.theguardian.com/world/2023/mar/13/france-challenging-russia-as-second-biggest-arms-exporter-behind-us)
+- [Oscars 2023: the full list of winners as they’re announced](https://www.theguardian.com/film/2023/mar/12/oscars-winners-2023-list-in-full-latest-awards-actor-best-picture)
+- [US guarantees all deposits after Silicon Valley Bank collapse, as Biden promises action](https://www.theguardian.com/business/2023/mar/12/silicon-valley-bank-collapse-no-bailout-janet-yellen)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

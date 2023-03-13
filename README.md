@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Mechanical aircraft weight and balance computer using whippletrees](https://www.airwaysmuseum.com/Librascope.htm)
-- [Ask HN: More magazines like Quanta and Noema?](https://news.ycombinator.com/item?id=35114679)
-- [OldLinux: Ancient Linux Resources](http://www.oldlinux.org/)
-- [Reflections on a Decade of Coding](https://www.scattered-thoughts.net/writing/reflections-on-a-decade-of-coding/)
-- [An Update on USDC and Silicon Valley Bank](https://www.circle.com/blog/an-update-on-usdc-and-silicon-valley-bank)
-- [A Bank of One&amp;#x27;s Own](https://nayafia.substack.com/p/a-bank-of-ones-own)
-- [On mindsets, mind shifts and wins](https://davestewart.co.uk/blog/mind-shifts-and-wins/)
-- [Large language models are having their Stable Diffusion moment](https://simonwillison.net/2023/Mar/11/llama/)
-- [Etsy Delays Seller Payouts Due to Run on Silicon Valley Bank](https://www.ecommercebytes.com/C/abblog/blog.pl?/pl/2023/3/1678509907.html)
-- [Map of an Insect’s Brain](https://www.smithsonianmag.com/smart-news/see-the-first-complete-map-of-an-insects-brain-180981778/)
+- [Believe it or not, the Amish are loving electric bikes](https://electrek.co/2023/03/12/believe-it-or-not-the-amish-are-loving-electric-bikes/)
+- [The tech industry moved fast and broke its most prestigious bank](https://www.theverge.com/23635692/silicon-valley-bank-svb-collapse-explainer-startups-venture-capital)
+- [America Has Replaced Capitalism with Cronyism](https://nymag.com/intelligencer/_pages/ck8xtn5bu00qawly6zpbbvn3a.html)
+- [FDIC Establishes Signature Bridge Bank, N.A., As Successor to Signature Bank](https://www.fdic.gov/news/press-releases/2023/pr23018.html)
+- [Why did 250k Britons die sooner than expected?](https://www.economist.com/interactive/britain/2023/03/09/why-did-250000-britons-die-sooner-than-expected)
+- [Regulators Close New York’s Signature Bank](https://www.cnbc.com/2023/03/12/regulators-close-new-yorks-signature-bank-citing-systemic-risk.html)
+- [Joint statement by the Department of the Treasury, Federal Reserve, and FDIC](https://home.treasury.gov/news/press-releases/jy1337)
+- [Dalai: Automatically install, run, and play with LLaMA on your computer](https://cocktailpeanut.github.io/dalai/)
+- [Lo-Fi ATC](https://www.lofiatc.com/)
+- [cat mario.nes | nc play-nes.org 4444](https://github.com/henrikpersson/potatis)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

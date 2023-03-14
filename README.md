@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Believe it or not, the Amish are loving electric bikes](https://electrek.co/2023/03/12/believe-it-or-not-the-amish-are-loving-electric-bikes/)
-- [The tech industry moved fast and broke its most prestigious bank](https://www.theverge.com/23635692/silicon-valley-bank-svb-collapse-explainer-startups-venture-capital)
-- [America Has Replaced Capitalism with Cronyism](https://nymag.com/intelligencer/_pages/ck8xtn5bu00qawly6zpbbvn3a.html)
-- [FDIC Establishes Signature Bridge Bank, N.A., As Successor to Signature Bank](https://www.fdic.gov/news/press-releases/2023/pr23018.html)
-- [Why did 250k Britons die sooner than expected?](https://www.economist.com/interactive/britain/2023/03/09/why-did-250000-britons-die-sooner-than-expected)
-- [Regulators Close New York’s Signature Bank](https://www.cnbc.com/2023/03/12/regulators-close-new-yorks-signature-bank-citing-systemic-risk.html)
-- [Joint statement by the Department of the Treasury, Federal Reserve, and FDIC](https://home.treasury.gov/news/press-releases/jy1337)
-- [Dalai: Automatically install, run, and play with LLaMA on your computer](https://cocktailpeanut.github.io/dalai/)
-- [Lo-Fi ATC](https://www.lofiatc.com/)
-- [cat mario.nes | nc play-nes.org 4444](https://github.com/henrikpersson/potatis)
+- [High-Throughput Generative Inference of Large Language Models with a Single GPU](https://arxiv.org/abs/2303.06865)
+- [Microsoft lays off an ethical AI team as it doubles down on OpenAI](https://techcrunch.com/2023/03/13/microsoft-lays-off-an-ethical-ai-team-as-it-doubles-down-on-openai/)
+- [Building a second income stream by writing a book](https://fatsoftwareengineer.substack.com/p/building-a-second-income-stream-by)
+- [Relationship Hero &lpar;YC S17&rpar; Is Hiring Sales Associates &lpar;Remote&rpar;](https://relationshiphero.com/careers?role=salesAssociate)
+- [Instagram Is Disabling Its NFT Features](https://nftnow.com/news/breaking-instagram-is-sunsetting-digital-collectibles-nfts/)
+- [Switching from C++ to Rust](https://laplab.me/posts/switching-from-cpp-to-rust/)
+- [Show HN: Counter – Simple and free web analytics](https://counter.dev/)
+- [LNER Peppercorn Class A1 60163 Tornado](https://en.wikipedia.org/wiki/LNER_Peppercorn_Class_A1_60163_Tornado)
+- [Experian is a pile of dark pattern garbage](https://blog.benton.io/post/711712394255138816/experian-is-a-pile-of-dark-pattern-garbage)
+- [Gitlab loses one-third of its value after company issues weak rev forecast](https://www.cnbc.com/2023/03/13/gitlab-gtlb-earnings-q4-2023.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

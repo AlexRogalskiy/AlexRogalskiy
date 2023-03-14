@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Oscars 2023: Rihanna performs Lift Me Up from Black Panther – follow live!](https://www.theguardian.com/film/live/2023/mar/12/oscars-red-carpet-ceremony-winners-losers-academy-awards-live)
-- [Xi Jinping vows to oppose Taiwan independence in closing speech of China parliament](https://www.theguardian.com/world/2023/mar/13/xi-jinping-taiwan-independence-china-parliament-national-peoples-congress)
-- [Russia-Ukraine war at a glance: what we know on day 383 of the invasion](https://www.theguardian.com/world/2023/mar/13/russia-ukraine-war-at-a-glance-what-we-know-on-day-383-of-the-invasion)
-- [China’s ‘rotten girls’ are escaping into erotic fiction about gay men](https://www.theguardian.com/world/2023/mar/13/chinas-rotten-girls-are-escaping-into-erotic-fiction-about-gay-men)
-- [Hugh Grant gets Oscars off to awkward start on red carpet – before comparing himself to a scrotum on stage](https://www.theguardian.com/film/2023/mar/12/hugh-grant-oscars-interview-red-carpet)
-- [North Korea fires cruise missiles as US-South Korean military drills begin](https://www.theguardian.com/world/2023/mar/13/north-korea-fires-cruise-missiles-as-us-south-korean-military-drills-begin)
-- [Leading UK food businesses call for clearer rules on food labelling](https://www.theguardian.com/business/2023/mar/13/leading-uk-food-businesses-call-for-clearer-rules-on-food-labelling)
-- [France challenging Russia as second biggest arms exporter behind US](https://www.theguardian.com/world/2023/mar/13/france-challenging-russia-as-second-biggest-arms-exporter-behind-us)
-- [Oscars 2023: the full list of winners as they’re announced](https://www.theguardian.com/film/2023/mar/12/oscars-winners-2023-list-in-full-latest-awards-actor-best-picture)
-- [US guarantees all deposits after Silicon Valley Bank collapse, as Biden promises action](https://www.theguardian.com/business/2023/mar/12/silicon-valley-bank-collapse-no-bailout-janet-yellen)
+- [Ruthless Chris Hipkins backpedals on climate action as New Zealand elections near | Henry Cooke](https://www.theguardian.com/world/commentisfree/2023/mar/14/ruthless-chris-hipkins-backpedals-on-climate-action-as-new-zealand-elections-near)
+- [Russia-Ukraine war at a glance: what we know on day 384 of the invasion](https://www.theguardian.com/world/2023/mar/14/russia-ukraine-war-at-a-glance-what-we-know-on-day-384-of-the-invasion)
+- [North Korea escalates tensions with fresh ballistic missile tests](https://www.theguardian.com/world/2023/mar/14/north-korea-escalates-tensions-with-fresh-ballistic-missile-tests)
+- [Mitch McConnell released from hospital after treatment for concussion](https://www.theguardian.com/us-news/2023/mar/13/mitch-mcconnell-released-from-hospital-concussion)
+- [Two pedestrians dead and nine injured in Canada truck collision](https://www.theguardian.com/world/2023/mar/14/two-pedestrians-dead-and-nine-injured-in-canada-truck-collision)
+- [Prison thrown into chaos by policy change](https://www.theguardian.com/society/2023/mar/14/hmp-aylesbury-thrown-into-chaos-by-moj-policy-change-says-watchdog)
+- [UK aid to India does little for human rights and democracy, watchdog finds](https://www.theguardian.com/global-development/2023/mar/14/uk-aid-india-human-rights-democracy-watchdog)
+- [First stamps to bear King Charles’s silhouette to be released](https://www.theguardian.com/uk-news/2023/mar/14/first-stamps-to-bear-king-charless-silhouette-to-be-released)
+- [More than 1,500 UK police officers accused of violence against women in six months](https://www.theguardian.com/uk-news/2023/mar/14/more-than-1500-uk-police-officers-accused-of-violence-against-women-in-six-months)
+- [‘You can blame him’: Trump shifts responsibility for January 6 on Pence](https://www.theguardian.com/us-news/2023/mar/13/trump-pence-january-6-violence)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

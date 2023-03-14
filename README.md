@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Casper attack steals data using air-gapped computer&#39;s internal speaker](https://www.bleepingcomputer.com/news/security/casper-attack-steals-data-using-air-gapped-computers-internal-speaker/)
-- [ChatGPT powered Rust proc macro that generates code at compile-time](https://github.com/retrage/gpt-macro)
-- [Full-Reserve Banking](https://en.wikipedia.org/wiki/Full-reserve_banking)
-- [SVB’s Lobby Groups Fought Proposal to Bolster Deposit Insurance](https://www.levernews.com/svbs-lobby-groups-fought-proposal-to-bolster-deposit-insurance/)
-- [Ask HN: What has AI ruined for you?](https://news.ycombinator.com/item?id=35130091)
-- [Ask HN: Is it just me, or could file conversion websites be a honeypot?](https://news.ycombinator.com/item?id=35130045)
-- [USDC repegs to $1 after Fed announces FDIC will cover uninsured SVB deposits](https://cointelegraph.com/news/usdc-bounces-back-towards-1-peg-after-fed-announcement)
-- [Ask HN: What are the data compression characteristics of LLMs?](https://news.ycombinator.com/item?id=35130027)
-- [Britain’s Colin Kaepernick Moment: BBC Sparks Its Own Culture War Crisis](https://www.wsj.com/articles/britains-colin-kaepernick-moment-bbc-sparks-its-own-culture-war-crisis-fb41d43a)
-- [Daft: Python Distributed Dataframes for Complex Data](https://www.getdaft.io/index.html)
+- [Tim Cook overruled Apple design team’s request to delay XR headset](https://arstechnica.com/gadgets/2023/03/report-tim-cook-overruled-apple-design-teams-request-to-delay-xr-headset/)
+- [GPT Powered Chatbots](https://news.ycombinator.com/item?id=35146462)
+- [Dick Fosbury: The athlete who developed the &#39;Fosbury Flop&#39; dies aged 76](https://www.bbc.co.uk/sport/athletics/64945985)
+- [The Eddington-Chandrasekhar Confrontation](https://www.cantorsparadise.com/the-eddington-chandrasekhar-confrontation-e77516867fab?gi=52044bd55235)
+- [People wonder why clothing has changed so much](https://twitter.com/FromKulak/status/1635319287618609152)
+- [Meta Pulls the Plug on NFTs](https://web3isgoinggreat.com/?id=meta-pulls-the-plug-on-nfts)
+- [NixOS in Production: The NixOS handbook for professional use ONLY](https://leanpub.com/nixos-in-production)
+- [Iran and Belarus have agreed on a roadmap for comprehensive cooperation](https://twitter.com/infernoxhell/status/1635309711238266880)
+- [How Do We Achieve Sustainable Growth as an Open-Source Company](https://api7.ai/blog/api7-open-source-company-playbook)
+- [Etsy Sellers: Your deposit is on the way](https://news.ycombinator.com/item?id=35146407)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

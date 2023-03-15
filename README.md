@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [High-Throughput Generative Inference of Large Language Models with a Single GPU](https://arxiv.org/abs/2303.06865)
-- [Microsoft lays off an ethical AI team as it doubles down on OpenAI](https://techcrunch.com/2023/03/13/microsoft-lays-off-an-ethical-ai-team-as-it-doubles-down-on-openai/)
-- [Building a second income stream by writing a book](https://fatsoftwareengineer.substack.com/p/building-a-second-income-stream-by)
-- [Relationship Hero &lpar;YC S17&rpar; Is Hiring Sales Associates &lpar;Remote&rpar;](https://relationshiphero.com/careers?role=salesAssociate)
-- [Instagram Is Disabling Its NFT Features](https://nftnow.com/news/breaking-instagram-is-sunsetting-digital-collectibles-nfts/)
-- [Switching from C++ to Rust](https://laplab.me/posts/switching-from-cpp-to-rust/)
-- [Show HN: Counter – Simple and free web analytics](https://counter.dev/)
-- [LNER Peppercorn Class A1 60163 Tornado](https://en.wikipedia.org/wiki/LNER_Peppercorn_Class_A1_60163_Tornado)
-- [Experian is a pile of dark pattern garbage](https://blog.benton.io/post/711712394255138816/experian-is-a-pile-of-dark-pattern-garbage)
-- [Gitlab loses one-third of its value after company issues weak rev forecast](https://www.cnbc.com/2023/03/13/gitlab-gtlb-earnings-q4-2023.html)
+- [Two U.S. Men Charged in 2022 Hacking of DEA Portal](https://krebsonsecurity.com/2023/03/two-us-men-charged-in-2022-hacking-of-dea-portal/)
+- [Show HN: Whatdoesthiscodedo.com – AI explanations for other people’s code](https://whatdoesthiscodedo.com/)
+- [40% of the code GitHub Copilot users check-in is AI generated and unmodified](https://www.microsoft.com/en-us/Investor/events/FY-2023/Morgan-Stanley-TMT-Conference)
+- [Was there a tech-hiring bubble? Job postings data suggest so](https://fredblog.stlouisfed.org/2023/03/was-there-a-tech-hiring-bubble/)
+- [MIT 24-Hour Challenge](https://mit24hourchallenge.mightycause.com/story/Mit-Open-Learning)
+- [Google shows off what ChatGPT would be like in Gmail and Google Docs](https://arstechnica.com/gadgets/2023/03/google-shows-off-what-chatgpt-would-be-like-in-gmail-and-google-docs/)
+- [We can&amp;#x27;t all use AI. Someone has to generate the training data](https://twitter.com/paulg/status/1635672262903750662)
+- [OneSignal &lpar;YC S11&rpar; Is Hiring Engineers](https://onesignal.com/careers)
+- [My Startup Banking Story](https://mitchellh.com/writing/my-startup-banking-story)
+- [Vanilla Handbook](https://handbook.vanillaos.org/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

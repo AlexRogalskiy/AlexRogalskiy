@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Google previews generative AI features for Workspace users, developers](https://www.computerworld.com/article/3690341/google-previews-generative-ai-features-for-workspace-users-developers.html#tk.rss_all)
+- [OpenAI unveils GPT-4, a new foundation for ChatGPT](https://www.computerworld.com/article/3690323/openai-unveils-gpt-4-a-new-foundation-for-chatgpt.html#tk.rss_all)
+- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
+- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
+- [Meta cuts an additional 10,000 jobs from global workforce](https://www.computerworld.com/article/3690515/meta-cuts-an-additional-10-000-jobs-from-global-workforce.html#tk.rss_all)
+- [Apple&#39;s M3 chip is a bigger deal than you might think](https://www.computerworld.com/article/3690514/apples-m3-chip-is-a-bigger-deal-than-you-might-think.html#tk.rss_all)
+- [Generative AI isn&#39;t the answer to all your business needs](https://www.computerworld.com/article/3690273/generative-ai-isnt-the-answer-to-all-your-business-needs.html#tk.rss_all)
+- [With ChromeOS in 2023, Google&#39;s got its eye on the enterprise](https://www.computerworld.com/article/3690590/chromeos-2023-google-has-eye-on-enterprise.html#tk.rss_all)
 - [Government-backed digital money to represent $213B in payments by 2030](https://www.computerworld.com/article/3690593/government-backed-digital-money-to-represent-213b-in-payments-by-2030.html#tk.rss_all)
 - [Tech industry dodges a financial bullet after SVB crash](https://www.computerworld.com/article/3690322/tech-industry-dodges-a-financial-bullet-after-svb-crash.html#tk.rss_all)
-- [The ever-evolving software subscription model](https://www.computerworld.com/article/3690729/the-ever-evolving-software-subscription-model.html#tk.rss_all)
-- [Has Apple&#39;s Tim Cook put everything on the line for Apple Reality?](https://www.computerworld.com/article/3690321/has-apples-tim-cook-put-everything-on-the-line-for-apple-reality.html#tk.rss_all)
-- [Microsoft Forms cheat sheet: How to get started](https://www.computerworld.com/article/3687048/microsoft-forms-cheat-sheet-create-online-surveys-quizzes-forms.html#tk.rss_all)
-- [How many jobs are available in technology in the US?](https://www.computerworld.com/article/3542681/how-many-jobs-are-available-in-technology.html#tk.rss_all)
-- [ChatGPT now chatting via Azure OpenAI Service](https://www.infoworld.com/article/3690335/chatgpt-now-chatting-via-azure-openai-service.html#tk.rss_all)
-- [US-China chip war to hit affiliates of server maker Inspur](https://www.networkworld.com/article/3690591/us-china-chip-war-to-hit-affiliates-of-server-maker-inspur.html#tk.rss_all)
-- [Microsoft&#39;s tiny Word improvement is a big productivity boost](https://www.computerworld.com/article/3690611/microsofts-tiny-word-improvement-is-a-big-productivity-boost.html#tk.rss_all)
-- [Can’t hire? Can’t get hired? How to avoid the “Great Mismatch” trap!](https://www.computerworld.com/article/3689817/can-t-hire-can-t-get-hired-how-to-avoid-the-great-mismatch-trap.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

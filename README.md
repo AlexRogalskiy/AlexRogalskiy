@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Tim Cook overruled Apple design team’s request to delay XR headset](https://arstechnica.com/gadgets/2023/03/report-tim-cook-overruled-apple-design-teams-request-to-delay-xr-headset/)
-- [GPT Powered Chatbots](https://news.ycombinator.com/item?id=35146462)
-- [Dick Fosbury: The athlete who developed the &#39;Fosbury Flop&#39; dies aged 76](https://www.bbc.co.uk/sport/athletics/64945985)
-- [The Eddington-Chandrasekhar Confrontation](https://www.cantorsparadise.com/the-eddington-chandrasekhar-confrontation-e77516867fab?gi=52044bd55235)
-- [People wonder why clothing has changed so much](https://twitter.com/FromKulak/status/1635319287618609152)
-- [Meta Pulls the Plug on NFTs](https://web3isgoinggreat.com/?id=meta-pulls-the-plug-on-nfts)
-- [NixOS in Production: The NixOS handbook for professional use ONLY](https://leanpub.com/nixos-in-production)
-- [Iran and Belarus have agreed on a roadmap for comprehensive cooperation](https://twitter.com/infernoxhell/status/1635309711238266880)
-- [How Do We Achieve Sustainable Growth as an Open-Source Company](https://api7.ai/blog/api7-open-source-company-playbook)
-- [Etsy Sellers: Your deposit is on the way](https://news.ycombinator.com/item?id=35146407)
+- [AI Could Write Our Laws](https://www.schneier.com/blog/archives/2023/03/how-ai-could-write-our-laws.html)
+- [The Butlerian Jihad](https://en.wikipedia.org/wiki/Dune:_The_Butlerian_Jihad)
+- [Good Segfaulting Help with Node.js](https://httptoolkit.com/blog/how-to-debug-node-segfaults/)
+- [Show HN: GPT-4 makes Snake game using Replit](https://twitter.com/ammaar/status/1635754631228952576)
+- [Netfilter&#39;s Connection Tracking System &lpar;2006&rpar; [pdf]](https://people.netfilter.org/pablo/docs/login.pdf)
+- [OpenAI’s GPT-4 exhibits “human-level performance” on professional benchmarks](https://arstechnica.com/information-technology/2023/03/openai-announces-gpt-4-its-next-generation-ai-language-model/)
+- [Ask HN: How do you use to store your personal files long-term?](https://news.ycombinator.com/item?id=35162731)
+- [A Look at Bank Solvency](https://www.lynalden.com/march-2023-newsletter/)
+- [You can’t reach the brain through the ears](https://experimentalhistory.substack.com/p/you-cant-reach-the-brain-through)
+- [Text Rendering Hates You](https://faultlore.com/blah/text-hates-you/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

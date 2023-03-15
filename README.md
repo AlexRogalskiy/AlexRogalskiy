@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ruthless Chris Hipkins backpedals on climate action as New Zealand elections near | Henry Cooke](https://www.theguardian.com/world/commentisfree/2023/mar/14/ruthless-chris-hipkins-backpedals-on-climate-action-as-new-zealand-elections-near)
-- [Russia-Ukraine war at a glance: what we know on day 384 of the invasion](https://www.theguardian.com/world/2023/mar/14/russia-ukraine-war-at-a-glance-what-we-know-on-day-384-of-the-invasion)
-- [North Korea escalates tensions with fresh ballistic missile tests](https://www.theguardian.com/world/2023/mar/14/north-korea-escalates-tensions-with-fresh-ballistic-missile-tests)
-- [Mitch McConnell released from hospital after treatment for concussion](https://www.theguardian.com/us-news/2023/mar/13/mitch-mcconnell-released-from-hospital-concussion)
-- [Two pedestrians dead and nine injured in Canada truck collision](https://www.theguardian.com/world/2023/mar/14/two-pedestrians-dead-and-nine-injured-in-canada-truck-collision)
-- [Prison thrown into chaos by policy change](https://www.theguardian.com/society/2023/mar/14/hmp-aylesbury-thrown-into-chaos-by-moj-policy-change-says-watchdog)
-- [UK aid to India does little for human rights and democracy, watchdog finds](https://www.theguardian.com/global-development/2023/mar/14/uk-aid-india-human-rights-democracy-watchdog)
-- [First stamps to bear King Charles’s silhouette to be released](https://www.theguardian.com/uk-news/2023/mar/14/first-stamps-to-bear-king-charless-silhouette-to-be-released)
-- [More than 1,500 UK police officers accused of violence against women in six months](https://www.theguardian.com/uk-news/2023/mar/14/more-than-1500-uk-police-officers-accused-of-violence-against-women-in-six-months)
-- [‘You can blame him’: Trump shifts responsibility for January 6 on Pence](https://www.theguardian.com/us-news/2023/mar/13/trump-pence-january-6-violence)
+- [Cyclone Freddy death toll passes 200 as rescue workers warn more victims will be found](https://www.theguardian.com/world/2023/mar/15/cyclone-freddy-death-toll-passes-200-as-rescue-workers-warn-more-victims-will-be-found)
+- [Honduras to switch ties from Taiwan to China, says president](https://www.theguardian.com/world/2023/mar/15/honduras-to-switch-ties-from-taiwan-to-china-says-president)
+- [Miscalculation fears rise after Russian fighter jet collides with US drone over Black Sea](https://www.theguardian.com/us-news/2023/mar/14/russian-fighter-jet-collides-us-drone-black-sea-crash)
+- [Russia-Ukraine war at a glance: what we know on day 385 of the invasion](https://www.theguardian.com/world/2023/mar/15/russia-ukraine-war-at-a-glance-what-we-know-on-day-385-of-the-invasion)
+- [Cameron Norrie races past Andrey Rublev to reach Indian Wells quarters](https://www.theguardian.com/sport/2023/mar/15/tennis-indian-wells-draper-alcaraz-raducanu-swiatek-norrie-rublev-medvedev)
+- [Guys and Dolls review – Nicholas Hytner’s gamble pays off](https://www.theguardian.com/stage/2023/mar/15/guys-and-dolls-review-bridge-theatre-london-nicholas-hytner)
+- [Foreign Office asks for India torture claim to be heard in secret court](https://www.theguardian.com/politics/2023/mar/15/foreign-office-asks-for-india-torture-claim-to-be-heard-in-secret-court)
+- [UK homeowners still better off than renters despite spike in interest rates](https://www.theguardian.com/business/2023/mar/15/uk-homeowners-still-better-off-than-renters-despite-spike-in-interest-rates)
+- [George Ford eyes England chance against Ireland but Ollie Chessum out](https://www.theguardian.com/sport/2023/mar/14/ollie-chessum-ruled-out-of-england-six-nations-finale-against-ireland-rugby-union)
+- [Russian downing of US drone marks escalation of confrontation near war zone](https://www.theguardian.com/world/2023/mar/14/russia-downing-us-drone-ukraine-signalling-analysis)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

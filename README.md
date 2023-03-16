@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [India set to announce its first semiconductor fab](https://www.computerworld.com/article/3691030/india-set-to-announce-its-first-semiconductor-fab.html#tk.rss_all)
+- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
+- [Apple&#39;s Clean Energy Charging is the future of electronics](https://www.computerworld.com/article/3690908/apples-clean-energy-charging-is-the-future-of-electronics.html#tk.rss_all)
+- [New Tableau AI features and Slack integration aim for data accessibility](https://www.computerworld.com/article/3690339/new-tableau-ai-features-and-slack-integration-aim-for-data-accessibility.html#tk.rss_all)
+- [Feds to Microsoft: Clean up your security act — or else](https://www.computerworld.com/article/3690592/feds-to-microsoft-clean-up-your-security-act-or-else.html#tk.rss_all)
 - [Google previews generative AI features for Workspace users, developers](https://www.computerworld.com/article/3690341/google-previews-generative-ai-features-for-workspace-users-developers.html#tk.rss_all)
 - [OpenAI unveils GPT-4, a new foundation for ChatGPT](https://www.computerworld.com/article/3690323/openai-unveils-gpt-4-a-new-foundation-for-chatgpt.html#tk.rss_all)
 - [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
 - [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
 - [Meta cuts an additional 10,000 jobs from global workforce](https://www.computerworld.com/article/3690515/meta-cuts-an-additional-10-000-jobs-from-global-workforce.html#tk.rss_all)
-- [Apple&#39;s M3 chip is a bigger deal than you might think](https://www.computerworld.com/article/3690514/apples-m3-chip-is-a-bigger-deal-than-you-might-think.html#tk.rss_all)
-- [Generative AI isn&#39;t the answer to all your business needs](https://www.computerworld.com/article/3690273/generative-ai-isnt-the-answer-to-all-your-business-needs.html#tk.rss_all)
-- [With ChromeOS in 2023, Google&#39;s got its eye on the enterprise](https://www.computerworld.com/article/3690590/chromeos-2023-google-has-eye-on-enterprise.html#tk.rss_all)
-- [Government-backed digital money to represent $213B in payments by 2030](https://www.computerworld.com/article/3690593/government-backed-digital-money-to-represent-213b-in-payments-by-2030.html#tk.rss_all)
-- [Tech industry dodges a financial bullet after SVB crash](https://www.computerworld.com/article/3690322/tech-industry-dodges-a-financial-bullet-after-svb-crash.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

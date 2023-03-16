@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Two U.S. Men Charged in 2022 Hacking of DEA Portal](https://krebsonsecurity.com/2023/03/two-us-men-charged-in-2022-hacking-of-dea-portal/)
-- [Show HN: Whatdoesthiscodedo.com – AI explanations for other people’s code](https://whatdoesthiscodedo.com/)
-- [40% of the code GitHub Copilot users check-in is AI generated and unmodified](https://www.microsoft.com/en-us/Investor/events/FY-2023/Morgan-Stanley-TMT-Conference)
-- [Was there a tech-hiring bubble? Job postings data suggest so](https://fredblog.stlouisfed.org/2023/03/was-there-a-tech-hiring-bubble/)
-- [MIT 24-Hour Challenge](https://mit24hourchallenge.mightycause.com/story/Mit-Open-Learning)
-- [Google shows off what ChatGPT would be like in Gmail and Google Docs](https://arstechnica.com/gadgets/2023/03/google-shows-off-what-chatgpt-would-be-like-in-gmail-and-google-docs/)
-- [We can&amp;#x27;t all use AI. Someone has to generate the training data](https://twitter.com/paulg/status/1635672262903750662)
-- [OneSignal &lpar;YC S11&rpar; Is Hiring Engineers](https://onesignal.com/careers)
-- [My Startup Banking Story](https://mitchellh.com/writing/my-startup-banking-story)
-- [Vanilla Handbook](https://handbook.vanillaos.org/)
+- [Apple suffers unprecedented exec losses, slashes bonuses, and freezes hiring](https://www.imore.com/apple/apple-suffers-unprecedented-exec-losses-slashes-bonuses-and-freezes-hiring)
+- [How Did Dennis Ritchie Produce His PhD Thesis? [pdf]](https://www.cs.princeton.edu/~bwk/dmr/doceng22.pdf)
+- [&amp;#x27;We conclude&amp;#x27; or &amp;#x27;I believe&amp;#x27;? Rationality declined decades ago](https://www.eurekalert.org/news-releases/940009)
+- [BlindAI API: An open-source and privacy-first OpenAI alternative](https://www.mithrilsecurity.io/blindai-api)
+- [&amp;#x27;Financial Times&amp;#x27; Issues 103-Year-Old Correction &lpar;2017&rpar;](https://www.npr.org/sections/thetwo-way/2017/08/08/542238978/-financial-times-issues-103-year-old-correction)
+- [Fireball Spotted over Northeastern USA](https://ams.imo.net/members/imo_view/event/2023/1529)
+- [Emulating Pokemon Emerald on GPT-4](https://twitter.com/dandangond/status/1636063902688526339)
+- [Stripe announces new round of funding and plan to provide employee liquidity](https://stripe.com/newsroom/news/stripe-series-i-employee-liquidity)
+- [PyTorch 2.0](https://pytorch.org/blog/pytorch-2.0-release/)
+- [Fly.io Status – Consul cluster outage](https://status.flyio.net/incidents/sq7fsdlrg92f)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

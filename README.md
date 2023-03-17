@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Anatomy of a Cheap USB to Ethernet Adapter &lpar;2013&rpar;](https://www.projectgus.com/2013/03/anatomy-of-a-cheap-usb-ethernet-adapter)
-- [Why Barney Frank Went to Work for Signature Bank](https://www.newyorker.com/news/q-and-a/why-barney-frank-went-to-work-for-signature-bank)
-- [Credit Suisse borrows more than $50B from Swiss National Bank](https://www.cnn.com/2023/03/15/investing/credit-suisse-shares-saudi-national-bank/index.html)
-- [How to release features to different customers in both SaaS and self-hosted](https://news.ycombinator.com/item?id=35177515)
-- [Samsung explains its &#39;fake&#39; Moon photos](https://www.engadget.com/samsung-explains-its-fake-moon-photos-170233896.html)
-- [Traute Lafrenz, the last of the White Rose anti-Nazi resistance, dies aged 103](https://www.theguardian.com/world/2023/mar/09/traute-lafrenz-the-last-of-the-white-rose-anti-nazi-resistance-dies-aged-103)
-- [Ask HN: Gpt4 Terrible at Tabular Data?](https://news.ycombinator.com/item?id=35177451)
-- [I got into YC after applying six times &lpar;2013&rpar;](http://iamwil.posterous.com/i-got-into-yc-after-applying-six-times-heres/)
-- [Ask HN: What low key ways are you earning a little side income?](https://news.ycombinator.com/item?id=35177431)
-- [Double Vision: A snapshot of several gazes](https://www.laphamsquarterly.org/roundtable/double-vision)
+- [British passport officers to take five weeks of strike action](https://www.reuters.com/world/uk/british-passport-officers-take-five-weeks-strike-action-2023-03-17/)
+- [YouTube allows advertisers to hijack videos without uploader&#39;s consent for ads](https://www.youtube.com/watch?v=rpc8eiGEU7E)
+- [gptwc: wc for GPT Tokens](https://github.com/lwneal/gptwc)
+- [Heavenly Bodies](https://thebaffler.com/latest/heavenly-bodies-church)
+- [Never Rewrite, a Podcast Devoted to Software Evolution](https://www.neverrewrite.com)
+- [Derivation and intuition behind the quadratic formula](https://misha.brukman.net/blog/2022/05/quadratic-formula/)
+- [OpenAI: GPT-4 Technical Report](https://arxiv.org/abs/2303.08774)
+- [Stability AI](https://stability.ai)
+- [SVB Hall of Shame](https://svbhallofshame.wordpress.com/)
+- [From farm to factory: the unstoppable rise of American chicken &lpar;2020&rpar;](https://www.theguardian.com/environment/2020/aug/17/from-farm-to-factory-the-unstoppable-rise-of-american-chicken)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

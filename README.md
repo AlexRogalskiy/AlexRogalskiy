@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Google kills Glass Enterprise, but big tech&#39;s AR dreams live on](https://www.computerworld.com/article/3691288/google-kills-glass-enterprise-but-big-techs-ar-dreams-live-on.html#tk.rss_all)
+- [Microsoft: 365 Copilot chatbot is the AI-based future of work](https://www.computerworld.com/article/3691109/microsoft-365-copilot-chatbot-is-the-ai-based-future-of-work.html#tk.rss_all)
+- [Will Apple switch the iPhone to eSIM-only everywhere by ’24?](https://www.computerworld.com/article/3691228/will-apple-switch-the-iphone-to-esim-only-everywhere-by-24.html#tk.rss_all)
+- [Frontline worker apps on the rise](https://www.computerworld.com/article/3690412/frontline-worker-apps-on-the-rise.html#tk.rss_all)
+- [India-US chip partnership could boost global chip supply chain](https://www.computerworld.com/article/3691108/india-us-chip-partnership-could-boost-global-chip-supply-chain.html#tk.rss_all)
 - [India set to announce its first semiconductor fab](https://www.computerworld.com/article/3691030/india-set-to-announce-its-first-semiconductor-fab.html#tk.rss_all)
 - [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
 - [Apple&#39;s Clean Energy Charging is the future of electronics](https://www.computerworld.com/article/3690908/apples-clean-energy-charging-is-the-future-of-electronics.html#tk.rss_all)
 - [New Tableau AI features and Slack integration aim for data accessibility](https://www.computerworld.com/article/3690339/new-tableau-ai-features-and-slack-integration-aim-for-data-accessibility.html#tk.rss_all)
 - [Feds to Microsoft: Clean up your security act — or else](https://www.computerworld.com/article/3690592/feds-to-microsoft-clean-up-your-security-act-or-else.html#tk.rss_all)
-- [Google previews generative AI features for Workspace users, developers](https://www.computerworld.com/article/3690341/google-previews-generative-ai-features-for-workspace-users-developers.html#tk.rss_all)
-- [OpenAI unveils GPT-4, a new foundation for ChatGPT](https://www.computerworld.com/article/3690323/openai-unveils-gpt-4-a-new-foundation-for-chatgpt.html#tk.rss_all)
-- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
-- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
-- [Meta cuts an additional 10,000 jobs from global workforce](https://www.computerworld.com/article/3690515/meta-cuts-an-additional-10-000-jobs-from-global-workforce.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

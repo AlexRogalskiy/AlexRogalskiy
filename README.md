@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [British passport officers to take five weeks of strike action](https://www.reuters.com/world/uk/british-passport-officers-take-five-weeks-strike-action-2023-03-17/)
-- [YouTube allows advertisers to hijack videos without uploader&#39;s consent for ads](https://www.youtube.com/watch?v=rpc8eiGEU7E)
-- [gptwc: wc for GPT Tokens](https://github.com/lwneal/gptwc)
-- [Heavenly Bodies](https://thebaffler.com/latest/heavenly-bodies-church)
-- [Never Rewrite, a Podcast Devoted to Software Evolution](https://www.neverrewrite.com)
-- [Derivation and intuition behind the quadratic formula](https://misha.brukman.net/blog/2022/05/quadratic-formula/)
-- [OpenAI: GPT-4 Technical Report](https://arxiv.org/abs/2303.08774)
-- [Stability AI](https://stability.ai)
-- [SVB Hall of Shame](https://svbhallofshame.wordpress.com/)
-- [From farm to factory: the unstoppable rise of American chicken &lpar;2020&rpar;](https://www.theguardian.com/environment/2020/aug/17/from-farm-to-factory-the-unstoppable-rise-of-american-chicken)
+- [GPT-4 is Computer Vision on Steroids](https://imgur.com/a/odGAoBV)
+- [Effect of 1 Week of Sleep Restriction on Testosterone Levels](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4445839/)
+- [The missing Clojure re-frame quick start &lpar;with tutorial&rpar;](https://www.scotto.me/blog/re-frame-quickstart/)
+- [Eight Graphs That Explain Software Engineering Salaries in 2023](https://spectrum.ieee.org/software-salaries-2023)
+- [Ask HN: Startup founders, how will your banking practices change after SVB?](https://news.ycombinator.com/item?id=35205327)
+- [Lamdera – platform for full-stack web apps in Elm](https://lamdera.com/)
+- [Semantic Kernel - Integrate cutting-edge LLM technology into your apps](https://github.com/microsoft/semantic-kernel)
+- [Pornhub owner sold to Canadian private equity firm Ethical Capital](https://www.ft.com/content/69c3295e-6f45-4b5f-8e7b-3b8d56ca46c8)
+- [Startups Asked for Help Making Payroll After SVB. VC Responses Were Mixed](https://www.forbes.com/sites/alexkonrad/2023/03/17/startups-payroll-svb-vc-response/)
+- [Procedurally Created Reality Using Generative AI](https://www.kennybastani.com/2023/03/procedurally-created-reality-using.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

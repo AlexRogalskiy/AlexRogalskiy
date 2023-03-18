@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Iga Swiatek sets up semi-final against Elena Rybakina at Indian Wells](https://www.theguardian.com/sport/2023/mar/17/tennis-indian-wells-quarter-finals-swiatek-alcaraz)
-- [Cash-strapped banks have borrowed $300bn from the Fed this past week](https://www.theguardian.com/business/2023/mar/16/cash-strapped-banks-have-borrowed-300bn-from-the-fed-this-past-week)
-- [Should I confront my toxic friend about her bad behaviour? It’ll cause discomfort within the group | Leading questions](https://www.theguardian.com/lifeandstyle/2023/mar/17/should-i-confront-my-toxic-friend-about-her-bad-behaviour-itll-cause-discomfort-within-the-group)
-- [Russia-Ukraine war at a glance: what we know on day 387 of the invasion](https://www.theguardian.com/world/2023/mar/17/russia-ukraine-war-at-a-glance-what-we-know-on-day-387-of-the-invasion)
-- [The TikTok wars – why the US and China are feuding over the app](https://www.theguardian.com/technology/2023/mar/16/the-tiktok-wars-why-the-us-and-china-are-feuding-over-the-app)
-- [New Zealand to ban TikTok from government devices](https://www.theguardian.com/world/2023/mar/17/new-zealand-to-ban-tiktok-from-government-devices)
-- [Dominic Raab to push for tougher minimum sentence in domestic homicides](https://www.theguardian.com/law/2023/mar/17/dominic-raab-to-push-for-tougher-minimum-sentence-in-domestic-homicides)
-- [Visitors to the UK’s leading attractions down 25% on pre-Covid numbers](https://www.theguardian.com/culture/2023/mar/17/visitors-to-the-uks-leading-attractions-down-25-on-pre-covid-numbers)
-- [Ukrainian refugees struggling to find accommodation after leaving UK sponsors](https://www.theguardian.com/world/2023/mar/17/ukrainian-refugees-struggling-to-find-accommodation-after-leaving-uk-sponsors)
-- [Royal Mail CEO accused of ‘incompetence or cluelessness’ by MPs](https://www.theguardian.com/business/2023/mar/17/royal-mail-ceo-simon-thompson-accused-of-incompetence-cluelessness-by-mps-ofcom-letter-deliveries)
+- [Russia-Ukraine war at a glance: what we know on day 388 of the invasion](https://www.theguardian.com/world/2023/mar/18/russia-ukraine-war-at-a-glance-what-we-know-on-day-388-of-the-invasion)
+- [Fairleigh Dickinson stun Purdue in one of NCAA tournament’s greatest upsets](https://www.theguardian.com/sport/2023/mar/17/fairleigh-dickinson-purdue-upset-ncaa-tournament-march-madness)
+- [Braverman criticised for shutting out Guardian and BBC from Rwanda trip](https://www.theguardian.com/politics/2023/mar/18/braverman-criticised-for-shutting-out-guardian-and-bbc-from-rwanda-trip)
+- [Lucas Leiva retires from football at age of 36 due to heart condition](https://www.theguardian.com/football/2023/mar/18/lucas-leiva-retires-heart-condition-liverpool-lazio-brazil)
+- [Crystal Palace approach Roy Hodgson over return after Patrick Vieira sacked](https://www.theguardian.com/football/2023/mar/17/crystal-palace-sack-patrick-vieira-as-manager)
+- [Digested week: Hugh Grant plays the prat instead of the dumb Oscars game](https://www.theguardian.com/uk-news/2023/mar/17/digested-week-hugh-grant-plays-the-prat-instead-of-the-dumb-oscars-game)
+- [London Bridge heroes among 15 honoured in Queen’s last bravery awards](https://www.theguardian.com/uk-news/2023/mar/17/fifteen-britons-risked-lives-for-others-recognised-bravery)
+- [UBS in talks to take over all or part of Credit Suisse as share prices fall – report](https://www.theguardian.com/business/2023/mar/17/credit-suisse-takeover-ubs-share-price-drop)
+- [SNP head of communications resigns after denying fall in membership figures](https://www.theguardian.com/politics/2023/mar/17/snp-head-of-communications-resigns-amid-row-over-membership-figures)
+- [Isak’s late penalty secures Newcastle’s comeback win over Nottingham Forest](https://www.theguardian.com/football/2023/mar/17/nottingham-forest-newcastle-premier-league-match-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

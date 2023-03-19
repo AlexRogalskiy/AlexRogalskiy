@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war at a glance: what we know on day 388 of the invasion](https://www.theguardian.com/world/2023/mar/18/russia-ukraine-war-at-a-glance-what-we-know-on-day-388-of-the-invasion)
-- [Fairleigh Dickinson stun Purdue in one of NCAA tournament’s greatest upsets](https://www.theguardian.com/sport/2023/mar/17/fairleigh-dickinson-purdue-upset-ncaa-tournament-march-madness)
-- [Braverman criticised for shutting out Guardian and BBC from Rwanda trip](https://www.theguardian.com/politics/2023/mar/18/braverman-criticised-for-shutting-out-guardian-and-bbc-from-rwanda-trip)
-- [Lucas Leiva retires from football at age of 36 due to heart condition](https://www.theguardian.com/football/2023/mar/18/lucas-leiva-retires-heart-condition-liverpool-lazio-brazil)
-- [Crystal Palace approach Roy Hodgson over return after Patrick Vieira sacked](https://www.theguardian.com/football/2023/mar/17/crystal-palace-sack-patrick-vieira-as-manager)
-- [Digested week: Hugh Grant plays the prat instead of the dumb Oscars game](https://www.theguardian.com/uk-news/2023/mar/17/digested-week-hugh-grant-plays-the-prat-instead-of-the-dumb-oscars-game)
-- [London Bridge heroes among 15 honoured in Queen’s last bravery awards](https://www.theguardian.com/uk-news/2023/mar/17/fifteen-britons-risked-lives-for-others-recognised-bravery)
-- [UBS in talks to take over all or part of Credit Suisse as share prices fall – report](https://www.theguardian.com/business/2023/mar/17/credit-suisse-takeover-ubs-share-price-drop)
-- [SNP head of communications resigns after denying fall in membership figures](https://www.theguardian.com/politics/2023/mar/17/snp-head-of-communications-resigns-amid-row-over-membership-figures)
-- [Isak’s late penalty secures Newcastle’s comeback win over Nottingham Forest](https://www.theguardian.com/football/2023/mar/17/nottingham-forest-newcastle-premier-league-match-report)
+- [USA v Venezuela: World Baseball Classic quarter-finals – live!](https://www.theguardian.com/sport/live/2023/mar/18/united-states-v-venezuela-world-baseball-classic-quarter-finals-live)
+- [At least 15 dead after strong earthquake hits Ecuador and northern Peru](https://www.theguardian.com/world/2023/mar/18/deaths-reported-after-strong-earthquake-50-miles-south-of-ecuadors-second-city)
+- [Australia has ‘absolutely not’ committed to join US in event of war over Taiwan, Marles says](https://www.theguardian.com/world/2023/mar/19/australia-has-absolutely-not-committed-to-join-us-in-event-of-war-over-taiwan-marles-says)
+- [Russia-Ukraine war at a glance: what we know on day 389 of the invasion](https://www.theguardian.com/world/2023/mar/19/russia-ukraine-war-at-a-glance-what-we-know-on-day-389-of-the-invasion)
+- [Trump allies and rivals rally to his defence after he claims arrest is imminent](https://www.theguardian.com/us-news/2023/mar/19/trump-allies-and-rivals-rally-to-his-defence-after-he-claims-arrest-is-imminent)
+- [Interest rate rises in doubt as fear of new global crisis rattles central banks](https://www.theguardian.com/business/2023/mar/19/interest-rate-rises-in-doubt-as-fear-of-new-global-crisis-rattles-central-banks)
+- [Fresh appeal to find missing 15-year-old girl last seen in Glasgow](https://www.theguardian.com/uk-news/2023/mar/18/fresh-appeal-to-find-missing-15-year-old-girl-last-seen-in-glasgow)
+- [Spring loaded: 10 trends to update your menswear wardrobe now – in pictures](https://www.theguardian.com/fashion/gallery/2023/mar/18/spring-loaded-10-trends-to-update-your-menswear-wardrobe-now-in-pictures)
+- [BBC chair Richard Sharp ‘helped friend get paid job’ advising corporation](https://www.theguardian.com/media/2023/mar/18/bbc-chair-richard-sharp-helped-friend-to-paid-job-advising-corporation)
+- [Daniil Medvedev surges into Indian Wells final after beating Frances Tiafoe](https://www.theguardian.com/sport/2023/mar/18/daniil-medvedev-surges-into-indian-wells-final-after-beating-frances-tiafoe-tennis)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

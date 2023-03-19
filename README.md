@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [RIP Frank Drake - pioneered SETI experiments detecting radio signals from stars](https://setiathome.berkeley.edu/forum_thread.php?id=85927)
-- [SETI@home Is in Hibernation](https://setiathome.berkeley.edu/)
-- [The Time I Hacked Google’s Manual Actions Database](https://www.tomanthony.co.uk/blog/googles-manual-actions-hack/)
-- [The U.S. military is missing six nuclear weapons &lpar;2021&rpar;](https://nationalinterest.org/blog/reboot/us-military-missing-six-nuclear-weapons-180032)
-- [UBS in talks to acquire Credit Suisse](https://www.ft.com/content/17892f24-4ca0-417f-9093-289b019a0852)
-- [Deep Dive into ZGC: A Modern Garbage Collector in OpenJDK [pdf]](https://dl.acm.org/doi/pdf/10.1145/3538532)
-- [PostgreSQL Logical Replication Explained](https://www.postgresql.fastware.com/blog/inside-logical-replication-in-postgresql)
-- [The LLM Problem](https://www.tbray.org/ongoing/When/202x/2023/03/14/Binging)
-- [Minimum Viable Finance: The Guide for Seed&amp;#x2F;Series A Startups](https://www.causal.app/blog/the-ultimate-guide-to-finance-for-seed-series-a-companies)
-- [Godot Arrives in the Epic Games Store](https://godotengine.org/article/godot-arrives-in-the-epic-games-store/)
+- [Ask HN: I&amp;#x27;m feeling awe, unsettled and disoriented by GPT-4. How about you?](https://news.ycombinator.com/item?id=35214985)
+- [Students of BloomTech, FKA Lambda School, file class-action lawsuit](https://www.businessinsider.com/lambda-school-bloomtech-class-action-lawsuit-2023-3)
+- [Show HN: I want to change how people buy health supplements](https://www.backoflabel.com/)
+- [UK backs Rolls-Royce project to build a nuclear reactor on the moon](https://www.cnbc.com/2023/03/17/uk-backs-rolls-royce-project-to-build-a-nuclear-reactor-on-the-moon.html)
+- [Firefox 66 to block automatically playing audible video and audio &lpar;2019&rpar;](https://hacks.mozilla.org/2019/02/firefox-66-to-block-automatically-playing-audible-video-and-audio/)
+- [Build Your Own Redis with C&amp;#x2F;C++](https://build-your-own.org/redis/)
+- [JPEG-XL vs. AVIF and Others: 27 Images Compared](https://giannirosato.com/blog/post/image-comparison/)
+- [LLVM 16.0.0 Release](https://discourse.llvm.org/t/llvm-16-0-0-release/69326)
+- [Show HN: Easy-to-use licensing library for .NET apps](https://github.com/SNBSLibs/Licensing.ActivationKeys)
+- [Zero one infinity rule](https://en.wikipedia.org/wiki/Zero_one_infinity_rule)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

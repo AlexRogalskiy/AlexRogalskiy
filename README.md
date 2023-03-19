@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [GPT-4 is Computer Vision on Steroids](https://imgur.com/a/odGAoBV)
-- [Effect of 1 Week of Sleep Restriction on Testosterone Levels](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4445839/)
-- [The missing Clojure re-frame quick start &lpar;with tutorial&rpar;](https://www.scotto.me/blog/re-frame-quickstart/)
-- [Eight Graphs That Explain Software Engineering Salaries in 2023](https://spectrum.ieee.org/software-salaries-2023)
-- [Ask HN: Startup founders, how will your banking practices change after SVB?](https://news.ycombinator.com/item?id=35205327)
-- [Lamdera – platform for full-stack web apps in Elm](https://lamdera.com/)
-- [Semantic Kernel - Integrate cutting-edge LLM technology into your apps](https://github.com/microsoft/semantic-kernel)
-- [Pornhub owner sold to Canadian private equity firm Ethical Capital](https://www.ft.com/content/69c3295e-6f45-4b5f-8e7b-3b8d56ca46c8)
-- [Startups Asked for Help Making Payroll After SVB. VC Responses Were Mixed](https://www.forbes.com/sites/alexkonrad/2023/03/17/startups-payroll-svb-vc-response/)
-- [Procedurally Created Reality Using Generative AI](https://www.kennybastani.com/2023/03/procedurally-created-reality-using.html)
+- [Learn Who We Have to Thank for the Term Work-Life Balance](https://spectrum.ieee.org/learn-who-we-have-to-thank-for-the-term-worklife-balance)
+- [San Diego Proposes Ordinance to Ban Homeless Tents on Public Property](https://californiaglobe.com/articles/san-diego-proposes-ordinance-to-ban-homeless-tents-on-public-property/)
+- [The psychology of systemic consensus &lpar;2018&rpar;](https://www.goldmoney.com/research/the-psychology-of-systemic-consensus)
+- [Ask HN: Why use an ORM?](https://news.ycombinator.com/item?id=35215355)
+- [Show HN: Python Bindings for llama.cpp with some CLIs](https://github.com/thomasantony/llamacpp-python)
+- [Google Security Blog: Hardening Firmware Across the Android Ecosystem](https://security.googleblog.com/2023/02/hardening-firmware-across-android.html)
+- [Glaze: Protecting artists from A.I. style mimicry](http://glaze.cs.uchicago.edu/index.html)
+- [Fosscord](https://github.com/fosscord/fosscord)
+- [‘Forever Chemicals’ Deserve Far More EPA Scrutiny](https://www.bloomberg.com/opinion/articles/2023-03-18/pfas-are-everywhere-the-epa-must-be-more-aggressive)
+- [Japan&#39;s population crisis: This community’s quarter century without a newborn](https://www.theguardian.com/environment/2023/mar/18/pigs-and-ponies-join-uks-wild-bison-to-recreate-prehistoric-landscape)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

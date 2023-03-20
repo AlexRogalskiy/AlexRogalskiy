@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Ask HN: I&amp;#x27;m feeling awe, unsettled and disoriented by GPT-4. How about you?](https://news.ycombinator.com/item?id=35214985)
-- [Students of BloomTech, FKA Lambda School, file class-action lawsuit](https://www.businessinsider.com/lambda-school-bloomtech-class-action-lawsuit-2023-3)
-- [Show HN: I want to change how people buy health supplements](https://www.backoflabel.com/)
-- [UK backs Rolls-Royce project to build a nuclear reactor on the moon](https://www.cnbc.com/2023/03/17/uk-backs-rolls-royce-project-to-build-a-nuclear-reactor-on-the-moon.html)
-- [Firefox 66 to block automatically playing audible video and audio &lpar;2019&rpar;](https://hacks.mozilla.org/2019/02/firefox-66-to-block-automatically-playing-audible-video-and-audio/)
-- [Build Your Own Redis with C&amp;#x2F;C++](https://build-your-own.org/redis/)
-- [JPEG-XL vs. AVIF and Others: 27 Images Compared](https://giannirosato.com/blog/post/image-comparison/)
-- [LLVM 16.0.0 Release](https://discourse.llvm.org/t/llvm-16-0-0-release/69326)
-- [Show HN: Easy-to-use licensing library for .NET apps](https://github.com/SNBSLibs/Licensing.ActivationKeys)
-- [Zero one infinity rule](https://en.wikipedia.org/wiki/Zero_one_infinity_rule)
+- [Twenty-Five Years of Curl](https://daniel.haxx.se/blog/2023/03/20/twenty-five-years-of-curl/)
+- [Oakland&amp;#x27;s Non-Profit Video Game Museum Is Back, and Thriving](https://sfstandard.com/arts-culture/fly-spaceships-battle-aliens-and-drive-a-crazy-taxi-at-this-oakland-museum/)
+- [Blockbuster Video&amp;#x27;s Website Is Suddenly Active Again](https://comicbook.com/movies/news/blockbuster-videos-website-is-suddenly-active-again/)
+- [Pentagon study reveals higher cancer rates for military pilots, ground crews](https://www.axios.com/2023/03/19/pentagon-study-higher-cancer-rates-military-pilots-ground-crews)
+- [Federal Reserve lent $300B in emergency funds to banks in the past week](https://www.pbs.org/newshour/economy/federal-reserve-lent-300-billion-in-emergency-funds-to-banks-in-the-past-week)
+- [Gallery of Minimal Design Websites](https://minimal.gallery/)
+- [Banshees of Inisherin: The Game](https://bansheesthegame.com/)
+- [Brown Widows Are Winning the Fight for Your Attic and Garage](https://www.nytimes.com/2023/03/13/science/brown-widows-black-widows.html)
+- [Anti-recruiter prompt injection attack in LinkedIn profile](https://twitter.com/brdskggs/status/1637114268876144640)
+- [BNF Was Here: What Have We Done About the Unnecessary Notation Diversity &lpar;2011&rpar; [pdf]](https://www.grammarware.net/text/2012/bnf-was-here.pdf)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

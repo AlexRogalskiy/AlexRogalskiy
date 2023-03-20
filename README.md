@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Learn Who We Have to Thank for the Term Work-Life Balance](https://spectrum.ieee.org/learn-who-we-have-to-thank-for-the-term-worklife-balance)
-- [San Diego Proposes Ordinance to Ban Homeless Tents on Public Property](https://californiaglobe.com/articles/san-diego-proposes-ordinance-to-ban-homeless-tents-on-public-property/)
-- [The psychology of systemic consensus &lpar;2018&rpar;](https://www.goldmoney.com/research/the-psychology-of-systemic-consensus)
-- [Ask HN: Why use an ORM?](https://news.ycombinator.com/item?id=35215355)
-- [Show HN: Python Bindings for llama.cpp with some CLIs](https://github.com/thomasantony/llamacpp-python)
-- [Google Security Blog: Hardening Firmware Across the Android Ecosystem](https://security.googleblog.com/2023/02/hardening-firmware-across-android.html)
-- [Glaze: Protecting artists from A.I. style mimicry](http://glaze.cs.uchicago.edu/index.html)
-- [Fosscord](https://github.com/fosscord/fosscord)
-- [‘Forever Chemicals’ Deserve Far More EPA Scrutiny](https://www.bloomberg.com/opinion/articles/2023-03-18/pfas-are-everywhere-the-epa-must-be-more-aggressive)
-- [Japan&#39;s population crisis: This community’s quarter century without a newborn](https://www.theguardian.com/environment/2023/mar/18/pigs-and-ponies-join-uks-wild-bison-to-recreate-prehistoric-landscape)
+- [VRoid Studio](https://vroid.com/en/studio)
+- [Ask HN: Alternatives to Chat GPT for writing code](https://news.ycombinator.com/item?id=35226569)
+- [America’s Skepticism Toward the First Automobiles](https://www.saturdayeveningpost.com/2017/01/get-horse-americas-skepticism-toward-first-automobiles/)
+- [Show HN: What I&#39;ve learned from my users after talking to them?](https://gemoo.com/blog/lessons-my-users-have-taught-me.htm)
+- [Show HN: Asking Bing Chat for a question machines cannot answer](https://news.ycombinator.com/item?id=35226513)
+- [Services](https://www.tiekoetter.com/en/services/)
+- [Government Hasn&#39;t Justified a TikTok Ban](https://www.eff.org/deeplinks/2023/03/government-hasnt-justified-tiktok-ban)
+- [Announce HN: PitchArchitect: AI-built and guided startup pitch decks](https://pitcharchitect.app/?hn)
+- [Bot for participating in cookie-based raffles on SteamGift](https://github.com/PalmaLuv/SteamGiftBot)
+- [Code That Writes Code](https://github.com/chutcheson/Ouroboros)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [USA v Venezuela: World Baseball Classic quarter-finals – live!](https://www.theguardian.com/sport/live/2023/mar/18/united-states-v-venezuela-world-baseball-classic-quarter-finals-live)
-- [At least 15 dead after strong earthquake hits Ecuador and northern Peru](https://www.theguardian.com/world/2023/mar/18/deaths-reported-after-strong-earthquake-50-miles-south-of-ecuadors-second-city)
-- [Australia has ‘absolutely not’ committed to join US in event of war over Taiwan, Marles says](https://www.theguardian.com/world/2023/mar/19/australia-has-absolutely-not-committed-to-join-us-in-event-of-war-over-taiwan-marles-says)
-- [Russia-Ukraine war at a glance: what we know on day 389 of the invasion](https://www.theguardian.com/world/2023/mar/19/russia-ukraine-war-at-a-glance-what-we-know-on-day-389-of-the-invasion)
-- [Trump allies and rivals rally to his defence after he claims arrest is imminent](https://www.theguardian.com/us-news/2023/mar/19/trump-allies-and-rivals-rally-to-his-defence-after-he-claims-arrest-is-imminent)
-- [Interest rate rises in doubt as fear of new global crisis rattles central banks](https://www.theguardian.com/business/2023/mar/19/interest-rate-rises-in-doubt-as-fear-of-new-global-crisis-rattles-central-banks)
-- [Fresh appeal to find missing 15-year-old girl last seen in Glasgow](https://www.theguardian.com/uk-news/2023/mar/18/fresh-appeal-to-find-missing-15-year-old-girl-last-seen-in-glasgow)
-- [Spring loaded: 10 trends to update your menswear wardrobe now – in pictures](https://www.theguardian.com/fashion/gallery/2023/mar/18/spring-loaded-10-trends-to-update-your-menswear-wardrobe-now-in-pictures)
-- [BBC chair Richard Sharp ‘helped friend get paid job’ advising corporation](https://www.theguardian.com/media/2023/mar/18/bbc-chair-richard-sharp-helped-friend-to-paid-job-advising-corporation)
-- [Daniil Medvedev surges into Indian Wells final after beating Frances Tiafoe](https://www.theguardian.com/sport/2023/mar/18/daniil-medvedev-surges-into-indian-wells-final-after-beating-frances-tiafoe-tennis)
+- [Carlos Alcaraz regains No 1 ranking with rout of Daniil Medvedev in Indian Wells final](https://www.theguardian.com/sport/2023/mar/19/elena-rybakina-confirms-rise-by-beating-aryna-sabalenka-to-win-indian-wells)
+- [‘Good old friend’: Putin offers praise for Xi ahead of first trip to Russia since Ukraine invasion](https://www.theguardian.com/world/2023/mar/20/xi-set-to-visit-russia-in-trip-that-will-reaffirm-ties-with-putin-china)
+- [You could cook while on the toilet: a night in one of Tokyo’s micro-apartments](https://www.theguardian.com/world/2023/mar/20/you-could-cook-while-on-the-toilet-a-night-in-one-of-tokyos-micro-apartments)
+- [UK house prices defy gloom with an average £3,000 rise](https://www.theguardian.com/money/2023/mar/20/uk-house-prices-defy-gloom-with-an-average-3000-rise)
+- [Covid has not affected people’s happiness around world, study reveals](https://www.theguardian.com/world/2023/mar/20/covid-not-affected-happiness-around-world-study)
+- [Lana Del Rey: Did You Know That There’s a Tunnel Under Ocean Blvd review – arresting introspection](https://www.theguardian.com/music/2023/mar/20/lana-del-rey-did-you-know-that-theres-a-tunnel-under-ocean-blvd-review)
+- [We love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2023/mar/19/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Victoria to ban Nazi salute after ‘disgusting’ scenes at anti-trans protest](https://www.theguardian.com/australia-news/2023/mar/20/victoria-to-ban-nazi-salute-after-anti-trans-protest-melbourne-australia)
+- [Barça 12 points clear in title race after Kessié’s late winner against Real Madrid](https://www.theguardian.com/football/2023/mar/19/barcelona-real-madrid-la-liga-match-report)
+- [Sergio Pérez wins Saudi Arabia Grand Prix but Max Verstappen keeps title lead](https://www.theguardian.com/sport/2023/mar/19/sergio-perez-wins-saudi-arabia-grand-prix-but-verstappen-keeps-title-lead)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

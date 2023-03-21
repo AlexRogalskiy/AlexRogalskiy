@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Carlos Alcaraz regains No 1 ranking with rout of Daniil Medvedev in Indian Wells final](https://www.theguardian.com/sport/2023/mar/19/elena-rybakina-confirms-rise-by-beating-aryna-sabalenka-to-win-indian-wells)
-- [‘Good old friend’: Putin offers praise for Xi ahead of first trip to Russia since Ukraine invasion](https://www.theguardian.com/world/2023/mar/20/xi-set-to-visit-russia-in-trip-that-will-reaffirm-ties-with-putin-china)
-- [You could cook while on the toilet: a night in one of Tokyo’s micro-apartments](https://www.theguardian.com/world/2023/mar/20/you-could-cook-while-on-the-toilet-a-night-in-one-of-tokyos-micro-apartments)
-- [UK house prices defy gloom with an average £3,000 rise](https://www.theguardian.com/money/2023/mar/20/uk-house-prices-defy-gloom-with-an-average-3000-rise)
-- [Covid has not affected people’s happiness around world, study reveals](https://www.theguardian.com/world/2023/mar/20/covid-not-affected-happiness-around-world-study)
-- [Lana Del Rey: Did You Know That There’s a Tunnel Under Ocean Blvd review – arresting introspection](https://www.theguardian.com/music/2023/mar/20/lana-del-rey-did-you-know-that-theres-a-tunnel-under-ocean-blvd-review)
-- [We love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2023/mar/19/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Victoria to ban Nazi salute after ‘disgusting’ scenes at anti-trans protest](https://www.theguardian.com/australia-news/2023/mar/20/victoria-to-ban-nazi-salute-after-anti-trans-protest-melbourne-australia)
-- [Barça 12 points clear in title race after Kessié’s late winner against Real Madrid](https://www.theguardian.com/football/2023/mar/19/barcelona-real-madrid-la-liga-match-report)
-- [Sergio Pérez wins Saudi Arabia Grand Prix but Max Verstappen keeps title lead](https://www.theguardian.com/sport/2023/mar/19/sergio-perez-wins-saudi-arabia-grand-prix-but-verstappen-keeps-title-lead)
+- [IMF approves Sri Lanka&#39;s $2.9bn bailout](https://www.theguardian.com/world/2023/mar/21/imf-approves-sri-lankas-29bn-bailout)
+- [Russia-Ukraine war at a glance: what we know on day 391 of the invasion](https://www.theguardian.com/world/2023/mar/21/russia-ukraine-war-at-a-glance-what-we-know-on-day-391-of-the-invasion)
+- [Manu Tuilagi believes England can be in contention at the Rugby World Cup](https://www.theguardian.com/sport/2023/mar/21/manu-tuilagi-believes-england-can-bounce-back-from-six-nations-disappointment-at-rugby-world-cup)
+- [Starmer challenged on promise of ‘zero-tolerance’ on antisemitism and racism](https://www.theguardian.com/politics/2023/mar/21/starmer-challenged-on-promise-of-zero-tolerance-on-antisemitism-and-racism)
+- [Headteacher withdraws request for public support to help stop Ofsted inspection](https://www.theguardian.com/education/2023/mar/20/headteacher-will-refuse-ofsted-inspection-after-ruth-perry-death)
+- [Landlords who ban all children breach equality rules, says UK ombudsman](https://www.theguardian.com/society/2023/mar/21/landlords-ban-children-breach-equality-rules-uk-ombudsman)
+- [World’s biggest single eradication operation aims to remove mice from island](https://www.theguardian.com/environment/2023/mar/21/world-biggest-single-eradication-operation-remove-mice-marion-sland)
+- [Met police found to be institutionally racist, misogynistic and homophobic](https://www.theguardian.com/uk-news/2023/mar/21/metropolitan-police-institutionally-racist-misogynistic-homophobic-louise-casey-report)
+- [Scotland’s minimum pricing linked to 13% drop in alcohol-related deaths, study finds](https://www.theguardian.com/society/2023/mar/21/scotlands-minimum-pricing-linked-to-13-drop-in-alcohol-related-deaths-study-finds)
+- [English test scandal: students and campaigners call on PM to end years of limbo](https://www.theguardian.com/uk-news/2023/mar/20/english-test-scandal-students-and-campaigners-call-on-pm-to-end-years-of-limbo)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

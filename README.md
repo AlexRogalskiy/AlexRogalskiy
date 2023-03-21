@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [VRoid Studio](https://vroid.com/en/studio)
-- [Ask HN: Alternatives to Chat GPT for writing code](https://news.ycombinator.com/item?id=35226569)
-- [America’s Skepticism Toward the First Automobiles](https://www.saturdayeveningpost.com/2017/01/get-horse-americas-skepticism-toward-first-automobiles/)
-- [Show HN: What I&#39;ve learned from my users after talking to them?](https://gemoo.com/blog/lessons-my-users-have-taught-me.htm)
-- [Show HN: Asking Bing Chat for a question machines cannot answer](https://news.ycombinator.com/item?id=35226513)
-- [Services](https://www.tiekoetter.com/en/services/)
-- [Government Hasn&#39;t Justified a TikTok Ban](https://www.eff.org/deeplinks/2023/03/government-hasnt-justified-tiktok-ban)
-- [Announce HN: PitchArchitect: AI-built and guided startup pitch decks](https://pitcharchitect.app/?hn)
-- [Bot for participating in cookie-based raffles on SteamGift](https://github.com/PalmaLuv/SteamGiftBot)
-- [Code That Writes Code](https://github.com/chutcheson/Ouroboros)
+- [Are we ethically ready to set up shop in space?](https://arstechnica.com/science/2023/03/are-we-ethically-ready-to-set-up-shop-in-space/)
+- [The Internet Archive defends its digital library in court](https://www.theverge.com/2023/3/20/23641457/internet-archive-hachette-lawsuit-court-copyright-fair-use)
+- [Run LLaMA LLM chatbots on any cloud with one click](https://blog.skypilot.co/llama-llm-chatbots-on-any-cloud/)
+- [Download, copy and paste free AWS icons in SVG and PNG format for your projects](https://aws-icons.com)
+- [Document Shows Regulators Knew of SVB Risk Five Years Ago](https://www.levernews.com/document-shows-regulators-knew-of-svb-risk-five-years-ago/)
+- [Supporting 100 Products: iFLYTEK Improves SRE Efficiency with Apache Pulsar](https://streamnative.io/success-stories/iflytek)
+- [An Undecidable Diophantine Equation](http://www.takingthefun.com/2023/03/an-undecidable-diophantine-equation.html)
+- [What’s different about these layoffs](https://stackoverflow.blog/2023/03/19/whats-different-about-these-layoffs/)
+- [An Aperiodic Monotile](https://cs.uwaterloo.ca/~csk/hat/)
+- [Timeline of Balaji Srinivasan](https://worldintimelines.com/balaji-srinivasan/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

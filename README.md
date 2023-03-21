@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Twenty-Five Years of Curl](https://daniel.haxx.se/blog/2023/03/20/twenty-five-years-of-curl/)
-- [Oakland&amp;#x27;s Non-Profit Video Game Museum Is Back, and Thriving](https://sfstandard.com/arts-culture/fly-spaceships-battle-aliens-and-drive-a-crazy-taxi-at-this-oakland-museum/)
-- [Blockbuster Video&amp;#x27;s Website Is Suddenly Active Again](https://comicbook.com/movies/news/blockbuster-videos-website-is-suddenly-active-again/)
-- [Pentagon study reveals higher cancer rates for military pilots, ground crews](https://www.axios.com/2023/03/19/pentagon-study-higher-cancer-rates-military-pilots-ground-crews)
-- [Federal Reserve lent $300B in emergency funds to banks in the past week](https://www.pbs.org/newshour/economy/federal-reserve-lent-300-billion-in-emergency-funds-to-banks-in-the-past-week)
-- [Gallery of Minimal Design Websites](https://minimal.gallery/)
-- [Banshees of Inisherin: The Game](https://bansheesthegame.com/)
-- [Brown Widows Are Winning the Fight for Your Attic and Garage](https://www.nytimes.com/2023/03/13/science/brown-widows-black-widows.html)
-- [Anti-recruiter prompt injection attack in LinkedIn profile](https://twitter.com/brdskggs/status/1637114268876144640)
-- [BNF Was Here: What Have We Done About the Unnecessary Notation Diversity &lpar;2011&rpar; [pdf]](https://www.grammarware.net/text/2012/bnf-was-here.pdf)
+- [One of the best podcasting apps you know is built by a single person](https://www.theverge.com/2023/3/20/23648650/marco-arment-overcast-solo-acts)
+- [Google urges Android phone users to switch off Wi-Fi calling](https://scrippsnews.com/stories/how-to-turn-off-wi-fi-calling-on-android-to-combat-hackers/)
+- [Show HN: Get a Professional Headshot in Minutes with AI](https://virtualface.app)
+- [Can GPT-4 and GPT-3.5 play Wordle?](https://twitter.com/biz84/status/1637793452879405064)
+- [How a Berkeley Eccentric Beat the Russians – Then Made Useless, Wondrous Objects](https://alumni.berkeley.edu/california-magazine/spring-2016-war-stories/how-berkeley-eccentric-beat-russians-and-then-made/)
+- [Bank Failures Come in Waves](https://yarn.pranshum.com/banks2)
+- [Six Recent Studies Show an Unexpected Increase in Classical Music Listening](https://tedgioia.substack.com/p/six-recent-studies-show-an-unexpected)
+- [Vallejo CA police shared data in violation of state law, watchdog says](https://www.vallejosun.com/vallejo-police-shared-data-in-violation-of-state-law-watchdog-alleges/)
+- [In-Flight Entertainment Challenge](https://blog.mand3l.com/post/712193955168731136/the-inflight-entertainment-challenge)
+- [DNA, AI facial reconstruction, and grit identified Somerton Man 75 years later](https://spectrum.ieee.org/somerton-man)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

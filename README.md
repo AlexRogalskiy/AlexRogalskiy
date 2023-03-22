@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [IMF approves Sri Lanka&#39;s $2.9bn bailout](https://www.theguardian.com/world/2023/mar/21/imf-approves-sri-lankas-29bn-bailout)
-- [Russia-Ukraine war at a glance: what we know on day 391 of the invasion](https://www.theguardian.com/world/2023/mar/21/russia-ukraine-war-at-a-glance-what-we-know-on-day-391-of-the-invasion)
-- [Manu Tuilagi believes England can be in contention at the Rugby World Cup](https://www.theguardian.com/sport/2023/mar/21/manu-tuilagi-believes-england-can-bounce-back-from-six-nations-disappointment-at-rugby-world-cup)
-- [Starmer challenged on promise of ‘zero-tolerance’ on antisemitism and racism](https://www.theguardian.com/politics/2023/mar/21/starmer-challenged-on-promise-of-zero-tolerance-on-antisemitism-and-racism)
-- [Headteacher withdraws request for public support to help stop Ofsted inspection](https://www.theguardian.com/education/2023/mar/20/headteacher-will-refuse-ofsted-inspection-after-ruth-perry-death)
-- [Landlords who ban all children breach equality rules, says UK ombudsman](https://www.theguardian.com/society/2023/mar/21/landlords-ban-children-breach-equality-rules-uk-ombudsman)
-- [World’s biggest single eradication operation aims to remove mice from island](https://www.theguardian.com/environment/2023/mar/21/world-biggest-single-eradication-operation-remove-mice-marion-sland)
-- [Met police found to be institutionally racist, misogynistic and homophobic](https://www.theguardian.com/uk-news/2023/mar/21/metropolitan-police-institutionally-racist-misogynistic-homophobic-louise-casey-report)
-- [Scotland’s minimum pricing linked to 13% drop in alcohol-related deaths, study finds](https://www.theguardian.com/society/2023/mar/21/scotlands-minimum-pricing-linked-to-13-drop-in-alcohol-related-deaths-study-finds)
-- [English test scandal: students and campaigners call on PM to end years of limbo](https://www.theguardian.com/uk-news/2023/mar/20/english-test-scandal-students-and-campaigners-call-on-pm-to-end-years-of-limbo)
+- [USA v Japan: World Baseball Classic final – live](https://www.theguardian.com/sport/live/2023/mar/21/usa-v-japan-world-baseball-classic-final-live)
+- [A tale of two visits: Kishida and Xi tread starkly different paths on Ukraine](https://www.theguardian.com/world/2023/mar/22/a-tale-of-two-visits-kishida-and-xi-tread-starkly-different-paths-on-ukraine)
+- [New Zealand government launches campaign to help teens recover from break-ups](https://www.theguardian.com/world/2023/mar/22/love-better-nz-new-zealand-government-campaign-teens-teenagers-recover-from-breakups)
+- [Celeste Barber’s next target: ‘The wellness industry is like the new form of church’](https://www.theguardian.com/tv-and-radio/2023/mar/22/celeste-barber-netflix-tv-series-wellmania-interview-wellness-industry)
+- [Russia-Ukraine war at a glance: what we know on day 392 of the invasion](https://www.theguardian.com/world/2023/mar/22/russia-ukraine-war-at-a-glance-what-we-know-on-day-392-of-the-invasion)
+- [UK GPs have the highest stress levels, finds survey of 10 countries’ doctors](https://www.theguardian.com/society/2023/mar/22/uk-gps-have-the-highest-stress-levels-finds-survey-of-10-countries-doctors)
+- [Number of city dwellers lacking safe water to double by 2050](https://www.theguardian.com/environment/2023/mar/22/number-city-dwellers-lacking-access-safe-water-double-2050)
+- [‘Draconian’ migration bill could leave tens of thousands destitute or locked up](https://www.theguardian.com/world/2023/mar/22/draconian-migration-bill-could-leave-tens-of-thousands-destitute-or-locked-up)
+- [Helen Glover gets back in the boat again: ‘I truly think I can be better than ever’](https://www.theguardian.com/sport/2023/mar/22/helen-glover-interview-olympic-rowing-champion)
+- [After Impressionism review – radical ideas and ecstatic sex from the edge of a new universe](https://www.theguardian.com/artanddesign/2023/mar/22/after-impressionism-inventing-modern-art-national-gallery-london)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

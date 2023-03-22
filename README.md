@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Are we ethically ready to set up shop in space?](https://arstechnica.com/science/2023/03/are-we-ethically-ready-to-set-up-shop-in-space/)
-- [The Internet Archive defends its digital library in court](https://www.theverge.com/2023/3/20/23641457/internet-archive-hachette-lawsuit-court-copyright-fair-use)
-- [Run LLaMA LLM chatbots on any cloud with one click](https://blog.skypilot.co/llama-llm-chatbots-on-any-cloud/)
-- [Download, copy and paste free AWS icons in SVG and PNG format for your projects](https://aws-icons.com)
-- [Document Shows Regulators Knew of SVB Risk Five Years Ago](https://www.levernews.com/document-shows-regulators-knew-of-svb-risk-five-years-ago/)
-- [Supporting 100 Products: iFLYTEK Improves SRE Efficiency with Apache Pulsar](https://streamnative.io/success-stories/iflytek)
-- [An Undecidable Diophantine Equation](http://www.takingthefun.com/2023/03/an-undecidable-diophantine-equation.html)
-- [What’s different about these layoffs](https://stackoverflow.blog/2023/03/19/whats-different-about-these-layoffs/)
-- [An Aperiodic Monotile](https://cs.uwaterloo.ca/~csk/hat/)
-- [Timeline of Balaji Srinivasan](https://worldintimelines.com/balaji-srinivasan/)
+- [Hersh: Biden is culpable in destruction of Nord Stream pipeline](https://www.globaltimes.cn/page/202303/1287698.shtml)
+- [Is This Article Consistent with Hinchliffe’s Rule? &lpar;2015&rpar; [pdf]](https://improbable.com/airchives/paperair/volume21/v21i3/Consistent-with-Hinchliffe-21-3.pdf)
+- [Dropbox vs. Google Drive: Which cloud storage tool is best?](https://paperform.co/blog/dropbox-vs-google-drive/)
+- [How can we make memory systems widespread?](https://michaelnotebook.com/mmsw/index.html)
+- [Bard uses a Hacker News comment as single source to say that Bard has shut down](https://twitter.com/juanbuis/status/1638289186351456257)
+- [Zig Bits 0x2: Using defer to defeat memory leaks](https://blog.orhun.dev/zig-bits-02/)
+- [Vox-E: Text-guided Voxel Editing of 3D Objects](https://tau-vailab.github.io/Vox-E/)
+- [Moroccan–American Treaty of Friendship](https://en.wikipedia.org/wiki/Moroccan%E2%80%93American_Treaty_of_Friendship)
+- [Ask HN: What are your AI hot takes?](https://news.ycombinator.com/item?id=35255811)
+- [MM-ReAct: Prompting ChatGPT for Multimodal Reasoning and Action](https://multimodal-react.github.io/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [One of the best podcasting apps you know is built by a single person](https://www.theverge.com/2023/3/20/23648650/marco-arment-overcast-solo-acts)
-- [Google urges Android phone users to switch off Wi-Fi calling](https://scrippsnews.com/stories/how-to-turn-off-wi-fi-calling-on-android-to-combat-hackers/)
-- [Show HN: Get a Professional Headshot in Minutes with AI](https://virtualface.app)
-- [Can GPT-4 and GPT-3.5 play Wordle?](https://twitter.com/biz84/status/1637793452879405064)
-- [How a Berkeley Eccentric Beat the Russians – Then Made Useless, Wondrous Objects](https://alumni.berkeley.edu/california-magazine/spring-2016-war-stories/how-berkeley-eccentric-beat-russians-and-then-made/)
-- [Bank Failures Come in Waves](https://yarn.pranshum.com/banks2)
-- [Six Recent Studies Show an Unexpected Increase in Classical Music Listening](https://tedgioia.substack.com/p/six-recent-studies-show-an-unexpected)
-- [Vallejo CA police shared data in violation of state law, watchdog says](https://www.vallejosun.com/vallejo-police-shared-data-in-violation-of-state-law-watchdog-alleges/)
-- [In-Flight Entertainment Challenge](https://blog.mand3l.com/post/712193955168731136/the-inflight-entertainment-challenge)
-- [DNA, AI facial reconstruction, and grit identified Somerton Man 75 years later](https://spectrum.ieee.org/somerton-man)
+- [Bard uses a Hacker News comment as single source to say that Bard has shut down](https://twitter.com/juanbuis/status/1638289186351456257)
+- [Show HN: Generate styled web pages with just Python](https://www.pyvibe.com/)
+- [Shields Up](https://seths.blog/2023/03/shields-up-2/)
+- [The Brilliant Inventor Who Made Two of History’s Biggest Mistakes](https://www.nytimes.com/2023/03/15/magazine/cfcs-inventor.html)
+- [Hyundai Promises to Keep Buttons in Cars](https://www.thedrive.com/news/hyundai-promises-to-keep-buttons-in-cars-because-touchscreen-controls-are-dangerous)
+- [America’s banks are missing hundreds of billions of dollars](https://www.economist.com/finance-and-economics/2023/03/21/americas-banks-are-missing-hundreds-of-billions-of-dollars)
+- [Understanding the .NET ecosystem: The evolution of .NET into .NET 7](https://andrewlock.net/understanding-the-dotnet-ecosystem-the-evolution-of-dotnet-into-dotnet-7/)
+- [Reasons Not to Use Google](https://stallman.org/google.html)
+- [Polio cases in Africa linked to new oral vaccine](https://www.science.org/content/article/first-polio-cases-linked-new-oral-vaccine-detected-africa)
+- [Grace Hopper on Late Night with David Letterman &lpar;1986&rpar;](https://www.youtube.com/watch?v=oE2uls6iIEU)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

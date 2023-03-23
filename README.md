@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [USA v Japan: World Baseball Classic final – live](https://www.theguardian.com/sport/live/2023/mar/21/usa-v-japan-world-baseball-classic-final-live)
-- [A tale of two visits: Kishida and Xi tread starkly different paths on Ukraine](https://www.theguardian.com/world/2023/mar/22/a-tale-of-two-visits-kishida-and-xi-tread-starkly-different-paths-on-ukraine)
-- [New Zealand government launches campaign to help teens recover from break-ups](https://www.theguardian.com/world/2023/mar/22/love-better-nz-new-zealand-government-campaign-teens-teenagers-recover-from-breakups)
-- [Celeste Barber’s next target: ‘The wellness industry is like the new form of church’](https://www.theguardian.com/tv-and-radio/2023/mar/22/celeste-barber-netflix-tv-series-wellmania-interview-wellness-industry)
-- [Russia-Ukraine war at a glance: what we know on day 392 of the invasion](https://www.theguardian.com/world/2023/mar/22/russia-ukraine-war-at-a-glance-what-we-know-on-day-392-of-the-invasion)
-- [UK GPs have the highest stress levels, finds survey of 10 countries’ doctors](https://www.theguardian.com/society/2023/mar/22/uk-gps-have-the-highest-stress-levels-finds-survey-of-10-countries-doctors)
-- [Number of city dwellers lacking safe water to double by 2050](https://www.theguardian.com/environment/2023/mar/22/number-city-dwellers-lacking-access-safe-water-double-2050)
-- [‘Draconian’ migration bill could leave tens of thousands destitute or locked up](https://www.theguardian.com/world/2023/mar/22/draconian-migration-bill-could-leave-tens-of-thousands-destitute-or-locked-up)
-- [Helen Glover gets back in the boat again: ‘I truly think I can be better than ever’](https://www.theguardian.com/sport/2023/mar/22/helen-glover-interview-olympic-rowing-champion)
-- [After Impressionism review – radical ideas and ecstatic sex from the edge of a new universe](https://www.theguardian.com/artanddesign/2023/mar/22/after-impressionism-inventing-modern-art-national-gallery-london)
+- [Denver teen still at large after shooting two school officials, police say](https://www.theguardian.com/us-news/2023/mar/22/denver-high-school-shooting-gun-search)
+- [Ukraine war has ‘profound impact’ on Asia, Blinken says, with eye on China’s ambitions](https://www.theguardian.com/us-news/2023/mar/23/ukraine-war-has-profound-impact-on-asia-blinken-says-with-eye-on-chinas-ambitions)
+- [SEC charges celebrities including Lindsay Lohan over cryptocurrency endorsements](https://www.theguardian.com/technology/2023/mar/22/sec-sues-celebrities-cryptocurrencies-lindsay-lohan-tron)
+- [Indigenous voice to parliament referendum question and constitution changes revealed by emotional PM](https://www.theguardian.com/australia-news/2023/mar/23/indigenous-voice-to-parliament-referendum-question-australia-constitution-change-pm-anthony-albanese)
+- [Ikea UK makes agreement with EHRC to improve policies on sexual harassment](https://www.theguardian.com/world/2023/mar/23/ikea-uk-makes-agreement-with-ehrc-to-improve-policies-on-sexual-harassment)
+- [Peak of 2022 heatwave forced fifth of UK hospitals to cancel operations – research](https://www.theguardian.com/society/2023/mar/23/heatwave-2022-uk-hospitals-cancelled-operations-research)
+- [Teacher vacancies in England 93% higher than pre-pandemic, study finds](https://www.theguardian.com/education/2023/mar/23/teacher-vacancies-in-england-93-higher-than-pre-pandemic-study-finds)
+- [Britain’s biggest banks under pressure to pass on higher interest rates to savers](https://www.theguardian.com/business/2023/mar/23/britains-biggest-banks-under-pressure-to-pass-on-higher-interest-rates-to-savers)
+- [California storm siege leaves five dead amid reports of tornadoes in some areas](https://www.theguardian.com/us-news/2023/mar/22/california-storms-flooding-latest)
+- [Manchester United takeover chaos as bid deadline is dramatically extended](https://www.theguardian.com/football/2023/mar/22/manchester-united-takeover-battle-intensifies-as-increased-bids-are-made)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Bard uses a Hacker News comment as single source to say that Bard has shut down](https://twitter.com/juanbuis/status/1638289186351456257)
-- [Show HN: Generate styled web pages with just Python](https://www.pyvibe.com/)
-- [Shields Up](https://seths.blog/2023/03/shields-up-2/)
-- [The Brilliant Inventor Who Made Two of History’s Biggest Mistakes](https://www.nytimes.com/2023/03/15/magazine/cfcs-inventor.html)
-- [Hyundai Promises to Keep Buttons in Cars](https://www.thedrive.com/news/hyundai-promises-to-keep-buttons-in-cars-because-touchscreen-controls-are-dangerous)
-- [America’s banks are missing hundreds of billions of dollars](https://www.economist.com/finance-and-economics/2023/03/21/americas-banks-are-missing-hundreds-of-billions-of-dollars)
-- [Understanding the .NET ecosystem: The evolution of .NET into .NET 7](https://andrewlock.net/understanding-the-dotnet-ecosystem-the-evolution-of-dotnet-into-dotnet-7/)
-- [Reasons Not to Use Google](https://stallman.org/google.html)
-- [Polio cases in Africa linked to new oral vaccine](https://www.science.org/content/article/first-polio-cases-linked-new-oral-vaccine-detected-africa)
-- [Grace Hopper on Late Night with David Letterman &lpar;1986&rpar;](https://www.youtube.com/watch?v=oE2uls6iIEU)
+- [We asked the SEC for reasonable crypto rules. We got legal threats instead](https://www.coinbase.com/blog/we-asked-the-sec-for-reasonable-crypto-rules-for-americans-we-got-legal)
+- [OpenAI’s policies hinder reproducible research on language models](https://aisnakeoil.substack.com/p/openais-policies-hinder-reproducible)
+- [The Vintage Technology Digital Archive](http://vtda.org/)
+- [Everything ChatGPT – under the hood of the ChatGPT web app](https://github.com/terminalcommandnewsletter/everything-chatgpt)
+- [When did New York start building slowly?](https://constructionphysics.substack.com/p/when-did-new-york-start-building)
+- [DISAppointment: Adding an ISA Slot to a Modern Motherboard](https://www.youtube.com/watch?v=IXr-VEpQ1lg)
+- [Little Snitch Mini](https://obdev.at/products/littlesnitch-mini/index.html)
+- [Coinbase issued Wells notice by SEC](https://www.reuters.com/legal/coinbase-issued-wells-notice-by-sec-2023-03-22/)
+- [Show HN: Dungeon Map Doodler Beta - Free online map drawing tool](https://dungeonmapdoodler.com/beta/)
+- [SEC charges crypto entrepreneur Justin Sun and his companies for fraud](https://www.sec.gov/news/press-release/2023-59)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

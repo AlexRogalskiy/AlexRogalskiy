@@ -355,6 +355,7 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Q&amp;A: Univ. of Phoenix CIO says chatbots could threaten innovation](https://www.computerworld.com/article/3691231/qa-univ-of-phoenix-cio-says-chatbots-could-threaten-innovation.html#tk.rss_all)
 - [Google opens sign-ups for its Bard AI chatbot](https://www.computerworld.com/article/3691112/google-opens-sign-ups-for-its-bard-ai-chatbot.html#tk.rss_all)
 - [Adobe enters the age of generative AI with creative and enterprise apps](https://www.computerworld.com/article/3691134/adobe-enters-the-age-of-generative-ai-with-creative-and-enterprise-apps.html#tk.rss_all)
 - [How to train your chatbot through prompt engineering](https://www.computerworld.com/article/3691253/how-to-train-your-chatbot-through-prompt-engineering.html#tk.rss_all)
@@ -364,7 +365,6 @@
 - [Patch Office and Windows now to resolve two zero-days](https://www.computerworld.com/article/3691010/patch-office-and-windows-now-to-resolve-two-zero-days.html#tk.rss_all)
 - [Apple may update Siri as it struggles with ChatGPT](https://www.computerworld.com/article/3691054/apple-may-update-siri-as-it-struggles-with-chatgpt.html#tk.rss_all)
 - [AWS Chatbot now integrated into Microsoft Teams](https://www.infoworld.com/article/3691291/aws-chatbot-now-integrated-into-microsoft-teams.html#tk.rss_all)
-- [Generative AI comes to Office: What it means &lpar;and who’s at risk&rpar;](https://www.computerworld.com/article/3691053/generative-ai-comes-to-office-what-it-means-and-whos-at-risk.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

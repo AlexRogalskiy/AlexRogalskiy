@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Hersh: Biden is culpable in destruction of Nord Stream pipeline](https://www.globaltimes.cn/page/202303/1287698.shtml)
-- [Is This Article Consistent with Hinchliffe’s Rule? &lpar;2015&rpar; [pdf]](https://improbable.com/airchives/paperair/volume21/v21i3/Consistent-with-Hinchliffe-21-3.pdf)
-- [Dropbox vs. Google Drive: Which cloud storage tool is best?](https://paperform.co/blog/dropbox-vs-google-drive/)
-- [How can we make memory systems widespread?](https://michaelnotebook.com/mmsw/index.html)
-- [Bard uses a Hacker News comment as single source to say that Bard has shut down](https://twitter.com/juanbuis/status/1638289186351456257)
-- [Zig Bits 0x2: Using defer to defeat memory leaks](https://blog.orhun.dev/zig-bits-02/)
-- [Vox-E: Text-guided Voxel Editing of 3D Objects](https://tau-vailab.github.io/Vox-E/)
-- [Moroccan–American Treaty of Friendship](https://en.wikipedia.org/wiki/Moroccan%E2%80%93American_Treaty_of_Friendship)
-- [Ask HN: What are your AI hot takes?](https://news.ycombinator.com/item?id=35255811)
-- [MM-ReAct: Prompting ChatGPT for Multimodal Reasoning and Action](https://multimodal-react.github.io/)
+- [What our engineers learned building Stack Overflow &lpar;Ep. 547&rpar;](https://stackoverflow.blog/2023/03/21/what-our-engineers-learned-building-stack-overflow-ep-547/)
+- [Justin Roiland, &#39;Rick and Morty&#39; creator, cleared of domestic violence charges](https://www.usatoday.com/story/entertainment/celebrities/2023/03/22/rick-morty-justin-roiland-cleared-domestic-violence-charges/11526029002/)
+- [GPT-4 Turkish Carpet Salesman](https://aiadventure.spiel.com/carpet)
+- [Capabilities of GPT-4 on Medical Challenge Problems](https://marginalrevolution.com/marginalrevolution/2023/03/capabilities-of-gpt-4-on-medical-challenge-problems.html)
+- [We asked the SEC for reasonable crypto rules. We got legal threats instead](https://www.coinbase.com/blog/we-asked-the-sec-for-reasonable-crypto-rules-for-americans-we-got-legal)
+- [SRAM eliminates derailleur hanger w new direct-mount T-Type Eagle Transmission](https://www.bikeradar.com/news/sram-t-type-eagle-transmission/)
+- [Instagram&#39;s tech stack will surprise you](https://hamy.xyz/labs/2023-02-instagram-tech-stack-will-surprise-you)
+- [AI detects bird sounds in Taiwan’s montane forests](https://blog.pensoft.net/2023/03/22/unraveling-natures-chorus-ai-detects-bird-sounds-in-taiwans-montane-forests/)
+- [Negative Concord](https://ygdp.yale.edu/phenomena/negative-concord)
+- [Subscription or no subscription? That is not the question. &lpar;2020&rpar;](https://ia.net/topics/subscription-or-no-subscription)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

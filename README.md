@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Denver teen still at large after shooting two school officials, police say](https://www.theguardian.com/us-news/2023/mar/22/denver-high-school-shooting-gun-search)
-- [Ukraine war has ‘profound impact’ on Asia, Blinken says, with eye on China’s ambitions](https://www.theguardian.com/us-news/2023/mar/23/ukraine-war-has-profound-impact-on-asia-blinken-says-with-eye-on-chinas-ambitions)
-- [SEC charges celebrities including Lindsay Lohan over cryptocurrency endorsements](https://www.theguardian.com/technology/2023/mar/22/sec-sues-celebrities-cryptocurrencies-lindsay-lohan-tron)
-- [Indigenous voice to parliament referendum question and constitution changes revealed by emotional PM](https://www.theguardian.com/australia-news/2023/mar/23/indigenous-voice-to-parliament-referendum-question-australia-constitution-change-pm-anthony-albanese)
-- [Ikea UK makes agreement with EHRC to improve policies on sexual harassment](https://www.theguardian.com/world/2023/mar/23/ikea-uk-makes-agreement-with-ehrc-to-improve-policies-on-sexual-harassment)
-- [Peak of 2022 heatwave forced fifth of UK hospitals to cancel operations – research](https://www.theguardian.com/society/2023/mar/23/heatwave-2022-uk-hospitals-cancelled-operations-research)
-- [Teacher vacancies in England 93% higher than pre-pandemic, study finds](https://www.theguardian.com/education/2023/mar/23/teacher-vacancies-in-england-93-higher-than-pre-pandemic-study-finds)
-- [Britain’s biggest banks under pressure to pass on higher interest rates to savers](https://www.theguardian.com/business/2023/mar/23/britains-biggest-banks-under-pressure-to-pass-on-higher-interest-rates-to-savers)
-- [California storm siege leaves five dead amid reports of tornadoes in some areas](https://www.theguardian.com/us-news/2023/mar/22/california-storms-flooding-latest)
-- [Manchester United takeover chaos as bid deadline is dramatically extended](https://www.theguardian.com/football/2023/mar/22/manchester-united-takeover-battle-intensifies-as-increased-bids-are-made)
+- [Harry Kane leads England to first win in Italy since 1961 – Football Weekly podcast](https://www.theguardian.com/football/audio/2023/mar/24/harry-kane-leads-england-to-first-win-in-italy-since-1961-football-weekly-podcast)
+- [Russia-Ukraine war at a glance: what we know on day 394 of the invasion](https://www.theguardian.com/world/2023/mar/24/russia-ukraine-war-at-a-glance-what-we-know-on-day-394-of-the-invasion)
+- [‘Deeply sorry’ Ofsted chief rejects call for halt in inspections after head’s death](https://www.theguardian.com/education/2023/mar/24/ofsted-chief-amanda-spielman-sorry-ruth-perry-death)
+- [UK households ‘spent 12% more on essentials in February than year earlier’](https://www.theguardian.com/business/2023/mar/24/uk-households-spent-more-on-essentials-in-february-than-year-earlier)
+- [Gillian Keegan urged to not let culture wars weaken sex education](https://www.theguardian.com/education/2023/mar/24/sex-education-england-schools-review-gillian-keegan)
+- [Ringfence 10% of UK health spending for preventive measures, report urges](https://www.theguardian.com/politics/2023/mar/24/health-spending-preventive-public-measures-report)
+- [TikTok CEO grilled for over five hours on China, drugs and teen mental health](https://www.theguardian.com/technology/2023/mar/23/tiktok-shou-zi-chew-congress)
+- [Harry Kane completes cycle of England hotshots with goals record | Barney Ronay](https://www.theguardian.com/football/blog/2023/mar/23/harry-kane-completes-cycle-of-england-hotshots-with-goals-record)
+- [Bayern Munich sack Julian Nagelsmann and prepare to appoint Thomas Tuchel](https://www.theguardian.com/football/2023/mar/23/bayern-munich-sack-julian-nagelsmann-and-prepare-to-appoint-thomas-tuchel)
+- [‘A dream becomes reality’: Harry Kane’s pride at breaking England goals record](https://www.theguardian.com/football/2023/mar/23/harry-kane-pride-after-breaking-england-goalscoring-record)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

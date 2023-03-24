@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Microsoft Copilot could fix a long-running Office problem](https://www.computerworld.com/article/3691771/microsoft-copilot-could-fix-a-long-running-office-problem.html#tk.rss_all)
+- [Microsoft launches collaboration app Loop](https://www.computerworld.com/article/3691632/microsoft-launches-collaboration-app-loop.html#tk.rss_all)
+- [Cisco boosts Webex on iPad with Stage Manager and better multitasking](https://www.computerworld.com/article/3691631/cisco-boosts-webex-on-ipad-with-stage-manager-and-better-multitasking.html#tk.rss_all)
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
+- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
+- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
+- [7 highly useful PowerShell tools](https://www.computerworld.com/article/3689703/highly-useful-powershell-tools.html#tk.rss_all)
+- [Canva adds AI-powered design tools to its Visual Worksuite](https://www.computerworld.com/article/3691300/canva-adds-ai-powered-design-tools-to-its-visual-worksuite.html#tk.rss_all)
 - [Q&amp;A: Univ. of Phoenix CIO says chatbots could threaten innovation](https://www.computerworld.com/article/3691231/qa-univ-of-phoenix-cio-says-chatbots-could-threaten-innovation.html#tk.rss_all)
-- [Google opens sign-ups for its Bard AI chatbot](https://www.computerworld.com/article/3691112/google-opens-sign-ups-for-its-bard-ai-chatbot.html#tk.rss_all)
-- [Adobe enters the age of generative AI with creative and enterprise apps](https://www.computerworld.com/article/3691134/adobe-enters-the-age-of-generative-ai-with-creative-and-enterprise-apps.html#tk.rss_all)
-- [How to train your chatbot through prompt engineering](https://www.computerworld.com/article/3691253/how-to-train-your-chatbot-through-prompt-engineering.html#tk.rss_all)
-- [Tech layoffs in 2023: A timeline](https://www.computerworld.com/article/3685936/tech-layoffs-in-2023-a-timeline.html#tk.rss_all)
-- [Russia’s iPhone ban and the digital supply chain](https://www.computerworld.com/article/3691230/russias-iphone-ban-and-the-digital-supply-chain.html#tk.rss_all)
-- [Google Docs power tips: How to add charts, citations, and more](https://www.computerworld.com/article/3688915/google-docs-how-to-add-charts-citations-more.html#tk.rss_all)
-- [Patch Office and Windows now to resolve two zero-days](https://www.computerworld.com/article/3691010/patch-office-and-windows-now-to-resolve-two-zero-days.html#tk.rss_all)
-- [Apple may update Siri as it struggles with ChatGPT](https://www.computerworld.com/article/3691054/apple-may-update-siri-as-it-struggles-with-chatgpt.html#tk.rss_all)
-- [AWS Chatbot now integrated into Microsoft Teams](https://www.infoworld.com/article/3691291/aws-chatbot-now-integrated-into-microsoft-teams.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

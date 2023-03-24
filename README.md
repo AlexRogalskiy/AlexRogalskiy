@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [What our engineers learned building Stack Overflow &lpar;Ep. 547&rpar;](https://stackoverflow.blog/2023/03/21/what-our-engineers-learned-building-stack-overflow-ep-547/)
-- [Justin Roiland, &#39;Rick and Morty&#39; creator, cleared of domestic violence charges](https://www.usatoday.com/story/entertainment/celebrities/2023/03/22/rick-morty-justin-roiland-cleared-domestic-violence-charges/11526029002/)
-- [GPT-4 Turkish Carpet Salesman](https://aiadventure.spiel.com/carpet)
-- [Capabilities of GPT-4 on Medical Challenge Problems](https://marginalrevolution.com/marginalrevolution/2023/03/capabilities-of-gpt-4-on-medical-challenge-problems.html)
-- [We asked the SEC for reasonable crypto rules. We got legal threats instead](https://www.coinbase.com/blog/we-asked-the-sec-for-reasonable-crypto-rules-for-americans-we-got-legal)
-- [SRAM eliminates derailleur hanger w new direct-mount T-Type Eagle Transmission](https://www.bikeradar.com/news/sram-t-type-eagle-transmission/)
-- [Instagram&#39;s tech stack will surprise you](https://hamy.xyz/labs/2023-02-instagram-tech-stack-will-surprise-you)
-- [AI detects bird sounds in Taiwan’s montane forests](https://blog.pensoft.net/2023/03/22/unraveling-natures-chorus-ai-detects-bird-sounds-in-taiwans-montane-forests/)
-- [Negative Concord](https://ygdp.yale.edu/phenomena/negative-concord)
-- [Subscription or no subscription? That is not the question. &lpar;2020&rpar;](https://ia.net/topics/subscription-or-no-subscription)
+- [I composed an 8-bit version of my own theme song and put it on the Internet](https://danverbraganza.com/writings/my-theme-song-8-bit-version)
+- [Web of Trust](https://en.wikipedia.org/wiki/Web_of_trust)
+- [Key Signing Party](https://en.wikipedia.org/wiki/Key_signing_party)
+- [Police sue rapper Afroman for using footage of home raid in his music videos](https://www.theguardian.com/us-news/2023/mar/23/ohio-police-sue-rapper-afroman)
+- [The Country Behind the $100B,000 Bill Hits a New Stage of Dysfunction](https://www.wsj.com/articles/zimbabwe-money-aa13a052)
+- [Amidon Mastodon client – AmigaOS 3.2](https://www.youtube.com/watch?v=t_Fp94ggfOQ)
+- [Text2Video-Zero: Text-to-Image Diffusion Models Are Zero-Shot Video Generators](https://github.com/Picsart-AI-Research/Text2Video-Zero)
+- [Tell HN: Linux developers were actually working for MS thanks to Copilot X](https://news.ycombinator.com/item?id=35284144)
+- [Set-the-Scene: Global-Local Training for Generating Controllable NeRF Scenes](https://danacohen95.github.io/Set-the-Scene/)
+- [Plotting Behind the Scenes: Towards Learnable Game Engines](https://learnable-game-engines.github.io/lge-website/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

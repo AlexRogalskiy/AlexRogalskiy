@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [We asked the SEC for reasonable crypto rules. We got legal threats instead](https://www.coinbase.com/blog/we-asked-the-sec-for-reasonable-crypto-rules-for-americans-we-got-legal)
-- [OpenAI’s policies hinder reproducible research on language models](https://aisnakeoil.substack.com/p/openais-policies-hinder-reproducible)
-- [The Vintage Technology Digital Archive](http://vtda.org/)
-- [Everything ChatGPT – under the hood of the ChatGPT web app](https://github.com/terminalcommandnewsletter/everything-chatgpt)
-- [When did New York start building slowly?](https://constructionphysics.substack.com/p/when-did-new-york-start-building)
-- [DISAppointment: Adding an ISA Slot to a Modern Motherboard](https://www.youtube.com/watch?v=IXr-VEpQ1lg)
-- [Little Snitch Mini](https://obdev.at/products/littlesnitch-mini/index.html)
-- [Coinbase issued Wells notice by SEC](https://www.reuters.com/legal/coinbase-issued-wells-notice-by-sec-2023-03-22/)
-- [Show HN: Dungeon Map Doodler Beta - Free online map drawing tool](https://dungeonmapdoodler.com/beta/)
-- [SEC charges crypto entrepreneur Justin Sun and his companies for fraud](https://www.sec.gov/news/press-release/2023-59)
+- [Set-the-Scene: Global-Local Training for Generating Controllable NeRF Scenes](https://danacohen95.github.io/Set-the-Scene/)
+- [Use the XDG Base Directory Specification](https://xdgbasedirectoryspecification.com/)
+- [We built semantic search for ArXiv](https://sigmoidprime.com/post/searchthearxiv/)
+- [The Origin of the Word Daemon &lpar;2002&rpar;](https://ei.cs.vt.edu/~history/Daemon.html)
+- [Introduction to P vs. NP](https://wesammikhail.com/2023/03/22/the-complexity-series-p1-p-vs-np/)
+- [How to read Hacker News threads with most recent comments first](https://til.simonwillison.net/hacker-news/recent-comments)
+- [Surprising Scalability of Multitenancy – Marc&amp;#x27;s Blog](https://brooker.co.za/blog/2023/03/23/economics.html)
+- [Apple: Transformer architecture optimized for Apple Silicon](https://github.com/apple/ml-ane-transformers)
+- [You can&amp;#x27;t tell people anything &lpar;2004&rpar;](http://habitatchronicles.com/2004/04/you-cant-tell-people-anything/)
+- [I Bought Back My Acquihired Startup](https://steveridout.com/2023/03/23/buy-back.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

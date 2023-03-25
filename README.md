@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [I composed an 8-bit version of my own theme song and put it on the Internet](https://danverbraganza.com/writings/my-theme-song-8-bit-version)
-- [Web of Trust](https://en.wikipedia.org/wiki/Web_of_trust)
-- [Key Signing Party](https://en.wikipedia.org/wiki/Key_signing_party)
-- [Police sue rapper Afroman for using footage of home raid in his music videos](https://www.theguardian.com/us-news/2023/mar/23/ohio-police-sue-rapper-afroman)
-- [The Country Behind the $100B,000 Bill Hits a New Stage of Dysfunction](https://www.wsj.com/articles/zimbabwe-money-aa13a052)
-- [Amidon Mastodon client – AmigaOS 3.2](https://www.youtube.com/watch?v=t_Fp94ggfOQ)
-- [Text2Video-Zero: Text-to-Image Diffusion Models Are Zero-Shot Video Generators](https://github.com/Picsart-AI-Research/Text2Video-Zero)
-- [Tell HN: Linux developers were actually working for MS thanks to Copilot X](https://news.ycombinator.com/item?id=35284144)
-- [Set-the-Scene: Global-Local Training for Generating Controllable NeRF Scenes](https://danacohen95.github.io/Set-the-Scene/)
-- [Plotting Behind the Scenes: Towards Learnable Game Engines](https://learnable-game-engines.github.io/lge-website/)
+- [Solar Image Gallery – Analemma](https://www.perseus.gr/Astro-Solar-Analemma.htm)
+- [Gordon E. Moore, the Intel Co-Founder Behind Moore’s Law, Dies at 94](https://www.nytimes.com/2023/03/24/obituaries/gordon-moore-intel-obituary.html)
+- [Framework previews modular gaming laptop with upgradeable GPU](https://newatlas.com/laptops/framework-laptop-16/)
+- [India opposition leader loses Parliament seat after conviction for defamation](https://www.npr.org/2023/03/24/1165822683/india-rahul-gandhi-parliament-seat-defamation-modi)
+- [The ex-Meta recruiter who says she made $190K a year ‘to do nothing’ speaks out](https://www.sfgate.com/tech/article/viral-meta-recruiter-speaks-out-17857152.php)
+- [Breeching Boys](https://histclo.com/style/skirted/dress/breech.html)
+- [Visualization technique to drive scientific discoveries and customer analytics](https://techxplore.com/news/2023-03-visualization-technique-scientific-discoveries-customer.html)
+- [Sequencegenius – Create diagram from your idea with AI](https://github.com/huytd/sequencegenius)
+- [Nudging Polarization](https://www.jefftk.com/p/nudging-polarization)
+- [Orange Pi 5 Is a Great and Fast Alternative to the Raspberry Pi 4](https://www.phoronix.com/review/orange-pi-5)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

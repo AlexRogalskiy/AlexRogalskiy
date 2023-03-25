@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Harry Kane leads England to first win in Italy since 1961 – Football Weekly podcast](https://www.theguardian.com/football/audio/2023/mar/24/harry-kane-leads-england-to-first-win-in-italy-since-1961-football-weekly-podcast)
-- [Russia-Ukraine war at a glance: what we know on day 394 of the invasion](https://www.theguardian.com/world/2023/mar/24/russia-ukraine-war-at-a-glance-what-we-know-on-day-394-of-the-invasion)
-- [‘Deeply sorry’ Ofsted chief rejects call for halt in inspections after head’s death](https://www.theguardian.com/education/2023/mar/24/ofsted-chief-amanda-spielman-sorry-ruth-perry-death)
-- [UK households ‘spent 12% more on essentials in February than year earlier’](https://www.theguardian.com/business/2023/mar/24/uk-households-spent-more-on-essentials-in-february-than-year-earlier)
-- [Gillian Keegan urged to not let culture wars weaken sex education](https://www.theguardian.com/education/2023/mar/24/sex-education-england-schools-review-gillian-keegan)
-- [Ringfence 10% of UK health spending for preventive measures, report urges](https://www.theguardian.com/politics/2023/mar/24/health-spending-preventive-public-measures-report)
-- [TikTok CEO grilled for over five hours on China, drugs and teen mental health](https://www.theguardian.com/technology/2023/mar/23/tiktok-shou-zi-chew-congress)
-- [Harry Kane completes cycle of England hotshots with goals record | Barney Ronay](https://www.theguardian.com/football/blog/2023/mar/23/harry-kane-completes-cycle-of-england-hotshots-with-goals-record)
-- [Bayern Munich sack Julian Nagelsmann and prepare to appoint Thomas Tuchel](https://www.theguardian.com/football/2023/mar/23/bayern-munich-sack-julian-nagelsmann-and-prepare-to-appoint-thomas-tuchel)
-- [‘A dream becomes reality’: Harry Kane’s pride at breaking England goals record](https://www.theguardian.com/football/2023/mar/23/harry-kane-pride-after-breaking-england-goalscoring-record)
+- [Yorkshire chief executive Stephen Vaughan spells out financial issues](https://www.theguardian.com/sport/2023/mar/25/county-cricket-yorkshire-agm-stephen-vaughan)
+- [Boys, 14 and 16, charged with murder of Northampton teenager](https://www.theguardian.com/uk-news/2023/mar/24/boys-14-and-16-charged-with-of-northampton-teenager)
+- [Man charged with murder after death of pedestrian in Plymouth](https://www.theguardian.com/uk-news/2023/mar/24/man-charged-with-after-death-of-pedestrian-in-plymouth)
+- [Hotel Rwanda’s Paul Rusesabagina released from prison](https://www.theguardian.com/world/2023/mar/24/hotel-rwanda-paul-rusesabagina-to-be-released-from-prison)
+- [High concentrations of DDT found across vast swath of California seafloor](https://www.theguardian.com/us-news/2023/mar/24/california-pacific-ocean-ddt-high-concentration)
+- [Sydney to put up more statues of women after its public art labelled a ‘sausage party’](https://www.theguardian.com/australia-news/2023/mar/25/sydney-to-put-up-more-statues-of-women-after-its-public-art-labelled-a-sausage-party)
+- [Euro 2024 qualifying: Mbappé leads France to opening win over Netherlands](https://www.theguardian.com/football/2023/mar/24/euro-2024-qualifying-round-up-captain-mbappe-inspires-france-to-opening-win)
+- [Pope Francis returns three fragments of Parthenon to Greece](https://www.theguardian.com/artanddesign/2023/mar/24/pope-francis-returns-three-fragments-of-parthenon-to-greece)
+- [‘Yachts at the top’: power, privacy and privilege in the world of Australian superyachts](https://www.theguardian.com/australia-news/2023/mar/25/yachts-at-the-top-power-privacy-and-privilege-in-the-world-of-australian-superyachts)
+- [‘If we don’t win, it’s a failure’: Maguire sets bold England target for Euro 2024](https://www.theguardian.com/football/2023/mar/24/if-we-dont-win-its-a-failure-maguire-sets-bold-england-target-for-euro-2024)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

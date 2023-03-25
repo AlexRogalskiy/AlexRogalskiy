@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [OpenAI&#39;s ChatGPT gets support for a dozen application plug-ins](https://www.computerworld.com/article/3691617/openais-chatgpt-gets-support-for-a-dozen-application-plug-ins.html#tk.rss_all)
+- [Is Apple really joining the WFH counter-revolution?](https://www.computerworld.com/article/3691634/is-apple-really-joining-the-wfh-counter-revolution.html#tk.rss_all)
+- [Microsoft customers locked out of Azure and M365 services due to geolocation error](https://www.computerworld.com/article/3691774/microsoft-customers-locked-out-of-azure-and-m365-services-due-to-geolocation-error.html#tk.rss_all)
+- [How to get Android 14&#39;s new notification powers now](https://www.computerworld.com/article/3691509/android-14-notifications.html#tk.rss_all)
 - [Microsoft Copilot could fix a long-running Office problem](https://www.computerworld.com/article/3691771/microsoft-copilot-could-fix-a-long-running-office-problem.html#tk.rss_all)
 - [Microsoft launches collaboration app Loop](https://www.computerworld.com/article/3691632/microsoft-launches-collaboration-app-loop.html#tk.rss_all)
 - [Cisco boosts Webex on iPad with Stage Manager and better multitasking](https://www.computerworld.com/article/3691631/cisco-boosts-webex-on-ipad-with-stage-manager-and-better-multitasking.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
 - [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
-- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
-- [7 highly useful PowerShell tools](https://www.computerworld.com/article/3689703/highly-useful-powershell-tools.html#tk.rss_all)
-- [Canva adds AI-powered design tools to its Visual Worksuite](https://www.computerworld.com/article/3691300/canva-adds-ai-powered-design-tools-to-its-visual-worksuite.html#tk.rss_all)
-- [Q&amp;A: Univ. of Phoenix CIO says chatbots could threaten innovation](https://www.computerworld.com/article/3691231/qa-univ-of-phoenix-cio-says-chatbots-could-threaten-innovation.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

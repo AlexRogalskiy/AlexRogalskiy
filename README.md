@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Set-the-Scene: Global-Local Training for Generating Controllable NeRF Scenes](https://danacohen95.github.io/Set-the-Scene/)
-- [Use the XDG Base Directory Specification](https://xdgbasedirectoryspecification.com/)
-- [We built semantic search for ArXiv](https://sigmoidprime.com/post/searchthearxiv/)
-- [The Origin of the Word Daemon &lpar;2002&rpar;](https://ei.cs.vt.edu/~history/Daemon.html)
-- [Introduction to P vs. NP](https://wesammikhail.com/2023/03/22/the-complexity-series-p1-p-vs-np/)
-- [How to read Hacker News threads with most recent comments first](https://til.simonwillison.net/hacker-news/recent-comments)
-- [Surprising Scalability of Multitenancy – Marc&amp;#x27;s Blog](https://brooker.co.za/blog/2023/03/23/economics.html)
-- [Apple: Transformer architecture optimized for Apple Silicon](https://github.com/apple/ml-ane-transformers)
-- [You can&amp;#x27;t tell people anything &lpar;2004&rpar;](http://habitatchronicles.com/2004/04/you-cant-tell-people-anything/)
-- [I Bought Back My Acquihired Startup](https://steveridout.com/2023/03/23/buy-back.html)
+- [Cramming More Components onto Integrated Circuits &lpar;Gordon Moore, 1965&rpar; [pdf]](https://www.cs.utexas.edu/~fussell/courses/cs352h/papers/moore.pdf)
+- [Automatically document an entire codebase using LLMs](https://github.com/context-labs/autodoc)
+- [Gordon Moore, Intel Co-Founder, Dies at 94](https://www.intel.com/content/www/us/en/newsroom/news/gordon-moore-obituary.html)
+- [In Memoriam: Gordon Moore, 1929 – 2023](https://www.moore.org/article-detail?newsUrlName=in-memoriam-gordon-moore-1929-2023)
+- [Gordon Moore, Intel Co-Founder, Dies at 94](https://www.intc.com/news-events/press-releases/detail/1611/gordon-moore-intel-co-founder-dies-at-94)
+- [Goodbye to Google Code Jam](https://codingcompetitions.withgoogle.com/codejam)
+- [Judge Decides Against Internet Archive](https://file770.com/judge-decides-against-internet-archive/)
+- [We Ran a Phone Check at a Y Combinator Event in SF. Here’s How It Went](https://blog.getclearspace.com/we-ran-a-phone-check-at-a-ycombinator-event-in-san-francisco-heres-how-it-went-fb920a54c755)
+- [GPT-4 performs significantly worse on coding problems not in its training data](https://twitter.com/cHHillee/status/1635790330854526981)
+- [We need a new economics of water as a common good](https://www.nature.com/articles/d41586-023-00800-z)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

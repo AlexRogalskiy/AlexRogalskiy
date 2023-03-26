@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Solar Image Gallery – Analemma](https://www.perseus.gr/Astro-Solar-Analemma.htm)
-- [Gordon E. Moore, the Intel Co-Founder Behind Moore’s Law, Dies at 94](https://www.nytimes.com/2023/03/24/obituaries/gordon-moore-intel-obituary.html)
-- [Framework previews modular gaming laptop with upgradeable GPU](https://newatlas.com/laptops/framework-laptop-16/)
-- [India opposition leader loses Parliament seat after conviction for defamation](https://www.npr.org/2023/03/24/1165822683/india-rahul-gandhi-parliament-seat-defamation-modi)
-- [The ex-Meta recruiter who says she made $190K a year ‘to do nothing’ speaks out](https://www.sfgate.com/tech/article/viral-meta-recruiter-speaks-out-17857152.php)
-- [Breeching Boys](https://histclo.com/style/skirted/dress/breech.html)
-- [Visualization technique to drive scientific discoveries and customer analytics](https://techxplore.com/news/2023-03-visualization-technique-scientific-discoveries-customer.html)
-- [Sequencegenius – Create diagram from your idea with AI](https://github.com/huytd/sequencegenius)
-- [Nudging Polarization](https://www.jefftk.com/p/nudging-polarization)
-- [Orange Pi 5 Is a Great and Fast Alternative to the Raspberry Pi 4](https://www.phoronix.com/review/orange-pi-5)
+- [Chipmakers fight spread of US crackdowns on “forever chemicals”](https://www.ft.com/content/8352e84b-284c-4ebe-a7c1-5e2093566e0d)
+- [Top FPGA Organizations Globally &lpar;2022&rpar;](https://www.logic-fruit.com/blog/fpga/top-20-fpga-organizations-globally/)
+- [The Tile Encoder – Compressing Vectors in Memory](https://weaviate.io/blog/ann-algorithms-tiles-enocoder)
+- [Ask HN: Any Things You Wish You Were Told When Learning Programming?](https://news.ycombinator.com/item?id=35310010)
+- [U.S. Home Prices Are the Most Unaffordable They&#39;ve Been in Nearly 100 Years](https://www.longtermtrends.net/home-price-median-annual-income-ratio/)
+- [Eating Disorders and Social Media Prove Difficult to Untangle](https://www.nytimes.com/2021/10/22/technology/social-media-eating-disorders.html)
+- [Cleveland Clinic and IBM Unveil First Quantum Computer Dedicated to Healthcare](https://newsroom.ibm.com/2023-03-20-Cleveland-Clinic-and-IBM-Unveil-First-Quantum-Computer-Dedicated-to-Healthcare-Research)
+- [FDA: Acetaminophen one of the most dangerous drugs on the market](https://www.clickorlando.com/health/2012/02/14/fda-acetaminophen-one-of-the-most-dangerous-drugs-on-the-market/)
+- [ChatGPT&#39;s Summary of Lex Fridman&#39;s Interview with Sam Altman](https://twitter.com/michaelsayman/status/1639774874292895747)
+- [Contempt for the Glue People](https://surfingcomplexity.blog/2021/08/28/contempt-for-the-glue-people/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

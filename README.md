@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Yorkshire chief executive Stephen Vaughan spells out financial issues](https://www.theguardian.com/sport/2023/mar/25/county-cricket-yorkshire-agm-stephen-vaughan)
-- [Boys, 14 and 16, charged with murder of Northampton teenager](https://www.theguardian.com/uk-news/2023/mar/24/boys-14-and-16-charged-with-of-northampton-teenager)
-- [Man charged with murder after death of pedestrian in Plymouth](https://www.theguardian.com/uk-news/2023/mar/24/man-charged-with-after-death-of-pedestrian-in-plymouth)
-- [Hotel Rwanda’s Paul Rusesabagina released from prison](https://www.theguardian.com/world/2023/mar/24/hotel-rwanda-paul-rusesabagina-to-be-released-from-prison)
-- [High concentrations of DDT found across vast swath of California seafloor](https://www.theguardian.com/us-news/2023/mar/24/california-pacific-ocean-ddt-high-concentration)
-- [Sydney to put up more statues of women after its public art labelled a ‘sausage party’](https://www.theguardian.com/australia-news/2023/mar/25/sydney-to-put-up-more-statues-of-women-after-its-public-art-labelled-a-sausage-party)
-- [Euro 2024 qualifying: Mbappé leads France to opening win over Netherlands](https://www.theguardian.com/football/2023/mar/24/euro-2024-qualifying-round-up-captain-mbappe-inspires-france-to-opening-win)
-- [Pope Francis returns three fragments of Parthenon to Greece](https://www.theguardian.com/artanddesign/2023/mar/24/pope-francis-returns-three-fragments-of-parthenon-to-greece)
-- [‘Yachts at the top’: power, privacy and privilege in the world of Australian superyachts](https://www.theguardian.com/australia-news/2023/mar/25/yachts-at-the-top-power-privacy-and-privilege-in-the-world-of-australian-superyachts)
-- [‘If we don’t win, it’s a failure’: Maguire sets bold England target for Euro 2024](https://www.theguardian.com/football/2023/mar/24/if-we-dont-win-its-a-failure-maguire-sets-bold-england-target-for-euro-2024)
+- [Trafficked: Marta - part four | podcast](https://www.theguardian.com/news/audio/2023/mar/26/trafficked-marta-part-four-podcast)
+- [Israel defence minister urges pause in judicial overhaul as thousands rally in Tel Aviv](https://www.theguardian.com/world/2023/mar/25/tel-aviv-demonstrations-against-benjamin-netanyahu-judicial-overhaul-israel)
+- [Russia-Ukraine war at a glance: what we know on day 396 of the invasion](https://www.theguardian.com/world/2023/mar/26/russia-ukraine-war-at-a-glance-what-we-know-on-day-396-of-the-invasion)
+- [Fears that UK’s net zero strategy will be blown off course by oil and gas pressures](https://www.theguardian.com/business/2023/mar/26/fears-that-uks-net-zero-strategy-will-be-blown-off-course-by-oil-and-gas-pressures)
+- [Australian teenagers urge government to help them break vaping addiction](https://www.theguardian.com/australia-news/2023/mar/26/australian-teenagers-urge-government-to-help-them-break-vaping-addiction)
+- [We love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2023/mar/25/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Excess baggage: 15 of the best oversized bags – in pictures](https://www.theguardian.com/fashion/gallery/2023/mar/25/excess-baggage-15-of-the-best-oversized-bags-in-pictures)
+- [Rishi Sunak outlines ‘immediate justice’ scheme to combat antisocial behaviour](https://www.theguardian.com/uk-news/2023/mar/25/rishi-sunak-immediate-justice-scheme-to-combat-antisocial-behaviour)
+- [‘The reasons couples separate are mostly mundane. That doesn’t mean they’re not painful’ |  Mali Waugh](https://www.theguardian.com/lifeandstyle/2023/mar/26/the-reasons-couples-separate-are-mostly-mundane-that-doesnt-mean-theyre-not-painful)
+- [Man arrested by police investigating alleged blackmail of Alison Hammond](https://www.theguardian.com/uk-news/2023/mar/25/police-investigate-claims-of-blackmail-targeted-against-alison-hammond)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

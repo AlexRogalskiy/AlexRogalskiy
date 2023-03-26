@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Cramming More Components onto Integrated Circuits &lpar;Gordon Moore, 1965&rpar; [pdf]](https://www.cs.utexas.edu/~fussell/courses/cs352h/papers/moore.pdf)
-- [Automatically document an entire codebase using LLMs](https://github.com/context-labs/autodoc)
-- [Gordon Moore, Intel Co-Founder, Dies at 94](https://www.intel.com/content/www/us/en/newsroom/news/gordon-moore-obituary.html)
-- [In Memoriam: Gordon Moore, 1929 – 2023](https://www.moore.org/article-detail?newsUrlName=in-memoriam-gordon-moore-1929-2023)
-- [Gordon Moore, Intel Co-Founder, Dies at 94](https://www.intc.com/news-events/press-releases/detail/1611/gordon-moore-intel-co-founder-dies-at-94)
-- [Goodbye to Google Code Jam](https://codingcompetitions.withgoogle.com/codejam)
-- [Judge Decides Against Internet Archive](https://file770.com/judge-decides-against-internet-archive/)
-- [We Ran a Phone Check at a Y Combinator Event in SF. Here’s How It Went](https://blog.getclearspace.com/we-ran-a-phone-check-at-a-ycombinator-event-in-san-francisco-heres-how-it-went-fb920a54c755)
-- [GPT-4 performs significantly worse on coding problems not in its training data](https://twitter.com/cHHillee/status/1635790330854526981)
-- [We need a new economics of water as a common good](https://www.nature.com/articles/d41586-023-00800-z)
+- [Cargo theft, led by food and beverage, is surging across the U.S.](https://www.cnbc.com/2023/03/25/cargo-theft-led-by-food-and-beverage-is-surging-across-the-us.html)
+- [Show HN: 13Sheep – a JavaScript game largely authored by ChatGPT](https://13sheep.netlify.app/)
+- [systemd 100% cpu hang? – Proxmox Support Forum](https://forum.proxmox.com/threads/systemd-100-cpu-hang.124767/)
+- [Dismantling a Crappy Malware Operation](https://mrbruh.com/dismantling_malware_operation/)
+- [Vector database built for scalable similarity search](https://milvus.io/)
+- [I lost everything that made me love my job through Midjourney overnight](https://reddit.com/r/blender/comments/121lhfq/i_lost_everything_that_made_me_love_my_job/)
+- [My experience crafting an interpreter with Rust &lpar;2021&rpar;](https://ceronman.com/2021/07/22/my-experience-crafting-an-interpreter-with-rust/)
+- [A nasal spray protects against coronavirus including immune-evasive variants](https://www.helsinki.fi/en/news/pandemics/nasal-spray-protects-against-coronavirus-infection-effective-also-against-recent-immune-evasive-variants)
+- [Show HN: Lunette – A word processor designed around writing, not formatting](https://lunette.app/)
+- [Utah is first US state to limit teen social media access](https://www.bbc.com/news/world-us-canada-65060733)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

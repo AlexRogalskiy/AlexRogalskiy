@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Cargo theft, led by food and beverage, is surging across the U.S.](https://www.cnbc.com/2023/03/25/cargo-theft-led-by-food-and-beverage-is-surging-across-the-us.html)
-- [Show HN: 13Sheep – a JavaScript game largely authored by ChatGPT](https://13sheep.netlify.app/)
-- [systemd 100% cpu hang? – Proxmox Support Forum](https://forum.proxmox.com/threads/systemd-100-cpu-hang.124767/)
-- [Dismantling a Crappy Malware Operation](https://mrbruh.com/dismantling_malware_operation/)
-- [Vector database built for scalable similarity search](https://milvus.io/)
-- [I lost everything that made me love my job through Midjourney overnight](https://reddit.com/r/blender/comments/121lhfq/i_lost_everything_that_made_me_love_my_job/)
-- [My experience crafting an interpreter with Rust &lpar;2021&rpar;](https://ceronman.com/2021/07/22/my-experience-crafting-an-interpreter-with-rust/)
-- [A nasal spray protects against coronavirus including immune-evasive variants](https://www.helsinki.fi/en/news/pandemics/nasal-spray-protects-against-coronavirus-infection-effective-also-against-recent-immune-evasive-variants)
-- [Show HN: Lunette – A word processor designed around writing, not formatting](https://lunette.app/)
-- [Utah is first US state to limit teen social media access](https://www.bbc.com/news/world-us-canada-65060733)
+- [Argonaut &lpar;YC S21&rpar; Is Hiring a FullStack Engineer in India &lpar;Remote&rpar;](https://www.ycombinator.com/companies/argonaut/jobs/pJavmIJ-fullstack-engineer)
+- [Video Rendering with Node.js and FFmpeg](https://creatomate.com/blog/video-rendering-with-nodejs-and-ffmpeg)
+- [JSON for Linking Data](https://json-ld.org)
+- [We need better support for SSH host certificates](https://mjg59.dreamwidth.org/65874.html)
+- [Do large language models need sensory grounding for meaning and understanding?](https://drive.google.com/file/d/1BU5bV3X5w65DwSMapKcsr0ZvrMRU_Nbi/view)
+- [The RIAA vs. Steve Jobs](https://weblog.rogueamoeba.com/2023/03/24/the-riaa-v-steve-jobs/)
+- [Ask HN: Math for Programmers?](https://news.ycombinator.com/item?id=35320638)
+- [BlenderGPT: Use commands in English to control Blender with OpenAI&amp;#x27;s GPT-4](https://github.com/gd3kr/BlenderGPT)
+- [An interview with Steve Wozniak by Jessica Livingston cured my AI anxiety](https://blog.vslira.net/2023/03/an-interview-with-steve-wozniak-by.html)
+- [Robot Learns to See in 30 Minutes &lpar;2022&rpar;](https://antonilo.github.io/vision_locomotion/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Chipmakers fight spread of US crackdowns on “forever chemicals”](https://www.ft.com/content/8352e84b-284c-4ebe-a7c1-5e2093566e0d)
-- [Top FPGA Organizations Globally &lpar;2022&rpar;](https://www.logic-fruit.com/blog/fpga/top-20-fpga-organizations-globally/)
-- [The Tile Encoder – Compressing Vectors in Memory](https://weaviate.io/blog/ann-algorithms-tiles-enocoder)
-- [Ask HN: Any Things You Wish You Were Told When Learning Programming?](https://news.ycombinator.com/item?id=35310010)
-- [U.S. Home Prices Are the Most Unaffordable They&#39;ve Been in Nearly 100 Years](https://www.longtermtrends.net/home-price-median-annual-income-ratio/)
-- [Eating Disorders and Social Media Prove Difficult to Untangle](https://www.nytimes.com/2021/10/22/technology/social-media-eating-disorders.html)
-- [Cleveland Clinic and IBM Unveil First Quantum Computer Dedicated to Healthcare](https://newsroom.ibm.com/2023-03-20-Cleveland-Clinic-and-IBM-Unveil-First-Quantum-Computer-Dedicated-to-Healthcare-Research)
-- [FDA: Acetaminophen one of the most dangerous drugs on the market](https://www.clickorlando.com/health/2012/02/14/fda-acetaminophen-one-of-the-most-dangerous-drugs-on-the-market/)
-- [ChatGPT&#39;s Summary of Lex Fridman&#39;s Interview with Sam Altman](https://twitter.com/michaelsayman/status/1639774874292895747)
-- [Contempt for the Glue People](https://surfingcomplexity.blog/2021/08/28/contempt-for-the-glue-people/)
+- [Nokia 8110](https://en.wikipedia.org/wiki/Nokia_8110)
+- [Twitter Source Code Leak Turns into Hunt for Perpetrator](https://www.bloomberg.com/news/articles/2023-03-27/twitter-source-code-leak-turns-into-hunt-for-perpetrator)
+- [Thetalentwarehouse](https://www.ttwcommunity.com/)
+- [Show HN: Repid – new Python job scheduler with Asyncio in mind](https://github.com/aleksul/repid)
+- [Jargon: An LLM-based pseudolanguage for prompt engineering](https://jake.mirror.xyz/sPZECVTkrbVq4DerB13Thvqq_XqsDGwTBDD3SSzdI44)
+- [Rationale – GPT for Decision-Making](https://rationale.jina.ai/)
+- [Attention, Travelers: Now Is the Best Time to Switch to ESIM](https://www.nytimes.com/2023/03/23/technology/personaltech/esim-sim-cards-travel.html)
+- [A History of APL in 50 Functions](https://www.jsoftware.com/papers/50/)
+- [Snippet AI – The All-in-One Safari Article Companion](https://apps.apple.com/us/app/snippet-ai-reader-copilot/id1669938719)
+- [Show HN: Notclick.in – summarize YouTube videos with ChatGPT](https://notclick.in)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

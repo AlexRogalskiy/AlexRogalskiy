@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Trafficked: Marta - part four | podcast](https://www.theguardian.com/news/audio/2023/mar/26/trafficked-marta-part-four-podcast)
-- [Israel defence minister urges pause in judicial overhaul as thousands rally in Tel Aviv](https://www.theguardian.com/world/2023/mar/25/tel-aviv-demonstrations-against-benjamin-netanyahu-judicial-overhaul-israel)
-- [Russia-Ukraine war at a glance: what we know on day 396 of the invasion](https://www.theguardian.com/world/2023/mar/26/russia-ukraine-war-at-a-glance-what-we-know-on-day-396-of-the-invasion)
-- [Fears that UK’s net zero strategy will be blown off course by oil and gas pressures](https://www.theguardian.com/business/2023/mar/26/fears-that-uks-net-zero-strategy-will-be-blown-off-course-by-oil-and-gas-pressures)
-- [Australian teenagers urge government to help them break vaping addiction](https://www.theguardian.com/australia-news/2023/mar/26/australian-teenagers-urge-government-to-help-them-break-vaping-addiction)
-- [We love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2023/mar/25/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Excess baggage: 15 of the best oversized bags – in pictures](https://www.theguardian.com/fashion/gallery/2023/mar/25/excess-baggage-15-of-the-best-oversized-bags-in-pictures)
-- [Rishi Sunak outlines ‘immediate justice’ scheme to combat antisocial behaviour](https://www.theguardian.com/uk-news/2023/mar/25/rishi-sunak-immediate-justice-scheme-to-combat-antisocial-behaviour)
-- [‘The reasons couples separate are mostly mundane. That doesn’t mean they’re not painful’ |  Mali Waugh](https://www.theguardian.com/lifeandstyle/2023/mar/26/the-reasons-couples-separate-are-mostly-mundane-that-doesnt-mean-theyre-not-painful)
-- [Man arrested by police investigating alleged blackmail of Alison Hammond](https://www.theguardian.com/uk-news/2023/mar/25/police-investigate-claims-of-blackmail-targeted-against-alison-hammond)
+- [Exposing the myth of Britain’s ‘perfect’ war against Islamic State – podcast](https://www.theguardian.com/news/audio/2023/mar/27/exposing-myth-britain-perfect-war-against-islamic-state-podcast)
+- [North Korea fires short-range ballistic missiles as regional tensions rise](https://www.theguardian.com/world/2023/mar/27/north-korea-fires-short-range-ballistic-missiles-as-regional-tensions-rise)
+- [Russia-Ukraine war at a glance: what we know on day 397 of the invasion](https://www.theguardian.com/world/2023/mar/27/russia-ukraine-war-at-a-glance-what-we-know-on-day-397-of-the-invasion)
+- [Hong Kong police keep tight control over first authorised protest in years](https://www.theguardian.com/world/2023/mar/27/hong-kong-police-keep-tight-control-over-first-authorised-protest-in-years)
+- [Little progress made on energy efficiency in UK homes, report finds](https://www.theguardian.com/environment/2023/mar/27/little-progress-made-on-energy-efficiency-in-uk-homes-report-finds)
+- [Two-thirds of UK workers with long Covid have faced unfair treatment, says report](https://www.theguardian.com/society/2023/mar/27/long-covid-two-thirds-workers-unfair-treatment-report)
+- [Revised plans for HS2 Euston terminus would cost almost £5bn, says watchdog](https://www.theguardian.com/uk-news/2023/mar/27/revised-plans-hs2-london-euston-terminus-cost-5bn)
+- [Ukrainian troops return home after Challenger 2 tank training in UK](https://www.theguardian.com/world/2023/mar/27/ukrainian-troops-return-home-after-challenger-2-tank-training-in-uk)
+- [McIlroy and Scheffler denied before Sam Burns wins shock WGC Match Play](https://www.theguardian.com/sport/2023/mar/26/mcilroy-and-scheffler-wgc-match-play-final-golf-burns-young-pga)
+- [Israel: mass protests after sacking of minister who opposed judicial overhaul](https://www.theguardian.com/world/2023/mar/26/benjamin-netanyahu-fires-defence-minister-yoav-gallant-judicial-overhaul)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

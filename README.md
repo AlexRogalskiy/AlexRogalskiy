@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Argonaut &lpar;YC S21&rpar; Is Hiring a FullStack Engineer in India &lpar;Remote&rpar;](https://www.ycombinator.com/companies/argonaut/jobs/pJavmIJ-fullstack-engineer)
-- [Video Rendering with Node.js and FFmpeg](https://creatomate.com/blog/video-rendering-with-nodejs-and-ffmpeg)
-- [JSON for Linking Data](https://json-ld.org)
-- [We need better support for SSH host certificates](https://mjg59.dreamwidth.org/65874.html)
-- [Do large language models need sensory grounding for meaning and understanding?](https://drive.google.com/file/d/1BU5bV3X5w65DwSMapKcsr0ZvrMRU_Nbi/view)
-- [The RIAA vs. Steve Jobs](https://weblog.rogueamoeba.com/2023/03/24/the-riaa-v-steve-jobs/)
-- [Ask HN: Math for Programmers?](https://news.ycombinator.com/item?id=35320638)
-- [BlenderGPT: Use commands in English to control Blender with OpenAI&amp;#x27;s GPT-4](https://github.com/gd3kr/BlenderGPT)
-- [An interview with Steve Wozniak by Jessica Livingston cured my AI anxiety](https://blog.vslira.net/2023/03/an-interview-with-steve-wozniak-by.html)
-- [Robot Learns to See in 30 Minutes &lpar;2022&rpar;](https://antonilo.github.io/vision_locomotion/)
+- [A brief history of APFS &lpar;Apple File System&rpar; in honour of its fifth birthday](https://eclecticlight.co/2022/04/01/a-brief-history-of-apfs-in-honour-of-its-fifth-birthday/)
+- [For the First Time, the Fed Is Losing Money](https://www.wsj.com/articles/for-the-first-time-the-fed-is-losing-money-mortage-backed-securities-treasurys-interest-rate-risk-svb-ad92e96f)
+- [Procedural 3D mesh generation in a 64kB intro](https://www.ctrl-alt-test.fr/2023/procedural-3d-mesh-generation-in-a-64kb-intro/)
+- [Patriot Act on steroids: anti-TikTok Trojan horse for censorship, surveillance](https://dossier.substack.com/p/the-patriot-act-on-steroids-dc-uniparty)
+- [Show HN: Regex.ai – AI-powered regular expression generator](https://regex.ai/)
+- [Show HN: Document Q&amp;amp;A with GPT: web, .pdf, .docx, etc.](https://klavier.ai/)
+- [ChatGPT Outperforms Crowd-Workers for Text-Annotation Tasks](https://arxiv.org/abs/2303.15056)
+- [Wavelength](https://daringfireball.net/2023/03/wavelength)
+- [The Perils of Polishing &lpar;old Fortran libraries&rpar;](https://fortran-lang.discourse.group/t/the-perils-of-polishing-long/5444)
+- [Clearview AI used nearly 1M times by US police, it tells the BBC](https://www.bbc.com/news/technology-65057011)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

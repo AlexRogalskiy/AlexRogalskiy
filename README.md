@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Exposing the myth of Britain’s ‘perfect’ war against Islamic State – podcast](https://www.theguardian.com/news/audio/2023/mar/27/exposing-myth-britain-perfect-war-against-islamic-state-podcast)
-- [North Korea fires short-range ballistic missiles as regional tensions rise](https://www.theguardian.com/world/2023/mar/27/north-korea-fires-short-range-ballistic-missiles-as-regional-tensions-rise)
-- [Russia-Ukraine war at a glance: what we know on day 397 of the invasion](https://www.theguardian.com/world/2023/mar/27/russia-ukraine-war-at-a-glance-what-we-know-on-day-397-of-the-invasion)
-- [Hong Kong police keep tight control over first authorised protest in years](https://www.theguardian.com/world/2023/mar/27/hong-kong-police-keep-tight-control-over-first-authorised-protest-in-years)
-- [Little progress made on energy efficiency in UK homes, report finds](https://www.theguardian.com/environment/2023/mar/27/little-progress-made-on-energy-efficiency-in-uk-homes-report-finds)
-- [Two-thirds of UK workers with long Covid have faced unfair treatment, says report](https://www.theguardian.com/society/2023/mar/27/long-covid-two-thirds-workers-unfair-treatment-report)
-- [Revised plans for HS2 Euston terminus would cost almost £5bn, says watchdog](https://www.theguardian.com/uk-news/2023/mar/27/revised-plans-hs2-london-euston-terminus-cost-5bn)
-- [Ukrainian troops return home after Challenger 2 tank training in UK](https://www.theguardian.com/world/2023/mar/27/ukrainian-troops-return-home-after-challenger-2-tank-training-in-uk)
-- [McIlroy and Scheffler denied before Sam Burns wins shock WGC Match Play](https://www.theguardian.com/sport/2023/mar/26/mcilroy-and-scheffler-wgc-match-play-final-golf-burns-young-pga)
-- [Israel: mass protests after sacking of minister who opposed judicial overhaul](https://www.theguardian.com/world/2023/mar/26/benjamin-netanyahu-fires-defence-minister-yoav-gallant-judicial-overhaul)
+- [‘Hits very close to home’: Nashville shooting reporter recounts story of attack at her own school](https://www.theguardian.com/us-news/2023/mar/28/nashville-tennesee-shooting-reporter-journalist-recounts-story-of-attack-at-her-own-school)
+- [‘Being truthful is essential’: scientist who stumbled upon Wuhan Covid data speaks out](https://www.theguardian.com/world/2023/mar/28/being-truthful-is-essential-scientist-who-stumbled-upon-wuhan-covid-data-speaks-out)
+- [‘It’s way beyond just science’: untangling the hunt for Covid’s origins – podcast](https://www.theguardian.com/news/audio/2023/mar/28/way-beyond-just-science-untangling-hunt-for-covid-origins-podcast)
+- [Russia-Ukraine war at a glance: what we know on day 398 of the invasion](https://www.theguardian.com/world/2023/mar/28/russia-ukraine-war-at-a-glance-what-we-know-on-day-398-of-the-invasion)
+- [Jonathan Majors charged with assault and harassment after alleged domestic dispute](https://www.theguardian.com/film/2023/mar/28/jonathan-majors-creed-iii-actor-charged-assault-harassment-alleged-domestic-dispute)
+- [‘Sour taste’ as cost of sugar hits Easter eggs and hot cross buns, say UK retailers](https://www.theguardian.com/business/2023/mar/28/sour-taste-as-cost-of-sugar-hits-easter-eggs-and-hot-cross-buns-say-uk-retailers)
+- [Delays to landlord energy efficiency standards will cost England’s renters £1bn](https://www.theguardian.com/environment/2023/mar/28/delays-landlord-energy-efficiency-standards-england-renters-tenants)
+- [David Jason ‘delighted’ to discover 52-year-old daughter he never knew](https://www.theguardian.com/tv-and-radio/2023/mar/27/david-jason-delighted-to-discover-52-year-old-daughter-he-never-knew)
+- [Landlords to get power to evict antisocial tenants with two weeks’ notice](https://www.theguardian.com/technology/2023/mar/27/ministers-to-crack-down-on-short-term-lets-over-rowdy-airbnb-guests)
+- [Tory MPs push to toughen migration bill as rights chief sounds alarm](https://www.theguardian.com/uk-news/2023/mar/27/tory-mps-push-to-toughen-migration-bill-as-rights-chief-sounds-alarm)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Nokia 8110](https://en.wikipedia.org/wiki/Nokia_8110)
-- [Twitter Source Code Leak Turns into Hunt for Perpetrator](https://www.bloomberg.com/news/articles/2023-03-27/twitter-source-code-leak-turns-into-hunt-for-perpetrator)
-- [Thetalentwarehouse](https://www.ttwcommunity.com/)
-- [Show HN: Repid – new Python job scheduler with Asyncio in mind](https://github.com/aleksul/repid)
-- [Jargon: An LLM-based pseudolanguage for prompt engineering](https://jake.mirror.xyz/sPZECVTkrbVq4DerB13Thvqq_XqsDGwTBDD3SSzdI44)
-- [Rationale – GPT for Decision-Making](https://rationale.jina.ai/)
-- [Attention, Travelers: Now Is the Best Time to Switch to ESIM](https://www.nytimes.com/2023/03/23/technology/personaltech/esim-sim-cards-travel.html)
-- [A History of APL in 50 Functions](https://www.jsoftware.com/papers/50/)
-- [Snippet AI – The All-in-One Safari Article Companion](https://apps.apple.com/us/app/snippet-ai-reader-copilot/id1669938719)
-- [Show HN: Notclick.in – summarize YouTube videos with ChatGPT](https://notclick.in)
+- [“These wounds do not heal”](https://www.ohchr.org/en/stories/2023/03/these-wounds-do-not-heal)
+- [Ask HN: Is there a “Yelp for SaaS software/platforms”?](https://news.ycombinator.com/item?id=35335501)
+- [“Get Perpendicular” HDD Technology Shockwave Flash Video &lpar;2005&rpar;](https://archive.org/details/get-perpendicular)
+- [Tell HN: In 7 hours, it&#39;s going to be 1679999999 past the Unix epoch](https://news.ycombinator.com/item?id=35335487)
+- [The RPC Trilemma](https://twitter.com/olshansky/status/1640541033984557056)
+- [Godfather of AI Says There&#39;s a Minor Risk It&#39;ll Eliminate Humanity](https://futurism.com/the-byte/godfather-ai-risk-eliminate-humanity)
+- [Study: Office Workers Burn as Many Calories as Hunter-Gatherers](https://www.theatlantic.com/health/archive/2012/07/study-office-workers-burn-as-many-calories-as-hunter-gatherers/260384/)
+- [The meat industry blocked the IPCC’s attempt to recommend a plant-based diet](https://qz.com/ipcc-report-on-climate-change-meat-industry-1850261179)
+- [The secret list of Twitter VIPs getting boosted over everyone else](https://www.platformer.news/p/the-secret-list-of-twitter-vips-getting)
+- [How The Pentagon learned to love vulnerability disclosure](https://therecord.media/defense-department-vulnerability-disclosure-ethical-hackers)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

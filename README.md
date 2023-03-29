@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [“These wounds do not heal”](https://www.ohchr.org/en/stories/2023/03/these-wounds-do-not-heal)
-- [Ask HN: Is there a “Yelp for SaaS software/platforms”?](https://news.ycombinator.com/item?id=35335501)
-- [“Get Perpendicular” HDD Technology Shockwave Flash Video &lpar;2005&rpar;](https://archive.org/details/get-perpendicular)
-- [Tell HN: In 7 hours, it&#39;s going to be 1679999999 past the Unix epoch](https://news.ycombinator.com/item?id=35335487)
-- [The RPC Trilemma](https://twitter.com/olshansky/status/1640541033984557056)
-- [Godfather of AI Says There&#39;s a Minor Risk It&#39;ll Eliminate Humanity](https://futurism.com/the-byte/godfather-ai-risk-eliminate-humanity)
-- [Study: Office Workers Burn as Many Calories as Hunter-Gatherers](https://www.theatlantic.com/health/archive/2012/07/study-office-workers-burn-as-many-calories-as-hunter-gatherers/260384/)
-- [The meat industry blocked the IPCC’s attempt to recommend a plant-based diet](https://qz.com/ipcc-report-on-climate-change-meat-industry-1850261179)
-- [The secret list of Twitter VIPs getting boosted over everyone else](https://www.platformer.news/p/the-secret-list-of-twitter-vips-getting)
-- [How The Pentagon learned to love vulnerability disclosure](https://therecord.media/defense-department-vulnerability-disclosure-ethical-hackers)
+- [The Electrome. It Can Turn You into an Assassin](https://www.nytimes.com/2023/02/28/books/review/we-are-electric-sally-adee.html)
+- [Is Babylon 5 the most influential TV show of the past 25 years? &lpar;2021&rpar;](https://www.techradar.com/news/is-babylon-5-secretly-the-most-influential-tv-show-of-the-past-25-years)
+- [New health insurance “transparency data” looks suspiciously wrong](https://www.dolthub.com/blog/2023-03-23-illusion-of-transparency/)
+- [Show HN: Call Gen Z GPT 1-650-729-9536 Built with Vocode &lpar;YC W23&rpar; and Rime TTS](https://replit.com/@vocode/Gen-Z-Phone#main.py)
+- [Espresso and Open Source Hardware?](https://sohl.substack.com/p/espresso-and-open-source-hardware)
+- [Exploring the neural mechanisms behind how social networks shape our decisions](https://medicalxpress.com/news/2023-03-exploring-neural-mechanisms-social-networks.html)
+- [About the security content of iOS 16.4 and iPadOS 16.4](https://support.apple.com/de-de/HT213676)
+- [Open Flamingo – open framework to train multimodal LLMs](https://laion.ai/blog/open-flamingo/)
+- [Structural Alignment of LLMs with ControLogits](https://github.com/newhouseb/clownfish)
+- [The Do-or-Die Moments That Determined the Fate of the Internet](https://spectrum.ieee.org/computer-networking)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

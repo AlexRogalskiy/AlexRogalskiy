@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
+- [What is Web Push for Web Apps on iPhone and iPad?](https://www.computerworld.com/article/3691899/what-is-web-push-for-web-apps-on-iphone-and-ipad.html#tk.rss_all)
+- [Asana launches prediction-based AI tools to improve decision making](https://www.computerworld.com/article/3691620/asana-launches-prediction-based-ai-tools-to-improve-decision-making.html#tk.rss_all)
+- [Is Microsoft worried about smaller search engines surging ahead of Bing?](https://www.computerworld.com/article/3691779/is-microsoft-worried-about-smaller-search-engines-surging-ahead-of-bing.html#tk.rss_all)
+- [How Microsoft became tech’s top dog again](https://www.computerworld.com/article/3691895/how-microsoft-became-tech-s-top-dog-again.html#tk.rss_all)
 - [Apple Reality tidbits continue to leak — is the product really ready?](https://www.computerworld.com/article/3691893/apple-reality-tidbits-continue-to-leak-is-the-product-really-ready.html#tk.rss_all)
 - [Microsoft rearchitects Teams to make it faster and smarter](https://www.computerworld.com/article/3691894/microsoft-rearchitects-teams-to-make-it-faster-and-smarter.html#tk.rss_all)
 - [Zoom adds generative AI to Zoom IQ; partners with OpenAI](https://www.computerworld.com/article/3691778/zoom-adds-generative-ai-to-zoom-iq-partners-with-openai.html#tk.rss_all)
 - [Q&amp;A: Cisco CIO Fletcher Previn on the challenges of a hybrid workplace](https://www.computerworld.com/article/3691616/qa-cisco-cio-fletcher-previn-on-the-challenges-of-a-hybrid-workplace.html#tk.rss_all)
 - [About the Best Places to Work in IT](https://www.computerworld.com/article/3661814/about-best-places-to-work-in-it.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [OpenAI&#39;s ChatGPT gets support for a dozen application plug-ins](https://www.computerworld.com/article/3691617/openais-chatgpt-gets-support-for-a-dozen-application-plug-ins.html#tk.rss_all)
-- [Is Apple really joining the WFH counter-revolution?](https://www.computerworld.com/article/3691634/is-apple-really-joining-the-wfh-counter-revolution.html#tk.rss_all)
-- [Microsoft customers locked out of Azure and M365 services due to geolocation error](https://www.computerworld.com/article/3691774/microsoft-customers-locked-out-of-azure-and-m365-services-due-to-geolocation-error.html#tk.rss_all)
-- [How to get Android 14&#39;s new notification powers now](https://www.computerworld.com/article/3691509/android-14-notifications.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

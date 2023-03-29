@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [‘Hits very close to home’: Nashville shooting reporter recounts story of attack at her own school](https://www.theguardian.com/us-news/2023/mar/28/nashville-tennesee-shooting-reporter-journalist-recounts-story-of-attack-at-her-own-school)
-- [‘Being truthful is essential’: scientist who stumbled upon Wuhan Covid data speaks out](https://www.theguardian.com/world/2023/mar/28/being-truthful-is-essential-scientist-who-stumbled-upon-wuhan-covid-data-speaks-out)
-- [‘It’s way beyond just science’: untangling the hunt for Covid’s origins – podcast](https://www.theguardian.com/news/audio/2023/mar/28/way-beyond-just-science-untangling-hunt-for-covid-origins-podcast)
-- [Russia-Ukraine war at a glance: what we know on day 398 of the invasion](https://www.theguardian.com/world/2023/mar/28/russia-ukraine-war-at-a-glance-what-we-know-on-day-398-of-the-invasion)
-- [Jonathan Majors charged with assault and harassment after alleged domestic dispute](https://www.theguardian.com/film/2023/mar/28/jonathan-majors-creed-iii-actor-charged-assault-harassment-alleged-domestic-dispute)
-- [‘Sour taste’ as cost of sugar hits Easter eggs and hot cross buns, say UK retailers](https://www.theguardian.com/business/2023/mar/28/sour-taste-as-cost-of-sugar-hits-easter-eggs-and-hot-cross-buns-say-uk-retailers)
-- [Delays to landlord energy efficiency standards will cost England’s renters £1bn](https://www.theguardian.com/environment/2023/mar/28/delays-landlord-energy-efficiency-standards-england-renters-tenants)
-- [David Jason ‘delighted’ to discover 52-year-old daughter he never knew](https://www.theguardian.com/tv-and-radio/2023/mar/27/david-jason-delighted-to-discover-52-year-old-daughter-he-never-knew)
-- [Landlords to get power to evict antisocial tenants with two weeks’ notice](https://www.theguardian.com/technology/2023/mar/27/ministers-to-crack-down-on-short-term-lets-over-rowdy-airbnb-guests)
-- [Tory MPs push to toughen migration bill as rights chief sounds alarm](https://www.theguardian.com/uk-news/2023/mar/27/tory-mps-push-to-toughen-migration-bill-as-rights-chief-sounds-alarm)
+- [Australian man finds gold nugget worth $250,000 in Victoria](https://www.theguardian.com/australia-news/2023/mar/29/australian-man-finds-gold-nugget-worth-250000-in-victoria)
+- [Paul O’Grady, TV presenter and comedian, dies aged 67](https://www.theguardian.com/tv-and-radio/2023/mar/29/paul-ogrady-presenter-and-comedian-dies-aged-67)
+- [Who is Humza Yousaf and how will he change Scotland? | podcast](https://www.theguardian.com/news/audio/2023/mar/29/who-is-humza-yousaf-how-will-he-change-scotland-podcast)
+- [At least 40 dead in Mexico migrant centre fire as rights groups blame overcrowding](https://www.theguardian.com/world/2023/mar/29/mexico-migrant-facility-fire-deaths-ciudad-juarez)
+- [Israel’s Netanyahu rejects Biden’s call to ‘walk away’ from judicial overhaul](https://www.theguardian.com/world/2023/mar/29/israels-netanyahu-rejects-bidens-call-to-walk-away-from-judicial-overhaul)
+- [Adidas asks US to bar Black Lives Matter from using three stripes in trademark](https://www.theguardian.com/world/2023/mar/28/adidas-black-lives-matter-trademark-application)
+- [Russia-Ukraine war at a glance: what we know on day 399 of the invasion](https://www.theguardian.com/world/2023/mar/29/russia-ukraine-war-at-a-glance-what-we-know-on-day-399-of-the-invasion)
+- [UK ‘strikingly unprepared’ for impacts of climate crisis](https://www.theguardian.com/environment/2023/mar/29/uk-strikingly-unprepared-impacts-climate-crisis)
+- [Bulb bailout may cost UK government billions less than feared, says watchdog](https://www.theguardian.com/business/2023/mar/29/bulb-bailout-may-cost-uk-government-billions-less-than-feared-says-watchdog)
+- [Louise Casey: Met police chief accepting term ‘institutional’ would mean so much](https://www.theguardian.com/uk-news/2023/mar/28/louise-casey-met-police-chief-accepting-term-institutional-would-mean-so-much)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

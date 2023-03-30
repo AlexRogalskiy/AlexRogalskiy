@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Tech big wigs: Hit the brakes on AI rollouts](https://www.computerworld.com/article/3691639/tech-big-wigs-hit-the-brakes-on-ai-rollouts.html#tk.rss_all)
+- [What’s new for IT in the latest Mac, iPhone, and iPad updates?](https://www.computerworld.com/article/3691796/whats-new-for-it-in-the-latest-mac-iphone-and-ipad-updates.html#tk.rss_all)
+- [UK government’s AI strategy to rely on existing regulations instead of new laws](https://www.computerworld.com/article/3691901/uk-governments-ai-strategy-to-rely-on-existing-regulations-instead-of-new-laws.html#tk.rss_all)
+- [7 Google Play Store secrets for smarter Android app management](https://www.computerworld.com/article/3691777/google-play-store-android-apps.html#tk.rss_all)
+- [Understanding the Windows Unified Update Platform](https://www.computerworld.com/article/3176529/understanding-windows-unified-update-platform.html#tk.rss_all)
 - [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
 - [What is Web Push for Web Apps on iPhone and iPad?](https://www.computerworld.com/article/3691899/what-is-web-push-for-web-apps-on-iphone-and-ipad.html#tk.rss_all)
 - [Asana launches prediction-based AI tools to improve decision making](https://www.computerworld.com/article/3691620/asana-launches-prediction-based-ai-tools-to-improve-decision-making.html#tk.rss_all)
 - [Is Microsoft worried about smaller search engines surging ahead of Bing?](https://www.computerworld.com/article/3691779/is-microsoft-worried-about-smaller-search-engines-surging-ahead-of-bing.html#tk.rss_all)
 - [How Microsoft became tech’s top dog again](https://www.computerworld.com/article/3691895/how-microsoft-became-tech-s-top-dog-again.html#tk.rss_all)
-- [Apple Reality tidbits continue to leak — is the product really ready?](https://www.computerworld.com/article/3691893/apple-reality-tidbits-continue-to-leak-is-the-product-really-ready.html#tk.rss_all)
-- [Microsoft rearchitects Teams to make it faster and smarter](https://www.computerworld.com/article/3691894/microsoft-rearchitects-teams-to-make-it-faster-and-smarter.html#tk.rss_all)
-- [Zoom adds generative AI to Zoom IQ; partners with OpenAI](https://www.computerworld.com/article/3691778/zoom-adds-generative-ai-to-zoom-iq-partners-with-openai.html#tk.rss_all)
-- [Q&amp;A: Cisco CIO Fletcher Previn on the challenges of a hybrid workplace](https://www.computerworld.com/article/3691616/qa-cisco-cio-fletcher-previn-on-the-challenges-of-a-hybrid-workplace.html#tk.rss_all)
-- [About the Best Places to Work in IT](https://www.computerworld.com/article/3661814/about-best-places-to-work-in-it.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

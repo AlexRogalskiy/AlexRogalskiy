@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Electrome. It Can Turn You into an Assassin](https://www.nytimes.com/2023/02/28/books/review/we-are-electric-sally-adee.html)
-- [Is Babylon 5 the most influential TV show of the past 25 years? &lpar;2021&rpar;](https://www.techradar.com/news/is-babylon-5-secretly-the-most-influential-tv-show-of-the-past-25-years)
-- [New health insurance “transparency data” looks suspiciously wrong](https://www.dolthub.com/blog/2023-03-23-illusion-of-transparency/)
-- [Show HN: Call Gen Z GPT 1-650-729-9536 Built with Vocode &lpar;YC W23&rpar; and Rime TTS](https://replit.com/@vocode/Gen-Z-Phone#main.py)
-- [Espresso and Open Source Hardware?](https://sohl.substack.com/p/espresso-and-open-source-hardware)
-- [Exploring the neural mechanisms behind how social networks shape our decisions](https://medicalxpress.com/news/2023-03-exploring-neural-mechanisms-social-networks.html)
-- [About the security content of iOS 16.4 and iPadOS 16.4](https://support.apple.com/de-de/HT213676)
-- [Open Flamingo – open framework to train multimodal LLMs](https://laion.ai/blog/open-flamingo/)
-- [Structural Alignment of LLMs with ControLogits](https://github.com/newhouseb/clownfish)
-- [The Do-or-Die Moments That Determined the Fate of the Internet](https://spectrum.ieee.org/computer-networking)
+- [Google Cloud Launches Generative AI Tools](https://cloud.google.com/blog/products/ai-machine-learning/generative-ai-for-businesses-and-governments)
+- [Enfabrica Emerges from Stealth Mode](https://blog.enfabrica.net/press-release-networking-chip-startup-enfabrica-emerges-from-stealth-mode-to-solve-scalability-and-b9441b81a3d4)
+- [Astronomers witness birth of distant cluster of galaxies from the early Universe](https://www.eso.org/public/news/eso2304/)
+- [TikTok Ban Bill Is Patriot Act 2.0 Trojan Horse](https://www.youtube.com/watch?v=FWQGA_n5Z4M)
+- [With Folded Hands](https://en.wikipedia.org/wiki/With_Folded_Hands)
+- [Ubuntu Cinnamon](https://ubuntucinnamon.org/ubuntu-cinnamon-flavor-status-announcement/)
+- [Use-By / Used Retail Price Arbitrage](https://news.ycombinator.com/item?id=35366935)
+- [The “Free and Open Internet” Hypocrites](https://dvorak.substack.com/p/the-free-and-open-internet-hypocrites)
+- [The 70s nuclear relic that may be about to open at last](https://www.bbc.com/news/world-asia-64634816)
+- [Exploring C# Optimization Techniques from Entry-Level to Seasoned Veteran](https://initechsolutions.blogspot.com/2022/08/exploring-c-optimization-techniques.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

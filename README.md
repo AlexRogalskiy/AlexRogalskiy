@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Australian man finds gold nugget worth $250,000 in Victoria](https://www.theguardian.com/australia-news/2023/mar/29/australian-man-finds-gold-nugget-worth-250000-in-victoria)
-- [Paul O’Grady, TV presenter and comedian, dies aged 67](https://www.theguardian.com/tv-and-radio/2023/mar/29/paul-ogrady-presenter-and-comedian-dies-aged-67)
-- [Who is Humza Yousaf and how will he change Scotland? | podcast](https://www.theguardian.com/news/audio/2023/mar/29/who-is-humza-yousaf-how-will-he-change-scotland-podcast)
-- [At least 40 dead in Mexico migrant centre fire as rights groups blame overcrowding](https://www.theguardian.com/world/2023/mar/29/mexico-migrant-facility-fire-deaths-ciudad-juarez)
-- [Israel’s Netanyahu rejects Biden’s call to ‘walk away’ from judicial overhaul](https://www.theguardian.com/world/2023/mar/29/israels-netanyahu-rejects-bidens-call-to-walk-away-from-judicial-overhaul)
-- [Adidas asks US to bar Black Lives Matter from using three stripes in trademark](https://www.theguardian.com/world/2023/mar/28/adidas-black-lives-matter-trademark-application)
-- [Russia-Ukraine war at a glance: what we know on day 399 of the invasion](https://www.theguardian.com/world/2023/mar/29/russia-ukraine-war-at-a-glance-what-we-know-on-day-399-of-the-invasion)
-- [UK ‘strikingly unprepared’ for impacts of climate crisis](https://www.theguardian.com/environment/2023/mar/29/uk-strikingly-unprepared-impacts-climate-crisis)
-- [Bulb bailout may cost UK government billions less than feared, says watchdog](https://www.theguardian.com/business/2023/mar/29/bulb-bailout-may-cost-uk-government-billions-less-than-feared-says-watchdog)
-- [Louise Casey: Met police chief accepting term ‘institutional’ would mean so much](https://www.theguardian.com/uk-news/2023/mar/28/louise-casey-met-police-chief-accepting-term-institutional-would-mean-so-much)
+- [Migrant deaths at Mexican detention centre investigated as suspected homicide](https://www.theguardian.com/world/2023/mar/30/migrant-deaths-at-mexican-detention-facility-centre-investigated-as-suspected-homicide)
+- [Why are British teenagers being locked up in ‘re-education camps’? - podcast](https://www.theguardian.com/news/audio/2023/mar/30/why-british-teenagers-being-locked-up-reeducation-camps-podcast)
+- [‘Beginning of a new era’: Pacific islanders hail UN vote on climate justice](https://www.theguardian.com/world/2023/mar/30/un-vote-on-climate-justice-pacific-island-change-crisis-united-nations-vanuatu)
+- [The Asia-Pacific flashpoints fuelling an arms race across the region](https://www.theguardian.com/world/2023/mar/30/asia-pacific-flashpoints-fuelling-regional-arms-race-taiwan-north-korea-south-china-sea-pacific-islands)
+- [Foreign maids and no military service: South Korea criticised over ideas to boost birthrate](https://www.theguardian.com/world/2023/mar/30/foreign-maids-and-no-military-service-south-korea-criticised-over-ideas-to-boost-birthrate)
+- [Bangladesh journalist charged over story about rising food prices](https://www.theguardian.com/world/2023/mar/30/bangladesh-journalist-charged-over-story-about-rising-food-prices)
+- [Gwyneth Paltrow trial: plaintiff’s loss of joy claim at odds with his travel pictures](https://www.theguardian.com/film/2023/mar/29/gwyneth-paltrow-call-on-more-experts-ski-crash-trial-nears-end)
+- [Fears for UK butterfly numbers after die-off in 2022 heatwave](https://www.theguardian.com/environment/2023/mar/30/fears-for-uk-butterfly-numbers-after-die-off-in-2022-heatwave)
+- [Russia-Ukraine war at a glance: what we know on day 400 of the invasion](https://www.theguardian.com/world/2023/mar/30/russia-ukraine-war-at-a-glance-what-we-know-on-day-400-of-the-invasion)
+- [‘I chose to survive’: Jeremy Renner gives first interview since snowplough accident](https://www.theguardian.com/film/2023/mar/30/i-chose-to-survive-jeremy-renner-gives-first-interview-since-snowplow-accident)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

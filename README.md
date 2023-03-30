@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Disney Eliminates Its Metaverse Division](https://www.wsj.com/articles/disney-eliminates-its-metaverse-division-as-part-of-companys-layoffs-plan-94b03650)
-- [VPN Users Risk 20-Year Jail Sentences in the US Under New Restrict Act](https://beincrypto.com/vpn-users-risk-20-year-jail-sentences-us-restrict-act/)
-- [Show HN: Customizable, embeddable Chat GPT based on your own documents](https://libraria.dev/)
-- [$39 Cooler Master case turns your old Framework Laptop parts into a tiny PC](https://www.theverge.com/2023/3/23/23652939/framework-cooler-master-sff-pc-case)
-- [AI could replace equivalent of 300M jobs – report](https://www.bbc.com/news/technology-65102150)
-- [U.S. FDIC tells Signature crypto clients to close accounts by April 5](https://www.reuters.com/markets/us/us-fdic-tells-signature-banks-crypto-clients-close-accounts-by-april-5-2023-03-28/)
-- [What We Still Don’t Know About How A.I. Is Trained](https://www.newyorker.com/news/daily-comment/what-we-still-dont-know-about-how-ai-is-trained)
-- [Gpt4all: A chatbot trained on ~800k GPT-3.5-Turbo Generations based on LLaMa](https://github.com/nomic-ai/gpt4all)
-- [Rust Is a Scalable Language](https://matklad.github.io/2023/03/28/rust-is-a-scalable-language.html)
-- [HuggingFace and Open Source AI Meetup in SFO Mar 31st](https://twitter.com/BrigitteTousi/status/1640771873985142786)
+- [Republican Rand Paul blocks TikTok ban](https://www.wionews.com/world/republican-rand-paul-blocks-tiktok-ban-asks-if-us-is-going-to-be-just-like-china-and-block-free-speech-577130)
+- [The Three-Legged Stool: A Manifesto for a Smaller, Denser Internet](https://publicinfrastructure.org/2023/03/29/the-three-legged-stool/)
+- [Samsung&amp;#x27;s AI photo feature adds creepy teeth to baby photos](https://boingboing.net/2023/03/28/samsungs-ai-photo-feature-adds-creepy-teeth-to-baby-photos.html)
+- [Teen-age fentanyl deaths in a Texas county](https://www.newyorker.com/news/letter-from-the-southwest/the-horrifying-epidemic-of-teen-age-fentanyl-deaths-in-a-texas-county)
+- [Universal Speech Model](https://sites.research.google/usm/)
+- [Problem Details for HTTP APIs](https://www.rfc-editor.org/rfc/rfc7807)
+- [Type system of Fortnite&amp;#x27;s Verse language](https://brianmckenna.org/blog/verse_types)
+- [Fireside Chat with Clem Delangue, CEO of Hugging Face](https://blog.eladgil.com/p/video-and-transcript-fireside-chat)
+- [OneSignal &lpar;YC S11&rpar; is hiring a head of developer relations](https://onesignal.com/careers/4004532006)
+- [Wat [video] &lpar;2012&rpar;](https://www.destroyallsoftware.com/talks/wat)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

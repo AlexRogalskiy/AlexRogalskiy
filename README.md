@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Google Cloud Launches Generative AI Tools](https://cloud.google.com/blog/products/ai-machine-learning/generative-ai-for-businesses-and-governments)
-- [Enfabrica Emerges from Stealth Mode](https://blog.enfabrica.net/press-release-networking-chip-startup-enfabrica-emerges-from-stealth-mode-to-solve-scalability-and-b9441b81a3d4)
-- [Astronomers witness birth of distant cluster of galaxies from the early Universe](https://www.eso.org/public/news/eso2304/)
-- [TikTok Ban Bill Is Patriot Act 2.0 Trojan Horse](https://www.youtube.com/watch?v=FWQGA_n5Z4M)
-- [With Folded Hands](https://en.wikipedia.org/wiki/With_Folded_Hands)
-- [Ubuntu Cinnamon](https://ubuntucinnamon.org/ubuntu-cinnamon-flavor-status-announcement/)
-- [Use-By / Used Retail Price Arbitrage](https://news.ycombinator.com/item?id=35366935)
-- [The “Free and Open Internet” Hypocrites](https://dvorak.substack.com/p/the-free-and-open-internet-hypocrites)
-- [The 70s nuclear relic that may be about to open at last](https://www.bbc.com/news/world-asia-64634816)
-- [Exploring C# Optimization Techniques from Entry-Level to Seasoned Veteran](https://initechsolutions.blogspot.com/2022/08/exploring-c-optimization-techniques.html)
+- [Ask HN: New Job Remorse](https://news.ycombinator.com/item?id=35381671)
+- [Bing to share Ad revenue with Publishers whose content used in chat responses](https://blogs.bing.com/search/march_2023/Driving-more-traffic-and-value-to-publishers-from-the-new-Bing)
+- [The Homogenization of Social Media Is Going to Have Some Real Consequences](https://www.bigtechnology.com/p/the-homogenization-of-social-media)
+- [If you want to watch games on your tractor, please use your own iPad](https://devblogs.microsoft.com/oldnewthing/20230330-01/?p=107989)
+- [Calibration Display for NASA](https://www.daliborfarny.com/project/calibration-display-for-nasa/)
+- [Vulkan Hacking Group. Details Emerging](https://www.washingtonpost.com/national-security/2023/03/30/takeaways-vulkan-files-investigation/)
+- [US tax code Section 174 threatens to bankrupt small software businesses](https://ssballiance.org/)
+- [Executive Director of the San Jose POA charged with importing fentanyl](https://www.kron4.com/news/bay-area/executive-director-of-the-san-jose-police-officers-association-charged-with-importing-fentanyl/)
+- [AI can write better homilies than most priests](https://gabrielsieben.tech/2023/03/30/ai-can-write-better-homilies-than-most-priests/)
+- [How to learn SQL and Linux for DevOps?](https://news.ycombinator.com/item?id=35381531)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Republican Rand Paul blocks TikTok ban](https://www.wionews.com/world/republican-rand-paul-blocks-tiktok-ban-asks-if-us-is-going-to-be-just-like-china-and-block-free-speech-577130)
-- [The Three-Legged Stool: A Manifesto for a Smaller, Denser Internet](https://publicinfrastructure.org/2023/03/29/the-three-legged-stool/)
-- [Samsung&amp;#x27;s AI photo feature adds creepy teeth to baby photos](https://boingboing.net/2023/03/28/samsungs-ai-photo-feature-adds-creepy-teeth-to-baby-photos.html)
-- [Teen-age fentanyl deaths in a Texas county](https://www.newyorker.com/news/letter-from-the-southwest/the-horrifying-epidemic-of-teen-age-fentanyl-deaths-in-a-texas-county)
-- [Universal Speech Model](https://sites.research.google/usm/)
-- [Problem Details for HTTP APIs](https://www.rfc-editor.org/rfc/rfc7807)
-- [Type system of Fortnite&amp;#x27;s Verse language](https://brianmckenna.org/blog/verse_types)
-- [Fireside Chat with Clem Delangue, CEO of Hugging Face](https://blog.eladgil.com/p/video-and-transcript-fireside-chat)
-- [OneSignal &lpar;YC S11&rpar; is hiring a head of developer relations](https://onesignal.com/careers/4004532006)
-- [Wat [video] &lpar;2012&rpar;](https://www.destroyallsoftware.com/talks/wat)
+- [BloombergGPT: A Large Language Model for Finance](https://arxiv.org/abs/2303.17564)
+- [Show HN: Walkie-talkie for teams](https://www.flowy.live/)
+- [Open-Sourcing My YC Application &lpar;Athens Research, W21&rpar;](https://hardpivot.substack.com/p/open-sourcing-my-y-combinator-winter)
+- [When Google paid websites to promote Firefox](https://leonidasv.com/til-google-paid-websites-for-referring-firefox/)
+- [Vicuna: An open-source chatbot impressing GPT-4 with 90% ChatGPT quality](https://vicuna.lmsys.org/)
+- [Faiss: A library for efficient similarity search](https://github.com/facebookresearch/faiss)
+- [RFdiffusion: Diffusion model generates protein backbones](https://github.com/RosettaCommons/RFdiffusion)
+- [Tiny Tapeout: From idea to chip design in minutes!](https://tinytapeout.com/)
+- [Folia – Multithreading Coming to your Minecraft server](https://paper-chan.moe/folia/)
+- [Show HN: RoboPianist, a piano playing robot simulation in the browser](https://kevinzakka.github.io/robopianist-demo/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

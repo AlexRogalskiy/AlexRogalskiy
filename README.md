@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
+- [Researchers warn of Wi-Fi security flaw affecting iOS, Android, Linux](https://www.computerworld.com/article/3692434/researchers-warn-of-wi-fi-security-flaw-affecting-ios-android-linux.html#tk.rss_all)
+- [Amazon’s Sidewalk could be a big boon to business](https://www.computerworld.com/article/3692350/amazon-s-sidewalk-could-be-a-big-boon-to-business.html#tk.rss_all)
+- [2 advanced tools that&#39;ll change how you interact with Android apps](https://www.computerworld.com/article/3691826/android-apps-advanced-tools.html#tk.rss_all)
 - [Being future ready in a generative AI world](https://www.computerworld.com/article/3692252/being-future-ready-in-a-generative-ai-world.html#tk.rss_all)
 - [Microsoft offers to change cloud licensing practices to avoid EU antitrust probe, says report](https://www.computerworld.com/article/3692294/microsoft-offers-to-change-cloud-licensing-practices-to-avoid-eu-antitrust-probe-says-report.html#tk.rss_all)
 - [Apple&#39;s WWDC is coming — what should enterprise users expect?](https://www.computerworld.com/article/3692448/apples-wwdc-is-coming-what-should-enterprise-users-expect.html#tk.rss_all)
 - [3CX DesktopApp compromised by supply chain attack](https://www.csoonline.com/article/3692250/3cx-desktopapp-compromised-by-supply-chain-attack.html#tk.rss_all)
 - [Legislation to rein in AI’s use in hiring grows](https://www.computerworld.com/article/3691819/legislation-to-rein-in-ais-use-in-hiring-grows.html#tk.rss_all)
-- [Tech big wigs: Hit the brakes on AI rollouts](https://www.computerworld.com/article/3691639/tech-big-wigs-hit-the-brakes-on-ai-rollouts.html#tk.rss_all)
-- [What’s new for IT in the latest Mac, iPhone, and iPad updates?](https://www.computerworld.com/article/3691796/whats-new-for-it-in-the-latest-mac-iphone-and-ipad-updates.html#tk.rss_all)
-- [UK government’s AI strategy to rely on existing regulations instead of new laws](https://www.computerworld.com/article/3691901/uk-governments-ai-strategy-to-rely-on-existing-regulations-instead-of-new-laws.html#tk.rss_all)
-- [7 Google Play Store secrets for smarter Android app management](https://www.computerworld.com/article/3691777/google-play-store-android-apps.html#tk.rss_all)
-- [Understanding the Windows Unified Update Platform](https://www.computerworld.com/article/3176529/understanding-windows-unified-update-platform.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

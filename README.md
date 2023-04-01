@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [BloombergGPT: A Large Language Model for Finance](https://arxiv.org/abs/2303.17564)
-- [Show HN: Walkie-talkie for teams](https://www.flowy.live/)
-- [Open-Sourcing My YC Application &lpar;Athens Research, W21&rpar;](https://hardpivot.substack.com/p/open-sourcing-my-y-combinator-winter)
-- [When Google paid websites to promote Firefox](https://leonidasv.com/til-google-paid-websites-for-referring-firefox/)
-- [Vicuna: An open-source chatbot impressing GPT-4 with 90% ChatGPT quality](https://vicuna.lmsys.org/)
-- [Faiss: A library for efficient similarity search](https://github.com/facebookresearch/faiss)
-- [RFdiffusion: Diffusion model generates protein backbones](https://github.com/RosettaCommons/RFdiffusion)
-- [Tiny Tapeout: From idea to chip design in minutes!](https://tinytapeout.com/)
-- [Folia – Multithreading Coming to your Minecraft server](https://paper-chan.moe/folia/)
-- [Show HN: RoboPianist, a piano playing robot simulation in the browser](https://kevinzakka.github.io/robopianist-demo/)
+- [ChatGPT simulates 1987 BBS System](https://sharegpt.com/c/ICZsSl7)
+- [Book review: Barriers to Bioweapons](https://eukaryotewritesblog.com/2017/06/30/book-review-barriers/)
+- [Maps show how parking lots “eat” U.S. cities](https://bigthink.com/strange-maps/parking-lots-eat-american-cities/)
+- [Show HN: DigicamFinder – open-sourced DPReview camera data](https://digicamfinder.com/)
+- [Asahi Linux M1 GPU drivers can now run Windows games via Steam Proton](https://www.youtube.com/watch?v=dgd88zE3O38)
+- [Tesorio Is Hiring Head of Data Science, Senior DevOps and Senior Be Engineer](https://www.tesorio.com/careers#job-openings)
+- [CDC team studying East Palestine train derailment fell ill during investigation](https://www.cbsnews.com/pittsburgh/news/cdc-team-sick-east-palestine-ohio-train-derailment/)
+- [Llama.cpp 30B runs with only 6GB of RAM now](https://github.com/ggerganov/llama.cpp/pull/613)
+- [The Wonders of Postgres Logical Decoding Messages](https://www.infoq.com/articles/wonders-of-postgres-logical-decoding-messages/)
+- [The average American has the same life expectancy as the worst part of England](https://twitter.com/jburnmurdoch/status/1641799698058035200)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

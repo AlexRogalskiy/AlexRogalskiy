@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ask HN: New Job Remorse](https://news.ycombinator.com/item?id=35381671)
-- [Bing to share Ad revenue with Publishers whose content used in chat responses](https://blogs.bing.com/search/march_2023/Driving-more-traffic-and-value-to-publishers-from-the-new-Bing)
-- [The Homogenization of Social Media Is Going to Have Some Real Consequences](https://www.bigtechnology.com/p/the-homogenization-of-social-media)
-- [If you want to watch games on your tractor, please use your own iPad](https://devblogs.microsoft.com/oldnewthing/20230330-01/?p=107989)
-- [Calibration Display for NASA](https://www.daliborfarny.com/project/calibration-display-for-nasa/)
-- [Vulkan Hacking Group. Details Emerging](https://www.washingtonpost.com/national-security/2023/03/30/takeaways-vulkan-files-investigation/)
-- [US tax code Section 174 threatens to bankrupt small software businesses](https://ssballiance.org/)
-- [Executive Director of the San Jose POA charged with importing fentanyl](https://www.kron4.com/news/bay-area/executive-director-of-the-san-jose-police-officers-association-charged-with-importing-fentanyl/)
-- [AI can write better homilies than most priests](https://gabrielsieben.tech/2023/03/30/ai-can-write-better-homilies-than-most-priests/)
-- [How to learn SQL and Linux for DevOps?](https://news.ycombinator.com/item?id=35381531)
+- [From zsh to fish: A Complete Setup Guide](https://reckoning.dev/blog/fish-shell/)
+- [FEX-Emu – run x86 and x86-64 binaries on an AArch64 host](https://fex-emu.com/)
+- [Computer made of DNA works out prime factors of 6 and 15](https://www.newscientist.com/article/2367161-computer-made-of-dna-works-out-prime-factors-of-6-and-15/)
+- [Honey, I Sold the Kids](https://aeon.co/essays/why-arent-children-protected-from-their-parents-monetising-them)
+- [U-net CNN in APL [pdf]](https://www.dyalog.com/uploads/conference/dyalog22/presentations/D08_ICFP_Submission.pdf)
+- [Why am I hearing advertisements in my audiobook?](https://help.audible.com/s/article/why-am-i-hearing-advertisements-in-my-audiobook?language=en_US)
+- [How to Forgive Yourself](https://psyche.co/guides/how-to-forgive-yourself-and-move-past-a-hurtful-mistake)
+- [What surfing says about the importance of serendipity in life](https://psyche.co/ideas/what-surfing-says-about-the-importance-of-serendipity-in-life)
+- [ChatGPT simulates 1987 BBS System](https://sharegpt.com/c/ICZsSl7)
+- [SwissMap: A smaller, faster Golang Hash Table](https://www.dolthub.com/blog/2023-03-28-swiss-map/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

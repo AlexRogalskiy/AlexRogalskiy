@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [How raising the retirement age set France on fire – podcast](https://www.theguardian.com/news/audio/2023/mar/31/how-raising-the-retirement-age-set-france-on-fire-today-in-focus-podcast)
-- [Donald Trump indicted by grand jury over hush money payment to Stormy Daniels](https://www.theguardian.com/us-news/2023/mar/30/donald-trump-indicted-stormy-daniels-hush-money)
-- [Russia seeking weapons from North Korea to bolster Ukraine war, says US](https://www.theguardian.com/world/2023/mar/31/russia-seeking-weapons-from-north-korea-to-bolster-ukraine-war-says-us)
-- [Finland’s way into Nato clears as hold-out Turkey votes in favour](https://www.theguardian.com/world/2023/mar/30/finlands-way-into-nato-clears-as-hold-out-turkey-votes-in-favour)
-- [Gwyneth Paltrow found not at fault in Utah ski crash trial](https://www.theguardian.com/us-news/2023/mar/30/gwyneth-paltrow-utah-ski-crash-trial-verdict)
-- [UK joins Asia-Pacific CPTPP trade bloc that includes Japan and Australia](https://www.theguardian.com/business/2023/mar/31/uk-joins-asia-pacific-cptpp-trade-bloc-that-includes-japan-and-australia)
-- [Russia-Ukraine war at a glance: what we know on day 401 of the invasion](https://www.theguardian.com/world/2023/mar/31/russia-ukraine-war-at-a-glance-what-we-know-on-day-401-of-the-invasion)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2023/mar/31/premier-league-10-things-to-look-out-for-this-weekend)
-- [What does Donald Trump’s indictment say about US democracy? | Jan-Werner Mueller](https://www.theguardian.com/commentisfree/2023/mar/30/what-does-donald-trumps-indictment-say-about-us-democracy)
-- [Trump’s indictment will probably hurt him with the electorate. But how much? | Lloyd Green](https://www.theguardian.com/commentisfree/2023/mar/30/trumps-indictment-will-probably-hurt-him-with-the-electorate-but-how-much)
+- [At least three dead as ‘destructive’ tornadoes rip through Arkansas](https://www.theguardian.com/us-news/2023/mar/31/arkansas-tornado-little-rock)
+- [‘Heartbreaking’: eight bodies recovered from waters at US-Canada border](https://www.theguardian.com/world/2023/mar/31/us-canada-border-eight-bodies-found-akwesasne)
+- [Man shot dead by police near Jerusalem’s al-Aqsa mosque](https://www.theguardian.com/world/2023/apr/01/man-shot-dead-by-police-near-jerusalems-al-aqsa-mosque-after-grabbing-officers-gun)
+- [Elon Musk broke law with threat to Tesla workers’ stock options, court rules](https://www.theguardian.com/technology/2023/apr/01/elon-musk-broke-law-with-threat-to-tesla-workers-stock-options-court-rules)
+- [Senator John Fetterman leaves hospital with depression ‘in remission’](https://www.theguardian.com/us-news/2023/mar/31/senator-john-fetterman-leaves-hospital)
+- [Lincolnshire council challenges Home Office plan to house asylum seekers at RAF base](https://www.theguardian.com/uk-news/2023/apr/01/lincolnshire-council-challenges-home-office-plan-to-house-asylum-seekers-at-raf-base)
+- [Trump to appear in New York court on Tuesday to answer criminal charges](https://www.theguardian.com/us-news/2023/mar/31/trump-appear-court-new-york-tuesday-criminal-charges)
+- [Now we know: in Trump’s fantasy comeback, he’ll be wearing handcuffs | Marina Hyde](https://www.theguardian.com/commentisfree/2023/mar/31/donald-trump-indictment-criminal-charges)
+- [UK firms report surge in orders amid signs of economic recovery](https://www.theguardian.com/business/2023/mar/31/uk-avoids-recession-as-economy-stronger-than-first-thought-at-end-of-2022)
+- [Government slashes cost of HRT prescriptions in England](https://www.theguardian.com/society/2023/apr/01/government-slashes-cost-of-hormone-replacement-therapy-prescriptions-in-england)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

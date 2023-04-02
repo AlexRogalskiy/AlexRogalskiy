@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [From zsh to fish: A Complete Setup Guide](https://reckoning.dev/blog/fish-shell/)
-- [FEX-Emu – run x86 and x86-64 binaries on an AArch64 host](https://fex-emu.com/)
-- [Computer made of DNA works out prime factors of 6 and 15](https://www.newscientist.com/article/2367161-computer-made-of-dna-works-out-prime-factors-of-6-and-15/)
-- [Honey, I Sold the Kids](https://aeon.co/essays/why-arent-children-protected-from-their-parents-monetising-them)
-- [U-net CNN in APL [pdf]](https://www.dyalog.com/uploads/conference/dyalog22/presentations/D08_ICFP_Submission.pdf)
-- [Why am I hearing advertisements in my audiobook?](https://help.audible.com/s/article/why-am-i-hearing-advertisements-in-my-audiobook?language=en_US)
-- [How to Forgive Yourself](https://psyche.co/guides/how-to-forgive-yourself-and-move-past-a-hurtful-mistake)
-- [What surfing says about the importance of serendipity in life](https://psyche.co/ideas/what-surfing-says-about-the-importance-of-serendipity-in-life)
-- [ChatGPT simulates 1987 BBS System](https://sharegpt.com/c/ICZsSl7)
-- [SwissMap: A smaller, faster Golang Hash Table](https://www.dolthub.com/blog/2023-03-28-swiss-map/)
+- [Ask HN: What are some cases where ChatGPT performance is bad?](https://news.ycombinator.com/item?id=35406441)
+- [Ask HN: How chatty are you with GPT? &lpar;when working&rpar;](https://news.ycombinator.com/item?id=35406432)
+- [Ask HN: Finally got a new job, how do I avoid making the same mistake as before?](https://news.ycombinator.com/item?id=35406400)
+- [SpaceX Alumni Founder Map](https://www.alumnifounders.com/)
+- [XUL Layout has been removed from Firefox](https://crisal.io/words/2023/03/30/xul-layout-is-gone.html)
+- [Sam Bankman-Fried allegedly bribed one Chinese official with $40M](https://www.nbcnews.com/tech/crypto/sam-bankman-fried-allegedly-bribed-one-chinese-official-40-million-rcna76985)
+- [Show HN: Create Spotify playlists using ChatGPT](https://www.playlistgeniusai.com)
+- [When innovation goes south: The tech that never quite worked out](https://arstechnica.com/science/2023/04/get-used-to-disappointment-why-technology-often-doesnt-meet-the-hype/)
+- [Why diversity training on campus is likely to disappoint](https://theconversation.com/why-diversity-training-on-campus-is-likely-to-disappoint-143644)
+- [Is pay transparency good? [pdf]](https://www.hbs.edu/ris/Publication%20Files/23-039_90bf646a-9f3b-4400-8907-e279812d154e.pdf)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

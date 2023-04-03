@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [XUL Layout has been removed from Firefox](https://crisal.io/words/2023/03/30/xul-layout-is-gone.html)
-- [Peoplebox &lpar;YC S22&rpar; Is Hiring](https://www.ycombinator.com/companies/peoplebox/jobs/P225TqI-account-executive-saas-sales-india-apac)
-- [MIT 6.S191: Recurrent Neural Networks, Transformers, and Attention](https://www.youtube.com/watch?v=ySEx_Bqxvvo)
-- [SpaceX moves Starship to launch site, and liftoff could be just days away](https://arstechnica.com/science/2023/04/spacex-moves-starship-to-launch-site-and-liftoff-could-be-just-days-away/)
-- [SpaceX alums are branching out and shaping the startup economy](https://interactive.satellitetoday.com/via/april-2023/how-spacex-alums-are-branching-out-and-shaping-the-startup-economy/)
-- [Tax Evasion at the Top of the Income Distribution: Theory and Evidence &lpar;2021&rpar; [pdf]](https://www.nber.org/system/files/working_papers/w28542/w28542.pdf)
-- [The Joy of Computer History Books](https://fabiensanglard.net/joy/index.html)
-- [Catch-23: The New C Standard Sets the World on Fire](https://queue.acm.org/detail.cfm?id=3588242)
-- [What broke Sweden? Real estate bust exposes big divide](https://www.bloomberg.com/news/features/2023-03-27/swedish-housing-market-crash-exposes-economic-divisions)
-- [The effects of wealth on &lpar;Swedish&rpar; marriage and fertility](https://www.nber.org/papers/w31039#fromrss)
+- [Life expectancy in the U.S. varies greatly by region](https://twitter.com/nickmmark/status/1642548933795909632)
+- [Giving kids no autonomy at all has become a parenting norm](https://www.salon.com/2021/01/17/giving-kids-no-autonomy-at-all-has-become-a-parenting-norm--and-the-pandemic-is-worsening-the-trend/)
+- [How the U.S. Came to Use Spyware It Was Trying to Kill](https://www.nytimes.com/2023/04/02/us/politics/nso-contract-us-spy.html)
+- [How Software Companies Die &lpar;1995&rpar;](https://gist.github.com/eliot-akira/6eaecda619d0fafd1d74)
+- [Reducing Iron Oxide with Ammonia: A Sustainable Path to Green Steel](https://onlinelibrary.wiley.com/doi/10.1002/advs.202300111)
+- [Windows Sandbox](https://learn.microsoft.com/en-us/windows/security/threat-protection/windows-sandbox/windows-sandbox-overview)
+- [The anatomy of the Cayman Islands offshore financial center &lpar;2016&rpar;](https://www.tandfonline.com/doi/full/10.1080/09692290.2016.1243143)
+- [A Reply to Josef PRůša](https://blog.thea.codes/a-reply-to-josef-prusa/)
+- [International Orange](https://en.wikipedia.org/wiki/International_orange)
+- [Italian government seeks to penalize the use of English words](https://www.cnn.com/2023/04/01/europe/italian-government-penalize-english-words-intl/index.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

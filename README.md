@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Reporting suspected sexual abuse to be mandatory for those working with children](https://www.theguardian.com/uk-news/2023/apr/02/reporting-suspected-sexual-abuse-to-be-mandatory-for-those-working-with-children)
-- [Second killing in a day by Israeli forces in Jerusalem and West Bank](https://www.theguardian.com/world/2023/apr/02/second-killing-in-a-day-by-israeli-forces-in-jerusalem-and-west-bank)
-- [Russia-Ukraine war at a glance: what we know on day 403 of the invasion](https://www.theguardian.com/world/2023/apr/02/russia-ukraine-war-at-a-glance-what-we-know-on-day-403-of-the-invasion)
-- [My parents&#39; divorce reshaped our family – but it wasn’t the end of their story | Madelaine Lucas](https://www.theguardian.com/books/2023/apr/02/my-parents-divorce-reshaped-our-family-but-it-wasnt-the-end-of-their-story)
-- [Two women attacked with yoghurt in Iran arrested for not covering hair](https://www.theguardian.com/world/2023/apr/01/iran-chief-justice-says-unveiled-women-will-be-prosecuted-without-mercy)
-- [Anthony Joshua taken the distance but beats Jermaine Franklin on points](https://www.theguardian.com/sport/2023/apr/01/anthony-joshua-taken-the-distance-but-beats-jermaine-franklin-on-points)
-- [Florida reels after two children allegedly ‘die at hands of their caregivers’](https://www.theguardian.com/us-news/2023/apr/01/florida-reels-after-two-children-allegedly-die-at-hands-of-their-caregivers)
-- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2023/apr/01/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Bomber command – the classic men’s jacket is back in style](https://www.theguardian.com/fashion/2023/apr/01/bomber-command-the-classic-mens-jacket-is-back-in-style)
-- [Shelly-Ann Fraser-Pryce triumphs in son’s sports day race](https://www.theguardian.com/sport/2023/apr/01/shelly-ann-fraser-pryce-triumphs-in-sons-sports-day-race)
+- [Cotton Capital: the bee and the ship – examining the Guardian’s links to slavery - podcast](https://www.theguardian.com/news/audio/2023/apr/03/cotton-capital-the-bee-and-the-ship-examining-the-guardians-links-to-slavery-podcast)
+- [Russian pro-war military blogger killed in blast at St Petersburg cafe](https://www.theguardian.com/world/2023/apr/02/russian-pro-war-military-blogger-killed-blast-st-petersburg-vladlen-tatarsky)
+- [Neil Diamond on living with Parkinson’s disease: ‘I was just not ready to accept it’](https://www.theguardian.com/music/2023/apr/03/neil-diamond-on-living-with-parkinsons-disease-i-was-just-not-ready-to-accept-it)
+- [Twitter legacy blue ticks remain despite Elon Musk’s subscription threat](https://www.theguardian.com/technology/2023/apr/03/twitter-legacy-blue-ticks-remain-despite-elon-musks-verification-subscription-threat)
+- [‘Sheffield, we love you! Will you marry us?’ The Olivier awards’ best quotes](https://www.theguardian.com/stage/2023/apr/03/olivier-awards-best-quotes-richard-hawley-jodie-comer-arlene-phillips)
+- [Sanna Marin suffers defeat in Finland election as SDP beaten into third place](https://www.theguardian.com/world/2023/apr/02/sanna-marin-finland-election-sdp-social-democratic-national-coalition)
+- [US to open embassy in Vanuatu as it seeks to counter China in the Pacific](https://www.theguardian.com/world/2023/apr/03/us-to-open-embassy-in-vanuatu-as-it-seeks-to-counter-china-in-the-pacific)
+- [Russia-Ukraine war at a glance: what we know on day 404 of the invasion](https://www.theguardian.com/world/2023/apr/03/russia-ukraine-war-at-a-glance-what-we-know-on-day-404-of-the-invasion)
+- [Teachers in England and Wales facing ‘unmanageable’ workload, survey finds](https://www.theguardian.com/education/2023/apr/03/teachers-stress-workload-survey-national-education-union)
+- [First testosterone patch for menopausal women to begin clinical trials this year](https://www.theguardian.com/society/2023/apr/03/first-testosterone-patch-for-menopausal-women-to-begin-clinical-trials-this-year)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

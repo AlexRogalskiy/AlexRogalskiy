@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ask HN: What are some cases where ChatGPT performance is bad?](https://news.ycombinator.com/item?id=35406441)
-- [Ask HN: How chatty are you with GPT? &lpar;when working&rpar;](https://news.ycombinator.com/item?id=35406432)
-- [Ask HN: Finally got a new job, how do I avoid making the same mistake as before?](https://news.ycombinator.com/item?id=35406400)
-- [SpaceX Alumni Founder Map](https://www.alumnifounders.com/)
-- [XUL Layout has been removed from Firefox](https://crisal.io/words/2023/03/30/xul-layout-is-gone.html)
-- [Sam Bankman-Fried allegedly bribed one Chinese official with $40M](https://www.nbcnews.com/tech/crypto/sam-bankman-fried-allegedly-bribed-one-chinese-official-40-million-rcna76985)
-- [Show HN: Create Spotify playlists using ChatGPT](https://www.playlistgeniusai.com)
-- [When innovation goes south: The tech that never quite worked out](https://arstechnica.com/science/2023/04/get-used-to-disappointment-why-technology-often-doesnt-meet-the-hype/)
-- [Why diversity training on campus is likely to disappoint](https://theconversation.com/why-diversity-training-on-campus-is-likely-to-disappoint-143644)
-- [Is pay transparency good? [pdf]](https://www.hbs.edu/ris/Publication%20Files/23-039_90bf646a-9f3b-4400-8907-e279812d154e.pdf)
+- [Ex-Grubhub Driver Wins 8-Year Legal Battle in California Court](https://gizmodo.com/grubhub-gig-work-california-rideshare-1850287173)
+- [An HTTP Interface for Alpaca.cpp](https://github.com/edfletcher/alpaca.http)
+- [Never in 20 years of working in tech have I been treated so unprofessionally](https://startupdreams.substack.com/p/never-in-my-20-years-of-working-in)
+- [Ask HN: Can ChatGPT Escape the Prompt](https://news.ycombinator.com/item?id=35417672)
+- [Cash Stashed in Money-Market Funds Not Banks Fuels Recession Risk](https://www.bloomberg.com/news/articles/2023-03-30/cash-stashed-in-money-market-funds-not-banks-fuels-recession-risk-in-wake-of-svb)
+- [Training large language models on AWS](https://aws.amazon.com/blogs/machine-learning/training-large-language-models-on-amazon-sagemaker-best-practices/)
+- [Paris Votes to Ban E-Scooters](https://www.wsj.com/articles/paris-votes-to-ban-e-scooter-rental-companies-3ac621c7)
+- [Show HN: ONYPhone – Android Launcher for Older Adults](https://play.google.com/store/apps/details?id=com.silveractivities.onyphone&hl=en_US)
+- [Jeweler&#39;s Rouge &lpar;Iron&lpar;III&rpar; Oxide&rpar;](https://en.wikipedia.org/wiki/Iron(III)_oxide)
+- [Many wealthy people are considering leaving China](https://www.economist.com/china/2023/03/30/many-wealthy-people-are-considering-leaving-china)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

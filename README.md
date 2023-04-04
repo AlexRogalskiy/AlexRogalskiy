@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Cotton Capital: the bee and the ship – examining the Guardian’s links to slavery - podcast](https://www.theguardian.com/news/audio/2023/apr/03/cotton-capital-the-bee-and-the-ship-examining-the-guardians-links-to-slavery-podcast)
-- [Russian pro-war military blogger killed in blast at St Petersburg cafe](https://www.theguardian.com/world/2023/apr/02/russian-pro-war-military-blogger-killed-blast-st-petersburg-vladlen-tatarsky)
-- [Neil Diamond on living with Parkinson’s disease: ‘I was just not ready to accept it’](https://www.theguardian.com/music/2023/apr/03/neil-diamond-on-living-with-parkinsons-disease-i-was-just-not-ready-to-accept-it)
-- [Twitter legacy blue ticks remain despite Elon Musk’s subscription threat](https://www.theguardian.com/technology/2023/apr/03/twitter-legacy-blue-ticks-remain-despite-elon-musks-verification-subscription-threat)
-- [‘Sheffield, we love you! Will you marry us?’ The Olivier awards’ best quotes](https://www.theguardian.com/stage/2023/apr/03/olivier-awards-best-quotes-richard-hawley-jodie-comer-arlene-phillips)
-- [Sanna Marin suffers defeat in Finland election as SDP beaten into third place](https://www.theguardian.com/world/2023/apr/02/sanna-marin-finland-election-sdp-social-democratic-national-coalition)
-- [US to open embassy in Vanuatu as it seeks to counter China in the Pacific](https://www.theguardian.com/world/2023/apr/03/us-to-open-embassy-in-vanuatu-as-it-seeks-to-counter-china-in-the-pacific)
-- [Russia-Ukraine war at a glance: what we know on day 404 of the invasion](https://www.theguardian.com/world/2023/apr/03/russia-ukraine-war-at-a-glance-what-we-know-on-day-404-of-the-invasion)
-- [Teachers in England and Wales facing ‘unmanageable’ workload, survey finds](https://www.theguardian.com/education/2023/apr/03/teachers-stress-workload-survey-national-education-union)
-- [First testosterone patch for menopausal women to begin clinical trials this year](https://www.theguardian.com/society/2023/apr/03/first-testosterone-patch-for-menopausal-women-to-begin-clinical-trials-this-year)
+- [The indictment of Donald Trump – podcast](https://www.theguardian.com/news/audio/2023/apr/04/the-indictment-of-donald-trump-podcast)
+- [Into the drink: train derails beside Montana river, tipping out cases of beer](https://www.theguardian.com/us-news/2023/apr/03/train-derailment-western-montana-beer-spill)
+- [Malaysia set to scrap mandatory death penalty for range of serious crimes](https://www.theguardian.com/world/2023/apr/04/malaysia-set-to-scrap-mandatory-death-penalty-for-range-of-serious-crimes)
+- [Trump arrives in New York City ahead of Tuesday court appearance](https://www.theguardian.com/us-news/2023/apr/03/donald-trump-court-appearance-new-york-city)
+- [BTS’s Jimin becomes first South Korean solo artist to top US songs chart](https://www.theguardian.com/music/2023/apr/04/bts-jimin-becomes-first-south-korean-solo-artist-to-top-us-songs-chart)
+- [Russia-Ukraine war at a glance: what we know on day 405 of the invasion](https://www.theguardian.com/world/2023/apr/04/russia-ukraine-war-at-a-glance-what-we-know-on-day-405-of-the-invasion)
+- [BBC under threat politically under Conservatives, says Ian McEwan](https://www.theguardian.com/media/2023/apr/04/bbc-under-threat-politically-under-conservatives-says-ian-mcewan)
+- [‘Not about the highest bidder’: the countries defying China to stick with Taiwan](https://www.theguardian.com/world/2023/apr/04/not-about-the-highest-bidder-the-countries-defying-china-to-stick-with-taiwan)
+- [Calls for energy ‘social tariff’ as UK government support ends](https://www.theguardian.com/money/2023/apr/04/calls-for-energy-social-tariff-as-uk-government-support-ends)
+- [US house speaker Kevin McCarthy confirms he will meet Taiwan president in California](https://www.theguardian.com/world/2023/apr/04/us-house-speaker-kevin-mccarthy-confirms-he-will-meet-taiwan-president-in-california)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

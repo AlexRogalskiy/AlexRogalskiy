@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ex-Grubhub Driver Wins 8-Year Legal Battle in California Court](https://gizmodo.com/grubhub-gig-work-california-rideshare-1850287173)
-- [An HTTP Interface for Alpaca.cpp](https://github.com/edfletcher/alpaca.http)
-- [Never in 20 years of working in tech have I been treated so unprofessionally](https://startupdreams.substack.com/p/never-in-my-20-years-of-working-in)
-- [Ask HN: Can ChatGPT Escape the Prompt](https://news.ycombinator.com/item?id=35417672)
-- [Cash Stashed in Money-Market Funds Not Banks Fuels Recession Risk](https://www.bloomberg.com/news/articles/2023-03-30/cash-stashed-in-money-market-funds-not-banks-fuels-recession-risk-in-wake-of-svb)
-- [Training large language models on AWS](https://aws.amazon.com/blogs/machine-learning/training-large-language-models-on-amazon-sagemaker-best-practices/)
-- [Paris Votes to Ban E-Scooters](https://www.wsj.com/articles/paris-votes-to-ban-e-scooter-rental-companies-3ac621c7)
-- [Show HN: ONYPhone – Android Launcher for Older Adults](https://play.google.com/store/apps/details?id=com.silveractivities.onyphone&hl=en_US)
-- [Jeweler&#39;s Rouge &lpar;Iron&lpar;III&rpar; Oxide&rpar;](https://en.wikipedia.org/wiki/Iron(III)_oxide)
-- [Many wealthy people are considering leaving China](https://www.economist.com/china/2023/03/30/many-wealthy-people-are-considering-leaving-china)
+- [LearnGPT](https://learngpt.art/)
+- [Twitter verification can only be removed with manual process](https://twitter.com/carnage4life/status/1642585700892827648)
+- [China’s Newest Dating Craze: Real-Life Meetups with Virtual Boyfriends](https://www.sixthtone.com/news/1012605)
+- [Learn to Write Japanese](https://zh-hans-hant.netlify.app/)
+- [AI index report 2023 [pdf]](https://aiindex.stanford.edu/wp-content/uploads/2023/04/HAI_AI-Index_Report_2023.pdf)
+- [A Psychedelics Pioneer Takes the Ultimate Trip](https://www.nytimes.com/interactive/2023/04/03/magazine/roland-griffiths-interview.html)
+- [Virgin Media &lpar;BGP 5089&rpar; has been down for 2 hours across all of UK](https://twitter.com/CloudflareRadar/status/1643070260130504704)
+- [FAA DNS is under attack](https://faa.gov)
+- [April 2 Potential GitHub Credentials Exposure](https://blog.replit.com/april-02-potential-github-credentials-exposure)
+- [Robo-GPT, a Variant of AutoGPT](https://twitter.com/RokStrnisa/status/1643044793419718656)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

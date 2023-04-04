@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Life expectancy in the U.S. varies greatly by region](https://twitter.com/nickmmark/status/1642548933795909632)
-- [Giving kids no autonomy at all has become a parenting norm](https://www.salon.com/2021/01/17/giving-kids-no-autonomy-at-all-has-become-a-parenting-norm--and-the-pandemic-is-worsening-the-trend/)
-- [How the U.S. Came to Use Spyware It Was Trying to Kill](https://www.nytimes.com/2023/04/02/us/politics/nso-contract-us-spy.html)
-- [How Software Companies Die &lpar;1995&rpar;](https://gist.github.com/eliot-akira/6eaecda619d0fafd1d74)
-- [Reducing Iron Oxide with Ammonia: A Sustainable Path to Green Steel](https://onlinelibrary.wiley.com/doi/10.1002/advs.202300111)
-- [Windows Sandbox](https://learn.microsoft.com/en-us/windows/security/threat-protection/windows-sandbox/windows-sandbox-overview)
-- [The anatomy of the Cayman Islands offshore financial center &lpar;2016&rpar;](https://www.tandfonline.com/doi/full/10.1080/09692290.2016.1243143)
-- [A Reply to Josef PRůša](https://blog.thea.codes/a-reply-to-josef-prusa/)
-- [International Orange](https://en.wikipedia.org/wiki/International_orange)
-- [Italian government seeks to penalize the use of English words](https://www.cnn.com/2023/04/01/europe/italian-government-penalize-english-words-intl/index.html)
+- [FAA DNS is under attack](https://faa.gov)
+- [Double-slit time diffraction at optical frequencies](https://www.nature.com/articles/s41567-023-01993-w)
+- [Tesla ordered to pay more than $3M to former worker in racism suit](https://www.cnn.com/2023/04/03/business/tesla-racial-discrimination-case/index.html)
+- [Engineering with Enclaves](https://www.onefootprint.com/blog/inside-the-enclave-part-2)
+- [Hacking the Samsung NX300 &amp;#x27;Smart&amp;#x27; Camera](https://op-co.de/blog/posts/hacking_the_nx300/)
+- [SpaceX based 4G&amp;#x2F;5G coverage coming to New Zealand](https://one.nz/why-choose-us/spacex/)
+- [How HyperCard got its color back](https://orangejuiceliberationfront.com/how-hypercard-got-its-color-back/)
+- [If parrots can talk, why can’t monkeys?](https://english.elpais.com/science-tech/2023-01-10/if-parrots-can-talk-why-cant-monkeys.html)
+- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
+- [System76 Open Firmware](https://github.com/system76/firmware-open)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

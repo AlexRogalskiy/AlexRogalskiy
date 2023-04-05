@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [FAA DNS is under attack](https://faa.gov)
-- [Double-slit time diffraction at optical frequencies](https://www.nature.com/articles/s41567-023-01993-w)
-- [Tesla ordered to pay more than $3M to former worker in racism suit](https://www.cnn.com/2023/04/03/business/tesla-racial-discrimination-case/index.html)
-- [Engineering with Enclaves](https://www.onefootprint.com/blog/inside-the-enclave-part-2)
-- [Hacking the Samsung NX300 &amp;#x27;Smart&amp;#x27; Camera](https://op-co.de/blog/posts/hacking_the_nx300/)
-- [SpaceX based 4G&amp;#x2F;5G coverage coming to New Zealand](https://one.nz/why-choose-us/spacex/)
-- [How HyperCard got its color back](https://orangejuiceliberationfront.com/how-hypercard-got-its-color-back/)
-- [If parrots can talk, why can’t monkeys?](https://english.elpais.com/science-tech/2023-01-10/if-parrots-can-talk-why-cant-monkeys.html)
-- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
-- [System76 Open Firmware](https://github.com/system76/firmware-open)
+- [Unpredictable Black Boxes Are Terrible Interfaces](https://magrawala.substack.com/p/unpredictable-black-boxes-are-terrible)
+- [US Government published guide to sabotage organizational productivity &lpar;1944&rpar;](https://gist.github.com/kennwhite/467529962c184258d08f16daec83d5da)
+- [The Russian Federal Guard Service officer who worked with Putin and fled Russia](https://dossier.center/fso-en/)
+- [China: A genetic experiment that inserted tardigrade genes into human stem cells](https://tiempoheadlines.com/china-a-genetic-experiment-that-inserted-tardigrade-genes-into-human-stem-cells-could-lead-to-radiation-resistant-super-soldiers/)
+- [If you’re so smart, why aren’t you rich? Turns out it’s just chance](https://www.technologyreview.com/2018/03/01/144958/if-youre-so-smart-why-arent-you-rich-turns-out-its-just-chance/)
+- [Tabloid – The Clickbait Headline Programming Language](https://tabloid-thesephist.vercel.app/)
+- [iOS lets carriers add WiFi networks that you can’t remove or stop from joining](https://news.ycombinator.com/item?id=35447486)
+- [Show HN: Live coaching app for remote SWE interviews, uses Whisper and GPT-4](https://github.com/leetcode-mafia/cheetah)
+- [Using Wake on LAN &lpar;WOL&rpar; Across the Internet &lpar;2010&rpar;](http://ptere.com/wol/)
+- [My long goodbye to Windows XP &lpar;2022&rpar;](https://woodfromeden.substack.com/p/my-long-goodbye-to-windows-xp)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

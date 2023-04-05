@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [LearnGPT](https://learngpt.art/)
-- [Twitter verification can only be removed with manual process](https://twitter.com/carnage4life/status/1642585700892827648)
-- [China’s Newest Dating Craze: Real-Life Meetups with Virtual Boyfriends](https://www.sixthtone.com/news/1012605)
-- [Learn to Write Japanese](https://zh-hans-hant.netlify.app/)
-- [AI index report 2023 [pdf]](https://aiindex.stanford.edu/wp-content/uploads/2023/04/HAI_AI-Index_Report_2023.pdf)
-- [A Psychedelics Pioneer Takes the Ultimate Trip](https://www.nytimes.com/interactive/2023/04/03/magazine/roland-griffiths-interview.html)
-- [Virgin Media &lpar;BGP 5089&rpar; has been down for 2 hours across all of UK](https://twitter.com/CloudflareRadar/status/1643070260130504704)
-- [FAA DNS is under attack](https://faa.gov)
-- [April 2 Potential GitHub Credentials Exposure](https://blog.replit.com/april-02-potential-github-credentials-exposure)
-- [Robo-GPT, a Variant of AutoGPT](https://twitter.com/RokStrnisa/status/1643044793419718656)
+- [Unpredictable Black Boxes Are Terrible Interfaces](https://magrawala.substack.com/p/unpredictable-black-boxes-are-terrible)
+- [Lossless Image Compression in O&lpar;n&rpar; Time &lpar;2021&rpar;](https://phoboslab.org/log/2021/11/qoi-fast-lossless-image-compression)
+- [Article Covers the Tesla Selloff, Oil Rise, UFC and WWE Merge, and More](https://www.morningtendies.co/p/tesla-selloff-after-first-quarter-results)
+- [A Spate of Recent Deals Raises Chatter of a Fading Petrodollar](https://www.forbes.com/sites/davidblackmon/2023/04/02/a-spate-of-recent-deals-raises-chatter-of-a-fading-petrodollar/)
+- [Show HN: Real time voice chat with Steve Jobs and more](https://www.banterai.app/)
+- [Roiquant allows underrepresented founders a chance to win equity-free funding](https://apnews.com/press-release/ein-presswire-newsmatics/business-ein-presswire-newsmatics-16b995731d3415dcde1dfa065872e5f8)
+- [America Has Too Much Parking](https://www.wsj.com/articles/parking-problem-too-much-cities-e94dcecf)
+- [Implications of Open Monetary and Information Networks](https://www.lynalden.com/open-networks/)
+- [On the experience of being dirt-poorish, for people who want to be](https://woodfromeden.substack.com/p/on-the-experience-of-being-dirt-poorish)
+- [Microsoft’s new Surface Dock tosses the proprietary port, uses Thunderbolt 4](https://arstechnica.com/gadgets/2023/04/microsofts-new-surface-dock-tosses-the-proprietary-port-uses-thunderbolt-4/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

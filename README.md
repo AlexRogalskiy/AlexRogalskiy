@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [The indictment of Donald Trump – podcast](https://www.theguardian.com/news/audio/2023/apr/04/the-indictment-of-donald-trump-podcast)
-- [Into the drink: train derails beside Montana river, tipping out cases of beer](https://www.theguardian.com/us-news/2023/apr/03/train-derailment-western-montana-beer-spill)
-- [Malaysia set to scrap mandatory death penalty for range of serious crimes](https://www.theguardian.com/world/2023/apr/04/malaysia-set-to-scrap-mandatory-death-penalty-for-range-of-serious-crimes)
-- [Trump arrives in New York City ahead of Tuesday court appearance](https://www.theguardian.com/us-news/2023/apr/03/donald-trump-court-appearance-new-york-city)
-- [BTS’s Jimin becomes first South Korean solo artist to top US songs chart](https://www.theguardian.com/music/2023/apr/04/bts-jimin-becomes-first-south-korean-solo-artist-to-top-us-songs-chart)
-- [Russia-Ukraine war at a glance: what we know on day 405 of the invasion](https://www.theguardian.com/world/2023/apr/04/russia-ukraine-war-at-a-glance-what-we-know-on-day-405-of-the-invasion)
-- [BBC under threat politically under Conservatives, says Ian McEwan](https://www.theguardian.com/media/2023/apr/04/bbc-under-threat-politically-under-conservatives-says-ian-mcewan)
-- [‘Not about the highest bidder’: the countries defying China to stick with Taiwan](https://www.theguardian.com/world/2023/apr/04/not-about-the-highest-bidder-the-countries-defying-china-to-stick-with-taiwan)
-- [Calls for energy ‘social tariff’ as UK government support ends](https://www.theguardian.com/money/2023/apr/04/calls-for-energy-social-tariff-as-uk-government-support-ends)
-- [US house speaker Kevin McCarthy confirms he will meet Taiwan president in California](https://www.theguardian.com/world/2023/apr/04/us-house-speaker-kevin-mccarthy-confirms-he-will-meet-taiwan-president-in-california)
+- [Donald Trump addresses indictment in brief, rambling speech at Mar-a-Lago – live](https://www.theguardian.com/us-news/live/2023/apr/04/trump-speech-address-mar-a-lago-indictment-charges)
+- [Why headteachers are fighting back against Ofsted inspections – podcast](https://www.theguardian.com/news/audio/2023/apr/05/why-headteachers-are-fighting-back-against-ofsted-inspections-podcast)
+- [Donald Trump pleads not guilty to 34 felony charges in hush money case](https://www.theguardian.com/us-news/2023/apr/04/donald-trump-charges-34-felony-counts)
+- [Israel rocket sirens sound amid clashes at al-Aqsa mosque](https://www.theguardian.com/world/2023/apr/05/israel-al-aqsa-mosque-rocket-sirens-around-gaza)
+- [Twitter accused of censorship in India as it blocks Modi critics](https://www.theguardian.com/world/2023/apr/05/twitter-accused-of-censorship-in-india-as-it-blocks-modi-critics-elon-musk)
+- [UK blocks UN webcast featuring Russia children’s commissioner, wanted on war crimes charges](https://www.theguardian.com/world/2023/apr/05/uk-blocks-un-webcast-featuring-russia-childrens-commissioner-wanted-on-war-crimes-charges)
+- [Russia-Ukraine war at a glance: what we know on day 406 of the invasion](https://www.theguardian.com/world/2023/apr/05/russia-ukraine-war-at-a-glance-what-we-know-on-day-406-of-the-invasion)
+- [Police ‘take up to 18 months’ to make arrests in online child sexual abuse cases](https://www.theguardian.com/uk-news/2023/apr/05/police-take-up-to-18-months-to-make-arrests-in-online-child-sexual-abuse-cases)
+- [Salcombe locals priced out by most expensive seaside homes in UK](https://www.theguardian.com/society/2023/apr/05/locals-priced-out-salcombe-seaside-homes-most-expensive-uk)
+- [Push to crack down on foreign states’ influence over MPs’ cross-party groups](https://www.theguardian.com/politics/2023/apr/05/push-to-crack-down-on-foreign-states-influence-over-mps-cross-party-groups)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

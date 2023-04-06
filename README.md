@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Donald Trump addresses indictment in brief, rambling speech at Mar-a-Lago – live](https://www.theguardian.com/us-news/live/2023/apr/04/trump-speech-address-mar-a-lago-indictment-charges)
-- [Why headteachers are fighting back against Ofsted inspections – podcast](https://www.theguardian.com/news/audio/2023/apr/05/why-headteachers-are-fighting-back-against-ofsted-inspections-podcast)
-- [Donald Trump pleads not guilty to 34 felony charges in hush money case](https://www.theguardian.com/us-news/2023/apr/04/donald-trump-charges-34-felony-counts)
-- [Israel rocket sirens sound amid clashes at al-Aqsa mosque](https://www.theguardian.com/world/2023/apr/05/israel-al-aqsa-mosque-rocket-sirens-around-gaza)
-- [Twitter accused of censorship in India as it blocks Modi critics](https://www.theguardian.com/world/2023/apr/05/twitter-accused-of-censorship-in-india-as-it-blocks-modi-critics-elon-musk)
-- [UK blocks UN webcast featuring Russia children’s commissioner, wanted on war crimes charges](https://www.theguardian.com/world/2023/apr/05/uk-blocks-un-webcast-featuring-russia-childrens-commissioner-wanted-on-war-crimes-charges)
-- [Russia-Ukraine war at a glance: what we know on day 406 of the invasion](https://www.theguardian.com/world/2023/apr/05/russia-ukraine-war-at-a-glance-what-we-know-on-day-406-of-the-invasion)
-- [Police ‘take up to 18 months’ to make arrests in online child sexual abuse cases](https://www.theguardian.com/uk-news/2023/apr/05/police-take-up-to-18-months-to-make-arrests-in-online-child-sexual-abuse-cases)
-- [Salcombe locals priced out by most expensive seaside homes in UK](https://www.theguardian.com/society/2023/apr/05/locals-priced-out-salcombe-seaside-homes-most-expensive-uk)
-- [Push to crack down on foreign states’ influence over MPs’ cross-party groups](https://www.theguardian.com/politics/2023/apr/05/push-to-crack-down-on-foreign-states-influence-over-mps-cross-party-groups)
+- [Inside Tennessee, America’s most stringent anti-abortion state – podcast](https://www.theguardian.com/news/audio/2023/apr/06/how-close-to-death-must-a-woman-be-to-get-an-abortion-in-tennessee-podcast)
+- [Russian girl who drew anti-war pictures has left orphanage, children’s commissioner says](https://www.theguardian.com/world/2023/apr/06/russian-girl-who-drew-anti-war-pictures-has-left-orphanage-childrens-commissioner-says)
+- [Taiwan: US House speaker stresses urgency of arms sales after meeting president Tsai](https://www.theguardian.com/world/2023/apr/05/taiwan-president-us-house-speaker-kevin-mccarthy)
+- [Russia-Ukraine war at a glance: what we know on day 407 of the invasion](https://www.theguardian.com/world/2023/apr/06/russia-ukraine-war-at-a-glance-what-we-know-on-day-407-of-the-invasion)
+- [Joe Biden accepts King Charles’s invitation for state visit](https://www.theguardian.com/uk-news/2023/apr/06/joe-biden-accepts-king-charless-invitation-for-state-visit)
+- [Ministers treating coastal areas like ‘open sewers’, says Labour](https://www.theguardian.com/environment/2023/apr/06/ministers-treating-coastal-areas-like-open-sewers-says-labour)
+- [Commissioner vows to clean up Met as force faces biggest crisis since 1970s](https://www.theguardian.com/uk-news/2023/apr/06/commissioner-vows-to-clean-up-met-as-force-faces-biggest-crisis-since-1970s)
+- [Plans for new sites in UK for asylum seekers ‘risk humanitarian catastrophe’](https://www.theguardian.com/world/2023/apr/06/plans-for-new-sites-in-uk-for-asylum-seekers-risk-humanitarian-catastrophe)
+- [Businesses in north of England ask ministers for help to hit net zero](https://www.theguardian.com/environment/2023/apr/06/businesses-in-north-of-england-ask-ministers-for-help-to-hit-net-zero)
+- [Gary Lineker: it was factually accurate to call refugee policy cruel](https://www.theguardian.com/football/2023/apr/06/gary-lineker-it-was-factually-accurate-to-call-refugee-policy-cruel)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

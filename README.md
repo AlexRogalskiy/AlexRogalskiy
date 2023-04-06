@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Unpredictable Black Boxes Are Terrible Interfaces](https://magrawala.substack.com/p/unpredictable-black-boxes-are-terrible)
-- [US Government published guide to sabotage organizational productivity &lpar;1944&rpar;](https://gist.github.com/kennwhite/467529962c184258d08f16daec83d5da)
-- [The Russian Federal Guard Service officer who worked with Putin and fled Russia](https://dossier.center/fso-en/)
-- [China: A genetic experiment that inserted tardigrade genes into human stem cells](https://tiempoheadlines.com/china-a-genetic-experiment-that-inserted-tardigrade-genes-into-human-stem-cells-could-lead-to-radiation-resistant-super-soldiers/)
-- [If you’re so smart, why aren’t you rich? Turns out it’s just chance](https://www.technologyreview.com/2018/03/01/144958/if-youre-so-smart-why-arent-you-rich-turns-out-its-just-chance/)
-- [Tabloid – The Clickbait Headline Programming Language](https://tabloid-thesephist.vercel.app/)
-- [iOS lets carriers add WiFi networks that you can’t remove or stop from joining](https://news.ycombinator.com/item?id=35447486)
-- [Show HN: Live coaching app for remote SWE interviews, uses Whisper and GPT-4](https://github.com/leetcode-mafia/cheetah)
-- [Using Wake on LAN &lpar;WOL&rpar; Across the Internet &lpar;2010&rpar;](http://ptere.com/wol/)
-- [My long goodbye to Windows XP &lpar;2022&rpar;](https://woodfromeden.substack.com/p/my-long-goodbye-to-windows-xp)
+- [Try out Clojure libraries via rebel-readline](https://github.com/eval/deps-try)
+- [Master Plan Part 3](https://www.tesla.com/blog/master-plan-part-3)
+- [Galaxy Simulation](https://galaxym.ovh/)
+- [I don&amp;#x27;t want streaming music, I just want to stream my music](https://coryd.dev/posts/2023/i-dont-want-streaming-music/)
+- [The Bitcoin whitepaper is hidden in every copy of macOS](https://waxy.org/2023/04/the-bitcoin-whitepaper-is-hidden-in-every-modern-copy-of-macos/)
+- [Dang is going to have 65,535 karma points soon](https://news.ycombinator.com/user?id=dang)
+- [No-cost access to the latest PDF standard: ISO 32000-2 &lpar;PDF 2.0&rpar;](https://www.pdfa.org/sponsored-standards/)
+- [TPU v4 provides exaFLOPS-scale ML with efficiency gains](https://cloud.google.com/blog/topics/systems/tpu-v4-enables-performance-energy-and-co2e-efficiency-gains)
+- [Programmer interrupted: The cost of interruption and context switching &lpar;2022&rpar;](https://contextkeeper.io/blog/the-real-cost-of-an-interruption-and-context-switching/)
+- [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

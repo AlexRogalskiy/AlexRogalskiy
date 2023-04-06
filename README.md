@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Unpredictable Black Boxes Are Terrible Interfaces](https://magrawala.substack.com/p/unpredictable-black-boxes-are-terrible)
-- [Lossless Image Compression in O&lpar;n&rpar; Time &lpar;2021&rpar;](https://phoboslab.org/log/2021/11/qoi-fast-lossless-image-compression)
-- [Article Covers the Tesla Selloff, Oil Rise, UFC and WWE Merge, and More](https://www.morningtendies.co/p/tesla-selloff-after-first-quarter-results)
-- [A Spate of Recent Deals Raises Chatter of a Fading Petrodollar](https://www.forbes.com/sites/davidblackmon/2023/04/02/a-spate-of-recent-deals-raises-chatter-of-a-fading-petrodollar/)
-- [Show HN: Real time voice chat with Steve Jobs and more](https://www.banterai.app/)
-- [Roiquant allows underrepresented founders a chance to win equity-free funding](https://apnews.com/press-release/ein-presswire-newsmatics/business-ein-presswire-newsmatics-16b995731d3415dcde1dfa065872e5f8)
-- [America Has Too Much Parking](https://www.wsj.com/articles/parking-problem-too-much-cities-e94dcecf)
-- [Implications of Open Monetary and Information Networks](https://www.lynalden.com/open-networks/)
-- [On the experience of being dirt-poorish, for people who want to be](https://woodfromeden.substack.com/p/on-the-experience-of-being-dirt-poorish)
-- [Microsoft’s new Surface Dock tosses the proprietary port, uses Thunderbolt 4](https://arstechnica.com/gadgets/2023/04/microsofts-new-surface-dock-tosses-the-proprietary-port-uses-thunderbolt-4/)
+- [China Publishes Data Showing Raccoon Dog DNA at Wuhan Market](https://www.nytimes.com/2023/04/05/science/china-virus-origins-racoon-dogs.html)
+- [Caching partially materialized views consistently](https://blog.the-pans.com/caching-partially-materialized-views-consistently/)
+- [Computer scientists designing the future can’t agree on what privacy means](https://www.technologyreview.com/2023/04/03/1070665/cmu-university-privacy-battle-smart-building-sensors-mites/)
+- [How to FIDO](https://fido-alliance.github.io/how-to-fido/HowToFIDO.html)
+- [DIYtouchpad](https://github.com/aatishb/DIYtouchpad)
+- [Adding capacity to the electricity grid is not a simple task](https://www.economist.com/technology-quarterly/2023/04/05/adding-capacity-to-the-electricity-grid-is-not-a-simple-task)
+- [I Asked ChatGPT to Draw Mount Fuji in ASCII](https://news.ycombinator.com/item?id=35463177)
+- [Stanford: Change in Covid Vaccination Policy](https://healthalerts.stanford.edu/covid-19/2023/04/05/change-in-covid-vaccination-policy/)
+- [Want Sexual Satisfaction?](https://phys.org/news/2023-04-sexual-satisfaction-math.html)
+- [Hackers Strike Popular Tax Prep Software Efile.com](https://www.gamescensor.com/2023/04/hacker-efile-com-tax-software-malware-attack.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

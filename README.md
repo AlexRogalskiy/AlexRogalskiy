@@ -355,6 +355,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Apple wants you to upgrade your systems](https://www.computerworld.com/article/3692256/apple-wants-you-to-upgrade-your-systems.html#tk.rss_all)
+- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
+- [Got a Chromebook? Get early access to an awesome new interface enhancement](https://www.computerworld.com/article/3692454/chromebook-interface-enhancement.html#tk.rss_all)
 - [UK fines TikTok $15.8 million for GDPR violation of children&#39;s privacy](https://www.csoonline.com/article/3692635/uk-fines-tiktok-158-million-for-gdpr-violation-of-childrens-privacy.html#tk.rss_all)
 - [Samsung shows we need an Apple approach to generative AI](https://www.computerworld.com/article/3692358/samsung-shows-we-need-an-apple-approach-to-generative-ai.html#tk.rss_all)
 - [UK data regulator issues warning over generative AI data protection concerns](https://www.csoonline.com/article/3692438/uk-data-regulator-issues-warning-over-generative-ai-data-protection-concerns.html#tk.rss_all)
@@ -362,9 +365,6 @@
 - [China to probe Micron over cybersecurity, in chip war’s latest battle](https://www.computerworld.com/article/3692435/china-to-probe-micron-over-cybersecurity-in-chip-war-s-latest-battle.html#tk.rss_all)
 - [Has the PC market slowdown finally hit the Mac?](https://www.computerworld.com/article/3692549/has-the-pc-market-slowdown-finally-hit-the-mac.html#tk.rss_all)
 - [Ransomware as a service? Windows users can still fight back.](https://www.computerworld.com/article/3692550/ransomware-as-a-service-windows-users-can-still-fight-back.html#tk.rss_all)
-- [Should we fear the rise of artificial general intelligence?](https://www.computerworld.com/article/3692355/should-we-fear-the-rise-of-artificial-general-intelligence.html#tk.rss_all)
-- [About the Best Places to Work in IT](https://www.computerworld.com/article/3661814/about-best-places-to-work-in-it.html#tk.rss_all)
-- [Legislation to rein in AI’s use in hiring grows](https://www.computerworld.com/article/3691819/legislation-to-rein-in-ais-use-in-hiring-grows.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Try out Clojure libraries via rebel-readline](https://github.com/eval/deps-try)
-- [Master Plan Part 3](https://www.tesla.com/blog/master-plan-part-3)
-- [Galaxy Simulation](https://galaxym.ovh/)
-- [I don&amp;#x27;t want streaming music, I just want to stream my music](https://coryd.dev/posts/2023/i-dont-want-streaming-music/)
-- [The Bitcoin whitepaper is hidden in every copy of macOS](https://waxy.org/2023/04/the-bitcoin-whitepaper-is-hidden-in-every-modern-copy-of-macos/)
-- [Dang is going to have 65,535 karma points soon](https://news.ycombinator.com/user?id=dang)
-- [No-cost access to the latest PDF standard: ISO 32000-2 &lpar;PDF 2.0&rpar;](https://www.pdfa.org/sponsored-standards/)
-- [TPU v4 provides exaFLOPS-scale ML with efficiency gains](https://cloud.google.com/blog/topics/systems/tpu-v4-enables-performance-energy-and-co2e-efficiency-gains)
-- [Programmer interrupted: The cost of interruption and context switching &lpar;2022&rpar;](https://contextkeeper.io/blog/the-real-cost-of-an-interruption-and-context-switching/)
-- [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html)
+- [Etleap &lpar;YC W13&rpar; Is Hiring back end developers in London – 50% remote](https://etleap.com/careers/software-engineer/)
+- [60M Americans have taxes so simple the IRS could do them automatically](https://www.vox.com/23055489/irs-automatic-filing-prepopulated-returns)
+- [Sex traffickers used family safety app to control victims](https://www.forbes.com/sites/thomasbrewster/2023/04/06/sex-traffickers-use-parenting-apps-like-life360-to-spy-on-victims/)
+- [How does database sharding work?](https://planetscale.com/blog/how-does-database-sharding-work)
+- [Hubble sees possible runaway black hole creating a trail of stars](https://hubblesite.org/contents/news-releases/2023/news-2023-010)
+- [Replacing bad systems with bad systems](https://seths.blog/2023/04/replacing-bad-systems-with-bad-systems/)
+- [Is it my fault if you can&amp;#x27;t handle the truth? &lpar;2019&rpar;](http://agileotter.blogspot.com/2019/09/is-it-my-fault-you-cant-handle-truth.html)
+- [The Artistic Partnership of Lady Frieda Harris and Aleister Crowley](https://www.laphamsquarterly.org/roundtable/analysis-does-cramp-painter)
+- [4000x Speedup in Reinforcement Learning with Jax](https://chrislu.page/blog/meta-disco/)
+- [Illustrations of ‘unseen’ Japanese maintenance trains that only work at night](https://www.spoon-tamago.com/toei-project-unseen-maintenance-trains/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

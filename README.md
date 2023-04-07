@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [China Publishes Data Showing Raccoon Dog DNA at Wuhan Market](https://www.nytimes.com/2023/04/05/science/china-virus-origins-racoon-dogs.html)
-- [Caching partially materialized views consistently](https://blog.the-pans.com/caching-partially-materialized-views-consistently/)
-- [Computer scientists designing the future can’t agree on what privacy means](https://www.technologyreview.com/2023/04/03/1070665/cmu-university-privacy-battle-smart-building-sensors-mites/)
-- [How to FIDO](https://fido-alliance.github.io/how-to-fido/HowToFIDO.html)
-- [DIYtouchpad](https://github.com/aatishb/DIYtouchpad)
-- [Adding capacity to the electricity grid is not a simple task](https://www.economist.com/technology-quarterly/2023/04/05/adding-capacity-to-the-electricity-grid-is-not-a-simple-task)
-- [I Asked ChatGPT to Draw Mount Fuji in ASCII](https://news.ycombinator.com/item?id=35463177)
-- [Stanford: Change in Covid Vaccination Policy](https://healthalerts.stanford.edu/covid-19/2023/04/05/change-in-covid-vaccination-policy/)
-- [Want Sexual Satisfaction?](https://phys.org/news/2023-04-sexual-satisfaction-math.html)
-- [Hackers Strike Popular Tax Prep Software Efile.com](https://www.gamescensor.com/2023/04/hacker-efile-com-tax-software-malware-attack.html)
+- [VW Had US Customs Seize and Destroy a JDM Van for Looking Like the Classic Bus](https://www.thedrive.com/news/vw-had-us-customs-seize-and-destroy-a-cute-jdm-van-for-looking-like-the-classic-bus)
+- [Apple&#39;s Plan to Move iPhone Production from China to India](https://www.bloomberg.com/news/articles/2023-04-05/inside-apple-s-plan-to-move-iphone-production-from-china-to-india)
+- [Airline Forgets to Send Passengers to Customs, Tells Them to Return to JFK](https://viewfromthewing.com/airline-forgets-to-send-arriving-passengers-to-customs-now-they-have-to-return-to-jfk-airport/)
+- [Jarvis, a system to connect LLMs with ML community](https://github.com/microsoft/JARVIS)
+- [Reverse Engineering the Facebook Messenger API](https://intuitiveexplanations.com/tech/messenger)
+- [Java re-implementation of tiny graphviz](https://github.com/jamisonjiang/graph-support)
+- [Samsung and AMD Renew GPU Architecture Licensing Agreement: More RDNA Exynos](https://www.anandtech.com/show/18804/samsung-and-amd-renew-gpu-architecture-licensing-agreement-more-rdna-exynos-chips-to-come)
+- [Justice Department Seizes over $112M Linked to Crypto Investment Schemes](https://www.justice.gov/opa/pr/justice-department-seizes-over-112m-funds-linked-cryptocurrency-investment-schemes)
+- [Sic Processors for Extreme High- Temperature Venus Surface Exploration – IEEE](https://ieeexplore.ieee.org/document/9774769)
+- [The Evolution of Knowledge Transfer: From Cave Paintings to AI Systems](https://fagnerbrack.com/the-evolution-of-knowledge-transfer-from-cave-paintings-to-ai-systems-1a3a4f8b87fe)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

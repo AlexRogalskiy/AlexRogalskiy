@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Inside Tennessee, America’s most stringent anti-abortion state – podcast](https://www.theguardian.com/news/audio/2023/apr/06/how-close-to-death-must-a-woman-be-to-get-an-abortion-in-tennessee-podcast)
-- [Russian girl who drew anti-war pictures has left orphanage, children’s commissioner says](https://www.theguardian.com/world/2023/apr/06/russian-girl-who-drew-anti-war-pictures-has-left-orphanage-childrens-commissioner-says)
-- [Taiwan: US House speaker stresses urgency of arms sales after meeting president Tsai](https://www.theguardian.com/world/2023/apr/05/taiwan-president-us-house-speaker-kevin-mccarthy)
-- [Russia-Ukraine war at a glance: what we know on day 407 of the invasion](https://www.theguardian.com/world/2023/apr/06/russia-ukraine-war-at-a-glance-what-we-know-on-day-407-of-the-invasion)
-- [Joe Biden accepts King Charles’s invitation for state visit](https://www.theguardian.com/uk-news/2023/apr/06/joe-biden-accepts-king-charless-invitation-for-state-visit)
-- [Ministers treating coastal areas like ‘open sewers’, says Labour](https://www.theguardian.com/environment/2023/apr/06/ministers-treating-coastal-areas-like-open-sewers-says-labour)
-- [Commissioner vows to clean up Met as force faces biggest crisis since 1970s](https://www.theguardian.com/uk-news/2023/apr/06/commissioner-vows-to-clean-up-met-as-force-faces-biggest-crisis-since-1970s)
-- [Plans for new sites in UK for asylum seekers ‘risk humanitarian catastrophe’](https://www.theguardian.com/world/2023/apr/06/plans-for-new-sites-in-uk-for-asylum-seekers-risk-humanitarian-catastrophe)
-- [Businesses in north of England ask ministers for help to hit net zero](https://www.theguardian.com/environment/2023/apr/06/businesses-in-north-of-england-ask-ministers-for-help-to-hit-net-zero)
-- [Gary Lineker: it was factually accurate to call refugee policy cruel](https://www.theguardian.com/football/2023/apr/06/gary-lineker-it-was-factually-accurate-to-call-refugee-policy-cruel)
+- [‘Peace babies’ and the birth of the Good Friday agreement - podcast](https://www.theguardian.com/world/audio/2023/apr/07/peace-babies-and-the-birth-of-the-good-friday-agreement-podcast)
+- [Israel launches airstrikes in Gaza Strip after ‘biggest rocket salvo since 2006’](https://www.theguardian.com/world/2023/apr/06/israel-launches-airstrikes-in-gaza-strip-after-biggest-rocket-salvo-since-2006-war)
+- [‘The king has been dethroned’: Stormy Daniels speaks on Trump indictment](https://www.theguardian.com/us-news/2023/apr/06/stormy-daniels-interview-donald-trump-indictment)
+- [Russia-Ukraine war at a glance: what we know on day 408 of the invasion](https://www.theguardian.com/world/2023/apr/07/russia-ukraine-war-at-a-glance-what-we-know-on-day-408-of-the-invasion)
+- [Two Democratic members expelled from Tennessee house over gun control protest](https://www.theguardian.com/us-news/2023/apr/06/tennessee-gun-control-protest-house-expel-democrats)
+- [LIV rebel Koepka co-leads the Masters with Rahm and Hovland after day one](https://www.theguardian.com/sport/2023/apr/07/the-masters-brooks-koepka-crashes-party-leaders-jon-rahm-and-viktor-hovland)
+- [‘Truly alarming’: girls put off sport by clothing requirements](https://www.theguardian.com/sport/2023/apr/07/girls-put-off-sport-by-clothing-requirements-tess-howard)
+- [Killing Thatcher by Rory Carroll review – death in Brighton](https://www.theguardian.com/books/2023/apr/07/killing-thatcher-by-rory-carroll-review-death-in-brighton)
+- [Shootout experience vital for England before World Cup, says Wiegman](https://www.theguardian.com/football/2023/apr/06/shootout-vital-experience-for-england-before-world-cup-says-wiegman)
+- [Man arrested on suspicion of murder after woman dies in London fire](https://www.theguardian.com/uk-news/2023/apr/06/man-arrested-on-suspicion-of-after-woman-dies-in-flats-fire)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

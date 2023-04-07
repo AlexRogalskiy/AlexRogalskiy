@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Microsoft touts Windows 365 Frontline: 1 subscription for up to 3 workers](https://www.computerworld.com/article/3692820/microsoft-touts-windows-365-frontline-1-subscription-for-up-to-3-workers.html#tk.rss_all)
+- [Should we do more business with our iPhones?](https://www.computerworld.com/article/3692817/should-we-do-more-business-with-our-iphones.html#tk.rss_all)
+- [Pausing AI development is a foolish idea](https://www.computerworld.com/article/3693048/pausing-ai-development-is-a-foolish-idea.html#tk.rss_all)
+- [As US moves to regain microchip leadership, some say it never left](https://www.computerworld.com/article/3692888/as-us-moves-to-regain-microchip-leadership-some-say-it-never-lost-it.html#tk.rss_all)
+- [A forgotten Android personalization power](https://www.computerworld.com/article/3692300/android-personalization.html#tk.rss_all)
 - [Apple wants you to upgrade your systems](https://www.computerworld.com/article/3692256/apple-wants-you-to-upgrade-your-systems.html#tk.rss_all)
 - [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
 - [Got a Chromebook? Get early access to an awesome new interface enhancement](https://www.computerworld.com/article/3692454/chromebook-interface-enhancement.html#tk.rss_all)
 - [UK fines TikTok $15.8 million for GDPR violation of children&#39;s privacy](https://www.csoonline.com/article/3692635/uk-fines-tiktok-158-million-for-gdpr-violation-of-childrens-privacy.html#tk.rss_all)
 - [Samsung shows we need an Apple approach to generative AI](https://www.computerworld.com/article/3692358/samsung-shows-we-need-an-apple-approach-to-generative-ai.html#tk.rss_all)
-- [UK data regulator issues warning over generative AI data protection concerns](https://www.csoonline.com/article/3692438/uk-data-regulator-issues-warning-over-generative-ai-data-protection-concerns.html#tk.rss_all)
-- [Excel for Microsoft 365 cheat sheet](https://www.computerworld.com/article/3428640/excel-for-office-365-cheat-sheet.html#tk.rss_all)
-- [China to probe Micron over cybersecurity, in chip war’s latest battle](https://www.computerworld.com/article/3692435/china-to-probe-micron-over-cybersecurity-in-chip-war-s-latest-battle.html#tk.rss_all)
-- [Has the PC market slowdown finally hit the Mac?](https://www.computerworld.com/article/3692549/has-the-pc-market-slowdown-finally-hit-the-mac.html#tk.rss_all)
-- [Ransomware as a service? Windows users can still fight back.](https://www.computerworld.com/article/3692550/ransomware-as-a-service-windows-users-can-still-fight-back.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

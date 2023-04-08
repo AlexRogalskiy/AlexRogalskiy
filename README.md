@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [‘Peace babies’ and the birth of the Good Friday agreement - podcast](https://www.theguardian.com/world/audio/2023/apr/07/peace-babies-and-the-birth-of-the-good-friday-agreement-podcast)
-- [Israel launches airstrikes in Gaza Strip after ‘biggest rocket salvo since 2006’](https://www.theguardian.com/world/2023/apr/06/israel-launches-airstrikes-in-gaza-strip-after-biggest-rocket-salvo-since-2006-war)
-- [‘The king has been dethroned’: Stormy Daniels speaks on Trump indictment](https://www.theguardian.com/us-news/2023/apr/06/stormy-daniels-interview-donald-trump-indictment)
-- [Russia-Ukraine war at a glance: what we know on day 408 of the invasion](https://www.theguardian.com/world/2023/apr/07/russia-ukraine-war-at-a-glance-what-we-know-on-day-408-of-the-invasion)
-- [Two Democratic members expelled from Tennessee house over gun control protest](https://www.theguardian.com/us-news/2023/apr/06/tennessee-gun-control-protest-house-expel-democrats)
-- [LIV rebel Koepka co-leads the Masters with Rahm and Hovland after day one](https://www.theguardian.com/sport/2023/apr/07/the-masters-brooks-koepka-crashes-party-leaders-jon-rahm-and-viktor-hovland)
-- [‘Truly alarming’: girls put off sport by clothing requirements](https://www.theguardian.com/sport/2023/apr/07/girls-put-off-sport-by-clothing-requirements-tess-howard)
-- [Killing Thatcher by Rory Carroll review – death in Brighton](https://www.theguardian.com/books/2023/apr/07/killing-thatcher-by-rory-carroll-review-death-in-brighton)
-- [Shootout experience vital for England before World Cup, says Wiegman](https://www.theguardian.com/football/2023/apr/06/shootout-vital-experience-for-england-before-world-cup-says-wiegman)
-- [Man arrested on suspicion of murder after woman dies in London fire](https://www.theguardian.com/uk-news/2023/apr/06/man-arrested-on-suspicion-of-after-woman-dies-in-flats-fire)
+- [Russia-Ukraine war at a glance: what we know on day 409 of the invasion](https://www.theguardian.com/world/2023/apr/08/russia-ukraine-war-at-a-glance-what-we-know-on-day-409-of-the-invasion)
+- [China to hold military drills around Taiwan after US speaker meeting](https://www.theguardian.com/world/2023/apr/08/china-to-hold-military-drills-around-taiwan-after-us-speaker-meeting)
+- [US abortion pill access in doubt after Texas judge suspends approval](https://www.theguardian.com/world/2023/apr/07/abortion-pill-ruling-mifepristone-trump-judge-matthew-kacsmaryk)
+- [Violence in Tel Aviv leaves one dead and five injured](https://www.theguardian.com/world/2023/apr/07/one-killed-and-six-injured-in-suspected-attack-in-tel-aviv)
+- [Harris visits ousted Tennessee lawmakers as Republicans accused of ‘overt racism’](https://www.theguardian.com/us-news/2023/apr/07/tennessee-republicans-racism-democrats-expelled)
+- [‘Headed off the charts’: world’s ocean surface temperature hits record high](https://www.theguardian.com/environment/2023/apr/08/headed-off-the-charts-worlds-ocean-surface-temperature-hits-record-high)
+- [Government treating teachers in England with contempt over pay offer, says union](https://www.theguardian.com/education/2023/apr/07/teachers-union-hits-out-at-refusal-to-negotiate-miserable-pay-offer)
+- [Over 850 people with community and charity roles to attend king’s coronation](https://www.theguardian.com/uk-news/2023/apr/08/over-850-people-community-charity-roles-attend-king-coronation)
+- [Jimi Hendrix Live in Lviv by Andrey Kurkov review – ode to a lost city](https://www.theguardian.com/books/2023/apr/08/jimi-hendrix-live-in-lviv-by-andrey-kurkov-review-ode-to-a-lost-city)
+- [European roundup: Napoli back on track after bizarre Lecce own goal](https://www.theguardian.com/football/2023/apr/07/serie-a-italy-napoli-lecce-milan-empoli-la-liga-sevilla-celta-vigo)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Etleap &lpar;YC W13&rpar; Is Hiring back end developers in London – 50% remote](https://etleap.com/careers/software-engineer/)
-- [60M Americans have taxes so simple the IRS could do them automatically](https://www.vox.com/23055489/irs-automatic-filing-prepopulated-returns)
-- [Sex traffickers used family safety app to control victims](https://www.forbes.com/sites/thomasbrewster/2023/04/06/sex-traffickers-use-parenting-apps-like-life360-to-spy-on-victims/)
-- [How does database sharding work?](https://planetscale.com/blog/how-does-database-sharding-work)
-- [Hubble sees possible runaway black hole creating a trail of stars](https://hubblesite.org/contents/news-releases/2023/news-2023-010)
-- [Replacing bad systems with bad systems](https://seths.blog/2023/04/replacing-bad-systems-with-bad-systems/)
-- [Is it my fault if you can&amp;#x27;t handle the truth? &lpar;2019&rpar;](http://agileotter.blogspot.com/2019/09/is-it-my-fault-you-cant-handle-truth.html)
-- [The Artistic Partnership of Lady Frieda Harris and Aleister Crowley](https://www.laphamsquarterly.org/roundtable/analysis-does-cramp-painter)
-- [4000x Speedup in Reinforcement Learning with Jax](https://chrislu.page/blog/meta-disco/)
-- [Illustrations of ‘unseen’ Japanese maintenance trains that only work at night](https://www.spoon-tamago.com/toei-project-unseen-maintenance-trains/)
+- [Hacking Google ReCAPTCHA v3 Using Reinforcement Learning](https://arxiv.org/abs/1903.01003)
+- [Chasing Rainbows: Designing for Colorblindness](https://www.theverge.com/23650428/colorblindness-design-ui-accessibility-wordle)
+- [Mark Zuckerberg interviewed about “The Facebook” &lpar;2005&rpar;](https://twitter.com/stevekrouse/status/1644364093917208580)
+- [Go port of SQLite without CGo](https://gitlab.com/cznic/sqlite)
+- [Show HN: Compress GPT-4 Prompts](https://www.promptreducer.com/)
+- [ArXiv Paper for Cerebras-GPT: Open-Source Compute-Optimal Language Models](https://arxiv.org/abs/2304.03208)
+- [DPReview Will Remain Available as an Archive After It Closes](https://petapixel.com/2023/04/07/dpreview-will-remain-available-as-an-archive-after-it-closes/)
+- [Show HN: A toy bootloader written in C++](https://github.com/AgentD/hausboot)
+- [The company behind Stable Diffusion appears to be at risk of going under](https://futurism.com/the-byte/stable-diffusion-stability-ai-risk-going-under)
+- [A Case Study on the Uber Alumni Network](https://trailruncapital.substack.com/p/beyond-the-paypal-mafia-a-case-study)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [VW Had US Customs Seize and Destroy a JDM Van for Looking Like the Classic Bus](https://www.thedrive.com/news/vw-had-us-customs-seize-and-destroy-a-cute-jdm-van-for-looking-like-the-classic-bus)
-- [Apple&#39;s Plan to Move iPhone Production from China to India](https://www.bloomberg.com/news/articles/2023-04-05/inside-apple-s-plan-to-move-iphone-production-from-china-to-india)
-- [Airline Forgets to Send Passengers to Customs, Tells Them to Return to JFK](https://viewfromthewing.com/airline-forgets-to-send-arriving-passengers-to-customs-now-they-have-to-return-to-jfk-airport/)
-- [Jarvis, a system to connect LLMs with ML community](https://github.com/microsoft/JARVIS)
-- [Reverse Engineering the Facebook Messenger API](https://intuitiveexplanations.com/tech/messenger)
-- [Java re-implementation of tiny graphviz](https://github.com/jamisonjiang/graph-support)
-- [Samsung and AMD Renew GPU Architecture Licensing Agreement: More RDNA Exynos](https://www.anandtech.com/show/18804/samsung-and-amd-renew-gpu-architecture-licensing-agreement-more-rdna-exynos-chips-to-come)
-- [Justice Department Seizes over $112M Linked to Crypto Investment Schemes](https://www.justice.gov/opa/pr/justice-department-seizes-over-112m-funds-linked-cryptocurrency-investment-schemes)
-- [Sic Processors for Extreme High- Temperature Venus Surface Exploration – IEEE](https://ieeexplore.ieee.org/document/9774769)
-- [The Evolution of Knowledge Transfer: From Cave Paintings to AI Systems](https://fagnerbrack.com/the-evolution-of-knowledge-transfer-from-cave-paintings-to-ai-systems-1a3a4f8b87fe)
+- [The Erosion of Free Will: Why Society&#39;s Loss of Belief in Freedom Is Dangerous](https://read.lukeburgis.com/p/the-erosion-of-free-will-why-societys)
+- [QSL Card](https://en.wikipedia.org/wiki/QSL_card)
+- [The Wondrous Connections Between Mathematics and Literature](https://www.nytimes.com/2023/04/07/opinion/the-wondrous-connections-between-mathematics-and-literature.html)
+- [GPT-4 Gets US Medical Exam Licensing Questions Right More Than 90% of the Time](https://www.insider.com/chatgpt-passes-medical-exam-diagnoses-rare-condition-2023-4)
+- [Big Oil&#39;s favorite way to lie: paltering](https://heated.world/p/big-oils-favorite-way-to-lie-paltering)
+- [I gave ChatGPT an IQ test, here&#39;s what I discovered](https://www.scientificamerican.com/article/i-gave-chatgpt-an-iq-test-heres-what-i-discovered/)
+- [Coupa Cafe: A Cup Above &lpar;2004&rpar;](https://www.metroactive.com/papers/metro/10.06.04/dining-0441.html)
+- [Jack Dorsey: “Elon is the singular solution I trust” &lpar;2022&rpar;](https://twitter.com/jack/status/1518772756069773313)
+- [Check Out These Images of a Satellite in Orbit Taken by Another Satellite](https://www.thedrive.com/the-war-zone/check-out-these-images-of-a-satellite-in-orbit-taken-by-another-satellite)
+- [A New Startup Lifecycle](https://nutcroft.com/blog/a-new-startup-lifecycle/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

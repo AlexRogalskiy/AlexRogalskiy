@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Erosion of Free Will: Why Society&#39;s Loss of Belief in Freedom Is Dangerous](https://read.lukeburgis.com/p/the-erosion-of-free-will-why-societys)
-- [QSL Card](https://en.wikipedia.org/wiki/QSL_card)
-- [The Wondrous Connections Between Mathematics and Literature](https://www.nytimes.com/2023/04/07/opinion/the-wondrous-connections-between-mathematics-and-literature.html)
-- [GPT-4 Gets US Medical Exam Licensing Questions Right More Than 90% of the Time](https://www.insider.com/chatgpt-passes-medical-exam-diagnoses-rare-condition-2023-4)
-- [Big Oil&#39;s favorite way to lie: paltering](https://heated.world/p/big-oils-favorite-way-to-lie-paltering)
-- [I gave ChatGPT an IQ test, here&#39;s what I discovered](https://www.scientificamerican.com/article/i-gave-chatgpt-an-iq-test-heres-what-i-discovered/)
-- [Coupa Cafe: A Cup Above &lpar;2004&rpar;](https://www.metroactive.com/papers/metro/10.06.04/dining-0441.html)
-- [Jack Dorsey: “Elon is the singular solution I trust” &lpar;2022&rpar;](https://twitter.com/jack/status/1518772756069773313)
-- [Check Out These Images of a Satellite in Orbit Taken by Another Satellite](https://www.thedrive.com/the-war-zone/check-out-these-images-of-a-satellite-in-orbit-taken-by-another-satellite)
-- [A New Startup Lifecycle](https://nutcroft.com/blog/a-new-startup-lifecycle/)
+- [Reasons to Ignore AI Safety &lpar;2020&rpar; [video]](https://www.youtube.com/watch?v=9i1WlcCudpU)
+- [Why are my secret Spotify songs following me around?](https://www.vulture.com/2023/04/spotify-discover-weekly-songs-essay.html)
+- [Venice Is Saved Woe Is Venice](https://www.nytimes.com/2023/04/01/world/europe/venice-mose-flooding.html)
+- [Can cosmology untangle the universe’s most elusive mysteries?](https://knowablemagazine.org/article/physical-world/2023/cosmology-untangle-universe-elusive-mysteries)
+- [How the Hunt Brothers Cornered the Silver Market and Then Lost It All](https://priceonomics.com/how-the-hunt-brothers-cornered-the-silver-market/)
+- [Google ends updates and effectively kills 3rd-party Assistant Smart Displays](https://9to5google.com/2023/04/07/google-assistant-smart-displays-updates/)
+- [The inventor who fell in love woth his AI](https://www.economist.com/1843/2023/04/04/the-inventor-who-fell-in-love-with-his-ai)
+- [Notes on graphics programming and version control](https://tyler.cafe/graphics-and-versions)
+- [Ask HN: Is it harder to get an internship as a grad student in CS than undergrad](https://news.ycombinator.com/item?id=35499368)
+- [Writing a Redis clone in Go from scratch](https://mliezun.github.io/2023/04/08/redis-clone.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

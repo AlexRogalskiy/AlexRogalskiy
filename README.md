@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war at a glance: what we know on day 409 of the invasion](https://www.theguardian.com/world/2023/apr/08/russia-ukraine-war-at-a-glance-what-we-know-on-day-409-of-the-invasion)
-- [China to hold military drills around Taiwan after US speaker meeting](https://www.theguardian.com/world/2023/apr/08/china-to-hold-military-drills-around-taiwan-after-us-speaker-meeting)
-- [US abortion pill access in doubt after Texas judge suspends approval](https://www.theguardian.com/world/2023/apr/07/abortion-pill-ruling-mifepristone-trump-judge-matthew-kacsmaryk)
-- [Violence in Tel Aviv leaves one dead and five injured](https://www.theguardian.com/world/2023/apr/07/one-killed-and-six-injured-in-suspected-attack-in-tel-aviv)
-- [Harris visits ousted Tennessee lawmakers as Republicans accused of ‘overt racism’](https://www.theguardian.com/us-news/2023/apr/07/tennessee-republicans-racism-democrats-expelled)
-- [‘Headed off the charts’: world’s ocean surface temperature hits record high](https://www.theguardian.com/environment/2023/apr/08/headed-off-the-charts-worlds-ocean-surface-temperature-hits-record-high)
-- [Government treating teachers in England with contempt over pay offer, says union](https://www.theguardian.com/education/2023/apr/07/teachers-union-hits-out-at-refusal-to-negotiate-miserable-pay-offer)
-- [Over 850 people with community and charity roles to attend king’s coronation](https://www.theguardian.com/uk-news/2023/apr/08/over-850-people-community-charity-roles-attend-king-coronation)
-- [Jimi Hendrix Live in Lviv by Andrey Kurkov review – ode to a lost city](https://www.theguardian.com/books/2023/apr/08/jimi-hendrix-live-in-lviv-by-andrey-kurkov-review-ode-to-a-lost-city)
-- [European roundup: Napoli back on track after bizarre Lecce own goal](https://www.theguardian.com/football/2023/apr/07/serie-a-italy-napoli-lecce-milan-empoli-la-liga-sevilla-celta-vigo)
+- [Ben Ferencz: last surviving Nuremberg prosecutor dies aged 103](https://www.theguardian.com/world/2023/apr/09/ben-ferencz-last-surviving-nuremberg-prosecutor-dies-aged-103)
+- [Russia-Ukraine war at a glance: what we know on day 410 of the invasion](https://www.theguardian.com/world/2023/apr/09/russia-ukraine-war-at-a-glance-what-we-know-on-day-410-of-the-invasion)
+- [Ian Bairnson, guitarist with Pilot and for Kate Bush, dies aged 69](https://www.theguardian.com/music/2023/apr/09/ian-bairnson-guitarist-with-pilot-and-for-kate-bush-dies-aged-69)
+- [‘Barbaric’ attacks leave 44 civilians dead in Burkina Faso](https://www.theguardian.com/world/2023/apr/08/barbaric-attacks-leave-44-civilians-dead-in-burkina-faso)
+- [British-Israeli sisters killed in West Bank gun attack named](https://www.theguardian.com/world/2023/apr/08/british-israeli-sisters-killed-in-west-bank-gun-attack-named)
+- [Justin Welby to predict ‘divine justice’ for oppressive rulers in Easter sermons](https://www.theguardian.com/lifeandstyle/2023/apr/08/justin-welby-to-predict-divine-justice-for-oppressive-rulers-in-easter-sermons)
+- [UK hotter than Rome as Easter weekend brings brief temperature highs](https://www.theguardian.com/uk-news/2023/apr/08/uk-hotter-than-rome-as-easter-weekend-brings-brief-temperature-highs)
+- [China launches military drills around Taiwan after US House speaker meeting](https://www.theguardian.com/world/2023/apr/08/china-launches-military-drills-around-taiwan-after-us-house-speaker-meeting)
+- [Rain leaves Brooks Koepka to lead marathon Masters finale on Sunday](https://www.theguardian.com/sport/2023/apr/08/rain-leaves-brooks-koepka-to-lead-marathon-masters-finale)
+- [Frank Lampard warns Chelsea: ‘Without aggression you can’t win games’](https://www.theguardian.com/football/2023/apr/08/frank-lampard-warns-chelsea-without-aggression-you-cant-win-games)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

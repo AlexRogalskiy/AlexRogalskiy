@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ben Ferencz: last surviving Nuremberg prosecutor dies aged 103](https://www.theguardian.com/world/2023/apr/09/ben-ferencz-last-surviving-nuremberg-prosecutor-dies-aged-103)
-- [Russia-Ukraine war at a glance: what we know on day 410 of the invasion](https://www.theguardian.com/world/2023/apr/09/russia-ukraine-war-at-a-glance-what-we-know-on-day-410-of-the-invasion)
-- [Ian Bairnson, guitarist with Pilot and for Kate Bush, dies aged 69](https://www.theguardian.com/music/2023/apr/09/ian-bairnson-guitarist-with-pilot-and-for-kate-bush-dies-aged-69)
-- [‘Barbaric’ attacks leave 44 civilians dead in Burkina Faso](https://www.theguardian.com/world/2023/apr/08/barbaric-attacks-leave-44-civilians-dead-in-burkina-faso)
-- [British-Israeli sisters killed in West Bank gun attack named](https://www.theguardian.com/world/2023/apr/08/british-israeli-sisters-killed-in-west-bank-gun-attack-named)
-- [Justin Welby to predict ‘divine justice’ for oppressive rulers in Easter sermons](https://www.theguardian.com/lifeandstyle/2023/apr/08/justin-welby-to-predict-divine-justice-for-oppressive-rulers-in-easter-sermons)
-- [UK hotter than Rome as Easter weekend brings brief temperature highs](https://www.theguardian.com/uk-news/2023/apr/08/uk-hotter-than-rome-as-easter-weekend-brings-brief-temperature-highs)
-- [China launches military drills around Taiwan after US House speaker meeting](https://www.theguardian.com/world/2023/apr/08/china-launches-military-drills-around-taiwan-after-us-house-speaker-meeting)
-- [Rain leaves Brooks Koepka to lead marathon Masters finale on Sunday](https://www.theguardian.com/sport/2023/apr/08/rain-leaves-brooks-koepka-to-lead-marathon-masters-finale)
-- [Frank Lampard warns Chelsea: ‘Without aggression you can’t win games’](https://www.theguardian.com/football/2023/apr/08/frank-lampard-warns-chelsea-without-aggression-you-cant-win-games)
+- [Xi Jinping and the battle over China’s memory of the Cultural Revolution - podcast](https://www.theguardian.com/news/audio/2023/apr/10/xi-jinping-and-the-battle-over-china-memory-of-the-cultural-revolution-podcast)
+- [US woman, 78, charged with bank robbery for third time](https://www.theguardian.com/us-news/2023/apr/10/us-woman-78-charged-with-bank-robbery-for-third-time)
+- [Russia-Ukraine war at a glance: what we know on day 411 of the invasion](https://www.theguardian.com/world/2023/apr/10/russia-ukraine-war-at-a-glance-what-we-know-on-day-411-of-the-invasion)
+- [Hawaii shark attack: surfer in Honolulu in serious condition](https://www.theguardian.com/us-news/2023/apr/10/hawaii-shark-attack-surfer-in-honolulu-in-serious-condition)
+- [Jon Rahm overhauls Brooks Koepka to win Masters on dramatic final day](https://www.theguardian.com/sport/2023/apr/10/jon-rahm-overhauls-brooks-koepka-to-win-masters-on-dramatic-final-day)
+- [Brooks Koepka used to be ruthless but he missed a golden Masters chance | Andy Bull](https://www.theguardian.com/sport/blog/2023/apr/10/brooks-koepka-used-to-be-ruthless-but-he-missed-a-golden-masters-chance)
+- [Good Friday agreement ‘based on compromise’, Sunak says on 25th anniversary](https://www.theguardian.com/uk-news/2023/apr/10/good-friday-agreement-anniversary-northern-ireland-rishi-sunak)
+- [Four new wild swimming sites in England open for summer season](https://www.theguardian.com/lifeandstyle/2023/apr/10/four-new-wild-swimming-sites-in-england-open-for-summer-season)
+- [Eight people missing after explosion destroys two buildings in Marseille](https://www.theguardian.com/world/2023/apr/09/marseille-building-collapse-france)
+- [‘Stand by every word’: Keir Starmer defends attack ad on Rishi Sunak](https://www.theguardian.com/politics/2023/apr/09/keri-starmer-defends-insensitive-labour-advert-on-child-sexual-assaults)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

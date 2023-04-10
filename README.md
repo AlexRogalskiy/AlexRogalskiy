@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Making IELM &lpar;Emacs Lisp REPL&rpar; More Comfortable](https://www.n16f.net/blog/making-ielm-more-comfortable/)
-- [FunDSP 0.13 – Audio Processing and Synthesis Library for Rust](https://crates.io/crates/fundsp/0.13.0)
-- [Lonely Individuals Process the World in Idiosyncratic Ways](https://journals.sagepub.com/doi/10.1177/09567976221145316)
-- [Dooble Web Browser](https://textbrowser.github.io/dooble/)
-- [Andrew Huberman Has Supplements on the Brain](https://www.mcgill.ca/oss/article/critical-thinking-health-and-nutrition/andrew-huberman-has-bad-case-supplement-brain)
-- [FCC warns Portland church to shut down pirate FM operating under its steeple](https://www.insideradio.com/free/fcc-warns-portland-church-to-shut-down-pirate-fm-operating-under-its-steeple/article_f89e2ebc-cf96-11ed-9c83-4b0d056dd422.html)
-- [PyDPainter 1.0.5 – Amiga Deluxe Paint Clone Written in Python](https://www.pygame.org/project/5157/8204)
-- [A 1.5GB string](https://blog.backslasher.net/1.5GB-string.html)
-- [GNU+Linux laptops with Libreboot preinstalled, based on coreboot](https://minifree.org/)
-- [Show HN: A ChatGPT TUI with custom bots](https://www.askmarvin.ai/guide/concepts/tui/)
+- [Stanford benchmarks and compares numerous Large Language Models](https://crfm.stanford.edu/helm/latest/?group=core_scenarios)
+- [Using RP2040 DMA+PIO to drive a poorly-designed but cheap display from waveshare](http://dmitry.gr/?r=06.%20Thoughts&proj=09.ComplexPioMachines)
+- [We Need To Talk About Vercel](https://www.maxcountryman.com/articles/we-need-to-talk-about-vercel)
+- [Laid-off tech workers choose stability over status](https://www.wsj.com/articles/as-tech-jobs-disappear-silicon-valley-veterans-reset-their-careers-dbdb983)
+- [Australia is quitting coal in record time thanks to Tesla](https://www.bloomberg.com/news/features/2023-04-04/how-tesla-tsla-elon-musk-are-helping-australia-quit-coal-power)
+- [OpenVMS 9.2 for x86 is finally available for hobbyists](https://raymii.org/s/blog/OpenVMS_9.2_for_x86_is_finally_available_for_hobbyists.html)
+- [Who invented vector clocks?](https://decomposition.al/blog/2023/04/08/who-invented-vector-clocks/)
+- [A Baby GPT](https://twitter.com/karpathy/status/1645115622517542913)
+- [What does a research grant pay for?](https://austinhenley.com/blog/grantbudget.html)
+- [The four-horse race to decarbonise steel](https://www.energymonitor.ai/sectors/industry/the-four-horse-race-to-decarbonise-steel/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

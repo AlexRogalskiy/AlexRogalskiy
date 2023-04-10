@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Reasons to Ignore AI Safety &lpar;2020&rpar; [video]](https://www.youtube.com/watch?v=9i1WlcCudpU)
-- [Why are my secret Spotify songs following me around?](https://www.vulture.com/2023/04/spotify-discover-weekly-songs-essay.html)
-- [Venice Is Saved Woe Is Venice](https://www.nytimes.com/2023/04/01/world/europe/venice-mose-flooding.html)
-- [Can cosmology untangle the universe’s most elusive mysteries?](https://knowablemagazine.org/article/physical-world/2023/cosmology-untangle-universe-elusive-mysteries)
-- [How the Hunt Brothers Cornered the Silver Market and Then Lost It All](https://priceonomics.com/how-the-hunt-brothers-cornered-the-silver-market/)
-- [Google ends updates and effectively kills 3rd-party Assistant Smart Displays](https://9to5google.com/2023/04/07/google-assistant-smart-displays-updates/)
-- [The inventor who fell in love woth his AI](https://www.economist.com/1843/2023/04/04/the-inventor-who-fell-in-love-with-his-ai)
-- [Notes on graphics programming and version control](https://tyler.cafe/graphics-and-versions)
-- [Ask HN: Is it harder to get an internship as a grad student in CS than undergrad](https://news.ycombinator.com/item?id=35499368)
-- [Writing a Redis clone in Go from scratch](https://mliezun.github.io/2023/04/08/redis-clone.html)
+- [Get Serious: About Purpose](https://www.thefp.com/p/get-serious-about-purpose)
+- [Ask HN: Examples of software that is “done”?](https://news.ycombinator.com/item?id=35508512)
+- [Why FDR Limited FDIC Coverage](https://www.wsj.com/articles/why-fdr-limited-fdic-coverage-silicon-valley-bank-deposit-insurance-risk-small-business-8cee7518)
+- [Food Prices Are New Inflation Threat for Governments and Central Banks](https://www.wsj.com/articles/food-prices-are-new-inflation-threat-for-governments-and-central-banks-969e7483)
+- [How to Buy a Dinosaur](https://www.ft.com/content/fa09f465-878b-4630-b171-6c27062173c9)
+- [Low-Protein Diet from Processed Foods Drives Overeating and Fueling Obesity](https://www.forbes.com/sites/roberthart/2022/11/08/low-protein-diet-from-processed-foods-drives-overeating-and-is-fueling-obesity-crisis-study-finds/)
+- [Everything I learned about accidentally running a successful tech conference](https://vickiboykis.com/2022/12/22/everything-i-learned-about-accidentally-running-a-successful-tech-conference/)
+- [Google warning Nest Hub owners that games are going away](https://9to5google.com/2023/04/09/nest-hub-games/)
+- [Melian Dialogue: Thucydides Trap Type II](https://www.nku.edu/~weirk/ir/melian.html)
+- [Rethinking Obesity](https://www.science.org/content/blog-post/rethinking-obesity)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

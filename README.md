@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Get Serious: About Purpose](https://www.thefp.com/p/get-serious-about-purpose)
-- [Ask HN: Examples of software that is “done”?](https://news.ycombinator.com/item?id=35508512)
-- [Why FDR Limited FDIC Coverage](https://www.wsj.com/articles/why-fdr-limited-fdic-coverage-silicon-valley-bank-deposit-insurance-risk-small-business-8cee7518)
-- [Food Prices Are New Inflation Threat for Governments and Central Banks](https://www.wsj.com/articles/food-prices-are-new-inflation-threat-for-governments-and-central-banks-969e7483)
-- [How to Buy a Dinosaur](https://www.ft.com/content/fa09f465-878b-4630-b171-6c27062173c9)
-- [Low-Protein Diet from Processed Foods Drives Overeating and Fueling Obesity](https://www.forbes.com/sites/roberthart/2022/11/08/low-protein-diet-from-processed-foods-drives-overeating-and-is-fueling-obesity-crisis-study-finds/)
-- [Everything I learned about accidentally running a successful tech conference](https://vickiboykis.com/2022/12/22/everything-i-learned-about-accidentally-running-a-successful-tech-conference/)
-- [Google warning Nest Hub owners that games are going away](https://9to5google.com/2023/04/09/nest-hub-games/)
-- [Melian Dialogue: Thucydides Trap Type II](https://www.nku.edu/~weirk/ir/melian.html)
-- [Rethinking Obesity](https://www.science.org/content/blog-post/rethinking-obesity)
+- [If you want to understand China, you must first understand Legalism](https://www.worldhistory.org/Legalism/)
+- [Discovering Headroll &lpar;CVE-2023–0704&rpar; in Chromium](https://www.canva.dev/blog/engineering/discovering-headroll-cve-2023-0704-in-chromium/)
+- [World Startup Convention: The India startup gala that exploded into a scandal](https://www.bbc.com/news/world-asia-india-65200441)
+- [Enabling developers can help drive financial inclusion](https://github.blog/2023-04-10-how-enabling-developers-can-help-drive-financial-inclusion/)
+- [Twitter&#39;s ex-CEO cites DOJ probe in lawsuit seeking unpaid legal bills](https://www.axios.com/2023/04/10/ex-twitter-ceo-lawsuit-unpaid-legal-fees)
+- [Ask HN: Switch Jobs to Undo Burnout?](https://news.ycombinator.com/item?id=35519744)
+- [&lpar;2019&rpar; Death by organ donation: rational end-of-life meets charity](https://www.usatoday.com/story/opinion/voices/2019/05/02/organ-donation-physician-assisted-suicide-death-disability-column/3628448002/)
+- [Using AI for Sales Prospecting Effectively](https://fundraiseinsider.com/blog/ai-for-sales-prospecting/)
+- [China Gears Up for Cognitive Warfare](https://www.defenseone.com/ideas/2023/04/china-gears-cognitive-warfare/384876/)
+- [Reducing Bloated React Code](https://news.ycombinator.com/item?id=35519708)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

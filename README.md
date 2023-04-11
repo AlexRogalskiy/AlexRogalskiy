@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Facing weak chip sales, TSMC asks US for guidance on CHIPS Act funds](https://www.computerworld.com/article/3693110/facing-weak-chip-sales-tsmc-asks-us-for-guidance-on-chips-act-funds.html#tk.rss_all)
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [Still using Windows 10 21H2? Time to upgrade](https://www.computerworld.com/article/3692869/still-using-windows-10-21h2-time-to-upgrade.html#tk.rss_all)
+- [Apple feels the bite as Mac shipments fall 40.5%](https://www.computerworld.com/article/3693012/apple-feels-the-bite-as-mac-shipments-fall-40-percent.html#tk.rss_all)
+- [How many jobs are available in technology in the US?](https://www.computerworld.com/article/3542681/how-many-jobs-are-available-in-technology.html#tk.rss_all)
 - [Global IT spending forecast to rise 5.5%, fueled by software, services](https://www.computerworld.com/article/3692890/global-it-spending-forecast-to-rise-55-fueled-by-software-services.html#tk.rss_all)
 - [Tech layoffs in 2023: A timeline](https://www.computerworld.com/article/3685936/tech-layoffs-in-2023-a-timeline.html#tk.rss_all)
 - [Android versions: A living history from 1.0 to 14](https://www.computerworld.com/article/3235946/android-versions-a-living-history-from-1-0-to-today.html#tk.rss_all)
 - [Microsoft touts Windows 365 Frontline: 1 subscription for up to 3 workers](https://www.computerworld.com/article/3692820/microsoft-touts-windows-365-frontline-1-subscription-for-up-to-3-workers.html#tk.rss_all)
 - [Should we do more business with our iPhones?](https://www.computerworld.com/article/3692817/should-we-do-more-business-with-our-iphones.html#tk.rss_all)
-- [Pausing AI development is a foolish idea](https://www.computerworld.com/article/3693048/pausing-ai-development-is-a-foolish-idea.html#tk.rss_all)
-- [As US moves to regain microchip leadership, some say it never left](https://www.computerworld.com/article/3692888/as-us-moves-to-regain-microchip-leadership-some-say-it-never-lost-it.html#tk.rss_all)
-- [A forgotten Android personalization power](https://www.computerworld.com/article/3692300/android-personalization.html#tk.rss_all)
-- [Apple wants you to upgrade your systems](https://www.computerworld.com/article/3692256/apple-wants-you-to-upgrade-your-systems.html#tk.rss_all)
-- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

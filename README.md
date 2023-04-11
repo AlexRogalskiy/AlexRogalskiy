@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Xi Jinping and the battle over China’s memory of the Cultural Revolution - podcast](https://www.theguardian.com/news/audio/2023/apr/10/xi-jinping-and-the-battle-over-china-memory-of-the-cultural-revolution-podcast)
-- [US woman, 78, charged with bank robbery for third time](https://www.theguardian.com/us-news/2023/apr/10/us-woman-78-charged-with-bank-robbery-for-third-time)
-- [Russia-Ukraine war at a glance: what we know on day 411 of the invasion](https://www.theguardian.com/world/2023/apr/10/russia-ukraine-war-at-a-glance-what-we-know-on-day-411-of-the-invasion)
-- [Hawaii shark attack: surfer in Honolulu in serious condition](https://www.theguardian.com/us-news/2023/apr/10/hawaii-shark-attack-surfer-in-honolulu-in-serious-condition)
-- [Jon Rahm overhauls Brooks Koepka to win Masters on dramatic final day](https://www.theguardian.com/sport/2023/apr/10/jon-rahm-overhauls-brooks-koepka-to-win-masters-on-dramatic-final-day)
-- [Brooks Koepka used to be ruthless but he missed a golden Masters chance | Andy Bull](https://www.theguardian.com/sport/blog/2023/apr/10/brooks-koepka-used-to-be-ruthless-but-he-missed-a-golden-masters-chance)
-- [Good Friday agreement ‘based on compromise’, Sunak says on 25th anniversary](https://www.theguardian.com/uk-news/2023/apr/10/good-friday-agreement-anniversary-northern-ireland-rishi-sunak)
-- [Four new wild swimming sites in England open for summer season](https://www.theguardian.com/lifeandstyle/2023/apr/10/four-new-wild-swimming-sites-in-england-open-for-summer-season)
-- [Eight people missing after explosion destroys two buildings in Marseille](https://www.theguardian.com/world/2023/apr/09/marseille-building-collapse-france)
-- [‘Stand by every word’: Keir Starmer defends attack ad on Rishi Sunak](https://www.theguardian.com/politics/2023/apr/09/keri-starmer-defends-insensitive-labour-advert-on-child-sexual-assaults)
+- [Fifth victim dies in Louisville bank shooting](https://www.theguardian.com/us-news/2023/apr/10/louisville-active-shooting-attack-deaths)
+- [The ‘nice, ordinary’ family suspected of being deep-state Russian spies - podcast](https://www.theguardian.com/news/audio/2023/apr/11/the-nice-ordinary-family-suspected-of-being-deep-state-russian-spies)
+- [Derry crowd petrol-bombs police vehicle as Joe Biden heads to Northern Ireland](https://www.theguardian.com/uk-news/2023/apr/10/derry-security-operation-under-way-before-dissident-republican-parade)
+- [Nashville council votes to reinstate expelled Democrat Justin Jones](https://www.theguardian.com/us-news/2023/apr/10/nashville-council-votes-reinstate-expelled-democrat-justin-jones)
+- [Russia-Ukraine war at a glance: what we know on day 412 of the invasion](https://www.theguardian.com/world/2023/apr/11/russia-ukraine-war-at-a-glance-what-we-know-on-day-412-of-the-invasion)
+- [AI generated news presenter debuts in Kuwait media](https://www.theguardian.com/world/2023/apr/11/ai-generated-news-presenter-debuts-in-kuwait-media)
+- [UK households turn to TV subscriptions as they cut back on nights out](https://www.theguardian.com/business/2023/apr/11/uk-households-turn-to-tv-subscriptions-as-they-cut-back-on-nights-out)
+- [England’s Euro 2022 triumph had little impact on inner-city girls, report finds](https://www.theguardian.com/football/2023/apr/11/englands-euro-2022-triumph-had-little-impact-on-inner-city-girls-report-finds)
+- [Senate Democrats urge supreme court investigation of Clarence Thomas](https://www.theguardian.com/law/2023/apr/10/senate-democrats-supreme-court-investigation-clarence-thomas)
+- [US appeals Texas judge’s ruling to suspend abortion pill approval](https://www.theguardian.com/world/2023/apr/10/us-appeals-texas-judge-abortion-pill-ruling)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

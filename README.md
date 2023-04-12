@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Dyson Hair Dryer Becomes Jet Engine](https://hackaday.com/2023/04/10/dyson-hair-dryer-becomes-jet-engine/)
-- [Seattle&amp;#x27;s new airport terminal can’t fit planes it was designed to handle](https://www.paddleyourownkanoo.com/2023/04/09/seattle-discovers-its-new-1-billion-airport-terminal-cant-fit-the-long-haul-planes-it-was-designed-to-handle/)
-- [Evaluating the Logical Reasoning Ability of ChatGPT and GPT-4](https://arxiv.org/abs/2304.03439)
-- [Shutting down nuclear power could increase air pollution: study](https://news.mit.edu/2023/study-shutting-down-nuclear-power-could-increase-air-pollution-0410)
-- [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442)
-- [Al Jaffee, king of the Mad Magazine fold-in, has died](https://www.nytimes.com/2023/04/10/arts/al-jaffee-dead.html)
-- [Aviator &lpar;YC S21&rpar; is hiring senior engineers interested in dev productivity](https://www.ycombinator.com/companies/aviator/jobs)
-- [Keycloak with PostgreSQL on Kubernetes](https://blog.brakmic.com/keycloak-with-postgresql-on-kubernetes/)
-- [Passing the Reins on Panfrost](https://rosenzweig.io/blog/passing-reins-panfrost.html)
-- [Use GitHub Actions to Make Your GitHub Profile Dynamic](https://www.bengreenberg.dev/posts/2023-04-09-github-profile-dynamic-content/)
+- [Eve Online player uses obscure rule to pull off biggest heist in game history](https://www.pcgamer.com/eve-online-player-uses-obscure-rule-to-pull-off-the-biggest-heist-in-the-games-history/)
+- [From Oversight to Overkill](https://astralcodexten.substack.com/p/book-review-from-oversight-to-overkill)
+- [Distillation of 20 Management and Leadership Books and Resources](https://tuckerconnelly.com/management-leadership)
+- [Solaris by Stanislaw Lem on BBC 4 Radio Full-Cast Drama &lpar;2007&rpar;](https://www.youtube.com/watch?v=oe8lRAIunxs)
+- [Colorado passes agricultural Right to Repair](https://www.ifixit.com/News/73291/colorado-approves-first-ever-agricultural-right-to-repair-bill)
+- [Deck.of.cards](https://deck.of.cards/old/)
+- [Aptible &lpar;YC S14&rpar; Is Hiring: Security Engineer and Head of Product](https://www.aptible.com/culture-hub/careers)
+- [Show HN: Semantic Search on AWS Docs](https://github.com/aws-samples/semantic-search-aws-docs)
+- [WordGrinder: Terminal-based distraction free word processor](https://github.com/davidgiven/wordgrinder)
+- [Car alarms and smoke alarms: the tradeoff between sensitivity and specificity](https://blog.danslimmon.com/2012/11/02/car-alarms-and-smoke-alarms-the-tradeoff-between-sensitivity-and-specificity/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Fifth victim dies in Louisville bank shooting](https://www.theguardian.com/us-news/2023/apr/10/louisville-active-shooting-attack-deaths)
-- [The ‘nice, ordinary’ family suspected of being deep-state Russian spies - podcast](https://www.theguardian.com/news/audio/2023/apr/11/the-nice-ordinary-family-suspected-of-being-deep-state-russian-spies)
-- [Derry crowd petrol-bombs police vehicle as Joe Biden heads to Northern Ireland](https://www.theguardian.com/uk-news/2023/apr/10/derry-security-operation-under-way-before-dissident-republican-parade)
-- [Nashville council votes to reinstate expelled Democrat Justin Jones](https://www.theguardian.com/us-news/2023/apr/10/nashville-council-votes-reinstate-expelled-democrat-justin-jones)
-- [Russia-Ukraine war at a glance: what we know on day 412 of the invasion](https://www.theguardian.com/world/2023/apr/11/russia-ukraine-war-at-a-glance-what-we-know-on-day-412-of-the-invasion)
-- [AI generated news presenter debuts in Kuwait media](https://www.theguardian.com/world/2023/apr/11/ai-generated-news-presenter-debuts-in-kuwait-media)
-- [UK households turn to TV subscriptions as they cut back on nights out](https://www.theguardian.com/business/2023/apr/11/uk-households-turn-to-tv-subscriptions-as-they-cut-back-on-nights-out)
-- [England’s Euro 2022 triumph had little impact on inner-city girls, report finds](https://www.theguardian.com/football/2023/apr/11/englands-euro-2022-triumph-had-little-impact-on-inner-city-girls-report-finds)
-- [Senate Democrats urge supreme court investigation of Clarence Thomas](https://www.theguardian.com/law/2023/apr/10/senate-democrats-supreme-court-investigation-clarence-thomas)
-- [US appeals Texas judge’s ruling to suspend abortion pill approval](https://www.theguardian.com/world/2023/apr/10/us-appeals-texas-judge-abortion-pill-ruling)
+- [Myanmar airstrike on civilians sparks global outcry as witnesses describe attack](https://www.theguardian.com/world/2023/apr/12/myanmar-airstrike-on-civilians-sparks-global-outcry-as-witnesses-describe-attack)
+- [Is artificial intelligence getting out of control? – podcast](https://www.theguardian.com/news/audio/2023/apr/12/is-artificial-intelligence-getting-out-of-control-podcast)
+- [China records first H3N8 bird flu death, WHO says](https://www.theguardian.com/world/2023/apr/12/china-records-first-h3n8-bird-flu-death-who-says)
+- [New Zealand Labour tied with National in latest polls, six months out from election](https://www.theguardian.com/world/2023/apr/12/new-zealand-labour-tied-with-national-in-latest-polls-six-months-out-from-election)
+- [Pentagon leaks: key revelations of classified documents](https://www.theguardian.com/us-news/2023/apr/11/key-revelations-classified-documents-pentagon-leaks)
+- [Fox News under fire for ‘credibility problem’ over late disclosure of Murdoch role](https://www.theguardian.com/media/2023/apr/11/fox-news-rupert-murdoch-title-dominion-lawsuit)
+- [Only 2% of New Zealand’s large lakes are in good health, bleak report finds](https://www.theguardian.com/world/2023/apr/12/only-2-of-new-zealands-large-lakes-are-in-good-health-bleak-report-finds)
+- [Etihad Airways’ ‘sustainable aviation’ ads banned in UK](https://www.theguardian.com/business/2023/apr/12/etihad-airways-sustainable-aviation-ads-banned-uk)
+- [V&amp;A’s Diva show uses costumes and artefacts to celebrate female creativity](https://www.theguardian.com/artanddesign/2023/apr/12/vas-diva-exhibition-uses-costumes-and-artefacts-to-celebrate-female-creativity)
+- [Mayan ball game scoreboard thought to be over 1,000 years old found in Mexico](https://www.theguardian.com/world/2023/apr/11/mayan-ball-game-scoreboard-chichen-itza-mexico)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
+- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
+- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
+- [Fleet announces open-source, cross-platform MDM solution](https://www.computerworld.com/article/3692916/fleet-announces-open-source-cross-platform-mdm-solution.html#tk.rss_all)
+- [US and China take first steps toward regulating generative AI](https://www.computerworld.com/article/3693017/us-and-china-take-first-steps-toward-regulating-generative-ai.html#tk.rss_all)
+- [Alibaba rolls out ChatGPT rival, Tongyi Qianwen, for its business apps](https://www.computerworld.com/article/3693115/alibaba-rolls-out-chatgpt-rival-tongyi-qianwen-for-its-business-apps.html#tk.rss_all)
+- [There&#39;s no stopping AI now](https://www.computerworld.com/article/3692908/theres-no-stopping-ai-now.html#tk.rss_all)
+- [Nearly four in five employers struggle to fill job roles, a 17-year high](https://www.computerworld.com/article/3693014/nearly-four-in-five-employers-struggle-to-fill-job-roles-a-17-year-high.html#tk.rss_all)
 - [Facing weak chip sales, TSMC asks US for guidance on CHIPS Act funds](https://www.computerworld.com/article/3693110/facing-weak-chip-sales-tsmc-asks-us-for-guidance-on-chips-act-funds.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [Still using Windows 10 21H2? Time to upgrade](https://www.computerworld.com/article/3692869/still-using-windows-10-21h2-time-to-upgrade.html#tk.rss_all)
-- [Apple feels the bite as Mac shipments fall 40.5%](https://www.computerworld.com/article/3693012/apple-feels-the-bite-as-mac-shipments-fall-40-percent.html#tk.rss_all)
-- [How many jobs are available in technology in the US?](https://www.computerworld.com/article/3542681/how-many-jobs-are-available-in-technology.html#tk.rss_all)
-- [Global IT spending forecast to rise 5.5%, fueled by software, services](https://www.computerworld.com/article/3692890/global-it-spending-forecast-to-rise-55-fueled-by-software-services.html#tk.rss_all)
-- [Tech layoffs in 2023: A timeline](https://www.computerworld.com/article/3685936/tech-layoffs-in-2023-a-timeline.html#tk.rss_all)
-- [Android versions: A living history from 1.0 to 14](https://www.computerworld.com/article/3235946/android-versions-a-living-history-from-1-0-to-today.html#tk.rss_all)
-- [Microsoft touts Windows 365 Frontline: 1 subscription for up to 3 workers](https://www.computerworld.com/article/3692820/microsoft-touts-windows-365-frontline-1-subscription-for-up-to-3-workers.html#tk.rss_all)
-- [Should we do more business with our iPhones?](https://www.computerworld.com/article/3692817/should-we-do-more-business-with-our-iphones.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [If you want to understand China, you must first understand Legalism](https://www.worldhistory.org/Legalism/)
-- [Discovering Headroll &lpar;CVE-2023–0704&rpar; in Chromium](https://www.canva.dev/blog/engineering/discovering-headroll-cve-2023-0704-in-chromium/)
-- [World Startup Convention: The India startup gala that exploded into a scandal](https://www.bbc.com/news/world-asia-india-65200441)
-- [Enabling developers can help drive financial inclusion](https://github.blog/2023-04-10-how-enabling-developers-can-help-drive-financial-inclusion/)
-- [Twitter&#39;s ex-CEO cites DOJ probe in lawsuit seeking unpaid legal bills](https://www.axios.com/2023/04/10/ex-twitter-ceo-lawsuit-unpaid-legal-fees)
-- [Ask HN: Switch Jobs to Undo Burnout?](https://news.ycombinator.com/item?id=35519744)
-- [&lpar;2019&rpar; Death by organ donation: rational end-of-life meets charity](https://www.usatoday.com/story/opinion/voices/2019/05/02/organ-donation-physician-assisted-suicide-death-disability-column/3628448002/)
-- [Using AI for Sales Prospecting Effectively](https://fundraiseinsider.com/blog/ai-for-sales-prospecting/)
-- [China Gears Up for Cognitive Warfare](https://www.defenseone.com/ideas/2023/04/china-gears-cognitive-warfare/384876/)
-- [Reducing Bloated React Code](https://news.ycombinator.com/item?id=35519708)
+- [Foster Family Agencies &lpar;FFAs&rpar; and why political rhetoric evades child abuse](https://seliger.com/2020/05/19/foster-family-agencies-ffas-and-why-political-rhetoric-rarely-focuses-on-child-abuse/)
+- [Running Python micro-benchmarks using the ChatGPT Code Interpreter alpha](https://simonwillison.net/2023/Apr/12/code-interpreter/)
+- [Processed foods key to rising obesity &#39;Protein hunger&#39; drive obesity study shows](https://www.sciencedaily.com/releases/2022/11/221108082623.htm)
+- [Polyglot Manchu Emperor](https://languagelog.ldc.upenn.edu/nll/?p=58356#more-58356)
+- [Blue Sky: Can Twitter be owned by its users?](https://blog.paulbohm.com/p/blue-sky-farcaster-substack-notes)
+- [Show HN: Blind.sh – Control macOS with Just Your Voice](https://github.com/realrasengan/blind.sh)
+- [Apple’s Live Activity for Timers](https://512pixels.net/2023/03/ios-16-timer-live-activity/)
+- [How are the M1 Mac Bluetooth Issues still not fixed in 2023?](https://forums.macrumors.com/threads/how-are-the-m1-mac-bluetooth-issues-still-not-fixed-in-2023.2379091/)
+- [Modular AI &lpar;Chris Lattner AI Startup&rpar;](https://www.modular.com/)
+- [There Is Something Wrong with Mouse, Cursor, and Magic Trackpad 2 in M1/M2 Macs](https://old.reddit.com/r/apple/comments/110dozc/there_is_something_wrong_with_the_mouse_cursor/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

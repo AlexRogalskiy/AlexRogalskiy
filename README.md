@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Foster Family Agencies &lpar;FFAs&rpar; and why political rhetoric evades child abuse](https://seliger.com/2020/05/19/foster-family-agencies-ffas-and-why-political-rhetoric-rarely-focuses-on-child-abuse/)
-- [Running Python micro-benchmarks using the ChatGPT Code Interpreter alpha](https://simonwillison.net/2023/Apr/12/code-interpreter/)
-- [Processed foods key to rising obesity &#39;Protein hunger&#39; drive obesity study shows](https://www.sciencedaily.com/releases/2022/11/221108082623.htm)
-- [Polyglot Manchu Emperor](https://languagelog.ldc.upenn.edu/nll/?p=58356#more-58356)
-- [Blue Sky: Can Twitter be owned by its users?](https://blog.paulbohm.com/p/blue-sky-farcaster-substack-notes)
-- [Show HN: Blind.sh – Control macOS with Just Your Voice](https://github.com/realrasengan/blind.sh)
-- [Apple’s Live Activity for Timers](https://512pixels.net/2023/03/ios-16-timer-live-activity/)
-- [How are the M1 Mac Bluetooth Issues still not fixed in 2023?](https://forums.macrumors.com/threads/how-are-the-m1-mac-bluetooth-issues-still-not-fixed-in-2023.2379091/)
-- [Modular AI &lpar;Chris Lattner AI Startup&rpar;](https://www.modular.com/)
-- [There Is Something Wrong with Mouse, Cursor, and Magic Trackpad 2 in M1/M2 Macs](https://old.reddit.com/r/apple/comments/110dozc/there_is_something_wrong_with_the_mouse_cursor/)
+- [At the World’s Edge on Easter Island](https://www.departures.com/travel/easter-island-hotels-moai-beaches)
+- [Ask HN: Best tool/method to remotely manage a family member&#39;s Mac from my Mac?](https://news.ycombinator.com/item?id=35550024)
+- [Stripe and Adyen&#39;s Financials Compared](https://tanay.substack.com/p/stripe-vs-adyen-financials-2023-update)
+- [The Challenge &lpar;2023 Film&rpar;](https://en.wikipedia.org/wiki/The_Challenge_(2023_film))
+- [Ban TikTok – But we need a better version of the RESTRICT Act](https://proton.me/blog/ban-tiktok-better-restrict-act)
+- [Florida health officials removed key cardiac event data in Covid vaccine report](https://www.tampabay.com/news/health/2023/04/07/florida-surgeon-general-covid-19-vaccine-study-heart-problems-men/)
+- [Scalable, economical, and stable sequestration of agricultural fixed carbon](https://www.pnas.org/doi/10.1073/pnas.2217695120)
+- [UMG tells Apple and Spotify to block AI lyric, melody scraping](https://www.ft.com/content/aec1679b-5a34-4dad-9fc9-f4d8cdd124b9)
+- [Toad Is Asian](https://www.vulture.com/article/toad-is-asian.html)
+- [Dead rodents litter PM&#39;s official home, but do Canadians care?](https://www.bbc.com/news/world-us-canada-65208045)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

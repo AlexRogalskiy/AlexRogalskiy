@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Eve Online player uses obscure rule to pull off biggest heist in game history](https://www.pcgamer.com/eve-online-player-uses-obscure-rule-to-pull-off-the-biggest-heist-in-the-games-history/)
-- [From Oversight to Overkill](https://astralcodexten.substack.com/p/book-review-from-oversight-to-overkill)
-- [Distillation of 20 Management and Leadership Books and Resources](https://tuckerconnelly.com/management-leadership)
-- [Solaris by Stanislaw Lem on BBC 4 Radio Full-Cast Drama &lpar;2007&rpar;](https://www.youtube.com/watch?v=oe8lRAIunxs)
-- [Colorado passes agricultural Right to Repair](https://www.ifixit.com/News/73291/colorado-approves-first-ever-agricultural-right-to-repair-bill)
-- [Deck.of.cards](https://deck.of.cards/old/)
-- [Aptible &lpar;YC S14&rpar; Is Hiring: Security Engineer and Head of Product](https://www.aptible.com/culture-hub/careers)
-- [Show HN: Semantic Search on AWS Docs](https://github.com/aws-samples/semantic-search-aws-docs)
-- [WordGrinder: Terminal-based distraction free word processor](https://github.com/davidgiven/wordgrinder)
-- [Car alarms and smoke alarms: the tradeoff between sensitivity and specificity](https://blog.danslimmon.com/2012/11/02/car-alarms-and-smoke-alarms-the-tradeoff-between-sensitivity-and-specificity/)
+- [Tesla’s EV Market Share Is Dropping Fast](https://jalopnik.com/tesla-us-ev-market-share-is-dropping-fast-1850327204)
+- [Lindows 4.0 &lpar;2003&rpar;](https://baturin.org/misc/software-reviews/lindows/)
+- [Mathematicians Find Hidden Structure in a Common Type of Space](https://www.quantamagazine.org/mathematicians-find-hidden-structure-in-a-common-type-of-space-20230412/)
+- [Show HN: Twitter API Reverse Engineered](https://github.com/trevorhobenshield/twitter-api-client)
+- [East Asian character emojis ㊗ 🈶 🈯 🈳 &lpar;2016&rpar;](https://chenhuijing.com/blog/east-asian-character-emojis/)
+- [Midjourney AI Guide](https://enchanting-trader-463.notion.site/Midjourney-AI-Guide-41eca43809dd4d8fa676e648436fc29c)
+- [DeepSpeed Chat: Easy, fast and affordable RLHF training of ChatGPT-like models](https://github.com/microsoft/DeepSpeed/blob/master/blogs/deepspeed-chat/README.md)
+- [Use io_uring for network I&amp;#x2F;O](https://developers.redhat.com/articles/2023/04/12/why-you-should-use-iouring-network-io)
+- [OneSignal &lpar;YC S11&rpar; Is Hiring Engineers](https://onesignal.com/careers)
+- [Joblib: Running Python functions as pipeline jobs](https://joblib.readthedocs.io/en/latest/index.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

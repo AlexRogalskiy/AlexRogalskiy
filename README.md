@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Myanmar airstrike on civilians sparks global outcry as witnesses describe attack](https://www.theguardian.com/world/2023/apr/12/myanmar-airstrike-on-civilians-sparks-global-outcry-as-witnesses-describe-attack)
-- [Is artificial intelligence getting out of control? – podcast](https://www.theguardian.com/news/audio/2023/apr/12/is-artificial-intelligence-getting-out-of-control-podcast)
-- [China records first H3N8 bird flu death, WHO says](https://www.theguardian.com/world/2023/apr/12/china-records-first-h3n8-bird-flu-death-who-says)
-- [New Zealand Labour tied with National in latest polls, six months out from election](https://www.theguardian.com/world/2023/apr/12/new-zealand-labour-tied-with-national-in-latest-polls-six-months-out-from-election)
-- [Pentagon leaks: key revelations of classified documents](https://www.theguardian.com/us-news/2023/apr/11/key-revelations-classified-documents-pentagon-leaks)
-- [Fox News under fire for ‘credibility problem’ over late disclosure of Murdoch role](https://www.theguardian.com/media/2023/apr/11/fox-news-rupert-murdoch-title-dominion-lawsuit)
-- [Only 2% of New Zealand’s large lakes are in good health, bleak report finds](https://www.theguardian.com/world/2023/apr/12/only-2-of-new-zealands-large-lakes-are-in-good-health-bleak-report-finds)
-- [Etihad Airways’ ‘sustainable aviation’ ads banned in UK](https://www.theguardian.com/business/2023/apr/12/etihad-airways-sustainable-aviation-ads-banned-uk)
-- [V&amp;A’s Diva show uses costumes and artefacts to celebrate female creativity](https://www.theguardian.com/artanddesign/2023/apr/12/vas-diva-exhibition-uses-costumes-and-artefacts-to-celebrate-female-creativity)
-- [Mayan ball game scoreboard thought to be over 1,000 years old found in Mexico](https://www.theguardian.com/world/2023/apr/11/mayan-ball-game-scoreboard-chichen-itza-mexico)
+- [Why has Labour turned nasty? – podcast](https://www.theguardian.com/news/audio/2023/apr/13/why-has-labour-turned-nasty)
+- [Why the fight for marriage equality in Fiji divides LGBTQ+ activists](https://www.theguardian.com/world/2023/apr/13/why-the-fight-for-marriage-equality-in-fiji-divides-lgbtq-activists)
+- [Judge sanctions Fox News for failing to disclose evidence in Dominion lawsuit](https://www.theguardian.com/us-news/2023/apr/12/fox-news-lawsuit-dominion-gather-more-evidence)
+- [Dianne Feinstein vows to return to her post as Democrats call for her to resign](https://www.theguardian.com/us-news/2023/apr/12/us-house-democrats-dianne-feinstein-resignation)
+- [Russia-Ukraine war at a glance: what we know on day 414 of the invasion](https://www.theguardian.com/world/2023/apr/13/russia-ukraine-war-at-a-glance-what-we-know-on-day-414-of-the-invasion)
+- [North Korean missile launch briefly sparks evacuation order in Japan](https://www.theguardian.com/world/2023/apr/13/japan-orders-hokkaido-residents-to-take-cover-after-north-korean-missile-launch)
+- [Rough life: lost dog returned home after epic 150-mile Alaskan sea-ice journey](https://www.theguardian.com/us-news/2023/apr/12/alaska-dog-lost-found-wales-nanuq)
+- [Anti-rat activist hired to control New York City’s pest population](https://www.theguardian.com/us-news/2023/apr/12/kathleen-corradi-new-york-city-director-of-rodent-mitigation)
+- [UK in ‘rapidly escalating’ diabetes crisis as cases top 5m, report says](https://www.theguardian.com/society/2023/apr/13/uk-in-rapidly-escalating-diabetes-crisis-as-cases-top-5m-report-says)
+- [More house price drops expected despite signs of market stabilising](https://www.theguardian.com/money/2023/apr/13/fall-house-prices-expected-continue-signs-market-stabilising)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

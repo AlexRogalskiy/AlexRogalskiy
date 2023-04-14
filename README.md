@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Tesla’s EV Market Share Is Dropping Fast](https://jalopnik.com/tesla-us-ev-market-share-is-dropping-fast-1850327204)
-- [Lindows 4.0 &lpar;2003&rpar;](https://baturin.org/misc/software-reviews/lindows/)
-- [Mathematicians Find Hidden Structure in a Common Type of Space](https://www.quantamagazine.org/mathematicians-find-hidden-structure-in-a-common-type-of-space-20230412/)
-- [Show HN: Twitter API Reverse Engineered](https://github.com/trevorhobenshield/twitter-api-client)
-- [East Asian character emojis ㊗ 🈶 🈯 🈳 &lpar;2016&rpar;](https://chenhuijing.com/blog/east-asian-character-emojis/)
-- [Midjourney AI Guide](https://enchanting-trader-463.notion.site/Midjourney-AI-Guide-41eca43809dd4d8fa676e648436fc29c)
-- [DeepSpeed Chat: Easy, fast and affordable RLHF training of ChatGPT-like models](https://github.com/microsoft/DeepSpeed/blob/master/blogs/deepspeed-chat/README.md)
-- [Use io_uring for network I&amp;#x2F;O](https://developers.redhat.com/articles/2023/04/12/why-you-should-use-iouring-network-io)
-- [OneSignal &lpar;YC S11&rpar; Is Hiring Engineers](https://onesignal.com/careers)
-- [Joblib: Running Python functions as pipeline jobs](https://joblib.readthedocs.io/en/latest/index.html)
+- [What&amp;#x27;s the Least Impactful Way to Spend $300,000,000?](https://passingtime.substack.com/p/whats-the-least-impactful-way-to)
+- [Atlas &lpar;YC W22&rpar; Is Hiring for a Demand Gen Manager &lpar;International&rpar;](https://www.ycombinator.com/companies/atlas-2/jobs/DREaPP6-senior-demand-generation-manager-global)
+- [An Update on Tornado Cash](https://www.eff.org/deeplinks/2023/04/update-tornado-cash)
+- [When you combine two things that are close, but not the same](https://twitter.com/id_aa_carmack/status/1646634954703421441)
+- [SQL: 2023 is finished: Here is what&amp;#x27;s new](http://peter.eisentraut.org/blog/2023/04/04/sql-2023-is-finished-here-is-whats-new)
+- [Shifting the Balance of Cybersecurity Risk: Security-by-Design and -Default [pdf]](https://www.cisa.gov/sites/default/files/2023-04/principles_approaches_for_security-by-design-default_508_0.pdf)
+- [Consent-O-Matic: Automatic cookie management](https://consentomatic.au.dk/)
+- [Camus&amp;#x27;s New York Diary &lpar;1946&rpar;](https://www.theparisreview.org/blog/2023/03/14/camuss-new-york-diary-1946/)
+- [I hope you will never see this letter &lpar;1961&rpar;](https://news.lettersofnote.com/p/i-hope-you-will-never-see-this-letter)
+- [End-of-Life Dreams](https://www.commonwealmagazine.org/end-life-dreams)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [At the World’s Edge on Easter Island](https://www.departures.com/travel/easter-island-hotels-moai-beaches)
-- [Ask HN: Best tool/method to remotely manage a family member&#39;s Mac from my Mac?](https://news.ycombinator.com/item?id=35550024)
-- [Stripe and Adyen&#39;s Financials Compared](https://tanay.substack.com/p/stripe-vs-adyen-financials-2023-update)
-- [The Challenge &lpar;2023 Film&rpar;](https://en.wikipedia.org/wiki/The_Challenge_(2023_film))
-- [Ban TikTok – But we need a better version of the RESTRICT Act](https://proton.me/blog/ban-tiktok-better-restrict-act)
-- [Florida health officials removed key cardiac event data in Covid vaccine report](https://www.tampabay.com/news/health/2023/04/07/florida-surgeon-general-covid-19-vaccine-study-heart-problems-men/)
-- [Scalable, economical, and stable sequestration of agricultural fixed carbon](https://www.pnas.org/doi/10.1073/pnas.2217695120)
-- [UMG tells Apple and Spotify to block AI lyric, melody scraping](https://www.ft.com/content/aec1679b-5a34-4dad-9fc9-f4d8cdd124b9)
-- [Toad Is Asian](https://www.vulture.com/article/toad-is-asian.html)
-- [Dead rodents litter PM&#39;s official home, but do Canadians care?](https://www.bbc.com/news/world-us-canada-65208045)
+- [An AI in the City of God](https://www.epsilontheory.com/an-ai-in-the-city-of-god/)
+- [Nudging Investors into Better 401k Behavior](https://ritholtz.com/2023/04/401k-behaviors/)
+- [Chromium Issue: avoid constant ERR_NETWORK_CHANGE](https://bugs.chromium.org/p/chromium/issues/detail?id=1076619)
+- [Skyscraper Plans Revealed for San Francisco’s Ocean Beach: 712 Homes, 50 Stories](https://sfstandard.com/housing-development/skyscraper-plans-revealed-for-san-franciscos-ocean-beach-712-homes-50-stories/)
+- [An introduction to generative AI with Swami Sivasubramanian](https://www.allthingsdistributed.com/2023/04/an-introduction-to-generative-ai-with-swami-sivasubramanian.html)
+- [Show HN: Conversational AI Assistant to Google Sheets](https://wraithsheets.com/)
+- [Artificial Scarcity Damages the Creator Economy](https://thebootstrappedfounder.com/artificial-scarcity-damages-the-creator-economy/)
+- [Servo plans to move their layout engine to “Layout 2020”](https://servo.org/blog/2023/04/13/layout-2013-vs-2020/)
+- [Stability AI’s new model is slightly better at generating hands](https://techcrunch.com/2023/04/13/stability-ais-new-model-is-slightly-better-at-generating-hands/)
+- [Martin Shkreli Became a Wallstreetbets Legend](https://www.youtube.com/watch?v=80BXR4zX2EE)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

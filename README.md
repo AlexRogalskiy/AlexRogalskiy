@@ -355,6 +355,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Cisco to offer Webex air-gapped cloud system for security, defense work](https://www.computerworld.com/article/3693449/cisco-to-offer-webex-air-gapped-cloud-system-for-security-defense-work.html#tk.rss_all)
+- [Apple accelerates use of recycled materials across all its products](https://www.computerworld.com/article/3693314/apple-accelerates-use-of-recycled-materials-across-all-its-products.html#tk.rss_all)
+- [Massachusetts lawmakers file bill to create 4-day workweek pilot](https://www.computerworld.com/article/3692895/massachusetts-lawmakers-file-bill-to-create-4-day-workweek-pilot.html#tk.rss_all)
 - [Down in Q1, US IT job market rebounded slightly in March: Report](https://www.computerworld.com/article/3693249/down-in-q1-us-it-job-market-rebounded-slightly-in-march-report.html#tk.rss_all)
 - [Yet more digital spies targeting iPhones exposed by security researchers](https://www.computerworld.com/article/3692922/yet-more-digital-spies-targeting-iphones-exposed-by-security-researchers.html#tk.rss_all)
 - [It’s déjà vu all over again as governments put Microsoft in their crosshairs](https://www.computerworld.com/article/3693114/it-s-deja-vu-all-over-again-as-governments-put-microsoft-in-their-crosshairs.html#tk.rss_all)
@@ -362,9 +365,6 @@
 - [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
 - [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
 - [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
-- [Fleet announces open-source, cross-platform MDM solution](https://www.computerworld.com/article/3692916/fleet-announces-open-source-cross-platform-mdm-solution.html#tk.rss_all)
-- [US and China take first steps toward regulating generative AI](https://www.computerworld.com/article/3693017/us-and-china-take-first-steps-toward-regulating-generative-ai.html#tk.rss_all)
-- [Alibaba rolls out ChatGPT rival, Tongyi Qianwen, for its business apps](https://www.computerworld.com/article/3693115/alibaba-rolls-out-chatgpt-rival-tongyi-qianwen-for-its-business-apps.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

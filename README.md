@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [What&amp;#x27;s the Least Impactful Way to Spend $300,000,000?](https://passingtime.substack.com/p/whats-the-least-impactful-way-to)
-- [Atlas &lpar;YC W22&rpar; Is Hiring for a Demand Gen Manager &lpar;International&rpar;](https://www.ycombinator.com/companies/atlas-2/jobs/DREaPP6-senior-demand-generation-manager-global)
-- [An Update on Tornado Cash](https://www.eff.org/deeplinks/2023/04/update-tornado-cash)
-- [When you combine two things that are close, but not the same](https://twitter.com/id_aa_carmack/status/1646634954703421441)
-- [SQL: 2023 is finished: Here is what&amp;#x27;s new](http://peter.eisentraut.org/blog/2023/04/04/sql-2023-is-finished-here-is-whats-new)
-- [Shifting the Balance of Cybersecurity Risk: Security-by-Design and -Default [pdf]](https://www.cisa.gov/sites/default/files/2023-04/principles_approaches_for_security-by-design-default_508_0.pdf)
-- [Consent-O-Matic: Automatic cookie management](https://consentomatic.au.dk/)
-- [Camus&amp;#x27;s New York Diary &lpar;1946&rpar;](https://www.theparisreview.org/blog/2023/03/14/camuss-new-york-diary-1946/)
-- [I hope you will never see this letter &lpar;1961&rpar;](https://news.lettersofnote.com/p/i-hope-you-will-never-see-this-letter)
-- [End-of-Life Dreams](https://www.commonwealmagazine.org/end-life-dreams)
+- [What Are Transformer Models and How Do They Work?](https://txt.cohere.ai/what-are-transformer-models/)
+- [Please fix your spinner](https://pleasefixyourspinner.com)
+- [HyperShell: Spawn shells anywhere. Fully peer-to-peer](https://github.com/holepunchto/hypershell)
+- [The FAA has granted SpaceX permission to launch its Starship rocket](https://arstechnica.com/science/2023/04/green-light-go-spacex-receives-a-launch-license-from-the-faa-for-starship/)
+- [A photon-recycling incandescent lighting device](https://www.science.org/doi/10.1126/sciadv.adf3737)
+- [DJI Inspire 3: new 8k cinema drone](https://www.dji.com/inspire-3)
+- [Oldest bat skeletons ever found described as new species](https://www.nhm.ac.uk/discover/news/2023/april/oldest-bat-skeletons-ever-found-described-new-species.html)
+- [Searchable Linux Syscall Table for x86 and x86_64](https://filippo.io/linux-syscall-table/)
+- [ESA’s Juice lifts off on quest to discover secrets of Jupiter’s icy moons](https://www.esa.int/Science_Exploration/Space_Science/Juice/ESA_s_Juice_lifts_off_on_quest_to_discover_secrets_of_Jupiter_s_icy_moons)
+- [This website is solar powered and running on a Raspberry Pi-like computer](https://solar.leo32345.com/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

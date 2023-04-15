@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Patch now to address a Windows zero-day](https://www.computerworld.com/article/3693317/patch-now-to-address-windows-zero-day.html#tk.rss_all)
+- [Apple’s new patent hints at powerful video collaboration tools](https://www.computerworld.com/article/3693254/apples-new-patent-hints-at-powerful-video-collaboration-tools.html#tk.rss_all)
+- [EU privacy regulators to create task force to investigate ChatGPT](https://www.computerworld.com/article/3693316/eu-privacy-regulators-to-create-taskforce-to-investigate-chatgpt.html#tk.rss_all)
+- [Stolen ChatGPT premium accounts up for sale on the dark web](https://www.csoonline.com/article/3693569/stolen-chatgpt-premium-accounts-up-for-sale-on-the-dark-web.html#tk.rss_all)
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
+- [Why remote work is the opportunity of the century for cities](https://www.computerworld.com/article/3692914/why-remote-work-is-the-opportunity-of-the-century-for-cities.html#tk.rss_all)
+- [Google Tasks cheat sheet: How to get started](https://www.computerworld.com/article/3692429/how-to-use-google-tasks.html#tk.rss_all)
 - [Cisco to offer Webex air-gapped cloud system for security, defense work](https://www.computerworld.com/article/3693449/cisco-to-offer-webex-air-gapped-cloud-system-for-security-defense-work.html#tk.rss_all)
 - [Apple accelerates use of recycled materials across all its products](https://www.computerworld.com/article/3693314/apple-accelerates-use-of-recycled-materials-across-all-its-products.html#tk.rss_all)
-- [Massachusetts lawmakers file bill to create 4-day workweek pilot](https://www.computerworld.com/article/3692895/massachusetts-lawmakers-file-bill-to-create-4-day-workweek-pilot.html#tk.rss_all)
-- [Down in Q1, US IT job market rebounded slightly in March: Report](https://www.computerworld.com/article/3693249/down-in-q1-us-it-job-market-rebounded-slightly-in-march-report.html#tk.rss_all)
-- [Yet more digital spies targeting iPhones exposed by security researchers](https://www.computerworld.com/article/3692922/yet-more-digital-spies-targeting-iphones-exposed-by-security-researchers.html#tk.rss_all)
-- [It’s déjà vu all over again as governments put Microsoft in their crosshairs](https://www.computerworld.com/article/3693114/it-s-deja-vu-all-over-again-as-governments-put-microsoft-in-their-crosshairs.html#tk.rss_all)
-- [Android, ChromeOS, and Google&#39;s cloudy vision for a connected future](https://www.computerworld.com/article/3692894/android-chromeos-google.html#tk.rss_all)
-- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
-- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
-- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

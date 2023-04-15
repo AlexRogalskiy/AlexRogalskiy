@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [An AI in the City of God](https://www.epsilontheory.com/an-ai-in-the-city-of-god/)
-- [Nudging Investors into Better 401k Behavior](https://ritholtz.com/2023/04/401k-behaviors/)
-- [Chromium Issue: avoid constant ERR_NETWORK_CHANGE](https://bugs.chromium.org/p/chromium/issues/detail?id=1076619)
-- [Skyscraper Plans Revealed for San Francisco’s Ocean Beach: 712 Homes, 50 Stories](https://sfstandard.com/housing-development/skyscraper-plans-revealed-for-san-franciscos-ocean-beach-712-homes-50-stories/)
-- [An introduction to generative AI with Swami Sivasubramanian](https://www.allthingsdistributed.com/2023/04/an-introduction-to-generative-ai-with-swami-sivasubramanian.html)
-- [Show HN: Conversational AI Assistant to Google Sheets](https://wraithsheets.com/)
-- [Artificial Scarcity Damages the Creator Economy](https://thebootstrappedfounder.com/artificial-scarcity-damages-the-creator-economy/)
-- [Servo plans to move their layout engine to “Layout 2020”](https://servo.org/blog/2023/04/13/layout-2013-vs-2020/)
-- [Stability AI’s new model is slightly better at generating hands](https://techcrunch.com/2023/04/13/stability-ais-new-model-is-slightly-better-at-generating-hands/)
-- [Martin Shkreli Became a Wallstreetbets Legend](https://www.youtube.com/watch?v=80BXR4zX2EE)
+- [And now, Sam wants to say a few words](https://foreverwars.ghost.io/the-chud-era-of-national-security-leaks/)
+- [Ask HN: How to Build a Blog?](https://news.ycombinator.com/item?id=35577081)
+- [CS50&#39;s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2020/)
+- [Intellectual Nonsense: Fallacious Arguments for IP](https://www.youtube.com/watch?v=e0RXfGGMGPE)
+- [IPFS-tiny: attempting to take IPFS to Space](https://libre.space/2023/04/12/ipfs-tiny/)
+- [What Are Transformer Models and How Do They Work?](https://txt.cohere.ai/what-are-transformer-models/)
+- [The world’s biggest water recycling facility gets bigger in OC](https://www.ocregister.com/2023/04/14/the-worlds-biggest-water-recycling-facility-gets-bigger-in-oc/)
+- [Japan to launch new visa track next week for skilled foreign workers](https://www.japantimes.co.jp/news/2023/04/14/national/new-visa-track-foreign-workers/)
+- [Is driving on the left stopping New Zealand reaching its climate goals?](https://www.theguardian.com/world/commentisfree/2023/apr/14/is-driving-on-the-left-stopping-new-zealand-reaching-its-climate-goals)
+- [‘Air’ is a cautionary tale about ESG](https://www.wsj.com/articles/air-is-a-cautionary-tale-about-esg-michael-jordan-management-stability-profit-shareholders-c9155958)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

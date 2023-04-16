@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war at a glance: what we know on day 416 of the invasion](https://www.theguardian.com/world/2023/apr/15/russia-ukraine-war-at-a-glance-what-we-know-on-day-416-of-the-invasion)
-- [Montana legislators pass bill banning TikTok from operating in state](https://www.theguardian.com/us-news/2023/apr/14/montana-tiktok-ban-bill-passed)
-- [Digested week: if Tupperware can perish then we are all surely doomed](https://www.theguardian.com/uk-news/2023/apr/14/digested-week-if-tupperware-can-perish-then-we-are-all-surely-doomed)
-- [Joe Biden ends Ireland tour with passionate address to thousands](https://www.theguardian.com/world/2023/apr/14/joe-biden-returns-county-mayo-roots-last-leg-ireland-tour)
-- [Wardle and O’Neill on target as Wigan end Warrington’s unbeaten record](https://www.theguardian.com/sport/2023/apr/14/warrington-wigan-super-league-rugby-league-match-report)
-- [Boulter and Dart beaten as France take Billie Jean King Cup lead against Britain](https://www.theguardian.com/sport/2023/apr/14/boulter-and-dart-beaten-as-france-take-billie-jean-king-cup-lead-against-britain)
-- [King’s coronation concert: Take That, Lionel Richie and Katy Perry to perform](https://www.theguardian.com/uk-news/2023/apr/14/kings-coronation-concert-take-that-lionel-richie-and-katy-perry-to-perform)
-- [Ford and Tuilagi help Sale defeat Bristol to close in on home semi-final](https://www.theguardian.com/sport/2023/apr/14/bristol-sale-premiership-rugby-union-match-report)
-- [US supreme court temporarily blocks ruling limiting abortion pill access](https://www.theguardian.com/law/2023/apr/14/abortion-pill-ruling-supreme-court-temporary-block)
-- [What happened in the Russia-Ukraine war this week? Catch up with the must-read news and analysis](https://www.theguardian.com/world/2023/apr/15/what-happened-in-the-russia-ukraine-war-this-week-catch-up-with-the-must-read-news-and-analysis)
+- [Access to Orthodox Easter ceremony in Jerusalem limited over security concerns](https://www.theguardian.com/world/2023/apr/16/access-to-orthodox-easter-ceremony-in-jerusalem-limited-over-security-concerns)
+- [Russia-Ukraine war at a glance: what we know on day 417 of the invasion](https://www.theguardian.com/world/2023/apr/16/russia-ukraine-war-at-a-glance-what-we-know-on-day-417-of-the-invasion)
+- [Forecasters scent a drop in inflation, but look how wrong they have been](https://www.theguardian.com/business/2023/apr/16/forecasters-scent-a-drop-in-inflation-but-look-how-wrong-they-have-been)
+- [Winning suits: step into spring in a versatile shorts suit](https://www.theguardian.com/fashion/2023/apr/15/winning-suits-step-into-spring-in-a-versatile-shorts-suit)
+- [Britain’s Joe Joyce loses for first time after being stunned by Zhilei Zhang](https://www.theguardian.com/sport/2023/apr/15/britains-joe-joyce-loses-for-first-time-after-being-stunned-by-zhilei-zhang)
+- [More than 100 animal rights activists arrested after Grand National protests](https://www.theguardian.com/sport/2023/apr/15/grand-national-delay-start-animal-rights-protest-extinction-rebellion)
+- [O’Sullivan survives Pang fightback to seal first-round win at the Crucible](https://www.theguardian.com/sport/2023/apr/15/ronnie-o-sullivan-pang-junxu-world-snooker-championship-match-report)
+- [Too cramped? Too big? No name: Sydney’s newest art gallery weathers critique in its first months](https://www.theguardian.com/artanddesign/2023/apr/16/too-cramped-too-big-no-name-sydneys-newest-art-gallery-weathers-critique-in-its-first-months)
+- [Laura Trevelyan urges King Charles to apologise for historical links to slave trade](https://www.theguardian.com/world/2023/apr/15/laura-trevelyan-urges-king-charles-to-apologise-for-historical-links-to-slave-trade)
+- [Maybe it’s time to welcome back the old fashioned wing-half – in modern guise | Jonathan Wilson](https://www.theguardian.com/football/blog/2023/apr/15/wing-half-full-back-trent-alexander-arnold-liverpool)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

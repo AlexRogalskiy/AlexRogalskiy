@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [What Are Transformer Models and How Do They Work?](https://txt.cohere.ai/what-are-transformer-models/)
-- [Please fix your spinner](https://pleasefixyourspinner.com)
-- [HyperShell: Spawn shells anywhere. Fully peer-to-peer](https://github.com/holepunchto/hypershell)
-- [The FAA has granted SpaceX permission to launch its Starship rocket](https://arstechnica.com/science/2023/04/green-light-go-spacex-receives-a-launch-license-from-the-faa-for-starship/)
-- [A photon-recycling incandescent lighting device](https://www.science.org/doi/10.1126/sciadv.adf3737)
-- [DJI Inspire 3: new 8k cinema drone](https://www.dji.com/inspire-3)
-- [Oldest bat skeletons ever found described as new species](https://www.nhm.ac.uk/discover/news/2023/april/oldest-bat-skeletons-ever-found-described-new-species.html)
-- [Searchable Linux Syscall Table for x86 and x86_64](https://filippo.io/linux-syscall-table/)
-- [ESA’s Juice lifts off on quest to discover secrets of Jupiter’s icy moons](https://www.esa.int/Science_Exploration/Space_Science/Juice/ESA_s_Juice_lifts_off_on_quest_to_discover_secrets_of_Jupiter_s_icy_moons)
-- [This website is solar powered and running on a Raspberry Pi-like computer](https://solar.leo32345.com/)
+- [Efficiency trades off against resiliency](https://blog.nelhage.com/post/efficiency-vs-resiliency/)
+- [Mouse scroll wheel acceleration, implemented in user space](https://github.com/albertz/mouse-scroll-wheel-acceleration-userspace)
+- [Google CEO: “can we change the setting of this group to history-off” [pdf]](https://ia601707.us.archive.org/28/items/gov.uscourts.cand.364454/gov.uscourts.cand.364454.385.0.pdf)
+- [The Red Hat model only worked for Red Hat](https://opencoreventures.com/blog/2023-04-red-hat-model-only-worked-red-hat/)
+- [Digital clutter: Learning to let go and stop hoarding terabytes](https://paulstamatiou.com/digital-clutter/)
+- [The FFmpeg&amp;#x2F;Libav situation &lpar;2012&rpar;](http://blog.pkh.me/p/13-the-ffmpeg-libav-situation.html)
+- [Easily accessing all your stuff with a zero-trust mesh VPN](https://changelog.complete.org/archives/10478-easily-accessing-all-your-stuff-with-a-zero-trust-mesh-vpn)
+- [33TB of text data for a 1T-parameter model](https://lifearchitect.ai/chinchilla/)
+- [Yeah, about that active comeback...](https://www.ft.com/content/c331b279-00e5-4e7d-954f-468f4ee44c31)
+- [Algebraic graph calculus &lpar;2021&rpar;](http://gabarro.org/ccn/algebraic_graph_calculus.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

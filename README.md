@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [And now, Sam wants to say a few words](https://foreverwars.ghost.io/the-chud-era-of-national-security-leaks/)
-- [Ask HN: How to Build a Blog?](https://news.ycombinator.com/item?id=35577081)
-- [CS50&#39;s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2020/)
-- [Intellectual Nonsense: Fallacious Arguments for IP](https://www.youtube.com/watch?v=e0RXfGGMGPE)
-- [IPFS-tiny: attempting to take IPFS to Space](https://libre.space/2023/04/12/ipfs-tiny/)
-- [What Are Transformer Models and How Do They Work?](https://txt.cohere.ai/what-are-transformer-models/)
-- [The world’s biggest water recycling facility gets bigger in OC](https://www.ocregister.com/2023/04/14/the-worlds-biggest-water-recycling-facility-gets-bigger-in-oc/)
-- [Japan to launch new visa track next week for skilled foreign workers](https://www.japantimes.co.jp/news/2023/04/14/national/new-visa-track-foreign-workers/)
-- [Is driving on the left stopping New Zealand reaching its climate goals?](https://www.theguardian.com/world/commentisfree/2023/apr/14/is-driving-on-the-left-stopping-new-zealand-reaching-its-climate-goals)
-- [‘Air’ is a cautionary tale about ESG](https://www.wsj.com/articles/air-is-a-cautionary-tale-about-esg-michael-jordan-management-stability-profit-shareholders-c9155958)
+- [Ask HN: What are your go to resources for product reviews?](https://news.ycombinator.com/item?id=35586651)
+- [Special Database 18: 3,248 Mugshots Used for Training Image Recognition Systems](https://www.beautifulpublicdata.com/nist-special-database-18-3-248-mugshots-used-for-training-image-recognition-systems/)
+- [Should angel investors need to be accredited?](https://wannabeangels.com/p/navigating-the-evolving-angel-investing#details)
+- [The One about AI](https://macwright.com/2023/04/15/ai.html)
+- [Efficiency trades off against resiliency](https://blog.nelhage.com/post/efficiency-vs-resiliency/)
+- [Hopelessness and Confidence in Distributed Systems Design](https://www.youtube.com/watch?v=TlU1opuCXB0)
+- [GostX: A GUI macOS app for gost](https://github.com/lkebin/GostX)
+- [The Palenque Code](http://akusius.github.io/palenque/)
+- [Linux Container Technologies and Their Applications](https://www.youtube.com/watch?v=0hwxwVXCDVY)
+- [Is hyper-selectivity a root of Asian American children&#39;s success?](https://www.sciencedirect.com/science/article/pii/S0049089X23000418)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

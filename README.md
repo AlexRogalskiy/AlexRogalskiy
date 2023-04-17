@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Access to Orthodox Easter ceremony in Jerusalem limited over security concerns](https://www.theguardian.com/world/2023/apr/16/access-to-orthodox-easter-ceremony-in-jerusalem-limited-over-security-concerns)
-- [Russia-Ukraine war at a glance: what we know on day 417 of the invasion](https://www.theguardian.com/world/2023/apr/16/russia-ukraine-war-at-a-glance-what-we-know-on-day-417-of-the-invasion)
-- [Forecasters scent a drop in inflation, but look how wrong they have been](https://www.theguardian.com/business/2023/apr/16/forecasters-scent-a-drop-in-inflation-but-look-how-wrong-they-have-been)
-- [Winning suits: step into spring in a versatile shorts suit](https://www.theguardian.com/fashion/2023/apr/15/winning-suits-step-into-spring-in-a-versatile-shorts-suit)
-- [Britain’s Joe Joyce loses for first time after being stunned by Zhilei Zhang](https://www.theguardian.com/sport/2023/apr/15/britains-joe-joyce-loses-for-first-time-after-being-stunned-by-zhilei-zhang)
-- [More than 100 animal rights activists arrested after Grand National protests](https://www.theguardian.com/sport/2023/apr/15/grand-national-delay-start-animal-rights-protest-extinction-rebellion)
-- [O’Sullivan survives Pang fightback to seal first-round win at the Crucible](https://www.theguardian.com/sport/2023/apr/15/ronnie-o-sullivan-pang-junxu-world-snooker-championship-match-report)
-- [Too cramped? Too big? No name: Sydney’s newest art gallery weathers critique in its first months](https://www.theguardian.com/artanddesign/2023/apr/16/too-cramped-too-big-no-name-sydneys-newest-art-gallery-weathers-critique-in-its-first-months)
-- [Laura Trevelyan urges King Charles to apologise for historical links to slave trade](https://www.theguardian.com/world/2023/apr/15/laura-trevelyan-urges-king-charles-to-apologise-for-historical-links-to-slave-trade)
-- [Maybe it’s time to welcome back the old fashioned wing-half – in modern guise | Jonathan Wilson](https://www.theguardian.com/football/blog/2023/apr/15/wing-half-full-back-trent-alexander-arnold-liverpool)
+- [Why are British audiences suddenly so out of control? – podcast](https://www.theguardian.com/news/audio/2023/apr/17/why-are-british-audiences-so-out-of-control-podcast)
+- [Matt Fitzpatrick defeats Jordan Spieth in RBC Heritage playoff](https://www.theguardian.com/sport/2023/apr/17/matt-fitzpatrick-defeats-jordan-spieth-in-rbc-heritage-playoff)
+- [Judge delays Dominion and Fox News trial until Tuesday](https://www.theguardian.com/us-news/2023/apr/17/judge-delays-dominion-and-fox-news-trial-until-tuesday)
+- [China’s defence minister and Putin vow to strengthen military cooperation](https://www.theguardian.com/world/2023/apr/17/chinas-defence-minister-and-putin-vow-to-strengthen-military-cooperation)
+- [Ahmad Jamal, influential jazz pianist, dies aged 92](https://www.theguardian.com/music/2023/apr/17/ahmad-jamal-influential-jazz-pianist-dies-aged-92)
+- [Russia-Ukraine war at a glance: what we know on day 418 of the invasion](https://www.theguardian.com/world/2023/apr/17/russia-ukraine-war-at-a-glance-what-we-know-on-day-418-of-the-invasion)
+- [How one man went from China’s Communist party golden child to enemy of the state](https://www.theguardian.com/global-development/2023/apr/17/how-one-man-went-from-chinas-communist-party-golden-child-to-enemy-of-the-state)
+- [Six soldiers killed, 30 missing in attempt to rescue kidnapped pilot in West Papua](https://www.theguardian.com/world/2023/apr/17/six-soldiers-killed-30-missing-in-attempt-to-rescue-kidnapped-pilot-in-west-papua)
+- [Four people killed and 28 injured in Alabama shooting at birthday party](https://www.theguardian.com/us-news/2023/apr/16/alabama-shooting-birthday-party-dadeville)
+- [Neil Robertson storms into second round of World Snooker Championship](https://www.theguardian.com/sport/2023/apr/16/neil-robertson-storms-into-second-round-of-world-snooker-championship)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ask HN: What are your go to resources for product reviews?](https://news.ycombinator.com/item?id=35586651)
-- [Special Database 18: 3,248 Mugshots Used for Training Image Recognition Systems](https://www.beautifulpublicdata.com/nist-special-database-18-3-248-mugshots-used-for-training-image-recognition-systems/)
-- [Should angel investors need to be accredited?](https://wannabeangels.com/p/navigating-the-evolving-angel-investing#details)
-- [The One about AI](https://macwright.com/2023/04/15/ai.html)
-- [Efficiency trades off against resiliency](https://blog.nelhage.com/post/efficiency-vs-resiliency/)
-- [Hopelessness and Confidence in Distributed Systems Design](https://www.youtube.com/watch?v=TlU1opuCXB0)
-- [GostX: A GUI macOS app for gost](https://github.com/lkebin/GostX)
-- [The Palenque Code](http://akusius.github.io/palenque/)
-- [Linux Container Technologies and Their Applications](https://www.youtube.com/watch?v=0hwxwVXCDVY)
-- [Is hyper-selectivity a root of Asian American children&#39;s success?](https://www.sciencedirect.com/science/article/pii/S0049089X23000418)
+- [History of Kites](https://www.kite.org/about-kites/history-of-kites/)
+- [The flop that changed Apple forever](https://www.youtube.com/watch?v=pcYX-2uWwsk)
+- [Microsoft Looks to ChatGPT AI to Transform Its Digital Ad Business](https://www.wsj.com/articles/microsoft-chatgpt-ai-advertising-8c5421f8)
+- [Where do nutrition labels come from? &lpar;2022&rpar;](https://daily.jstor.org/where-do-nutrition-labels-come-from/)
+- [A hyper-fast local vector database for use with LLM Agents](https://github.com/jdagdelen/hyperDB)
+- [Today Is: Go Fly a Kite Day](https://www.thenews-messenger.com/story/news/local/2023/04/16/today-is-go-fly-a-kite-day/70107624007/)
+- [Show HN: HootGPT – Get a ready-to-use quiz file for Kahoot on any topic](https://hootgpt.rini.app)
+- [Dolphin Bow-Riding &lpar;2009&rpar;](https://www.sciencedirect.com/science/article/pii/B9780123735539000377)
+- [The Terminator of PostgreSQL bloat issue](https://doc.rockdata.net/faqs/storage/inplace-update/)
+- [Leo Szilard](https://en.wikipedia.org/wiki/Leo_Szilard)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

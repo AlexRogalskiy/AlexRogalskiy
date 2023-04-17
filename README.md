@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Efficiency trades off against resiliency](https://blog.nelhage.com/post/efficiency-vs-resiliency/)
-- [Mouse scroll wheel acceleration, implemented in user space](https://github.com/albertz/mouse-scroll-wheel-acceleration-userspace)
-- [Google CEO: “can we change the setting of this group to history-off” [pdf]](https://ia601707.us.archive.org/28/items/gov.uscourts.cand.364454/gov.uscourts.cand.364454.385.0.pdf)
-- [The Red Hat model only worked for Red Hat](https://opencoreventures.com/blog/2023-04-red-hat-model-only-worked-red-hat/)
-- [Digital clutter: Learning to let go and stop hoarding terabytes](https://paulstamatiou.com/digital-clutter/)
-- [The FFmpeg&amp;#x2F;Libav situation &lpar;2012&rpar;](http://blog.pkh.me/p/13-the-ffmpeg-libav-situation.html)
-- [Easily accessing all your stuff with a zero-trust mesh VPN](https://changelog.complete.org/archives/10478-easily-accessing-all-your-stuff-with-a-zero-trust-mesh-vpn)
-- [33TB of text data for a 1T-parameter model](https://lifearchitect.ai/chinchilla/)
-- [Yeah, about that active comeback...](https://www.ft.com/content/c331b279-00e5-4e7d-954f-468f4ee44c31)
-- [Algebraic graph calculus &lpar;2021&rpar;](http://gabarro.org/ccn/algebraic_graph_calculus.html)
+- [ATC staff shortages: 11,000 Flights Cut from NYC and DCA in Summer 2023](https://www.flyertalk.com/articles/over-11000-flights-cut-from-new-york-and-washington-schedules-for-summer-2023.html)
+- [Building a Blog with Next.js 13 and React Server Components](https://maxleiter.com/blog/build-a-blog-with-nextjs-13)
+- [Constraint Programming &lpar;2020&rpar;](https://mareknarozniak.com/2020/06/22/constraint-programming/)
+- [&amp;#x27;Algebra for none&amp;#x27; fails in San Francisco](https://www.joannejacobs.com/post/algebra-for-none-fails-in-san-francisco)
+- [Mark Twain&amp;#x27;s two-week stint as a Confederate soldier](https://www.historynet.com/mark-twains-two-week-stint-as-a-confederate-soldier/)
+- [Alien Artefacts](https://www.brautaset.org/posts/alien-artefacts.html)
+- [Smokey’s new hot vapourizing engine creates heat in Detroit &lpar;1983&rpar;](http://rexresearch.com/yunick/yunick.htm)
+- [I used Stable Diffusion and Dreambooth to create an art portrait of my dog](https://www.shruggingface.com/blog/how-i-used-stable-diffusion-and-dreambooth-to-create-a-painted-portrait-of-my-dog)
+- [Usability heuristics for user interface design](https://www.1984.design/c/discussions/usability-heuristics-for-user-interface-design)
+- [Why flying insects gather at artificial light](https://www.biorxiv.org/content/10.1101/2023.04.11.536486v1)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

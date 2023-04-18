@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [History of Kites](https://www.kite.org/about-kites/history-of-kites/)
-- [The flop that changed Apple forever](https://www.youtube.com/watch?v=pcYX-2uWwsk)
-- [Microsoft Looks to ChatGPT AI to Transform Its Digital Ad Business](https://www.wsj.com/articles/microsoft-chatgpt-ai-advertising-8c5421f8)
-- [Where do nutrition labels come from? &lpar;2022&rpar;](https://daily.jstor.org/where-do-nutrition-labels-come-from/)
-- [A hyper-fast local vector database for use with LLM Agents](https://github.com/jdagdelen/hyperDB)
-- [Today Is: Go Fly a Kite Day](https://www.thenews-messenger.com/story/news/local/2023/04/16/today-is-go-fly-a-kite-day/70107624007/)
-- [Show HN: HootGPT – Get a ready-to-use quiz file for Kahoot on any topic](https://hootgpt.rini.app)
-- [Dolphin Bow-Riding &lpar;2009&rpar;](https://www.sciencedirect.com/science/article/pii/B9780123735539000377)
-- [The Terminator of PostgreSQL bloat issue](https://doc.rockdata.net/faqs/storage/inplace-update/)
-- [Leo Szilard](https://en.wikipedia.org/wiki/Leo_Szilard)
+- [New: Blackmirror Firewall Initiative – Pay-What-You-Can Plan](https://blackmirrorfirewall.com/pay-what-you-can/)
+- [You may not have heard of the most important company in the world](https://startupdreams.substack.com/p/the-most-important-company-in-the)
+- [Environmental group sues to close California’s last nuclear plant](https://www.power-eng.com/ap-news/lawsuit-seeks-to-uphold-closing-californias-last-nuke-plant/)
+- [Mini-States and Micro-Sovereignty: Democracies in East Central Europe, 1918–1923](https://www.cambridge.org/core/journals/contemporary-european-history/article/ministates-and-microsovereignty-local-democracies-in-east-central-europe-19181923/68ECB1DC9F610696C966B63C9CE2B736)
+- [Stems Social: a new Bluesky server for Handshake domains](https://theshake.substack.com/p/stems-social)
+- [Case of the Unpredictable Run-Parts](https://dataplane.org/jtk/blog/2023/04/run-parts/)
+- [She Tracks the DNA of Elusive Species That Hide in Harsh Places](https://www.quantamagazine.org/she-tracks-the-dna-of-elusive-species-on-everest-and-in-the-andes-20230417/)
+- [SEC Charges Crypto Asset Trading Platform Bittrex and Its Former CEO](https://www.sec.gov/news/press-release/2023-78)
+- [JROC announces proposals for the future of open banking in the UK](https://quickfintech.substack.com/p/uk-a-roadmap-for-the-future-of-open)
+- [‘They tried to wipe it out’: the problem with talking about Asperger’s](https://www.theguardian.com/society/2023/apr/16/they-tried-to-wipe-it-out-the-problem-with-talking-about-aspergers)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

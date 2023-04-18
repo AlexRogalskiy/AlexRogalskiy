@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [Google urges users to update Chrome to address zero-day vulnerability](https://www.csoonline.com/article/3693259/google-urges-users-to-update-chrome-to-address-zero-day-vulnerability.html#tk.rss_all)
+- [How will Apple help IT manage third-party app stores?](https://www.computerworld.com/article/3693257/how-will-apple-help-it-manage-third-party-app-stores.html#tk.rss_all)
+- [Fed’s Zelle-like instant payment system to go live in July, hundreds now testing](https://www.computerworld.com/article/3693256/fed-s-zelle-like-instant-payment-system-to-go-live-in-july-hundreds-now-testing.html#tk.rss_all)
 - [Patch now to address a Windows zero-day](https://www.computerworld.com/article/3693317/patch-now-to-address-windows-zero-day.html#tk.rss_all)
 - [Apple’s new patent hints at powerful video collaboration tools](https://www.computerworld.com/article/3693254/apples-new-patent-hints-at-powerful-video-collaboration-tools.html#tk.rss_all)
 - [EU privacy regulators to create task force to investigate ChatGPT](https://www.computerworld.com/article/3693316/eu-privacy-regulators-to-create-taskforce-to-investigate-chatgpt.html#tk.rss_all)
 - [Stolen ChatGPT premium accounts up for sale on the dark web](https://www.csoonline.com/article/3693569/stolen-chatgpt-premium-accounts-up-for-sale-on-the-dark-web.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
 - [Why remote work is the opportunity of the century for cities](https://www.computerworld.com/article/3692914/why-remote-work-is-the-opportunity-of-the-century-for-cities.html#tk.rss_all)
-- [Google Tasks cheat sheet: How to get started](https://www.computerworld.com/article/3692429/how-to-use-google-tasks.html#tk.rss_all)
-- [Cisco to offer Webex air-gapped cloud system for security, defense work](https://www.computerworld.com/article/3693449/cisco-to-offer-webex-air-gapped-cloud-system-for-security-defense-work.html#tk.rss_all)
-- [Apple accelerates use of recycled materials across all its products](https://www.computerworld.com/article/3693314/apple-accelerates-use-of-recycled-materials-across-all-its-products.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

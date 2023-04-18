@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [ATC staff shortages: 11,000 Flights Cut from NYC and DCA in Summer 2023](https://www.flyertalk.com/articles/over-11000-flights-cut-from-new-york-and-washington-schedules-for-summer-2023.html)
-- [Building a Blog with Next.js 13 and React Server Components](https://maxleiter.com/blog/build-a-blog-with-nextjs-13)
-- [Constraint Programming &lpar;2020&rpar;](https://mareknarozniak.com/2020/06/22/constraint-programming/)
-- [&amp;#x27;Algebra for none&amp;#x27; fails in San Francisco](https://www.joannejacobs.com/post/algebra-for-none-fails-in-san-francisco)
-- [Mark Twain&amp;#x27;s two-week stint as a Confederate soldier](https://www.historynet.com/mark-twains-two-week-stint-as-a-confederate-soldier/)
-- [Alien Artefacts](https://www.brautaset.org/posts/alien-artefacts.html)
-- [Smokey’s new hot vapourizing engine creates heat in Detroit &lpar;1983&rpar;](http://rexresearch.com/yunick/yunick.htm)
-- [I used Stable Diffusion and Dreambooth to create an art portrait of my dog](https://www.shruggingface.com/blog/how-i-used-stable-diffusion-and-dreambooth-to-create-a-painted-portrait-of-my-dog)
-- [Usability heuristics for user interface design](https://www.1984.design/c/discussions/usability-heuristics-for-user-interface-design)
-- [Why flying insects gather at artificial light](https://www.biorxiv.org/content/10.1101/2023.04.11.536486v1)
+- [You&amp;#x27;re not uncool. Making friends as an adult is just hard](https://www.wbur.org/hereandnow/2021/11/10/making-friends-adults)
+- [Why don’t more people live close to friends?](https://annehelen.substack.com/p/youd-be-happier-living-closer-to)
+- [KV.js](https://github.com/HeyPuter/kv.js)
+- [Michigan could provide $300M to reopen nuclear power plant](https://www.power-eng.com/nuclear/michigan-could-provide-300m-to-reopen-nuclear-power-plant/)
+- [Qemu.js – a proof-of-concept port of QEMU to web browser using WASM JIT &lpar;2019&rpar;](https://github.com/atrosinenko/qemujs)
+- [The Windows 11 Trash Party](https://birchtree.me/blog/the-windows-11-trash-party/)
+- [Show HN: MindPop – Great Lectures Set to Ambient](https://mindpop.blankenship.io/index.html)
+- [ChemCrow: Augmenting large-language models with chemistry tools](https://arxiv.org/abs/2304.05376)
+- [Hot Beds: Low-Cost Ancient Roman Hack to Start Crops Early and Increasing Yield](https://www.growveg.com/guides/how-to-make-a-hotbed-for-the-earliest-sowings/)
+- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

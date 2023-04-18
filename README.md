@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Why are British audiences suddenly so out of control? – podcast](https://www.theguardian.com/news/audio/2023/apr/17/why-are-british-audiences-so-out-of-control-podcast)
-- [Matt Fitzpatrick defeats Jordan Spieth in RBC Heritage playoff](https://www.theguardian.com/sport/2023/apr/17/matt-fitzpatrick-defeats-jordan-spieth-in-rbc-heritage-playoff)
-- [Judge delays Dominion and Fox News trial until Tuesday](https://www.theguardian.com/us-news/2023/apr/17/judge-delays-dominion-and-fox-news-trial-until-tuesday)
-- [China’s defence minister and Putin vow to strengthen military cooperation](https://www.theguardian.com/world/2023/apr/17/chinas-defence-minister-and-putin-vow-to-strengthen-military-cooperation)
-- [Ahmad Jamal, influential jazz pianist, dies aged 92](https://www.theguardian.com/music/2023/apr/17/ahmad-jamal-influential-jazz-pianist-dies-aged-92)
-- [Russia-Ukraine war at a glance: what we know on day 418 of the invasion](https://www.theguardian.com/world/2023/apr/17/russia-ukraine-war-at-a-glance-what-we-know-on-day-418-of-the-invasion)
-- [How one man went from China’s Communist party golden child to enemy of the state](https://www.theguardian.com/global-development/2023/apr/17/how-one-man-went-from-chinas-communist-party-golden-child-to-enemy-of-the-state)
-- [Six soldiers killed, 30 missing in attempt to rescue kidnapped pilot in West Papua](https://www.theguardian.com/world/2023/apr/17/six-soldiers-killed-30-missing-in-attempt-to-rescue-kidnapped-pilot-in-west-papua)
-- [Four people killed and 28 injured in Alabama shooting at birthday party](https://www.theguardian.com/us-news/2023/apr/16/alabama-shooting-birthday-party-dadeville)
-- [Neil Robertson storms into second round of World Snooker Championship](https://www.theguardian.com/sport/2023/apr/16/neil-robertson-storms-into-second-round-of-world-snooker-championship)
+- [The Pentagon leaks: how did US security files end up on Discord? – podcast](https://www.theguardian.com/news/audio/2023/apr/18/the-pentagon-leaks-how-did-us-security-files-end-up-on-discord-podcast)
+- [Japan’s ‘toxic’ dolphin meat contains mercury up to 100 times safe level, test shows](https://www.theguardian.com/world/2023/apr/18/japans-toxic-dolphin-meat-contains-mercury-up-to-100-times-safe-level-test-shows)
+- [Ron DeSantis threatens prison near Disney theme park in latest retaliation](https://www.theguardian.com/us-news/2023/apr/17/ron-desantis-prison-near-disney-theme-park)
+- [Russia-Ukraine war at a glance: what we know on day 419 of the invasion](https://www.theguardian.com/world/2023/apr/18/russia-ukraine-war-at-a-glance-what-we-know-on-day-419-of-the-invasion)
+- [Police charge white man for shooting Black teen boy who had wrong address](https://www.theguardian.com/us-news/2023/apr/17/black-kansas-city-teen-shot-wrong-address)
+- [UK cyber security chief to warn of China’s rise as a technology superpower](https://www.theguardian.com/politics/2023/apr/18/uk-cyber-security-chief-warns-of-chinas-rise-as-a-technology-superpower)
+- [Machetes and zombie knives could be banned in England and Wales](https://www.theguardian.com/uk-news/2023/apr/18/machetes-and-zombie-knives-could-be-banned-in-england-and-wales)
+- [MPs condemn failure to tackle ‘glaring’ racial inequalities in UK maternal health](https://www.theguardian.com/politics/2023/apr/18/mps-condemn-failure-to-tackle-glaring-racial-inequalities-in-uk-maternal-health)
+- [Cost of British food basics increases by up to 80% in a year](https://www.theguardian.com/business/2023/apr/18/cost-of-british-food-basics-increases-by-up-to-80-in-a-year)
+- [People in London’s poorest areas face higher risk of traffic death or injury – TfL](https://www.theguardian.com/uk-news/2023/apr/18/london-poorest-areas-higher-risk-of-traffic-death-injury-tfl)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

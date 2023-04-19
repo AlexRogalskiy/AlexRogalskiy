@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [New: Blackmirror Firewall Initiative – Pay-What-You-Can Plan](https://blackmirrorfirewall.com/pay-what-you-can/)
-- [You may not have heard of the most important company in the world](https://startupdreams.substack.com/p/the-most-important-company-in-the)
-- [Environmental group sues to close California’s last nuclear plant](https://www.power-eng.com/ap-news/lawsuit-seeks-to-uphold-closing-californias-last-nuke-plant/)
-- [Mini-States and Micro-Sovereignty: Democracies in East Central Europe, 1918–1923](https://www.cambridge.org/core/journals/contemporary-european-history/article/ministates-and-microsovereignty-local-democracies-in-east-central-europe-19181923/68ECB1DC9F610696C966B63C9CE2B736)
-- [Stems Social: a new Bluesky server for Handshake domains](https://theshake.substack.com/p/stems-social)
-- [Case of the Unpredictable Run-Parts](https://dataplane.org/jtk/blog/2023/04/run-parts/)
-- [She Tracks the DNA of Elusive Species That Hide in Harsh Places](https://www.quantamagazine.org/she-tracks-the-dna-of-elusive-species-on-everest-and-in-the-andes-20230417/)
-- [SEC Charges Crypto Asset Trading Platform Bittrex and Its Former CEO](https://www.sec.gov/news/press-release/2023-78)
-- [JROC announces proposals for the future of open banking in the UK](https://quickfintech.substack.com/p/uk-a-roadmap-for-the-future-of-open)
-- [‘They tried to wipe it out’: the problem with talking about Asperger’s](https://www.theguardian.com/society/2023/apr/16/they-tried-to-wipe-it-out-the-problem-with-talking-about-aspergers)
+- [CBC&#39;s Funding Chart is a Graph Crime](https://twitter.com/TristinHopper/status/1648201519408480256)
+- [Apollo dev explains how third-party Reddit apps are affected by API changes](https://old.reddit.com/r/apolloapp/comments/12ram0f/had_a_few_calls_with_reddit_today_about_the/)
+- [No Code, Clean Performance](https://mlajtos.mu/posts/no-code-clean-performance)
+- [All editors have resigned over high publication fee, starting new journal [pdf]](https://imaging-neuroscience.org/Announcement.pdf)
+- [Covid vaccine in 2019? Senate report on Covid](https://www.telegraph.co.uk/world-news/2023/04/18/10-things-learned-us-senate-report-covid-china/)
+- [NASA satellite&#39;s elusive green lasers spotted at work](https://phys.org/news/2023-04-nasa-satellite-elusive-green-lasers.html)
+- [The Overemployed via ChatGPT](https://thezvi.wordpress.com/2023/04/18/the-overemployed-via-chatgpt/)
+- [The history of rules about women&#39;s clothing worldwide](https://public.tableau.com/app/profile/soha.elghany/viz/Whatwasshewearing/Dashboard14#1)
+- [The Age of the Crisis of Work](https://harpers.org/archive/2023/05/the-age-of-the-crisis-of-work-quiet-quitting-great-resignation/)
+- [Explore Washington DC through the eyes of a spy – an IRL scavenger hunt](https://secretmissiondc.com/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

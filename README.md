@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [You&amp;#x27;re not uncool. Making friends as an adult is just hard](https://www.wbur.org/hereandnow/2021/11/10/making-friends-adults)
-- [Why don’t more people live close to friends?](https://annehelen.substack.com/p/youd-be-happier-living-closer-to)
-- [KV.js](https://github.com/HeyPuter/kv.js)
-- [Michigan could provide $300M to reopen nuclear power plant](https://www.power-eng.com/nuclear/michigan-could-provide-300m-to-reopen-nuclear-power-plant/)
-- [Qemu.js – a proof-of-concept port of QEMU to web browser using WASM JIT &lpar;2019&rpar;](https://github.com/atrosinenko/qemujs)
-- [The Windows 11 Trash Party](https://birchtree.me/blog/the-windows-11-trash-party/)
-- [Show HN: MindPop – Great Lectures Set to Ambient](https://mindpop.blankenship.io/index.html)
-- [ChemCrow: Augmenting large-language models with chemistry tools](https://arxiv.org/abs/2304.05376)
-- [Hot Beds: Low-Cost Ancient Roman Hack to Start Crops Early and Increasing Yield](https://www.growveg.com/guides/how-to-make-a-hotbed-for-the-earliest-sowings/)
-- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
+- [Explore Washington DC through the eyes of a spy – an IRL scavenger hunt](https://secretmissiondc.com/)
+- [Overnight &amp;#x27;hotel train&amp;#x27; could link San Francisco and Los Angeles](https://www.latimes.com/california/story/2023-04-18/night-train-san-francisco-los-angeles-dreamstar-lines)
+- [Google search partial outage while rolling out new search?](https://news.ycombinator.com/item?id=35622847)
+- [Meta to unveil fresh round of job cuts among highly skilled staff](https://www.washingtonpost.com/technology/2023/04/18/meta-layoffs-tech/)
+- [Firefly – A new compiler and runtime for BEAM languages](https://github.com/GetFirefly/firefly)
+- [Broadband Consumer Labels](https://www.fcc.gov/broadbandlabels)
+- [How to give yourself time to think](https://beside.media/atelier/how-to-give-yourself-time-to-think/)
+- [My Emacs eye candy](https://xenodium.com/my-emacs-eye-candy/)
+- [Show HN: AI Playground by Vercel Labs](https://play.vercel.ai)
+- [MRI Brain Images Just Got 64M Times Sharper](https://today.duke.edu/2023/04/brain-images-just-got-64-million-times-sharper)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

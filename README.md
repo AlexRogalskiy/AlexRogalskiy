@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Explore Washington DC through the eyes of a spy – an IRL scavenger hunt](https://secretmissiondc.com/)
-- [Overnight &amp;#x27;hotel train&amp;#x27; could link San Francisco and Los Angeles](https://www.latimes.com/california/story/2023-04-18/night-train-san-francisco-los-angeles-dreamstar-lines)
-- [Google search partial outage while rolling out new search?](https://news.ycombinator.com/item?id=35622847)
-- [Meta to unveil fresh round of job cuts among highly skilled staff](https://www.washingtonpost.com/technology/2023/04/18/meta-layoffs-tech/)
-- [Firefly – A new compiler and runtime for BEAM languages](https://github.com/GetFirefly/firefly)
-- [Broadband Consumer Labels](https://www.fcc.gov/broadbandlabels)
-- [How to give yourself time to think](https://beside.media/atelier/how-to-give-yourself-time-to-think/)
-- [My Emacs eye candy](https://xenodium.com/my-emacs-eye-candy/)
-- [Show HN: AI Playground by Vercel Labs](https://play.vercel.ai)
-- [MRI Brain Images Just Got 64M Times Sharper](https://today.duke.edu/2023/04/brain-images-just-got-64-million-times-sharper)
+- [Autonomous Agents and Agent Simulations](https://blog.langchain.dev/agents-round/)
+- [Replit - How to train your own LLM Models](https://blog.replit.com/llm-training)
+- [Standoff over 95-year-old judge shows downside of lifetime jobs](https://news.bloomberglaw.com/us-law-week/standoff-over-95-year-old-judge-shows-downside-of-lifetime-jobs)
+- [How RocksDB Works](https://artem.krylysov.com/blog/2023/04/19/how-rocksdb-works/)
+- [Geneticists develop novel gene therapy for glaucoma](https://www.tcd.ie/news_events/articles/2023/novel-gene-therapy-shows-promise-for-treating-multiple-eye-diseases/)
+- [LlamaAcademy: Teach GPTs to understand API documentation with LoRA](https://github.com/danielgross/LlamaAcademy)
+- [Sandboxing JavaScript Code](https://healeycodes.com/sandboxing-javascript-code)
+- [Building telescopes on the Moon could transform astronomy](https://theconversation.com/building-telescopes-on-the-moon-could-transform-astronomy-and-its-becoming-an-achievable-goal-203308)
+- [GPT-3 Creative Fiction](https://gwern.net/gpt-3)
+- [Intranasal vaccine confers broad mucosal and systemic immunity against SARS-CoV2](https://www.nature.com/articles/s41392-023-01423-6)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

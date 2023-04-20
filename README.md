@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [CBC&#39;s Funding Chart is a Graph Crime](https://twitter.com/TristinHopper/status/1648201519408480256)
-- [Apollo dev explains how third-party Reddit apps are affected by API changes](https://old.reddit.com/r/apolloapp/comments/12ram0f/had_a_few_calls_with_reddit_today_about_the/)
-- [No Code, Clean Performance](https://mlajtos.mu/posts/no-code-clean-performance)
-- [All editors have resigned over high publication fee, starting new journal [pdf]](https://imaging-neuroscience.org/Announcement.pdf)
-- [Covid vaccine in 2019? Senate report on Covid](https://www.telegraph.co.uk/world-news/2023/04/18/10-things-learned-us-senate-report-covid-china/)
-- [NASA satellite&#39;s elusive green lasers spotted at work](https://phys.org/news/2023-04-nasa-satellite-elusive-green-lasers.html)
-- [The Overemployed via ChatGPT](https://thezvi.wordpress.com/2023/04/18/the-overemployed-via-chatgpt/)
-- [The history of rules about women&#39;s clothing worldwide](https://public.tableau.com/app/profile/soha.elghany/viz/Whatwasshewearing/Dashboard14#1)
-- [The Age of the Crisis of Work](https://harpers.org/archive/2023/05/the-age-of-the-crisis-of-work-quiet-quitting-great-resignation/)
-- [Explore Washington DC through the eyes of a spy – an IRL scavenger hunt](https://secretmissiondc.com/)
+- [NP-hard problems aren&#39;t always hard &lpar;2010&rpar;](https://www.kmjn.org/notes/nphard_not_always_hard.html)
+- [The Practicality of Decentralized Identifiers](https://developer.tbd.website/blog/practicality-of-decentralized-identifiers/)
+- [Translate websites in Firefox without using the cloud](https://support.mozilla.org/en-US/kb/firefox-translations)
+- [Record Labels Panic as A.I. Generated Song Becomes Hit Single](https://darkfutura.substack.com/p/record-labels-panic-as-ai-generated)
+- [Most Programmers Can&#39;t Read Code &lpar;2012&rpar;](https://www.gamedeveloper.com/programming/most-programmers-can-t-read-code)
+- [Introducing Atlassian Intelligence](https://www.atlassian.com/blog/announcements/unleashing-power-of-ai)
+- [Meta&#39;s Instagram Will Cut or Relocate Its London Staff](https://www.bloomberg.com/news/articles/2023-04-19/meta-platforms-to-cut-move-instagram-s-london-staff-chief-shifting-to-us)
+- [Codeium Chat – Free forever AI coding assistant](https://codeium.com/chat)
+- [Elon Musk Threatens to Sue Microsoft After It Drops Twitter from Ad Platform](https://www.pcmag.com/news/elon-musk-threatens-to-sue-microsoft-after-it-drops-twitter-from-ad-platform)
+- [No DNS address record found for repo.maven.apache.org](https://www.nslookup.io/domains/repo.maven.apache.org/dns-records/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

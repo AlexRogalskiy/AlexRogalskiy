@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [The court case pushing Indian democracy to the brink – podcast](https://www.theguardian.com/news/audio/2023/apr/19/court-case-pushing-indian-democracy-to-brink-podcast)
-- [‘Buckets of tears’: mother of Black teen shot after going to wrong address speaks](https://www.theguardian.com/us-news/2023/apr/18/ralph-yarl-mother-interview-kansas-city-shooting)
-- [David Warner wins place in Australia’s Ashes squad along with Harris and Renshaw](https://www.theguardian.com/sport/2023/apr/19/david-warner-wins-place-in-australias-ashes-squad-along-with-harris-and-renshaw)
-- [Singer Aaron Carter accidentally drowned in bathtub, coroner report says](https://www.theguardian.com/music/2023/apr/18/aaron-carter-cause-of-death-drowning-bathtub)
-- [Russian hackers want to ‘disrupt or destroy’ UK infrastructure, minister warns](https://www.theguardian.com/technology/2023/apr/19/russian-hackers-want-to-disrupt-or-destroy-uk-infrastructure-minister-warns)
-- [Private landlords in England get £1.6bn a year welfare for ‘non-decent’ homes](https://www.theguardian.com/society/2023/apr/18/private-landlords-in-england-get-16bn-a-year-welfare-for-non-decent-homes)
-- [Russia-Ukraine war at a glance: what we know on day 420 of the invasion](https://www.theguardian.com/world/2023/apr/19/russia-ukraine-war-at-a-glance-what-we-know-on-day-420-of-the-invasion)
-- [Keir Starmer says NHS is ‘broken’ and in jeopardy under Tories](https://www.theguardian.com/society/2023/apr/18/keir-starmer-says-nhs-is-broken-and-in-jeopardy-under-tories)
-- [Boehly’s Chelsea show the distorting effect of money without sense or love | Barney Ronay](https://www.theguardian.com/football/blog/2023/apr/18/chelsea-show-distorting-effect-of-money-without-sense-or-love)
-- [One killed as New York City parking garage collapses ‘to the cellar floor’](https://www.theguardian.com/us-news/2023/apr/18/parking-ramp-collapses-in-downtown-new-york-citys-financial-district)
+- [Total solar eclipse live updates: people gather in Australia, Indonesia and Timor Leste to watch rare hybrid eclipse](https://www.theguardian.com/australia-news/live/2023/apr/20/total-solar-eclipse-2023-live-updates-april-20-today-hybrid-when-what-time-is-how-to-view-watch-in-australia-india-indonesia-vietnam-singapore-exmouth-latest-news)
+- [Sudan’s warring generals - podcast](https://www.theguardian.com/news/audio/2023/apr/20/sudan-warring-generals-podcast)
+- [Explainer: China’s covert overseas ‘police stations’](https://www.theguardian.com/world/2023/apr/20/explainer-chinas-covert-overseas-police-stations)
+- [Frank Ocean cancels second Coachella performance after backlash to ‘chaotic’ first show](https://www.theguardian.com/music/2023/apr/20/frank-ocean-cancels-second-coachella-2023-performance-weekend-2-after-backlash-to-chaotic-first-show)
+- [Driver who struck four students, killing one, did so ‘intentionally,’ witnesses say](https://www.theguardian.com/us-news/2023/apr/19/california-car-driver-student-killed)
+- [Russia-Ukraine war at a glance: what we know on day 421 of the invasion](https://www.theguardian.com/world/2023/apr/20/russia-ukraine-war-at-a-glance-what-we-know-on-day-421-of-the-invasion)
+- [Yemen crowd crush: at least 85 dead at event to distribute money](https://www.theguardian.com/world/2023/apr/20/yemen-crowd-crush-reportedly-leaves-dozens-killed-or-injured)
+- [Three arrested and charged with murder for Alabama shooting that killed four](https://www.theguardian.com/us-news/2023/apr/19/alabama-shooting-two-arrested-dadeville)
+- [Moonbin, K-pop star and member of boy band Astro, dies aged 25](https://www.theguardian.com/music/2023/apr/20/moonbin-dies-k-pop-star-death-member-of-boy-band-astro-dead-aged-25)
+- [BBC Tim Westwood inquiry opens 24/7 phone line](https://www.theguardian.com/media/2023/apr/20/bbc-tim-westwood-inquiry-opens-247-phone-line)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

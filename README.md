@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Total solar eclipse live updates: people gather in Australia, Indonesia and Timor Leste to watch rare hybrid eclipse](https://www.theguardian.com/australia-news/live/2023/apr/20/total-solar-eclipse-2023-live-updates-april-20-today-hybrid-when-what-time-is-how-to-view-watch-in-australia-india-indonesia-vietnam-singapore-exmouth-latest-news)
-- [Sudan’s warring generals - podcast](https://www.theguardian.com/news/audio/2023/apr/20/sudan-warring-generals-podcast)
-- [Explainer: China’s covert overseas ‘police stations’](https://www.theguardian.com/world/2023/apr/20/explainer-chinas-covert-overseas-police-stations)
-- [Frank Ocean cancels second Coachella performance after backlash to ‘chaotic’ first show](https://www.theguardian.com/music/2023/apr/20/frank-ocean-cancels-second-coachella-2023-performance-weekend-2-after-backlash-to-chaotic-first-show)
-- [Driver who struck four students, killing one, did so ‘intentionally,’ witnesses say](https://www.theguardian.com/us-news/2023/apr/19/california-car-driver-student-killed)
-- [Russia-Ukraine war at a glance: what we know on day 421 of the invasion](https://www.theguardian.com/world/2023/apr/20/russia-ukraine-war-at-a-glance-what-we-know-on-day-421-of-the-invasion)
-- [Yemen crowd crush: at least 85 dead at event to distribute money](https://www.theguardian.com/world/2023/apr/20/yemen-crowd-crush-reportedly-leaves-dozens-killed-or-injured)
-- [Three arrested and charged with murder for Alabama shooting that killed four](https://www.theguardian.com/us-news/2023/apr/19/alabama-shooting-two-arrested-dadeville)
-- [Moonbin, K-pop star and member of boy band Astro, dies aged 25](https://www.theguardian.com/music/2023/apr/20/moonbin-dies-k-pop-star-death-member-of-boy-band-astro-dead-aged-25)
-- [BBC Tim Westwood inquiry opens 24/7 phone line](https://www.theguardian.com/media/2023/apr/20/bbc-tim-westwood-inquiry-opens-247-phone-line)
+- [British foreign minister’s belated visit to the Pacific aimed at countering China | Mihai Sora](https://www.theguardian.com/world/commentisfree/2023/apr/21/british-foreign-ministers-belated-visit-to-the-pacific-a-welcome-counter-to-chinese-influence)
+- [Are we facing a summer of sporting protests? - podcast](https://www.theguardian.com/news/audio/2023/apr/21/are-we-facing-a-summer-of-sporting-protests-podcast)
+- [Britain’s top diplomat James Cleverly skips part of Pacific tour to focus on Sudan](https://www.theguardian.com/world/2023/apr/21/britains-top-diplomat-james-cleverly-skips-part-of-pacific-tour-to-focus-on-sudan)
+- [Evil Dead Rise review – solid horror reboot brings the gore](https://www.theguardian.com/film/2023/apr/20/evil-dead-rise-review-solid-horror-reboot-brings-the-gore)
+- [Ghosted review – dreadful big star action comedy deserves to be ignored](https://www.theguardian.com/film/2023/apr/20/ghosted-review-dreadful-action-comedy-chris-evans-ana-de-armas)
+- [Uganda’s president rejects new hardline anti-gay bill as not tough enough](https://www.theguardian.com/global-development/2023/apr/20/ugandas-president-refuses-to-sign-new-hardline-anti-gay-bill)
+- [Criminal charges against Alec Baldwin dropped in Rust film set shooting](https://www.theguardian.com/us-news/2023/apr/20/alec-baldwin-charges-dropped-rust-shooting)
+- [Russian plane accidentally strikes Russian city near Ukraine border leaving 20m crater](https://www.theguardian.com/world/2023/apr/21/russian-plane-accidentally-strikes-russian-city-near-ukraine-border-leaving-20m-crater)
+- [Canada gold heist: police investigating $20m of ‘high-value’ cargo stolen from Toronto airport](https://www.theguardian.com/world/2023/apr/21/canada-gold-heist-police-investigating-20m-of-high-value-cargo-stolen-from-toronto-airport)
+- [Lachlan Murdoch drops defamation proceedings against independent Australian publisher Crikey](https://www.theguardian.com/media/2023/apr/21/lachlan-murdoch-drops-defamation-proceedings-against-independent-australian-publisher-crikey)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

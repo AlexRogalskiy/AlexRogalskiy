@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Google adds data loss prevention, security features to Chrome](https://www.computerworld.com/article/3694172/google-adds-data-loss-prevention-security-features-to-chrome.html#tk.rss_all)
+- [Microsoft expands AI Copilot offering with Viva and Glint integrations](https://www.computerworld.com/article/3694153/microsoft-expands-ai-copilot-offering-with-viva-and-glint-integrations.html#tk.rss_all)
+- [Is Samsung dumping Google Search?](https://www.computerworld.com/article/3694151/is-samsung-dumping-google-search.html#tk.rss_all)
+- [Security researchers uncover NSO Group iPhone attacks in Europe](https://www.computerworld.com/article/3694132/security-researchers-uncover-nso-group-iphone-attacks-in-europe.html#tk.rss_all)
+- [Three issues with generative AI still need to be solved](https://www.computerworld.com/article/3694189/three-issues-with-generative-ai-still-need-to-be-solved.html#tk.rss_all)
+- [Technical teams hit by Meta’s latest wave of layoffs](https://www.computerworld.com/article/3694152/technical-teams-hit-by-meta-s-latest-wave-of-layoffs.html#tk.rss_all)
+- [How to use Microsoft Loop in Outlook and Teams](https://www.computerworld.com/article/3692353/how-to-use-microsoft-loop-in-outlook-and-teams.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [EU Chips Act to drive $47 billion investments in semiconductor manufacturing](https://www.computerworld.com/article/3693953/eu-chips-act-to-drive-47-billion-investments-in-semiconductor-manufacturing.html#tk.rss_all)
 - [Atlassian&#39;s Confluence adds whiteboards, databases, boosts external collaboration](https://www.computerworld.com/article/3693910/atlassians-confluence-adds-whiteboards-databases-boosts-external-collaboration.html#tk.rss_all)
-- [Atlassian adds generative AI to its cloud workforce management offerings](https://www.computerworld.com/article/3693949/atlassian-adds-generative-ai-to-its-cloud-workforce-management-offerings.html#tk.rss_all)
-- [Global cloud spending expected to jump 21.7% as IaaS leads the way](https://www.computerworld.com/article/3693951/global-cloud-spending-expected-to-jump-217-as-iaas-leads-the-way.html#tk.rss_all)
-- [7 tips for better hybrid workplaces](https://www.computerworld.com/article/3693869/7-tips-for-better-hybrid-workplaces.html#tk.rss_all)
-- [Think Android 14 seems boring? Think about this.](https://www.computerworld.com/article/3693574/google-android-14-boring.html#tk.rss_all)
-- [NSO Group returns with triple iOS 15/16 zero-click spyware attack](https://www.computerworld.com/article/3693691/nso-group-returns-with-triple-ios-1516-zero-click-spyware-attack.html#tk.rss_all)
-- [Q&amp;A: How 2023 college grads can boost chances of finding their IT dream job](https://www.computerworld.com/article/3693688/qa-how-2023-college-grads-can-boost-chances-of-finding-their-it-dream-job.html#tk.rss_all)
-- [Google urges users to update Chrome to address zero-day vulnerability](https://www.csoonline.com/article/3693259/google-urges-users-to-update-chrome-to-address-zero-day-vulnerability.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

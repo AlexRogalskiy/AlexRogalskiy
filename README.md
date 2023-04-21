@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Autonomous Agents and Agent Simulations](https://blog.langchain.dev/agents-round/)
-- [Replit - How to train your own LLM Models](https://blog.replit.com/llm-training)
-- [Standoff over 95-year-old judge shows downside of lifetime jobs](https://news.bloomberglaw.com/us-law-week/standoff-over-95-year-old-judge-shows-downside-of-lifetime-jobs)
-- [How RocksDB Works](https://artem.krylysov.com/blog/2023/04/19/how-rocksdb-works/)
-- [Geneticists develop novel gene therapy for glaucoma](https://www.tcd.ie/news_events/articles/2023/novel-gene-therapy-shows-promise-for-treating-multiple-eye-diseases/)
-- [LlamaAcademy: Teach GPTs to understand API documentation with LoRA](https://github.com/danielgross/LlamaAcademy)
-- [Sandboxing JavaScript Code](https://healeycodes.com/sandboxing-javascript-code)
-- [Building telescopes on the Moon could transform astronomy](https://theconversation.com/building-telescopes-on-the-moon-could-transform-astronomy-and-its-becoming-an-achievable-goal-203308)
-- [GPT-3 Creative Fiction](https://gwern.net/gpt-3)
-- [Intranasal vaccine confers broad mucosal and systemic immunity against SARS-CoV2](https://www.nature.com/articles/s41392-023-01423-6)
+- [Peter Gabriel: AI competition statement](https://petergabriel.com/news/ai-competition-statement/)
+- [AOLserver is America Online&amp;#x27;s Open-Source web server](https://aolserver.github.io/)
+- [Show HN: We built a stateful Kafka connector and tips for creating yours](https://bytewax.io/blog/custom-input-connector)
+- [FAA selects sustainable design for new control towers at smaller airports](https://www.faa.gov/newsroom/faa-selects-sustainable-design-new-control-towers-municipal-smaller-airports)
+- [WebGPU GPT Model Demo](https://www.kmeans.org/)
+- [Tcl Programming&amp;#x2F;Tk Examples](https://en.wikibooks.org/wiki/Tcl_Programming/Tk_examples)
+- [Introducing &amp;#x27;Trusted Publishers&amp;#x27;](https://blog.pypi.org/posts/2023-04-20-introducing-trusted-publishers/)
+- [Revisiting the Fast Inverse Square Root – Is It Still Useful?](https://hllmn.net/blog/2023-04-20_rsqrt/)
+- [Retool &lpar;YC W17&rpar; is hiring hackers to combine visual programming with AI](https://news.ycombinator.com/item?id=35646253)
+- [Spinning Diagrams with CSS](https://x.st/spinning-diagrams-with-css/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

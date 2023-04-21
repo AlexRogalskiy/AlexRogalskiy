@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [NP-hard problems aren&#39;t always hard &lpar;2010&rpar;](https://www.kmjn.org/notes/nphard_not_always_hard.html)
-- [The Practicality of Decentralized Identifiers](https://developer.tbd.website/blog/practicality-of-decentralized-identifiers/)
-- [Translate websites in Firefox without using the cloud](https://support.mozilla.org/en-US/kb/firefox-translations)
-- [Record Labels Panic as A.I. Generated Song Becomes Hit Single](https://darkfutura.substack.com/p/record-labels-panic-as-ai-generated)
-- [Most Programmers Can&#39;t Read Code &lpar;2012&rpar;](https://www.gamedeveloper.com/programming/most-programmers-can-t-read-code)
-- [Introducing Atlassian Intelligence](https://www.atlassian.com/blog/announcements/unleashing-power-of-ai)
-- [Meta&#39;s Instagram Will Cut or Relocate Its London Staff](https://www.bloomberg.com/news/articles/2023-04-19/meta-platforms-to-cut-move-instagram-s-london-staff-chief-shifting-to-us)
-- [Codeium Chat – Free forever AI coding assistant](https://codeium.com/chat)
-- [Elon Musk Threatens to Sue Microsoft After It Drops Twitter from Ad Platform](https://www.pcmag.com/news/elon-musk-threatens-to-sue-microsoft-after-it-drops-twitter-from-ad-platform)
-- [No DNS address record found for repo.maven.apache.org](https://www.nslookup.io/domains/repo.maven.apache.org/dns-records/)
+- [Welcome to TerminalQuest](https://terminal.quest/)
+- [They cleaned up BP’s oil spill. Now they’re sick – and want justice](https://www.theguardian.com/environment/2023/apr/20/bp-oil-spill-deepwater-horizon-health-lawsuits)
+- [Humane previews AI-powered wearable](https://www.axios.com/2023/04/21/humane-ai-powered-wearable)
+- [Mental health effects of repeated walks in blue space environment](https://www.sciencedirect.com/science/article/abs/pii/S0013935120307076)
+- [America’s $800B climate splurge is feeding a new lobbying ecosystem](https://www.economist.com/business/2023/04/10/americas-800bn-climate-splurge-is-feeding-a-new-lobbying-ecosystem)
+- [The Practical Guide to Experience Design](https://practical.guide/)
+- [Laser Scissors](https://koliber.com/articles/laser-scissors)
+- [What Is a Vector DataBase](https://zilliz.com/learn/what-is-vector-database)
+- [CATL announces new battery with 500Wh/kg cell density; production in 2023](https://electrek.co/2023/04/19/catl-energy-dense-battery-will-soon-power-electric-passenger-planes-ev/)
+- [Sudoku Tips for Beginners: How to Solve Efficiently](https://www.nytimes.com/2023/03/02/crosswords/how-to-solve-sudoku.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

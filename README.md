@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Why generative AI will turbocharge low-code and no-code development](https://www.infoworld.com/article/3694173/why-generative-ai-will-turbocharge-low-code-and-no-code-development.html#tk.rss_all)
+- [Jamf debuts sophisticated security protection for executive iPhones](https://www.computerworld.com/article/3694191/jamf-debuts-sophisticated-security-protection-for-executive-iphones.html#tk.rss_all)
+- [Do the productivity gains from generative AI outweigh the security risks?](https://www.computerworld.com/article/3694349/do-the-productivity-gains-from-generative-ai-outweigh-the-security-risks.html#tk.rss_all)
+- [Tech layoffs in 2023: A timeline](https://www.computerworld.com/article/3685936/tech-layoffs-in-2023-a-timeline.html#tk.rss_all)
+- [How to use Gmail labels to tame your inbox](https://www.computerworld.com/article/3445984/how-to-use-gmail-labels-to-tame-your-inbox.html#tk.rss_all)
+- [10 powerful tricks for your Google Pixel Calculator app](https://www.computerworld.com/article/3693870/google-pixel-calculator-app.html#tk.rss_all)
 - [Google adds data loss prevention, security features to Chrome](https://www.computerworld.com/article/3694172/google-adds-data-loss-prevention-security-features-to-chrome.html#tk.rss_all)
 - [Microsoft expands AI Copilot offering with Viva and Glint integrations](https://www.computerworld.com/article/3694153/microsoft-expands-ai-copilot-offering-with-viva-and-glint-integrations.html#tk.rss_all)
 - [Is Samsung dumping Google Search?](https://www.computerworld.com/article/3694151/is-samsung-dumping-google-search.html#tk.rss_all)
 - [Security researchers uncover NSO Group iPhone attacks in Europe](https://www.computerworld.com/article/3694132/security-researchers-uncover-nso-group-iphone-attacks-in-europe.html#tk.rss_all)
-- [Three issues with generative AI still need to be solved](https://www.computerworld.com/article/3694189/three-issues-with-generative-ai-still-need-to-be-solved.html#tk.rss_all)
-- [Technical teams hit by Meta’s latest wave of layoffs](https://www.computerworld.com/article/3694152/technical-teams-hit-by-meta-s-latest-wave-of-layoffs.html#tk.rss_all)
-- [How to use Microsoft Loop in Outlook and Teams](https://www.computerworld.com/article/3692353/how-to-use-microsoft-loop-in-outlook-and-teams.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [EU Chips Act to drive $47 billion investments in semiconductor manufacturing](https://www.computerworld.com/article/3693953/eu-chips-act-to-drive-47-billion-investments-in-semiconductor-manufacturing.html#tk.rss_all)
-- [Atlassian&#39;s Confluence adds whiteboards, databases, boosts external collaboration](https://www.computerworld.com/article/3693910/atlassians-confluence-adds-whiteboards-databases-boosts-external-collaboration.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [British foreign minister’s belated visit to the Pacific aimed at countering China | Mihai Sora](https://www.theguardian.com/world/commentisfree/2023/apr/21/british-foreign-ministers-belated-visit-to-the-pacific-a-welcome-counter-to-chinese-influence)
-- [Are we facing a summer of sporting protests? - podcast](https://www.theguardian.com/news/audio/2023/apr/21/are-we-facing-a-summer-of-sporting-protests-podcast)
-- [Britain’s top diplomat James Cleverly skips part of Pacific tour to focus on Sudan](https://www.theguardian.com/world/2023/apr/21/britains-top-diplomat-james-cleverly-skips-part-of-pacific-tour-to-focus-on-sudan)
-- [Evil Dead Rise review – solid horror reboot brings the gore](https://www.theguardian.com/film/2023/apr/20/evil-dead-rise-review-solid-horror-reboot-brings-the-gore)
-- [Ghosted review – dreadful big star action comedy deserves to be ignored](https://www.theguardian.com/film/2023/apr/20/ghosted-review-dreadful-action-comedy-chris-evans-ana-de-armas)
-- [Uganda’s president rejects new hardline anti-gay bill as not tough enough](https://www.theguardian.com/global-development/2023/apr/20/ugandas-president-refuses-to-sign-new-hardline-anti-gay-bill)
-- [Criminal charges against Alec Baldwin dropped in Rust film set shooting](https://www.theguardian.com/us-news/2023/apr/20/alec-baldwin-charges-dropped-rust-shooting)
-- [Russian plane accidentally strikes Russian city near Ukraine border leaving 20m crater](https://www.theguardian.com/world/2023/apr/21/russian-plane-accidentally-strikes-russian-city-near-ukraine-border-leaving-20m-crater)
-- [Canada gold heist: police investigating $20m of ‘high-value’ cargo stolen from Toronto airport](https://www.theguardian.com/world/2023/apr/21/canada-gold-heist-police-investigating-20m-of-high-value-cargo-stolen-from-toronto-airport)
-- [Lachlan Murdoch drops defamation proceedings against independent Australian publisher Crikey](https://www.theguardian.com/media/2023/apr/21/lachlan-murdoch-drops-defamation-proceedings-against-independent-australian-publisher-crikey)
+- [Abortion pill ruling: will the US supreme court hear another abortion case?](https://www.theguardian.com/us-news/2023/apr/21/abortion-pill-ruling-mifepristone-supreme-court-explained)
+- [Russia-Ukraine war at a glance: what we know on day 423 of the invasion](https://www.theguardian.com/world/2023/apr/22/russia-ukraine-war-at-a-glance-what-we-know-on-day-423-of-the-invasion)
+- [‘Raab goes down swinging’: what the papers say as deputy PM resigns](https://www.theguardian.com/media/2023/apr/22/raab-goes-down-swinging-what-the-papers-say-as-deputy-pm-resigns)
+- [UN refugee chief condemns Australia’s offshore detention regime and slogans like ‘stop the boats’](https://www.theguardian.com/australia-news/2023/apr/22/slogans-like-stop-the-boats-do-nothing-to-tackle-the-asylum-seeker-challenge-un-refugee-chief-says)
+- [US supreme court blocks ruling limiting access to abortion pill](https://www.theguardian.com/world/2023/apr/21/abortion-pill-ruling-latest-news-supreme-court-decision)
+- [Tempers flare as Gervonta Davis and Ryan Garcia make weight for big fight](https://www.theguardian.com/sport/2023/apr/21/gervonta-davis-ryan-garcia-weigh-in-bernard-hopkins)
+- [Suspect in shooting of six-year-old over stray basketball arrested in Florida](https://www.theguardian.com/us-news/2023/apr/21/north-carolina-shooting-robert-singletary-basketball)
+- [Ronnie O’Sullivan takes commanding lead after Vafaei’s ‘disrespectful’ break](https://www.theguardian.com/sport/2023/apr/21/ronnie-o-sullivan-lead-hossein-vafaei-world-snooker-championship)
+- [New Lyft CEO David Risher announces plans to lay off hundreds of workers](https://www.theguardian.com/technology/2023/apr/21/lyft-layoffs-david-risher-uber)
+- [Drawing, drawing Arsenal: Title hopes hit despite Saka rescuing point](https://www.theguardian.com/football/2023/apr/21/arsenal-southampton-premier-league-match-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

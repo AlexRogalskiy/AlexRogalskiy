@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Peter Gabriel: AI competition statement](https://petergabriel.com/news/ai-competition-statement/)
-- [AOLserver is America Online&amp;#x27;s Open-Source web server](https://aolserver.github.io/)
-- [Show HN: We built a stateful Kafka connector and tips for creating yours](https://bytewax.io/blog/custom-input-connector)
-- [FAA selects sustainable design for new control towers at smaller airports](https://www.faa.gov/newsroom/faa-selects-sustainable-design-new-control-towers-municipal-smaller-airports)
-- [WebGPU GPT Model Demo](https://www.kmeans.org/)
-- [Tcl Programming&amp;#x2F;Tk Examples](https://en.wikibooks.org/wiki/Tcl_Programming/Tk_examples)
-- [Introducing &amp;#x27;Trusted Publishers&amp;#x27;](https://blog.pypi.org/posts/2023-04-20-introducing-trusted-publishers/)
-- [Revisiting the Fast Inverse Square Root – Is It Still Useful?](https://hllmn.net/blog/2023-04-20_rsqrt/)
-- [Retool &lpar;YC W17&rpar; is hiring hackers to combine visual programming with AI](https://news.ycombinator.com/item?id=35646253)
-- [Spinning Diagrams with CSS](https://x.st/spinning-diagrams-with-css/)
+- [Apple will launch a journaling app](https://arstechnica.com/gadgets/2023/04/apple-plans-mental-health-focused-journaling-app-for-ios-17/)
+- [U.S. crypto exchange Coinbase secures Bermuda licence](https://www.reuters.com/technology/us-crypto-exchange-coinbase-secures-bermuda-licence-2023-04-20/)
+- [There is no A.I.](https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai)
+- [US 5-year credit default swaps rise to highest since 2011](https://www.reuters.com/markets/us/us-5-year-credit-default-swaps-rise-highest-since-2011-2023-04-21/)
+- [Show HN: TxtNet Browser – Browse the Web over SMS, No Wi-Fi&amp;#x2F;Mobile Data Needed](https://github.com/lukeaschenbrenner/TxtNet-Browser/blob/master/README.md)
+- [Show HN: Automatic Prompt Optimizer for LLMs](https://promptperfect.jina.ai/)
+- [Windows on Btrfs](https://www.lilysthings.org/blog/windows-on-btrfs/)
+- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring an Infrastructure Engineer](https://news.ycombinator.com/item?id=35660076)
+- [Florida’s Corkscrew Swamp](https://worldsensorium.com/the-real-magic-kingdom-floridas-corkscrew-swamp/)
+- [What Happens When You Kill Your King](https://www.newyorker.com/magazine/2023/04/24/the-blazing-world-jonathan-healey-book-review)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Welcome to TerminalQuest](https://terminal.quest/)
-- [They cleaned up BP’s oil spill. Now they’re sick – and want justice](https://www.theguardian.com/environment/2023/apr/20/bp-oil-spill-deepwater-horizon-health-lawsuits)
-- [Humane previews AI-powered wearable](https://www.axios.com/2023/04/21/humane-ai-powered-wearable)
-- [Mental health effects of repeated walks in blue space environment](https://www.sciencedirect.com/science/article/abs/pii/S0013935120307076)
-- [America’s $800B climate splurge is feeding a new lobbying ecosystem](https://www.economist.com/business/2023/04/10/americas-800bn-climate-splurge-is-feeding-a-new-lobbying-ecosystem)
-- [The Practical Guide to Experience Design](https://practical.guide/)
-- [Laser Scissors](https://koliber.com/articles/laser-scissors)
-- [What Is a Vector DataBase](https://zilliz.com/learn/what-is-vector-database)
-- [CATL announces new battery with 500Wh/kg cell density; production in 2023](https://electrek.co/2023/04/19/catl-energy-dense-battery-will-soon-power-electric-passenger-planes-ev/)
-- [Sudoku Tips for Beginners: How to Solve Efficiently](https://www.nytimes.com/2023/03/02/crosswords/how-to-solve-sudoku.html)
+- [Twitter removes govt funded labels after outlets flee](https://www.theverge.com/2023/4/21/23692449/elon-musk-twitter-government-funded-media-labels-removed)
+- [Open source your old projects](https://www.pietrorea.com/2023/04/22/open-source-your-old-projects/)
+- [China’s EV Love Affair Spells Doom for Gasoline](https://www.bloomberg.com/news/newsletters/2023-04-21/china-s-ev-shift-spells-doom-for-oil)
+- [An Overview of the NetWare Operating System &lpar;1994&rpar; [pdf]](https://www.usenix.net/legacy/publications/library/proceedings/sf94/full_papers/minshall.pdf)
+- [AI Plus Whatever](https://creativegood.com/blog/23/ai-plus-whatever.html)
+- [Surveillance by Tesla: Yeh vs. Telsa, Inc](https://www.courtlistener.com/docket/67159332/1/yeh-v-tesla-inc/)
+- [More than 19,000 undersea volcanoes discovered](https://www.science.org/content/article/it-s-just-mind-boggling-more-19-000-undersea-volcanoes-discovered)
+- [Boot to Vim, Vim as PID 1](https://raymii.org/s/blog/Vim_as_PID_1_Boot_to_Vim.html)
+- [Game Asset Storage, Loading, Compression and Caching](https://ph3at.github.io/posts/Asset-Compression/)
+- [Chat GPT-4 Suggests Beating StarCraft 2 Grandmasters with Stupid Stuff](https://www.youtube.com/watch?v=oxwzwmXyXd8)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

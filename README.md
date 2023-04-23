@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Apple will launch a journaling app](https://arstechnica.com/gadgets/2023/04/apple-plans-mental-health-focused-journaling-app-for-ios-17/)
-- [U.S. crypto exchange Coinbase secures Bermuda licence](https://www.reuters.com/technology/us-crypto-exchange-coinbase-secures-bermuda-licence-2023-04-20/)
-- [There is no A.I.](https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai)
-- [US 5-year credit default swaps rise to highest since 2011](https://www.reuters.com/markets/us/us-5-year-credit-default-swaps-rise-highest-since-2011-2023-04-21/)
-- [Show HN: TxtNet Browser – Browse the Web over SMS, No Wi-Fi&amp;#x2F;Mobile Data Needed](https://github.com/lukeaschenbrenner/TxtNet-Browser/blob/master/README.md)
-- [Show HN: Automatic Prompt Optimizer for LLMs](https://promptperfect.jina.ai/)
-- [Windows on Btrfs](https://www.lilysthings.org/blog/windows-on-btrfs/)
-- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring an Infrastructure Engineer](https://news.ycombinator.com/item?id=35660076)
-- [Florida’s Corkscrew Swamp](https://worldsensorium.com/the-real-magic-kingdom-floridas-corkscrew-swamp/)
-- [What Happens When You Kill Your King](https://www.newyorker.com/magazine/2023/04/24/the-blazing-world-jonathan-healey-book-review)
+- [iOS 17 app sideloading might only be available in Europe](https://www.techradar.com/news/ios-17-app-sideloading-might-only-be-available-in-europe)
+- [DARPA wants to rethink the fundamentals of AI to include trust](https://www.theregister.com/2023/04/20/darpa_ai_trust/)
+- [Saturn&amp;#x27;s Interior After the Cassini Grand Finale](https://arxiv.org/abs/2304.09215)
+- [Effective Immediately: A central hub for people who&amp;#x27;ve been recently laid off](https://github.com/Effective-Immediately/effective-immediately)
+- [System D](https://en.wikipedia.org/wiki/System_D)
+- [JSON vs. XML with Douglas Crockford](https://corecursive.com/json-vs-xml-douglas-crockford/)
+- [Negative Mass](https://students.tools/negative/?6=9)
+- [First ROM Shadowing](https://www.os2museum.com/wp/first-rom-shadowing/)
+- [Show HN: DontBore – Accessible, fast, low-footprint Login sharing for the masses](https://dontbo.re/)
+- [The magic of DC-DC voltage conversion](https://lcamtuf.substack.com/p/the-magic-of-dc-dc-voltage-conversion)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

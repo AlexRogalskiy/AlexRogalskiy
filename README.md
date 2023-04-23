@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Twitter removes govt funded labels after outlets flee](https://www.theverge.com/2023/4/21/23692449/elon-musk-twitter-government-funded-media-labels-removed)
-- [Open source your old projects](https://www.pietrorea.com/2023/04/22/open-source-your-old-projects/)
-- [China’s EV Love Affair Spells Doom for Gasoline](https://www.bloomberg.com/news/newsletters/2023-04-21/china-s-ev-shift-spells-doom-for-oil)
-- [An Overview of the NetWare Operating System &lpar;1994&rpar; [pdf]](https://www.usenix.net/legacy/publications/library/proceedings/sf94/full_papers/minshall.pdf)
-- [AI Plus Whatever](https://creativegood.com/blog/23/ai-plus-whatever.html)
-- [Surveillance by Tesla: Yeh vs. Telsa, Inc](https://www.courtlistener.com/docket/67159332/1/yeh-v-tesla-inc/)
-- [More than 19,000 undersea volcanoes discovered](https://www.science.org/content/article/it-s-just-mind-boggling-more-19-000-undersea-volcanoes-discovered)
-- [Boot to Vim, Vim as PID 1](https://raymii.org/s/blog/Vim_as_PID_1_Boot_to_Vim.html)
-- [Game Asset Storage, Loading, Compression and Caching](https://ph3at.github.io/posts/Asset-Compression/)
-- [Chat GPT-4 Suggests Beating StarCraft 2 Grandmasters with Stupid Stuff](https://www.youtube.com/watch?v=oxwzwmXyXd8)
+- [Czkawka: Open-source, cross platform app to find duplicates, similar images](https://github.com/qarmin/czkawka)
+- [Alteration to brain in persons with autism spectrum disorder starts at early age](https://www.psypost.org/2023/01/alteration-to-brain-node-topology-in-persons-with-autism-spectrum-disorder-starts-at-early-age-64691)
+- [Collapse OS – Why?](http://collapseos.org/why.html)
+- [Write hard and clear about what hurts](https://tiramisu.bearblog.dev/it-hurts/)
+- [Do Not Use SMS](https://oliwierjaszczyszyn.bearblog.dev/do-not-use-sms/)
+- [Ask HN: Are there any ready-to-use Docker images for running LLMs locally?](https://news.ycombinator.com/item?id=35672652)
+- [I Failed](https://rohit.blog/fail/)
+- [“I&#39;m a Barbie girl” as a three-part classical fugue [video]](https://www.youtube.com/watch?v=qsE7H6YPfco)
+- [Ask HN: Has anybody used picovoice instead of krisp?](https://news.ycombinator.com/item?id=35672621)
+- [A Standup Comedy with Tom Brady Voice AI](https://www.youtube.com/watch?v=QZVXmtzTbmE)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

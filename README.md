@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Abortion pill ruling: will the US supreme court hear another abortion case?](https://www.theguardian.com/us-news/2023/apr/21/abortion-pill-ruling-mifepristone-supreme-court-explained)
-- [Russia-Ukraine war at a glance: what we know on day 423 of the invasion](https://www.theguardian.com/world/2023/apr/22/russia-ukraine-war-at-a-glance-what-we-know-on-day-423-of-the-invasion)
-- [‘Raab goes down swinging’: what the papers say as deputy PM resigns](https://www.theguardian.com/media/2023/apr/22/raab-goes-down-swinging-what-the-papers-say-as-deputy-pm-resigns)
-- [UN refugee chief condemns Australia’s offshore detention regime and slogans like ‘stop the boats’](https://www.theguardian.com/australia-news/2023/apr/22/slogans-like-stop-the-boats-do-nothing-to-tackle-the-asylum-seeker-challenge-un-refugee-chief-says)
-- [US supreme court blocks ruling limiting access to abortion pill](https://www.theguardian.com/world/2023/apr/21/abortion-pill-ruling-latest-news-supreme-court-decision)
-- [Tempers flare as Gervonta Davis and Ryan Garcia make weight for big fight](https://www.theguardian.com/sport/2023/apr/21/gervonta-davis-ryan-garcia-weigh-in-bernard-hopkins)
-- [Suspect in shooting of six-year-old over stray basketball arrested in Florida](https://www.theguardian.com/us-news/2023/apr/21/north-carolina-shooting-robert-singletary-basketball)
-- [Ronnie O’Sullivan takes commanding lead after Vafaei’s ‘disrespectful’ break](https://www.theguardian.com/sport/2023/apr/21/ronnie-o-sullivan-lead-hossein-vafaei-world-snooker-championship)
-- [New Lyft CEO David Risher announces plans to lay off hundreds of workers](https://www.theguardian.com/technology/2023/apr/21/lyft-layoffs-david-risher-uber)
-- [Drawing, drawing Arsenal: Title hopes hit despite Saka rescuing point](https://www.theguardian.com/football/2023/apr/21/arsenal-southampton-premier-league-match-report)
+- [Gervonta Davis v Ryan Garcia: 12-round catchweight fight – live](https://www.theguardian.com/sport/live/2023/apr/22/gervonta-davis-v-ryan-garcia-live-boxing-fight)
+- [Taiwan Strait: top EU diplomat calls for European navy patrols](https://www.theguardian.com/world/2023/apr/23/taiwan-strait-top-eu-diplomat-calls-for-european-navy-patrols)
+- [Senior Mexican official to stand trial over fire that killed 40 migrants](https://www.theguardian.com/world/2023/apr/23/senior-mexican-official-to-stand-trial-over-fire-that-killed-40-migrants)
+- [Americans Allisen Corpuz and Angel Yin ride the storm to lead at Chevron Championship](https://www.theguardian.com/sport/2023/apr/23/americans-allisen-corpuz-and-angel-yin-ride-the-storm-to-lead-at-chevron-championship)
+- [Russia-Ukraine war at a glance: what we know on day 424 of the invasion](https://www.theguardian.com/world/2023/apr/23/russia-ukraine-war-at-a-glance-what-we-know-on-day-424-of-the-invasion)
+- [I&#39;ll miss the hours sitting side by side, teaching my daughter how to drive | Nova Weetman](https://www.theguardian.com/commentisfree/2023/apr/23/ill-miss-the-hours-sitting-side-by-side-teaching-my-daughter-how-to-drive)
+- [Banks line up to reassure investors as season of turbulence subsides](https://www.theguardian.com/business/2023/apr/23/banks-line-up-to-reassure-investors-as-season-of-turbulence-subsides)
+- [Last remaining Gurkha Victoria Cross recipient dies in Nepal aged 83](https://www.theguardian.com/world/2023/apr/23/last-remaining-gurkha-victoria-cross-recipient-dies-in-nepal-at-age-of-83)
+- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2023/apr/22/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Just the ticket: 14 of the best card holders](https://www.theguardian.com/fashion/gallery/2023/apr/22/just-the-ticket-14-of-the-best-card-holders)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

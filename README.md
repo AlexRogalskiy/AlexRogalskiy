@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Gervonta Davis v Ryan Garcia: 12-round catchweight fight – live](https://www.theguardian.com/sport/live/2023/apr/22/gervonta-davis-v-ryan-garcia-live-boxing-fight)
-- [Taiwan Strait: top EU diplomat calls for European navy patrols](https://www.theguardian.com/world/2023/apr/23/taiwan-strait-top-eu-diplomat-calls-for-european-navy-patrols)
-- [Senior Mexican official to stand trial over fire that killed 40 migrants](https://www.theguardian.com/world/2023/apr/23/senior-mexican-official-to-stand-trial-over-fire-that-killed-40-migrants)
-- [Americans Allisen Corpuz and Angel Yin ride the storm to lead at Chevron Championship](https://www.theguardian.com/sport/2023/apr/23/americans-allisen-corpuz-and-angel-yin-ride-the-storm-to-lead-at-chevron-championship)
-- [Russia-Ukraine war at a glance: what we know on day 424 of the invasion](https://www.theguardian.com/world/2023/apr/23/russia-ukraine-war-at-a-glance-what-we-know-on-day-424-of-the-invasion)
-- [I&#39;ll miss the hours sitting side by side, teaching my daughter how to drive | Nova Weetman](https://www.theguardian.com/commentisfree/2023/apr/23/ill-miss-the-hours-sitting-side-by-side-teaching-my-daughter-how-to-drive)
-- [Banks line up to reassure investors as season of turbulence subsides](https://www.theguardian.com/business/2023/apr/23/banks-line-up-to-reassure-investors-as-season-of-turbulence-subsides)
-- [Last remaining Gurkha Victoria Cross recipient dies in Nepal aged 83](https://www.theguardian.com/world/2023/apr/23/last-remaining-gurkha-victoria-cross-recipient-dies-in-nepal-at-age-of-83)
-- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2023/apr/22/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Just the ticket: 14 of the best card holders](https://www.theguardian.com/fashion/gallery/2023/apr/22/just-the-ticket-14-of-the-best-card-holders)
+- [Embracing a childfree life – podcast](https://www.theguardian.com/news/audio/2023/apr/24/embracing-a-childfree-life-podcast)
+- [Myanmar: senior election official linked to junta shot dead by resistance group](https://www.theguardian.com/world/2023/apr/24/myanmar-senior-election-official-linked-to-junta-shot-dead-by-resistance-group)
+- [China ramps up coal power despite carbon neutral pledges](https://www.theguardian.com/world/2023/apr/24/china-ramps-up-coal-power-despite-carbon-neutral-pledges)
+- [Russia-Ukraine war at a glance: what we know on day 425 of the invasion](https://www.theguardian.com/world/2023/apr/24/russia-ukraine-war-at-a-glance-what-we-know-on-day-425-of-the-invasion)
+- [Kenya cult deaths: toll from suspected starvation cult reaches 47](https://www.theguardian.com/world/2023/apr/24/kenya-cult-deaths-toll-from-suspected-starvation-cult-reaches-47)
+- [Ashes to ocean: sea burials become China’s solution to crowded cemeteries](https://www.theguardian.com/world/2023/apr/24/ashes-to-ocean-sea-burials-become-chinas-solution-to-crowded-cemeteries)
+- [CPS includes ‘love-bombing’ in guidance on abusive partners prosecution](https://www.theguardian.com/law/2023/apr/24/cps-includes-love-bombing-in-guidance-on-abusive-partners-prosecution)
+- [Defence spending in western and central Europe tops last year of cold war](https://www.theguardian.com/world/2023/apr/24/defence-spending-in-western-and-central-europe-tops-last-year-of-cold-war)
+- [Ministers say UK will only detain child refugees in ‘exceptional circumstances’](https://www.theguardian.com/world/2023/apr/24/uk-will-only-detain-child-refugees-exceptional-circumstances-illegal-migration-bill)
+- [Europe ‘failing its children’ on air pollution, EEA says](https://www.theguardian.com/environment/2023/apr/24/europe-failing-its-children-on-air-pollution-eea-says)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

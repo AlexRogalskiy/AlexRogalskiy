@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Czkawka: Open-source, cross platform app to find duplicates, similar images](https://github.com/qarmin/czkawka)
-- [Alteration to brain in persons with autism spectrum disorder starts at early age](https://www.psypost.org/2023/01/alteration-to-brain-node-topology-in-persons-with-autism-spectrum-disorder-starts-at-early-age-64691)
-- [Collapse OS – Why?](http://collapseos.org/why.html)
-- [Write hard and clear about what hurts](https://tiramisu.bearblog.dev/it-hurts/)
-- [Do Not Use SMS](https://oliwierjaszczyszyn.bearblog.dev/do-not-use-sms/)
-- [Ask HN: Are there any ready-to-use Docker images for running LLMs locally?](https://news.ycombinator.com/item?id=35672652)
-- [I Failed](https://rohit.blog/fail/)
-- [“I&#39;m a Barbie girl” as a three-part classical fugue [video]](https://www.youtube.com/watch?v=qsE7H6YPfco)
-- [Ask HN: Has anybody used picovoice instead of krisp?](https://news.ycombinator.com/item?id=35672621)
-- [A Standup Comedy with Tom Brady Voice AI](https://www.youtube.com/watch?v=QZVXmtzTbmE)
+- [How to Twitter &lpar;2020&rpar;](https://lee-phillips.org/howtotwitter/)
+- [Ask HN: Please help me decide between job offers](https://news.ycombinator.com/item?id=35682928)
+- [Nuclear fusion will not be regulated the same way as nuclear fission](https://www.cnbc.com/2023/04/20/nuclear-fusion-will-not-be-regulated-the-same-way-nuclear-fission-is.html)
+- [Inferno-OS: distributed operating system where everything is a file, with 9P](https://github.com/inferno-os/inferno-os)
+- [C++: The Obvious Final Step](https://akrzemi1.wordpress.com/2023/04/23/the-obvious-final-step/)
+- [Hannover Re the Latest to Leave Net-Zero Insurance Alliance](https://www.reinsurancene.ws/hannover-re-the-latest-to-leave-net-zero-insurance-alliance/)
+- [5-minute video on the code behind Chart GPT](https://www.youtube.com/watch?v=hDfKFYVQjEM)
+- [Free Credit Card Generator 2023](https://unique-name-generator.web.app/credit-card-generator/)
+- [Training open-source LLMs on ChatGPT output is a really bad idea.](https://gist.github.com/mlaprise/bf4745655194162babfc2d158162e2e0)
+- [PrinceJS](https://princejs.com)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

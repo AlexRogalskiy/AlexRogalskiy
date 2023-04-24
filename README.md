@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [iOS 17 app sideloading might only be available in Europe](https://www.techradar.com/news/ios-17-app-sideloading-might-only-be-available-in-europe)
-- [DARPA wants to rethink the fundamentals of AI to include trust](https://www.theregister.com/2023/04/20/darpa_ai_trust/)
-- [Saturn&amp;#x27;s Interior After the Cassini Grand Finale](https://arxiv.org/abs/2304.09215)
-- [Effective Immediately: A central hub for people who&amp;#x27;ve been recently laid off](https://github.com/Effective-Immediately/effective-immediately)
-- [System D](https://en.wikipedia.org/wiki/System_D)
-- [JSON vs. XML with Douglas Crockford](https://corecursive.com/json-vs-xml-douglas-crockford/)
-- [Negative Mass](https://students.tools/negative/?6=9)
-- [First ROM Shadowing](https://www.os2museum.com/wp/first-rom-shadowing/)
-- [Show HN: DontBore – Accessible, fast, low-footprint Login sharing for the masses](https://dontbo.re/)
-- [The magic of DC-DC voltage conversion](https://lcamtuf.substack.com/p/the-magic-of-dc-dc-voltage-conversion)
+- [Scaling Transformer to 1M tokens and beyond with RMT](https://arxiv.org/abs/2304.11062)
+- [RISC on a Chip: David Patterson and Berkeley RISC-I](https://thechipletter.substack.com/p/risc-on-a-chip-david-patterson-and)
+- [ChatGPT4 writes Stan code so I don’t have to](https://statmodeling.stat.columbia.edu/2023/04/18/chatgpt4-writes-stan-code-so-i-dont-have-to/)
+- [Bilingualism affords no general cognitive advantages: Study](https://journals.sagepub.com/doi/10.1177/0956797620903113)
+- [West Coast Trail – The 75km&amp;#x2F;48 mile hike in Vancouver Island](https://www.dquach.com/2021/08/01/west-coast-trail-the-75km-48-mile-death-hike/)
+- [Roblox intentionally blocking Linux with Wine in their new update](https://www.gamingonlinux.com/2023/04/roblox-intentionally-blocking-linux-with-wine-in-their-new-update/)
+- [Godot-dodo – Finetuning LLaMA on single-language comment:code data pairs](https://github.com/minosvasilias/godot-dodo)
+- [Some mistakes I made as a new manager](https://www.benkuhn.net/newmgr/)
+- [X-Ray-Luminous Supernovae: Threats to Terrestrial Biospheres](https://iopscience.iop.org/article/10.3847/1538-4357/acc728)
+- [That won&amp;#x27;t scale: Present cost vs. future value](https://codesolo.substack.com/p/that-wont-scale-or-present-cost-vs)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

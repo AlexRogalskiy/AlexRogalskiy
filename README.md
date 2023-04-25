@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Scaling Transformer to 1M tokens and beyond with RMT](https://arxiv.org/abs/2304.11062)
-- [RISC on a Chip: David Patterson and Berkeley RISC-I](https://thechipletter.substack.com/p/risc-on-a-chip-david-patterson-and)
-- [ChatGPT4 writes Stan code so I don’t have to](https://statmodeling.stat.columbia.edu/2023/04/18/chatgpt4-writes-stan-code-so-i-dont-have-to/)
-- [Bilingualism affords no general cognitive advantages: Study](https://journals.sagepub.com/doi/10.1177/0956797620903113)
-- [West Coast Trail – The 75km&amp;#x2F;48 mile hike in Vancouver Island](https://www.dquach.com/2021/08/01/west-coast-trail-the-75km-48-mile-death-hike/)
-- [Roblox intentionally blocking Linux with Wine in their new update](https://www.gamingonlinux.com/2023/04/roblox-intentionally-blocking-linux-with-wine-in-their-new-update/)
-- [Godot-dodo – Finetuning LLaMA on single-language comment:code data pairs](https://github.com/minosvasilias/godot-dodo)
-- [Some mistakes I made as a new manager](https://www.benkuhn.net/newmgr/)
-- [X-Ray-Luminous Supernovae: Threats to Terrestrial Biospheres](https://iopscience.iop.org/article/10.3847/1538-4357/acc728)
-- [That won&amp;#x27;t scale: Present cost vs. future value](https://codesolo.substack.com/p/that-wont-scale-or-present-cost-vs)
+- [Deming Paradox: Operationally rigorous companies aren&amp;#x27;t nice places to work](https://commoncog.com/deming-paradox-operational-rigour/)
+- [Smokeless_UMAF: Access AMD hidden BIOS settings](https://github.com/DavidS95/Smokeless_UMAF)
+- [A mutual aid auto shop in Alabama](https://lux-magazine.com/article/mutual-aid-cars-alabama/)
+- [ONNX Runtime merges WebGPU backend](https://github.com/microsoft/onnxruntime/pull/14579)
+- [Palo Alto Research Center &lpar;PARC&rpar; to join SRI International](https://www.sri.com/press/press-release/the-palo-alto-research-center-parc-will-join-sri-international/)
+- [Lancey &lpar;YC S22&rpar; is hiring a senior full-stack engineer](https://www.ycombinator.com/companies/lancey/jobs/yxiFhkc-senior-software-engineer-full-stack)
+- [Hawthorne effect](https://en.wikipedia.org/wiki/Hawthorne_effect)
+- [OpenAI has applied for “GPT” trademark with USPTO](https://tmsearch.uspto.gov/bin/showfield?f=doc&state=4802:jtelqq.2.16)
+- [Apple wins antitrust court battle with Epic Games, appeals court rules](https://techcrunch.com/2023/04/24/apple-wins-antitrust-court-battle-with-epic-games-appeals-court-rules/)
+- [Local License Key Verification](https://matradomski.com/posts/local_license_key_verification_theory/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

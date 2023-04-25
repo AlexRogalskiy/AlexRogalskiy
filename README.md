@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Arm reportedly set to make prototype chip ahead of IPO](https://www.computerworld.com/article/3694451/arm-reportedly-set-to-make-prototype-chip-ahead-of-ipo.html#tk.rss_all)
+- [Kandji explains its new Endpoint Detection and Response tools](https://www.computerworld.com/article/3694448/kandji-explains-its-new-endpoint-detection-and-response-tools.html#tk.rss_all)
+- [IT staffers would help colleagues avoid monitoring software](https://www.computerworld.com/article/3694134/it-staffers-would-help-colleagues-avoid-monitoring-software.html#tk.rss_all)
+- [Google’s Bard AI to take on GitHub Copilot and Amazon CodeWhisperer](https://www.infoworld.com/article/3694158/google-s-bard-ai-to-take-on-github-copilot-and-amazon-codewhisperer.html#tk.rss_all)
 - [Why generative AI will turbocharge low-code and no-code development](https://www.infoworld.com/article/3694173/why-generative-ai-will-turbocharge-low-code-and-no-code-development.html#tk.rss_all)
 - [Jamf debuts sophisticated security protection for executive iPhones](https://www.computerworld.com/article/3694191/jamf-debuts-sophisticated-security-protection-for-executive-iphones.html#tk.rss_all)
 - [Do the productivity gains from generative AI outweigh the security risks?](https://www.computerworld.com/article/3694349/do-the-productivity-gains-from-generative-ai-outweigh-the-security-risks.html#tk.rss_all)
 - [Tech layoffs in 2023: A timeline](https://www.computerworld.com/article/3685936/tech-layoffs-in-2023-a-timeline.html#tk.rss_all)
 - [How to use Gmail labels to tame your inbox](https://www.computerworld.com/article/3445984/how-to-use-gmail-labels-to-tame-your-inbox.html#tk.rss_all)
 - [10 powerful tricks for your Google Pixel Calculator app](https://www.computerworld.com/article/3693870/google-pixel-calculator-app.html#tk.rss_all)
-- [Google adds data loss prevention, security features to Chrome](https://www.computerworld.com/article/3694172/google-adds-data-loss-prevention-security-features-to-chrome.html#tk.rss_all)
-- [Microsoft expands AI Copilot offering with Viva and Glint integrations](https://www.computerworld.com/article/3694153/microsoft-expands-ai-copilot-offering-with-viva-and-glint-integrations.html#tk.rss_all)
-- [Is Samsung dumping Google Search?](https://www.computerworld.com/article/3694151/is-samsung-dumping-google-search.html#tk.rss_all)
-- [Security researchers uncover NSO Group iPhone attacks in Europe](https://www.computerworld.com/article/3694132/security-researchers-uncover-nso-group-iphone-attacks-in-europe.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

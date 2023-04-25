@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [How to Twitter &lpar;2020&rpar;](https://lee-phillips.org/howtotwitter/)
-- [Ask HN: Please help me decide between job offers](https://news.ycombinator.com/item?id=35682928)
-- [Nuclear fusion will not be regulated the same way as nuclear fission](https://www.cnbc.com/2023/04/20/nuclear-fusion-will-not-be-regulated-the-same-way-nuclear-fission-is.html)
-- [Inferno-OS: distributed operating system where everything is a file, with 9P](https://github.com/inferno-os/inferno-os)
-- [C++: The Obvious Final Step](https://akrzemi1.wordpress.com/2023/04/23/the-obvious-final-step/)
-- [Hannover Re the Latest to Leave Net-Zero Insurance Alliance](https://www.reinsurancene.ws/hannover-re-the-latest-to-leave-net-zero-insurance-alliance/)
-- [5-minute video on the code behind Chart GPT](https://www.youtube.com/watch?v=hDfKFYVQjEM)
-- [Free Credit Card Generator 2023](https://unique-name-generator.web.app/credit-card-generator/)
-- [Training open-source LLMs on ChatGPT output is a really bad idea.](https://gist.github.com/mlaprise/bf4745655194162babfc2d158162e2e0)
-- [PrinceJS](https://princejs.com)
+- [Android users in India may soon see a new alternative to Google Play Store](https://www.androidcentral.com/apps-software/phonepe-google-play-store-alternative-india)
+- [Online Detectives Have Raised $300M to Keep Lies from Triggering](https://www.bloomberg.com/news/articles/2023-04-24/alethea-graphika-are-using-ai-to-help-companies-fight-disinformation-online)
+- [Evaluation of risks associated with relying on Fortran for the next 15 years](https://permalink.lanl.gov/object/tr?what=info:lanl-repo/lareport/LA-UR-23-23992)
+- [How do you recover passkeys if you lose all your devices? &lpar;2022&rpar;](https://sixcolors.com/link/2022/06/how-do-you-recover-passkeys-if-you-lose-all-your-devices/)
+- [Ivy League Exodus](https://www.tabletmag.com/sections/arts-letters/articles/ivy-league-exodus)
+- [A Satellite Phone That Works Anywhere? The U.S.-China Rivalry Makes That Harder](https://www.wsj.com/articles/china-us-technology-satellite-phones-2fd2bb22)
+- [The “const” Deception](https://www.joshwcomeau.com/javascript/the-const-deception/)
+- [Coinbase sues SEC after months of silence from federal regulator](https://www.cnbc.com/2023/04/24/coinbase-sues-sec-after-months-of-silence-from-federal-regulator.html)
+- [3Dfx Voodoo 1 and 2 Glide Linux Driver and Other X.org Code Officially Retired](https://www.phoronix.com/news/X.Org-Retired-Packages-2023)
+- [AI helps keeping Gmail inboxes malware free [slides]](https://elie.net/talk/how-ai-helps-keeping-gmail-inboxes-malware-free/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Embracing a childfree life – podcast](https://www.theguardian.com/news/audio/2023/apr/24/embracing-a-childfree-life-podcast)
-- [Myanmar: senior election official linked to junta shot dead by resistance group](https://www.theguardian.com/world/2023/apr/24/myanmar-senior-election-official-linked-to-junta-shot-dead-by-resistance-group)
-- [China ramps up coal power despite carbon neutral pledges](https://www.theguardian.com/world/2023/apr/24/china-ramps-up-coal-power-despite-carbon-neutral-pledges)
-- [Russia-Ukraine war at a glance: what we know on day 425 of the invasion](https://www.theguardian.com/world/2023/apr/24/russia-ukraine-war-at-a-glance-what-we-know-on-day-425-of-the-invasion)
-- [Kenya cult deaths: toll from suspected starvation cult reaches 47](https://www.theguardian.com/world/2023/apr/24/kenya-cult-deaths-toll-from-suspected-starvation-cult-reaches-47)
-- [Ashes to ocean: sea burials become China’s solution to crowded cemeteries](https://www.theguardian.com/world/2023/apr/24/ashes-to-ocean-sea-burials-become-chinas-solution-to-crowded-cemeteries)
-- [CPS includes ‘love-bombing’ in guidance on abusive partners prosecution](https://www.theguardian.com/law/2023/apr/24/cps-includes-love-bombing-in-guidance-on-abusive-partners-prosecution)
-- [Defence spending in western and central Europe tops last year of cold war](https://www.theguardian.com/world/2023/apr/24/defence-spending-in-western-and-central-europe-tops-last-year-of-cold-war)
-- [Ministers say UK will only detain child refugees in ‘exceptional circumstances’](https://www.theguardian.com/world/2023/apr/24/uk-will-only-detain-child-refugees-exceptional-circumstances-illegal-migration-bill)
-- [Europe ‘failing its children’ on air pollution, EEA says](https://www.theguardian.com/environment/2023/apr/24/europe-failing-its-children-on-air-pollution-eea-says)
+- [A bullying politician or snowflake civil servants? The downfall of Dominic Raab](https://www.theguardian.com/news/audio/2023/apr/25/bullying-politician-or-snowflake-civil-servants-downfall-dominic-raab-podcast)
+- [Tucker Carlson leaves Fox News – reportedly fired by Rupert Murdoch](https://www.theguardian.com/media/2023/apr/24/tucker-carlson-leaving-fox-news)
+- [Aurora Australis lights up New Zealand skies in spectacular ‘solar tsunami’](https://www.theguardian.com/world/2023/apr/25/aurora-australis-new-zealand-sky-spectacular-light-show-solar-tsunami-southern-lights)
+- [‘Let her speak!’: protests after Montana Republicans silence trans lawmaker](https://www.theguardian.com/us-news/2023/apr/24/montana-republicans-silence-transgender-lawmaker)
+- [Anzac Day 2023: dawn services across Australia and New Zealand – in pictures](https://www.theguardian.com/news/gallery/2023/apr/25/anzac-day-2023-dawn-services-across-australia-and-new-zealand-in-pictures)
+- [Russia-Ukraine war at a glance: what we know on day 426 of the invasion](https://www.theguardian.com/world/2023/apr/25/russia-ukraine-war-at-a-glance-what-we-know-on-day-426-of-the-invasion)
+- [Use of antibiotics in farming ‘endangering human immune system’](https://www.theguardian.com/society/2023/apr/25/use-of-antibiotics-in-farming-endangering-human-immune-system)
+- [Major tech firms face hefty fines under new digital consumer bill](https://www.theguardian.com/technology/2023/apr/25/major-tech-firms-face-hefty-fines-under-new-digital-consumer-bill)
+- [Life at 25 in India and China: money worries, hard work and no plans for family](https://www.theguardian.com/world/2023/apr/25/life-at-25-in-india-and-china-money-worries-hard-work-and-no-plans-for-family)
+- [One in five child abuse images found online last year were category A – report](https://www.theguardian.com/society/2023/apr/25/one-in-five-child-abuse-images-found-online-last-year-were-category-a-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

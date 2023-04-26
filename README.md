@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Deming Paradox: Operationally rigorous companies aren&amp;#x27;t nice places to work](https://commoncog.com/deming-paradox-operational-rigour/)
-- [Smokeless_UMAF: Access AMD hidden BIOS settings](https://github.com/DavidS95/Smokeless_UMAF)
-- [A mutual aid auto shop in Alabama](https://lux-magazine.com/article/mutual-aid-cars-alabama/)
-- [ONNX Runtime merges WebGPU backend](https://github.com/microsoft/onnxruntime/pull/14579)
-- [Palo Alto Research Center &lpar;PARC&rpar; to join SRI International](https://www.sri.com/press/press-release/the-palo-alto-research-center-parc-will-join-sri-international/)
-- [Lancey &lpar;YC S22&rpar; is hiring a senior full-stack engineer](https://www.ycombinator.com/companies/lancey/jobs/yxiFhkc-senior-software-engineer-full-stack)
-- [Hawthorne effect](https://en.wikipedia.org/wiki/Hawthorne_effect)
-- [OpenAI has applied for “GPT” trademark with USPTO](https://tmsearch.uspto.gov/bin/showfield?f=doc&state=4802:jtelqq.2.16)
-- [Apple wins antitrust court battle with Epic Games, appeals court rules](https://techcrunch.com/2023/04/24/apple-wins-antitrust-court-battle-with-epic-games-appeals-court-rules/)
-- [Local License Key Verification](https://matradomski.com/posts/local_license_key_verification_theory/)
+- [BYD says self-driving tech is more valuable in factories than cars](https://www.cnbc.com/2023/04/19/chinese-ev-giant-byd-self-driving-tech-better-for-factories-than-cars.html)
+- [My Life with the Penguins](https://nautil.us/my-life-with-the-penguins-298047/)
+- [GPS, UTC and TAI Clocks &lpar;2001&rpar;](http://www.leapsecond.com/java/gpsclock.htm)
+- [Why do prime numbers make these spirals? &lpar;2019&rpar;](https://www.3blue1brown.com/lessons/prime-spirals)
+- [You could have invented futexes](https://tavianator.com/2023/futex.html)
+- [It doesn’t take much to make machine-learning algorithms go awry](https://www.economist.com/science-and-technology/2023/04/05/it-doesnt-take-much-to-make-machine-learning-algorithms-go-awry)
+- [Mrs Whitcher and the Renegade Numbers &lpar;2017&rpar;](https://www.lastwordonnothing.com/2017/04/24/mrs-whitcher-and-the-renegade-numbers/)
+- [We glued together content moderation to stop soccer pirates](https://www.mux.com/blog/how-content-moderation-rescued-750k-in-unpaid-invoices-from-soccer-pirates)
+- [Show HN: Preview environments for projects that do not use K8s&amp;#x2F;Docker](https://codepreview.io/)
+- [Compressing Hegel &lpar;2020&rpar;](https://wittgenfine.substack.com/p/compressing-hegel)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

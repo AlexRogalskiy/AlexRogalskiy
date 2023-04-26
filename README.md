@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [A bullying politician or snowflake civil servants? The downfall of Dominic Raab](https://www.theguardian.com/news/audio/2023/apr/25/bullying-politician-or-snowflake-civil-servants-downfall-dominic-raab-podcast)
-- [Tucker Carlson leaves Fox News – reportedly fired by Rupert Murdoch](https://www.theguardian.com/media/2023/apr/24/tucker-carlson-leaving-fox-news)
-- [Aurora Australis lights up New Zealand skies in spectacular ‘solar tsunami’](https://www.theguardian.com/world/2023/apr/25/aurora-australis-new-zealand-sky-spectacular-light-show-solar-tsunami-southern-lights)
-- [‘Let her speak!’: protests after Montana Republicans silence trans lawmaker](https://www.theguardian.com/us-news/2023/apr/24/montana-republicans-silence-transgender-lawmaker)
-- [Anzac Day 2023: dawn services across Australia and New Zealand – in pictures](https://www.theguardian.com/news/gallery/2023/apr/25/anzac-day-2023-dawn-services-across-australia-and-new-zealand-in-pictures)
-- [Russia-Ukraine war at a glance: what we know on day 426 of the invasion](https://www.theguardian.com/world/2023/apr/25/russia-ukraine-war-at-a-glance-what-we-know-on-day-426-of-the-invasion)
-- [Use of antibiotics in farming ‘endangering human immune system’](https://www.theguardian.com/society/2023/apr/25/use-of-antibiotics-in-farming-endangering-human-immune-system)
-- [Major tech firms face hefty fines under new digital consumer bill](https://www.theguardian.com/technology/2023/apr/25/major-tech-firms-face-hefty-fines-under-new-digital-consumer-bill)
-- [Life at 25 in India and China: money worries, hard work and no plans for family](https://www.theguardian.com/world/2023/apr/25/life-at-25-in-india-and-china-money-worries-hard-work-and-no-plans-for-family)
-- [One in five child abuse images found online last year were category A – report](https://www.theguardian.com/society/2023/apr/25/one-in-five-child-abuse-images-found-online-last-year-were-category-a-report)
+- [Escaping Khartoum: one woman’s dramatic flight from Sudan](https://www.theguardian.com/world/2023/apr/26/escaping-khartoum-one-womans-dramatic-flight-from-sudan)
+- [Why are London’s schools disappearing? | podcast](https://www.theguardian.com/news/audio/2023/apr/26/why-are-london-schools-disappearing-podcast)
+- [Grimes invites people to use her voice in AI songs](https://www.theguardian.com/music/2023/apr/26/grimes-invites-people-to-use-her-voice-in-ai-songs)
+- [Kenya ‘cult’ investigation widens as death toll reaches 90](https://www.theguardian.com/world/2023/apr/26/kenya-cult-investigation-widens-as-death-toll-reaches-90)
+- [‘Fear and shame’: jury hears opening arguments in Trump civil assault trial](https://www.theguardian.com/us-news/2023/apr/25/doanld-trump-e-jean-carroll-assault-trial-day-one)
+- [British American Tobacco to pay $635m over North Korea sanctions breaches](https://www.theguardian.com/world/2023/apr/26/british-american-tobacco-to-pay-635m-over-north-korea-sanctions-breaches)
+- [Chizuko Ueno: the Japanese writer stoking China’s feminist underground](https://www.theguardian.com/world/2023/apr/26/chizuko-ueno-the-japanese-writer-stoking-chinas-feminist-underground)
+- [Russia-Ukraine war at a glance: what we know on day 427 of the invasion](https://www.theguardian.com/world/2023/apr/26/russia-ukraine-war-at-a-glance-what-we-know-on-day-427-of-the-invasion)
+- [UK energy suppliers sitting on £7bn credit belonging to 16m households](https://www.theguardian.com/money/2023/apr/26/uk-energy-suppliers-sitting-on-7bn-credit-belonging-to-16m-households)
+- [Cuts in school trips in England hitting children in poorer areas hardest, shows poll](https://www.theguardian.com/education/2023/apr/26/cuts-in-school-trips-in-england-hitting-children-in-poorer-areas-hardest-shows-poll)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

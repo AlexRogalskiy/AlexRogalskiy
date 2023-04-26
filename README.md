@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
+- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [Amazon, Facebook, Twitter on EU list of companies facing DSA content rules](https://www.computerworld.com/article/3694571/amazon-facebook-twitter-on-eu-list-of-companies-facing-dsa-content-rules.html#tk.rss_all)
+- [Apple wins ‘resounding victory’ against Epic Games](https://www.computerworld.com/article/3694649/apple-wins-resounding-victory-against-epic-games.html#tk.rss_all)
+- [UK to spend $124 million on task force for secure AI](https://www.computerworld.com/article/3694511/uk-to-spend-124-million-on-task-force-for-secure-ai.html#tk.rss_all)
+- [Schools look to ban ChatGPT, students use it anyway](https://www.computerworld.com/article/3694195/schools-look-to-ban-chatgpt-students-use-it-anyway.html#tk.rss_all)
+- [How to preview and deploy Windows 10 and 11 updates](https://www.computerworld.com/article/3220429/how-to-preview-and-deploy-windows-10-and-11-updates.html#tk.rss_all)
+- [Another Microsoft 365 outage affects search functionality in services](https://www.computerworld.com/article/3694550/another-microsoft-365-outage-affects-search-functionality-in-services.html#tk.rss_all)
 - [Arm reportedly set to make prototype chip ahead of IPO](https://www.computerworld.com/article/3694451/arm-reportedly-set-to-make-prototype-chip-ahead-of-ipo.html#tk.rss_all)
-- [Kandji explains its new Endpoint Detection and Response tools](https://www.computerworld.com/article/3694448/kandji-explains-its-new-endpoint-detection-and-response-tools.html#tk.rss_all)
-- [IT staffers would help colleagues avoid monitoring software](https://www.computerworld.com/article/3694134/it-staffers-would-help-colleagues-avoid-monitoring-software.html#tk.rss_all)
-- [Google’s Bard AI to take on GitHub Copilot and Amazon CodeWhisperer](https://www.infoworld.com/article/3694158/google-s-bard-ai-to-take-on-github-copilot-and-amazon-codewhisperer.html#tk.rss_all)
-- [Why generative AI will turbocharge low-code and no-code development](https://www.infoworld.com/article/3694173/why-generative-ai-will-turbocharge-low-code-and-no-code-development.html#tk.rss_all)
-- [Jamf debuts sophisticated security protection for executive iPhones](https://www.computerworld.com/article/3694191/jamf-debuts-sophisticated-security-protection-for-executive-iphones.html#tk.rss_all)
-- [Do the productivity gains from generative AI outweigh the security risks?](https://www.computerworld.com/article/3694349/do-the-productivity-gains-from-generative-ai-outweigh-the-security-risks.html#tk.rss_all)
-- [Tech layoffs in 2023: A timeline](https://www.computerworld.com/article/3685936/tech-layoffs-in-2023-a-timeline.html#tk.rss_all)
-- [How to use Gmail labels to tame your inbox](https://www.computerworld.com/article/3445984/how-to-use-gmail-labels-to-tame-your-inbox.html#tk.rss_all)
-- [10 powerful tricks for your Google Pixel Calculator app](https://www.computerworld.com/article/3693870/google-pixel-calculator-app.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

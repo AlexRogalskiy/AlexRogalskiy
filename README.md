@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Android users in India may soon see a new alternative to Google Play Store](https://www.androidcentral.com/apps-software/phonepe-google-play-store-alternative-india)
-- [Online Detectives Have Raised $300M to Keep Lies from Triggering](https://www.bloomberg.com/news/articles/2023-04-24/alethea-graphika-are-using-ai-to-help-companies-fight-disinformation-online)
-- [Evaluation of risks associated with relying on Fortran for the next 15 years](https://permalink.lanl.gov/object/tr?what=info:lanl-repo/lareport/LA-UR-23-23992)
-- [How do you recover passkeys if you lose all your devices? &lpar;2022&rpar;](https://sixcolors.com/link/2022/06/how-do-you-recover-passkeys-if-you-lose-all-your-devices/)
-- [Ivy League Exodus](https://www.tabletmag.com/sections/arts-letters/articles/ivy-league-exodus)
-- [A Satellite Phone That Works Anywhere? The U.S.-China Rivalry Makes That Harder](https://www.wsj.com/articles/china-us-technology-satellite-phones-2fd2bb22)
-- [The “const” Deception](https://www.joshwcomeau.com/javascript/the-const-deception/)
-- [Coinbase sues SEC after months of silence from federal regulator](https://www.cnbc.com/2023/04/24/coinbase-sues-sec-after-months-of-silence-from-federal-regulator.html)
-- [3Dfx Voodoo 1 and 2 Glide Linux Driver and Other X.org Code Officially Retired](https://www.phoronix.com/news/X.Org-Retired-Packages-2023)
-- [AI helps keeping Gmail inboxes malware free [slides]](https://elie.net/talk/how-ai-helps-keeping-gmail-inboxes-malware-free/)
+- [Status Update on Ispace Hakuto-R Mission 1 Lunar Lander](https://ispace-inc.com/news-en/?p=4655)
+- [iOS 16 has hidden system to restrict specific feature based on user location](https://9to5mac.com/2023/04/25/ios-16-restrict-features-based-on-location/)
+- [Qrz.com is 30 years old](https://www.qrz.com/page/about.html)
+- [Fed Rethinks Loophole That Masked Losses on SVB’s Securities](https://www.wsj.com/articles/fed-rethinks-loophole-that-masked-losses-on-svbs-securities-4cc7f762)
+- [CodeCapybara: Code Writing LLaMa Finetuned on Deepmind Dataset](https://github.com/AI4Code-Research/CodeCapybara)
+- [Microsoft rewriting core Windows libraries in Rust [video]](https://www.youtube.com/watch?v=8T6ClX-y2AE)
+- [Staggering Tooth Magnification [video]](https://www.youtube.com/watch?v=t4RgBZlKlJI)
+- [Google Is All About Cost Control Now](https://www.wsj.com/articles/google-is-all-about-cost-control-now-ab6651a9)
+- [iOS 17 to Include Mood Tracker and AI-Based Health Coaching Service](https://www.macrumors.com/2023/04/25/ios-17-health-app-updates/)
+- [How to train a chatbot on customer service data?](https://news.ycombinator.com/item?id=35708920)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

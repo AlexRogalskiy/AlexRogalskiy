@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Escaping Khartoum: one woman’s dramatic flight from Sudan](https://www.theguardian.com/world/2023/apr/26/escaping-khartoum-one-womans-dramatic-flight-from-sudan)
-- [Why are London’s schools disappearing? | podcast](https://www.theguardian.com/news/audio/2023/apr/26/why-are-london-schools-disappearing-podcast)
-- [Grimes invites people to use her voice in AI songs](https://www.theguardian.com/music/2023/apr/26/grimes-invites-people-to-use-her-voice-in-ai-songs)
-- [Kenya ‘cult’ investigation widens as death toll reaches 90](https://www.theguardian.com/world/2023/apr/26/kenya-cult-investigation-widens-as-death-toll-reaches-90)
-- [‘Fear and shame’: jury hears opening arguments in Trump civil assault trial](https://www.theguardian.com/us-news/2023/apr/25/doanld-trump-e-jean-carroll-assault-trial-day-one)
-- [British American Tobacco to pay $635m over North Korea sanctions breaches](https://www.theguardian.com/world/2023/apr/26/british-american-tobacco-to-pay-635m-over-north-korea-sanctions-breaches)
-- [Chizuko Ueno: the Japanese writer stoking China’s feminist underground](https://www.theguardian.com/world/2023/apr/26/chizuko-ueno-the-japanese-writer-stoking-chinas-feminist-underground)
-- [Russia-Ukraine war at a glance: what we know on day 427 of the invasion](https://www.theguardian.com/world/2023/apr/26/russia-ukraine-war-at-a-glance-what-we-know-on-day-427-of-the-invasion)
-- [UK energy suppliers sitting on £7bn credit belonging to 16m households](https://www.theguardian.com/money/2023/apr/26/uk-energy-suppliers-sitting-on-7bn-credit-belonging-to-16m-households)
-- [Cuts in school trips in England hitting children in poorer areas hardest, shows poll](https://www.theguardian.com/education/2023/apr/26/cuts-in-school-trips-in-england-hitting-children-in-poorer-areas-hardest-shows-poll)
+- [Funding, forensics – and a fridge freezer? The investigation into the SNP](https://www.theguardian.com/news/audio/2023/apr/27/funding-forensics-and-a-fridge-freezer-the-investigation-into-the-snp)
+- [Montana Republicans bar transgender lawmaker from the statehouse floor](https://www.theguardian.com/us-news/2023/apr/26/zooey-zephyr-banned-montana-house-transgender-care)
+- [Elon Musk’s statements could be ‘deepfakes’, Tesla defence lawyers tell court](https://www.theguardian.com/technology/2023/apr/27/elon-musks-statements-could-be-deepfakes-tesla-defence-lawyers-tell-court)
+- [US House passes debt ceiling bill in tactical victory for Kevin McCarthy](https://www.theguardian.com/us-news/2023/apr/26/us-house-debt-ceiling-bill-passed-kevin-mccarthy)
+- [Meta reports surprisingly strong quarter one earnings after restructuring hiccups](https://www.theguardian.com/technology/2023/apr/26/meta-q1-earnings-report-2023)
+- [Bali influencer backlash intensifies as island cracks down on problem tourists](https://www.theguardian.com/world/2023/apr/27/bali-influencer-backlash-intensifies-as-island-cracks-down-on-problem-tourists)
+- [Russia-Ukraine war at a glance: what we know on day 428 of the invasion](https://www.theguardian.com/world/2023/apr/27/russia-ukraine-war-at-a-glance-what-we-know-on-day-428-of-the-invasion)
+- [Caernarfon Castle’s £5m revamp takes its story beyond English imperialism](https://www.theguardian.com/uk-news/2023/apr/27/caernarfon-castles-5m-revamp-takes-its-story-beyond-english-imperialism)
+- [Minister seeks to restore UK’s reputation on global development](https://www.theguardian.com/politics/2023/apr/27/minister-seeks-to-restore-uks-reputation-on-global-development)
+- [‘I’m going for it like crazy’: Eddie Izzard on her one-woman, 19-role Great Expectations](https://www.theguardian.com/stage/2023/apr/26/suzy-eddie-izzard-dickens-great-expectations-hamlet)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

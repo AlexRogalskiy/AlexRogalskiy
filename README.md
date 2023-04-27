@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Status Update on Ispace Hakuto-R Mission 1 Lunar Lander](https://ispace-inc.com/news-en/?p=4655)
-- [iOS 16 has hidden system to restrict specific feature based on user location](https://9to5mac.com/2023/04/25/ios-16-restrict-features-based-on-location/)
-- [Qrz.com is 30 years old](https://www.qrz.com/page/about.html)
-- [Fed Rethinks Loophole That Masked Losses on SVB’s Securities](https://www.wsj.com/articles/fed-rethinks-loophole-that-masked-losses-on-svbs-securities-4cc7f762)
-- [CodeCapybara: Code Writing LLaMa Finetuned on Deepmind Dataset](https://github.com/AI4Code-Research/CodeCapybara)
-- [Microsoft rewriting core Windows libraries in Rust [video]](https://www.youtube.com/watch?v=8T6ClX-y2AE)
-- [Staggering Tooth Magnification [video]](https://www.youtube.com/watch?v=t4RgBZlKlJI)
-- [Google Is All About Cost Control Now](https://www.wsj.com/articles/google-is-all-about-cost-control-now-ab6651a9)
-- [iOS 17 to Include Mood Tracker and AI-Based Health Coaching Service](https://www.macrumors.com/2023/04/25/ios-17-health-app-updates/)
-- [How to train a chatbot on customer service data?](https://news.ycombinator.com/item?id=35708920)
+- [Michael Stonebraker – DBOS: A Database-Oriented Operating System](https://www.youtube.com/watch?v=eB4bJqDzsU8)
+- [Phone Link for iOS is now rolling out to all Windows 11 customers](https://blogs.windows.com/windowsexperience/2023/04/26/phone-link-for-ios-is-now-rolling-out-to-all-windows-11-customers/)
+- [Structure and Interpretation of Flutter](https://wingolog.org/archives/2023/04/26/structure-and-interpretation-of-flutter)
+- [Using ChatGPT with Private Data](https://twitter.com/girlbossintech/status/1651319070380244992)
+- [A.I. cannot treat mental illness](https://psychologyonions.substack.com/p/an-open-letter-to-dr-dhruv-khullar)
+- [Section 31 and the Normalization of the Security State](https://www.tor.com/2023/04/26/a-critical-division-of-starfleet-intelligence-section-31-and-the-normalization-of-the-security-state/)
+- [Ask HN: Is the remote work tide receding?](https://news.ycombinator.com/item?id=35722455)
+- [Microsoft 365 apps are moving to the cloud.microsoft domain](https://www.theverge.com/2023/4/26/23699573/microsoft-365-apps-unifed-cloud-domain)
+- [The World According to Tucker Carlson](https://www.newyorker.com/news/daily-comment/the-world-according-to-tucker-carlson)
+- [The Next Generation in Graphics, Part 1: Three Dimensions in Software](https://www.filfre.net/2023/04/the-next-generation-in-graphics-part-1-three-dimensions-in-software-or-quake-and-its-discontents/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

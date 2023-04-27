@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
-- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
-- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [Amazon, Facebook, Twitter on EU list of companies facing DSA content rules](https://www.computerworld.com/article/3694571/amazon-facebook-twitter-on-eu-list-of-companies-facing-dsa-content-rules.html#tk.rss_all)
-- [Apple wins ‘resounding victory’ against Epic Games](https://www.computerworld.com/article/3694649/apple-wins-resounding-victory-against-epic-games.html#tk.rss_all)
-- [UK to spend $124 million on task force for secure AI](https://www.computerworld.com/article/3694511/uk-to-spend-124-million-on-task-force-for-secure-ai.html#tk.rss_all)
-- [Schools look to ban ChatGPT, students use it anyway](https://www.computerworld.com/article/3694195/schools-look-to-ban-chatgpt-students-use-it-anyway.html#tk.rss_all)
-- [How to preview and deploy Windows 10 and 11 updates](https://www.computerworld.com/article/3220429/how-to-preview-and-deploy-windows-10-and-11-updates.html#tk.rss_all)
-- [Another Microsoft 365 outage affects search functionality in services](https://www.computerworld.com/article/3694550/another-microsoft-365-outage-affects-search-functionality-in-services.html#tk.rss_all)
-- [Arm reportedly set to make prototype chip ahead of IPO](https://www.computerworld.com/article/3694451/arm-reportedly-set-to-make-prototype-chip-ahead-of-ipo.html#tk.rss_all)
+- [Janco: IT managers earn more than other top execs](https://www.computerworld.com/article/3694868/janco-it-managers-earn-more-than-other-top-execs.html#tk.rss_all)
+- [ChatGPT learns to forget: OpenAI implements data privacy controls](https://www.computerworld.com/article/3694652/chatgpt-learns-to-forget-openai-implements-data-privacy-controls.html#tk.rss_all)
+- [Apple wants to be the platform of choice for small business](https://www.computerworld.com/article/3694593/apple-wants-to-be-the-platform-of-choice-for-small-business.html#tk.rss_all)
+- [With Canvas, Slack promises teams an easier way to share information](https://www.computerworld.com/article/3694592/with-canvas-slack-promises-teams-an-easier-way-to-share-information.html#tk.rss_all)
+- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
+- [Jamf expands Apple device management and security suite](https://www.computerworld.com/article/3694615/jamf-expands-apple-device-management-and-security-suite.html#tk.rss_all)
+- [UK regulators block Microsoft’s acquisition of Activision Blizzard](https://www.computerworld.com/article/3694651/uk-regulators-block-microsofts-acquisition-of-activision-blizzard.html#tk.rss_all)
+- [7 handy hidden Android features you probably forget to use](https://www.computerworld.com/article/3250847/hidden-android-features.html#tk.rss_all)
+- [Microsoft bets on cloud growth as it continues to battle PC sales slump](https://www.computerworld.com/article/3694514/microsoft-bets-on-cloud-growth-as-it-continues-to-battle-pc-sales-slump.html#tk.rss_all)
+- [Here’s how Microsoft plans to reap billions from AI](https://www.computerworld.com/article/3694091/here-s-how-microsoft-plans-to-reap-billions-from-ai.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

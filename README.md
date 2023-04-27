@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [BYD says self-driving tech is more valuable in factories than cars](https://www.cnbc.com/2023/04/19/chinese-ev-giant-byd-self-driving-tech-better-for-factories-than-cars.html)
-- [My Life with the Penguins](https://nautil.us/my-life-with-the-penguins-298047/)
-- [GPS, UTC and TAI Clocks &lpar;2001&rpar;](http://www.leapsecond.com/java/gpsclock.htm)
-- [Why do prime numbers make these spirals? &lpar;2019&rpar;](https://www.3blue1brown.com/lessons/prime-spirals)
-- [You could have invented futexes](https://tavianator.com/2023/futex.html)
-- [It doesn’t take much to make machine-learning algorithms go awry](https://www.economist.com/science-and-technology/2023/04/05/it-doesnt-take-much-to-make-machine-learning-algorithms-go-awry)
-- [Mrs Whitcher and the Renegade Numbers &lpar;2017&rpar;](https://www.lastwordonnothing.com/2017/04/24/mrs-whitcher-and-the-renegade-numbers/)
-- [We glued together content moderation to stop soccer pirates](https://www.mux.com/blog/how-content-moderation-rescued-750k-in-unpaid-invoices-from-soccer-pirates)
-- [Show HN: Preview environments for projects that do not use K8s&amp;#x2F;Docker](https://codepreview.io/)
-- [Compressing Hegel &lpar;2020&rpar;](https://wittgenfine.substack.com/p/compressing-hegel)
+- [Mark Zuckerberg says Meta wants to ‘introduce AI agents to billions of people’](https://www.theverge.com/2023/4/26/23699633/mark-zuckerberg-meta-generative-ai-chatbots-instagram-facebook-whatsapp)
+- [Forbes 30 Under 30 Mocked: Incredible Track Record of Fraud](https://nypost.com/2023/04/05/forbes-mocked-as-another-30-under-30-honoree-accused-of-fraud-incredible-track-record/)
+- [Numeral Systems of the World&amp;#x27;s Languages](https://lingweb.eva.mpg.de/channumerals/)
+- [Google contractors vote to unionize in historic landslide election](https://www.sfgate.com/tech/article/google-contractors-vote-to-unionize-17920684.php)
+- [Automakers are starting to admit that drivers hate touchscreens](https://slate.com/business/2023/04/cars-buttons-touchscreens-vw-porsche-nissan-hyundai.html)
+- [DeepDoctection: Document extraction and analysis using deep learning models](https://github.com/deepdoctection/deepdoctection)
+- [Compound &lpar;YC S19&rpar; is hiring to build a modern wealth manager](https://withcompound.com/company/about)
+- [Building the Pocket CO2 Project](https://bitbanksoftware.blogspot.com/2023/04/building-pocket-co2-project.html)
+- [Linen.dev: A 500 kb Slack alternative](https://www.linen.dev/s/linen/t/10511167/linen-dev-the-500kb-slack-alternative)
+- [DeepFloyd IF: open-source text-to-image model](https://github.com/deep-floyd/IF)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

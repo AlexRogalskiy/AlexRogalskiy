@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Michael Stonebraker – DBOS: A Database-Oriented Operating System](https://www.youtube.com/watch?v=eB4bJqDzsU8)
-- [Phone Link for iOS is now rolling out to all Windows 11 customers](https://blogs.windows.com/windowsexperience/2023/04/26/phone-link-for-ios-is-now-rolling-out-to-all-windows-11-customers/)
-- [Structure and Interpretation of Flutter](https://wingolog.org/archives/2023/04/26/structure-and-interpretation-of-flutter)
-- [Using ChatGPT with Private Data](https://twitter.com/girlbossintech/status/1651319070380244992)
-- [A.I. cannot treat mental illness](https://psychologyonions.substack.com/p/an-open-letter-to-dr-dhruv-khullar)
-- [Section 31 and the Normalization of the Security State](https://www.tor.com/2023/04/26/a-critical-division-of-starfleet-intelligence-section-31-and-the-normalization-of-the-security-state/)
-- [Ask HN: Is the remote work tide receding?](https://news.ycombinator.com/item?id=35722455)
-- [Microsoft 365 apps are moving to the cloud.microsoft domain](https://www.theverge.com/2023/4/26/23699573/microsoft-365-apps-unifed-cloud-domain)
-- [The World According to Tucker Carlson](https://www.newyorker.com/news/daily-comment/the-world-according-to-tucker-carlson)
-- [The Next Generation in Graphics, Part 1: Three Dimensions in Software](https://www.filfre.net/2023/04/the-next-generation-in-graphics-part-1-three-dimensions-in-software-or-quake-and-its-discontents/)
+- [The self-supervised learning cookbook](https://ai.facebook.com/blog/self-supervised-learning-practical-guide/)
+- [Many Public Salesforce Sites Are Leaking Private Data](https://krebsonsecurity.com/2023/04/many-public-salesforce-sites-are-leaking-private-data/)
+- [How to Land on a Planet Safely](https://publishing.aip.org/publications/latest-content/how-to-land-on-a-planet-safely/)
+- [Woman whose accusation led to the lynching of Emmett Till has died at 88, corone](https://www.cnn.com/2023/04/27/us/carolyn-bryant-donham-emmett-till/index.html)
+- [Show HN: Data and Financial Analysis and Forecasting via Natural Language](https://www.openos.tools/)
+- [Hot Chat 3000](https://hotchat3000.com/)
+- [Development and Evaluation of a Low-Cost Lego 3D Bioprinter](https://onlinelibrary.wiley.com/doi/10.1002/admt.202100868)
+- [DOS/DDoS Protection Solution for Everyone Else;First-of-Its-Kind Pay-What-U-Can](https://blackmirrorfirewall.com/pay-what-you-can/)
+- [Raw milk nearly killed infant](https://arstechnica.com/science/2023/04/raw-milk-from-farm-with-no-electricity-sparks-outbreak-that-nearly-killed-baby/)
+- [The Russian Woodpecker](https://archive.org/details/russianwoodpecker2015)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

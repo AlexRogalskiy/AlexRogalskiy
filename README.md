@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Mark Zuckerberg says Meta wants to ‘introduce AI agents to billions of people’](https://www.theverge.com/2023/4/26/23699633/mark-zuckerberg-meta-generative-ai-chatbots-instagram-facebook-whatsapp)
-- [Forbes 30 Under 30 Mocked: Incredible Track Record of Fraud](https://nypost.com/2023/04/05/forbes-mocked-as-another-30-under-30-honoree-accused-of-fraud-incredible-track-record/)
-- [Numeral Systems of the World&amp;#x27;s Languages](https://lingweb.eva.mpg.de/channumerals/)
-- [Google contractors vote to unionize in historic landslide election](https://www.sfgate.com/tech/article/google-contractors-vote-to-unionize-17920684.php)
-- [Automakers are starting to admit that drivers hate touchscreens](https://slate.com/business/2023/04/cars-buttons-touchscreens-vw-porsche-nissan-hyundai.html)
-- [DeepDoctection: Document extraction and analysis using deep learning models](https://github.com/deepdoctection/deepdoctection)
-- [Compound &lpar;YC S19&rpar; is hiring to build a modern wealth manager](https://withcompound.com/company/about)
-- [Building the Pocket CO2 Project](https://bitbanksoftware.blogspot.com/2023/04/building-pocket-co2-project.html)
-- [Linen.dev: A 500 kb Slack alternative](https://www.linen.dev/s/linen/t/10511167/linen-dev-the-500kb-slack-alternative)
-- [DeepFloyd IF: open-source text-to-image model](https://github.com/deep-floyd/IF)
+- [Europe to ChatGPT: disclose your sources](https://www.wsj.com/articles/europe-to-chatgpt-disclose-your-sources-863ef330)
+- [Microsoft is busy rewriting core Windows library code in memory-safe Rust](https://www.theregister.com/2023/04/27/microsoft_windows_rust/)
+- [LLM with Planning](https://arxiv.org/abs/2304.11477)
+- [Home Assistant’s Year of the Voice – Chapter 2](https://www.home-assistant.io/blog/2023/04/27/year-of-the-voice-chapter-2/)
+- [Harvey AI raises $21M in a Series A round led by Sequoia](https://www.lawnext.com/2023/04/harvey-ai-raises-21m-in-a-series-a-round-led-by-sequoia.html)
+- [Current architectural best practices for LLM applications](https://mattboegner.com/knowledge-retrieval-architecture-for-llms/)
+- [Firezone &lpar;YC W22&rpar; is hiring Rust systems engineers &lpar;SF &amp;#x2F; US remote&rpar;](https://www.ycombinator.com/companies/firezone/jobs/entppUR-senior-backend-systems-engineer)
+- [XTDB 2.x Early Access](https://www.xtdb.com/v2)
+- [NormCap: OCR powered screen-capture tool](https://github.com/dynobo/normcap)
+- [New nanoparticles can perform gene editing in the lungs](https://news.mit.edu/2023/new-nanoparticles-can-perform-gene-editing-lungs-0330)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

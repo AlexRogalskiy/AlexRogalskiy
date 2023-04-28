@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Funding, forensics – and a fridge freezer? The investigation into the SNP](https://www.theguardian.com/news/audio/2023/apr/27/funding-forensics-and-a-fridge-freezer-the-investigation-into-the-snp)
-- [Montana Republicans bar transgender lawmaker from the statehouse floor](https://www.theguardian.com/us-news/2023/apr/26/zooey-zephyr-banned-montana-house-transgender-care)
-- [Elon Musk’s statements could be ‘deepfakes’, Tesla defence lawyers tell court](https://www.theguardian.com/technology/2023/apr/27/elon-musks-statements-could-be-deepfakes-tesla-defence-lawyers-tell-court)
-- [US House passes debt ceiling bill in tactical victory for Kevin McCarthy](https://www.theguardian.com/us-news/2023/apr/26/us-house-debt-ceiling-bill-passed-kevin-mccarthy)
-- [Meta reports surprisingly strong quarter one earnings after restructuring hiccups](https://www.theguardian.com/technology/2023/apr/26/meta-q1-earnings-report-2023)
-- [Bali influencer backlash intensifies as island cracks down on problem tourists](https://www.theguardian.com/world/2023/apr/27/bali-influencer-backlash-intensifies-as-island-cracks-down-on-problem-tourists)
-- [Russia-Ukraine war at a glance: what we know on day 428 of the invasion](https://www.theguardian.com/world/2023/apr/27/russia-ukraine-war-at-a-glance-what-we-know-on-day-428-of-the-invasion)
-- [Caernarfon Castle’s £5m revamp takes its story beyond English imperialism](https://www.theguardian.com/uk-news/2023/apr/27/caernarfon-castles-5m-revamp-takes-its-story-beyond-english-imperialism)
-- [Minister seeks to restore UK’s reputation on global development](https://www.theguardian.com/politics/2023/apr/27/minister-seeks-to-restore-uks-reputation-on-global-development)
-- [‘I’m going for it like crazy’: Eddie Izzard on her one-woman, 19-role Great Expectations](https://www.theguardian.com/stage/2023/apr/26/suzy-eddie-izzard-dickens-great-expectations-hamlet)
+- [2023 NFL draft live updates: Panthers select Bryce Young with No 1 overall pick](https://www.theguardian.com/sport/live/2023/apr/27/nfl-draft-picks-first-round-order-live-tracker)
+- [Russia-Ukraine war live: air raid sirens sound in Kyiv and across Ukraine](https://www.theguardian.com/world/live/2023/apr/28/russia-ukraine-war-live-air-raid-sirens-sound-in-kyiv-and-across-ukraine)
+- [Malign actors could ‘hyper-charge’ Sudan conflict, say ex-envoys](https://www.theguardian.com/world/2023/apr/28/malign-actors-could-hyper-charge-sudan-conflict-say-ex-envoys)
+- [Prince Harry and the return of the phone hacking scandal – podcast](https://www.theguardian.com/news/audio/2023/apr/28/prince-harry-and-the-return-of-the-phone-hacking-scandal-podcast)
+- [Ed Sheeran sings in court as part of Marvin Gaye plagiarism case](https://www.theguardian.com/music/2023/apr/28/ed-sheeran-sings-in-court-as-part-of-marvin-gaye-plagiarism-case)
+- [Debris blast from SpaceX rocket launch faces environmental scrutiny](https://www.theguardian.com/science/2023/apr/27/debris-blast-from-spacex-rocket-explosion-faces-environmental-scrutiny)
+- [Cleopatra was light-skinned, Egypt tells Netflix in row over drama](https://www.theguardian.com/tv-and-radio/2023/apr/28/cleopatra-was-light-skinned-egypt-tells-netflix-in-row-over-drama)
+- [Mike Pence testifies to grand jury about Donald Trump and January 6](https://www.theguardian.com/us-news/2023/apr/27/mike-pence-testifies-donald-trump-january-6)
+- [Kansas enacts most sweeping transgender bathroom law in the US](https://www.theguardian.com/us-news/2023/apr/27/kansas-transgender-bathroom-law)
+- [BBC chair Richard Sharp braced for potentially damning report on his appointment](https://www.theguardian.com/media/2023/apr/27/bbc-chair-richard-sharp-braced-for-potentially-damning-report-into-his-appointment)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

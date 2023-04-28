@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [6 more out-of-sight Android features worth finding](https://www.computerworld.com/article/3694609/google-android-features.html#tk.rss_all)
+- [Dropbox lays off 16% of staff to refocus on AI, as sales growth slows](https://www.computerworld.com/article/3694929/dropbox-lays-off-16-of-staff-to-refocus-on-ai-as-sales-growth-slows.html#tk.rss_all)
+- [UK expected to offer $1.25 billion for nation&#39;s semiconductor industry](https://www.computerworld.com/article/3694930/uk-expected-to-offer-125-billion-for-nations-semiconductor-industry.html#tk.rss_all)
+- [Apple&#39;s inexorable plan to replace retail banking](https://www.computerworld.com/article/3694928/apples-inexorable-plan-to-replace-retail-banking.html#tk.rss_all)
+- [How to pick the best content services platform for your business](https://www.computerworld.com/article/3692637/how-to-pick-the-best-content-services-platform-for-your-business.html#tk.rss_all)
+- [Bosch to acquire TSI Semiconductor, invest $1.5 B post acquisition](https://www.networkworld.com/article/3694890/bosch-to-acquire-tsi-semiconductor-invest-1-5-b-post-acquisition.html#tk.rss_all)
 - [Janco: IT managers earn more than other top execs](https://www.computerworld.com/article/3694868/janco-it-managers-earn-more-than-other-top-execs.html#tk.rss_all)
 - [ChatGPT learns to forget: OpenAI implements data privacy controls](https://www.computerworld.com/article/3694652/chatgpt-learns-to-forget-openai-implements-data-privacy-controls.html#tk.rss_all)
 - [Apple wants to be the platform of choice for small business](https://www.computerworld.com/article/3694593/apple-wants-to-be-the-platform-of-choice-for-small-business.html#tk.rss_all)
 - [With Canvas, Slack promises teams an easier way to share information](https://www.computerworld.com/article/3694592/with-canvas-slack-promises-teams-an-easier-way-to-share-information.html#tk.rss_all)
-- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
-- [Jamf expands Apple device management and security suite](https://www.computerworld.com/article/3694615/jamf-expands-apple-device-management-and-security-suite.html#tk.rss_all)
-- [UK regulators block Microsoft’s acquisition of Activision Blizzard](https://www.computerworld.com/article/3694651/uk-regulators-block-microsofts-acquisition-of-activision-blizzard.html#tk.rss_all)
-- [7 handy hidden Android features you probably forget to use](https://www.computerworld.com/article/3250847/hidden-android-features.html#tk.rss_all)
-- [Microsoft bets on cloud growth as it continues to battle PC sales slump](https://www.computerworld.com/article/3694514/microsoft-bets-on-cloud-growth-as-it-continues-to-battle-pc-sales-slump.html#tk.rss_all)
-- [Here’s how Microsoft plans to reap billions from AI](https://www.computerworld.com/article/3694091/here-s-how-microsoft-plans-to-reap-billions-from-ai.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

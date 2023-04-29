@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Europe to ChatGPT: disclose your sources](https://www.wsj.com/articles/europe-to-chatgpt-disclose-your-sources-863ef330)
-- [Microsoft is busy rewriting core Windows library code in memory-safe Rust](https://www.theregister.com/2023/04/27/microsoft_windows_rust/)
-- [LLM with Planning](https://arxiv.org/abs/2304.11477)
-- [Home Assistant’s Year of the Voice – Chapter 2](https://www.home-assistant.io/blog/2023/04/27/year-of-the-voice-chapter-2/)
-- [Harvey AI raises $21M in a Series A round led by Sequoia](https://www.lawnext.com/2023/04/harvey-ai-raises-21m-in-a-series-a-round-led-by-sequoia.html)
-- [Current architectural best practices for LLM applications](https://mattboegner.com/knowledge-retrieval-architecture-for-llms/)
-- [Firezone &lpar;YC W22&rpar; is hiring Rust systems engineers &lpar;SF &amp;#x2F; US remote&rpar;](https://www.ycombinator.com/companies/firezone/jobs/entppUR-senior-backend-systems-engineer)
-- [XTDB 2.x Early Access](https://www.xtdb.com/v2)
-- [NormCap: OCR powered screen-capture tool](https://github.com/dynobo/normcap)
-- [New nanoparticles can perform gene editing in the lungs](https://news.mit.edu/2023/new-nanoparticles-can-perform-gene-editing-lungs-0330)
+- [Scrcpy: Display and control your Android devices connected over USB or TCP&amp;#x2F;IP](https://github.com/Genymobile/scrcpy)
+- [Live Starlink Satellite and Coverage Map](https://satellitemap.space/)
+- [California approves rule phasing out big diesel trucks and buses in 2036](https://abcnews.go.com/US/wireStory/california-approves-rule-phasing-big-diesel-trucks-98949919)
+- [Apple Drops Suit Against Ex-Chip Exec Williams Who Started Nuvia](https://www.bloomberg.com/news/articles/2023-04-29/apple-drops-suit-against-ex-chip-exec-williams-who-started-nuvia)
+- [Parrondo&amp;#x27;s Paradox](https://en.wikipedia.org/wiki/Parrondo%27s_paradox)
+- [JanOS: Turn your phone into an IoT board &lpar;2015&rpar;](http://janos.io/)
+- [Genetic circuitry boosts cell longevity](https://www.science.org/doi/10.1126/science.adh4872)
+- [Junk drawer phone as a music streaming server](https://davidhampgonsalves.com/junk-drawer-phone-as-a-music-streaming-server/)
+- [Svix &lpar;YC W21&rpar; Is Hiring Rust Back End Engineers &lpar;US Remote&rpar;](https://www.svix.com/careers/)
+- [U.S. regulator set to take over First Republic](https://www.reuters.com/business/finance/us-regulator-set-take-over-first-republic-source-2023-04-28/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

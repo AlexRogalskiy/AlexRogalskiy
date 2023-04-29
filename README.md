@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The self-supervised learning cookbook](https://ai.facebook.com/blog/self-supervised-learning-practical-guide/)
-- [Many Public Salesforce Sites Are Leaking Private Data](https://krebsonsecurity.com/2023/04/many-public-salesforce-sites-are-leaking-private-data/)
-- [How to Land on a Planet Safely](https://publishing.aip.org/publications/latest-content/how-to-land-on-a-planet-safely/)
-- [Woman whose accusation led to the lynching of Emmett Till has died at 88, corone](https://www.cnn.com/2023/04/27/us/carolyn-bryant-donham-emmett-till/index.html)
-- [Show HN: Data and Financial Analysis and Forecasting via Natural Language](https://www.openos.tools/)
-- [Hot Chat 3000](https://hotchat3000.com/)
-- [Development and Evaluation of a Low-Cost Lego 3D Bioprinter](https://onlinelibrary.wiley.com/doi/10.1002/admt.202100868)
-- [DOS/DDoS Protection Solution for Everyone Else;First-of-Its-Kind Pay-What-U-Can](https://blackmirrorfirewall.com/pay-what-you-can/)
-- [Raw milk nearly killed infant](https://arstechnica.com/science/2023/04/raw-milk-from-farm-with-no-electricity-sparks-outbreak-that-nearly-killed-baby/)
-- [The Russian Woodpecker](https://archive.org/details/russianwoodpecker2015)
+- [Nanowire networks learn and remember like a human brain](https://www.sciencedaily.com/releases/2023/04/230421195040.htm)
+- [A Brief History of Secret Communication Methods](https://thereader.mitpress.mit.edu/a-brief-history-of-secret-communication-methods/)
+- [Connecting with Scott Base in Antarctica now easier after Starlink installed](https://www.newshub.co.nz/home/world/2023/04/connecting-with-new-zealand-s-scott-base-in-antarctica-now-easier-after-starlink-installed.html)
+- [Automatic copy-trading for Robinhood, Ameritrade, Webull](http://www.rocketstreets.com)
+- [Show HN: Roast or Toast – Social Feedback Web App](https://roastortoast.me/)
+- [New DeepFloyd generative model excels at text reconstruction](https://twitter.com/Nymarius_/status/1652134518524985344)
+- [India to pass China this week as most populous nation](https://www.japantimes.co.jp/news/2023/04/25/world/india-china-most-populous-nation/)
+- [Old smartphones should be usable as single board computers, just like this one](https://arstechnica.com/gadgets/2023/04/old-phones-can-be-single-board-computers-as-this-mini-music-server-proves/)
+- [Scrcpy: Display and control your Android devices connected over USB or TCP/IP](https://github.com/Genymobile/scrcpy)
+- [Majority of Canadians who don’t own a home have ‘given up’: poll](https://globalnews.ca/news/9601779/canada-housing-affordability-2023-given-up/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

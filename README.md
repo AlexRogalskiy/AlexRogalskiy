@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [For Windows 10, 22H2 is the end of the road](https://www.computerworld.com/article/3695068/for-windows-10-22h2-is-the-end-of-the-road.html#tk.rss_all)
+- [EU closes in on AI Act with last-minute ChatGPT-related adjustments](https://www.computerworld.com/article/3695009/eu-closes-in-on-ai-act-with-last-minute-chatgpt-related-adjustments.html#tk.rss_all)
+- [Biamp’s Parlé, and the need to design a better remote conference room](https://www.computerworld.com/article/3695011/biamps-parle-and-the-need-to-design-a-better-remote-conference-room.html#tk.rss_all)
+- [Tech layoffs in 2023: A timeline](https://www.computerworld.com/article/3685936/tech-layoffs-in-2023-a-timeline.html#tk.rss_all)
+- [Google Sheets power tips: How to use dropdown lists](https://www.computerworld.com/article/3677859/google-sheets-how-to-use-dropdown-lists.html#tk.rss_all)
 - [6 more out-of-sight Android features worth finding](https://www.computerworld.com/article/3694609/google-android-features.html#tk.rss_all)
 - [Dropbox lays off 16% of staff to refocus on AI, as sales growth slows](https://www.computerworld.com/article/3694929/dropbox-lays-off-16-of-staff-to-refocus-on-ai-as-sales-growth-slows.html#tk.rss_all)
 - [UK expected to offer $1.25 billion for nation&#39;s semiconductor industry](https://www.computerworld.com/article/3694930/uk-expected-to-offer-125-billion-for-nations-semiconductor-industry.html#tk.rss_all)
 - [Apple&#39;s inexorable plan to replace retail banking](https://www.computerworld.com/article/3694928/apples-inexorable-plan-to-replace-retail-banking.html#tk.rss_all)
 - [How to pick the best content services platform for your business](https://www.computerworld.com/article/3692637/how-to-pick-the-best-content-services-platform-for-your-business.html#tk.rss_all)
-- [Bosch to acquire TSI Semiconductor, invest $1.5 B post acquisition](https://www.networkworld.com/article/3694890/bosch-to-acquire-tsi-semiconductor-invest-1-5-b-post-acquisition.html#tk.rss_all)
-- [Janco: IT managers earn more than other top execs](https://www.computerworld.com/article/3694868/janco-it-managers-earn-more-than-other-top-execs.html#tk.rss_all)
-- [ChatGPT learns to forget: OpenAI implements data privacy controls](https://www.computerworld.com/article/3694652/chatgpt-learns-to-forget-openai-implements-data-privacy-controls.html#tk.rss_all)
-- [Apple wants to be the platform of choice for small business](https://www.computerworld.com/article/3694593/apple-wants-to-be-the-platform-of-choice-for-small-business.html#tk.rss_all)
-- [With Canvas, Slack promises teams an easier way to share information](https://www.computerworld.com/article/3694592/with-canvas-slack-promises-teams-an-easier-way-to-share-information.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

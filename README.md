@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [‘Publishing these books is a risk’: Taiwan’s booksellers stand up for democracy](https://www.theguardian.com/world/2023/apr/29/taiwan-booksellers-stand-up-for-democracy-china-censorship)
-- [North Korea: Kim Jong-un sister says Joe Biden is ‘in his dotage’ as she criticises nuclear pact](https://www.theguardian.com/world/2023/apr/29/north-korea-kim-jong-un-sister-says-joe-biden-is-in-his-dotage-as-she-criticises-nuclear-pact)
-- [Sensitive files about Royal Navy submarine reportedly found in pub toilet](https://www.theguardian.com/uk-news/2023/apr/29/sensitive-files-about-royal-navy-submarine-reportedly-found-in-pub-toilet)
-- [Colorado passes four gun control bills as state reckons with gun violence history](https://www.theguardian.com/us-news/2023/apr/28/colorado-gun-control-bills-violence-history)
-- [Kindness should be at the heart of Christian teaching – including towards LGBTQ+ students | Matthew Bach](https://www.theguardian.com/commentisfree/2023/apr/29/kindness-should-be-at-the-heart-of-christian-teaching-including-towards-lgbtq-students)
-- [Dream dinner party guests: Obama, Springsteen and Spielberg delight Barcelona restaurant staff](https://www.theguardian.com/world/2023/apr/28/dream-dinner-party-guests-obama-springsteen-and-spielberg-delight-barcelona-restaurant-staff)
-- [Borussia Dortmund’s Bundesliga hopes hit by draw against struggling Bochum](https://www.theguardian.com/football/2023/apr/28/bundesliga-borussia-dortmund-bochum-bayern-munich-italy-napoli-vesuvius-serie-a)
-- [Luca Brecel fights back against Si Jiahui in thrilling Crucible semi-final](https://www.theguardian.com/sport/2023/apr/28/luca-brecel-fights-back-against-si-jiahui-in-thrilling-crucible-semi-final)
-- [Sheikh Jassim and Sir Jim Ratcliffe lodge final Manchester United bids](https://www.theguardian.com/football/2023/apr/28/sheikh-jassim-manchester-united-bid-glazers-ratcliffe)
-- [Unseen Gabriel García Márquez novel to be published next year](https://www.theguardian.com/books/2023/apr/28/gabriel-garcia-marquez-unseen-novel-en-agosto-nos-vemos)
+- [Queensland fisher missing after suspected crocodile attack](https://www.theguardian.com/environment/2023/apr/30/queensland-fisher-missing-after-suspected-crocodile-attack)
+- [Russia-Ukraine war at a glance: what we know on day 431 of the invasion](https://www.theguardian.com/world/2023/apr/30/russia-ukraine-war-at-a-glance-what-we-know-on-day-431-of-the-invasion)
+- [Comeback king Brecel to face Selby in final after Allen charge falls just short](https://www.theguardian.com/sport/2023/apr/29/brecel-seals-world-snooker-final-spot-after-greatest-ever-crucible-comeback)
+- [From a Himalayan kingdom to western Sydney: one man’s journey against his own victimhood](https://www.theguardian.com/books/2023/apr/30/from-a-himalayan-kingdom-to-western-sydney-one-mans-journey-against-his-own-victimhood)
+- [TV tonight: Frankie Boyle’s fist-bitingly funny swipe at the royal family](https://www.theguardian.com/tv-and-radio/2023/apr/30/tv-tonight-frankie-boyles-fist-bitingly-funny-swipe-at-the-royal-family)
+- [What to pack for a stylish bank holiday weekend - in pictures](https://www.theguardian.com/fashion/gallery/2023/apr/29/what-to-pack-for-a-stylish-bank-holiday-weekend-in-pictures)
+- [‘I’ll be bolder than Blair on public service reform,’ says Keir Starmer](https://www.theguardian.com/politics/2023/apr/29/keir-starmer-bolder-blair-labour-leader-government)
+- [Cody Gakpo and Liverpool need to use momentum going into vital summer](https://www.theguardian.com/football/2023/apr/29/cody-gakpo--liverpool-premier-league-tottenham-momentum)
+- [Public invited to swear their allegiance as king is crowned](https://www.theguardian.com/uk-news/2023/apr/29/public-invited-to-swear-their-allegiance-as-king-is-crowned)
+- [La Rochelle’s Uini Atonio: ‘Ronan O’Gara was the key piece we needed’](https://www.theguardian.com/sport/2023/apr/29/uini-atonio-la-rochelle-exeter-champons-cup)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

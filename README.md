@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Nanowire networks learn and remember like a human brain](https://www.sciencedaily.com/releases/2023/04/230421195040.htm)
-- [A Brief History of Secret Communication Methods](https://thereader.mitpress.mit.edu/a-brief-history-of-secret-communication-methods/)
-- [Connecting with Scott Base in Antarctica now easier after Starlink installed](https://www.newshub.co.nz/home/world/2023/04/connecting-with-new-zealand-s-scott-base-in-antarctica-now-easier-after-starlink-installed.html)
-- [Automatic copy-trading for Robinhood, Ameritrade, Webull](http://www.rocketstreets.com)
-- [Show HN: Roast or Toast – Social Feedback Web App](https://roastortoast.me/)
-- [New DeepFloyd generative model excels at text reconstruction](https://twitter.com/Nymarius_/status/1652134518524985344)
-- [India to pass China this week as most populous nation](https://www.japantimes.co.jp/news/2023/04/25/world/india-china-most-populous-nation/)
-- [Old smartphones should be usable as single board computers, just like this one](https://arstechnica.com/gadgets/2023/04/old-phones-can-be-single-board-computers-as-this-mini-music-server-proves/)
-- [Scrcpy: Display and control your Android devices connected over USB or TCP/IP](https://github.com/Genymobile/scrcpy)
-- [Majority of Canadians who don’t own a home have ‘given up’: poll](https://globalnews.ca/news/9601779/canada-housing-affordability-2023-given-up/)
+- [Titans Anonymous &lpar;2020&rpar;](https://qualiacomputing.com/2020/10/22/titans-anonymous/)
+- [Nix-on-droid: Nix-enabled environment for your Android device &lpar;termux-based&rpar;](https://github.com/t184256/nix-on-droid)
+- [It’s the end of the line for yearly Windows 10 updates, says Microsoft](https://arstechnica.com/gadgets/2023/04/its-the-end-of-the-line-for-yearly-windows-10-updates-says-microsoft/)
+- [The secretary who helped uncover one of America’s strangest Ponzi schemes](https://thehustle.co/the-secretary-who-helped-uncover-one-of-americas-strangest-ponzi-schemes/)
+- [The GameStop saga is getting a movie](https://markets.businessinsider.com/news/stocks/gamestop-meme-stock-movie-seth-rogen-pete-davidson-paul-dano-2023-4)
+- [Rate The Landlord: Anonymously share information with tenants like you](https://ratethelandlord.org)
+- [US National Cislunar Science and Technology Strategy [pdf]](https://web.archive.org/web/20221119151907/https://www.whitehouse.gov/wp-content/uploads/2022/11/11-2022-NSTC-National-Cislunar-ST-Strategy.pdf)
+- [Aloha Airlines Flight 243, April 28, 1988](https://www.staradvertiser.com/2018/04/27/photo-galleries/aloha-airlines-flight-243-april-28-1988/)
+- [Creating Consciousness in Virtual Worlds](https://hackernoon.com/creating-consciousness-in-virtual-worlds)
+- [Pixelmator Photo gets AI-powered selective adjustments and a new name Photomator](https://www.pixelmator.com/blog/2023/04/12/pixelmator-photo-gets-ai-powered-selective-adjustments-and-a-new-name-photomator/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Scrcpy: Display and control your Android devices connected over USB or TCP&amp;#x2F;IP](https://github.com/Genymobile/scrcpy)
-- [Live Starlink Satellite and Coverage Map](https://satellitemap.space/)
-- [California approves rule phasing out big diesel trucks and buses in 2036](https://abcnews.go.com/US/wireStory/california-approves-rule-phasing-big-diesel-trucks-98949919)
-- [Apple Drops Suit Against Ex-Chip Exec Williams Who Started Nuvia](https://www.bloomberg.com/news/articles/2023-04-29/apple-drops-suit-against-ex-chip-exec-williams-who-started-nuvia)
-- [Parrondo&amp;#x27;s Paradox](https://en.wikipedia.org/wiki/Parrondo%27s_paradox)
-- [JanOS: Turn your phone into an IoT board &lpar;2015&rpar;](http://janos.io/)
-- [Genetic circuitry boosts cell longevity](https://www.science.org/doi/10.1126/science.adh4872)
-- [Junk drawer phone as a music streaming server](https://davidhampgonsalves.com/junk-drawer-phone-as-a-music-streaming-server/)
-- [Svix &lpar;YC W21&rpar; Is Hiring Rust Back End Engineers &lpar;US Remote&rpar;](https://www.svix.com/careers/)
-- [U.S. regulator set to take over First Republic](https://www.reuters.com/business/finance/us-regulator-set-take-over-first-republic-source-2023-04-28/)
+- [My favorite C compiler flags during development](https://nullprogram.com/blog/2023/04/29/)
+- [Microsoft quietly supported legislation to make it easier to fix devices](https://grist.org/technology/microsoft-right-to-repair-quietly-supported-legislation-to-make-it-easier-to-fix-devices-heres-why-thats-a-big-deal/)
+- [Waterloo Style](https://theprogrammersparadox.blogspot.com/2023/04/waterloo-style.html)
+- [Show HN: PineTool – An iOS Companion for the Pinecil](https://lachy.io/articles/introducing-pinetool)
+- [Awesome Music Theory: books, links, videos, research, visuals, composition](https://github.com/vpavlenko/study-music)
+- [MIT engineers “grow” atomically thin transistors on top of computer chips](https://news.mit.edu/2023/mit-engineers-2d-materials-computer-chips-0427)
+- [XTS-210 25hp rotary engine; 1&amp;#x2F;5th size&amp;#x2F;weight of diesel piston engines](https://www.greencarcongress.com/2023/04/liquidpiston-introduces-xts-210-25hp-heavy-fueled-rotary-engine-15th-size-weight-of-current-diesel-p.html)
+- [The lifesaving sled dog Balto had genes unlike those of dog breeds today](https://www.scientificamerican.com/article/the-life-saving-sled-dog-balto-had-genes-unlike-dog-breeds-today/)
+- [The curious side effects of medical transparency](https://www.newyorker.com/news/essay/the-curious-side-effects-of-medical-transparency)
+- [Sensenmann: Code Deletion at Scale](https://testing.googleblog.com/2023/04/sensenmann-code-deletion-at-scale.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

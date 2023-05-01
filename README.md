@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [My favorite C compiler flags during development](https://nullprogram.com/blog/2023/04/29/)
-- [Microsoft quietly supported legislation to make it easier to fix devices](https://grist.org/technology/microsoft-right-to-repair-quietly-supported-legislation-to-make-it-easier-to-fix-devices-heres-why-thats-a-big-deal/)
-- [Waterloo Style](https://theprogrammersparadox.blogspot.com/2023/04/waterloo-style.html)
-- [Show HN: PineTool – An iOS Companion for the Pinecil](https://lachy.io/articles/introducing-pinetool)
-- [Awesome Music Theory: books, links, videos, research, visuals, composition](https://github.com/vpavlenko/study-music)
-- [MIT engineers “grow” atomically thin transistors on top of computer chips](https://news.mit.edu/2023/mit-engineers-2d-materials-computer-chips-0427)
-- [XTS-210 25hp rotary engine; 1&amp;#x2F;5th size&amp;#x2F;weight of diesel piston engines](https://www.greencarcongress.com/2023/04/liquidpiston-introduces-xts-210-25hp-heavy-fueled-rotary-engine-15th-size-weight-of-current-diesel-p.html)
-- [The lifesaving sled dog Balto had genes unlike those of dog breeds today](https://www.scientificamerican.com/article/the-life-saving-sled-dog-balto-had-genes-unlike-dog-breeds-today/)
-- [The curious side effects of medical transparency](https://www.newyorker.com/news/essay/the-curious-side-effects-of-medical-transparency)
-- [Sensenmann: Code Deletion at Scale](https://testing.googleblog.com/2023/04/sensenmann-code-deletion-at-scale.html)
+- [The Little Book of Deep Learning [pdf]](https://fleuret.org/public/lbdl.pdf)
+- [A broken man&amp;#x27;s homemade, seaworthy ship rests in the Canadian prairie](https://www.atlasobscura.com/places/tom-sukanens-prairie-ship)
+- [The web’s most important decision](https://thehistoryoftheweb.com/postscript/the-webs-most-important-decision/)
+- [No, the King doesn&amp;#x27;t own all the swans in Britain](https://weirdmedievalguys.substack.com/p/no-the-king-of-england-doesnt-own)
+- [No Mow May, Low Mow Spring](https://beecityusa.org/no-mow-may/)
+- [Xerox Star 8010 Interfaces, high quality polaroids &lpar;1981&rpar;](https://www.digibarn.com/collections/screenshots/xerox-star-8010/index.html)
+- [CRISPR-Cas-amplified urinary biomarkers for cancer diagnostics](https://www.nature.com/articles/s41565-023-01372-9)
+- [Advanced Amiga Architecture &lpar;1992&rpar;](https://archive.org/details/advanced-amiga-architecture)
+- [Minetest: An open source voxel game engine](https://www.minetest.net/)
+- [Grokking Simplicity: Taming complex software with functional thinking](https://bagerbach.com/books/grokking-simplicity)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

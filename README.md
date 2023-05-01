@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Queensland fisher missing after suspected crocodile attack](https://www.theguardian.com/environment/2023/apr/30/queensland-fisher-missing-after-suspected-crocodile-attack)
-- [Russia-Ukraine war at a glance: what we know on day 431 of the invasion](https://www.theguardian.com/world/2023/apr/30/russia-ukraine-war-at-a-glance-what-we-know-on-day-431-of-the-invasion)
-- [Comeback king Brecel to face Selby in final after Allen charge falls just short](https://www.theguardian.com/sport/2023/apr/29/brecel-seals-world-snooker-final-spot-after-greatest-ever-crucible-comeback)
-- [From a Himalayan kingdom to western Sydney: one man’s journey against his own victimhood](https://www.theguardian.com/books/2023/apr/30/from-a-himalayan-kingdom-to-western-sydney-one-mans-journey-against-his-own-victimhood)
-- [TV tonight: Frankie Boyle’s fist-bitingly funny swipe at the royal family](https://www.theguardian.com/tv-and-radio/2023/apr/30/tv-tonight-frankie-boyles-fist-bitingly-funny-swipe-at-the-royal-family)
-- [What to pack for a stylish bank holiday weekend - in pictures](https://www.theguardian.com/fashion/gallery/2023/apr/29/what-to-pack-for-a-stylish-bank-holiday-weekend-in-pictures)
-- [‘I’ll be bolder than Blair on public service reform,’ says Keir Starmer](https://www.theguardian.com/politics/2023/apr/29/keir-starmer-bolder-blair-labour-leader-government)
-- [Cody Gakpo and Liverpool need to use momentum going into vital summer](https://www.theguardian.com/football/2023/apr/29/cody-gakpo--liverpool-premier-league-tottenham-momentum)
-- [Public invited to swear their allegiance as king is crowned](https://www.theguardian.com/uk-news/2023/apr/29/public-invited-to-swear-their-allegiance-as-king-is-crowned)
-- [La Rochelle’s Uini Atonio: ‘Ronan O’Gara was the key piece we needed’](https://www.theguardian.com/sport/2023/apr/29/uini-atonio-la-rochelle-exeter-champons-cup)
+- [Russia-Ukraine war live: air raid sirens in Kyiv and across Ukraine as officials warn of missile threat](https://www.theguardian.com/world/live/2023/may/01/russia-ukraine-war-live-air-raid-sirens-in-kyiv-and-across-ukraine-as-officials-warn-of-missile-threat)
+- [Cost of the crown part 1: valuing the royal family – podcast](https://www.theguardian.com/news/audio/2023/may/01/cost-of-the-crown-part-1-valuing-the-family-podcast)
+- [Episode 5: Resistance – podcast | cotton-capital](https://www.theguardian.com/news/audio/2023/may/01/episode-5-resistance-podcast)
+- [‘Find this man!’: Rita Ora blown away by Australian trade consul’s viral ‘worm’ dance moves](https://www.theguardian.com/australia-news/2023/may/01/natasha-stott-despojas-husband-goes-viral-with-the-worm-dance-moves-at-rita-ora-event)
+- [Turkish forces kill Islamic State chief in Syria raid, says Erdoğan](https://www.theguardian.com/world/2023/may/01/turkish-forces-kill-islamic-state-chief-in-syria-raid-says-erdogan)
+- [Russia-Ukraine war at a glance: what we know on day 432 of the invasion](https://www.theguardian.com/world/2023/may/01/russia-ukraine-war-at-a-glance-what-we-know-on-day-432-of-the-invasion)
+- [UK business confidence increases for fifth month in a row, survey shows](https://www.theguardian.com/business/2023/may/01/uk-business-confidence-increases-for-fifth-month-in-a-row-survey-shows)
+- [Brilliant Curry scores 50 to set up NBA playoff clash with Lakers and LeBron](https://www.theguardian.com/sport/2023/apr/30/golden-state-warriors-sacramento-kings-nba-playoffs-lakers-basketball)
+- [Mark Selby hits historic 147 and cuts Luca Brecel’s lead after first day of final](https://www.theguardian.com/sport/2023/apr/30/mark-selby-hits-147-and-cuts-luca-brecels-lead-after-first-day-of-final)
+- [Frankie Boyle’s Farewell to the Monarchy review – looks like he’s blown his chance of an OBE](https://www.theguardian.com/tv-and-radio/2023/apr/30/frankie-boyles-farewell-to-the-monarchy-review-looks-like-hes-blown-his-chance-of-an-obe)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

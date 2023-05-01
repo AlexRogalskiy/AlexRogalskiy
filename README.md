@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Titans Anonymous &lpar;2020&rpar;](https://qualiacomputing.com/2020/10/22/titans-anonymous/)
-- [Nix-on-droid: Nix-enabled environment for your Android device &lpar;termux-based&rpar;](https://github.com/t184256/nix-on-droid)
-- [It’s the end of the line for yearly Windows 10 updates, says Microsoft](https://arstechnica.com/gadgets/2023/04/its-the-end-of-the-line-for-yearly-windows-10-updates-says-microsoft/)
-- [The secretary who helped uncover one of America’s strangest Ponzi schemes](https://thehustle.co/the-secretary-who-helped-uncover-one-of-americas-strangest-ponzi-schemes/)
-- [The GameStop saga is getting a movie](https://markets.businessinsider.com/news/stocks/gamestop-meme-stock-movie-seth-rogen-pete-davidson-paul-dano-2023-4)
-- [Rate The Landlord: Anonymously share information with tenants like you](https://ratethelandlord.org)
-- [US National Cislunar Science and Technology Strategy [pdf]](https://web.archive.org/web/20221119151907/https://www.whitehouse.gov/wp-content/uploads/2022/11/11-2022-NSTC-National-Cislunar-ST-Strategy.pdf)
-- [Aloha Airlines Flight 243, April 28, 1988](https://www.staradvertiser.com/2018/04/27/photo-galleries/aloha-airlines-flight-243-april-28-1988/)
-- [Creating Consciousness in Virtual Worlds](https://hackernoon.com/creating-consciousness-in-virtual-worlds)
-- [Pixelmator Photo gets AI-powered selective adjustments and a new name Photomator](https://www.pixelmator.com/blog/2023/04/12/pixelmator-photo-gets-ai-powered-selective-adjustments-and-a-new-name-photomator/)
+- [Books helped launch my business](https://blog.bettersheets.co/5-books-to-launch-a-business/)
+- [Eva AI-Relational Database System](https://evadb.readthedocs.io/en/stable/index.html)
+- [Ggwave: Message people over sound](https://github.com/ggerganov/ggwave)
+- [Stay overnight at this lighthouse – a thrilling 32 miles out to sea](https://www.nationalgeographic.com/travel/article/frying-pan-tower-north-carolina-lighthouse)
+- [OnlyFans and Payment Processing](https://news.ycombinator.com/item?id=35768362)
+- [Flashpoint: A Tribute to Web Games eBook by Ben “BlueMaxima” Latimore](https://archive.org/details/flashpoint-a-tribute-to-web-games)
+- [The Work Never Ends](https://patwalls.com/the-work-never-ends)
+- [Which Jobs Will Be Most Impacted by ChatGPT?](https://www.visualcapitalist.com/cp/which-jobs-artificial-intelligence-gpt-impact/)
+- [Shady Companies Guess Your Religion, Orientation, and Sell That Data](https://slate.com/technology/2023/04/data-broker-inference-privacy-legislation.html)
+- [Two Years of OCaml](https://borretti.me/article/two-years-ocaml)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

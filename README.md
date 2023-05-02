@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The Little Book of Deep Learning [pdf]](https://fleuret.org/public/lbdl.pdf)
-- [A broken man&amp;#x27;s homemade, seaworthy ship rests in the Canadian prairie](https://www.atlasobscura.com/places/tom-sukanens-prairie-ship)
-- [The web’s most important decision](https://thehistoryoftheweb.com/postscript/the-webs-most-important-decision/)
-- [No, the King doesn&amp;#x27;t own all the swans in Britain](https://weirdmedievalguys.substack.com/p/no-the-king-of-england-doesnt-own)
-- [No Mow May, Low Mow Spring](https://beecityusa.org/no-mow-may/)
-- [Xerox Star 8010 Interfaces, high quality polaroids &lpar;1981&rpar;](https://www.digibarn.com/collections/screenshots/xerox-star-8010/index.html)
-- [CRISPR-Cas-amplified urinary biomarkers for cancer diagnostics](https://www.nature.com/articles/s41565-023-01372-9)
-- [Advanced Amiga Architecture &lpar;1992&rpar;](https://archive.org/details/advanced-amiga-architecture)
-- [Minetest: An open source voxel game engine](https://www.minetest.net/)
-- [Grokking Simplicity: Taming complex software with functional thinking](https://bagerbach.com/books/grokking-simplicity)
+- [Show HN: I&amp;#x27;ve built a spectrogram analyzer web app](https://webfft.net/dft/)
+- [Wind farm in Germany is being dismantled to expand coal mine](https://balkangreenenergynews.com/wind-farm-in-germany-is-being-dismantled-to-expand-coal-mine/)
+- [Grasshopper – An Open Source Python Library for Load Testing](https://innovation.alteryx.com/introducing-grasshopper-an-open-source-python-library-for-load-testing/)
+- [Researchers have determined how an airborne molecule links to a smell receptor](https://www.quantamagazine.org/how-a-human-smell-receptor-works-is-finally-revealed-20230501/)
+- [Chemists tackle the tough challenge of recycling mixed plastics](https://phys.org/news/2023-04-chemists-tackle-tough-recycling-plastics.html)
+- [The Mayan calendar might represent a longer timescale than previously considered](https://phys.org/news/2023-04-anthropologist-pair-mystery-mayan-day.html)
+- [The Computer Scientist Peering Inside AI’s Black Boxes](https://www.quantamagazine.org/cynthia-rudin-builds-ai-that-humans-can-understand-20230427/)
+- [Analog computing and hybrid computing: The view from 1962](https://statmodeling.stat.columbia.edu/2023/05/01/analog-computing-and-hybrid-computing-the-view-from-1962/)
+- [Bio-inspired: developing technology to mimic the function of skin](https://newsroom.unsw.edu.au/news/science-tech/bio-inspired-developing-technology-mimic-function-skin)
+- [Shoot the arrow, then paint the target around it](https://ozanvarol.com/the-key-to-becoming-extraordinary/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

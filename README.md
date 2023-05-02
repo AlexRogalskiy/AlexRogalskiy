@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war live: air raid sirens in Kyiv and across Ukraine as officials warn of missile threat](https://www.theguardian.com/world/live/2023/may/01/russia-ukraine-war-live-air-raid-sirens-in-kyiv-and-across-ukraine-as-officials-warn-of-missile-threat)
-- [Cost of the crown part 1: valuing the royal family – podcast](https://www.theguardian.com/news/audio/2023/may/01/cost-of-the-crown-part-1-valuing-the-family-podcast)
-- [Episode 5: Resistance – podcast | cotton-capital](https://www.theguardian.com/news/audio/2023/may/01/episode-5-resistance-podcast)
-- [‘Find this man!’: Rita Ora blown away by Australian trade consul’s viral ‘worm’ dance moves](https://www.theguardian.com/australia-news/2023/may/01/natasha-stott-despojas-husband-goes-viral-with-the-worm-dance-moves-at-rita-ora-event)
-- [Turkish forces kill Islamic State chief in Syria raid, says Erdoğan](https://www.theguardian.com/world/2023/may/01/turkish-forces-kill-islamic-state-chief-in-syria-raid-says-erdogan)
-- [Russia-Ukraine war at a glance: what we know on day 432 of the invasion](https://www.theguardian.com/world/2023/may/01/russia-ukraine-war-at-a-glance-what-we-know-on-day-432-of-the-invasion)
-- [UK business confidence increases for fifth month in a row, survey shows](https://www.theguardian.com/business/2023/may/01/uk-business-confidence-increases-for-fifth-month-in-a-row-survey-shows)
-- [Brilliant Curry scores 50 to set up NBA playoff clash with Lakers and LeBron](https://www.theguardian.com/sport/2023/apr/30/golden-state-warriors-sacramento-kings-nba-playoffs-lakers-basketball)
-- [Mark Selby hits historic 147 and cuts Luca Brecel’s lead after first day of final](https://www.theguardian.com/sport/2023/apr/30/mark-selby-hits-147-and-cuts-luca-brecels-lead-after-first-day-of-final)
-- [Frankie Boyle’s Farewell to the Monarchy review – looks like he’s blown his chance of an OBE](https://www.theguardian.com/tv-and-radio/2023/apr/30/frankie-boyles-farewell-to-the-monarchy-review-looks-like-hes-blown-his-chance-of-an-obe)
+- [Met Gala 2023 live updates: pearls, pregnancy reveals and a giant cat celebrate Karl Lagerfeld on the red carpet](https://www.theguardian.com/fashion/live/2023/may/02/met-gala-2023-live-updates-karl-lagerfeld-theme-red-carpet-fashion-dress-code-celebrity-arrivals-style)
+- [Cost of the crown part 2: Duchies, diamonds and Dalis – podcast](https://www.theguardian.com/news/audio/2023/may/02/cost-of-the-crown-part-2-duchies-diamonds-and-dalis-podcast)
+- [At least 108 police injured and 291 held in May Day protests in cities across France](https://www.theguardian.com/world/2023/may/01/police-fire-teargas-on-may-day-protesters-in-cities-across-france)
+- [Colleagues pay tribute to Jock Zonfrillo as network weighs when to screen his last MasterChef season](https://www.theguardian.com/tv-and-radio/2023/may/02/jock-zonfrillo-death-masterchef-judge-australia-season-15-will-screen-network-ten-10-)
+- [Biden hails ‘deep friendship’ with Philippines and boosts military ties amid China tensions](https://www.theguardian.com/world/2023/may/02/biden-hails-deep-friendship-with-philippines-and-boosts-military-ties-amid-china-tensions)
+- [Vice Media reportedly headed for bankruptcy](https://www.theguardian.com/media/2023/may/01/vice-media-group-bankruptcy-report)
+- [Seven bodies, including those of two missing teens, found in Oklahoma](https://www.theguardian.com/us-news/2023/may/01/seven-bodies-found-oklahoma-missing-teens)
+- [Russia-Ukraine war at a glance: what we know on day 433 of the invasion](https://www.theguardian.com/world/2023/may/02/russia-ukraine-war-at-a-glance-what-we-know-on-day-433-of-the-invasion)
+- [Cost of living squeeze ‘is holding back’ UK small businesses](https://www.theguardian.com/business/2023/may/02/cost-of-living-squeeze-is-holding-back-uk-small-businesses)
+- [Liverpool predicted to get £40m Eurovision boost in visitor spending](https://www.theguardian.com/tv-and-radio/2023/may/02/liverpool-predicted-to-get-40m-eurovision-boost-in-visitor-spending)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

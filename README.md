@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Books helped launch my business](https://blog.bettersheets.co/5-books-to-launch-a-business/)
-- [Eva AI-Relational Database System](https://evadb.readthedocs.io/en/stable/index.html)
-- [Ggwave: Message people over sound](https://github.com/ggerganov/ggwave)
-- [Stay overnight at this lighthouse – a thrilling 32 miles out to sea](https://www.nationalgeographic.com/travel/article/frying-pan-tower-north-carolina-lighthouse)
-- [OnlyFans and Payment Processing](https://news.ycombinator.com/item?id=35768362)
-- [Flashpoint: A Tribute to Web Games eBook by Ben “BlueMaxima” Latimore](https://archive.org/details/flashpoint-a-tribute-to-web-games)
-- [The Work Never Ends](https://patwalls.com/the-work-never-ends)
-- [Which Jobs Will Be Most Impacted by ChatGPT?](https://www.visualcapitalist.com/cp/which-jobs-artificial-intelligence-gpt-impact/)
-- [Shady Companies Guess Your Religion, Orientation, and Sell That Data](https://slate.com/technology/2023/04/data-broker-inference-privacy-legislation.html)
-- [Two Years of OCaml](https://borretti.me/article/two-years-ocaml)
+- [Serious Flaws in the Brazilian Fake News Bill That Will Undermine Human Rights](https://www.eff.org/deeplinks/2020/06/5-serious-flaws-new-brazilian-fake-news-bill-will-undermine-human-rights)
+- [Morgan Stanley to cut 3,000 jobs in second quarter](https://www.reuters.com/business/finance/morgan-stanley-plans-3000-more-job-cuts-bloomberg-news-2023-05-01/)
+- [A fast, local neural text to speech system optimized for the Raspberry Pi 4](https://github.com/rhasspy/piper)
+- [DashMachine: Another web application bookmark dashboard, with fun features](https://github.com/rmountjoy92/DashMachine)
+- [Why More Americans Are Using Fake License Plates and Getting Away with It](https://slate.com/business/2023/04/fake-license-plates-traffic-cameras-policing-yglesias.html)
+- [How Lex Fridman&#39;s podcast became a safe space for the anti-woke tech elite](https://www.businessinsider.com/lex-fridman-podcast-anti-woke-elon-musk-ai)
+- [Why I deactivated my Facebook page](https://thereformedbroker.com/2023/05/01/why-i-deactivated-my-facebook-page/)
+- [AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head](https://github.com/AIGC-Audio/AudioGPT)
+- [Brain Activity Decoder Can Reveal Stories in People’s Minds](https://news.utexas.edu/2023/05/01/brain-activity-decoder-can-reveal-stories-in-peoples-minds/)
+- [Call Annie](https://apps.apple.com/us/app/call-annie/id6447928709)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

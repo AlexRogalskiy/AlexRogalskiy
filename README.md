@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Show HN: I&amp;#x27;ve built a spectrogram analyzer web app](https://webfft.net/dft/)
-- [Wind farm in Germany is being dismantled to expand coal mine](https://balkangreenenergynews.com/wind-farm-in-germany-is-being-dismantled-to-expand-coal-mine/)
-- [Grasshopper – An Open Source Python Library for Load Testing](https://innovation.alteryx.com/introducing-grasshopper-an-open-source-python-library-for-load-testing/)
-- [Researchers have determined how an airborne molecule links to a smell receptor](https://www.quantamagazine.org/how-a-human-smell-receptor-works-is-finally-revealed-20230501/)
-- [Chemists tackle the tough challenge of recycling mixed plastics](https://phys.org/news/2023-04-chemists-tackle-tough-recycling-plastics.html)
-- [The Mayan calendar might represent a longer timescale than previously considered](https://phys.org/news/2023-04-anthropologist-pair-mystery-mayan-day.html)
-- [The Computer Scientist Peering Inside AI’s Black Boxes](https://www.quantamagazine.org/cynthia-rudin-builds-ai-that-humans-can-understand-20230427/)
-- [Analog computing and hybrid computing: The view from 1962](https://statmodeling.stat.columbia.edu/2023/05/01/analog-computing-and-hybrid-computing-the-view-from-1962/)
-- [Bio-inspired: developing technology to mimic the function of skin](https://newsroom.unsw.edu.au/news/science-tech/bio-inspired-developing-technology-mimic-function-skin)
-- [Shoot the arrow, then paint the target around it](https://ozanvarol.com/the-key-to-becoming-extraordinary/)
+- [De-Dollarization Is Happening at a ‘Stunning’ Pace](https://www.bloomberg.com/news/articles/2023-04-18/de-dollarization-is-happening-at-a-stunning-pace-jen-says)
+- [Google DeepMind CEO Says Some Form of AGI Possible in a Few Years](https://www.wsj.com/articles/google-deepmind-ceo-says-some-form-of-agi-possible-in-a-few-years-2705f452)
+- [Bank Failures Visualized](https://observablehq.com/@mbostock/bank-failures)
+- [News Minimalist - Only significant news. All signal, no noise](https://www.newsminimalist.com/)
+- [Cardinal&amp;#x2F;WASM: In-Browser Modular Synth Based on VCV Rack](https://cardinal.kx.studio)
+- [LLM Hallucinations: why they occur and how to avoid them](https://vectara.com/avoiding-hallucinations-in-llm-powered-applications/)
+- [Investigating Linux phantom disk reads](https://questdb.io/blog/investigating-linux-phantom-disk-reads/)
+- [African Workers for ChatGPT, TikTok and Facebook Vote to Unionize](https://time.com/6275995/chatgpt-facebook-african-workers-union/)
+- [NYPD urges citizens to buy AirTags to fight surge in car thefts](https://arstechnica.com/gadgets/2023/05/nypd-urges-citizens-to-buy-airtags-to-fight-surge-in-car-thefts/)
+- [Eye Candy](https://eycndy.com)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Q&amp;A: At MIT event, Tom Siebel sees ‘terrifying’ consequences from using AI](https://www.computerworld.com/article/3695073/qa-at-mit-tom-siebel-labels-the-consequences-of-ai-as-terrifying.html#tk.rss_all)
+- [Box adds generative AI capabilities through OpenAI partnership](https://www.computerworld.com/article/3694898/box-adds-generative-ai-capabilities-through-openai-partnership.html#tk.rss_all)
+- [Apple, Google team up to tackle Bluetooth tracker-stalking terror](https://www.computerworld.com/article/3694856/apple-google-team-up-to-tackle-bluetooth-tracker-stalking-terror.html#tk.rss_all)
+- [Samsung bans staff AI use over data leak concerns](https://www.csoonline.com/article/3695170/samsung-bans-staff-ai-use-over-data-leak-concerns.html#tk.rss_all)
+- [Apple, platform security, and the next big war](https://www.computerworld.com/article/3694875/apple-platform-security-and-the-next-big-war.html#tk.rss_all)
+- [Job cuts may intensify as IBM plans to use AI to replace 30% of back office jobs](https://www.computerworld.com/article/3694874/job-cuts-may-intensify-as-ibm-plans-to-use-ai-to-replace-30-of-back-office-jobs.html#tk.rss_all)
+- [Businesses, beware: The Motorola ThinkPhone comes with a major caveat](https://www.computerworld.com/article/3695168/motorola-thinkphone-android.html#tk.rss_all)
+- [White House seeks information on tools used for automated employee surveillance](https://www.computerworld.com/article/3694873/white-house-seeks-information-on-tools-used-for-automated-employee-surveillance.html#tk.rss_all)
 - [Generative AI is about to destroy your company. Will you stop it?](https://www.computerworld.com/article/3694854/generative-ai-is-about-to-destroy-your-company-will-you-stop-it.html#tk.rss_all)
 - [ChatGPT returns to Italy after OpenAI tweaks privacy disclosures, controls](https://www.csoonline.com/article/3695188/chatgpt-returns-to-italy-after-openai-tweaks-privacy-disclosures-controls.html#tk.rss_all)
-- [With Windows 10 going away, time to get serious about Windows 11](https://www.computerworld.com/article/3694932/with-windows-10-going-away-time-to-get-serious-about-windows-11.html#tk.rss_all)
-- [Arm , Apple’s chip design partner, plans US stock listing](https://www.computerworld.com/article/3694855/arm-apples-chip-design-partner-plans-us-stock-listing.html#tk.rss_all)
-- [As Europeans strike first to rein in AI, the US follows](https://www.computerworld.com/article/3694872/europeans-strike-first-to-rein-in-ai-the-us-follows.html#tk.rss_all)
-- [For Windows 10, 22H2 is the end of the road](https://www.computerworld.com/article/3695068/for-windows-10-22h2-is-the-end-of-the-road.html#tk.rss_all)
-- [EU closes in on AI Act with last-minute ChatGPT-related adjustments](https://www.computerworld.com/article/3695009/eu-closes-in-on-ai-act-with-last-minute-chatgpt-related-adjustments.html#tk.rss_all)
-- [Biamp’s Parlé, and the need to design a better remote conference room](https://www.computerworld.com/article/3695011/biamps-parle-and-the-need-to-design-a-better-remote-conference-room.html#tk.rss_all)
-- [Tech layoffs in 2023: A timeline](https://www.computerworld.com/article/3685936/tech-layoffs-in-2023-a-timeline.html#tk.rss_all)
-- [Google Sheets power tips: How to use dropdown lists](https://www.computerworld.com/article/3677859/google-sheets-how-to-use-dropdown-lists.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

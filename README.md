@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Met Gala 2023 live updates: pearls, pregnancy reveals and a giant cat celebrate Karl Lagerfeld on the red carpet](https://www.theguardian.com/fashion/live/2023/may/02/met-gala-2023-live-updates-karl-lagerfeld-theme-red-carpet-fashion-dress-code-celebrity-arrivals-style)
-- [Cost of the crown part 2: Duchies, diamonds and Dalis – podcast](https://www.theguardian.com/news/audio/2023/may/02/cost-of-the-crown-part-2-duchies-diamonds-and-dalis-podcast)
-- [At least 108 police injured and 291 held in May Day protests in cities across France](https://www.theguardian.com/world/2023/may/01/police-fire-teargas-on-may-day-protesters-in-cities-across-france)
-- [Colleagues pay tribute to Jock Zonfrillo as network weighs when to screen his last MasterChef season](https://www.theguardian.com/tv-and-radio/2023/may/02/jock-zonfrillo-death-masterchef-judge-australia-season-15-will-screen-network-ten-10-)
-- [Biden hails ‘deep friendship’ with Philippines and boosts military ties amid China tensions](https://www.theguardian.com/world/2023/may/02/biden-hails-deep-friendship-with-philippines-and-boosts-military-ties-amid-china-tensions)
-- [Vice Media reportedly headed for bankruptcy](https://www.theguardian.com/media/2023/may/01/vice-media-group-bankruptcy-report)
-- [Seven bodies, including those of two missing teens, found in Oklahoma](https://www.theguardian.com/us-news/2023/may/01/seven-bodies-found-oklahoma-missing-teens)
-- [Russia-Ukraine war at a glance: what we know on day 433 of the invasion](https://www.theguardian.com/world/2023/may/02/russia-ukraine-war-at-a-glance-what-we-know-on-day-433-of-the-invasion)
-- [Cost of living squeeze ‘is holding back’ UK small businesses](https://www.theguardian.com/business/2023/may/02/cost-of-living-squeeze-is-holding-back-uk-small-businesses)
-- [Liverpool predicted to get £40m Eurovision boost in visitor spending](https://www.theguardian.com/tv-and-radio/2023/may/02/liverpool-predicted-to-get-40m-eurovision-boost-in-visitor-spending)
+- [Cost of the crown part 3: the hidden history of the monarchy and slavery - podcast](https://www.theguardian.com/news/audio/2023/may/03/cost-of-the-crown-part-3-hidden-history-monarchy-slavery-podcast)
+- [Nick Cave reveals ‘inexplicable attachment’ to British royals ahead of attending king’s coronation](https://www.theguardian.com/music/2023/may/03/nick-cave-reveals-inexplicable-attachment-to-british-royals-ahead-of-attending-kings-coronation)
+- [Officials arrest Texas man accused of killing five of his neighbors](https://www.theguardian.com/us-news/2023/may/02/texas-mass-shooting-suspect-arrested)
+- [Pentagon leaks: we weren’t told about intelligence breach, Zelenskiy says](https://www.theguardian.com/us-news/2023/may/03/pentagon-leaks-we-werent-told-about-intelligence-breach-zelenskiy-says)
+- [The Guardian celebrates 10 years in Australia](https://www.theguardian.com/guardian-australia-press-office/2023/may/03/the-guardian-celebrates-10-years-in-australia)
+- [US sends 1,500 troops to Mexico border as Covid-era asylum rule is set to expire](https://www.theguardian.com/us-news/2023/may/02/biden-sends-troops-to-mexico-border-title-42)
+- [US set to open Tonga embassy in May as Pacific push ramps up](https://www.theguardian.com/world/2023/may/03/us-set-to-open-tonga-embassy-in-may-as-pacific-push-ramps-up)
+- [Russia-Ukraine war at a glance: what we know on day 434 of the invasion](https://www.theguardian.com/world/2023/may/03/russia-ukraine-war-at-a-glance-what-we-know-on-day-434-of-the-invasion)
+- [Luxury and Power review: boozed-up Persians and Greeks on a 500-year bender](https://www.theguardian.com/artanddesign/2023/may/03/luxury-and-power-review-bender-persians-greeks-british-museum)
+- [Dyson to build new factory in Singapore and expand in UK and Philippines](https://www.theguardian.com/technology/2023/may/03/dyson-to-build-new-factory-in-singapore-and-expand-in-uk-and-philippines)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

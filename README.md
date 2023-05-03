@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Serious Flaws in the Brazilian Fake News Bill That Will Undermine Human Rights](https://www.eff.org/deeplinks/2020/06/5-serious-flaws-new-brazilian-fake-news-bill-will-undermine-human-rights)
-- [Morgan Stanley to cut 3,000 jobs in second quarter](https://www.reuters.com/business/finance/morgan-stanley-plans-3000-more-job-cuts-bloomberg-news-2023-05-01/)
-- [A fast, local neural text to speech system optimized for the Raspberry Pi 4](https://github.com/rhasspy/piper)
-- [DashMachine: Another web application bookmark dashboard, with fun features](https://github.com/rmountjoy92/DashMachine)
-- [Why More Americans Are Using Fake License Plates and Getting Away with It](https://slate.com/business/2023/04/fake-license-plates-traffic-cameras-policing-yglesias.html)
-- [How Lex Fridman&#39;s podcast became a safe space for the anti-woke tech elite](https://www.businessinsider.com/lex-fridman-podcast-anti-woke-elon-musk-ai)
-- [Why I deactivated my Facebook page](https://thereformedbroker.com/2023/05/01/why-i-deactivated-my-facebook-page/)
-- [AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head](https://github.com/AIGC-Audio/AudioGPT)
-- [Brain Activity Decoder Can Reveal Stories in People’s Minds](https://news.utexas.edu/2023/05/01/brain-activity-decoder-can-reveal-stories-in-peoples-minds/)
-- [Call Annie](https://apps.apple.com/us/app/call-annie/id6447928709)
+- [RIP HTTP](http://http.rip/)
+- [Show HN: Stickdeck – Turn your Steam Deck as a Bluetooth joystick on PC](https://github.com/DiscreteTom/stickdeck)
+- [And in This Corner, Hailing from Dagestan, Presenting Hasbulla](https://www.nytimes.com/2023/04/28/style/hasbulla-influencer-ufc.html)
+- [De-Dollarization Is Happening at a ‘Stunning’ Pace](https://www.bloomberg.com/news/articles/2023-04-18/de-dollarization-is-happening-at-a-stunning-pace-jen-says)
+- [Ask HN: What is the reasoning behind Stackoverflow login fragmentation?](https://news.ycombinator.com/item?id=35796879)
+- [Die photo of the Intel iAPX 432 processor](https://oldbytes.space/@kenshirriff/110300679684214191)
+- [ABC News struggles to replace Nate Silver](https://www.semafor.com/article/05/01/2023/abc-news-struggles-to-replace-nate-silver)
+- [As Generative AI Gets Hotter, KKR Bets on Keeping Data Centers Cool](https://www.wsj.com/articles/as-generative-ai-gets-hotter-kkr-bets-on-keeping-data-centers-cool-d3d62cc7)
+- [Revolut Enters Latam](https://quickfintech.substack.com/p/revolut-enters-latam)
+- [Scientists Use GPT AI to Passively Read People&#39;s Thoughts in Breakthrough](https://www.vice.com/en/article/4a3w3g/scientists-use-gpt-ai-to-passively-read-peoples-thoughts-in-breakthrough)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

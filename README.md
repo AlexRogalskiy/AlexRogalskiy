@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [RIP HTTP](http://http.rip/)
-- [Show HN: Stickdeck – Turn your Steam Deck as a Bluetooth joystick on PC](https://github.com/DiscreteTom/stickdeck)
-- [And in This Corner, Hailing from Dagestan, Presenting Hasbulla](https://www.nytimes.com/2023/04/28/style/hasbulla-influencer-ufc.html)
-- [De-Dollarization Is Happening at a ‘Stunning’ Pace](https://www.bloomberg.com/news/articles/2023-04-18/de-dollarization-is-happening-at-a-stunning-pace-jen-says)
-- [Ask HN: What is the reasoning behind Stackoverflow login fragmentation?](https://news.ycombinator.com/item?id=35796879)
-- [Die photo of the Intel iAPX 432 processor](https://oldbytes.space/@kenshirriff/110300679684214191)
-- [ABC News struggles to replace Nate Silver](https://www.semafor.com/article/05/01/2023/abc-news-struggles-to-replace-nate-silver)
-- [As Generative AI Gets Hotter, KKR Bets on Keeping Data Centers Cool](https://www.wsj.com/articles/as-generative-ai-gets-hotter-kkr-bets-on-keeping-data-centers-cool-d3d62cc7)
-- [Revolut Enters Latam](https://quickfintech.substack.com/p/revolut-enters-latam)
-- [Scientists Use GPT AI to Passively Read People&#39;s Thoughts in Breakthrough](https://www.vice.com/en/article/4a3w3g/scientists-use-gpt-ai-to-passively-read-peoples-thoughts-in-breakthrough)
+- [What Can a $60k Media Server Do?](https://www.youtube.com/watch?v=d5Pq7QhqHvk)
+- [Ask HN: Logging Mac Trackpad Data?](https://news.ycombinator.com/item?id=35810483)
+- [Weird people trying to fall in fake love with AI](https://www.myaiobsession.com/p/my-ai-girlfriend-broke-up-with-me)
+- [Solidigm Amplifies P41 Plus and P44 Pro Performance with Custom Driver](https://www.anandtech.com/show/18848/solidigm-synergy-20-amplifies-p41-plus-and-p44-pro-performance-with-custom-driver)
+- [Gene therapy reverses vision loss in primates – by making their eyes young again](https://www.freethink.com/health/gene-therapy-naion)
+- [CodeGen2 Models for Program Synthesis](https://github.com/salesforce/CodeGen2)
+- [Stacked PRs – Pros and Cons?](https://news.ycombinator.com/item?id=35810324)
+- [Is It Snappy?](https://isitsnappy.com/)
+- [Show HN: Multi-Line Calculator](http://calculator.merkoba.com/)
+- [UDP transmitter implemented with PIO and DMA on the RP2040](https://vanhunteradams.com/Pico/Ethernet/UPD_TX.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

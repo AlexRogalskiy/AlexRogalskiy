@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Cost of the crown part 3: the hidden history of the monarchy and slavery - podcast](https://www.theguardian.com/news/audio/2023/may/03/cost-of-the-crown-part-3-hidden-history-monarchy-slavery-podcast)
-- [Nick Cave reveals ‘inexplicable attachment’ to British royals ahead of attending king’s coronation](https://www.theguardian.com/music/2023/may/03/nick-cave-reveals-inexplicable-attachment-to-british-royals-ahead-of-attending-kings-coronation)
-- [Officials arrest Texas man accused of killing five of his neighbors](https://www.theguardian.com/us-news/2023/may/02/texas-mass-shooting-suspect-arrested)
-- [Pentagon leaks: we weren’t told about intelligence breach, Zelenskiy says](https://www.theguardian.com/us-news/2023/may/03/pentagon-leaks-we-werent-told-about-intelligence-breach-zelenskiy-says)
-- [The Guardian celebrates 10 years in Australia](https://www.theguardian.com/guardian-australia-press-office/2023/may/03/the-guardian-celebrates-10-years-in-australia)
-- [US sends 1,500 troops to Mexico border as Covid-era asylum rule is set to expire](https://www.theguardian.com/us-news/2023/may/02/biden-sends-troops-to-mexico-border-title-42)
-- [US set to open Tonga embassy in May as Pacific push ramps up](https://www.theguardian.com/world/2023/may/03/us-set-to-open-tonga-embassy-in-may-as-pacific-push-ramps-up)
-- [Russia-Ukraine war at a glance: what we know on day 434 of the invasion](https://www.theguardian.com/world/2023/may/03/russia-ukraine-war-at-a-glance-what-we-know-on-day-434-of-the-invasion)
-- [Luxury and Power review: boozed-up Persians and Greeks on a 500-year bender](https://www.theguardian.com/artanddesign/2023/may/03/luxury-and-power-review-bender-persians-greeks-british-museum)
-- [Dyson to build new factory in Singapore and expand in UK and Philippines](https://www.theguardian.com/technology/2023/may/03/dyson-to-build-new-factory-in-singapore-and-expand-in-uk-and-philippines)
+- [Cost of the crown part 4: calculating the king’s wealth – podcast](https://www.theguardian.com/news/audio/2023/may/04/cost-of-the-crown-part-4-calculating-king-charles-wealth-podcast)
+- [Russia-Ukraine war live: air raid sirens in Kyiv and blasts in Odesa; Zelenskiy denies responsibility for Kremlin drone attack](https://www.theguardian.com/world/live/2023/may/04/russia-ukraine-war-live-air-raid-sirens-in-kyiv-and-eastern-regions-zelenskiy-denies-responsibility-for-kremlin-drone-attack)
+- [Folklore and fireworks as Tanna island, and the wider Pacific, gear up to mark the coronation](https://www.theguardian.com/world/2023/may/04/folklore-and-fireworks-as-tanna-island-and-the-wider-pacific-gear-up-to-mark-the-coronation)
+- [Outrage simmers in New York after the killing of Jordan Neely on a subway train](https://www.theguardian.com/us-news/2023/may/03/jordan-neely-death-new-york-city-subway)
+- [US judge throws out Donald Trump’s lawsuit against New York Times](https://www.theguardian.com/us-news/2023/may/03/donald-trump-lawsuit-new-york-times-mary-trump)
+- [Thai PM candidate keen to get back to campaigning two days after giving birth](https://www.theguardian.com/world/2023/may/04/thai-pm-candidate-keen-to-get-back-to-campaigning-two-days-after-giving-birth)
+- [Russia-Ukraine war at a glance: what we know on day 435 of the invasion](https://www.theguardian.com/world/2023/may/04/russia-ukraine-war-at-a-glance-what-we-know-on-day-435-of-the-invasion)
+- [PSG condemn fans who chanted for Neymar to leave outside his house](https://www.theguardian.com/football/2023/may/04/psg-condemn-fans-who-chanted-for-neymar-to-leave-outside-his-house)
+- [Commonwealth Indigenous leaders demand apology from the king for effects of colonisation](https://www.theguardian.com/uk-news/2023/may/04/commonwealth-indigenous-leaders-demand-apology-from-the-king-for-effects-of-colonisation)
+- [Trump described E Jean Carroll rape accusation as ‘ridiculous’, jury hears](https://www.theguardian.com/us-news/2023/may/03/e-jean-carroll-trump-rape-trial-jury-new-york)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

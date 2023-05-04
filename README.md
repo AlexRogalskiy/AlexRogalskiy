@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [Data center sustainability becoming the norm, not the exception](https://www.networkworld.com/article/3695528/data-center-sustainability-becoming-the-norm-not-the-exception.html#tk.rss_all)
+- [AI deep fakes, mistakes, and biases may be unavoidable, but controllable](https://www.computerworld.com/article/3695508/ai-deep-fakes-mistakes-and-biases-may-be-unavoidable-but-controllable.html#tk.rss_all)
+- [Microsoft refreshes SharePoint and OneDrive with Copilot integration](https://www.computerworld.com/article/3695171/microsoft-refreshes-sharepoint-and-onedrive-with-copilot-integration.html#tk.rss_all)
+- [BlackCat group releases screenshots of stolen Western Digital data](https://www.csoonline.com/article/3694904/blackcat-group-releases-screenshots-of-stolen-western-digital-data.html#tk.rss_all)
+- [Are Apple’s upcoming AR glasses already obsolete?](https://www.computerworld.com/article/3694876/are-apple-s-ar-glasses-already-obsolete.html#tk.rss_all)
 - [Q&amp;A: At MIT event, Tom Siebel sees ‘terrifying’ consequences from using AI](https://www.computerworld.com/article/3695073/qa-at-mit-tom-siebel-labels-the-consequences-of-ai-as-terrifying.html#tk.rss_all)
 - [Box adds generative AI capabilities through OpenAI partnership](https://www.computerworld.com/article/3694898/box-adds-generative-ai-capabilities-through-openai-partnership.html#tk.rss_all)
 - [Apple, Google team up to tackle Bluetooth tracker-stalking terror](https://www.computerworld.com/article/3694856/apple-google-team-up-to-tackle-bluetooth-tracker-stalking-terror.html#tk.rss_all)
 - [Samsung bans staff AI use over data leak concerns](https://www.csoonline.com/article/3695170/samsung-bans-staff-ai-use-over-data-leak-concerns.html#tk.rss_all)
-- [Apple, platform security, and the next big war](https://www.computerworld.com/article/3694875/apple-platform-security-and-the-next-big-war.html#tk.rss_all)
-- [Job cuts may intensify as IBM plans to use AI to replace 30% of back office jobs](https://www.computerworld.com/article/3694874/job-cuts-may-intensify-as-ibm-plans-to-use-ai-to-replace-30-of-back-office-jobs.html#tk.rss_all)
-- [Businesses, beware: The Motorola ThinkPhone comes with a major caveat](https://www.computerworld.com/article/3695168/motorola-thinkphone-android.html#tk.rss_all)
-- [White House seeks information on tools used for automated employee surveillance](https://www.computerworld.com/article/3694873/white-house-seeks-information-on-tools-used-for-automated-employee-surveillance.html#tk.rss_all)
-- [Generative AI is about to destroy your company. Will you stop it?](https://www.computerworld.com/article/3694854/generative-ai-is-about-to-destroy-your-company-will-you-stop-it.html#tk.rss_all)
-- [ChatGPT returns to Italy after OpenAI tweaks privacy disclosures, controls](https://www.csoonline.com/article/3695188/chatgpt-returns-to-italy-after-openai-tweaks-privacy-disclosures-controls.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

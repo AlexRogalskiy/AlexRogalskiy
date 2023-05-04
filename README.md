@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [De-Dollarization Is Happening at a ‘Stunning’ Pace](https://www.bloomberg.com/news/articles/2023-04-18/de-dollarization-is-happening-at-a-stunning-pace-jen-says)
-- [Google DeepMind CEO Says Some Form of AGI Possible in a Few Years](https://www.wsj.com/articles/google-deepmind-ceo-says-some-form-of-agi-possible-in-a-few-years-2705f452)
-- [Bank Failures Visualized](https://observablehq.com/@mbostock/bank-failures)
-- [News Minimalist - Only significant news. All signal, no noise](https://www.newsminimalist.com/)
-- [Cardinal&amp;#x2F;WASM: In-Browser Modular Synth Based on VCV Rack](https://cardinal.kx.studio)
-- [LLM Hallucinations: why they occur and how to avoid them](https://vectara.com/avoiding-hallucinations-in-llm-powered-applications/)
-- [Investigating Linux phantom disk reads](https://questdb.io/blog/investigating-linux-phantom-disk-reads/)
-- [African Workers for ChatGPT, TikTok and Facebook Vote to Unionize](https://time.com/6275995/chatgpt-facebook-african-workers-union/)
-- [NYPD urges citizens to buy AirTags to fight surge in car thefts](https://arstechnica.com/gadgets/2023/05/nypd-urges-citizens-to-buy-airtags-to-fight-surge-in-car-thefts/)
-- [Eye Candy](https://eycndy.com)
+- [The Last Post](https://www.penmachine.com/2011/05/the-last-post)
+- [Somehow AutoHotKey is kinda good now](https://www.hillelwayne.com/post/ahk-v2/)
+- [Google employees complain about CEO&amp;#x27;s pay raise as cost cuts hit company](https://www.cnbc.com/2023/05/03/google-employees-complain-about-ceo-sundar-pichais-pay-raise.html)
+- [Hacker News Highlights](https://news.ycombinator.com/highlights)
+- [Enhancements to the Kagi Search Experience](https://blog.kagi.com/search-enhancements)
+- [What do historians lose with the decline of local news?](https://www.historytoday.com/archive/head-head/what-do-historians-lose-decline-local-news)
+- [Agile Soccer Skills for a Bipedal Robot with Deep Reinforcement Learning](https://twitter.com/haarnoja/status/1651577815836270596)
+- [TOTP Authentication with Free Software](https://lwn.net/Articles/925870/)
+- [Voyager as Technosignature](https://www.centauri-dreams.org/2023/05/03/voyager-as-technosignature/)
+- [Wearing an eye mask during sleep improves episodic learning and alertness](https://pubmed.ncbi.nlm.nih.gov/36521010/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

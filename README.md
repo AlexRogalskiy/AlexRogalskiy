@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Cognizant cuts 3,500 jobs in post-COVID, hybrid work restructuring plan](https://www.computerworld.com/article/3695768/cognizant-cuts-3500-jobs-in-post-covid-hybrid-work-restructuring-plan.html#tk.rss_all)
+- [Slack GPT brings native generative AI to chat app](https://www.computerworld.com/article/3695733/slack-gpt-brings-native-generative-ai-to-chat-app.html#tk.rss_all)
+- [White House unveils AI rules to address safety and privacy](https://www.computerworld.com/article/3695731/white-house-unveils-ai-rules-to-address-safety-and-privacy.html#tk.rss_all)
+- [Q&amp;A: Google’s Geoffrey Hinton — humanity just a &#39;passing phase&#39; in the evolution of intelligence](https://www.computerworld.com/article/3695568/qa-googles-geoffrey-hinton-humanity-just-a-passing-phase-in-the-evolution-of-intelligence.html#tk.rss_all)
+- [StatCounter data confirms Apple&#39;s Mac renaissance](https://www.computerworld.com/article/3695172/statcounter-data-confirms-apples-mac-renaissance.html#tk.rss_all)
+- [UK competition regulator launches review of AI market](https://www.computerworld.com/article/3695729/uk-competition-regulator-launches-review-of-ai-market.html#tk.rss_all)
+- [How to use Google passkeys for stronger security on Android](https://www.computerworld.com/article/3695076/google-passkeys-android-security.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [Data center sustainability becoming the norm, not the exception](https://www.networkworld.com/article/3695528/data-center-sustainability-becoming-the-norm-not-the-exception.html#tk.rss_all)
 - [AI deep fakes, mistakes, and biases may be unavoidable, but controllable](https://www.computerworld.com/article/3695508/ai-deep-fakes-mistakes-and-biases-may-be-unavoidable-but-controllable.html#tk.rss_all)
-- [Microsoft refreshes SharePoint and OneDrive with Copilot integration](https://www.computerworld.com/article/3695171/microsoft-refreshes-sharepoint-and-onedrive-with-copilot-integration.html#tk.rss_all)
-- [BlackCat group releases screenshots of stolen Western Digital data](https://www.csoonline.com/article/3694904/blackcat-group-releases-screenshots-of-stolen-western-digital-data.html#tk.rss_all)
-- [Are Apple’s upcoming AR glasses already obsolete?](https://www.computerworld.com/article/3694876/are-apple-s-ar-glasses-already-obsolete.html#tk.rss_all)
-- [Q&amp;A: At MIT event, Tom Siebel sees ‘terrifying’ consequences from using AI](https://www.computerworld.com/article/3695073/qa-at-mit-tom-siebel-labels-the-consequences-of-ai-as-terrifying.html#tk.rss_all)
-- [Box adds generative AI capabilities through OpenAI partnership](https://www.computerworld.com/article/3694898/box-adds-generative-ai-capabilities-through-openai-partnership.html#tk.rss_all)
-- [Apple, Google team up to tackle Bluetooth tracker-stalking terror](https://www.computerworld.com/article/3694856/apple-google-team-up-to-tackle-bluetooth-tracker-stalking-terror.html#tk.rss_all)
-- [Samsung bans staff AI use over data leak concerns](https://www.csoonline.com/article/3695170/samsung-bans-staff-ai-use-over-data-leak-concerns.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

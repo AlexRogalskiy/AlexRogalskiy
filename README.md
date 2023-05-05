@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Cost of the crown part 4: calculating the king’s wealth – podcast](https://www.theguardian.com/news/audio/2023/may/04/cost-of-the-crown-part-4-calculating-king-charles-wealth-podcast)
-- [Russia-Ukraine war live: air raid sirens in Kyiv and blasts in Odesa; Zelenskiy denies responsibility for Kremlin drone attack](https://www.theguardian.com/world/live/2023/may/04/russia-ukraine-war-live-air-raid-sirens-in-kyiv-and-eastern-regions-zelenskiy-denies-responsibility-for-kremlin-drone-attack)
-- [Folklore and fireworks as Tanna island, and the wider Pacific, gear up to mark the coronation](https://www.theguardian.com/world/2023/may/04/folklore-and-fireworks-as-tanna-island-and-the-wider-pacific-gear-up-to-mark-the-coronation)
-- [Outrage simmers in New York after the killing of Jordan Neely on a subway train](https://www.theguardian.com/us-news/2023/may/03/jordan-neely-death-new-york-city-subway)
-- [US judge throws out Donald Trump’s lawsuit against New York Times](https://www.theguardian.com/us-news/2023/may/03/donald-trump-lawsuit-new-york-times-mary-trump)
-- [Thai PM candidate keen to get back to campaigning two days after giving birth](https://www.theguardian.com/world/2023/may/04/thai-pm-candidate-keen-to-get-back-to-campaigning-two-days-after-giving-birth)
-- [Russia-Ukraine war at a glance: what we know on day 435 of the invasion](https://www.theguardian.com/world/2023/may/04/russia-ukraine-war-at-a-glance-what-we-know-on-day-435-of-the-invasion)
-- [PSG condemn fans who chanted for Neymar to leave outside his house](https://www.theguardian.com/football/2023/may/04/psg-condemn-fans-who-chanted-for-neymar-to-leave-outside-his-house)
-- [Commonwealth Indigenous leaders demand apology from the king for effects of colonisation](https://www.theguardian.com/uk-news/2023/may/04/commonwealth-indigenous-leaders-demand-apology-from-the-king-for-effects-of-colonisation)
-- [Trump described E Jean Carroll rape accusation as ‘ridiculous’, jury hears](https://www.theguardian.com/us-news/2023/may/03/e-jean-carroll-trump-rape-trial-jury-new-york)
+- [Local elections 2023: first England councils declare – live updates](https://www.theguardian.com/politics/live/2023/may/04/local-elections-2023-latest-results-reactions-polls-close-england-conservatives-labour-rishi-sunak-keir-starmer-lib-dems-greens-live-updates)
+- [Cost of the crown part 5: the coronation of Charles III – podcast](https://www.theguardian.com/news/audio/2023/may/05/cost-of-the-crown-part-5-the-coronation-of-charles-iii-podcast)
+- [Serbia: eight killed in second mass shooting in days, with attacker on the run](https://www.theguardian.com/world/2023/may/05/serbia-eight-killed-in-second-mass-shooting-in-days-with-attacker-on-the-run)
+- [Kari Lake’s lawyers fined over ‘false factual statements’ on election fraud](https://www.theguardian.com/us-news/2023/may/04/kari-lake-lawyers-fined-false-factual-statements)
+- [No 1 v No 2: Iga Swiatek wins to set up Madrid Open final with Sabalenka](https://www.theguardian.com/sport/2023/may/05/iga-swiatek-tennis-madrid-open-final-aryna-sabalenka-stefanos-tsitsipas)
+- [World’s foremost royal menu collector reveals king’s coronation quiche a far cry from beheaded quails of old](https://www.theguardian.com/uk-news/2023/may/05/king-charles-iii-coronation-menu-australian-expert-jake-smith-royal-recipes-collection)
+- [Russia-Ukraine war at a glance: what we know on day 436 of the invasion](https://www.theguardian.com/world/2023/may/05/russia-ukraine-war-at-a-glance-what-we-know-on-day-436-of-the-invasion)
+- [Windsor coronation police chief warns of ‘lower tolerance’ for protest disruption](https://www.theguardian.com/uk-news/2023/may/04/windsor-coronation-police-chief-warns-of-lower-tolerance-for-disruption)
+- [Majority of NHS trusts provide no dedicated training to prevent sexual harassment](https://www.theguardian.com/society/2023/may/05/majority-nhs-trusts-no-dedicated-training-to-prevent-sexual-harassment)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2023/may/05/premier-league-10-things-to-look-out-for-this-weekend)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [What Can a $60k Media Server Do?](https://www.youtube.com/watch?v=d5Pq7QhqHvk)
-- [Ask HN: Logging Mac Trackpad Data?](https://news.ycombinator.com/item?id=35810483)
-- [Weird people trying to fall in fake love with AI](https://www.myaiobsession.com/p/my-ai-girlfriend-broke-up-with-me)
-- [Solidigm Amplifies P41 Plus and P44 Pro Performance with Custom Driver](https://www.anandtech.com/show/18848/solidigm-synergy-20-amplifies-p41-plus-and-p44-pro-performance-with-custom-driver)
-- [Gene therapy reverses vision loss in primates – by making their eyes young again](https://www.freethink.com/health/gene-therapy-naion)
-- [CodeGen2 Models for Program Synthesis](https://github.com/salesforce/CodeGen2)
-- [Stacked PRs – Pros and Cons?](https://news.ycombinator.com/item?id=35810324)
-- [Is It Snappy?](https://isitsnappy.com/)
-- [Show HN: Multi-Line Calculator](http://calculator.merkoba.com/)
-- [UDP transmitter implemented with PIO and DMA on the RP2040](https://vanhunteradams.com/Pico/Ethernet/UPD_TX.html)
+- [New catalyst transforms carbon dioxide into sustainable byproduct](https://phys.org/news/2023-05-catalyst-carbon-dioxide-sustainable-byproduct.html)
+- [3D X-DRAM Roadmap: 1Tb Die Density by 2030](https://www.tomshardware.com/news/3d-x-dram-roadmap-1tb-die-density-by-2030)
+- [God bye postman, Welcome DSL HTTP tests with T-Rext](https://news.ycombinator.com/item?id=35824538)
+- [Why the ‘Sleeping Beauty Problem’ Is Keeping Mathematicians Awake](https://www.scientificamerican.com/article/why-the-sleeping-beauty-problem-is-keeping-mathematicians-awake/)
+- [Aggregate any AI model and integrate any database under one API](https://github.com/apolloapi/apolloapi)
+- [The Delirious Rise of ‘Superfake’ Handbags](https://www.nytimes.com/2023/05/04/magazine/celine-chanel-gucci-superfake-handbags.html)
+- [$10M Is Yours If You Can Get This Guy to Leave Russia](https://krebsonsecurity.com/2023/05/10m-is-yours-if-you-can-get-this-guy-to-leave-russia/)
+- [Poll: How interested are you in watching TV or movies created by ChatGPT?](https://news.ycombinator.com/item?id=35824429)
+- [Poll: How interested are you in watching TV or movies created by ChatGPT?](https://news.ycombinator.com/item?id=35824417)
+- [Google tells staff it plans to limit publishing AI research](https://www.businessinsider.com/google-publishing-less-confidential-ai-research-to-compete-with-openai-2023-4)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

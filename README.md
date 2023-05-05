@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The Last Post](https://www.penmachine.com/2011/05/the-last-post)
-- [Somehow AutoHotKey is kinda good now](https://www.hillelwayne.com/post/ahk-v2/)
-- [Google employees complain about CEO&amp;#x27;s pay raise as cost cuts hit company](https://www.cnbc.com/2023/05/03/google-employees-complain-about-ceo-sundar-pichais-pay-raise.html)
-- [Hacker News Highlights](https://news.ycombinator.com/highlights)
-- [Enhancements to the Kagi Search Experience](https://blog.kagi.com/search-enhancements)
-- [What do historians lose with the decline of local news?](https://www.historytoday.com/archive/head-head/what-do-historians-lose-decline-local-news)
-- [Agile Soccer Skills for a Bipedal Robot with Deep Reinforcement Learning](https://twitter.com/haarnoja/status/1651577815836270596)
-- [TOTP Authentication with Free Software](https://lwn.net/Articles/925870/)
-- [Voyager as Technosignature](https://www.centauri-dreams.org/2023/05/03/voyager-as-technosignature/)
-- [Wearing an eye mask during sleep improves episodic learning and alertness](https://pubmed.ncbi.nlm.nih.gov/36521010/)
+- [MaMMUT: A simple vision-encoder text-decoder architecture for multimodal tasks](https://ai.googleblog.com/2023/05/mammut-simple-vision-encoder-text.html)
+- [Westinghouse AP300 Small Module Reactor](https://www.westinghousenuclear.com/energy-systems/ap300-smr)
+- [Restricted Library Mode &lpar;Breaking change to Val Town&rpar;](https://blog.val.town/blog/restricted-library-mode)
+- [Fixing Hallucination with Knowledge Bases](https://www.pinecone.io/learn/langchain-retrieval-augmentation/)
+- [America’s first high-volume ‘PFAS Annihilator’ is up and running in W. Michigan](https://www.woodtv.com/news/kent-county/americas-first-high-volume-pfas-annihilator-is-up-and-running-in-west-michigan/)
+- [Re-implementing LangChain in 100 lines of code](https://blog.scottlogic.com/2023/05/04/langchain-mini.html)
+- [So this guy is now S3. All of S3](https://chaos.social/@jonty/110307532009155432)
+- [Pynecone – Performant, customizable web apps in pure Python](https://pynecone.io/)
+- [Roll your own JavaScript runtime, pt. 3](https://deno.com/blog/roll-your-own-javascript-runtime-pt3)
+- [Augmenting LLMs Beyond Basic Text Completion and Transformation](https://blog.deepgram.com/augmenting-llms-beyond-basic-text-completion-and-transformation/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Local elections 2023: first England councils declare – live updates](https://www.theguardian.com/politics/live/2023/may/04/local-elections-2023-latest-results-reactions-polls-close-england-conservatives-labour-rishi-sunak-keir-starmer-lib-dems-greens-live-updates)
-- [Cost of the crown part 5: the coronation of Charles III – podcast](https://www.theguardian.com/news/audio/2023/may/05/cost-of-the-crown-part-5-the-coronation-of-charles-iii-podcast)
-- [Serbia: eight killed in second mass shooting in days, with attacker on the run](https://www.theguardian.com/world/2023/may/05/serbia-eight-killed-in-second-mass-shooting-in-days-with-attacker-on-the-run)
-- [Kari Lake’s lawyers fined over ‘false factual statements’ on election fraud](https://www.theguardian.com/us-news/2023/may/04/kari-lake-lawyers-fined-false-factual-statements)
-- [No 1 v No 2: Iga Swiatek wins to set up Madrid Open final with Sabalenka](https://www.theguardian.com/sport/2023/may/05/iga-swiatek-tennis-madrid-open-final-aryna-sabalenka-stefanos-tsitsipas)
-- [World’s foremost royal menu collector reveals king’s coronation quiche a far cry from beheaded quails of old](https://www.theguardian.com/uk-news/2023/may/05/king-charles-iii-coronation-menu-australian-expert-jake-smith-royal-recipes-collection)
-- [Russia-Ukraine war at a glance: what we know on day 436 of the invasion](https://www.theguardian.com/world/2023/may/05/russia-ukraine-war-at-a-glance-what-we-know-on-day-436-of-the-invasion)
-- [Windsor coronation police chief warns of ‘lower tolerance’ for protest disruption](https://www.theguardian.com/uk-news/2023/may/04/windsor-coronation-police-chief-warns-of-lower-tolerance-for-disruption)
-- [Majority of NHS trusts provide no dedicated training to prevent sexual harassment](https://www.theguardian.com/society/2023/may/05/majority-nhs-trusts-no-dedicated-training-to-prevent-sexual-harassment)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2023/may/05/premier-league-10-things-to-look-out-for-this-weekend)
+- [Super League game descends into chaos as raging bull chases players from field](https://www.theguardian.com/sport/2023/may/06/super-league-game-descends-into-chaos-as-raging-bull-chases-players-from-field)
+- [Kentucky man gets record-setting 14 year sentence for role in Capitol attack](https://www.theguardian.com/us-news/2023/may/05/kentucky-man-gets-record-setting-14-year-sentence-for-role-in-capitol-attack)
+- [‘Charlie is my darling’: what the papers say on king’s coronation day](https://www.theguardian.com/media/2023/may/06/charlie-is-my-darling-what-the-papers-say-on-kings-coronation-day)
+- [Jordan Neely killing: marine veteran could face manslaughter charge, says expert](https://www.theguardian.com/us-news/2023/may/05/jordan-neely-killing-marine-identified)
+- [Julian Assange writes letter to King Charles and urges him to visit Belmarsh prison](https://www.theguardian.com/media/2023/may/06/julian-assange-writes-letter-to-king-charles-and-urges-him-to-visit-belmarsh-prison)
+- [Half of Trump’s ‘fake electors’ accept immunity in Georgia investigation](https://www.theguardian.com/us-news/2023/may/05/georgia-fake-electors-immunity-deals)
+- [Serbia’s Filip Mladenovic given three-month ban for Polish Cup final attacks](https://www.theguardian.com/football/2023/may/06/serbias-filip-mladenovic-given-three-month-ban-for-polish-cup-final-attacks)
+- [Global heads gather in London for lavish coronation of Charles and Camilla](https://www.theguardian.com/uk-news/2023/may/06/global-heads-gather-in-london-for-lavish-coronation-of-charles-and-camilla)
+- [King Charles’s coronation: order of service for the ceremony](https://www.theguardian.com/uk-news/2023/may/06/king-charless-coronation-order-of-service-for-the-ceremony)
+- [Coronation treasures: from the stone of destiny to the sovereign’s orb](https://www.theguardian.com/uk-news/2023/may/06/coronation-treasures-from-the-stone-of-destiny-to-the-sovereigns-orb)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [MaMMUT: A simple vision-encoder text-decoder architecture for multimodal tasks](https://ai.googleblog.com/2023/05/mammut-simple-vision-encoder-text.html)
-- [Westinghouse AP300 Small Module Reactor](https://www.westinghousenuclear.com/energy-systems/ap300-smr)
-- [Restricted Library Mode &lpar;Breaking change to Val Town&rpar;](https://blog.val.town/blog/restricted-library-mode)
-- [Fixing Hallucination with Knowledge Bases](https://www.pinecone.io/learn/langchain-retrieval-augmentation/)
-- [America’s first high-volume ‘PFAS Annihilator’ is up and running in W. Michigan](https://www.woodtv.com/news/kent-county/americas-first-high-volume-pfas-annihilator-is-up-and-running-in-west-michigan/)
-- [Re-implementing LangChain in 100 lines of code](https://blog.scottlogic.com/2023/05/04/langchain-mini.html)
-- [So this guy is now S3. All of S3](https://chaos.social/@jonty/110307532009155432)
-- [Pynecone – Performant, customizable web apps in pure Python](https://pynecone.io/)
-- [Roll your own JavaScript runtime, pt. 3](https://deno.com/blog/roll-your-own-javascript-runtime-pt3)
-- [Augmenting LLMs Beyond Basic Text Completion and Transformation](https://blog.deepgram.com/augmenting-llms-beyond-basic-text-completion-and-transformation/)
+- [Shap-e – 3D Generative Modeling](https://github.com/openai/shap-e)
+- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Senior Software Engineer &lpar;Remote&rpar;](https://news.ycombinator.com/item?id=35836933)
+- [1 in 5 adults don’t want children –– and they don’t regret it later](https://www.eurekalert.org/news-releases/985251)
+- [TikTok tracked users who watched gay content, prompting employee complaints](https://www.wsj.com/articles/tiktok-tracked-users-who-watched-gay-content-prompting-employee-complaints-5966a5f5)
+- [JPL Horizons Sending Too Many Emails](https://astronomy.stackexchange.com/questions/53617/jpl-horizons-sending-too-many-emails)
+- [Show HN: UnionX – GPT4-powered Copilot for Work with Jupyter-style notebooks](https://www.unionx.io/)
+- [When “free forever” means “free for the next 4 months”](https://blog.zulip.com/2023/05/04/when-free-forever-is-4-months/)
+- [Releasing 3B and 7B RedPajama](https://www.together.xyz/blog/redpajama-models-v1)
+- [A Detailed Look Into The Making of Tron Legacy VFX](https://gmunk.com/TRON-Legacy)
+- [Show HN: Avoiding Imgur Link Rot](https://haasie.com)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

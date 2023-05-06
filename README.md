@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [How many jobs are available in technology in the US?](https://www.computerworld.com/article/3542681/how-many-jobs-are-available-in-technology.html#tk.rss_all)
+- [Microsoft reportedly rallies behind AMD to develop chips for AI workloads](https://www.networkworld.com/article/3695690/microsoft-reportedly-rallies-behind-amd-to-develop-chips-for-ai-workloads.html#tk.rss_all)
+- [Building a digital clone or assistant with generative AI — good idea or bad?](https://www.computerworld.com/article/3695534/building-a-digital-clone-or-assistant-with-generative-ai-good-idea-or-bad.html#tk.rss_all)
+- [Apple Q2 results beat estimates, set records, but guidance is flat](https://www.computerworld.com/article/3695689/apple-q2-results-beat-estimates-set-records-but-guidance-is-flat.html#tk.rss_all)
+- [How to reduce Windows driver bloat](https://www.computerworld.com/article/3322513/how-to-reduce-windows-driver-bloat-remove-outdated-drivers.html#tk.rss_all)
 - [Cognizant cuts 3,500 jobs in post-COVID, hybrid work restructuring plan](https://www.computerworld.com/article/3695768/cognizant-cuts-3500-jobs-in-post-covid-hybrid-work-restructuring-plan.html#tk.rss_all)
 - [Slack GPT brings native generative AI to chat app](https://www.computerworld.com/article/3695733/slack-gpt-brings-native-generative-ai-to-chat-app.html#tk.rss_all)
 - [White House unveils AI rules to address safety and privacy](https://www.computerworld.com/article/3695731/white-house-unveils-ai-rules-to-address-safety-and-privacy.html#tk.rss_all)
 - [Q&amp;A: Google’s Geoffrey Hinton — humanity just a &#39;passing phase&#39; in the evolution of intelligence](https://www.computerworld.com/article/3695568/qa-googles-geoffrey-hinton-humanity-just-a-passing-phase-in-the-evolution-of-intelligence.html#tk.rss_all)
 - [StatCounter data confirms Apple&#39;s Mac renaissance](https://www.computerworld.com/article/3695172/statcounter-data-confirms-apples-mac-renaissance.html#tk.rss_all)
-- [UK competition regulator launches review of AI market](https://www.computerworld.com/article/3695729/uk-competition-regulator-launches-review-of-ai-market.html#tk.rss_all)
-- [How to use Google passkeys for stronger security on Android](https://www.computerworld.com/article/3695076/google-passkeys-android-security.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [Data center sustainability becoming the norm, not the exception](https://www.networkworld.com/article/3695528/data-center-sustainability-becoming-the-norm-not-the-exception.html#tk.rss_all)
-- [AI deep fakes, mistakes, and biases may be unavoidable, but controllable](https://www.computerworld.com/article/3695508/ai-deep-fakes-mistakes-and-biases-may-be-unavoidable-but-controllable.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

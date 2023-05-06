@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [New catalyst transforms carbon dioxide into sustainable byproduct](https://phys.org/news/2023-05-catalyst-carbon-dioxide-sustainable-byproduct.html)
-- [3D X-DRAM Roadmap: 1Tb Die Density by 2030](https://www.tomshardware.com/news/3d-x-dram-roadmap-1tb-die-density-by-2030)
-- [God bye postman, Welcome DSL HTTP tests with T-Rext](https://news.ycombinator.com/item?id=35824538)
-- [Why the ‘Sleeping Beauty Problem’ Is Keeping Mathematicians Awake](https://www.scientificamerican.com/article/why-the-sleeping-beauty-problem-is-keeping-mathematicians-awake/)
-- [Aggregate any AI model and integrate any database under one API](https://github.com/apolloapi/apolloapi)
-- [The Delirious Rise of ‘Superfake’ Handbags](https://www.nytimes.com/2023/05/04/magazine/celine-chanel-gucci-superfake-handbags.html)
-- [$10M Is Yours If You Can Get This Guy to Leave Russia](https://krebsonsecurity.com/2023/05/10m-is-yours-if-you-can-get-this-guy-to-leave-russia/)
-- [Poll: How interested are you in watching TV or movies created by ChatGPT?](https://news.ycombinator.com/item?id=35824429)
-- [Poll: How interested are you in watching TV or movies created by ChatGPT?](https://news.ycombinator.com/item?id=35824417)
-- [Google tells staff it plans to limit publishing AI research](https://www.businessinsider.com/google-publishing-less-confidential-ai-research-to-compete-with-openai-2023-4)
+- [ChatGPT ‘portfolio’ outperforms leading UK funds](https://www.finder.com/uk/press-release-chatgpt-investment-fund)
+- [Coinbase &lpar;?&rpar; had a $65M Datadog bill per Datadog&#39;s Q1 earnings call](https://twitter.com/TurnerNovak/status/1654577231937544192/photo/1)
+- [Zulip server and web application. Open-source team chat](https://github.com/zulip/zulip)
+- [A Child&#39;s Plaything](http://www.tobyord.com/writing/a-childs-plaything)
+- [The Worst Coronations in History](https://edwest.substack.com/p/the-worst-coronations-in-history)
+- [Responsible AI at Google Research](https://ai.googleblog.com/2023/04/responsible-ai-at-google-research.html)
+- [Everyone Has JavaScript, Right?](https://www.kryogenix.org/code/browser/everyonehasjs.html)
+- [Auxetics-Inspired Tunable Metamaterials for Magnetic Resonance Imaging [pdf]](https://www.statnews.com/wp-content/uploads/2023/05/Auxetics%E2%80%90Inspired-Tunable-Metamaterials-for-Magnetic-Resonance-Imaging.pdf)
+- [Using GenAI to imitate human behaviour](https://www.microsoft.com/en-us/research/blog/using-enerative-ai-to-imitate-human-behavior/)
+- [AI self-play for algorithm design](https://www.microsoft.com/en-us/research/blog/ai-self-play-for-algorithm-design/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

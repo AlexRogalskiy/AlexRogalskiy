@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Super League game descends into chaos as raging bull chases players from field](https://www.theguardian.com/sport/2023/may/06/super-league-game-descends-into-chaos-as-raging-bull-chases-players-from-field)
-- [Kentucky man gets record-setting 14 year sentence for role in Capitol attack](https://www.theguardian.com/us-news/2023/may/05/kentucky-man-gets-record-setting-14-year-sentence-for-role-in-capitol-attack)
-- [‘Charlie is my darling’: what the papers say on king’s coronation day](https://www.theguardian.com/media/2023/may/06/charlie-is-my-darling-what-the-papers-say-on-kings-coronation-day)
-- [Jordan Neely killing: marine veteran could face manslaughter charge, says expert](https://www.theguardian.com/us-news/2023/may/05/jordan-neely-killing-marine-identified)
-- [Julian Assange writes letter to King Charles and urges him to visit Belmarsh prison](https://www.theguardian.com/media/2023/may/06/julian-assange-writes-letter-to-king-charles-and-urges-him-to-visit-belmarsh-prison)
-- [Half of Trump’s ‘fake electors’ accept immunity in Georgia investigation](https://www.theguardian.com/us-news/2023/may/05/georgia-fake-electors-immunity-deals)
-- [Serbia’s Filip Mladenovic given three-month ban for Polish Cup final attacks](https://www.theguardian.com/football/2023/may/06/serbias-filip-mladenovic-given-three-month-ban-for-polish-cup-final-attacks)
-- [Global heads gather in London for lavish coronation of Charles and Camilla](https://www.theguardian.com/uk-news/2023/may/06/global-heads-gather-in-london-for-lavish-coronation-of-charles-and-camilla)
-- [King Charles’s coronation: order of service for the ceremony](https://www.theguardian.com/uk-news/2023/may/06/king-charless-coronation-order-of-service-for-the-ceremony)
-- [Coronation treasures: from the stone of destiny to the sovereign’s orb](https://www.theguardian.com/uk-news/2023/may/06/coronation-treasures-from-the-stone-of-destiny-to-the-sovereigns-orb)
+- [Canelo Álvarez v John Ryder: undisputed super middleweight championship – live](https://www.theguardian.com/sport/live/2023/may/06/canelo-alvarez-v-john-ryder-fight-live)
+- [Several dead including gunman after shooting at Dallas mall](https://www.theguardian.com/us-news/2023/may/06/police-respond-to-shooting-in-dallas-mall)
+- [Rise of artificial intelligence is inevitable but should not be feared, ‘father of AI’ says](https://www.theguardian.com/technology/2023/may/07/rise-of-artificial-intelligence-is-inevitable-but-should-not-be-feared-father-of-ai-says)
+- [Inflation may be about to fall, but the interest rate pain is not over yet](https://www.theguardian.com/business/2023/may/07/inflation-may-be-about-to-fall-but-the-interest-rate-pain-is-not-over-yet)
+- [We love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2023/may/06/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Three people stabbed to death in east London in less than eight hours](https://www.theguardian.com/uk-news/2023/may/06/three-people-stabbed-to-death-in-east-london-in-less-than-eight-hours)
+- [The perfect wedding guest: outfits to wear to the big day – in pictures](https://www.theguardian.com/fashion/gallery/2023/may/06/the-perfect-wedding-guest-outfits-to-wear-to-the-big-day-in-pictures)
+- [Richard Dreyfuss says Oscar diversity rules ‘make me vomit’](https://www.theguardian.com/film/2023/may/06/richard-dreyfuss-says-oscar-diversity-rules-make-me-vomit)
+- [Miami F1 GP drama: Leclerc crash hands Pérez pole as Verstappen suffers](https://www.theguardian.com/sport/2023/may/06/miami-f1-gp-drama-as-leclerc-crash-hands-perez-pole-while-hamilton-suffers)
+- [Pro-Kremlin writer Zakhar Prilepin injured in car explosion, says Russia](https://www.theguardian.com/world/2023/may/06/pro-kremlin-writer-zakhar-prilepin-injured-in-car-explosion-says-russia)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

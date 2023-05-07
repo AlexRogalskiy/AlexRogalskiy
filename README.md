@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [ChatGPT ‘portfolio’ outperforms leading UK funds](https://www.finder.com/uk/press-release-chatgpt-investment-fund)
-- [Coinbase &lpar;?&rpar; had a $65M Datadog bill per Datadog&#39;s Q1 earnings call](https://twitter.com/TurnerNovak/status/1654577231937544192/photo/1)
-- [Zulip server and web application. Open-source team chat](https://github.com/zulip/zulip)
-- [A Child&#39;s Plaything](http://www.tobyord.com/writing/a-childs-plaything)
-- [The Worst Coronations in History](https://edwest.substack.com/p/the-worst-coronations-in-history)
-- [Responsible AI at Google Research](https://ai.googleblog.com/2023/04/responsible-ai-at-google-research.html)
-- [Everyone Has JavaScript, Right?](https://www.kryogenix.org/code/browser/everyonehasjs.html)
-- [Auxetics-Inspired Tunable Metamaterials for Magnetic Resonance Imaging [pdf]](https://www.statnews.com/wp-content/uploads/2023/05/Auxetics%E2%80%90Inspired-Tunable-Metamaterials-for-Magnetic-Resonance-Imaging.pdf)
-- [Using GenAI to imitate human behaviour](https://www.microsoft.com/en-us/research/blog/using-enerative-ai-to-imitate-human-behavior/)
-- [AI self-play for algorithm design](https://www.microsoft.com/en-us/research/blog/ai-self-play-for-algorithm-design/)
+- [Ben Nadel: On Starting a Side-Project: Hotwire vs. Angular](https://www.bennadel.com/blog/4458-on-starting-a-side-project-hotwire-vs-angular.htm)
+- [Randomized trial of potential of different beverages to affect hydration status](https://academic.oup.com/ajcn/article/103/3/717/4564598)
+- [Next C++ book or course to do after doing PJA videos?](https://news.ycombinator.com/item?id=35847299)
+- [Reflections on Trusting Trust &lpar;1984&rpar; [pdf]](https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf)
+- [Hyperbolic Image-Text Representations](https://arxiv.org/abs/2304.09172)
+- [RedisRaft](https://github.com/RedisLabs/redisraft/blob/master/docs/Introduction.md)
+- [California’s Income Tax on Electricity](https://www.wsj.com/articles/california-democrats-income-electricity-bill-energy-climate-68aec815)
+- [Crypto Exchange OKX suddenly drastically limits withdrawals](https://bxjsjsbhdhwjb.xlog.app/OKX-suddenly-drastically-limits-withdrawals)
+- [Technofad Driven Development](https://news.ycombinator.com/item?id=35847224)
+- [Zig Language Server and Cancellation](https://matklad.github.io/2023/05/06/zig-language-server-and-cancellation.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

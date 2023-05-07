@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Shap-e – 3D Generative Modeling](https://github.com/openai/shap-e)
-- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Senior Software Engineer &lpar;Remote&rpar;](https://news.ycombinator.com/item?id=35836933)
-- [1 in 5 adults don’t want children –– and they don’t regret it later](https://www.eurekalert.org/news-releases/985251)
-- [TikTok tracked users who watched gay content, prompting employee complaints](https://www.wsj.com/articles/tiktok-tracked-users-who-watched-gay-content-prompting-employee-complaints-5966a5f5)
-- [JPL Horizons Sending Too Many Emails](https://astronomy.stackexchange.com/questions/53617/jpl-horizons-sending-too-many-emails)
-- [Show HN: UnionX – GPT4-powered Copilot for Work with Jupyter-style notebooks](https://www.unionx.io/)
-- [When “free forever” means “free for the next 4 months”](https://blog.zulip.com/2023/05/04/when-free-forever-is-4-months/)
-- [Releasing 3B and 7B RedPajama](https://www.together.xyz/blog/redpajama-models-v1)
-- [A Detailed Look Into The Making of Tron Legacy VFX](https://gmunk.com/TRON-Legacy)
-- [Show HN: Avoiding Imgur Link Rot](https://haasie.com)
+- [Nintendo issues DMCA takedown for Switch homebrew projects](https://gbatemp.net/threads/nintendo-reportedly-issues-dmca-takedown-for-switch-homebrew-projects-skyline-switch-emulator-development-ceased.632406/)
+- [Show HN: Git Hooting](https://git.ht)
+- [qsort.h – Quicksort as a C macro &lpar;2019&rpar;](https://github.com/svpv/qsort)
+- [70% of Type 2 Diabetes Cases Linked to Food Choices](https://scitechdaily.com/new-study-70-of-type-2-diabetes-cases-linked-to-food-choices/)
+- [KDE Developers in Germany Planning for Plasma 6.0](https://www.phoronix.com/news/KDE-Plasma-6-Sprint-Germany)
+- [FaaS in Go with WASM, WASI and Rust](https://eli.thegreenplace.net/2023/faas-in-go-with-wasm-wasi-and-rust/)
+- [Biggest industries burn through $7.3T of natural capital a year](https://grist.org/business-technology/none-of-the-worlds-top-industries-would-be-profitable-if-they-paid-for-the-natural-capital-they-use/)
+- [The Coggers – history and tragedy of the first US mountain railroad](http://www.northstarmonthly.com/features/the-history-and-tragedy-of-the-first-mountain-railroad-through-the-eyes-of-past-employees/article_ec1814fa-515a-11e9-9de4-7b44d5b8c75e.html)
+- [Windows 11: TPMs and Digital Sovereignty](https://secret.club/2021/06/28/windows11-tpms.html)
+- [I downloaded all 1.6M posts on Bluesky](https://worthdoingbadly.com/bsky/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Nintendo issues DMCA takedown for Switch homebrew projects](https://gbatemp.net/threads/nintendo-reportedly-issues-dmca-takedown-for-switch-homebrew-projects-skyline-switch-emulator-development-ceased.632406/)
-- [Show HN: Git Hooting](https://git.ht)
-- [qsort.h – Quicksort as a C macro &lpar;2019&rpar;](https://github.com/svpv/qsort)
-- [70% of Type 2 Diabetes Cases Linked to Food Choices](https://scitechdaily.com/new-study-70-of-type-2-diabetes-cases-linked-to-food-choices/)
-- [KDE Developers in Germany Planning for Plasma 6.0](https://www.phoronix.com/news/KDE-Plasma-6-Sprint-Germany)
-- [FaaS in Go with WASM, WASI and Rust](https://eli.thegreenplace.net/2023/faas-in-go-with-wasm-wasi-and-rust/)
-- [Biggest industries burn through $7.3T of natural capital a year](https://grist.org/business-technology/none-of-the-worlds-top-industries-would-be-profitable-if-they-paid-for-the-natural-capital-they-use/)
-- [The Coggers – history and tragedy of the first US mountain railroad](http://www.northstarmonthly.com/features/the-history-and-tragedy-of-the-first-mountain-railroad-through-the-eyes-of-past-employees/article_ec1814fa-515a-11e9-9de4-7b44d5b8c75e.html)
-- [Windows 11: TPMs and Digital Sovereignty](https://secret.club/2021/06/28/windows11-tpms.html)
-- [I downloaded all 1.6M posts on Bluesky](https://worthdoingbadly.com/bsky/)
+- [US banking crisis: Warren Buffett says bosses should face ‘punishment’](https://www.theguardian.com/business/2023/may/07/us-banking-crisis-warren-buffett-says-bosses-should-face-punishment)
+- [Intel Skulltrail](https://en.wikipedia.org/wiki/Intel_Skulltrail)
+- [Ancient Earth Globe](https://dinosaurpictures.org/ancient-earth/#470)
+- [Inductive charging highway section to be built in Florida](https://www.electrive.com/2023/05/02/inductive-charging-highway-section-to-be-built-in-florida/)
+- [A Group Is Its Own Worst Enemy [pdf] &lpar;2005&rpar;](https://gwern.net/doc/technology/2005-shirky-agroupisitsownworstenemy.pdf)
+- [The Beginner&amp;#x27;s Guide to eBPF](https://github.com/lizrice/ebpf-beginners)
+- [Neil Postman: A civilized man in a century of barbarism &lpar;2003&rpar;](https://www.salon.com/2003/10/10/postman/)
+- [Some early praise for using drgn for poking into Linux kernel internals](https://utcc.utoronto.ca/~cks/space/blog/linux/DrgnKernelPokingPraise)
+- [Show HN: What do you think about my metasearch engine?](https://svmetasearch.eu.org)
+- [Prolog for Data Science](https://emiruz.com/post/2023-04-30-prolog-for-data-science/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

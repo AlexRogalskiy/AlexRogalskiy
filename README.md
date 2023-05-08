@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Canelo Álvarez v John Ryder: undisputed super middleweight championship – live](https://www.theguardian.com/sport/live/2023/may/06/canelo-alvarez-v-john-ryder-fight-live)
-- [Several dead including gunman after shooting at Dallas mall](https://www.theguardian.com/us-news/2023/may/06/police-respond-to-shooting-in-dallas-mall)
-- [Rise of artificial intelligence is inevitable but should not be feared, ‘father of AI’ says](https://www.theguardian.com/technology/2023/may/07/rise-of-artificial-intelligence-is-inevitable-but-should-not-be-feared-father-of-ai-says)
-- [Inflation may be about to fall, but the interest rate pain is not over yet](https://www.theguardian.com/business/2023/may/07/inflation-may-be-about-to-fall-but-the-interest-rate-pain-is-not-over-yet)
-- [We love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2023/may/06/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Three people stabbed to death in east London in less than eight hours](https://www.theguardian.com/uk-news/2023/may/06/three-people-stabbed-to-death-in-east-london-in-less-than-eight-hours)
-- [The perfect wedding guest: outfits to wear to the big day – in pictures](https://www.theguardian.com/fashion/gallery/2023/may/06/the-perfect-wedding-guest-outfits-to-wear-to-the-big-day-in-pictures)
-- [Richard Dreyfuss says Oscar diversity rules ‘make me vomit’](https://www.theguardian.com/film/2023/may/06/richard-dreyfuss-says-oscar-diversity-rules-make-me-vomit)
-- [Miami F1 GP drama: Leclerc crash hands Pérez pole as Verstappen suffers](https://www.theguardian.com/sport/2023/may/06/miami-f1-gp-drama-as-leclerc-crash-hands-perez-pole-while-hamilton-suffers)
-- [Pro-Kremlin writer Zakhar Prilepin injured in car explosion, says Russia](https://www.theguardian.com/world/2023/may/06/pro-kremlin-writer-zakhar-prilepin-injured-in-car-explosion-says-russia)
+- [Russia-Ukraine war live: five injured in Kyiv after night of strikes across Ukraine](https://www.theguardian.com/world/live/2023/may/08/russia-ukraine-war-live-five-injured-in-kyiv-drone-strikes-as-air-raid-sirens-sound-across-ukraine)
+- [Cotton Capital: the Guardian and reparations – podcast](https://www.theguardian.com/news/audio/2023/may/08/cotton-capital-the-guardian-and-reparations-podcast)
+- [Nikola Jokic given technical foul after tussle with Suns owner Ishbia during game](https://www.theguardian.com/sport/2023/may/07/nikola-jokic-mat-ishbia-suns-owner-nuggets-shove-nba-playoffs)
+- [Book Club: The Next Chapter review – smirking sequel as the squad head for Italy](https://www.theguardian.com/film/2023/may/08/book-club-the-next-chapter-review-diane-keaton-jane-fonda-smirking-sequel)
+- [Texas mall shooting: gunman expressed interest in neo-Nazi views – report](https://www.theguardian.com/us-news/2023/may/07/texas-mall-shooting-few-details-known)
+- [Russia-Ukraine war at a glance: what we know on day 439 of the invasion](https://www.theguardian.com/world/2023/may/08/russia-ukraine-war-at-a-glance-what-we-know-on-day-439-of-the-invasion)
+- [China’s war chest: how Beijing is using its currency to insulate against future sanctions](https://www.theguardian.com/world/2023/may/08/chinas-war-chest-how-beijing-is-using-its-currency-to-insulate-against-future-sanctions)
+- [Coronation Concert review – a cobbled-together bunch of B-listers](https://www.theguardian.com/music/2023/may/07/coronation-concert-review-a-cobbled-together-bunch-of-b-listers)
+- [Homicide squad investigating death of Melbourne man found in BMW with apparent bullet hole in windscreen](https://www.theguardian.com/australia-news/2023/may/08/homicide-squad-investigating-death-of-melbourne-man-found-in-bmw-with-apparent-bullet-hole-in-windscreen)
+- [At least 21 dead after boat overturns in India’s Kerala state](https://www.theguardian.com/world/2023/may/07/at-least-21-dead-after-boat-overturns-in-indias-kerala-state)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

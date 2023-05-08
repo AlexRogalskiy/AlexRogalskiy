@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ben Nadel: On Starting a Side-Project: Hotwire vs. Angular](https://www.bennadel.com/blog/4458-on-starting-a-side-project-hotwire-vs-angular.htm)
-- [Randomized trial of potential of different beverages to affect hydration status](https://academic.oup.com/ajcn/article/103/3/717/4564598)
-- [Next C++ book or course to do after doing PJA videos?](https://news.ycombinator.com/item?id=35847299)
-- [Reflections on Trusting Trust &lpar;1984&rpar; [pdf]](https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf)
-- [Hyperbolic Image-Text Representations](https://arxiv.org/abs/2304.09172)
-- [RedisRaft](https://github.com/RedisLabs/redisraft/blob/master/docs/Introduction.md)
-- [California’s Income Tax on Electricity](https://www.wsj.com/articles/california-democrats-income-electricity-bill-energy-climate-68aec815)
-- [Crypto Exchange OKX suddenly drastically limits withdrawals](https://bxjsjsbhdhwjb.xlog.app/OKX-suddenly-drastically-limits-withdrawals)
-- [Technofad Driven Development](https://news.ycombinator.com/item?id=35847224)
-- [Zig Language Server and Cancellation](https://matklad.github.io/2023/05/06/zig-language-server-and-cancellation.html)
+- [Ask HN: Does Chat GPT and Code interpreter signal end of Data science?](https://news.ycombinator.com/item?id=35857373)
+- [Critical heat flux diagnosis using conditional generative adversarial networks](https://arxiv.org/abs/2305.02622)
+- [Reducing the Drag of a Bluff Body by Deep Reinforcement Learning](https://arxiv.org/abs/2305.03647)
+- [Programming Types and Mindsets](https://world.hey.com/dhh/programming-types-and-mindsets-5b8490bc)
+- [Lina Khan Has a Meta Fixation](https://www.wsj.com/articles/lina-khan-has-a-meta-fixation-consent-decree-ftc-court-privacy-congress-212dd19d)
+- [Revealed: Modern humans needed three tries and 12,000 years to colonise Europe](https://www.theguardian.com/science/2023/may/07/revealed-modern-humans-needed-three-tries-and-12000-years-to-colonise-europe)
+- [The Ether Dreams of Fin-de-Siècle Paris](https://publicdomainreview.org/essay/ether-dreams)
+- [US banking crisis: Warren Buffett says bosses should face ‘punishment’](https://www.theguardian.com/business/2023/may/07/us-banking-crisis-warren-buffett-says-bosses-should-face-punishment)
+- [History of Tel-Tru Thermometers: 100 years of US manufacturing](https://teltruhome.com/topic/earlyhistory)
+- [California Defaults on $18.5B Debt, Leaving CA Businesses Liable](https://www.hoover.org/research/california-defaults-185-billion-debt-leaving-state-businesses-holding-bag)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

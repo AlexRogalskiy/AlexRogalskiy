@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [US banking crisis: Warren Buffett says bosses should face ‘punishment’](https://www.theguardian.com/business/2023/may/07/us-banking-crisis-warren-buffett-says-bosses-should-face-punishment)
-- [Intel Skulltrail](https://en.wikipedia.org/wiki/Intel_Skulltrail)
-- [Ancient Earth Globe](https://dinosaurpictures.org/ancient-earth/#470)
-- [Inductive charging highway section to be built in Florida](https://www.electrive.com/2023/05/02/inductive-charging-highway-section-to-be-built-in-florida/)
-- [A Group Is Its Own Worst Enemy [pdf] &lpar;2005&rpar;](https://gwern.net/doc/technology/2005-shirky-agroupisitsownworstenemy.pdf)
-- [The Beginner&amp;#x27;s Guide to eBPF](https://github.com/lizrice/ebpf-beginners)
-- [Neil Postman: A civilized man in a century of barbarism &lpar;2003&rpar;](https://www.salon.com/2003/10/10/postman/)
-- [Some early praise for using drgn for poking into Linux kernel internals](https://utcc.utoronto.ca/~cks/space/blog/linux/DrgnKernelPokingPraise)
-- [Show HN: What do you think about my metasearch engine?](https://svmetasearch.eu.org)
-- [Prolog for Data Science](https://emiruz.com/post/2023-04-30-prolog-for-data-science/)
+- [The rise of ChatGPT-enabled GitHub spam](https://mastodon.social/@danluu/110335983520055904)
+- [Cheat Sheets for Developers](https://quickref.me/index.html)
+- [“Tinder for Canceling Meetings”](https://meetcala.com/)
+- [WordPress plugin hole puts &amp;#x27;2M websites&amp;#x27; at risk](https://www.theregister.com/2023/05/08/wordpress_plugin_vulnerability/)
+- [Unlighthouse: Like Lighthouse, but it scans every single page](https://unlighthouse.dev)
+- [Ed Sheeran demonstrates how copyright is destroying musicians](https://www.techdirt.com/2023/05/08/ed-sheeran-once-again-demonstrates-how-modern-copyright-is-destroying-rather-than-helping-musicians/)
+- [LLMs are not greater than the sum of their parts: researchers](https://hai.stanford.edu/news/ais-ostensible-emergent-abilities-are-mirage)
+- [Ancient Greek terms worth reviving](https://classicalwisdom.substack.com/p/12-ancient-greek-terms-that-should)
+- [The man who invented the modern cop novel](https://quillette.com/2023/04/23/the-man-who-invented-the-cop-novel/)
+- [Cantonese Font with Pronunciation](https://visual-fonts.com/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

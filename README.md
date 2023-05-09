@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war live: five injured in Kyiv after night of strikes across Ukraine](https://www.theguardian.com/world/live/2023/may/08/russia-ukraine-war-live-five-injured-in-kyiv-drone-strikes-as-air-raid-sirens-sound-across-ukraine)
-- [Cotton Capital: the Guardian and reparations – podcast](https://www.theguardian.com/news/audio/2023/may/08/cotton-capital-the-guardian-and-reparations-podcast)
-- [Nikola Jokic given technical foul after tussle with Suns owner Ishbia during game](https://www.theguardian.com/sport/2023/may/07/nikola-jokic-mat-ishbia-suns-owner-nuggets-shove-nba-playoffs)
-- [Book Club: The Next Chapter review – smirking sequel as the squad head for Italy](https://www.theguardian.com/film/2023/may/08/book-club-the-next-chapter-review-diane-keaton-jane-fonda-smirking-sequel)
-- [Texas mall shooting: gunman expressed interest in neo-Nazi views – report](https://www.theguardian.com/us-news/2023/may/07/texas-mall-shooting-few-details-known)
-- [Russia-Ukraine war at a glance: what we know on day 439 of the invasion](https://www.theguardian.com/world/2023/may/08/russia-ukraine-war-at-a-glance-what-we-know-on-day-439-of-the-invasion)
-- [China’s war chest: how Beijing is using its currency to insulate against future sanctions](https://www.theguardian.com/world/2023/may/08/chinas-war-chest-how-beijing-is-using-its-currency-to-insulate-against-future-sanctions)
-- [Coronation Concert review – a cobbled-together bunch of B-listers](https://www.theguardian.com/music/2023/may/07/coronation-concert-review-a-cobbled-together-bunch-of-b-listers)
-- [Homicide squad investigating death of Melbourne man found in BMW with apparent bullet hole in windscreen](https://www.theguardian.com/australia-news/2023/may/08/homicide-squad-investigating-death-of-melbourne-man-found-in-bmw-with-apparent-bullet-hole-in-windscreen)
-- [At least 21 dead after boat overturns in India’s Kerala state](https://www.theguardian.com/world/2023/may/07/at-least-21-dead-after-boat-overturns-in-indias-kerala-state)
+- [Why ‘godfather of AI’ Geoffrey Hinton thinks humanity at crossroads | podcast](https://www.theguardian.com/news/audio/2023/may/09/godfather-ai-geoffrey-hinton-humanity-crossroads-podcast)
+- [Texas mall shooting: family and friends identify victims as investigation goes on](https://www.theguardian.com/us-news/2023/may/08/texas-mall-shooting-victims-investigation-continues)
+- [Game of Thrones prequel paused as Hollywood writers’ strike continues](https://www.theguardian.com/culture/2023/may/09/game-of-thrones-prequel-paused-as-hollywood-writers-strike-continues)
+- [Julian Assange: Australian MPs urge US ambassador to end extradition bid](https://www.theguardian.com/media/2023/may/09/julian-assange-australian-mps-urge-us-ambassador-to-end-extradition-bid)
+- [Russia-Ukraine war at a glance: what we know on day 440 of the invasion](https://www.theguardian.com/world/2023/may/09/russia-ukraine-war-at-a-glance-what-we-know-on-day-440-of-the-invasion)
+- [John Farnham makes ‘full recovery’ from chest infection, months after surgery to remove mouth tumour](https://www.theguardian.com/music/2023/may/09/john-farnham-makes-full-recovery-from-chest-infection-months-after-surgery-to-remove-mouth-tumour)
+- [Texas: police charge suspect with manslaughter after eight killed by truck](https://www.theguardian.com/us-news/2023/may/08/texas-brownsville-deadly-driver-crash-witness)
+- [North Dakota governor signs bill allowing teachers to ignore students’ pronouns](https://www.theguardian.com/world/2023/may/08/anti-trans-bill-teachers-students-north-dakota)
+- [Hong Kong schools in crisis as teachers and students flee ‘toxic’ political climate](https://www.theguardian.com/world/2023/may/09/hong-kong-schools-in-crisis-as-teachers-and-students-flee-toxic-political-climate)
+- [About 700,000 UK households missed rent or mortgage payment last month](https://www.theguardian.com/money/2023/may/09/uk-households-missed-rent-mortgage-payment-which-loans-credit-cards)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

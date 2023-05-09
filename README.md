@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ask HN: Does Chat GPT and Code interpreter signal end of Data science?](https://news.ycombinator.com/item?id=35857373)
-- [Critical heat flux diagnosis using conditional generative adversarial networks](https://arxiv.org/abs/2305.02622)
-- [Reducing the Drag of a Bluff Body by Deep Reinforcement Learning](https://arxiv.org/abs/2305.03647)
-- [Programming Types and Mindsets](https://world.hey.com/dhh/programming-types-and-mindsets-5b8490bc)
-- [Lina Khan Has a Meta Fixation](https://www.wsj.com/articles/lina-khan-has-a-meta-fixation-consent-decree-ftc-court-privacy-congress-212dd19d)
-- [Revealed: Modern humans needed three tries and 12,000 years to colonise Europe](https://www.theguardian.com/science/2023/may/07/revealed-modern-humans-needed-three-tries-and-12000-years-to-colonise-europe)
-- [The Ether Dreams of Fin-de-Siècle Paris](https://publicdomainreview.org/essay/ether-dreams)
-- [US banking crisis: Warren Buffett says bosses should face ‘punishment’](https://www.theguardian.com/business/2023/may/07/us-banking-crisis-warren-buffett-says-bosses-should-face-punishment)
-- [History of Tel-Tru Thermometers: 100 years of US manufacturing](https://teltruhome.com/topic/earlyhistory)
-- [California Defaults on $18.5B Debt, Leaving CA Businesses Liable](https://www.hoover.org/research/california-defaults-185-billion-debt-leaving-state-businesses-holding-bag)
+- [Crowdfunding Year-to-Date by Portal](https://news.ycombinator.com/item?id=35869513)
+- [NitroKey – Protects emails, files, hard drives, server certificates and accounts](https://www.nitrokey.com/)
+- [US food pesticides contaminated with toxic ‘forever chemicals’ testing finds](https://www.theguardian.com/environment/2023/may/07/food-pesticides-toxic-forever-chemicals-pfas)
+- [Christopher Columbus Never Set Out to Prove the Earth Was Round](https://www.history.com/news/christopher-columbus-never-set-out-to-prove-the-earth-was-round)
+- [Fusion Breakthrough Hits Hurdles as Five Experiments Fail](https://www.bloomberg.com/news/articles/2023-05-08/fusion-breakthrough-hits-hurdles-as-five-experiments-fail)
+- [Matrix Synapse Diskspace Janitor](https://git.cyberia.club/cyberia/matrix-synapse-diskspace-janitor)
+- [Rufus: The Reliable USB Formatting Utility](https://github.com/pbatard/rufus)
+- [CIQ Mountain: SysAdm, DevOps, and Secure Rocky Linux Images](https://opensourcewatch.beehiiv.com/p/ciq-mountain-sysadm-devops-secure-rocky-linux-images)
+- [Nyxt 3.0.0](https://nyxt.atlas.engineer/article/release-3.0.0.org)
+- [The evolution of the web, and a eulogy for XHTML2](https://www.devever.net/~hl/xhtml2)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

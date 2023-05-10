@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
-- [Q&amp;A: What VRdirect&#39;s Rolf Illenberger expects from Apple Reality](https://www.computerworld.com/article/3695529/qa-what-vrdirects-rolf-illenberger-expects-from-apple-reality.html#tk.rss_all)
-- [For Windows 10 PCs — out with the old, in with the new?](https://www.computerworld.com/article/3695692/for-windows-10-pcs-out-with-the-old-in-with-the-new.html#tk.rss_all)
-- [How to choose the right UCaaS platform for your company](https://www.computerworld.com/article/3694130/ucaas-platform-unified-communications-as-a-service-buyers-guide.html#tk.rss_all)
-- [Tech layoffs in 2023: A timeline](https://www.computerworld.com/article/3685936/tech-layoffs-in-2023-a-timeline.html#tk.rss_all)
-- [How many jobs are available in technology in the US?](https://www.computerworld.com/article/3542681/how-many-jobs-are-available-in-technology.html#tk.rss_all)
-- [Microsoft reportedly rallies behind AMD to develop chips for AI workloads](https://www.networkworld.com/article/3695690/microsoft-reportedly-rallies-behind-amd-to-develop-chips-for-ai-workloads.html#tk.rss_all)
-- [Building a digital clone or assistant with generative AI — good idea or bad?](https://www.computerworld.com/article/3695534/building-a-digital-clone-or-assistant-with-generative-ai-good-idea-or-bad.html#tk.rss_all)
-- [Apple Q2 results beat estimates, set records, but guidance is flat](https://www.computerworld.com/article/3695689/apple-q2-results-beat-estimates-set-records-but-guidance-is-flat.html#tk.rss_all)
-- [How to reduce Windows driver bloat](https://www.computerworld.com/article/3322513/how-to-reduce-windows-driver-bloat-remove-outdated-drivers.html#tk.rss_all)
-- [Cognizant cuts 3,500 jobs in post-COVID, hybrid work restructuring plan](https://www.computerworld.com/article/3695768/cognizant-cuts-3500-jobs-in-post-covid-hybrid-work-restructuring-plan.html#tk.rss_all)
+- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
+- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
+- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [Microsoft adds M365 Copilot to more apps, extends customer trial to 600 firms](https://www.computerworld.com/article/3695535/microsoft-adds-m365-copilot-to-more-apps-extends-customer-trial-to-600-firms.html#tk.rss_all)
+- [Post-PC? Apple gives iPads Final Cut Pro and Logic Pro](https://www.computerworld.com/article/3695584/post-pc-apple-gives-ipads-final-cut-pro-and-logic-pro.html#tk.rss_all)
+- [AI to create new ways to work, and users are all for it: Microsoft report](https://www.computerworld.com/article/3695585/ai-to-create-new-ways-to-work-and-users-are-all-for-it-microsoft-report.html#tk.rss_all)
+- [Informatica integrates ClaireGPT, AI copilot to augment its IDMC offering](https://www.computerworld.com/article/3695773/informatica-integrates-clairegpt-ai-copilot-to-augment-its-idmc-offering.html#tk.rss_all)
+- [Don&#39;t replace your people with ChatGPT or other AI services](https://www.computerworld.com/article/3695734/dont-replace-your-people-with-chatgpt-or-other-a-i-services.html#tk.rss_all)
+- [After the remote-work rush, vacant offices and empty downtowns](https://www.computerworld.com/article/3695581/after-the-remote-work-rush-vacant-offices-and-empty-downtowns.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The rise of ChatGPT-enabled GitHub spam](https://mastodon.social/@danluu/110335983520055904)
-- [Cheat Sheets for Developers](https://quickref.me/index.html)
-- [“Tinder for Canceling Meetings”](https://meetcala.com/)
-- [WordPress plugin hole puts &amp;#x27;2M websites&amp;#x27; at risk](https://www.theregister.com/2023/05/08/wordpress_plugin_vulnerability/)
-- [Unlighthouse: Like Lighthouse, but it scans every single page](https://unlighthouse.dev)
-- [Ed Sheeran demonstrates how copyright is destroying musicians](https://www.techdirt.com/2023/05/08/ed-sheeran-once-again-demonstrates-how-modern-copyright-is-destroying-rather-than-helping-musicians/)
-- [LLMs are not greater than the sum of their parts: researchers](https://hai.stanford.edu/news/ais-ostensible-emergent-abilities-are-mirage)
-- [Ancient Greek terms worth reviving](https://classicalwisdom.substack.com/p/12-ancient-greek-terms-that-should)
-- [The man who invented the modern cop novel](https://quillette.com/2023/04/23/the-man-who-invented-the-cop-novel/)
-- [Cantonese Font with Pronunciation](https://visual-fonts.com/)
+- [Show HN: Build progressively enhanced reactive HTML apps using Go and Alpine.js](https://livefir.fly.dev/)
+- [Internet disrupted in Pakistan amid arrest of former PM Imran Khan](https://netblocks.org/reports/internet-disrupted-in-pakistan-amid-arrest-of-former-pm-imran-khan-JA6RmrAQ)
+- [File Locks on Linux](https://utcc.utoronto.ca/~cks/space/blog/linux/FlockFcntlAndNFS)
+- [Electrical Characteristics of Telephone Lines &lpar;2023&rpar;](https://computer.rip/2023-05-07-electrical-characteristics-of-telephone-lines.html)
+- [The last days of a 350-year-old family farm](https://www.smithsonianmag.com/arts-culture/these-intimate-photos-capture-a-family-farms-bittersweet-final-years-180982139/)
+- [Segment anything and Stable Diffusion showcase app](https://www.editanything.ai)
+- [Twenty Years of Blogging](https://eli.thegreenplace.net/2023/twenty-years-of-blogging/)
+- [Thunderbird Is Thriving: Our 2022 Financial Report](https://blog.thunderbird.net/2023/05/thunderbird-is-thriving-our-2022-financial-report/)
+- [Apple just lost its lawsuit trying to ban iOS virtual machines](https://www.techradar.com/news/apple-just-lost-its-lawsuit-trying-to-ban-ios-virtual-machines)
+- [Spotify-Qt](https://github.com/kraxarn/spotify-qt)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Crowdfunding Year-to-Date by Portal](https://news.ycombinator.com/item?id=35869513)
-- [NitroKey – Protects emails, files, hard drives, server certificates and accounts](https://www.nitrokey.com/)
-- [US food pesticides contaminated with toxic ‘forever chemicals’ testing finds](https://www.theguardian.com/environment/2023/may/07/food-pesticides-toxic-forever-chemicals-pfas)
-- [Christopher Columbus Never Set Out to Prove the Earth Was Round](https://www.history.com/news/christopher-columbus-never-set-out-to-prove-the-earth-was-round)
-- [Fusion Breakthrough Hits Hurdles as Five Experiments Fail](https://www.bloomberg.com/news/articles/2023-05-08/fusion-breakthrough-hits-hurdles-as-five-experiments-fail)
-- [Matrix Synapse Diskspace Janitor](https://git.cyberia.club/cyberia/matrix-synapse-diskspace-janitor)
-- [Rufus: The Reliable USB Formatting Utility](https://github.com/pbatard/rufus)
-- [CIQ Mountain: SysAdm, DevOps, and Secure Rocky Linux Images](https://opensourcewatch.beehiiv.com/p/ciq-mountain-sysadm-devops-secure-rocky-linux-images)
-- [Nyxt 3.0.0](https://nyxt.atlas.engineer/article/release-3.0.0.org)
-- [The evolution of the web, and a eulogy for XHTML2](https://www.devever.net/~hl/xhtml2)
+- [Musk says Twitter to soon allow calls, encrypted messaging](https://www.reuters.com/technology/musk-says-twitter-soon-allow-calls-encrypted-messaging-2023-05-10/)
+- [HuberChat, a Chatbot trained on HubermanLab podcast &lpar;OpenAI key required&rpar;](https://huggingface.co/spaces/dhuynh95/HuberChat)
+- [The ongoing defence of front end as a full-time job](https://christianheilmann.com/2023/05/09/the-ongoing-defence-of-frontend-as-a-full-time-job/)
+- [Bite Size Linux](https://wizardzines.com/zines/bite-size-linux/)
+- [Experiences Won&#39;t Make You Happier Than Possessions](https://every.to/p/buying-experiences-doesn-t-make-you-happier-than-possessions)
+- [The future of tech is invisible](https://blog.thoughtinvest.com/2023/05/the-future-of-tech-is-invisible/)
+- [Hunting Russian Intelligence “Snake” Malware [pdf]](https://media.defense.gov/2023/May/09/2003218554/-1/-1/0/JOINT_CSA_HUNTING_RU_INTEL_SNAKE_MALWARE_20230509.PDF)
+- [Autonomous Poly-Technic Camp – dates, location, and tracks published for deepmay](https://deepmay.net/camp/)
+- [A Corporate Sleuth Claims Squarepoint Capital Took Her Content &lpar;2020&rpar;](https://www.institutionalinvestor.com/article/b1nq0fmzdh9h51/A-Corporate-Sleuth-Claims-Squarepoint-Capital-Took-Her-Content-The-Hedge-Fund-Is-Threatening-Action-What-Actually-Happened)
+- [Tempus Nectit Knitting Clock](http://kylerank.in/tempus_nectit/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

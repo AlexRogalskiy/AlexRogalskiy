@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Musk says Twitter to soon allow calls, encrypted messaging](https://www.reuters.com/technology/musk-says-twitter-soon-allow-calls-encrypted-messaging-2023-05-10/)
-- [HuberChat, a Chatbot trained on HubermanLab podcast &lpar;OpenAI key required&rpar;](https://huggingface.co/spaces/dhuynh95/HuberChat)
-- [The ongoing defence of front end as a full-time job](https://christianheilmann.com/2023/05/09/the-ongoing-defence-of-frontend-as-a-full-time-job/)
-- [Bite Size Linux](https://wizardzines.com/zines/bite-size-linux/)
-- [Experiences Won&#39;t Make You Happier Than Possessions](https://every.to/p/buying-experiences-doesn-t-make-you-happier-than-possessions)
-- [The future of tech is invisible](https://blog.thoughtinvest.com/2023/05/the-future-of-tech-is-invisible/)
-- [Hunting Russian Intelligence “Snake” Malware [pdf]](https://media.defense.gov/2023/May/09/2003218554/-1/-1/0/JOINT_CSA_HUNTING_RU_INTEL_SNAKE_MALWARE_20230509.PDF)
-- [Autonomous Poly-Technic Camp – dates, location, and tracks published for deepmay](https://deepmay.net/camp/)
-- [A Corporate Sleuth Claims Squarepoint Capital Took Her Content &lpar;2020&rpar;](https://www.institutionalinvestor.com/article/b1nq0fmzdh9h51/A-Corporate-Sleuth-Claims-Squarepoint-Capital-Took-Her-Content-The-Hedge-Fund-Is-Threatening-Action-What-Actually-Happened)
-- [Tempus Nectit Knitting Clock](http://kylerank.in/tempus_nectit/)
+- [Google I/O: Go&#39;s approach to detect/remediate vulnerabilities in dependencies](https://io.google/2023/program/6268b565-cd1b-4e60-983d-8beb3bff18c2)
+- [Windows 11 in Svelte](https://github.com/yashash-pugalia/win11-svelte)
+- [Soap can make humans more attractive to mosquitoes](https://www.theguardian.com/environment/2023/may/10/soap-can-make-humans-more-attractive-mosquitoes-study)
+- [Not Even Wrong](https://en.wikipedia.org/wiki/Not_even_wrong)
+- [LTC-Sum:Client-Driven Personalized Video Summarization Framework Using 2D CNN](https://github.com/iamgmujtaba/LTC-SUM)
+- [Scaling your PyG GNNs with Kùzu](https://kuzudb.com/blog/kuzu-pyg-remote-backend.html)
+- [Google Scholar Search Analytics:Analyzing Historic Occurrence of Academic Papers](https://github.com/iamgmujtaba/scholar_search)
+- [ChatMedia – chat with any media files to unlock its full story](https://chatmedia.io/)
+- [Which TV Shows Transcend America&#39;s Red-Blue State Divide?](https://www.statsignificant.com/p/what-tv-shows-transcend-americas)
+- [Twitter launches encrypted DMs behind a paywall](https://www.theverge.com/2023/5/10/23719153/twitter-encrypted-dms-paid-verified-feature)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

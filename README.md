@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Show HN: Build progressively enhanced reactive HTML apps using Go and Alpine.js](https://livefir.fly.dev/)
-- [Internet disrupted in Pakistan amid arrest of former PM Imran Khan](https://netblocks.org/reports/internet-disrupted-in-pakistan-amid-arrest-of-former-pm-imran-khan-JA6RmrAQ)
-- [File Locks on Linux](https://utcc.utoronto.ca/~cks/space/blog/linux/FlockFcntlAndNFS)
-- [Electrical Characteristics of Telephone Lines &lpar;2023&rpar;](https://computer.rip/2023-05-07-electrical-characteristics-of-telephone-lines.html)
-- [The last days of a 350-year-old family farm](https://www.smithsonianmag.com/arts-culture/these-intimate-photos-capture-a-family-farms-bittersweet-final-years-180982139/)
-- [Segment anything and Stable Diffusion showcase app](https://www.editanything.ai)
-- [Twenty Years of Blogging](https://eli.thegreenplace.net/2023/twenty-years-of-blogging/)
-- [Thunderbird Is Thriving: Our 2022 Financial Report](https://blog.thunderbird.net/2023/05/thunderbird-is-thriving-our-2022-financial-report/)
-- [Apple just lost its lawsuit trying to ban iOS virtual machines](https://www.techradar.com/news/apple-just-lost-its-lawsuit-trying-to-ban-ios-virtual-machines)
-- [Spotify-Qt](https://github.com/kraxarn/spotify-qt)
+- [Windows 11 in Svelte](https://github.com/yashash-pugalia/win11-svelte)
+- [The Backbone: A History of the Internet](https://technicshistory.com/the-backbone/)
+- [Spiraling in San Francisco’s Doom Loop](https://www.curbed.com/2023/05/san-francisco-doom-loop.html)
+- [Microsoft&amp;#x27;s CEO Says No Raises for Full-Time Employees This Year](https://gizmodo.com/microsoft-no-raises-full-time-ceo-satya-nadella-1850424823)
+- [Geektools whois gateway has shut down after a 25-year run](http://www.geektools.com/)
+- [Tell HN: The “Y” logo in the top-left corner has been upgraded to SVG](https://news.ycombinator.com/y18.svg)
+- [Expensive energy may have killed more Europeans than Covid-19 last winter](https://www.economist.com/graphic-detail/2023/05/10/expensive-energy-may-have-killed-more-europeans-than-covid-19-last-winter)
+- [Creatures That Don’t Conform](https://emergencemagazine.org/essay/creatures-that-dont-conform/)
+- [Google I&amp;#x2F;O: Big changes coming for SEOs with ubiquitous AI](https://www.demandsphere.com/blog/google-i-o-big-changes-coming-for-seos-with-ubiquitous-ai/)
+- [QuestDB &lpar;YC S20&rpar; Is Hiring a Technical Content Lead](https://questdb.io/careers/technical-content-lead/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Did distress calls go unanswered in the run-up to a fatal Channel disaster? – podcast](https://www.theguardian.com/news/audio/2023/may/10/did-the-uk-coastguard-ignore-desperate-calls-for-help-podcast)
-- [Teenager’s body found after flooding hit New Zealand school’s cave visit](https://www.theguardian.com/world/2023/may/10/teenagers-body-found-after-flooding-hit-new-zealand-schools-cave-visit)
-- [Twitter hack: UK man pleads guilty to hijacking accounts including of Joe Biden and Elon Musk](https://www.theguardian.com/technology/2023/may/10/twitter-hack-uk-man-pleads-guilty-to-hijacking-accounts-including-of-joe-biden-and-elon-musk)
-- [Tucker Carlson to revive show on Twitter after Fox News dismissal](https://www.theguardian.com/technology/2023/may/09/tucker-carlson-fox-news-twitter-show)
-- [Wagner should be labelled terrorist group, France tells EU](https://www.theguardian.com/world/2023/may/10/wagner-should-be-labelled-terrorist-group-france-tells-eu)
-- [US ethics watchdog calls on Clarence Thomas to resign over undisclosed gifts](https://www.theguardian.com/us-news/2023/may/09/clarence-thomas-supreme-court-resignation-crow)
-- [Dianne Feinstein to resume Senate duties after long absence due to illness](https://www.theguardian.com/us-news/2023/may/09/dianne-feinstein-senate-illness)
-- [Outdated IT systems threaten UK food security and air quality, say MPs](https://www.theguardian.com/environment/2023/may/09/outdated-it-systems-uk-food-security-air-quality-defra-public-accounts-committee)
-- [Russia-Ukraine war at a glance: what we know on day 441 of the invasion](https://www.theguardian.com/world/2023/may/10/russia-ukraine-war-at-a-glance-what-we-know-on-day-441-of-the-invasion)
-- [School-leavers could join NHS via apprenticeships in plan to fix staff shortages](https://www.theguardian.com/society/2023/may/10/school-leavers-could-join-nhs-via-apprenticeships-in-plan-to-fix-staff-shortages)
+- [The killing of Shireen Abu Akleh – and another ordinary day in the West Bank | podcast](https://www.theguardian.com/news/audio/2023/may/11/the-killing-of-shireen-abu-akleh-and-another-ordinary-day-in-the-west-bank-podcast)
+- [Donald Trump fields voter questions at CNN town hall a day after sexual abuse verdict](https://www.theguardian.com/us-news/2023/may/10/trump-voters-republican-new-hampshire-cnn-town-hall)
+- [Collapsing buildings, incoming missiles: Taiwan rehearses a Chinese assault on its cities](https://www.theguardian.com/world/2023/may/11/collapsing-buildings-incoming-missiles-taiwan-rehearses-a-chinese-assault-on-its-cities)
+- [Zaporizhzhia nuclear plant facing ‘catastrophic’ staff shortage amid Russian evacuation](https://www.theguardian.com/world/2023/may/11/zaporizhzhia-nuclear-plant-facing-catastrophic-staff-shortage-amid-russian-evacuation)
+- [Former PM Imran Khan appears before judge amid uproar in Pakistan](https://www.theguardian.com/world/2023/may/10/former-pm-imran-khan-appears-before-judge-amid-uproar-in-pakistan)
+- [Russia-Ukraine war at a glance: what we know on day 442 of the invasion](https://www.theguardian.com/world/2023/may/11/russia-ukraine-war-at-a-glance-what-we-know-on-day-442-of-the-invasion)
+- [Social media firms should reimburse online fraud victims, say UK bankers](https://www.theguardian.com/money/2023/may/11/social-media-firms-should-reimburse-online-fraud-victim-uk-finance)
+- [Children with type 2 diabetes to be given sensors to replace finger-prick testing](https://www.theguardian.com/society/2023/may/11/children-with-type-2-diabetes-to-be-given-sensors-to-replace-finger-prick-testing)
+- [4000 Miles review – Eileen Atkins and Sebastian Croft connect in tale of distant relations](https://www.theguardian.com/stage/2023/may/11/4000-miles-review-eileen-atkins-sebastian-croft-chichester)
+- [Rishi Sunak risks missing target to halve inflation, NIESR warns](https://www.theguardian.com/business/2023/may/11/rishi-sunak-risks-missing-target-to-halve-inflation-niesr-warns)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

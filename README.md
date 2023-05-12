@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Google I/O: Go&#39;s approach to detect/remediate vulnerabilities in dependencies](https://io.google/2023/program/6268b565-cd1b-4e60-983d-8beb3bff18c2)
-- [Windows 11 in Svelte](https://github.com/yashash-pugalia/win11-svelte)
-- [Soap can make humans more attractive to mosquitoes](https://www.theguardian.com/environment/2023/may/10/soap-can-make-humans-more-attractive-mosquitoes-study)
-- [Not Even Wrong](https://en.wikipedia.org/wiki/Not_even_wrong)
-- [LTC-Sum:Client-Driven Personalized Video Summarization Framework Using 2D CNN](https://github.com/iamgmujtaba/LTC-SUM)
-- [Scaling your PyG GNNs with Kùzu](https://kuzudb.com/blog/kuzu-pyg-remote-backend.html)
-- [Google Scholar Search Analytics:Analyzing Historic Occurrence of Academic Papers](https://github.com/iamgmujtaba/scholar_search)
-- [ChatMedia – chat with any media files to unlock its full story](https://chatmedia.io/)
-- [Which TV Shows Transcend America&#39;s Red-Blue State Divide?](https://www.statsignificant.com/p/what-tv-shows-transcend-americas)
-- [Twitter launches encrypted DMs behind a paywall](https://www.theverge.com/2023/5/10/23719153/twitter-encrypted-dms-paid-verified-feature)
+- [Creating Custom DLC in Pokémon Ruby and Sapphire Using the Nintendo E-Reader](https://www.youtube.com/watch?v=fgX36SAeTwQ)
+- [Show HN: “Vital Signs”. Mi’sep Joe of the Miawpukek First Nation and Innu Nation](https://imgur.com/a/Wl4B2k5)
+- [What I just learned about threat modeling](https://jeffreylikeswebsites.com/posts/first-threat-modeling/)
+- [India’s once-troubled banks are generating profits](https://www.economist.com/finance-and-economics/2023/05/11/indias-once-troubled-banks-are-generating-huge-profits)
+- [Beyond NP: The Work and Legacy of Larry Stockmeyer [pdf]](https://lance.fortnow.com/papers/files/beyondnp.pdf)
+- [Show HN: Toodle – Get kind and easy answers to your toddler&#39;s curious questions](https://toodle-google.vercel.app/)
+- [Long popular in Asia, floating solar catches on in US](https://apnews.com/article/floating-solar-ramping-up-climate-change-renewable-energy-7316dbfe9db23363aacadcd133cbd408)
+- [The Ugly Truth Behind “We Buy Ugly Houses”](https://www.propublica.org/article/ugly-truth-behind-we-buy-ugly-houses)
+- [Show HN: Bytebase 2.0 – The Gitlab for Database DevOps](https://www.bytebase.com/blog/bytebase-2-0/)
+- [The Parents Who Fight the City for a “Free Appropriate Public Education”](https://www.newyorker.com/news/annals-of-education/the-parents-who-fight-the-city-for-a-free-appropriate-public-education)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

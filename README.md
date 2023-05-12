@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Windows 11 in Svelte](https://github.com/yashash-pugalia/win11-svelte)
-- [The Backbone: A History of the Internet](https://technicshistory.com/the-backbone/)
-- [Spiraling in San Francisco’s Doom Loop](https://www.curbed.com/2023/05/san-francisco-doom-loop.html)
-- [Microsoft&amp;#x27;s CEO Says No Raises for Full-Time Employees This Year](https://gizmodo.com/microsoft-no-raises-full-time-ceo-satya-nadella-1850424823)
-- [Geektools whois gateway has shut down after a 25-year run](http://www.geektools.com/)
-- [Tell HN: The “Y” logo in the top-left corner has been upgraded to SVG](https://news.ycombinator.com/y18.svg)
-- [Expensive energy may have killed more Europeans than Covid-19 last winter](https://www.economist.com/graphic-detail/2023/05/10/expensive-energy-may-have-killed-more-europeans-than-covid-19-last-winter)
-- [Creatures That Don’t Conform](https://emergencemagazine.org/essay/creatures-that-dont-conform/)
-- [Google I&amp;#x2F;O: Big changes coming for SEOs with ubiquitous AI](https://www.demandsphere.com/blog/google-i-o-big-changes-coming-for-seos-with-ubiquitous-ai/)
-- [QuestDB &lpar;YC S20&rpar; Is Hiring a Technical Content Lead](https://questdb.io/careers/technical-content-lead/)
+- [What happened after I left my software engineering career](https://thewebivore.com/what-happened-next/)
+- [How to do distributed locking &lpar;2016&rpar;](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
+- [Forgetful Browsing](https://brave.com/privacy-updates/25-forgetful-browsing/)
+- [Proposal: Less error-prone loop variable scoping](https://github.com/golang/go/issues/60078)
+- [Drug shortages have worsened and may only increase in the future, experts say](https://www.cidrap.umn.edu/resilient-drug-supply/drug-shortages-have-worsened-and-may-only-increase-future-experts-say)
+- [One Day You&amp;#x27;ll Find Yourself](https://www.onedayyoullfindyourself.com)
+- [Problems harder than NP-Complete](https://buttondown.email/hillelwayne/archive/problems-harder-than-np-complete/)
+- [Pixel Tablet](https://store.google.com/product/pixel_tablet?hl=en-US)
+- [Firezone &lpar;YC W22&rpar; is hiring Elixir and Rust engineers](https://www.ycombinator.com/companies/firezone/jobs)
+- [The Two Cultures &lpar;1959&rpar; [pdf]](https://apps.weber.edu/wsuimages/michaelwutz/6510.Trio/Rede-lecture-2-cultures.pdf)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

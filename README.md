@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Creating Custom DLC in Pokémon Ruby and Sapphire Using the Nintendo E-Reader](https://www.youtube.com/watch?v=fgX36SAeTwQ)
-- [Show HN: “Vital Signs”. Mi’sep Joe of the Miawpukek First Nation and Innu Nation](https://imgur.com/a/Wl4B2k5)
-- [What I just learned about threat modeling](https://jeffreylikeswebsites.com/posts/first-threat-modeling/)
-- [India’s once-troubled banks are generating profits](https://www.economist.com/finance-and-economics/2023/05/11/indias-once-troubled-banks-are-generating-huge-profits)
-- [Beyond NP: The Work and Legacy of Larry Stockmeyer [pdf]](https://lance.fortnow.com/papers/files/beyondnp.pdf)
-- [Show HN: Toodle – Get kind and easy answers to your toddler&#39;s curious questions](https://toodle-google.vercel.app/)
-- [Long popular in Asia, floating solar catches on in US](https://apnews.com/article/floating-solar-ramping-up-climate-change-renewable-energy-7316dbfe9db23363aacadcd133cbd408)
-- [The Ugly Truth Behind “We Buy Ugly Houses”](https://www.propublica.org/article/ugly-truth-behind-we-buy-ugly-houses)
-- [Show HN: Bytebase 2.0 – The Gitlab for Database DevOps](https://www.bytebase.com/blog/bytebase-2-0/)
-- [The Parents Who Fight the City for a “Free Appropriate Public Education”](https://www.newyorker.com/news/annals-of-education/the-parents-who-fight-the-city-for-a-free-appropriate-public-education)
+- [Mike Lynch: Autonomy founder extradited to US in criminal case](https://www.bbc.com/news/business-65568967)
+- [MS Azure security: Embrace secure multitenancy, Confidential Compute, and Rust](https://azure.microsoft.com/en-us/blog/microsoft-azure-security-evolution-embrace-secure-multitenancy-confidential-compute-and-rust/)
+- [Stuck antenna freed on Jupiter-bound spacecraft](https://apnews.com/article/jupiter-juice-spacecraft-antenna-570d9f3c3fe780c05f4b096f1f6f870c)
+- [Nuclear fusion powered Titan aircraft](https://www.sciencedirect.com/science/article/pii/S0094576523002023)
+- [Logarithmically-Spaced Snapshots](https://madebyevan.com/algos/log-spaced-snapshots/)
+- [BARF – Basically, a Remarkable Framework for Building JSON-Based Web APIs](https://github.com/opensaucerer/barf)
+- [Brazil Supreme Court justice orders investigation into Google, Telegram execs](https://finance.yahoo.com/news/1-brazil-supreme-court-justice-210255365.html)
+- [The Tornado Chasing ‘Dominator 3’ Started Life as a 2013 Ford F-350 Super Duty](https://www.thedrive.com/news/the-tornado-chasing-dominator-3-started-life-as-a-2013-ford-f-350-super-duty)
+- [Singh proposes corporate tax hike tied to CEO-worker pay gap](https://www.cbc.ca/news/politics/singh-tax-worker-ceo-pay-1.6813968)
+- [Ask HN: Micro Wave Weapons](https://news.ycombinator.com/item?id=35924655)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

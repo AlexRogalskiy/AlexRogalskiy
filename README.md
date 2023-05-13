@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Tech layoffs in 2023: A timeline](https://www.computerworld.com/article/3685936/tech-layoffs-in-2023-a-timeline.html#tk.rss_all)
+- [How remote work is changing American culture](https://www.computerworld.com/article/3695742/how-remote-work-is-changing-american-culture.html#tk.rss_all)
+- [The most significant Google Pixel news no one&#39;s noticing](https://www.computerworld.com/article/3696090/google-pixel-news.html#tk.rss_all)
+- [IBM’s watsonx could be a generative AI game-changer](https://www.computerworld.com/article/3696275/ibms-watsonx-could-be-a-generative-ai-game-changer.html#tk.rss_all)
 - [May&#39;s Patch Tuesday update includes 3 zero-day flaws; fix them ASAP](https://www.computerworld.com/article/3696272/mays-patch-tuesday-update-includes-3-zero-day-flaws-fix-them-asap.html#tk.rss_all)
 - [Figma wants to make digital whiteboards fun with new FigJam updates](https://www.computerworld.com/article/3696311/figma-wants-to-make-digital-whiteboards-fun-with-new-figjam-updates.html#tk.rss_all)
 - [If you worry about Big Tech, what do you expect from Big AI?](https://www.computerworld.com/article/3696232/if-you-worry-about-big-tech-what-do-you-expect-from-big-ai.html#tk.rss_all)
 - [Will Bing and Edge become the center of the Microsoft universe?](https://www.computerworld.com/article/3695698/will-bing-and-edge-become-the-center-of-the-microsoft-universe.html#tk.rss_all)
 - [Google unveils AI updates for Workspace collaboration suite](https://www.computerworld.com/article/3696310/google-unveils-ai-updates-for-workspace-collaboration-suite.html#tk.rss_all)
 - [AI startup Anthropic unveils moral principles behind chatbot Claude](https://www.computerworld.com/article/3695952/ai-startup-anthropic-unveils-moral-principles-behind-chatbot-claude.html#tk.rss_all)
-- [IBM takes on AWS, Google, and Microsoft with Watsonx](https://www.infoworld.com/article/3695951/ibm-takes-on-aws-google-and-microsoft-with-watsonx.html#tk.rss_all)
-- [Steve Wozniak: ChatGPT-type tech may threaten us all](https://www.computerworld.com/article/3696089/steve-wozniak-chatgpt-type-tech-may-threaten-us-all.html#tk.rss_all)
-- [How to use Excel formulas and functions](https://www.computerworld.com/article/3693258/how-to-use-excel-formulas-and-functions.html#tk.rss_all)
-- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

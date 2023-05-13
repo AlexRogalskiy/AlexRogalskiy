@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [What happened after I left my software engineering career](https://thewebivore.com/what-happened-next/)
-- [How to do distributed locking &lpar;2016&rpar;](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
-- [Forgetful Browsing](https://brave.com/privacy-updates/25-forgetful-browsing/)
-- [Proposal: Less error-prone loop variable scoping](https://github.com/golang/go/issues/60078)
-- [Drug shortages have worsened and may only increase in the future, experts say](https://www.cidrap.umn.edu/resilient-drug-supply/drug-shortages-have-worsened-and-may-only-increase-future-experts-say)
-- [One Day You&amp;#x27;ll Find Yourself](https://www.onedayyoullfindyourself.com)
-- [Problems harder than NP-Complete](https://buttondown.email/hillelwayne/archive/problems-harder-than-np-complete/)
-- [Pixel Tablet](https://store.google.com/product/pixel_tablet?hl=en-US)
-- [Firezone &lpar;YC W22&rpar; is hiring Elixir and Rust engineers](https://www.ycombinator.com/companies/firezone/jobs)
-- [The Two Cultures &lpar;1959&rpar; [pdf]](https://apps.weber.edu/wsuimages/michaelwutz/6510.Trio/Rede-lecture-2-cultures.pdf)
+- [GitHub Copilot Leaked Prompt](https://simonwillison.net/2023/May/12/github-copilot-chat-leaked-prompt/)
+- [Why I Stopped Worrying and Learned to Love Denormalized Tables](https://glean.io/blog-posts/why-i-stopped-worrying-and-learned-to-love-denormalized-tables)
+- [First Rust Code Shows Up in the Windows 11 Kernel](https://www.thurrott.com/windows/windows-11/282995/first-rust-code-shows-up-in-the-windows-11-kernel)
+- [Language models still struggle with the concept of negation](https://www.quantamagazine.org/ai-like-chatgpt-are-no-good-at-not-20230512/)
+- [Greater than 90% chance of El Niño persisting into Northern Hemisphere winter](https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso_advisory/ensodisc.shtml)
+- [CI&amp;#x2F;CD with KiCad and Gitlab](https://sschueller.github.io/posts/ci-cd-with-kicad-and-gitlab/)
+- [The SGI XFS Filesystem](https://blog.koehntopp.info/2023/05/12/50-years-in-filesystems-1994.html)
+- [A RP2040 Powered MIDI-Controlled Synth in CircuitPython](https://gist.github.com/todbot/96a654c5fa27625147d65c45c8bfd47b)
+- [Gilbert Strang&amp;#x27;s final lecture at MIT: May 15, 11:00am](https://grinfeld.org/strang/)
+- [Open-source disposable email service](https://sorry.idont.date/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

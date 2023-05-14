@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Texas man kills girlfriend after she had an abortion in Colorado](https://www.theguardian.com/us-news/2023/may/12/texas-woman-killed-boyfriend-abortion)
-- [Women’s FA Cup: sold-out Wembley establishes final as national ritual](https://www.theguardian.com/football/2023/may/13/womens-fa-cup-sold-out-wembley-establishes-final-as-national-ritual)
-- [Soaring interest rates to cost UK mortgage holders £12bn in extra payments](https://www.theguardian.com/business/2023/may/13/soaring-interest-rates-to-cost-uk-mortgage-holders-12bn-in-extra-payments)
-- [IOPC to investigate Met police officers after man Tasered and two dogs shot dead](https://www.theguardian.com/uk-news/2023/may/12/iopc-to-investigate-met-police-officers-after-man-tasered-and-two-dogs-shot-dead)
-- [New Hampshire governor ‘embarrassed’ by crowd’s behavior at Trump town hall](https://www.theguardian.com/us-news/2023/may/12/trump-cnn-town-hall-new-hampshire-governor-embarrassed-audience)
-- [‘Clause IV on steroids’: Keir Starmer says his Labour must go further than Blair](https://www.theguardian.com/politics/2023/may/12/clause-iv-on-steroids-keir-starmer-says-his-labour-must-go-further-than-blair)
-- [Sats exams ‘designed to be challenging’, DfE tells aggrieved parents and teachers](https://www.theguardian.com/education/2023/may/12/sats-exams-designed-to-be-challenging-dfe-tells-aggrieved-parents-and-teachers)
-- [The week around the world in 20 pictures](https://www.theguardian.com/artanddesign/gallery/2023/may/12/the-week-around-the-world-in-20-pictures)
-- [Unaccompanied Honduran teen dies in US custody as Title 42 expires](https://www.theguardian.com/us-news/2023/may/12/honduran-teen-dies-us-custody-immigration)
-- [What happened in the Russia-Ukraine war this week? Catch up with the must-read news and analysis](https://www.theguardian.com/world/2023/may/13/what-happened-in-the-russia-ukraine-war-this-week-catch-up-with-the-must-read-news-and-analysis)
+- [Russia-Ukraine war at a glance: what we know on day 445 of the invasion](https://www.theguardian.com/world/2023/may/14/russia-ukraine-war-at-a-glance-what-we-know-on-day-445-of-the-invasion)
+- [Sweden wins Eurovision song contest in Liverpool with Loreen](https://www.theguardian.com/tv-and-radio/2023/may/14/eurovision-2023-winner-liverpool-uk-ukraine)
+- [Thailand election day arrives with hope of unseating junta generals from power](https://www.theguardian.com/world/2023/may/14/thailand-election-day-arrives-with-hope-of-unseating-junta-generals-from-power)
+- [Peace, love and gloriously diverse chaos triumph as UK hosts Eurovision](https://www.theguardian.com/tv-and-radio/2023/may/14/peace-love-and-gloriously-diverse-chaos-triumph-as-uk-hosts-eurovision)
+- [Sunak food summit promises star guest and lots of rhubarb](https://www.theguardian.com/business/2023/may/14/sunak-food-summit-promises-star-guest-and-lots-of-rhubarb)
+- [Nurses’ union head calls for double-digit pay rise in England ahead of strike ballot](https://www.theguardian.com/society/2023/may/13/nurses-union-head-calls-for-double-figures-pay-rise-in-england-ahead-of-strike-ballot)
+- [Natural bags: 20 of the best natural bags - in pictures](https://www.theguardian.com/fashion/gallery/2023/may/13/natural-bags-20-of-the-best-natural-bags-in-pictures)
+- [Ceasefire between Israel and Islamic Jihad in Gaza area takes effect](https://www.theguardian.com/world/2023/may/13/israel-and-islamic-jihad-agree-truce-in-gaza)
+- [Chelsea agree terms with Mauricio Pochettino to take over as manager](https://www.theguardian.com/football/2023/may/13/chelsea-agree-terms-mauricio-pochettino-manager)
+- [DeSantis secures endorsements on visit to Iowa in preparation for likely 2024 bid](https://www.theguardian.com/us-news/2023/may/13/desantis-secures-endorsements-on-visit-to-iowa-in-preparation-for-likely-2024-bid)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

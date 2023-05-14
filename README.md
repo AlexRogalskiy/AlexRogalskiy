@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Mike Lynch: Autonomy founder extradited to US in criminal case](https://www.bbc.com/news/business-65568967)
-- [MS Azure security: Embrace secure multitenancy, Confidential Compute, and Rust](https://azure.microsoft.com/en-us/blog/microsoft-azure-security-evolution-embrace-secure-multitenancy-confidential-compute-and-rust/)
-- [Stuck antenna freed on Jupiter-bound spacecraft](https://apnews.com/article/jupiter-juice-spacecraft-antenna-570d9f3c3fe780c05f4b096f1f6f870c)
-- [Nuclear fusion powered Titan aircraft](https://www.sciencedirect.com/science/article/pii/S0094576523002023)
-- [Logarithmically-Spaced Snapshots](https://madebyevan.com/algos/log-spaced-snapshots/)
-- [BARF – Basically, a Remarkable Framework for Building JSON-Based Web APIs](https://github.com/opensaucerer/barf)
-- [Brazil Supreme Court justice orders investigation into Google, Telegram execs](https://finance.yahoo.com/news/1-brazil-supreme-court-justice-210255365.html)
-- [The Tornado Chasing ‘Dominator 3’ Started Life as a 2013 Ford F-350 Super Duty](https://www.thedrive.com/news/the-tornado-chasing-dominator-3-started-life-as-a-2013-ford-f-350-super-duty)
-- [Singh proposes corporate tax hike tied to CEO-worker pay gap](https://www.cbc.ca/news/politics/singh-tax-worker-ceo-pay-1.6813968)
-- [Ask HN: Micro Wave Weapons](https://news.ycombinator.com/item?id=35924655)
+- [macOS Apps in Rust](https://github.com/ryanmcgrath/cacao)
+- [The Work of Lifting Weights: Lifting heavy, burning out](https://oliverbatemandoesthework.substack.com/p/the-work-of-lifting-weights)
+- [Using reflections to see the world from new points of view](https://news.mit.edu/2023/using-reflections-shiny-objects-camera-0510)
+- [Tiredness of life: the growing phenomenon in western society](https://theconversation.com/tiredness-of-life-the-growing-phenomenon-in-western-society-203934)
+- [Show HN: TagU – Send Comments on the Web](https://tagu.vercel.app/)
+- [Using MMAP with RocksDB](http://smalldatum.blogspot.com/2022/05/using-mmap-with-rocksdb.html)
+- [Hunting Russian Intelligence “Snake” Malware](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-129a)
+- [Chindōgu](https://en.wikipedia.org/wiki/Chind%C5%8Dgu)
+- [Attention with Linear Biases &lpar;ALiBi&rpar;](https://arxiv.org/abs/2108.12409)
+- [The Xerox Tragedy](https://www.computerworld.com/article/2588783/the-xerox-tragedy.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Three Companies Impersonated Millions to Influence Internet Policy](https://ag.ny.gov/press-release/2023/attorney-general-james-secures-615000-companies-supplied-fake-comments-influence)
-- [Home Heating with Bitcoin Miners Is Now a Real Thing](https://hackaday.com/2023/05/13/home-heating-with-bitcoin-miners-is-now-a-real-thing/)
-- [FreeBSD 13.2 on ThinkPad T14 &lpar;GEN1&rpar;](https://vermaden.wordpress.com/2023/05/14/freebsd-13-2-on-thinkpad-t14-gen1/)
-- [Science Fiction Books About Aliens](https://fivebooks.com/best-books/science-fiction-aliens-jaime-green/)
-- [Instead of your Life&amp;#x27;s Purpose &lpar;2021&rpar;](https://philosophyinhell.substack.com/p/instead-of-your-lifes-purpose)
-- [Researchers improve nonviral gene editing and a new type of DNA repair](https://www.news.ucsb.edu/2023/021037/researchers-discover-way-improve-nonviral-gene-editing-well-new-type-dna-repair)
-- [Metal-filtering sponge removes lead from water](https://news.northwestern.edu/stories/2023/05/metal-filtering-sponge-removes-lead-from-water/)
-- [Why is there no open source firmware for laser or inkjet printers? &lpar;2019&rpar;](https://hackaday.io/page/6176-why-is-there-no-open-source-firmware-for-laser-or-inkjet-printers)
-- [Python Port of 600 Line Bash Script: rsync-time-machine.py for Rsync Backups](https://github.com/basnijholt/rsync-time-machine.py)
-- [Matter Raspberry Pi GPIO Commander – Turn Your Pi into a Matter Lighting Device](https://github.com/canonical/matter-pi-gpio-commander)
+- [The 1% of the population accountable for 63 % of all violent crime convictions &lpar;2013&rpar;](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3969807/)
+- [Companies to pay $615,000 in investigation over faked net neutrality comments](https://apnews.com/article/settlement-fake-public-comments-net-neutrality-ae1f69a1f5415d9f77a41f07c3f6c358)
+- [Brex’s Prompt Engineering Guide](https://github.com/brexhq/prompt-engineering)
+- [Combinatory Logic](https://plato.stanford.edu/entries/logic-combinatory/)
+- [Human activities drive long-term old trees in human-dominated landscapes](https://www.nature.com/articles/s41477-023-01412-1)
+- [JavaScript State Machines and Statecharts](https://xstate.js.org/docs/)
+- [Vore: A new RSS feed reader](https://j3s.sh/thought/vore-a-new-rss-feed-reader.html)
+- [Pimoroni Badger W display server](https://github.com/ulrischa/badger_server_display)
+- [How to Entertain with Your Pocket Calculator &lpar;1975&rpar;](https://archive.org/details/htewypc)
+- [Off-grid solar brings light, time and income to remotest villages](https://apnews.com/article/offgrid-solar-electrification-indonesia-0991d77d68f879c4daa12e7d3dfd97ee)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [macOS Apps in Rust](https://github.com/ryanmcgrath/cacao)
-- [The Work of Lifting Weights: Lifting heavy, burning out](https://oliverbatemandoesthework.substack.com/p/the-work-of-lifting-weights)
-- [Using reflections to see the world from new points of view](https://news.mit.edu/2023/using-reflections-shiny-objects-camera-0510)
-- [Tiredness of life: the growing phenomenon in western society](https://theconversation.com/tiredness-of-life-the-growing-phenomenon-in-western-society-203934)
-- [Show HN: TagU – Send Comments on the Web](https://tagu.vercel.app/)
-- [Using MMAP with RocksDB](http://smalldatum.blogspot.com/2022/05/using-mmap-with-rocksdb.html)
-- [Hunting Russian Intelligence “Snake” Malware](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-129a)
-- [Chindōgu](https://en.wikipedia.org/wiki/Chind%C5%8Dgu)
-- [Attention with Linear Biases &lpar;ALiBi&rpar;](https://arxiv.org/abs/2108.12409)
-- [The Xerox Tragedy](https://www.computerworld.com/article/2588783/the-xerox-tragedy.html)
+- [Chile&#39;s firefighting goats protect a native forest from deadly blazes](https://www.reuters.com/world/americas/chiles-firefighting-goats-protect-native-forest-deadly-blazes-2023-05-14/)
+- [Ask HN: Anyone getting Chrome to HW encode video besides H.264?](https://news.ycombinator.com/item?id=35943191)
+- [Unit Tests vs. Component Tests: Which One’s Better for Software Quality?](https://bullyrooks.com/index.php/2023/05/14/unit-tests-vs-component-tests-which-ones-better-for-software-quality/)
+- [Google I/O 2023 recap](https://philaverse.substack.com/p/google-io-2023-recap)
+- [Ask HN: Why should I learn BERT/transformers/etc. when LLMs like GPT-4 exist?](https://news.ycombinator.com/item?id=35943143)
+- [Successful tech moguls never graduated college](https://www.businessinsider.com/mark-zuckerberg-steve-jobs-tech-executives-never-graduated-college-dropouts-2019-5)
+- [DIY Laser Projector – Built from an old hard drive](https://www.youtube.com/watch?v=u9TpJ-_hBR8)
+- [Bark: A transformer based text to audio system](https://github.com/suno-ai/bark/blob/main/README.md)
+- [Generative UI Concept](https://twitter.com/rupert_parry/status/1653780093712633859)
+- [The 1% of the population accountable for 63 % of all violent crime convictions &lpar;2013&rpar;](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3969807/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

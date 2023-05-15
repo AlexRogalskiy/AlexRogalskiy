@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war at a glance: what we know on day 445 of the invasion](https://www.theguardian.com/world/2023/may/14/russia-ukraine-war-at-a-glance-what-we-know-on-day-445-of-the-invasion)
-- [Sweden wins Eurovision song contest in Liverpool with Loreen](https://www.theguardian.com/tv-and-radio/2023/may/14/eurovision-2023-winner-liverpool-uk-ukraine)
-- [Thailand election day arrives with hope of unseating junta generals from power](https://www.theguardian.com/world/2023/may/14/thailand-election-day-arrives-with-hope-of-unseating-junta-generals-from-power)
-- [Peace, love and gloriously diverse chaos triumph as UK hosts Eurovision](https://www.theguardian.com/tv-and-radio/2023/may/14/peace-love-and-gloriously-diverse-chaos-triumph-as-uk-hosts-eurovision)
-- [Sunak food summit promises star guest and lots of rhubarb](https://www.theguardian.com/business/2023/may/14/sunak-food-summit-promises-star-guest-and-lots-of-rhubarb)
-- [Nurses’ union head calls for double-digit pay rise in England ahead of strike ballot](https://www.theguardian.com/society/2023/may/13/nurses-union-head-calls-for-double-figures-pay-rise-in-england-ahead-of-strike-ballot)
-- [Natural bags: 20 of the best natural bags - in pictures](https://www.theguardian.com/fashion/gallery/2023/may/13/natural-bags-20-of-the-best-natural-bags-in-pictures)
-- [Ceasefire between Israel and Islamic Jihad in Gaza area takes effect](https://www.theguardian.com/world/2023/may/13/israel-and-islamic-jihad-agree-truce-in-gaza)
-- [Chelsea agree terms with Mauricio Pochettino to take over as manager](https://www.theguardian.com/football/2023/may/13/chelsea-agree-terms-mauricio-pochettino-manager)
-- [DeSantis secures endorsements on visit to Iowa in preparation for likely 2024 bid](https://www.theguardian.com/us-news/2023/may/13/desantis-secures-endorsements-on-visit-to-iowa-in-preparation-for-likely-2024-bid)
+- [Turkey elections live: runoff increasingly likely amid competing claims from Erdoğan and Kılıçdaroğlu](https://www.theguardian.com/world/live/2023/may/14/turkey-elections-live-vote-recep-tayyip-erdogan-kemal-klcdaroglu)
+- [Is the UK in the grip of ‘greedflation’? - podcast](https://www.theguardian.com/news/audio/2023/may/15/is-the-uk-in-the-grip-of-greedflation-podcast)
+- [Belarus president Lukashenko misses another event prompting speculation of illness](https://www.theguardian.com/world/2023/may/15/alexander-lukashenko-belarus-president-sick-illness-speculation)
+- [Russia-Ukraine war at a glance: what we know on day 446 of the invasion](https://www.theguardian.com/world/2023/may/15/russia-ukraine-war-at-a-glance-what-we-know-on-day-446-of-the-invasion)
+- [Thailand election 2023: opposition delivers crushing blow to military rule](https://www.theguardian.com/world/2023/may/15/thailand-election-2023-national-elections-opposition-parties-crushing-blow-military-rule-junta)
+- [Kemi Badenoch flying to Switzerland to discuss post-Brexit trade deal](https://www.theguardian.com/politics/2023/may/15/kemi-badenoch-flying-to-switzerland-to-discuss-post-brexit-trade-deal)
+- [China’s war chest: Beijing’s ‘great wall of steel’ faces obstacles to military supremacy](https://www.theguardian.com/world/2023/may/15/chinas-war-chest-beijings-great-wall-of-steel-faces-obstacles-to-military-supremacy)
+- [Could a diverse alliance end Recep Tayyip Erdoğan’s authoritarian rule?](https://www.theguardian.com/world/2023/may/14/could-a-diverse-alliance-end-recep-tayyip-erdogans-authoritarian-rule)
+- [Lewandowski fires Barça to La Liga title but invoke Espanyol fans’ wrath](https://www.theguardian.com/sport/2023/may/14/lewandowski-fires-barca-to-liga-title-but-invoke-espanyol-fans-wrath)
+- [Jimmy Anderson gives England injury scare after suffering mild groin strain](https://www.theguardian.com/sport/2023/may/14/jimmy-anderson-gives-england-injury-scare-after-suffering-mild-groin-strain)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

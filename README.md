@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The 1% of the population accountable for 63 % of all violent crime convictions &lpar;2013&rpar;](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3969807/)
-- [Companies to pay $615,000 in investigation over faked net neutrality comments](https://apnews.com/article/settlement-fake-public-comments-net-neutrality-ae1f69a1f5415d9f77a41f07c3f6c358)
-- [Brex’s Prompt Engineering Guide](https://github.com/brexhq/prompt-engineering)
-- [Combinatory Logic](https://plato.stanford.edu/entries/logic-combinatory/)
-- [Human activities drive long-term old trees in human-dominated landscapes](https://www.nature.com/articles/s41477-023-01412-1)
-- [JavaScript State Machines and Statecharts](https://xstate.js.org/docs/)
-- [Vore: A new RSS feed reader](https://j3s.sh/thought/vore-a-new-rss-feed-reader.html)
-- [Pimoroni Badger W display server](https://github.com/ulrischa/badger_server_display)
-- [How to Entertain with Your Pocket Calculator &lpar;1975&rpar;](https://archive.org/details/htewypc)
-- [Off-grid solar brings light, time and income to remotest villages](https://apnews.com/article/offgrid-solar-electrification-indonesia-0991d77d68f879c4daa12e7d3dfd97ee)
+- [A promised audit of Twitter&amp;#x27;s encrypted DMs didn&amp;#x27;t occur](https://www.platformer.news/p/why-you-cant-trust-twitters-encrypted)
+- [Peoplebox &lpar;YC S22&rpar; Is Hiring a Principal Engineer &lpar;Back End&rpar;](https://www.ycombinator.com/companies/peoplebox/jobs/kpFkrzX-principal-engineer)
+- [Math prodigy runs market-making empire](https://www.bloomberg.com/news/articles/2023-05-11/ken-griffin-s-hand-picked-math-prodigy-peng-zhao-runs-market-making-empire)
+- [Vint Cerf’s Career Advice for Engineers](https://spectrum.ieee.org/vint-cerf-advice)
+- [Show HN: Capillaries: Distributed data processing with Go and Cassandra](https://capillaries.io)
+- [Successful flight trial completion of unmanned aerial vehicle, MAGMA &lpar;2017&rpar;](https://www.baesystems.com/en/article/first-magma-flight-trials)
+- [Many soft contact lenses in US made up of PFAS, research suggests](https://www.theguardian.com/environment/2023/may/09/contact-lenses-pfas-forever-chemicals)
+- [My 20 year career is technical debt or deprecated](https://blog.visionarycto.com/p/my-20-year-career-is-technical-debt)
+- [Show HN: Hat-syslog – Syslog Server with real time web UI](https://github.com/hat-open/hat-syslog)
+- [A weed is swallowing the Sonoran Desert](https://www.hcn.org/articles/south-non-native-species-a-weed-is-swallowing-the-sonoran-desert)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

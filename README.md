@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Turkey elections live: runoff increasingly likely amid competing claims from Erdoğan and Kılıçdaroğlu](https://www.theguardian.com/world/live/2023/may/14/turkey-elections-live-vote-recep-tayyip-erdogan-kemal-klcdaroglu)
-- [Is the UK in the grip of ‘greedflation’? - podcast](https://www.theguardian.com/news/audio/2023/may/15/is-the-uk-in-the-grip-of-greedflation-podcast)
-- [Belarus president Lukashenko misses another event prompting speculation of illness](https://www.theguardian.com/world/2023/may/15/alexander-lukashenko-belarus-president-sick-illness-speculation)
-- [Russia-Ukraine war at a glance: what we know on day 446 of the invasion](https://www.theguardian.com/world/2023/may/15/russia-ukraine-war-at-a-glance-what-we-know-on-day-446-of-the-invasion)
-- [Thailand election 2023: opposition delivers crushing blow to military rule](https://www.theguardian.com/world/2023/may/15/thailand-election-2023-national-elections-opposition-parties-crushing-blow-military-rule-junta)
-- [Kemi Badenoch flying to Switzerland to discuss post-Brexit trade deal](https://www.theguardian.com/politics/2023/may/15/kemi-badenoch-flying-to-switzerland-to-discuss-post-brexit-trade-deal)
-- [China’s war chest: Beijing’s ‘great wall of steel’ faces obstacles to military supremacy](https://www.theguardian.com/world/2023/may/15/chinas-war-chest-beijings-great-wall-of-steel-faces-obstacles-to-military-supremacy)
-- [Could a diverse alliance end Recep Tayyip Erdoğan’s authoritarian rule?](https://www.theguardian.com/world/2023/may/14/could-a-diverse-alliance-end-recep-tayyip-erdogans-authoritarian-rule)
-- [Lewandowski fires Barça to La Liga title but invoke Espanyol fans’ wrath](https://www.theguardian.com/sport/2023/may/14/lewandowski-fires-barca-to-liga-title-but-invoke-espanyol-fans-wrath)
-- [Jimmy Anderson gives England injury scare after suffering mild groin strain](https://www.theguardian.com/sport/2023/may/14/jimmy-anderson-gives-england-injury-scare-after-suffering-mild-groin-strain)
+- [Russia-Ukraine war updates: Kyiv air defences at work as Russia launches early morning strikes – live](https://www.theguardian.com/world/live/2023/may/16/russia-ukraine-war-live-updates-kyiv-russian-air-strikes-latest-news)
+- [Erdoğan survives, but will Turkish democracy? - podcast](https://www.theguardian.com/news/audio/2023/may/16/recep-tayyip-erdogan-survives-will-turkish-democracy-turkey-election-podcast)
+- [New Zealand hostel fire: at least six dead and 11 missing in Wellington blaze](https://www.theguardian.com/world/2023/may/16/wellington-hostel-fire-multiple-people-dead-in-new-zealand-blaze)
+- [US and Micronesia to renew Cofa pact as Washington seeks to counter China in Pacific](https://www.theguardian.com/world/2023/may/16/us-and-micronesia-to-renew-cofa-pact-as-washington-seeks-to-counter-china-in-pacific)
+- [Okonomiyaki: street food that helped rebuild Hiroshima in the G7 spotlight](https://www.theguardian.com/world/2023/may/16/okonomiyaki-street-food-that-helped-rebuild-hiroshima-in-the-g7-spotlight)
+- [Hiroshima survivors urge G7 leaders to unite against atomic weapons](https://www.theguardian.com/world/2023/may/16/hiroshima-survivors-urge-g7-leaders-to-unite-against-atomic-weapons)
+- [Russia-Ukraine war at a glance: what we know on day 447 of the invasion](https://www.theguardian.com/world/2023/may/16/russia-ukraine-war-at-a-glance-what-we-know-on-day-447-of-the-invasion)
+- [New Mexico shooting leaves three people dead and nine injured](https://www.theguardian.com/us-news/2023/may/15/new-mexico-shooting-farmington)
+- [Rudy Giuliani sued by former associate alleging sexual assault and harassment](https://www.theguardian.com/us-news/2023/may/15/rudy-giuliani-lawsuit-noelle-dunphy-sexual-assault)
+- [Concerns over care sector amid UK rise in potential victims of modern slavery](https://www.theguardian.com/world/2023/may/16/concerns-over-care-sector-amid-uk-rise-in-potential-victims-of-modern-slavery)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

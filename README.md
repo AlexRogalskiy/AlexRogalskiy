@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Chile&#39;s firefighting goats protect a native forest from deadly blazes](https://www.reuters.com/world/americas/chiles-firefighting-goats-protect-native-forest-deadly-blazes-2023-05-14/)
-- [Ask HN: Anyone getting Chrome to HW encode video besides H.264?](https://news.ycombinator.com/item?id=35943191)
-- [Unit Tests vs. Component Tests: Which One’s Better for Software Quality?](https://bullyrooks.com/index.php/2023/05/14/unit-tests-vs-component-tests-which-ones-better-for-software-quality/)
-- [Google I/O 2023 recap](https://philaverse.substack.com/p/google-io-2023-recap)
-- [Ask HN: Why should I learn BERT/transformers/etc. when LLMs like GPT-4 exist?](https://news.ycombinator.com/item?id=35943143)
-- [Successful tech moguls never graduated college](https://www.businessinsider.com/mark-zuckerberg-steve-jobs-tech-executives-never-graduated-college-dropouts-2019-5)
-- [DIY Laser Projector – Built from an old hard drive](https://www.youtube.com/watch?v=u9TpJ-_hBR8)
-- [Bark: A transformer based text to audio system](https://github.com/suno-ai/bark/blob/main/README.md)
-- [Generative UI Concept](https://twitter.com/rupert_parry/status/1653780093712633859)
-- [The 1% of the population accountable for 63 % of all violent crime convictions &lpar;2013&rpar;](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3969807/)
+- [The Maker: Software Developer Builds Fully Functional Superhero Helmet](https://blogs.nvidia.com/blog/2023/05/04/kris-kersey-superhero-helmet/)
+- [A promised audit of Twitter&#39;s encrypted DMs didn&#39;t occur](https://www.platformer.news/p/why-you-cant-trust-twitters-encrypted)
+- [A consistent, pretty and modern neovim configuration &lpar;HardHackerNvim&rpar;](https://github.com/hardhackerlabs/oh-my-nvim)
+- [Pixel users report the Google app is making their phones overheat](https://www.engadget.com/pixel-users-report-the-google-app-is-making-their-phones-overheat-193325112.html)
+- [Consumer Credit and the Removal of Medical Collections from Credit Reports](https://www.consumerfinance.gov/data-research/research-reports/consumer-credit-and-the-removal-of-medical-collections-from-credit-reports/)
+- [Ask HN: Best Video Courses for Rust](https://news.ycombinator.com/item?id=35956879)
+- [Silicon Valley’s Civil War](https://www.tabletmag.com/sections/news/articles/silicon-valley-civil-war)
+- [The Herd of Independent Minds &lpar;1948&rpar;](https://www.commentary.org/articles/harold-rosenberg-2/the-herd-of-independent-mindshas-the-avant-garde-its-own-mass-culture/)
+- [Online-Only Startups Adopt a Bold New Strategy: Opening Actual Shops](https://www.wsj.com/articles/warby-parker-allbirds-everlane-parachute-collars-co-stores-e4b94623)
+- [Rye: An Experimental Package Management Solution for Python](https://mitsuhiko.github.io/rye/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

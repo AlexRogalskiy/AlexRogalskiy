@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Maker: Software Developer Builds Fully Functional Superhero Helmet](https://blogs.nvidia.com/blog/2023/05/04/kris-kersey-superhero-helmet/)
-- [A promised audit of Twitter&#39;s encrypted DMs didn&#39;t occur](https://www.platformer.news/p/why-you-cant-trust-twitters-encrypted)
-- [A consistent, pretty and modern neovim configuration &lpar;HardHackerNvim&rpar;](https://github.com/hardhackerlabs/oh-my-nvim)
-- [Pixel users report the Google app is making their phones overheat](https://www.engadget.com/pixel-users-report-the-google-app-is-making-their-phones-overheat-193325112.html)
-- [Consumer Credit and the Removal of Medical Collections from Credit Reports](https://www.consumerfinance.gov/data-research/research-reports/consumer-credit-and-the-removal-of-medical-collections-from-credit-reports/)
-- [Ask HN: Best Video Courses for Rust](https://news.ycombinator.com/item?id=35956879)
-- [Silicon Valley’s Civil War](https://www.tabletmag.com/sections/news/articles/silicon-valley-civil-war)
-- [The Herd of Independent Minds &lpar;1948&rpar;](https://www.commentary.org/articles/harold-rosenberg-2/the-herd-of-independent-mindshas-the-avant-garde-its-own-mass-culture/)
-- [Online-Only Startups Adopt a Bold New Strategy: Opening Actual Shops](https://www.wsj.com/articles/warby-parker-allbirds-everlane-parachute-collars-co-stores-e4b94623)
-- [Rye: An Experimental Package Management Solution for Python](https://mitsuhiko.github.io/rye/)
+- [Sdfghrtrtrt [pdf]](https://climate-pact.network.europa.eu/system/files/2023-05/fast-x-we89.pdf)
+- [Playing Tabletop RPGs via Figma](https://www.superjumpmagazine.com/playing-tabletop-rpgs-via-figma/)
+- [Earth Primer](https://www.earthprimer.com/)
+- [Inside The Quest for Totally Transparent Cocktail Ice](https://www.nytimes.com/2023/05/11/dining/clear-ice-book-camper-english.html)
+- [The Stop CSAM act: improved but still problematic](https://www.eff.org/deeplinks/2023/05/stop-csam-act-improved-still-problematic)
+- [Wemo won’t fix Smart Plug vulnerability allowing remote operation](https://arstechnica.com/gadgets/2023/05/wemo-wont-fix-smart-plug-vulnerability-allowing-remote-operation/)
+- [Key takeways from OpenAI CEO&#39;s Senate testimony](https://old.reddit.com/r/ChatGPT/comments/13jkxs6/key_takeways_from_openai_ceos_3hour_senate/)
+- [ChatGPT Plugins: Data Exfiltration via Images and Cross Plugin Request Forgery](https://embracethered.com/blog/posts/2023/chatgpt-webpilot-data-exfil-via-markdown-injection/)
+- [The loneliness epidemic threatens our health as well as our happiness](https://www.ft.com/content/5f712fe8-611c-405e-9098-09ccff95d6de)
+- [Malware turns home routers into proxies for Chinese state-sponsored hackers](https://arstechnica.com/information-technology/2023/05/malware-turns-home-routers-into-proxies-for-chinese-state-sponsored-hackers/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

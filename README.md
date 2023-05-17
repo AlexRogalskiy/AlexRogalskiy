@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war updates: Kyiv air defences at work as Russia launches early morning strikes – live](https://www.theguardian.com/world/live/2023/may/16/russia-ukraine-war-live-updates-kyiv-russian-air-strikes-latest-news)
-- [Erdoğan survives, but will Turkish democracy? - podcast](https://www.theguardian.com/news/audio/2023/may/16/recep-tayyip-erdogan-survives-will-turkish-democracy-turkey-election-podcast)
-- [New Zealand hostel fire: at least six dead and 11 missing in Wellington blaze](https://www.theguardian.com/world/2023/may/16/wellington-hostel-fire-multiple-people-dead-in-new-zealand-blaze)
-- [US and Micronesia to renew Cofa pact as Washington seeks to counter China in Pacific](https://www.theguardian.com/world/2023/may/16/us-and-micronesia-to-renew-cofa-pact-as-washington-seeks-to-counter-china-in-pacific)
-- [Okonomiyaki: street food that helped rebuild Hiroshima in the G7 spotlight](https://www.theguardian.com/world/2023/may/16/okonomiyaki-street-food-that-helped-rebuild-hiroshima-in-the-g7-spotlight)
-- [Hiroshima survivors urge G7 leaders to unite against atomic weapons](https://www.theguardian.com/world/2023/may/16/hiroshima-survivors-urge-g7-leaders-to-unite-against-atomic-weapons)
-- [Russia-Ukraine war at a glance: what we know on day 447 of the invasion](https://www.theguardian.com/world/2023/may/16/russia-ukraine-war-at-a-glance-what-we-know-on-day-447-of-the-invasion)
-- [New Mexico shooting leaves three people dead and nine injured](https://www.theguardian.com/us-news/2023/may/15/new-mexico-shooting-farmington)
-- [Rudy Giuliani sued by former associate alleging sexual assault and harassment](https://www.theguardian.com/us-news/2023/may/15/rudy-giuliani-lawsuit-noelle-dunphy-sexual-assault)
-- [Concerns over care sector amid UK rise in potential victims of modern slavery](https://www.theguardian.com/world/2023/may/16/concerns-over-care-sector-amid-uk-rise-in-potential-victims-of-modern-slavery)
+- [Has Ukraine’s spring offensive begun? | podcast](https://www.theguardian.com/world/audio/2023/may/17/has-ukraines-spring-offensive-begun-podcast)
+- [Russia-Ukraine war at a glance: what we know on day 448 of the invasion](https://www.theguardian.com/world/2023/may/17/russia-ukraine-war-at-a-glance-what-we-know-on-day-448-of-the-invasion)
+- [California police seek assailant who severed homeless man’s hand with sword](https://www.theguardian.com/us-news/2023/may/16/california-attack-homeless-man-severed-hand-sword)
+- [Cryptocurrency trading in UK should be regulated as form of gambling, say MPs](https://www.theguardian.com/technology/2023/may/17/cryptocurrency-trading-in-uk-should-be-regulated-as-form-of-gambling-say-mps)
+- [Bus fares: £2 cap in England extended to end of October](https://www.theguardian.com/money/2023/may/17/bus-fares-cap-in-england-extended-to-end-of-october)
+- [Vaping boom and bust: from bans to starter kits, how the world is responding](https://www.theguardian.com/society/2023/may/17/vaping-boom-and-bust-from-bans-to-starter-kits-how-the-world-is-responding)
+- [Renters’ reform must close loopholes for unfair evictions, campaigners say](https://www.theguardian.com/society/2023/may/17/renters-reform-must-close-loopholes-for-unfair-evictions-campaigners-say)
+- [Author resigns from PEN America board amid row over Russian writers panel](https://www.theguardian.com/books/2023/may/16/pen-vice-president-masha-gessen-resigns)
+- [Four people killed in attack on US diplomatic convoy in Nigeria](https://www.theguardian.com/world/2023/may/16/nigeria-us-diplomatic-convoy-attack)
+- [Rebekah Vardy: Jehovah’s Witnesses and Me review – this harrowing documentary will totally surprise you](https://www.theguardian.com/tv-and-radio/2023/may/16/rebekah-vardy-jehovahs-witnesses-and-me-review-this-harrowing-documentary-will-totally-surprise-you)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

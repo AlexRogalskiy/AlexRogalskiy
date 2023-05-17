@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [A promised audit of Twitter&amp;#x27;s encrypted DMs didn&amp;#x27;t occur](https://www.platformer.news/p/why-you-cant-trust-twitters-encrypted)
-- [Peoplebox &lpar;YC S22&rpar; Is Hiring a Principal Engineer &lpar;Back End&rpar;](https://www.ycombinator.com/companies/peoplebox/jobs/kpFkrzX-principal-engineer)
-- [Math prodigy runs market-making empire](https://www.bloomberg.com/news/articles/2023-05-11/ken-griffin-s-hand-picked-math-prodigy-peng-zhao-runs-market-making-empire)
-- [Vint Cerf’s Career Advice for Engineers](https://spectrum.ieee.org/vint-cerf-advice)
-- [Show HN: Capillaries: Distributed data processing with Go and Cassandra](https://capillaries.io)
-- [Successful flight trial completion of unmanned aerial vehicle, MAGMA &lpar;2017&rpar;](https://www.baesystems.com/en/article/first-magma-flight-trials)
-- [Many soft contact lenses in US made up of PFAS, research suggests](https://www.theguardian.com/environment/2023/may/09/contact-lenses-pfas-forever-chemicals)
-- [My 20 year career is technical debt or deprecated](https://blog.visionarycto.com/p/my-20-year-career-is-technical-debt)
-- [Show HN: Hat-syslog – Syslog Server with real time web UI](https://github.com/hat-open/hat-syslog)
-- [A weed is swallowing the Sonoran Desert](https://www.hcn.org/articles/south-non-native-species-a-weed-is-swallowing-the-sonoran-desert)
+- [WebGPU hits 40% availability 2 weeks after Chrome releases support](https://web3dsurvey.com/webgpu)
+- [Advocating for Open Models in AI Oversight: Stability AI&amp;#x27;s Letter to U.S. Senate](https://stability.ai/blog/stability-ai-letter-us-senate-ai-oversight)
+- [The promise of crypto has not lived up to its initial excitement](https://www.economist.com/special-report/2023/05/15/the-promise-of-crypto-has-not-lived-up-to-its-initial-excitement)
+- [USB MIDI interface for the NeXTCube – ISPW board](https://0110.be/posts/USB_MIDI_interface_for_the_NeXTCube_-_ISPW_board)
+- [On the trail of the &amp;#x27;Johatsu,&amp;#x27; Japan&amp;#x27;s &amp;#x27;evaporated people&amp;#x27;](https://time.com/4646293/japan-missing-people-johatsu-evaporated/)
+- [On the foolishness of “natural language programming” &lpar;1978&rpar;](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD06xx/EWD667.html)
+- [Middleware &lpar;YC W23&rpar; Is Hiring AI Founding Engineer](https://www.ycombinator.com/companies/middleware/jobs/8l5TKYq-ai-founding-engineer)
+- [Show HN: A little web server in C](https://github.com/robdelacruz/lkwebserver)
+- [John Conway&amp;#x27;s FRACTRAN, a ridiculous, yet surprisingly deep language &lpar;2020&rpar;](http://raganwald.com/2020/05/03/fractran.html)
+- [Updating our inactive account policies](https://blog.google/technology/safety-security/updating-our-inactive-account-policies/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

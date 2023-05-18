@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Has Ukraine’s spring offensive begun? | podcast](https://www.theguardian.com/world/audio/2023/may/17/has-ukraines-spring-offensive-begun-podcast)
-- [Russia-Ukraine war at a glance: what we know on day 448 of the invasion](https://www.theguardian.com/world/2023/may/17/russia-ukraine-war-at-a-glance-what-we-know-on-day-448-of-the-invasion)
-- [California police seek assailant who severed homeless man’s hand with sword](https://www.theguardian.com/us-news/2023/may/16/california-attack-homeless-man-severed-hand-sword)
-- [Cryptocurrency trading in UK should be regulated as form of gambling, say MPs](https://www.theguardian.com/technology/2023/may/17/cryptocurrency-trading-in-uk-should-be-regulated-as-form-of-gambling-say-mps)
-- [Bus fares: £2 cap in England extended to end of October](https://www.theguardian.com/money/2023/may/17/bus-fares-cap-in-england-extended-to-end-of-october)
-- [Vaping boom and bust: from bans to starter kits, how the world is responding](https://www.theguardian.com/society/2023/may/17/vaping-boom-and-bust-from-bans-to-starter-kits-how-the-world-is-responding)
-- [Renters’ reform must close loopholes for unfair evictions, campaigners say](https://www.theguardian.com/society/2023/may/17/renters-reform-must-close-loopholes-for-unfair-evictions-campaigners-say)
-- [Author resigns from PEN America board amid row over Russian writers panel](https://www.theguardian.com/books/2023/may/16/pen-vice-president-masha-gessen-resigns)
-- [Four people killed in attack on US diplomatic convoy in Nigeria](https://www.theguardian.com/world/2023/may/16/nigeria-us-diplomatic-convoy-attack)
-- [Rebekah Vardy: Jehovah’s Witnesses and Me review – this harrowing documentary will totally surprise you](https://www.theguardian.com/tv-and-radio/2023/may/16/rebekah-vardy-jehovahs-witnesses-and-me-review-this-harrowing-documentary-will-totally-surprise-you)
+- [Can Imran Khan really take on the Pakistani army and win? | podcast](https://www.theguardian.com/news/audio/2023/may/18/can-imran-khan-really-take-on-the-pakistani-army-and-win-podcast)
+- [Colombia: four children, including baby, found alive in jungle two weeks after plane crash](https://www.theguardian.com/world/2023/may/18/colombia-four-children-including-baby-found-alive-in-jungle-two-weeks-after-plane-crash)
+- [House Republicans sidestep effort to expel George Santos from Congress](https://www.theguardian.com/us-news/2023/may/17/george-santos-expel-congress-vote-house-republicans)
+- [Once admired, now reviled, Hong Kong police force failing to attract new recruits](https://www.theguardian.com/world/2023/may/18/once-admired-now-reviled-hong-kong-police-force-failing-to-attract-new-recruits)
+- [Russia-Ukraine war at a glance: what we know on day 449 of the invasion](https://www.theguardian.com/world/2023/may/18/russia-ukraine-war-at-a-glance-what-we-know-on-day-449-of-the-invasion)
+- [Ukraine tells China envoy it will not give up territory to Russia as price of peace](https://www.theguardian.com/world/2023/may/18/ukraine-tells-china-envoy-it-will-not-give-up-territory-to-russia-as-price-of-peace)
+- [UK water companies offer apology and £10bn investment for sewage spills](https://www.theguardian.com/environment/2023/may/18/uk-water-companies-offer-apology-and-10bn-investment-for-sewage-spills)
+- [English universities warned not to over-rely on fees of students from China](https://www.theguardian.com/education/2023/may/18/english-universities-warned-not-to-over-rely-on-fees-of-students-from-china)
+- [Radio 4 flagship Today loses 800,000 listeners in a year to podcasts and rivals](https://www.theguardian.com/media/2023/may/18/radio-4-flagship-today-loses-800000-listeners-in-a-year-to-podcasts-and-rivals)
+- [Microwave device could be less invasive treatment for HPV-caused cancers](https://www.theguardian.com/science/2023/may/18/microwave-device-could-be-less-invasive-treatment-for-hpv-caused-cancers)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

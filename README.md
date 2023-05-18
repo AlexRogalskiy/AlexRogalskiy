@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [WebGPU hits 40% availability 2 weeks after Chrome releases support](https://web3dsurvey.com/webgpu)
-- [Advocating for Open Models in AI Oversight: Stability AI&amp;#x27;s Letter to U.S. Senate](https://stability.ai/blog/stability-ai-letter-us-senate-ai-oversight)
-- [The promise of crypto has not lived up to its initial excitement](https://www.economist.com/special-report/2023/05/15/the-promise-of-crypto-has-not-lived-up-to-its-initial-excitement)
-- [USB MIDI interface for the NeXTCube – ISPW board](https://0110.be/posts/USB_MIDI_interface_for_the_NeXTCube_-_ISPW_board)
-- [On the trail of the &amp;#x27;Johatsu,&amp;#x27; Japan&amp;#x27;s &amp;#x27;evaporated people&amp;#x27;](https://time.com/4646293/japan-missing-people-johatsu-evaporated/)
-- [On the foolishness of “natural language programming” &lpar;1978&rpar;](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD06xx/EWD667.html)
-- [Middleware &lpar;YC W23&rpar; Is Hiring AI Founding Engineer](https://www.ycombinator.com/companies/middleware/jobs/8l5TKYq-ai-founding-engineer)
-- [Show HN: A little web server in C](https://github.com/robdelacruz/lkwebserver)
-- [John Conway&amp;#x27;s FRACTRAN, a ridiculous, yet surprisingly deep language &lpar;2020&rpar;](http://raganwald.com/2020/05/03/fractran.html)
-- [Updating our inactive account policies](https://blog.google/technology/safety-security/updating-our-inactive-account-policies/)
+- [85% of jobs are filled via networking](https://www.zippia.com/advice/networking-statistics/)
+- [Read Every Single Error](https://www.pulumi.com/blog/reducing-our-error-rate/)
+- [YC Interview Questions Gamified](https://examples.slashml.com/yc-interview)
+- [New Proof Finds the ‘Ultimate Instability’ in a Solar System Model](https://www.quantamagazine.org/new-math-shows-when-solar-systems-become-unstable-20230516/)
+- [Simulated Hospital](https://github.com/google/simhospital)
+- [Using Bun.js as a Bundler](https://shaneosullivan.wordpress.com/2023/05/17/using-bun-js-as-a-bundler/)
+- [Debian pauses &amp;#x2F;usr merge file moves](https://lwn.net/Articles/932158/)
+- [The US post office is spying on the mail – senators want to stop it](https://www.wired.com/story/usps-mail-surveillance-letter/)
+- [Show HN: Postgres query lock explainer](https://github.com/AdmTal/PostgreSQL-Query-Lock-Explainer)
+- [The myth of the $600 hammer &lpar;1998&rpar;](https://www.govexec.com/federal-news/1998/12/the-myth-of-the-600-hammer/5271/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

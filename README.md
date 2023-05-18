@@ -355,6 +355,8 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Apple&#39;s Neural Engine and the generative AI game](https://www.computerworld.com/article/3696281/apples-neural-engine-and-the-generative-ai-game.html#tk.rss_all)
+- [Europe must lead in semiconductor manufacturing: EU Commissioner](https://www.computerworld.com/article/3696752/europe-must-lead-in-semiconductor-manufacturing-eu-commissioner.html#tk.rss_all)
 - [Senate hearings see a clear and present danger from AI — and opportunities](https://www.computerworld.com/article/3696317/senate-hearings-see-a-clear-and-present-danger-from-ai-and-opportunities.html#tk.rss_all)
 - [Zoom announces partnership with Anthropic for AI call center services](https://www.computerworld.com/article/3696278/zoom-announces-partnership-with-anthropic-for-ai-call-center-services.html#tk.rss_all)
 - [Apple innovates in accessibility as WWDC nears](https://www.computerworld.com/article/3696695/apple-innovates-in-accessibility-as-wwdc-nears.html#tk.rss_all)
@@ -363,8 +365,6 @@
 - [ChatGPT adds plugins, will search the web for you](https://www.computerworld.com/article/3696239/chatgpt-adds-plugins-will-search-the-web-for-you.html#tk.rss_all)
 - [Survey: Most workers would welcome digital monitoring to boost productivity](https://www.computerworld.com/article/3696690/survey-most-workers-would-welcome-digital-monitoring-to-boost-productivity.html#tk.rss_all)
 - [EU Commission OKs Microsoft’s $69B acquisition of Activision Blizzard](https://www.computerworld.com/article/3696237/eu-commission-oks-microsoft-s-69b-acquisition-of-activision-blizzard.html#tk.rss_all)
-- [India’s Tata joins Apple’s exclusive iPhone-manufacturing club](https://www.computerworld.com/article/3696688/indias-tata-joins-apples-exclusive-iphone-manufacturing-club.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

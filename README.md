@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Sdfghrtrtrt [pdf]](https://climate-pact.network.europa.eu/system/files/2023-05/fast-x-we89.pdf)
-- [Playing Tabletop RPGs via Figma](https://www.superjumpmagazine.com/playing-tabletop-rpgs-via-figma/)
-- [Earth Primer](https://www.earthprimer.com/)
-- [Inside The Quest for Totally Transparent Cocktail Ice](https://www.nytimes.com/2023/05/11/dining/clear-ice-book-camper-english.html)
-- [The Stop CSAM act: improved but still problematic](https://www.eff.org/deeplinks/2023/05/stop-csam-act-improved-still-problematic)
-- [Wemo won’t fix Smart Plug vulnerability allowing remote operation](https://arstechnica.com/gadgets/2023/05/wemo-wont-fix-smart-plug-vulnerability-allowing-remote-operation/)
-- [Key takeways from OpenAI CEO&#39;s Senate testimony](https://old.reddit.com/r/ChatGPT/comments/13jkxs6/key_takeways_from_openai_ceos_3hour_senate/)
-- [ChatGPT Plugins: Data Exfiltration via Images and Cross Plugin Request Forgery](https://embracethered.com/blog/posts/2023/chatgpt-webpilot-data-exfil-via-markdown-injection/)
-- [The loneliness epidemic threatens our health as well as our happiness](https://www.ft.com/content/5f712fe8-611c-405e-9098-09ccff95d6de)
-- [Malware turns home routers into proxies for Chinese state-sponsored hackers](https://arstechnica.com/information-technology/2023/05/malware-turns-home-routers-into-proxies-for-chinese-state-sponsored-hackers/)
+- [Ledger firmware update can extract private keys](https://twitter.com/0xfoobar/status/1658965272416452609)
+- [New York City May Be Sinking Under the Weight of Its Skyscrapers](https://www.architecturaldigest.com/story/new-york-city-may-be-sinking-under-weight-skyscrapers)
+- [Nvidia and ServiceNow Partner on AI to Improve IT Help Desksaffa](https://www.investors.com/news/technology/nvda-stock-nvidia-servicenow-partnership-involves-generative-ai/)
+- [Slow migration of user data &lpar;2020&rpar;](https://fusionauth.io/learn/expert-advice/identity-basics/slow-migration)
+- [85% of jobs are filled via networking](https://www.zippia.com/advice/networking-statistics/)
+- [Sneller Regex vs Ripgrep](https://sneller.io/blog/sneller-vs-ripgrep/)
+- [Why trust in freelancers is so low?](https://news.ycombinator.com/item?id=35983380)
+- [Colima: Container runtimes on macOS &lpar;and Linux&rpar; with minimal setup](https://github.com/abiosoft/colima)
+- [Futuristic Pod Beams Folks into Lifelike Virtual Meetings](https://www.thedailybeast.com/finnish-company-framerys-futuristic-pod-beams-folks-into-lifelike-virtual-meetings)
+- [Double-screen ‘free’ TV will show you ads, even when not in use](https://arstechnica.com/gadgets/2023/05/double-screen-free-tv-will-show-you-ads-even-when-not-in-use/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

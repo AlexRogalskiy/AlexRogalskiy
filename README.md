@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Supreme Court sides with Twitter, Google over tech platform liability](https://www.computerworld.com/article/3696995/supreme-court-sides-with-twitter-google-over-tech-platform-liability.html#tk.rss_all)
+- [Is Apple’s supply chain creaking?](https://www.computerworld.com/article/3696994/is-apples-supply-chain-creaking.html#tk.rss_all)
+- [Micron to invest $3.6B for Japanese production of DRAM chips](https://www.computerworld.com/article/3696931/micron-to-invest-36b-for-japanese-production-of-dram-chips.html#tk.rss_all)
+- [Do business Macs still need to run Windows?](https://www.computerworld.com/article/3696314/do-business-macs-still-need-to-run-windows.html#tk.rss_all)
+- [15 Android settings that&#39;ll strengthen your security](https://www.computerworld.com/article/3268079/android-settings-security.html#tk.rss_all)
 - [Apple&#39;s Neural Engine and the generative AI game](https://www.computerworld.com/article/3696281/apples-neural-engine-and-the-generative-ai-game.html#tk.rss_all)
 - [Europe must lead in semiconductor manufacturing: EU Commissioner](https://www.computerworld.com/article/3696752/europe-must-lead-in-semiconductor-manufacturing-eu-commissioner.html#tk.rss_all)
 - [Senate hearings see a clear and present danger from AI — and opportunities](https://www.computerworld.com/article/3696317/senate-hearings-see-a-clear-and-present-danger-from-ai-and-opportunities.html#tk.rss_all)
 - [Zoom announces partnership with Anthropic for AI call center services](https://www.computerworld.com/article/3696278/zoom-announces-partnership-with-anthropic-for-ai-call-center-services.html#tk.rss_all)
 - [Apple innovates in accessibility as WWDC nears](https://www.computerworld.com/article/3696695/apple-innovates-in-accessibility-as-wwdc-nears.html#tk.rss_all)
-- [Google I/O and the curious case of the missing Android version](https://www.computerworld.com/article/3696236/google-io-android-14.html#tk.rss_all)
-- [Amazon is working on infusing generative AI into its shopping app](https://www.computerworld.com/article/3696691/amazon-is-working-on-infusing-generative-ai-into-its-shopping-app.html#tk.rss_all)
-- [ChatGPT adds plugins, will search the web for you](https://www.computerworld.com/article/3696239/chatgpt-adds-plugins-will-search-the-web-for-you.html#tk.rss_all)
-- [Survey: Most workers would welcome digital monitoring to boost productivity](https://www.computerworld.com/article/3696690/survey-most-workers-would-welcome-digital-monitoring-to-boost-productivity.html#tk.rss_all)
-- [EU Commission OKs Microsoft’s $69B acquisition of Activision Blizzard](https://www.computerworld.com/article/3696237/eu-commission-oks-microsoft-s-69b-acquisition-of-activision-blizzard.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

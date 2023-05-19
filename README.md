@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Can Imran Khan really take on the Pakistani army and win? | podcast](https://www.theguardian.com/news/audio/2023/may/18/can-imran-khan-really-take-on-the-pakistani-army-and-win-podcast)
-- [Colombia: four children, including baby, found alive in jungle two weeks after plane crash](https://www.theguardian.com/world/2023/may/18/colombia-four-children-including-baby-found-alive-in-jungle-two-weeks-after-plane-crash)
-- [House Republicans sidestep effort to expel George Santos from Congress](https://www.theguardian.com/us-news/2023/may/17/george-santos-expel-congress-vote-house-republicans)
-- [Once admired, now reviled, Hong Kong police force failing to attract new recruits](https://www.theguardian.com/world/2023/may/18/once-admired-now-reviled-hong-kong-police-force-failing-to-attract-new-recruits)
-- [Russia-Ukraine war at a glance: what we know on day 449 of the invasion](https://www.theguardian.com/world/2023/may/18/russia-ukraine-war-at-a-glance-what-we-know-on-day-449-of-the-invasion)
-- [Ukraine tells China envoy it will not give up territory to Russia as price of peace](https://www.theguardian.com/world/2023/may/18/ukraine-tells-china-envoy-it-will-not-give-up-territory-to-russia-as-price-of-peace)
-- [UK water companies offer apology and £10bn investment for sewage spills](https://www.theguardian.com/environment/2023/may/18/uk-water-companies-offer-apology-and-10bn-investment-for-sewage-spills)
-- [English universities warned not to over-rely on fees of students from China](https://www.theguardian.com/education/2023/may/18/english-universities-warned-not-to-over-rely-on-fees-of-students-from-china)
-- [Radio 4 flagship Today loses 800,000 listeners in a year to podcasts and rivals](https://www.theguardian.com/media/2023/may/18/radio-4-flagship-today-loses-800000-listeners-in-a-year-to-podcasts-and-rivals)
-- [Microwave device could be less invasive treatment for HPV-caused cancers](https://www.theguardian.com/science/2023/may/18/microwave-device-could-be-less-invasive-treatment-for-hpv-caused-cancers)
+- [US supreme court reinforces immunity for Google and Twitter in win for tech behemoths](https://www.theguardian.com/law/2023/may/18/us-supreme-court-avoids-ruling-google-immunity-scope)
+- [National Conservatism: a Tory fringe or the party’s future?](https://www.theguardian.com/news/audio/2023/may/19/national-conservatism-tory-fringe-or-party-future)
+- [Homicide squad officers to investigate senior constable’s Tasering of 95-year-old aged care resident](https://www.theguardian.com/australia-news/2023/may/19/homicide-squad-officers-to-investigate-senior-constables-tasering-of-95-year-old-aged-care-resident)
+- [‘We’re starting a new era’: Thailand’s giant-killing MP Ice on her election upset](https://www.theguardian.com/world/2023/may/19/rukchanok-srinork-thailand-giant-killing-mp-ice-election-upset)
+- [More than half of the world’s lakes have shrunk in past 30 years, study finds](https://www.theguardian.com/environment/2023/may/19/more-than-half-of-the-worlds-lakes-have-shrunk-in-past-30-years-study-finds)
+- [Kidnapped Australian Dr Ken Elliott released by al-Qaida in Africa after seven-year fight for freedom](https://www.theguardian.com/australia-news/2023/may/19/kidnapped-australian-dr-ken-elliott-released-by-al-qaida-in-africa-after-seven-year-fight-for-freedom)
+- [Montana’s TikTok ban: why has it happened and will it work?](https://www.theguardian.com/technology/2023/may/18/montana-tiktok-ban-why-has-it-happened-will-it-work)
+- [I may have fallen in love with a sex worker I am paying. Could it be real? | Leading questions](https://www.theguardian.com/lifeandstyle/2023/may/19/i-may-have-fallen-in-love-with-a-sex-worker-i-am-paying-could-it-be-real)
+- [Russia-Ukraine war at a glance: what we know on day 450 of the invasion](https://www.theguardian.com/world/2023/may/19/russia-ukraine-war-at-a-glance-what-we-know-on-day-450-of-the-invasion)
+- [Marjorie Taylor Greene claims white supremacist label is same as N-word](https://www.theguardian.com/us-news/2023/may/18/marjorie-taylor-greene-white-supremacist-label-n-word)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

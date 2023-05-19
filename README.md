@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [85% of jobs are filled via networking](https://www.zippia.com/advice/networking-statistics/)
-- [Read Every Single Error](https://www.pulumi.com/blog/reducing-our-error-rate/)
-- [YC Interview Questions Gamified](https://examples.slashml.com/yc-interview)
-- [New Proof Finds the ‘Ultimate Instability’ in a Solar System Model](https://www.quantamagazine.org/new-math-shows-when-solar-systems-become-unstable-20230516/)
-- [Simulated Hospital](https://github.com/google/simhospital)
-- [Using Bun.js as a Bundler](https://shaneosullivan.wordpress.com/2023/05/17/using-bun-js-as-a-bundler/)
-- [Debian pauses &amp;#x2F;usr merge file moves](https://lwn.net/Articles/932158/)
-- [The US post office is spying on the mail – senators want to stop it](https://www.wired.com/story/usps-mail-surveillance-letter/)
-- [Show HN: Postgres query lock explainer](https://github.com/AdmTal/PostgreSQL-Query-Lock-Explainer)
-- [The myth of the $600 hammer &lpar;1998&rpar;](https://www.govexec.com/federal-news/1998/12/the-myth-of-the-600-hammer/5271/)
+- [A $200 mini-laptop with a Intel 8088 chip and 640KB](https://liliputing.com/past-meets-present-in-this-200-mini-laptop-with-a-intel-8088-chip-and-640kb-of-memory/)
+- [High-performance tidy trees visualization &lpar;2022&rpar;](https://www.zxch3n.com/tidy/tidy/)
+- [Bevy and WebGPU](https://bevyengine.org/news/bevy-webgpu/)
+- [CLI tools for working with ChatGPT and other LLMs](https://simonwillison.net/2023/May/18/cli-tools-for-llms/)
+- [Recreating Medieval English Ales &lpar;1998&rpar;](https://www.cs.cmu.edu/~pwp/tofi/medieval_english_ale.html)
+- [Windows XP Activation: Game Over](https://tinyapps.org/blog/202304230700_xp_wpa.html)
+- [Linux Software Map](https://xteddy.org/lsm/)
+- [My Inventions – Nikola Tesla &lpar;1919&rpar;](https://archive.org/details/MyInventionsNikolaTesla)
+- [Sniffnet: Open-source, cross platform application to monitor network traffic](https://github.com/GyulyVGC/sniffnet)
+- [Supreme Court rules Andy Warhol’s Prince art is copyright infringement](https://petapixel.com/2023/05/18/supreme-court-rules-andy-warhols-prince-art-is-copyright-infringement/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ledger firmware update can extract private keys](https://twitter.com/0xfoobar/status/1658965272416452609)
-- [New York City May Be Sinking Under the Weight of Its Skyscrapers](https://www.architecturaldigest.com/story/new-york-city-may-be-sinking-under-weight-skyscrapers)
-- [Nvidia and ServiceNow Partner on AI to Improve IT Help Desksaffa](https://www.investors.com/news/technology/nvda-stock-nvidia-servicenow-partnership-involves-generative-ai/)
-- [Slow migration of user data &lpar;2020&rpar;](https://fusionauth.io/learn/expert-advice/identity-basics/slow-migration)
-- [85% of jobs are filled via networking](https://www.zippia.com/advice/networking-statistics/)
-- [Sneller Regex vs Ripgrep](https://sneller.io/blog/sneller-vs-ripgrep/)
-- [Why trust in freelancers is so low?](https://news.ycombinator.com/item?id=35983380)
-- [Colima: Container runtimes on macOS &lpar;and Linux&rpar; with minimal setup](https://github.com/abiosoft/colima)
-- [Futuristic Pod Beams Folks into Lifelike Virtual Meetings](https://www.thedailybeast.com/finnish-company-framerys-futuristic-pod-beams-folks-into-lifelike-virtual-meetings)
-- [Double-screen ‘free’ TV will show you ads, even when not in use](https://arstechnica.com/gadgets/2023/05/double-screen-free-tv-will-show-you-ads-even-when-not-in-use/)
+- [Sexstellungen für besseren Sex MIT lebensgroßen Sexpuppen](https://www.omysexydoll.com/)
+- [Budget Drones in Ukraine Are Redefining Warfare](https://spectrum.ieee.org/drone-warfare-ukraine)
+- [Twitter accuses Microsoft of using its data in unauthorized ways](https://www.cnbc.com/2023/05/18/twitter-accuses-microsoft-of-using-data-in-unauthorized-ways.html)
+- [Section 230 Just Survived a Brush with Death](https://themarkup.org/the-breakdown/2023/05/18/section-230-just-survived-a-brush-with-death)
+- [How to make sure enough fonts are installed to display all Unicode characters?](https://news.ycombinator.com/item?id=35996984)
+- [12-Year-Old to Graduate from College with Five Degrees](https://www.nbclosangeles.com/news/local/12-year-old-boy-graduate-fullerton-college-five-degrees/3155497/)
+- [Show HN: AI Chat with LangChain Codebase](https://steercode.com/)
+- [Shading Languages &amp; the Emergence of Programmable Graphics Systems-Pat Hanrahan](https://www.youtube.com/watch?v=uL4H1ct_-dI)
+- [Show HN: Midjourney-Python-API](https://github.com/ezioruan/midjourney-python-api)
+- [Jump Trading Did Secret Deal to Prop Up TerraUSD Stablecoin, SEC Says](https://www.wsj.com/articles/jump-trading-did-secret-deal-to-prop-up-terrausd-stablecoin-sec-says-11335951)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

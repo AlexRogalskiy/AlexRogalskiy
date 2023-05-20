@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [A $200 mini-laptop with a Intel 8088 chip and 640KB](https://liliputing.com/past-meets-present-in-this-200-mini-laptop-with-a-intel-8088-chip-and-640kb-of-memory/)
-- [High-performance tidy trees visualization &lpar;2022&rpar;](https://www.zxch3n.com/tidy/tidy/)
-- [Bevy and WebGPU](https://bevyengine.org/news/bevy-webgpu/)
-- [CLI tools for working with ChatGPT and other LLMs](https://simonwillison.net/2023/May/18/cli-tools-for-llms/)
-- [Recreating Medieval English Ales &lpar;1998&rpar;](https://www.cs.cmu.edu/~pwp/tofi/medieval_english_ale.html)
-- [Windows XP Activation: Game Over](https://tinyapps.org/blog/202304230700_xp_wpa.html)
-- [Linux Software Map](https://xteddy.org/lsm/)
-- [My Inventions – Nikola Tesla &lpar;1919&rpar;](https://archive.org/details/MyInventionsNikolaTesla)
-- [Sniffnet: Open-source, cross platform application to monitor network traffic](https://github.com/GyulyVGC/sniffnet)
-- [Supreme Court rules Andy Warhol’s Prince art is copyright infringement](https://petapixel.com/2023/05/18/supreme-court-rules-andy-warhols-prince-art-is-copyright-infringement/)
+- [ErlMUD Commentary](https://zxq9.com/erlmud/html/index.html)
+- [HDMI Alt Mode for USB Type-C Connector](https://www.hdmi.org/spec/typec)
+- [GlitchTip: An open source, Sentry API compatible error tracking platform](https://gitlab.com/glitchtip/glitchtip-backend/-/blob/master/README.md)
+- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Infrastructure Engineers](https://news.ycombinator.com/item?id=36008446)
+- [The professor who made $10B by cutting Google its first startup check](https://finance.yahoo.com/news/professor-made-10-billion-cutting-220400904.html)
+- [HP 15C Collector’s Edition &lpar;preorder&rpar;](https://hpcalcs.com/product/hp-15c-collectors-edition/)
+- [Tunnel via Cloudflare to any TCP service](https://iq.thc.org/tunnel-via-cloudflare-to-any-tcp-service)
+- [Show HN: Weekle – a web app to learn how to calculate the day of the week](https://benjoffe.com/weekle)
+- [It’s time to embrace slow productivity &lpar;2022&rpar;](https://www.newyorker.com/culture/office-space/its-time-to-embrace-slow-productivity)
+- [PyTorch for WebGPU](https://praeclarum.org/2023/05/19/webgpu-torch.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

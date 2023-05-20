@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Sexstellungen für besseren Sex MIT lebensgroßen Sexpuppen](https://www.omysexydoll.com/)
-- [Budget Drones in Ukraine Are Redefining Warfare](https://spectrum.ieee.org/drone-warfare-ukraine)
-- [Twitter accuses Microsoft of using its data in unauthorized ways](https://www.cnbc.com/2023/05/18/twitter-accuses-microsoft-of-using-data-in-unauthorized-ways.html)
-- [Section 230 Just Survived a Brush with Death](https://themarkup.org/the-breakdown/2023/05/18/section-230-just-survived-a-brush-with-death)
-- [How to make sure enough fonts are installed to display all Unicode characters?](https://news.ycombinator.com/item?id=35996984)
-- [12-Year-Old to Graduate from College with Five Degrees](https://www.nbclosangeles.com/news/local/12-year-old-boy-graduate-fullerton-college-five-degrees/3155497/)
-- [Show HN: AI Chat with LangChain Codebase](https://steercode.com/)
-- [Shading Languages &amp; the Emergence of Programmable Graphics Systems-Pat Hanrahan](https://www.youtube.com/watch?v=uL4H1ct_-dI)
-- [Show HN: Midjourney-Python-API](https://github.com/ezioruan/midjourney-python-api)
-- [Jump Trading Did Secret Deal to Prop Up TerraUSD Stablecoin, SEC Says](https://www.wsj.com/articles/jump-trading-did-secret-deal-to-prop-up-terrausd-stablecoin-sec-says-11335951)
+- [Chronic Illness Patients Are ‘Hacking’ Their Wearables](https://www.wired.com/story/wearable-tech-chronic-illness/)
+- [At the Kentucky Derby, horses are worked to death for human vanity](https://www.vox.com/future-perfect/23716052/kentucky-derby-horse-deaths-grand-national-racing-cruelty)
+- [The Tragic Tale of How NASA&#39;s X-34 Space Planes Ended Up in Someone&#39;s Backyard](https://www.thedrive.com/the-war-zone/26546/the-tragic-tale-of-how-nasas-x-34-space-planes-ended-up-rotting-in-someones-backyard)
+- [India Govt passes ordinance to nullify court decision favouring Delhi state govt](https://indianexpress.com/article/explained/explained-law/delhi-govt-lg-ordinance-services-8618957/)
+- [ErlMUD Commentary](https://zxq9.com/erlmud/html/index.html)
+- [‘The Last of Us,’ fruit fly edition](https://news.harvard.edu/gazette/story/2023/04/how-a-mind-controlling-fungal-parasite-turns-insects-into-zombies/)
+- [Covid-19&#39;s total cost to the economy in US will reach $14T by 2023](https://theconversation.com/covid-19s-total-cost-to-the-economy-in-us-will-reach-14-trillion-by-end-of-2023-new-research-205379)
+- [PoliticianGPT](https://news.ycombinator.com/item?id=36008668)
+- [Almost 90M American Adults Struggle to Make Ends Meet, Census Says](https://www.bloomberg.com/news/articles/2023-05-17/almost-90-million-us-homes-struggle-with-expenses-census-says)
+- [Plv8 extension allows you use JavaScript within Postgres](https://supabase.com/docs/guides/database/extensions/plv8)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [US supreme court reinforces immunity for Google and Twitter in win for tech behemoths](https://www.theguardian.com/law/2023/may/18/us-supreme-court-avoids-ruling-google-immunity-scope)
-- [National Conservatism: a Tory fringe or the party’s future?](https://www.theguardian.com/news/audio/2023/may/19/national-conservatism-tory-fringe-or-party-future)
-- [Homicide squad officers to investigate senior constable’s Tasering of 95-year-old aged care resident](https://www.theguardian.com/australia-news/2023/may/19/homicide-squad-officers-to-investigate-senior-constables-tasering-of-95-year-old-aged-care-resident)
-- [‘We’re starting a new era’: Thailand’s giant-killing MP Ice on her election upset](https://www.theguardian.com/world/2023/may/19/rukchanok-srinork-thailand-giant-killing-mp-ice-election-upset)
-- [More than half of the world’s lakes have shrunk in past 30 years, study finds](https://www.theguardian.com/environment/2023/may/19/more-than-half-of-the-worlds-lakes-have-shrunk-in-past-30-years-study-finds)
-- [Kidnapped Australian Dr Ken Elliott released by al-Qaida in Africa after seven-year fight for freedom](https://www.theguardian.com/australia-news/2023/may/19/kidnapped-australian-dr-ken-elliott-released-by-al-qaida-in-africa-after-seven-year-fight-for-freedom)
-- [Montana’s TikTok ban: why has it happened and will it work?](https://www.theguardian.com/technology/2023/may/18/montana-tiktok-ban-why-has-it-happened-will-it-work)
-- [I may have fallen in love with a sex worker I am paying. Could it be real? | Leading questions](https://www.theguardian.com/lifeandstyle/2023/may/19/i-may-have-fallen-in-love-with-a-sex-worker-i-am-paying-could-it-be-real)
-- [Russia-Ukraine war at a glance: what we know on day 450 of the invasion](https://www.theguardian.com/world/2023/may/19/russia-ukraine-war-at-a-glance-what-we-know-on-day-450-of-the-invasion)
-- [Marjorie Taylor Greene claims white supremacist label is same as N-word](https://www.theguardian.com/us-news/2023/may/18/marjorie-taylor-greene-white-supremacist-label-n-word)
+- [Debt ceiling talks briefly resume as US default deadline creeps closer](https://www.theguardian.com/us-news/2023/may/19/debt-ceiling-talks-suspended-mccarthy-biden)
+- [Italy: Silvio Berlusconi released from Milan hospital after six weeks](https://www.theguardian.com/world/2023/may/20/italy-silvio-berlusconi-released-from-milan-hospital-after-six-weeks)
+- [FBI broke own rules in January 6 and BLM intelligence search, court finds](https://www.theguardian.com/us-news/2023/may/19/fbi-intelligence-surveillance-court-january-6-blm)
+- [‘How long have I been sitting here naked?’: the woozy, not-dreadful experience of being a life model](https://www.theguardian.com/artanddesign/2023/may/20/how-long-have-i-been-sitting-here-naked-the-woozy-not-dreadful-experience-of-being-a-life-model)
+- [Jim Brown: a life in pictures](https://www.theguardian.com/sport/gallery/2023/may/19/jim-brown-a-life-in-pictures)
+- [From Gareth Southgate to Taylor Swift: the continuing rise of the waistcoat](https://www.theguardian.com/fashion/2023/may/19/from-gareth-southgate-to-taylor-swift-the-continuing-rise-of-the-waistcoat)
+- [Rose blooms at US PGA while Scheffler, Conners and Hovland share lead](https://www.theguardian.com/sport/2023/may/19/justin-rose-blooms-despite-challenging-conditions-of-us-pga-championship)
+- [Toddlers’ gut bacteria may predict future obesity, study suggests](https://www.theguardian.com/society/2023/may/19/toddlers-gut-bacteria-may-predict-future-obesity-study-suggests)
+- [Man, 37, who died after dog attack in Wigan named](https://www.theguardian.com/uk-news/2023/may/19/man-dies-dog-attack-greater-manchester)
+- [Sunak to urge G7 support for collective action against ‘economic coercion’](https://www.theguardian.com/world/2023/may/19/rishi-sunak-g7-summit-economic-coercion-russia-china)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [BrandPost: Solving 3 key IT challenges to unlock business innovation](https://www.computerworld.com/article/3697150/solving-3-key-it-challenges-to-unlock-business-innovation.html#tk.rss_all)
+- [Apple bans employees from using ChatGPT. Should you?](https://www.computerworld.com/article/3697000/apple-bans-employees-from-using-chatgpt-should-you.html#tk.rss_all)
+- [UK announces $1.2B chip strategy, faces criticism over funding size](https://www.networkworld.com/article/3696936/uk-announces-12b-chip-strategy-faces-criticism-over-funding-size.html#tk.rss_all)
+- [Meta is working on its own chip, data center design for AI workloads](https://www.networkworld.com/article/3696935/meta-is-working-on-its-own-chip-data-center-design-for-ai-workloads.html#tk.rss_all)
+- [Three problems with generative AI have yet to be addressed](https://www.computerworld.com/article/3696999/three-problems-with-generative-ai-have-yet-to-be-addressed.html#tk.rss_all)
+- [Safari alternatives: 12 smart iOS browser options](https://www.computerworld.com/article/3695579/safari-alternatives-ios-browsers.html#tk.rss_all)
 - [Supreme Court sides with Twitter, Google over tech platform liability](https://www.computerworld.com/article/3696995/supreme-court-sides-with-twitter-google-over-tech-platform-liability.html#tk.rss_all)
 - [Is Apple’s supply chain creaking?](https://www.computerworld.com/article/3696994/is-apples-supply-chain-creaking.html#tk.rss_all)
 - [Micron to invest $3.6B for Japanese production of DRAM chips](https://www.computerworld.com/article/3696931/micron-to-invest-36b-for-japanese-production-of-dram-chips.html#tk.rss_all)
 - [Do business Macs still need to run Windows?](https://www.computerworld.com/article/3696314/do-business-macs-still-need-to-run-windows.html#tk.rss_all)
-- [15 Android settings that&#39;ll strengthen your security](https://www.computerworld.com/article/3268079/android-settings-security.html#tk.rss_all)
-- [Apple&#39;s Neural Engine and the generative AI game](https://www.computerworld.com/article/3696281/apples-neural-engine-and-the-generative-ai-game.html#tk.rss_all)
-- [Europe must lead in semiconductor manufacturing: EU Commissioner](https://www.computerworld.com/article/3696752/europe-must-lead-in-semiconductor-manufacturing-eu-commissioner.html#tk.rss_all)
-- [Senate hearings see a clear and present danger from AI — and opportunities](https://www.computerworld.com/article/3696317/senate-hearings-see-a-clear-and-present-danger-from-ai-and-opportunities.html#tk.rss_all)
-- [Zoom announces partnership with Anthropic for AI call center services](https://www.computerworld.com/article/3696278/zoom-announces-partnership-with-anthropic-for-ai-call-center-services.html#tk.rss_all)
-- [Apple innovates in accessibility as WWDC nears](https://www.computerworld.com/article/3696695/apple-innovates-in-accessibility-as-wwdc-nears.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

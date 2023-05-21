@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Debt ceiling talks briefly resume as US default deadline creeps closer](https://www.theguardian.com/us-news/2023/may/19/debt-ceiling-talks-suspended-mccarthy-biden)
-- [Italy: Silvio Berlusconi released from Milan hospital after six weeks](https://www.theguardian.com/world/2023/may/20/italy-silvio-berlusconi-released-from-milan-hospital-after-six-weeks)
-- [FBI broke own rules in January 6 and BLM intelligence search, court finds](https://www.theguardian.com/us-news/2023/may/19/fbi-intelligence-surveillance-court-january-6-blm)
-- [‘How long have I been sitting here naked?’: the woozy, not-dreadful experience of being a life model](https://www.theguardian.com/artanddesign/2023/may/20/how-long-have-i-been-sitting-here-naked-the-woozy-not-dreadful-experience-of-being-a-life-model)
-- [Jim Brown: a life in pictures](https://www.theguardian.com/sport/gallery/2023/may/19/jim-brown-a-life-in-pictures)
-- [From Gareth Southgate to Taylor Swift: the continuing rise of the waistcoat](https://www.theguardian.com/fashion/2023/may/19/from-gareth-southgate-to-taylor-swift-the-continuing-rise-of-the-waistcoat)
-- [Rose blooms at US PGA while Scheffler, Conners and Hovland share lead](https://www.theguardian.com/sport/2023/may/19/justin-rose-blooms-despite-challenging-conditions-of-us-pga-championship)
-- [Toddlers’ gut bacteria may predict future obesity, study suggests](https://www.theguardian.com/society/2023/may/19/toddlers-gut-bacteria-may-predict-future-obesity-study-suggests)
-- [Man, 37, who died after dog attack in Wigan named](https://www.theguardian.com/uk-news/2023/may/19/man-dies-dog-attack-greater-manchester)
-- [Sunak to urge G7 support for collective action against ‘economic coercion’](https://www.theguardian.com/world/2023/may/19/rishi-sunak-g7-summit-economic-coercion-russia-china)
+- [Russia-Ukraine war at a glance: what we know on day 452 of the invasion](https://www.theguardian.com/world/2023/may/21/russia-ukraine-war-at-a-glance-what-we-know-on-day-452-of-the-invasion)
+- [Ukraine war: Kyiv denies Wagner claim to have captured Bakhmut](https://www.theguardian.com/world/2023/may/21/ukraine-war-kyiv-denies-wagner-claim-to-have-captured-bakhmut)
+- [The Australian drag performers and ‘rainbow angels’ fighting back against far-right vitriol](https://www.theguardian.com/culture/2023/may/21/austrlia-drag-performers-and-rainbow-angels-fighting-back-far-right-vitriol)
+- [Rory McIlroy remains in contention for US PGA behind leader Brooks Koepka](https://www.theguardian.com/sport/2023/may/21/rory-mcilroy-stays-in-contention-for-us-pga-behind-leader-brooks-koepka)
+- [Katie Taylor suffers first defeat as Chantelle Cameron defends titles](https://www.theguardian.com/sport/2023/may/21/katie-taylor-suffers-first-defeat-as-chantelle-cameron-defends-titles)
+- [Inflation is on the wane, but a longed-for sharp drop is far from in the bag](https://www.theguardian.com/business/2023/may/21/inflation-is-on-the-wane-but-a-longed-for-sharp-drop-is-far-from-in-the-bag)
+- [Elena Rybakina lifts Italian Open as Anhelina Kalinina retires in tears](https://www.theguardian.com/sport/2023/may/20/holger-rune-rallies-past-casper-ruud-and-reaches-italian-open-final)
+- [Kitten heels: 20 of the best summer styles – in pictures](https://www.theguardian.com/fashion/gallery/2023/may/20/kitten-heels-20-of-the-best-summer-styles-in-pictures)
+- [May December review – fraught drama starring Natalie Portman and Julianne Moore promises more than it delivers](https://www.theguardian.com/film/2023/may/20/may-december-review-fraught-drama-starring-natalie-portman-and-julianne-moore-promises-more-than-it-delivers)
+- [Sinn Féin becomes biggest party in local government in Northern Ireland](https://www.theguardian.com/uk-news/2023/may/20/sinn-fein-poised-to-become-biggest-party-in-northern-ireland-councils)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

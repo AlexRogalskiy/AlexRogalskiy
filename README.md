@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [ErlMUD Commentary](https://zxq9.com/erlmud/html/index.html)
-- [HDMI Alt Mode for USB Type-C Connector](https://www.hdmi.org/spec/typec)
-- [GlitchTip: An open source, Sentry API compatible error tracking platform](https://gitlab.com/glitchtip/glitchtip-backend/-/blob/master/README.md)
-- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Infrastructure Engineers](https://news.ycombinator.com/item?id=36008446)
-- [The professor who made $10B by cutting Google its first startup check](https://finance.yahoo.com/news/professor-made-10-billion-cutting-220400904.html)
-- [HP 15C Collector’s Edition &lpar;preorder&rpar;](https://hpcalcs.com/product/hp-15c-collectors-edition/)
-- [Tunnel via Cloudflare to any TCP service](https://iq.thc.org/tunnel-via-cloudflare-to-any-tcp-service)
-- [Show HN: Weekle – a web app to learn how to calculate the day of the week](https://benjoffe.com/weekle)
-- [It’s time to embrace slow productivity &lpar;2022&rpar;](https://www.newyorker.com/culture/office-space/its-time-to-embrace-slow-productivity)
-- [PyTorch for WebGPU](https://praeclarum.org/2023/05/19/webgpu-torch.html)
+- [Just Calm Down About GPT-4 Already](https://spectrum.ieee.org/gpt-4-calm-down)
+- [Nonprofits are sapping the progressive project](https://www.noahpinion.blog/p/nonprofits-are-sapping-the-progressive)
+- [Japanese police make first YouTuber arrest for uploading video game gameplay](https://japantoday.com/category/crime/japanese-police-make-first-ever-youtuber-arrest-for-uploading-video-game-gameplay-videos)
+- [Symbolics Lisp Machines Graphics Demo &lpar;1990&rpar; [video]](https://www.youtube.com/watch?v=RQKlgza_HgE)
+- [Apple-1 ELIZA chatbot vs. ChatGPT](https://www.youtube.com/watch?v=1yZRNt25Wdo)
+- [Neeva, would-be Google competitor, is shutting down its search engine](https://www.theverge.com/2023/5/20/23731397/neeva-search-engine-google-shutdown)
+- [0+: A double digit Sharpe HFT strategy](https://blog.everstrike.io/the-0-hft-strategy/)
+- [Popular Pirate Bay proxy site disappears from GitHub](https://torrentfreak.com/popular-pirate-bay-proxy-site-disappears-from-github-230520/)
+- [PyPI new user and new project registrations temporarily suspended](https://status.python.org)
+- [SanDisk Extreme SSDs keep abruptly failing–firmware fix for only some promised](https://arstechnica.com/gadgets/2023/05/sandisk-extreme-ssds-keep-abruptly-failing-firmware-fix-for-only-some-promised/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

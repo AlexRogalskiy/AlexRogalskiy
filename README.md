@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Chronic Illness Patients Are ‘Hacking’ Their Wearables](https://www.wired.com/story/wearable-tech-chronic-illness/)
-- [At the Kentucky Derby, horses are worked to death for human vanity](https://www.vox.com/future-perfect/23716052/kentucky-derby-horse-deaths-grand-national-racing-cruelty)
-- [The Tragic Tale of How NASA&#39;s X-34 Space Planes Ended Up in Someone&#39;s Backyard](https://www.thedrive.com/the-war-zone/26546/the-tragic-tale-of-how-nasas-x-34-space-planes-ended-up-rotting-in-someones-backyard)
-- [India Govt passes ordinance to nullify court decision favouring Delhi state govt](https://indianexpress.com/article/explained/explained-law/delhi-govt-lg-ordinance-services-8618957/)
-- [ErlMUD Commentary](https://zxq9.com/erlmud/html/index.html)
-- [‘The Last of Us,’ fruit fly edition](https://news.harvard.edu/gazette/story/2023/04/how-a-mind-controlling-fungal-parasite-turns-insects-into-zombies/)
-- [Covid-19&#39;s total cost to the economy in US will reach $14T by 2023](https://theconversation.com/covid-19s-total-cost-to-the-economy-in-us-will-reach-14-trillion-by-end-of-2023-new-research-205379)
-- [PoliticianGPT](https://news.ycombinator.com/item?id=36008668)
-- [Almost 90M American Adults Struggle to Make Ends Meet, Census Says](https://www.bloomberg.com/news/articles/2023-05-17/almost-90-million-us-homes-struggle-with-expenses-census-says)
-- [Plv8 extension allows you use JavaScript within Postgres](https://supabase.com/docs/guides/database/extensions/plv8)
+- [PyPI new user and new project registrations temporarily suspended](https://status.python.org/incidents/qy2t9mjjcc7g)
+- [Show HN: Loofi – Our AI-Powered SQL Query Builder](https://loofi.dev/)
+- [Ask HN: Search engine for a small number of sites?](https://news.ycombinator.com/item?id=36017411)
+- [Ask HN: What sides hustles do you have?](https://news.ycombinator.com/item?id=36017342)
+- [Marlon Brando](https://paul.copplest.one/knowledge/people/marlon-brando.html)
+- [Algorithm Decides Who Gets Liver](https://themarkup.org/hello-world/2023/05/20/an-algorithm-decides-who-gets-a-liver-transplant-here-are-5-things-to-know)
+- [Just Calm Down About GPT-4 Already](https://spectrum.ieee.org/gpt-4-calm-down)
+- [Gustl Mollath](https://en.wikipedia.org/wiki/Gustl_Mollath)
+- [The Problem with Consensus](http://scienceunicorn.blogspot.com/2015/02/the-problem-with-consensus.html)
+- [USGov uses realtime Google, OpenAI search trends to find public health outbreaks](https://www.phacts.io/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

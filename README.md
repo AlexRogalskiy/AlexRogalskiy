@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war at a glance: what we know on day 452 of the invasion](https://www.theguardian.com/world/2023/may/21/russia-ukraine-war-at-a-glance-what-we-know-on-day-452-of-the-invasion)
-- [Ukraine war: Kyiv denies Wagner claim to have captured Bakhmut](https://www.theguardian.com/world/2023/may/21/ukraine-war-kyiv-denies-wagner-claim-to-have-captured-bakhmut)
-- [The Australian drag performers and ‘rainbow angels’ fighting back against far-right vitriol](https://www.theguardian.com/culture/2023/may/21/austrlia-drag-performers-and-rainbow-angels-fighting-back-far-right-vitriol)
-- [Rory McIlroy remains in contention for US PGA behind leader Brooks Koepka](https://www.theguardian.com/sport/2023/may/21/rory-mcilroy-stays-in-contention-for-us-pga-behind-leader-brooks-koepka)
-- [Katie Taylor suffers first defeat as Chantelle Cameron defends titles](https://www.theguardian.com/sport/2023/may/21/katie-taylor-suffers-first-defeat-as-chantelle-cameron-defends-titles)
-- [Inflation is on the wane, but a longed-for sharp drop is far from in the bag](https://www.theguardian.com/business/2023/may/21/inflation-is-on-the-wane-but-a-longed-for-sharp-drop-is-far-from-in-the-bag)
-- [Elena Rybakina lifts Italian Open as Anhelina Kalinina retires in tears](https://www.theguardian.com/sport/2023/may/20/holger-rune-rallies-past-casper-ruud-and-reaches-italian-open-final)
-- [Kitten heels: 20 of the best summer styles – in pictures](https://www.theguardian.com/fashion/gallery/2023/may/20/kitten-heels-20-of-the-best-summer-styles-in-pictures)
-- [May December review – fraught drama starring Natalie Portman and Julianne Moore promises more than it delivers](https://www.theguardian.com/film/2023/may/20/may-december-review-fraught-drama-starring-natalie-portman-and-julianne-moore-promises-more-than-it-delivers)
-- [Sinn Féin becomes biggest party in local government in Northern Ireland](https://www.theguardian.com/uk-news/2023/may/20/sinn-fein-poised-to-become-biggest-party-in-northern-ireland-councils)
+- [Foo Fighters announce Josh Freese as new drummer after Taylor Hawkins’ death](https://www.theguardian.com/music/2023/may/22/foo-fighters-announce-josh-freese-as-new-drummer-after-taylor-hawkins-death)
+- [Why California is dismantling its death row – podcast](https://www.theguardian.com/news/audio/2023/may/22/why-california-is-dismantling-death-row-podcast)
+- [Zelenskiy uses G7 summit to reach beyond the west for support](https://www.theguardian.com/world/2023/may/22/volodymyr-zelenskiy-uses-g7-summit-to-reach-beyond-the-west-for-support)
+- [Guy Pearce confirms he will appear in Neighbours revival](https://www.theguardian.com/tv-and-radio/2023/may/22/guy-pearce-confirms-he-will-appear-in-neighbours-revival)
+- [China summons Japanese ambassador over ‘smears’ at G7 summit](https://www.theguardian.com/world/2023/may/22/china-summons-japanese-ambassador-over-smears-at-g7-summit)
+- [New Zealand announces its biggest emissions reduction project in history](https://www.theguardian.com/world/2023/may/22/new-zealand-announces-its-biggest-emissions-reduction-project-in-history)
+- [US and Papua New Guinea set to sign security agreement amid Pacific militarisation concerns](https://www.theguardian.com/world/2023/may/22/us-png-defence-security-agreement-papua-new-guinea-china-india-modi-pacific-militarisation-concerns)
+- [Russia-Ukraine war at a glance: what we know on day 453 of the invasion](https://www.theguardian.com/world/2023/may/22/russia-ukraine-war-at-a-glance-what-we-know-on-day-453-of-the-invasion)
+- [US debt ceiling talks ‘productive’ as Biden and McCarthy to meet 10 days from deadline](https://www.theguardian.com/business/2023/may/22/us-debt-ceiling-talks-productive-as-biden-and-mccarthy-to-meet-ten-days-from-deadline)
+- [Ithaka: The Fight to Free Assange review – there’s no better show about the WikiLeaks founder’s battle](https://www.theguardian.com/tv-and-radio/2023/may/22/ithaka-the-fight-to-free-assange-review-theres-no-better-show-about-the-wikileaks-founders-battle)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

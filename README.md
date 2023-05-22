@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [PyPI new user and new project registrations temporarily suspended](https://status.python.org/incidents/qy2t9mjjcc7g)
-- [Show HN: Loofi – Our AI-Powered SQL Query Builder](https://loofi.dev/)
-- [Ask HN: Search engine for a small number of sites?](https://news.ycombinator.com/item?id=36017411)
-- [Ask HN: What sides hustles do you have?](https://news.ycombinator.com/item?id=36017342)
-- [Marlon Brando](https://paul.copplest.one/knowledge/people/marlon-brando.html)
-- [Algorithm Decides Who Gets Liver](https://themarkup.org/hello-world/2023/05/20/an-algorithm-decides-who-gets-a-liver-transplant-here-are-5-things-to-know)
-- [Just Calm Down About GPT-4 Already](https://spectrum.ieee.org/gpt-4-calm-down)
-- [Gustl Mollath](https://en.wikipedia.org/wiki/Gustl_Mollath)
-- [The Problem with Consensus](http://scienceunicorn.blogspot.com/2015/02/the-problem-with-consensus.html)
-- [USGov uses realtime Google, OpenAI search trends to find public health outbreaks](https://www.phacts.io/)
+- [In Defense of Pure 16-Bit Floating-Point Neural Networks](https://arxiv.org/abs/2305.10947)
+- [How GPTCache works with llama index](https://github.com/zilliztech/GPTCache)
+- [Same Stop: Life after 26 years as a programmer for Apple](https://www.engineersneedart.com/blog/samestop/samestop.html)
+- [The Last Recording Artist](https://jaimebrooks.substack.com/p/the-last-recording-artist)
+- [AI’s Education Revolution: Khan Academy using ChatGPT to scale 1-on-1 teaching](https://www.wsj.com/articles/ais-education-revolution-khan-academy-tutor-animation-schools-5aec9a5e)
+- [Instagram back up after global outage affecting thousands of users](https://www.reuters.com/technology/instagram-down-more-than-98000-users-downdetector-2023-05-21/)
+- [Can passenger land a plane &lpar;even just in simulator&rpar;](https://www.washingtonpost.com/travel/2023/05/20/passengers-try-landing-plane-flight-simulator/)
+- [Utopia](https://utopia-game.com/shared/)
+- [Legalizing Marijuana Is a Big Mistake](https://www.nytimes.com/2023/05/17/opinion/marijuana-legalization-disaster.html)
+- [Ask HN: Climate change – challenges with technological solutions](https://news.ycombinator.com/item?id=36026590)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

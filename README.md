@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Just Calm Down About GPT-4 Already](https://spectrum.ieee.org/gpt-4-calm-down)
-- [Nonprofits are sapping the progressive project](https://www.noahpinion.blog/p/nonprofits-are-sapping-the-progressive)
-- [Japanese police make first YouTuber arrest for uploading video game gameplay](https://japantoday.com/category/crime/japanese-police-make-first-ever-youtuber-arrest-for-uploading-video-game-gameplay-videos)
-- [Symbolics Lisp Machines Graphics Demo &lpar;1990&rpar; [video]](https://www.youtube.com/watch?v=RQKlgza_HgE)
-- [Apple-1 ELIZA chatbot vs. ChatGPT](https://www.youtube.com/watch?v=1yZRNt25Wdo)
-- [Neeva, would-be Google competitor, is shutting down its search engine](https://www.theverge.com/2023/5/20/23731397/neeva-search-engine-google-shutdown)
-- [0+: A double digit Sharpe HFT strategy](https://blog.everstrike.io/the-0-hft-strategy/)
-- [Popular Pirate Bay proxy site disappears from GitHub](https://torrentfreak.com/popular-pirate-bay-proxy-site-disappears-from-github-230520/)
-- [PyPI new user and new project registrations temporarily suspended](https://status.python.org)
-- [SanDisk Extreme SSDs keep abruptly failing–firmware fix for only some promised](https://arstechnica.com/gadgets/2023/05/sandisk-extreme-ssds-keep-abruptly-failing-firmware-fix-for-only-some-promised/)
+- [Same Stop: Life after 26 years as a programmer for Apple](https://www.engineersneedart.com/blog/samestop/samestop.html)
+- [Deep Sleep May Be the Best Defense Against Alzheimer’s](https://www.wsj.com/articles/deep-sleep-may-be-the-best-defense-against-alzheimers-memory-amlyoid-1524dbd7)
+- [Apple is rewriting Foundation in Swift](https://github.com/apple/swift-foundation)
+- [Ask HN: Is there a webapp to input&amp;#x2F;store your blood test results?](https://news.ycombinator.com/item?id=36025977)
+- [Beej&amp;#x27;s Guide to Network Programming](https://beej.us/guide/bgnet/)
+- [Modding Age of Empires II with a Sprite-Diffuser](https://www.engine.study/blog/modding-age-of-empires-ii-with-a-sprite-diffuser/)
+- [Cloud GPU Resources and Pricing](https://fullstackdeeplearning.com/cloud-gpus/)
+- [For chemists, the AI revolution has yet to happen](https://www.nature.com/articles/d41586-023-01612-x)
+- [Noise is all around us](https://thewalrus.ca/noise-ethics/)
+- [An Example of a Sad Google Account Recovery Failure and Its Effects](https://lauren.vortex.com/2023/05/17/google-account-recovery-failure-sad)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

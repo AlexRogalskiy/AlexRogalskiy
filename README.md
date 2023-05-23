@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [G7 leaders warn of AI dangers, say the time to act is now](https://www.computerworld.com/article/3697154/g7-leaders-warn-of-ai-dangers-say-the-time-to-act-is-now.html#tk.rss_all)
+- [Meta fined $1.3B for violating EU GDPR data transfer rules on privacy](https://www.csoonline.com/article/3697012/meta-fined-13b-for-violating-eu-gdpr-data-transfer-rules-on-privacy.html#tk.rss_all)
+- [Why Apple&#39;s iOS 16.6 upgrade will be talk of the town](https://www.computerworld.com/article/3697011/why-apples-ios-166-upgrade-will-be-talk-of-the-town.html#tk.rss_all)
+- [China bans chip maker Micron from key infrastructure projects](https://www.computerworld.com/article/3697010/china-bans-chip-maker-micron-from-key-infrastructure-projects.html#tk.rss_all)
+- [The fax is still king in healthcare — and it’s not going away anytime soon](https://www.computerworld.com/article/3697270/the-fax-is-still-king-in-healthcare-and-its-not-going-away-anytime-soon.html#tk.rss_all)
 - [BrandPost: Solving 3 key IT challenges to unlock business innovation](https://www.computerworld.com/article/3697150/solving-3-key-it-challenges-to-unlock-business-innovation.html#tk.rss_all)
 - [Apple bans employees from using ChatGPT. Should you?](https://www.computerworld.com/article/3697000/apple-bans-employees-from-using-chatgpt-should-you.html#tk.rss_all)
 - [UK announces $1.2B chip strategy, faces criticism over funding size](https://www.networkworld.com/article/3696936/uk-announces-12b-chip-strategy-faces-criticism-over-funding-size.html#tk.rss_all)
 - [Meta is working on its own chip, data center design for AI workloads](https://www.networkworld.com/article/3696935/meta-is-working-on-its-own-chip-data-center-design-for-ai-workloads.html#tk.rss_all)
 - [Three problems with generative AI have yet to be addressed](https://www.computerworld.com/article/3696999/three-problems-with-generative-ai-have-yet-to-be-addressed.html#tk.rss_all)
-- [Safari alternatives: 12 smart iOS browser options](https://www.computerworld.com/article/3695579/safari-alternatives-ios-browsers.html#tk.rss_all)
-- [Supreme Court sides with Twitter, Google over tech platform liability](https://www.computerworld.com/article/3696995/supreme-court-sides-with-twitter-google-over-tech-platform-liability.html#tk.rss_all)
-- [Is Apple’s supply chain creaking?](https://www.computerworld.com/article/3696994/is-apples-supply-chain-creaking.html#tk.rss_all)
-- [Micron to invest $3.6B for Japanese production of DRAM chips](https://www.computerworld.com/article/3696931/micron-to-invest-36b-for-japanese-production-of-dram-chips.html#tk.rss_all)
-- [Do business Macs still need to run Windows?](https://www.computerworld.com/article/3696314/do-business-macs-still-need-to-run-windows.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

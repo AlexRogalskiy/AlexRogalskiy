@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Same Stop: Life after 26 years as a programmer for Apple](https://www.engineersneedart.com/blog/samestop/samestop.html)
-- [Deep Sleep May Be the Best Defense Against Alzheimer’s](https://www.wsj.com/articles/deep-sleep-may-be-the-best-defense-against-alzheimers-memory-amlyoid-1524dbd7)
-- [Apple is rewriting Foundation in Swift](https://github.com/apple/swift-foundation)
-- [Ask HN: Is there a webapp to input&amp;#x2F;store your blood test results?](https://news.ycombinator.com/item?id=36025977)
-- [Beej&amp;#x27;s Guide to Network Programming](https://beej.us/guide/bgnet/)
-- [Modding Age of Empires II with a Sprite-Diffuser](https://www.engine.study/blog/modding-age-of-empires-ii-with-a-sprite-diffuser/)
-- [Cloud GPU Resources and Pricing](https://fullstackdeeplearning.com/cloud-gpus/)
-- [For chemists, the AI revolution has yet to happen](https://www.nature.com/articles/d41586-023-01612-x)
-- [Noise is all around us](https://thewalrus.ca/noise-ethics/)
-- [An Example of a Sad Google Account Recovery Failure and Its Effects](https://lauren.vortex.com/2023/05/17/google-account-recovery-failure-sad)
+- [Seattle Amazon workers plan walkout over return to office, layoffs](https://www.seattletimes.com/business/seattle-amazon-workers-plan-walkout-over-return-to-office-layoffs/)
+- [SimCity 4, the greatest citybuilder of all time, was released 20 years ago](https://www.rockpapershotgun.com/simcity-4-the-greatest-citybuilder-of-all-time-was-released-20-years-ago)
+- [Generating Music Tracks with Unified Representation and Diffusion Framework](https://ai-muzic.github.io/getmusic/)
+- [RWKV: Reinventing RNNs for the Transformer Era](https://arxiv.org/abs/2305.13048)
+- [Why do recipe writers lie and lie about how long it takes to caramelize onions? &lpar;2012&rpar;](https://slate.com/human-interest/2012/05/how-to-cook-onions-why-recipe-writers-lie-and-lie-about-how-long-they-take-to-caramelize.html)
+- [Reddit comments and submissions from 2005-06 to 2022-12 collected by Pushshift](https://academictorrents.com/details/7c0645c94321311bb05bd879ddee4d0eba08aaee)
+- [MIT students give longtime professor standing ovation after last lecture](https://www.boston.com/news/local-news/2023/05/17/mit-professor-gilbert-strang-retiring-standing-ovation-video/)
+- [Is 20M of rows still a valid soft limit of MySQL table in 2023?](https://yishenggong.com/2023/05/22/is-20m-of-rows-still-a-valid-soft-limit-of-mysql-table-in-2023/)
+- [Show HN: Aimless.js – the missing js randomness library](https://github.com/ChrisCavs/aimless.js)
+- [Show HN: Blotter – An interactive, never ending music video](https://www.twitch.tv/blotterstream)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

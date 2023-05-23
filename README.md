@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [In Defense of Pure 16-Bit Floating-Point Neural Networks](https://arxiv.org/abs/2305.10947)
-- [How GPTCache works with llama index](https://github.com/zilliztech/GPTCache)
-- [Same Stop: Life after 26 years as a programmer for Apple](https://www.engineersneedart.com/blog/samestop/samestop.html)
-- [The Last Recording Artist](https://jaimebrooks.substack.com/p/the-last-recording-artist)
-- [AI’s Education Revolution: Khan Academy using ChatGPT to scale 1-on-1 teaching](https://www.wsj.com/articles/ais-education-revolution-khan-academy-tutor-animation-schools-5aec9a5e)
-- [Instagram back up after global outage affecting thousands of users](https://www.reuters.com/technology/instagram-down-more-than-98000-users-downdetector-2023-05-21/)
-- [Can passenger land a plane &lpar;even just in simulator&rpar;](https://www.washingtonpost.com/travel/2023/05/20/passengers-try-landing-plane-flight-simulator/)
-- [Utopia](https://utopia-game.com/shared/)
-- [Legalizing Marijuana Is a Big Mistake](https://www.nytimes.com/2023/05/17/opinion/marijuana-legalization-disaster.html)
-- [Ask HN: Climate change – challenges with technological solutions](https://news.ycombinator.com/item?id=36026590)
+- [Show HN: DB-GPT, an LLM tool for database](https://github.com/csunny/DB-GPT)
+- [Microsoft Hosts “Sample Nephrology Questions and Critiques” [pdf]](https://prodcmsstoragesa.blob.core.windows.net/uploads/files/Nephrology%20Critiques.pdf)
+- [Global Grand Challenges: Catalyzing Equitable Artificial Intelligence &lpar;AI&rpar; Use](https://gcgh.grandchallenges.org/challenge/catalyzing-equitable-artificial-intelligence-ai-use)
+- [The Hardest Logic Puzzle Ever](https://en.wikipedia.org/wiki/The_Hardest_Logic_Puzzle_Ever)
+- [Why do recipe writers lie and lie about how long it takes to caramelize onions?](https://slate.com/human-interest/2012/05/how-to-cook-onions-why-recipe-writers-lie-and-lie-about-how-long-they-take-to-caramelize.html)
+- [Which book has the most accurate prediction on AI so far?](https://news.ycombinator.com/item?id=36038790)
+- [The case for a code of conduct for AI in healthcare](https://newatlas.com/computers/case-code-of-conduct-ai-healthcare/)
+- [Awk One-Liners Explained](https://catonmat.net/awk-book)
+- [Unofficial DragGan open source code](https://github.com/Zeqiang-Lai/DragGAN)
+- [Nintype &lpar;from 2014&rpar; is still the best mobile keyboard](https://maxleiter.com/blog/nintype)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

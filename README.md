@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Foo Fighters announce Josh Freese as new drummer after Taylor Hawkins’ death](https://www.theguardian.com/music/2023/may/22/foo-fighters-announce-josh-freese-as-new-drummer-after-taylor-hawkins-death)
-- [Why California is dismantling its death row – podcast](https://www.theguardian.com/news/audio/2023/may/22/why-california-is-dismantling-death-row-podcast)
-- [Zelenskiy uses G7 summit to reach beyond the west for support](https://www.theguardian.com/world/2023/may/22/volodymyr-zelenskiy-uses-g7-summit-to-reach-beyond-the-west-for-support)
-- [Guy Pearce confirms he will appear in Neighbours revival](https://www.theguardian.com/tv-and-radio/2023/may/22/guy-pearce-confirms-he-will-appear-in-neighbours-revival)
-- [China summons Japanese ambassador over ‘smears’ at G7 summit](https://www.theguardian.com/world/2023/may/22/china-summons-japanese-ambassador-over-smears-at-g7-summit)
-- [New Zealand announces its biggest emissions reduction project in history](https://www.theguardian.com/world/2023/may/22/new-zealand-announces-its-biggest-emissions-reduction-project-in-history)
-- [US and Papua New Guinea set to sign security agreement amid Pacific militarisation concerns](https://www.theguardian.com/world/2023/may/22/us-png-defence-security-agreement-papua-new-guinea-china-india-modi-pacific-militarisation-concerns)
-- [Russia-Ukraine war at a glance: what we know on day 453 of the invasion](https://www.theguardian.com/world/2023/may/22/russia-ukraine-war-at-a-glance-what-we-know-on-day-453-of-the-invasion)
-- [US debt ceiling talks ‘productive’ as Biden and McCarthy to meet 10 days from deadline](https://www.theguardian.com/business/2023/may/22/us-debt-ceiling-talks-productive-as-biden-and-mccarthy-to-meet-ten-days-from-deadline)
-- [Ithaka: The Fight to Free Assange review – there’s no better show about the WikiLeaks founder’s battle](https://www.theguardian.com/tv-and-radio/2023/may/22/ithaka-the-fight-to-free-assange-review-theres-no-better-show-about-the-wikileaks-founders-battle)
+- [Tom Brady set to become minority owner of Las Vegas Raiders](https://www.theguardian.com/sport/2023/may/22/tom-brady-las-vegas-raiders-minority-owner)
+- [Bird flu: H5N1 virus in Brazil wild birds prompts animal health emergency](https://www.theguardian.com/world/2023/may/23/bird-flu-h5n1-virus-in-brazil-wild-birds-prompts-animal-health-emergency)
+- [From pollution to policing – can Sadiq Khan clean up London? – podcast](https://www.theguardian.com/news/audio/2023/may/23/sadiq-khan-mayor-london-air-pollution-policing-housing-crisis-podcast)
+- [Biden and McCarthy hold debt talks to no avail as default deadline looms](https://www.theguardian.com/us-news/2023/may/22/biden-mccarthy-white-house-meeting-debt-ceiling)
+- [New Zealand’s ratio of sheep to humans at lowest point in 170 years](https://www.theguardian.com/world/2023/may/23/new-zealand-ratio-of-sheep-to-humans-lowest-point-170-years)
+- [Arrest over video of people entering east London home](https://www.theguardian.com/uk-news/2023/may/22/police-investigating-video-of-people-entering-east-london-home-uninvited)
+- [Anti-Putin militia claims to have overrun village in Russia border region of Belgorod](https://www.theguardian.com/world/2023/may/22/anti-kremlin-militia-freedom-of-russia-legion-overrun-russian-border-village-kozinka)
+- [E Jean Carroll files for new damages after Trump’s CNN town hall remarks](https://www.theguardian.com/us-news/2023/may/22/e-jean-carroll-donald-trump-cnn-town-hall-damages)
+- [Ray Stevenson – RRR, Thor and Star Wars actor – dies aged 58](https://www.theguardian.com/film/2023/may/23/ray-stevenson-rrr-thor-and-star-wars-actor-dies-aged-58)
+- [Russia-Ukraine war at a glance: what we know on day 454 of the invasion](https://www.theguardian.com/world/2023/may/23/russia-ukraine-war-at-a-glance-what-we-know-on-day-454-of-the-invasion)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

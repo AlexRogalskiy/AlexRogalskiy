@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [Microsoft’s M365 Copilot AI assistant gets third-party app integrations](https://www.computerworld.com/article/3696979/microsoft-s-m365-copilot-ai-assistant-gets-third-party-app-integrations.html#tk.rss_all)
+- [Growing enterprise revenue boosts Zoom’s first-quarter growth](https://www.computerworld.com/article/3697019/growing-enterprise-revenue-boosts-zoom-s-first-quarter-growth.html#tk.rss_all)
+- [Adobe brings Generative AI to Photoshop](https://www.computerworld.com/article/3696976/adobe-brings-generative-ai-to-photoshop.html#tk.rss_all)
+- [Microsoft 365 suffers another outage, its sixth this year](https://www.computerworld.com/article/3697132/microsoft-365-suffers-another-outage-its-sixth-this-year.html#tk.rss_all)
+- [Google killer, killed: Neeva and the limits of privacy as a philosophy](https://www.computerworld.com/article/3697309/google-killer-neeva-privacy.html#tk.rss_all)
+- [Ethics — what ethics? For Microsoft, it’s full speed ahead on AI](https://www.computerworld.com/article/3697014/ethics-what-ethics-for-microsoft-its-full-speed-ahead-on-ai.html#tk.rss_all)
 - [G7 leaders warn of AI dangers, say the time to act is now](https://www.computerworld.com/article/3697154/g7-leaders-warn-of-ai-dangers-say-the-time-to-act-is-now.html#tk.rss_all)
 - [Meta fined $1.3B for violating EU GDPR data transfer rules on privacy](https://www.csoonline.com/article/3697012/meta-fined-13b-for-violating-eu-gdpr-data-transfer-rules-on-privacy.html#tk.rss_all)
 - [Why Apple&#39;s iOS 16.6 upgrade will be talk of the town](https://www.computerworld.com/article/3697011/why-apples-ios-166-upgrade-will-be-talk-of-the-town.html#tk.rss_all)
-- [China bans chip maker Micron from key infrastructure projects](https://www.computerworld.com/article/3697010/china-bans-chip-maker-micron-from-key-infrastructure-projects.html#tk.rss_all)
-- [The fax is still king in healthcare — and it’s not going away anytime soon](https://www.computerworld.com/article/3697270/the-fax-is-still-king-in-healthcare-and-its-not-going-away-anytime-soon.html#tk.rss_all)
-- [BrandPost: Solving 3 key IT challenges to unlock business innovation](https://www.computerworld.com/article/3697150/solving-3-key-it-challenges-to-unlock-business-innovation.html#tk.rss_all)
-- [Apple bans employees from using ChatGPT. Should you?](https://www.computerworld.com/article/3697000/apple-bans-employees-from-using-chatgpt-should-you.html#tk.rss_all)
-- [UK announces $1.2B chip strategy, faces criticism over funding size](https://www.networkworld.com/article/3696936/uk-announces-12b-chip-strategy-faces-criticism-over-funding-size.html#tk.rss_all)
-- [Meta is working on its own chip, data center design for AI workloads](https://www.networkworld.com/article/3696935/meta-is-working-on-its-own-chip-data-center-design-for-ai-workloads.html#tk.rss_all)
-- [Three problems with generative AI have yet to be addressed](https://www.computerworld.com/article/3696999/three-problems-with-generative-ai-have-yet-to-be-addressed.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

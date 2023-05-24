@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: DB-GPT, an LLM tool for database](https://github.com/csunny/DB-GPT)
-- [Microsoft Hosts “Sample Nephrology Questions and Critiques” [pdf]](https://prodcmsstoragesa.blob.core.windows.net/uploads/files/Nephrology%20Critiques.pdf)
-- [Global Grand Challenges: Catalyzing Equitable Artificial Intelligence &lpar;AI&rpar; Use](https://gcgh.grandchallenges.org/challenge/catalyzing-equitable-artificial-intelligence-ai-use)
-- [The Hardest Logic Puzzle Ever](https://en.wikipedia.org/wiki/The_Hardest_Logic_Puzzle_Ever)
-- [Why do recipe writers lie and lie about how long it takes to caramelize onions?](https://slate.com/human-interest/2012/05/how-to-cook-onions-why-recipe-writers-lie-and-lie-about-how-long-they-take-to-caramelize.html)
-- [Which book has the most accurate prediction on AI so far?](https://news.ycombinator.com/item?id=36038790)
-- [The case for a code of conduct for AI in healthcare](https://newatlas.com/computers/case-code-of-conduct-ai-healthcare/)
-- [Awk One-Liners Explained](https://catonmat.net/awk-book)
-- [Unofficial DragGan open source code](https://github.com/Zeqiang-Lai/DragGAN)
-- [Nintype &lpar;from 2014&rpar; is still the best mobile keyboard](https://maxleiter.com/blog/nintype)
+- [Target removes some merchandise ahead of Pride month after threats to workers](https://apnews.com/article/target-pride-lgbtq-4bc9de6339f86748bcb8a453d7b9acf0)
+- [Microsoft’s Copilot and Bing AI plug-ins will be interoperable with ChatGPT](https://www.techinzane.com/2023/05/microsofts-copilot-and-bing-ai-plug-ins.html)
+- [Ask HN: Advice on how to stop being briefly addicted to hobbies?](https://news.ycombinator.com/item?id=36053300)
+- [Why You&#39;re Over-Thinking Your UI/UX [video] – Harvard I-Lab](https://www.youtube.com/watch?v=Is2O666qDPs)
+- [I&#39;m Confessing That I Love Doris Day](https://tedgioia.substack.com/p/im-confessing-that-i-love-doris-day)
+- [Crypt of Civilization](https://en.wikipedia.org/wiki/Crypt_of_Civilization)
+- [Chytrid is killing frogs worldwide. A testing breakthrough could help save them](https://theconversation.com/the-worlds-worst-animal-disease-is-killing-frogs-worldwide-a-testing-breakthrough-could-help-save-them-205872)
+- [Flipboard becomes first app to support Bluesky, Mastodon and Pixelfed](https://techcrunch.com/2023/05/23/flipboard-becomes-first-to-support-bluesky-mastodon-and-pixelfed-all-in-one-app/)
+- [The mind-body problem was discovered by a princess](https://erikhoel.substack.com/p/the-mind-body-problem-was-discovered)
+- [Game-changing obesity drugs go mainstream: what scientists are learning](https://www.nature.com/articles/d41586-023-01712-8)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

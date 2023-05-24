@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Seattle Amazon workers plan walkout over return to office, layoffs](https://www.seattletimes.com/business/seattle-amazon-workers-plan-walkout-over-return-to-office-layoffs/)
-- [SimCity 4, the greatest citybuilder of all time, was released 20 years ago](https://www.rockpapershotgun.com/simcity-4-the-greatest-citybuilder-of-all-time-was-released-20-years-ago)
-- [Generating Music Tracks with Unified Representation and Diffusion Framework](https://ai-muzic.github.io/getmusic/)
-- [RWKV: Reinventing RNNs for the Transformer Era](https://arxiv.org/abs/2305.13048)
-- [Why do recipe writers lie and lie about how long it takes to caramelize onions? &lpar;2012&rpar;](https://slate.com/human-interest/2012/05/how-to-cook-onions-why-recipe-writers-lie-and-lie-about-how-long-they-take-to-caramelize.html)
-- [Reddit comments and submissions from 2005-06 to 2022-12 collected by Pushshift](https://academictorrents.com/details/7c0645c94321311bb05bd879ddee4d0eba08aaee)
-- [MIT students give longtime professor standing ovation after last lecture](https://www.boston.com/news/local-news/2023/05/17/mit-professor-gilbert-strang-retiring-standing-ovation-video/)
-- [Is 20M of rows still a valid soft limit of MySQL table in 2023?](https://yishenggong.com/2023/05/22/is-20m-of-rows-still-a-valid-soft-limit-of-mysql-table-in-2023/)
-- [Show HN: Aimless.js – the missing js randomness library](https://github.com/ChrisCavs/aimless.js)
-- [Show HN: Blotter – An interactive, never ending music video](https://www.twitch.tv/blotterstream)
+- [Ask HN: Do average tech companies care about felony probation for SWE?](https://news.ycombinator.com/item?id=36053060)
+- [Amazon corporate workers plan walkout next week over return-to-office policies](https://www.cnn.com/2023/05/23/tech/amazon-walkout/index.html)
+- [Regent – 100% Electric Coastal Travel](https://www.regentcraft.com/)
+- [50 years in filesystems: towards 2004 – LFS](https://blog.koehntopp.info/2023/05/17/50-years-in-filesystems-towards-2004-lfs.html)
+- [New Nightmare, the Hammerhead Worm](https://www.texasmonthly.com/travel/meet-nightmare-hammerhead-worm/)
+- [Philip K. Dick&amp;#x27;s Substance Abuse and Psychosis](https://www.thecompanion.app/philip-k-dick-psychosis/)
+- [A blocky based CAD program](https://vkgames82.itch.io/block-cad)
+- [Aptible &lpar;YC S14&rpar; Is Hiring: Security Engineer and Head of Product](https://news.ycombinator.com/item?id=36050830)
+- [Instant flood fill with HTML Canvas](https://shaneosullivan.wordpress.com/2023/05/23/instant-colour-fill-with-html-canvas/)
+- [Update on Sharing](https://about.netflix.com/en/news/update-on-sharing-may-us)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

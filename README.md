@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Tom Brady set to become minority owner of Las Vegas Raiders](https://www.theguardian.com/sport/2023/may/22/tom-brady-las-vegas-raiders-minority-owner)
-- [Bird flu: H5N1 virus in Brazil wild birds prompts animal health emergency](https://www.theguardian.com/world/2023/may/23/bird-flu-h5n1-virus-in-brazil-wild-birds-prompts-animal-health-emergency)
-- [From pollution to policing – can Sadiq Khan clean up London? – podcast](https://www.theguardian.com/news/audio/2023/may/23/sadiq-khan-mayor-london-air-pollution-policing-housing-crisis-podcast)
-- [Biden and McCarthy hold debt talks to no avail as default deadline looms](https://www.theguardian.com/us-news/2023/may/22/biden-mccarthy-white-house-meeting-debt-ceiling)
-- [New Zealand’s ratio of sheep to humans at lowest point in 170 years](https://www.theguardian.com/world/2023/may/23/new-zealand-ratio-of-sheep-to-humans-lowest-point-170-years)
-- [Arrest over video of people entering east London home](https://www.theguardian.com/uk-news/2023/may/22/police-investigating-video-of-people-entering-east-london-home-uninvited)
-- [Anti-Putin militia claims to have overrun village in Russia border region of Belgorod](https://www.theguardian.com/world/2023/may/22/anti-kremlin-militia-freedom-of-russia-legion-overrun-russian-border-village-kozinka)
-- [E Jean Carroll files for new damages after Trump’s CNN town hall remarks](https://www.theguardian.com/us-news/2023/may/22/e-jean-carroll-donald-trump-cnn-town-hall-damages)
-- [Ray Stevenson – RRR, Thor and Star Wars actor – dies aged 58](https://www.theguardian.com/film/2023/may/23/ray-stevenson-rrr-thor-and-star-wars-actor-dies-aged-58)
-- [Russia-Ukraine war at a glance: what we know on day 454 of the invasion](https://www.theguardian.com/world/2023/may/23/russia-ukraine-war-at-a-glance-what-we-know-on-day-454-of-the-invasion)
+- [Is Suella Braverman speeding towards a government exit? – podcast](https://www.theguardian.com/news/audio/2023/may/24/is-suella-braverman-speeding-towards-government-exit)
+- [New Zealand’s National party admits using AI-generated people in attack ads](https://www.theguardian.com/world/2023/may/24/new-zealand-national-party-admits-using-ai-generated-people-in-ads)
+- [Woman dies after being hit by Duchess of Edinburgh police escort motorcycle](https://www.theguardian.com/uk-news/2023/may/24/woman-dies-after-being-hit-by-duchess-of-edinburgh-police-escort-motorcycle)
+- [South China Sea shipwrecks give clues about historic Silk Road trade routes](https://www.theguardian.com/science/2023/may/24/south-china-sea-shipwrecks-give-clues-about-historic-silk-road-trade-routes)
+- [‘We have offended a nation’: Miami zoo’s treatment of kiwi bird enrages New Zealand](https://www.theguardian.com/world/2023/may/24/we-have-offended-a-nation-miami-zoos-treatment-of-kiwi-bird-enrages-new-zealand)
+- [Moscow claims attack on Russian soil by Ukraine-aligned units ‘repelled’](https://www.theguardian.com/world/2023/may/23/belgorod-residents-told-not-to-return-to-homes-after-drone-strikes)
+- [Russia-Ukraine war at a glance: what we know on day 455 of the invasion](https://www.theguardian.com/world/2023/may/24/russia-ukraine-war-at-a-glance-what-we-know-on-day-455-of-the-invasion)
+- [Malaysia confiscates ‘LGBT’ rainbow Swatch watches](https://www.theguardian.com/world/2023/may/24/malaysia-confiscates-lgbt-rainbow-swatch-watches)
+- [Staff work in central London offices for 2.3 days a week, study finds](https://www.theguardian.com/business/2023/may/24/workers-central-london-offices-23-days-week-study)
+- [Major reforms to Welsh care system needed, finds Senedd committee](https://www.theguardian.com/society/2023/may/24/major-reforms-to-welsh-care-system-needed-finds-senedd-committee)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

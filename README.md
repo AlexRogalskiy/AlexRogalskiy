@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Is Suella Braverman speeding towards a government exit? – podcast](https://www.theguardian.com/news/audio/2023/may/24/is-suella-braverman-speeding-towards-government-exit)
-- [New Zealand’s National party admits using AI-generated people in attack ads](https://www.theguardian.com/world/2023/may/24/new-zealand-national-party-admits-using-ai-generated-people-in-ads)
-- [Woman dies after being hit by Duchess of Edinburgh police escort motorcycle](https://www.theguardian.com/uk-news/2023/may/24/woman-dies-after-being-hit-by-duchess-of-edinburgh-police-escort-motorcycle)
-- [South China Sea shipwrecks give clues about historic Silk Road trade routes](https://www.theguardian.com/science/2023/may/24/south-china-sea-shipwrecks-give-clues-about-historic-silk-road-trade-routes)
-- [‘We have offended a nation’: Miami zoo’s treatment of kiwi bird enrages New Zealand](https://www.theguardian.com/world/2023/may/24/we-have-offended-a-nation-miami-zoos-treatment-of-kiwi-bird-enrages-new-zealand)
-- [Moscow claims attack on Russian soil by Ukraine-aligned units ‘repelled’](https://www.theguardian.com/world/2023/may/23/belgorod-residents-told-not-to-return-to-homes-after-drone-strikes)
-- [Russia-Ukraine war at a glance: what we know on day 455 of the invasion](https://www.theguardian.com/world/2023/may/24/russia-ukraine-war-at-a-glance-what-we-know-on-day-455-of-the-invasion)
-- [Malaysia confiscates ‘LGBT’ rainbow Swatch watches](https://www.theguardian.com/world/2023/may/24/malaysia-confiscates-lgbt-rainbow-swatch-watches)
-- [Staff work in central London offices for 2.3 days a week, study finds](https://www.theguardian.com/business/2023/may/24/workers-central-london-offices-23-days-week-study)
-- [Major reforms to Welsh care system needed, finds Senedd committee](https://www.theguardian.com/society/2023/may/24/major-reforms-to-welsh-care-system-needed-finds-senedd-committee)
+- [Tina Turner and rugby league: an enduring partnership that changed the face of the game | Nick Tedeschi](https://www.theguardian.com/sport/blog/2023/may/25/tina-turner-simply-the-best-song-rugby-league-ad-campaign-nrl-commercial)
+- [How a killing on New York subway exposed a broken system – podcast](https://www.theguardian.com/news/audio/2023/may/25/killing-jordan-neeley-new-york-subway-exposed-broken-system-podcast)
+- [Outages, garbled audio: DeSantis’s 2024 launch marred by Twitter tech meltdown](https://www.theguardian.com/us-news/2023/may/24/ron-desantis-2024-twitter-launch-tech-outage)
+- [The parting gift from my dying friend was an extraordinary act of selfless compassion | Paul Daley](https://www.theguardian.com/commentisfree/2023/may/25/the-parting-gift-from-my-dying-friend-was-an-extraordinary-act-of-selfless-compassion)
+- [Tina Turner obituary](https://www.theguardian.com/music/2023/may/24/tina-turner-obituary)
+- [Tom Petty’s family accuses auction house of stealing his clothes](https://www.theguardian.com/music/2023/may/25/tom-petty-family-accuses-auction-house-of-stealing-his-clothes)
+- [Russia-Ukraine war at a glance: what we know on day 456 of the invasion](https://www.theguardian.com/world/2023/may/25/russia-ukraine-war-at-a-glance-what-we-know-on-day-456-of-the-invasion)
+- [Italy floods aftermath – in pictures](https://www.theguardian.com/world/gallery/2023/may/25/italy-floods-aftermath-in-pictures)
+- [Half of British female gamers experience abuse when playing online](https://www.theguardian.com/games/2023/may/25/half-of-british-female-gamers-experience-abuse-when-playing-online)
+- [Microsoft says China-backed hackers targeting critical infrastructure in US and Guam](https://www.theguardian.com/us-news/2023/may/24/microsoft-china-hacker-critical-infrastructure-us-guam)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

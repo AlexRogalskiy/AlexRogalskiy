@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Ask HN: Do average tech companies care about felony probation for SWE?](https://news.ycombinator.com/item?id=36053060)
-- [Amazon corporate workers plan walkout next week over return-to-office policies](https://www.cnn.com/2023/05/23/tech/amazon-walkout/index.html)
-- [Regent – 100% Electric Coastal Travel](https://www.regentcraft.com/)
-- [50 years in filesystems: towards 2004 – LFS](https://blog.koehntopp.info/2023/05/17/50-years-in-filesystems-towards-2004-lfs.html)
-- [New Nightmare, the Hammerhead Worm](https://www.texasmonthly.com/travel/meet-nightmare-hammerhead-worm/)
-- [Philip K. Dick&amp;#x27;s Substance Abuse and Psychosis](https://www.thecompanion.app/philip-k-dick-psychosis/)
-- [A blocky based CAD program](https://vkgames82.itch.io/block-cad)
-- [Aptible &lpar;YC S14&rpar; Is Hiring: Security Engineer and Head of Product](https://news.ycombinator.com/item?id=36050830)
-- [Instant flood fill with HTML Canvas](https://shaneosullivan.wordpress.com/2023/05/23/instant-colour-fill-with-html-canvas/)
-- [Update on Sharing](https://about.netflix.com/en/news/update-on-sharing-may-us)
+- [Chinese Businesses Fueling the Fentanyl Epidemic Receive Millions in Crypto](https://www.elliptic.co/blog/chinese-businesses-fueling-the-fentanyl-epidemic-receive-millions-in-cryptocurrency-payments)
+- [Ze Frank True Facts: The Smartest Slime](https://www.youtube.com/watch?v=k_GTIL7AECQ)
+- [The tiny corp raised $5.1M](https://geohot.github.io//blog/jekyll/update/2023/05/24/the-tiny-corp-raised-5M.html)
+- [SectorC: A C Compiler in 512 bytes](https://xorvoid.com/sectorc.html)
+- [Minix development has been abandoned?](https://git.minix3.org/index.cgi?p=minix.git;a=summary)
+- [QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314)
+- [UCLA Computer Grad Constructs “Crown Jewel of Cryptography”](https://www.acm.org/media-center/2023/may/dissertation-award-2022)
+- [Make your own VPN with Fly.io, tailscale and GitHub](https://github.com/patte/fly-tailscale-exit)
+- [The Brand New Thunderbird Logo](https://blog.thunderbird.net/2023/05/introducing-the-brand-new-thunderbird-logo/)
+- [Show HN: Mount Unix system into Common Lisp image](https://github.com/PuellaeMagicae/unix-in-lisp)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

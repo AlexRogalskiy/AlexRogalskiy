@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Target removes some merchandise ahead of Pride month after threats to workers](https://apnews.com/article/target-pride-lgbtq-4bc9de6339f86748bcb8a453d7b9acf0)
-- [Microsoft’s Copilot and Bing AI plug-ins will be interoperable with ChatGPT](https://www.techinzane.com/2023/05/microsofts-copilot-and-bing-ai-plug-ins.html)
-- [Ask HN: Advice on how to stop being briefly addicted to hobbies?](https://news.ycombinator.com/item?id=36053300)
-- [Why You&#39;re Over-Thinking Your UI/UX [video] – Harvard I-Lab](https://www.youtube.com/watch?v=Is2O666qDPs)
-- [I&#39;m Confessing That I Love Doris Day](https://tedgioia.substack.com/p/im-confessing-that-i-love-doris-day)
-- [Crypt of Civilization](https://en.wikipedia.org/wiki/Crypt_of_Civilization)
-- [Chytrid is killing frogs worldwide. A testing breakthrough could help save them](https://theconversation.com/the-worlds-worst-animal-disease-is-killing-frogs-worldwide-a-testing-breakthrough-could-help-save-them-205872)
-- [Flipboard becomes first app to support Bluesky, Mastodon and Pixelfed](https://techcrunch.com/2023/05/23/flipboard-becomes-first-to-support-bluesky-mastodon-and-pixelfed-all-in-one-app/)
-- [The mind-body problem was discovered by a princess](https://erikhoel.substack.com/p/the-mind-body-problem-was-discovered)
-- [Game-changing obesity drugs go mainstream: what scientists are learning](https://www.nature.com/articles/d41586-023-01712-8)
+- [The Indelible Hulk](https://www.historytoday.com/archive/history-matters/indelible-hulk)
+- [Polyrhythms and Rainfall = Super Chill &lpar;Hyperplexed&rpar;](https://www.youtube.com/watch?v=gvGfgCcfAEg)
+- [More hindsight on Vim, helix and kakoune](https://phaazon.net/blog/more-hindsight-vim-helix-kakoune)
+- [U/theairwavearchitect explains why Congress is forcing AM radio in cars](https://old.reddit.com/r/technology/comments/13ps1po/congress_wants_am_radio_in_all_new_carstrade/)
+- [Downtown LA Office Vacancy Sets Record, Causes Distress](https://www.bloomberg.com/graphics/2023-downtown-la-office-vacancy-sets-record-causes-distress/)
+- [Extinct offshore volcano could store gigatons of carbon dioxide](https://phys.org/news/2023-05-extinct-offshore-volcano-gigatons-carbon.html)
+- [Floating-point arithmetic – Acta Numerica &lpar;2023&rpar;](https://www.cambridge.org/core/journals/acta-numerica/article/floatingpoint-arithmetic/287C4D5F6D4A43FBEEB1ABED2A405AAF)
+- [Deploying AVIF for more responsive websites](https://web.dev/avif-updates-2023/)
+- [Jobot.com is a scam, change my mind](https://old.reddit.com/r/recruitinghell/comments/13qvc0a/jobotcom_is_a_scam/)
+- [The History of Newgrounds](https://www.newgrounds.com/wiki/about-newgrounds/history)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

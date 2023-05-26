@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Tina Turner and rugby league: an enduring partnership that changed the face of the game | Nick Tedeschi](https://www.theguardian.com/sport/blog/2023/may/25/tina-turner-simply-the-best-song-rugby-league-ad-campaign-nrl-commercial)
-- [How a killing on New York subway exposed a broken system – podcast](https://www.theguardian.com/news/audio/2023/may/25/killing-jordan-neeley-new-york-subway-exposed-broken-system-podcast)
-- [Outages, garbled audio: DeSantis’s 2024 launch marred by Twitter tech meltdown](https://www.theguardian.com/us-news/2023/may/24/ron-desantis-2024-twitter-launch-tech-outage)
-- [The parting gift from my dying friend was an extraordinary act of selfless compassion | Paul Daley](https://www.theguardian.com/commentisfree/2023/may/25/the-parting-gift-from-my-dying-friend-was-an-extraordinary-act-of-selfless-compassion)
-- [Tina Turner obituary](https://www.theguardian.com/music/2023/may/24/tina-turner-obituary)
-- [Tom Petty’s family accuses auction house of stealing his clothes](https://www.theguardian.com/music/2023/may/25/tom-petty-family-accuses-auction-house-of-stealing-his-clothes)
-- [Russia-Ukraine war at a glance: what we know on day 456 of the invasion](https://www.theguardian.com/world/2023/may/25/russia-ukraine-war-at-a-glance-what-we-know-on-day-456-of-the-invasion)
-- [Italy floods aftermath – in pictures](https://www.theguardian.com/world/gallery/2023/may/25/italy-floods-aftermath-in-pictures)
-- [Half of British female gamers experience abuse when playing online](https://www.theguardian.com/games/2023/may/25/half-of-british-female-gamers-experience-abuse-when-playing-online)
-- [Microsoft says China-backed hackers targeting critical infrastructure in US and Guam](https://www.theguardian.com/us-news/2023/may/24/microsoft-china-hacker-critical-infrastructure-us-guam)
+- [Conspiracy theories and chaos: a week watching GB News](https://www.theguardian.com/media/audio/2023/may/26/conspiracy-theories-chaos-a-week-watching-gb-news-podcast)
+- [Texas panel recommends impeaching state attorney general Ken Paxton](https://www.theguardian.com/us-news/2023/may/25/ken-paxton-allegations-texas-committee-attorney-general)
+- [Debt ceiling deal within sight as Biden and Republicans continue to negotiate](https://www.theguardian.com/us-news/2023/may/25/us-debt-ceiling-deal-house-memorial-day-weekend)
+- [North Korea slams ‘sinister’ South and allies as live-fire exercises with US begin](https://www.theguardian.com/world/2023/may/26/north-korea-slams-sinister-south-and-allies-as-live-fire-exercises-with-us-begin)
+- [Japan: suspect detained after four killed in shooting and stabbing attack in Nagano](https://www.theguardian.com/world/2023/may/25/japan-nagano-people-killed-shooting-knife-attack)
+- [Typhoon Mawar tears through Guam, leaving most of island without power](https://www.theguardian.com/world/2023/may/26/typhoon-mawar-tears-through-guam-leaving-most-of-island-without-power)
+- [Russia-Ukraine war at a glance: what we know on day 457 of the invasion](https://www.theguardian.com/world/2023/may/26/russia-ukraine-war-at-a-glance-what-we-know-on-day-457-of-the-invasion)
+- [Premier League: 10 things to look out for on the final day of the season](https://www.theguardian.com/football/blog/2023/may/26/premier-league-10-things-to-look-out-for-on-the-final-day-of-the-season)
+- [Politics should be taught in primary schools, Alastair Campbell says](https://www.theguardian.com/politics/2023/may/25/politics-should-be-taught-in-primary-schools-alastair-campbell-says)
+- [GPs could be offered bonuses to increase patient numbers in clinical trials](https://www.theguardian.com/science/2023/may/25/uk-life-sciences-plan-aims-to-quadruple-commercial-clinical-drug-trial-participation)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

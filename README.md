@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Chinese Businesses Fueling the Fentanyl Epidemic Receive Millions in Crypto](https://www.elliptic.co/blog/chinese-businesses-fueling-the-fentanyl-epidemic-receive-millions-in-cryptocurrency-payments)
-- [Ze Frank True Facts: The Smartest Slime](https://www.youtube.com/watch?v=k_GTIL7AECQ)
-- [The tiny corp raised $5.1M](https://geohot.github.io//blog/jekyll/update/2023/05/24/the-tiny-corp-raised-5M.html)
-- [SectorC: A C Compiler in 512 bytes](https://xorvoid.com/sectorc.html)
-- [Minix development has been abandoned?](https://git.minix3.org/index.cgi?p=minix.git;a=summary)
-- [QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314)
-- [UCLA Computer Grad Constructs “Crown Jewel of Cryptography”](https://www.acm.org/media-center/2023/may/dissertation-award-2022)
-- [Make your own VPN with Fly.io, tailscale and GitHub](https://github.com/patte/fly-tailscale-exit)
-- [The Brand New Thunderbird Logo](https://blog.thunderbird.net/2023/05/introducing-the-brand-new-thunderbird-logo/)
-- [Show HN: Mount Unix system into Common Lisp image](https://github.com/PuellaeMagicae/unix-in-lisp)
+- [Greater Idaho measure clinches Wallowa County win](https://www.greateridaho.org/greater-idaho-measure-clinches-wallowa-county-win/)
+- [The False Promise of Imitating Proprietary LLMs](https://arxiv.org/abs/2305.15717)
+- [HTMx](https://htmx.org/)
+- [Firefox displayed a pop-up ad for Mozilla VPN over an unrelated page](https://bugzilla.mozilla.org/show_bug.cgi?id=1835158)
+- [DARPA’s silent MHD magnetic drives for replacing naval propellers](https://www.naval-technology.com/features/darpa-silent-mhd-magnetic-drives-for-replacing-naval-propellers/)
+- [JobRunr: A library for background processing in Java](https://www.jobrunr.io/en/)
+- [Neanderthal Flute](https://www.nms.si:443/en/collections/highlights/343-Neanderthal-flute)
+- [Chatbot Arena Leaderboard](https://lmsys.org/blog/2023-05-25-leaderboard/)
+- [Whistleblower drops 100 GB of Tesla secrets to German news site](https://jalopnik.com/whistleblower-drops-100-gigabytes-of-tesla-secrets-to-g-1850476542)
+- [Colorado repealed law limiting municipal internet](https://coloradosun.com/2023/05/24/municipal-internet-sb-152-repealed-colorado/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

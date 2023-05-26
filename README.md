@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [What we &lpar;think&rpar; we know about the Apple Reality headset](https://www.computerworld.com/article/3697750/what-we-think-we-know-about-the-apple-reality-headset.html#tk.rss_all)
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [How to enable Google&#39;s clever new Chrome Reading Mode right now](https://www.computerworld.com/article/3697312/google-chrome-reading-mode.html#tk.rss_all)
 - [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
 - [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
 - [Addigy promises a fix for Apple devices stuck on OSUpdateScan](https://www.computerworld.com/article/3697314/addigy-promises-a-fix-for-apple-devices-stuck-on-osupdatescan.html#tk.rss_all)
 - [Microsoft advances mixed-reality plans with Teams avatars, Mesh update](https://www.computerworld.com/article/3697316/microsoft-advances-mixed-reality-plans-with-teams-avatars-mesh-update.html#tk.rss_all)
 - [After China&#39;s Micron ban, US lawmakers urge sanctions on chips from CXMT](https://www.networkworld.com/article/3697315/after-chinas-micron-ban-us-lawmakers-urge-sanctions-on-chips-from-cxmt.html#tk.rss_all)
 - [OneNote vs. Evernote: A personal take on two great note-taking apps](https://www.computerworld.com/article/2488890/onenote-vs-evernote-note-taking-apps.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [Microsoft’s M365 Copilot AI assistant gets third-party app integrations](https://www.computerworld.com/article/3696979/microsoft-s-m365-copilot-ai-assistant-gets-third-party-app-integrations.html#tk.rss_all)
-- [Growing enterprise revenue boosts Zoom’s first-quarter growth](https://www.computerworld.com/article/3697019/growing-enterprise-revenue-boosts-zoom-s-first-quarter-growth.html#tk.rss_all)
-- [Adobe brings Generative AI to Photoshop](https://www.computerworld.com/article/3696976/adobe-brings-generative-ai-to-photoshop.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

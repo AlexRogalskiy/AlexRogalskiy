@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Indelible Hulk](https://www.historytoday.com/archive/history-matters/indelible-hulk)
-- [Polyrhythms and Rainfall = Super Chill &lpar;Hyperplexed&rpar;](https://www.youtube.com/watch?v=gvGfgCcfAEg)
-- [More hindsight on Vim, helix and kakoune](https://phaazon.net/blog/more-hindsight-vim-helix-kakoune)
-- [U/theairwavearchitect explains why Congress is forcing AM radio in cars](https://old.reddit.com/r/technology/comments/13ps1po/congress_wants_am_radio_in_all_new_carstrade/)
-- [Downtown LA Office Vacancy Sets Record, Causes Distress](https://www.bloomberg.com/graphics/2023-downtown-la-office-vacancy-sets-record-causes-distress/)
-- [Extinct offshore volcano could store gigatons of carbon dioxide](https://phys.org/news/2023-05-extinct-offshore-volcano-gigatons-carbon.html)
-- [Floating-point arithmetic – Acta Numerica &lpar;2023&rpar;](https://www.cambridge.org/core/journals/acta-numerica/article/floatingpoint-arithmetic/287C4D5F6D4A43FBEEB1ABED2A405AAF)
-- [Deploying AVIF for more responsive websites](https://web.dev/avif-updates-2023/)
-- [Jobot.com is a scam, change my mind](https://old.reddit.com/r/recruitinghell/comments/13qvc0a/jobotcom_is_a_scam/)
-- [The History of Newgrounds](https://www.newgrounds.com/wiki/about-newgrounds/history)
+- [The Supreme Court Made Just About Everyone Happy for Once](https://www.motherjones.com/politics/2023/05/tyler-v-hennepin-supreme-court-roberts-jackson-gorsuch/)
+- [Now We Have to Worry About Neo-Nazi Jihadist Satanists Infiltrating the Miltary?](https://www.esquire.com/news-politics/politics/a43253018/ethan-melzer-sentenced-order-of-nine-angles/)
+- [UX disaster in Mastodon: an innocent weapon of mass destruction](https://vowe.net/2023/05/24/ux-disaster-in-mastodon-an-innocent-weapon-of-mass-destruction/)
+- [Show HN: Stable Diffusion Reimagine XL](https://clipdrop.co/stable-diffusion-reimagine)
+- [Six Flags Adding Amazon&#39;s &#39;Just Walk Out&#39; Technology](https://njbiz.com/six-flags-great-adventure-adding-amazons-just-walk-out-technology/)
+- [Tipping Prompts Are Suddenly Everywhere](https://www.wsj.com/articles/why-tipping-prompts-are-suddenly-everywhere-1c8bbd20)
+- [In Praise of Idleness](https://harpers.org/archive/1932/10/in-praise-of-idleness/)
+- [More than 5k new species discovered in Pacific deep-sea mining hotspot](https://www.theguardian.com/environment/2023/may/25/more-than-5000-new-species-discovered-in-pacific-deep-sea-mining-hotspot)
+- [Anti-party crackdown for summer holidays](https://news.airbnb.com/anti-party-crackdown-for-summer-holidays/)
+- [Ancient toilets in Jerusalem reveal a debilitating and sometimes fatal disease](https://www.cnn.com/2023/05/25/middleeast/ancient-toilets-disease-scn/index.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

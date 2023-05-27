@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Greater Idaho measure clinches Wallowa County win](https://www.greateridaho.org/greater-idaho-measure-clinches-wallowa-county-win/)
-- [The False Promise of Imitating Proprietary LLMs](https://arxiv.org/abs/2305.15717)
-- [HTMx](https://htmx.org/)
-- [Firefox displayed a pop-up ad for Mozilla VPN over an unrelated page](https://bugzilla.mozilla.org/show_bug.cgi?id=1835158)
-- [DARPA’s silent MHD magnetic drives for replacing naval propellers](https://www.naval-technology.com/features/darpa-silent-mhd-magnetic-drives-for-replacing-naval-propellers/)
-- [JobRunr: A library for background processing in Java](https://www.jobrunr.io/en/)
-- [Neanderthal Flute](https://www.nms.si:443/en/collections/highlights/343-Neanderthal-flute)
-- [Chatbot Arena Leaderboard](https://lmsys.org/blog/2023-05-25-leaderboard/)
-- [Whistleblower drops 100 GB of Tesla secrets to German news site](https://jalopnik.com/whistleblower-drops-100-gigabytes-of-tesla-secrets-to-g-1850476542)
-- [Colorado repealed law limiting municipal internet](https://coloradosun.com/2023/05/24/municipal-internet-sb-152-repealed-colorado/)
+- [You can now share your ChatGPT conversations publicly](https://chat.openai.com/share/66169853-d00a-4b05-abce-8f82c6d8c868)
+- [San Francisco’s Financial Crisis](https://californiapolicycenter.org/san-franciscos-financial-crisis/)
+- [I Am No Longer Speaking at RustConf 2023](https://thephd.dev/i-am-no-longer-speaking-at-rustconf-2023)
+- [Large Language Models Are Few-Shot Health Learners](https://arxiv.org/abs/2305.15525)
+- [Dolphin on Steam Indefinitely Postponed Due to Nintendo DMCA](https://dolphin-emu.org/blog/2023/05/27/dolphin-steam-indefinitely-postponed/)
+- [Raspberry Pi&amp;#x2F;PlatformIO conflict blocks support for Pico-Arduino toolchain](https://github.com/platformio/platform-raspberrypi/pull/36)
+- [418 I&amp;#x27;m a teapot](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418)
+- [Fontemon: Video Game in a Font](https://www.coderelay.io/fontemon.html)
+- [Cloud, Why So Difficult?](https://www.winglang.io/post/cloud-why-so-difficult)
+- [What Neeva&amp;#x27;s quiet exit tells us about the future of AI startups](https://www.supervised.news/p/what-neevas-quiet-exit-tells-us-about)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

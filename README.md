@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Conspiracy theories and chaos: a week watching GB News](https://www.theguardian.com/media/audio/2023/may/26/conspiracy-theories-chaos-a-week-watching-gb-news-podcast)
-- [Texas panel recommends impeaching state attorney general Ken Paxton](https://www.theguardian.com/us-news/2023/may/25/ken-paxton-allegations-texas-committee-attorney-general)
-- [Debt ceiling deal within sight as Biden and Republicans continue to negotiate](https://www.theguardian.com/us-news/2023/may/25/us-debt-ceiling-deal-house-memorial-day-weekend)
-- [North Korea slams ‘sinister’ South and allies as live-fire exercises with US begin](https://www.theguardian.com/world/2023/may/26/north-korea-slams-sinister-south-and-allies-as-live-fire-exercises-with-us-begin)
-- [Japan: suspect detained after four killed in shooting and stabbing attack in Nagano](https://www.theguardian.com/world/2023/may/25/japan-nagano-people-killed-shooting-knife-attack)
-- [Typhoon Mawar tears through Guam, leaving most of island without power](https://www.theguardian.com/world/2023/may/26/typhoon-mawar-tears-through-guam-leaving-most-of-island-without-power)
-- [Russia-Ukraine war at a glance: what we know on day 457 of the invasion](https://www.theguardian.com/world/2023/may/26/russia-ukraine-war-at-a-glance-what-we-know-on-day-457-of-the-invasion)
-- [Premier League: 10 things to look out for on the final day of the season](https://www.theguardian.com/football/blog/2023/may/26/premier-league-10-things-to-look-out-for-on-the-final-day-of-the-season)
-- [Politics should be taught in primary schools, Alastair Campbell says](https://www.theguardian.com/politics/2023/may/25/politics-should-be-taught-in-primary-schools-alastair-campbell-says)
-- [GPs could be offered bonuses to increase patient numbers in clinical trials](https://www.theguardian.com/science/2023/may/25/uk-life-sciences-plan-aims-to-quadruple-commercial-clinical-drug-trial-participation)
+- [A spying scandal and lots of coffee: how Guardian Australia launched 10 years ago | podcast](https://www.theguardian.com/news/audio/2023/may/27/10-years-of-guardian-australia-podcast)
+- [Biden ‘optimistic’ of debt ceiling deal as Yellen extends deadline to 5 June](https://www.theguardian.com/us-news/2023/may/26/us-debt-ceiling-talks-deal-memorial-day)
+- [Sudan army calls on former soldiers to re-enlist as fighting persists through ceasefire](https://www.theguardian.com/world/2023/may/27/sudan-army-calls-on-former-soldiers-to-re-enlist-as-fighting-persists-through-ceasefire)
+- [Russia-Ukraine war at a glance: what we know on day 458 of the invasion](https://www.theguardian.com/world/2023/may/27/russia-ukraine-war-at-a-glance-what-we-know-on-day-458-of-the-invasion)
+- [Boris Johnson tried to persuade Donald Trump to back Ukraine on US tour](https://www.theguardian.com/politics/2023/may/26/boris-johnson-meeting-donald-trump-ukraine-us-tour)
+- [Report: ‘massive’ Tesla leak reveals data breaches, thousands of safety complaints](https://www.theguardian.com/technology/2023/may/26/tesla-data-leak-customers-employees-safety-complaints)
+- [What happened in the Russia-Ukraine war this week? Catch up with the must-read news and analysis](https://www.theguardian.com/world/2023/may/27/what-happened-in-the-russia-ukraine-war-this-week-catch-up-with-the-must-read-news-and-analysis)
+- [From thieving parrots to boozy pigeons: why New Zealand is obsessed with its native birds](https://www.theguardian.com/world/2023/may/26/from-thieving-parrots-to-boozy-pigeons-why-new-zealand-is-obsessed-with-its-native-birds)
+- [Saracens have greater experience but do not underestimate Sale’s power of purpose | Ugo Monye](https://www.theguardian.com/sport/2023/may/26/saracens-have-greater-experience-but-do-not-underestimate-sales-power-of-purpose)
+- [Jah Shaka obituary](https://www.theguardian.com/music/2023/may/26/jah-shaka-obituary)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

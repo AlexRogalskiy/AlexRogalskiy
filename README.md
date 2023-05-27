@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Supreme Court Made Just About Everyone Happy for Once](https://www.motherjones.com/politics/2023/05/tyler-v-hennepin-supreme-court-roberts-jackson-gorsuch/)
-- [Now We Have to Worry About Neo-Nazi Jihadist Satanists Infiltrating the Miltary?](https://www.esquire.com/news-politics/politics/a43253018/ethan-melzer-sentenced-order-of-nine-angles/)
-- [UX disaster in Mastodon: an innocent weapon of mass destruction](https://vowe.net/2023/05/24/ux-disaster-in-mastodon-an-innocent-weapon-of-mass-destruction/)
-- [Show HN: Stable Diffusion Reimagine XL](https://clipdrop.co/stable-diffusion-reimagine)
-- [Six Flags Adding Amazon&#39;s &#39;Just Walk Out&#39; Technology](https://njbiz.com/six-flags-great-adventure-adding-amazons-just-walk-out-technology/)
-- [Tipping Prompts Are Suddenly Everywhere](https://www.wsj.com/articles/why-tipping-prompts-are-suddenly-everywhere-1c8bbd20)
-- [In Praise of Idleness](https://harpers.org/archive/1932/10/in-praise-of-idleness/)
-- [More than 5k new species discovered in Pacific deep-sea mining hotspot](https://www.theguardian.com/environment/2023/may/25/more-than-5000-new-species-discovered-in-pacific-deep-sea-mining-hotspot)
-- [Anti-party crackdown for summer holidays](https://news.airbnb.com/anti-party-crackdown-for-summer-holidays/)
-- [Ancient toilets in Jerusalem reveal a debilitating and sometimes fatal disease](https://www.cnn.com/2023/05/25/middleeast/ancient-toilets-disease-scn/index.html)
+- [Understanding Floating Point Numbers](https://dennisforbes.ca/articles/understanding-floating-point-numbers.html#)
+- [You can now share your ChatGPT conversations publicly](https://chat.openai.com/share/66169853-d00a-4b05-abce-8f82c6d8c868)
+- [First well-designed “Smart Gun” that uses biometrics to authenticate](https://www.youtube.com/watch?v=2cRm9BMxl90)
+- [How does ChatGPT write limericks?](https://news.ycombinator.com/item?id=36091352)
+- [Spellcraft/UI: Use AI to style HTML elements from natural language descriptions](https://github.com/SpellcraftAI/ui)
+- [Voxel builder tool in React based on Glmatrix library](https://fatih-erikli.github.io/voxel/)
+- [San Francisco’s Financial Crisis](https://californiapolicycenter.org/san-franciscos-financial-crisis/)
+- [CGOL – an Alternative External Representation For Lisp users &lpar;1976&rpar; [pdf]](https://dspace.mit.edu/bitstream/handle/1721.1/41951/AI_WP_121.pdf)
+- [What Physics Teachers Get Wrong About Tides &lpar;2015&rpar; [video]](https://www.youtube.com/watch?v=pwChk4S99i4)
+- [Picasso, by way of Fourier](https://vanhunteradams.com/Math/Fourier_drawing/Fourier_Drawing.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

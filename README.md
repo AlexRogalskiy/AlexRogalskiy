@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [A spying scandal and lots of coffee: how Guardian Australia launched 10 years ago | podcast](https://www.theguardian.com/news/audio/2023/may/27/10-years-of-guardian-australia-podcast)
-- [Biden ‘optimistic’ of debt ceiling deal as Yellen extends deadline to 5 June](https://www.theguardian.com/us-news/2023/may/26/us-debt-ceiling-talks-deal-memorial-day)
-- [Sudan army calls on former soldiers to re-enlist as fighting persists through ceasefire](https://www.theguardian.com/world/2023/may/27/sudan-army-calls-on-former-soldiers-to-re-enlist-as-fighting-persists-through-ceasefire)
-- [Russia-Ukraine war at a glance: what we know on day 458 of the invasion](https://www.theguardian.com/world/2023/may/27/russia-ukraine-war-at-a-glance-what-we-know-on-day-458-of-the-invasion)
-- [Boris Johnson tried to persuade Donald Trump to back Ukraine on US tour](https://www.theguardian.com/politics/2023/may/26/boris-johnson-meeting-donald-trump-ukraine-us-tour)
-- [Report: ‘massive’ Tesla leak reveals data breaches, thousands of safety complaints](https://www.theguardian.com/technology/2023/may/26/tesla-data-leak-customers-employees-safety-complaints)
-- [What happened in the Russia-Ukraine war this week? Catch up with the must-read news and analysis](https://www.theguardian.com/world/2023/may/27/what-happened-in-the-russia-ukraine-war-this-week-catch-up-with-the-must-read-news-and-analysis)
-- [From thieving parrots to boozy pigeons: why New Zealand is obsessed with its native birds](https://www.theguardian.com/world/2023/may/26/from-thieving-parrots-to-boozy-pigeons-why-new-zealand-is-obsessed-with-its-native-birds)
-- [Saracens have greater experience but do not underestimate Sale’s power of purpose | Ugo Monye](https://www.theguardian.com/sport/2023/may/26/saracens-have-greater-experience-but-do-not-underestimate-sales-power-of-purpose)
-- [Jah Shaka obituary](https://www.theguardian.com/music/2023/may/26/jah-shaka-obituary)
+- [Biden and McCarthy reach ‘in principle’ deal to raise debt ceiling days before US default](https://www.theguardian.com/us-news/2023/may/28/biden-debt-ceiling-deal-mccarthy)
+- [Russia-Ukraine war at a glance: what we know on day 459 of the invasion](https://www.theguardian.com/world/2023/may/28/russia-ukraine-war-at-a-glance-what-we-know-on-day-459-of-the-invasion)
+- [Texas attorney general impeached by Republican-led House in historic vote](https://www.theguardian.com/us-news/2023/may/28/texas-attorney-general-impeached-by-republican-led-house-in-historic-vote)
+- [Rail strikes: Hopes of a resolution have been indefinitely delayed](https://www.theguardian.com/business/2023/may/28/rail-strikes-hopes-of-a-resolution-have-been-indefinitely-delayed)
+- [Shop talk: Britain’s 20 best independent boutiques](https://www.theguardian.com/fashion/2023/may/28/shop-talk-britains-20-best-independent-boutiques)
+- [Billam-Smith proves point in front of home fans to take Okolie’s title](https://www.theguardian.com/sport/2023/may/27/chris-billam-smith-lawrence-okolie-boxing-wbo-cruiserweight-title-bournemouth)
+- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2023/may/27/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Seven men charged with attempted murder of DCI John Caldwell](https://www.theguardian.com/uk-news/2023/may/27/seven-men-charged-with-attempted-of-dci-john-caldwell)
+- [ITV News journalist Emily Morgan dies, aged 45](https://www.theguardian.com/media/2023/may/27/itv-news-journalist-emily-morgan-dies-aged-45)
+- [More than 1,500 arrested at Extinction Rebellion protest in The Hague](https://www.theguardian.com/world/2023/may/27/more-than-1500-arrested-at-extinction-rebellion-protest-in-the-hague)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

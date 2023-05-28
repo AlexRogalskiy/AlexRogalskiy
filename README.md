@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [You can now share your ChatGPT conversations publicly](https://chat.openai.com/share/66169853-d00a-4b05-abce-8f82c6d8c868)
-- [San Francisco’s Financial Crisis](https://californiapolicycenter.org/san-franciscos-financial-crisis/)
-- [I Am No Longer Speaking at RustConf 2023](https://thephd.dev/i-am-no-longer-speaking-at-rustconf-2023)
-- [Large Language Models Are Few-Shot Health Learners](https://arxiv.org/abs/2305.15525)
-- [Dolphin on Steam Indefinitely Postponed Due to Nintendo DMCA](https://dolphin-emu.org/blog/2023/05/27/dolphin-steam-indefinitely-postponed/)
-- [Raspberry Pi&amp;#x2F;PlatformIO conflict blocks support for Pico-Arduino toolchain](https://github.com/platformio/platform-raspberrypi/pull/36)
-- [418 I&amp;#x27;m a teapot](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418)
-- [Fontemon: Video Game in a Font](https://www.coderelay.io/fontemon.html)
-- [Cloud, Why So Difficult?](https://www.winglang.io/post/cloud-why-so-difficult)
-- [What Neeva&amp;#x27;s quiet exit tells us about the future of AI startups](https://www.supervised.news/p/what-neevas-quiet-exit-tells-us-about)
+- [Could America’s Adderall shortage have harmed its productivity?](https://www.economist.com/finance-and-economics/2023/05/25/what-performance-enhancing-stimulants-mean-for-economic-growth)
+- [Show HN: No more copy-pasting – a ChatGPT plugin to read code from your computer](https://github.com/kesor/chatgpt-code-plugin)
+- [The Relay That Changed the Power Industry](https://spectrum.ieee.org/relay-changed-the-power-industry)
+- [Hacking Around ChatGPT’s Character Limits with the Code Interpreter](https://knowsuchagency.notion.site/Hacking-around-ChatGPT-s-Character-Limits-with-the-Code-Interpreter-d31dcba26e5a432a839bf94c69c7c39f)
+- [No_color](https://no-color.org/)
+- [How to mitigate risk from secrets leaks](https://www.reversinglabs.com/blog/secure-your-development-secrets-3-essential-steps)
+- [Superintelligence: An idea that eats smart people &lpar;2016&rpar;](https://idlewords.com/talks/superintelligence.htm)
+- [TV doctors say annual checkups save lives. Real doctors call bullshit &lpar;2016&rpar;](https://www.vox.com/science-and-health/2016/9/26/13029358/annual-physical-tv-doctors-america)
+- [Translating&amp;#x2F;bridging across multiple protocols and identities &lpar;via federation&rpar;](https://snarfed.org/2023-05-26_50328)
+- [Integrating Zig and SwiftUI](https://mitchellh.com/writing/zig-and-swiftui)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Understanding Floating Point Numbers](https://dennisforbes.ca/articles/understanding-floating-point-numbers.html#)
-- [You can now share your ChatGPT conversations publicly](https://chat.openai.com/share/66169853-d00a-4b05-abce-8f82c6d8c868)
-- [First well-designed “Smart Gun” that uses biometrics to authenticate](https://www.youtube.com/watch?v=2cRm9BMxl90)
-- [How does ChatGPT write limericks?](https://news.ycombinator.com/item?id=36091352)
-- [Spellcraft/UI: Use AI to style HTML elements from natural language descriptions](https://github.com/SpellcraftAI/ui)
-- [Voxel builder tool in React based on Glmatrix library](https://fatih-erikli.github.io/voxel/)
-- [San Francisco’s Financial Crisis](https://californiapolicycenter.org/san-franciscos-financial-crisis/)
-- [CGOL – an Alternative External Representation For Lisp users &lpar;1976&rpar; [pdf]](https://dspace.mit.edu/bitstream/handle/1721.1/41951/AI_WP_121.pdf)
-- [What Physics Teachers Get Wrong About Tides &lpar;2015&rpar; [video]](https://www.youtube.com/watch?v=pwChk4S99i4)
-- [Picasso, by way of Fourier](https://vanhunteradams.com/Math/Fourier_drawing/Fourier_Drawing.html)
+- [The Surgeon General’s Social Media Warning and A.I.’S Existential Risks](https://www.nytimes.com/2023/05/26/podcasts/hard-fork-ajeya-cotra.html)
+- [Do Dogs Have Belly Buttons?](https://www.akc.org/expert-advice/dog-breeding/do-dogs-have-belly-buttons/)
+- [Dev Drive on Windows 11](https://learn.microsoft.com/en-us/windows/dev-drive/)
+- [Dev Home for Windows Developers](https://learn.microsoft.com/en-us/windows/dev-home/)
+- [Ask HN: What’s a good prompt for a descriptive illustration of point particles?](https://news.ycombinator.com/item?id=36100495)
+- [Concern over PayPal&#39;s new plan – Unbranded Processing](https://onepercentamonth.com/2023/05/17/concerns-with-paypals-new-plan-unbranded-processing/)
+- [Ask HN: What&#39;s GPT-4&#39;s secret sauce that makes it so much better than others?](https://news.ycombinator.com/item?id=36100475)
+- [Bloomberg Supports FOSS with Funding](https://www.i-programmer.info/news/136-open-source/16332-bloomberg-supports-foss-with-funding.html)
+- [What&#39;s wrong with Indian working hours?](https://old.reddit.com/r/developersIndia/comments/13sq6yf/whats_wrong_with_indian_working_hours/)
+- [Biden, McCarthy have tentative US debt ceiling deal](https://www.reuters.com/world/us/us-debt-ceiling-negotiations-push-towards-critical-default-deadline-2023-05-27/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

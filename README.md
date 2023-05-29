@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Surgeon General’s Social Media Warning and A.I.’S Existential Risks](https://www.nytimes.com/2023/05/26/podcasts/hard-fork-ajeya-cotra.html)
-- [Do Dogs Have Belly Buttons?](https://www.akc.org/expert-advice/dog-breeding/do-dogs-have-belly-buttons/)
-- [Dev Drive on Windows 11](https://learn.microsoft.com/en-us/windows/dev-drive/)
-- [Dev Home for Windows Developers](https://learn.microsoft.com/en-us/windows/dev-home/)
-- [Ask HN: What’s a good prompt for a descriptive illustration of point particles?](https://news.ycombinator.com/item?id=36100495)
-- [Concern over PayPal&#39;s new plan – Unbranded Processing](https://onepercentamonth.com/2023/05/17/concerns-with-paypals-new-plan-unbranded-processing/)
-- [Ask HN: What&#39;s GPT-4&#39;s secret sauce that makes it so much better than others?](https://news.ycombinator.com/item?id=36100475)
-- [Bloomberg Supports FOSS with Funding](https://www.i-programmer.info/news/136-open-source/16332-bloomberg-supports-foss-with-funding.html)
-- [What&#39;s wrong with Indian working hours?](https://old.reddit.com/r/developersIndia/comments/13sq6yf/whats_wrong_with_indian_working_hours/)
-- [Biden, McCarthy have tentative US debt ceiling deal](https://www.reuters.com/world/us/us-debt-ceiling-negotiations-push-towards-critical-default-deadline-2023-05-27/)
+- [Ask HN: How accurate is flatkill.org now?](https://news.ycombinator.com/item?id=36109892)
+- [My startup crossed $2M/yr and now co-founder is going for a power grab](https://news.ycombinator.com/item?id=36109851)
+- [Show HN: Determine salary range overlap without revealing actual numbers](http://salaryoverlap.s3-website.us-east-2.amazonaws.com/)
+- [AfterLife Pay: Buy now, pay when you&#39;re dead](https://afterlife.hellpizza.nz/)
+- [Show HN: Easy Prompt – A weekend project for formatting LLM training data](https://www.easyprompt.dev/about)
+- [Biden admin wants Europe to reject forced payments from Big Tech to ISPs](https://arstechnica.com/tech-policy/2023/05/biden-admin-wants-europe-to-reject-forced-payments-from-big-tech-to-isps/)
+- [AGI Futures – Roon’s Blog](https://roonscape.ai/p/agi-futures)
+- [We’ve Had a Cheaper, More Potent Ozempic Alternative for Decades](https://www.theatlantic.com/health/archive/2023/04/weight-loss-surgeons-arent-worried-about-ozempic/673853/)
+- [The ARM v9.2 Family](https://www.anandtech.com/show/18871/arm-unveils-armv92-mobile-architecture-cortex-x4-a720-and-a520-64bit-exclusive)
+- [Chisel Quick Tutorial – first RISC-V Bootcamp &lpar;2015&rpar;](https://www.youtube.com/watch?v=pfM1WUWbfBs)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

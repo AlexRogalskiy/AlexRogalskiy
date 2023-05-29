@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Biden and McCarthy reach ‘in principle’ deal to raise debt ceiling days before US default](https://www.theguardian.com/us-news/2023/may/28/biden-debt-ceiling-deal-mccarthy)
-- [Russia-Ukraine war at a glance: what we know on day 459 of the invasion](https://www.theguardian.com/world/2023/may/28/russia-ukraine-war-at-a-glance-what-we-know-on-day-459-of-the-invasion)
-- [Texas attorney general impeached by Republican-led House in historic vote](https://www.theguardian.com/us-news/2023/may/28/texas-attorney-general-impeached-by-republican-led-house-in-historic-vote)
-- [Rail strikes: Hopes of a resolution have been indefinitely delayed](https://www.theguardian.com/business/2023/may/28/rail-strikes-hopes-of-a-resolution-have-been-indefinitely-delayed)
-- [Shop talk: Britain’s 20 best independent boutiques](https://www.theguardian.com/fashion/2023/may/28/shop-talk-britains-20-best-independent-boutiques)
-- [Billam-Smith proves point in front of home fans to take Okolie’s title](https://www.theguardian.com/sport/2023/may/27/chris-billam-smith-lawrence-okolie-boxing-wbo-cruiserweight-title-bournemouth)
-- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2023/may/27/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Seven men charged with attempted murder of DCI John Caldwell](https://www.theguardian.com/uk-news/2023/may/27/seven-men-charged-with-attempted-of-dci-john-caldwell)
-- [ITV News journalist Emily Morgan dies, aged 45](https://www.theguardian.com/media/2023/may/27/itv-news-journalist-emily-morgan-dies-aged-45)
-- [More than 1,500 arrested at Extinction Rebellion protest in The Hague](https://www.theguardian.com/world/2023/may/27/more-than-1500-arrested-at-extinction-rebellion-protest-in-the-hague)
+- [Succession finale: who will triumph in the Roys’ last ever outing? Watch along – live](https://www.theguardian.com/tv-and-radio/live/2023/may/29/succession-finale-final-episode-live-watch-along)
+- [The Murdochs&#39; real-life succession drama | Podcast](https://www.theguardian.com/news/audio/2023/may/29/the-murdochs-real-life-succession-drama-podcast)
+- [Biden hails debt ceiling deal as he and McCarthy prepare to sell it to Congress](https://www.theguardian.com/us-news/2023/may/28/us-debt-ceiling-deal-latest-biden-mccarthy)
+- [Baby boomtown: does Nagi hold the secret to repopulating Japan?](https://www.theguardian.com/world/2023/may/29/baby-boomtown-does-nagi-hold-the-secret-to-repopulating-japan)
+- [Russia-Ukraine war at a glance: what we know on day 460 of the invasion](https://www.theguardian.com/world/2023/may/29/russia-ukraine-war-at-a-glance-what-we-know-on-day-460-of-the-invasion)
+- [Pencil ‘given to Adolf Hitler by Eva Braun’ could fetch £80,000 at auction](https://www.theguardian.com/world/2023/may/29/pencil-given-to-adolf-hitler-by-eva-braun-could-fetch-80000-at-auction)
+- [‘Shocking’ figures show 8% of muggings result in a charge, say Lib Dems](https://www.theguardian.com/uk-news/2023/may/29/shocking-figures-show-8-of-muggings-result-in-a-charge-say-lib-dems)
+- [China’s war chest: Beijing seeks to remedy its vulnerability to food and energy embargoes](https://www.theguardian.com/world/2023/may/29/chinas-war-chest-beijing-seeks-to-remedy-its-vulnerability-to-food-and-energy-embargoes)
+- [Recep Tayyip Erdoğan wins Turkish presidential election](https://www.theguardian.com/world/2023/may/28/polls-close-in-second-round-of-the-turkish-presidential-election)
+- [Spain’s conservative opposition heading for emphatic win in regional polls](https://www.theguardian.com/world/2023/may/28/spain-election-rows-over-eta-and-allegations-of-fraud)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

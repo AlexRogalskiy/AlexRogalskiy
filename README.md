@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Could America’s Adderall shortage have harmed its productivity?](https://www.economist.com/finance-and-economics/2023/05/25/what-performance-enhancing-stimulants-mean-for-economic-growth)
-- [Show HN: No more copy-pasting – a ChatGPT plugin to read code from your computer](https://github.com/kesor/chatgpt-code-plugin)
-- [The Relay That Changed the Power Industry](https://spectrum.ieee.org/relay-changed-the-power-industry)
-- [Hacking Around ChatGPT’s Character Limits with the Code Interpreter](https://knowsuchagency.notion.site/Hacking-around-ChatGPT-s-Character-Limits-with-the-Code-Interpreter-d31dcba26e5a432a839bf94c69c7c39f)
-- [No_color](https://no-color.org/)
-- [How to mitigate risk from secrets leaks](https://www.reversinglabs.com/blog/secure-your-development-secrets-3-essential-steps)
-- [Superintelligence: An idea that eats smart people &lpar;2016&rpar;](https://idlewords.com/talks/superintelligence.htm)
-- [TV doctors say annual checkups save lives. Real doctors call bullshit &lpar;2016&rpar;](https://www.vox.com/science-and-health/2016/9/26/13029358/annual-physical-tv-doctors-america)
-- [Translating&amp;#x2F;bridging across multiple protocols and identities &lpar;via federation&rpar;](https://snarfed.org/2023-05-26_50328)
-- [Integrating Zig and SwiftUI](https://mitchellh.com/writing/zig-and-swiftui)
+- [WordPress Turns 20](https://ma.tt/2023/05/wp20-audrey-scholars/)
+- [Easy Effects: Audio effects for PipeWire applications](https://github.com/wwmm/easyeffects)
+- [Group accused in $225K &amp;#x27;dice sliding&amp;#x27; cheating scheme at Las Vegas casino](https://www.8newsnow.com/investigators/group-accused-in-225k-dice-sliding-cheating-scheme-at-las-vegas-casino/)
+- [Private Equity Is Now Dominating the US Hospice System](https://jacobin.com/2023/05/private-equity-hospice-care-profit-regulation)
+- [Functional Programming in Lean – a book on using Lean 4 to write programs](https://leanprover.github.io/functional_programming_in_lean/)
+- [A measles vaccine painlessly delivered via sticker shows promising early results](https://www.npr.org/sections/goatsandsoda/2023/05/26/1177678380/virtually-ouch-free-promising-early-data-on-a-measles-vaccine-delivered-via-stic)
+- [MediaMTX: Zero-dependency server for live video and audio streams](https://console.substack.com/i/123681644/mediamtx)
+- [Steel Bank Common Lisp 2.3.5 released](https://sbcl.org/news.html)
+- [The Mysterious 50 Ohm Impedance: Where It Came from and Why We Use It &lpar;2021&rpar;](https://resources.altium.com/p/mysterious-50-ohm-impedance-where-it-came-and-why-we-use-it)
+- [Health officials delayed report linking fluoride to brain harm](https://www.salon.com/2023/03/16/health-officials-delayed-report-linking-fluoride-to-brain-harm_partner/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

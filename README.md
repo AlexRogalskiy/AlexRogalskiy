@@ -355,6 +355,8 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [China appeals to Japan to halt export restrictions as chip war escalates](https://www.computerworld.com/article/3697791/china-appeals-to-japan-to-halt-export-restrictions-as-chip-war-escalates.html#tk.rss_all)
+- [5 smart Chrome browser alternatives for Android](https://www.computerworld.com/article/3696975/chrome-alternatives-android-browsers.html#tk.rss_all)
 - [OpenAI has &#39;no plans to leave&#39; Europe due to regulations, CEO says](https://www.computerworld.com/article/3697652/openai-has-no-plans-to-leave-europe-due-to-regulations-ceo-says.html#tk.rss_all)
 - [OpenAI’s ChatGPT app for iPad, iPhone hits 500K downloads](https://www.computerworld.com/article/3697849/openais-chatgpt-app-for-ipad-iphone-hits-500k-downloads.html#tk.rss_all)
 - [Microsoft seeks US agency for AI governance, lays out strategy](https://www.computerworld.com/article/3697848/microsoft-seeks-us-agency-for-ai-governance-lays-out-strategy.html#tk.rss_all)
@@ -363,8 +365,6 @@
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [How to enable Google&#39;s clever new Chrome Reading Mode right now](https://www.computerworld.com/article/3697312/google-chrome-reading-mode.html#tk.rss_all)
 - [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
-- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
-- [Addigy promises a fix for Apple devices stuck on OSUpdateScan](https://www.computerworld.com/article/3697314/addigy-promises-a-fix-for-apple-devices-stuck-on-osupdatescan.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

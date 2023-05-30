@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Succession finale: who will triumph in the Roys’ last ever outing? Watch along – live](https://www.theguardian.com/tv-and-radio/live/2023/may/29/succession-finale-final-episode-live-watch-along)
-- [The Murdochs&#39; real-life succession drama | Podcast](https://www.theguardian.com/news/audio/2023/may/29/the-murdochs-real-life-succession-drama-podcast)
-- [Biden hails debt ceiling deal as he and McCarthy prepare to sell it to Congress](https://www.theguardian.com/us-news/2023/may/28/us-debt-ceiling-deal-latest-biden-mccarthy)
-- [Baby boomtown: does Nagi hold the secret to repopulating Japan?](https://www.theguardian.com/world/2023/may/29/baby-boomtown-does-nagi-hold-the-secret-to-repopulating-japan)
-- [Russia-Ukraine war at a glance: what we know on day 460 of the invasion](https://www.theguardian.com/world/2023/may/29/russia-ukraine-war-at-a-glance-what-we-know-on-day-460-of-the-invasion)
-- [Pencil ‘given to Adolf Hitler by Eva Braun’ could fetch £80,000 at auction](https://www.theguardian.com/world/2023/may/29/pencil-given-to-adolf-hitler-by-eva-braun-could-fetch-80000-at-auction)
-- [‘Shocking’ figures show 8% of muggings result in a charge, say Lib Dems](https://www.theguardian.com/uk-news/2023/may/29/shocking-figures-show-8-of-muggings-result-in-a-charge-say-lib-dems)
-- [China’s war chest: Beijing seeks to remedy its vulnerability to food and energy embargoes](https://www.theguardian.com/world/2023/may/29/chinas-war-chest-beijing-seeks-to-remedy-its-vulnerability-to-food-and-energy-embargoes)
-- [Recep Tayyip Erdoğan wins Turkish presidential election](https://www.theguardian.com/world/2023/may/28/polls-close-in-second-round-of-the-turkish-presidential-election)
-- [Spain’s conservative opposition heading for emphatic win in regional polls](https://www.theguardian.com/world/2023/may/28/spain-election-rows-over-eta-and-allegations-of-fraud)
+- [Russia-Ukraine war live: one dead in fire caused by falling debris as Kyiv comes under third attack in 24 hours](https://www.theguardian.com/world/live/2023/may/30/russia-ukraine-war-live-house-on-fire-in-kyiv-as-capital-comes-under-third-attack-in-24-hours)
+- [Bashar al-Assad’s dark return to the world stage – podcast](https://www.theguardian.com/news/audio/2023/may/30/bashar-al-assads-dark-return-to-the-world-stage)
+- [Japan PM fires son after pictures emerge of ‘inappropriate’ private party at official residence](https://www.theguardian.com/world/2023/may/30/japan-pm-fires-son-after-pictures-emerge-of-inappropriate-private-party-at-official-residence)
+- [Sudan’s rival factions agree to extend shaky ceasefire after rebuke from mediators](https://www.theguardian.com/world/2023/may/30/sudans-rival-factions-agree-to-extend-shaky-ceasefire-after-rebuke-from-mediators)
+- [Russia-Ukraine war at a glance: what we know on day 461 of the invasion](https://www.theguardian.com/world/2023/may/30/russia-ukraine-war-at-a-glance-what-we-know-on-day-461-of-the-invasion)
+- [Ministers plan to ban retailers in England from giving children free vapes](https://www.theguardian.com/society/2023/may/30/ministers-plan-to-ban-retailers-in-england-from-giving-children-free-vapes)
+- [Richard Coles says he felt ‘hurtled towards the exit’ by BBC](https://www.theguardian.com/media/2023/may/30/rev-richard-coles-hurtled-towards-exit-bbc-radio-4)
+- [Agreed house sales in UK at highest point this year, says Zoopla](https://www.theguardian.com/business/2023/may/30/agreed-house-sales-in-uk-at-highest-point-this-year-says-zoopla)
+- [UK food inflation falls in May, raising hopes prices may have peaked](https://www.theguardian.com/business/2023/may/30/uk-food-inflation-falls-in-may-raising-hopes-prices-may-have-peaked)
+- [St Mungo’s homelessness charity workers begin month-long strike](https://www.theguardian.com/uk-news/2023/may/30/st-mungos-homelessness-charity-workers-month-long-strike)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

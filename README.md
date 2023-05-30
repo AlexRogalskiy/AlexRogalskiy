@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [WordPress Turns 20](https://ma.tt/2023/05/wp20-audrey-scholars/)
-- [Easy Effects: Audio effects for PipeWire applications](https://github.com/wwmm/easyeffects)
-- [Group accused in $225K &amp;#x27;dice sliding&amp;#x27; cheating scheme at Las Vegas casino](https://www.8newsnow.com/investigators/group-accused-in-225k-dice-sliding-cheating-scheme-at-las-vegas-casino/)
-- [Private Equity Is Now Dominating the US Hospice System](https://jacobin.com/2023/05/private-equity-hospice-care-profit-regulation)
-- [Functional Programming in Lean – a book on using Lean 4 to write programs](https://leanprover.github.io/functional_programming_in_lean/)
-- [A measles vaccine painlessly delivered via sticker shows promising early results](https://www.npr.org/sections/goatsandsoda/2023/05/26/1177678380/virtually-ouch-free-promising-early-data-on-a-measles-vaccine-delivered-via-stic)
-- [MediaMTX: Zero-dependency server for live video and audio streams](https://console.substack.com/i/123681644/mediamtx)
-- [Steel Bank Common Lisp 2.3.5 released](https://sbcl.org/news.html)
-- [The Mysterious 50 Ohm Impedance: Where It Came from and Why We Use It &lpar;2021&rpar;](https://resources.altium.com/p/mysterious-50-ohm-impedance-where-it-came-and-why-we-use-it)
-- [Health officials delayed report linking fluoride to brain harm](https://www.salon.com/2023/03/16/health-officials-delayed-report-linking-fluoride-to-brain-harm_partner/)
+- [I’ve worked hard my whole life and I can’t afford food](https://macleans.ca/food-insecurity/food-insecurity-inflation-groceries/)
+- [A chiral aperiodic monotile](https://arxiv.org/abs/2305.17743)
+- [You can serve static data over HTTP](https://ignore.pl/you_can_serve_static_data_over_http.html)
+- [Most Bitcoin Inscriptions belong to a single person](https://block21m.substack.com/p/most-bitcoin-inscriptions-belong-d6d)
+- [An open-source alternative to QuickBooks](https://bigcapital.ly)
+- [Sigils are underappreciated &lpar;2022&rpar;](https://raku-advent.blog/2022/12/20/sigils/)
+- [DNSSEC KSK rollover breaks DNS resolution for .nz domains](https://status.internetnz.nz/incidents/gq1c6slz3198)
+- [HBO Max new Captcha system](https://twitter.com/wondermeg_/status/1662454909353033730)
+- [Ivy &lpar;YC W23&rpar; Is Hiring](https://deep-ivy-ltd.breezy.hr/p/055a500d0e8701-ml-research-engineer?ref=upstract.com)
+- [My first superoptimizer](https://austinhenley.com/blog/superoptimizer.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

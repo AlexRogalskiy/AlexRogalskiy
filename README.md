@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ask HN: How accurate is flatkill.org now?](https://news.ycombinator.com/item?id=36109892)
-- [My startup crossed $2M/yr and now co-founder is going for a power grab](https://news.ycombinator.com/item?id=36109851)
-- [Show HN: Determine salary range overlap without revealing actual numbers](http://salaryoverlap.s3-website.us-east-2.amazonaws.com/)
-- [AfterLife Pay: Buy now, pay when you&#39;re dead](https://afterlife.hellpizza.nz/)
-- [Show HN: Easy Prompt – A weekend project for formatting LLM training data](https://www.easyprompt.dev/about)
-- [Biden admin wants Europe to reject forced payments from Big Tech to ISPs](https://arstechnica.com/tech-policy/2023/05/biden-admin-wants-europe-to-reject-forced-payments-from-big-tech-to-isps/)
-- [AGI Futures – Roon’s Blog](https://roonscape.ai/p/agi-futures)
-- [We’ve Had a Cheaper, More Potent Ozempic Alternative for Decades](https://www.theatlantic.com/health/archive/2023/04/weight-loss-surgeons-arent-worried-about-ozempic/673853/)
-- [The ARM v9.2 Family](https://www.anandtech.com/show/18871/arm-unveils-armv92-mobile-architecture-cortex-x4-a720-and-a520-64bit-exclusive)
-- [Chisel Quick Tutorial – first RISC-V Bootcamp &lpar;2015&rpar;](https://www.youtube.com/watch?v=pfM1WUWbfBs)
+- [Cafe Standards Could Mean Bigger Cars, Not Smaller Ones &lpar;2011&rpar;](https://me.engin.umich.edu/news-events/news/cafe-standards-could-mean-bigger-cars-not-smaller-ones/)
+- [How to Hire a Pop Star for Your Private Party](https://www.newyorker.com/magazine/2023/06/05/how-to-hire-a-pop-star-for-your-private-party)
+- [Tell HN: Google site query with path not working? ie. site:reddit.com/technology](https://news.ycombinator.com/item?id=36120466)
+- [Strong leg muscles may be linked with better outcomes after heart attack](https://www.cnn.com/2023/05/29/health/leg-muscles-heart-attack-study-wellness/index.html)
+- [Don&#39;t turn your hobbies into chores](https://tsk.bearblog.dev/dont-turn-your-hobbies-into-chores/)
+- [How to Stare at Your Phone Without Losing Your Soul](https://simone.org/tracking-screen-time/)
+- [A review of the Duolingo app after losing a 336-day-streak](https://corneliuswastaken.bearblog.dev/a-review-of-the-duolingo-app-after-losing-a-336-day-streak/)
+- [I decided to isolate myself from the news for my mental health](https://dostoynikov.bearblog.dev/i-decided-to-isolate-myself-from-the-news-for-my-mental-health/)
+- [Daily Stoicism Quote](https://www.stoic-quote.com/)
+- [Set Up Clip on SageMaker for Inference](https://rise.climb.dev/clip-on-sagemaker/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [I’ve worked hard my whole life and I can’t afford food](https://macleans.ca/food-insecurity/food-insecurity-inflation-groceries/)
-- [A chiral aperiodic monotile](https://arxiv.org/abs/2305.17743)
-- [You can serve static data over HTTP](https://ignore.pl/you_can_serve_static_data_over_http.html)
-- [Most Bitcoin Inscriptions belong to a single person](https://block21m.substack.com/p/most-bitcoin-inscriptions-belong-d6d)
-- [An open-source alternative to QuickBooks](https://bigcapital.ly)
-- [Sigils are underappreciated &lpar;2022&rpar;](https://raku-advent.blog/2022/12/20/sigils/)
-- [DNSSEC KSK rollover breaks DNS resolution for .nz domains](https://status.internetnz.nz/incidents/gq1c6slz3198)
-- [HBO Max new Captcha system](https://twitter.com/wondermeg_/status/1662454909353033730)
-- [Ivy &lpar;YC W23&rpar; Is Hiring](https://deep-ivy-ltd.breezy.hr/p/055a500d0e8701-ml-research-engineer?ref=upstract.com)
-- [My first superoptimizer](https://austinhenley.com/blog/superoptimizer.html)
+- [Feedback: I try to answer “how to become a systems engineer”](https://rachelbythebay.com/w/2023/05/30/eng/)
+- [Nvidia DGX GH200: The First 100 Terabyte GPU Memory System](https://developer.nvidia.com/blog/announcing-nvidia-dgx-gh200-first-100-terabyte-gpu-memory-system/)
+- [Why your F# evangelism isn&amp;#x27;t working](https://ericsink.com/entries/fsharp_chasm.html)
+- [A Mechanistic Interpretability Analysis of Grokking](https://www.alignmentforum.org/posts/N6WM6hs7RQMKDhYjB/a-mechanistic-interpretability-analysis-of-grokking)
+- [Noncompete clauses violate labor law, NLRB lawyer says](https://www.wsj.com/articles/noncompete-clauses-violate-labor-law-nlrb-lawyer-says-459fc081)
+- [The role of cat eye narrowing movements in cat–human communication &lpar;2020&rpar;](https://www.nature.com/articles/s41598-020-73426-0)
+- [IRS can get financial info of third parties without notice to third parties [pdf]](https://www.supremecourt.gov/opinions/22pdf/21-1599_l5gm.pdf)
+- [Mandatory Certification Regarding Generative Artificial Intelligence](https://www.txnd.uscourts.gov/judge/judge-brantley-starr)
+- [Prince Rupert&amp;#x27;s Drop](https://en.wikipedia.org/wiki/Prince_Rupert%27s_drop)
+- [Scaling Data-Constrained Language Models](https://arxiv.org/abs/2305.16264)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

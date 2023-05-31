@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Cafe Standards Could Mean Bigger Cars, Not Smaller Ones &lpar;2011&rpar;](https://me.engin.umich.edu/news-events/news/cafe-standards-could-mean-bigger-cars-not-smaller-ones/)
-- [How to Hire a Pop Star for Your Private Party](https://www.newyorker.com/magazine/2023/06/05/how-to-hire-a-pop-star-for-your-private-party)
-- [Tell HN: Google site query with path not working? ie. site:reddit.com/technology](https://news.ycombinator.com/item?id=36120466)
-- [Strong leg muscles may be linked with better outcomes after heart attack](https://www.cnn.com/2023/05/29/health/leg-muscles-heart-attack-study-wellness/index.html)
-- [Don&#39;t turn your hobbies into chores](https://tsk.bearblog.dev/dont-turn-your-hobbies-into-chores/)
-- [How to Stare at Your Phone Without Losing Your Soul](https://simone.org/tracking-screen-time/)
-- [A review of the Duolingo app after losing a 336-day-streak](https://corneliuswastaken.bearblog.dev/a-review-of-the-duolingo-app-after-losing-a-336-day-streak/)
-- [I decided to isolate myself from the news for my mental health](https://dostoynikov.bearblog.dev/i-decided-to-isolate-myself-from-the-news-for-my-mental-health/)
-- [Daily Stoicism Quote](https://www.stoic-quote.com/)
-- [Set Up Clip on SageMaker for Inference](https://rise.climb.dev/clip-on-sagemaker/)
+- [Tips for more sustainable smartphone use](https://gerrymcgovern.com/tips-for-more-sustainable-smartphone-use/)
+- [North Korean satellite plunges into sea after rocket failure](https://www.reuters.com/world/asia-pacific/north-korea-fires-space-satellite-skorea-military-2023-05-30/)
+- [How much do you spend on subscriptions?](https://m0nthly.framer.website/)
+- [Few U.S.-China flights are back despite the end of Covid](https://www.cnbc.com/2023/05/31/very-few-us-china-flights-are-back-despite-the-end-of-covid.html)
+- [Ask HN: Is anyone using AI to help with parsing data?](https://news.ycombinator.com/item?id=36133811)
+- [Two Minute Papers: OpenAI&#39;s ChatGPT: The Future of Teaching](https://www.youtube.com/watch?v=l-Hf8msz9bY)
+- [Science Before Statistics: Causal Inference](https://www.youtube.com/watch?v=KNPYUVmY3NM)
+- [A torpor-like hypothermic and hypometabolic state in rodents by ultrasound](https://www.nature.com/articles/s42255-023-00804-z)
+- [UC Berkeley&#39;s SkyPilot project: unprecedented GPU availability across new clouds](https://blog.skypilot.co/announcing-skypilot-0.3/)
+- [SVG Images from Postgres](https://www.crunchydata.com/blog/svg-images-from-postgis)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

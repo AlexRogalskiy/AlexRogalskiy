@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war live: one dead in fire caused by falling debris as Kyiv comes under third attack in 24 hours](https://www.theguardian.com/world/live/2023/may/30/russia-ukraine-war-live-house-on-fire-in-kyiv-as-capital-comes-under-third-attack-in-24-hours)
-- [Bashar al-Assad’s dark return to the world stage – podcast](https://www.theguardian.com/news/audio/2023/may/30/bashar-al-assads-dark-return-to-the-world-stage)
-- [Japan PM fires son after pictures emerge of ‘inappropriate’ private party at official residence](https://www.theguardian.com/world/2023/may/30/japan-pm-fires-son-after-pictures-emerge-of-inappropriate-private-party-at-official-residence)
-- [Sudan’s rival factions agree to extend shaky ceasefire after rebuke from mediators](https://www.theguardian.com/world/2023/may/30/sudans-rival-factions-agree-to-extend-shaky-ceasefire-after-rebuke-from-mediators)
-- [Russia-Ukraine war at a glance: what we know on day 461 of the invasion](https://www.theguardian.com/world/2023/may/30/russia-ukraine-war-at-a-glance-what-we-know-on-day-461-of-the-invasion)
-- [Ministers plan to ban retailers in England from giving children free vapes](https://www.theguardian.com/society/2023/may/30/ministers-plan-to-ban-retailers-in-england-from-giving-children-free-vapes)
-- [Richard Coles says he felt ‘hurtled towards the exit’ by BBC](https://www.theguardian.com/media/2023/may/30/rev-richard-coles-hurtled-towards-exit-bbc-radio-4)
-- [Agreed house sales in UK at highest point this year, says Zoopla](https://www.theguardian.com/business/2023/may/30/agreed-house-sales-in-uk-at-highest-point-this-year-says-zoopla)
-- [UK food inflation falls in May, raising hopes prices may have peaked](https://www.theguardian.com/business/2023/may/30/uk-food-inflation-falls-in-may-raising-hopes-prices-may-have-peaked)
-- [St Mungo’s homelessness charity workers begin month-long strike](https://www.theguardian.com/uk-news/2023/may/30/st-mungos-homelessness-charity-workers-month-long-strike)
+- [Tracking down Ukraine’s abducted children | podcast](https://www.theguardian.com/news/audio/2023/may/31/tracking-down-ukraine-abducted-children-podcast)
+- [Debt ceiling deal clears first hurdle with House panel and advances for debate](https://www.theguardian.com/us-news/2023/may/30/republicans-mccarthy-debt-ceiling-deal-support)
+- [Purdue can shield wealthy Sackler family from opioid lawsuits, court rules](https://www.theguardian.com/society/2023/may/30/purdue-pharma-sackler-family-protected-from-opioid-lawsuits)
+- [North Korea’s first spy satellite launch ends in failure, and promise to send up another](https://www.theguardian.com/world/2023/may/30/north-korea-fires-space-launch-vehicle-towards-south)
+- [Five people still unaccounted for after Iowa apartment building collapse](https://www.theguardian.com/us-news/2023/may/30/iowa-building-collapse-fatalities-demolition)
+- [‘If I’m only known for football, I’ve failed’: Adam Goodes opens up in rare interview](https://www.theguardian.com/sport/2023/may/31/if-im-only-known-for-football-ive-failed-adam-goodes-opens-up-in-rare-interview)
+- [Russia-Ukraine war at a glance: what we know on day 462 of the invasion](https://www.theguardian.com/world/2023/may/31/russia-ukraine-war-at-a-glance-what-we-know-on-day-462-of-the-invasion)
+- [Erin O’Toole: China targeted me in election, says 2021 rival to Canada’s Trudeau](https://www.theguardian.com/world/2023/may/31/erin-otoole-china-targeted-me-in-election-says-2021-rival-to-canadas-trudeau)
+- [Meet Australia’s first long-distance walker: a 250kg marsupial with ‘heeled hands’](https://www.theguardian.com/australia-news/2023/may/31/meet-australias-first-long-distance-walker-a-250kg-marsupial-with-heeled-hands)
+- [Young people harmed by nitrous oxide use most likely to be Asian men – study](https://www.theguardian.com/society/2023/may/30/young-people-harmed-by-nitrous-oxide-use-most-likely-to-be-asian-men-study)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

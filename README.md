@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Tracking down Ukraine’s abducted children | podcast](https://www.theguardian.com/news/audio/2023/may/31/tracking-down-ukraine-abducted-children-podcast)
-- [Debt ceiling deal clears first hurdle with House panel and advances for debate](https://www.theguardian.com/us-news/2023/may/30/republicans-mccarthy-debt-ceiling-deal-support)
-- [Purdue can shield wealthy Sackler family from opioid lawsuits, court rules](https://www.theguardian.com/society/2023/may/30/purdue-pharma-sackler-family-protected-from-opioid-lawsuits)
-- [North Korea’s first spy satellite launch ends in failure, and promise to send up another](https://www.theguardian.com/world/2023/may/30/north-korea-fires-space-launch-vehicle-towards-south)
-- [Five people still unaccounted for after Iowa apartment building collapse](https://www.theguardian.com/us-news/2023/may/30/iowa-building-collapse-fatalities-demolition)
-- [‘If I’m only known for football, I’ve failed’: Adam Goodes opens up in rare interview](https://www.theguardian.com/sport/2023/may/31/if-im-only-known-for-football-ive-failed-adam-goodes-opens-up-in-rare-interview)
-- [Russia-Ukraine war at a glance: what we know on day 462 of the invasion](https://www.theguardian.com/world/2023/may/31/russia-ukraine-war-at-a-glance-what-we-know-on-day-462-of-the-invasion)
-- [Erin O’Toole: China targeted me in election, says 2021 rival to Canada’s Trudeau](https://www.theguardian.com/world/2023/may/31/erin-otoole-china-targeted-me-in-election-says-2021-rival-to-canadas-trudeau)
-- [Meet Australia’s first long-distance walker: a 250kg marsupial with ‘heeled hands’](https://www.theguardian.com/australia-news/2023/may/31/meet-australias-first-long-distance-walker-a-250kg-marsupial-with-heeled-hands)
-- [Young people harmed by nitrous oxide use most likely to be Asian men – study](https://www.theguardian.com/society/2023/may/30/young-people-harmed-by-nitrous-oxide-use-most-likely-to-be-asian-men-study)
+- [Russia-Ukraine war live: Three killed in Kyiv as Russia launches fresh overnight strikes](https://www.theguardian.com/world/live/2023/jun/01/russia-ukraine-war-live-three-killed-in-kyiv-as-russia-launches-fresh-overnight-strikes)
+- [Sofas, smiles – and scandal: what’s going on at ITV’s This Morning? – podcast](https://www.theguardian.com/news/audio/2023/jun/01/sofas-smiles-and-scandal-whats-going-on-at-itv-this-morning-podcast)
+- [Trump regretted not declassifying retained military document in recording](https://www.theguardian.com/us-news/2023/may/31/donald-trump-classified-military-document-recording-iran)
+- [‘Perfect storm of chaos’: A week after Typhoon Mawar, most of Guam still without basic services](https://www.theguardian.com/world/2023/jun/01/perfect-storm-of-chaos-a-week-after-typhoon-mawar-most-of-guam-still-without-basic-services)
+- [China’s Xi Jinping calls for greater state control of AI to counter ‘dangerous storms’](https://www.theguardian.com/world/2023/jun/01/chinas-xi-jinping-calls-for-greater-state-control-of-ai-to-counter-dangerous-storms)
+- [Russia-Ukraine war at a glance: what we know on day 463 of the invasion](https://www.theguardian.com/world/2023/jun/01/russia-ukraine-war-at-a-glance-what-we-know-on-day-463-of-the-invasion)
+- [Amazon’s main UK division pays no corporation tax for second year in a row](https://www.theguardian.com/technology/2023/jun/01/amazon-uk-services-main-division-pay-no-corporation-tax-for-second-year-in-row-tax-credit-government-super-deduction-scheme)
+- [UK supermarkets cut diesel prices by 7p a litre after watchdog concerns](https://www.theguardian.com/money/2023/jun/01/uk-supermarkets-cut-diesel-prices-watchdog-cma)
+- [China’s 11.6m graduates face a jobs market with no jobs](https://www.theguardian.com/world/2023/jun/01/china-graduates-jobs-market-youth-unemployment)
+- [‘Loss for Iran’s wildlife’: woman jailed in Tehran calls for environmentalists’ release](https://www.theguardian.com/world/2023/jun/01/loss-for-irans-wildlife-woman-jailed-in-tehran-calls-for-environmentalists-release)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Tips for more sustainable smartphone use](https://gerrymcgovern.com/tips-for-more-sustainable-smartphone-use/)
-- [North Korean satellite plunges into sea after rocket failure](https://www.reuters.com/world/asia-pacific/north-korea-fires-space-satellite-skorea-military-2023-05-30/)
-- [How much do you spend on subscriptions?](https://m0nthly.framer.website/)
-- [Few U.S.-China flights are back despite the end of Covid](https://www.cnbc.com/2023/05/31/very-few-us-china-flights-are-back-despite-the-end-of-covid.html)
-- [Ask HN: Is anyone using AI to help with parsing data?](https://news.ycombinator.com/item?id=36133811)
-- [Two Minute Papers: OpenAI&#39;s ChatGPT: The Future of Teaching](https://www.youtube.com/watch?v=l-Hf8msz9bY)
-- [Science Before Statistics: Causal Inference](https://www.youtube.com/watch?v=KNPYUVmY3NM)
-- [A torpor-like hypothermic and hypometabolic state in rodents by ultrasound](https://www.nature.com/articles/s42255-023-00804-z)
-- [UC Berkeley&#39;s SkyPilot project: unprecedented GPU availability across new clouds](https://blog.skypilot.co/announcing-skypilot-0.3/)
-- [SVG Images from Postgres](https://www.crunchydata.com/blog/svg-images-from-postgis)
+- [How to get started with trial projects](https://news.ycombinator.com/item?id=36147128)
+- [Is there a unified API for provisioning GPUs from all the GPU clouds?](https://news.ycombinator.com/item?id=36147120)
+- [Puzzle Challenge: Can you solve these simple puzzles that GPT-4 failed at?](https://gptquiz.fly.dev/)
+- [It’s time to admit that Remote Work doesn’t work](https://twitter.com/DavidSacks/status/1663958149437743105)
+- [Sati: Re-Examining Historical Evidence from 1900BCE to 1900CE](https://www.indica.today/long-reads/sati-re-examining-historical-evidence-1900bce-1900ce/)
+- [TypeSpec](https://microsoft.github.io/typespec/)
+- [The Basic Logistics of Public Development](https://www.publicenterprise.org/blog/basic-logistics-public-development)
+- [War crimes evidence erased by social media platforms](https://www.bbc.co.uk/news/technology-65755517)
+- [What makes AI click, what makes it snake oil, and how to tell the difference](https://aisnakeoil.substack.com/p/a-sneak-peak-into-the-book)
+- [Stanford launches Archive of the Military Tribunal at Nuremberg, 1945-46](https://library.stanford.edu/blogs/digital-library-blog/2023/03/stanford-libraries-launches-taube-archive-international-military)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

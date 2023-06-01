@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Amazon workers walk out to protest return-to-work policy, climate change](https://www.computerworld.com/article/3698268/amazon-workers-walk-out-to-protest-return-to-work-policy-climate-change.html#tk.rss_all)
+- [WWDC: Apple gets back to the Mac in PC sales attack](https://www.computerworld.com/article/3697813/wwdc-apple-gets-back-to-the-mac-in-pc-sales-attack.html#tk.rss_all)
+- [20 seconds to smarter Chromebook multitasking](https://www.computerworld.com/article/3697855/smarter-chromebook-multitasking.html#tk.rss_all)
+- [The metaverse: Not dead yet](https://www.computerworld.com/article/3697812/metaverse-not-dead-yet.html#tk.rss_all)
+- [EU officials to meet OpenAI CEO again in June over AI laws](https://www.computerworld.com/article/3697754/eu-officials-to-meet-openai-ceo-again-in-june-over-ai-laws.html#tk.rss_all)
 - [ChatGPT creators and others plead to reduce risk of global extinction from their tech](https://www.computerworld.com/article/3697738/chatgpt-creators-plead-to-reduce-risk-of-global-extinction-from-their-tech.html#tk.rss_all)
 - [Does business need a giant Apple iPhone?](https://www.computerworld.com/article/3697856/does-business-need-a-giant-apple-iphone.html#tk.rss_all)
 - [Microsoft Edge is getting a bit pushy](https://www.computerworld.com/article/3697809/microsoft-edge-is-getting-pushy.html#tk.rss_all)
 - [What are LLMs, and how are they used in generative AI?](https://www.computerworld.com/article/3697649/what-are-large-language-models-and-how-are-they-used-in-generative-ai.html#tk.rss_all)
 - [China appeals to Japan to halt export restrictions as chip war escalates](https://www.computerworld.com/article/3697791/china-appeals-to-japan-to-halt-export-restrictions-as-chip-war-escalates.html#tk.rss_all)
-- [5 smart Chrome browser alternatives for Android](https://www.computerworld.com/article/3696975/chrome-alternatives-android-browsers.html#tk.rss_all)
-- [OpenAI has &#39;no plans to leave&#39; Europe due to regulations, CEO says](https://www.computerworld.com/article/3697652/openai-has-no-plans-to-leave-europe-due-to-regulations-ceo-says.html#tk.rss_all)
-- [OpenAI’s ChatGPT app for iPad, iPhone hits 500K downloads](https://www.computerworld.com/article/3697849/openais-chatgpt-app-for-ipad-iphone-hits-500k-downloads.html#tk.rss_all)
-- [Microsoft seeks US agency for AI governance, lays out strategy](https://www.computerworld.com/article/3697848/microsoft-seeks-us-agency-for-ai-governance-lays-out-strategy.html#tk.rss_all)
-- [The shadow IT fight — 2023 style](https://www.computerworld.com/article/3697788/the-shadow-it-fight-2023-style.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

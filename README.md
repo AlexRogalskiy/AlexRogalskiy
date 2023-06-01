@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Feedback: I try to answer “how to become a systems engineer”](https://rachelbythebay.com/w/2023/05/30/eng/)
-- [Nvidia DGX GH200: The First 100 Terabyte GPU Memory System](https://developer.nvidia.com/blog/announcing-nvidia-dgx-gh200-first-100-terabyte-gpu-memory-system/)
-- [Why your F# evangelism isn&amp;#x27;t working](https://ericsink.com/entries/fsharp_chasm.html)
-- [A Mechanistic Interpretability Analysis of Grokking](https://www.alignmentforum.org/posts/N6WM6hs7RQMKDhYjB/a-mechanistic-interpretability-analysis-of-grokking)
-- [Noncompete clauses violate labor law, NLRB lawyer says](https://www.wsj.com/articles/noncompete-clauses-violate-labor-law-nlrb-lawyer-says-459fc081)
-- [The role of cat eye narrowing movements in cat–human communication &lpar;2020&rpar;](https://www.nature.com/articles/s41598-020-73426-0)
-- [IRS can get financial info of third parties without notice to third parties [pdf]](https://www.supremecourt.gov/opinions/22pdf/21-1599_l5gm.pdf)
-- [Mandatory Certification Regarding Generative Artificial Intelligence](https://www.txnd.uscourts.gov/judge/judge-brantley-starr)
-- [Prince Rupert&amp;#x27;s Drop](https://en.wikipedia.org/wiki/Prince_Rupert%27s_drop)
-- [Scaling Data-Constrained Language Models](https://arxiv.org/abs/2305.16264)
+- [Lost John Coltrane recording, from experimental phase with Eric Dolphy, emerges](https://www.npr.org/2023/05/31/1179098682/john-coltrane-eric-dolphy-village-gate-1961-lost-album)
+- [FAA seeks public input on drone operations](https://www.faa.gov/newsroom/faa-seeks-public-input-drone-operations)
+- [More malicious extensions in Chrome Web Store](https://palant.info/2023/05/31/more-malicious-extensions-in-chrome-web-store/)
+- [FTC says Ring employees illegally surveilled customers, failed to stop hackers](https://www.ftc.gov/news-events/news/press-releases/2023/05/ftc-says-ring-employees-illegally-surveilled-customers-failed-stop-hackers-taking-control-users)
+- [DARPA hacked a science writer’s brain and turned her into a sharpshooter](https://thebulletin.org/2023/05/qa-how-darpa-hacked-a-science-writers-brain-and-turned-her-into-a-sharpshooter/)
+- [Project MF: A simulation of analog SF&amp;#x2F;MF telephone signaling](http://www.projectmf.org/)
+- [OpenAPI v4 &lpar;aka Moonwalk&rpar; Proposal](https://github.com/OAI/moonwalk)
+- [Japan Goes All In: Copyright Doesn’t Apply to AI Training](https://technomancers.ai/japan-goes-all-in-copyright-doesnt-apply-to-ai-training/)
+- [Teddit – An alternative Reddit front-end focused on privacy](https://codeberg.org/teddit/teddit)
+- [1000W 12V –&amp;gt; 220V Inverter](https://www.instructables.com/DIY-Pure-Sine-Wave-Inverter/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

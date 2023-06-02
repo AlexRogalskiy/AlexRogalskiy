@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war live: Three killed in Kyiv as Russia launches fresh overnight strikes](https://www.theguardian.com/world/live/2023/jun/01/russia-ukraine-war-live-three-killed-in-kyiv-as-russia-launches-fresh-overnight-strikes)
-- [Sofas, smiles – and scandal: what’s going on at ITV’s This Morning? – podcast](https://www.theguardian.com/news/audio/2023/jun/01/sofas-smiles-and-scandal-whats-going-on-at-itv-this-morning-podcast)
-- [Trump regretted not declassifying retained military document in recording](https://www.theguardian.com/us-news/2023/may/31/donald-trump-classified-military-document-recording-iran)
-- [‘Perfect storm of chaos’: A week after Typhoon Mawar, most of Guam still without basic services](https://www.theguardian.com/world/2023/jun/01/perfect-storm-of-chaos-a-week-after-typhoon-mawar-most-of-guam-still-without-basic-services)
-- [China’s Xi Jinping calls for greater state control of AI to counter ‘dangerous storms’](https://www.theguardian.com/world/2023/jun/01/chinas-xi-jinping-calls-for-greater-state-control-of-ai-to-counter-dangerous-storms)
-- [Russia-Ukraine war at a glance: what we know on day 463 of the invasion](https://www.theguardian.com/world/2023/jun/01/russia-ukraine-war-at-a-glance-what-we-know-on-day-463-of-the-invasion)
-- [Amazon’s main UK division pays no corporation tax for second year in a row](https://www.theguardian.com/technology/2023/jun/01/amazon-uk-services-main-division-pay-no-corporation-tax-for-second-year-in-row-tax-credit-government-super-deduction-scheme)
-- [UK supermarkets cut diesel prices by 7p a litre after watchdog concerns](https://www.theguardian.com/money/2023/jun/01/uk-supermarkets-cut-diesel-prices-watchdog-cma)
-- [China’s 11.6m graduates face a jobs market with no jobs](https://www.theguardian.com/world/2023/jun/01/china-graduates-jobs-market-youth-unemployment)
-- [‘Loss for Iran’s wildlife’: woman jailed in Tehran calls for environmentalists’ release](https://www.theguardian.com/world/2023/jun/01/loss-for-irans-wildlife-woman-jailed-in-tehran-calls-for-environmentalists-release)
+- [Is Manchester City’s dominance of English football fair? – podcast](https://www.theguardian.com/news/audio/2023/jun/02/is-manchester-city-dominance-english-football-fair-podcast)
+- [Taiwan hails ‘comprehensive’ trade deal with US as China issues warning](https://www.theguardian.com/world/2023/jun/02/taiwan-hails-comprehensive-trade-deal-with-us-as-china-issues-warning)
+- [US military drone controlled by AI killed its operator during simulated test](https://www.theguardian.com/us-news/2023/jun/01/us-military-drone-ai-killed-operator-simulated-test)
+- [Elon Musk accused of insider trading in Dogecoin lawsuit](https://www.theguardian.com/technology/2023/jun/01/elon-musk-insider-trading-dogecoin-lawsuit)
+- [Senate begins voting on debt ceiling bill to avert disastrous default](https://www.theguardian.com/us-news/2023/jun/01/senate-debt-ceiling-vote-thursday-chuck-schumer)
+- [Russia-Ukraine war at a glance: what we know on day 464 of the invasion](https://www.theguardian.com/world/2023/jun/02/russia-ukraine-war-at-a-glance-what-we-know-on-day-464-of-the-invasion)
+- [David Beckham makes ‘tough decision’ as he sacks Phil Neville at Inter Miami](https://www.theguardian.com/football/2023/jun/02/mls-inter-miami-phil-neville-sacked-david-beckham)
+- [Bill Cosby accused of drugging and sexually assaulting woman in 1969](https://www.theguardian.com/world/2023/jun/01/bill-cosby-lawsuit-sexual-assault)
+- [Chris Ofili: The Seven Deadly Sins review – sacred, seductive and sensational](https://www.theguardian.com/artanddesign/2023/jun/02/chris-ofili-seven-deadly-sins-review-victoria-miro)
+- [Fox News to host Trump town hall in key test for beleaguered network](https://www.theguardian.com/us-news/2023/jun/01/fox-news-trump-town-hall-iowa)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

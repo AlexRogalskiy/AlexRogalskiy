@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [How to get started with trial projects](https://news.ycombinator.com/item?id=36147128)
-- [Is there a unified API for provisioning GPUs from all the GPU clouds?](https://news.ycombinator.com/item?id=36147120)
-- [Puzzle Challenge: Can you solve these simple puzzles that GPT-4 failed at?](https://gptquiz.fly.dev/)
-- [It’s time to admit that Remote Work doesn’t work](https://twitter.com/DavidSacks/status/1663958149437743105)
-- [Sati: Re-Examining Historical Evidence from 1900BCE to 1900CE](https://www.indica.today/long-reads/sati-re-examining-historical-evidence-1900bce-1900ce/)
-- [TypeSpec](https://microsoft.github.io/typespec/)
-- [The Basic Logistics of Public Development](https://www.publicenterprise.org/blog/basic-logistics-public-development)
-- [War crimes evidence erased by social media platforms](https://www.bbc.co.uk/news/technology-65755517)
-- [What makes AI click, what makes it snake oil, and how to tell the difference](https://aisnakeoil.substack.com/p/a-sneak-peak-into-the-book)
-- [Stanford launches Archive of the Military Tribunal at Nuremberg, 1945-46](https://library.stanford.edu/blogs/digital-library-blog/2023/03/stanford-libraries-launches-taube-archive-international-military)
+- [Goodstein&#39;s Theorem](https://en.wikipedia.org/wiki/Goodstein%27s_theorem)
+- [Ask HN: Who Got Hired?](https://news.ycombinator.com/item?id=36160198)
+- [The growing pains of database architecture](https://www.figma.com/blog/how-figma-scaled-to-multiple-databases/)
+- [Firefox Multirow Bookmarks Toolbar](https://github.com/wekan/wekan/wiki/Firefox-Multirow-Bookmarks-Toolbar)
+- [Ex-Google Officer Says AI Is a Bigger Emergency Than Climate Change](https://www.businessinsider.com/ex-google-officer-ai-bigger-emergency-than-climate-change-2023-6)
+- [What Is A Woman?](https://twitter.com/realDailyWire/status/1664424891372941312)
+- [Reading Practice arrives on Google Play Books to help improve literacy skills](https://www.neowin.net/news/reading-practice-arrives-on-google-play-books-to-help-improve-literacy-skills/)
+- [Judge orders all AI-generated content must be declared and checked](https://techcrunch.com/2023/05/30/no-chatgpt-in-my-court-judge-orders-all-ai-generated-content-must-be-declared-and-checked/)
+- [Highlights of the Bee Interview with Elon](https://twitter.com/TitterDaily/status/1664125952287457280)
+- [Meta-analytic relations between personality and cognitive ability](https://www.pnas.org/doi/10.1073/pnas.2212794120)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

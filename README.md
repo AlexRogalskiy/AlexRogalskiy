@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Lost John Coltrane recording, from experimental phase with Eric Dolphy, emerges](https://www.npr.org/2023/05/31/1179098682/john-coltrane-eric-dolphy-village-gate-1961-lost-album)
-- [FAA seeks public input on drone operations](https://www.faa.gov/newsroom/faa-seeks-public-input-drone-operations)
-- [More malicious extensions in Chrome Web Store](https://palant.info/2023/05/31/more-malicious-extensions-in-chrome-web-store/)
-- [FTC says Ring employees illegally surveilled customers, failed to stop hackers](https://www.ftc.gov/news-events/news/press-releases/2023/05/ftc-says-ring-employees-illegally-surveilled-customers-failed-stop-hackers-taking-control-users)
-- [DARPA hacked a science writer’s brain and turned her into a sharpshooter](https://thebulletin.org/2023/05/qa-how-darpa-hacked-a-science-writers-brain-and-turned-her-into-a-sharpshooter/)
-- [Project MF: A simulation of analog SF&amp;#x2F;MF telephone signaling](http://www.projectmf.org/)
-- [OpenAPI v4 &lpar;aka Moonwalk&rpar; Proposal](https://github.com/OAI/moonwalk)
-- [Japan Goes All In: Copyright Doesn’t Apply to AI Training](https://technomancers.ai/japan-goes-all-in-copyright-doesnt-apply-to-ai-training/)
-- [Teddit – An alternative Reddit front-end focused on privacy](https://codeberg.org/teddit/teddit)
-- [1000W 12V –&amp;gt; 220V Inverter](https://www.instructables.com/DIY-Pure-Sine-Wave-Inverter/)
+- [It’s not wrong that &amp;quot;🤦🏼‍♂️&amp;quot;.length == 7 &lpar;2019&rpar;](https://hsivonen.fi/string-length/)
+- [The last days of Berlin’s gas streetlamps](https://www.atlasobscura.com/articles/gas-streetlamps-berlin)
+- [Usenet over NNCP](https://www.complete.org/usenet-over-nncp/)
+- [Vectorization: Introduction](https://cvw.cac.cornell.edu/vector/default)
+- [OpenAI Employee: GPT-4 has been static since March](https://twitter.com/OfficialLoganK/status/1663934947931897857)
+- [Was modern art a CIA psy-op? &lpar;2020&rpar;](https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/)
+- [Brave Browser introduces vertical tabs](https://brave.com/vertical-tabs/)
+- [Most important papers for quantitative traders](https://www.qmr.ai/most-important-papers-for-quantitative-traders/)
+- [Viable offspring derived from single unfertilized mammalian oocytes](https://www.pnas.org/doi/full/10.1073/pnas.2115248119)
+- [What are the enduring innovations of Lisp? &lpar;2022&rpar;](https://elliottslaughter.com/2022/12/lisp)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

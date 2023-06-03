@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Goodstein&#39;s Theorem](https://en.wikipedia.org/wiki/Goodstein%27s_theorem)
-- [Ask HN: Who Got Hired?](https://news.ycombinator.com/item?id=36160198)
-- [The growing pains of database architecture](https://www.figma.com/blog/how-figma-scaled-to-multiple-databases/)
-- [Firefox Multirow Bookmarks Toolbar](https://github.com/wekan/wekan/wiki/Firefox-Multirow-Bookmarks-Toolbar)
-- [Ex-Google Officer Says AI Is a Bigger Emergency Than Climate Change](https://www.businessinsider.com/ex-google-officer-ai-bigger-emergency-than-climate-change-2023-6)
-- [What Is A Woman?](https://twitter.com/realDailyWire/status/1664424891372941312)
-- [Reading Practice arrives on Google Play Books to help improve literacy skills](https://www.neowin.net/news/reading-practice-arrives-on-google-play-books-to-help-improve-literacy-skills/)
-- [Judge orders all AI-generated content must be declared and checked](https://techcrunch.com/2023/05/30/no-chatgpt-in-my-court-judge-orders-all-ai-generated-content-must-be-declared-and-checked/)
-- [Highlights of the Bee Interview with Elon](https://twitter.com/TitterDaily/status/1664125952287457280)
-- [Meta-analytic relations between personality and cognitive ability](https://www.pnas.org/doi/10.1073/pnas.2212794120)
+- [Ask HN: My ChatGPT plug-in is stuck in review limbo. What can I do about it?](https://news.ycombinator.com/item?id=36173154)
+- [Tensor Considered Harmful](http://nlp.seas.harvard.edu//NamedTensor.html)
+- [The distribution model is changing](https://www.ypsidanger.com/the-distribution-model-is-changing/)
+- [It’s the End of Computer Programming as We Know It. &lpar;and I Feel Fine.&rpar;](https://www.nytimes.com/2023/06/02/opinion/ai-coding.html)
+- [This Month with Nim: April and May 2023](https://nim-lang.org/blog/2023/06/02/this-month-with-nim.html)
+- [Utrecht to experiment with letting sex workers work from home](https://nltimes.nl/2023/06/02/utrecht-experiment-letting-sex-workers-work-home)
+- [John Reber: The Man Who Helped Save the Bay by Trying to Destroy It &lpar;2014&rpar;](https://www.foundsf.org/index.php?title=John_Reber:_The_Man_Who_Helped_Save_the_Bay_by_Trying_to_Destroy_It)
+- [Rarbg torrent site shut due to conflict in Ukraine due to hardship on both sides](https://rarbg.to/index80.php)
+- [The NixOS Foundation’s Call to Action: S3 Costs Require Community Support](https://discourse.nixos.org/t/the-nixos-foundations-call-to-action-s3-costs-require-community-support/28672)
+- [How to attract merchants to a new ecommerce marketplace?](https://news.ycombinator.com/item?id=36172992)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

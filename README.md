@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Is Manchester City’s dominance of English football fair? – podcast](https://www.theguardian.com/news/audio/2023/jun/02/is-manchester-city-dominance-english-football-fair-podcast)
-- [Taiwan hails ‘comprehensive’ trade deal with US as China issues warning](https://www.theguardian.com/world/2023/jun/02/taiwan-hails-comprehensive-trade-deal-with-us-as-china-issues-warning)
-- [US military drone controlled by AI killed its operator during simulated test](https://www.theguardian.com/us-news/2023/jun/01/us-military-drone-ai-killed-operator-simulated-test)
-- [Elon Musk accused of insider trading in Dogecoin lawsuit](https://www.theguardian.com/technology/2023/jun/01/elon-musk-insider-trading-dogecoin-lawsuit)
-- [Senate begins voting on debt ceiling bill to avert disastrous default](https://www.theguardian.com/us-news/2023/jun/01/senate-debt-ceiling-vote-thursday-chuck-schumer)
-- [Russia-Ukraine war at a glance: what we know on day 464 of the invasion](https://www.theguardian.com/world/2023/jun/02/russia-ukraine-war-at-a-glance-what-we-know-on-day-464-of-the-invasion)
-- [David Beckham makes ‘tough decision’ as he sacks Phil Neville at Inter Miami](https://www.theguardian.com/football/2023/jun/02/mls-inter-miami-phil-neville-sacked-david-beckham)
-- [Bill Cosby accused of drugging and sexually assaulting woman in 1969](https://www.theguardian.com/world/2023/jun/01/bill-cosby-lawsuit-sexual-assault)
-- [Chris Ofili: The Seven Deadly Sins review – sacred, seductive and sensational](https://www.theguardian.com/artanddesign/2023/jun/02/chris-ofili-seven-deadly-sins-review-victoria-miro)
-- [Fox News to host Trump town hall in key test for beleaguered network](https://www.theguardian.com/us-news/2023/jun/01/fox-news-trump-town-hall-iowa)
+- [At least 233 people killed and hundreds injured in train crash in eastern India](https://www.theguardian.com/world/2023/jun/02/dozens-killed-in-train-crash-in-eastern-india)
+- [Protest over Pride month assembly at Los Angeles school turns violent](https://www.theguardian.com/us-news/2023/jun/02/los-angeles-school-pride-assembly-protest)
+- [Russia-Ukraine war at a glance: what we know on day 465 of the invasion](https://www.theguardian.com/world/2023/jun/03/russia-ukraine-war-at-a-glance-what-we-know-on-day-465-of-the-invasion)
+- [Biden praises passage of debt ceiling bill in Oval Office address ahead of signing it](https://www.theguardian.com/us-news/2023/jun/02/biden-debt-ceiling-bill-oval-office)
+- [US colonel retracts comments on simulated drone attack ‘thought experiment’](https://www.theguardian.com/us-news/2023/jun/02/us-air-force-colonel-misspoke-drone-killing-pilot)
+- [Talking Horses: Dubai Mile can break Johnston’s Epsom hoodoo](https://www.theguardian.com/sport/2023/jun/02/frankie-dettori-lands-oaks-on-soul-sister-in-his-final-year-in-the-saddle-the-derby-horse-racing)
+- [UK shoppers warned of delivery app markup on supermarket goods](https://www.theguardian.com/business/2023/jun/03/delivery-apps-supermarket-goods-markup-which)
+- [Don’t Look Up director Adam McKay to triple donations to Just Stop Oil](https://www.theguardian.com/environment/2023/jun/02/dont-look-up-director-adam-mckay-to-triple-donations-to-just-stop-oil)
+- [Manhunt launched after woman fatally stabbed in Greater Manchester](https://www.theguardian.com/uk-news/2023/jun/02/manhunt-launched-after-woman-fatally-stabbed-in-droylsden-manchester)
+- [Pep Guardiola urges City fans to have ‘right portion of beer’ and behave](https://www.theguardian.com/football/2023/jun/02/pep-guardiola-urges-city-fans-to-have-right-portion-of-beer-and-behave)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

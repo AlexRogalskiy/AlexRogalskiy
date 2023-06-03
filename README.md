@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [How many jobs are available in technology in the US?](https://www.computerworld.com/article/3542681/how-many-jobs-are-available-in-technology.html#tk.rss_all)
+- [WWDC: Morgan Stanley says December launch for Apple Reality](https://www.computerworld.com/article/3698473/wwdc-morgan-stanley-says-december-launch-for-apple-reality.html#tk.rss_all)
+- [EU, US lawmakers propose AI code of conduct in absence of regulation](https://www.computerworld.com/article/3698474/eu-us-lawmakers-propose-ai-code-of-conduct-in-absence-of-regulation.html#tk.rss_all)
+- [7 efficiency-enhancing Android apps](https://www.computerworld.com/article/3208108/android-apps-efficiency-timesaving.html#tk.rss_all)
+- [Nvidia Neuralangelo: A faster path to the industrial metaverse](https://www.computerworld.com/article/3698528/nvidia-neuralangelo-faster-path-to-industrial-metaverse.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [Asana adds news AI capabilities, outlines company’s product principles](https://www.computerworld.com/article/3698471/asana-adds-news-ai-capabilities-outlines-company-s-product-principles.html#tk.rss_all)
 - [Microsoft launches Apple community for IT admins](https://www.computerworld.com/article/3698450/microsoft-launches-apple-community-for-it-admins.html#tk.rss_all)
 - [Who wants a regular laptop with a 100-in. screen?](https://www.computerworld.com/article/3697908/who-wants-a-regular-laptop-with-a-100-in-screen.html#tk.rss_all)
 - [Q&amp;A: Experts say stopping AI is not possible — or desirable](https://www.computerworld.com/article/3697691/qa-experts-say-stopping-ai-is-not-possible-or-desirable.html#tk.rss_all)
-- [US working on new laws to ban investments in Chinese tech firms](https://www.computerworld.com/article/3698270/us-working-on-new-laws-to-ban-investments-in-chinese-tech-firms.html#tk.rss_all)
-- [Amazon workers walk out to protest return-to-work policy, climate change](https://www.computerworld.com/article/3698268/amazon-workers-walk-out-to-protest-return-to-work-policy-climate-change.html#tk.rss_all)
-- [WWDC: Apple gets back to the Mac in PC sales attack](https://www.computerworld.com/article/3697813/wwdc-apple-gets-back-to-the-mac-in-pc-sales-attack.html#tk.rss_all)
-- [20 seconds to smarter Chromebook multitasking](https://www.computerworld.com/article/3697855/smarter-chromebook-multitasking.html#tk.rss_all)
-- [The metaverse: Not dead yet](https://www.computerworld.com/article/3697812/metaverse-not-dead-yet.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [It’s not wrong that &amp;quot;🤦🏼‍♂️&amp;quot;.length == 7 &lpar;2019&rpar;](https://hsivonen.fi/string-length/)
-- [The last days of Berlin’s gas streetlamps](https://www.atlasobscura.com/articles/gas-streetlamps-berlin)
-- [Usenet over NNCP](https://www.complete.org/usenet-over-nncp/)
-- [Vectorization: Introduction](https://cvw.cac.cornell.edu/vector/default)
-- [OpenAI Employee: GPT-4 has been static since March](https://twitter.com/OfficialLoganK/status/1663934947931897857)
-- [Was modern art a CIA psy-op? &lpar;2020&rpar;](https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/)
-- [Brave Browser introduces vertical tabs](https://brave.com/vertical-tabs/)
-- [Most important papers for quantitative traders](https://www.qmr.ai/most-important-papers-for-quantitative-traders/)
-- [Viable offspring derived from single unfertilized mammalian oocytes](https://www.pnas.org/doi/full/10.1073/pnas.2115248119)
-- [What are the enduring innovations of Lisp? &lpar;2022&rpar;](https://elliottslaughter.com/2022/12/lisp)
+- [The NixOS Foundation’s Call to Action: S3 Costs Require Community Support](https://discourse.nixos.org/t/the-nixos-foundations-call-to-action-s3-costs-require-community-support/28672)
+- [Asia Sentinel Blocked in Singapore](https://www.asiasentinel.com/p/asia-sentinel-blocked-singapore)
+- [Vectorious: BLAS-accelerated linear algebra for TypeScript](https://github.com/mateogianolio/vectorious)
+- [Teen neurostimulation of dopamine circuit reverses genetic deficits in PF cortex](https://elifesciences.org/reviewed-preprints/87414v1)
+- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Chief of Staff](https://news.ycombinator.com/item?id=36172672)
+- [Caltech&#39;s Space Solar Power Demonstrator Wirelessly Transmits Power in Space](https://www.caltech.edu/about/news/in-a-first-caltechs-space-solar-power-demonstrator-wirelessly-transmits-power-in-space)
+- [Intelligent Brains Take Longer to Solve Difficult Problems](https://www.bihealth.org/en/notices/intelligent-brains-take-longer-to-solve-difficult-problems)
+- [Tomb Raider](https://www.filfre.net/2023/06/tomb-raider/)
+- [Brazil develops tropical wheat and predicts self-sufficiency in 5 years](https://ukragroconsult.com/en/news/brazil-develops-tropical-wheat-and-predicts-self-sufficiency-in-5-years/)
+- [Calling time on DNSSEC: The costs exceed the benefits](https://www.mattb.nz/w/2023/06/02/calling-time-on-dnssec/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

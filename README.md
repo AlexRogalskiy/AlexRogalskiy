@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [At least 233 people killed and hundreds injured in train crash in eastern India](https://www.theguardian.com/world/2023/jun/02/dozens-killed-in-train-crash-in-eastern-india)
-- [Protest over Pride month assembly at Los Angeles school turns violent](https://www.theguardian.com/us-news/2023/jun/02/los-angeles-school-pride-assembly-protest)
-- [Russia-Ukraine war at a glance: what we know on day 465 of the invasion](https://www.theguardian.com/world/2023/jun/03/russia-ukraine-war-at-a-glance-what-we-know-on-day-465-of-the-invasion)
-- [Biden praises passage of debt ceiling bill in Oval Office address ahead of signing it](https://www.theguardian.com/us-news/2023/jun/02/biden-debt-ceiling-bill-oval-office)
-- [US colonel retracts comments on simulated drone attack ‘thought experiment’](https://www.theguardian.com/us-news/2023/jun/02/us-air-force-colonel-misspoke-drone-killing-pilot)
-- [Talking Horses: Dubai Mile can break Johnston’s Epsom hoodoo](https://www.theguardian.com/sport/2023/jun/02/frankie-dettori-lands-oaks-on-soul-sister-in-his-final-year-in-the-saddle-the-derby-horse-racing)
-- [UK shoppers warned of delivery app markup on supermarket goods](https://www.theguardian.com/business/2023/jun/03/delivery-apps-supermarket-goods-markup-which)
-- [Don’t Look Up director Adam McKay to triple donations to Just Stop Oil](https://www.theguardian.com/environment/2023/jun/02/dont-look-up-director-adam-mckay-to-triple-donations-to-just-stop-oil)
-- [Manhunt launched after woman fatally stabbed in Greater Manchester](https://www.theguardian.com/uk-news/2023/jun/02/manhunt-launched-after-woman-fatally-stabbed-in-droylsden-manchester)
-- [Pep Guardiola urges City fans to have ‘right portion of beer’ and behave](https://www.theguardian.com/football/2023/jun/02/pep-guardiola-urges-city-fans-to-have-right-portion-of-beer-and-behave)
+- [Li Shangfu: China’s defence minister at Shangri-La Dialogue warns of ‘cold war mentality’ in digs at US](https://www.theguardian.com/world/2023/jun/04/li-shangfu-chinas-defence-minister-at-shangri-la-dialogue-warns-of-cold-war-mentality-in-digs-at-us)
+- [Russia-Ukraine war at a glance: what we know on day 466 of the invasion](https://www.theguardian.com/world/2023/jun/04/russia-ukraine-war-at-a-glance-what-we-know-on-day-466-of-the-invasion)
+- [‘Roast and Ride’: Republican primary revs up with bikers, BBQs and a Trump-shaped hole](https://www.theguardian.com/us-news/2023/jun/04/republican-presidential-primary-revs-up-with-bikers-bbqs-and-a-donald-trump-shaped-hole)
+- [River Plate match abandoned after fan falls from stand and dies](https://www.theguardian.com/football/2023/jun/04/river-plate-match-abandoned-fan-falls-and-dies-argentina)
+- [Dnipro explosion leaves Ukrainian rescuers digging in rubble for survivors](https://www.theguardian.com/world/2023/jun/04/dnipro-explosion-leaves-ukrainian-rescuers-digging-in-rubble-for-survivors)
+- [The CBI’s boss must battle not just its culture, but the competition too](https://www.theguardian.com/business/2023/jun/04/the-cbis-boss-must-battle-not-just-its-culture-but-the-competition-too)
+- [Statement earrings: 20 of the best standout ear candy – in pictures](https://www.theguardian.com/fashion/gallery/2023/jun/03/statement-earrings-20-of-the-best-standout-ear-candy-in-pictures)
+- [King Charles to give up home in Wales on edge of Bannau Brycheiniog](https://www.theguardian.com/uk-news/2023/jun/03/king-charles-to-give-up-home-in-wales-on-edge-of-brecon-beacons)
+- [Dua Lipa calls UK ministers’ comments on migrants ‘small-minded’](https://www.theguardian.com/politics/2023/jun/03/dua-lipa-calls-uk-ministers-comments-on-migrants-small-minded)
+- [Turkish president Recep Tayyip Erdoğan announces new cabinet](https://www.theguardian.com/world/2023/jun/03/turkish-president-recep-tayyip-erdogan-announces-new-cabinet)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ask HN: My ChatGPT plug-in is stuck in review limbo. What can I do about it?](https://news.ycombinator.com/item?id=36173154)
-- [Tensor Considered Harmful](http://nlp.seas.harvard.edu//NamedTensor.html)
-- [The distribution model is changing](https://www.ypsidanger.com/the-distribution-model-is-changing/)
-- [It’s the End of Computer Programming as We Know It. &lpar;and I Feel Fine.&rpar;](https://www.nytimes.com/2023/06/02/opinion/ai-coding.html)
-- [This Month with Nim: April and May 2023](https://nim-lang.org/blog/2023/06/02/this-month-with-nim.html)
-- [Utrecht to experiment with letting sex workers work from home](https://nltimes.nl/2023/06/02/utrecht-experiment-letting-sex-workers-work-home)
-- [John Reber: The Man Who Helped Save the Bay by Trying to Destroy It &lpar;2014&rpar;](https://www.foundsf.org/index.php?title=John_Reber:_The_Man_Who_Helped_Save_the_Bay_by_Trying_to_Destroy_It)
-- [Rarbg torrent site shut due to conflict in Ukraine due to hardship on both sides](https://rarbg.to/index80.php)
-- [The NixOS Foundation’s Call to Action: S3 Costs Require Community Support](https://discourse.nixos.org/t/the-nixos-foundations-call-to-action-s3-costs-require-community-support/28672)
-- [How to attract merchants to a new ecommerce marketplace?](https://news.ycombinator.com/item?id=36172992)
+- [Mortal Komputation: On Hinton&#39;s argument for superhuman AI](https://www.inference.vc/mortal-computation-hintons/)
+- [A Review of Sparse Expert Models in Deep Learning &lpar;2022&rpar;](https://arxiv.org/abs/2209.01667)
+- [Built to Maintain](https://www.whoatowow.com/2023/05/30/built-to-maintain.html)
+- [I Tried to Convince Chat-GPT I Was an Advanced AI from 100 Years in the Future](https://chat.openai.com/share/f3b7b745-4100-43c6-a55d-bcbd13090edf)
+- [Not 1940s WASP pilot Shirley Slade](https://fakehistoryhunter.net/2023/01/22/not-1940s-wasp-pilot-shirley-slade/)
+- [Patriot Pac-3 Hit-to-Kill Interceptors Also Pack an Obscure Explosive Warhead](https://www.thedrive.com/the-war-zone/patriot-pac-3-hit-to-kill-interceptors-also-pack-a-little-known-explosive-warhead)
+- [The Hackerstation of a Homebrew Dev](https://hackerstations.com/setups/mike_mcquaid/)
+- [The Lows of the High Life](https://www.newyorker.com/culture/the-weekend-essay/the-lows-of-the-high-life)
+- [Canadian fires intensified by record heat](https://www.washingtonpost.com/weather/2023/06/02/canada-wildfires-record-heat-climate/)
+- [Africans trained in China grapple with pro-Western bias on their return](https://www.semafor.com/article/06/01/2023/africans-trained-in-china-grapple-with-pro-western-bias)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

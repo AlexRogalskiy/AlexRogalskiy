@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The NixOS Foundation’s Call to Action: S3 Costs Require Community Support](https://discourse.nixos.org/t/the-nixos-foundations-call-to-action-s3-costs-require-community-support/28672)
-- [Asia Sentinel Blocked in Singapore](https://www.asiasentinel.com/p/asia-sentinel-blocked-singapore)
-- [Vectorious: BLAS-accelerated linear algebra for TypeScript](https://github.com/mateogianolio/vectorious)
-- [Teen neurostimulation of dopamine circuit reverses genetic deficits in PF cortex](https://elifesciences.org/reviewed-preprints/87414v1)
-- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Chief of Staff](https://news.ycombinator.com/item?id=36172672)
-- [Caltech&#39;s Space Solar Power Demonstrator Wirelessly Transmits Power in Space](https://www.caltech.edu/about/news/in-a-first-caltechs-space-solar-power-demonstrator-wirelessly-transmits-power-in-space)
-- [Intelligent Brains Take Longer to Solve Difficult Problems](https://www.bihealth.org/en/notices/intelligent-brains-take-longer-to-solve-difficult-problems)
-- [Tomb Raider](https://www.filfre.net/2023/06/tomb-raider/)
-- [Brazil develops tropical wheat and predicts self-sufficiency in 5 years](https://ukragroconsult.com/en/news/brazil-develops-tropical-wheat-and-predicts-self-sufficiency-in-5-years/)
-- [Calling time on DNSSEC: The costs exceed the benefits](https://www.mattb.nz/w/2023/06/02/calling-time-on-dnssec/)
+- [Atomic Wallet exploited, users report loss of entire portfolios](https://cointelegraph.com/news/atomic-wallet-exploited-users-report-loss-of-entire-portfolios)
+- [It Will Cost More Than Total Future Production to Clean Up California Oil Sites](https://www.propublica.org/article/cost-of-california-oil-cleanup-exceeds-industry-profits)
+- [Thought Cloning: Learning to think while acting by imitating human thinking](https://arxiv.org/abs/2306.00323)
+- [Induction of a torpor-like state in rodents by ultrasound](https://www.livescience.com/health/consciousness/scientists-may-be-able-to-put-mars-bound-astronauts-into-suspended-animation-using-sound-waves-mouse-study-suggests)
+- [Science and Technogy links &lpar;June 3 2023&rpar;](https://lemire.me/blog/2023/06/03/science-and-technogy-links-june-3-2023/)
+- [Manifesto on the Teaching of Mathematics](https://intellectualmathematics.com/manifesto/)
+- [The death of self-driving cars is greatly exaggerated](https://www.understandingai.org/p/the-death-of-self-driving-cars-is)
+- [GPS &lpar;2022&rpar;](https://ciechanow.ski/gps/)
+- [Sick Workers Connected to 41 Percent of Food Poisoning Outbreaks, CDC Reports](https://www.smithsonianmag.com/smart-news/sick-workers-connected-to-41-percent-of-food-poisoning-outbreaks-cdc-reports-180982283/)
+- [Still Love Telnet](https://bash-prompt.net/guides/telnet/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Mortal Komputation: On Hinton&#39;s argument for superhuman AI](https://www.inference.vc/mortal-computation-hintons/)
-- [A Review of Sparse Expert Models in Deep Learning &lpar;2022&rpar;](https://arxiv.org/abs/2209.01667)
-- [Built to Maintain](https://www.whoatowow.com/2023/05/30/built-to-maintain.html)
-- [I Tried to Convince Chat-GPT I Was an Advanced AI from 100 Years in the Future](https://chat.openai.com/share/f3b7b745-4100-43c6-a55d-bcbd13090edf)
-- [Not 1940s WASP pilot Shirley Slade](https://fakehistoryhunter.net/2023/01/22/not-1940s-wasp-pilot-shirley-slade/)
-- [Patriot Pac-3 Hit-to-Kill Interceptors Also Pack an Obscure Explosive Warhead](https://www.thedrive.com/the-war-zone/patriot-pac-3-hit-to-kill-interceptors-also-pack-a-little-known-explosive-warhead)
-- [The Hackerstation of a Homebrew Dev](https://hackerstations.com/setups/mike_mcquaid/)
-- [The Lows of the High Life](https://www.newyorker.com/culture/the-weekend-essay/the-lows-of-the-high-life)
-- [Canadian fires intensified by record heat](https://www.washingtonpost.com/weather/2023/06/02/canada-wildfires-record-heat-climate/)
-- [Africans trained in China grapple with pro-Western bias on their return](https://www.semafor.com/article/06/01/2023/africans-trained-in-china-grapple-with-pro-western-bias)
+- [Summer Camp Became Such a Hot Mess for Parents](https://www.bloomberg.com/news/features/2023-06-01/rising-2023-summer-camp-costs-show-waitlists-have-usurped-fun)
+- [Company Insiders Made Billions Before SPAC Bust](https://www.wsj.com/articles/company-insiders-made-billions-before-spac-bust-4607a869)
+- [Thoughts on Music &lpar;2007&rpar;](https://web.archive.org/web/20070207234839/http://www.apple.com/hotnews/thoughtsonmusic/)
+- [The Japanese firms and megabanks funding rainforest destruction](https://www.japantimes.co.jp/news/2023/06/04/business/rainforest-destruction-japanese-investments/)
+- [CAVE People](https://en.wikipedia.org/wiki/CAVE_people)
+- [Caribou Meat and Moon Signs: Inuit Lessons for Soldiers in the Arctic](https://www.nytimes.com/2023/06/04/world/canada/canada-military-arctic-climate.html)
+- [A beginner&#39;s guide to time travel](https://www.livescience.com/time-travel-beginners-guide.html)
+- [Ask HN: Selling software, how much long-term support should I provide?](https://news.ycombinator.com/item?id=36191482)
+- [How Australian cyber spies &#39;Rickrolled&#39; Islamic State militants in Iraq](https://www.abc.net.au/news/2023-06-05/australian-cyber-spies-disrupted-islamic-state-militants/102425324)
+- [Targeting Toyota for Its Electric-Vehicle Heresy](https://www.wsj.com/articles/targeting-toyota-for-its-electric-vehicle-heresy-akio-toyoda-hybrids-ev-climate-change-b5f67d6c)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

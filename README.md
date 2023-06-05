@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Li Shangfu: China’s defence minister at Shangri-La Dialogue warns of ‘cold war mentality’ in digs at US](https://www.theguardian.com/world/2023/jun/04/li-shangfu-chinas-defence-minister-at-shangri-la-dialogue-warns-of-cold-war-mentality-in-digs-at-us)
-- [Russia-Ukraine war at a glance: what we know on day 466 of the invasion](https://www.theguardian.com/world/2023/jun/04/russia-ukraine-war-at-a-glance-what-we-know-on-day-466-of-the-invasion)
-- [‘Roast and Ride’: Republican primary revs up with bikers, BBQs and a Trump-shaped hole](https://www.theguardian.com/us-news/2023/jun/04/republican-presidential-primary-revs-up-with-bikers-bbqs-and-a-donald-trump-shaped-hole)
-- [River Plate match abandoned after fan falls from stand and dies](https://www.theguardian.com/football/2023/jun/04/river-plate-match-abandoned-fan-falls-and-dies-argentina)
-- [Dnipro explosion leaves Ukrainian rescuers digging in rubble for survivors](https://www.theguardian.com/world/2023/jun/04/dnipro-explosion-leaves-ukrainian-rescuers-digging-in-rubble-for-survivors)
-- [The CBI’s boss must battle not just its culture, but the competition too](https://www.theguardian.com/business/2023/jun/04/the-cbis-boss-must-battle-not-just-its-culture-but-the-competition-too)
-- [Statement earrings: 20 of the best standout ear candy – in pictures](https://www.theguardian.com/fashion/gallery/2023/jun/03/statement-earrings-20-of-the-best-standout-ear-candy-in-pictures)
-- [King Charles to give up home in Wales on edge of Bannau Brycheiniog](https://www.theguardian.com/uk-news/2023/jun/03/king-charles-to-give-up-home-in-wales-on-edge-of-brecon-beacons)
-- [Dua Lipa calls UK ministers’ comments on migrants ‘small-minded’](https://www.theguardian.com/politics/2023/jun/03/dua-lipa-calls-uk-ministers-comments-on-migrants-small-minded)
-- [Turkish president Recep Tayyip Erdoğan announces new cabinet](https://www.theguardian.com/world/2023/jun/03/turkish-president-recep-tayyip-erdogan-announces-new-cabinet)
+- [Russia-Ukraine war live: Moscow claims to have repelled ‘major’ attack in Donetsk; Belgorod energy facility on fire](https://www.theguardian.com/world/live/2023/jun/05/russia-ukraine-war-live-moscow-claims-to-have-repelled-major-attack-in-donetsk-belgorod-energy-facility-on-fire)
+- [NBA finals Game 2: Miami Heat v Denver Nuggets – live](https://www.theguardian.com/sport/live/2023/jun/04/nba-finals-2023-game-2-miami-heat-denver-nuggets-live-score-nikola-jokic-jimmy-butler)
+- [Barbie film required so much pink paint it contributed to worldwide shortage](https://www.theguardian.com/film/2023/jun/05/barbie-film-required-so-much-pink-paint-it-contributed-to-worldwide-shortage)
+- [Our critics’ guide to a summer of music, movies and culture - podcast](https://www.theguardian.com/news/audio/2023/jun/05/our-critics-guide-to-a-summer-of-music-movies-and-culture-podcast)
+- [Kathleen Folbigg pardoned and released after 20 years in jail over deaths of her four children](https://www.theguardian.com/australia-news/2023/jun/05/kathleen-folbigg-pardoned-after-20-years-in-jail-over-deaths-of-her-four-children)
+- [Brazil police charge alleged mastermind behind murders of Dom Phillips and Bruno Pereira](https://www.theguardian.com/world/2023/jun/05/brazil-police-charge-alleged-mastermind-behind-murders-of-dom-phillips-and-bruno-pereira)
+- [Nearly 80 primary schoolgirls believed poisoned in Afghanistan](https://www.theguardian.com/world/2023/jun/05/nearly-80-primary-schoolgirls-believed-poisoned-in-afghanistan)
+- [Sudan fighting escalates after breakdown in ceasefire talks](https://www.theguardian.com/world/2023/jun/05/sudan-fighting-escalates-after-breakdown-in-ceasefire-talks)
+- [Pressure builds on Johnny Kitagawa’s J-pop agency to address abuse claims](https://www.theguardian.com/world/2023/jun/05/pressure-builds-on-johnny-kitagawas-j-pop-agency-to-address-abuse-claims)
+- [Hovland beats McCarthy in Memorial playoff after McIlroy falls away](https://www.theguardian.com/sport/2023/jun/05/hovland-beats-mccarthy-in-memorial-playoff-after-mcilroy-falls-away)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

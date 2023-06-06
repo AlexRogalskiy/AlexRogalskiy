@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [With Vision Pro, Apple shows computing&#39;s future. But who&#39;s it for?](https://www.computerworld.com/article/3698690/with-vision-pro-apple-shows-computings-future-but-whos-it-for.html#tk.rss_all)
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [Tech layoffs in 2023: A timeline](https://www.computerworld.com/article/3685936/tech-layoffs-in-2023-a-timeline.html#tk.rss_all)
+- [EU countries reject plan for big tech companies to fund 5G rollout](https://www.networkworld.com/article/3698531/eu-countries-reject-plan-for-big-tech-companies-to-fund-5g-rollout.html#tk.rss_all)
+- [Governments worldwide grapple with regulation to rein in AI dangers](https://www.computerworld.com/article/3698191/governments-worldwide-grapple-with-regulation-to-rein-in-ai-dangers.html#tk.rss_all)
 - [How many jobs are available in technology in the US?](https://www.computerworld.com/article/3542681/how-many-jobs-are-available-in-technology.html#tk.rss_all)
 - [WWDC: Morgan Stanley says December launch for Apple Reality](https://www.computerworld.com/article/3698473/wwdc-morgan-stanley-says-december-launch-for-apple-reality.html#tk.rss_all)
 - [EU, US lawmakers propose AI code of conduct in absence of regulation](https://www.computerworld.com/article/3698474/eu-us-lawmakers-propose-ai-code-of-conduct-in-absence-of-regulation.html#tk.rss_all)
 - [7 efficiency-enhancing Android apps](https://www.computerworld.com/article/3208108/android-apps-efficiency-timesaving.html#tk.rss_all)
 - [Nvidia Neuralangelo: A faster path to the industrial metaverse](https://www.computerworld.com/article/3698528/nvidia-neuralangelo-faster-path-to-industrial-metaverse.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [Asana adds news AI capabilities, outlines company’s product principles](https://www.computerworld.com/article/3698471/asana-adds-news-ai-capabilities-outlines-company-s-product-principles.html#tk.rss_all)
-- [Microsoft launches Apple community for IT admins](https://www.computerworld.com/article/3698450/microsoft-launches-apple-community-for-it-admins.html#tk.rss_all)
-- [Who wants a regular laptop with a 100-in. screen?](https://www.computerworld.com/article/3697908/who-wants-a-regular-laptop-with-a-100-in-screen.html#tk.rss_all)
-- [Q&amp;A: Experts say stopping AI is not possible — or desirable](https://www.computerworld.com/article/3697691/qa-experts-say-stopping-ai-is-not-possible-or-desirable.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

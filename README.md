@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The Meltdown at CNN](https://www.theatlantic.com/politics/archive/2023/06/cnn-ratings-chris-licht-trump/674255/)
-- [Response to “Developers are lazy, thus Flatpak”](https://theevilskeleton.gitlab.io/2023/06/04/response-to-developers-are-lazy-thus-flatpak.html)
-- [The boxes of Hock Wah Yeo &lpar;2021&rpar;](https://obscuritory.com/essay/incredible-boxes-of-hock-wah-yeo/)
-- [Book Review: Applied Math for Security](https://dustri.org/b/book-review-applied-math-for-security.html)
-- [Do we need copyright? &lpar;2012&rpar;](https://lemire.me/blog/2012/03/22/do-we-need-copyright/)
-- [The culture map: How to navigate foreign cultures in business](https://ahalbert.com/reviews/2023/06/04/the_culture_map.html)
-- [Social media for AI bots: “No humans allowed”](https://www.fry-ai.com/p/social-media-no-humans-allowed)
-- [Live dashboard of carbon dioxide removal purchases](https://www.cdr.fyi/)
-- [Blink 1.0](https://github.com/jart/blink/releases/tag/1.0.0)
-- [eBPF for Cybersecurity – Part 1](https://blog.cloudnativefolks.org/ebpf-for-cybersecurity-part-1)
+- [Get ready for AWS IPv6 day](https://aws.amazon.com/blogs/networking-and-content-delivery/get-ready-for-aws-ipv6-day/)
+- [Apple Vision Pro: I Tried the New Mixed-Reality Headset](https://www.wsj.com/articles/apple-vision-pro-i-tried-the-new-mixed-reality-headset-f49a8811)
+- [Ask HN: Rust or C or C++ in 2023?](https://news.ycombinator.com/item?id=36206908)
+- [A confession exposes India’s hacking industry](https://www.newyorker.com/news/annals-of-crime/a-confession-exposes-indias-secret-hacking-industry)
+- [Preparing for the Incoming Computer Shopper Tsunami](http://ascii.textfiles.com/archives/5543)
+- [Health industry responds to data privacy crackdown](https://www.politico.com/news/2023/04/17/health-industry-data-privacy-00092447)
+- [Tutorial: Teaching and Learning Compilers Incrementally](https://iucompilercourse.github.io/tutorial-web-page/)
+- [Demo: Fully P2P and open source Reddit alternative](https://plebbit-test.netlify.app)
+- [macOS 14 will support JPEG XL](https://twitter.com/jonsneyers/status/1665792517613256705)
+- [Some blogging myths](https://jvns.ca/blog/2023/06/05/some-blogging-myths/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

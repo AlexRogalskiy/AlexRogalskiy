@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war live: Moscow claims to have repelled ‘major’ attack in Donetsk; Belgorod energy facility on fire](https://www.theguardian.com/world/live/2023/jun/05/russia-ukraine-war-live-moscow-claims-to-have-repelled-major-attack-in-donetsk-belgorod-energy-facility-on-fire)
-- [NBA finals Game 2: Miami Heat v Denver Nuggets – live](https://www.theguardian.com/sport/live/2023/jun/04/nba-finals-2023-game-2-miami-heat-denver-nuggets-live-score-nikola-jokic-jimmy-butler)
-- [Barbie film required so much pink paint it contributed to worldwide shortage](https://www.theguardian.com/film/2023/jun/05/barbie-film-required-so-much-pink-paint-it-contributed-to-worldwide-shortage)
-- [Our critics’ guide to a summer of music, movies and culture - podcast](https://www.theguardian.com/news/audio/2023/jun/05/our-critics-guide-to-a-summer-of-music-movies-and-culture-podcast)
-- [Kathleen Folbigg pardoned and released after 20 years in jail over deaths of her four children](https://www.theguardian.com/australia-news/2023/jun/05/kathleen-folbigg-pardoned-after-20-years-in-jail-over-deaths-of-her-four-children)
-- [Brazil police charge alleged mastermind behind murders of Dom Phillips and Bruno Pereira](https://www.theguardian.com/world/2023/jun/05/brazil-police-charge-alleged-mastermind-behind-murders-of-dom-phillips-and-bruno-pereira)
-- [Nearly 80 primary schoolgirls believed poisoned in Afghanistan](https://www.theguardian.com/world/2023/jun/05/nearly-80-primary-schoolgirls-believed-poisoned-in-afghanistan)
-- [Sudan fighting escalates after breakdown in ceasefire talks](https://www.theguardian.com/world/2023/jun/05/sudan-fighting-escalates-after-breakdown-in-ceasefire-talks)
-- [Pressure builds on Johnny Kitagawa’s J-pop agency to address abuse claims](https://www.theguardian.com/world/2023/jun/05/pressure-builds-on-johnny-kitagawas-j-pop-agency-to-address-abuse-claims)
-- [Hovland beats McCarthy in Memorial playoff after McIlroy falls away](https://www.theguardian.com/sport/2023/jun/05/hovland-beats-mccarthy-in-memorial-playoff-after-mcilroy-falls-away)
+- [What is the UK government hiding from the Covid inquiry? – podcast](https://www.theguardian.com/news/audio/2023/jun/06/what-is-the-uk-government-hiding-from-the-covid-inquiry-podcast)
+- [My life was turned upside down by Beijing threats, wife of Chinese ex-official tells US court](https://www.theguardian.com/world/2023/jun/06/china-operation-fox-hunt-beijing-dissident-threats-chinese-government-us-court-case)
+- [Ukraine’s troops attack along front in apparent precursor to counteroffensive](https://www.theguardian.com/world/2023/jun/05/ukrainian-troops-launch-attacks-along-donetsk-frontline)
+- [Concussion in grassroots sport to be tracked by UK government](https://www.theguardian.com/sport/2023/jun/06/concussion-grassroots-sport-tracked-uk-government-sportsmart-app)
+- [How Australian fashion fell to pieces: a timeline](https://www.theguardian.com/fashion/ng-interactive/2023/jun/06/how-australian-fashion-fell-to-pieces-history-timeline)
+- [Russia-Ukraine war at a glance: what we know on day 468 of the invasion](https://www.theguardian.com/world/2023/jun/06/russia-ukraine-war-at-a-glance-what-we-know-on-day-468-of-the-invasion)
+- [Robert Hanssen, ex-FBI agent convicted of spying for Moscow, dies in prison](https://www.theguardian.com/us-news/2023/jun/05/robert-hanssen-fbi-agent-moscow-spy-dies)
+- [Hard-pressed UK shoppers feel food ‘shrinkflation’](https://www.theguardian.com/business/2023/jun/06/hard-pressed-shoppers-feel-food-shrinkflation)
+- [Jim Hines, the first man to break 10 seconds in 100m sprint, dies aged 76](https://www.theguardian.com/sport/2023/jun/05/jim-hines-athletics-olympics-first-man-break-10-seconds-100m-sprint-dies-aged-76)
+- [Colorado protesters demand that governor issue order banning all guns](https://www.theguardian.com/us-news/2023/jun/05/colorado-total-gun-ban-demand)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

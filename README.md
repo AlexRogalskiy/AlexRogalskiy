@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Summer Camp Became Such a Hot Mess for Parents](https://www.bloomberg.com/news/features/2023-06-01/rising-2023-summer-camp-costs-show-waitlists-have-usurped-fun)
-- [Company Insiders Made Billions Before SPAC Bust](https://www.wsj.com/articles/company-insiders-made-billions-before-spac-bust-4607a869)
-- [Thoughts on Music &lpar;2007&rpar;](https://web.archive.org/web/20070207234839/http://www.apple.com/hotnews/thoughtsonmusic/)
-- [The Japanese firms and megabanks funding rainforest destruction](https://www.japantimes.co.jp/news/2023/06/04/business/rainforest-destruction-japanese-investments/)
-- [CAVE People](https://en.wikipedia.org/wiki/CAVE_people)
-- [Caribou Meat and Moon Signs: Inuit Lessons for Soldiers in the Arctic](https://www.nytimes.com/2023/06/04/world/canada/canada-military-arctic-climate.html)
-- [A beginner&#39;s guide to time travel](https://www.livescience.com/time-travel-beginners-guide.html)
-- [Ask HN: Selling software, how much long-term support should I provide?](https://news.ycombinator.com/item?id=36191482)
-- [How Australian cyber spies &#39;Rickrolled&#39; Islamic State militants in Iraq](https://www.abc.net.au/news/2023-06-05/australian-cyber-spies-disrupted-islamic-state-militants/102425324)
-- [Targeting Toyota for Its Electric-Vehicle Heresy](https://www.wsj.com/articles/targeting-toyota-for-its-electric-vehicle-heresy-akio-toyoda-hybrids-ev-climate-change-b5f67d6c)
+- [Low-Background Steel](https://en.wikipedia.org/wiki/Low-background_steel)
+- [Safari 17 Beta Release Notes](https://developer.apple.com/documentation/safari-release-notes/safari-17-release-notes)
+- [Why copyright might finally be on it&#39;s way out in the age of AI](https://gkegke.github.io/?postId=5)
+- [Get ready for AWS IPv6 day](https://aws.amazon.com/blogs/networking-and-content-delivery/get-ready-for-aws-ipv6-day/)
+- [A 27-inch display in a briefcase](https://liliputing.com/lg-stanbyme-go-is-a-27-inch-portable-adjustable-display-in-a-briefacase/)
+- [I wore the Apple Vision Pro. It’s the best headset demo ever](https://www.theverge.com/2023/6/5/23750003/apple-vision-pro-hands-on-the-best-headset-demo-ever)
+- [Learn Web Development](https://web.dev/learn/)
+- [Show HN: Smarter Sales- a Solution for Streamlining Feedback After Sales Calls](https://news.ycombinator.com/item?id=36207308)
+- [There’s No Easy Exit for Companies Backed by PE and VC](https://www.institutionalinvestor.com/article/b8yzgybyxxrcmn/There-s-No-Easy-Exit-for-Companies-Backed-by-PE-and-VC)
+- [Accessibility: Feedback on Apple&#39;s beta operating systems, with Feedback ID&#39;s](https://tweesecake.social/@devinprater/110494038074554871)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

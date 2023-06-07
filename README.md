@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [How AI-based search assistant Glean Chat is built to boost productivity](https://www.computerworld.com/article/3698711/how-ai-based-search-assistant-glean-chat-is-built-to-boost-productivity.html#tk.rss_all)
+- [Apple Silicon remains the star of WWDC](https://www.computerworld.com/article/3698290/apple-silicon-remains-the-star-of-wwdc.html#tk.rss_all)
+- [IT is driving new enterprise sustainability efforts](https://www.computerworld.com/article/3696233/it-is-driving-new-enterprise-sustainability-efforts.html#tk.rss_all)
+- [Users unable to access Outlook, Teams in another M365 outage](https://www.computerworld.com/article/3698693/users-unable-to-access-outlook-teams-in-another-m365-outage.html#tk.rss_all)
 - [With Vision Pro, Apple shows computing&#39;s future. But who&#39;s it for?](https://www.computerworld.com/article/3698690/with-vision-pro-apple-shows-computings-future-but-whos-it-for.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [Tech layoffs in 2023: A timeline](https://www.computerworld.com/article/3685936/tech-layoffs-in-2023-a-timeline.html#tk.rss_all)
 - [EU countries reject plan for big tech companies to fund 5G rollout](https://www.networkworld.com/article/3698531/eu-countries-reject-plan-for-big-tech-companies-to-fund-5g-rollout.html#tk.rss_all)
 - [Governments worldwide grapple with regulation to rein in AI dangers](https://www.computerworld.com/article/3698191/governments-worldwide-grapple-with-regulation-to-rein-in-ai-dangers.html#tk.rss_all)
 - [How many jobs are available in technology in the US?](https://www.computerworld.com/article/3542681/how-many-jobs-are-available-in-technology.html#tk.rss_all)
-- [WWDC: Morgan Stanley says December launch for Apple Reality](https://www.computerworld.com/article/3698473/wwdc-morgan-stanley-says-december-launch-for-apple-reality.html#tk.rss_all)
-- [EU, US lawmakers propose AI code of conduct in absence of regulation](https://www.computerworld.com/article/3698474/eu-us-lawmakers-propose-ai-code-of-conduct-in-absence-of-regulation.html#tk.rss_all)
-- [7 efficiency-enhancing Android apps](https://www.computerworld.com/article/3208108/android-apps-efficiency-timesaving.html#tk.rss_all)
-- [Nvidia Neuralangelo: A faster path to the industrial metaverse](https://www.computerworld.com/article/3698528/nvidia-neuralangelo-faster-path-to-industrial-metaverse.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

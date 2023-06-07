@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Get ready for AWS IPv6 day](https://aws.amazon.com/blogs/networking-and-content-delivery/get-ready-for-aws-ipv6-day/)
-- [Apple Vision Pro: I Tried the New Mixed-Reality Headset](https://www.wsj.com/articles/apple-vision-pro-i-tried-the-new-mixed-reality-headset-f49a8811)
-- [Ask HN: Rust or C or C++ in 2023?](https://news.ycombinator.com/item?id=36206908)
-- [A confession exposes India’s hacking industry](https://www.newyorker.com/news/annals-of-crime/a-confession-exposes-indias-secret-hacking-industry)
-- [Preparing for the Incoming Computer Shopper Tsunami](http://ascii.textfiles.com/archives/5543)
-- [Health industry responds to data privacy crackdown](https://www.politico.com/news/2023/04/17/health-industry-data-privacy-00092447)
-- [Tutorial: Teaching and Learning Compilers Incrementally](https://iucompilercourse.github.io/tutorial-web-page/)
-- [Demo: Fully P2P and open source Reddit alternative](https://plebbit-test.netlify.app)
-- [macOS 14 will support JPEG XL](https://twitter.com/jonsneyers/status/1665792517613256705)
-- [Some blogging myths](https://jvns.ca/blog/2023/06/05/some-blogging-myths/)
+- [Microsoft has no shame: Bing spit on my ‘Chrome’ search with a fake AI answer](https://www.theverge.com/2023/6/6/23736289/microsoft-bing-chrome-search-fake-ai-chatbot)
+- [Antarctica gained 600 Gt of ice during &#39;09-&#39;19 vs. a prediction of a 20k Gt loss](https://tc.copernicus.org/articles/17/2059/2023/)
+- [Linux Audio Noise suppression using deep filtering in Rust](https://github.com/Rikorose/DeepFilterNet)
+- [Santé &lpar;YC S23&rpar; Is Hiring – Build a Modern POS](https://www.ycombinator.com/companies/sante/jobs/Q1i7Iz0-founding-engineer-full-stack)
+- [I hate almost all software &lpar;2011&rpar;](https://tinyclouds.org/rant)
+- [TelaMalloc: Efficient On-Chip Memory Allocation for Production ML Accelerators](https://www.micahlerner.com/2023/04/16/telamalloc-efficient-on-chip-memory-allocation-for-production-machine-learning-accelerators.html)
+- [Notes on Vision Pro](https://notes.andymatuschak.org/Vision%20Pro)
+- [Ownership in Swift: Manifesto and meta-proposal](https://github.com/apple/swift/blob/main/docs/OwnershipManifesto.md)
+- [Redditor creates working anime QR codes using Stable Diffusion](https://arstechnica.com/information-technology/2023/06/redditor-creates-working-anime-qr-codes-using-stable-diffusion/)
+- [Early dispersal of domestic horses into the Great Plains and northern Rockies](https://fermatslibrary.com/s/early-dispersal-of-domestic-horses-into-the-great-plains-and-northern-rockies)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

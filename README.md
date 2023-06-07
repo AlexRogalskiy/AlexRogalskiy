@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Low-Background Steel](https://en.wikipedia.org/wiki/Low-background_steel)
-- [Safari 17 Beta Release Notes](https://developer.apple.com/documentation/safari-release-notes/safari-17-release-notes)
-- [Why copyright might finally be on it&#39;s way out in the age of AI](https://gkegke.github.io/?postId=5)
-- [Get ready for AWS IPv6 day](https://aws.amazon.com/blogs/networking-and-content-delivery/get-ready-for-aws-ipv6-day/)
-- [A 27-inch display in a briefcase](https://liliputing.com/lg-stanbyme-go-is-a-27-inch-portable-adjustable-display-in-a-briefacase/)
-- [I wore the Apple Vision Pro. It’s the best headset demo ever](https://www.theverge.com/2023/6/5/23750003/apple-vision-pro-hands-on-the-best-headset-demo-ever)
-- [Learn Web Development](https://web.dev/learn/)
-- [Show HN: Smarter Sales- a Solution for Streamlining Feedback After Sales Calls](https://news.ycombinator.com/item?id=36207308)
-- [There’s No Easy Exit for Companies Backed by PE and VC](https://www.institutionalinvestor.com/article/b8yzgybyxxrcmn/There-s-No-Easy-Exit-for-Companies-Backed-by-PE-and-VC)
-- [Accessibility: Feedback on Apple&#39;s beta operating systems, with Feedback ID&#39;s](https://tweesecake.social/@devinprater/110494038074554871)
+- [What is 3DoF screen mirroring, and what does XREAL Beam do?](https://old.reddit.com/r/Xreal/comments/13xgvnv/what_is_3dof_screen_mirroring_and_what_does_xreal/)
+- [You can use GPT-4 to automatically diagnose Python errors](https://gist.github.com/bramses/3bc23c6c601e7ad5b250c9f5054870d5)
+- [Owner of SF&#39;s Largest Hotel Is Walking Away, Surrendering It to Lender](https://sfist.com/2023/06/05/owner-of-sfs-largest-hotel-the-hilton-union-square-is-walking-away-surrendering-it-to-lender/)
+- [Wildfire smoke live updates from the NYTimes](https://www.nytimes.com/live/2023/06/06/us/canada-wildfires-smoke-air-quality)
+- [US-Bound Air India 777 Stranded in Rural Russia After Diversion](https://onemileatatime.com/news/air-india-777-stranded-russia/)
+- [I lost 40 pounds on Ozempic. But I’m left with even more questions](https://www.washingtonpost.com/opinions/2023/06/06/ozempic-weight-loss-ruth-marcus/)
+- [Hearth: An audio streaming server 30X Faster than LavaLink](https://github.com/Hearth-Industries/Hearth)
+- [Hacking around Safari&#39;s 7-day Cookie Limit](https://artsy.github.io/blog/2022/08/23/getting-around-7-day-cookie/)
+- [Qnm: CLI utility for querying the node_modules directory](https://github.com/ranyitz/qnm)
+- [SQL vs. CSS What’s the Difference? Which Is Better?](https://history-computer.com/sql-vs-css-whats-the-difference-which-is-better/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [What is the UK government hiding from the Covid inquiry? – podcast](https://www.theguardian.com/news/audio/2023/jun/06/what-is-the-uk-government-hiding-from-the-covid-inquiry-podcast)
-- [My life was turned upside down by Beijing threats, wife of Chinese ex-official tells US court](https://www.theguardian.com/world/2023/jun/06/china-operation-fox-hunt-beijing-dissident-threats-chinese-government-us-court-case)
-- [Ukraine’s troops attack along front in apparent precursor to counteroffensive](https://www.theguardian.com/world/2023/jun/05/ukrainian-troops-launch-attacks-along-donetsk-frontline)
-- [Concussion in grassroots sport to be tracked by UK government](https://www.theguardian.com/sport/2023/jun/06/concussion-grassroots-sport-tracked-uk-government-sportsmart-app)
-- [How Australian fashion fell to pieces: a timeline](https://www.theguardian.com/fashion/ng-interactive/2023/jun/06/how-australian-fashion-fell-to-pieces-history-timeline)
-- [Russia-Ukraine war at a glance: what we know on day 468 of the invasion](https://www.theguardian.com/world/2023/jun/06/russia-ukraine-war-at-a-glance-what-we-know-on-day-468-of-the-invasion)
-- [Robert Hanssen, ex-FBI agent convicted of spying for Moscow, dies in prison](https://www.theguardian.com/us-news/2023/jun/05/robert-hanssen-fbi-agent-moscow-spy-dies)
-- [Hard-pressed UK shoppers feel food ‘shrinkflation’](https://www.theguardian.com/business/2023/jun/06/hard-pressed-shoppers-feel-food-shrinkflation)
-- [Jim Hines, the first man to break 10 seconds in 100m sprint, dies aged 76](https://www.theguardian.com/sport/2023/jun/05/jim-hines-athletics-olympics-first-man-break-10-seconds-100m-sprint-dies-aged-76)
-- [Colorado protesters demand that governor issue order banning all guns](https://www.theguardian.com/us-news/2023/jun/05/colorado-total-gun-ban-demand)
+- [Russia-Ukraine war live updates: thousands evacuated as UN says scale of dam disaster will only be clear in coming days – latest news](https://www.theguardian.com/world/live/2023/jun/07/russia-ukraine-war-live-updates-nova-kakhovka-dam-collapse-kherson-oblast-floods-evacuations-flood-flooding-latest-news)
+- [Two killed and five injured in Virginia shooting after high school graduation](https://www.theguardian.com/us-news/2023/jun/06/richmond-virginia-shooting)
+- [How to develop artificial super-intelligence without destroying humanity – podcast](https://www.theguardian.com/news/audio/2023/jun/07/how-to-develop-artificial-super-intelligence-without-destroying-humanity)
+- [Why is it so smoky? Canada wildfires spark air-quality alerts in north-east US](https://www.theguardian.com/world/2023/jun/06/why-is-it-so-smoky-canada-wildfires-spark-air-quality-alerts-in-north-east-us)
+- [Spanish motorcycle rider Raul Torras Martinez dies at Isle of Man TT races](https://www.theguardian.com/sport/2023/jun/07/spanish-motorcycle-rider-raul-torras-martinez-dies-at-isle-of-man-tt-races)
+- [Chris Christie, ex-New Jersey governor, launches 2024 presidential run](https://www.theguardian.com/us-news/2023/jun/06/chris-christie-announces-2024-presidential-run)
+- [Russia floundering in ‘mud of lies’ over Kakhovka dam destruction, Ukraine tells UN](https://www.theguardian.com/world/2023/jun/07/russia-accused-of-floundering-in-lies-at-un-security-council-after-claiming-ukraine-behind-dam-destruction)
+- [China has closed unofficial ‘police stations’ in Britain, UK minister says](https://www.theguardian.com/world/2023/jun/07/china-has-closed-unofficial-police-stations-in-britain-uk-minister-says)
+- [‘We torment others’: the dark side of South Korean school life](https://www.theguardian.com/world/2023/jun/07/we-torment-others-the-dark-side-of-south-korean-school-life-bullying-school-violence)
+- [Shell’s ‘green’ ad campaign banned in UK for being ‘likely to mislead’](https://www.theguardian.com/business/2023/jun/07/shells-green-ad-campaign-banned-in-uk-for-being-likely-to-mislead)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

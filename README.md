@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [What is 3DoF screen mirroring, and what does XREAL Beam do?](https://old.reddit.com/r/Xreal/comments/13xgvnv/what_is_3dof_screen_mirroring_and_what_does_xreal/)
-- [You can use GPT-4 to automatically diagnose Python errors](https://gist.github.com/bramses/3bc23c6c601e7ad5b250c9f5054870d5)
-- [Owner of SF&#39;s Largest Hotel Is Walking Away, Surrendering It to Lender](https://sfist.com/2023/06/05/owner-of-sfs-largest-hotel-the-hilton-union-square-is-walking-away-surrendering-it-to-lender/)
-- [Wildfire smoke live updates from the NYTimes](https://www.nytimes.com/live/2023/06/06/us/canada-wildfires-smoke-air-quality)
-- [US-Bound Air India 777 Stranded in Rural Russia After Diversion](https://onemileatatime.com/news/air-india-777-stranded-russia/)
-- [I lost 40 pounds on Ozempic. But I’m left with even more questions](https://www.washingtonpost.com/opinions/2023/06/06/ozempic-weight-loss-ruth-marcus/)
-- [Hearth: An audio streaming server 30X Faster than LavaLink](https://github.com/Hearth-Industries/Hearth)
-- [Hacking around Safari&#39;s 7-day Cookie Limit](https://artsy.github.io/blog/2022/08/23/getting-around-7-day-cookie/)
-- [Qnm: CLI utility for querying the node_modules directory](https://github.com/ranyitz/qnm)
-- [SQL vs. CSS What’s the Difference? Which Is Better?](https://history-computer.com/sql-vs-css-whats-the-difference-which-is-better/)
+- [Origins of masturbation traced back to primates 40M years ago](https://www.theguardian.com/science/2023/jun/07/origins-masturbation-traced-back-primates-40m-years-ago)
+- [Monitoring my indoor air quality](https://tylercipriani.com/blog/2023/05/29/air-quality/)
+- [As ocean oxygen levels dip, fish face an uncertain future](https://www.bbc.com/future/article/20230607-as-ocean-oxygen-levels-dip-fish-face-an-uncertain-future)
+- [Binance Moved Billions Through Two U.S. Banks, Regulators Say](https://www.nytimes.com/2023/06/07/business/binance-cash-bank-accounts.html)
+- [Oklo Mine](https://en.wikipedia.org/wiki/Oklo_Mine)
+- [Robot ‘chef’ learns to recreate recipes from watching food videos](https://www.cam.ac.uk/research/news/robot-chef-learns-to-recreate-recipes-from-watching-food-videos)
+- [Read Something Wonderful](https://readsomethingwonderful.com/)
+- [15-inch MacBook Air hands-on: Just what some folks were asking for](https://arstechnica.com/gadgets/2023/06/15-inch-macbook-air-hands-on-just-what-some-folks-were-asking-for/)
+- [New York’s air quality reaches “hazardous” level, by far the worst in the world](https://arstechnica.com/science/2023/06/wildfire-smoke-and-haze-in-the-eastern-united-states-should-peak-this-week/)
+- [Trying to Breathe in a City of Smoke](https://www.newyorker.com/news/our-local-correspondents/trying-to-breathe-in-a-city-of-smoke)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

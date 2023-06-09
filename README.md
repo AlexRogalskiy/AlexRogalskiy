@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Origins of masturbation traced back to primates 40M years ago](https://www.theguardian.com/science/2023/jun/07/origins-masturbation-traced-back-primates-40m-years-ago)
-- [Monitoring my indoor air quality](https://tylercipriani.com/blog/2023/05/29/air-quality/)
-- [As ocean oxygen levels dip, fish face an uncertain future](https://www.bbc.com/future/article/20230607-as-ocean-oxygen-levels-dip-fish-face-an-uncertain-future)
-- [Binance Moved Billions Through Two U.S. Banks, Regulators Say](https://www.nytimes.com/2023/06/07/business/binance-cash-bank-accounts.html)
-- [Oklo Mine](https://en.wikipedia.org/wiki/Oklo_Mine)
-- [Robot ‘chef’ learns to recreate recipes from watching food videos](https://www.cam.ac.uk/research/news/robot-chef-learns-to-recreate-recipes-from-watching-food-videos)
-- [Read Something Wonderful](https://readsomethingwonderful.com/)
-- [15-inch MacBook Air hands-on: Just what some folks were asking for](https://arstechnica.com/gadgets/2023/06/15-inch-macbook-air-hands-on-just-what-some-folks-were-asking-for/)
-- [New York’s air quality reaches “hazardous” level, by far the worst in the world](https://arstechnica.com/science/2023/06/wildfire-smoke-and-haze-in-the-eastern-united-states-should-peak-this-week/)
-- [Trying to Breathe in a City of Smoke](https://www.newyorker.com/news/our-local-correspondents/trying-to-breathe-in-a-city-of-smoke)
+- [Tell HN: Conversational Journaling](https://news.ycombinator.com/item?id=36252427)
+- [Acme Corporation](https://en.wikipedia.org/wiki/Acme_Corporation)
+- [New A.I. Chatbot Tutors Could Upend Student Learning](https://www.nytimes.com/2023/06/08/business/khan-ai-gpt-tutoring-bot.html)
+- [OpenAI still not training GPT-5, Sam Altman says](https://techcrunch.com/2023/06/07/openai-gpt5-sam-altman/)
+- [Ask HN: Can you survive as a PHP Web Developer in 2023?](https://news.ycombinator.com/item?id=36252396)
+- [How Rural America Steals Girls’ Futures](https://www.theatlantic.com/ideas/archive/2023/04/the-forgotten-girls-monica-potts-book-excerpt/673581/)
+- [Django-money – a little app for handling money fields](https://github.com/django-money/django-money)
+- [Senior Executive Service &lpar;United States&rpar;](https://en.wikipedia.org/wiki/Senior_Executive_Service_(United_States))
+- [Interplanetary Internet](https://en.wikipedia.org/wiki/Interplanetary_Internet)
+- [Acme.sh runs arbitrary commands from a remote server](https://github.com/acmesh-official/acme.sh/issues/4659)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

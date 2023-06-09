@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
-- [How AI-based search assistant Glean Chat is built to boost productivity](https://www.computerworld.com/article/3698711/how-ai-based-search-assistant-glean-chat-is-built-to-boost-productivity.html#tk.rss_all)
-- [Apple Silicon remains the star of WWDC](https://www.computerworld.com/article/3698290/apple-silicon-remains-the-star-of-wwdc.html#tk.rss_all)
-- [IT is driving new enterprise sustainability efforts](https://www.computerworld.com/article/3696233/it-is-driving-new-enterprise-sustainability-efforts.html#tk.rss_all)
-- [Users unable to access Outlook, Teams in another M365 outage](https://www.computerworld.com/article/3698693/users-unable-to-access-outlook-teams-in-another-m365-outage.html#tk.rss_all)
-- [With Vision Pro, Apple shows computing&#39;s future. But who&#39;s it for?](https://www.computerworld.com/article/3698690/with-vision-pro-apple-shows-computings-future-but-whos-it-for.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [Tech layoffs in 2023: A timeline](https://www.computerworld.com/article/3685936/tech-layoffs-in-2023-a-timeline.html#tk.rss_all)
-- [EU countries reject plan for big tech companies to fund 5G rollout](https://www.networkworld.com/article/3698531/eu-countries-reject-plan-for-big-tech-companies-to-fund-5g-rollout.html#tk.rss_all)
-- [Governments worldwide grapple with regulation to rein in AI dangers](https://www.computerworld.com/article/3698191/governments-worldwide-grapple-with-regulation-to-rein-in-ai-dangers.html#tk.rss_all)
-- [How many jobs are available in technology in the US?](https://www.computerworld.com/article/3542681/how-many-jobs-are-available-in-technology.html#tk.rss_all)
+- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
+- [Adobe offers copyright indemnification for Firefly AI-based image app users](https://www.computerworld.com/article/3699053/adobe-offers-copyright-indemnification-for-firefly-ai-based-image-app-users.html#tk.rss_all)
+- [WWDC: 18+ ways Apple plans to make you more secure](https://www.computerworld.com/article/3699249/wwdc-18-ways-apple-plans-to-make-you-more-secure.html#tk.rss_all)
+- [Google to start factoring office attendance into performance reviews](https://www.computerworld.com/article/3699250/google-to-start-factoring-office-attendance-into-performance-reviews.html#tk.rss_all)
+- [How to use the new AI writing tool in Google Docs and Gmail](https://www.computerworld.com/article/3698515/how-to-use-help-me-write-ai-writing-tool-google-docs-gmail.html#tk.rss_all)
+- [WWDC: What’s new for enterprise admins and device management?](https://www.computerworld.com/article/3698730/wwdc-whats-new-for-enterprise-admins-and-device-management.html#tk.rss_all)
+- [Cisco brings generative AI to Webex and Cisco Security Cloud](https://www.computerworld.com/article/3698714/cisco-brings-generative-ai-to-webex-and-cisco-security-cloud.html#tk.rss_all)
+- [The real secret to better Android battery life](https://www.computerworld.com/article/3698275/android-battery-life.html#tk.rss_all)
+- [How AI-based search assistant Glean Chat is built to boost productivity](https://www.computerworld.com/article/3698711/how-ai-based-search-assistant-glean-chat-is-built-to-boost-productivity.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

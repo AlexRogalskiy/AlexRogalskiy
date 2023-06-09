@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war live updates: thousands evacuated as UN says scale of dam disaster will only be clear in coming days – latest news](https://www.theguardian.com/world/live/2023/jun/07/russia-ukraine-war-live-updates-nova-kakhovka-dam-collapse-kherson-oblast-floods-evacuations-flood-flooding-latest-news)
-- [Two killed and five injured in Virginia shooting after high school graduation](https://www.theguardian.com/us-news/2023/jun/06/richmond-virginia-shooting)
-- [How to develop artificial super-intelligence without destroying humanity – podcast](https://www.theguardian.com/news/audio/2023/jun/07/how-to-develop-artificial-super-intelligence-without-destroying-humanity)
-- [Why is it so smoky? Canada wildfires spark air-quality alerts in north-east US](https://www.theguardian.com/world/2023/jun/06/why-is-it-so-smoky-canada-wildfires-spark-air-quality-alerts-in-north-east-us)
-- [Spanish motorcycle rider Raul Torras Martinez dies at Isle of Man TT races](https://www.theguardian.com/sport/2023/jun/07/spanish-motorcycle-rider-raul-torras-martinez-dies-at-isle-of-man-tt-races)
-- [Chris Christie, ex-New Jersey governor, launches 2024 presidential run](https://www.theguardian.com/us-news/2023/jun/06/chris-christie-announces-2024-presidential-run)
-- [Russia floundering in ‘mud of lies’ over Kakhovka dam destruction, Ukraine tells UN](https://www.theguardian.com/world/2023/jun/07/russia-accused-of-floundering-in-lies-at-un-security-council-after-claiming-ukraine-behind-dam-destruction)
-- [China has closed unofficial ‘police stations’ in Britain, UK minister says](https://www.theguardian.com/world/2023/jun/07/china-has-closed-unofficial-police-stations-in-britain-uk-minister-says)
-- [‘We torment others’: the dark side of South Korean school life](https://www.theguardian.com/world/2023/jun/07/we-torment-others-the-dark-side-of-south-korean-school-life-bullying-school-violence)
-- [Shell’s ‘green’ ad campaign banned in UK for being ‘likely to mislead’](https://www.theguardian.com/business/2023/jun/07/shells-green-ad-campaign-banned-in-uk-for-being-likely-to-mislead)
+- [Donald Trump charged with illegal retention of classified documents](https://www.theguardian.com/us-news/2023/jun/08/donald-trump-charged-retention-classified-documents)
+- [Prince Harry versus the Mirror - podcast](https://www.theguardian.com/news/audio/2023/jun/09/prince-harry-versus-the-mirror-podcast)
+- [Struggling Meta showcases new AI tools at company meeting](https://www.theguardian.com/technology/2023/jun/08/meta-facebook-ai-mark-zuckerberg)
+- [Jack Smith: veteran special counsel at the center of Trump investigations](https://www.theguardian.com/us-news/2023/jun/08/jack-smith-special-counsel-explainer-donald-trump)
+- [Russia-Ukraine war at a glance: what we know on day 471 of the invasion](https://www.theguardian.com/world/2023/jun/09/russia-ukraine-war-at-a-glance-what-we-know-on-day-471-of-the-invasion)
+- [Police watchdog for England and Wales demands new powers amid trust crisis](https://www.theguardian.com/uk-news/2023/jun/09/police-watchdog-for-england-and-wales-demands-new-powers-amid-trust-crisis)
+- [Which? reports Tesco to CMA over pricing of Clubcard offers](https://www.theguardian.com/business/2023/jun/09/which-reports-tesco-to-cma-over-pricing-of-clubcard-offers)
+- [Boris Johnson has been given Commons Partygate inquiry findings, say sources](https://www.theguardian.com/politics/2023/jun/08/boris-johnson-has-been-given-commons-partygate-inquiry-findings-say-sources)
+- [HSBC temporarily withdraws mortgage deals for new borrowers](https://www.theguardian.com/business/2023/jun/08/hsbc-temporarily-withdraws-mortgage-deals-for-new-borrowers)
+- [Rishi Sunak and Joe Biden sign ‘Atlantic declaration’ but hope of trade deal ends](https://www.theguardian.com/politics/2023/jun/08/rishi-sunak-joe-biden-landmark-deal-uk-us-cooperation-washington-declaration)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

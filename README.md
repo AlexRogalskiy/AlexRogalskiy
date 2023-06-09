@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Microsoft has no shame: Bing spit on my ‘Chrome’ search with a fake AI answer](https://www.theverge.com/2023/6/6/23736289/microsoft-bing-chrome-search-fake-ai-chatbot)
-- [Antarctica gained 600 Gt of ice during &#39;09-&#39;19 vs. a prediction of a 20k Gt loss](https://tc.copernicus.org/articles/17/2059/2023/)
-- [Linux Audio Noise suppression using deep filtering in Rust](https://github.com/Rikorose/DeepFilterNet)
-- [Santé &lpar;YC S23&rpar; Is Hiring – Build a Modern POS](https://www.ycombinator.com/companies/sante/jobs/Q1i7Iz0-founding-engineer-full-stack)
-- [I hate almost all software &lpar;2011&rpar;](https://tinyclouds.org/rant)
-- [TelaMalloc: Efficient On-Chip Memory Allocation for Production ML Accelerators](https://www.micahlerner.com/2023/04/16/telamalloc-efficient-on-chip-memory-allocation-for-production-machine-learning-accelerators.html)
-- [Notes on Vision Pro](https://notes.andymatuschak.org/Vision%20Pro)
-- [Ownership in Swift: Manifesto and meta-proposal](https://github.com/apple/swift/blob/main/docs/OwnershipManifesto.md)
-- [Redditor creates working anime QR codes using Stable Diffusion](https://arstechnica.com/information-technology/2023/06/redditor-creates-working-anime-qr-codes-using-stable-diffusion/)
-- [Early dispersal of domestic horses into the Great Plains and northern Rockies](https://fermatslibrary.com/s/early-dispersal-of-domestic-horses-into-the-great-plains-and-northern-rockies)
+- [Using unmodified third-party Reddit apps with a custom server](https://gist.github.com/tech234a/ddfd51a1775deadee4b8a264f6d0d29e)
+- [The US is getting its first new nuclear reactor in 40 years](https://grist.org/energy/first-us-nuclear-reactor-40-years-online-georgia/)
+- [Google uses in-person office attendance as part of employee performance reviews](https://fortune.com/2023/06/08/google-remote-work-office-attendance-performance-review/)
+- [The dog cull of 1760 divided London](https://www.historytoday.com/archive/history-matters/war-dogs)
+- [Mechanical Apple Watch from real e-waste Apple Watch](https://www.instructables.com/Mechanical-Apple-Watch-From-Real-E-Waste-Apple-Wat/)
+- [Manjaro is a free and open source Linux operating system that emphasizes privacy](https://manjaro.org/)
+- [GM to use Tesla charging network, joining Ford](https://www.cnbc.com/2023/06/08/gm-tesla-partner-on-ev-charging-network.html)
+- [Understanding GPT tokenizers](https://simonwillison.net/2023/Jun/8/gpt-tokenizers/)
+- [Cost of ‘reformatting’ prompts a call for journals to change their requirements](https://www.nature.com/articles/d41586-023-01846-9)
+- [Mark Zuckerberg on Apple’s Vision Pro headset](https://www.theverge.com/2023/6/8/23754239/mark-zuckerberg-meta-apple-vision-pro-headset)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Apple’s Vision Pro: Can it leap the headset-wearing hurdle?](https://www.computerworld.com/article/3699112/apple-s-vision-pro-can-it-leap-the-headset-wearing-hurdle.html#tk.rss_all)
+- [Handy Outlook keyboard shortcuts for Windows and Mac](https://www.computerworld.com/article/3696984/microsoft-outlook-keyboard-shortcuts-for-windows-and-mac.html#tk.rss_all)
+- [EU to offer $8.7 billion in aid to make chips, communication tech](https://www.computerworld.com/article/3699349/eu-to-offer-87-billion-in-aid-to-make-chips-communication-tech.html#tk.rss_all)
+- [Two AI-related bills introduced in US Congress amid generative AI rush](https://www.computerworld.com/article/3699348/two-ai-related-bills-introduced-in-us-congress-amid-generative-ai-rush.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
 - [Adobe offers copyright indemnification for Firefly AI-based image app users](https://www.computerworld.com/article/3699053/adobe-offers-copyright-indemnification-for-firefly-ai-based-image-app-users.html#tk.rss_all)
 - [WWDC: 18+ ways Apple plans to make you more secure](https://www.computerworld.com/article/3699249/wwdc-18-ways-apple-plans-to-make-you-more-secure.html#tk.rss_all)
 - [Google to start factoring office attendance into performance reviews](https://www.computerworld.com/article/3699250/google-to-start-factoring-office-attendance-into-performance-reviews.html#tk.rss_all)
 - [How to use the new AI writing tool in Google Docs and Gmail](https://www.computerworld.com/article/3698515/how-to-use-help-me-write-ai-writing-tool-google-docs-gmail.html#tk.rss_all)
-- [WWDC: What’s new for enterprise admins and device management?](https://www.computerworld.com/article/3698730/wwdc-whats-new-for-enterprise-admins-and-device-management.html#tk.rss_all)
-- [Cisco brings generative AI to Webex and Cisco Security Cloud](https://www.computerworld.com/article/3698714/cisco-brings-generative-ai-to-webex-and-cisco-security-cloud.html#tk.rss_all)
-- [The real secret to better Android battery life](https://www.computerworld.com/article/3698275/android-battery-life.html#tk.rss_all)
-- [How AI-based search assistant Glean Chat is built to boost productivity](https://www.computerworld.com/article/3698711/how-ai-based-search-assistant-glean-chat-is-built-to-boost-productivity.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

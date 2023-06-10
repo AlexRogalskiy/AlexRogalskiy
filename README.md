@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Tell HN: Conversational Journaling](https://news.ycombinator.com/item?id=36252427)
-- [Acme Corporation](https://en.wikipedia.org/wiki/Acme_Corporation)
-- [New A.I. Chatbot Tutors Could Upend Student Learning](https://www.nytimes.com/2023/06/08/business/khan-ai-gpt-tutoring-bot.html)
-- [OpenAI still not training GPT-5, Sam Altman says](https://techcrunch.com/2023/06/07/openai-gpt5-sam-altman/)
-- [Ask HN: Can you survive as a PHP Web Developer in 2023?](https://news.ycombinator.com/item?id=36252396)
-- [How Rural America Steals Girls’ Futures](https://www.theatlantic.com/ideas/archive/2023/04/the-forgotten-girls-monica-potts-book-excerpt/673581/)
-- [Django-money – a little app for handling money fields](https://github.com/django-money/django-money)
-- [Senior Executive Service &lpar;United States&rpar;](https://en.wikipedia.org/wiki/Senior_Executive_Service_(United_States))
-- [Interplanetary Internet](https://en.wikipedia.org/wiki/Interplanetary_Internet)
-- [Acme.sh runs arbitrary commands from a remote server](https://github.com/acmesh-official/acme.sh/issues/4659)
+- [Online Etymology Dictionary](https://www.etymonline.com)
+- [Britain Limits Use of Puberty-Blocking Drugs to Research Only](https://www.nytimes.com/2023/06/09/health/puberty-blockers-transgender-children-britain-nhs.html)
+- [SwiftCover](https://swiftcover.ai/)
+- [Dispute Erupts over Former Zappos CEO Tony Hsieh’s Happiness Brand](https://www.wsj.com/articles/dispute-erupts-over-former-zappos-ceo-tony-hsiehs-happiness-brand-aa0cc2a9)
+- [Rehbinder Effect](https://en.wikipedia.org/wiki/Rehbinder_effect)
+- [Ask HN: Who is looking for a co-founder or partner?](https://news.ycombinator.com/item?id=36266922)
+- [Beaming Solar Energy from Space Gets a Step Closer](https://www.wsj.com/articles/beaming-solar-energy-from-space-gets-a-step-closer-fc903658)
+- [Five Farming Technologies Tackle Climate-Change Threats](https://www.wsj.com/articles/climate-change-will-upend-agriculture-here-are-five-technologies-that-could-help-b854770f)
+- [Are you sure you want to use MMAP in your database management system?](http://databasearchitects.blogspot.com/2022/01/are-you-sure-you-want-to-use-mmap-in.html)
+- [Meta isn&#39;t afraid of Apple Vision Pro but they should be](https://appleinsider.com/articles/23/06/09/zuckerbergs-apple-vision-pro-hot-take-just-gave-him-a-ballmer-iphone-moment)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

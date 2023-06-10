@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Using unmodified third-party Reddit apps with a custom server](https://gist.github.com/tech234a/ddfd51a1775deadee4b8a264f6d0d29e)
-- [The US is getting its first new nuclear reactor in 40 years](https://grist.org/energy/first-us-nuclear-reactor-40-years-online-georgia/)
-- [Google uses in-person office attendance as part of employee performance reviews](https://fortune.com/2023/06/08/google-remote-work-office-attendance-performance-review/)
-- [The dog cull of 1760 divided London](https://www.historytoday.com/archive/history-matters/war-dogs)
-- [Mechanical Apple Watch from real e-waste Apple Watch](https://www.instructables.com/Mechanical-Apple-Watch-From-Real-E-Waste-Apple-Wat/)
-- [Manjaro is a free and open source Linux operating system that emphasizes privacy](https://manjaro.org/)
-- [GM to use Tesla charging network, joining Ford](https://www.cnbc.com/2023/06/08/gm-tesla-partner-on-ev-charging-network.html)
-- [Understanding GPT tokenizers](https://simonwillison.net/2023/Jun/8/gpt-tokenizers/)
-- [Cost of ‘reformatting’ prompts a call for journals to change their requirements](https://www.nature.com/articles/d41586-023-01846-9)
-- [Mark Zuckerberg on Apple’s Vision Pro headset](https://www.theverge.com/2023/6/8/23754239/mark-zuckerberg-meta-apple-vision-pro-headset)
+- [Messing with the Beepberry](https://www.jeffgeerling.com/blog/2023/messing-beepberry)
+- [Doctor Droid &lpar;YC W23&rpar; Is Hiring](https://www.ycombinator.com/companies/doctor-droid/jobs/XPNy2Yp-technical-content-writer)
+- [Cosmic Luck: NASA’s Apollo 11 Moon Quarantine Broke Down](https://www.nytimes.com/2023/06/09/science/nasa-moon-quarantine.html)
+- [We Don’t Trade with Ants](https://worldspiritsockpuppet.com/2023/01/10/we-dont-trade-with-ants.html)
+- [The Mao-Kissinger Meeting of 1973](https://gaodawei.wordpress.com/2023/06/08/1973-prc-notes-on-mao-kissinger-meeting-of-february-17-1973/)
+- [Edmund Burke was a more complicated thinker than realized](https://www.newstatesman.com/ideas/2023/06/influence-edmund-burke-national-conservatism-intellectual-jewish)
+- [The computer graphics industry got started at the university of Utah](https://spectrum.ieee.org/history-of-computer-graphics-industry)
+- [A Swedish startup’s bid to build a green rival to AWS](https://sifted.eu/articles/evroc-plan-hyperscale-cloud-news)
+- [Beyond Liquid Crystal: DARPA Seeks Novel Tunable Optical Materials](https://www.darpa.mil/news-events/2023-06-07)
+- [Show HN: Poser – Posix SERvices C framework](https://zirias.github.io/poser/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

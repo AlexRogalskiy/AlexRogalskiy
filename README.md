@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Online Etymology Dictionary](https://www.etymonline.com)
-- [Britain Limits Use of Puberty-Blocking Drugs to Research Only](https://www.nytimes.com/2023/06/09/health/puberty-blockers-transgender-children-britain-nhs.html)
-- [SwiftCover](https://swiftcover.ai/)
-- [Dispute Erupts over Former Zappos CEO Tony Hsieh’s Happiness Brand](https://www.wsj.com/articles/dispute-erupts-over-former-zappos-ceo-tony-hsiehs-happiness-brand-aa0cc2a9)
-- [Rehbinder Effect](https://en.wikipedia.org/wiki/Rehbinder_effect)
-- [Ask HN: Who is looking for a co-founder or partner?](https://news.ycombinator.com/item?id=36266922)
-- [Beaming Solar Energy from Space Gets a Step Closer](https://www.wsj.com/articles/beaming-solar-energy-from-space-gets-a-step-closer-fc903658)
-- [Five Farming Technologies Tackle Climate-Change Threats](https://www.wsj.com/articles/climate-change-will-upend-agriculture-here-are-five-technologies-that-could-help-b854770f)
-- [Are you sure you want to use MMAP in your database management system?](http://databasearchitects.blogspot.com/2022/01/are-you-sure-you-want-to-use-mmap-in.html)
-- [Meta isn&#39;t afraid of Apple Vision Pro but they should be](https://appleinsider.com/articles/23/06/09/zuckerbergs-apple-vision-pro-hot-take-just-gave-him-a-ballmer-iphone-moment)
+- [How much money can you get with the Inflation Reduction Act?](https://www.rewiringamerica.org/app/ira-calculator)
+- [Should I Use a Button or a Link?](https://ashleemboyer.com/blog/should-i-use-a-button-or-a-link)
+- [Introduction of Electromagnetic Information Security](https://www.youtube.com/watch?v=CXCwWyHUZE0)
+- [Octopus DNA suggests that Antarctica will melt again](https://bigthink.com/strange-maps/octopus-dna-antarctic-ice-sheet-melt/)
+- [The most important thing you&#39;ll ever learn](https://zackkanter.com/2012/02/16/the-most-important-thing-youll-ever-learn/)
+- [How to Escape Tutorial Hell and Start Building Your Own Projects](https://www.codewell.cc/blog/how-to-escape-tutorial-hell-and-start-building-your-own-projects)
+- [Reddit’s API updates: all the news about changes that have infuriated Redditors](https://www.theverge.com/2023/6/8/23754780/reddit-api-updates-changes-news-announcements)
+- [Building a Platform Like Twitter Is Not Difficult](https://www.wired.com/story/christopher-bouzy-spoutible-race-to-unseat-twitter/)
+- [Google $23M settlement: How to apply, how much you could get](https://www.wbir.com/article/news/nation-world/google-class-action-settlement-how-to-submit-a-claim/507-cfcd459c-0b5f-4a56-9da0-8918c55d0d4f)
+- [Paul Ehrenfest and the Dilemmas of Modernity](https://www.researchgate.net/publication/259347969_Paul_Ehrenfest_and_the_Dilemmas_of_Modernity)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

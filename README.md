@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Colombian children found alive five weeks after Amazon jungle plane crash](https://www.theguardian.com/world/2023/jun/10/colombian-children-found-alive-five-weeks-after-amazon-jungle-plane-crash)
-- [Russia-Ukraine war at a glance: what we know on day 472 of the invasion](https://www.theguardian.com/world/2023/jun/10/russia-ukraine-war-at-a-glance-what-we-know-on-day-472-of-the-invasion)
-- [From ornamental tree to fruit ‘of the gods’: Australians discover the joy of feijoa](https://www.theguardian.com/food/2023/jun/10/from-ornamental-tree-to-fruit-of-the-gods-australians-discover-the-joy-of-feijoa)
-- [Italian special forces storm Turkish cargo ship after migrants attempt hijack](https://www.theguardian.com/world/2023/jun/10/italian-special-forces-storm-turkish-cargo-ship-after-migrant-hijack-attempt)
-- [Canadian official investigating Chinese election ‘meddling’ resigns abruptly](https://www.theguardian.com/world/2023/jun/09/canadian-official-investigating-chinese-election-meddling-resigns-abruptly)
-- [Lamecha Girma and Faith Kipyegon set world records at Paris Diamond League](https://www.theguardian.com/sport/2023/jun/09/lamecha-girma-and-kipyegon-set-world-records-at-paris-diamond-league)
-- [49ers Enterprises agrees takeover of Leeds United after club’s relegation](https://www.theguardian.com/football/2023/jun/09/49er-enterprises-leeds-united-football)
-- [Colombia’s president and ELN guerrillas agree six-month ceasefire](https://www.theguardian.com/world/2023/jun/09/colombias-president-and-eln-guerrillas-agree-six-month-ceasefire)
-- [Boris Johnson resigns as MP with immediate effect over Partygate report](https://www.theguardian.com/politics/2023/jun/09/boris-johnson-resigns-as-mp-with-immediate-effect-over-partygate-report)
-- [Boris Johnson’s hopes for a comeback must surely now be futile](https://www.theguardian.com/politics/2023/jun/09/boris-johnsons-hopes-for-a-comeback-must-surely-now-be-futile-ones)
+- [‘I will never be detained’: Trump defiant in first speech since federal indictment](https://www.theguardian.com/us-news/2023/jun/10/donald-trump-georgia-speech-indictment-north-carolina)
+- [‘The modern day gay icon’: Jennifer Coolidge delivers camp and delight to fans at Sydney’s Vivid festival](https://www.theguardian.com/culture/2023/jun/11/the-modern-day-gay-icon-jennifer-coolidge-delivers-camp-and-delight-to-fans-at-sydneys-vivid-festival)
+- [China has used Cuba as spy base for years, US official says](https://www.theguardian.com/world/2023/jun/11/china-has-used-cuba-as-spy-base-for-years-us-official-says)
+- [Amazon plane crash: Colombian children survived on cassava and fruits, family say](https://www.theguardian.com/world/2023/jun/11/amazon-plane-crash-colombian-children-survived-on-cassava-and-fruits-family-say)
+- [Russia-Ukraine war at a glance: what we know on day 473 of the invasion](https://www.theguardian.com/world/2023/jun/11/russia-ukraine-war-at-a-glance-what-we-know-on-day-473-of-the-invasion)
+- [What Jane Austen taught me about male loneliness | Joseph Earp](https://www.theguardian.com/commentisfree/2023/jun/11/what-jane-austen-taught-me-about-male-loneliness)
+- [Manchester City scrap their way to a first Champions League win](https://www.theguardian.com/football/2023/jun/11/manchester-city-scrap-their-way-to-a-first-champions-league-win)
+- [‘You have to be lucky’: Manchester City’s Pep Guardiola grateful for small margins](https://www.theguardian.com/football/2023/jun/11/you-have-to-be-lucky-manchester-citys-pep-guardiola-grateful-for-small-margins)
+- [Falling funds and the rise of AI are top of the menu at London tech talks](https://www.theguardian.com/technology/2023/jun/11/falling-funds-and-the-rise-of-ai-are-top-of-the-menu-at-london-tech-talks)
+- [Phil Foden provides energy and precision as classic Pep-ball prevails | Barney Ronay](https://www.theguardian.com/football/blog/2023/jun/10/manchester-city-champions-league-final-phil-foden-provided-energy-and-precision-as-classic-pep-ball-prevailed)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

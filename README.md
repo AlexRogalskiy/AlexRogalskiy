@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Messing with the Beepberry](https://www.jeffgeerling.com/blog/2023/messing-beepberry)
-- [Doctor Droid &lpar;YC W23&rpar; Is Hiring](https://www.ycombinator.com/companies/doctor-droid/jobs/XPNy2Yp-technical-content-writer)
-- [Cosmic Luck: NASA’s Apollo 11 Moon Quarantine Broke Down](https://www.nytimes.com/2023/06/09/science/nasa-moon-quarantine.html)
-- [We Don’t Trade with Ants](https://worldspiritsockpuppet.com/2023/01/10/we-dont-trade-with-ants.html)
-- [The Mao-Kissinger Meeting of 1973](https://gaodawei.wordpress.com/2023/06/08/1973-prc-notes-on-mao-kissinger-meeting-of-february-17-1973/)
-- [Edmund Burke was a more complicated thinker than realized](https://www.newstatesman.com/ideas/2023/06/influence-edmund-burke-national-conservatism-intellectual-jewish)
-- [The computer graphics industry got started at the university of Utah](https://spectrum.ieee.org/history-of-computer-graphics-industry)
-- [A Swedish startup’s bid to build a green rival to AWS](https://sifted.eu/articles/evroc-plan-hyperscale-cloud-news)
-- [Beyond Liquid Crystal: DARPA Seeks Novel Tunable Optical Materials](https://www.darpa.mil/news-events/2023-06-07)
-- [Show HN: Poser – Posix SERvices C framework](https://zirias.github.io/poser/)
+- [Fluent – A localization system for natural-sounding translations](https://projectfluent.org/)
+- [How to password protect a static HTML page with no JavaScript](https://shkspr.mobi/blog/2023/02/how-to-password-protect-a-static-html-page-with-no-js/)
+- [Turn dumb tweets into cuneiform tablets](https://dumbcuneiform.com/)
+- [Arrested for using Linux and encryption in France [video]](https://www.youtube.com/watch?v=cyFL7KJGcC0)
+- [Peanut Butter Jellyfin Time](https://gebir.ge/blog/peanut-butter-jellyfin-time/)
+- [Gren – an Elm fork](https://gren-lang.org/)
+- [Barracuda urges replacing, not patching, its email security gateways](https://krebsonsecurity.com/2023/06/barracuda-urges-replacing-not-patching-its-email-security-gateways/)
+- [Django Views – The Right Way](https://spookylukey.github.io/django-views-the-right-way/index.html)
+- [DeArrow: Crowdsourcing better titles and thumbnails on YouTube](https://github.com/ajayyy/DeArrow)
+- [A performance analysis of Intel x86-SIMD-sort &lpar;AVX-512&rpar;](https://github.com/Voultapher/sort-research-rs/blob/main/writeup/intel_avx512/text.md)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

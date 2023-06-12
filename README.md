@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [‘I will never be detained’: Trump defiant in first speech since federal indictment](https://www.theguardian.com/us-news/2023/jun/10/donald-trump-georgia-speech-indictment-north-carolina)
-- [‘The modern day gay icon’: Jennifer Coolidge delivers camp and delight to fans at Sydney’s Vivid festival](https://www.theguardian.com/culture/2023/jun/11/the-modern-day-gay-icon-jennifer-coolidge-delivers-camp-and-delight-to-fans-at-sydneys-vivid-festival)
-- [China has used Cuba as spy base for years, US official says](https://www.theguardian.com/world/2023/jun/11/china-has-used-cuba-as-spy-base-for-years-us-official-says)
-- [Amazon plane crash: Colombian children survived on cassava and fruits, family say](https://www.theguardian.com/world/2023/jun/11/amazon-plane-crash-colombian-children-survived-on-cassava-and-fruits-family-say)
-- [Russia-Ukraine war at a glance: what we know on day 473 of the invasion](https://www.theguardian.com/world/2023/jun/11/russia-ukraine-war-at-a-glance-what-we-know-on-day-473-of-the-invasion)
-- [What Jane Austen taught me about male loneliness | Joseph Earp](https://www.theguardian.com/commentisfree/2023/jun/11/what-jane-austen-taught-me-about-male-loneliness)
-- [Manchester City scrap their way to a first Champions League win](https://www.theguardian.com/football/2023/jun/11/manchester-city-scrap-their-way-to-a-first-champions-league-win)
-- [‘You have to be lucky’: Manchester City’s Pep Guardiola grateful for small margins](https://www.theguardian.com/football/2023/jun/11/you-have-to-be-lucky-manchester-citys-pep-guardiola-grateful-for-small-margins)
-- [Falling funds and the rise of AI are top of the menu at London tech talks](https://www.theguardian.com/technology/2023/jun/11/falling-funds-and-the-rise-of-ai-are-top-of-the-menu-at-london-tech-talks)
-- [Phil Foden provides energy and precision as classic Pep-ball prevails | Barney Ronay](https://www.theguardian.com/football/blog/2023/jun/10/manchester-city-champions-league-final-phil-foden-provided-energy-and-precision-as-classic-pep-ball-prevailed)
+- [UN concerned by ‘discrepancy’ in Ukraine nuclear plant water levels after dam collapse](https://www.theguardian.com/world/2023/jun/12/un-concerned-by-discrepancy-in-ukraine-nuclear-plant-water-levels-after-dam-collapse)
+- [What’s behind the rise in dog attacks? - podcast](https://www.theguardian.com/news/audio/2023/jun/12/whats-behind-the-rise-in-dog-attacks)
+- [Radio New Zealand employee placed on leave amid investigation into pro-Russia editing of Ukraine reports](https://www.theguardian.com/world/2023/jun/12/radio-new-zealand-employee-placed-on-leave-amid-investigation-into-pro-russia-editing-of-ukraine-reports)
+- [Russia-Ukraine war at a glance: what we know on day 474 of the invasion](https://www.theguardian.com/world/2023/jun/12/russia-ukraine-war-at-a-glance-what-we-know-on-day-474-of-the-invasion)
+- [US and China take steps towards thaw as Blinken prepares to visit Beijing, but mistrust remains](https://www.theguardian.com/world/2023/jun/12/us-and-china-take-tentative-steps-towards-thaw-in-relations-as-blinken-prepares-to-visit-beijing)
+- [Mount Mayon: Philippines’ most active volcano spews lava prompting evacuation of thousands](https://www.theguardian.com/world/2023/jun/12/mount-mayon-philippines-most-active-volcano-spews-lava-prompting-evacuation-of-thousands)
+- [Hunter Valley: driver arrested after wedding bus crash near Greta, NSW, kills 10 people in Australia](https://www.theguardian.com/australia-news/2023/jun/12/ten-people-killed-in-coach-crash-near-greta-in-nsw-hunter-valley)
+- [Ofsted school inspection reforms ‘nowhere near enough’](https://www.theguardian.com/education/2023/jun/12/ofsted-school-inspection-ruth-perry-sister)
+- [Number of nuclear weapons held by major powers rising, says thinktank](https://www.theguardian.com/world/2023/jun/12/number-of-nuclear-weapons-held-by-major-powers-rising-says-thinktank)
+- [Wembley introduces dementia-friendly measures as part of stadium scheme](https://www.theguardian.com/society/2023/jun/12/wembley-dementia-friendly-measures-stadium-scheme)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

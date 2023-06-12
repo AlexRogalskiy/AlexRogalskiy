@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [How much money can you get with the Inflation Reduction Act?](https://www.rewiringamerica.org/app/ira-calculator)
-- [Should I Use a Button or a Link?](https://ashleemboyer.com/blog/should-i-use-a-button-or-a-link)
-- [Introduction of Electromagnetic Information Security](https://www.youtube.com/watch?v=CXCwWyHUZE0)
-- [Octopus DNA suggests that Antarctica will melt again](https://bigthink.com/strange-maps/octopus-dna-antarctic-ice-sheet-melt/)
-- [The most important thing you&#39;ll ever learn](https://zackkanter.com/2012/02/16/the-most-important-thing-youll-ever-learn/)
-- [How to Escape Tutorial Hell and Start Building Your Own Projects](https://www.codewell.cc/blog/how-to-escape-tutorial-hell-and-start-building-your-own-projects)
-- [Reddit’s API updates: all the news about changes that have infuriated Redditors](https://www.theverge.com/2023/6/8/23754780/reddit-api-updates-changes-news-announcements)
-- [Building a Platform Like Twitter Is Not Difficult](https://www.wired.com/story/christopher-bouzy-spoutible-race-to-unseat-twitter/)
-- [Google $23M settlement: How to apply, how much you could get](https://www.wbir.com/article/news/nation-world/google-class-action-settlement-how-to-submit-a-claim/507-cfcd459c-0b5f-4a56-9da0-8918c55d0d4f)
-- [Paul Ehrenfest and the Dilemmas of Modernity](https://www.researchgate.net/publication/259347969_Paul_Ehrenfest_and_the_Dilemmas_of_Modernity)
+- [“the aggregate thermodynamics of what is happening [...] is staggering”](https://twitter.com/pkedrosky/status/1668047658269790211)
+- [Why the Future Doesn&#39;t Need Us &lpar;2000&rpar; [pdf]](https://www.cc.gatech.edu/computing/nano/documents/Joy%20-%20Why%20the%20Future%20Doesn%27t%20Need%20Us.pdf)
+- [Comerford Crown or Ikerrin Crown is the name of a lost archaeological relic](https://en.wikipedia.org/wiki/Comerford_Crown)
+- [Show HN: Battle unruly retail customers in this RPG powered by ChatGPT](https://chat.openai.com/share/dfc0d973-1d8e-4a23-8ffb-89e22e6899d4)
+- [The Beer Game](https://en.wikipedia.org/wiki/Beer_distribution_game)
+- [Silicon Valley Renews Lobbying Biden to Lift Cap on Foreign Workers](https://www.leefang.com/p/after-mass-layoffs-silicon-valley)
+- [The Surprising Power of Documentation](https://vadimkravcenko.com/shorts/proper-documentation/)
+- [The Day the Treasury Topped](https://thereformedbroker.com/2023/06/11/the-day-the-treasury-topped/)
+- [A Person of Compute](https://geohot.github.io//blog/jekyll/update/2023/04/26/a-person-of-compute.html)
+- [RNZ chief executive apologises after pro-Russian sentiment added to stories](https://www.rnz.co.nz/news/national/491824/rnz-chief-executive-apologises-after-pro-russian-sentiment-added-to-stories)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

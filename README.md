@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Fluent – A localization system for natural-sounding translations](https://projectfluent.org/)
-- [How to password protect a static HTML page with no JavaScript](https://shkspr.mobi/blog/2023/02/how-to-password-protect-a-static-html-page-with-no-js/)
-- [Turn dumb tweets into cuneiform tablets](https://dumbcuneiform.com/)
-- [Arrested for using Linux and encryption in France [video]](https://www.youtube.com/watch?v=cyFL7KJGcC0)
-- [Peanut Butter Jellyfin Time](https://gebir.ge/blog/peanut-butter-jellyfin-time/)
-- [Gren – an Elm fork](https://gren-lang.org/)
-- [Barracuda urges replacing, not patching, its email security gateways](https://krebsonsecurity.com/2023/06/barracuda-urges-replacing-not-patching-its-email-security-gateways/)
-- [Django Views – The Right Way](https://spookylukey.github.io/django-views-the-right-way/index.html)
-- [DeArrow: Crowdsourcing better titles and thumbnails on YouTube](https://github.com/ajayyy/DeArrow)
-- [A performance analysis of Intel x86-SIMD-sort &lpar;AVX-512&rpar;](https://github.com/Voultapher/sort-research-rs/blob/main/writeup/intel_avx512/text.md)
+- [Stack Overflow Moderation Strike Update](https://meta.stackexchange.com/questions/390106/moderation-strike-update-data-dumps-choosing-representatives-gpt-data-and-wh)
+- [Reddit experiments on users, forcing them to install app or else not use Reddit](https://old.reddit.com/r/help/comments/135tly1/helpdid_reddit_just_destroy_mobile_browser_access/)
+- [Surging stockmarkets are powered by artificial intelligence](https://www.economist.com/finance-and-economics/2023/06/07/surging-stockmarkets-are-powered-by-artificial-intelligence)
+- [Intel is all-in on backside power delivery](https://spectrum.ieee.org/backside-power-delivery)
+- [Code and Programming Projects](https://www.chrisgregory.me/code)
+- [Apple Execs on Facebook &lpar;2011&rpar;](https://www.techemails.com/p/apple-execs-on-facebook)
+- [How to make a QR code with Stable Diffusion](https://stable-diffusion-art.com/qr-code/)
+- [El Paquete Semanal](https://en.wikipedia.org/wiki/El_Paquete_Semanal)
+- [The Tyranny of Structurelessness &lpar;1970&rpar;](https://www.jofreeman.com/joreen/tyranny.htm)
+- [Logistics challenges of saving Air India’s diverted 777 in Russia](https://www.flightradar24.com/blog/air-india-russia-diversion/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

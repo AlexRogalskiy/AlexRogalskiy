@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [“the aggregate thermodynamics of what is happening [...] is staggering”](https://twitter.com/pkedrosky/status/1668047658269790211)
-- [Why the Future Doesn&#39;t Need Us &lpar;2000&rpar; [pdf]](https://www.cc.gatech.edu/computing/nano/documents/Joy%20-%20Why%20the%20Future%20Doesn%27t%20Need%20Us.pdf)
-- [Comerford Crown or Ikerrin Crown is the name of a lost archaeological relic](https://en.wikipedia.org/wiki/Comerford_Crown)
-- [Show HN: Battle unruly retail customers in this RPG powered by ChatGPT](https://chat.openai.com/share/dfc0d973-1d8e-4a23-8ffb-89e22e6899d4)
-- [The Beer Game](https://en.wikipedia.org/wiki/Beer_distribution_game)
-- [Silicon Valley Renews Lobbying Biden to Lift Cap on Foreign Workers](https://www.leefang.com/p/after-mass-layoffs-silicon-valley)
-- [The Surprising Power of Documentation](https://vadimkravcenko.com/shorts/proper-documentation/)
-- [The Day the Treasury Topped](https://thereformedbroker.com/2023/06/11/the-day-the-treasury-topped/)
-- [A Person of Compute](https://geohot.github.io//blog/jekyll/update/2023/04/26/a-person-of-compute.html)
-- [RNZ chief executive apologises after pro-Russian sentiment added to stories](https://www.rnz.co.nz/news/national/491824/rnz-chief-executive-apologises-after-pro-russian-sentiment-added-to-stories)
+- [Show HN: Blueprint Visual Game Programming](https://store.steampowered.com/app/2387290/NBF0/)
+- [Sell Traffic to Your Offers](https://brandharbor.net/ref/aUx6S0lBVTZDTXJ1RVFNdGdtU09EZz09-MTk3LTgy)
+- [U.S. Spy Agencies Buy Vast Quantities of Americans’ Personal Data, U.S. Says](https://www.wsj.com/articles/u-s-spy-agencies-buy-vast-quantities-of-americans-personal-data-report-says-f47ec3ad)
+- [Workers want to stay remote, prompting an office real estate crisis](https://www.washingtonpost.com/technology/2023/06/12/office-real-estate-san-francisco/)
+- [Westfield Pulling Out of Downtown SF](https://www.kron4.com/news/bay-area/westfield-pulling-out-of-downtown-san-francisco/)
+- [Getting Started with Macintosh Programming: Circa 1998 &lpar;1997&rpar;](http://preserve.mactech.com/articles/mactech/Vol.13/13.12/Dec97-GettingStarted/index.html)
+- [The prospects for United States–China space cooperation are limited](https://thebulletin.org/2023/06/the-prospects-for-united-states-china-space-cooperation-are-limited/#post-heading)
+- [The next frontier in reproductive tourism? Genetic modification](https://theconversation.com/the-next-frontier-in-reproductive-tourism-genetic-modification-67132)
+- [The Adventures of Writing a CHIP8 Emulator – Part 2](https://benjcal.space/posts/the-adventures-of-writing-a-chip8-emulator-part-2/)
+- [Jonathan Pollard: First Israeli American Spy](https://en.wikipedia.org/wiki/Jonathan_Pollard)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

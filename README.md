@@ -355,6 +355,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [What will Apple’s vision for Apple Vision be in 2025?](https://www.computerworld.com/article/3699057/what-will-apples-vision-for-apple-vision-be-in-2025.html#tk.rss_all)
+- [The good and bad about Windows 11](https://www.computerworld.com/article/3699260/the-good-and-bad-about-windows-11.html#tk.rss_all)
+- [At WWDC, Apple hones in on device management](https://www.computerworld.com/article/3699389/at-wwdc-apple-hones-in-on-device-management.html#tk.rss_all)
 - [Apple’s Vision Pro: Can it leap the headset-wearing hurdle?](https://www.computerworld.com/article/3699112/apple-s-vision-pro-can-it-leap-the-headset-wearing-hurdle.html#tk.rss_all)
 - [Handy Outlook keyboard shortcuts for Windows and Mac](https://www.computerworld.com/article/3696984/microsoft-outlook-keyboard-shortcuts-for-windows-and-mac.html#tk.rss_all)
 - [EU to offer $8.7 billion in aid to make chips, communication tech](https://www.computerworld.com/article/3699349/eu-to-offer-87-billion-in-aid-to-make-chips-communication-tech.html#tk.rss_all)
@@ -362,9 +365,6 @@
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
 - [Adobe offers copyright indemnification for Firefly AI-based image app users](https://www.computerworld.com/article/3699053/adobe-offers-copyright-indemnification-for-firefly-ai-based-image-app-users.html#tk.rss_all)
-- [WWDC: 18+ ways Apple plans to make you more secure](https://www.computerworld.com/article/3699249/wwdc-18-ways-apple-plans-to-make-you-more-secure.html#tk.rss_all)
-- [Google to start factoring office attendance into performance reviews](https://www.computerworld.com/article/3699250/google-to-start-factoring-office-attendance-into-performance-reviews.html#tk.rss_all)
-- [How to use the new AI writing tool in Google Docs and Gmail](https://www.computerworld.com/article/3698515/how-to-use-help-me-write-ai-writing-tool-google-docs-gmail.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

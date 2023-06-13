@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Stack Overflow Moderation Strike Update](https://meta.stackexchange.com/questions/390106/moderation-strike-update-data-dumps-choosing-representatives-gpt-data-and-wh)
-- [Reddit experiments on users, forcing them to install app or else not use Reddit](https://old.reddit.com/r/help/comments/135tly1/helpdid_reddit_just_destroy_mobile_browser_access/)
-- [Surging stockmarkets are powered by artificial intelligence](https://www.economist.com/finance-and-economics/2023/06/07/surging-stockmarkets-are-powered-by-artificial-intelligence)
-- [Intel is all-in on backside power delivery](https://spectrum.ieee.org/backside-power-delivery)
-- [Code and Programming Projects](https://www.chrisgregory.me/code)
-- [Apple Execs on Facebook &lpar;2011&rpar;](https://www.techemails.com/p/apple-execs-on-facebook)
-- [How to make a QR code with Stable Diffusion](https://stable-diffusion-art.com/qr-code/)
-- [El Paquete Semanal](https://en.wikipedia.org/wiki/El_Paquete_Semanal)
-- [The Tyranny of Structurelessness &lpar;1970&rpar;](https://www.jofreeman.com/joreen/tyranny.htm)
-- [Logistics challenges of saving Air India’s diverted 777 in Russia](https://www.flightradar24.com/blog/air-india-russia-diversion/)
+- [Llama.cpp: Full CUDA GPU Acceleration](https://github.com/ggerganov/llama.cpp/pull/1827)
+- [Wall Street scooped up a third of Texas single family homes sold last year](https://therealdeal.com/texas/2022/06/14/wall-street-scooped-up-almost-a-third-of-all-texas-single-family-homes-sold-last-year/)
+- [Vintage National Geographic Photos](https://vintagenatgeographic.tumblr.com/)
+- [BBEdit: Where Respect Is Due](https://apps.apple.com/us/story/id1435835881)
+- [Making a less crappy web app](https://www.usebracket.com/post/announcing-brackets-new-web-app)
+- [Converting Full Terraform Programs to Pulumi](https://www.pulumi.com/blog/converting-full-terraform-programs-to-pulumi/)
+- [Why sqlite3 temp files were renamed &#39;etilqs_*&#39; &lpar;2006&rpar;](https://github.com/mackyle/sqlite/blob/18cf47156abe94255ae1495ba2da84517dce6081/src/os.h)
+- [A new experiment casts doubt on the leading theory of the nucleus](https://www.quantamagazine.org/a-new-experiment-casts-doubt-on-the-leading-theory-of-the-nucleus-20230612/)
+- [Why are LLMs general learners?](https://intuitiveai.substack.com/p/why-are-large-language-models-general)
+- [Don&#39;t use custom CSS scrollbars](https://ericwbailey.website/published/dont-use-custom-css-scrollbars/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

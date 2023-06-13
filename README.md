@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [UN concerned by ‘discrepancy’ in Ukraine nuclear plant water levels after dam collapse](https://www.theguardian.com/world/2023/jun/12/un-concerned-by-discrepancy-in-ukraine-nuclear-plant-water-levels-after-dam-collapse)
-- [What’s behind the rise in dog attacks? - podcast](https://www.theguardian.com/news/audio/2023/jun/12/whats-behind-the-rise-in-dog-attacks)
-- [Radio New Zealand employee placed on leave amid investigation into pro-Russia editing of Ukraine reports](https://www.theguardian.com/world/2023/jun/12/radio-new-zealand-employee-placed-on-leave-amid-investigation-into-pro-russia-editing-of-ukraine-reports)
-- [Russia-Ukraine war at a glance: what we know on day 474 of the invasion](https://www.theguardian.com/world/2023/jun/12/russia-ukraine-war-at-a-glance-what-we-know-on-day-474-of-the-invasion)
-- [US and China take steps towards thaw as Blinken prepares to visit Beijing, but mistrust remains](https://www.theguardian.com/world/2023/jun/12/us-and-china-take-tentative-steps-towards-thaw-in-relations-as-blinken-prepares-to-visit-beijing)
-- [Mount Mayon: Philippines’ most active volcano spews lava prompting evacuation of thousands](https://www.theguardian.com/world/2023/jun/12/mount-mayon-philippines-most-active-volcano-spews-lava-prompting-evacuation-of-thousands)
-- [Hunter Valley: driver arrested after wedding bus crash near Greta, NSW, kills 10 people in Australia](https://www.theguardian.com/australia-news/2023/jun/12/ten-people-killed-in-coach-crash-near-greta-in-nsw-hunter-valley)
-- [Ofsted school inspection reforms ‘nowhere near enough’](https://www.theguardian.com/education/2023/jun/12/ofsted-school-inspection-ruth-perry-sister)
-- [Number of nuclear weapons held by major powers rising, says thinktank](https://www.theguardian.com/world/2023/jun/12/number-of-nuclear-weapons-held-by-major-powers-rising-says-thinktank)
-- [Wembley introduces dementia-friendly measures as part of stadium scheme](https://www.theguardian.com/society/2023/jun/12/wembley-dementia-friendly-measures-stadium-scheme)
+- [NBA finals Game 5: Miami Heat v Denver Nuggets – live](https://www.theguardian.com/sport/live/2023/jun/12/nba-finals-game-5-miami-heat-v-denver-nuggets-live)
+- [‘Dead’ woman bangs on coffin during her own wake in Ecuador](https://www.theguardian.com/world/2023/jun/13/dead-woman-bangs-on-coffin-during-her-own-wake-in-ecuador)
+- [The long shadows of Boris Johnson and Nicola Sturgeon | podcast](https://www.theguardian.com/news/audio/2023/jun/13/the-long-shadows-of-boris-johnson-and-nicola-sturgeon-podcast)
+- [‘My life and my home’: young people start to testify at historic US climate trial](https://www.theguardian.com/us-news/2023/jun/12/young-activists-held-v-montana-climate-change-first-constitutional-trial)
+- [Colombia plane crash: custody battle breaks out between relatives of children](https://www.theguardian.com/world/2023/jun/13/colombia-plane-crash-custody-battle-breaks-out-between-relatives-of-children)
+- [Former Olympic champion Tori Bowie died in childbirth, according to autopsy](https://www.theguardian.com/sport/2023/jun/12/former-olympic-champion-tori-bowie-died-in-childbirth-according-to-autopsy)
+- [Russia-Ukraine war at a glance: what we know on day 475 of the invasion](https://www.theguardian.com/world/2023/jun/13/russia-ukraine-war-at-a-glance-what-we-know-on-day-475-of-the-invasion)
+- [Cruise robotaxi appears to hinder emergency crews after mass shooting](https://www.theguardian.com/technology/2023/jun/12/san-francisco-robotaxi-hinder-emergency-crews-shooting)
+- [Home Office expands scheme to pardon those criminalised for gay activity](https://www.theguardian.com/world/2023/jun/13/home-office-expands-scheme-to-pardon-those-criminalised-for-gay-activity)
+- [UK judges to be given powers to dismiss oppressive Slapps lawsuits at early stage](https://www.theguardian.com/law/2023/jun/13/uk-judges-to-be-given-powers-to-dismiss-oppressive-slapps-lawsuits-at-early-stage)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

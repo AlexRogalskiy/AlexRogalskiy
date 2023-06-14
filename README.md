@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Llama.cpp: Full CUDA GPU Acceleration](https://github.com/ggerganov/llama.cpp/pull/1827)
-- [Wall Street scooped up a third of Texas single family homes sold last year](https://therealdeal.com/texas/2022/06/14/wall-street-scooped-up-almost-a-third-of-all-texas-single-family-homes-sold-last-year/)
-- [Vintage National Geographic Photos](https://vintagenatgeographic.tumblr.com/)
-- [BBEdit: Where Respect Is Due](https://apps.apple.com/us/story/id1435835881)
-- [Making a less crappy web app](https://www.usebracket.com/post/announcing-brackets-new-web-app)
-- [Converting Full Terraform Programs to Pulumi](https://www.pulumi.com/blog/converting-full-terraform-programs-to-pulumi/)
-- [Why sqlite3 temp files were renamed &#39;etilqs_*&#39; &lpar;2006&rpar;](https://github.com/mackyle/sqlite/blob/18cf47156abe94255ae1495ba2da84517dce6081/src/os.h)
-- [A new experiment casts doubt on the leading theory of the nucleus](https://www.quantamagazine.org/a-new-experiment-casts-doubt-on-the-leading-theory-of-the-nucleus-20230612/)
-- [Why are LLMs general learners?](https://intuitiveai.substack.com/p/why-are-large-language-models-general)
-- [Don&#39;t use custom CSS scrollbars](https://ericwbailey.website/published/dont-use-custom-css-scrollbars/)
+- [OpenAI Releases Function Calling for GPT-3.5 &amp; GPT-4](https://platform.openai.com/docs/guides/gpt/function-calling)
+- [Aleister Crowley and William Butler Yeats Get into an Occult Battle](https://www.openculture.com/2016/10/aleister-crowley-william-butler-yeats-get-into-an-occult-battle.html)
+- [Reddit Doubles Down](https://www.platformer.news/p/reddit-doubles-down)
+- [Effective June 7, 2026, Autodesk will no longer sell nor support EAGLE](https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/Autodesk-EAGLE-Announcement-Next-steps-and-FAQ.html)
+- [The Curse of Recursion: Training on Generated Data Makes Models Forget](https://arxiv.org/abs/2305.17493)
+- [Lewis Hine’s early 20th-century “photo stories”](https://www.smithsonianmag.com/history/the-photographer-who-forced-the-us-to-confront-its-child-labor-problem-180982355/)
+- [Open source hospital price database](https://www.dolthub.com/repositories/dolthub/transparency-in-pricing/data/main/rate)
+- [Show HN: LLaMA tokenizer that runs in browser](https://github.com/belladoreai/llama-tokenizer-js)
+- [ZX81 Mechanical Keyboard](https://github.com/swetland/zx81-keyboard)
+- [McDonald&#39;s just dropped a brand new Game Boy game](https://retrododo.com/mcdonalds-grimaces-birthday/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

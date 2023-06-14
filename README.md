@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [NBA finals Game 5: Miami Heat v Denver Nuggets – live](https://www.theguardian.com/sport/live/2023/jun/12/nba-finals-game-5-miami-heat-v-denver-nuggets-live)
-- [‘Dead’ woman bangs on coffin during her own wake in Ecuador](https://www.theguardian.com/world/2023/jun/13/dead-woman-bangs-on-coffin-during-her-own-wake-in-ecuador)
-- [The long shadows of Boris Johnson and Nicola Sturgeon | podcast](https://www.theguardian.com/news/audio/2023/jun/13/the-long-shadows-of-boris-johnson-and-nicola-sturgeon-podcast)
-- [‘My life and my home’: young people start to testify at historic US climate trial](https://www.theguardian.com/us-news/2023/jun/12/young-activists-held-v-montana-climate-change-first-constitutional-trial)
-- [Colombia plane crash: custody battle breaks out between relatives of children](https://www.theguardian.com/world/2023/jun/13/colombia-plane-crash-custody-battle-breaks-out-between-relatives-of-children)
-- [Former Olympic champion Tori Bowie died in childbirth, according to autopsy](https://www.theguardian.com/sport/2023/jun/12/former-olympic-champion-tori-bowie-died-in-childbirth-according-to-autopsy)
-- [Russia-Ukraine war at a glance: what we know on day 475 of the invasion](https://www.theguardian.com/world/2023/jun/13/russia-ukraine-war-at-a-glance-what-we-know-on-day-475-of-the-invasion)
-- [Cruise robotaxi appears to hinder emergency crews after mass shooting](https://www.theguardian.com/technology/2023/jun/12/san-francisco-robotaxi-hinder-emergency-crews-shooting)
-- [Home Office expands scheme to pardon those criminalised for gay activity](https://www.theguardian.com/world/2023/jun/13/home-office-expands-scheme-to-pardon-those-criminalised-for-gay-activity)
-- [UK judges to be given powers to dismiss oppressive Slapps lawsuits at early stage](https://www.theguardian.com/law/2023/jun/13/uk-judges-to-be-given-powers-to-dismiss-oppressive-slapps-lawsuits-at-early-stage)
+- [Trump claims ‘political persecution’ in speech after arraignment](https://www.theguardian.com/us-news/2023/jun/13/trump-new-jersey-speech-after-arraignment)
+- [Malaysia to ask Interpol for help to track down comedian over MH370 joke](https://www.theguardian.com/world/2023/jun/14/malaysia-to-ask-interpol-for-help-to-track-down-comedian-over-mh370-joke)
+- [How Saudi Arabia took over professional golf - podcast](https://www.theguardian.com/news/audio/2023/jun/14/how-saudi-arabia-took-over-professional-golf-podcast)
+- [A silent and sullen Trump goes before judge in Miami – amid din outside](https://www.theguardian.com/us-news/2023/jun/13/miami-trump-circus-arraignment)
+- [US House unanimously calls on Russia to release journalist Evan Gershkovich](https://www.theguardian.com/us-news/2023/jun/13/us-house-unanimous-vote-evan-gershkovich-russia)
+- [Marriages in China drop to record low despite government push](https://www.theguardian.com/world/2023/jun/14/marriages-in-china-drop-to-record-low-despite-government-push)
+- [Russia-Ukraine war at a glance: what we know on day 476 of the invasion](https://www.theguardian.com/world/2023/jun/14/russia-ukraine-war-at-a-glance-what-we-know-on-day-476-of-the-invasion)
+- [Nobel laureate Maria Ressa says research by Oxford institute can be used against reporters](https://www.theguardian.com/media/2023/jun/14/nobel-laureate-says-research-by-oxford-institute-can-be-used-against-reporters)
+- [Māori ancestral remains and mummified heads returned to New Zealand from Germany](https://www.theguardian.com/world/2023/jun/14/maori-ancestral-remains-and-mummified-heads-returned-to-new-zealand-from-germany)
+- [Miriam Margolyes: ‘I never had any shame about being gay’](https://www.theguardian.com/fashion/2023/jun/13/miriam-margolyes-i-never-had-any-shame-about-being-gay)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

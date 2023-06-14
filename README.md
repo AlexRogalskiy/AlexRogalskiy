@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: Blueprint Visual Game Programming](https://store.steampowered.com/app/2387290/NBF0/)
-- [Sell Traffic to Your Offers](https://brandharbor.net/ref/aUx6S0lBVTZDTXJ1RVFNdGdtU09EZz09-MTk3LTgy)
-- [U.S. Spy Agencies Buy Vast Quantities of Americans’ Personal Data, U.S. Says](https://www.wsj.com/articles/u-s-spy-agencies-buy-vast-quantities-of-americans-personal-data-report-says-f47ec3ad)
-- [Workers want to stay remote, prompting an office real estate crisis](https://www.washingtonpost.com/technology/2023/06/12/office-real-estate-san-francisco/)
-- [Westfield Pulling Out of Downtown SF](https://www.kron4.com/news/bay-area/westfield-pulling-out-of-downtown-san-francisco/)
-- [Getting Started with Macintosh Programming: Circa 1998 &lpar;1997&rpar;](http://preserve.mactech.com/articles/mactech/Vol.13/13.12/Dec97-GettingStarted/index.html)
-- [The prospects for United States–China space cooperation are limited](https://thebulletin.org/2023/06/the-prospects-for-united-states-china-space-cooperation-are-limited/#post-heading)
-- [The next frontier in reproductive tourism? Genetic modification](https://theconversation.com/the-next-frontier-in-reproductive-tourism-genetic-modification-67132)
-- [The Adventures of Writing a CHIP8 Emulator – Part 2](https://benjcal.space/posts/the-adventures-of-writing-a-chip8-emulator-part-2/)
-- [Jonathan Pollard: First Israeli American Spy](https://en.wikipedia.org/wiki/Jonathan_Pollard)
+- [NewTumbl – It&#39;s Been a Blast](https://newtumbl.com)
+- [The Canal Papers](https://astralcodexten.substack.com/p/the-canal-papers)
+- [3D muscle reconstruction shows 3.2M-year-old “Lucy” walked upright](https://arstechnica.com/science/2023/06/3d-muscle-reconstruction-shows-3-2-million-year-old-lucy-walked-upright/)
+- [ChatGPT Voice Assistant](https://github.com/jakecyr/chatgpt-voice-assistant)
+- [OpenAI GPT – Software Design Description to Diagram Image](https://github.com/jakecyr/gpt-text-to-diagram)
+- [Derive a TypeScript Interface from JSON or a JavaScript Object](https://github.com/jakecyr/derive-ts)
+- [China millionaire exodus to continue this year](https://asia.nikkei.com/Economy/China-millionaire-exodus-to-continue-this-year-report)
+- [Damage Functions](https://lpeproject.org/blog/damage-functions-economics-climate-science/)
+- [For Sale: A Promise to Remove Invisible Gas](https://jamie-wong.com/post/carbon-dioxide-removal/)
+- [Has anyone here got hired through workatastartup?](https://news.ycombinator.com/item?id=36320551)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

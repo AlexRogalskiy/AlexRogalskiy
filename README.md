@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
+- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
+- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
+- [HomeKit is going to be everywhere as ABB buys Eve Systems](https://www.computerworld.com/article/3699354/homekit-is-going-to-be-everywhere-as-abb-buys-eve-systems.html#tk.rss_all)
+- [Q&amp;A: For UST’s CTO, AI is ‘a necessary evil’](https://www.computerworld.com/article/3698470/ai-is-a-necessary-evil-interview-with-cto-of-ust.html#tk.rss_all)
 - [What will Apple’s vision for Apple Vision be in 2025?](https://www.computerworld.com/article/3699057/what-will-apples-vision-for-apple-vision-be-in-2025.html#tk.rss_all)
 - [The good and bad about Windows 11](https://www.computerworld.com/article/3699260/the-good-and-bad-about-windows-11.html#tk.rss_all)
 - [At WWDC, Apple hones in on device management](https://www.computerworld.com/article/3699389/at-wwdc-apple-hones-in-on-device-management.html#tk.rss_all)
 - [Apple’s Vision Pro: Can it leap the headset-wearing hurdle?](https://www.computerworld.com/article/3699112/apple-s-vision-pro-can-it-leap-the-headset-wearing-hurdle.html#tk.rss_all)
 - [Handy Outlook keyboard shortcuts for Windows and Mac](https://www.computerworld.com/article/3696984/microsoft-outlook-keyboard-shortcuts-for-windows-and-mac.html#tk.rss_all)
-- [EU to offer $8.7 billion in aid to make chips, communication tech](https://www.computerworld.com/article/3699349/eu-to-offer-87-billion-in-aid-to-make-chips-communication-tech.html#tk.rss_all)
-- [Two AI-related bills introduced in US Congress amid generative AI rush](https://www.computerworld.com/article/3699348/two-ai-related-bills-introduced-in-us-congress-amid-generative-ai-rush.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
-- [Adobe offers copyright indemnification for Firefly AI-based image app users](https://www.computerworld.com/article/3699053/adobe-offers-copyright-indemnification-for-firefly-ai-based-image-app-users.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

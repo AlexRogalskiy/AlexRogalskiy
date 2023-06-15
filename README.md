@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [NewTumbl – It&#39;s Been a Blast](https://newtumbl.com)
-- [The Canal Papers](https://astralcodexten.substack.com/p/the-canal-papers)
-- [3D muscle reconstruction shows 3.2M-year-old “Lucy” walked upright](https://arstechnica.com/science/2023/06/3d-muscle-reconstruction-shows-3-2-million-year-old-lucy-walked-upright/)
-- [ChatGPT Voice Assistant](https://github.com/jakecyr/chatgpt-voice-assistant)
-- [OpenAI GPT – Software Design Description to Diagram Image](https://github.com/jakecyr/gpt-text-to-diagram)
-- [Derive a TypeScript Interface from JSON or a JavaScript Object](https://github.com/jakecyr/derive-ts)
-- [China millionaire exodus to continue this year](https://asia.nikkei.com/Economy/China-millionaire-exodus-to-continue-this-year-report)
-- [Damage Functions](https://lpeproject.org/blog/damage-functions-economics-climate-science/)
-- [For Sale: A Promise to Remove Invisible Gas](https://jamie-wong.com/post/carbon-dioxide-removal/)
-- [Has anyone here got hired through workatastartup?](https://news.ycombinator.com/item?id=36320551)
+- [Drugs like ritalin, dexamphetamine decrease the quality of cognitive effort](https://www.science.org/doi/10.1126/sciadv.add4165)
+- [Applying Fault Injection to the Firmware Update Process of a Drone](https://labs.ioactive.com/2023/06/applying-fault-injection-to-firmware.html)
+- [Ask HN: Share your favorite tampermonkey script](https://news.ycombinator.com/item?id=36335698)
+- [Not Buying Central Banks’ Favorite Excuse](https://www.project-syndicate.org/commentary/central-bank-separation-principle-a-factor-in-svb-banking-crisis-by-raghuram-rajan-2023-05)
+- [Show HN: FFmpeg UI](https://ybouane.com/ffmpeg-ui)
+- [Protest song vanishes from Spotify, Apple Music ahead of government ban](https://hongkongfp.com/2023/06/14/protest-song-glory-to-hong-kong-vanishes-from-spotify-apple-streaming-sites-ahead-of-govt-legal-bid-to-ban-it/)
+- [Deploying drones to combat mosquito population](https://ktla.com/news/local-news/crews-deploying-drone-to-combat-mosquito-population-in-orange-county/)
+- [Interview with an Emacs Enthusiast in 2023 [Colorized]](https://www.youtube.com/watch?v=urcL86UpqZc)
+- [Ban Fox News from TV, CRTC Hears as Thousands of Canadians Write In](https://nationalpost.com/news/politics/ban-fox-news-from-tv-crtc-hears-as-thousands-of-canadians-write-to-regulator)
+- [What Is Cede and What Role Does Cede Play in the Trading of Stocks?](https://smithonstocks.com/part-8-illegal-naked-shorting-series-who-or-what-is-cede-and-what-role-does-cede-play-in-the-trading-of-stocks/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

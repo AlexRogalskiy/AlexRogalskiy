@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [European Commission could move to break up Google’s ad empire](https://www.computerworld.com/article/3699708/european-commission-could-move-to-break-up-googles-ad-empire.html#tk.rss_all)
+- [EU Parliament approves AI Act, moving it closer to becoming law](https://www.computerworld.com/article/3699311/eu-parliament-approves-ai-act-moving-it-closer-to-becoming-law.html#tk.rss_all)
+- [US judge temporarily blocks Microsoft&#39;s Activision deal at request of FTC](https://www.computerworld.com/article/3699310/us-judge-temporarily-blocks-microsofts-activision-deal-at-request-of-ftc.html#tk.rss_all)
+- [6 ways iPadOS 17 makes iPads more productive](https://www.computerworld.com/article/3699266/6-ways-ipados-17-makes-ipads-more-productive.html#tk.rss_all)
+- [Android&#39;s hidden Smart Display superpower](https://www.computerworld.com/article/3699114/android-smart-display.html#tk.rss_all)
+- [5 hot workplace collaboration trends &lpar;and 2 going cold&rpar;](https://www.computerworld.com/article/3699069/workplace-collaboration-trends.html#tk.rss_all)
 - [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
 - [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
 - [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
 - [HomeKit is going to be everywhere as ABB buys Eve Systems](https://www.computerworld.com/article/3699354/homekit-is-going-to-be-everywhere-as-abb-buys-eve-systems.html#tk.rss_all)
-- [Q&amp;A: For UST’s CTO, AI is ‘a necessary evil’](https://www.computerworld.com/article/3698470/ai-is-a-necessary-evil-interview-with-cto-of-ust.html#tk.rss_all)
-- [What will Apple’s vision for Apple Vision be in 2025?](https://www.computerworld.com/article/3699057/what-will-apples-vision-for-apple-vision-be-in-2025.html#tk.rss_all)
-- [The good and bad about Windows 11](https://www.computerworld.com/article/3699260/the-good-and-bad-about-windows-11.html#tk.rss_all)
-- [At WWDC, Apple hones in on device management](https://www.computerworld.com/article/3699389/at-wwdc-apple-hones-in-on-device-management.html#tk.rss_all)
-- [Apple’s Vision Pro: Can it leap the headset-wearing hurdle?](https://www.computerworld.com/article/3699112/apple-s-vision-pro-can-it-leap-the-headset-wearing-hurdle.html#tk.rss_all)
-- [Handy Outlook keyboard shortcuts for Windows and Mac](https://www.computerworld.com/article/3696984/microsoft-outlook-keyboard-shortcuts-for-windows-and-mac.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

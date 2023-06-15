@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Trump claims ‘political persecution’ in speech after arraignment](https://www.theguardian.com/us-news/2023/jun/13/trump-new-jersey-speech-after-arraignment)
-- [Malaysia to ask Interpol for help to track down comedian over MH370 joke](https://www.theguardian.com/world/2023/jun/14/malaysia-to-ask-interpol-for-help-to-track-down-comedian-over-mh370-joke)
-- [How Saudi Arabia took over professional golf - podcast](https://www.theguardian.com/news/audio/2023/jun/14/how-saudi-arabia-took-over-professional-golf-podcast)
-- [A silent and sullen Trump goes before judge in Miami – amid din outside](https://www.theguardian.com/us-news/2023/jun/13/miami-trump-circus-arraignment)
-- [US House unanimously calls on Russia to release journalist Evan Gershkovich](https://www.theguardian.com/us-news/2023/jun/13/us-house-unanimous-vote-evan-gershkovich-russia)
-- [Marriages in China drop to record low despite government push](https://www.theguardian.com/world/2023/jun/14/marriages-in-china-drop-to-record-low-despite-government-push)
-- [Russia-Ukraine war at a glance: what we know on day 476 of the invasion](https://www.theguardian.com/world/2023/jun/14/russia-ukraine-war-at-a-glance-what-we-know-on-day-476-of-the-invasion)
-- [Nobel laureate Maria Ressa says research by Oxford institute can be used against reporters](https://www.theguardian.com/media/2023/jun/14/nobel-laureate-says-research-by-oxford-institute-can-be-used-against-reporters)
-- [Māori ancestral remains and mummified heads returned to New Zealand from Germany](https://www.theguardian.com/world/2023/jun/14/maori-ancestral-remains-and-mummified-heads-returned-to-new-zealand-from-germany)
-- [Miriam Margolyes: ‘I never had any shame about being gay’](https://www.theguardian.com/fashion/2023/jun/13/miriam-margolyes-i-never-had-any-shame-about-being-gay)
+- [Is it time to decriminalise abortion in the UK? – podcast](https://www.theguardian.com/news/audio/2023/jun/15/is-it-time-to-decriminalise-abortion-uk-podcast)
+- [Cyclone Biparjoy: more than 100,000 evacuated in India and Pakistan as storm nears](https://www.theguardian.com/world/2023/jun/15/cyclone-biparjoy-more-than-100000-evacuated-in-india-and-pakistan-as-storm-nears)
+- [Beyoncé concert in Stockholm blamed for unexpectedly high Swedish inflation](https://www.theguardian.com/music/2023/jun/15/beyonce-concert-in-stockholm-blamed-for-unexpectedly-high-swedish-inflation)
+- [New Zealand falls into recession, as impact of cyclones takes toll](https://www.theguardian.com/world/2023/jun/15/new-zealand-falls-into-recession-as-impact-of-cyclones-takes-toll)
+- [Australian government passes law cancelling lease on new Russian embassy site over security concerns](https://www.theguardian.com/australia-news/2023/jun/15/australian-government-to-pass-law-cancelling-lease-on-new-russian-embassy-site)
+- [Russia-Ukraine war at a glance: what we know on day 477 of the invasion](https://www.theguardian.com/world/2023/jun/15/russia-ukraine-war-at-a-glance-what-we-know-on-day-477-of-the-invasion)
+- [Canada freezes ties with Chinese bank AIIB over claim it is ‘dominated by Communist party’](https://www.theguardian.com/business/2023/jun/15/canada-freezes-ties-with-chinese-bank-aiib-over-claim-it-is-dominated-by-communist-party)
+- [Record number of renters seeking help with no-fault evictions](https://www.theguardian.com/money/2023/jun/15/record-number-renters-seeking-help-no-fault-evictions)
+- [Qatar World Cup organisers ‘failed to protect workers,’ claims Amnesty](https://www.theguardian.com/football/2023/jun/15/qatar-world-cup-organisers-failed-to-protect-workers-claims-amnesty)
+- [42nd Street review – frivolous fantasy given punch, precision and panache](https://www.theguardian.com/stage/2023/jun/15/42nd-street-review-sadlers-wells-london-ruthie-henshall)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

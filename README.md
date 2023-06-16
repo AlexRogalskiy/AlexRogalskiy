@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [How and why to use FIDO Security Keys for Apple ID](https://www.computerworld.com/article/3699712/how-and-why-to-use-fido-security-keys-for-apple-id.html#tk.rss_all)
+- [UK targets new funding to support the development of &#39;responsible AI&#39;](https://www.computerworld.com/article/3699713/uk-targets-new-funding-to-support-the-development-of-responsible-ai.html#tk.rss_all)
+- [Employees want remote-work tools, not in-office mandates, Atlassian says](https://www.computerworld.com/article/3699768/employees-want-remote-work-tools-not-in-office-mandates-atlassian-says.html#tk.rss_all)
+- [13 tips to get the most out of Microsoft Whiteboard](https://www.computerworld.com/article/3699139/how-to-use-microsoft-whiteboard.html#tk.rss_all)
 - [European Commission could move to break up Google’s ad empire](https://www.computerworld.com/article/3699708/european-commission-could-move-to-break-up-googles-ad-empire.html#tk.rss_all)
 - [EU Parliament approves AI Act, moving it closer to becoming law](https://www.computerworld.com/article/3699311/eu-parliament-approves-ai-act-moving-it-closer-to-becoming-law.html#tk.rss_all)
 - [US judge temporarily blocks Microsoft&#39;s Activision deal at request of FTC](https://www.computerworld.com/article/3699310/us-judge-temporarily-blocks-microsofts-activision-deal-at-request-of-ftc.html#tk.rss_all)
 - [6 ways iPadOS 17 makes iPads more productive](https://www.computerworld.com/article/3699266/6-ways-ipados-17-makes-ipads-more-productive.html#tk.rss_all)
 - [Android&#39;s hidden Smart Display superpower](https://www.computerworld.com/article/3699114/android-smart-display.html#tk.rss_all)
-- [5 hot workplace collaboration trends &lpar;and 2 going cold&rpar;](https://www.computerworld.com/article/3699069/workplace-collaboration-trends.html#tk.rss_all)
-- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
-- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
-- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
-- [HomeKit is going to be everywhere as ABB buys Eve Systems](https://www.computerworld.com/article/3699354/homekit-is-going-to-be-everywhere-as-abb-buys-eve-systems.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The NVIDIA AI Red Team](https://developer.nvidia.com/blog/nvidia-ai-red-team-an-introduction/)
-- [On the slow productivity of John Wick](https://calnewport.com/on-the-slow-productivity-of-john-wick/)
-- [SETI Scientists to Devise Plan for Lunar Listening Station](https://www.supercluster.com/editorial/seti-scientists-to-devise-plan-for-lunar-listening-station/)
-- [Scientists Discover Phosphorus on Enceladus](https://tlpnetwork.com/news/2023/06/scientists-discover-phosphorus-on-enceladus)
-- [Nvidia H100 and A100 GPUs – comparing available capacity at GPU cloud providers](https://llm-utils.org/Nvidia+H100+and+A100+GPUs+-+comparing+available+capacity+at+GPU+cloud+providers)
-- [Gorilla: Large Language Model Connected with APIs](https://shishirpatil.github.io/gorilla/)
-- [Myths Programmers Believe about CPU Caches](https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/)
-- [The Overhang Problem &lpar;2007&rpar; [pdf]](https://math.dartmouth.edu/~pw/papers/maxover.pdf)
-- [Trapped Under Trucks](https://www.propublica.org/article/underride-crashes-nhtsa-dot-iihs-safety-cars-trucks)
-- [The danger of delegating education to journalists &lpar;2012&rpar;](https://radicalscholarship.com/2014/11/03/guest-post-the-danger-of-delegating-education-to-journalists-k-anders-ericsson/)
+- [CUDA Accelerated Raytracer](https://github.com/maxilevi/raytracer)
+- [FAA Requires Secondary Flight Deck Barrier](https://www.faa.gov/newsroom/faa-requires-secondary-flight-deck-barrier)
+- [Generating Income from Open Source](https://vadimdemedes.com/posts/generating-income-from-open-source)
+- [The Distributed Tensor Algebra Compiler &lpar;2022&rpar;](https://arxiv.org/abs/2203.08069)
+- [Squarespace Enters Definitive Agreement to Acquire Google Domains Assets](https://newsroom.squarespace.com/blog/googledomains)
+- [Localrf – Nerf from casual shaky videos](https://localrf.github.io/)
+- [Diablo Pitch Document &lpar;1994&rpar; [pdf]](http://www.graybeardgames.com/download/diablo_pitch.pdf)
+- [Software effort estimation is mostly fake research](https://shape-of-code.com/2021/01/17/software-effort-estimation-is-mostly-fake-research/)
+- [The Online Books Page](https://onlinebooks.library.upenn.edu/)
+- [How the brain processes German and Arabic](https://en.qantara.de/content/language-and-language-acquisition-how-the-brain-processes-german-and-arabic)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Drugs like ritalin, dexamphetamine decrease the quality of cognitive effort](https://www.science.org/doi/10.1126/sciadv.add4165)
-- [Applying Fault Injection to the Firmware Update Process of a Drone](https://labs.ioactive.com/2023/06/applying-fault-injection-to-firmware.html)
-- [Ask HN: Share your favorite tampermonkey script](https://news.ycombinator.com/item?id=36335698)
-- [Not Buying Central Banks’ Favorite Excuse](https://www.project-syndicate.org/commentary/central-bank-separation-principle-a-factor-in-svb-banking-crisis-by-raghuram-rajan-2023-05)
-- [Show HN: FFmpeg UI](https://ybouane.com/ffmpeg-ui)
-- [Protest song vanishes from Spotify, Apple Music ahead of government ban](https://hongkongfp.com/2023/06/14/protest-song-glory-to-hong-kong-vanishes-from-spotify-apple-streaming-sites-ahead-of-govt-legal-bid-to-ban-it/)
-- [Deploying drones to combat mosquito population](https://ktla.com/news/local-news/crews-deploying-drone-to-combat-mosquito-population-in-orange-county/)
-- [Interview with an Emacs Enthusiast in 2023 [Colorized]](https://www.youtube.com/watch?v=urcL86UpqZc)
-- [Ban Fox News from TV, CRTC Hears as Thousands of Canadians Write In](https://nationalpost.com/news/politics/ban-fox-news-from-tv-crtc-hears-as-thousands-of-canadians-write-to-regulator)
-- [What Is Cede and What Role Does Cede Play in the Trading of Stocks?](https://smithonstocks.com/part-8-illegal-naked-shorting-series-who-or-what-is-cede-and-what-role-does-cede-play-in-the-trading-of-stocks/)
+- [Metformin shown to prevent long Covid](https://www.cidrap.umn.edu/covid-19/common-diabetes-drug-shown-prevent-long-covid)
+- [The Upper West Side Cult That Hid in Plain Sight](https://www.newyorker.com/books/under-review/the-upper-west-side-cult-that-hid-in-plain-sight)
+- [Can AMD’s MI300X Take on Nvidia’s H100?](https://www.eetimes.com/can-amds-mi300x-take-on-nvidias-h100/)
+- [Falcon LLM: The Most Powerful Open Source LLM Released to Date](https://thesequence.substack.com/p/edge-300-meet-falcon-llm-the-most)
+- [Unraveling Rust Memory Leaks: Useful Techniques for Identifying Memory Issues](https://greptime.com/blogs/2023-06-15-rust-memory-leaks)
+- [Mobile web component library based on Svelte and Tailwind](https://stdf.design/)
+- [US Chip Gearmaker Accuses China Rival of 14-Month Spy Spree](https://www.bloomberg.com/news/articles/2023-06-15/applied-materials-accuses-china-owned-rival-of-14-month-spy-spree)
+- [A Better ChatGPT Experience](https://botmate.co)
+- [&#39;Smart drugs&#39; don&#39;t make people better at a problem-solving test](https://www.newscientist.com/article/2378272-smart-drugs-dont-make-people-better-at-a-problem-solving-test/)
+- [OSS tool for generate “Circle of Friends” for GitHub user](https://github.com/hooopo/oh-my-github-circles)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

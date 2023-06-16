@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Is it time to decriminalise abortion in the UK? – podcast](https://www.theguardian.com/news/audio/2023/jun/15/is-it-time-to-decriminalise-abortion-uk-podcast)
-- [Cyclone Biparjoy: more than 100,000 evacuated in India and Pakistan as storm nears](https://www.theguardian.com/world/2023/jun/15/cyclone-biparjoy-more-than-100000-evacuated-in-india-and-pakistan-as-storm-nears)
-- [Beyoncé concert in Stockholm blamed for unexpectedly high Swedish inflation](https://www.theguardian.com/music/2023/jun/15/beyonce-concert-in-stockholm-blamed-for-unexpectedly-high-swedish-inflation)
-- [New Zealand falls into recession, as impact of cyclones takes toll](https://www.theguardian.com/world/2023/jun/15/new-zealand-falls-into-recession-as-impact-of-cyclones-takes-toll)
-- [Australian government passes law cancelling lease on new Russian embassy site over security concerns](https://www.theguardian.com/australia-news/2023/jun/15/australian-government-to-pass-law-cancelling-lease-on-new-russian-embassy-site)
-- [Russia-Ukraine war at a glance: what we know on day 477 of the invasion](https://www.theguardian.com/world/2023/jun/15/russia-ukraine-war-at-a-glance-what-we-know-on-day-477-of-the-invasion)
-- [Canada freezes ties with Chinese bank AIIB over claim it is ‘dominated by Communist party’](https://www.theguardian.com/business/2023/jun/15/canada-freezes-ties-with-chinese-bank-aiib-over-claim-it-is-dominated-by-communist-party)
-- [Record number of renters seeking help with no-fault evictions](https://www.theguardian.com/money/2023/jun/15/record-number-renters-seeking-help-no-fault-evictions)
-- [Qatar World Cup organisers ‘failed to protect workers,’ claims Amnesty](https://www.theguardian.com/football/2023/jun/15/qatar-world-cup-organisers-failed-to-protect-workers-claims-amnesty)
-- [42nd Street review – frivolous fantasy given punch, precision and panache](https://www.theguardian.com/stage/2023/jun/15/42nd-street-review-sadlers-wells-london-ruthie-henshall)
+- [US Open golf 2023: first round – live](https://www.theguardian.com/sport/live/2023/jun/15/us-open-golf-2023-first-round-live)
+- [Boris Johnson: the damning verdict](https://www.theguardian.com/news/audio/2023/jun/16/boris-johnson-the-damning-verdict)
+- [Second Trump defamation trial brought by E Jean Carroll set for January 2024](https://www.theguardian.com/us-news/2023/jun/15/second-trump-defamation-trial-e-jean-carroll-january-2024)
+- [UN nuclear chief says situation at Zaporizhzhia plant is ‘serious’ but it can operate safely for ‘some time’](https://www.theguardian.com/world/2023/jun/16/un-nuclear-chief-says-situation-at-zaporizhzhia-plant-is-serious-but-it-can-operate-safely-for-some-time)
+- [Trump celebrates as Westchester prosecutor closes tax investigation](https://www.theguardian.com/us-news/2023/jun/15/trump-westchester-new-york-no-charges)
+- [‘Horrific’ Canada highway crash leaves at least 15 dead](https://www.theguardian.com/world/2023/jun/15/canada-highway-crash-manitoba-mass-casualty)
+- [Russia-Ukraine war at a glance: what we know on day 478 of the invasion](https://www.theguardian.com/world/2023/jun/16/russia-ukraine-war-at-a-glance-what-we-know-on-day-478-of-the-invasion)
+- [California seizes enough fentanyl in San Francisco to kill city’s population three times over](https://www.theguardian.com/us-news/2023/jun/15/california-fentanyl-overdose-newsom-supervised-drug-use-san-francisco)
+- [Church hands over ‘voluminous documents’ about accused US ex-priest](https://www.theguardian.com/us-news/2023/jun/15/catholic-church-child-sexual-abuse-new-orleans-lawrence-hecker)
+- [Bar for street sexual harassment offences in England and Wales set too high, charities say](https://www.theguardian.com/world/2023/jun/16/street-sexual-harassment-offences-england-and-wales-bar-set-too-high-charities-say)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

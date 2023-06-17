@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Metformin shown to prevent long Covid](https://www.cidrap.umn.edu/covid-19/common-diabetes-drug-shown-prevent-long-covid)
-- [The Upper West Side Cult That Hid in Plain Sight](https://www.newyorker.com/books/under-review/the-upper-west-side-cult-that-hid-in-plain-sight)
-- [Can AMD’s MI300X Take on Nvidia’s H100?](https://www.eetimes.com/can-amds-mi300x-take-on-nvidias-h100/)
-- [Falcon LLM: The Most Powerful Open Source LLM Released to Date](https://thesequence.substack.com/p/edge-300-meet-falcon-llm-the-most)
-- [Unraveling Rust Memory Leaks: Useful Techniques for Identifying Memory Issues](https://greptime.com/blogs/2023-06-15-rust-memory-leaks)
-- [Mobile web component library based on Svelte and Tailwind](https://stdf.design/)
-- [US Chip Gearmaker Accuses China Rival of 14-Month Spy Spree](https://www.bloomberg.com/news/articles/2023-06-15/applied-materials-accuses-china-owned-rival-of-14-month-spy-spree)
-- [A Better ChatGPT Experience](https://botmate.co)
-- [&#39;Smart drugs&#39; don&#39;t make people better at a problem-solving test](https://www.newscientist.com/article/2378272-smart-drugs-dont-make-people-better-at-a-problem-solving-test/)
-- [OSS tool for generate “Circle of Friends” for GitHub user](https://github.com/hooopo/oh-my-github-circles)
+- [The AI business: Commercial uses of artificial intelligence &lpar;1986&rpar;](https://www.sciencedirect.com/science/article/abs/pii/0004370286900573)
+- [Ryujinx Progress Report May 2023 &lpar;Nintendo Switch Emulator&rpar;](https://blog.ryujinx.org/progress-report-may-2023/)
+- [Ex-Samsung exec charged stealing secrets to create copycat chip factory in China](https://apnews.com/article/korea-samsung-china-copycat-semiconductor-bfdf3ad9f817f646d0d47294f62e334f)
+- [“Autonomous Agents” or “Directed Agents”? What Are the Pros and Cons?](https://github.com/Nuggt-dev/Nuggt)
+- [Hong Kong Put Pressure on 3 Major Banks to Take on Crypto Exchanges as Clients](https://www.coindesk.com/policy/2023/06/15/hong-kong-put-pressure-on-three-major-banks-to-take-on-crypto-exchanges-as-clients-report/)
+- [Ask HN: Is Kick.com somehow using Twitch to not have to pay bandwidth costs?](https://news.ycombinator.com/item?id=36366459)
+- [Thoughts on making Tildes groups more independent](https://tildes.net/~tildes.official/167q/thoughts_on_making_tildes_groups_more_independent)
+- [Louis Rossmann - Reddit forcibly breaks strike; this is an UNINVESTABLE company!](https://www.youtube.com/watch?v=JPLbnNDjo5Y)
+- [Rabbit Remix &lpar;block-based AI API flows&rpar;](https://www.rabbitremix.com/)
+- [Wyre Winding Down](https://www.reuters.com/technology/wyre-winding-down-crypto-winter-bites-2023-06-16/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

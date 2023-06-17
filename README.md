@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [CUDA Accelerated Raytracer](https://github.com/maxilevi/raytracer)
-- [FAA Requires Secondary Flight Deck Barrier](https://www.faa.gov/newsroom/faa-requires-secondary-flight-deck-barrier)
-- [Generating Income from Open Source](https://vadimdemedes.com/posts/generating-income-from-open-source)
-- [The Distributed Tensor Algebra Compiler &lpar;2022&rpar;](https://arxiv.org/abs/2203.08069)
-- [Squarespace Enters Definitive Agreement to Acquire Google Domains Assets](https://newsroom.squarespace.com/blog/googledomains)
-- [Localrf – Nerf from casual shaky videos](https://localrf.github.io/)
-- [Diablo Pitch Document &lpar;1994&rpar; [pdf]](http://www.graybeardgames.com/download/diablo_pitch.pdf)
-- [Software effort estimation is mostly fake research](https://shape-of-code.com/2021/01/17/software-effort-estimation-is-mostly-fake-research/)
-- [The Online Books Page](https://onlinebooks.library.upenn.edu/)
-- [How the brain processes German and Arabic](https://en.qantara.de/content/language-and-language-acquisition-how-the-brain-processes-german-and-arabic)
+- [Humans Have Pumped Enough Groundwater to Change the Tilt of the Earth](http://68k.news/article.php?loc=US&a=https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vZTM2MC55YWxlLmVkdS9kaWdlc3QvZ3JvdW5kd2F0ZXItZGVwbGV0aW9uLWVhcnRocy1heGlz0gEA?oc=5)
+- [Smart Guy Productivity Pitfalls](https://waivek.github.io/website/tooltip.html)
+- [Google Is Shutting Down Album Archive](https://cordcuttersnews.com/google-is-shutting-down-album-archive/)
+- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Chief of Staff](https://news.ycombinator.com/item?id=36366062)
+- [Merging Bcachefs](https://lwn.net/SubscriberLink/934692/5046d466490d9220/)
+- [How Ancient Astronaut Theorists Faked a Hindu Nuclear Explosion](https://www.jasoncolavito.com/the-case-of-the-false-quotes.html)
+- [Show HN: 77 Year old launches SaaS platform today. Seeks feedback](https://propbox.co)
+- [When a Huawei Bid Turned into a Hunt for a Corporate Mole](https://www.bloomberg.com/news/features/2023-06-15/how-huawei-got-caught-spying-and-lost-a-200-million-5g-contract)
+- [Testosterone Therapy and Your Heart: New Research Finds No Increased Risk](https://www.wsj.com/articles/testosterone-therapy-can-be-safe-but-there-are-heart-risks-a544b8b5)
+- [Every Louisiana driver&#39;s license holder exposed in cyberattack](https://www.theguardian.com/us-news/2023/jun/16/louisiana-drivers-license-hack-cyber-attack)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

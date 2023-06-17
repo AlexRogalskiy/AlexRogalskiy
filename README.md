@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [US Open golf 2023: first round – live](https://www.theguardian.com/sport/live/2023/jun/15/us-open-golf-2023-first-round-live)
-- [Boris Johnson: the damning verdict](https://www.theguardian.com/news/audio/2023/jun/16/boris-johnson-the-damning-verdict)
-- [Second Trump defamation trial brought by E Jean Carroll set for January 2024](https://www.theguardian.com/us-news/2023/jun/15/second-trump-defamation-trial-e-jean-carroll-january-2024)
-- [UN nuclear chief says situation at Zaporizhzhia plant is ‘serious’ but it can operate safely for ‘some time’](https://www.theguardian.com/world/2023/jun/16/un-nuclear-chief-says-situation-at-zaporizhzhia-plant-is-serious-but-it-can-operate-safely-for-some-time)
-- [Trump celebrates as Westchester prosecutor closes tax investigation](https://www.theguardian.com/us-news/2023/jun/15/trump-westchester-new-york-no-charges)
-- [‘Horrific’ Canada highway crash leaves at least 15 dead](https://www.theguardian.com/world/2023/jun/15/canada-highway-crash-manitoba-mass-casualty)
-- [Russia-Ukraine war at a glance: what we know on day 478 of the invasion](https://www.theguardian.com/world/2023/jun/16/russia-ukraine-war-at-a-glance-what-we-know-on-day-478-of-the-invasion)
-- [California seizes enough fentanyl in San Francisco to kill city’s population three times over](https://www.theguardian.com/us-news/2023/jun/15/california-fentanyl-overdose-newsom-supervised-drug-use-san-francisco)
-- [Church hands over ‘voluminous documents’ about accused US ex-priest](https://www.theguardian.com/us-news/2023/jun/15/catholic-church-child-sexual-abuse-new-orleans-lawrence-hecker)
-- [Bar for street sexual harassment offences in England and Wales set too high, charities say](https://www.theguardian.com/world/2023/jun/16/street-sexual-harassment-offences-england-and-wales-bar-set-too-high-charities-say)
+- [US Open golf 2023: second round – live updates](https://www.theguardian.com/sport/live/2023/jun/16/us-open-golf-2023-second-round-live-updates)
+- [Researchers one step closer to growing decaffeinated coffee beans](https://www.theguardian.com/food/2023/jun/17/researchers-one-step-closer-to-growing-decaffeinated-coffee-beans)
+- [Lilienblum, London EC1: ‘Somehow, it all works’ – restaurant review](https://www.theguardian.com/food/2023/jun/16/lilienblum-london-ec1-restaurant-review-grace-dent)
+- [Heather Mack: US woman pleads guilty over mother’s suitcase murder](https://www.theguardian.com/world/2023/jun/16/heather-mack-guilty-bali-murder-mother)
+- [Ban on two-for-one junk food deals to be delayed for two more years](https://www.theguardian.com/society/2023/jun/17/ban-two-for-one-junk-food-deals-delayed-two-years)
+- [Simon Callow: ‘Coming out was my biggest act of activism’](https://www.theguardian.com/lifeandstyle/2023/jun/17/simon-callow-coming-out-was-my-biggest-act-of-activism)
+- [USWNT captain Becky Sauerbrunn to miss World Cup due to foot injury](https://www.theguardian.com/football/2023/jun/16/becky-sauerbrunn-injury-us-soccer-captain)
+- [Warning of floods over weekend, with storms set to hit parts of UK](https://www.theguardian.com/uk-news/2023/jun/16/warning-of-floods-over-weekend-with-storms-set-to-hit-parts-of-uk)
+- [The highs and lows of Meghan’s Archetypes podcast](https://www.theguardian.com/uk-news/2023/jun/16/some-of-the-highs-and-lows-of-meghans-archetypes-podcast)
+- [Martin Amis, Ian McEwan and Anna Wintour honoured in king’s birthday list](https://www.theguardian.com/uk-news/2023/jun/16/martin-amis-ian-mcewan-and-anna-wintour-honoured-in-kings-birthday-list)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

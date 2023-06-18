@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The AI business: Commercial uses of artificial intelligence &lpar;1986&rpar;](https://www.sciencedirect.com/science/article/abs/pii/0004370286900573)
-- [Ryujinx Progress Report May 2023 &lpar;Nintendo Switch Emulator&rpar;](https://blog.ryujinx.org/progress-report-may-2023/)
-- [Ex-Samsung exec charged stealing secrets to create copycat chip factory in China](https://apnews.com/article/korea-samsung-china-copycat-semiconductor-bfdf3ad9f817f646d0d47294f62e334f)
-- [“Autonomous Agents” or “Directed Agents”? What Are the Pros and Cons?](https://github.com/Nuggt-dev/Nuggt)
-- [Hong Kong Put Pressure on 3 Major Banks to Take on Crypto Exchanges as Clients](https://www.coindesk.com/policy/2023/06/15/hong-kong-put-pressure-on-three-major-banks-to-take-on-crypto-exchanges-as-clients-report/)
-- [Ask HN: Is Kick.com somehow using Twitch to not have to pay bandwidth costs?](https://news.ycombinator.com/item?id=36366459)
-- [Thoughts on making Tildes groups more independent](https://tildes.net/~tildes.official/167q/thoughts_on_making_tildes_groups_more_independent)
-- [Louis Rossmann - Reddit forcibly breaks strike; this is an UNINVESTABLE company!](https://www.youtube.com/watch?v=JPLbnNDjo5Y)
-- [Rabbit Remix &lpar;block-based AI API flows&rpar;](https://www.rabbitremix.com/)
-- [Wyre Winding Down](https://www.reuters.com/technology/wyre-winding-down-crypto-winter-bites-2023-06-16/)
+- [How to get more involved with Bay Area AI builders?](https://news.ycombinator.com/item?id=36376838)
+- [America Saves 2023](https://institutional.vanguard.com/how-america-saves/overview.html)
+- [Creativity in the Age of AI [video]](https://www.youtube.com/watch?v=y7g-nRooZr8)
+- [Schools should teach AI to every child](https://venturebeat.com/ai/schools-should-teach-ai-to-every-child-according-to-andrew-ng-and-andrea-pasinetti/)
+- [On Bloom&#39;s two sigma problem: Mastery learning, tutoring, and direct instruction](https://nintil.com/bloom-sigma/)
+- [Physicists split bits of sound using quantum mechanics](https://www.sciencenews.org/article/quantum-mechanics-sound-split-phonon)
+- [Zero Copy OpenCL Buffers](https://laude.cloud/post/jupyter/)
+- [Aliens or Not, Secret Crash Retrieval Programs Are a Real Thing](https://www.thedrive.com/the-war-zone/aliens-or-not-secret-crash-retrieval-programs-are-a-very-real-thing)
+- [The New War on Bad Air](https://www.nytimes.com/2023/06/17/health/covid-ventilation-air-quality.html)
+- [Compounding Optimism](https://collabfund.com/blog/compounding-optimism/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

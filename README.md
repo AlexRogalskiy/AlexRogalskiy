@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [US Open golf 2023: second round – live updates](https://www.theguardian.com/sport/live/2023/jun/16/us-open-golf-2023-second-round-live-updates)
-- [Researchers one step closer to growing decaffeinated coffee beans](https://www.theguardian.com/food/2023/jun/17/researchers-one-step-closer-to-growing-decaffeinated-coffee-beans)
-- [Lilienblum, London EC1: ‘Somehow, it all works’ – restaurant review](https://www.theguardian.com/food/2023/jun/16/lilienblum-london-ec1-restaurant-review-grace-dent)
-- [Heather Mack: US woman pleads guilty over mother’s suitcase murder](https://www.theguardian.com/world/2023/jun/16/heather-mack-guilty-bali-murder-mother)
-- [Ban on two-for-one junk food deals to be delayed for two more years](https://www.theguardian.com/society/2023/jun/17/ban-two-for-one-junk-food-deals-delayed-two-years)
-- [Simon Callow: ‘Coming out was my biggest act of activism’](https://www.theguardian.com/lifeandstyle/2023/jun/17/simon-callow-coming-out-was-my-biggest-act-of-activism)
-- [USWNT captain Becky Sauerbrunn to miss World Cup due to foot injury](https://www.theguardian.com/football/2023/jun/16/becky-sauerbrunn-injury-us-soccer-captain)
-- [Warning of floods over weekend, with storms set to hit parts of UK](https://www.theguardian.com/uk-news/2023/jun/16/warning-of-floods-over-weekend-with-storms-set-to-hit-parts-of-uk)
-- [The highs and lows of Meghan’s Archetypes podcast](https://www.theguardian.com/uk-news/2023/jun/16/some-of-the-highs-and-lows-of-meghans-archetypes-podcast)
-- [Martin Amis, Ian McEwan and Anna Wintour honoured in king’s birthday list](https://www.theguardian.com/uk-news/2023/jun/16/martin-amis-ian-mcewan-and-anna-wintour-honoured-in-kings-birthday-list)
+- [US Open golf 2023: third round – live updates](https://www.theguardian.com/sport/live/2023/jun/17/us-open-golf-2023-third-round-live-updates)
+- [Brazil: 11 dead and 20 missing after cyclone strikes in south](https://www.theguardian.com/world/2023/jun/18/brazil-11-dead-and-20-missing-after-cyclone-strikes-in-south)
+- [Antony Blinken begins China visit that spy balloon put off](https://www.theguardian.com/us-news/2023/jun/18/antony-blinken-begins-china-visit-that-spy-balloon-put-off)
+- [Max Verstappen easily takes Canadian F1 GP pole but Lewis Hamilton happy](https://www.theguardian.com/sport/2023/jun/17/dominant-max-verstappen-claims-canadian-f1-gp-pole)
+- [Russia-Ukraine war at a glance: what we know on day 480 of the invasion](https://www.theguardian.com/world/2023/jun/18/russia-ukraine-war-at-a-glance-what-we-know-on-day-480-of-the-invasion)
+- [Sunak, Hunt and homebuyers brace for an economic Big Wednesday](https://www.theguardian.com/business/2023/jun/18/sunak-hunt-and-homebuyers-brace-for-an-economic-big-wednesday)
+- [Adam Kay tells of life ‘transformed’ by two babies](https://www.theguardian.com/tv-and-radio/2023/jun/18/adam-kay-tells-of-life-transformed-by-two-babies)
+- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2023/jun/17/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Summer sandals: 20 of the best styles –  in pictures](https://www.theguardian.com/fashion/gallery/2023/jun/17/summer-sandals-20-of-the-best-styles-in-pictures)
+- [‘Western arrogance’: how the wellness movement co-opted an Amazon frog toxin with deadly effects](https://www.theguardian.com/australia-news/2023/jun/17/how-the-wellness-movement-co-opted-an-amazon-frog-toxin-with-deadly-effects)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

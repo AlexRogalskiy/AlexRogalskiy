@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Humans Have Pumped Enough Groundwater to Change the Tilt of the Earth](http://68k.news/article.php?loc=US&a=https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vZTM2MC55YWxlLmVkdS9kaWdlc3QvZ3JvdW5kd2F0ZXItZGVwbGV0aW9uLWVhcnRocy1heGlz0gEA?oc=5)
-- [Smart Guy Productivity Pitfalls](https://waivek.github.io/website/tooltip.html)
-- [Google Is Shutting Down Album Archive](https://cordcuttersnews.com/google-is-shutting-down-album-archive/)
-- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Chief of Staff](https://news.ycombinator.com/item?id=36366062)
-- [Merging Bcachefs](https://lwn.net/SubscriberLink/934692/5046d466490d9220/)
-- [How Ancient Astronaut Theorists Faked a Hindu Nuclear Explosion](https://www.jasoncolavito.com/the-case-of-the-false-quotes.html)
-- [Show HN: 77 Year old launches SaaS platform today. Seeks feedback](https://propbox.co)
-- [When a Huawei Bid Turned into a Hunt for a Corporate Mole](https://www.bloomberg.com/news/features/2023-06-15/how-huawei-got-caught-spying-and-lost-a-200-million-5g-contract)
-- [Testosterone Therapy and Your Heart: New Research Finds No Increased Risk](https://www.wsj.com/articles/testosterone-therapy-can-be-safe-but-there-are-heart-risks-a544b8b5)
-- [Every Louisiana driver&#39;s license holder exposed in cyberattack](https://www.theguardian.com/us-news/2023/jun/16/louisiana-drivers-license-hack-cyber-attack)
+- [How a Single Line of Code Made a 24-Core Server Slower Than a Laptop](https://pkolaczk.github.io/server-slower-than-a-laptop/)
+- [Update from Lemmy after the Reddit blackout](https://join-lemmy.org/news/2023-06-17_-_Update_from_Lemmy_after_the_Reddit_blackout)
+- [Falcon LLM – A 40B Model](https://falconllm.tii.ae/)
+- [Infinite Photorealistic Worlds Using Procedural Generation](https://arxiv.org/abs/2306.09310)
+- [The Risks of Staying Put](https://buttondown.email/robinrendle/archive/the-risks-of-staying-put/)
+- [Modern CSS for Dynamic Component-Based Architecture](https://moderncss.dev/modern-css-for-dynamic-component-based-architecture/)
+- [The Rot Economy](https://wheresyoured.at/p/the-rot-economy)
+- [The Staggering Frontiers of CSS](https://buttondown.email/robinrendle/archive/the-many-frontiers-of-css/)
+- [Rust vs Zig Benchmarks](https://programming-language-benchmarks.vercel.app/rust-vs-zig)
+- [The Secret Sauce behind 100K context window in LLMs: all tricks in one place](https://blog.gopenai.com/how-to-speed-up-llms-and-use-100k-context-window-all-tricks-in-one-place-ffd40577b4c)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

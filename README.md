@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [US Open golf 2023: third round – live updates](https://www.theguardian.com/sport/live/2023/jun/17/us-open-golf-2023-third-round-live-updates)
-- [Brazil: 11 dead and 20 missing after cyclone strikes in south](https://www.theguardian.com/world/2023/jun/18/brazil-11-dead-and-20-missing-after-cyclone-strikes-in-south)
-- [Antony Blinken begins China visit that spy balloon put off](https://www.theguardian.com/us-news/2023/jun/18/antony-blinken-begins-china-visit-that-spy-balloon-put-off)
-- [Max Verstappen easily takes Canadian F1 GP pole but Lewis Hamilton happy](https://www.theguardian.com/sport/2023/jun/17/dominant-max-verstappen-claims-canadian-f1-gp-pole)
-- [Russia-Ukraine war at a glance: what we know on day 480 of the invasion](https://www.theguardian.com/world/2023/jun/18/russia-ukraine-war-at-a-glance-what-we-know-on-day-480-of-the-invasion)
-- [Sunak, Hunt and homebuyers brace for an economic Big Wednesday](https://www.theguardian.com/business/2023/jun/18/sunak-hunt-and-homebuyers-brace-for-an-economic-big-wednesday)
-- [Adam Kay tells of life ‘transformed’ by two babies](https://www.theguardian.com/tv-and-radio/2023/jun/18/adam-kay-tells-of-life-transformed-by-two-babies)
-- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2023/jun/17/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Summer sandals: 20 of the best styles –  in pictures](https://www.theguardian.com/fashion/gallery/2023/jun/17/summer-sandals-20-of-the-best-styles-in-pictures)
-- [‘Western arrogance’: how the wellness movement co-opted an Amazon frog toxin with deadly effects](https://www.theguardian.com/australia-news/2023/jun/17/how-the-wellness-movement-co-opted-an-amazon-frog-toxin-with-deadly-effects)
+- [Wyndham Clark holds nerve to win 2023 US Open as Rory McIlroy falls agonisingly short](https://www.theguardian.com/sport/2023/jun/19/wyndham-clark-holds-nerve-to-win-2023-us-open-as-rory-mcilroy-falls-just-short)
+- [US ‘deeply troubled’ as Israel plans to approve thousands of homes in West Bank](https://www.theguardian.com/world/2023/jun/19/us-deeply-troubled-as-israel-plans-to-approve-thousands-of-homes-in-west-bank)
+- [Nine due in Greek court over shipwreck as Pakistan holds day of mourning](https://www.theguardian.com/world/2023/jun/19/nine-due-in-greek-court-over-shipwreck-as-pakistan-holds-day-of-mourning)
+- [The death of the Unabomber: will his dangerous influence live on? – podcast](https://www.theguardian.com/news/audio/2023/jun/19/death-unabomber-ted-kaczynski-will-dangerous-influence-live-on-podcast)
+- [Historic Indigenous voice referendum bill passes parliament ahead of public vote](https://www.theguardian.com/australia-news/2023/jun/19/indigenous-voice-to-parliament-referendum-bill-passed-alter-constitution-public-vote-australia)
+- [Antony Blinken in China: all eyes on whether US secretary of state will meet Xi Jinping](https://www.theguardian.com/us-news/2023/jun/19/antony-blinken-china-visit-meetings-talks-trip-xi-jinping-taiwan)
+- [India heatwave: nearly 100 dead amid warnings to stay indoors](https://www.theguardian.com/world/2023/jun/19/india-heatwave-scores-dead-warning-stay-indoors-during-day-heat-wave-uttar-pradesh-eastern-bihar)
+- [Russia-Ukraine war at a glance: what we know on day 481 of the invasion](https://www.theguardian.com/world/2023/jun/19/russia-ukraine-war-at-a-glance-what-we-know-on-day-481-of-the-invasion)
+- [Homelessness charities fear target to end rough sleeping by 2024 will be missed](https://www.theguardian.com/society/2023/jun/19/homelessness-charities-tell-pm-they-fear-rough-sleeping-target-will-be-missed)
+- [Child refugees could develop PTSD if locked up by UK, medical bodies say](https://www.theguardian.com/uk-news/2023/jun/19/child-refugees-could-develop-ptsd-if-locked-up-by-uk-medical-bodies-say)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

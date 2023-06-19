@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [How to get more involved with Bay Area AI builders?](https://news.ycombinator.com/item?id=36376838)
-- [America Saves 2023](https://institutional.vanguard.com/how-america-saves/overview.html)
-- [Creativity in the Age of AI [video]](https://www.youtube.com/watch?v=y7g-nRooZr8)
-- [Schools should teach AI to every child](https://venturebeat.com/ai/schools-should-teach-ai-to-every-child-according-to-andrew-ng-and-andrea-pasinetti/)
-- [On Bloom&#39;s two sigma problem: Mastery learning, tutoring, and direct instruction](https://nintil.com/bloom-sigma/)
-- [Physicists split bits of sound using quantum mechanics](https://www.sciencenews.org/article/quantum-mechanics-sound-split-phonon)
-- [Zero Copy OpenCL Buffers](https://laude.cloud/post/jupyter/)
-- [Aliens or Not, Secret Crash Retrieval Programs Are a Real Thing](https://www.thedrive.com/the-war-zone/aliens-or-not-secret-crash-retrieval-programs-are-a-very-real-thing)
-- [The New War on Bad Air](https://www.nytimes.com/2023/06/17/health/covid-ventilation-air-quality.html)
-- [Compounding Optimism](https://collabfund.com/blog/compounding-optimism/)
+- [The economic potential of generative AI](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-ai-the-next-productivity-frontier)
+- [Richard Socher’s You.com looks to innovation to chip away at Google’s search](https://techcrunch.com/2023/06/18/you-search-browser-google-ai/)
+- [LDAP Authentication Server for Developers](https://github.com/glauth/glauth)
+- [Show HN: Streamline your study workflow with intellecs.ai](https://www.intellecs.ai/)
+- [1994–1996 United States broadcast television realignment](https://en.wikipedia.org/wiki/1994%E2%80%931996_United_States_broadcast_television_realignment)
+- [Remix Conf 2023: Progressively enhancing React from the server](https://www.youtube.com/watch?v=wobP9yhrmhQ)
+- [Smart Placement speeds up applications by moving code close to your back end](https://blog.cloudflare.com/announcing-workers-smart-placement/)
+- [Crab Mentality: When People Pull Down Those Who Get Ahead](https://effectiviology.com/crab-mentality/)
+- [Binance.us Reaches Agreement with SEC to Avoid Full Asset Freeze](https://www.bloomberg.com/news/articles/2023-06-17/binance-us-sec-reach-agreement-to-avoid-full-crypto-asset-freeze)
+- [Job on Indeed Open to AI Entities Only](https://twitter.com/Schappi/status/1670612150182887424)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

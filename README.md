@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [How a Single Line of Code Made a 24-Core Server Slower Than a Laptop](https://pkolaczk.github.io/server-slower-than-a-laptop/)
-- [Update from Lemmy after the Reddit blackout](https://join-lemmy.org/news/2023-06-17_-_Update_from_Lemmy_after_the_Reddit_blackout)
-- [Falcon LLM – A 40B Model](https://falconllm.tii.ae/)
-- [Infinite Photorealistic Worlds Using Procedural Generation](https://arxiv.org/abs/2306.09310)
-- [The Risks of Staying Put](https://buttondown.email/robinrendle/archive/the-risks-of-staying-put/)
-- [Modern CSS for Dynamic Component-Based Architecture](https://moderncss.dev/modern-css-for-dynamic-component-based-architecture/)
-- [The Rot Economy](https://wheresyoured.at/p/the-rot-economy)
-- [The Staggering Frontiers of CSS](https://buttondown.email/robinrendle/archive/the-many-frontiers-of-css/)
-- [Rust vs Zig Benchmarks](https://programming-language-benchmarks.vercel.app/rust-vs-zig)
-- [The Secret Sauce behind 100K context window in LLMs: all tricks in one place](https://blog.gopenai.com/how-to-speed-up-llms-and-use-100k-context-window-all-tricks-in-one-place-ffd40577b4c)
+- [Using loophole, Seward County seizes millions from motorists without convictions](https://www.klkntv.com/using-loophole-seward-county-seizes-millions-from-motorists-without-convicting-them-of-crimes/)
+- [Miraheze is not shutting down](https://meta.miraheze.org/wiki/Miraheze_is_Not_Shutting_Down)
+- [Neural networks in the 1990s](https://twitter.com/id_aa_carmack/status/1670558589746905090)
+- [Why you can&#39;t Kickstart a conference](https://abnercoimbre.com/post/why-you-cant-kickstart-a-conference/)
+- [Keycloak – Open-source identity and access management interview](https://console.substack.com/i/128451029/interview-with-michal-of-keycloak-open-source-identity-and-access-management-for-modern-applications)
+- [HDR QR Code](https://notes.dt.in.th/HDRQRCode)
+- [Sponge spicule](https://en.wikipedia.org/wiki/Sponge_spicule)
+- [Soviet Union sold titanium to US believing they needed it for pizza ovens](https://theaviationgeekclub.com/in-the-early-1960s-soviet-union-sold-titanium-to-the-us-believing-they-needed-it-for-pizza-ovens-but-instead-they-used-it-to-build-the-iconic-sr-71-blackbird-mach-3-spy-plane/)
+- [Redbean Systems](https://redbean.systems/)
+- [Show HN: Answer Overflow  – Indexing Discord content into the web](https://www.answeroverflow.com/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

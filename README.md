@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The economic potential of generative AI](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-ai-the-next-productivity-frontier)
-- [Richard Socher’s You.com looks to innovation to chip away at Google’s search](https://techcrunch.com/2023/06/18/you-search-browser-google-ai/)
-- [LDAP Authentication Server for Developers](https://github.com/glauth/glauth)
-- [Show HN: Streamline your study workflow with intellecs.ai](https://www.intellecs.ai/)
-- [1994–1996 United States broadcast television realignment](https://en.wikipedia.org/wiki/1994%E2%80%931996_United_States_broadcast_television_realignment)
-- [Remix Conf 2023: Progressively enhancing React from the server](https://www.youtube.com/watch?v=wobP9yhrmhQ)
-- [Smart Placement speeds up applications by moving code close to your back end](https://blog.cloudflare.com/announcing-workers-smart-placement/)
-- [Crab Mentality: When People Pull Down Those Who Get Ahead](https://effectiviology.com/crab-mentality/)
-- [Binance.us Reaches Agreement with SEC to Avoid Full Asset Freeze](https://www.bloomberg.com/news/articles/2023-06-17/binance-us-sec-reach-agreement-to-avoid-full-crypto-asset-freeze)
-- [Job on Indeed Open to AI Entities Only](https://twitter.com/Schappi/status/1670612150182887424)
+- [Safety and Liveness Properties](https://www.hillelwayne.com/post/safety-and-liveness/)
+- [U.S. cities where a $250k salary is worth the least – New York is No. 1](https://www.cnbc.com/2023/06/19/7-us-cities-where-250k-salary-is-worth-the-least-nyc-is-no-1.html)
+- [The Acceleration of Tranquility &lpar;1996&rpar;](https://ayjay.org/helprin.html)
+- [Airbus experiments with more control for the autopilot](https://www.bbc.co.uk/news/business-65676421)
+- [Voicebox: The Most Versatile AI for Speech Generation](https://about.fb.com/news/2023/06/introducing-voicebox-ai-for-speech-generation/)
+- [AWS aims to ease the blood, sweat and tears of database migration](https://www.silverliningsinfo.com/multi-cloud/aws-aims-ease-blood-sweat-and-tears-database-migration)
+- [Colorado charges ahead with e-bike rebates for residents](https://www.cpr.org/2023/06/08/colorado-ebike-rebate-program/)
+- [Nix California Bay Area Meetup – June 23](https://discourse.nixos.org/t/california-bay-area-meetup-june-23/29187)
+- [What Languages Dominate the Internet?](https://restofworld.org/2023/internet-most-used-languages/)
+- [Netflix&#39;s Latest Big Idea Is... a Restaurant?](https://uk.pcmag.com/news/147357/netflixs-latest-big-idea-isa-restaurant)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

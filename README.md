@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Wyndham Clark holds nerve to win 2023 US Open as Rory McIlroy falls agonisingly short](https://www.theguardian.com/sport/2023/jun/19/wyndham-clark-holds-nerve-to-win-2023-us-open-as-rory-mcilroy-falls-just-short)
-- [US ‘deeply troubled’ as Israel plans to approve thousands of homes in West Bank](https://www.theguardian.com/world/2023/jun/19/us-deeply-troubled-as-israel-plans-to-approve-thousands-of-homes-in-west-bank)
-- [Nine due in Greek court over shipwreck as Pakistan holds day of mourning](https://www.theguardian.com/world/2023/jun/19/nine-due-in-greek-court-over-shipwreck-as-pakistan-holds-day-of-mourning)
-- [The death of the Unabomber: will his dangerous influence live on? – podcast](https://www.theguardian.com/news/audio/2023/jun/19/death-unabomber-ted-kaczynski-will-dangerous-influence-live-on-podcast)
-- [Historic Indigenous voice referendum bill passes parliament ahead of public vote](https://www.theguardian.com/australia-news/2023/jun/19/indigenous-voice-to-parliament-referendum-bill-passed-alter-constitution-public-vote-australia)
-- [Antony Blinken in China: all eyes on whether US secretary of state will meet Xi Jinping](https://www.theguardian.com/us-news/2023/jun/19/antony-blinken-china-visit-meetings-talks-trip-xi-jinping-taiwan)
-- [India heatwave: nearly 100 dead amid warnings to stay indoors](https://www.theguardian.com/world/2023/jun/19/india-heatwave-scores-dead-warning-stay-indoors-during-day-heat-wave-uttar-pradesh-eastern-bihar)
-- [Russia-Ukraine war at a glance: what we know on day 481 of the invasion](https://www.theguardian.com/world/2023/jun/19/russia-ukraine-war-at-a-glance-what-we-know-on-day-481-of-the-invasion)
-- [Homelessness charities fear target to end rough sleeping by 2024 will be missed](https://www.theguardian.com/society/2023/jun/19/homelessness-charities-tell-pm-they-fear-rough-sleeping-target-will-be-missed)
-- [Child refugees could develop PTSD if locked up by UK, medical bodies say](https://www.theguardian.com/uk-news/2023/jun/19/child-refugees-could-develop-ptsd-if-locked-up-by-uk-medical-bodies-say)
+- [Titanic tourist submersible: desperate search for sub missing with five onboard](https://www.theguardian.com/uk-news/2023/jun/19/titanic-tourist-submarine-missing-north-atlantic)
+- [Why police are stepping back from mental health callouts - podcast](https://www.theguardian.com/news/audio/2023/jun/20/why-police-are-stepping-back-from-mental-health-callouts-podcast)
+- [UK economy in growth ‘doom loop’ after decades of underinvestment](https://www.theguardian.com/business/2023/jun/20/uk-economy-in-growth-doom-loop-after-decades-of-underinvestment)
+- [Gay rights are going backwards in the US, says Elton John](https://www.theguardian.com/music/2023/jun/20/gay-rights-are-going-backwards-in-the-us-says-elton-john)
+- [Note to Labour: energy transition isn’t just about power generation](https://www.theguardian.com/business/nils-pratley-on-finance/2023/jun/20/note-to-labour-energy-transition-isnt-just-about-power-generation)
+- [Boris Johnson faces loss of Westminster pass as MPs back Partygate report](https://www.theguardian.com/politics/2023/jun/19/boris-johnson-faces-loss-of-westminster-pass-as-mps-back-partygate-report)
+- [Wonders of the World I Can’t See review – Chris McCausland makes a rare travel show worth tuning in for](https://www.theguardian.com/tv-and-radio/2023/jun/19/wonders-of-the-world-i-cant-see-review-chris-mccausland-harry-hill)
+- [Wales hopes hang by a thread after Morrell sees red in Turkey defeat](https://www.theguardian.com/football/2023/jun/19/turkey-wales-euro-2024-qualifier-match-report)
+- [Crashed: $800m Festival Fail review – the awful tale of how a disappointing Justin Bieber gig led to a missing £78m](https://www.theguardian.com/tv-and-radio/2023/jun/19/crashed-800m-festival-fail-review-the-awful-tale-of-how-a-disappointing-justin-bieber-gig-led-to-a-missing-78m)
+- [Saka hat-trick inspires ruthless England to demolition of North Macedonia](https://www.theguardian.com/football/2023/jun/19/england-north-macedonia-euro-2024-qualifier-match-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

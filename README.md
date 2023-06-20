@@ -355,6 +355,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Recent Teams, Office outages were caused by cyberattacks: Microsoft](https://www.computerworld.com/article/3700148/recent-teams-office-outages-were-caused-by-cyberattacks-microsoft.html#tk.rss_all)
+- [Apple beefs up enterprise identity, device management](https://www.computerworld.com/article/3699353/apple-beefs-up-enterprise-identity-device-management.html#tk.rss_all)
+- [Tech layoffs in 2023: A timeline](https://www.computerworld.com/article/3685936/tech-layoffs-in-2023-a-timeline.html#tk.rss_all)
 - [June&#39;s Patch Tuesday updates focus on Windows, Office](https://www.computerworld.com/article/3699673/junes-patch-tuesday-updates-focus-on-windows-office.html#tk.rss_all)
 - [Despite growth, Oracle reported to cut jobs at Cerner healthcare unit](https://www.computerworld.com/article/3700028/despite-growth-oracle-reported-to-cut-jobs-at-cerner-healthcare-unit.html#tk.rss_all)
 - [Apple’s Vision Pro: The pros and cons of head-mounted hardware](https://www.computerworld.com/article/3699672/apples-vision-pro-the-pros-and-cons-of-head-mounted-hardware.html#tk.rss_all)
@@ -362,9 +365,6 @@
 - [From Kin to Clippy — the worst Microsoft products not named Windows](https://www.computerworld.com/article/3699391/from-kin-to-clippy-the-worst-microsoft-products-not-named-windows.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [How and why to use FIDO Security Keys for Apple ID](https://www.computerworld.com/article/3699712/how-and-why-to-use-fido-security-keys-for-apple-id.html#tk.rss_all)
-- [UK targets new funding to support the development of &#39;responsible AI&#39;](https://www.computerworld.com/article/3699713/uk-targets-new-funding-to-support-the-development-of-responsible-ai.html#tk.rss_all)
-- [Employees want remote-work tools, not in-office mandates, Atlassian says](https://www.computerworld.com/article/3699768/employees-want-remote-work-tools-not-in-office-mandates-atlassian-says.html#tk.rss_all)
-- [13 tips to get the most out of Microsoft Whiteboard](https://www.computerworld.com/article/3699139/how-to-use-microsoft-whiteboard.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

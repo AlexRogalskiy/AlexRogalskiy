@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Using loophole, Seward County seizes millions from motorists without convictions](https://www.klkntv.com/using-loophole-seward-county-seizes-millions-from-motorists-without-convicting-them-of-crimes/)
-- [Miraheze is not shutting down](https://meta.miraheze.org/wiki/Miraheze_is_Not_Shutting_Down)
-- [Neural networks in the 1990s](https://twitter.com/id_aa_carmack/status/1670558589746905090)
-- [Why you can&#39;t Kickstart a conference](https://abnercoimbre.com/post/why-you-cant-kickstart-a-conference/)
-- [Keycloak – Open-source identity and access management interview](https://console.substack.com/i/128451029/interview-with-michal-of-keycloak-open-source-identity-and-access-management-for-modern-applications)
-- [HDR QR Code](https://notes.dt.in.th/HDRQRCode)
-- [Sponge spicule](https://en.wikipedia.org/wiki/Sponge_spicule)
-- [Soviet Union sold titanium to US believing they needed it for pizza ovens](https://theaviationgeekclub.com/in-the-early-1960s-soviet-union-sold-titanium-to-the-us-believing-they-needed-it-for-pizza-ovens-but-instead-they-used-it-to-build-the-iconic-sr-71-blackbird-mach-3-spy-plane/)
-- [Redbean Systems](https://redbean.systems/)
-- [Show HN: Answer Overflow  – Indexing Discord content into the web](https://www.answeroverflow.com/)
+- [Why Are There Still So Many Jobs? The History and Future of Workplace Automation](https://www.aeaweb.org/articles?id=10.1257/jep.29.3.3)
+- [It’s official – LCD TVs won’t see any further development](https://www.tomsguide.com/news/its-official-lcd-tvs-wont-see-any-further-development)
+- [OpenWrt Project: a Linux operating system targeting embedded devices](https://openwrt.org/)
+- [The Matasano crypto challenges &lpar;2014&rpar;](https://cryptopals.com/)
+- [Cloud Appreciation Society](https://cloudappreciationsociety.org/)
+- [SFO United staff accused of stealing marijuana from checked bags](https://sfstandard.com/criminal-justice/sfo-united-staff-accused-of-stealing-marijuana-from-checked-bags/)
+- [Mum’s microbes might boost brain development of C-section babies](https://www.nature.com/articles/d41586-023-01972-4)
+- [Scaling Memcache at Facebook &lpar;2021&rpar;](https://www.micahlerner.com/2021/05/31/scaling-memcache-at-facebook.html)
+- [MVC Isn’t MVC](https://collindonnell.com/mvc-isnt-mvc)
+- [The least interesting part about AVX-512 is the 512 bits vector width](https://mastodon.gamedev.place/@rygorous/110572829749524388)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

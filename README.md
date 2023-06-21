@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Titanic tourist submersible: desperate search for sub missing with five onboard](https://www.theguardian.com/uk-news/2023/jun/19/titanic-tourist-submarine-missing-north-atlantic)
-- [Why police are stepping back from mental health callouts - podcast](https://www.theguardian.com/news/audio/2023/jun/20/why-police-are-stepping-back-from-mental-health-callouts-podcast)
-- [UK economy in growth ‘doom loop’ after decades of underinvestment](https://www.theguardian.com/business/2023/jun/20/uk-economy-in-growth-doom-loop-after-decades-of-underinvestment)
-- [Gay rights are going backwards in the US, says Elton John](https://www.theguardian.com/music/2023/jun/20/gay-rights-are-going-backwards-in-the-us-says-elton-john)
-- [Note to Labour: energy transition isn’t just about power generation](https://www.theguardian.com/business/nils-pratley-on-finance/2023/jun/20/note-to-labour-energy-transition-isnt-just-about-power-generation)
-- [Boris Johnson faces loss of Westminster pass as MPs back Partygate report](https://www.theguardian.com/politics/2023/jun/19/boris-johnson-faces-loss-of-westminster-pass-as-mps-back-partygate-report)
-- [Wonders of the World I Can’t See review – Chris McCausland makes a rare travel show worth tuning in for](https://www.theguardian.com/tv-and-radio/2023/jun/19/wonders-of-the-world-i-cant-see-review-chris-mccausland-harry-hill)
-- [Wales hopes hang by a thread after Morrell sees red in Turkey defeat](https://www.theguardian.com/football/2023/jun/19/turkey-wales-euro-2024-qualifier-match-report)
-- [Crashed: $800m Festival Fail review – the awful tale of how a disappointing Justin Bieber gig led to a missing £78m](https://www.theguardian.com/tv-and-radio/2023/jun/19/crashed-800m-festival-fail-review-the-awful-tale-of-how-a-disappointing-justin-bieber-gig-led-to-a-missing-78m)
-- [Saka hat-trick inspires ruthless England to demolition of North Macedonia](https://www.theguardian.com/football/2023/jun/19/england-north-macedonia-euro-2024-qualifier-match-report)
+- [Held v Montana: the young people fighting for the climate in court](https://www.theguardian.com/news/audio/2023/jun/21/held-v-montana-the-young-people-fighting-for-the-climate-in-court)
+- [Republicans crying wolf over Hunter Biden have hurt their own cause](https://www.theguardian.com/us-news/2023/jun/20/hunter-biden-plea-deal-republicans-donald-trump)
+- [Extra $6bn in US arms for Ukraine after ‘accounting error’](https://www.theguardian.com/world/2023/jun/21/extra-6bn-in-us-arms-for-ukraine-after-accounting-error)
+- [Russia-Ukraine war at a glance: what we know on day 483 of the invasion](https://www.theguardian.com/world/2023/jun/21/russia-ukraine-war-at-a-glance-what-we-know-on-day-483-of-the-invasion)
+- [Iceland suspends annual whale hunt in move that likely spells end to controversial practice](https://www.theguardian.com/world/2023/jun/21/iceland-suspends-annual-whale-hunt-in-move-that-likely-spells-end-to-controversial-practice)
+- [UK’s best known retailers top list of firms fined £7m over pay breaches](https://www.theguardian.com/society/2023/jun/21/uks-best-known-retailers-top-list-of-firms-fined-7m-over-pay-breaches)
+- [‘A green transition that leaves no one behind’: world leaders release open letter](https://www.theguardian.com/environment/2023/jun/21/a-green-transition-that-leaves-no-one-behind-world-leaders-release-open-letter)
+- [Slashed stone, daylight galore and doors by Tracey Emin: the National Portrait Gallery’s £41m rebirth](https://www.theguardian.com/artanddesign/2023/jun/21/doors-tracey-emin-national-portrait-gallerys-41m-rebirth)
+- [Macron and world leaders call on private finance to help reduce global poverty](https://www.theguardian.com/world/2023/jun/21/macron-and-world-leaders-call-on-private-finance-to-help-reduce-global-poverty)
+- [Keir Starmer ‘eyes dozens of new peers to aid Labour government’](https://www.theguardian.com/politics/2023/jun/20/starmer-eyes-dozens-of-new-peers-to-secure-labour-agenda-in-house-of-lords)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

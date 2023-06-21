@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Safety and Liveness Properties](https://www.hillelwayne.com/post/safety-and-liveness/)
-- [U.S. cities where a $250k salary is worth the least – New York is No. 1](https://www.cnbc.com/2023/06/19/7-us-cities-where-250k-salary-is-worth-the-least-nyc-is-no-1.html)
-- [The Acceleration of Tranquility &lpar;1996&rpar;](https://ayjay.org/helprin.html)
-- [Airbus experiments with more control for the autopilot](https://www.bbc.co.uk/news/business-65676421)
-- [Voicebox: The Most Versatile AI for Speech Generation](https://about.fb.com/news/2023/06/introducing-voicebox-ai-for-speech-generation/)
-- [AWS aims to ease the blood, sweat and tears of database migration](https://www.silverliningsinfo.com/multi-cloud/aws-aims-ease-blood-sweat-and-tears-database-migration)
-- [Colorado charges ahead with e-bike rebates for residents](https://www.cpr.org/2023/06/08/colorado-ebike-rebate-program/)
-- [Nix California Bay Area Meetup – June 23](https://discourse.nixos.org/t/california-bay-area-meetup-june-23/29187)
-- [What Languages Dominate the Internet?](https://restofworld.org/2023/internet-most-used-languages/)
-- [Netflix&#39;s Latest Big Idea Is... a Restaurant?](https://uk.pcmag.com/news/147357/netflixs-latest-big-idea-isa-restaurant)
+- [Apparently, the entire mod team of /r/MildlyInteresting was removed](https://old.reddit.com/r/SubredditDrama/comments/14eqtma/apparently_the_entire_mod_team_of/)
+- [Ask HN: Do you create developer related tiktoks?](https://news.ycombinator.com/item?id=36413639)
+- [Using deep learning to predict ideology from facial photographs](https://www.nature.com/articles/s41598-023-31796-1)
+- [Who Cares about a Submarine?](https://innovationnation.blog/p/who-cares-about-a-submarine)
+- [Ask HN: Which Vector Database do you recommend for LLM applications?](https://news.ycombinator.com/item?id=36413626)
+- [&#39;Solar Opposites&#39;: Dan Stevens Replaces Justin Roiland as Voice of Korvo](https://www.tvinsider.com/1096770/solar-opposites-season-4-dan-stevens-replaces-justin-roiland-korvo-teaser/)
+- [The State of the Tech Market in 2023](https://newsletter.pragmaticengineer.com/p/the-state-of-the-tech-market-in-2023)
+- [Seaweed farming for carbon dioxide capture would take up too much of the ocean](https://www.technologyreview.com/2023/06/15/1074892/seaweed-farming-for-carbon-dioxide-capture-would-take-up-too-much-of-the-ocean/)
+- [Solves the N-Queens problem using a regular expression](https://metacpan.org/pod/Regexp::N_Queens)
+- [Linux Mint 21.2 Beta ISOs appear on official mirrors for download](https://www.neowin.net/news/linux-mint-212-beta-isos-appear-on-official-mirrors-for-download/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

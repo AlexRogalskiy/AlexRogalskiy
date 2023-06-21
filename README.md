@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Intel’s German chip fab plans expand](https://www.networkworld.com/article/3700310/intels-german-chip-fab-plans-expand.html#tk.rss_all)
+- [Opera rolls out AI-infused browser](https://www.computerworld.com/article/3700074/opera-rolls-out-ai-infused-browser.html#tk.rss_all)
+- [Mosyle brings generative AI to Apple Device Management](https://www.computerworld.com/article/3700171/mosyle-brings-generative-ai-to-apple-device-management.html#tk.rss_all)
+- [With one June Patch Tuesday update, Microsoft falls short](https://www.computerworld.com/article/3700189/with-one-june-patch-tuesday-update-microsoft-falls-short.html#tk.rss_all)
+- [ClickUp adds role-based AI capabilities for teams](https://www.computerworld.com/article/3700049/clickup-adds-role-based-ai-capabilities-for-teams.html#tk.rss_all)
+- [Should SMBs worry about a recession?](https://www.computerworld.com/article/3700149/should-smbs-worry-about-a-recession.html#tk.rss_all)
+- [How to activate your Chromebook&#39;s crafty new shortcut system](https://www.computerworld.com/article/3700070/chromebook-chromeos-shortcut-system.html#tk.rss_all)
 - [Recent Teams, Office outages were caused by cyberattacks: Microsoft](https://www.computerworld.com/article/3700148/recent-teams-office-outages-were-caused-by-cyberattacks-microsoft.html#tk.rss_all)
 - [Apple beefs up enterprise identity, device management](https://www.computerworld.com/article/3699353/apple-beefs-up-enterprise-identity-device-management.html#tk.rss_all)
 - [Tech layoffs in 2023: A timeline](https://www.computerworld.com/article/3685936/tech-layoffs-in-2023-a-timeline.html#tk.rss_all)
-- [June&#39;s Patch Tuesday updates focus on Windows, Office](https://www.computerworld.com/article/3699673/junes-patch-tuesday-updates-focus-on-windows-office.html#tk.rss_all)
-- [Despite growth, Oracle reported to cut jobs at Cerner healthcare unit](https://www.computerworld.com/article/3700028/despite-growth-oracle-reported-to-cut-jobs-at-cerner-healthcare-unit.html#tk.rss_all)
-- [Apple’s Vision Pro: The pros and cons of head-mounted hardware](https://www.computerworld.com/article/3699672/apples-vision-pro-the-pros-and-cons-of-head-mounted-hardware.html#tk.rss_all)
-- [Japan to force Apple to permit app sideloading next year](https://www.computerworld.com/article/3699671/japan-to-force-apple-to-permit-app-sideloading-next-year.html#tk.rss_all)
-- [From Kin to Clippy — the worst Microsoft products not named Windows](https://www.computerworld.com/article/3699391/from-kin-to-clippy-the-worst-microsoft-products-not-named-windows.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [How and why to use FIDO Security Keys for Apple ID](https://www.computerworld.com/article/3699712/how-and-why-to-use-fido-security-keys-for-apple-id.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

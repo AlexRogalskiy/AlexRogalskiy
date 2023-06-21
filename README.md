@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Why Are There Still So Many Jobs? The History and Future of Workplace Automation](https://www.aeaweb.org/articles?id=10.1257/jep.29.3.3)
-- [It’s official – LCD TVs won’t see any further development](https://www.tomsguide.com/news/its-official-lcd-tvs-wont-see-any-further-development)
-- [OpenWrt Project: a Linux operating system targeting embedded devices](https://openwrt.org/)
-- [The Matasano crypto challenges &lpar;2014&rpar;](https://cryptopals.com/)
-- [Cloud Appreciation Society](https://cloudappreciationsociety.org/)
-- [SFO United staff accused of stealing marijuana from checked bags](https://sfstandard.com/criminal-justice/sfo-united-staff-accused-of-stealing-marijuana-from-checked-bags/)
-- [Mum’s microbes might boost brain development of C-section babies](https://www.nature.com/articles/d41586-023-01972-4)
-- [Scaling Memcache at Facebook &lpar;2021&rpar;](https://www.micahlerner.com/2021/05/31/scaling-memcache-at-facebook.html)
-- [MVC Isn’t MVC](https://collindonnell.com/mvc-isnt-mvc)
-- [The least interesting part about AVX-512 is the 512 bits vector width](https://mastodon.gamedev.place/@rygorous/110572829749524388)
+- [What to Do If Your House Is Overflowing with Books](https://lithub.com/what-to-do-if-your-house-is-overflowing-with-books/)
+- [GPT4 is 8 x 220B params = 1.7T params](https://twitter.com/swyx/status/1671272883379908608)
+- [A regular expression to check for prime numbers](https://www.noulakaz.net/2007/03/18/a-regular-expression-to-check-for-prime-numbers/)
+- [Dietrich Bonhoeffer on Stupidity &lpar;entire quote&rpar;, 1943](https://www.platoscave.org/2021/10/bonhoeffer-on-stupidity-entire-quote.html)
+- [Gergely Orosz: on the risk of Google shutting down Google Cloud Platform](https://twitter.com/GergelyOrosz/status/1670796482188910592)
+- [JetBrains Noria](https://blog.jetbrains.com/fleet/2023/02/fleet-below-deck-part-vi-ui-with-noria/)
+- [How scientists are hacking the genetic code to give proteins new powers](https://www.nature.com/articles/d41586-023-01980-4)
+- [ASU: The New American University](https://nadia.xyz/asu)
+- [Defer for Shell](https://cedwards.xyz/defer-for-shell/)
+- [I post when browser makers announce their intent to ship features in web engines](https://botsin.space/@intenttoship)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

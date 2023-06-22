@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [What to Do If Your House Is Overflowing with Books](https://lithub.com/what-to-do-if-your-house-is-overflowing-with-books/)
-- [GPT4 is 8 x 220B params = 1.7T params](https://twitter.com/swyx/status/1671272883379908608)
-- [A regular expression to check for prime numbers](https://www.noulakaz.net/2007/03/18/a-regular-expression-to-check-for-prime-numbers/)
-- [Dietrich Bonhoeffer on Stupidity &lpar;entire quote&rpar;, 1943](https://www.platoscave.org/2021/10/bonhoeffer-on-stupidity-entire-quote.html)
-- [Gergely Orosz: on the risk of Google shutting down Google Cloud Platform](https://twitter.com/GergelyOrosz/status/1670796482188910592)
-- [JetBrains Noria](https://blog.jetbrains.com/fleet/2023/02/fleet-below-deck-part-vi-ui-with-noria/)
-- [How scientists are hacking the genetic code to give proteins new powers](https://www.nature.com/articles/d41586-023-01980-4)
-- [ASU: The New American University](https://nadia.xyz/asu)
-- [Defer for Shell](https://cedwards.xyz/defer-for-shell/)
-- [I post when browser makers announce their intent to ship features in web engines](https://botsin.space/@intenttoship)
+- [Amazon duped millions of consumers into enrolling in Prime, US FTC says](https://www.reuters.com/legal/amazon-duped-millions-consumers-into-enrolling-prime-ftc-2023-06-21/)
+- [Tree-Ring Watermark: Invisible Robust Fingerprints of Diffusion Images](https://arxiv.org/abs/2305.20030)
+- [Ruby Hacking Guide &lpar;2004&rpar;](https://ruby-hacking-guide.github.io)
+- [Did I receive fraudulent DMCA takedowns?](https://incoherency.co.uk/blog/stories/hardbin-fake-takedowns.html)
+- [Giving LLM’s a &lt;Backspace&gt; Token](https://arxiv.org/abs/2306.05426)
+- [Show HN: Dependency Hell &lpar;Short Story&rpar;](https://github.com/jaronilan/stories/blob/main/dependency-hell.md)
+- [An app can transform smartphones into thermometers that accurately detect fevers](https://www.washington.edu/news/2023/06/21/an-app-can-transform-smartphones-into-thermometers-that-accurately-detect-fevers/)
+- [Why Kakoune – The quest for a better code editor &lpar;2016&rpar;](https://kakoune.org/why-kakoune/why-kakoune.html)
+- [Harvard dishonesty expert accused of dishonesty](https://www.ft.com/content/a8c07365-f85d-47a0-98a4-b6f71da697ef)
+- [Notice of Intent to Amend the Prescription Drug List: Vitamin D &lpar;2020&rpar;](https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/prescription-drug-list/notices-changes/notice-intent-vitamin-d.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

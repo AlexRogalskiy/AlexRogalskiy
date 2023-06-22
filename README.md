@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Apparently, the entire mod team of /r/MildlyInteresting was removed](https://old.reddit.com/r/SubredditDrama/comments/14eqtma/apparently_the_entire_mod_team_of/)
-- [Ask HN: Do you create developer related tiktoks?](https://news.ycombinator.com/item?id=36413639)
-- [Using deep learning to predict ideology from facial photographs](https://www.nature.com/articles/s41598-023-31796-1)
-- [Who Cares about a Submarine?](https://innovationnation.blog/p/who-cares-about-a-submarine)
-- [Ask HN: Which Vector Database do you recommend for LLM applications?](https://news.ycombinator.com/item?id=36413626)
-- [&#39;Solar Opposites&#39;: Dan Stevens Replaces Justin Roiland as Voice of Korvo](https://www.tvinsider.com/1096770/solar-opposites-season-4-dan-stevens-replaces-justin-roiland-korvo-teaser/)
-- [The State of the Tech Market in 2023](https://newsletter.pragmaticengineer.com/p/the-state-of-the-tech-market-in-2023)
-- [Seaweed farming for carbon dioxide capture would take up too much of the ocean](https://www.technologyreview.com/2023/06/15/1074892/seaweed-farming-for-carbon-dioxide-capture-would-take-up-too-much-of-the-ocean/)
-- [Solves the N-Queens problem using a regular expression](https://metacpan.org/pod/Regexp::N_Queens)
-- [Linux Mint 21.2 Beta ISOs appear on official mirrors for download](https://www.neowin.net/news/linux-mint-212-beta-isos-appear-on-official-mirrors-for-download/)
+- [1Password rolling out “privacy-preserving” telemetry system](https://blog.1password.com/telemetry-system-roll-out/)
+- [The world’s most liveable cities in 2023](https://www.economist.com/graphic-detail/2023/06/21/the-worlds-most-liveable-cities-in-2023)
+- [Even more hindsight on Vim, Helix and Kakoune](https://phaazon.net/blog/more-hindsight-vim-helix-kakoune)
+- [A Tour of the South Pole Station – Part 1](https://www.youtube.com/watch?v=gQ3_gZ3ZS_4)
+- [The three “Godfathers of AI” are at war over where their technology is taking us](https://www.newstatesman.com/long-reads/2023/06/men-made-future-godfathers-ai-geoffrey-hinton-yann-lecun-yoshua-bengio-artificial-intelligence)
+- [Incorrect Quotation](https://www.gnu.org/gnu/incorrect-quotation.en.html)
+- [Extreme Heat and More Storms Threaten an Already Battered Oklahoma](https://www.nytimes.com/2023/06/21/us/oklahoma-heat-power.html)
+- [ChatGPT GPT-4 plays hangman](https://chat.openai.com/share/3b6f2416-1ea8-412a-a9e7-977d63ff3af5)
+- [You Believe the Things You Do](https://collabfund.com/blog/why-you-believe-the-things-you-do/)
+- [The temporal dynamics of group interactions in higher-order social networks](https://arxiv.org/abs/2306.09967)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

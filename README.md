@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [New EU security strategy aims to safeguard tech supply chains](https://www.computerworld.com/article/3700528/new-eu-security-strategy-aims-to-safeguard-tech-supply-chains.html#tk.rss_all)
+- [With its green commitments, Apple aims to go where consumers are](https://www.computerworld.com/article/3700156/with-its-green-commitments-apple-aims-to-go-where-consumers-are.html#tk.rss_all)
+- [Dropbox unveils two AI-based products, launches $50M AI venture fund](https://www.computerworld.com/article/3700078/dropbox-unveils-two-ai-based-products-launches-50m-ai-venture-fund.html#tk.rss_all)
+- [Figma offers new mode for developers, adds variables, prototyping features](https://www.computerworld.com/article/3700079/figma-offers-new-mode-for-developers-adds-variables-prototyping-features.html#tk.rss_all)
+- [Otter AI Chat acts like a collaborative ChatGPT tailored for meetings](https://www.computerworld.com/article/3700053/otter-ai-chat-acts-like-a-collaborative-chatgpt-tailored-for-meetings.html#tk.rss_all)
+- [The best Android launchers for enhanced efficiency](https://www.computerworld.com/article/3396217/best-android-launchers-for-enhanced-efficiency.html#tk.rss_all)
 - [Intel’s German chip fab plans expand](https://www.networkworld.com/article/3700310/intels-german-chip-fab-plans-expand.html#tk.rss_all)
 - [Opera rolls out AI-infused browser](https://www.computerworld.com/article/3700074/opera-rolls-out-ai-infused-browser.html#tk.rss_all)
 - [Mosyle brings generative AI to Apple Device Management](https://www.computerworld.com/article/3700171/mosyle-brings-generative-ai-to-apple-device-management.html#tk.rss_all)
 - [With one June Patch Tuesday update, Microsoft falls short](https://www.computerworld.com/article/3700189/with-one-june-patch-tuesday-update-microsoft-falls-short.html#tk.rss_all)
-- [ClickUp adds role-based AI capabilities for teams](https://www.computerworld.com/article/3700049/clickup-adds-role-based-ai-capabilities-for-teams.html#tk.rss_all)
-- [Should SMBs worry about a recession?](https://www.computerworld.com/article/3700149/should-smbs-worry-about-a-recession.html#tk.rss_all)
-- [How to activate your Chromebook&#39;s crafty new shortcut system](https://www.computerworld.com/article/3700070/chromebook-chromeos-shortcut-system.html#tk.rss_all)
-- [Recent Teams, Office outages were caused by cyberattacks: Microsoft](https://www.computerworld.com/article/3700148/recent-teams-office-outages-were-caused-by-cyberattacks-microsoft.html#tk.rss_all)
-- [Apple beefs up enterprise identity, device management](https://www.computerworld.com/article/3699353/apple-beefs-up-enterprise-identity-device-management.html#tk.rss_all)
-- [Tech layoffs in 2023: A timeline](https://www.computerworld.com/article/3685936/tech-layoffs-in-2023-a-timeline.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

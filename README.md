@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Amazon duped millions of consumers into enrolling in Prime, US FTC says](https://www.reuters.com/legal/amazon-duped-millions-consumers-into-enrolling-prime-ftc-2023-06-21/)
-- [Tree-Ring Watermark: Invisible Robust Fingerprints of Diffusion Images](https://arxiv.org/abs/2305.20030)
-- [Ruby Hacking Guide &lpar;2004&rpar;](https://ruby-hacking-guide.github.io)
-- [Did I receive fraudulent DMCA takedowns?](https://incoherency.co.uk/blog/stories/hardbin-fake-takedowns.html)
-- [Giving LLM’s a &lt;Backspace&gt; Token](https://arxiv.org/abs/2306.05426)
-- [Show HN: Dependency Hell &lpar;Short Story&rpar;](https://github.com/jaronilan/stories/blob/main/dependency-hell.md)
-- [An app can transform smartphones into thermometers that accurately detect fevers](https://www.washington.edu/news/2023/06/21/an-app-can-transform-smartphones-into-thermometers-that-accurately-detect-fevers/)
-- [Why Kakoune – The quest for a better code editor &lpar;2016&rpar;](https://kakoune.org/why-kakoune/why-kakoune.html)
-- [Harvard dishonesty expert accused of dishonesty](https://www.ft.com/content/a8c07365-f85d-47a0-98a4-b6f71da697ef)
-- [Notice of Intent to Amend the Prescription Drug List: Vitamin D &lpar;2020&rpar;](https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/prescription-drug-list/notices-changes/notice-intent-vitamin-d.html)
+- [Scientists unfroze rat organs and transplanted them](https://www.statnews.com/2023/06/21/cryogenic-organ-preservation-transplants/)
+- [So you want to write a GUI framework &lpar;2021&rpar;](http://www.cmyr.net/blog/gui-framework-ingredients.html)
+- [Quality of new vehicles in US declining on more tech use: study](https://www.reuters.com/business/autos-transportation/quality-new-vehicles-us-declining-more-tech-use-study-shows-2023-06-22/)
+- [FDA approves first gene therapy treatment of Duchenne muscular dystrophy](https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapy-treatment-certain-patients-duchenne-muscular-dystrophy)
+- [Generating SQL with LLMs for fun and profit](https://iamnotarobot.substack.com/p/generating-sql-with-llms-for-fun)
+- [Rocky Linux Expresses Confidence Despite Red Hat&#39;s Announcement](https://rockylinux.org/news/2023-06-22-press-release/)
+- [My ranking of every Shakespeare play](https://nullprogram.com/blog/2023/06/22/)
+- [Analyzing New Unique Identifier Formats &lpar;UUIDv6, UUIDv7, and UUIDv8&rpar; &lpar;2022&rpar;](https://blog.devgenius.io/analyzing-new-unique-identifier-formats-uuidv6-uuidv7-and-uuidv8-d6cc5cd7391a)
+- [Clojure is a product design tool &lpar;2015&rpar;](https://precursorapp.com/blog/clojure-is-a-product-design-tool)
+- [SMS phishers harvested phone numbers, shipment data from UPS tracking tool](https://krebsonsecurity.com/2023/06/sms-phishers-harvested-phone-numbers-shipment-data-from-ups-tracking-tool/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [1Password rolling out “privacy-preserving” telemetry system](https://blog.1password.com/telemetry-system-roll-out/)
-- [The world’s most liveable cities in 2023](https://www.economist.com/graphic-detail/2023/06/21/the-worlds-most-liveable-cities-in-2023)
-- [Even more hindsight on Vim, Helix and Kakoune](https://phaazon.net/blog/more-hindsight-vim-helix-kakoune)
-- [A Tour of the South Pole Station – Part 1](https://www.youtube.com/watch?v=gQ3_gZ3ZS_4)
-- [The three “Godfathers of AI” are at war over where their technology is taking us](https://www.newstatesman.com/long-reads/2023/06/men-made-future-godfathers-ai-geoffrey-hinton-yann-lecun-yoshua-bengio-artificial-intelligence)
-- [Incorrect Quotation](https://www.gnu.org/gnu/incorrect-quotation.en.html)
-- [Extreme Heat and More Storms Threaten an Already Battered Oklahoma](https://www.nytimes.com/2023/06/21/us/oklahoma-heat-power.html)
-- [ChatGPT GPT-4 plays hangman](https://chat.openai.com/share/3b6f2416-1ea8-412a-a9e7-977d63ff3af5)
-- [You Believe the Things You Do](https://collabfund.com/blog/why-you-believe-the-things-you-do/)
-- [The temporal dynamics of group interactions in higher-order social networks](https://arxiv.org/abs/2306.09967)
+- [US to ease visas for skilled Indian workers as Modi visits](https://www.reuters.com/world/us-ease-visas-skilled-indian-workers-modi-visits-2023-06-22/)
+- [Bing Chat gets Image input update to select users. Breaks Captcha](https://twitter.com/sayashk/status/1671576723580936193)
+- [Helicopter Management and Other Mistakes](https://charity.wtf/2023/06/19/helicopter-management/)
+- [A Logical Calculus of the Ideas Immanent in Nervous Activity &lpar;1943&rpar; [pdf]](https://www.cs.cmu.edu/~./epxing/Class/10715/reading/McCulloch.and.Pitts.pdf)
+- [Security Research to Protect the Modern Software Supply Chain](https://research.jfrog.com/)
+- [“Cytoelectric Coupling”: A Groundbreaking Hypothesis on How Our Brains Function](https://scitechdaily.com/cytoelectric-coupling-a-groundbreaking-hypothesis-on-how-our-brains-function/)
+- [How The Pentagon Started Taking U.F.O.s Seriously &lpar;2021&rpar;](https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously)
+- [Web browser remoting using network vector rendering: Cloudflare patent](https://patents.google.com/patent/US10452868B1/en)
+- [Offpunk – command-line offline-first smolnet browser](https://git.sr.ht/~lioploum/offpunk/)
+- [The AI Apocalypse: A Scorecard](https://spectrum.ieee.org/artificial-general-intelligence)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

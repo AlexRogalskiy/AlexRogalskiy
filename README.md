@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [DuckDuckGo launches privacy-first Windows browser in beta](https://www.computerworld.com/article/3700768/duckduckgo-launches-privacy-first-windows-browser-in-beta.html#tk.rss_all)
+- [Is your business missing out on a free Apple opportunity?](https://www.computerworld.com/article/3700575/is-your-business-missing-out-on-a-free-apple-opportunity.html#tk.rss_all)
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [The coming productivity disruption of generative AI](https://www.computerworld.com/article/3700574/the-coming-productivity-disruption-of-generative-ai.html#tk.rss_all)
+- [IT firms expect to increase hiring next quarter, ManpowerGroup says](https://www.computerworld.com/article/3700309/it-firms-expected-to-increase-hiring-next-quarter-manpower-says.html#tk.rss_all)
 - [New EU security strategy aims to safeguard tech supply chains](https://www.computerworld.com/article/3700528/new-eu-security-strategy-aims-to-safeguard-tech-supply-chains.html#tk.rss_all)
 - [With its green commitments, Apple aims to go where consumers are](https://www.computerworld.com/article/3700156/with-its-green-commitments-apple-aims-to-go-where-consumers-are.html#tk.rss_all)
 - [Dropbox unveils two AI-based products, launches $50M AI venture fund](https://www.computerworld.com/article/3700078/dropbox-unveils-two-ai-based-products-launches-50m-ai-venture-fund.html#tk.rss_all)
 - [Figma offers new mode for developers, adds variables, prototyping features](https://www.computerworld.com/article/3700079/figma-offers-new-mode-for-developers-adds-variables-prototyping-features.html#tk.rss_all)
 - [Otter AI Chat acts like a collaborative ChatGPT tailored for meetings](https://www.computerworld.com/article/3700053/otter-ai-chat-acts-like-a-collaborative-chatgpt-tailored-for-meetings.html#tk.rss_all)
-- [The best Android launchers for enhanced efficiency](https://www.computerworld.com/article/3396217/best-android-launchers-for-enhanced-efficiency.html#tk.rss_all)
-- [Intel’s German chip fab plans expand](https://www.networkworld.com/article/3700310/intels-german-chip-fab-plans-expand.html#tk.rss_all)
-- [Opera rolls out AI-infused browser](https://www.computerworld.com/article/3700074/opera-rolls-out-ai-infused-browser.html#tk.rss_all)
-- [Mosyle brings generative AI to Apple Device Management](https://www.computerworld.com/article/3700171/mosyle-brings-generative-ai-to-apple-device-management.html#tk.rss_all)
-- [With one June Patch Tuesday update, Microsoft falls short](https://www.computerworld.com/article/3700189/with-one-june-patch-tuesday-update-microsoft-falls-short.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

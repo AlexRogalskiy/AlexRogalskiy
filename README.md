@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Titanic sub: ‘We have to remain hopeful’, says US Coast Guard, as vessel thought to have less than 20 hours of oxygen left – live](https://www.theguardian.com/world/live/2023/jun/21/titanic-sub-live-updates-search-us-coast-guard-submarine-submersible)
-- [Britain’s mortgage timebomb - podcast](https://www.theguardian.com/news/audio/2023/jun/22/britain-mortgage-timebomb-podcast)
-- [Tiger King’s ‘Doc’ Antle convicted of wildlife trafficking in Virginia](https://www.theguardian.com/us-news/2023/jun/21/tiger-king-doc-antle-convicted-virginia)
-- [Luc Besson: France’s top court rejects request to reopen rape case against director](https://www.theguardian.com/film/2023/jun/22/luc-besson-frances-top-court-rejects-request-to-reopen-case-against-director)
-- [Workplace sins: US restaurant used fake priest in ‘shameless’ wage theft scheme](https://www.theguardian.com/global-development/2023/jun/21/taqueria-garibaldi-labor-department-violations-false-priest)
-- [Met officer convicted for pepper spraying man as he climbed down building](https://www.theguardian.com/uk-news/2023/jun/22/met-officer-convicted-for-pepper-spraying-man-as-he-climbed-down-high-rise-building)
-- [Cost of living crisis forcing students to take on more hours of paid work](https://www.theguardian.com/education/2023/jun/22/cost-of-living-crisis-forcing-students-to-take-on-more-hours-of-paid-work)
-- [Sky launches TV smart camera for joint viewing and motion-controlled games](https://www.theguardian.com/business/2023/jun/22/sky-launches-sky-live-smart-camera-for-joint-viewing-zoom-and-motion-controlled-games-glass-tv)
-- [Health bosses warn of heart disease emergency in England](https://www.theguardian.com/society/2023/jun/22/health-bosses-warn-of-heart-disease-emergency-in-england)
-- [Big tech is trying to weaken new digital markets regulator, Rishi Sunak warned](https://www.theguardian.com/technology/2023/jun/22/big-tech-digital-markets-unit-cma-rishi-sunak)
+- [NBA draft 2023: Victor Wembanyama selected at No 1 by San Antonio Spurs – live](https://www.theguardian.com/sport/live/2023/jun/22/nba-draft-2023-victor-wembanyama-set-to-go-to-san-antonio-spurs-at-no-1-live)
+- [Titanic sub latest updates: US navy detected likely implosion of Titan submersible hours after it began mission – live](https://www.theguardian.com/world/live/2023/jun/22/titanic-sub-live-updates-search-titan-missing-submarine-submersible-rescue-us-coast-guard-latest-news)
+- [How the Windrush generation shaped British culture | podcast](https://www.theguardian.com/news/audio/2023/jun/23/how-the-windrush-generation-shaped-british-culture-podcast)
+- [Beijing records hottest June day since weather records began as heatwave hits China](https://www.theguardian.com/world/2023/jun/23/beijing-weather-hottest-june-day-since-records-began-heatwave-northern-china)
+- [Russia-Ukraine war at a glance: what we know on day 485 of the invasion](https://www.theguardian.com/world/2023/jun/23/russia-ukraine-war-at-a-glance-what-we-know-on-day-485-of-the-invasion)
+- [London mayor’s office ‘banned’ from flying EU flag on referendum anniversary](https://www.theguardian.com/uk-news/2023/jun/23/london-mayors-office-banned-from-flying-eu-flag-on-referendum-anniversary)
+- [At least 14,000 people denied vote due to lack of voter ID, watchdog finds](https://www.theguardian.com/politics/2023/jun/23/at-least-14000-people-denied-vote-due-to-lack-of-voter-id-watchdog-finds)
+- [Prayerbook of priest who saved Charles II’s life on display in Staffordshire hall](https://www.theguardian.com/world/2023/jun/23/prayerbook-priest-john-huddleston-saved-king-charles-life-on-display-in-staffordshire-hall)
+- [Kim Petras: Feed the Beast review  | Alexis Petridis&#39;s album of the week](https://www.theguardian.com/music/2023/jun/23/kim-petras-feed-the-beast-review)
+- [Tories select councillor to run in byelection after Warburton resignation](https://www.theguardian.com/politics/2023/jun/22/tories-select-councillor-to-run-in-byelection-after-warburton-resignation)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

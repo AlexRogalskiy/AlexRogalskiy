@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Scientists unfroze rat organs and transplanted them](https://www.statnews.com/2023/06/21/cryogenic-organ-preservation-transplants/)
-- [So you want to write a GUI framework &lpar;2021&rpar;](http://www.cmyr.net/blog/gui-framework-ingredients.html)
-- [Quality of new vehicles in US declining on more tech use: study](https://www.reuters.com/business/autos-transportation/quality-new-vehicles-us-declining-more-tech-use-study-shows-2023-06-22/)
-- [FDA approves first gene therapy treatment of Duchenne muscular dystrophy](https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapy-treatment-certain-patients-duchenne-muscular-dystrophy)
-- [Generating SQL with LLMs for fun and profit](https://iamnotarobot.substack.com/p/generating-sql-with-llms-for-fun)
-- [Rocky Linux Expresses Confidence Despite Red Hat&#39;s Announcement](https://rockylinux.org/news/2023-06-22-press-release/)
-- [My ranking of every Shakespeare play](https://nullprogram.com/blog/2023/06/22/)
-- [Analyzing New Unique Identifier Formats &lpar;UUIDv6, UUIDv7, and UUIDv8&rpar; &lpar;2022&rpar;](https://blog.devgenius.io/analyzing-new-unique-identifier-formats-uuidv6-uuidv7-and-uuidv8-d6cc5cd7391a)
-- [Clojure is a product design tool &lpar;2015&rpar;](https://precursorapp.com/blog/clojure-is-a-product-design-tool)
-- [SMS phishers harvested phone numbers, shipment data from UPS tracking tool](https://krebsonsecurity.com/2023/06/sms-phishers-harvested-phone-numbers-shipment-data-from-ups-tracking-tool/)
+- [An open source web-based flashcard studying system](https://github.com/hwgilbert16/scholarsome)
+- [PDF Subpage Navigation](https://nibblestew.blogspot.com/2023/06/pdf-subpage-navigation.html)
+- [Declassified U.S. report on origins of Covid-19 virus [pdf]](https://www.dni.gov/files/ODNI/documents/assessments/Report-on-Potential-Links-Between-the-Wuhan-Institute-of-Virology-and-the-Origins-of-COVID-19-20230623.pdf)
+- [Doctor Droid &lpar;YC W23&rpar; Is Hiring Back End Engineer &lpar;7 Years Exp&rpar;](https://www.ycombinator.com/companies/doctor-droid/jobs/euNMtT4-senior-backend-7-yrs)
+- [The rule says, “No vehicles in the park”](https://novehiclesinthepark.com/)
+- [64-Bit RISC-V with Apache NuttX Real-Time Operating System](https://lupyuen.codeberg.page/articles/riscv.html)
+- [Make your programs run faster by better using the data cache &lpar;2020&rpar;](https://johnnysswlab.com/make-your-programs-run-faster-by-better-using-the-data-cache/)
+- [Millions of GitHub repos likely vulnerable to RepoJacking, researchers say](https://www.bleepingcomputer.com/news/security/millions-of-github-repos-likely-vulnerable-to-repojacking-researchers-say/)
+- [How I landed a model rocket [video]](https://www.youtube.com/watch?v=1GanrexRyVY)
+- [Real-time messaging](https://slack.engineering/real-time-messaging/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

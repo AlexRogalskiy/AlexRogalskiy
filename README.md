@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [US to ease visas for skilled Indian workers as Modi visits](https://www.reuters.com/world/us-ease-visas-skilled-indian-workers-modi-visits-2023-06-22/)
-- [Bing Chat gets Image input update to select users. Breaks Captcha](https://twitter.com/sayashk/status/1671576723580936193)
-- [Helicopter Management and Other Mistakes](https://charity.wtf/2023/06/19/helicopter-management/)
-- [A Logical Calculus of the Ideas Immanent in Nervous Activity &lpar;1943&rpar; [pdf]](https://www.cs.cmu.edu/~./epxing/Class/10715/reading/McCulloch.and.Pitts.pdf)
-- [Security Research to Protect the Modern Software Supply Chain](https://research.jfrog.com/)
-- [“Cytoelectric Coupling”: A Groundbreaking Hypothesis on How Our Brains Function](https://scitechdaily.com/cytoelectric-coupling-a-groundbreaking-hypothesis-on-how-our-brains-function/)
-- [How The Pentagon Started Taking U.F.O.s Seriously &lpar;2021&rpar;](https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously)
-- [Web browser remoting using network vector rendering: Cloudflare patent](https://patents.google.com/patent/US10452868B1/en)
-- [Offpunk – command-line offline-first smolnet browser](https://git.sr.ht/~lioploum/offpunk/)
-- [The AI Apocalypse: A Scorecard](https://spectrum.ieee.org/artificial-general-intelligence)
+- [Prigozhin marches on Moscow: What we know, and what to watch](https://www.gzeromedia.com/prigozhin-marches-on-moscow-what-we-know-and-what-to-watch)
+- [Prigozhin starts armed insurrection in Russia](https://www.politico.eu/article/putin-in-crisis-as-wagner-chief-prigozhin-declares-war-on-russian-military-leadership/)
+- [Tell HN: I learnt some new things while working on my project](https://news.ycombinator.com/item?id=36454949)
+- [Go 1.21 will &lpar;probably&rpar; download newer toolchains on demand by default](https://utcc.utoronto.ca/~cks/space/blog/programming/Go121ToolchainDownloads)
+- [Migrating Critical Traffic at Scale with No Downtime](https://netflixtechblog.com/migrating-critical-traffic-at-scale-with-no-downtime-part-1-ba1c7a1c7835?gi=e56d92695e53)
+- [Why Chinese students are taking graduation photos looking ‘more dead than alive’](https://www.cnn.com/2023/06/23/china/china-graduation-photos-youth-unemployment-intl-hnk-dst/index.html)
+- [Why thousands of board games are buried beneath Mankato](https://www.startribune.com/anti-monopoly-mankato-landfill-board-game-history/600279625/)
+- [Dr. Garry Nolan &lpar;Stanford&rpar; on Aliens [video]](https://www.youtube.com/watch?v=e2DqdOw6Uy4)
+- [An open source web-based flashcard studying system](https://github.com/hwgilbert16/scholarsome)
+- [Ask HN: Any resources to learn how to benchmark API endpoints?](https://news.ycombinator.com/item?id=36454752)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -355,6 +355,8 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Apple is very serious about Industry 4.0](https://www.computerworld.com/article/3700791/apple-is-very-serious-about-industry-40.html#tk.rss_all)
+- [Why DISM is the Swiss Army knife of Windows maintenance](https://www.computerworld.com/article/3029175/why-dism-is-the-swiss-army-knife-of-windows-maintenance.html#tk.rss_all)
 - [DuckDuckGo launches privacy-first Windows browser in beta](https://www.computerworld.com/article/3700768/duckduckgo-launches-privacy-first-windows-browser-in-beta.html#tk.rss_all)
 - [Is your business missing out on a free Apple opportunity?](https://www.computerworld.com/article/3700575/is-your-business-missing-out-on-a-free-apple-opportunity.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
@@ -363,8 +365,6 @@
 - [New EU security strategy aims to safeguard tech supply chains](https://www.computerworld.com/article/3700528/new-eu-security-strategy-aims-to-safeguard-tech-supply-chains.html#tk.rss_all)
 - [With its green commitments, Apple aims to go where consumers are](https://www.computerworld.com/article/3700156/with-its-green-commitments-apple-aims-to-go-where-consumers-are.html#tk.rss_all)
 - [Dropbox unveils two AI-based products, launches $50M AI venture fund](https://www.computerworld.com/article/3700078/dropbox-unveils-two-ai-based-products-launches-50m-ai-venture-fund.html#tk.rss_all)
-- [Figma offers new mode for developers, adds variables, prototyping features](https://www.computerworld.com/article/3700079/figma-offers-new-mode-for-developers-adds-variables-prototyping-features.html#tk.rss_all)
-- [Otter AI Chat acts like a collaborative ChatGPT tailored for meetings](https://www.computerworld.com/article/3700053/otter-ai-chat-acts-like-a-collaborative-chatgpt-tailored-for-meetings.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

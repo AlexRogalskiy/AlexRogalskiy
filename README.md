@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war live: Russia accuses Wagner chief of trying to start a ‘civil conflict’ – latest updates](https://www.theguardian.com/world/live/2023/jun/23/russia-ukraine-war-live-russia-investigates-mutiny-as-wagner-chief-says-evil-military-leaders-must-be-stopped)
-- [No direct proof Covid-19 stemmed from Wuhan lab leak, US intelligence says](https://www.theguardian.com/us-news/2023/jun/23/covid-19-origins-wuhan-lab-leak-us-intelligence-reports)
-- [‘Avalanche’ of demand for Nazi artefacts ahead of Australian ban on sale of hate symbols](https://www.theguardian.com/australia-news/2023/jun/23/avalanche-of-demand-for-nazi-artefacts-ahead-of-australian-ban-on-sale-of-hate-symbols)
-- [UK man who pleaded guilty to celebrity Twitter hack gets five years in prison](https://www.theguardian.com/us-news/2023/jun/23/british-man-celebrity-twitter-hacking-bitcoin-elon-musk-joe-biden)
-- [Arctic Monkeys at Glastonbury review – breaking rock’s rules at their own strange pace](https://www.theguardian.com/music/2023/jun/24/arctic-monkeys-at-glastonbury-review-pyramid-headline)
-- [Space race: winning Sydney houses show how to do more with less](https://www.theguardian.com/artanddesign/2023/jun/24/winning-sydney-houses-show-how-to-do-medium-density)
-- [Investigation reveals UK’s freshest and least fresh online groceries](https://www.theguardian.com/money/2023/jun/24/investigation-reveals-uks-freshest-and-least-fresh-online-groceries)
-- [James Cleverly rejects claim he will stand down at next election](https://www.theguardian.com/politics/2023/jun/23/james-cleverly-rejects-claim-he-will-stand-down-at-next-election)
-- [US officials release bodycam video of man’s fatal shooting by border agents](https://www.theguardian.com/us-news/2023/jun/23/raymond-mattia-tohono-oodham-shot-dead)
-- [Texas governor signs bill rescinding water breaks as deadly heat grips state](https://www.theguardian.com/us-news/2023/jun/23/greg-abbott-texas-governor-bill-water-breaks-heatwave)
+- [Russia-Ukraine war live: Prigozhin to go to Belarus as rebellion ends; US intelligence suspected Wagner plot, US media report](https://www.theguardian.com/world/live/2023/jun/25/russia-ukraine-war-live-prigozhin-to-go-to-belarus-as-rebellion-ends-and-wagner-troops-withdraw-from-rostov)
+- [‘Putin humiliated’: what the papers said about the Wagner rebellion in Russia](https://www.theguardian.com/world/2023/jun/25/putin-humiliated-what-the-papers-said-about-the-wagner-rebellion-in-russia)
+- [Julian Sands search: Body found in California mountains where actor disappeared](https://www.theguardian.com/film/2023/jun/25/julian-sands-search-body-found-in-california-mountains-where-actor-disappeared)
+- [Titan sub tragedy: Canadian investigators board Polar Prince to interview crew and probe data records](https://www.theguardian.com/world/2023/jun/25/titan-sub-tragedy-canadian-investigators-board-polar-prince-to-interview-crew-and-probe-data-records)
+- [Scooter, a Chinese crested, is crowned World’s Ugliest Dog](https://www.theguardian.com/us-news/2023/jun/24/scooter-worlds-ugliest-dog-contest-petaluma)
+- [Saturday at Glastonbury 2023: Rick Astley, Guns N’ Roses and Lana Del Rey – as it happened!](https://www.theguardian.com/music/live/2023/jun/24/saturday-at-glastonbury-2023-rick-astley-raye-and-richard-thompson)
+- [‘I’ve had enough’: pop star Rina Sawayama criticises comments by labelmate Matty Healy](https://www.theguardian.com/music/2023/jun/24/ive-had-enough-pop-star-rina-sawayama-criticises-comments-by-labelmate-matty-healy)
+- [Bayern Munich try to hijack Manchester United’s move for Mason Mount](https://www.theguardian.com/football/2023/jun/24/bayern-munich-try-to-hijack-manchester-uniteds-move-for-mason-mount)
+- [Lizzo at Glastonbury review – life-affirmation 101](https://www.theguardian.com/music/2023/jun/24/lizzo-at-glastonbury-review-life-affirmation-101)
+- [Palestinian shot dead after opening fire at Israeli West Bank checkpoint](https://www.theguardian.com/world/2023/jun/24/palestinian-who-fired-at-israeli-checkpoint-in-west-bank-is-shot-dead)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [An open source web-based flashcard studying system](https://github.com/hwgilbert16/scholarsome)
-- [PDF Subpage Navigation](https://nibblestew.blogspot.com/2023/06/pdf-subpage-navigation.html)
-- [Declassified U.S. report on origins of Covid-19 virus [pdf]](https://www.dni.gov/files/ODNI/documents/assessments/Report-on-Potential-Links-Between-the-Wuhan-Institute-of-Virology-and-the-Origins-of-COVID-19-20230623.pdf)
-- [Doctor Droid &lpar;YC W23&rpar; Is Hiring Back End Engineer &lpar;7 Years Exp&rpar;](https://www.ycombinator.com/companies/doctor-droid/jobs/euNMtT4-senior-backend-7-yrs)
-- [The rule says, “No vehicles in the park”](https://novehiclesinthepark.com/)
-- [64-Bit RISC-V with Apache NuttX Real-Time Operating System](https://lupyuen.codeberg.page/articles/riscv.html)
-- [Make your programs run faster by better using the data cache &lpar;2020&rpar;](https://johnnysswlab.com/make-your-programs-run-faster-by-better-using-the-data-cache/)
-- [Millions of GitHub repos likely vulnerable to RepoJacking, researchers say](https://www.bleepingcomputer.com/news/security/millions-of-github-repos-likely-vulnerable-to-repojacking-researchers-say/)
-- [How I landed a model rocket [video]](https://www.youtube.com/watch?v=1GanrexRyVY)
-- [Real-time messaging](https://slack.engineering/real-time-messaging/)
+- [BrowserBox Pro goes open-source](https://github.com/dosyago/BrowserBoxPro)
+- [Ask HN: Is GNU pass and Yubikey &lpar;via NFC&rpar; supported on iPhone?](https://news.ycombinator.com/item?id=36464531)
+- [Netflix Canada just got rid of its cheapest ad-free plan without even a heads up](https://www.narcity.com/netflix-canada-got-rid-of-cheapest-ad-free-subscription)
+- [WeeChat Version 4.0.0](https://blog.weechat.org/post/2023/06/24/Version-4.0.0)
+- [On the paper “Exploring the MIT Mathematics and EECS Curriculum Using LLMs” [pdf]](https://people.csail.mit.edu/asolar/CoursesPaperStatement.pdf)
+- [Interactive CommonMark Tutorial](https://commonmark.org/help/tutorial/index.html)
+- [Dry Fractionation](https://lipidlibrary.aocs.org/edible-oil-processing/dry-fractionation)
+- [RunInSandbox: Run/extract files in Windows Sandbox with a right-click](https://www.systanddeploy.com/2023/06/runinsandbox-quick-way-to-runextract.html)
+- [Fast and free multi-language code editor for Android](https://github.com/massivemadness/Squircle-CE)
+- [Semantic MediaWiki](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

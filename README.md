@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Prigozhin marches on Moscow: What we know, and what to watch](https://www.gzeromedia.com/prigozhin-marches-on-moscow-what-we-know-and-what-to-watch)
-- [Prigozhin starts armed insurrection in Russia](https://www.politico.eu/article/putin-in-crisis-as-wagner-chief-prigozhin-declares-war-on-russian-military-leadership/)
-- [Tell HN: I learnt some new things while working on my project](https://news.ycombinator.com/item?id=36454949)
-- [Go 1.21 will &lpar;probably&rpar; download newer toolchains on demand by default](https://utcc.utoronto.ca/~cks/space/blog/programming/Go121ToolchainDownloads)
-- [Migrating Critical Traffic at Scale with No Downtime](https://netflixtechblog.com/migrating-critical-traffic-at-scale-with-no-downtime-part-1-ba1c7a1c7835?gi=e56d92695e53)
-- [Why Chinese students are taking graduation photos looking ‘more dead than alive’](https://www.cnn.com/2023/06/23/china/china-graduation-photos-youth-unemployment-intl-hnk-dst/index.html)
-- [Why thousands of board games are buried beneath Mankato](https://www.startribune.com/anti-monopoly-mankato-landfill-board-game-history/600279625/)
-- [Dr. Garry Nolan &lpar;Stanford&rpar; on Aliens [video]](https://www.youtube.com/watch?v=e2DqdOw6Uy4)
-- [An open source web-based flashcard studying system](https://github.com/hwgilbert16/scholarsome)
-- [Ask HN: Any resources to learn how to benchmark API endpoints?](https://news.ycombinator.com/item?id=36454752)
+- [Sheep Keep Solar Farms Out of the Shade](https://www.bloomberg.com/features/2023-solar-grazing-sheep/)
+- [Learning how network structure shapes decision-making for bio-inspired computing](https://www.nature.com/articles/s41467-023-38626-y)
+- [First Zuck wanted to be president.Now in a quest to be beloved he wantstobe Elon](https://sfba.social/@upright/110600277207991177)
+- [Zeroscope V2 XL Open Source Text2Video Model](https://www.youtube.com/watch?v=zPnUhcQsvr0)
+- [BrowserBox Pro goes open-source](https://github.com/dosyago/BrowserBoxPro)
+- [Dangerous PFAS Chemicals Are in Your Food Packaging](https://www.consumerreports.org/health/food-contaminants/dangerous-pfas-chemicals-are-in-your-food-packaging-a3786252074/)
+- [The Reserve Bank wants more unemployment.It should be applauded for admitting it](https://www.abc.net.au/news/2023-06-25/the-rba-wants-more-unemployment-lets-applaud-it/102506500)
+- [Show HN: ReliableGPT run 200 GPT-4 requests in parallel](https://colab.research.google.com/drive/1IGHoqR5nysbxslTvEY7x_6DO8Y26Hmkd?usp=sharing)
+- [U.S. Knew Prigozhin Was Preparing to Take Military Action Against Russia](https://www.nytimes.com/2023/06/24/world/europe/us-intel-prigozhin-warning.html)
+- [Show HN: Reverese Engineered BeReal Client](https://toofake.lol/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

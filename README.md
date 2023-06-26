@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Sheep Keep Solar Farms Out of the Shade](https://www.bloomberg.com/features/2023-solar-grazing-sheep/)
-- [Learning how network structure shapes decision-making for bio-inspired computing](https://www.nature.com/articles/s41467-023-38626-y)
-- [First Zuck wanted to be president.Now in a quest to be beloved he wantstobe Elon](https://sfba.social/@upright/110600277207991177)
-- [Zeroscope V2 XL Open Source Text2Video Model](https://www.youtube.com/watch?v=zPnUhcQsvr0)
-- [BrowserBox Pro goes open-source](https://github.com/dosyago/BrowserBoxPro)
-- [Dangerous PFAS Chemicals Are in Your Food Packaging](https://www.consumerreports.org/health/food-contaminants/dangerous-pfas-chemicals-are-in-your-food-packaging-a3786252074/)
-- [The Reserve Bank wants more unemployment.It should be applauded for admitting it](https://www.abc.net.au/news/2023-06-25/the-rba-wants-more-unemployment-lets-applaud-it/102506500)
-- [Show HN: ReliableGPT run 200 GPT-4 requests in parallel](https://colab.research.google.com/drive/1IGHoqR5nysbxslTvEY7x_6DO8Y26Hmkd?usp=sharing)
-- [U.S. Knew Prigozhin Was Preparing to Take Military Action Against Russia](https://www.nytimes.com/2023/06/24/world/europe/us-intel-prigozhin-warning.html)
-- [Show HN: Reverese Engineered BeReal Client](https://toofake.lol/)
+- [GPT-4&#39;s Has Been Revealed](https://thealgorithmicbridge.substack.com/p/gpt-4s-secret-has-been-revealed)
+- [Ernst Mach on Mind, Matter, and the Illusion of Self](https://superbowl.substack.com/p/church-of-reality-ernst-mach-on-mind)
+- [NRF52840 Connect Kit – Rapid prototyping kit for your next connected projects](https://github.com/makerdiary/nrf52840-connectkit)
+- [Firefox addon that makes old Reddit more mobile friendly](https://github.com/OctoNezd/oldlander)
+- [Things That Count](http://meta-studies.net/pmwiki/pmwiki.php?n=Site.Introduction)
+- [Mycelite: SQLite extension to synchronize changes across SQLite instances](https://github.com/mycelial/mycelite)
+- [Chase Bank claims Linux on ARM &lpar;Asahi Linux&rpar; is “incompatible”, blames Apple](https://old.reddit.com/r/linux/comments/14j4onm/chase_bank_claims_linux_on_arm_asahi_linux_is/)
+- [Tesla FSD confirmed to ignore stop sign as attempts to discredit tests backfire](https://twitter.com/TeslaBoomerMama/status/1673130084696473606)
+- [Tokens, the Secret Language of AI](https://omarkama.li/blog/tokens-the-secret-language-of-ai)
+- [O Brother GeoBook, Let&#39;s Get Thou Back on the Internet?](http://oldvcr.blogspot.com/2023/06/o-brother-geobook-lets-get-thou-back-on.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

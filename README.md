@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war live: Prigozhin to go to Belarus as rebellion ends; US intelligence suspected Wagner plot, US media report](https://www.theguardian.com/world/live/2023/jun/25/russia-ukraine-war-live-prigozhin-to-go-to-belarus-as-rebellion-ends-and-wagner-troops-withdraw-from-rostov)
-- [‘Putin humiliated’: what the papers said about the Wagner rebellion in Russia](https://www.theguardian.com/world/2023/jun/25/putin-humiliated-what-the-papers-said-about-the-wagner-rebellion-in-russia)
-- [Julian Sands search: Body found in California mountains where actor disappeared](https://www.theguardian.com/film/2023/jun/25/julian-sands-search-body-found-in-california-mountains-where-actor-disappeared)
-- [Titan sub tragedy: Canadian investigators board Polar Prince to interview crew and probe data records](https://www.theguardian.com/world/2023/jun/25/titan-sub-tragedy-canadian-investigators-board-polar-prince-to-interview-crew-and-probe-data-records)
-- [Scooter, a Chinese crested, is crowned World’s Ugliest Dog](https://www.theguardian.com/us-news/2023/jun/24/scooter-worlds-ugliest-dog-contest-petaluma)
-- [Saturday at Glastonbury 2023: Rick Astley, Guns N’ Roses and Lana Del Rey – as it happened!](https://www.theguardian.com/music/live/2023/jun/24/saturday-at-glastonbury-2023-rick-astley-raye-and-richard-thompson)
-- [‘I’ve had enough’: pop star Rina Sawayama criticises comments by labelmate Matty Healy](https://www.theguardian.com/music/2023/jun/24/ive-had-enough-pop-star-rina-sawayama-criticises-comments-by-labelmate-matty-healy)
-- [Bayern Munich try to hijack Manchester United’s move for Mason Mount](https://www.theguardian.com/football/2023/jun/24/bayern-munich-try-to-hijack-manchester-uniteds-move-for-mason-mount)
-- [Lizzo at Glastonbury review – life-affirmation 101](https://www.theguardian.com/music/2023/jun/24/lizzo-at-glastonbury-review-life-affirmation-101)
-- [Palestinian shot dead after opening fire at Israeli West Bank checkpoint](https://www.theguardian.com/world/2023/jun/24/palestinian-who-fired-at-israeli-checkpoint-in-west-bank-is-shot-dead)
+- [A violent homicide – and a pioneering act of forgiveness | Podcast](https://www.theguardian.com/news/audio/2023/jun/26/a-violent-us-homicide-and-a-pioneering-act-of-forgiveness-podcast)
+- [Russia loses initial high court bid to hold on to embassy site in Canberra](https://www.theguardian.com/australia-news/2023/jun/26/russia-loses-initial-high-court-bid-to-hold-onto-embassy-site-in-canberra)
+- [Sudan paramilitary force reportedly makes gains in Khartoum as fighting surges](https://www.theguardian.com/world/2023/jun/26/sudan-paramilitary-force-reportedly-makes-gains-in-khartoum-as-fighting-surges)
+- [Misting fans and cooling canal swims: China’s north bakes in record heatwave – in pictures](https://www.theguardian.com/world/gallery/2023/jun/26/misting-fans-and-cooling-canal-swims-chinas-north-bakes-in-record-heatwave-in-pictures)
+- [Ticket to freedom: free bus rides for women spark joy for millions in Karnataka](https://www.theguardian.com/world/2023/jun/26/ticket-to-freedom-free-bus-rides-for-women-spark-joy-for-millions-in-karnataka)
+- [Russia-Ukraine war at a glance: what we know on day 488 of the invasion](https://www.theguardian.com/world/2023/jun/26/russia-ukraine-war-at-a-glance-what-we-know-on-day-488-of-the-invasion)
+- [China downplays Wagner rebellion as Russia’s ‘internal affairs’](https://www.theguardian.com/world/2023/jun/26/china-downplays-wagner-rebellion-as-russias-internal-affairs)
+- [Elton John at Glastonbury review – bittersweet joy at the end of the yellow brick road](https://www.theguardian.com/music/2023/jun/26/elton-john-at-glastonbury-review-headline-pyramid-stage)
+- [Britons’ earlier deaths linked to NHS underinvestment – study](https://www.theguardian.com/society/2023/jun/26/britons-earlier-deaths-linked-to-nhs-underinvestment-study)
+- [Greenhouse gas emissions from global energy industry still rising – report](https://www.theguardian.com/business/2023/jun/26/greenhouse-gas-emissions-from-global-energy-industry-still-rising-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

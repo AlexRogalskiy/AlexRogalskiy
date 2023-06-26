@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [BrowserBox Pro goes open-source](https://github.com/dosyago/BrowserBoxPro)
-- [Ask HN: Is GNU pass and Yubikey &lpar;via NFC&rpar; supported on iPhone?](https://news.ycombinator.com/item?id=36464531)
-- [Netflix Canada just got rid of its cheapest ad-free plan without even a heads up](https://www.narcity.com/netflix-canada-got-rid-of-cheapest-ad-free-subscription)
-- [WeeChat Version 4.0.0](https://blog.weechat.org/post/2023/06/24/Version-4.0.0)
-- [On the paper “Exploring the MIT Mathematics and EECS Curriculum Using LLMs” [pdf]](https://people.csail.mit.edu/asolar/CoursesPaperStatement.pdf)
-- [Interactive CommonMark Tutorial](https://commonmark.org/help/tutorial/index.html)
-- [Dry Fractionation](https://lipidlibrary.aocs.org/edible-oil-processing/dry-fractionation)
-- [RunInSandbox: Run/extract files in Windows Sandbox with a right-click](https://www.systanddeploy.com/2023/06/runinsandbox-quick-way-to-runextract.html)
-- [Fast and free multi-language code editor for Android](https://github.com/massivemadness/Squircle-CE)
-- [Semantic MediaWiki](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
+- [Mycelite: SQLite extension to synchronize changes across SQLite instances](https://github.com/mycelial/mycelite)
+- [Tokens, the Secret Language of AI](https://omarkama.li/blog/tokens-the-secret-language-of-ai)
+- [Estimated U.S. Deer Population, 1450 to 2016](https://www.researchgate.net/figure/Estimated-US-Deer-Population-1450-to-2016-Year-2000-to-2016-estimated-from-combined_fig3_344865578)
+- [How the Y chromosome makes some cancers more deadly for men](https://www.nature.com/articles/d41586-023-01987-x)
+- [UC San Francisco apologizes for prisoner experiments](https://www.abc10.com/article/news/local/california/california-university-apologizes-prisoner-experiments/103-655cd5bb-e80f-40d7-ba2c-b7cf17b9c84b)
+- [FAA issues ground stop for all DC-area airports due to equipment fire](https://www.fox5dc.com/news/faa-issues-ground-stop-for-all-dc-area-airports-due-to-equipment-fire-federal-avaiation-administration-dca-iad-bwi-ric)
+- [Counting the Hard Way](https://rupertmckay.com/blog/counting-to-ten/)
+- [Show HN: WinGPT – AI assistant for Windows 3.1](https://www.dialup.net/wingpt/)
+- [The .meta directory: let&#39;s tidy things up](https://dotmeta.org/)
+- [ThinMachine – A $25 Thin Client macOS Time Machine Appliance](https://tomverbeure.github.io/2023/06/25/ThinMachine-a-Thin-Client-MacOS-Time-Machine-Appliance.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

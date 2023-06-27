@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [A violent homicide – and a pioneering act of forgiveness | Podcast](https://www.theguardian.com/news/audio/2023/jun/26/a-violent-us-homicide-and-a-pioneering-act-of-forgiveness-podcast)
-- [Russia loses initial high court bid to hold on to embassy site in Canberra](https://www.theguardian.com/australia-news/2023/jun/26/russia-loses-initial-high-court-bid-to-hold-onto-embassy-site-in-canberra)
-- [Sudan paramilitary force reportedly makes gains in Khartoum as fighting surges](https://www.theguardian.com/world/2023/jun/26/sudan-paramilitary-force-reportedly-makes-gains-in-khartoum-as-fighting-surges)
-- [Misting fans and cooling canal swims: China’s north bakes in record heatwave – in pictures](https://www.theguardian.com/world/gallery/2023/jun/26/misting-fans-and-cooling-canal-swims-chinas-north-bakes-in-record-heatwave-in-pictures)
-- [Ticket to freedom: free bus rides for women spark joy for millions in Karnataka](https://www.theguardian.com/world/2023/jun/26/ticket-to-freedom-free-bus-rides-for-women-spark-joy-for-millions-in-karnataka)
-- [Russia-Ukraine war at a glance: what we know on day 488 of the invasion](https://www.theguardian.com/world/2023/jun/26/russia-ukraine-war-at-a-glance-what-we-know-on-day-488-of-the-invasion)
-- [China downplays Wagner rebellion as Russia’s ‘internal affairs’](https://www.theguardian.com/world/2023/jun/26/china-downplays-wagner-rebellion-as-russias-internal-affairs)
-- [Elton John at Glastonbury review – bittersweet joy at the end of the yellow brick road](https://www.theguardian.com/music/2023/jun/26/elton-john-at-glastonbury-review-headline-pyramid-stage)
-- [Britons’ earlier deaths linked to NHS underinvestment – study](https://www.theguardian.com/society/2023/jun/26/britons-earlier-deaths-linked-to-nhs-underinvestment-study)
-- [Greenhouse gas emissions from global energy industry still rising – report](https://www.theguardian.com/business/2023/jun/26/greenhouse-gas-emissions-from-global-energy-industry-still-rising-report)
+- [Trump admits military paper was classified in new clip obtained by CNN](https://www.theguardian.com/us-news/2023/jun/26/donald-trump-classified-documents-recording-pentagon-iran)
+- [What the Wagner mutiny means for Ukraine, Russia and Putin | podcast](https://www.theguardian.com/news/audio/2023/jun/27/what-the-wagner-mutiny-means-for-ukraine-russia-and-putin-podcast)
+- [‘Here is the history, the life’: the shrine holding out against the gentrification of Bangkok](https://www.theguardian.com/world/2023/jun/27/here-is-the-history-the-life-the-shrine-holding-out-against-the-gentrification-of-bangkok)
+- [JPMorgan to pay Jeffrey Epstein victims $290m in lawsuit settlement](https://www.theguardian.com/us-news/2023/jun/26/jpmorgan-jeffrey-epstein-settlement-lawsuit-victims)
+- [Vladimir Putin says enemies wanted Russia to ‘choke on civil strife’](https://www.theguardian.com/world/2023/jun/26/yevgeny-prigozhin-breaks-silence-after-armed-mutiny-russia)
+- [No bed or bath: New Zealand boatshed sells for record $2m despite housing market crash](https://www.theguardian.com/world/2023/jun/27/no-bed-or-bath-new-zealand-boatshed-sells-for-record-2m-despite-housing-market-crash)
+- [Kamala Harris warns of threats to LGBTQ+ rights during visit to Stonewall](https://www.theguardian.com/us-news/2023/jun/26/kamala-harris-stonewall-inn-visit-pride-month)
+- [Dolphin mothers use ‘baby talk’ with their calves, recordings show](https://www.theguardian.com/environment/2023/jun/27/dolphin-mothers-use-baby-talk-with-their-calves-recordings-show)
+- [Russia-Ukraine war at a glance: what we know on day 489 of the invasion](https://www.theguardian.com/world/2023/jun/27/russia-ukraine-war-at-a-glance-what-we-know-on-day-489-of-the-invasion)
+- [Tory hopeful for London mayor accused of groping TV producer](https://www.theguardian.com/politics/2023/jun/27/tory-hopeful-for-london-mayor-accused-of-groping-tv-producer)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -355,6 +355,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Japan bolsters its chip industry with buyout of equipment maker JSR](https://www.networkworld.com/article/3700793/japan-bolsters-its-chip-industry-with-buyout-of-equipment-maker-jsr.html#tk.rss_all)
+- [Wi-Fi 7 is coming — here&#39;s what to know](https://www.computerworld.com/article/3700712/wi-fi-7-is-coming-heres-what-to-know.html#tk.rss_all)
+- [M365 Copilot, Microsoft’s generative AI tool, explained](https://www.computerworld.com/article/3700709/m365-copilot-microsofts-generative-ai-tool-explained.html#tk.rss_all)
 - [Apple is very serious about Industry 4.0](https://www.computerworld.com/article/3700791/apple-is-very-serious-about-industry-40.html#tk.rss_all)
 - [Why DISM is the Swiss Army knife of Windows maintenance](https://www.computerworld.com/article/3029175/why-dism-is-the-swiss-army-knife-of-windows-maintenance.html#tk.rss_all)
 - [DuckDuckGo launches privacy-first Windows browser in beta](https://www.computerworld.com/article/3700768/duckduckgo-launches-privacy-first-windows-browser-in-beta.html#tk.rss_all)
@@ -362,9 +365,6 @@
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [The coming productivity disruption of generative AI](https://www.computerworld.com/article/3700574/the-coming-productivity-disruption-of-generative-ai.html#tk.rss_all)
 - [IT firms expect to increase hiring next quarter, ManpowerGroup says](https://www.computerworld.com/article/3700309/it-firms-expected-to-increase-hiring-next-quarter-manpower-says.html#tk.rss_all)
-- [New EU security strategy aims to safeguard tech supply chains](https://www.computerworld.com/article/3700528/new-eu-security-strategy-aims-to-safeguard-tech-supply-chains.html#tk.rss_all)
-- [With its green commitments, Apple aims to go where consumers are](https://www.computerworld.com/article/3700156/with-its-green-commitments-apple-aims-to-go-where-consumers-are.html#tk.rss_all)
-- [Dropbox unveils two AI-based products, launches $50M AI venture fund](https://www.computerworld.com/article/3700078/dropbox-unveils-two-ai-based-products-launches-50m-ai-venture-fund.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

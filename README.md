@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Mycelite: SQLite extension to synchronize changes across SQLite instances](https://github.com/mycelial/mycelite)
-- [Tokens, the Secret Language of AI](https://omarkama.li/blog/tokens-the-secret-language-of-ai)
-- [Estimated U.S. Deer Population, 1450 to 2016](https://www.researchgate.net/figure/Estimated-US-Deer-Population-1450-to-2016-Year-2000-to-2016-estimated-from-combined_fig3_344865578)
-- [How the Y chromosome makes some cancers more deadly for men](https://www.nature.com/articles/d41586-023-01987-x)
-- [UC San Francisco apologizes for prisoner experiments](https://www.abc10.com/article/news/local/california/california-university-apologizes-prisoner-experiments/103-655cd5bb-e80f-40d7-ba2c-b7cf17b9c84b)
-- [FAA issues ground stop for all DC-area airports due to equipment fire](https://www.fox5dc.com/news/faa-issues-ground-stop-for-all-dc-area-airports-due-to-equipment-fire-federal-avaiation-administration-dca-iad-bwi-ric)
-- [Counting the Hard Way](https://rupertmckay.com/blog/counting-to-ten/)
-- [Show HN: WinGPT – AI assistant for Windows 3.1](https://www.dialup.net/wingpt/)
-- [The .meta directory: let&#39;s tidy things up](https://dotmeta.org/)
-- [ThinMachine – A $25 Thin Client macOS Time Machine Appliance](https://tomverbeure.github.io/2023/06/25/ThinMachine-a-Thin-Client-MacOS-Time-Machine-Appliance.html)
+- [Domain-Oriented Microservice Architecture &lpar;2020&rpar;](https://www.uber.com/blog/microservice-architecture/)
+- [OPNsense a true open-source security platform and more](https://opnsense.org/)
+- [Modern TLS/SSL on 16-bit Windows](https://www.dialup.net/wingpt/tls.html)
+- [Through a Glass Darkly](https://asteriskmag.com/issues/03/through-a-glass-darkly)
+- [Discovering that a Bluetooth car battery monitor is siphoning location data](https://doubleagent.net/2023/05/21/a-car-battery-monitor-tracking-your-location)
+- [Exposing Floating Point &lpar;2019&rpar;](https://ciechanow.ski/exposing-floating-point/)
+- [The Magic Nix Cache, a GitHub Action for speeding up your Nix workflows](https://determinate.systems/posts/magic-nix-cache)
+- [Kor: a half-baked prototype that &quot;helps&quot; you extract structured data using LLMs](https://github.com/eyurtsev/kor)
+- [P1030680: Unbroken Enigma message &lpar;U534, 01 May 1945&rpar;](https://enigma.hoerenberg.com/index.php?cat=Unbroken&page=P1030680)
+- [Two Dots &lpar;YC S22&rpar; is hiring a senior engineer](https://www.ycombinator.com/companies/two-dots/jobs/jjpjJeY-software-engineer)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

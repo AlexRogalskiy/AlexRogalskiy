@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [GPT-4&#39;s Has Been Revealed](https://thealgorithmicbridge.substack.com/p/gpt-4s-secret-has-been-revealed)
-- [Ernst Mach on Mind, Matter, and the Illusion of Self](https://superbowl.substack.com/p/church-of-reality-ernst-mach-on-mind)
-- [NRF52840 Connect Kit – Rapid prototyping kit for your next connected projects](https://github.com/makerdiary/nrf52840-connectkit)
-- [Firefox addon that makes old Reddit more mobile friendly](https://github.com/OctoNezd/oldlander)
-- [Things That Count](http://meta-studies.net/pmwiki/pmwiki.php?n=Site.Introduction)
-- [Mycelite: SQLite extension to synchronize changes across SQLite instances](https://github.com/mycelial/mycelite)
-- [Chase Bank claims Linux on ARM &lpar;Asahi Linux&rpar; is “incompatible”, blames Apple](https://old.reddit.com/r/linux/comments/14j4onm/chase_bank_claims_linux_on_arm_asahi_linux_is/)
-- [Tesla FSD confirmed to ignore stop sign as attempts to discredit tests backfire](https://twitter.com/TeslaBoomerMama/status/1673130084696473606)
-- [Tokens, the Secret Language of AI](https://omarkama.li/blog/tokens-the-secret-language-of-ai)
-- [O Brother GeoBook, Let&#39;s Get Thou Back on the Internet?](http://oldvcr.blogspot.com/2023/06/o-brother-geobook-lets-get-thou-back-on.html)
+- [The Expected L1 Norm of Unit L2 Vectors](https://win-vector.com/2023/06/24/the-expected-l1-norm-of-unit-l2-vectors/)
+- [Ask HN: Have we reached the point that anti-monopoly people were warning of?](https://news.ycombinator.com/item?id=36488288)
+- [Google Removes Sort by Date options in search](https://reclaimthenet.org/google-search-removes-sort-by-date)
+- [The deadly secret of DIY&#39;s dream material &lpar;1997&rpar;](https://www.theguardian.com/uk/1997/sep/21/antonybarnett.theobserver)
+- [Show HN: Tournacat – Sync esports schedules to Google Calendar](https://tournacat.com/)
+- [How to Negotiate a Raise: A Guide for Software Developers](https://www.eightvalues.com/blog/how-to-negotiate-a-raise)
+- [Databricks Signs Definitive Agreement to Acquire MosaicML](https://www.databricks.com/company/newsroom/press-releases/databricks-signs-definitive-agreement-acquire-mosaicml-leading-generative-ai-platform)
+- [The Making of &#39;The Last Unicorn&#39;](https://animationobsessive.substack.com/p/the-making-of-the-last-unicorn)
+- [Ask HN: What are people using virtual assistances for?](https://news.ycombinator.com/item?id=36488167)
+- [RHEL: Open-Source Drama [video]](https://www.youtube.com/watch?v=kF5pyVUQBH8)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

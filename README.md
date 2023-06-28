@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Domain-Oriented Microservice Architecture &lpar;2020&rpar;](https://www.uber.com/blog/microservice-architecture/)
-- [OPNsense a true open-source security platform and more](https://opnsense.org/)
-- [Modern TLS/SSL on 16-bit Windows](https://www.dialup.net/wingpt/tls.html)
-- [Through a Glass Darkly](https://asteriskmag.com/issues/03/through-a-glass-darkly)
-- [Discovering that a Bluetooth car battery monitor is siphoning location data](https://doubleagent.net/2023/05/21/a-car-battery-monitor-tracking-your-location)
-- [Exposing Floating Point &lpar;2019&rpar;](https://ciechanow.ski/exposing-floating-point/)
-- [The Magic Nix Cache, a GitHub Action for speeding up your Nix workflows](https://determinate.systems/posts/magic-nix-cache)
-- [Kor: a half-baked prototype that &quot;helps&quot; you extract structured data using LLMs](https://github.com/eyurtsev/kor)
-- [P1030680: Unbroken Enigma message &lpar;U534, 01 May 1945&rpar;](https://enigma.hoerenberg.com/index.php?cat=Unbroken&page=P1030680)
-- [Two Dots &lpar;YC S22&rpar; is hiring a senior engineer](https://www.ycombinator.com/companies/two-dots/jobs/jjpjJeY-software-engineer)
+- [Trinity Desktop Environment – a modern KDE3 fork](https://www.trinitydesktop.org/)
+- [The False Dawn: Reevaluating Google&#39;s RL for Chip Macro Placement](https://arxiv.org/abs/2306.09633)
+- [Natural language is an unnatural interface](https://varunshenoy.substack.com/p/natural-language-is-an-unnatural)
+- [Damaging Results of Mandated Return to Office – It&#39;s Worse Than We Thought](https://www.entrepreneur.com/growing-a-business/the-damaging-results-of-the-mandated-return-to-office-is/454043)
+- [FreeBSD Jails Containers](https://vermaden.wordpress.com/2023/06/28/freebsd-jails-containers/)
+- [Cooklang – Recipe Markup Language](https://cooklang.org)
+- [Google does little to reduce advertisers costs](https://simpleblog.ai/blog/google-ads-can-do-more-for-customers/)
+- [The hidden cost of air quality monitoring](https://www.airgradient.com/blog/hidden-costs-of-air-quality-monitoring/)
+- [Open Source AI Is Critical – Hugging Face CEO Before US Congress](https://venturebeat.com/ai/hugging-face-ceo-tells-us-house-open-source-ai-is-extremely-aligned-with-american-interests/)
+- [H100 GPUs Set Standard for Gen AI in Debut MLPerf Benchmark](https://blogs.nvidia.com/blog/2023/06/27/generative-ai-debut-mlperf/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

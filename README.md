@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Trump admits military paper was classified in new clip obtained by CNN](https://www.theguardian.com/us-news/2023/jun/26/donald-trump-classified-documents-recording-pentagon-iran)
-- [What the Wagner mutiny means for Ukraine, Russia and Putin | podcast](https://www.theguardian.com/news/audio/2023/jun/27/what-the-wagner-mutiny-means-for-ukraine-russia-and-putin-podcast)
-- [‘Here is the history, the life’: the shrine holding out against the gentrification of Bangkok](https://www.theguardian.com/world/2023/jun/27/here-is-the-history-the-life-the-shrine-holding-out-against-the-gentrification-of-bangkok)
-- [JPMorgan to pay Jeffrey Epstein victims $290m in lawsuit settlement](https://www.theguardian.com/us-news/2023/jun/26/jpmorgan-jeffrey-epstein-settlement-lawsuit-victims)
-- [Vladimir Putin says enemies wanted Russia to ‘choke on civil strife’](https://www.theguardian.com/world/2023/jun/26/yevgeny-prigozhin-breaks-silence-after-armed-mutiny-russia)
-- [No bed or bath: New Zealand boatshed sells for record $2m despite housing market crash](https://www.theguardian.com/world/2023/jun/27/no-bed-or-bath-new-zealand-boatshed-sells-for-record-2m-despite-housing-market-crash)
-- [Kamala Harris warns of threats to LGBTQ+ rights during visit to Stonewall](https://www.theguardian.com/us-news/2023/jun/26/kamala-harris-stonewall-inn-visit-pride-month)
-- [Dolphin mothers use ‘baby talk’ with their calves, recordings show](https://www.theguardian.com/environment/2023/jun/27/dolphin-mothers-use-baby-talk-with-their-calves-recordings-show)
-- [Russia-Ukraine war at a glance: what we know on day 489 of the invasion](https://www.theguardian.com/world/2023/jun/27/russia-ukraine-war-at-a-glance-what-we-know-on-day-489-of-the-invasion)
-- [Tory hopeful for London mayor accused of groping TV producer](https://www.theguardian.com/politics/2023/jun/27/tory-hopeful-for-london-mayor-accused-of-groping-tv-producer)
+- [The oil company CEO running the next UN climate change summit - podcast](https://www.theguardian.com/environment/audio/2023/jun/28/cop28-the-controversies-hitting-uae-hosts-of-climate-summit-podcast)
+- [The road to Mecca is fraught with challenges – but there’s nothing like the hajj pilgrimage to turn hearts | Ali Hammoud for the Conversation](https://www.theguardian.com/commentisfree/2023/jun/28/the-road-to-mecca-is-fraught-with-challenges-but-theres-nothing-like-the-hajj-pilgrimage-to-turn-hearts)
+- [Heat dome’s scorching temperatures in Texas expected to expand across US](https://www.theguardian.com/us-news/2023/jun/27/texas-heatwave-temperatures-latest-weather-dome)
+- [Russia-Ukraine war at a glance: what we know on day 490 of the invasion](https://www.theguardian.com/world/2023/jun/28/russia-ukraine-war-at-a-glance-what-we-know-on-day-490-of-the-invasion)
+- [Nato ready to face threat from ‘Moscow or Minsk’, says alliance head after Wagner chief’s exile](https://www.theguardian.com/world/2023/jun/28/nato-ready-to-face-threat-from-moscow-or-minsk-says-alliance-head-after-wagner-group-chiefs-exile)
+- [High mortgage rates forcing sellers to accept lower offers on homes – Zoopla](https://www.theguardian.com/money/2023/jun/28/high-mortgage-rates-forcing-sellers-to-accept-lower-offers-on-homes-zoopla)
+- [Advertising watchdog bans Hyundai and Toyota electric car ads](https://www.theguardian.com/media/2023/jun/28/advertising-watchdog-bans-hyundai-and-toyota-electric-car-ads)
+- [UK has made ‘no progress’ on climate plan, say government’s own advisers](https://www.theguardian.com/technology/2023/jun/28/uk-has-made-no-progress-on-climate-plan-say-governments-own-advisers)
+- [High costs deterring UK legal challenges to protect environment, NGOs say](https://www.theguardian.com/environment/2023/jun/28/high-costs-deterring-uk-legal-challenges-to-protect-environment-ngos-say)
+- [Kanye West accused of antisemitic abuse by former business partner](https://www.theguardian.com/tv-and-radio/2023/jun/28/kanye-west-accused-antisemitically-abusing-former-business-partner)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

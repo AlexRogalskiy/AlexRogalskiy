@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Expected L1 Norm of Unit L2 Vectors](https://win-vector.com/2023/06/24/the-expected-l1-norm-of-unit-l2-vectors/)
-- [Ask HN: Have we reached the point that anti-monopoly people were warning of?](https://news.ycombinator.com/item?id=36488288)
-- [Google Removes Sort by Date options in search](https://reclaimthenet.org/google-search-removes-sort-by-date)
-- [The deadly secret of DIY&#39;s dream material &lpar;1997&rpar;](https://www.theguardian.com/uk/1997/sep/21/antonybarnett.theobserver)
-- [Show HN: Tournacat – Sync esports schedules to Google Calendar](https://tournacat.com/)
-- [How to Negotiate a Raise: A Guide for Software Developers](https://www.eightvalues.com/blog/how-to-negotiate-a-raise)
-- [Databricks Signs Definitive Agreement to Acquire MosaicML](https://www.databricks.com/company/newsroom/press-releases/databricks-signs-definitive-agreement-acquire-mosaicml-leading-generative-ai-platform)
-- [The Making of &#39;The Last Unicorn&#39;](https://animationobsessive.substack.com/p/the-making-of-the-last-unicorn)
-- [Ask HN: What are people using virtual assistances for?](https://news.ycombinator.com/item?id=36488167)
-- [RHEL: Open-Source Drama [video]](https://www.youtube.com/watch?v=kF5pyVUQBH8)
+- [Leslie Lamport’s TLA+ Online Course &lpar;2018&rpar; [video]](https://www.youtube.com/watch?v=p54W-XOIEF8)
+- [Harvard behavior scientist who studied honesty accused of fabricating data](https://nypost.com/2023/06/24/harvard-behavior-scientist-who-studied-honesty-accused-of-fabricating-data/)
+- [Inaugural YC Top Companies List by Revenue](https://www.ycombinator.com/blog/yc-top-companies-list-by-revenue)
+- [Lost all your session buddy sessions?](https://www.partizion.io/blog/session-buddy-restore-tabs)
+- [Ask HN: How the hell do you get a Mozilla add-on published?](https://news.ycombinator.com/item?id=36501596)
+- [NASA’s Perseverance rover finds doughnut-shaped rock on Mars](https://spaceexplored.com/2023/06/27/nasa-rover-finds-doughnut-rock/)
+- [Making a Camera in Blender [video]](https://www.youtube.com/watch?v=YE9rEQAGpLw)
+- [&lpar;Not&rpar; to Write a Pipeline](https://cohost.org/tef/post/1764930-how-not-to-write-a)
+- [Crossplane: Why It Didn&#39;t Work for Us](https://masterpoint.io/updates/passing-on-crossplane/)
+- [A minimal RISC-V bare metal program to print “Hello, RISC-V”](https://github.com/peiyuanix/yuanix-riscv-os/tree/main/03-Bare-Metal-Hello-RISC-V)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

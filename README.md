@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [The oil company CEO running the next UN climate change summit - podcast](https://www.theguardian.com/environment/audio/2023/jun/28/cop28-the-controversies-hitting-uae-hosts-of-climate-summit-podcast)
-- [The road to Mecca is fraught with challenges – but there’s nothing like the hajj pilgrimage to turn hearts | Ali Hammoud for the Conversation](https://www.theguardian.com/commentisfree/2023/jun/28/the-road-to-mecca-is-fraught-with-challenges-but-theres-nothing-like-the-hajj-pilgrimage-to-turn-hearts)
-- [Heat dome’s scorching temperatures in Texas expected to expand across US](https://www.theguardian.com/us-news/2023/jun/27/texas-heatwave-temperatures-latest-weather-dome)
-- [Russia-Ukraine war at a glance: what we know on day 490 of the invasion](https://www.theguardian.com/world/2023/jun/28/russia-ukraine-war-at-a-glance-what-we-know-on-day-490-of-the-invasion)
-- [Nato ready to face threat from ‘Moscow or Minsk’, says alliance head after Wagner chief’s exile](https://www.theguardian.com/world/2023/jun/28/nato-ready-to-face-threat-from-moscow-or-minsk-says-alliance-head-after-wagner-group-chiefs-exile)
-- [High mortgage rates forcing sellers to accept lower offers on homes – Zoopla](https://www.theguardian.com/money/2023/jun/28/high-mortgage-rates-forcing-sellers-to-accept-lower-offers-on-homes-zoopla)
-- [Advertising watchdog bans Hyundai and Toyota electric car ads](https://www.theguardian.com/media/2023/jun/28/advertising-watchdog-bans-hyundai-and-toyota-electric-car-ads)
-- [UK has made ‘no progress’ on climate plan, say government’s own advisers](https://www.theguardian.com/technology/2023/jun/28/uk-has-made-no-progress-on-climate-plan-say-governments-own-advisers)
-- [High costs deterring UK legal challenges to protect environment, NGOs say](https://www.theguardian.com/environment/2023/jun/28/high-costs-deterring-uk-legal-challenges-to-protect-environment-ngos-say)
-- [Kanye West accused of antisemitic abuse by former business partner](https://www.theguardian.com/tv-and-radio/2023/jun/28/kanye-west-accused-antisemitically-abusing-former-business-partner)
+- [Lemongrass chicken, slow-cooked beef and fried bananas: three crowd-pleasing Vietnamese recipes by Tommy Pham](https://www.theguardian.com/food/2023/jun/29/lemongrass-chicken-slow-cooked-beef-and-fried-bananas-three-crowd-pleasing-vietnamese-recipes-by-tommy-pham)
+- [Guards at Del Monte pineapple farm in Kenya accused of killings](https://www.theguardian.com/news/audio/2023/jun/29/guards-at-del-monte-pineapple-farm-in-kenya-accused-of-killings-podcast)
+- [France police shooting: second night of unrest as protests over teenager’s death spread](https://www.theguardian.com/world/2023/jun/29/france-police-shooting-second-night-of-unrest-as-protests-over-teenagers-death-spread)
+- [National Geographic reportedly lays off its last staff writers](https://www.theguardian.com/media/2023/jun/28/national-geographic-staff-layoffs-report)
+- [The New Zealand PM’s ancient plane is embarrassing – but an upgrade risks too much of a backlash | Henry Cooke](https://www.theguardian.com/world/commentisfree/2023/jun/29/the-new-zealand-pms-plane-is-embarrassing-but-an-upgrade-risks-too-much-of-a-backlash)
+- [Wagner mutiny has weakened Putin, says Scholz, as Russian president makes rare public visit](https://www.theguardian.com/world/2023/jun/29/wagner-mutiny-has-weakened-putin-says-scholz-as-russian-president-makes-rare-public-visit)
+- [Music of the spheres: astronomers detect ‘cosmic bass note’ of gravitational waves](https://www.theguardian.com/science/2023/jun/29/astronomers-detect-cosmic-bass-note-gravitational-waves)
+- [China on course to hit wind and solar power target five years ahead of time](https://www.theguardian.com/world/2023/jun/29/china-wind-solar-power-global-renewable-energy-leader)
+- [Russia-Ukraine war at a glance: what we know on day 491 of the invasion](https://www.theguardian.com/world/2023/jun/29/russia-ukraine-war-at-a-glance-what-we-know-on-day-491-of-the-invasion)
+- [Presumed human remains recovered from within Titan wreckage, US Coast Guard says](https://www.theguardian.com/world/2023/jun/28/titan-sub-debris-implosion-wreckage-oceangate)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

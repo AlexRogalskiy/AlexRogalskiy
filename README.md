@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Leslie Lamport’s TLA+ Online Course &lpar;2018&rpar; [video]](https://www.youtube.com/watch?v=p54W-XOIEF8)
-- [Harvard behavior scientist who studied honesty accused of fabricating data](https://nypost.com/2023/06/24/harvard-behavior-scientist-who-studied-honesty-accused-of-fabricating-data/)
-- [Inaugural YC Top Companies List by Revenue](https://www.ycombinator.com/blog/yc-top-companies-list-by-revenue)
-- [Lost all your session buddy sessions?](https://www.partizion.io/blog/session-buddy-restore-tabs)
-- [Ask HN: How the hell do you get a Mozilla add-on published?](https://news.ycombinator.com/item?id=36501596)
-- [NASA’s Perseverance rover finds doughnut-shaped rock on Mars](https://spaceexplored.com/2023/06/27/nasa-rover-finds-doughnut-rock/)
-- [Making a Camera in Blender [video]](https://www.youtube.com/watch?v=YE9rEQAGpLw)
-- [&lpar;Not&rpar; to Write a Pipeline](https://cohost.org/tef/post/1764930-how-not-to-write-a)
-- [Crossplane: Why It Didn&#39;t Work for Us](https://masterpoint.io/updates/passing-on-crossplane/)
-- [A minimal RISC-V bare metal program to print “Hello, RISC-V”](https://github.com/peiyuanix/yuanix-riscv-os/tree/main/03-Bare-Metal-Hello-RISC-V)
+- [Scientists Find Evidence for Slow-Rolling Sea of Gravitational Waves](https://www.caltech.edu/about/news/scientists-find-evidence-for-slow-rolling-sea-of-gravitational-waves)
+- [Monster gravitational waves spotted for first time](https://www.nature.com/articles/d41586-023-02167-7)
+- [Will the Biggest Tech Merger of All Time Go Through?](https://www.thebignewsletter.com/p/will-the-biggest-tech-merger-of-all)
+- [What Is AI Doing to Art?](https://www.noemamag.com/what-is-ai-doing-to-art/)
+- [Heat-resistant drone could scope out and map burning buildings and wildfires](https://www.imperial.ac.uk/news/245718/heat-resistant-drone-could-scope-burning-buildings/)
+- [Am radio tower power [video]](https://www.youtube.com/watch?v=uo9nGzIzSPw)
+- [Slack Architecture](https://systemdesign.one/slack-architecture/)
+- [How high ocean temperatures is affecting the weather](https://www.fastcompany.com/90915248/ocean-temperatures-are-off-the-charts-heres-what-that-means-for-the-weather)
+- [AI is the end of the brands as we know them](https://www.fastcompany.com/90915063/ai-end-brands-as-we-know-them)
+- [CLI tools hidden in the Python standard library](https://til.simonwillison.net/python/stdlib-cli-tools)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

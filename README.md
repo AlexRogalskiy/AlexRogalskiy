@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Trinity Desktop Environment – a modern KDE3 fork](https://www.trinitydesktop.org/)
-- [The False Dawn: Reevaluating Google&#39;s RL for Chip Macro Placement](https://arxiv.org/abs/2306.09633)
-- [Natural language is an unnatural interface](https://varunshenoy.substack.com/p/natural-language-is-an-unnatural)
-- [Damaging Results of Mandated Return to Office – It&#39;s Worse Than We Thought](https://www.entrepreneur.com/growing-a-business/the-damaging-results-of-the-mandated-return-to-office-is/454043)
-- [FreeBSD Jails Containers](https://vermaden.wordpress.com/2023/06/28/freebsd-jails-containers/)
-- [Cooklang – Recipe Markup Language](https://cooklang.org)
-- [Google does little to reduce advertisers costs](https://simpleblog.ai/blog/google-ads-can-do-more-for-customers/)
-- [The hidden cost of air quality monitoring](https://www.airgradient.com/blog/hidden-costs-of-air-quality-monitoring/)
-- [Open Source AI Is Critical – Hugging Face CEO Before US Congress](https://venturebeat.com/ai/hugging-face-ceo-tells-us-house-open-source-ai-is-extremely-aligned-with-american-interests/)
-- [H100 GPUs Set Standard for Gen AI in Debut MLPerf Benchmark](https://blogs.nvidia.com/blog/2023/06/27/generative-ai-debut-mlperf/)
+- [The Biologist Blowing Our Minds](https://nautil.us/the-biologist-blowing-our-minds-323905/)
+- [OpenOrca: open source dataset and instruct-tuned LLMs](https://erichartford.com/openorca)
+- [XGen-7B, a new 7B foundational model trained on up to 8K length for 1.5T tokens](https://blog.salesforceairesearch.com/xgen/)
+- [In a major discovery, scientists say space-time churns like a choppy sea](https://www.washingtonpost.com/science/2023/06/28/gravitational-wave-background-nanograv/)
+- [Deep Learning Digs Deep: AI Unveils New Large-Scale Images in Peruvian Desert](https://blogs.nvidia.com/blog/2023/06/23/geoglyphs-in-peru/)
+- [Junk websites filled w AI-generated text pulling in money from programmatic ads](https://www.technologyreview.com/2023/06/26/1075504/junk-websites-filled-with-ai-generated-text-are-pulling-in-money-from-programmatic-ads/)
+- [National Geographic lays off its last remaining staff writers](https://www.washingtonpost.com/media/2023/06/28/national-geographic-staff-writers-laid-off/)
+- [Visa to acquire Brazilian startup Pismo for $1B](https://www.pismo.io/blog/visa-to-acquire-pismo/)
+- [The Bathyscaph Trieste: Technological and Operational Aspects &lpar;1962&rpar;](https://archive.org/details/bathyscaphtriest00wals)
+- [Behind the Pretty Frames: Diablo IV](https://mamoniem.com/behind-the-pretty-frames-diablo-iv/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

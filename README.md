@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The Biologist Blowing Our Minds](https://nautil.us/the-biologist-blowing-our-minds-323905/)
-- [OpenOrca: open source dataset and instruct-tuned LLMs](https://erichartford.com/openorca)
-- [XGen-7B, a new 7B foundational model trained on up to 8K length for 1.5T tokens](https://blog.salesforceairesearch.com/xgen/)
-- [In a major discovery, scientists say space-time churns like a choppy sea](https://www.washingtonpost.com/science/2023/06/28/gravitational-wave-background-nanograv/)
-- [Deep Learning Digs Deep: AI Unveils New Large-Scale Images in Peruvian Desert](https://blogs.nvidia.com/blog/2023/06/23/geoglyphs-in-peru/)
-- [Junk websites filled w AI-generated text pulling in money from programmatic ads](https://www.technologyreview.com/2023/06/26/1075504/junk-websites-filled-with-ai-generated-text-are-pulling-in-money-from-programmatic-ads/)
-- [National Geographic lays off its last remaining staff writers](https://www.washingtonpost.com/media/2023/06/28/national-geographic-staff-writers-laid-off/)
-- [Visa to acquire Brazilian startup Pismo for $1B](https://www.pismo.io/blog/visa-to-acquire-pismo/)
-- [The Bathyscaph Trieste: Technological and Operational Aspects &lpar;1962&rpar;](https://archive.org/details/bathyscaphtriest00wals)
-- [Behind the Pretty Frames: Diablo IV](https://mamoniem.com/behind-the-pretty-frames-diablo-iv/)
+- [File for Divorce from LLVM](https://github.com/ziglang/zig/issues/16270)
+- [MdBook – Create book from Markdown files. Like Gitbook but implemented in Rust](https://rust-lang.github.io/mdBook/)
+- [The False Promise of Open-sourced LLMs context length](https://lmsys.org/blog/2023-06-29-longchat/)
+- [Reverse-engineering Google’s &quot;Skip Button Guarantee&quot;](https://checkmyads.org/branded/googles-epic-multi-billion-dollar-ad-scam-makes-sense-to-us/)
+- [Self-published Ansible book – 87k copies, 300k revenue, 41 revisions](https://www.jeffgeerling.com/blog/2023/self-publishing-technical-book-10-years)
+- [English as the new programming language for Apache spark](https://www.databricks.com/blog/introducing-english-new-programming-language-apache-spark)
+- [A PyTorch Approach to ML Infrastructure](https://www.run.house/blog/a-pytorch-approach-to-ml-infrastructure)
+- [Structures in C: From Basics to Memory Alignment](https://abstractexpr.com/2023/06/29/structures-in-c-from-basics-to-memory-alignment/)
+- [Keeping Open Source Open](https://rockylinux.org/news/keeping-open-source-open/)
+- [Tesla Fleet Telemetry](https://github.com/teslamotors/fleet-telemetry)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

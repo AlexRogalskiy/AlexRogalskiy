@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [ChatGPT maker OpenAI faces new class action lawsuit over data privacy](https://www.computerworld.com/article/3701449/chatgpt-maker-openai-faces-new-class-action-lawsuit-over-data-privacy.html#tk.rss_all)
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [HP’s Dragonfly G4 — a better laptop for remote workers?](https://www.computerworld.com/article/3701389/hps-dragonfly-g4-a-better-laptop-for-remote-workers.html#tk.rss_all)
+- [The EU Data Act is a lot bigger than iCloud](https://www.computerworld.com/article/3701368/the-eu-data-act-is-a-lot-bigger-than-icloud.html#tk.rss_all)
+- [Meta exec: VR meetings will coexist with, not replace, videoconferencing &lpar;for now&rpar;](https://www.computerworld.com/article/3699115/designing-virtual-meeting-environment-interview-mike-lebeau-meta-horizon-workrooms.html#tk.rss_all)
 - [EU announces specialized testing and evaluation centers for AI](https://www.computerworld.com/article/3701228/eu-announces-specialized-testing-and-evaluation-centers-for-ai.html#tk.rss_all)
 - [US weighs further restrictions on chip exports to China](https://www.networkworld.com/article/3700779/us-weighs-further-restrictions-on-chip-exports-to-china.html#tk.rss_all)
 - [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
 - [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
 - [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
-- [Apple warns that UK&#39;s Online Safety Bill puts people at &#39;greater risk&#39;](https://www.computerworld.com/article/3700859/apple-warns-that-uks-online-safety-bill-puts-people-at-greater-risk.html#tk.rss_all)
-- [AI will kill these jobs &lpar;but create new ones, too&rpar;](https://www.computerworld.com/article/3700857/ai-will-kill-these-jobs-but-create-new-ones-too.html#tk.rss_all)
-- [Apple wants Xcode to make you smarter](https://www.computerworld.com/article/3700777/apple-wants-xcode-to-make-you-smarter.html#tk.rss_all)
-- [UK&#39;s AI strategy does not address equality concerns, regulator says](https://www.computerworld.com/article/3700778/uks-ai-strategy-does-not-address-equality-concerns-regulator-says.html#tk.rss_all)
-- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

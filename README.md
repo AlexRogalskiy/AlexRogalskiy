@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Scientists Find Evidence for Slow-Rolling Sea of Gravitational Waves](https://www.caltech.edu/about/news/scientists-find-evidence-for-slow-rolling-sea-of-gravitational-waves)
-- [Monster gravitational waves spotted for first time](https://www.nature.com/articles/d41586-023-02167-7)
-- [Will the Biggest Tech Merger of All Time Go Through?](https://www.thebignewsletter.com/p/will-the-biggest-tech-merger-of-all)
-- [What Is AI Doing to Art?](https://www.noemamag.com/what-is-ai-doing-to-art/)
-- [Heat-resistant drone could scope out and map burning buildings and wildfires](https://www.imperial.ac.uk/news/245718/heat-resistant-drone-could-scope-burning-buildings/)
-- [Am radio tower power [video]](https://www.youtube.com/watch?v=uo9nGzIzSPw)
-- [Slack Architecture](https://systemdesign.one/slack-architecture/)
-- [How high ocean temperatures is affecting the weather](https://www.fastcompany.com/90915248/ocean-temperatures-are-off-the-charts-heres-what-that-means-for-the-weather)
-- [AI is the end of the brands as we know them](https://www.fastcompany.com/90915063/ai-end-brands-as-we-know-them)
-- [CLI tools hidden in the Python standard library](https://til.simonwillison.net/python/stdlib-cli-tools)
+- [Hipólito Mora, vigilante crusader against Mexico’s cartels, killed in ambush](https://www.theguardian.com/world/2023/jun/29/hipolito-mora-killed-mexico-drug-cartel-foe)
+- [One of the 14 remaining P-40s in the US has crashed, pilot fatally injured](https://airlive.net/news/2023/06/29/one-of-the-14-remaining-p-40s-in-the-us-has-crashed-pilot-fatally-injured/)
+- [Goodbye RIF](https://www.talklittle.com/rif-is-fun/goodbye)
+- [Deceptive proof π = 0. Where is the mistake? [video]](https://www.youtube.com/watch?v=R476CTKUIr4)
+- [Show HN: Lemonade – A Lemmy client using GTK 4 and libadwaita](https://github.com/mdwalters/lemonade)
+- [Why ChatGPT and Copilot Are Bad for Developers [video]](https://www.youtube.com/watch?v=T3cxUhptzaI)
+- [Overstock.com changing its name &lpar;to bed bath and beyond&rpar;](https://www.cnn.com/2023/06/29/business/overstock-bed-bath-beyond-new-name/index.html)
+- [Elders warn of consequences of “one-state reality” in Israel and Palestine](https://theelders.org/news/elders-warn-consequences-one-state-reality-israel-and-palestine)
+- [LLM Tech and a Lot More: Version 13.3 of Wolfram Language and Mathematica](https://writings.stephenwolfram.com/2023/06/llm-tech-and-a-lot-more-version-13-3-of-wolfram-language-and-mathematica/#llm-tech-comes-to-wolfram-language)
+- [Vowel.com Is Shutting Down](https://twitter.com/berman66/status/1674552743858511873)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

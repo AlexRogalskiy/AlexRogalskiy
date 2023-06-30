@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Lemongrass chicken, slow-cooked beef and fried bananas: three crowd-pleasing Vietnamese recipes by Tommy Pham](https://www.theguardian.com/food/2023/jun/29/lemongrass-chicken-slow-cooked-beef-and-fried-bananas-three-crowd-pleasing-vietnamese-recipes-by-tommy-pham)
-- [Guards at Del Monte pineapple farm in Kenya accused of killings](https://www.theguardian.com/news/audio/2023/jun/29/guards-at-del-monte-pineapple-farm-in-kenya-accused-of-killings-podcast)
-- [France police shooting: second night of unrest as protests over teenager’s death spread](https://www.theguardian.com/world/2023/jun/29/france-police-shooting-second-night-of-unrest-as-protests-over-teenagers-death-spread)
-- [National Geographic reportedly lays off its last staff writers](https://www.theguardian.com/media/2023/jun/28/national-geographic-staff-layoffs-report)
-- [The New Zealand PM’s ancient plane is embarrassing – but an upgrade risks too much of a backlash | Henry Cooke](https://www.theguardian.com/world/commentisfree/2023/jun/29/the-new-zealand-pms-plane-is-embarrassing-but-an-upgrade-risks-too-much-of-a-backlash)
-- [Wagner mutiny has weakened Putin, says Scholz, as Russian president makes rare public visit](https://www.theguardian.com/world/2023/jun/29/wagner-mutiny-has-weakened-putin-says-scholz-as-russian-president-makes-rare-public-visit)
-- [Music of the spheres: astronomers detect ‘cosmic bass note’ of gravitational waves](https://www.theguardian.com/science/2023/jun/29/astronomers-detect-cosmic-bass-note-gravitational-waves)
-- [China on course to hit wind and solar power target five years ahead of time](https://www.theguardian.com/world/2023/jun/29/china-wind-solar-power-global-renewable-energy-leader)
-- [Russia-Ukraine war at a glance: what we know on day 491 of the invasion](https://www.theguardian.com/world/2023/jun/29/russia-ukraine-war-at-a-glance-what-we-know-on-day-491-of-the-invasion)
-- [Presumed human remains recovered from within Titan wreckage, US Coast Guard says](https://www.theguardian.com/world/2023/jun/28/titan-sub-debris-implosion-wreckage-oceangate)
+- [The Republican race for 2024: can anyone stop Trump? - podcast](https://www.theguardian.com/news/audio/2023/jun/30/the-republican-race-for-2024-can-anyone-stop-trump-podcast)
+- [France police shooting: violence erupts for a third consecutive night](https://www.theguardian.com/world/2023/jun/29/france-police-shooting-second-night-of-unrest-as-protests-over-teenagers-death-spread)
+- [Trump says Putin is ‘somewhat weakened’ by aborted mutiny](https://www.theguardian.com/us-news/2023/jun/29/trump-interview-putin-ukraine-russia-war)
+- [Judge rejects Trump’s bid to dismiss E Jean Carroll’s first defamation suit](https://www.theguardian.com/us-news/2023/jun/29/trump-fails-bid-dismiss-e-jean-carrol-lawsuit)
+- [Russia-Ukraine war at a glance: what we know on day 492 of the invasion](https://www.theguardian.com/world/2023/jun/30/russia-ukraine-war-at-a-glance-what-we-know-on-day-492-of-the-invasion)
+- [As Beijing swelters, activists hope the heat will prompt climate action](https://www.theguardian.com/world/2023/jun/30/as-beijing-swelters-activists-hope-the-heat-will-prompt-climate-action)
+- [Thousands suffer heat stress on hajj pilgrimage as temperatures reach 48C](https://www.theguardian.com/world/2023/jun/30/thousands-suffer-heat-stress-on-hajj-pilgrimage-as-temperatures-reach-48c)
+- [Texas grand jury declines to indict Travis Scott over deadly festival crush](https://www.theguardian.com/music/2023/jun/29/travis-scott-astroworld-crush-texas-grand-jury)
+- [Hipólito Mora, vigilante crusader against Mexico’s drug cartels, killed in ambush](https://www.theguardian.com/world/2023/jun/29/hipolito-mora-killed-mexico-drug-cartel-foe)
+- [Christine King Farris, Martin Luther King’s last living sibling, dies aged 95](https://www.theguardian.com/us-news/2023/jun/29/christine-king-farris-dead-95-martin-luther-king-sister)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

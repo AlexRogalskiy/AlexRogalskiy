@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [The Republican race for 2024: can anyone stop Trump? - podcast](https://www.theguardian.com/news/audio/2023/jun/30/the-republican-race-for-2024-can-anyone-stop-trump-podcast)
-- [France police shooting: violence erupts for a third consecutive night](https://www.theguardian.com/world/2023/jun/29/france-police-shooting-second-night-of-unrest-as-protests-over-teenagers-death-spread)
-- [Trump says Putin is ‘somewhat weakened’ by aborted mutiny](https://www.theguardian.com/us-news/2023/jun/29/trump-interview-putin-ukraine-russia-war)
-- [Judge rejects Trump’s bid to dismiss E Jean Carroll’s first defamation suit](https://www.theguardian.com/us-news/2023/jun/29/trump-fails-bid-dismiss-e-jean-carrol-lawsuit)
-- [Russia-Ukraine war at a glance: what we know on day 492 of the invasion](https://www.theguardian.com/world/2023/jun/30/russia-ukraine-war-at-a-glance-what-we-know-on-day-492-of-the-invasion)
-- [As Beijing swelters, activists hope the heat will prompt climate action](https://www.theguardian.com/world/2023/jun/30/as-beijing-swelters-activists-hope-the-heat-will-prompt-climate-action)
-- [Thousands suffer heat stress on hajj pilgrimage as temperatures reach 48C](https://www.theguardian.com/world/2023/jun/30/thousands-suffer-heat-stress-on-hajj-pilgrimage-as-temperatures-reach-48c)
-- [Texas grand jury declines to indict Travis Scott over deadly festival crush](https://www.theguardian.com/music/2023/jun/29/travis-scott-astroworld-crush-texas-grand-jury)
-- [Hipólito Mora, vigilante crusader against Mexico’s drug cartels, killed in ambush](https://www.theguardian.com/world/2023/jun/29/hipolito-mora-killed-mexico-drug-cartel-foe)
-- [Christine King Farris, Martin Luther King’s last living sibling, dies aged 95](https://www.theguardian.com/us-news/2023/jun/29/christine-king-farris-dead-95-martin-luther-king-sister)
+- [US actors union agrees to extend talks as A-list stars show they are ready to strike](https://www.theguardian.com/us-news/2023/jun/30/sag-aftra-actors-union-contract-negotiations)
+- [The wrong track: remembering the embarrassing saga of Sydney’s monorail](https://www.theguardian.com/australia-news/2023/jul/01/the-wrong-track-remembering-the-embarrassing-saga-of-sydneys-monorail)
+- [‘Tokyo would lose its soul’: anger over plans to redevelop historic city park](https://www.theguardian.com/world/2023/jul/01/tokyo-anger-plans-redevelop-historic-city-park-meiji-jingu-gaien)
+- [Fears for people and firms as China’s new anti-espionage law comes into effect](https://www.theguardian.com/world/2023/jun/30/fears-for-people-and-firms-as-chinas-new-anti-espionage-law-comes-into-effect)
+- [Fox News settles gender discrimination lawsuit with Abby Grossberg for $12m](https://www.theguardian.com/media/2023/jun/30/fox-news-abby-grossberg-settlement-gender-discrimination)
+- [Joe Biden lays out new student debt relief plan after supreme court ruling](https://www.theguardian.com/us-news/2023/jun/30/joe-biden-new-student-debt-relief-plan-scotus-reaction)
+- [Jeremy Clarkson’s Sun article on Meghan was sexist, says press regulator](https://www.theguardian.com/media/2023/jun/30/jeremy-clarkson-sun-article-on-meghan-was-sexist-says-press-regulator)
+- [France riots: hundreds arrested in fourth night of unrest as 45,000 police deployed](https://www.theguardian.com/world/2023/jun/30/france-riots-more-than-400-arrested-as-police-officer-accused-of-shooting-teen-apologises)
+- [Andrew Neil show is latest victim of Channel 4 cuts](https://www.theguardian.com/media/2023/jun/30/andrew-neil-show-is-latest-victim-of-channel-4-cuts)
+- [What happened in the Russia-Ukraine war this week? Catch up with the must-read news and analysis](https://www.theguardian.com/world/2023/jul/01/what-happened-in-the-russia-ukraine-war-this-week-catch-up-with-the-must-read-news-and-analysis)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

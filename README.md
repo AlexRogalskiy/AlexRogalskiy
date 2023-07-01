@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Hipólito Mora, vigilante crusader against Mexico’s cartels, killed in ambush](https://www.theguardian.com/world/2023/jun/29/hipolito-mora-killed-mexico-drug-cartel-foe)
-- [One of the 14 remaining P-40s in the US has crashed, pilot fatally injured](https://airlive.net/news/2023/06/29/one-of-the-14-remaining-p-40s-in-the-us-has-crashed-pilot-fatally-injured/)
-- [Goodbye RIF](https://www.talklittle.com/rif-is-fun/goodbye)
-- [Deceptive proof π = 0. Where is the mistake? [video]](https://www.youtube.com/watch?v=R476CTKUIr4)
-- [Show HN: Lemonade – A Lemmy client using GTK 4 and libadwaita](https://github.com/mdwalters/lemonade)
-- [Why ChatGPT and Copilot Are Bad for Developers [video]](https://www.youtube.com/watch?v=T3cxUhptzaI)
-- [Overstock.com changing its name &lpar;to bed bath and beyond&rpar;](https://www.cnn.com/2023/06/29/business/overstock-bed-bath-beyond-new-name/index.html)
-- [Elders warn of consequences of “one-state reality” in Israel and Palestine](https://theelders.org/news/elders-warn-consequences-one-state-reality-israel-and-palestine)
-- [LLM Tech and a Lot More: Version 13.3 of Wolfram Language and Mathematica](https://writings.stephenwolfram.com/2023/06/llm-tech-and-a-lot-more-version-13-3-of-wolfram-language-and-mathematica/#llm-tech-comes-to-wolfram-language)
-- [Vowel.com Is Shutting Down](https://twitter.com/berman66/status/1674552743858511873)
+- [Fluhorse Unmasked: The Android Malware That&#39;s Changing the Game](https://www.thefinalhop.com/fluhorse-the-flutter-based-android-malware-thats-raising-eyebrows/)
+- [Is the observable universe consistent with the cosmological principle?](https://iopscience.iop.org/article/10.1088/1361-6382/acbefc/pdf)
+- [In practice, cool URLs can become inaccessible even if they don&#39;t change](https://utcc.utoronto.ca/~cks/space/blog/web/CoolUrlsGoInaccessible)
+- [What’s Your Font Type?](https://www.washingtonpost.com/technology/interactive/2023/best-font-you-test-types-styles/)
+- [Searx.be was shut down by hosting provider](https://searx.be)
+- [Social Media and “Parasocial Media”](https://drewdevault.com/2023/06/30/Social-and-parasocial-media.html)
+- [Saturn’s rings steal the show in new image from Webb telescope](https://arstechnica.com/space/2023/06/saturns-rings-steal-the-show-in-new-image-from-webb-telescope/)
+- [Implications of no-free-lunch theorems](https://www.santafe.edu/news-center/news/research-news-brief-implications-no-free-lunch-theorems)
+- [E-con Systems&#39; advanced multi-camera solutions for Qualcomm Robotics RB5 Dev Kit](https://evisionhub.blogspot.com/2023/06/e-con-systems-advanced-multi-camera-solutions-for-qualcomm-robotics-rb5-development-kit.html)
+- [The life aquatic](https://www.historytoday.com/archive/history-matters/life-aquatic)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

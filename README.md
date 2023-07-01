@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [File for Divorce from LLVM](https://github.com/ziglang/zig/issues/16270)
-- [MdBook – Create book from Markdown files. Like Gitbook but implemented in Rust](https://rust-lang.github.io/mdBook/)
-- [The False Promise of Open-sourced LLMs context length](https://lmsys.org/blog/2023-06-29-longchat/)
-- [Reverse-engineering Google’s &quot;Skip Button Guarantee&quot;](https://checkmyads.org/branded/googles-epic-multi-billion-dollar-ad-scam-makes-sense-to-us/)
-- [Self-published Ansible book – 87k copies, 300k revenue, 41 revisions](https://www.jeffgeerling.com/blog/2023/self-publishing-technical-book-10-years)
-- [English as the new programming language for Apache spark](https://www.databricks.com/blog/introducing-english-new-programming-language-apache-spark)
-- [A PyTorch Approach to ML Infrastructure](https://www.run.house/blog/a-pytorch-approach-to-ml-infrastructure)
-- [Structures in C: From Basics to Memory Alignment](https://abstractexpr.com/2023/06/29/structures-in-c-from-basics-to-memory-alignment/)
-- [Keeping Open Source Open](https://rockylinux.org/news/keeping-open-source-open/)
-- [Tesla Fleet Telemetry](https://github.com/teslamotors/fleet-telemetry)
+- [Saturn’s rings steal the show in new image from Webb telescope](https://arstechnica.com/space/2023/06/saturns-rings-steal-the-show-in-new-image-from-webb-telescope/)
+- [Maine becomes first state to decriminalize selling sex](https://www.seattletimes.com/nation-world/maine-becomes-first-state-to-decriminalize-selling-sex/)
+- [Don Lancaster Has Died](https://gilaherald.com/obituary-for-don-lancaster/)
+- [Freedom Respecting Technology: Next Generation Open Source and Open Knowledge](https://makesourcenotcode.github.io/freedom_respecting_technology.html)
+- [Kaboom.js 3000](https://kaboomjs.com/blog/3000)
+- [Jest not recommended to be used in Node.js due to instanceOf operator issues](https://backend.cafe/should-you-use-jest-as-a-testing-library)
+- [The Condiment Packet Gallery](https://www.condimentpacket.com/index.html?mc_cid=316bfc2409&mc_eid=03a6564312)
+- [Steel Bank Common Lisp](https://www.sbcl.org)
+- [Apollo is dead. Long live Apollo](https://news.ycombinator.com/item?id=36543894)
+- [Show HN: Tabserve.dev. HTTPS proxy using Web Workers and a Cloudflare Worker](https://tabserve.dev)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

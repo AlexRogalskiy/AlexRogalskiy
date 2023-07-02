@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [US actors union agrees to extend talks as A-list stars show they are ready to strike](https://www.theguardian.com/us-news/2023/jun/30/sag-aftra-actors-union-contract-negotiations)
-- [The wrong track: remembering the embarrassing saga of Sydney’s monorail](https://www.theguardian.com/australia-news/2023/jul/01/the-wrong-track-remembering-the-embarrassing-saga-of-sydneys-monorail)
-- [‘Tokyo would lose its soul’: anger over plans to redevelop historic city park](https://www.theguardian.com/world/2023/jul/01/tokyo-anger-plans-redevelop-historic-city-park-meiji-jingu-gaien)
-- [Fears for people and firms as China’s new anti-espionage law comes into effect](https://www.theguardian.com/world/2023/jun/30/fears-for-people-and-firms-as-chinas-new-anti-espionage-law-comes-into-effect)
-- [Fox News settles gender discrimination lawsuit with Abby Grossberg for $12m](https://www.theguardian.com/media/2023/jun/30/fox-news-abby-grossberg-settlement-gender-discrimination)
-- [Joe Biden lays out new student debt relief plan after supreme court ruling](https://www.theguardian.com/us-news/2023/jun/30/joe-biden-new-student-debt-relief-plan-scotus-reaction)
-- [Jeremy Clarkson’s Sun article on Meghan was sexist, says press regulator](https://www.theguardian.com/media/2023/jun/30/jeremy-clarkson-sun-article-on-meghan-was-sexist-says-press-regulator)
-- [France riots: hundreds arrested in fourth night of unrest as 45,000 police deployed](https://www.theguardian.com/world/2023/jun/30/france-riots-more-than-400-arrested-as-police-officer-accused-of-shooting-teen-apologises)
-- [Andrew Neil show is latest victim of Channel 4 cuts](https://www.theguardian.com/media/2023/jun/30/andrew-neil-show-is-latest-victim-of-channel-4-cuts)
-- [What happened in the Russia-Ukraine war this week? Catch up with the must-read news and analysis](https://www.theguardian.com/world/2023/jul/01/what-happened-in-the-russia-ukraine-war-this-week-catch-up-with-the-must-read-news-and-analysis)
+- [Russia-Ukraine war at a glance: what we know on day 494 of the invasion](https://www.theguardian.com/world/2023/jul/02/russia-ukraine-war-at-a-glance-what-we-know-on-day-494-of-the-invasion)
+- [Minimum hourly wage in swanky West Hollywood is the highest in the US](https://www.theguardian.com/us-news/2023/jul/02/minimum-hourly-wage-west-hollywood-highest-in-us)
+- [UK airports say they can reach net zero and still expand. Is it just pie in the sky?](https://www.theguardian.com/business/2023/jul/02/uk-airports-say-they-can-reach-net-zero-and-still-expand-is-it-just-pie-in-the-sky)
+- [Stanley Tucci says straight actors should be free to play gay roles](https://www.theguardian.com/film/2023/jul/02/stanley-tucci-says-straight-actors-should-be-free-to-play-gay-roles)
+- [Online roulette: the popular chat sites that are drawing in children and horrifying parents](https://www.theguardian.com/australia-news/2023/jul/02/online-roulette-children-cybersafety-omegle-roblox-video-chat-popular-websites)
+- [Thank you for the rays: five ways to wear sundresses – in pictures](https://www.theguardian.com/fashion/gallery/2023/jul/01/thank-you-for-the-rays-five-ways-to-wear-sundresses-in-pictures)
+- [Twitter applies reading limit after users report issues with platform](https://www.theguardian.com/technology/2023/jul/01/twitter-applies-reading-limit-after-users-report-issues-with-platform)
+- [Beth Mooney guides Australia Women to dramatic T20 win against England](https://www.theguardian.com/sport/2023/jul/01/beth-mooney-guides-australia-to-dramatic-t20-win-against-england-womens-ashes)
+- [Champion review – Candice Carty-Williams’s confident rap drama is full of certified bangers](https://www.theguardian.com/tv-and-radio/2023/jul/01/champion-review-candice-carty-williams-confident-rap-drama-is-full-of-certified-bangers)
+- [United canceled flights for thousands of passengers while the CEO took a private plane](https://www.theguardian.com/business/2023/jul/01/united-airlines-canceled-flights-ceo-private-plane)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

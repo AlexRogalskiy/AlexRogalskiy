@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Saturn’s rings steal the show in new image from Webb telescope](https://arstechnica.com/space/2023/06/saturns-rings-steal-the-show-in-new-image-from-webb-telescope/)
-- [Maine becomes first state to decriminalize selling sex](https://www.seattletimes.com/nation-world/maine-becomes-first-state-to-decriminalize-selling-sex/)
-- [Don Lancaster Has Died](https://gilaherald.com/obituary-for-don-lancaster/)
-- [Freedom Respecting Technology: Next Generation Open Source and Open Knowledge](https://makesourcenotcode.github.io/freedom_respecting_technology.html)
-- [Kaboom.js 3000](https://kaboomjs.com/blog/3000)
-- [Jest not recommended to be used in Node.js due to instanceOf operator issues](https://backend.cafe/should-you-use-jest-as-a-testing-library)
-- [The Condiment Packet Gallery](https://www.condimentpacket.com/index.html?mc_cid=316bfc2409&mc_eid=03a6564312)
-- [Steel Bank Common Lisp](https://www.sbcl.org)
-- [Apollo is dead. Long live Apollo](https://news.ycombinator.com/item?id=36543894)
-- [Show HN: Tabserve.dev. HTTPS proxy using Web Workers and a Cloudflare Worker](https://tabserve.dev)
+- [China Has $3T of ‘Hidden’ Currency Reserves, Setser Says](https://www.bloomberg.com/news/articles/2023-06-30/china-has-3-trillion-of-hidden-currency-reserves-setser-says)
+- [Intro to Cryptography [pdf]](https://www.cs.umd.edu/~waa/414-F11/IntroToCrypto.pdf)
+- [Using WebAssembly to turn Rust crates into fast TypeScript libraries](https://rybicki.io/blog/2023/06/27/rust-crate-into-typescript-library.html)
+- [git-landmine – create local malicious Git repo](https://github.com/jwilk/git-landmine)
+- [C++ GPT-2 inference engine](https://github.com/a1k0n/a1gpt)
+- [Beyond Markdown &lpar;2018&rpar;](https://johnmacfarlane.net/beyond-markdown.html)
+- [Fake reviews are illegal and subject to big fines under new FTC rules](https://www.washingtonpost.com/technology/2023/06/30/fake-reviews-online-ftc/)
+- [How I changed my D-Link camera from cloud camera to a locally managed IP camera](https://github.com/bmork/defogger)
+- [Jef Raskin&#39;s writings: “Holes in the Histories” &lpar;1994&rpar;](https://digibarn.com/friends/jef-raskin/writings/holes.html)
+- [How to 1.5x your salary through negotiation](https://careercutler.substack.com/p/how-you-can-15x-your-salary-through)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

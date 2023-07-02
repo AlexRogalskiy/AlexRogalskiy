@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Fluhorse Unmasked: The Android Malware That&#39;s Changing the Game](https://www.thefinalhop.com/fluhorse-the-flutter-based-android-malware-thats-raising-eyebrows/)
-- [Is the observable universe consistent with the cosmological principle?](https://iopscience.iop.org/article/10.1088/1361-6382/acbefc/pdf)
-- [In practice, cool URLs can become inaccessible even if they don&#39;t change](https://utcc.utoronto.ca/~cks/space/blog/web/CoolUrlsGoInaccessible)
-- [What’s Your Font Type?](https://www.washingtonpost.com/technology/interactive/2023/best-font-you-test-types-styles/)
-- [Searx.be was shut down by hosting provider](https://searx.be)
-- [Social Media and “Parasocial Media”](https://drewdevault.com/2023/06/30/Social-and-parasocial-media.html)
-- [Saturn’s rings steal the show in new image from Webb telescope](https://arstechnica.com/space/2023/06/saturns-rings-steal-the-show-in-new-image-from-webb-telescope/)
-- [Implications of no-free-lunch theorems](https://www.santafe.edu/news-center/news/research-news-brief-implications-no-free-lunch-theorems)
-- [E-con Systems&#39; advanced multi-camera solutions for Qualcomm Robotics RB5 Dev Kit](https://evisionhub.blogspot.com/2023/06/e-con-systems-advanced-multi-camera-solutions-for-qualcomm-robotics-rb5-development-kit.html)
-- [The life aquatic](https://www.historytoday.com/archive/history-matters/life-aquatic)
+- [Language Is a Poor Heuristic for Intelligence](https://karawynn.substack.com/p/language-is-a-poor-heuristic-for)
+- [Salary Negotiation: Make More Money, Be More Valued](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
+- [Gizmodo and Kotaku Staff Furious After Owner Announces Move to AI Content](https://futurism.com/gizmodo-kotaku-staff-furious-ai-content)
+- [The Deli Was Allegedly a Fraud &lpar;2022&rpar;](https://www.bloomberg.com/opinion/articles/2022-09-28/the-deli-was-allegedly-a-fraud)
+- [Reddit subreddits censoring comments about Steve Huffman](https://news.ycombinator.com/item?id=36557558)
+- [How to Design Better Flags](https://www.economist.com/leaders/2023/06/29/how-to-design-better-flags)
+- [Looking for a Professional Company](https://news.ycombinator.com/item?id=36557491)
+- [The Reddit moderators who coordinate many celebrity AMAs will no longer do so](https://www.theverge.com/2023/7/1/23781306/reddit-moderators-iama-celebrity-ama)
+- [Show HN: Immersion language learning suite for Android](https://github.com/lrorpilla/jidoujisho)
+- [The Last of the Flying Wallendas](https://www.slow-journalism.com/delayed-gratification-magazine/the-last-of-the-flying-wallendas?ref=thebrowser.com)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

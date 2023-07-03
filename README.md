@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Language Is a Poor Heuristic for Intelligence](https://karawynn.substack.com/p/language-is-a-poor-heuristic-for)
-- [Salary Negotiation: Make More Money, Be More Valued](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
-- [Gizmodo and Kotaku Staff Furious After Owner Announces Move to AI Content](https://futurism.com/gizmodo-kotaku-staff-furious-ai-content)
-- [The Deli Was Allegedly a Fraud &lpar;2022&rpar;](https://www.bloomberg.com/opinion/articles/2022-09-28/the-deli-was-allegedly-a-fraud)
-- [Reddit subreddits censoring comments about Steve Huffman](https://news.ycombinator.com/item?id=36557558)
-- [How to Design Better Flags](https://www.economist.com/leaders/2023/06/29/how-to-design-better-flags)
-- [Looking for a Professional Company](https://news.ycombinator.com/item?id=36557491)
-- [The Reddit moderators who coordinate many celebrity AMAs will no longer do so](https://www.theverge.com/2023/7/1/23781306/reddit-moderators-iama-celebrity-ama)
-- [Show HN: Immersion language learning suite for Android](https://github.com/lrorpilla/jidoujisho)
-- [The Last of the Flying Wallendas](https://www.slow-journalism.com/delayed-gratification-magazine/the-last-of-the-flying-wallendas?ref=thebrowser.com)
+- [CU Hiking Club Celebrates 100 Years](https://www.colorado.edu/alumni/heritage-center/cabinet-curiosities/cuhikingclub)
+- [ChatGPT for the Anxious and Overwhelmed](https://elezea.com/2023/06/chatgpt-for-the-anxious-and-overwhelmed/)
+- [Guidelines for the Organization of Fully Online Meetings](https://www.rfc-editor.org/rfc/rfc9400.html)
+- [Warren Buffett-Backed EV Maker BYD’s Sales Nearly Doubled in June](https://www.forbes.com/sites/russellflannery/2023/07/02/warren-buffett-backed-ev-maker-byds-sales-nearly-doubled-in-june/)
+- [Relational Database Migration with AWS Database Migration Service](https://www.canva.dev/blog/engineering/dms-aws-rds-migration/)
+- [WasmEdge 0.13.0: Unified CLI, ARM Support and Migrating Extensions to Plugins](https://github.com/WasmEdge/WasmEdge/releases/tag/0.13.0)
+- [Brian Cox explains why time travels in one direction – BBC [video]](https://www.youtube.com/watch?v=uQSoaiubuA0)
+- [Active Knowledge](https://surfingcomplexity.blog/2023/06/26/active-knowledge/)
+- [Mike Benz take on Twitter rate limit policy from the lens of censorship industry](https://twitter.com/MikeBenzCyber/status/1675254646942896128)
+- [Ask HN: What new programming language&lpar;s&rpar; are you most excited about?](https://news.ycombinator.com/item?id=36567939)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

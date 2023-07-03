@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war at a glance: what we know on day 494 of the invasion](https://www.theguardian.com/world/2023/jul/02/russia-ukraine-war-at-a-glance-what-we-know-on-day-494-of-the-invasion)
-- [Minimum hourly wage in swanky West Hollywood is the highest in the US](https://www.theguardian.com/us-news/2023/jul/02/minimum-hourly-wage-west-hollywood-highest-in-us)
-- [UK airports say they can reach net zero and still expand. Is it just pie in the sky?](https://www.theguardian.com/business/2023/jul/02/uk-airports-say-they-can-reach-net-zero-and-still-expand-is-it-just-pie-in-the-sky)
-- [Stanley Tucci says straight actors should be free to play gay roles](https://www.theguardian.com/film/2023/jul/02/stanley-tucci-says-straight-actors-should-be-free-to-play-gay-roles)
-- [Online roulette: the popular chat sites that are drawing in children and horrifying parents](https://www.theguardian.com/australia-news/2023/jul/02/online-roulette-children-cybersafety-omegle-roblox-video-chat-popular-websites)
-- [Thank you for the rays: five ways to wear sundresses – in pictures](https://www.theguardian.com/fashion/gallery/2023/jul/01/thank-you-for-the-rays-five-ways-to-wear-sundresses-in-pictures)
-- [Twitter applies reading limit after users report issues with platform](https://www.theguardian.com/technology/2023/jul/01/twitter-applies-reading-limit-after-users-report-issues-with-platform)
-- [Beth Mooney guides Australia Women to dramatic T20 win against England](https://www.theguardian.com/sport/2023/jul/01/beth-mooney-guides-australia-to-dramatic-t20-win-against-england-womens-ashes)
-- [Champion review – Candice Carty-Williams’s confident rap drama is full of certified bangers](https://www.theguardian.com/tv-and-radio/2023/jul/01/champion-review-candice-carty-williams-confident-rap-drama-is-full-of-certified-bangers)
-- [United canceled flights for thousands of passengers while the CEO took a private plane](https://www.theguardian.com/business/2023/jul/01/united-airlines-canceled-flights-ceo-private-plane)
+- [Twitter faces lawsuit over alleged non-payment for office services in four countries](https://www.theguardian.com/technology/2023/jul/03/twitter-faces-lawsuit-over-alleged-non-payment-for-office-services-in-four-countries)
+- [Tuvalu – how do you save a disappearing country? | podcast](https://www.theguardian.com/news/audio/2023/jul/03/tuvalu-how-do-you-save-a-disappearing-island-podcast)
+- [Ukrainian writer Victoria Amelina dies after being wounded in Kramatorsk strike](https://www.theguardian.com/world/2023/jul/03/ukrainian-writer-victoria-amelina-dies-after-being-wounded-in-kramatorsk-strike)
+- [Agency behind ‘Love the Philippines’ tourism video sorry for using shots of other countries](https://www.theguardian.com/world/2023/jul/03/agency-behind-love-the-philippines-tourism-video-sorry-for-using-shots-of-other-countries)
+- [Russia-Ukraine war at a glance: what we know on day 495 of the invasion](https://www.theguardian.com/world/2023/jul/03/russia-ukraine-war-at-a-glance-what-we-know-on-day-495-of-the-invasion)
+- [Seven in 10 people believe charges for NHS care are on the way](https://www.theguardian.com/society/2023/jul/02/seven-in-10-people-believe-charges-for-nhs-care-are-on-the-way)
+- [MPs launch inquiry into challenges small firms face when seeking finance](https://www.theguardian.com/business/2023/jul/03/mps-launch-inquiry-into-challenges-small-firms-face-when-seeking-finance)
+- [Jon Snow: A Witness to History review – a fascinating look at an extraordinary life](https://www.theguardian.com/tv-and-radio/2023/jul/02/jon-snow-a-witness-to-history-review-a-fascinating-look-at-an-extraordinary-life)
+- [Nick Kyrgios out of Wimbledon after reporting wrist injury](https://www.theguardian.com/australia-news/2023/jul/03/nick-kyrgios-wimbledon-tennis-withdraws-out-wrist-injury)
+- [Labour pledges bonus for new teachers but no commitment to 6.5% pay rise](https://www.theguardian.com/politics/2023/jul/02/labour-pledges-bonus-for-new-teachers-but-no-commitment-to-65-pay-rise)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

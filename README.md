@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [China Has $3T of ‘Hidden’ Currency Reserves, Setser Says](https://www.bloomberg.com/news/articles/2023-06-30/china-has-3-trillion-of-hidden-currency-reserves-setser-says)
-- [Intro to Cryptography [pdf]](https://www.cs.umd.edu/~waa/414-F11/IntroToCrypto.pdf)
-- [Using WebAssembly to turn Rust crates into fast TypeScript libraries](https://rybicki.io/blog/2023/06/27/rust-crate-into-typescript-library.html)
-- [git-landmine – create local malicious Git repo](https://github.com/jwilk/git-landmine)
-- [C++ GPT-2 inference engine](https://github.com/a1k0n/a1gpt)
-- [Beyond Markdown &lpar;2018&rpar;](https://johnmacfarlane.net/beyond-markdown.html)
-- [Fake reviews are illegal and subject to big fines under new FTC rules](https://www.washingtonpost.com/technology/2023/06/30/fake-reviews-online-ftc/)
-- [How I changed my D-Link camera from cloud camera to a locally managed IP camera](https://github.com/bmork/defogger)
-- [Jef Raskin&#39;s writings: “Holes in the Histories” &lpar;1994&rpar;](https://digibarn.com/friends/jef-raskin/writings/holes.html)
-- [How to 1.5x your salary through negotiation](https://careercutler.substack.com/p/how-you-can-15x-your-salary-through)
+- [Tesla on track to smash targets after producing almost a million EVs in 6 months](https://thedriven.io/2023/07/03/tesla-on-track-to-smash-targets-after-producing-almost-a-million-evs-in-first-6-months/)
+- [Show HN: Prototype for ETH Signing for endorsing Wikipedia updates](https://www.loom.com/share/42e8a049faa64dcd9e4b8753a0bffb9c)
+- [Lumia WOA Project – Windows 10 or Windows 11 Desktop OS for Lumia 950/XL](https://woa-project.github.io/LumiaWOA/)
+- [The Xerox Smalltalk-80 GUI Was Weird](https://collindonnell.com/the-xerox-smalltalk-80-gui-was-weird)
+- [AI and the Automation of Work](https://www.ben-evans.com/benedictevans/2023/7/2/working-with-ai)
+- [AMD’s EPYC 7J13: Zen 3 Customized](https://chipsandcheese.com/2023/06/27/amds-epyc-7j13-zen-3-customized/)
+- [WebAuthn Is Great and It Sucks &lpar;2020&rpar;](https://sec.okta.com/articles/2020/04/webauthn-great-and-it-sucks/)
+- [Show HN: Project S.A.T.U.R.D.A.Y – open-source, self hosted, J.A.R.V.I.S](https://github.com/GRVYDEV/S.A.T.U.R.D.A.Y)
+- [Forgotten tragedy of Italian war detainees &lpar;2020&rpar;](https://www3.nhk.or.jp/nhkworld/en/news/backstories/816/)
+- [Commuters prefer origin to destination transfers](https://pedestrianobservations.com/2023/06/30/why-commuters-prefer-origin-to-destination-transfers/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

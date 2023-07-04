@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Twitter faces lawsuit over alleged non-payment for office services in four countries](https://www.theguardian.com/technology/2023/jul/03/twitter-faces-lawsuit-over-alleged-non-payment-for-office-services-in-four-countries)
-- [Tuvalu – how do you save a disappearing country? | podcast](https://www.theguardian.com/news/audio/2023/jul/03/tuvalu-how-do-you-save-a-disappearing-island-podcast)
-- [Ukrainian writer Victoria Amelina dies after being wounded in Kramatorsk strike](https://www.theguardian.com/world/2023/jul/03/ukrainian-writer-victoria-amelina-dies-after-being-wounded-in-kramatorsk-strike)
-- [Agency behind ‘Love the Philippines’ tourism video sorry for using shots of other countries](https://www.theguardian.com/world/2023/jul/03/agency-behind-love-the-philippines-tourism-video-sorry-for-using-shots-of-other-countries)
-- [Russia-Ukraine war at a glance: what we know on day 495 of the invasion](https://www.theguardian.com/world/2023/jul/03/russia-ukraine-war-at-a-glance-what-we-know-on-day-495-of-the-invasion)
-- [Seven in 10 people believe charges for NHS care are on the way](https://www.theguardian.com/society/2023/jul/02/seven-in-10-people-believe-charges-for-nhs-care-are-on-the-way)
-- [MPs launch inquiry into challenges small firms face when seeking finance](https://www.theguardian.com/business/2023/jul/03/mps-launch-inquiry-into-challenges-small-firms-face-when-seeking-finance)
-- [Jon Snow: A Witness to History review – a fascinating look at an extraordinary life](https://www.theguardian.com/tv-and-radio/2023/jul/02/jon-snow-a-witness-to-history-review-a-fascinating-look-at-an-extraordinary-life)
-- [Nick Kyrgios out of Wimbledon after reporting wrist injury](https://www.theguardian.com/australia-news/2023/jul/03/nick-kyrgios-wimbledon-tennis-withdraws-out-wrist-injury)
-- [Labour pledges bonus for new teachers but no commitment to 6.5% pay rise](https://www.theguardian.com/politics/2023/jul/02/labour-pledges-bonus-for-new-teachers-but-no-commitment-to-65-pay-rise)
+- [Four killed and four injured in Philadelphia shooting – report](https://www.theguardian.com/us-news/2023/jul/03/philadelphia-shooting)
+- [The killing of Nahel – and a week of grief and fury in France – podcast](https://www.theguardian.com/news/audio/2023/jul/04/killing-of-nahel-and-week-of-grief-fury-france-podcast)
+- [Twitter’s TweetDeck will only be available to verified users, company says](https://www.theguardian.com/technology/2023/jul/03/tweetdeck-twitter-verified-elon-musk)
+- [Reports of gunshots as human remains found in two burnt-out cars in Sydney overnight](https://www.theguardian.com/australia-news/2023/jul/04/human-remains-found-in-two-burnt-out-cars-in-separate-parts-of-sydney-overnight)
+- [Anthony Albanese backs ‘always winning’ Australian cricket team after Ashes controversy](https://www.theguardian.com/sport/2023/jul/04/australia-pm-anthony-albanese-australian-cricket-team-ashes-2023-controversy)
+- [‘We depend on our beautiful reefs’: Fukushima water release plan sparks concern across Pacific](https://www.theguardian.com/world/2023/jul/04/we-depend-on-our-beautiful-reefs-fukushima-water-release-plan-sparks-concern-across-pacific)
+- [US ambassador to Russia says jailed Wall Street Journal reporter Evan Gershkovich in ‘good health’](https://www.theguardian.com/world/2023/jul/04/us-ambassador-to-russia-says-jailed-wall-street-journal-reporter-evan-gershkovich-in-good-health)
+- [‘More than half of UK broadband customers’ hit by connection problems](https://www.theguardian.com/business/2023/jul/04/more-than-half-of-uk-broadband-customers-hit-by-connection-problems)
+- [UK universities draw up guiding principles on generative AI](https://www.theguardian.com/technology/2023/jul/04/uk-universities-draw-up-guiding-principles-on-generative-ai)
+- [Women’s World Cup 2023 team guides part one: New Zealand](https://www.theguardian.com/football/2023/jul/04/womens-world-cup-2023-team-guides-part-one-new-zealand)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

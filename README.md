@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Tesla on track to smash targets after producing almost a million EVs in 6 months](https://thedriven.io/2023/07/03/tesla-on-track-to-smash-targets-after-producing-almost-a-million-evs-in-first-6-months/)
-- [Show HN: Prototype for ETH Signing for endorsing Wikipedia updates](https://www.loom.com/share/42e8a049faa64dcd9e4b8753a0bffb9c)
-- [Lumia WOA Project – Windows 10 or Windows 11 Desktop OS for Lumia 950/XL](https://woa-project.github.io/LumiaWOA/)
-- [The Xerox Smalltalk-80 GUI Was Weird](https://collindonnell.com/the-xerox-smalltalk-80-gui-was-weird)
-- [AI and the Automation of Work](https://www.ben-evans.com/benedictevans/2023/7/2/working-with-ai)
-- [AMD’s EPYC 7J13: Zen 3 Customized](https://chipsandcheese.com/2023/06/27/amds-epyc-7j13-zen-3-customized/)
-- [WebAuthn Is Great and It Sucks &lpar;2020&rpar;](https://sec.okta.com/articles/2020/04/webauthn-great-and-it-sucks/)
-- [Show HN: Project S.A.T.U.R.D.A.Y – open-source, self hosted, J.A.R.V.I.S](https://github.com/GRVYDEV/S.A.T.U.R.D.A.Y)
-- [Forgotten tragedy of Italian war detainees &lpar;2020&rpar;](https://www3.nhk.or.jp/nhkworld/en/news/backstories/816/)
-- [Commuters prefer origin to destination transfers](https://pedestrianobservations.com/2023/06/30/why-commuters-prefer-origin-to-destination-transfers/)
+- [Learning needs to be effortful to be effective](https://giansegato.com/essays/edutainment-is-not-learning)
+- [Leaking Bitwarden&#39;s Vault with a Nginx vulnerability](https://labs.hakaioffsec.com/nginx-alias-traversal/)
+- [Threads, an Instagram app](https://apps.apple.com/us/app/threads-an-instagram-app/id6446901002)
+- [Booting RISC-V Linux on Star64 JH7110 SBC](https://lupyuen.codeberg.page/articles/linux.html)
+- [Velt &lpar;YC W22&rpar; Is Hiring Founding Frontend Engineer in US](https://www.ycombinator.com/companies/velt/jobs/iC33Kfh-founding-frontend-engineer-web-us-only)
+- [Can Dell’s 6K monitor beat their 8K monitor?](https://michael.stapelberg.ch/posts/2023-07-03-dell-u3224kba-32-inch-6k-monitor/)
+- [Show HN: Using C++23 &lt;stacktrace&gt; to get proper crash logs in C++ programs](https://github.com/TylerGlaiel/Crashlogs)
+- [A Dive into the Math Behind Bitcoin Schnorr Signatures](https://conduition.io/cryptography/schnorr/)
+- [MartyPC, cycle accurate IBM PC/XT emulator](https://www.vogons.org/viewtopic.php?t=94972)
+- [Joins 13 Ways](https://justinjaffray.com/joins-13-ways/?a=b)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

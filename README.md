@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [CU Hiking Club Celebrates 100 Years](https://www.colorado.edu/alumni/heritage-center/cabinet-curiosities/cuhikingclub)
-- [ChatGPT for the Anxious and Overwhelmed](https://elezea.com/2023/06/chatgpt-for-the-anxious-and-overwhelmed/)
-- [Guidelines for the Organization of Fully Online Meetings](https://www.rfc-editor.org/rfc/rfc9400.html)
-- [Warren Buffett-Backed EV Maker BYD’s Sales Nearly Doubled in June](https://www.forbes.com/sites/russellflannery/2023/07/02/warren-buffett-backed-ev-maker-byds-sales-nearly-doubled-in-june/)
-- [Relational Database Migration with AWS Database Migration Service](https://www.canva.dev/blog/engineering/dms-aws-rds-migration/)
-- [WasmEdge 0.13.0: Unified CLI, ARM Support and Migrating Extensions to Plugins](https://github.com/WasmEdge/WasmEdge/releases/tag/0.13.0)
-- [Brian Cox explains why time travels in one direction – BBC [video]](https://www.youtube.com/watch?v=uQSoaiubuA0)
-- [Active Knowledge](https://surfingcomplexity.blog/2023/06/26/active-knowledge/)
-- [Mike Benz take on Twitter rate limit policy from the lens of censorship industry](https://twitter.com/MikeBenzCyber/status/1675254646942896128)
-- [Ask HN: What new programming language&lpar;s&rpar; are you most excited about?](https://news.ycombinator.com/item?id=36567939)
+- [Hacking the Commodore-128 to capture almost real time video](https://hackaday.com/2023/07/03/hacking-the-commodore-128-to-capture-almost-real-time-video/)
+- [ePub Reader Made with Electron.js](https://github.com/mignaway/EpubReader)
+- [Level Up Your Productivity with MetaGPT – Say Goodbye to Mundane Tasks](https://github.com/geekan/MetaGPT)
+- [Two-Phase Commit Three Ways](https://justinjaffray.com/two-phase-commit-three-ways/)
+- [RedPajama-Incite-7B-Instruct Outperforms LLaMA on MMLU](https://twitter.com/vipulved/status/1676014844171153409)
+- [Vector Search with a Graph Index](https://zilliz.com/blog/hierarchical-navigable-small-worlds-HNSW)
+- [Threads.net](https://www.threads.net/)
+- [The zero-knowledge attack of the year might just have happened](https://www.zksecurity.xyz/blog/posts/nova-attack/)
+- [Crew Resource Management in Aviation](https://en.wikipedia.org/wiki/Crew_resource_management)
+- [How Lee Valley built a cult-like following](https://www.theglobeandmail.com/business/rob-magazine/article-lee-valley-tools-business-success/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

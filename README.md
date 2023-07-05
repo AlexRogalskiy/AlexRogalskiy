@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Four killed and four injured in Philadelphia shooting – report](https://www.theguardian.com/us-news/2023/jul/03/philadelphia-shooting)
-- [The killing of Nahel – and a week of grief and fury in France – podcast](https://www.theguardian.com/news/audio/2023/jul/04/killing-of-nahel-and-week-of-grief-fury-france-podcast)
-- [Twitter’s TweetDeck will only be available to verified users, company says](https://www.theguardian.com/technology/2023/jul/03/tweetdeck-twitter-verified-elon-musk)
-- [Reports of gunshots as human remains found in two burnt-out cars in Sydney overnight](https://www.theguardian.com/australia-news/2023/jul/04/human-remains-found-in-two-burnt-out-cars-in-separate-parts-of-sydney-overnight)
-- [Anthony Albanese backs ‘always winning’ Australian cricket team after Ashes controversy](https://www.theguardian.com/sport/2023/jul/04/australia-pm-anthony-albanese-australian-cricket-team-ashes-2023-controversy)
-- [‘We depend on our beautiful reefs’: Fukushima water release plan sparks concern across Pacific](https://www.theguardian.com/world/2023/jul/04/we-depend-on-our-beautiful-reefs-fukushima-water-release-plan-sparks-concern-across-pacific)
-- [US ambassador to Russia says jailed Wall Street Journal reporter Evan Gershkovich in ‘good health’](https://www.theguardian.com/world/2023/jul/04/us-ambassador-to-russia-says-jailed-wall-street-journal-reporter-evan-gershkovich-in-good-health)
-- [‘More than half of UK broadband customers’ hit by connection problems](https://www.theguardian.com/business/2023/jul/04/more-than-half-of-uk-broadband-customers-hit-by-connection-problems)
-- [UK universities draw up guiding principles on generative AI](https://www.theguardian.com/technology/2023/jul/04/uk-universities-draw-up-guiding-principles-on-generative-ai)
-- [Women’s World Cup 2023 team guides part one: New Zealand](https://www.theguardian.com/football/2023/jul/04/womens-world-cup-2023-team-guides-part-one-new-zealand)
+- [Why are so many children refusing to go to school? | Podcast](https://www.theguardian.com/news/audio/2023/jul/05/why-are-so-many-children-refusing-to-go-to-school-podcast)
+- [Russia may be open to prisoner swap for jailed US reporter Evan Gershkovich](https://www.theguardian.com/world/2023/jul/05/russia-wsj-reporter-evan-gershkovich-prison-swap)
+- [Russia has planted suspected explosives on Zaporizhzhia nuclear plant roofs, says Zelenskiy](https://www.theguardian.com/world/2023/jul/05/russia-has-planted-suspected-explosives-on-zaporizhzhia-nuclear-plant-roofs-says-zelenskiy)
+- [Israeli forces begin withdrawal from Jenin as rockets fired from Gaza](https://www.theguardian.com/world/2023/jul/05/israel-jenin-forces-withdraw-gaza)
+- [France riots: prosecutors investigate death of man hit by projectile in Marseille](https://www.theguardian.com/world/2023/jul/05/france-riots-prosecutors-investigate-death-of-man-hit-by-projectile-in-marseille)
+- [Russia-Ukraine war at a glance: what we know on day 497 of the invasion](https://www.theguardian.com/world/2023/jul/05/russia-ukraine-war-at-a-glance-what-we-know-on-day-497-of-the-invasion)
+- [MPs criticise ‘staggering’ failures at UK Health Security Agency](https://www.theguardian.com/politics/2023/jul/05/mps-criticise-staggering-failures-uk-health-security-agency)
+- [Women’s World Cup 2023 team guides part three: Philippines](https://www.theguardian.com/football/2023/jul/05/womens-world-cup-2023-team-guides-part-three-philippines)
+- [Penelope Wilton and Luke Evans to star in Queen Mother comedy in the West End](https://www.theguardian.com/stage/2023/jul/05/penelope-wilton-luke-evans-queen-mother-comedy-west-end-michael-grandage-backstairs-billy)
+- [Three charged with terrorism offences in relation with NI police officer’s shooting](https://www.theguardian.com/uk-news/2023/jul/04/three-charged-with-terrorism-offences-in-relation-with-ni-police-officers-shooting)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

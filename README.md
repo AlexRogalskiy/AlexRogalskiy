@@ -355,6 +355,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Microsoft set to face EU antitrust probe over Teams bundle: Report](https://www.computerworld.com/article/3701394/microsoft-set-to-face-eu-antitrust-probe-over-teams-bundle-report.html#tk.rss_all)
+- [How to handle Windows 10 and 11 updates](https://www.computerworld.com/article/3014600/how-to-handle-windows-10-and-11-updates.html#tk.rss_all)
+- [China bans export of metals needed for semiconductors amid US-China chip war](https://www.computerworld.com/article/3701457/china-bans-export-of-metals-needed-for-semiconductors-amid-us-china-chip-war.html#tk.rss_all)
 - [How we know that Apple’s Vision Pro means business](https://www.computerworld.com/article/3701390/how-we-know-that-apples-vision-pro-means-business.html#tk.rss_all)
 - [EU and Japan announce Digital Partnership to strengthen chip supply chain](https://www.computerworld.com/article/3701456/eu-and-japan-announce-digital-partnership-to-strengthen-chip-supply-chain.html#tk.rss_all)
 - [Businesses to boost Windows 11 adoption in ‘24, but Windows 10 still dominates](https://www.computerworld.com/article/3701448/businesses-to-boost-windows-11-adoption-in-24-but-windows-10-still-dominates.html#tk.rss_all)
@@ -362,9 +365,6 @@
 - [Microsoft pushes for government regulation of AI. Should we trust it?](https://www.computerworld.com/article/3700969/microsoft-pushes-for-government-regulation-of-ai-should-we-trust-it.html#tk.rss_all)
 - [Businesses and tech firms criticize proposed EU AI Act](https://www.computerworld.com/article/3701510/businesses-and-tech-firms-criticize-proposed-eu-ai-act.html#tk.rss_all)
 - [For Apple users, tips on improving Wi-Fi performance](https://www.computerworld.com/article/3701451/for-apple-users-tips-on-improving-wi-fi-performance.html#tk.rss_all)
-- [The secret to a smarter Android lock screen](https://www.computerworld.com/article/3700876/android-lock-screen.html#tk.rss_all)
-- [ChatGPT maker OpenAI faces new class action lawsuit over data privacy](https://www.computerworld.com/article/3701449/chatgpt-maker-openai-faces-new-class-action-lawsuit-over-data-privacy.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Hacking the Commodore-128 to capture almost real time video](https://hackaday.com/2023/07/03/hacking-the-commodore-128-to-capture-almost-real-time-video/)
-- [ePub Reader Made with Electron.js](https://github.com/mignaway/EpubReader)
-- [Level Up Your Productivity with MetaGPT – Say Goodbye to Mundane Tasks](https://github.com/geekan/MetaGPT)
-- [Two-Phase Commit Three Ways](https://justinjaffray.com/two-phase-commit-three-ways/)
-- [RedPajama-Incite-7B-Instruct Outperforms LLaMA on MMLU](https://twitter.com/vipulved/status/1676014844171153409)
-- [Vector Search with a Graph Index](https://zilliz.com/blog/hierarchical-navigable-small-worlds-HNSW)
-- [Threads.net](https://www.threads.net/)
-- [The zero-knowledge attack of the year might just have happened](https://www.zksecurity.xyz/blog/posts/nova-attack/)
-- [Crew Resource Management in Aviation](https://en.wikipedia.org/wiki/Crew_resource_management)
-- [How Lee Valley built a cult-like following](https://www.theglobeandmail.com/business/rob-magazine/article-lee-valley-tools-business-success/)
+- [Lobotomizing Gnome](https://eklitzke.org/lobotomizing-gnome)
+- [Fractal created 130 companies. Founders say VCS &#39;blacklist&#39; them](https://www.businessinsider.com/fractal-vertical-software-startup-venture-studio-ownership-founder-equity-grant-2023-6)
+- [Geopolymer](https://en.wikipedia.org/wiki/Geopolymer)
+- [Sprae: Microhydration for Document Tree](https://github.com/dy/sprae)
+- [Binding on Port 0](https://eklitzke.org/binding-on-port-zero)
+- [Kremlin open to prisoner swap involving detained US reporter Evan Gershkovich](https://english.elpais.com/international/2023-07-04/kremlin-open-to-talks-over-potential-prisoner-swap-involving-detained-us-reporter-evan-gershkovich.html)
+- [A Slack clone in 5 lines of bash](https://the-dam.org/docs/explanations/suc.html)
+- [While US celebrates its independence, Hawaiians still wait for theirs](https://www.sfgate.com/hawaii/article/us-july-4-hawaiians-want-independence-sovereignty-18183209.php)
+- [India aims to produce semiconductors at home within 18 months](https://www.ft.com/content/4b2dff77-045b-416f-83b1-da7893b1b2b3)
+- [Every minute for the past 10 years, there was some unknown probability P that](https://boards.4channel.org/sci/thread/15540494/every-minute-for-the-past-10-years-there-was-some)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Learning needs to be effortful to be effective](https://giansegato.com/essays/edutainment-is-not-learning)
-- [Leaking Bitwarden&#39;s Vault with a Nginx vulnerability](https://labs.hakaioffsec.com/nginx-alias-traversal/)
-- [Threads, an Instagram app](https://apps.apple.com/us/app/threads-an-instagram-app/id6446901002)
-- [Booting RISC-V Linux on Star64 JH7110 SBC](https://lupyuen.codeberg.page/articles/linux.html)
-- [Velt &lpar;YC W22&rpar; Is Hiring Founding Frontend Engineer in US](https://www.ycombinator.com/companies/velt/jobs/iC33Kfh-founding-frontend-engineer-web-us-only)
-- [Can Dell’s 6K monitor beat their 8K monitor?](https://michael.stapelberg.ch/posts/2023-07-03-dell-u3224kba-32-inch-6k-monitor/)
-- [Show HN: Using C++23 &lt;stacktrace&gt; to get proper crash logs in C++ programs](https://github.com/TylerGlaiel/Crashlogs)
-- [A Dive into the Math Behind Bitcoin Schnorr Signatures](https://conduition.io/cryptography/schnorr/)
-- [MartyPC, cycle accurate IBM PC/XT emulator](https://www.vogons.org/viewtopic.php?t=94972)
-- [Joins 13 Ways](https://justinjaffray.com/joins-13-ways/?a=b)
+- [Our Journey with Apache Arrow &lpar;Part 2&rpar;: Adaptive Schemas and Sorting](https://arrow.apache.org/blog/2023/06/26/our-journey-at-f5-with-apache-arrow-part-2/)
+- [Healing of acute ACL tear on MRI following non-surgical bracing protocol [pdf]](https://bjsm.bmj.com/content/bjsports/early/2023/06/13/bjsports-2023-106931.full.pdf?with-ds=yes)
+- [Flyte: Open-source orchestrator for building production-grade ML pipelines](https://python.langchain.com/docs/ecosystem/integrations/flyte)
+- [What if there was only the OS? &lpar;2022&rpar;](https://dusted.dk/pages/phlog/2022-11-13.txt)
+- [How Many People Have Ever Lived on Earth?](https://www.prb.org/articles/how-many-people-have-ever-lived-on-earth/)
+- [Bottles – Easily run Windows software on Linux](https://usebottles.com/)
+- [LXD is now under Canonical](https://linuxcontainers.org/lxd/)
+- [“How is your thesis going?” Students’ perspectives on mental health and stress](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0288103)
+- [Token revocation](https://www.biscuitsec.org/docs/guides/revocation/)
+- [Show HN: Iridescent crystal with raymarching and signed distance fields](https://varun.ca/ray-march-sdf/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

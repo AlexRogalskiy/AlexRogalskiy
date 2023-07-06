@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Our Journey with Apache Arrow &lpar;Part 2&rpar;: Adaptive Schemas and Sorting](https://arrow.apache.org/blog/2023/06/26/our-journey-at-f5-with-apache-arrow-part-2/)
-- [Healing of acute ACL tear on MRI following non-surgical bracing protocol [pdf]](https://bjsm.bmj.com/content/bjsports/early/2023/06/13/bjsports-2023-106931.full.pdf?with-ds=yes)
-- [Flyte: Open-source orchestrator for building production-grade ML pipelines](https://python.langchain.com/docs/ecosystem/integrations/flyte)
-- [What if there was only the OS? &lpar;2022&rpar;](https://dusted.dk/pages/phlog/2022-11-13.txt)
-- [How Many People Have Ever Lived on Earth?](https://www.prb.org/articles/how-many-people-have-ever-lived-on-earth/)
-- [Bottles – Easily run Windows software on Linux](https://usebottles.com/)
-- [LXD is now under Canonical](https://linuxcontainers.org/lxd/)
-- [“How is your thesis going?” Students’ perspectives on mental health and stress](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0288103)
-- [Token revocation](https://www.biscuitsec.org/docs/guides/revocation/)
-- [Show HN: Iridescent crystal with raymarching and signed distance fields](https://varun.ca/ray-march-sdf/)
+- [Wash trading gone wrong – how a $100M/day crypto exchange bankrupted itself](https://blog.everstrike.io/wash-trading-gone-wrong-how-a-crypto-exchange-accidentally-obliterated-itself/)
+- [Tell HN: Nearly all of Evernote’s remaining staff has been laid off](https://news.ycombinator.com/item?id=36609641)
+- [Threads has passed 2M sign ups in the first 2 hours](https://www.threads.net/t/CuVjWxcJ22Z)
+- [Ban on recording without consent is unconstitutional, US court rules](https://www.documentcloud.org/documents/23867036-appeals-court-ruling-in-project-veritas-v-schmidt)
+- [The ice machine that chills Chicago’s skyscrapers](https://wgntv.com/news/chicago-news/the-ice-machine-that-chills-chicagos-skyscrapers-inside-downtowns-district-cooling-systems/)
+- [Rejected GitHub profile achievements](https://github.com/Flet/rejected-github-profile-achievements)
+- [Starting design work in a spreadsheet](https://clearleft.com/thinking/starting-design-work-in-a-spreadsheet)
+- [The U.S. Copyright Office requires libraries to lie about fair use rights](https://scholarlykitchen.sspnet.org/2023/07/05/why-does-the-u-s-copyright-office-require-libraries-to-lie-to-users-about-their-fair-use-rights-they-wont-say/)
+- [Fast](https://patrickcollison.com/fast)
+- [Tell HN: People forget that you can stick any data at the end of a bash script](https://news.ycombinator.com/item?id=36605869)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

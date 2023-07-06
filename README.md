@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Lobotomizing Gnome](https://eklitzke.org/lobotomizing-gnome)
-- [Fractal created 130 companies. Founders say VCS &#39;blacklist&#39; them](https://www.businessinsider.com/fractal-vertical-software-startup-venture-studio-ownership-founder-equity-grant-2023-6)
-- [Geopolymer](https://en.wikipedia.org/wiki/Geopolymer)
-- [Sprae: Microhydration for Document Tree](https://github.com/dy/sprae)
-- [Binding on Port 0](https://eklitzke.org/binding-on-port-zero)
-- [Kremlin open to prisoner swap involving detained US reporter Evan Gershkovich](https://english.elpais.com/international/2023-07-04/kremlin-open-to-talks-over-potential-prisoner-swap-involving-detained-us-reporter-evan-gershkovich.html)
-- [A Slack clone in 5 lines of bash](https://the-dam.org/docs/explanations/suc.html)
-- [While US celebrates its independence, Hawaiians still wait for theirs](https://www.sfgate.com/hawaii/article/us-july-4-hawaiians-want-independence-sovereignty-18183209.php)
-- [India aims to produce semiconductors at home within 18 months](https://www.ft.com/content/4b2dff77-045b-416f-83b1-da7893b1b2b3)
-- [Every minute for the past 10 years, there was some unknown probability P that](https://boards.4channel.org/sci/thread/15540494/every-minute-for-the-past-10-years-there-was-some)
+- [Elon watching $44B go up in flames](https://www.threads.net/t/CuVhIUEL-PU)
+- [Systems, math and explosions &lpar;in no particular order&rpar;](https://pjonori.blog/posts/systems-math-explosions/)
+- [LongNet: Scaling Transformers to 1B Tokens](https://arxiv.org/abs/2307.02486)
+- [The worst example of curriculum dead wood?](http://educationandstatistics.blogspot.com/2011/11/worst-example-of-curriculum-dead-wood.html)
+- [French parliament approves camera and microphone remote activation](https://www.sudouest.fr/justice/justice-feu-vert-de-l-assemblee-a-l-activation-a-distance-des-telephones-mouchards-15827983.php)
+- [Noctis, the &#39;No Man&#39;s Sky&#39; Forerunner Whose Creator Retreated from the World](https://www.timeextension.com/features/the-making-of-noctis-the-no-mans-sky-forerunner-whose-creator-retreated-from-the-world)
+- [How to Order a Replacement Intel Processor Label](https://www.intel.com/content/www/us/en/support/articles/000059729/processors.html)
+- [The slow, sad death of Twitter](https://www.theneweuropean.co.uk/the-slow-sad-death-of-twitter/)
+- [WI governor gets creative with veto, increases school funding for 400 years](https://www.usatoday.com/story/news/education/2023/07/05/400-years-of-education-funding-for-wisconsin-schools/70385428007/)
+- [Poland wants American nuclear warheads for its new F-35 stealth fighters](https://militarywatchmagazine.com/article/poland-nukes-f35-sharing-pm)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

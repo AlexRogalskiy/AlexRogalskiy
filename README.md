@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Why are so many children refusing to go to school? | Podcast](https://www.theguardian.com/news/audio/2023/jul/05/why-are-so-many-children-refusing-to-go-to-school-podcast)
-- [Russia may be open to prisoner swap for jailed US reporter Evan Gershkovich](https://www.theguardian.com/world/2023/jul/05/russia-wsj-reporter-evan-gershkovich-prison-swap)
-- [Russia has planted suspected explosives on Zaporizhzhia nuclear plant roofs, says Zelenskiy](https://www.theguardian.com/world/2023/jul/05/russia-has-planted-suspected-explosives-on-zaporizhzhia-nuclear-plant-roofs-says-zelenskiy)
-- [Israeli forces begin withdrawal from Jenin as rockets fired from Gaza](https://www.theguardian.com/world/2023/jul/05/israel-jenin-forces-withdraw-gaza)
-- [France riots: prosecutors investigate death of man hit by projectile in Marseille](https://www.theguardian.com/world/2023/jul/05/france-riots-prosecutors-investigate-death-of-man-hit-by-projectile-in-marseille)
-- [Russia-Ukraine war at a glance: what we know on day 497 of the invasion](https://www.theguardian.com/world/2023/jul/05/russia-ukraine-war-at-a-glance-what-we-know-on-day-497-of-the-invasion)
-- [MPs criticise ‘staggering’ failures at UK Health Security Agency](https://www.theguardian.com/politics/2023/jul/05/mps-criticise-staggering-failures-uk-health-security-agency)
-- [Women’s World Cup 2023 team guides part three: Philippines](https://www.theguardian.com/football/2023/jul/05/womens-world-cup-2023-team-guides-part-three-philippines)
-- [Penelope Wilton and Luke Evans to star in Queen Mother comedy in the West End](https://www.theguardian.com/stage/2023/jul/05/penelope-wilton-luke-evans-queen-mother-comedy-west-end-michael-grandage-backstairs-billy)
-- [Three charged with terrorism offences in relation with NI police officer’s shooting](https://www.theguardian.com/uk-news/2023/jul/04/three-charged-with-terrorism-offences-in-relation-with-ni-police-officers-shooting)
+- [We tried Threads, Meta’s new Twitter rival. Here’s what happened](https://www.theguardian.com/technology/2023/jul/06/we-tried-threads-metas-new-twitter-rival-heres-what-happened)
+- [Can Biden solve his supreme court problem?](https://www.theguardian.com/news/audio/2023/jul/06/can-biden-solve-his-supreme-court-problem)
+- [Johannesburg gas leak: at least 16 dead on outskirts of South African city](https://www.theguardian.com/world/2023/jul/06/johannesburg-gas-leak-death-toll)
+- [Threads app: Instagram owner launches Twitter rival in 100 countries](https://www.theguardian.com/technology/2023/jul/06/meta-launches-twitter-rival-threads-in-100-countries)
+- [Ten jailed in India over torture and lynching of Muslim man](https://www.theguardian.com/world/2023/jul/06/jharkhand-lynching-tabrez-ansari-2019-case-india-ten-men-jailed-torture-muslim-man)
+- [Eight stuck upside down on US roller coaster for more than three hours](https://www.theguardian.com/us-news/2023/jul/05/wisconsin-roller-coaster-ride-festival-trapped)
+- [Biden ratchets up efforts to secure Sweden’s Nato membership ahead of key summit](https://www.theguardian.com/world/2023/jul/06/biden-ratchets-up-efforts-to-secure-swedens-nato-membership-ahead-of-key-summit)
+- [French navy investigates claims that off-duty marines beat up suspected rioters](https://www.theguardian.com/world/2023/jul/06/french-navy-investigates-claims-that-off-duty-marines-beat-up-suspected-rioters)
+- [‘I needed to see’: victims’ families tour site of Parkland massacre five years on](https://www.theguardian.com/us-news/2023/jul/05/parkland-marjory-stoneman-douglas-school-shooting-victims-families)
+- [Japanese knotweed and other invasive species cost UK £4bn a year, research suggests](https://www.theguardian.com/environment/2023/jul/06/japanese-knotweed-invasive-non-native-species-costing-uk-4bn-a-year-ash-dieback)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

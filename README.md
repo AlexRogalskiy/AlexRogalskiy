@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [We tried Threads, Meta’s new Twitter rival. Here’s what happened](https://www.theguardian.com/technology/2023/jul/06/we-tried-threads-metas-new-twitter-rival-heres-what-happened)
-- [Can Biden solve his supreme court problem?](https://www.theguardian.com/news/audio/2023/jul/06/can-biden-solve-his-supreme-court-problem)
-- [Johannesburg gas leak: at least 16 dead on outskirts of South African city](https://www.theguardian.com/world/2023/jul/06/johannesburg-gas-leak-death-toll)
-- [Threads app: Instagram owner launches Twitter rival in 100 countries](https://www.theguardian.com/technology/2023/jul/06/meta-launches-twitter-rival-threads-in-100-countries)
-- [Ten jailed in India over torture and lynching of Muslim man](https://www.theguardian.com/world/2023/jul/06/jharkhand-lynching-tabrez-ansari-2019-case-india-ten-men-jailed-torture-muslim-man)
-- [Eight stuck upside down on US roller coaster for more than three hours](https://www.theguardian.com/us-news/2023/jul/05/wisconsin-roller-coaster-ride-festival-trapped)
-- [Biden ratchets up efforts to secure Sweden’s Nato membership ahead of key summit](https://www.theguardian.com/world/2023/jul/06/biden-ratchets-up-efforts-to-secure-swedens-nato-membership-ahead-of-key-summit)
-- [French navy investigates claims that off-duty marines beat up suspected rioters](https://www.theguardian.com/world/2023/jul/06/french-navy-investigates-claims-that-off-duty-marines-beat-up-suspected-rioters)
-- [‘I needed to see’: victims’ families tour site of Parkland massacre five years on](https://www.theguardian.com/us-news/2023/jul/05/parkland-marjory-stoneman-douglas-school-shooting-victims-families)
-- [Japanese knotweed and other invasive species cost UK £4bn a year, research suggests](https://www.theguardian.com/environment/2023/jul/06/japanese-knotweed-invasive-non-native-species-costing-uk-4bn-a-year-ash-dieback)
+- [What the raid on Jenin says about the future of Israel and Palestine - podcast](https://www.theguardian.com/news/audio/2023/jul/07/raid-jenin-future-israel-palestine-west-bank)
+- [Kanye West sued by teacher fired from his California private school](https://www.theguardian.com/us-news/2023/jul/06/kanye-west-yeezy-california-private-school)
+- [Biden didn’t authorise secret US-Russia talks over Ukraine war, White House says](https://www.theguardian.com/us-news/2023/jul/07/russia-us-talks-ukraine-war-biden)
+- [Cook Islands PM ‘proceeds with caution’ on deep-sea mining as critics warn over risks](https://www.theguardian.com/world/2023/jul/07/cook-islands-deep-sea-mining)
+- [Cost of Euston HS2 terminus could race past £4.8bn estimate, MPs say](https://www.theguardian.com/uk-news/2023/jul/07/cost-of-euston-hs2-terminus-could-race-past-4-point-8bn-estimate-mps-say)
+- [Women’s World Cup 2023 team guides part seven: Nigeria](https://www.theguardian.com/football/2023/jul/07/womens-world-cup-2023-team-guides-part-seven-nigeria)
+- [The Wizard of Oz review – over the rainbow and into an arcade game](https://www.theguardian.com/stage/2023/jul/06/the-wizard-of-oz-review-london-palladium)
+- [Andy Murray battles back to lead Stefanos Tsitsipas before time runs out](https://www.theguardian.com/sport/2023/jul/06/andy-murray-battles-back-to-take-lead-over-stefanos-tsitsipas)
+- [‘Please come’: Taylor Swift fans in south-east Asia hope for tour date](https://www.theguardian.com/music/2023/jul/07/taylor-swift-asia-tour-eras)
+- [Brazil: Amazon deforestation drops 34% in first six months under Lula](https://www.theguardian.com/world/2023/jul/06/brazil-amazon-deforestation-lula)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Wash trading gone wrong – how a $100M/day crypto exchange bankrupted itself](https://blog.everstrike.io/wash-trading-gone-wrong-how-a-crypto-exchange-accidentally-obliterated-itself/)
-- [Tell HN: Nearly all of Evernote’s remaining staff has been laid off](https://news.ycombinator.com/item?id=36609641)
-- [Threads has passed 2M sign ups in the first 2 hours](https://www.threads.net/t/CuVjWxcJ22Z)
-- [Ban on recording without consent is unconstitutional, US court rules](https://www.documentcloud.org/documents/23867036-appeals-court-ruling-in-project-veritas-v-schmidt)
-- [The ice machine that chills Chicago’s skyscrapers](https://wgntv.com/news/chicago-news/the-ice-machine-that-chills-chicagos-skyscrapers-inside-downtowns-district-cooling-systems/)
-- [Rejected GitHub profile achievements](https://github.com/Flet/rejected-github-profile-achievements)
-- [Starting design work in a spreadsheet](https://clearleft.com/thinking/starting-design-work-in-a-spreadsheet)
-- [The U.S. Copyright Office requires libraries to lie about fair use rights](https://scholarlykitchen.sspnet.org/2023/07/05/why-does-the-u-s-copyright-office-require-libraries-to-lie-to-users-about-their-fair-use-rights-they-wont-say/)
-- [Fast](https://patrickcollison.com/fast)
-- [Tell HN: People forget that you can stick any data at the end of a bash script](https://news.ycombinator.com/item?id=36605869)
+- [Understanding Cybersecurity Frameworks: NIST, ISO, and More](https://www.thefinalhop.com/understanding-cybersecurity-frameworks-nist-iso-and-more/)
+- [Waterwave Could Quench AIs&#39; Thirst for GPU Memory](https://spectrum.ieee.org/ai-training)
+- [All the red flags in the Threads privacy policy](https://qz.com/threads-meta-delayed-launch-eu-privacy-policy-concerns-1850609340)
+- [Why Nvidia Keeps Winning](https://www.chinatalk.media/p/why-nvidia-keeps-winning-the-rise)
+- [Air France denied my delay compensation, so I challenged them and won](https://airdisputes.com/air-france-denied-my-delay-compensation-so-i-challenged-them-and-won/)
+- [Sierra Creative Interpreter – Scripts](https://www.benshoof.org/blog/sci-scripts)
+- [Show HN: Banger.show – Create colorful visuals for your songs in seconds](https://banger.show)
+- [AI agents that “self-reflect” perform better in changing environments](https://hai.stanford.edu/news/ai-agents-self-reflect-perform-better-changing-environments)
+- [June’s record-smashing temperatures – in data](https://www.nature.com/articles/d41586-023-02219-y)
+- [Stanford Graduate Students Won Their Union Vote](https://twitter.com/StanfordGWU/status/1677048098080845824)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

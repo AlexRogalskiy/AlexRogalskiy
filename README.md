@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Elon watching $44B go up in flames](https://www.threads.net/t/CuVhIUEL-PU)
-- [Systems, math and explosions &lpar;in no particular order&rpar;](https://pjonori.blog/posts/systems-math-explosions/)
-- [LongNet: Scaling Transformers to 1B Tokens](https://arxiv.org/abs/2307.02486)
-- [The worst example of curriculum dead wood?](http://educationandstatistics.blogspot.com/2011/11/worst-example-of-curriculum-dead-wood.html)
-- [French parliament approves camera and microphone remote activation](https://www.sudouest.fr/justice/justice-feu-vert-de-l-assemblee-a-l-activation-a-distance-des-telephones-mouchards-15827983.php)
-- [Noctis, the &#39;No Man&#39;s Sky&#39; Forerunner Whose Creator Retreated from the World](https://www.timeextension.com/features/the-making-of-noctis-the-no-mans-sky-forerunner-whose-creator-retreated-from-the-world)
-- [How to Order a Replacement Intel Processor Label](https://www.intel.com/content/www/us/en/support/articles/000059729/processors.html)
-- [The slow, sad death of Twitter](https://www.theneweuropean.co.uk/the-slow-sad-death-of-twitter/)
-- [WI governor gets creative with veto, increases school funding for 400 years](https://www.usatoday.com/story/news/education/2023/07/05/400-years-of-education-funding-for-wisconsin-schools/70385428007/)
-- [Poland wants American nuclear warheads for its new F-35 stealth fighters](https://militarywatchmagazine.com/article/poland-nukes-f35-sharing-pm)
+- [strftime.vim: Make it easier to read and write strftime strings](https://github.com/AndrewRadev/strftime.vim)
+- [Bluesky partners with Namecheap to power domains as usernames](https://blueskyweb.xyz/blog/7-05-2023-namecheap)
+- [Multi-Process Service &lpar;MPS&rpar;](https://docs.nvidia.com/deploy/mps/index.html)
+- [How network effects make AI smarter](https://hbr.org/2023/03/how-network-effects-make-ai-smarter)
+- [Oregon Legislature Passes AG Rosenblum’s Long-Awaited Consumer Data Privacy Law](https://www.doj.state.or.us/media-home/news-media-releases/oregon-legislature-passes-ag-rosenblums-long-awaited-consumer-data-privacy-law/)
+- [The World Might Be Better Off Without College for Everyone &lpar;2018&rpar;](https://www.theatlantic.com/magazine/archive/2018/01/whats-college-good-for/546590/)
+- [Octopuses sleep–and possibly dream–just like humans](https://arstechnica.com/science/2023/07/octopuses-sleep-and-possibly-dream-just-like-humans/)
+- [Microsoft Edge Pre-Installing Google Docs Offline Extension](https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnote-stable-channel)
+- [A Small Recursive Descent Parser](https://syntheticdesign.com.au/posts/202307-recursive-descent.html)
+- [Understanding Mr. Brightside [video]](https://www.youtube.com/watch?v=ZgpXoEtaVcg)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

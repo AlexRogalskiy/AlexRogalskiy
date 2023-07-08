@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [What the raid on Jenin says about the future of Israel and Palestine - podcast](https://www.theguardian.com/news/audio/2023/jul/07/raid-jenin-future-israel-palestine-west-bank)
-- [Kanye West sued by teacher fired from his California private school](https://www.theguardian.com/us-news/2023/jul/06/kanye-west-yeezy-california-private-school)
-- [Biden didn’t authorise secret US-Russia talks over Ukraine war, White House says](https://www.theguardian.com/us-news/2023/jul/07/russia-us-talks-ukraine-war-biden)
-- [Cook Islands PM ‘proceeds with caution’ on deep-sea mining as critics warn over risks](https://www.theguardian.com/world/2023/jul/07/cook-islands-deep-sea-mining)
-- [Cost of Euston HS2 terminus could race past £4.8bn estimate, MPs say](https://www.theguardian.com/uk-news/2023/jul/07/cost-of-euston-hs2-terminus-could-race-past-4-point-8bn-estimate-mps-say)
-- [Women’s World Cup 2023 team guides part seven: Nigeria](https://www.theguardian.com/football/2023/jul/07/womens-world-cup-2023-team-guides-part-seven-nigeria)
-- [The Wizard of Oz review – over the rainbow and into an arcade game](https://www.theguardian.com/stage/2023/jul/06/the-wizard-of-oz-review-london-palladium)
-- [Andy Murray battles back to lead Stefanos Tsitsipas before time runs out](https://www.theguardian.com/sport/2023/jul/06/andy-murray-battles-back-to-take-lead-over-stefanos-tsitsipas)
-- [‘Please come’: Taylor Swift fans in south-east Asia hope for tour date](https://www.theguardian.com/music/2023/jul/07/taylor-swift-asia-tour-eras)
-- [Brazil: Amazon deforestation drops 34% in first six months under Lula](https://www.theguardian.com/world/2023/jul/06/brazil-amazon-deforestation-lula)
+- [Ukraine wins Turkey’s backing for Nato membership but Biden urges caution on timing](https://www.theguardian.com/world/2023/jul/08/ukraine-wins-turkeys-backing-for-nato-membership-but-biden-urges-caution-on-timing)
+- [Dutch government falls as coalition partners clash over immigration](https://www.theguardian.com/world/2023/jul/07/dutch-pm-set-to-resign-after-failing-to-reach-immigration-agreement)
+- [Nebraska firefighters rescue two men swept a mile into a sewer](https://www.theguardian.com/us-news/2023/jul/07/nebraska-firefighters-rescue-sewer-manhole)
+- [Valencia tops surprising poll of travellers’ favourite coastal stays in Europe](https://www.theguardian.com/travel/2023/jul/08/which-poll-reveals-surprise-shift-in-travellers-favourite-european-coastal-towns-and-cities)
+- [Women’s World Cup 2023 team guides part nine: Costa Rica](https://www.theguardian.com/football/2023/jul/08/womens-world-cup-2023-team-guides-part-nine-costa-rica)
+- [Long-sleeved, minis and floral-free: 57 of the best summer dresses](https://www.theguardian.com/fashion/2023/jul/08/best-summer-dresses)
+- [Katie Boulter ready for test against ‘incredible champion’ Elena Rybakina](https://www.theguardian.com/sport/2023/jul/07/katie-boulter-ready-for-test-against-incredible-champion-elena-rybakina)
+- [‘Terrible mistake’: human rights groups decry sending cluster bombs to Ukraine](https://www.theguardian.com/us-news/2023/jul/07/joe-biden-military-aid-ukraine-war-cluster-bombs-human-rights-groups)
+- [Then You Run review – like Derry Girls, but with a lot more murder and heroin](https://www.theguardian.com/tv-and-radio/2023/jul/07/then-you-run-review-like-derry-girls-but-with-a-lot-more-and-heroin)
+- [Prigozhin wig pictures appear to be genuine, analysis shows](https://www.theguardian.com/world/2023/jul/07/prigozhin-wig-pictures-appear-to-be-genuine-analysis-shows)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Annual public cloud revenue reaches half a trillion dollars](https://www.computerworld.com/article/3701934/annual-public-cloud-revenue-reaches-half-a-trillion-dollars.html#tk.rss_all)
+- [How many jobs are available in technology in the US?](https://www.computerworld.com/article/3542681/how-many-jobs-are-available-in-technology.html#tk.rss_all)
+- [Apple was right not to run a social network](https://www.computerworld.com/article/3702228/apple-was-right-not-to-run-a-social-network.html#tk.rss_all)
+- [OpenAI launches new alignment division to tackle risks of superintelligent AI](https://www.computerworld.com/article/3702229/openai-launches-new-alignment-division-to-tackle-risks-of-superintelligent-ai.html#tk.rss_all)
+- [Lawyers and Incident Response can be a dangerous combo](https://www.computerworld.com/article/3701892/lawyers-and-incident-response-can-be-a-dangerous-combo.html#tk.rss_all)
 - [Shutterstock offers customers legal indemnity for AI-created image use](https://www.computerworld.com/article/3701932/shutterstock-offers-customers-legal-indemnity-for-ai-created-image-use.html#tk.rss_all)
 - [Digital transformation, AI, and the productivity problem](https://www.computerworld.com/article/3701930/digital-transformation-ai-and-the-productivity-problem.html#tk.rss_all)
 - [Apple’s new 15-in. M2 MacBook Air is a consumer workhorse](https://www.computerworld.com/article/3701891/apples-new-15-in-m2-macbook-air-is-a-consumer-workhorse.html#tk.rss_all)
 - [NYC law governing AI-based hiring tools goes live](https://www.computerworld.com/article/3701908/nyc-law-governing-ai-based-hiring-tools-goes-live.html#tk.rss_all)
 - [US will block Chinese customers from using AI cloud services: report](https://www.computerworld.com/article/3701948/us-will-block-chinese-customers-from-using-ai-cloud-services-report.html#tk.rss_all)
-- [Of cut cables and the sad state of tech support](https://www.computerworld.com/article/3701429/of-cut-cables-and-the-sad-state-of-tech-support.html#tk.rss_all)
-- [Could Apple Card finally become an international service?](https://www.computerworld.com/article/3701291/could-apple-card-finally-become-an-international-service.html#tk.rss_all)
-- [China seeks to improve reliability of its chip manufacturing  sector](https://www.networkworld.com/article/3701850/china-seeks-to-improve-reliability-of-its-chip-manufacturing-sector.html#tk.rss_all)
-- [Apple’s Vision Pro: Will it work for work?](https://www.computerworld.com/article/3700653/apple-s-vision-pro-will-it-work-for-work.html#tk.rss_all)
-- [Microsoft set to face EU antitrust probe over Teams bundle: Report](https://www.computerworld.com/article/3701394/microsoft-set-to-face-eu-antitrust-probe-over-teams-bundle-report.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

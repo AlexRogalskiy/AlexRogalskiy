@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [strftime.vim: Make it easier to read and write strftime strings](https://github.com/AndrewRadev/strftime.vim)
-- [Bluesky partners with Namecheap to power domains as usernames](https://blueskyweb.xyz/blog/7-05-2023-namecheap)
-- [Multi-Process Service &lpar;MPS&rpar;](https://docs.nvidia.com/deploy/mps/index.html)
-- [How network effects make AI smarter](https://hbr.org/2023/03/how-network-effects-make-ai-smarter)
-- [Oregon Legislature Passes AG Rosenblum’s Long-Awaited Consumer Data Privacy Law](https://www.doj.state.or.us/media-home/news-media-releases/oregon-legislature-passes-ag-rosenblums-long-awaited-consumer-data-privacy-law/)
-- [The World Might Be Better Off Without College for Everyone &lpar;2018&rpar;](https://www.theatlantic.com/magazine/archive/2018/01/whats-college-good-for/546590/)
-- [Octopuses sleep–and possibly dream–just like humans](https://arstechnica.com/science/2023/07/octopuses-sleep-and-possibly-dream-just-like-humans/)
-- [Microsoft Edge Pre-Installing Google Docs Offline Extension](https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnote-stable-channel)
-- [A Small Recursive Descent Parser](https://syntheticdesign.com.au/posts/202307-recursive-descent.html)
-- [Understanding Mr. Brightside [video]](https://www.youtube.com/watch?v=ZgpXoEtaVcg)
+- [New direct climate fund for Indonesia’s Indigenous communities](https://www.eco-business.com/news/new-direct-climate-fund-for-indonesias-indigenous-communities/)
+- [The Semiconductor Trade War](https://www.apricitas.io/p/the-semiconductor-trade-war)
+- [The Anatomy of an “Elite”](https://americandreaming.substack.com/p/the-anatomy-of-an-elite)
+- [The Horror Game of the Year Is a Doom II Mod](https://kotaku.com/doom-2-free-mods-myhouse-download-gzdoom-goty-1850616515)
+- [Widespread Twitter Blue scam network on Twitter, lots of $ stolen](https://news.ycombinator.com/item?id=36640767)
+- [Sabrent Rocket X5 PCIe Gen5 SSDs hits 14 GB/s read speed](https://videocardz.com/newz/sabrent-rocket-x5-pcie-gen5-ssds-hits-14-gb-s-read-speed)
+- [Oppenheimer, Nullified and Vindicated](https://www.newyorker.com/culture/culture-desk/oppenheimer-nullified-and-vindicated)
+- [Startup: Mentorius gamified and personalized mentoring program for your team](https://www.mentorius.app/)
+- [Yet Another Summarization Extension](https://chrome.google.com/webstore/detail/gist-ai/elmpkhkdonhdbkeaigkblbgckcihahoc)
+- [Apple Vision Pro may have VR Apple TV+ content at launch](https://appleinsider.com/articles/23/07/07/apple-tv-shows-may-have-been-filmed-for-apple-vision-pro-all-along)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

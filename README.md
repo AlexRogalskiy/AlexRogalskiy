@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Understanding Cybersecurity Frameworks: NIST, ISO, and More](https://www.thefinalhop.com/understanding-cybersecurity-frameworks-nist-iso-and-more/)
-- [Waterwave Could Quench AIs&#39; Thirst for GPU Memory](https://spectrum.ieee.org/ai-training)
-- [All the red flags in the Threads privacy policy](https://qz.com/threads-meta-delayed-launch-eu-privacy-policy-concerns-1850609340)
-- [Why Nvidia Keeps Winning](https://www.chinatalk.media/p/why-nvidia-keeps-winning-the-rise)
-- [Air France denied my delay compensation, so I challenged them and won](https://airdisputes.com/air-france-denied-my-delay-compensation-so-i-challenged-them-and-won/)
-- [Sierra Creative Interpreter – Scripts](https://www.benshoof.org/blog/sci-scripts)
-- [Show HN: Banger.show – Create colorful visuals for your songs in seconds](https://banger.show)
-- [AI agents that “self-reflect” perform better in changing environments](https://hai.stanford.edu/news/ai-agents-self-reflect-perform-better-changing-environments)
-- [June’s record-smashing temperatures – in data](https://www.nature.com/articles/d41586-023-02219-y)
-- [Stanford Graduate Students Won Their Union Vote](https://twitter.com/StanfordGWU/status/1677048098080845824)
+- [Apple Vision Pro may have VR Apple TV+ content at launch](https://appleinsider.com/articles/23/07/07/apple-tv-shows-may-have-been-filmed-for-apple-vision-pro-all-along)
+- [Matrix Multiplication Using Only Addition](https://arxiv.org/abs/2307.01415)
+- [ProtonMail Rewrites Your Emails](http://jfloren.net/b/2023/7/7/0)
+- [Show HN: My platforming game written in C 89](https://zamfofex.neocities.org/mimimi/)
+- [ServiceNow Insecure Access Control to Full Admin Takeover](https://x64.sh/posts/ServiceNow-Insecure-access-control-to-admin/)
+- [Intel VT-rp – Part 1. remapping attack and HLAT](https://tandasat.github.io/blog/2023/07/05/intel-vt-rp-part-1.html)
+- [Aviator &lpar;YC S21&rpar; is hiring engineers to build the future of monorepos](https://www.ycombinator.com/companies/aviator/jobs)
+- [Introduction to math for game developers](https://docs.godotengine.org/en/stable/tutorials/math/vector_math.html)
+- [Windows 95 tips, tricks, and tweaks &lpar;2013&rpar;](https://windows95tips.com)
+- [Top suspect in 2015 Ashley Madison hack committed suicide in 2014](https://krebsonsecurity.com/2023/07/top-suspect-in-2015-ashley-madison-hack-committed-suicide-in-2014/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

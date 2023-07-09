@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Apple Vision Pro may have VR Apple TV+ content at launch](https://appleinsider.com/articles/23/07/07/apple-tv-shows-may-have-been-filmed-for-apple-vision-pro-all-along)
-- [Matrix Multiplication Using Only Addition](https://arxiv.org/abs/2307.01415)
-- [ProtonMail Rewrites Your Emails](http://jfloren.net/b/2023/7/7/0)
-- [Show HN: My platforming game written in C 89](https://zamfofex.neocities.org/mimimi/)
-- [ServiceNow Insecure Access Control to Full Admin Takeover](https://x64.sh/posts/ServiceNow-Insecure-access-control-to-admin/)
-- [Intel VT-rp – Part 1. remapping attack and HLAT](https://tandasat.github.io/blog/2023/07/05/intel-vt-rp-part-1.html)
-- [Aviator &lpar;YC S21&rpar; is hiring engineers to build the future of monorepos](https://www.ycombinator.com/companies/aviator/jobs)
-- [Introduction to math for game developers](https://docs.godotengine.org/en/stable/tutorials/math/vector_math.html)
-- [Windows 95 tips, tricks, and tweaks &lpar;2013&rpar;](https://windows95tips.com)
-- [Top suspect in 2015 Ashley Madison hack committed suicide in 2014](https://krebsonsecurity.com/2023/07/top-suspect-in-2015-ashley-madison-hack-committed-suicide-in-2014/)
+- [Perl first commit: a “replacement” for Awk and sed](https://github.com/Perl/perl5/commit/8d063cd8450e59ea1c611a2f4f5a21059a2804f1)
+- [California needs real math education, not gimmicks](https://www.noahpinion.blog/p/california-needs-real-math-education)
+- [Pocket gets worse the more you use it &lpar;2019&rpar;](https://web.archive.org/web/20190512092903/https://old.reddit.com/r/dredmorbius/comments/5x2sfx/pocket_it_gets_worse_the_more_you_use_it/)
+- [Machine Unlearning Challenge](https://ai.googleblog.com/2023/06/announcing-first-machine-unlearning.html)
+- [Open Sourcing the Nginx Playground](https://jvns.ca/blog/2023/07/08/open-sourcing-the-nginx-playground/)
+- [Build Personal ChatGPT Using Your Data](https://github.com/raghavan/PdfGptIndexer)
+- [Packing a string of digits into an integer quickly](https://lemire.me/blog/2023/07/07/packing-a-string-of-digits-into-an-integer-quickly/)
+- [Onfim the Artist &lpar;2017&rpar;](https://www.cabinetmagazine.org/issues/64/smith.php)
+- [Algae powers computer for a year using only light and water](https://www.anthropocenemagazine.org/2022/05/algae-powers-computer-for-a-year-using-only-light-and-water/)
+- [Learn Electronics by Practice](https://beletronics.wordpress.com/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

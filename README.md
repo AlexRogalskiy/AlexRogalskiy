@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine wins Turkey’s backing for Nato membership but Biden urges caution on timing](https://www.theguardian.com/world/2023/jul/08/ukraine-wins-turkeys-backing-for-nato-membership-but-biden-urges-caution-on-timing)
-- [Dutch government falls as coalition partners clash over immigration](https://www.theguardian.com/world/2023/jul/07/dutch-pm-set-to-resign-after-failing-to-reach-immigration-agreement)
-- [Nebraska firefighters rescue two men swept a mile into a sewer](https://www.theguardian.com/us-news/2023/jul/07/nebraska-firefighters-rescue-sewer-manhole)
-- [Valencia tops surprising poll of travellers’ favourite coastal stays in Europe](https://www.theguardian.com/travel/2023/jul/08/which-poll-reveals-surprise-shift-in-travellers-favourite-european-coastal-towns-and-cities)
-- [Women’s World Cup 2023 team guides part nine: Costa Rica](https://www.theguardian.com/football/2023/jul/08/womens-world-cup-2023-team-guides-part-nine-costa-rica)
-- [Long-sleeved, minis and floral-free: 57 of the best summer dresses](https://www.theguardian.com/fashion/2023/jul/08/best-summer-dresses)
-- [Katie Boulter ready for test against ‘incredible champion’ Elena Rybakina](https://www.theguardian.com/sport/2023/jul/07/katie-boulter-ready-for-test-against-incredible-champion-elena-rybakina)
-- [‘Terrible mistake’: human rights groups decry sending cluster bombs to Ukraine](https://www.theguardian.com/us-news/2023/jul/07/joe-biden-military-aid-ukraine-war-cluster-bombs-human-rights-groups)
-- [Then You Run review – like Derry Girls, but with a lot more murder and heroin](https://www.theguardian.com/tv-and-radio/2023/jul/07/then-you-run-review-like-derry-girls-but-with-a-lot-more-and-heroin)
-- [Prigozhin wig pictures appear to be genuine, analysis shows](https://www.theguardian.com/world/2023/jul/07/prigozhin-wig-pictures-appear-to-be-genuine-analysis-shows)
+- [Mexico: body of missing journalist found in Nayarit state](https://www.theguardian.com/world/2023/jul/09/mexico-body-of-missing-journalist-found-in-nayarit-state)
+- [Russia-Ukraine war at a glance: what we know on day 501 of the invasion](https://www.theguardian.com/world/2023/jul/09/russia-ukraine-war-at-a-glance-what-we-know-on-day-501-of-the-invasion)
+- [Syria cancels accreditation of two BBC journalists](https://www.theguardian.com/world/2023/jul/09/syria-cancels-accreditation-of-two-bbc-journalists)
+- [Nuclear option to the fore as Tories prepare to unveil roadmap to net zero](https://www.theguardian.com/business/2023/jul/09/nuclear-option-to-the-fore-as-tories-prepare-to-unveil-roadmap-to-net-zero)
+- [British singles hopes dashed in Wimbledon with Katie Boulter’s defeat](https://www.theguardian.com/sport/2023/jul/08/british-singles-hopes-in-dashed-in-wimbledon-with-katie-boulters-defeat)
+- [Jeremy Hunt to unveil pension fund deal aimed at helping fast-growing firms](https://www.theguardian.com/politics/2023/jul/09/jeremy-hunt-pension-fund-investments-mansion-house-speech)
+- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2023/jul/08/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Summer blouses: 14 of the best summer tops – in pictures](https://www.theguardian.com/fashion/gallery/2023/jul/08/summer-blouses-14-of-the-best-summer-tops-in-pictures)
+- [‘You’re in my head, heart and soul’: Elton John thanks fans at farewell show](https://www.theguardian.com/music/2023/jul/08/youre-in-my-head-heart-and-soul-elton-john-thanks-fans-at-farewell-show)
+- [BBC taking ‘very seriously’ claims presenter paid teenager for sexual photos](https://www.theguardian.com/media/2023/jul/08/bbc-presenter-allegations-teenager)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

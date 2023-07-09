@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [New direct climate fund for Indonesia’s Indigenous communities](https://www.eco-business.com/news/new-direct-climate-fund-for-indonesias-indigenous-communities/)
-- [The Semiconductor Trade War](https://www.apricitas.io/p/the-semiconductor-trade-war)
-- [The Anatomy of an “Elite”](https://americandreaming.substack.com/p/the-anatomy-of-an-elite)
-- [The Horror Game of the Year Is a Doom II Mod](https://kotaku.com/doom-2-free-mods-myhouse-download-gzdoom-goty-1850616515)
-- [Widespread Twitter Blue scam network on Twitter, lots of $ stolen](https://news.ycombinator.com/item?id=36640767)
-- [Sabrent Rocket X5 PCIe Gen5 SSDs hits 14 GB/s read speed](https://videocardz.com/newz/sabrent-rocket-x5-pcie-gen5-ssds-hits-14-gb-s-read-speed)
-- [Oppenheimer, Nullified and Vindicated](https://www.newyorker.com/culture/culture-desk/oppenheimer-nullified-and-vindicated)
-- [Startup: Mentorius gamified and personalized mentoring program for your team](https://www.mentorius.app/)
-- [Yet Another Summarization Extension](https://chrome.google.com/webstore/detail/gist-ai/elmpkhkdonhdbkeaigkblbgckcihahoc)
-- [Apple Vision Pro may have VR Apple TV+ content at launch](https://appleinsider.com/articles/23/07/07/apple-tv-shows-may-have-been-filmed-for-apple-vision-pro-all-along)
+- [Far-right figures are flocking to Threads](https://www.mediamatters.org/facebook/far-right-figures-including-nazi-supporters-anti-gay-extremists-and-white-supremacists-are)
+- [Electronjs with Vite](https://electron-vite.org/)
+- [Lyft driver who worked as US interpreter in Afghanistan shot dead in Washington](https://www.theguardian.com/us-news/2023/jul/08/lyft-driver-aghjanistan-washington-shot-dead)
+- [Ask HN: Best Shell Setup with Modernity](https://news.ycombinator.com/item?id=36650989)
+- [Webviews.jl – Julia implementation of a tiny cross-platform webview library](https://github.com/sunoru/Webviews.jl)
+- [Harvard professor Avi Loeb believes he&#39;s found fragments of alien technology](https://www.cbsnews.com/boston/news/avi-loeb-harvard-professor-alien-technology-fragments/)
+- [Jony Ive&#39;s First Post-Apple Hardware Project Is a $60K Record Player – PCMag](https://www.pcmag.com/news/jony-ives-record-player)
+- [Australian music in ARIA charts has plummeted since counting streams](https://www.abc.net.au/news/2023-07-09/australian-music-in-aria-charts-has-plummeted-heres-why/102575198)
+- [Ask HN: What is the equivalent of a shopping mall for engineers/programmers](https://news.ycombinator.com/item?id=36650855)
+- [Show HN: Poozle – open-source integration infrastructure for AI Apps](https://github.com/poozlehq/engine)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

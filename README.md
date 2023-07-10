@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Perl first commit: a “replacement” for Awk and sed](https://github.com/Perl/perl5/commit/8d063cd8450e59ea1c611a2f4f5a21059a2804f1)
-- [California needs real math education, not gimmicks](https://www.noahpinion.blog/p/california-needs-real-math-education)
-- [Pocket gets worse the more you use it &lpar;2019&rpar;](https://web.archive.org/web/20190512092903/https://old.reddit.com/r/dredmorbius/comments/5x2sfx/pocket_it_gets_worse_the_more_you_use_it/)
-- [Machine Unlearning Challenge](https://ai.googleblog.com/2023/06/announcing-first-machine-unlearning.html)
-- [Open Sourcing the Nginx Playground](https://jvns.ca/blog/2023/07/08/open-sourcing-the-nginx-playground/)
-- [Build Personal ChatGPT Using Your Data](https://github.com/raghavan/PdfGptIndexer)
-- [Packing a string of digits into an integer quickly](https://lemire.me/blog/2023/07/07/packing-a-string-of-digits-into-an-integer-quickly/)
-- [Onfim the Artist &lpar;2017&rpar;](https://www.cabinetmagazine.org/issues/64/smith.php)
-- [Algae powers computer for a year using only light and water](https://www.anthropocenemagazine.org/2022/05/algae-powers-computer-for-a-year-using-only-light-and-water/)
-- [Learn Electronics by Practice](https://beletronics.wordpress.com/)
+- [Show HN: React95 – a React components library recreating the look of Windows 95](https://github.com/React95/React95)
+- [3M reaches $10.3B settlement over PFAS contamination of water systems](https://www.npr.org/2023/06/22/1183922303/3m-reaches-10-3-billion-settlement-over-contamination-of-water-systems)
+- [Ask HN: &lpar;How much&rpar; do you get paid for being on call?](https://news.ycombinator.com/item?id=36660606)
+- [&#39;Forever chemicals&#39; could be in nearly half of US tap water, federal study finds](https://www.ijpr.org/npr-news/2023-07-06/forever-chemicals-could-be-in-nearly-half-of-u-s-tap-water-a-federal-study-finds)
+- [Sarah Silverman sues Meta, OpenAI for copyright infringement](https://www.reuters.com/legal/sarah-silverman-sues-meta-openai-copyright-infringement-2023-07-09/)
+- [Wayland on OpenBSD](https://xenocara.org/Wayland_on_OpenBSD.html)
+- [PinePhone Modem SDK](https://github.com/the-modem-distro/pinephone_modem_sdk)
+- [Polynomial Functors: A Mathematical Theory of Interaction [pdf]](https://topos.site/poly-book.pdf)
+- [Why engineers should focus on writing](https://www.yieldcode.blog/post/why-engineers-should-write/)
+- [Clojure Plays Mario](https://blog.phronemophobic.com/mairio.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

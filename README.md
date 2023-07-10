@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Far-right figures are flocking to Threads](https://www.mediamatters.org/facebook/far-right-figures-including-nazi-supporters-anti-gay-extremists-and-white-supremacists-are)
-- [Electronjs with Vite](https://electron-vite.org/)
-- [Lyft driver who worked as US interpreter in Afghanistan shot dead in Washington](https://www.theguardian.com/us-news/2023/jul/08/lyft-driver-aghjanistan-washington-shot-dead)
-- [Ask HN: Best Shell Setup with Modernity](https://news.ycombinator.com/item?id=36650989)
-- [Webviews.jl – Julia implementation of a tiny cross-platform webview library](https://github.com/sunoru/Webviews.jl)
-- [Harvard professor Avi Loeb believes he&#39;s found fragments of alien technology](https://www.cbsnews.com/boston/news/avi-loeb-harvard-professor-alien-technology-fragments/)
-- [Jony Ive&#39;s First Post-Apple Hardware Project Is a $60K Record Player – PCMag](https://www.pcmag.com/news/jony-ives-record-player)
-- [Australian music in ARIA charts has plummeted since counting streams](https://www.abc.net.au/news/2023-07-09/australian-music-in-aria-charts-has-plummeted-heres-why/102575198)
-- [Ask HN: What is the equivalent of a shopping mall for engineers/programmers](https://news.ycombinator.com/item?id=36650855)
-- [Show HN: Poozle – open-source integration infrastructure for AI Apps](https://github.com/poozlehq/engine)
+- [What are angel investors and why are they called so?](https://staythrive.com/web-stories/what-is-an-angel-investor/)
+- [Donald Triplett was autism’s “Case 1”](https://www.economist.com/obituary/2023/07/06/donald-triplett-was-autisms-case-1)
+- [An app to create custom control interface for Raspberry Pi, sounds interesting?](https://imgur.com/TuOc9F3)
+- [Capacitor by Ionic – Cross-platform apps with web technology](https://capacitorjs.com/)
+- [Show HN: MapDeduce – Supercharge Your Document Analysis Productivity with OpenAI](https://www.mapdeduce.com/)
+- [Breadfruit: A starchy, delicious climate and biodiversity solution](https://news.mongabay.com/2023/07/breadfruit-a-starchy-delicious-climate-and-biodiversity-solution/)
+- [The Simpsons Hit and Run Source Code Comments, Read by Comic Book Guy [video]](https://www.youtube.com/watch?v=R_b2B5tKBUM)
+- [BMW unveils $750 ConnectedRide Motorcycle Smartglasses](https://newatlas.com/motorcycles/bmw-unveils-750-connectedride-motorcycle-smartglasses/)
+- [Evva Hanes, Who Made Moravian Cookies World Famous, Dies at 90](https://www.nytimes.com/2023/07/07/dining/evva-hanes-dead.html)
+- [Red Hat gives up on Fedora Foundation &lpar;2006&rpar;](https://arstechnica.com/uncategorized/2006/04/6535-2/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

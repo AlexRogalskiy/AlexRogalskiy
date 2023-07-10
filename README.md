@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Mexico: body of missing journalist found in Nayarit state](https://www.theguardian.com/world/2023/jul/09/mexico-body-of-missing-journalist-found-in-nayarit-state)
-- [Russia-Ukraine war at a glance: what we know on day 501 of the invasion](https://www.theguardian.com/world/2023/jul/09/russia-ukraine-war-at-a-glance-what-we-know-on-day-501-of-the-invasion)
-- [Syria cancels accreditation of two BBC journalists](https://www.theguardian.com/world/2023/jul/09/syria-cancels-accreditation-of-two-bbc-journalists)
-- [Nuclear option to the fore as Tories prepare to unveil roadmap to net zero](https://www.theguardian.com/business/2023/jul/09/nuclear-option-to-the-fore-as-tories-prepare-to-unveil-roadmap-to-net-zero)
-- [British singles hopes dashed in Wimbledon with Katie Boulter’s defeat](https://www.theguardian.com/sport/2023/jul/08/british-singles-hopes-in-dashed-in-wimbledon-with-katie-boulters-defeat)
-- [Jeremy Hunt to unveil pension fund deal aimed at helping fast-growing firms](https://www.theguardian.com/politics/2023/jul/09/jeremy-hunt-pension-fund-investments-mansion-house-speech)
-- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2023/jul/08/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Summer blouses: 14 of the best summer tops – in pictures](https://www.theguardian.com/fashion/gallery/2023/jul/08/summer-blouses-14-of-the-best-summer-tops-in-pictures)
-- [‘You’re in my head, heart and soul’: Elton John thanks fans at farewell show](https://www.theguardian.com/music/2023/jul/08/youre-in-my-head-heart-and-soul-elton-john-thanks-fans-at-farewell-show)
-- [BBC taking ‘very seriously’ claims presenter paid teenager for sexual photos](https://www.theguardian.com/media/2023/jul/08/bbc-presenter-allegations-teenager)
+- [India floods: New Delhi sees wettest July day in decades as monsoon rains and landslides kill 15 in country’s north](https://www.theguardian.com/world/2023/jul/10/india-floods-new-delhi-rain-record-deaths)
+- [Payback or play? The orcas sinking yachts – podcast](https://www.theguardian.com/news/audio/2023/jul/10/payback-or-play-the-orcas-sinking-yachts-podcast)
+- [Russia-Ukraine war at a glance: what we know on day 502 of the invasion](https://www.theguardian.com/world/2023/jul/10/russia-ukraine-war-at-a-glance-what-we-know-on-day-502-of-the-invasion)
+- [Sudan on brink of all-out civil war, UN chief warns, after airstrike kills at least 22](https://www.theguardian.com/world/2023/jul/10/sudan-on-brink-of-all-out-civil-war-un-chief-warns-after-airstrike-kills-at-least-22)
+- [‘Foreigners on our own land’: ethnic clashes threaten to push India’s Manipur state into civil war](https://www.theguardian.com/world/2023/jul/10/foreigners-on-our-own-land-ethnic-clashes-threaten-to-push-indias-manipur-state-into-civil-war)
+- [UK care operators accused of ‘shocking abuse’ of migrant workers](https://www.theguardian.com/society/2023/jul/10/uk-care-operators-accused-of-shocking-abuse-of-migrant-workers)
+- [Women’s World Cup 2023 team guides part 13: China](https://www.theguardian.com/football/2023/jul/10/womens-world-cup-2023-team-guides-part-13-china)
+- [Racism is ‘stain’ on NHS for staff and patients, says psychiatry chief](https://www.theguardian.com/society/2023/jul/10/racism-stain-nhs-royal-college-of-psychiatrists)
+- [Hiring by UK firms slows amid ‘lingering economic uncertainty’](https://www.theguardian.com/business/2023/jul/10/hiring-by-uk-firms-slows-amid-lingering-economic-uncertainty)
+- [Campaigners say ministers ‘too quick’ to celebrate increased rape convictions](https://www.theguardian.com/society/2023/jul/10/campaigners-say-ministers-too-quick-to-celebrate-increased-convictions)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

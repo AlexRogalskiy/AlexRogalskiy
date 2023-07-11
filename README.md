@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [India floods: New Delhi sees wettest July day in decades as monsoon rains and landslides kill 15 in country’s north](https://www.theguardian.com/world/2023/jul/10/india-floods-new-delhi-rain-record-deaths)
-- [Payback or play? The orcas sinking yachts – podcast](https://www.theguardian.com/news/audio/2023/jul/10/payback-or-play-the-orcas-sinking-yachts-podcast)
-- [Russia-Ukraine war at a glance: what we know on day 502 of the invasion](https://www.theguardian.com/world/2023/jul/10/russia-ukraine-war-at-a-glance-what-we-know-on-day-502-of-the-invasion)
-- [Sudan on brink of all-out civil war, UN chief warns, after airstrike kills at least 22](https://www.theguardian.com/world/2023/jul/10/sudan-on-brink-of-all-out-civil-war-un-chief-warns-after-airstrike-kills-at-least-22)
-- [‘Foreigners on our own land’: ethnic clashes threaten to push India’s Manipur state into civil war](https://www.theguardian.com/world/2023/jul/10/foreigners-on-our-own-land-ethnic-clashes-threaten-to-push-indias-manipur-state-into-civil-war)
-- [UK care operators accused of ‘shocking abuse’ of migrant workers](https://www.theguardian.com/society/2023/jul/10/uk-care-operators-accused-of-shocking-abuse-of-migrant-workers)
-- [Women’s World Cup 2023 team guides part 13: China](https://www.theguardian.com/football/2023/jul/10/womens-world-cup-2023-team-guides-part-13-china)
-- [Racism is ‘stain’ on NHS for staff and patients, says psychiatry chief](https://www.theguardian.com/society/2023/jul/10/racism-stain-nhs-royal-college-of-psychiatrists)
-- [Hiring by UK firms slows amid ‘lingering economic uncertainty’](https://www.theguardian.com/business/2023/jul/10/hiring-by-uk-firms-slows-amid-lingering-economic-uncertainty)
-- [Campaigners say ministers ‘too quick’ to celebrate increased rape convictions](https://www.theguardian.com/society/2023/jul/10/campaigners-say-ministers-too-quick-to-celebrate-increased-convictions)
+- [Cure or fad? The truth about weight loss drugs | Podcast](https://www.theguardian.com/news/audio/2023/jul/11/cure-or-fad-the-truth-about-weight-loss-drugs-podcast)
+- [Bottoms up: pilot escapes with minor injuries after plane plunges into hangar](https://www.theguardian.com/us-news/2023/jul/10/california-pilot-crash-hangar-nose-dive-landing-takeoff)
+- [‘Uncharted territory’: UN declares first week of July world’s hottest ever recorded](https://www.theguardian.com/environment/2023/jul/11/uncharted-territory-un-declares-first-week-of-july-worlds-hottest-ever-recorded)
+- [‘I’m just not ready yet’: Ozzy Osbourne cancels first show in nearly five years due to health](https://www.theguardian.com/music/2023/jul/11/ozzy-osbourne-cancels-live-return-show-illness)
+- [Elizabeth Holmes’ 11-year prison sentence shortened by two years](https://www.theguardian.com/us-news/2023/jul/10/elizabeth-holmes-11-year-prison-sentence-shortened-by-two-years)
+- [Russia-Ukraine war at a glance: what we know on day 503 of the invasion](https://www.theguardian.com/world/2023/jul/11/russia-ukraine-war-at-a-glance-what-we-know-on-day-503-of-the-invasion)
+- [Housing asylum seekers on barge may only save £10 a person daily, report says](https://www.theguardian.com/uk-news/2023/jul/11/housing-asylum-seekers-on-barge-may-only-save-10-a-person-daily-report-says)
+- [Women’s World Cup 2023 team guides part 15: England](https://www.theguardian.com/football/2023/jul/11/womens-world-cup-2023-team-guides-part-15-england)
+- [Celebrities back Unicef UK appeal for urgent government child support](https://www.theguardian.com/society/2023/jul/11/celebrities-back-unicef-uk-appeal-for-urgent-government-child-support)
+- [UK retailers report sizzling sales in hot June weather](https://www.theguardian.com/business/2023/jul/11/uk-retailers-sales-hot-june-weather)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

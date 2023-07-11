@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Show HN: React95 – a React components library recreating the look of Windows 95](https://github.com/React95/React95)
-- [3M reaches $10.3B settlement over PFAS contamination of water systems](https://www.npr.org/2023/06/22/1183922303/3m-reaches-10-3-billion-settlement-over-contamination-of-water-systems)
-- [Ask HN: &lpar;How much&rpar; do you get paid for being on call?](https://news.ycombinator.com/item?id=36660606)
-- [&#39;Forever chemicals&#39; could be in nearly half of US tap water, federal study finds](https://www.ijpr.org/npr-news/2023-07-06/forever-chemicals-could-be-in-nearly-half-of-u-s-tap-water-a-federal-study-finds)
-- [Sarah Silverman sues Meta, OpenAI for copyright infringement](https://www.reuters.com/legal/sarah-silverman-sues-meta-openai-copyright-infringement-2023-07-09/)
-- [Wayland on OpenBSD](https://xenocara.org/Wayland_on_OpenBSD.html)
-- [PinePhone Modem SDK](https://github.com/the-modem-distro/pinephone_modem_sdk)
-- [Polynomial Functors: A Mathematical Theory of Interaction [pdf]](https://topos.site/poly-book.pdf)
-- [Why engineers should focus on writing](https://www.yieldcode.blog/post/why-engineers-should-write/)
-- [Clojure Plays Mario](https://blog.phronemophobic.com/mairio.html)
+- [XFS online filesystem check and repair](https://lwn.net/Articles/934561/)
+- [GPS Log: Tracking Wood Movement Down the McKenzie River Live June 8th](https://gpslogdrive.com/)
+- [Frame generation essentials: Interpolation, extrapolation, and reprojection](https://blurbusters.com/frame-generation-essentials-interpolation-extrapolation-and-reprojection/)
+- [Show HN: Manabi Reader – Learn Japanese by Reading on iOS and macOS &lpar;SwiftUI&rpar;](https://reader.manabi.io/#page-top)
+- [Easy HTTPS for your private networks](https://www.getlocalcert.net/)
+- [Brian Eno Albums Available in Dolby Atmos and Spatial for the First Time](https://www.udiscovermusic.com/news/brian-eno-albums-dolby-atmos-first-time/)
+- [MicroVM by QEMU](https://qemu.readthedocs.io/en/latest/system/i386/microvm.html)
+- [Shortening the Let&#39;s Encrypt chain of trust](https://letsencrypt.org/2023/07/10/cross-sign-expiration.html)
+- [Space After Periods &lpar;1993&rpar;](http://1997.webhistory.org/www.lists/www-talk.1993q3/)
+- [Self-hosted photo and video backups directly from your mobile phone](https://github.com/immich-app/immich)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

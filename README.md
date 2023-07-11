@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Sarah Silverman sues OpenAI, Meta over copyright infringement in AI training](https://www.computerworld.com/article/3702392/sarah-silverman-sues-openai-meta-over-copyright-infringement-in-ai-training.html#tk.rss_all)
+- [UK regulator refers cloud infrastructure market for investigation](https://www.computerworld.com/article/3702388/uk-regulator-refers-cloud-infrastructure-market-for-investigation.html#tk.rss_all)
+- [Apple&#39;s cutting-edge Vision Pro doesn&#39;t need iPhone sales to succeed](https://www.computerworld.com/article/3702389/apples-cutting-edge-vision-pro-doesnt-need-iphone-sales-to-succeed.html#tk.rss_all)
+- [Q&amp;A: How AI can help enterprise HR automate employee experiences](https://www.computerworld.com/article/3701949/qa-how-ai-can-help-enterprise-hr-automate-employee-experiences.html#tk.rss_all)
 - [Annual public cloud revenue reaches half a trillion dollars](https://www.computerworld.com/article/3701934/annual-public-cloud-revenue-reaches-half-a-trillion-dollars.html#tk.rss_all)
 - [How many jobs are available in technology in the US?](https://www.computerworld.com/article/3542681/how-many-jobs-are-available-in-technology.html#tk.rss_all)
 - [Apple was right not to run a social network](https://www.computerworld.com/article/3702228/apple-was-right-not-to-run-a-social-network.html#tk.rss_all)
 - [OpenAI launches new alignment division to tackle risks of superintelligent AI](https://www.computerworld.com/article/3702229/openai-launches-new-alignment-division-to-tackle-risks-of-superintelligent-ai.html#tk.rss_all)
 - [Lawyers and Incident Response can be a dangerous combo](https://www.computerworld.com/article/3701892/lawyers-and-incident-response-can-be-a-dangerous-combo.html#tk.rss_all)
 - [Shutterstock offers customers legal indemnity for AI-created image use](https://www.computerworld.com/article/3701932/shutterstock-offers-customers-legal-indemnity-for-ai-created-image-use.html#tk.rss_all)
-- [Digital transformation, AI, and the productivity problem](https://www.computerworld.com/article/3701930/digital-transformation-ai-and-the-productivity-problem.html#tk.rss_all)
-- [Apple’s new 15-in. M2 MacBook Air is a consumer workhorse](https://www.computerworld.com/article/3701891/apples-new-15-in-m2-macbook-air-is-a-consumer-workhorse.html#tk.rss_all)
-- [NYC law governing AI-based hiring tools goes live](https://www.computerworld.com/article/3701908/nyc-law-governing-ai-based-hiring-tools-goes-live.html#tk.rss_all)
-- [US will block Chinese customers from using AI cloud services: report](https://www.computerworld.com/article/3701948/us-will-block-chinese-customers-from-using-ai-cloud-services-report.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

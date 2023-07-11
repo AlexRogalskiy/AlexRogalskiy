@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [What are angel investors and why are they called so?](https://staythrive.com/web-stories/what-is-an-angel-investor/)
-- [Donald Triplett was autism’s “Case 1”](https://www.economist.com/obituary/2023/07/06/donald-triplett-was-autisms-case-1)
-- [An app to create custom control interface for Raspberry Pi, sounds interesting?](https://imgur.com/TuOc9F3)
-- [Capacitor by Ionic – Cross-platform apps with web technology](https://capacitorjs.com/)
-- [Show HN: MapDeduce – Supercharge Your Document Analysis Productivity with OpenAI](https://www.mapdeduce.com/)
-- [Breadfruit: A starchy, delicious climate and biodiversity solution](https://news.mongabay.com/2023/07/breadfruit-a-starchy-delicious-climate-and-biodiversity-solution/)
-- [The Simpsons Hit and Run Source Code Comments, Read by Comic Book Guy [video]](https://www.youtube.com/watch?v=R_b2B5tKBUM)
-- [BMW unveils $750 ConnectedRide Motorcycle Smartglasses](https://newatlas.com/motorcycles/bmw-unveils-750-connectedride-motorcycle-smartglasses/)
-- [Evva Hanes, Who Made Moravian Cookies World Famous, Dies at 90](https://www.nytimes.com/2023/07/07/dining/evva-hanes-dead.html)
-- [Red Hat gives up on Fedora Foundation &lpar;2006&rpar;](https://arstechnica.com/uncategorized/2006/04/6535-2/)
+- [Favstar is coming back, for Mastodon](https://favstar.fm/)
+- [FloatZone: Accelerating Memory Error Detection Using the Floating Point Unit [pdf]](https://download.vusec.net/papers/floatzone_sec23.pdf)
+- [Ask HN: Is anyone familiar with this unexpected behavior from GPT 3.5?](https://news.ycombinator.com/item?id=36675729)
+- [It is over. GPT-4&#39;s details are leaked](https://pastebin.com/npjASbNp)
+- [Flexport Founder Ryan Petersen Is VC Firm Founders Fund’s Newest Partner](https://www.forbes.com/sites/alexkonrad/2023/07/10/flexport-founder-ryan-petersen-joins-founders-fund/)
+- [Apple&#39;s supplier Foxconn dumps $19.5B plan in India](https://www.reuters.com/technology/foxconn-pulls-out-india-chip-jv-with-vedanta-2023-07-10/)
+- [Arts and Letters Daily](https://www.aldaily.com/)
+- [Drinking water from nearly half of US faucets may have harmful chemicals](https://www.npr.org/2023/07/06/1186230007/drinking-water-forever-chemicals-pfas-study)
+- [Gmailjs but for Outlook and More Minimal](https://github.com/ghostwriteai/outlookjs)
+- [PDF AI – Chat with PDF on Android &lpar;Native, Material You&rpar;](https://play.google.com/store/apps/details?id=fusion.chatpdf&hl=en_US)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [XFS online filesystem check and repair](https://lwn.net/Articles/934561/)
-- [GPS Log: Tracking Wood Movement Down the McKenzie River Live June 8th](https://gpslogdrive.com/)
-- [Frame generation essentials: Interpolation, extrapolation, and reprojection](https://blurbusters.com/frame-generation-essentials-interpolation-extrapolation-and-reprojection/)
-- [Show HN: Manabi Reader – Learn Japanese by Reading on iOS and macOS &lpar;SwiftUI&rpar;](https://reader.manabi.io/#page-top)
-- [Easy HTTPS for your private networks](https://www.getlocalcert.net/)
-- [Brian Eno Albums Available in Dolby Atmos and Spatial for the First Time](https://www.udiscovermusic.com/news/brian-eno-albums-dolby-atmos-first-time/)
-- [MicroVM by QEMU](https://qemu.readthedocs.io/en/latest/system/i386/microvm.html)
-- [Shortening the Let&#39;s Encrypt chain of trust](https://letsencrypt.org/2023/07/10/cross-sign-expiration.html)
-- [Space After Periods &lpar;1993&rpar;](http://1997.webhistory.org/www.lists/www-talk.1993q3/)
-- [Self-hosted photo and video backups directly from your mobile phone](https://github.com/immich-app/immich)
+- [The English Programming Language](https://github.com/theletterf/english-lang)
+- [Dr. Gwynne Dyer – Geopolitics in a Hotter World – UBC Talk Transcribed &lpar;2010&rpar;](https://spaswell.wordpress.com/2016/11/18/dr-gwynne-dyer-geopolitics-in-a-hotter-world-ubc-talk-transcribed-sept-2010/)
+- [The ad-based internet is dying, and it&#39;s getting worse in the process [video]](https://tilvids.com/videos/watch/41f5284e-b79e-4c84-97e5-664a6ac5a1ee)
+- [Elo for VC – Founder&#39;s Choice](https://www.founderschoicevc.com/)
+- [Breaking java.lang.String](https://wouter.coekaerts.be/2023/breaking-string)
+- [Darwin: A framework for evolving decentralized web apps](https://evolutionary.arweave.dev/)
+- [The Free Movie](https://thefreemovie.buzz/)
+- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+- [Kelly Rowland couldn&#39;t have used the =HYPERLINK&lpar;&rpar; function to message Nelly](https://blog.jgc.org/2023/07/unfortunately-kelly-rowland-couldnt.html)
+- [Show HN: Van, truck or car camp for $0 a night](https://www.landcamp.org/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

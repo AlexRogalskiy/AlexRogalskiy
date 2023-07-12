@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Cure or fad? The truth about weight loss drugs | Podcast](https://www.theguardian.com/news/audio/2023/jul/11/cure-or-fad-the-truth-about-weight-loss-drugs-podcast)
-- [Bottoms up: pilot escapes with minor injuries after plane plunges into hangar](https://www.theguardian.com/us-news/2023/jul/10/california-pilot-crash-hangar-nose-dive-landing-takeoff)
-- [‘Uncharted territory’: UN declares first week of July world’s hottest ever recorded](https://www.theguardian.com/environment/2023/jul/11/uncharted-territory-un-declares-first-week-of-july-worlds-hottest-ever-recorded)
-- [‘I’m just not ready yet’: Ozzy Osbourne cancels first show in nearly five years due to health](https://www.theguardian.com/music/2023/jul/11/ozzy-osbourne-cancels-live-return-show-illness)
-- [Elizabeth Holmes’ 11-year prison sentence shortened by two years](https://www.theguardian.com/us-news/2023/jul/10/elizabeth-holmes-11-year-prison-sentence-shortened-by-two-years)
-- [Russia-Ukraine war at a glance: what we know on day 503 of the invasion](https://www.theguardian.com/world/2023/jul/11/russia-ukraine-war-at-a-glance-what-we-know-on-day-503-of-the-invasion)
-- [Housing asylum seekers on barge may only save £10 a person daily, report says](https://www.theguardian.com/uk-news/2023/jul/11/housing-asylum-seekers-on-barge-may-only-save-10-a-person-daily-report-says)
-- [Women’s World Cup 2023 team guides part 15: England](https://www.theguardian.com/football/2023/jul/11/womens-world-cup-2023-team-guides-part-15-england)
-- [Celebrities back Unicef UK appeal for urgent government child support](https://www.theguardian.com/society/2023/jul/11/celebrities-back-unicef-uk-appeal-for-urgent-government-child-support)
-- [UK retailers report sizzling sales in hot June weather](https://www.theguardian.com/business/2023/jul/11/uk-retailers-sales-hot-june-weather)
+- [Trump not entitled to immunity in Carroll defamation lawsuit, DoJ says](https://www.theguardian.com/us-news/2023/jul/11/doj-trump-not-entitled-to-immunity-carroll-defamation-lawsuit)
+- [Putin v Prigozhin: is Wagner too valuable to crush? - podcast](https://www.theguardian.com/news/audio/2023/jul/12/putin-v-prigozhin-is-wagner-too-valuable-to-crush-podcast)
+- [Archaeologists dig for children who died at Nebraska Native American boarding school](https://www.theguardian.com/us-news/2023/jul/12/archaeologists-dig-for-children-who-died-at-nebraska-native-american-boarding-school)
+- [Democracy on the line in Thailand as parliament set to vote on new PM](https://www.theguardian.com/world/2023/jul/12/democracy-on-the-line-in-thailand-as-parliament-set-to-vote-on-new-pm)
+- [Residents of US south-west swelter under record-breaking heatwave](https://www.theguardian.com/us-news/2023/jul/11/south-west-record-breaking-temperature-heatwave-arizona-nevada-new-mexico-california)
+- [Ex-Manson follower Leslie Van Houten released from prison after 53 years](https://www.theguardian.com/us-news/2023/jul/11/leslie-van-houten-released-prison-charles-manson)
+- [Russia-Ukraine war at a glance: what we know on day 504 of the invasion](https://www.theguardian.com/world/2023/jul/12/russia-ukraine-war-at-a-glance-what-we-know-on-day-504-of-the-invasion)
+- [Geological mystery in California as homes slowly slide into canyon](https://www.theguardian.com/us-news/2023/jul/11/rolling-hills-estates-landslide-california-damage)
+- [I did my PhD in Hollywood action films – here’s why Mission: Impossible is the best | Clem Bastow](https://www.theguardian.com/film/2023/jul/12/best-action-movie-franchises-mission-impossible)
+- [Ladbrokes adverts banned for attracting under-18s with football managers](https://www.theguardian.com/business/2023/jul/12/ladbrokes-adverts-banned-for-attracting-under-18s-with-football-managers)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Favstar is coming back, for Mastodon](https://favstar.fm/)
-- [FloatZone: Accelerating Memory Error Detection Using the Floating Point Unit [pdf]](https://download.vusec.net/papers/floatzone_sec23.pdf)
-- [Ask HN: Is anyone familiar with this unexpected behavior from GPT 3.5?](https://news.ycombinator.com/item?id=36675729)
-- [It is over. GPT-4&#39;s details are leaked](https://pastebin.com/npjASbNp)
-- [Flexport Founder Ryan Petersen Is VC Firm Founders Fund’s Newest Partner](https://www.forbes.com/sites/alexkonrad/2023/07/10/flexport-founder-ryan-petersen-joins-founders-fund/)
-- [Apple&#39;s supplier Foxconn dumps $19.5B plan in India](https://www.reuters.com/technology/foxconn-pulls-out-india-chip-jv-with-vedanta-2023-07-10/)
-- [Arts and Letters Daily](https://www.aldaily.com/)
-- [Drinking water from nearly half of US faucets may have harmful chemicals](https://www.npr.org/2023/07/06/1186230007/drinking-water-forever-chemicals-pfas-study)
-- [Gmailjs but for Outlook and More Minimal](https://github.com/ghostwriteai/outlookjs)
-- [PDF AI – Chat with PDF on Android &lpar;Native, Material You&rpar;](https://play.google.com/store/apps/details?id=fusion.chatpdf&hl=en_US)
+- [Ask HN: Is it bad practice in 2023 to force GZIP compression?](https://news.ycombinator.com/item?id=36689861)
+- [Frontier AI regulation: Managing emerging risks to public safety](https://openai.com/research/frontier-ai-regulation)
+- [Show HN: Vizor – Live Video Connection Through Virtual Frosted Glass](https://www.vizor.video)
+- [50 years ago, teenagers partied in the Bronx – and gave rise to hip-hop](https://www.npr.org/2023/07/11/1186407223/50-years-ago-teenagers-partied-in-the-bronx-and-gave-rise-to-hip-hop)
+- [RE: Meta Unspools Threads](https://lists.w3.org/Archives/Public/public-swicg/2023Jul/0032.html)
+- [Mastodon performance update and Meta Threads [Email]](https://news.ycombinator.com/item?id=36689764)
+- [Commit Mono – Neutral programming typeface](https://commitmono.com/)
+- [The Pioneer Behind Electromagnetism](https://spectrum.ieee.org/the-pioneer-behind-electromagnetism)
+- [NSQL: Open-Source SQL Copilot Foundation Models](https://www.numbersstation.ai/post/introducing-nsql-open-source-sql-copilot-foundation-models)
+- [Apple Pulls Safari Rapid Security Response Updates Due to Safari Bug](https://www.macrumors.com/2023/07/10/apple-pulls-ios-16-5-1-macos-13-4-1-rsrs/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

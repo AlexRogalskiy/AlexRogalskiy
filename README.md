@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Trump not entitled to immunity in Carroll defamation lawsuit, DoJ says](https://www.theguardian.com/us-news/2023/jul/11/doj-trump-not-entitled-to-immunity-carroll-defamation-lawsuit)
-- [Putin v Prigozhin: is Wagner too valuable to crush? - podcast](https://www.theguardian.com/news/audio/2023/jul/12/putin-v-prigozhin-is-wagner-too-valuable-to-crush-podcast)
-- [Archaeologists dig for children who died at Nebraska Native American boarding school](https://www.theguardian.com/us-news/2023/jul/12/archaeologists-dig-for-children-who-died-at-nebraska-native-american-boarding-school)
-- [Democracy on the line in Thailand as parliament set to vote on new PM](https://www.theguardian.com/world/2023/jul/12/democracy-on-the-line-in-thailand-as-parliament-set-to-vote-on-new-pm)
-- [Residents of US south-west swelter under record-breaking heatwave](https://www.theguardian.com/us-news/2023/jul/11/south-west-record-breaking-temperature-heatwave-arizona-nevada-new-mexico-california)
-- [Ex-Manson follower Leslie Van Houten released from prison after 53 years](https://www.theguardian.com/us-news/2023/jul/11/leslie-van-houten-released-prison-charles-manson)
-- [Russia-Ukraine war at a glance: what we know on day 504 of the invasion](https://www.theguardian.com/world/2023/jul/12/russia-ukraine-war-at-a-glance-what-we-know-on-day-504-of-the-invasion)
-- [Geological mystery in California as homes slowly slide into canyon](https://www.theguardian.com/us-news/2023/jul/11/rolling-hills-estates-landslide-california-damage)
-- [I did my PhD in Hollywood action films – here’s why Mission: Impossible is the best | Clem Bastow](https://www.theguardian.com/film/2023/jul/12/best-action-movie-franchises-mission-impossible)
-- [Ladbrokes adverts banned for attracting under-18s with football managers](https://www.theguardian.com/business/2023/jul/12/ladbrokes-adverts-banned-for-attracting-under-18s-with-football-managers)
+- [Will Mark Zuckerberg’s Threads unravel Twitter? – podcast](https://www.theguardian.com/news/audio/2023/jul/13/will-mark-zuckerberg-threads-unravel-twitter-podcast)
+- [Rishi Sunak suffers string of further defeats in Lords over small boats bill](https://www.theguardian.com/uk-news/2023/jul/13/rishi-sunak-suffers-string-of-further-defeats-in-lords-over-small-boats-bill)
+- [An ‘aggressive’ sea otter is snatching surfers’ boards. Experts are puzzled](https://www.theguardian.com/us-news/2023/jul/12/sea-otter-surfing-santa-cruz-california)
+- [Russia-Ukraine war at a glance: what we know on day 505 of the invasion](https://www.theguardian.com/world/2023/jul/13/russia-ukraine-war-at-a-glance-what-we-know-on-day-505-of-the-invasion)
+- [Arkansas warned over ‘life-threatening’ flash floods; Florida ocean temperatures hit record high – as it happened](https://www.theguardian.com/world/live/2023/jul/12/us-extreme-weather-live-vermont-phoenix-california-arizona-texas-nevada-heatwave-flooding-latest-updates)
+- [Karen Carney review demands overhaul of women’s football to transform future](https://www.theguardian.com/football/2023/jul/13/review-women-football-overhaul-future)
+- [Number of would-be homebuyers falls to 8-month low as UK economic anxiety deepens](https://www.theguardian.com/business/2023/jul/13/number-of-would-be-homebuyers-falls-to-8-month-low-as-uk-economic-anxiety-deepens)
+- [NHS end-of-life care in England ‘variable and inequitable’ says watchdog](https://www.theguardian.com/society/2023/jul/13/nhs-end-of-life-care-in-england-variable-and-inequitable-says-watchdog)
+- [Russian spy chief confirms call to CIA director after Wagner revolt](https://www.theguardian.com/us-news/2023/jul/12/russian-spy-chief-cia-director-call)
+- [Twitter owes ex-employees $500m in severance, lawsuit claims](https://www.theguardian.com/technology/2023/jul/12/twitter-severance-payments-lawsuit)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

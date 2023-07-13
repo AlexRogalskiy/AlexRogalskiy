@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The English Programming Language](https://github.com/theletterf/english-lang)
-- [Dr. Gwynne Dyer – Geopolitics in a Hotter World – UBC Talk Transcribed &lpar;2010&rpar;](https://spaswell.wordpress.com/2016/11/18/dr-gwynne-dyer-geopolitics-in-a-hotter-world-ubc-talk-transcribed-sept-2010/)
-- [The ad-based internet is dying, and it&#39;s getting worse in the process [video]](https://tilvids.com/videos/watch/41f5284e-b79e-4c84-97e5-664a6ac5a1ee)
-- [Elo for VC – Founder&#39;s Choice](https://www.founderschoicevc.com/)
-- [Breaking java.lang.String](https://wouter.coekaerts.be/2023/breaking-string)
-- [Darwin: A framework for evolving decentralized web apps](https://evolutionary.arweave.dev/)
-- [The Free Movie](https://thefreemovie.buzz/)
-- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
-- [Kelly Rowland couldn&#39;t have used the =HYPERLINK&lpar;&rpar; function to message Nelly](https://blog.jgc.org/2023/07/unfortunately-kelly-rowland-couldnt.html)
-- [Show HN: Van, truck or car camp for $0 a night](https://www.landcamp.org/)
+- [Anchor Brewing Was San Francisco](https://defector.com/anchor-brewing-was-san-francisco)
+- [Our Fastest, Most Beautiful Release Ever: Thunderbird 115 “Supernova” Is Here](https://blog.thunderbird.net/2023/07/our-fastest-most-beautiful-release-ever-thunderbird-115-supernova-is-here/)
+- [Figma Is a File Editor](https://digest.browsertech.com/archive/browsertech-digest-figma-is-a-file-editor/)
+- [Recreate the cavity-preventing GMO bacteria BCS3-L1 from precursor](https://manifund.org/projects/recreate-the-cavity-preventing-gmo-bacteria-bcs3-l1-from-precursor-)
+- [Xenia: Xbox 360 Emulator](https://xenia.jp/)
+- [Maker Faire Bay Area Returns](https://makerfaire.com/bay-area/call-for-makers/)
+- [PCSX2 is an open source PS2 Emulator](https://pcsx2.net/)
+- [Tax preparers that shared private data with Meta, Google could be fined billions](https://arstechnica.com/tech-policy/2023/07/meta-wont-say-what-happened-to-taxpayer-data-it-may-have-illegally-collected/)
+- [Simone Weil’s Great Awakening](https://www.newstatesman.com/ideas/2023/07/simone-weil-great-awakening-wolfram-eilenberger)
+- [She Steals Surfboards by the Seashore. She’s a Sea Otter](https://www.nytimes.com/2023/07/12/science/sea-otter-surfboard.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

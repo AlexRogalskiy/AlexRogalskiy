@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [EU-US Data Privacy Framework to face serious legal challenges, experts say](https://www.computerworld.com/article/3702550/eu-us-data-privacy-framework-to-face-serious-legal-challenges-experts-say.html#tk.rss_all)
+- [PC market shows signs of a turnaround after historic slide](https://www.computerworld.com/article/3701941/pc-market-shows-signs-of-a-turnaround-after-historic-slide.html#tk.rss_all)
+- [Will anyone be interested in the iPhone 15?](https://www.computerworld.com/article/3701911/will-anyone-be-interested-in-the-iphone-15.html#tk.rss_all)
+- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
+- [Tech layoffs in 2023: A timeline](https://www.computerworld.com/article/3685936/tech-layoffs-in-2023-a-timeline.html#tk.rss_all)
+- [Microsoft wants you to pay for Windows from the cloud — good luck with that](https://www.computerworld.com/article/3702349/microsoft-wants-you-to-pay-for-windows-from-the-cloud-good-luck-with-that.html#tk.rss_all)
+- [15 powerful tricks for your Google Pixel Clock app](https://www.computerworld.com/article/3665095/google-pixel-clock-app.html#tk.rss_all)
 - [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
 - [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
 - [Apple&#39;s disappearing Rapid Security Response update &lpar;u&rpar;](https://www.computerworld.com/article/3701937/apples-disappearing-rapid-security-response-update-u.html#tk.rss_all)
-- [4 collaboration security mistakes companies are still making](https://www.computerworld.com/article/3700776/collaboration-security-mistakes.html#tk.rss_all)
-- [Foxconn exits chip-making joint venture in India with Vedanta](https://www.computerworld.com/article/3701894/foxconn-exits-chip-making-joint-venture-in-india-with-vedanta.html#tk.rss_all)
-- [Sarah Silverman sues OpenAI, Meta over copyright infringement in AI training](https://www.computerworld.com/article/3702392/sarah-silverman-sues-openai-meta-over-copyright-infringement-in-ai-training.html#tk.rss_all)
-- [UK regulator refers cloud infrastructure market for investigation](https://www.computerworld.com/article/3702388/uk-regulator-refers-cloud-infrastructure-market-for-investigation.html#tk.rss_all)
-- [Apple&#39;s cutting-edge Vision Pro doesn&#39;t need iPhone sales to succeed](https://www.computerworld.com/article/3702389/apples-cutting-edge-vision-pro-doesnt-need-iphone-sales-to-succeed.html#tk.rss_all)
-- [Q&amp;A: How AI can help enterprise HR automate employee experiences](https://www.computerworld.com/article/3701949/qa-how-ai-can-help-enterprise-hr-automate-employee-experiences.html#tk.rss_all)
-- [Annual public cloud revenue reaches half a trillion dollars](https://www.computerworld.com/article/3701934/annual-public-cloud-revenue-reaches-half-a-trillion-dollars.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

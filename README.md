@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ask HN: Is it bad practice in 2023 to force GZIP compression?](https://news.ycombinator.com/item?id=36689861)
-- [Frontier AI regulation: Managing emerging risks to public safety](https://openai.com/research/frontier-ai-regulation)
-- [Show HN: Vizor – Live Video Connection Through Virtual Frosted Glass](https://www.vizor.video)
-- [50 years ago, teenagers partied in the Bronx – and gave rise to hip-hop](https://www.npr.org/2023/07/11/1186407223/50-years-ago-teenagers-partied-in-the-bronx-and-gave-rise-to-hip-hop)
-- [RE: Meta Unspools Threads](https://lists.w3.org/Archives/Public/public-swicg/2023Jul/0032.html)
-- [Mastodon performance update and Meta Threads [Email]](https://news.ycombinator.com/item?id=36689764)
-- [Commit Mono – Neutral programming typeface](https://commitmono.com/)
-- [The Pioneer Behind Electromagnetism](https://spectrum.ieee.org/the-pioneer-behind-electromagnetism)
-- [NSQL: Open-Source SQL Copilot Foundation Models](https://www.numbersstation.ai/post/introducing-nsql-open-source-sql-copilot-foundation-models)
-- [Apple Pulls Safari Rapid Security Response Updates Due to Safari Bug](https://www.macrumors.com/2023/07/10/apple-pulls-ios-16-5-1-macos-13-4-1-rsrs/)
+- [WasmEdge Community Meeting July: Crun, Mediapipe-Rs Demo, and New Maintainers](https://www.youtube.com/watch?v=1BisTa0JtWA)
+- [Experimental Package Manager for Node.js](https://github.com/anonrig/pacquet)
+- [Help bring about the Next Generation of Open Source [pdf]](https://makesourcenotcode.github.io/freedom_respecting_technology_definition_2.2.0.pdf)
+- [Why Prometheus exporters need fixed TCP ports](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/PrometheusExportersFixedPorts)
+- [What we talk about when we talk about System Design](https://maheshba.bitbucket.io/blog/2023/07/12/Design.html)
+- [Is the “Tribe Meets White Man for the First Time” Video Fake?](https://skeptics.stackexchange.com/questions/4840/is-the-tribe-meets-white-man-for-the-first-time-video-fake)
+- [The LISP 2 Project &lpar;2017&rpar;](https://ieeexplore.ieee.org/document/8267589)
+- [Ask HN: Why does LinkedIn congratulate for things like “work anniversaries”?](https://news.ycombinator.com/item?id=36704383)
+- [Bias in AI is a mirror of our culture](https://uxdesign.cc/bias-in-ai-is-a-mirror-of-our-culture-3607bd795c57)
+- [Show HN: Mystery House &lpar;Remodeled&rpar; – a ground-up rebuild for the Pico-8](https://christopherdrum.itch.io/mystery-house)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

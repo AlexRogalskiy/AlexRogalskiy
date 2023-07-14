@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Anchor Brewing Was San Francisco](https://defector.com/anchor-brewing-was-san-francisco)
-- [Our Fastest, Most Beautiful Release Ever: Thunderbird 115 “Supernova” Is Here](https://blog.thunderbird.net/2023/07/our-fastest-most-beautiful-release-ever-thunderbird-115-supernova-is-here/)
-- [Figma Is a File Editor](https://digest.browsertech.com/archive/browsertech-digest-figma-is-a-file-editor/)
-- [Recreate the cavity-preventing GMO bacteria BCS3-L1 from precursor](https://manifund.org/projects/recreate-the-cavity-preventing-gmo-bacteria-bcs3-l1-from-precursor-)
-- [Xenia: Xbox 360 Emulator](https://xenia.jp/)
-- [Maker Faire Bay Area Returns](https://makerfaire.com/bay-area/call-for-makers/)
-- [PCSX2 is an open source PS2 Emulator](https://pcsx2.net/)
-- [Tax preparers that shared private data with Meta, Google could be fined billions](https://arstechnica.com/tech-policy/2023/07/meta-wont-say-what-happened-to-taxpayer-data-it-may-have-illegally-collected/)
-- [Simone Weil’s Great Awakening](https://www.newstatesman.com/ideas/2023/07/simone-weil-great-awakening-wolfram-eilenberger)
-- [She Steals Surfboards by the Seashore. She’s a Sea Otter](https://www.nytimes.com/2023/07/12/science/sea-otter-surfboard.html)
+- [Striking Sag Actors in Disbelief over Studios’ Dystopian AI Proposal](https://www.rollingstone.com/tv-movies/tv-movie-features/actors-strike-sag-artificial-intelligence-hollywood-studios-background-1234788191/)
+- [There is no data engineering roadmap](https://www.alasdairb.com/posts/there-is-no-data-engineering-roadmap/)
+- [On personal relations as a manager](https://fev.al/posts/personal-relations/)
+- [FTC investigating ChatGPT over potential consumer harm](https://www.npr.org/2023/07/13/1187532997/ftc-investigating-chatgpt-over-potential-consumer-harm)
+- [Someone crafted a redstone PC in Minecraft to play Minecraft inside Minecraft](https://www.pcgamer.com/minecraftception-redstone-pc-chungus/)
+- [What Makes Something an Heirloom?](https://putthison.com/what-makes-something-an-heirloom/)
+- [Benefit Layers: How to avoid sales fluff in devtools](https://dx.tips/benefit-layers)
+- [Instant Messenger History: Lessons for the Threads Era of Social Media](https://tedium.co/2023/07/12/instant-messenger-competition-history/)
+- [Freshpaint &lpar;YC S19&rpar; Is Hiring Engineers to Safeguard Health Data](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
+- [Boston mayor announces residential conversion program for office buildings](https://www.bostonplans.org/news-calendar/news-updates/2023/07/10/mayor-wu-announces-residential-conversion-program)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

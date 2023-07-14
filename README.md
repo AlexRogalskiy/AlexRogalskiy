@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [FTC reported to be investigating OpenAI for consumer protection violations](https://www.computerworld.com/article/3702709/ftc-reported-to-be-investigating-openai-for-consumer-protection-violations.html#tk.rss_all)
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [Google Bard launches in EU, overcoming data privacy concerns in the region](https://www.computerworld.com/article/3702768/google-bard-launches-in-eu-overcoming-data-privacy-concerns-in-the-region.html#tk.rss_all)
+- [Apple launches Tap to Pay on iPhone for UK business](https://www.computerworld.com/article/3702728/apple-launches-tap-to-pay-on-iphone-for-uk-business.html#tk.rss_all)
+- [Microsoft Dev Box — a better path to provisioning and productivity?](https://www.computerworld.com/article/3702648/microsoft-dev-box-a-better-path-to-employee-provisioning-and-productivity.html#tk.rss_all)
+- [7 questions to ask when considering a new Apple MDM platform](https://www.computerworld.com/article/3699070/7-questions-to-ask-when-considering-a-new-apple-mdm-platform.html#tk.rss_all)
+- [Elon Musk launches xAI to take on ChatGPT-maker OpenAI](https://www.computerworld.com/article/3702708/elon-musk-launches-xai-to-take-on-chatgpt-maker-openai.html#tk.rss_all)
 - [EU-US Data Privacy Framework to face serious legal challenges, experts say](https://www.computerworld.com/article/3702550/eu-us-data-privacy-framework-to-face-serious-legal-challenges-experts-say.html#tk.rss_all)
 - [PC market shows signs of a turnaround after historic slide](https://www.computerworld.com/article/3701941/pc-market-shows-signs-of-a-turnaround-after-historic-slide.html#tk.rss_all)
 - [Will anyone be interested in the iPhone 15?](https://www.computerworld.com/article/3701911/will-anyone-be-interested-in-the-iphone-15.html#tk.rss_all)
-- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
-- [Tech layoffs in 2023: A timeline](https://www.computerworld.com/article/3685936/tech-layoffs-in-2023-a-timeline.html#tk.rss_all)
-- [Microsoft wants you to pay for Windows from the cloud — good luck with that](https://www.computerworld.com/article/3702349/microsoft-wants-you-to-pay-for-windows-from-the-cloud-good-luck-with-that.html#tk.rss_all)
-- [15 powerful tricks for your Google Pixel Clock app](https://www.computerworld.com/article/3665095/google-pixel-clock-app.html#tk.rss_all)
-- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
-- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
-- [Apple&#39;s disappearing Rapid Security Response update &lpar;u&rpar;](https://www.computerworld.com/article/3701937/apples-disappearing-rapid-security-response-update-u.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

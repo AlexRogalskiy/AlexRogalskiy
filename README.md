@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [WasmEdge Community Meeting July: Crun, Mediapipe-Rs Demo, and New Maintainers](https://www.youtube.com/watch?v=1BisTa0JtWA)
-- [Experimental Package Manager for Node.js](https://github.com/anonrig/pacquet)
-- [Help bring about the Next Generation of Open Source [pdf]](https://makesourcenotcode.github.io/freedom_respecting_technology_definition_2.2.0.pdf)
-- [Why Prometheus exporters need fixed TCP ports](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/PrometheusExportersFixedPorts)
-- [What we talk about when we talk about System Design](https://maheshba.bitbucket.io/blog/2023/07/12/Design.html)
-- [Is the “Tribe Meets White Man for the First Time” Video Fake?](https://skeptics.stackexchange.com/questions/4840/is-the-tribe-meets-white-man-for-the-first-time-video-fake)
-- [The LISP 2 Project &lpar;2017&rpar;](https://ieeexplore.ieee.org/document/8267589)
-- [Ask HN: Why does LinkedIn congratulate for things like “work anniversaries”?](https://news.ycombinator.com/item?id=36704383)
-- [Bias in AI is a mirror of our culture](https://uxdesign.cc/bias-in-ai-is-a-mirror-of-our-culture-3607bd795c57)
-- [Show HN: Mystery House &lpar;Remodeled&rpar; – a ground-up rebuild for the Pico-8](https://christopherdrum.itch.io/mystery-house)
+- [MELF: Multivariant Executables for a Heterogeneous World](https://www.usenix.org/conference/atc23/presentation/tollner)
+- [Can LLMs Generate Random Numbers? Evaluating LLM Sampling in Controlled Domains](http://people.csail.mit.edu/renda/llm-sampling-paper)
+- [Reddit is getting rid of its Gold awards system](https://www.theverge.com/2023/7/13/23794403/reddit-gold-awards-coins-sunset)
+- [What Should Data Science Education Do with Large Language Models?](https://arxiv.org/abs/2307.02792)
+- [Far right Twitter influencers first on Elon Musk’s monetization scheme](https://www.washingtonpost.com/technology/2023/07/13/twitter-creators-payments-right-wing/)
+- [Satellite Image Time Series Datasets](https://github.com/corentin-dfg/Satellite-Image-Time-Series-Datasets)
+- [Famous Programers with Repetitive Strain Injury &lpar;2022&rpar;](http://xahlee.info/emacs/emacs/emacs_hand_pain_celebrity.html)
+- [New CA math framework leaves behind rigor to focus on ‘meaning’ and ‘equity’](https://www.washingtonexaminer.com/opinion/new-california-math-framework-leaves-behind-rigor)
+- [Threads is vapid, boring and destined to fail](https://www.theguardian.com/commentisfree/2023/jul/13/threads-mark-zuckerberg-twitter-meta)
+- [Twitter starts sharing ad revenue with verified creators](https://techcrunch.com/2023/07/13/twitter-starts-sharing-ad-revenue-with-verified-creators/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

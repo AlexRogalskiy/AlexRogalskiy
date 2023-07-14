@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Will Mark Zuckerberg’s Threads unravel Twitter? – podcast](https://www.theguardian.com/news/audio/2023/jul/13/will-mark-zuckerberg-threads-unravel-twitter-podcast)
-- [Rishi Sunak suffers string of further defeats in Lords over small boats bill](https://www.theguardian.com/uk-news/2023/jul/13/rishi-sunak-suffers-string-of-further-defeats-in-lords-over-small-boats-bill)
-- [An ‘aggressive’ sea otter is snatching surfers’ boards. Experts are puzzled](https://www.theguardian.com/us-news/2023/jul/12/sea-otter-surfing-santa-cruz-california)
-- [Russia-Ukraine war at a glance: what we know on day 505 of the invasion](https://www.theguardian.com/world/2023/jul/13/russia-ukraine-war-at-a-glance-what-we-know-on-day-505-of-the-invasion)
-- [Arkansas warned over ‘life-threatening’ flash floods; Florida ocean temperatures hit record high – as it happened](https://www.theguardian.com/world/live/2023/jul/12/us-extreme-weather-live-vermont-phoenix-california-arizona-texas-nevada-heatwave-flooding-latest-updates)
-- [Karen Carney review demands overhaul of women’s football to transform future](https://www.theguardian.com/football/2023/jul/13/review-women-football-overhaul-future)
-- [Number of would-be homebuyers falls to 8-month low as UK economic anxiety deepens](https://www.theguardian.com/business/2023/jul/13/number-of-would-be-homebuyers-falls-to-8-month-low-as-uk-economic-anxiety-deepens)
-- [NHS end-of-life care in England ‘variable and inequitable’ says watchdog](https://www.theguardian.com/society/2023/jul/13/nhs-end-of-life-care-in-england-variable-and-inequitable-says-watchdog)
-- [Russian spy chief confirms call to CIA director after Wagner revolt](https://www.theguardian.com/us-news/2023/jul/12/russian-spy-chief-cia-director-call)
-- [Twitter owes ex-employees $500m in severance, lawsuit claims](https://www.theguardian.com/technology/2023/jul/12/twitter-severance-payments-lawsuit)
+- [My husband has started paying escorts for live video sessions. Is he cheating? | Leading questions](https://www.theguardian.com/lifeandstyle/2023/jul/14/my-husband-has-started-paying-escorts-for-live-video-sessions-is-he-cheating)
+- [Australian psychiatrists push for Medicare to subsidise ketamine for treatment-resistant depression](https://www.theguardian.com/australia-news/2023/jul/14/australian-psychiatrists-push-for-medicare-to-subsidise-ketamine-for-treatment-resistant-depression)
+- [The Sun, the BBC and Huw Edwards: the story of a scandal - podcast](https://www.theguardian.com/media/audio/2023/jul/14/sun-bbc-huw-edwards-story-of-scandal-podcast)
+- [Jared Kushner appeared before grand jury about Trump’s efforts to overturn election](https://www.theguardian.com/us-news/2023/jul/13/jared-kushner-testify-grand-jury)
+- [They Cloned Tyrone review – powerhouse Jamie Foxx in satire turned goofy caper](https://www.theguardian.com/film/2023/jul/14/they-cloned-tyrone-review-powerhouse-jamie-foxx-in-satire-turned-goofy-caper)
+- [Floods, tornadoes, heat: more extreme weather predicted across US](https://www.theguardian.com/world/2023/jul/13/more-extreme-weather-across-us)
+- [India readies historic moon mission as it seeks to cement position as a space power](https://www.theguardian.com/world/2023/jul/14/india-readies-historic-moon-mission-as-it-seeks-to-cement-position-as-a-space-power)
+- [Vermont governor seeks major disaster declaration from White House as state braces for more storms – as it happened](https://www.theguardian.com/world/live/2023/jul/13/us-severe-weather-warning-record-heat-wildfire-tornado-live-updates)
+- [UK butterfly count could show fall in numbers after 2022 drought](https://www.theguardian.com/environment/2023/jul/14/uk-butterfly-count-could-show-fall-in-numbers-after-2022-drought)
+- [More than a quarter of UK adults have used generative AI, survey suggests](https://www.theguardian.com/technology/2023/jul/14/more-than-quarter-of-adults-have-used-generative-ai-artifical-intelligence-survey-suggests)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

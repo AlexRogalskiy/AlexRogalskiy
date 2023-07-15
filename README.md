@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [MELF: Multivariant Executables for a Heterogeneous World](https://www.usenix.org/conference/atc23/presentation/tollner)
-- [Can LLMs Generate Random Numbers? Evaluating LLM Sampling in Controlled Domains](http://people.csail.mit.edu/renda/llm-sampling-paper)
-- [Reddit is getting rid of its Gold awards system](https://www.theverge.com/2023/7/13/23794403/reddit-gold-awards-coins-sunset)
-- [What Should Data Science Education Do with Large Language Models?](https://arxiv.org/abs/2307.02792)
-- [Far right Twitter influencers first on Elon Musk’s monetization scheme](https://www.washingtonpost.com/technology/2023/07/13/twitter-creators-payments-right-wing/)
-- [Satellite Image Time Series Datasets](https://github.com/corentin-dfg/Satellite-Image-Time-Series-Datasets)
-- [Famous Programers with Repetitive Strain Injury &lpar;2022&rpar;](http://xahlee.info/emacs/emacs/emacs_hand_pain_celebrity.html)
-- [New CA math framework leaves behind rigor to focus on ‘meaning’ and ‘equity’](https://www.washingtonexaminer.com/opinion/new-california-math-framework-leaves-behind-rigor)
-- [Threads is vapid, boring and destined to fail](https://www.theguardian.com/commentisfree/2023/jul/13/threads-mark-zuckerberg-twitter-meta)
-- [Twitter starts sharing ad revenue with verified creators](https://techcrunch.com/2023/07/13/twitter-starts-sharing-ad-revenue-with-verified-creators/)
+- [Were these caves licked into place?](https://nautil.us/were-these-caves-licked-into-place-308450/)
+- [When Did Companies Become People? Excavating the Legal Evolution &lpar;2014&rpar;](https://www.npr.org/2014/07/28/335288388/when-did-companies-become-people-excavating-the-legal-evolution)
+- [City of Spies: DC Is the World Capital of Espionage](https://www.washingtonian.com/2023/07/13/city-of-spies-dc-is-the-world-capital-of-espionage/)
+- [Earhart: A Woman, the Myth, the Legend](https://raypatrick.xyz/blog/2023/06/17/earhart-the-woman-the-myth-the-legend/)
+- [Copilot chat like feature in Neovim?](https://github.com/jackMort/ChatGPT.nvim)
+- [The lady tasting tea experiment &lpar;2015&rpar;](https://brainder.org/2015/08/23/the-lady-tasting-tea-and-fishers-exact-test/)
+- [Ask HN: What&#39;s the longest uptime you have for a server?](https://news.ycombinator.com/item?id=36732692)
+- [The idea of “holobionts” represents a paradigm shift in biology](https://www.economist.com/science-and-technology/2023/06/14/the-idea-of-holobionts-represents-a-paradigm-shift-in-biology)
+- [Orange Book: Approved Drug Products with Therapeutic Equivalence Evaluations](https://www.accessdata.fda.gov/scripts/cder/ob/index.cfm)
+- [Douglas Hofstadter Changes His Mind on Deep Learning and A.I. Risk](https://www.nytimes.com/2023/07/13/opinion/ai-chatgpt-consciousness-hofstadter.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

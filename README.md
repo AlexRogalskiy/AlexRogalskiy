@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Striking Sag Actors in Disbelief over Studios’ Dystopian AI Proposal](https://www.rollingstone.com/tv-movies/tv-movie-features/actors-strike-sag-artificial-intelligence-hollywood-studios-background-1234788191/)
-- [There is no data engineering roadmap](https://www.alasdairb.com/posts/there-is-no-data-engineering-roadmap/)
-- [On personal relations as a manager](https://fev.al/posts/personal-relations/)
-- [FTC investigating ChatGPT over potential consumer harm](https://www.npr.org/2023/07/13/1187532997/ftc-investigating-chatgpt-over-potential-consumer-harm)
-- [Someone crafted a redstone PC in Minecraft to play Minecraft inside Minecraft](https://www.pcgamer.com/minecraftception-redstone-pc-chungus/)
-- [What Makes Something an Heirloom?](https://putthison.com/what-makes-something-an-heirloom/)
-- [Benefit Layers: How to avoid sales fluff in devtools](https://dx.tips/benefit-layers)
-- [Instant Messenger History: Lessons for the Threads Era of Social Media](https://tedium.co/2023/07/12/instant-messenger-competition-history/)
-- [Freshpaint &lpar;YC S19&rpar; Is Hiring Engineers to Safeguard Health Data](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
-- [Boston mayor announces residential conversion program for office buildings](https://www.bostonplans.org/news-calendar/news-updates/2023/07/10/mayor-wu-announces-residential-conversion-program)
+- [Ziplm: Gzip-Backed Language Model](https://github.com/Futrell/ziplm)
+- [History of T](http://www.paulgraham.com/thist.html)
+- [Tor is not just for anonymity](https://blog.pastly.net/posts/2022-11-09-tor-is-not-just-for-anonymity/)
+- [Akan Names](https://en.wikipedia.org/wiki/Akan_names)
+- [The cyberpragmatics of bounding asterisks &lpar;2013&rpar;](https://languagelog.ldc.upenn.edu/nll/?p=4466)
+- [2,500 continuous runtime hours on a 4.77Mhz DOS web server](http://brutmanlabs.org)
+- [Lies, damned lies: debunking Cloudflare’s recent performance tests &lpar;2021&rpar;](https://www.fastly.com/blog/debunking-cloudflares-recent-performance-tests)
+- [Polyhedral Splines](https://uf-cise-surflab.github.io/blender-polyhedral-splines-web/)
+- [Generate RSS feed for any website using CSS selectors](https://rss-bridge.org/bridge01/#bridge-CssSelectorBridge)
+- [On Becoming a VP of Engineering pt. 2](https://www.honeycomb.io/blog/becoming-vp-of-engineering-pt2)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

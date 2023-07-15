@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [My husband has started paying escorts for live video sessions. Is he cheating? | Leading questions](https://www.theguardian.com/lifeandstyle/2023/jul/14/my-husband-has-started-paying-escorts-for-live-video-sessions-is-he-cheating)
-- [Australian psychiatrists push for Medicare to subsidise ketamine for treatment-resistant depression](https://www.theguardian.com/australia-news/2023/jul/14/australian-psychiatrists-push-for-medicare-to-subsidise-ketamine-for-treatment-resistant-depression)
-- [The Sun, the BBC and Huw Edwards: the story of a scandal - podcast](https://www.theguardian.com/media/audio/2023/jul/14/sun-bbc-huw-edwards-story-of-scandal-podcast)
-- [Jared Kushner appeared before grand jury about Trump’s efforts to overturn election](https://www.theguardian.com/us-news/2023/jul/13/jared-kushner-testify-grand-jury)
-- [They Cloned Tyrone review – powerhouse Jamie Foxx in satire turned goofy caper](https://www.theguardian.com/film/2023/jul/14/they-cloned-tyrone-review-powerhouse-jamie-foxx-in-satire-turned-goofy-caper)
-- [Floods, tornadoes, heat: more extreme weather predicted across US](https://www.theguardian.com/world/2023/jul/13/more-extreme-weather-across-us)
-- [India readies historic moon mission as it seeks to cement position as a space power](https://www.theguardian.com/world/2023/jul/14/india-readies-historic-moon-mission-as-it-seeks-to-cement-position-as-a-space-power)
-- [Vermont governor seeks major disaster declaration from White House as state braces for more storms – as it happened](https://www.theguardian.com/world/live/2023/jul/13/us-severe-weather-warning-record-heat-wildfire-tornado-live-updates)
-- [UK butterfly count could show fall in numbers after 2022 drought](https://www.theguardian.com/environment/2023/jul/14/uk-butterfly-count-could-show-fall-in-numbers-after-2022-drought)
-- [More than a quarter of UK adults have used generative AI, survey suggests](https://www.theguardian.com/technology/2023/jul/14/more-than-quarter-of-adults-have-used-generative-ai-artifical-intelligence-survey-suggests)
+- [US agency loses bid to halt Microsoft’s $69bn purchase of Activision Blizzard](https://www.theguardian.com/technology/2023/jul/14/microsoft-activision-blizzard-deal-us-court-ruling-ftc)
+- [US west braces for fiercest temperatures yet as ‘supercharged’ heatwave arrives](https://www.theguardian.com/us-news/2023/jul/14/us-west-extreme-temperatures-heatwave-weather)
+- [Russia-Ukraine war at a glance: what we know on day 507 of the invasion](https://www.theguardian.com/world/2023/jul/15/russia-ukraine-war-at-a-glance-what-we-know-on-day-507-of-the-invasion)
+- [Bear attack leaves Colorado sheepherder with severe injuries](https://www.theguardian.com/us-news/2023/jul/14/colorado-bear-attack-sheepherder-injuries)
+- [NHS trust criticised over deaths of new mothers from herpes](https://www.theguardian.com/society/2023/jul/14/new-mothers-who-died-with-herpes-should-have-been-treated-sooner-says-coroner)
+- [Burner phones and search history led police to Long Island killings suspect](https://www.theguardian.com/us-news/2023/jul/14/new-york-long-island-serial-killer-suspect-rex-heuermann)
+- [Just Stop Oil protesters disrupt BBC Proms at Royal Albert Hall](https://www.theguardian.com/environment/2023/jul/14/just-stop-oil-protestors-disrupt-bbc-proms-at-royal-albert-hall)
+- [No criminal offences committed over deaths off Bournemouth beach, police say](https://www.theguardian.com/uk-news/2023/jul/14/no-criminal-offences-committed-over-deaths-off-bournemouth-beach-police-say)
+- [The week around the world in 20 pictures](https://www.theguardian.com/artanddesign/gallery/2023/jul/14/the-week-around-the-world-in-20-pictures)
+- [Shaun Udal: ‘Shane Warne seemed invincible. I can’t get my head around the fact he’s gone’](https://www.theguardian.com/sport/2023/jul/14/shaun-udal-shane-warne-seemed-invincible-i-cant-get-my-head-around-the-fact-hes-gone)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [US agency loses bid to halt Microsoft’s $69bn purchase of Activision Blizzard](https://www.theguardian.com/technology/2023/jul/14/microsoft-activision-blizzard-deal-us-court-ruling-ftc)
-- [US west braces for fiercest temperatures yet as ‘supercharged’ heatwave arrives](https://www.theguardian.com/us-news/2023/jul/14/us-west-extreme-temperatures-heatwave-weather)
-- [Russia-Ukraine war at a glance: what we know on day 507 of the invasion](https://www.theguardian.com/world/2023/jul/15/russia-ukraine-war-at-a-glance-what-we-know-on-day-507-of-the-invasion)
-- [Bear attack leaves Colorado sheepherder with severe injuries](https://www.theguardian.com/us-news/2023/jul/14/colorado-bear-attack-sheepherder-injuries)
-- [NHS trust criticised over deaths of new mothers from herpes](https://www.theguardian.com/society/2023/jul/14/new-mothers-who-died-with-herpes-should-have-been-treated-sooner-says-coroner)
-- [Burner phones and search history led police to Long Island killings suspect](https://www.theguardian.com/us-news/2023/jul/14/new-york-long-island-serial-killer-suspect-rex-heuermann)
-- [Just Stop Oil protesters disrupt BBC Proms at Royal Albert Hall](https://www.theguardian.com/environment/2023/jul/14/just-stop-oil-protestors-disrupt-bbc-proms-at-royal-albert-hall)
-- [No criminal offences committed over deaths off Bournemouth beach, police say](https://www.theguardian.com/uk-news/2023/jul/14/no-criminal-offences-committed-over-deaths-off-bournemouth-beach-police-say)
-- [The week around the world in 20 pictures](https://www.theguardian.com/artanddesign/gallery/2023/jul/14/the-week-around-the-world-in-20-pictures)
-- [Shaun Udal: ‘Shane Warne seemed invincible. I can’t get my head around the fact he’s gone’](https://www.theguardian.com/sport/2023/jul/14/shaun-udal-shane-warne-seemed-invincible-i-cant-get-my-head-around-the-fact-hes-gone)
+- [Russia-Ukraine war at a glance: what we know on day 508 of the invasion](https://www.theguardian.com/world/2023/jul/16/russia-ukraine-war-at-a-glance-what-we-know-on-day-508-of-the-invasion)
+- [How Britain became the G7’s inflation outlier – in one chart](https://www.theguardian.com/business/2023/jul/16/how-britain-became-the-g7s-inflation-outlier-in-one-chart)
+- [Justin Welby says it was ‘a privilege to be her son’, after mother dies at 93](https://www.theguardian.com/uk-news/2023/jul/16/justin-welby-says-it-was-a-privilege-to-be-her-son-after-mother-dies-at-93)
+- [Fire breaks out at Royal Albion hotel in Brighton](https://www.theguardian.com/uk-news/2023/jul/15/fire-breaks-out-at-royal-albion-hotel-in-brighton)
+- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2023/jul/15/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Summer packing: the holiday capsule wardrobe – in pictures](https://www.theguardian.com/fashion/gallery/2023/jul/15/summer-packing-the-holiday-capsule-wardrobe-in-pictures)
+- [Teenager arrested after boy, 17, killed in north-west London](https://www.theguardian.com/uk-news/2023/jul/15/seventeen-year-old-boy-killed-in-north-west-london-stabbing)
+- [Five arrested after climate protest at Ineos oil refinery in Scotland](https://www.theguardian.com/environment/2023/jul/15/five-arrested-after-climate-protest-at-ineos-oil-refinery-in-scotland)
+- [Kohler-Cadmore’s stunning catch helps Somerset sink Essex and win T20 Blast](https://www.theguardian.com/sport/2023/jul/15/somerset-sink-essex-to-win-t20-blast-after-years-of-near-misses)
+- [The moment I knew: she was the most beautiful woman I’d ever seen, and I fell in love – twice](https://www.theguardian.com/lifeandstyle/2023/jul/16/the-moment-i-knew-she-was-the-most-beautiful-woman-id-ever-seen-and-i-fell-in-love-twice)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

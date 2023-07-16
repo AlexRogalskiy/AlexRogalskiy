@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Were these caves licked into place?](https://nautil.us/were-these-caves-licked-into-place-308450/)
-- [When Did Companies Become People? Excavating the Legal Evolution &lpar;2014&rpar;](https://www.npr.org/2014/07/28/335288388/when-did-companies-become-people-excavating-the-legal-evolution)
-- [City of Spies: DC Is the World Capital of Espionage](https://www.washingtonian.com/2023/07/13/city-of-spies-dc-is-the-world-capital-of-espionage/)
-- [Earhart: A Woman, the Myth, the Legend](https://raypatrick.xyz/blog/2023/06/17/earhart-the-woman-the-myth-the-legend/)
-- [Copilot chat like feature in Neovim?](https://github.com/jackMort/ChatGPT.nvim)
-- [The lady tasting tea experiment &lpar;2015&rpar;](https://brainder.org/2015/08/23/the-lady-tasting-tea-and-fishers-exact-test/)
-- [Ask HN: What&#39;s the longest uptime you have for a server?](https://news.ycombinator.com/item?id=36732692)
-- [The idea of “holobionts” represents a paradigm shift in biology](https://www.economist.com/science-and-technology/2023/06/14/the-idea-of-holobionts-represents-a-paradigm-shift-in-biology)
-- [Orange Book: Approved Drug Products with Therapeutic Equivalence Evaluations](https://www.accessdata.fda.gov/scripts/cder/ob/index.cfm)
-- [Douglas Hofstadter Changes His Mind on Deep Learning and A.I. Risk](https://www.nytimes.com/2023/07/13/opinion/ai-chatgpt-consciousness-hofstadter.html)
+- [The Mom Test by Rob Fitzpatrick](https://durmonski.com/book-summaries/the-mom-test/)
+- [Tesla Brings Full Wiper Controls to Steering Wheel via Software Update](https://insideevs.com/news/676764/tesla-full-wiper-control-software-update/)
+- [Benthos: Fancy stream processing made operationally mundane](https://www.benthos.dev/)
+- [Silverman’s lawsuit against OpenAI and Meta means](https://venturebeat.com/ai/what-sarah-silvermans-lawsuit-against-openai-and-meta-really-means-the-ai-beat/)
+- [Numbering Should Start at Zero](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD08xx/EWD831.html)
+- [The Perfect Laptop](https://blog.brossia.com/posts/the_perfect_laptop/)
+- [How to Become an Accredited Investor?](https://staythrive.com/web-stories/how-to-become-an-accredited-investor/)
+- [Ask HN: Where is the original Adobe Illustrator golfer.ps?](https://news.ycombinator.com/item?id=36742874)
+- [&#39;Human Beings Are Soon Going to Be Eclipsed&#39;](https://www.nytimes.com/2023/07/13/opinion/ai-chatgpt-consciousness-hofstadter.html)
+- [Heat wave: Tens of millions endure scorching temperatures across the U.S.](https://linkvertise.com/891170/heat-wave-tens-of-million?o=sharing)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

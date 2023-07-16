@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Ziplm: Gzip-Backed Language Model](https://github.com/Futrell/ziplm)
-- [History of T](http://www.paulgraham.com/thist.html)
-- [Tor is not just for anonymity](https://blog.pastly.net/posts/2022-11-09-tor-is-not-just-for-anonymity/)
-- [Akan Names](https://en.wikipedia.org/wiki/Akan_names)
-- [The cyberpragmatics of bounding asterisks &lpar;2013&rpar;](https://languagelog.ldc.upenn.edu/nll/?p=4466)
-- [2,500 continuous runtime hours on a 4.77Mhz DOS web server](http://brutmanlabs.org)
-- [Lies, damned lies: debunking Cloudflare’s recent performance tests &lpar;2021&rpar;](https://www.fastly.com/blog/debunking-cloudflares-recent-performance-tests)
-- [Polyhedral Splines](https://uf-cise-surflab.github.io/blender-polyhedral-splines-web/)
-- [Generate RSS feed for any website using CSS selectors](https://rss-bridge.org/bridge01/#bridge-CssSelectorBridge)
-- [On Becoming a VP of Engineering pt. 2](https://www.honeycomb.io/blog/becoming-vp-of-engineering-pt2)
+- [Teddit Is Shutting Down](https://tedd.it/shutdown)
+- [WormGPT – The Generative AI Tool Cybercriminals Are Using](https://slashnext.com/blog/wormgpt-the-generative-ai-tool-cybercriminals-are-using-to-launch-business-email-compromise-attacks/)
+- [PlanetPC XR ARM-based Desktop Linux Computers](https://store.planetcom.co.uk/collections/desktop-pcs)
+- [A Month on Chimera Linux](https://bitcannon.net/post/a-month-with-chimera-linux/)
+- [How does Sonic and Knuckles&#39; “Lock-On Technology” work? &lpar;2016&rpar;](https://retrocomputing.stackexchange.com/questions/1514/how-exactly-does-sonic-knuckles-lock-on-technology-work)
+- [New study gives clues on why exercise helps with inflammation](https://www.sciencedaily.com/releases/2023/06/230615183114.htm)
+- [The Haskell job market has been growing steaily since 2008](https://github.com/nh2/haskell-jobs-statistics)
+- [Ada Outperforms Assembly: A Case Study](https://www2.seas.gwu.edu/~adagroup/sigada-website/lawlis.html)
+- [A Third of North America’s Birds Have Vanished](https://nautil.us/a-third-of-north-americas-birds-have-vanished-340007/)
+- [Nobody cares about your blog](https://www.alexmolas.com/2023/07/15/nobody-cares-about-your-blog.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

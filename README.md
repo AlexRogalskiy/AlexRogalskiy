@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Mom Test by Rob Fitzpatrick](https://durmonski.com/book-summaries/the-mom-test/)
-- [Tesla Brings Full Wiper Controls to Steering Wheel via Software Update](https://insideevs.com/news/676764/tesla-full-wiper-control-software-update/)
-- [Benthos: Fancy stream processing made operationally mundane](https://www.benthos.dev/)
-- [Silverman’s lawsuit against OpenAI and Meta means](https://venturebeat.com/ai/what-sarah-silvermans-lawsuit-against-openai-and-meta-really-means-the-ai-beat/)
-- [Numbering Should Start at Zero](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD08xx/EWD831.html)
-- [The Perfect Laptop](https://blog.brossia.com/posts/the_perfect_laptop/)
-- [How to Become an Accredited Investor?](https://staythrive.com/web-stories/how-to-become-an-accredited-investor/)
-- [Ask HN: Where is the original Adobe Illustrator golfer.ps?](https://news.ycombinator.com/item?id=36742874)
-- [&#39;Human Beings Are Soon Going to Be Eclipsed&#39;](https://www.nytimes.com/2023/07/13/opinion/ai-chatgpt-consciousness-hofstadter.html)
-- [Heat wave: Tens of millions endure scorching temperatures across the U.S.](https://linkvertise.com/891170/heat-wave-tens-of-million?o=sharing)
+- [The Death of Globalization? You Won’t Find It in New Orleans](https://www.nytimes.com/2023/01/20/business/economy/globalization-new-orleans.html)
+- [Gameboy Camera Gallery](http://1x-upon.com/~despens/gameboy/)
+- [Goodbye to the Prophets of Doom](https://www.theatlantic.com/ideas/archive/2023/07/economics-inequality-piketty-milanovic/674702/)
+- [New Wildcatters Are Drilling for Limitless ‘Geologic’ Hydrogen](https://www.forbes.com/sites/alanohnsman/2023/06/26/forget-oil-new-wildcatters-are-drilling-for-limitless-geologic-hydrogen/)
+- [The fastest driver in Formula 1](https://aws.amazon.com/blogs/machine-learning/the-fastest-driver-in-formula-1/)
+- [Is a Glass of Wine Harmless? Wrong Question](https://www.theatlantic.com/ideas/archive/2023/07/moderate-drinking-heart-disesase-cancer/674692/)
+- [A Saudi firm tapped a gusher of water in drought-stricken Arizona](https://www.seattletimes.com/nation-world/how-a-saudi-firm-tapped-a-gusher-of-water-in-drought-stricken-arizona/)
+- [Frank fabricated 4.25M customers in JP Morgan fraud case](https://www.nbcnews.com/news/crime-courts/second-frank-financial-aid-executive-charged-jpmorgan-fraud-case-rcna94564)
+- [Moodle: Open-Source LMS](https://moodle.org/)
+- [Go: Life Itself](https://tromp.github.io/gostory.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

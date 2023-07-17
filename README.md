@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Teddit Is Shutting Down](https://tedd.it/shutdown)
-- [WormGPT – The Generative AI Tool Cybercriminals Are Using](https://slashnext.com/blog/wormgpt-the-generative-ai-tool-cybercriminals-are-using-to-launch-business-email-compromise-attacks/)
-- [PlanetPC XR ARM-based Desktop Linux Computers](https://store.planetcom.co.uk/collections/desktop-pcs)
-- [A Month on Chimera Linux](https://bitcannon.net/post/a-month-with-chimera-linux/)
-- [How does Sonic and Knuckles&#39; “Lock-On Technology” work? &lpar;2016&rpar;](https://retrocomputing.stackexchange.com/questions/1514/how-exactly-does-sonic-knuckles-lock-on-technology-work)
-- [New study gives clues on why exercise helps with inflammation](https://www.sciencedaily.com/releases/2023/06/230615183114.htm)
-- [The Haskell job market has been growing steaily since 2008](https://github.com/nh2/haskell-jobs-statistics)
-- [Ada Outperforms Assembly: A Case Study](https://www2.seas.gwu.edu/~adagroup/sigada-website/lawlis.html)
-- [A Third of North America’s Birds Have Vanished](https://nautil.us/a-third-of-north-americas-birds-have-vanished-340007/)
-- [Nobody cares about your blog](https://www.alexmolas.com/2023/07/15/nobody-cares-about-your-blog.html)
+- [LazyVim](https://www.lazyvim.org/)
+- [Camneerg: The Mac Plus Web Server](https://www.spacerogue.net/Camneerg/)
+- [Johnson and Johnson sues researchers who linked talc to cancer](https://www.reuters.com/legal/litigation/johnson-johnson-sues-researchers-who-linked-talc-cancer-2023-07-13/)
+- [LOGO Manual by Abelson, Goodman, and Rudolph &lpar;1974&rpar; [pdf]](https://dspace.mit.edu/bitstream/handle/1721.1/6226/AIM-313.pdf)
+- [Ill in England? Your Location Can Determine If You Live or Die](https://www.bloomberg.com/graphics/2023-nhs-missing-targets-on-75th-anniversary/)
+- [Symbolics CGI production notes: How Stanley and Stella came together &lpar;1988&rpar;](https://archive.org/details/how-stanley-and-stella-came-together-sgd-s-news-march-1988)
+- [Using XPath in 2023](https://denizaksimsek.com/2023/xpath/)
+- [Red Programming Language](https://www.red-lang.org/p/about.html)
+- [Undocumented 8086 instructions, explained by the microcode](https://www.righto.com/2023/07/undocumented-8086-instructions.html)
+- [Grav is a modern open-source flat-file CMS](https://getgrav.org/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

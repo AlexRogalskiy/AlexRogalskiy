@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war at a glance: what we know on day 508 of the invasion](https://www.theguardian.com/world/2023/jul/16/russia-ukraine-war-at-a-glance-what-we-know-on-day-508-of-the-invasion)
-- [How Britain became the G7’s inflation outlier – in one chart](https://www.theguardian.com/business/2023/jul/16/how-britain-became-the-g7s-inflation-outlier-in-one-chart)
-- [Justin Welby says it was ‘a privilege to be her son’, after mother dies at 93](https://www.theguardian.com/uk-news/2023/jul/16/justin-welby-says-it-was-a-privilege-to-be-her-son-after-mother-dies-at-93)
-- [Fire breaks out at Royal Albion hotel in Brighton](https://www.theguardian.com/uk-news/2023/jul/15/fire-breaks-out-at-royal-albion-hotel-in-brighton)
-- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2023/jul/15/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Summer packing: the holiday capsule wardrobe – in pictures](https://www.theguardian.com/fashion/gallery/2023/jul/15/summer-packing-the-holiday-capsule-wardrobe-in-pictures)
-- [Teenager arrested after boy, 17, killed in north-west London](https://www.theguardian.com/uk-news/2023/jul/15/seventeen-year-old-boy-killed-in-north-west-london-stabbing)
-- [Five arrested after climate protest at Ineos oil refinery in Scotland](https://www.theguardian.com/environment/2023/jul/15/five-arrested-after-climate-protest-at-ineos-oil-refinery-in-scotland)
-- [Kohler-Cadmore’s stunning catch helps Somerset sink Essex and win T20 Blast](https://www.theguardian.com/sport/2023/jul/15/somerset-sink-essex-to-win-t20-blast-after-years-of-near-misses)
-- [The moment I knew: she was the most beautiful woman I’d ever seen, and I fell in love – twice](https://www.theguardian.com/lifeandstyle/2023/jul/16/the-moment-i-knew-she-was-the-most-beautiful-woman-id-ever-seen-and-i-fell-in-love-twice)
+- [Russia-Ukraine war live: traffic stopped on Crimean bridge due to ‘emergency’, governor says, as explosions reported](https://www.theguardian.com/world/live/2023/jul/17/russia-ukraine-war-live-crimean-bridge-emergency-traffic-stops-explosion)
+- [Extreme heatwave live updates: hundreds of millions from US to Europe and Asia hit by severe heat](https://www.theguardian.com/environment/live/2023/jul/17/europe-heatwave-2023-us-asia-heat-extreme-severe-weather-fires-flash-floods-flooding-record-breaking-heat-wave-stress-temperature-red-alert-climate-crisis)
+- [South Korea floods: 13 bodies pulled from road tunnel as search continues](https://www.theguardian.com/world/2023/jul/17/south-korea-floods-flooding-death-toll-cheongju-road-tunnel-search)
+- [China GDP growth falls short of expectations as sinking property prices hit economy](https://www.theguardian.com/business/2023/jul/17/china-gdp-growth-down-economy-june-quarter-gross-domestic-profit)
+- [Has Britain become a country of shoplifters? – podcast](https://www.theguardian.com/news/audio/2023/jul/17/has-britain-become-a-country-of-shoplifters-podcast)
+- [Lionel Messi unveiled as Inter Miami player in front of crowd of thousands](https://www.theguardian.com/football/2023/jul/16/lionel-messi-unveiled-as-inter-miami-player-in-front-of-crowd-of-thousands)
+- [Russia-Ukraine war at a glance: what we know on day 509 of the invasion](https://www.theguardian.com/world/2023/jul/17/russia-ukraine-war-at-a-glance-what-we-know-on-day-509-of-the-invasion)
+- [New Zealand PM says Pacific region less secure amid China’s rise](https://www.theguardian.com/world/2023/jul/17/chris-hipkins-new-zealand-pm-prime-minister-pacific-region-less-secure-china)
+- [Iran’s ‘morality police’ resume patrols 10 months after nationwide protests](https://www.theguardian.com/world/2023/jul/17/irans-morality-police-resume-patrols-10-months-after-nationwide-protests)
+- [Russia seizes control of shares in Danone and Carlsberg subsidiaries](https://www.theguardian.com/world/2023/jul/17/russia-seizes-control-of-shares-in-danone-and-carlsberg-subsidiaries)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [LazyVim](https://www.lazyvim.org/)
-- [Camneerg: The Mac Plus Web Server](https://www.spacerogue.net/Camneerg/)
-- [Johnson and Johnson sues researchers who linked talc to cancer](https://www.reuters.com/legal/litigation/johnson-johnson-sues-researchers-who-linked-talc-cancer-2023-07-13/)
-- [LOGO Manual by Abelson, Goodman, and Rudolph &lpar;1974&rpar; [pdf]](https://dspace.mit.edu/bitstream/handle/1721.1/6226/AIM-313.pdf)
-- [Ill in England? Your Location Can Determine If You Live or Die](https://www.bloomberg.com/graphics/2023-nhs-missing-targets-on-75th-anniversary/)
-- [Symbolics CGI production notes: How Stanley and Stella came together &lpar;1988&rpar;](https://archive.org/details/how-stanley-and-stella-came-together-sgd-s-news-march-1988)
-- [Using XPath in 2023](https://denizaksimsek.com/2023/xpath/)
-- [Red Programming Language](https://www.red-lang.org/p/about.html)
-- [Undocumented 8086 instructions, explained by the microcode](https://www.righto.com/2023/07/undocumented-8086-instructions.html)
-- [Grav is a modern open-source flat-file CMS](https://getgrav.org/)
+- [A driver-owned alternative to Uber and Lyft is on the verge of profitability](https://nextcity.org/urbanist-news/new-yorks-driver-owned-ride-hailing-app-is-putting-its-foot-on-the-accelera)
+- [fMRI-to-Image with Contrastive Learning and Diffusion Priors](https://stability.ai/research/minds-eye)
+- [StableDiffusion can now run directly in the browser on WebGPU](https://islamov.ai/stable-diffusion-webgpu/)
+- [MixRank &lpar;YC S11&rpar; Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=36766395)
+- [Loss of smell may be an early sign of brain diseases](https://nautil.us/loss-of-smell-may-be-an-early-sign-of-brain-diseases-354483/)
+- [Never waste a midlife crisis](https://austinkleon.com/2023/07/10/never-waste-a-midlife-crisis/)
+- [Ask HN: Whatever happened to the “coming wave” of delivery drones?](https://news.ycombinator.com/item?id=36764829)
+- [Official Chrome extension to use iCloud Keychain Passwords](https://chrome.google.com/webstore/detail/icloud-passwords/pejdijmoenmkgeppbflobdenhhabjlaj)
+- [Computer memory prototype ditches 1s and 0s for denser data storage](https://newatlas.com/electronics/computer-memory-resistive-switching-denser-data-storage/)
+- [Are large language models a threat to digital public goods?](https://arxiv.org/abs/2307.07367)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

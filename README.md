@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
+- [Apple Silicon isn&#39;t waiting for the PC world to catch up](https://www.computerworld.com/article/3702868/apple-silicon-isnt-waiting-for-the-pc-world-to-catch-up.html#tk.rss_all)
+- [For tech users, change is good](https://www.computerworld.com/article/3702869/for-tech-users-change-is-good.html#tk.rss_all)
+- [Q&amp;A: HPE global talent exec credits AI, chatbots for bolstering hiring](https://www.computerworld.com/article/3702655/qa-hpe-global-talent-exec-credits-ai-chatbots-for-bolstering-hiring.html#tk.rss_all)
 - [Four zero-days make July &#39;s Patch Tuesday a &#39;patch now&#39; update](https://www.computerworld.com/article/3702731/four-zero-days-make-july-s-patch-tuesday-a-patch-now-update.html#tk.rss_all)
 - [New EU battery law could mean EOL for low-cost smartphones](https://www.computerworld.com/article/3702729/new-eu-battery-law-could-mean-eol-for-low-cost-smartphones.html#tk.rss_all)
 - [FTC reported to be investigating OpenAI for consumer protection violations](https://www.computerworld.com/article/3702709/ftc-reported-to-be-investigating-openai-for-consumer-protection-violations.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [Google Bard launches in EU, overcoming data privacy concerns in the region](https://www.computerworld.com/article/3702768/google-bard-launches-in-eu-overcoming-data-privacy-concerns-in-the-region.html#tk.rss_all)
 - [Apple launches Tap to Pay on iPhone for UK business](https://www.computerworld.com/article/3702728/apple-launches-tap-to-pay-on-iphone-for-uk-business.html#tk.rss_all)
-- [Microsoft Dev Box — a better path to provisioning and productivity?](https://www.computerworld.com/article/3702648/microsoft-dev-box-a-better-path-to-employee-provisioning-and-productivity.html#tk.rss_all)
-- [7 questions to ask when considering a new Apple MDM platform](https://www.computerworld.com/article/3699070/7-questions-to-ask-when-considering-a-new-apple-mdm-platform.html#tk.rss_all)
-- [Elon Musk launches xAI to take on ChatGPT-maker OpenAI](https://www.computerworld.com/article/3702708/elon-musk-launches-xai-to-take-on-chatgpt-maker-openai.html#tk.rss_all)
-- [EU-US Data Privacy Framework to face serious legal challenges, experts say](https://www.computerworld.com/article/3702550/eu-us-data-privacy-framework-to-face-serious-legal-challenges-experts-say.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

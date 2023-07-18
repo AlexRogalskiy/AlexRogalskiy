@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Death of Globalization? You Won’t Find It in New Orleans](https://www.nytimes.com/2023/01/20/business/economy/globalization-new-orleans.html)
-- [Gameboy Camera Gallery](http://1x-upon.com/~despens/gameboy/)
-- [Goodbye to the Prophets of Doom](https://www.theatlantic.com/ideas/archive/2023/07/economics-inequality-piketty-milanovic/674702/)
-- [New Wildcatters Are Drilling for Limitless ‘Geologic’ Hydrogen](https://www.forbes.com/sites/alanohnsman/2023/06/26/forget-oil-new-wildcatters-are-drilling-for-limitless-geologic-hydrogen/)
-- [The fastest driver in Formula 1](https://aws.amazon.com/blogs/machine-learning/the-fastest-driver-in-formula-1/)
-- [Is a Glass of Wine Harmless? Wrong Question](https://www.theatlantic.com/ideas/archive/2023/07/moderate-drinking-heart-disesase-cancer/674692/)
-- [A Saudi firm tapped a gusher of water in drought-stricken Arizona](https://www.seattletimes.com/nation-world/how-a-saudi-firm-tapped-a-gusher-of-water-in-drought-stricken-arizona/)
-- [Frank fabricated 4.25M customers in JP Morgan fraud case](https://www.nbcnews.com/news/crime-courts/second-frank-financial-aid-executive-charged-jpmorgan-fraud-case-rcna94564)
-- [Moodle: Open-Source LMS](https://moodle.org/)
-- [Go: Life Itself](https://tromp.github.io/gostory.html)
+- [Underground Cells Make ‘Dark Oxygen’ Without Light](https://www.quantamagazine.org/underground-cells-make-dark-oxygen-without-light-20230717/)
+- [Render Unto the Machine](https://theconvivialsociety.substack.com/p/render-unto-the-machine)
+- [Long Covid treatment: randomized, quadruple-blind, parallel-group, phase 3 trial](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(23)00299-2/fulltext)
+- [Hacked](https://news.ycombinator.com/item?id=36767192)
+- [Ask HN: AI can make fabulous looking artwork, can it do the same for websites?](https://news.ycombinator.com/item?id=36767191)
+- [Hallucinations in AI: A Comprehensive Guide](https://www.pinecone.io/learn/ai-hallucinations/)
+- [The future of “truth” on the Internet &lpar;C2PA explainer&rpar;](https://www.youtube.com/watch?v=-Bdb2KOb_zI)
+- [Lwn.net: PostgreSQL reconsiders its process-based model](https://lwn.net/Articles/934940/)
+- [A few things to know before stealing my 914](https://www.hagerty.com/media/advice/a-few-things-to-know-before-you-steal-my-914/)
+- [Always Merge to Main](https://ergomake.dev/blog/trunk-based/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

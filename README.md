@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war live: traffic stopped on Crimean bridge due to ‘emergency’, governor says, as explosions reported](https://www.theguardian.com/world/live/2023/jul/17/russia-ukraine-war-live-crimean-bridge-emergency-traffic-stops-explosion)
-- [Extreme heatwave live updates: hundreds of millions from US to Europe and Asia hit by severe heat](https://www.theguardian.com/environment/live/2023/jul/17/europe-heatwave-2023-us-asia-heat-extreme-severe-weather-fires-flash-floods-flooding-record-breaking-heat-wave-stress-temperature-red-alert-climate-crisis)
-- [South Korea floods: 13 bodies pulled from road tunnel as search continues](https://www.theguardian.com/world/2023/jul/17/south-korea-floods-flooding-death-toll-cheongju-road-tunnel-search)
-- [China GDP growth falls short of expectations as sinking property prices hit economy](https://www.theguardian.com/business/2023/jul/17/china-gdp-growth-down-economy-june-quarter-gross-domestic-profit)
-- [Has Britain become a country of shoplifters? – podcast](https://www.theguardian.com/news/audio/2023/jul/17/has-britain-become-a-country-of-shoplifters-podcast)
-- [Lionel Messi unveiled as Inter Miami player in front of crowd of thousands](https://www.theguardian.com/football/2023/jul/16/lionel-messi-unveiled-as-inter-miami-player-in-front-of-crowd-of-thousands)
-- [Russia-Ukraine war at a glance: what we know on day 509 of the invasion](https://www.theguardian.com/world/2023/jul/17/russia-ukraine-war-at-a-glance-what-we-know-on-day-509-of-the-invasion)
-- [New Zealand PM says Pacific region less secure amid China’s rise](https://www.theguardian.com/world/2023/jul/17/chris-hipkins-new-zealand-pm-prime-minister-pacific-region-less-secure-china)
-- [Iran’s ‘morality police’ resume patrols 10 months after nationwide protests](https://www.theguardian.com/world/2023/jul/17/irans-morality-police-resume-patrols-10-months-after-nationwide-protests)
-- [Russia seizes control of shares in Danone and Carlsberg subsidiaries](https://www.theguardian.com/world/2023/jul/17/russia-seizes-control-of-shares-in-danone-and-carlsberg-subsidiaries)
+- [Could your clothes be making you sick? | Podcast](https://www.theguardian.com/news/audio/2023/jul/18/could-your-clothes-be-making-you-sick-podcast)
+- [Australia Commonwealth Games 2026: Victoria cancels event after costs blow out to $7bn](https://www.theguardian.com/australia-news/2023/jul/18/australia-commonwealth-games-2026-victoria-cancels-event-after-funding-shortfall)
+- [Tesla directors agree to return $735m to settle claims they were grossly overpaid](https://www.theguardian.com/technology/2023/jul/17/tesla-directors-compensation-lawsuit-settlement)
+- [Russia-Ukraine war at a glance: what we know on day 510 of the invasion](https://www.theguardian.com/world/2023/jul/18/russia-ukraine-war-at-a-glance-what-we-know-on-day-510-of-the-invasion)
+- [Striking Hollywood stars meet with union to discuss actors’ walkout](https://www.theguardian.com/culture/2023/jul/17/striking-hollywood-stars-sag-aftra-union)
+- [John Kerry aims to put China tensions aside at crucial climate talks](https://www.theguardian.com/environment/2023/jul/18/john-kerry-climate-crisis-china-xie)
+- [AI could worsen epidemic of child sexual abuse, warns UK crime agency](https://www.theguardian.com/society/2023/jul/18/ai-could-worsen-epidemic-of-child-sexual-abuse-warns-uk-agency)
+- [Met to use counter-terrorism tactics against worst male predators](https://www.theguardian.com/uk-news/2023/jul/18/met-to-use-counter-terrorism-tactics-against-worst-male-predators)
+- [Shapps announces £157m in grants at launch of new UK nuclear body](https://www.theguardian.com/business/2023/jul/18/grants-of-157m-offered-in-support-of-uks-nuclear-power-industry)
+- [Public sector pay rises of 10% would add little to inflation, says UK thinktank](https://www.theguardian.com/society/2023/jul/18/sector-pay-rises-10-per-cent-add-little-to-inflation-uk-thinktank-ippr-rishi-sunak)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Could your clothes be making you sick? | Podcast](https://www.theguardian.com/news/audio/2023/jul/18/could-your-clothes-be-making-you-sick-podcast)
-- [Australia Commonwealth Games 2026: Victoria cancels event after costs blow out to $7bn](https://www.theguardian.com/australia-news/2023/jul/18/australia-commonwealth-games-2026-victoria-cancels-event-after-funding-shortfall)
-- [Tesla directors agree to return $735m to settle claims they were grossly overpaid](https://www.theguardian.com/technology/2023/jul/17/tesla-directors-compensation-lawsuit-settlement)
-- [Russia-Ukraine war at a glance: what we know on day 510 of the invasion](https://www.theguardian.com/world/2023/jul/18/russia-ukraine-war-at-a-glance-what-we-know-on-day-510-of-the-invasion)
-- [Striking Hollywood stars meet with union to discuss actors’ walkout](https://www.theguardian.com/culture/2023/jul/17/striking-hollywood-stars-sag-aftra-union)
-- [John Kerry aims to put China tensions aside at crucial climate talks](https://www.theguardian.com/environment/2023/jul/18/john-kerry-climate-crisis-china-xie)
-- [AI could worsen epidemic of child sexual abuse, warns UK crime agency](https://www.theguardian.com/society/2023/jul/18/ai-could-worsen-epidemic-of-child-sexual-abuse-warns-uk-agency)
-- [Met to use counter-terrorism tactics against worst male predators](https://www.theguardian.com/uk-news/2023/jul/18/met-to-use-counter-terrorism-tactics-against-worst-male-predators)
-- [Shapps announces £157m in grants at launch of new UK nuclear body](https://www.theguardian.com/business/2023/jul/18/grants-of-157m-offered-in-support-of-uks-nuclear-power-industry)
-- [Public sector pay rises of 10% would add little to inflation, says UK thinktank](https://www.theguardian.com/society/2023/jul/18/sector-pay-rises-10-per-cent-add-little-to-inflation-uk-thinktank-ippr-rishi-sunak)
+- [The World Cup and the future of women’s football - podcast](https://www.theguardian.com/news/audio/2023/jul/19/world-cup-future-of-womens-football-podcast)
+- [Thailand: Move Forward leader faces fresh vote in battle to become PM](https://www.theguardian.com/world/2023/jul/19/thailand-pm-vote-move-forward-leader-pita-limjaroenrat)
+- [US soldier detained by North Korea after crossing border during visit to DMZ](https://www.theguardian.com/world/2023/jul/18/us-citizen-crosses-border-from-south-korea-into-north-korea)
+- [Belarus arrests prominent journalist amid wider crackdown on opposition figures](https://www.theguardian.com/world/2023/jul/19/belarus-arrests-prominent-journalist-amid-wider-crackdown-on-opposition-figures)
+- [Russia-Ukraine war at a glance: what we know on day 511 of the invasion](https://www.theguardian.com/world/2023/jul/19/russia-ukraine-war-at-a-glance-what-we-know-on-day-511-of-the-invasion)
+- [Ports rebuff UK plan to house asylum seekers on cruise ships](https://www.theguardian.com/uk-news/2023/jul/19/ports-rebuff-uk-plan-to-house-asylum-seekers-on-cruise-ships)
+- [Is Cricket Racist? review – the answer can only be one thing: ‘very’](https://www.theguardian.com/tv-and-radio/2023/jul/19/is-cricket-racist-review-the-answer-can-only-be-one-thing-very)
+- [Rural bus services hit new low after losing out on post-Covid funding](https://www.theguardian.com/uk-news/2023/jul/19/rural-bus-services-hit-new-low-after-losing-out-on-post-covid-funding)
+- [Less than half of annual tree-planting target in England met, say MPs](https://www.theguardian.com/environment/2023/jul/19/half-annual-tree-planting-target-england-met-mp-report)
+- [Light and noise pollution ‘are neglected health hazards’, say peers](https://www.theguardian.com/environment/2023/jul/19/light-and-noise-pollution-are-neglected-health-hazards-say-peers)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Underground Cells Make ‘Dark Oxygen’ Without Light](https://www.quantamagazine.org/underground-cells-make-dark-oxygen-without-light-20230717/)
-- [Render Unto the Machine](https://theconvivialsociety.substack.com/p/render-unto-the-machine)
-- [Long Covid treatment: randomized, quadruple-blind, parallel-group, phase 3 trial](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(23)00299-2/fulltext)
-- [Hacked](https://news.ycombinator.com/item?id=36767192)
-- [Ask HN: AI can make fabulous looking artwork, can it do the same for websites?](https://news.ycombinator.com/item?id=36767191)
-- [Hallucinations in AI: A Comprehensive Guide](https://www.pinecone.io/learn/ai-hallucinations/)
-- [The future of “truth” on the Internet &lpar;C2PA explainer&rpar;](https://www.youtube.com/watch?v=-Bdb2KOb_zI)
-- [Lwn.net: PostgreSQL reconsiders its process-based model](https://lwn.net/Articles/934940/)
-- [A few things to know before stealing my 914](https://www.hagerty.com/media/advice/a-few-things-to-know-before-you-steal-my-914/)
-- [Always Merge to Main](https://ergomake.dev/blog/trunk-based/)
+- [Wilhelm Scream](https://en.wikipedia.org/wiki/Wilhelm_scream)
+- [The Far Right Made Common Cause with Islamists](https://newlinesmag.com/argument/the-red-pillers-of-islam/)
+- [Review of the Prisons’ Custody, Care, and Supervision of Jeffrey Epstein](https://oig.justice.gov/reports/investigation-and-review-federal-bureau-prisons-custody-care-and-supervision-jeffrey)
+- [In-N-Out bans employees from wearing masks](https://www.latimes.com/business/story/2023-07-17/in-n-out-bans-employees-from-wearing-masks)
+- [IMAX projector motors are controlled using an emulated PalmOS app](https://twitter.com/LudyLotad/status/1681341878476718097)
+- [Why Are Emulators Legal? Dolphin vs. Nintendo and the Fate of Emulation [video]](https://www.youtube.com/watch?v=wROQUZDCIMI)
+- [Why Open-Source a Model?](https://matt-rickard.com/why-open-source-a-model)
+- [CEO of crypto exchange EminiFX sentenced to 9 years for $240M fraud](https://www.justice.gov/usao-sdny/pr/ceo-cryptocurrency-and-forex-trading-platform-sentenced-nine-years-prison-240-million)
+- [Embedded Generative AI Will Power Game Characters](https://spectrum.ieee.org/generative-game-ai)
+- [A Story of a Stone](https://amerisurv.com/2023/06/10/a-story-of-a-stone/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [A driver-owned alternative to Uber and Lyft is on the verge of profitability](https://nextcity.org/urbanist-news/new-yorks-driver-owned-ride-hailing-app-is-putting-its-foot-on-the-accelera)
-- [fMRI-to-Image with Contrastive Learning and Diffusion Priors](https://stability.ai/research/minds-eye)
-- [StableDiffusion can now run directly in the browser on WebGPU](https://islamov.ai/stable-diffusion-webgpu/)
-- [MixRank &lpar;YC S11&rpar; Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=36766395)
-- [Loss of smell may be an early sign of brain diseases](https://nautil.us/loss-of-smell-may-be-an-early-sign-of-brain-diseases-354483/)
-- [Never waste a midlife crisis](https://austinkleon.com/2023/07/10/never-waste-a-midlife-crisis/)
-- [Ask HN: Whatever happened to the “coming wave” of delivery drones?](https://news.ycombinator.com/item?id=36764829)
-- [Official Chrome extension to use iCloud Keychain Passwords](https://chrome.google.com/webstore/detail/icloud-passwords/pejdijmoenmkgeppbflobdenhhabjlaj)
-- [Computer memory prototype ditches 1s and 0s for denser data storage](https://newatlas.com/electronics/computer-memory-resistive-switching-denser-data-storage/)
-- [Are large language models a threat to digital public goods?](https://arxiv.org/abs/2307.07367)
+- [Intel and ASUS Agree to Term Sheet to Take NUC Systems Product Line Forward](https://www.intel.com/content/www/us/en/newsroom/news/intel-nuc-systems-agreement.html)
+- [&lpar;Databricks cofounder&rpar; How Is ChatGPT’s Behavior Changing over Time?](https://arxiv.org/abs/2307.09009)
+- [Google restricting internet access to some employees for security](https://www.cnbc.com/2023/07/18/google-restricting-internet-access-to-some-employees-for-security.html)
+- [Enigma Crypto Transmission from KPH at 426 KHz and Shortwave](https://www.radiomarine.org/mrhs-events)
+- [Gym Class VR &lpar;YC W22&rpar; Is Hiring Back End Engineering](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ADcM4ZV-backend-engineer)
+- [Quantum physicists explained earth’s oscillating weather patterns](https://www.quantamagazine.org/how-quantum-physics-describes-earths-weather-patterns-20230718/)
+- [Lazydocker: a lazier way to manage everything Docker](https://github.com/jesseduffield/lazydocker)
+- [Cython 3.0 Released](https://cython.readthedocs.io/en/latest/src/changes.html)
+- [Val, a high-level systems programming language](https://www.val-lang.dev/)
+- [Tesla directors agree to return $735M following claims they were overpaid](https://www.engadget.com/tesla-directors-agree-to-return-735-million-following-claims-they-were-massively-overpaid-105506056.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

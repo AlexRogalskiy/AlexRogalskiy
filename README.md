@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Intel and ASUS Agree to Term Sheet to Take NUC Systems Product Line Forward](https://www.intel.com/content/www/us/en/newsroom/news/intel-nuc-systems-agreement.html)
-- [&lpar;Databricks cofounder&rpar; How Is ChatGPT’s Behavior Changing over Time?](https://arxiv.org/abs/2307.09009)
-- [Google restricting internet access to some employees for security](https://www.cnbc.com/2023/07/18/google-restricting-internet-access-to-some-employees-for-security.html)
-- [Enigma Crypto Transmission from KPH at 426 KHz and Shortwave](https://www.radiomarine.org/mrhs-events)
-- [Gym Class VR &lpar;YC W22&rpar; Is Hiring Back End Engineering](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ADcM4ZV-backend-engineer)
-- [Quantum physicists explained earth’s oscillating weather patterns](https://www.quantamagazine.org/how-quantum-physics-describes-earths-weather-patterns-20230718/)
-- [Lazydocker: a lazier way to manage everything Docker](https://github.com/jesseduffield/lazydocker)
-- [Cython 3.0 Released](https://cython.readthedocs.io/en/latest/src/changes.html)
-- [Val, a high-level systems programming language](https://www.val-lang.dev/)
-- [Tesla directors agree to return $735M following claims they were overpaid](https://www.engadget.com/tesla-directors-agree-to-return-735-million-following-claims-they-were-massively-overpaid-105506056.html)
+- [Delta passengers fall ill while stuck for hours during blistering Vegas heatwave](https://www.nbcnews.com/news/us-news/delta-passengers-fall-ill-stuck-tarmac-hours-blistering-las-vegas-heat-rcna95050)
+- [CIA: Spy Games for Kids](https://www.cia.gov/spy-kids/games/index.html)
+- [Kevin Mitnick has died](https://www.dignitymemorial.com/obituaries/las-vegas-nv/kevin-mitnick-11371668)
+- [The Danger of Popcorn Polymer: Incident at the TPC Group Chemical Plant [video]](https://www.youtube.com/watch?v=6-3BFXpBcjc)
+- [Novel method of cold water immersion for heat stroke](https://onlinelibrary.wiley.com/doi/epdf/10.1002/emp2.12007)
+- [Top Software Trends Reports for 2023](http://www.ofbizian.com/2023/07/top-20-must-read-software-reports.html)
+- [The open source learning curve for AI researchers](https://www.supervised.news/p/the-open-source-learning-curve-for)
+- [Geothermal Ahead of Schedule](https://twitter.com/TimMLatimer/status/1681304496234991620)
+- [A framework to securely use LLMs in companies – Part 1: Overview of Risks](https://boringappsec.substack.com/p/edition-21-a-framework-to-securely)
+- [Sins of the salmon kings](https://www.thedial.world/issue-6/salmon-farming-norway-ethics-literature)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

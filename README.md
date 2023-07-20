@@ -355,6 +355,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Apple Watch rumor hints it&#39;s time for 3D printing to go mainstream](https://www.computerworld.com/article/3702718/apple-watch-rumor-hints-its-time-for-3d-printing-to-go-mainstream.html#tk.rss_all)
+- [UN Security Council discusses AI risks, need for ethical regulation](https://www.computerworld.com/article/3702716/un-security-council-discusses-ai-risks-need-for-ethical-regulation.html#tk.rss_all)
+- [AI-skills job postings jump 450%; here&#39;s what companies want](https://www.computerworld.com/article/3702711/ai-skills-job-postings-jump-450-heres-what-companies-want.html#tk.rss_all)
 - [Microsoft unveils Copilot pricing, adds new generative AI capabilities](https://www.computerworld.com/article/3702658/microsoft-unveils-copilot-pricing-adds-new-generative-ai-capabilities.html#tk.rss_all)
 - [This is why personal encryption is vital to the future of business](https://www.computerworld.com/article/3702775/this-is-why-personal-encryption-is-vital-to-the-future-of-business.html#tk.rss_all)
 - [Microsoft Loop cheat sheet](https://www.computerworld.com/article/3702393/how-to-use-microsoft-loop-app.html#tk.rss_all)
@@ -362,9 +365,6 @@
 - [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
 - [Apple Silicon isn&#39;t waiting for the PC world to catch up](https://www.computerworld.com/article/3702868/apple-silicon-isnt-waiting-for-the-pc-world-to-catch-up.html#tk.rss_all)
 - [For tech users, change is good](https://www.computerworld.com/article/3702869/for-tech-users-change-is-good.html#tk.rss_all)
-- [Q&amp;A: HPE global talent exec credits AI, chatbots for bolstering hiring](https://www.computerworld.com/article/3702655/qa-hpe-global-talent-exec-credits-ai-chatbots-for-bolstering-hiring.html#tk.rss_all)
-- [Four zero-days make July &#39;s Patch Tuesday a &#39;patch now&#39; update](https://www.computerworld.com/article/3702731/four-zero-days-make-july-s-patch-tuesday-a-patch-now-update.html#tk.rss_all)
-- [New EU battery law could mean EOL for low-cost smartphones](https://www.computerworld.com/article/3702729/new-eu-battery-law-could-mean-eol-for-low-cost-smartphones.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

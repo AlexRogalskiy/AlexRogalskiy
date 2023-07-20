@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [The World Cup and the future of women’s football - podcast](https://www.theguardian.com/news/audio/2023/jul/19/world-cup-future-of-womens-football-podcast)
-- [Thailand: Move Forward leader faces fresh vote in battle to become PM](https://www.theguardian.com/world/2023/jul/19/thailand-pm-vote-move-forward-leader-pita-limjaroenrat)
-- [US soldier detained by North Korea after crossing border during visit to DMZ](https://www.theguardian.com/world/2023/jul/18/us-citizen-crosses-border-from-south-korea-into-north-korea)
-- [Belarus arrests prominent journalist amid wider crackdown on opposition figures](https://www.theguardian.com/world/2023/jul/19/belarus-arrests-prominent-journalist-amid-wider-crackdown-on-opposition-figures)
-- [Russia-Ukraine war at a glance: what we know on day 511 of the invasion](https://www.theguardian.com/world/2023/jul/19/russia-ukraine-war-at-a-glance-what-we-know-on-day-511-of-the-invasion)
-- [Ports rebuff UK plan to house asylum seekers on cruise ships](https://www.theguardian.com/uk-news/2023/jul/19/ports-rebuff-uk-plan-to-house-asylum-seekers-on-cruise-ships)
-- [Is Cricket Racist? review – the answer can only be one thing: ‘very’](https://www.theguardian.com/tv-and-radio/2023/jul/19/is-cricket-racist-review-the-answer-can-only-be-one-thing-very)
-- [Rural bus services hit new low after losing out on post-Covid funding](https://www.theguardian.com/uk-news/2023/jul/19/rural-bus-services-hit-new-low-after-losing-out-on-post-covid-funding)
-- [Less than half of annual tree-planting target in England met, say MPs](https://www.theguardian.com/environment/2023/jul/19/half-annual-tree-planting-target-england-met-mp-report)
-- [Light and noise pollution ‘are neglected health hazards’, say peers](https://www.theguardian.com/environment/2023/jul/19/light-and-noise-pollution-are-neglected-health-hazards-say-peers)
+- [Extreme heat: a warning shot from nature | podcast](https://www.theguardian.com/news/audio/2023/jul/20/extreme-heat-a-warning-shot-from-nature-podcast)
+- [New Zealand shooting: gunman kills two in Auckland hours before World Cup opening](https://www.theguardian.com/world/2023/jul/20/auckland-shooting-police-shut-down-cbd-streets-amid-reports-of-gunman)
+- [Women’s World Cup 2023: opening game to go ahead as players speak about Auckland shooting](https://www.theguardian.com/football/2023/jul/20/womens-world-cup-2023-players-norway-uswnt-new-zealand-auckland-shooting)
+- [Russia may attack civilian ships in Black Sea and blame Ukraine, US warns](https://www.theguardian.com/world/2023/jul/20/russia-may-attack-civilian-ships-in-black-sea-and-blame-ukraine-us-warns)
+- [US soldier was reportedly laughing when crossing border into North Korea](https://www.theguardian.com/us-news/2023/jul/19/us-soldier-north-korea-border-travis-king)
+- [Russia-Ukraine war at a glance: what we know on day 512 of the invasion](https://www.theguardian.com/world/2023/jul/20/russia-ukraine-war-at-a-glance-what-we-know-on-day-512-of-the-invasion)
+- [Tesla beats Wall Street expectations to produce record number of vehicles](https://www.theguardian.com/technology/2023/jul/19/tesla-q2-2023-earnings-production-report-elon-musk)
+- [Islas Malvinas: EU signs deal using Falklands’ Argentine name](https://www.theguardian.com/uk-news/2023/jul/20/islas-malvinas-brexit-cited-as-eu-endorses-falklands-argentine-name)
+- [People who murder ex-partners could face longer sentences](https://www.theguardian.com/uk-news/2023/jul/20/people-who-ex-partners-could-face-longer-sentences)
+- [TikTok is the most popular news source for 12 to 15-year-olds, says Ofcom](https://www.theguardian.com/technology/2023/jul/20/tiktok-is-the-most-popular-news-source-for-12-to-15-year-olds-says-ofcom)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

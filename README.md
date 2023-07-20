@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Wilhelm Scream](https://en.wikipedia.org/wiki/Wilhelm_scream)
-- [The Far Right Made Common Cause with Islamists](https://newlinesmag.com/argument/the-red-pillers-of-islam/)
-- [Review of the Prisons’ Custody, Care, and Supervision of Jeffrey Epstein](https://oig.justice.gov/reports/investigation-and-review-federal-bureau-prisons-custody-care-and-supervision-jeffrey)
-- [In-N-Out bans employees from wearing masks](https://www.latimes.com/business/story/2023-07-17/in-n-out-bans-employees-from-wearing-masks)
-- [IMAX projector motors are controlled using an emulated PalmOS app](https://twitter.com/LudyLotad/status/1681341878476718097)
-- [Why Are Emulators Legal? Dolphin vs. Nintendo and the Fate of Emulation [video]](https://www.youtube.com/watch?v=wROQUZDCIMI)
-- [Why Open-Source a Model?](https://matt-rickard.com/why-open-source-a-model)
-- [CEO of crypto exchange EminiFX sentenced to 9 years for $240M fraud](https://www.justice.gov/usao-sdny/pr/ceo-cryptocurrency-and-forex-trading-platform-sentenced-nine-years-prison-240-million)
-- [Embedded Generative AI Will Power Game Characters](https://spectrum.ieee.org/generative-game-ai)
-- [A Story of a Stone](https://amerisurv.com/2023/06/10/a-story-of-a-stone/)
+- [Reading Is Selfish, Elitist, and Anti-Social](https://otherlife.co/p/good-reading-selfish-elitist-antisocial)
+- [Blackstone’s march to $1T marred by trouble at flagship property fund](https://www.ft.com/content/7c715f65-243f-4296-8c98-ec36fe10db35)
+- [WebAssembly Polyfill &lpar;run WASM in vanilla JavaScript&rpar;](https://github.com/evanw/polywasm)
+- [Bipartisan senators propose stock ownership ban by lawmakers, admin officials](https://thehill.com/homenews/senate/4105939-bipartisan-senators-unveiling-measure-to-ban-stock-ownership-by-lawmakers-administration-officials/)
+- [Phone numbers for airlines listed on Google directed to scammers](https://www.nbcnews.com/tech/tech-news/phone-numbers-airlines-listed-google-directed-scammers-rcna94766)
+- [The past is not true](https://sive.rs/pnt)
+- [Nvidia GeForce RTX 4060 Ti 16GB Goes on Sale](https://www.tomshardware.com/news/nvidia-geforce-rtx-4060-ti-16gb-goes-on-sale)
+- [Code Interpreter Can Edit Entire Software Repos via Zip](https://www.youtube.com/watch?v=w7GypDabQnI)
+- [Meta Will Reportedly End Quest Pro Production](https://www.uploadvr.com/meta-quest-pro-production-ending/)
+- [Heat Stroke – Sun-Stroke](https://en.wikipedia.org/wiki/Heat_stroke)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

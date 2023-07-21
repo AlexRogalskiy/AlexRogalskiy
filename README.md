@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Reading Is Selfish, Elitist, and Anti-Social](https://otherlife.co/p/good-reading-selfish-elitist-antisocial)
-- [Blackstone’s march to $1T marred by trouble at flagship property fund](https://www.ft.com/content/7c715f65-243f-4296-8c98-ec36fe10db35)
-- [WebAssembly Polyfill &lpar;run WASM in vanilla JavaScript&rpar;](https://github.com/evanw/polywasm)
-- [Bipartisan senators propose stock ownership ban by lawmakers, admin officials](https://thehill.com/homenews/senate/4105939-bipartisan-senators-unveiling-measure-to-ban-stock-ownership-by-lawmakers-administration-officials/)
-- [Phone numbers for airlines listed on Google directed to scammers](https://www.nbcnews.com/tech/tech-news/phone-numbers-airlines-listed-google-directed-scammers-rcna94766)
-- [The past is not true](https://sive.rs/pnt)
-- [Nvidia GeForce RTX 4060 Ti 16GB Goes on Sale](https://www.tomshardware.com/news/nvidia-geforce-rtx-4060-ti-16gb-goes-on-sale)
-- [Code Interpreter Can Edit Entire Software Repos via Zip](https://www.youtube.com/watch?v=w7GypDabQnI)
-- [Meta Will Reportedly End Quest Pro Production](https://www.uploadvr.com/meta-quest-pro-production-ending/)
-- [Heat Stroke – Sun-Stroke](https://en.wikipedia.org/wiki/Heat_stroke)
+- [Gmail Changed the Way Consumers Engage with Promotional Messages &lpar;2015&rpar; [pdf]](https://returnpath.com/wp-content/uploads/2015/02/Return_Path_-_The_Tabbed_Inbox.pdf)
+- [Parataxic Distortion](https://en.wikipedia.org/wiki/Parataxic_distortion)
+- [New Project Turns Project Gutenberg Texts into Free Audiobooks, Lifelike Voices](https://www.techdirt.com/2023/07/20/new-project-uses-ai-to-turn-project-gutenberg-texts-into-free-audiobooks-with-lifelike-voices-in-30-seconds/)
+- [Regex matching in P with backreference &lpar;see fine print&rpar;](https://github.com/travisdowns/polyregex)
+- [Jobs in Data Salary Calculator](https://jobs-in-data.com/salary-calculator)
+- [How TO guide for cookie consent implementation](https://captaincompliance.com/how-to-implement-cookie-consent-in-website)
+- [Minimum-Lot-Size Regulations Limit Housing Supply in Texas](https://www.mercatus.org/students/research/research-papers/do-minimum-lot-size-regulations-limit-housing-supply-texas)
+- [Code AI with Codebase Context](https://github.com/sourcegraph/cody)
+- [The genetic architecture and evolution of the human skeletal form](https://www.science.org/doi/10.1126/science.adf8009)
+- [Sergey Brin Is Back in the Trenches at Google](https://www.wsj.com/articles/sergey-brin-google-ai-gemini-1b5aa41e)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

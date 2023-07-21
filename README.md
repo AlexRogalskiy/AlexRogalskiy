@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Delta passengers fall ill while stuck for hours during blistering Vegas heatwave](https://www.nbcnews.com/news/us-news/delta-passengers-fall-ill-stuck-tarmac-hours-blistering-las-vegas-heat-rcna95050)
-- [CIA: Spy Games for Kids](https://www.cia.gov/spy-kids/games/index.html)
-- [Kevin Mitnick has died](https://www.dignitymemorial.com/obituaries/las-vegas-nv/kevin-mitnick-11371668)
-- [The Danger of Popcorn Polymer: Incident at the TPC Group Chemical Plant [video]](https://www.youtube.com/watch?v=6-3BFXpBcjc)
-- [Novel method of cold water immersion for heat stroke](https://onlinelibrary.wiley.com/doi/epdf/10.1002/emp2.12007)
-- [Top Software Trends Reports for 2023](http://www.ofbizian.com/2023/07/top-20-must-read-software-reports.html)
-- [The open source learning curve for AI researchers](https://www.supervised.news/p/the-open-source-learning-curve-for)
-- [Geothermal Ahead of Schedule](https://twitter.com/TimMLatimer/status/1681304496234991620)
-- [A framework to securely use LLMs in companies – Part 1: Overview of Risks](https://boringappsec.substack.com/p/edition-21-a-framework-to-securely)
-- [Sins of the salmon kings](https://www.thedial.world/issue-6/salmon-farming-norway-ethics-literature)
+- [The true cost of science’s language barrier for non-native English speakers](https://www.nature.com/articles/d41586-023-02320-2)
+- [“I give permission to IBM, ..., to use JSLint for evil.”](https://gist.github.com/kemitchell/fdc179d60dc88f0c9b76e5d38fe47076)
+- [Hardware Hacking &lpar;2004&rpar; [pdf]](http://www.nicolascollins.com/texts/originalhackingmanual.pdf)
+- [FTC warns board game content creators, publishers to disclose relationships](https://boardgamewire.com/index.php/2023/07/17/ftc-warns-board-game-influencers-publishers-over-failing-to-properly-disclose-relationships-free-gifts/)
+- [Will a prompt that enables GPT-4 to solve easy Sudoku puzzles be found?](https://manifold.markets/Mira/will-a-prompt-that-enables-gpt4-to)
+- [An invitation to a secret society](https://www.experimental-history.com/p/an-invitation-to-a-secret-society)
+- [Images in the Mind’s Eye Are Quick Sketches That Lack Simple, Real-World Details](https://www.scientificamerican.com/article/images-in-the-minds-eye-are-quick-sketches-that-lack-simple-real-world-details1/)
+- [A 17th-century font in a 21st-century thesis](https://www.linyangchen.com/Typography-Fell-Types-font)
+- [My Beautiful Friend](https://thepointmag.com/examined-life/my-beautiful-friend/)
+- [Good code is like a love letter to the next developer who will maintain it](https://addyosmani.com/blog/good-code/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

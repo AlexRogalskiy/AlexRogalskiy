@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Extreme heat: a warning shot from nature | podcast](https://www.theguardian.com/news/audio/2023/jul/20/extreme-heat-a-warning-shot-from-nature-podcast)
-- [New Zealand shooting: gunman kills two in Auckland hours before World Cup opening](https://www.theguardian.com/world/2023/jul/20/auckland-shooting-police-shut-down-cbd-streets-amid-reports-of-gunman)
-- [Women’s World Cup 2023: opening game to go ahead as players speak about Auckland shooting](https://www.theguardian.com/football/2023/jul/20/womens-world-cup-2023-players-norway-uswnt-new-zealand-auckland-shooting)
-- [Russia may attack civilian ships in Black Sea and blame Ukraine, US warns](https://www.theguardian.com/world/2023/jul/20/russia-may-attack-civilian-ships-in-black-sea-and-blame-ukraine-us-warns)
-- [US soldier was reportedly laughing when crossing border into North Korea](https://www.theguardian.com/us-news/2023/jul/19/us-soldier-north-korea-border-travis-king)
-- [Russia-Ukraine war at a glance: what we know on day 512 of the invasion](https://www.theguardian.com/world/2023/jul/20/russia-ukraine-war-at-a-glance-what-we-know-on-day-512-of-the-invasion)
-- [Tesla beats Wall Street expectations to produce record number of vehicles](https://www.theguardian.com/technology/2023/jul/19/tesla-q2-2023-earnings-production-report-elon-musk)
-- [Islas Malvinas: EU signs deal using Falklands’ Argentine name](https://www.theguardian.com/uk-news/2023/jul/20/islas-malvinas-brexit-cited-as-eu-endorses-falklands-argentine-name)
-- [People who murder ex-partners could face longer sentences](https://www.theguardian.com/uk-news/2023/jul/20/people-who-ex-partners-could-face-longer-sentences)
-- [TikTok is the most popular news source for 12 to 15-year-olds, says Ofcom](https://www.theguardian.com/technology/2023/jul/20/tiktok-is-the-most-popular-news-source-for-12-to-15-year-olds-says-ofcom)
+- [Byelection results: Conservatives retain Uxbridge and South Ruislip in close finish over Labour; Lib Dems sweep Somerton and Frome](https://www.theguardian.com/politics/live/2023/jul/20/byelection-results-conservatives-labour-lib-dems-somerton-frome-uxbridge-south-ruislip-selby-ainsty-uk-politics-latest-news)
+- [Nigeria v Canada: Women’s World Cup 2023 Group B – live](https://www.theguardian.com/football/live/2023/jul/20/nigeria-v-canada-womens-world-cup-2023-group-b-live)
+- [Why we are all living in a Barbie world – podcast](https://www.theguardian.com/news/audio/2023/jul/21/why-we-are-all-living-in-a-barbie-world-podcast)
+- [Rescued Australian sailor Timothy Shaddock reveals meditation and his dog Bella helped him survive](https://www.theguardian.com/world/2023/jul/21/timothy-shaddock-australian-sailor-dog-bella-rescued-survived-meditation-raw-fish-rainwater)
+- [Russia-Ukraine war at a glance: what we know on day 513 of the invasion](https://www.theguardian.com/world/2023/jul/21/russia-ukraine-war-at-a-glance-what-we-know-on-day-513-of-the-invasion)
+- [Ukraine using cluster bombs effectively in counteroffensive, says White House](https://www.theguardian.com/world/2023/jul/21/cluster-bombs-ukraine-munitions-counteroffensive-russia)
+- [Battle over two-child benefit cap looms at Labour policy event](https://www.theguardian.com/politics/2023/jul/21/labour-national-policy-forum-nottingham-keir-starmer-two-child-benefit-cap)
+- [Private rents outside London have risen by a third in four years, data shows](https://www.theguardian.com/money/2023/jul/21/private-rents-outside-london-rose-third-four-years-rightmove)
+- [Grenfell: In the Words of Survivors review – a masterpiece of forensic fury](https://www.theguardian.com/stage/2023/jul/21/grenfell-in-the-words-of-survivors-review-dorfman-theatre-london)
+- [DCMS sets sights on championing UK film industry as Hollywood struggles](https://www.theguardian.com/film/2023/jul/21/dcms-championing-uk-film-industry-as-hollywood-struggles)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

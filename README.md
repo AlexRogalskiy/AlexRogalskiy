@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The true cost of science’s language barrier for non-native English speakers](https://www.nature.com/articles/d41586-023-02320-2)
-- [“I give permission to IBM, ..., to use JSLint for evil.”](https://gist.github.com/kemitchell/fdc179d60dc88f0c9b76e5d38fe47076)
-- [Hardware Hacking &lpar;2004&rpar; [pdf]](http://www.nicolascollins.com/texts/originalhackingmanual.pdf)
-- [FTC warns board game content creators, publishers to disclose relationships](https://boardgamewire.com/index.php/2023/07/17/ftc-warns-board-game-influencers-publishers-over-failing-to-properly-disclose-relationships-free-gifts/)
-- [Will a prompt that enables GPT-4 to solve easy Sudoku puzzles be found?](https://manifold.markets/Mira/will-a-prompt-that-enables-gpt4-to)
-- [An invitation to a secret society](https://www.experimental-history.com/p/an-invitation-to-a-secret-society)
-- [Images in the Mind’s Eye Are Quick Sketches That Lack Simple, Real-World Details](https://www.scientificamerican.com/article/images-in-the-minds-eye-are-quick-sketches-that-lack-simple-real-world-details1/)
-- [A 17th-century font in a 21st-century thesis](https://www.linyangchen.com/Typography-Fell-Types-font)
-- [My Beautiful Friend](https://thepointmag.com/examined-life/my-beautiful-friend/)
-- [Good code is like a love letter to the next developer who will maintain it](https://addyosmani.com/blog/good-code/)
+- [Facebook denies cookie tracking allegations &lpar;2011&rpar;](https://www.zdnet.com/article/facebook-denies-cookie-tracking-allegations/)
+- [Amazon is getting ready to launch a lot of broadband satellites](https://arstechnica.com/space/2023/07/amazon-is-getting-ready-to-launch-a-lot-of-broadband-satellites/)
+- [Using Prolog in Windows NT Network Configuration &lpar;1996&rpar;](https://web.archive.org/web/20030218034509/http://www.research.microsoft.com/research/dtg/davidhov/pap.htm)
+- [To Save the Planet, Should We Be Moving Slower?](https://www.newyorker.com/news/daily-comment/to-save-the-planet-should-we-really-be-moving-slower)
+- [Computer chip with built-in human brain tissue gets military funding](https://newatlas.com/computers/human-brain-chip-ai/)
+- [NativePHP: A framework for building desktop apps using PHP](https://nativephp.com/docs/1/getting-started/introduction)
+- [Managing Kitchen Fruit Flies with a Little Shop of Horrors](https://blog.zaccohn.com/Fruitflies-and-the-Little-Shop-of-Horrors/)
+- [TH3P4G3 Thunderbolt eGPU Dock Review](https://egpu.io/exp-gdc-th3p4g2-thunderbolt-gpu-dock-review/)
+- [Book Review: The Laws of Trading](https://astralcodexten.substack.com/p/your-book-review-the-laws-of-trading)
+- [Llama: Add grammar-based sampling](https://github.com/ggerganov/llama.cpp/pull/1773)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

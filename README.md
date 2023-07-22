@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Byelection results: Conservatives retain Uxbridge and South Ruislip in close finish over Labour; Lib Dems sweep Somerton and Frome](https://www.theguardian.com/politics/live/2023/jul/20/byelection-results-conservatives-labour-lib-dems-somerton-frome-uxbridge-south-ruislip-selby-ainsty-uk-politics-latest-news)
-- [Nigeria v Canada: Women’s World Cup 2023 Group B – live](https://www.theguardian.com/football/live/2023/jul/20/nigeria-v-canada-womens-world-cup-2023-group-b-live)
-- [Why we are all living in a Barbie world – podcast](https://www.theguardian.com/news/audio/2023/jul/21/why-we-are-all-living-in-a-barbie-world-podcast)
-- [Rescued Australian sailor Timothy Shaddock reveals meditation and his dog Bella helped him survive](https://www.theguardian.com/world/2023/jul/21/timothy-shaddock-australian-sailor-dog-bella-rescued-survived-meditation-raw-fish-rainwater)
-- [Russia-Ukraine war at a glance: what we know on day 513 of the invasion](https://www.theguardian.com/world/2023/jul/21/russia-ukraine-war-at-a-glance-what-we-know-on-day-513-of-the-invasion)
-- [Ukraine using cluster bombs effectively in counteroffensive, says White House](https://www.theguardian.com/world/2023/jul/21/cluster-bombs-ukraine-munitions-counteroffensive-russia)
-- [Battle over two-child benefit cap looms at Labour policy event](https://www.theguardian.com/politics/2023/jul/21/labour-national-policy-forum-nottingham-keir-starmer-two-child-benefit-cap)
-- [Private rents outside London have risen by a third in four years, data shows](https://www.theguardian.com/money/2023/jul/21/private-rents-outside-london-rose-third-four-years-rightmove)
-- [Grenfell: In the Words of Survivors review – a masterpiece of forensic fury](https://www.theguardian.com/stage/2023/jul/21/grenfell-in-the-words-of-survivors-review-dorfman-theatre-london)
-- [DCMS sets sights on championing UK film industry as Hollywood struggles](https://www.theguardian.com/film/2023/jul/21/dcms-championing-uk-film-industry-as-hollywood-struggles)
+- [USA v Vietnam: Women’s World Cup 2023 Group E – live](https://www.theguardian.com/football/live/2023/jul/21/usa-v-vietnam-womens-world-cup-2023-group-e-live)
+- [North Korea fires ‘several’ cruise missiles into sea, South says, amid soaring tensions](https://www.theguardian.com/world/2023/jul/22/north-korea-fires-several-cruise-missiles-into-sea-south-says-amid-soaring-tensions)
+- [Uncharted territory: do AI girlfriend apps promote unhealthy expectations for human relationships?](https://www.theguardian.com/technology/2023/jul/22/ai-girlfriend-chatbot-apps-unhealthy-chatgpt)
+- [‘Cats are like mini gurus’: the feline path to inner peace](https://www.theguardian.com/lifeandstyle/2023/jul/22/carla-francis-zen-of-cat-a-z-japanese-feline-philosophy-cats-psychology)
+- [Arsenal will not sell Partey despite Rice’s arrival, insists Arteta](https://www.theguardian.com/football/2023/jul/22/arsenal-will-not-sell-partey-despite-rices-arrival-insists-arteta)
+- [Football match called off after hearse ‘spins circles’ on Tyne and Wear pitch](https://www.theguardian.com/football/2023/jul/21/football-match-called-off-after-hearse-spins-circles-on-tyne-and-wear-pitch)
+- [PSG put Kylian Mbappé up for sale after leaving him out of pre-season tour](https://www.theguardian.com/football/2023/jul/21/psg-put-kylian-mbappe-up-for-sale-after-leaving-him-out-of-pre-season-tour)
+- [Kamala Harris condemns Florida over curriculum claim of slavery ‘benefit’](https://www.theguardian.com/us-news/2023/jul/21/kamala-harris-florida-schools-black-history-slavery)
+- [Australia maddened by England’s Bazball and undone by Mark Wood | Barney Ronay](https://www.theguardian.com/sport/blog/2023/jul/21/australia-england-ashes-bazball-mark-wood)
+- [Brian Harman hunts first major but McIlroy not ruling himself out of Open](https://www.theguardian.com/sport/2023/jul/21/brian-harman-hunts-first-major-but-mcilroy-not-ruling-himself-out-of-open)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Gmail Changed the Way Consumers Engage with Promotional Messages &lpar;2015&rpar; [pdf]](https://returnpath.com/wp-content/uploads/2015/02/Return_Path_-_The_Tabbed_Inbox.pdf)
-- [Parataxic Distortion](https://en.wikipedia.org/wiki/Parataxic_distortion)
-- [New Project Turns Project Gutenberg Texts into Free Audiobooks, Lifelike Voices](https://www.techdirt.com/2023/07/20/new-project-uses-ai-to-turn-project-gutenberg-texts-into-free-audiobooks-with-lifelike-voices-in-30-seconds/)
-- [Regex matching in P with backreference &lpar;see fine print&rpar;](https://github.com/travisdowns/polyregex)
-- [Jobs in Data Salary Calculator](https://jobs-in-data.com/salary-calculator)
-- [How TO guide for cookie consent implementation](https://captaincompliance.com/how-to-implement-cookie-consent-in-website)
-- [Minimum-Lot-Size Regulations Limit Housing Supply in Texas](https://www.mercatus.org/students/research/research-papers/do-minimum-lot-size-regulations-limit-housing-supply-texas)
-- [Code AI with Codebase Context](https://github.com/sourcegraph/cody)
-- [The genetic architecture and evolution of the human skeletal form](https://www.science.org/doi/10.1126/science.adf8009)
-- [Sergey Brin Is Back in the Trenches at Google](https://www.wsj.com/articles/sergey-brin-google-ai-gemini-1b5aa41e)
+- [Linewise translating unit-tested Python to Haskell to compare defects caught an](http://evanfarrer.blogspot.com/2012/06/unit-testing-isnt-enough-you-need.html)
+- [Ask HN: How to have more original thoughts to write about?](https://news.ycombinator.com/item?id=36822534)
+- [Discovery: Metals can heal themselves](https://newsreleases.sandia.gov/healing_metals/)
+- [Strategy and Startup](https://userfriendly.substack.com/p/strategy-and-startup)
+- [Tourists help scientists reveal microplastic pollution on remote Arctic beaches](https://phys.org/news/2023-07-tourists-scientists-reveal-microplastic-pollution.html)
+- [Remote Workers Responsible for $800B Corporate Real Estate Collapse](https://valuetainment.com/remote-workers-responsible-for-800-billion-corporate-real-estate-collapse/)
+- [Research reveals the scale of disorder underpinning motor neuron disease](https://medicalxpress.com/news/2023-07-reveals-scale-disorder-underpinning-motor.html)
+- [Is it growing pains or is ChatGPT just becoming dumber?](https://techxplore.com/news/2023-07-pains-chatgpt-dumber.html)
+- [The Feast of Fools](https://en.wikipedia.org/wiki/Feast_of_Fools)
+- [Google reCaptcha adds half-second global site drag](https://pagepipe.com/how-google-no-captcha-captcha-slows-down-your-mobile-site/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

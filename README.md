@@ -355,6 +355,8 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Apple: Proposed UK law is a ‘serious, direct threat’ to security, privacy](https://www.computerworld.com/article/3703055/apple-proposed-uk-law-is-a-serious-direct-threat-to-security-privacy.html#tk.rss_all)
+- [With iPadOS 17, the iPad becomes a true laptop replacement](https://www.computerworld.com/article/3702391/ipados-17-makes-the-ipad-becomes-a-true-laptop-replacement.html#tk.rss_all)
 - [Microsoft 365 Copilot — a new desktop productivity revolution begins](https://www.computerworld.com/article/3703189/microsoft-365-copilot-a-new-desktop-productivity-revolution-begins.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [Apple eyes a late arrival to the generative AI party](https://www.computerworld.com/article/3703129/apple-eyes-a-late-arrival-to-the-generative-ai-party.html#tk.rss_all)
@@ -363,8 +365,6 @@
 - [Medical data sharing: Are we there yet?](https://www.computerworld.com/article/3702109/medical-data-sharing-electronic-health-record-exchanges.html#tk.rss_all)
 - [Apple Watch rumor hints it&#39;s time for 3D printing to go mainstream](https://www.computerworld.com/article/3702718/apple-watch-rumor-hints-its-time-for-3d-printing-to-go-mainstream.html#tk.rss_all)
 - [UN Security Council discusses AI risks, need for ethical regulation](https://www.computerworld.com/article/3702716/un-security-council-discusses-ai-risks-need-for-ethical-regulation.html#tk.rss_all)
-- [AI-skills job postings jump 450%; here&#39;s what companies want](https://www.computerworld.com/article/3702711/ai-skills-job-postings-jump-450-heres-what-companies-want.html#tk.rss_all)
-- [Microsoft unveils Copilot pricing, adds new generative AI capabilities](https://www.computerworld.com/article/3702658/microsoft-unveils-copilot-pricing-adds-new-generative-ai-capabilities.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

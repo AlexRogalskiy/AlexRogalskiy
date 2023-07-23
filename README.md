@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [USA v Vietnam: Women’s World Cup 2023 Group E – live](https://www.theguardian.com/football/live/2023/jul/21/usa-v-vietnam-womens-world-cup-2023-group-e-live)
-- [North Korea fires ‘several’ cruise missiles into sea, South says, amid soaring tensions](https://www.theguardian.com/world/2023/jul/22/north-korea-fires-several-cruise-missiles-into-sea-south-says-amid-soaring-tensions)
-- [Uncharted territory: do AI girlfriend apps promote unhealthy expectations for human relationships?](https://www.theguardian.com/technology/2023/jul/22/ai-girlfriend-chatbot-apps-unhealthy-chatgpt)
-- [‘Cats are like mini gurus’: the feline path to inner peace](https://www.theguardian.com/lifeandstyle/2023/jul/22/carla-francis-zen-of-cat-a-z-japanese-feline-philosophy-cats-psychology)
-- [Arsenal will not sell Partey despite Rice’s arrival, insists Arteta](https://www.theguardian.com/football/2023/jul/22/arsenal-will-not-sell-partey-despite-rices-arrival-insists-arteta)
-- [Football match called off after hearse ‘spins circles’ on Tyne and Wear pitch](https://www.theguardian.com/football/2023/jul/21/football-match-called-off-after-hearse-spins-circles-on-tyne-and-wear-pitch)
-- [PSG put Kylian Mbappé up for sale after leaving him out of pre-season tour](https://www.theguardian.com/football/2023/jul/21/psg-put-kylian-mbappe-up-for-sale-after-leaving-him-out-of-pre-season-tour)
-- [Kamala Harris condemns Florida over curriculum claim of slavery ‘benefit’](https://www.theguardian.com/us-news/2023/jul/21/kamala-harris-florida-schools-black-history-slavery)
-- [Australia maddened by England’s Bazball and undone by Mark Wood | Barney Ronay](https://www.theguardian.com/sport/blog/2023/jul/21/australia-england-ashes-bazball-mark-wood)
-- [Brian Harman hunts first major but McIlroy not ruling himself out of Open](https://www.theguardian.com/sport/2023/jul/21/brian-harman-hunts-first-major-but-mcilroy-not-ruling-himself-out-of-open)
+- [New Zealand shooting: police name two male victims with four still in hospital](https://www.theguardian.com/world/2023/jul/23/new-zealand-shooting-police-name-two-male-victims-with-four-still-in-hospital)
+- [Benjamin Netanyahu to have pacemaker fitted hours ahead of key vote on judicial reform plans](https://www.theguardian.com/world/2023/jul/23/benjamin-netanyahu-to-have-pacemaker-fitted-hours-ahead-of-key-vote-on-judicial-reform-plans)
+- [Australian women’s football: a century ago they fought for the right to play – and 10,000 people turned out to watch](https://www.theguardian.com/football/2023/jul/23/australian-womens-football-a-century-ago-they-fought-for-the-right-to-play-and-10000-people-turned-out-to-watch)
+- [‘A homemade avant garde of one’: why is Gerald Murnane revered abroad but divisive in Australia?](https://www.theguardian.com/books/2023/jul/23/a-homemade-avant-garde-of-one-why-is-gerald-murnane-revered-abroad-but-divisive-in-australia)
+- [Russia-Ukraine war at a glance: what we know on day 515 of the invasion](https://www.theguardian.com/world/2023/jul/23/russia-ukraine-war-at-a-glance-what-we-know-on-day-515-of-the-invasion)
+- [Cambodia strongman Hun Sen set to claim landslide election victory after banning opposition](https://www.theguardian.com/world/2023/jul/23/cambodia-strongman-hun-sen-set-to-claim-landslide-election-victory-after-banning-opposition)
+- [Fernandes runs the show as Manchester United and Arsenal weigh each other up](https://www.theguardian.com/football/2023/jul/23/bruno-fernandes-manchester-united-arsenal-friendly)
+- [Yellow rain warning issued for Sunday across northern England and Wales](https://www.theguardian.com/uk-news/2023/jul/23/yellow-rain-warning-issued-for-sunday-across-wales-and-northern-england)
+- [Gove to relax rules in England to allow more shops to be converted into homes](https://www.theguardian.com/uk-news/2023/jul/23/gove-to-relax-rules-in-england-to-allow-more-shops-to-be-converted-into-homes)
+- [Artificial intelligence boom generates optimism in tech sector as stocks soar](https://www.theguardian.com/technology/2023/jul/23/artificial-intelligence-boom-generates-optimism-in-tech-sector-as-stocks-soar)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

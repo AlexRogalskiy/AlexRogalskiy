@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Facebook denies cookie tracking allegations &lpar;2011&rpar;](https://www.zdnet.com/article/facebook-denies-cookie-tracking-allegations/)
-- [Amazon is getting ready to launch a lot of broadband satellites](https://arstechnica.com/space/2023/07/amazon-is-getting-ready-to-launch-a-lot-of-broadband-satellites/)
-- [Using Prolog in Windows NT Network Configuration &lpar;1996&rpar;](https://web.archive.org/web/20030218034509/http://www.research.microsoft.com/research/dtg/davidhov/pap.htm)
-- [To Save the Planet, Should We Be Moving Slower?](https://www.newyorker.com/news/daily-comment/to-save-the-planet-should-we-really-be-moving-slower)
-- [Computer chip with built-in human brain tissue gets military funding](https://newatlas.com/computers/human-brain-chip-ai/)
-- [NativePHP: A framework for building desktop apps using PHP](https://nativephp.com/docs/1/getting-started/introduction)
-- [Managing Kitchen Fruit Flies with a Little Shop of Horrors](https://blog.zaccohn.com/Fruitflies-and-the-Little-Shop-of-Horrors/)
-- [TH3P4G3 Thunderbolt eGPU Dock Review](https://egpu.io/exp-gdc-th3p4g2-thunderbolt-gpu-dock-review/)
-- [Book Review: The Laws of Trading](https://astralcodexten.substack.com/p/your-book-review-the-laws-of-trading)
-- [Llama: Add grammar-based sampling](https://github.com/ggerganov/llama.cpp/pull/1773)
+- [Jaron Lanier – What My Musical Instruments Have Taught Me](https://www.newyorker.com/culture/the-weekend-essay/what-my-musical-instruments-have-taught-me)
+- [CoQ4 is a functional substitute for CoQ10 and can be targeted to mitochondria](https://www.biorxiv.org/content/10.1101/2023.07.20.549963v2)
+- [AOL pulls Nullsoft file-sharing software WASTE &lpar;2003&rpar;](https://web.archive.org/web/20030810194502/http://news.com.com/2100-1032_3-1011585.html)
+- [Why SQLite Does Not Use Git](https://www.sqlite.org/draft/matrix/whynotgit.html)
+- [Reinventing the E.R. for America’s mental-health crisis](https://www.newyorker.com/science/annals-of-medicine/reinventing-the-er-for-americas-mental-health-crisis)
+- [Were small-brained early humans intelligent? Row erupts over scientists’ claim](https://www.theguardian.com/science/2023/jul/22/small-brained-early-humans-homo-naledi-cleverer-storm)
+- [Vimspector – the Vim debugger rules all](https://puremourning.github.io/vimspector-web/)
+- [STX – C++17 and C++ 20 error-handling and utility extensions](https://lamarrr.github.io/STX/)
+- [TokenFlow: Consistent diffusion features for consistent video editing](https://diffusion-tokenflow.github.io/)
+- [How does iCloud work? Plus a new version of Cirrus](https://eclecticlight.co/2023/07/17/how-does-icloud-work-plus-a-new-version-of-cirrus/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

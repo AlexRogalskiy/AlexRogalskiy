@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Linewise translating unit-tested Python to Haskell to compare defects caught an](http://evanfarrer.blogspot.com/2012/06/unit-testing-isnt-enough-you-need.html)
-- [Ask HN: How to have more original thoughts to write about?](https://news.ycombinator.com/item?id=36822534)
-- [Discovery: Metals can heal themselves](https://newsreleases.sandia.gov/healing_metals/)
-- [Strategy and Startup](https://userfriendly.substack.com/p/strategy-and-startup)
-- [Tourists help scientists reveal microplastic pollution on remote Arctic beaches](https://phys.org/news/2023-07-tourists-scientists-reveal-microplastic-pollution.html)
-- [Remote Workers Responsible for $800B Corporate Real Estate Collapse](https://valuetainment.com/remote-workers-responsible-for-800-billion-corporate-real-estate-collapse/)
-- [Research reveals the scale of disorder underpinning motor neuron disease](https://medicalxpress.com/news/2023-07-reveals-scale-disorder-underpinning-motor.html)
-- [Is it growing pains or is ChatGPT just becoming dumber?](https://techxplore.com/news/2023-07-pains-chatgpt-dumber.html)
-- [The Feast of Fools](https://en.wikipedia.org/wiki/Feast_of_Fools)
-- [Google reCaptcha adds half-second global site drag](https://pagepipe.com/how-google-no-captcha-captcha-slows-down-your-mobile-site/)
+- [Why does a 10900K FEEL faster than a 13900K? [video]](https://www.youtube.com/watch?v=-ot96M9RM6o)
+- [Private BitTorrent Tracker for Everyone](https://privtracker.com/)
+- [Retentive Network: A Successor to Transformer for Large Language Models](https://arxiv.org/abs/2307.08621)
+- [Biodiff – Hex Diff Viewer](https://github.com/8051Enthusiast/biodiff)
+- [Simple Sabotage Field Manual – How to Destroy Your Organizations](https://butwhatfor.beehiiv.com/p/simple-sabotage-field-manual-destroy-organizations)
+- [Form Art &lpar;1997&rpar;](http://www.c3.hu/collection/form/)
+- [C23 Checked Arithmetic](https://twitter.com/JustineTunney/status/1682841716183662595)
+- [Vault – Modern banking for Canadian businesses](https://www.tryvault.com/)
+- [Jaron Lanier – What My Musical Instruments Have Taught Me](https://www.newyorker.com/culture/the-weekend-essay/what-my-musical-instruments-have-taught-me)
+- [Envy Brings a Lesson](https://tidyfirst.substack.com/p/envy-brings-a-lesson)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

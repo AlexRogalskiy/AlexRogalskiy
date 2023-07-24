@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Why does a 10900K FEEL faster than a 13900K? [video]](https://www.youtube.com/watch?v=-ot96M9RM6o)
-- [Private BitTorrent Tracker for Everyone](https://privtracker.com/)
-- [Retentive Network: A Successor to Transformer for Large Language Models](https://arxiv.org/abs/2307.08621)
-- [Biodiff – Hex Diff Viewer](https://github.com/8051Enthusiast/biodiff)
-- [Simple Sabotage Field Manual – How to Destroy Your Organizations](https://butwhatfor.beehiiv.com/p/simple-sabotage-field-manual-destroy-organizations)
-- [Form Art &lpar;1997&rpar;](http://www.c3.hu/collection/form/)
-- [C23 Checked Arithmetic](https://twitter.com/JustineTunney/status/1682841716183662595)
-- [Vault – Modern banking for Canadian businesses](https://www.tryvault.com/)
-- [Jaron Lanier – What My Musical Instruments Have Taught Me](https://www.newyorker.com/culture/the-weekend-essay/what-my-musical-instruments-have-taught-me)
-- [Envy Brings a Lesson](https://tidyfirst.substack.com/p/envy-brings-a-lesson)
+- [Apology and Update on Recent Accidental Data Exposure](https://blog.virustotal.com/2023/07/apology-and-update-on-recent-accidental.html)
+- [Elon Musk’s X obsession goes back to PayPal, could lead to WeChat competitor](https://www.smartcompany.com.au/marketing/social-media/elon-musk-twitter-logo-change-x-paypal-wechat-competitor/)
+- [Biden administration is tackling smart devices with a new cybersecurity label](https://www.theverge.com/2023/7/18/23798153/fcc-cyber-trust-mark-biden-security)
+- [Three new atlases reveal a new dimension of the human body](https://english.elpais.com/science-tech/2023-07-20/three-new-atlases-reveal-a-new-dimension-of-the-human-body.html)
+- [Sixth &#39;Hutter Prize&#39; Awarded for Achieving New Data Compression Milestone](https://hardware.slashdot.org/story/23/07/24/0215253/sixth-hutter-prize-awarded-for-achieving-new-data-compression-milestone)
+- [Bidet Shower – Hand Bidet, Commode/Toilet/Bum Shower, Health Faucet, Bum Gun](https://en.wikipedia.org/wiki/Bidet_shower)
+- [What Is a Hobby?](https://news.ycombinator.com/item?id=36842293)
+- [You&#39;re not a bad texter; dating apps just suck](https://www.newsweek.com/dating-apps-suck-ai-can-help-opinion-1814373)
+- [Rust impl of r/place with IPv6](https://github.com/serverscanning/place-ipv6-server)
+- [Ask HN: How do you use your iPad?](https://news.ycombinator.com/item?id=36842249)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

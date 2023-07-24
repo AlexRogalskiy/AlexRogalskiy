@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [New Zealand shooting: police name two male victims with four still in hospital](https://www.theguardian.com/world/2023/jul/23/new-zealand-shooting-police-name-two-male-victims-with-four-still-in-hospital)
-- [Benjamin Netanyahu to have pacemaker fitted hours ahead of key vote on judicial reform plans](https://www.theguardian.com/world/2023/jul/23/benjamin-netanyahu-to-have-pacemaker-fitted-hours-ahead-of-key-vote-on-judicial-reform-plans)
-- [Australian women’s football: a century ago they fought for the right to play – and 10,000 people turned out to watch](https://www.theguardian.com/football/2023/jul/23/australian-womens-football-a-century-ago-they-fought-for-the-right-to-play-and-10000-people-turned-out-to-watch)
-- [‘A homemade avant garde of one’: why is Gerald Murnane revered abroad but divisive in Australia?](https://www.theguardian.com/books/2023/jul/23/a-homemade-avant-garde-of-one-why-is-gerald-murnane-revered-abroad-but-divisive-in-australia)
-- [Russia-Ukraine war at a glance: what we know on day 515 of the invasion](https://www.theguardian.com/world/2023/jul/23/russia-ukraine-war-at-a-glance-what-we-know-on-day-515-of-the-invasion)
-- [Cambodia strongman Hun Sen set to claim landslide election victory after banning opposition](https://www.theguardian.com/world/2023/jul/23/cambodia-strongman-hun-sen-set-to-claim-landslide-election-victory-after-banning-opposition)
-- [Fernandes runs the show as Manchester United and Arsenal weigh each other up](https://www.theguardian.com/football/2023/jul/23/bruno-fernandes-manchester-united-arsenal-friendly)
-- [Yellow rain warning issued for Sunday across northern England and Wales](https://www.theguardian.com/uk-news/2023/jul/23/yellow-rain-warning-issued-for-sunday-across-wales-and-northern-england)
-- [Gove to relax rules in England to allow more shops to be converted into homes](https://www.theguardian.com/uk-news/2023/jul/23/gove-to-relax-rules-in-england-to-allow-more-shops-to-be-converted-into-homes)
-- [Artificial intelligence boom generates optimism in tech sector as stocks soar](https://www.theguardian.com/technology/2023/jul/23/artificial-intelligence-boom-generates-optimism-in-tech-sector-as-stocks-soar)
+- [The Great British motorcycle scam – part one | Podcast](https://www.theguardian.com/news/audio/2023/jul/24/the-great-british-motorcycle-scam-part-one-podcast)
+- [Greta Gerwig makes history as Barbie has biggest opening weekend for film directed by a woman](https://www.theguardian.com/film/2023/jul/24/barbie-movie-box-office-greta-gerwig-records-highest-grossing-woman)
+- [Fukushima fish with 180 times legal limit of radioactive cesium fuels water release fears](https://www.theguardian.com/environment/2023/jul/24/fukushima-fish-with-180-times-legal-limit-of-radioactive-cesium-fuels-water-release-fears)
+- [German centre-right leader says he is willing to work with far-right AfD at local level](https://www.theguardian.com/world/2023/jul/24/german-centre-right-leader-says-he-is-willing-to-work-with-far-right-afd-at-local-level)
+- [Naarm, Gadigal, Tāmaki Makaurau: Indigenous placenames in the spotlight at Women’s World Cup](https://www.theguardian.com/football/2023/jul/24/naarm-gadigal-tamaki-makaurau-indigenous-placenames-in-the-spotlight-at-womens-world-cup)
+- [Russia-Ukraine war at a glance: what we know on day 516 of the invasion](https://www.theguardian.com/world/2023/jul/24/russia-ukraine-war-at-a-glance-what-we-know-on-day-516-of-the-invasion)
+- [Spain elections: hung parliament after conservatives fail to secure expected majority](https://www.theguardian.com/world/2023/jul/23/spainish-election-conservative-party-ahead-but-unlikely-to-win-majority)
+- [British manufacturers’ share of EU business falls despite global trade boom](https://www.theguardian.com/business/2023/jul/24/british-manufacturers-share-of-eu-business-falls-despite-global-trade-boom)
+- [New Zealand justice minister Kiri Allan resigns after resisting arrest following car crash](https://www.theguardian.com/world/2023/jul/24/kiri-allan-resigns-car-crash-new-zealand-justice-minister)
+- [Elon Musk says Twitter will change logo from bird to an X](https://www.theguardian.com/technology/2023/jul/23/twitter-elon-musk-says-he-wants-to-change-companys-bird-logo)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

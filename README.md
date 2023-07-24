@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Jaron Lanier – What My Musical Instruments Have Taught Me](https://www.newyorker.com/culture/the-weekend-essay/what-my-musical-instruments-have-taught-me)
-- [CoQ4 is a functional substitute for CoQ10 and can be targeted to mitochondria](https://www.biorxiv.org/content/10.1101/2023.07.20.549963v2)
-- [AOL pulls Nullsoft file-sharing software WASTE &lpar;2003&rpar;](https://web.archive.org/web/20030810194502/http://news.com.com/2100-1032_3-1011585.html)
-- [Why SQLite Does Not Use Git](https://www.sqlite.org/draft/matrix/whynotgit.html)
-- [Reinventing the E.R. for America’s mental-health crisis](https://www.newyorker.com/science/annals-of-medicine/reinventing-the-er-for-americas-mental-health-crisis)
-- [Were small-brained early humans intelligent? Row erupts over scientists’ claim](https://www.theguardian.com/science/2023/jul/22/small-brained-early-humans-homo-naledi-cleverer-storm)
-- [Vimspector – the Vim debugger rules all](https://puremourning.github.io/vimspector-web/)
-- [STX – C++17 and C++ 20 error-handling and utility extensions](https://lamarrr.github.io/STX/)
-- [TokenFlow: Consistent diffusion features for consistent video editing](https://diffusion-tokenflow.github.io/)
-- [How does iCloud work? Plus a new version of Cirrus](https://eclecticlight.co/2023/07/17/how-does-icloud-work-plus-a-new-version-of-cirrus/)
+- [Court strikes down limits on filming of police in Arizona](https://apnews.com/article/arizona-cant-limit-filming-of-police-a7a7ad0fe5b421d416ec3477d0795707)
+- [Welcome Debian riscv64](https://blog.aurel32.net/welcome-debian-riscv64.html)
+- [U.S. Senate bill crafted with DEA targets end-to-end encryption](https://therecord.media/senate-dea-bill-targets-end-to-end-encryption-requires-companies-to-report-drugs)
+- [VirtualBox 7.0.10 download links have disappeared](https://web.archive.org/web/20230723100307/https://www.virtualbox.org/wiki/Downloads)
+- [How Will Language Modelers Like ChatGPT Affect Occupations and Industries?](https://arxiv.org/abs/2303.01157)
+- [Teach your LLM to answer with facts, not fiction](https://blog.myscale.com/2023/07/17/teach-your-llm-vector-sql/)
+- [Why Frames Tilt Forward &lpar;2015&rpar;](https://chcollins.com/100Billion/2015/02/why-frames-tilt-forward/)
+- [All foster kids in California can now attend any state college for free](https://themessenger.com/news/all-foster-kids-in-california-can-now-attend-any-state-college-for-free)
+- [Never run ldd on unknown executables](https://catonmat.net/ldd-arbitrary-code-execution)
+- [PLJS – JavaScript Language Plugin for PostreSQL](https://github.com/plv8/pljs)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

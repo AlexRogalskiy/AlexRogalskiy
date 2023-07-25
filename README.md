@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [‘Windows is a declining ecosystem,&#39; Jamf CEO says](https://www.computerworld.com/article/3703289/windows-is-a-declining-ecosystem-jamf-ceo-says.html#tk.rss_all)
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [8 ways to be more productive in Windows 11](https://www.computerworld.com/article/3702652/windows-11-productivity-tips.html#tk.rss_all)
 - [Apple: Proposed UK law is a ‘serious, direct threat’ to security, privacy](https://www.computerworld.com/article/3703055/apple-proposed-uk-law-is-a-serious-direct-threat-to-security-privacy.html#tk.rss_all)
 - [With iPadOS 17, the iPad becomes a true laptop replacement](https://www.computerworld.com/article/3702391/ipados-17-makes-the-ipad-becomes-a-true-laptop-replacement.html#tk.rss_all)
 - [Microsoft 365 Copilot — a new desktop productivity revolution begins](https://www.computerworld.com/article/3703189/microsoft-365-copilot-a-new-desktop-productivity-revolution-begins.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [Apple eyes a late arrival to the generative AI party](https://www.computerworld.com/article/3703129/apple-eyes-a-late-arrival-to-the-generative-ai-party.html#tk.rss_all)
 - [Cisco says this week’s layoffs were announced last November](https://www.computerworld.com/article/3703089/cisco-says-this-week-s-layoffs-were-announced-last-november.html#tk.rss_all)
 - [A whole new kind of Android browser multitasking power](https://www.computerworld.com/article/3702719/android-browser-multitasking.html#tk.rss_all)
 - [Medical data sharing: Are we there yet?](https://www.computerworld.com/article/3702109/medical-data-sharing-electronic-health-record-exchanges.html#tk.rss_all)
-- [Apple Watch rumor hints it&#39;s time for 3D printing to go mainstream](https://www.computerworld.com/article/3702718/apple-watch-rumor-hints-its-time-for-3d-printing-to-go-mainstream.html#tk.rss_all)
-- [UN Security Council discusses AI risks, need for ethical regulation](https://www.computerworld.com/article/3702716/un-security-council-discusses-ai-risks-need-for-ethical-regulation.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

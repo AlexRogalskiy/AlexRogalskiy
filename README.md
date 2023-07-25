@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Court strikes down limits on filming of police in Arizona](https://apnews.com/article/arizona-cant-limit-filming-of-police-a7a7ad0fe5b421d416ec3477d0795707)
-- [Welcome Debian riscv64](https://blog.aurel32.net/welcome-debian-riscv64.html)
-- [U.S. Senate bill crafted with DEA targets end-to-end encryption](https://therecord.media/senate-dea-bill-targets-end-to-end-encryption-requires-companies-to-report-drugs)
-- [VirtualBox 7.0.10 download links have disappeared](https://web.archive.org/web/20230723100307/https://www.virtualbox.org/wiki/Downloads)
-- [How Will Language Modelers Like ChatGPT Affect Occupations and Industries?](https://arxiv.org/abs/2303.01157)
-- [Teach your LLM to answer with facts, not fiction](https://blog.myscale.com/2023/07/17/teach-your-llm-vector-sql/)
-- [Why Frames Tilt Forward &lpar;2015&rpar;](https://chcollins.com/100Billion/2015/02/why-frames-tilt-forward/)
-- [All foster kids in California can now attend any state college for free](https://themessenger.com/news/all-foster-kids-in-california-can-now-attend-any-state-college-for-free)
-- [Never run ldd on unknown executables](https://catonmat.net/ldd-arbitrary-code-execution)
-- [PLJS – JavaScript Language Plugin for PostreSQL](https://github.com/plv8/pljs)
+- [Intro to Drone Detection Radar with Emphasis on Automatic Target Recognition](https://arxiv.org/abs/2307.10326)
+- [How Signal Walks the Line Between Anarchism and Pragmatism](https://www.wired.com/story/signal-politics-software-criticism/)
+- [Researchers find evidence of a 2000 year old curry, oldest ever found in SE Asia](https://phys.org/news/2023-07-evidence-year-old-curry-oldest-southeast.html)
+- [Twitter’s Rebrand to X Could Be a Trademark Nightmare Thanks to Microsoft](https://themessenger.com/tech/twitters-rebrand-to-x-could-be-a-trademark-nightmare-thanks-to-microsoft)
+- [Per capita CO₂ emissions Over Time](https://ourworldindata.org/grapher/co-emissions-per-capita)
+- [Byron Bay data breach victim told to pay Adidas, NBA $1.2M by US courts](https://www.abc.net.au/news/2023-07-25/byron-bay-data-breach-victim-adidas-nab-us-court-action-damages/102575726)
+- [Vscode.dev: Local Development with Cloud Tools](https://vscode.dev/)
+- [The Fall of Stack Overflow](https://observablehq.com/@ayhanfuat/the-fall-of-stack-overflow)
+- [Cephalopods use RNA editing to modify their nervous sytems](https://pubmed.ncbi.nlm.nih.gov/28388405/)
+- [Evolution of the Unix System Architecture: An Exploratory Case Study](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8704965#fromHistory)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

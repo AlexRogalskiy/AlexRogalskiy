@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [The Great British motorcycle scam – part one | Podcast](https://www.theguardian.com/news/audio/2023/jul/24/the-great-british-motorcycle-scam-part-one-podcast)
-- [Greta Gerwig makes history as Barbie has biggest opening weekend for film directed by a woman](https://www.theguardian.com/film/2023/jul/24/barbie-movie-box-office-greta-gerwig-records-highest-grossing-woman)
-- [Fukushima fish with 180 times legal limit of radioactive cesium fuels water release fears](https://www.theguardian.com/environment/2023/jul/24/fukushima-fish-with-180-times-legal-limit-of-radioactive-cesium-fuels-water-release-fears)
-- [German centre-right leader says he is willing to work with far-right AfD at local level](https://www.theguardian.com/world/2023/jul/24/german-centre-right-leader-says-he-is-willing-to-work-with-far-right-afd-at-local-level)
-- [Naarm, Gadigal, Tāmaki Makaurau: Indigenous placenames in the spotlight at Women’s World Cup](https://www.theguardian.com/football/2023/jul/24/naarm-gadigal-tamaki-makaurau-indigenous-placenames-in-the-spotlight-at-womens-world-cup)
-- [Russia-Ukraine war at a glance: what we know on day 516 of the invasion](https://www.theguardian.com/world/2023/jul/24/russia-ukraine-war-at-a-glance-what-we-know-on-day-516-of-the-invasion)
-- [Spain elections: hung parliament after conservatives fail to secure expected majority](https://www.theguardian.com/world/2023/jul/23/spainish-election-conservative-party-ahead-but-unlikely-to-win-majority)
-- [British manufacturers’ share of EU business falls despite global trade boom](https://www.theguardian.com/business/2023/jul/24/british-manufacturers-share-of-eu-business-falls-despite-global-trade-boom)
-- [New Zealand justice minister Kiri Allan resigns after resisting arrest following car crash](https://www.theguardian.com/world/2023/jul/24/kiri-allan-resigns-car-crash-new-zealand-justice-minister)
-- [Elon Musk says Twitter will change logo from bird to an X](https://www.theguardian.com/technology/2023/jul/23/twitter-elon-musk-says-he-wants-to-change-companys-bird-logo)
+- [Colombia v South Korea: Women’s World Cup 2023 – live](https://www.theguardian.com/football/live/2023/jul/24/colombia-v-south-korea-womens-world-cup-2023-live)
+- [The Great British motorcycle scam – part two - podcast](https://www.theguardian.com/news/audio/2023/jul/25/great-british-motorcycle-scam-norton-part-two-podcast)
+- [Obama’s personal chef dies while paddleboarding off Martha’s Vineyard](https://www.theguardian.com/us-news/2023/jul/24/tafari-campbell-barack-obama-chef-drowns-marthas-vineyard)
+- [Spotify increases premium price plans as streaming services feel strain](https://www.theguardian.com/technology/2023/jul/25/spotify-prices-increase-rise-premium-plans-global)
+- [Erik ten Hag urges Manchester United to sign striker ‘as soon as possible’](https://www.theguardian.com/football/2023/jul/25/manchester-united-manager-erik-ten-hag-press-conference-team-sign-striker)
+- [Julian Sands’ cause of death undetermined due to condition of his body](https://www.theguardian.com/film/2023/jul/25/julian-sands-cause-of-death-undetermined-due-to-condition-of-his-body)
+- [Israel protests: doctors announce strike amid mass demonstrations over judicial overhaul](https://www.theguardian.com/world/2023/jul/25/israel-protests-judicial-overhaul-reform-news-doctors-strike)
+- [Russia-Ukraine war at a glance: what we know on day 517 of the invasion](https://www.theguardian.com/world/2023/jul/25/russia-ukraine-war-at-a-glance-what-we-know-on-day-517-of-the-invasion)
+- [‘Catastrophic’ forecast shows 9m people in England with major illnesses by 2040](https://www.theguardian.com/society/2023/jul/25/catastrophic-forecast-shows-9m-people-in-england-with-major-illnesses-by-2040)
+- [Northern Ireland could lose half its veterinary medicines in Brexit row](https://www.theguardian.com/uk-news/2023/jul/25/northern-ireland-could-lose-half-its-veterinary-medicines-in-brexit-row)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

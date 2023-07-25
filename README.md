@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Apology and Update on Recent Accidental Data Exposure](https://blog.virustotal.com/2023/07/apology-and-update-on-recent-accidental.html)
-- [Elon Musk’s X obsession goes back to PayPal, could lead to WeChat competitor](https://www.smartcompany.com.au/marketing/social-media/elon-musk-twitter-logo-change-x-paypal-wechat-competitor/)
-- [Biden administration is tackling smart devices with a new cybersecurity label](https://www.theverge.com/2023/7/18/23798153/fcc-cyber-trust-mark-biden-security)
-- [Three new atlases reveal a new dimension of the human body](https://english.elpais.com/science-tech/2023-07-20/three-new-atlases-reveal-a-new-dimension-of-the-human-body.html)
-- [Sixth &#39;Hutter Prize&#39; Awarded for Achieving New Data Compression Milestone](https://hardware.slashdot.org/story/23/07/24/0215253/sixth-hutter-prize-awarded-for-achieving-new-data-compression-milestone)
-- [Bidet Shower – Hand Bidet, Commode/Toilet/Bum Shower, Health Faucet, Bum Gun](https://en.wikipedia.org/wiki/Bidet_shower)
-- [What Is a Hobby?](https://news.ycombinator.com/item?id=36842293)
-- [You&#39;re not a bad texter; dating apps just suck](https://www.newsweek.com/dating-apps-suck-ai-can-help-opinion-1814373)
-- [Rust impl of r/place with IPv6](https://github.com/serverscanning/place-ipv6-server)
-- [Ask HN: How do you use your iPad?](https://news.ycombinator.com/item?id=36842249)
+- [Origin of Life Molecules in the Atmosphere After Big Impacts on the Early Earth](https://arxiv.org/abs/2307.09761)
+- [Effective &gt; Productive](https://world.hey.com/jason/effective-productive-acfa210d)
+- [Ivory soap is 99 and 44/100% pure what?](https://www.straightdope.com/21342037/ivory-soap-is-99-and-44-100-pure-what)
+- [Some cheap things are only cheap if they have enough volume](https://utcc.utoronto.ca/~cks/space/blog/tech/CheapOnlyWhileThereIsVolume)
+- [Way ahead of it&#39;s time: The Remote Lounge NYC](https://docpop.org/2013/10/way-ahead-of-its-time-the-remote-lounge-nyc/)
+- [One year in, U.S. climate law is already turbocharging clean energy technology](https://www.nbcnews.com/science/environment/one-year-us-climate-law-already-turbocharging-clean-energy-technology-rcna95973)
+- [Show HN: One-line output parser for LLMs](https://github.com/SohamGovande/langschema)
+- [Mozilla Standards Positions Opposes Web Integrity API](https://github.com/mozilla/standards-positions/issues/852)
+- [The movement to limit face recognition tech might finally get a win](https://www.technologyreview.com/2023/07/20/1076539/face-recognition-massachusetts-test-police/)
+- [The #1 trivia book on Amazon is AI generated, and free for two more days](https://www.amazon.com/Emoji-Puzzles-Guess-Popular-Movies-ebook/dp/B0BZZ7S6JQ)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

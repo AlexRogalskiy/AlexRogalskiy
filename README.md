@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Colombia v South Korea: Women’s World Cup 2023 – live](https://www.theguardian.com/football/live/2023/jul/24/colombia-v-south-korea-womens-world-cup-2023-live)
-- [The Great British motorcycle scam – part two - podcast](https://www.theguardian.com/news/audio/2023/jul/25/great-british-motorcycle-scam-norton-part-two-podcast)
-- [Obama’s personal chef dies while paddleboarding off Martha’s Vineyard](https://www.theguardian.com/us-news/2023/jul/24/tafari-campbell-barack-obama-chef-drowns-marthas-vineyard)
-- [Spotify increases premium price plans as streaming services feel strain](https://www.theguardian.com/technology/2023/jul/25/spotify-prices-increase-rise-premium-plans-global)
-- [Erik ten Hag urges Manchester United to sign striker ‘as soon as possible’](https://www.theguardian.com/football/2023/jul/25/manchester-united-manager-erik-ten-hag-press-conference-team-sign-striker)
-- [Julian Sands’ cause of death undetermined due to condition of his body](https://www.theguardian.com/film/2023/jul/25/julian-sands-cause-of-death-undetermined-due-to-condition-of-his-body)
-- [Israel protests: doctors announce strike amid mass demonstrations over judicial overhaul](https://www.theguardian.com/world/2023/jul/25/israel-protests-judicial-overhaul-reform-news-doctors-strike)
-- [Russia-Ukraine war at a glance: what we know on day 517 of the invasion](https://www.theguardian.com/world/2023/jul/25/russia-ukraine-war-at-a-glance-what-we-know-on-day-517-of-the-invasion)
-- [‘Catastrophic’ forecast shows 9m people in England with major illnesses by 2040](https://www.theguardian.com/society/2023/jul/25/catastrophic-forecast-shows-9m-people-in-england-with-major-illnesses-by-2040)
-- [Northern Ireland could lose half its veterinary medicines in Brexit row](https://www.theguardian.com/uk-news/2023/jul/25/northern-ireland-could-lose-half-its-veterinary-medicines-in-brexit-row)
+- [The class of 2023: the UK’s unluckiest students – podcast](https://www.theguardian.com/news/audio/2023/jul/26/the-class-of-2023-the-uks-unluckiest-students-podcast)
+- [NatWest boss Alison Rose resigns over Nigel Farage Coutts account row](https://www.theguardian.com/business/2023/jul/26/natwest-boss-alison-rose-nigel-farage-account-coutts)
+- [Michael K Williams: drug dealer in overdose death of Wire actor sentenced to 30 months in prison](https://www.theguardian.com/tv-and-radio/2023/jul/26/michael-k-williams-the-wire-overdose-death-drug-dealer-sentenced)
+- [Russia raises the maximum age of conscription as it seeks to replenish Ukraine forces](https://www.theguardian.com/world/2023/jul/26/russia-conscription-maximum-age-raised-ukraine-war)
+- [Nasa briefly loses contact with ISS after power outage and relies on backup systems for first time](https://www.theguardian.com/science/2023/jul/26/iss-power-outage-nasa-contact-international-space-station-backup-systems)
+- [Tottenham Hotspur owner Joe Lewis charged with ‘brazen’ insider trading](https://www.theguardian.com/football/2023/jul/25/tottenham-hotspur-owner-joe-lewis-charged-insider-trading)
+- [Fiji prime minister cancels China visit after tripping while looking at mobile phone](https://www.theguardian.com/world/2023/jul/26/fiji-prime-minister-cancels-china-visit-after-falling-and-hitting-his-head)
+- [Former Taliban prisoner Bowe Bergdahl’s desertion conviction vacated](https://www.theguardian.com/us-news/2023/jul/25/former-taliban-prisoner-bowe-bergdahl-desertion-conviction-vacated)
+- [More than 50 beached pilot whales die in Western Australia after mass stranding](https://www.theguardian.com/environment/2023/jul/26/beached-pilot-whales-albany-western-australia-wa-dead-stranded-rescue-cheynes-beach)
+- [Guam fears becoming ‘target’ over planned $1.5bn US defence system](https://www.theguardian.com/world/2023/jul/26/guam-fears-becoming-target-over-planned-15bn-us-defence-system)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

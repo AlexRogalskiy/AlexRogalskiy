@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Intro to Drone Detection Radar with Emphasis on Automatic Target Recognition](https://arxiv.org/abs/2307.10326)
-- [How Signal Walks the Line Between Anarchism and Pragmatism](https://www.wired.com/story/signal-politics-software-criticism/)
-- [Researchers find evidence of a 2000 year old curry, oldest ever found in SE Asia](https://phys.org/news/2023-07-evidence-year-old-curry-oldest-southeast.html)
-- [Twitter’s Rebrand to X Could Be a Trademark Nightmare Thanks to Microsoft](https://themessenger.com/tech/twitters-rebrand-to-x-could-be-a-trademark-nightmare-thanks-to-microsoft)
-- [Per capita CO₂ emissions Over Time](https://ourworldindata.org/grapher/co-emissions-per-capita)
-- [Byron Bay data breach victim told to pay Adidas, NBA $1.2M by US courts](https://www.abc.net.au/news/2023-07-25/byron-bay-data-breach-victim-adidas-nab-us-court-action-damages/102575726)
-- [Vscode.dev: Local Development with Cloud Tools](https://vscode.dev/)
-- [The Fall of Stack Overflow](https://observablehq.com/@ayhanfuat/the-fall-of-stack-overflow)
-- [Cephalopods use RNA editing to modify their nervous sytems](https://pubmed.ncbi.nlm.nih.gov/28388405/)
-- [Evolution of the Unix System Architecture: An Exploratory Case Study](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8704965#fromHistory)
+- [Google abandons work to move Assistant smart speakers to Fuchsia](https://9to5google.com/2023/07/25/google-abandons-assistant-speakers-fuchsia/)
+- [Whom the gods would destroy, they first give real-time analytics &lpar;2013&rpar;](https://mcfunley.com/whom-the-gods-would-destroy-they-first-give-real-time-analytics)
+- [Stone knives and bear skins – there is no money in tools](https://queue.acm.org/detail.cfm?id=3606027)
+- [The Mathematica Journal is no longer accepting submissions](https://www.mathematica-journal.com/)
+- [Tesorio &lpar;YC S15&rpar; Is Hiring a Head of Marketing – join our 100% remote startup](https://jobs.lever.co/tesorio/10de016f-be07-4707-ac5c-7029f0398a17)
+- [A command-line murder mystery &lpar;2014&rpar;](https://github.com/veltman/clmystery)
+- [Treemaps are awesome](https://blog.phronemophobic.com/treemaps-are-awesome.html)
+- [PRQL: Pipelined Relational Query Language](https://github.com/PRQL/prql)
+- [Octox: Unix-like OS in Rust inspired by xv6-riscv](https://github.com/o8vm/octox)
+- [Launch HN: Roundtable &lpar;YC S23&rpar; – Using AI to Simulate Surveys](https://news.ycombinator.com/item?id=36865625)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

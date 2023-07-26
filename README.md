@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Origin of Life Molecules in the Atmosphere After Big Impacts on the Early Earth](https://arxiv.org/abs/2307.09761)
-- [Effective &gt; Productive](https://world.hey.com/jason/effective-productive-acfa210d)
-- [Ivory soap is 99 and 44/100% pure what?](https://www.straightdope.com/21342037/ivory-soap-is-99-and-44-100-pure-what)
-- [Some cheap things are only cheap if they have enough volume](https://utcc.utoronto.ca/~cks/space/blog/tech/CheapOnlyWhileThereIsVolume)
-- [Way ahead of it&#39;s time: The Remote Lounge NYC](https://docpop.org/2013/10/way-ahead-of-its-time-the-remote-lounge-nyc/)
-- [One year in, U.S. climate law is already turbocharging clean energy technology](https://www.nbcnews.com/science/environment/one-year-us-climate-law-already-turbocharging-clean-energy-technology-rcna95973)
-- [Show HN: One-line output parser for LLMs](https://github.com/SohamGovande/langschema)
-- [Mozilla Standards Positions Opposes Web Integrity API](https://github.com/mozilla/standards-positions/issues/852)
-- [The movement to limit face recognition tech might finally get a win](https://www.technologyreview.com/2023/07/20/1076539/face-recognition-massachusetts-test-police/)
-- [The #1 trivia book on Amazon is AI generated, and free for two more days](https://www.amazon.com/Emoji-Puzzles-Guess-Popular-Movies-ebook/dp/B0BZZ7S6JQ)
+- [From Twitter to X: Elon Musk Begins Erasing an Iconic Internet Brand](https://www.nytimes.com/2023/07/24/technology/twitter-x-elon-musk.html)
+- [R/Place Atlas](https://2023.place-atlas.stefanocoding.me/)
+- [Tell HN: I Got Fired, This Is How It Happened](https://news.ycombinator.com/item?id=36872401)
+- [Ask HN: How are interviews going now?](https://news.ycombinator.com/item?id=36872400)
+- [Threads Isn’t Labeling Propaganda Accounts from Russia, China State Media](https://www.wsj.com/articles/metas-threads-isnt-labeling-propaganda-accounts-from-russia-china-state-media-3f4c6cf8)
+- [Clearest-ever seafloor maps show deep-sea &#39;Grand Canyon&#39; off US coast in detail](https://www.livescience.com/planet-earth/rivers-oceans/clearest-ever-seafloor-maps-show-deep-sea-grand-canyon-off-us-coast-in-stunning-detail)
+- [Sorting algorithms to relax/study to [video]](https://www.youtube.com/watch?v=vr5dCRHAgb0)
+- [California Wants to Make You Get an EBike License](https://micromobility.substack.com/p/california-wants-to-make-you-get)
+- [Interview with the ETSI Standards Organization That Created Tetra “Backdoor”](https://zetter.substack.com/p/interview-with-the-etsi-standards)
+- [You most likely won’t learn good programming on the job](https://hasenjudy.wordpress.com/2018/03/09/programming-jobs-career/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

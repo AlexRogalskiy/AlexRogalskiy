@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [From Twitter to X: Elon Musk Begins Erasing an Iconic Internet Brand](https://www.nytimes.com/2023/07/24/technology/twitter-x-elon-musk.html)
-- [R/Place Atlas](https://2023.place-atlas.stefanocoding.me/)
-- [Tell HN: I Got Fired, This Is How It Happened](https://news.ycombinator.com/item?id=36872401)
-- [Ask HN: How are interviews going now?](https://news.ycombinator.com/item?id=36872400)
-- [Threads Isn’t Labeling Propaganda Accounts from Russia, China State Media](https://www.wsj.com/articles/metas-threads-isnt-labeling-propaganda-accounts-from-russia-china-state-media-3f4c6cf8)
-- [Clearest-ever seafloor maps show deep-sea &#39;Grand Canyon&#39; off US coast in detail](https://www.livescience.com/planet-earth/rivers-oceans/clearest-ever-seafloor-maps-show-deep-sea-grand-canyon-off-us-coast-in-stunning-detail)
-- [Sorting algorithms to relax/study to [video]](https://www.youtube.com/watch?v=vr5dCRHAgb0)
-- [California Wants to Make You Get an EBike License](https://micromobility.substack.com/p/california-wants-to-make-you-get)
-- [Interview with the ETSI Standards Organization That Created Tetra “Backdoor”](https://zetter.substack.com/p/interview-with-the-etsi-standards)
-- [You most likely won’t learn good programming on the job](https://hasenjudy.wordpress.com/2018/03/09/programming-jobs-career/)
+- [Making Amulets with Llama 2](https://suricrasia.online/blog/making-amulets-with-llama/)
+- [Review of the Sea by John Banville](https://arjunmad.substack.com/p/the-sea-by-john-banville)
+- [Names of Parts on Electric Pole](http://waterheatertimer.org/Names-of-parts-on-electric-pole.html)
+- [UFO Whistleblower Claims Coverup, Retribution in Sworn Testimony](https://www.thedrive.com/the-war-zone/ufo-whistleblower-claims-massive-coverup-retribution-in-sworn-testimony)
+- [SEC now requires companies to disclose cyberattacks in 4 days](https://www.bleepingcomputer.com/news/security/sec-now-requires-companies-to-disclose-cyberattacks-in-4-days/)
+- [ChatPDF on your desktop &lpar;API? Your choice&rpar;](https://www.chatpdf.in/)
+- [Ask HN: Is YouTube&#39;s Search Down?](https://news.ycombinator.com/item?id=36887866)
+- [Japanese population falls in all 47 prefectures for the first time](https://www.japantimes.co.jp/news/2023/07/26/japan/society/number-of-japanese-drops-in-all-47-prefectures-for-first-time-as-foreign-population-surges/)
+- [Ask HN: What do lady flexes across the stack look like?](https://news.ycombinator.com/item?id=36887830)
+- [PlaygroundRL: Launching Codenames Competition with 40k in Prizes](https://playgroundrl.com/codenames)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

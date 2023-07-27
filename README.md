@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [The class of 2023: the UK’s unluckiest students – podcast](https://www.theguardian.com/news/audio/2023/jul/26/the-class-of-2023-the-uks-unluckiest-students-podcast)
-- [NatWest boss Alison Rose resigns over Nigel Farage Coutts account row](https://www.theguardian.com/business/2023/jul/26/natwest-boss-alison-rose-nigel-farage-account-coutts)
-- [Michael K Williams: drug dealer in overdose death of Wire actor sentenced to 30 months in prison](https://www.theguardian.com/tv-and-radio/2023/jul/26/michael-k-williams-the-wire-overdose-death-drug-dealer-sentenced)
-- [Russia raises the maximum age of conscription as it seeks to replenish Ukraine forces](https://www.theguardian.com/world/2023/jul/26/russia-conscription-maximum-age-raised-ukraine-war)
-- [Nasa briefly loses contact with ISS after power outage and relies on backup systems for first time](https://www.theguardian.com/science/2023/jul/26/iss-power-outage-nasa-contact-international-space-station-backup-systems)
-- [Tottenham Hotspur owner Joe Lewis charged with ‘brazen’ insider trading](https://www.theguardian.com/football/2023/jul/25/tottenham-hotspur-owner-joe-lewis-charged-insider-trading)
-- [Fiji prime minister cancels China visit after tripping while looking at mobile phone](https://www.theguardian.com/world/2023/jul/26/fiji-prime-minister-cancels-china-visit-after-falling-and-hitting-his-head)
-- [Former Taliban prisoner Bowe Bergdahl’s desertion conviction vacated](https://www.theguardian.com/us-news/2023/jul/25/former-taliban-prisoner-bowe-bergdahl-desertion-conviction-vacated)
-- [More than 50 beached pilot whales die in Western Australia after mass stranding](https://www.theguardian.com/environment/2023/jul/26/beached-pilot-whales-albany-western-australia-wa-dead-stranded-rescue-cheynes-beach)
-- [Guam fears becoming ‘target’ over planned $1.5bn US defence system](https://www.theguardian.com/world/2023/jul/26/guam-fears-becoming-target-over-planned-15bn-us-defence-system)
+- [USA v Netherlands: Women’s World Cup 2023 – live](https://www.theguardian.com/football/live/2023/jul/26/usa-v-netherlands-womens-world-cup-2023-soccer-live-score)
+- [Climate crisis up close: a week of wildfires in Rhodes - podcast](https://www.theguardian.com/news/audio/2023/jul/27/climate-crisis-up-close-a-week-of-wildfires-in-rhodes-podcast)
+- [Russia-Ukraine war at a glance: what we know on day 519 of the invasion](https://www.theguardian.com/world/2023/jul/27/russia-ukraine-war-at-a-glance-what-we-know-on-day-519-of-the-invasion)
+- [Aaron Rodgers takes $35m pay cut in reworked contract with New York Jets](https://www.theguardian.com/sport/2023/jul/26/aaron-rodgers-pay-cut-new-york-jets-contract)
+- [Ukraine steps up counteroffensive with new push south and around Bakhmut](https://www.theguardian.com/world/2023/jul/26/ukrainian-forces-appear-to-advance-closer-to-bakhmut)
+- [Moldova expels 45 Russian diplomats and embassy staff, citing years of ‘hostile actions’](https://www.theguardian.com/world/2023/jul/27/moldova-expels-45-russia-diplomats-russian-embassy-officials-staff)
+- [Mitch McConnell abruptly stops mid-sentence during press conference](https://www.theguardian.com/us-news/2023/jul/26/mitch-mcconnell-press-conference)
+- [Niger soldiers announce coup and president’s removal on national TV](https://www.theguardian.com/world/2023/jul/26/armed-troops-blockade-presidential-palace-in-niger-mohamed-bazoum)
+- [Meta stock surges after company reports 11% rise in revenue](https://www.theguardian.com/technology/2023/jul/26/meta-stock-rallies-revenue-rises)
+- [The turbulent career of Sinéad O’Connor – video obituary](https://www.theguardian.com/music/video/2023/jul/26/sinead-oconnor-the-turbulent-career-of-the-irish-sensation-video-obituary)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

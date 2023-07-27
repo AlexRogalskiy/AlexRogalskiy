@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Google abandons work to move Assistant smart speakers to Fuchsia](https://9to5google.com/2023/07/25/google-abandons-assistant-speakers-fuchsia/)
-- [Whom the gods would destroy, they first give real-time analytics &lpar;2013&rpar;](https://mcfunley.com/whom-the-gods-would-destroy-they-first-give-real-time-analytics)
-- [Stone knives and bear skins – there is no money in tools](https://queue.acm.org/detail.cfm?id=3606027)
-- [The Mathematica Journal is no longer accepting submissions](https://www.mathematica-journal.com/)
-- [Tesorio &lpar;YC S15&rpar; Is Hiring a Head of Marketing – join our 100% remote startup](https://jobs.lever.co/tesorio/10de016f-be07-4707-ac5c-7029f0398a17)
-- [A command-line murder mystery &lpar;2014&rpar;](https://github.com/veltman/clmystery)
-- [Treemaps are awesome](https://blog.phronemophobic.com/treemaps-are-awesome.html)
-- [PRQL: Pipelined Relational Query Language](https://github.com/PRQL/prql)
-- [Octox: Unix-like OS in Rust inspired by xv6-riscv](https://github.com/o8vm/octox)
-- [Launch HN: Roundtable &lpar;YC S23&rpar; – Using AI to Simulate Surveys](https://news.ycombinator.com/item?id=36865625)
+- [Pull of the Undercurl](https://ryantravitz.com/blog/2023-02-18-pull-of-the-undercurl/)
+- [Rainmaker &lpar;YC W23&rpar; Is Hiring](https://www.ycombinator.com/companies/rainmaker/jobs/wzsHtSb-platform-full-stack-engineer)
+- [Chidori – Declarative Framework for AI Agents &lpar;Rust, Python, and Node.js&rpar;](https://github.com/ThousandBirdsInc/chidori)
+- [It&#39;s 2023, so of course I&#39;m learning Common Lisp](https://log.schemescape.com/posts/programming-languages/learning-lisp-in-2023.html)
+- [Exway doesn&#39;t care about USB-C conformity](https://ericswpark.com/blog/2023/2023-07-26-exway-doesnt-care-about-usb-c-conformity/)
+- [TiddlyPWA: putting TiddlyWiki on modern web app steroids](https://val.packett.cool/blog/tiddlypwa/)
+- [A beautiful, broken America: what I learned on a 2,800-mile bus ride](https://www.theguardian.com/travel/2023/jul/26/america-roadtrip-greyhound-bus)
+- [Kids Online Safety Act is still a danger to our rights online](https://www.eff.org/deeplinks/2023/05/kids-online-safety-act-still-huge-danger-our-rights-online)
+- [A copywriter swindled victims out of $200M by pretending to be a psychic](https://thewalrus.ca/the-greatest-scam-ever-written/)
+- [Cultivating a state of mind where new ideas are born](https://www.henrikkarlsson.xyz/p/good-ideas)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

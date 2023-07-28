@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Making Amulets with Llama 2](https://suricrasia.online/blog/making-amulets-with-llama/)
-- [Review of the Sea by John Banville](https://arjunmad.substack.com/p/the-sea-by-john-banville)
-- [Names of Parts on Electric Pole](http://waterheatertimer.org/Names-of-parts-on-electric-pole.html)
-- [UFO Whistleblower Claims Coverup, Retribution in Sworn Testimony](https://www.thedrive.com/the-war-zone/ufo-whistleblower-claims-massive-coverup-retribution-in-sworn-testimony)
-- [SEC now requires companies to disclose cyberattacks in 4 days](https://www.bleepingcomputer.com/news/security/sec-now-requires-companies-to-disclose-cyberattacks-in-4-days/)
-- [ChatPDF on your desktop &lpar;API? Your choice&rpar;](https://www.chatpdf.in/)
-- [Ask HN: Is YouTube&#39;s Search Down?](https://news.ycombinator.com/item?id=36887866)
-- [Japanese population falls in all 47 prefectures for the first time](https://www.japantimes.co.jp/news/2023/07/26/japan/society/number-of-japanese-drops-in-all-47-prefectures-for-first-time-as-foreign-population-surges/)
-- [Ask HN: What do lady flexes across the stack look like?](https://news.ycombinator.com/item?id=36887830)
-- [PlaygroundRL: Launching Codenames Competition with 40k in Prizes](https://playgroundrl.com/codenames)
+- [Debian Looks Forward to 2038](https://lwn.net/Articles/938149/)
+- [How to auto-generate OpenGraph images](https://www.yieldcode.blog/post/how-to-auto-generate-og-images/)
+- [The Early History of Human Excreta](https://daily.jstor.org/the-early-history-of-human-excreta/)
+- [How to create your own SEO tool](https://onebite.dev/how-to-create-your-own-seo-tool/)
+- [The Case for Software Criticism](https://www.wired.com/story/software-criticism/)
+- [Clear vs. TSA PreCheck: What’s better for price and privacy?](https://www.washingtonpost.com/technology/2023/07/20/clear-tsa-precheck-cost-privacy-airport-security/)
+- [Blood of Young Mice Extends Life in the Old](https://www.nytimes.com/2023/07/27/health/mice-blood-aging.html)
+- [Victorian &lpar;Australia&rpar; government bans gas in new homes from 2024](https://www.abc.net.au/news/2023-07-28/victoria-bans-gas-new-homes-housing-developments-emissions/102659636)
+- [Korean team claims to have created the first room-temperature superconductor](https://phys.org/news/2023-07-korean-team-room-temperature-ambient-pressure-superconductor.html)
+- [Are you going to let Sam Altman’s crypto project scan your eyeballs or not?](https://techcrunch.com/2023/07/27/are-you-going-to-let-sam-altmans-crypto-project-scan-your-eyeballs-or-not/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

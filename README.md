@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [USA v Netherlands: Women’s World Cup 2023 – live](https://www.theguardian.com/football/live/2023/jul/26/usa-v-netherlands-womens-world-cup-2023-soccer-live-score)
-- [Climate crisis up close: a week of wildfires in Rhodes - podcast](https://www.theguardian.com/news/audio/2023/jul/27/climate-crisis-up-close-a-week-of-wildfires-in-rhodes-podcast)
-- [Russia-Ukraine war at a glance: what we know on day 519 of the invasion](https://www.theguardian.com/world/2023/jul/27/russia-ukraine-war-at-a-glance-what-we-know-on-day-519-of-the-invasion)
-- [Aaron Rodgers takes $35m pay cut in reworked contract with New York Jets](https://www.theguardian.com/sport/2023/jul/26/aaron-rodgers-pay-cut-new-york-jets-contract)
-- [Ukraine steps up counteroffensive with new push south and around Bakhmut](https://www.theguardian.com/world/2023/jul/26/ukrainian-forces-appear-to-advance-closer-to-bakhmut)
-- [Moldova expels 45 Russian diplomats and embassy staff, citing years of ‘hostile actions’](https://www.theguardian.com/world/2023/jul/27/moldova-expels-45-russia-diplomats-russian-embassy-officials-staff)
-- [Mitch McConnell abruptly stops mid-sentence during press conference](https://www.theguardian.com/us-news/2023/jul/26/mitch-mcconnell-press-conference)
-- [Niger soldiers announce coup and president’s removal on national TV](https://www.theguardian.com/world/2023/jul/26/armed-troops-blockade-presidential-palace-in-niger-mohamed-bazoum)
-- [Meta stock surges after company reports 11% rise in revenue](https://www.theguardian.com/technology/2023/jul/26/meta-stock-rallies-revenue-rises)
-- [The turbulent career of Sinéad O’Connor – video obituary](https://www.theguardian.com/music/video/2023/jul/26/sinead-oconnor-the-turbulent-career-of-the-irish-sensation-video-obituary)
+- [Argentina 2-2 South Africa: Women’s World Cup 2023 Group G – live](https://www.theguardian.com/football/live/2023/jul/27/argentina-v-south-africa-womens-world-cup-2023-group-g-live)
+- [Trump faces more charges in classified documents case as second aide named](https://www.theguardian.com/us-news/2023/jul/27/trump-mar-a-lago-classified-documents-case-carlos-de-oliveira)
+- [Russia-Ukraine war at a glance: what we know on day 520 of the invasion](https://www.theguardian.com/world/2023/jul/28/russia-ukraine-war-at-a-glance-what-we-know-on-day-520-of-the-invasion)
+- [Home Office buys tents to house asylum seekers](https://www.theguardian.com/uk-news/2023/jul/28/home-office-buys-tents-to-house-asylum-seekers)
+- [Discrimination against women working in English football on rise, survey says](https://www.theguardian.com/football/2023/jul/28/discrimination-against-women-working-in-english-football-on-rise-survey-says)
+- [Britain loses 6,000 retail outlets in five years as shops close](https://www.theguardian.com/business/2023/jul/28/britain-loses-6000-retail-outlets-in-five-years-as-shops-close)
+- [MoD accidentally sends classified emails meant for US to Russian ally](https://www.theguardian.com/uk-news/2023/jul/27/mod-accidentally-sends-classified-emails-meant-for-us-to-russian-ally)
+- [Oregon prison nurse guilty of sexually abusing nine women in custody](https://www.theguardian.com/us-news/2023/jul/27/oregon-prison-nurse-guilty-sexual-abuse-women)
+- [China: Qin Gang mystery intensifies as articles wiped from ministry site reappear](https://www.theguardian.com/world/2023/jul/27/mystery-qin-gang-intensifies-foreign-ministry-reinstates-references)
+- [US-Saudi talks amid reports of far-reaching diplomatic plan for Middle East](https://www.theguardian.com/world/2023/jul/27/saudi-arabia-united-states-diplomatic-endeavor)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Generative AI could be a critical tool for the visually impaired](https://www.computerworld.com/article/3703569/generative-ai-could-be-a-critical-tool-for-the-visually-impaired.html#tk.rss_all)
+- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
+- [Apple &lpar;un&rpar;officially calls &#39;Action&#39; on iPhone 15 rumor season](https://www.computerworld.com/article/3703608/apple-unofficially-calls-action-on-iphone-15-rumor-season.html#tk.rss_all)
+- [Is generative AI mightier than the law?](https://www.computerworld.com/article/3703250/is-generative-ai-mightier-than-the-law.html#tk.rss_all)
+- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
 - [Major generative AI players join to create the Frontier Model Forum](https://www.computerworld.com/article/3703509/major-generative-ai-players-join-to-create-the-frontier-model-forum.html#tk.rss_all)
 - [Was Steve Jobs right about this?](https://www.computerworld.com/article/3703090/was-steve-jobs-right-about-this.html#tk.rss_all)
 - [New monday.com data infrastructure to speed platform performance](https://www.computerworld.com/article/3703228/new-mondaycom-data-infrastructure-to-speed-platform-performance.html#tk.rss_all)
-- [How the Google Pixel Fold could make every Android device better](https://www.computerworld.com/article/3703214/google-pixel-fold-android.html#tk.rss_all)
-- [Companies that trialed a 4-day workweek continue to reduce time on the clock](https://www.computerworld.com/article/3703132/companies-that-trialed-a-4-day-workweek-continue-reduce-time-on-the-clock.html#tk.rss_all)
-- [White House promises on AI regulation called &#39;vague&#39; and &#39;disappointing&#39;](https://www.computerworld.com/article/3703231/white-house-promises-on-ai-regulation-called-vague-and-disappointing.html#tk.rss_all)
-- [It’s time to break the ChatGPT habit](https://www.computerworld.com/article/3703058/it-s-time-to-break-the-chatgpt-habit.html#tk.rss_all)
-- [Drive cloning in Windows 10 and 11](https://www.computerworld.com/article/3168777/drive-cloning-windows-how-to.html#tk.rss_all)
-- [Microsoft 365 outage takes out OneDrive for Business, SharePoint Online](https://www.computerworld.com/article/3703291/microsoft-365-outage-takes-out-onedrive-for-business-sharepoint-online.html#tk.rss_all)
-- [‘Windows is a declining ecosystem,&#39; Jamf CEO says](https://www.computerworld.com/article/3703289/windows-is-a-declining-ecosystem-jamf-ceo-says.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

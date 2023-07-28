@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Pull of the Undercurl](https://ryantravitz.com/blog/2023-02-18-pull-of-the-undercurl/)
-- [Rainmaker &lpar;YC W23&rpar; Is Hiring](https://www.ycombinator.com/companies/rainmaker/jobs/wzsHtSb-platform-full-stack-engineer)
-- [Chidori – Declarative Framework for AI Agents &lpar;Rust, Python, and Node.js&rpar;](https://github.com/ThousandBirdsInc/chidori)
-- [It&#39;s 2023, so of course I&#39;m learning Common Lisp](https://log.schemescape.com/posts/programming-languages/learning-lisp-in-2023.html)
-- [Exway doesn&#39;t care about USB-C conformity](https://ericswpark.com/blog/2023/2023-07-26-exway-doesnt-care-about-usb-c-conformity/)
-- [TiddlyPWA: putting TiddlyWiki on modern web app steroids](https://val.packett.cool/blog/tiddlypwa/)
-- [A beautiful, broken America: what I learned on a 2,800-mile bus ride](https://www.theguardian.com/travel/2023/jul/26/america-roadtrip-greyhound-bus)
-- [Kids Online Safety Act is still a danger to our rights online](https://www.eff.org/deeplinks/2023/05/kids-online-safety-act-still-huge-danger-our-rights-online)
-- [A copywriter swindled victims out of $200M by pretending to be a psychic](https://thewalrus.ca/the-greatest-scam-ever-written/)
-- [Cultivating a state of mind where new ideas are born](https://www.henrikkarlsson.xyz/p/good-ideas)
+- [Tesla exaggerated EV range so much that drivers thought cars were broken](https://arstechnica.com/tech-policy/2023/07/tesla-exaggerated-ev-range-so-much-that-drivers-thought-cars-were-broken/)
+- [The moral character of cryptographic work &lpar;2015&rpar;](https://web.cs.ucdavis.edu/~rogaway/papers/moral.html)
+- [Faster Filesystem Access with Directfs](https://gvisor.dev/blog/2023/06/27/directfs/)
+- [ICML 2023 Outstanding Paper Awards](https://icml.cc/Conferences/2023/Awards)
+- [LeMUR: LLMs for Audio and Speech](https://www.assemblyai.com/blog/lemur/)
+- [Svix &lpar;YC W21&rpar; Is Hiring a Founding Account Executive &lpar;US Remote&rpar;](https://www.svix.com/careers/)
+- [Annual EFF Awards: Alexandra Elbakyan, Library Freedom Project, and Signal](https://www.eff.org/press/releases/electronic-frontier-foundation-present-annual-eff-awards-alexandra-asanovna-elbakyan)
+- [Show HN: Envoy playground in the browser](https://envoy-playground.apoxy.dev)
+- [Namibian fairy circle debate rages on: Sand termites or Turing mechanism?](https://arstechnica.com/science/2023/07/the-namibian-fairy-circle-debate-rages-on-could-it-be-sand-termites-after-all/)
+- [Kill DWM &lpar;on Windows11&rpar; for less input lag and better performance](https://github.com/nebuloss/killer)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

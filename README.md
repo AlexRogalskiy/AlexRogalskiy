@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Debian Looks Forward to 2038](https://lwn.net/Articles/938149/)
-- [How to auto-generate OpenGraph images](https://www.yieldcode.blog/post/how-to-auto-generate-og-images/)
-- [The Early History of Human Excreta](https://daily.jstor.org/the-early-history-of-human-excreta/)
-- [How to create your own SEO tool](https://onebite.dev/how-to-create-your-own-seo-tool/)
-- [The Case for Software Criticism](https://www.wired.com/story/software-criticism/)
-- [Clear vs. TSA PreCheck: What’s better for price and privacy?](https://www.washingtonpost.com/technology/2023/07/20/clear-tsa-precheck-cost-privacy-airport-security/)
-- [Blood of Young Mice Extends Life in the Old](https://www.nytimes.com/2023/07/27/health/mice-blood-aging.html)
-- [Victorian &lpar;Australia&rpar; government bans gas in new homes from 2024](https://www.abc.net.au/news/2023-07-28/victoria-bans-gas-new-homes-housing-developments-emissions/102659636)
-- [Korean team claims to have created the first room-temperature superconductor](https://phys.org/news/2023-07-korean-team-room-temperature-ambient-pressure-superconductor.html)
-- [Are you going to let Sam Altman’s crypto project scan your eyeballs or not?](https://techcrunch.com/2023/07/27/are-you-going-to-let-sam-altmans-crypto-project-scan-your-eyeballs-or-not/)
+- [Indo-European dialects dispersed across Eurasia in waves over 8K years](https://english.elpais.com/science-tech/2023-07-28/indo-european-dialects-dispersed-across-eurasia-in-successive-waves-over-the-course-of-8000-years.html)
+- [Gina Miller&#39;s political party UK bank account to be closed](https://www.bbc.com/news/uk-politics-66328098)
+- [Canada’s Secret Weapon: America’s Broken Immigration System [video]](https://www.youtube.com/watch?v=kRhZdmtw3Wg)
+- [A Browser Extension for Twitter](https://github.com/Haojen/Helper-for-Twitter)
+- [The ESP32 doesn&#39;t need much](https://hackaday.com/2023/07/28/the-esp32-doesnt-need-much/)
+- [Scrap AML/KYC Laws](https://marginalrevolution.com/marginalrevolution/2023/07/scrap-amc-kyc-laws.html)
+- [Minecraft website evolution 2009-2022](https://www.webdesignmuseum.org/gallery/minecraft-in-2009)
+- [Aeolus: &#39;Impossible satellite&#39; takes fiery plunge to Earth](https://www.bbc.co.uk/news/science-environment-66326153)
+- [Did ChatGPT write this? Here’s how to tell](https://foundation.mozilla.org/en/blog/how-to-tell-chat-gpt-generated-text/)
+- [Human Rights Council condemns the burning of the Quran as a religious hate act](https://unric.org/en/human-rights-council-condemns-the-burning-of-the-quran-as-a-religious-hate-act/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

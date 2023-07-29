@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Argentina 2-2 South Africa: Women’s World Cup 2023 Group G – live](https://www.theguardian.com/football/live/2023/jul/27/argentina-v-south-africa-womens-world-cup-2023-group-g-live)
-- [Trump faces more charges in classified documents case as second aide named](https://www.theguardian.com/us-news/2023/jul/27/trump-mar-a-lago-classified-documents-case-carlos-de-oliveira)
-- [Russia-Ukraine war at a glance: what we know on day 520 of the invasion](https://www.theguardian.com/world/2023/jul/28/russia-ukraine-war-at-a-glance-what-we-know-on-day-520-of-the-invasion)
-- [Home Office buys tents to house asylum seekers](https://www.theguardian.com/uk-news/2023/jul/28/home-office-buys-tents-to-house-asylum-seekers)
-- [Discrimination against women working in English football on rise, survey says](https://www.theguardian.com/football/2023/jul/28/discrimination-against-women-working-in-english-football-on-rise-survey-says)
-- [Britain loses 6,000 retail outlets in five years as shops close](https://www.theguardian.com/business/2023/jul/28/britain-loses-6000-retail-outlets-in-five-years-as-shops-close)
-- [MoD accidentally sends classified emails meant for US to Russian ally](https://www.theguardian.com/uk-news/2023/jul/27/mod-accidentally-sends-classified-emails-meant-for-us-to-russian-ally)
-- [Oregon prison nurse guilty of sexually abusing nine women in custody](https://www.theguardian.com/us-news/2023/jul/27/oregon-prison-nurse-guilty-sexual-abuse-women)
-- [China: Qin Gang mystery intensifies as articles wiped from ministry site reappear](https://www.theguardian.com/world/2023/jul/27/mystery-qin-gang-intensifies-foreign-ministry-reinstates-references)
-- [US-Saudi talks amid reports of far-reaching diplomatic plan for Middle East](https://www.theguardian.com/world/2023/jul/27/saudi-arabia-united-states-diplomatic-endeavor)
+- [Joe Biden openly acknowledges his seventh grandchild for the first time](https://www.theguardian.com/us-news/2023/jul/29/joe-biden-openly-acknowledges-his-seventh-grandchild-for-the-first-time)
+- [Queensland military helicopter crash: four feared dead after MRH90 goes down off Hamilton Island](https://www.theguardian.com/australia-news/2023/jul/29/queensland-military-helicopter-crash-four-feared-dead-after-incident-off-hamilton-island)
+- [‘Something weird is going on’: search for answers as Antarctic sea ice stays at historic lows](https://www.theguardian.com/world/2023/jul/29/something-weird-is-going-on-search-for-answers-as-antarctic-sea-ice-stays-at-historic-lows)
+- [Lawsuit filed by woman claiming Subway’s tuna isn’t tuna dismissed](https://www.theguardian.com/us-news/2023/jul/28/subway-tuna-lawsuit-dismissed)
+- [British satellite guided to assisted crash in Atlantic in world first](https://www.theguardian.com/science/2023/jul/28/british-satellite-guided-to-assisted-crash-in-atlantic-in-space-first)
+- [Russian forces strike Dnipro as Moscow accuses Ukraine of missile strike](https://www.theguardian.com/world/2023/jul/28/russian-forces-strike-dnipro-apartment-building-injuring-three)
+- [Reframed: Marilyn Monroe review – a persuasive look at the icon’s ferocious intelligence](https://www.theguardian.com/tv-and-radio/2023/jul/28/reframed-marilyn-monroe-review)
+- [Manchester United plan £30m Amrabat move but may need to sell players first](https://www.theguardian.com/football/2023/jul/28/manchester-united-plan-amrabat-move)
+- [IOC issues invitation to Ukrainian fencer disqualified for anti-Russia protest](https://www.theguardian.com/sport/2023/jul/28/ukraine-fencer-olha-kharlan-olympics-disqualification-russia)
+- [Jack Welsby at the double to help injury-struck St Helens overcome Leeds](https://www.theguardian.com/sport/2023/jul/28/jack-welsby-at-the-double-to-help-injury-hit-st-helens-see-off-leeds)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

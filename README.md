@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Apple toughens up app security with API control](https://www.computerworld.com/article/3703688/apple-toughens-up-app-security-with-api-control.html#tk.rss_all)
+- [AMD to invest $400 million in new design center in India](https://www.computerworld.com/article/3703613/amd-to-invest-400-million-in-new-design-center-in-india.html#tk.rss_all)
+- [AI tools could leave companies liable for anti-bias missteps](https://www.computerworld.com/article/3703610/ai-tools-could-leave-companies-liable-for-anti-bias-missteps.html#tk.rss_all)
+- [Microsoft faces EU antitrust probe for bundling Teams with M365](https://www.computerworld.com/article/3703668/microsoft-faces-eu-antitrust-probe-for-bundling-teams-with-m365.html#tk.rss_all)
 - [Generative AI could be a critical tool for the visually impaired](https://www.computerworld.com/article/3703569/generative-ai-could-be-a-critical-tool-for-the-visually-impaired.html#tk.rss_all)
 - [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
 - [Apple &lpar;un&rpar;officially calls &#39;Action&#39; on iPhone 15 rumor season](https://www.computerworld.com/article/3703608/apple-unofficially-calls-action-on-iphone-15-rumor-season.html#tk.rss_all)
 - [Is generative AI mightier than the law?](https://www.computerworld.com/article/3703250/is-generative-ai-mightier-than-the-law.html#tk.rss_all)
 - [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
-- [Major generative AI players join to create the Frontier Model Forum](https://www.computerworld.com/article/3703509/major-generative-ai-players-join-to-create-the-frontier-model-forum.html#tk.rss_all)
-- [Was Steve Jobs right about this?](https://www.computerworld.com/article/3703090/was-steve-jobs-right-about-this.html#tk.rss_all)
-- [New monday.com data infrastructure to speed platform performance](https://www.computerworld.com/article/3703228/new-mondaycom-data-infrastructure-to-speed-platform-performance.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

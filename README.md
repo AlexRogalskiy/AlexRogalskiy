@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Tesla exaggerated EV range so much that drivers thought cars were broken](https://arstechnica.com/tech-policy/2023/07/tesla-exaggerated-ev-range-so-much-that-drivers-thought-cars-were-broken/)
-- [The moral character of cryptographic work &lpar;2015&rpar;](https://web.cs.ucdavis.edu/~rogaway/papers/moral.html)
-- [Faster Filesystem Access with Directfs](https://gvisor.dev/blog/2023/06/27/directfs/)
-- [ICML 2023 Outstanding Paper Awards](https://icml.cc/Conferences/2023/Awards)
-- [LeMUR: LLMs for Audio and Speech](https://www.assemblyai.com/blog/lemur/)
-- [Svix &lpar;YC W21&rpar; Is Hiring a Founding Account Executive &lpar;US Remote&rpar;](https://www.svix.com/careers/)
-- [Annual EFF Awards: Alexandra Elbakyan, Library Freedom Project, and Signal](https://www.eff.org/press/releases/electronic-frontier-foundation-present-annual-eff-awards-alexandra-asanovna-elbakyan)
-- [Show HN: Envoy playground in the browser](https://envoy-playground.apoxy.dev)
-- [Namibian fairy circle debate rages on: Sand termites or Turing mechanism?](https://arstechnica.com/science/2023/07/the-namibian-fairy-circle-debate-rages-on-could-it-be-sand-termites-after-all/)
-- [Kill DWM &lpar;on Windows11&rpar; for less input lag and better performance](https://github.com/nebuloss/killer)
+- [RISC-V CPU formal specification F# edition](https://github.com/mrLSD/riscv-fs)
+- [Panic Among the Streamers](https://www.honest-broker.com/p/panic-among-the-streamers)
+- [Dream First Bank Assumes All of the Deposits of Heartland Tri-State Bank](https://www.fdic.gov/news/press-releases/2023/pr23058.html)
+- [No-GIL mode coming for Python](https://lwn.net/Articles/939568/)
+- [SpaceX punched a hole in the ionosphere](https://spaceweatherarchive.com/2023/07/23/spacex-punched-a-hole-in-the-ionosphere/)
+- [Mess with DNS](https://messwithdns.net)
+- [The U.K. government is close to eroding encryption worldwide](https://www.eff.org/deeplinks/2023/07/uk-government-very-close-eroding-encryption-worldwide)
+- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Machine Learning Engineers](https://news.ycombinator.com/item?id=36913263)
+- [Wordward Draw](https://managore.itch.io/wordward-draw)
+- [Real-time monitoring of aerosols generated from toilet flushing](https://www.microbiologyresearch.org/content/journal/acmi/10.1099/acmi.fis2019.po0192)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

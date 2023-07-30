@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [RISC-V CPU formal specification F# edition](https://github.com/mrLSD/riscv-fs)
-- [Panic Among the Streamers](https://www.honest-broker.com/p/panic-among-the-streamers)
-- [Dream First Bank Assumes All of the Deposits of Heartland Tri-State Bank](https://www.fdic.gov/news/press-releases/2023/pr23058.html)
-- [No-GIL mode coming for Python](https://lwn.net/Articles/939568/)
-- [SpaceX punched a hole in the ionosphere](https://spaceweatherarchive.com/2023/07/23/spacex-punched-a-hole-in-the-ionosphere/)
-- [Mess with DNS](https://messwithdns.net)
-- [The U.K. government is close to eroding encryption worldwide](https://www.eff.org/deeplinks/2023/07/uk-government-very-close-eroding-encryption-worldwide)
-- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Machine Learning Engineers](https://news.ycombinator.com/item?id=36913263)
-- [Wordward Draw](https://managore.itch.io/wordward-draw)
-- [Real-time monitoring of aerosols generated from toilet flushing](https://www.microbiologyresearch.org/content/journal/acmi/10.1099/acmi.fis2019.po0192)
+- [GNU Boot sent a cease and desist to Libreboot](https://libreboot.org/news/gnuboot.html#gnu-boot-cease-and-desist-email)
+- [Snowflake](https://snowflake.torproject.org/)
+- [Apple Pencils don’t draw straight on replaced iPad screens](https://arstechnica.com/gadgets/2023/07/apple-pencils-cant-draw-straight-on-third-party-replacement-ipad-screens/)
+- [ASML EUV Lithography Machine Could Keep Moore’s Law on Track](https://spectrum.ieee.org/high-na-euv)
+- [Button Pushes You](https://despens.systems/2022/06/button-pushes-you/)
+- [Room Temperature Superconductor Drama and Hope](https://twitter.com/8teAPi/status/1684385895565365248)
+- [Red algae proteins grafted into tobacco double plant growth](https://news.cornell.edu/stories/2023/07/red-algae-proteins-grafted-tobacco-double-plant-growth)
+- [Meticulous &lpar;YC S21&rpar; is hiring #3 engineer to build future of testing](https://news.ycombinator.com/item?id=36924518)
+- [Show HN: Gogit – Just enough Git &lpar;in Go&rpar; to push itself to GitHub](https://benhoyt.com/writings/gogit/)
+- [The Transformer Blueprint](https://deeprevision.github.io/posts/001-transformer/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

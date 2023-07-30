@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Joe Biden openly acknowledges his seventh grandchild for the first time](https://www.theguardian.com/us-news/2023/jul/29/joe-biden-openly-acknowledges-his-seventh-grandchild-for-the-first-time)
-- [Queensland military helicopter crash: four feared dead after MRH90 goes down off Hamilton Island](https://www.theguardian.com/australia-news/2023/jul/29/queensland-military-helicopter-crash-four-feared-dead-after-incident-off-hamilton-island)
-- [‘Something weird is going on’: search for answers as Antarctic sea ice stays at historic lows](https://www.theguardian.com/world/2023/jul/29/something-weird-is-going-on-search-for-answers-as-antarctic-sea-ice-stays-at-historic-lows)
-- [Lawsuit filed by woman claiming Subway’s tuna isn’t tuna dismissed](https://www.theguardian.com/us-news/2023/jul/28/subway-tuna-lawsuit-dismissed)
-- [British satellite guided to assisted crash in Atlantic in world first](https://www.theguardian.com/science/2023/jul/28/british-satellite-guided-to-assisted-crash-in-atlantic-in-space-first)
-- [Russian forces strike Dnipro as Moscow accuses Ukraine of missile strike](https://www.theguardian.com/world/2023/jul/28/russian-forces-strike-dnipro-apartment-building-injuring-three)
-- [Reframed: Marilyn Monroe review – a persuasive look at the icon’s ferocious intelligence](https://www.theguardian.com/tv-and-radio/2023/jul/28/reframed-marilyn-monroe-review)
-- [Manchester United plan £30m Amrabat move but may need to sell players first](https://www.theguardian.com/football/2023/jul/28/manchester-united-plan-amrabat-move)
-- [IOC issues invitation to Ukrainian fencer disqualified for anti-Russia protest](https://www.theguardian.com/sport/2023/jul/28/ukraine-fencer-olha-kharlan-olympics-disqualification-russia)
-- [Jack Welsby at the double to help injury-struck St Helens overcome Leeds](https://www.theguardian.com/sport/2023/jul/28/jack-welsby-at-the-double-to-help-injury-hit-st-helens-see-off-leeds)
+- [Errol Spence v Terence Crawford: undisputed welterweight championship – live](https://www.theguardian.com/sport/live/2023/jul/29/errol-spence-terence-crawford-fight-undisputed-welterweight-championship-live)
+- [Judge throws out Donald Trump’s $475m ‘big lie’ defamation lawsuit against CNN](https://www.theguardian.com/us-news/2023/jul/30/judge-throws-out-donald-trumps-475m-big-lie-defamation-lawsuit-against-cnn)
+- [Russia-Ukraine war at a glance: what we know on day 522 of the invasion](https://www.theguardian.com/world/2023/jul/30/russia-ukraine-war-at-a-glance-what-we-know-on-day-522-of-the-invasion)
+- [Is this Australia’s last generation of opal miners?](https://www.theguardian.com/australia-news/2023/jul/30/nsw-regulatory-change-australias-last-generation-of-opal-miners)
+- [Get knotted: best of the crochet trend this season](https://www.theguardian.com/fashion/2023/jul/29/get-knotted-best-of-the-crochet-trend-this-season)
+- [Nothing Compares review – the profound, striking tale of Sinéad O’Connor, born rebel](https://www.theguardian.com/tv-and-radio/2023/jul/29/nothing-compares-review-the-profound-striking-tale-of-sinead-oconnor-born-rebel)
+- [Rishi Sunak warned that Tories’ key green pledges are ‘unachievable’](https://www.theguardian.com/environment/2023/jul/29/rishi-sunak-warned-that-tories-key-green-pledges-are-unachievable)
+- [Clean Sweep review – silly crime fun with the most incredible beard I’ve ever seen](https://www.theguardian.com/tv-and-radio/2023/jul/29/clean-sweep-review)
+- [Paris booksellers angry at plans to ‘hide’ their stalls during Olympics](https://www.theguardian.com/sport/2023/jul/29/paris-booksellers-angry-at-plans-to-hide-their-stalls-during-olympics)
+- [Jack van Poortvliet: ‘There are things I can learn from Youngs and Care’](https://www.theguardian.com/sport/2023/jul/29/jack-van-poortvliet-england-ben-youngs-danny-care-rugby-union-world-cup)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

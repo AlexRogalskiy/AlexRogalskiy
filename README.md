@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Indo-European dialects dispersed across Eurasia in waves over 8K years](https://english.elpais.com/science-tech/2023-07-28/indo-european-dialects-dispersed-across-eurasia-in-successive-waves-over-the-course-of-8000-years.html)
-- [Gina Miller&#39;s political party UK bank account to be closed](https://www.bbc.com/news/uk-politics-66328098)
-- [Canada’s Secret Weapon: America’s Broken Immigration System [video]](https://www.youtube.com/watch?v=kRhZdmtw3Wg)
-- [A Browser Extension for Twitter](https://github.com/Haojen/Helper-for-Twitter)
-- [The ESP32 doesn&#39;t need much](https://hackaday.com/2023/07/28/the-esp32-doesnt-need-much/)
-- [Scrap AML/KYC Laws](https://marginalrevolution.com/marginalrevolution/2023/07/scrap-amc-kyc-laws.html)
-- [Minecraft website evolution 2009-2022](https://www.webdesignmuseum.org/gallery/minecraft-in-2009)
-- [Aeolus: &#39;Impossible satellite&#39; takes fiery plunge to Earth](https://www.bbc.co.uk/news/science-environment-66326153)
-- [Did ChatGPT write this? Here’s how to tell](https://foundation.mozilla.org/en/blog/how-to-tell-chat-gpt-generated-text/)
-- [Human Rights Council condemns the burning of the Quran as a religious hate act](https://unric.org/en/human-rights-council-condemns-the-burning-of-the-quran-as-a-religious-hate-act/)
+- [I Gazed into Worldcoin’s Orb and Saw a Boring Dystopia Staring Back](https://gizmodo.com/worldcoin-sam-altman-orb-eye-scan-ai-1850687197)
+- [Run the Cisco Modeling Labs &lpar;CML&rpar; Network Simulation Tool on AWS](https://github.com/gdmoney/Cisco-CML-on-AWS)
+- [Alpine Linux: Secure and lightweight Linux distro based on musl Libc and busybox](https://www.alpinelinux.org/)
+- [Why Worms](http://www.vermicompostingtoilets.net/why-worms/)
+- [The Web I Want](https://manuelmoreale.com/the-web-i-want)
+- [Strozzi NoSQL](https://en.wikipedia.org/wiki/Strozzi_NoSQL)
+- [Ask HN: Share one man boring internet businesses](https://news.ycombinator.com/item?id=36926984)
+- [Angry Birds Cafe Pushes Video-Game Adaptations into the Mall](https://www.bloomberg.com/news/newsletters/2023-07-28/angry-birds-cafe-pushes-video-game-adaptations-into-the-mal)
+- [‘I&#39;ve Never Seen Anything Like This’: Illegal Chinese Biolab Found in California](https://www.yourcentralvalley.com/news/local-news/ive-never-seen-anything-like-this-illegal-medical-lab-discovered-in-reedley/)
+- [Add-on device makes home furnaces cleaner, safer and longer-lasting](https://www.ornl.gov/news/add-device-makes-home-furnaces-cleaner-safer-and-longer-lasting)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

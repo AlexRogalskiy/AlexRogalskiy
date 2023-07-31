@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [I Gazed into Worldcoin’s Orb and Saw a Boring Dystopia Staring Back](https://gizmodo.com/worldcoin-sam-altman-orb-eye-scan-ai-1850687197)
-- [Run the Cisco Modeling Labs &lpar;CML&rpar; Network Simulation Tool on AWS](https://github.com/gdmoney/Cisco-CML-on-AWS)
-- [Alpine Linux: Secure and lightweight Linux distro based on musl Libc and busybox](https://www.alpinelinux.org/)
-- [Why Worms](http://www.vermicompostingtoilets.net/why-worms/)
-- [The Web I Want](https://manuelmoreale.com/the-web-i-want)
-- [Strozzi NoSQL](https://en.wikipedia.org/wiki/Strozzi_NoSQL)
-- [Ask HN: Share one man boring internet businesses](https://news.ycombinator.com/item?id=36926984)
-- [Angry Birds Cafe Pushes Video-Game Adaptations into the Mall](https://www.bloomberg.com/news/newsletters/2023-07-28/angry-birds-cafe-pushes-video-game-adaptations-into-the-mal)
-- [‘I&#39;ve Never Seen Anything Like This’: Illegal Chinese Biolab Found in California](https://www.yourcentralvalley.com/news/local-news/ive-never-seen-anything-like-this-illegal-medical-lab-discovered-in-reedley/)
-- [Add-on device makes home furnaces cleaner, safer and longer-lasting](https://www.ornl.gov/news/add-device-makes-home-furnaces-cleaner-safer-and-longer-lasting)
+- [James Cameron weighs in: Is AI a risk to humanity?](https://www.ctvnews.ca/sci-tech/i-warned-you-guys-in-1984-terminator-filmmaker-james-cameron-says-of-ai-s-risks-to-humanity-1.6484546)
+- [Build a remote controlled Apple Music/Spotify jukebox](https://news.ycombinator.com/item?id=36938143)
+- [Your recent cold could be Covid-19, as the nation goes into a late summer wave](https://www.cnn.com/2023/07/28/health/summer-cold-covid-19/index.html)
+- [Dolphin: A Cellular Voice Based Internet Shutdown Resistance System](https://petsymposium.org/popets/2023/popets-2023-0034.php)
+- [New Research Reveals Brain Region Responsible for Conscious Awareness](https://scienceswitch.com/2023/07/31/new-research-reveals-brain-region-responsible-for-conscious-awareness/)
+- [NFT of Jack Dorsey’s first tweet that sold for $2.9M had opening bid of $1](https://www.unilad.com/technology/news/nft-twitter-founder-jack-dorsey-first-tweet-value-846969-20230726)
+- [Voyager 2 Communications Pause](https://www.jpl.nasa.gov/news/nasa-mission-update-voyager-2-communications-pause)
+- [In this game, you are a computer&#39;s OS](https://drfreckles42.itch.io/youre-the-os)
+- [Illegal medical lab discovered near Fresno, 20 potentially infectious agents](https://www.yourcentralvalley.com/news/local-news/ive-never-seen-anything-like-this-illegal-medical-lab-discovered-in-reedley/)
+- [Why E-Bikes, EVs and Laptops Are Catching Fire](https://www.wsj.com/articles/lithium-ion-batteries-fire-explained-1e5cbe9c)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

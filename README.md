@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Errol Spence v Terence Crawford: undisputed welterweight championship – live](https://www.theguardian.com/sport/live/2023/jul/29/errol-spence-terence-crawford-fight-undisputed-welterweight-championship-live)
-- [Judge throws out Donald Trump’s $475m ‘big lie’ defamation lawsuit against CNN](https://www.theguardian.com/us-news/2023/jul/30/judge-throws-out-donald-trumps-475m-big-lie-defamation-lawsuit-against-cnn)
-- [Russia-Ukraine war at a glance: what we know on day 522 of the invasion](https://www.theguardian.com/world/2023/jul/30/russia-ukraine-war-at-a-glance-what-we-know-on-day-522-of-the-invasion)
-- [Is this Australia’s last generation of opal miners?](https://www.theguardian.com/australia-news/2023/jul/30/nsw-regulatory-change-australias-last-generation-of-opal-miners)
-- [Get knotted: best of the crochet trend this season](https://www.theguardian.com/fashion/2023/jul/29/get-knotted-best-of-the-crochet-trend-this-season)
-- [Nothing Compares review – the profound, striking tale of Sinéad O’Connor, born rebel](https://www.theguardian.com/tv-and-radio/2023/jul/29/nothing-compares-review-the-profound-striking-tale-of-sinead-oconnor-born-rebel)
-- [Rishi Sunak warned that Tories’ key green pledges are ‘unachievable’](https://www.theguardian.com/environment/2023/jul/29/rishi-sunak-warned-that-tories-key-green-pledges-are-unachievable)
-- [Clean Sweep review – silly crime fun with the most incredible beard I’ve ever seen](https://www.theguardian.com/tv-and-radio/2023/jul/29/clean-sweep-review)
-- [Paris booksellers angry at plans to ‘hide’ their stalls during Olympics](https://www.theguardian.com/sport/2023/jul/29/paris-booksellers-angry-at-plans-to-hide-their-stalls-during-olympics)
-- [Jack van Poortvliet: ‘There are things I can learn from Youngs and Care’](https://www.theguardian.com/sport/2023/jul/29/jack-van-poortvliet-england-ben-youngs-danny-care-rugby-union-world-cup)
+- [Twitter neighbours complain of lit-up ‘X’ sign working at high intensity](https://www.theguardian.com/technology/2023/jul/31/twitter-x-new-logo-complaints-san-francisco-hq)
+- [US nurse and her child kidnapped in Haiti, aid group announces](https://www.theguardian.com/us-news/2023/jul/30/haiti-american-nurse-child-kidnapped)
+- [Denmark considers banning burning of holy texts including Qur’an and Bible at protests](https://www.theguardian.com/world/2023/jul/31/denmark-considers-ban-protests-burn-quran-holy-texts-bible)
+- [Pakistan police suspect Islamic State in bomb blast that killed at least 44](https://www.theguardian.com/world/2023/jul/30/pakistan-explosion-political-event-khyber-pakhtunkhwa-province)
+- [Italy seeking to leave ‘atrocious’ China Belt and Road plan without harming ties – minister](https://www.theguardian.com/world/2023/jul/31/italy-china-belt-and-road-initiative-atrocious-defence-minister)
+- [Russia-Ukraine war at a glance: what we know on day 523 of the invasion](https://www.theguardian.com/world/2023/jul/31/russia-ukraine-war-at-a-glance-what-we-know-on-day-523-of-the-invasion)
+- [Trinity Rodman: from million-dollar teenager to USA’s World Cup cutting edge](https://www.theguardian.com/football/2023/jul/30/trinity-rodman-from-million-dollar-teenager-to-usas-world-cup-cutting-edge)
+- [Rishi Sunak to use Scottish trip to attack Labour stance on North Sea oil](https://www.theguardian.com/politics/2023/jul/30/rishi-sunak-to-use-scottish-trip-to-attack-labour-stance-on-north-sea-oil)
+- [The war is coming to Russia, Zelenskiy warns after latest drone attack](https://www.theguardian.com/world/2023/jul/30/the-war-is-coming-to-russia-zelenskiy-warns-after-latest-drone-attack)
+- [Labour: recruit police from fields such as business fraud to solve crimes](https://www.theguardian.com/politics/2023/jul/30/labour-recruit-police-from-fields-such-as-business-to-solve-crimes)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

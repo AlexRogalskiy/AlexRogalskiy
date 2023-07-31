@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [GNU Boot sent a cease and desist to Libreboot](https://libreboot.org/news/gnuboot.html#gnu-boot-cease-and-desist-email)
-- [Snowflake](https://snowflake.torproject.org/)
-- [Apple Pencils don’t draw straight on replaced iPad screens](https://arstechnica.com/gadgets/2023/07/apple-pencils-cant-draw-straight-on-third-party-replacement-ipad-screens/)
-- [ASML EUV Lithography Machine Could Keep Moore’s Law on Track](https://spectrum.ieee.org/high-na-euv)
-- [Button Pushes You](https://despens.systems/2022/06/button-pushes-you/)
-- [Room Temperature Superconductor Drama and Hope](https://twitter.com/8teAPi/status/1684385895565365248)
-- [Red algae proteins grafted into tobacco double plant growth](https://news.cornell.edu/stories/2023/07/red-algae-proteins-grafted-tobacco-double-plant-growth)
-- [Meticulous &lpar;YC S21&rpar; is hiring #3 engineer to build future of testing](https://news.ycombinator.com/item?id=36924518)
-- [Show HN: Gogit – Just enough Git &lpar;in Go&rpar; to push itself to GitHub](https://benhoyt.com/writings/gogit/)
-- [The Transformer Blueprint](https://deeprevision.github.io/posts/001-transformer/)
+- [Conduit: Simple, fast and reliable chat server powered by matrix](https://conduit.rs/)
+- [The Screwed-O-Meter](https://rachelbythebay.com/fun/som/)
+- [Mac Mouse Fix: Do the things you do on a trackpad. Without a trackpad](https://mousefix.org/)
+- [AI search of Neanderthal proteins resurrects ‘extinct’ antibiotics](https://www.nature.com/articles/d41586-023-02403-0)
+- [CloudFlare’s last Warrant Canary was published over a year ago](https://www.cloudflare.com/learning/privacy/what-is-warrant-canary/)
+- [A Year in Review of 0-days Exploited In-the-Wild in 2022](https://security.googleblog.com/2023/07/the-ups-and-downs-of-0-days-year-in.html)
+- [Show HN: Pyflo – a free, interactive guide to learning Python](https://pyflo.net)
+- [Show HN: Single-Instruction &lpar;Subleq&rpar; Programming Game](https://jaredkrinke.itch.io/sic-1)
+- [How to not get rejected from YC&#39;s Early AI interview batch](https://hermitian.substack.com/p/how-to-not-get-rejected-from-ycs)
+- [Banished to a Remote Idaho Valley, Beavers Created a Lush Wetland](https://e360.yale.edu/digest/idaho-beavers-stream-drought-fire)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

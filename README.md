@@ -355,6 +355,8 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Samsung hints the age of cheap smartphones is over](https://www.computerworld.com/article/3703670/now-samsung-hints-the-age-of-cheap-smartphones-is-over.html#tk.rss_all)
+- [EEOC Commissioner: AI system audits might not comply with federal anti-bias laws](https://www.computerworld.com/article/3703650/eeoc-chief-ai-system-audits-might-comply-with-local-discrimination-laws-but-not-federal-ones.html#tk.rss_all)
 - [Apple toughens up app security with API control](https://www.computerworld.com/article/3703688/apple-toughens-up-app-security-with-api-control.html#tk.rss_all)
 - [AMD to invest $400 million in new design center in India](https://www.computerworld.com/article/3703613/amd-to-invest-400-million-in-new-design-center-in-india.html#tk.rss_all)
 - [AI tools could leave companies liable for anti-bias missteps](https://www.computerworld.com/article/3703610/ai-tools-could-leave-companies-liable-for-anti-bias-missteps.html#tk.rss_all)
@@ -363,8 +365,6 @@
 - [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
 - [Apple &lpar;un&rpar;officially calls &#39;Action&#39; on iPhone 15 rumor season](https://www.computerworld.com/article/3703608/apple-unofficially-calls-action-on-iphone-15-rumor-season.html#tk.rss_all)
 - [Is generative AI mightier than the law?](https://www.computerworld.com/article/3703250/is-generative-ai-mightier-than-the-law.html#tk.rss_all)
-- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Twitter neighbours complain of lit-up ‘X’ sign working at high intensity](https://www.theguardian.com/technology/2023/jul/31/twitter-x-new-logo-complaints-san-francisco-hq)
-- [US nurse and her child kidnapped in Haiti, aid group announces](https://www.theguardian.com/us-news/2023/jul/30/haiti-american-nurse-child-kidnapped)
-- [Denmark considers banning burning of holy texts including Qur’an and Bible at protests](https://www.theguardian.com/world/2023/jul/31/denmark-considers-ban-protests-burn-quran-holy-texts-bible)
-- [Pakistan police suspect Islamic State in bomb blast that killed at least 44](https://www.theguardian.com/world/2023/jul/30/pakistan-explosion-political-event-khyber-pakhtunkhwa-province)
-- [Italy seeking to leave ‘atrocious’ China Belt and Road plan without harming ties – minister](https://www.theguardian.com/world/2023/jul/31/italy-china-belt-and-road-initiative-atrocious-defence-minister)
-- [Russia-Ukraine war at a glance: what we know on day 523 of the invasion](https://www.theguardian.com/world/2023/jul/31/russia-ukraine-war-at-a-glance-what-we-know-on-day-523-of-the-invasion)
-- [Trinity Rodman: from million-dollar teenager to USA’s World Cup cutting edge](https://www.theguardian.com/football/2023/jul/30/trinity-rodman-from-million-dollar-teenager-to-usas-world-cup-cutting-edge)
-- [Rishi Sunak to use Scottish trip to attack Labour stance on North Sea oil](https://www.theguardian.com/politics/2023/jul/30/rishi-sunak-to-use-scottish-trip-to-attack-labour-stance-on-north-sea-oil)
-- [The war is coming to Russia, Zelenskiy warns after latest drone attack](https://www.theguardian.com/world/2023/jul/30/the-war-is-coming-to-russia-zelenskiy-warns-after-latest-drone-attack)
-- [Labour: recruit police from fields such as business fraud to solve crimes](https://www.theguardian.com/politics/2023/jul/30/labour-recruit-police-from-fields-such-as-business-to-solve-crimes)
+- [Why is Hollywood on strike &lpar;And why Succession&#39;s Brian Cox is joining them&rpar;? – podcast](https://www.theguardian.com/film/audio/2023/aug/01/successions-brian-cox-on-the-strike-by-us-actors-podcast)
+- [Moscow hit by fresh drone strike, says mayor](https://www.theguardian.com/world/2023/aug/01/moscow-hit-by-fresh-drone-strike-says-mayor)
+- [Former childcare worker charged with 1,623 sexual abuse offences against 91 children in Australia and overseas](https://www.theguardian.com/australia-news/2023/aug/01/childcare-worker-charged-with-1623-sexual-abuse-offences-against-91-children-in-australia-and-overseas)
+- [Search for Voyager 2 after Nasa accidentally sends wrong command](https://www.theguardian.com/science/2023/aug/01/search-for-voyager-2-after-nasa-accidentally-sends-wrong-command)
+- [Senegal authorities arrest opposition frontrunner, ban his party and cut internet](https://www.theguardian.com/world/2023/aug/01/senegal-authorities-arrest-opposition-frontrunner-ban-his-party-and-cut-internet)
+- [Phoenix’s record streak of temperatures above 110F ends after 31 days](https://www.theguardian.com/us-news/2023/jul/31/us-extereme-heat-alert-wildfires)
+- [Giant glowing ‘X’ sign atop Twitter office in San Francisco removed](https://www.theguardian.com/us-news/2023/jul/31/x-sign-lights-san-francisco-twitter-office-removed)
+- [Russia-Ukraine war at a glance: what we know on day 524 of the invasion](https://www.theguardian.com/world/2023/aug/01/russia-ukraine-war-at-a-glance-what-we-know-on-day-524-of-the-invasion)
+- [Euphoria actor Angus Cloud dies aged 25](https://www.theguardian.com/us-news/2023/jul/31/angus-cloud-euphoria-dies-aged-25)
+- [Shoplifters who commit repeat offences to face prison](https://www.theguardian.com/uk-news/2023/aug/01/shoplifters-who-commit-repeat-offences-to-face-prison)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

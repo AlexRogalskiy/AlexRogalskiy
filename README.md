@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Conduit: Simple, fast and reliable chat server powered by matrix](https://conduit.rs/)
-- [The Screwed-O-Meter](https://rachelbythebay.com/fun/som/)
-- [Mac Mouse Fix: Do the things you do on a trackpad. Without a trackpad](https://mousefix.org/)
-- [AI search of Neanderthal proteins resurrects ‘extinct’ antibiotics](https://www.nature.com/articles/d41586-023-02403-0)
-- [CloudFlare’s last Warrant Canary was published over a year ago](https://www.cloudflare.com/learning/privacy/what-is-warrant-canary/)
-- [A Year in Review of 0-days Exploited In-the-Wild in 2022](https://security.googleblog.com/2023/07/the-ups-and-downs-of-0-days-year-in.html)
-- [Show HN: Pyflo – a free, interactive guide to learning Python](https://pyflo.net)
-- [Show HN: Single-Instruction &lpar;Subleq&rpar; Programming Game](https://jaredkrinke.itch.io/sic-1)
-- [How to not get rejected from YC&#39;s Early AI interview batch](https://hermitian.substack.com/p/how-to-not-get-rejected-from-ycs)
-- [Banished to a Remote Idaho Valley, Beavers Created a Lush Wetland](https://e360.yale.edu/digest/idaho-beavers-stream-drought-fire)
+- [The Worst API Ever Made](https://caseymuratori.com/blog_0025)
+- [Semiconducting Transport in LK99](https://arxiv.org/abs/2307.16802)
+- [MIT engineers create an energy-storing supercapacitor from ancient materials](https://news.mit.edu/2023/mit-engineers-create-supercapacitor-ancient-materials-0731)
+- [Can you simply brainwash a large language model?](https://gradientdefense.com/blog/can-you-simply-brainwash-an-llm)
+- [Occluding Contour Breakthroughs, Part 1: A Surprisingly Hard Problem](https://aaronhertzmann.com/2023/07/31/occluding-contours-part-1.html)
+- [Help the Library of Congress create games to improve public knowledge of civics](https://blogs.loc.gov/law/2023/06/help-the-library-of-congress-create-video-games-that-improve-public-knowledge-of-civics/)
+- [Retrieving your browsing history through a CAPTCHA &lpar;2022&rpar;](https://varun.ch/history)
+- [How to Get ChatGPT to Stop Apologizing?](https://genai.stackexchange.com/questions/177/how-to-get-chatgpt-to-stop-apologizing)
+- [Glass Health &lpar;YC W23&rpar; is hiring a full-stack engineer in SF to build for doctors](https://news.ycombinator.com/item?id=36948763)
+- [Chunking 2M files a day for code search using syntax trees](https://docs.sweep.dev/blogs/chunking-2m-files)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

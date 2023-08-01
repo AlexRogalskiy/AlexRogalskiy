@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [James Cameron weighs in: Is AI a risk to humanity?](https://www.ctvnews.ca/sci-tech/i-warned-you-guys-in-1984-terminator-filmmaker-james-cameron-says-of-ai-s-risks-to-humanity-1.6484546)
-- [Build a remote controlled Apple Music/Spotify jukebox](https://news.ycombinator.com/item?id=36938143)
-- [Your recent cold could be Covid-19, as the nation goes into a late summer wave](https://www.cnn.com/2023/07/28/health/summer-cold-covid-19/index.html)
-- [Dolphin: A Cellular Voice Based Internet Shutdown Resistance System](https://petsymposium.org/popets/2023/popets-2023-0034.php)
-- [New Research Reveals Brain Region Responsible for Conscious Awareness](https://scienceswitch.com/2023/07/31/new-research-reveals-brain-region-responsible-for-conscious-awareness/)
-- [NFT of Jack Dorsey’s first tweet that sold for $2.9M had opening bid of $1](https://www.unilad.com/technology/news/nft-twitter-founder-jack-dorsey-first-tweet-value-846969-20230726)
-- [Voyager 2 Communications Pause](https://www.jpl.nasa.gov/news/nasa-mission-update-voyager-2-communications-pause)
-- [In this game, you are a computer&#39;s OS](https://drfreckles42.itch.io/youre-the-os)
-- [Illegal medical lab discovered near Fresno, 20 potentially infectious agents](https://www.yourcentralvalley.com/news/local-news/ive-never-seen-anything-like-this-illegal-medical-lab-discovered-in-reedley/)
-- [Why E-Bikes, EVs and Laptops Are Catching Fire](https://www.wsj.com/articles/lithium-ion-batteries-fire-explained-1e5cbe9c)
+- [Apple apps can’t be removed if they are in an app bundle](https://developer.apple.com/help/app-store-connect/create-an-app-record/remove-an-app/)
+- [Michigan Central Station – Old Photos](https://historicdetroit.org/galleries/michigan-central-station-old-photos)
+- [Show HN: AI Handsomeness Predict](https://aipredict.vercel.app/)
+- [Biotech offers holistic approach to restoration of at-risk forest tree species](https://www.farmanddairy.com/news/biotechnology-offers-holistic-approach-to-restoration-of-at-risk-forest-tree-species/783794.html)
+- [What Is Inferno Drainer? New Phishing Scam Pilfering Crypto, NFTs](https://decrypt.co/140877/inferno-drainer-scam-scammer-phishing-crypto-nfts)
+- [Pink, Pussy, Venom, Inferno – Drainers coming for a crypto wallet near you](https://cointelegraph.com/news/cypto-drainers-pink-pussy-venom-and-inferno-steal-millions)
+- [Calif. home in danger of sliding into the sea is for sale at a deep discount](https://www.sfgate.com/centralcoast/article/pismo-beach-home-falling-into-sea-18267144.php)
+- [Giant viruses with tubular tentacles and star-like shells discovered](https://www.livescience.com/planet-earth/microbiology/bizarre-giant-viruses-with-tubular-tentacles-and-star-like-shells-discovered-in-new-england-forest)
+- [Oxide: open rack-scale servers for all](https://oxide.computer/)
+- [Karl Popper on Falsification: Science vs. Pseudoscience](https://www.thecollector.com/karl-popper-falsification-science-pseudoscience/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

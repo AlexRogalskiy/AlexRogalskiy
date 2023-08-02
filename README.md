@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Why is Hollywood on strike &lpar;And why Succession&#39;s Brian Cox is joining them&rpar;? – podcast](https://www.theguardian.com/film/audio/2023/aug/01/successions-brian-cox-on-the-strike-by-us-actors-podcast)
-- [Moscow hit by fresh drone strike, says mayor](https://www.theguardian.com/world/2023/aug/01/moscow-hit-by-fresh-drone-strike-says-mayor)
-- [Former childcare worker charged with 1,623 sexual abuse offences against 91 children in Australia and overseas](https://www.theguardian.com/australia-news/2023/aug/01/childcare-worker-charged-with-1623-sexual-abuse-offences-against-91-children-in-australia-and-overseas)
-- [Search for Voyager 2 after Nasa accidentally sends wrong command](https://www.theguardian.com/science/2023/aug/01/search-for-voyager-2-after-nasa-accidentally-sends-wrong-command)
-- [Senegal authorities arrest opposition frontrunner, ban his party and cut internet](https://www.theguardian.com/world/2023/aug/01/senegal-authorities-arrest-opposition-frontrunner-ban-his-party-and-cut-internet)
-- [Phoenix’s record streak of temperatures above 110F ends after 31 days](https://www.theguardian.com/us-news/2023/jul/31/us-extereme-heat-alert-wildfires)
-- [Giant glowing ‘X’ sign atop Twitter office in San Francisco removed](https://www.theguardian.com/us-news/2023/jul/31/x-sign-lights-san-francisco-twitter-office-removed)
-- [Russia-Ukraine war at a glance: what we know on day 524 of the invasion](https://www.theguardian.com/world/2023/aug/01/russia-ukraine-war-at-a-glance-what-we-know-on-day-524-of-the-invasion)
-- [Euphoria actor Angus Cloud dies aged 25](https://www.theguardian.com/us-news/2023/jul/31/angus-cloud-euphoria-dies-aged-25)
-- [Shoplifters who commit repeat offences to face prison](https://www.theguardian.com/uk-news/2023/aug/01/shoplifters-who-commit-repeat-offences-to-face-prison)
+- [Life in the UK for one of China’s most wanted - podcast](https://www.theguardian.com/news/audio/2023/aug/02/life-in-london-finn-lau-hong-kong-one-of-china-most-wanted-podcast)
+- [Donald Trump’s January 6 indictment: six key takeaways](https://www.theguardian.com/us-news/2023/aug/01/trump-indicted-reaction-key-takeaways)
+- [Solomon Islands newspaper pledged to promote ‘truth about China’s generosity’ in return for funding](https://www.theguardian.com/world/2023/aug/02/solomon-islands-newspaper-pledged-to-promote-truth-about-chinas-generosity-in-return-for-funding)
+- [Ukraine’s birth rate plummets in aftermath of Russian invasion, data shows](https://www.theguardian.com/world/2023/aug/02/ukraines-birth-rate-plummets-in-aftermath-of-russian-invasion-data-shows)
+- [Immortal cells: Henrietta Lacks’ family settle lawsuit over HeLa tissue harvested in 1950s](https://www.theguardian.com/science/2023/aug/02/henrietta-lacks-family-lawsuit-settlement-thermo-fisher-scientific-hela-tissue-immortal-cells-harvested)
+- [Donald Trump faces four charges over efforts to overturn 2020 election](https://www.theguardian.com/us-news/2023/aug/01/donald-trump-charged-2020-election)
+- [Russia-Ukraine war at a glance: what we know on day 525 of the invasion](https://www.theguardian.com/world/2023/aug/02/russia-ukraine-war-at-a-glance-what-we-know-on-day-525-of-the-invasion)
+- [TUC urges Bank of England to halt ‘reckless’ interest rate increases](https://www.theguardian.com/politics/2023/aug/02/tuc-urges-bank-of-england-to-halt-reckless-interest-rate-increases)
+- [Oldest species of swimming jellyfish discovered in 505m-year-old fossils](https://www.theguardian.com/science/2023/aug/02/oldest-species-swimming-jellyfish-discovered-505m-year-old-fossils)
+- [Premier League 2023-24 preview No 5: Brighton](https://www.theguardian.com/football/2023/aug/02/brighton-premier-league-2023-24-preview)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The Worst API Ever Made](https://caseymuratori.com/blog_0025)
-- [Semiconducting Transport in LK99](https://arxiv.org/abs/2307.16802)
-- [MIT engineers create an energy-storing supercapacitor from ancient materials](https://news.mit.edu/2023/mit-engineers-create-supercapacitor-ancient-materials-0731)
-- [Can you simply brainwash a large language model?](https://gradientdefense.com/blog/can-you-simply-brainwash-an-llm)
-- [Occluding Contour Breakthroughs, Part 1: A Surprisingly Hard Problem](https://aaronhertzmann.com/2023/07/31/occluding-contours-part-1.html)
-- [Help the Library of Congress create games to improve public knowledge of civics](https://blogs.loc.gov/law/2023/06/help-the-library-of-congress-create-video-games-that-improve-public-knowledge-of-civics/)
-- [Retrieving your browsing history through a CAPTCHA &lpar;2022&rpar;](https://varun.ch/history)
-- [How to Get ChatGPT to Stop Apologizing?](https://genai.stackexchange.com/questions/177/how-to-get-chatgpt-to-stop-apologizing)
-- [Glass Health &lpar;YC W23&rpar; is hiring a full-stack engineer in SF to build for doctors](https://news.ycombinator.com/item?id=36948763)
-- [Chunking 2M files a day for code search using syntax trees](https://docs.sweep.dev/blogs/chunking-2m-files)
+- [Harvard stole farmland in Brazil for years Now they&#39;re trying to walk away&lpar;2022&rpar;](https://ppr.hkspublications.org/2022/04/26/harvard-stole-farmland-in-brazil-for-years-now-theyre-trying-to-walk-away/)
+- [The Psychology of Cults – Syllabus &lpar;Harvard&rpar;](https://harvard.simplesyllabus.com/en-US/doc/1qjc9dp1v)
+- [Electronic Structure of LK-99](https://arxiv.org/abs/2308.00676)
+- [Help I accidently enabled HSTS on localhost](https://bartwullems.blogspot.com/2023/07/help-i-accidently-enabled-hstson.html)
+- [Bored? How about trying a Linux speedrun? &lpar;2020&rpar;](https://rachelbythebay.com/w/2020/04/11/pengrun/)
+- [Unconfirmed video showing potential LK-99 sample exhibiting the Meissner effect](https://twitter.com/zebulgar/status/1686498517227814912)
+- [“Once” one-time concurrent initialization with an integer](https://nullprogram.com/blog/2023/07/31/)
+- [Watsi &lpar;YC W13&rpar; Is Hiring a Lead Engineer](https://news.ycombinator.com/item?id=36962818)
+- [Dear websites, stop asking for ransom sign-ups](https://iamvishnu.com/posts/randsom-signup)
+- [eGPU: A 750 MHz Class Soft GPGPU for FPGA](https://arxiv.org/abs/2307.08378)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

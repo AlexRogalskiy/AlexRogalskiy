@@ -355,6 +355,8 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [How to use NameDrop to swap contact details in iOS 17](https://www.computerworld.com/article/3703948/how-to-use-namedrop-to-swap-contact-details-in-ios-17.html#tk.rss_all)
+- [What&#39;s going on with Google Assistant?](https://www.computerworld.com/article/3703729/whats-going-on-with-google-assistant.html#tk.rss_all)
 - [Samsung hints the age of cheap smartphones is over](https://www.computerworld.com/article/3703670/now-samsung-hints-the-age-of-cheap-smartphones-is-over.html#tk.rss_all)
 - [EEOC Commissioner: AI system audits might not comply with federal anti-bias laws](https://www.computerworld.com/article/3703650/eeoc-chief-ai-system-audits-might-comply-with-local-discrimination-laws-but-not-federal-ones.html#tk.rss_all)
 - [Apple toughens up app security with API control](https://www.computerworld.com/article/3703688/apple-toughens-up-app-security-with-api-control.html#tk.rss_all)
@@ -363,8 +365,6 @@
 - [Microsoft faces EU antitrust probe for bundling Teams with M365](https://www.computerworld.com/article/3703668/microsoft-faces-eu-antitrust-probe-for-bundling-teams-with-m365.html#tk.rss_all)
 - [Generative AI could be a critical tool for the visually impaired](https://www.computerworld.com/article/3703569/generative-ai-could-be-a-critical-tool-for-the-visually-impaired.html#tk.rss_all)
 - [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
-- [Apple &lpar;un&rpar;officially calls &#39;Action&#39; on iPhone 15 rumor season](https://www.computerworld.com/article/3703608/apple-unofficially-calls-action-on-iphone-15-rumor-season.html#tk.rss_all)
-- [Is generative AI mightier than the law?](https://www.computerworld.com/article/3703250/is-generative-ai-mightier-than-the-law.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

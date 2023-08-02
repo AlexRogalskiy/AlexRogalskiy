@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Apple apps can’t be removed if they are in an app bundle](https://developer.apple.com/help/app-store-connect/create-an-app-record/remove-an-app/)
-- [Michigan Central Station – Old Photos](https://historicdetroit.org/galleries/michigan-central-station-old-photos)
-- [Show HN: AI Handsomeness Predict](https://aipredict.vercel.app/)
-- [Biotech offers holistic approach to restoration of at-risk forest tree species](https://www.farmanddairy.com/news/biotechnology-offers-holistic-approach-to-restoration-of-at-risk-forest-tree-species/783794.html)
-- [What Is Inferno Drainer? New Phishing Scam Pilfering Crypto, NFTs](https://decrypt.co/140877/inferno-drainer-scam-scammer-phishing-crypto-nfts)
-- [Pink, Pussy, Venom, Inferno – Drainers coming for a crypto wallet near you](https://cointelegraph.com/news/cypto-drainers-pink-pussy-venom-and-inferno-steal-millions)
-- [Calif. home in danger of sliding into the sea is for sale at a deep discount](https://www.sfgate.com/centralcoast/article/pismo-beach-home-falling-into-sea-18267144.php)
-- [Giant viruses with tubular tentacles and star-like shells discovered](https://www.livescience.com/planet-earth/microbiology/bizarre-giant-viruses-with-tubular-tentacles-and-star-like-shells-discovered-in-new-england-forest)
-- [Oxide: open rack-scale servers for all](https://oxide.computer/)
-- [Karl Popper on Falsification: Science vs. Pseudoscience](https://www.thecollector.com/karl-popper-falsification-science-pseudoscience/)
+- [Revisit Trusting trustlessness? exploits in curve and polynetwork [pdf]](https://www.cs.umd.edu/~gasarch/BLOGPAPERS/cbit-4-2.pdf)
+- [Show HN: Re-shape interactions with databases using private LLM technologies](https://github.com/eosphoros-ai)
+- [Ivy: All in one machine learning framework](https://github.com/unifyai/ivy)
+- [An Empirical Study on Bugs Inside PyTorch](https://arxiv.org/abs/2307.13777)
+- [China is suddenly dealing with another public health crisis: mpox](https://www.technologyreview.com/2023/08/01/1077047/china-public-health-crisis-mpox-outbreak/)
+- [Patterns for Building LLM-Based Systems and Products](https://eugeneyan.com/writing/llm-patterns/)
+- [Ask HN: Recommended Reverse Osmosis System?](https://news.ycombinator.com/item?id=36965948)
+- [AirPrint with Cups](https://connor.zip/posts/2023-06-08-airprint-with-cups)
+- [Harvard stole farmland in Brazil for years Now they&#39;re trying to walk away&lpar;2022&rpar;](https://ppr.hkspublications.org/2022/04/26/harvard-stole-farmland-in-brazil-for-years-now-theyre-trying-to-walk-away/)
+- [Siggraph 2023 Papers on the Web](https://kesen.realtimerendering.com/sig2023.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

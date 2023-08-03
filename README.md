@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Slack tailors its chat app to sales staff](https://www.computerworld.com/article/3703949/slack-tailors-its-chat-app-to-sales-staff.html#tk.rss_all)
+- [UK intelligence agencies seek to weaken data protection safeguards](https://www.computerworld.com/article/3703870/uk-intelligence-agencies-seek-to-weaken-data-protection-safeguards.html#tk.rss_all)
+- [Apple plays nice with others for an OpenUSD metaverse](https://www.computerworld.com/article/3703869/apple-plays-nice-with-others-for-an-openusd-metaverse.html#tk.rss_all)
+- [Return-to-office mandates rise as worker productivity drops](https://www.computerworld.com/article/3704009/return-to-office-mandates-rise-as-worker-productivity-drops.html#tk.rss_all)
+- [Make multitasking a Snap on your Windows PC](https://www.computerworld.com/article/3703868/make-multitasking-a-snap-on-your-windows-pc.html#tk.rss_all)
 - [How to use NameDrop to swap contact details in iOS 17](https://www.computerworld.com/article/3703948/how-to-use-namedrop-to-swap-contact-details-in-ios-17.html#tk.rss_all)
 - [What&#39;s going on with Google Assistant?](https://www.computerworld.com/article/3703729/whats-going-on-with-google-assistant.html#tk.rss_all)
 - [Samsung hints the age of cheap smartphones is over](https://www.computerworld.com/article/3703670/now-samsung-hints-the-age-of-cheap-smartphones-is-over.html#tk.rss_all)
 - [EEOC Commissioner: AI system audits might not comply with federal anti-bias laws](https://www.computerworld.com/article/3703650/eeoc-chief-ai-system-audits-might-comply-with-local-discrimination-laws-but-not-federal-ones.html#tk.rss_all)
 - [Apple toughens up app security with API control](https://www.computerworld.com/article/3703688/apple-toughens-up-app-security-with-api-control.html#tk.rss_all)
-- [AMD to invest $400 million in new design center in India](https://www.computerworld.com/article/3703613/amd-to-invest-400-million-in-new-design-center-in-india.html#tk.rss_all)
-- [AI tools could leave companies liable for anti-bias missteps](https://www.computerworld.com/article/3703610/ai-tools-could-leave-companies-liable-for-anti-bias-missteps.html#tk.rss_all)
-- [Microsoft faces EU antitrust probe for bundling Teams with M365](https://www.computerworld.com/article/3703668/microsoft-faces-eu-antitrust-probe-for-bundling-teams-with-m365.html#tk.rss_all)
-- [Generative AI could be a critical tool for the visually impaired](https://www.computerworld.com/article/3703569/generative-ai-could-be-a-critical-tool-for-the-visually-impaired.html#tk.rss_all)
-- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Life in the UK for one of China’s most wanted - podcast](https://www.theguardian.com/news/audio/2023/aug/02/life-in-london-finn-lau-hong-kong-one-of-china-most-wanted-podcast)
-- [Donald Trump’s January 6 indictment: six key takeaways](https://www.theguardian.com/us-news/2023/aug/01/trump-indicted-reaction-key-takeaways)
-- [Solomon Islands newspaper pledged to promote ‘truth about China’s generosity’ in return for funding](https://www.theguardian.com/world/2023/aug/02/solomon-islands-newspaper-pledged-to-promote-truth-about-chinas-generosity-in-return-for-funding)
-- [Ukraine’s birth rate plummets in aftermath of Russian invasion, data shows](https://www.theguardian.com/world/2023/aug/02/ukraines-birth-rate-plummets-in-aftermath-of-russian-invasion-data-shows)
-- [Immortal cells: Henrietta Lacks’ family settle lawsuit over HeLa tissue harvested in 1950s](https://www.theguardian.com/science/2023/aug/02/henrietta-lacks-family-lawsuit-settlement-thermo-fisher-scientific-hela-tissue-immortal-cells-harvested)
-- [Donald Trump faces four charges over efforts to overturn 2020 election](https://www.theguardian.com/us-news/2023/aug/01/donald-trump-charged-2020-election)
-- [Russia-Ukraine war at a glance: what we know on day 525 of the invasion](https://www.theguardian.com/world/2023/aug/02/russia-ukraine-war-at-a-glance-what-we-know-on-day-525-of-the-invasion)
-- [TUC urges Bank of England to halt ‘reckless’ interest rate increases](https://www.theguardian.com/politics/2023/aug/02/tuc-urges-bank-of-england-to-halt-reckless-interest-rate-increases)
-- [Oldest species of swimming jellyfish discovered in 505m-year-old fossils](https://www.theguardian.com/science/2023/aug/02/oldest-species-swimming-jellyfish-discovered-505m-year-old-fossils)
-- [Premier League 2023-24 preview No 5: Brighton](https://www.theguardian.com/football/2023/aug/02/brighton-premier-league-2023-24-preview)
+- [Rishi Sunak’s anti-green gambl - podcast](https://www.theguardian.com/news/audio/2023/aug/03/rishi-sunak-anti-green-gamble-podcast)
+- [Niger: US orders partial embassy evacuation as coup leaders refuse to back down](https://www.theguardian.com/world/2023/aug/03/niger-us-orders-partial-embassy-evacuation-as-coup-leaders-refuse-to-back-down)
+- [Moroccan man jailed for five years for criticising king in Facebook posts](https://www.theguardian.com/world/2023/aug/03/moroccan-man-jailed-for-five-years-for-criticising-king-in-facebook-posts)
+- [Australia’s Indigenous voice to parliament referendum explained in 30 seconds](https://www.theguardian.com/world/2023/aug/03/australias-indigenous-voice-to-parliament-referendum-explained-in-30-seconds)
+- [Russia-Ukraine war at a glance: what we know on day 526 of the invasion](https://www.theguardian.com/world/2023/aug/03/russia-ukraine-war-at-a-glance-what-we-know-on-day-526-of-the-invasion)
+- [TikTok stars clean up: the influencers saving Indonesia’s polluted rivers and beaches](https://www.theguardian.com/world/2023/aug/03/tiktok-stars-clean-up-the-influencers-saving-indonesias-polluted-rivers-and-beaches)
+- [UK graduates paid back £100m in student loans while below threshold](https://www.theguardian.com/education/2023/aug/03/uk-graduates-paid-back-100m-in-student-loans-while-below-threshold)
+- [Attack on energy network a major risk, UK register says for first time](https://www.theguardian.com/uk-news/2023/aug/03/attack-on-energy-network-a-major-risk-uk-register-says-for-first-time)
+- [Premier League 2023-24 preview No 7: Chelsea](https://www.theguardian.com/football/2023/aug/03/premier-league-2023-24-preview-no-7-chelsea)
+- [BBC Radio 2 loses 1 million listeners since Ken Bruce departure](https://www.theguardian.com/media/2023/aug/03/bbc-radio-2-loses-1-million-listeners-since-ken-bruce-departure)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

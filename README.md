@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Harvard stole farmland in Brazil for years Now they&#39;re trying to walk away&lpar;2022&rpar;](https://ppr.hkspublications.org/2022/04/26/harvard-stole-farmland-in-brazil-for-years-now-theyre-trying-to-walk-away/)
-- [The Psychology of Cults – Syllabus &lpar;Harvard&rpar;](https://harvard.simplesyllabus.com/en-US/doc/1qjc9dp1v)
-- [Electronic Structure of LK-99](https://arxiv.org/abs/2308.00676)
-- [Help I accidently enabled HSTS on localhost](https://bartwullems.blogspot.com/2023/07/help-i-accidently-enabled-hstson.html)
-- [Bored? How about trying a Linux speedrun? &lpar;2020&rpar;](https://rachelbythebay.com/w/2020/04/11/pengrun/)
-- [Unconfirmed video showing potential LK-99 sample exhibiting the Meissner effect](https://twitter.com/zebulgar/status/1686498517227814912)
-- [“Once” one-time concurrent initialization with an integer](https://nullprogram.com/blog/2023/07/31/)
-- [Watsi &lpar;YC W13&rpar; Is Hiring a Lead Engineer](https://news.ycombinator.com/item?id=36962818)
-- [Dear websites, stop asking for ransom sign-ups](https://iamvishnu.com/posts/randsom-signup)
-- [eGPU: A 750 MHz Class Soft GPGPU for FPGA](https://arxiv.org/abs/2307.08378)
+- [Life at the Margin: How I got $25,000 in debt](https://www.natecation.com/life-at-the-margin-credit-card-debt/)
+- [Observation of zero resistance above 100 K in Pb₁₀₋ₓCuₓ&lpar;PO₄&rpar;₆O](https://arxiv.org/abs/2308.01192)
+- [Microsoft comes under blistering criticism for “grossly irresponsible” security](https://arstechnica.com/security/2023/08/microsoft-cloud-security-blasted-for-its-culture-of-toxic-obfuscation/)
+- [The infamous coin toss](https://ergodicityeconomics.com/2023/07/28/the-infamous-coin-toss/)
+- [High Dynamic Time Range Images &lpar;2006&rpar;](http://mkweb.bcgsc.ca/fun/hdtr/)
+- [EXP TV – endless stream of obscure media and video ephemera](https://exptv.org/)
+- [New targeted chemotherapy able to kill all solid tumors in preclinical research](https://www.eurekalert.org/news-releases/997141)
+- [Meta’s Reality Labs prototype hardware](https://www.meta.com/en-gb/blog/quest/reality-labs-research-display-systems-siggraph-2023-butterscotch-varifocal-flamera/)
+- [Infinite Mac: Disks, CD-ROMs and custom instances](https://blog.persistent.info/2023/08/infinite-mac-cd-roms.html)
+- [If Web Components are so great, why am I not using them?](https://daverupert.com/2023/07/why-not-webcomponents/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

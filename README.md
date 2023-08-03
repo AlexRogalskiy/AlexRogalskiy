@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Revisit Trusting trustlessness? exploits in curve and polynetwork [pdf]](https://www.cs.umd.edu/~gasarch/BLOGPAPERS/cbit-4-2.pdf)
-- [Show HN: Re-shape interactions with databases using private LLM technologies](https://github.com/eosphoros-ai)
-- [Ivy: All in one machine learning framework](https://github.com/unifyai/ivy)
-- [An Empirical Study on Bugs Inside PyTorch](https://arxiv.org/abs/2307.13777)
-- [China is suddenly dealing with another public health crisis: mpox](https://www.technologyreview.com/2023/08/01/1077047/china-public-health-crisis-mpox-outbreak/)
-- [Patterns for Building LLM-Based Systems and Products](https://eugeneyan.com/writing/llm-patterns/)
-- [Ask HN: Recommended Reverse Osmosis System?](https://news.ycombinator.com/item?id=36965948)
-- [AirPrint with Cups](https://connor.zip/posts/2023-06-08-airprint-with-cups)
-- [Harvard stole farmland in Brazil for years Now they&#39;re trying to walk away&lpar;2022&rpar;](https://ppr.hkspublications.org/2022/04/26/harvard-stole-farmland-in-brazil-for-years-now-theyre-trying-to-walk-away/)
-- [Siggraph 2023 Papers on the Web](https://kesen.realtimerendering.com/sig2023.html)
+- [HTTPS: //Chat.openai.com/ Is Down?](https://news.ycombinator.com/item?id=36980494)
+- [Fitch Downgrades US Debt](https://www.bbc.com/news/business-66379366)
+- [Green Power Partnership National Top](https://www.epa.gov/greenpower/green-power-partnership-national-top-100)
+- [Lists of Unsolved Problems](https://en.wikipedia.org/wiki/Lists_of_unsolved_problems)
+- [Wall Text Warning: It&#39;s so fucking expensive being poor](https://old.reddit.com/r/nova/comments/158h5d0/wall_text_warning_its_so_fucking_expensive_being/)
+- [Ask HN: Is there any hopeful news about climate change?](https://news.ycombinator.com/item?id=36980429)
+- [Vasa &lpar;Ship&rpar; Built in 1628](https://en.wikipedia.org/wiki/Vasa_(ship))
+- [AMD says it&#39;ll jump through Uncle Sam&#39;s hoops to sell AI chips to China](https://www.theregister.com/2023/08/03/amd_chips_china_export/)
+- [PyTorch Memory Tuning](https://paulbridger.com/posts/pytorch-memory-tuning/)
+- [Have you bought the Nothing Phone 2?](https://news.ycombinator.com/item?id=36980400)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

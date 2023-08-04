@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Rishi Sunak’s anti-green gambl - podcast](https://www.theguardian.com/news/audio/2023/aug/03/rishi-sunak-anti-green-gamble-podcast)
-- [Niger: US orders partial embassy evacuation as coup leaders refuse to back down](https://www.theguardian.com/world/2023/aug/03/niger-us-orders-partial-embassy-evacuation-as-coup-leaders-refuse-to-back-down)
-- [Moroccan man jailed for five years for criticising king in Facebook posts](https://www.theguardian.com/world/2023/aug/03/moroccan-man-jailed-for-five-years-for-criticising-king-in-facebook-posts)
-- [Australia’s Indigenous voice to parliament referendum explained in 30 seconds](https://www.theguardian.com/world/2023/aug/03/australias-indigenous-voice-to-parliament-referendum-explained-in-30-seconds)
-- [Russia-Ukraine war at a glance: what we know on day 526 of the invasion](https://www.theguardian.com/world/2023/aug/03/russia-ukraine-war-at-a-glance-what-we-know-on-day-526-of-the-invasion)
-- [TikTok stars clean up: the influencers saving Indonesia’s polluted rivers and beaches](https://www.theguardian.com/world/2023/aug/03/tiktok-stars-clean-up-the-influencers-saving-indonesias-polluted-rivers-and-beaches)
-- [UK graduates paid back £100m in student loans while below threshold](https://www.theguardian.com/education/2023/aug/03/uk-graduates-paid-back-100m-in-student-loans-while-below-threshold)
-- [Attack on energy network a major risk, UK register says for first time](https://www.theguardian.com/uk-news/2023/aug/03/attack-on-energy-network-a-major-risk-uk-register-says-for-first-time)
-- [Premier League 2023-24 preview No 7: Chelsea](https://www.theguardian.com/football/2023/aug/03/premier-league-2023-24-preview-no-7-chelsea)
-- [BBC Radio 2 loses 1 million listeners since Ken Bruce departure](https://www.theguardian.com/media/2023/aug/03/bbc-radio-2-loses-1-million-listeners-since-ken-bruce-departure)
+- [Donald Trump’s January 6 indictment - podcast](https://www.theguardian.com/news/audio/2023/aug/04/donald-trump-january-6-indictment-podcast)
+- [Tell us your experience of the World Scout Jamboree in South Korea](https://www.theguardian.com/world/2023/aug/04/tell-us-your-experience-of-the-world-scout-jamboree-in-south-korea)
+- [Armed US troops may guard oil tankers against Iranian hijackings](https://www.theguardian.com/world/2023/aug/04/armed-us-troops-oil-tankers-strait-of-hormuz-persian-gulf-iran-ship-hijack)
+- [Russia-Ukraine war at a glance: what we know on day 527 of the invasion](https://www.theguardian.com/world/2023/aug/04/russia-ukraine-war-at-a-glance-what-we-know-on-day-527-of-the-invasion)
+- [Let private and third sectors cut NHS waiting lists, says Steve Barclay](https://www.theguardian.com/society/2023/aug/04/private-third-sector-nhs-waiting-lists-steve-barclay)
+- [Premier League 2023-24 preview No 9: Everton](https://www.theguardian.com/football/2023/aug/04/everton-premier-league-2023-24-preview)
+- [Top US doctors’ group backs gender-affirming care amid rightwing attacks](https://www.theguardian.com/society/2023/aug/03/american-academy-pediatrics-gender-affirming-medical-care)
+- [‘Winter is disappearing’: South America hit by ‘brutal’ unseasonal heatwave](https://www.theguardian.com/world/2023/aug/03/south-america-winter-heatwave)
+- [Trump pleads not guilty to four charges over efforts to overturn 2020 election](https://www.theguardian.com/us-news/2023/aug/03/trump-arraignment-indictment-jan-6-2020-election)
+- [Apple revenues fall for third straight quarter as company invests heavily in AI](https://www.theguardian.com/technology/2023/aug/03/apple-revenues-fall-third-straight-quarter)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Life at the Margin: How I got $25,000 in debt](https://www.natecation.com/life-at-the-margin-credit-card-debt/)
-- [Observation of zero resistance above 100 K in Pb₁₀₋ₓCuₓ&lpar;PO₄&rpar;₆O](https://arxiv.org/abs/2308.01192)
-- [Microsoft comes under blistering criticism for “grossly irresponsible” security](https://arstechnica.com/security/2023/08/microsoft-cloud-security-blasted-for-its-culture-of-toxic-obfuscation/)
-- [The infamous coin toss](https://ergodicityeconomics.com/2023/07/28/the-infamous-coin-toss/)
-- [High Dynamic Time Range Images &lpar;2006&rpar;](http://mkweb.bcgsc.ca/fun/hdtr/)
-- [EXP TV – endless stream of obscure media and video ephemera](https://exptv.org/)
-- [New targeted chemotherapy able to kill all solid tumors in preclinical research](https://www.eurekalert.org/news-releases/997141)
-- [Meta’s Reality Labs prototype hardware](https://www.meta.com/en-gb/blog/quest/reality-labs-research-display-systems-siggraph-2023-butterscotch-varifocal-flamera/)
-- [Infinite Mac: Disks, CD-ROMs and custom instances](https://blog.persistent.info/2023/08/infinite-mac-cd-roms.html)
-- [If Web Components are so great, why am I not using them?](https://daverupert.com/2023/07/why-not-webcomponents/)
+- [Arizona’s extreme heat is killing honeybees and melting their homes](https://www.cnn.com/2023/08/03/us/honeybees-arizona-phoenix-heat-climate/index.html)
+- [Successful room temperature ambient-pressure magnetic levitation of LK-99](https://arxiv.org/abs/2308.01516)
+- [Some remarks on possible superconductivity of composition Pb9CuP6O25](https://arxiv.org/abs/2308.01723)
+- [Ivy League Demographics](https://archive.org/details/ivy-league-demographics)
+- [Royal Mail to Issue “Terry Pratchett’s Discworld” Stamps](https://file770.com/royal-mail-to-issue-terry-pratchetts-discworld-stamps/)
+- [Nuked-MD-FPGA – accurate Sega Genesis re-implementation based on decapped chips](https://github.com/nukeykt/Nuked-MD-FPGA)
+- [As ocean oxygen levels dip, fish face an uncertain future](https://e360.yale.edu/features/as-ocean-oxygen-levels-dip-fish-face-an-uncertain-future)
+- [Magic123: One Image to High-Quality 3D Object Generation](https://guochengqian.github.io/project/magic123/)
+- [Color-Diffusion: using diffusion models to colorize black and white images](https://github.com/ErwannMillon/Color-diffusion)
+- [Cognitive AI for ADHD](https://www.comigo.ai)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

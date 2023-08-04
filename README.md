@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [HTTPS: //Chat.openai.com/ Is Down?](https://news.ycombinator.com/item?id=36980494)
-- [Fitch Downgrades US Debt](https://www.bbc.com/news/business-66379366)
-- [Green Power Partnership National Top](https://www.epa.gov/greenpower/green-power-partnership-national-top-100)
-- [Lists of Unsolved Problems](https://en.wikipedia.org/wiki/Lists_of_unsolved_problems)
-- [Wall Text Warning: It&#39;s so fucking expensive being poor](https://old.reddit.com/r/nova/comments/158h5d0/wall_text_warning_its_so_fucking_expensive_being/)
-- [Ask HN: Is there any hopeful news about climate change?](https://news.ycombinator.com/item?id=36980429)
-- [Vasa &lpar;Ship&rpar; Built in 1628](https://en.wikipedia.org/wiki/Vasa_(ship))
-- [AMD says it&#39;ll jump through Uncle Sam&#39;s hoops to sell AI chips to China](https://www.theregister.com/2023/08/03/amd_chips_china_export/)
-- [PyTorch Memory Tuning](https://paulbridger.com/posts/pytorch-memory-tuning/)
-- [Have you bought the Nothing Phone 2?](https://news.ycombinator.com/item?id=36980400)
+- [Machine Learning for DBs and DBs for Machine Learning – Seminar Series](https://db.cs.cmu.edu/seminar2023/)
+- [California’s online community college is adding, keeping more students](https://calmatters.org/education/2023/04/calbright-community-college/)
+- [Unhappy family or trauma in youth leads to poor health in old age](https://medicalxpress.com/news/2023-08-unhappy-family-trauma-youth-poor.html)
+- [When Taylor Swift Performed Shake It Off in Seattle, Swifties Shook the Earth](https://www.cbc.ca/news/science/taylor-swift-seattle-concert-seismology-1.6921705)
+- [Heliolinc3D: Enabling Asteroid Discovery for the LSST](https://baas.aas.org/pub/2022n8i504p04/release/1)
+- [Painting the Eiffel Tower](https://www.toureiffel.paris/en/the-monument/painting-eiffel-tower)
+- [Hololens 3? Microsoft has patented new modular HMD that could be more affordable](https://www.windowscentral.com/gaming/virtual-reality/hololens-3-microsoft-has-patented-a-new-modular-hmd-that-looks-a-little-more-consumer-friendly)
+- [Ask HN: Has anyone noticed Hacker News changed its logo to SVG format?](https://news.ycombinator.com/item?id=36994591)
+- [Primitive Technology: Wood Ash Insulated Furnace [video]](https://www.youtube.com/watch?v=XTzMqWaoqYw)
+- [Tilling the Collatz &lpar;Conjecture&rpar; Tree: A new approach](https://drive.google.com/file/d/1iydESf21HKPdSWggDgPs5IKb-iOc9xe-/view)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Arizona’s extreme heat is killing honeybees and melting their homes](https://www.cnn.com/2023/08/03/us/honeybees-arizona-phoenix-heat-climate/index.html)
-- [Successful room temperature ambient-pressure magnetic levitation of LK-99](https://arxiv.org/abs/2308.01516)
-- [Some remarks on possible superconductivity of composition Pb9CuP6O25](https://arxiv.org/abs/2308.01723)
-- [Ivy League Demographics](https://archive.org/details/ivy-league-demographics)
-- [Royal Mail to Issue “Terry Pratchett’s Discworld” Stamps](https://file770.com/royal-mail-to-issue-terry-pratchetts-discworld-stamps/)
-- [Nuked-MD-FPGA – accurate Sega Genesis re-implementation based on decapped chips](https://github.com/nukeykt/Nuked-MD-FPGA)
-- [As ocean oxygen levels dip, fish face an uncertain future](https://e360.yale.edu/features/as-ocean-oxygen-levels-dip-fish-face-an-uncertain-future)
-- [Magic123: One Image to High-Quality 3D Object Generation](https://guochengqian.github.io/project/magic123/)
-- [Color-Diffusion: using diffusion models to colorize black and white images](https://github.com/ErwannMillon/Color-diffusion)
-- [Cognitive AI for ADHD](https://www.comigo.ai)
+- [Digitization of “The Most Beautiful of All Printed Books,” the Kelmscott Chaucer](https://www.openculture.com/2023/08/behold-a-digitization-of-the-most-beautiful-of-all-printed-books-the-kelmscott-chaucer.html)
+- [Math Exposition on YouTube](https://dustingmixon.wordpress.com/2023/08/04/math-exposition-on-youtube/)
+- [Pay no attention to the USB port behind the “no USB” sticker](https://www.theverge.com/2023/8/4/23820710/pay-no-attention-to-the-usb-port-behind-the-no-usb-sticker)
+- [Non-determinism in GPT-4 is caused by Sparse MoE](https://152334H.github.io/blog/non-determinism-in-gpt-4/)
+- [Most promoted and blocked domains among Kagi Search users](https://kagi.com/stats)
+- [IBM, Red Hat and Free Software: An old maddog’s view](https://www.lpi.org/blog/2023/07/30/ibm-red-hat-and-free-software-an-old-maddogs-view/)
+- [New studies gauge impact and cause of beech leaf disease](https://www.science.org/content/article/beech-leaf-disease-ravaging-north-american-trees)
+- [American English Dialects](https://aschmann.net/AmEng/)
+- [Terraform best practices for reliability at any scale](https://substrate.tools/blog/terraform-best-practices-for-reliability-at-any-scale)
+- [Melatonin as a treatment for food waste](https://www.anthropocenemagazine.org/2023/08/melatonin-a-sleep-aid-is-a-surprising-treatment-for-food-waste/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

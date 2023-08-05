@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Machine Learning for DBs and DBs for Machine Learning – Seminar Series](https://db.cs.cmu.edu/seminar2023/)
-- [California’s online community college is adding, keeping more students](https://calmatters.org/education/2023/04/calbright-community-college/)
-- [Unhappy family or trauma in youth leads to poor health in old age](https://medicalxpress.com/news/2023-08-unhappy-family-trauma-youth-poor.html)
-- [When Taylor Swift Performed Shake It Off in Seattle, Swifties Shook the Earth](https://www.cbc.ca/news/science/taylor-swift-seattle-concert-seismology-1.6921705)
-- [Heliolinc3D: Enabling Asteroid Discovery for the LSST](https://baas.aas.org/pub/2022n8i504p04/release/1)
-- [Painting the Eiffel Tower](https://www.toureiffel.paris/en/the-monument/painting-eiffel-tower)
-- [Hololens 3? Microsoft has patented new modular HMD that could be more affordable](https://www.windowscentral.com/gaming/virtual-reality/hololens-3-microsoft-has-patented-a-new-modular-hmd-that-looks-a-little-more-consumer-friendly)
-- [Ask HN: Has anyone noticed Hacker News changed its logo to SVG format?](https://news.ycombinator.com/item?id=36994591)
-- [Primitive Technology: Wood Ash Insulated Furnace [video]](https://www.youtube.com/watch?v=XTzMqWaoqYw)
-- [Tilling the Collatz &lpar;Conjecture&rpar; Tree: A new approach](https://drive.google.com/file/d/1iydESf21HKPdSWggDgPs5IKb-iOc9xe-/view)
+- [INTERCAL](https://en.wikipedia.org/wiki/INTERCAL)
+- [Half the population to have a mental health disorder by 75](https://www.sciencedaily.com/releases/2023/07/230731110734.htm)
+- [Show HN: Unstock.ai – Free image generation with SDXL](https://unstock.ai)
+- [Sync Metabase with Git Repo](https://github.com/AlhasanIQ/metabase-git-sync)
+- [Why prepared rotisserie chickens are cheaper than ones you cook yourself](https://www.cbc.ca/radio/costofliving/rotisserie-chicken-secrets-1.6418773)
+- [In Scheme Lisp, data can be represented as function](https://stackoverflow.com/questions/21769348/use-of-lambda-for-cons-car-cdr-definition-in-sicp)
+- [Putin critic Navalny receives new 19-year sentence](https://www.axios.com/2023/08/04/alexei-navalny-extremism-sentence)
+- [Documentation isn’t the best place to be DRY](https://www.edgedb.com/blog/make-your-users-happy-by-keeping-it-ryl-in-documentation)
+- [Robocallers Fined $300M After 5Bil. Calls Offering Auto Warranties](https://themessenger.com/business/fcc-clamps-down-on-robocallers-claiming-to-sell-auto-warranties)
+- [Microsoft mitigates Power Platform information disclosure vulnerability](https://msrc.microsoft.com/blog/2023/08/microsoft-mitigates-power-platform-custom-code-information-disclosure-vulnerability/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

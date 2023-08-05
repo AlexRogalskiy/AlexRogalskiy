@@ -355,6 +355,8 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Apple’s latest earnings results show the power of shrewd management](https://www.computerworld.com/article/3704152/apples-latest-earnings-results-show-the-power-of-shrewd-management.html#tk.rss_all)
+- [The best calendar apps for Android](https://www.computerworld.com/article/3541826/best-calendar-apps-android.html#tk.rss_all)
 - [Gen-AI HPC infrastructure provider CoreWeave scores $2.3 billion financing deal](https://www.networkworld.com/article/3704268/gen-ai-hpc-infrastructure-provider-coreweave-scores-23-billion-financing-deal.html#tk.rss_all)
 - [Apple’s AI strategy should be the same as it&#39;s always been](https://www.computerworld.com/article/3704151/apples-ai-strategy-should-be-the-same-as-its-always-been.html#tk.rss_all)
 - [India imposes curbs on computer imports to boost domestic production](https://www.computerworld.com/article/3704208/india-imposes-curbs-on-computer-imports-to-boost-domestic-production.html#tk.rss_all)
@@ -363,8 +365,6 @@
 - [UK intelligence agencies seek to weaken data protection safeguards](https://www.computerworld.com/article/3703870/uk-intelligence-agencies-seek-to-weaken-data-protection-safeguards.html#tk.rss_all)
 - [Apple plays nice with others for an OpenUSD metaverse](https://www.computerworld.com/article/3703869/apple-plays-nice-with-others-for-an-openusd-metaverse.html#tk.rss_all)
 - [Return-to-office mandates rise as worker productivity drops](https://www.computerworld.com/article/3704009/return-to-office-mandates-rise-as-worker-productivity-drops.html#tk.rss_all)
-- [Make multitasking a Snap on your Windows PC](https://www.computerworld.com/article/3703868/make-multitasking-a-snap-on-your-windows-pc.html#tk.rss_all)
-- [How to use NameDrop to swap contact details in iOS 17](https://www.computerworld.com/article/3703948/how-to-use-namedrop-to-swap-contact-details-in-ios-17.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

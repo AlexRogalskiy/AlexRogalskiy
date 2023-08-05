@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Donald Trump’s January 6 indictment - podcast](https://www.theguardian.com/news/audio/2023/aug/04/donald-trump-january-6-indictment-podcast)
-- [Tell us your experience of the World Scout Jamboree in South Korea](https://www.theguardian.com/world/2023/aug/04/tell-us-your-experience-of-the-world-scout-jamboree-in-south-korea)
-- [Armed US troops may guard oil tankers against Iranian hijackings](https://www.theguardian.com/world/2023/aug/04/armed-us-troops-oil-tankers-strait-of-hormuz-persian-gulf-iran-ship-hijack)
-- [Russia-Ukraine war at a glance: what we know on day 527 of the invasion](https://www.theguardian.com/world/2023/aug/04/russia-ukraine-war-at-a-glance-what-we-know-on-day-527-of-the-invasion)
-- [Let private and third sectors cut NHS waiting lists, says Steve Barclay](https://www.theguardian.com/society/2023/aug/04/private-third-sector-nhs-waiting-lists-steve-barclay)
-- [Premier League 2023-24 preview No 9: Everton](https://www.theguardian.com/football/2023/aug/04/everton-premier-league-2023-24-preview)
-- [Top US doctors’ group backs gender-affirming care amid rightwing attacks](https://www.theguardian.com/society/2023/aug/03/american-academy-pediatrics-gender-affirming-medical-care)
-- [‘Winter is disappearing’: South America hit by ‘brutal’ unseasonal heatwave](https://www.theguardian.com/world/2023/aug/03/south-america-winter-heatwave)
-- [Trump pleads not guilty to four charges over efforts to overturn 2020 election](https://www.theguardian.com/us-news/2023/aug/03/trump-arraignment-indictment-jan-6-2020-election)
-- [Apple revenues fall for third straight quarter as company invests heavily in AI](https://www.theguardian.com/technology/2023/aug/03/apple-revenues-fall-third-straight-quarter)
+- [NYPD officers detain online influencer after giveaway devolves into chaos](https://www.theguardian.com/us-news/2023/aug/04/kai-cenat-influencer-twitch-youtube-arrested)
+- [US and UK Scouts pull out of world jamboree campsite due to extreme heat](https://www.theguardian.com/world/2023/aug/04/uk-children-to-move-to-seoul-hotels-heatwave-world-scout-jamboree)
+- [West Ham close in on Álvarez while Ward-Prowse deal appears stalled](https://www.theguardian.com/football/2023/aug/04/west-ham-close-in-on-alvarez-while-ward-prowse-deal-appears-stalled)
+- [Angela Rippon to be oldest Strictly Come Dancing contestant](https://www.theguardian.com/tv-and-radio/2023/aug/04/angela-rippon-to-be-oldest-strictly-come-dancing-contestant)
+- [Super League roundup: table-topping Dragons add to Warrington’s woe](https://www.theguardian.com/sport/2023/aug/04/super-league-roundup-table-topping-dragons-add-to-warringtons-woe)
+- [Georgie Grier plays to sell-out Edinburgh crowd 24 hours after tearful tweet](https://www.theguardian.com/stage/2023/aug/04/georgie-grier-plays-to-sell-out-edinburgh-crowd-24-hours-after-tearful-tweet)
+- [Mikel Arteta readies rebuilt Arsenal for another shot at Manchester City | Nick Ames](https://www.theguardian.com/football/2023/aug/04/mikel-arteta-arsenal-manchester-city-community-shield)
+- [John Bolton suggests US will leave Nato if ‘erratic’ Trump wins in 2024](https://www.theguardian.com/us-news/2023/aug/04/john-bolton-trump-nato-2024)
+- [Holl and Unwin strike gold again as Great Britain women hit heights](https://www.theguardian.com/sport/2023/aug/04/great-britain-womens-team-fly-to-fastest-pursuit-qualifying-time-at-worlds-cycling)
+- [Ché Adams sinks Sheffield Wednesday to get Southampton up and running](https://www.theguardian.com/football/2023/aug/04/sheffield-wednesday-southampton-championship-match-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

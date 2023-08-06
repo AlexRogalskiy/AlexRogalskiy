@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [NYPD officers detain online influencer after giveaway devolves into chaos](https://www.theguardian.com/us-news/2023/aug/04/kai-cenat-influencer-twitch-youtube-arrested)
-- [US and UK Scouts pull out of world jamboree campsite due to extreme heat](https://www.theguardian.com/world/2023/aug/04/uk-children-to-move-to-seoul-hotels-heatwave-world-scout-jamboree)
-- [West Ham close in on Álvarez while Ward-Prowse deal appears stalled](https://www.theguardian.com/football/2023/aug/04/west-ham-close-in-on-alvarez-while-ward-prowse-deal-appears-stalled)
-- [Angela Rippon to be oldest Strictly Come Dancing contestant](https://www.theguardian.com/tv-and-radio/2023/aug/04/angela-rippon-to-be-oldest-strictly-come-dancing-contestant)
-- [Super League roundup: table-topping Dragons add to Warrington’s woe](https://www.theguardian.com/sport/2023/aug/04/super-league-roundup-table-topping-dragons-add-to-warringtons-woe)
-- [Georgie Grier plays to sell-out Edinburgh crowd 24 hours after tearful tweet](https://www.theguardian.com/stage/2023/aug/04/georgie-grier-plays-to-sell-out-edinburgh-crowd-24-hours-after-tearful-tweet)
-- [Mikel Arteta readies rebuilt Arsenal for another shot at Manchester City | Nick Ames](https://www.theguardian.com/football/2023/aug/04/mikel-arteta-arsenal-manchester-city-community-shield)
-- [John Bolton suggests US will leave Nato if ‘erratic’ Trump wins in 2024](https://www.theguardian.com/us-news/2023/aug/04/john-bolton-trump-nato-2024)
-- [Holl and Unwin strike gold again as Great Britain women hit heights](https://www.theguardian.com/sport/2023/aug/04/great-britain-womens-team-fly-to-fastest-pursuit-qualifying-time-at-worlds-cycling)
-- [Ché Adams sinks Sheffield Wednesday to get Southampton up and running](https://www.theguardian.com/football/2023/aug/04/sheffield-wednesday-southampton-championship-match-report)
+- [Netherlands v South Africa: Women’s World Cup 2023 last 16 – live](https://www.theguardian.com/football/live/2023/aug/06/netherlands-vs-south-africa-live-womens-world-cup-2023-updates-score-ned-v-rsa-last-16-scores-lineup-team-football-fifa-wwc-latest-news)
+- [Russia-Ukraine war at a glance: what we know on day 529 of the invasion](https://www.theguardian.com/world/2023/aug/06/russia-ukraine-war-at-a-glance-what-we-know-on-day-529-of-the-invasion)
+- [Is Germany’s great economy sinking into ‘slowcession’?](https://www.theguardian.com/world/2023/aug/06/is-germanys-great-economy-sinking-into-slowcession)
+- [Ian Watkins, singer jailed for child sex offences, ‘stabbed in prison’](https://www.theguardian.com/society/2023/aug/06/ian-watkins-singer-jailed-for-child-sex-offences-stabbed-in-prison)
+- [Wrongly convicted in Britain no longer forced to pay ‘saved living costs’ in prison](https://www.theguardian.com/society/2023/aug/06/wrongly-convicted-in-britain-no-longer-forced-to-pay-saved-living-costs-in-prison)
+- [Katie Archibald honours late partner with pursuit gold for Britain in Glasgow](https://www.theguardian.com/sport/2023/aug/05/charlie-hatton-defies-conditions-to-win-mens-mountain-bike-downhill)
+- [Zelenskiy condemns attack on blood transfusion centre as ‘war crime’](https://www.theguardian.com/world/2023/aug/05/zelenskiy-condemns-attack-on-blood-transfusion-centre-as-war)
+- [Doris in form as Ireland complete comfortable win over Italy](https://www.theguardian.com/sport/2023/aug/05/ireland-italy-rugby-world-cup-warmup-report)
+- [‘It’s getting worse’: Manchester City have too many games, says Guardiola](https://www.theguardian.com/football/2023/aug/05/manchester-city-pep-guardiola-too-many-games-trophy-success)
+- [Steve Borthwick rues England’s ‘missed opportunities’ in defeat by Wales](https://www.theguardian.com/sport/2023/aug/05/steve-borthwick-rues-englands-missed-opportunities-in-defeat-by-wales)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

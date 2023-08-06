@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [INTERCAL](https://en.wikipedia.org/wiki/INTERCAL)
-- [Half the population to have a mental health disorder by 75](https://www.sciencedaily.com/releases/2023/07/230731110734.htm)
-- [Show HN: Unstock.ai – Free image generation with SDXL](https://unstock.ai)
-- [Sync Metabase with Git Repo](https://github.com/AlhasanIQ/metabase-git-sync)
-- [Why prepared rotisserie chickens are cheaper than ones you cook yourself](https://www.cbc.ca/radio/costofliving/rotisserie-chicken-secrets-1.6418773)
-- [In Scheme Lisp, data can be represented as function](https://stackoverflow.com/questions/21769348/use-of-lambda-for-cons-car-cdr-definition-in-sicp)
-- [Putin critic Navalny receives new 19-year sentence](https://www.axios.com/2023/08/04/alexei-navalny-extremism-sentence)
-- [Documentation isn’t the best place to be DRY](https://www.edgedb.com/blog/make-your-users-happy-by-keeping-it-ryl-in-documentation)
-- [Robocallers Fined $300M After 5Bil. Calls Offering Auto Warranties](https://themessenger.com/business/fcc-clamps-down-on-robocallers-claiming-to-sell-auto-warranties)
-- [Microsoft mitigates Power Platform information disclosure vulnerability](https://msrc.microsoft.com/blog/2023/08/microsoft-mitigates-power-platform-custom-code-information-disclosure-vulnerability/)
+- [Death threats trolling and sexist abuse climate scientists report online attacks](https://www.nature.com/articles/d41586-023-01018-9)
+- [Spam spammers back](https://www.stavros.io/posts/spam-spammers-back/)
+- [My Dynamic Static Blog](https://www.thesoftwarephilosopher.com/articles/2023-08-05-dynamic-static-blog.html)
+- [Reverse Engineering a Credit Card Featuring Dynamic CVV [video] &lpar;2020&rpar;](https://www.youtube.com/watch?v=UL56LrFEwV4)
+- [Third person dies from meal made with poisonous wild mushrooms](https://www.theage.com.au/national/victoria/third-person-dies-from-meal-made-with-poisonous-wild-mushrooms-20230806-p5du8a.html)
+- [Tumblr is launching live streaming service](https://staff.tumblr.com/post/724649961513533440/hello-tumblr-tumblr-here-were-launching-live)
+- [The Argument for Grip Strength as a Vital Sign](https://www.medscape.com/viewarticle/995121)
+- [Stay Curious About Your Tools](https://v5.chriskrycho.com/journal/stay-curious-about-your-tools/)
+- [Tell HN: Firebase SMS Pricing Changed](https://news.ycombinator.com/item?id=37018157)
+- [Judge narrows case in Google antitrust suits brought by states and DOJ](https://www.cnbc.com/2023/08/04/judge-narrows-case-in-google-antitrust-suits-brought-by-states-and-doj.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

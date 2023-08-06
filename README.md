@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Digitization of “The Most Beautiful of All Printed Books,” the Kelmscott Chaucer](https://www.openculture.com/2023/08/behold-a-digitization-of-the-most-beautiful-of-all-printed-books-the-kelmscott-chaucer.html)
-- [Math Exposition on YouTube](https://dustingmixon.wordpress.com/2023/08/04/math-exposition-on-youtube/)
-- [Pay no attention to the USB port behind the “no USB” sticker](https://www.theverge.com/2023/8/4/23820710/pay-no-attention-to-the-usb-port-behind-the-no-usb-sticker)
-- [Non-determinism in GPT-4 is caused by Sparse MoE](https://152334H.github.io/blog/non-determinism-in-gpt-4/)
-- [Most promoted and blocked domains among Kagi Search users](https://kagi.com/stats)
-- [IBM, Red Hat and Free Software: An old maddog’s view](https://www.lpi.org/blog/2023/07/30/ibm-red-hat-and-free-software-an-old-maddogs-view/)
-- [New studies gauge impact and cause of beech leaf disease](https://www.science.org/content/article/beech-leaf-disease-ravaging-north-american-trees)
-- [American English Dialects](https://aschmann.net/AmEng/)
-- [Terraform best practices for reliability at any scale](https://substrate.tools/blog/terraform-best-practices-for-reliability-at-any-scale)
-- [Melatonin as a treatment for food waste](https://www.anthropocenemagazine.org/2023/08/melatonin-a-sleep-aid-is-a-surprising-treatment-for-food-waste/)
+- [George Church lab creates functional ovary tissue from adult human stem cells](https://elifesciences.org/articles/83291)
+- [Scientists of Chinese descent leaving the US at an accelerating pace](https://www.chemistryworld.com/news/scientists-of-chinese-descent-leaving-the-us-at-an-accelerating-pace/4017831.article)
+- [Mass Editing Memory in a Transformer](https://arxiv.org/abs/2210.07229)
+- [Searching for Paul C. Pratt](https://www.bigmessowires.com/2023/08/05/searching-for-paul-c-pratt/)
+- [E-scooter startup Spin apparently uses RasPi 4s inside their scooters](https://abolish.social/@_/110828271798284741)
+- [Tim Hunkin &lpar;Secret Lives of Machines&rpar;](https://www.timhunkin.com/control/o_about_the_site.htm)
+- [MK-1](https://mkone.ai/blog/introducing-mk1)
+- [nic.funet.fi: Serving freely distributable files with FTP since 1990](https://www.funet.fi/)
+- [IBM and NASA open-source largest geospatial AI foundation model on Hugging Face](https://newsroom.ibm.com/2023-08-03-IBM-and-NASA-Open-Source-Largest-Geospatial-AI-Foundation-Model-on-Hugging-Face?sf180690117=1)
+- [We’re closer to ‘engineering’ blood vessels](https://pursuit.unimelb.edu.au/articles/we-re-closer-to-engineering-blood-vessels)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

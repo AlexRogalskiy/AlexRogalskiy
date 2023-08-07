@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Netherlands v South Africa: Women’s World Cup 2023 last 16 – live](https://www.theguardian.com/football/live/2023/aug/06/netherlands-vs-south-africa-live-womens-world-cup-2023-updates-score-ned-v-rsa-last-16-scores-lineup-team-football-fifa-wwc-latest-news)
-- [Russia-Ukraine war at a glance: what we know on day 529 of the invasion](https://www.theguardian.com/world/2023/aug/06/russia-ukraine-war-at-a-glance-what-we-know-on-day-529-of-the-invasion)
-- [Is Germany’s great economy sinking into ‘slowcession’?](https://www.theguardian.com/world/2023/aug/06/is-germanys-great-economy-sinking-into-slowcession)
-- [Ian Watkins, singer jailed for child sex offences, ‘stabbed in prison’](https://www.theguardian.com/society/2023/aug/06/ian-watkins-singer-jailed-for-child-sex-offences-stabbed-in-prison)
-- [Wrongly convicted in Britain no longer forced to pay ‘saved living costs’ in prison](https://www.theguardian.com/society/2023/aug/06/wrongly-convicted-in-britain-no-longer-forced-to-pay-saved-living-costs-in-prison)
-- [Katie Archibald honours late partner with pursuit gold for Britain in Glasgow](https://www.theguardian.com/sport/2023/aug/05/charlie-hatton-defies-conditions-to-win-mens-mountain-bike-downhill)
-- [Zelenskiy condemns attack on blood transfusion centre as ‘war crime’](https://www.theguardian.com/world/2023/aug/05/zelenskiy-condemns-attack-on-blood-transfusion-centre-as-war)
-- [Doris in form as Ireland complete comfortable win over Italy](https://www.theguardian.com/sport/2023/aug/05/ireland-italy-rugby-world-cup-warmup-report)
-- [‘It’s getting worse’: Manchester City have too many games, says Guardiola](https://www.theguardian.com/football/2023/aug/05/manchester-city-pep-guardiola-too-many-games-trophy-success)
-- [Steve Borthwick rues England’s ‘missed opportunities’ in defeat by Wales](https://www.theguardian.com/sport/2023/aug/05/steve-borthwick-rues-englands-missed-opportunities-in-defeat-by-wales)
+- [How can we escape burnout? | Podcast](https://www.theguardian.com/news/audio/2023/aug/07/how-can-we-escape-burnout-podcast)
+- [Barbie movie tops $1bn in global box office ticket sales, breaking record for female directors](https://www.theguardian.com/film/2023/aug/07/barbie-movie-tops-1bn-in-global-box-office-ticket-sales-breaking-record-for-female-directors)
+- [Niger closes airspace as deadline to reinstate president passes](https://www.theguardian.com/world/2023/aug/07/niger-closes-airspace-as-deadline-to-reinstate-president-passes)
+- [Russia-Ukraine war at a glance: what we know on day 530 of the invasion](https://www.theguardian.com/world/2023/aug/07/russia-ukraine-war-at-a-glance-what-we-know-on-day-530-of-the-invasion)
+- [US scientists achieve net energy gain for second time in a fusion reaction](https://www.theguardian.com/environment/2023/aug/06/us-scientists-achieve-net-energy-gain-second-time-fusion-reaction)
+- [UK MPs warn against growing use of smart tech in domestic abuse](https://www.theguardian.com/society/2023/aug/07/uk-mps-warn-use-smart-tech-domestic-abuse)
+- [New vaccine research centre to help scientists prepare for ‘disease X’](https://www.theguardian.com/science/2023/aug/07/new-vaccine-research-centre-porton-down-uk)
+- [English and Welsh football fans could be banned for mocking disasters](https://www.theguardian.com/football/2023/aug/07/english-welsh-football-fans-could-banned-mocking-disasters)
+- [Nearly 100,000 fewer top A-levels this year in grading plan, research suggests](https://www.theguardian.com/education/2023/aug/07/a-level-grades-results-students-england-uk)
+- [Britons living in deprived areas have poorer sleep quality, study finds](https://www.theguardian.com/lifeandstyle/2023/aug/07/britons-deprived-areas-poorer-sleep-quality-study)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

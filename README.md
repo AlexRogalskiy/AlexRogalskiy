@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Death threats trolling and sexist abuse climate scientists report online attacks](https://www.nature.com/articles/d41586-023-01018-9)
-- [Spam spammers back](https://www.stavros.io/posts/spam-spammers-back/)
-- [My Dynamic Static Blog](https://www.thesoftwarephilosopher.com/articles/2023-08-05-dynamic-static-blog.html)
-- [Reverse Engineering a Credit Card Featuring Dynamic CVV [video] &lpar;2020&rpar;](https://www.youtube.com/watch?v=UL56LrFEwV4)
-- [Third person dies from meal made with poisonous wild mushrooms](https://www.theage.com.au/national/victoria/third-person-dies-from-meal-made-with-poisonous-wild-mushrooms-20230806-p5du8a.html)
-- [Tumblr is launching live streaming service](https://staff.tumblr.com/post/724649961513533440/hello-tumblr-tumblr-here-were-launching-live)
-- [The Argument for Grip Strength as a Vital Sign](https://www.medscape.com/viewarticle/995121)
-- [Stay Curious About Your Tools](https://v5.chriskrycho.com/journal/stay-curious-about-your-tools/)
-- [Tell HN: Firebase SMS Pricing Changed](https://news.ycombinator.com/item?id=37018157)
-- [Judge narrows case in Google antitrust suits brought by states and DOJ](https://www.cnbc.com/2023/08/04/judge-narrows-case-in-google-antitrust-suits-brought-by-states-and-doj.html)
+- [Zoom may be a bad choice for newsrooms](https://werd.io/2023/zoom-may-be-a-bad-choice-for-newsrooms)
+- [The AI Boom Inside Silicon Valley Startup Accelerators](https://www.nytimes.com/2023/05/31/magazine/ai-start-up-accelerator-san-francisco.html)
+- [The Virus Is Learning New Tricks and We Humans Keep Falling Behind](https://erictopol.substack.com/p/the-virus-is-learning-new-tricks)
+- [Elon Musk’s ‘fund your legal bill’ tweet is a brand new level of bullshit](https://www.theverge.com/22345505/elon-musk-twitter-x-employer-legal-bill-bs)
+- [Our Galaxy Is Home to Trillions of Worlds Gone Rogue](https://www.nytimes.com/2023/08/06/science/space/our-galaxy-is-home-to-trillions-of-worlds-gone-rogue.html)
+- [Car Dealer Markups Helped Drive Inflation, Study Finds](https://www.wsj.com/articles/car-dealer-markups-helped-drive-inflation-study-finds-7c1d5a2d)
+- [A.I. is on a collision course with white-collar, high-paid jobs. unknown impact](https://www.cnbc.com/2023/07/31/ai-could-affect-many-white-collar-high-paid-jobs.html)
+- [Phrases I never say to raise smart and emotionally intelligent kids](https://www.cnbc.com/2023/07/30/neuroscientist-and-mom-shares-phrases-she-never-says-to-raise-smart-mentally-strong-kids.html)
+- [What Can Federalist No. 10 Teach Us About Contemporary Politics?](https://www.liberalpatriot.com/p/what-can-federalist-no-10-teach-us)
+- [Ask HN: How to get started with Machine Learning?](https://news.ycombinator.com/item?id=37029088)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

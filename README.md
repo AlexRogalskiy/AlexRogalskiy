@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [George Church lab creates functional ovary tissue from adult human stem cells](https://elifesciences.org/articles/83291)
-- [Scientists of Chinese descent leaving the US at an accelerating pace](https://www.chemistryworld.com/news/scientists-of-chinese-descent-leaving-the-us-at-an-accelerating-pace/4017831.article)
-- [Mass Editing Memory in a Transformer](https://arxiv.org/abs/2210.07229)
-- [Searching for Paul C. Pratt](https://www.bigmessowires.com/2023/08/05/searching-for-paul-c-pratt/)
-- [E-scooter startup Spin apparently uses RasPi 4s inside their scooters](https://abolish.social/@_/110828271798284741)
-- [Tim Hunkin &lpar;Secret Lives of Machines&rpar;](https://www.timhunkin.com/control/o_about_the_site.htm)
-- [MK-1](https://mkone.ai/blog/introducing-mk1)
-- [nic.funet.fi: Serving freely distributable files with FTP since 1990](https://www.funet.fi/)
-- [IBM and NASA open-source largest geospatial AI foundation model on Hugging Face](https://newsroom.ibm.com/2023-08-03-IBM-and-NASA-Open-Source-Largest-Geospatial-AI-Foundation-Model-on-Hugging-Face?sf180690117=1)
-- [We’re closer to ‘engineering’ blood vessels](https://pursuit.unimelb.edu.au/articles/we-re-closer-to-engineering-blood-vessels)
+- [Java’s Floating-Point Hurts Everyone Everywhere [pdf]](https://people.eecs.berkeley.edu/~wkahan/JAVAhurt.pdf)
+- [Ravenchord – A Radical Redesign of the Piano](https://whipsaw.com/2023/06/05/unveiling-ravenchord-a-radical-piano-redesign-from-dan-harden/)
+- [The Optics Library](http://markelz.physics.buffalo.edu/node/411)
+- [Every reported mistaken arrest using facial recognition, person has been Black](https://www.businessinsider.com/in-every-reported-false-arrests-based-on-facial-recognition-that-person-has-been-black-2023-8)
+- [Timo Noko – The Professional Hobo](https://timonoko.github.io/)
+- [Electron Band Structure in Germanium, My Ass &lpar;2007&rpar;](https://pages.cs.wisc.edu/~kovar/hall.html)
+- [Water](https://oimo.io/works/water/)
+- [Barco: Linux Containers from Scratch in C](https://github.com/lucavallin/barco)
+- [New privacy tools and policies to help you stay safe and in control online](https://blog.google/products/search/new-privacy-tools/)
+- [We Are All Animals at Night](https://hazlitt.net/feature/we-are-all-animals-night)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

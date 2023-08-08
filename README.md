@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Java’s Floating-Point Hurts Everyone Everywhere [pdf]](https://people.eecs.berkeley.edu/~wkahan/JAVAhurt.pdf)
-- [Ravenchord – A Radical Redesign of the Piano](https://whipsaw.com/2023/06/05/unveiling-ravenchord-a-radical-piano-redesign-from-dan-harden/)
-- [The Optics Library](http://markelz.physics.buffalo.edu/node/411)
-- [Every reported mistaken arrest using facial recognition, person has been Black](https://www.businessinsider.com/in-every-reported-false-arrests-based-on-facial-recognition-that-person-has-been-black-2023-8)
-- [Timo Noko – The Professional Hobo](https://timonoko.github.io/)
-- [Electron Band Structure in Germanium, My Ass &lpar;2007&rpar;](https://pages.cs.wisc.edu/~kovar/hall.html)
-- [Water](https://oimo.io/works/water/)
-- [Barco: Linux Containers from Scratch in C](https://github.com/lucavallin/barco)
-- [New privacy tools and policies to help you stay safe and in control online](https://blog.google/products/search/new-privacy-tools/)
-- [We Are All Animals at Night](https://hazlitt.net/feature/we-are-all-animals-night)
+- [Ferromagnetic half levitation of LK-99-like synthetic samples](https://arxiv.org/abs/2308.03110)
+- [Absence of superconductivity in LK-99 at ambient conditions](https://arxiv.org/abs/2308.03544)
+- [Etleap &lpar;YC W13&rpar; Is Hiring a Software Engineer &lpar;London – OR – San Francisco&rpar;](https://etleap.com/careers/software-engineer/)
+- [Malignant melanoma deploys elegant molecular mechanism to evade immune responses](https://www.cancer.columbia.edu/news/cancers-cloaking-device-revealed)
+- [To opt out of Grammarly AI training requires business account with 500+ users](https://front-end.social/@fox/110846484782705013)
+- [I would rather see my books get pirated than this](https://janefriedman.com/i-would-rather-see-my-books-pirated/)
+- [CISA Releases Its Cybersecurity Strategic Plan](https://www.cisa.gov/news-events/alerts/2023/08/04/cisa-releases-its-cybersecurity-strategic-plan)
+- [Raku: A language for gremlins](https://buttondown.email/hillelwayne/archive/raku-a-language-for-gremlins/)
+- [Show HN: Doculite – Use SQLite as a Document Database](https://www.npmjs.com/package/doculite)
+- [Lithium morphology discovery could lead to safer lithium-metal batteries](https://phys.org/news/2023-08-true-lithium-revealed.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

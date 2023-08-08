@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Zoom may be a bad choice for newsrooms](https://werd.io/2023/zoom-may-be-a-bad-choice-for-newsrooms)
-- [The AI Boom Inside Silicon Valley Startup Accelerators](https://www.nytimes.com/2023/05/31/magazine/ai-start-up-accelerator-san-francisco.html)
-- [The Virus Is Learning New Tricks and We Humans Keep Falling Behind](https://erictopol.substack.com/p/the-virus-is-learning-new-tricks)
-- [Elon Musk’s ‘fund your legal bill’ tweet is a brand new level of bullshit](https://www.theverge.com/22345505/elon-musk-twitter-x-employer-legal-bill-bs)
-- [Our Galaxy Is Home to Trillions of Worlds Gone Rogue](https://www.nytimes.com/2023/08/06/science/space/our-galaxy-is-home-to-trillions-of-worlds-gone-rogue.html)
-- [Car Dealer Markups Helped Drive Inflation, Study Finds](https://www.wsj.com/articles/car-dealer-markups-helped-drive-inflation-study-finds-7c1d5a2d)
-- [A.I. is on a collision course with white-collar, high-paid jobs. unknown impact](https://www.cnbc.com/2023/07/31/ai-could-affect-many-white-collar-high-paid-jobs.html)
-- [Phrases I never say to raise smart and emotionally intelligent kids](https://www.cnbc.com/2023/07/30/neuroscientist-and-mom-shares-phrases-she-never-says-to-raise-smart-mentally-strong-kids.html)
-- [What Can Federalist No. 10 Teach Us About Contemporary Politics?](https://www.liberalpatriot.com/p/what-can-federalist-no-10-teach-us)
-- [Ask HN: How to get started with Machine Learning?](https://news.ycombinator.com/item?id=37029088)
+- [#121 Shareware with Richard Moss](http://kopec.live/episode/67e565b5/shareware-with-richard-moss)
+- [ROTT in Hell – Definitive History of the Best Deathmatch Game of All-Time &lpar;1997&rpar;](http://www.kevinbowen.com/rott/hell/)
+- [Autonomous healing of fatigue cracks in metal via cold welding](https://www.nature.com/articles/s41586-023-06223-0)
+- [nc5](https://news.ycombinator.com/item?id=37043571)
+- [There Is No Housing Crisis](https://thewalrus.ca/there-is-no-housing-crisis/)
+- [“Winners Take None:” Coworking, Self Storage, Scooters Have Burned Billions Of](https://hunterwalk.com/2023/08/07/winners-take-none-coworking-self-storage-scooters-have-burned-billions-of-investor-dollars-and-maybe-were-never-tech-companies/)
+- [Amazon Moves Project Kuiper Prototypes to Atlas 5 Amid Vulcan Delays](https://www.factandmyth.com/technology/amazon-moves-project-kuiper-prototypes-to-atlas-5-amid-vulcan-delays)
+- [Intel 18A process wins US gov&#39;t deal, may squeeze orders for TSMC Arizona fab](https://www.digitimes.com/news/a20230807PD201/intel-2nm-3d-packaging-military-industrial-complex-us.html)
+- [OOD Detection, Robustness, and Generalization](https://github.com/continuousml/Awesome-Out-Of-Distribution-Detection)
+- [Ferromagnetic half levitation of LK-99-like synthetic samples](https://arxiv.org/abs/2308.03110)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

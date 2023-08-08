@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Biden: Get federal workers back in the office](https://www.computerworld.com/article/3704251/biden-get-federal-workers-back-in-the-office.html#tk.rss_all)
+- [Has Microsoft cut security corners once too often?](https://www.computerworld.com/article/3704132/has-microsoft-cut-security-corners-once-too-often.html#tk.rss_all)
+- [Is Apple now the world’s biggest fintech disruptor?](https://www.computerworld.com/article/3704131/is-apple-now-the-worlds-biggest-fintech-disruptor.html#tk.rss_all)
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [Zoom requires employees to get back to the office](https://www.computerworld.com/article/3704348/zoom-requires-employees-to-get-back-to-the-office.html#tk.rss_all)
+- [Gamers: Corporate America wants you](https://www.computerworld.com/article/3704229/gamers-corporate-america-wants-you.html#tk.rss_all)
+- [What is generative AI? Artificial intelligence that creates](https://www.infoworld.com/article/3689973/what-is-generative-ai-artificial-intelligence-that-creates.html#tk.rss_all)
 - [Apple’s latest earnings results show the power of shrewd management](https://www.computerworld.com/article/3704152/apples-latest-earnings-results-show-the-power-of-shrewd-management.html#tk.rss_all)
 - [The best calendar apps for Android](https://www.computerworld.com/article/3541826/best-calendar-apps-android.html#tk.rss_all)
 - [Gen-AI HPC infrastructure provider CoreWeave scores $2.3 billion financing deal](https://www.networkworld.com/article/3704268/gen-ai-hpc-infrastructure-provider-coreweave-scores-23-billion-financing-deal.html#tk.rss_all)
-- [Apple’s AI strategy should be the same as it&#39;s always been](https://www.computerworld.com/article/3704151/apples-ai-strategy-should-be-the-same-as-its-always-been.html#tk.rss_all)
-- [India imposes curbs on computer imports to boost domestic production](https://www.computerworld.com/article/3704208/india-imposes-curbs-on-computer-imports-to-boost-domestic-production.html#tk.rss_all)
-- [How to use smart chips in Google Docs and Sheets](https://www.computerworld.com/article/3703051/how-to-use-smart-chips-in-google-docs-and-sheets.html#tk.rss_all)
-- [Slack tailors its chat app to sales staff](https://www.computerworld.com/article/3703949/slack-tailors-its-chat-app-to-sales-staff.html#tk.rss_all)
-- [UK intelligence agencies seek to weaken data protection safeguards](https://www.computerworld.com/article/3703870/uk-intelligence-agencies-seek-to-weaken-data-protection-safeguards.html#tk.rss_all)
-- [Apple plays nice with others for an OpenUSD metaverse](https://www.computerworld.com/article/3703869/apple-plays-nice-with-others-for-an-openusd-metaverse.html#tk.rss_all)
-- [Return-to-office mandates rise as worker productivity drops](https://www.computerworld.com/article/3704009/return-to-office-mandates-rise-as-worker-productivity-drops.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

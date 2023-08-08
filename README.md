@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [How can we escape burnout? | Podcast](https://www.theguardian.com/news/audio/2023/aug/07/how-can-we-escape-burnout-podcast)
-- [Barbie movie tops $1bn in global box office ticket sales, breaking record for female directors](https://www.theguardian.com/film/2023/aug/07/barbie-movie-tops-1bn-in-global-box-office-ticket-sales-breaking-record-for-female-directors)
-- [Niger closes airspace as deadline to reinstate president passes](https://www.theguardian.com/world/2023/aug/07/niger-closes-airspace-as-deadline-to-reinstate-president-passes)
-- [Russia-Ukraine war at a glance: what we know on day 530 of the invasion](https://www.theguardian.com/world/2023/aug/07/russia-ukraine-war-at-a-glance-what-we-know-on-day-530-of-the-invasion)
-- [US scientists achieve net energy gain for second time in a fusion reaction](https://www.theguardian.com/environment/2023/aug/06/us-scientists-achieve-net-energy-gain-second-time-fusion-reaction)
-- [UK MPs warn against growing use of smart tech in domestic abuse](https://www.theguardian.com/society/2023/aug/07/uk-mps-warn-use-smart-tech-domestic-abuse)
-- [New vaccine research centre to help scientists prepare for ‘disease X’](https://www.theguardian.com/science/2023/aug/07/new-vaccine-research-centre-porton-down-uk)
-- [English and Welsh football fans could be banned for mocking disasters](https://www.theguardian.com/football/2023/aug/07/english-welsh-football-fans-could-banned-mocking-disasters)
-- [Nearly 100,000 fewer top A-levels this year in grading plan, research suggests](https://www.theguardian.com/education/2023/aug/07/a-level-grades-results-students-england-uk)
-- [Britons living in deprived areas have poorer sleep quality, study finds](https://www.theguardian.com/lifeandstyle/2023/aug/07/britons-deprived-areas-poorer-sleep-quality-study)
+- [Storms hit US north-east as thousands of flights cancelled and 1.1m homes without power](https://www.theguardian.com/world/2023/aug/07/more-heat-in-us-south-brutal-storms-in-north-east)
+- [The legacy of Sinéad O’Connor – podcast](https://www.theguardian.com/news/audio/2023/aug/08/the-legacy-of-sinead-oconnor-podcast)
+- [Prosecutors seek to prevent Trump from sharing January 6 case evidence](https://www.theguardian.com/us-news/2023/aug/07/trump-evidence-witness-transcripts-january-6)
+- [World Scout Jamboree: South Korea sends 1,000 buses to take attendees away from Typhoon Khanun](https://www.theguardian.com/world/2023/aug/08/south-korea-scouts-1000-buses-evacuation-typhoon-khanun)
+- [Vanuatu PM faces no-confidence vote as rivals cite ‘foreign engagement’ concerns](https://www.theguardian.com/world/2023/aug/08/vanuatu-pm-faces-no-confidence-vote-as-rivals-cite-foreign-engagement-concerns)
+- [Junta leaders in Niger refuse to let top US official meet ousted president](https://www.theguardian.com/world/2023/aug/08/junta-leaders-in-niger-refuse-to-let-top-us-official-meet-ousted-president)
+- [Russia releases history schoolbook praising Ukraine invasion](https://www.theguardian.com/world/2023/aug/08/russia-releases-history-schoolbook-praising-ukraine-invasion)
+- [Melbourne’s mysterious midnight ‘meteor’ most likely tonnes of incinerating space junk](https://www.theguardian.com/australia-news/2023/aug/08/melbournes-mysterious-midnight-comet-most-likely-tonnes-of-incinerating-space-junk)
+- [Russian strike on Ukraine city kills eight, damaging hotel used by journalists](https://www.theguardian.com/world/2023/aug/08/russian-strike-on-ukraine-city-kills-five-damaging-hotel-frequented-by-journalists)
+- [Sam Kerr teases then delights a nation with long-awaited Matildas return | Jack Snape](https://www.theguardian.com/football/2023/aug/08/sam-kerr-teases-then-delights-a-nation-with-long-awaited-matildas-return)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

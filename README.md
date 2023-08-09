@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [#121 Shareware with Richard Moss](http://kopec.live/episode/67e565b5/shareware-with-richard-moss)
-- [ROTT in Hell – Definitive History of the Best Deathmatch Game of All-Time &lpar;1997&rpar;](http://www.kevinbowen.com/rott/hell/)
-- [Autonomous healing of fatigue cracks in metal via cold welding](https://www.nature.com/articles/s41586-023-06223-0)
-- [nc5](https://news.ycombinator.com/item?id=37043571)
-- [There Is No Housing Crisis](https://thewalrus.ca/there-is-no-housing-crisis/)
-- [“Winners Take None:” Coworking, Self Storage, Scooters Have Burned Billions Of](https://hunterwalk.com/2023/08/07/winners-take-none-coworking-self-storage-scooters-have-burned-billions-of-investor-dollars-and-maybe-were-never-tech-companies/)
-- [Amazon Moves Project Kuiper Prototypes to Atlas 5 Amid Vulcan Delays](https://www.factandmyth.com/technology/amazon-moves-project-kuiper-prototypes-to-atlas-5-amid-vulcan-delays)
-- [Intel 18A process wins US gov&#39;t deal, may squeeze orders for TSMC Arizona fab](https://www.digitimes.com/news/a20230807PD201/intel-2nm-3d-packaging-military-industrial-complex-us.html)
-- [OOD Detection, Robustness, and Generalization](https://github.com/continuousml/Awesome-Out-Of-Distribution-Detection)
-- [Ferromagnetic half levitation of LK-99-like synthetic samples](https://arxiv.org/abs/2308.03110)
+- [Litecoin NFTs: Developers Bring Ordinals to the LTC Network](https://heybeluga.com/articles/litecoin-nfts/)
+- [A Simple Age Verification Law Is Blowing Up the Online Porn Industry](https://www.politico.com/news/magazine/2023/08/08/age-law-online-porn-00110148)
+- [Ask HN: Anybody feeling like the more you learn the unhappier you are?](https://news.ycombinator.com/item?id=37057986)
+- [Cow Tools](https://en.wikipedia.org/wiki/Cow_tools)
+- [Injectable omega-3 halts progression of dangerous arterial plaques](https://newatlas.com/medical/injectable-omega-3-halts-arterial-plaque-progression/)
+- [Did plastic straw bans work?](https://grist.org/culture/plastic-straw-bans-single-use-plastic-pollution-impact/)
+- [Ask HN: How to Document APIs](https://news.ycombinator.com/item?id=37057912)
+- [CISA&#39;s 2024-2026 Cybersecurity Strategic Plan [pdf]](https://www.cisa.gov/sites/default/files/2023-08/FY2024-2026_Cybersecurity_Strategic_Plan.pdf)
+- [Is Laravel &lpar;PHP&rpar; the happiest developer community on the planet?](https://github.com/readme/featured/laravel-community)
+- [What are the benefits of hub motors?](https://www.lyhubmotor.com/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Ferromagnetic half levitation of LK-99-like synthetic samples](https://arxiv.org/abs/2308.03110)
-- [Absence of superconductivity in LK-99 at ambient conditions](https://arxiv.org/abs/2308.03544)
-- [Etleap &lpar;YC W13&rpar; Is Hiring a Software Engineer &lpar;London – OR – San Francisco&rpar;](https://etleap.com/careers/software-engineer/)
-- [Malignant melanoma deploys elegant molecular mechanism to evade immune responses](https://www.cancer.columbia.edu/news/cancers-cloaking-device-revealed)
-- [To opt out of Grammarly AI training requires business account with 500+ users](https://front-end.social/@fox/110846484782705013)
-- [I would rather see my books get pirated than this](https://janefriedman.com/i-would-rather-see-my-books-pirated/)
-- [CISA Releases Its Cybersecurity Strategic Plan](https://www.cisa.gov/news-events/alerts/2023/08/04/cisa-releases-its-cybersecurity-strategic-plan)
-- [Raku: A language for gremlins](https://buttondown.email/hillelwayne/archive/raku-a-language-for-gremlins/)
-- [Show HN: Doculite – Use SQLite as a Document Database](https://www.npmjs.com/package/doculite)
-- [Lithium morphology discovery could lead to safer lithium-metal batteries](https://phys.org/news/2023-08-true-lithium-revealed.html)
+- [Plunder and Urbit](https://gist.github.com/wicrum-wicrun/b308b298721ccbe0de9c6c73a6ee4242)
+- [Testing Intel’s Arc A770 GPU for Deep Learning](https://christianjmills.com/posts/arc-a770-testing/part-2/)
+- [Unity Weta Tools](https://unity.com/solutions/unity-weta-tools)
+- [LK-99: Phonon bands, Localized Flat Band Magnetism, Models and Chemical Analysis](https://drive.google.com/file/d/1ekD2KVV_SUid2wH__o1ODS3hTl1GUFb5/view)
+- [Android 14 introduces cellular connectivity security features](https://security.googleblog.com/2023/08/android-14-introduces-first-of-its-kind.html)
+- [Aviator &lpar;YC S21&rpar; is hiring engineers to build dev productivity platform](https://www.ycombinator.com/companies/aviator/jobs)
+- [PackagingCon – a conference only for software package management](https://packaging-con.org)
+- [The Last 1%](https://jaredramsey.com/blog/20230808.html)
+- [Panama Canal draught restrictions spark liner surcharges](https://gcaptain.com/panama-canal-draught-restrictions-spark-liner-surcharges/)
+- [FDA Approves First Oral Treatment for Postpartum Depression](https://www.fda.gov/news-events/press-announcements/fda-approves-first-oral-treatment-postpartum-depression)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

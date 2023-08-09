@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
+- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
+- [Researchers build a scary Mac attack using AI and sound](https://www.computerworld.com/article/3704351/researchers-build-a-scary-mac-attack-using-ai-and-sound.html#tk.rss_all)
+- [The working-from-home debate gets old](https://www.computerworld.com/article/3704129/the-working-from-home-debate-gets-old.html#tk.rss_all)
+- [How many jobs are available in technology in the US?](https://www.computerworld.com/article/3542681/how-many-jobs-are-available-in-technology.html#tk.rss_all)
 - [Biden: Get federal workers back in the office](https://www.computerworld.com/article/3704251/biden-get-federal-workers-back-in-the-office.html#tk.rss_all)
 - [Has Microsoft cut security corners once too often?](https://www.computerworld.com/article/3704132/has-microsoft-cut-security-corners-once-too-often.html#tk.rss_all)
 - [Is Apple now the world’s biggest fintech disruptor?](https://www.computerworld.com/article/3704131/is-apple-now-the-worlds-biggest-fintech-disruptor.html#tk.rss_all)
+- [BrandPost: How to turn a necessity into a business advantage](https://www.computerworld.com/article/3704388/how-to-turn-a-necessity-into-a-business-advantage.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [Zoom requires employees to get back to the office](https://www.computerworld.com/article/3704348/zoom-requires-employees-to-get-back-to-the-office.html#tk.rss_all)
-- [Gamers: Corporate America wants you](https://www.computerworld.com/article/3704229/gamers-corporate-america-wants-you.html#tk.rss_all)
-- [What is generative AI? Artificial intelligence that creates](https://www.infoworld.com/article/3689973/what-is-generative-ai-artificial-intelligence-that-creates.html#tk.rss_all)
-- [Apple’s latest earnings results show the power of shrewd management](https://www.computerworld.com/article/3704152/apples-latest-earnings-results-show-the-power-of-shrewd-management.html#tk.rss_all)
-- [The best calendar apps for Android](https://www.computerworld.com/article/3541826/best-calendar-apps-android.html#tk.rss_all)
-- [Gen-AI HPC infrastructure provider CoreWeave scores $2.3 billion financing deal](https://www.networkworld.com/article/3704268/gen-ai-hpc-infrastructure-provider-coreweave-scores-23-billion-financing-deal.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

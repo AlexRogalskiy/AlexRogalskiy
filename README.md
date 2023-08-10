@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Why the rest of the world can’t afford to ignore the coup in Niger – podcast](https://www.theguardian.com/news/audio/2023/aug/09/why-the-rest-of-the-world-cant-afford-to-ignore-the-coup-in-niger-podcast)
-- [Fulton county prosecutors to seek new 2020 election charges next week](https://www.theguardian.com/us-news/2023/aug/08/trump-2020-election-fulton-county-charges-next-week)
-- [Tory Lanez sentenced to 10 years in prison for shooting Megan Thee Stallion](https://www.theguardian.com/music/2023/aug/08/tory-lanez-sentence-latest-megan-thee-stallion-shooting)
-- [The Tetris Effect author says film-makers copied his story brick by brick](https://www.theguardian.com/games/2023/aug/09/the-tetris-effect-author-says-film-makers-copied-his-story-brick-by-brick)
-- [Taiwan’s MeToo movement has enmeshed politicians and celebrities - but a culture of silence endures](https://www.theguardian.com/world/2023/aug/09/taiwans-metoo-movement-has-enmeshed-politicians-and-celebrities-but-a-culture-of-silence-endures)
-- [Russia-Ukraine war at a glance: what we know on day 532 of the invasion](https://www.theguardian.com/world/2023/aug/09/russia-ukraine-war-at-a-glance-what-we-know-on-day-532-of-the-invasion)
-- [Risk of UK recession at next general election is 60%, says thinktank](https://www.theguardian.com/business/2023/aug/09/risk-of-uk-recession-at-next-general-election-is-60-says-thinktank)
-- [Bowel cancer screening programme finds 20,000 cases in decade, study finds](https://www.theguardian.com/society/2023/aug/09/screening-programme-has-prevented-20000-cases-of-bowel-cancer-in-england)
-- [Seals practise social distancing, aerial survey of North Sea shows](https://www.theguardian.com/environment/2023/aug/09/seals-practise-social-distancing-aerial-survey-of-north-sea-shows)
-- [Premier League 2023-24 preview No 15: Newcastle United](https://www.theguardian.com/football/2023/aug/09/premier-league-2023-24-preview-no-15-newcastle-united)
+- [Maui fires live updates: six dead, dozens injured in Hawaii as Hurricane Dora winds drive wildfires](https://www.theguardian.com/us-news/live/2023/aug/10/hawaii-wildfires-dead-dozens-injured-as-hurricane-dora-winds-drive-fires-through-maui-town-of-lahaina)
+- [The Qur’an burnings in Sweden: who is fanning the flames? – podcast](https://www.theguardian.com/world/audio/2023/aug/10/the-quran-burnings-in-sweden-who-is-fanning-the-flames-podcast)
+- [New Zealand’s Labour party is stumbling toward defeat – a scare campaign could save them | Henry Cooke](https://www.theguardian.com/world/commentisfree/2023/aug/10/new-zealands-labour-party-is-stumbling-toward-defeat-a-scare-campaign-could-save-them)
+- [The Band’s Robbie Robertson captured a dream of what America was, is and might be | Michael Hann](https://www.theguardian.com/music/2023/aug/10/the-band-robbie-robertson-captured-a-dream-of-what-america-was-is-and-might-be)
+- [Ecuador presidential candidate Fernando Villavicencio assassinated](https://www.theguardian.com/world/2023/aug/10/ecuador-presidential-candidate-fernando-villavicencio-killed)
+- [Kim Jong-un fires North Korea’s top general and calls for weapons production boost](https://www.theguardian.com/world/2023/aug/10/kim-jong-un-fires-dismisses-north-korea-top-military-general-pak-su-il)
+- [Russia-Ukraine war at a glance: what we know on day 533 of the invasion](https://www.theguardian.com/world/2023/aug/10/russia-ukraine-war-at-a-glance-what-we-know-on-day-533-of-the-invasion)
+- [One in three of England’s university starters ‘may live at home’ this year](https://www.theguardian.com/education/2023/aug/10/one-in-three-of-englands-university-starters-may-live-at-home-this-year)
+- [Lotus produces record 2,200 sports cars in first half of 2023](https://www.theguardian.com/business/2023/aug/10/lotus-produce-record-2200-sports-cars-first-half-2023-eletre-electric-suv)
+- [Premier League 2023-24 preview No 17: Sheffield United](https://www.theguardian.com/football/2023/aug/10/sheffield-united-premier-league-2023-24-preview)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

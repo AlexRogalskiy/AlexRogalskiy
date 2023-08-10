@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Microsoft to integrate Copilot into its Dynamics 365 Field Service app](https://www.computerworld.com/article/3704253/microsoft-to-integrate-copilot-into-its-dynamics-365-field-service-app.html#tk.rss_all)
+- [CDW now offers Apple Business Essentials direct to SMB customers](https://www.computerworld.com/article/3704212/cdw-now-offers-apple-business-essentials-direct-to-smb-customers.html#tk.rss_all)
+- [Slack redesigns app to tackle growing complexity](https://www.computerworld.com/article/3704391/slack-redesigns-app-to-tackle-growing-complexity.html#tk.rss_all)
+- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
+- [16 ways Google Lens can save you time on Android](https://www.computerworld.com/article/3572639/google-lens-android.html#tk.rss_all)
+- [Hybrid work is entering the &#39;trough of disillusionment&#39;](https://www.computerworld.com/article/3704352/hybrid-work-is-entering-the-trough-of-disillusionment.html#tk.rss_all)
 - [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
 - [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
 - [Researchers build a scary Mac attack using AI and sound](https://www.computerworld.com/article/3704351/researchers-build-a-scary-mac-attack-using-ai-and-sound.html#tk.rss_all)
 - [The working-from-home debate gets old](https://www.computerworld.com/article/3704129/the-working-from-home-debate-gets-old.html#tk.rss_all)
-- [How many jobs are available in technology in the US?](https://www.computerworld.com/article/3542681/how-many-jobs-are-available-in-technology.html#tk.rss_all)
-- [Biden: Get federal workers back in the office](https://www.computerworld.com/article/3704251/biden-get-federal-workers-back-in-the-office.html#tk.rss_all)
-- [Has Microsoft cut security corners once too often?](https://www.computerworld.com/article/3704132/has-microsoft-cut-security-corners-once-too-often.html#tk.rss_all)
-- [Is Apple now the world’s biggest fintech disruptor?](https://www.computerworld.com/article/3704131/is-apple-now-the-worlds-biggest-fintech-disruptor.html#tk.rss_all)
-- [BrandPost: How to turn a necessity into a business advantage](https://www.computerworld.com/article/3704388/how-to-turn-a-necessity-into-a-business-advantage.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

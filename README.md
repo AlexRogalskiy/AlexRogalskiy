@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Litecoin NFTs: Developers Bring Ordinals to the LTC Network](https://heybeluga.com/articles/litecoin-nfts/)
-- [A Simple Age Verification Law Is Blowing Up the Online Porn Industry](https://www.politico.com/news/magazine/2023/08/08/age-law-online-porn-00110148)
-- [Ask HN: Anybody feeling like the more you learn the unhappier you are?](https://news.ycombinator.com/item?id=37057986)
-- [Cow Tools](https://en.wikipedia.org/wiki/Cow_tools)
-- [Injectable omega-3 halts progression of dangerous arterial plaques](https://newatlas.com/medical/injectable-omega-3-halts-arterial-plaque-progression/)
-- [Did plastic straw bans work?](https://grist.org/culture/plastic-straw-bans-single-use-plastic-pollution-impact/)
-- [Ask HN: How to Document APIs](https://news.ycombinator.com/item?id=37057912)
-- [CISA&#39;s 2024-2026 Cybersecurity Strategic Plan [pdf]](https://www.cisa.gov/sites/default/files/2023-08/FY2024-2026_Cybersecurity_Strategic_Plan.pdf)
-- [Is Laravel &lpar;PHP&rpar; the happiest developer community on the planet?](https://github.com/readme/featured/laravel-community)
-- [What are the benefits of hub motors?](https://www.lyhubmotor.com/)
+- [Initial Benchmarks of the Intel Downfall Mitigation Performance Impact](https://www.phoronix.com/review/intel-downfall-benchmarks)
+- [Security incident post-mortem: July 2023](https://www.metabase.com/blog/security-incident-summary)
+- [Hawaii responds as deadly wildfires across 2 islands destroy communities](https://www.staradvertiser.com/2023/08/09/breaking-news/massive-wildfires-devastate-lahaina-wreak-havoc-across-2-islands/)
+- [Tutorial for Learning Next.js 13](https://brinleym.notion.site/A-Gentle-Introduction-to-Next-js-13-70cca5bad797491ba43910a42461db61)
+- [Secret Recordings of Top German Physicists After the Hiroshima Nuking [pdf]](https://germanhistorydocs.ghi-dc.org/pdf/eng/English101.pdf)
+- [Stability AI launches StableCode, an LLM for code generation](https://venturebeat.com/programming-development/stability-ai-launches-stablecode-an-llm-for-code-generation/)
+- [Is AI a threat to the world of fabric design?](https://www.bbc.com/news/business-66437928)
+- [Claude Instant 1.2](https://www.anthropic.com/index/releasing-claude-instant-1-2)
+- [What If Linus Torvalds Gets Hit by a Bus?](https://www.crummy.com/writing/segfault.org/Bus.html)
+- [What Is Happening with ChatGPT?](https://chat.openai.com/share/ca5e0c33-7a19-41a1-8f8a-b146b68e2d1a)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

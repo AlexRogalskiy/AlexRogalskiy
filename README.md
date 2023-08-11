@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Hawaii responds as deadly wildfires across 2 islands destroy communities](https://www.staradvertiser.com/2023/08/09/breaking-news/massive-wildfires-devastate-lahaina-wreak-havoc-across-2-islands/)
-- [Seattle becomes first in U.S. to protect gig workers from sudden &#39;deactivation&#39;](https://kuow.org/stories/seattle-becomes-first-in-u-s-to-protect-gig-workers-from-sudden-deactivation)
-- [UChicago scientists see first evidence of &#39;quantum superchemistry&#39; in the lab](https://news.uchicago.edu/story/uchicago-scientists-observe-first-evidence-quantum-superchemistry-laboratory)
-- [Paul Graham on Conversations with Tyler](https://conversationswithtyler.com/episodes/paul-graham/)
-- [Company Behind Stable Diffusion Is Crumbling](https://futurism.com/the-byte/stability-ai-stable-diffusion-chaos)
-- [Who Was Duns Scotus?](https://aeon.co/essays/duns-scotus-was-no-fool-but-a-brilliant-enigmatic-thinker)
-- [CNET is deleting old articles to try to improve its Google Search ranking](https://www.theverge.com/2023/8/9/23826342/cnet-content-pruning-deleting-articles-google-seo)
-- [BuildZoom &lpar;YC W13&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
-- [Optimization Techniques for GPU Programming [pdf]](https://dl.acm.org/doi/pdf/10.1145/3570638)
-- [Histoire: A new way to write stories, powered by Vite](https://histoire.dev/)
+- [Perils of not being attractive or athletic in middle school](https://www.fau.edu/newsdesk/articles/perils-middle-school-study.php)
+- [SQLite Functions for Working with JSON](https://www.sqlite.org/json1.html)
+- [ACM Skills Bundle Add-On](https://learning.acm.org/skills-bundle)
+- [Source code for Quake 2 rerelease](https://github.com/id-Software/quake2-rerelease-dll)
+- [Git scraping: track changes over time by scraping to a Git repository](https://simonwillison.net/2020/Oct/9/git-scraping/)
+- [Llama 2 on ONNX runs locally](https://github.com/microsoft/Llama-2-Onnx)
+- [A Modern C Development Environment](https://interrupt.memfault.com/blog/a-modern-c-dev-env)
+- [My Overkill Home Network](https://blog.networkprofile.org/my-home-network-complete-details-2023/)
+- [A Grumman F11 Tiger Shot Itself Down &lpar;2021&rpar;](https://www.planeandpilotmag.com/news/pilot-talk/grumman-f11-tiger-shoot-itself-down/)
+- [Was Y Combinator worth it?](https://tableflow.com/blog/was-y-combinator-worth-it)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

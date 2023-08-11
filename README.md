@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Maui fires live updates: six dead, dozens injured in Hawaii as Hurricane Dora winds drive wildfires](https://www.theguardian.com/us-news/live/2023/aug/10/hawaii-wildfires-dead-dozens-injured-as-hurricane-dora-winds-drive-fires-through-maui-town-of-lahaina)
-- [The Qur’an burnings in Sweden: who is fanning the flames? – podcast](https://www.theguardian.com/world/audio/2023/aug/10/the-quran-burnings-in-sweden-who-is-fanning-the-flames-podcast)
-- [New Zealand’s Labour party is stumbling toward defeat – a scare campaign could save them | Henry Cooke](https://www.theguardian.com/world/commentisfree/2023/aug/10/new-zealands-labour-party-is-stumbling-toward-defeat-a-scare-campaign-could-save-them)
-- [The Band’s Robbie Robertson captured a dream of what America was, is and might be | Michael Hann](https://www.theguardian.com/music/2023/aug/10/the-band-robbie-robertson-captured-a-dream-of-what-america-was-is-and-might-be)
-- [Ecuador presidential candidate Fernando Villavicencio assassinated](https://www.theguardian.com/world/2023/aug/10/ecuador-presidential-candidate-fernando-villavicencio-killed)
-- [Kim Jong-un fires North Korea’s top general and calls for weapons production boost](https://www.theguardian.com/world/2023/aug/10/kim-jong-un-fires-dismisses-north-korea-top-military-general-pak-su-il)
-- [Russia-Ukraine war at a glance: what we know on day 533 of the invasion](https://www.theguardian.com/world/2023/aug/10/russia-ukraine-war-at-a-glance-what-we-know-on-day-533-of-the-invasion)
-- [One in three of England’s university starters ‘may live at home’ this year](https://www.theguardian.com/education/2023/aug/10/one-in-three-of-englands-university-starters-may-live-at-home-this-year)
-- [Lotus produces record 2,200 sports cars in first half of 2023](https://www.theguardian.com/business/2023/aug/10/lotus-produce-record-2200-sports-cars-first-half-2023-eletre-electric-suv)
-- [Premier League 2023-24 preview No 17: Sheffield United](https://www.theguardian.com/football/2023/aug/10/sheffield-united-premier-league-2023-24-preview)
+- [Spain v Netherlands: Women’s World Cup 2023 quarter-final – live](https://www.theguardian.com/football/live/2023/aug/10/spain-v-netherlands-womens-world-cup-2023-quarter-final-live)
+- [How the search for UFOs reached the US Congress – podcast](https://www.theguardian.com/news/audio/2023/aug/11/how-search-for-ufos-reached-us-congress-podcast)
+- [Heart of Stone review – Netflix’s Mission: Impossible-esque thriller is rock solid](https://www.theguardian.com/film/2023/aug/10/heart-of-stone-review-gal-gadot-netflix)
+- [Death toll from Hawaii wildfires increases to 53 as search for survivors continues](https://www.theguardian.com/us-news/2023/aug/10/hawaii-fire-kills-people-lahaina-town-maui)
+- [‘Like a bomb went off’: Maui wildfires decimate historic town of Lahaina](https://www.theguardian.com/us-news/2023/aug/10/lahaina-maui-wildfire-damage)
+- [News Corp profits dive 75% as Rupert Murdoch-owned company hints at AI future](https://www.theguardian.com/media/2023/aug/11/profits-dive-at-news-corp-as-media-group-hints-at-ai-future-plans-rupert-murdoch)
+- [‘It looks like a war zone’: Lahaina residents tell of wildfire ‘nightmare’](https://www.theguardian.com/us-news/2023/aug/10/hawaii-lahaina-maui-wildfire-survivors)
+- [Harry Kane’s big decision imminent after Spurs accept Bayern Munich’s offer](https://www.theguardian.com/football/2023/aug/10/tottenham-accept-harry-kane-offer-bayern-munich)
+- [Nice recommends use of AI in NHS radiotherapy treatment in England](https://www.theguardian.com/society/2023/aug/11/nice-recommends-use-of-ai-in-nhs-radiotherapy-treatment-in-england)
+- [Bill O’Neill: The Amazing Banana Brothers review – a bunch of brilliant gags](https://www.theguardian.com/stage/2023/aug/11/bill-oneill-the-amazing-banana-brothers-review-a-bunch-of-brilliant-gags)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

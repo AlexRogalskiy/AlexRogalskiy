@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
+- [Biden fuels tech trade war with China, banning AI, chip, and quantum system investments](https://www.computerworld.com/article/3704610/biden-fuels-tech-trade-war-with-china-banning-ai-chip-and-quantum-system-investments.html#tk.rss_all)
+- [Does Zoom have a death wish?](https://www.computerworld.com/article/3704632/does-zoom-have-a-death-wish.html#tk.rss_all)
+- [Big day in Cupertino as Supreme Court delivers &#39;epic&#39; win — for now](https://www.computerworld.com/article/3704650/big-day-in-cupertino-as-supreme-court-delivers-epic-win-for-now.html#tk.rss_all)
+- [Q&amp;A: Why does Google care so much about hiring diverse AI teams?](https://www.computerworld.com/article/3704649/qa-why-does-google-care-so-much-about-hiring-diverse-ai-teams.html#tk.rss_all)
+- [Q&amp;A: TIAA&#39;s CIO touts top AI projects, details worker skills needed now](https://www.computerworld.com/article/3704568/qa-tiaas-cio-touts-top-ai-projects-details-worker-skills-needed-now.html#tk.rss_all)
 - [Microsoft to integrate Copilot into its Dynamics 365 Field Service app](https://www.computerworld.com/article/3704253/microsoft-to-integrate-copilot-into-its-dynamics-365-field-service-app.html#tk.rss_all)
 - [CDW now offers Apple Business Essentials direct to SMB customers](https://www.computerworld.com/article/3704212/cdw-now-offers-apple-business-essentials-direct-to-smb-customers.html#tk.rss_all)
 - [Slack redesigns app to tackle growing complexity](https://www.computerworld.com/article/3704391/slack-redesigns-app-to-tackle-growing-complexity.html#tk.rss_all)
-- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
-- [16 ways Google Lens can save you time on Android](https://www.computerworld.com/article/3572639/google-lens-android.html#tk.rss_all)
-- [Hybrid work is entering the &#39;trough of disillusionment&#39;](https://www.computerworld.com/article/3704352/hybrid-work-is-entering-the-trough-of-disillusionment.html#tk.rss_all)
-- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
-- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
-- [Researchers build a scary Mac attack using AI and sound](https://www.computerworld.com/article/3704351/researchers-build-a-scary-mac-attack-using-ai-and-sound.html#tk.rss_all)
-- [The working-from-home debate gets old](https://www.computerworld.com/article/3704129/the-working-from-home-debate-gets-old.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

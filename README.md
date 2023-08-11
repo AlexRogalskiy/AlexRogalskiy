@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Initial Benchmarks of the Intel Downfall Mitigation Performance Impact](https://www.phoronix.com/review/intel-downfall-benchmarks)
-- [Security incident post-mortem: July 2023](https://www.metabase.com/blog/security-incident-summary)
-- [Hawaii responds as deadly wildfires across 2 islands destroy communities](https://www.staradvertiser.com/2023/08/09/breaking-news/massive-wildfires-devastate-lahaina-wreak-havoc-across-2-islands/)
-- [Tutorial for Learning Next.js 13](https://brinleym.notion.site/A-Gentle-Introduction-to-Next-js-13-70cca5bad797491ba43910a42461db61)
-- [Secret Recordings of Top German Physicists After the Hiroshima Nuking [pdf]](https://germanhistorydocs.ghi-dc.org/pdf/eng/English101.pdf)
-- [Stability AI launches StableCode, an LLM for code generation](https://venturebeat.com/programming-development/stability-ai-launches-stablecode-an-llm-for-code-generation/)
-- [Is AI a threat to the world of fabric design?](https://www.bbc.com/news/business-66437928)
-- [Claude Instant 1.2](https://www.anthropic.com/index/releasing-claude-instant-1-2)
-- [What If Linus Torvalds Gets Hit by a Bus?](https://www.crummy.com/writing/segfault.org/Bus.html)
-- [What Is Happening with ChatGPT?](https://chat.openai.com/share/ca5e0c33-7a19-41a1-8f8a-b146b68e2d1a)
+- [California just opened the floodgates for self-driving cars](https://www.washingtonpost.com/technology/2023/08/10/san-francisco-robotaxi-approved-waymo-cruise/)
+- [Kim Stanley Robinson](https://en.wikipedia.org/wiki/Kim_Stanley_Robinson)
+- [Learning produces a hippocampal cognitive map in the form of a state machine](https://www.biorxiv.org/content/10.1101/2023.08.03.551900v2)
+- [Unifying Theories: A Personal Statement &lpar;1996&rpar;](https://dl.acm.org/doi/fullHtml/10.1145/242224.242282)
+- [Help warn people about YouTube rentals](http://ur1.ca/4qcxr)
+- [Descendants of Henrietta Lacks file another lawsuit over the cell line](https://apnews.com/article/henrietta-lacks-cells-new-lawsuit-baaeb5d88387edd61d795befcf614721)
+- [Tiny antibodies hold big promise for cancer treatment](https://medicine.uky.edu/news/tiny-antibodies-hold-big-promise-cancer-treatment-2023-08-10t08-27-50)
+- [The Boundless Demand for Insight](https://hex.tech/blog/jevons-paradox-demand-for-insight/)
+- [U.S. imports from China were down 24% through May](https://www.washingtonpost.com/business/2023/08/06/us-china-economy-trade-mexico/)
+- [China’s Deflation Danger Isn’t What You Think](https://www.wsj.com/articles/chinas-deflation-danger-isnt-what-you-think-price-decrease-market-economy-world-recession-4ad190ec)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

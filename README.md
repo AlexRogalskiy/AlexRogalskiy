@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [California just opened the floodgates for self-driving cars](https://www.washingtonpost.com/technology/2023/08/10/san-francisco-robotaxi-approved-waymo-cruise/)
-- [Kim Stanley Robinson](https://en.wikipedia.org/wiki/Kim_Stanley_Robinson)
-- [Learning produces a hippocampal cognitive map in the form of a state machine](https://www.biorxiv.org/content/10.1101/2023.08.03.551900v2)
-- [Unifying Theories: A Personal Statement &lpar;1996&rpar;](https://dl.acm.org/doi/fullHtml/10.1145/242224.242282)
-- [Help warn people about YouTube rentals](http://ur1.ca/4qcxr)
-- [Descendants of Henrietta Lacks file another lawsuit over the cell line](https://apnews.com/article/henrietta-lacks-cells-new-lawsuit-baaeb5d88387edd61d795befcf614721)
-- [Tiny antibodies hold big promise for cancer treatment](https://medicine.uky.edu/news/tiny-antibodies-hold-big-promise-cancer-treatment-2023-08-10t08-27-50)
-- [The Boundless Demand for Insight](https://hex.tech/blog/jevons-paradox-demand-for-insight/)
-- [U.S. imports from China were down 24% through May](https://www.washingtonpost.com/business/2023/08/06/us-china-economy-trade-mexico/)
-- [China’s Deflation Danger Isn’t What You Think](https://www.wsj.com/articles/chinas-deflation-danger-isnt-what-you-think-price-decrease-market-economy-world-recession-4ad190ec)
+- [A Look Inside the Cerebras CS-2 AI Accelerator [video]](https://www.youtube.com/watch?v=pzyZpauU3Ig)
+- [VP Kamala Harris to play a leading role in Biden’s 2024 campaign](https://www.cnbc.com/2023/08/11/harris-to-play-a-leading-role-in-bidens-2024-campaign-.html)
+- [Doors Open 2023: Go Behind–The-Scenes at the Physical Web Archive](https://blog.archive.org/event/doors-open-2023-go-behind-the-scenes-at-the-physical-archive/)
+- [The Potatoes of Doom &lpar;2020&rpar;](https://hackaday.com/2020/10/13/the-potatoes-of-doom/)
+- [Times obituary writer Damian Arnold on how to make a living out of death](https://pressgazette.co.uk/news-leaders/times-obituary-writer-damian-arnold-interview/)
+- [West Virginia University to drop 32 majors including all world language programs](https://www.wvgazettemail.com/news/education/wvu-to-drop-32-majors-including-all-world-language-programs/article_2b3d0aae-3962-544b-b1a3-7c28cb6df3ef.html)
+- [Internet Archive: “Our Fight Is Far from Over”](https://blog.archive.org/2023/08/11/our-fight-is-far-from-over/)
+- [Veilid: Secure peer-to-peer network for apps that flips off the surveil economy](https://www.theregister.com/2023/08/12/veilid_privacy_data/)
+- [Warming oceans and rivers cause genomic changes in fish](https://www.manchester.ac.uk/discover/news/warming-oceans-and-rivers-cause-genomic-changes-in-fish-scientists-find/)
+- [Scientist Unveils a Bold Plan to Turn an Asteroid into a Space Station](https://www.sciencealert.com/scientist-unveils-a-bold-plan-to-turn-an-asteroid-into-a-space-station)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

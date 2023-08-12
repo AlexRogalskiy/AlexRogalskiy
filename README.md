@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Spain v Netherlands: Women’s World Cup 2023 quarter-final – live](https://www.theguardian.com/football/live/2023/aug/10/spain-v-netherlands-womens-world-cup-2023-quarter-final-live)
-- [How the search for UFOs reached the US Congress – podcast](https://www.theguardian.com/news/audio/2023/aug/11/how-search-for-ufos-reached-us-congress-podcast)
-- [Heart of Stone review – Netflix’s Mission: Impossible-esque thriller is rock solid](https://www.theguardian.com/film/2023/aug/10/heart-of-stone-review-gal-gadot-netflix)
-- [Death toll from Hawaii wildfires increases to 53 as search for survivors continues](https://www.theguardian.com/us-news/2023/aug/10/hawaii-fire-kills-people-lahaina-town-maui)
-- [‘Like a bomb went off’: Maui wildfires decimate historic town of Lahaina](https://www.theguardian.com/us-news/2023/aug/10/lahaina-maui-wildfire-damage)
-- [News Corp profits dive 75% as Rupert Murdoch-owned company hints at AI future](https://www.theguardian.com/media/2023/aug/11/profits-dive-at-news-corp-as-media-group-hints-at-ai-future-plans-rupert-murdoch)
-- [‘It looks like a war zone’: Lahaina residents tell of wildfire ‘nightmare’](https://www.theguardian.com/us-news/2023/aug/10/hawaii-lahaina-maui-wildfire-survivors)
-- [Harry Kane’s big decision imminent after Spurs accept Bayern Munich’s offer](https://www.theguardian.com/football/2023/aug/10/tottenham-accept-harry-kane-offer-bayern-munich)
-- [Nice recommends use of AI in NHS radiotherapy treatment in England](https://www.theguardian.com/society/2023/aug/11/nice-recommends-use-of-ai-in-nhs-radiotherapy-treatment-in-england)
-- [Bill O’Neill: The Amazing Banana Brothers review – a bunch of brilliant gags](https://www.theguardian.com/stage/2023/aug/11/bill-oneill-the-amazing-banana-brothers-review-a-bunch-of-brilliant-gags)
+- [Hawaii fires: death toll increases to 67, says Maui county – live](https://www.theguardian.com/us-news/live/2023/aug/11/hawaii-wildfires-maui-lahainia-search-survivors-evacuation)
+- [Russia-Ukraine war at a glance: what we know on day 535 of the invasion](https://www.theguardian.com/world/2023/aug/12/russia-ukraine-war-at-a-glance-what-we-know-on-day-535-of-the-invasion)
+- [Three-year-old asylum seeker dies after being bussed from Texas to Chicago](https://www.theguardian.com/us-news/2023/aug/11/venezuela-child-dies-bussed-texas-chicago)
+- [When it comes to the climate crisis, no man is an island | Fiona Katauskas](https://www.theguardian.com/commentisfree/picture/2023/aug/12/when-it-comes-to-the-climate-crisis-no-man-is-an-island)
+- [Niger coup: West African countries suspend key military meeting on ‘standby’ force](https://www.theguardian.com/world/2023/aug/12/niger-coup-west-african-countries-suspend-key-military-meeting-on-standby-force)
+- [Fox Corp marks another high-level exit with legal chief Viet Dinh stepping down](https://www.theguardian.com/us-news/2023/aug/11/fox-corp-chief-legal-officer-exits)
+- [Ewing takes inspiration from Harman to open up big lead at Women’s Open](https://www.theguardian.com/sport/2023/aug/11/ewing-womens-open-golf)
+- [Jeremy Hunt’s brother, Charlie, dies of cancer aged 53](https://www.theguardian.com/society/2023/aug/11/jeremy-hunts-brother-charlie-dies-of-cancer-aged-53)
+- [Tottenham will move on quickly from Harry Kane exit, says Postecoglou](https://www.theguardian.com/football/2023/aug/11/tottenham-will-move-on-quickly-from-harry-kane-exit-says-postecoglou)
+- [Skills, spills and a dash of controversy: the Saudi Pro League kicks off](https://www.theguardian.com/football/2023/aug/11/roberto-firmino-hits-hat-trick-to-kickstart-saudi-pro-league-in-style)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

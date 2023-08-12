@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Perils of not being attractive or athletic in middle school](https://www.fau.edu/newsdesk/articles/perils-middle-school-study.php)
-- [SQLite Functions for Working with JSON](https://www.sqlite.org/json1.html)
-- [ACM Skills Bundle Add-On](https://learning.acm.org/skills-bundle)
-- [Source code for Quake 2 rerelease](https://github.com/id-Software/quake2-rerelease-dll)
-- [Git scraping: track changes over time by scraping to a Git repository](https://simonwillison.net/2020/Oct/9/git-scraping/)
-- [Llama 2 on ONNX runs locally](https://github.com/microsoft/Llama-2-Onnx)
-- [A Modern C Development Environment](https://interrupt.memfault.com/blog/a-modern-c-dev-env)
-- [My Overkill Home Network](https://blog.networkprofile.org/my-home-network-complete-details-2023/)
-- [A Grumman F11 Tiger Shot Itself Down &lpar;2021&rpar;](https://www.planeandpilotmag.com/news/pilot-talk/grumman-f11-tiger-shoot-itself-down/)
-- [Was Y Combinator worth it?](https://tableflow.com/blog/was-y-combinator-worth-it)
+- [Internet Archive: “Our Fight Is Far from Over”](https://blog.archive.org/2023/08/11/our-fight-is-far-from-over/)
+- [Police stage ‘chilling’ raid on Marion County newspaper](https://kansasreflector.com/2023/08/11/police-stage-chilling-raid-on-marion-county-newspaper-seizing-computers-records-and-cellphones/)
+- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Machine Learning Research Engineers](https://news.ycombinator.com/item?id=37095849)
+- [Optimization Algorithms for Planar Graphs](https://planarity.org/)
+- [If it can be designed on a computer, it can be built by robots](https://www.economist.com/science-and-technology/2023/08/09/if-it-can-be-designed-on-a-computer-it-can-be-built-by-robots)
+- [Show HN: Open-source proxy server for Llama2, GPT-4, Claude2 with Logging,Cache](https://github.com/BerriAI/litellm/blob/main/cookbook/proxy-server/readme.md)
+- [Larian&#39;s Unfair Advantage](https://credistick.com/larians-unfair-advantage/)
+- [Extracellular communication between brain cells through transfer of mRNA](https://www.biorxiv.org/content/10.1101/2023.01.29.525937v1)
+- [Pijul: Version-Control Post-Git • Goto 2023](https://www.youtube.com/watch?v=7MpdZkGj5AI)
+- [An Introduction to Graph Theory](https://arxiv.org/abs/2308.04512)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

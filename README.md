@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Patch Tuesday: Microsoft rolls out 90 updates for Windows, Office](https://www.computerworld.com/article/3704493/patch-tuesday-microsoft-rolls-out-90-updates-for-windows-office.html#tk.rss_all)
+- [Zoom goes for a blatant genAI data grab; enterprises, beware](https://www.computerworld.com/article/3704489/zoom-goes-for-a-blatant-genai-data-grab-enterprises-beware.html#tk.rss_all)
+- [Tech layoffs in 2023: A timeline](https://www.computerworld.com/article/3685936/tech-layoffs-in-2023-a-timeline.html#tk.rss_all)
+- [Amazon chastises staff for failure to comply with in-office work mandate](https://www.computerworld.com/article/3704729/amazon-chastises-staff-for-failure-to-comply-with-in-office-work-mandate.html#tk.rss_all)
+- [Google likes Apple’s Continuity feature so much it’s making its own](https://www.computerworld.com/article/3704492/google-likes-apples-continuity-feature-so-much-its-making-its-own.html#tk.rss_all)
+- [The future of work is AI-enhanced and remote](https://www.computerworld.com/article/3704651/the-future-of-work-is-ai-enhanced-and-remote.html#tk.rss_all)
+- [The problem with Google&#39;s Pixel Tablet](https://www.computerworld.com/article/3704488/google-pixel-tablet.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
 - [Biden fuels tech trade war with China, banning AI, chip, and quantum system investments](https://www.computerworld.com/article/3704610/biden-fuels-tech-trade-war-with-china-banning-ai-chip-and-quantum-system-investments.html#tk.rss_all)
-- [Does Zoom have a death wish?](https://www.computerworld.com/article/3704632/does-zoom-have-a-death-wish.html#tk.rss_all)
-- [Big day in Cupertino as Supreme Court delivers &#39;epic&#39; win — for now](https://www.computerworld.com/article/3704650/big-day-in-cupertino-as-supreme-court-delivers-epic-win-for-now.html#tk.rss_all)
-- [Q&amp;A: Why does Google care so much about hiring diverse AI teams?](https://www.computerworld.com/article/3704649/qa-why-does-google-care-so-much-about-hiring-diverse-ai-teams.html#tk.rss_all)
-- [Q&amp;A: TIAA&#39;s CIO touts top AI projects, details worker skills needed now](https://www.computerworld.com/article/3704568/qa-tiaas-cio-touts-top-ai-projects-details-worker-skills-needed-now.html#tk.rss_all)
-- [Microsoft to integrate Copilot into its Dynamics 365 Field Service app](https://www.computerworld.com/article/3704253/microsoft-to-integrate-copilot-into-its-dynamics-365-field-service-app.html#tk.rss_all)
-- [CDW now offers Apple Business Essentials direct to SMB customers](https://www.computerworld.com/article/3704212/cdw-now-offers-apple-business-essentials-direct-to-smb-customers.html#tk.rss_all)
-- [Slack redesigns app to tackle growing complexity](https://www.computerworld.com/article/3704391/slack-redesigns-app-to-tackle-growing-complexity.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

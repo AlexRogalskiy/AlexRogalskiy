@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Internet Archive: “Our Fight Is Far from Over”](https://blog.archive.org/2023/08/11/our-fight-is-far-from-over/)
-- [Police stage ‘chilling’ raid on Marion County newspaper](https://kansasreflector.com/2023/08/11/police-stage-chilling-raid-on-marion-county-newspaper-seizing-computers-records-and-cellphones/)
-- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Machine Learning Research Engineers](https://news.ycombinator.com/item?id=37095849)
-- [Optimization Algorithms for Planar Graphs](https://planarity.org/)
-- [If it can be designed on a computer, it can be built by robots](https://www.economist.com/science-and-technology/2023/08/09/if-it-can-be-designed-on-a-computer-it-can-be-built-by-robots)
-- [Show HN: Open-source proxy server for Llama2, GPT-4, Claude2 with Logging,Cache](https://github.com/BerriAI/litellm/blob/main/cookbook/proxy-server/readme.md)
-- [Larian&#39;s Unfair Advantage](https://credistick.com/larians-unfair-advantage/)
-- [Extracellular communication between brain cells through transfer of mRNA](https://www.biorxiv.org/content/10.1101/2023.01.29.525937v1)
-- [Pijul: Version-Control Post-Git • Goto 2023](https://www.youtube.com/watch?v=7MpdZkGj5AI)
-- [An Introduction to Graph Theory](https://arxiv.org/abs/2308.04512)
+- [Illegal raids contribute to death of newspaper co-owner](http://marionrecord.com/)
+- [NixOS RFC 136 approved: A plan to stabilize the new CLI and Flakes incrementally](https://github.com/NixOS/rfcs/pull/136)
+- [Doctor GPT: A Large Language Model That Can Pass the US Medical Licensing Exam](https://github.com/llSourcell/DoctorGPT)
+- [Cracking DesignWare&#39;s the Grammar Examiner on the C64](http://oldvcr.blogspot.com/2023/08/cracking-designwares-grammar-examiner.html)
+- [Out-of-Distribution](https://github.com/continuousml/Awesome-Out-Of-Distribution-Detection)
+- [A Blog Post with Every HTML Element](https://www.patrickweaver.net/blog/a-blog-post-with-every-html-element/)
+- [OP drew these corals with mathematical equations](https://twitter.com/naderi_yeganeh/status/1690296100496838656)
+- [Freshpaint &lpar;YC S19&rpar; Is Hiring Engineers to Build a HIPAA Compliant Data Platform](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
+- [Auditory illusions with examples from Daft Punk](https://www.ugu.rs/blog/auditory-illusions-with-samples-from-daft-punk/)
+- [Tijuana&#39;s illegal sewer hookups linked to cross-border pollution](https://www.kpbs.org/news/border-immigration/2023/08/10/tijuanas-illegal-sewer-hookups-linked-to-cross-border-pollution)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

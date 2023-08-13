@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Hawaii fires: death toll increases to 67, says Maui county – live](https://www.theguardian.com/us-news/live/2023/aug/11/hawaii-wildfires-maui-lahainia-search-survivors-evacuation)
-- [Russia-Ukraine war at a glance: what we know on day 535 of the invasion](https://www.theguardian.com/world/2023/aug/12/russia-ukraine-war-at-a-glance-what-we-know-on-day-535-of-the-invasion)
-- [Three-year-old asylum seeker dies after being bussed from Texas to Chicago](https://www.theguardian.com/us-news/2023/aug/11/venezuela-child-dies-bussed-texas-chicago)
-- [When it comes to the climate crisis, no man is an island | Fiona Katauskas](https://www.theguardian.com/commentisfree/picture/2023/aug/12/when-it-comes-to-the-climate-crisis-no-man-is-an-island)
-- [Niger coup: West African countries suspend key military meeting on ‘standby’ force](https://www.theguardian.com/world/2023/aug/12/niger-coup-west-african-countries-suspend-key-military-meeting-on-standby-force)
-- [Fox Corp marks another high-level exit with legal chief Viet Dinh stepping down](https://www.theguardian.com/us-news/2023/aug/11/fox-corp-chief-legal-officer-exits)
-- [Ewing takes inspiration from Harman to open up big lead at Women’s Open](https://www.theguardian.com/sport/2023/aug/11/ewing-womens-open-golf)
-- [Jeremy Hunt’s brother, Charlie, dies of cancer aged 53](https://www.theguardian.com/society/2023/aug/11/jeremy-hunts-brother-charlie-dies-of-cancer-aged-53)
-- [Tottenham will move on quickly from Harry Kane exit, says Postecoglou](https://www.theguardian.com/football/2023/aug/11/tottenham-will-move-on-quickly-from-harry-kane-exit-says-postecoglou)
-- [Skills, spills and a dash of controversy: the Saudi Pro League kicks off](https://www.theguardian.com/football/2023/aug/11/roberto-firmino-hits-hat-trick-to-kickstart-saudi-pro-league-in-style)
+- [Greece football stabbing: another 40 people charged over deadly Athens brawl](https://www.theguardian.com/football/2023/aug/13/greece-football-stabbing-another-40-people-charged-over-deadly-athens-brawl)
+- [Russia-Ukraine war at a glance: what we know on day 536 of the invasion](https://www.theguardian.com/world/2023/aug/13/russia-ukraine-war-at-a-glance-what-we-know-on-day-53-of-the-invasion)
+- [Don’t sweat that deadline; time-wasting can be time well spent | Emma Wilkins](https://www.theguardian.com/commentisfree/2023/aug/13/dont-sweat-that-deadline-time-wasting-can-be-time-well-spent)
+- [Anthony Joshua fells Robert Helenius with vicious seventh-round knockout](https://www.theguardian.com/sport/2023/aug/13/anthony-joshua-fells-robert-helenius-with-vicious-seventh-round-knockout)
+- [Another interest rate rise? News on prices and wages may decide](https://www.theguardian.com/business/2023/aug/13/another-interest-rate-rise-news-on-prices-and-wages-may-decide)
+- [Andrea González picked to replace Ecuador’s assassinated presidential candidate](https://www.theguardian.com/world/2023/aug/12/andrea-gonzalez-picked-to-replace-ecuadors-assassinated-presidential-candidate)
+- [Button up: minimalist waistcoats for women](https://www.theguardian.com/fashion/2023/aug/12/button-up-minimalist-waistcoats-for-women)
+- [Tony Blair Institute continued taking money from Saudi Arabia after Khashoggi murder](https://www.theguardian.com/politics/2023/aug/12/tony-blair-institute-continued-taking-money-from-saudi-arabia-after-khashoggi)
+- [Georgia DA summons former lawmaker and journalist in Trump election inquiry](https://www.theguardian.com/us-news/2023/aug/12/georgia-da-fani-willis-summons-trump-election-inquiry)
+- [RB Leipzig stun Bayern Munich to win Supercup and spoil Harry Kane’s debut](https://www.theguardian.com/football/2023/aug/12/rb-leipzig-stun-bayern-munich-to-win-supercup-and-spoil-harry-kanes-debut)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

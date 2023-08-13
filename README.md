@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [A Look Inside the Cerebras CS-2 AI Accelerator [video]](https://www.youtube.com/watch?v=pzyZpauU3Ig)
-- [VP Kamala Harris to play a leading role in Biden’s 2024 campaign](https://www.cnbc.com/2023/08/11/harris-to-play-a-leading-role-in-bidens-2024-campaign-.html)
-- [Doors Open 2023: Go Behind–The-Scenes at the Physical Web Archive](https://blog.archive.org/event/doors-open-2023-go-behind-the-scenes-at-the-physical-archive/)
-- [The Potatoes of Doom &lpar;2020&rpar;](https://hackaday.com/2020/10/13/the-potatoes-of-doom/)
-- [Times obituary writer Damian Arnold on how to make a living out of death](https://pressgazette.co.uk/news-leaders/times-obituary-writer-damian-arnold-interview/)
-- [West Virginia University to drop 32 majors including all world language programs](https://www.wvgazettemail.com/news/education/wvu-to-drop-32-majors-including-all-world-language-programs/article_2b3d0aae-3962-544b-b1a3-7c28cb6df3ef.html)
-- [Internet Archive: “Our Fight Is Far from Over”](https://blog.archive.org/2023/08/11/our-fight-is-far-from-over/)
-- [Veilid: Secure peer-to-peer network for apps that flips off the surveil economy](https://www.theregister.com/2023/08/12/veilid_privacy_data/)
-- [Warming oceans and rivers cause genomic changes in fish](https://www.manchester.ac.uk/discover/news/warming-oceans-and-rivers-cause-genomic-changes-in-fish-scientists-find/)
-- [Scientist Unveils a Bold Plan to Turn an Asteroid into a Space Station](https://www.sciencealert.com/scientist-unveils-a-bold-plan-to-turn-an-asteroid-into-a-space-station)
+- [Dozens of Children Die Every Year in Hot Cars. Could Technology Save Them?](https://www.nytimes.com/2023/08/10/us/hot-car-deaths-sensors.html)
+- [Show HN: Photo Exif Viewer and Drawer with frame &lpar;fully open-sourced&rpar;](https://exif.photos/)
+- [Looking for a career in AI? Search 500 jobs](https://gpte.ai/careers/)
+- [Candy Tasted Like Nothing. Why Do People Miss It?](https://www.nytimes.com/2023/08/11/world/asia/japan-flavorless-candy-lawsons.html)
+- [Testing your animation refresh rate with CSS crimes](https://cohost.org/lunasorcery/post/2465593-testing-your-animati)
+- [Intel&#39;s Core I7-14700K Benchmarked: More Cores, Higher Clocks](https://www.tomshardware.com/news/intels-core-i7-14700k-benchmarked-more-cores-higher-clocks)
+- [Innocent Bystanders Shouldn’t Have to Pay for Crime](https://www.nationalreview.com/2023/08/bystanders-pay-crime/)
+- [Manga-Like Drawing by Hokusai from Early 1800s](https://www.core77.com/posts/125248/Incredible-Manga-Like-Drawing-by-Hokusai-from-Early-1800s)
+- [How to Solve It &lpar;1945&rpar; by George Polya](https://en.wikipedia.org/wiki/How_to_Solve_It)
+- [West Virginia University Is Making Sweeping Cuts](https://www.chronicle.com/article/why-is-west-virginia-u-making-sweeping-cuts)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

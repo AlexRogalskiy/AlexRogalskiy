@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Illegal raids contribute to death of newspaper co-owner](http://marionrecord.com/)
-- [NixOS RFC 136 approved: A plan to stabilize the new CLI and Flakes incrementally](https://github.com/NixOS/rfcs/pull/136)
-- [Doctor GPT: A Large Language Model That Can Pass the US Medical Licensing Exam](https://github.com/llSourcell/DoctorGPT)
-- [Cracking DesignWare&#39;s the Grammar Examiner on the C64](http://oldvcr.blogspot.com/2023/08/cracking-designwares-grammar-examiner.html)
-- [Out-of-Distribution](https://github.com/continuousml/Awesome-Out-Of-Distribution-Detection)
-- [A Blog Post with Every HTML Element](https://www.patrickweaver.net/blog/a-blog-post-with-every-html-element/)
-- [OP drew these corals with mathematical equations](https://twitter.com/naderi_yeganeh/status/1690296100496838656)
-- [Freshpaint &lpar;YC S19&rpar; Is Hiring Engineers to Build a HIPAA Compliant Data Platform](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
-- [Auditory illusions with examples from Daft Punk](https://www.ugu.rs/blog/auditory-illusions-with-samples-from-daft-punk/)
-- [Tijuana&#39;s illegal sewer hookups linked to cross-border pollution](https://www.kpbs.org/news/border-immigration/2023/08/10/tijuanas-illegal-sewer-hookups-linked-to-cross-border-pollution)
+- [Silicon Valley Bank vice president sentenced to 15 months in prison](https://www.kron4.com/news/bay-area/silicon-valley-bank-vice-president-sentenced/)
+- [America’s Top Environmental Groups Have Lost the Plot on Climate Change](https://www.noahpinion.blog/p/americas-top-environmental-groups)
+- [I created the nerdiest game ever](https://plbrault.com/blog-posts/i-created-the-nerdierst-game-ever-en/)
+- [Borgbase backups have been unavailable for 3 days – recovery is at 26%](https://status.borgbase.com/status/default)
+- [The Namco ND-1: Taking 2D for Granted](https://nicole.express/2023/nobody-plays-those-old-games-anymore.html)
+- [Tech salaries largely unchanged as skills shortages continue](https://www.reseller.co.nz/article/708342/tech-salaries-largely-unchanged-as-skills-shortages-continue/)
+- [The AST Typing Problem](http://blog.ezyang.com/2013/05/the-ast-typing-problem/)
+- [Neuralangelo: High-Fidelity Neural Surface Reconstruction](https://research.nvidia.com/labs/dir/neuralangelo/)
+- [Thoughts on Elixir, Phoenix and LiveView after 18 months of commercial use](https://korban.net/posts/2023-08-11-thoughts-on-elixir-phoenix-liveview/)
+- [Babylon 5 Is a Perfect, Terrible Series](https://www.tor.com/2023/08/09/babylon-5-is-a-perfect-terrible-series/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

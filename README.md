@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Dozens of Children Die Every Year in Hot Cars. Could Technology Save Them?](https://www.nytimes.com/2023/08/10/us/hot-car-deaths-sensors.html)
-- [Show HN: Photo Exif Viewer and Drawer with frame &lpar;fully open-sourced&rpar;](https://exif.photos/)
-- [Looking for a career in AI? Search 500 jobs](https://gpte.ai/careers/)
-- [Candy Tasted Like Nothing. Why Do People Miss It?](https://www.nytimes.com/2023/08/11/world/asia/japan-flavorless-candy-lawsons.html)
-- [Testing your animation refresh rate with CSS crimes](https://cohost.org/lunasorcery/post/2465593-testing-your-animati)
-- [Intel&#39;s Core I7-14700K Benchmarked: More Cores, Higher Clocks](https://www.tomshardware.com/news/intels-core-i7-14700k-benchmarked-more-cores-higher-clocks)
-- [Innocent Bystanders Shouldn’t Have to Pay for Crime](https://www.nationalreview.com/2023/08/bystanders-pay-crime/)
-- [Manga-Like Drawing by Hokusai from Early 1800s](https://www.core77.com/posts/125248/Incredible-Manga-Like-Drawing-by-Hokusai-from-Early-1800s)
-- [How to Solve It &lpar;1945&rpar; by George Polya](https://en.wikipedia.org/wiki/How_to_Solve_It)
-- [West Virginia University Is Making Sweeping Cuts](https://www.chronicle.com/article/why-is-west-virginia-u-making-sweeping-cuts)
+- [The delicate art of selling safety in a paranoid America](https://www.washingtonpost.com/nation/2023/08/09/crime-fears-americans-security-protection/)
+- [Energy Makes Time](https://everythingchanges.us/blog/energy-makes-time/)
+- [Built to Last](https://logicmag.io/care/built-to-last/)
+- [Investment Lessons from 400 Years of “Confusion of Confusions”](https://periscopeglobal.substack.com/p/investment-lessons-from-400-years)
+- [Scheme to protect hen harriers in England a waste of money, says charity](https://www.theguardian.com/environment/2023/aug/08/scheme-to-protect-hen-harriers-in-england-a-waste-of-money-says-charity)
+- [Ask HN: Who is innovating in the defense industry currently?](https://news.ycombinator.com/item?id=37116555)
+- [Access to knowledge is a human right – Alexandra Elbakyan](https://engineuring.wordpress.com/2023/08/14/access-to-knowledge-is-a-human-right/)
+- [Jitsi Meet Flutter SDK](https://jitsi.org/blog/introducing-the-jitsi-meet-flutter-sdk/)
+- [System for Flight Control of Hypersonic Aircraft – Tech Briefs](https://www.techbriefs.com/component/content/article/tb/pub/briefs/aerospace/48671)
+- [The world in which IPv6 was a good design](https://apenwarr.ca/log/20170810)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

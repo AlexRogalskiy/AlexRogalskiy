@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The delicate art of selling safety in a paranoid America](https://www.washingtonpost.com/nation/2023/08/09/crime-fears-americans-security-protection/)
-- [Energy Makes Time](https://everythingchanges.us/blog/energy-makes-time/)
-- [Built to Last](https://logicmag.io/care/built-to-last/)
-- [Investment Lessons from 400 Years of “Confusion of Confusions”](https://periscopeglobal.substack.com/p/investment-lessons-from-400-years)
-- [Scheme to protect hen harriers in England a waste of money, says charity](https://www.theguardian.com/environment/2023/aug/08/scheme-to-protect-hen-harriers-in-england-a-waste-of-money-says-charity)
-- [Ask HN: Who is innovating in the defense industry currently?](https://news.ycombinator.com/item?id=37116555)
-- [Access to knowledge is a human right – Alexandra Elbakyan](https://engineuring.wordpress.com/2023/08/14/access-to-knowledge-is-a-human-right/)
-- [Jitsi Meet Flutter SDK](https://jitsi.org/blog/introducing-the-jitsi-meet-flutter-sdk/)
-- [System for Flight Control of Hypersonic Aircraft – Tech Briefs](https://www.techbriefs.com/component/content/article/tb/pub/briefs/aerospace/48671)
-- [The world in which IPv6 was a good design](https://apenwarr.ca/log/20170810)
+- [Webvan: The Dotcom Bubble’s Biggest Bust](https://streetfins.com/webvan-the-dotcom-bubbles-biggest-bust/)
+- [Help normal people create personal deep learning model](https://news.ycombinator.com/item?id=37129317)
+- [iPhone 15 USB-C components leaked; may limit functionality](https://www.phonearena.com/news/Leaked-iPhone-15-USB-C-components-image-reveals-mystery-3LD3-chip-that-may-limit-functionality_id149752)
+- [China’s economic data misses expectations](https://www.cnbc.com/2023/08/15/china-economy-july-industrial-output-fixed-asset-retail-data.html)
+- [Inspiring Yourself – and Your Team](https://rnjai.substack.com/p/inspiring-yourself-and-your-team)
+- [RegEx Guided LLM Generation](https://blog.normalcomputing.ai/posts/2023-07-27-regex-guided-generation/regex-guided-generation.html)
+- [The Dream Was Universal Access to Knowledge. The Result Was a Fiasco](https://www.nytimes.com/2023/08/13/business/media/internet-archive-emergency-lending-library.html)
+- [Google X: Waiting for a Moonshot &lpar;2016&rpar;](https://www.nytimes.com/2016/07/24/technology/they-promised-us-jet-packs-they-promised-the-bosses-profit.html)
+- [Satellite pictures of other satellites](https://www.defenseone.com/technology/2023/08/next-big-space-business-satellite-pictures-other-satellites/389362/)
+- [Our Tastes Influence Our Creativity](https://institutducerveau-icm.org/en/actualite/how-our-tastes-influence-our-creativity/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

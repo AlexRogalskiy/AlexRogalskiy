@@ -355,6 +355,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [6+ iPhone features you should be using](https://www.computerworld.com/article/3704791/6-iphone-features-you-should-be-using.html#tk.rss_all)
+- [Microsoft cheat sheets: Dive into Windows and Office apps](https://www.computerworld.com/article/3199247/microsoft-cheat-sheets-dive-into-windows-and-office-apps.html#tk.rss_all)
+- [As VR headset adoption grows, privacy issues could emerge](https://www.computerworld.com/article/3704730/vr-headsets-can-create-a-privacy-headache.html#tk.rss_all)
 - [Patch Tuesday: Microsoft rolls out 90 updates for Windows, Office](https://www.computerworld.com/article/3704493/patch-tuesday-microsoft-rolls-out-90-updates-for-windows-office.html#tk.rss_all)
 - [Zoom goes for a blatant genAI data grab; enterprises, beware](https://www.computerworld.com/article/3704489/zoom-goes-for-a-blatant-genai-data-grab-enterprises-beware.html#tk.rss_all)
 - [Tech layoffs in 2023: A timeline](https://www.computerworld.com/article/3685936/tech-layoffs-in-2023-a-timeline.html#tk.rss_all)
@@ -362,9 +365,6 @@
 - [Google likes Apple’s Continuity feature so much it’s making its own](https://www.computerworld.com/article/3704492/google-likes-apples-continuity-feature-so-much-its-making-its-own.html#tk.rss_all)
 - [The future of work is AI-enhanced and remote](https://www.computerworld.com/article/3704651/the-future-of-work-is-ai-enhanced-and-remote.html#tk.rss_all)
 - [The problem with Google&#39;s Pixel Tablet](https://www.computerworld.com/article/3704488/google-pixel-tablet.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
-- [Biden fuels tech trade war with China, banning AI, chip, and quantum system investments](https://www.computerworld.com/article/3704610/biden-fuels-tech-trade-war-with-china-banning-ai-chip-and-quantum-system-investments.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

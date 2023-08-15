@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Uncovering the truth of the Nazi occupation of the Channel Islands - podcast](https://www.theguardian.com/news/audio/2023/aug/14/uncovering-truth-nazi-occupation-channel-islands-podcast)
-- [Taiwan vice-president says ‘don’t be afraid’ to fight authoritarianism in New York speech](https://www.theguardian.com/world/2023/aug/13/china-vows-vigorous-response-to-us-visit-by-taiwan-vice-president)
-- [Hawaii fires: tourists warned against travelling to Maui in wake of disaster](https://www.theguardian.com/us-news/2023/aug/14/maui-fires-hawaii-tourists-hotel-fire-evacuation-wildfires)
-- [Two people seriously injured as car crashes into campsite in Wales](https://www.theguardian.com/uk-news/2023/aug/13/multiple-people-injured-as-car-crashes-into-campsite-in-wales)
-- [Sharp rise in cost of food basics forces UK families ‘to make desperate choices’](https://www.theguardian.com/business/2023/aug/14/sharp-rise-in-cost-of-food-basics-forces-uk-families-to-make-desperate-choices)
-- [Nearly 4m fewer UK working days in past year due to strike action, study says](https://www.theguardian.com/uk-news/2023/aug/14/uk-working-days-industrial-action-strikes-resolution-foundation)
-- [Cigarette packs could soon include advice on how to quit smoking](https://www.theguardian.com/society/2023/aug/14/cigarette-packs-could-soon-include-advice-on-how-to-quit-smoking)
-- [Disadvantaged students to bear brunt of grade deflation, say experts](https://www.theguardian.com/education/2023/aug/14/disadvantaged-students-to-bear-brunt-of-grade-deflation-say-experts)
-- [‘Frightening’ rise in vehicles driving wrong way on England’s motorways](https://www.theguardian.com/world/2023/aug/14/frightening-rise-in-vehicles-driving-wrong-way-on-englands-motorways)
-- [Letters from George Harrison’s mum reveal her horror at Beatles fans](https://www.theguardian.com/music/2023/aug/14/letters-from-george-harrisons-mum-reveal-her-horror-at-beatles-fans)
+- [Georgia grand jury returns indictments in Trump 2020 election interference case – follow live](https://www.theguardian.com/us-news/live/2023/aug/14/donald-trump-indictment-latest-updates-georgia-election-charges-fulton-county)
+- [The Bibby Stockholm saga – podcast](https://www.theguardian.com/news/audio/2023/aug/15/the-bibby-stockholm-saga)
+- [Mount Etna eruption leads to flight cancellations at Sicily’s Catania airport](https://www.theguardian.com/world/2023/aug/15/mount-etna-eruption-volcano-sicily-catania-airport-closure-volcanic-ash-cloud-flight-cancellations)
+- [Russia-Ukraine war at a glance: what we know on day 538 of the invasion](https://www.theguardian.com/world/2023/aug/15/russia-ukraine-war-at-a-glance-what-we-know-on-day-538-of-the-invasion)
+- [Funding of public services in England skewed against poor areas, says IFS](https://www.theguardian.com/society/2023/aug/15/funding-of-public-services-in-england-skewed-against-poor-areas-ifs-levelling-up)
+- [NHS to offer weight-loss jabs via apps that help patients with obesity](https://www.theguardian.com/society/2023/aug/15/nhs-to-offer-weight-loss-jabs-via-apps-that-help-patients-with-obesity)
+- [‘Raring to take on this challenge’: musicians Jake Shears and Self Esteem to star in Cabaret](https://www.theguardian.com/stage/2023/aug/15/musicians-jake-shears-and-self-esteem-to-star-in-cabaret)
+- [Keir Starmer accuses Tories of ‘moving goalposts’ on NHS cancer care](https://www.theguardian.com/society/2023/aug/14/nhs-in-england-to-replace-two-week-cancer-appointment-target)
+- [Women with poor mental health ‘have 50% higher risk of preterm birth’](https://www.theguardian.com/lifeandstyle/2023/aug/14/women-with-poor-mental-health-have-50-higher-risk-of-preterm-birth)
+- [Three sought over Woking killing were known to 10-year-old victim, police say](https://www.theguardian.com/uk-news/2023/aug/14/three-sought-over-woking-killing-were-known-to-10-year-old-victim-police-say)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

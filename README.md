@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Webvan: The Dotcom Bubble’s Biggest Bust](https://streetfins.com/webvan-the-dotcom-bubbles-biggest-bust/)
-- [Help normal people create personal deep learning model](https://news.ycombinator.com/item?id=37129317)
-- [iPhone 15 USB-C components leaked; may limit functionality](https://www.phonearena.com/news/Leaked-iPhone-15-USB-C-components-image-reveals-mystery-3LD3-chip-that-may-limit-functionality_id149752)
-- [China’s economic data misses expectations](https://www.cnbc.com/2023/08/15/china-economy-july-industrial-output-fixed-asset-retail-data.html)
-- [Inspiring Yourself – and Your Team](https://rnjai.substack.com/p/inspiring-yourself-and-your-team)
-- [RegEx Guided LLM Generation](https://blog.normalcomputing.ai/posts/2023-07-27-regex-guided-generation/regex-guided-generation.html)
-- [The Dream Was Universal Access to Knowledge. The Result Was a Fiasco](https://www.nytimes.com/2023/08/13/business/media/internet-archive-emergency-lending-library.html)
-- [Google X: Waiting for a Moonshot &lpar;2016&rpar;](https://www.nytimes.com/2016/07/24/technology/they-promised-us-jet-packs-they-promised-the-bosses-profit.html)
-- [Satellite pictures of other satellites](https://www.defenseone.com/technology/2023/08/next-big-space-business-satellite-pictures-other-satellites/389362/)
-- [Our Tastes Influence Our Creativity](https://institutducerveau-icm.org/en/actualite/how-our-tastes-influence-our-creativity/)
+- [America, take note: New Zealand&#39;s simple way to bring down home prices](https://www.businessinsider.com/america-lower-rents-home-prices-build-more-houses-new-zealand-2023-8)
+- [YouTube Jobs Creator Board](https://ytjobs.co/)
+- [Country Flag Emojis for Windows](https://github.com/perguto/Country-Flag-Emojis-for-Windows)
+- [Presenting DWD, a Candidate for KDE Window Decorations &lpar;2014&rpar;](https://kver.wordpress.com/2014/10/25/presenting-dwd-a-candidate-for-kde-window-decorations/)
+- [The Complete Guide to Hunting, Butchering, Cooking Wild Game: Volume 1: Big Game](https://ardbark.com/complete-guide-to-hunting/)
+- [Teslaphoresis &lpar;2016&rpar;](https://innovationtoronto.com/2016/04/teslaphoresis-gives-the-the-ability-to-massively-scale-up-force-fields-to-move-matter-remotely/)
+- [Lunch Atop a Skyscraper Backstory](https://rarehistoricalphotos.com/lunch-atop-a-skyscraper-backstory/)
+- [Hello from Ares](https://drewdevault.com/2023/08/09/2023-08-09-Hello-from-Ares.html)
+- [Woman Is Awarded $1.2B in ‘Revenge Porn’ Lawsuit](https://www.nytimes.com/2023/08/15/us/houston-texas-revenge-porn.html)
+- [CIQ, Oracle and SUSE Create Open Enterprise Linux Association](https://www.oracle.com/news/announcement/ciq-oracle-and-suse-create-open-enterprise-linux-association-for-a-collaborative-and-open-future-2023-08-10/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

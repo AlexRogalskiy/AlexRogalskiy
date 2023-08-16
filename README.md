@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Lynn Conway&#39;s Story &lpar;2000&rpar;](https://ai.eecs.umich.edu/people/conway/LynnsStory.html)
-- [Bankman-Fried used $100M in stolen FTX funds for political donations, US says](https://www.reuters.com/legal/bankman-fried-used-customer-funds-100-mln-us-political-donations-prosecutors-say-2023-08-14/)
-- [Show HN: AI-town, run your own custom AI world SIM with JavaScript](https://github.com/a16z-infra/ai-town)
-- [Dell fined $6.5M after admitting it made overpriced monitors look discounted](https://arstechnica.com/gadgets/2023/08/dell-fined-6-5m-after-admitting-it-made-overpriced-monitors-look-discounted/)
-- [Vox Media Partners with WordPress VIP](https://wpvip.com/2023/08/14/vox-media-wordpress-vip/)
-- [Internet Archive Responds to Recording Industry Lawsuit Targeting Obsolete Media](https://blog.archive.org/2023/08/14/internet-archive-responds-to-recording-industry-lawsuit-targeting-obsolete-media/)
-- [Montana loses fight against youth climate activists in landmark ruling](https://arstechnica.com/tech-policy/2023/08/montana-loses-fight-against-youth-climate-activists-in-landmark-ruling/)
-- [Peter Shor&#39;s MIT Fall 2022 course lecture notes on quantum computing](https://math.mit.edu/~shor/435-LN/)
-- [The Great 78 Project](https://great78.archive.org/preservation/)
-- [OpenFarm – a free and open database and web application for gardening knowledge](https://openfarm.cc)
+- [Engineer slapped with suspension after bridge collapsed hours after opening](https://www.cbc.ca/news/canada/saskatchewan/engineer-18-month-suspension-bridge-collapsed-1.6936657)
+- [X has started reversing the throttling on some of the sites, including NYTimes&#39;](https://twitter.com/drewharwell/status/1691544587947356160)
+- [Putting Down the Pen: Reflecting on Oryx’s Journey](https://www.oryxspioenkop.com/2023/08/putting-down-pen-reflecting-on-oryxs.html)
+- [The Open &lpar;Animal&rpar; Sanctuary Project](https://opensanctuary.org/)
+- [American stocks are at their most expensive in decades](https://www.economist.com/finance-and-economics/2023/08/10/american-stocks-are-at-their-most-expensive-in-decades)
+- [Ted&#39;s Notes on Pawpaws &lpar;2016&rpar;](https://toyrus.ngrok.io/~ted/pawpaws/)
+- [Bank of Ireland IT blunder allows customers who have no money get access to cash](https://www.independent.ie/business/personal-finance/bank-of-ireland-it-blunder-allows-customers-who-have-no-money-get-access-to-cash-at-atms/a510070628.html)
+- [Modern CSV version 2](https://www.moderncsv.com/modern-csv-2-is-now-available/)
+- [How Is LLaMa.cpp Possible?](https://finbarr.ca/how-is-llama-cpp-possible/)
+- [How should I read type system notation?](https://langdev.stackexchange.com/questions/2692/how-should-i-read-type-system-notation)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

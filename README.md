@@ -355,6 +355,8 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Ford adds Apple sauce to its next-gen services ambition](https://www.computerworld.com/article/3704614/ford-adds-apple-sauce-to-its-next-gen-services-ambition.html#tk.rss_all)
+- [How to build employee trust as AI gains ground](https://www.computerworld.com/article/3704494/how-to-build-employee-trust-in-an-ai-centric-world.html#tk.rss_all)
 - [6+ iPhone features you should be using](https://www.computerworld.com/article/3704791/6-iphone-features-you-should-be-using.html#tk.rss_all)
 - [Microsoft cheat sheets: Dive into Windows and Office apps](https://www.computerworld.com/article/3199247/microsoft-cheat-sheets-dive-into-windows-and-office-apps.html#tk.rss_all)
 - [As VR headset adoption grows, privacy issues could emerge](https://www.computerworld.com/article/3704730/vr-headsets-can-create-a-privacy-headache.html#tk.rss_all)
@@ -363,8 +365,6 @@
 - [Tech layoffs in 2023: A timeline](https://www.computerworld.com/article/3685936/tech-layoffs-in-2023-a-timeline.html#tk.rss_all)
 - [Amazon chastises staff for failure to comply with in-office work mandate](https://www.computerworld.com/article/3704729/amazon-chastises-staff-for-failure-to-comply-with-in-office-work-mandate.html#tk.rss_all)
 - [Google likes Apple’s Continuity feature so much it’s making its own](https://www.computerworld.com/article/3704492/google-likes-apples-continuity-feature-so-much-its-making-its-own.html#tk.rss_all)
-- [The future of work is AI-enhanced and remote](https://www.computerworld.com/article/3704651/the-future-of-work-is-ai-enhanced-and-remote.html#tk.rss_all)
-- [The problem with Google&#39;s Pixel Tablet](https://www.computerworld.com/article/3704488/google-pixel-tablet.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

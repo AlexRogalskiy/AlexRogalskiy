@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Georgia grand jury returns indictments in Trump 2020 election interference case – follow live](https://www.theguardian.com/us-news/live/2023/aug/14/donald-trump-indictment-latest-updates-georgia-election-charges-fulton-county)
-- [The Bibby Stockholm saga – podcast](https://www.theguardian.com/news/audio/2023/aug/15/the-bibby-stockholm-saga)
-- [Mount Etna eruption leads to flight cancellations at Sicily’s Catania airport](https://www.theguardian.com/world/2023/aug/15/mount-etna-eruption-volcano-sicily-catania-airport-closure-volcanic-ash-cloud-flight-cancellations)
-- [Russia-Ukraine war at a glance: what we know on day 538 of the invasion](https://www.theguardian.com/world/2023/aug/15/russia-ukraine-war-at-a-glance-what-we-know-on-day-538-of-the-invasion)
-- [Funding of public services in England skewed against poor areas, says IFS](https://www.theguardian.com/society/2023/aug/15/funding-of-public-services-in-england-skewed-against-poor-areas-ifs-levelling-up)
-- [NHS to offer weight-loss jabs via apps that help patients with obesity](https://www.theguardian.com/society/2023/aug/15/nhs-to-offer-weight-loss-jabs-via-apps-that-help-patients-with-obesity)
-- [‘Raring to take on this challenge’: musicians Jake Shears and Self Esteem to star in Cabaret](https://www.theguardian.com/stage/2023/aug/15/musicians-jake-shears-and-self-esteem-to-star-in-cabaret)
-- [Keir Starmer accuses Tories of ‘moving goalposts’ on NHS cancer care](https://www.theguardian.com/society/2023/aug/14/nhs-in-england-to-replace-two-week-cancer-appointment-target)
-- [Women with poor mental health ‘have 50% higher risk of preterm birth’](https://www.theguardian.com/lifeandstyle/2023/aug/14/women-with-poor-mental-health-have-50-higher-risk-of-preterm-birth)
-- [Three sought over Woking killing were known to 10-year-old victim, police say](https://www.theguardian.com/uk-news/2023/aug/14/three-sought-over-woking-killing-were-known-to-10-year-old-victim-police-say)
+- [As search for Hawaii fire victims continues, power company faces criticism](https://www.theguardian.com/us-news/2023/aug/15/hawaii-fire-victim-names-update)
+- [Janet Yellen inadvertently ate hallucinogenic mushrooms in China – and started a trend](https://www.theguardian.com/business/2023/aug/16/janet-yellen-inadvertently-ate-hallucinogenic-mushrooms-in-china-and-started-a-trend)
+- [Tuohy family say they are victims of $15m ‘shakedown’ over Blind Side allegations](https://www.theguardian.com/sport/2023/aug/15/tuohy-family-response-blind-side-allegations-michael-oher-football)
+- [North Korea claims US soldier crossed over as he was ‘disillusioned by society’](https://www.theguardian.com/us-news/2023/aug/15/north-korea-us-soldier-travis-king-disillusioned-society)
+- [Russia-Ukraine war at a glance: what we know on day 539 of the invasion](https://www.theguardian.com/world/2023/aug/16/russia-ukraine-war-at-a-glance-what-we-know-on-day-539-of-the-invasion)
+- [Sudan: more than a million people have fled ‘spiralling’ conflict, says UN](https://www.theguardian.com/world/2023/aug/16/sudan-more-than-a-million-people-have-fled-spiralling-conflict-says-un)
+- [US air force photos of England at war available to public for first time](https://www.theguardian.com/world/2023/aug/16/us-air-force-photos-england-second-world-war)
+- [Patients could get cancer scans without GP referral, says Steve Barclay](https://www.theguardian.com/society/2023/aug/15/patients-could-get-cancer-scans-without-gp-referral-says-steve-barclay)
+- [Chelsea poised to sign £35m Olise from Palace and agree £58m deal for Lavia](https://www.theguardian.com/football/2023/aug/15/chelsea-michael-olise-crystal-palace-35m-release-clause)
+- [Study finds 11% of patients in cardiac intensive care have taken recreational drugs](https://www.theguardian.com/science/2023/aug/15/study-finds-11-of-patients-in-cardiac-intensive-care-have-taken-recreational-drugs)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

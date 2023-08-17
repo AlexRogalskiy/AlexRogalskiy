@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Engineer slapped with suspension after bridge collapsed hours after opening](https://www.cbc.ca/news/canada/saskatchewan/engineer-18-month-suspension-bridge-collapsed-1.6936657)
-- [X has started reversing the throttling on some of the sites, including NYTimes&#39;](https://twitter.com/drewharwell/status/1691544587947356160)
-- [Putting Down the Pen: Reflecting on Oryx’s Journey](https://www.oryxspioenkop.com/2023/08/putting-down-pen-reflecting-on-oryxs.html)
-- [The Open &lpar;Animal&rpar; Sanctuary Project](https://opensanctuary.org/)
-- [American stocks are at their most expensive in decades](https://www.economist.com/finance-and-economics/2023/08/10/american-stocks-are-at-their-most-expensive-in-decades)
-- [Ted&#39;s Notes on Pawpaws &lpar;2016&rpar;](https://toyrus.ngrok.io/~ted/pawpaws/)
-- [Bank of Ireland IT blunder allows customers who have no money get access to cash](https://www.independent.ie/business/personal-finance/bank-of-ireland-it-blunder-allows-customers-who-have-no-money-get-access-to-cash-at-atms/a510070628.html)
-- [Modern CSV version 2](https://www.moderncsv.com/modern-csv-2-is-now-available/)
-- [How Is LLaMa.cpp Possible?](https://finbarr.ca/how-is-llama-cpp-possible/)
-- [How should I read type system notation?](https://langdev.stackexchange.com/questions/2692/how-should-i-read-type-system-notation)
+- [CATL reveals ‘Superfast Charging Battery,’ boasts 250mi range with 10-min charge](https://electrek.co/2023/08/16/catl-new-fast-charging-battery-250-mi-10-min/)
+- [Ask HN: Tell us about your project that&#39;s not done yet but you want feedback on](https://news.ycombinator.com/item?id=37156101)
+- [QR codes appearing in Google street view?](https://nso.group/@haifisch/110901720830132689#.)
+- [Thirteen years later, why are most administrators still from 2005?](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2023-08-15/Special_report)
+- [How to Produce Green Hydrogen for $1/Kg – Terraform Industries Blog](https://terraformindustries.wordpress.com/2023/08/16/how-to-produce-green-hydrogen-for-1-kg/)
+- [Open Challenges in LLM Research](https://huyenchip.com/2023/08/16/llm-research-open-challenges.html)
+- [Intel QuickAssist Technology Zstandard Plugin for Zstandard](https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/Intel-QuickAssist-Technology-Zstandard-Plugin-an-External/post/1509818)
+- [$70 device can spoof an Apple device and trick you into sharing your password](https://techcrunch.com/2023/08/16/this-70-device-can-spoof-an-apple-device-and-trick-you-into-sharing-your-password/)
+- [Naomi Wu and the Silence That Speaks Volumes](https://www.hackingbutlegal.com/naomi-wu-and-the-silence-that-speaks-volumes/)
+- [MLIR For Beginners: A series of articles on the MLIR framework](https://github.com/j2kun/mlir-tutorial)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

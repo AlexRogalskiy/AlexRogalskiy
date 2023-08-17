@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Opera browser weaves Aria AI into iOS app](https://www.computerworld.com/article/3704634/opera-browser-weaves-aria-ai-into-ios-app.html#tk.rss_all)
+- [OpenAI to use GPT-4 LLM for content moderation, warns against bias](https://www.computerworld.com/article/3704618/openai-to-use-gpt-4-llm-for-content-moderation-warns-against-bias.html#tk.rss_all)
+- [IT leaders want AI but but accelerating development stirs fears: Report](https://www.computerworld.com/article/3704633/it-leaders-want-ai-but-but-accelerating-development-stirs-fears-report.html#tk.rss_all)
+- [Intel’s Tower Semiconductor acquisition fails, as China witholds OK](https://www.computerworld.com/article/3704795/intel-s-tower-semiconductor-acquisition-fails-as-china-witholds-ok.html#tk.rss_all)
+- [Adobe Express with generative AI exits beta, available now](https://www.computerworld.com/article/3704794/adobe-express-with-generative-ai-exits-beta-available-now.html#tk.rss_all)
+- [How &lpar;and why&rpar; to use conditional formatting in Excel](https://www.computerworld.com/article/3704733/how-and-why-to-use-conditional-formatting-in-excel.html#tk.rss_all)
+- [Should you upgrade to Windows 11? It’s complicated](https://www.computerworld.com/article/3704812/should-you-upgrade-to-windows-11.html#tk.rss_all)
 - [Ford adds Apple sauce to its next-gen services ambition](https://www.computerworld.com/article/3704614/ford-adds-apple-sauce-to-its-next-gen-services-ambition.html#tk.rss_all)
 - [How to build employee trust as AI gains ground](https://www.computerworld.com/article/3704494/how-to-build-employee-trust-in-an-ai-centric-world.html#tk.rss_all)
 - [6+ iPhone features you should be using](https://www.computerworld.com/article/3704791/6-iphone-features-you-should-be-using.html#tk.rss_all)
-- [Microsoft cheat sheets: Dive into Windows and Office apps](https://www.computerworld.com/article/3199247/microsoft-cheat-sheets-dive-into-windows-and-office-apps.html#tk.rss_all)
-- [As VR headset adoption grows, privacy issues could emerge](https://www.computerworld.com/article/3704730/vr-headsets-can-create-a-privacy-headache.html#tk.rss_all)
-- [Patch Tuesday: Microsoft rolls out 90 updates for Windows, Office](https://www.computerworld.com/article/3704493/patch-tuesday-microsoft-rolls-out-90-updates-for-windows-office.html#tk.rss_all)
-- [Zoom goes for a blatant genAI data grab; enterprises, beware](https://www.computerworld.com/article/3704489/zoom-goes-for-a-blatant-genai-data-grab-enterprises-beware.html#tk.rss_all)
-- [Tech layoffs in 2023: A timeline](https://www.computerworld.com/article/3685936/tech-layoffs-in-2023-a-timeline.html#tk.rss_all)
-- [Amazon chastises staff for failure to comply with in-office work mandate](https://www.computerworld.com/article/3704729/amazon-chastises-staff-for-failure-to-comply-with-in-office-work-mandate.html#tk.rss_all)
-- [Google likes Apple’s Continuity feature so much it’s making its own](https://www.computerworld.com/article/3704492/google-likes-apples-continuity-feature-so-much-its-making-its-own.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

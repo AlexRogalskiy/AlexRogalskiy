@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [As search for Hawaii fire victims continues, power company faces criticism](https://www.theguardian.com/us-news/2023/aug/15/hawaii-fire-victim-names-update)
-- [Janet Yellen inadvertently ate hallucinogenic mushrooms in China – and started a trend](https://www.theguardian.com/business/2023/aug/16/janet-yellen-inadvertently-ate-hallucinogenic-mushrooms-in-china-and-started-a-trend)
-- [Tuohy family say they are victims of $15m ‘shakedown’ over Blind Side allegations](https://www.theguardian.com/sport/2023/aug/15/tuohy-family-response-blind-side-allegations-michael-oher-football)
-- [North Korea claims US soldier crossed over as he was ‘disillusioned by society’](https://www.theguardian.com/us-news/2023/aug/15/north-korea-us-soldier-travis-king-disillusioned-society)
-- [Russia-Ukraine war at a glance: what we know on day 539 of the invasion](https://www.theguardian.com/world/2023/aug/16/russia-ukraine-war-at-a-glance-what-we-know-on-day-539-of-the-invasion)
-- [Sudan: more than a million people have fled ‘spiralling’ conflict, says UN](https://www.theguardian.com/world/2023/aug/16/sudan-more-than-a-million-people-have-fled-spiralling-conflict-says-un)
-- [US air force photos of England at war available to public for first time](https://www.theguardian.com/world/2023/aug/16/us-air-force-photos-england-second-world-war)
-- [Patients could get cancer scans without GP referral, says Steve Barclay](https://www.theguardian.com/society/2023/aug/15/patients-could-get-cancer-scans-without-gp-referral-says-steve-barclay)
-- [Chelsea poised to sign £35m Olise from Palace and agree £58m deal for Lavia](https://www.theguardian.com/football/2023/aug/15/chelsea-michael-olise-crystal-palace-35m-release-clause)
-- [Study finds 11% of patients in cardiac intensive care have taken recreational drugs](https://www.theguardian.com/science/2023/aug/15/study-finds-11-of-patients-in-cardiac-intensive-care-have-taken-recreational-drugs)
+- [Why were the wildfires in Hawaii so deadly? – podcast](https://www.theguardian.com/news/audio/2023/aug/17/why-were-the-wildfires-in-hawaii-so-deadly-podcast)
+- [Teens much more likely to believe online conspiracy claims than adults – US study](https://www.theguardian.com/us-news/2023/aug/16/teens-online-conspiracies-study)
+- [First cargo ship leaves Ukraine port since end of grain deal despite Russian threats](https://www.theguardian.com/world/2023/aug/17/cargo-ship-leaves-ukraine-port-of-odesa-black-sea)
+- [Pig kidney keeps working for over a month in brain-dead man’s body](https://www.theguardian.com/us-news/2023/aug/16/pig-kidney-human-transplant)
+- [Kansas newspaper raided by police to have seized items returned](https://www.theguardian.com/us-news/2023/aug/16/kansas-newspaper-police-raid-items-returned)
+- [‘Gangster tactic’: the true aim behind Hong Kong’s pursuit of overseas dissidents](https://www.theguardian.com/world/2023/aug/17/gangster-tactic-the-true-aim-behind-hong-kongs-pursuit-of-overseas-dissidents)
+- [Gotthard rail tunnel, world’s longest, closes for months after Swiss derailment](https://www.theguardian.com/world/2023/aug/17/gotthard-base-tunnel-railway-train-closed-for-months-switzerland-derailment)
+- [Russia-Ukraine war at a glance: what we know on day 540 of the invasion](https://www.theguardian.com/world/2023/aug/17/russia-ukraine-war-at-a-glance-what-we-know-on-day-540-of-the-invasion)
+- [Trump prosecutor Fani Willis faces racist abuse after indicting ex-US president](https://www.theguardian.com/us-news/2023/aug/16/trump-attack-georgia-prosecutor-slur)
+- [Robinson urges RFU to increase efforts to promote rugby in deprived areas](https://www.theguardian.com/sport/2023/aug/17/jason-robinson-england-rfu-rugby-diversity)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

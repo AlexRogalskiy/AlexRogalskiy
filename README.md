@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [America, take note: New Zealand&#39;s simple way to bring down home prices](https://www.businessinsider.com/america-lower-rents-home-prices-build-more-houses-new-zealand-2023-8)
-- [YouTube Jobs Creator Board](https://ytjobs.co/)
-- [Country Flag Emojis for Windows](https://github.com/perguto/Country-Flag-Emojis-for-Windows)
-- [Presenting DWD, a Candidate for KDE Window Decorations &lpar;2014&rpar;](https://kver.wordpress.com/2014/10/25/presenting-dwd-a-candidate-for-kde-window-decorations/)
-- [The Complete Guide to Hunting, Butchering, Cooking Wild Game: Volume 1: Big Game](https://ardbark.com/complete-guide-to-hunting/)
-- [Teslaphoresis &lpar;2016&rpar;](https://innovationtoronto.com/2016/04/teslaphoresis-gives-the-the-ability-to-massively-scale-up-force-fields-to-move-matter-remotely/)
-- [Lunch Atop a Skyscraper Backstory](https://rarehistoricalphotos.com/lunch-atop-a-skyscraper-backstory/)
-- [Hello from Ares](https://drewdevault.com/2023/08/09/2023-08-09-Hello-from-Ares.html)
-- [Woman Is Awarded $1.2B in ‘Revenge Porn’ Lawsuit](https://www.nytimes.com/2023/08/15/us/houston-texas-revenge-porn.html)
-- [CIQ, Oracle and SUSE Create Open Enterprise Linux Association](https://www.oracle.com/news/announcement/ciq-oracle-and-suse-create-open-enterprise-linux-association-for-a-collaborative-and-open-future-2023-08-10/)
+- [Fully Burnt Out](https://news.ycombinator.com/item?id=37156261)
+- [Getting ChatGPT to write a Linux kernel module](https://www.downtowndougbrown.com/2022/12/getting-chatgpt-to-write-a-linux-kernel-module-for-me/)
+- [Can’t get another company&#39;s attention? You’re not alone](https://www.trypare.com/blog/cllebn1wp0000ypdvefpss6j1)
+- [CATL reveals ‘Superfast Charging Battery,’ boasts 250mi range with 10-min charge](https://electrek.co/2023/08/16/catl-new-fast-charging-battery-250-mi-10-min/)
+- [Success Academy Charter Schools](https://courseware.hbs.edu/public/success_academy_courtesy_042622/)
+- [Will Britain ever build beautiful?](https://unherd.com/2023/08/will-britain-ever-build-beautiful/)
+- [What Developers Can Learn from the Father of the Game Boy](https://blog.dns.xyz/what-creators-can-learn-from-the-father-of-the-game-boy/)
+- [India Approves $7B Electric City Bus Scheme](https://oilprice.com/Latest-Energy-News/World-News/India-Approves-7B-Electric-City-Bus-Scheme.html)
+- [Ask HN: Tell us about your project that&#39;s not done yet but you want feedback on](https://news.ycombinator.com/item?id=37156101)
+- [Future Intel CPUs May Dump Hyper-Threading for Partitioned Thread Scheduling](https://hothardware.com/news/future-intel-cpu-partition-threads)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

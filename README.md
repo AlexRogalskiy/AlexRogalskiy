@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Why were the wildfires in Hawaii so deadly? – podcast](https://www.theguardian.com/news/audio/2023/aug/17/why-were-the-wildfires-in-hawaii-so-deadly-podcast)
-- [Teens much more likely to believe online conspiracy claims than adults – US study](https://www.theguardian.com/us-news/2023/aug/16/teens-online-conspiracies-study)
-- [First cargo ship leaves Ukraine port since end of grain deal despite Russian threats](https://www.theguardian.com/world/2023/aug/17/cargo-ship-leaves-ukraine-port-of-odesa-black-sea)
-- [Pig kidney keeps working for over a month in brain-dead man’s body](https://www.theguardian.com/us-news/2023/aug/16/pig-kidney-human-transplant)
-- [Kansas newspaper raided by police to have seized items returned](https://www.theguardian.com/us-news/2023/aug/16/kansas-newspaper-police-raid-items-returned)
-- [‘Gangster tactic’: the true aim behind Hong Kong’s pursuit of overseas dissidents](https://www.theguardian.com/world/2023/aug/17/gangster-tactic-the-true-aim-behind-hong-kongs-pursuit-of-overseas-dissidents)
-- [Gotthard rail tunnel, world’s longest, closes for months after Swiss derailment](https://www.theguardian.com/world/2023/aug/17/gotthard-base-tunnel-railway-train-closed-for-months-switzerland-derailment)
-- [Russia-Ukraine war at a glance: what we know on day 540 of the invasion](https://www.theguardian.com/world/2023/aug/17/russia-ukraine-war-at-a-glance-what-we-know-on-day-540-of-the-invasion)
-- [Trump prosecutor Fani Willis faces racist abuse after indicting ex-US president](https://www.theguardian.com/us-news/2023/aug/16/trump-attack-georgia-prosecutor-slur)
-- [Robinson urges RFU to increase efforts to promote rugby in deprived areas](https://www.theguardian.com/sport/2023/aug/17/jason-robinson-england-rfu-rugby-diversity)
+- [The wellness-to-conspiracy pipeline | podcast](https://www.theguardian.com/lifeandstyle/audio/2023/aug/18/the-wellness-to-conspiracy-pipeline-podcast)
+- [US reportedly approves sending F-16 jets to Ukraine from Denmark and Netherlands](https://www.theguardian.com/world/2023/aug/18/us-reportedly-approves-sending-f-16-jets-to-ukraine-from-denmark-and-netherlands)
+- [Martin Scorsese backs Iranian director jailed over Cannes screening](https://www.theguardian.com/film/2023/aug/18/martin-scorsese-backs-iranian-director-jailed-over-cannes-screening)
+- [FBI arrest California police officers involved in racist text messages scandal](https://www.theguardian.com/us-news/2023/aug/17/california-fbi-arrest-police-officers-racist-texts-antioch-pittsburg-san-francisco)
+- [Russia-Ukraine war at a glance: what we know on day 541 of the invasion](https://www.theguardian.com/world/2023/aug/18/russia-ukraine-war-at-a-glance-what-we-know-on-day-541-of-the-invasion)
+- [More than 100 sewage leaks discovered in government buildings in past year](https://www.theguardian.com/politics/2023/aug/18/more-than-100-sewage-leaks-discovered-in-government-buildings-in-past-year)
+- [Outcry in New Caledonia over shark culls and net plans despite attacks](https://www.theguardian.com/world/2023/aug/18/outcry-in-new-caledonia-over-shark-culls-and-net-plans-despite-attacks)
+- [Covid booster jabs to be approved for sale to UK public](https://www.theguardian.com/world/2023/aug/17/covid-booster-jabs-approved-for-sale-to-uk-public)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2023/aug/18/premier-league-10-things-to-look-out-for-this-weekend)
+- [Amusements by Ikechukwu Ufomadu review – inscrutably cool anti-comedy](https://www.theguardian.com/stage/2023/aug/18/ikechukwu-ufomadu-amusements-review-pleasance-courtyard-edinburgh-festival)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

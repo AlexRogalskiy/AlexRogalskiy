@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
-- [Opera browser weaves Aria AI into iOS app](https://www.computerworld.com/article/3704634/opera-browser-weaves-aria-ai-into-ios-app.html#tk.rss_all)
+- [How old Facebook plus new AI could save remote work](https://www.computerworld.com/article/3705092/how-old-facebook-plus-new-ai-could-save-remote-work.html#tk.rss_all)
 - [OpenAI to use GPT-4 LLM for content moderation, warns against bias](https://www.computerworld.com/article/3704618/openai-to-use-gpt-4-llm-for-content-moderation-warns-against-bias.html#tk.rss_all)
+- [Jamf Threat Labs subverts iPhone security with fake Airplane Mode](https://www.computerworld.com/article/3705088/jamf-threat-labs-subverts-iphone-security-with-fake-airplane-mode.html#tk.rss_all)
+- [Zoom goes for a blatant genAI data grab; enterprises, beware &lpar;updated&rpar;](https://www.computerworld.com/article/3704489/zoom-goes-for-a-blatant-genai-data-grab-enterprises-beware.html#tk.rss_all)
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [Meet your secret Android shortcut genie](https://www.computerworld.com/article/3704617/android-shortcut-genie.html#tk.rss_all)
+- [China hacks the US military and government — the Feds blame Microsoft](https://www.computerworld.com/article/3704497/china-hacks-the-us-military-and-government-the-feds-blame-microsoft.html#tk.rss_all)
+- [Opera browser weaves Aria AI into iOS app](https://www.computerworld.com/article/3704634/opera-browser-weaves-aria-ai-into-ios-app.html#tk.rss_all)
 - [IT leaders want AI but but accelerating development stirs fears: Report](https://www.computerworld.com/article/3704633/it-leaders-want-ai-but-but-accelerating-development-stirs-fears-report.html#tk.rss_all)
 - [Intel’s Tower Semiconductor acquisition fails, as China witholds OK](https://www.computerworld.com/article/3704795/intel-s-tower-semiconductor-acquisition-fails-as-china-witholds-ok.html#tk.rss_all)
-- [Adobe Express with generative AI exits beta, available now](https://www.computerworld.com/article/3704794/adobe-express-with-generative-ai-exits-beta-available-now.html#tk.rss_all)
-- [How &lpar;and why&rpar; to use conditional formatting in Excel](https://www.computerworld.com/article/3704733/how-and-why-to-use-conditional-formatting-in-excel.html#tk.rss_all)
-- [Should you upgrade to Windows 11? It’s complicated](https://www.computerworld.com/article/3704812/should-you-upgrade-to-windows-11.html#tk.rss_all)
-- [Ford adds Apple sauce to its next-gen services ambition](https://www.computerworld.com/article/3704614/ford-adds-apple-sauce-to-its-next-gen-services-ambition.html#tk.rss_all)
-- [How to build employee trust as AI gains ground](https://www.computerworld.com/article/3704494/how-to-build-employee-trust-in-an-ai-centric-world.html#tk.rss_all)
-- [6+ iPhone features you should be using](https://www.computerworld.com/article/3704791/6-iphone-features-you-should-be-using.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [CATL reveals ‘Superfast Charging Battery,’ boasts 250mi range with 10-min charge](https://electrek.co/2023/08/16/catl-new-fast-charging-battery-250-mi-10-min/)
-- [Ask HN: Tell us about your project that&#39;s not done yet but you want feedback on](https://news.ycombinator.com/item?id=37156101)
-- [QR codes appearing in Google street view?](https://nso.group/@haifisch/110901720830132689#.)
-- [Thirteen years later, why are most administrators still from 2005?](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2023-08-15/Special_report)
-- [How to Produce Green Hydrogen for $1/Kg – Terraform Industries Blog](https://terraformindustries.wordpress.com/2023/08/16/how-to-produce-green-hydrogen-for-1-kg/)
-- [Open Challenges in LLM Research](https://huyenchip.com/2023/08/16/llm-research-open-challenges.html)
-- [Intel QuickAssist Technology Zstandard Plugin for Zstandard](https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/Intel-QuickAssist-Technology-Zstandard-Plugin-an-External/post/1509818)
-- [$70 device can spoof an Apple device and trick you into sharing your password](https://techcrunch.com/2023/08/16/this-70-device-can-spoof-an-apple-device-and-trick-you-into-sharing-your-password/)
-- [Naomi Wu and the Silence That Speaks Volumes](https://www.hackingbutlegal.com/naomi-wu-and-the-silence-that-speaks-volumes/)
-- [MLIR For Beginners: A series of articles on the MLIR framework](https://github.com/j2kun/mlir-tutorial)
+- [How to implement a disk cache plugin for Elixir&#39;s Req HTTP client?](https://thibautbarrere.com/2022/09/09/implementing-a-disk-cache-for-elixir-req)
+- [New Linux Tablet from Star Labs](https://us.starlabs.systems/pages/starlite)
+- [A Blood Factor Can Rejuvenate the Aging Brain](https://www.insideprecisionmedicine.com/topics/molecular-dx-topic/a-blood-factor-can-rejuvenate-the-aging-brain/)
+- [SUSE to Go Private](https://opensourcewatch.beehiiv.com/p/suse-go-private)
+- [The Aging Brain: Is Misplaced DNA to Blame?](https://www.science.org/content/blog-post/aging-brain-misplaced-dna-blame)
+- [YouTube Ads May Have Led to Online Tracking of Children, Research Says](https://www.nytimes.com/2023/08/17/technology/youtube-google-children-privacy.html)
+- [“Green smoothie cleanse” causing acute oxalate nephropathy](https://pubmed.ncbi.nlm.nih.gov/29203127/)
+- [How the Army tried and failed to build a bicycle corps &lpar;2020&rpar;](https://www.armytimes.com/news/your-army/2020/02/25/how-the-army-tried-and-failed-to-build-a-bicycle-corps/)
+- [RoboAgent: A universal agent with 12 Skills](https://robopen.github.io/)
+- [An underwater landslide knocked out two critical submarine cables serving Africa](https://www.kentik.com/blog/dual-subsea-cable-cuts-disrupt-african-internet/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

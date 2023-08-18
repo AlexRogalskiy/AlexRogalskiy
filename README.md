@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Fully Burnt Out](https://news.ycombinator.com/item?id=37156261)
-- [Getting ChatGPT to write a Linux kernel module](https://www.downtowndougbrown.com/2022/12/getting-chatgpt-to-write-a-linux-kernel-module-for-me/)
-- [Can’t get another company&#39;s attention? You’re not alone](https://www.trypare.com/blog/cllebn1wp0000ypdvefpss6j1)
-- [CATL reveals ‘Superfast Charging Battery,’ boasts 250mi range with 10-min charge](https://electrek.co/2023/08/16/catl-new-fast-charging-battery-250-mi-10-min/)
-- [Success Academy Charter Schools](https://courseware.hbs.edu/public/success_academy_courtesy_042622/)
-- [Will Britain ever build beautiful?](https://unherd.com/2023/08/will-britain-ever-build-beautiful/)
-- [What Developers Can Learn from the Father of the Game Boy](https://blog.dns.xyz/what-creators-can-learn-from-the-father-of-the-game-boy/)
-- [India Approves $7B Electric City Bus Scheme](https://oilprice.com/Latest-Energy-News/World-News/India-Approves-7B-Electric-City-Bus-Scheme.html)
-- [Ask HN: Tell us about your project that&#39;s not done yet but you want feedback on](https://news.ycombinator.com/item?id=37156101)
-- [Future Intel CPUs May Dump Hyper-Threading for Partitioned Thread Scheduling](https://hothardware.com/news/future-intel-cpu-partition-threads)
+- [Building Intuition for Lattice-Based Signatures Part 2: Fiat-Shamir with Aborts](https://research.nccgroup.com/2023/08/17/building-intuition-for-lattice-based-signatures-part-2-fiat-shamir-with-aborts/)
+- [No age defines the boundary between adolescence and adulthood](https://slate.com/technology/2022/11/brain-development-25-year-old-mature-myth.html)
+- [FreeBSD Bhyve Virtualization](https://vermaden.wordpress.com/2023/08/18/freebsd-bhyve-virtualization/)
+- [Down the Rabbit Hole with AmazonMQ – Why I Self Manage RabbitMQ](https://foxables.io/down-the-rabbit-hole-with-amazonmq/)
+- [The “Free-Speech Twitter” Psyop](https://consentfactory.org/2023/08/14/the-free-speech-twitter-psyop/)
+- [The modern sea spider had started to diversify by the Jurassic, study finds](https://www.bristol.ac.uk/news/2023/august/sea-spider-had-started-to-diversify-by-jurassic.html)
+- [New type of star gives clues to mysterious origin of magnetars](https://www.eso.org/public/news/eso2313/)
+- [EV maker Vinfast still worth more than Ford and GM after stock tanks 19%](https://techcrunch.com/2023/08/16/ev-maker-vinfast-still-worth-more-than-ford-and-gm-after-stock-tanks-19/)
+- [Anti-hype LLM reading list](https://gist.github.com/veekaybee/be375ab33085102f9027853128dc5f0e)
+- [What Is Trusted Computing?](https://blog.simonfarshid.com/what-is-trusted-computing)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

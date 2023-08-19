@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [The wellness-to-conspiracy pipeline | podcast](https://www.theguardian.com/lifeandstyle/audio/2023/aug/18/the-wellness-to-conspiracy-pipeline-podcast)
-- [US reportedly approves sending F-16 jets to Ukraine from Denmark and Netherlands](https://www.theguardian.com/world/2023/aug/18/us-reportedly-approves-sending-f-16-jets-to-ukraine-from-denmark-and-netherlands)
-- [Martin Scorsese backs Iranian director jailed over Cannes screening](https://www.theguardian.com/film/2023/aug/18/martin-scorsese-backs-iranian-director-jailed-over-cannes-screening)
-- [FBI arrest California police officers involved in racist text messages scandal](https://www.theguardian.com/us-news/2023/aug/17/california-fbi-arrest-police-officers-racist-texts-antioch-pittsburg-san-francisco)
-- [Russia-Ukraine war at a glance: what we know on day 541 of the invasion](https://www.theguardian.com/world/2023/aug/18/russia-ukraine-war-at-a-glance-what-we-know-on-day-541-of-the-invasion)
-- [More than 100 sewage leaks discovered in government buildings in past year](https://www.theguardian.com/politics/2023/aug/18/more-than-100-sewage-leaks-discovered-in-government-buildings-in-past-year)
-- [Outcry in New Caledonia over shark culls and net plans despite attacks](https://www.theguardian.com/world/2023/aug/18/outcry-in-new-caledonia-over-shark-culls-and-net-plans-despite-attacks)
-- [Covid booster jabs to be approved for sale to UK public](https://www.theguardian.com/world/2023/aug/17/covid-booster-jabs-approved-for-sale-to-uk-public)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2023/aug/18/premier-league-10-things-to-look-out-for-this-weekend)
-- [Amusements by Ikechukwu Ufomadu review – inscrutably cool anti-comedy](https://www.theguardian.com/stage/2023/aug/18/ikechukwu-ufomadu-amusements-review-pleasance-courtyard-edinburgh-festival)
+- [Cotton Capital: The bee and the ship – episode 1 – podcast](https://www.theguardian.com/news/audio/2023/aug/19/cotton-capital-the-bee-and-the-ship-episode-1-podcast)
+- [Russia-Ukraine war at a glance: what we know on day 542 of the invasion](https://www.theguardian.com/world/2023/aug/19/russia-ukraine-war-at-a-glance-what-we-know-on-day-542-of-the-invasion)
+- [Silent Roar review – charming coming-of-age tale of existential angst and surfing](https://www.theguardian.com/film/2023/aug/18/silent-roar-review-charming-coming-of-age-tale-of-existential-angst-and-surfing)
+- [Leeds remain without league win after West Brom hold on for point](https://www.theguardian.com/football/2023/aug/18/leeds-remain-without-league-win-after-west-brom-hold-on-for-point)
+- [Manchester City would be ‘killed’ if they spent same as Chelsea, claims Guardiola](https://www.theguardian.com/football/2023/aug/18/pep-guardiola-says-manchester-city-would-be-killed-if-they-spent-1bn-on-players)
+- [Trip to Tottenham offers truer test of where Manchester United really stand](https://www.theguardian.com/football/2023/aug/18/manchester-united-tottenham-premier-league-preview)
+- [Georgia school board fires teacher who read book on gender fluidity to class](https://www.theguardian.com/us-news/2023/aug/18/georgia-teacher-fired-book-ban-lgbt-gender-fluidity)
+- [Chris Wood gives Nottingham Forest late victory over Sheffield United](https://www.theguardian.com/football/2023/aug/18/chris-wood-gives-nottingham-forest-late-victory-over-sheffield-united)
+- [Harry Kane scores on league debut and points to bright future at Bayern](https://www.theguardian.com/football/2023/aug/18/harry-kane-hits-ground-running-with-bayern-munich-in-cruise-control)
+- [Bird review – fear punctuates the fluid dancing in this tale of domestic violence](https://www.theguardian.com/stage/2023/aug/18/bird-review-fear-punctuates-the-fluid-dancing-in-this-tale-of-domestic-violence)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

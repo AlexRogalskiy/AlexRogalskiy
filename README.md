@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [How to implement a disk cache plugin for Elixir&#39;s Req HTTP client?](https://thibautbarrere.com/2022/09/09/implementing-a-disk-cache-for-elixir-req)
-- [New Linux Tablet from Star Labs](https://us.starlabs.systems/pages/starlite)
-- [A Blood Factor Can Rejuvenate the Aging Brain](https://www.insideprecisionmedicine.com/topics/molecular-dx-topic/a-blood-factor-can-rejuvenate-the-aging-brain/)
-- [SUSE to Go Private](https://opensourcewatch.beehiiv.com/p/suse-go-private)
-- [The Aging Brain: Is Misplaced DNA to Blame?](https://www.science.org/content/blog-post/aging-brain-misplaced-dna-blame)
-- [YouTube Ads May Have Led to Online Tracking of Children, Research Says](https://www.nytimes.com/2023/08/17/technology/youtube-google-children-privacy.html)
-- [“Green smoothie cleanse” causing acute oxalate nephropathy](https://pubmed.ncbi.nlm.nih.gov/29203127/)
-- [How the Army tried and failed to build a bicycle corps &lpar;2020&rpar;](https://www.armytimes.com/news/your-army/2020/02/25/how-the-army-tried-and-failed-to-build-a-bicycle-corps/)
-- [RoboAgent: A universal agent with 12 Skills](https://robopen.github.io/)
-- [An underwater landslide knocked out two critical submarine cables serving Africa](https://www.kentik.com/blog/dual-subsea-cable-cuts-disrupt-african-internet/)
+- [With LLMs, enterprise data is different](https://colinharman.substack.com/p/with-llms-enterprise-is-different)
+- [TSMC – the world&#39;s most important company. And everyone wants control of it](https://www.abc.net.au/news/2023-08-19/tsmc-the-most-important-company-in-the-world/102728172)
+- [Learn X in Y Minutes](https://learnxinyminutes.com/)
+- [Metazooa](https://metazooa.com/game)
+- [The Jester of Tonga](https://www.the-fence.com/the-jester-of-tonga/)
+- [2009scape](https://2009scape.org/)
+- [Radiation Spikes at Chernobyl](https://zetter.substack.com/p/radiation-spikes-at-chernobyl-a-mystery)
+- [Pines’ demon observed as a 3D acoustic plasmon in Sr2RuO4](https://www.nature.com/articles/s41586-023-06318-8)
+- [ARM’s Neoverse N2: Cortex A710 for Servers](https://chipsandcheese.com/2023/08/18/arms-neoverse-n2-cortex-a710-for-servers/)
+- [Show HN: Saf – simple, reliable, rsync-based, battle tested, rounded backup](https://github.com/dusanx/saf)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

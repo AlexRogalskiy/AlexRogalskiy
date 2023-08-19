@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [What is the Mac Evaluation Utility tool?](https://www.computerworld.com/article/3705109/what-is-mac-evaluation-utility-tool.html#tk.rss_all)
+- [Tech layoffs in 2023: A timeline](https://www.computerworld.com/article/3685936/tech-layoffs-in-2023-a-timeline.html#tk.rss_all)
+- [Meta employees who flout new return-to-office mandate face termination](https://www.computerworld.com/article/3705093/meta-employees-who-flout-new-return-to-office-mandate-face-termination.html#tk.rss_all)
+- [Google Workspace tips and tutorials](https://www.computerworld.com/article/3704811/how-to-use-google-workspace-tips-tutorials-cheat-sheets.html#tk.rss_all)
+- [Q&amp;A: How VR can automate delivery of mental health treatment](https://www.computerworld.com/article/3704616/how-vr-can-automate-delivery-of-mental-health-treatment.html#tk.rss_all)
 - [How old Facebook plus new AI could save remote work](https://www.computerworld.com/article/3705092/how-old-facebook-plus-new-ai-could-save-remote-work.html#tk.rss_all)
 - [OpenAI to use GPT-4 LLM for content moderation, warns against bias](https://www.computerworld.com/article/3704618/openai-to-use-gpt-4-llm-for-content-moderation-warns-against-bias.html#tk.rss_all)
 - [Jamf Threat Labs subverts iPhone security with fake Airplane Mode](https://www.computerworld.com/article/3705088/jamf-threat-labs-subverts-iphone-security-with-fake-airplane-mode.html#tk.rss_all)
 - [Zoom goes for a blatant genAI data grab; enterprises, beware &lpar;updated&rpar;](https://www.computerworld.com/article/3704489/zoom-goes-for-a-blatant-genai-data-grab-enterprises-beware.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [Meet your secret Android shortcut genie](https://www.computerworld.com/article/3704617/android-shortcut-genie.html#tk.rss_all)
-- [China hacks the US military and government — the Feds blame Microsoft](https://www.computerworld.com/article/3704497/china-hacks-the-us-military-and-government-the-feds-blame-microsoft.html#tk.rss_all)
-- [Opera browser weaves Aria AI into iOS app](https://www.computerworld.com/article/3704634/opera-browser-weaves-aria-ai-into-ios-app.html#tk.rss_all)
-- [IT leaders want AI but but accelerating development stirs fears: Report](https://www.computerworld.com/article/3704633/it-leaders-want-ai-but-but-accelerating-development-stirs-fears-report.html#tk.rss_all)
-- [Intel’s Tower Semiconductor acquisition fails, as China witholds OK](https://www.computerworld.com/article/3704795/intel-s-tower-semiconductor-acquisition-fails-as-china-witholds-ok.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

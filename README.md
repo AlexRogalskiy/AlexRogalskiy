@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Building Intuition for Lattice-Based Signatures Part 2: Fiat-Shamir with Aborts](https://research.nccgroup.com/2023/08/17/building-intuition-for-lattice-based-signatures-part-2-fiat-shamir-with-aborts/)
-- [No age defines the boundary between adolescence and adulthood](https://slate.com/technology/2022/11/brain-development-25-year-old-mature-myth.html)
-- [FreeBSD Bhyve Virtualization](https://vermaden.wordpress.com/2023/08/18/freebsd-bhyve-virtualization/)
-- [Down the Rabbit Hole with AmazonMQ – Why I Self Manage RabbitMQ](https://foxables.io/down-the-rabbit-hole-with-amazonmq/)
-- [The “Free-Speech Twitter” Psyop](https://consentfactory.org/2023/08/14/the-free-speech-twitter-psyop/)
-- [The modern sea spider had started to diversify by the Jurassic, study finds](https://www.bristol.ac.uk/news/2023/august/sea-spider-had-started-to-diversify-by-jurassic.html)
-- [New type of star gives clues to mysterious origin of magnetars](https://www.eso.org/public/news/eso2313/)
-- [EV maker Vinfast still worth more than Ford and GM after stock tanks 19%](https://techcrunch.com/2023/08/16/ev-maker-vinfast-still-worth-more-than-ford-and-gm-after-stock-tanks-19/)
-- [Anti-hype LLM reading list](https://gist.github.com/veekaybee/be375ab33085102f9027853128dc5f0e)
-- [What Is Trusted Computing?](https://blog.simonfarshid.com/what-is-trusted-computing)
+- [Why do hurricanes hit the East Coast of the US but never the West Coast? &lpar;1999&rpar;](https://www.scientificamerican.com/article/why-do-hurricanes-hit-the-east-coast-of-the-u-s-but-never-the-west-coast/)
+- [Demystifying Multivariate Cryptography](https://research.nccgroup.com/2023/08/18/demystifying-multivariate-cryptography/)
+- [Further update on emergency vehicle collision](https://getcruise.com/news/blog/2023/further-update-on-emergency-vehicle-collision/)
+- [AI-Created Art Isn’t Copyrightable, Judge Says in Ruling](https://www.hollywoodreporter.com/business/business-news/ai-works-not-copyrightable-studios-1235570316/)
+- [Nikolay Sivko: Spotting Postgres Performance Issues with Coroot](https://coroot.com/blog/spotting-postgres-performance-issues-with-coroot)
+- [Ask HN: How do you recreate yourself when you are adult?](https://news.ycombinator.com/item?id=37184658)
+- [Brian Armstrong: A Founder&#39;s Story [video]](https://www.youtube.com/watch?v=BjVGaq0h8vA)
+- [Show HN: Move Fast Break Things](https://news.ycombinator.com/item?id=37184644)
+- [How Indian artists transformed the Buddha’s absence into presence](https://www.washingtonpost.com/entertainment/art/2023/08/14/buddha-metropolitan-museum-buddhism-india/)
+- [How to use variables in Google Docs](https://zapier.com/blog/google-docs-variables/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

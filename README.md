@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Cotton Capital: The bee and the ship – episode 1 – podcast](https://www.theguardian.com/news/audio/2023/aug/19/cotton-capital-the-bee-and-the-ship-episode-1-podcast)
-- [Russia-Ukraine war at a glance: what we know on day 542 of the invasion](https://www.theguardian.com/world/2023/aug/19/russia-ukraine-war-at-a-glance-what-we-know-on-day-542-of-the-invasion)
-- [Silent Roar review – charming coming-of-age tale of existential angst and surfing](https://www.theguardian.com/film/2023/aug/18/silent-roar-review-charming-coming-of-age-tale-of-existential-angst-and-surfing)
-- [Leeds remain without league win after West Brom hold on for point](https://www.theguardian.com/football/2023/aug/18/leeds-remain-without-league-win-after-west-brom-hold-on-for-point)
-- [Manchester City would be ‘killed’ if they spent same as Chelsea, claims Guardiola](https://www.theguardian.com/football/2023/aug/18/pep-guardiola-says-manchester-city-would-be-killed-if-they-spent-1bn-on-players)
-- [Trip to Tottenham offers truer test of where Manchester United really stand](https://www.theguardian.com/football/2023/aug/18/manchester-united-tottenham-premier-league-preview)
-- [Georgia school board fires teacher who read book on gender fluidity to class](https://www.theguardian.com/us-news/2023/aug/18/georgia-teacher-fired-book-ban-lgbt-gender-fluidity)
-- [Chris Wood gives Nottingham Forest late victory over Sheffield United](https://www.theguardian.com/football/2023/aug/18/chris-wood-gives-nottingham-forest-late-victory-over-sheffield-united)
-- [Harry Kane scores on league debut and points to bright future at Bayern](https://www.theguardian.com/football/2023/aug/18/harry-kane-hits-ground-running-with-bayern-munich-in-cruise-control)
-- [Bird review – fear punctuates the fluid dancing in this tale of domestic violence](https://www.theguardian.com/stage/2023/aug/18/bird-review-fear-punctuates-the-fluid-dancing-in-this-tale-of-domestic-violence)
+- [Cotton Capital: The meaning of Success – episode 2 – podcast](https://www.theguardian.com/news/audio/2023/aug/20/cotton-capital-the-meaning-of-success-episode-2-podcast)
+- [Washington state wildfire leaves one dead and nearly 200 structures destroyed](https://www.theguardian.com/us-news/2023/aug/20/washington-state-wildfire-leaves-one-dead-and-nearly-200-structures-destroyed)
+- [Russia-Ukraine war at a glance: what we know on day 543 of the invasion](https://www.theguardian.com/world/2023/aug/20/russia-ukraine-war-at-a-glance-what-we-know-on-day-543-of-the-invasion)
+- [At least seven killed in Russian strike on theatre in centre of Chernihiv](https://www.theguardian.com/world/2023/aug/19/russian-strike-on-chernihiv-ukraine)
+- [Location, Location, Location star Phil Spencer’s parents killed in car crash](https://www.theguardian.com/world/2023/aug/20/location-location-location-star-phil-spencers-parents-killed-in-car-crash)
+- [A social tariff could bring a warm glow to UK energy policy](https://www.theguardian.com/business/2023/aug/20/a-social-tariff-could-bring-a-warm-glow-to-uk-energy-policy)
+- [Daniel Foxx: Villain review – a newcomer happy to play the bad guy](https://www.theguardian.com/stage/2023/aug/20/daniel-foxx-villain-review-pleasance-courtyard-edinburgh)
+- [Knees up: colourful men’s shorts aren’t just for summer](https://www.theguardian.com/fashion/2023/aug/19/knees-up-colourful-mens-shorts-arent-just-for-summer)
+- [The Man Who Stole The Scream review – a thought-provoking look at an audacious art heist](https://www.theguardian.com/tv-and-radio/2023/aug/19/the-man-who-stole-the-scream-review-a-thought-provoking-look-at-an-audacious-art-heist)
+- [Russia reports ‘abnormal situation’ as Luna-25 tries to begin moon landing](https://www.theguardian.com/world/2023/aug/19/russia-reports-abnormal-situation-as-luna-25-tries-to-begin-moon-landing)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

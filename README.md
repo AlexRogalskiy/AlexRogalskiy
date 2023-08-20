@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [With LLMs, enterprise data is different](https://colinharman.substack.com/p/with-llms-enterprise-is-different)
-- [TSMC – the world&#39;s most important company. And everyone wants control of it](https://www.abc.net.au/news/2023-08-19/tsmc-the-most-important-company-in-the-world/102728172)
-- [Learn X in Y Minutes](https://learnxinyminutes.com/)
-- [Metazooa](https://metazooa.com/game)
-- [The Jester of Tonga](https://www.the-fence.com/the-jester-of-tonga/)
-- [2009scape](https://2009scape.org/)
-- [Radiation Spikes at Chernobyl](https://zetter.substack.com/p/radiation-spikes-at-chernobyl-a-mystery)
-- [Pines’ demon observed as a 3D acoustic plasmon in Sr2RuO4](https://www.nature.com/articles/s41586-023-06318-8)
-- [ARM’s Neoverse N2: Cortex A710 for Servers](https://chipsandcheese.com/2023/08/18/arms-neoverse-n2-cortex-a710-for-servers/)
-- [Show HN: Saf – simple, reliable, rsync-based, battle tested, rounded backup](https://github.com/dusanx/saf)
+- [Parable of the Broken Window](https://en.wikipedia.org/wiki/Parable_of_the_broken_window)
+- [AMD&#39;s 7900 XTX achieves better value for Stable Diffusion than Nvidia RTX 4080](https://wccftech.com/amd-radeon-7900-xtx-offers-higher-generative-ai-performance-per-dollar-than-nvidia-rtx-4080-after-990-speedup/)
+- [Who’s Afraid of Lorne Michaels?](https://longreads.com/2023/08/17/lorne-michaels-saturday-night-live/)
+- [W. H. Auden’s 1954 review of The Fellowship of the Ring](https://lithub.com/read-w-h-audens-1954-review-of-the-fellowship-of-the-ring/)
+- [Mousetrap.jl: a GUI library for Julia and C++ that wraps GTK4](https://github.com/Clemapfel/mousetrap.jl)
+- [CRISPR gene-editing treatment eliminates HIV-like virus from non-human primates](https://www.nature.com/articles/s41434-023-00410-4)
+- [Cellebrite asks cops to keep its phone hacking tech ‘hush hush’](https://techcrunch.com/2023/08/19/cellebrite-asks-cops-to-keep-its-phone-hacking-tech-hush-hush/)
+- [UCLA floor tiles decoded, pay homage to first internet message](https://newsroom.ucla.edu/stories/a-coded-message-hidden-in-floor-247232)
+- [Programming Language choices: Pascal, LOGO, Forth, Prolog, C &lpar;1986&rpar; [video]](https://clp.bbcrewind.co.uk/3d15323fe870ef44784832c02f4f7992)
+- [What saved the ‘miracle house’ in Lahaina?](https://www.civilbeat.org/2023/08/what-saved-the-miracle-house-in-lahaina/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

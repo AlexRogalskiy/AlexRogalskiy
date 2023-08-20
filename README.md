@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Why do hurricanes hit the East Coast of the US but never the West Coast? &lpar;1999&rpar;](https://www.scientificamerican.com/article/why-do-hurricanes-hit-the-east-coast-of-the-u-s-but-never-the-west-coast/)
-- [Demystifying Multivariate Cryptography](https://research.nccgroup.com/2023/08/18/demystifying-multivariate-cryptography/)
-- [Further update on emergency vehicle collision](https://getcruise.com/news/blog/2023/further-update-on-emergency-vehicle-collision/)
-- [AI-Created Art Isn’t Copyrightable, Judge Says in Ruling](https://www.hollywoodreporter.com/business/business-news/ai-works-not-copyrightable-studios-1235570316/)
-- [Nikolay Sivko: Spotting Postgres Performance Issues with Coroot](https://coroot.com/blog/spotting-postgres-performance-issues-with-coroot)
-- [Ask HN: How do you recreate yourself when you are adult?](https://news.ycombinator.com/item?id=37184658)
-- [Brian Armstrong: A Founder&#39;s Story [video]](https://www.youtube.com/watch?v=BjVGaq0h8vA)
-- [Show HN: Move Fast Break Things](https://news.ycombinator.com/item?id=37184644)
-- [How Indian artists transformed the Buddha’s absence into presence](https://www.washingtonpost.com/entertainment/art/2023/08/14/buddha-metropolitan-museum-buddhism-india/)
-- [How to use variables in Google Docs](https://zapier.com/blog/google-docs-variables/)
+- [Beware the Emergence of Shadow of AI](https://techpolicy.press/beware-the-emergence-of-shadow-ai/)
+- [Macaulay&#39;s Speeches on Copyright &lpar;1841&rpar;](https://yarchive.net/macaulay/copyright.html)
+- [How to Interview Your Interviewers](https://blog.alinelerner.com/how-to-interview-your-interviewers/)
+- [Parable of the Broken Window](https://en.wikipedia.org/wiki/Parable_of_the_broken_window)
+- [Russia&#39;s Luna-25 moon lander suffers &#39;emergency situation&#39;](https://www.space.com/russia-luna-25-moon-lander-glitch)
+- [The Fall of a Superstar Psychologist &lpar;Dan Ariely&rpar; [video]](https://www.youtube.com/watch?v=Q3tSG8h_O3A)
+- [A race for autopilot dominance is giving China the edge in autonomous driving](https://www.technologyreview.com/2023/08/15/1077895/china-city-race-autonomous-driving/)
+- [Aphex Twin Immersive AR App, YXBoZXh0d2lu, Promises to RnVjayBXaXRoIFJlYWxpdHk](https://www.synthtopia.com/content/2023/08/19/free-aphex-twin-immersive-ar-app-yxbozxh0d2lu-promises-to-rnvjaybxaxroifjlywxpdhk/)
+- [GodMode – The Smol AI Chat Browser](https://github.com/smol-ai/GodMode)
+- [Why Johnny Can&#39;t Code](https://www.salon.com/2006/09/14/basic_2/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

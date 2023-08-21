@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Beware the Emergence of Shadow of AI](https://techpolicy.press/beware-the-emergence-of-shadow-ai/)
-- [Macaulay&#39;s Speeches on Copyright &lpar;1841&rpar;](https://yarchive.net/macaulay/copyright.html)
-- [How to Interview Your Interviewers](https://blog.alinelerner.com/how-to-interview-your-interviewers/)
-- [Parable of the Broken Window](https://en.wikipedia.org/wiki/Parable_of_the_broken_window)
-- [Russia&#39;s Luna-25 moon lander suffers &#39;emergency situation&#39;](https://www.space.com/russia-luna-25-moon-lander-glitch)
-- [The Fall of a Superstar Psychologist &lpar;Dan Ariely&rpar; [video]](https://www.youtube.com/watch?v=Q3tSG8h_O3A)
-- [A race for autopilot dominance is giving China the edge in autonomous driving](https://www.technologyreview.com/2023/08/15/1077895/china-city-race-autonomous-driving/)
-- [Aphex Twin Immersive AR App, YXBoZXh0d2lu, Promises to RnVjayBXaXRoIFJlYWxpdHk](https://www.synthtopia.com/content/2023/08/19/free-aphex-twin-immersive-ar-app-yxbozxh0d2lu-promises-to-rnvjaybxaxroifjlywxpdhk/)
-- [GodMode – The Smol AI Chat Browser](https://github.com/smol-ai/GodMode)
-- [Why Johnny Can&#39;t Code](https://www.salon.com/2006/09/14/basic_2/)
+- [Russia&#39;s Return to the Moon Ends in Disaster as Luna 25 Crashes](https://www.iflscience.com/russias-return-to-the-moon-ends-in-disaster-as-luna-25-crashes-70322)
+- [Different Strategies to Withdraw Retirement Funds](https://staythrive.com/retirement-withdrawal-strategies/)
+- [Lidar on a Chip Puts Self-Driving Cars in the Fast Lane](https://spectrum.ieee.org/lidar-on-a-chip)
+- [Show HN: superwhisper – AI powered offline voice to text for macOS](https://superwhisper.com)
+- [Cancer mortality after low dose exposure to ionising radiation in workers](https://www.iarc.who.int/news-events/cancer-mortality-after-low-dose-exposure-to-ionising-radiation-in-workers-in-france-the-united-kingdom-and-the-united-states-inworks-cohort-study/)
+- [Show HN: Efficiently Query BigQuery and Snowflake from Postgres](https://blog.peerdb.io/efficiently-query-bigquery-and-snowflake-from-postgresql)
+- [Foldimate the Clothing Folding Robot](https://e-foldimate.store/product/foldimate-the-clothing-folding-robot/)
+- [From the MIT GenAI Summit: A Crash Course in Generative AI [video]](https://www.youtube.com/watch?v=f5Cm68GzEDE)
+- [Japan’s ‘miracle town,’ with soaring birthrate amid demographic crisis](https://www.latimes.com/world-nation/story/2023-08-16/japan-miracle-town-birth-rate-depopulation-crisis)
+- [Call center scammers looted $10B last year from U.S. &lpar;2022&rpar;](https://boingboing.net/2022/12/26/call-center-scammers-looted-10bn-last-year-from-u-s.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

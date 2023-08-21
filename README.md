@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Cotton Capital: The meaning of Success – episode 2 – podcast](https://www.theguardian.com/news/audio/2023/aug/20/cotton-capital-the-meaning-of-success-episode-2-podcast)
-- [Washington state wildfire leaves one dead and nearly 200 structures destroyed](https://www.theguardian.com/us-news/2023/aug/20/washington-state-wildfire-leaves-one-dead-and-nearly-200-structures-destroyed)
-- [Russia-Ukraine war at a glance: what we know on day 543 of the invasion](https://www.theguardian.com/world/2023/aug/20/russia-ukraine-war-at-a-glance-what-we-know-on-day-543-of-the-invasion)
-- [At least seven killed in Russian strike on theatre in centre of Chernihiv](https://www.theguardian.com/world/2023/aug/19/russian-strike-on-chernihiv-ukraine)
-- [Location, Location, Location star Phil Spencer’s parents killed in car crash](https://www.theguardian.com/world/2023/aug/20/location-location-location-star-phil-spencers-parents-killed-in-car-crash)
-- [A social tariff could bring a warm glow to UK energy policy](https://www.theguardian.com/business/2023/aug/20/a-social-tariff-could-bring-a-warm-glow-to-uk-energy-policy)
-- [Daniel Foxx: Villain review – a newcomer happy to play the bad guy](https://www.theguardian.com/stage/2023/aug/20/daniel-foxx-villain-review-pleasance-courtyard-edinburgh)
-- [Knees up: colourful men’s shorts aren’t just for summer](https://www.theguardian.com/fashion/2023/aug/19/knees-up-colourful-mens-shorts-arent-just-for-summer)
-- [The Man Who Stole The Scream review – a thought-provoking look at an audacious art heist](https://www.theguardian.com/tv-and-radio/2023/aug/19/the-man-who-stole-the-scream-review-a-thought-provoking-look-at-an-audacious-art-heist)
-- [Russia reports ‘abnormal situation’ as Luna-25 tries to begin moon landing](https://www.theguardian.com/world/2023/aug/19/russia-reports-abnormal-situation-as-luna-25-tries-to-begin-moon-landing)
+- [Tropical Storm Hilary brings flash-floods and tornado warnings to southern California – follow live](https://www.theguardian.com/us-news/live/2023/aug/21/tropical-storm-hilary-california-flooding-tornado-warning-national-hurricane-center)
+- [Cotton Capital: The Sea Islands – episode 3 – podcast](https://www.theguardian.com/news/audio/2023/aug/21/cotton-capital-the-sea-islands-episode-3-podcast)
+- [Trump confirms he will skip Republican primary debate](https://www.theguardian.com/us-news/2023/aug/21/donald-trump-republican-debate-fox-news)
+- [Canada wildfires: Trudeau deploys military to tackle blazes across British Columbia](https://www.theguardian.com/world/2023/aug/21/canada-wildfires-trudeau-deploys-military-to-tackle-blazes-across-british-columbia)
+- [Russia-Ukraine war at a glance: what we know on day 544 of the invasion](https://www.theguardian.com/world/2023/aug/21/russia-ukraine-war-at-a-glance-what-we-know-on-day-544-of-the-invasion)
+- [Fine airlines if they fail in legal duty to customers, urges Which?](https://www.theguardian.com/business/2023/aug/20/fine-airlines-legal-duty-customers-flight-cancellations)
+- [Chinese video games are on the rise, but I wish they got more respect](https://www.theguardian.com/games/2023/aug/21/chinese-video-games-are-on-the-rise-but-i-wish-they-got-more-respect)
+- [Trek to the source of the Wharfe: a riverside adventure in Yorkshire](https://www.theguardian.com/travel/2023/aug/21/trek-to-the-source-of-the-wharfe-a-riverside-adventure-in-yorkshire)
+- [Spain’s World Cup-winning goalscorer learned of father’s death after final](https://www.theguardian.com/football/2023/aug/20/spain-world-cup-winning-goalscorer-father-died-after-final-england)
+- [Tropical Storm Hilary brings flooding to California as a quake hits Los Angeles](https://www.theguardian.com/world/2023/aug/20/hurricane-hilary-approaches-california-mexico-climate-crisis)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

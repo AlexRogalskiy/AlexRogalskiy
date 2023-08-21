@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Parable of the Broken Window](https://en.wikipedia.org/wiki/Parable_of_the_broken_window)
-- [AMD&#39;s 7900 XTX achieves better value for Stable Diffusion than Nvidia RTX 4080](https://wccftech.com/amd-radeon-7900-xtx-offers-higher-generative-ai-performance-per-dollar-than-nvidia-rtx-4080-after-990-speedup/)
-- [Who’s Afraid of Lorne Michaels?](https://longreads.com/2023/08/17/lorne-michaels-saturday-night-live/)
-- [W. H. Auden’s 1954 review of The Fellowship of the Ring](https://lithub.com/read-w-h-audens-1954-review-of-the-fellowship-of-the-ring/)
-- [Mousetrap.jl: a GUI library for Julia and C++ that wraps GTK4](https://github.com/Clemapfel/mousetrap.jl)
-- [CRISPR gene-editing treatment eliminates HIV-like virus from non-human primates](https://www.nature.com/articles/s41434-023-00410-4)
-- [Cellebrite asks cops to keep its phone hacking tech ‘hush hush’](https://techcrunch.com/2023/08/19/cellebrite-asks-cops-to-keep-its-phone-hacking-tech-hush-hush/)
-- [UCLA floor tiles decoded, pay homage to first internet message](https://newsroom.ucla.edu/stories/a-coded-message-hidden-in-floor-247232)
-- [Programming Language choices: Pascal, LOGO, Forth, Prolog, C &lpar;1986&rpar; [video]](https://clp.bbcrewind.co.uk/3d15323fe870ef44784832c02f4f7992)
-- [What saved the ‘miracle house’ in Lahaina?](https://www.civilbeat.org/2023/08/what-saved-the-miracle-house-in-lahaina/)
+- [My talk with Kris Nova about being homeless. See you on the other side, friend](https://kubecuddle.transistor.fm/episodes/dave-fogle-and-kris-nova)
+- [Useful San Francisco and Bay Area History Resources](https://sfmemory.org/)
+- [Changing its name tanked X&#39;s downloads in App Store and Play Store](https://daringfireball.net/linked/2023/08/19/seufert-x-downloads)
+- [Cell therapy repairs cornea damage with patient&#39;s stem cells gives trial results](https://medicalxpress.com/news/2023-08-cell-therapy-cornea-patient-stem.html)
+- [TimeGuessr: Guess what year a photograph was taken](https://timeguessr.com/)
+- [JSON Schema Store](https://www.schemastore.org/json/)
+- [OpenCopilot – AI Copilot &lpar;sidekick&rpar; for your own SaaS product](https://github.com/openchatai/OpenCopilot)
+- [A raid on a Kansas newspaper likely broke the law, experts say. But which one?](https://abcnews.go.com/US/wireStory/raid-kansas-newspaper-broke-law-experts-102390880)
+- [16-bit Serial Homebrew CPU – 2023](https://www.jiristepanovsky.cz/project.php?p=23cpu)
+- [Jazz² Resurrection: Open-source Jazz Jackrabbit 2 reimplementation](http://deat.tk/jazz2/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

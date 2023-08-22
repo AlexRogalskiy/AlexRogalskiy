@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Tropical Storm Hilary brings flash-floods and tornado warnings to southern California – follow live](https://www.theguardian.com/us-news/live/2023/aug/21/tropical-storm-hilary-california-flooding-tornado-warning-national-hurricane-center)
-- [Cotton Capital: The Sea Islands – episode 3 – podcast](https://www.theguardian.com/news/audio/2023/aug/21/cotton-capital-the-sea-islands-episode-3-podcast)
-- [Trump confirms he will skip Republican primary debate](https://www.theguardian.com/us-news/2023/aug/21/donald-trump-republican-debate-fox-news)
-- [Canada wildfires: Trudeau deploys military to tackle blazes across British Columbia](https://www.theguardian.com/world/2023/aug/21/canada-wildfires-trudeau-deploys-military-to-tackle-blazes-across-british-columbia)
-- [Russia-Ukraine war at a glance: what we know on day 544 of the invasion](https://www.theguardian.com/world/2023/aug/21/russia-ukraine-war-at-a-glance-what-we-know-on-day-544-of-the-invasion)
-- [Fine airlines if they fail in legal duty to customers, urges Which?](https://www.theguardian.com/business/2023/aug/20/fine-airlines-legal-duty-customers-flight-cancellations)
-- [Chinese video games are on the rise, but I wish they got more respect](https://www.theguardian.com/games/2023/aug/21/chinese-video-games-are-on-the-rise-but-i-wish-they-got-more-respect)
-- [Trek to the source of the Wharfe: a riverside adventure in Yorkshire](https://www.theguardian.com/travel/2023/aug/21/trek-to-the-source-of-the-wharfe-a-riverside-adventure-in-yorkshire)
-- [Spain’s World Cup-winning goalscorer learned of father’s death after final](https://www.theguardian.com/football/2023/aug/20/spain-world-cup-winning-goalscorer-father-died-after-final-england)
-- [Tropical Storm Hilary brings flooding to California as a quake hits Los Angeles](https://www.theguardian.com/world/2023/aug/20/hurricane-hilary-approaches-california-mexico-climate-crisis)
+- [Cotton Capital: The Brazilian connection – episode 4 – podcast](https://www.theguardian.com/news/audio/2023/aug/22/cotton-capital-the-brazilian-connection-episode-4-podcast)
+- [Bradley Cooper’s prosthetic nose not antisemitic, Anti-Defamation League says](https://www.theguardian.com/film/2023/aug/22/bradley-coopers-prosthetic-nose-maestro-not-antisemitic-anti-defamation-league-says)
+- [Fukushima: wastewater from ruined nuclear plant to be released from Thursday, Japan says](https://www.theguardian.com/environment/2023/aug/22/fukushima-wastewater-from-ruined-nuclear-plant-to-be-released-from-thursday-japan-says)
+- [Donald Trump says he will surrender to Fulton county authorities on Thursday](https://www.theguardian.com/us-news/2023/aug/21/donald-trump-bond-set-fulton-county-georgia)
+- [‘I know nothing can replace the loss’: Biden tours Maui and pledges support](https://www.theguardian.com/us-news/2023/aug/21/joe-jill-biden-hawaii-fires-maui-visit)
+- [Thaksin Shinawatra: anger and anticipation in Thailand as exiled former PM expected to return](https://www.theguardian.com/world/2023/aug/22/thaksin-shinawatra-anger-and-anticipation-in-thailand-as-exiled-former-pm-expected-to-return)
+- [US approves first RSV vaccine for use during pregnancy to protect babies](https://www.theguardian.com/us-news/2023/aug/21/rsv-vaccine-fda-pregnancy)
+- [Wagner making ‘Africa even more free’, says Prigozhin in first post-rebellion video](https://www.theguardian.com/world/2023/aug/22/wagner-prigozhin-recruiting-post-russia-rebellion-video-africa-putin)
+- [Game over: voice of Mario retiring after three decades, Nintendo announces](https://www.theguardian.com/games/2023/aug/22/voice-of-mario-charles-martinet-retires-nintendo)
+- [Russia-Ukraine war at a glance: what we know on day 545 of the invasion](https://www.theguardian.com/world/2023/aug/22/russia-ukraine-war-at-a-glance-what-we-know-on-day-545-of-the-invasion)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

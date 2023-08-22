@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Russia&#39;s Return to the Moon Ends in Disaster as Luna 25 Crashes](https://www.iflscience.com/russias-return-to-the-moon-ends-in-disaster-as-luna-25-crashes-70322)
-- [Different Strategies to Withdraw Retirement Funds](https://staythrive.com/retirement-withdrawal-strategies/)
-- [Lidar on a Chip Puts Self-Driving Cars in the Fast Lane](https://spectrum.ieee.org/lidar-on-a-chip)
-- [Show HN: superwhisper – AI powered offline voice to text for macOS](https://superwhisper.com)
-- [Cancer mortality after low dose exposure to ionising radiation in workers](https://www.iarc.who.int/news-events/cancer-mortality-after-low-dose-exposure-to-ionising-radiation-in-workers-in-france-the-united-kingdom-and-the-united-states-inworks-cohort-study/)
-- [Show HN: Efficiently Query BigQuery and Snowflake from Postgres](https://blog.peerdb.io/efficiently-query-bigquery-and-snowflake-from-postgresql)
-- [Foldimate the Clothing Folding Robot](https://e-foldimate.store/product/foldimate-the-clothing-folding-robot/)
-- [From the MIT GenAI Summit: A Crash Course in Generative AI [video]](https://www.youtube.com/watch?v=f5Cm68GzEDE)
-- [Japan’s ‘miracle town,’ with soaring birthrate amid demographic crisis](https://www.latimes.com/world-nation/story/2023-08-16/japan-miracle-town-birth-rate-depopulation-crisis)
-- [Call center scammers looted $10B last year from U.S. &lpar;2022&rpar;](https://boingboing.net/2022/12/26/call-center-scammers-looted-10bn-last-year-from-u-s.html)
+- [Book Summary: The Molecule of More](https://fagnerbrack.com/book-summary-the-molecule-of-more-how-a-single-chemical-in-your-brain-drives-love-sex-and-fbf0757363ef?gi=d7fb4ed81782)
+- [China hoped Fiji would be a template for the Pacific. Its plan backfired](https://www.washingtonpost.com/world/interactive/2023/china-fiji-police-mou-pacific-islands/)
+- [Compile-Time Checked Truth Tables](https://blog.ploeh.dk/2023/08/21/compile-time-type-checked-truth-tables/)
+- [Aeron – Proof of the benefits of open development](https://www.gresearch.com/blog/article/aeron-proof-of-the-benefits-of-open-development/)
+- [A new carnivorous plant in western North America &lpar;2021&rpar;](https://www.indefenseofplants.com/blog/2021/8/10/the-carnivorous-plant-guild-welcomes-a-new-member)
+- [Folly of Forecasts, Big Short Edition](https://ritholtz.com/2023/08/folly-of-forecasts-big-short-edition/)
+- [UIUCFreeFood: Bot that tells you where the free food is &lpar;Barbie Explainer&rpar;](https://twitter.com/UIUCFreeFood/status/1693801781401190812)
+- [𝕏 will be getting rid of the “Tweepcred” system](https://twitter.com/xDaily/status/1693699458272219323)
+- [The Two Kinds of Progressives](https://www.slowboring.com/p/the-two-kinds-of-progressives)
+- [Banks Don’t Love Rich Mortgage Borrowers as Much as They Used To](https://www.wsj.com/finance/banking/mortgage-jumbo-loan-interest-rates-wealthy-a84e87d3)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

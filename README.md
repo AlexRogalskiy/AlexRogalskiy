@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [My talk with Kris Nova about being homeless. See you on the other side, friend](https://kubecuddle.transistor.fm/episodes/dave-fogle-and-kris-nova)
-- [Useful San Francisco and Bay Area History Resources](https://sfmemory.org/)
-- [Changing its name tanked X&#39;s downloads in App Store and Play Store](https://daringfireball.net/linked/2023/08/19/seufert-x-downloads)
-- [Cell therapy repairs cornea damage with patient&#39;s stem cells gives trial results](https://medicalxpress.com/news/2023-08-cell-therapy-cornea-patient-stem.html)
-- [TimeGuessr: Guess what year a photograph was taken](https://timeguessr.com/)
-- [JSON Schema Store](https://www.schemastore.org/json/)
-- [OpenCopilot – AI Copilot &lpar;sidekick&rpar; for your own SaaS product](https://github.com/openchatai/OpenCopilot)
-- [A raid on a Kansas newspaper likely broke the law, experts say. But which one?](https://abcnews.go.com/US/wireStory/raid-kansas-newspaper-broke-law-experts-102390880)
-- [16-bit Serial Homebrew CPU – 2023](https://www.jiristepanovsky.cz/project.php?p=23cpu)
-- [Jazz² Resurrection: Open-source Jazz Jackrabbit 2 reimplementation](http://deat.tk/jazz2/)
+- [The Cost of Living/Housing Crisis](https://www.metafilter.com/200377/The-Cost-of-Living-Housing-Crisis)
+- [Justpaid.io &lpar;YC W23&rpar; Is Hiring Founding Frontend Engineer](https://www.ycombinator.com/companies/justpaid-io/jobs/oCjZzPi-founding-frontend-engineer-contract-to-hire)
+- [NY Times Rides in Waymo Robotaxis in SF](https://www.nytimes.com/2023/08/21/technology/waymo-driverless-cars-san-francisco.html)
+- [Podman Desktop celebrates 500k downloads](https://blog.podman.io/2023/08/celebrating-500k-downloads-the-podman-desktop-journey-%f0%9f%8e%89/)
+- [Growing share of Americans favor more nuclear power](https://www.pewresearch.org/short-reads/2023/08/18/growing-share-of-americans-favor-more-nuclear-power/)
+- [Ego Death](https://krisnova.net/posts/ego-death/)
+- [Associated Press clarifies standards around generative AI](https://www.niemanlab.org/2023/08/not-a-replacement-of-journalists-in-any-way-ap-clarifies-standards-around-generative-ai/)
+- [uBlock Origin Lite now available on Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin-lite/)
+- [Screen Time at Age 1 Year and Communication, Problem-Solving Developmental Delay](https://jamanetwork.com/journals/jamapediatrics/fullarticle/2808593)
+- [Educational Codebases](https://buttondown.email/hillelwayne/archive/educational-codebases/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

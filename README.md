@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Cotton Capital: The Brazilian connection – episode 4 – podcast](https://www.theguardian.com/news/audio/2023/aug/22/cotton-capital-the-brazilian-connection-episode-4-podcast)
-- [Bradley Cooper’s prosthetic nose not antisemitic, Anti-Defamation League says](https://www.theguardian.com/film/2023/aug/22/bradley-coopers-prosthetic-nose-maestro-not-antisemitic-anti-defamation-league-says)
-- [Fukushima: wastewater from ruined nuclear plant to be released from Thursday, Japan says](https://www.theguardian.com/environment/2023/aug/22/fukushima-wastewater-from-ruined-nuclear-plant-to-be-released-from-thursday-japan-says)
-- [Donald Trump says he will surrender to Fulton county authorities on Thursday](https://www.theguardian.com/us-news/2023/aug/21/donald-trump-bond-set-fulton-county-georgia)
-- [‘I know nothing can replace the loss’: Biden tours Maui and pledges support](https://www.theguardian.com/us-news/2023/aug/21/joe-jill-biden-hawaii-fires-maui-visit)
-- [Thaksin Shinawatra: anger and anticipation in Thailand as exiled former PM expected to return](https://www.theguardian.com/world/2023/aug/22/thaksin-shinawatra-anger-and-anticipation-in-thailand-as-exiled-former-pm-expected-to-return)
-- [US approves first RSV vaccine for use during pregnancy to protect babies](https://www.theguardian.com/us-news/2023/aug/21/rsv-vaccine-fda-pregnancy)
-- [Wagner making ‘Africa even more free’, says Prigozhin in first post-rebellion video](https://www.theguardian.com/world/2023/aug/22/wagner-prigozhin-recruiting-post-russia-rebellion-video-africa-putin)
-- [Game over: voice of Mario retiring after three decades, Nintendo announces](https://www.theguardian.com/games/2023/aug/22/voice-of-mario-charles-martinet-retires-nintendo)
-- [Russia-Ukraine war at a glance: what we know on day 545 of the invasion](https://www.theguardian.com/world/2023/aug/22/russia-ukraine-war-at-a-glance-what-we-know-on-day-545-of-the-invasion)
+- [Cotton Capital: Resistance – episode 5 – podcast](https://www.theguardian.com/news/audio/2023/aug/23/cotton-capital-resistance-episode-5-podcast)
+- [Central Moscow building hit by drone in latest attack on Russian capital](https://www.theguardian.com/world/2023/aug/23/central-moscow-building-hit-by-drone-in-latest-attack-on-russian-capital)
+- [Warnings of scientific ‘suicide’ as US-China research collaboration hangs in balance](https://www.theguardian.com/science/2023/aug/23/us-china-research-collaboration-science-hangs-in-balance)
+- [Austria’s fastest melting glacier gives up decades-old corpse](https://www.theguardian.com/world/2023/aug/23/austrias-fastest-melting-glacier-gives-up-decades-old-corpse)
+- [Elon Musk to strip headlines off news links on Twitter in latest overhaul](https://www.theguardian.com/technology/2023/aug/22/elon-musk-x-twitter-changes-news-links)
+- [PwC partners to be paid £906,000 this year](https://www.theguardian.com/business/2023/aug/22/pwc-partners-to-be-paid-906000-this-year)
+- [Russia-Ukraine war at a glance: what we know on day 546 of the invasion](https://www.theguardian.com/world/2023/aug/23/russia-ukraine-war-at-a-glance-what-we-know-on-day-546-of-the-invasion)
+- [‘Get out of my house!’: Kansas paper co-owner confronted police during raid, video shows](https://www.theguardian.com/us-news/2023/aug/22/kansas-paper-co-owner-confronted-police-during-raid-video-shows)
+- [Cowboys, puppet witches and toilet humour: joyously queer Edinburgh fringe shows](https://www.theguardian.com/stage/2023/aug/23/joyously-queer-shows-at-edinburgh-festival)
+- [British students urged to get meningitis jab to avoid serious illness](https://www.theguardian.com/society/2023/aug/23/british-students-urged-to-get-meningitis-jab-to-avoid-serious-illness)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

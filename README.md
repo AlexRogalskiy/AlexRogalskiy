@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Book Summary: The Molecule of More](https://fagnerbrack.com/book-summary-the-molecule-of-more-how-a-single-chemical-in-your-brain-drives-love-sex-and-fbf0757363ef?gi=d7fb4ed81782)
-- [China hoped Fiji would be a template for the Pacific. Its plan backfired](https://www.washingtonpost.com/world/interactive/2023/china-fiji-police-mou-pacific-islands/)
-- [Compile-Time Checked Truth Tables](https://blog.ploeh.dk/2023/08/21/compile-time-type-checked-truth-tables/)
-- [Aeron – Proof of the benefits of open development](https://www.gresearch.com/blog/article/aeron-proof-of-the-benefits-of-open-development/)
-- [A new carnivorous plant in western North America &lpar;2021&rpar;](https://www.indefenseofplants.com/blog/2021/8/10/the-carnivorous-plant-guild-welcomes-a-new-member)
-- [Folly of Forecasts, Big Short Edition](https://ritholtz.com/2023/08/folly-of-forecasts-big-short-edition/)
-- [UIUCFreeFood: Bot that tells you where the free food is &lpar;Barbie Explainer&rpar;](https://twitter.com/UIUCFreeFood/status/1693801781401190812)
-- [𝕏 will be getting rid of the “Tweepcred” system](https://twitter.com/xDaily/status/1693699458272219323)
-- [The Two Kinds of Progressives](https://www.slowboring.com/p/the-two-kinds-of-progressives)
-- [Banks Don’t Love Rich Mortgage Borrowers as Much as They Used To](https://www.wsj.com/finance/banking/mortgage-jumbo-loan-interest-rates-wealthy-a84e87d3)
+- [Japanese scientists hoping for a message from alien life imminently](https://www.independent.co.uk/space/alien-life-extraterrestrial-japan-message-altair-b2396736.html)
+- [Ask HN: Nicknames for Computer Science Books?](https://news.ycombinator.com/item?id=37230995)
+- [Beeper: All your chats in one app](https://www.beeper.com)
+- [3D-printed toilet is so slippery that nothing can leave a mark](https://www.newscientist.com/article/2388226-3d-printed-toilet-is-so-slippery-that-nothing-can-leave-a-mark/)
+- [Mastering Emacs](https://www.masteringemacs.org/)
+- [What Happened to Wirecutter?](https://www.theatlantic.com/technology/archive/2023/08/wirecutter-recommendations-worse-new-york-times/675075/)
+- [Context Collapse with Beeper](https://cubicgarden.com/2023/08/23/context-collapse-with-beeper/)
+- [Microsoft&#39;s Largest Piece of Software Weighed More Than 40 Pounds](https://uk.pcmag.com/software-services/142212/microsofts-largest-piece-of-software-weighed-more-than-40-pounds)
+- [Screen Time Linked to Delayed Development in Babies, Study Finds](https://www.nytimes.com/2023/08/21/health/screen-time-developmental-delays-babies.html)
+- [OneDiffusion](https://github.com/bentoml/OneDiffusion)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

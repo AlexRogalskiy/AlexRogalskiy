@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The Cost of Living/Housing Crisis](https://www.metafilter.com/200377/The-Cost-of-Living-Housing-Crisis)
-- [Justpaid.io &lpar;YC W23&rpar; Is Hiring Founding Frontend Engineer](https://www.ycombinator.com/companies/justpaid-io/jobs/oCjZzPi-founding-frontend-engineer-contract-to-hire)
-- [NY Times Rides in Waymo Robotaxis in SF](https://www.nytimes.com/2023/08/21/technology/waymo-driverless-cars-san-francisco.html)
-- [Podman Desktop celebrates 500k downloads](https://blog.podman.io/2023/08/celebrating-500k-downloads-the-podman-desktop-journey-%f0%9f%8e%89/)
-- [Growing share of Americans favor more nuclear power](https://www.pewresearch.org/short-reads/2023/08/18/growing-share-of-americans-favor-more-nuclear-power/)
-- [Ego Death](https://krisnova.net/posts/ego-death/)
-- [Associated Press clarifies standards around generative AI](https://www.niemanlab.org/2023/08/not-a-replacement-of-journalists-in-any-way-ap-clarifies-standards-around-generative-ai/)
-- [uBlock Origin Lite now available on Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin-lite/)
-- [Screen Time at Age 1 Year and Communication, Problem-Solving Developmental Delay](https://jamanetwork.com/journals/jamapediatrics/fullarticle/2808593)
-- [Educational Codebases](https://buttondown.email/hillelwayne/archive/educational-codebases/)
+- [What Happened to Wirecutter?](https://www.theatlantic.com/technology/archive/2023/08/wirecutter-recommendations-worse-new-york-times/675075/)
+- [AdNauseam: uBlock Origin fork silently clicking ads on behalf of users](https://github.com/dhowe/AdNauseam)
+- [Eye scans detect signs of Parkinson’s disease up to seven years before diagnosis](https://www.moorfields.nhs.uk/news/eye-scans-detect-signs-parkinson-s-disease-seven-years-diagnosis)
+- [My SSD suddenly died. I only lost 10 minutes of data, thanks to ZFS](https://mastodon.social/@chromakode/110936177254839251)
+- [Dashworks is hiring ML and fullstack engineers](https://www.dashworks.ai/company#jobs)
+- [OpenSAFELY is a secure, open-source platform for analysis of health records data](https://www.opensafely.org/about/#core-design-features-for-privacy-transparency-and-open-working)
+- [Skiff – Privacy-first end-to-end encrypted email](https://skiff.com)
+- [PostgreSQL Lock Conflicts](https://pglocks.org/)
+- [An Old Conjecture Falls, Making Spheres a Lot More Complicated](https://www.quantamagazine.org/an-old-conjecture-falls-making-spheres-a-lot-more-complicated-20230822/)
+- [When Trucks Fly](https://www.newyorker.com/magazine/2023/08/21/when-trucks-fly)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

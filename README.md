@@ -355,6 +355,8 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Windows on Mac improves for professional environments](https://www.computerworld.com/article/3705037/windows-on-mac-improves-for-professional-environments.html#tk.rss_all)
+- [The line-blurring brilliance of Google&#39;s new ChromeOS-Windows connection](https://www.computerworld.com/article/3704991/google-chromeos-windows-connection.html#tk.rss_all)
 - [macOS Sonoma beta hints DFU boost for Mac admins](https://www.computerworld.com/article/3705209/macos-sonoma-beta-hints-dfu-boost-for-mac-admins.html#tk.rss_all)
 - [Why and how to create corporate genAI policies](https://www.computerworld.com/article/3705028/why-and-how-to-create-corporate-generative-ai-policies.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
@@ -363,8 +365,6 @@
 - [Meta employees who flout new return-to-office mandate face termination](https://www.computerworld.com/article/3705093/meta-employees-who-flout-new-return-to-office-mandate-face-termination.html#tk.rss_all)
 - [Google Workspace tips and tutorials](https://www.computerworld.com/article/3704811/how-to-use-google-workspace-tips-tutorials-cheat-sheets.html#tk.rss_all)
 - [Q&amp;A: How VR can automate delivery of mental health treatment](https://www.computerworld.com/article/3704616/how-vr-can-automate-delivery-of-mental-health-treatment.html#tk.rss_all)
-- [How old Facebook plus new AI could save remote work](https://www.computerworld.com/article/3705092/how-old-facebook-plus-new-ai-could-save-remote-work.html#tk.rss_all)
-- [OpenAI to use GPT-4 LLM for content moderation, warns against bias](https://www.computerworld.com/article/3704618/openai-to-use-gpt-4-llm-for-content-moderation-warns-against-bias.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Cotton Capital: Resistance – episode 5 – podcast](https://www.theguardian.com/news/audio/2023/aug/23/cotton-capital-resistance-episode-5-podcast)
-- [Central Moscow building hit by drone in latest attack on Russian capital](https://www.theguardian.com/world/2023/aug/23/central-moscow-building-hit-by-drone-in-latest-attack-on-russian-capital)
-- [Warnings of scientific ‘suicide’ as US-China research collaboration hangs in balance](https://www.theguardian.com/science/2023/aug/23/us-china-research-collaboration-science-hangs-in-balance)
-- [Austria’s fastest melting glacier gives up decades-old corpse](https://www.theguardian.com/world/2023/aug/23/austrias-fastest-melting-glacier-gives-up-decades-old-corpse)
-- [Elon Musk to strip headlines off news links on Twitter in latest overhaul](https://www.theguardian.com/technology/2023/aug/22/elon-musk-x-twitter-changes-news-links)
-- [PwC partners to be paid £906,000 this year](https://www.theguardian.com/business/2023/aug/22/pwc-partners-to-be-paid-906000-this-year)
-- [Russia-Ukraine war at a glance: what we know on day 546 of the invasion](https://www.theguardian.com/world/2023/aug/23/russia-ukraine-war-at-a-glance-what-we-know-on-day-546-of-the-invasion)
-- [‘Get out of my house!’: Kansas paper co-owner confronted police during raid, video shows](https://www.theguardian.com/us-news/2023/aug/22/kansas-paper-co-owner-confronted-police-during-raid-video-shows)
-- [Cowboys, puppet witches and toilet humour: joyously queer Edinburgh fringe shows](https://www.theguardian.com/stage/2023/aug/23/joyously-queer-shows-at-edinburgh-festival)
-- [British students urged to get meningitis jab to avoid serious illness](https://www.theguardian.com/society/2023/aug/23/british-students-urged-to-get-meningitis-jab-to-avoid-serious-illness)
+- [Republicans spar over abortion, climate crisis and with each other as Trump absent – live](https://www.theguardian.com/us-news/live/2023/aug/23/republican-presidential-debate-2023-candidates-trump-tucker-live-updates)
+- [Cotton Capital: Reparations – episode 6 – podcast](https://www.theguardian.com/news/audio/2023/aug/24/cotton-capital-reparations-episode-6-podcast)
+- [Chipmaker Nvidia crushes quarterly expectations with $13.5bn in revenue](https://www.theguardian.com/business/2023/aug/23/chipmaker-nvidia-quarterly-report-135bn-revenue-1tn-valuation)
+- [North Korea fails in second attempt to launch spy satellite as rocket crashes into sea](https://www.theguardian.com/world/2023/aug/24/north-korea-fails-in-second-attempt-to-launch-spy-satellite-as-rocket-crashes-into-sea)
+- [Spanish football president in kissing row denies new misogyny allegations](https://www.theguardian.com/football/2023/aug/24/spanish-football-president-in-kissing-row-denies-new-misogyny-allegations)
+- [Probation service pays undisclosed sum to ex-contractor after racial harassment](https://www.theguardian.com/society/2023/aug/24/prison-service-pays-undisclosed-sum-to-ex-contractor-lloyd-odain-over-racial-harassment)
+- [Women with ME tend to have more symptoms than men, study suggests](https://www.theguardian.com/society/2023/aug/24/women-with-me-tend-to-have-more-symptoms-than-men-study-suggests)
+- [Nice calls for routine use of at-home faeces tests for bowel cancer screening](https://www.theguardian.com/society/2023/aug/24/nice-at-home-faeces-tests-bowel-cancer-colorectal-nhs-waiting-times-colonoscopy)
+- [Ofcom urged to investigate Virgin Media broadband contracts](https://www.theguardian.com/media/2023/aug/24/virgin-media-broadband-contract-ofcom-urged-investigate-consumer-group-which)
+- [Files reveal terms ministers were warned not to use in Northern Ireland](https://www.theguardian.com/uk-news/2023/aug/24/files-reveal-terms-ministers-were-warned-not-to-use-in-northern-ireland)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

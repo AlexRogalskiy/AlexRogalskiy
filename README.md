@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [What Happened to Wirecutter?](https://www.theatlantic.com/technology/archive/2023/08/wirecutter-recommendations-worse-new-york-times/675075/)
-- [AdNauseam: uBlock Origin fork silently clicking ads on behalf of users](https://github.com/dhowe/AdNauseam)
-- [Eye scans detect signs of Parkinson’s disease up to seven years before diagnosis](https://www.moorfields.nhs.uk/news/eye-scans-detect-signs-parkinson-s-disease-seven-years-diagnosis)
-- [My SSD suddenly died. I only lost 10 minutes of data, thanks to ZFS](https://mastodon.social/@chromakode/110936177254839251)
-- [Dashworks is hiring ML and fullstack engineers](https://www.dashworks.ai/company#jobs)
-- [OpenSAFELY is a secure, open-source platform for analysis of health records data](https://www.opensafely.org/about/#core-design-features-for-privacy-transparency-and-open-working)
-- [Skiff – Privacy-first end-to-end encrypted email](https://skiff.com)
-- [PostgreSQL Lock Conflicts](https://pglocks.org/)
-- [An Old Conjecture Falls, Making Spheres a Lot More Complicated](https://www.quantamagazine.org/an-old-conjecture-falls-making-spheres-a-lot-more-complicated-20230822/)
-- [When Trucks Fly](https://www.newyorker.com/magazine/2023/08/21/when-trucks-fly)
+- [Bun v0.8](https://bun.sh/blog/bun-v0.8.0)
+- [Use web components for what they’re good at](https://nolanlawson.com/2023/08/23/use-web-components-for-what-theyre-good-at/)
+- [The median return of 2022&#39;s SPAC mergers: -82%](https://pranshum.yarn.tech/24dade67-68e3-4e18-b597-94acfab46a61)
+- [Princeton ‘AI Snake Oil’ authors say GenAI hype has ‘spiraled out of control’](https://venturebeat.com/ai/princeton-university-ai-snake-oil-professors-say-generative-ai-hype-has-spiraled-out-of-control/)
+- [Pytudes](https://github.com/norvig/pytudes)
+- [Life on board a British nuclear submarine &lpar;2012&rpar;](https://www.theguardian.com/uk/2012/aug/21/life-on-board-nuclear-submarine)
+- [Nvidia Announces Financial Results for Second Quarter Fiscal 2024](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2024)
+- [The Early History of Counting](https://www.laphamsquarterly.org/roundtable/early-history-counting)
+- [Show HN: Dataherald AI – Natural Language to SQL Engine](https://github.com/Dataherald/dataherald)
+- [An excruciatingly detailed guide to SSH &lpar;but only the things I find useful&rpar;](https://grahamhelton.com/blog/ssh-cheatsheet/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

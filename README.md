@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Japanese scientists hoping for a message from alien life imminently](https://www.independent.co.uk/space/alien-life-extraterrestrial-japan-message-altair-b2396736.html)
-- [Ask HN: Nicknames for Computer Science Books?](https://news.ycombinator.com/item?id=37230995)
-- [Beeper: All your chats in one app](https://www.beeper.com)
-- [3D-printed toilet is so slippery that nothing can leave a mark](https://www.newscientist.com/article/2388226-3d-printed-toilet-is-so-slippery-that-nothing-can-leave-a-mark/)
-- [Mastering Emacs](https://www.masteringemacs.org/)
-- [What Happened to Wirecutter?](https://www.theatlantic.com/technology/archive/2023/08/wirecutter-recommendations-worse-new-york-times/675075/)
-- [Context Collapse with Beeper](https://cubicgarden.com/2023/08/23/context-collapse-with-beeper/)
-- [Microsoft&#39;s Largest Piece of Software Weighed More Than 40 Pounds](https://uk.pcmag.com/software-services/142212/microsofts-largest-piece-of-software-weighed-more-than-40-pounds)
-- [Screen Time Linked to Delayed Development in Babies, Study Finds](https://www.nytimes.com/2023/08/21/health/screen-time-developmental-delays-babies.html)
-- [OneDiffusion](https://github.com/bentoml/OneDiffusion)
+- [The SQLite Query Optimizer Overview](https://www.sqlite.org/optoverview.html)
+- [FBI Finds 1,580 Bitcoin in Crypto Wallets Linked to North Korean Hackers](https://www.securityweek.com/fbi-finds-1580-bitcoin-in-crypto-wallets-linked-to-north-korean-hackers/)
+- [FBI: North Korean hackers transferred $40M in stolen cryptocurrency funds](https://www.scmagazine.com/news/fbi-north-korean-hackers-have-looted-40-million-in-cryptocurrency-over-the-past-24-hours)
+- [NYC Airbnb Hosts Scrub Listings Ahead of New Rules](https://www.pymnts.com/real-estate/2023/nyc-airbnb-hosts-scrub-listings-ahead-of-new-rules/)
+- [Apple decides to support Right to Repair Act bill in California](https://9to5mac.com/2023/08/23/apple-support-right-to-repair/)
+- [VMware hopes to spend $1B Broadcom R&amp;D budget boost](https://www.theregister.com/2023/08/24/vmware_broadcom_research_funding_plan/)
+- [YouTube may face billions in fines if FTC confirms child privacy violations](https://arstechnica.com/tech-policy/2023/08/youtube-may-face-billions-in-fines-if-ftc-confirms-child-privacy-violations/)
+- [Python is coming to Microsoft Excel to help solve all your queries](https://www.techradar.com/pro/microsoft-excel-is-getting-python-to-help-solve-all-your-queries)
+- [Japan to release Fukushima water into ocean from Aug. 24](https://www.reuters.com/world/asia-pacific/japan-release-fukushima-water-into-ocean-starting-aug-24-2023-08-22/)
+- [Science of Crowd Control [video]](https://www.youtube.com/watch?v=C_B09FZwSbA)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

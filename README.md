@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [China reportedly paying big bonuses for semiconductor expertise](https://www.computerworld.com/article/3705492/china-reportedly-paying-big-bonuses-for-semiconductor-expertise.html#tk.rss_all)
+- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
+- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
+- [Now that Apple supports Right to Repair, everyone else should, too](https://www.computerworld.com/article/3705491/now-that-apple-supports-right-to-repair-everyone-else-should-too.html#tk.rss_all)
+- [18 Microsoft Teams apps for content collaboration and management](https://www.computerworld.com/article/3704133/microsoft-teams-apps-content-collaboration-management.html#tk.rss_all)
 - [Why you should pay attention to Arm’s looming IPO](https://www.computerworld.com/article/3705054/why-you-should-pay-attention-to-arm-s-looming-ipo.html#tk.rss_all)
 - [Huawei is attempting to avoid US chip sanctions, trade body alleges](https://www.computerworld.com/article/3705212/huawei-is-attempting-to-avoid-us-chip-sanctions-trade-body-alleges.html#tk.rss_all)
 - [Microsoft launches native integration for Python in Excel](https://www.computerworld.com/article/3705211/microsoft-launches-native-integration-for-python-in-excel.html#tk.rss_all)
 - [The most in-demand AI skills — and how companies want to use them](https://www.computerworld.com/article/3705095/the-most-in-demand-ai-skills-and-how-companies-want-to-use-them.html#tk.rss_all)
 - [Windows on Mac improves for professional environments](https://www.computerworld.com/article/3705037/windows-on-mac-improves-for-professional-environments.html#tk.rss_all)
-- [The line-blurring brilliance of Google&#39;s new ChromeOS-Windows connection](https://www.computerworld.com/article/3704991/google-chromeos-windows-connection.html#tk.rss_all)
-- [macOS Sonoma beta hints DFU boost for Mac admins](https://www.computerworld.com/article/3705209/macos-sonoma-beta-hints-dfu-boost-for-mac-admins.html#tk.rss_all)
-- [Why and how to create corporate genAI policies](https://www.computerworld.com/article/3705028/why-and-how-to-create-corporate-generative-ai-policies.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [What is the Mac Evaluation Utility tool?](https://www.computerworld.com/article/3705109/what-is-mac-evaluation-utility-tool.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

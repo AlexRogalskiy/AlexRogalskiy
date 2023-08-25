@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Republicans spar over abortion, climate crisis and with each other as Trump absent – live](https://www.theguardian.com/us-news/live/2023/aug/23/republican-presidential-debate-2023-candidates-trump-tucker-live-updates)
-- [Cotton Capital: Reparations – episode 6 – podcast](https://www.theguardian.com/news/audio/2023/aug/24/cotton-capital-reparations-episode-6-podcast)
-- [Chipmaker Nvidia crushes quarterly expectations with $13.5bn in revenue](https://www.theguardian.com/business/2023/aug/23/chipmaker-nvidia-quarterly-report-135bn-revenue-1tn-valuation)
-- [North Korea fails in second attempt to launch spy satellite as rocket crashes into sea](https://www.theguardian.com/world/2023/aug/24/north-korea-fails-in-second-attempt-to-launch-spy-satellite-as-rocket-crashes-into-sea)
-- [Spanish football president in kissing row denies new misogyny allegations](https://www.theguardian.com/football/2023/aug/24/spanish-football-president-in-kissing-row-denies-new-misogyny-allegations)
-- [Probation service pays undisclosed sum to ex-contractor after racial harassment](https://www.theguardian.com/society/2023/aug/24/prison-service-pays-undisclosed-sum-to-ex-contractor-lloyd-odain-over-racial-harassment)
-- [Women with ME tend to have more symptoms than men, study suggests](https://www.theguardian.com/society/2023/aug/24/women-with-me-tend-to-have-more-symptoms-than-men-study-suggests)
-- [Nice calls for routine use of at-home faeces tests for bowel cancer screening](https://www.theguardian.com/society/2023/aug/24/nice-at-home-faeces-tests-bowel-cancer-colorectal-nhs-waiting-times-colonoscopy)
-- [Ofcom urged to investigate Virgin Media broadband contracts](https://www.theguardian.com/media/2023/aug/24/virgin-media-broadband-contract-ofcom-urged-investigate-consumer-group-which)
-- [Files reveal terms ministers were warned not to use in Northern Ireland](https://www.theguardian.com/uk-news/2023/aug/24/files-reveal-terms-ministers-were-warned-not-to-use-in-northern-ireland)
+- [Revisited: Trafficked: the trap – part one – podcast](https://www.theguardian.com/news/audio/2023/aug/25/revisited-trafficked-the-trap-part-one-podcast)
+- [Donald Trump mugshot released after former US president surrenders at Fulton jail over election charges – live](https://www.theguardian.com/us-news/live/2023/aug/24/trump-georgia-fulton-rally-republican-debate-politics-live-updates)
+- [Claude Ruiz Picasso, youngest son of Spanish artist, dies aged 76](https://www.theguardian.com/artanddesign/2023/aug/25/claude-ruiz-picasso-youngest-son-death-76)
+- [New York Times, CNN and ABC block OpenAI’s GPTBot web crawler from accessing content](https://www.theguardian.com/technology/2023/aug/25/new-york-times-cnn-and-abc-block-openais-gptbot-web-crawler-from-scraping-content)
+- [US to start training Ukrainian pilots on F-16 fighter jets in October](https://www.theguardian.com/world/2023/aug/25/us-train-ukrainian-pilots-f-16-fighter-jets-ukraine-russia-war)
+- [Burna Boy: I Told Them review | Alexis Petridis&#39;s album of the week](https://www.theguardian.com/music/2023/aug/24/burna-boy-i-told-them-review-afrobeats-superstar-punches-closer-to-the-mainstream)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/blog/2023/aug/25/premier-league-10-things-to-look-out-for-this-weekend)
+- [Amputating Alice review – a surprisingly jaunty look at an extremely likable Paralympian](https://www.theguardian.com/tv-and-radio/2023/aug/24/amputating-alice-review-paralympian-alice-tai-channel-4-documentary)
+- [Digestion issues could be warning sign of Parkinson’s disease, research suggests](https://www.theguardian.com/society/2023/aug/24/digestion-issues-could-be-warning-sign-of-parkinsons-disease-research-suggests)
+- [Dementia risk study finds 11 key factors behind condition](https://www.theguardian.com/society/2023/aug/24/dementia-risk-study-finds-11-key-factors-behind-condition)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

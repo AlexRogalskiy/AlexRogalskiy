@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The SQLite Query Optimizer Overview](https://www.sqlite.org/optoverview.html)
-- [FBI Finds 1,580 Bitcoin in Crypto Wallets Linked to North Korean Hackers](https://www.securityweek.com/fbi-finds-1580-bitcoin-in-crypto-wallets-linked-to-north-korean-hackers/)
-- [FBI: North Korean hackers transferred $40M in stolen cryptocurrency funds](https://www.scmagazine.com/news/fbi-north-korean-hackers-have-looted-40-million-in-cryptocurrency-over-the-past-24-hours)
-- [NYC Airbnb Hosts Scrub Listings Ahead of New Rules](https://www.pymnts.com/real-estate/2023/nyc-airbnb-hosts-scrub-listings-ahead-of-new-rules/)
-- [Apple decides to support Right to Repair Act bill in California](https://9to5mac.com/2023/08/23/apple-support-right-to-repair/)
-- [VMware hopes to spend $1B Broadcom R&amp;D budget boost](https://www.theregister.com/2023/08/24/vmware_broadcom_research_funding_plan/)
-- [YouTube may face billions in fines if FTC confirms child privacy violations](https://arstechnica.com/tech-policy/2023/08/youtube-may-face-billions-in-fines-if-ftc-confirms-child-privacy-violations/)
-- [Python is coming to Microsoft Excel to help solve all your queries](https://www.techradar.com/pro/microsoft-excel-is-getting-python-to-help-solve-all-your-queries)
-- [Japan to release Fukushima water into ocean from Aug. 24](https://www.reuters.com/world/asia-pacific/japan-release-fukushima-water-into-ocean-starting-aug-24-2023-08-22/)
-- [Science of Crowd Control [video]](https://www.youtube.com/watch?v=C_B09FZwSbA)
+- [Algebraic Topology for Data Scientists](https://arxiv.org/abs/2308.10825)
+- [Most Competent and Reliable Crypto Recovery Expert; Captain WebGenesis](https://captainwebgenesis.com/index.html)
+- [Writing safe-to-use Go libraries](https://blog.orsinium.dev/posts/go/safe-api/)
+- [America is building chip factories. Now to find the workers](https://www.economist.com/united-states/2023/08/05/america-is-building-chip-factories-now-to-find-the-workers)
+- [Former President Donald Trump’s Mug Shot](https://petapixel.com/2023/08/24/this-is-former-president-donald-trumps-mug-shot/)
+- [Microsoft makes some certification exams open book](https://www.theregister.com/2023/08/25/microsoft_certification_exams_to_become/)
+- [Block the Bots That Feed “AI” Models by Scraping Your Website](https://neil-clarke.com/block-the-bots-that-feed-ai-models-by-scraping-your-website/)
+- [AI Forecasting: Two Years In](https://bounded-regret.ghost.io/scoring-ml-forecasts-for-2023/)
+- [Originals: It&#39;s Not the Ideas You Create, It&#39;s Which Ones You Choose](https://www.inc.com/leigh-buchanan/adam-grant-originals-book-review.html)
+- [Ask HN: What Makes a Great To-Do App? Your Ideas?](https://news.ycombinator.com/item?id=37256920)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

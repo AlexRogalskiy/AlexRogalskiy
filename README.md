@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Bun v0.8](https://bun.sh/blog/bun-v0.8.0)
-- [Use web components for what they’re good at](https://nolanlawson.com/2023/08/23/use-web-components-for-what-theyre-good-at/)
-- [The median return of 2022&#39;s SPAC mergers: -82%](https://pranshum.yarn.tech/24dade67-68e3-4e18-b597-94acfab46a61)
-- [Princeton ‘AI Snake Oil’ authors say GenAI hype has ‘spiraled out of control’](https://venturebeat.com/ai/princeton-university-ai-snake-oil-professors-say-generative-ai-hype-has-spiraled-out-of-control/)
-- [Pytudes](https://github.com/norvig/pytudes)
-- [Life on board a British nuclear submarine &lpar;2012&rpar;](https://www.theguardian.com/uk/2012/aug/21/life-on-board-nuclear-submarine)
-- [Nvidia Announces Financial Results for Second Quarter Fiscal 2024](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2024)
-- [The Early History of Counting](https://www.laphamsquarterly.org/roundtable/early-history-counting)
-- [Show HN: Dataherald AI – Natural Language to SQL Engine](https://github.com/Dataherald/dataherald)
-- [An excruciatingly detailed guide to SSH &lpar;but only the things I find useful&rpar;](https://grahamhelton.com/blog/ssh-cheatsheet/)
+- [Understanding Automatic Differentiation in 30 lines of Python](https://vmartin.fr/understanding-automatic-differentiation-in-30-lines-of-python.html)
+- [Research Suggests Politicians Are More Likely to Be Psychopaths](https://www.smithsonianmag.com/smart-news/research-suggests-politicians-are-more-likely-to-be-psychopaths-11364143/)
+- [Paper and bamboo straws contain PFAS chemicals more often than plastic straws do](https://www.nbcnews.com/health/health-news/paper-bamboo-straws-contain-pfas-forever-chemicals-rcna101614)
+- [Record low sea ice led to catastrophic breeding failure of emperor penguins](https://www.nature.com/articles/s43247-023-00927-x)
+- [OpenAI now tries to hide that ChatGPT was trained on copyrighted books](https://www.businessinsider.com/openais-latest-chatgpt-version-hides-training-on-copyrighted-material-2023-8)
+- [My experience contributing to HashiCorp open-source projects](https://discuss.hashicorp.com/t/updating-contributing-md/46186)
+- [Ig Nobel Prize Winner Higashiyama Atsuki and the “Between-Legs Effect” Mystery](https://www.nippon.com/en/japan-topics/c12403/)
+- [An image preprocessing tool to protect artworks from AI-for-Art based mimicry](https://mist-project.github.io/index_en.html)
+- [Proof-of-Work Defense for Onion Services](https://blog.torproject.org/introducing-proof-of-work-defense-for-onion-services/)
+- [SQLite 3.43](https://sqlite.org/releaselog/3_43_0.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

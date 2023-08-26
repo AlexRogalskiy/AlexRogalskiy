@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Revisited: Trafficked: the trap – part one – podcast](https://www.theguardian.com/news/audio/2023/aug/25/revisited-trafficked-the-trap-part-one-podcast)
-- [Donald Trump mugshot released after former US president surrenders at Fulton jail over election charges – live](https://www.theguardian.com/us-news/live/2023/aug/24/trump-georgia-fulton-rally-republican-debate-politics-live-updates)
-- [Claude Ruiz Picasso, youngest son of Spanish artist, dies aged 76](https://www.theguardian.com/artanddesign/2023/aug/25/claude-ruiz-picasso-youngest-son-death-76)
-- [New York Times, CNN and ABC block OpenAI’s GPTBot web crawler from accessing content](https://www.theguardian.com/technology/2023/aug/25/new-york-times-cnn-and-abc-block-openais-gptbot-web-crawler-from-scraping-content)
-- [US to start training Ukrainian pilots on F-16 fighter jets in October](https://www.theguardian.com/world/2023/aug/25/us-train-ukrainian-pilots-f-16-fighter-jets-ukraine-russia-war)
-- [Burna Boy: I Told Them review | Alexis Petridis&#39;s album of the week](https://www.theguardian.com/music/2023/aug/24/burna-boy-i-told-them-review-afrobeats-superstar-punches-closer-to-the-mainstream)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/blog/2023/aug/25/premier-league-10-things-to-look-out-for-this-weekend)
-- [Amputating Alice review – a surprisingly jaunty look at an extremely likable Paralympian](https://www.theguardian.com/tv-and-radio/2023/aug/24/amputating-alice-review-paralympian-alice-tai-channel-4-documentary)
-- [Digestion issues could be warning sign of Parkinson’s disease, research suggests](https://www.theguardian.com/society/2023/aug/24/digestion-issues-could-be-warning-sign-of-parkinsons-disease-research-suggests)
-- [Dementia risk study finds 11 key factors behind condition](https://www.theguardian.com/society/2023/aug/24/dementia-risk-study-finds-11-key-factors-behind-condition)
+- [Revisited: Trafficked: the closed door – part  two – podcast](https://www.theguardian.com/news/audio/2023/aug/26/revisited-trafficked-closed-door-part-two-podcast)
+- [Niger coup leaders give French ambassador 48 hours to leave country](https://www.theguardian.com/world/2023/aug/26/niger-coup-leaders-give-french-ambassador-48-hours-to-leave-country)
+- [Russia-Ukraine war at a glance: what we know on day 549 of the invasion](https://www.theguardian.com/world/2023/aug/26/russia-ukraine-war-at-a-glance-what-we-know-on-day-549-of-the-invasion)
+- [Louisiana residents told to ‘get out now’ in face of sweeping wildfire](https://www.theguardian.com/us-news/2023/aug/25/louisiana-wildfire-tiger-island-fire-evacuation)
+- [Drivers warned of copycat websites overcharging for Ulez fee](https://www.theguardian.com/environment/2023/aug/26/drivers-warned-of-copycat-websites-overcharging-for-ulez-fee)
+- [‘I felt the victim of aggression, a sexist act’ – Jenni Hermoso’s statement in full](https://www.theguardian.com/football/2023/aug/25/i-felt-the-victim-of-aggression-a-sexist-act-jenni-hermosos-statement-in-full)
+- [Pegula expresses doubts as WTA considers moving Finals to Saudi Arabia](https://www.theguardian.com/sport/2023/aug/25/pegula-expresses-doubts-as-wta-considers-moving-finals-to-saudi-arabia)
+- [USA’s Lyles adds 200m world title to 100m and wants to ‘transcend the sport’](https://www.theguardian.com/sport/2023/aug/25/world-athletics-championships-mens-200m-noah-lyles-zharnel-hughes)
+- [Texas judge blocks ban on gender-affirming medical care for minors](https://www.theguardian.com/world/2023/aug/25/texas-gender-affirming-care-judge)
+- [Madagascar: 12 killed in crush at Indian Ocean Island Games opening ceremony](https://www.theguardian.com/world/2023/aug/25/madagascar-killed-in-crush-at-indian-ocean-island-games-opening-ceremony)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

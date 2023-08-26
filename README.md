@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Algebraic Topology for Data Scientists](https://arxiv.org/abs/2308.10825)
-- [Most Competent and Reliable Crypto Recovery Expert; Captain WebGenesis](https://captainwebgenesis.com/index.html)
-- [Writing safe-to-use Go libraries](https://blog.orsinium.dev/posts/go/safe-api/)
-- [America is building chip factories. Now to find the workers](https://www.economist.com/united-states/2023/08/05/america-is-building-chip-factories-now-to-find-the-workers)
-- [Former President Donald Trump’s Mug Shot](https://petapixel.com/2023/08/24/this-is-former-president-donald-trumps-mug-shot/)
-- [Microsoft makes some certification exams open book](https://www.theregister.com/2023/08/25/microsoft_certification_exams_to_become/)
-- [Block the Bots That Feed “AI” Models by Scraping Your Website](https://neil-clarke.com/block-the-bots-that-feed-ai-models-by-scraping-your-website/)
-- [AI Forecasting: Two Years In](https://bounded-regret.ghost.io/scoring-ml-forecasts-for-2023/)
-- [Originals: It&#39;s Not the Ideas You Create, It&#39;s Which Ones You Choose](https://www.inc.com/leigh-buchanan/adam-grant-originals-book-review.html)
-- [Ask HN: What Makes a Great To-Do App? Your Ideas?](https://news.ycombinator.com/item?id=37256920)
+- [Fyre Festival 2 tickets on sale and customers are buying](https://abcnews.go.com/Business/fyre-festival-2-tickets-sale-customers-buying-disgraced/story?id=102479217)
+- [Alfa Romeo Badge and Emblem History: What&#39;s with the Snake?](https://www.motortrend.com/news/alfa-romeo-badge-emblem-logo-history-meaning/)
+- [MicroZed Chronicles: A weekly blog exploring aspects of FPGA design](https://www.adiuvoengineering.com/microzed-chronicles-archive)
+- [Apple’s Foray into Streaming](https://thespectator.com/book-and-art/apple-foray-into-streaming-apple-tv/)
+- [Micromort](https://en.wikipedia.org/wiki/Micromort)
+- [The Ubiquitous B-Tree &lpar;1979&rpar; [pdf]](http://carlosproal.com/ir/papers/p121-comer.pdf)
+- [Initial Impressions of Microsoft Olive](https://zhenghaotan.com/blog/initial-impressions-of-msft-olive)
+- [How can OpenAI improve GPT-4 and GPT 3.5?](https://old.reddit.com/r/ChatGPT/comments/161htpk/how_can_openai_improve_gpt4_and_gpt_35/)
+- [Ask HN: Who uses ChatGPT more than Google?](https://news.ycombinator.com/item?id=37269178)
+- [Porting Stunt Car Racer to the Commodore Plus/4](https://cobbpg.github.io/articles/stunt-car-racer-plus4-port.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

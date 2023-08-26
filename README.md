@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Understanding Automatic Differentiation in 30 lines of Python](https://vmartin.fr/understanding-automatic-differentiation-in-30-lines-of-python.html)
-- [Research Suggests Politicians Are More Likely to Be Psychopaths](https://www.smithsonianmag.com/smart-news/research-suggests-politicians-are-more-likely-to-be-psychopaths-11364143/)
-- [Paper and bamboo straws contain PFAS chemicals more often than plastic straws do](https://www.nbcnews.com/health/health-news/paper-bamboo-straws-contain-pfas-forever-chemicals-rcna101614)
-- [Record low sea ice led to catastrophic breeding failure of emperor penguins](https://www.nature.com/articles/s43247-023-00927-x)
-- [OpenAI now tries to hide that ChatGPT was trained on copyrighted books](https://www.businessinsider.com/openais-latest-chatgpt-version-hides-training-on-copyrighted-material-2023-8)
-- [My experience contributing to HashiCorp open-source projects](https://discuss.hashicorp.com/t/updating-contributing-md/46186)
-- [Ig Nobel Prize Winner Higashiyama Atsuki and the “Between-Legs Effect” Mystery](https://www.nippon.com/en/japan-topics/c12403/)
-- [An image preprocessing tool to protect artworks from AI-for-Art based mimicry](https://mist-project.github.io/index_en.html)
-- [Proof-of-Work Defense for Onion Services](https://blog.torproject.org/introducing-proof-of-work-defense-for-onion-services/)
-- [SQLite 3.43](https://sqlite.org/releaselog/3_43_0.html)
+- [Why the US is one of only a few countries with no paid time off](https://www.vox.com/policy-and-politics/2019/12/24/21035628/new-york-paid-time-off)
+- [Generally Intelligent &lpar;YC S17&rpar; is hiring research scientists](https://news.ycombinator.com/item?id=37268923)
+- [We are not empty: The concept of the atomic void is a mistake](https://aeon.co/essays/why-the-empty-atom-picture-misunderstands-quantum-theory)
+- [Training immune cells to remove ‘trash’ helps resolve lung inflammation](https://today.uic.edu/immune-cells-acute-lung-injury/)
+- [Sidewalk Garden](https://zachklein.com/Sidewalk+Garden)
+- [Deep Neural Nets: 33 years ago and 33 years from now &lpar;2022&rpar;](http://karpathy.github.io/2022/03/14/lecun1989/)
+- [Fewer university students are studying Mandarin](https://www.economist.com/china/2023/08/24/why-fewer-university-students-are-studying-mandarin)
+- [How to Read an RFC &lpar;2018&rpar;](https://www.ietf.org/blog/how-read-rfc/)
+- [Beating GPT-4 on HumanEval with a fine-tuned CodeLlama-34B](https://www.phind.com/blog/code-llama-beats-gpt4)
+- [Casio Caleid XM-700 Mobile Navigator &lpar;1997&rpar;](https://blog.gingerbeardman.com/2023/08/25/casio-caleid-xm700-mobile-navigator-hardware/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

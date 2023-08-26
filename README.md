@@ -355,6 +355,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [The Republican debate and ChatGPT — room for gen AI in politics?](https://www.computerworld.com/article/3705432/the-republican-debate-and-chatgpt-room-for-gen-ai-in-politics.html#tk.rss_all)
+- [New law could turn UK into a hacker&#39;s playground](https://www.computerworld.com/article/3705370/new-law-could-turn-uk-into-a-hackers-playground.html#tk.rss_all)
+- [Managed Apple IDs, iCloud, and the shadow IT connection](https://www.computerworld.com/article/3705248/managed-apple-ids-icloud-and-the-shadow-it-connection.html#tk.rss_all)
 - [China reportedly paying big bonuses for semiconductor expertise](https://www.computerworld.com/article/3705492/china-reportedly-paying-big-bonuses-for-semiconductor-expertise.html#tk.rss_all)
 - [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
 - [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
@@ -362,9 +365,6 @@
 - [18 Microsoft Teams apps for content collaboration and management](https://www.computerworld.com/article/3704133/microsoft-teams-apps-content-collaboration-management.html#tk.rss_all)
 - [Why you should pay attention to Arm’s looming IPO](https://www.computerworld.com/article/3705054/why-you-should-pay-attention-to-arm-s-looming-ipo.html#tk.rss_all)
 - [Huawei is attempting to avoid US chip sanctions, trade body alleges](https://www.computerworld.com/article/3705212/huawei-is-attempting-to-avoid-us-chip-sanctions-trade-body-alleges.html#tk.rss_all)
-- [Microsoft launches native integration for Python in Excel](https://www.computerworld.com/article/3705211/microsoft-launches-native-integration-for-python-in-excel.html#tk.rss_all)
-- [The most in-demand AI skills — and how companies want to use them](https://www.computerworld.com/article/3705095/the-most-in-demand-ai-skills-and-how-companies-want-to-use-them.html#tk.rss_all)
-- [Windows on Mac improves for professional environments](https://www.computerworld.com/article/3705037/windows-on-mac-improves-for-professional-environments.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

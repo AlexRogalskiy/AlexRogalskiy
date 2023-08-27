@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Fyre Festival 2 tickets on sale and customers are buying](https://abcnews.go.com/Business/fyre-festival-2-tickets-sale-customers-buying-disgraced/story?id=102479217)
-- [Alfa Romeo Badge and Emblem History: What&#39;s with the Snake?](https://www.motortrend.com/news/alfa-romeo-badge-emblem-logo-history-meaning/)
-- [MicroZed Chronicles: A weekly blog exploring aspects of FPGA design](https://www.adiuvoengineering.com/microzed-chronicles-archive)
-- [Apple’s Foray into Streaming](https://thespectator.com/book-and-art/apple-foray-into-streaming-apple-tv/)
-- [Micromort](https://en.wikipedia.org/wiki/Micromort)
-- [The Ubiquitous B-Tree &lpar;1979&rpar; [pdf]](http://carlosproal.com/ir/papers/p121-comer.pdf)
-- [Initial Impressions of Microsoft Olive](https://zhenghaotan.com/blog/initial-impressions-of-msft-olive)
-- [How can OpenAI improve GPT-4 and GPT 3.5?](https://old.reddit.com/r/ChatGPT/comments/161htpk/how_can_openai_improve_gpt4_and_gpt_35/)
-- [Ask HN: Who uses ChatGPT more than Google?](https://news.ycombinator.com/item?id=37269178)
-- [Porting Stunt Car Racer to the Commodore Plus/4](https://cobbpg.github.io/articles/stunt-car-racer-plus4-port.html)
+- [Mucker Capital backs ScribeUp’s fully-automated subscription management](https://techcrunch.com/2023/08/22/mucker-capital-scribeup-ecommerce-subscriptions/)
+- [Fine-Tuning Large Language Models &lpar;Andrew Ng Course&rpar;](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/)
+- [Ask HN: Do Cookie Warnings Make It Annoying to Preview URLs Now?](https://news.ycombinator.com/item?id=37278760)
+- [Wootz Steel](https://en.wikipedia.org/wiki/Wootz_steel)
+- [The Depth of the Arabic Language](https://www.fluentarabic.net/beautiful-arabic-language/)
+- [86Box 4.0 Released](https://github.com/86Box/86Box/releases/tag/v4.0)
+- [Company Created a Return-to-Office Plan That Employees Like](https://www.wsj.com/lifestyle/workplace/smuckers-return-to-office-plan-working-a933678)
+- [Exploring Simon’s Algorithm with Daniel Simon](https://aws.amazon.com/blogs/quantum-computing/simons-algorithm/)
+- [The Cosmic Distance Ladder [pdf]](https://terrytao.files.wordpress.com/2010/10/cosmic-distance-ladder.pdf)
+- [The Nation&#39;s Only Unionized Strip Club Reopens in North Hollywood](https://laist.com/news/arts-and-entertainment/the-nations-only-unionized-strip-club-reopens-in-north-hollywood)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

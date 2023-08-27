@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Revisited: Trafficked: the closed door – part  two – podcast](https://www.theguardian.com/news/audio/2023/aug/26/revisited-trafficked-closed-door-part-two-podcast)
-- [Niger coup leaders give French ambassador 48 hours to leave country](https://www.theguardian.com/world/2023/aug/26/niger-coup-leaders-give-french-ambassador-48-hours-to-leave-country)
-- [Russia-Ukraine war at a glance: what we know on day 549 of the invasion](https://www.theguardian.com/world/2023/aug/26/russia-ukraine-war-at-a-glance-what-we-know-on-day-549-of-the-invasion)
-- [Louisiana residents told to ‘get out now’ in face of sweeping wildfire](https://www.theguardian.com/us-news/2023/aug/25/louisiana-wildfire-tiger-island-fire-evacuation)
-- [Drivers warned of copycat websites overcharging for Ulez fee](https://www.theguardian.com/environment/2023/aug/26/drivers-warned-of-copycat-websites-overcharging-for-ulez-fee)
-- [‘I felt the victim of aggression, a sexist act’ – Jenni Hermoso’s statement in full](https://www.theguardian.com/football/2023/aug/25/i-felt-the-victim-of-aggression-a-sexist-act-jenni-hermosos-statement-in-full)
-- [Pegula expresses doubts as WTA considers moving Finals to Saudi Arabia](https://www.theguardian.com/sport/2023/aug/25/pegula-expresses-doubts-as-wta-considers-moving-finals-to-saudi-arabia)
-- [USA’s Lyles adds 200m world title to 100m and wants to ‘transcend the sport’](https://www.theguardian.com/sport/2023/aug/25/world-athletics-championships-mens-200m-noah-lyles-zharnel-hughes)
-- [Texas judge blocks ban on gender-affirming medical care for minors](https://www.theguardian.com/world/2023/aug/25/texas-gender-affirming-care-judge)
-- [Madagascar: 12 killed in crush at Indian Ocean Island Games opening ceremony](https://www.theguardian.com/world/2023/aug/25/madagascar-killed-in-crush-at-indian-ocean-island-games-opening-ceremony)
+- [Revisited: Trafficked: the operation – part three – podcast](https://www.theguardian.com/news/audio/2023/aug/27/revisited-trafficked-the-operation-part-three-podcast)
+- [Three Black people killed in ‘racially motivated’ shooting in Florida, officials say](https://www.theguardian.com/us-news/2023/aug/26/dollar-general-store-shooting-jacksonville-florida)
+- [Russia-Ukraine war at a glance: what we know on day 550 of the invasion](https://www.theguardian.com/world/2023/aug/27/russia-ukraine-war-at-a-glance-what-we-know-on-day-550-of-the-invasion)
+- [Ukrainian pilot ‘Juice’ among three killed in jet collision, says Volodymyr Zelenskiy](https://www.theguardian.com/world/2023/aug/27/ukrainian-pilot-juice-among-three-killed-in-jet-collision-says-volodymyr-zelenskiy)
+- [Emmerson Mnangagwa wins second term as president of Zimbabwe](https://www.theguardian.com/world/2023/aug/27/emmerson-mnangagwa-wins-second-term-as-president-of-zimbabwe)
+- [Moody blues: take a dive into the new denim](https://www.theguardian.com/fashion/2023/aug/26/moody-blues-take-a-dive-into-the-new-denim)
+- [Oleksandr Usyk knocks out Daniel Dubois in ninth round to retain titles](https://www.theguardian.com/sport/2023/aug/26/oleksandr-usyk-knocks-out-daniel-dubois-in-ninth-round-to-retain-titles)
+- [‘As useful as a chocolate teapot’: voters&#39; verdict on awol Nadine Dorries](https://www.theguardian.com/politics/2023/aug/25/voter-verdict-nadine-dorries-mid-bedfordshire)
+- [Met police on high alert after ‘staggering IT security’ breach](https://www.theguardian.com/uk-news/2023/aug/26/met-police-on-high-alert-after-it-system-holding-officers-details-hacked)
+- [Ministers plan to expand whole-life sentences for ‘most horrific’ murderers](https://www.theguardian.com/law/2023/aug/26/ministers-plan-to-expand-whole-life-sentences-for-most-horrific-murderers)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

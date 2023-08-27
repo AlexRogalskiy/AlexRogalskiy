@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Why the US is one of only a few countries with no paid time off](https://www.vox.com/policy-and-politics/2019/12/24/21035628/new-york-paid-time-off)
-- [Generally Intelligent &lpar;YC S17&rpar; is hiring research scientists](https://news.ycombinator.com/item?id=37268923)
-- [We are not empty: The concept of the atomic void is a mistake](https://aeon.co/essays/why-the-empty-atom-picture-misunderstands-quantum-theory)
-- [Training immune cells to remove ‘trash’ helps resolve lung inflammation](https://today.uic.edu/immune-cells-acute-lung-injury/)
-- [Sidewalk Garden](https://zachklein.com/Sidewalk+Garden)
-- [Deep Neural Nets: 33 years ago and 33 years from now &lpar;2022&rpar;](http://karpathy.github.io/2022/03/14/lecun1989/)
-- [Fewer university students are studying Mandarin](https://www.economist.com/china/2023/08/24/why-fewer-university-students-are-studying-mandarin)
-- [How to Read an RFC &lpar;2018&rpar;](https://www.ietf.org/blog/how-read-rfc/)
-- [Beating GPT-4 on HumanEval with a fine-tuned CodeLlama-34B](https://www.phind.com/blog/code-llama-beats-gpt4)
-- [Casio Caleid XM-700 Mobile Navigator &lpar;1997&rpar;](https://blog.gingerbeardman.com/2023/08/25/casio-caleid-xm700-mobile-navigator-hardware/)
+- [Ask HN: How to Contact Stripe Directly?](https://news.ycombinator.com/item?id=37278473)
+- [If you&#39;re interested in eye-tracking, I&#39;m interested in funding you](https://twitter.com/paulg/status/1695596853864321055)
+- [It’s not intelligent if it always halts: A critical perspective on AI approaches](https://www.lifeiscomputation.com/it-is-not-intelligent-if-it-always-halts/)
+- [Linux on a Commodore 64](https://github.com/onnokort/semu-c64)
+- [Illegal shooting along power lines a leading cause of death for bald eagles](https://www.usgs.gov/news/national-news-release/illegal-shooting-along-power-lines-a-leading-cause-death-bald-eagles)
+- [Martin Miller talks about his mother, Alice Miller &lpar;2015&rpar;](https://www.contemporarypsychotherapy.org/volume-7-issue-1-summer-2015/interview-martin-miller/)
+- [Show HN: Investor radar, the ultimate database of investors for your startup](https://www.investorradar.io/)
+- [A clock where the time is in a song title](https://pudding.cool/projects/clocks/)
+- [COBOL gets new life in the cloud thanks to Watsonx and AI](https://www.silverliningsinfo.com/apps-services/ibm-watsonx-brings-cobol-cloud-era-ai)
+- [Freshpaint &lpar;YC S19&rpar; is hiring engineers to build a HIPAA compliant data platform](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

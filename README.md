@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Mucker Capital backs ScribeUp’s fully-automated subscription management](https://techcrunch.com/2023/08/22/mucker-capital-scribeup-ecommerce-subscriptions/)
-- [Fine-Tuning Large Language Models &lpar;Andrew Ng Course&rpar;](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/)
-- [Ask HN: Do Cookie Warnings Make It Annoying to Preview URLs Now?](https://news.ycombinator.com/item?id=37278760)
-- [Wootz Steel](https://en.wikipedia.org/wiki/Wootz_steel)
-- [The Depth of the Arabic Language](https://www.fluentarabic.net/beautiful-arabic-language/)
-- [86Box 4.0 Released](https://github.com/86Box/86Box/releases/tag/v4.0)
-- [Company Created a Return-to-Office Plan That Employees Like](https://www.wsj.com/lifestyle/workplace/smuckers-return-to-office-plan-working-a933678)
-- [Exploring Simon’s Algorithm with Daniel Simon](https://aws.amazon.com/blogs/quantum-computing/simons-algorithm/)
-- [The Cosmic Distance Ladder [pdf]](https://terrytao.files.wordpress.com/2010/10/cosmic-distance-ladder.pdf)
-- [The Nation&#39;s Only Unionized Strip Club Reopens in North Hollywood](https://laist.com/news/arts-and-entertainment/the-nations-only-unionized-strip-club-reopens-in-north-hollywood)
+- [I came second out of 999 in the Salem Center prediction market tournament](https://blog.polybdenum.com/2023/08/28/how-i-came-second-out-of-999-in-the-salem-center-prediction-market-tournament-without-knowing-anything-about-prediction-markets-and-what-i-learned-along-the-way-part-2.html)
+- [Google Gemini Eats the World](https://www.semianalysis.com/p/google-gemini-eats-the-world-gemini)
+- [Use devdocs.io before your flight](https://devdocs.io)
+- [Milk Bag](https://en.wikipedia.org/wiki/Milk_bag)
+- [Stop Ignoring Your Stakeholders](https://abhishek-gupta.ca/aci/blog/stop-ignoring-your-stakeholders)
+- [Israel to have partial laser defenses by next year](https://www.jpost.com/breaking-news/article-756455)
+- [Products and Costs of Singapore Government Technology Agency](https://products.open.gov.sg)
+- [Scratux – block-based visual programming language for children](http://ww7.scratux.org/)
+- [Hacker Smacker: Friend/foe individual writers on Hacker News](https://github.com/samuelclay/hackersmacker)
+- [JEP Draft: Ahead of Time Compilation for the Java Virtual Machine](https://openjdk.org/jeps/8313278)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

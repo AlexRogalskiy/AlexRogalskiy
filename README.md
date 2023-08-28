@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Ask HN: How to Contact Stripe Directly?](https://news.ycombinator.com/item?id=37278473)
-- [If you&#39;re interested in eye-tracking, I&#39;m interested in funding you](https://twitter.com/paulg/status/1695596853864321055)
-- [It’s not intelligent if it always halts: A critical perspective on AI approaches](https://www.lifeiscomputation.com/it-is-not-intelligent-if-it-always-halts/)
-- [Linux on a Commodore 64](https://github.com/onnokort/semu-c64)
-- [Illegal shooting along power lines a leading cause of death for bald eagles](https://www.usgs.gov/news/national-news-release/illegal-shooting-along-power-lines-a-leading-cause-death-bald-eagles)
-- [Martin Miller talks about his mother, Alice Miller &lpar;2015&rpar;](https://www.contemporarypsychotherapy.org/volume-7-issue-1-summer-2015/interview-martin-miller/)
-- [Show HN: Investor radar, the ultimate database of investors for your startup](https://www.investorradar.io/)
-- [A clock where the time is in a song title](https://pudding.cool/projects/clocks/)
-- [COBOL gets new life in the cloud thanks to Watsonx and AI](https://www.silverliningsinfo.com/apps-services/ibm-watsonx-brings-cobol-cloud-era-ai)
-- [Freshpaint &lpar;YC S19&rpar; is hiring engineers to build a HIPAA compliant data platform](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
+- [Hacker Smacker: Friend/foe individual writers on Hacker News](https://github.com/samuelclay/hackersmacker)
+- [Writing Linux Modules in Ada – Part 1](http://www.nihamkin.com/2016/10/23/writing-linux-modules-in-ada-part-1/#writing-linux-modules-in-ada-part-1)
+- [Federal study links testicular cancer to ‘forever chemicals’](https://undark.org/2023/08/22/federal-study-links-testicular-cancer-to-forever-chemicals/)
+- [A study on robustness and reliability of large language model code generation](https://arxiv.org/abs/2308.10335)
+- [Running WASI binaries from your HTML using Web Components](https://runno.dev/articles/wasi-web-component)
+- [Scientists are working to bring the woolly mammoth back](https://www.popularmechanics.com/science/animals/a42708517/scientists-reincarnating-woolly-mammoth/)
+- [Netbirdio/netbird: Connect devices into a single private WireGuard mesh network](https://github.com/netbirdio/netbird)
+- [Our Products](https://www.kinkisharyo.co.jp/english/ourproducts/)
+- [A new method to reprogram human cells to better mimic embryonic stem cells](https://www.uwa.edu.au/news/Article/2023/August/Scientists-find-way-to-wipe-a-cells-memory-to-reprogram-it-as-a-stem-cell)
+- [Meticulous &lpar;YC S21&rpar; is hiring #3 engineer](https://news.ycombinator.com/item?id=37286598)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

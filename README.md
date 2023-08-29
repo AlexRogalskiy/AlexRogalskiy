@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [I have studied emperor penguins for 30 years. We may witness their demise in our lifetime |  Barbara Wienecke](https://www.theguardian.com/commentisfree/2023/aug/28/emperor-penguin-extinction)
-- [Businesses in Japan receive abusive calls from China after Fukushima water release](https://www.theguardian.com/environment/2023/aug/28/japan-businesses-abusive-phone-calls-china-fukushima-waste-water)
-- [Russia-Ukraine war at a glance: what we know on day 551 of the invasion](https://www.theguardian.com/world/2023/aug/28/russia-ukraine-war-at-a-glance-what-we-know-on-day-551-of-the-invasion)
-- [Viktor Hovland strolls to Tour Championship to boost Ryder Cup hand](https://www.theguardian.com/sport/2023/aug/28/viktor-hovland-strolls-to-tour-championship-to-boost-ryder-cup-hand)
-- [Secret escape slide for Taiwan’s former leader draws in the crowds – just don’t ask for a go](https://www.theguardian.com/world/2023/aug/28/secret-escape-slide-for-taiwans-former-leader-draws-in-the-crowds-just-dont-ask-for-a-go)
-- [Labour blames postcode lottery in cancer care in England for delays](https://www.theguardian.com/society/2023/aug/27/labour-blames-postcode-lottery-in-cancer-care-in-england-for-delays)
-- [At least 26 English councils ‘at risk of bankruptcy in next two years’](https://www.theguardian.com/society/2023/aug/28/at-least-26-english-councils-at-risk-of-bankruptcy-in-next-two-years)
-- [Police in England and Wales told to follow all ‘reasonable lines of inquiry’](https://www.theguardian.com/uk-news/2023/aug/28/police-in-england-and-wales-told-to-follow-all-reasonable-lines-of-inquiry)
-- [Happy heads: 10 colourful caps that’ll top off your summer wardrobe](https://www.theguardian.com/fashion/gallery/2023/aug/27/happy-heads-10-colourful-caps-thatll-top-off-your-summer-wardrobe)
-- [Home Office ‘may fit asylum seekers with electronic tags’](https://www.theguardian.com/uk-news/2023/aug/27/home-office-may-fit-asylum-seekers-with-electronic-tags)
+- [Co-sleeping with children has biological benefits – but it’s not always the answer to a good night’s sleep | Sarah Blunden](https://www.theguardian.com/commentisfree/2023/aug/29/co-sleeping-with-baby-kids-children-benefits-negatives-everything-you-need-to-know)
+- [A beloved mother, a devoted father, an aspiring streamer: Jacksonville shooting victims identified](https://www.theguardian.com/us-news/2023/aug/28/jacksonville-florida-shooting-victims-identified)
+- [The final weeks of Yevgeny Prigozhin](https://www.theguardian.com/news/audio/2023/aug/29/the-final-weeks-of-yevgeny-prigozhin)
+- [Hong Kong: Cantonese language group shuts down after targeting by national security police](https://www.theguardian.com/world/2023/aug/29/hong-kong-cantonese-language-group-shuts-down-after-targeting-by-national-security-police)
+- [Russia accused of intimidating US consulate staff with Ukraine war spying charges](https://www.theguardian.com/world/2023/aug/29/russia-accused-of-intimidating-us-consulate-staff-with-ukraine-war-spying-charges)
+- [Music may reduce babies’ pain during jabs or heel-prick tests, study suggests](https://www.theguardian.com/science/2023/aug/29/music-may-reduce-babies-pain-during-jabs-or-heel-prick-tests-study-suggests)
+- [Papua New Guinea killings: what’s behind the outbreak in tribal fighting?](https://www.theguardian.com/world/2023/aug/29/papua-new-guinea-killings-whats-behind-the-outbreak-in-tribal-fighting)
+- [Russia-Ukraine war at a glance: what we know on day 552 of the invasion](https://www.theguardian.com/world/2023/aug/29/russia-ukraine-war-at-a-glance-what-we-know-on-day-552-of-the-invasion)
+- [Eminem demands Vivek Ramaswamy cease using his music on campaign trail](https://www.theguardian.com/us-news/2023/aug/28/eminem-vivek-ramaswamy-cease-desist-letter)
+- [Prehistoric bird once thought extinct returns to New Zealand wild](https://www.theguardian.com/environment/2023/aug/29/prehistoric-bird-once-thought-extinct-returns-to-new-zealand-wild)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

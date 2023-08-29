@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Hacker Smacker: Friend/foe individual writers on Hacker News](https://github.com/samuelclay/hackersmacker)
-- [Writing Linux Modules in Ada – Part 1](http://www.nihamkin.com/2016/10/23/writing-linux-modules-in-ada-part-1/#writing-linux-modules-in-ada-part-1)
-- [Federal study links testicular cancer to ‘forever chemicals’](https://undark.org/2023/08/22/federal-study-links-testicular-cancer-to-forever-chemicals/)
-- [A study on robustness and reliability of large language model code generation](https://arxiv.org/abs/2308.10335)
-- [Running WASI binaries from your HTML using Web Components](https://runno.dev/articles/wasi-web-component)
-- [Scientists are working to bring the woolly mammoth back](https://www.popularmechanics.com/science/animals/a42708517/scientists-reincarnating-woolly-mammoth/)
-- [Netbirdio/netbird: Connect devices into a single private WireGuard mesh network](https://github.com/netbirdio/netbird)
-- [Our Products](https://www.kinkisharyo.co.jp/english/ourproducts/)
-- [A new method to reprogram human cells to better mimic embryonic stem cells](https://www.uwa.edu.au/news/Article/2023/August/Scientists-find-way-to-wipe-a-cells-memory-to-reprogram-it-as-a-stem-cell)
-- [Meticulous &lpar;YC S21&rpar; is hiring #3 engineer](https://news.ycombinator.com/item?id=37286598)
+- [Padlet &lpar;YC W13&rpar; is hiring in San Francisco and Singapore](https://padlet.jobs)
+- [Fi now opts you into the use of your CPNI by Alphabet affiliates](https://fi.sds.modeaondemand.com/en-us/tutorial/app-googlefi-android-smartphone/latest/feature_privacy_settings_web/)
+- [WebLLM: Llama2 in the Browser](https://webllm.mlc.ai/)
+- [Gitlab Gitaly project now supports the SHA-256 hashing algorithm](https://about.gitlab.com/blog/2023/08/28/sha256-support-in-gitaly/)
+- [The sudden demise of Indian vultures killed thousands of people](https://www.economist.com/graphic-detail/2023/08/22/the-sudden-demise-of-indian-vultures-killed-thousands-of-people)
+- [False Canopies on Fighters Work, One Almost Killed Me](https://www.thedrive.com/the-war-zone/false-canopies-on-fighters-work-one-almost-killed-me)
+- [Water-purifying cup makes drinkable water from creeks and streams](https://cockrell.utexas.edu/news/archive/9720-water-purifying-cup-makes-drinkable-water-from-creeks-and-streams-in-minutes)
+- [Bioregions 2023](https://www.oneearth.org/bioregions-2023/)
+- [Raise less, build more](https://trohan.com/2023/08/20/raise-less-build-more/)
+- [Serial adapter / reboot controller for Apple M1/M2](https://www.tindie.com/products/aaafnraa/serial-adapter-reboot-controller-for-apple-m1m2/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

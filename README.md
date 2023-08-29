@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [I came second out of 999 in the Salem Center prediction market tournament](https://blog.polybdenum.com/2023/08/28/how-i-came-second-out-of-999-in-the-salem-center-prediction-market-tournament-without-knowing-anything-about-prediction-markets-and-what-i-learned-along-the-way-part-2.html)
-- [Google Gemini Eats the World](https://www.semianalysis.com/p/google-gemini-eats-the-world-gemini)
-- [Use devdocs.io before your flight](https://devdocs.io)
-- [Milk Bag](https://en.wikipedia.org/wiki/Milk_bag)
-- [Stop Ignoring Your Stakeholders](https://abhishek-gupta.ca/aci/blog/stop-ignoring-your-stakeholders)
-- [Israel to have partial laser defenses by next year](https://www.jpost.com/breaking-news/article-756455)
-- [Products and Costs of Singapore Government Technology Agency](https://products.open.gov.sg)
-- [Scratux – block-based visual programming language for children](http://ww7.scratux.org/)
-- [Hacker Smacker: Friend/foe individual writers on Hacker News](https://github.com/samuelclay/hackersmacker)
-- [JEP Draft: Ahead of Time Compilation for the Java Virtual Machine](https://openjdk.org/jeps/8313278)
+- [Ranger&#39;s behavior under review after protest outside Burning Man entrance](https://mynews4.com/news/local/caught-on-camera-climate-activists-cited-rangers-behavior-under-review-after-protest-outside-burning-man-entrance)
+- [The Ocean Has a Fever](https://earthobservatory.nasa.gov/images/151743/the-ocean-has-a-fever)
+- [Twitter is down &lpar;2023-08-28&rpar;](https://news.ycombinator.com/item?id=37302929)
+- [Cruise testing self-driving cars in Seattle to learn from hilly, wet environment](https://www.geekwire.com/2023/gm-backed-cruise-begins-testing-self-driving-cars-in-seattle-to-learn-from-hilly-wet-environment/)
+- [Tradle](https://oec.world/en/tradle/)
+- [Unmeasurable Costs and Benefits](https://v5.chriskrycho.com/journal/unmeasurable-costs-and-benefits/)
+- [Canada’s Student Visa Strategy Takes Off, Nearly 1 in 48 People on Study Permit](https://betterdwelling.com/canadas-student-visa-strategy-takes-off-nearly-1-in-48-people-on-a-study-permit/)
+- [The best approach I&#39;ve seen for hiring junior engineers](https://www.rubick.com/hiring-new-engineers/)
+- [The Heart of W. Edwards Deming](https://hagakure.substack.com/p/the-hagakure-64-the-heart-of-w-edwards)
+- [Great way to visualize “Graph Theory” and suck great volumes of time away](https://treksit.com)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Google’s Duet AI now available for Workspace enterprise customers](https://www.computerworld.com/article/3705372/googles-duet-ai-now-available-for-workspace-enterprise-customers.html#tk.rss_all)
+- [Workers are embracing AI but want more guidance on how to use it, says survey](https://www.computerworld.com/article/3705373/workers-are-embracing-ai-but-want-more-guidance-on-how-to-use-it-says-survey.html#tk.rss_all)
+- [Three-quarters of large US firms now using more Apple devices — survey](https://www.computerworld.com/article/3705613/three-quarters-of-large-us-firms-now-using-more-apple-devices-survey.html#tk.rss_all)
+- [Microsoft, Amazon go head-to-head on genAI in the cloud — here’s who’ll win](https://www.computerworld.com/article/3705550/microsoft-amazon-go-head-to-head-on-genai-in-the-cloud-heres-wholl-win.html#tk.rss_all)
 - [OpenAI launches ‘enterprise-grade’ ChatGPT](https://www.computerworld.com/article/3705551/openai-launches-enterprise-grade-chatgpt.html#tk.rss_all)
 - [IDC sees big enterprise shift to Macs over next 12 months](https://www.computerworld.com/article/3705669/idc-sees-big-enterprise-shift-to-macs-over-next-12-months.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [How to select sustainability management software](https://www.computerworld.com/article/3704008/sustainability-management-software-esg-software-buyers-guide.html#tk.rss_all)
 - [The Republican debate and ChatGPT — room for gen AI in politics?](https://www.computerworld.com/article/3705432/the-republican-debate-and-chatgpt-room-for-gen-ai-in-politics.html#tk.rss_all)
 - [New law could turn UK into a hacker&#39;s playground](https://www.computerworld.com/article/3705370/new-law-could-turn-uk-into-a-hackers-playground.html#tk.rss_all)
-- [Managed Apple IDs, iCloud, and the shadow IT connection](https://www.computerworld.com/article/3705248/managed-apple-ids-icloud-and-the-shadow-it-connection.html#tk.rss_all)
-- [China reportedly paying big bonuses for semiconductor expertise](https://www.computerworld.com/article/3705492/china-reportedly-paying-big-bonuses-for-semiconductor-expertise.html#tk.rss_all)
-- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
-- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

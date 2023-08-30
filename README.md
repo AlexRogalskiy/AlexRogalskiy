@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ranger&#39;s behavior under review after protest outside Burning Man entrance](https://mynews4.com/news/local/caught-on-camera-climate-activists-cited-rangers-behavior-under-review-after-protest-outside-burning-man-entrance)
-- [The Ocean Has a Fever](https://earthobservatory.nasa.gov/images/151743/the-ocean-has-a-fever)
-- [Twitter is down &lpar;2023-08-28&rpar;](https://news.ycombinator.com/item?id=37302929)
-- [Cruise testing self-driving cars in Seattle to learn from hilly, wet environment](https://www.geekwire.com/2023/gm-backed-cruise-begins-testing-self-driving-cars-in-seattle-to-learn-from-hilly-wet-environment/)
-- [Tradle](https://oec.world/en/tradle/)
-- [Unmeasurable Costs and Benefits](https://v5.chriskrycho.com/journal/unmeasurable-costs-and-benefits/)
-- [Canada’s Student Visa Strategy Takes Off, Nearly 1 in 48 People on Study Permit](https://betterdwelling.com/canadas-student-visa-strategy-takes-off-nearly-1-in-48-people-on-a-study-permit/)
-- [The best approach I&#39;ve seen for hiring junior engineers](https://www.rubick.com/hiring-new-engineers/)
-- [The Heart of W. Edwards Deming](https://hagakure.substack.com/p/the-hagakure-64-the-heart-of-w-edwards)
-- [Great way to visualize “Graph Theory” and suck great volumes of time away](https://treksit.com)
+- [Guide to Installing and Maintaining an Artificial Grass Backyard](http://www.artificialgrasslandscape.com/)
+- [In Memory of Ueda San](https://www.openchainproject.org/news/2023/08/28/in-memory-of-ueda-san)
+- [Breweries, farms, spas? To fill empty offices, downtowns get creative](https://www.washingtonpost.com/dc-md-va/2023/08/28/empty-office-buildings-commercial-vacancy-zoning/)
+- [Fast – The Data Interface Language](https://github.com/fast-me/lang)
+- [Use relative score fusion to combine and rank vector and keyword search results](https://weaviate.io/blog/hybrid-search-fusion-algorithms)
+- [A Marriage, a Secret and a Crackdown in China](https://www.nytimes.com/2023/08/29/podcasts/the-daily/china-blogger.html)
+- [Mercedes-Benz shares progress update of new global EV charging network](https://electrek.co/2023/08/28/mercedes-benz-shares-progress-update-of-new-global-ev-charging-network/)
+- [Indigenous Techniques Saved a Community from Wildfire](https://www.nytimes.com/2023/08/27/world/canada/canada-wildfires-kelowna-british-columbia.html)
+- [Ask HN: Is ML Dead?](https://news.ycombinator.com/item?id=37316646)
+- [Kiwi Farms user uses stylometry to prove Hector Martin is VTuber Asahi Lina](https://rdrama.net/post/199597/kiwicel-marseykiwimom-uses-stylometry-marseyautism-to)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

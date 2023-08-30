@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Padlet &lpar;YC W13&rpar; is hiring in San Francisco and Singapore](https://padlet.jobs)
-- [Fi now opts you into the use of your CPNI by Alphabet affiliates](https://fi.sds.modeaondemand.com/en-us/tutorial/app-googlefi-android-smartphone/latest/feature_privacy_settings_web/)
-- [WebLLM: Llama2 in the Browser](https://webllm.mlc.ai/)
-- [Gitlab Gitaly project now supports the SHA-256 hashing algorithm](https://about.gitlab.com/blog/2023/08/28/sha256-support-in-gitaly/)
-- [The sudden demise of Indian vultures killed thousands of people](https://www.economist.com/graphic-detail/2023/08/22/the-sudden-demise-of-indian-vultures-killed-thousands-of-people)
-- [False Canopies on Fighters Work, One Almost Killed Me](https://www.thedrive.com/the-war-zone/false-canopies-on-fighters-work-one-almost-killed-me)
-- [Water-purifying cup makes drinkable water from creeks and streams](https://cockrell.utexas.edu/news/archive/9720-water-purifying-cup-makes-drinkable-water-from-creeks-and-streams-in-minutes)
-- [Bioregions 2023](https://www.oneearth.org/bioregions-2023/)
-- [Raise less, build more](https://trohan.com/2023/08/20/raise-less-build-more/)
-- [Serial adapter / reboot controller for Apple M1/M2](https://www.tindie.com/products/aaafnraa/serial-adapter-reboot-controller-for-apple-m1m2/)
+- [Putin’s Forever War](https://www.nytimes.com/2023/08/06/world/europe/putins-forever-war.html)
+- [Fomos: Experimental OS, built with Rust](https://github.com/Ruddle/Fomos)
+- [A Green Revolution in ‘Carbon Valley’](https://www.noemamag.com/a-green-revolution-in-carbon-valley/)
+- [Intel shows 8 core 528 thread processor with silicon photonics](https://www.servethehome.com/intel-shows-8-core-528-thread-processor-with-silicon-photonics/)
+- [Show HN: Query your database using plain English on premise](https://www.vizly.fyi/)
+- [Equation Group Tools](https://github.com/x0rz/EQGRP)
+- [Pgvector 0.5.0 Feature Highlights and how tos](https://jkatz05.com/post/postgres/pgvector-overview-0.5.0/)
+- [Doas – dedicated OpenBSD application subexecutor](https://flak.tedunangst.com/post/doas)
+- [Meta AI releases CoTracker, a model for tracking any points &lpar;pixels&rpar; on a video](https://co-tracker.github.io/)
+- [How far can you jump from a swing?](https://www.alexmolas.com/2023/08/18/how-far-can-you-jump.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

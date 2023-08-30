@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Co-sleeping with children has biological benefits – but it’s not always the answer to a good night’s sleep | Sarah Blunden](https://www.theguardian.com/commentisfree/2023/aug/29/co-sleeping-with-baby-kids-children-benefits-negatives-everything-you-need-to-know)
-- [A beloved mother, a devoted father, an aspiring streamer: Jacksonville shooting victims identified](https://www.theguardian.com/us-news/2023/aug/28/jacksonville-florida-shooting-victims-identified)
-- [The final weeks of Yevgeny Prigozhin](https://www.theguardian.com/news/audio/2023/aug/29/the-final-weeks-of-yevgeny-prigozhin)
-- [Hong Kong: Cantonese language group shuts down after targeting by national security police](https://www.theguardian.com/world/2023/aug/29/hong-kong-cantonese-language-group-shuts-down-after-targeting-by-national-security-police)
-- [Russia accused of intimidating US consulate staff with Ukraine war spying charges](https://www.theguardian.com/world/2023/aug/29/russia-accused-of-intimidating-us-consulate-staff-with-ukraine-war-spying-charges)
-- [Music may reduce babies’ pain during jabs or heel-prick tests, study suggests](https://www.theguardian.com/science/2023/aug/29/music-may-reduce-babies-pain-during-jabs-or-heel-prick-tests-study-suggests)
-- [Papua New Guinea killings: what’s behind the outbreak in tribal fighting?](https://www.theguardian.com/world/2023/aug/29/papua-new-guinea-killings-whats-behind-the-outbreak-in-tribal-fighting)
-- [Russia-Ukraine war at a glance: what we know on day 552 of the invasion](https://www.theguardian.com/world/2023/aug/29/russia-ukraine-war-at-a-glance-what-we-know-on-day-552-of-the-invasion)
-- [Eminem demands Vivek Ramaswamy cease using his music on campaign trail](https://www.theguardian.com/us-news/2023/aug/28/eminem-vivek-ramaswamy-cease-desist-letter)
-- [Prehistoric bird once thought extinct returns to New Zealand wild](https://www.theguardian.com/environment/2023/aug/29/prehistoric-bird-once-thought-extinct-returns-to-new-zealand-wild)
+- [Russia-Ukraine war live: planes in Russian city of Pskov hit by drones as attacks reported in six Russian regions](https://www.theguardian.com/world/live/2023/aug/30/russia-ukraine-war-live-updates-drone-attacks-russian-planes-pskov-black-sea-boats)
+- [Idalia expected to become category 3 hurricane as storm gains strength – live](https://www.theguardian.com/us-news/live/2023/aug/29/hurricane-idalia-path-tracker-florida-live-updates)
+- [Twitter allows US political candidates and parties to advertise in policy switch](https://www.theguardian.com/technology/2023/aug/29/twitter-x-political-ads-us-policy-misinformation)
+- [Niece of J-Pop mogul Johnny Kitagawa should resign over abuse allegations, panel says](https://www.theguardian.com/world/2023/aug/30/niece-of-j-pop-mogul-johnny-kitagawa-should-resign-over-abuse-allegations-panel-says)
+- [Russia-Ukraine war at a glance: what we know on day 553 of the invasion](https://www.theguardian.com/world/2023/aug/30/russia-ukraine-war-at-a-glance-what-we-know-on-day-553-of-the-invasion)
+- [UK cybersecurity agency warns of chatbot ‘prompt injection’ attacks](https://www.theguardian.com/technology/2023/aug/30/uk-cybersecurity-agency-warns-of-chatbot-prompt-injection-attacks)
+- [UK should take China to task on human rights and Taiwan, MPs say](https://www.theguardian.com/politics/2023/aug/30/uk-should-take-china-to-task-on-human-rights-and-taiwan-mps-say)
+- [UK home sales in 2023 will be lowest in a decade, says Zoopla](https://www.theguardian.com/business/2023/aug/30/uk-home-sales-zoopla-interest-rate-rises-mortgages-property)
+- [British armed forces rugby player found dead in France](https://www.theguardian.com/uk-news/2023/aug/29/british-armed-forces-rugby-player-found-dead-in-france)
+- [Andy Murray eases into US Open second round as Boulter breaks new ground](https://www.theguardian.com/sport/2023/aug/29/andy-murray-katie-boulter-us-open-tennis)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

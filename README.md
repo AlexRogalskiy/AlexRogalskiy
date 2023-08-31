@@ -355,6 +355,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Sept. 12: Let the iPhone 15 games begin](https://www.computerworld.com/article/3705499/sept-12-let-the-iphone-15-games-begin.html#tk.rss_all)
+- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
+- [As UAW seeks 4-day workweek, the idea gains ground with US workers](https://www.computerworld.com/article/3705553/as-uaw-seeks-4-day-workweek-the-idea-gains-ground-with-us-workers.html#tk.rss_all)
 - [Google’s Duet AI now available for Workspace enterprise customers](https://www.computerworld.com/article/3705372/googles-duet-ai-now-available-for-workspace-enterprise-customers.html#tk.rss_all)
 - [Workers are embracing AI but want more guidance on how to use it, says survey](https://www.computerworld.com/article/3705373/workers-are-embracing-ai-but-want-more-guidance-on-how-to-use-it-says-survey.html#tk.rss_all)
 - [Three-quarters of large US firms now using more Apple devices — survey](https://www.computerworld.com/article/3705613/three-quarters-of-large-us-firms-now-using-more-apple-devices-survey.html#tk.rss_all)
@@ -362,9 +365,6 @@
 - [OpenAI launches ‘enterprise-grade’ ChatGPT](https://www.computerworld.com/article/3705551/openai-launches-enterprise-grade-chatgpt.html#tk.rss_all)
 - [IDC sees big enterprise shift to Macs over next 12 months](https://www.computerworld.com/article/3705669/idc-sees-big-enterprise-shift-to-macs-over-next-12-months.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [How to select sustainability management software](https://www.computerworld.com/article/3704008/sustainability-management-software-esg-software-buyers-guide.html#tk.rss_all)
-- [The Republican debate and ChatGPT — room for gen AI in politics?](https://www.computerworld.com/article/3705432/the-republican-debate-and-chatgpt-room-for-gen-ai-in-politics.html#tk.rss_all)
-- [New law could turn UK into a hacker&#39;s playground](https://www.computerworld.com/article/3705370/new-law-could-turn-uk-into-a-hackers-playground.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

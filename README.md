@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Putin’s Forever War](https://www.nytimes.com/2023/08/06/world/europe/putins-forever-war.html)
-- [Fomos: Experimental OS, built with Rust](https://github.com/Ruddle/Fomos)
-- [A Green Revolution in ‘Carbon Valley’](https://www.noemamag.com/a-green-revolution-in-carbon-valley/)
-- [Intel shows 8 core 528 thread processor with silicon photonics](https://www.servethehome.com/intel-shows-8-core-528-thread-processor-with-silicon-photonics/)
-- [Show HN: Query your database using plain English on premise](https://www.vizly.fyi/)
-- [Equation Group Tools](https://github.com/x0rz/EQGRP)
-- [Pgvector 0.5.0 Feature Highlights and how tos](https://jkatz05.com/post/postgres/pgvector-overview-0.5.0/)
-- [Doas – dedicated OpenBSD application subexecutor](https://flak.tedunangst.com/post/doas)
-- [Meta AI releases CoTracker, a model for tracking any points &lpar;pixels&rpar; on a video](https://co-tracker.github.io/)
-- [How far can you jump from a swing?](https://www.alexmolas.com/2023/08/18/how-far-can-you-jump.html)
+- [Australia will not force adult websites to bring in age verification](https://www.theguardian.com/australia-news/2023/aug/31/roadmap-for-age-verification-online-pornographic-material-adult-websites-australia-law)
+- [How to Install Lima&lpar;runs command line Ubuntu&rpar; on macOS Using 9 Easy Steps](https://www.cyberithub.com/how-to-install-lima-on-macos-using-9-easy-steps/)
+- [Mux &lpar;YC W16&rpar; is hiring a Sr Platform Engineer to work on video infra at scale](https://www.mux.com/jobs?j=srplatform)
+- [Keisan Casio is shutting down](https://keisan.casio.com/keisan/abolition.php)
+- [Echo Chess: The Quest for Solvability](https://samiramly.com/chess)
+- [Making Amiga IFF Thumbnails Work in Linux](https://linuxjedi.co.uk/2023/08/24/making-amiga-iff-thumbnails-work-in-linux/)
+- [Show HN: I automated half of my typing](https://github.com/eschluntz/compress)
+- [Shocks to the system: Don DeLillo’s novels of the cold war and its aftermath](https://www.bookforum.com/print/3001/don-delillo-s-novels-of-the-cold-war-and-its-aftermath-25202)
+- [Photogrammetry on Commercial Flights &lpar;2021&rpar;](https://leifgehrmann.com/2021/09/05/photogrammetry-on-a-plane/)
+- [STM32 Blue Pill as an Hid USB Keyboard](https://www.instructables.com/STM32-As-HID-USB-Keyboard-STM32-Tutorials/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

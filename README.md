@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war live: planes in Russian city of Pskov hit by drones as attacks reported in six Russian regions](https://www.theguardian.com/world/live/2023/aug/30/russia-ukraine-war-live-updates-drone-attacks-russian-planes-pskov-black-sea-boats)
-- [Idalia expected to become category 3 hurricane as storm gains strength – live](https://www.theguardian.com/us-news/live/2023/aug/29/hurricane-idalia-path-tracker-florida-live-updates)
-- [Twitter allows US political candidates and parties to advertise in policy switch](https://www.theguardian.com/technology/2023/aug/29/twitter-x-political-ads-us-policy-misinformation)
-- [Niece of J-Pop mogul Johnny Kitagawa should resign over abuse allegations, panel says](https://www.theguardian.com/world/2023/aug/30/niece-of-j-pop-mogul-johnny-kitagawa-should-resign-over-abuse-allegations-panel-says)
-- [Russia-Ukraine war at a glance: what we know on day 553 of the invasion](https://www.theguardian.com/world/2023/aug/30/russia-ukraine-war-at-a-glance-what-we-know-on-day-553-of-the-invasion)
-- [UK cybersecurity agency warns of chatbot ‘prompt injection’ attacks](https://www.theguardian.com/technology/2023/aug/30/uk-cybersecurity-agency-warns-of-chatbot-prompt-injection-attacks)
-- [UK should take China to task on human rights and Taiwan, MPs say](https://www.theguardian.com/politics/2023/aug/30/uk-should-take-china-to-task-on-human-rights-and-taiwan-mps-say)
-- [UK home sales in 2023 will be lowest in a decade, says Zoopla](https://www.theguardian.com/business/2023/aug/30/uk-home-sales-zoopla-interest-rate-rises-mortgages-property)
-- [British armed forces rugby player found dead in France](https://www.theguardian.com/uk-news/2023/aug/29/british-armed-forces-rugby-player-found-dead-in-france)
-- [Andy Murray eases into US Open second round as Boulter breaks new ground](https://www.theguardian.com/sport/2023/aug/29/andy-murray-katie-boulter-us-open-tennis)
+- [Why wasn’t Lucy Letby stopped sooner? – podcast](https://www.theguardian.com/news/audio/2023/aug/31/why-wasnt-lucy-letby-stopped-sooner-podcast)
+- [Hurricane Idalia: Georgia declares state of emergency as severe flooding and storm surges hit south-eastern US – live](https://www.theguardian.com/us-news/live/2023/aug/30/hurricane-idalia-florida-latest-news-updates)
+- [Mitch McConnell appears to freeze again for more than 30 seconds](https://www.theguardian.com/us-news/2023/aug/30/mcconnell-freezes-again-kentucky-press-conference)
+- [Chinese developer Country Garden reports $6.7bn loss amid fears of another Evergrande](https://www.theguardian.com/world/2023/aug/31/country-garden-chinese-property-developer-reports-half-year-finanical-loss-fears-default-risk)
+- [Ousted Ali Bongo was on track to win Gabon election, polling shows](https://www.theguardian.com/world/2023/aug/30/ousted-ali-bongo-was-on-track-to-win-gabon-election-polling-shows)
+- [Five million bees escape after crates of hives fall off truck in Canada](https://www.theguardian.com/world/2023/aug/31/canada-5-million-bees-hives-fall-off-truck-ontario)
+- [Russia-Ukraine war at a glance: what we know on day 554 of the invasion](https://www.theguardian.com/world/2023/aug/31/russia-ukraine-war-at-a-glance-what-we-know-on-day-554-of-the-invasion)
+- [‘Freaky’: Australia’s foraging community shocked after parasitic worm found in woman’s brain](https://www.theguardian.com/australia-news/2023/aug/31/worm-found-in-womans-brain-australia-how-foraging-wild-greens)
+- [Gross misconduct by police to result in automatic dismissal](https://www.theguardian.com/uk-news/2023/aug/31/gross-misconduct-to-automatically-result-in-police-officer-dismissal)
+- [One in four teachers gave food to hungry pupils in England last term, survey finds](https://www.theguardian.com/education/2023/aug/31/teachers-gave-food-hungry-pupils-england-survey)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

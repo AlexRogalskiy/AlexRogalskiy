@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Guide to Installing and Maintaining an Artificial Grass Backyard](http://www.artificialgrasslandscape.com/)
-- [In Memory of Ueda San](https://www.openchainproject.org/news/2023/08/28/in-memory-of-ueda-san)
-- [Breweries, farms, spas? To fill empty offices, downtowns get creative](https://www.washingtonpost.com/dc-md-va/2023/08/28/empty-office-buildings-commercial-vacancy-zoning/)
-- [Fast – The Data Interface Language](https://github.com/fast-me/lang)
-- [Use relative score fusion to combine and rank vector and keyword search results](https://weaviate.io/blog/hybrid-search-fusion-algorithms)
-- [A Marriage, a Secret and a Crackdown in China](https://www.nytimes.com/2023/08/29/podcasts/the-daily/china-blogger.html)
-- [Mercedes-Benz shares progress update of new global EV charging network](https://electrek.co/2023/08/28/mercedes-benz-shares-progress-update-of-new-global-ev-charging-network/)
-- [Indigenous Techniques Saved a Community from Wildfire](https://www.nytimes.com/2023/08/27/world/canada/canada-wildfires-kelowna-british-columbia.html)
-- [Ask HN: Is ML Dead?](https://news.ycombinator.com/item?id=37316646)
-- [Kiwi Farms user uses stylometry to prove Hector Martin is VTuber Asahi Lina](https://rdrama.net/post/199597/kiwicel-marseykiwimom-uses-stylometry-marseyautism-to)
+- [Welcome to the nepo housing market: 40% of homebuyers under 30 get family money](https://fortune.com/2023/08/28/housing-market-nepotism-homebuying-down-payment-help-from-parents/)
+- [Why doesn&#39;t UPS/FedEx have Parcel Locker as a delivery option?](https://news.ycombinator.com/item?id=37331648)
+- [Weeb brings moaning Anime gun to airsoft game [video]](https://www.youtube.com/watch?v=3I5_M2uziyo)
+- [Streamlit Demo Gallery: get started exploring free public data with these apps](https://app.cybersyn.com/home/)
+- [Procedural Generation](https://www.mit.edu/~jessicav/6.S198/Blog_Post/ProceduralGeneration.html)
+- [Lockdowns and face masks ‘unequivocally’ cut spread of Covid, report finds](https://www.theguardian.com/world/2023/aug/24/lockdowns-face-masks-unequivocally-cut-spread-covid-study-finds)
+- [Show HN: I gave a talk on “Should engineers design?” [video]](https://www.youtube.com/watch?v=O-BMQTgioJo)
+- [Google’s AI-powered note-taking app is the messy beginning of something great](https://www.theverge.com/23845856/google-notebooklm-tailwind-ai-notes-research)
+- [BigQuery open sourced BigFrames](https://github.com/googleapis/python-bigquery-dataframes)
+- [LedeAI use paused at Gannett over HS football flubs](https://www.cnn.com/2023/08/30/tech/gannett-ai-experiment-paused/index.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

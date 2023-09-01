@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [IBM, Salesforce join forces in enterprise AI push](https://www.computerworld.com/article/3706029/ibm-salesforce-join-forces-in-enterprise-ai-push.html#tk.rss_all)
+- [Pew Research finds a big problem with AI: People don’t trust it](https://www.computerworld.com/article/3705950/pew-research-finds-a-big-problem-with-ai-people-dont-trust-it.html#tk.rss_all)
+- [Microsoft to unbundle Teams from its Office suites in Europe](https://www.computerworld.com/article/3705931/microsoft-to-unbundle-teams-from-its-office-suites-in-europe.html#tk.rss_all)
+- [With BYOD comes responsibility — and many firms aren&#39;t delivering](https://www.computerworld.com/article/3705988/with-byod-comes-responsibility-and-many-firms-arent-delivering.html#tk.rss_all)
+- [US Copyright Office opens inquiry into laws needed to rein in genAI](https://www.computerworld.com/article/3705928/us-copyright-office-opens-inquiry-into-laws-needed-to-rein-in-genai.html#tk.rss_all)
+- [4 secret settings for a smarter Chrome Android setup](https://www.computerworld.com/article/2474114/chrome-android-smarter-settings.html#tk.rss_all)
+- [Google brings its Generative Search Experience to India, Japan](https://www.computerworld.com/article/3705949/google-brings-its-generative-search-experience-to-india-japan.html#tk.rss_all)
 - [Sept. 12: Let the iPhone 15 games begin](https://www.computerworld.com/article/3705499/sept-12-let-the-iphone-15-games-begin.html#tk.rss_all)
 - [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
 - [As UAW seeks 4-day workweek, the idea gains ground with US workers](https://www.computerworld.com/article/3705553/as-uaw-seeks-4-day-workweek-the-idea-gains-ground-with-us-workers.html#tk.rss_all)
-- [Google’s Duet AI now available for Workspace enterprise customers](https://www.computerworld.com/article/3705372/googles-duet-ai-now-available-for-workspace-enterprise-customers.html#tk.rss_all)
-- [Workers are embracing AI but want more guidance on how to use it, says survey](https://www.computerworld.com/article/3705373/workers-are-embracing-ai-but-want-more-guidance-on-how-to-use-it-says-survey.html#tk.rss_all)
-- [Three-quarters of large US firms now using more Apple devices — survey](https://www.computerworld.com/article/3705613/three-quarters-of-large-us-firms-now-using-more-apple-devices-survey.html#tk.rss_all)
-- [Microsoft, Amazon go head-to-head on genAI in the cloud — here’s who’ll win](https://www.computerworld.com/article/3705550/microsoft-amazon-go-head-to-head-on-genai-in-the-cloud-heres-wholl-win.html#tk.rss_all)
-- [OpenAI launches ‘enterprise-grade’ ChatGPT](https://www.computerworld.com/article/3705551/openai-launches-enterprise-grade-chatgpt.html#tk.rss_all)
-- [IDC sees big enterprise shift to Macs over next 12 months](https://www.computerworld.com/article/3705669/idc-sees-big-enterprise-shift-to-macs-over-next-12-months.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

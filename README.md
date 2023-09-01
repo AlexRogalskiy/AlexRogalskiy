@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Australia will not force adult websites to bring in age verification](https://www.theguardian.com/australia-news/2023/aug/31/roadmap-for-age-verification-online-pornographic-material-adult-websites-australia-law)
-- [How to Install Lima&lpar;runs command line Ubuntu&rpar; on macOS Using 9 Easy Steps](https://www.cyberithub.com/how-to-install-lima-on-macos-using-9-easy-steps/)
-- [Mux &lpar;YC W16&rpar; is hiring a Sr Platform Engineer to work on video infra at scale](https://www.mux.com/jobs?j=srplatform)
-- [Keisan Casio is shutting down](https://keisan.casio.com/keisan/abolition.php)
-- [Echo Chess: The Quest for Solvability](https://samiramly.com/chess)
-- [Making Amiga IFF Thumbnails Work in Linux](https://linuxjedi.co.uk/2023/08/24/making-amiga-iff-thumbnails-work-in-linux/)
-- [Show HN: I automated half of my typing](https://github.com/eschluntz/compress)
-- [Shocks to the system: Don DeLillo’s novels of the cold war and its aftermath](https://www.bookforum.com/print/3001/don-delillo-s-novels-of-the-cold-war-and-its-aftermath-25202)
-- [Photogrammetry on Commercial Flights &lpar;2021&rpar;](https://leifgehrmann.com/2021/09/05/photogrammetry-on-a-plane/)
-- [STM32 Blue Pill as an Hid USB Keyboard](https://www.instructables.com/STM32-As-HID-USB-Keyboard-STM32-Tutorials/)
+- [Artificial Intelligence and Copyright: Request for comments](https://www.federalregister.gov/documents/2023/08/30/2023-18624/artificial-intelligence-and-copyright)
+- [Driverless cars may already be safer than human drivers](https://www.understandingai.org/p/driverless-cars-may-already-be-safer)
+- [Kagi now accepts PayPal, EUR and Bitcoin payments](https://blog.kagi.com/accepting-paypal-bitcoin)
+- [Wii Architecture – A Practical Analysis](https://www.copetti.org/writings/consoles/wii/)
+- [Types versus sets &lpar;and what about categories?&rpar; &lpar;2022&rpar;](https://lawrencecpaulson.github.io/2022/03/16/Types_vs_Sets.html)
+- [Modern genetic data suggests pre-humans were a group of only 1,280 individuals](https://www.nature.com/articles/d41586-023-02712-4)
+- [Etleap &lpar;YC W13&rpar; is hiring a software engineer in London or San Francisco](https://etleap.com/careers/software-engineer/)
+- [Keep your files inside your VM](https://msimkunas.lt/2023/08/28/vm-file-sharing.html)
+- [Why did old phone numbers start with letters? &lpar;2015&rpar;](https://www.mentalfloss.com/article/61116/why-did-old-phone-numbers-start-letters)
+- [LIBS confirms the presence of sulphur on the lunar surface](https://www.isro.gov.in/LIBSResults.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

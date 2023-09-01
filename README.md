@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Welcome to the nepo housing market: 40% of homebuyers under 30 get family money](https://fortune.com/2023/08/28/housing-market-nepotism-homebuying-down-payment-help-from-parents/)
-- [Why doesn&#39;t UPS/FedEx have Parcel Locker as a delivery option?](https://news.ycombinator.com/item?id=37331648)
-- [Weeb brings moaning Anime gun to airsoft game [video]](https://www.youtube.com/watch?v=3I5_M2uziyo)
-- [Streamlit Demo Gallery: get started exploring free public data with these apps](https://app.cybersyn.com/home/)
-- [Procedural Generation](https://www.mit.edu/~jessicav/6.S198/Blog_Post/ProceduralGeneration.html)
-- [Lockdowns and face masks ‘unequivocally’ cut spread of Covid, report finds](https://www.theguardian.com/world/2023/aug/24/lockdowns-face-masks-unequivocally-cut-spread-covid-study-finds)
-- [Show HN: I gave a talk on “Should engineers design?” [video]](https://www.youtube.com/watch?v=O-BMQTgioJo)
-- [Google’s AI-powered note-taking app is the messy beginning of something great](https://www.theverge.com/23845856/google-notebooklm-tailwind-ai-notes-research)
-- [BigQuery open sourced BigFrames](https://github.com/googleapis/python-bigquery-dataframes)
-- [LedeAI use paused at Gannett over HS football flubs](https://www.cnn.com/2023/08/30/tech/gannett-ai-experiment-paused/index.html)
+- [Y Combinator removes Indian startup from batch over &#39;irregularities&#39;](https://techcrunch.com/2023/08/31/y-combinator-boots-indian-startup-over-irregularities/)
+- [Lichee Pi 4A: Serious RISC-V Desktop Computing](https://www.youtube.com/watch?v=1apoFXZ9ad8)
+- [The Real Story of Musk’s Twitter Takeover](https://www.wsj.com/tech/elon-musk-twitter-x-takeover-walter-isaacson-5f553fa)
+- [BoTorch – Bayesian Optimization in PyTorch](https://botorch.org/)
+- [Longplay 2.0: An album-focused music player](https://adrian.schoenig.me/blog/2023/08/31/longplay-2.0/)
+- [What Are Dreams For?](https://www.newyorker.com/science/elements/what-are-dreams-for)
+- [US Gov research plan and governance framework for solar radiation modification [pdf]](https://www.whitehouse.gov/wp-content/uploads/2023/06/Congressionally-Mandated-Report-on-Solar-Radiation-Modification.pdf)
+- [Relighting Neural Radiance Fields with Shadow and Highlight Hints](https://arxiv.org/abs/2308.13404)
+- [Lidl recalls popular Paw Patrol snacks over inappropriate message](https://www.standard.co.uk/news/uk/lidl-paw-patrol-snacks-recalled-b1103802.html)
+- [X plans to collect users’ biometric data, along with education and job history](https://techcrunch.com/2023/08/31/x-plans-to-collect-users-biometric-data-along-with-education-and-job-history/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

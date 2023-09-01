@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Why wasn’t Lucy Letby stopped sooner? – podcast](https://www.theguardian.com/news/audio/2023/aug/31/why-wasnt-lucy-letby-stopped-sooner-podcast)
-- [Hurricane Idalia: Georgia declares state of emergency as severe flooding and storm surges hit south-eastern US – live](https://www.theguardian.com/us-news/live/2023/aug/30/hurricane-idalia-florida-latest-news-updates)
-- [Mitch McConnell appears to freeze again for more than 30 seconds](https://www.theguardian.com/us-news/2023/aug/30/mcconnell-freezes-again-kentucky-press-conference)
-- [Chinese developer Country Garden reports $6.7bn loss amid fears of another Evergrande](https://www.theguardian.com/world/2023/aug/31/country-garden-chinese-property-developer-reports-half-year-finanical-loss-fears-default-risk)
-- [Ousted Ali Bongo was on track to win Gabon election, polling shows](https://www.theguardian.com/world/2023/aug/30/ousted-ali-bongo-was-on-track-to-win-gabon-election-polling-shows)
-- [Five million bees escape after crates of hives fall off truck in Canada](https://www.theguardian.com/world/2023/aug/31/canada-5-million-bees-hives-fall-off-truck-ontario)
-- [Russia-Ukraine war at a glance: what we know on day 554 of the invasion](https://www.theguardian.com/world/2023/aug/31/russia-ukraine-war-at-a-glance-what-we-know-on-day-554-of-the-invasion)
-- [‘Freaky’: Australia’s foraging community shocked after parasitic worm found in woman’s brain](https://www.theguardian.com/australia-news/2023/aug/31/worm-found-in-womans-brain-australia-how-foraging-wild-greens)
-- [Gross misconduct by police to result in automatic dismissal](https://www.theguardian.com/uk-news/2023/aug/31/gross-misconduct-to-automatically-result-in-police-officer-dismissal)
-- [One in four teachers gave food to hungry pupils in England last term, survey finds](https://www.theguardian.com/education/2023/aug/31/teachers-gave-food-hungry-pupils-england-survey)
+- [The curious world of the Guardian’s Experience column – podcast](https://www.theguardian.com/news/audio/2023/sep/01/the-curious-world-of-the-guardians-experience-column-podcast)
+- [JPMorgan allegedly processed more than $1bn for Epstein over 16 years](https://www.theguardian.com/us-news/2023/aug/31/jeffrey-epstein-jpmorgan-1-billion-us-virgin-islands)
+- [More than a dozen people charged by US unit for threatening election workers](https://www.theguardian.com/us-news/2023/aug/31/election-workers-threat-justice-department-taskforce)
+- [‘A first in Paris’: city fumigates for tiger mosquitoes as tropical pests spread, bringing disease](https://www.theguardian.com/world/2023/sep/01/paris-fumigates-city-tiger-mosquitoes-carry-zika-dengue-disease-france)
+- [British arms maker BAE Systems sets up in Ukraine](https://www.theguardian.com/business/2023/sep/01/british-arms-maker-bae-systems-sets-up-in-ukraine)
+- [Cutouts of menacing langurs employed to deter rhesus monkeys ahead of G20 in Delhi](https://www.theguardian.com/world/2023/sep/01/langurs-cutouts-deter-rhesus-monkeys-g20-delhi-2023)
+- [Gabon coup council to swear in its leader as president](https://www.theguardian.com/world/2023/aug/31/gabon-opposition-urges-coup-leaders-to-recognise-it-won-election)
+- [Russia-Ukraine war at a glance: what we know on day 555 of the invasion](https://www.theguardian.com/world/2023/sep/01/russia-ukraine-war-at-a-glance-what-we-know-on-day-555-of-the-invasion)
+- [Hurricane Idalia leaves trail of floods and wreckage in south-eastern US](https://www.theguardian.com/us-news/2023/aug/31/hurricane-idalia-florida-north-south-carolina-georgia)
+- [UK ‘golden era’ of cancer treatment has saved 1 million lives, study shows](https://www.theguardian.com/science/2023/sep/01/uk-golden-era-of-cancer-treatment-has-saved-1-million-lives-study-shows)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

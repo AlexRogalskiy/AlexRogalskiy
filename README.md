@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [The curious world of the Guardian’s Experience column – podcast](https://www.theguardian.com/news/audio/2023/sep/01/the-curious-world-of-the-guardians-experience-column-podcast)
-- [JPMorgan allegedly processed more than $1bn for Epstein over 16 years](https://www.theguardian.com/us-news/2023/aug/31/jeffrey-epstein-jpmorgan-1-billion-us-virgin-islands)
-- [More than a dozen people charged by US unit for threatening election workers](https://www.theguardian.com/us-news/2023/aug/31/election-workers-threat-justice-department-taskforce)
-- [‘A first in Paris’: city fumigates for tiger mosquitoes as tropical pests spread, bringing disease](https://www.theguardian.com/world/2023/sep/01/paris-fumigates-city-tiger-mosquitoes-carry-zika-dengue-disease-france)
-- [British arms maker BAE Systems sets up in Ukraine](https://www.theguardian.com/business/2023/sep/01/british-arms-maker-bae-systems-sets-up-in-ukraine)
-- [Cutouts of menacing langurs employed to deter rhesus monkeys ahead of G20 in Delhi](https://www.theguardian.com/world/2023/sep/01/langurs-cutouts-deter-rhesus-monkeys-g20-delhi-2023)
-- [Gabon coup council to swear in its leader as president](https://www.theguardian.com/world/2023/aug/31/gabon-opposition-urges-coup-leaders-to-recognise-it-won-election)
-- [Russia-Ukraine war at a glance: what we know on day 555 of the invasion](https://www.theguardian.com/world/2023/sep/01/russia-ukraine-war-at-a-glance-what-we-know-on-day-555-of-the-invasion)
-- [Hurricane Idalia leaves trail of floods and wreckage in south-eastern US](https://www.theguardian.com/us-news/2023/aug/31/hurricane-idalia-florida-north-south-carolina-georgia)
-- [UK ‘golden era’ of cancer treatment has saved 1 million lives, study shows](https://www.theguardian.com/science/2023/sep/01/uk-golden-era-of-cancer-treatment-has-saved-1-million-lives-study-shows)
+- [Russia-Ukraine war at a glance: what we know on day 556 of the invasion](https://www.theguardian.com/world/2023/sep/02/russia-ukraine-war-at-a-glance-what-we-know-on-day-556-of-the-invasion)
+- [Russia adds Nobel prize-winning journalist Dmitry Muratov to list of ‘foreign agents’](https://www.theguardian.com/world/2023/sep/02/russia-adds-nobel-prize-winning-journalist-dmitry-muratov-to-list-of-foreign-agents)
+- [Rudy Giuliani pleads not guilty to Georgia election racketeering charges](https://www.theguardian.com/us-news/2023/sep/01/rudy-giuliani-not-guilty-georgia-election-racketeering-charges)
+- [It’s back to the Futuro in Australia, where seven of the ‘UFO houses’ have landed](https://www.theguardian.com/artanddesign/2023/sep/02/its-back-to-the-futuro-in-australia-where-seven-of-the-ufo-houses-have-landed)
+- [Bats and brain worms: how humanity’s environmental impact is giving rise to new infections](https://www.theguardian.com/australia-news/2023/sep/02/bats-and-brain-worms-how-humanitys-environmental-impact-is-giving-rise-to-new-infections)
+- [Buy bananas, shop in season and befriend your grocer: five ways to get better fruit and veg](https://www.theguardian.com/food/2023/sep/02/buy-bananas-shop-in-season-and-befriend-your-grocer-five-ways-to-get-better-fruit-and-veg)
+- [Tottenham agree £47m deal with Nottingham Forest for Brennan Johnson](https://www.theguardian.com/football/2023/sep/01/tottenham-agree-47m-deal-with-nottingham-forest-for-brennan-johnson)
+- [‘Everyone has the same dream’: Mount Fuji grapples with rise in tourism](https://www.theguardian.com/world/2023/sep/02/everyone-has-the-same-dream-mount-fuji-grapples-with-rise-in-tourism)
+- [Thousands of schools serving meals that could contain cancer-causing chemicals](https://www.theguardian.com/education/2023/sep/02/thousands-of-schools-serving-meals-that-could-contain-cancer-causing-chemicals)
+- [Coalmine approvals in Australia this year could add 150m tonnes of CO2 to atmosphere](https://www.theguardian.com/environment/2023/sep/02/coalmine-approvals-in-australia-this-year-could-add-150m-tonnes-of-co2-to-atmosphere)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

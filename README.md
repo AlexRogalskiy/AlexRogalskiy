@@ -355,6 +355,7 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Apple Support prepares to leave X: End of the omni-channel?](https://www.computerworld.com/article/3706088/apple-support-prepares-to-leave-x-end-of-the-omni-channel.html#tk.rss_all)
 - [IBM, Salesforce join forces in enterprise AI push](https://www.computerworld.com/article/3706029/ibm-salesforce-join-forces-in-enterprise-ai-push.html#tk.rss_all)
 - [Pew Research finds a big problem with AI: People don’t trust it](https://www.computerworld.com/article/3705950/pew-research-finds-a-big-problem-with-ai-people-dont-trust-it.html#tk.rss_all)
 - [Microsoft to unbundle Teams from its Office suites in Europe](https://www.computerworld.com/article/3705931/microsoft-to-unbundle-teams-from-its-office-suites-in-europe.html#tk.rss_all)
@@ -364,7 +365,6 @@
 - [Google brings its Generative Search Experience to India, Japan](https://www.computerworld.com/article/3705949/google-brings-its-generative-search-experience-to-india-japan.html#tk.rss_all)
 - [Sept. 12: Let the iPhone 15 games begin](https://www.computerworld.com/article/3705499/sept-12-let-the-iphone-15-games-begin.html#tk.rss_all)
 - [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
-- [As UAW seeks 4-day workweek, the idea gains ground with US workers](https://www.computerworld.com/article/3705553/as-uaw-seeks-4-day-workweek-the-idea-gains-ground-with-us-workers.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

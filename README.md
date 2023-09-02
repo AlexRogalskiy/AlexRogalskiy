@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Y Combinator removes Indian startup from batch over &#39;irregularities&#39;](https://techcrunch.com/2023/08/31/y-combinator-boots-indian-startup-over-irregularities/)
-- [Lichee Pi 4A: Serious RISC-V Desktop Computing](https://www.youtube.com/watch?v=1apoFXZ9ad8)
-- [The Real Story of Musk’s Twitter Takeover](https://www.wsj.com/tech/elon-musk-twitter-x-takeover-walter-isaacson-5f553fa)
-- [BoTorch – Bayesian Optimization in PyTorch](https://botorch.org/)
-- [Longplay 2.0: An album-focused music player](https://adrian.schoenig.me/blog/2023/08/31/longplay-2.0/)
-- [What Are Dreams For?](https://www.newyorker.com/science/elements/what-are-dreams-for)
-- [US Gov research plan and governance framework for solar radiation modification [pdf]](https://www.whitehouse.gov/wp-content/uploads/2023/06/Congressionally-Mandated-Report-on-Solar-Radiation-Modification.pdf)
-- [Relighting Neural Radiance Fields with Shadow and Highlight Hints](https://arxiv.org/abs/2308.13404)
-- [Lidl recalls popular Paw Patrol snacks over inappropriate message](https://www.standard.co.uk/news/uk/lidl-paw-patrol-snacks-recalled-b1103802.html)
-- [X plans to collect users’ biometric data, along with education and job history](https://techcrunch.com/2023/08/31/x-plans-to-collect-users-biometric-data-along-with-education-and-job-history/)
+- [Sag-AFTRA calls for video game actors&#39; strike](https://www.axios.com/2023/09/02/sag-aftra-calls-for-video-game-actors-strike)
+- [Ask HN: Are there any good AI solutions for adjusting CSS via text prompt?](https://news.ycombinator.com/item?id=37358003)
+- [Appearance of Pirates in San Francisco Bay Leaves Boaters and Marinas on Edge](https://www.boatblurb.com/post/appearance-of-pirates-in-san-francisco-bay-leaves-boaters-and-marinas-on-edge)
+- [San Jose mayor wants tech giants to moderate sideshow content](https://sanjosespotlight.com/san-jose-mayor-wants-tech-giants-meta-facebook-instagram-snapchat-tiktok-to-moderate-sideshow-content-street-racing/)
+- [Csound](https://csound.com/get-started.html#your-first-synthesiser)
+- [Ask HN: Do you search for jobs in niche or generalist job boards?](https://news.ycombinator.com/item?id=37357917)
+- [Invasive spotted lanternfly may not damage hardwood trees as previously thought](https://phys.org/news/2023-09-invasive-lanternfly-hardwood-trees-previously.html)
+- [Harvard Fake Data Scandal Explained](https://www.youtube.com/watch?v=d2Tm3Yx4HWI)
+- [The Broken Pain Elemental Secret [video]](https://www.youtube.com/watch?v=uysh-K-HW6s)
+- [How to Reply to Negative Comments [video]](https://www.youtube.com/watch?v=x_QmvZRS85U)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

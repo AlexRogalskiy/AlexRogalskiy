@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Artificial Intelligence and Copyright: Request for comments](https://www.federalregister.gov/documents/2023/08/30/2023-18624/artificial-intelligence-and-copyright)
-- [Driverless cars may already be safer than human drivers](https://www.understandingai.org/p/driverless-cars-may-already-be-safer)
-- [Kagi now accepts PayPal, EUR and Bitcoin payments](https://blog.kagi.com/accepting-paypal-bitcoin)
-- [Wii Architecture – A Practical Analysis](https://www.copetti.org/writings/consoles/wii/)
-- [Types versus sets &lpar;and what about categories?&rpar; &lpar;2022&rpar;](https://lawrencecpaulson.github.io/2022/03/16/Types_vs_Sets.html)
-- [Modern genetic data suggests pre-humans were a group of only 1,280 individuals](https://www.nature.com/articles/d41586-023-02712-4)
-- [Etleap &lpar;YC W13&rpar; is hiring a software engineer in London or San Francisco](https://etleap.com/careers/software-engineer/)
-- [Keep your files inside your VM](https://msimkunas.lt/2023/08/28/vm-file-sharing.html)
-- [Why did old phone numbers start with letters? &lpar;2015&rpar;](https://www.mentalfloss.com/article/61116/why-did-old-phone-numbers-start-letters)
-- [LIBS confirms the presence of sulphur on the lunar surface](https://www.isro.gov.in/LIBSResults.html)
+- [Explaining the Postgres iceberg](https://avestura.dev/blog/explaining-the-postgres-meme)
+- [Wavacity – a FOSS port of Audacity to the web](https://wavacity.com/)
+- [Bright &lpar;YC W15&rpar; Is Hiring](https://www.careersatbright.com/jobs-2/bright-frontend-engineer)
+- [Wikipedia search-by-vibes through millions of pages offline](https://www.leebutterman.com/2023/06/01/offline-realtime-embedding-search.html)
+- [Space travel via tether between asteroids](https://blog.cerowrt.org/post/toutatis/)
+- [Ventana’s Unconventional Veyron V1](https://chipsandcheese.com/2023/09/01/hot-chips-2023-ventanas-unconventional-veyron-v1/)
+- [Shining a light on the digital dark age](https://longnow.org/ideas/shining-a-light-on-the-digital-dark-age/)
+- [Philosophy of Coroutines](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/coroutines-philosophy/)
+- [Singapore in Colour](https://www.straitstimes.com/multimedia/graphics/2023/08/singapore-in-colour/)
+- [Linear algebra for programmers](https://coffeemug.github.io/spakhm.com/posts/01-lingalg-p1/linalg-p1.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

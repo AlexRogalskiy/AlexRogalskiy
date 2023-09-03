@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Sag-AFTRA calls for video game actors&#39; strike](https://www.axios.com/2023/09/02/sag-aftra-calls-for-video-game-actors-strike)
-- [Ask HN: Are there any good AI solutions for adjusting CSS via text prompt?](https://news.ycombinator.com/item?id=37358003)
-- [Appearance of Pirates in San Francisco Bay Leaves Boaters and Marinas on Edge](https://www.boatblurb.com/post/appearance-of-pirates-in-san-francisco-bay-leaves-boaters-and-marinas-on-edge)
-- [San Jose mayor wants tech giants to moderate sideshow content](https://sanjosespotlight.com/san-jose-mayor-wants-tech-giants-meta-facebook-instagram-snapchat-tiktok-to-moderate-sideshow-content-street-racing/)
-- [Csound](https://csound.com/get-started.html#your-first-synthesiser)
-- [Ask HN: Do you search for jobs in niche or generalist job boards?](https://news.ycombinator.com/item?id=37357917)
-- [Invasive spotted lanternfly may not damage hardwood trees as previously thought](https://phys.org/news/2023-09-invasive-lanternfly-hardwood-trees-previously.html)
-- [Harvard Fake Data Scandal Explained](https://www.youtube.com/watch?v=d2Tm3Yx4HWI)
-- [The Broken Pain Elemental Secret [video]](https://www.youtube.com/watch?v=uysh-K-HW6s)
-- [How to Reply to Negative Comments [video]](https://www.youtube.com/watch?v=x_QmvZRS85U)
+- [Fair Allocation of Exposure in Recommender Systems](https://montrealethics.ai/fair-allocation-of-exposure-in-recommender-systems/)
+- [Burning Man attendees unable to leave after rain turns site to muddy quagmire](https://www.washingtonpost.com/entertainment/2023/09/02/burning-man-festival-weather/)
+- [Why Did a Drug Gang Kill 43 Students? Text Messages Hold Clues](https://www.nytimes.com/2023/09/02/world/americas/mexico-iguala-students-kidnapping.html)
+- [Refurb weekend: PowerBook Duo 2300c](http://oldvcr.blogspot.com/2023/09/refurb-weekend-powerbook-duo-2300c.html)
+- [Android 12’s Material You Is Terrible and You Know It](https://www.brendanmcginley.com/2021/12/03/android-12s-material-you-is-terrible-you-know-it/)
+- [Apps by Apple](https://www.apple.com/apps/)
+- [Show HN: I made an open-source TypeScript to JSON for mockering data](https://github.com/Devrax/Butlermock)
+- [Panels with inflatable pneumatic cells can bend flat structures in desired ways](https://techxplore.com/news/2023-08-thin-panels-inflatable-pneumatic-cells.html)
+- [I joined the bug 323 community](https://studios.ptilouk.net/superfluous-returnz/blog/2023-08-11_bug323.html)
+- [Altmetrics: A Manifesto &lpar;2011&rpar;](http://altmetrics.org/manifesto/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

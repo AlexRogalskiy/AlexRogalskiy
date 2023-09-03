@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Explaining the Postgres iceberg](https://avestura.dev/blog/explaining-the-postgres-meme)
-- [Wavacity – a FOSS port of Audacity to the web](https://wavacity.com/)
-- [Bright &lpar;YC W15&rpar; Is Hiring](https://www.careersatbright.com/jobs-2/bright-frontend-engineer)
-- [Wikipedia search-by-vibes through millions of pages offline](https://www.leebutterman.com/2023/06/01/offline-realtime-embedding-search.html)
-- [Space travel via tether between asteroids](https://blog.cerowrt.org/post/toutatis/)
-- [Ventana’s Unconventional Veyron V1](https://chipsandcheese.com/2023/09/01/hot-chips-2023-ventanas-unconventional-veyron-v1/)
-- [Shining a light on the digital dark age](https://longnow.org/ideas/shining-a-light-on-the-digital-dark-age/)
-- [Philosophy of Coroutines](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/coroutines-philosophy/)
-- [Singapore in Colour](https://www.straitstimes.com/multimedia/graphics/2023/08/singapore-in-colour/)
-- [Linear algebra for programmers](https://coffeemug.github.io/spakhm.com/posts/01-lingalg-p1/linalg-p1.html)
+- [Baresip – An Open Source modular SIP User-Agent with audio and video support](https://github.com/baresip/baresip)
+- [Vigil, the eternal morally vigilant programming language](https://github.com/munificent/vigil)
+- [How to type “blimpy” in Emacs [video]](https://www.youtube.com/watch?v=2VOnKMJqIL0)
+- [Focus: A simple and fast text editor written in Jai](https://github.com/focus-editor/focus)
+- [Rescuing the lost code and stereo sound to Sinistar [video]](https://www.youtube.com/watch?v=ZRDdKZ7V54I)
+- [MindsDB &lpar;YC W20&rpar; is hiring a senior front end engineer](https://www.ycombinator.com/companies/mindsdb/jobs/wnUfBhO-senior-frontend-engineer)
+- [Show HN: Menu Bar Calendar on macOS](https://sindresorhus.com/menu-bar-calendar)
+- [Calibre replacement considerations &lpar;2019&rpar;](https://anarc.at/software/desktop/calibre/)
+- [GameRoy: JIT Compilation in High-Accuracy Game Boy Emulation](https://rodrigodd.github.io/2023/09/02/gameroy-jit.html)
+- [Found in a Library Book &lpar;2022&rpar;](https://oaklandlibrary.org/found-in-a-library-book/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

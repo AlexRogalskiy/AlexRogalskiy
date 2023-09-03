@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war at a glance: what we know on day 556 of the invasion](https://www.theguardian.com/world/2023/sep/02/russia-ukraine-war-at-a-glance-what-we-know-on-day-556-of-the-invasion)
-- [Russia adds Nobel prize-winning journalist Dmitry Muratov to list of ‘foreign agents’](https://www.theguardian.com/world/2023/sep/02/russia-adds-nobel-prize-winning-journalist-dmitry-muratov-to-list-of-foreign-agents)
-- [Rudy Giuliani pleads not guilty to Georgia election racketeering charges](https://www.theguardian.com/us-news/2023/sep/01/rudy-giuliani-not-guilty-georgia-election-racketeering-charges)
-- [It’s back to the Futuro in Australia, where seven of the ‘UFO houses’ have landed](https://www.theguardian.com/artanddesign/2023/sep/02/its-back-to-the-futuro-in-australia-where-seven-of-the-ufo-houses-have-landed)
-- [Bats and brain worms: how humanity’s environmental impact is giving rise to new infections](https://www.theguardian.com/australia-news/2023/sep/02/bats-and-brain-worms-how-humanitys-environmental-impact-is-giving-rise-to-new-infections)
-- [Buy bananas, shop in season and befriend your grocer: five ways to get better fruit and veg](https://www.theguardian.com/food/2023/sep/02/buy-bananas-shop-in-season-and-befriend-your-grocer-five-ways-to-get-better-fruit-and-veg)
-- [Tottenham agree £47m deal with Nottingham Forest for Brennan Johnson](https://www.theguardian.com/football/2023/sep/01/tottenham-agree-47m-deal-with-nottingham-forest-for-brennan-johnson)
-- [‘Everyone has the same dream’: Mount Fuji grapples with rise in tourism](https://www.theguardian.com/world/2023/sep/02/everyone-has-the-same-dream-mount-fuji-grapples-with-rise-in-tourism)
-- [Thousands of schools serving meals that could contain cancer-causing chemicals](https://www.theguardian.com/education/2023/sep/02/thousands-of-schools-serving-meals-that-could-contain-cancer-causing-chemicals)
-- [Coalmine approvals in Australia this year could add 150m tonnes of CO2 to atmosphere](https://www.theguardian.com/environment/2023/sep/02/coalmine-approvals-in-australia-this-year-could-add-150m-tonnes-of-co2-to-atmosphere)
+- [Russia-Ukraine war at a glance: what we know on day 557 of the invasion](https://www.theguardian.com/world/2023/sep/03/russia-ukraine-war-at-a-glance-what-we-know-on-day-557-of-the-invasion)
+- [Ukrainian oligarch Ihor Kolomoisky detained on suspicion of fraud and money laundering](https://www.theguardian.com/world/2023/sep/03/ukrainian-oligarch-ihor-kolomoisky-detained-on-suspicion-of-and-money-laundering)
+- [‘It has an addictive element’: the Australians chasing the high of long-distance ice swimming](https://www.theguardian.com/lifeandstyle/2023/sep/03/australia-ice-swimming)
+- [In the new order where ‘facts’ are contested, can an Indigenous voice to parliament be delivered? | Julianne Schultz](https://www.theguardian.com/commentisfree/2023/sep/03/in-the-new-order-where-facts-are-contested-can-an-indigenous-voice-to-parliament-be-delivered)
+- [Modi’s unifying message for the G20 summit looks dated as globalisation falls apart](https://www.theguardian.com/business/2023/sep/03/modis-unifying-message-for-the-g20-summit-looks-dated-as-globalisation-falls-apart)
+- [Chris Eubank Jr enjoys sweet revenge after stopping Liam Smith in 10th round](https://www.theguardian.com/sport/2023/sep/02/boxing-chris-eubank-enjoys-sweet-revenge-after-stopping-liam-smith-in-10th-round)
+- [We Love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2023/sep/02/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Editor’s picks: 5 ways to style a trench coat – in pictures](https://www.theguardian.com/fashion/gallery/2023/sep/02/editors-picks-5-ways-to-style-a-trench-coat-in-pictures)
+- [Sir Mark Jones put forward as interim director of British Museum](https://www.theguardian.com/culture/2023/sep/02/sir-mark-jones-put-forward-as-interim-director-of-british-museum)
+- [Dan Evans fights hard but unable to stop supreme Carlos Alcaraz at US Open](https://www.theguardian.com/sport/2023/sep/02/tennis-us-open-dan-evans-carlos-alcaraz-jack-draper)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

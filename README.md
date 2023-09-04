@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Baresip – An Open Source modular SIP User-Agent with audio and video support](https://github.com/baresip/baresip)
-- [Vigil, the eternal morally vigilant programming language](https://github.com/munificent/vigil)
-- [How to type “blimpy” in Emacs [video]](https://www.youtube.com/watch?v=2VOnKMJqIL0)
-- [Focus: A simple and fast text editor written in Jai](https://github.com/focus-editor/focus)
-- [Rescuing the lost code and stereo sound to Sinistar [video]](https://www.youtube.com/watch?v=ZRDdKZ7V54I)
-- [MindsDB &lpar;YC W20&rpar; is hiring a senior front end engineer](https://www.ycombinator.com/companies/mindsdb/jobs/wnUfBhO-senior-frontend-engineer)
-- [Show HN: Menu Bar Calendar on macOS](https://sindresorhus.com/menu-bar-calendar)
-- [Calibre replacement considerations &lpar;2019&rpar;](https://anarc.at/software/desktop/calibre/)
-- [GameRoy: JIT Compilation in High-Accuracy Game Boy Emulation](https://rodrigodd.github.io/2023/09/02/gameroy-jit.html)
-- [Found in a Library Book &lpar;2022&rpar;](https://oaklandlibrary.org/found-in-a-library-book/)
+- [Everything I know about floppy disks](https://thejpster.org.uk/blog/blog-2023-08-28/)
+- [WiiLink – Japanese Wii channels revived](https://www.wiilink24.com/)
+- [Lego 3-axis styrofoam cutter [video]](https://www.youtube.com/watch?v=gR0SYhG76fw)
+- [He created the Katamari games, but they’re rolling on without him](https://www.nytimes.com/2023/07/28/arts/katamari-damacy-keita-takahashi.html)
+- [The Containment of George Kennan &lpar;2022&rpar;](https://claremontreviewofbooks.com/the-containment-of-george-kennan/)
+- [How to write correct code by construction using the Coq Proof Assistant](https://betterprogramming.pub/a-taste-of-coq-and-correct-code-by-construction-111bf74d3b98)
+- [Yenish people](https://en.wikipedia.org/wiki/Yenish_people)
+- [Cola: A text CRDT for real-time collaborative editing](https://nomad.foo/blog/cola)
+- [Google preemptively banned hundreds of millions of &#39;pirate&#39; URLs last year](https://torrentfreak.com/google-preemptively-banned-hundreds-of-millions-of-pirate-urls-last-year-230903/)
+- [Historians have an increasingly strong incentive to tell dramatic stories](https://www.ian-leslie.com/p/stories-are-bad-for-your-intelligence)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

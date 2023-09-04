@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war at a glance: what we know on day 557 of the invasion](https://www.theguardian.com/world/2023/sep/03/russia-ukraine-war-at-a-glance-what-we-know-on-day-557-of-the-invasion)
-- [Ukrainian oligarch Ihor Kolomoisky detained on suspicion of fraud and money laundering](https://www.theguardian.com/world/2023/sep/03/ukrainian-oligarch-ihor-kolomoisky-detained-on-suspicion-of-and-money-laundering)
-- [‘It has an addictive element’: the Australians chasing the high of long-distance ice swimming](https://www.theguardian.com/lifeandstyle/2023/sep/03/australia-ice-swimming)
-- [In the new order where ‘facts’ are contested, can an Indigenous voice to parliament be delivered? | Julianne Schultz](https://www.theguardian.com/commentisfree/2023/sep/03/in-the-new-order-where-facts-are-contested-can-an-indigenous-voice-to-parliament-be-delivered)
-- [Modi’s unifying message for the G20 summit looks dated as globalisation falls apart](https://www.theguardian.com/business/2023/sep/03/modis-unifying-message-for-the-g20-summit-looks-dated-as-globalisation-falls-apart)
-- [Chris Eubank Jr enjoys sweet revenge after stopping Liam Smith in 10th round](https://www.theguardian.com/sport/2023/sep/02/boxing-chris-eubank-enjoys-sweet-revenge-after-stopping-liam-smith-in-10th-round)
-- [We Love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2023/sep/02/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Editor’s picks: 5 ways to style a trench coat – in pictures](https://www.theguardian.com/fashion/gallery/2023/sep/02/editors-picks-5-ways-to-style-a-trench-coat-in-pictures)
-- [Sir Mark Jones put forward as interim director of British Museum](https://www.theguardian.com/culture/2023/sep/02/sir-mark-jones-put-forward-as-interim-director-of-british-museum)
-- [Dan Evans fights hard but unable to stop supreme Carlos Alcaraz at US Open](https://www.theguardian.com/sport/2023/sep/02/tennis-us-open-dan-evans-carlos-alcaraz-jack-draper)
+- [The chilling rise of AI scams – podcast](https://www.theguardian.com/news/audio/2023/sep/04/the-chilling-rise-of-ai-scams-podcast)
+- [French actor Mathieu Kassovitz ‘seriously injured’ in motorbike accident](https://www.theguardian.com/film/2023/sep/04/mathieu-kassovitz-french-director-actor-seriously-injured-motorbike-accident-paris)
+- [Japan wrestles with its views on ‘outside people’ amid population crisis](https://www.theguardian.com/world/2023/sep/04/japan-wrestles-with-its-views-on-outside-people-amid-population-crisis)
+- [Russia-Ukraine war at a glance: what we know on day 558 of the invasion](https://www.theguardian.com/world/2023/sep/04/russia-ukraine-war-at-a-glance-what-we-know-on-day-558-of-the-invasion)
+- [More than half of UK children do not read in their spare time, survey reveals](https://www.theguardian.com/books/2023/sep/04/half-of-uk-children-do-not-read-in-spare-time)
+- [High interest rates ‘will lead to thousands of UK firms failing in 2024’](https://www.theguardian.com/business/2023/sep/04/high-interest-rates-lead-thousands-firms-failing-2024)
+- [Jamie Oliver calls for free school meals to be extended across England](https://www.theguardian.com/education/2023/sep/04/jamie-oliver-calls-for-free-school-meals-to-be-extended-across-england)
+- [Expect inflation blip but our plan is working, says Jeremy Hunt](https://www.theguardian.com/business/2023/sep/03/expect-inflation-blip-but-our-plan-working-jeremy-hunt)
+- [Coco Gauff shows strength to defy coaches and beat Caroline Wozniacki](https://www.theguardian.com/sport/2023/sep/03/coco-gauff-shows-strength-to-defy-coaches-and-beat-caroline-wozniacki)
+- [Rishi Sunak ‘poised to revoke ban on onshore windfarms’ – report](https://www.theguardian.com/environment/2023/sep/03/sunak-poised-revoke-ban-onshore-windfarms-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

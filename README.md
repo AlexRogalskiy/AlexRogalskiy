@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Fair Allocation of Exposure in Recommender Systems](https://montrealethics.ai/fair-allocation-of-exposure-in-recommender-systems/)
-- [Burning Man attendees unable to leave after rain turns site to muddy quagmire](https://www.washingtonpost.com/entertainment/2023/09/02/burning-man-festival-weather/)
-- [Why Did a Drug Gang Kill 43 Students? Text Messages Hold Clues](https://www.nytimes.com/2023/09/02/world/americas/mexico-iguala-students-kidnapping.html)
-- [Refurb weekend: PowerBook Duo 2300c](http://oldvcr.blogspot.com/2023/09/refurb-weekend-powerbook-duo-2300c.html)
-- [Android 12’s Material You Is Terrible and You Know It](https://www.brendanmcginley.com/2021/12/03/android-12s-material-you-is-terrible-you-know-it/)
-- [Apps by Apple](https://www.apple.com/apps/)
-- [Show HN: I made an open-source TypeScript to JSON for mockering data](https://github.com/Devrax/Butlermock)
-- [Panels with inflatable pneumatic cells can bend flat structures in desired ways](https://techxplore.com/news/2023-08-thin-panels-inflatable-pneumatic-cells.html)
-- [I joined the bug 323 community](https://studios.ptilouk.net/superfluous-returnz/blog/2023-08-11_bug323.html)
-- [Altmetrics: A Manifesto &lpar;2011&rpar;](http://altmetrics.org/manifesto/)
+- [“X” Didn’t Pay Severance. Now It’s Facing 2,200 Cases – and Big Fees](https://www.motherjones.com/media/2023/09/x-twitter-severance-pay-arbitration-cases-fees/)
+- [Weight-loss drug semaglutide, Wegovy, helps fight heart failure, too](https://www.usatoday.com/story/news/health/2023/08/25/wegovy-semaglutide-weight-loss-drugs-help-heart/70677105007/)
+- [Housing affordability so strained: Couples want Cash rather than a Wedding Gift](https://fortune.com/2023/09/03/housing-market-affordability-couples-want-down-payment-cash-for-wedding-gift/)
+- [Humanity’s Ancestors Nearly Died Out, Genetic Study Suggests](https://www.nytimes.com/2023/08/31/science/human-survival-bottleneck.html)
+- [A Technical Cofounder Tells You How to Find Your Technical Cofounder, Where The](https://hunterwalk.com/2023/09/03/a-technical-cofounder-tells-you-how-to-find-your-technical-cofounder-where-the-stuff-we-return-to-amazon-goes-a-benchmark-vc-on-rethinking-your-ai-startup-and-more/)
+- [The era of “free” returns is coming to an end at Amazon and other retailers](https://old.reddit.com/r/amazonprime/comments/13c1hei/the_era_of_free_returns_is_coming_to_an_end_at/)
+- [RiiConnect24 – WiiConnect24 Channels Revived](https://rc24.xyz/)
+- [Scientists develop finger sweat test to detect antipsychotic drugs in patients](https://medicalxpress.com/news/2023-08-scientists-finger-antipsychotic-drugs-patients.html)
+- [With five old phones and some Pew data, Marianna Spring monitors social media](https://www.niemanlab.org/2023/08/with-five-old-phones-and-some-pew-data-the-bbcs-marianna-spring-monitors-social-media-from-the-inside/)
+- [Sweden is testing a semi-truck covered in 100 square meters of solar panels](https://www.popsci.com/technology/scania-solar-truck/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

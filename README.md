@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [The chilling rise of AI scams – podcast](https://www.theguardian.com/news/audio/2023/sep/04/the-chilling-rise-of-ai-scams-podcast)
-- [French actor Mathieu Kassovitz ‘seriously injured’ in motorbike accident](https://www.theguardian.com/film/2023/sep/04/mathieu-kassovitz-french-director-actor-seriously-injured-motorbike-accident-paris)
-- [Japan wrestles with its views on ‘outside people’ amid population crisis](https://www.theguardian.com/world/2023/sep/04/japan-wrestles-with-its-views-on-outside-people-amid-population-crisis)
-- [Russia-Ukraine war at a glance: what we know on day 558 of the invasion](https://www.theguardian.com/world/2023/sep/04/russia-ukraine-war-at-a-glance-what-we-know-on-day-558-of-the-invasion)
-- [More than half of UK children do not read in their spare time, survey reveals](https://www.theguardian.com/books/2023/sep/04/half-of-uk-children-do-not-read-in-spare-time)
-- [High interest rates ‘will lead to thousands of UK firms failing in 2024’](https://www.theguardian.com/business/2023/sep/04/high-interest-rates-lead-thousands-firms-failing-2024)
-- [Jamie Oliver calls for free school meals to be extended across England](https://www.theguardian.com/education/2023/sep/04/jamie-oliver-calls-for-free-school-meals-to-be-extended-across-england)
-- [Expect inflation blip but our plan is working, says Jeremy Hunt](https://www.theguardian.com/business/2023/sep/03/expect-inflation-blip-but-our-plan-working-jeremy-hunt)
-- [Coco Gauff shows strength to defy coaches and beat Caroline Wozniacki](https://www.theguardian.com/sport/2023/sep/03/coco-gauff-shows-strength-to-defy-coaches-and-beat-caroline-wozniacki)
-- [Rishi Sunak ‘poised to revoke ban on onshore windfarms’ – report](https://www.theguardian.com/environment/2023/sep/03/sunak-poised-revoke-ban-onshore-windfarms-report)
+- [How safe are the priceless treasures in our museums? – podcast](https://www.theguardian.com/news/audio/2023/sep/05/how-safe-priceless-treasures-in-uk-museums-podcast)
+- [No more cordon blur: France prepares to ban vegetarian products from using meaty language](https://www.theguardian.com/world/2023/sep/05/france-prepares-to-ban-vegetarian-products-from-using-meaty-language)
+- [Image appears to show Russian general Sergei Surovikin for first time since Wagner mutiny](https://www.theguardian.com/world/2023/sep/05/general-sergei-surovikin-russia-first-image-photo-release-wagner-mutiny)
+- [China ‘gifts’ and cost concerns: Pacific Games stir controversy in Solomon Islands](https://www.theguardian.com/world/2023/sep/05/pacific-games-2023-solomon-island-china-cost-controversy)
+- [Russian and Belarusian swimmers given green light to compete as neutrals](https://www.theguardian.com/sport/2023/sep/05/russian-belarusian-swimmers-can-compete-neutrals-world-aquatics-events)
+- [Russia-Ukraine war at a glance: what we know on day 559 of the invasion](https://www.theguardian.com/world/2023/sep/05/russia-ukraine-war-at-a-glance-what-we-know-on-day-559-of-the-invasion)
+- [Burning Man revelers begin exodus from festival after road reopens](https://www.theguardian.com/culture/2023/sep/05/burning-man-festival-2023-nevada-road-open-reopens-people-leave-exodus-rain-wet-weather)
+- [Retailers look on sunny side as holidaymakers splash out](https://www.theguardian.com/business/2023/sep/05/retailers-look-on-sunny-side-as-holidaymakers-splash-out)
+- [Davina McCall: tide is turning on women’s health and rights](https://www.theguardian.com/tv-and-radio/2023/sep/05/davina-mccall-tide-is-turning-on-womens-health-and-rights)
+- [Professor Hakim Adi shortlisted for prestigious Wolfson award](https://www.theguardian.com/books/2023/sep/05/professor-hakim-adi-shortlisted-for-prestigious-wolfson-award)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

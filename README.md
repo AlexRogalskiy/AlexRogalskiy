@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [“X” Didn’t Pay Severance. Now It’s Facing 2,200 Cases – and Big Fees](https://www.motherjones.com/media/2023/09/x-twitter-severance-pay-arbitration-cases-fees/)
-- [Weight-loss drug semaglutide, Wegovy, helps fight heart failure, too](https://www.usatoday.com/story/news/health/2023/08/25/wegovy-semaglutide-weight-loss-drugs-help-heart/70677105007/)
-- [Housing affordability so strained: Couples want Cash rather than a Wedding Gift](https://fortune.com/2023/09/03/housing-market-affordability-couples-want-down-payment-cash-for-wedding-gift/)
-- [Humanity’s Ancestors Nearly Died Out, Genetic Study Suggests](https://www.nytimes.com/2023/08/31/science/human-survival-bottleneck.html)
-- [A Technical Cofounder Tells You How to Find Your Technical Cofounder, Where The](https://hunterwalk.com/2023/09/03/a-technical-cofounder-tells-you-how-to-find-your-technical-cofounder-where-the-stuff-we-return-to-amazon-goes-a-benchmark-vc-on-rethinking-your-ai-startup-and-more/)
-- [The era of “free” returns is coming to an end at Amazon and other retailers](https://old.reddit.com/r/amazonprime/comments/13c1hei/the_era_of_free_returns_is_coming_to_an_end_at/)
-- [RiiConnect24 – WiiConnect24 Channels Revived](https://rc24.xyz/)
-- [Scientists develop finger sweat test to detect antipsychotic drugs in patients](https://medicalxpress.com/news/2023-08-scientists-finger-antipsychotic-drugs-patients.html)
-- [With five old phones and some Pew data, Marianna Spring monitors social media](https://www.niemanlab.org/2023/08/with-five-old-phones-and-some-pew-data-the-bbcs-marianna-spring-monitors-social-media-from-the-inside/)
-- [Sweden is testing a semi-truck covered in 100 square meters of solar panels](https://www.popsci.com/technology/scania-solar-truck/)
+- [Water on the Moon and the Civilizations of the Future](https://english.elpais.com/science-tech/2023-09-04/water-on-the-moon-and-the-civilizations-of-the-future.html)
+- [Remote work is harder to come by as companies push for return to office](https://text.npr.org/1196731284)
+- [SoFi to underwrite first big IPO after securing Instacart listing](https://www.ft.com/content/d6e893fa-2e35-4481-a8ce-7b481bcfc99f)
+- [Getting started with LLMs and structured data](https://www.neum.ai/post/llm-spreadsheets)
+- [A fruit fly has landed in your wine – is it OK to drink?](https://theconversation.com/a-fruit-fly-has-landed-in-your-wine-is-it-ok-to-drink-211847)
+- [Minecraft on a Ti-84 &lpar;Isometric Projection&rpar;](https://www.youtube.com/watch?v=Bj9CiMO66xk)
+- [What Is A1C? What Is Insulin Resistence](https://twitter.com/keypitshot/status/1698876592754176057)
+- [‘California Forever’ website touts the city tech billionaires trying to build](https://www.theverge.com/2023/9/3/23857664/california-forever-tech-billionaire-secret-city)
+- [Don&#39;t Procrastinate, Iterate](https://candid.dev/blog/dont-procrastinate-iterate/)
+- [Elon Musk Takes Aim at Anti-Defamation League, Threatens Lawsuit](https://www.thedailybeast.com/elon-musk-blames-anti-defamation-league-for-falling-revenue-threatens-lawsuit)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

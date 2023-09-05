@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Everything I know about floppy disks](https://thejpster.org.uk/blog/blog-2023-08-28/)
-- [WiiLink – Japanese Wii channels revived](https://www.wiilink24.com/)
-- [Lego 3-axis styrofoam cutter [video]](https://www.youtube.com/watch?v=gR0SYhG76fw)
-- [He created the Katamari games, but they’re rolling on without him](https://www.nytimes.com/2023/07/28/arts/katamari-damacy-keita-takahashi.html)
-- [The Containment of George Kennan &lpar;2022&rpar;](https://claremontreviewofbooks.com/the-containment-of-george-kennan/)
-- [How to write correct code by construction using the Coq Proof Assistant](https://betterprogramming.pub/a-taste-of-coq-and-correct-code-by-construction-111bf74d3b98)
-- [Yenish people](https://en.wikipedia.org/wiki/Yenish_people)
-- [Cola: A text CRDT for real-time collaborative editing](https://nomad.foo/blog/cola)
-- [Google preemptively banned hundreds of millions of &#39;pirate&#39; URLs last year](https://torrentfreak.com/google-preemptively-banned-hundreds-of-millions-of-pirate-urls-last-year-230903/)
-- [Historians have an increasingly strong incentive to tell dramatic stories](https://www.ian-leslie.com/p/stories-are-bad-for-your-intelligence)
+- [Videobug &lpar;YC S22, automated snapshot testing&rpar; Is Hiring its founding engineer](https://news.ycombinator.com/item?id=37386711)
+- [Get a cable modem, go to jail &lpar;1999&rpar;](http://telecom.csail.mit.edu/judy-sammel.html)
+- [Multiple Notepad++ Flaws Let Attackers Execute Arbitrary Code](https://cybersecuritynews.com/multiple-notepad-flaw/)
+- [Oscilloscope watch ships after 10 years on kickstarter](https://www.tomshardware.com/news/oscilloscope-watch-ships-after-10-years)
+- [Emacs Bedrock: A minimal Emacs starter kit](https://sr.ht/~ashton314/emacs-bedrock/)
+- [WASM: Big deal or little deal?](https://www.theregister.com/2023/09/01/web_assembly_wasm_column/)
+- [LLM Python/CLI tool adds support for embeddings](https://simonwillison.net/2023/Sep/4/llm-embeddings/)
+- [Writing a C compiler in 500 lines of Python](https://vgel.me/posts/c500/)
+- [Spectrolite – Mac app to make colorful risograph prints and zines more easily](https://spectrolite.app)
+- [Chinchilla’s death](https://espadrine.github.io/blog/posts/chinchilla-s-death.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

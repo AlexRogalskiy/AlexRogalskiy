@@ -355,6 +355,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [UK government outlines five objectives for AI Safety Summit](https://www.computerworld.com/article/3706051/uk-government-outlines-five-objectives-for-ai-safety-summit.html#tk.rss_all)
+- [Microsoft blames Aussie data center outage on staff strength, failed automation](https://www.networkworld.com/article/3706093/microsoft-blames-aussie-data-center-outage-on-staff-strength-failed-automation.html#tk.rss_all)
+- [How to share a Windows 10 or 11 PC](https://www.computerworld.com/article/3046707/how-to-share-a-windows-10-or-11-pc.html#tk.rss_all)
 - [Apple Support prepares to leave X: End of the omni-channel?](https://www.computerworld.com/article/3706088/apple-support-prepares-to-leave-x-end-of-the-omni-channel.html#tk.rss_all)
 - [IBM, Salesforce join forces in enterprise AI push](https://www.computerworld.com/article/3706029/ibm-salesforce-join-forces-in-enterprise-ai-push.html#tk.rss_all)
 - [Pew Research finds a big problem with AI: People don’t trust it](https://www.computerworld.com/article/3705950/pew-research-finds-a-big-problem-with-ai-people-dont-trust-it.html#tk.rss_all)
@@ -362,9 +365,6 @@
 - [With BYOD comes responsibility — and many firms aren&#39;t delivering](https://www.computerworld.com/article/3705988/with-byod-comes-responsibility-and-many-firms-arent-delivering.html#tk.rss_all)
 - [US Copyright Office opens inquiry into laws needed to rein in genAI](https://www.computerworld.com/article/3705928/us-copyright-office-opens-inquiry-into-laws-needed-to-rein-in-genai.html#tk.rss_all)
 - [4 secret settings for a smarter Chrome Android setup](https://www.computerworld.com/article/2474114/chrome-android-smarter-settings.html#tk.rss_all)
-- [Google brings its Generative Search Experience to India, Japan](https://www.computerworld.com/article/3705949/google-brings-its-generative-search-experience-to-india-japan.html#tk.rss_all)
-- [Sept. 12: Let the iPhone 15 games begin](https://www.computerworld.com/article/3705499/sept-12-let-the-iphone-15-games-begin.html#tk.rss_all)
-- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

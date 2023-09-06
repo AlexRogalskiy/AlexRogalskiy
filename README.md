@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [How safe are the priceless treasures in our museums? – podcast](https://www.theguardian.com/news/audio/2023/sep/05/how-safe-priceless-treasures-in-uk-museums-podcast)
-- [No more cordon blur: France prepares to ban vegetarian products from using meaty language](https://www.theguardian.com/world/2023/sep/05/france-prepares-to-ban-vegetarian-products-from-using-meaty-language)
-- [Image appears to show Russian general Sergei Surovikin for first time since Wagner mutiny](https://www.theguardian.com/world/2023/sep/05/general-sergei-surovikin-russia-first-image-photo-release-wagner-mutiny)
-- [China ‘gifts’ and cost concerns: Pacific Games stir controversy in Solomon Islands](https://www.theguardian.com/world/2023/sep/05/pacific-games-2023-solomon-island-china-cost-controversy)
-- [Russian and Belarusian swimmers given green light to compete as neutrals](https://www.theguardian.com/sport/2023/sep/05/russian-belarusian-swimmers-can-compete-neutrals-world-aquatics-events)
-- [Russia-Ukraine war at a glance: what we know on day 559 of the invasion](https://www.theguardian.com/world/2023/sep/05/russia-ukraine-war-at-a-glance-what-we-know-on-day-559-of-the-invasion)
-- [Burning Man revelers begin exodus from festival after road reopens](https://www.theguardian.com/culture/2023/sep/05/burning-man-festival-2023-nevada-road-open-reopens-people-leave-exodus-rain-wet-weather)
-- [Retailers look on sunny side as holidaymakers splash out](https://www.theguardian.com/business/2023/sep/05/retailers-look-on-sunny-side-as-holidaymakers-splash-out)
-- [Davina McCall: tide is turning on women’s health and rights](https://www.theguardian.com/tv-and-radio/2023/sep/05/davina-mccall-tide-is-turning-on-womens-health-and-rights)
-- [Professor Hakim Adi shortlisted for prestigious Wolfson award](https://www.theguardian.com/books/2023/sep/05/professor-hakim-adi-shortlisted-for-prestigious-wolfson-award)
+- [Frances Tiafoe v Ben Shelton: US Open 2023 quarter-final – live](https://www.theguardian.com/sport/live/2023/sep/05/frances-tiafoe-v-ben-shelton-us-open-2023-quarter-final-live)
+- [The scandal of Bangladesh’s missing children – podcast - part one](https://www.theguardian.com/news/audio/2023/sep/06/the-scandal-of-bangladeshs-missing-children-podcast-part-one)
+- [Fake social media posts on Burning Man festival stir conspiracy theory frenzy](https://www.theguardian.com/culture/2023/sep/05/ebola-outbreak-burning-man-rumor-tiktok-twitter)
+- [Three people rescued off Australian coast after yacht damaged by multiple shark attacks](https://www.theguardian.com/australia-news/2023/sep/06/three-people-rescued-off-australian-coast-after-yacht-damaged-by-multiple-shark-attacks)
+- [China dodges western 5G chip embargo with new Huawei Mate 60 phone](https://www.theguardian.com/technology/2023/sep/06/huawei-mate-60-pro-mobile-phone-china-dodges-5g-chip-embargo)
+- [French actor Emmanuelle Béart says she was victim of incest as a child](https://www.theguardian.com/film/2023/sep/06/french-actor-emmanuelle-beart-says-she-was-victim-of-incest-as-a-child)
+- [Russia-Ukraine war at a glance: what we know on day 560 of the invasion](https://www.theguardian.com/world/2023/sep/06/russia-ukraine-war-at-a-glance-what-we-know-on-day-560-of-the-invasion)
+- [North Korea will ‘pay a price’ if it supplies arms to Russia, says US](https://www.theguardian.com/world/2023/sep/06/north-korea-will-pay-a-price-if-it-supplies-arms-to-russia-says-us)
+- [In newly gleaming Delhi, Modi hopes G20 will cement India as a major global player](https://www.theguardian.com/world/2023/sep/06/in-newly-gleaming-delhi-modi-hopes-g20-will-cement-india-as-a-major-global-player)
+- [Blue plaques scheme could be extended outside of London](https://www.theguardian.com/culture/2023/sep/05/blue-plaques-scheme-could-be-extended-outside-of-london)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

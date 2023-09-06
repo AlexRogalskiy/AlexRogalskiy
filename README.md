@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Water on the Moon and the Civilizations of the Future](https://english.elpais.com/science-tech/2023-09-04/water-on-the-moon-and-the-civilizations-of-the-future.html)
-- [Remote work is harder to come by as companies push for return to office](https://text.npr.org/1196731284)
-- [SoFi to underwrite first big IPO after securing Instacart listing](https://www.ft.com/content/d6e893fa-2e35-4481-a8ce-7b481bcfc99f)
-- [Getting started with LLMs and structured data](https://www.neum.ai/post/llm-spreadsheets)
-- [A fruit fly has landed in your wine – is it OK to drink?](https://theconversation.com/a-fruit-fly-has-landed-in-your-wine-is-it-ok-to-drink-211847)
-- [Minecraft on a Ti-84 &lpar;Isometric Projection&rpar;](https://www.youtube.com/watch?v=Bj9CiMO66xk)
-- [What Is A1C? What Is Insulin Resistence](https://twitter.com/keypitshot/status/1698876592754176057)
-- [‘California Forever’ website touts the city tech billionaires trying to build](https://www.theverge.com/2023/9/3/23857664/california-forever-tech-billionaire-secret-city)
-- [Don&#39;t Procrastinate, Iterate](https://candid.dev/blog/dont-procrastinate-iterate/)
-- [Elon Musk Takes Aim at Anti-Defamation League, Threatens Lawsuit](https://www.thedailybeast.com/elon-musk-blames-anti-defamation-league-for-falling-revenue-threatens-lawsuit)
+- [Criminals Rob Thousands of Dollars from ATMs Using Raspberry Pi](https://www.tomshardware.com/news/raspberry-pi-used-to-rob-atm)
+- [What Makes a Strategy Great](https://longform.asmartbear.com/great-strategy/)
+- [Show HN: Trellis – open-source Python framework to build DAG-based LLM workflows](https://github.com/interlocklabs/trellis)
+- [Node.js now includes built-in support for .env files](https://philna.sh/blog/2023/09/05/nodejs-supports-dotenv/)
+- [On the 10th anniversary of the Snowden revelations](https://www.electrospaces.net/2023/06/on-10th-anniversary-of-snowden.html)
+- [Dutch Demoscene Unesco Inauguration Party](https://www.demoparty.net/unique-event/demoscene-unesco-inauguration-party)
+- [Papermark – Open-Source Docsend Alternative with Custom Domains](https://www.papermark.io)
+- [Nemo: First Glimpse of a New Rule Engine. &lpar;ArXiv:2308.15897v1 [Cs.ai]&rpar;](https://arxiv.org/abs/2308.15897)
+- [Timeline Towards Bankruptcy](https://twitter.com/huntercdurham/status/1699173861613293875)
+- [A Harvard library mystery: Was a Titanic victim’s rare book a fake?](https://www.washingtonpost.com/history/2023/08/06/harvard-library-titanic-mary-sidney-arcadia/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

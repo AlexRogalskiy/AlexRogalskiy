@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [How many jobs are available in technology in the US?](https://www.computerworld.com/article/3542681/how-many-jobs-are-available-in-technology.html#tk.rss_all)
+- [Apple and Microsoft challenge regulatory scope of EU’s Digital Markets Act](https://www.computerworld.com/article/3705911/apple-and-microsoft-challenge-regulatory-scope-of-eu-s-digital-markets-act.html#tk.rss_all)
+- [Is that a Chromebook killer in your pocket, Tim Cook?](https://www.computerworld.com/article/3705910/is-that-a-chromebook-killer-in-your-pocket-tim-cook.html#tk.rss_all)
+- [Baidu CEO’s remarks put LLMs in focus as US-China trade war escalates](https://www.computerworld.com/article/3705909/baidu-ceo-s-remarks-put-llms-in-focus-as-us-china-trade-war-escalates.html#tk.rss_all)
+- [GenAI in productivity apps: What could possibly go wrong?](https://www.computerworld.com/article/3705429/generative-ai-productivity-apps-problems-solutions.html#tk.rss_all)
 - [UK government outlines five objectives for AI Safety Summit](https://www.computerworld.com/article/3706051/uk-government-outlines-five-objectives-for-ai-safety-summit.html#tk.rss_all)
 - [Microsoft blames Aussie data center outage on staff strength, failed automation](https://www.networkworld.com/article/3706093/microsoft-blames-aussie-data-center-outage-on-staff-strength-failed-automation.html#tk.rss_all)
 - [How to share a Windows 10 or 11 PC](https://www.computerworld.com/article/3046707/how-to-share-a-windows-10-or-11-pc.html#tk.rss_all)
 - [Apple Support prepares to leave X: End of the omni-channel?](https://www.computerworld.com/article/3706088/apple-support-prepares-to-leave-x-end-of-the-omni-channel.html#tk.rss_all)
 - [IBM, Salesforce join forces in enterprise AI push](https://www.computerworld.com/article/3706029/ibm-salesforce-join-forces-in-enterprise-ai-push.html#tk.rss_all)
-- [Pew Research finds a big problem with AI: People don’t trust it](https://www.computerworld.com/article/3705950/pew-research-finds-a-big-problem-with-ai-people-dont-trust-it.html#tk.rss_all)
-- [Microsoft to unbundle Teams from its Office suites in Europe](https://www.computerworld.com/article/3705931/microsoft-to-unbundle-teams-from-its-office-suites-in-europe.html#tk.rss_all)
-- [With BYOD comes responsibility — and many firms aren&#39;t delivering](https://www.computerworld.com/article/3705988/with-byod-comes-responsibility-and-many-firms-arent-delivering.html#tk.rss_all)
-- [US Copyright Office opens inquiry into laws needed to rein in genAI](https://www.computerworld.com/article/3705928/us-copyright-office-opens-inquiry-into-laws-needed-to-rein-in-genai.html#tk.rss_all)
-- [4 secret settings for a smarter Chrome Android setup](https://www.computerworld.com/article/2474114/chrome-android-smarter-settings.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

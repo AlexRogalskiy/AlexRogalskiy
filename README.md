@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Videobug &lpar;YC S22, automated snapshot testing&rpar; Is Hiring its founding engineer](https://news.ycombinator.com/item?id=37386711)
-- [Get a cable modem, go to jail &lpar;1999&rpar;](http://telecom.csail.mit.edu/judy-sammel.html)
-- [Multiple Notepad++ Flaws Let Attackers Execute Arbitrary Code](https://cybersecuritynews.com/multiple-notepad-flaw/)
-- [Oscilloscope watch ships after 10 years on kickstarter](https://www.tomshardware.com/news/oscilloscope-watch-ships-after-10-years)
-- [Emacs Bedrock: A minimal Emacs starter kit](https://sr.ht/~ashton314/emacs-bedrock/)
-- [WASM: Big deal or little deal?](https://www.theregister.com/2023/09/01/web_assembly_wasm_column/)
-- [LLM Python/CLI tool adds support for embeddings](https://simonwillison.net/2023/Sep/4/llm-embeddings/)
-- [Writing a C compiler in 500 lines of Python](https://vgel.me/posts/c500/)
-- [Spectrolite – Mac app to make colorful risograph prints and zines more easily](https://spectrolite.app)
-- [Chinchilla’s death](https://espadrine.github.io/blog/posts/chinchilla-s-death.html)
+- [Can LLMs learn from a single example?](https://www.fast.ai/posts/2023-09-04-learning-jumps/)
+- [Experts fear crooks are cracking keys stolen in LastPass breach](https://krebsonsecurity.com/2023/09/experts-fear-crooks-are-cracking-keys-stolen-in-lastpass-breach/)
+- [Meta&#39;s Segment Anything written with C++ / GGML](https://github.com/YavorGIvanov/sam.cpp)
+- [Show HN: Fully client-side GPT2 prediction visualizer](https://perplexity.vercel.app/)
+- [Preserving trust in photojournalism through authentication technology](https://www.reutersagency.com/authenticity-poc/)
+- [Emerge &lpar;YC W21&rpar; is hiring a lead front end engineer &lpar;remote, small team&rpar;](https://www.workatastartup.com/jobs/61922/)
+- [How Amazon uses chaos engineering to handle 80k requests per second](https://community.aws/posts/how-search-uses-chaos-engineering)
+- [deVStudio – Runs VS Code on Android](https://play.google.com/store/apps/details?id=tech.ula.devstudio&hl=en_US)
+- [When deployments are easy, code becomes simpler](https://bitbytebit.substack.com/p/when-deployments-are-easy-code-becomes)
+- [Forming an Edge](https://www.scopeofwork.net/forming-an-edge/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

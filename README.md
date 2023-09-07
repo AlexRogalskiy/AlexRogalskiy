@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Frances Tiafoe v Ben Shelton: US Open 2023 quarter-final – live](https://www.theguardian.com/sport/live/2023/sep/05/frances-tiafoe-v-ben-shelton-us-open-2023-quarter-final-live)
-- [The scandal of Bangladesh’s missing children – podcast - part one](https://www.theguardian.com/news/audio/2023/sep/06/the-scandal-of-bangladeshs-missing-children-podcast-part-one)
-- [Fake social media posts on Burning Man festival stir conspiracy theory frenzy](https://www.theguardian.com/culture/2023/sep/05/ebola-outbreak-burning-man-rumor-tiktok-twitter)
-- [Three people rescued off Australian coast after yacht damaged by multiple shark attacks](https://www.theguardian.com/australia-news/2023/sep/06/three-people-rescued-off-australian-coast-after-yacht-damaged-by-multiple-shark-attacks)
-- [China dodges western 5G chip embargo with new Huawei Mate 60 phone](https://www.theguardian.com/technology/2023/sep/06/huawei-mate-60-pro-mobile-phone-china-dodges-5g-chip-embargo)
-- [French actor Emmanuelle Béart says she was victim of incest as a child](https://www.theguardian.com/film/2023/sep/06/french-actor-emmanuelle-beart-says-she-was-victim-of-incest-as-a-child)
-- [Russia-Ukraine war at a glance: what we know on day 560 of the invasion](https://www.theguardian.com/world/2023/sep/06/russia-ukraine-war-at-a-glance-what-we-know-on-day-560-of-the-invasion)
-- [North Korea will ‘pay a price’ if it supplies arms to Russia, says US](https://www.theguardian.com/world/2023/sep/06/north-korea-will-pay-a-price-if-it-supplies-arms-to-russia-says-us)
-- [In newly gleaming Delhi, Modi hopes G20 will cement India as a major global player](https://www.theguardian.com/world/2023/sep/06/in-newly-gleaming-delhi-modi-hopes-g20-will-cement-india-as-a-major-global-player)
-- [Blue plaques scheme could be extended outside of London](https://www.theguardian.com/culture/2023/sep/05/blue-plaques-scheme-could-be-extended-outside-of-london)
+- [Podcast: The scandal of Bangladesh’s missing children – part two](https://www.theguardian.com/news/audio/2023/sep/07/the-scandal-of-bangladesh-missing-children-part-two-podcast)
+- [Carlos Alcaraz v Alexander Zverev: US Open 2023 quarter-final – live](https://www.theguardian.com/sport/live/2023/sep/06/carlos-alcaraz-v-alexander-zverev-us-open-2023-quarter-final-live)
+- [Linda Evangelista reveals she had double mastectomy after breast cancer diagnosis](https://www.theguardian.com/fashion/2023/sep/07/linda-evangelista-double-mastectomy-breast-cancer-diagnosis)
+- [India or Bharat? G20 invitations throw up question dating back centuries](https://www.theguardian.com/world/2023/sep/07/india-or-bharat-g20-invitations-throw-up-question-dating-back-centuries)
+- [Newly discovered comet Nishimura could be visible to naked eye this weekend](https://www.theguardian.com/science/2023/sep/07/nishimura-comet-could-be-visible-to-naked-eye-this-weekend)
+- [How Burning Man festival descended into mud and chaos – in pictures](https://www.theguardian.com/culture/gallery/2023/sep/07/how-burning-man-festival-descended-into-mud-and-chaos-in-pictures)
+- [Russia-Ukraine war at a glance: what we know on day 561 of the invasion](https://www.theguardian.com/world/2023/sep/07/russia-ukraine-war-at-a-glance-what-we-know-on-day-561-of-the-invasion)
+- [Nato pledges ‘strong solidarity’ with Romania over likely Russian drone debris](https://www.theguardian.com/world/2023/sep/06/romania-says-possible-drone-debris-found-on-its-territory-near-ukraine)
+- [Apple shares fall after China reportedly bans iPhone use by government officials](https://www.theguardian.com/technology/2023/sep/07/china-iphone-ban-reports-apple-shares-stocks-fall)
+- [Mexico supreme court decriminalizes abortion across country](https://www.theguardian.com/world/2023/sep/06/mexico-decriminalizes-abortion)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Intuit debuts generative AI for QuickBooks, TurboTax, and other major products](https://www.computerworld.com/article/3706248/intuit-debuts-generative-ai-for-quickbooks-turbotax-and-other-major-products.html#tk.rss_all)
+- [UK rolls back controversial encryption rules of Online Safety Bill](https://www.computerworld.com/article/3705992/uk-rolls-back-controversial-encryption-rules-of-online-safety-bill.html#tk.rss_all)
+- [Apple saves its chips with multi-year Arm IP deal](https://www.computerworld.com/article/3705936/apple-saves-its-chips-with-multi-year-arm-ip-deal.html#tk.rss_all)
+- [Slack unveils ‘lists,’ a work management tool for team project tracking](https://www.computerworld.com/article/3705937/slack-unveils-lists-a-work-management-tool-for-team-project-tracking.html#tk.rss_all)
+- [EU lists ‘gatekeepers’ to be regulated, opens iMessage and Bing investigations](https://www.computerworld.com/article/3705935/eu-lists-gatekeepers-to-be-regulated-opens-imessage-and-bing-investigations.html#tk.rss_all)
+- [Otter.ai launches new OtterPilot for Sales](https://www.computerworld.com/article/3705932/otter-ai-launches-new-otterpilot-for-sales.html#tk.rss_all)
+- [Q&amp;A: What ChatGPT Enterprise means for AI business adoption](https://www.computerworld.com/article/3706049/qa-what-chatgpt-enterprise-means-for-ai-business-adoption.html#tk.rss_all)
 - [How many jobs are available in technology in the US?](https://www.computerworld.com/article/3542681/how-many-jobs-are-available-in-technology.html#tk.rss_all)
 - [Apple and Microsoft challenge regulatory scope of EU’s Digital Markets Act](https://www.computerworld.com/article/3705911/apple-and-microsoft-challenge-regulatory-scope-of-eu-s-digital-markets-act.html#tk.rss_all)
 - [Is that a Chromebook killer in your pocket, Tim Cook?](https://www.computerworld.com/article/3705910/is-that-a-chromebook-killer-in-your-pocket-tim-cook.html#tk.rss_all)
-- [Baidu CEO’s remarks put LLMs in focus as US-China trade war escalates](https://www.computerworld.com/article/3705909/baidu-ceo-s-remarks-put-llms-in-focus-as-us-china-trade-war-escalates.html#tk.rss_all)
-- [GenAI in productivity apps: What could possibly go wrong?](https://www.computerworld.com/article/3705429/generative-ai-productivity-apps-problems-solutions.html#tk.rss_all)
-- [UK government outlines five objectives for AI Safety Summit](https://www.computerworld.com/article/3706051/uk-government-outlines-five-objectives-for-ai-safety-summit.html#tk.rss_all)
-- [Microsoft blames Aussie data center outage on staff strength, failed automation](https://www.networkworld.com/article/3706093/microsoft-blames-aussie-data-center-outage-on-staff-strength-failed-automation.html#tk.rss_all)
-- [How to share a Windows 10 or 11 PC](https://www.computerworld.com/article/3046707/how-to-share-a-windows-10-or-11-pc.html#tk.rss_all)
-- [Apple Support prepares to leave X: End of the omni-channel?](https://www.computerworld.com/article/3706088/apple-support-prepares-to-leave-x-end-of-the-omni-channel.html#tk.rss_all)
-- [IBM, Salesforce join forces in enterprise AI push](https://www.computerworld.com/article/3706029/ibm-salesforce-join-forces-in-enterprise-ai-push.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

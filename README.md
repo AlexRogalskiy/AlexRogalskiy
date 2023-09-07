@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Can LLMs learn from a single example?](https://www.fast.ai/posts/2023-09-04-learning-jumps/)
-- [Experts fear crooks are cracking keys stolen in LastPass breach](https://krebsonsecurity.com/2023/09/experts-fear-crooks-are-cracking-keys-stolen-in-lastpass-breach/)
-- [Meta&#39;s Segment Anything written with C++ / GGML](https://github.com/YavorGIvanov/sam.cpp)
-- [Show HN: Fully client-side GPT2 prediction visualizer](https://perplexity.vercel.app/)
-- [Preserving trust in photojournalism through authentication technology](https://www.reutersagency.com/authenticity-poc/)
-- [Emerge &lpar;YC W21&rpar; is hiring a lead front end engineer &lpar;remote, small team&rpar;](https://www.workatastartup.com/jobs/61922/)
-- [How Amazon uses chaos engineering to handle 80k requests per second](https://community.aws/posts/how-search-uses-chaos-engineering)
-- [deVStudio – Runs VS Code on Android](https://play.google.com/store/apps/details?id=tech.ula.devstudio&hl=en_US)
-- [When deployments are easy, code becomes simpler](https://bitbytebit.substack.com/p/when-deployments-are-easy-code-becomes)
-- [Forming an Edge](https://www.scopeofwork.net/forming-an-edge/)
+- [AOL Pretends to Be the Internet](https://thehistoryoftheweb.com/postscript/aol-pretends-to-be-the-internet/)
+- [National Film Board of Canada](https://www.nfb.ca/)
+- [Run ChatGPT-like LLMs on your laptop in 3 lines of code](https://github.com/amaiya/onprem)
+- [Beetle grows ‘termite’ on back to steal food](https://www.science.org/content/article/beetle-grows-termite-back-steal-food)
+- [jq 1.7](https://github.com/jqlang/jq/releases/tag/jq-1.7)
+- [Norway rolls back EV incentives while boosting walking and cycling &lpar;2022&rpar;](https://electrek.co/2022/05/17/norway-rolls-back-ev-incentives-while-boosting-walking-and-cycling/)
+- [Flexport CEO resigns a year after joining logistics company](https://www.geekwire.com/2023/former-amazon-exec-dave-clark-resigns-as-flexport-ceo-a-year-after-joining-logistics-company/)
+- [Singing synthesis as a new musical instrument &lpar;2012&rpar;](https://ieeexplore.ieee.org/document/6289138)
+- [Exploring EXIF](https://hturan.com/writing/exploring-exif)
+- [Show HN: Alaz: Open-Source, Self-Hosted, eBPF-Based K8s Monitoring](https://github.com/ddosify/alaz)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

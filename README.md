@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Criminals Rob Thousands of Dollars from ATMs Using Raspberry Pi](https://www.tomshardware.com/news/raspberry-pi-used-to-rob-atm)
-- [What Makes a Strategy Great](https://longform.asmartbear.com/great-strategy/)
-- [Show HN: Trellis – open-source Python framework to build DAG-based LLM workflows](https://github.com/interlocklabs/trellis)
-- [Node.js now includes built-in support for .env files](https://philna.sh/blog/2023/09/05/nodejs-supports-dotenv/)
-- [On the 10th anniversary of the Snowden revelations](https://www.electrospaces.net/2023/06/on-10th-anniversary-of-snowden.html)
-- [Dutch Demoscene Unesco Inauguration Party](https://www.demoparty.net/unique-event/demoscene-unesco-inauguration-party)
-- [Papermark – Open-Source Docsend Alternative with Custom Domains](https://www.papermark.io)
-- [Nemo: First Glimpse of a New Rule Engine. &lpar;ArXiv:2308.15897v1 [Cs.ai]&rpar;](https://arxiv.org/abs/2308.15897)
-- [Timeline Towards Bankruptcy](https://twitter.com/huntercdurham/status/1699173861613293875)
-- [A Harvard library mystery: Was a Titanic victim’s rare book a fake?](https://www.washingtonpost.com/history/2023/08/06/harvard-library-titanic-mary-sidney-arcadia/)
+- [A new way to capture and recycle carbon dioxide from industrial emissions](https://techxplore.com/news/2023-08-capture-recycle-carbon-dioxide-industrial.html)
+- [Success Avoidance and Its Effect on Motivation](https://www.gerriking.com/component/easyblog/success-avoidance-and-its-effect-on-motivation)
+- [ASML to Deliver First High-NA EUV Tool This Year](https://www.anandtech.com/show/20044/asml-to-deliver-first-highna-euv-tool-this-year)
+- [AOL Pretends to Be the Internet](https://thehistoryoftheweb.com/postscript/aol-pretends-to-be-the-internet/)
+- [NixOS drops Anduril as a NixCon sponsor](https://twitter.com/PalmerLuckey/status/1699590452847272044)
+- [How Supabase &lpar;YC S20&rpar; became this generation’s database](https://www.basedash.com/blog/how-supabase-became-this-generations-database)
+- [Why India’s government wants to change the country’s name to ‘Bharat’](https://apnews.com/article/india-sanskrit-name-bharat-modi-g20-72782ba81aa67dcf7e197a98fec9b5f5)
+- [Is Green Growth Happening?](https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(23)00174-2/fulltext)
+- [Jeff Dean on Google&#39;s 25th anniversary](https://twitter.com/JeffDean/status/1699197621934366946)
+- [Python on NixOS](https://nixos.wiki/wiki/Python)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [AOL Pretends to Be the Internet](https://thehistoryoftheweb.com/postscript/aol-pretends-to-be-the-internet/)
-- [National Film Board of Canada](https://www.nfb.ca/)
-- [Run ChatGPT-like LLMs on your laptop in 3 lines of code](https://github.com/amaiya/onprem)
-- [Beetle grows ‘termite’ on back to steal food](https://www.science.org/content/article/beetle-grows-termite-back-steal-food)
-- [jq 1.7](https://github.com/jqlang/jq/releases/tag/jq-1.7)
-- [Norway rolls back EV incentives while boosting walking and cycling &lpar;2022&rpar;](https://electrek.co/2022/05/17/norway-rolls-back-ev-incentives-while-boosting-walking-and-cycling/)
-- [Flexport CEO resigns a year after joining logistics company](https://www.geekwire.com/2023/former-amazon-exec-dave-clark-resigns-as-flexport-ceo-a-year-after-joining-logistics-company/)
-- [Singing synthesis as a new musical instrument &lpar;2012&rpar;](https://ieeexplore.ieee.org/document/6289138)
-- [Exploring EXIF](https://hturan.com/writing/exploring-exif)
-- [Show HN: Alaz: Open-Source, Self-Hosted, eBPF-Based K8s Monitoring](https://github.com/ddosify/alaz)
+- [California moves to decriminalize use of magic mushrooms, other psychedelics](https://www.latimes.com/california/story/2023-09-07/california-magic-mushrooms-psychedelics-scott-wiener-psilocybin)
+- [What&#39;s new in Emacs 29.1](https://www.masteringemacs.org/article/whats-new-in-emacs-29-1)
+- [Google gets its way, bakes a user-tracking ad platform directly into Chrome](https://arstechnica.com/gadgets/2023/09/googles-widely-opposed-ad-platform-the-privacy-sandbox-launches-in-chrome/)
+- [Show HN: HackYourNews – AI summaries of the top HN stories](https://hackyournews.com/)
+- [Opposites don&#39;t actually attract: meta-analysis study](https://www.colorado.edu/today/2023/08/31/news-flash-opposites-dont-actually-attract)
+- [Searx is no longer maintained](https://github.com/searx/searx/commit/276ffd3f01cdd823f75676c51231fad4040059d3)
+- [What it&#39;s Really Like to be an Alaskan Truck Driver](https://www.freightwaves.com/news/i-rode-with-an-ice-road-trucker-to-the-arctic-circle-heres-what-it-was-like)
+- [A BERT for laptops, from scratch](https://github.com/samvher/bert-for-laptops/blob/main/BERT_for_laptops.ipynb)
+- [NSO group iPhone zero-click, zero-day exploit captured in the wild](https://citizenlab.ca/2023/09/blastpass-nso-group-iphone-zero-click-zero-day-exploit-captured-in-the-wild/)
+- [London Street Trees](https://apps.london.gov.uk/street-trees/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

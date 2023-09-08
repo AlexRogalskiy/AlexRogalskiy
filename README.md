@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [A new way to capture and recycle carbon dioxide from industrial emissions](https://techxplore.com/news/2023-08-capture-recycle-carbon-dioxide-industrial.html)
-- [Success Avoidance and Its Effect on Motivation](https://www.gerriking.com/component/easyblog/success-avoidance-and-its-effect-on-motivation)
-- [ASML to Deliver First High-NA EUV Tool This Year](https://www.anandtech.com/show/20044/asml-to-deliver-first-highna-euv-tool-this-year)
-- [AOL Pretends to Be the Internet](https://thehistoryoftheweb.com/postscript/aol-pretends-to-be-the-internet/)
-- [NixOS drops Anduril as a NixCon sponsor](https://twitter.com/PalmerLuckey/status/1699590452847272044)
-- [How Supabase &lpar;YC S20&rpar; became this generation’s database](https://www.basedash.com/blog/how-supabase-became-this-generations-database)
-- [Why India’s government wants to change the country’s name to ‘Bharat’](https://apnews.com/article/india-sanskrit-name-bharat-modi-g20-72782ba81aa67dcf7e197a98fec9b5f5)
-- [Is Green Growth Happening?](https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(23)00174-2/fulltext)
-- [Jeff Dean on Google&#39;s 25th anniversary](https://twitter.com/JeffDean/status/1699197621934366946)
-- [Python on NixOS](https://nixos.wiki/wiki/Python)
+- [Show HN: Leverage ChatGPT in the Automation of Pull Request Reviews](https://pullrequest.help/?7)
+- [The NFL is a brutal sport. That’s partly why fans love it](https://www.cnn.com/2023/09/06/sport/football-nfl-violence-injuries-cec/index.html)
+- [How we acquired HEY.com &lpar;2021&rpar;](https://world.hey.com/jason/how-we-acquired-hey-com-2e3e0d5f)
+- [Zaventem Airport, main transit to the seat of the EU parliament [video]](https://www.youtube.com/watch?v=f0UevGxfXXY)
+- [I used AI to clone my voice and make a podcast that got 677 downloads on day 1](https://old.reddit.com/r/ChatGPT/comments/16cges8/i_used_ai_to_clone_my_voice_and_create_an/)
+- [More wild Atlantic salmon found in U.S. rivers than any time in the past decade](https://apnews.com/article/salmon-rivers-maine-recovering-endangered-fishing-174eb09c19652bcd54d4d9ee9dec2dae)
+- [Show HN: Nero Burning ROM X Muse – The Burning Art of CD](https://muse.nero.com/)
+- [China suspected of using AI on social media to sway US voters, Microsoft says](https://www.reuters.com/world/china-may-be-behind-social-media-accounts-seeking-sway-us-voters-microsoft-says-2023-09-07/)
+- [Advice for Technical Speaking](http://www.cs.cmu.edu/~ggordon/speaking-advice.html)
+- [AI startup beats Nvidia H100 on tests with GPU-like card with 256GB RAM](https://www.techradar.com/pro/microsoft-backed-ai-startup-beats-nvidia-h100-on-key-tests-with-gpu-like-card-equipped-with-256gb-ram)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

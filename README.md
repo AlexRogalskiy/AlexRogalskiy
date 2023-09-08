@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Windows desktop apps are the future &lpar;with or without Windows&rpar;](https://www.computerworld.com/article/3705990/windows-desktop-apps-are-the-future-with-or-without-windows.html#tk.rss_all)
+- [Tencent debuts Hunyuan AI model, opens it up for enterprise use](https://www.computerworld.com/article/3706270/tencent-debuts-hunyuan-ai-model-opens-it-up-for-enterprise-use.html#tk.rss_all)
+- [MediaTek hints big speed boosts for upcoming iPhone, Macs](https://www.computerworld.com/article/3706368/mediatek-hints-big-speed-boosts-for-upcoming-iphone-macs.html#tk.rss_all)
+- [The best multiplatform productivity apps](https://www.computerworld.com/article/3705611/productivity-apps-multiplatform-cross-platform.html#tk.rss_all)
 - [Intuit debuts generative AI for QuickBooks, TurboTax, and other major products](https://www.computerworld.com/article/3706248/intuit-debuts-generative-ai-for-quickbooks-turbotax-and-other-major-products.html#tk.rss_all)
 - [UK rolls back controversial encryption rules of Online Safety Bill](https://www.computerworld.com/article/3705992/uk-rolls-back-controversial-encryption-rules-of-online-safety-bill.html#tk.rss_all)
 - [Apple saves its chips with multi-year Arm IP deal](https://www.computerworld.com/article/3705936/apple-saves-its-chips-with-multi-year-arm-ip-deal.html#tk.rss_all)
 - [Slack unveils ‘lists,’ a work management tool for team project tracking](https://www.computerworld.com/article/3705937/slack-unveils-lists-a-work-management-tool-for-team-project-tracking.html#tk.rss_all)
 - [EU lists ‘gatekeepers’ to be regulated, opens iMessage and Bing investigations](https://www.computerworld.com/article/3705935/eu-lists-gatekeepers-to-be-regulated-opens-imessage-and-bing-investigations.html#tk.rss_all)
 - [Otter.ai launches new OtterPilot for Sales](https://www.computerworld.com/article/3705932/otter-ai-launches-new-otterpilot-for-sales.html#tk.rss_all)
-- [Q&amp;A: What ChatGPT Enterprise means for AI business adoption](https://www.computerworld.com/article/3706049/qa-what-chatgpt-enterprise-means-for-ai-business-adoption.html#tk.rss_all)
-- [How many jobs are available in technology in the US?](https://www.computerworld.com/article/3542681/how-many-jobs-are-available-in-technology.html#tk.rss_all)
-- [Apple and Microsoft challenge regulatory scope of EU’s Digital Markets Act](https://www.computerworld.com/article/3705911/apple-and-microsoft-challenge-regulatory-scope-of-eu-s-digital-markets-act.html#tk.rss_all)
-- [Is that a Chromebook killer in your pocket, Tim Cook?](https://www.computerworld.com/article/3705910/is-that-a-chromebook-killer-in-your-pocket-tim-cook.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

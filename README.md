@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Podcast: The scandal of Bangladesh’s missing children – part two](https://www.theguardian.com/news/audio/2023/sep/07/the-scandal-of-bangladesh-missing-children-part-two-podcast)
-- [Carlos Alcaraz v Alexander Zverev: US Open 2023 quarter-final – live](https://www.theguardian.com/sport/live/2023/sep/06/carlos-alcaraz-v-alexander-zverev-us-open-2023-quarter-final-live)
-- [Linda Evangelista reveals she had double mastectomy after breast cancer diagnosis](https://www.theguardian.com/fashion/2023/sep/07/linda-evangelista-double-mastectomy-breast-cancer-diagnosis)
-- [India or Bharat? G20 invitations throw up question dating back centuries](https://www.theguardian.com/world/2023/sep/07/india-or-bharat-g20-invitations-throw-up-question-dating-back-centuries)
-- [Newly discovered comet Nishimura could be visible to naked eye this weekend](https://www.theguardian.com/science/2023/sep/07/nishimura-comet-could-be-visible-to-naked-eye-this-weekend)
-- [How Burning Man festival descended into mud and chaos – in pictures](https://www.theguardian.com/culture/gallery/2023/sep/07/how-burning-man-festival-descended-into-mud-and-chaos-in-pictures)
-- [Russia-Ukraine war at a glance: what we know on day 561 of the invasion](https://www.theguardian.com/world/2023/sep/07/russia-ukraine-war-at-a-glance-what-we-know-on-day-561-of-the-invasion)
-- [Nato pledges ‘strong solidarity’ with Romania over likely Russian drone debris](https://www.theguardian.com/world/2023/sep/06/romania-says-possible-drone-debris-found-on-its-territory-near-ukraine)
-- [Apple shares fall after China reportedly bans iPhone use by government officials](https://www.theguardian.com/technology/2023/sep/07/china-iphone-ban-reports-apple-shares-stocks-fall)
-- [Mexico supreme court decriminalizes abortion across country](https://www.theguardian.com/world/2023/sep/06/mexico-decriminalizes-abortion)
+- [The scandal of Bangladesh’s missing children – part three](https://www.theguardian.com/news/audio/2023/sep/08/scandal-bangladesh-missing-children-part-three)
+- [US Open 2023 women’s semi-final: Coco Gauff defeats Karolina Muchova – live](https://www.theguardian.com/sport/live/2023/sep/07/us-open-2023-womens-semi-final-coco-gauff-v-karolina-muchova-live)
+- [Mali jihadists kill at least 64 people amid growing Islamist threat](https://www.theguardian.com/world/2023/sep/08/mali-jihadists-kill-at-least-64-people-amid-growing-islamist-threat)
+- [Abused, traumatised and powerless: South Korea’s teachers on why they are protesting](https://www.theguardian.com/world/2023/sep/08/south-korea-teacher-protest-why-are-teachers-protesting)
+- [Hong Kong’s heaviest rain in at least 139 years triggers widespread flooding after typhoon](https://www.theguardian.com/world/2023/sep/08/hong-kong-weather-record-rain-flooding-after-typhoon-haikui)
+- [Turkish teams race to rescue sick American in 1km-deep cave](https://www.theguardian.com/world/2023/sep/07/turkey-morca-cave-rescue-sick-american-man-mark-dickey)
+- [Russia-Ukraine war at a glance: what we know on day 562 of the invasion](https://www.theguardian.com/world/2023/sep/08/russia-ukraine-war-at-a-glance-what-we-know-on-day-562-of-the-invasion)
+- [King Charles pays tribute to his mother ‘with great affection’ on anniversary of death](https://www.theguardian.com/uk-news/2023/sep/08/king-charles-pays-tribute-to-his-mother-with-great-affection-on-anniversary-of-death)
+- [Triple lock could add £45bn to state pensions bill by 2050, IFS says](https://www.theguardian.com/money/2023/sep/08/triple-lock-could-add-45bn-to-state-pensions-bill-by-2050-ifs-says)
+- [My Big Fat Greek Wedding 3 review – rambling and rote travelogue](https://www.theguardian.com/film/2023/sep/07/my-big-fat-greek-wedding-3-movie-review)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

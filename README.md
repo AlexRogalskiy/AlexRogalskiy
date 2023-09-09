@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: Leverage ChatGPT in the Automation of Pull Request Reviews](https://pullrequest.help/?7)
-- [The NFL is a brutal sport. That’s partly why fans love it](https://www.cnn.com/2023/09/06/sport/football-nfl-violence-injuries-cec/index.html)
-- [How we acquired HEY.com &lpar;2021&rpar;](https://world.hey.com/jason/how-we-acquired-hey-com-2e3e0d5f)
-- [Zaventem Airport, main transit to the seat of the EU parliament [video]](https://www.youtube.com/watch?v=f0UevGxfXXY)
-- [I used AI to clone my voice and make a podcast that got 677 downloads on day 1](https://old.reddit.com/r/ChatGPT/comments/16cges8/i_used_ai_to_clone_my_voice_and_create_an/)
-- [More wild Atlantic salmon found in U.S. rivers than any time in the past decade](https://apnews.com/article/salmon-rivers-maine-recovering-endangered-fishing-174eb09c19652bcd54d4d9ee9dec2dae)
-- [Show HN: Nero Burning ROM X Muse – The Burning Art of CD](https://muse.nero.com/)
-- [China suspected of using AI on social media to sway US voters, Microsoft says](https://www.reuters.com/world/china-may-be-behind-social-media-accounts-seeking-sway-us-voters-microsoft-says-2023-09-07/)
-- [Advice for Technical Speaking](http://www.cs.cmu.edu/~ggordon/speaking-advice.html)
-- [AI startup beats Nvidia H100 on tests with GPU-like card with 256GB RAM](https://www.techradar.com/pro/microsoft-backed-ai-startup-beats-nvidia-h100-on-key-tests-with-gpu-like-card-equipped-with-256gb-ram)
+- [New catalyst decreases the energy required to split hydrogen gas from water](https://phys.org/news/2023-09-catalyst-decreases-energy-required-hydrogen.html)
+- [Electric Dreams &lpar;1984 Film&rpar;](https://en.wikipedia.org/wiki/Electric_Dreams_(film))
+- [Restrictions on Geographic Data in China](https://en.wikipedia.org/wiki/Restrictions_on_geographic_data_in_China)
+- [US likely to send long-range ATACMS missiles to Ukraine for the first time](https://abcnews.go.com/Politics/us-send-long-range-atacms-missiles-ukraine-time/story?id=103031722)
+- [I Really Miss Laravel](https://old.reddit.com/r/laravel/comments/16bjbmh/i_really_miss_laravel/)
+- [Wyze webcam might have let other owners peek into your house](https://www.theverge.com/2023/9/8/23865255/wyze-security-camera-feeds-web-view-issue)
+- [Should Any Device Which Can Be Used to Infringe IP Be Made Illegal?](https://torrentfreak.com/should-any-device-which-can-be-used-to-infringe-ip-be-made-illegal230908/)
+- [Marathon in less than 2 hours? Unusual formation could help](https://www.science.org/content/article/want-run-marathon-less-2-hours-unusual-formation-could-help)
+- [Show HN: Automated Pull Request Reviews on Your Behalf](https://pullrequest.help/?8)
+- [EU AI Act: Notes and Thoughts on the Proposed Regulation](https://outofthecomfortzone.frantzmiccoli.com/thoughts/2023/09/07/eu-ai-act-notes-thoughts-proposed-regulation.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [Chinese-made 7nm chips in Huawei phone raise questions over US export ban](https://www.computerworld.com/article/3706373/chinese-made-7nm-chips-in-huawei-phone-raise-questions-over-us-export-ban.html#tk.rss_all)
+- [The Donald Trump deep fake ‘interview’ and the problem with avatars](https://www.computerworld.com/article/3706375/the-donald-trump-deep-fake-interview-and-the-problem-with-avatars.html#tk.rss_all)
+- [Message to IT: Update all your Apple devices right away](https://www.computerworld.com/article/3706468/message-to-it-update-all-your-apple-devices-right-away.html#tk.rss_all)
+- [Microsoft pledges to defend Copilot customers against copyright lawsuits](https://www.computerworld.com/article/3706450/microsoft-pledges-to-defend-copilot-customers-against-copyright-lawsuits.html#tk.rss_all)
+- [Amazon&#39;s return-to-office mandate won&#39;t work out](https://www.computerworld.com/article/3705913/amazons-return-to-office-mandate-wont-work-out.html#tk.rss_all)
+- [How note-taking AI from Google and Apple complete you](https://www.computerworld.com/article/3705912/how-note-taking-ai-from-google-and-apple-complete-you.html#tk.rss_all)
 - [Windows desktop apps are the future &lpar;with or without Windows&rpar;](https://www.computerworld.com/article/3705990/windows-desktop-apps-are-the-future-with-or-without-windows.html#tk.rss_all)
 - [Tencent debuts Hunyuan AI model, opens it up for enterprise use](https://www.computerworld.com/article/3706270/tencent-debuts-hunyuan-ai-model-opens-it-up-for-enterprise-use.html#tk.rss_all)
 - [MediaTek hints big speed boosts for upcoming iPhone, Macs](https://www.computerworld.com/article/3706368/mediatek-hints-big-speed-boosts-for-upcoming-iphone-macs.html#tk.rss_all)
-- [The best multiplatform productivity apps](https://www.computerworld.com/article/3705611/productivity-apps-multiplatform-cross-platform.html#tk.rss_all)
-- [Intuit debuts generative AI for QuickBooks, TurboTax, and other major products](https://www.computerworld.com/article/3706248/intuit-debuts-generative-ai-for-quickbooks-turbotax-and-other-major-products.html#tk.rss_all)
-- [UK rolls back controversial encryption rules of Online Safety Bill](https://www.computerworld.com/article/3705992/uk-rolls-back-controversial-encryption-rules-of-online-safety-bill.html#tk.rss_all)
-- [Apple saves its chips with multi-year Arm IP deal](https://www.computerworld.com/article/3705936/apple-saves-its-chips-with-multi-year-arm-ip-deal.html#tk.rss_all)
-- [Slack unveils ‘lists,’ a work management tool for team project tracking](https://www.computerworld.com/article/3705937/slack-unveils-lists-a-work-management-tool-for-team-project-tracking.html#tk.rss_all)
-- [EU lists ‘gatekeepers’ to be regulated, opens iMessage and Bing investigations](https://www.computerworld.com/article/3705935/eu-lists-gatekeepers-to-be-regulated-opens-imessage-and-bing-investigations.html#tk.rss_all)
-- [Otter.ai launches new OtterPilot for Sales](https://www.computerworld.com/article/3705932/otter-ai-launches-new-otterpilot-for-sales.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

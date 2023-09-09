@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [California moves to decriminalize use of magic mushrooms, other psychedelics](https://www.latimes.com/california/story/2023-09-07/california-magic-mushrooms-psychedelics-scott-wiener-psilocybin)
-- [What&#39;s new in Emacs 29.1](https://www.masteringemacs.org/article/whats-new-in-emacs-29-1)
-- [Google gets its way, bakes a user-tracking ad platform directly into Chrome](https://arstechnica.com/gadgets/2023/09/googles-widely-opposed-ad-platform-the-privacy-sandbox-launches-in-chrome/)
-- [Show HN: HackYourNews – AI summaries of the top HN stories](https://hackyournews.com/)
-- [Opposites don&#39;t actually attract: meta-analysis study](https://www.colorado.edu/today/2023/08/31/news-flash-opposites-dont-actually-attract)
-- [Searx is no longer maintained](https://github.com/searx/searx/commit/276ffd3f01cdd823f75676c51231fad4040059d3)
-- [What it&#39;s Really Like to be an Alaskan Truck Driver](https://www.freightwaves.com/news/i-rode-with-an-ice-road-trucker-to-the-arctic-circle-heres-what-it-was-like)
-- [A BERT for laptops, from scratch](https://github.com/samvher/bert-for-laptops/blob/main/BERT_for_laptops.ipynb)
-- [NSO group iPhone zero-click, zero-day exploit captured in the wild](https://citizenlab.ca/2023/09/blastpass-nso-group-iphone-zero-click-zero-day-exploit-captured-in-the-wild/)
-- [London Street Trees](https://apps.london.gov.uk/street-trees/)
+- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Technical Interviewers](https://news.ycombinator.com/item?id=37441168)
+- [Uber CEO’s time moonlighting as a driver sparked all-hands called &#39;Why we suck.&#39;](https://www.businessinsider.com/uber-ceo-dara-khosrowshahi-company-should-have-paid-attention-drivers-2023-9)
+- [Atari pulls nostalgia power move and buys homebrew community forum](https://www.theregister.com/2023/09/08/atari_snaps_up_atariage/)
+- [LogoScale – A method for vectorizing small, crappy logos](https://msprout.notion.site/LogoScale-A-Method-for-Vectorizing-Small-Crappy-Logos-dc0035b7473c44f8b94ffc4026d286c0)
+- [Most bees live underground. X-ray images reveal how they build their nests](https://www.science.org/content/article/most-bees-live-underground-x-ray-images-reveal-how-they-build-their-nests)
+- [Snoop unto them as they snoop unto you](https://blog.dataparty.xyz/blog/snoop-unto-them/)
+- [Decoded: GNU Coreutils &lpar;2018&rpar;](https://maizure.org/projects/decoded-gnu-coreutils/)
+- [The rxv64 Operating System: MIT&#39;s xv6, in Rust, for SMP x86_64 machines](https://github.com/dancrossnyc/rxv64)
+- [Using LD_PRELOAD to cheat, inject features and investigate programs](https://rafalcieslak.wordpress.com/2013/04/02/dynamic-linker-tricks-using-ld_preload-to-cheat-inject-features-and-investigate-programs/)
+- [How to Learn Emacs &lpar;2012&rpar;](https://david.rothlis.net/emacs/howtolearn.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

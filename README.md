@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Carlos Alcaraz v Daniil Medvedev: US Open men’s semi-final – live](https://www.theguardian.com/sport/live/2023/sep/08/carlos-alcaraz-v-daniil-medvedev-us-open-mens-semi-final-live)
-- [Morocco earthquake leaves panicked people sleeping in street – reports](https://www.theguardian.com/world/2023/sep/09/morocco-earthquake-leaves-panicked-people-sleeping-in-street-reports)
-- [US judge rejects Mark Meadows’ request to move Georgia case to federal court](https://www.theguardian.com/us-news/2023/sep/08/mark-meadows-georgia-election-charges)
-- [Bots on X worse than ever according to analysis of 1m tweets during first Republican primary debate](https://www.theguardian.com/technology/2023/sep/09/x-twitter-bots-republican-primary-debate-tweets-increase)
-- [Craft with a hook: why granny squares are the perfect entry point to crochet](https://www.theguardian.com/lifeandstyle/2023/sep/09/granny-square-crochet-how)
-- [G20-bound Rishi Sunak defends ‘correct’ Raac school closures](https://www.theguardian.com/politics/2023/sep/08/g20-bound-rishi-sunak-defends-correct-raac-school-closures)
-- [Rescue efforts stepped up after deadly floods in central Greece](https://www.theguardian.com/world/2023/sep/08/rescue-efforts-stepped-up-after-deadly-floods-in-central-greece)
-- [France kick off Rugby World Cup with lavish ceremony and historic win](https://www.theguardian.com/sport/2023/sep/09/france-kick-off-rugby-world-cup-with-lavish-ceremony-and-historic-win)
-- [Elon Musk’s X sues California over new social media transparency laws](https://www.theguardian.com/us-news/2023/sep/08/elon-musk-twitter-lawsuit-california-free-speech)
-- [France give All Blacks a taste of their own medicine to kickstart party | Jonathan Liew](https://www.theguardian.com/sport/2023/sep/08/france-give-all-blacks-a-taste-of-their-own-medicine-to-kickstart-party)
+- [Nagorno-Karabakh routes reopen in Lachin corridor deal, say Azeri and Armenian sides](https://www.theguardian.com/world/2023/sep/10/nagorno-karabakh-routes-reopen-in-lachin-corridor-deal-say-azeri-and-armenian-sides)
+- [Russia-Ukraine war at a glance: what we know on day 564 of the invasion](https://www.theguardian.com/world/2023/sep/10/russia-ukraine-war-at-a-glance-what-we-know-on-day-564-of-the-invasion)
+- [China’s ‘good for marriage’ women’s trend ignites social media debate](https://www.theguardian.com/world/2023/sep/10/chinas-good-for-marriage-womens-trend-ignites-social-media-debate)
+- [‘Don’t write us off’: Borthwick buoyant after stunning win over Argentina](https://www.theguardian.com/sport/2023/sep/10/dont-write-us-off-borthwick-buoyant-after-stunning-win-over-argentina)
+- [China troubles could upset Apple’s cart as it prepares to launch the iPhone 15](https://www.theguardian.com/technology/2023/sep/10/china-troubles-could-upset-apples-cart-as-it-prepares-to-launch-the-iphone-15)
+- [Caribbean nations set to demand royal family makes reparations for slave trade](https://www.theguardian.com/uk-news/2023/sep/10/caribbean-nations-set-to-demand-royal-family-makes-reparations-for-slave-trade)
+- [Coco Gauff battles back to stun Aryna Sabalenka and claim US Open title](https://www.theguardian.com/sport/2023/sep/10/coco-gauff-battles-back-to-stun-aryna-sabalenka-and-claim-us-open-title)
+- [A Haunting in Venice review – Branagh’s Agatha Christie whodunnit given horror makeover](https://www.theguardian.com/film/2023/sep/10/a-haunting-in-venice-review-branaghs-agatha-christie-whodunnit-given-horror-makeover)
+- [Cover up: 15 of the hottest hoodies – in pictures](https://www.theguardian.com/fashion/gallery/2023/sep/09/cover-up-15-of-the-hottest-hoodies-in-pictures)
+- [Greek rescuers working through the night to locate villagers trapped by flood](https://www.theguardian.com/world/2023/sep/09/greek-rescuers-working-through-the-night-to-locate-villagers-trapped-by-flood)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

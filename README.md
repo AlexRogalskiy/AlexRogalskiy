@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [New catalyst decreases the energy required to split hydrogen gas from water](https://phys.org/news/2023-09-catalyst-decreases-energy-required-hydrogen.html)
-- [Electric Dreams &lpar;1984 Film&rpar;](https://en.wikipedia.org/wiki/Electric_Dreams_(film))
-- [Restrictions on Geographic Data in China](https://en.wikipedia.org/wiki/Restrictions_on_geographic_data_in_China)
-- [US likely to send long-range ATACMS missiles to Ukraine for the first time](https://abcnews.go.com/Politics/us-send-long-range-atacms-missiles-ukraine-time/story?id=103031722)
-- [I Really Miss Laravel](https://old.reddit.com/r/laravel/comments/16bjbmh/i_really_miss_laravel/)
-- [Wyze webcam might have let other owners peek into your house](https://www.theverge.com/2023/9/8/23865255/wyze-security-camera-feeds-web-view-issue)
-- [Should Any Device Which Can Be Used to Infringe IP Be Made Illegal?](https://torrentfreak.com/should-any-device-which-can-be-used-to-infringe-ip-be-made-illegal230908/)
-- [Marathon in less than 2 hours? Unusual formation could help](https://www.science.org/content/article/want-run-marathon-less-2-hours-unusual-formation-could-help)
-- [Show HN: Automated Pull Request Reviews on Your Behalf](https://pullrequest.help/?8)
-- [EU AI Act: Notes and Thoughts on the Proposed Regulation](https://outofthecomfortzone.frantzmiccoli.com/thoughts/2023/09/07/eu-ai-act-notes-thoughts-proposed-regulation.html)
+- [Colors, Eyesight, and Reality](https://www.science.org/content/blog-post/colors-eyesight-and-reality)
+- [SpaceX can’t launch another rocket in Texas until fixes are made, FAA says](https://www.texastribune.org/2023/09/08/texas-spacex-faa-investigation/)
+- [An AI Capitalism Primer](https://werd.io/2023/an-ai-capitalism-primer)
+- [Pets.chickens.roadfaq: Frequently Asked Questions Regarding Road-Crossings](http://beyondloom.com/blog/roadcrossing.html)
+- [TextViewBenchmark: A suite of performance tests for macOS text views](https://github.com/ChimeHQ/TextViewBenchmark)
+- [US seizes nearly 1M barrels of Iranian oil allegedly bound for China](https://www.cnn.com/2023/09/09/politics/us-oil-iran-china-doj/index.html)
+- [Type Theory: #33 Z3 and Lean, the Spiritual Journey](https://www.typetheoryforall.com/2023/09/09/33-Leo-de-Moura.html)
+- [The puzzling link between air pollution and suicide](https://www.bbc.com/future/article/20230907-the-puzzling-link-between-air-pollution-and-suicide)
+- [‘Weird’ dinosaur prompts rethink of bird evolution](https://www.nature.com/articles/d41586-023-02757-5)
+- [Should women learn to love pain?](https://unherd.com/2023/09/should-women-learn-to-love-pain/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

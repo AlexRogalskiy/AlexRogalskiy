@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Technical Interviewers](https://news.ycombinator.com/item?id=37441168)
-- [Uber CEO’s time moonlighting as a driver sparked all-hands called &#39;Why we suck.&#39;](https://www.businessinsider.com/uber-ceo-dara-khosrowshahi-company-should-have-paid-attention-drivers-2023-9)
-- [Atari pulls nostalgia power move and buys homebrew community forum](https://www.theregister.com/2023/09/08/atari_snaps_up_atariage/)
-- [LogoScale – A method for vectorizing small, crappy logos](https://msprout.notion.site/LogoScale-A-Method-for-Vectorizing-Small-Crappy-Logos-dc0035b7473c44f8b94ffc4026d286c0)
-- [Most bees live underground. X-ray images reveal how they build their nests](https://www.science.org/content/article/most-bees-live-underground-x-ray-images-reveal-how-they-build-their-nests)
-- [Snoop unto them as they snoop unto you](https://blog.dataparty.xyz/blog/snoop-unto-them/)
-- [Decoded: GNU Coreutils &lpar;2018&rpar;](https://maizure.org/projects/decoded-gnu-coreutils/)
-- [The rxv64 Operating System: MIT&#39;s xv6, in Rust, for SMP x86_64 machines](https://github.com/dancrossnyc/rxv64)
-- [Using LD_PRELOAD to cheat, inject features and investigate programs](https://rafalcieslak.wordpress.com/2013/04/02/dynamic-linker-tricks-using-ld_preload-to-cheat-inject-features-and-investigate-programs/)
-- [How to Learn Emacs &lpar;2012&rpar;](https://david.rothlis.net/emacs/howtolearn.html)
+- [Starfield’s missing Nvidia DLSS support has been added by a free mod](https://arstechnica.com/gaming/2023/09/starfields-missing-nvidia-dlss-support-has-been-added-by-a-free-mod/)
+- [GitHub – GSA/code-gov: An informative repo for all Code.gov repos](https://github.com/GSA/code-gov)
+- [Coffee in a Can](https://one-from-nippon.ghost.io/coffee-in-a-can/)
+- [School of SRE: Curriculum for onboarding non-traditional hires and new grads](https://github.com/linkedin/school-of-sre)
+- [Florida’s “Nub City,” Where Residents Cut Off Their Own Appendages for Insurance](https://allthatsinteresting.com/nub-city-vernon-florida)
+- [Memories from Old LAN Parties](https://thomask.sdf.org/blog/2023/09/09/memories-from-old-lan-parties.html)
+- [Lithium discovery in US volcano could be biggest deposit ever found](https://www.chemistryworld.com/news/lithium-discovery-in-us-volcano-could-be-biggest-deposit-ever-found/4018032.article)
+- [Microsoft announces purchase of 315k tonnes of CO2 removal](https://www.heirloomcarbon.com/news/heirloom-and-microsoft-sign-permanent-co2-removal-deal)
+- [Freshpaint &lpar;YC S19&rpar; is hiring engineers to build a HIPAA compliant data platform](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
+- [The English cottage where John le Carré wrote Tinker Tailor Soldier Spy](https://lithub.com/look-inside-the-gorgeous-english-cottage-where-john-le-carre-wrote-tinker-tailor-soldier-spy/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

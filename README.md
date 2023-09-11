@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Nagorno-Karabakh routes reopen in Lachin corridor deal, say Azeri and Armenian sides](https://www.theguardian.com/world/2023/sep/10/nagorno-karabakh-routes-reopen-in-lachin-corridor-deal-say-azeri-and-armenian-sides)
-- [Russia-Ukraine war at a glance: what we know on day 564 of the invasion](https://www.theguardian.com/world/2023/sep/10/russia-ukraine-war-at-a-glance-what-we-know-on-day-564-of-the-invasion)
-- [China’s ‘good for marriage’ women’s trend ignites social media debate](https://www.theguardian.com/world/2023/sep/10/chinas-good-for-marriage-womens-trend-ignites-social-media-debate)
-- [‘Don’t write us off’: Borthwick buoyant after stunning win over Argentina](https://www.theguardian.com/sport/2023/sep/10/dont-write-us-off-borthwick-buoyant-after-stunning-win-over-argentina)
-- [China troubles could upset Apple’s cart as it prepares to launch the iPhone 15](https://www.theguardian.com/technology/2023/sep/10/china-troubles-could-upset-apples-cart-as-it-prepares-to-launch-the-iphone-15)
-- [Caribbean nations set to demand royal family makes reparations for slave trade](https://www.theguardian.com/uk-news/2023/sep/10/caribbean-nations-set-to-demand-royal-family-makes-reparations-for-slave-trade)
-- [Coco Gauff battles back to stun Aryna Sabalenka and claim US Open title](https://www.theguardian.com/sport/2023/sep/10/coco-gauff-battles-back-to-stun-aryna-sabalenka-and-claim-us-open-title)
-- [A Haunting in Venice review – Branagh’s Agatha Christie whodunnit given horror makeover](https://www.theguardian.com/film/2023/sep/10/a-haunting-in-venice-review-branaghs-agatha-christie-whodunnit-given-horror-makeover)
-- [Cover up: 15 of the hottest hoodies – in pictures](https://www.theguardian.com/fashion/gallery/2023/sep/09/cover-up-15-of-the-hottest-hoodies-in-pictures)
-- [Greek rescuers working through the night to locate villagers trapped by flood](https://www.theguardian.com/world/2023/sep/09/greek-rescuers-working-through-the-night-to-locate-villagers-trapped-by-flood)
+- [Has the plant-based food revolution lost its sizzle? – podcast](https://www.theguardian.com/news/audio/2023/sep/11/has-the-plant-based-food-revolution-lost-its-sizzle-podcast)
+- [Have we reached peak China? How the booming middle class hit a brick wall](https://www.theguardian.com/world/2023/sep/11/have-we-reached-peak-china-how-the-booming-middle-class-hit-a-brick-wall)
+- [‘A Brazilian 9/11’: film tells little-known story of failed 1988 hijacking](https://www.theguardian.com/film/2023/sep/11/a-brazilian-911-film-tells-little-known-story-of-failed-1988-hijacking)
+- [Ageless Djokovic dismantles Medvedev in US Open final to win 24th grand slam title](https://www.theguardian.com/sport/2023/sep/10/novak-djokovic-wins-us-open-tennis-2023-daniil-medvedev-24th-grand-slam)
+- [Canada PM Justin Trudeau stuck in India after plane breaks down](https://www.theguardian.com/world/2023/sep/11/canada-pm-justin-trudeau-stuck-in-india-g20-plane-breaks-down)
+- [Dear Jassi review – Hollywood maximalist makes first Indian movie](https://www.theguardian.com/film/2023/sep/10/dear-jassi-review-hollywood-maximalist-makes-first-indian-movie)
+- [Air con, a fridge and sofa: Thaksin Shinawatra’s ‘VVIP’ prison life in Thailand](https://www.theguardian.com/world/2023/sep/11/air-con-a-fridge-and-sofa-thaksin-shinawatras-vvip-prison-life-in-thailand)
+- [Russia-Ukraine war at a glance: what we know on day 565 of the invasion](https://www.theguardian.com/world/2023/sep/11/russia-ukraine-war-at-a-glance-what-we-know-on-day-565-of-the-invasion)
+- [Former rubbish dump in Essex becomes UK’s third largest solar farm](https://www.theguardian.com/business/2023/sep/11/former-rubbish-dump-in-essex-becomes-third-largest-uk-solar-farm)
+- [Neighbours: A New Chapter review – fans will be left shouting at their screens](https://www.theguardian.com/tv-and-radio/2023/sep/11/neighbours-a-new-chapter-review-fans-will-be-left-shouting-at-their-screens)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

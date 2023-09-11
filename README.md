@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Colors, Eyesight, and Reality](https://www.science.org/content/blog-post/colors-eyesight-and-reality)
-- [SpaceX can’t launch another rocket in Texas until fixes are made, FAA says](https://www.texastribune.org/2023/09/08/texas-spacex-faa-investigation/)
-- [An AI Capitalism Primer](https://werd.io/2023/an-ai-capitalism-primer)
-- [Pets.chickens.roadfaq: Frequently Asked Questions Regarding Road-Crossings](http://beyondloom.com/blog/roadcrossing.html)
-- [TextViewBenchmark: A suite of performance tests for macOS text views](https://github.com/ChimeHQ/TextViewBenchmark)
-- [US seizes nearly 1M barrels of Iranian oil allegedly bound for China](https://www.cnn.com/2023/09/09/politics/us-oil-iran-china-doj/index.html)
-- [Type Theory: #33 Z3 and Lean, the Spiritual Journey](https://www.typetheoryforall.com/2023/09/09/33-Leo-de-Moura.html)
-- [The puzzling link between air pollution and suicide](https://www.bbc.com/future/article/20230907-the-puzzling-link-between-air-pollution-and-suicide)
-- [‘Weird’ dinosaur prompts rethink of bird evolution](https://www.nature.com/articles/d41586-023-02757-5)
-- [Should women learn to love pain?](https://unherd.com/2023/09/should-women-learn-to-love-pain/)
+- [Escaping containers using the Dirty Pipe vulnerability](https://securitylabs.datadoghq.com/articles/dirty-pipe-container-escape-poc/)
+- [EFF Surveillance Self-Defense](https://ssd.eff.org/)
+- [None of My Students Remember 9/11](https://www.theatlantic.com/ideas/archive/2021/08/911-teaching/619921/)
+- [NYT the Sunday Read: ‘Wikipedia’s Moment of Truth’[video]](https://www.youtube.com/watch?v=EX1qanIHm4s)
+- [LangSmith by LangChain](https://smith.langchain.com/)
+- [UN: Canadian temporary foreign worker program &#39;contemporary forms of slavery&#39;](https://www.cbc.ca/news/politics/un-special-rapporteur-migrant-worker-program-modern-form-of-slavery-1.6958592)
+- [An AI Native database for embedding vectors](https://github.com/awa-ai/awadb)
+- [Development Statistics for the 6.5 Kernel](https://lwn.net/Articles/941675/)
+- [Runtime representation of numbers in OCaml [video]](https://www.youtube.com/watch?v=EblI_VXaeIk)
+- [The old have come to dominate American politics](https://www.economist.com/graphic-detail/2023/09/08/the-old-have-come-to-dominate-american-politics)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

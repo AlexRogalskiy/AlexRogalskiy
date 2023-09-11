@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Starfield’s missing Nvidia DLSS support has been added by a free mod](https://arstechnica.com/gaming/2023/09/starfields-missing-nvidia-dlss-support-has-been-added-by-a-free-mod/)
-- [GitHub – GSA/code-gov: An informative repo for all Code.gov repos](https://github.com/GSA/code-gov)
-- [Coffee in a Can](https://one-from-nippon.ghost.io/coffee-in-a-can/)
-- [School of SRE: Curriculum for onboarding non-traditional hires and new grads](https://github.com/linkedin/school-of-sre)
-- [Florida’s “Nub City,” Where Residents Cut Off Their Own Appendages for Insurance](https://allthatsinteresting.com/nub-city-vernon-florida)
-- [Memories from Old LAN Parties](https://thomask.sdf.org/blog/2023/09/09/memories-from-old-lan-parties.html)
-- [Lithium discovery in US volcano could be biggest deposit ever found](https://www.chemistryworld.com/news/lithium-discovery-in-us-volcano-could-be-biggest-deposit-ever-found/4018032.article)
-- [Microsoft announces purchase of 315k tonnes of CO2 removal](https://www.heirloomcarbon.com/news/heirloom-and-microsoft-sign-permanent-co2-removal-deal)
-- [Freshpaint &lpar;YC S19&rpar; is hiring engineers to build a HIPAA compliant data platform](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
-- [The English cottage where John le Carré wrote Tinker Tailor Soldier Spy](https://lithub.com/look-inside-the-gorgeous-english-cottage-where-john-le-carre-wrote-tinker-tailor-soldier-spy/)
+- [A more dynamic software I/O TLB](https://lwn.net/Articles/940973/)
+- [Microsoft has not stopped forcing Edge on Windows 11 users](https://www.ctrl.blog/entry/windows-system-components-default-edge.html)
+- [To make dishwashers great again? &lpar;2020&rpar;](https://www.greenbuildinglawupdate.com/2020/11/articles/environmental/to-make-dishwashers-great-again/)
+- [Superbatteries will transform the performance of EVs](https://www.economist.com/science-and-technology/2023/08/23/superbatteries-will-transform-the-performance-of-evs)
+- [The Awk book’s 60-line version of Make](https://benhoyt.com/writings/awk-make/)
+- [RISC-V SBI and the full boot process](https://popovicu.com/posts/risc-v-sbi-and-full-boot-process/)
+- [Improving NeRF quality by progressive camera placement](https://arxiv.org/abs/2309.00014)
+- [Small prey compelled prehistoric humans to produce appropriate hunting weapons](https://phys.org/news/2023-09-small-prey-compelled-prehistoric-humans.html)
+- [Historical Objects: The Bees of Childeric I](https://justhistoryposts.com/2023/09/05/historical-objects-the-bees-of-childeric-i/)
+- [Fathom AI Notetaker &lpar;YC W21&rpar; is hiring a principal SRE &lpar;remote&rpar;](https://www.ycombinator.com/companies/fathom/jobs/L0pyU04Gs-principal-site-reliability-engineer-remote)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

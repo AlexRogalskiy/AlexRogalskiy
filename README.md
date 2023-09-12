@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Escaping containers using the Dirty Pipe vulnerability](https://securitylabs.datadoghq.com/articles/dirty-pipe-container-escape-poc/)
-- [EFF Surveillance Self-Defense](https://ssd.eff.org/)
-- [None of My Students Remember 9/11](https://www.theatlantic.com/ideas/archive/2021/08/911-teaching/619921/)
-- [NYT the Sunday Read: ‘Wikipedia’s Moment of Truth’[video]](https://www.youtube.com/watch?v=EX1qanIHm4s)
-- [LangSmith by LangChain](https://smith.langchain.com/)
-- [UN: Canadian temporary foreign worker program &#39;contemporary forms of slavery&#39;](https://www.cbc.ca/news/politics/un-special-rapporteur-migrant-worker-program-modern-form-of-slavery-1.6958592)
-- [An AI Native database for embedding vectors](https://github.com/awa-ai/awadb)
-- [Development Statistics for the 6.5 Kernel](https://lwn.net/Articles/941675/)
-- [Runtime representation of numbers in OCaml [video]](https://www.youtube.com/watch?v=EblI_VXaeIk)
-- [The old have come to dominate American politics](https://www.economist.com/graphic-detail/2023/09/08/the-old-have-come-to-dominate-american-politics)
+- [Caddy is the first and only web server to use HTTPS automatically and by default](https://caddyserver.com/docs/automatic-https)
+- [Enterprise grade fast LLM Gateway and Router](https://www.getjavelin.io/)
+- [Mark E. Zuckerberg ’06: The whiz behind thefacebook.com](https://www.thecrimson.com/article/2004/6/10/mark-e-zuckerberg-06-the-whiz/)
+- [Medicine without doctors? State laws are changing who treats patients](https://www.washingtonpost.com/health/2023/08/20/nurse-doctor-scope-medical-titles/)
+- [Celebrating Amazonka 2.0: How Bellroy thinks about open source](https://exploring-better-ways.bellroy.com/celebrating-the-release-of-amazonka-2-0.html)
+- [Why Is College So Expensive?](https://www.kiteandkeymedia.com/videos/why-is-college-tuition-so-expensive/)
+- [What goes into making an OnionShare release: Part 1](https://micahflee.com/2023/09/what-goes-into-making-an-onionshare-release/)
+- [Tesla shares jump after predictions that AI could add $500B in market value](https://www.cnn.com/2023/09/11/tech/tesla-dojo-morgan-stanley/index.html)
+- [Ask HN: When building with complex maps do you go with GMaps, Mapbox, OSM?](https://news.ycombinator.com/item?id=37476113)
+- [For the First Time in Years, I’m Excited by My Computer Purchase](https://changelog.complete.org/archives/10564-for-the-first-time-in-years-im-excited-by-my-computer-purchase)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

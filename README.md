@@ -355,6 +355,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [IBM&#39;s software unit issues global return to office mandate](https://www.computerworld.com/article/3706273/ibms-software-unit-issues-global-return-to-office-mandate.html#tk.rss_all)
+- [Apple extends Qualcomm iPhone 5G modem supply deal into 2026](https://www.computerworld.com/article/3706272/apple-extends-qualcomm-iphone-5g-modem-supply-deal-into-2026.html#tk.rss_all)
+- [Here’s how Slack envisions adding genAI to its software](https://www.computerworld.com/article/3706290/heres-how-slack-envisions-adding-gen-ai-to-its-software.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [Chinese-made 7nm chips in Huawei phone raise questions over US export ban](https://www.computerworld.com/article/3706373/chinese-made-7nm-chips-in-huawei-phone-raise-questions-over-us-export-ban.html#tk.rss_all)
 - [The Donald Trump deep fake ‘interview’ and the problem with avatars](https://www.computerworld.com/article/3706375/the-donald-trump-deep-fake-interview-and-the-problem-with-avatars.html#tk.rss_all)
@@ -362,9 +365,6 @@
 - [Microsoft pledges to defend Copilot customers against copyright lawsuits](https://www.computerworld.com/article/3706450/microsoft-pledges-to-defend-copilot-customers-against-copyright-lawsuits.html#tk.rss_all)
 - [Amazon&#39;s return-to-office mandate won&#39;t work out](https://www.computerworld.com/article/3705913/amazons-return-to-office-mandate-wont-work-out.html#tk.rss_all)
 - [How note-taking AI from Google and Apple complete you](https://www.computerworld.com/article/3705912/how-note-taking-ai-from-google-and-apple-complete-you.html#tk.rss_all)
-- [Windows desktop apps are the future &lpar;with or without Windows&rpar;](https://www.computerworld.com/article/3705990/windows-desktop-apps-are-the-future-with-or-without-windows.html#tk.rss_all)
-- [Tencent debuts Hunyuan AI model, opens it up for enterprise use](https://www.computerworld.com/article/3706270/tencent-debuts-hunyuan-ai-model-opens-it-up-for-enterprise-use.html#tk.rss_all)
-- [MediaTek hints big speed boosts for upcoming iPhone, Macs](https://www.computerworld.com/article/3706368/mediatek-hints-big-speed-boosts-for-upcoming-iphone-macs.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

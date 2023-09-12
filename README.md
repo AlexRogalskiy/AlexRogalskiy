@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [A more dynamic software I/O TLB](https://lwn.net/Articles/940973/)
-- [Microsoft has not stopped forcing Edge on Windows 11 users](https://www.ctrl.blog/entry/windows-system-components-default-edge.html)
-- [To make dishwashers great again? &lpar;2020&rpar;](https://www.greenbuildinglawupdate.com/2020/11/articles/environmental/to-make-dishwashers-great-again/)
-- [Superbatteries will transform the performance of EVs](https://www.economist.com/science-and-technology/2023/08/23/superbatteries-will-transform-the-performance-of-evs)
-- [The Awk book’s 60-line version of Make](https://benhoyt.com/writings/awk-make/)
-- [RISC-V SBI and the full boot process](https://popovicu.com/posts/risc-v-sbi-and-full-boot-process/)
-- [Improving NeRF quality by progressive camera placement](https://arxiv.org/abs/2309.00014)
-- [Small prey compelled prehistoric humans to produce appropriate hunting weapons](https://phys.org/news/2023-09-small-prey-compelled-prehistoric-humans.html)
-- [Historical Objects: The Bees of Childeric I](https://justhistoryposts.com/2023/09/05/historical-objects-the-bees-of-childeric-i/)
-- [Fathom AI Notetaker &lpar;YC W21&rpar; is hiring a principal SRE &lpar;remote&rpar;](https://www.ycombinator.com/companies/fathom/jobs/L0pyU04Gs-principal-site-reliability-engineer-remote)
+- [For the First Time in Years, I’m Excited by My Computer Purchase](https://changelog.complete.org/archives/10564-for-the-first-time-in-years-im-excited-by-my-computer-purchase)
+- [Padlet &lpar;YC W13&rpar; is hiring in Singapore and San Francisco](https://padlet.jobs)
+- [Have I Been Pwned? [video]](https://www.youtube.com/watch?v=pxPEdUFdayA)
+- [Arm’s Neoverse V2](https://chipsandcheese.com/2023/09/11/hot-chips-2023-arms-neoverse-v2/)
+- [Neopets is still around](https://www.dualshockers.com/neopets-is-still-active-2023/)
+- [Onboarding floating-point](https://www.altdevarts.com/p/onboarding-floating-point)
+- [Advanced x86: Virtualization with  Intel VT-x](https://opensecuritytraining.info/AdvancedX86-VTX.html)
+- [Mac ROM-Inator II Restock and Partnerships](https://www.bigmessowires.com/2023/09/09/mac-rom-inator-ii-restock-and-partnerships/)
+- [MGM is down, cybersecurity attack ongoing](https://www.casino.org/news/mgm-resorts-suffers-cybersecurity-attack-system-outage-reported/)
+- [Show HN: Real-Time 3D Gaussian Splatting in WebGL](https://antimatter15.com/splat/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

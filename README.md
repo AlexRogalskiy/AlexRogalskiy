@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Caddy is the first and only web server to use HTTPS automatically and by default](https://caddyserver.com/docs/automatic-https)
-- [Enterprise grade fast LLM Gateway and Router](https://www.getjavelin.io/)
-- [Mark E. Zuckerberg ’06: The whiz behind thefacebook.com](https://www.thecrimson.com/article/2004/6/10/mark-e-zuckerberg-06-the-whiz/)
-- [Medicine without doctors? State laws are changing who treats patients](https://www.washingtonpost.com/health/2023/08/20/nurse-doctor-scope-medical-titles/)
-- [Celebrating Amazonka 2.0: How Bellroy thinks about open source](https://exploring-better-ways.bellroy.com/celebrating-the-release-of-amazonka-2-0.html)
-- [Why Is College So Expensive?](https://www.kiteandkeymedia.com/videos/why-is-college-tuition-so-expensive/)
-- [What goes into making an OnionShare release: Part 1](https://micahflee.com/2023/09/what-goes-into-making-an-onionshare-release/)
-- [Tesla shares jump after predictions that AI could add $500B in market value](https://www.cnn.com/2023/09/11/tech/tesla-dojo-morgan-stanley/index.html)
-- [Ask HN: When building with complex maps do you go with GMaps, Mapbox, OSM?](https://news.ycombinator.com/item?id=37476113)
-- [For the First Time in Years, I’m Excited by My Computer Purchase](https://changelog.complete.org/archives/10564-for-the-first-time-in-years-im-excited-by-my-computer-purchase)
+- [Starwhale: A new MLOps platform for Model Evaluation](https://github.com/star-whale/starwhale)
+- [Elixir OpenAI API Wrapper](https://github.com/mgallo/openai.ex)
+- [Trusted Postgres Architect](https://github.com/EnterpriseDB/tpa)
+- [Common Birds in India: A Birdwatcher’s Paradise by Deepak Raj](https://walkinthewild.co.in/the-10-most-common-birds-in-india-a-birdwatchers-paradise)
+- [Polyester Is Hard to Recycle. What If Scientists Could Fix This?](https://www.wsj.com/style/fashion/polyester-clothing-recycling-startups-299f7feb)
+- [Onion Futures Act – US law banning trading futures on onions](https://en.wikipedia.org/wiki/Onion_Futures_Act)
+- [How do people send system messages to &lpar;human&rpar; clients these days?](https://news.ycombinator.com/item?id=37491227)
+- [Twitter Rebranding Auction](https://www.bidspotter.com/en-us/auction-catalogues/heritage-global-partners/catalogue-id-herita10216)
+- [What will a four-day work week look like in Scotland?](https://www.thenational.scot/politics/23775840.will-four-day-work-week-look-like-scotland/)
+- [Einstein to Habicht, 1905](https://ecologicallyoriented.wordpress.com/2014/05/24/einstein-to-habicht-1905/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

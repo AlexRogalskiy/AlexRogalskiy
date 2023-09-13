@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [For the First Time in Years, I’m Excited by My Computer Purchase](https://changelog.complete.org/archives/10564-for-the-first-time-in-years-im-excited-by-my-computer-purchase)
-- [Padlet &lpar;YC W13&rpar; is hiring in Singapore and San Francisco](https://padlet.jobs)
-- [Have I Been Pwned? [video]](https://www.youtube.com/watch?v=pxPEdUFdayA)
-- [Arm’s Neoverse V2](https://chipsandcheese.com/2023/09/11/hot-chips-2023-arms-neoverse-v2/)
-- [Neopets is still around](https://www.dualshockers.com/neopets-is-still-active-2023/)
-- [Onboarding floating-point](https://www.altdevarts.com/p/onboarding-floating-point)
-- [Advanced x86: Virtualization with  Intel VT-x](https://opensecuritytraining.info/AdvancedX86-VTX.html)
-- [Mac ROM-Inator II Restock and Partnerships](https://www.bigmessowires.com/2023/09/09/mac-rom-inator-ii-restock-and-partnerships/)
-- [MGM is down, cybersecurity attack ongoing](https://www.casino.org/news/mgm-resorts-suffers-cybersecurity-attack-system-outage-reported/)
-- [Show HN: Real-Time 3D Gaussian Splatting in WebGL](https://antimatter15.com/splat/)
+- [Einstein to Habicht, 1905](https://ecologicallyoriented.wordpress.com/2014/05/24/einstein-to-habicht-1905/)
+- [Unity rushes to clarify price increase plan, as game developers fume](https://www.axios.com/2023/09/13/unity-runtime-fee-policy-marc-whitten)
+- [Lessons from 139 YC AI Startups &lpar;YC S23&rpar;](https://www.ignorance.ai/p/5-lessons-from-139-yc-ai-startups)
+- [How long it took different companies to find product-market fit](https://www.lennysnewsletter.com/p/finding-product-market-fit)
+- [Fixing Penn Station](https://commonedge.org/whats-to-become-of-the-mess-that-is-penn-station/)
+- [Credit card debt collection](https://www.bitsaboutmoney.com/archive/the-waste-stream-of-consumer-finance/)
+- [What the interns have wrought, 2023 edition](https://blog.janestreet.com/what-the-interns-have-wrought-2023/)
+- [JustPaid.io &lpar;YC W23&rpar; is hiring a senior full stack engineer](https://www.justpaid.io/careers)
+- [Some notes on local-first development](https://bricolage.io/some-notes-on-local-first-development/)
+- [Electric cooling could shrink quantum computers](https://spectrum.ieee.org/cryogenics)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

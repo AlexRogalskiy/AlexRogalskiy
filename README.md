@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [The concrete crisis: is Britain falling apart? - podcast](https://www.theguardian.com/news/audio/2023/sep/12/the-concrete-crisis-is-britain-falling-apart-podcast)
-- [Kim Jong-un arrives in Russia to meet Putin as US threatens sanctions](https://www.theguardian.com/world/2023/sep/12/kim-jong-un-arrives-russia-vladivostok-vladimir-putin-meeting)
-- [The Critic review – a devious Ian McKellen anchors uneven thriller](https://www.theguardian.com/film/2023/sep/11/the-critic-review-ian-mckellen)
-- [China concerns drive historic upgrade in US-Vietnam relations](https://www.theguardian.com/us-news/2023/sep/12/china-concerns-drive-historic-upgrade-in-us-vietnam-relations)
-- [Aaron Rodgers leaves field injured on first drive of New York Jets career](https://www.theguardian.com/sport/2023/sep/11/aaron-rodgers-injury-new-york-jets-buffalo-bills-nfl-football)
-- [Wellington divided as Peter Jackson land purchase halts housing plan](https://www.theguardian.com/world/2023/sep/12/wellington-divided-as-peter-jackson-land-purchase-halts-housing-plan)
-- [Trump asks judge to recuse herself in federal 2020 election subversion case](https://www.theguardian.com/us-news/2023/sep/11/trump-2020-election-subversion-case-judge-tanya-chutkan)
-- [US agrees to release $6bn in Iran funds as part of deal to free detained Americans](https://www.theguardian.com/world/2023/sep/11/us-iran-sanctions-waiver-americans-detained-iran)
-- [Russia-Ukraine war at a glance: what we know on day 566 of the invasion](https://www.theguardian.com/world/2023/sep/12/russia-ukraine-war-at-a-glance-what-we-know-on-day-566-of-the-invasion)
-- [What can a new documentary tell us about the Louis CK scandal?](https://www.theguardian.com/film/2023/sep/11/louis-ck-scandal-documentary-sorry-not-sorry)
+- [A day in the ruins of Morocco’s earthquake - podcast](https://www.theguardian.com/news/audio/2023/sep/13/a-day-in-the-ruins-of-moroccos-earthquake)
+- [Kim Jong-un expected to hold weapons talks with Putin at remote Russian space base](https://www.theguardian.com/world/2023/sep/13/kim-jong-un-putin-weapons-talk-russian-space-base-amur)
+- [Descendants of enslaved people fight against ‘erasure’ of their historical land](https://www.theguardian.com/us-news/2023/sep/12/slave-descendants-preservation-land-georgia-gullah-geechee)
+- [Portuguese town flooded by river of ‘good quality’ red wine](https://www.theguardian.com/world/2023/sep/13/levira-portugal-wine-flood-how-damage-litres-destilaria)
+- [Hunt for nearly 70 crocodiles that escaped during China floods](https://www.theguardian.com/world/2023/sep/13/crocodiles-escape-china-floods)
+- [Russia-Ukraine war at a glance: what we know on day 567 of the invasion](https://www.theguardian.com/world/2023/sep/13/russia-ukraine-war-at-a-glance-what-we-know-on-day-567-of-the-invasion)
+- [UK election watchdog issues damning verdict on voter ID impact](https://www.theguardian.com/politics/2023/sep/13/uk-election-watchdog-issues-damning-verdict-on-voter-id-impact)
+- [Happiness of girls and young women at lowest level since 2009, shows UK poll](https://www.theguardian.com/society/2023/sep/13/happiness-of-girls-and-young-women-at-lowest-level-since-2009-shows-uk-poll)
+- [Sustained rift with China would harm UK universities, report warns](https://www.theguardian.com/education/2023/sep/13/sustained-rift-with-china-would-harm-uk-universities-report-warns)
+- [Environmental activists killed at a rate of one every other day in 2022 – report](https://www.theguardian.com/environment/2023/sep/13/environmental-activists-killed-at-a-rate-of-one-every-other-day-in-2022-global-witness-report-aoe)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

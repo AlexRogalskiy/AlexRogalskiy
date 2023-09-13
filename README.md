@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
+- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
+- [Apple launches the iPhone 15 series, new Apple Watches — and talks up its green plans](https://www.computerworld.com/article/3706475/apple-launches-the-iphone-15-series-new-apple-watches-and-talks-up-its-green-plans.html#tk.rss_all)
+- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
+- [Google defends search business in biggest US antitrust case of the century so far](https://www.computerworld.com/article/3706512/google-defends-search-business-in-biggest-us-antitrust-case-of-the-century-so-far.html#tk.rss_all)
+- [IDC: Collaboration software spending growth slows; AI features to drive future increases](https://www.computerworld.com/article/3706514/idc-collaboration-software-spending-growth-slows-ai-features-to-drive-future-increases.html#tk.rss_all)
+- [WWDC 2024: Is Apple on the road to Siri 2.0?](https://www.computerworld.com/article/3706472/wwdc-2024-is-apple-on-the-road-to-siri-20.html#tk.rss_all)
+- [Onboarding remote employees doesn&#39;t have to be hard](https://www.computerworld.com/article/3706448/onboarding-remote-employees-doesnt-have-to-be-hard.html#tk.rss_all)
+- [HP exec: There’s no going back to the pre-pandemic workplace](https://www.computerworld.com/article/3706271/hp-exec-theres-no-going-back-to-the-pre-pandemic-workplace.html#tk.rss_all)
 - [IBM&#39;s software unit issues global return to office mandate](https://www.computerworld.com/article/3706273/ibms-software-unit-issues-global-return-to-office-mandate.html#tk.rss_all)
-- [Apple extends Qualcomm iPhone 5G modem supply deal into 2026](https://www.computerworld.com/article/3706272/apple-extends-qualcomm-iphone-5g-modem-supply-deal-into-2026.html#tk.rss_all)
-- [Here’s how Slack envisions adding genAI to its software](https://www.computerworld.com/article/3706290/heres-how-slack-envisions-adding-gen-ai-to-its-software.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [Chinese-made 7nm chips in Huawei phone raise questions over US export ban](https://www.computerworld.com/article/3706373/chinese-made-7nm-chips-in-huawei-phone-raise-questions-over-us-export-ban.html#tk.rss_all)
-- [The Donald Trump deep fake ‘interview’ and the problem with avatars](https://www.computerworld.com/article/3706375/the-donald-trump-deep-fake-interview-and-the-problem-with-avatars.html#tk.rss_all)
-- [Message to IT: Update all your Apple devices right away](https://www.computerworld.com/article/3706468/message-to-it-update-all-your-apple-devices-right-away.html#tk.rss_all)
-- [Microsoft pledges to defend Copilot customers against copyright lawsuits](https://www.computerworld.com/article/3706450/microsoft-pledges-to-defend-copilot-customers-against-copyright-lawsuits.html#tk.rss_all)
-- [Amazon&#39;s return-to-office mandate won&#39;t work out](https://www.computerworld.com/article/3705913/amazons-return-to-office-mandate-wont-work-out.html#tk.rss_all)
-- [How note-taking AI from Google and Apple complete you](https://www.computerworld.com/article/3705912/how-note-taking-ai-from-google-and-apple-complete-you.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

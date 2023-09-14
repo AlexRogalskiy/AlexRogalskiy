@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Starwhale: A new MLOps platform for Model Evaluation](https://github.com/star-whale/starwhale)
-- [Elixir OpenAI API Wrapper](https://github.com/mgallo/openai.ex)
-- [Trusted Postgres Architect](https://github.com/EnterpriseDB/tpa)
-- [Common Birds in India: A Birdwatcher’s Paradise by Deepak Raj](https://walkinthewild.co.in/the-10-most-common-birds-in-india-a-birdwatchers-paradise)
-- [Polyester Is Hard to Recycle. What If Scientists Could Fix This?](https://www.wsj.com/style/fashion/polyester-clothing-recycling-startups-299f7feb)
-- [Onion Futures Act – US law banning trading futures on onions](https://en.wikipedia.org/wiki/Onion_Futures_Act)
-- [How do people send system messages to &lpar;human&rpar; clients these days?](https://news.ycombinator.com/item?id=37491227)
-- [Twitter Rebranding Auction](https://www.bidspotter.com/en-us/auction-catalogues/heritage-global-partners/catalogue-id-herita10216)
-- [What will a four-day work week look like in Scotland?](https://www.thenational.scot/politics/23775840.will-four-day-work-week-look-like-scotland/)
-- [Einstein to Habicht, 1905](https://ecologicallyoriented.wordpress.com/2014/05/24/einstein-to-habicht-1905/)
+- [Judge in Shreveport Issues Restraining Order Against Kenyon Glover](https://news.ycombinator.com/item?id=37504057)
+- [An open letter from Robert F. Kennedy Jr](https://www.kennedy24.com/dncletter)
+- [Coda Is Now Nova](https://panic.com/coda/)
+- [Can LLMs Reason and Plan?](https://cacm.acm.org/blogs/blog-cacm/276268-can-llms-really-reason-and-plan/fulltext)
+- [Pico QwiicReset board adds Reset button and Qwiic connector to Raspberry Pi Pico](https://www.cnx-software.com/2023/09/14/pico-qwiicreset-reset-button-qwiic-connector-raspberry-pi-pico/)
+- [Crypto Hell &lpar;Excerpt from “Number Go Up”&rpar;](https://www.bloomberg.com/news/features/2023-08-17/my-crypto-hell-journey-started-with-a-wrong-number-scam-text)
+- [Paul Goldstein on artificial intelligence and the creative process](https://law.stanford.edu/2023/09/05/the-writers-strike-four-months-in-stanfords-paul-goldstein-on-artificial-intelligence-and-the-creative-process/)
+- [Unity introduces per-install fee for game developers](https://unity.com/runtime-fee)
+- [Show HN: Firefox and Chrome are now both version 117](https://news.ycombinator.com/item?id=37503832)
+- [The Economy&#39;s Safety Net Is Finally Gone](https://www.businessinsider.com/recession-outlook-economy-consumer-spending-gone-2023-9)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

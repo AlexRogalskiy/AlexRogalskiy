@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [UK gov&#39;t announces new $1.1B supercomputer and AI research facility](https://www.networkworld.com/article/3706649/uk-govt-announces-new-11b-supercomputer-and-ai-research-facility.html#tk.rss_all)
+- [12 thoughts for business after Apple’s iPhone 15 launch](https://www.computerworld.com/article/3706278/12-thoughts-for-business-after-apples-iphone-15-launch.html#tk.rss_all)
+- [Gloves come off during day one of Google&#39;s antitrust trial](https://www.computerworld.com/article/3706516/gloves-come-off-during-day-one-of-googles-antitrust-trial.html#tk.rss_all)
+- [Adobe generative AI tool Firefly is now generally available](https://www.computerworld.com/article/3706648/adobe-generative-ai-tool-firefly-is-now-generally-available.html#tk.rss_all)
+- [Will OpenAI’s enterprise chatbot put a big hurt on Microsoft?](https://www.computerworld.com/article/3706453/will-openai-s-enterprise-chatbot-put-a-big-hurt-on-microsoft.html#tk.rss_all)
+- [Google&#39;s increasingly prickly Android perception problem](https://www.computerworld.com/article/3706274/google-android-perception.html#tk.rss_all)
 - [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
 - [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
 - [Apple launches the iPhone 15 series, new Apple Watches — and talks up its green plans](https://www.computerworld.com/article/3706475/apple-launches-the-iphone-15-series-new-apple-watches-and-talks-up-its-green-plans.html#tk.rss_all)
 - [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
-- [Google defends search business in biggest US antitrust case of the century so far](https://www.computerworld.com/article/3706512/google-defends-search-business-in-biggest-us-antitrust-case-of-the-century-so-far.html#tk.rss_all)
-- [IDC: Collaboration software spending growth slows; AI features to drive future increases](https://www.computerworld.com/article/3706514/idc-collaboration-software-spending-growth-slows-ai-features-to-drive-future-increases.html#tk.rss_all)
-- [WWDC 2024: Is Apple on the road to Siri 2.0?](https://www.computerworld.com/article/3706472/wwdc-2024-is-apple-on-the-road-to-siri-20.html#tk.rss_all)
-- [Onboarding remote employees doesn&#39;t have to be hard](https://www.computerworld.com/article/3706448/onboarding-remote-employees-doesnt-have-to-be-hard.html#tk.rss_all)
-- [HP exec: There’s no going back to the pre-pandemic workplace](https://www.computerworld.com/article/3706271/hp-exec-theres-no-going-back-to-the-pre-pandemic-workplace.html#tk.rss_all)
-- [IBM&#39;s software unit issues global return to office mandate](https://www.computerworld.com/article/3706273/ibms-software-unit-issues-global-return-to-office-mandate.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

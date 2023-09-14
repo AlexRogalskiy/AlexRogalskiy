@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [A day in the ruins of Morocco’s earthquake - podcast](https://www.theguardian.com/news/audio/2023/sep/13/a-day-in-the-ruins-of-moroccos-earthquake)
-- [Kim Jong-un expected to hold weapons talks with Putin at remote Russian space base](https://www.theguardian.com/world/2023/sep/13/kim-jong-un-putin-weapons-talk-russian-space-base-amur)
-- [Descendants of enslaved people fight against ‘erasure’ of their historical land](https://www.theguardian.com/us-news/2023/sep/12/slave-descendants-preservation-land-georgia-gullah-geechee)
-- [Portuguese town flooded by river of ‘good quality’ red wine](https://www.theguardian.com/world/2023/sep/13/levira-portugal-wine-flood-how-damage-litres-destilaria)
-- [Hunt for nearly 70 crocodiles that escaped during China floods](https://www.theguardian.com/world/2023/sep/13/crocodiles-escape-china-floods)
-- [Russia-Ukraine war at a glance: what we know on day 567 of the invasion](https://www.theguardian.com/world/2023/sep/13/russia-ukraine-war-at-a-glance-what-we-know-on-day-567-of-the-invasion)
-- [UK election watchdog issues damning verdict on voter ID impact](https://www.theguardian.com/politics/2023/sep/13/uk-election-watchdog-issues-damning-verdict-on-voter-id-impact)
-- [Happiness of girls and young women at lowest level since 2009, shows UK poll](https://www.theguardian.com/society/2023/sep/13/happiness-of-girls-and-young-women-at-lowest-level-since-2009-shows-uk-poll)
-- [Sustained rift with China would harm UK universities, report warns](https://www.theguardian.com/education/2023/sep/13/sustained-rift-with-china-would-harm-uk-universities-report-warns)
-- [Environmental activists killed at a rate of one every other day in 2022 – report](https://www.theguardian.com/environment/2023/sep/13/environmental-activists-killed-at-a-rate-of-one-every-other-day-in-2022-global-witness-report-aoe)
+- [Libya floods: appeals for body bags amid fears of disease ‘epidemic’](https://www.theguardian.com/world/2023/sep/14/libya-floods-appeals-for-body-bags-disease-fears-northeastern-flooding)
+- [Ukraine’s counteroffensive: breaking the Russian lines - podcast](https://www.theguardian.com/news/audio/2023/sep/14/ukraines-offensive-breaking-the-russian-lines-podcast)
+- [‘We’re facing another old enemy’: Rushdie warns against global authoritarianism](https://www.theguardian.com/books/2023/sep/13/were-facing-another-old-enemy-rushdie-warns-against-global-authoritarianism)
+- [Austrian ex-foreign minister moves to Russia – with ponies flown in on military plane](https://www.theguardian.com/world/2023/sep/14/karin-kneissl-austria-ex-foreign-minister-moves-to-russia)
+- [Tech leaders agree on AI regulation but divided on how in Washington forum](https://www.theguardian.com/technology/2023/sep/13/tech-leaders-washington-ai-saferty-forum-elon-musk-zuckerberg-pichai)
+- [Kim Jong-un invites Putin to North Korea after summit brings ties to ‘a new level’](https://www.theguardian.com/world/2023/sep/14/kim-jong-un-invites-vladimir-putin-to-north-korea)
+- [‘Just jump on the spot if you can’t keep up’: my 90 minutes of ballet for beginners](https://www.theguardian.com/lifeandstyle/2023/sep/14/just-jump-on-the-spot-if-you-cant-keep-up-my-90-minutes-of-ballet-for-beginners)
+- [Russia-Ukraine war at a glance: what we know on day 568 of the invasion](https://www.theguardian.com/world/2023/sep/14/russia-ukraine-war-at-a-glance-what-we-know-on-day-568-of-the-invasion)
+- [Met police pays damages to women arrested at Sarah Everard vigil](https://www.theguardian.com/uk-news/2023/sep/14/met-police-pays-damages-to-women-arrested-at-sarah-everard-vigil)
+- [Boris Johnson attacks UK aid to Ukraine: ‘What the hell are we waiting for?’](https://www.theguardian.com/politics/2023/sep/14/boris-johnson-attacks-uk-aid-to-ukraine-what-the-hell-are-we-waiting-for)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

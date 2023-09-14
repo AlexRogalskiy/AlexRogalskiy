@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Einstein to Habicht, 1905](https://ecologicallyoriented.wordpress.com/2014/05/24/einstein-to-habicht-1905/)
-- [Unity rushes to clarify price increase plan, as game developers fume](https://www.axios.com/2023/09/13/unity-runtime-fee-policy-marc-whitten)
-- [Lessons from 139 YC AI Startups &lpar;YC S23&rpar;](https://www.ignorance.ai/p/5-lessons-from-139-yc-ai-startups)
-- [How long it took different companies to find product-market fit](https://www.lennysnewsletter.com/p/finding-product-market-fit)
-- [Fixing Penn Station](https://commonedge.org/whats-to-become-of-the-mess-that-is-penn-station/)
-- [Credit card debt collection](https://www.bitsaboutmoney.com/archive/the-waste-stream-of-consumer-finance/)
-- [What the interns have wrought, 2023 edition](https://blog.janestreet.com/what-the-interns-have-wrought-2023/)
-- [JustPaid.io &lpar;YC W23&rpar; is hiring a senior full stack engineer](https://www.justpaid.io/careers)
-- [Some notes on local-first development](https://bricolage.io/some-notes-on-local-first-development/)
-- [Electric cooling could shrink quantum computers](https://spectrum.ieee.org/cryogenics)
+- [FBI Hacker Dropped Stolen Airbus Data on 9/11](https://krebsonsecurity.com/2023/09/fbi-hacker-dropped-stolen-airbus-data-on-9-11/)
+- [Game Development Post-Unity](https://www.computerenhance.com/p/game-development-post-unity)
+- [Cache AnyThing filesystem written in Rust](https://github.com/kahing/catfs)
+- [Marvel visual effects artists unanimously vote to unionize](https://www.cnbc.com/2023/09/13/marvel-vfx-artists-unanimously-vote-to-unionize.html)
+- [Hutter Prize for compressing human knowledge](http://prize.hutter1.net/)
+- [RPG in a Box: A grid-based, voxel-style game engine built on Godot](https://www.rpginabox.com/)
+- [Don’t mess with a genius &lpar;2010&rpar;](https://shreevatsa.wordpress.com/2010/06/04/dont-mess-with-a-genius/)
+- [The stack monoid revisited](https://raphlinus.github.io/gpu/2021/05/13/stack-monoid-revisited.html)
+- [When MFA isn&#39;t MFA, or how we got phished](https://retool.com/blog/mfa-isnt-mfa/)
+- [Show HN: Kr8s – a Python client library for Kubernetes](https://github.com/kr8s-org/kr8s)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Judge in Shreveport Issues Restraining Order Against Kenyon Glover](https://news.ycombinator.com/item?id=37504057)
-- [An open letter from Robert F. Kennedy Jr](https://www.kennedy24.com/dncletter)
-- [Coda Is Now Nova](https://panic.com/coda/)
-- [Can LLMs Reason and Plan?](https://cacm.acm.org/blogs/blog-cacm/276268-can-llms-really-reason-and-plan/fulltext)
-- [Pico QwiicReset board adds Reset button and Qwiic connector to Raspberry Pi Pico](https://www.cnx-software.com/2023/09/14/pico-qwiicreset-reset-button-qwiic-connector-raspberry-pi-pico/)
-- [Crypto Hell &lpar;Excerpt from “Number Go Up”&rpar;](https://www.bloomberg.com/news/features/2023-08-17/my-crypto-hell-journey-started-with-a-wrong-number-scam-text)
-- [Paul Goldstein on artificial intelligence and the creative process](https://law.stanford.edu/2023/09/05/the-writers-strike-four-months-in-stanfords-paul-goldstein-on-artificial-intelligence-and-the-creative-process/)
-- [Unity introduces per-install fee for game developers](https://unity.com/runtime-fee)
-- [Show HN: Firefox and Chrome are now both version 117](https://news.ycombinator.com/item?id=37503832)
-- [The Economy&#39;s Safety Net Is Finally Gone](https://www.businessinsider.com/recession-outlook-economy-consumer-spending-gone-2023-9)
+- [Oppose Japan&#39;s push to discharge nuclear-contaminated water into the sea](https://news.ycombinator.com/item?id=37517414)
+- [ExpertQA: Dataset of Expert-Curated Questions and Attributed Answers](https://arxiv.org/abs/2309.07852)
+- [Will the Supreme Court End Rent Control?](https://www.city-journal.org/article/will-the-supreme-court-end-rent-control)
+- [Library has every book ever published](https://www.youtube.com/watch?v=ZNVuIU6UUiM)
+- [Tree of Uncertain Thoughts Reasoning for Large Language Models](https://arxiv.org/abs/2309.07694)
+- [Show HN: NiceShots – a app to easily create mockups](https://apps.apple.com/us/app/niceshots-%E5%B8%A6%E5%A3%B3%E6%88%AA%E5%B1%8F-%E6%88%AA%E5%9B%BE%E7%BE%8E%E5%8C%96-%E8%B6%85%E5%A4%9A%E6%A8%A1%E5%9E%8B-%E9%AB%98%E6%B8%85%E5%AF%BC%E5%87%BA/id6450619697)
+- [95 bits per second](https://popey.com/blog/2023/09/95-bits-per-second/)
+- [How can we have a proper debate when we no longer speak the same language?](https://richarddawkins.substack.com/p/how-can-we-have-a-proper-debate-when)
+- [Learning C in 2023](https://news.ycombinator.com/item?id=37517337)
+- [Linear code is more readable](https://blog.separateconcerns.com/2023-09-11-linear-code.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

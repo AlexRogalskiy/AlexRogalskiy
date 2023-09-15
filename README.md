@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [FBI Hacker Dropped Stolen Airbus Data on 9/11](https://krebsonsecurity.com/2023/09/fbi-hacker-dropped-stolen-airbus-data-on-9-11/)
-- [Game Development Post-Unity](https://www.computerenhance.com/p/game-development-post-unity)
-- [Cache AnyThing filesystem written in Rust](https://github.com/kahing/catfs)
-- [Marvel visual effects artists unanimously vote to unionize](https://www.cnbc.com/2023/09/13/marvel-vfx-artists-unanimously-vote-to-unionize.html)
-- [Hutter Prize for compressing human knowledge](http://prize.hutter1.net/)
-- [RPG in a Box: A grid-based, voxel-style game engine built on Godot](https://www.rpginabox.com/)
-- [Don’t mess with a genius &lpar;2010&rpar;](https://shreevatsa.wordpress.com/2010/06/04/dont-mess-with-a-genius/)
-- [The stack monoid revisited](https://raphlinus.github.io/gpu/2021/05/13/stack-monoid-revisited.html)
-- [When MFA isn&#39;t MFA, or how we got phished](https://retool.com/blog/mfa-isnt-mfa/)
-- [Show HN: Kr8s – a Python client library for Kubernetes](https://github.com/kr8s-org/kr8s)
+- [A mathematical formalization of dimensional analysis](https://terrytao.wordpress.com/2012/12/29/a-mathematical-formalisation-of-dimensional-analysis/)
+- [Cannabis use disorder and subsequent risk of depression and bipolar disorder](https://jamanetwork.com/journals/jamapsychiatry/article-abstract/2804862)
+- [Bluesky Exploits](https://github.com/qwell/bsky-exploits)
+- [Blogscroll – an open-source directory of personal blogs and digital gardens](https://blogscroll.com/)
+- [Godot Development Fund](https://fund.godotengine.org/)
+- [Unity Silently Deletes GitHub Repo That Tracks Terms of Service Changes](https://www.gamerbraves.com/unity-silently-deletes-github-repo-that-tracks-terms-of-service-changes-and-updated-its-license/)
+- [Cryptocurrency Mining in Texas](https://earthjustice.org/feature/cryptocurrency-mining-texas)
+- [Analyzing Starfield’s Performance on Nvidia’s 4090 and AMD’s 7900 XTX](https://chipsandcheese.com/2023/09/14/analyzing-starfields-performance-on-nvidias-4090-and-amds-7900-xtx/)
+- [iNaturalist receives $10M Grant, becomes independent 501c3](https://baynature.org/2023/09/12/inaturalist-strikes-out-on-its-own/)
+- [Programming Language Inventor or Serial Killer?](https://vole.wtf/coder-serial-killer-quiz/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

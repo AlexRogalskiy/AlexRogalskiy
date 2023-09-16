@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Critical updates for Microsoft Office and Visual Studio drive September&#39;s Patch Tuesday](https://www.computerworld.com/article/3707069/critical-updates-for-microsoft-office-and-visual-studio-drive-septembers-patch-tuesday.html#tk.rss_all)
+- [Low-code platform provider Airtable enacts new round of layoffs](https://www.computerworld.com/article/3706911/low-code-platform-provider-airtable-enacts-new-round-of-layoffs.html#tk.rss_all)
+- [iPhone 12: Fade away, and radiate?](https://www.computerworld.com/article/3706909/iphone-12-fade-away-and-radiate.html#tk.rss_all)
+- [Amazon deploys generative AI to write sales listings](https://www.computerworld.com/article/3706869/amazon-deploys-generative-ai-to-write-sales-listings.html#tk.rss_all)
+- [5 steps to a lean, clean Windows machine](https://www.computerworld.com/article/3696315/how-to-clean-windows-computer-disk-cleanup.html#tk.rss_all)
 - [The evolution of Apple&#39;s iPhone](https://www.computerworld.com/article/3692531/evolution-of-apple-iphone.html#tk.rss_all)
 - [This year&#39;s biggest tech IPO begins as ARM hits Nasdaq](https://www.computerworld.com/article/3706908/this-years-biggest-tech-ipo-begins-as-arm-hits-nasdaq.html#tk.rss_all)
 - [EU said to be proceeding with Microsoft Teams antitrust investigation](https://www.computerworld.com/article/3706889/eu-said-to-be-proceeding-with-microsoft-teams-antitrust-investigation.html#tk.rss_all)
 - [Does Apple’s double-tap gesture solve the mobile/human interface problem?](https://www.computerworld.com/article/3706888/does-apples-double-tap-gesture-solve-the-mobilehuman-interface-problem.html#tk.rss_all)
 - [AI language models need to shrink; here’s why smaller may be better](https://www.computerworld.com/article/3706510/ai-language-models-need-to-shrink-heres-why-smaller-may-be-better.html#tk.rss_all)
-- [Microsoft Teams suffers another outage in the North America region](https://www.computerworld.com/article/3706868/microsoft-teams-suffers-another-outage-in-the-north-america-region.html#tk.rss_all)
-- [Alphabet layoffs: Company trades recruitment team for tech talent](https://www.computerworld.com/article/3706809/alphabet-layoffs-company-trades-recruitment-team-for-tech-talent.html#tk.rss_all)
-- [UK gov&#39;t announces new $1.1B supercomputer and AI research facility](https://www.networkworld.com/article/3706649/uk-govt-announces-new-11b-supercomputer-and-ai-research-facility.html#tk.rss_all)
-- [12 thoughts for business after Apple’s iPhone 15 launch](https://www.computerworld.com/article/3706278/12-thoughts-for-business-after-apples-iphone-15-launch.html#tk.rss_all)
-- [Gloves come off during day one of Google&#39;s antitrust trial](https://www.computerworld.com/article/3706516/gloves-come-off-during-day-one-of-googles-antitrust-trial.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

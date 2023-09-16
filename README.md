@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [A mathematical formalization of dimensional analysis](https://terrytao.wordpress.com/2012/12/29/a-mathematical-formalisation-of-dimensional-analysis/)
-- [Cannabis use disorder and subsequent risk of depression and bipolar disorder](https://jamanetwork.com/journals/jamapsychiatry/article-abstract/2804862)
-- [Bluesky Exploits](https://github.com/qwell/bsky-exploits)
-- [Blogscroll – an open-source directory of personal blogs and digital gardens](https://blogscroll.com/)
-- [Godot Development Fund](https://fund.godotengine.org/)
-- [Unity Silently Deletes GitHub Repo That Tracks Terms of Service Changes](https://www.gamerbraves.com/unity-silently-deletes-github-repo-that-tracks-terms-of-service-changes-and-updated-its-license/)
-- [Cryptocurrency Mining in Texas](https://earthjustice.org/feature/cryptocurrency-mining-texas)
-- [Analyzing Starfield’s Performance on Nvidia’s 4090 and AMD’s 7900 XTX](https://chipsandcheese.com/2023/09/14/analyzing-starfields-performance-on-nvidias-4090-and-amds-7900-xtx/)
-- [iNaturalist receives $10M Grant, becomes independent 501c3](https://baynature.org/2023/09/12/inaturalist-strikes-out-on-its-own/)
-- [Programming Language Inventor or Serial Killer?](https://vole.wtf/coder-serial-killer-quiz/)
+- [Fifteen Times Faster Than Llama 2: Introducing DeciLM LLM with Variable GQA](https://deci.ai/blog/decilm-15-times-faster-than-llama2-nas-generated-llm-with-variable-gqa/)
+- [Texas pays Bitcoin miner to not mine](https://www.texasmonthly.com/news-politics/texas-bitcoin-miner-riot-31-million-energy-credits/)
+- [Rule for Beneficial Ownership Reporting &lpar;2022&rpar;](https://www.fincen.gov/news/news-releases/fincen-issues-final-rule-beneficial-ownership-reporting-support-law-enforcement)
+- [Record low Antarctic sea ice coverage indicates a new sea ice state](https://www.nature.com/articles/s43247-023-00961-9)
+- [Where did the Carter White House&#39;s solar panels go? &lpar;2010&rpar;](https://www.scientificamerican.com/article/carter-white-house-solar-panel-array/)
+- [“Most notorious” illegal shadow library &lpar;LibGen&rpar; sued by textbook publishers](https://arstechnica.com/tech-policy/2023/09/most-notorious-illegal-shadow-library-sued-by-textbook-publishers/)
+- [Johnny Cash Has Been Everywhere &lpar;Man&rpar;](http://www.johnnycashhasbeeneverywhere.com/)
+- [“Inverse vaccine” shows potential to treat MS and other autoimmune diseases](https://pme.uchicago.edu/news/inverse-vaccine-shows-potential-treat-multiple-sclerosis-and-other-autoimmune-diseases)
+- [Everyday uses for PVC water pipe](https://tomtilley.net/projects/pvc/)
+- [The first week of US v. Google – Defaults are everything and nobody likes Bing](https://www.theverge.com/2023/9/15/23875342/justice-department-google-antitrust-search-trial-week-one-recap)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

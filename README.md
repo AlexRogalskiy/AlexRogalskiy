@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Oppose Japan&#39;s push to discharge nuclear-contaminated water into the sea](https://news.ycombinator.com/item?id=37517414)
-- [ExpertQA: Dataset of Expert-Curated Questions and Attributed Answers](https://arxiv.org/abs/2309.07852)
-- [Will the Supreme Court End Rent Control?](https://www.city-journal.org/article/will-the-supreme-court-end-rent-control)
-- [Library has every book ever published](https://www.youtube.com/watch?v=ZNVuIU6UUiM)
-- [Tree of Uncertain Thoughts Reasoning for Large Language Models](https://arxiv.org/abs/2309.07694)
-- [Show HN: NiceShots – a app to easily create mockups](https://apps.apple.com/us/app/niceshots-%E5%B8%A6%E5%A3%B3%E6%88%AA%E5%B1%8F-%E6%88%AA%E5%9B%BE%E7%BE%8E%E5%8C%96-%E8%B6%85%E5%A4%9A%E6%A8%A1%E5%9E%8B-%E9%AB%98%E6%B8%85%E5%AF%BC%E5%87%BA/id6450619697)
-- [95 bits per second](https://popey.com/blog/2023/09/95-bits-per-second/)
-- [How can we have a proper debate when we no longer speak the same language?](https://richarddawkins.substack.com/p/how-can-we-have-a-proper-debate-when)
-- [Learning C in 2023](https://news.ycombinator.com/item?id=37517337)
-- [Linear code is more readable](https://blog.separateconcerns.com/2023-09-11-linear-code.html)
+- [How should you deal with passenger throttle interference just after take-off?](https://aviation.stackexchange.com/questions/100884/how-should-you-deal-with-passenger-throttle-interference-just-after-take-off)
+- [Unity Drama: Why You Shouldn&#39;t Blame John Riccitiello](https://old.reddit.com/r/unity/comments/16j23ci/i_know_people_dont_want_to_hear_this_you_shouldnt/)
+- [Why Are So Many Millennials Going to Mongolia?](https://www.nytimes.com/2023/09/13/travel/mongolia-millennials-road-trip.html)
+- [PotterScript: WASM-enabled programming language written in Rust](https://github.com/fmiras/potterscript)
+- [The Big Dummy&#39;s Guide to Fidonet &lpar;1992&rpar;](http://www.fidonet.us/dummyguide.html)
+- [High Street, Llandaff](https://en.wikipedia.org/wiki/11_High_Street,_Llandaff)
+- [Exodus 6 now features IBM Music Feature Card](https://www.youtube.com/watch?v=7kLsBv622fk)
+- [Chasing Hobbies over Achievement Boosts Happiness](https://neurosciencenews.com/hedonism-happiness-achievement-23923/)
+- [NASA Assigning a Director for UFO Research Is a Waste of Time](https://gizmodo.com/nasa-assigning-director-ufo-uap-research-waste-1850838278)
+- [Ask HN: Is there a way to learn Neural Networks/LLMs through problem solving?](https://news.ycombinator.com/item?id=37531053)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

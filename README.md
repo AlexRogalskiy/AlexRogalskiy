@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Fifteen Times Faster Than Llama 2: Introducing DeciLM LLM with Variable GQA](https://deci.ai/blog/decilm-15-times-faster-than-llama2-nas-generated-llm-with-variable-gqa/)
-- [Texas pays Bitcoin miner to not mine](https://www.texasmonthly.com/news-politics/texas-bitcoin-miner-riot-31-million-energy-credits/)
-- [Rule for Beneficial Ownership Reporting &lpar;2022&rpar;](https://www.fincen.gov/news/news-releases/fincen-issues-final-rule-beneficial-ownership-reporting-support-law-enforcement)
-- [Record low Antarctic sea ice coverage indicates a new sea ice state](https://www.nature.com/articles/s43247-023-00961-9)
-- [Where did the Carter White House&#39;s solar panels go? &lpar;2010&rpar;](https://www.scientificamerican.com/article/carter-white-house-solar-panel-array/)
-- [“Most notorious” illegal shadow library &lpar;LibGen&rpar; sued by textbook publishers](https://arstechnica.com/tech-policy/2023/09/most-notorious-illegal-shadow-library-sued-by-textbook-publishers/)
-- [Johnny Cash Has Been Everywhere &lpar;Man&rpar;](http://www.johnnycashhasbeeneverywhere.com/)
-- [“Inverse vaccine” shows potential to treat MS and other autoimmune diseases](https://pme.uchicago.edu/news/inverse-vaccine-shows-potential-treat-multiple-sclerosis-and-other-autoimmune-diseases)
-- [Everyday uses for PVC water pipe](https://tomtilley.net/projects/pvc/)
-- [The first week of US v. Google – Defaults are everything and nobody likes Bing](https://www.theverge.com/2023/9/15/23875342/justice-department-google-antitrust-search-trial-week-one-recap)
+- [Sam Bankman-Fried’s Elite Parents Enabled His Crypto Empire](https://www.bloomberg.com/news/features/2023-09-14/sam-bankman-fried-s-parents-did-they-enable-ftx-s-rise)
+- [Top VR Co &lpar;Gym Class – YC W22&rpar; Is Hiring Lead Back End Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ADcM4ZV-backend-engineer)
+- [California sues 5 major oil co&#39;s for campaign of deception about climate change](https://www.latimes.com/california/story/2023-09-16/california-sues-five-major-oil-companies-for-lying-about-climate-change)
+- [Spellburst: LLM–Powered Interactive Canvas](https://arxiv.org/abs/2308.03921)
+- [Insiders reveal major problems at lab-grown meat startup](https://www.wired.com/story/upside-foods-lab-grown-chicken/)
+- [Hot Chips 2023: AMD’s Phoenix SoC](https://chipsandcheese.com/2023/09/16/hot-chips-2023-amds-phoenix-soc/)
+- [Satya Nadella: “I want to use this tactically vs. GOOG/AAPL” &lpar;2022&rpar;](https://twitter.com/TechEmails/status/1703172745893404913)
+- [America&#39;s advanced manufacturing problem and how to fix it](https://americanaffairsjournal.org/2023/08/americas-advanced-manufacturing-problem-and-how-to-fix-it/)
+- [Adobe will charge “credits” for generative AI](https://helpx.adobe.com/firefly/using/generative-credits-faq.html)
+- [Linux on a MacBook Pro &lpar;M1 Pro&rpar;: How Good Is Asahi Now?](https://www.youtube.com/watch?v=ZFx6R26aRHw)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

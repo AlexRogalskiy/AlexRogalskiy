@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war at a glance: what we know on day 570 of the invasion](https://www.theguardian.com/world/2023/sep/16/russia-ukraine-war-at-a-glance-what-we-know-on-day-570-of-the-invasion)
-- [Hawaii fires: number of fatalities drops to 97 as DNA tests help identify victims](https://www.theguardian.com/us-news/2023/sep/15/hawaii-fires-death-toll-update-dna-testing-missing)
-- [Eight men sentenced over 2016 Brussels bombings, ending Belgium’s largest-ever criminal trial](https://www.theguardian.com/world/2023/sep/16/eight-men-sentenced-over-2016-brussels-bombings-ending-belgiums-largest-ever-criminal-trial)
-- [US special counsel seeks gag order on Trump’s ‘inflammatory’ statements](https://www.theguardian.com/us-news/2023/sep/15/us-special-counsel-seeks-gag-order-on-trumps-inflammatory-statements)
-- [Family of woman killed by husband ask justice secretary to keep him in jail](https://www.theguardian.com/uk-news/2023/sep/16/family-of-woman-killed-by-husband-ask-justice-secretary-to-keep-him-in-jail)
-- [André Onana is too busy saving United to play mind games with Harry Maguire | Barney Ronay](https://www.theguardian.com/football/blog/2023/sep/15/andre-onana-is-too-busy-saving-united-to-play-mind-games-with-harry-maguire)
-- [Ashton Kutcher and Mila Kunis resign from anti-child sexual abuse charity](https://www.theguardian.com/film/2023/sep/15/ashton-kutcher-mila-kunis-resign-charity-board-danny-masterson)
-- [Murdoch executives ‘told Sunak not to resign after Partygate fine’](https://www.theguardian.com/politics/2023/sep/15/murdoch-executives-told-sunak-not-to-resign-after-partygate-fine)
-- [Outrage and calls for inquiry into Seattle officer who joked about crash victim](https://www.theguardian.com/us-news/2023/sep/15/seattle-police-officer-car-crash-daniel-auderer-jaahnavi-kandula)
-- [Coco Chanel Unbuttoned review – extraordinary woman, shame about the Nazis](https://www.theguardian.com/tv-and-radio/2023/sep/15/coco-chanel-unbuttoned-review-arena-bbc-two)
+- [Rolling Stone founder Jann Wenner removed from Rock and Roll Hall of Fame board](https://www.theguardian.com/music/2023/sep/17/rolling-stone-founder-jann-wenner-removed-from-rock-and-roll-hall-of-fame-board)
+- [Russia-Ukraine war at a glance: what we know on day 571 of the invasion](https://www.theguardian.com/world/2023/sep/17/russia-ukraine-war-at-a-glance-what-we-know-on-day-571-of-the-invasion)
+- [California sues oil companies claiming they downplayed the risk of fossil fuels](https://www.theguardian.com/us-news/2023/sep/17/california-sues-oil-companies-claiming-they-downplayed-the-risk-of-fossil-fuels)
+- [Autumn wrapped up: 10 trends to update your wardrobe now – in pictures](https://www.theguardian.com/fashion/gallery/2023/sep/16/autumn-wrapped-up-10-trends-to-update-your-wardrobe-now-in-pictures)
+- [All wrapped up: 20 of the best winter coats, AW23 – in pictures](https://www.theguardian.com/fashion/gallery/2023/sep/16/all-wrapped-up-20-of-the-best-winter-coats-aw23-in-pictures)
+- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2023/sep/16/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Letter suggests Pope Pius XII knew of mass gassings of Jews and Poles in 1942](https://www.theguardian.com/world/2023/sep/16/letter-suggests-pope-pius-xii-knew-of-mass-gassings-of-jews-and-poles-in-1942)
+- [Liz Truss to claim her economic plan would have saved government £35bn](https://www.theguardian.com/politics/2023/sep/16/liz-truss-to-claim-her-economic-plan-would-have-saved-government-35bn)
+- [Russell Brand accused of rape, sexual assault and emotional abuse](https://www.theguardian.com/culture/2023/sep/16/russell-brand-accused-of-sexual-assault-and-emotional-abuse)
+- [Horse-and-trap riders die in collision with car in Gloucestershire](https://www.theguardian.com/uk-news/2023/sep/16/horse-and-trap-riders-die-in-collision-car-gloucestershire)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

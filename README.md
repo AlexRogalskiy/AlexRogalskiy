@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [How should you deal with passenger throttle interference just after take-off?](https://aviation.stackexchange.com/questions/100884/how-should-you-deal-with-passenger-throttle-interference-just-after-take-off)
-- [Unity Drama: Why You Shouldn&#39;t Blame John Riccitiello](https://old.reddit.com/r/unity/comments/16j23ci/i_know_people_dont_want_to_hear_this_you_shouldnt/)
-- [Why Are So Many Millennials Going to Mongolia?](https://www.nytimes.com/2023/09/13/travel/mongolia-millennials-road-trip.html)
-- [PotterScript: WASM-enabled programming language written in Rust](https://github.com/fmiras/potterscript)
-- [The Big Dummy&#39;s Guide to Fidonet &lpar;1992&rpar;](http://www.fidonet.us/dummyguide.html)
-- [High Street, Llandaff](https://en.wikipedia.org/wiki/11_High_Street,_Llandaff)
-- [Exodus 6 now features IBM Music Feature Card](https://www.youtube.com/watch?v=7kLsBv622fk)
-- [Chasing Hobbies over Achievement Boosts Happiness](https://neurosciencenews.com/hedonism-happiness-achievement-23923/)
-- [NASA Assigning a Director for UFO Research Is a Waste of Time](https://gizmodo.com/nasa-assigning-director-ufo-uap-research-waste-1850838278)
-- [Ask HN: Is there a way to learn Neural Networks/LLMs through problem solving?](https://news.ycombinator.com/item?id=37531053)
+- [Antonio T. De Nicolás](https://en.wikipedia.org/wiki/Antonio_T._de_Nicol%C3%A1s)
+- [Ask HN: Do I need AWS? Or am I thinking this wrong?](https://news.ycombinator.com/item?id=37540790)
+- [The Age-Old Resistance to Generated Code](https://matt-rickard.com/the-age-old-resistance-to-generated-code)
+- [It’s the Breakfast of Champions No More: Cereal Is in Long-Term Decline](https://www.wsj.com/finance/investing/cereal-decline-breakfast-trend-6dd591e8)
+- [Antarctic sea-ice at &#39;mind-blowing&#39; low alarms experts](https://www.bbc.com/news/science-environment-66724246)
+- [Study suggests negative actions cascade to third parties](https://phys.org/news/2023-09-negative-actions-cascade-parties.html)
+- [DNSControl – Seamlessly manage DNS configuration across servers and providers](https://dnscontrol.org/)
+- [Terminally Owned – 60 Years of Escaping – David Leadbeater/DEFCON[video]](https://www.youtube.com/watch?v=Y4A7KMQEmfo)
+- [What is the difference between CRM and CIAM systems?](https://ciamweekly.substack.com/p/what-is-the-difference-between-crm)
+- [BlackRock executives in China spend 30% working time in classes on “Xi Thought”](https://twitter.com/committeeonccp/status/1703038199260492258)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Antonio T. De Nicolás](https://en.wikipedia.org/wiki/Antonio_T._de_Nicol%C3%A1s)
-- [Ask HN: Do I need AWS? Or am I thinking this wrong?](https://news.ycombinator.com/item?id=37540790)
-- [The Age-Old Resistance to Generated Code](https://matt-rickard.com/the-age-old-resistance-to-generated-code)
-- [It’s the Breakfast of Champions No More: Cereal Is in Long-Term Decline](https://www.wsj.com/finance/investing/cereal-decline-breakfast-trend-6dd591e8)
-- [Antarctic sea-ice at &#39;mind-blowing&#39; low alarms experts](https://www.bbc.com/news/science-environment-66724246)
-- [Study suggests negative actions cascade to third parties](https://phys.org/news/2023-09-negative-actions-cascade-parties.html)
-- [DNSControl – Seamlessly manage DNS configuration across servers and providers](https://dnscontrol.org/)
-- [Terminally Owned – 60 Years of Escaping – David Leadbeater/DEFCON[video]](https://www.youtube.com/watch?v=Y4A7KMQEmfo)
-- [What is the difference between CRM and CIAM systems?](https://ciamweekly.substack.com/p/what-is-the-difference-between-crm)
-- [BlackRock executives in China spend 30% working time in classes on “Xi Thought”](https://twitter.com/committeeonccp/status/1703038199260492258)
+- [1000s of Canadians could be on the hook for allegedly sharing Ryan Reynolds flic](https://www.cbc.ca/news/canada/windsor/hitman-wife-bodyguard-court-actions-file-sharing-1.6965580)
+- [Buffet on Cryptocurrencies: “ they will come to a bad ending”&lpar;2018&rpar;](https://www.cnbc.com/2018/01/10/buffett-says-cyrptocurrencies-will-almost-certainly-end-badly.html)
+- [Cadillac Lyriq Velocity Package Adds 74 lb-ft Torque Over-the-Air for $1,200](https://www.thedrive.com/news/cadillac-lyriq-velocity-package-adds-75-lb-ft-torque-over-the-air-for-1200)
+- [Lightning &lpar;Cable&rpar; Was Great](https://www.theverge.com/2023/9/16/23875491/apple-lightning-cable-usb-c-iphone-15)
+- [Apple Transparency Government and Private Party Requests [pdf]](https://www.apple.com/legal/transparency/pdf/requests-2022-H1-en.pdf)
+- [Do LLMs diminish diversity of thought?](https://marginalrevolution.com/marginalrevolution/2023/09/do-llms-diminish-diversity-of-thought.html)
+- [People aged 80 and over top 10% of Japan&#39;s population for first time](https://english.kyodonews.net/news/2023/09/18637798bf91-people-aged-80-and-over-top-10-of-japans-population-for-1st-time.html)
+- [The How and Why of ST2 &lpar;InScript 2022&rpar; [video]](https://www.youtube.com/watch?v=gV2laWd727U)
+- [Ask HN: Old Folks with Unix Skills](https://news.ycombinator.com/item?id=37551311)
+- [How Much Garden You Would Need to 100% Survive On](https://lifehacker.com/how-much-garden-you-would-need-to-100-survive-on-1848829190)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

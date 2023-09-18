@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Rolling Stone founder Jann Wenner removed from Rock and Roll Hall of Fame board](https://www.theguardian.com/music/2023/sep/17/rolling-stone-founder-jann-wenner-removed-from-rock-and-roll-hall-of-fame-board)
-- [Russia-Ukraine war at a glance: what we know on day 571 of the invasion](https://www.theguardian.com/world/2023/sep/17/russia-ukraine-war-at-a-glance-what-we-know-on-day-571-of-the-invasion)
-- [California sues oil companies claiming they downplayed the risk of fossil fuels](https://www.theguardian.com/us-news/2023/sep/17/california-sues-oil-companies-claiming-they-downplayed-the-risk-of-fossil-fuels)
-- [Autumn wrapped up: 10 trends to update your wardrobe now – in pictures](https://www.theguardian.com/fashion/gallery/2023/sep/16/autumn-wrapped-up-10-trends-to-update-your-wardrobe-now-in-pictures)
-- [All wrapped up: 20 of the best winter coats, AW23 – in pictures](https://www.theguardian.com/fashion/gallery/2023/sep/16/all-wrapped-up-20-of-the-best-winter-coats-aw23-in-pictures)
-- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2023/sep/16/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Letter suggests Pope Pius XII knew of mass gassings of Jews and Poles in 1942](https://www.theguardian.com/world/2023/sep/16/letter-suggests-pope-pius-xii-knew-of-mass-gassings-of-jews-and-poles-in-1942)
-- [Liz Truss to claim her economic plan would have saved government £35bn](https://www.theguardian.com/politics/2023/sep/16/liz-truss-to-claim-her-economic-plan-would-have-saved-government-35bn)
-- [Russell Brand accused of rape, sexual assault and emotional abuse](https://www.theguardian.com/culture/2023/sep/16/russell-brand-accused-of-sexual-assault-and-emotional-abuse)
-- [Horse-and-trap riders die in collision with car in Gloucestershire](https://www.theguardian.com/uk-news/2023/sep/16/horse-and-trap-riders-die-in-collision-car-gloucestershire)
+- [Naomi Klein’s doppelganger – podcast](https://www.theguardian.com/news/audio/2023/sep/18/naomi-klein-doppelganger-podcast)
+- [Sudan conflict: Khartoum landmarks in flames as battles rage across country](https://www.theguardian.com/world/2023/sep/18/sudan-fighting-conflict-landmarks-destroyed-battles)
+- [How a burnt out, abandoned ship reveals the secrets of a shadow tanker network](https://www.theguardian.com/business/2023/sep/18/how-a-burnt-out-abandoned-ship-reveals-the-secrets-of-a-shadow-tanker-network)
+- [Russia-Ukraine war at a glance: what we know on day 572 of the invasion](https://www.theguardian.com/world/2023/sep/18/russia-ukraine-war-at-a-glance-what-we-know-on-day-572-of-the-invasion)
+- [Drew Barrymore postpones talkshow’s return amid writers’ strike backlash](https://www.theguardian.com/culture/2023/sep/18/drew-barrymore-postpones-talk-show-return-writers-strike-backlash)
+- [Ukraine troops have recaptured key village of Klishchiivka near Bakhmut, says Zelenskiy](https://www.theguardian.com/world/2023/sep/18/ukraine-troops-recapture-klishchiivka-village-near-bakhmut-says-zelenskiy)
+- [Evergrande arrests: China police detain staff at property giant’s wealth management arm](https://www.theguardian.com/business/2023/sep/18/evergrande-arrests-china-police-detain-staff-at-wealth-management-arm-property-giant)
+- [Peak China? Jobs, local services and welfare strain under economy’s structural faults](https://www.theguardian.com/world/2023/sep/18/peak-china-jobs-local-services-and-welfare-strain-under-economys-structural-faults)
+- [England really answered only one question: can they kick it? Oh God, yes | Jonathan Liew](https://www.theguardian.com/sport/2023/sep/17/england-really-answered-only-one-question-can-they-kick-it-oh-god-yes)
+- [Steve Borthwick defiant after England beat Japan and promises better to come](https://www.theguardian.com/sport/2023/sep/17/steve-borthwick-defiant-after-england-beat-japan-and-promises-better-to-come)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

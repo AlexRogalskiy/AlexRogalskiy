@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Naomi Klein’s doppelganger – podcast](https://www.theguardian.com/news/audio/2023/sep/18/naomi-klein-doppelganger-podcast)
-- [Sudan conflict: Khartoum landmarks in flames as battles rage across country](https://www.theguardian.com/world/2023/sep/18/sudan-fighting-conflict-landmarks-destroyed-battles)
-- [How a burnt out, abandoned ship reveals the secrets of a shadow tanker network](https://www.theguardian.com/business/2023/sep/18/how-a-burnt-out-abandoned-ship-reveals-the-secrets-of-a-shadow-tanker-network)
-- [Russia-Ukraine war at a glance: what we know on day 572 of the invasion](https://www.theguardian.com/world/2023/sep/18/russia-ukraine-war-at-a-glance-what-we-know-on-day-572-of-the-invasion)
-- [Drew Barrymore postpones talkshow’s return amid writers’ strike backlash](https://www.theguardian.com/culture/2023/sep/18/drew-barrymore-postpones-talk-show-return-writers-strike-backlash)
-- [Ukraine troops have recaptured key village of Klishchiivka near Bakhmut, says Zelenskiy](https://www.theguardian.com/world/2023/sep/18/ukraine-troops-recapture-klishchiivka-village-near-bakhmut-says-zelenskiy)
-- [Evergrande arrests: China police detain staff at property giant’s wealth management arm](https://www.theguardian.com/business/2023/sep/18/evergrande-arrests-china-police-detain-staff-at-wealth-management-arm-property-giant)
-- [Peak China? Jobs, local services and welfare strain under economy’s structural faults](https://www.theguardian.com/world/2023/sep/18/peak-china-jobs-local-services-and-welfare-strain-under-economys-structural-faults)
-- [England really answered only one question: can they kick it? Oh God, yes | Jonathan Liew](https://www.theguardian.com/sport/2023/sep/17/england-really-answered-only-one-question-can-they-kick-it-oh-god-yes)
-- [Steve Borthwick defiant after England beat Japan and promises better to come](https://www.theguardian.com/sport/2023/sep/17/steve-borthwick-defiant-after-england-beat-japan-and-promises-better-to-come)
+- [The horrifying allegations against Russell Brand](https://www.theguardian.com/news/audio/2023/sep/19/the-horrifying-allegations-against-russell-brand)
+- [Where is Li Shangfu? China’s missing defence minister highlights Xi’s total grip on power](https://www.theguardian.com/world/2023/sep/19/general-li-shangfu-china-defence-minister-missing-xi-jinping-vetting)
+- [Beijing summons German ambassador after foreign minister calls Xi Jinping a ‘dictator’](https://www.theguardian.com/world/2023/sep/19/china-summons-german-ambassador-after-foreign-minister-calls-xi-jinping-dictator)
+- [Authorities locate debris of F-35 fighter jet that crashed in South Carolina](https://www.theguardian.com/us-news/2023/sep/18/us-stealth-f-35-fighter-jet-crash-south-carolina-update)
+- [Why is Jacinda Ardern absent from New Zealand election campaign?](https://www.theguardian.com/world/2023/sep/19/new-zealand-election-2023-where-is-jacinda-ardern-why-absent-campaign)
+- [Russia-Ukraine war at a glance: what we know on day 573 of the invasion](https://www.theguardian.com/world/2023/sep/19/russia-ukraine-war-at-a-glance-what-we-know-on-day-573-of-the-invasion)
+- [Libya protesters set fire to mayor’s home in anger over Derna flood deaths](https://www.theguardian.com/world/2023/sep/19/libya-protesters-set-fire-to-mayors-home-in-anger-over-derna-flood-deaths)
+- [‘Size of a small police force’ of Met officers are suspended or on restricted duties](https://www.theguardian.com/uk-news/2023/sep/19/police-met-officers-suspended-or-restricted-duties)
+- [Football fans received 11,000 gambling messages in Premier League opening weekend](https://www.theguardian.com/society/2023/sep/19/football-fans-gambling-messages-premier-league-opening-weekend)
+- [Thérèse Coffey ‘complacent’ in dealing with water companies, peers say](https://www.theguardian.com/politics/2023/sep/19/therese-coffey-complacent-with-water-companies-peers-say)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

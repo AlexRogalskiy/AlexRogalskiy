@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [UK regulator outlines AI foundation model principles, warns of potential harm](https://www.computerworld.com/article/3706991/uk-regulator-outlines-ai-foundation-model-principles-warns-of-potential-harm.html#tk.rss_all)
+- [Apple again upsells users to the iPhone 15 Pro Max](https://www.computerworld.com/article/3706990/apple-again-upsells-users-to-the-iphone-15-pro-max.html#tk.rss_all)
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [Google US antitrust trial: A timeline](https://www.computerworld.com/article/3706893/googles-us-antitrust-trials-a-timeline.html#tk.rss_all)
+- [How companies are putting embedded genAI to good use](https://www.computerworld.com/article/3706377/embedded-generative-ai-use-cases.html#tk.rss_all)
+- [Tech layoffs in 2023: A timeline](https://www.computerworld.com/article/3685936/tech-layoffs-in-2023-a-timeline.html#tk.rss_all)
 - [Critical updates for Microsoft Office and Visual Studio drive September&#39;s Patch Tuesday](https://www.computerworld.com/article/3707069/critical-updates-for-microsoft-office-and-visual-studio-drive-septembers-patch-tuesday.html#tk.rss_all)
 - [Low-code platform provider Airtable enacts new round of layoffs](https://www.computerworld.com/article/3706911/low-code-platform-provider-airtable-enacts-new-round-of-layoffs.html#tk.rss_all)
 - [iPhone 12: Fade away, and radiate?](https://www.computerworld.com/article/3706909/iphone-12-fade-away-and-radiate.html#tk.rss_all)
 - [Amazon deploys generative AI to write sales listings](https://www.computerworld.com/article/3706869/amazon-deploys-generative-ai-to-write-sales-listings.html#tk.rss_all)
-- [5 steps to a lean, clean Windows machine](https://www.computerworld.com/article/3696315/how-to-clean-windows-computer-disk-cleanup.html#tk.rss_all)
-- [The evolution of Apple&#39;s iPhone](https://www.computerworld.com/article/3692531/evolution-of-apple-iphone.html#tk.rss_all)
-- [This year&#39;s biggest tech IPO begins as ARM hits Nasdaq](https://www.computerworld.com/article/3706908/this-years-biggest-tech-ipo-begins-as-arm-hits-nasdaq.html#tk.rss_all)
-- [EU said to be proceeding with Microsoft Teams antitrust investigation](https://www.computerworld.com/article/3706889/eu-said-to-be-proceeding-with-microsoft-teams-antitrust-investigation.html#tk.rss_all)
-- [Does Apple’s double-tap gesture solve the mobile/human interface problem?](https://www.computerworld.com/article/3706888/does-apples-double-tap-gesture-solve-the-mobilehuman-interface-problem.html#tk.rss_all)
-- [AI language models need to shrink; here’s why smaller may be better](https://www.computerworld.com/article/3706510/ai-language-models-need-to-shrink-heres-why-smaller-may-be-better.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

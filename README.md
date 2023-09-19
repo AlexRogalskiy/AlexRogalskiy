@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [1000s of Canadians could be on the hook for allegedly sharing Ryan Reynolds flic](https://www.cbc.ca/news/canada/windsor/hitman-wife-bodyguard-court-actions-file-sharing-1.6965580)
-- [Buffet on Cryptocurrencies: “ they will come to a bad ending”&lpar;2018&rpar;](https://www.cnbc.com/2018/01/10/buffett-says-cyrptocurrencies-will-almost-certainly-end-badly.html)
-- [Cadillac Lyriq Velocity Package Adds 74 lb-ft Torque Over-the-Air for $1,200](https://www.thedrive.com/news/cadillac-lyriq-velocity-package-adds-75-lb-ft-torque-over-the-air-for-1200)
-- [Lightning &lpar;Cable&rpar; Was Great](https://www.theverge.com/2023/9/16/23875491/apple-lightning-cable-usb-c-iphone-15)
-- [Apple Transparency Government and Private Party Requests [pdf]](https://www.apple.com/legal/transparency/pdf/requests-2022-H1-en.pdf)
-- [Do LLMs diminish diversity of thought?](https://marginalrevolution.com/marginalrevolution/2023/09/do-llms-diminish-diversity-of-thought.html)
-- [People aged 80 and over top 10% of Japan&#39;s population for first time](https://english.kyodonews.net/news/2023/09/18637798bf91-people-aged-80-and-over-top-10-of-japans-population-for-1st-time.html)
-- [The How and Why of ST2 &lpar;InScript 2022&rpar; [video]](https://www.youtube.com/watch?v=gV2laWd727U)
-- [Ask HN: Old Folks with Unix Skills](https://news.ycombinator.com/item?id=37551311)
-- [How Much Garden You Would Need to 100% Survive On](https://lifehacker.com/how-much-garden-you-would-need-to-100-survive-on-1848829190)
+- [Huawei’s Breakthrough: The Strategic Implications](https://www.chinatalk.media/p/huaweis-breakthrough-the-strategic)
+- [Who’s Behind the 8Base Ransomware Website?](https://krebsonsecurity.com/2023/09/whos-behind-the-8base-ransomware-website/)
+- [New images from Chandra X-ray Observatory](https://earthsky.org/space/new-images-from-chandra/)
+- [The Guardian takes a sudden interest in aliens](https://unherd.com/thepost/the-guardian-takes-a-sudden-interest-in-aliens/)
+- [Equinox: Elegant easy-to-use neural networks in Jax](https://github.com/patrick-kidger/equinox)
+- [Ask HN: How do I write a good request-for-feedback email to my users?](https://news.ycombinator.com/item?id=37564858)
+- [A 1983 look at the computer magazine wars](https://www.technologizer.com/2023/09/18/a-1983-look-at-the-computer-magazine-wars/)
+- [George Orwell Complete Works](http://www.george-orwell.org/)
+- [How can the reference count in general graph directory be greater than 0 &gt;](https://news.ycombinator.com/item?id=37564844)
+- [The High Cost of Free Parking](https://en.wikipedia.org/wiki/The_High_Cost_of_Free_Parking)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

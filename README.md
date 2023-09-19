@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [So let’s talk about this Wayland thing](https://pointieststick.com/2023/09/17/so-lets-talk-about-this-wayland-thing/)
-- [Ask HN: How do you deal with never ending noise and distraction WFH?](https://news.ycombinator.com/item?id=37551134)
-- [Why Is Booz Allen Renting Us Back Our Own National Parks?](https://www.thebignewsletter.com/p/why-is-booz-allen-renting-us-back)
-- [Hush – Noiseless Browsing for Safari](https://oblador.github.io/hush/)
-- [Large Language Models for Compiler Optimization](https://arxiv.org/abs/2309.07062)
-- [Homebrew Website Club](https://indieweb.org/Homebrew_Website_Club)
-- [Wasmer – Run, Publish and Deploy any code, anywhere](https://wasmer.io/)
-- [The International SAT Competition Web Page](http://www.satcompetition.org/)
-- [The Data Science Manifesto &lpar;2020&rpar;](http://datasciencemanifesto.org/)
-- [Brian Bucklew Porting Caves of Qud from Unity to Godot](https://twitter.com/unormal/status/1703163364229161236)
+- [George Orwell Complete Works](http://www.george-orwell.org/)
+- [Ask HN: 6 months later. How is Bard doing?](https://news.ycombinator.com/item?id=37564768)
+- [Marine Corps orders safety stand-down of all aircraft after F-35 disappearance](https://www.nbcnews.com/news/us-news/marine-leader-orders-safety-stand-aircraft-f-35-disappearance-rcna105602)
+- [Mythbusters: Wing Commander I Edition](https://www.wcnews.com/news/update/16279)
+- [Some new snippets from the Snowden documents](https://www.electrospaces.net/2023/09/some-new-snippets-from-snowden-documents.html)
+- [FTC warns pharma companies about sham patent listings designed to delay generics](https://www.techdirt.com/2023/09/18/ftc-warns-pharma-companies-that-it-may-go-after-them-for-sham-patent-listings-designed-to-delay-generic-competitors/)
+- [Update on KDP Title Creation Limits](https://www.kdpcommunity.com/s/article/Update-on-KDP-Title-Creation-Limits?language=en_US&forum=KDP%20Forum)
+- [Early performance results from the prototype CHERI ARM Morello microarchitecture](https://ctsrd-cheri.github.io/morello-early-performance-results/)
+- [Mwmbl: Free, open-source and non-profit search engine](https://mwmbl.org/)
+- [Apple TV, now with more Tailscale](https://tailscale.com/blog/apple-tv/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

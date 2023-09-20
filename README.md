@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Google adds its Bard chatbot to Gmail, YouTube, Docs and other apps](https://www.computerworld.com/article/3707074/google-adds-its-bard-chatbot-to-gmail-youtube-docs-and-other-apps.html#tk.rss_all)
+- [Google launches another appeal against 2017 EU antitrust ruling on shopping service](https://www.computerworld.com/article/3706877/google-launches-another-appeal-against-2017-eu-antitrust-ruling-on-shopping-service.html#tk.rss_all)
+- [Smartsheet adds generative AI capabilities to work management platform](https://www.computerworld.com/article/3706954/smartsheet-adds-generative-ai-capabilities-to-work-management-platform.html#tk.rss_all)
+- [Jamf touts Jamf Pro 11 at JNUC, its annual Apple IT admin event](https://www.computerworld.com/article/3706896/jamf-touts-jamf-pro-11-at-jnuc-its-annual-apple-it-admin-event.html#tk.rss_all)
+- [Experts: &#39;Quiet cutting&#39; employees makes no sense, and it&#39;s costly](https://www.computerworld.com/article/3706870/quiet-cutting-employees-makes-no-sense-and-its-costly.html#tk.rss_all)
 - [UK regulator outlines AI foundation model principles, warns of potential harm](https://www.computerworld.com/article/3706991/uk-regulator-outlines-ai-foundation-model-principles-warns-of-potential-harm.html#tk.rss_all)
 - [Apple again upsells users to the iPhone 15 Pro Max](https://www.computerworld.com/article/3706990/apple-again-upsells-users-to-the-iphone-15-pro-max.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [Google US antitrust trial: A timeline](https://www.computerworld.com/article/3706893/googles-us-antitrust-trials-a-timeline.html#tk.rss_all)
 - [How companies are putting embedded genAI to good use](https://www.computerworld.com/article/3706377/embedded-generative-ai-use-cases.html#tk.rss_all)
-- [Tech layoffs in 2023: A timeline](https://www.computerworld.com/article/3685936/tech-layoffs-in-2023-a-timeline.html#tk.rss_all)
-- [Critical updates for Microsoft Office and Visual Studio drive September&#39;s Patch Tuesday](https://www.computerworld.com/article/3707069/critical-updates-for-microsoft-office-and-visual-studio-drive-septembers-patch-tuesday.html#tk.rss_all)
-- [Low-code platform provider Airtable enacts new round of layoffs](https://www.computerworld.com/article/3706911/low-code-platform-provider-airtable-enacts-new-round-of-layoffs.html#tk.rss_all)
-- [iPhone 12: Fade away, and radiate?](https://www.computerworld.com/article/3706909/iphone-12-fade-away-and-radiate.html#tk.rss_all)
-- [Amazon deploys generative AI to write sales listings](https://www.computerworld.com/article/3706869/amazon-deploys-generative-ai-to-write-sales-listings.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

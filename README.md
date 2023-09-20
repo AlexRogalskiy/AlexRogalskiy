@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [The horrifying allegations against Russell Brand](https://www.theguardian.com/news/audio/2023/sep/19/the-horrifying-allegations-against-russell-brand)
-- [Where is Li Shangfu? China’s missing defence minister highlights Xi’s total grip on power](https://www.theguardian.com/world/2023/sep/19/general-li-shangfu-china-defence-minister-missing-xi-jinping-vetting)
-- [Beijing summons German ambassador after foreign minister calls Xi Jinping a ‘dictator’](https://www.theguardian.com/world/2023/sep/19/china-summons-german-ambassador-after-foreign-minister-calls-xi-jinping-dictator)
-- [Authorities locate debris of F-35 fighter jet that crashed in South Carolina](https://www.theguardian.com/us-news/2023/sep/18/us-stealth-f-35-fighter-jet-crash-south-carolina-update)
-- [Why is Jacinda Ardern absent from New Zealand election campaign?](https://www.theguardian.com/world/2023/sep/19/new-zealand-election-2023-where-is-jacinda-ardern-why-absent-campaign)
-- [Russia-Ukraine war at a glance: what we know on day 573 of the invasion](https://www.theguardian.com/world/2023/sep/19/russia-ukraine-war-at-a-glance-what-we-know-on-day-573-of-the-invasion)
-- [Libya protesters set fire to mayor’s home in anger over Derna flood deaths](https://www.theguardian.com/world/2023/sep/19/libya-protesters-set-fire-to-mayors-home-in-anger-over-derna-flood-deaths)
-- [‘Size of a small police force’ of Met officers are suspended or on restricted duties](https://www.theguardian.com/uk-news/2023/sep/19/police-met-officers-suspended-or-restricted-duties)
-- [Football fans received 11,000 gambling messages in Premier League opening weekend](https://www.theguardian.com/society/2023/sep/19/football-fans-gambling-messages-premier-league-opening-weekend)
-- [Thérèse Coffey ‘complacent’ in dealing with water companies, peers say](https://www.theguardian.com/politics/2023/sep/19/therese-coffey-complacent-with-water-companies-peers-say)
+- [The destruction of Derna – podcast](https://www.theguardian.com/news/audio/2023/sep/20/the-destruction-of-derna-podcast)
+- [Nagorno-Karabakh: death toll rises as latest violence condemned by Russia and US](https://www.theguardian.com/world/2023/sep/20/nagorno-karabakh-death-toll-azerbaijan-armenia-attack-conflict-russia-us)
+- [China orders foreign consulates in Hong Kong to hand over staff personal details](https://www.theguardian.com/world/2023/sep/20/china-hong-kong-consulates-staff-personal-details)
+- [Tiny Pacific island nation seeks ocean sponsors in novel conservation plan](https://www.theguardian.com/world/2023/sep/20/pacific-island-nation-niue-seeks-ocean-sponsors-conservation-plan-niue-climate-change)
+- [Elon Musk’s Neuralink approved to recruit humans for brain-implant trial](https://www.theguardian.com/technology/2023/sep/19/elon-musk-neuralink-human-trials-brain-implant)
+- [Whitest parts of England and Wales have 144% more local paths, study finds](https://www.theguardian.com/society/2023/sep/20/ramblers-study-whitest-areas-more-local-paths)
+- [Sepsis often missed as 50% of screening tools don’t work, study finds](https://www.theguardian.com/society/2023/sep/19/sepsis-missed-50-percent-screening-tools-do-not-work-study-finds)
+- [Russia-Ukraine war at a glance: what we know on day 574 of the invasion](https://www.theguardian.com/world/2023/sep/20/russia-ukraine-war-at-a-glance-what-we-know-on-day-574-of-the-invasion)
+- [Fathers have ‘unique effect’ on children’s educational outcomes, study finds](https://www.theguardian.com/society/2023/sep/20/fathers-have-unique-effect-on-childrens-educational-outcomes-study-finds)
+- [Former mayor of London Ken Livingstone diagnosed with Alzheimer’s disease](https://www.theguardian.com/politics/2023/sep/20/former-mayor-of-london-ken-livingstone-diagnosed-with-alzheimers-disease)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

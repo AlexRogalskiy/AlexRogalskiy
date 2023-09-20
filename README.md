@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Huawei’s Breakthrough: The Strategic Implications](https://www.chinatalk.media/p/huaweis-breakthrough-the-strategic)
-- [Who’s Behind the 8Base Ransomware Website?](https://krebsonsecurity.com/2023/09/whos-behind-the-8base-ransomware-website/)
-- [New images from Chandra X-ray Observatory](https://earthsky.org/space/new-images-from-chandra/)
-- [The Guardian takes a sudden interest in aliens](https://unherd.com/thepost/the-guardian-takes-a-sudden-interest-in-aliens/)
-- [Equinox: Elegant easy-to-use neural networks in Jax](https://github.com/patrick-kidger/equinox)
-- [Ask HN: How do I write a good request-for-feedback email to my users?](https://news.ycombinator.com/item?id=37564858)
-- [A 1983 look at the computer magazine wars](https://www.technologizer.com/2023/09/18/a-1983-look-at-the-computer-magazine-wars/)
-- [George Orwell Complete Works](http://www.george-orwell.org/)
-- [How can the reference count in general graph directory be greater than 0 &gt;](https://news.ycombinator.com/item?id=37564844)
-- [The High Cost of Free Parking](https://en.wikipedia.org/wiki/The_High_Cost_of_Free_Parking)
+- [A simple web server written in Awk](https://github.com/crossbowerbt/awk-webserver)
+- [Low Latency Logging in Rust](https://ochagavia.nl/blog/low-latency-logging-in-rust/)
+- [Ask HN: Where do you learn real SEO that is not BS?](https://news.ycombinator.com/item?id=37579586)
+- [Incident with Issues, API Requests and Git Operations](https://www.githubstatus.com/incidents/zjchv3zvfg50)
+- [Mustafa Suleyman&#39;s The Coming Wave animation [video]](https://www.youtube.com/watch?v=4ReMavRec7U)
+- [Google Lost Map Traffic with Apple Maps Switch on iPhones, Executive Says](https://www.bloomberg.com/news/articles/2023-09-20/google-antitrust-trial-google-lost-map-traffic-with-apple-s-iphone-switch)
+- [Ask HN: Why don&#39;t datacenters have passive rooflines like Net Zero homes?](https://news.ycombinator.com/item?id=37579505)
+- [How to Overcome Email Anxiety with AI](https://getreadytosend.com/blogs/email-automation-guides/how-to-overcome-email-anxiety)
+- [Writing HTML by Hand](https://simblob.blogspot.com/2023/09/writing-html-by-hand.html)
+- [UK urges Meta not to roll out end-to-end encryption on Messenger and Instagram](https://www.reuters.com/technology/uk-urges-meta-not-roll-out-end-to-end-encryption-messenger-instagram-2023-09-19/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

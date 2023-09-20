@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [George Orwell Complete Works](http://www.george-orwell.org/)
-- [Ask HN: 6 months later. How is Bard doing?](https://news.ycombinator.com/item?id=37564768)
-- [Marine Corps orders safety stand-down of all aircraft after F-35 disappearance](https://www.nbcnews.com/news/us-news/marine-leader-orders-safety-stand-aircraft-f-35-disappearance-rcna105602)
-- [Mythbusters: Wing Commander I Edition](https://www.wcnews.com/news/update/16279)
-- [Some new snippets from the Snowden documents](https://www.electrospaces.net/2023/09/some-new-snippets-from-snowden-documents.html)
-- [FTC warns pharma companies about sham patent listings designed to delay generics](https://www.techdirt.com/2023/09/18/ftc-warns-pharma-companies-that-it-may-go-after-them-for-sham-patent-listings-designed-to-delay-generic-competitors/)
-- [Update on KDP Title Creation Limits](https://www.kdpcommunity.com/s/article/Update-on-KDP-Title-Creation-Limits?language=en_US&forum=KDP%20Forum)
-- [Early performance results from the prototype CHERI ARM Morello microarchitecture](https://ctsrd-cheri.github.io/morello-early-performance-results/)
-- [Mwmbl: Free, open-source and non-profit search engine](https://mwmbl.org/)
-- [Apple TV, now with more Tailscale](https://tailscale.com/blog/apple-tv/)
+- [Etleap &lpar;YC W13&rpar; Is Hiring a Software Engineer &lpar;London – OR – San Francisco&rpar;](https://etleap.com/careers/software-engineer/)
+- [Amazon Limits Authors to 3 Books a Day to Combat AI-Generated Material](https://themessenger.com/news/amazon-limits-authors-to-self-publish-3-books-a-day-to-combat-ai-generated-material)
+- [Shaving 40% Off Google’s B-Tree Implementation with Go Generics](https://www.scylladb.com/2022/04/27/shaving-40-off-googles-b-tree-implementation-with-go-generics/)
+- [Google DeepMind&#39;s AI successor predicts how 71M mutations cause disease](https://endpts.com/google-deepminds-alphafold-successor-predicts-how-71m-mutations-cause-disease/)
+- [The AI Explosion Might Never Happen](https://amistrongeryet.substack.com/p/recursive-self-improvement-foom)
+- [Webring Technology](https://brisray.com/web/webring-tech.htm)
+- [The Genius Bar in a country where iPhones can’t legally be sold](https://restofworld.org/2023/underground-apple-techs-cuba/)
+- [Can’t send email more than 500 miles &lpar;2002&rpar;](https://web.mit.edu/jemorris/humor/500-miles)
+- [ReinetteII+.py, an Apple II plus emulator in Python](https://github.com/ArthurFerreira2/reinette-II-plus-dot-py)
+- [Circles do not exist](https://nibblestew.blogspot.com/2023/09/circles-do-not-exist.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

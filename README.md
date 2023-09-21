@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [The destruction of Derna – podcast](https://www.theguardian.com/news/audio/2023/sep/20/the-destruction-of-derna-podcast)
-- [Nagorno-Karabakh: death toll rises as latest violence condemned by Russia and US](https://www.theguardian.com/world/2023/sep/20/nagorno-karabakh-death-toll-azerbaijan-armenia-attack-conflict-russia-us)
-- [China orders foreign consulates in Hong Kong to hand over staff personal details](https://www.theguardian.com/world/2023/sep/20/china-hong-kong-consulates-staff-personal-details)
-- [Tiny Pacific island nation seeks ocean sponsors in novel conservation plan](https://www.theguardian.com/world/2023/sep/20/pacific-island-nation-niue-seeks-ocean-sponsors-conservation-plan-niue-climate-change)
-- [Elon Musk’s Neuralink approved to recruit humans for brain-implant trial](https://www.theguardian.com/technology/2023/sep/19/elon-musk-neuralink-human-trials-brain-implant)
-- [Whitest parts of England and Wales have 144% more local paths, study finds](https://www.theguardian.com/society/2023/sep/20/ramblers-study-whitest-areas-more-local-paths)
-- [Sepsis often missed as 50% of screening tools don’t work, study finds](https://www.theguardian.com/society/2023/sep/19/sepsis-missed-50-percent-screening-tools-do-not-work-study-finds)
-- [Russia-Ukraine war at a glance: what we know on day 574 of the invasion](https://www.theguardian.com/world/2023/sep/20/russia-ukraine-war-at-a-glance-what-we-know-on-day-574-of-the-invasion)
-- [Fathers have ‘unique effect’ on children’s educational outcomes, study finds](https://www.theguardian.com/society/2023/sep/20/fathers-have-unique-effect-on-childrens-educational-outcomes-study-finds)
-- [Former mayor of London Ken Livingstone diagnosed with Alzheimer’s disease](https://www.theguardian.com/politics/2023/sep/20/former-mayor-of-london-ken-livingstone-diagnosed-with-alzheimers-disease)
+- [Rishi Sunak’s net zero U-turn - podcast](https://www.theguardian.com/news/audio/2023/sep/21/rishi-sunak-net-zero-u-turn-podcast)
+- [Estranged son of Thai King Vajiralongkorn says discussion of the monarchy should be allowed](https://www.theguardian.com/world/2023/sep/21/thai-king-son-vacharaesorn-vivacharawongse-estranged-royal-anti-defamation-monarchy)
+- [Saudi Arabia ‘getting closer’ to normalising relations with Israel, crown prince says](https://www.theguardian.com/world/2023/sep/21/saudi-arabia-getting-closer-to-normalising-relations-with-israel-crown-prince-says)
+- [Poland will no longer send weapons to Ukraine, says PM, as grain dispute escalates](https://www.theguardian.com/world/2023/sep/21/poland-stop-ukraine-weapons-supply-grain-exports-dispute)
+- [French government defends arrest of teen in classroom over transgender bullying claims](https://www.theguardian.com/world/2023/sep/21/french-government-defends-arrest-of-teen-in-classroom-over-transgender-bullying-claims)
+- [Russia-Ukraine war at a glance: what we know on day 575 of the invasion](https://www.theguardian.com/world/2023/sep/21/russia-ukraine-war-at-a-glance-what-we-know-on-day-575-of-the-invasion)
+- [Nationwide launches 8% account as battle for UK’s savings intensifies](https://www.theguardian.com/money/2023/sep/21/nationwide-launches-8-account-as-battle-for-uks-savings-intensifies)
+- [Parents in England no longer see daily school attendance as vital, report finds](https://www.theguardian.com/education/2023/sep/21/parents-in-england-no-longer-see-daily-school-attendance-as-vital-report-finds)
+- [Treated and untreated sewage greatest threat to river biodiversity, says study](https://www.theguardian.com/environment/2023/sep/21/treated-untreated-sewage-greatest-threat-river-biodiversity-study)
+- [Childhood in care raises risk of entering English youth justice system eightfold](https://www.theguardian.com/society/2023/sep/21/care-experienced-children-eight-times-more-likely-enter-youth-justice-system-england)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

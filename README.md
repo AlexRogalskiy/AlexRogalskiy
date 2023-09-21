@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Etleap &lpar;YC W13&rpar; Is Hiring a Software Engineer &lpar;London – OR – San Francisco&rpar;](https://etleap.com/careers/software-engineer/)
-- [Amazon Limits Authors to 3 Books a Day to Combat AI-Generated Material](https://themessenger.com/news/amazon-limits-authors-to-self-publish-3-books-a-day-to-combat-ai-generated-material)
-- [Shaving 40% Off Google’s B-Tree Implementation with Go Generics](https://www.scylladb.com/2022/04/27/shaving-40-off-googles-b-tree-implementation-with-go-generics/)
-- [Google DeepMind&#39;s AI successor predicts how 71M mutations cause disease](https://endpts.com/google-deepminds-alphafold-successor-predicts-how-71m-mutations-cause-disease/)
-- [The AI Explosion Might Never Happen](https://amistrongeryet.substack.com/p/recursive-self-improvement-foom)
-- [Webring Technology](https://brisray.com/web/webring-tech.htm)
-- [The Genius Bar in a country where iPhones can’t legally be sold](https://restofworld.org/2023/underground-apple-techs-cuba/)
-- [Can’t send email more than 500 miles &lpar;2002&rpar;](https://web.mit.edu/jemorris/humor/500-miles)
-- [ReinetteII+.py, an Apple II plus emulator in Python](https://github.com/ArthurFerreira2/reinette-II-plus-dot-py)
-- [Circles do not exist](https://nibblestew.blogspot.com/2023/09/circles-do-not-exist.html)
+- [ChatGPT and DALL-E 3 [video]](https://twitter.com/sama/status/1704561613070893428)
+- [Terry Tao&#39;s generals](https://web.math.princeton.edu/generals/tao_terence)
+- [Confessions of a McKinsey Whistleblower](https://www.thenation.com/article/society/mckinsey-whistleblower-confessions/)
+- [Linux gives up on 6-year LTS kernels, says they’re too much work](https://arstechnica.com/gadgets/2023/09/linux-gives-up-on-6-year-lts-thats-fine-for-pcs-bad-for-android/)
+- [Meticulous: An FPGA-Based Main Memory Emulator for System Software Studies](https://arxiv.org/abs/2309.06565)
+- [Alameda lost tens of millions because of a fat fingering mistake](https://www.adityabaradwaj.com/part-2-the-fat-finger/)
+- [Harlequin: DuckDB IDE for the terminal](https://harlequin.sh/)
+- [We Are Not Sustainable](https://frame.work/nl/en/blog/we-are-not-sustainable)
+- [Show HN: Sheet Music Management App](https://github.com/Airsequel/Airsequel-Sheet-Music)
+- [Archaeologists discover oldest wooden structure](https://news.liverpool.ac.uk/2023/09/20/archaeologists-discover-worlds-oldest-wooden-structure/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

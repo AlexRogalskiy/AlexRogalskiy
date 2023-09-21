@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [A simple web server written in Awk](https://github.com/crossbowerbt/awk-webserver)
-- [Low Latency Logging in Rust](https://ochagavia.nl/blog/low-latency-logging-in-rust/)
-- [Ask HN: Where do you learn real SEO that is not BS?](https://news.ycombinator.com/item?id=37579586)
-- [Incident with Issues, API Requests and Git Operations](https://www.githubstatus.com/incidents/zjchv3zvfg50)
-- [Mustafa Suleyman&#39;s The Coming Wave animation [video]](https://www.youtube.com/watch?v=4ReMavRec7U)
-- [Google Lost Map Traffic with Apple Maps Switch on iPhones, Executive Says](https://www.bloomberg.com/news/articles/2023-09-20/google-antitrust-trial-google-lost-map-traffic-with-apple-s-iphone-switch)
-- [Ask HN: Why don&#39;t datacenters have passive rooflines like Net Zero homes?](https://news.ycombinator.com/item?id=37579505)
-- [How to Overcome Email Anxiety with AI](https://getreadytosend.com/blogs/email-automation-guides/how-to-overcome-email-anxiety)
-- [Writing HTML by Hand](https://simblob.blogspot.com/2023/09/writing-html-by-hand.html)
-- [UK urges Meta not to roll out end-to-end encryption on Messenger and Instagram](https://www.reuters.com/technology/uk-urges-meta-not-roll-out-end-to-end-encryption-messenger-instagram-2023-09-19/)
+- [Ask HN: Web 1.0 style personal websites?](https://news.ycombinator.com/item?id=37592465)
+- [Oldest known wooden structure unearthed, almost half a million years old](https://www.cnn.com/2023/09/20/africa/oldest-wooden-structure-zambia-scn/index.html)
+- [Genotoxic effects of base editing for engineers](https://github.com/kennyworkman/genotoxic-be)
+- [Twyman&#39;s Law](https://en.wikipedia.org/wiki/Twyman%27s_law)
+- [Biden announces $600M for more free Covid-19 tests in anticipation of surge](https://www.theguardian.com/world/2023/sep/20/biden-announces-600m-for-more-free-covid-19-tests-in-anticipation-of-surge)
+- [AI-Based Legal Review for Angel Investors for $99/Month](https://www.mixo.io/site/angel-doc-ai-bbiku)
+- [Terry Tao: How a Near Failure Propelled Me to Succeed &lpar;2020&rpar; [pdf]](https://www.ams.org/notices/202007/rnoti-p1007.pdf)
+- [Consciousness theory slammed as ‘pseudoscience’ – sparking uproar](https://www.nature.com/articles/d41586-023-02971-1)
+- [Uncle Sam names 3 Amazon execs as Prime suspects in subscription ripoff case](https://www.theregister.com/2023/09/21/ftc_amazon_prime_amended_complaint/)
+- [ChatGPT and DALL-E 3 [video]](https://twitter.com/sama/status/1704561613070893428)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Google US antitrust trial: A timeline](https://www.computerworld.com/article/3706893/googles-us-antitrust-trials-a-timeline.html#tk.rss_all)
+- [Microsoft 365 Copilot rollout set for Nov. 1](https://www.computerworld.com/article/3707369/microsoft-365-copilot-rollout-set-for-nov-1.html#tk.rss_all)
+- [ServiceNow embeds AI-powered customer-assist features throughout products](https://www.computerworld.com/article/3707269/servicenow-embeds-ai-powered-customer-assist-features-throughout-products.html#tk.rss_all)
+- [EU Chips Act comes into force to ensure supply chain resilience](https://www.computerworld.com/article/3707270/eu-chips-act-comes-into-force-to-ensure-supply-chain-resilience.html#tk.rss_all)
+- [Cisco: Macs in business boost productivity and security, cuts costs](https://www.computerworld.com/article/3707329/cisco-macs-in-business-boost-productivity-and-security-cuts-costs.html#tk.rss_all)
+- [Could Superhuman be your email savior?](https://www.computerworld.com/article/3706873/superhuman-email-app.html#tk.rss_all)
 - [UK&#39;s controversial online safety bill set to become law](https://www.computerworld.com/article/3706810/uks-controversial-online-safety-bill-set-to-become-law.html#tk.rss_all)
 - [IDC: AR/VR headset sales slide, could rebound with Apple, Meta device launches](https://www.computerworld.com/article/3706918/idc-arvr-headset-sales-slide-could-rebound-with-apple-meta-device-launches.html#tk.rss_all)
 - [Jamf: Generative AI is coming to an Apple IT admin near you](https://www.computerworld.com/article/3706880/jamf-generative-ai-is-coming-to-an-apple-it-admin-near-you.html#tk.rss_all)
 - [Manufacturing firms make early bets on the industrial metaverse](https://www.computerworld.com/article/3706910/manufacturing-firms-make-early-bets-on-the-industrial-metaverse.html#tk.rss_all)
-- [Got a Google Pixel Fold or Pixel Tablet? Find this secret setting this second](https://www.computerworld.com/article/3706875/google-pixel-fold-pixel-tablet-setting.html#tk.rss_all)
-- [Google adds its Bard chatbot to Gmail, YouTube, Docs and other apps](https://www.computerworld.com/article/3707074/google-adds-its-bard-chatbot-to-gmail-youtube-docs-and-other-apps.html#tk.rss_all)
-- [Google launches another appeal against 2017 EU antitrust ruling on shopping service](https://www.computerworld.com/article/3706877/google-launches-another-appeal-against-2017-eu-antitrust-ruling-on-shopping-service.html#tk.rss_all)
-- [Smartsheet adds generative AI capabilities to work management platform](https://www.computerworld.com/article/3706954/smartsheet-adds-generative-ai-capabilities-to-work-management-platform.html#tk.rss_all)
-- [Jamf touts Jamf Pro 11 at JNUC, its annual Apple IT admin event](https://www.computerworld.com/article/3706896/jamf-touts-jamf-pro-11-at-jnuc-its-annual-apple-it-admin-event.html#tk.rss_all)
-- [Experts: &#39;Quiet cutting&#39; employees makes no sense, and it&#39;s costly](https://www.computerworld.com/article/3706870/quiet-cutting-employees-makes-no-sense-and-its-costly.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

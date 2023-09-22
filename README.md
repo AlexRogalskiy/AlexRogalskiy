@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [ChatGPT and DALL-E 3 [video]](https://twitter.com/sama/status/1704561613070893428)
-- [Terry Tao&#39;s generals](https://web.math.princeton.edu/generals/tao_terence)
-- [Confessions of a McKinsey Whistleblower](https://www.thenation.com/article/society/mckinsey-whistleblower-confessions/)
-- [Linux gives up on 6-year LTS kernels, says they’re too much work](https://arstechnica.com/gadgets/2023/09/linux-gives-up-on-6-year-lts-thats-fine-for-pcs-bad-for-android/)
-- [Meticulous: An FPGA-Based Main Memory Emulator for System Software Studies](https://arxiv.org/abs/2309.06565)
-- [Alameda lost tens of millions because of a fat fingering mistake](https://www.adityabaradwaj.com/part-2-the-fat-finger/)
-- [Harlequin: DuckDB IDE for the terminal](https://harlequin.sh/)
-- [We Are Not Sustainable](https://frame.work/nl/en/blog/we-are-not-sustainable)
-- [Show HN: Sheet Music Management App](https://github.com/Airsequel/Airsequel-Sheet-Music)
-- [Archaeologists discover oldest wooden structure](https://news.liverpool.ac.uk/2023/09/20/archaeologists-discover-worlds-oldest-wooden-structure/)
+- [All 8,291 license plates available in the U.S.](https://github.com/jonkeegan/us-license-plates)
+- [Nintendo 3DS Architecture](https://www.copetti.org/writings/consoles/nintendo-3ds/)
+- [Outperforming LLMs with less training data and smaller model sizes](https://blog.research.google/2023/09/distilling-step-by-step-outperforming.html)
+- [Second-Guessing the Modern Web &lpar;2020&rpar;](https://macwright.com/2020/05/10/spa-fatigue)
+- [Haskell WebAssembly in the Browser](http://joeyh.name/blog/entry/Haskell_webassembly_in_the_browser/)
+- [OpenAI and ChatGPT Lawsuit List](https://originality.ai/blog/openai-chatgpt-lawsuit-list)
+- [Unlimited Kagi searches for $10 per month](https://blog.kagi.com/unlimited-searches-for-10)
+- [A customer stuck due to a hurricane who needed SSH](https://rachelbythebay.com/w/2023/09/21/hurricane/)
+- [Android 14 adds support for using your smartphone as a webcam](https://www.esper.io/blog/android-14-adds-support-for-using-your-smartphone-as-a-webcam)
+- [LabelContactRelationYoungerCousinMothersSiblingsDaughterOrFathersSistersDaughter](https://developer.apple.com/documentation/contacts/cnlabelcontactrelationyoungercousinmotherssiblingsdaughterorfatherssistersdaughter)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

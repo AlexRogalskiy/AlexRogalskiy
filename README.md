@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Rishi Sunak’s net zero U-turn - podcast](https://www.theguardian.com/news/audio/2023/sep/21/rishi-sunak-net-zero-u-turn-podcast)
-- [Estranged son of Thai King Vajiralongkorn says discussion of the monarchy should be allowed](https://www.theguardian.com/world/2023/sep/21/thai-king-son-vacharaesorn-vivacharawongse-estranged-royal-anti-defamation-monarchy)
-- [Saudi Arabia ‘getting closer’ to normalising relations with Israel, crown prince says](https://www.theguardian.com/world/2023/sep/21/saudi-arabia-getting-closer-to-normalising-relations-with-israel-crown-prince-says)
-- [Poland will no longer send weapons to Ukraine, says PM, as grain dispute escalates](https://www.theguardian.com/world/2023/sep/21/poland-stop-ukraine-weapons-supply-grain-exports-dispute)
-- [French government defends arrest of teen in classroom over transgender bullying claims](https://www.theguardian.com/world/2023/sep/21/french-government-defends-arrest-of-teen-in-classroom-over-transgender-bullying-claims)
-- [Russia-Ukraine war at a glance: what we know on day 575 of the invasion](https://www.theguardian.com/world/2023/sep/21/russia-ukraine-war-at-a-glance-what-we-know-on-day-575-of-the-invasion)
-- [Nationwide launches 8% account as battle for UK’s savings intensifies](https://www.theguardian.com/money/2023/sep/21/nationwide-launches-8-account-as-battle-for-uks-savings-intensifies)
-- [Parents in England no longer see daily school attendance as vital, report finds](https://www.theguardian.com/education/2023/sep/21/parents-in-england-no-longer-see-daily-school-attendance-as-vital-report-finds)
-- [Treated and untreated sewage greatest threat to river biodiversity, says study](https://www.theguardian.com/environment/2023/sep/21/treated-untreated-sewage-greatest-threat-river-biodiversity-study)
-- [Childhood in care raises risk of entering English youth justice system eightfold](https://www.theguardian.com/society/2023/sep/21/care-experienced-children-eight-times-more-likely-enter-youth-justice-system-england)
+- [Looking for alternatives: a tale of two German towns](https://www.theguardian.com/news/audio/2023/sep/22/looking-for-alternatives-a-tale-of-two-german-towns)
+- [Former Australian PM Malcolm Turnbull says Rupert Murdoch’s ‘anger-tainment’ damaged the democratic world](https://www.theguardian.com/media/2023/sep/22/former-australian-pm-malcolm-turnbull-comments-rupert-murdoch)
+- [‘Not sure where the airplane is’: bizarre 911 call details events before F-35 crash](https://www.theguardian.com/us-news/2023/sep/21/us-f-35-fighter-jet-crash-pilot-south-carolina-update)
+- [Queenstown declares state of emergency after flooding hits New Zealand tourist hub](https://www.theguardian.com/world/2023/sep/22/queenstown-declares-state-of-emergency-after-flooding-hits-new-zealand-tourist-hub)
+- [Russia-Ukraine war at a glance: what we know on day 576 of the invasion](https://www.theguardian.com/world/2023/sep/22/russia-ukraine-war-at-a-glance-what-we-know-on-day-576-of-the-invasion)
+- [Biden names Harris to lead first federal gun violence prevention office](https://www.theguardian.com/us-news/2023/sep/21/office-gun-violence-prevention-joe-biden-kamala-harris)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/blog/2023/sep/22/premier-league-10-things-to-look-out-for-this-weekend)
+- [AI developing too fast for regulators to keep up, says Oliver Dowden](https://www.theguardian.com/technology/2023/sep/22/ai-developing-too-fast-for-regulators-to-keep-up-oliver-dowden)
+- [The White Factory review – Holocaust drama raises troubling questions about today’s tyrants](https://www.theguardian.com/stage/2023/sep/21/the-white-factory-review-marylebone-theatre-london-dmitry-glukhovsky)
+- [Mlima’s Tale review – haunted by the elephant who would not forget](https://www.theguardian.com/stage/2023/sep/21/mlimas-tale-review-lynn-nottage-ira-mandela-siobhan)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

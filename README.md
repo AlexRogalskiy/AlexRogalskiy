@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ask HN: Web 1.0 style personal websites?](https://news.ycombinator.com/item?id=37592465)
-- [Oldest known wooden structure unearthed, almost half a million years old](https://www.cnn.com/2023/09/20/africa/oldest-wooden-structure-zambia-scn/index.html)
-- [Genotoxic effects of base editing for engineers](https://github.com/kennyworkman/genotoxic-be)
-- [Twyman&#39;s Law](https://en.wikipedia.org/wiki/Twyman%27s_law)
-- [Biden announces $600M for more free Covid-19 tests in anticipation of surge](https://www.theguardian.com/world/2023/sep/20/biden-announces-600m-for-more-free-covid-19-tests-in-anticipation-of-surge)
-- [AI-Based Legal Review for Angel Investors for $99/Month](https://www.mixo.io/site/angel-doc-ai-bbiku)
-- [Terry Tao: How a Near Failure Propelled Me to Succeed &lpar;2020&rpar; [pdf]](https://www.ams.org/notices/202007/rnoti-p1007.pdf)
-- [Consciousness theory slammed as ‘pseudoscience’ – sparking uproar](https://www.nature.com/articles/d41586-023-02971-1)
-- [Uncle Sam names 3 Amazon execs as Prime suspects in subscription ripoff case](https://www.theregister.com/2023/09/21/ftc_amazon_prime_amended_complaint/)
-- [ChatGPT and DALL-E 3 [video]](https://twitter.com/sama/status/1704561613070893428)
+- [Nvidia speeding up Vector Search](https://developer.nvidia.com/blog/accelerating-vector-search-using-gpu-powered-indexes-with-rapids-raft/)
+- [Cloud Native Buildpacks](https://buildpacks.io)
+- [DeepMind Scientists Win Lasker Award for AlphaFold](https://laskerfoundation.org/winners/alphafold-a-technology-for-predicting-protein-structures/)
+- [Memories of a Goofy Phone from the 80s](https://rachelbythebay.com/2023/09/20/fv1000/)
+- [All the ways to capture changes in Postgres](https://blog.sequin.io/all-the-ways-to-capture-changes-in-postgres/)
+- [What might happen if Google did not pay to be the default search engine &lpar;2011&rpar; [pdf]](https://web.archive.org/web/20230916144814if_/https://www.justice.gov/d9/2023-09/416302.pdf)
+- [Black-and-White Photo Uses Color Grid Lines to Trick Your Brain](https://petapixel.com/2019/07/31/this-black-and-white-photo-uses-color-grid-lines-to-trick-your-brain/)
+- [Ask HN: Recommendations for Deeply Checking Laptop](https://news.ycombinator.com/item?id=37606992)
+- [Google: Users Do Not Seem to Make an Active Choice of a Search Engine &lpar;2007&rpar; [pdf]](https://web.archive.org/web/20230920080957if_/https://www.justice.gov/d9/2023-09/416269.pdf)
+- [Defining AI native: A key enabler for advanced intelligent telecom networks](https://www.ericsson.com/en/reports-and-papers/white-papers/ai-native)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

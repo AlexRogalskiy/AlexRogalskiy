@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Nvidia speeding up Vector Search](https://developer.nvidia.com/blog/accelerating-vector-search-using-gpu-powered-indexes-with-rapids-raft/)
-- [Cloud Native Buildpacks](https://buildpacks.io)
-- [DeepMind Scientists Win Lasker Award for AlphaFold](https://laskerfoundation.org/winners/alphafold-a-technology-for-predicting-protein-structures/)
-- [Memories of a Goofy Phone from the 80s](https://rachelbythebay.com/2023/09/20/fv1000/)
-- [All the ways to capture changes in Postgres](https://blog.sequin.io/all-the-ways-to-capture-changes-in-postgres/)
-- [What might happen if Google did not pay to be the default search engine &lpar;2011&rpar; [pdf]](https://web.archive.org/web/20230916144814if_/https://www.justice.gov/d9/2023-09/416302.pdf)
-- [Black-and-White Photo Uses Color Grid Lines to Trick Your Brain](https://petapixel.com/2019/07/31/this-black-and-white-photo-uses-color-grid-lines-to-trick-your-brain/)
-- [Ask HN: Recommendations for Deeply Checking Laptop](https://news.ycombinator.com/item?id=37606992)
-- [Google: Users Do Not Seem to Make an Active Choice of a Search Engine &lpar;2007&rpar; [pdf]](https://web.archive.org/web/20230920080957if_/https://www.justice.gov/d9/2023-09/416269.pdf)
-- [Defining AI native: A key enabler for advanced intelligent telecom networks](https://www.ericsson.com/en/reports-and-papers/white-papers/ai-native)
+- [LibreTranslate/Locomotive – Easy to use toolkit for machine translation NLP](https://github.com/LibreTranslate/Locomotive)
+- [Why is the 2 by 4 getting smaller and smaller? [video]](https://www.youtube.com/watch?v=WaJFudED5FQ)
+- [A Gameplay Programming Puzzle for ECS](https://johnaustin.io/articles/2023/a-gameplay-programming-brain-teaser-for-ecs)
+- [Show HN: Host your own VPN on GitHub actions for free](https://github.com/BrowserBox/BrowserBox)
+- [101955 Bennu](https://en.wikipedia.org/wiki/101955_Bennu)
+- [Is the Alpha Wolf Idea a Myth?](https://www.scientificamerican.com/article/is-the-alpha-wolf-idea-a-myth/)
+- [Images show increased activity at nuclear test sites in Russia, China and US](https://www.cnn.com/2023/09/22/asia/nuclear-testing-china-russia-us-exclusive-intl-hnk-ml/index.html)
+- [Deep genetic structure of Africa reveals unique ancestry of the Angolan Namib](https://phys.org/news/2023-09-deep-genetic-africa-reveals-unique.html)
+- [CDC recommends first maternal RSV vaccine to protect babies before they&#39;re born](https://abcnews.go.com/Health/cdc-recommends-1st-maternal-rsv-vaccine-protect-babies/story?id=103420977)
+- [The election model is a little too popular](https://www.natesilver.net/p/the-election-model-is-a-little-too)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

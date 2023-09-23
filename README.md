@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [All 8,291 license plates available in the U.S.](https://github.com/jonkeegan/us-license-plates)
-- [Nintendo 3DS Architecture](https://www.copetti.org/writings/consoles/nintendo-3ds/)
-- [Outperforming LLMs with less training data and smaller model sizes](https://blog.research.google/2023/09/distilling-step-by-step-outperforming.html)
-- [Second-Guessing the Modern Web &lpar;2020&rpar;](https://macwright.com/2020/05/10/spa-fatigue)
-- [Haskell WebAssembly in the Browser](http://joeyh.name/blog/entry/Haskell_webassembly_in_the_browser/)
-- [OpenAI and ChatGPT Lawsuit List](https://originality.ai/blog/openai-chatgpt-lawsuit-list)
-- [Unlimited Kagi searches for $10 per month](https://blog.kagi.com/unlimited-searches-for-10)
-- [A customer stuck due to a hurricane who needed SSH](https://rachelbythebay.com/w/2023/09/21/hurricane/)
-- [Android 14 adds support for using your smartphone as a webcam](https://www.esper.io/blog/android-14-adds-support-for-using-your-smartphone-as-a-webcam)
-- [LabelContactRelationYoungerCousinMothersSiblingsDaughterOrFathersSistersDaughter](https://developer.apple.com/documentation/contacts/cnlabelcontactrelationyoungercousinmotherssiblingsdaughterorfatherssistersdaughter)
+- [Imbue &lpar;Formerly Generally Intelligent, YC S17&rpar; Is Hiring a Chief of Staff](https://news.ycombinator.com/item?id=37619709)
+- [LastPass: ‘Horse Gone Barn Bolted’ Is Strong Password](https://krebsonsecurity.com/2023/09/lastpass-horse-gone-barn-bolted-is-strong-password/)
+- [Croc: Easily and securely send things from one computer to another](https://github.com/schollz/croc)
+- [Show HN: TG – Fast geometry library for C](https://github.com/tidwall/tg)
+- [Conway Can Divide by Three, but I Can’t [pdf]](https://math.berkeley.edu/~pglutz/division_by_three.pdf)
+- [The Radio Station That Bridge Built](https://www.nutsvolts.com/magazine/article/the-radio-station-that-bridge-built)
+- [JPL Open Source Rover Project](https://github.com/nasa-jpl/open-source-rover)
+- [CloudNativePG – Postgres Operator for Kubernetes](https://cloudnative-pg.io/)
+- [Creator of Vue.js Evan You&#39;s Journey from Google Engineer to Open Source Pioneer](https://www.thisdot.co/blog/creator-of-vue-js-and-vite-evan-yous-journey-from-google-engineer-to-open/)
+- [Not only Clojure – Chez Scheme: Lisp with native code speed](https://yakihonne.com/article/naddr1qq2nw7n9va68s56dxf2x27z889v524z40f38wq3qu6qhg5ucu3xza4nlz94q90y720tr6l09avnq8y3yfp5qrv9v8susxpqqqp65wvyuq5c)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

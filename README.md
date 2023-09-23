@@ -355,6 +355,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [The AI future of Windows is here &lpar;next week&rpar;](https://www.computerworld.com/article/3707254/microsoft-windows-ai-future.html#tk.rss_all)
+- [How to create your own iPhone-15-inspired &#39;Action button&#39; on Android](https://www.computerworld.com/article/3706957/google-android-iphone-15-action-button.html#tk.rss_all)
+- [Generative AI and US copyright law are on a collision course](https://www.computerworld.com/article/3707348/generative-ai-and-us-copyright-law-are-on-a-collision-course.html#tk.rss_all)
 - [Google US antitrust trial: A timeline](https://www.computerworld.com/article/3706893/googles-us-antitrust-trials-a-timeline.html#tk.rss_all)
 - [Microsoft 365 Copilot rollout set for Nov. 1](https://www.computerworld.com/article/3707369/microsoft-365-copilot-rollout-set-for-nov-1.html#tk.rss_all)
 - [ServiceNow embeds AI-powered customer-assist features throughout products](https://www.computerworld.com/article/3707269/servicenow-embeds-ai-powered-customer-assist-features-throughout-products.html#tk.rss_all)
@@ -362,9 +365,6 @@
 - [Cisco: Macs in business boost productivity and security, cuts costs](https://www.computerworld.com/article/3707329/cisco-macs-in-business-boost-productivity-and-security-cuts-costs.html#tk.rss_all)
 - [Could Superhuman be your email savior?](https://www.computerworld.com/article/3706873/superhuman-email-app.html#tk.rss_all)
 - [UK&#39;s controversial online safety bill set to become law](https://www.computerworld.com/article/3706810/uks-controversial-online-safety-bill-set-to-become-law.html#tk.rss_all)
-- [IDC: AR/VR headset sales slide, could rebound with Apple, Meta device launches](https://www.computerworld.com/article/3706918/idc-arvr-headset-sales-slide-could-rebound-with-apple-meta-device-launches.html#tk.rss_all)
-- [Jamf: Generative AI is coming to an Apple IT admin near you](https://www.computerworld.com/article/3706880/jamf-generative-ai-is-coming-to-an-apple-it-admin-near-you.html#tk.rss_all)
-- [Manufacturing firms make early bets on the industrial metaverse](https://www.computerworld.com/article/3706910/manufacturing-firms-make-early-bets-on-the-industrial-metaverse.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

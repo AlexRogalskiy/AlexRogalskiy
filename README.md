@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Looking for alternatives: a tale of two German towns](https://www.theguardian.com/news/audio/2023/sep/22/looking-for-alternatives-a-tale-of-two-german-towns)
-- [Former Australian PM Malcolm Turnbull says Rupert Murdoch’s ‘anger-tainment’ damaged the democratic world](https://www.theguardian.com/media/2023/sep/22/former-australian-pm-malcolm-turnbull-comments-rupert-murdoch)
-- [‘Not sure where the airplane is’: bizarre 911 call details events before F-35 crash](https://www.theguardian.com/us-news/2023/sep/21/us-f-35-fighter-jet-crash-pilot-south-carolina-update)
-- [Queenstown declares state of emergency after flooding hits New Zealand tourist hub](https://www.theguardian.com/world/2023/sep/22/queenstown-declares-state-of-emergency-after-flooding-hits-new-zealand-tourist-hub)
-- [Russia-Ukraine war at a glance: what we know on day 576 of the invasion](https://www.theguardian.com/world/2023/sep/22/russia-ukraine-war-at-a-glance-what-we-know-on-day-576-of-the-invasion)
-- [Biden names Harris to lead first federal gun violence prevention office](https://www.theguardian.com/us-news/2023/sep/21/office-gun-violence-prevention-joe-biden-kamala-harris)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/blog/2023/sep/22/premier-league-10-things-to-look-out-for-this-weekend)
-- [AI developing too fast for regulators to keep up, says Oliver Dowden](https://www.theguardian.com/technology/2023/sep/22/ai-developing-too-fast-for-regulators-to-keep-up-oliver-dowden)
-- [The White Factory review – Holocaust drama raises troubling questions about today’s tyrants](https://www.theguardian.com/stage/2023/sep/21/the-white-factory-review-marylebone-theatre-london-dmitry-glukhovsky)
-- [Mlima’s Tale review – haunted by the elephant who would not forget](https://www.theguardian.com/stage/2023/sep/21/mlimas-tale-review-lynn-nottage-ira-mandela-siobhan)
+- [New Jersey senator Menendez rejects calls from fellow Democrats to resign](https://www.theguardian.com/us-news/2023/sep/22/robert-menendez-democrats-quit-senate)
+- [India-Canada row: Blinken calls on Delhi to cooperate in push for ‘accountability’ over killing](https://www.theguardian.com/world/2023/sep/23/india-canada-row-blinken-calls-on-delhi-to-cooperate-in-push-for-accountability-over-killing)
+- [Russia-Ukraine war at a glance: what we know on day 577 of the invasion](https://www.theguardian.com/world/2023/sep/23/russia-ukraine-war-at-a-glance-what-we-know-on-day-577-of-the-invasion)
+- [Lachlan Murdoch endorses Tony Abbott to join Fox Corporation board of directors](https://www.theguardian.com/australia-news/2023/sep/23/lachlan-murdoch-endorses-tony-abbott-to-join-fox-corporation-board-of-directors)
+- [Russell Brand posts new video claiming government wants to censor him](https://www.theguardian.com/culture/2023/sep/22/russell-brand-posts-new-video-claiming-government-wants-to-censor-him)
+- [Only 22% of Britons trust Sunak on climate, finds Guardian poll](https://www.theguardian.com/environment/2023/sep/23/only-22-percent-of-britons-trust-sunak-on-climate-finds-guardian-poll)
+- [From sulphur baths to Stalin’s home: five great trips in Georgia](https://www.theguardian.com/travel/2023/sep/23/caucasus-adventure-five-great-trips-in-georgia)
+- [Giorgio Napolitano, ex-communist who became president of Italy, dies aged 98](https://www.theguardian.com/world/2023/sep/22/giorgio-napolitano-ex-communist-who-became-president-of-italy-dies-aged-98)
+- [Postecoglou unlikely to put brakes on Spurs in his first north London derby | Sachin Nakrani](https://www.theguardian.com/football/2023/sep/22/ange-postecoglou-spurs-north-london-derby-arsenal)
+- [Fugitive convicted of attempted murder in US caught in Mexico after 32 years](https://www.theguardian.com/us-news/2023/sep/22/fugitive-murder-houston-greg-lawson-seth-garlington)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

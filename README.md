@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [New Jersey senator Menendez rejects calls from fellow Democrats to resign](https://www.theguardian.com/us-news/2023/sep/22/robert-menendez-democrats-quit-senate)
-- [India-Canada row: Blinken calls on Delhi to cooperate in push for ‘accountability’ over killing](https://www.theguardian.com/world/2023/sep/23/india-canada-row-blinken-calls-on-delhi-to-cooperate-in-push-for-accountability-over-killing)
-- [Russia-Ukraine war at a glance: what we know on day 577 of the invasion](https://www.theguardian.com/world/2023/sep/23/russia-ukraine-war-at-a-glance-what-we-know-on-day-577-of-the-invasion)
-- [Lachlan Murdoch endorses Tony Abbott to join Fox Corporation board of directors](https://www.theguardian.com/australia-news/2023/sep/23/lachlan-murdoch-endorses-tony-abbott-to-join-fox-corporation-board-of-directors)
-- [Russell Brand posts new video claiming government wants to censor him](https://www.theguardian.com/culture/2023/sep/22/russell-brand-posts-new-video-claiming-government-wants-to-censor-him)
-- [Only 22% of Britons trust Sunak on climate, finds Guardian poll](https://www.theguardian.com/environment/2023/sep/23/only-22-percent-of-britons-trust-sunak-on-climate-finds-guardian-poll)
-- [From sulphur baths to Stalin’s home: five great trips in Georgia](https://www.theguardian.com/travel/2023/sep/23/caucasus-adventure-five-great-trips-in-georgia)
-- [Giorgio Napolitano, ex-communist who became president of Italy, dies aged 98](https://www.theguardian.com/world/2023/sep/22/giorgio-napolitano-ex-communist-who-became-president-of-italy-dies-aged-98)
-- [Postecoglou unlikely to put brakes on Spurs in his first north London derby | Sachin Nakrani](https://www.theguardian.com/football/2023/sep/22/ange-postecoglou-spurs-north-london-derby-arsenal)
-- [Fugitive convicted of attempted murder in US caught in Mexico after 32 years](https://www.theguardian.com/us-news/2023/sep/22/fugitive-murder-houston-greg-lawson-seth-garlington)
+- [‘I am willing to wait for months’: Chinese Tiananmen critic ready for long haul in Taiwan transit lounge](https://www.theguardian.com/world/2023/sep/24/china-dissident-taiwan-chen-siming-willing-to-wait-airport-transit-lounge-tiananmen)
+- [Russia-Ukraine war at a glance: what we know on day 578 of the invasion](https://www.theguardian.com/world/2023/sep/24/russia-ukraine-war-at-a-glance-what-we-know-on-day-578-of-the-invasion)
+- [‘Better behaved than some patrons’: should dogs be allowed inside all Australian pubs?](https://www.theguardian.com/lifeandstyle/2023/sep/24/melbourne-dog-friendly-pubs-australia-laws)
+- [A crypto firm sent a disability worker $10m by mistake. Months later she was arrested at an Australian airport](https://www.theguardian.com/australia-news/2023/sep/24/a-crypto-firm-sent-a-disability-worker-10m-by-mistake-months-later-she-was-arrested-at-an-australian-airport)
+- [Women’s Super League 2023-24 previews No 1: Arsenal](https://www.theguardian.com/football/2023/sep/24/womens-super-league-2023-24-previews-no-1-arsenal)
+- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2023/sep/23/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [South Africa engulfed by sea of green as World Cup win sharpens Irish belief | Andy Bull](https://www.theguardian.com/sport/blog/2023/sep/23/south-africa-engulfed-by-sea-of-green-as-world-cup-win-sharpens-irish-belief)
+- [Otto Baxter: Not a F***ing Horror Story review – a fun, clever show about a director with a difference](https://www.theguardian.com/tv-and-radio/2023/sep/23/otto-baxter-not-a-fing-horror-story-review-sky-documentaries)
+- [‘The system teaches you to be quiet’: doctor indecently assaulted by senior colleague identifies herself](https://www.theguardian.com/australia-news/2023/sep/24/the-system-teaches-you-to-be-quiet-doctor-indecently-assaulted-by-senior-colleague-identifies-herself)
+- [Luke Donald soothed by Ryder Cup’s ‘pure’ nature lifting it above LIV rift](https://www.theguardian.com/sport/2023/sep/23/luke-donald-says-pure-sport-nature-of-ryder-cup-lifts-it-above-controversy)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

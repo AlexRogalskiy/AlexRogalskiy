@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [LibreTranslate/Locomotive – Easy to use toolkit for machine translation NLP](https://github.com/LibreTranslate/Locomotive)
-- [Why is the 2 by 4 getting smaller and smaller? [video]](https://www.youtube.com/watch?v=WaJFudED5FQ)
-- [A Gameplay Programming Puzzle for ECS](https://johnaustin.io/articles/2023/a-gameplay-programming-brain-teaser-for-ecs)
-- [Show HN: Host your own VPN on GitHub actions for free](https://github.com/BrowserBox/BrowserBox)
-- [101955 Bennu](https://en.wikipedia.org/wiki/101955_Bennu)
-- [Is the Alpha Wolf Idea a Myth?](https://www.scientificamerican.com/article/is-the-alpha-wolf-idea-a-myth/)
-- [Images show increased activity at nuclear test sites in Russia, China and US](https://www.cnn.com/2023/09/22/asia/nuclear-testing-china-russia-us-exclusive-intl-hnk-ml/index.html)
-- [Deep genetic structure of Africa reveals unique ancestry of the Angolan Namib](https://phys.org/news/2023-09-deep-genetic-africa-reveals-unique.html)
-- [CDC recommends first maternal RSV vaccine to protect babies before they&#39;re born](https://abcnews.go.com/Health/cdc-recommends-1st-maternal-rsv-vaccine-protect-babies/story?id=103420977)
-- [The election model is a little too popular](https://www.natesilver.net/p/the-election-model-is-a-little-too)
+- [Roman-Fleuve](https://literaryocean.com/discuss-the-term-roman-fleuve-definition-of-roman-fleuve-and-examples/)
+- [RepoCraft – The open-source toolbox for developer creativity](https://repocraft.com)
+- [California governor vetoes bill banning robotrucks without safety drivers](https://www.reuters.com/business/autos-transportation/california-governor-vetoes-bill-banning-robotrucks-without-safety-drivers-2023-09-23/)
+- [Find Your Inner Finn – Master in Happiness](https://www.visitfinland.com/en/find-your-inner-finn/)
+- [Is It Possible Apply Positive and Newton III Motion Law as System at MotorEngine](https://news.ycombinator.com/item?id=37629431)
+- [Microsoft Paint now has layers and transparency](https://www.itsnicethat.com/news/microsoft-paint-update-digital-190923)
+- [A Messy Table, a Map of the World](https://www.nytimes.com/interactive/2022/05/08/arts/design/dutch-still-life.html)
+- [Leonardo da Vinci’s Wisdom: On Participating in the Art of Living](https://blog.musemind.net/leonardo-da-vincis-wisdom-on-participating-fully-in-the-art-of-living/)
+- [The Thirty Million Line Problem [video]](https://www.youtube.com/watch?v=kZRE7HIO3vk)
+- [Ask HN: I need help with some math](https://news.ycombinator.com/item?id=37629347)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

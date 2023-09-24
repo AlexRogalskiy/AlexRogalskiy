@@ -355,6 +355,7 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [c](https://www.computerworld.com/article/3707330/intel-brings-ai-to-the-pc-and-could-redefine-the-desktop.html#tk.rss_all)
 - [The AI future of Windows is here &lpar;next week&rpar;](https://www.computerworld.com/article/3707254/microsoft-windows-ai-future.html#tk.rss_all)
 - [How to create your own iPhone-15-inspired &#39;Action button&#39; on Android](https://www.computerworld.com/article/3706957/google-android-iphone-15-action-button.html#tk.rss_all)
 - [Generative AI and US copyright law are on a collision course](https://www.computerworld.com/article/3707348/generative-ai-and-us-copyright-law-are-on-a-collision-course.html#tk.rss_all)
@@ -364,7 +365,6 @@
 - [EU Chips Act comes into force to ensure supply chain resilience](https://www.computerworld.com/article/3707270/eu-chips-act-comes-into-force-to-ensure-supply-chain-resilience.html#tk.rss_all)
 - [Cisco: Macs in business boost productivity and security, cuts costs](https://www.computerworld.com/article/3707329/cisco-macs-in-business-boost-productivity-and-security-cuts-costs.html#tk.rss_all)
 - [Could Superhuman be your email savior?](https://www.computerworld.com/article/3706873/superhuman-email-app.html#tk.rss_all)
-- [UK&#39;s controversial online safety bill set to become law](https://www.computerworld.com/article/3706810/uks-controversial-online-safety-bill-set-to-become-law.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

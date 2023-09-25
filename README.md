@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Applied Materials Is a Major Reason Computers Keep Getting Faster](https://www.wsj.com/tech/personal-tech/applied-materials-chips-61bbed0e)
-- [Show HN: Karektar – Bitmap Font Designer](https://karektar.newtrino.ink/)
-- [Eating Fossils](https://www.palass.org/publications/newsletter/eating-fossils)
-- [IPFS support got merged into curl](https://twitter.com/bmann/status/1705572964068930010)
-- [SpamChannel: Spoofing emails from 2M domains and virtually becoming Satan [pdf]](https://media.defcon.org/DEF%20CON%2031/DEF%20CON%2031%20presentations/byt3bl33d3r%20-%20SpamChannel%20Spoofing%20Emails%20From%202%20Million%20Domains%20and%20Virtually%20Becoming%20Satan.pdf)
-- [EU fines Intel $400M for blocking AMD&#39;s market access](https://www.neowin.net/news/eu-fines-intel-400-million-for-blocking-amds-market-access-through-payments-to-pc-makers/)
-- [Neural-Symbolic Recursive Machine for Systematic Generalization](https://arxiv.org/abs/2210.01603)
-- [Freshpaint &lpar;YC S19&rpar; is hiring engineers to enable privacy-first marketing](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
-- [Scientists improve anti-tumor power of CAR-T cells](https://www.insideprecisionmedicine.com/topics/oncology/scientists-improve-anti-tumor-power-of-car-t-cells/)
-- [The Cambridge Law Corpus: A corpus for legal AI research](https://arxiv.org/abs/2309.12269)
+- [Type 2 diabetes rates in US youth rose 62% after Covid pandemic began](https://www.cidrap.umn.edu/covid-19/type-2-diabetes-rates-us-youth-rose-62-after-covid-pandemic-began-study-suggests)
+- [Netflix prepares to send its final red envelope](https://lasvegassun.com/news/2023/sep/23/netflix-prepares-to-send-its-final-red-envelope/)
+- [Corrosion: Rust Never Sleeps](https://books.worksinprogress.co/book/maintenance-of-everything/vehicles/digression-3-corrosion-rust-never-sleeps/1?ref=thebrowser.com)
+- [LARPing and Violent Extremism](https://leb.fbi.gov/articles/featured-articles/larping-and-violent-extremism)
+- [PID Control Challenges](http://janismac.github.io/ControlChallenges/)
+- [Choose Postgres queue technology](https://adriano.fyi/posts/2023-09-24-choose-postgres-queue-technology/)
+- [Our humble attempt at “how much data do you need to fine-tune”](https://barryzhang.substack.com/p/our-humble-attempt-at-fine-tuning)
+- [Show HN: Get your entire ChatGPT history, in Markdown files](https://github.com/mohamed-chs/chatgpt-history-export-to-md)
+- [There&#39;s a new map style on OpenStreetMap.org](https://en.osm.town/@openstreetmap/111120663721969898)
+- [Unpacking Elixir: Resilience](https://underjord.io/unpacking-elixir-resilience.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

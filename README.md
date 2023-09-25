@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Roman-Fleuve](https://literaryocean.com/discuss-the-term-roman-fleuve-definition-of-roman-fleuve-and-examples/)
-- [RepoCraft – The open-source toolbox for developer creativity](https://repocraft.com)
-- [California governor vetoes bill banning robotrucks without safety drivers](https://www.reuters.com/business/autos-transportation/california-governor-vetoes-bill-banning-robotrucks-without-safety-drivers-2023-09-23/)
-- [Find Your Inner Finn – Master in Happiness](https://www.visitfinland.com/en/find-your-inner-finn/)
-- [Is It Possible Apply Positive and Newton III Motion Law as System at MotorEngine](https://news.ycombinator.com/item?id=37629431)
-- [Microsoft Paint now has layers and transparency](https://www.itsnicethat.com/news/microsoft-paint-update-digital-190923)
-- [A Messy Table, a Map of the World](https://www.nytimes.com/interactive/2022/05/08/arts/design/dutch-still-life.html)
-- [Leonardo da Vinci’s Wisdom: On Participating in the Art of Living](https://blog.musemind.net/leonardo-da-vincis-wisdom-on-participating-fully-in-the-art-of-living/)
-- [The Thirty Million Line Problem [video]](https://www.youtube.com/watch?v=kZRE7HIO3vk)
-- [Ask HN: I need help with some math](https://news.ycombinator.com/item?id=37629347)
+- [Japan pharma startup to begin human trials of tooth regrowth drug in 2024](https://english.kyodonews.net/news/2023/09/d56fb464a52b-japan-pharma-startup-developing-world-first-drug-to-grow-new-teeth.html)
+- [UCLA’s ‘worrisome’ plan for tiny $600 dorms put on hold](https://www.sfgate.com/bayarea/article/ucla-plan-tiny-dorms-put-hold-18385650.php)
+- [India’s ‘Lake Man’ Relies on Ancient Methods to Ease a Water Crisis](https://www.nytimes.com/2023/09/22/world/asia/bengaluru-india-lake-reclamation.html)
+- [Show HN: Crystaldoc.info – Crystal Shards API Documentation Hosting](https://crystaldoc.info/)
+- [&lpar;Erlang&rpar; Why do we need modules at all?](http://erlang.org/pipermail/erlang-questions/2011-May/058768.html)
+- [AlphaGo – The Movie](https://www.youtube.com/watch?v=WXuK6gekU1Y)
+- [Type 2 diabetes rates in US youth rose 62% after Covid pandemic began](https://www.cidrap.umn.edu/covid-19/type-2-diabetes-rates-us-youth-rose-62-after-covid-pandemic-began-study-suggests)
+- [The Best JRPGs Are Romhacks](https://www.hearsay.tech/2023-09-24-romhacks.gmi)
+- [ECE6133: Physical Design Automation of VLSI Systems](https://limsk.ece.gatech.edu/course/ece6133/)
+- [Game of Thrones creator and other authors sue ChatGPT-maker for ‘theft’](https://www.aljazeera.com/news/2023/9/21/openai-sued)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

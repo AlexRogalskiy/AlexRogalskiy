@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [‘I am willing to wait for months’: Chinese Tiananmen critic ready for long haul in Taiwan transit lounge](https://www.theguardian.com/world/2023/sep/24/china-dissident-taiwan-chen-siming-willing-to-wait-airport-transit-lounge-tiananmen)
-- [Russia-Ukraine war at a glance: what we know on day 578 of the invasion](https://www.theguardian.com/world/2023/sep/24/russia-ukraine-war-at-a-glance-what-we-know-on-day-578-of-the-invasion)
-- [‘Better behaved than some patrons’: should dogs be allowed inside all Australian pubs?](https://www.theguardian.com/lifeandstyle/2023/sep/24/melbourne-dog-friendly-pubs-australia-laws)
-- [A crypto firm sent a disability worker $10m by mistake. Months later she was arrested at an Australian airport](https://www.theguardian.com/australia-news/2023/sep/24/a-crypto-firm-sent-a-disability-worker-10m-by-mistake-months-later-she-was-arrested-at-an-australian-airport)
-- [Women’s Super League 2023-24 previews No 1: Arsenal](https://www.theguardian.com/football/2023/sep/24/womens-super-league-2023-24-previews-no-1-arsenal)
-- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2023/sep/23/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [South Africa engulfed by sea of green as World Cup win sharpens Irish belief | Andy Bull](https://www.theguardian.com/sport/blog/2023/sep/23/south-africa-engulfed-by-sea-of-green-as-world-cup-win-sharpens-irish-belief)
-- [Otto Baxter: Not a F***ing Horror Story review – a fun, clever show about a director with a difference](https://www.theguardian.com/tv-and-radio/2023/sep/23/otto-baxter-not-a-fing-horror-story-review-sky-documentaries)
-- [‘The system teaches you to be quiet’: doctor indecently assaulted by senior colleague identifies herself](https://www.theguardian.com/australia-news/2023/sep/24/the-system-teaches-you-to-be-quiet-doctor-indecently-assaulted-by-senior-colleague-identifies-herself)
-- [Luke Donald soothed by Ryder Cup’s ‘pure’ nature lifting it above LIV rift](https://www.theguardian.com/sport/2023/sep/23/luke-donald-says-pure-sport-nature-of-ryder-cup-lifts-it-above-controversy)
+- [The Blind Side and Hollywood’s blind spot – podcast](https://www.theguardian.com/sport/audio/2023/sep/25/the-blind-side-and-hollywoods-blind-spot-podcast)
+- [New Zealand election: Luxon says National open to NZ First coalition](https://www.theguardian.com/world/2023/sep/25/new-zealand-election-luxon-says-national-open-to-nz-first-coalition)
+- [World Cup holy grail is now in sight for Ireland after surviving modern classic](https://www.theguardian.com/sport/2023/sep/25/world-cup-holy-grail-is-now-in-sight-for-ireland-after-surviving-modern-classic)
+- [Seven months after entering hospice care Jimmy Carter visits peanut festival](https://www.theguardian.com/us-news/2023/sep/25/jimmy-carter-visits-plains-peanut-festival-georgia)
+- [Sheffield council faces mass equal pay claim over ‘scandalous’ pay grades](https://www.theguardian.com/society/2023/sep/25/sheffield-council-faces-mass-equal-pay-claim-over-scandalous-pay-grades)
+- [Great British slowdown has hamstrung our economy – thinktank](https://www.theguardian.com/business/2023/sep/25/great-british-slowdown-has-hamstrung-our-economy-thinktank)
+- [Psychologists investigate meerkats’ response to human emotions](https://www.theguardian.com/science/2023/sep/25/psychologists-investigate-meerkats-response-to-human-emotions)
+- [Historic Welsh pub loved by Dylan Thomas awarded £300,000 grant](https://www.theguardian.com/culture/2023/sep/25/pub-wales-vale-of-aeron-government-grant-community-ownership-fund)
+- [Beijing’s demographic crisis means China could get old before it gets rich](https://www.theguardian.com/world/2023/sep/25/beijings-demographic-crisis-means-china-could-get-old-before-it-gets-rich)
+- [Beautiful Thing review – 90s teens navigating tough times in a tender-hearted triumph](https://www.theguardian.com/stage/2023/sep/25/beautiful-thing-review-90s-teens-navigating-tough-times-in-a-tender-hearted-triumph)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

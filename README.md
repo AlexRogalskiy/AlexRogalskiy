@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Type 2 diabetes rates in US youth rose 62% after Covid pandemic began](https://www.cidrap.umn.edu/covid-19/type-2-diabetes-rates-us-youth-rose-62-after-covid-pandemic-began-study-suggests)
-- [Netflix prepares to send its final red envelope](https://lasvegassun.com/news/2023/sep/23/netflix-prepares-to-send-its-final-red-envelope/)
-- [Corrosion: Rust Never Sleeps](https://books.worksinprogress.co/book/maintenance-of-everything/vehicles/digression-3-corrosion-rust-never-sleeps/1?ref=thebrowser.com)
-- [LARPing and Violent Extremism](https://leb.fbi.gov/articles/featured-articles/larping-and-violent-extremism)
-- [PID Control Challenges](http://janismac.github.io/ControlChallenges/)
-- [Choose Postgres queue technology](https://adriano.fyi/posts/2023-09-24-choose-postgres-queue-technology/)
-- [Our humble attempt at “how much data do you need to fine-tune”](https://barryzhang.substack.com/p/our-humble-attempt-at-fine-tuning)
-- [Show HN: Get your entire ChatGPT history, in Markdown files](https://github.com/mohamed-chs/chatgpt-history-export-to-md)
-- [There&#39;s a new map style on OpenStreetMap.org](https://en.osm.town/@openstreetmap/111120663721969898)
-- [Unpacking Elixir: Resilience](https://underjord.io/unpacking-elixir-resilience.html)
+- [Mozilla.ai](https://mozilla.ai/about/)
+- [The United States of Bed Bath &amp; Beyond](https://www.epsilontheory.com/the-united-states-of-bed-bath-beyond/)
+- [Burkey Belser, designer of the nutrition facts label, has died](https://www.washingtonpost.com/obituaries/2023/09/25/burkey-belser-designer-of-ubiquitous-nutrition-facts-label-dies-at-76/)
+- [‘All of Sony Systems’ Allegedly Hacked by New Ransomware Group](https://kotaku.com/sony-playstation-hack-breach-ransomware-ransomed-vc-1850870993)
+- [Is Math Real?](https://maa.org/press/maa-reviews/is-math-real)
+- [The SR-71 Blackbird Astro-Nav System worked by tracking the stars](https://theaviationgeekclub.com/the-sr-71-blackbird-astro-nav-system-aka-r2-d2-worked-by-tracking-the-stars-and-was-so-powerful-that-it-could-see-the-stars-even-in-daylight/)
+- [Svix &lpar;YC W21&rpar; Is Hiring a Technical Lead &lpar;US Remote&rpar;](https://www.svix.com/careers/)
+- [PostScript’s sudden death in Sonoma](https://eclecticlight.co/2023/09/25/postscripts-sudden-death-in-sonoma/)
+- [Pixel 8 leak promises 7 years of OS updates](https://arstechnica.com/gadgets/2023/09/pixel-8-leak-promises-7-years-of-os-updates-even-more-than-an-iphone/)
+- [John Romero on his book “Doom Guy” and developing games at a small scale](https://howtomarketagame.com/2023/09/25/john-romero-on-his-book-doom-guy-and-developing-games-at-a-small-scale/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

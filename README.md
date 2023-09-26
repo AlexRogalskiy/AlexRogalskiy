@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Japan pharma startup to begin human trials of tooth regrowth drug in 2024](https://english.kyodonews.net/news/2023/09/d56fb464a52b-japan-pharma-startup-developing-world-first-drug-to-grow-new-teeth.html)
-- [UCLA’s ‘worrisome’ plan for tiny $600 dorms put on hold](https://www.sfgate.com/bayarea/article/ucla-plan-tiny-dorms-put-hold-18385650.php)
-- [India’s ‘Lake Man’ Relies on Ancient Methods to Ease a Water Crisis](https://www.nytimes.com/2023/09/22/world/asia/bengaluru-india-lake-reclamation.html)
-- [Show HN: Crystaldoc.info – Crystal Shards API Documentation Hosting](https://crystaldoc.info/)
-- [&lpar;Erlang&rpar; Why do we need modules at all?](http://erlang.org/pipermail/erlang-questions/2011-May/058768.html)
-- [AlphaGo – The Movie](https://www.youtube.com/watch?v=WXuK6gekU1Y)
-- [Type 2 diabetes rates in US youth rose 62% after Covid pandemic began](https://www.cidrap.umn.edu/covid-19/type-2-diabetes-rates-us-youth-rose-62-after-covid-pandemic-began-study-suggests)
-- [The Best JRPGs Are Romhacks](https://www.hearsay.tech/2023-09-24-romhacks.gmi)
-- [ECE6133: Physical Design Automation of VLSI Systems](https://limsk.ece.gatech.edu/course/ece6133/)
-- [Game of Thrones creator and other authors sue ChatGPT-maker for ‘theft’](https://www.aljazeera.com/news/2023/9/21/openai-sued)
+- [GPT-4 Vision System Card](https://openai.com/research/gpt-4v-system-card)
+- [Playing Wordle with ChatGPT Again. This Time with Vision](https://andrewnolan.dev/blogs/WordleWithChatGPTPlusVision)
+- [Investing in Semiconductor Startups [video]](https://www.youtube.com/watch?v=4wQVh8pwhrE&list=PLAk9bLzNYq2i2TqVH6Za86dgJdTqozNi2&index=5)
+- [Trump Floats the Idea of Executing Joint Chiefs Chairman Milley](https://www.theatlantic.com/ideas/archive/2023/09/trump-milley-execution-incitement-violence/675435/)
+- [Guidelines to Antigravity &lpar;1962&rpar; [pdf]](https://mlpol.net/images/src/923407BF1804215F33B6B63A328BAE04-1835022.pdf)
+- [Show HN: Splash Pro &lpar;Gen-2&rpar; – Midjourney for music](https://pro.splashmusic.com)
+- [Europeans indicate clear support for the detection of CSAM in E2E encryption](https://europa.eu/eurobarometer/surveys/detail/2656)
+- [List of Markdown Presentation Tools](https://gist.github.com/johnloy/27dd124ad40e210e91c70dd1c24ac8c8)
+- [Techies are paying $700 a month for tiny bed &#39;pods&#39; in downtown San Francisco](https://www.sfgate.com/tech/article/rent-bed-pods-downtown-techies-18388110.php)
+- [Phet: Interactive Simulators for Science and Math](https://phet.colorado.edu/en/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

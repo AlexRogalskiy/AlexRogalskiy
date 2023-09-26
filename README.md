@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [The Blind Side and Hollywood’s blind spot – podcast](https://www.theguardian.com/sport/audio/2023/sep/25/the-blind-side-and-hollywoods-blind-spot-podcast)
-- [New Zealand election: Luxon says National open to NZ First coalition](https://www.theguardian.com/world/2023/sep/25/new-zealand-election-luxon-says-national-open-to-nz-first-coalition)
-- [World Cup holy grail is now in sight for Ireland after surviving modern classic](https://www.theguardian.com/sport/2023/sep/25/world-cup-holy-grail-is-now-in-sight-for-ireland-after-surviving-modern-classic)
-- [Seven months after entering hospice care Jimmy Carter visits peanut festival](https://www.theguardian.com/us-news/2023/sep/25/jimmy-carter-visits-plains-peanut-festival-georgia)
-- [Sheffield council faces mass equal pay claim over ‘scandalous’ pay grades](https://www.theguardian.com/society/2023/sep/25/sheffield-council-faces-mass-equal-pay-claim-over-scandalous-pay-grades)
-- [Great British slowdown has hamstrung our economy – thinktank](https://www.theguardian.com/business/2023/sep/25/great-british-slowdown-has-hamstrung-our-economy-thinktank)
-- [Psychologists investigate meerkats’ response to human emotions](https://www.theguardian.com/science/2023/sep/25/psychologists-investigate-meerkats-response-to-human-emotions)
-- [Historic Welsh pub loved by Dylan Thomas awarded £300,000 grant](https://www.theguardian.com/culture/2023/sep/25/pub-wales-vale-of-aeron-government-grant-community-ownership-fund)
-- [Beijing’s demographic crisis means China could get old before it gets rich](https://www.theguardian.com/world/2023/sep/25/beijings-demographic-crisis-means-china-could-get-old-before-it-gets-rich)
-- [Beautiful Thing review – 90s teens navigating tough times in a tender-hearted triumph](https://www.theguardian.com/stage/2023/sep/25/beautiful-thing-review-90s-teens-navigating-tough-times-in-a-tender-hearted-triumph)
+- [Russia-Ukraine war at a glance: what we know on day 580 of the invasion](https://www.theguardian.com/world/2023/sep/26/russia-ukraine-war-at-a-glance-what-we-know-on-day-580-of-the-invasion)
+- [‘Quite a surprise’: Angela Rippon stuns viewers and experts with Strictly splits](https://www.theguardian.com/tv-and-radio/2023/sep/25/angela-rippon-strictly-come-dancing-splits-kai-widdrington)
+- [Birmingham city council approves bankruptcy notice and spending controls](https://www.theguardian.com/uk-news/2023/sep/26/birmingham-city-council-approves-bankruptcy-notice-and-spending-controls)
+- [Wealthier children in UK ‘had steepest drop in mental health during pandemic’](https://www.theguardian.com/society/2023/sep/26/wealthier-children-in-uk-had-steepest-drop-in-mental-health-during-pandemic)
+- [Thousands with breathing problems going undiagnosed due to lack of tests](https://www.theguardian.com/society/2023/sep/26/thousands-with-breathing-problems-going-undiagnosed-due-to-lack-of-tests)
+- [The trade in sanctioned oil is booming as the US turns a blind eye](https://www.theguardian.com/business/2023/sep/25/the-trade-in-sanctioned-oil-is-booming-as-the-us-turns-a-blind-eye)
+- [Women’s Super League 2023-24 previews No 5: Chelsea](https://www.theguardian.com/football/2023/sep/26/womens-super-league-2023-24-previews-no-5-chelsea)
+- [Number of workers taking sick leave hits 10-year high](https://www.theguardian.com/money/2023/sep/26/number-of-workers-taking-sick-leave-hits-10-year-high)
+- [UK’s cost of living crisis will cause thousands of premature deaths, study says](https://www.theguardian.com/business/2023/sep/25/uks-cost-of-living-crisis-will-cause-thousands-of-premature-deaths-study-says)
+- [David McCallum of The Man from UNCLE and NCIS fame dies aged 90](https://www.theguardian.com/tv-and-radio/2023/sep/25/david-mccallum-man-from-uncle-ncis-dies-age-90)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

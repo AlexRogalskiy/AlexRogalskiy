@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
-- [c](https://www.computerworld.com/article/3707330/intel-brings-ai-to-the-pc-and-could-redefine-the-desktop.html#tk.rss_all)
-- [The AI future of Windows is here &lpar;next week&rpar;](https://www.computerworld.com/article/3707254/microsoft-windows-ai-future.html#tk.rss_all)
+- [Microsoft’s data centers are going nuclear](https://www.computerworld.com/article/3707472/microsofts-data-centers-are-going-nuclear.html#tk.rss_all)
+- [UK regulator provisionally clears Microsoft&#39;s $69B Activision acquisition](https://www.computerworld.com/article/3707411/uk-regulator-provisionally-clears-microsofts-69b-activision-acquisition.html#tk.rss_all)
+- [Forrester asks a forbidden question: Are vendors lying or do they believe their own hype?](https://www.computerworld.com/article/3707468/forrester-asks-a-forbidden-question-are-vendors-lying-or-do-they-believe-their-own-hype.html#tk.rss_all)
+- [Amazon set to invest $4B in constitutional AI advocate Anthropic](https://www.computerworld.com/article/3707410/amazon-set-to-invest-4b-in-constitutional-ai-advocate-anthropic.html#tk.rss_all)
+- [Q&amp;A: How one CSO secured his environment from generative AI risks](https://www.computerworld.com/article/3706894/qanda-how-one-cso-secured-his-environment-from-generative-ai-risks.html#tk.rss_all)
+- [Intel brings AI to the PC and could redefine the desktop](https://www.computerworld.com/article/3707330/intel-brings-ai-to-the-pc-and-could-redefine-the-desktop.html#tk.rss_all)
+- [The AI future of Windows is here](https://www.computerworld.com/article/3707254/microsoft-windows-ai-future.html#tk.rss_all)
 - [How to create your own iPhone-15-inspired &#39;Action button&#39; on Android](https://www.computerworld.com/article/3706957/google-android-iphone-15-action-button.html#tk.rss_all)
 - [Generative AI and US copyright law are on a collision course](https://www.computerworld.com/article/3707348/generative-ai-and-us-copyright-law-are-on-a-collision-course.html#tk.rss_all)
 - [Google US antitrust trial: A timeline](https://www.computerworld.com/article/3706893/googles-us-antitrust-trials-a-timeline.html#tk.rss_all)
-- [Microsoft 365 Copilot rollout set for Nov. 1](https://www.computerworld.com/article/3707369/microsoft-365-copilot-rollout-set-for-nov-1.html#tk.rss_all)
-- [ServiceNow embeds AI-powered customer-assist features throughout products](https://www.computerworld.com/article/3707269/servicenow-embeds-ai-powered-customer-assist-features-throughout-products.html#tk.rss_all)
-- [EU Chips Act comes into force to ensure supply chain resilience](https://www.computerworld.com/article/3707270/eu-chips-act-comes-into-force-to-ensure-supply-chain-resilience.html#tk.rss_all)
-- [Cisco: Macs in business boost productivity and security, cuts costs](https://www.computerworld.com/article/3707329/cisco-macs-in-business-boost-productivity-and-security-cuts-costs.html#tk.rss_all)
-- [Could Superhuman be your email savior?](https://www.computerworld.com/article/3706873/superhuman-email-app.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

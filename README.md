@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [GPT-4 Vision System Card](https://openai.com/research/gpt-4v-system-card)
-- [Playing Wordle with ChatGPT Again. This Time with Vision](https://andrewnolan.dev/blogs/WordleWithChatGPTPlusVision)
-- [Investing in Semiconductor Startups [video]](https://www.youtube.com/watch?v=4wQVh8pwhrE&list=PLAk9bLzNYq2i2TqVH6Za86dgJdTqozNi2&index=5)
-- [Trump Floats the Idea of Executing Joint Chiefs Chairman Milley](https://www.theatlantic.com/ideas/archive/2023/09/trump-milley-execution-incitement-violence/675435/)
-- [Guidelines to Antigravity &lpar;1962&rpar; [pdf]](https://mlpol.net/images/src/923407BF1804215F33B6B63A328BAE04-1835022.pdf)
-- [Show HN: Splash Pro &lpar;Gen-2&rpar; – Midjourney for music](https://pro.splashmusic.com)
-- [Europeans indicate clear support for the detection of CSAM in E2E encryption](https://europa.eu/eurobarometer/surveys/detail/2656)
-- [List of Markdown Presentation Tools](https://gist.github.com/johnloy/27dd124ad40e210e91c70dd1c24ac8c8)
-- [Techies are paying $700 a month for tiny bed &#39;pods&#39; in downtown San Francisco](https://www.sfgate.com/tech/article/rent-bed-pods-downtown-techies-18388110.php)
-- [Phet: Interactive Simulators for Science and Math](https://phet.colorado.edu/en/)
+- [What are the economics of giving out a free SDR?](https://www.50pros.com/hire-an-agency-get-an-sdr)
+- [Building Software Like a Bag of Marbles](https://gotopia.tech/articles/247/building-software-like-a-bag-of-marbles)
+- [Pico-8 Fantasy Console](https://www.lexaloffle.com/pico-8.php)
+- [Ted stiffs Coleman Hughes for conveying a message unpalatable to radical left](https://whyevolutionistrue.com/2023/09/26/ted-stiffs-coleman-hughes-for-conveying-a-message-ideologically-unpalatable-to-the-woke/)
+- [ElasticNotebook: Enabling Live Migration for Computational Notebooks](https://arxiv.org/abs/2309.11083)
+- [Ask HN: Has anyone else been stung by Mapbox/public token services?](https://news.ycombinator.com/item?id=37668813)
+- [Show HN: RFSH – A Free-forever flows running tool](https://github.com/docsion/rfsh)
+- [Visualizing Complex Numbers Using GLSL](https://hturan.com/writing/complex-numbers-glsl)
+- [Google&#39;s Answer Box Changed the Meaning of Information](https://www.wired.com/story/google-answer-box-information-search/)
+- [Biking Around Australia &lpar;2002&rpar;](https://lunky.com/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

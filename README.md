@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Mozilla.ai](https://mozilla.ai/about/)
-- [The United States of Bed Bath &amp; Beyond](https://www.epsilontheory.com/the-united-states-of-bed-bath-beyond/)
-- [Burkey Belser, designer of the nutrition facts label, has died](https://www.washingtonpost.com/obituaries/2023/09/25/burkey-belser-designer-of-ubiquitous-nutrition-facts-label-dies-at-76/)
-- [‘All of Sony Systems’ Allegedly Hacked by New Ransomware Group](https://kotaku.com/sony-playstation-hack-breach-ransomware-ransomed-vc-1850870993)
-- [Is Math Real?](https://maa.org/press/maa-reviews/is-math-real)
-- [The SR-71 Blackbird Astro-Nav System worked by tracking the stars](https://theaviationgeekclub.com/the-sr-71-blackbird-astro-nav-system-aka-r2-d2-worked-by-tracking-the-stars-and-was-so-powerful-that-it-could-see-the-stars-even-in-daylight/)
-- [Svix &lpar;YC W21&rpar; Is Hiring a Technical Lead &lpar;US Remote&rpar;](https://www.svix.com/careers/)
-- [PostScript’s sudden death in Sonoma](https://eclecticlight.co/2023/09/25/postscripts-sudden-death-in-sonoma/)
-- [Pixel 8 leak promises 7 years of OS updates](https://arstechnica.com/gadgets/2023/09/pixel-8-leak-promises-7-years-of-os-updates-even-more-than-an-iphone/)
-- [John Romero on his book “Doom Guy” and developing games at a small scale](https://howtomarketagame.com/2023/09/25/john-romero-on-his-book-doom-guy-and-developing-games-at-a-small-scale/)
+- [China is flooding Taiwan with disinformation](https://www.economist.com/asia/2023/09/26/china-is-flooding-taiwan-with-disinformation)
+- [Radar Maps: $0.50 per 1K map loads](https://radar.com/blog/introducing-radar-maps-platform)
+- [The Philips Hue ecosystem is collapsing into stupidity](https://rachelbythebay.com/w/2023/09/26/hue/)
+- [Merlin&#39;s Wisdom Project](https://github.com/merlinmann/wisdom/blob/master/wisdom.md)
+- [Introduction to Sysclean&lpar;8&rpar; on OpenBSD](https://kapouay.eu.org/notes/sysclean-intro/)
+- [Rethinking the Luddites in the Age of A.I](https://www.newyorker.com/books/page-turner/rethinking-the-luddites-in-the-age-of-ai)
+- [Prophet: Automatic Forecasting Procedure](https://github.com/facebook/prophet)
+- [EU tells Apple to open everything up to its rivals](https://appleinsider.com/articles/23/09/26/eu-tells-apple-to-open-everything-up-to-its-rivals)
+- [GPU.zip: side channel attack that exposes visual data processed on the GPU](https://www.hertzbleed.com/gpu.zip/)
+- [Causality for Machine Learning &lpar;2020&rpar;](https://ff13.fastforwardlabs.com/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

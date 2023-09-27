@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war at a glance: what we know on day 580 of the invasion](https://www.theguardian.com/world/2023/sep/26/russia-ukraine-war-at-a-glance-what-we-know-on-day-580-of-the-invasion)
-- [‘Quite a surprise’: Angela Rippon stuns viewers and experts with Strictly splits](https://www.theguardian.com/tv-and-radio/2023/sep/25/angela-rippon-strictly-come-dancing-splits-kai-widdrington)
-- [Birmingham city council approves bankruptcy notice and spending controls](https://www.theguardian.com/uk-news/2023/sep/26/birmingham-city-council-approves-bankruptcy-notice-and-spending-controls)
-- [Wealthier children in UK ‘had steepest drop in mental health during pandemic’](https://www.theguardian.com/society/2023/sep/26/wealthier-children-in-uk-had-steepest-drop-in-mental-health-during-pandemic)
-- [Thousands with breathing problems going undiagnosed due to lack of tests](https://www.theguardian.com/society/2023/sep/26/thousands-with-breathing-problems-going-undiagnosed-due-to-lack-of-tests)
-- [The trade in sanctioned oil is booming as the US turns a blind eye](https://www.theguardian.com/business/2023/sep/25/the-trade-in-sanctioned-oil-is-booming-as-the-us-turns-a-blind-eye)
-- [Women’s Super League 2023-24 previews No 5: Chelsea](https://www.theguardian.com/football/2023/sep/26/womens-super-league-2023-24-previews-no-5-chelsea)
-- [Number of workers taking sick leave hits 10-year high](https://www.theguardian.com/money/2023/sep/26/number-of-workers-taking-sick-leave-hits-10-year-high)
-- [UK’s cost of living crisis will cause thousands of premature deaths, study says](https://www.theguardian.com/business/2023/sep/25/uks-cost-of-living-crisis-will-cause-thousands-of-premature-deaths-study-says)
-- [David McCallum of The Man from UNCLE and NCIS fame dies aged 90](https://www.theguardian.com/tv-and-radio/2023/sep/25/david-mccallum-man-from-uncle-ncis-dies-age-90)
+- [Overcrowded and understaffed: life in England’s crumbling prisons – podcast](https://www.theguardian.com/news/audio/2023/sep/27/overcrowded-and-understaffed-life-in-england-crumbling-prisons-podcast)
+- [Russia-Ukraine war at a glance: what we know on day 581 of the invasion](https://www.theguardian.com/world/2023/sep/27/russia-ukraine-war-at-a-glance-what-we-know-on-day-581-of-the-invasion)
+- [Pacific divided on Biden’s charm offensive with calls for more ‘results on the ground’](https://www.theguardian.com/world/2023/sep/27/pacific-divided-on-bidens-charm-offensive-with-calls-for-more-results-on-the-ground)
+- [Hollywood writers agree to end five-month strike after new studio deal](https://www.theguardian.com/culture/2023/sep/26/hollywood-writers-strike-ends-studio-deal)
+- [Senate finds breakthrough on funding as government shutdown looms](https://www.theguardian.com/us-news/2023/sep/26/government-shutdown-2023-update-mccarthy)
+- [Nagorno-Karabakh: almost a quarter of the region’s population flees into Armenia](https://www.theguardian.com/world/2023/sep/27/nagorno-karabakh-azerbaijan-conflict-quarter-region-population-flee-into-armenia)
+- [More than 100 people killed after fire breaks out at Iraq wedding](https://www.theguardian.com/world/2023/sep/27/iraq-wedding-fire-hamdaniya-nineveh-provice-at-least-100-people-killed)
+- [Trump lawyers plan to appeal judge’s ruling that he committed fraud while building empire](https://www.theguardian.com/us-news/2023/sep/26/trump-liable-fraud-new-york)
+- [Fine parents for school absence in England only as last resort, MPs urge](https://www.theguardian.com/education/2023/sep/27/school-absence-fines-mental-health-commons-education-committee-report)
+- [Data breaches putting domestic abuse victims’ lives at risk, says UK watchdog](https://www.theguardian.com/society/2023/sep/27/data-breaches-putting-domestic-abuse-victims-lives-at-risk-says-uk-watchdog)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

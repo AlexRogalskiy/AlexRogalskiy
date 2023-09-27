@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
+- [Jamf exec details how the Apple ecosystem will win the business market](https://www.computerworld.com/article/3707354/jamf-exec-details-how-the-apple-ecosystem-will-win-the-business-market.html#tk.rss_all)
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [Atlassian adds new collaboration and integration features to Jira platforms](https://www.computerworld.com/article/3707311/atlassian-adds-new-collaboration-and-integration-features-to-jira-platforms.html#tk.rss_all)
+- [How to fix Windows 10 and 11 printing problems](https://www.computerworld.com/article/3012217/how-to-fix-printing-problems-windows-10-windows-11.html#tk.rss_all)
 - [Microsoft’s data centers are going nuclear](https://www.computerworld.com/article/3707472/microsofts-data-centers-are-going-nuclear.html#tk.rss_all)
 - [UK regulator provisionally clears Microsoft&#39;s $69B Activision acquisition](https://www.computerworld.com/article/3707411/uk-regulator-provisionally-clears-microsofts-69b-activision-acquisition.html#tk.rss_all)
 - [Forrester asks a forbidden question: Are vendors lying or do they believe their own hype?](https://www.computerworld.com/article/3707468/forrester-asks-a-forbidden-question-are-vendors-lying-or-do-they-believe-their-own-hype.html#tk.rss_all)
 - [Amazon set to invest $4B in constitutional AI advocate Anthropic](https://www.computerworld.com/article/3707410/amazon-set-to-invest-4b-in-constitutional-ai-advocate-anthropic.html#tk.rss_all)
 - [Q&amp;A: How one CSO secured his environment from generative AI risks](https://www.computerworld.com/article/3706894/qanda-how-one-cso-secured-his-environment-from-generative-ai-risks.html#tk.rss_all)
-- [Intel brings AI to the PC and could redefine the desktop](https://www.computerworld.com/article/3707330/intel-brings-ai-to-the-pc-and-could-redefine-the-desktop.html#tk.rss_all)
-- [The AI future of Windows is here](https://www.computerworld.com/article/3707254/microsoft-windows-ai-future.html#tk.rss_all)
-- [How to create your own iPhone-15-inspired &#39;Action button&#39; on Android](https://www.computerworld.com/article/3706957/google-android-iphone-15-action-button.html#tk.rss_all)
-- [Generative AI and US copyright law are on a collision course](https://www.computerworld.com/article/3707348/generative-ai-and-us-copyright-law-are-on-a-collision-course.html#tk.rss_all)
-- [Google US antitrust trial: A timeline](https://www.computerworld.com/article/3706893/googles-us-antitrust-trials-a-timeline.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

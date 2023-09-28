@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [What are the economics of giving out a free SDR?](https://www.50pros.com/hire-an-agency-get-an-sdr)
-- [Building Software Like a Bag of Marbles](https://gotopia.tech/articles/247/building-software-like-a-bag-of-marbles)
-- [Pico-8 Fantasy Console](https://www.lexaloffle.com/pico-8.php)
-- [Ted stiffs Coleman Hughes for conveying a message unpalatable to radical left](https://whyevolutionistrue.com/2023/09/26/ted-stiffs-coleman-hughes-for-conveying-a-message-ideologically-unpalatable-to-the-woke/)
-- [ElasticNotebook: Enabling Live Migration for Computational Notebooks](https://arxiv.org/abs/2309.11083)
-- [Ask HN: Has anyone else been stung by Mapbox/public token services?](https://news.ycombinator.com/item?id=37668813)
-- [Show HN: RFSH – A Free-forever flows running tool](https://github.com/docsion/rfsh)
-- [Visualizing Complex Numbers Using GLSL](https://hturan.com/writing/complex-numbers-glsl)
-- [Google&#39;s Answer Box Changed the Meaning of Information](https://www.wired.com/story/google-answer-box-information-search/)
-- [Biking Around Australia &lpar;2002&rpar;](https://lunky.com/)
+- [Amazon didn&#39;t build it so I did a shopping assistant for Amazon](https://blinkk.vercel.app/)
+- [Google at 25: By the Numbers](https://blog.google/inside-google/company-announcements/google-fun-facts-25th-birthday/)
+- [CFPB Review Panel Proposals Re: Data Brokers Rulemaking [pdf]](https://files.consumerfinance.gov/f/documents/cfpb_consumer-reporting-rule-sbrefa_outline-of-proposals.pdf)
+- [Antimatter embraces Earth, falling downward like normal matter](https://phys.org/news/2023-09-antimatter-embraces-earth-falling-downward.html)
+- [First Drive: Mercedes&#39; Drive Pilot Levels Up Safety &lpar;When It&#39;s On&rpar;](https://www.edmunds.com/car-news/first-drive-mercedes-drive-pilot-eqs.html)
+- [DozerDb Plugin Adds Multi-Database to Neo4j Community](https://dozerdb.org)
+- [Writers, Protect Your Inner Life](https://lithub.com/writers-protect-your-inner-life/)
+- [18M Americans say they have long Covid](https://www.cidrap.umn.edu/covid-19/survey-18-million-americans-say-they-have-long-covid)
+- [Lighthouses of the United Kingdom](https://fosstodon.org/@terence/111132852910410221)
+- [Letterboxd](https://letterboxd.com/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

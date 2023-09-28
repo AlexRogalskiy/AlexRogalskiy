@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [US FTC hits Amazon with antitrust lawsuit on e-commerce business](https://www.computerworld.com/article/3707371/us-ftc-hits-amazon-with-antitrust-lawsuit-on-e-commerce-business.html#tk.rss_all)
+- [The pursuit of Mac-iness: 10+ gifts to pros in macOS Sonoma](https://www.computerworld.com/article/3707316/the-pursuit-of-mac-iness-10-gifts-to-pros-in-macos-sonoma.html#tk.rss_all)
+- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
+- [Apple’s Eddy Cue testifies in Google’s confusing, secretive antitrust trial](https://www.computerworld.com/article/3707315/apple-s-eddy-cue-testifies-in-google-s-confusing-secretive-antitrust-trial.html#tk.rss_all)
+- [US may extend China waiver for South Korean chipmakers](https://www.computerworld.com/article/3707314/us-may-extend-china-waiver-for-south-korean-chipmakers.html#tk.rss_all)
+- [10 out-of-sight Google Pixel shortcuts worth surfacing](https://www.computerworld.com/article/3707469/google-pixel-shortcuts.html#tk.rss_all)
+- [Don’t expect much from Copilot for Windows &lpar;yet&rpar;](https://www.computerworld.com/article/3707390/dont-expect-much-from-copilot-for-windows-yet.html#tk.rss_all)
 - [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
 - [Jamf exec details how the Apple ecosystem will win the business market](https://www.computerworld.com/article/3707354/jamf-exec-details-how-the-apple-ecosystem-will-win-the-business-market.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [Atlassian adds new collaboration and integration features to Jira platforms](https://www.computerworld.com/article/3707311/atlassian-adds-new-collaboration-and-integration-features-to-jira-platforms.html#tk.rss_all)
-- [How to fix Windows 10 and 11 printing problems](https://www.computerworld.com/article/3012217/how-to-fix-printing-problems-windows-10-windows-11.html#tk.rss_all)
-- [Microsoft’s data centers are going nuclear](https://www.computerworld.com/article/3707472/microsofts-data-centers-are-going-nuclear.html#tk.rss_all)
-- [UK regulator provisionally clears Microsoft&#39;s $69B Activision acquisition](https://www.computerworld.com/article/3707411/uk-regulator-provisionally-clears-microsofts-69b-activision-acquisition.html#tk.rss_all)
-- [Forrester asks a forbidden question: Are vendors lying or do they believe their own hype?](https://www.computerworld.com/article/3707468/forrester-asks-a-forbidden-question-are-vendors-lying-or-do-they-believe-their-own-hype.html#tk.rss_all)
-- [Amazon set to invest $4B in constitutional AI advocate Anthropic](https://www.computerworld.com/article/3707410/amazon-set-to-invest-4b-in-constitutional-ai-advocate-anthropic.html#tk.rss_all)
-- [Q&amp;A: How one CSO secured his environment from generative AI risks](https://www.computerworld.com/article/3706894/qanda-how-one-cso-secured-his-environment-from-generative-ai-risks.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

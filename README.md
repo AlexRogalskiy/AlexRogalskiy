@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Overcrowded and understaffed: life in England’s crumbling prisons – podcast](https://www.theguardian.com/news/audio/2023/sep/27/overcrowded-and-understaffed-life-in-england-crumbling-prisons-podcast)
-- [Russia-Ukraine war at a glance: what we know on day 581 of the invasion](https://www.theguardian.com/world/2023/sep/27/russia-ukraine-war-at-a-glance-what-we-know-on-day-581-of-the-invasion)
-- [Pacific divided on Biden’s charm offensive with calls for more ‘results on the ground’](https://www.theguardian.com/world/2023/sep/27/pacific-divided-on-bidens-charm-offensive-with-calls-for-more-results-on-the-ground)
-- [Hollywood writers agree to end five-month strike after new studio deal](https://www.theguardian.com/culture/2023/sep/26/hollywood-writers-strike-ends-studio-deal)
-- [Senate finds breakthrough on funding as government shutdown looms](https://www.theguardian.com/us-news/2023/sep/26/government-shutdown-2023-update-mccarthy)
-- [Nagorno-Karabakh: almost a quarter of the region’s population flees into Armenia](https://www.theguardian.com/world/2023/sep/27/nagorno-karabakh-azerbaijan-conflict-quarter-region-population-flee-into-armenia)
-- [More than 100 people killed after fire breaks out at Iraq wedding](https://www.theguardian.com/world/2023/sep/27/iraq-wedding-fire-hamdaniya-nineveh-provice-at-least-100-people-killed)
-- [Trump lawyers plan to appeal judge’s ruling that he committed fraud while building empire](https://www.theguardian.com/us-news/2023/sep/26/trump-liable-fraud-new-york)
-- [Fine parents for school absence in England only as last resort, MPs urge](https://www.theguardian.com/education/2023/sep/27/school-absence-fines-mental-health-commons-education-committee-report)
-- [Data breaches putting domestic abuse victims’ lives at risk, says UK watchdog](https://www.theguardian.com/society/2023/sep/27/data-breaches-putting-domestic-abuse-victims-lives-at-risk-says-uk-watchdog)
+- [Republican debate live: Chris Christie says Trump too scared to face his rivals](https://www.theguardian.com/us-news/live/2023/sep/27/republican-second-debate-2023-desantis-trump-speech-uaw-live-updates)
+- [Nagorno Karabakh: Why a frozen conflict suddenly exploded](https://www.theguardian.com/news/audio/2023/sep/28/nagorno-karabakh-why-a-frozen-conflict-suddenly-exploded)
+- [Indonesia bans e-commerce sales on social media platforms like TikTok](https://www.theguardian.com/world/2023/sep/28/indonesia-bans-ecommerce-sales-purchases-tiktok-instagram-social-media-platforms)
+- [Canada assassination claim sparks rare consensus in India’s polarised politics and media](https://www.theguardian.com/world/2023/sep/28/canada-assassination-claim-sparks-rare-consensus-in-indias-polarised-politics-and-media)
+- [Russia-Ukraine war at a glance: what we know on day 582 of the invasion](https://www.theguardian.com/world/2023/sep/28/russia-ukraine-war-at-a-glance-what-we-know-on-day-582-of-the-invasion)
+- [Astronaut and cosmonauts return to Earth after getting stuck in space for more than a year](https://www.theguardian.com/science/2023/sep/28/astronauts-and-cosmonauts-return-to-earth-after-getting-stuck-in-space-for-more-than-a-year)
+- [Women’s Super League 2023-24 previews No 9: Manchester City](https://www.theguardian.com/football/2023/sep/28/womens-super-league-2023-24-previews-no-9-manchester-city)
+- [National Grid says blackouts less likely this winter](https://www.theguardian.com/business/2023/sep/28/national-grid-blackouts-this-winter-great-britain)
+- [Childcare costs ‘soaring by £600-plus a month’ as firms insist on return to office](https://www.theguardian.com/money/2023/sep/28/childcare-costs-return-to-office-parents-pebble)
+- [More aid money spent on clean air than fossil fuels for first time](https://www.theguardian.com/environment/2023/sep/28/more-aid-money-spent-on-clean-air-than-fossil-fuels-for-first-time)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

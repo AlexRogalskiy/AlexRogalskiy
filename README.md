@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Republican debate live: Chris Christie says Trump too scared to face his rivals](https://www.theguardian.com/us-news/live/2023/sep/27/republican-second-debate-2023-desantis-trump-speech-uaw-live-updates)
-- [Nagorno Karabakh: Why a frozen conflict suddenly exploded](https://www.theguardian.com/news/audio/2023/sep/28/nagorno-karabakh-why-a-frozen-conflict-suddenly-exploded)
-- [Indonesia bans e-commerce sales on social media platforms like TikTok](https://www.theguardian.com/world/2023/sep/28/indonesia-bans-ecommerce-sales-purchases-tiktok-instagram-social-media-platforms)
-- [Canada assassination claim sparks rare consensus in India’s polarised politics and media](https://www.theguardian.com/world/2023/sep/28/canada-assassination-claim-sparks-rare-consensus-in-indias-polarised-politics-and-media)
-- [Russia-Ukraine war at a glance: what we know on day 582 of the invasion](https://www.theguardian.com/world/2023/sep/28/russia-ukraine-war-at-a-glance-what-we-know-on-day-582-of-the-invasion)
-- [Astronaut and cosmonauts return to Earth after getting stuck in space for more than a year](https://www.theguardian.com/science/2023/sep/28/astronauts-and-cosmonauts-return-to-earth-after-getting-stuck-in-space-for-more-than-a-year)
-- [Women’s Super League 2023-24 previews No 9: Manchester City](https://www.theguardian.com/football/2023/sep/28/womens-super-league-2023-24-previews-no-9-manchester-city)
-- [National Grid says blackouts less likely this winter](https://www.theguardian.com/business/2023/sep/28/national-grid-blackouts-this-winter-great-britain)
-- [Childcare costs ‘soaring by £600-plus a month’ as firms insist on return to office](https://www.theguardian.com/money/2023/sep/28/childcare-costs-return-to-office-parents-pebble)
-- [More aid money spent on clean air than fossil fuels for first time](https://www.theguardian.com/environment/2023/sep/28/more-aid-money-spent-on-clean-air-than-fossil-fuels-for-first-time)
+- [Tesla trial begins over whether ‘experimental’ autopilot caused driver’s death](https://www.theguardian.com/technology/2023/sep/28/tesla-lawsuite-autopilot-system-fatal-car-crash)
+- [Culture 2023: the films, music and TV shows not to miss this autumn - podcast](https://www.theguardian.com/news/audio/2023/sep/29/culture-2023-films-music-tv-shows-not-to-miss-this-autumn)
+- [Should I validate my teen daughters’ concerns, or support their father as a co-parent? | Leading questions](https://www.theguardian.com/lifeandstyle/2023/sep/29/should-i-validate-my-teen-daughters-concerns-or-support-their-father-as-a-co-parent)
+- [‘Risk of miscalculation’ rises in South China Sea as Beijing ramps up aggressive tactics](https://www.theguardian.com/world/2023/sep/29/risk-of-miscalculation-rises-in-south-china-sea-as-beijing-ramps-up-aggressive-tactics)
+- [Biden warns voters a second Trump presidency will threaten democracy](https://www.theguardian.com/us-news/2023/sep/28/biden-campaign-democracy-trump-presidency)
+- [Boy, 16, arrested after felling of famous Sycamore Gap tree at Hadrian’s Wall](https://www.theguardian.com/uk-news/2023/sep/28/boy-16-arrested-in-connection-with-felling-of-famous-sycamore-gap-tree-hadrians-wall-england)
+- [Russia-Ukraine war at a glance: what we know on day 583 of the invasion](https://www.theguardian.com/world/2023/sep/29/russia-ukraine-war-at-a-glance-what-we-know-on-day-583-of-the-invasion)
+- [Stefanos Kasselakis: new leader of Greek opposition party to do military service](https://www.theguardian.com/world/2023/sep/29/stefanos-kasselakis-new-leader-of-greek-opposition-party-to-do-military-service)
+- [Energy bills: don’t break promise on social tariff, Sunak urged](https://www.theguardian.com/money/2023/sep/29/energy-bills-social-tariff-rishi-sunak-martin-lewis-citizens-advice)
+- [Women’s Super League 2023-24 previews No 11: Tottenham](https://www.theguardian.com/football/2023/sep/29/womens-super-league-2023-24-previews-no-11-tottenham)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

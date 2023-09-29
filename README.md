@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Ask HN: How do you store devices with Lithium-Ion batteries for long-term?](https://news.ycombinator.com/item?id=37684026)
-- [Safely open apps on your Mac](https://support.apple.com/en-us/HT202491)
-- [There&#39;s a mechanical watch feature called a “hack”. Why is it called that?](https://hachyderm.io/@danderson/111136144708450117)
-- [AlphaDev discovers faster sorting algorithms](https://www.deepmind.com/blog/alphadev-discovers-faster-sorting-algorithms)
-- [Open Source doesn&#39;t win by being cheaper](https://github.com/getlago/lago/wiki/Open-Source-does-not-win-by-being-cheaper)
-- [Lisp Badge LE](http://www.technoblogy.com/show?3Z2Y)
-- [SMS Security and Privacy Gaps](https://security.googleblog.com/2023/09/sms-security-privacy-gaps-make-it-clear.html)
-- [War Thunder user leaks restricted military documents for AH-64D Apache Longbow](https://nichegamer.com/war-thunder-user-leaks-restricted-military-documents-for-ah-64d-apache-longbow/)
-- [Desalination system could produce freshwater that is cheaper than tap water](https://news.mit.edu/2023/desalination-system-could-produce-freshwater-cheaper-0927)
-- [Emu: Enhancing Image Generation Models Using Photogenic Needles in a Haystack](https://ai.meta.com/research/publications/emu-enhancing-image-generation-models-using-photogenic-needles-in-a-haystack/)
+- [Ask HN: Which is the oldest software alive still in 0.x, used by many?](https://news.ycombinator.com/item?id=37698334)
+- [The Māori Genocide of the Moriori](https://www.stoneageherbalist.com/p/the-maori-genocide-of-the-moriori)
+- [US Senate’s email system melts down in face of security test and reply-all chaos](https://www.politico.com/minutes/congress/09-8-2023/senate-reply-all-mess/)
+- [The Internals of Deno](https://choubey.gitbook.io/internals-of-deno/)
+- [Mozilla.social mastodon instance is live](https://mozilla.social)
+- [Ads team begging for worse search results so that ads team can hit their goals](https://twitter.com/pdrmnvd/status/1707395736458207430)
+- [Discord as a filehost will no longer be possible by the end of the year](https://this.alicorn.gay/post/729670550209937408/discord-as-a-filehost-will-no-longer-be-possible)
+- [The comprehensive guide to writing the best PR title of all time](https://graphite.dev/blog/the-best-pr-title-of-all-time)
+- [Show HN: Generative Fill with AI and 3D](https://github.com/fill3d/fill)
+- [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

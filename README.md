@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Google US antitrust trial: A timeline](https://www.computerworld.com/article/3706893/googles-us-antitrust-trials-a-timeline.html#tk.rss_all)
+- [FTC renews legal challenge to Microsoft’s $69B purchase of Activision](https://www.computerworld.com/article/3707789/ftc-renews-legal-challenge-to-microsofts-69b-purchase-of-activision.html#tk.rss_all)
+- [‘We hoped not to use WebKit at all,&#39; says Vivaldi CEO, as iOS browser ships](https://www.computerworld.com/article/3707768/we-hoped-not-to-use-webkit-at-all-says-vivaldi-ceo-as-ios-browser-ships.html#tk.rss_all)
+- [Wi-Fi 7 could make thin clients much more viable](https://www.computerworld.com/article/3707788/wi-fi-7-could-make-thin-clients-much-more-viable.html#tk.rss_all)
+- [Chip industry strains to meet AI-fueled demands — will smaller LLMs help?](https://www.computerworld.com/article/3707412/chip-industry-strains-to-meet-ai-fueled-demands-will-smaller-llms-help.html#tk.rss_all)
+- [Google to block Bard conversations from being indexed on Search](https://www.computerworld.com/article/3707730/google-to-block-bard-conversations-from-being-indexed-on-search.html#tk.rss_all)
 - [US FTC hits Amazon with antitrust lawsuit on e-commerce business](https://www.computerworld.com/article/3707371/us-ftc-hits-amazon-with-antitrust-lawsuit-on-e-commerce-business.html#tk.rss_all)
 - [The pursuit of Mac-iness: 10+ gifts to pros in macOS Sonoma](https://www.computerworld.com/article/3707316/the-pursuit-of-mac-iness-10-gifts-to-pros-in-macos-sonoma.html#tk.rss_all)
 - [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
 - [Apple’s Eddy Cue testifies in Google’s confusing, secretive antitrust trial](https://www.computerworld.com/article/3707315/apple-s-eddy-cue-testifies-in-google-s-confusing-secretive-antitrust-trial.html#tk.rss_all)
-- [US may extend China waiver for South Korean chipmakers](https://www.computerworld.com/article/3707314/us-may-extend-china-waiver-for-south-korean-chipmakers.html#tk.rss_all)
-- [10 out-of-sight Google Pixel shortcuts worth surfacing](https://www.computerworld.com/article/3707469/google-pixel-shortcuts.html#tk.rss_all)
-- [Don’t expect much from Copilot for Windows &lpar;yet&rpar;](https://www.computerworld.com/article/3707390/dont-expect-much-from-copilot-for-windows-yet.html#tk.rss_all)
-- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
-- [Jamf exec details how the Apple ecosystem will win the business market](https://www.computerworld.com/article/3707354/jamf-exec-details-how-the-apple-ecosystem-will-win-the-business-market.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

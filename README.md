@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Amazon didn&#39;t build it so I did a shopping assistant for Amazon](https://blinkk.vercel.app/)
-- [Google at 25: By the Numbers](https://blog.google/inside-google/company-announcements/google-fun-facts-25th-birthday/)
-- [CFPB Review Panel Proposals Re: Data Brokers Rulemaking [pdf]](https://files.consumerfinance.gov/f/documents/cfpb_consumer-reporting-rule-sbrefa_outline-of-proposals.pdf)
-- [Antimatter embraces Earth, falling downward like normal matter](https://phys.org/news/2023-09-antimatter-embraces-earth-falling-downward.html)
-- [First Drive: Mercedes&#39; Drive Pilot Levels Up Safety &lpar;When It&#39;s On&rpar;](https://www.edmunds.com/car-news/first-drive-mercedes-drive-pilot-eqs.html)
-- [DozerDb Plugin Adds Multi-Database to Neo4j Community](https://dozerdb.org)
-- [Writers, Protect Your Inner Life](https://lithub.com/writers-protect-your-inner-life/)
-- [18M Americans say they have long Covid](https://www.cidrap.umn.edu/covid-19/survey-18-million-americans-say-they-have-long-covid)
-- [Lighthouses of the United Kingdom](https://fosstodon.org/@terence/111132852910410221)
-- [Letterboxd](https://letterboxd.com/)
+- [AI and Climate Change: Intersections, Impacts, and Future Directions](https://www.adalovelaceinstitute.org/resource/climate-change-ai/)
+- [Show HN: SapientML – Generative AutoML for Tabular Data](https://github.com/sapientml/sapientml)
+- [How ChatGPT Is Putting College Ghostwriters Out of Work](https://thewalrus.ca/chatgpt-ghost-writers/)
+- [Paris is seeing a new kind of road rage: Bike-lane traffic jams](https://apnews.com/article/paris-france-cycling-bike-lanes-traffic-olympics-6ab7931f04e435eb27dbd7494124b02e)
+- [Google&#39;s 5M Document Discovery Failure: &quot;Egregious&quot;, Says Magistrate Judge [pdf]](https://ia804605.us.archive.org/29/items/gov.uscourts.nysd.564903/gov.uscourts.nysd.564903.631.0.pdf)
+- [Machine Learning for Operational Decisionmaking in Competition and Conflict](https://www.rand.org/pubs/research_reports/RRA815-1.html)
+- [Is Tesla liable if a driver dies on Autopilot? Juries will now decide](https://www.washingtonpost.com/technology/2023/09/28/tesla-trial-autopilot-crash/)
+- [Against Exercise](https://www.versobooks.com/blogs/news/3428-against-exercise-by-mark-greif)
+- [Is: An Inspector for Your Environment](https://www.olafalders.com/2023/09/28/is-an-inspector-for-your-environment/)
+- [Food Delivery Robots Are Feeding Camera Footage to the LAPD](https://www.404media.co/serve-food-delivery-robots-are-feeding-camera-footage-to-the-lapd-internal-emails-show/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

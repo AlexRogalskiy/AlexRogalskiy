@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Tesla trial begins over whether ‘experimental’ autopilot caused driver’s death](https://www.theguardian.com/technology/2023/sep/28/tesla-lawsuite-autopilot-system-fatal-car-crash)
-- [Culture 2023: the films, music and TV shows not to miss this autumn - podcast](https://www.theguardian.com/news/audio/2023/sep/29/culture-2023-films-music-tv-shows-not-to-miss-this-autumn)
-- [Should I validate my teen daughters’ concerns, or support their father as a co-parent? | Leading questions](https://www.theguardian.com/lifeandstyle/2023/sep/29/should-i-validate-my-teen-daughters-concerns-or-support-their-father-as-a-co-parent)
-- [‘Risk of miscalculation’ rises in South China Sea as Beijing ramps up aggressive tactics](https://www.theguardian.com/world/2023/sep/29/risk-of-miscalculation-rises-in-south-china-sea-as-beijing-ramps-up-aggressive-tactics)
-- [Biden warns voters a second Trump presidency will threaten democracy](https://www.theguardian.com/us-news/2023/sep/28/biden-campaign-democracy-trump-presidency)
-- [Boy, 16, arrested after felling of famous Sycamore Gap tree at Hadrian’s Wall](https://www.theguardian.com/uk-news/2023/sep/28/boy-16-arrested-in-connection-with-felling-of-famous-sycamore-gap-tree-hadrians-wall-england)
-- [Russia-Ukraine war at a glance: what we know on day 583 of the invasion](https://www.theguardian.com/world/2023/sep/29/russia-ukraine-war-at-a-glance-what-we-know-on-day-583-of-the-invasion)
-- [Stefanos Kasselakis: new leader of Greek opposition party to do military service](https://www.theguardian.com/world/2023/sep/29/stefanos-kasselakis-new-leader-of-greek-opposition-party-to-do-military-service)
-- [Energy bills: don’t break promise on social tariff, Sunak urged](https://www.theguardian.com/money/2023/sep/29/energy-bills-social-tariff-rishi-sunak-martin-lewis-citizens-advice)
-- [Women’s Super League 2023-24 previews No 11: Tottenham](https://www.theguardian.com/football/2023/sep/29/womens-super-league-2023-24-previews-no-11-tottenham)
+- [Russia-Ukraine war at a glance: what we know on day 584 of the invasion](https://www.theguardian.com/world/2023/sep/30/russia-ukraine-war-at-a-glance-what-we-know-on-day-584-of-the-invasion)
+- [Flying Scotsman involved in ‘slow speed’ crash in Scottish Highlands](https://www.theguardian.com/world/2023/sep/30/flying-scotsman-involved-in-slow-speed-crash-in-scottish-highlands)
+- [One of last living witnesses and ex-gang leader indicted in Tupac Shakur murder](https://www.theguardian.com/music/2023/sep/29/tupac-shakur-shooting-arrest-las-vegas)
+- [Australian gardener becomes first person to survive deadly flesh-eating bacteria](https://www.theguardian.com/australia-news/2023/sep/30/australian-gardener-becomes-first-person-to-survive-deadly-flesh-eating-bacteria-clostridium-chauvoei-backleg)
+- [Intimacy with strangers: Marina Abramović puts the squeeze on](https://www.theguardian.com/artanddesign/2023/sep/29/intimacy-with-strangers-marina-abramovic-puts-the-squeeze-on)
+- [White House warns of ‘unprecedented’ Serbian troop buildup on Kosovo border](https://www.theguardian.com/world/2023/sep/29/kosovo-serbian-troops-buildup-us-uk)
+- [Sandwich price shocks but meal deal costs rise less than average food inflation](https://www.theguardian.com/business/2023/sep/29/sandwich-price-shocks-but-meal-deal-costs-rise-less-than-average-food-inflation)
+- [Outcry as New York mayor says shelter mandate should exclude migrants](https://www.theguardian.com/us-news/2023/sep/29/new-york-flooding-mayor-eric-adams-migrants-homeless-people)
+- [Clarke double eases Sunderland to win to extend Sheffield Wednesday’s woes](https://www.theguardian.com/football/2023/sep/29/clarke-sunderland-sheffield-wednesday-championship-football)
+- [Sunak ‘backs drivers’ with curbs on 20mph limits and bus lanes](https://www.theguardian.com/politics/2023/sep/29/rishi-sunak-plan-for-motorists-would-limit-travel-choices-campaigners-say)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

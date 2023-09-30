@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [AI and Climate Change: Intersections, Impacts, and Future Directions](https://www.adalovelaceinstitute.org/resource/climate-change-ai/)
-- [Show HN: SapientML – Generative AutoML for Tabular Data](https://github.com/sapientml/sapientml)
-- [How ChatGPT Is Putting College Ghostwriters Out of Work](https://thewalrus.ca/chatgpt-ghost-writers/)
-- [Paris is seeing a new kind of road rage: Bike-lane traffic jams](https://apnews.com/article/paris-france-cycling-bike-lanes-traffic-olympics-6ab7931f04e435eb27dbd7494124b02e)
-- [Google&#39;s 5M Document Discovery Failure: &quot;Egregious&quot;, Says Magistrate Judge [pdf]](https://ia804605.us.archive.org/29/items/gov.uscourts.nysd.564903/gov.uscourts.nysd.564903.631.0.pdf)
-- [Machine Learning for Operational Decisionmaking in Competition and Conflict](https://www.rand.org/pubs/research_reports/RRA815-1.html)
-- [Is Tesla liable if a driver dies on Autopilot? Juries will now decide](https://www.washingtonpost.com/technology/2023/09/28/tesla-trial-autopilot-crash/)
-- [Against Exercise](https://www.versobooks.com/blogs/news/3428-against-exercise-by-mark-greif)
-- [Is: An Inspector for Your Environment](https://www.olafalders.com/2023/09/28/is-an-inspector-for-your-environment/)
-- [Food Delivery Robots Are Feeding Camera Footage to the LAPD](https://www.404media.co/serve-food-delivery-robots-are-feeding-camera-footage-to-the-lapd-internal-emails-show/)
+- [BlackBerry Failed to Respond to the iPhone](https://rubenerd.com/how-blackberry-failed-to-respond-to-the-iphone/)
+- [Show HN: A website that finds cool available domain names for your website idea](https://finddomain.ai/)
+- [A Primer on Internet and TCP/IP Tools &lpar;1994&rpar;](https://datatracker.ietf.org/doc/html/rfc1739)
+- [Ask HN: LSP Reverse Proxy Server – Practical Use?](https://news.ycombinator.com/item?id=37712145)
+- [CSS Solves Auto-Expanding Textareas &lpar;Probably, Eventually&rpar;](https://chriscoyier.net/2023/09/29/css-solves-auto-expanding-textareas-probably-eventually/)
+- [Ask HN: How to become a front-end engineer in 2024?](https://news.ycombinator.com/item?id=37712102)
+- [Las Vegas Police Have Arrested a Man in Connection with Tupac’s Murder](https://www.gq.com/story/tupac-murder-arrest-las-vegas-duane-davis)
+- [Light Sleep has a rich built-in sound library, which includes various sounds](https://news.ycombinator.com/item?id=37712067)
+- [Mother Earth Mother Board &lpar;1996&rpar;](https://web.archive.org/web/20151220003950/http://www.wired.com/1996/12/ffglass/)
+- [Netflix shutters the remnants of the largest film library in history](https://www.abc.net.au/news/2023-09-30/netflix-shutters-dvd-delivery-marc-randolph/102902864)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

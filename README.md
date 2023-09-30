@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [JNUC 2023: The top 5 changes JAMF unveiled](https://www.computerworld.com/article/3707792/jnuc-2023-the-top-5-changes-jamf-unveiled.html#tk.rss_all)
+- [Meta Quest 3’s mixed reality ‘passthrough’ broadens workplace appeal](https://www.computerworld.com/article/3707810/meta-quest-3s-mixed-reality-passthrough-broadens-workplace-appeal.html#tk.rss_all)
+- [Meta challenges ChatGPT with chatbot, OpenAI fires back with new features](https://www.computerworld.com/article/3707828/meta-challenges-chatgpt-with-chatbot-openai-fires-back-with-new-features.html#tk.rss_all)
+- [Nvidia’s French offices raided for anticompetitive practices: Report](https://www.networkworld.com/article/3707869/nvidias-french-offices-raided-for-anticompetitive-practices-report.html#tk.rss_all)
 - [Google US antitrust trial: A timeline](https://www.computerworld.com/article/3706893/googles-us-antitrust-trials-a-timeline.html#tk.rss_all)
 - [FTC renews legal challenge to Microsoft’s $69B purchase of Activision](https://www.computerworld.com/article/3707789/ftc-renews-legal-challenge-to-microsofts-69b-purchase-of-activision.html#tk.rss_all)
 - [‘We hoped not to use WebKit at all,&#39; says Vivaldi CEO, as iOS browser ships](https://www.computerworld.com/article/3707768/we-hoped-not-to-use-webkit-at-all-says-vivaldi-ceo-as-ios-browser-ships.html#tk.rss_all)
 - [Wi-Fi 7 could make thin clients much more viable](https://www.computerworld.com/article/3707788/wi-fi-7-could-make-thin-clients-much-more-viable.html#tk.rss_all)
 - [Chip industry strains to meet AI-fueled demands — will smaller LLMs help?](https://www.computerworld.com/article/3707412/chip-industry-strains-to-meet-ai-fueled-demands-will-smaller-llms-help.html#tk.rss_all)
 - [Google to block Bard conversations from being indexed on Search](https://www.computerworld.com/article/3707730/google-to-block-bard-conversations-from-being-indexed-on-search.html#tk.rss_all)
-- [US FTC hits Amazon with antitrust lawsuit on e-commerce business](https://www.computerworld.com/article/3707371/us-ftc-hits-amazon-with-antitrust-lawsuit-on-e-commerce-business.html#tk.rss_all)
-- [The pursuit of Mac-iness: 10+ gifts to pros in macOS Sonoma](https://www.computerworld.com/article/3707316/the-pursuit-of-mac-iness-10-gifts-to-pros-in-macos-sonoma.html#tk.rss_all)
-- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
-- [Apple’s Eddy Cue testifies in Google’s confusing, secretive antitrust trial](https://www.computerworld.com/article/3707315/apple-s-eddy-cue-testifies-in-google-s-confusing-secretive-antitrust-trial.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

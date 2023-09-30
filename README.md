@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Ask HN: Which is the oldest software alive still in 0.x, used by many?](https://news.ycombinator.com/item?id=37698334)
-- [The Māori Genocide of the Moriori](https://www.stoneageherbalist.com/p/the-maori-genocide-of-the-moriori)
-- [US Senate’s email system melts down in face of security test and reply-all chaos](https://www.politico.com/minutes/congress/09-8-2023/senate-reply-all-mess/)
-- [The Internals of Deno](https://choubey.gitbook.io/internals-of-deno/)
-- [Mozilla.social mastodon instance is live](https://mozilla.social)
-- [Ads team begging for worse search results so that ads team can hit their goals](https://twitter.com/pdrmnvd/status/1707395736458207430)
-- [Discord as a filehost will no longer be possible by the end of the year](https://this.alicorn.gay/post/729670550209937408/discord-as-a-filehost-will-no-longer-be-possible)
-- [The comprehensive guide to writing the best PR title of all time](https://graphite.dev/blog/the-best-pr-title-of-all-time)
-- [Show HN: Generative Fill with AI and 3D](https://github.com/fill3d/fill)
-- [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads/)
+- [Devs learn rival Godot engine in a week to poke fun at Unity](https://www.theregister.com/2023/09/27/unity_install_fee_tycoon/)
+- [Trains on another level](https://factorio.com/blog/post/fff-378)
+- [Obscura: A VPN that can&#39;t track your activity](https://obscuravpn.io/)
+- [Soviet computer has been forgotten for 30 years [video]](https://www.youtube.com/watch?v=lVCS99Zep9w)
+- [Meta in Myanmar](https://erinkissane.com/meta-in-myanmar-part-i-the-setup)
+- [Motocompacto from Honda, 3.7 inch wide Briefcase-form Electric Scooter](https://motocompacto.honda.com/)
+- [RealFill: Image completion using diffusion models](https://realfill.github.io/)
+- [I Tested an HDMI Adapter That Demands Your Location and Spams You with Ads](https://www.404media.co/i-tested-an-hdmi-adapter-that-demands-your-location-browsing-data-photos-and-spams-you-with-ads/)
+- [50 years later, is two-phase locking the best we can do?](http://concurrencyfreaks.blogspot.com/2023/09/50-years-later-is-two-phase-locking.html)
+- [A scientific curiosity that happened to me](https://old.reddit.com/r/Physics/comments/16v8g6e/a_scientific_curiosity_that_happened_to_me/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Devs learn rival Godot engine in a week to poke fun at Unity](https://www.theregister.com/2023/09/27/unity_install_fee_tycoon/)
-- [Trains on another level](https://factorio.com/blog/post/fff-378)
-- [Obscura: A VPN that can&#39;t track your activity](https://obscuravpn.io/)
-- [Soviet computer has been forgotten for 30 years [video]](https://www.youtube.com/watch?v=lVCS99Zep9w)
-- [Meta in Myanmar](https://erinkissane.com/meta-in-myanmar-part-i-the-setup)
-- [Motocompacto from Honda, 3.7 inch wide Briefcase-form Electric Scooter](https://motocompacto.honda.com/)
-- [RealFill: Image completion using diffusion models](https://realfill.github.io/)
-- [I Tested an HDMI Adapter That Demands Your Location and Spams You with Ads](https://www.404media.co/i-tested-an-hdmi-adapter-that-demands-your-location-browsing-data-photos-and-spams-you-with-ads/)
-- [50 years later, is two-phase locking the best we can do?](http://concurrencyfreaks.blogspot.com/2023/09/50-years-later-is-two-phase-locking.html)
-- [A scientific curiosity that happened to me](https://old.reddit.com/r/Physics/comments/16v8g6e/a_scientific_curiosity_that_happened_to_me/)
+- [Nvidia&#39;s RTX 5000 Ada Now Available: AD102 with 32GB of GDDR6](https://www.tomshardware.com/news/nvidias-rtx-5000-ada-now-available-ad102-with-32gb-of-gddr6)
+- [Machine Learning Mastery Series – Part 1 of 10](https://ataiva.com/machine-learning-mastery-series-part-1-introduction-to-machine-learning/)
+- [Show HN: A map that tells you if a NYC cafe has WiFi, a restroom, and an outlet](https://www.octobrain.one/maps/908lqY3fV5C4v7nRvvd2)
+- [An easy-to-implement, arena-friendly hash map](https://nullprogram.com/blog/2023/09/30/)
+- [Installing PyTorch Geometric Wrt CUDA Version](https://blog.42yeah.is/cuda/2023/09/30/torch-geometric.html)
+- [-Werror Is not your friend &lpar;2017&rpar;](https://embeddedartistry.com/blog/2017/05/22/werror-is-not-your-friend/)
+- [The Tron Project: How Japan Almost Ruled IT &lpar;2022&rpar;](https://undervaluedjapan.blogspot.com/2022/08/the-tron-project-how-japan-almost-ruled.html)
+- [Fake recruiter lured aerospace employee with trojanized coding challenge](https://www.welivesecurity.com/en/eset-research/lazarus-luring-employees-trojanized-coding-challenges-case-spanish-aerospace-company/)
+- [Europol Sought Unlimited Data Access in Online Child Sexual Abuse Regulation](https://balkaninsight.com/2023/09/29/europol-sought-unlimited-data-access-in-online-child-sexual-abuse-regulation/)
+- [NIR: Nim Intermediate Representation](https://github.com/nim-lang/Nim/pull/22777)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

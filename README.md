@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war at a glance: what we know on day 584 of the invasion](https://www.theguardian.com/world/2023/sep/30/russia-ukraine-war-at-a-glance-what-we-know-on-day-584-of-the-invasion)
-- [Flying Scotsman involved in ‘slow speed’ crash in Scottish Highlands](https://www.theguardian.com/world/2023/sep/30/flying-scotsman-involved-in-slow-speed-crash-in-scottish-highlands)
-- [One of last living witnesses and ex-gang leader indicted in Tupac Shakur murder](https://www.theguardian.com/music/2023/sep/29/tupac-shakur-shooting-arrest-las-vegas)
-- [Australian gardener becomes first person to survive deadly flesh-eating bacteria](https://www.theguardian.com/australia-news/2023/sep/30/australian-gardener-becomes-first-person-to-survive-deadly-flesh-eating-bacteria-clostridium-chauvoei-backleg)
-- [Intimacy with strangers: Marina Abramović puts the squeeze on](https://www.theguardian.com/artanddesign/2023/sep/29/intimacy-with-strangers-marina-abramovic-puts-the-squeeze-on)
-- [White House warns of ‘unprecedented’ Serbian troop buildup on Kosovo border](https://www.theguardian.com/world/2023/sep/29/kosovo-serbian-troops-buildup-us-uk)
-- [Sandwich price shocks but meal deal costs rise less than average food inflation](https://www.theguardian.com/business/2023/sep/29/sandwich-price-shocks-but-meal-deal-costs-rise-less-than-average-food-inflation)
-- [Outcry as New York mayor says shelter mandate should exclude migrants](https://www.theguardian.com/us-news/2023/sep/29/new-york-flooding-mayor-eric-adams-migrants-homeless-people)
-- [Clarke double eases Sunderland to win to extend Sheffield Wednesday’s woes](https://www.theguardian.com/football/2023/sep/29/clarke-sunderland-sheffield-wednesday-championship-football)
-- [Sunak ‘backs drivers’ with curbs on 20mph limits and bus lanes](https://www.theguardian.com/politics/2023/sep/29/rishi-sunak-plan-for-motorists-would-limit-travel-choices-campaigners-say)
+- [Slovakia election 2023: populist party Smer ahead in count despite exit poll lead for pro-western Progressives – live](https://www.theguardian.com/world/live/2023/sep/30/slovakia-election-2023-results-robert-fico-michal-simecka-peter-pellegrini-richard-sulik-latest-news)
+- [Russia-Ukraine war at a glance: what we know on day 585 of the invasion](https://www.theguardian.com/world/2023/oct/01/russia-ukraine-war-at-a-glance-what-we-know-on-day-585-of-the-invasion)
+- [New Zealand election: Chris Hipkins tests positive to Covid at critical point in campaign](https://www.theguardian.com/world/2023/oct/01/new-zealand-election-chris-hipkins-tests-positive-to-covid-at-critical-point-in-campaign)
+- [Pro-China candidate Mohamed Muizzu wins Maldives presidency, upending relationship with India](https://www.theguardian.com/world/2023/oct/01/pro-china-candidate-mohamed-muizzu-wins-maldives-presidency-upending-relationship-with-india)
+- [The ‘climate safe rooms’ keeping low-income Australians cool during heatwaves](https://www.theguardian.com/australia-news/2023/oct/01/the-climate-safe-rooms-keeping-low-income-australians-cool-during-heatwaves)
+- [‘Stronger than steel, stretchier than rubber’: the quest to harness the power of spider silk](https://www.theguardian.com/books/2023/oct/01/stronger-than-steel-stretchier-than-rubber-the-quest-to-harness-the-power-of-spider-silk)
+- [Serbia pulls some troops back from Kosovo border after warning from US](https://www.theguardian.com/world/2023/sep/30/serbia-pulls-some-troops-back-from-kosovo-border-after-warning-from-us)
+- [British troops could deploy to Ukraine for first time to train soldiers, says Grant Shapps](https://www.theguardian.com/world/2023/sep/30/british-troops-could-deploy-to-ukraine-to-train-soldiers-says-grant-shapps)
+- [Tory turmoil as third of voters desert party and factions launch rival manifestoes](https://www.theguardian.com/politics/2023/sep/30/tory-turmoil-as-third-of-voters-desert-party-and-factions-launch-rival-manifestoes)
+- [Canadian breaks speed record for eating 50 Carolina reapers](https://www.theguardian.com/world/2023/sep/30/canada-guinness-world-record-chilli-pepper)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

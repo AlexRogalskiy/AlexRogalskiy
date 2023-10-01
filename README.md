@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [BlackBerry Failed to Respond to the iPhone](https://rubenerd.com/how-blackberry-failed-to-respond-to-the-iphone/)
-- [Show HN: A website that finds cool available domain names for your website idea](https://finddomain.ai/)
-- [A Primer on Internet and TCP/IP Tools &lpar;1994&rpar;](https://datatracker.ietf.org/doc/html/rfc1739)
-- [Ask HN: LSP Reverse Proxy Server – Practical Use?](https://news.ycombinator.com/item?id=37712145)
-- [CSS Solves Auto-Expanding Textareas &lpar;Probably, Eventually&rpar;](https://chriscoyier.net/2023/09/29/css-solves-auto-expanding-textareas-probably-eventually/)
-- [Ask HN: How to become a front-end engineer in 2024?](https://news.ycombinator.com/item?id=37712102)
-- [Las Vegas Police Have Arrested a Man in Connection with Tupac’s Murder](https://www.gq.com/story/tupac-murder-arrest-las-vegas-duane-davis)
-- [Light Sleep has a rich built-in sound library, which includes various sounds](https://news.ycombinator.com/item?id=37712067)
-- [Mother Earth Mother Board &lpar;1996&rpar;](https://web.archive.org/web/20151220003950/http://www.wired.com/1996/12/ffglass/)
-- [Netflix shutters the remnants of the largest film library in history](https://www.abc.net.au/news/2023-09-30/netflix-shutters-dvd-delivery-marc-randolph/102902864)
+- [In macOS 14, Apple removed the BSD Calendar&#39;s data directory](https://news.ycombinator.com/item?id=37721905)
+- [Knowing Emily: A Review of Tim Powers’ My Brother’s Keeper](https://www.catholicworldreport.com/2023/08/19/knowing-emily-a-review-of-tim-powers-my-brothers-keeper/)
+- [Ask HN: How long will existing users get original Hasura prices?](https://news.ycombinator.com/item?id=37721894)
+- [Curta Project 2022 – Building a New Curta Type I Mechanical Calculator](https://curtaproject.com/)
+- [Kick streamers consider leaving over CEO comments in a sex worker ‘prank’ stream](https://techcrunch.com/2023/09/29/kick-streamers-leave-ceo-ice-poseidon-prank-sex-work/)
+- [Amazon sent erroneous gift card scam alert emails to customers](https://old.reddit.com/r/amazonprime/login/)
+- [TypeScript Origins: The Documentary](https://www.youtube.com/watch?v=U6s2pdxebSo)
+- [Nvidia&#39;s RTX 5000 Ada Now Available: AD102 with 32GB of GDDR6](https://www.tomshardware.com/news/nvidias-rtx-5000-ada-now-available-ad102-with-32gb-of-gddr6)
+- [Samsung’s The Wall Elevates Automotive Design at Lucid Motors](https://news.samsung.com/global/samsungs-the-wall-elevates-automotive-design-at-lucid-motors)
+- [Gadgetish: Your Android phone as a smart lock for Windows](https://www.gadgetish.com/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

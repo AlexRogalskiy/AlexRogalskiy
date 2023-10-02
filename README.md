@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Slovakia election 2023: populist party Smer ahead in count despite exit poll lead for pro-western Progressives – live](https://www.theguardian.com/world/live/2023/sep/30/slovakia-election-2023-results-robert-fico-michal-simecka-peter-pellegrini-richard-sulik-latest-news)
-- [Russia-Ukraine war at a glance: what we know on day 585 of the invasion](https://www.theguardian.com/world/2023/oct/01/russia-ukraine-war-at-a-glance-what-we-know-on-day-585-of-the-invasion)
-- [New Zealand election: Chris Hipkins tests positive to Covid at critical point in campaign](https://www.theguardian.com/world/2023/oct/01/new-zealand-election-chris-hipkins-tests-positive-to-covid-at-critical-point-in-campaign)
-- [Pro-China candidate Mohamed Muizzu wins Maldives presidency, upending relationship with India](https://www.theguardian.com/world/2023/oct/01/pro-china-candidate-mohamed-muizzu-wins-maldives-presidency-upending-relationship-with-india)
-- [The ‘climate safe rooms’ keeping low-income Australians cool during heatwaves](https://www.theguardian.com/australia-news/2023/oct/01/the-climate-safe-rooms-keeping-low-income-australians-cool-during-heatwaves)
-- [‘Stronger than steel, stretchier than rubber’: the quest to harness the power of spider silk](https://www.theguardian.com/books/2023/oct/01/stronger-than-steel-stretchier-than-rubber-the-quest-to-harness-the-power-of-spider-silk)
-- [Serbia pulls some troops back from Kosovo border after warning from US](https://www.theguardian.com/world/2023/sep/30/serbia-pulls-some-troops-back-from-kosovo-border-after-warning-from-us)
-- [British troops could deploy to Ukraine for first time to train soldiers, says Grant Shapps](https://www.theguardian.com/world/2023/sep/30/british-troops-could-deploy-to-ukraine-to-train-soldiers-says-grant-shapps)
-- [Tory turmoil as third of voters desert party and factions launch rival manifestoes](https://www.theguardian.com/politics/2023/sep/30/tory-turmoil-as-third-of-voters-desert-party-and-factions-launch-rival-manifestoes)
-- [Canadian breaks speed record for eating 50 Carolina reapers](https://www.theguardian.com/world/2023/sep/30/canada-guinness-world-record-chilli-pepper)
+- [Tom Hanks says AI version of him used in dental plan ad without his consent](https://www.theguardian.com/film/2023/oct/02/tom-hanks-dental-ad-ai-version-fake)
+- [Biden urges Republicans to approve Ukraine aid, saying support cannot waver](https://www.theguardian.com/world/2023/oct/02/joe-biden-republicans-ukraine-aid-plan-volodymyr-zelenskiy)
+- [Russia-Ukraine war at a glance: what we know on day 586 of the invasion](https://www.theguardian.com/world/2023/oct/02/russia-ukraine-war-at-a-glance-what-we-know-on-day-586-of-the-invasion)
+- [No immediate plans to send British military instructors to Ukraine, says Rishi Sunak](https://www.theguardian.com/world/2023/oct/02/rishi-sunak-no-immediate-plans-to-send-british-military-instructors-to-ukraine)
+- [One-in-four new UK homeowners opt for ‘marathon mortgages’ to cut payments](https://www.theguardian.com/money/2023/oct/02/one-in-four-new-uk-homeowners-opt-for-marathon-mortgages-to-cut-payments)
+- [Catholic and C of E primary schools in England ‘take fewer Send pupils’](https://www.theguardian.com/education/2023/oct/02/catholic-and-c-of-e-primary-schools-in-england-take-fewer-send-pupils)
+- [Charity challenges home secretary’s claims about ‘economic migrants’](https://www.theguardian.com/politics/2023/oct/02/charity-challenges-home-secretarys-claims-about-economic-migrants)
+- [Shouting at children can be as damaging as physical or sexual abuse, study says](https://www.theguardian.com/society/2023/oct/02/shouting-at-children-can-be-as-damaging-as-physical-or-sexual-abuse-study-says)
+- [Half of UK firms open offices outside city centres, study claims](https://www.theguardian.com/business/2023/oct/02/half-of-uk-firms-open-offices-outside-city-centres-study-claims)
+- [Woman who escaped Lahaina wildfire by running through burning field dies](https://www.theguardian.com/us-news/2023/oct/01/lahaina-woman-burning-field-hawaii-wildfires)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

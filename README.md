@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Nvidia&#39;s RTX 5000 Ada Now Available: AD102 with 32GB of GDDR6](https://www.tomshardware.com/news/nvidias-rtx-5000-ada-now-available-ad102-with-32gb-of-gddr6)
-- [Machine Learning Mastery Series – Part 1 of 10](https://ataiva.com/machine-learning-mastery-series-part-1-introduction-to-machine-learning/)
-- [Show HN: A map that tells you if a NYC cafe has WiFi, a restroom, and an outlet](https://www.octobrain.one/maps/908lqY3fV5C4v7nRvvd2)
-- [An easy-to-implement, arena-friendly hash map](https://nullprogram.com/blog/2023/09/30/)
-- [Installing PyTorch Geometric Wrt CUDA Version](https://blog.42yeah.is/cuda/2023/09/30/torch-geometric.html)
-- [-Werror Is not your friend &lpar;2017&rpar;](https://embeddedartistry.com/blog/2017/05/22/werror-is-not-your-friend/)
-- [The Tron Project: How Japan Almost Ruled IT &lpar;2022&rpar;](https://undervaluedjapan.blogspot.com/2022/08/the-tron-project-how-japan-almost-ruled.html)
-- [Fake recruiter lured aerospace employee with trojanized coding challenge](https://www.welivesecurity.com/en/eset-research/lazarus-luring-employees-trojanized-coding-challenges-case-spanish-aerospace-company/)
-- [Europol Sought Unlimited Data Access in Online Child Sexual Abuse Regulation](https://balkaninsight.com/2023/09/29/europol-sought-unlimited-data-access-in-online-child-sexual-abuse-regulation/)
-- [NIR: Nim Intermediate Representation](https://github.com/nim-lang/Nim/pull/22777)
+- [Critics Furious Microsoft Is Training AI by Sucking Up Water During Drought](https://futurism.com/critics-microsoft-water-train-ai-drought)
+- [LinkedIn forcing me to disclose my phone number to log in? No thanks](https://news.ycombinator.com/item?id=37732203)
+- [Intimacy does not scale &lpar;2021&rpar;](https://archive.ph/AUpYp)
+- [FBI warns “phantom” hacker scams are emptying financial accounts](https://www.tomsguide.com/news/fbi-issues-warning-over-phantom-hacker-scams-dont-fall-for-this)
+- [CISA, NSA, FBI Release Advisory Warning of BlackTech, PRC-Linked Cyber Activity](https://www.cisa.gov/news-events/news/cisa-nsa-fbi-and-japan-release-advisory-warning-blacktech-prc-linked-cyber-activity)
+- [My Dearest Data East: Why? Gate of Doom/Dark Seal](https://nicole.express/2023/im-gonna-open-the-doom-gate-now.html)
+- [Decomp me: Collaboratively decompile code in the browser](https://decomp.me/)
+- [Learn and Test DMARC](https://www.learndmarc.com)
+- [Spatial: A high-level language for programming accelerators](https://spatial-lang.org)
+- [12,000-year-old realistic human statue was unearthed](https://arkeonews.net/new-discoveries-in-gobeklitepe-and-karahantepe-a-human-sculpture-with-a-realistic-facial-expression-found-in-karahantepe/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

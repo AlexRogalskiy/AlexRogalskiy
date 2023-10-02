@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [In macOS 14, Apple removed the BSD Calendar&#39;s data directory](https://news.ycombinator.com/item?id=37721905)
-- [Knowing Emily: A Review of Tim Powers’ My Brother’s Keeper](https://www.catholicworldreport.com/2023/08/19/knowing-emily-a-review-of-tim-powers-my-brothers-keeper/)
-- [Ask HN: How long will existing users get original Hasura prices?](https://news.ycombinator.com/item?id=37721894)
-- [Curta Project 2022 – Building a New Curta Type I Mechanical Calculator](https://curtaproject.com/)
-- [Kick streamers consider leaving over CEO comments in a sex worker ‘prank’ stream](https://techcrunch.com/2023/09/29/kick-streamers-leave-ceo-ice-poseidon-prank-sex-work/)
-- [Amazon sent erroneous gift card scam alert emails to customers](https://old.reddit.com/r/amazonprime/login/)
-- [TypeScript Origins: The Documentary](https://www.youtube.com/watch?v=U6s2pdxebSo)
-- [Nvidia&#39;s RTX 5000 Ada Now Available: AD102 with 32GB of GDDR6](https://www.tomshardware.com/news/nvidias-rtx-5000-ada-now-available-ad102-with-32gb-of-gddr6)
-- [Samsung’s The Wall Elevates Automotive Design at Lucid Motors](https://news.samsung.com/global/samsungs-the-wall-elevates-automotive-design-at-lucid-motors)
-- [Gadgetish: Your Android phone as a smart lock for Windows](https://www.gadgetish.com/)
+- [Artificial sweeteners: the health controversy that will not go away](https://www.ft.com/content/7d40bdcc-34b5-44c3-bf46-612ab47979e3)
+- [More vs. Better](https://seths.blog/2023/09/more-vs-better/)
+- [Getting JTAG on the iPhone 15 [video]](https://www.youtube.com/watch?v=D8UGlvBubkA)
+- [Covid-19 Virus Infects Coronary Vasculature](https://www.medscape.com/viewarticle/996964)
+- [Bye Sequence, Hello UUIDv7](https://buildkite.com/blog/goodbye-integers-hello-uuids)
+- [The Greenhouse Effect &lpar;1977&rpar; [pdf]](https://insideclimatenews.org/wp-content/uploads/2015/09/James-Black-1977-Presentation.pdf)
+- [Show HN: Create AI Optical Illusions](https://hidden-images.vercel.app/)
+- [Gamblers pull off the ‘perfect’ casino scam &lpar;1982&rpar;](https://lasvegassun.com/news/1982/jul/02/gamblers-pull-perfect-casino-scam/)
+- [Nvidia Unveils Updated GH200 Grace Hopper with HBM3e Memory, Shipping in Q2&#39;2024](https://www.anandtech.com/show/20001/nvidia-unveils-gh200-grace-hopper-gpu-with-hbm3e-memory)
+- [Identifying AI-generated images with SynthID](https://www.deepmind.com/blog/identifying-ai-generated-images-with-synthid)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

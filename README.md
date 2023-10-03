@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Critics Furious Microsoft Is Training AI by Sucking Up Water During Drought](https://futurism.com/critics-microsoft-water-train-ai-drought)
-- [LinkedIn forcing me to disclose my phone number to log in? No thanks](https://news.ycombinator.com/item?id=37732203)
-- [Intimacy does not scale &lpar;2021&rpar;](https://archive.ph/AUpYp)
-- [FBI warns “phantom” hacker scams are emptying financial accounts](https://www.tomsguide.com/news/fbi-issues-warning-over-phantom-hacker-scams-dont-fall-for-this)
-- [CISA, NSA, FBI Release Advisory Warning of BlackTech, PRC-Linked Cyber Activity](https://www.cisa.gov/news-events/news/cisa-nsa-fbi-and-japan-release-advisory-warning-blacktech-prc-linked-cyber-activity)
-- [My Dearest Data East: Why? Gate of Doom/Dark Seal](https://nicole.express/2023/im-gonna-open-the-doom-gate-now.html)
-- [Decomp me: Collaboratively decompile code in the browser](https://decomp.me/)
-- [Learn and Test DMARC](https://www.learndmarc.com)
-- [Spatial: A high-level language for programming accelerators](https://spatial-lang.org)
-- [12,000-year-old realistic human statue was unearthed](https://arkeonews.net/new-discoveries-in-gobeklitepe-and-karahantepe-a-human-sculpture-with-a-realistic-facial-expression-found-in-karahantepe/)
+- [Redfin Is Leaving the National Association of Realtors](https://www.redfin.com/news/redfin-is-leaving-nar/)
+- [MotionLM: Multi-Agent Motion Forecasting as Language Modeling](https://arxiv.org/abs/2309.16534)
+- [Days of Awe: The clinical trial drug that might save my husband&#39;s life](https://bessstillman.substack.com/p/days-of-awe-the-clinical-trial-drug)
+- [First blood test for dozens of hereditary cancers approved by FDA](https://www.insideprecisionmedicine.com/topics/oncology/first-blood-test-for-dozens-of-hereditary-cancers-approved-by-fda/)
+- [Microsoft CEO testifies that Google’s power in search is ubiquitous](https://www.nytimes.com/2023/10/02/technology/microsoft-ceo-testifies-google-search.html)
+- [Dead grandma locket request tricks Bing Chat’s AI into solving security puzzle](https://arstechnica.com/information-technology/2023/10/sob-story-about-dead-grandma-tricks-microsoft-ai-into-solving-captcha/)
+- [Local-first software: You own your data, in spite of the cloud &lpar;2019&rpar;](https://www.inkandswitch.com/local-first/)
+- [Wilhelm Reich on pleasure and the genesis of anxiety &lpar;2021&rpar;](https://epochemagazine.org/44/wilhelm-reich-on-pleasure-and-the-genesis-of-anxiety/)
+- [Show HN: Anything World – AI for 3D auto-rigging and animation](https://anything.world/)
+- [Polymath Robotics &lpar;YC S22&rpar; Is Hiring](https://www.ycombinator.com/companies/polymath-robotics/jobs/NM8JJ8C-robotics-engineer-in-san-francisco)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

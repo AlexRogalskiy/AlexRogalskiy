@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Tom Hanks says AI version of him used in dental plan ad without his consent](https://www.theguardian.com/film/2023/oct/02/tom-hanks-dental-ad-ai-version-fake)
-- [Biden urges Republicans to approve Ukraine aid, saying support cannot waver](https://www.theguardian.com/world/2023/oct/02/joe-biden-republicans-ukraine-aid-plan-volodymyr-zelenskiy)
-- [Russia-Ukraine war at a glance: what we know on day 586 of the invasion](https://www.theguardian.com/world/2023/oct/02/russia-ukraine-war-at-a-glance-what-we-know-on-day-586-of-the-invasion)
-- [No immediate plans to send British military instructors to Ukraine, says Rishi Sunak](https://www.theguardian.com/world/2023/oct/02/rishi-sunak-no-immediate-plans-to-send-british-military-instructors-to-ukraine)
-- [One-in-four new UK homeowners opt for ‘marathon mortgages’ to cut payments](https://www.theguardian.com/money/2023/oct/02/one-in-four-new-uk-homeowners-opt-for-marathon-mortgages-to-cut-payments)
-- [Catholic and C of E primary schools in England ‘take fewer Send pupils’](https://www.theguardian.com/education/2023/oct/02/catholic-and-c-of-e-primary-schools-in-england-take-fewer-send-pupils)
-- [Charity challenges home secretary’s claims about ‘economic migrants’](https://www.theguardian.com/politics/2023/oct/02/charity-challenges-home-secretarys-claims-about-economic-migrants)
-- [Shouting at children can be as damaging as physical or sexual abuse, study says](https://www.theguardian.com/society/2023/oct/02/shouting-at-children-can-be-as-damaging-as-physical-or-sexual-abuse-study-says)
-- [Half of UK firms open offices outside city centres, study claims](https://www.theguardian.com/business/2023/oct/02/half-of-uk-firms-open-offices-outside-city-centres-study-claims)
-- [Woman who escaped Lahaina wildfire by running through burning field dies](https://www.theguardian.com/us-news/2023/oct/01/lahaina-woman-burning-field-hawaii-wildfires)
+- [Out in the cold: the spy scandal gripping Denmark - podcast](https://www.theguardian.com/news/audio/2023/oct/03/out-in-the-cold-the-spy-scandal-gripping-denmark-podcast)
+- [Matt Gaetz introduces motion to oust Kevin McCarthy as House speaker](https://www.theguardian.com/us-news/2023/oct/02/matt-gaetz-remove-kevin-mccarthy-speaker-government-shutdown)
+- [Brazil expels illegal settlers from Indigenous lands in Amazon](https://www.theguardian.com/world/2023/oct/03/brazil-expels-non-indigenous-settlers-apyterewa-trincheira-bacaja-para)
+- [Russia-Ukraine war at a glance: what we know on day 587 of the invasion](https://www.theguardian.com/world/2023/oct/03/russia-ukraine-war-at-a-glance-what-we-know-on-day-587-of-the-invasion)
+- [Racism, threats and home invasions: candidates face abuse on New Zealand’s campaign trail](https://www.theguardian.com/world/2023/oct/03/racism-threats-and-home-invasions-candidates-face-abuse-on-new-zealands-campaign-trail)
+- [People jailed for killing their partner will lose parental rights, Tories to announce](https://www.theguardian.com/society/2023/oct/03/people-jailed-for-killing-their-partner-will-lose-parental-rights-tories-to-announce)
+- [UK food prices fall in September for first time in two years, figures show](https://www.theguardian.com/business/2023/oct/03/uk-food-prices-fall-september-first-time-two-years-british-retail-consortium-figures-show)
+- [Shortlisted TS Eliot prize poets speak to a disrupted world](https://www.theguardian.com/books/2023/oct/03/shortlisted-ts-eliot-prize-poets-sharon-olds-ishion-hutchinson)
+- [‘End the licences’: Vanuatu oil rig registry sparks concern amid climate advocacy](https://www.theguardian.com/world/2023/oct/03/end-the-licences-vanuatu-oil-rig-registry-sparks-concern-amid-climate-advocacy)
+- [Five years after killing a journalist in cold blood, Saudi Arabia is stronger than ever | Mohamad Bazzi](https://www.theguardian.com/commentisfree/2023/oct/02/five-years-after-killing-a-journalist-in-cold-blood-saudi-arabia-is-stronger-than-ever)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

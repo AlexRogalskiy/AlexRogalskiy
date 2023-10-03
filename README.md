@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
+- [Is that a hot iPhone 15 in your pocket, or... ?](https://www.computerworld.com/article/3707709/iphone-15-overheating-rumors.html#tk.rss_all)
+- [The antitrust suit against Google isn’t the DOJ-Microsoft fight redux](https://www.computerworld.com/article/3707309/the-antitrust-suit-against-google-isn-t-the-doj-microsoft-fight-redux.html#tk.rss_all)
+- [Will the FTC&#39;s Lina Khan succeed in breaking up Amazon?](https://www.computerworld.com/article/3707811/will-the-ftcs-lina-khan-succeed-in-breaking-up-amazon.html#tk.rss_all)
 - [JNUC 2023: The top 5 changes JAMF unveiled](https://www.computerworld.com/article/3707792/jnuc-2023-the-top-5-changes-jamf-unveiled.html#tk.rss_all)
 - [Meta Quest 3’s mixed reality ‘passthrough’ broadens workplace appeal](https://www.computerworld.com/article/3707810/meta-quest-3s-mixed-reality-passthrough-broadens-workplace-appeal.html#tk.rss_all)
 - [Meta challenges ChatGPT with chatbot, OpenAI fires back with new features](https://www.computerworld.com/article/3707828/meta-challenges-chatgpt-with-chatbot-openai-fires-back-with-new-features.html#tk.rss_all)
 - [Nvidia’s French offices raided for anticompetitive practices: Report](https://www.networkworld.com/article/3707869/nvidias-french-offices-raided-for-anticompetitive-practices-report.html#tk.rss_all)
 - [Google US antitrust trial: A timeline](https://www.computerworld.com/article/3706893/googles-us-antitrust-trials-a-timeline.html#tk.rss_all)
 - [FTC renews legal challenge to Microsoft’s $69B purchase of Activision](https://www.computerworld.com/article/3707789/ftc-renews-legal-challenge-to-microsofts-69b-purchase-of-activision.html#tk.rss_all)
-- [‘We hoped not to use WebKit at all,&#39; says Vivaldi CEO, as iOS browser ships](https://www.computerworld.com/article/3707768/we-hoped-not-to-use-webkit-at-all-says-vivaldi-ceo-as-ios-browser-ships.html#tk.rss_all)
-- [Wi-Fi 7 could make thin clients much more viable](https://www.computerworld.com/article/3707788/wi-fi-7-could-make-thin-clients-much-more-viable.html#tk.rss_all)
-- [Chip industry strains to meet AI-fueled demands — will smaller LLMs help?](https://www.computerworld.com/article/3707412/chip-industry-strains-to-meet-ai-fueled-demands-will-smaller-llms-help.html#tk.rss_all)
-- [Google to block Bard conversations from being indexed on Search](https://www.computerworld.com/article/3707730/google-to-block-bard-conversations-from-being-indexed-on-search.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

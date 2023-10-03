@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Artificial sweeteners: the health controversy that will not go away](https://www.ft.com/content/7d40bdcc-34b5-44c3-bf46-612ab47979e3)
-- [More vs. Better](https://seths.blog/2023/09/more-vs-better/)
-- [Getting JTAG on the iPhone 15 [video]](https://www.youtube.com/watch?v=D8UGlvBubkA)
-- [Covid-19 Virus Infects Coronary Vasculature](https://www.medscape.com/viewarticle/996964)
-- [Bye Sequence, Hello UUIDv7](https://buildkite.com/blog/goodbye-integers-hello-uuids)
-- [The Greenhouse Effect &lpar;1977&rpar; [pdf]](https://insideclimatenews.org/wp-content/uploads/2015/09/James-Black-1977-Presentation.pdf)
-- [Show HN: Create AI Optical Illusions](https://hidden-images.vercel.app/)
-- [Gamblers pull off the ‘perfect’ casino scam &lpar;1982&rpar;](https://lasvegassun.com/news/1982/jul/02/gamblers-pull-perfect-casino-scam/)
-- [Nvidia Unveils Updated GH200 Grace Hopper with HBM3e Memory, Shipping in Q2&#39;2024](https://www.anandtech.com/show/20001/nvidia-unveils-gh200-grace-hopper-gpu-with-hbm3e-memory)
-- [Identifying AI-generated images with SynthID](https://www.deepmind.com/blog/identifying-ai-generated-images-with-synthid)
+- [Hey, Computer, Make Me a Font](https://serce.me/posts/02-10-2023-hey-computer-make-me-a-font)
+- [Ask HN: Is GenAI heading for a crypto-esque bubble pop?](https://news.ycombinator.com/item?id=37747040)
+- [Ask HN: It&#39;s 2023. Why does Mac still have 2000s graphics games?](https://news.ycombinator.com/item?id=37747036)
+- [Streaming OpenAI to your Rails App &lpar;without turbo/WebSockets&rpar;](https://www.blandersoft.com/short/rails-open-stream-openai/)
+- [Eethylene copolymerization using a metallocene catalyst](https://phys.org/news/2023-09-insights-ethylene-copolymerization-linear-end-cyclized.html)
+- [Quantum Computers Could Crack Encryption Sooner Than Expected with New Algorithm](https://singularityhub.com/2023/10/02/quantum-computers-could-crack-encryption-sooner-than-expected-with-new-algorithm/)
+- [Aiochan: CSP-Style Concurrency for Python](https://github.com/zh217/aiochan)
+- [What was Elon Musk’s strategy for Twitter?](https://www.nbcnews.com/tech/was-elon-musks-strategy-twitter-rcna118490)
+- [Show HN: An AI Strategist for SaaS Growth Based on 1000 Case Studies](https://withmba.com?ref=hn)
+- [The Dawn of LMMs: Preliminary Explorations with GPT-4V&lpar;ision&rpar;](https://arxiv.org/abs/2309.17421)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

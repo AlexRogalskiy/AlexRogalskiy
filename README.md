@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Zoomtopia 2023: Zoom goes all-in on hybrid work as back-to-office mandates abound](https://www.computerworld.com/article/3707994/zoomtopia-2023-zoom-goes-all-in-on-hybrid-work-as-back-to-office-mandates-abound.html#tk.rss_all)
+- [Zoomtopia 2023: Zoom bets on AI with new Docs, AI Companion tools](https://www.computerworld.com/article/3707993/zoomtopia-2023-zoom-bets-on-ai-with-new-docs-ai-companion-tools.html#tk.rss_all)
+- [Zero trust and why it matters to the Apple enterprise](https://www.computerworld.com/article/3707712/why-zero-trust-matters-to-apple-enterprise.html#tk.rss_all)
+- [Japan invests $1.3 billion in Micron to subsidize chip manufacturing: Report](https://www.networkworld.com/article/3707970/japan-invests-13-billion-in-micron-to-subsidize-chip-manufacturing-report.html#tk.rss_all)
+- [Asana unveils new AI capabilities to help teams work smarter](https://www.computerworld.com/article/3707733/asana-unveils-new-ai-capabilities-to-help-teams-work-smarter.html#tk.rss_all)
+- [Microsoft puts its Cloud for Sovereignty in public preview](https://www.networkworld.com/article/3707731/microsoft-puts-its-cloud-for-sovereignty-in-public-preview.html#tk.rss_all)
+- [Microsoft’s Nadella: Google could lock up AI-enabled search](https://www.computerworld.com/article/3707732/microsofts-nadella-google-could-lock-up-ai-enabled-search.html#tk.rss_all)
+- [20 seconds to extreme Android awesomeness](https://www.computerworld.com/article/3707991/android-awesomeness.html#tk.rss_all)
+- [With AI, there’s a trust gap based on gender, age](https://www.computerworld.com/article/3707795/ai-trust-gap-based-on-gender-age.html#tk.rss_all)
 - [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
-- [Is that a hot iPhone 15 in your pocket, or... ?](https://www.computerworld.com/article/3707709/iphone-15-overheating-rumors.html#tk.rss_all)
-- [The antitrust suit against Google isn’t the DOJ-Microsoft fight redux](https://www.computerworld.com/article/3707309/the-antitrust-suit-against-google-isn-t-the-doj-microsoft-fight-redux.html#tk.rss_all)
-- [Will the FTC&#39;s Lina Khan succeed in breaking up Amazon?](https://www.computerworld.com/article/3707811/will-the-ftcs-lina-khan-succeed-in-breaking-up-amazon.html#tk.rss_all)
-- [JNUC 2023: The top 5 changes JAMF unveiled](https://www.computerworld.com/article/3707792/jnuc-2023-the-top-5-changes-jamf-unveiled.html#tk.rss_all)
-- [Meta Quest 3’s mixed reality ‘passthrough’ broadens workplace appeal](https://www.computerworld.com/article/3707810/meta-quest-3s-mixed-reality-passthrough-broadens-workplace-appeal.html#tk.rss_all)
-- [Meta challenges ChatGPT with chatbot, OpenAI fires back with new features](https://www.computerworld.com/article/3707828/meta-challenges-chatgpt-with-chatbot-openai-fires-back-with-new-features.html#tk.rss_all)
-- [Nvidia’s French offices raided for anticompetitive practices: Report](https://www.networkworld.com/article/3707869/nvidias-french-offices-raided-for-anticompetitive-practices-report.html#tk.rss_all)
-- [Google US antitrust trial: A timeline](https://www.computerworld.com/article/3706893/googles-us-antitrust-trials-a-timeline.html#tk.rss_all)
-- [FTC renews legal challenge to Microsoft’s $69B purchase of Activision](https://www.computerworld.com/article/3707789/ftc-renews-legal-challenge-to-microsofts-69b-purchase-of-activision.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

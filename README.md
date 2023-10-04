@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Out in the cold: the spy scandal gripping Denmark - podcast](https://www.theguardian.com/news/audio/2023/oct/03/out-in-the-cold-the-spy-scandal-gripping-denmark-podcast)
-- [Matt Gaetz introduces motion to oust Kevin McCarthy as House speaker](https://www.theguardian.com/us-news/2023/oct/02/matt-gaetz-remove-kevin-mccarthy-speaker-government-shutdown)
-- [Brazil expels illegal settlers from Indigenous lands in Amazon](https://www.theguardian.com/world/2023/oct/03/brazil-expels-non-indigenous-settlers-apyterewa-trincheira-bacaja-para)
-- [Russia-Ukraine war at a glance: what we know on day 587 of the invasion](https://www.theguardian.com/world/2023/oct/03/russia-ukraine-war-at-a-glance-what-we-know-on-day-587-of-the-invasion)
-- [Racism, threats and home invasions: candidates face abuse on New Zealand’s campaign trail](https://www.theguardian.com/world/2023/oct/03/racism-threats-and-home-invasions-candidates-face-abuse-on-new-zealands-campaign-trail)
-- [People jailed for killing their partner will lose parental rights, Tories to announce](https://www.theguardian.com/society/2023/oct/03/people-jailed-for-killing-their-partner-will-lose-parental-rights-tories-to-announce)
-- [UK food prices fall in September for first time in two years, figures show](https://www.theguardian.com/business/2023/oct/03/uk-food-prices-fall-september-first-time-two-years-british-retail-consortium-figures-show)
-- [Shortlisted TS Eliot prize poets speak to a disrupted world](https://www.theguardian.com/books/2023/oct/03/shortlisted-ts-eliot-prize-poets-sharon-olds-ishion-hutchinson)
-- [‘End the licences’: Vanuatu oil rig registry sparks concern amid climate advocacy](https://www.theguardian.com/world/2023/oct/03/end-the-licences-vanuatu-oil-rig-registry-sparks-concern-amid-climate-advocacy)
-- [Five years after killing a journalist in cold blood, Saudi Arabia is stronger than ever | Mohamad Bazzi](https://www.theguardian.com/commentisfree/2023/oct/02/five-years-after-killing-a-journalist-in-cold-blood-saudi-arabia-is-stronger-than-ever)
+- [HS2: how the costly rail project ran out of track](https://www.theguardian.com/news/audio/2023/oct/04/hs2-how-the-costly-rail-project-ran-out-of-track-podcast)
+- [Dom Phillips and Bruno Pereira’s alleged murderers to face jury trial](https://www.theguardian.com/world/2023/oct/04/javari-valley-amazon-murders-dom-phillips-bruno-pereira-fishermen-trial)
+- [Kevin McCarthy ousted as US House speaker by hard-right Republicans](https://www.theguardian.com/us-news/2023/oct/03/kevin-mccarthy-oust-republican-house-speaker-vote-result-matt-gaetz)
+- [Russia-Ukraine war at a glance: what we know on day 588 of the invasion](https://www.theguardian.com/world/2023/oct/04/russia-ukraine-war-at-a-glance-what-we-know-on-day-588-of-the-invasion)
+- [UK cost of diesel soars as RAC says petrol is ‘overpriced by about 7p a litre’](https://www.theguardian.com/money/2023/oct/04/uk-cost-of-diesel-soars-as-rac-says-petrol-is-overpriced-by-about-7p-a-litre)
+- [Female-founded AI startups win just 2% of funding deals in UK](https://www.theguardian.com/technology/2023/oct/04/female-founded-ai-startups-win-just-2-of-funding-deals-in-uk)
+- [Stephen Sondheim’s Old Friends review – merrily they roll along](https://www.theguardian.com/stage/2023/oct/04/stephen-sondheim-old-friends-review-gielgud-theatre-bernadette-peters-bonnie-langford)
+- [Boris Johnson’s decision-making was ‘bipolar’ during Covid, wrote Vallance](https://www.theguardian.com/uk-news/2023/oct/03/boris-johnsons-decision-making-was-bipolar-during-covid-says-top-adviser)
+- [‘We’ve got our club back’: Southend fans celebrate win and takeover deal](https://www.theguardian.com/football/2023/oct/03/weve-got-out-club-back-southend-fans-celebrate-win-and-takeover-deal)
+- [Leyton Orient v Lincoln called off after fans sit on pitch to flag medical emergency](https://www.theguardian.com/football/2023/oct/03/leyton-orient-v-lincoln-called-off-after-fans-sit-on-pitch-to-flag-medical-emergency)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

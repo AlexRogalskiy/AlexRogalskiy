@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Hey, Computer, Make Me a Font](https://serce.me/posts/02-10-2023-hey-computer-make-me-a-font)
-- [Ask HN: Is GenAI heading for a crypto-esque bubble pop?](https://news.ycombinator.com/item?id=37747040)
-- [Ask HN: It&#39;s 2023. Why does Mac still have 2000s graphics games?](https://news.ycombinator.com/item?id=37747036)
-- [Streaming OpenAI to your Rails App &lpar;without turbo/WebSockets&rpar;](https://www.blandersoft.com/short/rails-open-stream-openai/)
-- [Eethylene copolymerization using a metallocene catalyst](https://phys.org/news/2023-09-insights-ethylene-copolymerization-linear-end-cyclized.html)
-- [Quantum Computers Could Crack Encryption Sooner Than Expected with New Algorithm](https://singularityhub.com/2023/10/02/quantum-computers-could-crack-encryption-sooner-than-expected-with-new-algorithm/)
-- [Aiochan: CSP-Style Concurrency for Python](https://github.com/zh217/aiochan)
-- [What was Elon Musk’s strategy for Twitter?](https://www.nbcnews.com/tech/was-elon-musks-strategy-twitter-rcna118490)
-- [Show HN: An AI Strategist for SaaS Growth Based on 1000 Case Studies](https://withmba.com?ref=hn)
-- [The Dawn of LMMs: Preliminary Explorations with GPT-4V&lpar;ision&rpar;](https://arxiv.org/abs/2309.17421)
+- [Shift Happens is a beautifully designed history of how keyboards got this way](https://arstechnica.com/culture/2023/10/shift-happens-is-a-beautifully-designed-history-of-how-keyboards-got-this-way/)
+- [San Francisco Techie Tiny-Bed Pods That Went Viral Violate City’s Building Code](https://sfstandard.com/2023/10/03/techie-pods-violate-san-francisco-building-code/)
+- [What happens when renewable energy isn’t so cheap?](https://www.japantimes.co.jp/commentary/2023/09/28/renewable-energy-not-cheap/)
+- [Go-generate-fast – a go generate replacement with caching](https://github.com/oNaiPs/go-generate-fast)
+- [No One&#39;s Complaining](https://world.hey.com/jason/no-one-s-complaining-48a64c8b)
+- [Ask HN: A new convention around Show HN for open source projects](https://news.ycombinator.com/item?id=37759902)
+- [Dish Network to Pay First-of-Its-Kind Penalty over Space Junk](https://www.wsj.com/business/telecom/dish-network-to-pay-first-of-its-kind-penalty-over-space-junk-4ec228ee)
+- [Pretty good career and life advice](https://moxie.org/2013/01/07/career-advice.html)
+- [BBC Gives Up on Threads &lpar;By Instagram&rpar;, Sticks with Mastodon](https://darnell.day/bbc-gives-up-on-threads-by-instagram-sticks-with-mastodon)
+- [AR Glasses Spawn a Whole New Social Dynamic](https://spectrum.ieee.org/ar-glasses)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

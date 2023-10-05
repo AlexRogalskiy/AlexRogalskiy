@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [HS2: how the costly rail project ran out of track](https://www.theguardian.com/news/audio/2023/oct/04/hs2-how-the-costly-rail-project-ran-out-of-track-podcast)
-- [Dom Phillips and Bruno Pereira’s alleged murderers to face jury trial](https://www.theguardian.com/world/2023/oct/04/javari-valley-amazon-murders-dom-phillips-bruno-pereira-fishermen-trial)
-- [Kevin McCarthy ousted as US House speaker by hard-right Republicans](https://www.theguardian.com/us-news/2023/oct/03/kevin-mccarthy-oust-republican-house-speaker-vote-result-matt-gaetz)
-- [Russia-Ukraine war at a glance: what we know on day 588 of the invasion](https://www.theguardian.com/world/2023/oct/04/russia-ukraine-war-at-a-glance-what-we-know-on-day-588-of-the-invasion)
-- [UK cost of diesel soars as RAC says petrol is ‘overpriced by about 7p a litre’](https://www.theguardian.com/money/2023/oct/04/uk-cost-of-diesel-soars-as-rac-says-petrol-is-overpriced-by-about-7p-a-litre)
-- [Female-founded AI startups win just 2% of funding deals in UK](https://www.theguardian.com/technology/2023/oct/04/female-founded-ai-startups-win-just-2-of-funding-deals-in-uk)
-- [Stephen Sondheim’s Old Friends review – merrily they roll along](https://www.theguardian.com/stage/2023/oct/04/stephen-sondheim-old-friends-review-gielgud-theatre-bernadette-peters-bonnie-langford)
-- [Boris Johnson’s decision-making was ‘bipolar’ during Covid, wrote Vallance](https://www.theguardian.com/uk-news/2023/oct/03/boris-johnsons-decision-making-was-bipolar-during-covid-says-top-adviser)
-- [‘We’ve got our club back’: Southend fans celebrate win and takeover deal](https://www.theguardian.com/football/2023/oct/03/weve-got-out-club-back-southend-fans-celebrate-win-and-takeover-deal)
-- [Leyton Orient v Lincoln called off after fans sit on pitch to flag medical emergency](https://www.theguardian.com/football/2023/oct/03/leyton-orient-v-lincoln-called-off-after-fans-sit-on-pitch-to-flag-medical-emergency)
+- [Newborn dead, multiple people injured in Holyoke, Massachusetts, shooting](https://www.theguardian.com/us-news/2023/oct/04/holyoke-massachusetts-shooting-latest)
+- [‘Gobsmackingly bananas’: scientists stunned by planet’s record September heat](https://www.theguardian.com/environment/2023/oct/05/gobsmackingly-bananas-scientists-stunned-by-planets-record-september-heat)
+- [Do Rishi Sunak&#39;s new policies add up? - podcast](https://www.theguardian.com/news/audio/2023/oct/05/do-rishi-sunak-new-policies-add-up)
+- [Biden ‘worried’ that turmoil in Washington could disrupt US aid to Ukraine](https://www.theguardian.com/world/2023/oct/05/joe-biden-washington-turmoil-kevin-mccarthy-impact-ukraine)
+- [US supplies Ukraine with a million rounds of ammunition seized from Iran](https://www.theguardian.com/world/2023/oct/05/us-supplies-ukraine-with-ammunition-seized-from-iran)
+- [King Charles coins unveiled at Royal Australian Mint in Canberra](https://www.theguardian.com/australia-news/2023/oct/05/new-king-charles-image-coins-royal-australian-mint)
+- [Thousands evacuated on Tenerife as wildfire rages amid heatwave](https://www.theguardian.com/weather/2023/oct/05/tenerife-fires-wildfire-spain-canary-islands-heatwave-evacuation)
+- [Russia-Ukraine war at a glance: what we know on day 589 of the invasion](https://www.theguardian.com/world/2023/oct/05/russia-ukraine-war-at-a-glance-what-we-know-on-day-589-of-the-invasion)
+- [New Zealand’s crisis-hit farmers feel the gloom, potentially putting climate action in jeopardy](https://www.theguardian.com/world/2023/oct/05/new-zealands-crisis-hit-farmers-feel-the-gloom-potentially-putting-climate-action-in-jeopardy)
+- [England worst place in developed world to find housing, says report](https://www.theguardian.com/society/2023/oct/05/england-worst-place-in-developed-world-to-find-housing-says-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

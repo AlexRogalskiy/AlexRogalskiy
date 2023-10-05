@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Shift Happens is a beautifully designed history of how keyboards got this way](https://arstechnica.com/culture/2023/10/shift-happens-is-a-beautifully-designed-history-of-how-keyboards-got-this-way/)
-- [San Francisco Techie Tiny-Bed Pods That Went Viral Violate City’s Building Code](https://sfstandard.com/2023/10/03/techie-pods-violate-san-francisco-building-code/)
-- [What happens when renewable energy isn’t so cheap?](https://www.japantimes.co.jp/commentary/2023/09/28/renewable-energy-not-cheap/)
-- [Go-generate-fast – a go generate replacement with caching](https://github.com/oNaiPs/go-generate-fast)
-- [No One&#39;s Complaining](https://world.hey.com/jason/no-one-s-complaining-48a64c8b)
-- [Ask HN: A new convention around Show HN for open source projects](https://news.ycombinator.com/item?id=37759902)
-- [Dish Network to Pay First-of-Its-Kind Penalty over Space Junk](https://www.wsj.com/business/telecom/dish-network-to-pay-first-of-its-kind-penalty-over-space-junk-4ec228ee)
-- [Pretty good career and life advice](https://moxie.org/2013/01/07/career-advice.html)
-- [BBC Gives Up on Threads &lpar;By Instagram&rpar;, Sticks with Mastodon](https://darnell.day/bbc-gives-up-on-threads-by-instagram-sticks-with-mastodon)
-- [AR Glasses Spawn a Whole New Social Dynamic](https://spectrum.ieee.org/ar-glasses)
+- [But will it fit in a vending machine? Mint releases Canada-shaped $50 coin](https://www.ctvnews.ca/canada/but-will-it-fit-in-a-vending-machine-mint-releases-canada-shaped-50-coin-1.4509141?cache=)
+- [Experimenting with TCP Reset Attack](https://github.com/amircybersec/testlab)
+- [Books published in the erstwhile USSR and translated from the original Russian](https://archive.org/details/mir-titles)
+- [Men Flood Women&#39;s Job Fair After &#39;Lying&#39; About Being Nonbinary](https://www.newsweek.com/men-attend-women-job-fair-lie-about-being-nonbinary-1832042)
+- [Visual Studio Code September 2023](https://code.visualstudio.com/updates/v1_83)
+- [I&#39;m non-technical founder building an AI-powered Wellness Journal](https://news.ycombinator.com/item?id=37774142)
+- [Meta Reportedly Laying Off Custom Chip Staff](https://www.uploadvr.com/meta-laying-off-custom-silicon-engineers-qualcomm-partnership/)
+- [Storing data like Reddit for game dev with SQLite [video]](https://www.youtube.com/watch?v=GnJLZNvBv7o)
+- [Bandcamp Union Seeks Recognition from Company’s New Owner Songtradr](https://pitchfork.com/news/bandcamp-union-seeks-recognition-from-companys-new-owner-songtradr/)
+- [SF Startup Temple Linked to Russian Oligarch Heads to Auction at Steep Discount](https://sfstandard.com/2023/10/04/san-francisco-russian-oligarch-linked-tech-church-auction-sale/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

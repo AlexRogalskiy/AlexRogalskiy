@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [Message to IT: Yes, you should install Apple security updates](https://www.computerworld.com/article/3707870/message-to-it-yes-you-should-install-apple-security-updates.html#tk.rss_all)
+- [You&#39;re probably going to use Microsoft Copilot wrong](https://www.computerworld.com/article/3707969/microsoft-copilot.html#tk.rss_all)
+- [Meta to lay off staffers at its Facebook Agile Silicon Team: Report](https://www.computerworld.com/article/3707972/meta-to-lay-off-staffers-at-its-facebook-agile-silicon-team-report.html#tk.rss_all)
 - [Zoomtopia 2023: Zoom goes all-in on hybrid work as back-to-office mandates abound](https://www.computerworld.com/article/3707994/zoomtopia-2023-zoom-goes-all-in-on-hybrid-work-as-back-to-office-mandates-abound.html#tk.rss_all)
 - [Zoomtopia 2023: Zoom bets on AI with new Docs, AI Companion tools](https://www.computerworld.com/article/3707993/zoomtopia-2023-zoom-bets-on-ai-with-new-docs-ai-companion-tools.html#tk.rss_all)
 - [Zero trust and why it matters to the Apple enterprise](https://www.computerworld.com/article/3707712/why-zero-trust-matters-to-apple-enterprise.html#tk.rss_all)
 - [Japan invests $1.3 billion in Micron to subsidize chip manufacturing: Report](https://www.networkworld.com/article/3707970/japan-invests-13-billion-in-micron-to-subsidize-chip-manufacturing-report.html#tk.rss_all)
 - [Asana unveils new AI capabilities to help teams work smarter](https://www.computerworld.com/article/3707733/asana-unveils-new-ai-capabilities-to-help-teams-work-smarter.html#tk.rss_all)
 - [Microsoft puts its Cloud for Sovereignty in public preview](https://www.networkworld.com/article/3707731/microsoft-puts-its-cloud-for-sovereignty-in-public-preview.html#tk.rss_all)
-- [Microsoft’s Nadella: Google could lock up AI-enabled search](https://www.computerworld.com/article/3707732/microsofts-nadella-google-could-lock-up-ai-enabled-search.html#tk.rss_all)
-- [20 seconds to extreme Android awesomeness](https://www.computerworld.com/article/3707991/android-awesomeness.html#tk.rss_all)
-- [With AI, there’s a trust gap based on gender, age](https://www.computerworld.com/article/3707795/ai-trust-gap-based-on-gender-age.html#tk.rss_all)
-- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

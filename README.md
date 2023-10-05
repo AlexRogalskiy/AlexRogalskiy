@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [BBC Gives Up on Threads &lpar;By Instagram&rpar;, Sticks with Mastodon](https://darnell.day/bbc-gives-up-on-threads-by-instagram-sticks-with-mastodon)
-- [Ask HN: What software did you purchase that positively impacted your family life](https://news.ycombinator.com/item?id=37759759)
-- [D.C.&#39;s ban on cashless businesses takes effect](https://www.axios.com/local/washington-dc/2023/09/29/cashless-business-ban)
-- [Daisugi, the Japanese technique of growing trees out of other trees &lpar;2020&rpar;](https://www.openculture.com/2020/10/daisugi.html)
-- [Press Reviews of the AMD Ryzen 7040 Framework Laptop 13](https://frame.work/blog/reviews-of-framework-laptop-13-amd-ryzen-7040-series-are-live)
-- [Passive Solar Water Desalination](https://theness.com/neurologicablog/index.php/passive-solar-water-desalination/)
-- [Semantic Versioning 2.0 &lpar;2013&rpar;](https://semver.org/)
-- [Show HN: An app to create asynchronous micro podcasts](https://roadsaudio.com/)
-- [Show HN: Generate JSON mock data for testing/initial app development](https://www.jsongenerator.io/)
-- [Michael F. Flynn has died](http://tofspot.blogspot.com/2023/10/wonder-and-anticipation-likes-of-which.html)
+- [U.S. Tech Workers Are Experiencing a Drop in Salaries in the Bay Area](https://www.forbes.com/sites/jackkelly/2023/10/04/us-tech-workers-are-experiencing-a-drop-in-salaries-and-in-the-number-of-jobs-available-in-the-bay-area/)
+- [Divan: Fast and Simple Benchmarking for Rust](https://nikolaivazquez.com/blog/divan/)
+- [Tell HN: The popular Chrome extension ModHeader is injecting ads into searches](https://news.ycombinator.com/item?id=37772829)
+- [Qualcomm’s Hexagon DSP, and Now, NPU](https://chipsandcheese.com/2023/10/04/qualcomms-hexagon-dsp-and-now-npu/)
+- [AI beats human sleuth at finding problematic images in research papers](https://www.nature.com/articles/d41586-023-02920-y)
+- [Tesorio &lpar;YC S15&rpar; Is Hiring a Senior Data Engineer and Senior Back End Engineer in Latam](https://www.tesorio.com/careers#job-openings)
+- [The Diorama Engine](https://dioragame.com/devlog/?log=3)
+- [Ural Airlines is preparing to fly a stranded Airbus A320 out of a field](https://simpleflying.com/ural-airlines-prepares-fly-airbus-a320-from-field/)
+- [1.1.1.1 lookup failures on October 4th, 2023](https://blog.cloudflare.com/1-1-1-1-lookup-failures-on-october-4th-2023/)
+- [Expressive text-to-image generation with rich text](https://rich-text-to-image.github.io/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

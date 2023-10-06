@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [But will it fit in a vending machine? Mint releases Canada-shaped $50 coin](https://www.ctvnews.ca/canada/but-will-it-fit-in-a-vending-machine-mint-releases-canada-shaped-50-coin-1.4509141?cache=)
-- [Experimenting with TCP Reset Attack](https://github.com/amircybersec/testlab)
-- [Books published in the erstwhile USSR and translated from the original Russian](https://archive.org/details/mir-titles)
-- [Men Flood Women&#39;s Job Fair After &#39;Lying&#39; About Being Nonbinary](https://www.newsweek.com/men-attend-women-job-fair-lie-about-being-nonbinary-1832042)
-- [Visual Studio Code September 2023](https://code.visualstudio.com/updates/v1_83)
-- [I&#39;m non-technical founder building an AI-powered Wellness Journal](https://news.ycombinator.com/item?id=37774142)
-- [Meta Reportedly Laying Off Custom Chip Staff](https://www.uploadvr.com/meta-laying-off-custom-silicon-engineers-qualcomm-partnership/)
-- [Storing data like Reddit for game dev with SQLite [video]](https://www.youtube.com/watch?v=GnJLZNvBv7o)
-- [Bandcamp Union Seeks Recognition from Company’s New Owner Songtradr](https://pitchfork.com/news/bandcamp-union-seeks-recognition-from-companys-new-owner-songtradr/)
-- [SF Startup Temple Linked to Russian Oligarch Heads to Auction at Steep Discount](https://sfstandard.com/2023/10/04/san-francisco-russian-oligarch-linked-tech-church-auction-sale/)
+- [Communicative Agents for Software Development](https://arxiv.org/abs/2307.07924)
+- [“The Economics of Programming Languages” by Evan Czaplicki [video]](https://www.youtube.com/watch?v=XZ3w_jec1v8)
+- [U.S. transition to clean energy is happening faster than you think reporter says](https://www.npr.org/2023/10/05/1203846437/u-s-transition-to-clean-energy-is-happening-faster-than-you-think-reporter-says)
+- [Alternative to Democracy](https://en.wikipedia.org/wiki/Liquid_democracy)
+- [Toyota Thinks the Century SUV Will Attract Young Buyers, but Why?](https://www.thedrive.com/news/toyota-thinks-the-century-suv-will-attract-young-buyers-but-why)
+- [New footprint dates bolster claim that humans lived in Americas during Ice Age](https://www.science.org/content/article/new-footprint-dates-bolster-claim-human-arrival-americas-during-ice-age)
+- [Image Golf](https://imagegolf.io/)
+- [Scientists discover the highest energy gamma-rays ever from a pulsar](https://phys.org/news/2023-10-scientists-highest-energy-gamma-rays-pulsar.html)
+- [SEC seeks to force Elon Musk to testify in probe of Twitter stock purchases](https://www.ft.com/content/b20cbe77-51b1-40e2-926e-e8502cacc289)
+- [Oldest evidence of human cannibalism as a funerary practice](https://phys.org/news/2023-10-oldest-evidence-human-cannibalism-funerary.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

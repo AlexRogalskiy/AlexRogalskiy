@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Newborn dead, multiple people injured in Holyoke, Massachusetts, shooting](https://www.theguardian.com/us-news/2023/oct/04/holyoke-massachusetts-shooting-latest)
-- [‘Gobsmackingly bananas’: scientists stunned by planet’s record September heat](https://www.theguardian.com/environment/2023/oct/05/gobsmackingly-bananas-scientists-stunned-by-planets-record-september-heat)
-- [Do Rishi Sunak&#39;s new policies add up? - podcast](https://www.theguardian.com/news/audio/2023/oct/05/do-rishi-sunak-new-policies-add-up)
-- [Biden ‘worried’ that turmoil in Washington could disrupt US aid to Ukraine](https://www.theguardian.com/world/2023/oct/05/joe-biden-washington-turmoil-kevin-mccarthy-impact-ukraine)
-- [US supplies Ukraine with a million rounds of ammunition seized from Iran](https://www.theguardian.com/world/2023/oct/05/us-supplies-ukraine-with-ammunition-seized-from-iran)
-- [King Charles coins unveiled at Royal Australian Mint in Canberra](https://www.theguardian.com/australia-news/2023/oct/05/new-king-charles-image-coins-royal-australian-mint)
-- [Thousands evacuated on Tenerife as wildfire rages amid heatwave](https://www.theguardian.com/weather/2023/oct/05/tenerife-fires-wildfire-spain-canary-islands-heatwave-evacuation)
-- [Russia-Ukraine war at a glance: what we know on day 589 of the invasion](https://www.theguardian.com/world/2023/oct/05/russia-ukraine-war-at-a-glance-what-we-know-on-day-589-of-the-invasion)
-- [New Zealand’s crisis-hit farmers feel the gloom, potentially putting climate action in jeopardy](https://www.theguardian.com/world/2023/oct/05/new-zealands-crisis-hit-farmers-feel-the-gloom-potentially-putting-climate-action-in-jeopardy)
-- [England worst place in developed world to find housing, says report](https://www.theguardian.com/society/2023/oct/05/england-worst-place-in-developed-world-to-find-housing-says-report)
+- [Donald Trump allegedly shared potentially sensitive information about US nuclear submarines with Australian billionaire Anthony Pratt](https://www.theguardian.com/us-news/2023/oct/06/donald-trump-us-nuclear-submarines-potentially-sensitive-information-australian-billionaire-anthony-pratt)
+- [Why Britain is mourning the Sycamore Gap tree – podcast](https://www.theguardian.com/news/audio/2023/oct/06/why-britain-is-mourning-the-sycamore-gap-tree-podcast)
+- [‘Seismic night in Scotland’: Labour crushes SNP in Rutherglen and Hamilton West byelection](https://www.theguardian.com/politics/2023/oct/06/labour-beats-snp-in-rutherglen-and-hamilton-west-byelection-michael-shanks)
+- [Memorial honors trailblazing senator Dianne Feinstein: ‘She was a lioness’](https://www.theguardian.com/us-news/2023/oct/05/senator-dianne-feinstein-san-francisco-city-hall-memorial)
+- [Elon Musk under investigation by US agency for $44bn takeover of Twitter](https://www.theguardian.com/technology/2023/oct/05/elon-musk-investigation-securities-fraud-twitter-takeover)
+- [Russia-Ukraine war at a glance: what we know on day 590 of the invasion](https://www.theguardian.com/world/2023/oct/06/russia-ukraine-war-at-a-glance-what-we-know-on-day-590-of-the-invasion)
+- [Disruptive behaviour in English schools worse since Covid, says outgoing Ofsted head](https://www.theguardian.com/education/2023/oct/06/disruptive-behaviour-in-english-schools-worse-since-covid-says-outgoing-ofsted-head)
+- [Greens head to Brighton targeting four seats at next election](https://www.theguardian.com/politics/2023/oct/06/greens-head-to-brighton-targeting-four-seats-at-next-election)
+- [Extreme weather displaced 43m children in past six years, Unicef reports](https://www.theguardian.com/global-development/2023/oct/05/extreme-weather-climate-crisis-displaced-children-unicef-report)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2023/oct/06/premier-league-10-things-to-look-out-for-this-weekend)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

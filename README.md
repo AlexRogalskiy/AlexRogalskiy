@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Canva bolsters AI offerings, providing copyright indemnity for AI-generated images](https://www.computerworld.com/article/3708249/canva-bolsters-ai-offerings-providing-copyright-indemnity-for-ai-generated-images.html#tk.rss_all)
+- [Taiwan to investigate suppliers aiding Huawei in chipmaking: Report](https://www.computerworld.com/article/3708268/taiwan-to-investigate-suppliers-aiding-huawei-in-chipmaking-report.html#tk.rss_all)
+- [Are you looking forward to the new age of mobile app insecurity?](https://www.computerworld.com/article/3708248/are-you-looking-forward-to-the-new-age-of-mobile-app-insecurity.html#tk.rss_all)
+- [UK regulator launches antitrust probe into Microsoft and Amazon cloud services](https://www.networkworld.com/article/3708209/uk-regulator-launches-antitrust-probe-into-microsoft-and-amazon-cloud-services.html#tk.rss_all)
+- [Faced with back-to-office mandates, employees are ‘coffee badging’ office visits](https://www.computerworld.com/article/3707734/faced-with-back-to-office-mandates-employees-are-coffee-badging-office-visits.html#tk.rss_all)
+- [Bing, Bard updates fuel AI search war](https://www.computerworld.com/article/3708208/bing-bard-updates-fuel-ai-search-war.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [Message to IT: Yes, you should install Apple security updates](https://www.computerworld.com/article/3707870/message-to-it-yes-you-should-install-apple-security-updates.html#tk.rss_all)
 - [You&#39;re probably going to use Microsoft Copilot wrong](https://www.computerworld.com/article/3707969/microsoft-copilot.html#tk.rss_all)
 - [Meta to lay off staffers at its Facebook Agile Silicon Team: Report](https://www.computerworld.com/article/3707972/meta-to-lay-off-staffers-at-its-facebook-agile-silicon-team-report.html#tk.rss_all)
-- [Zoomtopia 2023: Zoom goes all-in on hybrid work as back-to-office mandates abound](https://www.computerworld.com/article/3707994/zoomtopia-2023-zoom-goes-all-in-on-hybrid-work-as-back-to-office-mandates-abound.html#tk.rss_all)
-- [Zoomtopia 2023: Zoom bets on AI with new Docs, AI Companion tools](https://www.computerworld.com/article/3707993/zoomtopia-2023-zoom-bets-on-ai-with-new-docs-ai-companion-tools.html#tk.rss_all)
-- [Zero trust and why it matters to the Apple enterprise](https://www.computerworld.com/article/3707712/why-zero-trust-matters-to-apple-enterprise.html#tk.rss_all)
-- [Japan invests $1.3 billion in Micron to subsidize chip manufacturing: Report](https://www.networkworld.com/article/3707970/japan-invests-13-billion-in-micron-to-subsidize-chip-manufacturing-report.html#tk.rss_all)
-- [Asana unveils new AI capabilities to help teams work smarter](https://www.computerworld.com/article/3707733/asana-unveils-new-ai-capabilities-to-help-teams-work-smarter.html#tk.rss_all)
-- [Microsoft puts its Cloud for Sovereignty in public preview](https://www.networkworld.com/article/3707731/microsoft-puts-its-cloud-for-sovereignty-in-public-preview.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

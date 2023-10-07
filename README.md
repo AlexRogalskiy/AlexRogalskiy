@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Donald Trump allegedly shared potentially sensitive information about US nuclear submarines with Australian billionaire Anthony Pratt](https://www.theguardian.com/us-news/2023/oct/06/donald-trump-us-nuclear-submarines-potentially-sensitive-information-australian-billionaire-anthony-pratt)
-- [Why Britain is mourning the Sycamore Gap tree – podcast](https://www.theguardian.com/news/audio/2023/oct/06/why-britain-is-mourning-the-sycamore-gap-tree-podcast)
-- [‘Seismic night in Scotland’: Labour crushes SNP in Rutherglen and Hamilton West byelection](https://www.theguardian.com/politics/2023/oct/06/labour-beats-snp-in-rutherglen-and-hamilton-west-byelection-michael-shanks)
-- [Memorial honors trailblazing senator Dianne Feinstein: ‘She was a lioness’](https://www.theguardian.com/us-news/2023/oct/05/senator-dianne-feinstein-san-francisco-city-hall-memorial)
-- [Elon Musk under investigation by US agency for $44bn takeover of Twitter](https://www.theguardian.com/technology/2023/oct/05/elon-musk-investigation-securities-fraud-twitter-takeover)
-- [Russia-Ukraine war at a glance: what we know on day 590 of the invasion](https://www.theguardian.com/world/2023/oct/06/russia-ukraine-war-at-a-glance-what-we-know-on-day-590-of-the-invasion)
-- [Disruptive behaviour in English schools worse since Covid, says outgoing Ofsted head](https://www.theguardian.com/education/2023/oct/06/disruptive-behaviour-in-english-schools-worse-since-covid-says-outgoing-ofsted-head)
-- [Greens head to Brighton targeting four seats at next election](https://www.theguardian.com/politics/2023/oct/06/greens-head-to-brighton-targeting-four-seats-at-next-election)
-- [Extreme weather displaced 43m children in past six years, Unicef reports](https://www.theguardian.com/global-development/2023/oct/05/extreme-weather-climate-crisis-displaced-children-unicef-report)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2023/oct/06/premier-league-10-things-to-look-out-for-this-weekend)
+- [Russia-Ukraine war at a glance: what we know on day 591 of the invasion](https://www.theguardian.com/world/2023/oct/07/russia-ukraine-war-at-a-glance-what-we-know-on-day-591-of-the-invasion)
+- [France closes seven schools over bedbug infestations](https://www.theguardian.com/world/2023/oct/07/france-closes-seven-schools-over-bedbug-infestations)
+- [US charges ex-intelligence officer with trying to give defence secrets to China](https://www.theguardian.com/us-news/2023/oct/07/us-charges-ex-intelligence-officer-with-trying-to-give-defence-secrets-to-china)
+- [Boy, 15, arrested after man stabbed to death in front of shoppers in Brixton](https://www.theguardian.com/uk-news/2023/oct/06/boy-15-arrested-after-man-stabbed-to-death-in-front-of-shoppers-in-brixon)
+- [The Reckoning first look – this Jimmy Savile drama contains some of TV’s most shocking scenes](https://www.theguardian.com/tv-and-radio/2023/oct/07/the-reckoning-first-look-jimmy-savile-steve-coogan-bbc)
+- [Australia’s emu war: John Cleese outrun in race to shoot movie of how flightless birds thwarted army’s machine guns](https://www.theguardian.com/australia-news/2023/oct/06/australias-emu-war-john-cleese-outrun-in-race-to-shoot-movie-of-how-flightless-birds-thwarted-armys-machine-guns)
+- [World gymnastics championships: women’s individual all-around final – in pictures](https://www.theguardian.com/sport/gallery/2023/oct/06/world-gymnastics-championships-womens-individual-all-around-final-in-pictures)
+- [Chris Grayling joins list of Tories standing down at next election](https://www.theguardian.com/politics/2023/oct/06/chris-grayling-joins-list-of-tories-standing-down-at-next-election)
+- [Simone Biles crowned all-around world champion for a record sixth time](https://www.theguardian.com/sport/2023/oct/06/simone-biles-crowned-all-around-world-champion-for-a-record-sixth-time)
+- [Drake to take break from music to focus on his health](https://www.theguardian.com/music/2023/oct/06/drake-says-he-will-take-musical-break-for-maybe-a-year)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

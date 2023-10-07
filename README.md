@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Communicative Agents for Software Development](https://arxiv.org/abs/2307.07924)
-- [“The Economics of Programming Languages” by Evan Czaplicki [video]](https://www.youtube.com/watch?v=XZ3w_jec1v8)
-- [U.S. transition to clean energy is happening faster than you think reporter says](https://www.npr.org/2023/10/05/1203846437/u-s-transition-to-clean-energy-is-happening-faster-than-you-think-reporter-says)
-- [Alternative to Democracy](https://en.wikipedia.org/wiki/Liquid_democracy)
-- [Toyota Thinks the Century SUV Will Attract Young Buyers, but Why?](https://www.thedrive.com/news/toyota-thinks-the-century-suv-will-attract-young-buyers-but-why)
-- [New footprint dates bolster claim that humans lived in Americas during Ice Age](https://www.science.org/content/article/new-footprint-dates-bolster-claim-human-arrival-americas-during-ice-age)
-- [Image Golf](https://imagegolf.io/)
-- [Scientists discover the highest energy gamma-rays ever from a pulsar](https://phys.org/news/2023-10-scientists-highest-energy-gamma-rays-pulsar.html)
-- [SEC seeks to force Elon Musk to testify in probe of Twitter stock purchases](https://www.ft.com/content/b20cbe77-51b1-40e2-926e-e8502cacc289)
-- [Oldest evidence of human cannibalism as a funerary practice](https://phys.org/news/2023-10-oldest-evidence-human-cannibalism-funerary.html)
+- [OS X Sonoma terms and conditions](https://news.ycombinator.com/item?id=37798446)
+- [GRB 221009A](https://en.wikipedia.org/wiki/GRB_221009A)
+- [Interesting use of that hidden symbol AI steganography](https://twitter.com/jjohnpotter/status/1710464355035394334)
+- [Llama Impact Grants](https://ai.meta.com/llama/llama-impact-grants/)
+- [Unified analytics and IaC framework for cloud, IdP, and SaaS providers using SQL](https://github.com/stackql/stackql)
+- [Bus Stop Stolen in Indian Silicon Valley, Bengaluru](https://www.hindustantimes.com/cities/bengaluru-news/bus-stop-worth-rs-10-lakh-stolen-in-bengaluru-cops-launch-probe-report-101696578267376.html)
+- [How to hit $2M ARR – David Park](https://twitter.com/Davidjpark96/status/1710076829766451647)
+- [iOS 17 forces woman named &#39;Siri&#39; to change her name](https://www.cultofmac.com/833118/ios-17-forces-woman-named-siri-to-change-her-name/)
+- [Waveguides can be laser-written into SiC for photonic circuits &lpar;2020&rpar;](https://www.laserfocusworld.com/optics/article/14170176/waveguides-can-be-laserwritten-into-silicon-carbide-for-photonic-circuits)
+- [Arnold Schwarzenegger has one main guiding principle: &#39;Be Useful&#39;](https://www.npr.org/2023/10/06/1203694351/arnold-schwarzenegger-has-one-main-guiding-principle-be-useful)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

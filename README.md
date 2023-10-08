@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war at a glance: what we know on day 591 of the invasion](https://www.theguardian.com/world/2023/oct/07/russia-ukraine-war-at-a-glance-what-we-know-on-day-591-of-the-invasion)
-- [France closes seven schools over bedbug infestations](https://www.theguardian.com/world/2023/oct/07/france-closes-seven-schools-over-bedbug-infestations)
-- [US charges ex-intelligence officer with trying to give defence secrets to China](https://www.theguardian.com/us-news/2023/oct/07/us-charges-ex-intelligence-officer-with-trying-to-give-defence-secrets-to-china)
-- [Boy, 15, arrested after man stabbed to death in front of shoppers in Brixton](https://www.theguardian.com/uk-news/2023/oct/06/boy-15-arrested-after-man-stabbed-to-death-in-front-of-shoppers-in-brixon)
-- [The Reckoning first look – this Jimmy Savile drama contains some of TV’s most shocking scenes](https://www.theguardian.com/tv-and-radio/2023/oct/07/the-reckoning-first-look-jimmy-savile-steve-coogan-bbc)
-- [Australia’s emu war: John Cleese outrun in race to shoot movie of how flightless birds thwarted army’s machine guns](https://www.theguardian.com/australia-news/2023/oct/06/australias-emu-war-john-cleese-outrun-in-race-to-shoot-movie-of-how-flightless-birds-thwarted-armys-machine-guns)
-- [World gymnastics championships: women’s individual all-around final – in pictures](https://www.theguardian.com/sport/gallery/2023/oct/06/world-gymnastics-championships-womens-individual-all-around-final-in-pictures)
-- [Chris Grayling joins list of Tories standing down at next election](https://www.theguardian.com/politics/2023/oct/06/chris-grayling-joins-list-of-tories-standing-down-at-next-election)
-- [Simone Biles crowned all-around world champion for a record sixth time](https://www.theguardian.com/sport/2023/oct/06/simone-biles-crowned-all-around-world-champion-for-a-record-sixth-time)
-- [Drake to take break from music to focus on his health](https://www.theguardian.com/music/2023/oct/06/drake-says-he-will-take-musical-break-for-maybe-a-year)
+- [Benjamin Netanyahu speaks of ‘long and difficult war’ ahead; Israel says civilians and soldiers held hostage in Gaza – live](https://www.theguardian.com/world/live/2023/oct/07/hamas-launches-attack-on-israel-with-5000-rockets-live)
+- [Russia-Ukraine war at a glance: what we know on day 592 of the invasion](https://www.theguardian.com/world/2023/oct/08/russia-ukraine-war-at-a-glance-what-we-know-on-day-592-of-the-invasion)
+- [The Great Escaper review – Michael Caine is gruffly heartbreaking in this veteran adventure](https://www.theguardian.com/film/2023/oct/08/the-great-escaper-review-michael-caine-glenda-jackson-d-day)
+- [Ireland are on a different wavelength and loving the big stage at last | Jonathan Liew](https://www.theguardian.com/sport/blog/2023/oct/07/ireland-are-on-a-different-wavelength-than-scotland-and-relish-big-stage-rugby-world-cup)
+- [Leigh Wood stops Josh Warrington in seventh round to retain world title](https://www.theguardian.com/sport/2023/oct/07/leigh-wood-stops-josh-warrington-in-seventh-round-to-retain-world-title)
+- [Trend watch: the half-zip sweater](https://www.theguardian.com/fashion/2023/oct/07/trend-watch-the-half-zip-sweater)
+- [Met increases patrols in London after reports of Israel attack celebrations](https://www.theguardian.com/uk-news/2023/oct/07/met-increases-patrols-in-london-after-reports-of-israel-attack-celebrations)
+- [California nearly decriminalizes psychedelics – but governor hits brakes](https://www.theguardian.com/us-news/2023/oct/07/california-governor-vetoes-bill-to-decriminalize-natural-psychedelic-drugs)
+- [Ex-wife of Boris Johnson to help Labour protect women from bullying at work](https://www.theguardian.com/society/2023/oct/07/ex-wife-of-boris-johnson-to-help-labour-protect-women-from-bullying-at-work)
+- [Dozens of people killed after powerful earthquakes hit Afghanistan, UN says](https://www.theguardian.com/world/2023/oct/07/western-afghanistan-hit-by-series-of-powerful-earthquakes)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

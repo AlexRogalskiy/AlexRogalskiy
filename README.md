@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [RISC-V chip technology emerges as new battleground in US-China tech war](https://www.reuters.com/technology/us-china-tech-war-risc-v-chip-technology-emerges-new-battleground-2023-10-06/)
-- [Half a Million Kinksters Can&#39;t Be Wrong](https://asteriskmag.com/issues/04/half-a-million-kinksters-can-t-be-wrong)
-- [Emacs and shellcheck](https://amitp.blogspot.com/2023/10/emacs-and-shellcheck.html)
-- [Universal Core Gains Nvidia Support](https://universal-blue.org/blog/2023/10/06/universal-core-gains-nvidia-support/)
-- [Braid Is Dead, Long Live Braid](https://amandapeyton.com/blog/2023/10/braid-is-dead-long-live-braid/)
-- [Android devices with backdoored firmware found in US schools](https://www.securityweek.com/android-devices-with-backdoored-firmware-found-in-us-schools/)
-- [Show HN: Multiplayer game engine with 120fps and 2 second load time on the web](https://dotbigbang.com/game/1af877e9bfdb47088611f55982b7570f/prestons-diamond-wars?mp=playdw)
-- [11 years of SaaS product strategy](https://ghiculescu.substack.com/p/11-years-of-saas-product-strategy)
-- [SlowLlama: Finetune llama2-70B and codellama on MacBook Air without quantization](https://github.com/okuvshynov/slowllama)
-- [Lasers deflected using air](https://www.desy.de/news/news_search/index_eng.html?openDirectAnchor=2951&two_columns=0)
+- [When 80 percent of US generals go to work for arms makers](https://responsiblestatecraft.org/pentagon-revolving-door/)
+- [Organization Probably Doesn&#39;t Want to Improve Things](https://ludic.mataroa.blog/blog/your-organization-probably-doesnt-want-to-improve-things/)
+- [Decomposing Language Models into Understandable Components](https://www.anthropic.com/index/decomposing-language-models-into-understandable-components)
+- [Newsom vetoes a proposed ban on caste discrimination in California](https://www.politico.com/news/2023/10/07/newsom-veto-caste-discrimination-00120495)
+- [California nearly decriminalizes psychedelics – but governor hits brakes](https://www.theguardian.com/us-news/2023/oct/07/california-governor-vetoes-bill-to-decriminalize-natural-psychedelic-drugs)
+- [Internet traffic impacted in Palestine after attacks. Some ISPs are offline](https://twitter.com/CloudflareRadar/status/1710796767288021225?s=20)
+- [Amazon launches its Bedrock generative AI service in general availability](https://techcrunch.com/2023/09/28/amazon-launches-its-bedrock-generative-ai-service-in-general-availability/)
+- [Permission Slip: Consumer Reports app to take back control of your data](https://permissionslipcr.com/)
+- [HVM updates: simplifications, finally runs on GPUs, 80x speedup on RTX 4090](https://twitter.com/VictorTaelin/status/1710766199288570079)
+- [Council of Europe says 5 governments must investigate Pegasus spyware abuse](https://pace.coe.int/en/news/9186/five-member-states-must-investigate-spyware-abuse-says-pace-committee)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

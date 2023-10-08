@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [OS X Sonoma terms and conditions](https://news.ycombinator.com/item?id=37798446)
-- [GRB 221009A](https://en.wikipedia.org/wiki/GRB_221009A)
-- [Interesting use of that hidden symbol AI steganography](https://twitter.com/jjohnpotter/status/1710464355035394334)
-- [Llama Impact Grants](https://ai.meta.com/llama/llama-impact-grants/)
-- [Unified analytics and IaC framework for cloud, IdP, and SaaS providers using SQL](https://github.com/stackql/stackql)
-- [Bus Stop Stolen in Indian Silicon Valley, Bengaluru](https://www.hindustantimes.com/cities/bengaluru-news/bus-stop-worth-rs-10-lakh-stolen-in-bengaluru-cops-launch-probe-report-101696578267376.html)
-- [How to hit $2M ARR – David Park](https://twitter.com/Davidjpark96/status/1710076829766451647)
-- [iOS 17 forces woman named &#39;Siri&#39; to change her name](https://www.cultofmac.com/833118/ios-17-forces-woman-named-siri-to-change-her-name/)
-- [Waveguides can be laser-written into SiC for photonic circuits &lpar;2020&rpar;](https://www.laserfocusworld.com/optics/article/14170176/waveguides-can-be-laserwritten-into-silicon-carbide-for-photonic-circuits)
-- [Arnold Schwarzenegger has one main guiding principle: &#39;Be Useful&#39;](https://www.npr.org/2023/10/06/1203694351/arnold-schwarzenegger-has-one-main-guiding-principle-be-useful)
+- [You&#39;re not going to like what comes after Pax Americana](https://www.noahpinion.blog/p/youre-not-going-to-like-what-comes)
+- [Before Skynet and the Matrix, This 50-Year-Old Movie Predicted the Rise of AI](https://www.ign.com/articles/colossus-the-forbin-project-ai-sci-fi-movie)
+- [Updated Debian 12: 12.2 released](https://www.debian.org/News/2023/20231007)
+- [MIT creates an implantable device that produces insulin](https://news.mit.edu/2023/implantable-device-enable-injection-free-control-diabetes-0918)
+- [Updated Debian 11: 11.8 released](https://www.debian.org/News/2023/2023100702)
+- [Texas Grid Operator Gave Bitcoin Miner Millions to Cut Summertime Power Use](https://themessenger.com/business/texas-energy-grid-operator-gave-bitcoin-miner-millions-to-cut-summertime-power-use)
+- [Fine-tuning Llama 2 70B using PyTorch FSDP](https://huggingface.co/blog/ram-efficient-pytorch-fsdp)
+- [Neuralink implant ruptured monkey&#39;s brain](https://futurism.com/neoscope/neuralink-implant-ruptured-monkeys-brain)
+- [Debugging my daughter&#39;s broken e-reader](https://technicallychallenged.substack.com/p/debugging-my-daughters-broken-e-reader)
+- [I am using promissory note for small amounts as tissue paper](https://news.ycombinator.com/item?id=37807189)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

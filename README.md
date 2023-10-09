@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [When 80 percent of US generals go to work for arms makers](https://responsiblestatecraft.org/pentagon-revolving-door/)
-- [Organization Probably Doesn&#39;t Want to Improve Things](https://ludic.mataroa.blog/blog/your-organization-probably-doesnt-want-to-improve-things/)
-- [Decomposing Language Models into Understandable Components](https://www.anthropic.com/index/decomposing-language-models-into-understandable-components)
-- [Newsom vetoes a proposed ban on caste discrimination in California](https://www.politico.com/news/2023/10/07/newsom-veto-caste-discrimination-00120495)
-- [California nearly decriminalizes psychedelics – but governor hits brakes](https://www.theguardian.com/us-news/2023/oct/07/california-governor-vetoes-bill-to-decriminalize-natural-psychedelic-drugs)
-- [Internet traffic impacted in Palestine after attacks. Some ISPs are offline](https://twitter.com/CloudflareRadar/status/1710796767288021225?s=20)
-- [Amazon launches its Bedrock generative AI service in general availability](https://techcrunch.com/2023/09/28/amazon-launches-its-bedrock-generative-ai-service-in-general-availability/)
-- [Permission Slip: Consumer Reports app to take back control of your data](https://permissionslipcr.com/)
-- [HVM updates: simplifications, finally runs on GPUs, 80x speedup on RTX 4090](https://twitter.com/VictorTaelin/status/1710766199288570079)
-- [Council of Europe says 5 governments must investigate Pegasus spyware abuse](https://pace.coe.int/en/news/9186/five-member-states-must-investigate-spyware-abuse-says-pace-committee)
+- [California governor vetoes bill that would have set a $35 cap for insulin](https://www.theguardian.com/us-news/2023/oct/08/gavin-newsom-california-insulin-bill-35-dollar-cap)
+- [Review of the .nz DNSSEC Chain Validation Incident on 29-30 May 2023 [pdf]](https://internetnz.nz/assets/Archives/External-report-on-nz-DNSSEC-chain-validation-incident-on-May-2023.pdf)
+- [My personal C coding style as of late 2023](https://nullprogram.com/blog/2023/10/08/)
+- [Self-Hosting &lpar;Almost&rpar; All the Way Down [video]](https://archive.fosdem.org/2023/schedule/event/rv_selfhosting_all_the_way_down/)
+- [MiniDisc Hacking](https://www.sharoma.com/minidisc/hacking.htm)
+- [Epic Games Sale of Bandcamp Has Left the Artist-Friendly Music Platform in Limbo](https://www.wired.com/story/epic-games-sale-bandcamp-music-platform-limbo/)
+- [Forty years of programming](https://fabiensanglard.net/40/index.html)
+- [Speeding up the JavaScript ecosystem – The barrel file debacle](https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-7/)
+- [Metals Fuse Together in Space](https://www.spacecentre.nz/resources/facts/physics/metals-fuse.html)
+- [Demo-driven development &lpar;2021&rpar;](https://www.rubick.com/demo-driven-development/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [You&#39;re not going to like what comes after Pax Americana](https://www.noahpinion.blog/p/youre-not-going-to-like-what-comes)
-- [Before Skynet and the Matrix, This 50-Year-Old Movie Predicted the Rise of AI](https://www.ign.com/articles/colossus-the-forbin-project-ai-sci-fi-movie)
-- [Updated Debian 12: 12.2 released](https://www.debian.org/News/2023/20231007)
-- [MIT creates an implantable device that produces insulin](https://news.mit.edu/2023/implantable-device-enable-injection-free-control-diabetes-0918)
-- [Updated Debian 11: 11.8 released](https://www.debian.org/News/2023/2023100702)
-- [Texas Grid Operator Gave Bitcoin Miner Millions to Cut Summertime Power Use](https://themessenger.com/business/texas-energy-grid-operator-gave-bitcoin-miner-millions-to-cut-summertime-power-use)
-- [Fine-tuning Llama 2 70B using PyTorch FSDP](https://huggingface.co/blog/ram-efficient-pytorch-fsdp)
-- [Neuralink implant ruptured monkey&#39;s brain](https://futurism.com/neoscope/neuralink-implant-ruptured-monkeys-brain)
-- [Debugging my daughter&#39;s broken e-reader](https://technicallychallenged.substack.com/p/debugging-my-daughters-broken-e-reader)
-- [I am using promissory note for small amounts as tissue paper](https://news.ycombinator.com/item?id=37807189)
+- [Researchers develop liquid metal circuits for flexible, self-healing wearables](https://techxplore.com/news/2023-10-liquid-metal-circuits-flexible-self-healing.html)
+- [NAS Daily: I view myself as an &#39;Israeli-Palestinian.&#39; Israeli first](https://www.jpost.com/israel-news/article-765293)
+- [NSFW AI Tools](https://tooldirectory.ai/best-ai-collections/top-nsfw-ai-art-generators-your-gateway-to-explicit-art-creation-introduction)
+- [OpenAI Cookbook](https://cookbook.openai.com/)
+- [First robot that could replace many warehouse workers](https://twitter.com/rowancheung/status/1709600092661952782)
+- [Ask HN: Possible to make a game engine in the browser?](https://news.ycombinator.com/item?id=37816195)
+- [Has anyone trained a specific offline LLM model to act as a Linux helpdesk?](https://news.ycombinator.com/item?id=37816173)
+- [The Origins of Doxing](https://twitter.com/123456/status/1711188780973957430)
+- [Reddit – Hot takes or unpopular opinions that you want r/DevOps users to hear?](https://old.reddit.com/r/devops/login/)
+- [Is a $1M Splunk bill worth it? – SigNoz](https://signoz.io/blog/justifying-a-million-dollar-observability-bill/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

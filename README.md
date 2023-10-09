@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Benjamin Netanyahu speaks of ‘long and difficult war’ ahead; Israel says civilians and soldiers held hostage in Gaza – live](https://www.theguardian.com/world/live/2023/oct/07/hamas-launches-attack-on-israel-with-5000-rockets-live)
-- [Russia-Ukraine war at a glance: what we know on day 592 of the invasion](https://www.theguardian.com/world/2023/oct/08/russia-ukraine-war-at-a-glance-what-we-know-on-day-592-of-the-invasion)
-- [The Great Escaper review – Michael Caine is gruffly heartbreaking in this veteran adventure](https://www.theguardian.com/film/2023/oct/08/the-great-escaper-review-michael-caine-glenda-jackson-d-day)
-- [Ireland are on a different wavelength and loving the big stage at last | Jonathan Liew](https://www.theguardian.com/sport/blog/2023/oct/07/ireland-are-on-a-different-wavelength-than-scotland-and-relish-big-stage-rugby-world-cup)
-- [Leigh Wood stops Josh Warrington in seventh round to retain world title](https://www.theguardian.com/sport/2023/oct/07/leigh-wood-stops-josh-warrington-in-seventh-round-to-retain-world-title)
-- [Trend watch: the half-zip sweater](https://www.theguardian.com/fashion/2023/oct/07/trend-watch-the-half-zip-sweater)
-- [Met increases patrols in London after reports of Israel attack celebrations](https://www.theguardian.com/uk-news/2023/oct/07/met-increases-patrols-in-london-after-reports-of-israel-attack-celebrations)
-- [California nearly decriminalizes psychedelics – but governor hits brakes](https://www.theguardian.com/us-news/2023/oct/07/california-governor-vetoes-bill-to-decriminalize-natural-psychedelic-drugs)
-- [Ex-wife of Boris Johnson to help Labour protect women from bullying at work](https://www.theguardian.com/society/2023/oct/07/ex-wife-of-boris-johnson-to-help-labour-protect-women-from-bullying-at-work)
-- [Dozens of people killed after powerful earthquakes hit Afghanistan, UN says](https://www.theguardian.com/world/2023/oct/07/western-afghanistan-hit-by-series-of-powerful-earthquakes)
+- [Israel-Hamas war live: 260 bodies recovered from music festival, says Israeli rescue service](https://www.theguardian.com/world/live/2023/oct/08/israel-hamas-war-live-updates-palestinian-attack-october-2023-gaza-conflict-hostages-latest-news)
+- [Fifa’s relaxed stadium rule clears path for Saudi Arabia to host 2034 World Cup](https://www.theguardian.com/football/2023/oct/09/fifa-stadium-rule-relaxed-saudi-arabia-world-cup-2034)
+- [From Blair to Starmer: Labour’s path to power, part 1 – podcast](https://www.theguardian.com/news/audio/2023/oct/09/from-blair-to-starmer-labour-path-to-power-part-1-podcast)
+- [Russia-Ukraine war at a glance: what we know on day 593 of the invasion](https://www.theguardian.com/world/2023/oct/09/russia-ukraine-war-at-a-glance-what-we-know-on-day-593-of-the-invasion)
+- [Ireland scalp is the one the All Blacks want as they rediscover their mojo | Robert Kitson](https://www.theguardian.com/sport/2023/oct/09/ireland-scalp-is-the-one-the-all-blacks-want-as-they-rediscover-their-mojo-rugby-world-cup)
+- [Xi Jinping’s wants a ‘multipolar world’, as China accelerates its shift away from the west](https://www.theguardian.com/world/2023/oct/09/xi-jinpings-wants-a-multipolar-world-as-china-accelerates-its-shift-away-from-the-west)
+- [Luxembourg election delivers likely return to power for conservative CSV party](https://www.theguardian.com/world/2023/oct/08/luxembourg-election-delivers-likely-return-to-power-for-centre-right)
+- [Archaeologists uncover rare 18th-century cold bath under Bath Assembly Rooms](https://www.theguardian.com/science/2023/oct/08/archaeologists-uncover-rare-18th-century-cold-bath-under-bath-assembly-rooms)
+- [Inquiry to open into claims British soldiers summarily killed 80 Afghans](https://www.theguardian.com/uk-news/2023/oct/09/public-inquiry-to-open-claims-british-sas-soldiers-summary-killings-afghanistan)
+- [European roundup: Barcelona’s Yamal becomes La Liga’s youngest scorer](https://www.theguardian.com/football/2023/oct/08/european-roundup-coman-leads-bayern-munich-to-easy-freiburg-victory)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

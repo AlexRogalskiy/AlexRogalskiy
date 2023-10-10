@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Israel-Hamas war live: 260 bodies recovered from music festival, says Israeli rescue service](https://www.theguardian.com/world/live/2023/oct/08/israel-hamas-war-live-updates-palestinian-attack-october-2023-gaza-conflict-hostages-latest-news)
-- [Fifa’s relaxed stadium rule clears path for Saudi Arabia to host 2034 World Cup](https://www.theguardian.com/football/2023/oct/09/fifa-stadium-rule-relaxed-saudi-arabia-world-cup-2034)
-- [From Blair to Starmer: Labour’s path to power, part 1 – podcast](https://www.theguardian.com/news/audio/2023/oct/09/from-blair-to-starmer-labour-path-to-power-part-1-podcast)
-- [Russia-Ukraine war at a glance: what we know on day 593 of the invasion](https://www.theguardian.com/world/2023/oct/09/russia-ukraine-war-at-a-glance-what-we-know-on-day-593-of-the-invasion)
-- [Ireland scalp is the one the All Blacks want as they rediscover their mojo | Robert Kitson](https://www.theguardian.com/sport/2023/oct/09/ireland-scalp-is-the-one-the-all-blacks-want-as-they-rediscover-their-mojo-rugby-world-cup)
-- [Xi Jinping’s wants a ‘multipolar world’, as China accelerates its shift away from the west](https://www.theguardian.com/world/2023/oct/09/xi-jinpings-wants-a-multipolar-world-as-china-accelerates-its-shift-away-from-the-west)
-- [Luxembourg election delivers likely return to power for conservative CSV party](https://www.theguardian.com/world/2023/oct/08/luxembourg-election-delivers-likely-return-to-power-for-centre-right)
-- [Archaeologists uncover rare 18th-century cold bath under Bath Assembly Rooms](https://www.theguardian.com/science/2023/oct/08/archaeologists-uncover-rare-18th-century-cold-bath-under-bath-assembly-rooms)
-- [Inquiry to open into claims British soldiers summarily killed 80 Afghans](https://www.theguardian.com/uk-news/2023/oct/09/public-inquiry-to-open-claims-british-sas-soldiers-summary-killings-afghanistan)
-- [European roundup: Barcelona’s Yamal becomes La Liga’s youngest scorer](https://www.theguardian.com/football/2023/oct/08/european-roundup-coman-leads-bayern-munich-to-easy-freiburg-victory)
+- [Israel-Hamas war live: Netanyahu says Israel’s siege ‘just getting started’; Hamas threatens hostage executions](https://www.theguardian.com/world/live/2023/oct/09/israel-hamas-war-live-updates-news-worst-day-israeli-history-idf-fighting-grinds-on-gaza-conflict-supernova)
+- [From Blair to Starmer: Labour’s path to power – part 2](https://www.theguardian.com/news/audio/2023/oct/10/from-blair-to-starmer-labour-path-to-power-part-2-podcast)
+- [U2 change lyrics to Pride to honour ‘beautiful kids’ killed at Israeli music festival](https://www.theguardian.com/music/2023/oct/10/u2-changes-lyrics-song-pride-israeli-music-festival-supernova)
+- [Squash goals: Minnesota man’s 2,749lb pumpkin sets world record](https://www.theguardian.com/us-news/2023/oct/09/pumpkin-world-record-travis-gienger-half-moon-bay)
+- [‘Our time will come’: Thai leader prevented from becoming PM hails dawn of a new era](https://www.theguardian.com/world/2023/oct/10/our-time-will-come-thai-leader-prevented-from-becoming-pm-hails-dawn-of-a-new-era)
+- [Russia-Ukraine war at a glance: what we know on day 594 of the invasion](https://www.theguardian.com/world/2023/oct/10/russia-ukraine-war-at-a-glance-what-we-know-on-day-594-of-the-invasion)
+- [Addiction to ultra-processed food affects 14% of adults, global study shows](https://www.theguardian.com/science/2023/oct/10/addiction-to-ultra-processed-food-affects-14-of-adults-global-study-shows)
+- [Rise in A&amp;E visits for hiccups and earaches add to strain on NHS](https://www.theguardian.com/society/2023/oct/10/accident-and-emergency-visits-hiccups-earaches-nhs-strain)
+- [Death of England: Closing Time review – riotous comedy with a serious sting](https://www.theguardian.com/stage/2023/oct/10/death-of-england-closing-time-review-dorfman-national-theatre-hayley-squires-clint-dyer-roy-williams)
+- [UK, US and allies offer Israel ‘steadfast support’ in joint statement](https://www.theguardian.com/world/2023/oct/09/uk-us-and-allies-offer-israel-steadfast-support-in-joint-statement)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

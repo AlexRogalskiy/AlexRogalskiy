@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Researchers develop liquid metal circuits for flexible, self-healing wearables](https://techxplore.com/news/2023-10-liquid-metal-circuits-flexible-self-healing.html)
-- [NAS Daily: I view myself as an &#39;Israeli-Palestinian.&#39; Israeli first](https://www.jpost.com/israel-news/article-765293)
-- [NSFW AI Tools](https://tooldirectory.ai/best-ai-collections/top-nsfw-ai-art-generators-your-gateway-to-explicit-art-creation-introduction)
-- [OpenAI Cookbook](https://cookbook.openai.com/)
-- [First robot that could replace many warehouse workers](https://twitter.com/rowancheung/status/1709600092661952782)
-- [Ask HN: Possible to make a game engine in the browser?](https://news.ycombinator.com/item?id=37816195)
-- [Has anyone trained a specific offline LLM model to act as a Linux helpdesk?](https://news.ycombinator.com/item?id=37816173)
-- [The Origins of Doxing](https://twitter.com/123456/status/1711188780973957430)
-- [Reddit – Hot takes or unpopular opinions that you want r/DevOps users to hear?](https://old.reddit.com/r/devops/login/)
-- [Is a $1M Splunk bill worth it? – SigNoz](https://signoz.io/blog/justifying-a-million-dollar-observability-bill/)
+- [Gnome-session to drop Xorg support, become Wayland-only](https://gitlab.gnome.org/GNOME/gnome-session/-/merge_requests/98)
+- [The Great Kilt – Ultimate Survival Blanket? Outdoor Clothing and Shelter &lpar;2021&rpar; [video]](https://www.youtube.com/watch?v=YbAKRffKsPs)
+- [Ask HN: Developer, what is the biggest Postman collection you know?](https://news.ycombinator.com/item?id=37827806)
+- [Show HN: Vector retrieval for everything Louis Rossman has posted to YouTube](https://louis-search.arguflow.ai/)
+- [LanceDB – Developer-friendly, serverless vector database for AI applications](https://github.com/lancedb/lancedb)
+- [Fantastic–Instant Cash App for Creators](https://getfantastic.xyz/)
+- [Sonos verdict vs. Google thrown out](https://www.reuters.com/legal/litigation/google-wins-reprieve-325-mln-verdict-sonos-patent-fight-2023-10-09/)
+- [State Department Rule Requiring Visa Applicants to Register Their Social Media](https://knightcolumbia.org/content/state-department-rule-requiring-visa-applicants-to-register-their-social-media-handles-is-ineffective-new-documents-say)
+- [Gnome search; How do I make it learn from previous searches?](https://jeena.net/gnome-search-problem)
+- [Europe&#39;s First Exascale Supercomputer Will Run on ARM Instead of x86](https://www.extremetech.com/computing/europes-first-exascale-supercomputer-will-run-on-arm-instead-of-x86)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

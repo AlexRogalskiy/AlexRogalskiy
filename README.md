@@ -355,6 +355,7 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Here’s where more than half of organizations are piloting generative AI](https://www.computerworld.com/article/3708308/where-organizations-are-piloting-generative-ai.html#tk.rss_all)
 - [How many jobs are available in technology in the US?](https://www.computerworld.com/article/3542681/how-many-jobs-are-available-in-technology.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [US gov&#39;t analysis says EU AI Act could stifle R&amp;D, competition: Report](https://www.computerworld.com/article/3708212/us-govt-analysis-says-eu-ai-act-could-stifle-rd-competition-report.html#tk.rss_all)
@@ -364,7 +365,6 @@
 - [Poly and Nureva make big hybrid conference rooms work at Zoomtopia](https://www.computerworld.com/article/3708210/poly-nureva-conference-room-tech-zoomtopia.html#tk.rss_all)
 - [Canva bolsters AI offerings, providing copyright indemnity for AI-generated images](https://www.computerworld.com/article/3708249/canva-bolsters-ai-offerings-providing-copyright-indemnity-for-ai-generated-images.html#tk.rss_all)
 - [Taiwan to investigate suppliers aiding Huawei in chipmaking: Report](https://www.computerworld.com/article/3708268/taiwan-to-investigate-suppliers-aiding-huawei-in-chipmaking-report.html#tk.rss_all)
-- [Are you looking forward to the new age of mobile app insecurity?](https://www.computerworld.com/article/3708248/are-you-looking-forward-to-the-new-age-of-mobile-app-insecurity.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

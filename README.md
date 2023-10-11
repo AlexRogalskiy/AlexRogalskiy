@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Gnome-session to drop Xorg support, become Wayland-only](https://gitlab.gnome.org/GNOME/gnome-session/-/merge_requests/98)
-- [The Great Kilt – Ultimate Survival Blanket? Outdoor Clothing and Shelter &lpar;2021&rpar; [video]](https://www.youtube.com/watch?v=YbAKRffKsPs)
-- [Ask HN: Developer, what is the biggest Postman collection you know?](https://news.ycombinator.com/item?id=37827806)
-- [Show HN: Vector retrieval for everything Louis Rossman has posted to YouTube](https://louis-search.arguflow.ai/)
-- [LanceDB – Developer-friendly, serverless vector database for AI applications](https://github.com/lancedb/lancedb)
-- [Fantastic–Instant Cash App for Creators](https://getfantastic.xyz/)
-- [Sonos verdict vs. Google thrown out](https://www.reuters.com/legal/litigation/google-wins-reprieve-325-mln-verdict-sonos-patent-fight-2023-10-09/)
-- [State Department Rule Requiring Visa Applicants to Register Their Social Media](https://knightcolumbia.org/content/state-department-rule-requiring-visa-applicants-to-register-their-social-media-handles-is-ineffective-new-documents-say)
-- [Gnome search; How do I make it learn from previous searches?](https://jeena.net/gnome-search-problem)
-- [Europe&#39;s First Exascale Supercomputer Will Run on ARM Instead of x86](https://www.extremetech.com/computing/europes-first-exascale-supercomputer-will-run-on-arm-instead-of-x86)
+- [USS Liberty Incident](https://en.wikipedia.org/wiki/USS_Liberty_incident)
+- [2022 Update on EGPU Support for M1 &lpar;Pro/Max&rpar;?](https://old.reddit.com/r/eGPU/comments/ryy0eq/2022_update_on_egpu_support_for_m1_promax/)
+- [The Stupidity Manifesto](https://insimpleterms.blog/the-stupidity-manifesto)
+- [Vermont Utility Plans to End Outages by Giving Customers Batteries](https://www.nytimes.com/2023/10/09/business/energy-environment/green-mountain-home-batteries.html)
+- [GHC 9.8.1 has been released](https://discourse.haskell.org/t/ghc-9-8-1-is-now-available/7832)
+- [Elites vs. Elite Institutions](https://drydenbrown.posthaven.com/elites-vs-elite-institutions)
+- [Why You Need Systemic Reasoning](https://mentrixgroup.com/articles/why-you-need-systemic-reasoning)
+- [&#39;How can $24B in tethers move a $650B Bitcoin market cap?&#39;](https://amycastor.com/2021/01/20/how-can-24b-in-tethers-move-a-650b-bitcoin-market-cap-and-other-mathematically-illiterate-questions/)
+- [Former Y Combinator President&#39;s Creepy New Startup](https://d3ctxlq1ktw2nl.cloudfront.net/staging/2023-9-11/350612318-44100-2-3d60ff16c03f9.m4a)
+- [Hygroelectrical Power – Electricity from Humidity](https://undecidedmf.com/is-this-accidental-discovery-the-future-of-energy/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

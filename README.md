@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Israel-Hamas war live: Netanyahu says Israel’s siege ‘just getting started’; Hamas threatens hostage executions](https://www.theguardian.com/world/live/2023/oct/09/israel-hamas-war-live-updates-news-worst-day-israeli-history-idf-fighting-grinds-on-gaza-conflict-supernova)
-- [From Blair to Starmer: Labour’s path to power – part 2](https://www.theguardian.com/news/audio/2023/oct/10/from-blair-to-starmer-labour-path-to-power-part-2-podcast)
-- [U2 change lyrics to Pride to honour ‘beautiful kids’ killed at Israeli music festival](https://www.theguardian.com/music/2023/oct/10/u2-changes-lyrics-song-pride-israeli-music-festival-supernova)
-- [Squash goals: Minnesota man’s 2,749lb pumpkin sets world record](https://www.theguardian.com/us-news/2023/oct/09/pumpkin-world-record-travis-gienger-half-moon-bay)
-- [‘Our time will come’: Thai leader prevented from becoming PM hails dawn of a new era](https://www.theguardian.com/world/2023/oct/10/our-time-will-come-thai-leader-prevented-from-becoming-pm-hails-dawn-of-a-new-era)
-- [Russia-Ukraine war at a glance: what we know on day 594 of the invasion](https://www.theguardian.com/world/2023/oct/10/russia-ukraine-war-at-a-glance-what-we-know-on-day-594-of-the-invasion)
-- [Addiction to ultra-processed food affects 14% of adults, global study shows](https://www.theguardian.com/science/2023/oct/10/addiction-to-ultra-processed-food-affects-14-of-adults-global-study-shows)
-- [Rise in A&amp;E visits for hiccups and earaches add to strain on NHS](https://www.theguardian.com/society/2023/oct/10/accident-and-emergency-visits-hiccups-earaches-nhs-strain)
-- [Death of England: Closing Time review – riotous comedy with a serious sting](https://www.theguardian.com/stage/2023/oct/10/death-of-england-closing-time-review-dorfman-national-theatre-hayley-squires-clint-dyer-roy-williams)
-- [UK, US and allies offer Israel ‘steadfast support’ in joint statement](https://www.theguardian.com/world/2023/oct/09/uk-us-and-allies-offer-israel-steadfast-support-in-joint-statement)
+- [Israel-Hamas war live: Israeli air force strikes more than 70 sites in Gaza neighbourhood; Biden calls Hamas attack an ‘act of sheer evil’](https://www.theguardian.com/world/live/2023/oct/10/israel-hamas-war-live-updates-palestine-gaza-supernova-white-house)
+- [Keir Starmer’s plan to rebuild Britain - podcast](https://www.theguardian.com/news/audio/2023/oct/11/keir-starmers-plan-to-rebuild-britain-podcast)
+- [LIV Golf loses bid to earn world ranking points in unanimous OWGR decision](https://www.theguardian.com/sport/2023/oct/11/liv-golf-world-ranking-points-bid-lost-owgr)
+- [Biden condemns Hamas for ‘act of sheer evil’ and says US citizens taken hostage](https://www.theguardian.com/us-news/2023/oct/10/biden-hamas-hostages-israel-gaza)
+- [Cal Wilson, New Zealand comedian and TV host, dies aged 53](https://www.theguardian.com/culture/2023/oct/11/cal-wilson-new-zealand-comedian-and-tv-host-dies-at-53)
+- [Baz Luhrmann to debut extended version of film Australia as six-part TV series Faraway Downs](https://www.theguardian.com/tv-and-radio/2023/oct/11/baz-luhrmann-faraway-downs-series-premiere-sxsw-sydney)
+- [US navy sailor pleads guilty to accepting $15,000 in bribes from China](https://www.theguardian.com/us-news/2023/oct/10/us-navy-military-china-bribe-plea)
+- [Russia-Ukraine war at a glance: what we know on day 595 of the invasion](https://www.theguardian.com/world/2023/oct/11/russia-ukraine-war-at-a-glance-what-we-know-on-day-595-of-the-invasion)
+- [Chicago woman who skydived at age 104 has died: ‘She was indefatigable’](https://www.theguardian.com/us-news/2023/oct/10/dorothy-hoffner-guinness-world-record-oldest-skydiver)
+- [Major incident declared at London Luton airport after huge fire breaks out](https://www.theguardian.com/uk-news/2023/oct/10/huge-fire-breaks-out-at-luton-airport-car-park)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

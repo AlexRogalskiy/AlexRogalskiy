@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [ECC RAM on AMD Ryzen 7000 Desktop CPUs](https://sunshowers.io/posts/am5-ryzen-7000-ecc-ram/)
-- [Stop EU Chat Control](https://stopchatcontrol.eu/)
-- [DSLinux – Linux for the Nintendo DS](https://www.dslinux.org/)
-- [The Future of CSS: Easy Light-Dark Mode Color Switching with Light-Dark&lpar;&rpar;](https://www.bram.us/2023/10/09/the-future-of-css-easy-light-dark-mode-color-switching-with-light-dark/)
-- [John Riccitiello steps down as CEO of Unity](https://venturebeat.com/games/john-riccitiello-steps-down-as-ceo-of-unity-after-pricing-battle/)
-- [Bare-metal Rust in Android](https://security.googleblog.com/2023/10/bare-metal-rust-in-android.html)
-- [Linux ate my RAM &lpar;2009&rpar;](https://www.linuxatemyram.com/)
-- [Medieval staircases were not built going clockwise for the defender&#39;s advantage](https://fakehistoryhunter.net/2023/10/09/medieval-staircases-were-not-built-going-clockwise-for-the-defenders-advantage/)
-- [Lensm, a tool for viewing disassembly](https://www.storj.io/blog/lensm)
-- [789 KB Linux Without MMU on RISC-V](https://popovicu.com/posts/789-kb-linux-without-mmu-riscv/)
+- [Multifault earthquake threat for Seattle region revealed by mass tree mortality](https://www.science.org/doi/10.1126/sciadv.adh4973)
+- [Handle.com &lpar;YC W19&rpar; Is Hiring &lpar;ABM Manager&rpar;](https://www.ycombinator.com/companies/handle-com/jobs/lgchJ3v-abm-campaigns-manager)
+- [Geospatial data science with Julia](https://juliaearth.github.io/geospatial-data-science-with-julia/)
+- [Going Faster by Duplicating Code](https://voidstar.tech/code_duplication/)
+- [Microsoft says VBScript will be ripped from Windows in a future release](https://www.theregister.com/2023/10/10/microsoft_says_vbscript_will_be/)
+- [Isambard Kingdom Brunel](https://en.wikipedia.org/wiki/Isambard_Kingdom_Brunel)
+- [HAProxy is not affected by the HTTP/2 Rapid Reset Attack](https://www.haproxy.com/blog/haproxy-is-not-affected-by-the-http-2-rapid-reset-attack-cve-2023-44487)
+- [The Evolution of Tunnel Boring Machines](https://www.construction-physics.com/p/the-evolution-of-tunnel-boring-machines)
+- [Show HN: Building a 42-inch E-Ink frame for generative art](https://eliot.blog/e-ink-frame)
+- [Engineered material can reconnect severed nerves](https://news.rice.edu/news/2023/rice-engineered-material-can-reconnect-severed-nerves)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

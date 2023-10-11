@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
-- [Here’s where more than half of organizations are piloting generative AI](https://www.computerworld.com/article/3708308/where-organizations-are-piloting-generative-ai.html#tk.rss_all)
-- [How many jobs are available in technology in the US?](https://www.computerworld.com/article/3542681/how-many-jobs-are-available-in-technology.html#tk.rss_all)
+- [Tech layoffs in 2023: A timeline](https://www.computerworld.com/article/3685936/tech-layoffs-in-2023-a-timeline.html#tk.rss_all)
+- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
+- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
+- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [US gov&#39;t analysis says EU AI Act could stifle R&amp;D, competition: Report](https://www.computerworld.com/article/3708212/us-govt-analysis-says-eu-ai-act-could-stifle-rd-competition-report.html#tk.rss_all)
-- [Homeland Security confirms your privacy is no longer safe](https://www.computerworld.com/article/3708251/homeland-security-confirms-your-privacy-is-no-longer-safe.html#tk.rss_all)
-- [Coda bucks trend of additional charges for generative AI tools](https://www.computerworld.com/article/3708289/coda-bucks-trend-of-additional-charges-for-generative-ai-tools.html#tk.rss_all)
-- [How Google&#39;s Pixel 8 changes everything for Android](https://www.computerworld.com/article/3707769/google-pixel-8-android.html#tk.rss_all)
-- [Poly and Nureva make big hybrid conference rooms work at Zoomtopia](https://www.computerworld.com/article/3708210/poly-nureva-conference-room-tech-zoomtopia.html#tk.rss_all)
-- [Canva bolsters AI offerings, providing copyright indemnity for AI-generated images](https://www.computerworld.com/article/3708249/canva-bolsters-ai-offerings-providing-copyright-indemnity-for-ai-generated-images.html#tk.rss_all)
-- [Taiwan to investigate suppliers aiding Huawei in chipmaking: Report](https://www.computerworld.com/article/3708268/taiwan-to-investigate-suppliers-aiding-huawei-in-chipmaking-report.html#tk.rss_all)
+- [Why are OpenAI, Microsoft and others looking to make their own chips?](https://www.networkworld.com/article/3708215/why-are-openai-microsoft-and-others-looking-to-make-their-own-chips.html#tk.rss_all)
+- [PC shipments remain in decline, but generative AI could reverse the trend: IDC](https://www.computerworld.com/article/3708272/pc-shipments-remain-in-decline-but-generative-ai-could-reverse-the-trend-idc.html#tk.rss_all)
+- [Microsoft targets skills gap with new AI-powered Skills in Viva](https://www.computerworld.com/article/3708330/microsoft-targets-skills-gap-with-new-ai-powered-skills-in-viva.html#tk.rss_all)
+- [When will Apple open its first African retail store?](https://www.computerworld.com/article/3708296/when-will-apple-open-its-first-african-retail-store.html#tk.rss_all)
+- [You&#39;re never too old to start a business](https://www.computerworld.com/article/3708213/youre-never-too-old-to-start-a-business.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

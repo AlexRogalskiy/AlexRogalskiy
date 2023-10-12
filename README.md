@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [AI bias poses danger to the financial sector, Bank of England warns](https://www.computerworld.com/article/3708748/ai-bias-poses-danger-to-the-financial-sector-bank-of-england-warns.html#tk.rss_all)
+- [Dropbox unveils video app, updates AI tools and web interface for new era of work](https://www.computerworld.com/article/3708311/dropbox-unveils-video-app-updates-ai-tools-and-web-interface-for-new-era-of-work.html#tk.rss_all)
+- [Box unveils new AI-powered content portal Box Hubs](https://www.computerworld.com/article/3708568/box-unveils-new-ai-powered-content-portal-box-hubs.html#tk.rss_all)
+- [California&#39;s Apple-backed Right to Repair Act is the future of tech](https://www.computerworld.com/article/3708332/californias-apple-backed-right-to-repair-act-is-the-future-of-tech.html#tk.rss_all)
+- [AMD to acquire Nod.ai to boost open source AI software capabilities](https://www.networkworld.com/article/3708310/amd-to-acquire-nod-ai-to-boost-open-source-ai-software-capabilities.html#tk.rss_all)
+- [Google used Microsoft’s monopoly playbook to crush Bing — now Microsoft cries foul](https://www.computerworld.com/article/3708298/google-used-microsoft-monopoly-playbook-to-crush-bing-microsoft-cries-foul.html#tk.rss_all)
+- [Google US antitrust trial: A timeline](https://www.computerworld.com/article/3706893/googles-us-antitrust-trials-a-timeline.html#tk.rss_all)
 - [Tech layoffs in 2023: A timeline](https://www.computerworld.com/article/3685936/tech-layoffs-in-2023-a-timeline.html#tk.rss_all)
 - [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
 - [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
-- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [Why are OpenAI, Microsoft and others looking to make their own chips?](https://www.networkworld.com/article/3708215/why-are-openai-microsoft-and-others-looking-to-make-their-own-chips.html#tk.rss_all)
-- [PC shipments remain in decline, but generative AI could reverse the trend: IDC](https://www.computerworld.com/article/3708272/pc-shipments-remain-in-decline-but-generative-ai-could-reverse-the-trend-idc.html#tk.rss_all)
-- [Microsoft targets skills gap with new AI-powered Skills in Viva](https://www.computerworld.com/article/3708330/microsoft-targets-skills-gap-with-new-ai-powered-skills-in-viva.html#tk.rss_all)
-- [When will Apple open its first African retail store?](https://www.computerworld.com/article/3708296/when-will-apple-open-its-first-african-retail-store.html#tk.rss_all)
-- [You&#39;re never too old to start a business](https://www.computerworld.com/article/3708213/youre-never-too-old-to-start-a-business.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

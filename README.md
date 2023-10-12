@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Multifault earthquake threat for Seattle region revealed by mass tree mortality](https://www.science.org/doi/10.1126/sciadv.adh4973)
-- [Handle.com &lpar;YC W19&rpar; Is Hiring &lpar;ABM Manager&rpar;](https://www.ycombinator.com/companies/handle-com/jobs/lgchJ3v-abm-campaigns-manager)
-- [Geospatial data science with Julia](https://juliaearth.github.io/geospatial-data-science-with-julia/)
-- [Going Faster by Duplicating Code](https://voidstar.tech/code_duplication/)
-- [Microsoft says VBScript will be ripped from Windows in a future release](https://www.theregister.com/2023/10/10/microsoft_says_vbscript_will_be/)
-- [Isambard Kingdom Brunel](https://en.wikipedia.org/wiki/Isambard_Kingdom_Brunel)
-- [HAProxy is not affected by the HTTP/2 Rapid Reset Attack](https://www.haproxy.com/blog/haproxy-is-not-affected-by-the-http-2-rapid-reset-attack-cve-2023-44487)
-- [The Evolution of Tunnel Boring Machines](https://www.construction-physics.com/p/the-evolution-of-tunnel-boring-machines)
-- [Show HN: Building a 42-inch E-Ink frame for generative art](https://eliot.blog/e-ink-frame)
-- [Engineered material can reconnect severed nerves](https://news.rice.edu/news/2023/rice-engineered-material-can-reconnect-severed-nerves)
+- [FastGPT](https://kagi.com/fastgpt)
+- [&quot;Full Self-Driving&quot; doesn&#39;t imply autonomy, Tesla engineer says](https://cleanenergyrevolution.co/2023/10/11/full-self-driving-doesnt-imply-autonomy-tesla-engineer-says/)
+- [Using OpenBSD Relayd&lpar;8&rpar; as an Application Layer Gateway](https://www.tumfatig.net/2023/using-openbsd-relayd8-as-an-application-layer-gateway/)
+- [Kagi finally let me lay Google Search to rest](https://dannb.org/blog/2023/how-kagi-beats-google/)
+- [Snmalloc: A Message Passing Allocator](https://github.com/microsoft/snmalloc)
+- [AVX10/128 is a silly idea and should be removed from the specification](https://chipsandcheese.com/2023/10/11/avx10-128-is-a-silly-idea-and-should-be-completely-removed-from-the-specification/)
+- [Evolving ArangoDB&#39;s Licensing Model for a Sustainable Future](https://arangodb.com/2023/10/evolving-arangodbs-licensing-model-for-a-sustainable-future/)
+- [Galaksija: The Soviet-Era, Z80-based microcomputer](https://spectrum.ieee.org/yugoslavia-diy-microcomputer)
+- [Roll Your Own All-Sky, Raspberry Pi Camera](https://spectrum.ieee.org/all-sky-camera)
+- [QX82: Tiny JavaScript game/experience engine inspired by retro 80s computing](https://btco.github.io/qx82/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

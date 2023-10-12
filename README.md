@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Israel-Hamas war live: Israeli air force strikes more than 70 sites in Gaza neighbourhood; Biden calls Hamas attack an ‘act of sheer evil’](https://www.theguardian.com/world/live/2023/oct/10/israel-hamas-war-live-updates-palestine-gaza-supernova-white-house)
-- [Keir Starmer’s plan to rebuild Britain - podcast](https://www.theguardian.com/news/audio/2023/oct/11/keir-starmers-plan-to-rebuild-britain-podcast)
-- [LIV Golf loses bid to earn world ranking points in unanimous OWGR decision](https://www.theguardian.com/sport/2023/oct/11/liv-golf-world-ranking-points-bid-lost-owgr)
-- [Biden condemns Hamas for ‘act of sheer evil’ and says US citizens taken hostage](https://www.theguardian.com/us-news/2023/oct/10/biden-hamas-hostages-israel-gaza)
-- [Cal Wilson, New Zealand comedian and TV host, dies aged 53](https://www.theguardian.com/culture/2023/oct/11/cal-wilson-new-zealand-comedian-and-tv-host-dies-at-53)
-- [Baz Luhrmann to debut extended version of film Australia as six-part TV series Faraway Downs](https://www.theguardian.com/tv-and-radio/2023/oct/11/baz-luhrmann-faraway-downs-series-premiere-sxsw-sydney)
-- [US navy sailor pleads guilty to accepting $15,000 in bribes from China](https://www.theguardian.com/us-news/2023/oct/10/us-navy-military-china-bribe-plea)
-- [Russia-Ukraine war at a glance: what we know on day 595 of the invasion](https://www.theguardian.com/world/2023/oct/11/russia-ukraine-war-at-a-glance-what-we-know-on-day-595-of-the-invasion)
-- [Chicago woman who skydived at age 104 has died: ‘She was indefatigable’](https://www.theguardian.com/us-news/2023/oct/10/dorothy-hoffner-guinness-world-record-oldest-skydiver)
-- [Major incident declared at London Luton airport after huge fire breaks out](https://www.theguardian.com/uk-news/2023/oct/10/huge-fire-breaks-out-at-luton-airport-car-park)
+- [Human catastrophe unfolds in Israel and Gaza – podcast](https://www.theguardian.com/news/audio/2023/oct/12/human-catastrophe-unfolds-in-israel-and-gaza-podcast)
+- [Taylor Swift’s Eras Tour concert film to open in North American cinemas a day early due to demand](https://www.theguardian.com/music/2023/oct/12/taylor-swifts-eras-tour-concert-film-release-date-where-to-watch-early-north-america)
+- [Egypt warned Israel of Hamas attack days earlier, senior US lawmaker says](https://www.theguardian.com/world/2023/oct/12/israel-hamas-war-egypt-warned-foreign-affairs-gaza)
+- [Russia-Ukraine war at a glance: what we know on day 596 of the invasion](https://www.theguardian.com/world/2023/oct/12/russia-ukraine-war-at-a-glance-what-we-know-on-day-596-of-the-invasion)
+- [Real or imagined? NGV examines both sides of photography — in pictures](https://www.theguardian.com/artanddesign/gallery/2023/oct/12/real-or-imagined-ngv-examines-both-sides-of-photography-in-pictures)
+- [‘I have to wear two hats’: Thailand’s breakdancing team confronts hair loss at the Asian Games](https://www.theguardian.com/world/2023/oct/12/thailand-breakdancing-team-hair-loss-asian-games-2023-china)
+- [‘Shocking silence’ over climate crisis in New Zealand election campaign draws criticism](https://www.theguardian.com/world/2023/oct/12/new-zealand-election-2023-nz-campaign-climate-crisis-debate)
+- [Netanyahu sets up emergency Israeli unity government and war cabinet](https://www.theguardian.com/world/2023/oct/11/netanyahu-sets-up-emergency-israeli-unity-government-and-war-cabinet)
+- [Justice secretary blocks release of man who bludgeoned estranged wife to death](https://www.theguardian.com/uk-news/2023/oct/12/justice-secretary-blocks-release-of-man-who-bludgeoned-estranged-wife-to-death)
+- [UK food regulators slash recommended dose of CBD over health risks](https://www.theguardian.com/society/2023/oct/12/uk-food-regulators-slash-recommended-dose-of-cbd-over-health-risks)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

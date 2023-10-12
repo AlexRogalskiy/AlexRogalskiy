@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [USS Liberty Incident](https://en.wikipedia.org/wiki/USS_Liberty_incident)
-- [2022 Update on EGPU Support for M1 &lpar;Pro/Max&rpar;?](https://old.reddit.com/r/eGPU/comments/ryy0eq/2022_update_on_egpu_support_for_m1_promax/)
-- [The Stupidity Manifesto](https://insimpleterms.blog/the-stupidity-manifesto)
-- [Vermont Utility Plans to End Outages by Giving Customers Batteries](https://www.nytimes.com/2023/10/09/business/energy-environment/green-mountain-home-batteries.html)
-- [GHC 9.8.1 has been released](https://discourse.haskell.org/t/ghc-9-8-1-is-now-available/7832)
-- [Elites vs. Elite Institutions](https://drydenbrown.posthaven.com/elites-vs-elite-institutions)
-- [Why You Need Systemic Reasoning](https://mentrixgroup.com/articles/why-you-need-systemic-reasoning)
-- [&#39;How can $24B in tethers move a $650B Bitcoin market cap?&#39;](https://amycastor.com/2021/01/20/how-can-24b-in-tethers-move-a-650b-bitcoin-market-cap-and-other-mathematically-illiterate-questions/)
-- [Former Y Combinator President&#39;s Creepy New Startup](https://d3ctxlq1ktw2nl.cloudfront.net/staging/2023-9-11/350612318-44100-2-3d60ff16c03f9.m4a)
-- [Hygroelectrical Power – Electricity from Humidity](https://undecidedmf.com/is-this-accidental-discovery-the-future-of-energy/)
+- [Stream Processing: Is SQL Good Enough?](https://www.risingwave.com/blog/stream-processing-is-sql-good-enough/)
+- [M2 Ultra runs codellama 34B F16 at 150 token per second](https://twitter.com/ggerganov/status/1694775477041271238)
+- [Ask HN: Has anyone gotten complete, permanent relief from tinnitus?](https://news.ycombinator.com/item?id=37852711)
+- [Kelvin Kiptum&#39;s Coach Reveals Training Before Marathon World Record](https://www.letsrun.com/news/2023/10/kelvin-kiptums-coach-reveals-his-incredible-training-before-marathon-world-record-in-chicago/)
+- [Why I&#39;m Glad I Learned to Program – A Blog Post for Your Kids](https://levelup.gitconnected.com/why-im-very-glad-i-learned-to-program-a-blog-post-for-your-kids-2ac6e3f3dd91?gi=21620640ca63)
+- [Caroline Ellison: SBF&#39;s Philosophy Justified Lying and Stealing](https://futurism.com/the-byte/caroline-ellison-sbf-lying-stealing)
+- [FastGPT](https://kagi.com/fastgpt)
+- [JEP Draft: Support Markdown in Documentation Comments](https://openjdk.org/jeps/8316039)
+- [Ask HN: Automating multi-lang communication with a meta programming language](https://news.ycombinator.com/item?id=37852630)
+- [Sheared LLaMA: Accelerating Language Model Pre-Training via Structured Pruning](https://xiamengzhou.github.io/sheared-llama/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

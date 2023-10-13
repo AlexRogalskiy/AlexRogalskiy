@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [FastGPT](https://kagi.com/fastgpt)
-- [&quot;Full Self-Driving&quot; doesn&#39;t imply autonomy, Tesla engineer says](https://cleanenergyrevolution.co/2023/10/11/full-self-driving-doesnt-imply-autonomy-tesla-engineer-says/)
-- [Using OpenBSD Relayd&lpar;8&rpar; as an Application Layer Gateway](https://www.tumfatig.net/2023/using-openbsd-relayd8-as-an-application-layer-gateway/)
-- [Kagi finally let me lay Google Search to rest](https://dannb.org/blog/2023/how-kagi-beats-google/)
-- [Snmalloc: A Message Passing Allocator](https://github.com/microsoft/snmalloc)
-- [AVX10/128 is a silly idea and should be removed from the specification](https://chipsandcheese.com/2023/10/11/avx10-128-is-a-silly-idea-and-should-be-completely-removed-from-the-specification/)
-- [Evolving ArangoDB&#39;s Licensing Model for a Sustainable Future](https://arangodb.com/2023/10/evolving-arangodbs-licensing-model-for-a-sustainable-future/)
-- [Galaksija: The Soviet-Era, Z80-based microcomputer](https://spectrum.ieee.org/yugoslavia-diy-microcomputer)
-- [Roll Your Own All-Sky, Raspberry Pi Camera](https://spectrum.ieee.org/all-sky-camera)
-- [QX82: Tiny JavaScript game/experience engine inspired by retro 80s computing](https://btco.github.io/qx82/)
+- [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Research Scientists](https://news.ycombinator.com/item?id=37865222)
+- [Bonterms: Standard Agreements for the Enterprise](https://bonterms.com/)
+- [Framework 13 AMD 7040 Series: A Developer&#39;s First Impressions](https://zach.codes/p/a-developers-review-framework-13)
+- [Scrollbars Are Becoming a Problem](https://artemis.sh/2023/10/12/scrollbars.html)
+- [REI is Laying Off 275 Employees](https://old.reddit.com/r/REI/comments/176chas/rei_is_letting_go_275_employees_today/)
+- [You Can&#39;t Currently Download Ubuntu 23.10](https://www.omgubuntu.co.uk/2023/10/ubuntu-23-10-installer-translations-hijack)
+- [Echoes of Electromagnetism Found in Number Theory](https://www.quantamagazine.org/echoes-of-electromagnetism-found-in-number-theory-20231012/)
+- [The Quest to Secure chown and symlinks](https://buildkite.com/blog/paved-with-good-intentions-the-story-of-fix-buildkite-agent-builds-permissions)
+- [TSMC: Ecosystem for 2nm Chip Development Is Nearing Completion](https://www.anandtech.com/show/21091/tsmc-ecosystem-for-2nm-chip-development-is-nearing-completion)
+- [MS Paint Cocreator, a new AI-powered experience powered by DALL-E](https://blogs.windows.com/windows-insider/2023/09/27/paint-app-update-introducing-paint-cocreator-begins-rolling-out-to-windows-insiders/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

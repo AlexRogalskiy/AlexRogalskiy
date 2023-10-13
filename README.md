@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Why we need to focus AI on relationships](https://www.computerworld.com/article/3708730/why-we-need-to-focus-ai-on-relationships.html#tk.rss_all)
+- [Apple Vision Pro anticipation leaves VR industry gasping](https://www.computerworld.com/article/3708769/apple-vision-pro-anticipation-leaves-vr-industry-gasping.html#tk.rss_all)
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [Q&amp;A: How Discover Financial Services created an AI governance council](https://www.computerworld.com/article/3708629/how-discover-financial-services-created-ai-governance-council.html#tk.rss_all)
 - [AI bias poses danger to the financial sector, Bank of England warns](https://www.computerworld.com/article/3708748/ai-bias-poses-danger-to-the-financial-sector-bank-of-england-warns.html#tk.rss_all)
 - [Dropbox unveils video app, updates AI tools and web interface for new era of work](https://www.computerworld.com/article/3708311/dropbox-unveils-video-app-updates-ai-tools-and-web-interface-for-new-era-of-work.html#tk.rss_all)
 - [Box unveils new AI-powered content portal Box Hubs](https://www.computerworld.com/article/3708568/box-unveils-new-ai-powered-content-portal-box-hubs.html#tk.rss_all)
 - [California&#39;s Apple-backed Right to Repair Act is the future of tech](https://www.computerworld.com/article/3708332/californias-apple-backed-right-to-repair-act-is-the-future-of-tech.html#tk.rss_all)
 - [AMD to acquire Nod.ai to boost open source AI software capabilities](https://www.networkworld.com/article/3708310/amd-to-acquire-nod-ai-to-boost-open-source-ai-software-capabilities.html#tk.rss_all)
 - [Google used Microsoft’s monopoly playbook to crush Bing — now Microsoft cries foul](https://www.computerworld.com/article/3708298/google-used-microsoft-monopoly-playbook-to-crush-bing-microsoft-cries-foul.html#tk.rss_all)
-- [Google US antitrust trial: A timeline](https://www.computerworld.com/article/3706893/googles-us-antitrust-trials-a-timeline.html#tk.rss_all)
-- [Tech layoffs in 2023: A timeline](https://www.computerworld.com/article/3685936/tech-layoffs-in-2023-a-timeline.html#tk.rss_all)
-- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
-- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

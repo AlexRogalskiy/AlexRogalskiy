@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Stream Processing: Is SQL Good Enough?](https://www.risingwave.com/blog/stream-processing-is-sql-good-enough/)
-- [M2 Ultra runs codellama 34B F16 at 150 token per second](https://twitter.com/ggerganov/status/1694775477041271238)
-- [Ask HN: Has anyone gotten complete, permanent relief from tinnitus?](https://news.ycombinator.com/item?id=37852711)
-- [Kelvin Kiptum&#39;s Coach Reveals Training Before Marathon World Record](https://www.letsrun.com/news/2023/10/kelvin-kiptums-coach-reveals-his-incredible-training-before-marathon-world-record-in-chicago/)
-- [Why I&#39;m Glad I Learned to Program – A Blog Post for Your Kids](https://levelup.gitconnected.com/why-im-very-glad-i-learned-to-program-a-blog-post-for-your-kids-2ac6e3f3dd91?gi=21620640ca63)
-- [Caroline Ellison: SBF&#39;s Philosophy Justified Lying and Stealing](https://futurism.com/the-byte/caroline-ellison-sbf-lying-stealing)
-- [FastGPT](https://kagi.com/fastgpt)
-- [JEP Draft: Support Markdown in Documentation Comments](https://openjdk.org/jeps/8316039)
-- [Ask HN: Automating multi-lang communication with a meta programming language](https://news.ycombinator.com/item?id=37852630)
-- [Sheared LLaMA: Accelerating Language Model Pre-Training via Structured Pruning](https://xiamengzhou.github.io/sheared-llama/)
+- [Ask HN: What&#39;s a marketable and lucrative skill I can learn online in 6 months?](https://news.ycombinator.com/item?id=37865722)
+- [Fastbootstrap](https://fastbootstrap.com/)
+- [Rocky Mountain Ruby 2023 Conference Recap [video]](https://www.youtube.com/watch?v=k21JxGoKgvY)
+- [Overcoming the Fear of Forgetting What You Read](https://www.mahdikarimi.com/blog/being-afraid-about-losing-knowledge)
+- [How British colonialism increased diabetes in south Asians](https://www.theguardian.com/world/video/2023/oct/12/how-british-colonialism-increased-diabetes-in-south-asians)
+- [FusionAuth Town Hall v0.1 &lpar;video&rpar;](https://www.youtube.com/watch?v=sEnYHxx6X6U)
+- [Introducing Dev Container Support in CodeSandbox](https://codesandbox.io/blog/introducing-dev-container-support-in-codesandbox)
+- [Survey on Factuality in Large Language Models](https://arxiv.org/abs/2310.07521)
+- [The PostgreSQL job scheduler you always wanted &lpar;use with caution&rpar;](https://www.timescale.com/blog/the-postgresql-job-scheduler-you-always-wanted-but-be-careful-what-you-ask-for/)
+- [Gitness – Self Hosted GitHub](https://gitness.com)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

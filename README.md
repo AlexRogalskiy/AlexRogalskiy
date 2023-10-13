@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Human catastrophe unfolds in Israel and Gaza – podcast](https://www.theguardian.com/news/audio/2023/oct/12/human-catastrophe-unfolds-in-israel-and-gaza-podcast)
-- [Taylor Swift’s Eras Tour concert film to open in North American cinemas a day early due to demand](https://www.theguardian.com/music/2023/oct/12/taylor-swifts-eras-tour-concert-film-release-date-where-to-watch-early-north-america)
-- [Egypt warned Israel of Hamas attack days earlier, senior US lawmaker says](https://www.theguardian.com/world/2023/oct/12/israel-hamas-war-egypt-warned-foreign-affairs-gaza)
-- [Russia-Ukraine war at a glance: what we know on day 596 of the invasion](https://www.theguardian.com/world/2023/oct/12/russia-ukraine-war-at-a-glance-what-we-know-on-day-596-of-the-invasion)
-- [Real or imagined? NGV examines both sides of photography — in pictures](https://www.theguardian.com/artanddesign/gallery/2023/oct/12/real-or-imagined-ngv-examines-both-sides-of-photography-in-pictures)
-- [‘I have to wear two hats’: Thailand’s breakdancing team confronts hair loss at the Asian Games](https://www.theguardian.com/world/2023/oct/12/thailand-breakdancing-team-hair-loss-asian-games-2023-china)
-- [‘Shocking silence’ over climate crisis in New Zealand election campaign draws criticism](https://www.theguardian.com/world/2023/oct/12/new-zealand-election-2023-nz-campaign-climate-crisis-debate)
-- [Netanyahu sets up emergency Israeli unity government and war cabinet](https://www.theguardian.com/world/2023/oct/11/netanyahu-sets-up-emergency-israeli-unity-government-and-war-cabinet)
-- [Justice secretary blocks release of man who bludgeoned estranged wife to death](https://www.theguardian.com/uk-news/2023/oct/12/justice-secretary-blocks-release-of-man-who-bludgeoned-estranged-wife-to-death)
-- [UK food regulators slash recommended dose of CBD over health risks](https://www.theguardian.com/society/2023/oct/12/uk-food-regulators-slash-recommended-dose-of-cbd-over-health-risks)
+- [The fight to give Indigenous Australians a voice – podcast](https://www.theguardian.com/news/audio/2023/oct/13/the-fight-to-give-indigenous-australians-a-voice-podcast)
+- [Israel-Hamas war live: Palestinian death toll rises to more than 1,500 with more than 420,000 displaced in Gaza](https://www.theguardian.com/world/live/2023/oct/12/israel-hamas-war-live-updates-biden-hamas-attack-holocaust-gaza-displaced-palestine)
+- [Republican hardliner Steve Scalise drops out of House speaker race](https://www.theguardian.com/us-news/2023/oct/12/republican-steve-scalise-drops-out-of-house-speaker-race)
+- [Russia-Ukraine war at a glance: what we know on day 597 of the invasion](https://www.theguardian.com/world/2023/oct/13/russia-ukraine-war-at-a-glance-what-we-know-on-day-597-of-the-invasion)
+- [Australia devoid of spark as Cricket World Cup campaign teeters on brink of crisis | Geoff Lemon](https://www.theguardian.com/sport/blog/2023/oct/13/cricket-world-cup-2023-australia-campaign-south-africa-loss)
+- [Sunset Boulevard review – Nicole Scherzinger dazzles in Jamie Lloyd’s radical rework](https://www.theguardian.com/stage/2023/oct/12/sunset-boulevard-review-nicole-scherzinger-jamie-lloyd-savoy-theatre)
+- [US to send more arms to Israel before expected Gaza invasion](https://www.theguardian.com/us-news/2023/oct/12/us-to-send-more-arms-to-israel-before-expected-gaza-invasion)
+- [Winning $1.765bn Powerball ticket sold at liquor store in tiny California town](https://www.theguardian.com/us-news/2023/oct/12/powerball-lottery-winner-california)
+- [Rudolph Isley, founding member of the Isley Brothers, dies at 84](https://www.theguardian.com/music/2023/oct/12/rudolph-isley-founding-member-of-the-isleys-brothers-dies-at-84)
+- [Wayne Rooney turned down Saudi Arabia chance to take Birmingham job](https://www.theguardian.com/football/2023/oct/12/wayne-rooney-turned-down-saudi-arabia-chance-take-charge-birmingham)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

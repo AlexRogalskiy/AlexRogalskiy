@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [The fight to give Indigenous Australians a voice – podcast](https://www.theguardian.com/news/audio/2023/oct/13/the-fight-to-give-indigenous-australians-a-voice-podcast)
-- [Israel-Hamas war live: Palestinian death toll rises to more than 1,500 with more than 420,000 displaced in Gaza](https://www.theguardian.com/world/live/2023/oct/12/israel-hamas-war-live-updates-biden-hamas-attack-holocaust-gaza-displaced-palestine)
-- [Republican hardliner Steve Scalise drops out of House speaker race](https://www.theguardian.com/us-news/2023/oct/12/republican-steve-scalise-drops-out-of-house-speaker-race)
-- [Russia-Ukraine war at a glance: what we know on day 597 of the invasion](https://www.theguardian.com/world/2023/oct/13/russia-ukraine-war-at-a-glance-what-we-know-on-day-597-of-the-invasion)
-- [Australia devoid of spark as Cricket World Cup campaign teeters on brink of crisis | Geoff Lemon](https://www.theguardian.com/sport/blog/2023/oct/13/cricket-world-cup-2023-australia-campaign-south-africa-loss)
-- [Sunset Boulevard review – Nicole Scherzinger dazzles in Jamie Lloyd’s radical rework](https://www.theguardian.com/stage/2023/oct/12/sunset-boulevard-review-nicole-scherzinger-jamie-lloyd-savoy-theatre)
-- [US to send more arms to Israel before expected Gaza invasion](https://www.theguardian.com/us-news/2023/oct/12/us-to-send-more-arms-to-israel-before-expected-gaza-invasion)
-- [Winning $1.765bn Powerball ticket sold at liquor store in tiny California town](https://www.theguardian.com/us-news/2023/oct/12/powerball-lottery-winner-california)
-- [Rudolph Isley, founding member of the Isley Brothers, dies at 84](https://www.theguardian.com/music/2023/oct/12/rudolph-isley-founding-member-of-the-isleys-brothers-dies-at-84)
-- [Wayne Rooney turned down Saudi Arabia chance to take Birmingham job](https://www.theguardian.com/football/2023/oct/12/wayne-rooney-turned-down-saudi-arabia-chance-take-charge-birmingham)
+- [Israel-Hamas war live: UN says tens of thousands have fled south in Gaza after Israel’s evacuation order](https://www.theguardian.com/world/live/2023/oct/13/israel-hamas-war-live-updates-news-gaza-palestine-evacuations-military)
+- [Russia detains lawyers acting for opposition leader Alexei Navalny](https://www.theguardian.com/world/2023/oct/14/russia-detains-lawyers-acting-for-opposition-leader-alexei-navalny)
+- [Russia-Ukraine war at a glance: what we know on day 598 of the invasion](https://www.theguardian.com/world/2023/oct/14/russia-ukraine-war-at-a-glance-what-we-know-on-day-598-of-the-invasion)
+- [Violence hits East Jerusalem and West Bank as Israel orders Gaza evacuation](https://www.theguardian.com/world/2023/oct/13/violence-erupts-across-occupied-east-jerusalem-amid-israel-gaza-evacuation-order)
+- [House speaker saga underscores Republican party’s dramatic evolution](https://www.theguardian.com/us-news/2023/oct/13/no-house-speaker-what-it-means-republicans-divided)
+- [Dylan Mulvaney says woman-of-the-year award ‘means so much more’ after Bud Light backlash](https://www.theguardian.com/world/2023/oct/13/us-tiktok-trans-activist-woman-of-the-year-award-bud-light-boycott)
+- [Lisa Cameron, SNP MP who defected to Tories, ‘forced into hiding’](https://www.theguardian.com/politics/2023/oct/13/lisa-cameron-snp-mp-who-defected-to-tories-forced-into-hiding)
+- [BBC makes financial settlement with Andrew Flintoff over Top Gear crash](https://www.theguardian.com/uk-news/2023/oct/13/bbc-makes-financial-settlement-with-andrew-flintoff-over-top-gear-crash)
+- [Liquor store in tiny California town to get $1m for selling billion-dollar lottery ticket](https://www.theguardian.com/us-news/2023/oct/12/powerball-lottery-winner-california)
+- [Uncanny review – you’ll shriek in fright! &lpar;At this paranomal show’s nonsense&rpar;](https://www.theguardian.com/tv-and-radio/2023/oct/13/uncanny-review-bbc2-danny-robins-bbc2-paranormal-investigations)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Research Scientists](https://news.ycombinator.com/item?id=37865222)
-- [Bonterms: Standard Agreements for the Enterprise](https://bonterms.com/)
-- [Framework 13 AMD 7040 Series: A Developer&#39;s First Impressions](https://zach.codes/p/a-developers-review-framework-13)
-- [Scrollbars Are Becoming a Problem](https://artemis.sh/2023/10/12/scrollbars.html)
-- [REI is Laying Off 275 Employees](https://old.reddit.com/r/REI/comments/176chas/rei_is_letting_go_275_employees_today/)
-- [You Can&#39;t Currently Download Ubuntu 23.10](https://www.omgubuntu.co.uk/2023/10/ubuntu-23-10-installer-translations-hijack)
-- [Echoes of Electromagnetism Found in Number Theory](https://www.quantamagazine.org/echoes-of-electromagnetism-found-in-number-theory-20231012/)
-- [The Quest to Secure chown and symlinks](https://buildkite.com/blog/paved-with-good-intentions-the-story-of-fix-buildkite-agent-builds-permissions)
-- [TSMC: Ecosystem for 2nm Chip Development Is Nearing Completion](https://www.anandtech.com/show/21091/tsmc-ecosystem-for-2nm-chip-development-is-nearing-completion)
-- [MS Paint Cocreator, a new AI-powered experience powered by DALL-E](https://blogs.windows.com/windows-insider/2023/09/27/paint-app-update-introducing-paint-cocreator-begins-rolling-out-to-windows-insiders/)
+- [You are onboarding developers wrong &lpar;Featuring Ambient Game Engine&rpar;](https://dickymirrors.substack.com/p/you-are-onboarding-developers-wrong)
+- [How to cook ground meat perfectly without vision](https://theblindkitchen.com/how-to-cook-ground-meat-perfectly-every-time/)
+- [Kodable &lpar;YC IK12&rpar; is hiring a Unity game Developer to help teach kids to code](https://www.ycombinator.com/companies/kodable/jobs/67s5cf8-unity-game-developer)
+- [Playing Pokemon Red with Reinforcement Learning](https://github.com/PWhiddy/PokemonRedExperiments)
+- [Extinct goat was cold-blooded &lpar;2009&rpar;](https://phys.org/news/2009-11-extinct-goat-cold-blooded.html)
+- [TimeGPT-1](https://arxiv.org/abs/2310.03589)
+- [Histotripsy – a technique that harnesses soundwaves to attack cancer](https://news.engin.umich.edu/2023/10/these-bubbles-kill-cancer/)
+- [Sodium ascorbate treatment for sepsis moves to next phase of human trials](https://florey.edu.au/news/2023/10/remarkable-medical-discovery-for-sepsis-moves-to-next-phase-of-human-trials/)
+- [iSponsorBlockTV v2: SponsorBlock for TVs and game consoles](https://github.com/dmunozv04/iSponsorBlockTV)
+- [Make Your Car Electric for 5K in Less Than a Day](https://www.jamesdysonaward.org/en-AU/2023/project/revr/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

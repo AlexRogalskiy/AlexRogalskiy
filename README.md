@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ask HN: What&#39;s a marketable and lucrative skill I can learn online in 6 months?](https://news.ycombinator.com/item?id=37865722)
-- [Fastbootstrap](https://fastbootstrap.com/)
-- [Rocky Mountain Ruby 2023 Conference Recap [video]](https://www.youtube.com/watch?v=k21JxGoKgvY)
-- [Overcoming the Fear of Forgetting What You Read](https://www.mahdikarimi.com/blog/being-afraid-about-losing-knowledge)
-- [How British colonialism increased diabetes in south Asians](https://www.theguardian.com/world/video/2023/oct/12/how-british-colonialism-increased-diabetes-in-south-asians)
-- [FusionAuth Town Hall v0.1 &lpar;video&rpar;](https://www.youtube.com/watch?v=sEnYHxx6X6U)
-- [Introducing Dev Container Support in CodeSandbox](https://codesandbox.io/blog/introducing-dev-container-support-in-codesandbox)
-- [Survey on Factuality in Large Language Models](https://arxiv.org/abs/2310.07521)
-- [The PostgreSQL job scheduler you always wanted &lpar;use with caution&rpar;](https://www.timescale.com/blog/the-postgresql-job-scheduler-you-always-wanted-but-be-careful-what-you-ask-for/)
-- [Gitness – Self Hosted GitHub](https://gitness.com)
+- [GPT-4V image prompt injection](https://twitter.com/goodside/status/1713000586843500921)
+- [Washington&#39;s cryptocurrency lobby is scrambling to contain their &quot;Hamas problem&quot;](https://www.politico.com/news/2023/10/13/israel-hamas-war-crypto-elizabeth-warren-00121368)
+- [Naked Mole Rats: Dispersers](https://en.wikipedia.org/wiki/Naked_mole-rat)
+- [Write Code Like You Just Learned How to Program](https://prog21.dadgum.com/87.html)
+- [Google will shield AI users from copyright challenges, within limits](https://arstechnica.com/information-technology/2023/10/google-will-shield-ai-users-from-copyright-challenges-within-limits/)
+- [Thoughts on real-time data display?](https://news.ycombinator.com/item?id=37877461)
+- [Show HN: Multi node training of Llama 70B without crying](https://github.com/higgsfield/higgsfield)
+- [The Disadvantages of an Elite Education &lpar;2008&rpar;](https://theamericanscholar.org/the-disadvantages-of-an-elite-education/)
+- [What Happens When Tony Hsieh Dies with $1B, with No Estate Planning](https://www.williamhalaw.com/post/1/)
+- [Tesla releases official API documentation to support third-party apps](https://electrek.co/2023/10/12/tesla-releases-official-api-documentation-support-third-party-apps/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

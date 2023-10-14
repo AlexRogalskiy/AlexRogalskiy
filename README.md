@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Tech layoffs in 2023: A timeline](https://www.computerworld.com/article/3685936/tech-layoffs-in-2023-a-timeline.html#tk.rss_all)
+- [Microsoft addresses three zero-days for October’s Patch Tuesday](https://www.computerworld.com/article/3708732/microsoft-addresses-three-zero-days-for-october-s-patch-tuesday.html#tk.rss_all)
+- [Here are some of the ways Apple might use generative AI](https://www.computerworld.com/article/3708771/how-apple-might-use-generative-ai.html#tk.rss_all)
+- [UK regulator clears way for Microsoft’s acquisition of Activision](https://www.computerworld.com/article/3708632/uk-regulator-clears-way-for-microsofts-acquisition-of-activision.html#tk.rss_all)
+- [Google indemnifies generative AI customers over IP rights claims](https://www.infoworld.com/article/3708631/google-indemnifies-generative-ai-customers-over-ip-rights-claims.html#tk.rss_all)
+- [Qualcomm to lay off 1,258 employees from its California offices](https://www.computerworld.com/article/3708749/qualcomm-to-lay-off-1258-employees-from-its-california-offices.html#tk.rss_all)
+- [How to replace Edge as the default browser in Windows — and why you shouldn’t](https://www.computerworld.com/article/3229068/how-to-replace-edge-as-windows-default-browser.html#tk.rss_all)
+- [7 buried Android 14 treasures for your Google Pixel phone](https://www.computerworld.com/article/3708216/android-14-google-pixel.html#tk.rss_all)
 - [Why we need to focus AI on relationships](https://www.computerworld.com/article/3708730/why-we-need-to-focus-ai-on-relationships.html#tk.rss_all)
 - [Apple Vision Pro anticipation leaves VR industry gasping](https://www.computerworld.com/article/3708769/apple-vision-pro-anticipation-leaves-vr-industry-gasping.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [Q&amp;A: How Discover Financial Services created an AI governance council](https://www.computerworld.com/article/3708629/how-discover-financial-services-created-ai-governance-council.html#tk.rss_all)
-- [AI bias poses danger to the financial sector, Bank of England warns](https://www.computerworld.com/article/3708748/ai-bias-poses-danger-to-the-financial-sector-bank-of-england-warns.html#tk.rss_all)
-- [Dropbox unveils video app, updates AI tools and web interface for new era of work](https://www.computerworld.com/article/3708311/dropbox-unveils-video-app-updates-ai-tools-and-web-interface-for-new-era-of-work.html#tk.rss_all)
-- [Box unveils new AI-powered content portal Box Hubs](https://www.computerworld.com/article/3708568/box-unveils-new-ai-powered-content-portal-box-hubs.html#tk.rss_all)
-- [California&#39;s Apple-backed Right to Repair Act is the future of tech](https://www.computerworld.com/article/3708332/californias-apple-backed-right-to-repair-act-is-the-future-of-tech.html#tk.rss_all)
-- [AMD to acquire Nod.ai to boost open source AI software capabilities](https://www.networkworld.com/article/3708310/amd-to-acquire-nod-ai-to-boost-open-source-ai-software-capabilities.html#tk.rss_all)
-- [Google used Microsoft’s monopoly playbook to crush Bing — now Microsoft cries foul](https://www.computerworld.com/article/3708298/google-used-microsoft-monopoly-playbook-to-crush-bing-microsoft-cries-foul.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

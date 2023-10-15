@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [GPT-4V image prompt injection](https://twitter.com/goodside/status/1713000586843500921)
-- [Washington&#39;s cryptocurrency lobby is scrambling to contain their &quot;Hamas problem&quot;](https://www.politico.com/news/2023/10/13/israel-hamas-war-crypto-elizabeth-warren-00121368)
-- [Naked Mole Rats: Dispersers](https://en.wikipedia.org/wiki/Naked_mole-rat)
-- [Write Code Like You Just Learned How to Program](https://prog21.dadgum.com/87.html)
-- [Google will shield AI users from copyright challenges, within limits](https://arstechnica.com/information-technology/2023/10/google-will-shield-ai-users-from-copyright-challenges-within-limits/)
-- [Thoughts on real-time data display?](https://news.ycombinator.com/item?id=37877461)
-- [Show HN: Multi node training of Llama 70B without crying](https://github.com/higgsfield/higgsfield)
-- [The Disadvantages of an Elite Education &lpar;2008&rpar;](https://theamericanscholar.org/the-disadvantages-of-an-elite-education/)
-- [What Happens When Tony Hsieh Dies with $1B, with No Estate Planning](https://www.williamhalaw.com/post/1/)
-- [Tesla releases official API documentation to support third-party apps](https://electrek.co/2023/10/12/tesla-releases-official-api-documentation-support-third-party-apps/)
+- [Show HN: Stay safe in war zone by notify people what happened in the area](https://www.afterwar.live/)
+- [GPT-4 Prompt injection via concealed text in image backgrounds](https://twitter.com/goodside/status/1713000581587976372)
+- [My first contact with ESM and CJS](https://blog.deleu.dev/my-first-contact-with-esm-and-cjs/)
+- [Synsepalum Dulcificum &lpar;Miracle Berry&rpar;](https://en.wikipedia.org/wiki/Synsepalum_dulcificum)
+- [Ask HN: Multi national corporation labor laws](https://news.ycombinator.com/item?id=37886088)
+- [Organizing Multiple Git Identities](https://garrit.xyz/posts/2023-10-13-organizing-multiple-git-identities)
+- [The Open Book.io](https://hackaday.io/project/192688-the-open-book)
+- [Ask HN: Anyone hiring for part time work?](https://news.ycombinator.com/item?id=37886026)
+- [Open Book: 2023 HackadayPrize Video](https://www.youtube.com/watch?v=vFD9V8Hh7Yg)
+- [Lake City Ammo Plant Cancels All Commercial Contracts](https://stapledefense.com/lake-city-plant-commercial-contracts/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

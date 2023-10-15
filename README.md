@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [You are onboarding developers wrong &lpar;Featuring Ambient Game Engine&rpar;](https://dickymirrors.substack.com/p/you-are-onboarding-developers-wrong)
-- [How to cook ground meat perfectly without vision](https://theblindkitchen.com/how-to-cook-ground-meat-perfectly-every-time/)
-- [Kodable &lpar;YC IK12&rpar; is hiring a Unity game Developer to help teach kids to code](https://www.ycombinator.com/companies/kodable/jobs/67s5cf8-unity-game-developer)
-- [Playing Pokemon Red with Reinforcement Learning](https://github.com/PWhiddy/PokemonRedExperiments)
-- [Extinct goat was cold-blooded &lpar;2009&rpar;](https://phys.org/news/2009-11-extinct-goat-cold-blooded.html)
-- [TimeGPT-1](https://arxiv.org/abs/2310.03589)
-- [Histotripsy – a technique that harnesses soundwaves to attack cancer](https://news.engin.umich.edu/2023/10/these-bubbles-kill-cancer/)
-- [Sodium ascorbate treatment for sepsis moves to next phase of human trials](https://florey.edu.au/news/2023/10/remarkable-medical-discovery-for-sepsis-moves-to-next-phase-of-human-trials/)
-- [iSponsorBlockTV v2: SponsorBlock for TVs and game consoles](https://github.com/dmunozv04/iSponsorBlockTV)
-- [Make Your Car Electric for 5K in Less Than a Day](https://www.jamesdysonaward.org/en-AU/2023/project/revr/)
+- [Show HN: 3D Binpacking Algorithm Visualized](https://skusavvy.com/bin-packing-preview)
+- [Recipes from Scratch](https://recursiverecipes.schollz.com/)
+- [The 34-year-old airline novice who thinks he&#39;s Richard Branson](https://www.thetimes.co.uk/article/james-asquith-global-airlines-transatlantic-travel-richard-branson-wkznrzhvw)
+- [Bay Area refineries to stop making gasoline](https://www.ktvu.com/news/2-of-5-of-bay-area-refineries-to-stop-making-gasoline)
+- [Linux on the Web: Getting a handle on the files in the browser](https://linuxontheweb.github.io/docs/what-it-is.html)
+- [Real-Time Research: Top Reference Systems &lpar;Design Systems and UI Libs&rpar; 2023](https://app.excalidraw.com/l/5M4i1z9oaht/2Be9A63OXZt)
+- [WordPress blogs can now be followed on Mastodon and other federated platforms](https://techcrunch.com/2023/10/11/wordpress-com-blogs-can-now-be-followed-on-mastodon-and-other-federated-platforms/)
+- [The Scientist and the Warplane That Became Britain&#39;s Most Unlikely Airliner](https://www.thedrive.com/the-war-zone/the-nuclear-scientist-and-the-warplane-that-became-britains-most-unlikely-airliner)
+- [Anti-Anti-Adblocker uBlock filter to get rid of the annoying YouTube message](https://twitter.com/endermanch/status/1713129854818742684)
+- [Skio &lpar;YC S20&rpar; Is Hiring – Subscriptions for Shopify, ReCharge Migrations](https://skio.com/careers/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

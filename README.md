@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Israel-Hamas war live: UN says tens of thousands have fled south in Gaza after Israel’s evacuation order](https://www.theguardian.com/world/live/2023/oct/13/israel-hamas-war-live-updates-news-gaza-palestine-evacuations-military)
-- [Russia detains lawyers acting for opposition leader Alexei Navalny](https://www.theguardian.com/world/2023/oct/14/russia-detains-lawyers-acting-for-opposition-leader-alexei-navalny)
-- [Russia-Ukraine war at a glance: what we know on day 598 of the invasion](https://www.theguardian.com/world/2023/oct/14/russia-ukraine-war-at-a-glance-what-we-know-on-day-598-of-the-invasion)
-- [Violence hits East Jerusalem and West Bank as Israel orders Gaza evacuation](https://www.theguardian.com/world/2023/oct/13/violence-erupts-across-occupied-east-jerusalem-amid-israel-gaza-evacuation-order)
-- [House speaker saga underscores Republican party’s dramatic evolution](https://www.theguardian.com/us-news/2023/oct/13/no-house-speaker-what-it-means-republicans-divided)
-- [Dylan Mulvaney says woman-of-the-year award ‘means so much more’ after Bud Light backlash](https://www.theguardian.com/world/2023/oct/13/us-tiktok-trans-activist-woman-of-the-year-award-bud-light-boycott)
-- [Lisa Cameron, SNP MP who defected to Tories, ‘forced into hiding’](https://www.theguardian.com/politics/2023/oct/13/lisa-cameron-snp-mp-who-defected-to-tories-forced-into-hiding)
-- [BBC makes financial settlement with Andrew Flintoff over Top Gear crash](https://www.theguardian.com/uk-news/2023/oct/13/bbc-makes-financial-settlement-with-andrew-flintoff-over-top-gear-crash)
-- [Liquor store in tiny California town to get $1m for selling billion-dollar lottery ticket](https://www.theguardian.com/us-news/2023/oct/12/powerball-lottery-winner-california)
-- [Uncanny review – you’ll shriek in fright! &lpar;At this paranomal show’s nonsense&rpar;](https://www.theguardian.com/tv-and-radio/2023/oct/13/uncanny-review-bbc2-danny-robins-bbc2-paranormal-investigations)
+- [Israel-Hamas war live: US sends second aircraft carrier ‘to deter hostile actions against Israel’; ground assault on Gaza looms](https://www.theguardian.com/world/live/2023/oct/14/israel-hamas-war-live-un-says-tens-of-thousands-have-fled-south-in-gaza-israel-strikes-hezbollah-target-in-lebanon-says-idf)
+- [Russia-Ukraine war at a glance: what we know on day 5998 of the invasion](https://www.theguardian.com/world/2023/oct/15/russia-ukraine-war-at-a-glance-what-we-know-on-day-5998-of-the-invasion)
+- [Piper Laurie, Oscar nominee for Carrie and The Hustler, dies at 91](https://www.theguardian.com/film/2023/oct/14/piper-laurie-oscar-nominee-for-carrie-and-the-hustler-dies-at-91)
+- [Stephen Rubin, book publisher for John Grisham and Dan Brown, dead at 81](https://www.theguardian.com/books/2023/oct/14/stephen-rubin-book-publisher-dead-john-grisham-dan-brown)
+- [If not now, when? Questions will haunt Ireland after heartbreaking loss | Jonathan Liew](https://www.theguardian.com/sport/blog/2023/oct/14/if-not-now-when-questions-will-haunt-ireland-after-heartbreaking-loss)
+- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2023/oct/14/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Andy Farrell admits ‘cruel’ World Cup defeat is ‘the end’ for great Ireland side](https://www.theguardian.com/sport/2023/oct/14/andy-farrell-admits-cruel-world-cup-defeat-is-the-end-for-great-ireland-side)
+- [Arizona tribe protests lack of charges for border agents who killed Raymond Mattia](https://www.theguardian.com/us-news/2023/oct/14/arizona-tribe-tohono-oodham-nation-raymond-mattia)
+- [Euro 2024 qualifiers: Italy cruise past Malta to keep pressure on England](https://www.theguardian.com/football/2023/oct/14/euro-2024-qualifiers-roundup-northern-ireland-san-marino)
+- [Alexander-Arnold is biggest teaser in endless England midfield question | David Hytner](https://www.theguardian.com/football/2023/oct/14/alexander-arnold-is-biggest-teaser-in-endless-england-midfield-question)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

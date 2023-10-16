@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: Stay safe in war zone by notify people what happened in the area](https://www.afterwar.live/)
-- [GPT-4 Prompt injection via concealed text in image backgrounds](https://twitter.com/goodside/status/1713000581587976372)
-- [My first contact with ESM and CJS](https://blog.deleu.dev/my-first-contact-with-esm-and-cjs/)
-- [Synsepalum Dulcificum &lpar;Miracle Berry&rpar;](https://en.wikipedia.org/wiki/Synsepalum_dulcificum)
-- [Ask HN: Multi national corporation labor laws](https://news.ycombinator.com/item?id=37886088)
-- [Organizing Multiple Git Identities](https://garrit.xyz/posts/2023-10-13-organizing-multiple-git-identities)
-- [The Open Book.io](https://hackaday.io/project/192688-the-open-book)
-- [Ask HN: Anyone hiring for part time work?](https://news.ycombinator.com/item?id=37886026)
-- [Open Book: 2023 HackadayPrize Video](https://www.youtube.com/watch?v=vFD9V8Hh7Yg)
-- [Lake City Ammo Plant Cancels All Commercial Contracts](https://stapledefense.com/lake-city-plant-commercial-contracts/)
+- [Ask HN: What consent API services are you using](https://news.ycombinator.com/item?id=37895244)
+- [Tsundoku – Phenomenon of acquiring reading materials but letting them pile up](https://en.wikipedia.org/wiki/Tsundoku)
+- [Why Uncontacted Tribes Want to Stay Uncontacted](https://www.theatlantic.com/ideas/archive/2023/10/north-sentinel-island-tribes-maurice-vidal-portman/675563/)
+- [a Rust job board for non-crypto jobs](https://www.rustjobs.fyi/)
+- [Top New York museum to remove all human remains from display](https://www.theguardian.com/us-news/2023/oct/15/american-museum-of-natural-history-human-remains)
+- [Stellar fountain of youth in the centre of our galaxy](https://portal.uni-koeln.de/en/universitaet/aktuell/press-releases/single-news/stellar-fountain-of-youth-with-turbulent-formation-history-in-the-centre-of-our-galaxy)
+- [Forever is such a short, long time](https://bessstillman.substack.com/p/forever-is-short-long-time)
+- [How I Remove Beehives from the Walls of Houses](https://slate.com/technology/2023/10/beehives-house-walls-removal-turtle-creek-lane.html)
+- [Why Is the Front End Stack So Complicated?](https://matt-rickard.com/why-is-the-frontend-stack-so-complicated)
+- [Can German engineering solve the challenges of fusion?](https://www.bbc.com/news/business-66926972)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ask HN: What consent API services are you using](https://news.ycombinator.com/item?id=37895244)
-- [Tsundoku – Phenomenon of acquiring reading materials but letting them pile up](https://en.wikipedia.org/wiki/Tsundoku)
-- [Why Uncontacted Tribes Want to Stay Uncontacted](https://www.theatlantic.com/ideas/archive/2023/10/north-sentinel-island-tribes-maurice-vidal-portman/675563/)
-- [a Rust job board for non-crypto jobs](https://www.rustjobs.fyi/)
-- [Top New York museum to remove all human remains from display](https://www.theguardian.com/us-news/2023/oct/15/american-museum-of-natural-history-human-remains)
-- [Stellar fountain of youth in the centre of our galaxy](https://portal.uni-koeln.de/en/universitaet/aktuell/press-releases/single-news/stellar-fountain-of-youth-with-turbulent-formation-history-in-the-centre-of-our-galaxy)
-- [Forever is such a short, long time](https://bessstillman.substack.com/p/forever-is-short-long-time)
-- [How I Remove Beehives from the Walls of Houses](https://slate.com/technology/2023/10/beehives-house-walls-removal-turtle-creek-lane.html)
-- [Why Is the Front End Stack So Complicated?](https://matt-rickard.com/why-is-the-frontend-stack-so-complicated)
-- [Can German engineering solve the challenges of fusion?](https://www.bbc.com/news/business-66926972)
+- [The Web Is for User Agency](https://berjon.com/user-agency/)
+- [Jamais vu: the science behind eerie opposite of déjà vu](https://theconversation.com/jamais-vu-the-science-behind-eerie-opposite-of-deja-vu-213596)
+- [Creating a tiny clone of contexto.me: contextito](https://snats.xyz/pages/articles/created_contextito.html)
+- [California cities ban new gas stations in battle to combat climate change](https://www.latimes.com/california/story/2022-07-11/california-cities-ban-new-gas-stations-amid-climate-change)
+- [The Salmon on Your Plate Has a Troubling Cost. These Farms Offer Hope](https://www.nytimes.com/2023/10/16/dining/farm-raised-salmon-sustainability.html)
+- [Antibiotic Identified by AI](https://www.nature.com/articles/s41589-023-01448-6)
+- [Just-JS: small, secure, robust and performant JavaScript runtime for Linux](https://github.com/just-js/just)
+- [Exploitation Business](https://arxiv.org/abs/2310.09802)
+- [The CEO of Dropbox has a 90/10 rule for remote work](https://www.businessinsider.com/remote-work-return-to-office-dropbox-ceo-90-10-rule-2023-10)
+- [MatFormer: Nested Transformer for Elastic Inference](https://arxiv.org/abs/2310.07707)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

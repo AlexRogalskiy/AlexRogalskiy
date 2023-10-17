@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [The hidden cost of cancer – podcast](https://www.theguardian.com/news/audio/2023/oct/16/the-hidden-cost-of-cancer-podcast)
-- [Israel-Hamas war live: Biden says Israel occupation of Gaza would be ‘big mistake’; 24 hours’ more fuel at Gaza hospitals, says UN](https://www.theguardian.com/world/live/2023/oct/15/israel-hamas-war-live-us-sends-second-aircraft-carrier-to-deter-hostile-actions-against-israel-ground-assault-on-gaza-looms)
-- [Prominent Iranian film-maker Dariush Mehrjui stabbed to death alongside his wife](https://www.theguardian.com/world/2023/oct/16/prominent-iranian-film-maker-dariush-mehrjui-stabbed-to-death-alongside-his-wife)
-- [Long-lost Star Wars X-Wing model auctioned for a record-breaking $3.1m](https://www.theguardian.com/film/2023/oct/16/star-wars-x-wing-model-auction-rare-prop-found-sold-record-breaking-heritage-auctions)
-- [‘It has the best cheesy flavour’: five ways to make vegan food creamy, crispy or fluffy](https://www.theguardian.com/food/2023/oct/16/it-has-the-best-cheesy-flavour-five-ways-to-make-vegan-food-creamy-crispy-or-fluffy)
-- [Russia-Ukraine war at a glance: what we know on day 600 of the invasion](https://www.theguardian.com/world/2023/oct/16/russia-ukraine-war-at-a-glance-what-we-know-on-day-600-of-the-invasion)
-- [Hamas and Israel at war: what we know on day 10](https://www.theguardian.com/world/2023/oct/16/hamas-and-israel-at-war-what-we-know-on-day-ten)
-- [Landlord kills six-year-old Muslim boy and stabs mother in Illinois hate crime](https://www.theguardian.com/us-news/2023/oct/15/plainfield-illinois-plainfield-six-year-old-muslim-boy-mother-murder-hate-crime)
-- [MoJ to free up cells by deporting more foreign prisoners and axing short terms](https://www.theguardian.com/society/2023/oct/16/moj-to-free-up-cells-by-deporting-more-foreign-prisoners-and-axing-short-terms)
-- [UK house prices rise at slowest post-summer rate since 2008 crash](https://www.theguardian.com/business/2023/oct/16/uk-house-prices-rise-at-slowest-post-summer-rate-since-2008-crash)
+- [Israel-Hamas war live: Biden to visit Israel on Wednesday; Iran warns of ‘pre-emptive action’ as Gaza ground assault looms](https://www.theguardian.com/world/live/2023/oct/16/israel-hamas-war-live-update-news-today-gaza-water-fuel-aid-egypt-border-rafah-crossing-latest-updates)
+- [Is the SNP’s independence dream fading? – podcast](https://www.theguardian.com/news/audio/2023/oct/17/is-the-snp-independence-dream-fading-podcast)
+- [‘They challenged the Communist monopoly’: Vietnam regime turns on its climate champions](https://www.theguardian.com/world/2023/oct/17/they-challenged-the-communist-monopoly-vietnam-regime-turns-on-its-climate-champions)
+- [Brussels on high alert as two Swedes killed in shooting and suspect remains at large](https://www.theguardian.com/world/2023/oct/16/people-killed-brussels-shooting-police-say)
+- [Hamas releases first hostage video as senior figure says it has ‘what it needs’ to free all Palestinian prisoners](https://www.theguardian.com/world/2023/oct/16/israeli-hostages-hamas-gaza)
+- [India’s supreme court to hand down verdict on same-sex marriage](https://www.theguardian.com/world/2023/oct/17/india-same-sex-gay-marriage-supreme-court-decision-verdict)
+- [Russia-Ukraine war at a glance: what we know on day 601 of the invasion](https://www.theguardian.com/world/2023/oct/17/russia-ukraine-war-at-a-glance-what-we-know-on-day-601-of-the-invasion)
+- [Gambling firms to be forced to pay about £100m a year to NHS](https://www.theguardian.com/society/2023/oct/17/gambling-firms-forced-pay-about-100m-year-nhs)
+- [Homes for Ukraine funding halt could put thousands on streets, says watchdog](https://www.theguardian.com/uk-news/2023/oct/17/homes-for-ukraine-funding-halt-could-put-thousands-on-streets-says-watchdog)
+- [Tories have no room for tax cuts despite £52bn a year stealth rise, says IFS](https://www.theguardian.com/business/2023/oct/17/tories-tax-cuts-stealth-rise-ifs-uk-inflation)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Generative AI spending to reach $143 billion in 2027: IDC](https://www.computerworld.com/article/3708633/generative-ai-spending-to-reach-143-billion-in-2027-idc.html#tk.rss_all)
+- [How to use Presenter Overlay for better Zoom calls on Macs](https://www.computerworld.com/article/3708735/how-to-use-presenter-overlay-for-better-zoom-calls-on-macs.html#tk.rss_all)
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [A flight simulator for the office: How VR is helping workers hone soft skills](https://www.computerworld.com/article/3708750/vr-helps-workers-hone-soft-skills.html#tk.rss_all)
 - [Tech layoffs in 2023: A timeline](https://www.computerworld.com/article/3685936/tech-layoffs-in-2023-a-timeline.html#tk.rss_all)
 - [Microsoft addresses three zero-days for October’s Patch Tuesday](https://www.computerworld.com/article/3708732/microsoft-addresses-three-zero-days-for-october-s-patch-tuesday.html#tk.rss_all)
 - [Here are some of the ways Apple might use generative AI](https://www.computerworld.com/article/3708771/how-apple-might-use-generative-ai.html#tk.rss_all)
 - [UK regulator clears way for Microsoft’s acquisition of Activision](https://www.computerworld.com/article/3708632/uk-regulator-clears-way-for-microsofts-acquisition-of-activision.html#tk.rss_all)
 - [Google indemnifies generative AI customers over IP rights claims](https://www.infoworld.com/article/3708631/google-indemnifies-generative-ai-customers-over-ip-rights-claims.html#tk.rss_all)
 - [Qualcomm to lay off 1,258 employees from its California offices](https://www.computerworld.com/article/3708749/qualcomm-to-lay-off-1258-employees-from-its-california-offices.html#tk.rss_all)
-- [How to replace Edge as the default browser in Windows — and why you shouldn’t](https://www.computerworld.com/article/3229068/how-to-replace-edge-as-windows-default-browser.html#tk.rss_all)
-- [7 buried Android 14 treasures for your Google Pixel phone](https://www.computerworld.com/article/3708216/android-14-google-pixel.html#tk.rss_all)
-- [Why we need to focus AI on relationships](https://www.computerworld.com/article/3708730/why-we-need-to-focus-ai-on-relationships.html#tk.rss_all)
-- [Apple Vision Pro anticipation leaves VR industry gasping](https://www.computerworld.com/article/3708769/apple-vision-pro-anticipation-leaves-vr-industry-gasping.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

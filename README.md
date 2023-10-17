@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [MemGPT: Towards LLMs as Operating Systems](https://arxiv.org/abs/2310.08560)
-- [Canada Abruptly Ends Official Time Signal](https://hackaday.com/2023/10/13/canada-abruptly-ends-official-time-signal/)
-- [Engineering Judgement: Ralph Peck [video]](https://peck.geoengineer.org/resources/videos/singleVideo/41)
-- [Margaret Atwood Reviews a Margaret Atwood Story by AI](https://thewalrus.ca/margaret-atwood-ai/)
-- [Teaching Apple Cyberdog 1.0 new tricks &lpar;featuring OpenDoc&rpar;](http://oldvcr.blogspot.com/2023/10/teaching-apple-cyberdog-10-new-tricks.html)
-- [Microsoft buys Activision – what happens to Infocom&#39;s text adventures now?](https://blog.zarfhome.com/2023/10/microsoft-consumes-activision)
-- [GPL-3.0 licensed BIOS for Intel 8088 based computers](https://github.com/skiselev/8088_bios)
-- [Freshpaint &lpar;YC S19&rpar; Is Hiring Software Engineers to Protect Patient Privacy](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
-- [Yes, You Can Use Lightguns on LCDs– Sometimes](https://nicole.express/2023/bang-bang-youre-dead.html)
-- [The Sycamore Gap tree held a particularly deep place in people&#39;s hearts](https://www.economist.com/obituary/2023/10/04/the-sycamore-gap-tree-held-a-particularly-deep-place-in-peoples-hearts)
+- [Ford lays off 700 who were building electric version of F-150](https://www.cnn.com/2023/10/16/business/ford-f150-lightning-layoffs/index.html)
+- [Antarctic Ice Shelf Demise](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Antarctic_ice_shelf_demise)
+- [Rite Aid Files for Bankruptcy](https://www.cbsnews.com/news/rite-aid-bankruptcy-opioids-lawsuits/)
+- [Ruff v0.1.0](https://astral.sh/blog/ruff-v0.1.0)
+- [Getaddrinfo&lpar;&rpar; on glibc calls getenv&lpar;&rpar;, oh boy](https://rachelbythebay.com/w/2023/10/16/env/)
+- [NASA&#39;s Webb captures an ethereal view of NGC 346](https://phys.org/news/2023-10-nasa-webb-captures-ethereal-view.html)
+- [Detroit wants to be the first big American city to tax land value](https://www.economist.com/united-states/2023/10/05/detroit-wants-to-be-the-first-big-american-city-to-tax-land-value)
+- [Skyvew – View and share Bluesky threads without needing a Bluesky account](https://skyview.social/)
+- [BitVM: Compute Anything on Bitcoin [pdf]](https://bitvm.org/bitvm.pdf)
+- [20% of LinkedIn&#39;s recent layoffs were managers](https://news.ycombinator.com/item?id=37907433)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

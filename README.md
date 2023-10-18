@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Ford lays off 700 who were building electric version of F-150](https://www.cnn.com/2023/10/16/business/ford-f150-lightning-layoffs/index.html)
-- [Antarctic Ice Shelf Demise](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Antarctic_ice_shelf_demise)
-- [Rite Aid Files for Bankruptcy](https://www.cbsnews.com/news/rite-aid-bankruptcy-opioids-lawsuits/)
-- [Ruff v0.1.0](https://astral.sh/blog/ruff-v0.1.0)
-- [Getaddrinfo&lpar;&rpar; on glibc calls getenv&lpar;&rpar;, oh boy](https://rachelbythebay.com/w/2023/10/16/env/)
-- [NASA&#39;s Webb captures an ethereal view of NGC 346](https://phys.org/news/2023-10-nasa-webb-captures-ethereal-view.html)
-- [Detroit wants to be the first big American city to tax land value](https://www.economist.com/united-states/2023/10/05/detroit-wants-to-be-the-first-big-american-city-to-tax-land-value)
-- [Skyvew – View and share Bluesky threads without needing a Bluesky account](https://skyview.social/)
-- [BitVM: Compute Anything on Bitcoin [pdf]](https://bitvm.org/bitvm.pdf)
-- [20% of LinkedIn&#39;s recent layoffs were managers](https://news.ycombinator.com/item?id=37907433)
+- [LinkedIn lays off nearly 700 staff, engineers to suffer the most](https://www.theregister.com/2023/10/16/linkedin_layoffs/)
+- [4K4D: Real-Time 4D View Synthesis at 4K Resolution](https://zju3dv.github.io/4k4d/)
+- [Psytrance Guide](https://psytranceguide.com/)
+- [Waymo Layoffs](https://sfstandard.com/2023/10/17/tech-layoffs-waymo-san-francisco-robotaxi/)
+- [Anti-ageing molecule boosts fertility in ageing mice](https://www.nature.com/articles/d41586-023-03224-x)
+- [Google opens Falcon, a reliable low-latency hardware transport, to the ecosystem](https://cloud.google.com/blog/topics/systems/introducing-falcon-a-reliable-low-latency-hardware-transport)
+- [The pneumatic tube mail system in New York City](https://untappedcities.com/2023/10/17/pneumatic-tube-mail-new-york-city/)
+- [Universal cancer vaccine trial shows significant improvement in overall survival](https://ultimovacs.com/investors/news/ultimovacs-announces-nipu-results-presented-at-esmo-2023-significant-and-clinically-meaningful-improvement-in-overall-survival-for-patients-receiving-uv1-cancer-vaccine-in-phase-ii-nipu-trial-in-mali)
+- [&quot;A Young Lady&#39;s Illustrated Primer&quot; Simulated by GPT-4](https://www.andrealyip.com/a-young-ladys-illustrated-primer)
+- [MixRank &lpar;YC S11&rpar; Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=37921497)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

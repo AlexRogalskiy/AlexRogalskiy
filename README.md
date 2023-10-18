@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Microsoft launches AI content safety service](https://www.computerworld.com/article/3708637/microsoft-launches-ai-content-safety-service.html#tk.rss_all)
+- [University of Kentucky unlocks 60% cut in IT costs with Apple](https://www.computerworld.com/article/3708774/university-of-kentucky-unlocks-60-cut-in-it-costs-with-apple.html#tk.rss_all)
+- [Atlassian aims to improve developer experience with Compass](https://www.computerworld.com/article/3708772/atlassian-aims-to-improve-developer-experience-with-compass.html#tk.rss_all)
+- [Prisma chief med officer: AI offers ‘tremendous opportunities’ but shouldn’t replace doctors](https://www.computerworld.com/article/3708669/prisma-chief-med-officer-ai-healthcare-opportunities.html#tk.rss_all)
 - [Generative AI spending to reach $143 billion in 2027: IDC](https://www.computerworld.com/article/3708633/generative-ai-spending-to-reach-143-billion-in-2027-idc.html#tk.rss_all)
 - [How to use Presenter Overlay for better Zoom calls on Macs](https://www.computerworld.com/article/3708735/how-to-use-presenter-overlay-for-better-zoom-calls-on-macs.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [A flight simulator for the office: How VR is helping workers hone soft skills](https://www.computerworld.com/article/3708750/vr-helps-workers-hone-soft-skills.html#tk.rss_all)
 - [Tech layoffs in 2023: A timeline](https://www.computerworld.com/article/3685936/tech-layoffs-in-2023-a-timeline.html#tk.rss_all)
 - [Microsoft addresses three zero-days for October’s Patch Tuesday](https://www.computerworld.com/article/3708732/microsoft-addresses-three-zero-days-for-october-s-patch-tuesday.html#tk.rss_all)
-- [Here are some of the ways Apple might use generative AI](https://www.computerworld.com/article/3708771/how-apple-might-use-generative-ai.html#tk.rss_all)
-- [UK regulator clears way for Microsoft’s acquisition of Activision](https://www.computerworld.com/article/3708632/uk-regulator-clears-way-for-microsofts-acquisition-of-activision.html#tk.rss_all)
-- [Google indemnifies generative AI customers over IP rights claims](https://www.infoworld.com/article/3708631/google-indemnifies-generative-ai-customers-over-ip-rights-claims.html#tk.rss_all)
-- [Qualcomm to lay off 1,258 employees from its California offices](https://www.computerworld.com/article/3708749/qualcomm-to-lay-off-1258-employees-from-its-california-offices.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

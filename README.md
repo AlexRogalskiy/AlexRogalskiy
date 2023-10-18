@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Israel-Hamas war live: Biden to visit Israel on Wednesday; Iran warns of ‘pre-emptive action’ as Gaza ground assault looms](https://www.theguardian.com/world/live/2023/oct/16/israel-hamas-war-live-update-news-today-gaza-water-fuel-aid-egypt-border-rafah-crossing-latest-updates)
-- [Is the SNP’s independence dream fading? – podcast](https://www.theguardian.com/news/audio/2023/oct/17/is-the-snp-independence-dream-fading-podcast)
-- [‘They challenged the Communist monopoly’: Vietnam regime turns on its climate champions](https://www.theguardian.com/world/2023/oct/17/they-challenged-the-communist-monopoly-vietnam-regime-turns-on-its-climate-champions)
-- [Brussels on high alert as two Swedes killed in shooting and suspect remains at large](https://www.theguardian.com/world/2023/oct/16/people-killed-brussels-shooting-police-say)
-- [Hamas releases first hostage video as senior figure says it has ‘what it needs’ to free all Palestinian prisoners](https://www.theguardian.com/world/2023/oct/16/israeli-hostages-hamas-gaza)
-- [India’s supreme court to hand down verdict on same-sex marriage](https://www.theguardian.com/world/2023/oct/17/india-same-sex-gay-marriage-supreme-court-decision-verdict)
-- [Russia-Ukraine war at a glance: what we know on day 601 of the invasion](https://www.theguardian.com/world/2023/oct/17/russia-ukraine-war-at-a-glance-what-we-know-on-day-601-of-the-invasion)
-- [Gambling firms to be forced to pay about £100m a year to NHS](https://www.theguardian.com/society/2023/oct/17/gambling-firms-forced-pay-about-100m-year-nhs)
-- [Homes for Ukraine funding halt could put thousands on streets, says watchdog](https://www.theguardian.com/uk-news/2023/oct/17/homes-for-ukraine-funding-halt-could-put-thousands-on-streets-says-watchdog)
-- [Tories have no room for tax cuts despite £52bn a year stealth rise, says IFS](https://www.theguardian.com/business/2023/oct/17/tories-tax-cuts-stealth-rise-ifs-uk-inflation)
+- [The deadly stakes of a ground invasion of Gaza | podcast](https://www.theguardian.com/news/audio/2023/oct/18/the-deadly-stakes-of-a-ground-invasion-of-gaza-podcast)
+- [Israel-Hamas war live: deadly Gaza hospital blast sparks protests across Middle East; Biden cancels Jordan visit](https://www.theguardian.com/world/live/2023/oct/17/israel-hamas-war-live-gaza-city-update-news-today-joe-biden-visit-aid-plan-latest-updates)
+- [‘Horrific’: 189 bodies found and removed from Colorado ‘green’ funeral home](https://www.theguardian.com/us-news/2023/oct/17/colorado-funeral-home-decaying-bodies-found)
+- [Russia-Ukraine war at a glance: what we know on day 602 of the invasion](https://www.theguardian.com/world/2023/oct/18/russia-ukraine-war-at-a-glance-what-we-know-on-day-602-of-the-invasion)
+- [Hamas and Israel at war: what we know on day 12](https://www.theguardian.com/world/2023/oct/18/hamas-and-israel-at-war-what-we-know-on-day-12)
+- [Delay EU tariffs to help sales of electric cars, says UK car industry](https://www.theguardian.com/business/2023/oct/18/delay-eu-tariffs-to-help-sales-of-electric-cars-says-uk-car-industry)
+- [UK infrastructure needs much more investment, say government advisers](https://www.theguardian.com/business/2023/oct/18/uk-infrastructure-needs-much-more-investment-say-government-advisers)
+- [Carla Bley, imaginative jazz pianist and composer, dies aged 87](https://www.theguardian.com/music/2023/oct/18/carla-bley-dead-aged-87-jazz-pianist-composer-dies)
+- [Over the counter genetic tests in UK ‘fail to identify 89%’ of those at serious risk](https://www.theguardian.com/society/2023/oct/17/over-the-counter-genetic-tests-in-uk-fail-to-identify-89-of-those-at-serious-risk)
+- [Euro 2024 qualifiers roundup: Ukraine come from behind to avoid Malta shock](https://www.theguardian.com/football/2023/oct/17/euro-2024-qualifiers-roundup-ukraine-come-from-behind-to-avoid-malta-shock)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

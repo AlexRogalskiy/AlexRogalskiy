@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Web Is for User Agency](https://berjon.com/user-agency/)
-- [Jamais vu: the science behind eerie opposite of déjà vu](https://theconversation.com/jamais-vu-the-science-behind-eerie-opposite-of-deja-vu-213596)
-- [Creating a tiny clone of contexto.me: contextito](https://snats.xyz/pages/articles/created_contextito.html)
-- [California cities ban new gas stations in battle to combat climate change](https://www.latimes.com/california/story/2022-07-11/california-cities-ban-new-gas-stations-amid-climate-change)
-- [The Salmon on Your Plate Has a Troubling Cost. These Farms Offer Hope](https://www.nytimes.com/2023/10/16/dining/farm-raised-salmon-sustainability.html)
-- [Antibiotic Identified by AI](https://www.nature.com/articles/s41589-023-01448-6)
-- [Just-JS: small, secure, robust and performant JavaScript runtime for Linux](https://github.com/just-js/just)
-- [Exploitation Business](https://arxiv.org/abs/2310.09802)
-- [The CEO of Dropbox has a 90/10 rule for remote work](https://www.businessinsider.com/remote-work-return-to-office-dropbox-ceo-90-10-rule-2023-10)
-- [MatFormer: Nested Transformer for Elastic Inference](https://arxiv.org/abs/2310.07707)
+- [Qualcomm to Bring RISC-V Based Wearable Platform to Wear OS by Google](https://www.qualcomm.com/news/releases/2023/10/qualcomm-to-bring-risc-v-based-wearable-platform-to--wear-os-by-)
+- [Apple A17 Pro vs. every other modern Apple processor](https://www.macworld.com/article/556384/apple-silicon-iphone-a16-ipad-mac-m2-pro-max-benchmarks.html)
+- [How to build your RAG application from scratch with Byzer-SQL](https://docs.byzer.org/#/public/blog/en-us/how-to-use-byzer-sql-to-build-rag-based-application.md)
+- [Amazon announces the launch of Amazon.co.za in South Africa in 2024](https://www.aboutamazon.com/news/retail/amazon-south-africa-store-launch)
+- [Twitter introduces $1/year change for new users](https://twitter.com/Support/status/1714429406192582896)
+- [San Fran Graffiti &#39;Kingpin&#39; Suspect Arrested as Thousands of Tags Sweep City](https://sfstandard.com/2023/10/16/san-francisco-graffiti-goer-tagger-kingpin-arrested/)
+- [AI in the Academy – Cautious embrace of a new technology](https://www.harvardmagazine.com/2023/11/jhj-portrait-ai-teaching-learning)
+- [The right to select text is a basic right of every user. Don&#39;t take it away](https://grumpy.website/1393)
+- [Dive into Deep Learning](https://d2l.ai/)
+- [Grayjay from FUTO [video]](https://www.youtube.com/watch?v=5DePDzfyWkw)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

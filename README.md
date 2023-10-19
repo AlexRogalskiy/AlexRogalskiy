@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [LinkedIn lays off nearly 700 staff, engineers to suffer the most](https://www.theregister.com/2023/10/16/linkedin_layoffs/)
-- [4K4D: Real-Time 4D View Synthesis at 4K Resolution](https://zju3dv.github.io/4k4d/)
-- [Psytrance Guide](https://psytranceguide.com/)
-- [Waymo Layoffs](https://sfstandard.com/2023/10/17/tech-layoffs-waymo-san-francisco-robotaxi/)
-- [Anti-ageing molecule boosts fertility in ageing mice](https://www.nature.com/articles/d41586-023-03224-x)
-- [Google opens Falcon, a reliable low-latency hardware transport, to the ecosystem](https://cloud.google.com/blog/topics/systems/introducing-falcon-a-reliable-low-latency-hardware-transport)
-- [The pneumatic tube mail system in New York City](https://untappedcities.com/2023/10/17/pneumatic-tube-mail-new-york-city/)
-- [Universal cancer vaccine trial shows significant improvement in overall survival](https://ultimovacs.com/investors/news/ultimovacs-announces-nipu-results-presented-at-esmo-2023-significant-and-clinically-meaningful-improvement-in-overall-survival-for-patients-receiving-uv1-cancer-vaccine-in-phase-ii-nipu-trial-in-mali)
-- [&quot;A Young Lady&#39;s Illustrated Primer&quot; Simulated by GPT-4](https://www.andrealyip.com/a-young-ladys-illustrated-primer)
-- [MixRank &lpar;YC S11&rpar; Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=37921497)
+- [United Airlines plans to board passengers with window seats first](https://www.cbsnews.com/news/united-air-window-seats-economy-class-board-first-wilma-plan/)
+- [Retroactive: Run Aperture, iPhoto and iTunes on macOS Ventura, Monterey, Big Sur](https://github.com/cormiertyshawn895/Retroactive)
+- [Consortium launched to build the largest open LLM](https://www.utu.fi/en/news/press-release/university-of-turku-and-silogen-launch-consortium-to-build-the-worlds-largest)
+- [Etleap &lpar;YC W13&rpar; Is Hiring a Software Engineer &lpar;London – OR – San Francisco&rpar;](https://etleap.com/careers/software-engineer/)
+- [The iOS option to charge battery to &quot;80% Limit&quot; shouldn&#39;t just be for iPhone 15](https://keydiscussions.com/2023/10/19/apples-new-80-battery-limit-feature-should-not-be-limited-to-the-iphone-15/)
+- [Colorado Supreme Court Upholds Keyword Search Warrant](https://www.eff.org/deeplinks/2023/10/colorado-supreme-court-upholds-keyword-search-warrant)
+- [xVal: A continuous number encoding for large language models](https://arxiv.org/abs/2310.02989)
+- [Zero ASIC is out of stealth](https://www.zeroasic.com/blog/zero-asic-democratizing-chip-making)
+- [ArgoCon – Vendor-neutral Argo-focused Event](https://akuity.io/argocon/)
+- [Ask HN: Is anyone using cloud dev environments &lpar;e.g. Codespaces/Replit&rpar; at work?](https://news.ycombinator.com/item?id=37934488)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

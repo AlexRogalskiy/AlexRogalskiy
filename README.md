@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [The deadly stakes of a ground invasion of Gaza | podcast](https://www.theguardian.com/news/audio/2023/oct/18/the-deadly-stakes-of-a-ground-invasion-of-gaza-podcast)
-- [Israel-Hamas war live: deadly Gaza hospital blast sparks protests across Middle East; Biden cancels Jordan visit](https://www.theguardian.com/world/live/2023/oct/17/israel-hamas-war-live-gaza-city-update-news-today-joe-biden-visit-aid-plan-latest-updates)
-- [‘Horrific’: 189 bodies found and removed from Colorado ‘green’ funeral home](https://www.theguardian.com/us-news/2023/oct/17/colorado-funeral-home-decaying-bodies-found)
-- [Russia-Ukraine war at a glance: what we know on day 602 of the invasion](https://www.theguardian.com/world/2023/oct/18/russia-ukraine-war-at-a-glance-what-we-know-on-day-602-of-the-invasion)
-- [Hamas and Israel at war: what we know on day 12](https://www.theguardian.com/world/2023/oct/18/hamas-and-israel-at-war-what-we-know-on-day-12)
-- [Delay EU tariffs to help sales of electric cars, says UK car industry](https://www.theguardian.com/business/2023/oct/18/delay-eu-tariffs-to-help-sales-of-electric-cars-says-uk-car-industry)
-- [UK infrastructure needs much more investment, say government advisers](https://www.theguardian.com/business/2023/oct/18/uk-infrastructure-needs-much-more-investment-say-government-advisers)
-- [Carla Bley, imaginative jazz pianist and composer, dies aged 87](https://www.theguardian.com/music/2023/oct/18/carla-bley-dead-aged-87-jazz-pianist-composer-dies)
-- [Over the counter genetic tests in UK ‘fail to identify 89%’ of those at serious risk](https://www.theguardian.com/society/2023/oct/17/over-the-counter-genetic-tests-in-uk-fail-to-identify-89-of-those-at-serious-risk)
-- [Euro 2024 qualifiers roundup: Ukraine come from behind to avoid Malta shock](https://www.theguardian.com/football/2023/oct/17/euro-2024-qualifiers-roundup-ukraine-come-from-behind-to-avoid-malta-shock)
+- [Kicking out the populists: how young voters helped swing Poland’s election - podcast](https://www.theguardian.com/news/audio/2023/oct/19/kicking-out-the-populists-how-young-voters-helped-swing-poland-election-podcast)
+- [Israel-Hamas war live: Egypt-Gaza crossing to open for aid on Friday at the earliest, says White House](https://www.theguardian.com/world/live/2023/oct/18/israel-hamas-war-live-news-gaza-hospital-west-bank-update-joe-biden-visit-protests-latest-updates)
+- [Guinea-Bissau’s capital blacked out after government fails to pay electricity bill](https://www.theguardian.com/world/2023/oct/19/guinea-bissaus-capital-blacked-out-after-government-fails-to-pay-electricity-bill)
+- [Russia-Ukraine war at a glance: what we know on day 603 of the invasion](https://www.theguardian.com/world/2023/oct/19/russia-ukraine-war-at-a-glance-what-we-know-on-day-603-of-the-invasion)
+- [Raise Bank of England inflation target to 3%, says leading thinktank](https://www.theguardian.com/business/2023/oct/19/raise-bank-of-england-inflation-target-to-3-percent-negative-interest-rates)
+- [Tributes paid to Berkshire newlyweds killed in Uganda terrorist attack](https://www.theguardian.com/world/2023/oct/18/tributes-paid-to-newlyweds-killed-in-uganda-terrorist-attack)
+- [Tesla earns $690m less than expected in third quarter](https://www.theguardian.com/technology/2023/oct/18/elon-musk-tesla-third-quarter-earnings-decline-cybertruck)
+- [Rishi Sunak flies to Israel for talks with Benjamin Netanyahu and Isaac Herzog](https://www.theguardian.com/world/2023/oct/18/rishi-sunak-flies-to-israel-for-talks-with-benjamin-netanyahu-and-isaac-herzog)
+- [Manchester United teammates urge Jadon Sancho to apologise or face exit](https://www.theguardian.com/football/2023/oct/18/manchester-united-teammates-urge-jadon-sancho-to-apologise-or-face-exit-erik-ten-hag)
+- [Declan Rice roused by rugby epics and feels England can now take final step](https://www.theguardian.com/football/2023/oct/18/declan-rice-roused-by-rugby-epics-and-feels-england-can-now-take-final-step)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Qualcomm to Bring RISC-V Based Wearable Platform to Wear OS by Google](https://www.qualcomm.com/news/releases/2023/10/qualcomm-to-bring-risc-v-based-wearable-platform-to--wear-os-by-)
-- [Apple A17 Pro vs. every other modern Apple processor](https://www.macworld.com/article/556384/apple-silicon-iphone-a16-ipad-mac-m2-pro-max-benchmarks.html)
-- [How to build your RAG application from scratch with Byzer-SQL](https://docs.byzer.org/#/public/blog/en-us/how-to-use-byzer-sql-to-build-rag-based-application.md)
-- [Amazon announces the launch of Amazon.co.za in South Africa in 2024](https://www.aboutamazon.com/news/retail/amazon-south-africa-store-launch)
-- [Twitter introduces $1/year change for new users](https://twitter.com/Support/status/1714429406192582896)
-- [San Fran Graffiti &#39;Kingpin&#39; Suspect Arrested as Thousands of Tags Sweep City](https://sfstandard.com/2023/10/16/san-francisco-graffiti-goer-tagger-kingpin-arrested/)
-- [AI in the Academy – Cautious embrace of a new technology](https://www.harvardmagazine.com/2023/11/jhj-portrait-ai-teaching-learning)
-- [The right to select text is a basic right of every user. Don&#39;t take it away](https://grumpy.website/1393)
-- [Dive into Deep Learning](https://d2l.ai/)
-- [Grayjay from FUTO [video]](https://www.youtube.com/watch?v=5DePDzfyWkw)
+- [Thoughts on Product-Market Fit](https://staysaasy.com/startups/2023/10/18/thoughts-on-product-market-fit.html)
+- [United Airlines plans to board passengers with window seats first](https://www.cbsnews.com/news/united-air-window-seats-economy-class-board-first-wilma-plan/)
+- [For processing strings, streams in C++ can be slow](https://lemire.me/blog/2023/10/19/for-processing-strings-streams-in-c-can-be-slow/)
+- [Serotonin reduction in post-acute sequelae of viral infection](https://www.cell.com/cell/fulltext/S0092-8674(23)01034-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867423010346%3Fshowall%3Dtrue)
+- [ChatGPT officially gets web search as DALL-E 3 integration arrives in beta](https://techcrunch.com/2023/10/18/openai-formally-brings-bing-powered-search-to-chatgpt-as-dall-e-3-arrives-in-beta/)
+- [How Tim Uses Remind&lpar;1&rpar;](https://blog.thechases.com/posts/remind/)
+- [China&#39;s livestream shopping bubble is popping](https://restofworld.org/2023/chinas-livestream-shopping-bubble-is-popping/)
+- [Ask HN: Has HP&#39;s an Alarming Shift Towards Corporate Greed?](https://news.ycombinator.com/item?id=37937249)
+- [Harmonious Co-Evolution](http://delta.center/20102020-ar-platform#/harmonious-coevolution-a-dialogue/)
+- [dbt factory: re-usable sql, configured through YAML, compiled to dbt](https://github.com/conradbez/dbt-factory)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

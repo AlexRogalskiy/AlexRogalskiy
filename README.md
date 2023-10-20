@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Thoughts on Product-Market Fit](https://staysaasy.com/startups/2023/10/18/thoughts-on-product-market-fit.html)
-- [United Airlines plans to board passengers with window seats first](https://www.cbsnews.com/news/united-air-window-seats-economy-class-board-first-wilma-plan/)
-- [For processing strings, streams in C++ can be slow](https://lemire.me/blog/2023/10/19/for-processing-strings-streams-in-c-can-be-slow/)
-- [Serotonin reduction in post-acute sequelae of viral infection](https://www.cell.com/cell/fulltext/S0092-8674(23)01034-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867423010346%3Fshowall%3Dtrue)
-- [ChatGPT officially gets web search as DALL-E 3 integration arrives in beta](https://techcrunch.com/2023/10/18/openai-formally-brings-bing-powered-search-to-chatgpt-as-dall-e-3-arrives-in-beta/)
-- [How Tim Uses Remind&lpar;1&rpar;](https://blog.thechases.com/posts/remind/)
-- [China&#39;s livestream shopping bubble is popping](https://restofworld.org/2023/chinas-livestream-shopping-bubble-is-popping/)
-- [Ask HN: Has HP&#39;s an Alarming Shift Towards Corporate Greed?](https://news.ycombinator.com/item?id=37937249)
-- [Harmonious Co-Evolution](http://delta.center/20102020-ar-platform#/harmonious-coevolution-a-dialogue/)
-- [dbt factory: re-usable sql, configured through YAML, compiled to dbt](https://github.com/conradbez/dbt-factory)
+- [Despite severe drought, Amazon deforestation continues to slow](https://news.mongabay.com/2023/10/despite-severe-drought-amazon-deforestation-continues-to-slow/)
+- [Nvidia Releases TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM/blob/release/0.5.0/docs/source/performance.md)
+- [OpenAI API Is Down](https://status.openai.com/history)
+- [CEO&#39;s memo detailing sudden shutdown of Seattle trucking startup Convoy](https://www.geekwire.com/2023/convoy-collapse-read-ceos-memo-detailing-sudden-shutdown-of-seattle-trucking-startup/)
+- [Rediscovering Ancient Greek Music: A performance reconstructs the past [video]](https://www.youtube.com/watch?v=UAmuQBnNty8)
+- [Eureka: Human-Level Reward Design via Coding Large Language Models](https://eureka-research.github.io/)
+- [MIT economist Daron Acemoğlu about AI and a dystopian future](https://www.spiegel.de/wirtschaft/soziales/daron-acemoglu-gegen-die-techindustrie-unsere-zukunft-wird-dystopisch-sein-a-df797156-1070-4247-86cd-ec3bb8bf1cbc)
+- [16 years ago, on a Friday night, we created the GitHub Rails app](https://twitter.com/defunkt/status/1715128542391153068)
+- [Faster-Than-Light &#39;Quasiparticles&#39; Touted as Futuristic Light Source](https://gizmodo.com/quasiparticles-faster-than-light-source-electrons-1850941076)
+- [Millions of Workers Are Training AI Models for Pennies](https://www.wired.com/story/millions-of-workers-are-training-ai-models-for-pennies/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

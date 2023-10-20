@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [ChatGPT can now look at the web — for real this time](https://www.computerworld.com/article/3709189/chatgpt-can-now-look-at-the-web-for-real-this-time.html#tk.rss_all)
+- [Tech layoffs in 2023: A timeline](https://www.computerworld.com/article/3685936/tech-layoffs-in-2023-a-timeline.html#tk.rss_all)
+- [Extended-reality employee training — a beginning for robotic onboarding?](https://www.computerworld.com/article/3708989/extended-reality-employee-training-a-beginning-for-robotic-onboarding.html#tk.rss_all)
+- [Apple’s latest China App Store problem is a warning for us all](https://www.computerworld.com/article/3709090/apples-latest-china-app-store-problem-is-a-warning-for-us-all.html#tk.rss_all)
+- [Teaching AI to behave is the fastest-growing career skill](https://www.computerworld.com/article/3709048/teaching-ai-to-behave-is-the-fastest-growing-career-skill.html#tk.rss_all)
 - [US expands chip export curbs to China to throttle AI, supercomputer development](https://www.computerworld.com/article/3708812/us-expands-chip-export-curbs-to-china-to-throttle-ai-supercomputer-development.html#tk.rss_all)
 - [Apple’s iPhone factories are going to get much, much smarter](https://www.computerworld.com/article/3708776/apples-iphone-factories-are-going-to-get-much-much-smarter.html#tk.rss_all)
 - [10 new Windows 11 features in the October 2023 update to try now](https://www.computerworld.com/article/3708773/windows-11-october-2023-update.html#tk.rss_all)
 - [The one thing that might keep Google&#39;s Pixel 8 phones from selling](https://www.computerworld.com/article/3708690/google-pixel-8-phones.html#tk.rss_all)
-- [Microsoft launches AI content safety service](https://www.computerworld.com/article/3708637/microsoft-launches-ai-content-safety-service.html#tk.rss_all)
-- [University of Kentucky unlocks 60% cut in IT costs with Apple](https://www.computerworld.com/article/3708774/university-of-kentucky-unlocks-60-cut-in-it-costs-with-apple.html#tk.rss_all)
-- [Atlassian aims to improve developer experience with Compass](https://www.computerworld.com/article/3708772/atlassian-aims-to-improve-developer-experience-with-compass.html#tk.rss_all)
-- [Prisma chief med officer: AI offers ‘tremendous opportunities’ but shouldn’t replace doctors](https://www.computerworld.com/article/3708669/prisma-chief-med-officer-ai-healthcare-opportunities.html#tk.rss_all)
-- [Generative AI spending to reach $143B in 2027: IDC](https://www.computerworld.com/article/3708633/generative-ai-spending-to-reach-143b-in-2027-idc.html#tk.rss_all)
-- [How to use Presenter Overlay for better Zoom calls on Macs](https://www.computerworld.com/article/3708735/how-to-use-presenter-overlay-for-better-zoom-calls-on-macs.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

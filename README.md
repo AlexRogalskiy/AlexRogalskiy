@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Kicking out the populists: how young voters helped swing Poland’s election - podcast](https://www.theguardian.com/news/audio/2023/oct/19/kicking-out-the-populists-how-young-voters-helped-swing-poland-election-podcast)
-- [Israel-Hamas war live: Egypt-Gaza crossing to open for aid on Friday at the earliest, says White House](https://www.theguardian.com/world/live/2023/oct/18/israel-hamas-war-live-news-gaza-hospital-west-bank-update-joe-biden-visit-protests-latest-updates)
-- [Guinea-Bissau’s capital blacked out after government fails to pay electricity bill](https://www.theguardian.com/world/2023/oct/19/guinea-bissaus-capital-blacked-out-after-government-fails-to-pay-electricity-bill)
-- [Russia-Ukraine war at a glance: what we know on day 603 of the invasion](https://www.theguardian.com/world/2023/oct/19/russia-ukraine-war-at-a-glance-what-we-know-on-day-603-of-the-invasion)
-- [Raise Bank of England inflation target to 3%, says leading thinktank](https://www.theguardian.com/business/2023/oct/19/raise-bank-of-england-inflation-target-to-3-percent-negative-interest-rates)
-- [Tributes paid to Berkshire newlyweds killed in Uganda terrorist attack](https://www.theguardian.com/world/2023/oct/18/tributes-paid-to-newlyweds-killed-in-uganda-terrorist-attack)
-- [Tesla earns $690m less than expected in third quarter](https://www.theguardian.com/technology/2023/oct/18/elon-musk-tesla-third-quarter-earnings-decline-cybertruck)
-- [Rishi Sunak flies to Israel for talks with Benjamin Netanyahu and Isaac Herzog](https://www.theguardian.com/world/2023/oct/18/rishi-sunak-flies-to-israel-for-talks-with-benjamin-netanyahu-and-isaac-herzog)
-- [Manchester United teammates urge Jadon Sancho to apologise or face exit](https://www.theguardian.com/football/2023/oct/18/manchester-united-teammates-urge-jadon-sancho-to-apologise-or-face-exit-erik-ten-hag)
-- [Declan Rice roused by rugby epics and feels England can now take final step](https://www.theguardian.com/football/2023/oct/18/declan-rice-roused-by-rugby-epics-and-feels-england-can-now-take-final-step)
+- [Israel-Hamas war live: Biden calls for Israel funding in rare Oval Office address; Gaza hospitals have ‘hours’ of fuel left, says doctor](https://www.theguardian.com/world/live/2023/oct/20/israel-hamas-war-live-joe-biden-address-the-nation-gaza-ground-offensive-invasion-border-troops)
+- [How Taylor Swift built her music empire](https://www.theguardian.com/news/audio/2023/oct/20/how-taylor-swift-built-her-music-empire)
+- [Labour overturns huge Tory majority to win Tamworth byelection](https://www.theguardian.com/politics/2023/oct/20/labour-overturns-huge-tory-majority-to-win-tamworth-byelection)
+- [Some Halloween costumes could break strike rules, US actors’ union warns members](https://www.theguardian.com/culture/2023/oct/20/sag-aftra-halloween-2023-costumes-advice-strike-rules-actors-union-guidance)
+- [US House in chaos as Jordan schedules third vote and interim speaker plan fails](https://www.theguardian.com/us-news/2023/oct/19/jim-jordan-house-speaker-republicans)
+- [Sleeping less than five hours a night can raise depression risk, study suggests](https://www.theguardian.com/society/2023/oct/20/sleeping-less-than-five-hours-a-night-can-raise-depression-risk-study-suggests)
+- [Russia-Ukraine war at a glance: what we know on day 604 of the invasion](https://www.theguardian.com/world/2023/oct/20/russia-ukraine-war-at-a-glance-what-we-know-on-day-604-of-the-invasion)
+- [Hamas and Israel at war: what we know on day 14](https://www.theguardian.com/world/2023/oct/20/hamas-and-israel-at-war-what-we-know-on-day-14)
+- [Two-thirds of England’s maternity units are substandard, says watchdog](https://www.theguardian.com/society/2023/oct/20/two-thirds-of-englands-maternity-units-dangerously-substandard-says-cqc)
+- [More English councils face bankruptcy, leaders warn, as deficits reach £4bn](https://www.theguardian.com/society/2023/oct/20/more-english-councils-face-bankruptcy-leaders-warn-as-deficits-reach-4bn)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

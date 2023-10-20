@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [United Airlines plans to board passengers with window seats first](https://www.cbsnews.com/news/united-air-window-seats-economy-class-board-first-wilma-plan/)
-- [Retroactive: Run Aperture, iPhoto and iTunes on macOS Ventura, Monterey, Big Sur](https://github.com/cormiertyshawn895/Retroactive)
-- [Consortium launched to build the largest open LLM](https://www.utu.fi/en/news/press-release/university-of-turku-and-silogen-launch-consortium-to-build-the-worlds-largest)
-- [Etleap &lpar;YC W13&rpar; Is Hiring a Software Engineer &lpar;London – OR – San Francisco&rpar;](https://etleap.com/careers/software-engineer/)
-- [The iOS option to charge battery to &quot;80% Limit&quot; shouldn&#39;t just be for iPhone 15](https://keydiscussions.com/2023/10/19/apples-new-80-battery-limit-feature-should-not-be-limited-to-the-iphone-15/)
-- [Colorado Supreme Court Upholds Keyword Search Warrant](https://www.eff.org/deeplinks/2023/10/colorado-supreme-court-upholds-keyword-search-warrant)
-- [xVal: A continuous number encoding for large language models](https://arxiv.org/abs/2310.02989)
-- [Zero ASIC is out of stealth](https://www.zeroasic.com/blog/zero-asic-democratizing-chip-making)
-- [ArgoCon – Vendor-neutral Argo-focused Event](https://akuity.io/argocon/)
-- [Ask HN: Is anyone using cloud dev environments &lpar;e.g. Codespaces/Replit&rpar; at work?](https://news.ycombinator.com/item?id=37934488)
+- [Marc Andreessen Is Wrong About Everything](https://gizmodo.com/marc-andreessen-is-wrong-about-everything-1850934367)
+- [Nota is a language for writing documents, like academic papers and blog posts](https://nota-lang.org/#def-nota)
+- [Replit permanently moves to paid hosting after 7 years of free service](https://noreplit.com/)
+- [Toyota Adopts the North American Charging Standard](https://pressroom.toyota.com/toyota-adopts-the-north-american-charging-standard-to-expand-customer-charging-options/)
+- [Anna&#39;s Archive – LLM Training Data from Shadow Libraries](https://annas-archive.org/llm)
+- [Please Pay for a Year of Nothing](https://joe-steel.com/2023-10-19-Please-Pay-For-a-Year-of-Nothing.html)
+- [Clearview doesn&#39;t let Europeans delete themselves anymore](https://twitter.com/kashhill/status/1715048994223567281)
+- [Vectorpea: Online Tool for Vector Graphics](https://www.vectorpea.com/)
+- [Research repository ArXiv receives $10M for upgrades](https://news.cornell.edu/stories/2023/10/research-repository-arxiv-receives-10m-upgrades)
+- [Text-to-CAD: Risks and Opportunities](https://thegradient.pub/text-to-cad/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

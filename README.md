@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Israel-Hamas war live: Biden calls for Israel funding in rare Oval Office address; Gaza hospitals have ‘hours’ of fuel left, says doctor](https://www.theguardian.com/world/live/2023/oct/20/israel-hamas-war-live-joe-biden-address-the-nation-gaza-ground-offensive-invasion-border-troops)
-- [How Taylor Swift built her music empire](https://www.theguardian.com/news/audio/2023/oct/20/how-taylor-swift-built-her-music-empire)
-- [Labour overturns huge Tory majority to win Tamworth byelection](https://www.theguardian.com/politics/2023/oct/20/labour-overturns-huge-tory-majority-to-win-tamworth-byelection)
-- [Some Halloween costumes could break strike rules, US actors’ union warns members](https://www.theguardian.com/culture/2023/oct/20/sag-aftra-halloween-2023-costumes-advice-strike-rules-actors-union-guidance)
-- [US House in chaos as Jordan schedules third vote and interim speaker plan fails](https://www.theguardian.com/us-news/2023/oct/19/jim-jordan-house-speaker-republicans)
-- [Sleeping less than five hours a night can raise depression risk, study suggests](https://www.theguardian.com/society/2023/oct/20/sleeping-less-than-five-hours-a-night-can-raise-depression-risk-study-suggests)
-- [Russia-Ukraine war at a glance: what we know on day 604 of the invasion](https://www.theguardian.com/world/2023/oct/20/russia-ukraine-war-at-a-glance-what-we-know-on-day-604-of-the-invasion)
-- [Hamas and Israel at war: what we know on day 14](https://www.theguardian.com/world/2023/oct/20/hamas-and-israel-at-war-what-we-know-on-day-14)
-- [Two-thirds of England’s maternity units are substandard, says watchdog](https://www.theguardian.com/society/2023/oct/20/two-thirds-of-englands-maternity-units-dangerously-substandard-says-cqc)
-- [More English councils face bankruptcy, leaders warn, as deficits reach £4bn](https://www.theguardian.com/society/2023/oct/20/more-english-councils-face-bankruptcy-leaders-warn-as-deficits-reach-4bn)
+- [Israel-Hamas war live: White House walks back Biden’s comment agreeing that Israel should delay Gaza ground assault](https://www.theguardian.com/world/live/2023/oct/20/israel-hamas-war-live-joe-biden-address-the-nation-gaza-ground-offensive-invasion-border-troops)
+- [Russia-Ukraine war at a glance: what we know on day 605 of the invasion](https://www.theguardian.com/world/2023/oct/21/russia-ukraine-war-at-a-glance-what-we-know-on-day-605-of-the-invasion)
+- [Missing Air France pilot found dead after falling 1,000ft off Mount Whitney](https://www.theguardian.com/us-news/2023/oct/20/air-france-pilot-missing-hiking-mount-whitney)
+- [Robot dogs, tech bros and virtual Geisha girls: when SXSW came to Sydney](https://www.theguardian.com/culture/2023/oct/21/robot-dogs-tech-bros-and-virtual-geisha-girls-when-sxsw-came-to-sydney)
+- [Ilhan Omar fears for family’s safety after barrage of threats over Israel criticism](https://www.theguardian.com/us-news/2023/oct/20/ilhan-omar-muslim-us-representative-threats-israel-criticism)
+- [Pumas lost in translation as All Blacks turn semi-final into practice match | Andy Bull](https://www.theguardian.com/sport/2023/oct/20/new-zealand-played-with-ravenous-intent-lit-up-by-moungas-wizardry-rugby-world-cup)
+- [‘I’ll watch other semi-final with some popcorn,’ says Foster as All Blacks cruise](https://www.theguardian.com/sport/2023/oct/20/ill-watch-other-semi-final-with-some-popcorn-says-ian-foster-all-blacks-cruise)
+- [Rishi Sunak considers tax cut for top earners after byelection defeats](https://www.theguardian.com/politics/2023/oct/20/rishi-sunak-considers-tax-cut-for-top-earners-after-byelection-defeats)
+- [Ferrari’s Charles Leclerc takes pole for US Grand Prix after Verstappen lap deleted](https://www.theguardian.com/sport/2023/oct/20/ferraris-charles-leclerc-takes-pole-for-us-grand-prix-after-verstappen-lap-deleted)
+- [Russia working to undermine trust in elections globally, US intelligence says](https://www.theguardian.com/world/2023/oct/20/russia-spy-network-elections-democracy-us-intelligence)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

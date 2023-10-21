@@ -355,6 +355,8 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Does Siri dream of ChatGPT?](https://www.computerworld.com/article/3709190/does-siri-dream-of-chatgpt.html#tk.rss_all)
+- [Android versions: A living history from 1.0 to 14](https://www.computerworld.com/article/3235946/android-versions-a-living-history-from-1-0-to-today.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [ChatGPT can now look at the web — for real this time](https://www.computerworld.com/article/3709189/chatgpt-can-now-look-at-the-web-for-real-this-time.html#tk.rss_all)
 - [Tech layoffs in 2023: A timeline](https://www.computerworld.com/article/3685936/tech-layoffs-in-2023-a-timeline.html#tk.rss_all)
@@ -363,8 +365,6 @@
 - [Teaching AI to behave is the fastest-growing career skill](https://www.computerworld.com/article/3709048/teaching-ai-to-behave-is-the-fastest-growing-career-skill.html#tk.rss_all)
 - [US expands chip export curbs to China to throttle AI, supercomputer development](https://www.computerworld.com/article/3708812/us-expands-chip-export-curbs-to-china-to-throttle-ai-supercomputer-development.html#tk.rss_all)
 - [Apple’s iPhone factories are going to get much, much smarter](https://www.computerworld.com/article/3708776/apples-iphone-factories-are-going-to-get-much-much-smarter.html#tk.rss_all)
-- [10 new Windows 11 features in the October 2023 update to try now](https://www.computerworld.com/article/3708773/windows-11-october-2023-update.html#tk.rss_all)
-- [The one thing that might keep Google&#39;s Pixel 8 phones from selling](https://www.computerworld.com/article/3708690/google-pixel-8-phones.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Despite severe drought, Amazon deforestation continues to slow](https://news.mongabay.com/2023/10/despite-severe-drought-amazon-deforestation-continues-to-slow/)
-- [Nvidia Releases TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM/blob/release/0.5.0/docs/source/performance.md)
-- [OpenAI API Is Down](https://status.openai.com/history)
-- [CEO&#39;s memo detailing sudden shutdown of Seattle trucking startup Convoy](https://www.geekwire.com/2023/convoy-collapse-read-ceos-memo-detailing-sudden-shutdown-of-seattle-trucking-startup/)
-- [Rediscovering Ancient Greek Music: A performance reconstructs the past [video]](https://www.youtube.com/watch?v=UAmuQBnNty8)
-- [Eureka: Human-Level Reward Design via Coding Large Language Models](https://eureka-research.github.io/)
-- [MIT economist Daron Acemoğlu about AI and a dystopian future](https://www.spiegel.de/wirtschaft/soziales/daron-acemoglu-gegen-die-techindustrie-unsere-zukunft-wird-dystopisch-sein-a-df797156-1070-4247-86cd-ec3bb8bf1cbc)
-- [16 years ago, on a Friday night, we created the GitHub Rails app](https://twitter.com/defunkt/status/1715128542391153068)
-- [Faster-Than-Light &#39;Quasiparticles&#39; Touted as Futuristic Light Source](https://gizmodo.com/quasiparticles-faster-than-light-source-electrons-1850941076)
-- [Millions of Workers Are Training AI Models for Pennies](https://www.wired.com/story/millions-of-workers-are-training-ai-models-for-pennies/)
+- [Disc Brakes Took over the Cycling World. Here&#39;s Why That Was a Mistake](https://www.outsideonline.com/culture/opinion/disc-brakes-took-over-the-cycling-world-heres-why-that-was-a-mistake/)
+- [Recover lost text by coredumping Firefox](https://j3s.sh/thought/recover-lost-text-by-coredumping-firefox.html)
+- [Managed Programming Languages and Runtimes &lpar;MPLR&rpar; 2023 Proceedings](https://dl.acm.org/doi/proceedings/10.1145/3617651)
+- [Geometry of entangled states, Bloch spheres and Hopf fibrations &lpar;2001&rpar;](https://arxiv.org/abs/quant-ph/0108137)
+- [Ask HN: Can hybrid content save streaming monetization in the social media era?](https://news.ycombinator.com/item?id=37963366)
+- [Tesla shot a Tommy gun at a Cybertruck, here&#39;s the result](https://electrek.co/2023/10/20/tesla-shot-tommy-gun-cybertruck-result/)
+- [Built out an idea recently, realize we had gaps in our initial](https://news.ycombinator.com/item?id=37963361)
+- [New Advances in Organ Transplants Are Saving Lives](https://www.scientificamerican.com/article/no-one-should-die-waiting-for-an-organ-transplant-these-doctors-want-to-ensure-that-doesnt-happen/)
+- [LOVEINT](https://en.wikipedia.org/wiki/LOVEINT)
+- [Next year, SpaceX aims to average one launch every 2.5 days](https://arstechnica.com/space/2023/10/next-year-spacex-aims-to-average-one-launch-every-2-5-days/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

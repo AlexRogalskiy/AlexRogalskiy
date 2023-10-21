@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Marc Andreessen Is Wrong About Everything](https://gizmodo.com/marc-andreessen-is-wrong-about-everything-1850934367)
-- [Nota is a language for writing documents, like academic papers and blog posts](https://nota-lang.org/#def-nota)
-- [Replit permanently moves to paid hosting after 7 years of free service](https://noreplit.com/)
-- [Toyota Adopts the North American Charging Standard](https://pressroom.toyota.com/toyota-adopts-the-north-american-charging-standard-to-expand-customer-charging-options/)
-- [Anna&#39;s Archive – LLM Training Data from Shadow Libraries](https://annas-archive.org/llm)
-- [Please Pay for a Year of Nothing](https://joe-steel.com/2023-10-19-Please-Pay-For-a-Year-of-Nothing.html)
-- [Clearview doesn&#39;t let Europeans delete themselves anymore](https://twitter.com/kashhill/status/1715048994223567281)
-- [Vectorpea: Online Tool for Vector Graphics](https://www.vectorpea.com/)
-- [Research repository ArXiv receives $10M for upgrades](https://news.cornell.edu/stories/2023/10/research-repository-arxiv-receives-10m-upgrades)
-- [Text-to-CAD: Risks and Opportunities](https://thegradient.pub/text-to-cad/)
+- [New Advances in Organ Transplants Are Saving Lives](https://www.scientificamerican.com/article/no-one-should-die-waiting-for-an-organ-transplant-these-doctors-want-to-ensure-that-doesnt-happen/)
+- [Instagram sorry for translation error that put &quot;terrorist&quot; in Palestinian bios](https://arstechnica.com/tech-policy/2023/10/instagram-sorry-for-erroneously-labeling-palestinian-users-as-terrorists/)
+- [The Shortest Papers Ever Published](https://paperpile.com/blog/shortest-papers/)
+- [F-Droid: Android FOSS app store](https://f-droid.org/)
+- [Solving the 100GB Game Download](http://venusoft.net/)
+- [Energy, WiFi and RAM use by Android messaging apps](https://decentim.grafana.net/public-dashboards/92602d3a4aa842ce97812d310077691d)
+- [Emerge &lpar;YC W21&rpar; is hiring a senior front end engineer &lpar;remote, small team&rpar;](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
+- [How the creator of Alone in the Dark came back to games](https://news.play.date/news/skew/)
+- [Mitigating the Hetzner/Linode XMPP.ru MitM interception incident](https://www.devever.net/~hl/xmpp-incident)
+- [Progress on No-GIL CPython](https://lwn.net/Articles/947138/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

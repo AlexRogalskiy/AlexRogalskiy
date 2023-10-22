@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [New Advances in Organ Transplants Are Saving Lives](https://www.scientificamerican.com/article/no-one-should-die-waiting-for-an-organ-transplant-these-doctors-want-to-ensure-that-doesnt-happen/)
-- [Instagram sorry for translation error that put &quot;terrorist&quot; in Palestinian bios](https://arstechnica.com/tech-policy/2023/10/instagram-sorry-for-erroneously-labeling-palestinian-users-as-terrorists/)
-- [The Shortest Papers Ever Published](https://paperpile.com/blog/shortest-papers/)
-- [F-Droid: Android FOSS app store](https://f-droid.org/)
-- [Solving the 100GB Game Download](http://venusoft.net/)
-- [Energy, WiFi and RAM use by Android messaging apps](https://decentim.grafana.net/public-dashboards/92602d3a4aa842ce97812d310077691d)
-- [Emerge &lpar;YC W21&rpar; is hiring a senior front end engineer &lpar;remote, small team&rpar;](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
-- [How the creator of Alone in the Dark came back to games](https://news.play.date/news/skew/)
-- [Mitigating the Hetzner/Linode XMPP.ru MitM interception incident](https://www.devever.net/~hl/xmpp-incident)
-- [Progress on No-GIL CPython](https://lwn.net/Articles/947138/)
+- [An antiquated law rules mining in the West](https://www.hcn.org/issues/55.8/infographic-mining-an-antiquated-law-rules-mining-in-the-west)
+- [Startup CTO&#39;s Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook)
+- [Nghttp3 1.0.0 – HTTP/3 library written in C](https://nghttp2.org/nghttp3/)
+- [Man captures &#39;weird anomaly&#39; of Storm Babet lifting forest floor in Scotland](https://www.theguardian.com/uk-news/2023/oct/21/storm-babet-forest-floor-video-mugdock-stirlingshire-scotland)
+- [HN RSS feeds per user no longer available](https://news.ycombinator.com/item?id=37971534)
+- [Clohe: Moving toys in the classroom &lpar;automata construction toolkit&rpar;](http://www.modernautomatamuseum.com/Clohe/00-CLOHE-EN.htm)
+- [Tunnelling Companies in the Great War](https://www.tunnellersmemorial.com/tunnelling-companies/)
+- [OpenRefine](https://openrefine.org/)
+- [The Decline of Computers as a General Purpose Technology &lpar;2021&rpar;](https://cacm.acm.org/magazines/2021/3/250710-the-decline-of-computers-as-a-general-purpose-technology/fulltext)
+- [Google owes executive $1M after losing gender bias lawsuit](https://www.theverge.com/2023/10/21/23926501/google-cloud-lawsuit-ulku-rowe-verdict)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

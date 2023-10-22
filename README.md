@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Disc Brakes Took over the Cycling World. Here&#39;s Why That Was a Mistake](https://www.outsideonline.com/culture/opinion/disc-brakes-took-over-the-cycling-world-heres-why-that-was-a-mistake/)
-- [Recover lost text by coredumping Firefox](https://j3s.sh/thought/recover-lost-text-by-coredumping-firefox.html)
-- [Managed Programming Languages and Runtimes &lpar;MPLR&rpar; 2023 Proceedings](https://dl.acm.org/doi/proceedings/10.1145/3617651)
-- [Geometry of entangled states, Bloch spheres and Hopf fibrations &lpar;2001&rpar;](https://arxiv.org/abs/quant-ph/0108137)
-- [Ask HN: Can hybrid content save streaming monetization in the social media era?](https://news.ycombinator.com/item?id=37963366)
-- [Tesla shot a Tommy gun at a Cybertruck, here&#39;s the result](https://electrek.co/2023/10/20/tesla-shot-tommy-gun-cybertruck-result/)
-- [Built out an idea recently, realize we had gaps in our initial](https://news.ycombinator.com/item?id=37963361)
-- [New Advances in Organ Transplants Are Saving Lives](https://www.scientificamerican.com/article/no-one-should-die-waiting-for-an-organ-transplant-these-doctors-want-to-ensure-that-doesnt-happen/)
-- [LOVEINT](https://en.wikipedia.org/wiki/LOVEINT)
-- [Next year, SpaceX aims to average one launch every 2.5 days](https://arstechnica.com/space/2023/10/next-year-spacex-aims-to-average-one-launch-every-2-5-days/)
+- [Designing a Tree Diff Algorithm Using Dynamic Programming and A* &lpar;2017&rpar;](https://thume.ca/2017/06/17/tree-diffing/)
+- [How AI Is Making Reading Easier](https://www.simplifyextension.com/post/how-ai-is-making-reading-easier)
+- [The Oasis Security Services &lpar;SAML&rpar; TC Has Closed](https://lists.oasis-open.org/archives/security-services/202308/msg00004.html)
+- [CA Airbnb host faces $300K in losses, damages after guests clog toilet](https://abc7.com/airbnb-host-rentals-san-francisco-ca-flooding/13950326/)
+- [The World of Playing Cards &lpar;Timeline&rpar;](https://www.wopc.co.uk/explore/timeline)
+- [If You Don&#39;t Thank People Online, Things Can Go Crazy – Here&#39;s an Example](https://write.as/non-monetized-together/if-you-dont-thank-people-online-things-can-go-crazy-heres-an-example)
+- [Lunar bugs to ocean moons: seven things science has revealed about aliens so far](https://www.bbc.com/future/article/20231020-seven-surprising-things-we-now-know-about-aliens)
+- [13 tweets that tell the story of Musk&#39;s turbulent first year at Twitter &lpar;or X&rpar;](https://www.theguardian.com/technology/2023/oct/21/let-that-sink-in-the-13-tweets-that-tell-the-story-of-elon-musks-turbulent-first-year-at-twitter-or-x)
+- [Nvidia Wouldn&#39;t Exist If CEO Could Turn the Clock Back 30 Years](https://www.tomshardware.com/news/nvidia-wouldnt-exist-if-ceo-could-turn-the-clock-back-30-years)
+- [Reversing Obesity = Getting Shredded](https://exfatloss.substack.com/p/reversing-obesity-getting-shredded)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

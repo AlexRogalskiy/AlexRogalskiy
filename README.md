@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Israel-Hamas war live: White House walks back Biden’s comment agreeing that Israel should delay Gaza ground assault](https://www.theguardian.com/world/live/2023/oct/20/israel-hamas-war-live-joe-biden-address-the-nation-gaza-ground-offensive-invasion-border-troops)
-- [Russia-Ukraine war at a glance: what we know on day 605 of the invasion](https://www.theguardian.com/world/2023/oct/21/russia-ukraine-war-at-a-glance-what-we-know-on-day-605-of-the-invasion)
-- [Missing Air France pilot found dead after falling 1,000ft off Mount Whitney](https://www.theguardian.com/us-news/2023/oct/20/air-france-pilot-missing-hiking-mount-whitney)
-- [Robot dogs, tech bros and virtual Geisha girls: when SXSW came to Sydney](https://www.theguardian.com/culture/2023/oct/21/robot-dogs-tech-bros-and-virtual-geisha-girls-when-sxsw-came-to-sydney)
-- [Ilhan Omar fears for family’s safety after barrage of threats over Israel criticism](https://www.theguardian.com/us-news/2023/oct/20/ilhan-omar-muslim-us-representative-threats-israel-criticism)
-- [Pumas lost in translation as All Blacks turn semi-final into practice match | Andy Bull](https://www.theguardian.com/sport/2023/oct/20/new-zealand-played-with-ravenous-intent-lit-up-by-moungas-wizardry-rugby-world-cup)
-- [‘I’ll watch other semi-final with some popcorn,’ says Foster as All Blacks cruise](https://www.theguardian.com/sport/2023/oct/20/ill-watch-other-semi-final-with-some-popcorn-says-ian-foster-all-blacks-cruise)
-- [Rishi Sunak considers tax cut for top earners after byelection defeats](https://www.theguardian.com/politics/2023/oct/20/rishi-sunak-considers-tax-cut-for-top-earners-after-byelection-defeats)
-- [Ferrari’s Charles Leclerc takes pole for US Grand Prix after Verstappen lap deleted](https://www.theguardian.com/sport/2023/oct/20/ferraris-charles-leclerc-takes-pole-for-us-grand-prix-after-verstappen-lap-deleted)
-- [Russia working to undermine trust in elections globally, US intelligence says](https://www.theguardian.com/world/2023/oct/20/russia-spy-network-elections-democracy-us-intelligence)
+- [Faraway Downs: a first look at Baz Luhrmann’s attempt to remake his biggest flop](https://www.theguardian.com/tv-and-radio/2023/oct/22/faraway-downs-a-first-look-at-baz-luhrmanns-attempt-to-remake-his-biggest-flop)
+- [Russia-Ukraine war at a glance: what we know on day 606 of the invasion](https://www.theguardian.com/world/2023/oct/22/russia-ukraine-war-at-a-glance-what-we-know-on-day-606-of-the-invasion)
+- [Russian missile strike on Kharkiv postal centre kills six, governor says](https://www.theguardian.com/world/2023/oct/21/russian-missile-strike-on-kharkiv-postal-centre-has-caused-multiple-deaths-says-governor)
+- [‘Players should be incredibly proud’: Borthwick praises England after defeat](https://www.theguardian.com/sport/2023/oct/22/players-should-be-incredibly-proud-borthwick-praises-england-after-defeat)
+- [Verstappen cruises to another F1 sprint race win at the Circuit of the Americas](https://www.theguardian.com/sport/2023/oct/21/f1-sprint-race-austin-max-verstappen)
+- [Scottish fashion designer Patrick Grant says father died due to PPE shortages](https://www.theguardian.com/world/2023/oct/22/scottish-fashion-designer-patrick-grant-says-father-died-due-to-ppe-shortages)
+- [Dominant England played the game of their lives. And South Africa still won | Jonathan Liew](https://www.theguardian.com/sport/blog/2023/oct/21/rugby-world-cup-semi-final-england-game-of-their-lives-south-africa)
+- [Feelgood knits: 12 sustainable and slow-fashion brands – in pictures](https://www.theguardian.com/fashion/gallery/2023/oct/21/feelgood-knits-12-sustainable-and-slow-fashion-brands-in-pictures)
+- [England 15-16 South Africa: Rugby World Cup semi-final player ratings](https://www.theguardian.com/sport/2023/oct/21/england-15-16-south-africa-rugby-world-cup-semi-final-player-ratings)
+- [Pollard penalty breaks England hearts as South Africa reach World Cup final](https://www.theguardian.com/sport/2023/oct/21/england-south-africa-rugby-world-cup-semi-final-match-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

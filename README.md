@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [An antiquated law rules mining in the West](https://www.hcn.org/issues/55.8/infographic-mining-an-antiquated-law-rules-mining-in-the-west)
-- [Startup CTO&#39;s Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook)
-- [Nghttp3 1.0.0 – HTTP/3 library written in C](https://nghttp2.org/nghttp3/)
-- [Man captures &#39;weird anomaly&#39; of Storm Babet lifting forest floor in Scotland](https://www.theguardian.com/uk-news/2023/oct/21/storm-babet-forest-floor-video-mugdock-stirlingshire-scotland)
-- [HN RSS feeds per user no longer available](https://news.ycombinator.com/item?id=37971534)
-- [Clohe: Moving toys in the classroom &lpar;automata construction toolkit&rpar;](http://www.modernautomatamuseum.com/Clohe/00-CLOHE-EN.htm)
-- [Tunnelling Companies in the Great War](https://www.tunnellersmemorial.com/tunnelling-companies/)
-- [OpenRefine](https://openrefine.org/)
-- [The Decline of Computers as a General Purpose Technology &lpar;2021&rpar;](https://cacm.acm.org/magazines/2021/3/250710-the-decline-of-computers-as-a-general-purpose-technology/fulltext)
-- [Google owes executive $1M after losing gender bias lawsuit](https://www.theverge.com/2023/10/21/23926501/google-cloud-lawsuit-ulku-rowe-verdict)
+- [Tell HN: Photopea refuses to create or open files if you have an ad blocker](https://news.ycombinator.com/item?id=37980680)
+- [A Few Laws of Getting Rich](https://collabfund.com/blog/a-few-laws-of-getting-rich/)
+- [Rivian R1T is the first EV to win the longest off-road competition in the US](https://techcrunch.com/2023/10/22/rivian-r1t-is-the-first-ev-to-win-the-longest-off-road-competition-in-the-us/)
+- [First 96-Core AMD Zen 4 Threadripper Tests Show Utter Domination over Intel](https://www.extremetech.com/computing/first-96-core-amd-zen-4-threadripper-tests-show-utter-domination-over-intel)
+- [Alan Kay: Doing with Images Makes Symbols [video]](https://www.youtube.com/watch?v=p2LZLYcu_JY)
+- [Atomic Rocket](https://projectrho.com/public_html/rocket/index.php)
+- [Nanofiche: Small Storage, for Forever](https://www.archmission.org/nanofiche)
+- [Marvelous Arithmetics of Distance](https://mathenchant.wordpress.com/2023/10/17/marvelous-arithmetics-of-distance/)
+- [EPA fast-tracking of gene-altering pesticide sparks concerns](https://www.thenewlede.org/2023/10/epa-fast-tracking-of-gene-altering-pesticide-sparks-concerns/)
+- [OpenTelemetry at Scale: Using Kafka to handle bursty traffic](https://signoz.io/blog/maximizing-scalability-apache-kafka-and-opentelemetry/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

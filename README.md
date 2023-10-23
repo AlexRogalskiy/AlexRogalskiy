@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Faraway Downs: a first look at Baz Luhrmann’s attempt to remake his biggest flop](https://www.theguardian.com/tv-and-radio/2023/oct/22/faraway-downs-a-first-look-at-baz-luhrmanns-attempt-to-remake-his-biggest-flop)
-- [Russia-Ukraine war at a glance: what we know on day 606 of the invasion](https://www.theguardian.com/world/2023/oct/22/russia-ukraine-war-at-a-glance-what-we-know-on-day-606-of-the-invasion)
-- [Russian missile strike on Kharkiv postal centre kills six, governor says](https://www.theguardian.com/world/2023/oct/21/russian-missile-strike-on-kharkiv-postal-centre-has-caused-multiple-deaths-says-governor)
-- [‘Players should be incredibly proud’: Borthwick praises England after defeat](https://www.theguardian.com/sport/2023/oct/22/players-should-be-incredibly-proud-borthwick-praises-england-after-defeat)
-- [Verstappen cruises to another F1 sprint race win at the Circuit of the Americas](https://www.theguardian.com/sport/2023/oct/21/f1-sprint-race-austin-max-verstappen)
-- [Scottish fashion designer Patrick Grant says father died due to PPE shortages](https://www.theguardian.com/world/2023/oct/22/scottish-fashion-designer-patrick-grant-says-father-died-due-to-ppe-shortages)
-- [Dominant England played the game of their lives. And South Africa still won | Jonathan Liew](https://www.theguardian.com/sport/blog/2023/oct/21/rugby-world-cup-semi-final-england-game-of-their-lives-south-africa)
-- [Feelgood knits: 12 sustainable and slow-fashion brands – in pictures](https://www.theguardian.com/fashion/gallery/2023/oct/21/feelgood-knits-12-sustainable-and-slow-fashion-brands-in-pictures)
-- [England 15-16 South Africa: Rugby World Cup semi-final player ratings](https://www.theguardian.com/sport/2023/oct/21/england-15-16-south-africa-rugby-world-cup-semi-final-player-ratings)
-- [Pollard penalty breaks England hearts as South Africa reach World Cup final](https://www.theguardian.com/sport/2023/oct/21/england-south-africa-rugby-world-cup-semi-final-match-report)
+- [How a contested history feeds the Israel-Palestine conflict – podcast](https://www.theguardian.com/news/audio/2023/oct/23/how-a-contested-history-feeds-the-israel-palestine-conflict-podcast)
+- [Israel-Hamas war live: White House promises ‘continued flow’ of aid as 14 more trucks enter Gaza](https://www.theguardian.com/world/live/2023/oct/22/israel-hamas-war-live-gaza-strikes-to-intensify-israeli-military-says-west-bank-mosque-hit)
+- [Far-right populist Javier Milei fails to win first round of Argentina’s presidential election](https://www.theguardian.com/world/2023/oct/23/sergio-massa-wins-first-round-argentina-presidential-election-over-javier-milei)
+- [Max Verstappen wins US F1 GP but Hamilton and Leclerc disqualified](https://www.theguardian.com/sport/2023/oct/22/indomitable-max-verstappen-holds-off-british-rivals-to-win-us-f1-gp)
+- [Last refugees in Papua New Guinea to begin leaving ‘within weeks’ after Australian funding runs out](https://www.theguardian.com/australia-news/2023/oct/23/papua-new-guinea-refugees-begin-leaving-png-australia)
+- [Russia-Ukraine war at a glance: what we know on day 607](https://www.theguardian.com/world/2023/oct/23/russia-ukraine-war-at-a-glance-what-we-know-on-day-607)
+- [Joko Widodo’s son chosen as running mate for Indonesia presidential candidate Prabowo](https://www.theguardian.com/world/2023/oct/23/indonesia-gibran-rakabuming-raka-son-of-joko-widodo-running-mate-presidential-candidate-prabowo-subianto)
+- [US judge blocks law that would have been first to ban ‘abortion pill reversal’](https://www.theguardian.com/us-news/2023/oct/22/abortion-pill-reversal-ban-progesterone-judge-ruling)
+- [China and the Philippines trade blame over two South China Sea collisions](https://www.theguardian.com/world/2023/oct/23/china-philippines-ships-boats-collision-south-china-sea-vessels-spratly-islands)
+- [Hamas and Israel at war: what we know on day 17](https://www.theguardian.com/world/2023/oct/23/hamas-and-israel-at-war-what-we-know-on-day-17)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Designing a Tree Diff Algorithm Using Dynamic Programming and A* &lpar;2017&rpar;](https://thume.ca/2017/06/17/tree-diffing/)
-- [How AI Is Making Reading Easier](https://www.simplifyextension.com/post/how-ai-is-making-reading-easier)
-- [The Oasis Security Services &lpar;SAML&rpar; TC Has Closed](https://lists.oasis-open.org/archives/security-services/202308/msg00004.html)
-- [CA Airbnb host faces $300K in losses, damages after guests clog toilet](https://abc7.com/airbnb-host-rentals-san-francisco-ca-flooding/13950326/)
-- [The World of Playing Cards &lpar;Timeline&rpar;](https://www.wopc.co.uk/explore/timeline)
-- [If You Don&#39;t Thank People Online, Things Can Go Crazy – Here&#39;s an Example](https://write.as/non-monetized-together/if-you-dont-thank-people-online-things-can-go-crazy-heres-an-example)
-- [Lunar bugs to ocean moons: seven things science has revealed about aliens so far](https://www.bbc.com/future/article/20231020-seven-surprising-things-we-now-know-about-aliens)
-- [13 tweets that tell the story of Musk&#39;s turbulent first year at Twitter &lpar;or X&rpar;](https://www.theguardian.com/technology/2023/oct/21/let-that-sink-in-the-13-tweets-that-tell-the-story-of-elon-musks-turbulent-first-year-at-twitter-or-x)
-- [Nvidia Wouldn&#39;t Exist If CEO Could Turn the Clock Back 30 Years](https://www.tomshardware.com/news/nvidia-wouldnt-exist-if-ceo-could-turn-the-clock-back-30-years)
-- [Reversing Obesity = Getting Shredded](https://exfatloss.substack.com/p/reversing-obesity-getting-shredded)
+- [London Riot Re-Enactment Society](https://web.archive.org/web/20120307092022/http://anathematician.c8.com/lrrs.htm)
+- [The Sun&#39;s Magnetic Poles Are Vanishing](https://www.scientificamerican.com/article/the-suns-magnetic-poles-are-vanishing/)
+- [The weird aliens of early science fiction](https://www.bbc.com/future/article/20231019-the-weird-aliens-of-early-science-fiction)
+- [Why Children of Married Parents Do Better](https://text.npr.org/1207322878)
+- [Prediction of Type 2 Diabetes Mellitus Using Smartphone-Recorded Voice Segments](https://www.mcpdigitalhealth.org/article/S2949-7612(23)00073-1/fulltext)
+- [Harvard rejects business-school applicants who hacked site &lpar;2005&rpar;](https://www.computerworld.com/article/2568748/harvard-rejects-business-school-applicants-who-hacked-site.html)
+- [OpenSilver 2.0](https://opensilver.net/)
+- [Koe Recast](https://koe.ai/)
+- [Computers Use Numbers](https://mabi.tmpinc.io/numbers/)
+- [GOP Rep. Wants to Cut Waistlines–and the U.S. Budget–With Ozempic](https://www.thedailybeast.com/gop-rep-dave-schweikert-wants-to-cut-waistlinesand-the-us-budgetwith-ozempic)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

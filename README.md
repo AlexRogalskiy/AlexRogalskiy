@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Tell HN: Photopea refuses to create or open files if you have an ad blocker](https://news.ycombinator.com/item?id=37980680)
-- [A Few Laws of Getting Rich](https://collabfund.com/blog/a-few-laws-of-getting-rich/)
-- [Rivian R1T is the first EV to win the longest off-road competition in the US](https://techcrunch.com/2023/10/22/rivian-r1t-is-the-first-ev-to-win-the-longest-off-road-competition-in-the-us/)
-- [First 96-Core AMD Zen 4 Threadripper Tests Show Utter Domination over Intel](https://www.extremetech.com/computing/first-96-core-amd-zen-4-threadripper-tests-show-utter-domination-over-intel)
-- [Alan Kay: Doing with Images Makes Symbols [video]](https://www.youtube.com/watch?v=p2LZLYcu_JY)
-- [Atomic Rocket](https://projectrho.com/public_html/rocket/index.php)
-- [Nanofiche: Small Storage, for Forever](https://www.archmission.org/nanofiche)
-- [Marvelous Arithmetics of Distance](https://mathenchant.wordpress.com/2023/10/17/marvelous-arithmetics-of-distance/)
-- [EPA fast-tracking of gene-altering pesticide sparks concerns](https://www.thenewlede.org/2023/10/epa-fast-tracking-of-gene-altering-pesticide-sparks-concerns/)
-- [OpenTelemetry at Scale: Using Kafka to handle bursty traffic](https://signoz.io/blog/maximizing-scalability-apache-kafka-and-opentelemetry/)
+- [Mom can now recommend matches for you on Tinder](https://www.businessinsider.com/tinder-matchmaker-feature-lets-friends-family-recommend-potential-matches-dating-2023-10)
+- [1Password detects &quot;suspicious activity&quot; in its internal Okta account](https://arstechnica.com/security/2023/10/1password-detects-suspicious-activity-in-its-internal-okta-account/)
+- [SumatraPDF Reader](https://github.com/sumatrapdfreader/sumatrapdf)
+- [How to Build Your Own AI-Generated Images with ControlNet and Stable Diffusion](https://www.datature.io/blog/how-to-build-your-own-ai-generated-image-with-controlnet-and-stable-diffusion)
+- [Show HN: Roadmap – A Personal Growth Game for Social Anxiety](https://www.roadmaptogrow.com)
+- [Nvidia to Challenge Intel with Arm-Based Processors for PCs](https://www.bloomberg.com/news/articles/2023-10-23/nvidia-to-take-on-intel-with-arm-based-pc-chips-reuters-says)
+- [Marcel the Shell](https://www.marceltheshell.org)
+- [Show HN: WebSession, a Secure Replacement for Cookies](https://websession.dev/)
+- [Two Kinds of Techno-Optimism](https://garymarcus.substack.com/p/two-kinds-of-techno-optimism)
+- [How does macOS manage virtual cores on Apple Silicon?](https://eclecticlight.co/2023/10/23/how-does-macos-manage-virtual-cores-on-apple-silicon/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

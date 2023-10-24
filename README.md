@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [How a contested history feeds the Israel-Palestine conflict – podcast](https://www.theguardian.com/news/audio/2023/oct/23/how-a-contested-history-feeds-the-israel-palestine-conflict-podcast)
-- [Israel-Hamas war live: White House promises ‘continued flow’ of aid as 14 more trucks enter Gaza](https://www.theguardian.com/world/live/2023/oct/22/israel-hamas-war-live-gaza-strikes-to-intensify-israeli-military-says-west-bank-mosque-hit)
-- [Far-right populist Javier Milei fails to win first round of Argentina’s presidential election](https://www.theguardian.com/world/2023/oct/23/sergio-massa-wins-first-round-argentina-presidential-election-over-javier-milei)
-- [Max Verstappen wins US F1 GP but Hamilton and Leclerc disqualified](https://www.theguardian.com/sport/2023/oct/22/indomitable-max-verstappen-holds-off-british-rivals-to-win-us-f1-gp)
-- [Last refugees in Papua New Guinea to begin leaving ‘within weeks’ after Australian funding runs out](https://www.theguardian.com/australia-news/2023/oct/23/papua-new-guinea-refugees-begin-leaving-png-australia)
-- [Russia-Ukraine war at a glance: what we know on day 607](https://www.theguardian.com/world/2023/oct/23/russia-ukraine-war-at-a-glance-what-we-know-on-day-607)
-- [Joko Widodo’s son chosen as running mate for Indonesia presidential candidate Prabowo](https://www.theguardian.com/world/2023/oct/23/indonesia-gibran-rakabuming-raka-son-of-joko-widodo-running-mate-presidential-candidate-prabowo-subianto)
-- [US judge blocks law that would have been first to ban ‘abortion pill reversal’](https://www.theguardian.com/us-news/2023/oct/22/abortion-pill-reversal-ban-progesterone-judge-ruling)
-- [China and the Philippines trade blame over two South China Sea collisions](https://www.theguardian.com/world/2023/oct/23/china-philippines-ships-boats-collision-south-china-sea-vessels-spratly-islands)
-- [Hamas and Israel at war: what we know on day 17](https://www.theguardian.com/world/2023/oct/23/hamas-and-israel-at-war-what-we-know-on-day-17)
+- [Israel-Hamas war live: Hamas releases two more hostages, Red Cross says; Biden administration says ‘not the time’ for Gaza ceasefire](https://www.theguardian.com/world/live/2023/oct/23/israel-hamas-war-live-updates-airstrikes-gaza-aid-rafah-border-crossing-egypt-white-house-joe-biden-latest-news)
+- [Could the conflict in Israel tip into regional war? | podcast](https://www.theguardian.com/news/audio/2023/oct/24/could-the-conflict-in-israel-tip-into-regional-war-podcast)
+- [Seven killed after smoky ‘superfog’ in Louisiana causes 158-vehicle pileup](https://www.theguardian.com/us-news/2023/oct/23/louisiana-marsh-fires-superfog-car-crash-pileup)
+- [Paramilitary gangs in Brazil torch more than 35 buses in Rio de Janeiro attacks](https://www.theguardian.com/world/2023/oct/24/brazil-rio-de-janeiro-paramilitary-gangs-torch-bus-train-truck-attack-public-transport)
+- [Ex-NSA employee pleads guilty to trying to sell classified information to Russia](https://www.theguardian.com/us-news/2023/oct/23/former-nsa-employee-guilty-classified-information-russia)
+- [Dwayne ‘The Rock’ Johnson wax statue to be redone after star criticises its white skin](https://www.theguardian.com/film/2023/oct/24/dwayne-the-rock-johnson-wax-statue-waxwork-figure-paris-museum)
+- [Russia-Ukraine war at a glance: what we know on day 608](https://www.theguardian.com/world/2023/oct/24/russia-ukraine-war-at-a-glance-what-we-know-on-day-608)
+- [Real living wage rises to £12 an hour as cost of living crisis continues](https://www.theguardian.com/society/2023/oct/24/real-living-wage-12-an-hour-cost-of-living-crisis)
+- [Big UK venture capital funds pledge to invest in high growth companies](https://www.theguardian.com/uk-news/2023/oct/24/big-uk-venture-capital-funds-pledge-to-invest-in-high-growth-companies)
+- [The Woman in Me by Britney Spears review – a pop star’s stinging rebuke](https://www.theguardian.com/books/2023/oct/24/the-woman-in-me-by-britney-spears-review-a-pop-stars-stinging-rebuke)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Google faces new antitrust probe in Japan](https://www.computerworld.com/article/3709194/google-faces-new-antitrust-probe-in-japan.html#tk.rss_all)
+- [Many Mac users already routinely use generative AI](https://www.computerworld.com/article/3709091/many-mac-users-already-routinely-use-generative-ai.html#tk.rss_all)
+- [Google US antitrust trial: A timeline](https://www.computerworld.com/article/3706893/googles-us-antitrust-trials-a-timeline.html#tk.rss_all)
+- [Q&amp;A: The human-machine relationship requires mutual understanding, respect for AI](https://www.computerworld.com/article/3709249/qa-the-human-machine-relationship-requires-mutual-understanding-respect-for-ai.html#tk.rss_all)
 - [Does Siri dream of ChatGPT?](https://www.computerworld.com/article/3709190/does-siri-dream-of-chatgpt.html#tk.rss_all)
 - [Android versions: A living history from 1.0 to 14](https://www.computerworld.com/article/3235946/android-versions-a-living-history-from-1-0-to-today.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [ChatGPT can now look at the web — for real this time](https://www.computerworld.com/article/3709189/chatgpt-can-now-look-at-the-web-for-real-this-time.html#tk.rss_all)
 - [Tech layoffs in 2023: A timeline](https://www.computerworld.com/article/3685936/tech-layoffs-in-2023-a-timeline.html#tk.rss_all)
 - [Extended-reality employee training — a beginning for robotic onboarding?](https://www.computerworld.com/article/3708989/extended-reality-employee-training-a-beginning-for-robotic-onboarding.html#tk.rss_all)
-- [Apple’s latest China App Store problem is a warning for us all](https://www.computerworld.com/article/3709090/apples-latest-china-app-store-problem-is-a-warning-for-us-all.html#tk.rss_all)
-- [Teaching AI to behave is the fastest-growing career skill](https://www.computerworld.com/article/3709048/teaching-ai-to-behave-is-the-fastest-growing-career-skill.html#tk.rss_all)
-- [US expands chip export curbs to China to throttle AI, supercomputer development](https://www.computerworld.com/article/3708812/us-expands-chip-export-curbs-to-china-to-throttle-ai-supercomputer-development.html#tk.rss_all)
-- [Apple’s iPhone factories are going to get much, much smarter](https://www.computerworld.com/article/3708776/apples-iphone-factories-are-going-to-get-much-much-smarter.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

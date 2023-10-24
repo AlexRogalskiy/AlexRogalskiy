@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [London Riot Re-Enactment Society](https://web.archive.org/web/20120307092022/http://anathematician.c8.com/lrrs.htm)
-- [The Sun&#39;s Magnetic Poles Are Vanishing](https://www.scientificamerican.com/article/the-suns-magnetic-poles-are-vanishing/)
-- [The weird aliens of early science fiction](https://www.bbc.com/future/article/20231019-the-weird-aliens-of-early-science-fiction)
-- [Why Children of Married Parents Do Better](https://text.npr.org/1207322878)
-- [Prediction of Type 2 Diabetes Mellitus Using Smartphone-Recorded Voice Segments](https://www.mcpdigitalhealth.org/article/S2949-7612(23)00073-1/fulltext)
-- [Harvard rejects business-school applicants who hacked site &lpar;2005&rpar;](https://www.computerworld.com/article/2568748/harvard-rejects-business-school-applicants-who-hacked-site.html)
-- [OpenSilver 2.0](https://opensilver.net/)
-- [Koe Recast](https://koe.ai/)
-- [Computers Use Numbers](https://mabi.tmpinc.io/numbers/)
-- [GOP Rep. Wants to Cut Waistlines–and the U.S. Budget–With Ozempic](https://www.thedailybeast.com/gop-rep-dave-schweikert-wants-to-cut-waistlinesand-the-us-budgetwith-ozempic)
+- [Torque3D: a C++ game engine](https://torque3d.org)
+- [Ask HN: How do you deal with back-to-the office anxiety?](https://news.ycombinator.com/item?id=37994142)
+- [How to Keep HTTP Connections Alive for 9 Hours](https://snyk.io/blog/how-to-keep-http-connection-alive-9-hours/)
+- [Baku QAnon: The New High Armenophobia](https://evnreport.com/politics/baku-qanon-the-new-high-armenophobia/)
+- [Privacy in the Age of Generative AI](https://stackoverflow.blog/2023/10/23/privacy-in-the-age-of-generative-ai/)
+- [DreamMachine – API for BCI&#39;s](https://dreammachine.one)
+- [Vietnam&#39;s VinFast struggles to sell electric cars at home](https://techxplore.com/news/2023-10-vietnam-vinfast-struggles-electric-cars.html)
+- [Japan sticks with climate solution that critics say is far from clean](https://www.japantimes.co.jp/environment/2023/10/22/resources/ammonia-cofiring-issues/)
+- [Embeddings: What they are and why they matter](https://simonwillison.net/2023/Oct/23/embeddings/)
+- [NASA wants the Voyagers to age gracefully, so it&#39;s time for a software patch](https://arstechnica.com/space/2023/10/nasa-wants-the-voyagers-to-age-gracefully-so-its-time-for-a-software-patch/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

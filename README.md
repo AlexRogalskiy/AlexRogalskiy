@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Mom can now recommend matches for you on Tinder](https://www.businessinsider.com/tinder-matchmaker-feature-lets-friends-family-recommend-potential-matches-dating-2023-10)
-- [1Password detects &quot;suspicious activity&quot; in its internal Okta account](https://arstechnica.com/security/2023/10/1password-detects-suspicious-activity-in-its-internal-okta-account/)
-- [SumatraPDF Reader](https://github.com/sumatrapdfreader/sumatrapdf)
-- [How to Build Your Own AI-Generated Images with ControlNet and Stable Diffusion](https://www.datature.io/blog/how-to-build-your-own-ai-generated-image-with-controlnet-and-stable-diffusion)
-- [Show HN: Roadmap – A Personal Growth Game for Social Anxiety](https://www.roadmaptogrow.com)
-- [Nvidia to Challenge Intel with Arm-Based Processors for PCs](https://www.bloomberg.com/news/articles/2023-10-23/nvidia-to-take-on-intel-with-arm-based-pc-chips-reuters-says)
-- [Marcel the Shell](https://www.marceltheshell.org)
-- [Show HN: WebSession, a Secure Replacement for Cookies](https://websession.dev/)
-- [Two Kinds of Techno-Optimism](https://garymarcus.substack.com/p/two-kinds-of-techno-optimism)
-- [How does macOS manage virtual cores on Apple Silicon?](https://eclecticlight.co/2023/10/23/how-does-macos-manage-virtual-cores-on-apple-silicon/)
+- [Microsoft now demands to know why you won&#39;t use Edge when you download Chrome](https://www.techradar.com/computing/browsers/microsoft-now-demands-to-know-why-you-just-wont-use-edge-when-you-inevitably-download-chrome-using-it)
+- [Mean American household is now a millionaire, according to the Federal Reserve](https://finance.yahoo.com/news/standard-american-household-now-millionaire-104639340.html)
+- [Show HN: Fediverser Portal – Bring your subreddits to Lemmy](https://portal.alien.top)
+- [Star Citizen&#39;s Squadron 42 finally feature-complete 10 years post being revealed](https://www.xfire.com/star-citizens-squadron-42-finally-feature-complete-ten-years-after-being-announced/)
+- [Show HN: Restaurants in Peace – leave a remembrance for a closed restaurant](https://restaurants.rip/)
+- [Life After “Calvin and Hobbes”](https://www.newyorker.com/magazine/2023/10/30/the-mysteries-bill-watterson-book-review)
+- [Prototype poisoning &lpar;2019&rpar;](https://fastify.dev/docs/latest/Guides/Prototype-Poisoning/)
+- [Waymo says insurance data shows its driverless cars are safer than humans](https://www.nbcbayarea.com/investigations/googles-waymo-safety-study-on-driverless-cars/3311188/)
+- [Gittuf – a security layer for Git](https://gittuf.github.io/)
+- [What being rich in China looked like in 1, 1000, and 2000 AD](https://bigthink.com/the-past/china-wealth/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Israel-Hamas war live: Hamas releases two more hostages, Red Cross says; Biden administration says ‘not the time’ for Gaza ceasefire](https://www.theguardian.com/world/live/2023/oct/23/israel-hamas-war-live-updates-airstrikes-gaza-aid-rafah-border-crossing-egypt-white-house-joe-biden-latest-news)
-- [Could the conflict in Israel tip into regional war? | podcast](https://www.theguardian.com/news/audio/2023/oct/24/could-the-conflict-in-israel-tip-into-regional-war-podcast)
-- [Seven killed after smoky ‘superfog’ in Louisiana causes 158-vehicle pileup](https://www.theguardian.com/us-news/2023/oct/23/louisiana-marsh-fires-superfog-car-crash-pileup)
-- [Paramilitary gangs in Brazil torch more than 35 buses in Rio de Janeiro attacks](https://www.theguardian.com/world/2023/oct/24/brazil-rio-de-janeiro-paramilitary-gangs-torch-bus-train-truck-attack-public-transport)
-- [Ex-NSA employee pleads guilty to trying to sell classified information to Russia](https://www.theguardian.com/us-news/2023/oct/23/former-nsa-employee-guilty-classified-information-russia)
-- [Dwayne ‘The Rock’ Johnson wax statue to be redone after star criticises its white skin](https://www.theguardian.com/film/2023/oct/24/dwayne-the-rock-johnson-wax-statue-waxwork-figure-paris-museum)
-- [Russia-Ukraine war at a glance: what we know on day 608](https://www.theguardian.com/world/2023/oct/24/russia-ukraine-war-at-a-glance-what-we-know-on-day-608)
-- [Real living wage rises to £12 an hour as cost of living crisis continues](https://www.theguardian.com/society/2023/oct/24/real-living-wage-12-an-hour-cost-of-living-crisis)
-- [Big UK venture capital funds pledge to invest in high growth companies](https://www.theguardian.com/uk-news/2023/oct/24/big-uk-venture-capital-funds-pledge-to-invest-in-high-growth-companies)
-- [The Woman in Me by Britney Spears review – a pop star’s stinging rebuke](https://www.theguardian.com/books/2023/oct/24/the-woman-in-me-by-britney-spears-review-a-pop-stars-stinging-rebuke)
+- [Israel-Hamas war live: Israel drone strike kills two in West Bank refugee camp, medics say; UN chief calls Gaza situation ‘more dire by the hour’](https://www.theguardian.com/world/live/2023/oct/24/israel-hamas-war-live-news-conflict-biden-netanyahu-aid-gaza-hostages-latest-updates)
+- [In the wake of Storm Babet | podcast](https://www.theguardian.com/news/audio/2023/oct/25/in-the-wake-of-storm-babet-podcast)
+- [Japan investigates foreign YouTubers accused of dodging train fares and stealing food](https://www.theguardian.com/world/2023/oct/25/japan-strange-annoying-youtuber-from-abroad-fidias-accused-dodging-train-fares-stealing-food)
+- [Russia-Ukraine war at a glance: what we know on day 609](https://www.theguardian.com/world/2023/oct/25/russia-ukraine-war-at-a-glance-what-we-know-on-day-609)
+- [Man charged in Sydney over daylight shooting of Melbourne gangland figure Gavin Preston](https://www.theguardian.com/australia-news/2023/oct/25/gavin-preston-man-arrested-sydney-nsw-killing-fatal-shooting-melbourne-gangland-figure)
+- [UN’s António Guterres calls for immediate ceasefire to end ‘epic suffering’ in Gaza](https://www.theguardian.com/world/2023/oct/24/un-calls-for-immediate-ceasefire-to-end-epic-suffering-in-gaza)
+- [Sepsis killing too many as lessons not learned, warns NHS watchdog](https://www.theguardian.com/society/2023/oct/25/sepsis-killing-too-many-lessons-not-learned-nhs-watchdog)
+- [UK consumers lose £580m to fraudsters in first half of 2023, figures reveal](https://www.theguardian.com/global/2023/oct/25/uk-consumer-lose-580m-fraudster-first-half-2023-romance-scam-id-theft-fastest-growing-categories)
+- [Disfigurement charity calls for warnings on horror film portrayals](https://www.theguardian.com/film/2023/oct/25/disfigurement-charity-warnings-horror-film-portrayals)
+- [Starmer ‘gravely misrepresented’ meeting, say Muslim leaders in Wales](https://www.theguardian.com/politics/2023/oct/24/starmer-gravely-misrepresented-meeting-say-muslim-leaders-in-wales)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

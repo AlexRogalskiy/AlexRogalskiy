@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Torque3D: a C++ game engine](https://torque3d.org)
-- [Ask HN: How do you deal with back-to-the office anxiety?](https://news.ycombinator.com/item?id=37994142)
-- [How to Keep HTTP Connections Alive for 9 Hours](https://snyk.io/blog/how-to-keep-http-connection-alive-9-hours/)
-- [Baku QAnon: The New High Armenophobia](https://evnreport.com/politics/baku-qanon-the-new-high-armenophobia/)
-- [Privacy in the Age of Generative AI](https://stackoverflow.blog/2023/10/23/privacy-in-the-age-of-generative-ai/)
-- [DreamMachine – API for BCI&#39;s](https://dreammachine.one)
-- [Vietnam&#39;s VinFast struggles to sell electric cars at home](https://techxplore.com/news/2023-10-vietnam-vinfast-struggles-electric-cars.html)
-- [Japan sticks with climate solution that critics say is far from clean](https://www.japantimes.co.jp/environment/2023/10/22/resources/ammonia-cofiring-issues/)
-- [Embeddings: What they are and why they matter](https://simonwillison.net/2023/Oct/23/embeddings/)
-- [NASA wants the Voyagers to age gracefully, so it&#39;s time for a software patch](https://arstechnica.com/space/2023/10/nasa-wants-the-voyagers-to-age-gracefully-so-its-time-for-a-software-patch/)
+- [WinUI3 Source Available](https://github.com/microsoft/microsoft-ui-xaml/tree/winui3/release/1.4-stable)
+- [1984&#39; gets a new life, and a fresh perspective, in &#39;Julia&#39;](https://www.washingtonpost.com/books/2023/10/24/julia-1984-novel-sandra-newman/)
+- [AI creators&#39; clones via text, voice, image and video](https://www.xelf.ai/sign-in?redirect_url=https%3A%2F%2Fwww.xelf.ai%2F)
+- [The AI-Generated Child Abuse Nightmare Is Here](https://www.wired.com/story/generative-ai-images-child-sexual-abuse/)
+- [LIGO Surpasses the Quantum Limit](https://www.caltech.edu/about/news/ligo-surpasses-the-quantum-limit)
+- [Bors: Elixir GitHub bot that prevents merge skew / semantic merge conflicts](https://github.com/bors-ng/bors-ng)
+- [Toyota Inks Deal to Mass Produce Solid State EV Batteries with 932-Mile Range](https://www.pcmag.com/news/toyota-inks-deal-to-mass-produce-solid-state-ev-batteries-with-932-mile)
+- [Are Language Models Capable of Physical Reasoning?](https://newtonreasoning.github.io/)
+- [Apple Expanding Device Repair Programs for Consumers and Independent Shops](https://www.macrumors.com/2023/10/24/apple-expanding-device-repair-programs/)
+- [Are people with more peace of mind better at regulating emotions?](https://medicalxpress.com/news/2023-10-people-peace-mind-emotions.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

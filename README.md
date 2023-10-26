@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [White House to issue AI rules for federal employees](https://www.computerworld.com/article/3709528/white-house-to-issue-ai-rules-for-federal-employees.html#tk.rss_all)
+- [Intel&#39;s PC stranglehold could face serious challenge from Nvidia, AMD and Qualcomm](https://www.computerworld.com/article/3709488/intels-pc-stranglehold-could-face-serious-challenge-from-nvidia-amd-and-qualcomm.html#tk.rss_all)
+- [Cisco unveils new AI strategy for its Webex videoconference platform](https://www.computerworld.com/article/3709131/cisco-unveils-new-ai-strategy-for-its-webex-video-platform.html#tk.rss_all)
+- [Google Cloud fails to cash in on generative AI](https://www.computerworld.com/article/3709202/google-cloud-fails-to-cash-in-on-generative-ai.html#tk.rss_all)
+- [AI and cloud growth fuel first quarter revenue boost for Microsoft](https://www.computerworld.com/article/3709053/ai-and-cloud-growth-fuel-first-quarter-revenue-boost-for-microsoft.html#tk.rss_all)
+- [Apple’s ‘Scary Fast’ Mac event casts shade over Qualcomm](https://www.computerworld.com/article/3709092/apples-scary-fast-mac-event-casts-shade-over-qualcomm.html#tk.rss_all)
+- [How to activate Chrome&#39;s fancy new Android reading enhancer](https://www.computerworld.com/article/3709198/chrome-android-reading-enhancer.html#tk.rss_all)
+- [PowerPoint for Microsoft 365 cheat sheet](https://www.computerworld.com/article/3606749/powerpoint-for-microsoft-365-cheat-sheet.html#tk.rss_all)
+- [UK workers support AI but want greater organizational transparency](https://www.computerworld.com/article/3709052/uk-workers-support-ai-but-want-greater-organizational-transparency.html#tk.rss_all)
 - [Android’s new biometric spec for &#39;strong security&#39; is anything but](https://www.computerworld.com/article/3709200/androids-new-biometric-spec-for-strong-security-is-anything-but.html#tk.rss_all)
-- [The genAI backlash: Should creative types poison the well?](https://www.computerworld.com/article/3708992/the-genai-backlash-should-creative-types-poison-the-well.html#tk.rss_all)
-- [As M365 Copilot launch looms, businesses likely to move cautiously](https://www.computerworld.com/article/3709195/as-m365-copilot-launch-looms-businesses-likely-to-move-cautiously.html#tk.rss_all)
-- [Google faces new antitrust probe in Japan](https://www.computerworld.com/article/3709194/google-faces-new-antitrust-probe-in-japan.html#tk.rss_all)
-- [Many Mac users already routinely use generative AI](https://www.computerworld.com/article/3709091/many-mac-users-already-routinely-use-generative-ai.html#tk.rss_all)
-- [Google US antitrust trial: A timeline](https://www.computerworld.com/article/3706893/googles-us-antitrust-trials-a-timeline.html#tk.rss_all)
-- [Q&amp;A: The human-machine relationship requires mutual understanding, respect for AI](https://www.computerworld.com/article/3709249/qa-the-human-machine-relationship-requires-mutual-understanding-respect-for-ai.html#tk.rss_all)
-- [Does Siri dream of ChatGPT?](https://www.computerworld.com/article/3709190/does-siri-dream-of-chatgpt.html#tk.rss_all)
-- [Android versions: A living history from 1.0 to 14](https://www.computerworld.com/article/3235946/android-versions-a-living-history-from-1-0-to-today.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

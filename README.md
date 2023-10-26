@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Microsoft now demands to know why you won&#39;t use Edge when you download Chrome](https://www.techradar.com/computing/browsers/microsoft-now-demands-to-know-why-you-just-wont-use-edge-when-you-inevitably-download-chrome-using-it)
-- [Mean American household is now a millionaire, according to the Federal Reserve](https://finance.yahoo.com/news/standard-american-household-now-millionaire-104639340.html)
-- [Show HN: Fediverser Portal – Bring your subreddits to Lemmy](https://portal.alien.top)
-- [Star Citizen&#39;s Squadron 42 finally feature-complete 10 years post being revealed](https://www.xfire.com/star-citizens-squadron-42-finally-feature-complete-ten-years-after-being-announced/)
-- [Show HN: Restaurants in Peace – leave a remembrance for a closed restaurant](https://restaurants.rip/)
-- [Life After “Calvin and Hobbes”](https://www.newyorker.com/magazine/2023/10/30/the-mysteries-bill-watterson-book-review)
-- [Prototype poisoning &lpar;2019&rpar;](https://fastify.dev/docs/latest/Guides/Prototype-Poisoning/)
-- [Waymo says insurance data shows its driverless cars are safer than humans](https://www.nbcbayarea.com/investigations/googles-waymo-safety-study-on-driverless-cars/3311188/)
-- [Gittuf – a security layer for Git](https://gittuf.github.io/)
-- [What being rich in China looked like in 1, 1000, and 2000 AD](https://bigthink.com/the-past/china-wealth/)
+- [Chaucer&#39;s Works Go Online](https://blogs.bl.uk/digitisedmanuscripts/2023/10/chaucers-works-go-online.html)
+- [Jina AI Launches First Open-Source 8K Text Embedding, Rivaling OpenAI](https://jina.ai/news/jina-ai-launches-worlds-first-open-source-8k-text-embedding-rivaling-openai/)
+- [How to find a lost phone in a no-cell-coverage camping site?](https://manas.tech/blog/2023/10/25/approaching-unconventional-problems/)
+- [Keyboard Maestro 11](https://www.stairways.com/press/2023-10-24)
+- [Living Papers: A Language Toolkit for Augmented Scholarly Communication](https://idl.cs.washington.edu/papers/living-papers/)
+- [AI &#39;breakthrough&#39;: neural net has human-like ability to generalize language](https://www.nature.com/articles/d41586-023-03272-3)
+- [Safety benefits of roundabouts](https://theconversation.com/what-are-roundabouts-a-transportation-engineer-explains-the-safety-benefits-of-these-circular-intersections-215412)
+- [The Case of a Curious SQL Query](https://buttondown.email/jaffray/archive/the-case-of-a-curious-sql-query/)
+- [Towards Understanding Sycophancy in Language Models](https://arxiv.org/abs/2310.13548)
+- [iLeakage: Browser-Based Timerless Speculative Execution Attacks on Apple Devices](https://ileakage.com/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

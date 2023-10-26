@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [WinUI3 Source Available](https://github.com/microsoft/microsoft-ui-xaml/tree/winui3/release/1.4-stable)
-- [1984&#39; gets a new life, and a fresh perspective, in &#39;Julia&#39;](https://www.washingtonpost.com/books/2023/10/24/julia-1984-novel-sandra-newman/)
-- [AI creators&#39; clones via text, voice, image and video](https://www.xelf.ai/sign-in?redirect_url=https%3A%2F%2Fwww.xelf.ai%2F)
-- [The AI-Generated Child Abuse Nightmare Is Here](https://www.wired.com/story/generative-ai-images-child-sexual-abuse/)
-- [LIGO Surpasses the Quantum Limit](https://www.caltech.edu/about/news/ligo-surpasses-the-quantum-limit)
-- [Bors: Elixir GitHub bot that prevents merge skew / semantic merge conflicts](https://github.com/bors-ng/bors-ng)
-- [Toyota Inks Deal to Mass Produce Solid State EV Batteries with 932-Mile Range](https://www.pcmag.com/news/toyota-inks-deal-to-mass-produce-solid-state-ev-batteries-with-932-mile)
-- [Are Language Models Capable of Physical Reasoning?](https://newtonreasoning.github.io/)
-- [Apple Expanding Device Repair Programs for Consumers and Independent Shops](https://www.macrumors.com/2023/10/24/apple-expanding-device-repair-programs/)
-- [Are people with more peace of mind better at regulating emotions?](https://medicalxpress.com/news/2023-10-people-peace-mind-emotions.html)
+- [Bacteria pave the way for paint that produces oxygen while capturing carbon](https://phys.org/news/2023-10-bacteria-pave-oxygen-capturing-carbon.html)
+- [Forget the 10x engineer–it&#39;s about building a 10x culture](https://stackoverflow.blog/2023/10/25/forget-the-10x-engineer-it-s-about-building-a-10x-culture/)
+- [A working LLM implemented in Excel](https://Spreadsheets-are-all-you-need.ai)
+- [Ask HN: I got the .com for my surname, best way to share this with family?](https://news.ycombinator.com/item?id=38020803)
+- [Ask HN: Which remote desktop software works well for both Windows and Mac?](https://news.ycombinator.com/item?id=38020797)
+- [Running the &quot;Reflections on Trusting Trust&quot; Compiler](https://research.swtch.com/nih)
+- [Ask HN: What&#39;s up with Bitcoin these days?](https://news.ycombinator.com/item?id=38020784)
+- [The Battle for Your Brain: The Right to Think Freely in Age of Neurotechnology](https://www.nybooks.com/articles/2023/11/02/the-bulls-eye-on-your-thoughts-the-battle-for-your-brain/)
+- [OAuth 2.0 Scopes enforcement on APIs](https://www.slashid.dev/blog/openapi_oauth2_gate/)
+- [Function Vectors in Large Language Models](https://functions.baulab.info/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

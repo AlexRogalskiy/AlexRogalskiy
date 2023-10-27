@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [At least 10 dead in Maine mass shootings, with numbers expected to rise, police say](https://www.theguardian.com/us-news/2023/oct/25/maine-mass-shootings-updates)
-- [Israel-Hamas war live: Netanyahu says war cabinet ‘working around the clock’ before potential ground invasion; Biden renews call for two-state solution](https://www.theguardian.com/world/live/2023/oct/25/israel-hamas-war-live-news-gaza-child-deaths-unicef-jenin-west-bank-strike)
-- [The rise of antisemitism in the UK – podcast](https://www.theguardian.com/news/audio/2023/oct/26/the-rise-of-antisemitism-in-the-uk-podcast)
-- [Russia-Ukraine war at a glance: what we know on day 610](https://www.theguardian.com/world/2023/oct/26/russia-ukraine-war-at-a-glance-what-we-know-on-day-610)
-- [Biden says West Bank settlers ‘pouring gasoline on fire’ as Israel prepares for Gaza ground invasion](https://www.theguardian.com/world/2023/oct/26/joe-biden-west-bank-settlers-israel-prepares-gaza-ground-invasion)
-- [‘Our children were treated like criminals’: Parents seek justice a year after deadly Seoul crowd crush](https://www.theguardian.com/world/2023/oct/26/seoul-itaewon-crowd-crush-south-korea-anniversary-parents-seek-justice-one-year)
-- [AI dangers must be faced ‘head on’, Rishi Sunak to warn ahead of tech summit](https://www.theguardian.com/technology/2023/oct/25/ai-dangers-must-be-faced-head-on-rishi-sunak-to-tell-tech-summit)
-- [University students in England ‘have 50p a week to live on after rent’](https://www.theguardian.com/money/2023/oct/26/university-students-england-50p-a-week-after-rent)
-- [David Kirke, performer of world’s first modern-day bungee jump, dies aged 78](https://www.theguardian.com/uk-news/2023/oct/25/david-kirke-who-performed-worlds-first-ever-modern-day-bungee-jump-dies-aged-78)
-- [Glenn Maxwell tears up cricket history books with innings of riotous expression | Geoff Lemon](https://www.theguardian.com/sport/blog/2023/oct/26/glenn-maxwell-tears-up-cricket-history-books-with-innings-of-riotous-expression)
+- [Israel-Hamas war live: EU calls for ‘humanitarian pauses’ as UN humanitarian chief says aid ‘barely trickling’ into Gaza](https://www.theguardian.com/world/live/2023/oct/26/israel-hamas-war-live-eu-leaders-to-call-for-gaza-humanitarian-pause-biden-redoubles-efforts-on-two-state-solution)
+- [The last whale hunter in Iceland – podcast](https://www.theguardian.com/news/audio/2023/oct/27/the-last-whale-hunter-in-iceland-podcast)
+- [Gaza before and after: satellite images show destruction following Israeli airstrikes](https://www.theguardian.com/world/2023/oct/27/gaza-before-and-after-satellite-images-show-destruction-after-israeli-airstrikes)
+- [Maine shootings: police surround farmhouse owned by suspect’s family in Bowdoin](https://www.theguardian.com/us-news/2023/oct/26/robert-card-maine-shootings-person-of-interest)
+- [Pakistan looks back to the future as Nawaz Sharif eyes fourth stint as PM](https://www.theguardian.com/world/2023/oct/27/pakistan-looks-back-to-the-future-as-nawaz-sharif-eyes-fourth-stint-as-pm)
+- [Li Keqiang, former premier of China, dies aged 68 - state media](https://www.theguardian.com/world/2023/oct/27/li-keqiang-former-premier-of-china-dies-aged-68-state-media)
+- [Israel and Hamas at war: what we know on day 21](https://www.theguardian.com/world/2023/oct/27/israel-and-hamas-at-war-what-we-know-on-day-21)
+- [Russia-Ukraine war at a glance: what we know on day 611](https://www.theguardian.com/world/2023/oct/27/russia-ukraine-war-at-a-glance-what-we-know-on-day-611)
+- [Amazon profits nearly triple as company reports $143.1bn in revenue](https://www.theguardian.com/technology/2023/oct/26/amazon-quarter-profits-revenue-increase)
+- [How does Gaza’s health ministry calculate casualty figures?](https://www.theguardian.com/world/2023/oct/27/how-does-gazas-health-ministry-calculate-casualty-figures)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

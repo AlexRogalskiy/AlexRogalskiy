@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Bacteria pave the way for paint that produces oxygen while capturing carbon](https://phys.org/news/2023-10-bacteria-pave-oxygen-capturing-carbon.html)
-- [Forget the 10x engineer–it&#39;s about building a 10x culture](https://stackoverflow.blog/2023/10/25/forget-the-10x-engineer-it-s-about-building-a-10x-culture/)
-- [A working LLM implemented in Excel](https://Spreadsheets-are-all-you-need.ai)
-- [Ask HN: I got the .com for my surname, best way to share this with family?](https://news.ycombinator.com/item?id=38020803)
-- [Ask HN: Which remote desktop software works well for both Windows and Mac?](https://news.ycombinator.com/item?id=38020797)
-- [Running the &quot;Reflections on Trusting Trust&quot; Compiler](https://research.swtch.com/nih)
-- [Ask HN: What&#39;s up with Bitcoin these days?](https://news.ycombinator.com/item?id=38020784)
-- [The Battle for Your Brain: The Right to Think Freely in Age of Neurotechnology](https://www.nybooks.com/articles/2023/11/02/the-bulls-eye-on-your-thoughts-the-battle-for-your-brain/)
-- [OAuth 2.0 Scopes enforcement on APIs](https://www.slashid.dev/blog/openapi_oauth2_gate/)
-- [Function Vectors in Large Language Models](https://functions.baulab.info/)
+- [Tesla&#39;s first big Supercharger deal is a $100M sale to BP](https://www.theverge.com/2023/10/26/23933251/tesla-bp-pulse-first-third-party-supercharger-electric-car-charging-network)
+- [US trade tribunal issues potential Apple Watch import ban](https://www.reuters.com/technology/us-trade-tribunal-issues-potential-apple-watch-import-ban-masimo-patent-fight-2023-10-26/)
+- [The simple and high performance library to allow HTML/SVG element to be dragged](https://anseki.github.io/plain-draggable/)
+- [Journaling in Private with My Friends](https://werd.io/2023/journaling-in-private-with-my-friends)
+- [The Network Effect of Telecommunications Vulnerabilities for Location Disclosure](https://citizenlab.ca/2023/10/finding-you-teleco-vulnerabilities-for-location-disclosure/)
+- [France says Russian state hackers breached numerous critical networks](https://www.bleepingcomputer.com/news/security/france-says-russian-state-hackers-breached-numerous-critical-networks/)
+- [Show HN: DistiLlama Summarize Web Pages with Local LLMs](https://github.com/shreyaskarnik/DistiLlama)
+- [OpenAI closes big lease deal at Uber&#39;s San Francisco headquarters](https://www.sfchronicle.com/realestate/article/openai-s-f-uber-lease-18451102.php)
+- [Xenobot, an Eerie New Kind of Programmable Organism](https://www.wired.com/story/xenobot/)
+- [NASA Santa Susana Field Laboratory Virtual Tour](https://ssfl.msfc.nasa.gov/history/virtual-tour)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

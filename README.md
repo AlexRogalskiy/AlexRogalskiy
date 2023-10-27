@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Chaucer&#39;s Works Go Online](https://blogs.bl.uk/digitisedmanuscripts/2023/10/chaucers-works-go-online.html)
-- [Jina AI Launches First Open-Source 8K Text Embedding, Rivaling OpenAI](https://jina.ai/news/jina-ai-launches-worlds-first-open-source-8k-text-embedding-rivaling-openai/)
-- [How to find a lost phone in a no-cell-coverage camping site?](https://manas.tech/blog/2023/10/25/approaching-unconventional-problems/)
-- [Keyboard Maestro 11](https://www.stairways.com/press/2023-10-24)
-- [Living Papers: A Language Toolkit for Augmented Scholarly Communication](https://idl.cs.washington.edu/papers/living-papers/)
-- [AI &#39;breakthrough&#39;: neural net has human-like ability to generalize language](https://www.nature.com/articles/d41586-023-03272-3)
-- [Safety benefits of roundabouts](https://theconversation.com/what-are-roundabouts-a-transportation-engineer-explains-the-safety-benefits-of-these-circular-intersections-215412)
-- [The Case of a Curious SQL Query](https://buttondown.email/jaffray/archive/the-case-of-a-curious-sql-query/)
-- [Towards Understanding Sycophancy in Language Models](https://arxiv.org/abs/2310.13548)
-- [iLeakage: Browser-Based Timerless Speculative Execution Attacks on Apple Devices](https://ileakage.com/)
+- [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring a Chief of Staff](https://news.ycombinator.com/item?id=38033524)
+- [Ceasing Print Publication of ACM Journals and Transactions](https://www.acm.org/publications/ceasing-print)
+- [Interactive Intro to Shaders](https://www.mayerowitz.io/blog/a-journey-into-shaders)
+- [WebSDR – internet connected Software-Defined Radios](http://www.websdr.org/)
+- [Trying to make sense of why Otis exploded en route to Acapulco this week](https://theeyewall.com/trying-to-make-sense-of-why-otis-exploded-en-route-to-acapulco-this-week/)
+- [Now add a walrus: Prompt engineering in DALL-E 3](https://simonwillison.net/2023/Oct/26/add-a-walrus/)
+- [We need to talk about funding](https://octoprint.org/blog/2023/10/26/we-need-to-talk-about-funding/)
+- [Things I like about Gleam&#39;s Syntax](https://erikarow.land/notes/gleam-syntax)
+- [DaScript: Fast and Versatile Scripting Language](https://dascript.org/)
+- [The Magical Japanese Art of Luggage Forwarding](https://craigmod.com/ridgeline/170/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

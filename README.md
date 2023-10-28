@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Tesla&#39;s first big Supercharger deal is a $100M sale to BP](https://www.theverge.com/2023/10/26/23933251/tesla-bp-pulse-first-third-party-supercharger-electric-car-charging-network)
-- [US trade tribunal issues potential Apple Watch import ban](https://www.reuters.com/technology/us-trade-tribunal-issues-potential-apple-watch-import-ban-masimo-patent-fight-2023-10-26/)
-- [The simple and high performance library to allow HTML/SVG element to be dragged](https://anseki.github.io/plain-draggable/)
-- [Journaling in Private with My Friends](https://werd.io/2023/journaling-in-private-with-my-friends)
-- [The Network Effect of Telecommunications Vulnerabilities for Location Disclosure](https://citizenlab.ca/2023/10/finding-you-teleco-vulnerabilities-for-location-disclosure/)
-- [France says Russian state hackers breached numerous critical networks](https://www.bleepingcomputer.com/news/security/france-says-russian-state-hackers-breached-numerous-critical-networks/)
-- [Show HN: DistiLlama Summarize Web Pages with Local LLMs](https://github.com/shreyaskarnik/DistiLlama)
-- [OpenAI closes big lease deal at Uber&#39;s San Francisco headquarters](https://www.sfchronicle.com/realestate/article/openai-s-f-uber-lease-18451102.php)
-- [Xenobot, an Eerie New Kind of Programmable Organism](https://www.wired.com/story/xenobot/)
-- [NASA Santa Susana Field Laboratory Virtual Tour](https://ssfl.msfc.nasa.gov/history/virtual-tour)
+- [15 Years of Android Memories](https://blog.google/products/android/android-15th-anniversary-googler-highlights/)
+- [Staring at a Wall: Embracing Deliberate Boredom](https://www.ch3ngl0rd.com/staring-at-a-wall/)
+- [The Creator of Rails on Internet&#39;s Hidden Price: Our Private Data [video]](https://www.youtube.com/watch?v=NtefErvvpPI)
+- [Nematode revived after 46,000 years in Siberian permafrost](https://en.wikipedia.org/wiki/Nematode)
+- [AI Gravity](https://nextword.substack.com/p/ai-gravity-or-llm-gravity)
+- [Wise is deactivating Business cards in the US on Oct. 31st](https://wise.com/help/articles/1Rygn0gaetjmjGcOvyjRZm/were-temporarily-deactivating-wise-business-cards-in-the-us)
+- [Show HN: 2D Visualization of Math Equations](https://particlo.org/TriMath.html)
+- [X celebrates 60% savings from cloud exit](https://world.hey.com/dhh/x-celebrates-60-savings-from-cloud-exit-7cc26895?ref=dailydev)
+- [Frontier Risk and Preparedness &lpar;OpenAI&rpar;](https://openai.com/blog/frontier-risk-and-preparedness)
+- [Yup, that was an earthquake outside SF](https://earthquake.usgs.gov/earthquakes/eventpage/nc73952475/executive)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

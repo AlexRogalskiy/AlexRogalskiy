@@ -355,6 +355,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Intel shows recovery in PCs but faces competition in AI, data centers](https://www.computerworld.com/article/3709688/intel-shows-recovery-in-pcs-but-faces-competition-in-ai-data-centers.html#tk.rss_all)
+- [Apple teams up with US firms to push for clean energy](https://www.computerworld.com/article/3709491/apple-teams-up-with-us-firms-to-push-for-clean-energy.html#tk.rss_all)
+- [Microsoft invested $13B in genAI — does Copilot for Windows show it’s a bad bet?](https://www.computerworld.com/article/3709250/microsoft-invested-13b-in-generative-ai-does-copilot-for-windows-show-it-s-a-bad-bet.html#tk.rss_all)
 - [Generative AI training data sets are now trackable – and often legally complicated](https://www.computerworld.com/article/3709490/generative-ai-training-data-sets-are-now-trackable-and-often-legally-complicated.html#tk.rss_all)
 - [UK&#39;s Ofcom sets regulatory timeline in wake of online safety bill receiving royal assent](https://www.computerworld.com/article/3709511/uks-ofcom-sets-regulatory-timeline-in-wake-of-online-safety-bill-receiving-royal-assent.html#tk.rss_all)
 - [Cisco brings Webex to Apple Watch and Apple TV](https://www.computerworld.com/article/3709449/cisco-brings-webex-to-apple-watch-and-apple-tv.html#tk.rss_all)
@@ -362,9 +365,6 @@
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [White House to issue AI rules for federal employees](https://www.computerworld.com/article/3709528/white-house-to-issue-ai-rules-for-federal-employees.html#tk.rss_all)
 - [Intel&#39;s PC stranglehold could face serious challenge from Nvidia, AMD and Qualcomm](https://www.computerworld.com/article/3709488/intels-pc-stranglehold-could-face-serious-challenge-from-nvidia-amd-and-qualcomm.html#tk.rss_all)
-- [Cisco unveils new AI strategy for its Webex videoconference platform](https://www.computerworld.com/article/3709131/cisco-unveils-new-ai-strategy-for-its-webex-video-platform.html#tk.rss_all)
-- [Google Cloud fails to cash in on generative AI](https://www.computerworld.com/article/3709202/google-cloud-fails-to-cash-in-on-generative-ai.html#tk.rss_all)
-- [AI and cloud growth fuel first quarter revenue boost for Microsoft](https://www.computerworld.com/article/3709053/ai-and-cloud-growth-fuel-first-quarter-revenue-boost-for-microsoft.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

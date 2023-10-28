@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Israel-Hamas war live: EU calls for ‘humanitarian pauses’ as UN humanitarian chief says aid ‘barely trickling’ into Gaza](https://www.theguardian.com/world/live/2023/oct/26/israel-hamas-war-live-eu-leaders-to-call-for-gaza-humanitarian-pause-biden-redoubles-efforts-on-two-state-solution)
-- [The last whale hunter in Iceland – podcast](https://www.theguardian.com/news/audio/2023/oct/27/the-last-whale-hunter-in-iceland-podcast)
-- [Gaza before and after: satellite images show destruction following Israeli airstrikes](https://www.theguardian.com/world/2023/oct/27/gaza-before-and-after-satellite-images-show-destruction-after-israeli-airstrikes)
-- [Maine shootings: police surround farmhouse owned by suspect’s family in Bowdoin](https://www.theguardian.com/us-news/2023/oct/26/robert-card-maine-shootings-person-of-interest)
-- [Pakistan looks back to the future as Nawaz Sharif eyes fourth stint as PM](https://www.theguardian.com/world/2023/oct/27/pakistan-looks-back-to-the-future-as-nawaz-sharif-eyes-fourth-stint-as-pm)
-- [Li Keqiang, former premier of China, dies aged 68 - state media](https://www.theguardian.com/world/2023/oct/27/li-keqiang-former-premier-of-china-dies-aged-68-state-media)
-- [Israel and Hamas at war: what we know on day 21](https://www.theguardian.com/world/2023/oct/27/israel-and-hamas-at-war-what-we-know-on-day-21)
-- [Russia-Ukraine war at a glance: what we know on day 611](https://www.theguardian.com/world/2023/oct/27/russia-ukraine-war-at-a-glance-what-we-know-on-day-611)
-- [Amazon profits nearly triple as company reports $143.1bn in revenue](https://www.theguardian.com/technology/2023/oct/26/amazon-quarter-profits-revenue-increase)
-- [How does Gaza’s health ministry calculate casualty figures?](https://www.theguardian.com/world/2023/oct/27/how-does-gazas-health-ministry-calculate-casualty-figures)
+- [World Series Game 1: Arizona Diamondbacks v Texas Rangers – live](https://www.theguardian.com/sport/live/2023/oct/27/world-series-game-1-arizona-diamondbacks-v-texas-rangers-live)
+- [Gaza in communications blackout as Israel intensifies siege](https://www.theguardian.com/world/2023/oct/27/gaza-internet-cutoff-israel-siege-casualties)
+- [Israel-Hamas war live: Gaza phone and internet cut off as Israel intensifies attacks](https://www.theguardian.com/world/live/2023/oct/27/israel-hamas-war-live-us-strikes-iran-linked-targets-in-syria-eu-calls-for-humanitarian-pauses-in-gaza)
+- [Maine shootings: gunman suspected of killing 18 people found dead](https://www.theguardian.com/us-news/2023/oct/27/maine-shooting-suspect-lewiston-police)
+- [Russia-Ukraine war at a glance: what we know on day 612](https://www.theguardian.com/world/2023/oct/28/russia-ukraine-war-at-a-glance-what-we-know-on-day-612)
+- [Sam Bankman-Fried admits to ‘large mistakes’ in crypto fraud trial testimony](https://www.theguardian.com/business/2023/oct/27/sam-bankman-fried-testimony-ftx-cryptocurrency-trial)
+- [Hunt on for book containing Wilkie Collins’s criticism of friend Dickens](https://www.theguardian.com/books/2023/oct/28/hunt-on-for-book-containing-wilkie-collinss-criticism-of-friend-dickens)
+- [Victorian neo-Nazis under police investigation over alleged salute for TV cameras](https://www.theguardian.com/australia-news/2023/oct/28/heil-hitler-victorian-neo-nazis-under-police-investigation-over-alleged-salute-for-tv-cameras)
+- [Israel intensifies Gaza assault and severs communications across territory](https://www.theguardian.com/world/2023/oct/27/israel-intensifies-gaza-assault-and-severs-communications-across-territory)
+- [Digested week: Rebecca Loos can hold her peace no longer](https://www.theguardian.com/uk-news/2023/oct/27/digested-week-rebecca-loos-can-hold-her-peace-no-longer)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

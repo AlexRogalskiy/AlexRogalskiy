@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [World Series Game 1: Arizona Diamondbacks v Texas Rangers – live](https://www.theguardian.com/sport/live/2023/oct/27/world-series-game-1-arizona-diamondbacks-v-texas-rangers-live)
-- [Gaza in communications blackout as Israel intensifies siege](https://www.theguardian.com/world/2023/oct/27/gaza-internet-cutoff-israel-siege-casualties)
-- [Israel-Hamas war live: Gaza phone and internet cut off as Israel intensifies attacks](https://www.theguardian.com/world/live/2023/oct/27/israel-hamas-war-live-us-strikes-iran-linked-targets-in-syria-eu-calls-for-humanitarian-pauses-in-gaza)
-- [Maine shootings: gunman suspected of killing 18 people found dead](https://www.theguardian.com/us-news/2023/oct/27/maine-shooting-suspect-lewiston-police)
-- [Russia-Ukraine war at a glance: what we know on day 612](https://www.theguardian.com/world/2023/oct/28/russia-ukraine-war-at-a-glance-what-we-know-on-day-612)
-- [Sam Bankman-Fried admits to ‘large mistakes’ in crypto fraud trial testimony](https://www.theguardian.com/business/2023/oct/27/sam-bankman-fried-testimony-ftx-cryptocurrency-trial)
-- [Hunt on for book containing Wilkie Collins’s criticism of friend Dickens](https://www.theguardian.com/books/2023/oct/28/hunt-on-for-book-containing-wilkie-collinss-criticism-of-friend-dickens)
-- [Victorian neo-Nazis under police investigation over alleged salute for TV cameras](https://www.theguardian.com/australia-news/2023/oct/28/heil-hitler-victorian-neo-nazis-under-police-investigation-over-alleged-salute-for-tv-cameras)
-- [Israel intensifies Gaza assault and severs communications across territory](https://www.theguardian.com/world/2023/oct/27/israel-intensifies-gaza-assault-and-severs-communications-across-territory)
-- [Digested week: Rebecca Loos can hold her peace no longer](https://www.theguardian.com/uk-news/2023/oct/27/digested-week-rebecca-loos-can-hold-her-peace-no-longer)
+- [World Series Game 2: Arizona Diamondbacks v Texas Rangers – live](https://www.theguardian.com/sport/live/2023/oct/28/world-series-game-2-arizona-diamondbacks-v-texas-rangers-live)
+- [Israel-Hamas war live: Israeli PM Netanyahu speaks in Tel Aviv, signals ‘second stage of war’ against Hamas, pledges to ‘abolish this evil’](https://www.theguardian.com/world/live/2023/oct/28/israel-hamas-war-live-gaza-phone-and-internet-cut-off-as-israel-intensifies-bombardment)
+- [Russia-Ukraine war at a glance: what we know on day 613](https://www.theguardian.com/world/2023/oct/29/russia-ukraine-war-at-a-glance-what-we-know-on-day-613)
+- [Matthew Perry, actor best known for Friends, dies at 54 – reports](https://www.theguardian.com/tv-and-radio/2023/oct/29/matthew-perry-death-friends-actor)
+- [Tyson Fury floored by Francis Ngannou but wins controversial split decision](https://www.theguardian.com/sport/2023/oct/29/tyson-fury-floored-by-francis-ngannou-but-wins-by-controversial-split-decision)
+- [Tyson Fury beats Francis Ngannou by split decision after knockdown – as it happened](https://www.theguardian.com/sport/live/2023/oct/28/tyson-fury-v-francis-ngannou-boxing-match-live)
+- [Siya Kolisi inspires South Africa to keep finding point of difference | Jonathan Liew](https://www.theguardian.com/sport/blog/2023/oct/29/south-africa-prove-to-be-masters-of-finding-point-of-difference)
+- [UK police urged to double use of facial recognition software](https://www.theguardian.com/technology/2023/oct/29/uk-police-urged-to-double-use-of-facial-recognition-software)
+- [New Zealand waited until they had nothing to lose before starting to play | Andy Bull](https://www.theguardian.com/sport/blog/2023/oct/28/new-zealand-waited-until-they-had-nothing-to-lose-before-starting-to-play)
+- [Sam Cane admits Rugby World Cup final red card will live with him ‘for ever’](https://www.theguardian.com/sport/2023/oct/28/sam-cane-admits-rugby-world-cup-final-red-card-will-live-with-him-for-ever)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

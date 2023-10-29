@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [15 Years of Android Memories](https://blog.google/products/android/android-15th-anniversary-googler-highlights/)
-- [Staring at a Wall: Embracing Deliberate Boredom](https://www.ch3ngl0rd.com/staring-at-a-wall/)
-- [The Creator of Rails on Internet&#39;s Hidden Price: Our Private Data [video]](https://www.youtube.com/watch?v=NtefErvvpPI)
-- [Nematode revived after 46,000 years in Siberian permafrost](https://en.wikipedia.org/wiki/Nematode)
-- [AI Gravity](https://nextword.substack.com/p/ai-gravity-or-llm-gravity)
-- [Wise is deactivating Business cards in the US on Oct. 31st](https://wise.com/help/articles/1Rygn0gaetjmjGcOvyjRZm/were-temporarily-deactivating-wise-business-cards-in-the-us)
-- [Show HN: 2D Visualization of Math Equations](https://particlo.org/TriMath.html)
-- [X celebrates 60% savings from cloud exit](https://world.hey.com/dhh/x-celebrates-60-savings-from-cloud-exit-7cc26895?ref=dailydev)
-- [Frontier Risk and Preparedness &lpar;OpenAI&rpar;](https://openai.com/blog/frontier-risk-and-preparedness)
-- [Yup, that was an earthquake outside SF](https://earthquake.usgs.gov/earthquakes/eventpage/nc73952475/executive)
+- [What the KIM-1 needs is an LCD screen](http://oldvcr.blogspot.com/2023/10/what-kim-1-really-needs-is-lcd-screen.html)
+- [697 College Physics Demonstrations](https://demonstrations.wolfram.com/topic.html?topic=College%20Physics)
+- [Automerge: Build local-first software &lpar;CRDTs&rpar;](https://automerge.org/)
+- [What is retrieval-augmented generation &lpar;RAG&rpar;](https://research.ibm.com/blog/retrieval-augmented-generation-RAG)
+- [Elon Musk to turn Twitter into a finance platform within a year](https://nypost.com/2023/10/27/business/elon-musk-gives-x-employees-a-year-to-turn-app-into-finance-platform/)
+- [Show HN: A better way to view Azure resource logs](https://azure-logs.netlify.app/)
+- [Promised~ Payments](https://news.ycombinator.com/item?id=38055200)
+- [Russian Physicist Sentenced to 12 Years for Treason](https://www.themoscowtimes.com/2023/10/27/russian-physicist-sentenced-to-12-years-for-treason-a82919)
+- [Managing AI Risks in an Era of Rapid Progress](https://managing-ai-risks.com/)
+- [Spider Population Is In Decline](https://www.theatlantic.com/science/archive/2023/10/spider-population-decline/675830/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Yup, that was an earthquake outside SF](https://earthquake.usgs.gov/earthquakes/eventpage/nc73952475/executive)
-- [When Gradient Descent Is a Kernel Method](https://cgad.ski/blog/when-gradient-descent-is-a-kernel-method.html)
-- [Kotlin Coroutines vs. Threads Performance Benchmark](https://www.techyourchance.com/kotlin-coroutines-vs-threads-performance-benchmark/)
-- [Bacteria enhances host insect&#39;s fertility with implications for disease control](https://news.ucsc.edu/2023/10/russell-plos-23.html)
-- [Google can turn ANC earbuds into a heart rate monitor with no extra hardware](https://9to5google.com/2023/10/27/google-anc-earbuds-heart-rate/)
-- [Scientists simulate backward time travel using quantum entanglement](https://thedebrief.org/scientists-successfully-simulate-backward-time-travel-with-a-25-chance-of-actually-changing-the-past/)
-- [Project Bluefin Linux](https://projectbluefin.io/)
-- [Can the language of proof assistants be used for general purpose programming?](https://proofassistants.stackexchange.com/questions/1093/can-the-language-of-proof-assistants-be-used-for-general-purpose-programming)
-- [Large Balloon Reflector: a potentially game-changing antenna design](https://www.nasa.gov/directorates/stmd/nasa-tech-breathes-life-into-potentially-game-changing-antenna-design/)
-- [SDRangel: Explore the electromagnetic spectrum with open source SDR software](https://github.com/f4exb/sdrangel)
+- [Friend&#39;s Chandler, Matthew Perry, died at 54](https://www.latimes.com/california/story/2023-10-28/freinds-star-matthew-perry-dead-at-56)
+- [LAPD YouTube Channel Suspended for Posting Violent Content](https://ktla.com/news/local-news/lapd-youtube-channel-suspended-for-posting-violent-content/)
+- [How to fix the disastrous new Xcode 15 console](https://lapcatsoftware.com/articles/2023/10/5.html)
+- [Star64 JH7110 RISC-V SBC: Experiments with OpenSBI &lpar;Supervisor Binary Interface&rpar;](https://lupyuen.codeberg.page/articles/sbi.html)
+- [Arduino Builds a Bridge to the Raspberry Pi Ecosystem with Its New Portenta H](https://www.hackster.io/news/arduino-builds-a-bridge-to-the-raspberry-pi-ecosystem-with-its-new-portenta-hat-carrier-board-c992bd7928cd)
+- [Actual is going open-source &lpar;2022&rpar;](https://actualbudget.com/open-source)
+- [Electroreduction of nitrogen with almost 100% current-to-ammonia efficiency](https://www.nature.com/articles/s41586-022-05108-y)
+- [Skio &lpar;YC S20&rpar; is hiring – Subscriptions for Shopify, recharge migrations](https://skio.com/careers/)
+- [Shoes maketh man](https://www.wits.ac.za/news/latest-news/research-news/2023/2023-10/shoes-maketh-man.html)
+- [Is the Intel N100 a better option than high-end ARM RK3588 boards at the moment?](https://bret.dk/intel-n100-a-challenge-to-arm/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

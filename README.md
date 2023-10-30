@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [What the KIM-1 needs is an LCD screen](http://oldvcr.blogspot.com/2023/10/what-kim-1-really-needs-is-lcd-screen.html)
-- [697 College Physics Demonstrations](https://demonstrations.wolfram.com/topic.html?topic=College%20Physics)
-- [Automerge: Build local-first software &lpar;CRDTs&rpar;](https://automerge.org/)
-- [What is retrieval-augmented generation &lpar;RAG&rpar;](https://research.ibm.com/blog/retrieval-augmented-generation-RAG)
-- [Elon Musk to turn Twitter into a finance platform within a year](https://nypost.com/2023/10/27/business/elon-musk-gives-x-employees-a-year-to-turn-app-into-finance-platform/)
-- [Show HN: A better way to view Azure resource logs](https://azure-logs.netlify.app/)
-- [Promised~ Payments](https://news.ycombinator.com/item?id=38055200)
-- [Russian Physicist Sentenced to 12 Years for Treason](https://www.themoscowtimes.com/2023/10/27/russian-physicist-sentenced-to-12-years-for-treason-a82919)
-- [Managing AI Risks in an Era of Rapid Progress](https://managing-ai-risks.com/)
-- [Spider Population Is In Decline](https://www.theatlantic.com/science/archive/2023/10/spider-population-decline/675830/)
+- [Client-side database access without client-side secrets](https://blog.cloudflare.com/xata-customer-story/)
+- [The Feedback Wizard](https://feedbackwizard.steamclock.com/)
+- [Poltergeist Anti Pattern](https://en.wikipedia.org/wiki/Poltergeist_(computer_programming))
+- [Show HN: Controllino-Can – Can Adaptor for Controllino-PLC](https://github.com/HarveyBates/controllino-can)
+- [Australian language with free word order provides unexpected insights](https://www.scientificamerican.com/article/grammar-changes-how-we-see-an-australian-language-shows/)
+- [Cultural Appropriation](https://en.wikipedia.org/wiki/Cultural_appropriation)
+- [Show HN: Easily create montages with no vendor lock in](https://digitapes.app/)
+- [Step-by-Step Wizard Controllers for Rails](https://github.com/zombocom/wicked)
+- [Web FM synthesizer made with HTML5](https://www.taktech.org/takm/WebFMSynth/)
+- [Apple Picked the Unlikeliest Voice to Sell the iPhone](https://www.wsj.com/tech/personal-tech/apple-iphone-15-titanium-commercial-yat-kha-d9cd2db3)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

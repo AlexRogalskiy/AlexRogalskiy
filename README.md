@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [World Series Game 2: Arizona Diamondbacks v Texas Rangers – live](https://www.theguardian.com/sport/live/2023/oct/28/world-series-game-2-arizona-diamondbacks-v-texas-rangers-live)
-- [Israel-Hamas war live: Israeli PM Netanyahu speaks in Tel Aviv, signals ‘second stage of war’ against Hamas, pledges to ‘abolish this evil’](https://www.theguardian.com/world/live/2023/oct/28/israel-hamas-war-live-gaza-phone-and-internet-cut-off-as-israel-intensifies-bombardment)
-- [Russia-Ukraine war at a glance: what we know on day 613](https://www.theguardian.com/world/2023/oct/29/russia-ukraine-war-at-a-glance-what-we-know-on-day-613)
-- [Matthew Perry, actor best known for Friends, dies at 54 – reports](https://www.theguardian.com/tv-and-radio/2023/oct/29/matthew-perry-death-friends-actor)
-- [Tyson Fury floored by Francis Ngannou but wins controversial split decision](https://www.theguardian.com/sport/2023/oct/29/tyson-fury-floored-by-francis-ngannou-but-wins-by-controversial-split-decision)
-- [Tyson Fury beats Francis Ngannou by split decision after knockdown – as it happened](https://www.theguardian.com/sport/live/2023/oct/28/tyson-fury-v-francis-ngannou-boxing-match-live)
-- [Siya Kolisi inspires South Africa to keep finding point of difference | Jonathan Liew](https://www.theguardian.com/sport/blog/2023/oct/29/south-africa-prove-to-be-masters-of-finding-point-of-difference)
-- [UK police urged to double use of facial recognition software](https://www.theguardian.com/technology/2023/oct/29/uk-police-urged-to-double-use-of-facial-recognition-software)
-- [New Zealand waited until they had nothing to lose before starting to play | Andy Bull](https://www.theguardian.com/sport/blog/2023/oct/28/new-zealand-waited-until-they-had-nothing-to-lose-before-starting-to-play)
-- [Sam Cane admits Rugby World Cup final red card will live with him ‘for ever’](https://www.theguardian.com/sport/2023/oct/28/sam-cane-admits-rugby-world-cup-final-red-card-will-live-with-him-for-ever)
+- [Israel-Hamas war live: Israeli forces strike targets in Syria and Lebanon; 33 aid trucks enter Gaza](https://www.theguardian.com/world/live/2023/oct/29/israel-hamas-war-live-netanyahu-declares-offensives-second-stage-gaza-internet-coming-back-online)
+- [Why the rusting wreck of a second world war ship is so important to China](https://www.theguardian.com/world/2023/oct/30/sierra-madre-phillippines-ship-china-blockade)
+- [Bangladesh: key opposition figure jailed after rally turns violent](https://www.theguardian.com/world/2023/oct/30/bangladesh-key-opposition-figure-jailed-after-rally-turns-violent)
+- [Interest rate rises caused sharp drop in UK household wealth, report finds](https://www.theguardian.com/business/2023/oct/30/interest-rate-rises-caused-sharp-drop-in-uk-household-wealth-report-finds)
+- [The Inquiry review – drama about a Whitehall cover-up hints at deeper stories left untold](https://www.theguardian.com/stage/2023/oct/30/the-inquiry-review-minerva-theatre-chichester-harry-davies)
+- [UK public services in ‘doom loop’ due to short-term policies, thinktank warns](https://www.theguardian.com/society/2023/oct/30/uk-public-services-policy-institute-for-government-report)
+- [House prices fell in 80% of UK markets this year, says Zoopla](https://www.theguardian.com/business/2023/oct/30/house-prices-fell-in-most-uk-markets-this-year-says-zoopla)
+- [Mob storms Dagestan airport in search of Jewish passengers from Israel](https://www.theguardian.com/world/2023/oct/29/mob-storms-dagestan-airport-in-search-of-jewish-passengers-from-israel)
+- [Hamas and Israel at war: what we know on day 24](https://www.theguardian.com/world/2023/oct/30/hamas-and-israel-at-war-what-we-know-on-day-24)
+- [Rugby World Cup final referee Wayne Barnes got death threats, wife says](https://www.theguardian.com/sport/2023/oct/29/rugby-world-cup-final-referee-wayne-barnes-got-death-threats-wife-says)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

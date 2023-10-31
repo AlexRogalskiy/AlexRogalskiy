@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Client-side database access without client-side secrets](https://blog.cloudflare.com/xata-customer-story/)
-- [The Feedback Wizard](https://feedbackwizard.steamclock.com/)
-- [Poltergeist Anti Pattern](https://en.wikipedia.org/wiki/Poltergeist_(computer_programming))
-- [Show HN: Controllino-Can – Can Adaptor for Controllino-PLC](https://github.com/HarveyBates/controllino-can)
-- [Australian language with free word order provides unexpected insights](https://www.scientificamerican.com/article/grammar-changes-how-we-see-an-australian-language-shows/)
-- [Cultural Appropriation](https://en.wikipedia.org/wiki/Cultural_appropriation)
-- [Show HN: Easily create montages with no vendor lock in](https://digitapes.app/)
-- [Step-by-Step Wizard Controllers for Rails](https://github.com/zombocom/wicked)
-- [Web FM synthesizer made with HTML5](https://www.taktech.org/takm/WebFMSynth/)
-- [Apple Picked the Unlikeliest Voice to Sell the iPhone](https://www.wsj.com/tech/personal-tech/apple-iphone-15-titanium-commercial-yat-kha-d9cd2db3)
+- [Microsoft Fixes Excel Feature That Forced Scientists to Rename Human Genes](https://gizmodo.com/microsoft-fixes-excel-feature-that-forced-scientists-to-1850949443)
+- [Show HN: Slack with Empathy Chrome Extension](https://chrome.google.com/webstore/detail/slack-with-empathy/lfenbndaegjkimfbfedaomeommggjfge)
+- [Swift, Meet WinRT](https://speakinginswift.substack.com/p/swift-meet-winrt)
+- [Texas Bets Big on Undersea Carbon Storage](https://hakaimagazine.com/features/texas-bets-big-on-undersea-carbon-storage/)
+- [Apple&#39;s &#39;Scary Fast&#39; Event Brings the M3 to Life – 512 Pixels](https://512pixels.net/2023/10/scary-fast-reactions/)
+- [Duo lingo founder | How to Make Learning as Addictive as Social Media [video]](https://www.youtube.com/watch?v=P6FORpg0KVo)
+- [Photos from Acapulco in the Aftermath of Hurricane Otis](https://www.theatlantic.com/photo/2023/10/photos-acapulco-aftermath-hurricane-otis/675835/)
+- [US SEC sues SolarWinds for concealing cyber risks before hacking](https://www.reuters.com/legal/us-sues-solarwinds-court-records-2023-10-30/)
+- [As Singapore&#39;s aging population grows, businesses are courting older consumers](https://www.cnbc.com/2023/10/30/as-singapores-aging-population-grows-businesses-court-older-spenders.html)
+- [Show HN: An AI Therapist to improve your mental health](https://therapise.me)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

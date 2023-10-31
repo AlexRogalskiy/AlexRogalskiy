@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Israel-Hamas war live: Israeli forces strike targets in Syria and Lebanon; 33 aid trucks enter Gaza](https://www.theguardian.com/world/live/2023/oct/29/israel-hamas-war-live-netanyahu-declares-offensives-second-stage-gaza-internet-coming-back-online)
-- [Why the rusting wreck of a second world war ship is so important to China](https://www.theguardian.com/world/2023/oct/30/sierra-madre-phillippines-ship-china-blockade)
-- [Bangladesh: key opposition figure jailed after rally turns violent](https://www.theguardian.com/world/2023/oct/30/bangladesh-key-opposition-figure-jailed-after-rally-turns-violent)
-- [Interest rate rises caused sharp drop in UK household wealth, report finds](https://www.theguardian.com/business/2023/oct/30/interest-rate-rises-caused-sharp-drop-in-uk-household-wealth-report-finds)
-- [The Inquiry review – drama about a Whitehall cover-up hints at deeper stories left untold](https://www.theguardian.com/stage/2023/oct/30/the-inquiry-review-minerva-theatre-chichester-harry-davies)
-- [UK public services in ‘doom loop’ due to short-term policies, thinktank warns](https://www.theguardian.com/society/2023/oct/30/uk-public-services-policy-institute-for-government-report)
-- [House prices fell in 80% of UK markets this year, says Zoopla](https://www.theguardian.com/business/2023/oct/30/house-prices-fell-in-most-uk-markets-this-year-says-zoopla)
-- [Mob storms Dagestan airport in search of Jewish passengers from Israel](https://www.theguardian.com/world/2023/oct/29/mob-storms-dagestan-airport-in-search-of-jewish-passengers-from-israel)
-- [Hamas and Israel at war: what we know on day 24](https://www.theguardian.com/world/2023/oct/30/hamas-and-israel-at-war-what-we-know-on-day-24)
-- [Rugby World Cup final referee Wayne Barnes got death threats, wife says](https://www.theguardian.com/sport/2023/oct/29/rugby-world-cup-final-referee-wayne-barnes-got-death-threats-wife-says)
+- [Israel-Hamas war live: women and children make up nearly 70% of people reported killed in Gaza, says UN](https://www.theguardian.com/world/live/2023/oct/30/israel-hamas-war-live-updates-aid-trucks-enter-gaza-strikes-casualties-israel-targets-hit-syria-lebanon)
+- [‘This is all nonsense!’: Robert De Niro testifies against workplace abuse claims](https://www.theguardian.com/us-news/2023/oct/30/robert-de-niro-former-assistant-lawsuit)
+- [Russia-Ukraine war at a glance: what we know on day 615](https://www.theguardian.com/world/2023/oct/31/russia-ukraine-war-at-a-glance-what-we-know-on-day-615)
+- [US House Republicans plan to give Israel $14.3bn by cutting IRS funds](https://www.theguardian.com/us-news/2023/oct/30/us-house-republicans-israel-irs-funding-cut)
+- [Swedish authorities battle to stabilise stricken ferry leaking oil into Baltic Sea](https://www.theguardian.com/world/2023/oct/31/swedish-authorities-battle-to-stabilise-stricken-ferry-leaking-oil-into-baltic-sea)
+- [Ulez expansion: 45% fewer ‘dirty’ vehicles now on London’s roads, says TfL](https://www.theguardian.com/environment/2023/oct/31/ulez-expansion-london-roads-tfl-sadiq-khan)
+- [FCA acts against PayPal and QVC as more Britons turn to buy now, pay later](https://www.theguardian.com/money/2023/oct/31/fca-paypal-qvc-buy-now-pay-later)
+- [Distressing images and videos can take a toll on our mental health. How can we stay informed without being traumatised? | Diane Young](https://www.theguardian.com/commentisfree/2023/oct/31/distressing-images-and-videos-can-take-a-toll-on-our-mental-health-how-can-we-stay-informed-without-being-traumatised)
+- [Man kills himself instead of carrying out US amusement park shooting, police say](https://www.theguardian.com/us-news/2023/oct/30/colorado-amusement-park-armed-man-dead)
+- [Murder charge over woman’s death in luxury hotel room at Crown Towers in Perth](https://www.theguardian.com/australia-news/2023/oct/31/charge-over-womans-death-in-luxury-hotel-room-at-crown-towers-in-perth)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Web FM synthesizer made with HTML5](https://www.taktech.org/takm/WebFMSynth/)
-- [Spy satellites reveal undiscovered Roman forts](https://phys.org/news/2023-10-spy-satellites-reveal-hundreds-undiscovered.html)
-- [How deep is the brain? The shallow brain hypothesis](https://www.nature.com/articles/s41583-023-00756-z)
-- [π in Other Universes](https://azeemba.com/posts/pi-in-other-universes.html)
-- [Casio fx-CG50 calculator comes with Python built-in](https://www.casio.com/intl/scientific-calculators/product.FX-CG50/)
-- [Alan Wake 2 is an unexpected visual marvel even on older GPUs](https://www.xfire.com/alan-wake-2-performing-well-low-end-pcs/)
-- [DIY IP-KVM Based on Raspberry Pi](https://github.com/pikvm/pikvm)
-- [Migrating our backend from Vercel to Fly.io](https://www.openstatus.dev/blog/migration-backend-from-vercel-to-fly)
-- [Apple&#39;s Blue Ocean](https://hypercritical.co/2023/10/29/apples-blue-ocean)
-- [Kubernetes releases ingress2gateway tool for upcoming GA of Gateway API](https://kubernetes.io/blog/2023/10/25/introducing-ingress2gateway/)
+- [Apple supercharges 24‑inch iMac with new M3 chip](https://www.apple.com/newsroom/2023/10/apple-supercharges-24-inch-imac-with-new-m3-chip/)
+- [Apple unveils M3, M3 Pro, and M3 Max, the most advanced chips for a PC](https://www.apple.com/newsroom/2023/10/apple-unveils-m3-m3-pro-and-m3-max-the-most-advanced-chips-for-a-personal-computer/)
+- [Android and RISC-V: What you need to know to be ready](https://opensource.googleblog.com/2023/10/android-and-risc-v-what-you-need-to-know.html)
+- [World&#39;s most popular painter sent his followers after me because of my review](https://news.artnet.com/opinion/devon-rodriguez-parasocial-aesthetics-2380960)
+- [RedPajama v2 Open Dataset with 30T Tokens for Training LLMs](https://together.ai/blog/redpajama-data-v2)
+- [Web Scraping: Data for Everyone](https://omarkama.li/blog/web-scraping-data-for-everyone)
+- [I Began with Sound](https://www.publicbooks.org/i-began-with-sound/)
+- [Ever-Enduring Dürer](https://newcriterion.com/blogs/dispatch/ever-enduring-durer)
+- [Judge pares down artists&#39; AI copyright lawsuit against Midjourney, Stability AI](https://www.reuters.com/legal/litigation/judge-pares-down-artists-ai-copyright-lawsuit-against-midjourney-stability-ai-2023-10-30/)
+- [The Grug Brained Developer &lpar;2022&rpar;](https://grugbrain.dev/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Microsoft Fixes Excel Feature That Forced Scientists to Rename Human Genes](https://gizmodo.com/microsoft-fixes-excel-feature-that-forced-scientists-to-1850949443)
-- [Show HN: Slack with Empathy Chrome Extension](https://chrome.google.com/webstore/detail/slack-with-empathy/lfenbndaegjkimfbfedaomeommggjfge)
-- [Swift, Meet WinRT](https://speakinginswift.substack.com/p/swift-meet-winrt)
-- [Texas Bets Big on Undersea Carbon Storage](https://hakaimagazine.com/features/texas-bets-big-on-undersea-carbon-storage/)
-- [Apple&#39;s &#39;Scary Fast&#39; Event Brings the M3 to Life – 512 Pixels](https://512pixels.net/2023/10/scary-fast-reactions/)
-- [Duo lingo founder | How to Make Learning as Addictive as Social Media [video]](https://www.youtube.com/watch?v=P6FORpg0KVo)
-- [Photos from Acapulco in the Aftermath of Hurricane Otis](https://www.theatlantic.com/photo/2023/10/photos-acapulco-aftermath-hurricane-otis/675835/)
-- [US SEC sues SolarWinds for concealing cyber risks before hacking](https://www.reuters.com/legal/us-sues-solarwinds-court-records-2023-10-30/)
-- [As Singapore&#39;s aging population grows, businesses are courting older consumers](https://www.cnbc.com/2023/10/30/as-singapores-aging-population-grows-businesses-court-older-spenders.html)
-- [Show HN: An AI Therapist to improve your mental health](https://therapise.me)
+- [MIT Researchers Discover That Deep Neural Nets Don&#39;t See the World the Way We Do](https://scitechdaily.com/mit-researchers-discover-that-deep-neural-networks-dont-see-the-world-the-way-we-do/)
+- [When Schumann Ruined His Fingers – and His Concert Career](https://www.wqxr.org/story/weird-classical-when-schumann-ruined-his-fingers-and-his-concert-career)
+- [3D-GPT: 3D Modeling via LLM](https://chuny1.github.io/3DGPT/3dgpt.html?ref=aiartweekly)
+- [ChatGPT will read instructions from a PDF and lie to you](https://old.reddit.com/r/OpenAI/comments/17l1qqa/chatgpt_will_read_instructions_from_a_pdfand_lie/)
+- [Get your own .ing top-level domain](https://get.ing/)
+- [Venus had Earth-like plate tectonics billions of years ago, study suggests](https://phys.org/news/2023-10-venus-earth-like-plate-tectonics-billions.html)
+- [Don&#39;t build a mine before you struck gold](https://flocrivello.com/dont-build-mine-before-struck-gold/)
+- [Woolly-rhino genome emerges from cave hyena&#39;s fossilized poo](https://www.nature.com/articles/d41586-023-03351-5)
+- [Arti 1.1.10 is released: Assembling the onions](https://blog.torproject.org/arti_1_1_10_released/)
+- [Foreshock illuminates nucleation of slow and fast laboratory earthquakes](https://www.nature.com/articles/s41467-023-39399-0)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

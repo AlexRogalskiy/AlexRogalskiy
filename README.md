@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Apple supercharges 24‑inch iMac with new M3 chip](https://www.apple.com/newsroom/2023/10/apple-supercharges-24-inch-imac-with-new-m3-chip/)
-- [Apple unveils M3, M3 Pro, and M3 Max, the most advanced chips for a PC](https://www.apple.com/newsroom/2023/10/apple-unveils-m3-m3-pro-and-m3-max-the-most-advanced-chips-for-a-personal-computer/)
-- [Android and RISC-V: What you need to know to be ready](https://opensource.googleblog.com/2023/10/android-and-risc-v-what-you-need-to-know.html)
-- [World&#39;s most popular painter sent his followers after me because of my review](https://news.artnet.com/opinion/devon-rodriguez-parasocial-aesthetics-2380960)
-- [RedPajama v2 Open Dataset with 30T Tokens for Training LLMs](https://together.ai/blog/redpajama-data-v2)
-- [Web Scraping: Data for Everyone](https://omarkama.li/blog/web-scraping-data-for-everyone)
-- [I Began with Sound](https://www.publicbooks.org/i-began-with-sound/)
-- [Ever-Enduring Dürer](https://newcriterion.com/blogs/dispatch/ever-enduring-durer)
-- [Judge pares down artists&#39; AI copyright lawsuit against Midjourney, Stability AI](https://www.reuters.com/legal/litigation/judge-pares-down-artists-ai-copyright-lawsuit-against-midjourney-stability-ai-2023-10-30/)
-- [The Grug Brained Developer &lpar;2022&rpar;](https://grugbrain.dev/)
+- [Louis Rossmann given three YouTube community guideline strikes](https://twitter.com/FUTO_Tech/status/1719468941582442871)
+- [Show HN: Halloween game to show off my new Terminal](https://joel.tools/halloween/)
+- [Norwegian ban on Meta behavioral advertising extended to entire EU](https://www.datatilsynet.no/aktuelt/aktuelle-nyheter-2023/datatilsynets-vedtak-mot-meta-utvides-til-eueos-og-gjores-permanent/)
+- [M51: A Feast for the Eyes](https://esawebb.org/images/potm2308a/)
+- [WeWork plans to file for bankruptcy as early as next week, source says](https://www.reuters.com/markets/deals/wework-plans-file-bankruptcy-early-next-week-wsj-2023-10-31/)
+- [A giant European telescope rises as U.S. rivals await rescue](https://www.science.org/content/article/giant-european-telescope-rises-u-s-rivals-await-rescue)
+- [Moonbase Alpha Travel Tube Details](https://catacombs.space1999.net/main/cguide/umtravel.html)
+- [ROScribe: An LLM-based robotic platform](https://discourse.ros.org/t/looking-inside-roscribe-and-the-idea-of-llm-based-robotic-platform/34298)
+- [A Grand Theft Auto III Re-Implementation](https://openrw.org/)
+- [The Ten Rules of Schema Growth](https://blog.datomic.com/2017/01/the-ten-rules-of-schema-growth.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

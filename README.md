@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Israel-Hamas war live: women and children make up nearly 70% of people reported killed in Gaza, says UN](https://www.theguardian.com/world/live/2023/oct/30/israel-hamas-war-live-updates-aid-trucks-enter-gaza-strikes-casualties-israel-targets-hit-syria-lebanon)
-- [‘This is all nonsense!’: Robert De Niro testifies against workplace abuse claims](https://www.theguardian.com/us-news/2023/oct/30/robert-de-niro-former-assistant-lawsuit)
-- [Russia-Ukraine war at a glance: what we know on day 615](https://www.theguardian.com/world/2023/oct/31/russia-ukraine-war-at-a-glance-what-we-know-on-day-615)
-- [US House Republicans plan to give Israel $14.3bn by cutting IRS funds](https://www.theguardian.com/us-news/2023/oct/30/us-house-republicans-israel-irs-funding-cut)
-- [Swedish authorities battle to stabilise stricken ferry leaking oil into Baltic Sea](https://www.theguardian.com/world/2023/oct/31/swedish-authorities-battle-to-stabilise-stricken-ferry-leaking-oil-into-baltic-sea)
-- [Ulez expansion: 45% fewer ‘dirty’ vehicles now on London’s roads, says TfL](https://www.theguardian.com/environment/2023/oct/31/ulez-expansion-london-roads-tfl-sadiq-khan)
-- [FCA acts against PayPal and QVC as more Britons turn to buy now, pay later](https://www.theguardian.com/money/2023/oct/31/fca-paypal-qvc-buy-now-pay-later)
-- [Distressing images and videos can take a toll on our mental health. How can we stay informed without being traumatised? | Diane Young](https://www.theguardian.com/commentisfree/2023/oct/31/distressing-images-and-videos-can-take-a-toll-on-our-mental-health-how-can-we-stay-informed-without-being-traumatised)
-- [Man kills himself instead of carrying out US amusement park shooting, police say](https://www.theguardian.com/us-news/2023/oct/30/colorado-amusement-park-armed-man-dead)
-- [Murder charge over woman’s death in luxury hotel room at Crown Towers in Perth](https://www.theguardian.com/australia-news/2023/oct/31/charge-over-womans-death-in-luxury-hotel-room-at-crown-towers-in-perth)
+- [World Series Game 4: Texas Rangers v Arizona Diamondbacks – live](https://www.theguardian.com/sport/live/2023/oct/31/world-series-game-4-texas-rangers-v-arizona-diamondbacks-live)
+- [Israel-Hamas war live: US and Israel ‘consider peacekeeping force in Gaza’; Israel says it carried out Jabalia airstrike](https://www.theguardian.com/world/live/2023/oct/31/israel-hamas-war-live-updates-latest-news-today-hamas-clashes-idf-gaza-aid-plan-failure)
+- [‘Shame on you!’ Robert De Niro shouts at former assistant in court over workplace abuse claims](https://www.theguardian.com/film/2023/nov/01/robert-de-niro-workplace-abuse-court-case-yells-former-assistant-graham-chase-robinson)
+- [Russia-Ukraine war at a glance: what we know on day 616](https://www.theguardian.com/world/2023/nov/01/russia-ukraine-war-at-a-glance-what-we-know-on-day-616)
+- [Hong Kong: over-the-top punishment for 2019 democracy protesters, report finds](https://www.theguardian.com/world/2023/nov/01/hong-kong-over-the-top-punishment-for-2019-democracy-protesters-report-finds)
+- [UK bill payers may have to cover £6bn cost of failed energy firms, warn MPs](https://www.theguardian.com/money/2023/nov/01/uk-bill-payers-may-have-to-cover-6bn-cost-of-failed-energy-firms-warn-mps)
+- [‘Sexual’ Temu online shopping adverts banned by UK authority](https://www.theguardian.com/business/2023/nov/01/sexual-temu-online-shopping-adverts-banned-by-uk-authority)
+- [Deaf scholar promoted to full professor in deaf studies in UK first](https://www.theguardian.com/education/2023/nov/01/deaf-scholar-promoted-to-full-professor-in-deaf-studies-in-uk-first)
+- [Immersive survey of Black British music to open V&amp;A East museum in 2025](https://www.theguardian.com/music/2023/nov/01/black-british-music-v-and-a-east-museum-in-2025)
+- [‘AI’ named most notable word of 2023 by Collins dictionary](https://www.theguardian.com/technology/2023/nov/01/ai-named-most-notable-word-of-2023-by-collins-dictionary)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

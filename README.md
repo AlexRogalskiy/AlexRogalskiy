@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [AI software market to quadruple to $251B by 2027](https://www.computerworld.com/article/3709453/ai-software-market-to-quadruple-to-251b-by-2027.html#tk.rss_all)
+- [Google antitrust trial: Pichai concedes that default search boosts market share](https://www.computerworld.com/article/3709452/google-antitrust-trial-pichai-concedes-that-default-search-boosts-market-share.html#tk.rss_all)
+- [Apple paints it black with its efficient, high-performance M3 range](https://www.computerworld.com/article/3709493/apple-paints-it-black-with-its-efficient-high-performance-m3-range.html#tk.rss_all)
+- [BrandPost: Aptos drives innovation at Bengaluru facility](https://www.computerworld.com/article/3709748/aptos-drives-innovation-at-bengaluru-facility.html#tk.rss_all)
+- [UK launches $143 million AI skills package, with new visa scheme](https://www.computerworld.com/article/3709496/uk-launches-143-million-ai-skills-package-with-new-visa-scheme.html#tk.rss_all)
+- [Jira Service Management gains AI-powered ITSM capabilities](https://www.computerworld.com/article/3709692/jira-service-management-gains-ai-powered-itsm-capabilities.html#tk.rss_all)
+- [Artists lose first copyright battle in the fight against AI-generated images](https://www.computerworld.com/article/3709691/artists-lose-first-copyright-battle-in-the-fight-against-ai-generated-images.html#tk.rss_all)
+- [What exactly will the UK government&#39;s global AI Safety Summit achieve?](https://www.computerworld.com/article/3709749/what-exactly-will-the-uk-governments-global-ai-safety-summit-achieve.html#tk.rss_all)
 - [UK government earmarks $122 million on AI for healthcare](https://www.computerworld.com/article/3709517/uk-government-earmarks-122-million-on-ai-for-healthcare.html#tk.rss_all)
 - [Biden lays down the law on AI](https://www.computerworld.com/article/3709451/biden-lays-down-the-law-on-ai.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
-- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
-- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
-- [What to expect from Apple’s Scary Fast event](https://www.computerworld.com/article/3709492/what-to-expect-from-apple-s-scary-fast-event.html#tk.rss_all)
-- [OpenAI readying team to prevent AI from starting a nuclear war](https://www.computerworld.com/article/3709689/openai-readying-team-to-prevent-ai-from-starting-a-nuclear-war.html#tk.rss_all)
-- [‘Data poisoning’ anti-AI theft tools emerge — but are they ethical?](https://www.computerworld.com/article/3709609/data-poisoning-anti-ai-theft-tools-emerge-but-are-they-ethical.html#tk.rss_all)
-- [Intel shows recovery in PCs but faces competition in AI, data centers](https://www.computerworld.com/article/3709688/intel-shows-recovery-in-pcs-but-faces-competition-in-ai-data-centers.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

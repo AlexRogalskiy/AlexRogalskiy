@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [MIT Researchers Discover That Deep Neural Nets Don&#39;t See the World the Way We Do](https://scitechdaily.com/mit-researchers-discover-that-deep-neural-networks-dont-see-the-world-the-way-we-do/)
-- [When Schumann Ruined His Fingers – and His Concert Career](https://www.wqxr.org/story/weird-classical-when-schumann-ruined-his-fingers-and-his-concert-career)
-- [3D-GPT: 3D Modeling via LLM](https://chuny1.github.io/3DGPT/3dgpt.html?ref=aiartweekly)
-- [ChatGPT will read instructions from a PDF and lie to you](https://old.reddit.com/r/OpenAI/comments/17l1qqa/chatgpt_will_read_instructions_from_a_pdfand_lie/)
-- [Get your own .ing top-level domain](https://get.ing/)
-- [Venus had Earth-like plate tectonics billions of years ago, study suggests](https://phys.org/news/2023-10-venus-earth-like-plate-tectonics-billions.html)
-- [Don&#39;t build a mine before you struck gold](https://flocrivello.com/dont-build-mine-before-struck-gold/)
-- [Woolly-rhino genome emerges from cave hyena&#39;s fossilized poo](https://www.nature.com/articles/d41586-023-03351-5)
-- [Arti 1.1.10 is released: Assembling the onions](https://blog.torproject.org/arti_1_1_10_released/)
-- [Foreshock illuminates nucleation of slow and fast laboratory earthquakes](https://www.nature.com/articles/s41467-023-39399-0)
+- [Why You Should Be Watching Soviet Cinema](https://www.currentaffairs.org/2023/10/why-you-should-be-watching-soviet-cinema/)
+- [WinterJS handles up to 100k reqs/sec](https://wasmer.io/posts/winterjs-vs-alternatives-is-blazing-fast)
+- [Who&#39;s Advertising in Email Newsletters?](https://www.indiehackers.com/post/whos-advertising-in-email-newsletters-0db427a51f)
+- [Winning Elections the Right Way [pdf]](https://www.idea.int/sites/default/files/2023-10/winning-elections-the-right-way-online-political-advertising-rules_1.pdf)
+- [Show HN: DoltgreSQL – Version-Controlled DB, Like Git and PostgreSQL had a baby](https://github.com/dolthub/doltgresql)
+- [UK launches £100M AI Life Sciences fund to treat incurable diseases](https://techfundingnews.com/uk-launches-100m-ai-life-sciences-fund-to-treat-incurable-diseases/)
+- [Enable Black in VS Code [causes ChatGPT to reply with selfies?]](https://chat.openai.com/share/ba0faec8-bd98-46ee-a010-fe871709bc5d)
+- [The potential challenges to starting a new tech org these days](https://news.ycombinator.com/item?id=38107903)
+- [How AI chatbots like ChatGPT or Bard work – visual explainer](https://www.theguardian.com/technology/ng-interactive/2023/nov/01/how-ai-chatbots-like-chatgpt-or-bard-work-visual-explainer)
+- [Chamberlain: A Message About Our Decision to Prevent Unauthorized Usage of MyQ](https://chamberlaingroup.com/press/a-message-about-our-decision-to-prevent-unauthorized-usage-of-myq)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

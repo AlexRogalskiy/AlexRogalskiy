@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Louis Rossmann given three YouTube community guideline strikes](https://twitter.com/FUTO_Tech/status/1719468941582442871)
-- [Show HN: Halloween game to show off my new Terminal](https://joel.tools/halloween/)
-- [Norwegian ban on Meta behavioral advertising extended to entire EU](https://www.datatilsynet.no/aktuelt/aktuelle-nyheter-2023/datatilsynets-vedtak-mot-meta-utvides-til-eueos-og-gjores-permanent/)
-- [M51: A Feast for the Eyes](https://esawebb.org/images/potm2308a/)
-- [WeWork plans to file for bankruptcy as early as next week, source says](https://www.reuters.com/markets/deals/wework-plans-file-bankruptcy-early-next-week-wsj-2023-10-31/)
-- [A giant European telescope rises as U.S. rivals await rescue](https://www.science.org/content/article/giant-european-telescope-rises-u-s-rivals-await-rescue)
-- [Moonbase Alpha Travel Tube Details](https://catacombs.space1999.net/main/cguide/umtravel.html)
-- [ROScribe: An LLM-based robotic platform](https://discourse.ros.org/t/looking-inside-roscribe-and-the-idea-of-llm-based-robotic-platform/34298)
-- [A Grand Theft Auto III Re-Implementation](https://openrw.org/)
-- [The Ten Rules of Schema Growth](https://blog.datomic.com/2017/01/the-ten-rules-of-schema-growth.html)
+- [Window-swap – open a new window somewhere in the world](https://www.window-swap.com/)
+- [Etleap &lpar;YC W13&rpar; Is Hiring a Software Engineer &lpar;London – OR – San Francisco&rpar;](https://etleap.com/careers/software-engineer/)
+- [As child care costs soar, more parents may have to exit the workforce](https://www.cbsnews.com/news/child-care-costs-us-families-exit-workforce/)
+- [High-level emulator for iPhone OS apps](https://github.com/hikari-no-yume/touchHLE)
+- [Moon-forming impactor as a source of Earth&#39;s basal mantle anomalies](https://www.nature.com/articles/s41586-023-06589-1)
+- [Lemming Suicide Myth: Disney Film Faked Bogus Behavior](https://www.adfg.alaska.gov/index.cfm?adfg=wildlifenews.view_article&articles_id=56)
+- [Mouse experiments reveal the brain-heart connections that cause fainting](https://www.nature.com/articles/d41586-023-03450-3)
+- [The business of extracting knowledge from academic publications](https://www.theseedsofscience.pub/p/the-business-of-extracting-knowledge)
+- [Despite spooky Consumer Reports&#39; testing, metals in chocolates aren&#39;t scary](https://arstechnica.com/health/2023/11/despite-spooky-consumer-reports-testing-metals-in-chocolates-arent-scary/)
+- [macOS Sonoma Broke Grep](https://developer.apple.com/forums/thread/738862)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [World Series Game 4: Texas Rangers v Arizona Diamondbacks – live](https://www.theguardian.com/sport/live/2023/oct/31/world-series-game-4-texas-rangers-v-arizona-diamondbacks-live)
-- [Israel-Hamas war live: US and Israel ‘consider peacekeeping force in Gaza’; Israel says it carried out Jabalia airstrike](https://www.theguardian.com/world/live/2023/oct/31/israel-hamas-war-live-updates-latest-news-today-hamas-clashes-idf-gaza-aid-plan-failure)
-- [‘Shame on you!’ Robert De Niro shouts at former assistant in court over workplace abuse claims](https://www.theguardian.com/film/2023/nov/01/robert-de-niro-workplace-abuse-court-case-yells-former-assistant-graham-chase-robinson)
-- [Russia-Ukraine war at a glance: what we know on day 616](https://www.theguardian.com/world/2023/nov/01/russia-ukraine-war-at-a-glance-what-we-know-on-day-616)
-- [Hong Kong: over-the-top punishment for 2019 democracy protesters, report finds](https://www.theguardian.com/world/2023/nov/01/hong-kong-over-the-top-punishment-for-2019-democracy-protesters-report-finds)
-- [UK bill payers may have to cover £6bn cost of failed energy firms, warn MPs](https://www.theguardian.com/money/2023/nov/01/uk-bill-payers-may-have-to-cover-6bn-cost-of-failed-energy-firms-warn-mps)
-- [‘Sexual’ Temu online shopping adverts banned by UK authority](https://www.theguardian.com/business/2023/nov/01/sexual-temu-online-shopping-adverts-banned-by-uk-authority)
-- [Deaf scholar promoted to full professor in deaf studies in UK first](https://www.theguardian.com/education/2023/nov/01/deaf-scholar-promoted-to-full-professor-in-deaf-studies-in-uk-first)
-- [Immersive survey of Black British music to open V&amp;A East museum in 2025](https://www.theguardian.com/music/2023/nov/01/black-british-music-v-and-a-east-museum-in-2025)
-- [‘AI’ named most notable word of 2023 by Collins dictionary](https://www.theguardian.com/technology/2023/nov/01/ai-named-most-notable-word-of-2023-by-collins-dictionary)
+- [Israel-Hamas war live: at least 195 killed in two days of strikes on Jabalia camp, says Hamas; Gaza tragedy ‘unprecedented’ - UN](https://www.theguardian.com/world/live/2023/nov/01/israel-hamas-war-live-updates-gaza-internet-access-cut-off-egypt-jabalia-strike)
+- [World Series Game 5: Texas Rangers v Arizona Diamondbacks – live](https://www.theguardian.com/sport/live/2023/nov/01/world-series-game-5-texas-rangers-v-arizona-diamondbacks-live)
+- [Ukraine reports most extensive Russian shelling of the year](https://www.theguardian.com/world/2023/nov/02/ukraine-reports-most-extensive-russian-shelling-of-the-year)
+- [Russia-Ukraine war at a glance: what we know on day 617](https://www.theguardian.com/world/2023/nov/02/russia-ukraine-war-at-a-glance-what-we-know-on-day-617)
+- [Storm Ciarán: ‘danger to life’ warnings issued for parts of England](https://www.theguardian.com/uk-news/2023/nov/01/storm-ciaran-danger-to-life-warnings-issued-for-parts-of-england)
+- [Labour says 630,000 will be hit by surge in mortgage costs before 2024 elections](https://www.theguardian.com/business/2023/nov/02/labour-says-630000-will-be-hit-by-surge-in-mortgage-costs-before-2024-elections)
+- [NHS prevents thousands of strokes with blood-thinning drug push](https://www.theguardian.com/society/2023/nov/02/nhs-prevents-thousands-strokes-blood-thinning-drug-push)
+- [The Time Traveller’s Wife review – eternal romance is a bumpy ride](https://www.theguardian.com/stage/2023/nov/01/the-time-travellers-wife-review-apollo-theatre-london-joss-stone-dave-stewart)
+- [Gaza needs a humanitarian pause. Then we need a vision of where we go from here](https://www.theguardian.com/commentisfree/2023/nov/01/gaza-humanitarian-pause-bernie-sanders)
+- [‘More to this place than barbed wire’: South Korea reimagines its DMZ as a path towards peace](https://www.theguardian.com/world/2023/nov/02/more-to-this-place-than-barbed-wire-south-korea-reimagines-its-dmz-as-a-path-towards-peace)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

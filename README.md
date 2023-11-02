@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Splunk cuts 7% of workforce ahead of Cisco acquisition](https://www.networkworld.com/article/3709848/splunk-cuts-7-of-workforce-ahead-of-cisco-acquisition.html#tk.rss_all)
+- [New Jamf CEO John Strosahl on Apple in the enterprise, Jamf&#39;s future](https://www.computerworld.com/article/3709611/new-jamf-ceo-john-strosahl-on-apple-in-the-enterprise-jamfs-future.html#tk.rss_all)
+- [Box taps Google Cloud&#39;s generative AI capabilities to extract metadata](https://www.computerworld.com/article/3709610/box-taps-google-clouds-generative-ai-capabilities-to-extract-metadata.html#tk.rss_all)
+- [The best apps to restore the classic Windows Start menu and taskbar](https://www.computerworld.com/article/3709530/restore-classic-windows-start-menu-taskbar.html#tk.rss_all)
+- [3 tough questions about Samsung&#39;s Android 14 accomplishment](https://www.computerworld.com/article/3709494/samsung-android-14.html#tk.rss_all)
+- [M365 Copilot, Microsoft’s generative AI tool, explained](https://www.computerworld.com/article/3700709/m365-copilot-microsofts-generative-ai-tool-explained.html#tk.rss_all)
 - [AI software market to quadruple to $251B by 2027](https://www.computerworld.com/article/3709453/ai-software-market-to-quadruple-to-251b-by-2027.html#tk.rss_all)
 - [Google antitrust trial: Pichai concedes that default search boosts market share](https://www.computerworld.com/article/3709452/google-antitrust-trial-pichai-concedes-that-default-search-boosts-market-share.html#tk.rss_all)
 - [Apple paints it black with its efficient, high-performance M3 range](https://www.computerworld.com/article/3709493/apple-paints-it-black-with-its-efficient-high-performance-m3-range.html#tk.rss_all)
 - [BrandPost: Aptos drives innovation at Bengaluru facility](https://www.computerworld.com/article/3709748/aptos-drives-innovation-at-bengaluru-facility.html#tk.rss_all)
-- [UK launches $143 million AI skills package, with new visa scheme](https://www.computerworld.com/article/3709496/uk-launches-143-million-ai-skills-package-with-new-visa-scheme.html#tk.rss_all)
-- [Jira Service Management gains AI-powered ITSM capabilities](https://www.computerworld.com/article/3709692/jira-service-management-gains-ai-powered-itsm-capabilities.html#tk.rss_all)
-- [Artists lose first copyright battle in the fight against AI-generated images](https://www.computerworld.com/article/3709691/artists-lose-first-copyright-battle-in-the-fight-against-ai-generated-images.html#tk.rss_all)
-- [What exactly will the UK government&#39;s global AI Safety Summit achieve?](https://www.computerworld.com/article/3709749/what-exactly-will-the-uk-governments-global-ai-safety-summit-achieve.html#tk.rss_all)
-- [UK government earmarks $122 million on AI for healthcare](https://www.computerworld.com/article/3709517/uk-government-earmarks-122-million-on-ai-for-healthcare.html#tk.rss_all)
-- [Biden lays down the law on AI](https://www.computerworld.com/article/3709451/biden-lays-down-the-law-on-ai.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

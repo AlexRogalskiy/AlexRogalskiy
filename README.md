@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Why You Should Be Watching Soviet Cinema](https://www.currentaffairs.org/2023/10/why-you-should-be-watching-soviet-cinema/)
-- [WinterJS handles up to 100k reqs/sec](https://wasmer.io/posts/winterjs-vs-alternatives-is-blazing-fast)
-- [Who&#39;s Advertising in Email Newsletters?](https://www.indiehackers.com/post/whos-advertising-in-email-newsletters-0db427a51f)
-- [Winning Elections the Right Way [pdf]](https://www.idea.int/sites/default/files/2023-10/winning-elections-the-right-way-online-political-advertising-rules_1.pdf)
-- [Show HN: DoltgreSQL – Version-Controlled DB, Like Git and PostgreSQL had a baby](https://github.com/dolthub/doltgresql)
-- [UK launches £100M AI Life Sciences fund to treat incurable diseases](https://techfundingnews.com/uk-launches-100m-ai-life-sciences-fund-to-treat-incurable-diseases/)
-- [Enable Black in VS Code [causes ChatGPT to reply with selfies?]](https://chat.openai.com/share/ba0faec8-bd98-46ee-a010-fe871709bc5d)
-- [The potential challenges to starting a new tech org these days](https://news.ycombinator.com/item?id=38107903)
-- [How AI chatbots like ChatGPT or Bard work – visual explainer](https://www.theguardian.com/technology/ng-interactive/2023/nov/01/how-ai-chatbots-like-chatgpt-or-bard-work-visual-explainer)
-- [Chamberlain: A Message About Our Decision to Prevent Unauthorized Usage of MyQ](https://chamberlaingroup.com/press/a-message-about-our-decision-to-prevent-unauthorized-usage-of-myq)
+- [The Question Concerning Technology and Other Essays](https://archive.org/details/214p-heidegger-the-question-concerning-technology-and-other-essays)
+- [Email.radio – Free Email Domain for Licensed Ham Radio Operators](https://email.radio/)
+- [21st Century Bard](https://nextbigideaclub.com/magazine/next-big-idea-clubs-january-2024-must-read-books/45939/)
+- [Scientists observe chimpanzees using human-like warfare tactic](https://www.reuters.com/science/scientists-observe-chimpanzees-using-human-like-warfare-tactic-2023-11-02/)
+- [Okta tells 5k of its staff that their data was accessed in third-party breach](https://www.theregister.com/2023/11/02/okta_staff_personal_data/)
+- [Hadoop to Cloud: Why and How to Decouple Storage-Compute in Big Data Platforms](https://juicefs.com/en/blog/solutions/hadoop-cloud-decouple-storage-compute-big-data)
+- [Watch Ruin, Bloomberg&#39;s Documentary on Sam Bankman-Fried and FTX&#39;s Collapse](https://www.youtube.com/watch?v=3QpdU9LS540)
+- [Killer robots and work-free lives – Sunak quizzes Musk on AI future](https://www.bbc.co.uk/news/uk-67302048)
+- [China&#39;s Male Leaders Signal to Women That Their Place Is in the Home](https://www.nytimes.com/2023/11/02/world/asia/china-communist-party-xi-women.html)
+- [Sam Bankman-Fried Has a Savior Complex–and Maybe You Should Too](https://web.archive.org/web/20221109025610/https://www.sequoiacap.com/article/sam-bankman-fried-spotlight/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

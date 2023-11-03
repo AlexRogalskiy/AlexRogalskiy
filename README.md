@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Israel-Hamas war live: at least 195 killed in two days of strikes on Jabalia camp, says Hamas; Gaza tragedy ‘unprecedented’ - UN](https://www.theguardian.com/world/live/2023/nov/01/israel-hamas-war-live-updates-gaza-internet-access-cut-off-egypt-jabalia-strike)
-- [World Series Game 5: Texas Rangers v Arizona Diamondbacks – live](https://www.theguardian.com/sport/live/2023/nov/01/world-series-game-5-texas-rangers-v-arizona-diamondbacks-live)
-- [Ukraine reports most extensive Russian shelling of the year](https://www.theguardian.com/world/2023/nov/02/ukraine-reports-most-extensive-russian-shelling-of-the-year)
-- [Russia-Ukraine war at a glance: what we know on day 617](https://www.theguardian.com/world/2023/nov/02/russia-ukraine-war-at-a-glance-what-we-know-on-day-617)
-- [Storm Ciarán: ‘danger to life’ warnings issued for parts of England](https://www.theguardian.com/uk-news/2023/nov/01/storm-ciaran-danger-to-life-warnings-issued-for-parts-of-england)
-- [Labour says 630,000 will be hit by surge in mortgage costs before 2024 elections](https://www.theguardian.com/business/2023/nov/02/labour-says-630000-will-be-hit-by-surge-in-mortgage-costs-before-2024-elections)
-- [NHS prevents thousands of strokes with blood-thinning drug push](https://www.theguardian.com/society/2023/nov/02/nhs-prevents-thousands-strokes-blood-thinning-drug-push)
-- [The Time Traveller’s Wife review – eternal romance is a bumpy ride](https://www.theguardian.com/stage/2023/nov/01/the-time-travellers-wife-review-apollo-theatre-london-joss-stone-dave-stewart)
-- [Gaza needs a humanitarian pause. Then we need a vision of where we go from here](https://www.theguardian.com/commentisfree/2023/nov/01/gaza-humanitarian-pause-bernie-sanders)
-- [‘More to this place than barbed wire’: South Korea reimagines its DMZ as a path towards peace](https://www.theguardian.com/world/2023/nov/02/more-to-this-place-than-barbed-wire-south-korea-reimagines-its-dmz-as-a-path-towards-peace)
+- [Israel-Hamas war live: Troops ‘completed the encirclement of Gaza City’, says IDF; WHO says ‘almost impossible’ to bring aid to Gaza](https://www.theguardian.com/world/live/2023/nov/02/israel-hamas-war-live-updates-gaza-jabalia-refugee-camp-strikes-today-latest-news)
+- [When Andrew Tate and the online manboys obsess over a ‘bodycount’, girls, you know what to do | Van Badham](https://www.theguardian.com/commentisfree/2023/nov/03/when-andrew-tate-and-the-online-manboys-obsess-over-a-bodycount-girls-you-know-what-to-do)
+- [Russia-Ukraine war at a glance: what we know on day 618](https://www.theguardian.com/world/2023/nov/03/russia-ukraine-war-at-a-glance-what-we-know-on-day-618)
+- [Suspected mushroom poisoning: Erin Patterson fronts court on murder charges over deaths in Victoria, Australia](https://www.theguardian.com/australia-news/2023/nov/03/mushroom-cook-erin-patterson-court-murder-charges-australia-suspected-poisoning-deaths-leongatha-victoria-ntwnfb)
+- [Sam Bankman-Fried found guilty of defrauding FTX customers out of billions](https://www.theguardian.com/business/2023/nov/02/sam-bankman-guilty-ftx-alameda)
+- [Martha’s rule must be available 24/7, England’s patient safety commissioner says](https://www.theguardian.com/politics/2023/nov/02/marthas-rule-must-be-available-247-englands-patient-safety-commissioner-says)
+- [Most British people hold positive view of immigration, survey reveals](https://www.theguardian.com/uk-news/2023/nov/03/most-british-people-hold-positive-view-of-immigration-survey-reveals)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2023/nov/03/premier-league-10-things-to-look-out-for-this-weekend)
+- [Remote Scottish community still cut off a month after 6,000-tonne landslip](https://www.theguardian.com/uk-news/2023/nov/02/businesses-fighting-for-survival-a-month-after-craignish-landslip)
+- [Lisa Marie Presley labelled Sofia Coppola’s Priscilla script ‘vengeful and contemptuous’ – reports](https://www.theguardian.com/film/2023/nov/03/lisa-marie-presley-sofia-coppola-priscilla-biopic-film-movie-script)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

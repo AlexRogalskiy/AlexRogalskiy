@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Window-swap – open a new window somewhere in the world](https://www.window-swap.com/)
-- [Etleap &lpar;YC W13&rpar; Is Hiring a Software Engineer &lpar;London – OR – San Francisco&rpar;](https://etleap.com/careers/software-engineer/)
-- [As child care costs soar, more parents may have to exit the workforce](https://www.cbsnews.com/news/child-care-costs-us-families-exit-workforce/)
-- [High-level emulator for iPhone OS apps](https://github.com/hikari-no-yume/touchHLE)
-- [Moon-forming impactor as a source of Earth&#39;s basal mantle anomalies](https://www.nature.com/articles/s41586-023-06589-1)
-- [Lemming Suicide Myth: Disney Film Faked Bogus Behavior](https://www.adfg.alaska.gov/index.cfm?adfg=wildlifenews.view_article&articles_id=56)
-- [Mouse experiments reveal the brain-heart connections that cause fainting](https://www.nature.com/articles/d41586-023-03450-3)
-- [The business of extracting knowledge from academic publications](https://www.theseedsofscience.pub/p/the-business-of-extracting-knowledge)
-- [Despite spooky Consumer Reports&#39; testing, metals in chocolates aren&#39;t scary](https://arstechnica.com/health/2023/11/despite-spooky-consumer-reports-testing-metals-in-chocolates-arent-scary/)
-- [macOS Sonoma Broke Grep](https://developer.apple.com/forums/thread/738862)
+- [Audacity 3.4](https://www.audacityteam.org/blog/audacity-3-4/)
+- [Sam Bankman-Fried Convicted](https://www.nytimes.com/live/2023/11/02/business/sam-bankman-fried-trial)
+- [Google Abandons Web Environment Integrity API](https://www.theregister.com/2023/11/02/google_abandons_web_environment_integrity/)
+- [Hyphens, minus, and dashes in Debian man pages](https://lwn.net/Articles/947941/)
+- [BillionToOne &lpar;YC S17&rpar; is hiring scientists and engineers to advance DNA testing](https://boards.greenhouse.io/billiontoone)
+- [In 1886, the US commissioned watercolor paintings of every known fruit &lpar;2019&rpar;](https://www.openculture.com/2019/06/the-us-government-commissioned-7500-watercolor-paintings.html)
+- [Course using F#: Write your own tiny programming system&lpar;s&rpar;](https://d3s.mff.cuni.cz/teaching/nprg077/)
+- [How big data carried graph theory into new dimensions](https://www.quantamagazine.org/how-big-data-carried-graph-theory-into-new-dimensions-20210819/)
+- [ML Experiments Management with Git](https://github.com/iterative/dvc)
+- [Write PHP Code Within Next.js Components](https://github.com/bufferhead-code/nextjs-use-php)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

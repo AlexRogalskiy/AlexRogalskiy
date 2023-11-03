@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
+- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
+- [What next for Apple Silicon on Macs?](https://www.computerworld.com/article/3709968/what-next-for-apple-silicon-on-macs.html#tk.rss_all)
+- [China, US, and EU agree to work together on AI safety](https://www.computerworld.com/article/3709852/china-us-and-eu-agree-to-work-together-on-ai-safety.html#tk.rss_all)
+- [Q&amp;A: Cisco CIO sees AI embedded in every product and process](https://www.computerworld.com/article/3709909/qa-cisco-cio-sees-ai-embedded-in-every-product-and-process.html#tk.rss_all)
 - [Splunk cuts 7% of workforce ahead of Cisco acquisition](https://www.networkworld.com/article/3709848/splunk-cuts-7-of-workforce-ahead-of-cisco-acquisition.html#tk.rss_all)
 - [New Jamf CEO John Strosahl on Apple in the enterprise, Jamf&#39;s future](https://www.computerworld.com/article/3709611/new-jamf-ceo-john-strosahl-on-apple-in-the-enterprise-jamfs-future.html#tk.rss_all)
 - [Box taps Google Cloud&#39;s generative AI capabilities to extract metadata](https://www.computerworld.com/article/3709610/box-taps-google-clouds-generative-ai-capabilities-to-extract-metadata.html#tk.rss_all)
 - [The best apps to restore the classic Windows Start menu and taskbar](https://www.computerworld.com/article/3709530/restore-classic-windows-start-menu-taskbar.html#tk.rss_all)
-- [3 tough questions about Samsung&#39;s Android 14 accomplishment](https://www.computerworld.com/article/3709494/samsung-android-14.html#tk.rss_all)
-- [M365 Copilot, Microsoft’s generative AI tool, explained](https://www.computerworld.com/article/3700709/m365-copilot-microsofts-generative-ai-tool-explained.html#tk.rss_all)
-- [AI software market to quadruple to $251B by 2027](https://www.computerworld.com/article/3709453/ai-software-market-to-quadruple-to-251b-by-2027.html#tk.rss_all)
-- [Google antitrust trial: Pichai concedes that default search boosts market share](https://www.computerworld.com/article/3709452/google-antitrust-trial-pichai-concedes-that-default-search-boosts-market-share.html#tk.rss_all)
-- [Apple paints it black with its efficient, high-performance M3 range](https://www.computerworld.com/article/3709493/apple-paints-it-black-with-its-efficient-high-performance-m3-range.html#tk.rss_all)
-- [BrandPost: Aptos drives innovation at Bengaluru facility](https://www.computerworld.com/article/3709748/aptos-drives-innovation-at-bengaluru-facility.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

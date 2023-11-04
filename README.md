@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Audacity 3.4](https://www.audacityteam.org/blog/audacity-3-4/)
-- [Sam Bankman-Fried Convicted](https://www.nytimes.com/live/2023/11/02/business/sam-bankman-fried-trial)
-- [Google Abandons Web Environment Integrity API](https://www.theregister.com/2023/11/02/google_abandons_web_environment_integrity/)
-- [Hyphens, minus, and dashes in Debian man pages](https://lwn.net/Articles/947941/)
-- [BillionToOne &lpar;YC S17&rpar; is hiring scientists and engineers to advance DNA testing](https://boards.greenhouse.io/billiontoone)
-- [In 1886, the US commissioned watercolor paintings of every known fruit &lpar;2019&rpar;](https://www.openculture.com/2019/06/the-us-government-commissioned-7500-watercolor-paintings.html)
-- [Course using F#: Write your own tiny programming system&lpar;s&rpar;](https://d3s.mff.cuni.cz/teaching/nprg077/)
-- [How big data carried graph theory into new dimensions](https://www.quantamagazine.org/how-big-data-carried-graph-theory-into-new-dimensions-20210819/)
-- [ML Experiments Management with Git](https://github.com/iterative/dvc)
-- [Write PHP Code Within Next.js Components](https://github.com/bufferhead-code/nextjs-use-php)
+- [Uranium Demand Hits Decade High as Nuclear Renaissance Gains Traction](https://oilprice.com/The-Environment/Global-Warming/Uranium-Demand-Hits-Decade-High-As-Nuclear-Renaissance-Gains-Traction.html)
+- [Portugal. The Man – Official Website Is a Google Sheets Document](https://www.portugaltheman.com/?frontpage=true)
+- [Apple claims to have three distinct web browsers in the EU complaint](https://twitter.com/OpenWebAdvocacy/status/1720238162310758466)
+- [BBS Still Exist](https://www.telnetbbsguide.com/)
+- [Bayer hit with $332M judgement in Roundup cancer trial](https://fortune.com/2023/11/03/bayer-332-million-judgement-trial-man-cancer-decades-monsanto-roundup-weedkiller/)
+- [Running Mod_Perl with Mojolicious in Docker](https://rawley.xyz/docker-mod-perl.html)
+- [The Sega Hitachi HiSaturn Navi Console](https://nfggames.com/games/hisaturn/)
+- [The Car Navigation System / 1981](https://global.honda/en/heritage/episodes/1981navigationsystem.html)
+- [Edison Bulb Night Mode](https://www.petemillspaugh.com/edison-bulb)
+- [Surround sound test files for every audio format](https://drive.google.com/drive/folders/1JxmeedtAtgmoafXv9rroiDOS2vEX7N4b)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

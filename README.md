@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Israel-Hamas war live: Troops ‘completed the encirclement of Gaza City’, says IDF; WHO says ‘almost impossible’ to bring aid to Gaza](https://www.theguardian.com/world/live/2023/nov/02/israel-hamas-war-live-updates-gaza-jabalia-refugee-camp-strikes-today-latest-news)
-- [When Andrew Tate and the online manboys obsess over a ‘bodycount’, girls, you know what to do | Van Badham](https://www.theguardian.com/commentisfree/2023/nov/03/when-andrew-tate-and-the-online-manboys-obsess-over-a-bodycount-girls-you-know-what-to-do)
-- [Russia-Ukraine war at a glance: what we know on day 618](https://www.theguardian.com/world/2023/nov/03/russia-ukraine-war-at-a-glance-what-we-know-on-day-618)
-- [Suspected mushroom poisoning: Erin Patterson fronts court on murder charges over deaths in Victoria, Australia](https://www.theguardian.com/australia-news/2023/nov/03/mushroom-cook-erin-patterson-court-murder-charges-australia-suspected-poisoning-deaths-leongatha-victoria-ntwnfb)
-- [Sam Bankman-Fried found guilty of defrauding FTX customers out of billions](https://www.theguardian.com/business/2023/nov/02/sam-bankman-guilty-ftx-alameda)
-- [Martha’s rule must be available 24/7, England’s patient safety commissioner says](https://www.theguardian.com/politics/2023/nov/02/marthas-rule-must-be-available-247-englands-patient-safety-commissioner-says)
-- [Most British people hold positive view of immigration, survey reveals](https://www.theguardian.com/uk-news/2023/nov/03/most-british-people-hold-positive-view-of-immigration-survey-reveals)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2023/nov/03/premier-league-10-things-to-look-out-for-this-weekend)
-- [Remote Scottish community still cut off a month after 6,000-tonne landslip](https://www.theguardian.com/uk-news/2023/nov/02/businesses-fighting-for-survival-a-month-after-craignish-landslip)
-- [Lisa Marie Presley labelled Sofia Coppola’s Priscilla script ‘vengeful and contemptuous’ – reports](https://www.theguardian.com/film/2023/nov/03/lisa-marie-presley-sofia-coppola-priscilla-biopic-film-movie-script)
+- [Matthew Perry buried in service attended by family and Friends costars](https://www.theguardian.com/tv-and-radio/2023/nov/03/matthew-perry-buried-service-friends-costars)
+- [Israel-Hamas war live: US working ‘extremely hard’ to get hostages out; UN says agency in Gaza ‘practically out of business’](https://www.theguardian.com/world/live/2023/nov/03/israel-hamas-war-live-updates-un-blinken-expected-call-for-pauses-fighting-allow-aid-gaza-tel-aviv-visit)
+- [Bumpy roads ahead: New Zealand’s incoming PM set to lead a three-headed, ‘anti-woke’ government](https://www.theguardian.com/world/2023/nov/04/bumpy-roads-ahead-new-zealands-incoming-pm-set-to-lead-a-three-headed-anti-woke-government)
+- [Breeders’ Cup 2023: Big Evs gives Appleby and Europeans perfect start](https://www.theguardian.com/sport/2023/nov/04/breeders-cup-2023-big-evs-gives-appleby-and-europeans-perfect-start)
+- [Scores killed by powerful earthquake in Nepal](https://www.theguardian.com/world/2023/nov/03/dozens-killed-and-injured-by-magnitude-64-earthquake-in-nepal)
+- [Dorries claims Tory cabal called the ‘movement’ brought down Johnson](https://www.theguardian.com/politics/2023/nov/03/nadine-dorries-claims-tory-cabal-called-the-movement-brought-down-boris-johnson)
+- [Five arrested at King’s Cross in London after pro-Palestinian sit-in banned](https://www.theguardian.com/world/2023/nov/03/two-arrested-at-kings-cross-london-after-pro-palestinian-sit-in-banned)
+- [Doctor banned for 12 months after sending racist email to Australia’s first Indigenous eye surgeon](https://www.theguardian.com/australia-news/2023/nov/04/doctor-banned-for-12-months-after-sending-racist-email-to-australias-first-indigenous-eye-surgeon)
+- [‘I think I was relieved’: life on the other side of mature age divorce](https://www.theguardian.com/lifeandstyle/2023/nov/04/i-think-i-was-relieved-life-on-the-other-side-of-mature-age-divorce)
+- [M&amp;S advert ‘puts two fingers up to spirit of Christmas’, says headteacher](https://www.theguardian.com/media/2023/nov/03/ms-advert-puts-two-fingers-up-to-spirit-of-christmas-says-headteacher)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

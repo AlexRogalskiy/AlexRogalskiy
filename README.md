@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Question Concerning Technology and Other Essays](https://archive.org/details/214p-heidegger-the-question-concerning-technology-and-other-essays)
-- [Email.radio – Free Email Domain for Licensed Ham Radio Operators](https://email.radio/)
-- [21st Century Bard](https://nextbigideaclub.com/magazine/next-big-idea-clubs-january-2024-must-read-books/45939/)
-- [Scientists observe chimpanzees using human-like warfare tactic](https://www.reuters.com/science/scientists-observe-chimpanzees-using-human-like-warfare-tactic-2023-11-02/)
-- [Okta tells 5k of its staff that their data was accessed in third-party breach](https://www.theregister.com/2023/11/02/okta_staff_personal_data/)
-- [Hadoop to Cloud: Why and How to Decouple Storage-Compute in Big Data Platforms](https://juicefs.com/en/blog/solutions/hadoop-cloud-decouple-storage-compute-big-data)
-- [Watch Ruin, Bloomberg&#39;s Documentary on Sam Bankman-Fried and FTX&#39;s Collapse](https://www.youtube.com/watch?v=3QpdU9LS540)
-- [Killer robots and work-free lives – Sunak quizzes Musk on AI future](https://www.bbc.co.uk/news/uk-67302048)
-- [China&#39;s Male Leaders Signal to Women That Their Place Is in the Home](https://www.nytimes.com/2023/11/02/world/asia/china-communist-party-xi-women.html)
-- [Sam Bankman-Fried Has a Savior Complex–and Maybe You Should Too](https://web.archive.org/web/20221109025610/https://www.sequoiacap.com/article/sam-bankman-fried-spotlight/)
+- [Panel Says That Innovative Sickle Cell Cure Is Safe Enough for Patients](https://www.nytimes.com/2023/10/31/health/sickle-cell-fda-cure-crispr.html)
+- [A blog post is a long and complex search query to find people](https://www.henrikkarlsson.xyz/p/search-query)
+- [AMD MicroBlaze V Processor: A Flexible and Efficient RISC-V Processor](https://www.xilinx.com/products/design-tools/microblaze-v.html)
+- [How the World Works &lpar;1993&rpar;](https://www.theatlantic.com/magazine/archive/1993/12/how-the-world-works/305854/)
+- [ChatGPT&#39;s &quot;Browse with Bing&quot; &lpar;allow|deny&rpar;lists](https://github.com/spdustin/ChatGPT-AutoExpert/blob/main/_system-prompts/_backend_browser_restrictions.md)
+- [Kubewarden v1.9.0 is now available](https://news.ycombinator.com/item?id=38137344)
+- [Rapid Orbital Transfer to Asteroid 4660 Nereus Using Solar Electric Propulsion](https://www.mdpi.com/2218-1997/9/11/459)
+- [Billionaire-Backed Tech Group Says It&#39;s Bought Land It Needs for Utopian City](https://www.bloomberg.com/news/articles/2023-11-03/billionaire-backed-silicon-valley-utopian-city-secures-all-the-land-it-needs)
+- [Mint, One of the First Budgeting Apps, Is Shutting Down](https://www.nytimes.com/2023/11/03/business/mint-app-closing-intuit.html)
+- [the Earth Is Warming, but Is CO2 the Cause?](https://www.wsj.com/articles/the-earth-is-warming-but-is-co2-the-cause-f44d2e6a)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Matthew Perry buried in service attended by family and Friends costars](https://www.theguardian.com/tv-and-radio/2023/nov/03/matthew-perry-buried-service-friends-costars)
-- [Israel-Hamas war live: US working ‘extremely hard’ to get hostages out; UN says agency in Gaza ‘practically out of business’](https://www.theguardian.com/world/live/2023/nov/03/israel-hamas-war-live-updates-un-blinken-expected-call-for-pauses-fighting-allow-aid-gaza-tel-aviv-visit)
-- [Bumpy roads ahead: New Zealand’s incoming PM set to lead a three-headed, ‘anti-woke’ government](https://www.theguardian.com/world/2023/nov/04/bumpy-roads-ahead-new-zealands-incoming-pm-set-to-lead-a-three-headed-anti-woke-government)
-- [Breeders’ Cup 2023: Big Evs gives Appleby and Europeans perfect start](https://www.theguardian.com/sport/2023/nov/04/breeders-cup-2023-big-evs-gives-appleby-and-europeans-perfect-start)
-- [Scores killed by powerful earthquake in Nepal](https://www.theguardian.com/world/2023/nov/03/dozens-killed-and-injured-by-magnitude-64-earthquake-in-nepal)
-- [Dorries claims Tory cabal called the ‘movement’ brought down Johnson](https://www.theguardian.com/politics/2023/nov/03/nadine-dorries-claims-tory-cabal-called-the-movement-brought-down-boris-johnson)
-- [Five arrested at King’s Cross in London after pro-Palestinian sit-in banned](https://www.theguardian.com/world/2023/nov/03/two-arrested-at-kings-cross-london-after-pro-palestinian-sit-in-banned)
-- [Doctor banned for 12 months after sending racist email to Australia’s first Indigenous eye surgeon](https://www.theguardian.com/australia-news/2023/nov/04/doctor-banned-for-12-months-after-sending-racist-email-to-australias-first-indigenous-eye-surgeon)
-- [‘I think I was relieved’: life on the other side of mature age divorce](https://www.theguardian.com/lifeandstyle/2023/nov/04/i-think-i-was-relieved-life-on-the-other-side-of-mature-age-divorce)
-- [M&amp;S advert ‘puts two fingers up to spirit of Christmas’, says headteacher](https://www.theguardian.com/media/2023/nov/03/ms-advert-puts-two-fingers-up-to-spirit-of-christmas-says-headteacher)
+- [Israel-Hamas war live: UN secretary general says ‘nowhere is safe’ in Gaza as Palestinian death toll tops 9,000](https://www.theguardian.com/world/live/2023/nov/04/israel-hamas-war-live-blinken-set-to-meet-with-middle-east-foreign-ministers-in-jordan-airstrike-on-gaza-ambulance-kills-15)
+- [Three dead in firefighting plane crash in outback Queensland](https://www.theguardian.com/australia-news/2023/nov/05/queensland-outback-plane-crash-kills-aerial-firefighters-near-cloncurry)
+- [The art of fashion: colourful abstract print dresses](https://www.theguardian.com/fashion/2023/nov/04/the-art-of-fashion-colourful-abstract-print-dresses)
+- [Russell Brand sexual assault claimant felt ‘used and abused’ on film set](https://www.theguardian.com/culture/2023/nov/04/russell-brand-sexual-assault-claimant-felt-used-and-abused-on-film-set)
+- [Ice hockey fans pay tributes to Nottingham Panthers’ Adam Johnson](https://www.theguardian.com/sport/2023/nov/04/ice-hockey-fans-pay-tributes-to-nottingham-panthers-adam-johnson)
+- [‘Hostage situation’ at Hamburg airport as gunman drives on to runway](https://www.theguardian.com/world/2023/nov/04/hostage-situation-at-hamburg-airport-as-armed-man-drives-on-to-runway)
+- [Italian ultra-endurance cyclist returns to Antarctica crossing where isolation is the enemy](https://www.theguardian.com/world/2023/nov/05/omar-di-felice-cycle-across-antarctica-second-attempt-interview-family-health)
+- [Labour promises rapid housing action after ‘years of Tory paper promises’](https://www.theguardian.com/society/2023/nov/04/labour-promises-rapid-housing-action-after-years-of-tory-paper-promises)
+- [Tory MPs blast ‘out of touch’ Sunak as he woos homeowners in king’s speech](https://www.theguardian.com/politics/2023/nov/04/tory-mps-blast-out-of-touch-sunak-as-he-woos-homeowners-in-kings-speech)
+- [‘Absolute disgrace’: Mikel Arteta slams VAR after Gordon winner for Newcastle](https://www.theguardian.com/football/2023/nov/04/mikel-arteta-labels-arsenals-defeat-by-newcastle-a-disgrace-after-var-furore)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

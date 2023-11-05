@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Panel Says That Innovative Sickle Cell Cure Is Safe Enough for Patients](https://www.nytimes.com/2023/10/31/health/sickle-cell-fda-cure-crispr.html)
-- [A blog post is a long and complex search query to find people](https://www.henrikkarlsson.xyz/p/search-query)
-- [AMD MicroBlaze V Processor: A Flexible and Efficient RISC-V Processor](https://www.xilinx.com/products/design-tools/microblaze-v.html)
-- [How the World Works &lpar;1993&rpar;](https://www.theatlantic.com/magazine/archive/1993/12/how-the-world-works/305854/)
-- [ChatGPT&#39;s &quot;Browse with Bing&quot; &lpar;allow|deny&rpar;lists](https://github.com/spdustin/ChatGPT-AutoExpert/blob/main/_system-prompts/_backend_browser_restrictions.md)
-- [Kubewarden v1.9.0 is now available](https://news.ycombinator.com/item?id=38137344)
-- [Rapid Orbital Transfer to Asteroid 4660 Nereus Using Solar Electric Propulsion](https://www.mdpi.com/2218-1997/9/11/459)
-- [Billionaire-Backed Tech Group Says It&#39;s Bought Land It Needs for Utopian City](https://www.bloomberg.com/news/articles/2023-11-03/billionaire-backed-silicon-valley-utopian-city-secures-all-the-land-it-needs)
-- [Mint, One of the First Budgeting Apps, Is Shutting Down](https://www.nytimes.com/2023/11/03/business/mint-app-closing-intuit.html)
-- [the Earth Is Warming, but Is CO2 the Cause?](https://www.wsj.com/articles/the-earth-is-warming-but-is-co2-the-cause-f44d2e6a)
+- [Shoggoth Systems](https://shoggoth.systems/)
+- [Catatumbo Lightning: a perpetual lightning that occurs in South America](https://en.wikipedia.org/wiki/Catatumbo_lightning)
+- [Revel Is Pulling Out of the Electric Moped Business in San Francisco](https://sfstandard.com/2023/11/04/revel-moped-rideshare-ending-san-francisco/)
+- [Tell HN: Make Something You Want](https://news.ycombinator.com/item?id=38147356)
+- [An open source cross-platform process management and supervision service](https://github.com/MelonCTech/Meproc)
+- [The CIA&#39;s Operation That Gave Them Access to State Secrets &lpar;2020&rpar;](https://www.npr.org/2020/03/05/812499752/uncovering-the-cias-audacious-operation-that-gave-them-access-to-state-secrets)
+- [Toyota to Offer High Performance Solid-State Batteries in 2020 &lpar;article in 2014&rpar;](https://www.autoevolution.com/news/toyota-to-offer-high-performance-solid-state-batteries-in-2020-90501.html)
+- [The city that never sleeps has begun to doze](https://www.cnn.com/2023/11/03/economy/hong-kong-nightlife-china-dst-intl-hnk/index.html)
+- [Lake Maracaibo](https://en.wikipedia.org/wiki/Lake_Maracaibo)
+- [SBF Is Headed to Prison but FTX Will Haunt the Crypto Community for Years](https://gizmodo.com/ftx-fbi-sam-bankman-fried-cryptocurrency-data-1850990825)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

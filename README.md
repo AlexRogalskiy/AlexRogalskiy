@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Israel-Hamas war live: UN secretary general says ‘nowhere is safe’ in Gaza as Palestinian death toll tops 9,000](https://www.theguardian.com/world/live/2023/nov/04/israel-hamas-war-live-blinken-set-to-meet-with-middle-east-foreign-ministers-in-jordan-airstrike-on-gaza-ambulance-kills-15)
-- [Three dead in firefighting plane crash in outback Queensland](https://www.theguardian.com/australia-news/2023/nov/05/queensland-outback-plane-crash-kills-aerial-firefighters-near-cloncurry)
-- [The art of fashion: colourful abstract print dresses](https://www.theguardian.com/fashion/2023/nov/04/the-art-of-fashion-colourful-abstract-print-dresses)
-- [Russell Brand sexual assault claimant felt ‘used and abused’ on film set](https://www.theguardian.com/culture/2023/nov/04/russell-brand-sexual-assault-claimant-felt-used-and-abused-on-film-set)
-- [Ice hockey fans pay tributes to Nottingham Panthers’ Adam Johnson](https://www.theguardian.com/sport/2023/nov/04/ice-hockey-fans-pay-tributes-to-nottingham-panthers-adam-johnson)
-- [‘Hostage situation’ at Hamburg airport as gunman drives on to runway](https://www.theguardian.com/world/2023/nov/04/hostage-situation-at-hamburg-airport-as-armed-man-drives-on-to-runway)
-- [Italian ultra-endurance cyclist returns to Antarctica crossing where isolation is the enemy](https://www.theguardian.com/world/2023/nov/05/omar-di-felice-cycle-across-antarctica-second-attempt-interview-family-health)
-- [Labour promises rapid housing action after ‘years of Tory paper promises’](https://www.theguardian.com/society/2023/nov/04/labour-promises-rapid-housing-action-after-years-of-tory-paper-promises)
-- [Tory MPs blast ‘out of touch’ Sunak as he woos homeowners in king’s speech](https://www.theguardian.com/politics/2023/nov/04/tory-mps-blast-out-of-touch-sunak-as-he-woos-homeowners-in-kings-speech)
-- [‘Absolute disgrace’: Mikel Arteta slams VAR after Gordon winner for Newcastle](https://www.theguardian.com/football/2023/nov/04/mikel-arteta-labels-arsenals-defeat-by-newcastle-a-disgrace-after-var-furore)
+- [Israel-Hamas war live: Israel launches major strikes on Gaza; Jordan says it airdropped medical supplies to Gaza hospital](https://www.theguardian.com/world/live/2023/nov/05/israel-hamas-war-live-dozens-killed-in-strike-on-gaza-refugee-camp-say-palestinians-protests-around-world-demand-ceasefire)
+- [Antisemitic acts have exploded in France since 7 October, interior minister says](https://www.theguardian.com/world/2023/nov/06/antisemitic-acts-have-exploded-in-france-since-7-october-interior-minister-says)
+- [Russia-Ukraine war at a glance: what we know on day 621](https://www.theguardian.com/world/2023/nov/06/russia-ukraine-war-at-a-glance-what-we-know-on-day-621)
+- [Israel and Hamas at war: what we know on day 31](https://www.theguardian.com/world/2023/nov/06/israel-and-hamas-at-war-what-we-know-on-day-31)
+- [Liverpool’s Luis Díaz begs for release of kidnapped father after scoring key goal](https://www.theguardian.com/football/2023/nov/06/liverpools-luis-diaz-begs-for-release-of-kidnapped-father-after-scoring-key-goal)
+- [How Chinese influencers use AI digital clones of themselves to pump out content](https://www.theguardian.com/world/2023/nov/06/chinese-influencers-using-ai-digital-clones-of-themselves-to-pump-out-content)
+- [Finger-prick test could help spot brain cancer recurrence sooner](https://www.theguardian.com/science/2023/nov/06/finger-prick-test-could-help-spot-brain-cancer-recurrence-sooner)
+- [Fashion’s efforts to go green cancelled out by shopaholics](https://www.theguardian.com/fashion/2023/nov/06/fashions-efforts-green-cancelled-shopaholics-wrap)
+- [Priory healthcare group charged with two criminal offences over death of a 23-year-old who absconded](https://www.theguardian.com/uk-news/2023/nov/06/priory-group-charged-with-criminal-offences-over-death-of-patient)
+- [Nutcracker review – a Christmas dream of love that goes with a swing](https://www.theguardian.com/stage/2023/nov/06/nutcracker-review-drew-mconie-southbank-centre-london)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Shoggoth Systems](https://shoggoth.systems/)
-- [Catatumbo Lightning: a perpetual lightning that occurs in South America](https://en.wikipedia.org/wiki/Catatumbo_lightning)
-- [Revel Is Pulling Out of the Electric Moped Business in San Francisco](https://sfstandard.com/2023/11/04/revel-moped-rideshare-ending-san-francisco/)
-- [Tell HN: Make Something You Want](https://news.ycombinator.com/item?id=38147356)
-- [An open source cross-platform process management and supervision service](https://github.com/MelonCTech/Meproc)
-- [The CIA&#39;s Operation That Gave Them Access to State Secrets &lpar;2020&rpar;](https://www.npr.org/2020/03/05/812499752/uncovering-the-cias-audacious-operation-that-gave-them-access-to-state-secrets)
-- [Toyota to Offer High Performance Solid-State Batteries in 2020 &lpar;article in 2014&rpar;](https://www.autoevolution.com/news/toyota-to-offer-high-performance-solid-state-batteries-in-2020-90501.html)
-- [The city that never sleeps has begun to doze](https://www.cnn.com/2023/11/03/economy/hong-kong-nightlife-china-dst-intl-hnk/index.html)
-- [Lake Maracaibo](https://en.wikipedia.org/wiki/Lake_Maracaibo)
-- [SBF Is Headed to Prison but FTX Will Haunt the Crypto Community for Years](https://gizmodo.com/ftx-fbi-sam-bankman-fried-cryptocurrency-data-1850990825)
+- [How to Start a Blog That Changes Your Life](https://www.nateliason.com/blog/start-a-blog)
+- [Depot.ai – Docker registry for public machine learning models](https://github.com/depot/depot.ai)
+- [Building TypeScript and DigitalOcean Functions](https://technicallyshane.com/2022/12/23/typescript-and-digitalocean-functions.html)
+- [Fairly sure I just made something better than React](https://github.com/sdegutis/immaculatalibrary.com/discussions/1)
+- [FrankenPHP: Modern App Server for PHP](https://github.com/dunglas/frankenphp)
+- [Turkey&#39;s Bayraktar TB3 Drone Has Taken Its First Flight](https://www.thedrive.com/the-war-zone/turkeys-bayraktar-tb3-drone-has-taken-its-first-flight)
+- [Andy and Bill&#39;s Law](https://en.wikipedia.org/wiki/Andy_and_Bill%27s_law)
+- [Pipx – Install and Run Python Applications in Isolated Environments](https://github.com/pypa/pipx)
+- [Hello World in Swift CLI](https://www.barik.net/posts/hello-world-swift/)
+- [Grafana Tempo 2.3 release](https://grafana.com/blog/2023/11/01/grafana-tempo-2.3-release-faster-trace-queries-traceql-upgrades/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

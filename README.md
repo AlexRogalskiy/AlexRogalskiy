@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Daylight saving time can seriously affect your health](https://apnews.com/article/daylight-saving-2023-fall-back-a3738d5c74301b8068825927c49fc6b4)
-- [Soda additive linked to thyroid toxicity may finally get banned by FDA](https://arstechnica.com/health/2023/11/50-years-later-fda-proposes-banning-a-food-additive-it-said-is-not-safe/)
-- [My experience taking Tesla to court about FSD](https://teslamotorsclub.com/tmc/threads/my-experience-taking-tesla-to-court-about-fsd.315086/)
-- [Tesla strike widens as Swedish union expands blockade](https://www.thelocal.se/20231103/tesla-strike-widens-as-swedish-union-expands-blockade)
-- [Disturbed Lands &lpar;National Park Service&rpar;](https://www.nps.gov/shen/learn/nature/disturbedlands.htm)
-- [Show HN: Gogosseract, a Go Lib for CGo-Free Tesseract OCR via Wazero](https://github.com/Danlock/gogosseract)
-- [SARS-CoV-2 Infection Affects Energy Stores in the Body, Causing Organ Failure](https://news.unchealthcare.org/2023/10/researchers-show-sars-cov-2-infection-affects-energy-stores-in-the-body-causing-organ-failure/)
-- [New Microsoft Exchange zero-days allow RCE, data theft attacks](https://www.bleepingcomputer.com/news/microsoft/new-microsoft-exchange-zero-days-allow-rce-data-theft-attacks/)
-- [How to Do a TypeScript Conversion: an opinionated take on gradual conversions](https://v5.chriskrycho.com/journal/how-to-do-a-typescript-conversion/)
-- [Interview with a Gladiatrix](https://antigonejournal.com/2023/10/modern-roman-gladiatrix/)
+- [Listen to HD radio with a $30 RTL SDR dongle](https://github.com/theori-io/nrsc5)
+- [Show HN: Jeeves – A Pythonic Alternative to GNU Make](https://jeeves.sh)
+- [18.S097 Applied Category Theory: Textbook &lpar;2019&rpar;](https://ocw.mit.edu/courses/18-s097-applied-category-theory-january-iap-2019/resources/18-s097iap19textbook/)
+- [Show HN: Ts-Chan – Go-Like Concurrency Primitives for TypeScript/JavaScript](https://github.com/joeycumines/ts-chan)
+- [Intel 80386, a Revolutionary CPU](https://www.xtof.info/intel80386.html)
+- [Solar energy storage breakthrough could make households self-sufficient](https://sifted.eu/articles/solar-energy-breakthrough-solid-hydrogen)
+- [Show HN: WireHub – easily create and share WireGuard networks](https://www.wirehub.org/)
+- [Beej&#39;s Quick Guide to GDB &lpar;2009&rpar;](https://beej.us/guide/bggdb/)
+- [Automata: &quot;Robots&quot; designed hundreds of years ago [video]](https://www.youtube.com/watch?v=6Nt7xLAfEPs)
+- [Intel vs. NEC: The Case of the V20&#39;s Microcode](https://thechipletter.substack.com/p/intel-vs-nec-the-case-of-the-v20s)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

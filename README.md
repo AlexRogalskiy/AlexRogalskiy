@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Israel-Hamas war live: Israel launches major strikes on Gaza; Jordan says it airdropped medical supplies to Gaza hospital](https://www.theguardian.com/world/live/2023/nov/05/israel-hamas-war-live-dozens-killed-in-strike-on-gaza-refugee-camp-say-palestinians-protests-around-world-demand-ceasefire)
-- [Antisemitic acts have exploded in France since 7 October, interior minister says](https://www.theguardian.com/world/2023/nov/06/antisemitic-acts-have-exploded-in-france-since-7-october-interior-minister-says)
-- [Russia-Ukraine war at a glance: what we know on day 621](https://www.theguardian.com/world/2023/nov/06/russia-ukraine-war-at-a-glance-what-we-know-on-day-621)
-- [Israel and Hamas at war: what we know on day 31](https://www.theguardian.com/world/2023/nov/06/israel-and-hamas-at-war-what-we-know-on-day-31)
-- [Liverpool’s Luis Díaz begs for release of kidnapped father after scoring key goal](https://www.theguardian.com/football/2023/nov/06/liverpools-luis-diaz-begs-for-release-of-kidnapped-father-after-scoring-key-goal)
-- [How Chinese influencers use AI digital clones of themselves to pump out content](https://www.theguardian.com/world/2023/nov/06/chinese-influencers-using-ai-digital-clones-of-themselves-to-pump-out-content)
-- [Finger-prick test could help spot brain cancer recurrence sooner](https://www.theguardian.com/science/2023/nov/06/finger-prick-test-could-help-spot-brain-cancer-recurrence-sooner)
-- [Fashion’s efforts to go green cancelled out by shopaholics](https://www.theguardian.com/fashion/2023/nov/06/fashions-efforts-green-cancelled-shopaholics-wrap)
-- [Priory healthcare group charged with two criminal offences over death of a 23-year-old who absconded](https://www.theguardian.com/uk-news/2023/nov/06/priory-group-charged-with-criminal-offences-over-death-of-patient)
-- [Nutcracker review – a Christmas dream of love that goes with a swing](https://www.theguardian.com/stage/2023/nov/06/nutcracker-review-drew-mconie-southbank-centre-london)
+- [Israel-Hamas war live: Israel may have ‘security responsibility’ for Gaza for indefinite period, says Netanyahu; Israel marks month since Hamas attacks](https://www.theguardian.com/world/live/2023/nov/06/israel-hamas-war-live-updates-jordan-airdrops-medical-supplies-gaza-blinken-turkey-push-contain-conflict)
+- [Israel and Hamas at war: what we know on day 32](https://www.theguardian.com/world/2023/nov/07/israel-and-hamas-at-war-what-we-know-on-day-32)
+- [John Oliver backs ‘weird, puking’ pūteketeke as he takes New Zealand’s bird of century poll global](https://www.theguardian.com/world/2023/nov/07/john-oliver-backs-weird-puking-puteketeke-as-he-takes-new-zealands-bird-of-century-poll-global)
+- [Hungary sacks museum chief for not enforcing under-18s ban at LGBT exhibition](https://www.theguardian.com/world/2023/nov/07/hungary-national-museum-director-fired-lgbt-homosexuality-laws)
+- [Adviser to Ukrainian military commander killed by booby-trapped gift](https://www.theguardian.com/world/2023/nov/06/aide-ukrainian-military-commander-killed-booby-trapped-gift)
+- [Royal Mail loses 360-year monopoly on delivering parcels from Post Office sites](https://www.theguardian.com/business/2023/nov/07/royal-mail-loses-360-year-monopoly-on-delivering-parcels-from-post-office-sites)
+- [Drug that can halve breast cancer risk offered to 289,000 women in England](https://www.theguardian.com/society/2023/nov/07/drug-that-can-halve-breast-cancer-risk-offered-to-289000-women-in-england)
+- [UK recession fears grow as shoppers cut spending ‘to save for Christmas’](https://www.theguardian.com/business/2023/nov/07/uk-recession-fears-grow-as-shoppers-cut-spending-to-save-for-christmas)
+- [Iga Swiatek back on top of world after WTA Finals demolition of Jessica Pegula](https://www.theguardian.com/sport/2023/nov/06/wta-finals-tennis-report-iga-swiatek-jessica-pegula)
+- [WeWork co-founder says anticipated bankruptcy filing ‘disappointing’](https://www.theguardian.com/business/2023/nov/06/wework-shares-suspended-bankruptcy)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [How to Start a Blog That Changes Your Life](https://www.nateliason.com/blog/start-a-blog)
-- [Depot.ai – Docker registry for public machine learning models](https://github.com/depot/depot.ai)
-- [Building TypeScript and DigitalOcean Functions](https://technicallyshane.com/2022/12/23/typescript-and-digitalocean-functions.html)
-- [Fairly sure I just made something better than React](https://github.com/sdegutis/immaculatalibrary.com/discussions/1)
-- [FrankenPHP: Modern App Server for PHP](https://github.com/dunglas/frankenphp)
-- [Turkey&#39;s Bayraktar TB3 Drone Has Taken Its First Flight](https://www.thedrive.com/the-war-zone/turkeys-bayraktar-tb3-drone-has-taken-its-first-flight)
-- [Andy and Bill&#39;s Law](https://en.wikipedia.org/wiki/Andy_and_Bill%27s_law)
-- [Pipx – Install and Run Python Applications in Isolated Environments](https://github.com/pypa/pipx)
-- [Hello World in Swift CLI](https://www.barik.net/posts/hello-world-swift/)
-- [Grafana Tempo 2.3 release](https://grafana.com/blog/2023/11/01/grafana-tempo-2.3-release-faster-trace-queries-traceql-upgrades/)
+- [Nvidia Grace Hopper GH200 and Grace Superchip Pictured and Incompatible](https://www.servethehome.com/nvidia-grace-hopper-gh200-and-grace-superchip-arm-pictured-and-incompatible/)
+- [WildChat offering free access to GPT-4 turbo for a limited time](https://twitter.com/wzhao_nlp/status/1721633578130296964)
+- [Pineapple is called &quot;ananas&quot; in almost every language that is not English](https://english.stackexchange.com/questions/134659/why-is-pineapple-in-english-but-ananas-in-all-other-languages)
+- [A History of Moquette](https://www.ltmuseum.co.uk/collections/stories/design/history-moquette)
+- [New alternative to health insurance thats 15x cheaper](https://clubcya.com)
+- [Apple MacBook Pro 14 &lpar;2023&rpar; review: entry-level enigma](https://www.theverge.com/23944344/apple-macbook-pro-14-2023-review-m3-specs-battery-ports)
+- [I want to control my Chrome book by talking](https://news.ycombinator.com/item?id=38168882)
+- [They are doing surgery by cellphone flashlight in Gaza](https://www.nytimes.com/live/2023/11/06/world/israel-hamas-war-gaza-news)
+- [QUIK is a method for quantizing LLM post-training weights to 4 bit precision](https://github.com/IST-DASLab/QUIK)
+- [Pwock Pwock – the loudest sport on TV goes mainstream](https://5dollar.substack.com/p/pwockpwockcom-the-loudest-sport-on)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

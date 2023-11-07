@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Apple eyes new battery tech for future devices](https://www.computerworld.com/article/3709853/apple-eyes-new-battery-tech-for-future-devices.html#tk.rss_all)
+- [Canon&#39;s alternative chip equipment likely subject to trade curbs to China](https://www.computerworld.com/article/3709931/canons-alternative-chip-equipment-likely-subject-to-trade-curbs-to-china.html#tk.rss_all)
+- [5 key benefits of optimizing employee tech tools](https://www.computerworld.com/article/3707790/optimizing-employee-tech-tools-benefits.html#tk.rss_all)
+- [How many jobs are available in technology in the US?](https://www.computerworld.com/article/3542681/how-many-jobs-are-available-in-technology.html#tk.rss_all)
+- [Elon Musk to take on ChatGPT with Grok AI](https://www.infoworld.com/article/3710088/elon-musk-to-take-on-chatgpt-with-grok-ai.html#tk.rss_all)
 - [Global AI Safety Summit shows need for collaborative approach to risks](https://www.computerworld.com/article/3710048/global-ai-safety-summit-shows-need-for-collaborative-approach-to-risks.html#tk.rss_all)
 - [Apple’s results: Uneasy is the head that wears the crown](https://www.computerworld.com/article/3709915/apples-results-uneasy-is-the-head-that-wears-the-crown.html#tk.rss_all)
 - [It’s time to take your genAI skills to the next level](https://www.computerworld.com/article/3709514/its-time-to-take-your-genai-skills-to-the-next-level.html#tk.rss_all)
 - [6 fantastic forgotten features in Google’s Chrome Android browser](https://www.computerworld.com/article/3709495/google-chrome-android-features.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
-- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
-- [What next for Apple Silicon on Macs?](https://www.computerworld.com/article/3709968/what-next-for-apple-silicon-on-macs.html#tk.rss_all)
-- [China, US, and EU agree to work together on AI safety](https://www.computerworld.com/article/3709852/china-us-and-eu-agree-to-work-together-on-ai-safety.html#tk.rss_all)
-- [Q&amp;A: Cisco CIO sees AI embedded in every product and process](https://www.computerworld.com/article/3709909/qa-cisco-cio-sees-ai-embedded-in-every-product-and-process.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

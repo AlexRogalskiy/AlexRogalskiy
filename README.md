@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Listen to HD radio with a $30 RTL SDR dongle](https://github.com/theori-io/nrsc5)
-- [Show HN: Jeeves – A Pythonic Alternative to GNU Make](https://jeeves.sh)
-- [18.S097 Applied Category Theory: Textbook &lpar;2019&rpar;](https://ocw.mit.edu/courses/18-s097-applied-category-theory-january-iap-2019/resources/18-s097iap19textbook/)
-- [Show HN: Ts-Chan – Go-Like Concurrency Primitives for TypeScript/JavaScript](https://github.com/joeycumines/ts-chan)
-- [Intel 80386, a Revolutionary CPU](https://www.xtof.info/intel80386.html)
-- [Solar energy storage breakthrough could make households self-sufficient](https://sifted.eu/articles/solar-energy-breakthrough-solid-hydrogen)
-- [Show HN: WireHub – easily create and share WireGuard networks](https://www.wirehub.org/)
-- [Beej&#39;s Quick Guide to GDB &lpar;2009&rpar;](https://beej.us/guide/bggdb/)
-- [Automata: &quot;Robots&quot; designed hundreds of years ago [video]](https://www.youtube.com/watch?v=6Nt7xLAfEPs)
-- [Intel vs. NEC: The Case of the V20&#39;s Microcode](https://thechipletter.substack.com/p/intel-vs-nec-the-case-of-the-v20s)
+- [Tesla drivers can now disable remote access in privacy win](https://cleanenergyrevolution.co/2023/11/06/tesla-drivers-can-now-disable-remote-access-in-privacy-win/)
+- [Apple&#39;s Trademark Exploit](https://blog.giovanh.com/blog/2023/10/26/apples-trademark-exploit/)
+- [Bluesky migrates to single-tenant SQLite](https://github.com/bluesky-social/atproto/pull/1705)
+- [Still no love for WPA3 on the Raspberry Pi 5](https://rachelbythebay.com/w/2023/11/06/wpa3/)
+- [Cruise Knew Its Self-Driving Cars Had Problems Recognizing Children](https://theintercept.com/2023/11/06/cruise-self-driving-cars-children/)
+- [U.S. net saving as a percentage of gross national income](https://fred.stlouisfed.org/series/W207RC1Q156SBEA)
+- [Online Order Has Been Delivered–and It&#39;s Teeny Tiny](https://www.wsj.com/business/retail/online-order-miniature-tiny-d9911da8)
+- [Bored Ape conference attendees wake up with eye pain, vision loss](https://www.404media.co/bored-ape-yacht-club-conference-eye-pain-vision-loss-yuga-labs/)
+- [DAK and the Golden Age of Gadget Catalogs](https://cabel.com/2023/11/06/dak-and-the-golden-age-of-gadget-catalogs/)
+- [QUIK is a method for quantizing LLM post-training weights to 4 bit precision](https://github.com/IST-DASLab/QUIK)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

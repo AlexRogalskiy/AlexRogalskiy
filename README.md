@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Nvidia Grace Hopper GH200 and Grace Superchip Pictured and Incompatible](https://www.servethehome.com/nvidia-grace-hopper-gh200-and-grace-superchip-arm-pictured-and-incompatible/)
-- [WildChat offering free access to GPT-4 turbo for a limited time](https://twitter.com/wzhao_nlp/status/1721633578130296964)
-- [Pineapple is called &quot;ananas&quot; in almost every language that is not English](https://english.stackexchange.com/questions/134659/why-is-pineapple-in-english-but-ananas-in-all-other-languages)
-- [A History of Moquette](https://www.ltmuseum.co.uk/collections/stories/design/history-moquette)
-- [New alternative to health insurance thats 15x cheaper](https://clubcya.com)
-- [Apple MacBook Pro 14 &lpar;2023&rpar; review: entry-level enigma](https://www.theverge.com/23944344/apple-macbook-pro-14-2023-review-m3-specs-battery-ports)
-- [I want to control my Chrome book by talking](https://news.ycombinator.com/item?id=38168882)
-- [They are doing surgery by cellphone flashlight in Gaza](https://www.nytimes.com/live/2023/11/06/world/israel-hamas-war-gaza-news)
-- [QUIK is a method for quantizing LLM post-training weights to 4 bit precision](https://github.com/IST-DASLab/QUIK)
-- [Pwock Pwock – the loudest sport on TV goes mainstream](https://5dollar.substack.com/p/pwockpwockcom-the-loudest-sport-on)
+- [Ask HN: What is your standard for judging when AGI exists?](https://news.ycombinator.com/item?id=38185925)
+- [Rainbow Net Wi-Fi protocol for connecting old consoles to the Internet](https://github.com/BrokeStudio/rainbow-net)
+- [Scathing Audit Paints Damning Picture of San Francisco Homeless Outreach Teams](https://sfstandard.com/2023/11/07/san-francisco-homelessness-damning-report/)
+- [GPS Spoofing on aircraft transiting Middle East – an update](https://ops.group/blog/gps-spoofing-update-08nov2023/)
+- [Big Tech to face tougher rules on targeted political ads in EU](https://www.reuters.com/technology/big-tech-face-tougher-rules-targeted-political-ads-eu-2023-11-07/)
+- [Facebook just started requiring EU users to choose: privacy or €9.99/month](https://news.ycombinator.com/item?id=38185837)
+- [Welcome to Captcha Hell](https://www.theatlantic.com/technology/archive/2023/11/captcha-test-security-robot-ai/675931/)
+- [Ridley Scott&#39;s &quot;Napoleon&quot; Complex](https://www.newyorker.com/magazine/2023/11/13/ridley-scott-director-profile)
+- [The impact of a major telco outage &lpar;Optus, Australia&rpar;](https://www.abc.net.au/news/2023-11-08/optus-outage-live-blog/103076996)
+- [The Bathtub or Weibull Curve](http://livingstingy.blogspot.com/2010/08/bathtub-or-weibull-curve.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

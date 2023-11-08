@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Israel-Hamas war live: Israel may have ‘security responsibility’ for Gaza for indefinite period, says Netanyahu; Israel marks month since Hamas attacks](https://www.theguardian.com/world/live/2023/nov/06/israel-hamas-war-live-updates-jordan-airdrops-medical-supplies-gaza-blinken-turkey-push-contain-conflict)
-- [Israel and Hamas at war: what we know on day 32](https://www.theguardian.com/world/2023/nov/07/israel-and-hamas-at-war-what-we-know-on-day-32)
-- [John Oliver backs ‘weird, puking’ pūteketeke as he takes New Zealand’s bird of century poll global](https://www.theguardian.com/world/2023/nov/07/john-oliver-backs-weird-puking-puteketeke-as-he-takes-new-zealands-bird-of-century-poll-global)
-- [Hungary sacks museum chief for not enforcing under-18s ban at LGBT exhibition](https://www.theguardian.com/world/2023/nov/07/hungary-national-museum-director-fired-lgbt-homosexuality-laws)
-- [Adviser to Ukrainian military commander killed by booby-trapped gift](https://www.theguardian.com/world/2023/nov/06/aide-ukrainian-military-commander-killed-booby-trapped-gift)
-- [Royal Mail loses 360-year monopoly on delivering parcels from Post Office sites](https://www.theguardian.com/business/2023/nov/07/royal-mail-loses-360-year-monopoly-on-delivering-parcels-from-post-office-sites)
-- [Drug that can halve breast cancer risk offered to 289,000 women in England](https://www.theguardian.com/society/2023/nov/07/drug-that-can-halve-breast-cancer-risk-offered-to-289000-women-in-england)
-- [UK recession fears grow as shoppers cut spending ‘to save for Christmas’](https://www.theguardian.com/business/2023/nov/07/uk-recession-fears-grow-as-shoppers-cut-spending-to-save-for-christmas)
-- [Iga Swiatek back on top of world after WTA Finals demolition of Jessica Pegula](https://www.theguardian.com/sport/2023/nov/06/wta-finals-tennis-report-iga-swiatek-jessica-pegula)
-- [WeWork co-founder says anticipated bankruptcy filing ‘disappointing’](https://www.theguardian.com/business/2023/nov/06/wework-shares-suspended-bankruptcy)
+- [Israel-Hamas war live: Israeli forces target convoy carrying medical supplies in Gaza City, says Palestine Red Crescent Society](https://www.theguardian.com/world/live/2023/nov/07/israel-hamas-war-live-updates-gaza-security-responsibility-for-gaza-netanyahu-palestine)
+- [Imran Hussain: Labour frontbencher resigns in support of Gaza ceasefire](https://www.theguardian.com/politics/2023/nov/08/imran-hussain-labour-frontbencher-resigns-gaza-ceasefire)
+- [Extreme weather pushes global wine production to lowest level in more than 60 years](https://www.theguardian.com/food/2023/nov/08/extreme-weather-pushes-global-wine-production-to-lowest-level-in-more-than-60-years)
+- [China releases methane plan as hopes rise for new climate agreement with US](https://www.theguardian.com/world/2023/nov/08/china-methane-plan-climate-agreement-us)
+- [Israel-Hamas war: what we know on day 33](https://www.theguardian.com/world/2023/nov/08/israel-hamas-what-we-know-on-day-33)
+- [Hunt urged to invest £30bn a year in infrastructure or risk ‘decade in doldrums’](https://www.theguardian.com/business/2023/nov/08/hunt-urged-to-invest-30bn-a-year-in-infrastructure-or-risk-decade-in-doldrums)
+- [Claims and conspiracies, and pulling the trigger on Johnson: Dorries’ book tells all](https://www.theguardian.com/politics/2023/nov/08/claims-and-conspiracies-and-pulling-the-trigger-on-johnson-dorries-book-tells-all)
+- [AI Pictionary and a ‘robo-dog’ make UK shops’ hottest Christmas toy lists](https://www.theguardian.com/business/2023/nov/08/ai-pictionary-and-a-robo-dog-make-uk-shops-hottest-christmas-toy-lists)
+- [Singing by boys’ choir ‘sounds more brilliant’ when girls in audience](https://www.theguardian.com/science/2023/nov/08/singing-by-boys-choir-sounds-more-brilliant-when-girls-in-audience)
+- [UK housing market is past its ‘peak pain’, declares Savills](https://www.theguardian.com/money/2023/nov/08/uk-housing-market-is-past-its-peak-pain-declares-savills)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [OpenAI DevDay: 3 new tools to build LLM-powered apps](https://www.infoworld.com/article/3709933/openai-devday-3-new-tools-to-build-llm-powered-apps.html#tk.rss_all)
+- [Whiteboarding platform FigJam gets new AI-powered capabilities](https://www.computerworld.com/article/3709972/whiteboarding-platform-figjam-gets-new-ai-powered-capabilities.html#tk.rss_all)
+- [Has Apple&#39;s iPad lost its &#39;Post-PC&#39; promise?](https://www.computerworld.com/article/3710171/has-apples-ipad-lost-its-post-pc-promise.html#tk.rss_all)
+- [Microsoft to use Oracle’s OCI Supercluster for Bing conversational searches](https://www.infoworld.com/article/3710170/microsoft-to-use-oracle-s-oci-supercluster-for-bing-conversational-searches.html#tk.rss_all)
+- [Q&amp;A: ServiceNow CIO sees an &#39;iPhone moment&#39; for genAI](https://www.computerworld.com/article/3709969/qa-servicenow-cio-sees-an-iphone-moment-for-genai.html#tk.rss_all)
 - [Apple eyes new battery tech for future devices](https://www.computerworld.com/article/3709853/apple-eyes-new-battery-tech-for-future-devices.html#tk.rss_all)
 - [Canon&#39;s alternative chip equipment likely subject to trade curbs to China](https://www.computerworld.com/article/3709931/canons-alternative-chip-equipment-likely-subject-to-trade-curbs-to-china.html#tk.rss_all)
 - [5 key benefits of optimizing employee tech tools](https://www.computerworld.com/article/3707790/optimizing-employee-tech-tools-benefits.html#tk.rss_all)
 - [How many jobs are available in technology in the US?](https://www.computerworld.com/article/3542681/how-many-jobs-are-available-in-technology.html#tk.rss_all)
 - [Elon Musk to take on ChatGPT with Grok AI](https://www.infoworld.com/article/3710088/elon-musk-to-take-on-chatgpt-with-grok-ai.html#tk.rss_all)
-- [Global AI Safety Summit shows need for collaborative approach to risks](https://www.computerworld.com/article/3710048/global-ai-safety-summit-shows-need-for-collaborative-approach-to-risks.html#tk.rss_all)
-- [Apple’s results: Uneasy is the head that wears the crown](https://www.computerworld.com/article/3709915/apples-results-uneasy-is-the-head-that-wears-the-crown.html#tk.rss_all)
-- [It’s time to take your genAI skills to the next level](https://www.computerworld.com/article/3709514/its-time-to-take-your-genai-skills-to-the-next-level.html#tk.rss_all)
-- [6 fantastic forgotten features in Google’s Chrome Android browser](https://www.computerworld.com/article/3709495/google-chrome-android-features.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

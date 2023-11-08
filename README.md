@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Tesla drivers can now disable remote access in privacy win](https://cleanenergyrevolution.co/2023/11/06/tesla-drivers-can-now-disable-remote-access-in-privacy-win/)
-- [Apple&#39;s Trademark Exploit](https://blog.giovanh.com/blog/2023/10/26/apples-trademark-exploit/)
-- [Bluesky migrates to single-tenant SQLite](https://github.com/bluesky-social/atproto/pull/1705)
-- [Still no love for WPA3 on the Raspberry Pi 5](https://rachelbythebay.com/w/2023/11/06/wpa3/)
-- [Cruise Knew Its Self-Driving Cars Had Problems Recognizing Children](https://theintercept.com/2023/11/06/cruise-self-driving-cars-children/)
-- [U.S. net saving as a percentage of gross national income](https://fred.stlouisfed.org/series/W207RC1Q156SBEA)
-- [Online Order Has Been Delivered–and It&#39;s Teeny Tiny](https://www.wsj.com/business/retail/online-order-miniature-tiny-d9911da8)
-- [Bored Ape conference attendees wake up with eye pain, vision loss](https://www.404media.co/bored-ape-yacht-club-conference-eye-pain-vision-loss-yuga-labs/)
-- [DAK and the Golden Age of Gadget Catalogs](https://cabel.com/2023/11/06/dak-and-the-golden-age-of-gadget-catalogs/)
-- [QUIK is a method for quantizing LLM post-training weights to 4 bit precision](https://github.com/IST-DASLab/QUIK)
+- [Bing Chat is so hungry for GPUs, Microsoft will rent them from Oracle](https://www.theregister.com/2023/11/07/bing_gpu_oracle/)
+- [Water-injected 2.0-liter hydrogen engine makes 410 horsepower](https://www.motor1.com/news/692276/tiny-race-engine-gas-diesel-hydrogen/)
+- [ChipNeMo: Domain-Adapted LLMs for Chip Design](https://arxiv.org/abs/2311.00176)
+- [Nature retracts controversial superconductivity paper by embattled physicist](https://www.nature.com/articles/d41586-023-03398-4)
+- [Tumble Forth](http://tumbleforth.hardcoded.net/)
+- [WasmFX: Effect Handlers for WebAssembly](https://wasmfx.dev/)
+- [Development of a Live-Action Film of the Legend of Zelda to Start](https://www.nintendo.co.jp/corporate/release/en/2023/231108.html)
+- [Lawmakers push 702 reauthorization requiring warrant to access info on Americans](https://thehill.com/policy/national-security/4298234-section-702-fisa-reauthorization-warrant-americans/)
+- [Show HN: Roboco-op, a computational blackboard for efficient human/AI collab](https://observablehq.com/@tomlarkworthy/robocoop)
+- [Chopstick robot handle boxes with ease](https://spectrum.ieee.org/warehouse-robots)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

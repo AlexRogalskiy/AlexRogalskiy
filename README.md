@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Samsung jumps on the generative AI bandwagon with Gauss](https://www.computerworld.com/article/3710248/samsung-jumps-on-the-generative-ai-bandwagon-with-gauss.html#tk.rss_all)
+- [The regulators are coming for Apple Pay](https://www.computerworld.com/article/3710091/the-regulators-are-coming-for-apple-pay.html#tk.rss_all)
+- [Android&#39;s hidden clipboard-sharing superpower](https://www.computerworld.com/article/3709971/android-clipboard-sharing.html#tk.rss_all)
+- [Windows Hello for Business: Passwordless authentication for Windows shops](https://www.computerworld.com/article/3220967/windows-hello-for-business-passwordless-authentication-for-windows-shops.html#tk.rss_all)
 - [OpenAI DevDay: 3 new tools to build LLM-powered apps](https://www.infoworld.com/article/3709933/openai-devday-3-new-tools-to-build-llm-powered-apps.html#tk.rss_all)
 - [Whiteboarding platform FigJam gets new AI-powered capabilities](https://www.computerworld.com/article/3709972/whiteboarding-platform-figjam-gets-new-ai-powered-capabilities.html#tk.rss_all)
 - [Has Apple&#39;s iPad lost its &#39;Post-PC&#39; promise?](https://www.computerworld.com/article/3710171/has-apples-ipad-lost-its-post-pc-promise.html#tk.rss_all)
 - [Microsoft to use Oracle’s OCI Supercluster for Bing conversational searches](https://www.infoworld.com/article/3710170/microsoft-to-use-oracle-s-oci-supercluster-for-bing-conversational-searches.html#tk.rss_all)
 - [Q&amp;A: ServiceNow CIO sees an &#39;iPhone moment&#39; for genAI](https://www.computerworld.com/article/3709969/qa-servicenow-cio-sees-an-iphone-moment-for-genai.html#tk.rss_all)
 - [Apple eyes new battery tech for future devices](https://www.computerworld.com/article/3709853/apple-eyes-new-battery-tech-for-future-devices.html#tk.rss_all)
-- [Canon&#39;s alternative chip equipment likely subject to trade curbs to China](https://www.computerworld.com/article/3709931/canons-alternative-chip-equipment-likely-subject-to-trade-curbs-to-china.html#tk.rss_all)
-- [5 key benefits of optimizing employee tech tools](https://www.computerworld.com/article/3707790/optimizing-employee-tech-tools-benefits.html#tk.rss_all)
-- [How many jobs are available in technology in the US?](https://www.computerworld.com/article/3542681/how-many-jobs-are-available-in-technology.html#tk.rss_all)
-- [Elon Musk to take on ChatGPT with Grok AI](https://www.infoworld.com/article/3710088/elon-musk-to-take-on-chatgpt-with-grok-ai.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

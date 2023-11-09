@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Bing Chat is so hungry for GPUs, Microsoft will rent them from Oracle](https://www.theregister.com/2023/11/07/bing_gpu_oracle/)
-- [Water-injected 2.0-liter hydrogen engine makes 410 horsepower](https://www.motor1.com/news/692276/tiny-race-engine-gas-diesel-hydrogen/)
-- [ChipNeMo: Domain-Adapted LLMs for Chip Design](https://arxiv.org/abs/2311.00176)
-- [Nature retracts controversial superconductivity paper by embattled physicist](https://www.nature.com/articles/d41586-023-03398-4)
-- [Tumble Forth](http://tumbleforth.hardcoded.net/)
-- [WasmFX: Effect Handlers for WebAssembly](https://wasmfx.dev/)
-- [Development of a Live-Action Film of the Legend of Zelda to Start](https://www.nintendo.co.jp/corporate/release/en/2023/231108.html)
-- [Lawmakers push 702 reauthorization requiring warrant to access info on Americans](https://thehill.com/policy/national-security/4298234-section-702-fisa-reauthorization-warrant-americans/)
-- [Show HN: Roboco-op, a computational blackboard for efficient human/AI collab](https://observablehq.com/@tomlarkworthy/robocoop)
-- [Chopstick robot handle boxes with ease](https://spectrum.ieee.org/warehouse-robots)
+- [Zuckerberg personally rejected Meta&#39;s proposals to improve teen mental health](https://www.cnn.com/2023/11/08/tech/meta-facebook-instagram-teen-safety/index.html)
+- [Omegle founder shuts down site forever?](https://www.omegle.com/)
+- [First planned small nuclear reactor plant in the US has been canceled](https://arstechnica.com/science/2023/11/first-planned-small-nuclear-reactor-plant-in-the-us-has-been-canceled/)
+- [On-Crash Backtraces in Swift](https://www.swift.org/blog/swift-5.9-backtraces/)
+- [Sad clown paradox](https://en.wikipedia.org/wiki/Sad_clown_paradox)
+- [Signal Public Username Testing &lpar;Staging Environment&rpar;](https://community.signalusers.org/t/public-username-testing-staging-environment/56866)
+- [Punica: Serving multiple LoRA finetuned LLM as one](https://github.com/punica-ai/punica)
+- [Interesting Bugs Caught by ESLint&#39;s no-constant-binary-expression](https://eslint.org/blog/2022/07/interesting-bugs-caught-by-no-constant-binary-expression/)
+- [SciPy builds for Python 3.12 on Windows are a minor miracle](https://labs.quansight.org/blog/building-scipy-with-flang)
+- [We wrote the OpenAI Wanderlust app in pure Python using Solara](https://github.com/widgetti/wanderlust)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

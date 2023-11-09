@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ask HN: What is your standard for judging when AGI exists?](https://news.ycombinator.com/item?id=38185925)
-- [Rainbow Net Wi-Fi protocol for connecting old consoles to the Internet](https://github.com/BrokeStudio/rainbow-net)
-- [Scathing Audit Paints Damning Picture of San Francisco Homeless Outreach Teams](https://sfstandard.com/2023/11/07/san-francisco-homelessness-damning-report/)
-- [GPS Spoofing on aircraft transiting Middle East – an update](https://ops.group/blog/gps-spoofing-update-08nov2023/)
-- [Big Tech to face tougher rules on targeted political ads in EU](https://www.reuters.com/technology/big-tech-face-tougher-rules-targeted-political-ads-eu-2023-11-07/)
-- [Facebook just started requiring EU users to choose: privacy or €9.99/month](https://news.ycombinator.com/item?id=38185837)
-- [Welcome to Captcha Hell](https://www.theatlantic.com/technology/archive/2023/11/captcha-test-security-robot-ai/675931/)
-- [Ridley Scott&#39;s &quot;Napoleon&quot; Complex](https://www.newyorker.com/magazine/2023/11/13/ridley-scott-director-profile)
-- [The impact of a major telco outage &lpar;Optus, Australia&rpar;](https://www.abc.net.au/news/2023-11-08/optus-outage-live-blog/103076996)
-- [The Bathtub or Weibull Curve](http://livingstingy.blogspot.com/2010/08/bathtub-or-weibull-curve.html)
+- [Ask HN: Share an important life lesson that took you a long time to figure out](https://news.ycombinator.com/item?id=38200140)
+- [Genetics of head lice evolution mirrors human migration&amp;colonization in Americas](https://phys.org/news/2023-11-genetic-analysis-lice-evolution-mirrors.html)
+- [Maine Voters Reject Question 3 by Large Margin](https://spectrumlocalnews.com/me/maine/politics/2023/11/08/maine-voters-reject-question-3-by-large-margin)
+- [After a $1.8B verdict, the clock is ticking on the 6% realtor commission](https://www.cnn.com/2023/11/05/homes/nar-verdict-real-estate-commission-fee/index.html)
+- [Game review Zero Punctuation ends](https://www.forbes.com/sites/paultassi/2023/11/08/zero-punctuation-ends-as-the-escapist-faces-mass-resignations-after-eic-firing/)
+- [G-Code Explained and Explored[video]](https://www.youtube.com/watch?v=cJlre1lEdcQ)
+- [How Most Famous Book Was Made](https://themillions.com/2023/11/how-worlds-most-famous-book-was-made.html)
+- [3D Printing with Gcode &lpar;Bioprinting-2022&rpar;](https://www.allevi3d.com/guide-to-gcode/)
+- [Learning to write with the fluid rope trick](https://www.researchgate.net/publication/368473914_Learning_to_write_with_the_fluid_rope_trick)
+- [Does AI Pose an Existential Risk to Humanity? Two Sides Square Off](https://www.wsj.com/tech/ai/ai-risk-humanity-experts-thoughts-4b271757)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Israel-Hamas war live: Israeli forces target convoy carrying medical supplies in Gaza City, says Palestine Red Crescent Society](https://www.theguardian.com/world/live/2023/nov/07/israel-hamas-war-live-updates-gaza-security-responsibility-for-gaza-netanyahu-palestine)
-- [Imran Hussain: Labour frontbencher resigns in support of Gaza ceasefire](https://www.theguardian.com/politics/2023/nov/08/imran-hussain-labour-frontbencher-resigns-gaza-ceasefire)
-- [Extreme weather pushes global wine production to lowest level in more than 60 years](https://www.theguardian.com/food/2023/nov/08/extreme-weather-pushes-global-wine-production-to-lowest-level-in-more-than-60-years)
-- [China releases methane plan as hopes rise for new climate agreement with US](https://www.theguardian.com/world/2023/nov/08/china-methane-plan-climate-agreement-us)
-- [Israel-Hamas war: what we know on day 33](https://www.theguardian.com/world/2023/nov/08/israel-hamas-what-we-know-on-day-33)
-- [Hunt urged to invest £30bn a year in infrastructure or risk ‘decade in doldrums’](https://www.theguardian.com/business/2023/nov/08/hunt-urged-to-invest-30bn-a-year-in-infrastructure-or-risk-decade-in-doldrums)
-- [Claims and conspiracies, and pulling the trigger on Johnson: Dorries’ book tells all](https://www.theguardian.com/politics/2023/nov/08/claims-and-conspiracies-and-pulling-the-trigger-on-johnson-dorries-book-tells-all)
-- [AI Pictionary and a ‘robo-dog’ make UK shops’ hottest Christmas toy lists](https://www.theguardian.com/business/2023/nov/08/ai-pictionary-and-a-robo-dog-make-uk-shops-hottest-christmas-toy-lists)
-- [Singing by boys’ choir ‘sounds more brilliant’ when girls in audience](https://www.theguardian.com/science/2023/nov/08/singing-by-boys-choir-sounds-more-brilliant-when-girls-in-audience)
-- [UK housing market is past its ‘peak pain’, declares Savills](https://www.theguardian.com/money/2023/nov/08/uk-housing-market-is-past-its-peak-pain-declares-savills)
+- [Haley calls Ramaswamy ‘scum’ as Republican debate stage descends to personal attacks – live updates](https://www.theguardian.com/us-news/live/2023/nov/08/republican-third-presidential-debate-2023-candidates-miami-live-updates)
+- [Hollywood actors’ union reaches tentative deal with studios to end strike](https://www.theguardian.com/culture/2023/nov/08/hollywood-actors-strike-ends-sag-aftra)
+- [US has struck Iran-linked site in Syria, Pentagon says, as fears of regional conflict grow](https://www.theguardian.com/world/2023/nov/09/us-strikes-iran-weapons-storage-facility-syria-iirgc-pentagon-conflict)
+- [Israel-Hamas war live: WHO warns of ‘worrying trends’ in disease in Gaza; US strikes Iran-linked site in Syria](https://www.theguardian.com/world/live/2023/nov/08/israel-hamas-war-live-updates-biden-netanyahu-gaza-occupation-palestine)
+- [Optus outage: network faces Senate inquiry and government review after Australia-wide loss of service](https://www.theguardian.com/business/2023/nov/09/optus-outage-network-australia-government-announces-review-service-blackout)
+- [Music executive LA Reid accused of sexual assault in lawsuit](https://www.theguardian.com/business/2023/nov/08/music-executive-la-reid-sexual-assault-lawsuit-x-factor)
+- [Russia-Ukraine war at a glance: what we know on day 624](https://www.theguardian.com/world/2023/nov/09/russia-ukraine-war-at-a-glance-what-we-know-on-day-624)
+- [China has a history of being pro-Palestinian, but now faces diplomatic conundrum](https://www.theguardian.com/world/2023/nov/09/china-israel-pro-palestinian-history)
+- [Failure to save 27 lives in Channel exacerbated by confusion and lack of resources – report](https://www.theguardian.com/uk-news/2023/nov/09/failure-to-save-27-lives-in-channel-exacerbated-by-confusion-and-lack-of-resources-report)
+- [Lloyd’s of London insurers dominate underwriting of fossil fuel projects, study shows](https://www.theguardian.com/business/2023/nov/09/lloyds-of-london-insurers-dominate-underwriting-of-fossil-fuel-projects-study-shows)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

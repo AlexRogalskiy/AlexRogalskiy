@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Zuckerberg personally rejected Meta&#39;s proposals to improve teen mental health](https://www.cnn.com/2023/11/08/tech/meta-facebook-instagram-teen-safety/index.html)
-- [Omegle founder shuts down site forever?](https://www.omegle.com/)
-- [First planned small nuclear reactor plant in the US has been canceled](https://arstechnica.com/science/2023/11/first-planned-small-nuclear-reactor-plant-in-the-us-has-been-canceled/)
-- [On-Crash Backtraces in Swift](https://www.swift.org/blog/swift-5.9-backtraces/)
-- [Sad clown paradox](https://en.wikipedia.org/wiki/Sad_clown_paradox)
-- [Signal Public Username Testing &lpar;Staging Environment&rpar;](https://community.signalusers.org/t/public-username-testing-staging-environment/56866)
-- [Punica: Serving multiple LoRA finetuned LLM as one](https://github.com/punica-ai/punica)
-- [Interesting Bugs Caught by ESLint&#39;s no-constant-binary-expression](https://eslint.org/blog/2022/07/interesting-bugs-caught-by-no-constant-binary-expression/)
-- [SciPy builds for Python 3.12 on Windows are a minor miracle](https://labs.quansight.org/blog/building-scipy-with-flang)
-- [We wrote the OpenAI Wanderlust app in pure Python using Solara](https://github.com/widgetti/wanderlust)
+- [Why Is Coed Cherry Shutting Down?](https://coedcherry.com/fuck-banks.html)
+- [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring a Chief of Staff](https://news.ycombinator.com/item?id=38213590)
+- [Widespread drastic reduction of brain myelin upon prolonged endurance exercise](https://www.biorxiv.org/content/10.1101/2023.10.10.561303v1)
+- [Lemmings](https://www.leemeichin.com/posts/lemmings.html)
+- [Typing Fast Is About Latency, Not Throughput](https://two-wrongs.com/typing-fast-is-about-latency-not-throughput)
+- [Why is int in C in practice at least a 32 bit?](https://softwareengineering.stackexchange.com/questions/448256/why-is-int-in-c-in-practice-at-least-a-32-bit-type-today-despite-it-being-devel)
+- [Bayesian Structural Equation Modeling using blavaan](https://mc-stan.org/users/documentation/case-studies/sem.html)
+- [Apple co-founder Steve Wozniak suffers minor stroke](https://www.bbc.co.uk/news/technology-67366306)
+- [Wyoming discovery could be America&#39;s first new source of rare-earths since 1952](https://www.wsj.com/business/energy-oil/the-2-million-coal-mine-that-might-hold-a-37-billion-treasure-181dbdcf)
+- [Apollo astronaut Frank Borman has died](https://www.washingtonpost.com/obituaries/2023/11/09/frank-borman-astronaut-eastern-dead/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

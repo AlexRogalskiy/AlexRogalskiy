@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Haley calls Ramaswamy ‘scum’ as Republican debate stage descends to personal attacks – live updates](https://www.theguardian.com/us-news/live/2023/nov/08/republican-third-presidential-debate-2023-candidates-miami-live-updates)
-- [Hollywood actors’ union reaches tentative deal with studios to end strike](https://www.theguardian.com/culture/2023/nov/08/hollywood-actors-strike-ends-sag-aftra)
-- [US has struck Iran-linked site in Syria, Pentagon says, as fears of regional conflict grow](https://www.theguardian.com/world/2023/nov/09/us-strikes-iran-weapons-storage-facility-syria-iirgc-pentagon-conflict)
-- [Israel-Hamas war live: WHO warns of ‘worrying trends’ in disease in Gaza; US strikes Iran-linked site in Syria](https://www.theguardian.com/world/live/2023/nov/08/israel-hamas-war-live-updates-biden-netanyahu-gaza-occupation-palestine)
-- [Optus outage: network faces Senate inquiry and government review after Australia-wide loss of service](https://www.theguardian.com/business/2023/nov/09/optus-outage-network-australia-government-announces-review-service-blackout)
-- [Music executive LA Reid accused of sexual assault in lawsuit](https://www.theguardian.com/business/2023/nov/08/music-executive-la-reid-sexual-assault-lawsuit-x-factor)
-- [Russia-Ukraine war at a glance: what we know on day 624](https://www.theguardian.com/world/2023/nov/09/russia-ukraine-war-at-a-glance-what-we-know-on-day-624)
-- [China has a history of being pro-Palestinian, but now faces diplomatic conundrum](https://www.theguardian.com/world/2023/nov/09/china-israel-pro-palestinian-history)
-- [Failure to save 27 lives in Channel exacerbated by confusion and lack of resources – report](https://www.theguardian.com/uk-news/2023/nov/09/failure-to-save-27-lives-in-channel-exacerbated-by-confusion-and-lack-of-resources-report)
-- [Lloyd’s of London insurers dominate underwriting of fossil fuel projects, study shows](https://www.theguardian.com/business/2023/nov/09/lloyds-of-london-insurers-dominate-underwriting-of-fossil-fuel-projects-study-shows)
+- [Israel-Hamas war live: Netanyahu says he is not seeking to ‘govern Gaza’; UN urges coordination on pauses in fighting](https://www.theguardian.com/world/live/2023/nov/09/israel-hamas-war-live-updates-who-disease-gaza-us-strikes-iran-site-syria)
+- [Spines of a hedgehog, snout of an anteater: Indonesian mammal seen for first time in 60 years](https://www.theguardian.com/world/2023/nov/10/attenborough-long-beaked-echidna-seen-first-time-cyclops-mountain-photos-footage)
+- [Full prisons and false charges: Bangladesh opposition faces pre-election crackdown](https://www.theguardian.com/world/2023/nov/10/bangladesh-opposition-crackdown-election-sheikh-hasina-awami-league-bnp)
+- [Russia-Ukraine war at a glance: what we know on day 625](https://www.theguardian.com/world/2023/nov/10/russia-ukraine-war-at-a-glance-what-we-know-on-day-625)
+- [People never visited by loved ones more likely to die earlier, study finds](https://www.theguardian.com/society/2023/nov/10/people-never-visited-by-loved-ones-more-likely-to-die-earlier-study-finds)
+- [Dwayne ‘The Rock’ Johnson: I was asked to run for US president by multiple political parties](https://www.theguardian.com/film/2023/nov/10/dwayne-the-rock-johnsonus-president-run-party)
+- [Robert De Niro’s production company ordered to pay $1.3m to ex-assistant](https://www.theguardian.com/film/2023/nov/09/robert-de-niro-gender-discrimination-ex-assistant-trial-verdict)
+- [Prioritise quality of life over prolonging it for elderly, Chris Whitty tells medics](https://www.theguardian.com/society/2023/nov/10/prioritise-quality-of-life-over-prolonging-it-for-elderly-chris-whitty-tells-medics)
+- [Vehicle breakdowns due to potholes hit record level in 2023, says RAC](https://www.theguardian.com/world/2023/nov/10/vehicle-breakdowns-due-to-potholes-hit-record-level-in-2023-says-rac)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2023/nov/10/premier-league-10-things-to-look-out-for-this-weekend)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

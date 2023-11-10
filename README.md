@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ask HN: Share an important life lesson that took you a long time to figure out](https://news.ycombinator.com/item?id=38200140)
-- [Genetics of head lice evolution mirrors human migration&amp;colonization in Americas](https://phys.org/news/2023-11-genetic-analysis-lice-evolution-mirrors.html)
-- [Maine Voters Reject Question 3 by Large Margin](https://spectrumlocalnews.com/me/maine/politics/2023/11/08/maine-voters-reject-question-3-by-large-margin)
-- [After a $1.8B verdict, the clock is ticking on the 6% realtor commission](https://www.cnn.com/2023/11/05/homes/nar-verdict-real-estate-commission-fee/index.html)
-- [Game review Zero Punctuation ends](https://www.forbes.com/sites/paultassi/2023/11/08/zero-punctuation-ends-as-the-escapist-faces-mass-resignations-after-eic-firing/)
-- [G-Code Explained and Explored[video]](https://www.youtube.com/watch?v=cJlre1lEdcQ)
-- [How Most Famous Book Was Made](https://themillions.com/2023/11/how-worlds-most-famous-book-was-made.html)
-- [3D Printing with Gcode &lpar;Bioprinting-2022&rpar;](https://www.allevi3d.com/guide-to-gcode/)
-- [Learning to write with the fluid rope trick](https://www.researchgate.net/publication/368473914_Learning_to_write_with_the_fluid_rope_trick)
-- [Does AI Pose an Existential Risk to Humanity? Two Sides Square Off](https://www.wsj.com/tech/ai/ai-risk-humanity-experts-thoughts-4b271757)
+- [Lightweight graph database NeuroDB successfully deployed on ARM chip and Android](http://neurodb.org)
+- [Reactive and opportunistic Cyberwar: Iran&#39;s role in the Israel-Hamas war](https://www.microsoft.com/en-us/security/blog/2023/11/09/microsoft-shares-threat-intelligence-at-cyberwarcon-2023/)
+- [Tumblr is downscaling after failing to &#39;turn around&#39; the site](https://www.theverge.com/2023/11/9/23954412/tumblr-downscaling-employees-transferred-automattic)
+- [OnlyFans top earner Bryce Adams makes millions selling a sex fantasy](https://www.washingtonpost.com/technology/interactive/2023/onlyfans-bryce-adams-top-earners-creator-economy/)
+- [Cloudflare website downed by DDoS attack claimed by Anonymous Sudan](https://www.bleepingcomputer.com/news/technology/cloudflare-website-downed-by-ddos-attack-claimed-by-anonymous-sudan/)
+- [Hatching great teams through reflection](https://werd.io/2023/hatching-great-teams-through-reflection)
+- [New Steam Deck Revision: OLED HDR Display, Better Battery Life, Wifi6](https://boilingsteam.com/new-steam-deck-revision-oled-larger-battery/index.html)
+- [Does Gmail want to be instant messaging? New UI experiment says &quot;yes&quot;](https://arstechnica.com/gadgets/2023/11/gmails-quick-reply-ui-brings-it-one-step-closer-to-instant-messaging/)
+- [Transgender people can be baptized Catholic, serve as godparents, Vatican says](https://www.reuters.com/world/transsexuals-can-be-baptized-catholic-serve-godparents-vatican-says-2023-11-08/)
+- [Silicon Valley&#39;s Bold Sci-Fi Bet on the Device That Comes After the Smartphone](https://www.nytimes.com/2023/11/09/technology/silicon-valleys-big-bold-sci-fi-bet-on-the-device-that-comes-after-the-smartphone.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Why Is Coed Cherry Shutting Down?](https://coedcherry.com/fuck-banks.html)
-- [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring a Chief of Staff](https://news.ycombinator.com/item?id=38213590)
-- [Widespread drastic reduction of brain myelin upon prolonged endurance exercise](https://www.biorxiv.org/content/10.1101/2023.10.10.561303v1)
-- [Lemmings](https://www.leemeichin.com/posts/lemmings.html)
-- [Typing Fast Is About Latency, Not Throughput](https://two-wrongs.com/typing-fast-is-about-latency-not-throughput)
-- [Why is int in C in practice at least a 32 bit?](https://softwareengineering.stackexchange.com/questions/448256/why-is-int-in-c-in-practice-at-least-a-32-bit-type-today-despite-it-being-devel)
-- [Bayesian Structural Equation Modeling using blavaan](https://mc-stan.org/users/documentation/case-studies/sem.html)
-- [Apple co-founder Steve Wozniak suffers minor stroke](https://www.bbc.co.uk/news/technology-67366306)
-- [Wyoming discovery could be America&#39;s first new source of rare-earths since 1952](https://www.wsj.com/business/energy-oil/the-2-million-coal-mine-that-might-hold-a-37-billion-treasure-181dbdcf)
-- [Apollo astronaut Frank Borman has died](https://www.washingtonpost.com/obituaries/2023/11/09/frank-borman-astronaut-eastern-dead/)
+- [Weird Debugging Tricks the Browser Doesn&#39;t Want You to Know](https://alan.norbauer.com/articles/browser-debugging-tricks)
+- [Computation of the n&#39;th digit of pi in any base in O&lpar;n^2&rpar; &lpar;1997&rpar;](https://bellard.org/pi/pi_n2/pi_n2.html)
+- [Firezone &lpar;YC W22&rpar; is hiring a Rust contractor to build a Windows client](https://www.ycombinator.com/companies/firezone/jobs/8mVSALy-rust-engineer-contract)
+- [Trading bot that buys stocks bought by politicians is up 20% since May 2022](https://www.threads.net/@quiverquantitative/post/CzcB-Gsgqow)
+- [Entire population of Maine&#39;s just had its data stolen in a ransomware attack](https://mashable.com/article/maine-moveit-ransomware-attack)
+- [Iceland declares state of emergency over volcanic eruption threat](https://www.theguardian.com/world/2023/nov/10/iceland-declares-state-of-emergency-over-volcanic-eruption-threat)
+- [Apple discriminated against US citizens in hiring, DOJ says](https://arstechnica.com/tech-policy/2023/11/apple-discriminated-against-us-citizens-in-hiring-doj-says/)
+- [The hijacking of rare Japanese KitKats](https://www.straitstimes.com/world/united-states/how-to-kidnap-339000-in-rare-japanese-kitkats)
+- [How to boss without being bossy](https://www.jeffwofford.com/?p=2089)
+- [Amazon gives Apple &#39;massive preferential treatment&#39; in secret deal report claims](https://9to5mac.com/2023/11/10/amazon-apple-special-deal-online-storefront/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -355,6 +355,8 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [How to manually update Microsoft Defender](https://www.computerworld.com/article/3645670/how-to-manually-update-microsoft-defender.html#tk.rss_all)
 - [17 ways to speed up Windows 10](https://www.computerworld.com/article/3029168/17-ways-to-speed-up-windows-10.html#tk.rss_all)
 - [Apple gets ready for app sideloading in Europe](https://www.computerworld.com/article/3710368/apple-gets-ready-for-app-sideloading-in-europe.html#tk.rss_all)
 - [UK’s Ofcom outlines draft codes of practice for enforcing online safety](https://www.computerworld.com/article/3710209/uk-s-ofcom-outlines-draft-codes-of-practice-for-enforcing-online-safety.html#tk.rss_all)
@@ -363,8 +365,6 @@
 - [The regulators are coming for Apple Pay](https://www.computerworld.com/article/3710091/the-regulators-are-coming-for-apple-pay.html#tk.rss_all)
 - [Android&#39;s hidden clipboard-sharing superpower](https://www.computerworld.com/article/3709971/android-clipboard-sharing.html#tk.rss_all)
 - [Windows Hello for Business: Passwordless authentication for Windows shops](https://www.computerworld.com/article/3220967/windows-hello-for-business-passwordless-authentication-for-windows-shops.html#tk.rss_all)
-- [OpenAI DevDay: 3 new tools to build LLM-powered apps](https://www.infoworld.com/article/3709933/openai-devday-3-new-tools-to-build-llm-powered-apps.html#tk.rss_all)
-- [Whiteboarding platform FigJam gets new AI-powered capabilities](https://www.computerworld.com/article/3709972/whiteboarding-platform-figjam-gets-new-ai-powered-capabilities.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

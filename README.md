@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Israel-Hamas war live: Netanyahu says he is not seeking to ‘govern Gaza’; UN urges coordination on pauses in fighting](https://www.theguardian.com/world/live/2023/nov/09/israel-hamas-war-live-updates-who-disease-gaza-us-strikes-iran-site-syria)
-- [Spines of a hedgehog, snout of an anteater: Indonesian mammal seen for first time in 60 years](https://www.theguardian.com/world/2023/nov/10/attenborough-long-beaked-echidna-seen-first-time-cyclops-mountain-photos-footage)
-- [Full prisons and false charges: Bangladesh opposition faces pre-election crackdown](https://www.theguardian.com/world/2023/nov/10/bangladesh-opposition-crackdown-election-sheikh-hasina-awami-league-bnp)
-- [Russia-Ukraine war at a glance: what we know on day 625](https://www.theguardian.com/world/2023/nov/10/russia-ukraine-war-at-a-glance-what-we-know-on-day-625)
-- [People never visited by loved ones more likely to die earlier, study finds](https://www.theguardian.com/society/2023/nov/10/people-never-visited-by-loved-ones-more-likely-to-die-earlier-study-finds)
-- [Dwayne ‘The Rock’ Johnson: I was asked to run for US president by multiple political parties](https://www.theguardian.com/film/2023/nov/10/dwayne-the-rock-johnsonus-president-run-party)
-- [Robert De Niro’s production company ordered to pay $1.3m to ex-assistant](https://www.theguardian.com/film/2023/nov/09/robert-de-niro-gender-discrimination-ex-assistant-trial-verdict)
-- [Prioritise quality of life over prolonging it for elderly, Chris Whitty tells medics](https://www.theguardian.com/society/2023/nov/10/prioritise-quality-of-life-over-prolonging-it-for-elderly-chris-whitty-tells-medics)
-- [Vehicle breakdowns due to potholes hit record level in 2023, says RAC](https://www.theguardian.com/world/2023/nov/10/vehicle-breakdowns-due-to-potholes-hit-record-level-in-2023-says-rac)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2023/nov/10/premier-league-10-things-to-look-out-for-this-weekend)
+- [Israel-Hamas war live: WHO says a child is killed every 10 minutes in Gaza as Macron calls for ceasefire](https://www.theguardian.com/world/live/2023/nov/10/israel-hamas-war-live-updates-benjamin-netanyahu-gaza-fighting-pauses-un-palestine)
+- [‘Why did I get it?’: Australian research into early onset Parkinson’s hopes to give patients answers](https://www.theguardian.com/society/2023/nov/11/why-did-i-get-it-australian-research-into-early-onset-parkinsons-hopes-to-give-patients-answers)
+- [I want my son to wear fun, colourful clothes – but boys’ fashion is so boring | Rhiannon Lucy Cosslett](https://www.theguardian.com/commentisfree/2023/nov/11/son-fun-colourful-clothes-boy-fashion-pre-loved)
+- [Credit agency Moody’s cuts outlook on US government to negative](https://www.theguardian.com/business/2023/nov/10/moodys-us-government-credit-rating-negative)
+- [Booking.com to compensate some hotels over delayed payments but others miss out](https://www.theguardian.com/travel/2023/nov/10/booking-com-travel-website-compensation-hotels-delayed-payments)
+- [Emma Hayes frustrated that ‘private conversations’ with Chelsea were leaked](https://www.theguardian.com/football/2023/nov/10/emma-hayes-frustrated-that-private-conversations-with-chelsea-were-leaked)
+- [Phones and iPad of New York mayor Eric Adams were seized by FBI, report says](https://www.theguardian.com/us-news/2023/nov/10/new-york-mayor-eric-adams-fbi-investigation)
+- [Islamophobia and antisemitism on rise in US amid Israel-Hamas war](https://www.theguardian.com/us-news/2023/nov/10/us-islamophobia-antisemitism-hate-speech-israel-hamas-war-gaza)
+- [UN warns violence against civilians in Sudan ‘verging on pure evil’](https://www.theguardian.com/world/2023/nov/10/un-warns-violence-against-civilians-in-sudan-verging-on-pure-evil)
+- [Pilot who tried to shut off engines says he was hallucinating on mushrooms](https://www.theguardian.com/us-news/2023/nov/10/alaska-airlines-pilot-engine-psychedelic-mushrooms)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

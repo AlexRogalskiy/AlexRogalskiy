@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Lightweight graph database NeuroDB successfully deployed on ARM chip and Android](http://neurodb.org)
-- [Reactive and opportunistic Cyberwar: Iran&#39;s role in the Israel-Hamas war](https://www.microsoft.com/en-us/security/blog/2023/11/09/microsoft-shares-threat-intelligence-at-cyberwarcon-2023/)
-- [Tumblr is downscaling after failing to &#39;turn around&#39; the site](https://www.theverge.com/2023/11/9/23954412/tumblr-downscaling-employees-transferred-automattic)
-- [OnlyFans top earner Bryce Adams makes millions selling a sex fantasy](https://www.washingtonpost.com/technology/interactive/2023/onlyfans-bryce-adams-top-earners-creator-economy/)
-- [Cloudflare website downed by DDoS attack claimed by Anonymous Sudan](https://www.bleepingcomputer.com/news/technology/cloudflare-website-downed-by-ddos-attack-claimed-by-anonymous-sudan/)
-- [Hatching great teams through reflection](https://werd.io/2023/hatching-great-teams-through-reflection)
-- [New Steam Deck Revision: OLED HDR Display, Better Battery Life, Wifi6](https://boilingsteam.com/new-steam-deck-revision-oled-larger-battery/index.html)
-- [Does Gmail want to be instant messaging? New UI experiment says &quot;yes&quot;](https://arstechnica.com/gadgets/2023/11/gmails-quick-reply-ui-brings-it-one-step-closer-to-instant-messaging/)
-- [Transgender people can be baptized Catholic, serve as godparents, Vatican says](https://www.reuters.com/world/transsexuals-can-be-baptized-catholic-serve-godparents-vatican-says-2023-11-08/)
-- [Silicon Valley&#39;s Bold Sci-Fi Bet on the Device That Comes After the Smartphone](https://www.nytimes.com/2023/11/09/technology/silicon-valleys-big-bold-sci-fi-bet-on-the-device-that-comes-after-the-smartphone.html)
+- [About Game Engines Remedy Games](https://www.remedygames.com/article/about-game-engines)
+- [Navigating the Murky Waters of Online Business Listings: A Broker&#39;s Perspective](https://news.ycombinator.com/item?id=38227165)
+- [Ask HN: What Is Bad Code?](https://news.ycombinator.com/item?id=38227161)
+- [Permitting Reform or Death](https://caseyhandmer.wordpress.com/2023/11/10/permitting-reform-or-death/)
+- [The Mediterranean Iron Omni-Spear](https://acoup.blog/2023/11/10/collections-the-mediterranean-iron-omni-spear/)
+- [The English plan to colonise Russia](https://www.historytoday.com/archive/history-matters/english-plan-colonise-russia)
+- [Connections Returns with Original Host](https://arstechnica.com/science/2023/11/fans-of-connections-rejoice-rebooted-classic-sci-doc-series-returns-with-original-host/)
+- [Open-label placebo treatment does not enhance cognitive abilities in healthy ppl](https://www.nature.com/articles/s41598-023-45979-3)
+- [The compounds and molecules involved in giving cannabis its unique scent](https://phys.org/news/2023-11-closer-compounds-molecules-involved-cannabis.html)
+- [Hackers guide to the Hacker News front page](https://pthorpe92.github.io/humor/How-to-get-on-hackernews-front-page/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

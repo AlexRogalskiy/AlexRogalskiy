@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Weird Debugging Tricks the Browser Doesn&#39;t Want You to Know](https://alan.norbauer.com/articles/browser-debugging-tricks)
-- [Computation of the n&#39;th digit of pi in any base in O&lpar;n^2&rpar; &lpar;1997&rpar;](https://bellard.org/pi/pi_n2/pi_n2.html)
-- [Firezone &lpar;YC W22&rpar; is hiring a Rust contractor to build a Windows client](https://www.ycombinator.com/companies/firezone/jobs/8mVSALy-rust-engineer-contract)
-- [Trading bot that buys stocks bought by politicians is up 20% since May 2022](https://www.threads.net/@quiverquantitative/post/CzcB-Gsgqow)
-- [Entire population of Maine&#39;s just had its data stolen in a ransomware attack](https://mashable.com/article/maine-moveit-ransomware-attack)
-- [Iceland declares state of emergency over volcanic eruption threat](https://www.theguardian.com/world/2023/nov/10/iceland-declares-state-of-emergency-over-volcanic-eruption-threat)
-- [Apple discriminated against US citizens in hiring, DOJ says](https://arstechnica.com/tech-policy/2023/11/apple-discriminated-against-us-citizens-in-hiring-doj-says/)
-- [The hijacking of rare Japanese KitKats](https://www.straitstimes.com/world/united-states/how-to-kidnap-339000-in-rare-japanese-kitkats)
-- [How to boss without being bossy](https://www.jeffwofford.com/?p=2089)
-- [Amazon gives Apple &#39;massive preferential treatment&#39; in secret deal report claims](https://9to5mac.com/2023/11/10/amazon-apple-special-deal-online-storefront/)
+- [Tesla&#39;s Supercharger cost revealed to be just 1/5th of the competition in bid](https://electrek.co/2022/04/15/tesla-cost-deploy-superchargers-revealed-one-fifth-competition/)
+- [Formula 1 didn&#39;t realize Las Vegas would be cold in November](https://jalopnik.com/formula-1-didnt-realize-las-vegas-would-be-cold-in-nove-1851011607)
+- [Rats have an imagination, new research suggests](https://www.sciencedaily.com/releases/2023/11/231102162557.htm)
+- [Is Threads winning the war with X?](https://www.cjr.org/the_media_today/threads_four_months_later.php)
+- [Google&#39;s New &quot;Help Me Script&quot; Automation](https://techthreedots.com/googles-new-help-me-script)
+- [Fedora Workstation 39](https://fedoraproject.org/workstation/download/)
+- [A Rusty CHERI – The path to hardware capabilities in Rust [video]](https://archive.fosdem.org/2023/schedule/event/rust_a_rusty_cheri_the_path_to_hardware_capabilities_in_rust/)
+- [OCaml: a Rust developer&#39;s first impressions](https://pthorpe92.github.io/ocaml/ocaml-first-thoughts/)
+- [Skio &lpar;YC S20&rpar; – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
+- [Show HN: Koelsynth – a simple FM synthesis library](https://github.com/charstorm/koelsynth)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

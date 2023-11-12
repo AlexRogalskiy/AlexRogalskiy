@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [About Game Engines Remedy Games](https://www.remedygames.com/article/about-game-engines)
-- [Navigating the Murky Waters of Online Business Listings: A Broker&#39;s Perspective](https://news.ycombinator.com/item?id=38227165)
-- [Ask HN: What Is Bad Code?](https://news.ycombinator.com/item?id=38227161)
-- [Permitting Reform or Death](https://caseyhandmer.wordpress.com/2023/11/10/permitting-reform-or-death/)
-- [The Mediterranean Iron Omni-Spear](https://acoup.blog/2023/11/10/collections-the-mediterranean-iron-omni-spear/)
-- [The English plan to colonise Russia](https://www.historytoday.com/archive/history-matters/english-plan-colonise-russia)
-- [Connections Returns with Original Host](https://arstechnica.com/science/2023/11/fans-of-connections-rejoice-rebooted-classic-sci-doc-series-returns-with-original-host/)
-- [Open-label placebo treatment does not enhance cognitive abilities in healthy ppl](https://www.nature.com/articles/s41598-023-45979-3)
-- [The compounds and molecules involved in giving cannabis its unique scent](https://phys.org/news/2023-11-closer-compounds-molecules-involved-cannabis.html)
-- [Hackers guide to the Hacker News front page](https://pthorpe92.github.io/humor/How-to-get-on-hackernews-front-page/)
+- [Novo Nordisk&#39;s obesity drug cuts risk of death by 18%, trial data shows](https://www.ft.com/content/a204a830-4c54-4832-94d8-62b040e6fd48)
+- [Tatu City](https://en.wikipedia.org/wiki/Tatu_City)
+- [Tesla&#39;s Supercharger cost revealed to be just 1/5th of the competition in bid](https://electrek.co/2022/04/15/tesla-cost-deploy-superchargers-revealed-one-fifth-competition/)
+- [Account for the Laniakea Supercluster and the Hubble Tension Is Even Larger](https://www.universetoday.com/164198/if-you-account-for-the-laniakea-supercluster-the-hubble-tension-might-be-even-larger/)
+- [OBS Studio 30.0](https://github.com/obsproject/obs-studio/releases/tag/30.0.0)
+- [Primordial Black Holes Would Explain a Lot About the Universe](https://www.universetoday.com/164181/if-we-could-find-them-primordial-black-holes-would-explain-a-lot-about-the-universe/)
+- [Show HN: TopGPTs.ai – The Largest Directory of GPTs](https://www.topgpts.ai)
+- [What&#39;s the average length of a queue of cars?](https://e-dorigatti.github.io/math/2023/11/01/queue-length.html)
+- [I Made a Tech Podcast](https://open.spotify.com/episode/6erStlV4jNYyH1ZznZPXkA)
+- [Feds allege Bitwise execs lied about &#39;dying venture&#39; to get $100M](https://www.sfgate.com/tech/article/bitwise-ceos-fraud-fresno-olguin-soberal-18483788.php)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Israel-Hamas war live: WHO says a child is killed every 10 minutes in Gaza as Macron calls for ceasefire](https://www.theguardian.com/world/live/2023/nov/10/israel-hamas-war-live-updates-benjamin-netanyahu-gaza-fighting-pauses-un-palestine)
-- [‘Why did I get it?’: Australian research into early onset Parkinson’s hopes to give patients answers](https://www.theguardian.com/society/2023/nov/11/why-did-i-get-it-australian-research-into-early-onset-parkinsons-hopes-to-give-patients-answers)
-- [I want my son to wear fun, colourful clothes – but boys’ fashion is so boring | Rhiannon Lucy Cosslett](https://www.theguardian.com/commentisfree/2023/nov/11/son-fun-colourful-clothes-boy-fashion-pre-loved)
-- [Credit agency Moody’s cuts outlook on US government to negative](https://www.theguardian.com/business/2023/nov/10/moodys-us-government-credit-rating-negative)
-- [Booking.com to compensate some hotels over delayed payments but others miss out](https://www.theguardian.com/travel/2023/nov/10/booking-com-travel-website-compensation-hotels-delayed-payments)
-- [Emma Hayes frustrated that ‘private conversations’ with Chelsea were leaked](https://www.theguardian.com/football/2023/nov/10/emma-hayes-frustrated-that-private-conversations-with-chelsea-were-leaked)
-- [Phones and iPad of New York mayor Eric Adams were seized by FBI, report says](https://www.theguardian.com/us-news/2023/nov/10/new-york-mayor-eric-adams-fbi-investigation)
-- [Islamophobia and antisemitism on rise in US amid Israel-Hamas war](https://www.theguardian.com/us-news/2023/nov/10/us-islamophobia-antisemitism-hate-speech-israel-hamas-war-gaza)
-- [UN warns violence against civilians in Sudan ‘verging on pure evil’](https://www.theguardian.com/world/2023/nov/10/un-warns-violence-against-civilians-in-sudan-verging-on-pure-evil)
-- [Pilot who tried to shut off engines says he was hallucinating on mushrooms](https://www.theguardian.com/us-news/2023/nov/10/alaska-airlines-pilot-engine-psychedelic-mushrooms)
+- [Israel-Hamas war: what we know on day 37](https://www.theguardian.com/world/2023/nov/12/israel-hamas-war-what-we-know-on-day-38)
+- [Israel-Hamas war live: UN calls Gaza hospital fighting ‘reprehensible’ as Israel denies attacks](https://www.theguardian.com/world/live/2023/nov/11/israel-hamas-war-live-staff-report-catastrophic-situation-in-main-gaza-hospital-aid-agency-says-as-fighting-intensifies)
+- [‘Very difficult’: father of Luis Díaz speaks for first time after release by Colombia guerillas](https://www.theguardian.com/world/2023/nov/12/very-difficult-father-of-luis-diaz-speaks-for-first-time-after-release-by-colombia-guerillas)
+- [Lost in space: astronaut’s toolbag orbits Earth after escaping during spacewalk](https://www.theguardian.com/science/2023/nov/11/astronaut-toolbag-earth-spacewalk)
+- [We love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2023/nov/12/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Spilling the beans: coffee colours are key this season](https://www.theguardian.com/fashion/2023/nov/12/spilling-the-beans-coffee-colours-are-key-this-season)
+- [‘He can’t play with England’: Ancelotti says Bellingham out of Euro qualifiers](https://www.theguardian.com/football/2023/nov/11/he-cant-play-with-england-ancelotti-says-bellingham-out-of-euro-qualifiers)
+- [‘Are the lads not giving everything?’: Trippier confronts Newcastle fans](https://www.theguardian.com/football/2023/nov/11/are-the-lads-not-giving-everything-trippier-confronts-newcastle-fans)
+- [Hundreds of thousands rally for Gaza in London as police arrest far-right protesters](https://www.theguardian.com/world/2023/nov/11/hundreds-of-thousands-rally-for-gaza-in-london-as-police-arrest-far-right-protesters)
+- [Nigel Farage to sue NatWest and wants a class action over bank account closures](https://www.theguardian.com/politics/2023/nov/11/nigel-farage-to-take-legal-action-against-natwest-over-closure-of-bank-accounts)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

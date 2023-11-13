@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Tesla&#39;s Supercharger cost revealed to be just 1/5th of the competition in bid](https://electrek.co/2022/04/15/tesla-cost-deploy-superchargers-revealed-one-fifth-competition/)
-- [Formula 1 didn&#39;t realize Las Vegas would be cold in November](https://jalopnik.com/formula-1-didnt-realize-las-vegas-would-be-cold-in-nove-1851011607)
-- [Rats have an imagination, new research suggests](https://www.sciencedaily.com/releases/2023/11/231102162557.htm)
-- [Is Threads winning the war with X?](https://www.cjr.org/the_media_today/threads_four_months_later.php)
-- [Google&#39;s New &quot;Help Me Script&quot; Automation](https://techthreedots.com/googles-new-help-me-script)
-- [Fedora Workstation 39](https://fedoraproject.org/workstation/download/)
-- [A Rusty CHERI – The path to hardware capabilities in Rust [video]](https://archive.fosdem.org/2023/schedule/event/rust_a_rusty_cheri_the_path_to_hardware_capabilities_in_rust/)
-- [OCaml: a Rust developer&#39;s first impressions](https://pthorpe92.github.io/ocaml/ocaml-first-thoughts/)
-- [Skio &lpar;YC S20&rpar; – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
-- [Show HN: Koelsynth – a simple FM synthesis library](https://github.com/charstorm/koelsynth)
+- [The Diamond World Takes Radical Steps to Stop a Pricing Plunge](https://www.bloomberg.com/news/articles/2023-11-11/diamond-prices-miners-take-radical-steps-to-support-the-market)
+- [Show HN: Interactive AI Resume/LinkedIn for better networking/job hunting](https://www.protoconstruct.com/chat/652af6c4238991f5e5f2eb57)
+- [I-10 closure in California prompts state of emergency](https://www.sfgate.com/bayarea/article/i-10-closure-california-state-of-emergency-18486449.php)
+- [Geohash](https://en.wikipedia.org/wiki/Geohash)
+- [The Apollo Guidance Computer](https://www.computer.org/csdl/magazine/mi/2021/06/09623432/1yJTxgRWQgg)
+- [Ask HN: What are your most used Chat GPT prompts](https://news.ycombinator.com/item?id=38244769)
+- [Show HN: Open-source digital stylus with six degrees of freedom](https://github.com/Jcparkyn/dpoint)
+- [Lightweight Linux Distributions for Older PCs](https://www.freecodecamp.org/news/lightweight-linux-distributions-for-your-pc/)
+- [Days of The Jackal: how Andrew Wylie turned serious literature into big business](https://www.theguardian.com/books/2023/nov/09/andrew-wylie-agency-days-of-the-jackal-serious-literature-big-business)
+- [37, the median value for the second prime factor of an integer](https://grossack.site/2023/11/08/37-median.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

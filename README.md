@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Israel-Hamas war: what we know on day 37](https://www.theguardian.com/world/2023/nov/12/israel-hamas-war-what-we-know-on-day-38)
-- [Israel-Hamas war live: UN calls Gaza hospital fighting ‘reprehensible’ as Israel denies attacks](https://www.theguardian.com/world/live/2023/nov/11/israel-hamas-war-live-staff-report-catastrophic-situation-in-main-gaza-hospital-aid-agency-says-as-fighting-intensifies)
-- [‘Very difficult’: father of Luis Díaz speaks for first time after release by Colombia guerillas](https://www.theguardian.com/world/2023/nov/12/very-difficult-father-of-luis-diaz-speaks-for-first-time-after-release-by-colombia-guerillas)
-- [Lost in space: astronaut’s toolbag orbits Earth after escaping during spacewalk](https://www.theguardian.com/science/2023/nov/11/astronaut-toolbag-earth-spacewalk)
-- [We love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2023/nov/12/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Spilling the beans: coffee colours are key this season](https://www.theguardian.com/fashion/2023/nov/12/spilling-the-beans-coffee-colours-are-key-this-season)
-- [‘He can’t play with England’: Ancelotti says Bellingham out of Euro qualifiers](https://www.theguardian.com/football/2023/nov/11/he-cant-play-with-england-ancelotti-says-bellingham-out-of-euro-qualifiers)
-- [‘Are the lads not giving everything?’: Trippier confronts Newcastle fans](https://www.theguardian.com/football/2023/nov/11/are-the-lads-not-giving-everything-trippier-confronts-newcastle-fans)
-- [Hundreds of thousands rally for Gaza in London as police arrest far-right protesters](https://www.theguardian.com/world/2023/nov/11/hundreds-of-thousands-rally-for-gaza-in-london-as-police-arrest-far-right-protesters)
-- [Nigel Farage to sue NatWest and wants a class action over bank account closures](https://www.theguardian.com/politics/2023/nov/11/nigel-farage-to-take-legal-action-against-natwest-over-closure-of-bank-accounts)
+- [Israel-Hamas war live: al-Shifa hospital ‘no longer functioning’, says WHO, as aid groups urge attacks on healthcare centres to stop](https://www.theguardian.com/world/live/2023/nov/12/israel-hamas-war-live-netanyahu-vows-to-press-on-with-full-force-as-fighting-rages-around-main-gaza-hospital)
+- [Shots fired at another Jewish school in Montreal amid tensions over Israel-Hamas war](https://www.theguardian.com/world/2023/nov/13/shots-fired-at-another-jewish-school-in-montreal-amid-tensions-over-israel-hamas-war)
+- [Russia-Ukraine war at a glance: what we know on day 628](https://www.theguardian.com/world/2023/nov/13/russia-ukraine-war-at-a-glance-what-we-know-on-day-628)
+- [Xi-Biden meeting overshadowed by conflicts in Ukraine and Israel – and US stance on Taiwan](https://www.theguardian.com/world/2023/nov/13/xi-biden-meeting-overshadowed-by-conflicts-in-ukraine-and-israel-and-us-stance-on-taiwan)
+- [UK pension funds step in to build affordable homes](https://www.theguardian.com/business/2023/nov/13/uk-pension-funds-step-in-to-build-affordable-homes)
+- [British millennials still bearing scars of 2008 financial crisis, says research](https://www.theguardian.com/society/2023/nov/13/british-millennials-still-bearing-scars-of-2008-financial-crisis-says-research)
+- [England stop and search pilot scheme does not cut violence, thinktank finds](https://www.theguardian.com/uk-news/2023/nov/13/england-stop-and-search-does-not-cut-violence-thinktank)
+- [Co-op boss says criminal gangs are operating ‘exempt from consequences’](https://www.theguardian.com/business/2023/nov/13/co-op-boss-criminal-gangs-operating-exempt-from-consequences)
+- [Landlords sell up in Great Britain as buy-to-let market sours](https://www.theguardian.com/money/2023/nov/13/landlords-sell-up-in-great-britain-as-buy-to-let-market-sours)
+- [Ikea owner buys Brighton shopping mall, its second in the UK](https://www.theguardian.com/business/2023/nov/13/ikea-owner-buys-brighton-shopping-mall-its-second-in-the-uk)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

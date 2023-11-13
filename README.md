@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Novo Nordisk&#39;s obesity drug cuts risk of death by 18%, trial data shows](https://www.ft.com/content/a204a830-4c54-4832-94d8-62b040e6fd48)
-- [Tatu City](https://en.wikipedia.org/wiki/Tatu_City)
-- [Tesla&#39;s Supercharger cost revealed to be just 1/5th of the competition in bid](https://electrek.co/2022/04/15/tesla-cost-deploy-superchargers-revealed-one-fifth-competition/)
-- [Account for the Laniakea Supercluster and the Hubble Tension Is Even Larger](https://www.universetoday.com/164198/if-you-account-for-the-laniakea-supercluster-the-hubble-tension-might-be-even-larger/)
-- [OBS Studio 30.0](https://github.com/obsproject/obs-studio/releases/tag/30.0.0)
-- [Primordial Black Holes Would Explain a Lot About the Universe](https://www.universetoday.com/164181/if-we-could-find-them-primordial-black-holes-would-explain-a-lot-about-the-universe/)
-- [Show HN: TopGPTs.ai – The Largest Directory of GPTs](https://www.topgpts.ai)
-- [What&#39;s the average length of a queue of cars?](https://e-dorigatti.github.io/math/2023/11/01/queue-length.html)
-- [I Made a Tech Podcast](https://open.spotify.com/episode/6erStlV4jNYyH1ZznZPXkA)
-- [Feds allege Bitwise execs lied about &#39;dying venture&#39; to get $100M](https://www.sfgate.com/tech/article/bitwise-ceos-fraud-fresno-olguin-soberal-18483788.php)
+- [&#39;in-place&#39; string modifications in Python](https://stackoverflow.com/questions/3463746/in-place-string-modifications-in-python)
+- [We Create a VisionOS Demo Share Platform Called Let&#39;s XrOS](https://github.com/XRealityZone/Let-us-xrOS)
+- [Practical Change Data Streaming Use Cases with Apache Kafka and Debezium](https://www.infoq.com/presentations/data-streaming-kafka-debezium/)
+- [Learn PostScript by Doing &lpar;2005&rpar; [pdf]](https://staff.science.uva.nl/a.j.p.heck/Courses/Mastercourse2005/tutorial.pdf)
+- [Show HN: Best of HN posts and jobs](https://www.hnjn.org/)
+- [Cyber Attack Forces Biggest Bank to Trade via USB Stick](https://time.com/6333716/china-icbc-bank-hack-usb-stick-trading/)
+- [Trump plans to launch a tuition-free, online-only bachelor&#39;s degree](https://www.wsj.com/articles/donald-trump-american-academy-online-university-cd9b8da6)
+- [&quot;[Facebook] Encrypted notification emails are going away soon&quot;](https://www.facebook.com/settings/publickey/?notif_t=qp_notifs_encrypted_emails_deprecation_1493863788&ref=notif)
+- [Millions of children learn only very little. How can the world improve this?](https://ourworldindata.org/better-learning)
+- [MLPerf training tests put Nvidia ahead, Intel close, and Google well behind](https://spectrum.ieee.org/generative-ai-training)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

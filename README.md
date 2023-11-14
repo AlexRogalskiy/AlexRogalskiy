@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Israel-Hamas war live: al-Shifa hospital ‘no longer functioning’, says WHO, as aid groups urge attacks on healthcare centres to stop](https://www.theguardian.com/world/live/2023/nov/12/israel-hamas-war-live-netanyahu-vows-to-press-on-with-full-force-as-fighting-rages-around-main-gaza-hospital)
-- [Shots fired at another Jewish school in Montreal amid tensions over Israel-Hamas war](https://www.theguardian.com/world/2023/nov/13/shots-fired-at-another-jewish-school-in-montreal-amid-tensions-over-israel-hamas-war)
-- [Russia-Ukraine war at a glance: what we know on day 628](https://www.theguardian.com/world/2023/nov/13/russia-ukraine-war-at-a-glance-what-we-know-on-day-628)
-- [Xi-Biden meeting overshadowed by conflicts in Ukraine and Israel – and US stance on Taiwan](https://www.theguardian.com/world/2023/nov/13/xi-biden-meeting-overshadowed-by-conflicts-in-ukraine-and-israel-and-us-stance-on-taiwan)
-- [UK pension funds step in to build affordable homes](https://www.theguardian.com/business/2023/nov/13/uk-pension-funds-step-in-to-build-affordable-homes)
-- [British millennials still bearing scars of 2008 financial crisis, says research](https://www.theguardian.com/society/2023/nov/13/british-millennials-still-bearing-scars-of-2008-financial-crisis-says-research)
-- [England stop and search pilot scheme does not cut violence, thinktank finds](https://www.theguardian.com/uk-news/2023/nov/13/england-stop-and-search-does-not-cut-violence-thinktank)
-- [Co-op boss says criminal gangs are operating ‘exempt from consequences’](https://www.theguardian.com/business/2023/nov/13/co-op-boss-criminal-gangs-operating-exempt-from-consequences)
-- [Landlords sell up in Great Britain as buy-to-let market sours](https://www.theguardian.com/money/2023/nov/13/landlords-sell-up-in-great-britain-as-buy-to-let-market-sours)
-- [Ikea owner buys Brighton shopping mall, its second in the UK](https://www.theguardian.com/business/2023/nov/13/ikea-owner-buys-brighton-shopping-mall-its-second-in-the-uk)
+- [Israel-Hamas war live: Fuel shortage could stop aid delivery to Gaza, UN official warns; Biden calls for protection of al-Shifa hospital](https://www.theguardian.com/world/live/2023/nov/13/israel-hamas-war-live-updates-al-shifa-hospital-who-us-strikes-syria-palestine)
+- [‘Traumatic’: Paul Pelosi testifies on being attacked by man with hammer](https://www.theguardian.com/us-news/2023/nov/13/paul-nancy-pelosi-testimony-trial-david-depape-hammer)
+- [Russia-Ukraine war at a glance: what we know on day 629](https://www.theguardian.com/world/2023/nov/14/russia-ukraine-war-at-a-glance-what-we-know-on-day-629)
+- [US health officials warn of fruit pouches tainted with lead after 22 toddlers fall ill](https://www.theguardian.com/society/2023/nov/13/lead-poisoning-fruit-pouches-applesauce-wanabana-children-sick)
+- [Israel-Hamas war: what we know on day 40](https://www.theguardian.com/world/2023/nov/14/israel-hamas-war-what-we-know-on-day-40)
+- [Nepal says it will ban TikTok, citing effect on ‘social harmony’](https://www.theguardian.com/world/2023/nov/14/nepal-tiktok-ban-social-harmony-why)
+- [Ministers urged to expand cost of living support as MPs find Britons ‘slipping through net’](https://www.theguardian.com/business/2023/nov/14/cost-of-living-support-mps-committee)
+- [The Crown actor says events leading to Diana’s death must have been ‘unbearable’](https://www.theguardian.com/tv-and-radio/2023/nov/14/the-crown-actor-elizabeth-debicki-diana-princess-wales)
+- [Migrant workers face exploitation as result of post-Brexit scheme, says report](https://www.theguardian.com/uk-news/2023/nov/14/migrant-workers-face-exploitation-as-result-of-post-brexit-scheme-says-report)
+- [Egg and sperm donors in UK to lose right to anonymity at birth under new plans](https://www.theguardian.com/society/2023/nov/14/egg-and-sperm-donors-to-lose-right-to-anonymity-at-birth-under-proposed-laws)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

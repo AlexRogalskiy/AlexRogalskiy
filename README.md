@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [&#39;in-place&#39; string modifications in Python](https://stackoverflow.com/questions/3463746/in-place-string-modifications-in-python)
-- [We Create a VisionOS Demo Share Platform Called Let&#39;s XrOS](https://github.com/XRealityZone/Let-us-xrOS)
-- [Practical Change Data Streaming Use Cases with Apache Kafka and Debezium](https://www.infoq.com/presentations/data-streaming-kafka-debezium/)
-- [Learn PostScript by Doing &lpar;2005&rpar; [pdf]](https://staff.science.uva.nl/a.j.p.heck/Courses/Mastercourse2005/tutorial.pdf)
-- [Show HN: Best of HN posts and jobs](https://www.hnjn.org/)
-- [Cyber Attack Forces Biggest Bank to Trade via USB Stick](https://time.com/6333716/china-icbc-bank-hack-usb-stick-trading/)
-- [Trump plans to launch a tuition-free, online-only bachelor&#39;s degree](https://www.wsj.com/articles/donald-trump-american-academy-online-university-cd9b8da6)
-- [&quot;[Facebook] Encrypted notification emails are going away soon&quot;](https://www.facebook.com/settings/publickey/?notif_t=qp_notifs_encrypted_emails_deprecation_1493863788&ref=notif)
-- [Millions of children learn only very little. How can the world improve this?](https://ourworldindata.org/better-learning)
-- [MLPerf training tests put Nvidia ahead, Intel close, and Google well behind](https://spectrum.ieee.org/generative-ai-training)
+- [Android App Devs now require 20 people to test before publishing to Play Store](https://techcrunch.com/2023/11/09/google-play-tightens-up-rules-for-android-app-developers-to-require-testing-increased-app-review/)
+- [James Cameron&#39;s the Abyss 4K Will Return to Theaters for Just One Day](https://www.ign.com/articles/james-camerons-the-abyss-4k-will-return-to-theaters-for-just-one-day)
+- [NYT Op-ed: Why Aren&#39;t More People Getting Married? Ask Women What Dating Is Like](https://www.nytimes.com/2023/11/11/opinion/marriage-women-men-dating.html)
+- [Kai-Fu Lee&#39;s Yi-34B uses Llama&#39;s architecture except for two tensors renamed](https://huggingface.co/01-ai/Yi-34B/discussions/11)
+- [&quot;But wait, what&#39;s an eel ship?&quot;](https://nitter.cz/greenleejw/status/1721569436296245525#m)
+- [PlanetScale Connector for JVM](https://github.com/elide-dev/planetscale-java)
+- [Share and Explore the interesting GPTs, just provide a link. GPT Share](https://www.gptshare.io/)
+- [Fedora 40: Transition to Zlib-ng as compatible replacement for Zlib](https://fedoraproject.org/wiki/Changes/MinizipNGTransition)
+- [Banning one Palestinian slogan roiled Etsy](https://www.platformer.news/p/how-banning-one-palestinian-slogan)
+- [Magic Patterns](https://www.magicpatterns.com/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

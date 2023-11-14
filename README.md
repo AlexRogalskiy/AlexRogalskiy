@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [The evolution of Apple&#39;s iPhone](https://www.computerworld.com/article/3692531/evolution-of-apple-iphone.html#tk.rss_all)
+- [Open source is coming to the Apple enterprise with Fleet](https://www.computerworld.com/article/3710448/open-source-is-coming-to-the-apple-enterprise-with-fleet.html#tk.rss_all)
+- [Tech layoffs in 2023: A timeline](https://www.computerworld.com/article/3685936/tech-layoffs-in-2023-a-timeline.html#tk.rss_all)
+- [13 ways to speed up Windows 11](https://www.computerworld.com/article/3687056/how-to-speed-up-windows-11.html#tk.rss_all)
+- [How to use Google Sheets for project management](https://www.computerworld.com/article/3706028/how-to-use-google-sheets-for-project-management.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [How to manually update Microsoft Defender](https://www.computerworld.com/article/3645670/how-to-manually-update-microsoft-defender.html#tk.rss_all)
 - [17 ways to speed up Windows 10](https://www.computerworld.com/article/3029168/17-ways-to-speed-up-windows-10.html#tk.rss_all)
 - [Apple gets ready for app sideloading in Europe](https://www.computerworld.com/article/3710368/apple-gets-ready-for-app-sideloading-in-europe.html#tk.rss_all)
 - [UK’s Ofcom outlines draft codes of practice for enforcing online safety](https://www.computerworld.com/article/3710209/uk-s-ofcom-outlines-draft-codes-of-practice-for-enforcing-online-safety.html#tk.rss_all)
-- [How to keep remote workers connected to company culture](https://www.computerworld.com/article/3710168/how-to-keep-remote-workers-connected-to-company-culture.html#tk.rss_all)
-- [Samsung jumps on the generative AI bandwagon with Gauss](https://www.computerworld.com/article/3710248/samsung-jumps-on-the-generative-ai-bandwagon-with-gauss.html#tk.rss_all)
-- [The regulators are coming for Apple Pay](https://www.computerworld.com/article/3710091/the-regulators-are-coming-for-apple-pay.html#tk.rss_all)
-- [Android&#39;s hidden clipboard-sharing superpower](https://www.computerworld.com/article/3709971/android-clipboard-sharing.html#tk.rss_all)
-- [Windows Hello for Business: Passwordless authentication for Windows shops](https://www.computerworld.com/article/3220967/windows-hello-for-business-passwordless-authentication-for-windows-shops.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

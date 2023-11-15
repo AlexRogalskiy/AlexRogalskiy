@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Android App Devs now require 20 people to test before publishing to Play Store](https://techcrunch.com/2023/11/09/google-play-tightens-up-rules-for-android-app-developers-to-require-testing-increased-app-review/)
-- [James Cameron&#39;s the Abyss 4K Will Return to Theaters for Just One Day](https://www.ign.com/articles/james-camerons-the-abyss-4k-will-return-to-theaters-for-just-one-day)
-- [NYT Op-ed: Why Aren&#39;t More People Getting Married? Ask Women What Dating Is Like](https://www.nytimes.com/2023/11/11/opinion/marriage-women-men-dating.html)
-- [Kai-Fu Lee&#39;s Yi-34B uses Llama&#39;s architecture except for two tensors renamed](https://huggingface.co/01-ai/Yi-34B/discussions/11)
-- [&quot;But wait, what&#39;s an eel ship?&quot;](https://nitter.cz/greenleejw/status/1721569436296245525#m)
-- [PlanetScale Connector for JVM](https://github.com/elide-dev/planetscale-java)
-- [Share and Explore the interesting GPTs, just provide a link. GPT Share](https://www.gptshare.io/)
-- [Fedora 40: Transition to Zlib-ng as compatible replacement for Zlib](https://fedoraproject.org/wiki/Changes/MinizipNGTransition)
-- [Banning one Palestinian slogan roiled Etsy](https://www.platformer.news/p/how-banning-one-palestinian-slogan)
-- [Magic Patterns](https://www.magicpatterns.com/)
+- [The Economics Team at Instacart](https://tech.instacart.com/the-economics-team-at-instacart-94c48db951e8?gi=e86c85b847a0)
+- [How often do you hear about WFH directly saving lives?](https://news.ycombinator.com/item?id=38272519)
+- [Australia&#39;s top science agency faces scrutiny over industry influence](https://www.science.org/content/article/australia-s-top-science-agency-faces-scrutiny-over-industry-influence)
+- [LLM can invade privacy through benign questions. Common protections not working](https://arxiv.org/abs/2310.07298)
+- [35 VC firms have signed the voluntary Responsible AI commitments](https://twitter.com/htaneja/status/1724454074249273477)
+- [Making Content Is Worth It](https://dakinsmoderndata.substack.com/p/making-content-is-worth-it)
+- [Pushing SQLite to its limits with Go while having fun](https://www.terlici.com/2023/11/06/pushing-sqlite-limits.html)
+- [Cities file objections to $13B PFAS settlements with 3M and DuPont](https://news.bloomberglaw.com/environment-and-energy/cities-object-to-massive-pfas-settlements-with-3m-dupont)
+- [What hardware did Stephen Hawking use for writing?](https://news.ycombinator.com/item?id=38272372)
+- [CNN: 4Chan users weild AI in the wake of Hamas attacks](https://www.cnn.com/2023/11/14/us/hamas-israel-artificial-intelligence-hate-groups-invs/index.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

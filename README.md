@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
+- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
+- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
+- [Is this how Apple will support app sideloading in Europe?](https://www.computerworld.com/article/3710548/is-this-how-apple-will-support-app-sideloading-in-europe.html#tk.rss_all)
+- [Q&amp;A: NY Life exec says AI will reboot hiring, training, change management](https://www.computerworld.com/article/3710208/qa-ny-life-exec-says-ai-will-reboot-hiring-training-change-management.html#tk.rss_all)
 - [The evolution of Apple&#39;s iPhone](https://www.computerworld.com/article/3692531/evolution-of-apple-iphone.html#tk.rss_all)
 - [Open source is coming to the Apple enterprise with Fleet](https://www.computerworld.com/article/3710448/open-source-is-coming-to-the-apple-enterprise-with-fleet.html#tk.rss_all)
 - [Tech layoffs in 2023: A timeline](https://www.computerworld.com/article/3685936/tech-layoffs-in-2023-a-timeline.html#tk.rss_all)
 - [13 ways to speed up Windows 11](https://www.computerworld.com/article/3687056/how-to-speed-up-windows-11.html#tk.rss_all)
 - [How to use Google Sheets for project management](https://www.computerworld.com/article/3706028/how-to-use-google-sheets-for-project-management.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [How to manually update Microsoft Defender](https://www.computerworld.com/article/3645670/how-to-manually-update-microsoft-defender.html#tk.rss_all)
-- [17 ways to speed up Windows 10](https://www.computerworld.com/article/3029168/17-ways-to-speed-up-windows-10.html#tk.rss_all)
-- [Apple gets ready for app sideloading in Europe](https://www.computerworld.com/article/3710368/apple-gets-ready-for-app-sideloading-in-europe.html#tk.rss_all)
-- [UK’s Ofcom outlines draft codes of practice for enforcing online safety](https://www.computerworld.com/article/3710209/uk-s-ofcom-outlines-draft-codes-of-practice-for-enforcing-online-safety.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

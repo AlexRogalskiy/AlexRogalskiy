@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Israel-Hamas war live: Fuel shortage could stop aid delivery to Gaza, UN official warns; Biden calls for protection of al-Shifa hospital](https://www.theguardian.com/world/live/2023/nov/13/israel-hamas-war-live-updates-al-shifa-hospital-who-us-strikes-syria-palestine)
-- [‘Traumatic’: Paul Pelosi testifies on being attacked by man with hammer](https://www.theguardian.com/us-news/2023/nov/13/paul-nancy-pelosi-testimony-trial-david-depape-hammer)
-- [Russia-Ukraine war at a glance: what we know on day 629](https://www.theguardian.com/world/2023/nov/14/russia-ukraine-war-at-a-glance-what-we-know-on-day-629)
-- [US health officials warn of fruit pouches tainted with lead after 22 toddlers fall ill](https://www.theguardian.com/society/2023/nov/13/lead-poisoning-fruit-pouches-applesauce-wanabana-children-sick)
-- [Israel-Hamas war: what we know on day 40](https://www.theguardian.com/world/2023/nov/14/israel-hamas-war-what-we-know-on-day-40)
-- [Nepal says it will ban TikTok, citing effect on ‘social harmony’](https://www.theguardian.com/world/2023/nov/14/nepal-tiktok-ban-social-harmony-why)
-- [Ministers urged to expand cost of living support as MPs find Britons ‘slipping through net’](https://www.theguardian.com/business/2023/nov/14/cost-of-living-support-mps-committee)
-- [The Crown actor says events leading to Diana’s death must have been ‘unbearable’](https://www.theguardian.com/tv-and-radio/2023/nov/14/the-crown-actor-elizabeth-debicki-diana-princess-wales)
-- [Migrant workers face exploitation as result of post-Brexit scheme, says report](https://www.theguardian.com/uk-news/2023/nov/14/migrant-workers-face-exploitation-as-result-of-post-brexit-scheme-says-report)
-- [Egg and sperm donors in UK to lose right to anonymity at birth under new plans](https://www.theguardian.com/society/2023/nov/14/egg-and-sperm-donors-to-lose-right-to-anonymity-at-birth-under-proposed-laws)
+- [Israel-Hamas war live: Israeli military says it is carrying out operation inside Gaza’s al-Shifa hospital](https://www.theguardian.com/world/live/2023/nov/14/israel-hamas-war-live-updates-gaza-alshifa-hospital-staff-patients-trapped-israeli-drone-strike-west-bank-deaths-palestine)
+- [Russia-Ukraine war at a glance: what we know on day 630](https://www.theguardian.com/world/2023/nov/15/russia-ukraine-war-at-a-glance-what-we-know-on-day-630)
+- [‘Pachi pachi’ or ‘kachi kachi’? Japan launches foreigners’ guide to tricky world of onomatopoeia](https://www.theguardian.com/world/2023/nov/15/mie-prefecture-guide-pachi-pachi-or-kachi-kachi-a-foreigners-guide-to-the-tricky-world-of-japans-onomatopoeia)
+- [Flood protection plans for English homes cut by 40%](https://www.theguardian.com/environment/2023/nov/15/flooding-defence-protection-england-properties-cut-nao)
+- [Antibiotic-resistant infections rise in England but still below pre-Covid levels](https://www.theguardian.com/society/2023/nov/15/antibiotic-resistant-infections-rise-in-england-but-still-below-pre-covid-levels)
+- [NHS England boss to say cervical cancer can be eliminated by 2040](https://www.theguardian.com/society/2023/nov/15/nhs-england-boss-to-say-cervical-cancer-can-be-eliminated-by-2040)
+- [Napoleon review – Joaquin Phoenix makes a magnificent emperor in thrilling biopic](https://www.theguardian.com/film/2023/nov/15/napoleon-review-joaquin-phoenix-emperor-ridley-scott)
+- [‘Puking’ pūteketeke crowned New Zealand bird of the century after John Oliver campaign](https://www.theguardian.com/world/2023/nov/15/puteketeke-new-zealand-bird-of-the-century-winner-nz-john-oliver-campaign)
+- [Jannik Sinner ends Novak Djokovic’s winning streak with thrilling victory](https://www.theguardian.com/sport/2023/nov/14/stefanos-tsitsipas-retire-injury-holger-rune-atp-finals-novak-djokovic-jannik-sinner-tennis)
+- [‘Paying in lives’: health of billions at risk from global heating, warns report](https://www.theguardian.com/global-development/2023/nov/14/paying-in-lives-health-of-billions-at-risk-from-global-heating-warns-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Starship will attempt a launch this weekend](https://www.fly.faa.gov/adv/adv_spt.jsp)
-- [Ask HN: How to manage autistic developer?](https://news.ycombinator.com/item?id=38257769)
-- [America Is Getting Lonelier and More Indoorsy. That&#39;s Not a Coincidence](https://www.theatlantic.com/health/archive/2023/11/nature-avoidance-social-isolation-loneliness/675984/)
-- [Unlogged &lpar;YC S22&rpar; Is Hiring a founding back end engineer](https://news.ycombinator.com/item?id=38257499)
-- [Nepal bans TikTok and says it disrupts social harmony](https://apnews.com/article/nepal-tiktok-ban-social-media-854846a42ef566fa296ddaacd0099447)
-- [Google witness accidentally blurts out that Apple gets 36% cut of Safari deal](https://arstechnica.com/tech-policy/2023/11/google-witness-accidentally-blurts-out-that-apple-gets-36-cut-of-safari-deal/)
-- [Levels of AGI: Operationalizing Progress on the Path to AGI](https://arxiv.org/abs/2311.02462)
-- [Low current around roots boosts plant growth](https://www.nature.com/articles/d44151-023-00162-5)
-- [We&#39;ve learned nothing from the SolarWinds hack](https://www.macchaffee.com/blog/2023/solarwinds-hack-lessons-learned/)
-- [Zelle finally caves after years of refusing to refund scam victims](https://arstechnica.com/tech-policy/2023/11/zelle-finally-caves-after-years-of-refusing-to-refund-scam-victims/)
+- [The Architecture of Serverless Data Systems](https://jack-vanlightly.com/blog/2023/11/14/the-architecture-of-serverless-data-systems)
+- [U.S. reenters the nuclear fuel game](https://spectrum.ieee.org/nuclear-power-plant-2666199640)
+- [The O-Ring Theory of Economic Development &lpar;1993&rpar;](https://www.jstor.org/stable/2118400)
+- [ARRL hails FCC action to remove symbol rate restrictions](https://www.arrl.org/news/arrl-hails-fcc-action-to-remove-symbol-rate-restrictions)
+- [Detexify LaTeX Handwriting Symbol Recognition](https://detexify.kirelabs.org/classify.html)
+- [Why do people still use VBA?](https://sancarn.github.io/vba-articles/why-do-people-use-vba.html)
+- [How Caterpillars Gruesomely Transform into Butterflies](https://www.zmescience.com/feature-post/natural-sciences/animals/invertebrates/how-caterpillar-turn-butterfly-0534534/)
+- [Writing a GPT-4 script to check Wikipedia for the first unused acronym](https://gwern.net/tla)
+- [Is the reversal curse in LLMs real?](https://andrewmayne.com/2023/11/14/is-the-reversal-curse-real/)
+- [Ara2: RVV 1.0 Compliant Open-Source Processor](https://arxiv.org/abs/2311.07493)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

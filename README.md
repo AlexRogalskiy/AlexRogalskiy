@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Economics Team at Instacart](https://tech.instacart.com/the-economics-team-at-instacart-94c48db951e8?gi=e86c85b847a0)
-- [How often do you hear about WFH directly saving lives?](https://news.ycombinator.com/item?id=38272519)
-- [Australia&#39;s top science agency faces scrutiny over industry influence](https://www.science.org/content/article/australia-s-top-science-agency-faces-scrutiny-over-industry-influence)
-- [LLM can invade privacy through benign questions. Common protections not working](https://arxiv.org/abs/2310.07298)
-- [35 VC firms have signed the voluntary Responsible AI commitments](https://twitter.com/htaneja/status/1724454074249273477)
-- [Making Content Is Worth It](https://dakinsmoderndata.substack.com/p/making-content-is-worth-it)
-- [Pushing SQLite to its limits with Go while having fun](https://www.terlici.com/2023/11/06/pushing-sqlite-limits.html)
-- [Cities file objections to $13B PFAS settlements with 3M and DuPont](https://news.bloomberglaw.com/environment-and-energy/cities-object-to-massive-pfas-settlements-with-3m-dupont)
-- [What hardware did Stephen Hawking use for writing?](https://news.ycombinator.com/item?id=38272372)
-- [CNN: 4Chan users weild AI in the wake of Hamas attacks](https://www.cnn.com/2023/11/14/us/hamas-israel-artificial-intelligence-hate-groups-invs/index.html)
+- [Flagsmith or Unleash, Which Open Source Feature Flag Tool Wins in 2023?](https://www.featbit.co/blogs/flagsmith-vs-unleash)
+- [NACE: Statistical Classification of Economic Activities in the EU Community](https://en.wikipedia.org/wiki/Statistical_Classification_of_Economic_Activities_in_the_European_Community)
+- [Show HN: OpenOpenAI – OSS version of stateful Assistants API](https://github.com/transitive-bullshit/OpenOpenAI)
+- [Show HN: Lekchur – real-time speech transcription in the browser with Whisper](https://amanvir.com/lekchur)
+- [Clever raven solve puzzles [video]](https://www.youtube.com/shorts/srxWXqIJy5M)
+- [Show HN: PathMinifier – Reduce path-list size for LLM](https://path-minifier.jill64.dev)
+- [OpenAI RAG: A Step Forward or a Step Too Far?](https://omarkama.li/blog/openai-rag)
+- [Pepsi breathtaking design strategy &lpar;2008&rpar; [pdf]](https://www.goldennumber.net/wp-content/uploads/pepsi-arnell-021109.pdf)
+- [Ask HN: Can anybody get ChatGPT to make an image of a cow jumping over the moon?](https://news.ycombinator.com/item?id=38285097)
+- [How to avoid becoming Amazon Photos&#39; training data](https://ethanelasky.github.io/posts/amazon-images.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

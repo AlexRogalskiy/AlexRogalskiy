@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The Architecture of Serverless Data Systems](https://jack-vanlightly.com/blog/2023/11/14/the-architecture-of-serverless-data-systems)
-- [U.S. reenters the nuclear fuel game](https://spectrum.ieee.org/nuclear-power-plant-2666199640)
-- [The O-Ring Theory of Economic Development &lpar;1993&rpar;](https://www.jstor.org/stable/2118400)
-- [ARRL hails FCC action to remove symbol rate restrictions](https://www.arrl.org/news/arrl-hails-fcc-action-to-remove-symbol-rate-restrictions)
-- [Detexify LaTeX Handwriting Symbol Recognition](https://detexify.kirelabs.org/classify.html)
-- [Why do people still use VBA?](https://sancarn.github.io/vba-articles/why-do-people-use-vba.html)
-- [How Caterpillars Gruesomely Transform into Butterflies](https://www.zmescience.com/feature-post/natural-sciences/animals/invertebrates/how-caterpillar-turn-butterfly-0534534/)
-- [Writing a GPT-4 script to check Wikipedia for the first unused acronym](https://gwern.net/tla)
-- [Is the reversal curse in LLMs real?](https://andrewmayne.com/2023/11/14/is-the-reversal-curse-real/)
-- [Ara2: RVV 1.0 Compliant Open-Source Processor](https://arxiv.org/abs/2311.07493)
+- [SQLite4: The Design of SQLite4](https://sqlite.org/src4/doc/trunk/www/design.wiki)
+- [Common pesticides in food reducing sperm count worldwide, study says](https://www.cnn.com/2023/11/15/health/sperm-damage-pesticides-wellness/index.html)
+- [The Guardian Deletes Osama Bin Laden&#39;s &#39;Letter to America&#39;](https://www.404media.co/guardian-deletes-osama-bin-ladens-letter-to-america-after-it-goes-viral-on-tiktok/)
+- [&quot;Grand Ball Given by the Whales,&quot; Vanity Fair, April 20, 1861](https://energyhistory.yale.edu/grand-ball-given-by-the-whales-vanity-fair-april-20-1861/)
+- [Double-Checking Dawkins &lpar;2007&rpar;](https://blog.jgc.org/2007/12/double-checking-dawkins.html?m=1)
+- [Push ifs up and fors down](https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html)
+- [Language models and linguistic theories beyond words](https://www.nature.com/articles/s42256-023-00703-8)
+- [Porting Stunt Car Racer to the Apple II](https://cobbpg.github.io/articles/stunt-car-racer-apple2-port.html)
+- [Blender 16yo winner of UK young animator of the year](https://younganimator.uk/winner/1699875910225x437970782709919500)
+- [Is my toddler a stochastic parrot?](https://www.newyorker.com/humor/sketchbook/is-my-toddler-a-stochastic-parrot)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

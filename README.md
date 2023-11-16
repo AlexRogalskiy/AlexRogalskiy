@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Israel-Hamas war live: Israeli military says it is carrying out operation inside Gaza’s al-Shifa hospital](https://www.theguardian.com/world/live/2023/nov/14/israel-hamas-war-live-updates-gaza-alshifa-hospital-staff-patients-trapped-israeli-drone-strike-west-bank-deaths-palestine)
-- [Russia-Ukraine war at a glance: what we know on day 630](https://www.theguardian.com/world/2023/nov/15/russia-ukraine-war-at-a-glance-what-we-know-on-day-630)
-- [‘Pachi pachi’ or ‘kachi kachi’? Japan launches foreigners’ guide to tricky world of onomatopoeia](https://www.theguardian.com/world/2023/nov/15/mie-prefecture-guide-pachi-pachi-or-kachi-kachi-a-foreigners-guide-to-the-tricky-world-of-japans-onomatopoeia)
-- [Flood protection plans for English homes cut by 40%](https://www.theguardian.com/environment/2023/nov/15/flooding-defence-protection-england-properties-cut-nao)
-- [Antibiotic-resistant infections rise in England but still below pre-Covid levels](https://www.theguardian.com/society/2023/nov/15/antibiotic-resistant-infections-rise-in-england-but-still-below-pre-covid-levels)
-- [NHS England boss to say cervical cancer can be eliminated by 2040](https://www.theguardian.com/society/2023/nov/15/nhs-england-boss-to-say-cervical-cancer-can-be-eliminated-by-2040)
-- [Napoleon review – Joaquin Phoenix makes a magnificent emperor in thrilling biopic](https://www.theguardian.com/film/2023/nov/15/napoleon-review-joaquin-phoenix-emperor-ridley-scott)
-- [‘Puking’ pūteketeke crowned New Zealand bird of the century after John Oliver campaign](https://www.theguardian.com/world/2023/nov/15/puteketeke-new-zealand-bird-of-the-century-winner-nz-john-oliver-campaign)
-- [Jannik Sinner ends Novak Djokovic’s winning streak with thrilling victory](https://www.theguardian.com/sport/2023/nov/14/stefanos-tsitsipas-retire-injury-holger-rune-atp-finals-novak-djokovic-jannik-sinner-tennis)
-- [‘Paying in lives’: health of billions at risk from global heating, warns report](https://www.theguardian.com/global-development/2023/nov/14/paying-in-lives-health-of-billions-at-risk-from-global-heating-warns-report)
+- [Biden: China and US military to resume ‘open, clear communications on a direct basis’ – live](https://www.theguardian.com/us-news/live/2023/nov/15/us-china-biden-xi-meeting-republicans-congress-politics-latest-updates)
+- [Israel-Hamas war live: Israel says UN resolution ‘detached from the reality on the ground’ as forces withdraw from al-Shifa hospital](https://www.theguardian.com/world/live/2023/nov/15/israel-hamas-war-live-updates-israeli-military-al-shifa-hospital-gaza-operation)
+- [Russia-Ukraine war at a glance: what we know on day 631](https://www.theguardian.com/world/2023/nov/16/russia-ukraine-war-at-a-glance-what-we-know-on-day-631)
+- [Contraceptive pill to be available on high street without need for GP visit](https://www.theguardian.com/uk-news/2023/nov/16/contraceptive-pill-to-be-available-on-high-street-without-need-for-gp-visit)
+- [UK to offer higher subsidies for offshore windfarms after crisis talks](https://www.theguardian.com/environment/2023/nov/16/uk-to-offer-higher-subsidies-for-offshore-windfarms-after-crisis-talks)
+- [One in three people in UK had problem with last parcel delivery, research shows](https://www.theguardian.com/business/2023/nov/16/uk-parcel-delivery-problems-citizens-advice-evri-yodel)
+- [Brave Labour MPs have voted with their conscience. Where is Keir Starmer&#39;s? | Owen Jones](https://www.theguardian.com/commentisfree/2023/nov/15/brave-labour-mps-have-voted-with-their-conscience-where-is-keir-starmers)
+- [Medvedev eases past Zverev into semis at ATP Finals after Alcaraz hits back](https://www.theguardian.com/sport/2023/nov/15/carlos-alcaraz-beats-andrey-rublev-atp-finals-tennis-)
+- [Girl, 12, arrested over fatal stabbing of woman in Melbourne](https://www.theguardian.com/australia-news/2023/nov/16/melbourne-stabbing-death-girl-12-arrested-footscray)
+- [‘It’s my time’: Cole Palmer’s belief shines through before England debut](https://www.theguardian.com/football/2023/nov/15/its-my-time-cole-palmers-belief-shines-through-before-england-debut)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

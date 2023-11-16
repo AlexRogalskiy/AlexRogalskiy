@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Nothing announces iMessage support for Android](https://www.computerworld.com/article/3710494/nothing-announces-imessage-support-for-android.html#tk.rss_all)
+- [14 handy hidden tricks for Google Calendar on Android](https://www.computerworld.com/article/3390992/google-calendar-android.html#tk.rss_all)
+- [With Copilot Studio, businesses can customize Microsoft’s genAI assistant](https://www.computerworld.com/article/3710629/with-copilot-studio-businesses-can-customize-microsofts-genai-assistant.html#tk.rss_all)
+- [Microsoft combines Copilot AI with mixed reality for industrial workers](https://www.computerworld.com/article/3710292/microsoft-combines-copilot-ai-with-mixed-reality-for-industrial-workers.html#tk.rss_all)
+- [Global semiconductor sales to jump 20% in 2024: IDC](https://www.computerworld.com/article/3710570/global-semiconductor-sales-to-jump-20-in-2024-idc.html#tk.rss_all)
+- [The end of the standalone application](https://www.computerworld.com/article/3710389/the-end-of-the-standalone-application.html#tk.rss_all)
+- [How to use the secret software installer on your Windows PC](https://www.computerworld.com/article/3710333/how-to-use-the-secret-software-installer-on-your-windows-pc.html#tk.rss_all)
 - [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
 - [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
 - [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
-- [Is this how Apple will support app sideloading in Europe?](https://www.computerworld.com/article/3710548/is-this-how-apple-will-support-app-sideloading-in-europe.html#tk.rss_all)
-- [Q&amp;A: NY Life exec says AI will reboot hiring, training, change management](https://www.computerworld.com/article/3710208/qa-ny-life-exec-says-ai-will-reboot-hiring-training-change-management.html#tk.rss_all)
-- [The evolution of Apple&#39;s iPhone](https://www.computerworld.com/article/3692531/evolution-of-apple-iphone.html#tk.rss_all)
-- [Open source is coming to the Apple enterprise with Fleet](https://www.computerworld.com/article/3710448/open-source-is-coming-to-the-apple-enterprise-with-fleet.html#tk.rss_all)
-- [Tech layoffs in 2023: A timeline](https://www.computerworld.com/article/3685936/tech-layoffs-in-2023-a-timeline.html#tk.rss_all)
-- [13 ways to speed up Windows 11](https://www.computerworld.com/article/3687056/how-to-speed-up-windows-11.html#tk.rss_all)
-- [How to use Google Sheets for project management](https://www.computerworld.com/article/3706028/how-to-use-google-sheets-for-project-management.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
+- [Dell cuddles up to Hugging Face to offer genAI to customers](https://www.computerworld.com/article/3710869/dell-cuddles-up-to-hugging-face-to-offer-genai-to-customers.html#tk.rss_all)
+- [Meta and ByteDance dispute gatekeeper status of platforms under EU’s DMA](https://www.computerworld.com/article/3710849/meta-and-bytedance-dispute-gatekeeper-status-of-platforms-under-eu-s-dma.html#tk.rss_all)
+- [Google’s deal with Apple looms large as antitrust trial winds down](https://www.computerworld.com/article/3710868/googles-deal-with-apple-looms-large-as-antitrust-trial-winds-down.html#tk.rss_all)
+- [OpenAI&#39;s ChatGPT turns one year old; what it did &lpar;and didn&#39;t do&rpar;](https://www.computerworld.com/article/3710293/openais-chatgpt-turns-one-year-old-what-it-did-and-didnt-do.html#tk.rss_all)
+- [Your employees are likely passing off AI-generated work as their own: Report](https://www.computerworld.com/article/3710808/your-employees-are-likely-passing-off-ai-generated-work-as-their-own-report.html#tk.rss_all)
+- [Microsoft to add Project features to its new unified Planner work management app](https://www.computerworld.com/article/3710728/microsoft-to-add-project-features-to-its-new-unified-planner-work-management-app.html#tk.rss_all)
 - [Nothing announces iMessage support for Android](https://www.computerworld.com/article/3710494/nothing-announces-imessage-support-for-android.html#tk.rss_all)
 - [14 handy hidden tricks for Google Calendar on Android](https://www.computerworld.com/article/3390992/google-calendar-android.html#tk.rss_all)
-- [With Copilot Studio, businesses can customize Microsoft’s genAI assistant](https://www.computerworld.com/article/3710629/with-copilot-studio-businesses-can-customize-microsofts-genai-assistant.html#tk.rss_all)
-- [Microsoft combines Copilot AI with mixed reality for industrial workers](https://www.computerworld.com/article/3710292/microsoft-combines-copilot-ai-with-mixed-reality-for-industrial-workers.html#tk.rss_all)
-- [Global semiconductor sales to jump 20% in 2024: IDC](https://www.computerworld.com/article/3710570/global-semiconductor-sales-to-jump-20-in-2024-idc.html#tk.rss_all)
-- [The end of the standalone application](https://www.computerworld.com/article/3710389/the-end-of-the-standalone-application.html#tk.rss_all)
-- [How to use the secret software installer on your Windows PC](https://www.computerworld.com/article/3710333/how-to-use-the-secret-software-installer-on-your-windows-pc.html#tk.rss_all)
-- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
-- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
-- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

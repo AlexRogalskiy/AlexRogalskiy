@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Flagsmith or Unleash, Which Open Source Feature Flag Tool Wins in 2023?](https://www.featbit.co/blogs/flagsmith-vs-unleash)
-- [NACE: Statistical Classification of Economic Activities in the EU Community](https://en.wikipedia.org/wiki/Statistical_Classification_of_Economic_Activities_in_the_European_Community)
-- [Show HN: OpenOpenAI – OSS version of stateful Assistants API](https://github.com/transitive-bullshit/OpenOpenAI)
-- [Show HN: Lekchur – real-time speech transcription in the browser with Whisper](https://amanvir.com/lekchur)
-- [Clever raven solve puzzles [video]](https://www.youtube.com/shorts/srxWXqIJy5M)
-- [Show HN: PathMinifier – Reduce path-list size for LLM](https://path-minifier.jill64.dev)
-- [OpenAI RAG: A Step Forward or a Step Too Far?](https://omarkama.li/blog/openai-rag)
-- [Pepsi breathtaking design strategy &lpar;2008&rpar; [pdf]](https://www.goldennumber.net/wp-content/uploads/pepsi-arnell-021109.pdf)
-- [Ask HN: Can anybody get ChatGPT to make an image of a cow jumping over the moon?](https://news.ycombinator.com/item?id=38285097)
-- [How to avoid becoming Amazon Photos&#39; training data](https://ethanelasky.github.io/posts/amazon-images.html)
+- [Show HN: Run a serverless P2P blog and chat from your terminal](https://github.com/00000o1/janus)
+- [Cool Power](https://thedailywtf.com/articles/cool-power)
+- [Summon a Demon and Bind It: A Grounded Theory of LLM Red Teaming in the Wild](https://arxiv.org/abs/2311.06237)
+- [Curiosity driven learning of joint locomotion and manipulation tasks [video]](https://www.youtube.com/watch?v=Qob2k_ldLuw)
+- [Ask HN: What skills have you gained in 2023 so far?](https://news.ycombinator.com/item?id=38298328)
+- [A Crack in the Wall: Bassam Aramin and Rami Elhanan [video]](https://www.youtube.com/watch?v=zd8uO5ciJAM)
+- [Old Manifest V2 Chrome extensions will be disabled in 2024](https://9to5google.com/2023/11/16/chrome-extensions-disabled/)
+- [How to Use Super Glue](https://www.popularmechanics.com/home/tools/a45724879/the-secret-behind-super-glue/)
+- [IBM suspends ads on X after they appeared next to Nazi posts](https://www.bbc.com/news/world-us-canada-67446797)
+- [EXoDOS 6 released – the most thorough DOS preservation project](https://www.retro-exo.com/exodos.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

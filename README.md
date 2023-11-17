@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Biden: China and US military to resume ‘open, clear communications on a direct basis’ – live](https://www.theguardian.com/us-news/live/2023/nov/15/us-china-biden-xi-meeting-republicans-congress-politics-latest-updates)
-- [Israel-Hamas war live: Israel says UN resolution ‘detached from the reality on the ground’ as forces withdraw from al-Shifa hospital](https://www.theguardian.com/world/live/2023/nov/15/israel-hamas-war-live-updates-israeli-military-al-shifa-hospital-gaza-operation)
-- [Russia-Ukraine war at a glance: what we know on day 631](https://www.theguardian.com/world/2023/nov/16/russia-ukraine-war-at-a-glance-what-we-know-on-day-631)
-- [Contraceptive pill to be available on high street without need for GP visit](https://www.theguardian.com/uk-news/2023/nov/16/contraceptive-pill-to-be-available-on-high-street-without-need-for-gp-visit)
-- [UK to offer higher subsidies for offshore windfarms after crisis talks](https://www.theguardian.com/environment/2023/nov/16/uk-to-offer-higher-subsidies-for-offshore-windfarms-after-crisis-talks)
-- [One in three people in UK had problem with last parcel delivery, research shows](https://www.theguardian.com/business/2023/nov/16/uk-parcel-delivery-problems-citizens-advice-evri-yodel)
-- [Brave Labour MPs have voted with their conscience. Where is Keir Starmer&#39;s? | Owen Jones](https://www.theguardian.com/commentisfree/2023/nov/15/brave-labour-mps-have-voted-with-their-conscience-where-is-keir-starmers)
-- [Medvedev eases past Zverev into semis at ATP Finals after Alcaraz hits back](https://www.theguardian.com/sport/2023/nov/15/carlos-alcaraz-beats-andrey-rublev-atp-finals-tennis-)
-- [Girl, 12, arrested over fatal stabbing of woman in Melbourne](https://www.theguardian.com/australia-news/2023/nov/16/melbourne-stabbing-death-girl-12-arrested-footscray)
-- [‘It’s my time’: Cole Palmer’s belief shines through before England debut](https://www.theguardian.com/football/2023/nov/15/its-my-time-cole-palmers-belief-shines-through-before-england-debut)
+- [From China&#39;s emissions to Australia&#39;s offshore windfarms, things are moving on climate – some even in the right direction | Adam Morton](https://www.theguardian.com/environment/commentisfree/2023/nov/17/from-chinas-emissions-to-australias-offshore-windfarms-things-are-moving-on-climate-some-of-it-even-in-the-right-direction)
+- [Elon Musk agrees with tweet accusing Jews of ‘hatred against whites’](https://www.theguardian.com/technology/2023/nov/16/elon-musk-antisemitic-tweet-adl)
+- [Stolen car’s 1,000km journey ends when it crashes into 30 vehicles during Sydney police pursuit](https://www.theguardian.com/australia-news/2023/nov/17/queensland-stolen-car-crashes-into-30-cars-sydney-surry-hills-nsw-police-pursuit)
+- [‘Flip-flopping’ has cost UK billions in investment cash since 2010, says report](https://www.theguardian.com/politics/2023/nov/17/flip-flopping-cost-uk-billions-investment-cash-since-2010)
+- [Therapy could be offered to women suffering menopause symptoms](https://www.theguardian.com/society/2023/nov/17/therapy-could-be-offered-to-women-suffering-menopause-symptoms)
+- [Weapons banned in UK apparently found on shopping app Temu](https://www.theguardian.com/money/2023/nov/17/weapons-banned-in-uk-apparently-found-on-shopping-app-temu-which)
+- [Apple agrees to improve texting between iPhones and Androids](https://www.theguardian.com/technology/2023/nov/16/apple-iphones-android-google-rcs-texting)
+- [Mistrial for officer who fired during Breonna Taylor raid as jury deadlocked](https://www.theguardian.com/us-news/2023/nov/16/brett-hankison-breonna-taylor-jury-verdict-mistrial)
+- [Jannik Sinner clinches semi-final spot at ATP Finals alongside Novak Djokovic](https://www.theguardian.com/sport/2023/nov/16/atp-finals-novak-djokovic-hurkacz-sinner-rune)
+- [Euro 2024: Hungary book place with late leveller, Sweden humbled by Azerbaijan](https://www.theguardian.com/football/2023/nov/16/euro-2024-hungary-sweden-azerbaijan-portugal-slovakia-luxembourg)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

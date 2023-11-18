@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: Run a serverless P2P blog and chat from your terminal](https://github.com/00000o1/janus)
-- [Cool Power](https://thedailywtf.com/articles/cool-power)
-- [Summon a Demon and Bind It: A Grounded Theory of LLM Red Teaming in the Wild](https://arxiv.org/abs/2311.06237)
-- [Curiosity driven learning of joint locomotion and manipulation tasks [video]](https://www.youtube.com/watch?v=Qob2k_ldLuw)
-- [Ask HN: What skills have you gained in 2023 so far?](https://news.ycombinator.com/item?id=38298328)
-- [A Crack in the Wall: Bassam Aramin and Rami Elhanan [video]](https://www.youtube.com/watch?v=zd8uO5ciJAM)
-- [Old Manifest V2 Chrome extensions will be disabled in 2024](https://9to5google.com/2023/11/16/chrome-extensions-disabled/)
-- [How to Use Super Glue](https://www.popularmechanics.com/home/tools/a45724879/the-secret-behind-super-glue/)
-- [IBM suspends ads on X after they appeared next to Nazi posts](https://www.bbc.com/news/world-us-canada-67446797)
-- [EXoDOS 6 released – the most thorough DOS preservation project](https://www.retro-exo.com/exodos.html)
+- [The End of Innocence: What Happened After Apple Fired Steve Jobs](https://www.wired.com/2011/08/the-end-of-inno/)
+- [Unusual weather may have helped Ukrainian military sink Russian warship](https://www.science.org/content/article/unusual-weather-may-have-helped-ukrainian-military-sink-russian-warship)
+- [Project Wonder is the largest open source collection of reusable WebObjects](https://github.com/wocommunity/wonder)
+- [Identifying fake news will now be a school requirement in California](https://ktla.com/news/california/identifying-fake-news-will-now-be-a-school-requirement-in-california/)
+- [Pathogenic bacteria build an iron-storage system for growth survival their hosts](https://www.nature.com/articles/d41586-023-03367-x)
+- [UK offshore wind is no longer a bargain, but is still better than alternatives](https://www.theguardian.com/business/nils-pratley-on-finance/2023/nov/16/uk-offshore-wind-subsidies-price-gas)
+- [UK first to approve CRISPR treatment for diseases: what you need to know](https://www.nature.com/articles/d41586-023-03590-6)
+- [EU allows use of controversial weedkiller glyphosate for 10 more years](https://www.nature.com/articles/d41586-023-03589-z)
+- [Jeremy Howard: &quot;OpenAI is not going to make it&quot;](https://twitter.com/HamelHusain/status/1725655686913392933)
+- [OpenAI &quot;Is Not Gonna Make It&quot;](https://twitter.com/hamelhusain/status/1725655686913392933?s=46&t=0No1EuihB3CKrztIs-MFEQ)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

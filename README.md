@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [OpenAI jettisons CEO Sam Altman for dishonesty](https://www.computerworld.com/article/3710951/openai-jettisons-ceo-sam-altman-for-dishonesty.html#tk.rss_all)
+- [Critical zero-day flaws in Windows, Office mean it&#39;s time to patch](https://www.computerworld.com/article/3710990/critical-zero-day-flaws-in-windows-office-mean-its-time-to-patch.html#tk.rss_all)
+- [Google Workspace tips and tutorials](https://www.computerworld.com/article/3704811/how-to-use-google-workspace-tips-tutorials-cheat-sheets.html#tk.rss_all)
+- [US trade restrictions have done little to curb Chinese chip manufacturing](https://www.computerworld.com/article/3710950/us-trade-restrictions-have-done-little-to-curb-chinese-chip-manufacturing.html#tk.rss_all)
+- [Microsoft welcomes Biden’s new AI order — is that a good thing or bad?](https://www.computerworld.com/article/3710330/microsoft-welcomes-bidens-new-ai-order-is-that-a-good-thing-or-bad.html#tk.rss_all)
+- [Applied Materials faces probe in the US for shipping chip equipment to China](https://www.computerworld.com/article/3710988/applied-materials-faces-probe-in-the-us-for-shipping-chip-equipment-to-china.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
 - [Dell cuddles up to Hugging Face to offer genAI to customers](https://www.computerworld.com/article/3710869/dell-cuddles-up-to-hugging-face-to-offer-genai-to-customers.html#tk.rss_all)
 - [Meta and ByteDance dispute gatekeeper status of platforms under EU’s DMA](https://www.computerworld.com/article/3710849/meta-and-bytedance-dispute-gatekeeper-status-of-platforms-under-eu-s-dma.html#tk.rss_all)
-- [Google’s deal with Apple looms large as antitrust trial winds down](https://www.computerworld.com/article/3710868/googles-deal-with-apple-looms-large-as-antitrust-trial-winds-down.html#tk.rss_all)
-- [OpenAI&#39;s ChatGPT turns one year old; what it did &lpar;and didn&#39;t do&rpar;](https://www.computerworld.com/article/3710293/openais-chatgpt-turns-one-year-old-what-it-did-and-didnt-do.html#tk.rss_all)
-- [Your employees are likely passing off AI-generated work as their own: Report](https://www.computerworld.com/article/3710808/your-employees-are-likely-passing-off-ai-generated-work-as-their-own-report.html#tk.rss_all)
-- [Microsoft to add Project features to its new unified Planner work management app](https://www.computerworld.com/article/3710728/microsoft-to-add-project-features-to-its-new-unified-planner-work-management-app.html#tk.rss_all)
-- [Nothing announces iMessage support for Android](https://www.computerworld.com/article/3710494/nothing-announces-imessage-support-for-android.html#tk.rss_all)
-- [14 handy hidden tricks for Google Calendar on Android](https://www.computerworld.com/article/3390992/google-calendar-android.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

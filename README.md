@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Old Manifest V2 Chrome extensions will be disabled in 2024](https://9to5google.com/2023/11/16/chrome-extensions-disabled/)
-- [Portugal just ran on 100% renewables for six days in a row](https://www.canarymedia.com/articles/clean-energy/portugal-just-ran-on-100-renewables-for-six-days-in-a-row)
-- [The Tesla Semi from an Insider&#39;s View After One Year: &quot;Hot Mess&quot;](https://bradmunchen.substack.com/p/scoop-the-tesla-semi-from-an-insiders)
-- [Anomalous propagation and the sinking of the Russian warship Moskva](https://journals.ametsoc.org/view/journals/bams/aop/BAMS-D-23-0113.1/BAMS-D-23-0113.1.xml)
-- [Justice Dept Says Collusion Suit Against Apartment Owners Should Move Forward](https://www.wsj.com/us-news/law/justice-department-clears-the-way-for-collusion-suit-against-apartment-owners-e545f260)
-- [Pointer Pointer](https://pointerpointer.com/)
-- [Stable Fiddusion: Frequency-domain blue noise generator](https://acko.net/blog/stable-fiddusion/)
-- [In-person YC Startup Tech Talk and hiring mixer on 12/4 in SF](https://news.ycombinator.com/item?id=38295638)
-- [OCapN, Interoperable Capabilities over the Network](https://spritely.institute/news/introducing-ocapn-interoperable-capabilities-over-the-network.html)
-- [Planning for Unplanned Work in Linear](https://linear.app/blog/planning-for-unplanned-work)
+- [Jeremy Howard: &quot;OpenAI is not going to make it&quot;](https://twitter.com/HamelHusain/status/1725655686913392933)
+- [LMAX Disruptor – High Performance Inter-Thread Messaging Library](https://lmax-exchange.github.io/disruptor/)
+- [Yuzu Progress Report October 2023](https://yuzu-emu.org/entry/yuzu-progress-report-oct-2023/)
+- [Greg Brockman quits OpenAI](https://twitter.com/gdb/status/1725667410387378559?s=20)
+- [I Hacked the Magic Mouse](https://uplab.pro/2023/11/i-hacked-the-magic-mouse/)
+- [Microsoft was blindsided by OpenAI&#39;s ouster of CEO Sam Altman](https://www.axios.com/2023/11/17/microsoft-openai-sam-altman-ouster)
+- [The floating desalination machines powered by the waves](https://www.bbc.co.uk/news/business-67237006)
+- [Meta&#39;s head of augmented reality software stepping down](https://www.reuters.com/technology/metas-head-augmented-reality-software-stepping-down-2023-11-17/)
+- [Show HN: nbi.ai – Generative Business Intelligence](https://www.narrative.bi/ai)
+- [Upcodes &lpar;YC S17&rpar; is hiring a recruiter to help build out remote team](https://up.codes/careers?utm_source=HN)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [From China&#39;s emissions to Australia&#39;s offshore windfarms, things are moving on climate – some even in the right direction | Adam Morton](https://www.theguardian.com/environment/commentisfree/2023/nov/17/from-chinas-emissions-to-australias-offshore-windfarms-things-are-moving-on-climate-some-of-it-even-in-the-right-direction)
-- [Elon Musk agrees with tweet accusing Jews of ‘hatred against whites’](https://www.theguardian.com/technology/2023/nov/16/elon-musk-antisemitic-tweet-adl)
-- [Stolen car’s 1,000km journey ends when it crashes into 30 vehicles during Sydney police pursuit](https://www.theguardian.com/australia-news/2023/nov/17/queensland-stolen-car-crashes-into-30-cars-sydney-surry-hills-nsw-police-pursuit)
-- [‘Flip-flopping’ has cost UK billions in investment cash since 2010, says report](https://www.theguardian.com/politics/2023/nov/17/flip-flopping-cost-uk-billions-investment-cash-since-2010)
-- [Therapy could be offered to women suffering menopause symptoms](https://www.theguardian.com/society/2023/nov/17/therapy-could-be-offered-to-women-suffering-menopause-symptoms)
-- [Weapons banned in UK apparently found on shopping app Temu](https://www.theguardian.com/money/2023/nov/17/weapons-banned-in-uk-apparently-found-on-shopping-app-temu-which)
-- [Apple agrees to improve texting between iPhones and Androids](https://www.theguardian.com/technology/2023/nov/16/apple-iphones-android-google-rcs-texting)
-- [Mistrial for officer who fired during Breonna Taylor raid as jury deadlocked](https://www.theguardian.com/us-news/2023/nov/16/brett-hankison-breonna-taylor-jury-verdict-mistrial)
-- [Jannik Sinner clinches semi-final spot at ATP Finals alongside Novak Djokovic](https://www.theguardian.com/sport/2023/nov/16/atp-finals-novak-djokovic-hurkacz-sinner-rune)
-- [Euro 2024: Hungary book place with late leveller, Sweden humbled by Azerbaijan](https://www.theguardian.com/football/2023/nov/16/euro-2024-hungary-sweden-azerbaijan-portugal-slovakia-luxembourg)
+- [Israel-Hamas war live: Israeli forces ‘determined to advance’ including in southern Gaza, says IDF](https://www.theguardian.com/world/live/2023/nov/17/israel-hamas-war-live-updates-gaza-starvation-idf-raid-jenin-refugee-camp-palestine-ceasefire-calls)
+- [Apple, Disney and IBM to pause ads on X after antisemitic Elon Musk tweet](https://www.theguardian.com/technology/2023/nov/17/elon-musk-antisemitic-tweet-apple-pausing-ads)
+- [Trump unleashes outrage at court clerk online barely an hour after gag order paused](https://www.theguardian.com/us-news/2023/nov/17/trump-gag-order-social-media-posts)
+- [OpenAI fires co-founder and CEO Sam Altman for allegedly lying to company board](https://www.theguardian.com/technology/2023/nov/17/openai-ceo-sam-altman-fired)
+- [One killed in New Hampshire hospital shooting, police say](https://www.theguardian.com/us-news/2023/nov/17/new-hampshire-hospital-shooting)
+- [David Cameron ‘wants to unlock billions of dollars for foreign aid’](https://www.theguardian.com/global-development/2023/nov/18/david-cameron-wants-to-unlock-billions-of-dollars-for-foreign-aid)
+- [Israel and Poland’s Under-21 players hold unauthorised minute’s silence](https://www.theguardian.com/sport/2023/nov/17/israel-and-polands-under-21-players-hold-unauthorised-minutes-silence)
+- [Texas: Republican-controlled school board votes against climate textbooks](https://www.theguardian.com/us-news/2023/nov/17/texas-republican-school-board-climate-textbooks)
+- [French senator charged on suspicion of drugging MP with intent to commit rape](https://www.theguardian.com/world/2023/nov/17/french-senator-joel-guerriau-arrested-suspicion-drugging-mp)
+- [Disgraced lawyer Alex Murdaugh pleads guilty to stealing millions from clients](https://www.theguardian.com/us-news/2023/nov/17/alex-murdaugh-pleads-guilty-fraud-money-laundering)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

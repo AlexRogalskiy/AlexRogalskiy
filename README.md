@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The End of Innocence: What Happened After Apple Fired Steve Jobs](https://www.wired.com/2011/08/the-end-of-inno/)
-- [Unusual weather may have helped Ukrainian military sink Russian warship](https://www.science.org/content/article/unusual-weather-may-have-helped-ukrainian-military-sink-russian-warship)
-- [Project Wonder is the largest open source collection of reusable WebObjects](https://github.com/wocommunity/wonder)
-- [Identifying fake news will now be a school requirement in California](https://ktla.com/news/california/identifying-fake-news-will-now-be-a-school-requirement-in-california/)
-- [Pathogenic bacteria build an iron-storage system for growth survival their hosts](https://www.nature.com/articles/d41586-023-03367-x)
-- [UK offshore wind is no longer a bargain, but is still better than alternatives](https://www.theguardian.com/business/nils-pratley-on-finance/2023/nov/16/uk-offshore-wind-subsidies-price-gas)
-- [UK first to approve CRISPR treatment for diseases: what you need to know](https://www.nature.com/articles/d41586-023-03590-6)
-- [EU allows use of controversial weedkiller glyphosate for 10 more years](https://www.nature.com/articles/d41586-023-03589-z)
-- [Jeremy Howard: &quot;OpenAI is not going to make it&quot;](https://twitter.com/HamelHusain/status/1725655686913392933)
-- [OpenAI &quot;Is Not Gonna Make It&quot;](https://twitter.com/hamelhusain/status/1725655686913392933?s=46&t=0No1EuihB3CKrztIs-MFEQ)
+- [Any good, independent site hosting deals around?](https://news.ycombinator.com/item?id=38327728)
+- [59% of 18-25 year olds in the United States are overweight or obese](https://jamanetwork.com/journals/jama/fullarticle/2786516)
+- [OpenAI staff to the Board: &quot;Bring Sam and Greg back, or we all resign&quot;](https://twitter.com/blader/status/1726058402542244106)
+- [What Elon Musk has said about Ilya Sutskever](https://fortune.com/2023/11/18/elon-musk-ilya-sutskever-openai-leadership-upheaval-sam-altman/)
+- [Load Raw 6502 code into your [Web Based] Emulator [video]](https://www.youtube.com/watch?v=fyZxqCN1vfg)
+- [Update on the OpenAI drama: Altman and the board had till 5pm to reach a truce](https://twitter.com/alexeheath/status/1726055095341875545)
+- [Typehere.cc](https://typehere.cc/)
+- [Trump vows to kill Asia trade deal being pursued by Biden if elected](https://www.reuters.com/world/us/trump-vows-kill-asia-trade-deal-being-pursued-by-biden-if-elected-2023-11-19/)
+- [Waymark founder has 37 family members killed by Israel in airstrike](https://twitter.com/RBatniji/status/1726035882107716035)
+- [&quot;Chicken Run&quot; studio Aardman is apparently running out of clay](https://www.avclub.com/chicken-run-studio-aardman-is-apparently-running-out-of-1851033934)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

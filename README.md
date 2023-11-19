@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Jeremy Howard: &quot;OpenAI is not going to make it&quot;](https://twitter.com/HamelHusain/status/1725655686913392933)
-- [LMAX Disruptor – High Performance Inter-Thread Messaging Library](https://lmax-exchange.github.io/disruptor/)
-- [Yuzu Progress Report October 2023](https://yuzu-emu.org/entry/yuzu-progress-report-oct-2023/)
-- [Greg Brockman quits OpenAI](https://twitter.com/gdb/status/1725667410387378559?s=20)
-- [I Hacked the Magic Mouse](https://uplab.pro/2023/11/i-hacked-the-magic-mouse/)
-- [Microsoft was blindsided by OpenAI&#39;s ouster of CEO Sam Altman](https://www.axios.com/2023/11/17/microsoft-openai-sam-altman-ouster)
-- [The floating desalination machines powered by the waves](https://www.bbc.co.uk/news/business-67237006)
-- [Meta&#39;s head of augmented reality software stepping down](https://www.reuters.com/technology/metas-head-augmented-reality-software-stepping-down-2023-11-17/)
-- [Show HN: nbi.ai – Generative Business Intelligence](https://www.narrative.bi/ai)
-- [Upcodes &lpar;YC S17&rpar; is hiring a recruiter to help build out remote team](https://up.codes/careers?utm_source=HN)
+- [Update on the OpenAI drama: Altman and the board had till 5pm to reach a truce](https://twitter.com/alexeheath/status/1726055095341875545)
+- [Show HN: YouTube banned adblockers so I built an extension to skip their ads](https://news.ycombinator.com/item?id=38327017)
+- [Source code to infocom&#39;s text adventure engines released &lpar;zcode interpreters&rpar;](https://github.com/erkyrath/infocom-zcode-terps)
+- [OpenAI board in discussions with Sam Altman to return as CEO](https://www.theverge.com/2023/11/18/23967199/breaking-openai-board-in-discussions-with-sam-altman-to-return-as-ceo)
+- [An asteroid will occult Betelgeuse on December 12th](https://www.universetoday.com/164299/an-asteroid-will-occult-betelgeuse-on-december-12th/)
+- [A software epiphany](https://johnwhiles.com/posts/programming-as-theory)
+- [Tesorio &lpar;YC S15&rpar; Is Hiring a Senior Data Engineer in Latam](https://www.tesorio.com/careers#job-openings)
+- [Lockheed is now tracking phones and walkie-talkies from space](https://jackpoulson.substack.com/p/lockheed-is-now-tracking-phones-and)
+- [Mysterious &#39;Tasmanian devil&#39; space explosion baffles astronomers](https://www.nature.com/articles/d41586-023-03569-3)
+- [Nanoplastics promote conditions for Parkinson&#39;s across various lab models](https://corporate.dukehealth.org/news/nanoplastics-promote-conditions-parkinsons-across-various-lab-models)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

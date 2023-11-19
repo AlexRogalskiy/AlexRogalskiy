@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Israel-Hamas war live: Israeli forces ‘determined to advance’ including in southern Gaza, says IDF](https://www.theguardian.com/world/live/2023/nov/17/israel-hamas-war-live-updates-gaza-starvation-idf-raid-jenin-refugee-camp-palestine-ceasefire-calls)
-- [Apple, Disney and IBM to pause ads on X after antisemitic Elon Musk tweet](https://www.theguardian.com/technology/2023/nov/17/elon-musk-antisemitic-tweet-apple-pausing-ads)
-- [Trump unleashes outrage at court clerk online barely an hour after gag order paused](https://www.theguardian.com/us-news/2023/nov/17/trump-gag-order-social-media-posts)
-- [OpenAI fires co-founder and CEO Sam Altman for allegedly lying to company board](https://www.theguardian.com/technology/2023/nov/17/openai-ceo-sam-altman-fired)
-- [One killed in New Hampshire hospital shooting, police say](https://www.theguardian.com/us-news/2023/nov/17/new-hampshire-hospital-shooting)
-- [David Cameron ‘wants to unlock billions of dollars for foreign aid’](https://www.theguardian.com/global-development/2023/nov/18/david-cameron-wants-to-unlock-billions-of-dollars-for-foreign-aid)
-- [Israel and Poland’s Under-21 players hold unauthorised minute’s silence](https://www.theguardian.com/sport/2023/nov/17/israel-and-polands-under-21-players-hold-unauthorised-minutes-silence)
-- [Texas: Republican-controlled school board votes against climate textbooks](https://www.theguardian.com/us-news/2023/nov/17/texas-republican-school-board-climate-textbooks)
-- [French senator charged on suspicion of drugging MP with intent to commit rape](https://www.theguardian.com/world/2023/nov/17/french-senator-joel-guerriau-arrested-suspicion-drugging-mp)
-- [Disgraced lawyer Alex Murdaugh pleads guilty to stealing millions from clients](https://www.theguardian.com/us-news/2023/nov/17/alex-murdaugh-pleads-guilty-fraud-money-laundering)
+- [Russia-Ukraine war at a glance: what we know on day 634](https://www.theguardian.com/world/2023/nov/19/russia-ukraine-war-at-a-glance-what-we-know-on-day-634)
+- [Teddy boys: fluffy dad-core fleeces are making a comeback](https://www.theguardian.com/fashion/2023/nov/18/teddy-boys-fluffy-dad-core-fleeces-are-making-a-comeback)
+- [We Love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2023/nov/18/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Sam Altman ‘was working on new venture’ before sacking from OpenAI](https://www.theguardian.com/technology/2023/nov/18/earthquake-at-chatgpt-developer-as-senior-staff-quit-after-sacking-of-boss-sam-altman)
+- [Novak Djokovic storms Carlos Alcaraz to earn ATP Finals decider with Sinner](https://www.theguardian.com/sport/2023/nov/18/novak-djokovic-storms-carlos-alcaraz-to-earn-atp-finals-decider-with-sinner)
+- [A four-decade-old Pacific treaty was meant to preserve the ‘peaceful region’. Now experts say it’s being exploited](https://www.theguardian.com/world/2023/nov/19/a-40-year-old-pacific-treaty-was-meant-to-maintain-the-peaceful-region-now-experts-say-its-being-exploited)
+- [Watch with Wonder, a book by Palani Mohan – in pictures](https://www.theguardian.com/artanddesign/gallery/2023/nov/19/watch-in-wonder-a-book-by-palani-mohan-in-pictures)
+- [David Holmes: The Boy Who Lived review – the touching tale of the Harry Potter stuntman who broke his neck](https://www.theguardian.com/tv-and-radio/2023/nov/18/david-holmes-the-boy-who-lived-review-harry-potter-stuntman-who-broke-his-neck)
+- [Rare 1926 Macallan whisky becomes world’s most expensive bottle at £2.1m](https://www.theguardian.com/food/2023/nov/18/rare-1926-macallan-whisky-becomes-worlds-most-expensive-bottle-at-21m)
+- [Jeremy Hunt faces red wall revolt if he delivers ‘a budget for the rich’](https://www.theguardian.com/money/2023/nov/18/jeremy-hunt-faces-red-wall-revolt-if-he-delivers-a-budget-for-the-rich)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

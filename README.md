@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Update on the OpenAI drama: Altman and the board had till 5pm to reach a truce](https://twitter.com/alexeheath/status/1726055095341875545)
-- [Show HN: YouTube banned adblockers so I built an extension to skip their ads](https://news.ycombinator.com/item?id=38327017)
-- [Source code to infocom&#39;s text adventure engines released &lpar;zcode interpreters&rpar;](https://github.com/erkyrath/infocom-zcode-terps)
-- [OpenAI board in discussions with Sam Altman to return as CEO](https://www.theverge.com/2023/11/18/23967199/breaking-openai-board-in-discussions-with-sam-altman-to-return-as-ceo)
-- [An asteroid will occult Betelgeuse on December 12th](https://www.universetoday.com/164299/an-asteroid-will-occult-betelgeuse-on-december-12th/)
-- [A software epiphany](https://johnwhiles.com/posts/programming-as-theory)
-- [Tesorio &lpar;YC S15&rpar; Is Hiring a Senior Data Engineer in Latam](https://www.tesorio.com/careers#job-openings)
-- [Lockheed is now tracking phones and walkie-talkies from space](https://jackpoulson.substack.com/p/lockheed-is-now-tracking-phones-and)
-- [Mysterious &#39;Tasmanian devil&#39; space explosion baffles astronomers](https://www.nature.com/articles/d41586-023-03569-3)
-- [Nanoplastics promote conditions for Parkinson&#39;s across various lab models](https://corporate.dukehealth.org/news/nanoplastics-promote-conditions-parkinsons-across-various-lab-models)
+- [Cosmopolitan v3.1](https://twitter.com/justinetunney/status/1726141024597324189?s=46&t=K1nIh-2Y7JjaoOc9Y6bUzA)
+- [Friends don&#39;t let friends make bad graphs](https://github.com/cxli233/FriendsDontLetFriends)
+- [The Domesday Duplicator](https://github.com/simoninns/DomesdayDuplicator/wiki)
+- [A Tour of the Tektronix Ceramic CRT &quot;Catacombs&quot;](https://vintagetek.org/tour-crt-catacombs/)
+- [Windows Refund Day – When Linux users demanded their money back &lpar;2019&rpar; [video]](https://www.youtube.com/watch?v=1j9j-Ywjmbk)
+- [Practical Tips for Finetuning LLMs Using LoRA &lpar;Low-Rank Adaptation&rpar;](https://magazine.sebastianraschka.com/p/practical-tips-for-finetuning-llms)
+- [Bootstrapping self awareness in GPT-4: Towards recursive self inquiry](https://thewaltersfile.substack.com/p/bootstrapping-self-awareness-in-gpt)
+- [Why I tend not to use content negotiation](https://htmx.org/essays/why-tend-not-to-use-content-negotiation/)
+- [The Myth of RAM &lpar;2014&rpar;](https://www.ilikebigbits.com/2014_04_21_myth_of_ram_1.html)
+- [Ninth Dedekind number found by two independent groups](https://www.quantamagazine.org/ninth-dedekind-number-found-by-two-independent-groups-20230801/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

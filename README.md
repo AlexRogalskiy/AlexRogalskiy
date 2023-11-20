@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Any good, independent site hosting deals around?](https://news.ycombinator.com/item?id=38327728)
-- [59% of 18-25 year olds in the United States are overweight or obese](https://jamanetwork.com/journals/jama/fullarticle/2786516)
-- [OpenAI staff to the Board: &quot;Bring Sam and Greg back, or we all resign&quot;](https://twitter.com/blader/status/1726058402542244106)
-- [What Elon Musk has said about Ilya Sutskever](https://fortune.com/2023/11/18/elon-musk-ilya-sutskever-openai-leadership-upheaval-sam-altman/)
-- [Load Raw 6502 code into your [Web Based] Emulator [video]](https://www.youtube.com/watch?v=fyZxqCN1vfg)
-- [Update on the OpenAI drama: Altman and the board had till 5pm to reach a truce](https://twitter.com/alexeheath/status/1726055095341875545)
-- [Typehere.cc](https://typehere.cc/)
-- [Trump vows to kill Asia trade deal being pursued by Biden if elected](https://www.reuters.com/world/us/trump-vows-kill-asia-trade-deal-being-pursued-by-biden-if-elected-2023-11-19/)
-- [Waymark founder has 37 family members killed by Israel in airstrike](https://twitter.com/RBatniji/status/1726035882107716035)
-- [&quot;Chicken Run&quot; studio Aardman is apparently running out of clay](https://www.avclub.com/chicken-run-studio-aardman-is-apparently-running-out-of-1851033934)
+- [Ask HN: Watch YT on Firefox but not Chrome unless I turne on history?](https://news.ycombinator.com/item?id=38341376)
+- [Show HN: Turning Ideas into Investor Magnets](https://www.intelliwebi.com)
+- [UTC is not Your Saviour](https://blog.nytsoi.net/2022/03/13/utc)
+- [Why did Ilya fire Sam Altman? What are the exact reasons?](https://news.ycombinator.com/item?id=38341342)
+- [Autistic drivers could find their licences in legal limbo](https://www.abc.net.au/news/2023-11-20/autism-driving-licences-new-standards/103108100)
+- [Does anyone know how to cancel or disable a Sbvtle account?](https://news.ycombinator.com/item?id=38341324)
+- [I made a little site to allow you to use your Amazon Alexa lists on the web](https://smarthomelist.com)
+- [Show HN: App to Iterate on Docs with ChatGPT: Approvals, Diffs, Open Source](https://mindmess.vercel.app/)
+- [OpenAI lesson: &quot;if you built it, you own it&quot;](https://twitter.com/OrganicGPT/status/1726411807806329098)
+- [The GHC typechecker is Turing-complete &lpar;2006&rpar;](https://mail.haskell.org/pipermail/haskell/2006-August/018355.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

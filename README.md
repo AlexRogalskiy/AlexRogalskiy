@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war at a glance: what we know on day 634](https://www.theguardian.com/world/2023/nov/19/russia-ukraine-war-at-a-glance-what-we-know-on-day-634)
-- [Teddy boys: fluffy dad-core fleeces are making a comeback](https://www.theguardian.com/fashion/2023/nov/18/teddy-boys-fluffy-dad-core-fleeces-are-making-a-comeback)
-- [We Love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2023/nov/18/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Sam Altman ‘was working on new venture’ before sacking from OpenAI](https://www.theguardian.com/technology/2023/nov/18/earthquake-at-chatgpt-developer-as-senior-staff-quit-after-sacking-of-boss-sam-altman)
-- [Novak Djokovic storms Carlos Alcaraz to earn ATP Finals decider with Sinner](https://www.theguardian.com/sport/2023/nov/18/novak-djokovic-storms-carlos-alcaraz-to-earn-atp-finals-decider-with-sinner)
-- [A four-decade-old Pacific treaty was meant to preserve the ‘peaceful region’. Now experts say it’s being exploited](https://www.theguardian.com/world/2023/nov/19/a-40-year-old-pacific-treaty-was-meant-to-maintain-the-peaceful-region-now-experts-say-its-being-exploited)
-- [Watch with Wonder, a book by Palani Mohan – in pictures](https://www.theguardian.com/artanddesign/gallery/2023/nov/19/watch-in-wonder-a-book-by-palani-mohan-in-pictures)
-- [David Holmes: The Boy Who Lived review – the touching tale of the Harry Potter stuntman who broke his neck](https://www.theguardian.com/tv-and-radio/2023/nov/18/david-holmes-the-boy-who-lived-review-harry-potter-stuntman-who-broke-his-neck)
-- [Rare 1926 Macallan whisky becomes world’s most expensive bottle at £2.1m](https://www.theguardian.com/food/2023/nov/18/rare-1926-macallan-whisky-becomes-worlds-most-expensive-bottle-at-21m)
-- [Jeremy Hunt faces red wall revolt if he delivers ‘a budget for the rich’](https://www.theguardian.com/money/2023/nov/18/jeremy-hunt-faces-red-wall-revolt-if-he-delivers-a-budget-for-the-rich)
+- [Russia-Ukraine war at a glance: what we know on day 635](https://www.theguardian.com/world/2023/nov/20/russia-ukraine-war-at-a-glance-what-we-know-on-day-635)
+- [Suzanne Shepherd, GoodFellas and The Sopranos actor, dies aged 89](https://www.theguardian.com/film/2023/nov/20/suzanne-shepherd-death-goodfellas-sopranos-actor-dies-aged-89)
+- [‘There are no crops to celebrate’: climate crisis wipes out a way of life in Taiwan’s mountains](https://www.theguardian.com/environment/2023/nov/20/there-are-no-crops-to-celebrate-climate-crisis-wipes-out-a-way-of-life-in-taiwans-mountains)
+- [ITV normalises the abhorrent by putting Nigel Farage in the jungle](https://www.theguardian.com/politics/2023/nov/20/itv-normalise-the-abhorrent-by-putting-nigel-farage-in-the-jungle)
+- [Tax corporate polluters and rich to help tackle climate crisis, Jeremy Hunt told](https://www.theguardian.com/uk-news/2023/nov/20/tax-corporate-polluters-and-rich-to-help-tackle-climate-crisis-jeremy-hunt-told)
+- [UK needs more lab space if it wants to be science superpower, ministers told](https://www.theguardian.com/science/2023/nov/20/uk-needs-more-lab-space-if-it-wants-to-be-science-superpower-ministers-told)
+- [Richest 1% account for more carbon emissions than poorest 66%, report says](https://www.theguardian.com/environment/2023/nov/20/richest-1-account-for-more-carbon-emissions-than-poorest-66-report-says)
+- [Ronnie O’Sullivan lays bare his triumphs and torments in visceral documentary | Barry Glendenning](https://www.theguardian.com/sport/2023/nov/20/ronnie-o-sullivan-documentary-edge-of-everything)
+- [Autumn statement will avoid tax cuts that promote inflation, pledges Hunt](https://www.theguardian.com/politics/2023/nov/19/jeremy-hunt-warns-against-fuelling-inflation-after-downplaying-income-tax-cuts)
+- [I’m a Celebrity … Get Me Out of Here! review – it is clearly going to be a cakewalk for Nigel Farage](https://www.theguardian.com/tv-and-radio/2023/nov/19/im-a-celebrity-get-me-out-of-here-review-cakewalk-for-nigel-farage)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

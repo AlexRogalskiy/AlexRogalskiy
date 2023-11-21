@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Cosmopolitan v3.1](https://twitter.com/justinetunney/status/1726141024597324189?s=46&t=K1nIh-2Y7JjaoOc9Y6bUzA)
-- [Friends don&#39;t let friends make bad graphs](https://github.com/cxli233/FriendsDontLetFriends)
-- [The Domesday Duplicator](https://github.com/simoninns/DomesdayDuplicator/wiki)
-- [A Tour of the Tektronix Ceramic CRT &quot;Catacombs&quot;](https://vintagetek.org/tour-crt-catacombs/)
-- [Windows Refund Day – When Linux users demanded their money back &lpar;2019&rpar; [video]](https://www.youtube.com/watch?v=1j9j-Ywjmbk)
-- [Practical Tips for Finetuning LLMs Using LoRA &lpar;Low-Rank Adaptation&rpar;](https://magazine.sebastianraschka.com/p/practical-tips-for-finetuning-llms)
-- [Bootstrapping self awareness in GPT-4: Towards recursive self inquiry](https://thewaltersfile.substack.com/p/bootstrapping-self-awareness-in-gpt)
-- [Why I tend not to use content negotiation](https://htmx.org/essays/why-tend-not-to-use-content-negotiation/)
-- [The Myth of RAM &lpar;2014&rpar;](https://www.ilikebigbits.com/2014_04_21_myth_of_ram_1.html)
-- [Ninth Dedekind number found by two independent groups](https://www.quantamagazine.org/ninth-dedekind-number-found-by-two-independent-groups-20230801/)
+- [OpenAI board faces growing revolt over Sam Altman&#39;s ousting](https://www.ft.com/content/54e36c93-08e5-4a9e-bda6-af673c3e9bb5)
+- [OpenAI approached Anthropic about merger](https://www.theinformation.com/articles/openai-approached-anthropic-about-merger)
+- [TinaCMS Is Now Open-Source](https://tina.io/blog/Tinacms-is-now-fully-open-source/)
+- [Tech-Company Is Building Photorealistic Models of Cities Around the World](https://www.theb1m.com/video/this-tech-company-is-building-photorealistic-models-of-cities-around-the-world)
+- [Former GitHub CEO Friedman and Scale AI CEO Wang Declined OpenAI CEO Role](https://twitter.com/KateClarkTweets/status/1726732841730326862)
+- [Cyberattack: British Library Has Been Offline for Three Weeks, No End in Sight](https://twitter.com/britishlibrary/status/1726618361398722754)
+- [OpenAI&#39;s employees were given two explanations for why Sam Altman was fired](https://www.businessinsider.com/openais-employees-given-explanations-why-sam-altman-out-2023-11)
+- [SEC charges Kraken for operating as an unregistered securities exchange](https://www.sec.gov/news/press-release/2023-237)
+- [Inhibition of ALDH2 by quercetin glucuronide to explain red wine headaches](https://www.nature.com/articles/s41598-023-46203-y)
+- [Finley &lpar;YC W21&rpar; Is Hiring Capital Markets Team Members](https://jobs.lever.co/FinleyTechnologies/70462b30-c31a-4db3-932a-0abb96ec5566)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

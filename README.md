@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Amazon to cut jobs at Alexa unit to sharpen focus on generative AI](https://www.computerworld.com/article/3711182/amazon-to-cut-jobs-at-alexa-unit-to-sharpen-focus-on-generative-ai.html#tk.rss_all)
+- [Nothing proves Apple’s arguments against the EU’s DMA](https://www.computerworld.com/article/3711160/nothing-proves-apples-arguments-against-the-eus-dma.html#tk.rss_all)
+- [Turmoil at OpenAI raises concerns about genAI’s future, rapid advance](https://www.computerworld.com/article/3711221/turmoil-at-openai-raises-concerns-about-genai-s-future-rapid-advance.html#tk.rss_all)
+- [Sam Altman joins Microsoft as OpenAI board appoints Emmett Shear as CEO](https://www.computerworld.com/article/3711120/sam-altman-joins-microsoft-as-openai-board-appoints-emmett-shear-as-ceo.html#tk.rss_all)
+- [EU Commission issues objections to Adobe&#39;s $20B Figma acquisition](https://www.computerworld.com/article/3711180/eu-commission-issues-objections-to-adobes-20b-figma-acquisition.html#tk.rss_all)
 - [OpenAI jettisons CEO Sam Altman for dishonesty](https://www.computerworld.com/article/3710951/openai-jettisons-ceo-sam-altman-for-dishonesty.html#tk.rss_all)
 - [Critical zero-day flaws in Windows, Office mean it&#39;s time to patch](https://www.computerworld.com/article/3710990/critical-zero-day-flaws-in-windows-office-mean-its-time-to-patch.html#tk.rss_all)
 - [Google Workspace tips and tutorials](https://www.computerworld.com/article/3704811/how-to-use-google-workspace-tips-tutorials-cheat-sheets.html#tk.rss_all)
 - [US trade restrictions have done little to curb Chinese chip manufacturing](https://www.computerworld.com/article/3710950/us-trade-restrictions-have-done-little-to-curb-chinese-chip-manufacturing.html#tk.rss_all)
 - [Microsoft welcomes Biden’s new AI order — is that a good thing or bad?](https://www.computerworld.com/article/3710330/microsoft-welcomes-bidens-new-ai-order-is-that-a-good-thing-or-bad.html#tk.rss_all)
-- [Applied Materials faces probe in the US for shipping chip equipment to China](https://www.computerworld.com/article/3710988/applied-materials-faces-probe-in-the-us-for-shipping-chip-equipment-to-china.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
-- [Dell cuddles up to Hugging Face to offer genAI to customers](https://www.computerworld.com/article/3710869/dell-cuddles-up-to-hugging-face-to-offer-genai-to-customers.html#tk.rss_all)
-- [Meta and ByteDance dispute gatekeeper status of platforms under EU’s DMA](https://www.computerworld.com/article/3710849/meta-and-bytedance-dispute-gatekeeper-status-of-platforms-under-eu-s-dma.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

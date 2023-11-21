@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ask HN: Watch YT on Firefox but not Chrome unless I turne on history?](https://news.ycombinator.com/item?id=38341376)
-- [Show HN: Turning Ideas into Investor Magnets](https://www.intelliwebi.com)
-- [UTC is not Your Saviour](https://blog.nytsoi.net/2022/03/13/utc)
-- [Why did Ilya fire Sam Altman? What are the exact reasons?](https://news.ycombinator.com/item?id=38341342)
-- [Autistic drivers could find their licences in legal limbo](https://www.abc.net.au/news/2023-11-20/autism-driving-licences-new-standards/103108100)
-- [Does anyone know how to cancel or disable a Sbvtle account?](https://news.ycombinator.com/item?id=38341324)
-- [I made a little site to allow you to use your Amazon Alexa lists on the web](https://smarthomelist.com)
-- [Show HN: App to Iterate on Docs with ChatGPT: Approvals, Diffs, Open Source](https://mindmess.vercel.app/)
-- [OpenAI lesson: &quot;if you built it, you own it&quot;](https://twitter.com/OrganicGPT/status/1726411807806329098)
-- [The GHC typechecker is Turing-complete &lpar;2006&rpar;](https://mail.haskell.org/pipermail/haskell/2006-August/018355.html)
+- [OpenAI – Spinning Up in Deep RL](https://spinningup.openai.com/en/latest/)
+- [Don&#39;t Overuse List Comprehensions in Python](https://www.kdnuggets.com/why-you-should-not-overuse-list-comprehensions-in-python)
+- [Circadian Rhythm Superpowers of Bears](https://newatlas.com/biology/circadian-rhythm-bears-health/)
+- [NYPD is spending $390M on a new, encrypted radio system](https://gothamist.com/news/nypd-is-spending-390-million-on-a-new-encrypted-radio-system)
+- [Understanding React Server Components](https://vercel.com/blog/understanding-react-server-components)
+- [Summer &#39;23 Study Finds 32.8% of Wi-Fi APs Support Wi-Fi 6](https://wirelessbits.net/summer-2023-study-on-wi-fi-ap-phy-security-adoption-f224f0581ec7)
+- [Why Shock Therapy Effectively Treats Depression](https://newatlas.com/medical/ect-shock-therapy-depression/)
+- [Self-Hosting Open Source LLMs: Cross Devices and Local Deployment of Mistral 7B](https://www.secondstate.io/articles/mistral-7b-instruct-v0.1/)
+- [Ask HN: Who would represent OpenAI board in a lawsuit?](https://news.ycombinator.com/item?id=38358001)
+- [YouTube Says New 5-Second Video Load Delay Is Supposed to Punish Ad Blockers](https://www.404media.co/youtube-says-new-5-second-video-load-delay-is-supposed-to-punish-ad-blockers-not-firefox-users/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

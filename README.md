@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war at a glance: what we know on day 635](https://www.theguardian.com/world/2023/nov/20/russia-ukraine-war-at-a-glance-what-we-know-on-day-635)
-- [Suzanne Shepherd, GoodFellas and The Sopranos actor, dies aged 89](https://www.theguardian.com/film/2023/nov/20/suzanne-shepherd-death-goodfellas-sopranos-actor-dies-aged-89)
-- [‘There are no crops to celebrate’: climate crisis wipes out a way of life in Taiwan’s mountains](https://www.theguardian.com/environment/2023/nov/20/there-are-no-crops-to-celebrate-climate-crisis-wipes-out-a-way-of-life-in-taiwans-mountains)
-- [ITV normalises the abhorrent by putting Nigel Farage in the jungle](https://www.theguardian.com/politics/2023/nov/20/itv-normalise-the-abhorrent-by-putting-nigel-farage-in-the-jungle)
-- [Tax corporate polluters and rich to help tackle climate crisis, Jeremy Hunt told](https://www.theguardian.com/uk-news/2023/nov/20/tax-corporate-polluters-and-rich-to-help-tackle-climate-crisis-jeremy-hunt-told)
-- [UK needs more lab space if it wants to be science superpower, ministers told](https://www.theguardian.com/science/2023/nov/20/uk-needs-more-lab-space-if-it-wants-to-be-science-superpower-ministers-told)
-- [Richest 1% account for more carbon emissions than poorest 66%, report says](https://www.theguardian.com/environment/2023/nov/20/richest-1-account-for-more-carbon-emissions-than-poorest-66-report-says)
-- [Ronnie O’Sullivan lays bare his triumphs and torments in visceral documentary | Barry Glendenning](https://www.theguardian.com/sport/2023/nov/20/ronnie-o-sullivan-documentary-edge-of-everything)
-- [Autumn statement will avoid tax cuts that promote inflation, pledges Hunt](https://www.theguardian.com/politics/2023/nov/19/jeremy-hunt-warns-against-fuelling-inflation-after-downplaying-income-tax-cuts)
-- [I’m a Celebrity … Get Me Out of Here! review – it is clearly going to be a cakewalk for Nigel Farage](https://www.theguardian.com/tv-and-radio/2023/nov/19/im-a-celebrity-get-me-out-of-here-review-cakewalk-for-nigel-farage)
+- [Israel-Hamas war live: 200 people evacuated from Indonesian hospital in Gaza, says health ministry](https://www.theguardian.com/world/live/2023/nov/20/israel-hamas-war-live-updates-hostages-al-shifa-hospital-gaza-hamas-attack)
+- [X sues watchdog group Media Matters after report on ads next to Nazi posts](https://www.theguardian.com/technology/2023/nov/20/x-twitter-lawsuit-media-matters-nazism-ads)
+- [Russia-Ukraine war at a glance: what we know on day 636](https://www.theguardian.com/world/2023/nov/21/russia-ukraine-war-at-a-glance-what-we-know-on-day-636)
+- [Japan sounds warning over North Korea’s third attempt to launch spy satellite](https://www.theguardian.com/world/2023/nov/21/north-korea-spy-satellite-kim-jong-un-japan-warning-prime-minister-fumio-kishida)
+- [Fox CEO Lachlan Murdoch meets Volodymyr Zelenskiy in signal of support for Ukraine](https://www.theguardian.com/media/2023/nov/21/fox-ceo-lachlan-murdoch-volodymyr-zelenskiy-meeting-ukraine-kyiv-support-war-russia)
+- [Man charged with raping 90-year-old woman after allegedly breaking into NSW nursing home](https://www.theguardian.com/australia-news/2023/nov/21/man-charged-with-raping-90-year-old-woman-bateau-bay-nsw-aged-care-nursing-home)
+- [Robbie Williams fan dies after Sydney concert fall](https://www.theguardian.com/music/2023/nov/21/robbie-williams-fan-dies-sydney-woman-fall-allianz-stadium-moore-park)
+- [A$AP Rocky must stand trial on charges of firing gun at former friend, judge rules](https://www.theguardian.com/music/2023/nov/20/asap-rocky-judge-ruling-stand-trial-assault-friend)
+- [Culture of impunity for NHS staff accused of sexual violence, say campaigners](https://www.theguardian.com/society/2023/nov/21/culture-of-impunity-for-nhs-staff-accused-of-sexual-violence-say-campaigners)
+- [UK to build new satellite to monitor climate crisis and natural disasters](https://www.theguardian.com/science/2023/nov/21/uk-to-build-new-satellite-to-monitor-climate-crisis-and-natural-disasters)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

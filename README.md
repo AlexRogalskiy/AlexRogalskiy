@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [OpenAI board faces growing revolt over Sam Altman&#39;s ousting](https://www.ft.com/content/54e36c93-08e5-4a9e-bda6-af673c3e9bb5)
-- [OpenAI approached Anthropic about merger](https://www.theinformation.com/articles/openai-approached-anthropic-about-merger)
-- [TinaCMS Is Now Open-Source](https://tina.io/blog/Tinacms-is-now-fully-open-source/)
-- [Tech-Company Is Building Photorealistic Models of Cities Around the World](https://www.theb1m.com/video/this-tech-company-is-building-photorealistic-models-of-cities-around-the-world)
-- [Former GitHub CEO Friedman and Scale AI CEO Wang Declined OpenAI CEO Role](https://twitter.com/KateClarkTweets/status/1726732841730326862)
-- [Cyberattack: British Library Has Been Offline for Three Weeks, No End in Sight](https://twitter.com/britishlibrary/status/1726618361398722754)
-- [OpenAI&#39;s employees were given two explanations for why Sam Altman was fired](https://www.businessinsider.com/openais-employees-given-explanations-why-sam-altman-out-2023-11)
-- [SEC charges Kraken for operating as an unregistered securities exchange](https://www.sec.gov/news/press-release/2023-237)
-- [Inhibition of ALDH2 by quercetin glucuronide to explain red wine headaches](https://www.nature.com/articles/s41598-023-46203-y)
-- [Finley &lpar;YC W21&rpar; Is Hiring Capital Markets Team Members](https://jobs.lever.co/FinleyTechnologies/70462b30-c31a-4db3-932a-0abb96ec5566)
+- [Bard Extensions](https://bard.google.com/extensions?hl=en)
+- [FTC authorizes compulsory process for AI-related products and services](https://www.ftc.gov/news-events/news/press-releases/2023/11/ftc-authorizes-compulsory-process-ai-related-products-services)
+- [Large pull requests slow down development](https://graphite.dev/blog/how-large-prs-slow-down-development)
+- [Bacteria store memories and pass them on for generations](https://news.utexas.edu/2023/11/21/bacteria-store-memories-and-pass-them-on-for-generations/)
+- [Before Altman’s ouster, OpenAI’s board was divided and feuding](https://www.nytimes.com/2023/11/21/technology/openai-altman-board-fight.html)
+- [In the gut&#39;s &#39;second brain,&#39; key agents of health emerge](https://www.quantamagazine.org/in-the-guts-second-brain-key-agents-of-health-emerge-20231121)
+- [Why does the moon change size when you snipe it in GTA?](https://insiderockstarnorth.blogspot.com/2023/11/why-does-moon-change-size-when-you.html)
+- [I tested four NVMe SSDs from four vendors – half lose FLUSH&#39;d data on power loss](https://twitter.com/xenadu02/status/1495693475584557056)
+- [Genetic Algorithms for Evolution of QWOP Gaits](https://arxiv.org/abs/2311.09234)
+- [Sam Altman, OpenAI board open talks to negotiate his possible return](https://bloomberg.com/news/articles/2023-11-21/altman-openai-board-open-talks-to-negotiate-his-possible-return)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [OpenAI – Spinning Up in Deep RL](https://spinningup.openai.com/en/latest/)
-- [Don&#39;t Overuse List Comprehensions in Python](https://www.kdnuggets.com/why-you-should-not-overuse-list-comprehensions-in-python)
-- [Circadian Rhythm Superpowers of Bears](https://newatlas.com/biology/circadian-rhythm-bears-health/)
-- [NYPD is spending $390M on a new, encrypted radio system](https://gothamist.com/news/nypd-is-spending-390-million-on-a-new-encrypted-radio-system)
-- [Understanding React Server Components](https://vercel.com/blog/understanding-react-server-components)
-- [Summer &#39;23 Study Finds 32.8% of Wi-Fi APs Support Wi-Fi 6](https://wirelessbits.net/summer-2023-study-on-wi-fi-ap-phy-security-adoption-f224f0581ec7)
-- [Why Shock Therapy Effectively Treats Depression](https://newatlas.com/medical/ect-shock-therapy-depression/)
-- [Self-Hosting Open Source LLMs: Cross Devices and Local Deployment of Mistral 7B](https://www.secondstate.io/articles/mistral-7b-instruct-v0.1/)
-- [Ask HN: Who would represent OpenAI board in a lawsuit?](https://news.ycombinator.com/item?id=38358001)
-- [YouTube Says New 5-Second Video Load Delay Is Supposed to Punish Ad Blockers](https://www.404media.co/youtube-says-new-5-second-video-load-delay-is-supposed-to-punish-ad-blockers-not-firefox-users/)
+- [Elon Musk shares letter detailing allegations against Sam Altman](https://www.wired.com/story/elon-musk-troll-openai-drama/)
+- [The Tragedy of Systemd [video]](https://www.youtube.com/watch?v=o_AIw9bGogo)
+- [AI Discovered a Faster Matrix Multiplication Algorithm [video]](https://www.youtube.com/watch?v=fDAPJ7rvcUw)
+- [Is Posix Unsuitable for Object Stores? A Data-Backed Answer](https://juicefs.com/en/blog/community/posix-object-store-suitable-file-system)
+- [Long Term Refactors](https://max.engineer/long-term-refactors)
+- [Deciphering clues in a news article to understand how it was reported](https://simonwillison.net/2023/Nov/22/deciphering-clues/)
+- [Microsoft removed a gist from Sam Altman critics](https://news.ycombinator.com/item?id=38373691)
+- [Israel, Hamas agree to temporary cease-fire to free 50 hostages](https://www.latimes.com/world-nation/story/2023-11-21/israel-hamas-agree-to-temporary-ceasefire-to-free-numerous-hostages)
+- [Codeium Live – free up-to-date in-browser codebase chat](https://codeium.com/blog/codeium-live)
+- [Attribution Armored Code](https://joeyh.name/blog/entry/attribution_armored_code/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

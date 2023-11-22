@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Israel-Hamas war live: 200 people evacuated from Indonesian hospital in Gaza, says health ministry](https://www.theguardian.com/world/live/2023/nov/20/israel-hamas-war-live-updates-hostages-al-shifa-hospital-gaza-hamas-attack)
-- [X sues watchdog group Media Matters after report on ads next to Nazi posts](https://www.theguardian.com/technology/2023/nov/20/x-twitter-lawsuit-media-matters-nazism-ads)
-- [Russia-Ukraine war at a glance: what we know on day 636](https://www.theguardian.com/world/2023/nov/21/russia-ukraine-war-at-a-glance-what-we-know-on-day-636)
-- [Japan sounds warning over North Korea’s third attempt to launch spy satellite](https://www.theguardian.com/world/2023/nov/21/north-korea-spy-satellite-kim-jong-un-japan-warning-prime-minister-fumio-kishida)
-- [Fox CEO Lachlan Murdoch meets Volodymyr Zelenskiy in signal of support for Ukraine](https://www.theguardian.com/media/2023/nov/21/fox-ceo-lachlan-murdoch-volodymyr-zelenskiy-meeting-ukraine-kyiv-support-war-russia)
-- [Man charged with raping 90-year-old woman after allegedly breaking into NSW nursing home](https://www.theguardian.com/australia-news/2023/nov/21/man-charged-with-raping-90-year-old-woman-bateau-bay-nsw-aged-care-nursing-home)
-- [Robbie Williams fan dies after Sydney concert fall](https://www.theguardian.com/music/2023/nov/21/robbie-williams-fan-dies-sydney-woman-fall-allianz-stadium-moore-park)
-- [A$AP Rocky must stand trial on charges of firing gun at former friend, judge rules](https://www.theguardian.com/music/2023/nov/20/asap-rocky-judge-ruling-stand-trial-assault-friend)
-- [Culture of impunity for NHS staff accused of sexual violence, say campaigners](https://www.theguardian.com/society/2023/nov/21/culture-of-impunity-for-nhs-staff-accused-of-sexual-violence-say-campaigners)
-- [UK to build new satellite to monitor climate crisis and natural disasters](https://www.theguardian.com/science/2023/nov/21/uk-to-build-new-satellite-to-monitor-climate-crisis-and-natural-disasters)
+- [Brazil v Argentina: 2026 World Cup qualifying – live](https://www.theguardian.com/football/live/2023/nov/21/brazil-v-argentina-2026-world-cup-qualifying-live)
+- [Israel-Hamas war live: Israeli cabinet agrees deal to free 50 hostages with pauses in fighting, PM’s office says](https://www.theguardian.com/world/live/2023/nov/21/israel-hamas-war-live-updates-hamas-leader-haniyeh-truce-ceasefire-talks-gaza-qatar-latest-news)
+- [One dead and five missing after Alaska landslide](https://www.theguardian.com/world/2023/nov/21/alaska-landslide-dead-missing)
+- [South Korea to partially suspend military deal with North after launch of spy satellite](https://www.theguardian.com/world/2023/nov/21/north-korea-spy-satellite-kim-jong-un-japan-warning-prime-minister-fumio-kishida)
+- [Russia-Ukraine war at a glance: what we know on day 637](https://www.theguardian.com/world/2023/nov/22/russia-ukraine-war-at-a-glance-what-we-know-on-day-637)
+- [Toyota SUV adverts banned in UK on environmental grounds](https://www.theguardian.com/media/2023/nov/22/toyota-suv-adverts-banned-in-uk-on-environmental-grounds)
+- [Gender pay gap for UK women aged 40 and over ‘will not close till they are pensioners’](https://www.theguardian.com/world/2023/nov/22/gender-pay-gap-uk-women-pensioners-equal-pay-day)
+- [US Catholic priest who avoided charges marries teen he fled to Italy with](https://www.theguardian.com/us-news/2023/nov/21/alabma-catholic-priest-teen)
+- [Suspect arrested in California killing of ex-Lakers star Michael Cooper’s brother](https://www.theguardian.com/world/2023/nov/21/lakers-michael-cooper-brother-killed-suspect-arrested)
+- [Crypto giant Binance admits to money laundering and agrees to pay $4.3bn](https://www.theguardian.com/business/2023/nov/21/binance-settlement-crypto-exchange)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

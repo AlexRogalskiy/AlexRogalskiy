@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Confluent unveils data streaming for AI for real-time applications](https://www.computerworld.com/article/3711240/confluent-unveils-data-streaming-for-ai-for-real-time-applications.html#tk.rss_all)
+- [Anthropic&#39;s Claude 2.1 LLM turbocharges performance, offers beta tool use](https://www.computerworld.com/article/3711280/anthropics-claude-21-llm-turbocharges-performance-offers-beta-tool-use.html#tk.rss_all)
+- [Got a Google Pixel? Check out these awesome Android 14 gems](https://www.computerworld.com/article/3708189/google-pixel-android-14.html#tk.rss_all)
+- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
+- [Tech layoffs in 2023: A timeline](https://www.computerworld.com/article/3685936/tech-layoffs-in-2023-a-timeline.html#tk.rss_all)
 - [Amazon to cut jobs at Alexa unit to sharpen focus on generative AI](https://www.computerworld.com/article/3711182/amazon-to-cut-jobs-at-alexa-unit-to-sharpen-focus-on-generative-ai.html#tk.rss_all)
 - [Nothing proves Apple’s arguments against the EU’s DMA](https://www.computerworld.com/article/3711160/nothing-proves-apples-arguments-against-the-eus-dma.html#tk.rss_all)
 - [Turmoil at OpenAI raises concerns about genAI’s future, rapid advance](https://www.computerworld.com/article/3711221/turmoil-at-openai-raises-concerns-about-genai-s-future-rapid-advance.html#tk.rss_all)
 - [Sam Altman joins Microsoft as OpenAI board appoints Emmett Shear as CEO](https://www.computerworld.com/article/3711120/sam-altman-joins-microsoft-as-openai-board-appoints-emmett-shear-as-ceo.html#tk.rss_all)
 - [EU Commission issues objections to Adobe&#39;s $20B Figma acquisition](https://www.computerworld.com/article/3711180/eu-commission-issues-objections-to-adobes-20b-figma-acquisition.html#tk.rss_all)
-- [OpenAI jettisons CEO Sam Altman for dishonesty](https://www.computerworld.com/article/3710951/openai-jettisons-ceo-sam-altman-for-dishonesty.html#tk.rss_all)
-- [Critical zero-day flaws in Windows, Office mean it&#39;s time to patch](https://www.computerworld.com/article/3710990/critical-zero-day-flaws-in-windows-office-mean-its-time-to-patch.html#tk.rss_all)
-- [Google Workspace tips and tutorials](https://www.computerworld.com/article/3704811/how-to-use-google-workspace-tips-tutorials-cheat-sheets.html#tk.rss_all)
-- [US trade restrictions have done little to curb Chinese chip manufacturing](https://www.computerworld.com/article/3710950/us-trade-restrictions-have-done-little-to-curb-chinese-chip-manufacturing.html#tk.rss_all)
-- [Microsoft welcomes Biden’s new AI order — is that a good thing or bad?](https://www.computerworld.com/article/3710330/microsoft-welcomes-bidens-new-ai-order-is-that-a-good-thing-or-bad.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

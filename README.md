@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Brazil v Argentina: 2026 World Cup qualifying – live](https://www.theguardian.com/football/live/2023/nov/21/brazil-v-argentina-2026-world-cup-qualifying-live)
-- [Israel-Hamas war live: Israeli cabinet agrees deal to free 50 hostages with pauses in fighting, PM’s office says](https://www.theguardian.com/world/live/2023/nov/21/israel-hamas-war-live-updates-hamas-leader-haniyeh-truce-ceasefire-talks-gaza-qatar-latest-news)
-- [One dead and five missing after Alaska landslide](https://www.theguardian.com/world/2023/nov/21/alaska-landslide-dead-missing)
-- [South Korea to partially suspend military deal with North after launch of spy satellite](https://www.theguardian.com/world/2023/nov/21/north-korea-spy-satellite-kim-jong-un-japan-warning-prime-minister-fumio-kishida)
-- [Russia-Ukraine war at a glance: what we know on day 637](https://www.theguardian.com/world/2023/nov/22/russia-ukraine-war-at-a-glance-what-we-know-on-day-637)
-- [Toyota SUV adverts banned in UK on environmental grounds](https://www.theguardian.com/media/2023/nov/22/toyota-suv-adverts-banned-in-uk-on-environmental-grounds)
-- [Gender pay gap for UK women aged 40 and over ‘will not close till they are pensioners’](https://www.theguardian.com/world/2023/nov/22/gender-pay-gap-uk-women-pensioners-equal-pay-day)
-- [US Catholic priest who avoided charges marries teen he fled to Italy with](https://www.theguardian.com/us-news/2023/nov/21/alabma-catholic-priest-teen)
-- [Suspect arrested in California killing of ex-Lakers star Michael Cooper’s brother](https://www.theguardian.com/world/2023/nov/21/lakers-michael-cooper-brother-killed-suspect-arrested)
-- [Crypto giant Binance admits to money laundering and agrees to pay $4.3bn](https://www.theguardian.com/business/2023/nov/21/binance-settlement-crypto-exchange)
+- [Israel-Hamas war live: no hostages to be released before Friday, says Israeli official, amid reports ceasefire also delayed](https://www.theguardian.com/world/live/2023/nov/22/israel-hamas-war-live-updates-hostage-deal-release-ceasefire-pause-latest-news)
+- [Cuba Gooding Jr sued for alleged sexual misconduct in NYC bars](https://www.theguardian.com/film/2023/nov/22/cuba-gooding-jr-alleged-sexual-misconduct-civil-case)
+- [Canadian former intelligence chief found guilty of leaking state secrets](https://www.theguardian.com/world/2023/nov/23/cameron-ortis-canada-rcmp-royal-canadian-mounted-police)
+- [Russia-Ukraine war at a glance: what we know on day 638](https://www.theguardian.com/world/2023/nov/23/russia-ukraine-war-at-a-glance-what-we-know-on-day-638)
+- [Jake Daniels calls Jordan Henderson’s move to Saudi Arabia ‘slap in the face’](https://www.theguardian.com/football/2023/nov/23/jake-daniels-jordan-henderson-saudi-arabia)
+- [Adviser warns UK government against tightening laws on glorifying terrorism](https://www.theguardian.com/world/2023/nov/23/adviser-warns-government-against-tightening-laws-glorifying-terrorism)
+- [Mobo Awards for music of black origin to be held in Sheffield Arena](https://www.theguardian.com/music/2023/nov/23/mobo-awards-for-music-of-black-origin-to-be-held-in-sheffield-arena)
+- [‘Queen of Drury Lane’ Sarah Siddons celebrated in new play](https://www.theguardian.com/stage/2023/nov/23/sarah-siddons-actor-april-de-angelis-play-hampstead-theatre)
+- [Man and woman reportedly drown trying to cross Channel to UK](https://www.theguardian.com/uk-news/2023/nov/22/man-and-woman-reportedly-drown-trying-to-cross-channel-to-uk)
+- [Office of judge presiding over Trump’s New York trial bombarded with threats](https://www.theguardian.com/us-news/2023/nov/22/new-york-trump-trial-judge-arthur-engoron-clerk-death-threat)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

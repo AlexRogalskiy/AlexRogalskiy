@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Elon Musk shares letter detailing allegations against Sam Altman](https://www.wired.com/story/elon-musk-troll-openai-drama/)
-- [The Tragedy of Systemd [video]](https://www.youtube.com/watch?v=o_AIw9bGogo)
-- [AI Discovered a Faster Matrix Multiplication Algorithm [video]](https://www.youtube.com/watch?v=fDAPJ7rvcUw)
-- [Is Posix Unsuitable for Object Stores? A Data-Backed Answer](https://juicefs.com/en/blog/community/posix-object-store-suitable-file-system)
-- [Long Term Refactors](https://max.engineer/long-term-refactors)
-- [Deciphering clues in a news article to understand how it was reported](https://simonwillison.net/2023/Nov/22/deciphering-clues/)
-- [Microsoft removed a gist from Sam Altman critics](https://news.ycombinator.com/item?id=38373691)
-- [Israel, Hamas agree to temporary cease-fire to free 50 hostages](https://www.latimes.com/world-nation/story/2023-11-21/israel-hamas-agree-to-temporary-ceasefire-to-free-numerous-hostages)
-- [Codeium Live – free up-to-date in-browser codebase chat](https://codeium.com/blog/codeium-live)
-- [Attribution Armored Code](https://joeyh.name/blog/entry/attribution_armored_code/)
+- [Income Inequality in the United States: Using Tax Data to Measure Trends [pdf]](https://davidsplinter.com/AutenSplinter-Tax_Data_and_Inequality.pdf)
+- [Show HN: Antidote to Midday Slumps](https://www.dailydopaminehits.com/signup)
+- [Prompting Frameworks for Large Language Models: A Survey](https://arxiv.org/abs/2311.12785)
+- [Nvidia Stock Drops Despite AI Chipmaker&#39;s Big Beat-and-Raise Report. What Gives?](https://www.investors.com/news/technology/nvidia-stock-drops-despite-ai-chipmaker-monster-beat/)
+- [The reasons YouTube is slow on Firefox [video]](https://www.youtube.com/watch?v=Or9jSh3uKX0)
+- [How much does Quantization impact models?](https://old.reddit.com/r/LocalLLaMA/comments/1816h1x/how_much_does_quantization_actually_impact_models/)
+- [What&#39;s the deal with Effective Accelerationism &lpar;e/acc&rpar;?](https://www.lesswrong.com/posts/2ss6gomAJdqjwdSCy/what-s-the-deal-with-effective-accelerationism-e-acc)
+- [How to raise from top-tier investors including Sam Altman and keep control](https://twitter.com/dsiroker/status/1727426215332470918)
+- [The Bright Side of Secrecy: The Energizing Effect of Positive Secrets [pdf]](https://www.apa.org/pubs/journals/releases/psp-pspa0000352.pdf)
+- [Intern Spotlight: 2023 Software Engineering Summer Projects](https://www.hudsonrivertrading.com/hrtbeat/intern-spotlight-2023-software-engineering/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

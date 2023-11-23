@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [How to think about Apple Silicon](https://www.computerworld.com/article/3711260/how-to-think-about-apple-silicon.html#tk.rss_all)
+- [Nonfiction authors sue OpenAI, Microsoft over copyright infringement](https://www.computerworld.com/article/3711321/nonfiction-authors-sue-openai-microsoft-over-copyright-infringement.html#tk.rss_all)
+- [Don’t let Apple’s Vision Pro come in by the back door](https://www.computerworld.com/article/3711300/dont-let-apples-vision-pro-come-in-by-the-back-door.html#tk.rss_all)
+- [Sam Altman returns to OpenAI after agreement reached](https://www.computerworld.com/article/3711320/sam-altman-returns-to-openai-after-agreement-reached.html#tk.rss_all)
 - [Confluent unveils data streaming for AI for real-time applications](https://www.computerworld.com/article/3711240/confluent-unveils-data-streaming-for-ai-for-real-time-applications.html#tk.rss_all)
 - [Anthropic&#39;s Claude 2.1 LLM turbocharges performance, offers beta tool use](https://www.computerworld.com/article/3711280/anthropics-claude-21-llm-turbocharges-performance-offers-beta-tool-use.html#tk.rss_all)
 - [Got a Google Pixel? Check out these awesome Android 14 gems](https://www.computerworld.com/article/3708189/google-pixel-android-14.html#tk.rss_all)
 - [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
 - [Tech layoffs in 2023: A timeline](https://www.computerworld.com/article/3685936/tech-layoffs-in-2023-a-timeline.html#tk.rss_all)
 - [Amazon to cut jobs at Alexa unit to sharpen focus on generative AI](https://www.computerworld.com/article/3711182/amazon-to-cut-jobs-at-alexa-unit-to-sharpen-focus-on-generative-ai.html#tk.rss_all)
-- [Nothing proves Apple’s arguments against the EU’s DMA](https://www.computerworld.com/article/3711160/nothing-proves-apples-arguments-against-the-eus-dma.html#tk.rss_all)
-- [Turmoil at OpenAI raises concerns about genAI’s future, rapid advance](https://www.computerworld.com/article/3711221/turmoil-at-openai-raises-concerns-about-genai-s-future-rapid-advance.html#tk.rss_all)
-- [Sam Altman joins Microsoft as OpenAI board appoints Emmett Shear as CEO](https://www.computerworld.com/article/3711120/sam-altman-joins-microsoft-as-openai-board-appoints-emmett-shear-as-ceo.html#tk.rss_all)
-- [EU Commission issues objections to Adobe&#39;s $20B Figma acquisition](https://www.computerworld.com/article/3711180/eu-commission-issues-objections-to-adobes-20b-figma-acquisition.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

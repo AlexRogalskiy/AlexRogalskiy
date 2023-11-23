@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Bard Extensions](https://bard.google.com/extensions?hl=en)
-- [FTC authorizes compulsory process for AI-related products and services](https://www.ftc.gov/news-events/news/press-releases/2023/11/ftc-authorizes-compulsory-process-ai-related-products-services)
-- [Large pull requests slow down development](https://graphite.dev/blog/how-large-prs-slow-down-development)
-- [Bacteria store memories and pass them on for generations](https://news.utexas.edu/2023/11/21/bacteria-store-memories-and-pass-them-on-for-generations/)
-- [Before Altman’s ouster, OpenAI’s board was divided and feuding](https://www.nytimes.com/2023/11/21/technology/openai-altman-board-fight.html)
-- [In the gut&#39;s &#39;second brain,&#39; key agents of health emerge](https://www.quantamagazine.org/in-the-guts-second-brain-key-agents-of-health-emerge-20231121)
-- [Why does the moon change size when you snipe it in GTA?](https://insiderockstarnorth.blogspot.com/2023/11/why-does-moon-change-size-when-you.html)
-- [I tested four NVMe SSDs from four vendors – half lose FLUSH&#39;d data on power loss](https://twitter.com/xenadu02/status/1495693475584557056)
-- [Genetic Algorithms for Evolution of QWOP Gaits](https://arxiv.org/abs/2311.09234)
-- [Sam Altman, OpenAI board open talks to negotiate his possible return](https://bloomberg.com/news/articles/2023-11-21/altman-openai-board-open-talks-to-negotiate-his-possible-return)
+- [I made a website that tells you which human foods are toxic for dogs](https://www.isittoxicformydog.com)
+- [Auroratone, a Psychedelic 1940s Film, That Helped WWII Vets Overcome PTSD](https://www.openculture.com/2023/11/watch-an-auroratone-a-psychedelic-1940s-film.html)
+- [Computational Modelling of Terrains](https://tudelft3d.github.io/terrainbook/)
+- [Test, [, and [[ &lpar;2020&rpar;](https://jmmv.dev/2020/03/test-bracket.html)
+- [Zoom Fatigue Is Real, According to Brain Scans](https://spectrum.ieee.org/zoom-fatigue)
+- [ChatGPT generates fake data set to support scientific hypothesis](https://www.nature.com/articles/d41586-023-03635-w)
+- [OpenAI Shoves a Data Journalist and Violates Federal Law](https://aarongreenspan.substack.com/p/openai-gets-pushy)
+- [Tesla workers report explosions, concussions and robot injuries at Texas factory](https://www.theverge.com/2023/11/21/23971138/tesla-gigafactory-austin-texas-injury-reports-robot-claw-explosion)
+- [Rogue, and other roguelikes for Amiga](https://www.amigalove.com/viewtopic.php?t=2639)
+- [How do I become a graphics programmer?](https://gpuopen.com/learn/how_do_you_become_a_graphics_programmer/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

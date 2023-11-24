@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Income Inequality in the United States: Using Tax Data to Measure Trends [pdf]](https://davidsplinter.com/AutenSplinter-Tax_Data_and_Inequality.pdf)
-- [Show HN: Antidote to Midday Slumps](https://www.dailydopaminehits.com/signup)
-- [Prompting Frameworks for Large Language Models: A Survey](https://arxiv.org/abs/2311.12785)
-- [Nvidia Stock Drops Despite AI Chipmaker&#39;s Big Beat-and-Raise Report. What Gives?](https://www.investors.com/news/technology/nvidia-stock-drops-despite-ai-chipmaker-monster-beat/)
-- [The reasons YouTube is slow on Firefox [video]](https://www.youtube.com/watch?v=Or9jSh3uKX0)
-- [How much does Quantization impact models?](https://old.reddit.com/r/LocalLLaMA/comments/1816h1x/how_much_does_quantization_actually_impact_models/)
-- [What&#39;s the deal with Effective Accelerationism &lpar;e/acc&rpar;?](https://www.lesswrong.com/posts/2ss6gomAJdqjwdSCy/what-s-the-deal-with-effective-accelerationism-e-acc)
-- [How to raise from top-tier investors including Sam Altman and keep control](https://twitter.com/dsiroker/status/1727426215332470918)
-- [The Bright Side of Secrecy: The Energizing Effect of Positive Secrets [pdf]](https://www.apa.org/pubs/journals/releases/psp-pspa0000352.pdf)
-- [Intern Spotlight: 2023 Software Engineering Summer Projects](https://www.hudsonrivertrading.com/hrtbeat/intern-spotlight-2023-software-engineering/)
+- [Tesla remains king in US with 50% of EV market, as Big Auto gets electric shy](https://thedriven.io/2023/11/24/tesla-remains-king-in-us-with-50-share-of-ev-market-as-big-car-makers-get-electric-shy/)
+- [Ask HN: What are some good resources for big picture career growth as a SWE?](https://news.ycombinator.com/item?id=38400038)
+- [Important Update Regarding Bittrex Global](https://bittrexglobal.com/)
+- [J.L., et al. v. Google, LLC. &lpar;Video cameras in courtroom permitted&rpar; [pdf]](https://ia802702.us.archive.org/25/items/gov.uscourts.cand.415223/gov.uscourts.cand.415223.1.0.pdf)
+- [Aitertools: Well-tested utility functions dealing with async iterables](https://github.com/dahlia/aitertools)
+- [Screensharing mistake gets Nvidia sued over alleged stolen trade secrets](https://www.theverge.com/2023/11/23/23973673/valeo-nvidia-autonomous-driving-software-ip-theft-lawsuit)
+- [YouTube says it&#39;s not slowing down Firefox – just ad blockers](https://www.theverge.com/2023/11/21/23970721/google-youtube-ad-blocker-five-second-delay-firefox-chrome)
+- [Spinning Up in Deep RL by OpenAI](https://spinningup.openai.com/en/latest/)
+- [These look like prizewinning photos. They&#39;re AI fakes.](https://www.washingtonpost.com/technology/2023/11/23/stock-photos-ai-images-controversy/)
+- [Ask HN: Impact of current AI breakthrough on the educational choices of youth?](https://news.ycombinator.com/item?id=38399879)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

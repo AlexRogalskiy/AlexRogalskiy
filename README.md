@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Israel-Hamas war live: no hostages to be released before Friday, says Israeli official, amid reports ceasefire also delayed](https://www.theguardian.com/world/live/2023/nov/22/israel-hamas-war-live-updates-hostage-deal-release-ceasefire-pause-latest-news)
-- [Cuba Gooding Jr sued for alleged sexual misconduct in NYC bars](https://www.theguardian.com/film/2023/nov/22/cuba-gooding-jr-alleged-sexual-misconduct-civil-case)
-- [Canadian former intelligence chief found guilty of leaking state secrets](https://www.theguardian.com/world/2023/nov/23/cameron-ortis-canada-rcmp-royal-canadian-mounted-police)
-- [Russia-Ukraine war at a glance: what we know on day 638](https://www.theguardian.com/world/2023/nov/23/russia-ukraine-war-at-a-glance-what-we-know-on-day-638)
-- [Jake Daniels calls Jordan Henderson’s move to Saudi Arabia ‘slap in the face’](https://www.theguardian.com/football/2023/nov/23/jake-daniels-jordan-henderson-saudi-arabia)
-- [Adviser warns UK government against tightening laws on glorifying terrorism](https://www.theguardian.com/world/2023/nov/23/adviser-warns-government-against-tightening-laws-glorifying-terrorism)
-- [Mobo Awards for music of black origin to be held in Sheffield Arena](https://www.theguardian.com/music/2023/nov/23/mobo-awards-for-music-of-black-origin-to-be-held-in-sheffield-arena)
-- [‘Queen of Drury Lane’ Sarah Siddons celebrated in new play](https://www.theguardian.com/stage/2023/nov/23/sarah-siddons-actor-april-de-angelis-play-hampstead-theatre)
-- [Man and woman reportedly drown trying to cross Channel to UK](https://www.theguardian.com/uk-news/2023/nov/22/man-and-woman-reportedly-drown-trying-to-cross-channel-to-uk)
-- [Office of judge presiding over Trump’s New York trial bombarded with threats](https://www.theguardian.com/us-news/2023/nov/22/new-york-trump-trial-judge-arthur-engoron-clerk-death-threat)
+- [Israel-Hamas war live: Israel vows to continue ‘intense’ fighting after ceasefire; Hamas reportedly to release 23 Thai hostages](https://www.theguardian.com/world/live/2023/nov/23/israel-hamas-war-live-updates-gaza-ceasefire-hostage-release-friday-israeli-us-officials)
+- [Russia-Ukraine war at a glance: what we know on day 639](https://www.theguardian.com/world/2023/nov/24/russia-ukraine-war-at-a-glance-what-we-know-on-day-639)
+- [John Lewis to partner with Randox Health to open clinics in stores](https://www.theguardian.com/business/2023/nov/24/john-lewis-to-partner-with-randox-health-to-open-clinics-in-stores)
+- [Illegal bird of prey killings fall to lowest level in decade, but ‘true figure may be far higher’](https://www.theguardian.com/environment/2023/nov/24/bird-of-prey-killings-fall-to-lowest-level-in-decade-but-true-figure-may-be-far-higher)
+- [Relatives of 27 who drowned in Channel boat sinking demand answers](https://www.theguardian.com/uk-news/2023/nov/24/relatives-of-27-who-drowned-in-channel-boat-sinking-demand-answers)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2023/nov/24/premier-league-10-things-to-look-out-for-this-weekend)
+- [P&amp;O Cruises and Cunard threaten to fire and rehire more than 900 UK staff](https://www.theguardian.com/business/2023/nov/23/po-cruises-and-cunard-prepares-to-fire-and-rehire-more-than-900-uk-staff)
+- [New Zealand gets two deputy PMs after marathon coalition talks](https://www.theguardian.com/world/2023/nov/24/new-zealand-coalition-two-deputy-pms-national-party-act-wintston-peters)
+- [Novak Djokovic accuses noisy British fans of lack of respect after victory](https://www.theguardian.com/sport/2023/nov/23/novak-djokovic-davis-cup-great-britain-serbia-tennis)
+- [Poor people much more likely to die from sepsis, study finds](https://www.theguardian.com/society/2023/nov/23/poor-people-much-more-likely-die-sepsis-study)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [I made a website that tells you which human foods are toxic for dogs](https://www.isittoxicformydog.com)
-- [Auroratone, a Psychedelic 1940s Film, That Helped WWII Vets Overcome PTSD](https://www.openculture.com/2023/11/watch-an-auroratone-a-psychedelic-1940s-film.html)
-- [Computational Modelling of Terrains](https://tudelft3d.github.io/terrainbook/)
-- [Test, [, and [[ &lpar;2020&rpar;](https://jmmv.dev/2020/03/test-bracket.html)
-- [Zoom Fatigue Is Real, According to Brain Scans](https://spectrum.ieee.org/zoom-fatigue)
-- [ChatGPT generates fake data set to support scientific hypothesis](https://www.nature.com/articles/d41586-023-03635-w)
-- [OpenAI Shoves a Data Journalist and Violates Federal Law](https://aarongreenspan.substack.com/p/openai-gets-pushy)
-- [Tesla workers report explosions, concussions and robot injuries at Texas factory](https://www.theverge.com/2023/11/21/23971138/tesla-gigafactory-austin-texas-injury-reports-robot-claw-explosion)
-- [Rogue, and other roguelikes for Amiga](https://www.amigalove.com/viewtopic.php?t=2639)
-- [How do I become a graphics programmer?](https://gpuopen.com/learn/how_do_you_become_a_graphics_programmer/)
+- [Things you&#39;re allowed to do &lpar;2020&rpar;](https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/)
+- [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is hiring an Engineering Manager](https://news.ycombinator.com/item?id=38399650)
+- [The Medley Interlisp Project](https://interlisp.org/)
+- [Extremely large telescopes at risk](https://www.science.org/doi/10.1126/science.adm9964)
+- [Revival of Medley/Interlisp](https://www.theregister.com/2023/11/23/medley_interlisp_revival/)
+- [What do Apple, Meta, TikTok have in common? Fighting Europe&#39;s antitrust rules](https://www.theregister.com/2023/11/17/apple_ec_dma/)
+- [Experimental tree-based writing interface for GPT-3](https://github.com/socketteer/loom)
+- [PostgreSQL on S390x](https://www.cybertec-postgresql.com/en/postgresql-on-s390x/)
+- [ESA’s new Ariane 6 rocket passed a major full-scale rehearsal](https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Hot_fire_Ariane_6_ready_to_rumble)
+- [Community Contribution at GitLab](https://community.inc/deep-dives/contribution-gitlab)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

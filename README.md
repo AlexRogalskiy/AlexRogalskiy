@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Things you&#39;re allowed to do &lpar;2020&rpar;](https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/)
-- [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is hiring an Engineering Manager](https://news.ycombinator.com/item?id=38399650)
-- [The Medley Interlisp Project](https://interlisp.org/)
-- [Extremely large telescopes at risk](https://www.science.org/doi/10.1126/science.adm9964)
-- [Revival of Medley/Interlisp](https://www.theregister.com/2023/11/23/medley_interlisp_revival/)
-- [What do Apple, Meta, TikTok have in common? Fighting Europe&#39;s antitrust rules](https://www.theregister.com/2023/11/17/apple_ec_dma/)
-- [Experimental tree-based writing interface for GPT-3](https://github.com/socketteer/loom)
-- [PostgreSQL on S390x](https://www.cybertec-postgresql.com/en/postgresql-on-s390x/)
-- [ESA’s new Ariane 6 rocket passed a major full-scale rehearsal](https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Hot_fire_Ariane_6_ready_to_rumble)
-- [Community Contribution at GitLab](https://community.inc/deep-dives/contribution-gitlab)
+- [Fat OCI images are a cultural problem](https://discourse.nixos.org/t/oci-images-is-there-something-similar-to-distroless-images-built-with-nix/35957)
+- [Bandcamp support is faltering – maybe you should download your music now](https://linuximpact.com/bandcamp-support-is-faltering-download-your-music-now/)
+- [Things We Always Remind Ourselves While Coding](https://changelog.com/posts/things-we-always-remind-ourselves-while-coding)
+- [PacketMill: Toward per-Core 100-Gbps networking](https://dl.acm.org/doi/abs/10.1145/3445814.3446724)
+- [Minecraft rewritten from scratch in Kotlin, hypixel works](https://gitlab.bixilon.de/bixilon/minosoft)
+- [FastClick: A new architecture for programmable network infrastructure](https://github.com/tbarbette/fastclick)
+- [Show HN: IP Guide – info on IP addresses, Networks, and ASNs](https://ip.guide)
+- [Asus Intros GeForce RTX 4060 Ti Video Card with Integrated M.2 SSD Slot](https://www.anandtech.com/show/21158/asus-intros-geforce-rtx-4060-ti-with-m2-ssd-slot)
+- [Kepler, Nvidia&#39;s Strong Start on 28 nm](https://chipsandcheese.com/2023/11/24/inside-kepler-nvidias-strong-start-on-28-nm/)
+- [Autonomous excavator constructs a six-metre-high dry-stone wall](https://ethz.ch/en/news-and-events/eth-news/news/2023/11/autonomous-excavator-constructs-a-six-metre-high-dry-stone-wall.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Israel-Hamas war live: Israel vows to continue ‘intense’ fighting after ceasefire; Hamas reportedly to release 23 Thai hostages](https://www.theguardian.com/world/live/2023/nov/23/israel-hamas-war-live-updates-gaza-ceasefire-hostage-release-friday-israeli-us-officials)
-- [Russia-Ukraine war at a glance: what we know on day 639](https://www.theguardian.com/world/2023/nov/24/russia-ukraine-war-at-a-glance-what-we-know-on-day-639)
-- [John Lewis to partner with Randox Health to open clinics in stores](https://www.theguardian.com/business/2023/nov/24/john-lewis-to-partner-with-randox-health-to-open-clinics-in-stores)
-- [Illegal bird of prey killings fall to lowest level in decade, but ‘true figure may be far higher’](https://www.theguardian.com/environment/2023/nov/24/bird-of-prey-killings-fall-to-lowest-level-in-decade-but-true-figure-may-be-far-higher)
-- [Relatives of 27 who drowned in Channel boat sinking demand answers](https://www.theguardian.com/uk-news/2023/nov/24/relatives-of-27-who-drowned-in-channel-boat-sinking-demand-answers)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2023/nov/24/premier-league-10-things-to-look-out-for-this-weekend)
-- [P&amp;O Cruises and Cunard threaten to fire and rehire more than 900 UK staff](https://www.theguardian.com/business/2023/nov/23/po-cruises-and-cunard-prepares-to-fire-and-rehire-more-than-900-uk-staff)
-- [New Zealand gets two deputy PMs after marathon coalition talks](https://www.theguardian.com/world/2023/nov/24/new-zealand-coalition-two-deputy-pms-national-party-act-wintston-peters)
-- [Novak Djokovic accuses noisy British fans of lack of respect after victory](https://www.theguardian.com/sport/2023/nov/23/novak-djokovic-davis-cup-great-britain-serbia-tennis)
-- [Poor people much more likely to die from sepsis, study finds](https://www.theguardian.com/society/2023/nov/23/poor-people-much-more-likely-die-sepsis-study)
+- [Israel-Hamas war live: ‘Real’ chance of ceasefire extension, says Biden; biggest aid convoy since start of war enters Gaza](https://www.theguardian.com/world/live/2023/nov/24/israel-hamas-war-live-ceasefire-set-to-begin-on-friday-morning-with-hostage-release-due-shortly-after)
+- [Sunak risks ripping up Good Friday agreement over Rwanda, senior Tories say](https://www.theguardian.com/politics/2023/nov/24/sunak-risks-ripping-up-good-friday-agreement-rwanda-senior-tories-say)
+- [Irish police chief warns of further disruption by far right after Dublin riot](https://www.theguardian.com/world/2023/nov/24/dublin-rioters-could-face-jail-helen-mcentee-justice-minister-says)
+- [Met police shoot dead armed man who said he wanted to kill himself](https://www.theguardian.com/uk-news/2023/nov/24/met-police-shoot-dead-armed-man-who-said-he-wanted-to-kill-himself)
+- [What I learned from our child sexual abuse survey: ‘rational paranoia’ can help parents protect their kids | Michael Salter](https://www.theguardian.com/commentisfree/2023/nov/25/what-i-learned-from-our-child-sexual-abuse-survey-rational-paranoia-can-help-parents-protect-their-kids)
+- [Nightmarish, playful, erotic: the revelatory Sydney show of art titan Louise Bourgeois](https://www.theguardian.com/artanddesign/2023/nov/25/louise-bourgeois-art-gallery-nsw-has-the-day-invaded-the-night-or-has-the-night-invaded-the-day)
+- [Meet the teenager flying solo around Australia and breaking records in between exams](https://www.theguardian.com/australia-news/2023/nov/25/chloe-familton-teenage-pilot-solo-australia)
+- [George Ford sinks Bath as Sale extend lead at the top with tense win](https://www.theguardian.com/sport/2023/nov/24/george-ford-sinks-bath-as-sale-edge-tense-clash-to-extend-lead-at-the-top)
+- [Pep Guardiola: I won’t resign if Manchester City are relegated to League One](https://www.theguardian.com/football/2023/nov/24/pep-guardiola-manchester-city-premier-league-ffp)
+- [‘The whole planet should watch’: Klopp ready to reboot City v Liverpool rivalry](https://www.theguardian.com/football/2023/nov/24/the-whole-planet-should-watch-klopp-ready-to-reboot-city-v-liverpool-rivalry)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Tesla remains king in US with 50% of EV market, as Big Auto gets electric shy](https://thedriven.io/2023/11/24/tesla-remains-king-in-us-with-50-share-of-ev-market-as-big-car-makers-get-electric-shy/)
-- [Ask HN: What are some good resources for big picture career growth as a SWE?](https://news.ycombinator.com/item?id=38400038)
-- [Important Update Regarding Bittrex Global](https://bittrexglobal.com/)
-- [J.L., et al. v. Google, LLC. &lpar;Video cameras in courtroom permitted&rpar; [pdf]](https://ia802702.us.archive.org/25/items/gov.uscourts.cand.415223/gov.uscourts.cand.415223.1.0.pdf)
-- [Aitertools: Well-tested utility functions dealing with async iterables](https://github.com/dahlia/aitertools)
-- [Screensharing mistake gets Nvidia sued over alleged stolen trade secrets](https://www.theverge.com/2023/11/23/23973673/valeo-nvidia-autonomous-driving-software-ip-theft-lawsuit)
-- [YouTube says it&#39;s not slowing down Firefox – just ad blockers](https://www.theverge.com/2023/11/21/23970721/google-youtube-ad-blocker-five-second-delay-firefox-chrome)
-- [Spinning Up in Deep RL by OpenAI](https://spinningup.openai.com/en/latest/)
-- [These look like prizewinning photos. They&#39;re AI fakes.](https://www.washingtonpost.com/technology/2023/11/23/stock-photos-ai-images-controversy/)
-- [Ask HN: Impact of current AI breakthrough on the educational choices of youth?](https://news.ycombinator.com/item?id=38399879)
+- [Me/Machine – real-time improvisational interaction between computer and musician](https://www.youtube.com/watch?v=XaqTkLI4DxQ)
+- [If you get sued for an AI creative work Anthropic says you&#39;re on your own](https://www.businessinsider.com/openai-anthropic-stances-users-sued-copyright-2023-11)
+- [Ask HN: How to remotely support older parents with bad health/lifestyle habits?](https://news.ycombinator.com/item?id=38410433)
+- [Fat OCI images are a cultural problem](https://discourse.nixos.org/t/oci-images-is-there-something-similar-to-distroless-images-built-with-nix/35957)
+- [Selling Software to Large Businesses](https://training.kalzumeus.com/newsletters/archive/enterprise_sales)
+- [Pythonicity: Composition vs. Inheritance](https://coady.github.io/posts/composition-vs-inheritance.html)
+- [Paul Graham GPT](https://chat.openai.com/gpts/editor/g-BR2p4AkpR)
+- [Be My Eyes AI offers GPT-4-powered support for blind Microsoft customers](https://www.theverge.com/2023/11/15/23962709/microsoft-blind-users-open-ai-chatgpt-4-be-my-eyes)
+- [Review – The Price of Time: The Real Story of Interest](https://www.lrb.co.uk/the-paper/v45/n22/jamie-martin/kettle-of-vultures)
+- [The Mess of a Creative Space](https://creativefuel.substack.com/p/the-mess-of-a-creative-space)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

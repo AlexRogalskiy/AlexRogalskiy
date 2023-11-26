@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Fat OCI images are a cultural problem](https://discourse.nixos.org/t/oci-images-is-there-something-similar-to-distroless-images-built-with-nix/35957)
-- [Bandcamp support is faltering – maybe you should download your music now](https://linuximpact.com/bandcamp-support-is-faltering-download-your-music-now/)
-- [Things We Always Remind Ourselves While Coding](https://changelog.com/posts/things-we-always-remind-ourselves-while-coding)
-- [PacketMill: Toward per-Core 100-Gbps networking](https://dl.acm.org/doi/abs/10.1145/3445814.3446724)
-- [Minecraft rewritten from scratch in Kotlin, hypixel works](https://gitlab.bixilon.de/bixilon/minosoft)
-- [FastClick: A new architecture for programmable network infrastructure](https://github.com/tbarbette/fastclick)
-- [Show HN: IP Guide – info on IP addresses, Networks, and ASNs](https://ip.guide)
-- [Asus Intros GeForce RTX 4060 Ti Video Card with Integrated M.2 SSD Slot](https://www.anandtech.com/show/21158/asus-intros-geforce-rtx-4060-ti-with-m2-ssd-slot)
-- [Kepler, Nvidia&#39;s Strong Start on 28 nm](https://chipsandcheese.com/2023/11/24/inside-kepler-nvidias-strong-start-on-28-nm/)
-- [Autonomous excavator constructs a six-metre-high dry-stone wall](https://ethz.ch/en/news-and-events/eth-news/news/2023/11/autonomous-excavator-constructs-a-six-metre-high-dry-stone-wall.html)
+- [Naev – open-source game about space exploration, trade and combat](https://naev.org/)
+- [Raiders of the Lost Ark Story Conference Transcript](https://indiefilmhustle.com/tag/raiders-of-the-lost-ark-story-conference-transcript/)
+- [Debian&#39;s MIPS64EL CPU Port Is at Risk Due to Declining Hardware Access](https://www.phoronix.com/news/Debian-MIPS64EL-Risk)
+- [Aerial refuelling without human intervention](https://www.airbus.com/en/newsroom/stories/2023-11-aerial-refuelling-without-human-intervention)
+- [Postgres: Extensions Shape the Future [pdf]](https://blog.rustprooflabs.com/static/docs/pass2023--Extensions-Shape-the-Future.pdf)
+- [Reflections on learning programming](https://blog.osm-ai.net/thinking/2023/10/26/novice-mistakes.html)
+- [Ancient Echoes](https://www.etymonline.com/columns/post/ancient-echoes)
+- [Meticulous &lpar;YC S21&rpar; Is Hiring to solve end-to-end testing](https://news.ycombinator.com/item?id=38416633)
+- [It&#39;s time for a new old language &lpar;2017&rpar; [pdf]](https://groups.csail.mit.edu/mac/users/gjs/6.945/readings/Steele-MIT-April-2017.pdf)
+- [Nvidia sued for stealing trade secrets: blunder showed rival company&#39;s code](https://www.engadget.com/nvidia-sued-for-stealing-trade-secrets-after-screensharing-blunder-showed-rival-companys-code-063009605.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

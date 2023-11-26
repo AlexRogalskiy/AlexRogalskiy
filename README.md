@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Me/Machine – real-time improvisational interaction between computer and musician](https://www.youtube.com/watch?v=XaqTkLI4DxQ)
-- [If you get sued for an AI creative work Anthropic says you&#39;re on your own](https://www.businessinsider.com/openai-anthropic-stances-users-sued-copyright-2023-11)
-- [Ask HN: How to remotely support older parents with bad health/lifestyle habits?](https://news.ycombinator.com/item?id=38410433)
-- [Fat OCI images are a cultural problem](https://discourse.nixos.org/t/oci-images-is-there-something-similar-to-distroless-images-built-with-nix/35957)
-- [Selling Software to Large Businesses](https://training.kalzumeus.com/newsletters/archive/enterprise_sales)
-- [Pythonicity: Composition vs. Inheritance](https://coady.github.io/posts/composition-vs-inheritance.html)
-- [Paul Graham GPT](https://chat.openai.com/gpts/editor/g-BR2p4AkpR)
-- [Be My Eyes AI offers GPT-4-powered support for blind Microsoft customers](https://www.theverge.com/2023/11/15/23962709/microsoft-blind-users-open-ai-chatgpt-4-be-my-eyes)
-- [Review – The Price of Time: The Real Story of Interest](https://www.lrb.co.uk/the-paper/v45/n22/jamie-martin/kettle-of-vultures)
-- [The Mess of a Creative Space](https://creativefuel.substack.com/p/the-mess-of-a-creative-space)
+- [Bay Area proposes per mile toll for using the freeways](https://www.nbcbayarea.com/news/local/bay-area-all-lane-freeway-tolling-climate-concerns/3366036/)
+- [Coeffects and UseSyncExternalStore](https://patrickthebold.github.io/posts/react-viii-coeffects/)
+- [Spanish agency&#39;s AI generated model/influencer is making $11k/mo](https://fortune.com/europe/2023/11/23/spanish-influencer-agency-earned-11000-ai-model-posers/)
+- [Show HN: Egsis: Exploratory Graph-Based Semi-Supervised Image Segmentation](https://github.com/ryukinix/egsis)
+- [Asahi Linux will not support extra display features compared to macOS](https://social.treehouse.systems/@AsahiLinux/111471781087466583)
+- [Open Letter to C. Wright Mills [pdf]](http://burawoy.berkeley.edu/PS/Open%20Letter%20to%20Mills.pdf)
+- [Ethical Implications of AI in the Film Industry](https://infinityflicks.com/2023/11/23/ethical-implications-of-ai-in-movie-production/)
+- [Australia Is Edging Closer to Meeting Its 2030 Emissions Target](https://www.bloomberg.com/news/articles/2023-11-26/australia-is-edging-closer-to-meeting-its-2030-emissions-target)
+- [Christopher Johnson&#39;s ASCII Art Collection](https://asciiart.website/)
+- [EU governments agree on rules for how non-EU citizens could move around Europe](https://www.thelocal.dk/20231125/eu-governments-agree-on-rules-for-how-non-eu-citizens-could-move-around-europe)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

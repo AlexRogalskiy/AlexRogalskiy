@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Israel-Hamas war live: ‘Real’ chance of ceasefire extension, says Biden; biggest aid convoy since start of war enters Gaza](https://www.theguardian.com/world/live/2023/nov/24/israel-hamas-war-live-ceasefire-set-to-begin-on-friday-morning-with-hostage-release-due-shortly-after)
-- [Sunak risks ripping up Good Friday agreement over Rwanda, senior Tories say](https://www.theguardian.com/politics/2023/nov/24/sunak-risks-ripping-up-good-friday-agreement-rwanda-senior-tories-say)
-- [Irish police chief warns of further disruption by far right after Dublin riot](https://www.theguardian.com/world/2023/nov/24/dublin-rioters-could-face-jail-helen-mcentee-justice-minister-says)
-- [Met police shoot dead armed man who said he wanted to kill himself](https://www.theguardian.com/uk-news/2023/nov/24/met-police-shoot-dead-armed-man-who-said-he-wanted-to-kill-himself)
-- [What I learned from our child sexual abuse survey: ‘rational paranoia’ can help parents protect their kids | Michael Salter](https://www.theguardian.com/commentisfree/2023/nov/25/what-i-learned-from-our-child-sexual-abuse-survey-rational-paranoia-can-help-parents-protect-their-kids)
-- [Nightmarish, playful, erotic: the revelatory Sydney show of art titan Louise Bourgeois](https://www.theguardian.com/artanddesign/2023/nov/25/louise-bourgeois-art-gallery-nsw-has-the-day-invaded-the-night-or-has-the-night-invaded-the-day)
-- [Meet the teenager flying solo around Australia and breaking records in between exams](https://www.theguardian.com/australia-news/2023/nov/25/chloe-familton-teenage-pilot-solo-australia)
-- [George Ford sinks Bath as Sale extend lead at the top with tense win](https://www.theguardian.com/sport/2023/nov/24/george-ford-sinks-bath-as-sale-edge-tense-clash-to-extend-lead-at-the-top)
-- [Pep Guardiola: I won’t resign if Manchester City are relegated to League One](https://www.theguardian.com/football/2023/nov/24/pep-guardiola-manchester-city-premier-league-ffp)
-- [‘The whole planet should watch’: Klopp ready to reboot City v Liverpool rivalry](https://www.theguardian.com/football/2023/nov/24/the-whole-planet-should-watch-klopp-ready-to-reboot-city-v-liverpool-rivalry)
+- [Israel-Hamas war live: Palestinians released from Israeli prison arrive in Jerusalem, Palestinian news agency WAFA reports](https://www.theguardian.com/world/live/2023/nov/25/israel-hamas-war-live-hamas-set-to-release-fresh-wave-of-hostages-reports-say-as-ceasefire-continues)
+- [Russia-Ukraine war at a glance: what we know on day 641](https://www.theguardian.com/world/2023/nov/26/russia-ukraine-war-at-a-glance-what-we-know-on-day-641)
+- [We Love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2023/nov/25/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Blouse worn by Diana in 1981 royal engagement portrait to be auctioned](https://www.theguardian.com/uk-news/2023/nov/25/blouse-worn-by-diana-in-1981-royal-engagement-portrait-could-sell-for-79k)
+- [Katie Taylor finds redemption against Chantelle Cameron on epic night](https://www.theguardian.com/sport/2023/nov/25/katie-taylor-finds-redemption-against-chantelle-cameron-on-epic-night)
+- [Comfy clogs: 10 of the best for this winter – in pictures](https://www.theguardian.com/fashion/gallery/2023/nov/25/comfy-clogs-10-of-the-best-for-this-winter-in-pictures)
+- [Trend watch: polish up your act with the new silver age](https://www.theguardian.com/fashion/2023/nov/25/trend-watch-polish-up-your-act-with-the-new-silver-age)
+- [Kidnappers free two of three journalists taken in Mexico, group says](https://www.theguardian.com/world/2023/nov/25/kidnappers-free-two-of-three-journalists-taken-in-mexico-group-says)
+- [Lockerbie review – a masterclass in moving, urgent TV](https://www.theguardian.com/tv-and-radio/2023/nov/25/sky-now-tv-lockerbie-review-a-masterclass-in-creating-moving-urgent-tv)
+- [‘It doesn’t look good’: George Santos expects to be expelled from Congress](https://www.theguardian.com/us-news/2023/nov/25/george-santos-congress-expulsion)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

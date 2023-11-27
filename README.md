@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Naev – open-source game about space exploration, trade and combat](https://naev.org/)
-- [Raiders of the Lost Ark Story Conference Transcript](https://indiefilmhustle.com/tag/raiders-of-the-lost-ark-story-conference-transcript/)
-- [Debian&#39;s MIPS64EL CPU Port Is at Risk Due to Declining Hardware Access](https://www.phoronix.com/news/Debian-MIPS64EL-Risk)
-- [Aerial refuelling without human intervention](https://www.airbus.com/en/newsroom/stories/2023-11-aerial-refuelling-without-human-intervention)
-- [Postgres: Extensions Shape the Future [pdf]](https://blog.rustprooflabs.com/static/docs/pass2023--Extensions-Shape-the-Future.pdf)
-- [Reflections on learning programming](https://blog.osm-ai.net/thinking/2023/10/26/novice-mistakes.html)
-- [Ancient Echoes](https://www.etymonline.com/columns/post/ancient-echoes)
-- [Meticulous &lpar;YC S21&rpar; Is Hiring to solve end-to-end testing](https://news.ycombinator.com/item?id=38416633)
-- [It&#39;s time for a new old language &lpar;2017&rpar; [pdf]](https://groups.csail.mit.edu/mac/users/gjs/6.945/readings/Steele-MIT-April-2017.pdf)
-- [Nvidia sued for stealing trade secrets: blunder showed rival company&#39;s code](https://www.engadget.com/nvidia-sued-for-stealing-trade-secrets-after-screensharing-blunder-showed-rival-companys-code-063009605.html)
+- [World’s Biggest iceberg moving beyond Antarctic waters](https://www.theguardian.com/world/2023/nov/27/worlds-biggest-iceberg-moving-beyond-antarctic-waters)
+- [Studio One 6.5 is now available as public beta version for Ubuntu Linux](https://www.presonussoftware.com/en_US/blog/studio-one-6-5-for-linux)
+- [The artificial glacier growing in the desert &lpar;2017&rpar;](https://www.cnn.com/style/article/ice-stupa-sonam-wangchuk/index.html)
+- [Getting Started with Technical Writing](https://opensource.net/get-started-with-technical-writing/)
+- [SysXCHG: Refining Privilege with Adaptive System Call Filters](https://gitlab.com/brown-ssl/sysxchg)
+- [The Death of a Relic Hunter](https://www.newyorker.com/news/letter-from-the-south/the-death-of-a-relic-hunter)
+- [Build Your Own Hi-Fi Ear Defenders](https://spectrum.ieee.org/hi-fi-ear-defenders)
+- [Svix &lpar;YC W21&rpar; Is Hiring a Tech Lead &lpar;US Remote&rpar;](https://www.svix.com/careers/)
+- [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
+- [FontForge](https://fontforge.org)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

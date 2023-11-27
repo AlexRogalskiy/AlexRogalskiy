@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Israel-Hamas war live: Palestinians released from Israeli prison arrive in Jerusalem, Palestinian news agency WAFA reports](https://www.theguardian.com/world/live/2023/nov/25/israel-hamas-war-live-hamas-set-to-release-fresh-wave-of-hostages-reports-say-as-ceasefire-continues)
-- [Russia-Ukraine war at a glance: what we know on day 641](https://www.theguardian.com/world/2023/nov/26/russia-ukraine-war-at-a-glance-what-we-know-on-day-641)
-- [We Love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2023/nov/25/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Blouse worn by Diana in 1981 royal engagement portrait to be auctioned](https://www.theguardian.com/uk-news/2023/nov/25/blouse-worn-by-diana-in-1981-royal-engagement-portrait-could-sell-for-79k)
-- [Katie Taylor finds redemption against Chantelle Cameron on epic night](https://www.theguardian.com/sport/2023/nov/25/katie-taylor-finds-redemption-against-chantelle-cameron-on-epic-night)
-- [Comfy clogs: 10 of the best for this winter – in pictures](https://www.theguardian.com/fashion/gallery/2023/nov/25/comfy-clogs-10-of-the-best-for-this-winter-in-pictures)
-- [Trend watch: polish up your act with the new silver age](https://www.theguardian.com/fashion/2023/nov/25/trend-watch-polish-up-your-act-with-the-new-silver-age)
-- [Kidnappers free two of three journalists taken in Mexico, group says](https://www.theguardian.com/world/2023/nov/25/kidnappers-free-two-of-three-journalists-taken-in-mexico-group-says)
-- [Lockerbie review – a masterclass in moving, urgent TV](https://www.theguardian.com/tv-and-radio/2023/nov/25/sky-now-tv-lockerbie-review-a-masterclass-in-creating-moving-urgent-tv)
-- [‘It doesn’t look good’: George Santos expects to be expelled from Congress](https://www.theguardian.com/us-news/2023/nov/25/george-santos-congress-expulsion)
+- [Israel-Hamas war live: Red Cross confirms exchange of 17 Hamas hostages and 19 Palestinians detained in Israeli prisons](https://www.theguardian.com/world/live/2023/nov/26/israel-hamas-war-live-hostages-ceasefire-gaza-palestinian-prisoners-truce)
+- [China’s coal addiction puts spotlight on its climate ambitions before Cop28](https://www.theguardian.com/world/2023/nov/27/china-coal-addiction-spotlight-climate-ambitions-cop28)
+- [Russia-Ukraine war at a glance: what we know on day 642](https://www.theguardian.com/world/2023/nov/27/russia-ukraine-war-at-a-glance-what-we-know-on-day-642)
+- [Happy, faithful and tied to nature: life adapting to the climate crisis – photo essay](https://www.theguardian.com/world/2023/nov/27/cop28-summit-photo-essay-climate-crisis)
+- [New Zealand scraps world-first smoking ‘generation ban’ to fund tax cuts](https://www.theguardian.com/world/2023/nov/27/new-zealand-scraps-world-first-smoking-generation-ban-to-fund-tax-cuts)
+- [World’s biggest iceberg moving beyond Antarctic waters](https://www.theguardian.com/world/2023/nov/27/worlds-biggest-iceberg-moving-beyond-antarctic-waters)
+- [Powerful Lords committee damns Bank of England over inflation forecasts](https://www.theguardian.com/business/2023/nov/27/bank-of-england-inflation-forecasts-lords-committee-report)
+- [‘Blindspots’ revealed as UK’s top firms have women in just one in five commercial roles](https://www.theguardian.com/business/2023/nov/27/gender-parity-study-pipeline-uk-companies-women-commercial-roles)
+- [Ministers to appoint adviser to support disaster victims in England and Wales](https://www.theguardian.com/uk-news/2023/nov/27/ministers-appoint-independent-adviser-support-disaster-victims-england-wales)
+- [NHS care delays in England harmed 8,000 people and caused 112 deaths last year](https://www.theguardian.com/society/2023/nov/26/nhs-england-care-delays-harmed-8000-people-and-caused-112-deaths-last-year)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

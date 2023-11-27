@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Bay Area proposes per mile toll for using the freeways](https://www.nbcbayarea.com/news/local/bay-area-all-lane-freeway-tolling-climate-concerns/3366036/)
-- [Coeffects and UseSyncExternalStore](https://patrickthebold.github.io/posts/react-viii-coeffects/)
-- [Spanish agency&#39;s AI generated model/influencer is making $11k/mo](https://fortune.com/europe/2023/11/23/spanish-influencer-agency-earned-11000-ai-model-posers/)
-- [Show HN: Egsis: Exploratory Graph-Based Semi-Supervised Image Segmentation](https://github.com/ryukinix/egsis)
-- [Asahi Linux will not support extra display features compared to macOS](https://social.treehouse.systems/@AsahiLinux/111471781087466583)
-- [Open Letter to C. Wright Mills [pdf]](http://burawoy.berkeley.edu/PS/Open%20Letter%20to%20Mills.pdf)
-- [Ethical Implications of AI in the Film Industry](https://infinityflicks.com/2023/11/23/ethical-implications-of-ai-in-movie-production/)
-- [Australia Is Edging Closer to Meeting Its 2030 Emissions Target](https://www.bloomberg.com/news/articles/2023-11-26/australia-is-edging-closer-to-meeting-its-2030-emissions-target)
-- [Christopher Johnson&#39;s ASCII Art Collection](https://asciiart.website/)
-- [EU governments agree on rules for how non-EU citizens could move around Europe](https://www.thelocal.dk/20231125/eu-governments-agree-on-rules-for-how-non-eu-citizens-could-move-around-europe)
+- [LaTeX Talks from the Tug Conference 2023 in Bonn](https://www.latex-project.org/news/2023/11/25/TUG-online-talks-2023/)
+- [The anti-avocado militias of Michoacán](https://harpers.org/archive/2023/11/forbidden-fruit-avocado-militias-michoacan-mexico/)
+- [SEC Investigation Looms for OpenAI CEO Altman and Microsoft CEO Nadella](https://www.halt.org/sec-investigation-looms-for-openai-ceo-sam-altman-and-microsoft-ceo-satya-nadella/)
+- [Dufs: Simple File Server with Upload, Search, Access Control, and More](https://github.com/sigoden/dufs)
+- [Many explanations of JOIN are wrong, and people get confused](https://minimalmodeling.substack.com/p/many-explanations-of-join-are-wrong)
+- [Lifting the Bonnet on Gran Turismo&#39;s Model Format](https://nenkai.github.io/gt-modding-hub/blog/2023/11/26/lifting-bonnet-on-gt-models/)
+- [Paper: You Want My Password or a Dead Patient? &lpar;2015&rpar;](https://cohost.org/mononcqc/post/3647311-paper-you-want-my-p)
+- [Amazon EFS now supports up to 250k IOPS per file system](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-efs-250000-iops-per-file-system/)
+- [What is COP28 and why is it important?](https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/environment/what-is-cop28-and-why-is-it-important-11809001.html)
+- [Kongsberg, Norway and Germany to Develop New &quot;Super Missile&quot;](https://defence-industry.eu/kongsberg-norway-and-germany-to-develop-new-super-missile/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

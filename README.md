@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Israel-Hamas war live: Red Cross confirms exchange of 17 Hamas hostages and 19 Palestinians detained in Israeli prisons](https://www.theguardian.com/world/live/2023/nov/26/israel-hamas-war-live-hostages-ceasefire-gaza-palestinian-prisoners-truce)
-- [China’s coal addiction puts spotlight on its climate ambitions before Cop28](https://www.theguardian.com/world/2023/nov/27/china-coal-addiction-spotlight-climate-ambitions-cop28)
-- [Russia-Ukraine war at a glance: what we know on day 642](https://www.theguardian.com/world/2023/nov/27/russia-ukraine-war-at-a-glance-what-we-know-on-day-642)
-- [Happy, faithful and tied to nature: life adapting to the climate crisis – photo essay](https://www.theguardian.com/world/2023/nov/27/cop28-summit-photo-essay-climate-crisis)
-- [New Zealand scraps world-first smoking ‘generation ban’ to fund tax cuts](https://www.theguardian.com/world/2023/nov/27/new-zealand-scraps-world-first-smoking-generation-ban-to-fund-tax-cuts)
-- [World’s biggest iceberg moving beyond Antarctic waters](https://www.theguardian.com/world/2023/nov/27/worlds-biggest-iceberg-moving-beyond-antarctic-waters)
-- [Powerful Lords committee damns Bank of England over inflation forecasts](https://www.theguardian.com/business/2023/nov/27/bank-of-england-inflation-forecasts-lords-committee-report)
-- [‘Blindspots’ revealed as UK’s top firms have women in just one in five commercial roles](https://www.theguardian.com/business/2023/nov/27/gender-parity-study-pipeline-uk-companies-women-commercial-roles)
-- [Ministers to appoint adviser to support disaster victims in England and Wales](https://www.theguardian.com/uk-news/2023/nov/27/ministers-appoint-independent-adviser-support-disaster-victims-england-wales)
-- [NHS care delays in England harmed 8,000 people and caused 112 deaths last year](https://www.theguardian.com/society/2023/nov/26/nhs-england-care-delays-harmed-8000-people-and-caused-112-deaths-last-year)
+- [Bruce Lehrmann defamation trial live: Lehrmann calls Scott Morrison’s apology to Brittany Higgins ‘stupid’ during cross-examination](https://www.theguardian.com/law/live/2023/nov/28/bruce-lehrmann-live-news-stream-defamation-trial-day-5-network-10-ten-lisa-wilkinson-federal-court-brittany-higgins-latest-news-updates-ntwnfb)
+- [Israel-Hamas war live: 33 Palestinians freed after 11 Israeli hostages released; Gaza truce extended by two days](https://www.theguardian.com/world/live/2023/nov/27/israel-hamas-war-live-updates-gaza-ceasefire-hostages-deal-end-extension-benjamin-netanyahu)
+- [Who are the Israeli hostages freed by Hamas during Gaza truce?](https://www.theguardian.com/world/2023/nov/27/who-are-the-israeli-hostages-freed-by-hamas-during-gaza-truce)
+- [Russia-Ukraine war at a glance: what we know on day 643](https://www.theguardian.com/world/2023/nov/28/russia-ukraine-war-at-a-glance-what-we-know-on-day-643)
+- [Foreign care workers invited to UK ‘exploited on grand scale’, says union](https://www.theguardian.com/society/2023/nov/28/foreign-care-workers-invited-to-uk-exploited-on-grand-scale-says-union)
+- [Former world leaders seek $25bn levy on oil states’ revenues to pay for climate damage](https://www.theguardian.com/environment/2023/nov/28/former-world-leaders-seek-25bn-levy-on-oil-states-revenues-to-pay-for-climate-damage)
+- [‘It’s bittersweet’: MoJ sentencing changes will bring freedom for some](https://www.theguardian.com/law/2023/nov/28/sentencing-changes-freedom-for-some-moj)
+- [Over 1,800 offenders to have indefinite jail sentences terminated, says MoJ](https://www.theguardian.com/law/2023/nov/28/offenders-indefinite-jail-sentences-terminated-moj)
+- [‘It’s amazing’: scientists analyse 4.6bn-year-old dark dust from Bennu asteroid](https://www.theguardian.com/science/2023/nov/28/its-amazing-scientists-analyse-46bn-year-old-dark-dust-from-bennu-asteroid)
+- [Bus services cut by more than 80% in parts of England and Wales since 2008, finds study](https://www.theguardian.com/uk-news/2023/nov/28/bus-services-cut-by-more-than-80-perent-in-parts-of-england-and-wales-since-2008-finds-study)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

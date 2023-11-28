@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
-- [Windows-as-an-app is coming](https://www.computerworld.com/article/3711200/windows-as-an-app-is-coming.html#tk.rss_all)
-- [Digital advocacy group criticizes current scope of the EU AI Act](https://www.computerworld.com/article/3711381/digital-advocacy-group-criticizes-current-scope-of-the-eu-ai-act.html#tk.rss_all)
-- [India launches global repository of Digital Public Infrastructure](https://www.computerworld.com/article/3711342/india-launches-global-repository-of-digital-public-infrastructure.html#tk.rss_all)
-- [How to think about Apple Silicon](https://www.computerworld.com/article/3711260/how-to-think-about-apple-silicon.html#tk.rss_all)
-- [Nonfiction authors sue OpenAI, Microsoft over copyright infringement](https://www.computerworld.com/article/3711321/nonfiction-authors-sue-openai-microsoft-over-copyright-infringement.html#tk.rss_all)
-- [Don’t let Apple’s Vision Pro come in by the back door](https://www.computerworld.com/article/3711300/dont-let-apples-vision-pro-come-in-by-the-back-door.html#tk.rss_all)
-- [Sam Altman returns to OpenAI after agreement reached](https://www.computerworld.com/article/3711320/sam-altman-returns-to-openai-after-agreement-reached.html#tk.rss_all)
-- [Confluent unveils data streaming for AI for real-time applications](https://www.computerworld.com/article/3711240/confluent-unveils-data-streaming-for-ai-for-real-time-applications.html#tk.rss_all)
-- [Anthropic&#39;s Claude 2.1 LLM turbocharges performance, offers beta tool use](https://www.computerworld.com/article/3711280/anthropics-claude-21-llm-turbocharges-performance-offers-beta-tool-use.html#tk.rss_all)
-- [Got a Google Pixel? Check out these awesome Android 14 gems](https://www.computerworld.com/article/3708189/google-pixel-android-14.html#tk.rss_all)
+- [New Amazon Lex AI features aim to let developers quickly build, enhance bots](https://www.infoworld.com/article/3711441/new-amazon-lex-ai-features-aim-to-let-developers-quickly-build-enhance-bots.html#tk.rss_all)
+- [Google US antitrust trial: A timeline](https://www.computerworld.com/article/3706893/googles-us-antitrust-trials-a-timeline.html#tk.rss_all)
+- [6+ issues for autonomous vehicles &lpar;and any Apple Car&rpar;](https://www.computerworld.com/article/3711440/6-issues-for-autonomous-vehicles-and-any-apple-car.html#tk.rss_all)
+- [Alibaba shutters quantum computing efforts](https://www.computerworld.com/article/3711420/alibaba-shutters-quantum-computing-efforts.html#tk.rss_all)
+- [Best Places to Work in IT 2024](https://www.computerworld.com/article/3710492/computerworld-best-places-to-work-in-it-2024.html#tk.rss_all)
+- [AWS turns Fire TV Cube into Thin Client for enterprises](https://www.computerworld.com/article/3711401/aws-turns-fire-tv-cube-into-thin-client-for-enterprises.html#tk.rss_all)
+- [At BCU, IT is a core competency for business success](https://www.computerworld.com/article/3710568/bcu-it-core-competency-business-success.html#tk.rss_all)
+- [‘IT that just works’: A mantra for innovation at Kinaxis](https://www.computerworld.com/article/3710432/it-that-just-works-mantra-for-innovation-at-kinaxis.html#tk.rss_all)
+- [At UKG, diversity is a linchpin of better IT and business outcomes](https://www.computerworld.com/article/3710431/ukg-diversity-better-tech-and-business-outcomes.html#tk.rss_all)
+- [US, UK, Japan, and other major powers sign AI security accord](https://www.computerworld.com/article/3711400/us-uk-japan-and-other-major-powers-sign-ai-security-accord.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [LaTeX Talks from the Tug Conference 2023 in Bonn](https://www.latex-project.org/news/2023/11/25/TUG-online-talks-2023/)
-- [The anti-avocado militias of Michoacán](https://harpers.org/archive/2023/11/forbidden-fruit-avocado-militias-michoacan-mexico/)
-- [SEC Investigation Looms for OpenAI CEO Altman and Microsoft CEO Nadella](https://www.halt.org/sec-investigation-looms-for-openai-ceo-sam-altman-and-microsoft-ceo-satya-nadella/)
-- [Dufs: Simple File Server with Upload, Search, Access Control, and More](https://github.com/sigoden/dufs)
-- [Many explanations of JOIN are wrong, and people get confused](https://minimalmodeling.substack.com/p/many-explanations-of-join-are-wrong)
-- [Lifting the Bonnet on Gran Turismo&#39;s Model Format](https://nenkai.github.io/gt-modding-hub/blog/2023/11/26/lifting-bonnet-on-gt-models/)
-- [Paper: You Want My Password or a Dead Patient? &lpar;2015&rpar;](https://cohost.org/mononcqc/post/3647311-paper-you-want-my-p)
-- [Amazon EFS now supports up to 250k IOPS per file system](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-efs-250000-iops-per-file-system/)
-- [What is COP28 and why is it important?](https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/environment/what-is-cop28-and-why-is-it-important-11809001.html)
-- [Kongsberg, Norway and Germany to Develop New &quot;Super Missile&quot;](https://defence-industry.eu/kongsberg-norway-and-germany-to-develop-new-super-missile/)
+- [LockBit: The cybercrime gang hacking some of the largest organisations](https://theconversation.com/what-is-lockbit-the-cybercrime-gang-hacking-some-of-the-worlds-largest-organisations-217679)
+- [Reddit Leads Class of 2024 IPO Candidates Testing the Water](https://www.bloomberg.com/news/articles/2023-11-27/reddit-leads-class-of-2024-us-ipo-candidates-testing-the-water)
+- [DHL to field test Volkswagen ID.Buzz fleet in South Africa](https://www.electrive.com/2023/11/27/dhl-to-field-test-volkswagen-id-buzz-fleet-in-south-africa/)
+- [The More Days You Live, the More Things You Know](https://www.robkhenderson.com/p/the-more-days-you-live-the-more-things)
+- [Americans are angry about immigration](https://www.noahpinion.blog/p/americans-are-angry-about-immigration)
+- [Show HN: Hacker News Submission Compiler](https://news.tanujraghav.me)
+- [Software Development in the Old Days](https://arnoldkling.substack.com/p/software-development-in-the-old-days)
+- [The Case That Could Destroy the Government](https://www.theatlantic.com/ideas/archive/2023/11/securities-and-exchange-commission-v-jarkesy-supreme-court/676059/)
+- [Self-operating-computer: Using multimodal models to operate a computer](https://github.com/OthersideAI/self-operating-computer)
+- [Why the Future of Planning Is Opera, OnlyFans, God](https://creative.salon/articles/features/future-of-planning-matt-waksman-ogilvy)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

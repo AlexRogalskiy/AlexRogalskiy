@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [World’s Biggest iceberg moving beyond Antarctic waters](https://www.theguardian.com/world/2023/nov/27/worlds-biggest-iceberg-moving-beyond-antarctic-waters)
-- [Studio One 6.5 is now available as public beta version for Ubuntu Linux](https://www.presonussoftware.com/en_US/blog/studio-one-6-5-for-linux)
-- [The artificial glacier growing in the desert &lpar;2017&rpar;](https://www.cnn.com/style/article/ice-stupa-sonam-wangchuk/index.html)
-- [Getting Started with Technical Writing](https://opensource.net/get-started-with-technical-writing/)
-- [SysXCHG: Refining Privilege with Adaptive System Call Filters](https://gitlab.com/brown-ssl/sysxchg)
-- [The Death of a Relic Hunter](https://www.newyorker.com/news/letter-from-the-south/the-death-of-a-relic-hunter)
-- [Build Your Own Hi-Fi Ear Defenders](https://spectrum.ieee.org/hi-fi-ear-defenders)
-- [Svix &lpar;YC W21&rpar; Is Hiring a Tech Lead &lpar;US Remote&rpar;](https://www.svix.com/careers/)
-- [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
-- [FontForge](https://fontforge.org)
+- [Etleap &lpar;YC W13&rpar; Is Hiring a Software Engineer &lpar;London – OR – San Francisco&rpar;](https://etleap.com/careers/software-engineer/)
+- [Voice-over-LTE: The Reason Why Your Phone May Soon Stop Working](https://hackaday.com/2023/11/27/voice-over-lte-the-reason-why-your-phone-may-soon-stop-working/)
+- [Google Play keeps banning the same web browser due to vague DMCA notices](https://arstechnica.com/tech-policy/2023/11/weird-dmca-takedown-google-play-bans-app-because-it-can-load-warnerbros-com/)
+- [Linexjlin/GPTs: leaked prompts of GPTs](https://github.com/linexjlin/GPTs)
+- [After 151 years, Popular Science will no longer offer a magazine](https://www.theverge.com/2023/11/27/23978042/popular-science-digital-magazine-discontinued)
+- [Let&#39;s try to understand AI monosemanticity](https://www.astralcodexten.com/p/god-help-us-lets-try-to-understand)
+- [Cheaper microscope could bring protein mapping technique to the masses](https://www.science.org/content/article/cheaper-microscope-could-bring-protein-mapping-technique-masses)
+- [Synchronize a 3D scene across multiple windows using Three.js and localStorage](https://github.com/bgstaal/multipleWindow3dScene)
+- [Strange Metals: Where electricity may flow without electrons](https://www.quantamagazine.org/meet-strange-metals-where-electricity-may-flow-without-electrons-20231127/)
+- [Broadcom lays off many VMware employees after closing acquisition](https://www.businessinsider.com/broadcom-vmware-layoffs-employees-face-job-cuts-acquisition-2023-11)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

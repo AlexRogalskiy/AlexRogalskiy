@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Amazon Q: AWS&#39; answer to Microsoft’s GPT-driven Copilot](https://www.computerworld.com/article/3711267/amazon-q-aws-answer-to-microsoft-s-gpt-driven-copilot.html#tk.rss_all)
+- [UK says Adobe&#39;s $20B deal for Figma would hurt graphic design market](https://www.computerworld.com/article/3711368/uk-says-adobes-20b-deal-for-figma-would-hurt-graphic-design-market.html#tk.rss_all)
+- [Apple and the wireless industry invite you aboard Qi2](https://www.computerworld.com/article/3711365/apple-and-the-wireless-industry-invite-you-aboard-qi2.html#tk.rss_all)
+- [Varjo’s XR-4 new mixed reality headsets — an enterprise alternative to Vision Pro?](https://www.computerworld.com/article/3711263/varjos-xr-4-new-mixed-reality-headsets-an-enterprise-alternative-to-vision-pro.html#tk.rss_all)
+- [Amazon Braket Direct program to help reserve quantum computers](https://www.infoworld.com/article/3711364/amazon-braket-direct-program-to-help-reserve-quantum-computers.html#tk.rss_all)
+- [EU Commission to Amazon: iRobot purchase could leave competitors in the dust](https://www.computerworld.com/article/3711443/eu-commission-to-amazon-irobot-purchase-could-leave-competitors-in-the-dust.html#tk.rss_all)
+- [Microsoft gives up on internet search to build a better AI brand](https://www.computerworld.com/article/3711460/microsoft-gives-up-on-internet-search-to-build-a-better-ai-brand.html#tk.rss_all)
 - [New Amazon Lex AI features aim to let developers quickly build, enhance bots](https://www.infoworld.com/article/3711441/new-amazon-lex-ai-features-aim-to-let-developers-quickly-build-enhance-bots.html#tk.rss_all)
 - [Google US antitrust trial: A timeline](https://www.computerworld.com/article/3706893/googles-us-antitrust-trials-a-timeline.html#tk.rss_all)
 - [6+ issues for autonomous vehicles &lpar;and any Apple Car&rpar;](https://www.computerworld.com/article/3711440/6-issues-for-autonomous-vehicles-and-any-apple-car.html#tk.rss_all)
-- [Alibaba shutters quantum computing efforts](https://www.computerworld.com/article/3711420/alibaba-shutters-quantum-computing-efforts.html#tk.rss_all)
-- [Best Places to Work in IT 2024](https://www.computerworld.com/article/3710492/computerworld-best-places-to-work-in-it-2024.html#tk.rss_all)
-- [AWS turns Fire TV Cube into Thin Client for enterprises](https://www.computerworld.com/article/3711401/aws-turns-fire-tv-cube-into-thin-client-for-enterprises.html#tk.rss_all)
-- [At BCU, IT is a core competency for business success](https://www.computerworld.com/article/3710568/bcu-it-core-competency-business-success.html#tk.rss_all)
-- [‘IT that just works’: A mantra for innovation at Kinaxis](https://www.computerworld.com/article/3710432/it-that-just-works-mantra-for-innovation-at-kinaxis.html#tk.rss_all)
-- [At UKG, diversity is a linchpin of better IT and business outcomes](https://www.computerworld.com/article/3710431/ukg-diversity-better-tech-and-business-outcomes.html#tk.rss_all)
-- [US, UK, Japan, and other major powers sign AI security accord](https://www.computerworld.com/article/3711400/us-uk-japan-and-other-major-powers-sign-ai-security-accord.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

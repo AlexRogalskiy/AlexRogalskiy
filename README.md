@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [LockBit: The cybercrime gang hacking some of the largest organisations](https://theconversation.com/what-is-lockbit-the-cybercrime-gang-hacking-some-of-the-worlds-largest-organisations-217679)
-- [Reddit Leads Class of 2024 IPO Candidates Testing the Water](https://www.bloomberg.com/news/articles/2023-11-27/reddit-leads-class-of-2024-us-ipo-candidates-testing-the-water)
-- [DHL to field test Volkswagen ID.Buzz fleet in South Africa](https://www.electrive.com/2023/11/27/dhl-to-field-test-volkswagen-id-buzz-fleet-in-south-africa/)
-- [The More Days You Live, the More Things You Know](https://www.robkhenderson.com/p/the-more-days-you-live-the-more-things)
-- [Americans are angry about immigration](https://www.noahpinion.blog/p/americans-are-angry-about-immigration)
-- [Show HN: Hacker News Submission Compiler](https://news.tanujraghav.me)
-- [Software Development in the Old Days](https://arnoldkling.substack.com/p/software-development-in-the-old-days)
-- [The Case That Could Destroy the Government](https://www.theatlantic.com/ideas/archive/2023/11/securities-and-exchange-commission-v-jarkesy-supreme-court/676059/)
-- [Self-operating-computer: Using multimodal models to operate a computer](https://github.com/OthersideAI/self-operating-computer)
-- [Why the Future of Planning Is Opera, OnlyFans, God](https://creative.salon/articles/features/future-of-planning-matt-waksman-ogilvy)
+- [KDL: A Cuddly Document Language](https://kdl.dev/)
+- [Pipe: A Python library to use infix notation in Python](https://github.com/JulienPalard/Pipe)
+- [Steam Deck OLED](https://store.steampowered.com/steamdeck)
+- [AI that detects methane plumes could be used for combating climate change](https://www.ox.ac.uk/news/2023-11-23-ai-automatically-detects-methane-plumes-space-could-be-powerful-tool-combating)
+- [Wozmon for x86-64](https://github.com/IanSeyler/wozmon_x86-64)
+- [Simulating how replicate trial count impacts Cohen&#39;s d effect size](http://steveharoz.com/blog/2023/simulating-how-replicate-trial-count-impacts-cohens-d-effect-size/)
+- [&#39;Stop the price gouging&#39;: Biden hits corporations over high consumer costs](https://www.cnbc.com/2023/11/27/white-house-supply-chain-bidenomics-wins.html)
+- [Infinite Monkey Theorem](https://en.wikipedia.org/wiki/Infinite_monkey_theorem)
+- [Some intuitions about large language models – Jason Wei](https://www.jasonwei.net/blog/some-intuitions-about-large-language-models)
+- [This tiny spinal stimulator could someday have a big impact on paralysis](https://hub.jhu.edu/2023/11/27/spine-stimulator-paralysis/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

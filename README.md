@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Etleap &lpar;YC W13&rpar; Is Hiring a Software Engineer &lpar;London – OR – San Francisco&rpar;](https://etleap.com/careers/software-engineer/)
-- [Voice-over-LTE: The Reason Why Your Phone May Soon Stop Working](https://hackaday.com/2023/11/27/voice-over-lte-the-reason-why-your-phone-may-soon-stop-working/)
-- [Google Play keeps banning the same web browser due to vague DMCA notices](https://arstechnica.com/tech-policy/2023/11/weird-dmca-takedown-google-play-bans-app-because-it-can-load-warnerbros-com/)
-- [Linexjlin/GPTs: leaked prompts of GPTs](https://github.com/linexjlin/GPTs)
-- [After 151 years, Popular Science will no longer offer a magazine](https://www.theverge.com/2023/11/27/23978042/popular-science-digital-magazine-discontinued)
-- [Let&#39;s try to understand AI monosemanticity](https://www.astralcodexten.com/p/god-help-us-lets-try-to-understand)
-- [Cheaper microscope could bring protein mapping technique to the masses](https://www.science.org/content/article/cheaper-microscope-could-bring-protein-mapping-technique-masses)
-- [Synchronize a 3D scene across multiple windows using Three.js and localStorage](https://github.com/bgstaal/multipleWindow3dScene)
-- [Strange Metals: Where electricity may flow without electrons](https://www.quantamagazine.org/meet-strange-metals-where-electricity-may-flow-without-electrons-20231127/)
-- [Broadcom lays off many VMware employees after closing acquisition](https://www.businessinsider.com/broadcom-vmware-layoffs-employees-face-job-cuts-acquisition-2023-11)
+- [Cyberattack – November 2023](https://www.blender.org/news/cyberattack-november-2023/)
+- [ONNX Model Zoo Hosted on GitHub](https://github.com/xetdata/onnx-models)
+- [Housing Costs Are So High That Divorced Couples Are Still Living Together](https://www.wsj.com/personal-finance/they-want-to-split-up-the-housing-market-wont-let-them-bafd67f0)
+- [Unity Software to cut 3.8% of staff in &#39;company reset&#39;](https://www.reuters.com/technology/unity-software-cut-38-staff-company-reset-2023-11-28/)
+- [My $500M Mars rover mistake](https://www.chrislewicki.com/articles/failurestory)
+- [Shutting down the Matrix bridge to Libera chat](https://matrix.org/blog/2023/11/28/shutting-down-bridge-to-libera-chat/)
+- [The case for never reading the book jacket](https://thewalrus.ca/the-case-for-never-reading-the-book-jacket/)
+- [Charlie Munger has died](https://www.berkshirehathaway.com/news/nov2823.pdf)
+- [Parsing 8-bit integers quickly](https://lemire.me/blog/2023/11/28/parsing-8-bit-integers-quickly/)
+- [The camel, the rope, and the needle&#39;s eye](http://kiwihellenist.blogspot.com/2023/11/camel.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

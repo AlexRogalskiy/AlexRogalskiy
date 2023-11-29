@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Bruce Lehrmann defamation trial live: Lehrmann calls Scott Morrison’s apology to Brittany Higgins ‘stupid’ during cross-examination](https://www.theguardian.com/law/live/2023/nov/28/bruce-lehrmann-live-news-stream-defamation-trial-day-5-network-10-ten-lisa-wilkinson-federal-court-brittany-higgins-latest-news-updates-ntwnfb)
-- [Israel-Hamas war live: 33 Palestinians freed after 11 Israeli hostages released; Gaza truce extended by two days](https://www.theguardian.com/world/live/2023/nov/27/israel-hamas-war-live-updates-gaza-ceasefire-hostages-deal-end-extension-benjamin-netanyahu)
-- [Who are the Israeli hostages freed by Hamas during Gaza truce?](https://www.theguardian.com/world/2023/nov/27/who-are-the-israeli-hostages-freed-by-hamas-during-gaza-truce)
-- [Russia-Ukraine war at a glance: what we know on day 643](https://www.theguardian.com/world/2023/nov/28/russia-ukraine-war-at-a-glance-what-we-know-on-day-643)
-- [Foreign care workers invited to UK ‘exploited on grand scale’, says union](https://www.theguardian.com/society/2023/nov/28/foreign-care-workers-invited-to-uk-exploited-on-grand-scale-says-union)
-- [Former world leaders seek $25bn levy on oil states’ revenues to pay for climate damage](https://www.theguardian.com/environment/2023/nov/28/former-world-leaders-seek-25bn-levy-on-oil-states-revenues-to-pay-for-climate-damage)
-- [‘It’s bittersweet’: MoJ sentencing changes will bring freedom for some](https://www.theguardian.com/law/2023/nov/28/sentencing-changes-freedom-for-some-moj)
-- [Over 1,800 offenders to have indefinite jail sentences terminated, says MoJ](https://www.theguardian.com/law/2023/nov/28/offenders-indefinite-jail-sentences-terminated-moj)
-- [‘It’s amazing’: scientists analyse 4.6bn-year-old dark dust from Bennu asteroid](https://www.theguardian.com/science/2023/nov/28/its-amazing-scientists-analyse-46bn-year-old-dark-dust-from-bennu-asteroid)
-- [Bus services cut by more than 80% in parts of England and Wales since 2008, finds study](https://www.theguardian.com/uk-news/2023/nov/28/bus-services-cut-by-more-than-80-perent-in-parts-of-england-and-wales-since-2008-finds-study)
+- [Israel-Hamas war live: Israel says 30 Palestinians released after 12 hostages returned from Gaza](https://www.theguardian.com/world/live/2023/nov/28/israel-hamas-war-live-updates-hostages-palestinians-released-gaza-ceasefire-extended)
+- [Russia-Ukraine war at a glance: what we know on day 644](https://www.theguardian.com/world/2023/nov/29/russia-ukraine-war-at-a-glance-what-we-know-on-day-644)
+- [Pope revokes privileges of conservative US cardinal critical of church’s reform](https://www.theguardian.com/world/2023/nov/28/pope-francis-raymond-burke-conservative-cardinal)
+- [Can the minister for children deliver the government’s flagship early years scheme?](https://www.theguardian.com/education/2023/nov/29/can-the-minister-for-children-deliver-the-governments-flagship-early-years-scheme)
+- [Minister attacks ‘despicable’ failure of social media firms on harmful content](https://www.theguardian.com/media/2023/nov/29/minister-attacks-despicable-failure-of-social-media-firms-on-harmful-content-molly-russell)
+- [One in seven HR heads believe men are better suited to top jobs](https://www.theguardian.com/business/2023/nov/29/hr-heads-poll-men-women-top-jobs-england-wales)
+- [Sunak accused of trying to ‘reset’ climate credentials at Cop28](https://www.theguardian.com/environment/2023/nov/29/sunak-climate-cop28-un-summit-green)
+- [Elf Bar vape adverts banned in UK over ‘greener’ recycling claims](https://www.theguardian.com/society/2023/nov/29/elf-bar-vape-ads-uk-over-recycling-asa)
+- [£400m for UK early years sector will ‘buy time’ but isn’t enough, experts say](https://www.theguardian.com/education/2023/nov/29/400m-for-uk-early-years-sector-will-buy-time-but-isnt-enough-experts-say)
+- [Solar panels pull medieval King’s College chapel into climate crisis era](https://www.theguardian.com/education/2023/nov/29/solar-panels-pull-medieval-kings-college-chapel-into-climate-crisis-era)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

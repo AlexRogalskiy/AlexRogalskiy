@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Cyberattack – November 2023](https://www.blender.org/news/cyberattack-november-2023/)
-- [ONNX Model Zoo Hosted on GitHub](https://github.com/xetdata/onnx-models)
-- [Housing Costs Are So High That Divorced Couples Are Still Living Together](https://www.wsj.com/personal-finance/they-want-to-split-up-the-housing-market-wont-let-them-bafd67f0)
-- [Unity Software to cut 3.8% of staff in &#39;company reset&#39;](https://www.reuters.com/technology/unity-software-cut-38-staff-company-reset-2023-11-28/)
-- [My $500M Mars rover mistake](https://www.chrislewicki.com/articles/failurestory)
-- [Shutting down the Matrix bridge to Libera chat](https://matrix.org/blog/2023/11/28/shutting-down-bridge-to-libera-chat/)
-- [The case for never reading the book jacket](https://thewalrus.ca/the-case-for-never-reading-the-book-jacket/)
-- [Charlie Munger has died](https://www.berkshirehathaway.com/news/nov2823.pdf)
-- [Parsing 8-bit integers quickly](https://lemire.me/blog/2023/11/28/parsing-8-bit-integers-quickly/)
-- [The camel, the rope, and the needle&#39;s eye](http://kiwihellenist.blogspot.com/2023/11/camel.html)
+- [Henry Kissinger, War Criminal Beloved by America&#39;s Ruling Class, Finally Dies](https://www.rollingstone.com/politics/politics-news/henry-kissinger-war-criminal-dead-1234804748/)
+- [Henry Kissinger Has Died](https://www.bbc.com/news/world-us-canada-67574495)
+- [Sam Altman returns as CEO, OpenAI has a new initial board](https://openai.com/blog/sam-altman-returns-as-ceo-openai-has-a-new-initial-board)
+- [Understanding rapid tendon regeneration in newts may one day help human athletes](https://bioengineer.org/understanding-rapid-tendon-regeneration-in-newts-may-one-day-help-human-athletes/)
+- [Ballerburg SDL – Play classical castle combat game from 1987 in the browser](https://baller.tuxfamily.org/online/)
+- [Loongson releases next-generation CPU](https://www.ecns.cn/news/sci-tech/2023-11-29/detail-ihcvixpi0428703.shtml)
+- [Amazon Unveils Graviton4: A 96-Core ARM CPU with 536.7 GBps Memory Bandwidth](https://www.anandtech.com/show/21172/amazon-unveils-graviton4-a-96core-cpu-with-5367-gbs-memory-bandwidth)
+- [Jerry &lpar;YC S17&rpar; Is Hiring VP Product &lpar;&amp; Other Engineer and PM Roles&rpar;](https://jobs.ashbyhq.com/Jerry/921d3846-04e1-4430-a515-b91192a4993c)
+- [Llamafile lets you distribute and run LLMs with a single file](https://github.com/Mozilla-Ocho/llamafile)
+- [Write shaders for the &lpar;sim&rpar; Vegas sphere](https://whenistheweekend.com/theSphere.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

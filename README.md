@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [KDL: A Cuddly Document Language](https://kdl.dev/)
-- [Pipe: A Python library to use infix notation in Python](https://github.com/JulienPalard/Pipe)
-- [Steam Deck OLED](https://store.steampowered.com/steamdeck)
-- [AI that detects methane plumes could be used for combating climate change](https://www.ox.ac.uk/news/2023-11-23-ai-automatically-detects-methane-plumes-space-could-be-powerful-tool-combating)
-- [Wozmon for x86-64](https://github.com/IanSeyler/wozmon_x86-64)
-- [Simulating how replicate trial count impacts Cohen&#39;s d effect size](http://steveharoz.com/blog/2023/simulating-how-replicate-trial-count-impacts-cohens-d-effect-size/)
-- [&#39;Stop the price gouging&#39;: Biden hits corporations over high consumer costs](https://www.cnbc.com/2023/11/27/white-house-supply-chain-bidenomics-wins.html)
-- [Infinite Monkey Theorem](https://en.wikipedia.org/wiki/Infinite_monkey_theorem)
-- [Some intuitions about large language models – Jason Wei](https://www.jasonwei.net/blog/some-intuitions-about-large-language-models)
-- [This tiny spinal stimulator could someday have a big impact on paralysis](https://hub.jhu.edu/2023/11/27/spine-stimulator-paralysis/)
+- [Live Players: Sam Altman, Peter Thiel, Elon Musk, George Soros [video]](https://www.youtube.com/watch?v=y0SwVCWPinw)
+- [Password generator and checker &lpar;GUI and Command Line&rpar;](https://github.com/mehmetkahya0/PasswordAlgorithms)
+- [Henry Kissinger, War Criminal Beloved by America&#39;s Ruling Class, Finally Dies](https://www.rollingstone.com/politics/politics-news/henry-kissinger-war-criminal-dead-1234804748/)
+- [Recalibrated limits of growth suggests near-term collapse](https://onlinelibrary.wiley.com/doi/full/10.1111/jiec.13442)
+- [Hare aims to become a 100-year programming language](https://harelang.org/blog/2023-11-08-100-year-language/)
+- [Blender 4.0 is here [video]](https://www.youtube.com/watch?v=5_E5HNk3UN4)
+- [Apple to end credit card partnership with Goldman Sachs](https://www.reuters.com/technology/apple-end-credit-card-partnership-with-goldman-sachs-wsj-2023-11-28/)
+- [Canadian life expectancy is the lowest it&#39;s been in over a decade, says StatsCan](https://www.thestar.com/news/canada/canadian-life-expectancy-is-the-lowest-its-been-in-over-a-decade-says-statscan/article_122d3e04-5f79-5446-8394-fc486129cc55.html)
+- [Henry Kissinger Has Died](https://www.cbc.ca/news/world/us-henry-kissinger-dead-1.7044509)
+- [Frog Talk](https://nostrnests.com/frogtalk)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

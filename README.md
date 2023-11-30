@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Israel-Hamas war live: Israel says 30 Palestinians released after 12 hostages returned from Gaza](https://www.theguardian.com/world/live/2023/nov/28/israel-hamas-war-live-updates-hostages-palestinians-released-gaza-ceasefire-extended)
-- [Russia-Ukraine war at a glance: what we know on day 644](https://www.theguardian.com/world/2023/nov/29/russia-ukraine-war-at-a-glance-what-we-know-on-day-644)
-- [Pope revokes privileges of conservative US cardinal critical of church’s reform](https://www.theguardian.com/world/2023/nov/28/pope-francis-raymond-burke-conservative-cardinal)
-- [Can the minister for children deliver the government’s flagship early years scheme?](https://www.theguardian.com/education/2023/nov/29/can-the-minister-for-children-deliver-the-governments-flagship-early-years-scheme)
-- [Minister attacks ‘despicable’ failure of social media firms on harmful content](https://www.theguardian.com/media/2023/nov/29/minister-attacks-despicable-failure-of-social-media-firms-on-harmful-content-molly-russell)
-- [One in seven HR heads believe men are better suited to top jobs](https://www.theguardian.com/business/2023/nov/29/hr-heads-poll-men-women-top-jobs-england-wales)
-- [Sunak accused of trying to ‘reset’ climate credentials at Cop28](https://www.theguardian.com/environment/2023/nov/29/sunak-climate-cop28-un-summit-green)
-- [Elf Bar vape adverts banned in UK over ‘greener’ recycling claims](https://www.theguardian.com/society/2023/nov/29/elf-bar-vape-ads-uk-over-recycling-asa)
-- [£400m for UK early years sector will ‘buy time’ but isn’t enough, experts say](https://www.theguardian.com/education/2023/nov/29/400m-for-uk-early-years-sector-will-buy-time-but-isnt-enough-experts-say)
-- [Solar panels pull medieval King’s College chapel into climate crisis era](https://www.theguardian.com/education/2023/nov/29/solar-panels-pull-medieval-kings-college-chapel-into-climate-crisis-era)
+- [Israel-Hamas war live: Israel says it has released 30 Palestinians; 16 hostages freed by Hamas](https://www.theguardian.com/world/live/2023/nov/29/israel-hamas-war-live-updates-news-ceasefire-extension-reports-israel-raid-gaza-west-bank-palestine-jenin)
+- [Thai foreign minister greets hostages freed by Hamas in emotional meeting](https://www.theguardian.com/world/2023/nov/29/thai-foreign-minister-in-tears-as-he-welcomes-hostages-freed-by-hamas)
+- [Henry Kissinger, secretary of state to Richard Nixon, dies at 100](https://www.theguardian.com/us-news/2023/nov/29/henry-kissinger-dies-secretary-of-state-richard-nixon)
+- [Elon Musk hurls defiant, profanity-laced retort at fleeing advertisers](https://www.theguardian.com/technology/2023/nov/29/elon-musk-hurls-defiant-profanity-laced-retort-at-fleeing-advertisers)
+- [Donald Trump biopic: Sebastian Stan, Jeremy Strong and Maria Bakalova cast in The Apprentice](https://www.theguardian.com/us-news/2023/nov/30/the-apprentice-donald-trump-biopic-cast-sebastian-stan-jeremy-strong-maria-bakalova)
+- [‘Very sweet milestone’: wild-born kiwi chicks are Wellington’s first in a century](https://www.theguardian.com/world/2023/nov/30/very-sweet-milestone-kiwi-chicks-born-in-wellington-for-first-time-in-a-century)
+- [Jonathan Majors trial begins for assault charges over alleged domestic dispute](https://www.theguardian.com/film/2023/nov/29/jonathan-majors-trial-begins)
+- [Russia-Ukraine war at a glance: what we know on day 645](https://www.theguardian.com/world/2023/nov/30/russia-ukraine-war-at-a-glance-what-we-know-on-day-645)
+- [Who are the Israeli hostages freed by Hamas during Gaza truce?](https://www.theguardian.com/world/2023/nov/27/who-are-the-israeli-hostages-freed-by-hamas-during-gaza-truce)
+- [One in four adults in UK to buy now, pay later for Christmas, study shows](https://www.theguardian.com/business/2023/nov/30/uk-buy-now-pay-later-christmas-citizens-advice-credit-household-finances)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

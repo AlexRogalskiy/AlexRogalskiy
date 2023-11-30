@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [What is &#39;Return to Service&#39; on iPhone and iOS — and how is it used?](https://www.computerworld.com/article/3711371/what-is-return-to-service-on-iphone-and-ios-and-how-is-it-used.html#tk.rss_all)
+- [8 advanced ways to manage reminders in Android](https://www.computerworld.com/article/3711366/android-reminders.html#tk.rss_all)
+- [GenAI is highly inaccurate for business use — and getting more opaque](https://www.computerworld.com/article/3711343/genai-is-highly-inaccurate-for-business-use-and-getting-more-opaque.html#tk.rss_all)
+- [How to go incognito in Chrome, Edge, Firefox, and Safari](https://www.computerworld.com/article/3356840/how-to-go-incognito-in-chrome-firefox-safari-and-edge.html#tk.rss_all)
 - [Amazon Q: AWS&#39; answer to Microsoft’s GPT-driven Copilot](https://www.computerworld.com/article/3711267/amazon-q-aws-answer-to-microsoft-s-gpt-driven-copilot.html#tk.rss_all)
 - [UK says Adobe&#39;s $20B deal for Figma would hurt graphic design market](https://www.computerworld.com/article/3711368/uk-says-adobes-20b-deal-for-figma-would-hurt-graphic-design-market.html#tk.rss_all)
 - [Apple and the wireless industry invite you aboard Qi2](https://www.computerworld.com/article/3711365/apple-and-the-wireless-industry-invite-you-aboard-qi2.html#tk.rss_all)
 - [Varjo’s XR-4 new mixed reality headsets — an enterprise alternative to Vision Pro?](https://www.computerworld.com/article/3711263/varjos-xr-4-new-mixed-reality-headsets-an-enterprise-alternative-to-vision-pro.html#tk.rss_all)
 - [Amazon Braket Direct program to help reserve quantum computers](https://www.infoworld.com/article/3711364/amazon-braket-direct-program-to-help-reserve-quantum-computers.html#tk.rss_all)
-- [EU Commission to Amazon: iRobot purchase could leave competitors in the dust](https://www.computerworld.com/article/3711443/eu-commission-to-amazon-irobot-purchase-could-leave-competitors-in-the-dust.html#tk.rss_all)
-- [Microsoft gives up on internet search to build a better AI brand](https://www.computerworld.com/article/3711460/microsoft-gives-up-on-internet-search-to-build-a-better-ai-brand.html#tk.rss_all)
-- [New Amazon Lex AI features aim to let developers quickly build, enhance bots](https://www.infoworld.com/article/3711441/new-amazon-lex-ai-features-aim-to-let-developers-quickly-build-enhance-bots.html#tk.rss_all)
-- [Google US antitrust trial: A timeline](https://www.computerworld.com/article/3706893/googles-us-antitrust-trials-a-timeline.html#tk.rss_all)
-- [6+ issues for autonomous vehicles &lpar;and any Apple Car&rpar;](https://www.computerworld.com/article/3711440/6-issues-for-autonomous-vehicles-and-any-apple-car.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

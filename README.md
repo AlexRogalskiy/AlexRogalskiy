@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Live Players: Sam Altman, Peter Thiel, Elon Musk, George Soros [video]](https://www.youtube.com/watch?v=y0SwVCWPinw)
-- [Password generator and checker &lpar;GUI and Command Line&rpar;](https://github.com/mehmetkahya0/PasswordAlgorithms)
-- [Henry Kissinger, War Criminal Beloved by America&#39;s Ruling Class, Finally Dies](https://www.rollingstone.com/politics/politics-news/henry-kissinger-war-criminal-dead-1234804748/)
-- [Recalibrated limits of growth suggests near-term collapse](https://onlinelibrary.wiley.com/doi/full/10.1111/jiec.13442)
-- [Hare aims to become a 100-year programming language](https://harelang.org/blog/2023-11-08-100-year-language/)
-- [Blender 4.0 is here [video]](https://www.youtube.com/watch?v=5_E5HNk3UN4)
-- [Apple to end credit card partnership with Goldman Sachs](https://www.reuters.com/technology/apple-end-credit-card-partnership-with-goldman-sachs-wsj-2023-11-28/)
-- [Canadian life expectancy is the lowest it&#39;s been in over a decade, says StatsCan](https://www.thestar.com/news/canada/canadian-life-expectancy-is-the-lowest-its-been-in-over-a-decade-says-statscan/article_122d3e04-5f79-5446-8394-fc486129cc55.html)
-- [Henry Kissinger Has Died](https://www.cbc.ca/news/world/us-henry-kissinger-dead-1.7044509)
-- [Frog Talk](https://nostrnests.com/frogtalk)
+- [Judge says evidence shows Tesla and Elon Musk knew about flawed autopilot system](https://www.npr.org/2023/11/23/1214966530/judge-says-evidence-shows-tesla-and-elon-musk-knew-about-flawed-autopilot-system)
+- [Language Models: A Guide for the Perplexed](https://arxiv.org/abs/2311.17301)
+- [Ask HN: Are Apple&#39;s M-series MacBooks over-powered for ordinary users?](https://news.ycombinator.com/item?id=38482194)
+- [Art•V: Auto-Regressive Text-to-Video Generation with Diffusion Models](https://warranweng.github.io/art.v/)
+- [How Huawei Is Helping China Build Up Its Semiconductor Independence](https://www.bloomberg.com/graphics/2023-china-huawei-semiconductor/)
+- [A reality bending mistake in Apple&#39;s computational photography](https://appleinsider.com/articles/23/11/30/a-bride-to-be-discovers-a-reality-bending-mistake-in-apples-computational-photography)
+- [Handwriting Repair [pdf]](https://penvibe.com/wp-content/uploads/2021/07/Handwriting-Repair-Guidebook.pdf)
+- [Who said what: using machine learning to correctly attribute quotes](https://www.theguardian.com/info/2023/nov/21/who-said-what-using-machine-learning-to-correctly-attribute-quotes)
+- [Broadcom adds silicon AI features to speed new Trident networking chip](https://www.reuters.com/technology/broadcom-adds-silicon-ai-features-speed-new-trident-networking-chip-2023-11-30/)
+- [Marker: Convert PDF to Markdown quickly with high accuracy](https://github.com/VikParuchuri/marker)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

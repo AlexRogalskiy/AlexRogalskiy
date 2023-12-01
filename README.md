@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Israel-Hamas war live: Israel says it has released 30 Palestinians; 16 hostages freed by Hamas](https://www.theguardian.com/world/live/2023/nov/29/israel-hamas-war-live-updates-news-ceasefire-extension-reports-israel-raid-gaza-west-bank-palestine-jenin)
-- [Thai foreign minister greets hostages freed by Hamas in emotional meeting](https://www.theguardian.com/world/2023/nov/29/thai-foreign-minister-in-tears-as-he-welcomes-hostages-freed-by-hamas)
-- [Henry Kissinger, secretary of state to Richard Nixon, dies at 100](https://www.theguardian.com/us-news/2023/nov/29/henry-kissinger-dies-secretary-of-state-richard-nixon)
-- [Elon Musk hurls defiant, profanity-laced retort at fleeing advertisers](https://www.theguardian.com/technology/2023/nov/29/elon-musk-hurls-defiant-profanity-laced-retort-at-fleeing-advertisers)
-- [Donald Trump biopic: Sebastian Stan, Jeremy Strong and Maria Bakalova cast in The Apprentice](https://www.theguardian.com/us-news/2023/nov/30/the-apprentice-donald-trump-biopic-cast-sebastian-stan-jeremy-strong-maria-bakalova)
-- [‘Very sweet milestone’: wild-born kiwi chicks are Wellington’s first in a century](https://www.theguardian.com/world/2023/nov/30/very-sweet-milestone-kiwi-chicks-born-in-wellington-for-first-time-in-a-century)
-- [Jonathan Majors trial begins for assault charges over alleged domestic dispute](https://www.theguardian.com/film/2023/nov/29/jonathan-majors-trial-begins)
-- [Russia-Ukraine war at a glance: what we know on day 645](https://www.theguardian.com/world/2023/nov/30/russia-ukraine-war-at-a-glance-what-we-know-on-day-645)
+- [DeSantis and Newsom debate: California and Florida governors square off – live](https://www.theguardian.com/us-news/live/2023/nov/30/ron-desantis-debate-gavin-newsom-latest-updates)
+- [US judge blocks Montana’s TikTok state ban: ‘oversteps state power’](https://www.theguardian.com/us-news/2023/nov/30/judge-blocks-montana-tiktok-state-ban)
+- [Israel-Hamas war live: Israel frees 30 Palestinians from jails as Hamas releases eight hostages](https://www.theguardian.com/world/live/2023/nov/30/israel-hamas-war-live-updates-news-ceasefire-ending-gaza-palestine-hostage-deal-palestinian-prisoners-released)
+- [Tesla to begin Cybertruck deliveries with price starting at $60,990](https://www.theguardian.com/technology/2023/nov/30/tesla-cybertrucks-delivery-begins)
+- [Russia-Ukraine war at a glance: what we know on day 646](https://www.theguardian.com/world/2023/dec/01/russia-ukraine-war-at-a-glance-what-we-know-on-day-646)
+- [Walsall trust failed man with HIV, ombudsman finds](https://www.theguardian.com/society/2023/dec/01/walsall-trust-failed-man-with-hiv-ombudsman-finds)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2023/dec/01/premier-league-10-things-to-look-out-for-this-weekend)
+- [The best theatre to stream this month: The Old Man and the Pool, Bedbound and more](https://www.theguardian.com/stage/2023/dec/01/the-best-theatre-to-stream-this-month-the-old-man-and-the-pool-bedbound-and-more)
+- [Renaissance: a Film by Beyoncé review – sparkling, party vibe with backstage insights](https://www.theguardian.com/music/2023/nov/30/renaissance-a-film-by-beyonce-review-sparkling-party-vibe-with-backstage-insights)
 - [Who are the Israeli hostages freed by Hamas during Gaza truce?](https://www.theguardian.com/world/2023/nov/27/who-are-the-israeli-hostages-freed-by-hamas-during-gaza-truce)
-- [One in four adults in UK to buy now, pay later for Christmas, study shows](https://www.theguardian.com/business/2023/nov/30/uk-buy-now-pay-later-christmas-citizens-advice-credit-household-finances)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

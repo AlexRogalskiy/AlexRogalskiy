@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Unused Gmail accounts head to the chopping block](https://www.computerworld.com/article/3711376/unused-gmail-accounts-head-to-the-chopping-block.html#tk.rss_all)
+- [Ouch: UK regulators to investigate Apple after it loses appeal](https://www.computerworld.com/article/3711283/ouch-uk-regulators-to-investigate-apple-after-it-loses-appeal.html#tk.rss_all)
+- [Zoom’s survey tool aims for employee feedback outside of meetings](https://www.computerworld.com/article/3711282/zoom-survey-tool-employee-feedback-outside-meetings.html#tk.rss_all)
+- [Super apps: the next big thing for enterprise IT?](https://www.computerworld.com/article/3710989/super-apps-enterprise-it.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [What is &#39;Return to Service&#39; on iPhone and iOS — and how is it used?](https://www.computerworld.com/article/3711371/what-is-return-to-service-on-iphone-and-ios-and-how-is-it-used.html#tk.rss_all)
 - [8 advanced ways to manage reminders in Android](https://www.computerworld.com/article/3711366/android-reminders.html#tk.rss_all)
 - [GenAI is highly inaccurate for business use — and getting more opaque](https://www.computerworld.com/article/3711343/genai-is-highly-inaccurate-for-business-use-and-getting-more-opaque.html#tk.rss_all)
 - [How to go incognito in Chrome, Edge, Firefox, and Safari](https://www.computerworld.com/article/3356840/how-to-go-incognito-in-chrome-firefox-safari-and-edge.html#tk.rss_all)
 - [Amazon Q: AWS&#39; answer to Microsoft’s GPT-driven Copilot](https://www.computerworld.com/article/3711267/amazon-q-aws-answer-to-microsoft-s-gpt-driven-copilot.html#tk.rss_all)
-- [UK says Adobe&#39;s $20B deal for Figma would hurt graphic design market](https://www.computerworld.com/article/3711368/uk-says-adobes-20b-deal-for-figma-would-hurt-graphic-design-market.html#tk.rss_all)
-- [Apple and the wireless industry invite you aboard Qi2](https://www.computerworld.com/article/3711365/apple-and-the-wireless-industry-invite-you-aboard-qi2.html#tk.rss_all)
-- [Varjo’s XR-4 new mixed reality headsets — an enterprise alternative to Vision Pro?](https://www.computerworld.com/article/3711263/varjos-xr-4-new-mixed-reality-headsets-an-enterprise-alternative-to-vision-pro.html#tk.rss_all)
-- [Amazon Braket Direct program to help reserve quantum computers](https://www.infoworld.com/article/3711364/amazon-braket-direct-program-to-help-reserve-quantum-computers.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

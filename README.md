@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Henry Kissinger, War Criminal Beloved by America&#39;s Ruling Class, Finally Dies](https://www.rollingstone.com/politics/politics-news/henry-kissinger-war-criminal-dead-1234804748/)
-- [Henry Kissinger Has Died](https://www.bbc.com/news/world-us-canada-67574495)
-- [Sam Altman returns as CEO, OpenAI has a new initial board](https://openai.com/blog/sam-altman-returns-as-ceo-openai-has-a-new-initial-board)
-- [Understanding rapid tendon regeneration in newts may one day help human athletes](https://bioengineer.org/understanding-rapid-tendon-regeneration-in-newts-may-one-day-help-human-athletes/)
-- [Ballerburg SDL – Play classical castle combat game from 1987 in the browser](https://baller.tuxfamily.org/online/)
-- [Loongson releases next-generation CPU](https://www.ecns.cn/news/sci-tech/2023-11-29/detail-ihcvixpi0428703.shtml)
-- [Amazon Unveils Graviton4: A 96-Core ARM CPU with 536.7 GBps Memory Bandwidth](https://www.anandtech.com/show/21172/amazon-unveils-graviton4-a-96core-cpu-with-5367-gbs-memory-bandwidth)
-- [Jerry &lpar;YC S17&rpar; Is Hiring VP Product &lpar;&amp; Other Engineer and PM Roles&rpar;](https://jobs.ashbyhq.com/Jerry/921d3846-04e1-4430-a515-b91192a4993c)
-- [Llamafile lets you distribute and run LLMs with a single file](https://github.com/Mozilla-Ocho/llamafile)
-- [Write shaders for the &lpar;sim&rpar; Vegas sphere](https://whenistheweekend.com/theSphere.html)
+- [ChatGPT&#39;s 1-Year Anniversary: Are Open-Source Large Language Models Catching Up?](https://arxiv.org/abs/2311.16989)
+- [Java 8 still widely used](https://www.jetbrains.com/lp/devecosystem-2023/java/)
+- [Music-Map – Find Similar Music](https://www.music-map.com)
+- [Skyfield: Elegant Astronomy for Python](https://rhodesmill.org/skyfield/)
+- [Broadcom to Cut Almost 1,300 VMware Jobs in California After Takeover](https://www.bloomberg.com/news/articles/2023-11-30/broadcom-to-cut-almost-1-300-vmware-jobs-in-california-after-takeover)
+- [Tesla Cybertruck Pricing and Specs](https://www.tesla.com/cybertruck/design)
+- [Compiler Options Hardening Guide for C and C++](https://best.openssf.org/Compiler-Hardening-Guides/Compiler-Options-Hardening-Guide-for-C-and-C++.html)
+- [How I made Bomb Rush Cyberfunk multiplayer](https://notnite.com/blog/slop-crew)
+- [Turbo Pascal Turns 40](https://blog.marcocantu.com/blog/2023-november-turbopascal40.html)
+- [Visual Anagrams: Generating optical illusions with diffusion models](https://dangeng.github.io/visual_anagrams/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

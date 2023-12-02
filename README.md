@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [ChatGPT&#39;s 1-Year Anniversary: Are Open-Source Large Language Models Catching Up?](https://arxiv.org/abs/2311.16989)
-- [Java 8 still widely used](https://www.jetbrains.com/lp/devecosystem-2023/java/)
-- [Music-Map – Find Similar Music](https://www.music-map.com)
-- [Skyfield: Elegant Astronomy for Python](https://rhodesmill.org/skyfield/)
-- [Broadcom to Cut Almost 1,300 VMware Jobs in California After Takeover](https://www.bloomberg.com/news/articles/2023-11-30/broadcom-to-cut-almost-1-300-vmware-jobs-in-california-after-takeover)
-- [Tesla Cybertruck Pricing and Specs](https://www.tesla.com/cybertruck/design)
-- [Compiler Options Hardening Guide for C and C++](https://best.openssf.org/Compiler-Hardening-Guides/Compiler-Options-Hardening-Guide-for-C-and-C++.html)
-- [How I made Bomb Rush Cyberfunk multiplayer](https://notnite.com/blog/slop-crew)
-- [Turbo Pascal Turns 40](https://blog.marcocantu.com/blog/2023-november-turbopascal40.html)
-- [Visual Anagrams: Generating optical illusions with diffusion models](https://dangeng.github.io/visual_anagrams/)
+- [Nothing Personal: How ideas made Derek Parfit](https://hedgehogreview.com/issues/markets-and-the-good/articles/nothing-personal)
+- [Uber Joins the S&amp;P 500](https://www.wsj.com/livecoverage/stock-market-today-dow-jones-12-01-2023/card/uber-technologies-joins-the-s-p-500-JUPoBf8HFZP8ZeoZRZ6x)
+- [Deep Dive into the Vision Transformers Paper &lpar;ViT&rpar;](https://blog.oxen.ai/arxiv-dives-vision-transformers-vit/)
+- [A medieval Gothic monastery built using CAD / CAM](https://hackaday.com/2023/01/13/a-medieval-gothic-monastery-built-using-cad-cam/)
+- [Britain&#39;s scariest libel firm](https://www.economist.com/1843/2023/12/01/britains-scariest-libel-firm-can-pursue-anyone-anywhere)
+- [The skyhook solution](https://aeon.co/essays/space-junk-could-have-a-transcendent-purposeful-afterlife)
+- [Motile Living Biobots Self-Construct from Adult Human Somatic Progenitor Cells](https://onlinelibrary.wiley.com/doi/10.1002/advs.202303575)
+- [A Nouveau graphics driver update](https://lwn.net/SubscriberLink/953144/b85b695d0c760692/)
+- [The Neglected Books Page](https://neglectedbooks.com/)
+- [Seraph Secure: anti-scam software co-founded by Kitboga](https://www.seraphsecure.com/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

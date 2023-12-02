@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [DeSantis and Newsom debate: California and Florida governors square off – live](https://www.theguardian.com/us-news/live/2023/nov/30/ron-desantis-debate-gavin-newsom-latest-updates)
-- [US judge blocks Montana’s TikTok state ban: ‘oversteps state power’](https://www.theguardian.com/us-news/2023/nov/30/judge-blocks-montana-tiktok-state-ban)
-- [Israel-Hamas war live: Israel frees 30 Palestinians from jails as Hamas releases eight hostages](https://www.theguardian.com/world/live/2023/nov/30/israel-hamas-war-live-updates-news-ceasefire-ending-gaza-palestine-hostage-deal-palestinian-prisoners-released)
-- [Tesla to begin Cybertruck deliveries with price starting at $60,990](https://www.theguardian.com/technology/2023/nov/30/tesla-cybertrucks-delivery-begins)
-- [Russia-Ukraine war at a glance: what we know on day 646](https://www.theguardian.com/world/2023/dec/01/russia-ukraine-war-at-a-glance-what-we-know-on-day-646)
-- [Walsall trust failed man with HIV, ombudsman finds](https://www.theguardian.com/society/2023/dec/01/walsall-trust-failed-man-with-hiv-ombudsman-finds)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2023/dec/01/premier-league-10-things-to-look-out-for-this-weekend)
-- [The best theatre to stream this month: The Old Man and the Pool, Bedbound and more](https://www.theguardian.com/stage/2023/dec/01/the-best-theatre-to-stream-this-month-the-old-man-and-the-pool-bedbound-and-more)
-- [Renaissance: a Film by Beyoncé review – sparkling, party vibe with backstage insights](https://www.theguardian.com/music/2023/nov/30/renaissance-a-film-by-beyonce-review-sparkling-party-vibe-with-backstage-insights)
-- [Who are the Israeli hostages freed by Hamas during Gaza truce?](https://www.theguardian.com/world/2023/nov/27/who-are-the-israeli-hostages-freed-by-hamas-during-gaza-truce)
+- [Putin orders Russian military to boost troop numbers by 170,000](https://www.theguardian.com/world/2023/dec/02/putin-orders-russian-military-to-boost-troop-numbers-by-170000)
+- [Federal judge rejects Trump’s attempt to dismiss 2020 election subversion case](https://www.theguardian.com/us-news/2023/dec/01/trump-election-subversion-washington-dc)
+- [Trump victory in 2024 would mean no trial in Georgia for years, lawyer argues](https://www.theguardian.com/us-news/2023/dec/01/georgia-trial-trump-steve-sadow)
+- [‘We’d roll joints and watch Netflix with him!’ Irish folk artists on the creative genius of Shane MacGowan](https://www.theguardian.com/music/2023/dec/02/irish-folk-artists-shane-macgowan-lankum-wallopers-lisa-oneill-john-francis-flynn)
+- [‘It was sheer agony’: Israeli families of Hamas attack victims rally Australian support](https://www.theguardian.com/australia-news/2023/dec/02/it-was-sheer-agony-israeli-families-of-hamas-attack-victims-rally-australian-support)
+- [Ronnie O’Sullivan holds off Zhou in final frame to set up Vafaei rematch](https://www.theguardian.com/sport/2023/dec/01/ronnie-osullivan-uk-snooker-championship-hossein-vafaei)
+- [The week around the world in 20 pictures](https://www.theguardian.com/artanddesign/gallery/2023/dec/01/the-week-around-the-world-in-20-pictures)
+- [Pro-Palestine protester self-immolates outside Atlanta’s Israeli consulate](https://www.theguardian.com/us-news/2023/dec/01/protester-palestine-self-immolate-atlanta-israel-consulate)
+- [Cosmic Psychos on 40 years of ‘stupid, clever’ punk: ‘I can’t see why I’d not want to get free beer’](https://www.theguardian.com/music/2023/dec/01/cosmic-psychos-australian-punk-band-bio-interview-40th-anniversary-tour)
+- [Evita review – oh what a circus as musical gets bizarre update](https://www.theguardian.com/stage/2023/dec/01/evita-review-curve-theatre-leicester-eva-peron-lloyd-webber)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Smartphone shipments  are on the rise, buoyed by 5G, iOS devices: IDC](https://www.computerworld.com/article/3711379/smartphone-shipments-are-on-the-rise-buoyed-by-5g-ios-devices-idc.html#tk.rss_all)
+- [Here&#39;s what AWS revealed about its generative AI strategy at re:Invent 2023](https://www.infoworld.com/article/3711384/heres-what-aws-revealed-about-its-generative-ai-strategy-at-re-invent-2023.html#tk.rss_all)
+- [Apple secures WebKit as global ransomware attacks surge](https://www.computerworld.com/article/3711378/apple-secures-webkit-as-global-ransomware-attacks-surge.html#tk.rss_all)
+- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
+- [The fear and hype around AI is overblown](https://www.computerworld.com/article/3711369/the-fear-and-hype-around-ai-is-overblown.html#tk.rss_all)
+- [8 advanced ways to manage reminders in Android](https://www.computerworld.com/article/3711366/android-reminders.html#tk.rss_all)
 - [Unused Gmail accounts head to the chopping block](https://www.computerworld.com/article/3711376/unused-gmail-accounts-head-to-the-chopping-block.html#tk.rss_all)
 - [Ouch: UK regulators to investigate Apple after it loses appeal](https://www.computerworld.com/article/3711283/ouch-uk-regulators-to-investigate-apple-after-it-loses-appeal.html#tk.rss_all)
-- [Zoom’s survey tool aims for employee feedback outside of meetings](https://www.computerworld.com/article/3711282/zoom-survey-tool-employee-feedback-outside-meetings.html#tk.rss_all)
-- [Super apps: the next big thing for enterprise IT?](https://www.computerworld.com/article/3710989/super-apps-enterprise-it.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [What is &#39;Return to Service&#39; on iPhone and iOS — and how is it used?](https://www.computerworld.com/article/3711371/what-is-return-to-service-on-iphone-and-ios-and-how-is-it-used.html#tk.rss_all)
-- [8 advanced ways to manage reminders in Android](https://www.computerworld.com/article/3711366/android-reminders.html#tk.rss_all)
-- [GenAI is highly inaccurate for business use — and getting more opaque](https://www.computerworld.com/article/3711343/genai-is-highly-inaccurate-for-business-use-and-getting-more-opaque.html#tk.rss_all)
-- [How to go incognito in Chrome, Edge, Firefox, and Safari](https://www.computerworld.com/article/3356840/how-to-go-incognito-in-chrome-firefox-safari-and-edge.html#tk.rss_all)
-- [Amazon Q: AWS&#39; answer to Microsoft’s GPT-driven Copilot](https://www.computerworld.com/article/3711267/amazon-q-aws-answer-to-microsoft-s-gpt-driven-copilot.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

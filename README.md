@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Judge says evidence shows Tesla and Elon Musk knew about flawed autopilot system](https://www.npr.org/2023/11/23/1214966530/judge-says-evidence-shows-tesla-and-elon-musk-knew-about-flawed-autopilot-system)
-- [Language Models: A Guide for the Perplexed](https://arxiv.org/abs/2311.17301)
-- [Ask HN: Are Apple&#39;s M-series MacBooks over-powered for ordinary users?](https://news.ycombinator.com/item?id=38482194)
-- [Art•V: Auto-Regressive Text-to-Video Generation with Diffusion Models](https://warranweng.github.io/art.v/)
-- [How Huawei Is Helping China Build Up Its Semiconductor Independence](https://www.bloomberg.com/graphics/2023-china-huawei-semiconductor/)
-- [A reality bending mistake in Apple&#39;s computational photography](https://appleinsider.com/articles/23/11/30/a-bride-to-be-discovers-a-reality-bending-mistake-in-apples-computational-photography)
-- [Handwriting Repair [pdf]](https://penvibe.com/wp-content/uploads/2021/07/Handwriting-Repair-Guidebook.pdf)
-- [Who said what: using machine learning to correctly attribute quotes](https://www.theguardian.com/info/2023/nov/21/who-said-what-using-machine-learning-to-correctly-attribute-quotes)
-- [Broadcom adds silicon AI features to speed new Trident networking chip](https://www.reuters.com/technology/broadcom-adds-silicon-ai-features-speed-new-trident-networking-chip-2023-11-30/)
-- [Marker: Convert PDF to Markdown quickly with high accuracy](https://github.com/VikParuchuri/marker)
+- [Deepseek Coder instruct – 6.7B model beats gpt3.5-turbo in coding](https://github.com/deepseek-ai/DeepSeek-Coder)
+- [Ozempic could change the economy as we know it](https://www.businessinsider.com/semaglutide-wegovy-ozempic-weight-loss-healthcare-airlines-economy-productivity-2023-11)
+- [How to Flag HN Comments](https://news.ycombinator.com/newsfaq.html#cflag)
+- [Smol Talk: Daily AI Discord Summaries](https://buttondown.email/ainews)
+- [Amazon&#39;s Q has &#39;severe hallucinations&#39; and leaks confidential data](https://www.platformer.news/p/amazons-q-has-severe-hallucinations)
+- [To protect kids, the EPA wants total removal of lead pipes](https://www.washingtonpost.com/climate-environment/2023/11/30/lead-pipe-poisoning-biden-epa/)
+- [A browser and API for all LLM](https://kolank.com/)
+- [Agile as Trauma](https://doriantaylor.com/agile-as-trauma)
+- [SEthernet: Modern, low-cost 10/100 Ethernet for the Macintosh SE and SE/30](https://github.com/rhalkyard/SEthernet)
+- [Whose Domain Is It?](https://joinreboot.org/p/domains)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Nothing Personal: How ideas made Derek Parfit](https://hedgehogreview.com/issues/markets-and-the-good/articles/nothing-personal)
-- [Uber Joins the S&amp;P 500](https://www.wsj.com/livecoverage/stock-market-today-dow-jones-12-01-2023/card/uber-technologies-joins-the-s-p-500-JUPoBf8HFZP8ZeoZRZ6x)
-- [Deep Dive into the Vision Transformers Paper &lpar;ViT&rpar;](https://blog.oxen.ai/arxiv-dives-vision-transformers-vit/)
-- [A medieval Gothic monastery built using CAD / CAM](https://hackaday.com/2023/01/13/a-medieval-gothic-monastery-built-using-cad-cam/)
-- [Britain&#39;s scariest libel firm](https://www.economist.com/1843/2023/12/01/britains-scariest-libel-firm-can-pursue-anyone-anywhere)
-- [The skyhook solution](https://aeon.co/essays/space-junk-could-have-a-transcendent-purposeful-afterlife)
-- [Motile Living Biobots Self-Construct from Adult Human Somatic Progenitor Cells](https://onlinelibrary.wiley.com/doi/10.1002/advs.202303575)
-- [A Nouveau graphics driver update](https://lwn.net/SubscriberLink/953144/b85b695d0c760692/)
-- [The Neglected Books Page](https://neglectedbooks.com/)
-- [Seraph Secure: anti-scam software co-founded by Kitboga](https://www.seraphsecure.com/)
+- [Child abduction case: How Tom and Jerry cartoons helped police identify suspects](https://www.onmanorama.com/news/kerala/2023/12/02/kollam-child-abduction-tom-and-jerry-cartoon-helped-police-identify-suspects.html)
+- [Not a real engineer &lpar;2019&rpar;](https://twitchard.github.io/posts/2019-05-29-not-a-real-engineer.html)
+- [Factory construction boom in the US](https://wolfstreet.com/2023/12/02/the-eyepopping-factory-construction-boom-in-the-us/)
+- [Performance: Adventures in Thread-per-Core Async with Redpanda and Seastar](https://www.infoq.com/presentations/high-performance-asynchronous3/)
+- [JSON Web Proofs](https://github.com/json-web-proofs/json-web-proofs)
+- [Filmic&#39;s entire staff laid off by parent company Bending Spoons](https://petapixel.com/2023/12/01/filmics-entire-staff-laid-off-by-parent-company-bending-spoons/)
+- [Pipeworld: Spreadsheet Dataflow Computing &lpar;2021&rpar;](https://arcan-fe.com/2021/04/12/introducing-pipeworld/)
+- [Tesorio &lpar;YC S15&rpar; Is Hiring a Senior Data Engineer in Latam](https://www.tesorio.com/careers#job-openings)
+- [A new method to validate URLs in JavaScript](https://www.stefanjudis.com/blog/validate-urls-in-javascript/)
+- [Scientists discover retinal cells that help stabilize our world view](https://optometry.berkeley.edu/berkeley-scientists-discover-retinal-cells-that-help-stabilize-our-world-view/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

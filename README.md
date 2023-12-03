@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Putin orders Russian military to boost troop numbers by 170,000](https://www.theguardian.com/world/2023/dec/02/putin-orders-russian-military-to-boost-troop-numbers-by-170000)
-- [Federal judge rejects Trump’s attempt to dismiss 2020 election subversion case](https://www.theguardian.com/us-news/2023/dec/01/trump-election-subversion-washington-dc)
-- [Trump victory in 2024 would mean no trial in Georgia for years, lawyer argues](https://www.theguardian.com/us-news/2023/dec/01/georgia-trial-trump-steve-sadow)
-- [‘We’d roll joints and watch Netflix with him!’ Irish folk artists on the creative genius of Shane MacGowan](https://www.theguardian.com/music/2023/dec/02/irish-folk-artists-shane-macgowan-lankum-wallopers-lisa-oneill-john-francis-flynn)
-- [‘It was sheer agony’: Israeli families of Hamas attack victims rally Australian support](https://www.theguardian.com/australia-news/2023/dec/02/it-was-sheer-agony-israeli-families-of-hamas-attack-victims-rally-australian-support)
-- [Ronnie O’Sullivan holds off Zhou in final frame to set up Vafaei rematch](https://www.theguardian.com/sport/2023/dec/01/ronnie-osullivan-uk-snooker-championship-hossein-vafaei)
-- [The week around the world in 20 pictures](https://www.theguardian.com/artanddesign/gallery/2023/dec/01/the-week-around-the-world-in-20-pictures)
-- [Pro-Palestine protester self-immolates outside Atlanta’s Israeli consulate](https://www.theguardian.com/us-news/2023/dec/01/protester-palestine-self-immolate-atlanta-israel-consulate)
-- [Cosmic Psychos on 40 years of ‘stupid, clever’ punk: ‘I can’t see why I’d not want to get free beer’](https://www.theguardian.com/music/2023/dec/01/cosmic-psychos-australian-punk-band-bio-interview-40th-anniversary-tour)
-- [Evita review – oh what a circus as musical gets bizarre update](https://www.theguardian.com/stage/2023/dec/01/evita-review-curve-theatre-leicester-eva-peron-lloyd-webber)
+- [Tsunami alert lifted after Philippines struck by magnitude 7.5 earthquake](https://www.theguardian.com/world/2023/dec/02/philippines-hit-by-earthquake-tsunami-say-experts)
+- [O’Sullivan looking to ‘ruin careers’ in UK Championship final with Ding Junhui](https://www.theguardian.com/sport/2023/dec/02/ronnie-o-sullivan-snooker-uk-championship-final)
+- [One person killed and two others injured in central Paris attack](https://www.theguardian.com/world/2023/dec/02/one-person-killed-and-another-injured-in-central-paris-attack)
+- [Class act: Saorise-Monica Jackson in pictures](https://www.theguardian.com/fashion/gallery/2023/dec/02/class-act-saorise-monica-jackson-in-pictures)
+- [Snuggle up: 10 of the best cosy fashion pieces – in pictures](https://www.theguardian.com/fashion/gallery/2023/dec/02/snuggle-up-10-of-the-best-cosy-fashion-pieces-in-pictures)
+- [Suspect arrested in fatal shootings of three unhoused men in LA, police say](https://www.theguardian.com/us-news/2023/dec/02/los-angeles-unhoused-shootings-suspect-arrested)
+- [Keir Starmer praises Margaret Thatcher for bringing ‘meaningful change’ to UK](https://www.theguardian.com/politics/2023/dec/02/keir-starmer-praises-margaret-thatcher-for-bringing-meaningful-change-to-uk)
+- [When the farm burns or the grass runs out, it’s a battle to keep valuable livestock alive](https://www.theguardian.com/australia-news/2023/dec/02/when-the-farm-burns-or-the-grass-runs-out-its-a-battle-to-keep-valuable-livestock-alive)
+- [Newcastle’s Anthony Gordon punishes weary Manchester United](https://www.theguardian.com/football/2023/dec/02/newcastle-manchester-united-premier-league-match-report)
+- [Cumbria police declare major incident after heavy snowfall](https://www.theguardian.com/uk-news/2023/dec/02/met-office-issues-snow-and-ice-warnings-as-temperatures-plummet)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

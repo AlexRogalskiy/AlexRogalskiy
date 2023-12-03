@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Deepseek Coder instruct – 6.7B model beats gpt3.5-turbo in coding](https://github.com/deepseek-ai/DeepSeek-Coder)
-- [Ozempic could change the economy as we know it](https://www.businessinsider.com/semaglutide-wegovy-ozempic-weight-loss-healthcare-airlines-economy-productivity-2023-11)
-- [How to Flag HN Comments](https://news.ycombinator.com/newsfaq.html#cflag)
-- [Smol Talk: Daily AI Discord Summaries](https://buttondown.email/ainews)
-- [Amazon&#39;s Q has &#39;severe hallucinations&#39; and leaks confidential data](https://www.platformer.news/p/amazons-q-has-severe-hallucinations)
-- [To protect kids, the EPA wants total removal of lead pipes](https://www.washingtonpost.com/climate-environment/2023/11/30/lead-pipe-poisoning-biden-epa/)
-- [A browser and API for all LLM](https://kolank.com/)
-- [Agile as Trauma](https://doriantaylor.com/agile-as-trauma)
-- [SEthernet: Modern, low-cost 10/100 Ethernet for the Macintosh SE and SE/30](https://github.com/rhalkyard/SEthernet)
-- [Whose Domain Is It?](https://joinreboot.org/p/domains)
+- [Google AI Discovers 2.2M Crystal Structures](https://arstechnica.com/ai/2023/11/googles-deepmind-finds-2-2m-crystal-structures-in-materials-science-win/)
+- [A few words on taking notes](https://www.allthingsdistributed.com/2023/06/a-few-words-on-taking-notes.html)
+- [Qobuz – Unlimited streaming and Hi-Res download store](https://www.qobuz.com/us-en/discover)
+- [Scaling the Instagram Explore recommendations system](https://engineering.fb.com/2023/08/09/ml-applications/scaling-instagram-explore-recommendations-system/)
+- [Adding Build Provenance to Homebrew](https://blog.trailofbits.com/2023/11/06/adding-build-provenance-to-homebrew/)
+- [When Was the Last Time Technology Blew Your Mind?](https://hjr265.me/blog/when-was-the-last-time-technology-blew-your-mind/)
+- [Ask HN: Perceptual Evaluation on Research](https://news.ycombinator.com/item?id=38504165)
+- [Clang now makes binaries an original Pi B+ can&#39;t run](https://rachelbythebay.com/w/2023/11/30/armv6/)
+- [Google ads redirecting to DigitalOcean phishing link](https://imgur.com/a/EOOAxeO)
+- [ActualBudget Released Version 23.12.0](https://actualbudget.org/blog/release-23.12.0/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

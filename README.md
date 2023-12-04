@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Google AI Discovers 2.2M Crystal Structures](https://arstechnica.com/ai/2023/11/googles-deepmind-finds-2-2m-crystal-structures-in-materials-science-win/)
-- [A few words on taking notes](https://www.allthingsdistributed.com/2023/06/a-few-words-on-taking-notes.html)
-- [Qobuz – Unlimited streaming and Hi-Res download store](https://www.qobuz.com/us-en/discover)
-- [Scaling the Instagram Explore recommendations system](https://engineering.fb.com/2023/08/09/ml-applications/scaling-instagram-explore-recommendations-system/)
-- [Adding Build Provenance to Homebrew](https://blog.trailofbits.com/2023/11/06/adding-build-provenance-to-homebrew/)
-- [When Was the Last Time Technology Blew Your Mind?](https://hjr265.me/blog/when-was-the-last-time-technology-blew-your-mind/)
-- [Ask HN: Perceptual Evaluation on Research](https://news.ycombinator.com/item?id=38504165)
-- [Clang now makes binaries an original Pi B+ can&#39;t run](https://rachelbythebay.com/w/2023/11/30/armv6/)
-- [Google ads redirecting to DigitalOcean phishing link](https://imgur.com/a/EOOAxeO)
-- [ActualBudget Released Version 23.12.0](https://actualbudget.org/blog/release-23.12.0/)
+- [Show HN: Llamaphone- Single-file Front end for Llamafile](https://github.com/KerbalNo15/Llamaphone)
+- [Electric vehicles have almost 80% more problems than ICE ones, Consumer Reports](https://www.cbsnews.com/news/electric-vehicles-consumer-reports-reliability-report/)
+- [Making Peace with Simpson&#39;s Paradox](https://robertheaton.com/2019/02/24/making-peace-with-simpsons-paradox/)
+- [Is Posix Unsuitable for Object Stores? A Data-Backed Answer](https://juicefs.com/en/blog/community/posix-object-store-suitable-file-system)
+- [Show HN: Imgur-local-scrape&quot; scrape your site&#39;s images off imgur](https://github.com/benwinding/imgur-local-scrape)
+- [Should children clean their own schools? Japan thinks so](https://www.good.is/articles/japan-children-clean-schools)
+- [Cracking Playfair Ciphers](https://www.oranlooney.com/post/playfair/)
+- [Alaska Air to acquire Hawaiian Airlines for $1.9B](https://www.seattletimes.com/business/boeing-aerospace/alaska-air-to-acquire-hawaiian-airlines-for-1-9b/)
+- [Is China Much Richer Than We Thought? [video]](https://www.youtube.com/watch?v=Np9sntm1nxQ)
+- [Potential of the Julia programming language for high energy physics computing](https://arxiv.org/abs/2306.03675)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

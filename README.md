@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Tsunami alert lifted after Philippines struck by magnitude 7.5 earthquake](https://www.theguardian.com/world/2023/dec/02/philippines-hit-by-earthquake-tsunami-say-experts)
-- [O’Sullivan looking to ‘ruin careers’ in UK Championship final with Ding Junhui](https://www.theguardian.com/sport/2023/dec/02/ronnie-o-sullivan-snooker-uk-championship-final)
-- [One person killed and two others injured in central Paris attack](https://www.theguardian.com/world/2023/dec/02/one-person-killed-and-another-injured-in-central-paris-attack)
-- [Class act: Saorise-Monica Jackson in pictures](https://www.theguardian.com/fashion/gallery/2023/dec/02/class-act-saorise-monica-jackson-in-pictures)
-- [Snuggle up: 10 of the best cosy fashion pieces – in pictures](https://www.theguardian.com/fashion/gallery/2023/dec/02/snuggle-up-10-of-the-best-cosy-fashion-pieces-in-pictures)
-- [Suspect arrested in fatal shootings of three unhoused men in LA, police say](https://www.theguardian.com/us-news/2023/dec/02/los-angeles-unhoused-shootings-suspect-arrested)
-- [Keir Starmer praises Margaret Thatcher for bringing ‘meaningful change’ to UK](https://www.theguardian.com/politics/2023/dec/02/keir-starmer-praises-margaret-thatcher-for-bringing-meaningful-change-to-uk)
-- [When the farm burns or the grass runs out, it’s a battle to keep valuable livestock alive](https://www.theguardian.com/australia-news/2023/dec/02/when-the-farm-burns-or-the-grass-runs-out-its-a-battle-to-keep-valuable-livestock-alive)
-- [Newcastle’s Anthony Gordon punishes weary Manchester United](https://www.theguardian.com/football/2023/dec/02/newcastle-manchester-united-premier-league-match-report)
-- [Cumbria police declare major incident after heavy snowfall](https://www.theguardian.com/uk-news/2023/dec/02/met-office-issues-snow-and-ice-warnings-as-temperatures-plummet)
+- [Israel-Hamas war: IDF claims to have found 800 tunnel shafts – as it happened](https://www.theguardian.com/world/live/2023/dec/03/israel-hamas-war-live-israeli-attacks-on-gaza-continue-overnight-macron-warns-israels-plan-to-eliminate-hamas-risks-decade-of-war)
+- [Three US commercial vessels in Red Sea reportedly attacked by Yemen drones](https://www.theguardian.com/world/2023/dec/03/us-warship-in-red-sea-reportedly-attacked-by-drones-from-yemen)
+- [Bones found at Sydney beach in rumoured organised crime ‘dumping ground’ for murders](https://www.theguardian.com/australia-news/2023/dec/04/bones-found-at-sydney-beach-in-rumoured-organised-dumping-ground-for-murders)
+- [Researchers create AI tool with a nose for fraudulent wine](https://www.theguardian.com/science/2023/dec/04/researchers-create-ai-tool-detect-fraudulent-wine)
+- [Europe is ‘miles behind’ in race for raw materials used in electric car batteries](https://www.theguardian.com/business/2023/dec/04/europe-miles-behind-race-raw-materials-electric-car-batteries-lithium-cobalt-nickel)
+- [Oppenheimer director Christopher Nolan to receive BFI fellowship](https://www.theguardian.com/film/2023/dec/04/oppenheimer-director-christopher-nolan-to-receive-bfi-fellowship)
+- [UK has lacked coherent economic strategy for years, thinktank finds](https://www.theguardian.com/politics/2023/dec/04/uk-has-lacked-coherent-economic-strategy-for-years-thinktank-finds)
+- [‘I’m so nervous’: Ncuti Gatwa prepares to begin new Doctor Who role](https://www.theguardian.com/culture/2023/dec/04/im-so-nervous-ncuti-gatwa-prepares-to-begin-new-doctor-who-role)
+- [60th time lucky: learner driver breaks UK record for sitting theory test](https://www.theguardian.com/uk-news/2023/dec/04/60th-time-lucky-learner-driver-breaks-uk-record-for-sitting-theory-test)
+- [Average asking price for UK home will fall by 1% in 2024, says Rightmove](https://www.theguardian.com/money/2023/dec/04/uk-house-prices-likely-fall-1-per-cent-2024-rightmove)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Child abduction case: How Tom and Jerry cartoons helped police identify suspects](https://www.onmanorama.com/news/kerala/2023/12/02/kollam-child-abduction-tom-and-jerry-cartoon-helped-police-identify-suspects.html)
-- [Not a real engineer &lpar;2019&rpar;](https://twitchard.github.io/posts/2019-05-29-not-a-real-engineer.html)
-- [Factory construction boom in the US](https://wolfstreet.com/2023/12/02/the-eyepopping-factory-construction-boom-in-the-us/)
-- [Performance: Adventures in Thread-per-Core Async with Redpanda and Seastar](https://www.infoq.com/presentations/high-performance-asynchronous3/)
-- [JSON Web Proofs](https://github.com/json-web-proofs/json-web-proofs)
-- [Filmic&#39;s entire staff laid off by parent company Bending Spoons](https://petapixel.com/2023/12/01/filmics-entire-staff-laid-off-by-parent-company-bending-spoons/)
-- [Pipeworld: Spreadsheet Dataflow Computing &lpar;2021&rpar;](https://arcan-fe.com/2021/04/12/introducing-pipeworld/)
-- [Tesorio &lpar;YC S15&rpar; Is Hiring a Senior Data Engineer in Latam](https://www.tesorio.com/careers#job-openings)
-- [A new method to validate URLs in JavaScript](https://www.stefanjudis.com/blog/validate-urls-in-javascript/)
-- [Scientists discover retinal cells that help stabilize our world view](https://optometry.berkeley.edu/berkeley-scientists-discover-retinal-cells-that-help-stabilize-our-world-view/)
+- [Electric vehicles have almost 80% more problems than ICE ones, Consumer Reports](https://www.cbsnews.com/news/electric-vehicles-consumer-reports-reliability-report/)
+- [Study: Students would be willing to pay $28 to have peers deactivate TikTok](https://bfi.uchicago.edu/insight/research-summary/when-product-markets-become-collective-traps-the-case-of-social-media/)
+- [Writing a file system from scratch in Rust](https://blog.carlosgaldino.com/writing-a-file-system-from-scratch-in-rust.html)
+- [The Fediverse is an opportunity learned societies can&#39;t ignore](https://blogs.lse.ac.uk/impactofsocialsciences/2023/11/30/the-fediverse-is-an-opportunity-learned-societies-cant-ignore/)
+- [Ask HN: What side projects landed you a job?](https://news.ycombinator.com/item?id=38511280)
+- [US Visual Approaches: Lessons from the LH458 Incident](https://ops.group/blog/us-visual-approaches-lh458/)
+- [MakeMake: Generate make files from C source code](https://github.com/quelsolaar/makemake)
+- [Gron: Make JSON greppable](https://github.com/tomnomnom/gron)
+- [Learning Jai via Advent of Code](https://www.forrestthewoods.com/blog/learning-jai-via-advent-of-code/)
+- [Learn how modern JavaScript frameworks work by building one](https://nolanlawson.com/2023/12/02/lets-learn-how-modern-javascript-frameworks-work-by-building-one/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

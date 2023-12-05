@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: Llamaphone- Single-file Front end for Llamafile](https://github.com/KerbalNo15/Llamaphone)
-- [Electric vehicles have almost 80% more problems than ICE ones, Consumer Reports](https://www.cbsnews.com/news/electric-vehicles-consumer-reports-reliability-report/)
-- [Making Peace with Simpson&#39;s Paradox](https://robertheaton.com/2019/02/24/making-peace-with-simpsons-paradox/)
-- [Is Posix Unsuitable for Object Stores? A Data-Backed Answer](https://juicefs.com/en/blog/community/posix-object-store-suitable-file-system)
-- [Show HN: Imgur-local-scrape&quot; scrape your site&#39;s images off imgur](https://github.com/benwinding/imgur-local-scrape)
-- [Should children clean their own schools? Japan thinks so](https://www.good.is/articles/japan-children-clean-schools)
-- [Cracking Playfair Ciphers](https://www.oranlooney.com/post/playfair/)
-- [Alaska Air to acquire Hawaiian Airlines for $1.9B](https://www.seattletimes.com/business/boeing-aerospace/alaska-air-to-acquire-hawaiian-airlines-for-1-9b/)
-- [Is China Much Richer Than We Thought? [video]](https://www.youtube.com/watch?v=Np9sntm1nxQ)
-- [Potential of the Julia programming language for high energy physics computing](https://arxiv.org/abs/2306.03675)
+- [GPT-4-Powered QA at Databend](https://www.databend.com/blog/gpt-powered-qa/)
+- [Only 52 US companies have been on the Fortune 500 since 1955 &lpar;2021&rpar;](https://www.aei.org/carpe-diem/only-52-us-companies-have-been-on-the-fortune-500-since-1955-thanks-to-the-creative-destruction-that-fuels-economic-prosperity-2/)
+- [Spotify cutting 17 per cent of workforce in 3rd round of layoffs this year](https://www.cbc.ca/news/business/spotify-cutting-17-per-cent-workforce-1.7048124)
+- [Why is Gradle so bad?](https://news.ycombinator.com/item?id=38526166)
+- [Deluge Groovebox: Community Edition Firmware Is Now Available](https://github.com/SynthstromAudible/DelugeFirmware/releases/tag/release_1_0)
+- [GCN, AMD&#39;s GPU Architecture Modernization](https://chipsandcheese.com/2023/12/04/gcn-amds-gpu-architecture-modernization/)
+- [Nvidia to work with SoftBank, other Japan firms to push AI research](https://mainichi.jp/english/articles/20231204/p2g/00m/0bu/045000c)
+- [Show HN: TSDiagram – Diagrams as Code with TypeScript](https://tsdiagram.com)
+- [Ask HN: What would the state of AI be if OpenAI never existed?](https://news.ycombinator.com/item?id=38526075)
+- [U.N. climate talks head says &quot;no science&quot; backs ending fossil fuels](https://www.npr.org/2023/12/04/1216935780/u-n-climate-talks-head-says-no-science-backs-ending-fossil-fuels-thats-incorrect)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

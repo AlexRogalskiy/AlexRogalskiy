@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Israel-Hamas war: IDF claims to have found 800 tunnel shafts – as it happened](https://www.theguardian.com/world/live/2023/dec/03/israel-hamas-war-live-israeli-attacks-on-gaza-continue-overnight-macron-warns-israels-plan-to-eliminate-hamas-risks-decade-of-war)
-- [Three US commercial vessels in Red Sea reportedly attacked by Yemen drones](https://www.theguardian.com/world/2023/dec/03/us-warship-in-red-sea-reportedly-attacked-by-drones-from-yemen)
-- [Bones found at Sydney beach in rumoured organised crime ‘dumping ground’ for murders](https://www.theguardian.com/australia-news/2023/dec/04/bones-found-at-sydney-beach-in-rumoured-organised-dumping-ground-for-murders)
-- [Researchers create AI tool with a nose for fraudulent wine](https://www.theguardian.com/science/2023/dec/04/researchers-create-ai-tool-detect-fraudulent-wine)
-- [Europe is ‘miles behind’ in race for raw materials used in electric car batteries](https://www.theguardian.com/business/2023/dec/04/europe-miles-behind-race-raw-materials-electric-car-batteries-lithium-cobalt-nickel)
-- [Oppenheimer director Christopher Nolan to receive BFI fellowship](https://www.theguardian.com/film/2023/dec/04/oppenheimer-director-christopher-nolan-to-receive-bfi-fellowship)
-- [UK has lacked coherent economic strategy for years, thinktank finds](https://www.theguardian.com/politics/2023/dec/04/uk-has-lacked-coherent-economic-strategy-for-years-thinktank-finds)
-- [‘I’m so nervous’: Ncuti Gatwa prepares to begin new Doctor Who role](https://www.theguardian.com/culture/2023/dec/04/im-so-nervous-ncuti-gatwa-prepares-to-begin-new-doctor-who-role)
-- [60th time lucky: learner driver breaks UK record for sitting theory test](https://www.theguardian.com/uk-news/2023/dec/04/60th-time-lucky-learner-driver-breaks-uk-record-for-sitting-theory-test)
-- [Average asking price for UK home will fall by 1% in 2024, says Rightmove](https://www.theguardian.com/money/2023/dec/04/uk-house-prices-likely-fall-1-per-cent-2024-rightmove)
+- [Eight workers at Texas chemical plant hospitalized after toxic gas leak](https://www.theguardian.com/us-news/2023/dec/04/texas-toxic-gas-leak-la-porte)
+- [Israel-Hamas war live: UN official warns of ‘hellish’ aid scenario as IDF pushes into southern Gaza](https://www.theguardian.com/world/live/2023/dec/04/israel-hamas-war-live-updates-hundreds-palestinians-killed-israel-ground-attack-gaza-strip-news)
+- [New Zealand: thousands protest against new government policies that unravel Māori gains](https://www.theguardian.com/world/2023/dec/05/new-zealand-protest-thousands-maori-government-policies)
+- [GTA 6 trailer: fast cars, flamingos and a female lead revealed in first look](https://www.theguardian.com/games/2023/dec/05/gta-6-trailer-fast-cars-flamingos-and-a-female-lead-revealed-in-first-look)
+- [Christopher Luxon’s new coalition struggles with self-inflicted crises – but it has time to recover | Henry Cooke](https://www.theguardian.com/world/2023/dec/05/christopher-luxon-new-zealand-coalition-struggles-with-self-inflicted-crises-but-it-has-time-to-recover-)
+- [Football Weekly completes podcast of the year hat-trick at 2023 FSA Awards](https://www.theguardian.com/football/2023/dec/05/football-weekly-fsa-awards-guardian-2023-podcast)
+- [Rishi Sunak suffers first parliamentary defeat in infected blood vote](https://www.theguardian.com/uk-news/2023/dec/05/rishi-sunak-suffers-first-parliamentary-defeat-in-infected-blood-vote)
+- [Pornography websites will have to check users’ ages, under draft guidelines](https://www.theguardian.com/society/2023/dec/05/pornography-websites-will-have-to-check-users-ages-under-draft-guidelines)
+- [Shoppers cut back on non-essential items to add to UK retail gloom](https://www.theguardian.com/business/2023/dec/05/shoppers-cut-back-on-non-essential-items-to-add-to-uk-retail-gloom)
+- [Cheesecake, snowflakes and lamington ice-cream: Kirsten Tibballs’ impressive chocolate desserts](https://www.theguardian.com/food/2023/dec/05/kirsten-tibball-chocolate-dessert-recipes-cheesecake-snowflakes-lamington-ice-cream)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

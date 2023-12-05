@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Electric vehicles have almost 80% more problems than ICE ones, Consumer Reports](https://www.cbsnews.com/news/electric-vehicles-consumer-reports-reliability-report/)
-- [Study: Students would be willing to pay $28 to have peers deactivate TikTok](https://bfi.uchicago.edu/insight/research-summary/when-product-markets-become-collective-traps-the-case-of-social-media/)
-- [Writing a file system from scratch in Rust](https://blog.carlosgaldino.com/writing-a-file-system-from-scratch-in-rust.html)
-- [The Fediverse is an opportunity learned societies can&#39;t ignore](https://blogs.lse.ac.uk/impactofsocialsciences/2023/11/30/the-fediverse-is-an-opportunity-learned-societies-cant-ignore/)
-- [Ask HN: What side projects landed you a job?](https://news.ycombinator.com/item?id=38511280)
-- [US Visual Approaches: Lessons from the LH458 Incident](https://ops.group/blog/us-visual-approaches-lh458/)
-- [MakeMake: Generate make files from C source code](https://github.com/quelsolaar/makemake)
-- [Gron: Make JSON greppable](https://github.com/tomnomnom/gron)
-- [Learning Jai via Advent of Code](https://www.forrestthewoods.com/blog/learning-jai-via-advent-of-code/)
-- [Learn how modern JavaScript frameworks work by building one](https://nolanlawson.com/2023/12/02/lets-learn-how-modern-javascript-frameworks-work-by-building-one/)
+- [I Hacked Magic the Gathering: Arena for a 100% Win Rate](https://www.mayer.cool/writings/I-Hacked-Magic-the-Gathering/)
+- [Ask HN: Where do you live? What&#39;s good or bad about it?](https://news.ycombinator.com/item?id=38525825)
+- [Eclipse: The Demo that Sold 3D to Nintendo](https://gamehistory.org/eclipse-the-demo-that-sold-3d-to-nintendo/)
+- [Common Rust Lifetime Misconceptions](https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md)
+- [Taking low-dose aspirin is associated with 20% reduction in cancer deaths](https://www.cardiff.ac.uk/news/view/2782804-aspirin-and-treating-cancer)
+- [System-wide open source ad blocker for Mac, Windows, and Linux](https://github.com/anfragment/zen)
+- [Towards accurate differential diagnosis with large language models](https://arxiv.org/abs/2312.00164)
+- [2023 WebMD Wrapped](https://www.mcsweeneys.net/articles/your-2023-webmd-wrapped)
+- [The Norway Model: How the Scandinavian country became a literary powerhouse](https://www.thedial.world/issue-10/norway-literary-scene)
+- [YouTuber sentenced to 6 months in prison for obstructing probe into plane crash](https://www.justice.gov/usao-cdca/pr/santa-barbara-county-man-sentenced-6-months-prison-obstructing-federal-probe-plane)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

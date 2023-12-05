@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Twilio sheds jobs in third round of layoffs](https://www.computerworld.com/article/3711421/twilio-sheds-jobs-in-third-round-of-layoffs.html#tk.rss_all)
+- [Apple sees 6G as strategically important to its future](https://www.computerworld.com/article/3711405/apple-sees-6g-as-strategically-important-to-its-future.html#tk.rss_all)
+- [Questions raised as Amazon Q reportedly starts to hallucinate and leak confidential data](https://www.computerworld.com/article/3711467/questions-raised-as-amazon-q-reportedly-starts-to-hallucinate-and-leak-confidential-data.html#tk.rss_all)
+- [The arrival of genAI could cover critical skills gaps, reshape IT job market](https://www.computerworld.com/article/3711462/four-in-10-c-level-execs-eye-genai-to-cover-critical-skills-gaps.html#tk.rss_all)
+- [OpenAI signed $51M deal to buy ‘brain’ chips from Sam Altman portfolio firm](https://www.computerworld.com/article/3711466/openai-signed-51m-deal-to-buy-brain-chips-from-sam-altman-portfolio-firm.html#tk.rss_all)
 - [Smartphone shipments  are on the rise, buoyed by 5G, iOS devices: IDC](https://www.computerworld.com/article/3711379/smartphone-shipments-are-on-the-rise-buoyed-by-5g-ios-devices-idc.html#tk.rss_all)
 - [Here&#39;s what AWS revealed about its generative AI strategy at re:Invent 2023](https://www.infoworld.com/article/3711384/heres-what-aws-revealed-about-its-generative-ai-strategy-at-re-invent-2023.html#tk.rss_all)
 - [Apple secures WebKit as global ransomware attacks surge](https://www.computerworld.com/article/3711378/apple-secures-webkit-as-global-ransomware-attacks-surge.html#tk.rss_all)
 - [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
-- [The fear and hype around AI is overblown](https://www.computerworld.com/article/3711369/the-fear-and-hype-around-ai-is-overblown.html#tk.rss_all)
-- [8 advanced ways to manage reminders in Android](https://www.computerworld.com/article/3711366/android-reminders.html#tk.rss_all)
-- [Unused Gmail accounts head to the chopping block](https://www.computerworld.com/article/3711376/unused-gmail-accounts-head-to-the-chopping-block.html#tk.rss_all)
-- [Ouch: UK regulators to investigate Apple after it loses appeal](https://www.computerworld.com/article/3711283/ouch-uk-regulators-to-investigate-apple-after-it-loses-appeal.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

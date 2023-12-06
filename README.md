@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Eight workers at Texas chemical plant hospitalized after toxic gas leak](https://www.theguardian.com/us-news/2023/dec/04/texas-toxic-gas-leak-la-porte)
-- [Israel-Hamas war live: UN official warns of ‘hellish’ aid scenario as IDF pushes into southern Gaza](https://www.theguardian.com/world/live/2023/dec/04/israel-hamas-war-live-updates-hundreds-palestinians-killed-israel-ground-attack-gaza-strip-news)
-- [New Zealand: thousands protest against new government policies that unravel Māori gains](https://www.theguardian.com/world/2023/dec/05/new-zealand-protest-thousands-maori-government-policies)
-- [GTA 6 trailer: fast cars, flamingos and a female lead revealed in first look](https://www.theguardian.com/games/2023/dec/05/gta-6-trailer-fast-cars-flamingos-and-a-female-lead-revealed-in-first-look)
-- [Christopher Luxon’s new coalition struggles with self-inflicted crises – but it has time to recover | Henry Cooke](https://www.theguardian.com/world/2023/dec/05/christopher-luxon-new-zealand-coalition-struggles-with-self-inflicted-crises-but-it-has-time-to-recover-)
-- [Football Weekly completes podcast of the year hat-trick at 2023 FSA Awards](https://www.theguardian.com/football/2023/dec/05/football-weekly-fsa-awards-guardian-2023-podcast)
-- [Rishi Sunak suffers first parliamentary defeat in infected blood vote](https://www.theguardian.com/uk-news/2023/dec/05/rishi-sunak-suffers-first-parliamentary-defeat-in-infected-blood-vote)
-- [Pornography websites will have to check users’ ages, under draft guidelines](https://www.theguardian.com/society/2023/dec/05/pornography-websites-will-have-to-check-users-ages-under-draft-guidelines)
-- [Shoppers cut back on non-essential items to add to UK retail gloom](https://www.theguardian.com/business/2023/dec/05/shoppers-cut-back-on-non-essential-items-to-add-to-uk-retail-gloom)
-- [Cheesecake, snowflakes and lamington ice-cream: Kirsten Tibballs’ impressive chocolate desserts](https://www.theguardian.com/food/2023/dec/05/kirsten-tibball-chocolate-dessert-recipes-cheesecake-snowflakes-lamington-ice-cream)
+- [UN hears accounts of sexual violence during 7 October attacks by Hamas](https://www.theguardian.com/world/2023/dec/05/un-hears-accounts-of-sexual-violence-during-7-october-attacks-by-hamas)
+- [‘I felt scared of him’: Jonathan Majors’ ex-girlfriend testifies in assault trial](https://www.theguardian.com/culture/2023/dec/05/jonathan-majors-ex-girlfriend-testimony-assault-trial)
+- [Earth on verge of five catastrophic climate tipping points, scientists warn](https://www.theguardian.com/environment/2023/dec/06/earth-on-verge-of-five-catastrophic-tipping-points-scientists-warn)
+- [Russia-Ukraine war at a glance: what we know on day 651](https://www.theguardian.com/world/2023/dec/06/russia-ukraine-war-at-a-glance-what-we-know-on-day-651)
+- [Millions will struggle to heat homes this Christmas, says UK’s National Debtline](https://www.theguardian.com/money/2023/dec/06/heat-homes-christmas-uk-national-debtline-food-presents)
+- [Air France, Lufthansa and Etihad ads banned for misleading claims](https://www.theguardian.com/media/2023/dec/06/air-france-lufthansa-etihad-ads-banned-misleading-claims-advertising-environmental)
+- [London borough of Richmond is ‘happiest place to live in Great Britain’](https://www.theguardian.com/business/2023/dec/06/london-borough-of-richmond-is-happiest-place-to-live-in-great-britain)
+- [EE launches streaming TV with custom Apple TV box in UK first](https://www.theguardian.com/business/2023/dec/06/ee-tv-apple-tv-box-uk-bt)
+- [Cardwell and Allison star as England make winning start against South Africa](https://www.theguardian.com/sport/2023/dec/05/cardwell-and-allison-star-as-england-make-winning-start-against-south-africa)
+- [Texas school again suspends Black student for refusing to change his hair](https://www.theguardian.com/us-news/2023/dec/05/texas-black-student-suspended-hair-discrimination)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

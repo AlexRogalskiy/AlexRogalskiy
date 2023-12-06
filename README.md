@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [GPT-4-Powered QA at Databend](https://www.databend.com/blog/gpt-powered-qa/)
-- [Only 52 US companies have been on the Fortune 500 since 1955 &lpar;2021&rpar;](https://www.aei.org/carpe-diem/only-52-us-companies-have-been-on-the-fortune-500-since-1955-thanks-to-the-creative-destruction-that-fuels-economic-prosperity-2/)
-- [Spotify cutting 17 per cent of workforce in 3rd round of layoffs this year](https://www.cbc.ca/news/business/spotify-cutting-17-per-cent-workforce-1.7048124)
-- [Why is Gradle so bad?](https://news.ycombinator.com/item?id=38526166)
-- [Deluge Groovebox: Community Edition Firmware Is Now Available](https://github.com/SynthstromAudible/DelugeFirmware/releases/tag/release_1_0)
-- [GCN, AMD&#39;s GPU Architecture Modernization](https://chipsandcheese.com/2023/12/04/gcn-amds-gpu-architecture-modernization/)
-- [Nvidia to work with SoftBank, other Japan firms to push AI research](https://mainichi.jp/english/articles/20231204/p2g/00m/0bu/045000c)
-- [Show HN: TSDiagram – Diagrams as Code with TypeScript](https://tsdiagram.com)
-- [Ask HN: What would the state of AI be if OpenAI never existed?](https://news.ycombinator.com/item?id=38526075)
-- [U.N. climate talks head says &quot;no science&quot; backs ending fossil fuels](https://www.npr.org/2023/12/04/1216935780/u-n-climate-talks-head-says-no-science-backs-ending-fossil-fuels-thats-incorrect)
+- [New in Chrome 120 back button detection](https://developer.chrome.com/blog/new-in-chrome-120)
+- [New theory claims to unite Einstein&#39;s gravity with quantum mechanics](https://phys.org/news/2023-12-theory-einstein-gravity-quantum-mechanics.amp)
+- [Email Marketing Automation](https://news.ycombinator.com/item?id=38539675)
+- [Silk: Unlocking the Secrets of Natural Materials to Weave a Better World](https://scitechdaily.com/silk-solutions-unlocking-the-secrets-of-natural-materials-to-weave-a-better-world/)
+- [AI WiFi hacking device, that&#39;s also a virtual pet](https://pwnagotchi.ai/)
+- [Government warns banks buy-now pay-later lending could come back to bite them](https://fortune.com/2023/12/05/banks-warning-federal-government-buy-now-pay-later-products/)
+- [Manufacturing&#39;s shift out of China is shaking up shipping](https://qz.com/the-shift-of-manufacturing-out-of-china-is-shaking-up-s-1851064053)
+- [Windows 10 gets three more years of security updates, if you can afford them](https://arstechnica.com/gadgets/2023/12/windows-10-gets-three-more-years-of-security-updates-if-you-can-afford-them/)
+- [Ask HN: 150+ signups, 0 paid ones – should I move on or keep building?](https://news.ycombinator.com/item?id=38539610)
+- [Serverless SQLite free tier data leak/loss, affected users get paid tier forever](https://blog.turso.tech/incident-2023-12-04-data-leak-and-loss-in-some-free-tier-databases-7cba5bc7)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

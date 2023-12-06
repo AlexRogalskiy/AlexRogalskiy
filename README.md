@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [I Hacked Magic the Gathering: Arena for a 100% Win Rate](https://www.mayer.cool/writings/I-Hacked-Magic-the-Gathering/)
-- [Ask HN: Where do you live? What&#39;s good or bad about it?](https://news.ycombinator.com/item?id=38525825)
-- [Eclipse: The Demo that Sold 3D to Nintendo](https://gamehistory.org/eclipse-the-demo-that-sold-3d-to-nintendo/)
-- [Common Rust Lifetime Misconceptions](https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md)
-- [Taking low-dose aspirin is associated with 20% reduction in cancer deaths](https://www.cardiff.ac.uk/news/view/2782804-aspirin-and-treating-cancer)
-- [System-wide open source ad blocker for Mac, Windows, and Linux](https://github.com/anfragment/zen)
-- [Towards accurate differential diagnosis with large language models](https://arxiv.org/abs/2312.00164)
-- [2023 WebMD Wrapped](https://www.mcsweeneys.net/articles/your-2023-webmd-wrapped)
-- [The Norway Model: How the Scandinavian country became a literary powerhouse](https://www.thedial.world/issue-10/norway-literary-scene)
-- [YouTuber sentenced to 6 months in prison for obstructing probe into plane crash](https://www.justice.gov/usao-cdca/pr/santa-barbara-county-man-sentenced-6-months-prison-obstructing-federal-probe-plane)
+- [Go Testing by Example [video]](https://research.swtch.com/testing)
+- [An update on Twitch in Korea](https://blog.twitch.tv/en/2023/12/05/an-update-on-twitch-in-korea/)
+- [Thermoelectric heating stands at the brink of commercialization](https://spectrum.ieee.org/thermoelectric-heating)
+- [Virtual Machine as a core Android Primitive](https://android-developers.googleblog.com/2023/12/virtual-machines-as-core-android-primitive.html)
+- [Report: YouTube adding user-traceable ID tag to links shared off-platform](https://twitter.com/OldRowSwig/status/1732112446943269347?s=20)
+- [Cognitive ability and miscalibrated financial expectations](https://journals.sagepub.com/doi/10.1177/01461672231209400)
+- [Magicoder: Source Code Is All You Need](https://arxiv.org/abs/2312.02120)
+- [Show HN: Dropbase – Build internal web apps with just Python](https://github.com/DropbaseHQ/dropbase)
+- [Why 3M stopped making floppy disks in the &#39;90s](https://tedium.co/2023/11/17/3m-floppy-disks-history/)
+- [SigNoz &lpar;YC W21&rpar;, Open Source Datadog, Is Hiring SREs &lpar;Remote&rpar;](https://signoz.io/careers/site-reliability-engineer/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

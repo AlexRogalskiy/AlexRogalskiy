@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
-- [Twilio sheds jobs in third round of layoffs](https://www.computerworld.com/article/3711421/twilio-sheds-jobs-in-third-round-of-layoffs.html#tk.rss_all)
-- [Apple sees 6G as strategically important to its future](https://www.computerworld.com/article/3711405/apple-sees-6g-as-strategically-important-to-its-future.html#tk.rss_all)
-- [Questions raised as Amazon Q reportedly starts to hallucinate and leak confidential data](https://www.computerworld.com/article/3711467/questions-raised-as-amazon-q-reportedly-starts-to-hallucinate-and-leak-confidential-data.html#tk.rss_all)
-- [The arrival of genAI could cover critical skills gaps, reshape IT job market](https://www.computerworld.com/article/3711462/four-in-10-c-level-execs-eye-genai-to-cover-critical-skills-gaps.html#tk.rss_all)
-- [OpenAI signed $51M deal to buy ‘brain’ chips from Sam Altman portfolio firm](https://www.computerworld.com/article/3711466/openai-signed-51m-deal-to-buy-brain-chips-from-sam-altman-portfolio-firm.html#tk.rss_all)
-- [Smartphone shipments  are on the rise, buoyed by 5G, iOS devices: IDC](https://www.computerworld.com/article/3711379/smartphone-shipments-are-on-the-rise-buoyed-by-5g-ios-devices-idc.html#tk.rss_all)
-- [Here&#39;s what AWS revealed about its generative AI strategy at re:Invent 2023](https://www.infoworld.com/article/3711384/heres-what-aws-revealed-about-its-generative-ai-strategy-at-re-invent-2023.html#tk.rss_all)
-- [Apple secures WebKit as global ransomware attacks surge](https://www.computerworld.com/article/3711378/apple-secures-webkit-as-global-ransomware-attacks-surge.html#tk.rss_all)
-- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
+- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [Spanish media&#39;s $600M suit against Meta is based on GDPR noncompliance](https://www.computerworld.com/article/3711424/spanish-medias-600m-suit-against-meta-is-based-on-gdpr-noncompliance.html#tk.rss_all)
+- [Microsoft to offer extended Windows 10 security updates to businesses, individual users](https://www.computerworld.com/article/3711425/microsoft-to-offer-windows-10-extended-security-updates-to-business-and-individual-users.html#tk.rss_all)
+- [AI Alliance, led by IBM and Meta, to promote open standards and take on AWS, Microsoft, and Nvidia](https://www.infoworld.com/article/3711468/ai-alliance-led-by-ibm-and-meta-to-promote-open-standards-and-take-on-aws-microsoft-and-nvidia.html#tk.rss_all)
+- [How Fake Lockdown Mode can fool you into a sense of security](https://www.computerworld.com/article/3711423/how-fake-lockdown-mode-can-fool-you-into-a-sense-of-security.html#tk.rss_all)
+- [Singapore makes key policy shifts in revised national AI strategy](https://www.computerworld.com/article/3711387/singapore-makes-key-policy-shifts-in-revised-national-ai-strategy.html#tk.rss_all)
+- [Windows 10 cheat sheet](https://www.computerworld.com/article/3014286/windows-10-cheat-sheet.html#tk.rss_all)
+- [Japan partners with Nvidia to boost GPU stock pile](https://www.computerworld.com/article/3711502/japan-partners-with-nvidia-to-boost-gpu-stock-pile.html#tk.rss_all)
+- [Twilio sheds jobs in third round of layoffs](https://www.computerworld.com/article/3711421/twilio-sheds-jobs-in-third-round-of-layoffs.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

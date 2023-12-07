@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [UN hears accounts of sexual violence during 7 October attacks by Hamas](https://www.theguardian.com/world/2023/dec/05/un-hears-accounts-of-sexual-violence-during-7-october-attacks-by-hamas)
-- [‘I felt scared of him’: Jonathan Majors’ ex-girlfriend testifies in assault trial](https://www.theguardian.com/culture/2023/dec/05/jonathan-majors-ex-girlfriend-testimony-assault-trial)
-- [Earth on verge of five catastrophic climate tipping points, scientists warn](https://www.theguardian.com/environment/2023/dec/06/earth-on-verge-of-five-catastrophic-tipping-points-scientists-warn)
-- [Russia-Ukraine war at a glance: what we know on day 651](https://www.theguardian.com/world/2023/dec/06/russia-ukraine-war-at-a-glance-what-we-know-on-day-651)
-- [Millions will struggle to heat homes this Christmas, says UK’s National Debtline](https://www.theguardian.com/money/2023/dec/06/heat-homes-christmas-uk-national-debtline-food-presents)
-- [Air France, Lufthansa and Etihad ads banned for misleading claims](https://www.theguardian.com/media/2023/dec/06/air-france-lufthansa-etihad-ads-banned-misleading-claims-advertising-environmental)
-- [London borough of Richmond is ‘happiest place to live in Great Britain’](https://www.theguardian.com/business/2023/dec/06/london-borough-of-richmond-is-happiest-place-to-live-in-great-britain)
-- [EE launches streaming TV with custom Apple TV box in UK first](https://www.theguardian.com/business/2023/dec/06/ee-tv-apple-tv-box-uk-bt)
-- [Cardwell and Allison star as England make winning start against South Africa](https://www.theguardian.com/sport/2023/dec/05/cardwell-and-allison-star-as-england-make-winning-start-against-south-africa)
-- [Texas school again suspends Black student for refusing to change his hair](https://www.theguardian.com/us-news/2023/dec/05/texas-black-student-suspended-hair-discrimination)
+- [Republican debate live: chaos erupts as Christie defends Haley and Ramaswamy calls her ‘fascist neocon’ with lipstick](https://www.theguardian.com/us-news/live/2023/dec/06/alabama-republican-presidential-debate-2023-haley-desantis-trump-live-updates)
+- [US military grounds fleet of Osprey aircraft after fatal Japan crash](https://www.theguardian.com/us-news/2023/dec/06/us-military-osprey-grounded-japan-crash)
+- [Juanita Castro, sister of Fidel and Raúl who worked with CIA, dies aged 90](https://www.theguardian.com/world/2023/dec/06/juanita-castro-dead-fidel-raul-sister-anti-communist)
+- [Russia-Ukraine war at a glance: what we know on day 652](https://www.theguardian.com/world/2023/dec/07/russia-ukraine-war-at-a-glance-what-we-know-on-day-652)
+- [Steve Jobs’ $4 check written in 1976 auctioned off for more than $36,000](https://www.theguardian.com/technology/2023/dec/06/steve-jobs-check-auction-radio-shack)
+- [Alberto Fujimori, Peru’s divisive former president, released from jail](https://www.theguardian.com/world/2023/dec/07/alberto-fujimori-peru-former-president-released-jail)
+- [Three people killed and one critically wounded in Las Vegas university shooting](https://www.theguardian.com/us-news/2023/dec/06/las-vegas-shooting-unlv)
+- [UK householders could be at risk of net zero scammers, says Citizens Advice](https://www.theguardian.com/environment/2023/dec/07/uk-householders-could-be-at-risk-of-net-zero-scammers-says-citizens-advice)
+- [Jacks and Buttler find form as England dominate second ODI in West Indies](https://www.theguardian.com/sport/2023/dec/06/jacks-and-buttler-find-form-as-england-dominate-second-odi-in-west-indies)
+- [A third of new mothers worldwide ‘have lasting health issues after childbirth’](https://www.theguardian.com/society/2023/dec/06/a-third-of-new-mothers-worldwide-have-lasting-health-issues-after-childbirth)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

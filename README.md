@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Go Testing by Example [video]](https://research.swtch.com/testing)
-- [An update on Twitch in Korea](https://blog.twitch.tv/en/2023/12/05/an-update-on-twitch-in-korea/)
-- [Thermoelectric heating stands at the brink of commercialization](https://spectrum.ieee.org/thermoelectric-heating)
-- [Virtual Machine as a core Android Primitive](https://android-developers.googleblog.com/2023/12/virtual-machines-as-core-android-primitive.html)
-- [Report: YouTube adding user-traceable ID tag to links shared off-platform](https://twitter.com/OldRowSwig/status/1732112446943269347?s=20)
-- [Cognitive ability and miscalibrated financial expectations](https://journals.sagepub.com/doi/10.1177/01461672231209400)
-- [Magicoder: Source Code Is All You Need](https://arxiv.org/abs/2312.02120)
-- [Show HN: Dropbase – Build internal web apps with just Python](https://github.com/DropbaseHQ/dropbase)
-- [Why 3M stopped making floppy disks in the &#39;90s](https://tedium.co/2023/11/17/3m-floppy-disks-history/)
-- [SigNoz &lpar;YC W21&rpar;, Open Source Datadog, Is Hiring SREs &lpar;Remote&rpar;](https://signoz.io/careers/site-reliability-engineer/)
+- [23andMe updates their TOS to force binding arbitration](https://stackdiary.com/23andme-updates-tos-to-force-binding-arbitration/)
+- [Police Can Spy on Your iOS and Android Push Notifications](https://www.wired.com/story/apple-google-push-notification-surveillance/)
+- [Show HN: Launch your product within hours](https://shipped.club/)
+- [Tales of Topological Qubits](https://cacm.acm.org/magazines/2023/12/278144-tales-of-topological-qubits/fulltext)
+- [Researchers have discovered magnetic monopoles](https://www.cam.ac.uk/research/news/diamonds-and-rust-help-unveil-impossible-quasi-particles)
+- [Merlin Sound ID – Identify Birds Using Your Phone &lpar;How It Works&rpar;](https://www.macaulaylibrary.org/2021/06/22/behind-the-scenes-of-sound-id-in-merlin/)
+- [Anthropic Claude performance depends heavily on prompt style](https://www.anthropic.com/index/claude-2-1-prompting)
+- [Gordon Freeman at the Olympic Games](https://moonbase.lgbt/blog/100m-accelerated-backhopping/)
+- [AMD MI300 Performance – Faster Than H100, but How Much?](https://www.semianalysis.com/p/amd-mi300-performance-faster-than)
+- [Unveiling secrets of the ESP32: creating an open-source MAC layer](https://zeus.ugent.be/blog/23-24/open-source-esp32-wifi-mac/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

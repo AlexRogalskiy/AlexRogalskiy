@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [New in Chrome 120 back button detection](https://developer.chrome.com/blog/new-in-chrome-120)
-- [New theory claims to unite Einstein&#39;s gravity with quantum mechanics](https://phys.org/news/2023-12-theory-einstein-gravity-quantum-mechanics.amp)
-- [Email Marketing Automation](https://news.ycombinator.com/item?id=38539675)
-- [Silk: Unlocking the Secrets of Natural Materials to Weave a Better World](https://scitechdaily.com/silk-solutions-unlocking-the-secrets-of-natural-materials-to-weave-a-better-world/)
-- [AI WiFi hacking device, that&#39;s also a virtual pet](https://pwnagotchi.ai/)
-- [Government warns banks buy-now pay-later lending could come back to bite them](https://fortune.com/2023/12/05/banks-warning-federal-government-buy-now-pay-later-products/)
-- [Manufacturing&#39;s shift out of China is shaking up shipping](https://qz.com/the-shift-of-manufacturing-out-of-china-is-shaking-up-s-1851064053)
-- [Windows 10 gets three more years of security updates, if you can afford them](https://arstechnica.com/gadgets/2023/12/windows-10-gets-three-more-years-of-security-updates-if-you-can-afford-them/)
-- [Ask HN: 150+ signups, 0 paid ones – should I move on or keep building?](https://news.ycombinator.com/item?id=38539610)
-- [Serverless SQLite free tier data leak/loss, affected users get paid tier forever](https://blog.turso.tech/incident-2023-12-04-data-leak-and-loss-in-some-free-tier-databases-7cba5bc7)
+- [Launching Default End-to-End Encryption on Messenger](https://messengernews.fb.com/2023/12/06/launching-default-end-to-end-encryption-on-messenger/)
+- [Chat through the terminal, with markdown, syntax highlighting and LaTeX support](https://github.com/AnnikaV9/hcclient)
+- [Show HN: Callibration and performance reviews completed automated](https://thinksy.app/)
+- [Is Eating Ass Dangerous? [video]](https://www.youtube.com/watch?v=nFhCAedFeCc)
+- [Imagine with Meta AI](https://imagine.meta.com)
+- [23andMe updates their TOS to force binding arbitration](https://stackdiary.com/23andme-updates-tos-to-force-binding-arbitration/)
+- [Whose packet is it anyway: a new RFC for attribution of internet probes](https://isc.sans.edu/diary/0)
+- [How to Maximize Dopamine and Motivation – Andrew Huberman [video]](https://www.youtube.com/watch?v=ha1ZbJIW1f8)
+- [I-400-Class Submarine](https://en.wikipedia.org/wiki/I-400-class_submarine)
+- [Police Can Spy on Your iOS and Android Push Notifications](https://www.wired.com/story/apple-google-push-notification-surveillance/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

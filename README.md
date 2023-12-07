@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Google launches Gemini, a genAI model for all devices](https://www.computerworld.com/article/3711426/google-launches-gemini-a-genai-model-for-all-devices.html#tk.rss_all)
+- [Dutch chip equipment maker ASM to invest $324M in new Arizona headquarters](https://www.computerworld.com/article/3711409/dutch-chip-equipment-maker-asm-to-invest-324m-in-new-arizona-headquarters.html#tk.rss_all)
+- [Apple launches MLX machine-learning framework for Apple Silicon](https://www.computerworld.com/article/3711408/apple-launches-mlx-machine-learning-framework-for-apple-silicon.html#tk.rss_all)
+- [7 Windows annoyances and how to fix them](https://www.computerworld.com/article/3711500/microsoft-windows-annoyances.html#tk.rss_all)
+- [4 words that speak volumes about Google&#39;s future Pixel plans](https://www.computerworld.com/article/3711503/google-pixel-plans.html#tk.rss_all)
+- [Here&#39;s why half of developers will soon use AI-augmented software](https://www.computerworld.com/article/3711404/heres-why-half-of-developers-will-soon-use-ai-augmented-software.html#tk.rss_all)
 - [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [Spanish media&#39;s $600M suit against Meta is based on GDPR noncompliance](https://www.computerworld.com/article/3711424/spanish-medias-600m-suit-against-meta-is-based-on-gdpr-noncompliance.html#tk.rss_all)
 - [Microsoft to offer extended Windows 10 security updates to businesses, individual users](https://www.computerworld.com/article/3711425/microsoft-to-offer-windows-10-extended-security-updates-to-business-and-individual-users.html#tk.rss_all)
-- [AI Alliance, led by IBM and Meta, to promote open standards and take on AWS, Microsoft, and Nvidia](https://www.infoworld.com/article/3711468/ai-alliance-led-by-ibm-and-meta-to-promote-open-standards-and-take-on-aws-microsoft-and-nvidia.html#tk.rss_all)
-- [How Fake Lockdown Mode can fool you into a sense of security](https://www.computerworld.com/article/3711423/how-fake-lockdown-mode-can-fool-you-into-a-sense-of-security.html#tk.rss_all)
-- [Singapore makes key policy shifts in revised national AI strategy](https://www.computerworld.com/article/3711387/singapore-makes-key-policy-shifts-in-revised-national-ai-strategy.html#tk.rss_all)
-- [Windows 10 cheat sheet](https://www.computerworld.com/article/3014286/windows-10-cheat-sheet.html#tk.rss_all)
-- [Japan partners with Nvidia to boost GPU stock pile](https://www.computerworld.com/article/3711502/japan-partners-with-nvidia-to-boost-gpu-stock-pile.html#tk.rss_all)
-- [Twilio sheds jobs in third round of layoffs](https://www.computerworld.com/article/3711421/twilio-sheds-jobs-in-third-round-of-layoffs.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Republican debate live: chaos erupts as Christie defends Haley and Ramaswamy calls her ‘fascist neocon’ with lipstick](https://www.theguardian.com/us-news/live/2023/dec/06/alabama-republican-presidential-debate-2023-haley-desantis-trump-live-updates)
-- [US military grounds fleet of Osprey aircraft after fatal Japan crash](https://www.theguardian.com/us-news/2023/dec/06/us-military-osprey-grounded-japan-crash)
-- [Juanita Castro, sister of Fidel and Raúl who worked with CIA, dies aged 90](https://www.theguardian.com/world/2023/dec/06/juanita-castro-dead-fidel-raul-sister-anti-communist)
-- [Russia-Ukraine war at a glance: what we know on day 652](https://www.theguardian.com/world/2023/dec/07/russia-ukraine-war-at-a-glance-what-we-know-on-day-652)
-- [Steve Jobs’ $4 check written in 1976 auctioned off for more than $36,000](https://www.theguardian.com/technology/2023/dec/06/steve-jobs-check-auction-radio-shack)
-- [Alberto Fujimori, Peru’s divisive former president, released from jail](https://www.theguardian.com/world/2023/dec/07/alberto-fujimori-peru-former-president-released-jail)
-- [Three people killed and one critically wounded in Las Vegas university shooting](https://www.theguardian.com/us-news/2023/dec/06/las-vegas-shooting-unlv)
-- [UK householders could be at risk of net zero scammers, says Citizens Advice](https://www.theguardian.com/environment/2023/dec/07/uk-householders-could-be-at-risk-of-net-zero-scammers-says-citizens-advice)
-- [Jacks and Buttler find form as England dominate second ODI in West Indies](https://www.theguardian.com/sport/2023/dec/06/jacks-and-buttler-find-form-as-england-dominate-second-odi-in-west-indies)
-- [A third of new mothers worldwide ‘have lasting health issues after childbirth’](https://www.theguardian.com/society/2023/dec/06/a-third-of-new-mothers-worldwide-have-lasting-health-issues-after-childbirth)
+- [Israel-Hamas war live: Blinken notes ‘gap’ between Israel’s ‘intent to protect civilians’ in Gaza and ‘actual results’](https://www.theguardian.com/world/live/2023/dec/07/israel-hamas-war-live-updates-hamas-leader-hiding-underground-idf-says-gaza-aid-system-collapse-news-palestine)
+- [Russia-Ukraine war at a glance: what we know on day 653](https://www.theguardian.com/world/2023/dec/08/russia-ukraine-war-at-a-glance-what-we-know-on-day-653)
+- [Australia heatwave: temperatures set to soar on Friday followed by scorching weekend weather](https://www.theguardian.com/australia-news/2023/dec/08/bushfire-alerts-and-fire-bans-in-multiple-states-as-heatwave-hits)
+- [Desperately seeking Suzukis: Japanese town hopes to make name for itself with population boost](https://www.theguardian.com/world/2023/dec/08/japanese-town-suzuki-surname-paid-living-rule-why-kainan-wakayama-population-decline)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2023/dec/08/premier-league-10-things-to-look-out-for-this-weekend)
+- [‘A great opportunity’: Masters champion Jon Rahm confirms switch to LIV Golf](https://www.theguardian.com/sport/2023/dec/08/jon-rahm-confirms-switch-to-liv-golf-masters-pga-tour)
+- [UK employers limit hiring permanent staff amid economic stresses](https://www.theguardian.com/business/2023/dec/08/uk-employers-limit-hiring-permanent-staff-amid-economic-stresses)
+- [Jeremy Hunt’s post-Brexit City shake-up is ‘damp squib’, say MPs](https://www.theguardian.com/politics/2023/dec/08/jeremy-hunt-post-brexit-city-shake-up-damp-squib-say-mps)
+- [Shaun Murphy speeds to first 147 break in history of Snooker Shoot Out](https://www.theguardian.com/sport/2023/dec/07/shaun-murphy-snooker-shoot-out-maximum-147)
+- [Passengers trapped on cold, dark trains as travel chaos hits west London](https://www.theguardian.com/uk-news/2023/dec/07/passenger-chaos-trains-brought-standstill-west-london)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

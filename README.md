@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Launching Default End-to-End Encryption on Messenger](https://messengernews.fb.com/2023/12/06/launching-default-end-to-end-encryption-on-messenger/)
-- [Chat through the terminal, with markdown, syntax highlighting and LaTeX support](https://github.com/AnnikaV9/hcclient)
-- [Show HN: Callibration and performance reviews completed automated](https://thinksy.app/)
-- [Is Eating Ass Dangerous? [video]](https://www.youtube.com/watch?v=nFhCAedFeCc)
-- [Imagine with Meta AI](https://imagine.meta.com)
-- [23andMe updates their TOS to force binding arbitration](https://stackdiary.com/23andme-updates-tos-to-force-binding-arbitration/)
-- [Whose packet is it anyway: a new RFC for attribution of internet probes](https://isc.sans.edu/diary/0)
-- [How to Maximize Dopamine and Motivation – Andrew Huberman [video]](https://www.youtube.com/watch?v=ha1ZbJIW1f8)
-- [I-400-Class Submarine](https://en.wikipedia.org/wiki/I-400-class_submarine)
-- [Police Can Spy on Your iOS and Android Push Notifications](https://www.wired.com/story/apple-google-push-notification-surveillance/)
+- [HashiCorp down 21% in after hours after posting surprise revenue and EPS beat](https://finance.yahoo.com/news/hashicorp-nasdaq-hcp-surprises-q3-210636315.html)
+- [Why I&#39;m Increasingly Worried About Boys, Too](https://www.afterbabel.com/p/boy-crisis)
+- [Is C# Underhyped?](https://old.reddit.com/r/dotnet/comments/1870fwq/is_c_underhyped/)
+- [Denken MIT Der Hand](https://www.leuchtturm1917.us/denken-mit-der-hand/leuchtturm1917/denken-mit-der-hand/)
+- [Lubyanka Building](https://en.wikipedia.org/wiki/Lubyanka_Building)
+- [&#39;Barking deer&#39; in Japan causing havoc for human population](https://www.japantimes.co.jp/news/2023/11/30/japan/barking-deer-havoc/)
+- [You are never taught how to build quality software](https://www.florianbellmann.com/blog/never-taught-qa)
+- [Pearl – A Production-Ready Reinforcement Learning AI Agent Library from Meta](https://pearlagent.github.io/)
+- [The 10x rule Why better is not enough](https://www.feeltheboot.com/blog/why-better-is-not-enough)
+- [Amsterdam Switches to 30 Km/h on 80% of its Roads](https://www.amsterdam.nl/en/news/speed-limit-30km/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Meta releases open-source tools for AI safety](https://www.infoworld.com/article/3711284/meta-releases-open-source-tools-for-ai-safety.html#tk.rss_all)
+- [How Apple TV just became a Zoom meeting solution for SMEs](https://www.computerworld.com/article/3711564/how-apple-tv-just-became-a-zoom-meeting-solution-for-smes.html#tk.rss_all)
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [Windows 12 and the coming AI chip war](https://www.computerworld.com/article/3711262/windows-12-and-the-coming-ai-chip-war.html#tk.rss_all)
+- [4 advanced Gboard adjustments for faster Android typing](https://www.computerworld.com/article/3711540/gboard-android-adjustments.html#tk.rss_all)
+- [EU lawmakers move closer to finalizing AI Act](https://www.computerworld.com/article/3711563/eu-lawmakers-move-closer-to-finalizing-ai-act.html#tk.rss_all)
+- [Apple set to open its 4th iPhone factory in India in a China+1 strategy](https://www.computerworld.com/article/3711562/apple-set-to-open-its-4th-iphone-factory-in-india-in-a-china-1-strategy.html#tk.rss_all)
 - [Attacks against personal data are up 300%, Apple warns](https://www.computerworld.com/article/3711522/attacks-against-personal-data-are-up-300-apple-warns.html#tk.rss_all)
 - [AWS blames Microsoft for anti-competitive practices in the UK](https://www.computerworld.com/article/3711561/aws-blames-microsoft-for-anti-competitive-practices-in-the-uk.html#tk.rss_all)
 - [Taiwan’s ‘silicon shield’ is cracking as US-China chip war rages](https://www.computerworld.com/article/3711504/taiwan-s-silicon-shield-is-cracking-as-us-china-chip-war-rages.html#tk.rss_all)
-- [Concerns mount as US political standoff threatens chip manufacturing momentum](https://www.computerworld.com/article/3711411/concerns-mount-as-us-political-standoff-threatens-chip-manufacturing-momentum.html#tk.rss_all)
-- [4 advanced ‘smart chip’ tips for Google Docs and Sheets](https://www.computerworld.com/article/3709550/smart-chips-advanced-tips-google-docs-google-sheets.html#tk.rss_all)
-- [Google launches Gemini, a genAI model for all devices](https://www.computerworld.com/article/3711426/google-launches-gemini-a-genai-model-for-all-devices.html#tk.rss_all)
-- [Dutch chip equipment maker ASM to invest $324M in new Arizona headquarters](https://www.computerworld.com/article/3711409/dutch-chip-equipment-maker-asm-to-invest-324m-in-new-arizona-headquarters.html#tk.rss_all)
-- [Apple launches MLX machine-learning framework for Apple Silicon](https://www.computerworld.com/article/3711408/apple-launches-mlx-machine-learning-framework-for-apple-silicon.html#tk.rss_all)
-- [7 Windows annoyances and how to fix them](https://www.computerworld.com/article/3711500/microsoft-windows-annoyances.html#tk.rss_all)
-- [4 words that speak volumes about Google&#39;s future Pixel plans](https://www.computerworld.com/article/3711503/google-pixel-plans.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

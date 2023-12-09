@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [White House threatens to veto anti-EV bill just passed by US House](https://arstechnica.com/cars/2023/12/white-house-threatens-to-veto-anti-ev-bill-just-passed-by-us-house/)
-- [How to think about the OpenAI Q* rumors](https://www.understandingai.org/p/how-to-think-about-the-openai-q-rumors)
-- [The Omnichord will be re-produced to commemorate our 70th anniversary](https://suzukimusic-global.com/products_single.php?parent_cate_cd=3&products_cate_cd=34&products_cd=315)
-- [Helen Toner shares her side](https://www.wsj.com/tech/ai/helen-toner-openai-board-2e4031ef)
-- [Hanukkah of Data: Practice your data skills with 8 free data puzzles](https://hanukkah.bluebird.sh/5784/)
-- [Making noisy SVGs](https://daniel.do/article/making-noisy-svgs/)
-- [Gemini &quot;duck&quot; demo was not done in realtime or with voice](https://twitter.com/parmy/status/1732811357068615969)
-- [Three Decades of HTML](https://meyerweb.com/eric/thoughts/2023/12/06/three-decades-of-html/)
-- [Choose your own IP](https://tailscale.com/blog/choose-your-ip/)
-- [Standard Webhooks: open-source tools and guidelines for sending webhooks](https://github.com/standard-webhooks/standard-webhooks)
+- [Gaussian Explosion](https://aras-p.info/blog/2023/12/08/Gaussian-explosion/)
+- [Verizon fell for fake &quot;search warrant,&quot; gave victim&#39;s phone data to stalker](https://arstechnica.com/tech-policy/2023/12/verizon-fell-for-fake-search-warrant-gave-victims-phone-data-to-stalker/)
+- [EVE Online – Down the Rabbit Hole [video]](https://www.youtube.com/watch?v=BCSeISYcoyI)
+- [QuIP#: 2-bit Quantization for LLMs](https://cornell-relaxml.github.io/quip-sharp/)
+- [E.U. Agrees on Artificial Intelligence Rules with Landmark New Law](https://www.nytimes.com/2023/12/08/technology/eu-ai-act-regulation.html)
+- [Apple cuts off Beeper Mini&#39;s access](https://techcrunch.com/2023/12/08/apple-cuts-off-beeper-minis-access-after-launch-of-service-that-brought-imessage-to-android/)
+- [GPS-Gaussian: Generalizable Pixel-wise 3D Gaussian Splatting for Human Synthesis](https://shunyuanzheng.github.io/GPS-Gaussian)
+- [Paving the way to efficient architectures: StripedHyena-7B](https://www.together.ai/blog/stripedhyena-7b)
+- [American Chestnut Foundation Ceasing Distribution of Blight-Resistant Seeds](https://tacf.org/darling-58/)
+- [The pro-Israel information war](https://jackpoulson.substack.com/p/inside-the-pro-israel-information)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

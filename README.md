@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [HashiCorp down 21% in after hours after posting surprise revenue and EPS beat](https://finance.yahoo.com/news/hashicorp-nasdaq-hcp-surprises-q3-210636315.html)
-- [Why I&#39;m Increasingly Worried About Boys, Too](https://www.afterbabel.com/p/boy-crisis)
-- [Is C# Underhyped?](https://old.reddit.com/r/dotnet/comments/1870fwq/is_c_underhyped/)
-- [Denken MIT Der Hand](https://www.leuchtturm1917.us/denken-mit-der-hand/leuchtturm1917/denken-mit-der-hand/)
-- [Lubyanka Building](https://en.wikipedia.org/wiki/Lubyanka_Building)
-- [&#39;Barking deer&#39; in Japan causing havoc for human population](https://www.japantimes.co.jp/news/2023/11/30/japan/barking-deer-havoc/)
-- [You are never taught how to build quality software](https://www.florianbellmann.com/blog/never-taught-qa)
-- [Pearl – A Production-Ready Reinforcement Learning AI Agent Library from Meta](https://pearlagent.github.io/)
-- [The 10x rule Why better is not enough](https://www.feeltheboot.com/blog/why-better-is-not-enough)
-- [Amsterdam Switches to 30 Km/h on 80% of its Roads](https://www.amsterdam.nl/en/news/speed-limit-30km/)
+- [Putin seeks to extend his rule](https://www.npr.org/2023/12/08/1218154464/putin-russia-presidential-elections)
+- [Ask HN: What are some cool interactive audiovisual experiences you know?](https://news.ycombinator.com/item?id=38577640)
+- [Developers Will Soon Get 25 Monthly Hours of Xcode Cloud with Apple Developer](https://www.macrumors.com/2023/12/07/apple-developer-program-xcode-cloud/)
+- [The Young Supernova Experiment](https://yse.ucsc.edu/)
+- [Hunter Scott](https://en.wikipedia.org/wiki/Hunter_Scott)
+- [What I Miss Most About the iPod](https://skoo.bz/2023/12/07/what-i-miss.html)
+- [Dynamic music and sound techniques for video games](https://blog.gingerbeardman.com/2023/12/09/dynamic-music-and-sound-techniques-for-video-games/)
+- [Indieblog: Discover the IndieWeb, one blog post at a time](https://indieblog.page/)
+- [The reckless, infinite scope of web browsers &lpar;2020&rpar;](https://drewdevault.com/2020/03/18/Reckless-limitless-scope.html)
+- [Transformer.js: Machine Learning for the Web](https://huggingface.co/docs/transformers.js/index)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

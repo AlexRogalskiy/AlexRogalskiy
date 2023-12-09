@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Israel-Hamas war live: Blinken notes ‘gap’ between Israel’s ‘intent to protect civilians’ in Gaza and ‘actual results’](https://www.theguardian.com/world/live/2023/dec/07/israel-hamas-war-live-updates-hamas-leader-hiding-underground-idf-says-gaza-aid-system-collapse-news-palestine)
-- [Russia-Ukraine war at a glance: what we know on day 653](https://www.theguardian.com/world/2023/dec/08/russia-ukraine-war-at-a-glance-what-we-know-on-day-653)
-- [Australia heatwave: temperatures set to soar on Friday followed by scorching weekend weather](https://www.theguardian.com/australia-news/2023/dec/08/bushfire-alerts-and-fire-bans-in-multiple-states-as-heatwave-hits)
-- [Desperately seeking Suzukis: Japanese town hopes to make name for itself with population boost](https://www.theguardian.com/world/2023/dec/08/japanese-town-suzuki-surname-paid-living-rule-why-kainan-wakayama-population-decline)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2023/dec/08/premier-league-10-things-to-look-out-for-this-weekend)
-- [‘A great opportunity’: Masters champion Jon Rahm confirms switch to LIV Golf](https://www.theguardian.com/sport/2023/dec/08/jon-rahm-confirms-switch-to-liv-golf-masters-pga-tour)
-- [UK employers limit hiring permanent staff amid economic stresses](https://www.theguardian.com/business/2023/dec/08/uk-employers-limit-hiring-permanent-staff-amid-economic-stresses)
-- [Jeremy Hunt’s post-Brexit City shake-up is ‘damp squib’, say MPs](https://www.theguardian.com/politics/2023/dec/08/jeremy-hunt-post-brexit-city-shake-up-damp-squib-say-mps)
-- [Shaun Murphy speeds to first 147 break in history of Snooker Shoot Out](https://www.theguardian.com/sport/2023/dec/07/shaun-murphy-snooker-shoot-out-maximum-147)
-- [Passengers trapped on cold, dark trains as travel chaos hits west London](https://www.theguardian.com/uk-news/2023/dec/07/passenger-chaos-trains-brought-standstill-west-london)
+- [EU agrees ‘historic’ deal with world’s first laws to regulate AI](https://www.theguardian.com/world/2023/dec/08/eu-agrees-historic-deal-with-worlds-first-laws-to-regulate-ai)
+- [Ryan O’Neal was a captivating and absurdly handsome movie star](https://www.theguardian.com/film/2023/dec/08/ryan-oneal-actor-tribute-love-story-paper-moon)
+- [Footage shows IDF parading scores of Palestinian men around in underwear](https://www.theguardian.com/world/2023/dec/08/footage-idf-israel-military-parading-palestinian-men-around-in-underwear)
+- [‘My whole world revolves around cash’: why some Australians fear being left behind by a cashless future](https://www.theguardian.com/australia-news/2023/dec/09/my-whole-world-revolves-around-cash-why-some-australians-fear-being-left-behind-by-a-cashless-future)
+- [Lawes and Freeman drive Northampton to Champions Cup win over Glasgow](https://www.theguardian.com/sport/2023/dec/08/glasgow-warriors-northampton-saints-champions-cup-match-report)
+- [Benjamin Zephaniah was a trailblazer. He broke every glass ceiling going | Lemn Sissay](https://www.theguardian.com/books/2023/dec/08/benjamin-zephaniah-trailblazer-broke-every-glass-ceiling-lemn-sissay)
+- [Postecoglou dismisses ‘schoolyard’ Spursy tag and tells players to keep faith](https://www.theguardian.com/football/2023/dec/08/postecoglou-dismisses-schoolyard-spursy-tag-and-tells-players-to-keep-faith)
+- [Wilder set on rekindling old Sheffield United fires in fight for survival](https://www.theguardian.com/football/2023/dec/08/wilder-set-on-rekindling-old-sheffield-united-fires-in-fight-for-survival)
+- [Met police investigate after Jewish woman ‘violently assaulted and robbed’](https://www.theguardian.com/uk-news/2023/dec/08/met-police-investigate-after-jewish-woman-violently-assaulted-and-robbed)
+- [Ryan O’Neal, Hollywood actor and star of Love Story, dies aged 82](https://www.theguardian.com/us-news/2023/dec/08/actor-ryan-oneal-dead-love-story-paper-moon)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

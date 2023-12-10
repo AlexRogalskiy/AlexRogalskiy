@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Gaussian Explosion](https://aras-p.info/blog/2023/12/08/Gaussian-explosion/)
-- [Verizon fell for fake &quot;search warrant,&quot; gave victim&#39;s phone data to stalker](https://arstechnica.com/tech-policy/2023/12/verizon-fell-for-fake-search-warrant-gave-victims-phone-data-to-stalker/)
-- [EVE Online – Down the Rabbit Hole [video]](https://www.youtube.com/watch?v=BCSeISYcoyI)
-- [QuIP#: 2-bit Quantization for LLMs](https://cornell-relaxml.github.io/quip-sharp/)
-- [E.U. Agrees on Artificial Intelligence Rules with Landmark New Law](https://www.nytimes.com/2023/12/08/technology/eu-ai-act-regulation.html)
-- [Apple cuts off Beeper Mini&#39;s access](https://techcrunch.com/2023/12/08/apple-cuts-off-beeper-minis-access-after-launch-of-service-that-brought-imessage-to-android/)
-- [GPS-Gaussian: Generalizable Pixel-wise 3D Gaussian Splatting for Human Synthesis](https://shunyuanzheng.github.io/GPS-Gaussian)
-- [Paving the way to efficient architectures: StripedHyena-7B](https://www.together.ai/blog/stripedhyena-7b)
-- [American Chestnut Foundation Ceasing Distribution of Blight-Resistant Seeds](https://tacf.org/darling-58/)
-- [The pro-Israel information war](https://jackpoulson.substack.com/p/inside-the-pro-israel-information)
+- [Fear of cheap Chinese EVs spurs automaker dash for affordable cars](https://www.reuters.com/business/autos-transportation/fear-cheap-chinese-evs-spurs-automaker-dash-affordable-cars-2023-12-08/)
+- [American workers proving they don&#39;t need to return to office to be productive](https://fortune.com/2023/12/09/what-is-fueling-productivity-boom-four-reasons/)
+- [Nokia Bell Labs Is Moving to Helix in New Brunswick](https://www.roi-nj.com/2023/12/08/real_estate/nokia-bell-labs-is-moving-to-helix-in-new-brunswick/)
+- [Show HN: Open source alternative to ChatGPT and ChatPDF-like AI tools](https://github.com/SecureAI-Tools/SecureAI-Tools)
+- [Gooey: Turn almost any Python command line program into a full GUI application](https://github.com/chriskiehl/Gooey)
+- [Show HN: Minimalist Calendars Generator](https://useminimal.com)
+- [UpCodes &lpar;YC S17&rpar; is hiring remote SWEs to help make buildings cheaper](https://up.codes/careers)
+- [Locklin on science – Calling a bureaucrat by its name](https://scottlocklin.wordpress.com/2023/11/29/calling-a-bureaucrat-by-its-name/)
+- [Show HN: Fine-grained stylistic control of LLMs using model arithmetic](https://github.com/eth-sri/language-model-arithmetic)
+- [Remembering Jon Postel and the day he hijacked the internet &lpar;2012&rpar;](https://www.wired.com/2012/10/joe-postel/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [EU agrees ‘historic’ deal with world’s first laws to regulate AI](https://www.theguardian.com/world/2023/dec/08/eu-agrees-historic-deal-with-worlds-first-laws-to-regulate-ai)
-- [Ryan O’Neal was a captivating and absurdly handsome movie star](https://www.theguardian.com/film/2023/dec/08/ryan-oneal-actor-tribute-love-story-paper-moon)
-- [Footage shows IDF parading scores of Palestinian men around in underwear](https://www.theguardian.com/world/2023/dec/08/footage-idf-israel-military-parading-palestinian-men-around-in-underwear)
-- [‘My whole world revolves around cash’: why some Australians fear being left behind by a cashless future](https://www.theguardian.com/australia-news/2023/dec/09/my-whole-world-revolves-around-cash-why-some-australians-fear-being-left-behind-by-a-cashless-future)
-- [Lawes and Freeman drive Northampton to Champions Cup win over Glasgow](https://www.theguardian.com/sport/2023/dec/08/glasgow-warriors-northampton-saints-champions-cup-match-report)
-- [Benjamin Zephaniah was a trailblazer. He broke every glass ceiling going | Lemn Sissay](https://www.theguardian.com/books/2023/dec/08/benjamin-zephaniah-trailblazer-broke-every-glass-ceiling-lemn-sissay)
-- [Postecoglou dismisses ‘schoolyard’ Spursy tag and tells players to keep faith](https://www.theguardian.com/football/2023/dec/08/postecoglou-dismisses-schoolyard-spursy-tag-and-tells-players-to-keep-faith)
-- [Wilder set on rekindling old Sheffield United fires in fight for survival](https://www.theguardian.com/football/2023/dec/08/wilder-set-on-rekindling-old-sheffield-united-fires-in-fight-for-survival)
-- [Met police investigate after Jewish woman ‘violently assaulted and robbed’](https://www.theguardian.com/uk-news/2023/dec/08/met-police-investigate-after-jewish-woman-violently-assaulted-and-robbed)
-- [Ryan O’Neal, Hollywood actor and star of Love Story, dies aged 82](https://www.theguardian.com/us-news/2023/dec/08/actor-ryan-oneal-dead-love-story-paper-moon)
+- [West Indies v England: third men’s one-day cricket international – live](https://www.theguardian.com/sport/live/2023/dec/09/west-indies-v-england-third-mens-one-day-cricket-international-live)
+- [Russia-Ukraine war at a glance: what we know on day 655](https://www.theguardian.com/world/2023/dec/10/russia-ukraine-war-at-a-glance-what-we-know-on-day-655)
+- [Covid lockdowns had ‘catastrophic effect’ on UK’s social fabric, report claims](https://www.theguardian.com/society/2023/dec/10/covid-lockdowns-had-catastrophic-effect-on-uks-social-fabric-report-claims)
+- [David Cameron urged to tell China to free Hong Kong publisher Jimmy Lai](https://www.theguardian.com/world/2023/dec/10/cameron-urged-to-tell-china-to-free-hong-kong-publisher-jimmy-lai)
+- [Wrap it up: 15 of the best cosy scarves – in pictures](https://www.theguardian.com/fashion/gallery/2023/dec/09/wrap-it-up-15-of-the-best-cosy-scarves-in-pictures)
+- [Justine Triet’s Anatomy of a Fall wins best film at European Film Awards](https://www.theguardian.com/film/2023/dec/09/justine-triets-anatomy-of-a-fall-wins-best-film-at-european-film-awards)
+- [Tory right deliver legal rebuke to Sunak’s Rwanda plan](https://www.theguardian.com/uk-news/2023/dec/09/rwanda-plan-50-chance-success-before-election-no-10-told)
+- [Manchester City set for heavyweight Luton fight after ‘punch in the face’](https://www.theguardian.com/football/2023/dec/09/manchester-city-set-for-heavyweight-luton-fight-after-punch-in-the-face)
+- [Howe likely to ditch cup ambitions with Newcastle running on empty](https://www.theguardian.com/football/2023/dec/09/howe-ditch-cup-ambitions-newcastle-running-on-empty)
+- [Blow to Biden as poll shows Trump in lead for 2024 presidential election](https://www.theguardian.com/us-news/2023/dec/09/trump-biden-poll-election-presidential)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

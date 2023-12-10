@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Putin seeks to extend his rule](https://www.npr.org/2023/12/08/1218154464/putin-russia-presidential-elections)
-- [Ask HN: What are some cool interactive audiovisual experiences you know?](https://news.ycombinator.com/item?id=38577640)
-- [Developers Will Soon Get 25 Monthly Hours of Xcode Cloud with Apple Developer](https://www.macrumors.com/2023/12/07/apple-developer-program-xcode-cloud/)
-- [The Young Supernova Experiment](https://yse.ucsc.edu/)
-- [Hunter Scott](https://en.wikipedia.org/wiki/Hunter_Scott)
-- [What I Miss Most About the iPod](https://skoo.bz/2023/12/07/what-i-miss.html)
-- [Dynamic music and sound techniques for video games](https://blog.gingerbeardman.com/2023/12/09/dynamic-music-and-sound-techniques-for-video-games/)
-- [Indieblog: Discover the IndieWeb, one blog post at a time](https://indieblog.page/)
-- [The reckless, infinite scope of web browsers &lpar;2020&rpar;](https://drewdevault.com/2020/03/18/Reckless-limitless-scope.html)
-- [Transformer.js: Machine Learning for the Web](https://huggingface.co/docs/transformers.js/index)
+- [Your Own Personal Picture Collection](https://www.chrbutler.com/2023-12-08)
+- [Salesforce Jobs Become Less About Perks After Layoffs](https://www.bloomberg.com/news/features/2023-12-07/salesforce-jobs-become-less-about-perks-after-layoffs)
+- [Cramming a Tiny Program into a Tiny ELF File: A Case Study](https://tmpout.sh/3/22.html)
+- [Modeling Polymorphism in Django with Python](https://realpython.com/modeling-polymorphism-django-python/)
+- [SQM &lpar;Smart Queue Management&rpar;](https://openwrt.org/docs/guide-user/network/traffic-shaping/sqm)
+- [Units of Textile Measurement](https://en.wikipedia.org/wiki/Units_of_textile_measurement)
+- [Is Anger Ever Strategic?](https://respectfulleadership.substack.com/p/is-anger-ever-strategic)
+- [Use Deno via NPM](https://github.com/kt3k/deno-bin)
+- [Live Atlas a visual history of the wars of the world](https://liveatlas.io)
+- [Diesel-Electric Pickup Retrofit Kit [video]](https://www.youtube.com/watch?v=lCc0V8_1c9A)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

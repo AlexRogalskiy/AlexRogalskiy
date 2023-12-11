@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [West Indies v England: third men’s one-day cricket international – live](https://www.theguardian.com/sport/live/2023/dec/09/west-indies-v-england-third-mens-one-day-cricket-international-live)
-- [Russia-Ukraine war at a glance: what we know on day 655](https://www.theguardian.com/world/2023/dec/10/russia-ukraine-war-at-a-glance-what-we-know-on-day-655)
-- [Covid lockdowns had ‘catastrophic effect’ on UK’s social fabric, report claims](https://www.theguardian.com/society/2023/dec/10/covid-lockdowns-had-catastrophic-effect-on-uks-social-fabric-report-claims)
-- [David Cameron urged to tell China to free Hong Kong publisher Jimmy Lai](https://www.theguardian.com/world/2023/dec/10/cameron-urged-to-tell-china-to-free-hong-kong-publisher-jimmy-lai)
-- [Wrap it up: 15 of the best cosy scarves – in pictures](https://www.theguardian.com/fashion/gallery/2023/dec/09/wrap-it-up-15-of-the-best-cosy-scarves-in-pictures)
-- [Justine Triet’s Anatomy of a Fall wins best film at European Film Awards](https://www.theguardian.com/film/2023/dec/09/justine-triets-anatomy-of-a-fall-wins-best-film-at-european-film-awards)
-- [Tory right deliver legal rebuke to Sunak’s Rwanda plan](https://www.theguardian.com/uk-news/2023/dec/09/rwanda-plan-50-chance-success-before-election-no-10-told)
-- [Manchester City set for heavyweight Luton fight after ‘punch in the face’](https://www.theguardian.com/football/2023/dec/09/manchester-city-set-for-heavyweight-luton-fight-after-punch-in-the-face)
-- [Howe likely to ditch cup ambitions with Newcastle running on empty](https://www.theguardian.com/football/2023/dec/09/howe-ditch-cup-ambitions-newcastle-running-on-empty)
-- [Blow to Biden as poll shows Trump in lead for 2024 presidential election](https://www.theguardian.com/us-news/2023/dec/09/trump-biden-poll-election-presidential)
+- [Israel-Gaza war live: Hamas warns no hostages will be released unless demands met; Israel says war could go on for months](https://www.theguardian.com/world/live/2023/dec/10/israel-gaza-war-israeli-forces-continue-push-into-southern-gaza-amid-apocalyptic-humanitarian-situation)
+- [NFL roundup: Travis Kelce trick play ruled out as Bills beat Chiefs](https://www.theguardian.com/sport/2023/dec/10/nfl-roundup-sunday-scores-football)
+- [Russia-Ukraine war at a glance: what we know on day 656](https://www.theguardian.com/world/2023/dec/11/russia-ukraine-war-at-a-glance-what-we-know-on-day-656)
+- [The two Australias at Cop28: a country at odds with itself on the climate crisis](https://www.theguardian.com/environment/2023/dec/11/the-two-australias-at-cop28-a-country-at-odds-with-itself-on-the-climate-crisis)
+- [Record low turnout as Hong Kong votes in ‘patriots’-only election](https://www.theguardian.com/world/2023/dec/11/hong-kong-election-votes-patriots-only-poll-mumbers-turnout)
+- [Zelenskiy to visit Washington in bid to break Senate deadlock on Ukraine aid](https://www.theguardian.com/world/2023/dec/11/zelenskiy-to-visit-washington-in-bid-to-break-senate-deadlock-on-ukraine-aid)
+- [Spending on university students in England ‘back to 2011 low point’, says IFS](https://www.theguardian.com/education/2023/dec/11/spending-on-university-students-in-england-back-to-2011-low-point-says-ifs)
+- [Ofsted chief ‘should quit now’, says Ruth Perry’s sister as briefing memo is revealed](https://www.theguardian.com/education/2023/dec/10/ofsted-chief-should-quit-now-says-ruth-perrys-sister-as-briefing-memo-is-revealed)
+- [UK’s Christmas getaway traffic will peak earlier than usual, AA predicts](https://www.theguardian.com/uk-news/2023/dec/11/uks-christmas-getaway-traffic-will-peak-earlier-than-usual-aa-predicts)
+- [Tenants in Britain ‘hit by highest increase in rent for a decade’ last month](https://www.theguardian.com/money/2023/dec/11/tenants-in-britain-hit-by-highest-increase-in-rent-for-a-decade-last-month)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

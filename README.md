@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Fear of cheap Chinese EVs spurs automaker dash for affordable cars](https://www.reuters.com/business/autos-transportation/fear-cheap-chinese-evs-spurs-automaker-dash-affordable-cars-2023-12-08/)
-- [American workers proving they don&#39;t need to return to office to be productive](https://fortune.com/2023/12/09/what-is-fueling-productivity-boom-four-reasons/)
-- [Nokia Bell Labs Is Moving to Helix in New Brunswick](https://www.roi-nj.com/2023/12/08/real_estate/nokia-bell-labs-is-moving-to-helix-in-new-brunswick/)
-- [Show HN: Open source alternative to ChatGPT and ChatPDF-like AI tools](https://github.com/SecureAI-Tools/SecureAI-Tools)
-- [Gooey: Turn almost any Python command line program into a full GUI application](https://github.com/chriskiehl/Gooey)
-- [Show HN: Minimalist Calendars Generator](https://useminimal.com)
-- [UpCodes &lpar;YC S17&rpar; is hiring remote SWEs to help make buildings cheaper](https://up.codes/careers)
-- [Locklin on science – Calling a bureaucrat by its name](https://scottlocklin.wordpress.com/2023/11/29/calling-a-bureaucrat-by-its-name/)
-- [Show HN: Fine-grained stylistic control of LLMs using model arithmetic](https://github.com/eth-sri/language-model-arithmetic)
-- [Remembering Jon Postel and the day he hijacked the internet &lpar;2012&rpar;](https://www.wired.com/2012/10/joe-postel/)
+- [John Carmack and John Romero reunited to talk DOOM on its 30th Anniversary](https://www.pcgamer.com/for-dooms-30th-anniversary-the-johns-romero-and-carmack-reunited-to-celebrate-the-fps-that-changed-everything-i-want-to-thank-everybody-in-the-doom-community-for-keeping-this-game-alive/)
+- [Simulatrex – LLM-Based Simulations](https://github.com/simulatrex/simulatrex)
+- [Pitivi – Free video editor with a beautiful and intuitive user interface](https://www.pitivi.org/)
+- [High school math doesn&#39;t prepare most students for their college majors](https://hechingerreport.org/proof-points-professors-say-high-school-math-doesnt-prepare-most-students-for-their-college-majors/)
+- [Please, expose your RSS](https://rknight.me/please-expose-your-rss/)
+- [The Bare Minimum Video Game: The Odyssey 100](https://nicole.express/2023/special-thanks-to-homer.html)
+- [BSD on Windows: Things I wish I knew existed](https://virtuallyfun.com/2023/12/08/bsd-on-windows-things-i-wish-i-knew-existed/)
+- [The surprising connection between after-hours work and decreased productivity](https://slack.com/intl/en-gb/blog/news/the-surprising-connection-between-after-hours-work-and-decreased-productivity?nojsmode=1)
+- [The SAT Museum [pdf]](https://ceur-ws.org/Vol-3545/paper6.pdf)
+- [Meticulous.ai &lpar;YC S21&rpar; Is Hiring to make tests obsolete](https://news.ycombinator.com/item?id=38594989)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

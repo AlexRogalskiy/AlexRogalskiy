@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Your Own Personal Picture Collection](https://www.chrbutler.com/2023-12-08)
-- [Salesforce Jobs Become Less About Perks After Layoffs](https://www.bloomberg.com/news/features/2023-12-07/salesforce-jobs-become-less-about-perks-after-layoffs)
-- [Cramming a Tiny Program into a Tiny ELF File: A Case Study](https://tmpout.sh/3/22.html)
-- [Modeling Polymorphism in Django with Python](https://realpython.com/modeling-polymorphism-django-python/)
-- [SQM &lpar;Smart Queue Management&rpar;](https://openwrt.org/docs/guide-user/network/traffic-shaping/sqm)
-- [Units of Textile Measurement](https://en.wikipedia.org/wiki/Units_of_textile_measurement)
-- [Is Anger Ever Strategic?](https://respectfulleadership.substack.com/p/is-anger-ever-strategic)
-- [Use Deno via NPM](https://github.com/kt3k/deno-bin)
-- [Live Atlas a visual history of the wars of the world](https://liveatlas.io)
-- [Diesel-Electric Pickup Retrofit Kit [video]](https://www.youtube.com/watch?v=lCc0V8_1c9A)
+- [Show HN: I Remade the Fake Google Gemini Demo, Except Using GPT-4 and It&#39;s Real](https://sagittarius.greg.technology/)
+- [Beeper? I Hardly Knew Her.](https://daringfireball.net/2023/12/beeper_i_hardly_knew_her)
+- [Exploiting Data Similarity to Improve SSD Read Performance](https://www.mdpi.com/2076-3417/13/24/13017)
+- [Codeium now attributes code suggestions](https://codeium.com/blog/attribution-announcement)
+- [Deterministic Programmer for Large Complex Projects](https://www.cyberium.info/determiner-deterministic-programmer-for-large-complex-projects/)
+- [What if the Twitter replacement isn&#39;t a Twitter clone?](https://onemanandhisblog.com/2023/12/what-if-the-twitter-replacement-isnt-a-twitter-clone/)
+- [Medical microrobots are &lpar;still&rpar; on their way &lpar;MIT&rpar;](https://www.technologyreview.com/2023/12/08/1084696/medical-microrobots-are-still-on-their-way/)
+- [Linux kernel maintainer pain points](https://lwn.net/Articles/952146/)
+- [Postpartum depression is unpredictable. The immune system may hold answers](https://www.washingtonpost.com/wellness/2023/12/06/postpartum-depression-immune-system/)
+- [The Roses of Heliogabalus](http://penelope.uchicago.edu/~grout/encyclopaedia_romana/severans/roses.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

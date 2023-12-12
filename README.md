@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [John Carmack and John Romero reunited to talk DOOM on its 30th Anniversary](https://www.pcgamer.com/for-dooms-30th-anniversary-the-johns-romero-and-carmack-reunited-to-celebrate-the-fps-that-changed-everything-i-want-to-thank-everybody-in-the-doom-community-for-keeping-this-game-alive/)
-- [Simulatrex – LLM-Based Simulations](https://github.com/simulatrex/simulatrex)
-- [Pitivi – Free video editor with a beautiful and intuitive user interface](https://www.pitivi.org/)
-- [High school math doesn&#39;t prepare most students for their college majors](https://hechingerreport.org/proof-points-professors-say-high-school-math-doesnt-prepare-most-students-for-their-college-majors/)
-- [Please, expose your RSS](https://rknight.me/please-expose-your-rss/)
-- [The Bare Minimum Video Game: The Odyssey 100](https://nicole.express/2023/special-thanks-to-homer.html)
-- [BSD on Windows: Things I wish I knew existed](https://virtuallyfun.com/2023/12/08/bsd-on-windows-things-i-wish-i-knew-existed/)
-- [The surprising connection between after-hours work and decreased productivity](https://slack.com/intl/en-gb/blog/news/the-surprising-connection-between-after-hours-work-and-decreased-productivity?nojsmode=1)
-- [The SAT Museum [pdf]](https://ceur-ws.org/Vol-3545/paper6.pdf)
-- [Meticulous.ai &lpar;YC S21&rpar; Is Hiring to make tests obsolete](https://news.ycombinator.com/item?id=38594989)
+- [An HTTP Status Code to Report Requester Impairment](https://www.ietf.org/archive/id/draft-richardroda-420requesterimpaired-02.html)
+- [FTC wants Microsoft&#39;s relationship with OpenAI under the microscope](https://www.theregister.com/2023/12/11/microsoft_openai_investment_ftc/)
+- [Jury decides Google has illegal monopoly in app store fight](https://www.theverge.com/23994174/epic-google-trial-jury-verdict-monopoly-google-play)
+- [Epic vs. Google: Google Loses](https://www.theverge.com/23945184/epic-v-google-fortnite-play-store-antitrust-trial-updates)
+- [The House Intelligence Committee&#39;s Surveillance &#39;Reform&#39; Bill Is a Farce](https://www.eff.org/deeplinks/2023/12/section-702-needs-reform-and-oversight-not-expansion-congress-should-oppose-hpsci)
+- [Behavior Belongs in the HTML](https://unplannedobsolescence.com/blog/behavior-belongs-in-html/)
+- [Deep in the Wilderness, the Largest Beaver Dam Endures](https://e360.yale.edu/features/worlds-largest-beaver-dam)
+- [AdaptNet: Policy Adaptation for Physics-Based Character Control](https://arxiv.org/abs/2310.00239)
+- [The Secret Behind Qualcomm&#39;s Margins? Patents](https://blog.withedge.com/p/the-secret-behind-qualcomms-margins)
+- [What if an SQL statement returned a database?](https://arxiv.org/abs/2312.00638)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

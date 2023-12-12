@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Israel-Gaza war live: Hamas warns no hostages will be released unless demands met; Israel says war could go on for months](https://www.theguardian.com/world/live/2023/dec/10/israel-gaza-war-israeli-forces-continue-push-into-southern-gaza-amid-apocalyptic-humanitarian-situation)
-- [NFL roundup: Travis Kelce trick play ruled out as Bills beat Chiefs](https://www.theguardian.com/sport/2023/dec/10/nfl-roundup-sunday-scores-football)
-- [Russia-Ukraine war at a glance: what we know on day 656](https://www.theguardian.com/world/2023/dec/11/russia-ukraine-war-at-a-glance-what-we-know-on-day-656)
-- [The two Australias at Cop28: a country at odds with itself on the climate crisis](https://www.theguardian.com/environment/2023/dec/11/the-two-australias-at-cop28-a-country-at-odds-with-itself-on-the-climate-crisis)
-- [Record low turnout as Hong Kong votes in ‘patriots’-only election](https://www.theguardian.com/world/2023/dec/11/hong-kong-election-votes-patriots-only-poll-mumbers-turnout)
-- [Zelenskiy to visit Washington in bid to break Senate deadlock on Ukraine aid](https://www.theguardian.com/world/2023/dec/11/zelenskiy-to-visit-washington-in-bid-to-break-senate-deadlock-on-ukraine-aid)
-- [Spending on university students in England ‘back to 2011 low point’, says IFS](https://www.theguardian.com/education/2023/dec/11/spending-on-university-students-in-england-back-to-2011-low-point-says-ifs)
-- [Ofsted chief ‘should quit now’, says Ruth Perry’s sister as briefing memo is revealed](https://www.theguardian.com/education/2023/dec/10/ofsted-chief-should-quit-now-says-ruth-perrys-sister-as-briefing-memo-is-revealed)
-- [UK’s Christmas getaway traffic will peak earlier than usual, AA predicts](https://www.theguardian.com/uk-news/2023/dec/11/uks-christmas-getaway-traffic-will-peak-earlier-than-usual-aa-predicts)
-- [Tenants in Britain ‘hit by highest increase in rent for a decade’ last month](https://www.theguardian.com/money/2023/dec/11/tenants-in-britain-hit-by-highest-increase-in-rent-for-a-decade-last-month)
+- [Paradise cost: the Pacific islands changing the future of tourism](https://www.theguardian.com/world/2023/dec/12/pacific-islands-tourism-the-price-of-paradise)
+- [Russia-Ukraine war at a glance: what we know on day 657](https://www.theguardian.com/world/2023/dec/12/russia-ukraine-war-at-a-glance-what-we-know-on-day-657)
+- [Falling UK inflation will ease pressure for high pay awards, says thinktank](https://www.theguardian.com/business/2023/dec/12/falling-uk-inflation-high-pay-awards-resolution-foundation)
+- [Peers call for urgent overhaul of secondary education in England](https://www.theguardian.com/education/2023/dec/12/peers-call-urgent-overhaul-secondary-education-england)
+- [Nigeria’s Oshoala and Osimhen win African footballer of the year awards](https://www.theguardian.com/football/2023/dec/11/african-footballer-of-the-year-awards-asisat-oshoala-victor-osimhen)
+- [Risk of dying from cancer in England varies hugely between regions, say scientists](https://www.theguardian.com/society/2023/dec/11/risk-of-dying-from-cancer-in-england-varies-hugely-between-regions-say-scientists)
+- [LAPD helicopters cost $50m a year, more than 14 city offices’ entire budget](https://www.theguardian.com/us-news/2023/dec/11/los-angeles-police-helicopters-cost-benefit-dispute)
+- [Two released on bail as baby murder inquiry continues in Ipswich](https://www.theguardian.com/uk-news/2023/dec/11/two-released-on-bail-as-baby-inquiry-continues-in-ipswich)
+- [Turkish football league suspended after Ankaragucu president punches referee](https://www.theguardian.com/football/2023/dec/11/ankaragucu-president-punches-referee-after-turkish-super-lig-match)
+- [Toymaker Hasbro lays off 1,100 staff as holiday season fails to lift sales](https://www.theguardian.com/business/2023/dec/11/toymaker-hasbro-layoffs)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

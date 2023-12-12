@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [How many jobs are available in technology in the US?](https://www.computerworld.com/article/3542681/how-many-jobs-are-available-in-technology.html#tk.rss_all)
+- [First CHIPS Act grant nets $35 million for BAE](https://www.computerworld.com/article/3711286/first-chips-act-grant-nets-35-million-for-bae.html#tk.rss_all)
+- [Change as opportunity: How Apple gains from rebooting its supply-chain strategy](https://www.computerworld.com/article/3711523/how-apple-gains-from-rebooting-its-supply-chain-strategy.html#tk.rss_all)
+- [Why billions of CHIPS Act dollars have not been distributed](https://www.computerworld.com/article/3711413/why-billions-of-chips-act-dollars-have-not-been-distributed.html#tk.rss_all)
 - [Meta releases open-source tools for AI safety](https://www.infoworld.com/article/3711284/meta-releases-open-source-tools-for-ai-safety.html#tk.rss_all)
 - [How Apple TV just became a Zoom meeting solution for SMEs](https://www.computerworld.com/article/3711564/how-apple-tv-just-became-a-zoom-meeting-solution-for-smes.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [Windows 12 and the coming AI chip war](https://www.computerworld.com/article/3711262/windows-12-and-the-coming-ai-chip-war.html#tk.rss_all)
 - [4 advanced Gboard adjustments for faster Android typing](https://www.computerworld.com/article/3711540/gboard-android-adjustments.html#tk.rss_all)
 - [EU lawmakers move closer to finalizing AI Act](https://www.computerworld.com/article/3711563/eu-lawmakers-move-closer-to-finalizing-ai-act.html#tk.rss_all)
-- [Apple set to open its 4th iPhone factory in India in a China+1 strategy](https://www.computerworld.com/article/3711562/apple-set-to-open-its-4th-iphone-factory-in-india-in-a-china-1-strategy.html#tk.rss_all)
-- [Attacks against personal data are up 300%, Apple warns](https://www.computerworld.com/article/3711522/attacks-against-personal-data-are-up-300-apple-warns.html#tk.rss_all)
-- [AWS blames Microsoft for anti-competitive practices in the UK](https://www.computerworld.com/article/3711561/aws-blames-microsoft-for-anti-competitive-practices-in-the-uk.html#tk.rss_all)
-- [Taiwan’s ‘silicon shield’ is cracking as US-China chip war rages](https://www.computerworld.com/article/3711504/taiwan-s-silicon-shield-is-cracking-as-us-china-chip-war-rages.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

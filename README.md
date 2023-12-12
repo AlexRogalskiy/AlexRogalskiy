@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: I Remade the Fake Google Gemini Demo, Except Using GPT-4 and It&#39;s Real](https://sagittarius.greg.technology/)
-- [Beeper? I Hardly Knew Her.](https://daringfireball.net/2023/12/beeper_i_hardly_knew_her)
-- [Exploiting Data Similarity to Improve SSD Read Performance](https://www.mdpi.com/2076-3417/13/24/13017)
-- [Codeium now attributes code suggestions](https://codeium.com/blog/attribution-announcement)
-- [Deterministic Programmer for Large Complex Projects](https://www.cyberium.info/determiner-deterministic-programmer-for-large-complex-projects/)
-- [What if the Twitter replacement isn&#39;t a Twitter clone?](https://onemanandhisblog.com/2023/12/what-if-the-twitter-replacement-isnt-a-twitter-clone/)
-- [Medical microrobots are &lpar;still&rpar; on their way &lpar;MIT&rpar;](https://www.technologyreview.com/2023/12/08/1084696/medical-microrobots-are-still-on-their-way/)
-- [Linux kernel maintainer pain points](https://lwn.net/Articles/952146/)
-- [Postpartum depression is unpredictable. The immune system may hold answers](https://www.washingtonpost.com/wellness/2023/12/06/postpartum-depression-immune-system/)
-- [The Roses of Heliogabalus](http://penelope.uchicago.edu/~grout/encyclopaedia_romana/severans/roses.html)
+- [Google&#39;s App Store Ruled an Illegal Monopoly, as a Jury Sides with Epic Games [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.cand.364325/gov.uscourts.cand.364325.592.0.pdf)
+- [Imaging large-scale neural activity w cellular resolution in awake mobile mice](https://pubmed.ncbi.nlm.nih.gov/17920014/)
+- [Learning to work &lpar;very&rpar; remotely](https://borischerny.com/tech/2023/12/10/Working-Remotely.html)
+- [Sailing Stones](https://en.wikipedia.org/wiki/Sailing_stones)
+- [The Day Before Studio Fntastic Announces Closure Just Days After Early Access](https://www.ign.com/articles/the-day-before-studio-fntastic-announces-closure-just-days-after-early-access-launch)
+- [How many things should there be?](https://longform.asmartbear.com/top-10/)
+- [Denmark: The major pork producer trying to wean itself off eating meat](https://www.bbc.com/future/article/20231201-denmark-the-major-meat-producer-switching-to-a-plant-based-diet)
+- [Don&#39;t Get Triggered by Analogies – They Are a Powerful Tool for Logical R &lpar;Cont&rpar;](https://outlookzen.com/2022/12/13/dont-get-triggered-by-analogies/)
+- [Custom GPTs is completely useless? Someone made a side project to prove it wrong](https://old.reddit.com/r/ChatGPTPro/comments/18fjtft/having_trouble_finding_useful_gpts_im_curating_a/)
+- [An HTTP Status Code to Report Requester Impairment](https://www.ietf.org/archive/id/draft-richardroda-420requesterimpaired-02.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [An HTTP Status Code to Report Requester Impairment](https://www.ietf.org/archive/id/draft-richardroda-420requesterimpaired-02.html)
-- [FTC wants Microsoft&#39;s relationship with OpenAI under the microscope](https://www.theregister.com/2023/12/11/microsoft_openai_investment_ftc/)
-- [Jury decides Google has illegal monopoly in app store fight](https://www.theverge.com/23994174/epic-google-trial-jury-verdict-monopoly-google-play)
-- [Epic vs. Google: Google Loses](https://www.theverge.com/23945184/epic-v-google-fortnite-play-store-antitrust-trial-updates)
-- [The House Intelligence Committee&#39;s Surveillance &#39;Reform&#39; Bill Is a Farce](https://www.eff.org/deeplinks/2023/12/section-702-needs-reform-and-oversight-not-expansion-congress-should-oppose-hpsci)
-- [Behavior Belongs in the HTML](https://unplannedobsolescence.com/blog/behavior-belongs-in-html/)
-- [Deep in the Wilderness, the Largest Beaver Dam Endures](https://e360.yale.edu/features/worlds-largest-beaver-dam)
-- [AdaptNet: Policy Adaptation for Physics-Based Character Control](https://arxiv.org/abs/2310.00239)
-- [The Secret Behind Qualcomm&#39;s Margins? Patents](https://blog.withedge.com/p/the-secret-behind-qualcomms-margins)
-- [What if an SQL statement returned a database?](https://arxiv.org/abs/2312.00638)
+- [Tim Sweeney on why Epic did better against Google than Apple in court](https://www.cnbc.com/2023/12/12/tim-sweeney-why-epic-did-better-against-google-than-apple-in-court.html)
+- [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring a Research Scientist](https://news.ycombinator.com/item?id=38621289)
+- [Seeing how fast people will probe you after you get a new TLS certificate](https://utcc.utoronto.ca/~cks/space/blog/web/WebProbeSpeedNewTLSCertificate)
+- [Tools for Learning LLVM TableGen](https://blog.llvm.org/posts/2023-12-07-tools-for-learning-llvm-tablegen/)
+- [What We Watched: A Netflix engagement report](https://about.netflix.com/en/news/what-we-watched-a-netflix-engagement-report)
+- [Hardening cellular basebands in Android](https://security.googleblog.com/2023/12/hardening-cellular-basebands-in-android.html)
+- [AI’s big rift is like a religious schism](https://www.programmablemutter.com/p/the-singularity-is-nigh-republished)
+- [What will enter the public domain in 2024?](https://publicdomainreview.org/features/entering-the-public-domain/2024/)
+- [Edge functions: Node and native NPM compatibility](https://supabase.com/blog/edge-functions-node-npm)
+- [Motorola&#39;s pioneering 8-bit 6800: Origins and architecture](https://thechipletter.substack.com/p/motorolas-pioneering-8-bit-6800-origins)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

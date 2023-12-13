@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Essential AI reveals funding, development of full-stack AI automation tools](https://www.computerworld.com/article/3711620/essential-ai-reveals-funding-development-of-full-stack-ai-automation-tools.html#tk.rss_all)
+- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
+- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [Apple Pay will need to open up to a little more competition](https://www.computerworld.com/article/3711582/apple-pay-will-need-to-open-up-to-a-little-more-competition.html#tk.rss_all)
+- [Public cloud service revenue jumps 19%, with Microsoft leading overall: IDC](https://www.computerworld.com/article/3711566/public-cloud-service-revenue-jumps-19-with-microsoft-leading-overall-idc.html#tk.rss_all)
+- [Microsoft sets precedent, partnering with union to develop AI policy](https://www.computerworld.com/article/3711583/microsoft-sets-precedent-partnering-with-union-to-develop-ai-policy.html#tk.rss_all)
+- [Making sense of genAI pricing in office apps](https://www.computerworld.com/article/3711541/making-sense-of-genai-pricing-in-office-apps.html#tk.rss_all)
 - [How many jobs are available in technology in the US?](https://www.computerworld.com/article/3542681/how-many-jobs-are-available-in-technology.html#tk.rss_all)
 - [First CHIPS Act grant nets $35 million for BAE](https://www.computerworld.com/article/3711286/first-chips-act-grant-nets-35-million-for-bae.html#tk.rss_all)
-- [Change as opportunity: How Apple gains from rebooting its supply-chain strategy](https://www.computerworld.com/article/3711523/how-apple-gains-from-rebooting-its-supply-chain-strategy.html#tk.rss_all)
-- [Why billions of CHIPS Act dollars have not been distributed](https://www.computerworld.com/article/3711413/why-billions-of-chips-act-dollars-have-not-been-distributed.html#tk.rss_all)
-- [Meta releases open-source tools for AI safety](https://www.infoworld.com/article/3711284/meta-releases-open-source-tools-for-ai-safety.html#tk.rss_all)
-- [How Apple TV just became a Zoom meeting solution for SMEs](https://www.computerworld.com/article/3711564/how-apple-tv-just-became-a-zoom-meeting-solution-for-smes.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [Windows 12 and the coming AI chip war](https://www.computerworld.com/article/3711262/windows-12-and-the-coming-ai-chip-war.html#tk.rss_all)
-- [4 advanced Gboard adjustments for faster Android typing](https://www.computerworld.com/article/3711540/gboard-android-adjustments.html#tk.rss_all)
-- [EU lawmakers move closer to finalizing AI Act](https://www.computerworld.com/article/3711563/eu-lawmakers-move-closer-to-finalizing-ai-act.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Paradise cost: the Pacific islands changing the future of tourism](https://www.theguardian.com/world/2023/dec/12/pacific-islands-tourism-the-price-of-paradise)
-- [Russia-Ukraine war at a glance: what we know on day 657](https://www.theguardian.com/world/2023/dec/12/russia-ukraine-war-at-a-glance-what-we-know-on-day-657)
-- [Falling UK inflation will ease pressure for high pay awards, says thinktank](https://www.theguardian.com/business/2023/dec/12/falling-uk-inflation-high-pay-awards-resolution-foundation)
-- [Peers call for urgent overhaul of secondary education in England](https://www.theguardian.com/education/2023/dec/12/peers-call-urgent-overhaul-secondary-education-england)
-- [Nigeria’s Oshoala and Osimhen win African footballer of the year awards](https://www.theguardian.com/football/2023/dec/11/african-footballer-of-the-year-awards-asisat-oshoala-victor-osimhen)
-- [Risk of dying from cancer in England varies hugely between regions, say scientists](https://www.theguardian.com/society/2023/dec/11/risk-of-dying-from-cancer-in-england-varies-hugely-between-regions-say-scientists)
-- [LAPD helicopters cost $50m a year, more than 14 city offices’ entire budget](https://www.theguardian.com/us-news/2023/dec/11/los-angeles-police-helicopters-cost-benefit-dispute)
-- [Two released on bail as baby murder inquiry continues in Ipswich](https://www.theguardian.com/uk-news/2023/dec/11/two-released-on-bail-as-baby-inquiry-continues-in-ipswich)
-- [Turkish football league suspended after Ankaragucu president punches referee](https://www.theguardian.com/football/2023/dec/11/ankaragucu-president-punches-referee-after-turkish-super-lig-match)
-- [Toymaker Hasbro lays off 1,100 staff as holiday season fails to lift sales](https://www.theguardian.com/business/2023/dec/11/toymaker-hasbro-layoffs)
+- [West Indies v England: first T20 international – live](https://www.theguardian.com/sport/live/2023/dec/12/west-indies-v-england-first-t20-international-cricket-live)
+- [Israel-Gaza war live: UN general assembly overwhelmingly votes to demand humanitarian ceasefire in Gaza](https://www.theguardian.com/world/live/2023/dec/12/israel-gaza-war-live-updates-news-gaza-attack-palestine-un-ceasefire-vote-hostages)
+- [No more drunk driving? US to force carmakers to adopt life-saving tech by 2024](https://www.theguardian.com/us-news/2023/dec/12/drunk-driving-technology-cars-safety)
+- [Yemen’s Houthis warn ships travelling in the Red Sea to avoid Israel or face being attacked](https://www.theguardian.com/world/2023/dec/13/yemen-houthis-red-sea-ship-israel-attack)
+- [‘First line of defence’: mangroves – and mitigation - lost in Fiji’s tourism development](https://www.theguardian.com/world/2023/dec/13/fiji-magrove-destruction-why-tourism-restoration-plan-importance-the-price-of-paradise)
+- [Man flies from Denmark to Los Angeles with no passport or plane ticket](https://www.theguardian.com/us-news/2023/dec/12/stowaway-flight-denmark-la)
+- [Republicans helping Russia by denying Ukraine aid, Biden says](https://www.theguardian.com/world/2023/dec/12/ukraine-russia-aid-biden-zelenskiy)
+- [The world is torn in half. How can we bear this? | First Dog on the Moon](https://www.theguardian.com/commentisfree/picture/2023/dec/13/the-world-is-torn-in-half-how-can-we-bear-this)
+- [Indhu Rubasingham chosen as National Theatre’s next director](https://www.theguardian.com/stage/2023/dec/13/indhu-rubasingham-chosen-as-national-theatres-next-director)
+- [Structural racism behind increased Taser use against black people, report finds](https://www.theguardian.com/uk-news/2023/dec/13/structural-racism-behind-increased-taser-use-against-black-people-report-finds)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

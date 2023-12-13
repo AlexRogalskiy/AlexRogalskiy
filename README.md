@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Google&#39;s App Store Ruled an Illegal Monopoly, as a Jury Sides with Epic Games [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.cand.364325/gov.uscourts.cand.364325.592.0.pdf)
-- [Imaging large-scale neural activity w cellular resolution in awake mobile mice](https://pubmed.ncbi.nlm.nih.gov/17920014/)
-- [Learning to work &lpar;very&rpar; remotely](https://borischerny.com/tech/2023/12/10/Working-Remotely.html)
-- [Sailing Stones](https://en.wikipedia.org/wiki/Sailing_stones)
-- [The Day Before Studio Fntastic Announces Closure Just Days After Early Access](https://www.ign.com/articles/the-day-before-studio-fntastic-announces-closure-just-days-after-early-access-launch)
-- [How many things should there be?](https://longform.asmartbear.com/top-10/)
-- [Denmark: The major pork producer trying to wean itself off eating meat](https://www.bbc.com/future/article/20231201-denmark-the-major-meat-producer-switching-to-a-plant-based-diet)
-- [Don&#39;t Get Triggered by Analogies – They Are a Powerful Tool for Logical R &lpar;Cont&rpar;](https://outlookzen.com/2022/12/13/dont-get-triggered-by-analogies/)
-- [Custom GPTs is completely useless? Someone made a side project to prove it wrong](https://old.reddit.com/r/ChatGPTPro/comments/18fjtft/having_trouble_finding_useful_gpts_im_curating_a/)
-- [An HTTP Status Code to Report Requester Impairment](https://www.ietf.org/archive/id/draft-richardroda-420requesterimpaired-02.html)
+- [Personalizing Emacs Doc Navigation](http://yummymelon.com/devnull/personalizing-emacs-doc-navigation.html)
+- [Shopify discloses 44.36% ownership of Klaviyo&#39;s Series A shares &lpar;Dec. 11&rpar;](https://ca.finance.yahoo.com/news/canadas-shopify-discloses-increased-stake-224950754.html)
+- [Mixtile aims at performance with drop-in alternative to Nvidia&#39;s Jetson](https://www.hackster.io/news/mixtile-aims-at-ai-performance-with-the-core-3588e-a-drop-in-alternative-to-nvidia-s-jetson-tx2-nx-77e83f23a1b2)
+- [How Twitter Broke The News](https://www.theverge.com/c/features/23993135/twitter-breaking-news-history)
+- [A Triplet Tree Forms One of the Most Beautiful Structures in Math](https://www.quantamagazine.org/a-triplet-tree-forms-one-of-the-most-beautiful-structures-in-math-20231212/)
+- [Three types of AI-assisted programmers](https://stackoverflow.blog/2023/12/11/three-types-of-ai-assisted-programmers/)
+- [NASA&#39;s Perseverance Rover Deciphers Ancient History of Martian Lake](https://www.jpl.nasa.gov/news/nasas-perseverance-rover-deciphers-ancient-history-of-martian-lake)
+- [What Is a Debugger?](https://gu.outerproduct.net/debug.html)
+- [Apple updates push notification record guidelines, now requires search warrant](https://daringfireball.net/linked/2023/12/11/apple-push-notification-search-warrants)
+- [Solving the Looming Developer Liability Problem](https://blog.hansenpartnership.com/solving-the-looming-developer-liability-problem/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Tim Sweeney on why Epic did better against Google than Apple in court](https://www.cnbc.com/2023/12/12/tim-sweeney-why-epic-did-better-against-google-than-apple-in-court.html)
-- [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring a Research Scientist](https://news.ycombinator.com/item?id=38621289)
-- [Seeing how fast people will probe you after you get a new TLS certificate](https://utcc.utoronto.ca/~cks/space/blog/web/WebProbeSpeedNewTLSCertificate)
-- [Tools for Learning LLVM TableGen](https://blog.llvm.org/posts/2023-12-07-tools-for-learning-llvm-tablegen/)
-- [What We Watched: A Netflix engagement report](https://about.netflix.com/en/news/what-we-watched-a-netflix-engagement-report)
-- [Hardening cellular basebands in Android](https://security.googleblog.com/2023/12/hardening-cellular-basebands-in-android.html)
-- [AI’s big rift is like a religious schism](https://www.programmablemutter.com/p/the-singularity-is-nigh-republished)
-- [What will enter the public domain in 2024?](https://publicdomainreview.org/features/entering-the-public-domain/2024/)
-- [Edge functions: Node and native NPM compatibility](https://supabase.com/blog/edge-functions-node-npm)
-- [Motorola&#39;s pioneering 8-bit 6800: Origins and architecture](https://thechipletter.substack.com/p/motorolas-pioneering-8-bit-6800-origins)
+- [Jerry &lpar;YC S17&rpar; Is Hiring Sr Software Engineers and Other Roles &lpar;Remote&rpar;](https://jobs.ashbyhq.com/Jerry/62e5f7b1-0a09-460a-8135-bf1f091a9394)
+- [The average store size in the US is the smallest it&#39;s been in at least 17 years](https://www.wsj.com/real-estate/commercial/the-american-store-is-shrinking-7603e979)
+- [Roy Kerr: Do Black Holes Have Singularities?](https://arxiv.org/abs/2312.00841)
+- [Show HN: I scraped 25M Shopify products to build a search engine](https://www.searchagora.com/)
+- [Biscuit Authorization](https://www.biscuitsec.org/)
+- [New insights into neural end-of-life](https://neurosciencenews.com/death-brain-neuroscience-25356/)
+- [The limitations of deep learning &lpar;2017&rpar;](https://blog.keras.io/the-limitations-of-deep-learning.html)
+- [Remembering things that haven&#39;t happened yet](https://bessstillman.substack.com/p/remembering-things-that-havent-happened)
+- [Debugging a Failing Hotkey](https://tratt.net/laurie/blog/2023/debugging_a_failing_hotkey.html)
+- [Grap – Kernighan and Bentley&#39;s language for typesetting graphs &lpar;1984&rpar; [pdf]](https://doc.cat-v.org/unix/v8/grap.pdf)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

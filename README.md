@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [West Indies v England: first T20 international – live](https://www.theguardian.com/sport/live/2023/dec/12/west-indies-v-england-first-t20-international-cricket-live)
-- [Israel-Gaza war live: UN general assembly overwhelmingly votes to demand humanitarian ceasefire in Gaza](https://www.theguardian.com/world/live/2023/dec/12/israel-gaza-war-live-updates-news-gaza-attack-palestine-un-ceasefire-vote-hostages)
-- [No more drunk driving? US to force carmakers to adopt life-saving tech by 2024](https://www.theguardian.com/us-news/2023/dec/12/drunk-driving-technology-cars-safety)
-- [Yemen’s Houthis warn ships travelling in the Red Sea to avoid Israel or face being attacked](https://www.theguardian.com/world/2023/dec/13/yemen-houthis-red-sea-ship-israel-attack)
-- [‘First line of defence’: mangroves – and mitigation - lost in Fiji’s tourism development](https://www.theguardian.com/world/2023/dec/13/fiji-magrove-destruction-why-tourism-restoration-plan-importance-the-price-of-paradise)
-- [Man flies from Denmark to Los Angeles with no passport or plane ticket](https://www.theguardian.com/us-news/2023/dec/12/stowaway-flight-denmark-la)
-- [Republicans helping Russia by denying Ukraine aid, Biden says](https://www.theguardian.com/world/2023/dec/12/ukraine-russia-aid-biden-zelenskiy)
-- [The world is torn in half. How can we bear this? | First Dog on the Moon](https://www.theguardian.com/commentisfree/picture/2023/dec/13/the-world-is-torn-in-half-how-can-we-bear-this)
-- [Indhu Rubasingham chosen as National Theatre’s next director](https://www.theguardian.com/stage/2023/dec/13/indhu-rubasingham-chosen-as-national-theatres-next-director)
-- [Structural racism behind increased Taser use against black people, report finds](https://www.theguardian.com/uk-news/2023/dec/13/structural-racism-behind-increased-taser-use-against-black-people-report-finds)
+- [Israel-Gaza war live: White House walks back Biden remarks that Israel was losing international support over Gaza bombing](https://www.theguardian.com/world/live/2023/dec/13/israel-gaza-war-hamas-live-updates-news-un-ceasefire-hostages-us-israel-relations-palestine)
+- [House votes to formally authorize Biden impeachment inquiry](https://www.theguardian.com/us-news/2023/dec/13/biden-impeachment-house-vote-republicans)
+- [Paradise divided: French Polynesia wrestles with lure of mass cruise tourism](https://www.theguardian.com/world/2023/dec/14/paradise-divided-french-polynesia-wrestles-with-lure-of-mass-cruise-tourism)
+- [One person missing after explosion at south Wales industrial estate](https://www.theguardian.com/uk-news/2023/dec/13/police-declare-major-incident-in-south-wales-after-explosion-at-industrial-estate)
+- [Extra 40,000 people in England homeless this Christmas, says charity](https://www.theguardian.com/society/2023/dec/14/extra-40000-people-in-england-homeless-this-christmas-says-charity)
+- [Calls for tighter rules on biofuels imports to root out palm oil fraud](https://www.theguardian.com/environment/2023/dec/14/calls-for-tighter-rules-on-biofuels-imports-palm-oil-saf)
+- [Testing times: GCHQ releases annual festive puzzle](https://www.theguardian.com/uk-news/2023/dec/14/gchq-releases-annual-festive-christmas-puzzle)
+- [‘I was terrorized’: 2020 election worker testifies at Giuliani defamation trial](https://www.theguardian.com/us-news/2023/dec/13/rudy-giuliani-defamation-trial-georgia-third-day)
+- [Kathleen Folbigg’s convictions for killing her four children quashed by NSW court](https://www.theguardian.com/australia-news/2023/dec/14/kathleen-folbiggs-convictions-for-killing-her-four-children-quashed-by-nsw-court)
+- [Championship: Leicester surge back to top while Rooney grabs first away points](https://www.theguardian.com/football/2023/dec/13/championship-leicester-surge-back-to-top-while-rooney-grabs-first-away-points)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

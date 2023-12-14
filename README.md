@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Personalizing Emacs Doc Navigation](http://yummymelon.com/devnull/personalizing-emacs-doc-navigation.html)
-- [Shopify discloses 44.36% ownership of Klaviyo&#39;s Series A shares &lpar;Dec. 11&rpar;](https://ca.finance.yahoo.com/news/canadas-shopify-discloses-increased-stake-224950754.html)
-- [Mixtile aims at performance with drop-in alternative to Nvidia&#39;s Jetson](https://www.hackster.io/news/mixtile-aims-at-ai-performance-with-the-core-3588e-a-drop-in-alternative-to-nvidia-s-jetson-tx2-nx-77e83f23a1b2)
-- [How Twitter Broke The News](https://www.theverge.com/c/features/23993135/twitter-breaking-news-history)
-- [A Triplet Tree Forms One of the Most Beautiful Structures in Math](https://www.quantamagazine.org/a-triplet-tree-forms-one-of-the-most-beautiful-structures-in-math-20231212/)
-- [Three types of AI-assisted programmers](https://stackoverflow.blog/2023/12/11/three-types-of-ai-assisted-programmers/)
-- [NASA&#39;s Perseverance Rover Deciphers Ancient History of Martian Lake](https://www.jpl.nasa.gov/news/nasas-perseverance-rover-deciphers-ancient-history-of-martian-lake)
-- [What Is a Debugger?](https://gu.outerproduct.net/debug.html)
-- [Apple updates push notification record guidelines, now requires search warrant](https://daringfireball.net/linked/2023/12/11/apple-push-notification-search-warrants)
-- [Solving the Looming Developer Liability Problem](https://blog.hansenpartnership.com/solving-the-looming-developer-liability-problem/)
+- [Show HN: Never Apply Again](https://news.ycombinator.com/item?id=38637006)
+- [Google Obviating Geofence Warrants?](http://fourthamendment.com/?p=56528)
+- [The Case for Agile 2 &lpar;Agile is deeply broken&rpar;](https://agile2.net/how-we-got-here/the-case-for-agile-2/)
+- [GM&#39;s Cruise robotaxi unit dismisses nine &#39;key leaders&#39; amid safety investigation](https://www.cnbc.com/2023/12/13/gms-cruise-dismisses-nine-key-leaders-amid-safety-probe.html)
+- [Major Outage on ChatGPT on Web](https://status.openai.com/incidents/myrbs3mvcxn1)
+- [Man jumps into Indian parliament, sets off smoke can in major security breach](https://www.reuters.com/world/india/security-breach-indian-parliament-man-jumps-into-lawmakerss-area-2023-12-13/)
+- [I Got Lost in Bangalore&#39;s Tech Workforce](https://www.integritytalk.blog/p/i-got-lost-in-bangalores-tech-workforce)
+- [The Predictability Trap](https://cutlefish.substack.com/p/tbm-259-the-predictability-trap)
+- [Apollo Core Rope Memory &lpar;Apollo Guidance Computer Part 30&rpar; [video]](https://www.youtube.com/watch?v=hckwxq8rnr0)
+- [New tax rules on R&amp;D expenses may lead to layoffs for devs](https://www.wsj.com/articles/the-tax-rule-change-that-is-threatening-businesses-survival-a9236658)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

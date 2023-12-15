@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Israel-Gaza war live: White House walks back Biden remarks that Israel was losing international support over Gaza bombing](https://www.theguardian.com/world/live/2023/dec/13/israel-gaza-war-hamas-live-updates-news-un-ceasefire-hostages-us-israel-relations-palestine)
-- [House votes to formally authorize Biden impeachment inquiry](https://www.theguardian.com/us-news/2023/dec/13/biden-impeachment-house-vote-republicans)
-- [Paradise divided: French Polynesia wrestles with lure of mass cruise tourism](https://www.theguardian.com/world/2023/dec/14/paradise-divided-french-polynesia-wrestles-with-lure-of-mass-cruise-tourism)
-- [One person missing after explosion at south Wales industrial estate](https://www.theguardian.com/uk-news/2023/dec/13/police-declare-major-incident-in-south-wales-after-explosion-at-industrial-estate)
-- [Extra 40,000 people in England homeless this Christmas, says charity](https://www.theguardian.com/society/2023/dec/14/extra-40000-people-in-england-homeless-this-christmas-says-charity)
-- [Calls for tighter rules on biofuels imports to root out palm oil fraud](https://www.theguardian.com/environment/2023/dec/14/calls-for-tighter-rules-on-biofuels-imports-palm-oil-saf)
-- [Testing times: GCHQ releases annual festive puzzle](https://www.theguardian.com/uk-news/2023/dec/14/gchq-releases-annual-festive-christmas-puzzle)
-- [‘I was terrorized’: 2020 election worker testifies at Giuliani defamation trial](https://www.theguardian.com/us-news/2023/dec/13/rudy-giuliani-defamation-trial-georgia-third-day)
-- [Kathleen Folbigg’s convictions for killing her four children quashed by NSW court](https://www.theguardian.com/australia-news/2023/dec/14/kathleen-folbiggs-convictions-for-killing-her-four-children-quashed-by-nsw-court)
-- [Championship: Leicester surge back to top while Rooney grabs first away points](https://www.theguardian.com/football/2023/dec/13/championship-leicester-surge-back-to-top-while-rooney-grabs-first-away-points)
+- [Israel-Gaza war live: Palestinian Authority ‘will look to ultimately have role’ in Gaza, says US official](https://www.theguardian.com/world/live/2023/dec/14/israel-gaza-war-live-updates-hamas-leader-power-palestine)
+- [Flying hurts the planet but it’s vital for island tourism. Is there a greener way? | Susanne Becken](https://www.theguardian.com/world/2023/dec/15/cop28-agreement-electric-aviation-renewable-energy)
+- [Four-month-old survives being sucked into a tornado in Tennessee](https://www.theguardian.com/us-news/2023/dec/14/tennessee-baby-survives-being-sucked-into-tornado)
+- [Short hops and economy class: five expert tips on how to reduce your emissions on holiday](https://www.theguardian.com/world/2023/dec/15/sustainable-tourism-expert-tips-how-to-reduce-carbon-emissions-footprint-offset-schemes-travel-holiday-pacific-islands)
+- [Asylum seekers housed at ex-RAF base tried to kill themselves, finds study](https://www.theguardian.com/uk-news/2023/dec/15/asylum-seekers-housed-at-ex-raf-base-wethersfield-tried-to-kill-themselves-finds-study)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2023/dec/15/premier-league-10-things-to-look-out-for-this-weekend)
+- [British boy missing since 2017 Spanish holiday found in France](https://www.theguardian.com/uk-news/2023/dec/14/british-boy-missing-since-2017-spanish-holiday-found-in-france)
+- [‘Long flu’: study finds flu patients at higher risk of longer-term illness](https://www.theguardian.com/society/2023/dec/14/long-flu-study-finds-flu-patients-at-higher-risk-of-longer-term-illness)
+- [Stranger Things: The First Shadow review – breathtaking theatre](https://www.theguardian.com/stage/2023/dec/14/stranger-things-the-first-shadow-review-phoenix-theatre-duffer-brothers)
+- [Curb Your Enthusiasm: Larry David comedy to end after 12 seasons](https://www.theguardian.com/tv-and-radio/2023/dec/15/curb-your-enthusiasm-final-season-12-tv-hbo-ending-larry-david-comedy-to-end)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

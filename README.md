@@ -355,6 +355,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Salesforce and Apple are ready for enterprise AR](https://www.computerworld.com/article/3711741/salesforce-and-apple-are-ready-for-enterprise-ar.html#tk.rss_all)
+- [Adobe anticipates ‘significant penalty’ for complex cancellation practices](https://www.computerworld.com/article/3711760/adobe-anticipates-significant-penalty-for-complex-cancellation-practices.html#tk.rss_all)
+- [Managing rapid-fire Windows updates](https://www.computerworld.com/article/3711520/managing-rapid-fire-windows-updates.html#tk.rss_all)
 - [Internet traffic soars in 2023, with generative AI a standout trend: Report](https://www.computerworld.com/article/3711722/internet-traffic-soars-in-2023-with-generative-ai-a-standout-trend-report.html#tk.rss_all)
 - [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
 - [Microsoft unveils Phi-2, the next of its smaller, more nimble genAI models](https://www.computerworld.com/article/3711701/microsoft-unveils-phi-2-the-next-of-its-smaller-more-nimble-genai-models.html#tk.rss_all)
@@ -362,9 +365,6 @@
 - [Microsoft will overtake Apple as the world’s largest company in &#39;24](https://www.computerworld.com/article/3711565/microsoft-will-overtake-apple-as-the-world-s-largest-company-in-24.html#tk.rss_all)
 - [15 little-known Google Assistant tricks for Android](https://www.computerworld.com/article/3639844/google-assistant-android-tricks.html#tk.rss_all)
 - [Essential AI reveals funding, development of full-stack AI automation tools](https://www.computerworld.com/article/3711620/essential-ai-reveals-funding-development-of-full-stack-ai-automation-tools.html#tk.rss_all)
-- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
-- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

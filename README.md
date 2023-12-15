@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Jerry &lpar;YC S17&rpar; Is Hiring Sr Software Engineers and Other Roles &lpar;Remote&rpar;](https://jobs.ashbyhq.com/Jerry/62e5f7b1-0a09-460a-8135-bf1f091a9394)
-- [The average store size in the US is the smallest it&#39;s been in at least 17 years](https://www.wsj.com/real-estate/commercial/the-american-store-is-shrinking-7603e979)
-- [Roy Kerr: Do Black Holes Have Singularities?](https://arxiv.org/abs/2312.00841)
-- [Show HN: I scraped 25M Shopify products to build a search engine](https://www.searchagora.com/)
-- [Biscuit Authorization](https://www.biscuitsec.org/)
-- [New insights into neural end-of-life](https://neurosciencenews.com/death-brain-neuroscience-25356/)
-- [The limitations of deep learning &lpar;2017&rpar;](https://blog.keras.io/the-limitations-of-deep-learning.html)
-- [Remembering things that haven&#39;t happened yet](https://bessstillman.substack.com/p/remembering-things-that-havent-happened)
-- [Debugging a Failing Hotkey](https://tratt.net/laurie/blog/2023/debugging_a_failing_hotkey.html)
-- [Grap – Kernighan and Bentley&#39;s language for typesetting graphs &lpar;1984&rpar; [pdf]](https://doc.cat-v.org/unix/v8/grap.pdf)
+- [Scratch Data &lpar;YC S21&rpar; Is Hiring](https://www.ycombinator.com/companies/scratch-data/jobs/fyTdOHH-founding-software-engineer)
+- [Microsoft defends Edge&#39;s predatory practices with cringe, audacious reply on X](https://www.neowin.net/news/microsoft-defends-edges-predatory-practices-with-cringe-and-audacious-reply-on-x/)
+- [Google Groups ending support for Usenet](https://support.google.com/groups/answer/11036538?hl=en)
+- [The Stanford Prison Experiment was hugely influential. We learned it was a fraud &lpar;2018&rpar;](https://www.vox.com/2018/6/13/17449118/stanford-prison-experiment-fraud-psychology-replication)
+- [Show HN: Airdraw](https://www.airdraw.io/)
+- [Mitchell reflects as he departs HashiCorp](https://www.hashicorp.com/blog/mitchell-reflects-as-he-departs-hashicorp)
+- [Apple partly halts Beeper&#39;s iMessage app again, suggesting a long fight ahead](https://arstechnica.com/gadgets/2023/12/apple-partly-halts-beepers-imessage-app-again-suggesting-a-long-fight-ahead/)
+- [Magic: The Gathering Is Turing Complete &lpar;2019&rpar;](https://arxiv.org/abs/1904.09828)
+- [Open and portable Postgres-as-a-service. Also available on Hetzner](https://www.ubicloud.com/blog/open-and-portable-managed-postgresql-avail-hetzner)
+- [Show HN: Hacker News Git Blame](https://www.hngitblame.com/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

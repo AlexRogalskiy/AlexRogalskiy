@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: Never Apply Again](https://news.ycombinator.com/item?id=38637006)
-- [Google Obviating Geofence Warrants?](http://fourthamendment.com/?p=56528)
-- [The Case for Agile 2 &lpar;Agile is deeply broken&rpar;](https://agile2.net/how-we-got-here/the-case-for-agile-2/)
-- [GM&#39;s Cruise robotaxi unit dismisses nine &#39;key leaders&#39; amid safety investigation](https://www.cnbc.com/2023/12/13/gms-cruise-dismisses-nine-key-leaders-amid-safety-probe.html)
-- [Major Outage on ChatGPT on Web](https://status.openai.com/incidents/myrbs3mvcxn1)
-- [Man jumps into Indian parliament, sets off smoke can in major security breach](https://www.reuters.com/world/india/security-breach-indian-parliament-man-jumps-into-lawmakerss-area-2023-12-13/)
-- [I Got Lost in Bangalore&#39;s Tech Workforce](https://www.integritytalk.blog/p/i-got-lost-in-bangalores-tech-workforce)
-- [The Predictability Trap](https://cutlefish.substack.com/p/tbm-259-the-predictability-trap)
-- [Apollo Core Rope Memory &lpar;Apollo Guidance Computer Part 30&rpar; [video]](https://www.youtube.com/watch?v=hckwxq8rnr0)
-- [New tax rules on R&amp;D expenses may lead to layoffs for devs](https://www.wsj.com/articles/the-tax-rule-change-that-is-threatening-businesses-survival-a9236658)
+- [Octo: An Open-Source Generalist Robot Policy](https://octo-models.github.io/)
+- [Cash is no longer king. So will we soon be charged for using it?](https://soundcloud.com/peterryan-3/edit-cash-bullock-351)
+- [App Store Rankings as a Proxy for Social Network Momentum](https://daringfireball.net/2023/12/app_store_rankings_as_a_proxy_for_social_network_momentum)
+- [Neural General Circulation Models](https://arxiv.org/abs/2311.07222)
+- [An environmental analysis of public UAP sightings and sky view potential](https://www.nature.com/articles/s41598-023-49527-x)
+- [Pytest Daemon: 10x Local Test Iteration Speed](https://discord.com/blog/pytest-daemon-10x-local-test-iteration-speed)
+- [AARNet CloudStor Decommissioned Today](https://support.aarnet.edu.au/hc/en-us/articles/5697089309711-Decommissioning-CloudStor-)
+- [We Can Be Heroes](https://nautil.us/we-can-be-heroes-463756/)
+- [Japan ruling parties propose taxing platforms instead of overseas app sellers](https://www3.nhk.or.jp/nhkworld/en/news/20231214_31/)
+- [GitHub Unwrapped – Your coding year in review](https://githubunwrapped.com/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

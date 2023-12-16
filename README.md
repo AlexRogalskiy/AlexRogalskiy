@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [For December, an exceptionally light Patch Tuesday](https://www.computerworld.com/article/3711800/for-december-an-exceptionally-light-patch-tuesday.html#tk.rss_all)
+- [New EU rules mean every tech firm will want to impress Mother Earth](https://www.computerworld.com/article/3711744/new-eu-rules-mean-every-tech-firm-will-want-to-impress-mother-earth.html#tk.rss_all)
+- [Andreessen Horowitz will pay politicians to deregulate AI and crypto](https://www.computerworld.com/article/3711743/andreessen-horowitz-will-pay-politicians-to-deregulate-ai-and-crypto.html#tk.rss_all)
+- [Why do companies do holiday layoffs?](https://www.computerworld.com/article/3711444/why-do-companies-do-holiday-layoffs.html#tk.rss_all)
 - [Salesforce and Apple are ready for enterprise AR](https://www.computerworld.com/article/3711741/salesforce-and-apple-are-ready-for-enterprise-ar.html#tk.rss_all)
 - [Adobe anticipates ‘significant penalty’ for complex cancellation practices](https://www.computerworld.com/article/3711760/adobe-anticipates-significant-penalty-for-complex-cancellation-practices.html#tk.rss_all)
 - [Managing rapid-fire Windows updates](https://www.computerworld.com/article/3711520/managing-rapid-fire-windows-updates.html#tk.rss_all)
 - [Internet traffic soars in 2023, with generative AI a standout trend: Report](https://www.computerworld.com/article/3711722/internet-traffic-soars-in-2023-with-generative-ai-a-standout-trend-report.html#tk.rss_all)
 - [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
 - [Microsoft unveils Phi-2, the next of its smaller, more nimble genAI models](https://www.computerworld.com/article/3711701/microsoft-unveils-phi-2-the-next-of-its-smaller-more-nimble-genai-models.html#tk.rss_all)
-- [What is Stolen Device Protection for iPhone and how does it work?](https://www.computerworld.com/article/3711700/what-is-stolen-device-protection-for-iphone-and-how-does-it-work.html#tk.rss_all)
-- [Microsoft will overtake Apple as the world’s largest company in &#39;24](https://www.computerworld.com/article/3711565/microsoft-will-overtake-apple-as-the-world-s-largest-company-in-24.html#tk.rss_all)
-- [15 little-known Google Assistant tricks for Android](https://www.computerworld.com/article/3639844/google-assistant-android-tricks.html#tk.rss_all)
-- [Essential AI reveals funding, development of full-stack AI automation tools](https://www.computerworld.com/article/3711620/essential-ai-reveals-funding-development-of-full-stack-ai-automation-tools.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

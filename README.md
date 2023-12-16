@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Octo: An Open-Source Generalist Robot Policy](https://octo-models.github.io/)
-- [Cash is no longer king. So will we soon be charged for using it?](https://soundcloud.com/peterryan-3/edit-cash-bullock-351)
-- [App Store Rankings as a Proxy for Social Network Momentum](https://daringfireball.net/2023/12/app_store_rankings_as_a_proxy_for_social_network_momentum)
-- [Neural General Circulation Models](https://arxiv.org/abs/2311.07222)
-- [An environmental analysis of public UAP sightings and sky view potential](https://www.nature.com/articles/s41598-023-49527-x)
-- [Pytest Daemon: 10x Local Test Iteration Speed](https://discord.com/blog/pytest-daemon-10x-local-test-iteration-speed)
-- [AARNet CloudStor Decommissioned Today](https://support.aarnet.edu.au/hc/en-us/articles/5697089309711-Decommissioning-CloudStor-)
-- [We Can Be Heroes](https://nautil.us/we-can-be-heroes-463756/)
-- [Japan ruling parties propose taxing platforms instead of overseas app sellers](https://www3.nhk.or.jp/nhkworld/en/news/20231214_31/)
-- [GitHub Unwrapped – Your coding year in review](https://githubunwrapped.com/)
+- [Intel shows Gaudi3 AI accelerator, promising quadruple BF16 performance in 2024](https://www.tomshardware.com/news/intel-gaudi3-ai-accelerator)
+- [Securing the Fundamentals: Our Support for Log4j](https://www.sovereigntechfund.de/news/log4j-investment)
+- [Show HN: Vaulted – Unreleased Media Marketplace](https://tryvaulted.com/)
+- [New Tax Rule Is Terrible for Software Industry](https://www.onlycfo.io/p/new-tax-rule-is-terrible-for-software)
+- [What employees spend their learning stipends on](https://www.stipends.fyi/)
+- [You don&#39;t need flake-utils](https://ayats.org/blog/no-flake-utils/)
+- [Demystifying Diffusion Models](https://developer.nvidia.com/blog/generative-ai-research-spotlight-demystifying-diffusion-based-models/)
+- [Federal Regulators Want Starbucks to Reopen Six Stores](https://la.eater.com/2023/12/15/24002949/federal-government-forces-starbucks-reopen-stores-los-angeles-union-busting-intimidation-tactic)
+- [Rayed BQN: a game framework ported to an APL-like language](https://github.com/Brian-ED/rayed-bqn)
+- [Allotropes of Iron](https://en.wikipedia.org/wiki/Allotropes_of_iron)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

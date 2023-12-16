@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Israel-Gaza war live: Palestinian Authority ‘will look to ultimately have role’ in Gaza, says US official](https://www.theguardian.com/world/live/2023/dec/14/israel-gaza-war-live-updates-hamas-leader-power-palestine)
-- [Flying hurts the planet but it’s vital for island tourism. Is there a greener way? | Susanne Becken](https://www.theguardian.com/world/2023/dec/15/cop28-agreement-electric-aviation-renewable-energy)
-- [Four-month-old survives being sucked into a tornado in Tennessee](https://www.theguardian.com/us-news/2023/dec/14/tennessee-baby-survives-being-sucked-into-tornado)
-- [Short hops and economy class: five expert tips on how to reduce your emissions on holiday](https://www.theguardian.com/world/2023/dec/15/sustainable-tourism-expert-tips-how-to-reduce-carbon-emissions-footprint-offset-schemes-travel-holiday-pacific-islands)
-- [Asylum seekers housed at ex-RAF base tried to kill themselves, finds study](https://www.theguardian.com/uk-news/2023/dec/15/asylum-seekers-housed-at-ex-raf-base-wethersfield-tried-to-kill-themselves-finds-study)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2023/dec/15/premier-league-10-things-to-look-out-for-this-weekend)
-- [British boy missing since 2017 Spanish holiday found in France](https://www.theguardian.com/uk-news/2023/dec/14/british-boy-missing-since-2017-spanish-holiday-found-in-france)
-- [‘Long flu’: study finds flu patients at higher risk of longer-term illness](https://www.theguardian.com/society/2023/dec/14/long-flu-study-finds-flu-patients-at-higher-risk-of-longer-term-illness)
-- [Stranger Things: The First Shadow review – breathtaking theatre](https://www.theguardian.com/stage/2023/dec/14/stranger-things-the-first-shadow-review-phoenix-theatre-duffer-brothers)
-- [Curb Your Enthusiasm: Larry David comedy to end after 12 seasons](https://www.theguardian.com/tv-and-radio/2023/dec/15/curb-your-enthusiasm-final-season-12-tv-hbo-ending-larry-david-comedy-to-end)
+- [Macbeth review – David Tennant thrills in this high-concept production](https://www.theguardian.com/stage/2023/dec/16/macbeth-review-david-tennant-thrills-in-this-high-concept-production)
+- [Rudy Giuliani defamation trial: key moments at a glance](https://www.theguardian.com/us-news/2023/dec/15/rudy-giuliani-defamation-trial-verdict-what-to-know)
+- [PDC world darts: Michael Smith given scare by Kevin Doets on opening night](https://www.theguardian.com/sport/2023/dec/15/pdc-world-darts-michael-smith-simon-whitlock)
+- [BBC shelves Question of Sport, blaming ‘funding challenges’](https://www.theguardian.com/media/2023/dec/15/bbc-shelves-question-of-sport-blaming-funding-difficulties)
+- [Communicate, negotiate and set a ‘kiss alarm’: bringing the spark back in long-term relationships | Intimate details](https://www.theguardian.com/lifeandstyle/2023/dec/16/communicate-negotiate-and-set-a-kiss-alarm-bringing-the-spark-back-in-long-term-relationships)
+- [Matthew Perry died of ‘acute effects of ketamine’, autopsy report says](https://www.theguardian.com/tv-and-radio/2023/dec/15/matthew-perry-cause-of-death-ketamine-autopsy)
+- [Lockett’s late try edges Northampton to Champions Cup win against Toulon](https://www.theguardian.com/sport/2023/dec/15/northampton-toulon-champions-cup-rugby-union-match-report)
+- [Rudy Giuliani ordered to pay $148.1m in damages for lies about election workers](https://www.theguardian.com/us-news/2023/dec/15/rudy-giuliani-pay-damages-election-workers-defamation-trial)
+- [Former Pennsylvania mayor imprisoned for shooting at Pokémon Go players](https://www.theguardian.com/us-news/2023/dec/15/former-pennsylvania-mayor-imprisoned-shooting-pokemon-go)
+- [Binder of classified material on Russia reportedly went missing in final Trump days](https://www.theguardian.com/us-news/2023/dec/15/classified-russia-documents-missing-trump)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Scratch Data &lpar;YC S21&rpar; Is Hiring](https://www.ycombinator.com/companies/scratch-data/jobs/fyTdOHH-founding-software-engineer)
-- [Microsoft defends Edge&#39;s predatory practices with cringe, audacious reply on X](https://www.neowin.net/news/microsoft-defends-edges-predatory-practices-with-cringe-and-audacious-reply-on-x/)
-- [Google Groups ending support for Usenet](https://support.google.com/groups/answer/11036538?hl=en)
-- [The Stanford Prison Experiment was hugely influential. We learned it was a fraud &lpar;2018&rpar;](https://www.vox.com/2018/6/13/17449118/stanford-prison-experiment-fraud-psychology-replication)
-- [Show HN: Airdraw](https://www.airdraw.io/)
-- [Mitchell reflects as he departs HashiCorp](https://www.hashicorp.com/blog/mitchell-reflects-as-he-departs-hashicorp)
-- [Apple partly halts Beeper&#39;s iMessage app again, suggesting a long fight ahead](https://arstechnica.com/gadgets/2023/12/apple-partly-halts-beepers-imessage-app-again-suggesting-a-long-fight-ahead/)
-- [Magic: The Gathering Is Turing Complete &lpar;2019&rpar;](https://arxiv.org/abs/1904.09828)
-- [Open and portable Postgres-as-a-service. Also available on Hetzner](https://www.ubicloud.com/blog/open-and-portable-managed-postgresql-avail-hetzner)
-- [Show HN: Hacker News Git Blame](https://www.hngitblame.com/)
+- [InpharmD &lpar;YC W21&rpar; Is Hiring – NLP/ML Engineer](https://www.inpharmd.com/jobs/inpharmd-is-hiring-ai-ml-engineer)
+- [Google will no longer hold onto people&#39;s location data in Google Maps](https://www.businessinsider.com/google-maps-location-data-history-stored-locally-2023-12)
+- [Tortured conference series thriving in computer science](https://hal.science/hal-04311585v1)
+- [New plans for self-hosted Zulip customers](https://blog.zulip.com/2023/12/15/new-plans-for-self-hosted-customers/)
+- [Noteable.io is shutting down](https://community.noteable.io/c/announcements-4da7da/noteable-is-terminating-its-platform-and-services)
+- [Secureblue: Hardened Immutable Fedora Images](https://github.com/secureblue/secureblue)
+- [Maersk and Hapag-Lloyd to avoid Red Sea after surge in missile and drone attacks](https://www.tradewindsnews.com/containers/maersk-and-hapag-lloyd-to-avoid-red-sea-after-surge-in-attacks/2-1-1572369?zephr_sso_ott=4vVG4P)
+- [First look at asteroid dust brought to Earth offers surprises](https://www.nature.com/articles/d41586-023-03978-4)
+- [Smallest USB-C MIDI Synth](https://mitxela.com/projects/smsc)
+- [Leave work slightly unfinished for easier flow the next day](https://read.engineerscodex.com/p/simple-software-engineering-habits)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

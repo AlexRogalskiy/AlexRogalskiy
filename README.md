@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Macbeth review – David Tennant thrills in this high-concept production](https://www.theguardian.com/stage/2023/dec/16/macbeth-review-david-tennant-thrills-in-this-high-concept-production)
-- [Rudy Giuliani defamation trial: key moments at a glance](https://www.theguardian.com/us-news/2023/dec/15/rudy-giuliani-defamation-trial-verdict-what-to-know)
-- [PDC world darts: Michael Smith given scare by Kevin Doets on opening night](https://www.theguardian.com/sport/2023/dec/15/pdc-world-darts-michael-smith-simon-whitlock)
-- [BBC shelves Question of Sport, blaming ‘funding challenges’](https://www.theguardian.com/media/2023/dec/15/bbc-shelves-question-of-sport-blaming-funding-difficulties)
-- [Communicate, negotiate and set a ‘kiss alarm’: bringing the spark back in long-term relationships | Intimate details](https://www.theguardian.com/lifeandstyle/2023/dec/16/communicate-negotiate-and-set-a-kiss-alarm-bringing-the-spark-back-in-long-term-relationships)
-- [Matthew Perry died of ‘acute effects of ketamine’, autopsy report says](https://www.theguardian.com/tv-and-radio/2023/dec/15/matthew-perry-cause-of-death-ketamine-autopsy)
-- [Lockett’s late try edges Northampton to Champions Cup win against Toulon](https://www.theguardian.com/sport/2023/dec/15/northampton-toulon-champions-cup-rugby-union-match-report)
-- [Rudy Giuliani ordered to pay $148.1m in damages for lies about election workers](https://www.theguardian.com/us-news/2023/dec/15/rudy-giuliani-pay-damages-election-workers-defamation-trial)
-- [Former Pennsylvania mayor imprisoned for shooting at Pokémon Go players](https://www.theguardian.com/us-news/2023/dec/15/former-pennsylvania-mayor-imprisoned-shooting-pokemon-go)
-- [Binder of classified material on Russia reportedly went missing in final Trump days](https://www.theguardian.com/us-news/2023/dec/15/classified-russia-documents-missing-trump)
+- [World watches as landmark Jimmy Lai trial set to begin in Hong Kong](https://www.theguardian.com/world/2023/dec/17/jimmy-lai-trial-begins-hong-kong)
+- [Israel-Gaza war: UK and Germany call for ‘sustainable’ ceasefire](https://www.theguardian.com/world/2023/dec/16/idf-says-hostages-it-killed-were-bare-chested-and-waving-white-flag)
+- [Head room: Wrap up the season with a fashion hoodie](https://www.theguardian.com/fashion/2023/dec/16/head-room-wrap-up-the-season-with-a-fashion-hoodie)
+- [Party time: A guide to dressing up this festive season for all ages – in pictures](https://www.theguardian.com/fashion/gallery/2023/dec/16/party-time-a-guide-to-dressing-up-this-festive-season-for-all-ages-in-pictures)
+- [We Love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2023/dec/16/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [PDC World Darts: Gary Anderson beats Simon Whitlock to reach third round](https://www.theguardian.com/sport/2023/dec/16/pdc-world-darts-gary-anderson-beats-simon-whitlock-to-reach-third-round)
+- [Cambridge University reportedly could drop Barclays in favour of greener bank](https://www.theguardian.com/education/2023/dec/16/cambridge-university-reportedly-could-drop-barclays-in-favour-of-greener-bank)
+- [Disco: Soundtrack of a Revolution review – an absolute feast of a music documentary](https://www.theguardian.com/tv-and-radio/2023/dec/16/disco-soundtrack-of-a-revolution-review-an-absolute-feast-of-a-music-documentary)
+- [‘A free and dignified life’: the regional Australian communities welcoming refugees](https://www.theguardian.com/australia-news/2023/dec/17/a-free-and-dignified-life-the-regional-australian-communities-welcoming-refugees)
+- [Trump tells rally immigrants are ‘poisoning the blood of our country’](https://www.theguardian.com/us-news/2023/dec/16/trump-immigrants-new-hampshire-rally)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [InpharmD &lpar;YC W21&rpar; Is Hiring – NLP/ML Engineer](https://www.inpharmd.com/jobs/inpharmd-is-hiring-ai-ml-engineer)
-- [Google will no longer hold onto people&#39;s location data in Google Maps](https://www.businessinsider.com/google-maps-location-data-history-stored-locally-2023-12)
-- [Tortured conference series thriving in computer science](https://hal.science/hal-04311585v1)
-- [New plans for self-hosted Zulip customers](https://blog.zulip.com/2023/12/15/new-plans-for-self-hosted-customers/)
-- [Noteable.io is shutting down](https://community.noteable.io/c/announcements-4da7da/noteable-is-terminating-its-platform-and-services)
-- [Secureblue: Hardened Immutable Fedora Images](https://github.com/secureblue/secureblue)
-- [Maersk and Hapag-Lloyd to avoid Red Sea after surge in missile and drone attacks](https://www.tradewindsnews.com/containers/maersk-and-hapag-lloyd-to-avoid-red-sea-after-surge-in-attacks/2-1-1572369?zephr_sso_ott=4vVG4P)
-- [First look at asteroid dust brought to Earth offers surprises](https://www.nature.com/articles/d41586-023-03978-4)
-- [Smallest USB-C MIDI Synth](https://mitxela.com/projects/smsc)
-- [Leave work slightly unfinished for easier flow the next day](https://read.engineerscodex.com/p/simple-software-engineering-habits)
+- [Unlogged &lpar;YC S22&rpar; Is Hiring to automate regression testing](https://news.ycombinator.com/item?id=38669395)
+- [Hasbro laying off Wizards of the Coast staff is baffling](https://www.geekwire.com/2023/hasbro-laying-off-wizards-of-the-coast-staff-is-baffling-and-could-lead-to-a-brain-drain/)
+- [Would it be possible to detect an industrial civilization in geological record?](https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/silurian-hypothesis-would-it-be-possible-to-detect-an-industrial-civilization-in-the-geological-record/77818514AA6907750B8F4339F7C70EC6)
+- [Transformers on Chips](https://www.etched.ai)
+- [Intel, Samsung, and TSMC Demo 3D-Stacked Transistors](https://spectrum.ieee.org/cfet-intel-samsung-tsmc)
+- [Tastes Are a Point in Space](https://dynomight.substack.com/p/class)
+- [ASML and Samsung seal deal on 2nm chips](https://www.koreaherald.com/view.php?ud=20231215000518)
+- [How the Feds bounced Binance](https://www.programmablemutter.com/p/how-the-feds-bounced-binance)
+- [S3 Express One Zone, Not Quite What I Hoped For](https://jack-vanlightly.com/blog/2023/11/29/s3-express-one-zone-not-quite-what-i-hoped-for)
+- [A guide to technical report writing [pdf]](https://ias.ieee.org/wp-content/uploads/2023/06/2020-01-16_IET_Technical_Report_Writing_Guidelines.pdf)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

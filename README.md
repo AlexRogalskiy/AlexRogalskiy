@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Intel shows Gaudi3 AI accelerator, promising quadruple BF16 performance in 2024](https://www.tomshardware.com/news/intel-gaudi3-ai-accelerator)
-- [Securing the Fundamentals: Our Support for Log4j](https://www.sovereigntechfund.de/news/log4j-investment)
-- [Show HN: Vaulted – Unreleased Media Marketplace](https://tryvaulted.com/)
-- [New Tax Rule Is Terrible for Software Industry](https://www.onlycfo.io/p/new-tax-rule-is-terrible-for-software)
-- [What employees spend their learning stipends on](https://www.stipends.fyi/)
-- [You don&#39;t need flake-utils](https://ayats.org/blog/no-flake-utils/)
-- [Demystifying Diffusion Models](https://developer.nvidia.com/blog/generative-ai-research-spotlight-demystifying-diffusion-based-models/)
-- [Federal Regulators Want Starbucks to Reopen Six Stores](https://la.eater.com/2023/12/15/24002949/federal-government-forces-starbucks-reopen-stores-los-angeles-union-busting-intimidation-tactic)
-- [Rayed BQN: a game framework ported to an APL-like language](https://github.com/Brian-ED/rayed-bqn)
-- [Allotropes of Iron](https://en.wikipedia.org/wiki/Allotropes_of_iron)
+- [ChatGPT DDoS attackers: we&#39;ll continue TIL it stops &#39;dehumanizing&#39; Palestinians](https://www.businessinsider.nl/hackers-behind-recent-chatgpt-outage-say-theyll-target-the-ai-bot-until-it-stops-dehumanizing-palestinians/)
+- [Tor.com Reviewers&#39; Choice: The Best Books of 2023](https://www.tor.com/2023/12/13/tor-com-reviewers-choice-the-best-books-of-2023/)
+- [Pain is not the unit of Effort](https://www.lesswrong.com/posts/bx3gkHJehRCYZAF3r/pain-is-not-the-unit-of-effort)
+- [Commercial wind turbines and residential home values](https://www.sciencedirect.com/science/article/pii/S0301421523004226)
+- [Epic beats Google but not Apple](https://www.theguardian.com/technology/2023/dec/16/epic-games-antitrust-google-apple)
+- [Ozempic Can&#39;t Fix America&#39;s Obesity Crisis](https://time.com/6332910/ozempic-americas-obesity-crisis/)
+- [The Ups and Downs of Knowing of the Great White Brotherhood](https://lovehumanity.gitlab.io/the-ups-and-downs-of-knowing-of-the-great-white-brotherhood/)
+- [Don&#39;t Be an Evolutionary Programmer](https://software.rajivprab.com/2018/04/29/dont-be-an-evolutionary-programmer/)
+- [Opposed to Bill S-210, a Canadian bill that may introduce internet censorship](https://fev.al/posts/opposed-to-s210/)
+- [Ask HN: How to extract data from insulin pump?](https://news.ycombinator.com/item?id=38669588)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

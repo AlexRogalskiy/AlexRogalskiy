@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [World watches as landmark Jimmy Lai trial set to begin in Hong Kong](https://www.theguardian.com/world/2023/dec/17/jimmy-lai-trial-begins-hong-kong)
-- [Israel-Gaza war: UK and Germany call for ‘sustainable’ ceasefire](https://www.theguardian.com/world/2023/dec/16/idf-says-hostages-it-killed-were-bare-chested-and-waving-white-flag)
-- [Head room: Wrap up the season with a fashion hoodie](https://www.theguardian.com/fashion/2023/dec/16/head-room-wrap-up-the-season-with-a-fashion-hoodie)
-- [Party time: A guide to dressing up this festive season for all ages – in pictures](https://www.theguardian.com/fashion/gallery/2023/dec/16/party-time-a-guide-to-dressing-up-this-festive-season-for-all-ages-in-pictures)
-- [We Love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2023/dec/16/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [PDC World Darts: Gary Anderson beats Simon Whitlock to reach third round](https://www.theguardian.com/sport/2023/dec/16/pdc-world-darts-gary-anderson-beats-simon-whitlock-to-reach-third-round)
-- [Cambridge University reportedly could drop Barclays in favour of greener bank](https://www.theguardian.com/education/2023/dec/16/cambridge-university-reportedly-could-drop-barclays-in-favour-of-greener-bank)
-- [Disco: Soundtrack of a Revolution review – an absolute feast of a music documentary](https://www.theguardian.com/tv-and-radio/2023/dec/16/disco-soundtrack-of-a-revolution-review-an-absolute-feast-of-a-music-documentary)
-- [‘A free and dignified life’: the regional Australian communities welcoming refugees](https://www.theguardian.com/australia-news/2023/dec/17/a-free-and-dignified-life-the-regional-australian-communities-welcoming-refugees)
-- [Trump tells rally immigrants are ‘poisoning the blood of our country’](https://www.theguardian.com/us-news/2023/dec/16/trump-immigrants-new-hampshire-rally)
+- [Israel-Gaza war live: Israeli strikes kill 90 Palestinians in Jabalia refugee camp, says Gaza health ministry](https://www.theguardian.com/world/live/2023/dec/17/israel-gaza-war-live-netanyahu-says-government-committed-as-ever-to-war-in-gaza-as-uk-and-germany-call-for-ceasefire)
+- [Warren Beatty: judge throws out lawsuit alleging actor sexually abused teen girl in 1973](https://www.theguardian.com/film/2023/dec/18/warren-beatty-sexual-abuse-lawsuit-dismissed-thrown-out)
+- [Chile votes to reject new conservative constitution which threatened rights of women](https://www.theguardian.com/world/2023/dec/18/chile-votes-reject-conservative-constitution-referendum-womens-rights)
+- [North Korea launches ballistic missiles after US and South Korea bolster nuclear deterrence plans](https://www.theguardian.com/world/2023/dec/18/north-korea-launches-ballistic-missiles-after-us-and-south-korea-bolster-nuclear-deterrence-plans)
+- [Four in five UK immigration detainees released not deported, monitor says](https://www.theguardian.com/uk-news/2023/dec/18/four-in-five-uk-immigration-detainees-released-not-deported-monitor-says)
+- [Patients’ experiences of disease should be taken more seriously, says study](https://www.theguardian.com/society/2023/dec/18/patients-experiences-of-disease-should-be-taken-more-seriously-says-study)
+- [Climate groups begin legal actions against Rosebank North Sea oil project](https://www.theguardian.com/environment/2023/dec/18/climate-groups-begin-legal-actions-against-rosebank-north-sea-oil-project)
+- [‘Gamechanging’ drug to prevent hot flushes wins approval in UK](https://www.theguardian.com/society/2023/dec/18/veoza-fezolinetant-menopause-drug-hot-flushes-wins-uk-approval)
+- [Ministers hope £64bn funding boost will stave off more local council bankruptcies](https://www.theguardian.com/society/2023/dec/17/ministers-hope-64bn-funding-boost-will-stave-off-more-local-council-bankruptcies)
+- [PDC world darts: Humphries wins ‘hardest game’ but Sherrock crashes out](https://www.theguardian.com/sport/2023/dec/17/pdc-world-darts-luke-humphries-bests-lee-evans-to-reach-third-round)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

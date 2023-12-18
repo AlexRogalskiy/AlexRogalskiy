@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [ChatGPT DDoS attackers: we&#39;ll continue TIL it stops &#39;dehumanizing&#39; Palestinians](https://www.businessinsider.nl/hackers-behind-recent-chatgpt-outage-say-theyll-target-the-ai-bot-until-it-stops-dehumanizing-palestinians/)
-- [Tor.com Reviewers&#39; Choice: The Best Books of 2023](https://www.tor.com/2023/12/13/tor-com-reviewers-choice-the-best-books-of-2023/)
-- [Pain is not the unit of Effort](https://www.lesswrong.com/posts/bx3gkHJehRCYZAF3r/pain-is-not-the-unit-of-effort)
-- [Commercial wind turbines and residential home values](https://www.sciencedirect.com/science/article/pii/S0301421523004226)
-- [Epic beats Google but not Apple](https://www.theguardian.com/technology/2023/dec/16/epic-games-antitrust-google-apple)
-- [Ozempic Can&#39;t Fix America&#39;s Obesity Crisis](https://time.com/6332910/ozempic-americas-obesity-crisis/)
-- [The Ups and Downs of Knowing of the Great White Brotherhood](https://lovehumanity.gitlab.io/the-ups-and-downs-of-knowing-of-the-great-white-brotherhood/)
-- [Don&#39;t Be an Evolutionary Programmer](https://software.rajivprab.com/2018/04/29/dont-be-an-evolutionary-programmer/)
-- [Opposed to Bill S-210, a Canadian bill that may introduce internet censorship](https://fev.al/posts/opposed-to-s210/)
-- [Ask HN: How to extract data from insulin pump?](https://news.ycombinator.com/item?id=38669588)
+- [Significantly Enhancing Adult Intelligence with Gene Editing May Be Possible](https://www.lesswrong.com/posts/JEhW3HDMKzekDShva/significantly-enhancing-adult-intelligence-with-gene-editing)
+- [Ukrainian strikes have changed Russian naval operations in the Black Sea](https://www.understandingwar.org/backgrounder/ukrainian-strikes-have-changed-russian-naval-operations-black-sea)
+- [Mickey and the Pirates &lpar;2020&rpar;](https://library.osu.edu/site/40stories/2020/01/15/mickey-and-the-pirates/)
+- [Flexport CEO: Houthi rebel attacks create uncertainty for global shipping](https://twitter.com/typesfast/status/1736468925469323620)
+- [We&#39;re Making Roblox&#39;s Infrastructure More Efficient and Resilient](https://blog.roblox.com/2023/12/making-robloxs-infrastructure-efficient-resilient/)
+- [Line Array](https://en.wikipedia.org/wiki/Line_array)
+- [Bricks Can Absorb Traffic Noise – Thesis Preso on Helmholtz Resonators [video]](https://www.youtube.com/watch?v=y9-p4AkgVU8)
+- [Youth Liberation](https://theanarchistlibrary.org/library/i-an-ok-ta-chai-youth-liberation)
+- [GoToFile is a fast, flexible and accurate utility to find files+folders on macOS](https://www.soma-zone.com/GoToFile/)
+- [Planned 1960s self-contained British city off Norfolk coast [video]](https://www.bbc.com/news/av/uk-england-norfolk-67726745)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Unlogged &lpar;YC S22&rpar; Is Hiring to automate regression testing](https://news.ycombinator.com/item?id=38669395)
-- [Hasbro laying off Wizards of the Coast staff is baffling](https://www.geekwire.com/2023/hasbro-laying-off-wizards-of-the-coast-staff-is-baffling-and-could-lead-to-a-brain-drain/)
-- [Would it be possible to detect an industrial civilization in geological record?](https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/silurian-hypothesis-would-it-be-possible-to-detect-an-industrial-civilization-in-the-geological-record/77818514AA6907750B8F4339F7C70EC6)
-- [Transformers on Chips](https://www.etched.ai)
-- [Intel, Samsung, and TSMC Demo 3D-Stacked Transistors](https://spectrum.ieee.org/cfet-intel-samsung-tsmc)
-- [Tastes Are a Point in Space](https://dynomight.substack.com/p/class)
-- [ASML and Samsung seal deal on 2nm chips](https://www.koreaherald.com/view.php?ud=20231215000518)
-- [How the Feds bounced Binance](https://www.programmablemutter.com/p/how-the-feds-bounced-binance)
-- [S3 Express One Zone, Not Quite What I Hoped For](https://jack-vanlightly.com/blog/2023/11/29/s3-express-one-zone-not-quite-what-i-hoped-for)
-- [A guide to technical report writing [pdf]](https://ias.ieee.org/wp-content/uploads/2023/06/2020-01-16_IET_Technical_Report_Writing_Guidelines.pdf)
+- [AMD MI300X 30% higher performance than Nvidia H100, even with optimized stack](https://www.tomshardware.com/pc-components/gpus/amd-strikes-back-at-nvidia-with-new-mi300x-benchmarks-mi300x-shows-30-higher-performance-than-h100-even-with-an-optimized-software-stack)
+- [Mickey, Disney, and the public domain: A 95-year love triangle](https://web.law.duke.edu/cspd/mickey/)
+- [Tracking Java Native Memory with JDK Flight Recorder](https://www.morling.dev/blog/tracking-java-native-memory-with-jdk-flight-recorder/)
+- [Reindeer can see UV light](https://journals.sagepub.com/doi/full/10.1177/20416695231218520)
+- [“Yes” means “no”: The language of VCs](https://jacobbartlett.substack.com/p/yes-actually-means-no-the-curious)
+- [0% of the phrases of the original Wikipedia &quot;Ship of Theseus&quot; article remain](https://twitter.com/depthsofwiki/status/1735800801455419697)
+- [Fsearch, a fast file search utility for Unix-like systems](https://github.com/cboxdoerfer/fsearch)
+- [ArtBot for Stable Diffusion](https://tinybots.net/artbot)
+- [Perl Poetry Generators in 256 Characters](https://nickm.com/poems/ppg256.html)
+- [NaiveSystems Analyze – FOSS static analyzer for MISRA C/C++, AUTOSAR C++14, etc.](https://github.com/naivesystems/analyze)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

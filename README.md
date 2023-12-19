@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Israel-Gaza war live: Israeli strikes kill 90 Palestinians in Jabalia refugee camp, says Gaza health ministry](https://www.theguardian.com/world/live/2023/dec/17/israel-gaza-war-live-netanyahu-says-government-committed-as-ever-to-war-in-gaza-as-uk-and-germany-call-for-ceasefire)
-- [Warren Beatty: judge throws out lawsuit alleging actor sexually abused teen girl in 1973](https://www.theguardian.com/film/2023/dec/18/warren-beatty-sexual-abuse-lawsuit-dismissed-thrown-out)
-- [Chile votes to reject new conservative constitution which threatened rights of women](https://www.theguardian.com/world/2023/dec/18/chile-votes-reject-conservative-constitution-referendum-womens-rights)
-- [North Korea launches ballistic missiles after US and South Korea bolster nuclear deterrence plans](https://www.theguardian.com/world/2023/dec/18/north-korea-launches-ballistic-missiles-after-us-and-south-korea-bolster-nuclear-deterrence-plans)
-- [Four in five UK immigration detainees released not deported, monitor says](https://www.theguardian.com/uk-news/2023/dec/18/four-in-five-uk-immigration-detainees-released-not-deported-monitor-says)
-- [Patients’ experiences of disease should be taken more seriously, says study](https://www.theguardian.com/society/2023/dec/18/patients-experiences-of-disease-should-be-taken-more-seriously-says-study)
-- [Climate groups begin legal actions against Rosebank North Sea oil project](https://www.theguardian.com/environment/2023/dec/18/climate-groups-begin-legal-actions-against-rosebank-north-sea-oil-project)
-- [‘Gamechanging’ drug to prevent hot flushes wins approval in UK](https://www.theguardian.com/society/2023/dec/18/veoza-fezolinetant-menopause-drug-hot-flushes-wins-uk-approval)
-- [Ministers hope £64bn funding boost will stave off more local council bankruptcies](https://www.theguardian.com/society/2023/dec/17/ministers-hope-64bn-funding-boost-will-stave-off-more-local-council-bankruptcies)
-- [PDC world darts: Humphries wins ‘hardest game’ but Sherrock crashes out](https://www.theguardian.com/sport/2023/dec/17/pdc-world-darts-luke-humphries-bests-lee-evans-to-reach-third-round)
+- [Earthquake in north-west China kills at least 111](https://www.theguardian.com/world/2023/dec/19/china-earthquake-death-toll-magnitude-gansu-qinghai)
+- [Marvel and Disney drop actor Jonathan Majors hours after guilty assault verdict](https://www.theguardian.com/culture/2023/dec/18/marvel-disney-drop-jonathan-majors-guilty-assault-harassment-verdict)
+- [Esther Rantzen ‘considering assisted dying’ if cancer treatment fails](https://www.theguardian.com/tv-and-radio/2023/dec/19/esther-rantzen-considering-assisted-dying-if-cancer-treatment-fails)
+- [Michael Gove threatens action against English councils over housing plans](https://www.theguardian.com/politics/2023/dec/19/michael-gove-threatens-action-against-english-councils-over-housing-plans)
+- [Classes in character do little to narrow gap in pupil outcomes, says study](https://www.theguardian.com/education/2023/dec/19/classes-in-character-do-little-to-narrow-gap-in-pupil-outcomes-says-study)
+- [Imagine … Russell T Davies: The Doctor and Me review – a joyous profile of a blazingly brilliant writer](https://www.theguardian.com/tv-and-radio/2023/dec/18/imagine-russell-t-davies-the-doctor-and-me-review-a-joyous-profile-of-a-blazingly-brilliant-writer)
+- [PDC world darts: Gerwyn Price finally feels fans’ love on way past Connor Scutt](https://www.theguardian.com/sport/2023/dec/18/pdc-world-darts-gerwyn-price-beats-connor-scutt-to-ease-into-third-round)
+- [Iceland volcano: eruption begins on Reykjanes peninsula after weeks of activity](https://www.theguardian.com/world/2023/dec/19/iceland-volcano-eruption-reykjanes-peninsula-grindavik-blue-lagoon)
+- [Jonathan Majors found guilty of assault and harassment over domestic dispute](https://www.theguardian.com/culture/2023/dec/18/jonathan-majors-guilty-assault-trial-verdict)
+- [Monsanto ordered to pay $857m to ex-students of Seattle school for toxic leaks](https://www.theguardian.com/us-news/2023/dec/18/monsanto-verdict-857-million-seattle-school-pcb-chemical-leaks)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

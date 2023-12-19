@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Adobe, Figma pull the plug on $20 billion merger](https://www.computerworld.com/article/3711643/adobe-figma-pull-the-plug-on-20-billion-merger.html#tk.rss_all)
+- [What’s coming up from Apple in 2024?](https://www.computerworld.com/article/3711781/whats-coming-from-apple-in-2024.html#tk.rss_all)
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [Q&amp;A: Sedgwick exec lays out &#39;the baby steps to genAI adoption&#39;](https://www.computerworld.com/article/3711780/qa-sedgwick-exec-lays-out-the-baby-steps-to-genai-adoption.html#tk.rss_all)
 - [For December, an exceptionally light Patch Tuesday](https://www.computerworld.com/article/3711800/for-december-an-exceptionally-light-patch-tuesday.html#tk.rss_all)
 - [New EU rules mean every tech firm will want to impress Mother Earth](https://www.computerworld.com/article/3711744/new-eu-rules-mean-every-tech-firm-will-want-to-impress-mother-earth.html#tk.rss_all)
 - [Andreessen Horowitz will pay politicians to deregulate AI and crypto](https://www.computerworld.com/article/3711743/andreessen-horowitz-will-pay-politicians-to-deregulate-ai-and-crypto.html#tk.rss_all)
 - [Why do companies do holiday layoffs?](https://www.computerworld.com/article/3711444/why-do-companies-do-holiday-layoffs.html#tk.rss_all)
 - [Salesforce and Apple are ready for enterprise AR](https://www.computerworld.com/article/3711741/salesforce-and-apple-are-ready-for-enterprise-ar.html#tk.rss_all)
 - [Adobe anticipates ‘significant penalty’ for complex cancellation practices](https://www.computerworld.com/article/3711760/adobe-anticipates-significant-penalty-for-complex-cancellation-practices.html#tk.rss_all)
-- [Managing rapid-fire Windows updates](https://www.computerworld.com/article/3711520/managing-rapid-fire-windows-updates.html#tk.rss_all)
-- [Internet traffic soars in 2023, with generative AI a standout trend: Report](https://www.computerworld.com/article/3711722/internet-traffic-soars-in-2023-with-generative-ai-a-standout-trend-report.html#tk.rss_all)
-- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
-- [Microsoft unveils Phi-2, the next of its smaller, more nimble genAI models](https://www.computerworld.com/article/3711701/microsoft-unveils-phi-2-the-next-of-its-smaller-more-nimble-genai-models.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

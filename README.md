@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Significantly Enhancing Adult Intelligence with Gene Editing May Be Possible](https://www.lesswrong.com/posts/JEhW3HDMKzekDShva/significantly-enhancing-adult-intelligence-with-gene-editing)
-- [Ukrainian strikes have changed Russian naval operations in the Black Sea](https://www.understandingwar.org/backgrounder/ukrainian-strikes-have-changed-russian-naval-operations-black-sea)
-- [Mickey and the Pirates &lpar;2020&rpar;](https://library.osu.edu/site/40stories/2020/01/15/mickey-and-the-pirates/)
-- [Flexport CEO: Houthi rebel attacks create uncertainty for global shipping](https://twitter.com/typesfast/status/1736468925469323620)
-- [We&#39;re Making Roblox&#39;s Infrastructure More Efficient and Resilient](https://blog.roblox.com/2023/12/making-robloxs-infrastructure-efficient-resilient/)
-- [Line Array](https://en.wikipedia.org/wiki/Line_array)
-- [Bricks Can Absorb Traffic Noise – Thesis Preso on Helmholtz Resonators [video]](https://www.youtube.com/watch?v=y9-p4AkgVU8)
-- [Youth Liberation](https://theanarchistlibrary.org/library/i-an-ok-ta-chai-youth-liberation)
-- [GoToFile is a fast, flexible and accurate utility to find files+folders on macOS](https://www.soma-zone.com/GoToFile/)
-- [Planned 1960s self-contained British city off Norfolk coast [video]](https://www.bbc.com/news/av/uk-england-norfolk-67726745)
+- [UK browser investigation to restart Jan 24 after Apple fail to appeal](https://open-web-advocacy.org/blog/cma-reopens-investigation-into-apple/)
+- [Precision and Performance Analysis of C Standard Math Library Functions on GPUs](https://dl.acm.org/doi/10.1145/3624062.3624166)
+- [Kitco Cyber Security Incident](https://www.kitco.com/index.html)
+- [Midjourney API v2 by Useapi.net](https://useapi.net/docs/api-v2)
+- [Ex-Amazon engineer pleads guilty to hacking crypto exchanges $12.3M](https://www.bleepingcomputer.com/news/security/ex-amazon-engineer-pleads-guilty-to-hacking-crypto-exchanges/)
+- [SSH-Agent historical CVEs for attacker-controlled servers](https://nvd.nist.gov/vuln/search/results?form_type=Basic&results_type=overview&query=ssh-agent&search_type=all&isCpeNameSearch=false)
+- [Novo: All your business banking in one platform](https://www.novo.co/)
+- [Russian courts halt cases against Alexei Navalny after disappearance](https://www.theguardian.com/world/2023/dec/18/courts-halt-cases-against-alexei-navalny-after-disappearance-of-jailed-activist)
+- [Advancing State of the Art in Language Modeling](https://arxiv.org/abs/2312.03735)
+- [W3cubTools](https://tools.w3cub.com)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [AMD MI300X 30% higher performance than Nvidia H100, even with optimized stack](https://www.tomshardware.com/pc-components/gpus/amd-strikes-back-at-nvidia-with-new-mi300x-benchmarks-mi300x-shows-30-higher-performance-than-h100-even-with-an-optimized-software-stack)
-- [Mickey, Disney, and the public domain: A 95-year love triangle](https://web.law.duke.edu/cspd/mickey/)
-- [Tracking Java Native Memory with JDK Flight Recorder](https://www.morling.dev/blog/tracking-java-native-memory-with-jdk-flight-recorder/)
-- [Reindeer can see UV light](https://journals.sagepub.com/doi/full/10.1177/20416695231218520)
-- [“Yes” means “no”: The language of VCs](https://jacobbartlett.substack.com/p/yes-actually-means-no-the-curious)
-- [0% of the phrases of the original Wikipedia &quot;Ship of Theseus&quot; article remain](https://twitter.com/depthsofwiki/status/1735800801455419697)
-- [Fsearch, a fast file search utility for Unix-like systems](https://github.com/cboxdoerfer/fsearch)
-- [ArtBot for Stable Diffusion](https://tinybots.net/artbot)
-- [Perl Poetry Generators in 256 Characters](https://nickm.com/poems/ppg256.html)
-- [NaiveSystems Analyze – FOSS static analyzer for MISRA C/C++, AUTOSAR C++14, etc.](https://github.com/naivesystems/analyze)
+- [Grindavik [video]](https://www.youtube.com/watch?v=hvcP4kVVOnk)
+- [Lessons from a never-ending personal project](https://siddhesh.substack.com/p/projects)
+- [Copyright claim against Tolkien estate backfires on LOTR fanfiction author](https://www.theguardian.com/books/2023/dec/18/copyright-claim-against-tolkien-estate-backfires-on-lord-of-the-rings-fanfiction-author)
+- [LLMLingua: Compressing Prompts for Faster Inferencing](https://github.com/microsoft/LLMLingua)
+- [Volcanic eruption started just north of the town of Grindavik, Iceland](https://www.visir.is/g/20232505181d/eld-gos-hafid-a-reykja-nes-skaga)
+- [My Ordinary Life: Improvements Since the 1990s &lpar;2019&rpar;](https://gwern.net/improvement)
+- [Positive labor sorting has been increasing for men in the last several decades](https://www.richmondfed.org/publications/research/economic_brief/2023/eb_23-41)
+- [I Love Ruby](https://eliseshaffer.com/2023/12/18/i-love-ruby/)
+- [Tiny Code Christmas](https://tcc.lovebyte.party/)
+- [Librum: Open-Source e-book platform](https://github.com/Librum-Reader/Librum)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

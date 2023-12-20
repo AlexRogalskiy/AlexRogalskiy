@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [UK browser investigation to restart Jan 24 after Apple fail to appeal](https://open-web-advocacy.org/blog/cma-reopens-investigation-into-apple/)
-- [Precision and Performance Analysis of C Standard Math Library Functions on GPUs](https://dl.acm.org/doi/10.1145/3624062.3624166)
-- [Kitco Cyber Security Incident](https://www.kitco.com/index.html)
-- [Midjourney API v2 by Useapi.net](https://useapi.net/docs/api-v2)
-- [Ex-Amazon engineer pleads guilty to hacking crypto exchanges $12.3M](https://www.bleepingcomputer.com/news/security/ex-amazon-engineer-pleads-guilty-to-hacking-crypto-exchanges/)
-- [SSH-Agent historical CVEs for attacker-controlled servers](https://nvd.nist.gov/vuln/search/results?form_type=Basic&results_type=overview&query=ssh-agent&search_type=all&isCpeNameSearch=false)
-- [Novo: All your business banking in one platform](https://www.novo.co/)
-- [Russian courts halt cases against Alexei Navalny after disappearance](https://www.theguardian.com/world/2023/dec/18/courts-halt-cases-against-alexei-navalny-after-disappearance-of-jailed-activist)
-- [Advancing State of the Art in Language Modeling](https://arxiv.org/abs/2312.03735)
-- [W3cubTools](https://tools.w3cub.com)
+- [LoftQ: LoRA-fine-tuning-aware Quantization](https://github.com/huggingface/peft/tree/main/examples/loftq_finetuning)
+- [Return to office affects women&#39;s social wellness: ICICI Lombard study](https://www.business-standard.com/india-news/return-to-office-affects-women-s-social-wellness-icici-lombard-study-123121900927_1.html)
+- [Turn your ideas into songs with Suno on Microsoft Copilot](https://blogs.bing.com/search/december-2023/Turn-your-ideas-into-songs-with-Suno-on-Microsoft-Copilot)
+- [Thailand&#39;s &#39;Landbridge&#39; will bring East and West closer together](https://asia.nikkei.com/Opinion/Thailand-s-Landbridge-will-bring-East-and-West-closer-together)
+- [JSFuck is an esoteric subset of JavaScript](https://en.wikipedia.org/wiki/JSFuck)
+- [GatesNotes: The road ahead reaches a turning point in 2024](https://www.gatesnotes.com/The-Year-Ahead-2024)
+- [The Underlying Science of Sauna Therapy and Its Role in Healthspan Enhancement](https://gethealthspan.com/science/article/benefits-sauna-therapy-science-optimal-healthspan)
+- [Tell HN: Apple would not approve how invasive Apple Music is were it 3rd-party](https://news.ycombinator.com/item?id=38704467)
+- [Visual Reference for the Linux Kernel](https://en.wikibooks.org/wiki/The_Linux_Kernel)
+- [Antarctic research base Vostok local time](https://mm.icann.org/pipermail/tz/2023-December/033317.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Grindavik [video]](https://www.youtube.com/watch?v=hvcP4kVVOnk)
-- [Lessons from a never-ending personal project](https://siddhesh.substack.com/p/projects)
-- [Copyright claim against Tolkien estate backfires on LOTR fanfiction author](https://www.theguardian.com/books/2023/dec/18/copyright-claim-against-tolkien-estate-backfires-on-lord-of-the-rings-fanfiction-author)
-- [LLMLingua: Compressing Prompts for Faster Inferencing](https://github.com/microsoft/LLMLingua)
-- [Volcanic eruption started just north of the town of Grindavik, Iceland](https://www.visir.is/g/20232505181d/eld-gos-hafid-a-reykja-nes-skaga)
-- [My Ordinary Life: Improvements Since the 1990s &lpar;2019&rpar;](https://gwern.net/improvement)
-- [Positive labor sorting has been increasing for men in the last several decades](https://www.richmondfed.org/publications/research/economic_brief/2023/eb_23-41)
-- [I Love Ruby](https://eliseshaffer.com/2023/12/18/i-love-ruby/)
-- [Tiny Code Christmas](https://tcc.lovebyte.party/)
-- [Librum: Open-Source e-book platform](https://github.com/Librum-Reader/Librum)
+- [GM Dealer Chat Bot Agrees to Sell 2024 Chevy Tahoe for $1](https://gmauthority.com/blog/2023/12/gm-dealer-chat-bot-agrees-to-sell-2024-chevy-tahoe-for-1/)
+- [Sudo without a setuid binary or SSH over a Unix socket](https://tim.siosm.fr/blog/2023/12/19/ssh-over-unix-socket/)
+- [Performance of llama.cpp on Apple Silicon A-series](https://github.com/ggerganov/llama.cpp/discussions/4508)
+- [Tell HN: Microsoft.com added 192.168.1.1 to their DNS record](https://news.ycombinator.com/item?id=38702783)
+- [The Linux graphics stack in a nutshell](https://lwn.net/SubscriberLink/955376/b3fba3bbfabbc411/)
+- [VideoPoet A large language model for zero-shot video generation](https://sites.research.google/videopoet/)
+- [PowerInfer: Fast Large Language Model Serving with a Consumer-Grade GPU [pdf]](https://ipads.se.sjtu.edu.cn/_media/publications/powerinfer-20231219.pdf)
+- [Vulkan video extensions for accelerated H.264 and H.265 encode](https://www.khronos.org/blog/khronos-finalizes-vulkan-video-extensions-for-accelerated-h.264-and-h.265-encode)
+- [Show HN: Interactive ECS Systems/Component Explorer for Cities: Skylines 2](https://captain-of-coit.github.io/cs2-ecs-explorer/#system/Game.Simulation.ServiceFeeSystem)
+- [CUDA vs. ROCm: A case study](https://shihab-shahriar.github.io//blog/2023/Cuda-vs-Rocm-A-Case-Study-Through-Random-Number-Libraries/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

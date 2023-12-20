@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [The evolution of the MacBook](https://www.computerworld.com/article/3696985/evolution-of-apple-macbook.html#tk.rss_all)
+- [Choosing a genAI partner: Trust, but verify](https://www.computerworld.com/article/3711661/choosing-a-genai-partner-trust-but-verify-ok-maybe-just-verify.html#tk.rss_all)
+- [What leading Apple-in-the-enterprise execs expect in &#39;24](https://www.computerworld.com/article/3711724/what-leading-apple-in-the-enterprise-execs-expect-in-24.html#tk.rss_all)
+- [ChromeOS: Tips, tools, and other Chromebook intelligence](https://www.computerworld.com/article/3280924/chrome-os-tips-tools-chromebook-intelligence.html#tk.rss_all)
+- [Coming soon to Apple: third-party app stores — and sideloading apps](https://www.computerworld.com/article/3711375/coming-soon-to-apple-third-party-app-stores-and-sideloading-apps.html#tk.rss_all)
+- [The best Android apps for business in 2024](https://www.computerworld.com/article/3268630/best-android-apps-for-business.html#tk.rss_all)
 - [Adobe, Figma pull the plug on $20 billion merger](https://www.computerworld.com/article/3711643/adobe-figma-pull-the-plug-on-20-billion-merger.html#tk.rss_all)
 - [What’s coming up from Apple in 2024?](https://www.computerworld.com/article/3711781/whats-coming-from-apple-in-2024.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [Q&amp;A: Sedgwick exec lays out &#39;the baby steps to genAI adoption&#39;](https://www.computerworld.com/article/3711780/qa-sedgwick-exec-lays-out-the-baby-steps-to-genai-adoption.html#tk.rss_all)
-- [For December, an exceptionally light Patch Tuesday](https://www.computerworld.com/article/3711800/for-december-an-exceptionally-light-patch-tuesday.html#tk.rss_all)
-- [New EU rules mean every tech firm will want to impress Mother Earth](https://www.computerworld.com/article/3711744/new-eu-rules-mean-every-tech-firm-will-want-to-impress-mother-earth.html#tk.rss_all)
-- [Andreessen Horowitz will pay politicians to deregulate AI and crypto](https://www.computerworld.com/article/3711743/andreessen-horowitz-will-pay-politicians-to-deregulate-ai-and-crypto.html#tk.rss_all)
-- [Why do companies do holiday layoffs?](https://www.computerworld.com/article/3711444/why-do-companies-do-holiday-layoffs.html#tk.rss_all)
-- [Salesforce and Apple are ready for enterprise AR](https://www.computerworld.com/article/3711741/salesforce-and-apple-are-ready-for-enterprise-ar.html#tk.rss_all)
-- [Adobe anticipates ‘significant penalty’ for complex cancellation practices](https://www.computerworld.com/article/3711760/adobe-anticipates-significant-penalty-for-complex-cancellation-practices.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Earthquake in north-west China kills at least 111](https://www.theguardian.com/world/2023/dec/19/china-earthquake-death-toll-magnitude-gansu-qinghai)
-- [Marvel and Disney drop actor Jonathan Majors hours after guilty assault verdict](https://www.theguardian.com/culture/2023/dec/18/marvel-disney-drop-jonathan-majors-guilty-assault-harassment-verdict)
-- [Esther Rantzen ‘considering assisted dying’ if cancer treatment fails](https://www.theguardian.com/tv-and-radio/2023/dec/19/esther-rantzen-considering-assisted-dying-if-cancer-treatment-fails)
-- [Michael Gove threatens action against English councils over housing plans](https://www.theguardian.com/politics/2023/dec/19/michael-gove-threatens-action-against-english-councils-over-housing-plans)
-- [Classes in character do little to narrow gap in pupil outcomes, says study](https://www.theguardian.com/education/2023/dec/19/classes-in-character-do-little-to-narrow-gap-in-pupil-outcomes-says-study)
-- [Imagine … Russell T Davies: The Doctor and Me review – a joyous profile of a blazingly brilliant writer](https://www.theguardian.com/tv-and-radio/2023/dec/18/imagine-russell-t-davies-the-doctor-and-me-review-a-joyous-profile-of-a-blazingly-brilliant-writer)
-- [PDC world darts: Gerwyn Price finally feels fans’ love on way past Connor Scutt](https://www.theguardian.com/sport/2023/dec/18/pdc-world-darts-gerwyn-price-beats-connor-scutt-to-ease-into-third-round)
-- [Iceland volcano: eruption begins on Reykjanes peninsula after weeks of activity](https://www.theguardian.com/world/2023/dec/19/iceland-volcano-eruption-reykjanes-peninsula-grindavik-blue-lagoon)
-- [Jonathan Majors found guilty of assault and harassment over domestic dispute](https://www.theguardian.com/culture/2023/dec/18/jonathan-majors-guilty-assault-trial-verdict)
-- [Monsanto ordered to pay $857m to ex-students of Seattle school for toxic leaks](https://www.theguardian.com/us-news/2023/dec/18/monsanto-verdict-857-million-seattle-school-pcb-chemical-leaks)
+- [Colorado supreme court disqualifies Trump from state’s 2024 ballot](https://www.theguardian.com/us-news/2023/dec/19/trump-colorado-presidential-ballot-disqualified-14th-amendment)
+- [Russia-Ukraine war at a glance: what we know on day 665](https://www.theguardian.com/world/2023/dec/20/russia-ukraine-war-at-a-glance-what-we-know-on-day-665)
+- [Biden administration policy differences reportedly behind delay in Gaza ceasefire vote at UN](https://www.theguardian.com/world/2023/dec/20/un-security-council-israel-gaza-war-ceasefire-delay-why-biden-administration-policy-differences)
+- [Humans may have influenced evolution of dogs’ eye colour, researchers say](https://www.theguardian.com/lifeandstyle/2023/dec/20/humans-may-have-influenced-evolution-of-dogs-eye-colour-researchers-say)
+- [Flowers ‘giving up’ on scarce insects and evolving to self-pollinate, say scientists](https://www.theguardian.com/environment/2023/dec/20/flowers-giving-up-on-scarce-insects-and-evolving-to-self-pollinate-say-scientists)
+- [Man charged in Tupac Shakur killing asks to move from jail to house arrest](https://www.theguardian.com/music/2023/dec/19/tupac-shakur-murder-suspect-seeks-release-jail-house-arrest)
+- [France passes controversial immigration bill amid deep division in Macron’s party](https://www.theguardian.com/world/2023/dec/20/france-immigration-bill-passed-controversy-emmanuel-macron-marine-le-pen)
+- [England set up West Indies decider as Phil Salt leads way to record T20 score](https://www.theguardian.com/sport/2023/dec/19/england-set-up-west-indies-decider-as-phil-salt-smashes-record-score)
+- [PDC world darts: Van Gerwen makes strong start but Wade falls at first hurdle](https://www.theguardian.com/sport/2023/dec/19/michael-van-gerwen-fights-off-pressure-to-end-keane-barrys-challenge)
+- [Penny Mordaunt: Boris Johnson’s messages vanished from my phone](https://www.theguardian.com/politics/2023/dec/19/penny-mordaunt-boris-johnsons-messages-vanished-from-my-phone)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

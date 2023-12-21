@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [GM Dealer Chat Bot Agrees to Sell 2024 Chevy Tahoe for $1](https://gmauthority.com/blog/2023/12/gm-dealer-chat-bot-agrees-to-sell-2024-chevy-tahoe-for-1/)
-- [Sudo without a setuid binary or SSH over a Unix socket](https://tim.siosm.fr/blog/2023/12/19/ssh-over-unix-socket/)
-- [Performance of llama.cpp on Apple Silicon A-series](https://github.com/ggerganov/llama.cpp/discussions/4508)
-- [Tell HN: Microsoft.com added 192.168.1.1 to their DNS record](https://news.ycombinator.com/item?id=38702783)
-- [The Linux graphics stack in a nutshell](https://lwn.net/SubscriberLink/955376/b3fba3bbfabbc411/)
-- [VideoPoet A large language model for zero-shot video generation](https://sites.research.google/videopoet/)
-- [PowerInfer: Fast Large Language Model Serving with a Consumer-Grade GPU [pdf]](https://ipads.se.sjtu.edu.cn/_media/publications/powerinfer-20231219.pdf)
-- [Vulkan video extensions for accelerated H.264 and H.265 encode](https://www.khronos.org/blog/khronos-finalizes-vulkan-video-extensions-for-accelerated-h.264-and-h.265-encode)
-- [Show HN: Interactive ECS Systems/Component Explorer for Cities: Skylines 2](https://captain-of-coit.github.io/cs2-ecs-explorer/#system/Game.Simulation.ServiceFeeSystem)
-- [CUDA vs. ROCm: A case study](https://shihab-shahriar.github.io//blog/2023/Cuda-vs-Rocm-A-Case-Study-Through-Random-Number-Libraries/)
+- [Catalyst – Tailwind CSS Application UI Kit](https://tailwindui.com/templates/catalyst)
+- [What It&#39;s Like to Be a Bee](https://press.princeton.edu/ideas/what-its-like-to-be-a-bee)
+- [Researchers uncover on/off switch for breast cancer metastasis](https://news.stanford.edu/2023/12/20/breast-cancer-metastasis-off-switch-revealed/)
+- [iMessage Key Verification](https://support.apple.com/en-gb/HT213465)
+- [How to Escape a Container](https://www.panoptica.app/research/7-ways-to-escape-a-container)
+- [Text-to-CAD](https://zoo.dev/blog/introducing-text-to-cad)
+- [TigerEye &lpar;YC S22&rpar; is hiring an experienced front end engineer](https://jobs.ashbyhq.com/TigerEye/1dc43727-c2f8-4528-a5ac-7a875001f14f)
+- [Six Degrees of Wikipedia](https://www.sixdegreesofwikipedia.com/)
+- [Lessons on building business value](https://lockedinspace.com/posts/002.html)
+- [Mistral 7B Fine-Tune Optimized](https://openpipe.ai/blog/mistral-7b-fine-tune-optimized)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

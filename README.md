@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Colorado supreme court disqualifies Trump from state’s 2024 ballot](https://www.theguardian.com/us-news/2023/dec/19/trump-colorado-presidential-ballot-disqualified-14th-amendment)
-- [Russia-Ukraine war at a glance: what we know on day 665](https://www.theguardian.com/world/2023/dec/20/russia-ukraine-war-at-a-glance-what-we-know-on-day-665)
-- [Biden administration policy differences reportedly behind delay in Gaza ceasefire vote at UN](https://www.theguardian.com/world/2023/dec/20/un-security-council-israel-gaza-war-ceasefire-delay-why-biden-administration-policy-differences)
-- [Humans may have influenced evolution of dogs’ eye colour, researchers say](https://www.theguardian.com/lifeandstyle/2023/dec/20/humans-may-have-influenced-evolution-of-dogs-eye-colour-researchers-say)
-- [Flowers ‘giving up’ on scarce insects and evolving to self-pollinate, say scientists](https://www.theguardian.com/environment/2023/dec/20/flowers-giving-up-on-scarce-insects-and-evolving-to-self-pollinate-say-scientists)
-- [Man charged in Tupac Shakur killing asks to move from jail to house arrest](https://www.theguardian.com/music/2023/dec/19/tupac-shakur-murder-suspect-seeks-release-jail-house-arrest)
-- [France passes controversial immigration bill amid deep division in Macron’s party](https://www.theguardian.com/world/2023/dec/20/france-immigration-bill-passed-controversy-emmanuel-macron-marine-le-pen)
-- [England set up West Indies decider as Phil Salt leads way to record T20 score](https://www.theguardian.com/sport/2023/dec/19/england-set-up-west-indies-decider-as-phil-salt-smashes-record-score)
-- [PDC world darts: Van Gerwen makes strong start but Wade falls at first hurdle](https://www.theguardian.com/sport/2023/dec/19/michael-van-gerwen-fights-off-pressure-to-end-keane-barrys-challenge)
-- [Penny Mordaunt: Boris Johnson’s messages vanished from my phone](https://www.theguardian.com/politics/2023/dec/19/penny-mordaunt-boris-johnsons-messages-vanished-from-my-phone)
+- [Toyota recalls 1m cars over defect that could cause airbags not to deploy](https://www.theguardian.com/business/2023/dec/20/toyota-vehicle-recall-lexus-camry-corolla-rav4)
+- [India ‘ready to look into’ alleged plot to kill Sikh separatist in the US, says Modi](https://www.theguardian.com/world/2023/dec/21/india-murder-plot-sikh-separatist-prime-minister-narendra-modi-comment-charges-nikhil-gupta)
+- [Russia-Ukraine war at a glance: what we know on day 666](https://www.theguardian.com/world/2023/dec/21/russia-ukraine-war-at-a-glance-what-we-know-on-day-666)
+- [Antoinette Lattouf says she is considering ‘legal options’ after losing ABC radio role over Israel-Gaza social media posts](https://www.theguardian.com/media/2023/dec/21/antoinette-lattouf-abc-sacking-why-israel-gaza-legal-options)
+- [Pissaladière, tortillas and ice-cream with fish sauce: chefs’ go-to dishes for entertaining at home](https://www.theguardian.com/food/2023/dec/21/pissaladiere-tortillas-and-ice-cream-with-fish-sauce-chefs-go-to-dishes-for-entertaining-at-home)
+- [British sign language to be offered as GCSE subject](https://www.theguardian.com/education/2023/dec/21/british-sign-language-to-be-offered-as-gcse-subject)
+- [Christmas carols bring hope in a hopeless time. No matter, we’ll keep singing – with tissues handy | Justine Toh](https://www.theguardian.com/commentisfree/2023/dec/21/christmas-carols-bring-hope-in-a-hopeless-time-no-matter-well-keep-singing-with-tissues-handy)
+- [Police to be able to run face recognition searches on 50m driving licence holders](https://www.theguardian.com/technology/2023/dec/20/police-to-be-able-to-run-face-recognition-searches-on-50m-driving-licence-holders)
+- [Presidential candidates call for rerun of election in Democratic Republic of Congo](https://www.theguardian.com/world/2023/dec/20/democratic-republic-congo-elections-polls-open-delays-conflict-east)
+- [Chemical leak at Tennessee cheese factory sends 29 workers to hospital](https://www.theguardian.com/us-news/2023/dec/20/tennessee-cheese-factory-chemical-leak)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

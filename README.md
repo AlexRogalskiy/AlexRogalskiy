@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Rite Aid hit with a five-year freeze on facial recognition](https://www.computerworld.com/article/3711841/rite-aid-hit-with-a-five-year-freeze-on-facial-recognition.html#tk.rss_all)
+- [The top 10 tech stories of 2023](https://www.computerworld.com/article/3711803/top-tech-stories-2023.html#tk.rss_all)
+- [UK Supreme Court: No, your AI can’t hold a patent](https://www.computerworld.com/article/3711782/uk-supreme-court-no-your-ai-can-t-hold-a-patent.html#tk.rss_all)
+- [Microsoft confirms Wi-Fi issue caused by update, issues rollback as temporary fix](https://www.computerworld.com/article/3711706/microsoft-confirms-wi-fi-issue-caused-by-update-issues-rollback-as-temporary-fix.html#tk.rss_all)
+- [Apple updates IT training for enterprise pros](https://www.computerworld.com/article/3711761/apple-updates-it-training-for-enterprise-pros.html#tk.rss_all)
+- [Office apps come to Meta’s Quest devices, but real-world use will take time](https://www.computerworld.com/article/3711644/office-apps-come-to-metas-quest-devices-but-real-world-use-will-take-time.html#tk.rss_all)
+- [10 Windows 11 AI features you can use today](https://www.computerworld.com/article/3711746/windows-11-ai-features.html#tk.rss_all)
+- [10 Android tips you shouldn&#39;t miss from 2023](https://www.computerworld.com/article/3328644/android-tips-2023.html#tk.rss_all)
 - [The evolution of the MacBook](https://www.computerworld.com/article/3696985/evolution-of-apple-macbook.html#tk.rss_all)
 - [Choosing a genAI partner: Trust, but verify](https://www.computerworld.com/article/3711661/choosing-a-genai-partner-trust-but-verify-ok-maybe-just-verify.html#tk.rss_all)
-- [What leading Apple-in-the-enterprise execs expect in &#39;24](https://www.computerworld.com/article/3711724/what-leading-apple-in-the-enterprise-execs-expect-in-24.html#tk.rss_all)
-- [ChromeOS: Tips, tools, and other Chromebook intelligence](https://www.computerworld.com/article/3280924/chrome-os-tips-tools-chromebook-intelligence.html#tk.rss_all)
-- [Coming soon to Apple: third-party app stores — and sideloading apps](https://www.computerworld.com/article/3711375/coming-soon-to-apple-third-party-app-stores-and-sideloading-apps.html#tk.rss_all)
-- [The best Android apps for business in 2024](https://www.computerworld.com/article/3268630/best-android-apps-for-business.html#tk.rss_all)
-- [Adobe, Figma pull the plug on $20 billion merger](https://www.computerworld.com/article/3711643/adobe-figma-pull-the-plug-on-20-billion-merger.html#tk.rss_all)
-- [What’s coming up from Apple in 2024?](https://www.computerworld.com/article/3711781/whats-coming-from-apple-in-2024.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [Q&amp;A: Sedgwick exec lays out &#39;the baby steps to genAI adoption&#39;](https://www.computerworld.com/article/3711780/qa-sedgwick-exec-lays-out-the-baby-steps-to-genai-adoption.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

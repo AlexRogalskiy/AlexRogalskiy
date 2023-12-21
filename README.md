@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [LoftQ: LoRA-fine-tuning-aware Quantization](https://github.com/huggingface/peft/tree/main/examples/loftq_finetuning)
-- [Return to office affects women&#39;s social wellness: ICICI Lombard study](https://www.business-standard.com/india-news/return-to-office-affects-women-s-social-wellness-icici-lombard-study-123121900927_1.html)
-- [Turn your ideas into songs with Suno on Microsoft Copilot](https://blogs.bing.com/search/december-2023/Turn-your-ideas-into-songs-with-Suno-on-Microsoft-Copilot)
-- [Thailand&#39;s &#39;Landbridge&#39; will bring East and West closer together](https://asia.nikkei.com/Opinion/Thailand-s-Landbridge-will-bring-East-and-West-closer-together)
-- [JSFuck is an esoteric subset of JavaScript](https://en.wikipedia.org/wiki/JSFuck)
-- [GatesNotes: The road ahead reaches a turning point in 2024](https://www.gatesnotes.com/The-Year-Ahead-2024)
-- [The Underlying Science of Sauna Therapy and Its Role in Healthspan Enhancement](https://gethealthspan.com/science/article/benefits-sauna-therapy-science-optimal-healthspan)
-- [Tell HN: Apple would not approve how invasive Apple Music is were it 3rd-party](https://news.ycombinator.com/item?id=38704467)
-- [Visual Reference for the Linux Kernel](https://en.wikibooks.org/wiki/The_Linux_Kernel)
-- [Antarctic research base Vostok local time](https://mm.icann.org/pipermail/tz/2023-December/033317.html)
+- [Mercedes Gets Approval for Turquoise Automated Level 3 Driving Lights](https://jalopnik.com/mercedes-turquoise-automated-driving-lights-level-3-1851110043)
+- [A closer look at e/OS: Murena&#39;s privacy-first &#39;deGoogled&#39; Android alternative](https://techcrunch.com/2023/09/05/murena-eos-fairphone-4/)
+- [Daihatsu to stop all vehicle shipments over improper safety testing](https://mainichi.jp/english/articles/20231220/p2g/00m/0bu/027000c)
+- [Human skin ID&#39;d by palaeoproteomics in Scythian leather objects from Ukraine](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0294129)
+- [Anthropic seeking to raise $750M in funding round led by Menlo Ventures](https://www.reuters.com/markets/deals/anthropic-raise-750-mln-menlo-ventures-led-funding-round-information-2023-12-21/)
+- [AI Death Calculator – Know Your Lifespan and Health Better](https://aideathcalculator.com/)
+- [First All-Electric Bugatti Reportedly Not Due Until After 2030](https://insideevs.com/news/615122/first-electric-bugatti/)
+- [Cardiopulmonary Hemodynamic Phenotypes in PASC Related Exercise Intolerance [pdf]](https://openres.ersjournals.com/content/erjor/early/2023/12/07/23120541.00714-2023.full.pdf)
+- [Virtual Threads in Spring Boot](https://www.danvega.dev/blog/virtual-threads-spring-boot)
+- [Banish state-mutating methods from data classes](https://rednafi.com/python/dataclasses_and_methods/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

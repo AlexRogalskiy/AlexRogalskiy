@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Toyota recalls 1m cars over defect that could cause airbags not to deploy](https://www.theguardian.com/business/2023/dec/20/toyota-vehicle-recall-lexus-camry-corolla-rav4)
-- [India ‘ready to look into’ alleged plot to kill Sikh separatist in the US, says Modi](https://www.theguardian.com/world/2023/dec/21/india-murder-plot-sikh-separatist-prime-minister-narendra-modi-comment-charges-nikhil-gupta)
-- [Russia-Ukraine war at a glance: what we know on day 666](https://www.theguardian.com/world/2023/dec/21/russia-ukraine-war-at-a-glance-what-we-know-on-day-666)
-- [Antoinette Lattouf says she is considering ‘legal options’ after losing ABC radio role over Israel-Gaza social media posts](https://www.theguardian.com/media/2023/dec/21/antoinette-lattouf-abc-sacking-why-israel-gaza-legal-options)
-- [Pissaladière, tortillas and ice-cream with fish sauce: chefs’ go-to dishes for entertaining at home](https://www.theguardian.com/food/2023/dec/21/pissaladiere-tortillas-and-ice-cream-with-fish-sauce-chefs-go-to-dishes-for-entertaining-at-home)
-- [British sign language to be offered as GCSE subject](https://www.theguardian.com/education/2023/dec/21/british-sign-language-to-be-offered-as-gcse-subject)
-- [Christmas carols bring hope in a hopeless time. No matter, we’ll keep singing – with tissues handy | Justine Toh](https://www.theguardian.com/commentisfree/2023/dec/21/christmas-carols-bring-hope-in-a-hopeless-time-no-matter-well-keep-singing-with-tissues-handy)
-- [Police to be able to run face recognition searches on 50m driving licence holders](https://www.theguardian.com/technology/2023/dec/20/police-to-be-able-to-run-face-recognition-searches-on-50m-driving-licence-holders)
-- [Presidential candidates call for rerun of election in Democratic Republic of Congo](https://www.theguardian.com/world/2023/dec/20/democratic-republic-congo-elections-polls-open-delays-conflict-east)
-- [Chemical leak at Tennessee cheese factory sends 29 workers to hospital](https://www.theguardian.com/us-news/2023/dec/20/tennessee-cheese-factory-chemical-leak)
+- [Israel-Gaza war live: US says it will support an amended UN resolution aimed at increasing aid into Gaza](https://www.theguardian.com/world/live/2023/dec/21/israel-gaza-war-live-updates-hamas-leader-ismail-haniyeh-hostage-talks-egypt-palestine)
+- [French city of Montpellier makes public transport free for all residents](https://www.theguardian.com/world/2023/dec/22/montpellier-france-free-public-transport-residents)
+- [Russia-Ukraine war at a glance: what we know on day 667](https://www.theguardian.com/world/2023/dec/22/russia-ukraine-war-at-a-glance-what-we-know-on-day-667)
+- [Changing climate casts a shadow over the future of the Panama Canal – and global trade](https://www.theguardian.com/environment/2023/dec/22/changing-climate-casts-a-shadow-over-the-future-of-the-panama-canal-and-global-trade)
+- [Norwegian cruise ship MS Maud loses power in North Sea during storm](https://www.theguardian.com/world/2023/dec/22/norwegian-cruise-ship-ms-maud-loses-power-navigation-system)
+- [Tasmania’s Neil the seal has found viral fame, leaving experts concerned for his welfare](https://www.theguardian.com/australia-news/2023/dec/22/neil-the-seal-tasmania-australia-outside-homes-footage-viral-fame-welfare)
+- [Fuel forecourt prices in 2023 second highest on record, says AA](https://www.theguardian.com/money/2023/dec/22/fuel-petrol-diesel-prices-2023-aa)
+- [Government scheme gave £42m to help restore UK churches in 2023](https://www.theguardian.com/uk-news/2023/dec/22/government-scheme-gave-42m-to-help-restore-uk-churches-in-2023)
+- [West Indies clinch T20 series after Shai Hope edges hosts past England total](https://www.theguardian.com/sport/2023/dec/21/west-indies-clinch-t20-series-after-shai-hope-edges-hosts-past-england-total)
+- [PDC world darts: Littler continues dream run, Williams upsets Noppert](https://www.theguardian.com/sport/2023/dec/21/pdc-world-darts-roundup-luke-littler-andrew-gilding)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

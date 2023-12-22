@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Catalyst – Tailwind CSS Application UI Kit](https://tailwindui.com/templates/catalyst)
-- [What It&#39;s Like to Be a Bee](https://press.princeton.edu/ideas/what-its-like-to-be-a-bee)
-- [Researchers uncover on/off switch for breast cancer metastasis](https://news.stanford.edu/2023/12/20/breast-cancer-metastasis-off-switch-revealed/)
-- [iMessage Key Verification](https://support.apple.com/en-gb/HT213465)
-- [How to Escape a Container](https://www.panoptica.app/research/7-ways-to-escape-a-container)
-- [Text-to-CAD](https://zoo.dev/blog/introducing-text-to-cad)
-- [TigerEye &lpar;YC S22&rpar; is hiring an experienced front end engineer](https://jobs.ashbyhq.com/TigerEye/1dc43727-c2f8-4528-a5ac-7a875001f14f)
-- [Six Degrees of Wikipedia](https://www.sixdegreesofwikipedia.com/)
-- [Lessons on building business value](https://lockedinspace.com/posts/002.html)
-- [Mistral 7B Fine-Tune Optimized](https://openpipe.ai/blog/mistral-7b-fine-tune-optimized)
+- [Meccano Build of Leonardo da Vinci&#39;s Self-Powered Cart](https://selmec.org.uk/articles/112-leonardo-da-vinci-s-self-powered-cart)
+- [WARC&#39;in the Crawler](https://www.marginalia.nu/log/94_warc_warc/)
+- [Polish DRMed trains stop as predicted due to date-based logic-bomb](https://social.hackerspace.pl/@q3k/111618420373868285)
+- [Food price hikes are no longer outpacing overall inflation](https://www.cnn.com/2023/12/12/economy/food-inflation-november-cpi/index.html)
+- [How to Turn Off Google&#39;s &quot;Privacy Sandbox&quot; Ad Tracking–and Why You Should](https://www.eff.org/deeplinks/2023/09/how-turn-googles-privacy-sandbox-ad-tracking-and-why-you-should)
+- [SMTP Smuggling – Spoofing Emails Worldwide](https://sec-consult.com/blog/detail/smtp-smuggling-spoofing-e-mails-worldwide/)
+- [The Great AI Weirding](https://deliprao.substack.com/p/the-great-ai-weirding)
+- [Eqtble &lpar;YC W21&rpar; is hiring a software engineer](https://www.ycombinator.com/companies/eqtble/jobs/uXrVcaj-full-stack-engineer)
+- [The right to use adblockers](https://fsfe.org/news/2023/news-20231220-01.sl.html)
+- [YAML, Python and the Holy Graal](https://yamlscript.org/posts/advent-2023/dec-21/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

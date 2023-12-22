@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Mercedes Gets Approval for Turquoise Automated Level 3 Driving Lights](https://jalopnik.com/mercedes-turquoise-automated-driving-lights-level-3-1851110043)
-- [A closer look at e/OS: Murena&#39;s privacy-first &#39;deGoogled&#39; Android alternative](https://techcrunch.com/2023/09/05/murena-eos-fairphone-4/)
-- [Daihatsu to stop all vehicle shipments over improper safety testing](https://mainichi.jp/english/articles/20231220/p2g/00m/0bu/027000c)
-- [Human skin ID&#39;d by palaeoproteomics in Scythian leather objects from Ukraine](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0294129)
-- [Anthropic seeking to raise $750M in funding round led by Menlo Ventures](https://www.reuters.com/markets/deals/anthropic-raise-750-mln-menlo-ventures-led-funding-round-information-2023-12-21/)
-- [AI Death Calculator – Know Your Lifespan and Health Better](https://aideathcalculator.com/)
-- [First All-Electric Bugatti Reportedly Not Due Until After 2030](https://insideevs.com/news/615122/first-electric-bugatti/)
-- [Cardiopulmonary Hemodynamic Phenotypes in PASC Related Exercise Intolerance [pdf]](https://openres.ersjournals.com/content/erjor/early/2023/12/07/23120541.00714-2023.full.pdf)
-- [Virtual Threads in Spring Boot](https://www.danvega.dev/blog/virtual-threads-spring-boot)
-- [Banish state-mutating methods from data classes](https://rednafi.com/python/dataclasses_and_methods/)
+- [Labs.Google](https://labs.google/)
+- [China bans export of rare earths processing tech over national security](https://www.reuters.com/markets/commodities/china-bans-export-rare-earths-processing-technologies-2023-12-21/)
+- [NLP Research in the Era of LLMs](https://nlpnewsletter.substack.com/p/nlp-research-in-the-era-of-llms)
+- [Dashboard Germany](https://www.dashboard-deutschland.de/)
+- [Why Claudine Gay Should Go](https://www.nytimes.com/2023/12/21/opinion/harvard-claudine-gay.html)
+- [Covid test supplier received billions in contracts after editing results](https://globalnews.ca/news/10183219/covid-test-supplier-canada/)
+- [The exhaust emissions scandal &lpar;„Dieselgate&quot;&rpar; &lpar;2015&rpar; [video]](https://media.ccc.de/v/32c3-7331-the_exhaust_emissions_scandal_dieselgate)
+- [Why Emacs Keys Are Painful](http://xahlee.info/emacs/emacs/emacs_kb_shortcuts_pain.html)
+- [Baltic Exchange: Global Trade Routes](https://www.balticexchange.com/en/data-services/routes.html)
+- [Decentralize the Future. Build It with Ioblr](https://ioblr.com/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

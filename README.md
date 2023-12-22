@@ -355,6 +355,7 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Q&amp;A: How Athenahealth moved from traditional AI to genAI and ChatGPT](https://www.computerworld.com/article/3711802/qa-how-athenahealth-moved-from-traditional-ai-to-genai-and-chatgpt.html#tk.rss_all)
 - [Rite Aid hit with a five-year freeze on facial recognition](https://www.computerworld.com/article/3711841/rite-aid-hit-with-a-five-year-freeze-on-facial-recognition.html#tk.rss_all)
 - [The top 10 tech stories of 2023](https://www.computerworld.com/article/3711803/top-tech-stories-2023.html#tk.rss_all)
 - [UK Supreme Court: No, your AI can’t hold a patent](https://www.computerworld.com/article/3711782/uk-supreme-court-no-your-ai-can-t-hold-a-patent.html#tk.rss_all)
@@ -364,7 +365,6 @@
 - [10 Windows 11 AI features you can use today](https://www.computerworld.com/article/3711746/windows-11-ai-features.html#tk.rss_all)
 - [10 Android tips you shouldn&#39;t miss from 2023](https://www.computerworld.com/article/3328644/android-tips-2023.html#tk.rss_all)
 - [The evolution of the MacBook](https://www.computerworld.com/article/3696985/evolution-of-apple-macbook.html#tk.rss_all)
-- [Choosing a genAI partner: Trust, but verify](https://www.computerworld.com/article/3711661/choosing-a-genai-partner-trust-but-verify-ok-maybe-just-verify.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

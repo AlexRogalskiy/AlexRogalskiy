@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Labs.Google](https://labs.google/)
-- [China bans export of rare earths processing tech over national security](https://www.reuters.com/markets/commodities/china-bans-export-rare-earths-processing-technologies-2023-12-21/)
-- [NLP Research in the Era of LLMs](https://nlpnewsletter.substack.com/p/nlp-research-in-the-era-of-llms)
-- [Dashboard Germany](https://www.dashboard-deutschland.de/)
-- [Why Claudine Gay Should Go](https://www.nytimes.com/2023/12/21/opinion/harvard-claudine-gay.html)
-- [Covid test supplier received billions in contracts after editing results](https://globalnews.ca/news/10183219/covid-test-supplier-canada/)
-- [The exhaust emissions scandal &lpar;„Dieselgate&quot;&rpar; &lpar;2015&rpar; [video]](https://media.ccc.de/v/32c3-7331-the_exhaust_emissions_scandal_dieselgate)
-- [Why Emacs Keys Are Painful](http://xahlee.info/emacs/emacs/emacs_kb_shortcuts_pain.html)
-- [Baltic Exchange: Global Trade Routes](https://www.balticexchange.com/en/data-services/routes.html)
-- [Decentralize the Future. Build It with Ioblr](https://ioblr.com/)
+- [New software paves the way for finding bacteriophages to control bacteria](https://phys.org/news/2023-12-software-paves-bacteriophages-bacteria.html)
+- [The Science and Standards Behind the Breakthrough](https://www.verses.ai/blogs/science-and-standards-behind-the-breakthrough)
+- [CSV++](https://github.com/patrickomatic/csv-plus-plus)
+- [How Putin&#39;s Right-Hand Man Took Out Prigozhin](https://www.wsj.com/world/russia/putin-patrushev-plan-prigozhin-assassination-428d5ed8)
+- [Ask HN: Do you have favorite books, courses or videos on engineering leadership?](https://news.ycombinator.com/item?id=38740981)
+- [Elixir v1.16 Released](https://elixir-lang.org/blog/2023/12/22/elixir-v1-16-0-released/)
+- [Apple explore LLM on flash &lpar;run large lang model on iDevices?&rpar;](https://wccftech.com/apple-exploring-llm-on-flash-storage-bring-technology-to-phones-laptops/)
+- [Why RPN and how to use it](https://www.thecalculatorstore.com/Manuals/why-RPN)
+- [Who is stll making RPN calculators, that is besides the HP-12? &lpar;2017&rpar;](https://forum.allaboutcircuits.com/threads/who-is-stll-making-rpn-calculators-that-is-besides-the-hp-12.134787/)
+- [China Rebuilds Secretive Base for Nuclear Tests](https://www.nytimes.com/interactive/2023/12/20/science/china-nuclear-tests-lop-nur.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Israel-Gaza war live: US says it will support an amended UN resolution aimed at increasing aid into Gaza](https://www.theguardian.com/world/live/2023/dec/21/israel-gaza-war-live-updates-hamas-leader-ismail-haniyeh-hostage-talks-egypt-palestine)
-- [French city of Montpellier makes public transport free for all residents](https://www.theguardian.com/world/2023/dec/22/montpellier-france-free-public-transport-residents)
-- [Russia-Ukraine war at a glance: what we know on day 667](https://www.theguardian.com/world/2023/dec/22/russia-ukraine-war-at-a-glance-what-we-know-on-day-667)
-- [Changing climate casts a shadow over the future of the Panama Canal – and global trade](https://www.theguardian.com/environment/2023/dec/22/changing-climate-casts-a-shadow-over-the-future-of-the-panama-canal-and-global-trade)
-- [Norwegian cruise ship MS Maud loses power in North Sea during storm](https://www.theguardian.com/world/2023/dec/22/norwegian-cruise-ship-ms-maud-loses-power-navigation-system)
-- [Tasmania’s Neil the seal has found viral fame, leaving experts concerned for his welfare](https://www.theguardian.com/australia-news/2023/dec/22/neil-the-seal-tasmania-australia-outside-homes-footage-viral-fame-welfare)
-- [Fuel forecourt prices in 2023 second highest on record, says AA](https://www.theguardian.com/money/2023/dec/22/fuel-petrol-diesel-prices-2023-aa)
-- [Government scheme gave £42m to help restore UK churches in 2023](https://www.theguardian.com/uk-news/2023/dec/22/government-scheme-gave-42m-to-help-restore-uk-churches-in-2023)
-- [West Indies clinch T20 series after Shai Hope edges hosts past England total](https://www.theguardian.com/sport/2023/dec/21/west-indies-clinch-t20-series-after-shai-hope-edges-hosts-past-england-total)
-- [PDC world darts: Littler continues dream run, Williams upsets Noppert](https://www.theguardian.com/sport/2023/dec/21/pdc-world-darts-roundup-luke-littler-andrew-gilding)
+- [UK traditions such as panto and carols could join Unesco cultural heritage list](https://www.theguardian.com/culture/2023/dec/23/uk-traditions-panto-carols-could-join-unesco-cultural-heritage-list)
+- [Banksy artwork stolen less than an hour after unveiling in south London](https://www.theguardian.com/artanddesign/2023/dec/22/banksy-artwork-stolen-south-london-peckham)
+- [Editors’ picks: five ways to rock red during the party season – in pictures](https://www.theguardian.com/fashion/gallery/2023/dec/22/editors-picks-five-ways-to-rock-red-during-the-party-season-in-pictures)
+- [‘I’m very proud of him’: Sebastien Lai on Hong Kong, accountability and his father Jimmy’s trial](https://www.theguardian.com/world/2023/dec/23/jimmy-lai-democracy-activist-trial-hong-kong-son-sebastien-interview)
+- [‘I’m still single and the happiest I’ve ever been’: life after dating apps | Intimate details](https://www.theguardian.com/lifeandstyle/2023/dec/23/im-still-single-and-the-happiest-ive-ever-been-life-after-dating-apps)
+- [Ford helps Sale open up four-point lead at top after narrow win over Saracens](https://www.theguardian.com/sport/2023/dec/22/ford-helps-sale-open-up-four-point-lead-at-top-after-narrow-win-over-saracens)
+- [Christmas getaway disruption continues amid Dover, road and rail delays](https://www.theguardian.com/uk-news/2023/dec/22/channel-rail-operations-resume-normal-service-after-strike-by-french-workers-eurostar-eurotunnel)
+- [Labour warns of ‘Christmas chaos’ on the trains after record payouts for delays](https://www.theguardian.com/uk-news/2023/dec/22/labour-warns-of-christmas-chaos-on-the-trains-after-record-payouts-for-delays)
+- [Charlie Sheen allegedly attacked at home by a neighbour, US media report](https://www.theguardian.com/culture/2023/dec/22/charlie-sheen-allegedly-attacked-at-home-by-a-neighbour-us-media-report)
+- [Manchester City have closed a chapter in completing set, says Guardiola](https://www.theguardian.com/football/2023/dec/22/manchester-city-have-closed-a-chapter-in-completing-set-says-guardiola)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

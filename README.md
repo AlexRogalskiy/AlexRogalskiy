@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Researchers discover neuronal biomarkers of schizophrenia in the blood](https://hmri.org.au/news-article/researchers-discover-neuronal-biomarkers-schizophrenia-blood)
-- [Using sequences of life-events to predict human lives](https://arxiv.org/abs/2306.03009)
-- [How big is YouTube?](https://ethanzuckerman.com/2023/12/22/how-big-is-youtube/)
-- [Seven Years of Factorio Friday Facts &lpar;2020&rpar;](https://spieswl.github.io/blog/2020/seven-years-of-factorio-friday-facts)
-- [Groqchat](https://chat.groq.com/)
-- [Posts, profiles, and user search are now available without login](https://bsky.app/profile/bsky.app/post/3kh5rbndrjd2x)
-- [Shein forces Amazon to lower seller fees](https://www.marketplacepulse.com/articles/shein-forces-amazon-to-lower-seller-fees)
-- [Watching the world](https://webcamaze.engineering.zhaw.ch/watchingtheworld/)
-- [2023: A year of groundbreaking advances in AI and computing](https://blog.research.google/2023/12/2023-year-of-groundbreaking-advances-in.html)
-- [Google search overwhelmed by spam attack](https://www.searchenginejournal.com/google-search-overwhelmed-by-massive-spam-attack/504527/)
+- [San Francisco’s rent prices have never returned to pre-2020 levels](https://www.sfchronicle.com/realestate/article/sf-rent-prices-18534829.php)
+- [Ask yourself dumb questions and answer them &lpar;2020&rpar;](https://terrytao.wordpress.com/career-advice/ask-yourself-dumb-questions-and-answer-them/)
+- [StreamDiffusion: A pipeline-level solution for real-time interactive generation](https://github.com/cumulo-autumn/StreamDiffusion)
+- [Crown shyness](https://en.wikipedia.org/wiki/Crown_shyness)
+- [NY Governor vetoes ban on noncompete clauses, waters down LLC transparency bill](https://gothamist.com/news/ny-gov-hochul-vetoes-ban-on-noncompete-clauses-waters-down-llc-transparency-bill)
+- [Translation and accelerated solving of differential equations on GPU platforms](https://arxiv.org/abs/2304.06835)
+- [GM halts sales of its new Chevy Blazer EV amid reports of software issues](https://www.engadget.com/gm-halts-sales-of-its-new-chevy-blazer-ev-amid-reports-of-major-software-issues-214225984.html)
+- [How does a B-tree make queries fast?](https://blog.allegro.tech/2023/11/how-does-btree-make-your-queries-fast.html)
+- [The Art of Electronics &lpar;2015&rpar;](https://artofelectronics.net/)
+- [Par: Paragraph reformatter, vaguely similar to fmt, but better](http://www.nicemice.net/par/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

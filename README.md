@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [New software paves the way for finding bacteriophages to control bacteria](https://phys.org/news/2023-12-software-paves-bacteriophages-bacteria.html)
-- [The Science and Standards Behind the Breakthrough](https://www.verses.ai/blogs/science-and-standards-behind-the-breakthrough)
-- [CSV++](https://github.com/patrickomatic/csv-plus-plus)
-- [How Putin&#39;s Right-Hand Man Took Out Prigozhin](https://www.wsj.com/world/russia/putin-patrushev-plan-prigozhin-assassination-428d5ed8)
-- [Ask HN: Do you have favorite books, courses or videos on engineering leadership?](https://news.ycombinator.com/item?id=38740981)
-- [Elixir v1.16 Released](https://elixir-lang.org/blog/2023/12/22/elixir-v1-16-0-released/)
-- [Apple explore LLM on flash &lpar;run large lang model on iDevices?&rpar;](https://wccftech.com/apple-exploring-llm-on-flash-storage-bring-technology-to-phones-laptops/)
-- [Why RPN and how to use it](https://www.thecalculatorstore.com/Manuals/why-RPN)
-- [Who is stll making RPN calculators, that is besides the HP-12? &lpar;2017&rpar;](https://forum.allaboutcircuits.com/threads/who-is-stll-making-rpn-calculators-that-is-besides-the-hp-12.134787/)
-- [China Rebuilds Secretive Base for Nuclear Tests](https://www.nytimes.com/interactive/2023/12/20/science/china-nuclear-tests-lop-nur.html)
+- [Can Microsoft Flight Simulator help me learn to fly &lpar;or make me a better pilot&rpar;?](https://aviation.stackexchange.com/questions/738/can-microsoft-flight-simulator-help-me-learn-to-fly-or-make-me-a-better-pilot)
+- [On Chains and Complex Systems](https://surfingcomplexity.blog/2023/12/23/on-chains-and-complex-systems/)
+- [Reindeer can eat and sleep at the same time, a new study suggests](https://www.sciencenews.org/article/reindeer-sleep-eat-chew-arctic)
+- [Record US Adults Giving Up on Ever Finding Work &lpar;2022&rpar; [video]](https://www.youtube.com/watch?v=GFb4rXMADvg)
+- [When sex matters more than gender identity – research proves different outcomes](https://thecritic.co.uk/when-sex-matters-more-than-gender-identity/)
+- [Bluesky posts are finally open to the public](https://www.theverge.com/2023/12/22/24012862/bluesky-posts-visible-not-logged-in-new-logo)
+- [The Problem with State Management, and Why It Shouldn&#39;t Be a Problem](https://blog.gsconrad.com/2023/12/22/the-problem-with-state-management.html)
+- [Jank Language Development Update](https://jank-lang.org/blog/2023-12-17-module-loading/)
+- [&quot;Flying dragon&quot; robot harnesses the &quot;crazy hose&quot; effect to fight fires](https://newatlas.com/drones/flying-dragon-firefighting-robot/)
+- [From CZ to SBF, 2023 was the year of the fallen crypto bro](https://arstechnica.com/tech-policy/2023/12/from-cz-to-sbf-2023-was-the-year-of-the-fallen-crypto-bro/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

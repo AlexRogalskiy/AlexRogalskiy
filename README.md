@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [UK traditions such as panto and carols could join Unesco cultural heritage list](https://www.theguardian.com/culture/2023/dec/23/uk-traditions-panto-carols-could-join-unesco-cultural-heritage-list)
-- [Banksy artwork stolen less than an hour after unveiling in south London](https://www.theguardian.com/artanddesign/2023/dec/22/banksy-artwork-stolen-south-london-peckham)
-- [Editors’ picks: five ways to rock red during the party season – in pictures](https://www.theguardian.com/fashion/gallery/2023/dec/22/editors-picks-five-ways-to-rock-red-during-the-party-season-in-pictures)
-- [‘I’m very proud of him’: Sebastien Lai on Hong Kong, accountability and his father Jimmy’s trial](https://www.theguardian.com/world/2023/dec/23/jimmy-lai-democracy-activist-trial-hong-kong-son-sebastien-interview)
-- [‘I’m still single and the happiest I’ve ever been’: life after dating apps | Intimate details](https://www.theguardian.com/lifeandstyle/2023/dec/23/im-still-single-and-the-happiest-ive-ever-been-life-after-dating-apps)
-- [Ford helps Sale open up four-point lead at top after narrow win over Saracens](https://www.theguardian.com/sport/2023/dec/22/ford-helps-sale-open-up-four-point-lead-at-top-after-narrow-win-over-saracens)
-- [Christmas getaway disruption continues amid Dover, road and rail delays](https://www.theguardian.com/uk-news/2023/dec/22/channel-rail-operations-resume-normal-service-after-strike-by-french-workers-eurostar-eurotunnel)
-- [Labour warns of ‘Christmas chaos’ on the trains after record payouts for delays](https://www.theguardian.com/uk-news/2023/dec/22/labour-warns-of-christmas-chaos-on-the-trains-after-record-payouts-for-delays)
-- [Charlie Sheen allegedly attacked at home by a neighbour, US media report](https://www.theguardian.com/culture/2023/dec/22/charlie-sheen-allegedly-attacked-at-home-by-a-neighbour-us-media-report)
-- [Manchester City have closed a chapter in completing set, says Guardiola](https://www.theguardian.com/football/2023/dec/22/manchester-city-have-closed-a-chapter-in-completing-set-says-guardiola)
+- [Israeli airstrike kills Gaza aid worker and 70 of his extended family, UN says](https://www.theguardian.com/world/2023/dec/23/israeli-airstrike-kills-gaza-aid-worker-and-70-of-his-extended-family-un-says)
+- [Wilder stunned by Parker in Riyadh before Joshua outclasses Wallin](https://www.theguardian.com/sport/2023/dec/24/wilder-stunned-parker-riyadh-joshua-wallin-boxing-saudi-arabia)
+- [PDC world darts: Ricky Evans routs Nathan Aspinall in stunning style](https://www.theguardian.com/sport/2023/dec/24/pdc-world-darts-ricky-evans-routs-nathan-aspinall-in-stunning-style)
+- [Multiple people injured in shooting at Florida shopping mall](https://www.theguardian.com/us-news/2023/dec/23/florida-shopping-mall-shooting)
+- [US band Dixie Chicks ‘shocked and saddened’ by death of co-founder Laura Lynch](https://www.theguardian.com/culture/2023/dec/23/dixie-chicks-laura-lynch-car-crash)
+- [Chris Wilder vows crackdown after Sheffield United’s lineup leaked](https://www.theguardian.com/football/2023/dec/23/chris-wilder-vows-crackdown-after-sheffield-uniteds-lineup-leaked)
+- [James Cleverly apologises for ‘appalling’ date rape drug joke at No 10 event](https://www.theguardian.com/politics/2023/dec/23/james-cleverly-apologises-for-appalling-date-drug-joke-at-no-10-event)
+- [Mikel Arteta hails Arsenal’s ‘courage and belief’ after Liverpool draw](https://www.theguardian.com/football/2023/dec/23/mikel-arteta-hails-arsenals-courage-and-belief-after-liverpool-draw)
+- [Sadiq Khan backs sending 4x4s due for scrappage under Ulez to Ukraine](https://www.theguardian.com/politics/2023/dec/23/sadiq-khan-says-he-backs-sending-4x4s-due-for-scrappage-under-ulez-to-ukraine)
+- [The Unofficial Science of Die Hard review – hands down the daftest programme of Christmas 2023](https://www.theguardian.com/tv-and-radio/2023/dec/23/the-unofficial-science-of-die-hard-review-hands-down-the-daftest-programme-of-christmas-2023)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

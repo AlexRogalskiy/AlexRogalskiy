@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [San Francisco’s rent prices have never returned to pre-2020 levels](https://www.sfchronicle.com/realestate/article/sf-rent-prices-18534829.php)
-- [Ask yourself dumb questions and answer them &lpar;2020&rpar;](https://terrytao.wordpress.com/career-advice/ask-yourself-dumb-questions-and-answer-them/)
-- [StreamDiffusion: A pipeline-level solution for real-time interactive generation](https://github.com/cumulo-autumn/StreamDiffusion)
-- [Crown shyness](https://en.wikipedia.org/wiki/Crown_shyness)
-- [NY Governor vetoes ban on noncompete clauses, waters down LLC transparency bill](https://gothamist.com/news/ny-gov-hochul-vetoes-ban-on-noncompete-clauses-waters-down-llc-transparency-bill)
-- [Translation and accelerated solving of differential equations on GPU platforms](https://arxiv.org/abs/2304.06835)
-- [GM halts sales of its new Chevy Blazer EV amid reports of software issues](https://www.engadget.com/gm-halts-sales-of-its-new-chevy-blazer-ev-amid-reports-of-major-software-issues-214225984.html)
-- [How does a B-tree make queries fast?](https://blog.allegro.tech/2023/11/how-does-btree-make-your-queries-fast.html)
-- [The Art of Electronics &lpar;2015&rpar;](https://artofelectronics.net/)
-- [Par: Paragraph reformatter, vaguely similar to fmt, but better](http://www.nicemice.net/par/)
+- [NFTs died a slow, painful death in 2023 as most are now worthless](https://www.newscientist.com/article/2406198-nfts-died-a-slow-painful-death-in-2023-as-most-are-now-worthless/)
+- [Cray-1 vs Raspberry Pi](http://www.roylongbottom.org.uk/Cray%201%20Supercomputer%20Performance%20Comparisons%20With%20Home%20Computers%20Phones%20and%20Tablets.htm)
+- [x86-64 Assembly Language Programming with Ubuntu &lpar;2022&rpar;](http://www.egr.unlv.edu/~ed/x86.html)
+- [The era of American computer magazines has drawn to a close](https://bytecellar.com/2023/12/23/the-era-of-american-computer-magazines-has-drawn-to-a-close/)
+- [The History of Xenix](https://www.abortretry.fail/p/the-history-of-xenix)
+- [Time Is Encoded in the Weights of Finetuned Language Models](https://arxiv.org/abs/2312.13401)
+- [How the weak win wars: A theory of asymmetric conflict &lpar;2021&rpar; [pdf]](https://web.archive.org/web/20210827053020id_/https://watermark.silverchair.com/016228801753212868.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAtAwggLMBgkqhkiG9w0BBwagggK9MIICuQIBADCCArIGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMsFx_L4GNlU2N202gAgEQgIICg0JcfB_c0FpMcWGV1VmX2fx4NNs5ndOi5wzFx9l8AWBAd_KVbp5AuElpYXEUZSE8F28zUGJJ_pUhQ4dEjJfL8dH2EjaBPxsbstLCOyMPeXUuRQmDLLAPu5_cFf_NlscYvuanjGvnS3TpcYzjA6FHJaP9Y9OnjKkDpejzsEQeFy_aBOGujlgKU94alIeBgxrvxgXAFpLfHYsk3F4LNvKuWPw-AFvADltfKSnF77-4hJFj2oJOUsKSWIiLYmGnPRbP_kvawXfdyhg5W_Rt8KogNPKq4oLodfOokuGEoVdzLEmaX0FcOv_0Zz5LTrbWVG0NufNTglqp6XG3bG29XcXq-Zn5h4QzCudPhaj0_wps0WCgzM5SUjeGevsbRmLtkRHAY2xYrQDivd8RmF7cw3tucjBDxt8l-11KEEp9j5UANFhn5lQDObRsQcbaBGdNXO1SrYRwblxUFzSqgz160x05gFfdfipS1-xxbq2appUBYwS72GmFFROzKRToZy4MbNliSX-KCqXhJW6a6wz4RaL9z-38Xp0pIeYWn1pibF7vj6WF6eLSAU6u-95ufNY7o4aL83JJuhPJLeaowmfWnF4TsOaPNcYr6CfYgh0WAd-SK7gjoAxkZXWV9QpgOInzhgT9DNiD6CxK3UjJRQPxCyQrGUehvwRKmIwMbLrwViTGU60fJcCJxl-ZYbCsUAD8LqRnsDeMY40DE0h9pBQ-AlS5GEfwHmsKXiPgx04LEBz97wt-bEjL6RKBTrzGftTNlHPWpRXQ2QNGMVTtzSyUNUU-3Ci43zjcila8kT298HrAc8wGbX3gWzPMiEGBD8h4bCxToe8xLBH2NZ1jlsETYAsUqWJc9Ds)
+- [&quot;Attention&quot;, &quot;Transformers&quot;, in Neural Network &quot;Large Language Models&quot;](http://bactra.org/notebooks/nn-attention-and-transformers.html)
+- [Medical schools do not prepare students to care for autistic or disabled people](https://www.statnews.com/2023/12/11/medical-schools-idd-education-intellectual-developmental-disabilities-patients/)
+- [Meticulous &lpar;YC S21&rpar; is hiring a founding engineer](https://news.ycombinator.com/item?id=38756804)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

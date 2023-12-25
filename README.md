@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Israeli airstrike kills Gaza aid worker and 70 of his extended family, UN says](https://www.theguardian.com/world/2023/dec/23/israeli-airstrike-kills-gaza-aid-worker-and-70-of-his-extended-family-un-says)
-- [Wilder stunned by Parker in Riyadh before Joshua outclasses Wallin](https://www.theguardian.com/sport/2023/dec/24/wilder-stunned-parker-riyadh-joshua-wallin-boxing-saudi-arabia)
-- [PDC world darts: Ricky Evans routs Nathan Aspinall in stunning style](https://www.theguardian.com/sport/2023/dec/24/pdc-world-darts-ricky-evans-routs-nathan-aspinall-in-stunning-style)
-- [Multiple people injured in shooting at Florida shopping mall](https://www.theguardian.com/us-news/2023/dec/23/florida-shopping-mall-shooting)
-- [US band Dixie Chicks ‘shocked and saddened’ by death of co-founder Laura Lynch](https://www.theguardian.com/culture/2023/dec/23/dixie-chicks-laura-lynch-car-crash)
-- [Chris Wilder vows crackdown after Sheffield United’s lineup leaked](https://www.theguardian.com/football/2023/dec/23/chris-wilder-vows-crackdown-after-sheffield-uniteds-lineup-leaked)
-- [James Cleverly apologises for ‘appalling’ date rape drug joke at No 10 event](https://www.theguardian.com/politics/2023/dec/23/james-cleverly-apologises-for-appalling-date-drug-joke-at-no-10-event)
-- [Mikel Arteta hails Arsenal’s ‘courage and belief’ after Liverpool draw](https://www.theguardian.com/football/2023/dec/23/mikel-arteta-hails-arsenals-courage-and-belief-after-liverpool-draw)
-- [Sadiq Khan backs sending 4x4s due for scrappage under Ulez to Ukraine](https://www.theguardian.com/politics/2023/dec/23/sadiq-khan-says-he-backs-sending-4x4s-due-for-scrappage-under-ulez-to-ukraine)
-- [The Unofficial Science of Die Hard review – hands down the daftest programme of Christmas 2023](https://www.theguardian.com/tv-and-radio/2023/dec/23/the-unofficial-science-of-die-hard-review-hands-down-the-daftest-programme-of-christmas-2023)
+- [At least 70 killed in Israeli strike on refugee camp in central Gaza, health ministry says](https://www.theguardian.com/world/2023/dec/24/deaths-israel-strike-on-refugee-camp-in-central-gaza)
+- [A Ghost Story for Christmas: Lot No 249 review – Mark Gatiss’s camp, creepy tale is absolutely bang on](https://www.theguardian.com/tv-and-radio/2023/dec/24/a-ghost-story-for-christmas-lot-no-249-review-mark-gatisss-camp-creepy-tale-is-absolutely-bang-on)
+- [The Heist Before Christmas review – Timothy Spall’s festive drama is a total triumph](https://www.theguardian.com/tv-and-radio/2023/dec/24/the-heist-before-christmas-review-sky-max-now-tv)
+- [Serbian police fire teargas as thousand protest over ‘unfair’ elections](https://www.theguardian.com/world/2023/dec/24/thousands-protest-belgrade-demand-annulment-elections-serbia)
+- [Five killed in Russian attacks on Kherson as Ukraine marks Christmas on 25 December for first time](https://www.theguardian.com/world/2023/dec/24/russians-shell-kherson-as-ukraine-marks-christmas-on-25-december-for-first-time)
+- [How to defuse an argument: prepare, repair or ‘let them yell it out’](https://www.theguardian.com/lifeandstyle/2023/dec/25/how-to-defuse-an-argument-christmas-family-advice)
+- [Monotreme dreams: the plan to reintroduce platypuses into Adelaide’s once ‘noxious’ river](https://www.theguardian.com/environment/2023/dec/24/monotreme-dreams-the-plan-to-reintroduce-platypuses-into-adelaides-once-noxious-river)
+- [Ten January transfer targets – from Guirassy and Toney to André | Ed Aarons](https://www.theguardian.com/football/2023/dec/24/ten-january-transfer-targets-from-guirassy-and-toney-to-andre)
+- [‘No Xmas as usual’: pro-Palestinian protesters demonstrate in US cities](https://www.theguardian.com/world/2023/dec/24/pro-palestinian-marches-us-cities-christmas)
+- [UK sees warmest Christmas Eve in more than 20 years after temperatures hit 15C](https://www.theguardian.com/uk-news/2023/dec/24/uk-weather-christmas-day-wet-windy-unseasonably-warm)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

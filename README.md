@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [A Zero-Dependency WebAssembly Runtime for the JVM](https://www.javaadvent.com/2023/12/chicory-wasm-jvm.html)
-- [We Achieved a 40x Performance Boost in Metadata Backup and Recovery](https://juicefs.com/en/blog/engineering/increase-performance-metadata-backup-recovery)
-- [Where the heck is Apple&#39;s foldable iPhone?](https://www.techradar.com/phones/iphone/where-the-heck-is-apples-foldable-iphone)
-- [BitfireAT/webdav-push: WebDAV Push: Draft](https://github.com/bitfireAT/webdav-push)
-- [Elon Musk promised an anti-&#39;woke&#39; chatbot. It&#39;s not going as planned](https://www.msn.com/en-us/news/technology/elon-musk-promised-an-anti-woke-chatbot-it-s-not-going-as-planned/ar-AA1lWufo)
-- [Non-invasive system translates raw EEG waves directly into language](https://www.uts.edu.au/news/tech-design/portable-non-invasive-mind-reading-ai-turns-thoughts-text)
-- [A Tradition That Keeps Christmas Trees Alive](https://reasonstobecheerful.world/living-christmas-trees-reuse-tradition/)
-- [Scientists went to an asteroid to sample the Sun](https://www.economist.com/science-and-technology/2023/12/14/how-scientists-went-to-an-asteroid-to-sample-the-sun)
-- [NFTs died a slow, painful death in 2023 as most are now worthless](https://www.newscientist.com/article/2406198-nfts-died-a-slow-painful-death-in-2023-as-most-are-now-worthless/)
-- [Is this the most energy-efficient way to build homes?](https://www.technologyreview.com/2023/12/22/1084532/passive-house-energy-efficient-harold-orr/)
+- [Bootstrapping a Forth in 40 lines of Lua code &lpar;2008&rpar;](http://angg.twu.net/miniforth-article.html)
+- [MODFLOW: The U.S. Geological Survey modular finite-difference flow model](https://www.usgs.gov/mission-areas/water-resources/science/modflow-and-related-programs)
+- [Study on evolution of same-sex animal behaviors underscores stigmas in research](https://news.mongabay.com/2023/12/study-on-evolution-of-same-sex-animal-behaviors-underscores-stigmas-in-research/)
+- [MacMad: Newsletter of the Space Coast Macintosh&#39; Society: Vol 1, No. 3 &lpar;1984&rpar; [pdf]](https://macmad.org/newsletters/Nov1984MacMAD.pdf)
+- [Are RSA signatures distinguishable from random data?](https://crypto.stackexchange.com/questions/109174/are-rsa-signatures-distinguishable-from-random-data)
+- [Why Drugs Got Harder to Develop and What Can Be Done About It](https://atelfo.github.io/2023/12/23/biopharma-from-janssen-to-today.html)
+- [Frameworks Cover Up Skill Issues, and That&#39;s a Good Thing](https://jakelazaroff.com/words/frameworks-cover-up-skill-issues-and-thats-a-good-thing/)
+- [What are farm animals thinking?](https://www.science.org/content/article/not-dumb-creatures-livestock-surprise-scientists-their-complex-emotional-minds/?src=longreads)
+- [&#39;Tis the Season to Kill the Dead-Mom Holiday Movie Trope](https://longreads.com/2023/12/13/tis-the-season-to-kill-the-dead-mom-holiday-movie-trope/)
+- [Guide to User Data Security](https://fusionauth.io/articles/security/guide-to-user-data-security)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

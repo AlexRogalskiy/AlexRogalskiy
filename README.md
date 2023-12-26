@@ -355,6 +355,7 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [How to securely erase your Android device in 3 simple steps](https://www.computerworld.com/article/3243253/how-to-securely-erase-your-android-device-in-4-steps.html#tk.rss_all)
 - [Tips for new tech devices](https://www.computerworld.com/article/3153208/tips-for-new-tech-devices.html#tk.rss_all)
 - [Tech layoffs in 2023: A timeline](https://www.computerworld.com/article/3685936/tech-layoffs-in-2023-a-timeline.html#tk.rss_all)
 - [The top Google Pixel tips of 2023](https://www.computerworld.com/article/3682775/google-pixel-tips-2023.html#tk.rss_all)
@@ -364,7 +365,6 @@
 - [UK Supreme Court: No, your AI can’t hold a patent](https://www.computerworld.com/article/3711782/uk-supreme-court-no-your-ai-can-t-hold-a-patent.html#tk.rss_all)
 - [Microsoft confirms Wi-Fi issue caused by update, issues rollback as temporary fix](https://www.computerworld.com/article/3711706/microsoft-confirms-wi-fi-issue-caused-by-update-issues-rollback-as-temporary-fix.html#tk.rss_all)
 - [Apple updates IT training for enterprise pros](https://www.computerworld.com/article/3711761/apple-updates-it-training-for-enterprise-pros.html#tk.rss_all)
-- [Office apps come to Meta’s Quest devices, but real-world use will take time](https://www.computerworld.com/article/3711644/office-apps-come-to-metas-quest-devices-but-real-world-use-will-take-time.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

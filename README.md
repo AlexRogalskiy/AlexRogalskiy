@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [At least 70 killed in Israeli strike on refugee camp in central Gaza, health ministry says](https://www.theguardian.com/world/2023/dec/24/deaths-israel-strike-on-refugee-camp-in-central-gaza)
-- [A Ghost Story for Christmas: Lot No 249 review – Mark Gatiss’s camp, creepy tale is absolutely bang on](https://www.theguardian.com/tv-and-radio/2023/dec/24/a-ghost-story-for-christmas-lot-no-249-review-mark-gatisss-camp-creepy-tale-is-absolutely-bang-on)
-- [The Heist Before Christmas review – Timothy Spall’s festive drama is a total triumph](https://www.theguardian.com/tv-and-radio/2023/dec/24/the-heist-before-christmas-review-sky-max-now-tv)
-- [Serbian police fire teargas as thousand protest over ‘unfair’ elections](https://www.theguardian.com/world/2023/dec/24/thousands-protest-belgrade-demand-annulment-elections-serbia)
-- [Five killed in Russian attacks on Kherson as Ukraine marks Christmas on 25 December for first time](https://www.theguardian.com/world/2023/dec/24/russians-shell-kherson-as-ukraine-marks-christmas-on-25-december-for-first-time)
-- [How to defuse an argument: prepare, repair or ‘let them yell it out’](https://www.theguardian.com/lifeandstyle/2023/dec/25/how-to-defuse-an-argument-christmas-family-advice)
-- [Monotreme dreams: the plan to reintroduce platypuses into Adelaide’s once ‘noxious’ river](https://www.theguardian.com/environment/2023/dec/24/monotreme-dreams-the-plan-to-reintroduce-platypuses-into-adelaides-once-noxious-river)
-- [Ten January transfer targets – from Guirassy and Toney to André | Ed Aarons](https://www.theguardian.com/football/2023/dec/24/ten-january-transfer-targets-from-guirassy-and-toney-to-andre)
-- [‘No Xmas as usual’: pro-Palestinian protesters demonstrate in US cities](https://www.theguardian.com/world/2023/dec/24/pro-palestinian-marches-us-cities-christmas)
-- [UK sees warmest Christmas Eve in more than 20 years after temperatures hit 15C](https://www.theguardian.com/uk-news/2023/dec/24/uk-weather-christmas-day-wet-windy-unseasonably-warm)
+- [Australia v Pakistan: Boxing Day Test, day one – live](https://www.theguardian.com/sport/live/2023/dec/25/australia-vs-pakistan-boxing-day-test-live-updates-day-one-cricket-scores-results-start-time-teams-mcg-melbourne)
+- [Hostages’ families heckle Netanyahu as he warns Israel ‘expanding’ Gaza fight](https://www.theguardian.com/world/2023/dec/26/hostages-families-heckle-netanyahu-as-he-warns-israel-expanding-gaza-fight)
+- [Russia-Ukraine war at a glance: what we know on day 671](https://www.theguardian.com/world/2023/dec/26/russia-ukraine-war-at-a-glance-what-we-know-on-day-671)
+- [King Charles praises ‘selfless’ people who form ‘backbone of society’ in Christmas speech](https://www.theguardian.com/uk-news/2023/dec/25/king-charles-praises-selfless-people-who-form-backbone-of-society-in-christmas-speech)
+- [Police step up patrols in Dublin after restaurant shooting on Christmas Eve](https://www.theguardian.com/world/2023/dec/25/leo-varadkar-condemns-fatal-shooting-at-dublin-restaurant)
+- [Caroline Aherne: Queen of Comedy review – an unforgettable celebration of comedy brilliance](https://www.theguardian.com/tv-and-radio/2023/dec/25/bbc-caroline-aherne-queen-of-comedy-review-a-vivid-unforgettable-celebration-of-comedy-brilliance)
+- [Six-year-old boy put on wrong flight from Philadelphia to Florida](https://www.theguardian.com/world/2023/dec/25/six-year-old-wrong-flight-philadelphia-orlando-fort-myers-florida)
+- [At least 160 dead and 300 wounded after attacks by armed gangs in Nigeria](https://www.theguardian.com/world/2023/dec/25/attacks-by-military-gangs-in-nigeria)
+- [Labour to crack down on ‘dodgy’ candy stores in push to revive high streets](https://www.theguardian.com/politics/2023/dec/25/labour-to-crack-down-on-dodgy-candy-stores-in-push-to-revive-high-streets)
+- [Ten Hag urges Manchester United to ‘step up’ as Ineos deal raises pressure](https://www.theguardian.com/football/2023/dec/25/ten-hag-urges-manchester-united-to-step-up-as-ineos-deal-raises-pressure)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

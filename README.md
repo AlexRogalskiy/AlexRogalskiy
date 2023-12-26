@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [NFTs died a slow, painful death in 2023 as most are now worthless](https://www.newscientist.com/article/2406198-nfts-died-a-slow-painful-death-in-2023-as-most-are-now-worthless/)
-- [Cray-1 vs Raspberry Pi](http://www.roylongbottom.org.uk/Cray%201%20Supercomputer%20Performance%20Comparisons%20With%20Home%20Computers%20Phones%20and%20Tablets.htm)
-- [x86-64 Assembly Language Programming with Ubuntu &lpar;2022&rpar;](http://www.egr.unlv.edu/~ed/x86.html)
-- [The era of American computer magazines has drawn to a close](https://bytecellar.com/2023/12/23/the-era-of-american-computer-magazines-has-drawn-to-a-close/)
-- [The History of Xenix](https://www.abortretry.fail/p/the-history-of-xenix)
-- [Time Is Encoded in the Weights of Finetuned Language Models](https://arxiv.org/abs/2312.13401)
-- [How the weak win wars: A theory of asymmetric conflict &lpar;2021&rpar; [pdf]](https://web.archive.org/web/20210827053020id_/https://watermark.silverchair.com/016228801753212868.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAtAwggLMBgkqhkiG9w0BBwagggK9MIICuQIBADCCArIGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMsFx_L4GNlU2N202gAgEQgIICg0JcfB_c0FpMcWGV1VmX2fx4NNs5ndOi5wzFx9l8AWBAd_KVbp5AuElpYXEUZSE8F28zUGJJ_pUhQ4dEjJfL8dH2EjaBPxsbstLCOyMPeXUuRQmDLLAPu5_cFf_NlscYvuanjGvnS3TpcYzjA6FHJaP9Y9OnjKkDpejzsEQeFy_aBOGujlgKU94alIeBgxrvxgXAFpLfHYsk3F4LNvKuWPw-AFvADltfKSnF77-4hJFj2oJOUsKSWIiLYmGnPRbP_kvawXfdyhg5W_Rt8KogNPKq4oLodfOokuGEoVdzLEmaX0FcOv_0Zz5LTrbWVG0NufNTglqp6XG3bG29XcXq-Zn5h4QzCudPhaj0_wps0WCgzM5SUjeGevsbRmLtkRHAY2xYrQDivd8RmF7cw3tucjBDxt8l-11KEEp9j5UANFhn5lQDObRsQcbaBGdNXO1SrYRwblxUFzSqgz160x05gFfdfipS1-xxbq2appUBYwS72GmFFROzKRToZy4MbNliSX-KCqXhJW6a6wz4RaL9z-38Xp0pIeYWn1pibF7vj6WF6eLSAU6u-95ufNY7o4aL83JJuhPJLeaowmfWnF4TsOaPNcYr6CfYgh0WAd-SK7gjoAxkZXWV9QpgOInzhgT9DNiD6CxK3UjJRQPxCyQrGUehvwRKmIwMbLrwViTGU60fJcCJxl-ZYbCsUAD8LqRnsDeMY40DE0h9pBQ-AlS5GEfwHmsKXiPgx04LEBz97wt-bEjL6RKBTrzGftTNlHPWpRXQ2QNGMVTtzSyUNUU-3Ci43zjcila8kT298HrAc8wGbX3gWzPMiEGBD8h4bCxToe8xLBH2NZ1jlsETYAsUqWJc9Ds)
-- [&quot;Attention&quot;, &quot;Transformers&quot;, in Neural Network &quot;Large Language Models&quot;](http://bactra.org/notebooks/nn-attention-and-transformers.html)
-- [Medical schools do not prepare students to care for autistic or disabled people](https://www.statnews.com/2023/12/11/medical-schools-idd-education-intellectual-developmental-disabilities-patients/)
-- [Meticulous &lpar;YC S21&rpar; is hiring a founding engineer](https://news.ycombinator.com/item?id=38756804)
+- [&quot;Simple Made Easy&quot; – Rich Hickey &lpar;2011&rpar; [video]](https://www.youtube.com/watch?v=SxdOUGdseq4)
+- [Fed court rules for retired engineer told by state to not talk about math](https://www.wect.com/2023/12/20/federal-court-decides-favor-retired-engineer-told-by-state-not-talk-about-math-public/)
+- [DreamCoder: Growing Generalizable, Interpretable Knowledge](https://arxiv.org/abs/2006.08381)
+- [Live in Cook County Jail](https://en.wikipedia.org/wiki/Live_in_Cook_County_Jail)
+- [Electronic soil boosts crop growth by over 50%](https://www.earth.com/news/electronic-soil-boosts-crop-growth-by-over-50/)
+- [Using Qt for Mobile in 2023](https://camg.me/qt-mobile-2023/)
+- [Emulating an iPod Touch 2G using QEMU](https://devos50.github.io/blog/2023/ipod-touch-2g-qemu/)
+- [Nintendo Network shutdown – The beginning of the end](https://pretendo.network/blog/12-23-23)
+- [When a postdoc in my lab committed fraud, I had to face my own culpability](https://www.science.org/content/article/when-postdoc-in-my-lab-committed-fraud-i-had-to-face-my-culpability)
+- [Evolving Reservoirs for Meta Reinforcement Learning](https://arxiv.org/abs/2312.06695)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

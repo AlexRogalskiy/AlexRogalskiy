@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Australia v Pakistan: Boxing Day Test, day one – live](https://www.theguardian.com/sport/live/2023/dec/25/australia-vs-pakistan-boxing-day-test-live-updates-day-one-cricket-scores-results-start-time-teams-mcg-melbourne)
-- [Hostages’ families heckle Netanyahu as he warns Israel ‘expanding’ Gaza fight](https://www.theguardian.com/world/2023/dec/26/hostages-families-heckle-netanyahu-as-he-warns-israel-expanding-gaza-fight)
-- [Russia-Ukraine war at a glance: what we know on day 671](https://www.theguardian.com/world/2023/dec/26/russia-ukraine-war-at-a-glance-what-we-know-on-day-671)
-- [King Charles praises ‘selfless’ people who form ‘backbone of society’ in Christmas speech](https://www.theguardian.com/uk-news/2023/dec/25/king-charles-praises-selfless-people-who-form-backbone-of-society-in-christmas-speech)
-- [Police step up patrols in Dublin after restaurant shooting on Christmas Eve](https://www.theguardian.com/world/2023/dec/25/leo-varadkar-condemns-fatal-shooting-at-dublin-restaurant)
-- [Caroline Aherne: Queen of Comedy review – an unforgettable celebration of comedy brilliance](https://www.theguardian.com/tv-and-radio/2023/dec/25/bbc-caroline-aherne-queen-of-comedy-review-a-vivid-unforgettable-celebration-of-comedy-brilliance)
-- [Six-year-old boy put on wrong flight from Philadelphia to Florida](https://www.theguardian.com/world/2023/dec/25/six-year-old-wrong-flight-philadelphia-orlando-fort-myers-florida)
-- [At least 160 dead and 300 wounded after attacks by armed gangs in Nigeria](https://www.theguardian.com/world/2023/dec/25/attacks-by-military-gangs-in-nigeria)
-- [Labour to crack down on ‘dodgy’ candy stores in push to revive high streets](https://www.theguardian.com/politics/2023/dec/25/labour-to-crack-down-on-dodgy-candy-stores-in-push-to-revive-high-streets)
-- [Ten Hag urges Manchester United to ‘step up’ as Ineos deal raises pressure](https://www.theguardian.com/football/2023/dec/25/ten-hag-urges-manchester-united-to-step-up-as-ineos-deal-raises-pressure)
+- [Australia v Pakistan: Boxing Day Test, day two – live](https://www.theguardian.com/sport/live/2023/dec/27/australia-vs-pakistan-boxing-day-test-day-two-live-updates-scores-results-teams-start-time-mcg-melbourne)
+- [Seven dead in Australia’s Christmas storms, with two still missing in Queensland](https://www.theguardian.com/australia-news/2023/dec/27/australia-christmas-storms-deaths-missing-qld-victoria-nsw)
+- [Alexei Navalny: ‘I’m fine’ says Kremlin critic from remote Arctic penal colony](https://www.theguardian.com/world/2023/dec/27/alexei-navalny-im-fine-says-kremlin-critic-from-remote-arctic-penal-colony)
+- [Russia-Ukraine war at a glance: what we know on day 672](https://www.theguardian.com/world/2023/dec/27/russia-ukraine-war-at-a-glance-what-we-know-on-day-672)
+- [David Trimble was ‘extraordinarily rude’ to Tony Blair at Good Friday talks](https://www.theguardian.com/uk-news/2023/dec/27/david-trimble-was-extraordinarily-rude-to-tony-blair-at-good-friday-talks)
+- [2023’s costliest climate disasters show poor lose out in ‘global postcode lottery’](https://www.theguardian.com/environment/2023/dec/27/2023-costliest-climate-disasters-poor-lose-out-global-postcode-lottery)
+- [The baby is how big?! Notes from an ultrasound | Toilet Feelings](https://www.theguardian.com/commentisfree/picture/2023/dec/27/the-baby-is-how-big-notes-from-an-ultrasound)
+- [Erik ten Hag ‘looking forward’ to working with Sir Jim Ratcliffe](https://www.theguardian.com/football/2023/dec/26/erik-ten-hag-looking-forward-to-working-with-sir-jim-ratcliffe)
+- [Tories to promise help for first-time buyers in effort to lure voters, say reports](https://www.theguardian.com/politics/2023/dec/26/tories-to-promise-help-for-first-time-buyers-in-effort-to-lure-voters-say-reports)
+- [FBI investigating threats directed at Colorado supreme court justices after Trump ruling](https://www.theguardian.com/us-news/2023/dec/26/colorado-supreme-court-justices-donald-trump-threat-fbi)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Bootstrapping a Forth in 40 lines of Lua code &lpar;2008&rpar;](http://angg.twu.net/miniforth-article.html)
-- [MODFLOW: The U.S. Geological Survey modular finite-difference flow model](https://www.usgs.gov/mission-areas/water-resources/science/modflow-and-related-programs)
-- [Study on evolution of same-sex animal behaviors underscores stigmas in research](https://news.mongabay.com/2023/12/study-on-evolution-of-same-sex-animal-behaviors-underscores-stigmas-in-research/)
-- [MacMad: Newsletter of the Space Coast Macintosh&#39; Society: Vol 1, No. 3 &lpar;1984&rpar; [pdf]](https://macmad.org/newsletters/Nov1984MacMAD.pdf)
-- [Are RSA signatures distinguishable from random data?](https://crypto.stackexchange.com/questions/109174/are-rsa-signatures-distinguishable-from-random-data)
-- [Why Drugs Got Harder to Develop and What Can Be Done About It](https://atelfo.github.io/2023/12/23/biopharma-from-janssen-to-today.html)
-- [Frameworks Cover Up Skill Issues, and That&#39;s a Good Thing](https://jakelazaroff.com/words/frameworks-cover-up-skill-issues-and-thats-a-good-thing/)
-- [What are farm animals thinking?](https://www.science.org/content/article/not-dumb-creatures-livestock-surprise-scientists-their-complex-emotional-minds/?src=longreads)
-- [&#39;Tis the Season to Kill the Dead-Mom Holiday Movie Trope](https://longreads.com/2023/12/13/tis-the-season-to-kill-the-dead-mom-holiday-movie-trope/)
-- [Guide to User Data Security](https://fusionauth.io/articles/security/guide-to-user-data-security)
+- [Public Facing Dog](https://sarahendren.com/2023/11/27/public-facing-dog/)
+- [Open Source Clones of Games](https://osgameclones.com/)
+- [A compact primer on Digital Signal Processing &lpar;2015&rpar;](https://jackschaedler.github.io/circles-sines-signals/index.html)
+- [Ask HN: Who wants to build a &quot;unique&quot; dating website? &lpar;part #2&rpar;](https://news.ycombinator.com/item?id=38778309)
+- [Santa SSLH at North Pole on Dec 24th 2023, near collision with aircraft](https://avherald.com/h?article=512c88be)
+- [WebAssembly ecosystem progress, updates on support for C# [video]](https://www.youtube.com/watch?v=fnAjxzMPPqk)
+- [Microsoft Copilot is now available as a ChatGPT-like app on Android](https://www.theverge.com/2023/12/26/24015198/microsoft-copilot-mobile-app-android-launch)
+- [Happy New Year HN](https://www.bravoboard.xyz/board/7943dda03b324dd7af34236accd00ba4/)
+- [Show HN: GPU Compute with a Conscience](https://solargpu.com/)
+- [An Alternative Syntax for Local Variable Type Inference in Java](https://aghasemi.js.org/blog/#P0001)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

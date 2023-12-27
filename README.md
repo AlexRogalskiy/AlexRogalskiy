@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [&quot;Simple Made Easy&quot; – Rich Hickey &lpar;2011&rpar; [video]](https://www.youtube.com/watch?v=SxdOUGdseq4)
-- [Fed court rules for retired engineer told by state to not talk about math](https://www.wect.com/2023/12/20/federal-court-decides-favor-retired-engineer-told-by-state-not-talk-about-math-public/)
-- [DreamCoder: Growing Generalizable, Interpretable Knowledge](https://arxiv.org/abs/2006.08381)
-- [Live in Cook County Jail](https://en.wikipedia.org/wiki/Live_in_Cook_County_Jail)
-- [Electronic soil boosts crop growth by over 50%](https://www.earth.com/news/electronic-soil-boosts-crop-growth-by-over-50/)
-- [Using Qt for Mobile in 2023](https://camg.me/qt-mobile-2023/)
-- [Emulating an iPod Touch 2G using QEMU](https://devos50.github.io/blog/2023/ipod-touch-2g-qemu/)
-- [Nintendo Network shutdown – The beginning of the end](https://pretendo.network/blog/12-23-23)
-- [When a postdoc in my lab committed fraud, I had to face my own culpability](https://www.science.org/content/article/when-postdoc-in-my-lab-committed-fraud-i-had-to-face-my-culpability)
-- [Evolving Reservoirs for Meta Reinforcement Learning](https://arxiv.org/abs/2312.06695)
+- [Imbue &lpar;FKA Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring a Technical Interviewer](https://news.ycombinator.com/item?id=38777908)
+- [Things software developers should learn about learning](https://cacm.acm.org/magazines/2024/1/278891-10-things-software-developers-should-learn-about-learning/fulltext)
+- [Amazon Prime Video Will Start Showing Ads on January 29](https://www.theverge.com/2023/12/26/24015595/amazon-prime-video-ads-coming-january-29)
+- [2nd City Zoning](https://secondcityzoning.org)
+- [Reckless DMCA Deindexing Pushes NASA&#39;s Artemis Towards Black Hole](https://torrentfreak.com/reckless-dmca-deindexing-pushes-nasas-artemis-towards-black-hole-231226/)
+- [History of Alice and Bob &lpar;2017&rpar;](http://cryptocouple.com/)
+- [Game Boy / Color Architecture](https://www.copetti.org/writings/consoles/game-boy/)
+- [30 years of Donald Knuth&#39;s &#39;Christmas Lectures&#39; are online – including 2023&#39;s](https://science.slashdot.org/story/23/12/23/0516244/30-years-of-donald-knuths-christmas-lectures-go-online---including-2023s)
+- [FUSE-T is a kext-less implementation of FUSE for macOS that uses NFSv4](https://github.com/macos-fuse-t/fuse-t)
+- [Veritasium: The SAT Question Everyone Got Wrong [video]](https://www.youtube.com/watch?v=FUHkTs-Ipfg)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

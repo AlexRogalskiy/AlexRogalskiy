@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Public Facing Dog](https://sarahendren.com/2023/11/27/public-facing-dog/)
-- [Open Source Clones of Games](https://osgameclones.com/)
-- [A compact primer on Digital Signal Processing &lpar;2015&rpar;](https://jackschaedler.github.io/circles-sines-signals/index.html)
-- [Ask HN: Who wants to build a &quot;unique&quot; dating website? &lpar;part #2&rpar;](https://news.ycombinator.com/item?id=38778309)
-- [Santa SSLH at North Pole on Dec 24th 2023, near collision with aircraft](https://avherald.com/h?article=512c88be)
-- [WebAssembly ecosystem progress, updates on support for C# [video]](https://www.youtube.com/watch?v=fnAjxzMPPqk)
-- [Microsoft Copilot is now available as a ChatGPT-like app on Android](https://www.theverge.com/2023/12/26/24015198/microsoft-copilot-mobile-app-android-launch)
-- [Happy New Year HN](https://www.bravoboard.xyz/board/7943dda03b324dd7af34236accd00ba4/)
-- [Show HN: GPU Compute with a Conscience](https://solargpu.com/)
-- [An Alternative Syntax for Local Variable Type Inference in Java](https://aghasemi.js.org/blog/#P0001)
+- [Sentiment Analysis of Right Wing Extremism in R/Canada &lpar;2023&rpar; [pdf]](https://summit.sfu.ca/_flysystem/fedora/2023-03/etd22338.pdf)
+- [What&#39;s making airline passengers act out on planes? Travelers are stressed out](https://www.businessinsider.com/unruly-plane-passengers-causes-airlines-experts-2023-12)
+- [Show HN: Medulla Mentor – A Brainstem Atlas](https://medullamentor.web.app)
+- [The fish that eats piranhas for breakfast](https://www.bbc.com/news/world-latin-america-66786995)
+- [Tallest wooden wind turbine starts turning](https://www.bbc.com/news/science-environment-67718719)
+- [OpenAI Cookbooks](https://cookbook.openai.com/)
+- [Ask HN: Why does cynicism rule the internet?](https://news.ycombinator.com/item?id=38789075)
+- [A behavioral scientist&#39;s advice for changing your life](https://www.npr.org/2021/05/14/996939779/a-behavioral-scientists-advice-for-changing-your-life)
+- [Towards total scene understanding for autonomous vehicles [video]](https://www.youtube.com/watch?v=ly6qVN2jWv0)
+- [Summary: Who Not How by Dan Sullivan and Dr. Benjamin Hardy](https://www.chestergrant.com/summary-who-not-how-by-dan-sullivan-and-dr-benjamin-hardy)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Imbue &lpar;FKA Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring a Technical Interviewer](https://news.ycombinator.com/item?id=38777908)
-- [Things software developers should learn about learning](https://cacm.acm.org/magazines/2024/1/278891-10-things-software-developers-should-learn-about-learning/fulltext)
-- [Amazon Prime Video Will Start Showing Ads on January 29](https://www.theverge.com/2023/12/26/24015595/amazon-prime-video-ads-coming-january-29)
-- [2nd City Zoning](https://secondcityzoning.org)
-- [Reckless DMCA Deindexing Pushes NASA&#39;s Artemis Towards Black Hole](https://torrentfreak.com/reckless-dmca-deindexing-pushes-nasas-artemis-towards-black-hole-231226/)
-- [History of Alice and Bob &lpar;2017&rpar;](http://cryptocouple.com/)
-- [Game Boy / Color Architecture](https://www.copetti.org/writings/consoles/game-boy/)
-- [30 years of Donald Knuth&#39;s &#39;Christmas Lectures&#39; are online – including 2023&#39;s](https://science.slashdot.org/story/23/12/23/0516244/30-years-of-donald-knuths-christmas-lectures-go-online---including-2023s)
-- [FUSE-T is a kext-less implementation of FUSE for macOS that uses NFSv4](https://github.com/macos-fuse-t/fuse-t)
-- [Veritasium: The SAT Question Everyone Got Wrong [video]](https://www.youtube.com/watch?v=FUHkTs-Ipfg)
+- [Docs Deserve More Respect](https://www.ramijames.com/thoughts/docs-deserve-more-respect)
+- [Jerry &lpar;YC S17&rpar; Is Hiring PMs, Engineers, Data Roles &lpar;Remote&rpar;](https://getjerry.com/careers)
+- [Game-icons.net: Free icons for your games](https://game-icons.net/)
+- [Breaking &quot;DRM&quot; in Polish trains [video] – 37c3 presentation](https://streaming.media.ccc.de/37c3/relive/12142)
+- [Valetudo – Cloud replacement for vacuum robots enabling local-only operation](https://valetudo.cloud/)
+- [No new iPhone? No secure iOS: Looking at an unfixed iOS vulnerability](https://joshua.hu/apple-ios-patched-unpatched-vulnerabilities)
+- [Show HN: Rem: Remember Everything &lpar;open source&rpar;](https://github.com/jasonjmcghee/rem)
+- [Debian Statement on the Cyber Resilience Act](https://lwn.net/Articles/956187/)
+- [3D Map of Shinjuku Station in Three.js](https://satoshi7190.github.io/Shinjuku-indoor-threejs-demo/)
+- [First new U.S. nuclear reactor since 2016 is now in operation](https://www.eia.gov/todayinenergy/detail.php?id=61106)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

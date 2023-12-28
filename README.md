@@ -355,6 +355,8 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [10 Windows annoyances and how to fix them](https://www.computerworld.com/article/3711500/microsoft-windows-annoyances.html#tk.rss_all)
+- [USB-C explained: How to get the most from it &lpar;and why it keeps on getting better&rpar;](https://www.computerworld.com/article/2488194/usb-c-explained-how-to-get-the-most-from-it-and-why-it-keeps-getting-better.html#tk.rss_all)
 - [2023&#39;s top Google Assistant advice for Android](https://www.computerworld.com/article/3682776/google-assistant-android-2023.html#tk.rss_all)
 - [18 ways to speed up Windows 10](https://www.computerworld.com/article/3029168/how-to-speed-up-windows-10.html#tk.rss_all)
 - [How to securely erase your Android device in 3 simple steps](https://www.computerworld.com/article/3243253/how-to-securely-erase-your-android-device-in-4-steps.html#tk.rss_all)
@@ -363,8 +365,6 @@
 - [The top Google Pixel tips of 2023](https://www.computerworld.com/article/3682775/google-pixel-tips-2023.html#tk.rss_all)
 - [Q&amp;A: How Athenahealth moved from traditional AI to genAI and ChatGPT](https://www.computerworld.com/article/3711802/qa-how-athenahealth-moved-from-traditional-ai-to-genai-and-chatgpt.html#tk.rss_all)
 - [Rite Aid hit with a five-year freeze on facial recognition](https://www.computerworld.com/article/3711841/rite-aid-hit-with-a-five-year-freeze-on-facial-recognition.html#tk.rss_all)
-- [The top 10 tech stories of 2023](https://www.computerworld.com/article/3711803/top-tech-stories-2023.html#tk.rss_all)
-- [UK Supreme Court: No, your AI can’t hold a patent](https://www.computerworld.com/article/3711782/uk-supreme-court-no-your-ai-can-t-hold-a-patent.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

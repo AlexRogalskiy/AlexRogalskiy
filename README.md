@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Australia v Pakistan: Boxing Day Test, day two – live](https://www.theguardian.com/sport/live/2023/dec/27/australia-vs-pakistan-boxing-day-test-day-two-live-updates-scores-results-teams-start-time-mcg-melbourne)
-- [Seven dead in Australia’s Christmas storms, with two still missing in Queensland](https://www.theguardian.com/australia-news/2023/dec/27/australia-christmas-storms-deaths-missing-qld-victoria-nsw)
-- [Alexei Navalny: ‘I’m fine’ says Kremlin critic from remote Arctic penal colony](https://www.theguardian.com/world/2023/dec/27/alexei-navalny-im-fine-says-kremlin-critic-from-remote-arctic-penal-colony)
-- [Russia-Ukraine war at a glance: what we know on day 672](https://www.theguardian.com/world/2023/dec/27/russia-ukraine-war-at-a-glance-what-we-know-on-day-672)
-- [David Trimble was ‘extraordinarily rude’ to Tony Blair at Good Friday talks](https://www.theguardian.com/uk-news/2023/dec/27/david-trimble-was-extraordinarily-rude-to-tony-blair-at-good-friday-talks)
-- [2023’s costliest climate disasters show poor lose out in ‘global postcode lottery’](https://www.theguardian.com/environment/2023/dec/27/2023-costliest-climate-disasters-poor-lose-out-global-postcode-lottery)
-- [The baby is how big?! Notes from an ultrasound | Toilet Feelings](https://www.theguardian.com/commentisfree/picture/2023/dec/27/the-baby-is-how-big-notes-from-an-ultrasound)
-- [Erik ten Hag ‘looking forward’ to working with Sir Jim Ratcliffe](https://www.theguardian.com/football/2023/dec/26/erik-ten-hag-looking-forward-to-working-with-sir-jim-ratcliffe)
-- [Tories to promise help for first-time buyers in effort to lure voters, say reports](https://www.theguardian.com/politics/2023/dec/26/tories-to-promise-help-for-first-time-buyers-in-effort-to-lure-voters-say-reports)
-- [FBI investigating threats directed at Colorado supreme court justices after Trump ruling](https://www.theguardian.com/us-news/2023/dec/26/colorado-supreme-court-justices-donald-trump-threat-fbi)
+- [Australia v Pakistan: Boxing Day Test, day three – live](https://www.theguardian.com/sport/live/2023/dec/28/australia-vs-pakistan-boxing-day-test-day-three-live-updates-scores-results-teams-start-time-mcg-melbourne)
+- [Colorado Republicans appeal to supreme court after Trump disqualified from state ballot](https://www.theguardian.com/us-news/2023/dec/28/colorado-republicans-appeal-to-supreme-court-after-trump-disqualified-from-state-ballot)
+- [Russian rapper jailed amid backlash over ‘almost naked’ party at Moscow nightclub](https://www.theguardian.com/world/2023/dec/28/russian-rapper-jailed-amid-backlash-over-almost-naked-party-at-moscow-nightclub)
+- [US and Mexico in talks to limit surge of migrants reaching border](https://www.theguardian.com/us-news/2023/dec/28/us-and-mexico-in-talks-to-limit-surge-of-migrants-reaching-us-southern-border)
+- [New York Times sues OpenAI and Microsoft for copyright infringement](https://www.theguardian.com/media/2023/dec/27/new-york-times-openai-microsoft-lawsuit)
+- [Taylor Swift and Rolling Stones drive Christmas surge in UK vinyl sales](https://www.theguardian.com/business/2023/dec/28/taylor-swift-and-rolling-stones-drive-christmas-surge-in-uk-vinyl-sales)
+- [Retailers to pay for consumers’ e-waste recycling from 2026 under UK plans](https://www.theguardian.com/environment/2023/dec/28/retailers-to-pay-for-consumers-e-waste-recycling-from-2026-under-uk-plans)
+- [UK nurses’ leader says politicians only made modest progress with pay and staffing](https://www.theguardian.com/society/2023/dec/28/uk-nurses-leader-says-politicians-only-made-modest-progress-with-pay-and-staffing)
+- [Russia-Ukraine war at a glance: what we know on day 673](https://www.theguardian.com/world/2023/dec/28/russia-ukraine-war-at-a-glance-what-we-know-on-day-673)
+- [PDC world darts: teenage star Luke Littler powers to historic last-16 place](https://www.theguardian.com/sport/2023/dec/27/pdc-world-darts-luke-littler-van-gerwen-michael-smith)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

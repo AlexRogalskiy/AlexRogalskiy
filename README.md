@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Sentiment Analysis of Right Wing Extremism in R/Canada &lpar;2023&rpar; [pdf]](https://summit.sfu.ca/_flysystem/fedora/2023-03/etd22338.pdf)
-- [What&#39;s making airline passengers act out on planes? Travelers are stressed out](https://www.businessinsider.com/unruly-plane-passengers-causes-airlines-experts-2023-12)
-- [Show HN: Medulla Mentor – A Brainstem Atlas](https://medullamentor.web.app)
-- [The fish that eats piranhas for breakfast](https://www.bbc.com/news/world-latin-america-66786995)
-- [Tallest wooden wind turbine starts turning](https://www.bbc.com/news/science-environment-67718719)
-- [OpenAI Cookbooks](https://cookbook.openai.com/)
-- [Ask HN: Why does cynicism rule the internet?](https://news.ycombinator.com/item?id=38789075)
-- [A behavioral scientist&#39;s advice for changing your life](https://www.npr.org/2021/05/14/996939779/a-behavioral-scientists-advice-for-changing-your-life)
-- [Towards total scene understanding for autonomous vehicles [video]](https://www.youtube.com/watch?v=ly6qVN2jWv0)
-- [Summary: Who Not How by Dan Sullivan and Dr. Benjamin Hardy](https://www.chestergrant.com/summary-who-not-how-by-dan-sullivan-and-dr-benjamin-hardy)
+- [Mice Thrive at 6700 Meters](https://www.science.org/content/article/mice-thrive-6700-meters-higher-any-mammals-were-thought-able-live)
+- [Decision in Challenge to Trump Presidential Primary Petition [pdf]](https://www.maine.gov/sos/news/2023/Decision%20in%20Challenge%20to%20Trump%20Presidential%20Primary%20Petitions.pdf)
+- [AstroForge, a private company, wants to mine a space rock](https://www.nytimes.com/2023/12/27/science/secret-asteroid-mission-astroforge.html)
+- [An Intuition for Attention &lpar;from the seminal Attention Is All You Need Paper&rpar;](https://jaykmody.com/blog/attention-intuition/)
+- [Ask HN: Video Understanding](https://news.ycombinator.com/item?id=38801009)
+- [Summary: How to Host a Party and Handle House Guests by Judith Brown](https://www.chestergrant.com/summary-how-to-host-a-party-and-handle-house-guests-by-judith-brown)
+- [America Doesn&#39;t Know Tofu](https://asteriskmag.com/issues/02/america-doesn-t-know-tofu)
+- [LLJS: Low-Level JavaScript](https://github.com/mbebenita/LLJS)
+- [The Rise of the Sectarian University](https://compactmag.com/article/the-rise-of-the-sectarian-university)
+- [Ask HN: What&#39;s the most exiciting thing happening in your niche?](https://news.ycombinator.com/item?id=38800890)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Australia v Pakistan: Boxing Day Test, day three – live](https://www.theguardian.com/sport/live/2023/dec/28/australia-vs-pakistan-boxing-day-test-day-three-live-updates-scores-results-teams-start-time-mcg-melbourne)
-- [Colorado Republicans appeal to supreme court after Trump disqualified from state ballot](https://www.theguardian.com/us-news/2023/dec/28/colorado-republicans-appeal-to-supreme-court-after-trump-disqualified-from-state-ballot)
-- [Russian rapper jailed amid backlash over ‘almost naked’ party at Moscow nightclub](https://www.theguardian.com/world/2023/dec/28/russian-rapper-jailed-amid-backlash-over-almost-naked-party-at-moscow-nightclub)
-- [US and Mexico in talks to limit surge of migrants reaching border](https://www.theguardian.com/us-news/2023/dec/28/us-and-mexico-in-talks-to-limit-surge-of-migrants-reaching-us-southern-border)
-- [New York Times sues OpenAI and Microsoft for copyright infringement](https://www.theguardian.com/media/2023/dec/27/new-york-times-openai-microsoft-lawsuit)
-- [Taylor Swift and Rolling Stones drive Christmas surge in UK vinyl sales](https://www.theguardian.com/business/2023/dec/28/taylor-swift-and-rolling-stones-drive-christmas-surge-in-uk-vinyl-sales)
-- [Retailers to pay for consumers’ e-waste recycling from 2026 under UK plans](https://www.theguardian.com/environment/2023/dec/28/retailers-to-pay-for-consumers-e-waste-recycling-from-2026-under-uk-plans)
-- [UK nurses’ leader says politicians only made modest progress with pay and staffing](https://www.theguardian.com/society/2023/dec/28/uk-nurses-leader-says-politicians-only-made-modest-progress-with-pay-and-staffing)
-- [Russia-Ukraine war at a glance: what we know on day 673](https://www.theguardian.com/world/2023/dec/28/russia-ukraine-war-at-a-glance-what-we-know-on-day-673)
-- [PDC world darts: teenage star Luke Littler powers to historic last-16 place](https://www.theguardian.com/sport/2023/dec/27/pdc-world-darts-luke-littler-van-gerwen-michael-smith)
+- [Australia v Pakistan: Boxing Day Test, day four – live](https://www.theguardian.com/sport/live/2023/dec/29/australia-vs-pakistan-boxing-day-test-day-four-live-updates-scores-results-teams-start-time-mcg-melbourne)
+- [Maine disqualifies Trump from presidential primary ballot, citing insurrection clause](https://www.theguardian.com/us-news/2023/dec/28/maine-disqualifies-trump-presidential-primary-ballot-insurrection)
+- [Man survives flight from Algeria to Paris hidden in plane’s landing gear](https://www.theguardian.com/world/2023/dec/29/man-survives-flight-from-algeria-to-paris-hidden-in-planes-landing-gear)
+- [Russia-Ukraine war at a glance: what we know on day 674](https://www.theguardian.com/world/2023/dec/29/russia-ukraine-war-at-a-glance-what-we-know-on-day-674)
+- [PDC world darts: Gerwyn Price crashes out with defeat to Brendan Dolan](https://www.theguardian.com/sport/2023/dec/28/pdc-world-darts-third-round-bunting-dobey-price)
+- [The best of: Fiona Katauskas cartoons 2023 | Fiona Katauskas](https://www.theguardian.com/commentisfree/gallery/2023/dec/29/the-best-of-fiona-katauskas-cartoons-2023)
+- [Thatcher ‘utterly shattered’ by MI5 revelations in Spycatcher, files reveal](https://www.theguardian.com/uk-news/2023/dec/29/thatcher-utterly-shattered-by-mi5-revelations-in-spycatcher-files-reveal)
+- [Britons cut back on dining out and buying clothes, Barclays reveals](https://www.theguardian.com/business/2023/dec/29/britons-cut-back-on-dining-out-and-buying-clothes-barclays-reveals)
+- [Ministers urged to enforce female-only categories in UK grassroots sport](https://www.theguardian.com/sport/2023/dec/29/rightwing-thinktank-female-only-categories-uk-grassroots-sport)
+- [Kerry Packer was proposed as mediator in Thatcher’s fight to stop Spycatcher memoir](https://www.theguardian.com/uk-news/2023/dec/29/kerry-packer-was-proposed-as-mediator-in-thatchers-fight-to-stop-spycatcher-memoir)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Docs Deserve More Respect](https://www.ramijames.com/thoughts/docs-deserve-more-respect)
-- [Jerry &lpar;YC S17&rpar; Is Hiring PMs, Engineers, Data Roles &lpar;Remote&rpar;](https://getjerry.com/careers)
-- [Game-icons.net: Free icons for your games](https://game-icons.net/)
-- [Breaking &quot;DRM&quot; in Polish trains [video] – 37c3 presentation](https://streaming.media.ccc.de/37c3/relive/12142)
-- [Valetudo – Cloud replacement for vacuum robots enabling local-only operation](https://valetudo.cloud/)
-- [No new iPhone? No secure iOS: Looking at an unfixed iOS vulnerability](https://joshua.hu/apple-ios-patched-unpatched-vulnerabilities)
-- [Show HN: Rem: Remember Everything &lpar;open source&rpar;](https://github.com/jasonjmcghee/rem)
-- [Debian Statement on the Cyber Resilience Act](https://lwn.net/Articles/956187/)
-- [3D Map of Shinjuku Station in Three.js](https://satoshi7190.github.io/Shinjuku-indoor-threejs-demo/)
-- [First new U.S. nuclear reactor since 2016 is now in operation](https://www.eia.gov/todayinenergy/detail.php?id=61106)
+- [U.S. Government Database of Dad Jokes](https://fatherhood.gov:443/for-dads/dad-jokes)
+- [The Linux graphics stack in a nutshell, part 2](https://lwn.net/SubscriberLink/955708/d024fd20cb3c0ff2/)
+- [Smallest Typeface](http://luc.devroye.org/fonts-51468.html)
+- [One of the Most Controversial US Spy Programs Just Got Renewed](https://www.motherjones.com/politics/2023/12/one-of-the-most-controversial-us-spy-programs-just-got-quietly-renewed/)
+- [GraphWords: Visual Dictionary and Thesaurus](https://graphwords.com)
+- [Multiplayer Online Science](http://mmos.ch/)
+- [BCHS software stack: BSD, C, httpd, SQLite](https://learnbchs.org/)
+- [Hexcodle](https://hexcodle.com/)
+- [Custom firmware for MI fitness band](https://github.com/atc1441/ATCmiBand8fw)
+- [Liero – Sling&#39;n&#39;shoot Worms Game](http://www.liero.be/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

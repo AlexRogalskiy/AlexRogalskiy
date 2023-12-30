@@ -355,6 +355,7 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [The top Chromebook tips of 2023](https://www.computerworld.com/article/3328830/chromebook-tips-2023.html#tk.rss_all)
 - [13 tech luminaries we lost in 2023](https://www.computerworld.com/article/3711464/tech-luminaries-we-lost-in-2023-in-memoriam.html#tk.rss_all)
 - [10 Windows annoyances and how to fix them](https://www.computerworld.com/article/3711500/microsoft-windows-annoyances.html#tk.rss_all)
 - [USB-C explained: How to get the most from it &lpar;and why it keeps on getting better&rpar;](https://www.computerworld.com/article/2488194/usb-c-explained-how-to-get-the-most-from-it-and-why-it-keeps-getting-better.html#tk.rss_all)
@@ -364,7 +365,6 @@
 - [Tips for new tech devices](https://www.computerworld.com/article/3153208/tips-for-new-tech-devices.html#tk.rss_all)
 - [Tech layoffs in 2023: A timeline](https://www.computerworld.com/article/3685936/tech-layoffs-in-2023-a-timeline.html#tk.rss_all)
 - [The top Google Pixel tips of 2023](https://www.computerworld.com/article/3682775/google-pixel-tips-2023.html#tk.rss_all)
-- [Q&amp;A: How Athenahealth moved from traditional AI to genAI and ChatGPT](https://www.computerworld.com/article/3711802/qa-how-athenahealth-moved-from-traditional-ai-to-genai-and-chatgpt.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

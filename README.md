@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [U.S. Government Database of Dad Jokes](https://fatherhood.gov:443/for-dads/dad-jokes)
-- [The Linux graphics stack in a nutshell, part 2](https://lwn.net/SubscriberLink/955708/d024fd20cb3c0ff2/)
-- [Smallest Typeface](http://luc.devroye.org/fonts-51468.html)
-- [One of the Most Controversial US Spy Programs Just Got Renewed](https://www.motherjones.com/politics/2023/12/one-of-the-most-controversial-us-spy-programs-just-got-quietly-renewed/)
-- [GraphWords: Visual Dictionary and Thesaurus](https://graphwords.com)
-- [Multiplayer Online Science](http://mmos.ch/)
-- [BCHS software stack: BSD, C, httpd, SQLite](https://learnbchs.org/)
-- [Hexcodle](https://hexcodle.com/)
-- [Custom firmware for MI fitness band](https://github.com/atc1441/ATCmiBand8fw)
-- [Liero – Sling&#39;n&#39;shoot Worms Game](http://www.liero.be/)
+- [Using linear programming to assess spatial access](https://andrewpwheeler.com/2022/07/01/using-linear-programming-to-assess-spatial-access/)
+- [SETI at FAST in China](https://arxiv.org/abs/2312.16847)
+- [Show HN: Vowl daily word guessing game](https://vowlgame.com)
+- [Natural Language Corpus Data: Beautiful Data &lpar;2009&rpar;](https://norvig.com/ngrams/)
+- [Koka: Strongly typed functional-style language with effect types and handlers](https://koka-lang.github.io/koka/doc/index.html)
+- [Show HN: Inbox Zero – open-source email assistant](https://www.getinboxzero.com)
+- [Bourbaki dangerous bend symbol](https://en.wikipedia.org/wiki/Bourbaki_dangerous_bend_symbol)
+- [48x32: A 1536 LED Game Computer](https://jacquesmattheij.com/48x32-introduction/)
+- [Blot turns a folder into a website](https://blot.im/how)
+- [Higher error correction makes scanning undamaged QR codes less reliable](https://huonw.github.io/blog/2021/09/qr-error-correction/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

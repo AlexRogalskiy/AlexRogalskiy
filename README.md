@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Mice Thrive at 6700 Meters](https://www.science.org/content/article/mice-thrive-6700-meters-higher-any-mammals-were-thought-able-live)
-- [Decision in Challenge to Trump Presidential Primary Petition [pdf]](https://www.maine.gov/sos/news/2023/Decision%20in%20Challenge%20to%20Trump%20Presidential%20Primary%20Petitions.pdf)
-- [AstroForge, a private company, wants to mine a space rock](https://www.nytimes.com/2023/12/27/science/secret-asteroid-mission-astroforge.html)
-- [An Intuition for Attention &lpar;from the seminal Attention Is All You Need Paper&rpar;](https://jaykmody.com/blog/attention-intuition/)
-- [Ask HN: Video Understanding](https://news.ycombinator.com/item?id=38801009)
-- [Summary: How to Host a Party and Handle House Guests by Judith Brown](https://www.chestergrant.com/summary-how-to-host-a-party-and-handle-house-guests-by-judith-brown)
-- [America Doesn&#39;t Know Tofu](https://asteriskmag.com/issues/02/america-doesn-t-know-tofu)
-- [LLJS: Low-Level JavaScript](https://github.com/mbebenita/LLJS)
-- [The Rise of the Sectarian University](https://compactmag.com/article/the-rise-of-the-sectarian-university)
-- [Ask HN: What&#39;s the most exiciting thing happening in your niche?](https://news.ycombinator.com/item?id=38800890)
+- [Summary: Mastermind Group Blueprint by Tobe Brockner](https://www.chestergrant.com/summary-mastermind-group-blueprint-by-tobe-brockner)
+- [Commodore Disk Directory Structure](http://blog.tynemouthsoftware.co.uk/2023/12/commodore-disk-directory-structure.html)
+- [The Art and Science of PCB Design](https://pcb.mit.edu/)
+- [Reliance in talks to acquire Israel&#39;s Tower Semiconductors](https://www.lightreading.com/semiconductors/reliance-in-talks-to-acquire-israel-s-tower-semiconductors-reports-)
+- [Kei-jidōsha, smallest category of expressway-legal, light motor vehicles, Japan](https://en.wikipedia.org/wiki/Kei_car)
+- [Show HN: Moondream, a small vision language model that runs on 8GB of RAM](https://github.com/vikhyat/moondream)
+- [America Is a Republic, Not a Democracy Is a Dangerous and Wrong Argument &lpar;2020&rpar;](https://www.theatlantic.com/ideas/archive/2020/11/yes-constitution-democracy/616949/)
+- [A Look Back on NFTs: Where Are They Now?](https://www.howtogeek.com/a-look-back-on-nfts-where-are-they-now/)
+- [The year the Australian Dream died](https://www.bbc.com/news/world-australia-67723760)
+- [Keyboard Builders&#39; Digest](https://kbd.news/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

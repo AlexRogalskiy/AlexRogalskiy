@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Summary: Mastermind Group Blueprint by Tobe Brockner](https://www.chestergrant.com/summary-mastermind-group-blueprint-by-tobe-brockner)
-- [Commodore Disk Directory Structure](http://blog.tynemouthsoftware.co.uk/2023/12/commodore-disk-directory-structure.html)
-- [The Art and Science of PCB Design](https://pcb.mit.edu/)
-- [Reliance in talks to acquire Israel&#39;s Tower Semiconductors](https://www.lightreading.com/semiconductors/reliance-in-talks-to-acquire-israel-s-tower-semiconductors-reports-)
-- [Kei-jidōsha, smallest category of expressway-legal, light motor vehicles, Japan](https://en.wikipedia.org/wiki/Kei_car)
-- [Show HN: Moondream, a small vision language model that runs on 8GB of RAM](https://github.com/vikhyat/moondream)
-- [America Is a Republic, Not a Democracy Is a Dangerous and Wrong Argument &lpar;2020&rpar;](https://www.theatlantic.com/ideas/archive/2020/11/yes-constitution-democracy/616949/)
-- [A Look Back on NFTs: Where Are They Now?](https://www.howtogeek.com/a-look-back-on-nfts-where-are-they-now/)
-- [The year the Australian Dream died](https://www.bbc.com/news/world-australia-67723760)
-- [Keyboard Builders&#39; Digest](https://kbd.news/)
+- [You should be using rtx](https://andrei-calazans.com/posts/you-should-be-using-rtx/)
+- [Benchmarking the Ubuntu x86-64-v3 Build for Greater Performance on Modern CPUs](https://www.phoronix.com/review/ubuntu-x86-64-v3-benchmark)
+- [Black Holes as Brains: Neural Networks with Area Law Entropy](https://arxiv.org/abs/1801.03918)
+- [Simulating Non-CRT Monitors with FFmpeg: Flat Panel Displays &lpar;2021&rpar;](https://int10h.org/blog/2021/03/simulating-non-crt-monitors-ffmpeg-flat-panels/)
+- [Yoga is the Autist&#39;s Rite of Passage [video]](https://www.youtube.com/watch?v=wPsr1vg6610)
+- [The Lure and Frustration of the Plastic Model Kit](https://labloga.blogspot.com/2020/03/the-lure-and-frustration-of-plastic.html)
+- [Expedia Chatbot](https://old.reddit.com/r/LocalLLaMA/comments/18unztg/expedia_chatbot/)
+- [McKinsey to pay $78M in US opioid settlement with health plans](https://www.reuters.com/legal/mckinsey-pay-78-million-us-opioid-settlement-with-health-plans-2023-12-30/)
+- [Ask HN: What are you planning to work on in 2024?](https://news.ycombinator.com/item?id=38821101)
+- [Summary: Little Bets by Peter Sims](https://www.chestergrant.com/summary-little-bets-by-peter-sims)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [‘An outstanding person’: tributes paid to former Team GB footballer Gemma Wiseman](https://www.theguardian.com/football/2023/dec/29/an-outstanding-person-tributes-paid-to-former-team-gb-footballer-gemma-wiseman)
-- [Man charged with murder over death of Chris Marriott in Sheffield](https://www.theguardian.com/uk-news/2023/dec/29/man-charged-with-over-death-of-chris-marriott-in-sheffield)
-- [Exeter climb to top of Premiership after Vermeulen’s late try sees off Bristol](https://www.theguardian.com/sport/2023/dec/29/exeter-climb-to-top-of-premiership-after-vermeulens-late-try-sees-off-bristol)
-- [Australia’s female First Nations rappers turn pain into power](https://www.theguardian.com/culture/2023/dec/30/australia-female-first-nations-indigenous-rappers-rap-hip-hop-music)
-- [Will Ratcliffe’s arrival put United back on an even keel or add to the circus?](https://www.theguardian.com/football/2023/dec/29/will-ratcliffes-arrival-put-united-back-on-an-even-keel-or-add-to-the-circus)
-- [Rodgers seeks calm before the storm as Rangers revive title hopes](https://www.theguardian.com/football/2023/dec/29/brendan-rodgers-rangers-celtic-scottish-premiership)
-- [Glastonbury founder and TikTok organist make new year honours list](https://www.theguardian.com/uk-news/2023/dec/29/glastonbury-founder-and-tiktok-organist-make-new-year-honours-list)
-- [England women World Cup stars Bright, Earps and Hemp on honours list](https://www.theguardian.com/uk-news/2023/dec/29/england-women-world-cup-stars-millie-bright-mary-earps-lauren-hemp-honours-list)
-- [New year honours 2024: awards for Shirley Bassey, Mary Earps and Michael Eavis](https://www.theguardian.com/uk-news/2023/dec/29/new-year-honours-2024-awards-for-shirley-bassey-mary-earps-and-michael-eavis)
-- [How much can Labour pledge at election while remaining credible?](https://www.theguardian.com/politics/2023/dec/29/how-much-can-labour-keir-starmer-pledge-at-election-while-remaining-credible)
+- [Eurostar Channel services restarting on Sunday as flooding is cleared](https://www.theguardian.com/business/2023/dec/31/eurostar-channel-services-restarting-on-sunday-as-flooding-is-cleared)
+- [Eight arrested after protesters clash with police in south London](https://www.theguardian.com/uk-news/2023/dec/31/eight-arrested-after-protesters-clash-with-police-in-south-london)
+- [Luke Littler demolishes Raymond van Barneveld to keep adventure going](https://www.theguardian.com/sport/2023/dec/31/luke-littler-16-into-quarter-finals-after-beating-raymond-van-barneveld)
+- [The edit: 12 of the best cosy socks – in pictures](https://www.theguardian.com/fashion/gallery/2023/dec/30/the-edit-12-of-the-best-cosy-socks-in-pictures)
+- [Prosecutors urge court to reject Trump’s immunity claims in election subversion case](https://www.theguardian.com/us-news/2023/dec/30/trump-immunity-claims-special-counsel-jack-smith-election-subversion)
+- [Court ruling clears way for California to ban carrying guns in most public places](https://www.theguardian.com/us-news/2023/dec/30/guns-california-law-ban-concealed-carry)
+- [Full Monty actor Tom Wilkinson dies aged 75](https://www.theguardian.com/film/2023/dec/30/full-monty-actor-tom-wilkinson-dies-aged-75)
+- [American Idol star Paula Abdul sues producer Nigel Lythgoe for alleged sexual assaults](https://www.theguardian.com/world/2023/dec/30/american-idol-star-paula-abdul-sues-producer-nigel-lythgoe-for-alleged-sexual-assaults)
+- [Ten Hag bullish he can lead new Manchester United era despite poor run](https://www.theguardian.com/football/2023/dec/30/ten-hag-bullish-he-can-lead-new-manchester-united-era-despite-poor-run)
+- [Three men die in south London house fire](https://www.theguardian.com/uk-news/2023/dec/30/south-london-house-fire-croydon-men-die)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

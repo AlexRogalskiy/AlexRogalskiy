@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Eurostar Channel services restarting on Sunday as flooding is cleared](https://www.theguardian.com/business/2023/dec/31/eurostar-channel-services-restarting-on-sunday-as-flooding-is-cleared)
-- [Eight arrested after protesters clash with police in south London](https://www.theguardian.com/uk-news/2023/dec/31/eight-arrested-after-protesters-clash-with-police-in-south-london)
-- [Luke Littler demolishes Raymond van Barneveld to keep adventure going](https://www.theguardian.com/sport/2023/dec/31/luke-littler-16-into-quarter-finals-after-beating-raymond-van-barneveld)
-- [The edit: 12 of the best cosy socks – in pictures](https://www.theguardian.com/fashion/gallery/2023/dec/30/the-edit-12-of-the-best-cosy-socks-in-pictures)
-- [Prosecutors urge court to reject Trump’s immunity claims in election subversion case](https://www.theguardian.com/us-news/2023/dec/30/trump-immunity-claims-special-counsel-jack-smith-election-subversion)
-- [Court ruling clears way for California to ban carrying guns in most public places](https://www.theguardian.com/us-news/2023/dec/30/guns-california-law-ban-concealed-carry)
-- [Full Monty actor Tom Wilkinson dies aged 75](https://www.theguardian.com/film/2023/dec/30/full-monty-actor-tom-wilkinson-dies-aged-75)
-- [American Idol star Paula Abdul sues producer Nigel Lythgoe for alleged sexual assaults](https://www.theguardian.com/world/2023/dec/30/american-idol-star-paula-abdul-sues-producer-nigel-lythgoe-for-alleged-sexual-assaults)
-- [Ten Hag bullish he can lead new Manchester United era despite poor run](https://www.theguardian.com/football/2023/dec/30/ten-hag-bullish-he-can-lead-new-manchester-united-era-despite-poor-run)
-- [Three men die in south London house fire](https://www.theguardian.com/uk-news/2023/dec/30/south-london-house-fire-croydon-men-die)
+- [From Auckland to London, fireworks light up the skies as countries usher in 2024 – video](https://www.theguardian.com/lifeandstyle/video/2024/jan/01/from-auckland-to-london-fireworks-light-up-the-skies-as-countries-usher-in-2024-video)
+- [Zelenskiy says Ukraine has become stronger as war moves closer to second year](https://www.theguardian.com/world/2024/jan/01/zelenskiy-says-ukraine-has-become-stronger-as-war-moves-closer-to-second-year)
+- [Film, TV and video-game producers to get more generous UK tax relief](https://www.theguardian.com/film/2024/jan/01/film-tv-and-video-game-producers-to-get-more-generous-uk-tax-relief)
+- [24 for 2024: the unmissable sporting events over the next 12 months](https://www.theguardian.com/sport/2024/jan/01/24-for-2024-the-unmissable-sporting-events-over-the-next-12-months)
+- [Lewis Capaldi extends touring break as his health improves: ‘I want to make absolutely sure I’m 100%’](https://www.theguardian.com/music/2024/jan/01/lewis-capaldi-touring-break-mental-health-extended-tourettes-anxiety-issues)
+- [Novak Djokovic form ‘as good as it gets’ in United Cup debut](https://www.theguardian.com/sport/2024/jan/01/novak-djokovic-form-as-good-as-it-gets-in-united-cup-debut)
+- [Britain ‘considering airstrikes’ on Houthi rebels after Red Sea attacks](https://www.theguardian.com/world/2023/dec/31/britain-considering-airstrikes-on-houthi-rebels-after-red-sea-attacks)
+- [Man arrested after two women found dead in Staffordshire](https://www.theguardian.com/uk-news/2023/dec/31/man-arrested-after-two-women-found-dead-in-staffordshire)
+- [‘I block criticism out’: Eddie Howe on coping with pressure at Newcastle](https://www.theguardian.com/football/2023/dec/31/i-block-criticism-out-eddie-howe-on-coping-with-pressure-at-newcastle)
+- [Labour pledges ‘new deal for farmers’ to boost UK agriculture](https://www.theguardian.com/politics/2023/dec/31/labour-pledges-new-deal-for-farmers-to-boost-uk-agriculture)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

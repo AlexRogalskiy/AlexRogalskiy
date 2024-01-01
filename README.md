@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Jaw-Dropping News: Boeing and Lockheed Just Matched SpaceX&#39;s Prices](https://www.fool.com/investing/2023/12/30/jaw-dropping-news-boeing-and-lockheed-just-matched/?source=eptyholnk0000202&utm_source=yahoo-host-full&utm_medium=feed&utm_campaign=article)
-- [Cuis-Smalltalk](https://cuis.st/)
-- [The Heart of a Language Server](https://rust-analyzer.github.io//blog/2023/12/26/the-heart-of-a-language-server.html)
-- [Show HN: Common Lisp Vim Compiler Plug-In](https://git.sr.ht/~skin/roswell-sbcl.vim)
-- [20 years of Mars Express](https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/20_years_of_Mars_Express_Mars_as_never_seen_before)
-- [Android data encryption in depth](https://blog.quarkslab.com/android-data-encryption-in-depth.html)
-- [PlasMa – Mini-mainframe simulator project](http://www.philizound.co.uk/plasma/plasma.html?i=1)
-- [More fun with Apple&#39;s internal tools: creating a PDS card](https://www.downtowndougbrown.com/2023/12/more-fun-with-apples-internal-tools-creating-a-pds-card/)
-- [Ugrep – a more powerful, fast, user-friendly, compatible grep](https://ugrep.com/)
-- [LIPS: Scheme based Lisp interpreter in JavaScript](https://lips.js.org/)
+- [Merkle Town: Explore the certificate transparency ecosystem](https://ct.cloudflare.com/)
+- [I Vote on Plagiarism Cases at Harvard College. Gay&#39;s Getting Off Easy](https://www.thecrimson.com/article/2023/12/31/honor-council-member-gay/)
+- [Ask HN: Is there a data set for GitHub repos associated with academic papers?](https://news.ycombinator.com/item?id=38828739)
+- [A Cypherpunk&#39;s Manifesto &lpar;1993&rpar;](https://www.activism.net/cypherpunk/manifesto.html)
+- [Bazzite – a SteamOS-like OCI image for desktop, living room, and handheld PCs](https://github.com/ublue-os/bazzite)
+- [Molecular jackhammers eradicate cancer cells by vibronic-driven action](https://www.nature.com/articles/s41557-023-01383-y)
+- [O&lpar;1&rpar; Build File](https://matklad.github.io/2023/12/31/O(1)-build-file.html#O-1-Build-File)
+- [An Easy Fix](https://chhopsky.itch.io/an-easy-fix)
+- [Happy New Year HN!](https://news.ycombinator.com/item?id=38826283)
+- [Interesting double-poly latches inside AMD&#39;s vintage LANCE Ethernet chip](https://www.righto.com/2023/12/amd-lance-ethernet-double-poly.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

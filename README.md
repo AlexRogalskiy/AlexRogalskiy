@@ -355,6 +355,7 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Big workplace changes are coming in 2024. Are you ready?](https://www.computerworld.com/article/3711762/big-workplace-changes-are-coming-in-2024-are-you-ready.html#tk.rss_all)
 - [The top Chromebook tips of 2023](https://www.computerworld.com/article/3328830/chromebook-tips-2023.html#tk.rss_all)
 - [13 tech luminaries we lost in 2023](https://www.computerworld.com/article/3711464/tech-luminaries-we-lost-in-2023-in-memoriam.html#tk.rss_all)
 - [10 Windows annoyances and how to fix them](https://www.computerworld.com/article/3711500/microsoft-windows-annoyances.html#tk.rss_all)
@@ -364,7 +365,6 @@
 - [How to securely erase your Android device in 3 simple steps](https://www.computerworld.com/article/3243253/how-to-securely-erase-your-android-device-in-4-steps.html#tk.rss_all)
 - [Tips for new tech devices](https://www.computerworld.com/article/3153208/tips-for-new-tech-devices.html#tk.rss_all)
 - [Tech layoffs in 2023: A timeline](https://www.computerworld.com/article/3685936/tech-layoffs-in-2023-a-timeline.html#tk.rss_all)
-- [The top Google Pixel tips of 2023](https://www.computerworld.com/article/3682775/google-pixel-tips-2023.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

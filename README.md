@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [From Auckland to London, fireworks light up the skies as countries usher in 2024 – video](https://www.theguardian.com/lifeandstyle/video/2024/jan/01/from-auckland-to-london-fireworks-light-up-the-skies-as-countries-usher-in-2024-video)
-- [Zelenskiy says Ukraine has become stronger as war moves closer to second year](https://www.theguardian.com/world/2024/jan/01/zelenskiy-says-ukraine-has-become-stronger-as-war-moves-closer-to-second-year)
-- [Film, TV and video-game producers to get more generous UK tax relief](https://www.theguardian.com/film/2024/jan/01/film-tv-and-video-game-producers-to-get-more-generous-uk-tax-relief)
-- [24 for 2024: the unmissable sporting events over the next 12 months](https://www.theguardian.com/sport/2024/jan/01/24-for-2024-the-unmissable-sporting-events-over-the-next-12-months)
-- [Lewis Capaldi extends touring break as his health improves: ‘I want to make absolutely sure I’m 100%’](https://www.theguardian.com/music/2024/jan/01/lewis-capaldi-touring-break-mental-health-extended-tourettes-anxiety-issues)
-- [Novak Djokovic form ‘as good as it gets’ in United Cup debut](https://www.theguardian.com/sport/2024/jan/01/novak-djokovic-form-as-good-as-it-gets-in-united-cup-debut)
-- [Britain ‘considering airstrikes’ on Houthi rebels after Red Sea attacks](https://www.theguardian.com/world/2023/dec/31/britain-considering-airstrikes-on-houthi-rebels-after-red-sea-attacks)
-- [Man arrested after two women found dead in Staffordshire](https://www.theguardian.com/uk-news/2023/dec/31/man-arrested-after-two-women-found-dead-in-staffordshire)
-- [‘I block criticism out’: Eddie Howe on coping with pressure at Newcastle](https://www.theguardian.com/football/2023/dec/31/i-block-criticism-out-eddie-howe-on-coping-with-pressure-at-newcastle)
-- [Labour pledges ‘new deal for farmers’ to boost UK agriculture](https://www.theguardian.com/politics/2023/dec/31/labour-pledges-new-deal-for-farmers-to-boost-uk-agriculture)
+- [South Korea opposition leader Lee Jae-myung stabbed, local media reports](https://www.theguardian.com/world/2024/jan/02/lee-jae-myung-stabbed-south-korea-opposition-leader-busan-local-media-reports)
+- [Putin vows to ‘intensify’ strikes on Ukraine after deadly final week of 2023](https://www.theguardian.com/world/2024/jan/02/putin-vows-to-intensify-strikes-on-ukraine-after-deadly-final-week-of-2023)
+- [Australian serving in Israeli armoured brigade reportedly killed in Gaza](https://www.theguardian.com/world/2024/jan/02/lior-sivan-australian-killed-israel-gaza-war-hamas-idf)
+- [Russia-Ukraine war at a glance: what we know on day 678](https://www.theguardian.com/world/2024/jan/02/russia-ukraine-war-at-a-glance-what-we-know-on-day-678)
+- [Ofsted bows to pressure and halts inspections after Ruth Perry’s suicide](https://www.theguardian.com/education/2024/jan/02/ofsted-bows-to-pressure-and-halts-inspections-after-ruth-perrys-suicide)
+- [Number of UK first-time buyers in 2023 was lowest in a decade](https://www.theguardian.com/money/2024/jan/02/uk-first-time-buyers2023-interest-rates-house-prices)
+- [UK grocery inflation sticks at 4.3% despite lower food price rises](https://www.theguardian.com/business/2024/jan/02/uk-grocery-inflation-food-price-rises-brexit-costs)
+- [Eddie Howe must find way to combat January blues after dire Anfield defeat | Jamie Jackson](https://www.theguardian.com/football/2024/jan/01/eddie-howe-must-find-way-to-combat-january-blues-after-dire-anfield-defeat)
+- [Thousands of ‘legacy’ asylum cases awaiting decisions despite Sunak’s pledge](https://www.theguardian.com/uk-news/2024/jan/01/thousands-of-legacy-asylum-cases-awaiting-decisions-despite-sunaks-pledge)
+- [Blue groper: man fined $500 for killing protected fish in Sydney](https://www.theguardian.com/environment/2024/jan/02/endangered-blue-groper-speared-australia-man-fined-killing)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

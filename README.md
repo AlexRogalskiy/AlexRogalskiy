@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Merkle Town: Explore the certificate transparency ecosystem](https://ct.cloudflare.com/)
-- [I Vote on Plagiarism Cases at Harvard College. Gay&#39;s Getting Off Easy](https://www.thecrimson.com/article/2023/12/31/honor-council-member-gay/)
-- [Ask HN: Is there a data set for GitHub repos associated with academic papers?](https://news.ycombinator.com/item?id=38828739)
-- [A Cypherpunk&#39;s Manifesto &lpar;1993&rpar;](https://www.activism.net/cypherpunk/manifesto.html)
-- [Bazzite – a SteamOS-like OCI image for desktop, living room, and handheld PCs](https://github.com/ublue-os/bazzite)
-- [Molecular jackhammers eradicate cancer cells by vibronic-driven action](https://www.nature.com/articles/s41557-023-01383-y)
-- [O&lpar;1&rpar; Build File](https://matklad.github.io/2023/12/31/O(1)-build-file.html#O-1-Build-File)
-- [An Easy Fix](https://chhopsky.itch.io/an-easy-fix)
-- [Happy New Year HN!](https://news.ycombinator.com/item?id=38826283)
-- [Interesting double-poly latches inside AMD&#39;s vintage LANCE Ethernet chip](https://www.righto.com/2023/12/amd-lance-ethernet-double-poly.html)
+- [Can We Imagine a World Without Work?](https://www.bostonreview.net/articles/can-we-imagine-a-world-without-work/)
+- [Spotify starts divesting from France in response to new music-streaming tax](https://techcrunch.com/2023/12/22/spotify-france-tax-festivals/)
+- [E621, Pornhub, and others block North Carolina residents](https://www.foxcarolina.com/2023/12/29/major-pornographic-blocks-users-nc-response-new-law/)
+- [Odin Programming Language](https://odin-lang.org/)
+- [Codebreaker Cracks 135 Year Old Message [video]](https://www.youtube.com/watch?v=wu9o3vSYtl4)
+- [NERV Disaster Prevention](https://nerv.app/en/)
+- [UBlacklist: Blocks specific sites from appearing in Google search results](https://github.com/iorate/ublacklist)
+- [Displaying Content as a Graph](https://thisisimportant.net/posts/content-as-a-graph/)
+- [Mathematical Introduction to Deep Learning: Methods, Implementations, and Theory](https://arxiv.org/abs/2310.20360)
+- [Writing a TrueType font renderer](https://axleos.com/writing-a-truetype-font-renderer/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

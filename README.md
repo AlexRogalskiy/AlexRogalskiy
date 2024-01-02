@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Urgent Airline Employee Crusade to Stop Passengers from Taking Photos](https://viewfromthewing.com/inflight-surveillance-showdown-the-urgent-employee-crusade-to-stop-passengers-from-taking-photos/)
-- [Estimating Standard Deviation from Timeseries](https://two-wrongs.com/estimating-standard-deviation-from-timeseries-plot)
-- [The Entrepreneur Who Bet His Company on a Fight with Apple](https://www.wsj.com/tech/joe-kiani-entrepreneur-apple-warning-52eb09a9)
-- [Show HN: Raiseto – Discover and Share Ideas](https://raiseto.com/)
-- [Wired Tested Miracle Hangover Cures. You&#39;re Welcome](https://www.wired.com/story/wired-tested-miracle-hangover-cures/)
-- [Seven Steps to Fixing Stalled To-Do Tasks](https://randsinrepose.com/archives/seven-steps-to-fixing-stalled-to-do-tasks/)
-- [Finnish Museum of Games](https://en.wikipedia.org/wiki/Finnish_Museum_of_Games)
-- [2023 Book Review](https://nolanlawson.com/2023/12/31/2023-book-review/)
-- [Ask HN: What&#39;s the best out-of-box Document OCR/Analyzing/recognition API?](https://news.ycombinator.com/item?id=38829145)
-- [Nobuild: Header only library for writing build recipes in C](https://github.com/tsoding/nobuild)
+- [How to Avoid Being Boring at 60](https://www.wsj.com/lifestyle/how-to-avoid-being-boring-at-60-1e9d087a)
+- [Nvidia AI Lead: We are ~3 years from the ChatGPT moment for physical AI agents](https://twitter.com/DrJimFan/status/1740041712184246314)
+- [Can We Imagine a World Without Work?](https://www.bostonreview.net/articles/can-we-imagine-a-world-without-work/)
+- [Question Copyright shuts down &lpar;but the site will remain&rpar;](https://questioncopyright.org/closing-org-but-keeping-site/trackback.html)
+- [A decade of stopping deforestation: How the palm oil industry did it](https://news.mongabay.com/2023/12/a-decade-of-stopping-deforestation-how-the-palm-oil-industry-did-the-seemingly-impossible-commentary/)
+- [Loudness War Winner](https://github.com/robbert-vdh/nih-plug/tree/master/plugins/loudness_war_winner)
+- [3D printing your own triboelectric generators](https://hackaday.com/2023/12/31/3d-printing-your-own-triboelectric-generators/)
+- [Show HN: Titled &quot;Website&quot;](https://www.ericfzhu.com/)
+- [Can Brain Science Help Us Break Bad Habits?](https://www.newyorker.com/magazine/2019/10/28/can-brain-science-help-us-break-bad-habits)
+- [MosaicBERT: Pretraining Bert from Scratch for $20](https://www.mosaicml.com/blog/mosaicbert)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

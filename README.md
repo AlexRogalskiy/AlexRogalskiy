@@ -355,6 +355,8 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [IDC expects genAI spending to double in these areas in &#39;24](https://www.computerworld.com/article/3711861/idc-expects-genai-spending-to-double-in-these-areas-in-24.html#tk.rss_all)
+- [This year, we get ready for the Apple of your AI](https://www.computerworld.com/article/3711842/this-year-we-get-ready-for-the-apple-of-your-ai.html#tk.rss_all)
 - [Big workplace changes are coming in 2024. Are you ready?](https://www.computerworld.com/article/3711762/big-workplace-changes-are-coming-in-2024-are-you-ready.html#tk.rss_all)
 - [The top Chromebook tips of 2023](https://www.computerworld.com/article/3328830/chromebook-tips-2023.html#tk.rss_all)
 - [13 tech luminaries we lost in 2023](https://www.computerworld.com/article/3711464/tech-luminaries-we-lost-in-2023-in-memoriam.html#tk.rss_all)
@@ -363,8 +365,6 @@
 - [2023&#39;s top Google Assistant advice for Android](https://www.computerworld.com/article/3682776/google-assistant-android-2023.html#tk.rss_all)
 - [18 ways to speed up Windows 10](https://www.computerworld.com/article/3029168/how-to-speed-up-windows-10.html#tk.rss_all)
 - [How to securely erase your Android device in 3 simple steps](https://www.computerworld.com/article/3243253/how-to-securely-erase-your-android-device-in-4-steps.html#tk.rss_all)
-- [Tips for new tech devices](https://www.computerworld.com/article/3153208/tips-for-new-tech-devices.html#tk.rss_all)
-- [Tech layoffs in 2023: A timeline](https://www.computerworld.com/article/3685936/tech-layoffs-in-2023-a-timeline.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

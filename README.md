@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [South Korea opposition leader Lee Jae-myung stabbed, local media reports](https://www.theguardian.com/world/2024/jan/02/lee-jae-myung-stabbed-south-korea-opposition-leader-busan-local-media-reports)
-- [Putin vows to ‘intensify’ strikes on Ukraine after deadly final week of 2023](https://www.theguardian.com/world/2024/jan/02/putin-vows-to-intensify-strikes-on-ukraine-after-deadly-final-week-of-2023)
-- [Australian serving in Israeli armoured brigade reportedly killed in Gaza](https://www.theguardian.com/world/2024/jan/02/lior-sivan-australian-killed-israel-gaza-war-hamas-idf)
-- [Russia-Ukraine war at a glance: what we know on day 678](https://www.theguardian.com/world/2024/jan/02/russia-ukraine-war-at-a-glance-what-we-know-on-day-678)
-- [Ofsted bows to pressure and halts inspections after Ruth Perry’s suicide](https://www.theguardian.com/education/2024/jan/02/ofsted-bows-to-pressure-and-halts-inspections-after-ruth-perrys-suicide)
-- [Number of UK first-time buyers in 2023 was lowest in a decade](https://www.theguardian.com/money/2024/jan/02/uk-first-time-buyers2023-interest-rates-house-prices)
-- [UK grocery inflation sticks at 4.3% despite lower food price rises](https://www.theguardian.com/business/2024/jan/02/uk-grocery-inflation-food-price-rises-brexit-costs)
-- [Eddie Howe must find way to combat January blues after dire Anfield defeat | Jamie Jackson](https://www.theguardian.com/football/2024/jan/01/eddie-howe-must-find-way-to-combat-january-blues-after-dire-anfield-defeat)
-- [Thousands of ‘legacy’ asylum cases awaiting decisions despite Sunak’s pledge](https://www.theguardian.com/uk-news/2024/jan/01/thousands-of-legacy-asylum-cases-awaiting-decisions-despite-sunaks-pledge)
-- [Blue groper: man fined $500 for killing protected fish in Sydney](https://www.theguardian.com/environment/2024/jan/02/endangered-blue-groper-speared-australia-man-fined-killing)
+- [Australia v Pakistan: third Test, day one – live](https://www.theguardian.com/sport/live/2024/jan/03/australia-vs-pakistan-third-test-day-one-live-updates-scores-david-warner-final-test-results-start-time-teams-lineup-scg-sydney)
+- [Is this normal!? Texting a friend during pregnancy | Toilet Feelings](https://www.theguardian.com/commentisfree/picture/2024/jan/03/is-this-normal-texting-a-friend-during-pregnancy)
+- [Taiwan’s ‘cat warrior’: former US envoy Hsiao Bi-khim hopes to be next vice-president](https://www.theguardian.com/world/2024/jan/03/taiwans-cat-warrior-former-us-envoy-hsiao-bi-khim-hopes-to-be-next-vice-president)
+- [Russia-Ukraine war at a glance: what we know on day 679](https://www.theguardian.com/world/2024/jan/03/russia-ukraine-war-at-a-glance-what-we-know-on-day-679)
+- [Western Australian woman, 62, permitted to have sperm removed from her dead husband](https://www.theguardian.com/australia-news/2024/jan/03/wa-woman-sperm-removed-dead-husband-fertilisation-wa-supreme-court)
+- [UK use of gas and coal for electricity at lowest since 1957, figures show](https://www.theguardian.com/business/2024/jan/03/uk-gas-coal-electricity-fossil-fuels-renewables)
+- [Female pop stars celebrate record-breaking year on UK singles chart](https://www.theguardian.com/music/2024/jan/03/female-pop-stars-celebrate-record-breaking-year-on-uk-singles-chart)
+- [Top of the toppings: Danielle Alvarez’s six favourite crostini recipes](https://www.theguardian.com/food/2024/jan/03/best-crostini-recipes-easy-danielle-alvarez)
+- [Woman dies and child rescued off NSW north coast amid deadly summer on Australian beaches](https://www.theguardian.com/australia-news/2024/jan/03/woman-dies-child-rescued-nsw-deadly-summer-australian-beaches)
+- [Luke Littler’s fairytale gets bigger and bigger amid wolves and penguins | Simon Burnton](https://www.theguardian.com/sport/2024/jan/02/luke-littlers-fairytale-gets-bigger-and-bigger-amid-wolves-and-penguins)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

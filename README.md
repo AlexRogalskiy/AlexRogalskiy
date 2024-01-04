@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [With revenue and users declining, Mozilla CEO gets a 20% raise](https://www.theregister.com/2024/01/02/mozilla_in_2024_ai_privacy/)
-- [Can a pill prevent deaths from venomous snakebites?](https://www.latimes.com/environment/story/2023-12-24/can-a-pill-prevent-deaths-from-venomous-snake-bites)
-- [Show HN: Hacker News Year in Review: 2023](https://public.tableau.com/app/profile/isna/viz/HackerNewsDashboard_17042353296150/HackerNewsYearinReview2023)
-- [Thoughts on PostgreSQL in 2024](https://jkatz05.com/post/postgres/postgresql-2024/)
-- [QEMU AioContext removal and how it was done](http://blog.vmsplice.net/2024/01/qemu-aiocontext-removal-and-how-it-was.html)
-- [Browsers are the most likely disruptor of the mobile duopoly](https://infrequently.org/2024/01/the-web-is-the-app-store/)
-- [Show HN: Resurrecting the Dillo browser](https://dillo-browser.github.io/)
-- [OpenIndiana Illumos Distro](https://www.openindiana.org/)
-- [Apple II Emulation Evaluation &lpar;2022&rpar;](https://juiced.gs/emulators/)
-- [CGA in 1024 colors – a new mode &lpar;2015&rpar;](https://int10h.org/blog/2015/04/cga-in-1024-colors-new-mode-illustrated/)
+- [SpaceX Illegally Fired Workers Critical of Musk, Federal Agency Says](https://www.nytimes.com/2024/01/03/business/spacex-elon-musk-nlrb-workers.html)
+- [CAS 761: Generative Programming &lpar;Winter 2024&rpar;](http://www.cas.mcmaster.ca/~carette/CAS761/W2024/index.html)
+- [Think more about what to focus on](https://www.henrikkarlsson.xyz/p/multi-armed-bandit)
+- [The Curious Case of MD5](https://katelynsills.com/law/the-curious-case-of-md5/)
+- [Understand how transformers work by demystifying the math behind them](https://osanseviero.github.io/hackerllama/blog/posts/random_transformer/)
+- [Asian Arowana: The most expensive pet fish](https://thehustle.co/asian-arowana-most-expensive-fish/)
+- [Laylo &lpar;YC S20&rpar; is hiring a live events and music account executive](https://www.ycombinator.com/companies/laylo/jobs/x3d7mtv-live-events-music-account-executive)
+- [TinyGPT-V: Efficient Multimodal Large Language Model via Small Backbones](https://github.com/DLYuanGod/TinyGPT-V)
+- [Someone was breaking into Orange Spain RIPE account &lpar;and break their /12&rpar;](https://benjojo.co.uk/u/benjojo/h/r1zj333N4L6cF7P1xv)
+- [Show HN: A Who is Hiring app with AI filters](https://bernawil.github.io/hn-who-is-hiring/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

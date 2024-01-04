@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Australia v Pakistan: third Test, day one – live](https://www.theguardian.com/sport/live/2024/jan/03/australia-vs-pakistan-third-test-day-one-live-updates-scores-david-warner-final-test-results-start-time-teams-lineup-scg-sydney)
-- [Is this normal!? Texting a friend during pregnancy | Toilet Feelings](https://www.theguardian.com/commentisfree/picture/2024/jan/03/is-this-normal-texting-a-friend-during-pregnancy)
-- [Taiwan’s ‘cat warrior’: former US envoy Hsiao Bi-khim hopes to be next vice-president](https://www.theguardian.com/world/2024/jan/03/taiwans-cat-warrior-former-us-envoy-hsiao-bi-khim-hopes-to-be-next-vice-president)
-- [Russia-Ukraine war at a glance: what we know on day 679](https://www.theguardian.com/world/2024/jan/03/russia-ukraine-war-at-a-glance-what-we-know-on-day-679)
-- [Western Australian woman, 62, permitted to have sperm removed from her dead husband](https://www.theguardian.com/australia-news/2024/jan/03/wa-woman-sperm-removed-dead-husband-fertilisation-wa-supreme-court)
-- [UK use of gas and coal for electricity at lowest since 1957, figures show](https://www.theguardian.com/business/2024/jan/03/uk-gas-coal-electricity-fossil-fuels-renewables)
-- [Female pop stars celebrate record-breaking year on UK singles chart](https://www.theguardian.com/music/2024/jan/03/female-pop-stars-celebrate-record-breaking-year-on-uk-singles-chart)
-- [Top of the toppings: Danielle Alvarez’s six favourite crostini recipes](https://www.theguardian.com/food/2024/jan/03/best-crostini-recipes-easy-danielle-alvarez)
-- [Woman dies and child rescued off NSW north coast amid deadly summer on Australian beaches](https://www.theguardian.com/australia-news/2024/jan/03/woman-dies-child-rescued-nsw-deadly-summer-australian-beaches)
-- [Luke Littler’s fairytale gets bigger and bigger amid wolves and penguins | Simon Burnton](https://www.theguardian.com/sport/2024/jan/02/luke-littlers-fairytale-gets-bigger-and-bigger-amid-wolves-and-penguins)
+- [Australia v Pakistan: third Test, day two – live](https://www.theguardian.com/sport/live/2024/jan/04/australia-vs-pakistan-third-test-day-two-live-updates-scores-david-warner-final-test-results-start-time-teams-lineup-scg-sydney)
+- [Israel-Gaza war live: International court to hold public hearings on South Africa’s genocide case against Israel next week](https://www.theguardian.com/world/live/2024/jan/03/israel-gaza-war-live-updates-palestine-hamas-leader-saleh-al-arouri-death-idf-beirut-lebanon)
+- [Jeffrey Epstein: documents linking associates to sex offender unsealed](https://www.theguardian.com/us-news/2024/jan/03/jeffrey-epstein-list-names-released)
+- [Suicide-prevention net beneath Golden Gate Bridge completed, say officials](https://www.theguardian.com/us-news/2024/jan/03/golden-gate-bridge-suicide-prevention-net-completed)
+- [Russia-Ukraine war at a glance: what we know on day 680](https://www.theguardian.com/world/2024/jan/04/russia-ukraine-war-at-glance-what-we-know-on-day-680)
+- [‘A bully’: the billionaire who led calls for Claudine Gay’s Harvard exit](https://www.theguardian.com/education/2024/jan/03/bill-ackman-billionaire-attacks-claudine-gay-harvard-twitter-x)
+- [Trump asks US supreme court to review Colorado ruling removing him from 2024 ballot](https://www.theguardian.com/us-news/2024/jan/03/donald-trump-appeal-colorado-ballot-supreme-court)
+- [Swimming in the ocean I am alone and embraced by risk and trust | Anna Sublet](https://www.theguardian.com/commentisfree/2024/jan/04/swimming-in-the-ocean-i-am-alone-and-embraced-by-risk-and-trust)
+- [Tintern Abbey excavation suggests poor people were later buried alongside lords](https://www.theguardian.com/science/2024/jan/04/tintern-abbey-excavation-suggests-poor-people-were-later-buried-alongside-lords)
+- [‘It’s really well-balanced, there’s a bit of everything’: how to cook and eat like you’re on holiday in Vietnam](https://www.theguardian.com/lifeandstyle/2024/jan/04/best-vietnamese-recipes-rice-paper-rolls-grilled-fish-jerry-mai)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

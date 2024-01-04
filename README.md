@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Atmos? We Don&#39;t Need No Stinking Atmos](https://audiophilestyle.com/ca/immersive/atmos-we-don%E2%80%99t-need-no-stinking-atmos-r1245/)
-- [Astro 4.0](https://astro.build/blog/astro-4/)
-- [Risk-Aversion Is Killing Romance for Gen Z](https://www.freyaindia.co.uk/p/risk-aversion-is-killing-romance)
-- [Millennials Are Delaying Marriage Because They Can&#39;t Afford It](https://www.nawrb.com/millennials-are-delaying-marriage-because-they-cant-afford-it/)
-- [BEIR: A Heterogeneous Benchmark for Information Retrieval](https://github.com/beir-cellar/beir)
-- [Frank Ryan, NFL Champion QB, Math Prof, Pioneer of Electronic Voting, Has Died](https://www.cleveland.com/browns/2024/01/frank-ryan-passes-away-at-the-age-of-87-last-browns-qb-to-win-a-title-terry-pluto.html)
-- [Suicide Rates Are Up for Gen Z Across the Anglosphere, Especially for Girls](https://www.afterbabel.com/p/anglo-teen-suicide)
-- [Harvard President Resigns After Mounting Plagiarism Accusations](https://www.nytimes.com/2024/01/02/us/harvard-claudine-gay-resigns.html)
-- [Ask HN: Making Copyright for a Website](https://news.ycombinator.com/item?id=38849725)
-- [Rails 7.1 Introduced Validate Option for Enums](https://blog.saeloun.com/2024/01/02/rails-enums-validate-option/)
+- [Gladwell Could Enable a Campus Conversation of &#39;I Hate the Ivy League&#39;](https://www.insidehighered.com/blogs/learning-innovation/how-malcolm-gladwell-could-enable-campus-conversation-%E2%80%98i-hate-ivy-league%E2%80%99)
+- [Britain&#39;s Economy Is &#39;Not Working.&#39; Here Are 2 Key Reasons.](https://www.nytimes.com/2024/01/02/business/uk-economy-growth.html)
+- [The ants are inside my computer and they are up to no good](https://discussions.apple.com/thread/1755624)
+- [What Is JSON?](https://socket.dev/blog/judicious-json)
+- [Alan Turing – The Delilah Project](https://www.bonhams.com/auction/28322/lot/45/turing-alan-the-delilah-project-the-papers-of-alan-turing-and-donald-bayley-relating-to-the-delilah-project/)
+- [First Private Mission to Venus](https://www.rocketlabusa.com/missions/upcoming-missions/first-private-mission-to-venus/)
+- [Mandiant gets its X account hacked](https://arstechnica.com/security/2024/01/hacked-x-account-for-google-owned-security-firm-mandiant-pushes-cryptocurrency-scam/)
+- [AI Job Descriptions &lpar;or what happens when they go wrong&rpar;](https://www.indeed.com/viewjob?t=Corporate+Network+Manager&c=Glacier+Bancorp&l=Phoenix,+AZ&jk=1a7f699088389657&rtk=1hj916u8si6id800)
+- [SpaceX Illegally Fired Workers Critical of Musk, Federal Agency Says](https://www.nytimes.com/2024/01/03/business/spacex-elon-musk-nlrb-workers.html)
+- [Capsul – Simple, fast, private compute](https://capsul.org/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

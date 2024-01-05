@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [OpenAI to launch GPT Store next week](https://www.computerworld.com/article/3712020/openai-to-launch-gpt-store-next-week.html#tk.rss_all)
+- [Apple is a big-noise no-show at CES 2024](https://www.computerworld.com/article/3711903/apple-is-a-big-noise-no-show-at-ces-2024.html#tk.rss_all)
+- [5 New Year&#39;s resolutions for Windows users](https://www.computerworld.com/article/3711864/windows-pc-resolutions-2024.html#tk.rss_all)
+- [17 time-saving Android shortcuts](https://www.computerworld.com/article/3229125/time-saving-android-shortcuts.html#tk.rss_all)
 - [Timely Apple updates must be in your supplier SLAs](https://www.computerworld.com/article/3711960/timely-apple-updates-must-be-in-your-supplier-slas.html#tk.rss_all)
 - [Google Assistant&#39;s forgotten memory magic](https://www.computerworld.com/article/3711922/google-assistant-android-memory.html#tk.rss_all)
 - [Make your own business templates in Google Docs](https://www.computerworld.com/article/3711702/make-custom-business-templates-google-docs.html#tk.rss_all)
 - [IDC expects genAI spending to double in these areas in &#39;24](https://www.computerworld.com/article/3711861/idc-expects-genai-spending-to-double-in-these-areas-in-24.html#tk.rss_all)
 - [This year, we get ready for the Apple of your AI](https://www.computerworld.com/article/3711842/this-year-we-get-ready-for-the-apple-of-your-ai.html#tk.rss_all)
 - [Big workplace changes are coming in 2024. Are you ready?](https://www.computerworld.com/article/3711762/big-workplace-changes-are-coming-in-2024-are-you-ready.html#tk.rss_all)
-- [The top Chromebook tips of 2023](https://www.computerworld.com/article/3328830/chromebook-tips-2023.html#tk.rss_all)
-- [13 tech luminaries we lost in 2023](https://www.computerworld.com/article/3711464/tech-luminaries-we-lost-in-2023-in-memoriam.html#tk.rss_all)
-- [10 Windows annoyances and how to fix them](https://www.computerworld.com/article/3711500/microsoft-windows-annoyances.html#tk.rss_all)
-- [USB-C explained: How to get the most from it &lpar;and why it keeps on getting better&rpar;](https://www.computerworld.com/article/2488194/usb-c-explained-how-to-get-the-most-from-it-and-why-it-keeps-getting-better.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

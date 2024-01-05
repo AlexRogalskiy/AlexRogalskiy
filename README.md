@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Australia v Pakistan: third Test, day two – live](https://www.theguardian.com/sport/live/2024/jan/04/australia-vs-pakistan-third-test-day-two-live-updates-scores-david-warner-final-test-results-start-time-teams-lineup-scg-sydney)
-- [Israel-Gaza war live: International court to hold public hearings on South Africa’s genocide case against Israel next week](https://www.theguardian.com/world/live/2024/jan/03/israel-gaza-war-live-updates-palestine-hamas-leader-saleh-al-arouri-death-idf-beirut-lebanon)
-- [Jeffrey Epstein: documents linking associates to sex offender unsealed](https://www.theguardian.com/us-news/2024/jan/03/jeffrey-epstein-list-names-released)
-- [Suicide-prevention net beneath Golden Gate Bridge completed, say officials](https://www.theguardian.com/us-news/2024/jan/03/golden-gate-bridge-suicide-prevention-net-completed)
-- [Russia-Ukraine war at a glance: what we know on day 680](https://www.theguardian.com/world/2024/jan/04/russia-ukraine-war-at-glance-what-we-know-on-day-680)
-- [‘A bully’: the billionaire who led calls for Claudine Gay’s Harvard exit](https://www.theguardian.com/education/2024/jan/03/bill-ackman-billionaire-attacks-claudine-gay-harvard-twitter-x)
-- [Trump asks US supreme court to review Colorado ruling removing him from 2024 ballot](https://www.theguardian.com/us-news/2024/jan/03/donald-trump-appeal-colorado-ballot-supreme-court)
-- [Swimming in the ocean I am alone and embraced by risk and trust | Anna Sublet](https://www.theguardian.com/commentisfree/2024/jan/04/swimming-in-the-ocean-i-am-alone-and-embraced-by-risk-and-trust)
-- [Tintern Abbey excavation suggests poor people were later buried alongside lords](https://www.theguardian.com/science/2024/jan/04/tintern-abbey-excavation-suggests-poor-people-were-later-buried-alongside-lords)
-- [‘It’s really well-balanced, there’s a bit of everything’: how to cook and eat like you’re on holiday in Vietnam](https://www.theguardian.com/lifeandstyle/2024/jan/04/best-vietnamese-recipes-rice-paper-rolls-grilled-fish-jerry-mai)
+- [Australia v Pakistan: third Test, day three – live](https://www.theguardian.com/sport/live/2024/jan/05/australia-vs-pakistan-third-test-day-three-live-updates-scores-david-warner-final-results-start-time-teams-lineup-scg-sydney)
+- [I used to hunt for the perfect magazine at my gran’s as a child – and the joy of rescuing rubbish has never left me | Nova Weetman](https://www.theguardian.com/commentisfree/2024/jan/05/i-used-to-hunt-for-the-perfect-magazine-at-my-grans-as-a-child-and-the-joy-of-rescuing-things-has-never-left-me)
+- [Illinois voters file petition to remove Trump from Republican primary ballot](https://www.theguardian.com/us-news/2024/jan/04/illinois-voters-removal-trump-republican-primary-ballot)
+- [Russia-Ukraine war at a glance: what we know on day 681](https://www.theguardian.com/world/2024/jan/05/russia-ukraine-war-at-a-glance-what-we-know-on-day-681)
+- [Biggest male funnel-web spider dubbed ‘Hercules’ found north of Sydney](https://www.theguardian.com/environment/2024/jan/05/biggest-male-funnel-web-spider-record-found-hercules-sydney-australian-reptile-park)
+- [Bangladesh election: Sheikh Hasina expected to win fourth term amid opposition boycott](https://www.theguardian.com/world/2024/jan/05/bangladesh-election-results-opposition-boycott-tarique-rahman-fourth-term-sheikh-hasina)
+- [Second wave of court documents related to Jeffrey Epstein unsealed](https://www.theguardian.com/us-news/2024/jan/04/jeffrey-epstein-second-round-documents-unsealed)
+- [True blue: Neptune only slightly deeper colour than Uranus, say Oxford scientists](https://www.theguardian.com/science/2024/jan/05/true-blue-neptune-only-slightly-deeper-colour-than-uranus-say-oxford-scientists)
+- [‘A must-watch show’: David Tennant to present this year’s film Baftas](https://www.theguardian.com/film/2024/jan/05/a-must-watch-show-david-tennant-to-present-this-years-film-baftas)
+- [FA Cup third round: 10 things to look out for this weekend](https://www.theguardian.com/football/2024/jan/05/fa-cup-third-round-10-things-to-look-out-for-this-weekend)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

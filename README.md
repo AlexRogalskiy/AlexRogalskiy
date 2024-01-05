@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [SpaceX Illegally Fired Workers Critical of Musk, Federal Agency Says](https://www.nytimes.com/2024/01/03/business/spacex-elon-musk-nlrb-workers.html)
-- [CAS 761: Generative Programming &lpar;Winter 2024&rpar;](http://www.cas.mcmaster.ca/~carette/CAS761/W2024/index.html)
-- [Think more about what to focus on](https://www.henrikkarlsson.xyz/p/multi-armed-bandit)
-- [The Curious Case of MD5](https://katelynsills.com/law/the-curious-case-of-md5/)
-- [Understand how transformers work by demystifying the math behind them](https://osanseviero.github.io/hackerllama/blog/posts/random_transformer/)
-- [Asian Arowana: The most expensive pet fish](https://thehustle.co/asian-arowana-most-expensive-fish/)
-- [Laylo &lpar;YC S20&rpar; is hiring a live events and music account executive](https://www.ycombinator.com/companies/laylo/jobs/x3d7mtv-live-events-music-account-executive)
-- [TinyGPT-V: Efficient Multimodal Large Language Model via Small Backbones](https://github.com/DLYuanGod/TinyGPT-V)
-- [Someone was breaking into Orange Spain RIPE account &lpar;and break their /12&rpar;](https://benjojo.co.uk/u/benjojo/h/r1zj333N4L6cF7P1xv)
-- [Show HN: A Who is Hiring app with AI filters](https://bernawil.github.io/hn-who-is-hiring/)
+- [&#39;everything&#39; blocks devs from removing their own NPM packages](https://www.bleepingcomputer.com/news/security/everything-blocks-devs-from-removing-their-own-npm-packages/)
+- [Google illegally refusing to bargain with employee union, says NLRB](https://www.theregister.com/2024/01/04/google_illegally_refusing_to_bargain/)
+- [You shouldn&#39;t run NSA-grade Wi-Fi at home. Here&#39;s how to do it](https://smallstep.com/blog/home-network-eap-tls-wifi/)
+- [Go: What we got right, what we got wrong](https://commandcenter.blogspot.com/2024/01/what-we-got-right-what-we-got-wrong.html)
+- [Clicks – Physical keyboard for iPhone](https://www.clicks.tech/)
+- [Databases in 2023: A Year in Review](https://ottertune.com/blog/2023-databases-retrospective)
+- [A Netflix for fake TV shows and movies](https://nestflix.fun/)
+- [AMD proposes an FPGA subsystem user-space interface for Linux](https://www.phoronix.com/news/FPGA-User-Space-Interface-AMD)
+- [Audio2Photoreal](https://github.com/facebookresearch/audio2photoreal)
+- [There&#39;s Waldo is a robot that finds Waldo &lpar;2018&rpar; [video]](https://www.youtube.com/watch?v=-i7HMPpxB-Y)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

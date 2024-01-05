@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Gladwell Could Enable a Campus Conversation of &#39;I Hate the Ivy League&#39;](https://www.insidehighered.com/blogs/learning-innovation/how-malcolm-gladwell-could-enable-campus-conversation-%E2%80%98i-hate-ivy-league%E2%80%99)
-- [Britain&#39;s Economy Is &#39;Not Working.&#39; Here Are 2 Key Reasons.](https://www.nytimes.com/2024/01/02/business/uk-economy-growth.html)
-- [The ants are inside my computer and they are up to no good](https://discussions.apple.com/thread/1755624)
-- [What Is JSON?](https://socket.dev/blog/judicious-json)
-- [Alan Turing – The Delilah Project](https://www.bonhams.com/auction/28322/lot/45/turing-alan-the-delilah-project-the-papers-of-alan-turing-and-donald-bayley-relating-to-the-delilah-project/)
-- [First Private Mission to Venus](https://www.rocketlabusa.com/missions/upcoming-missions/first-private-mission-to-venus/)
-- [Mandiant gets its X account hacked](https://arstechnica.com/security/2024/01/hacked-x-account-for-google-owned-security-firm-mandiant-pushes-cryptocurrency-scam/)
-- [AI Job Descriptions &lpar;or what happens when they go wrong&rpar;](https://www.indeed.com/viewjob?t=Corporate+Network+Manager&c=Glacier+Bancorp&l=Phoenix,+AZ&jk=1a7f699088389657&rtk=1hj916u8si6id800)
-- [SpaceX Illegally Fired Workers Critical of Musk, Federal Agency Says](https://www.nytimes.com/2024/01/03/business/spacex-elon-musk-nlrb-workers.html)
-- [Capsul – Simple, fast, private compute](https://capsul.org/)
+- [Prompt Principles for ChatGPT](https://arxiv.org/abs/2312.16171)
+- [Massive hidden compute sitting idle in embedded devices, useable for everyday AI](https://petewarden.com/2024/01/05/doom-dark-compute-and-ai/)
+- [Finding Interesting Documents with Grep](https://www.linux.com/topic/desktop/finding-interesting-documents-grep/)
+- [SIMD in Pure Python](https://www.da.vidbuchanan.co.uk/blog/python-swar.html)
+- [Are you kidding me?12years？](https://x.com/mayemusk/status/1742983560817004731?s=20)
+- [SpaceX suit claims NLRB is unconstitutional](https://www.bloomberg.com/news/articles/2024-01-04/spacex-sues-us-labor-board-over-fired-employees-case)
+- [Toaster Controller Datasheet [pdf]](https://www.diodes.com/assets/Datasheets/PT8A2514A.pdf)
+- [Show HN: A script for automating the setup of self-hosted Plausible Analytics](https://plausiblebootstrapper.com/)
+- [Zeta Oph: Runaway Star](https://apod.nasa.gov/apod/ap240104.html)
+- [What Are Stocks](https://www.stockstobuynow.wiki/web-stories/what-are-stocks/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

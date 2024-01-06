@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Hey Siri, where will you be after the genAI bubble pops?](https://www.computerworld.com/article/3712060/hey-siri-where-will-you-be-after-the-genai-bubble-pops.html#tk.rss_all)
+- [Nvidia, Databricks investments value generative AI search startup at $520M](https://www.computerworld.com/article/3712022/nvidia-databricks-investments-value-generative-ai-search-startup-at-520m.html#tk.rss_all)
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [2024 will be ‘The year of AI glasses’](https://www.computerworld.com/article/3711844/2024-will-be-the-year-of-ai-glasses.html#tk.rss_all)
 - [OpenAI to launch GPT Store next week](https://www.computerworld.com/article/3712020/openai-to-launch-gpt-store-next-week.html#tk.rss_all)
 - [Apple is a big-noise no-show at CES 2024](https://www.computerworld.com/article/3711903/apple-is-a-big-noise-no-show-at-ces-2024.html#tk.rss_all)
 - [5 New Year&#39;s resolutions for Windows users](https://www.computerworld.com/article/3711864/windows-pc-resolutions-2024.html#tk.rss_all)
 - [17 time-saving Android shortcuts](https://www.computerworld.com/article/3229125/time-saving-android-shortcuts.html#tk.rss_all)
 - [Timely Apple updates must be in your supplier SLAs](https://www.computerworld.com/article/3711960/timely-apple-updates-must-be-in-your-supplier-slas.html#tk.rss_all)
 - [Google Assistant&#39;s forgotten memory magic](https://www.computerworld.com/article/3711922/google-assistant-android-memory.html#tk.rss_all)
-- [Make your own business templates in Google Docs](https://www.computerworld.com/article/3711702/make-custom-business-templates-google-docs.html#tk.rss_all)
-- [IDC expects genAI spending to double in these areas in &#39;24](https://www.computerworld.com/article/3711861/idc-expects-genai-spending-to-double-in-these-areas-in-24.html#tk.rss_all)
-- [This year, we get ready for the Apple of your AI](https://www.computerworld.com/article/3711842/this-year-we-get-ready-for-the-apple-of-your-ai.html#tk.rss_all)
-- [Big workplace changes are coming in 2024. Are you ready?](https://www.computerworld.com/article/3711762/big-workplace-changes-are-coming-in-2024-are-you-ready.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

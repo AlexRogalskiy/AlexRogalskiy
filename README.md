@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Australia v Pakistan: third Test, day three – live](https://www.theguardian.com/sport/live/2024/jan/05/australia-vs-pakistan-third-test-day-three-live-updates-scores-david-warner-final-results-start-time-teams-lineup-scg-sydney)
-- [I used to hunt for the perfect magazine at my gran’s as a child – and the joy of rescuing rubbish has never left me | Nova Weetman](https://www.theguardian.com/commentisfree/2024/jan/05/i-used-to-hunt-for-the-perfect-magazine-at-my-grans-as-a-child-and-the-joy-of-rescuing-things-has-never-left-me)
-- [Illinois voters file petition to remove Trump from Republican primary ballot](https://www.theguardian.com/us-news/2024/jan/04/illinois-voters-removal-trump-republican-primary-ballot)
-- [Russia-Ukraine war at a glance: what we know on day 681](https://www.theguardian.com/world/2024/jan/05/russia-ukraine-war-at-a-glance-what-we-know-on-day-681)
-- [Biggest male funnel-web spider dubbed ‘Hercules’ found north of Sydney](https://www.theguardian.com/environment/2024/jan/05/biggest-male-funnel-web-spider-record-found-hercules-sydney-australian-reptile-park)
-- [Bangladesh election: Sheikh Hasina expected to win fourth term amid opposition boycott](https://www.theguardian.com/world/2024/jan/05/bangladesh-election-results-opposition-boycott-tarique-rahman-fourth-term-sheikh-hasina)
-- [Second wave of court documents related to Jeffrey Epstein unsealed](https://www.theguardian.com/us-news/2024/jan/04/jeffrey-epstein-second-round-documents-unsealed)
-- [True blue: Neptune only slightly deeper colour than Uranus, say Oxford scientists](https://www.theguardian.com/science/2024/jan/05/true-blue-neptune-only-slightly-deeper-colour-than-uranus-say-oxford-scientists)
-- [‘A must-watch show’: David Tennant to present this year’s film Baftas](https://www.theguardian.com/film/2024/jan/05/a-must-watch-show-david-tennant-to-present-this-years-film-baftas)
-- [FA Cup third round: 10 things to look out for this weekend](https://www.theguardian.com/football/2024/jan/05/fa-cup-third-round-10-things-to-look-out-for-this-weekend)
+- [Australia v Pakistan: third Test, day four – live](https://www.theguardian.com/sport/live/2024/jan/06/australia-vs-pakistan-third-test-day-four-live-updates-scores-david-warner-final-results-start-time-teams-lineup-scg-sydney)
+- [Third batch of Jeffrey Epstein documents unsealed](https://www.theguardian.com/us-news/2024/jan/05/jeffrey-epstein-documents-unsealed)
+- [Fired-up Biden shows gloves are off in January 6 anniversary speech](https://www.theguardian.com/us-news/2024/jan/05/biden-january-6-anniversary-speech-trump-democracy)
+- [US supreme court allows Idaho’s strict abortion ban to stand pending hearing](https://www.theguardian.com/law/2024/jan/05/us-supreme-court-idaho-abortion-ban-medical-emergency)
+- [UN warns Gaza is now ‘uninhabitable’ as war continues](https://www.theguardian.com/world/2024/jan/05/un-warns-gaza-is-now-uninhabitable-as-war-continues)
+- [Ex-police officer sentenced to 14 months in jail for killing Elijah McClain in 2019](https://www.theguardian.com/us-news/2024/jan/05/police-officer-randy-roedema-14-month-jail-killing-elijah-mcclain-colorado)
+- [As manifesto deadline day looms, five questions Keir Starmer must answer](https://www.theguardian.com/politics/2024/jan/05/five-policy-questions-starmer-needs-to-answer-before-labours-election-campaign-begins)
+- [Post Office under criminal investigation for potential fraud over Horizon scandal](https://www.theguardian.com/uk-news/2024/jan/05/post-office-criminal-investigation-potential-horizon-accounting-fraud)
+- [Biden attacks Trump as grave threat to democracy in rousing 2024 speech](https://www.theguardian.com/us-news/2024/jan/05/biden-attacks-trump-january-6-anniversary-speech-election)
+- [Shia LaBeouf mulls plan to become deacon after Catholic confirmation](https://www.theguardian.com/film/2024/jan/05/shia-labeouf-catholic-confirmation-deacon)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

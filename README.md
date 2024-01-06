@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Prompt Principles for ChatGPT](https://arxiv.org/abs/2312.16171)
-- [Massive hidden compute sitting idle in embedded devices, useable for everyday AI](https://petewarden.com/2024/01/05/doom-dark-compute-and-ai/)
-- [Finding Interesting Documents with Grep](https://www.linux.com/topic/desktop/finding-interesting-documents-grep/)
-- [SIMD in Pure Python](https://www.da.vidbuchanan.co.uk/blog/python-swar.html)
-- [Are you kidding me?12years？](https://x.com/mayemusk/status/1742983560817004731?s=20)
-- [SpaceX suit claims NLRB is unconstitutional](https://www.bloomberg.com/news/articles/2024-01-04/spacex-sues-us-labor-board-over-fired-employees-case)
-- [Toaster Controller Datasheet [pdf]](https://www.diodes.com/assets/Datasheets/PT8A2514A.pdf)
-- [Show HN: A script for automating the setup of self-hosted Plausible Analytics](https://plausiblebootstrapper.com/)
-- [Zeta Oph: Runaway Star](https://apod.nasa.gov/apod/ap240104.html)
-- [What Are Stocks](https://www.stockstobuynow.wiki/web-stories/what-are-stocks/)
+- [Potent psychedelic drug banishes PTSD, small study finds](https://www.nature.com/articles/d41586-024-00012-z)
+- [Book review: &#39;Bystander Society&#39;](https://www.historytoday.com/archive/review/bystander-society-mary-fulbrook-review)
+- [Jupiter&#39;s Io Gets a Close-Up](https://nautil.us/jupiters-io-gets-a-close-up-481986/)
+- [The Overlooked Experiment That Revealed the Quantum World](https://nautil.us/the-overlooked-experiment-that-revealed-the-quantum-world-482910/)
+- [HortusFox – A self-hosted collaborative plant management system](https://github.com/danielbrendel/hortusfox-web)
+- [Cycling Doping Fallacies](https://thenewleafjournal.com/cycling-doping-fallacies/)
+- [Show HN: Cryptoshark – an open source and educational crypto library](https://github.com/zliucd/cryptoshark)
+- [Org-Modern](https://elpa.gnu.org/packages/org-modern.html)
+- [Making Org Agenda Look Beautiful [video]](https://www.youtube.com/watch?v=a_WNtuefREM)
+- [Nitro: A fast, lightweight 3MB inference server with OpenAI-Compatible API](https://nitro.jan.ai/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

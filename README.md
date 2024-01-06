@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [&#39;everything&#39; blocks devs from removing their own NPM packages](https://www.bleepingcomputer.com/news/security/everything-blocks-devs-from-removing-their-own-npm-packages/)
-- [Google illegally refusing to bargain with employee union, says NLRB](https://www.theregister.com/2024/01/04/google_illegally_refusing_to_bargain/)
-- [You shouldn&#39;t run NSA-grade Wi-Fi at home. Here&#39;s how to do it](https://smallstep.com/blog/home-network-eap-tls-wifi/)
-- [Go: What we got right, what we got wrong](https://commandcenter.blogspot.com/2024/01/what-we-got-right-what-we-got-wrong.html)
-- [Clicks – Physical keyboard for iPhone](https://www.clicks.tech/)
-- [Databases in 2023: A Year in Review](https://ottertune.com/blog/2023-databases-retrospective)
-- [A Netflix for fake TV shows and movies](https://nestflix.fun/)
-- [AMD proposes an FPGA subsystem user-space interface for Linux](https://www.phoronix.com/news/FPGA-User-Space-Interface-AMD)
-- [Audio2Photoreal](https://github.com/facebookresearch/audio2photoreal)
-- [There&#39;s Waldo is a robot that finds Waldo &lpar;2018&rpar; [video]](https://www.youtube.com/watch?v=-i7HMPpxB-Y)
+- [Show HN: Hashmap.me – Simple HTTP-Based Data Storage and Retrieval](https://hashmap.me)
+- [Carta doing unsolicited tender offer outreach to their customers&#39; investors](https://twitter.com/karrisaarinen/status/1743398553500971331)
+- [2024-01-01 Emacs News](https://sachachua.com/blog/2024/01/2024-01-01-emacs-news/)
+- [Teaching C &lpar;2016&rpar;](https://blog.regehr.org/archives/1393)
+- [Show HN: Seedling – A Decentralised Medium](https://seedling-d.app)
+- [Fixing Macs door to door](https://matduggan.com/fixing-macs-door-to-door/)
+- [Looo.lol – a binary math site](https://looo.lol/)
+- [Revitalizing US Navy Shipbuilding](https://austinvernon.site/blog/navyshipbuilding.html)
+- [Pikchr: A PIC-like markup language for diagrams in technical documentation](https://pikchr.org/home/doc/trunk/homepage.md)
+- [TinyLlama: An Open-Source Small Language Model](https://arxiv.org/abs/2401.02385)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

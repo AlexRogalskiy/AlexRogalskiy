@@ -355,6 +355,7 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [How many jobs are available in technology in the US?](https://www.computerworld.com/article/3542681/how-many-jobs-are-available-in-technology.html#tk.rss_all)
 - [Hey Siri, where will you be after the genAI bubble pops?](https://www.computerworld.com/article/3712060/hey-siri-where-will-you-be-after-the-genai-bubble-pops.html#tk.rss_all)
 - [Nvidia, Databricks investments value generative AI search startup at $520M](https://www.computerworld.com/article/3712022/nvidia-databricks-investments-value-generative-ai-search-startup-at-520m.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
@@ -364,7 +365,6 @@
 - [5 New Year&#39;s resolutions for Windows users](https://www.computerworld.com/article/3711864/windows-pc-resolutions-2024.html#tk.rss_all)
 - [17 time-saving Android shortcuts](https://www.computerworld.com/article/3229125/time-saving-android-shortcuts.html#tk.rss_all)
 - [Timely Apple updates must be in your supplier SLAs](https://www.computerworld.com/article/3711960/timely-apple-updates-must-be-in-your-supplier-slas.html#tk.rss_all)
-- [Google Assistant&#39;s forgotten memory magic](https://www.computerworld.com/article/3711922/google-assistant-android-memory.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

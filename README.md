@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Potent psychedelic drug banishes PTSD, small study finds](https://www.nature.com/articles/d41586-024-00012-z)
-- [Book review: &#39;Bystander Society&#39;](https://www.historytoday.com/archive/review/bystander-society-mary-fulbrook-review)
-- [Jupiter&#39;s Io Gets a Close-Up](https://nautil.us/jupiters-io-gets-a-close-up-481986/)
-- [The Overlooked Experiment That Revealed the Quantum World](https://nautil.us/the-overlooked-experiment-that-revealed-the-quantum-world-482910/)
-- [HortusFox – A self-hosted collaborative plant management system](https://github.com/danielbrendel/hortusfox-web)
-- [Cycling Doping Fallacies](https://thenewleafjournal.com/cycling-doping-fallacies/)
-- [Show HN: Cryptoshark – an open source and educational crypto library](https://github.com/zliucd/cryptoshark)
-- [Org-Modern](https://elpa.gnu.org/packages/org-modern.html)
-- [Making Org Agenda Look Beautiful [video]](https://www.youtube.com/watch?v=a_WNtuefREM)
-- [Nitro: A fast, lightweight 3MB inference server with OpenAI-Compatible API](https://nitro.jan.ai/)
+- [Ask HN: Is a regular developer blog desireable in a B2C SaaS product?](https://news.ycombinator.com/item?id=38897719)
+- [Microsoft gains double-clicking patent &lpar;2004&rpar;](https://www.newscientist.com/article/dn5072-microsoft-gains-double-clicking-patent/)
+- [Switching to a Flip Phone Helped Me Cut Down on My Smartphone Addiction](https://www.nytimes.com/2024/01/06/technology/smartphone-addiction-flip-phone.html)
+- [Chess-GPT&#39;s Internal World Model – Adam Karvonen](https://adamkarvonen.github.io/machine_learning/2024/01/03/chess-world-models.html)
+- [Academic paper based on Uyghur genetic data retracted over ethical concerns](https://www.theguardian.com/world/2023/dec/29/academic-paper-uyghur-genetic-data-retracted-ethical-concerns)
+- [Notes Toward a Postcyberpunk Manifesto](https://news.slashdot.org/story/99/10/08/2123255/notes-toward-a-postcyberpunk-manifesto)
+- [Ghost in the Web Shell: Introducing ShellSweep](https://www.splunk.com/en_us/blog/security/ghost-in-the-web-shell-introducing-shellsweep.html)
+- [The Modern Miracle of Cheap Aluminum Foil](https://reason.com/2024/01/05/the-modern-miracle-of-cheap-aluminum-foil/)
+- [Hot updates in PostgreSQL for better performance &lpar;2020&rpar;](https://www.cybertec-postgresql.com/en/hot-updates-in-postgresql-for-better-performance/)
+- [FibeRobo: Poerful Body-Temperature Morphing Fibers [video]](https://www.youtube.com/watch?v=0HwaEbRUi8Y)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

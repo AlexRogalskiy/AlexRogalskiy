@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Australia v Pakistan: third Test, day four – live](https://www.theguardian.com/sport/live/2024/jan/06/australia-vs-pakistan-third-test-day-four-live-updates-scores-david-warner-final-results-start-time-teams-lineup-scg-sydney)
-- [Third batch of Jeffrey Epstein documents unsealed](https://www.theguardian.com/us-news/2024/jan/05/jeffrey-epstein-documents-unsealed)
-- [Fired-up Biden shows gloves are off in January 6 anniversary speech](https://www.theguardian.com/us-news/2024/jan/05/biden-january-6-anniversary-speech-trump-democracy)
-- [US supreme court allows Idaho’s strict abortion ban to stand pending hearing](https://www.theguardian.com/law/2024/jan/05/us-supreme-court-idaho-abortion-ban-medical-emergency)
-- [UN warns Gaza is now ‘uninhabitable’ as war continues](https://www.theguardian.com/world/2024/jan/05/un-warns-gaza-is-now-uninhabitable-as-war-continues)
-- [Ex-police officer sentenced to 14 months in jail for killing Elijah McClain in 2019](https://www.theguardian.com/us-news/2024/jan/05/police-officer-randy-roedema-14-month-jail-killing-elijah-mcclain-colorado)
-- [As manifesto deadline day looms, five questions Keir Starmer must answer](https://www.theguardian.com/politics/2024/jan/05/five-policy-questions-starmer-needs-to-answer-before-labours-election-campaign-begins)
-- [Post Office under criminal investigation for potential fraud over Horizon scandal](https://www.theguardian.com/uk-news/2024/jan/05/post-office-criminal-investigation-potential-horizon-accounting-fraud)
-- [Biden attacks Trump as grave threat to democracy in rousing 2024 speech](https://www.theguardian.com/us-news/2024/jan/05/biden-attacks-trump-january-6-anniversary-speech-election)
-- [Shia LaBeouf mulls plan to become deacon after Catholic confirmation](https://www.theguardian.com/film/2024/jan/05/shia-labeouf-catholic-confirmation-deacon)
+- [Russia-Ukraine war at a glance: what we know on day 683](https://www.theguardian.com/world/2024/jan/07/russia-ukraine-war-at-a-glance-what-we-know-on-day-683)
+- [Polls set to open in Bangladesh election guaranteed to hand Sheikh Hasina a fifth term](https://www.theguardian.com/world/2024/jan/07/polls-set-to-open-in-bangladesh-election-guaranteed-to-hand-sheikh-hasina-a-fifth-term)
+- [PM urged to suspend whip from pensions minister accused of misusing taxpayer funds](https://www.theguardian.com/politics/2024/jan/06/pm-urged-to-suspend-whip-from-pensions-minister-accused-of-misusing-taxpayer-funds)
+- [Moving matters: 12 of the best activewear essentials - in pictures](https://www.theguardian.com/fashion/gallery/2024/jan/06/moving-matters-12-of-the-best-activewear-essentials-in-pictures)
+- [Key Post Office Horizon campaigner ‘Mr Bates’ calls for faster compensation](https://www.theguardian.com/business/2024/jan/06/key-post-office-horizon-campaigner-mr-bates-calls-for-faster-compensation)
+- [Teenager charged with knife murder of gunman in Dublin restaurant](https://www.theguardian.com/world/2024/jan/06/teenager-charged-with-knife-of-gunman-in-dublin-restaurant)
+- [Big Zuu’s 12 Dishes in 12 Hours review – the freshest, most irresistible food TV in years](https://www.theguardian.com/tv-and-radio/2024/jan/06/big-zuus-12-dishes-in-12-hours-review-the-freshest-most-irresistible-food-tv-in-years)
+- [Rishi Sunak had doubts about Rwanda scheme as chancellor, report says](https://www.theguardian.com/politics/2024/jan/06/rishi-sunak-had-doubts-about-rwanda-scheme-as-chancellor-reports-say)
+- [US and EU launch twin diplomatic mission to calm tensions in Middle East](https://www.theguardian.com/world/2024/jan/06/hezbollah-fires-rockets-into-israel-over-killing-of-hamas-leader-in-beirut)
+- [Long way home: French Cup minnows travel 8,600 miles – and lose 12-0](https://www.theguardian.com/football/2024/jan/06/long-way-home-french-cup-minnows-travel-8600-miles-and-lose-12-0)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

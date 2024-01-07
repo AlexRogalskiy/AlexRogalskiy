@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Show HN: Hashmap.me – Simple HTTP-Based Data Storage and Retrieval](https://hashmap.me)
-- [Carta doing unsolicited tender offer outreach to their customers&#39; investors](https://twitter.com/karrisaarinen/status/1743398553500971331)
-- [2024-01-01 Emacs News](https://sachachua.com/blog/2024/01/2024-01-01-emacs-news/)
-- [Teaching C &lpar;2016&rpar;](https://blog.regehr.org/archives/1393)
-- [Show HN: Seedling – A Decentralised Medium](https://seedling-d.app)
-- [Fixing Macs door to door](https://matduggan.com/fixing-macs-door-to-door/)
-- [Looo.lol – a binary math site](https://looo.lol/)
-- [Revitalizing US Navy Shipbuilding](https://austinvernon.site/blog/navyshipbuilding.html)
-- [Pikchr: A PIC-like markup language for diagrams in technical documentation](https://pikchr.org/home/doc/trunk/homepage.md)
-- [TinyLlama: An Open-Source Small Language Model](https://arxiv.org/abs/2401.02385)
+- [US unemployment has been under 4% for the longest streak since the Vietnam War](https://www.npr.org/2024/01/05/1222714145/jobs-report-december-labor-wages)
+- [Original Age of Empires 2 dev talks about its usage of assembly code](https://old.reddit.com/r/aoe2/comments/18ysttu/aoe_is_written_in_assembly_is_this_actually_true_o/)
+- [On building a semantic search engine](https://vickiboykis.com/2024/01/05/retro-on-viberary/)
+- [Dimensional Analysis and Black Holes [pdf]](https://hapax.github.io/assets/dimensional-analysis.pdf)
+- [Libwebsockets: pure C library for http, websockets, MQTT](https://github.com/warmcat/libwebsockets)
+- [Ten Noteworthy AI Research Papers of 2023](https://magazine.sebastianraschka.com/p/10-ai-research-papers-2023)
+- [Show HN: New RISC-V emulator for Computer Science education](https://github.com/gboncoffee/egg)
+- [Chess-GPT&#39;s Internal World Model](https://github.com/adamkarvonen/chess_llm_interpretability)
+- [UIDesignDaily 4 years later, 1600 open-source designs](https://www.uidesigndaily.com/)
+- [Inverting PhotoDNA](https://anishathalye.com/inverting-photodna/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

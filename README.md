@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [US unemployment has been under 4% for the longest streak since the Vietnam War](https://www.npr.org/2024/01/05/1222714145/jobs-report-december-labor-wages)
-- [Original Age of Empires 2 dev talks about its usage of assembly code](https://old.reddit.com/r/aoe2/comments/18ysttu/aoe_is_written_in_assembly_is_this_actually_true_o/)
-- [On building a semantic search engine](https://vickiboykis.com/2024/01/05/retro-on-viberary/)
-- [Dimensional Analysis and Black Holes [pdf]](https://hapax.github.io/assets/dimensional-analysis.pdf)
-- [Libwebsockets: pure C library for http, websockets, MQTT](https://github.com/warmcat/libwebsockets)
-- [Ten Noteworthy AI Research Papers of 2023](https://magazine.sebastianraschka.com/p/10-ai-research-papers-2023)
-- [Show HN: New RISC-V emulator for Computer Science education](https://github.com/gboncoffee/egg)
-- [Chess-GPT&#39;s Internal World Model](https://github.com/adamkarvonen/chess_llm_interpretability)
-- [UIDesignDaily 4 years later, 1600 open-source designs](https://www.uidesigndaily.com/)
-- [Inverting PhotoDNA](https://anishathalye.com/inverting-photodna/)
+- [Show HN: I made a HTMX Playground 100% in the browser](https://lassebomh.github.io/htmx-playground/)
+- [I made an app that runs Mistral 7B 0.2 LLM locally on iPhone Pros](https://apps.apple.com/us/app/offline-chat-private-ai/id6474077941)
+- [The California Town Owned by a New York Investment Firm](https://www.newyorker.com/news/us-journal/scotia-the-california-town-owned-by-a-new-york-investment-firm)
+- [Machine Learning Helps Fuzzing Find Hardware Bugs](https://spectrum.ieee.org/hardware-hacking)
+- [Buffett once bet $1M that he could beat a group of hedge funds over 10 years](https://finance.yahoo.com/news/warren-buffett-once-bet-1m-113000485.html)
+- [&quot;LibreOffice is better at reading old Word files than Word&quot;](https://eldritch.cafe/@sfwrtr/111716610017454919)
+- [MK1 Flywheel Unlocks the Full Potential of AMD Instinct for LLM Inference](https://mkone.ai/blog/mk1-flywheel-amd)
+- [What Does the Cerebellum Do?](https://sarahconstantin.substack.com/p/what-does-the-cerebellum-do-anyway)
+- [Dumbphone Finder](https://josebriones.org/dumbphone-finder)
+- [When random numbers are too random: Low discrepancy sequences &lpar;2017&rpar;](https://blog.demofox.org/2017/05/29/when-random-numbers-are-too-random-low-discrepancy-sequences/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

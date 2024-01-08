@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war at a glance: what we know on day 683](https://www.theguardian.com/world/2024/jan/07/russia-ukraine-war-at-a-glance-what-we-know-on-day-683)
-- [Polls set to open in Bangladesh election guaranteed to hand Sheikh Hasina a fifth term](https://www.theguardian.com/world/2024/jan/07/polls-set-to-open-in-bangladesh-election-guaranteed-to-hand-sheikh-hasina-a-fifth-term)
-- [PM urged to suspend whip from pensions minister accused of misusing taxpayer funds](https://www.theguardian.com/politics/2024/jan/06/pm-urged-to-suspend-whip-from-pensions-minister-accused-of-misusing-taxpayer-funds)
-- [Moving matters: 12 of the best activewear essentials - in pictures](https://www.theguardian.com/fashion/gallery/2024/jan/06/moving-matters-12-of-the-best-activewear-essentials-in-pictures)
-- [Key Post Office Horizon campaigner ‘Mr Bates’ calls for faster compensation](https://www.theguardian.com/business/2024/jan/06/key-post-office-horizon-campaigner-mr-bates-calls-for-faster-compensation)
-- [Teenager charged with knife murder of gunman in Dublin restaurant](https://www.theguardian.com/world/2024/jan/06/teenager-charged-with-knife-of-gunman-in-dublin-restaurant)
-- [Big Zuu’s 12 Dishes in 12 Hours review – the freshest, most irresistible food TV in years](https://www.theguardian.com/tv-and-radio/2024/jan/06/big-zuus-12-dishes-in-12-hours-review-the-freshest-most-irresistible-food-tv-in-years)
-- [Rishi Sunak had doubts about Rwanda scheme as chancellor, report says](https://www.theguardian.com/politics/2024/jan/06/rishi-sunak-had-doubts-about-rwanda-scheme-as-chancellor-reports-say)
-- [US and EU launch twin diplomatic mission to calm tensions in Middle East](https://www.theguardian.com/world/2024/jan/06/hezbollah-fires-rockets-into-israel-over-killing-of-hamas-leader-in-beirut)
-- [Long way home: French Cup minnows travel 8,600 miles – and lose 12-0](https://www.theguardian.com/football/2024/jan/06/long-way-home-french-cup-minnows-travel-8600-miles-and-lose-12-0)
+- [Golden Globes 2024: the winners, the losers, the Barbenheimer – live](https://www.theguardian.com/film/live/2024/jan/07/golden-globes-2024-what-to-know-winners-losers-follow-live)
+- [Cave flood in Slovenia traps five people after heavy rain](https://www.theguardian.com/world/2024/jan/08/cave-flood-in-slovenia-traps-five-people-after-heavy-rain)
+- [Russia-Ukraine war at a glance: what we know on day 684](https://www.theguardian.com/world/2024/jan/08/russia-ukraine-war-at-a-glance-what-we-know-on-day-684)
+- [Manufacturers say UK becoming more competitive as global hub, survey finds](https://www.theguardian.com/business/2024/jan/08/uk-manufacturing-sector-prospects-survey-executives)
+- [I hadn’t skied for 10 years. Could a trip to the French Alps reignite my enthusiasm?](https://www.theguardian.com/travel/2024/jan/08/flaine-france-ski-trip-alps)
+- [Victoria weather: hundreds call for help and dozens rescued as intense rain and storms hit southern states](https://www.theguardian.com/australia-news/2024/jan/08/victoria-weather-forecast-rain-storms-emergency-warnings-bom-radar-map)
+- [Jack Lisowski finds form to thrash world champion Luca Brecel at Masters](https://www.theguardian.com/sport/2024/jan/07/jack-lisowski-stuns-world-champion-luca-brecel-masters-murphy)
+- [Blinken returns to Middle East and warns of risk war could spread](https://www.theguardian.com/world/2024/jan/07/blinken-middle-east-efforts-stop-spread-war-israel-gaza-lebanon)
+- [Conservatives face ‘obliteration’ as UK in worse state than 2010, Tory MP says](https://www.theguardian.com/politics/2024/jan/07/conservatives-face-obliteration-as-uk-in-worse-state-than-2010-tory-mp-says)
+- [I Am Andrew Tate review – an exhausting, depressing hour with an awful human](https://www.theguardian.com/tv-and-radio/2024/jan/07/i-am-andrew-tate-review-an-exhausting-depressing-hour-with-an-awful-human)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

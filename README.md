@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ask HN: Is a regular developer blog desireable in a B2C SaaS product?](https://news.ycombinator.com/item?id=38897719)
-- [Microsoft gains double-clicking patent &lpar;2004&rpar;](https://www.newscientist.com/article/dn5072-microsoft-gains-double-clicking-patent/)
-- [Switching to a Flip Phone Helped Me Cut Down on My Smartphone Addiction](https://www.nytimes.com/2024/01/06/technology/smartphone-addiction-flip-phone.html)
-- [Chess-GPT&#39;s Internal World Model – Adam Karvonen](https://adamkarvonen.github.io/machine_learning/2024/01/03/chess-world-models.html)
-- [Academic paper based on Uyghur genetic data retracted over ethical concerns](https://www.theguardian.com/world/2023/dec/29/academic-paper-uyghur-genetic-data-retracted-ethical-concerns)
-- [Notes Toward a Postcyberpunk Manifesto](https://news.slashdot.org/story/99/10/08/2123255/notes-toward-a-postcyberpunk-manifesto)
-- [Ghost in the Web Shell: Introducing ShellSweep](https://www.splunk.com/en_us/blog/security/ghost-in-the-web-shell-introducing-shellsweep.html)
-- [The Modern Miracle of Cheap Aluminum Foil](https://reason.com/2024/01/05/the-modern-miracle-of-cheap-aluminum-foil/)
-- [Hot updates in PostgreSQL for better performance &lpar;2020&rpar;](https://www.cybertec-postgresql.com/en/hot-updates-in-postgresql-for-better-performance/)
-- [FibeRobo: Poerful Body-Temperature Morphing Fibers [video]](https://www.youtube.com/watch?v=0HwaEbRUi8Y)
+- [1A2 Key Phone Systems](https://www.seriss.com/people/erco/1a2/)
+- [Ask HN: Managing Entitlement/Billing with Feature Flags – Pros and Cons?](https://news.ycombinator.com/item?id=38907509)
+- [Bootstrap Confidence Intervals in SQL for PostgreSQL and BigQuery](https://jdlm.info/articles/2023/06/11/bootstrap-confidence-intervals-sql-postgresql-bigquery.html)
+- [Ask HN: Terminal App for macOS in 2024](https://news.ycombinator.com/item?id=38907461)
+- [Radio and podcast company Audacy files for bankruptcy](https://thehill.com/policy/technology/4394504-radio-and-podcast-company-audacy-files-for-bankruptcy/)
+- [Programming as Theory Building – Peter Naur](https://gist.github.com/onlurking/fc5c81d18cfce9ff81bc968a7f342fb1)
+- [Excerpts from &quot;Inside Out, Microsoft–In Our Own Words&quot; &lpar;2000&rpar;](https://news.microsoft.com/2000/09/05/excerpts-from-inside-out-microsoft-in-our-own-words-2/)
+- [Any-Point Trajectory Modeling for Policy Learning](https://xingyu-lin.github.io/atm/)
+- [A moment that changed me: I stopped speaking at 19 – and found my artistic voice](https://www.theguardian.com/lifeandstyle/2023/dec/13/a-moment-that-changed-me-i-stopped-speaking-at-19-and-found-my-artistic-voice)
+- [Most Popular Games on Steam: 735 Out of 1000 Working on Linux-Based Steam Deck](https://boilingsteam.com/top-1000-games-on-steam-73-percent-735-working-on-steam-deck/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Show HN: I made a HTMX Playground 100% in the browser](https://lassebomh.github.io/htmx-playground/)
-- [I made an app that runs Mistral 7B 0.2 LLM locally on iPhone Pros](https://apps.apple.com/us/app/offline-chat-private-ai/id6474077941)
-- [The California Town Owned by a New York Investment Firm](https://www.newyorker.com/news/us-journal/scotia-the-california-town-owned-by-a-new-york-investment-firm)
-- [Machine Learning Helps Fuzzing Find Hardware Bugs](https://spectrum.ieee.org/hardware-hacking)
-- [Buffett once bet $1M that he could beat a group of hedge funds over 10 years](https://finance.yahoo.com/news/warren-buffett-once-bet-1m-113000485.html)
-- [&quot;LibreOffice is better at reading old Word files than Word&quot;](https://eldritch.cafe/@sfwrtr/111716610017454919)
-- [MK1 Flywheel Unlocks the Full Potential of AMD Instinct for LLM Inference](https://mkone.ai/blog/mk1-flywheel-amd)
-- [What Does the Cerebellum Do?](https://sarahconstantin.substack.com/p/what-does-the-cerebellum-do-anyway)
-- [Dumbphone Finder](https://josebriones.org/dumbphone-finder)
-- [When random numbers are too random: Low discrepancy sequences &lpar;2017&rpar;](https://blog.demofox.org/2017/05/29/when-random-numbers-are-too-random-low-discrepancy-sequences/)
+- [Polars](https://pola.rs/)
+- [Turing Complete Transformers: Two Transformers Are More Powerful Than One](https://openreview.net/forum?id=MGWsPGogLH)
+- [OpenBSD Release Songs](https://www.openbsd.org/lyrics.html)
+- [Show HN: Merkdir – create Merkle trees from your directories](https://github.com/makew0rld/merkdir)
+- [Asking people to &quot;do the research&quot; on fake news makes it more believable](https://www.niemanlab.org/2024/01/asking-people-to-do-the-research-on-fake-news-stories-makes-them-seem-more-believable-not-less/)
+- [A Rail Cart for the Space Conscious Passenger &lpar;2022&rpar;](https://hackaday.com/2022/10/08/a-rail-cart-for-the-space-conscious-passenger/)
+- [totally_safe_transmute, Line-by-Line &lpar;2021&rpar;](https://blog.yossarian.net/2021/03/16/totally_safe_transmute-line-by-line)
+- [United finds loose bolts on plug doors during 737 Max 9 inspections](https://theaircurrent.com/feed/dispatches/united-finds-loose-bolts-on-plug-doors-during-737-max-9-inspections/)
+- [Cells across the body talk to each other about aging](https://www.quantamagazine.org/cells-across-the-body-talk-to-each-other-about-aging-20240108/)
+- [How does one patch KDE2 under FreeBSD? &lpar;2012&rpar;](https://knowyourmeme.com/memes/how-does-one-patch-kde2-under-freebsd)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

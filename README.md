@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [OpenAI: GenAI tools can’t be made without copyrighted materials](https://www.computerworld.com/article/3712024/openai-genai-tools-cant-be-made-without-copyrighted-materials.html#tk.rss_all)
+- [Apple Vision Pro on  sale Feb. 2 in US, pre-orders soon](https://www.computerworld.com/article/3712023/apple-vision-pro-on-sale-feb-2-in-us-pre-orders-soon.html#tk.rss_all)
+- [Microsoft bids adieu to WordPad](https://www.computerworld.com/article/3712100/microsoft-bids-adieu-to-wordpad.html#tk.rss_all)
+- [Startup firm Patronus creates diagnostic tool to catch genAI mistakes](https://www.computerworld.com/article/3712000/startup-firm-patronus-creates-diagnostic-tool-to-catch-genai-mistakes.html#tk.rss_all)
 - [How many jobs are available in technology in the US?](https://www.computerworld.com/article/3542681/how-many-jobs-are-available-in-technology.html#tk.rss_all)
 - [Hey Siri, where will you be after the genAI bubble pops?](https://www.computerworld.com/article/3712060/hey-siri-where-will-you-be-after-the-genai-bubble-pops.html#tk.rss_all)
 - [Nvidia, Databricks investments value generative AI search startup at $520M](https://www.computerworld.com/article/3712022/nvidia-databricks-investments-value-generative-ai-search-startup-at-520m.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [2024 will be ‘The year of AI glasses’](https://www.computerworld.com/article/3711844/2024-will-be-the-year-of-ai-glasses.html#tk.rss_all)
 - [OpenAI to launch GPT Store next week](https://www.computerworld.com/article/3712020/openai-to-launch-gpt-store-next-week.html#tk.rss_all)
-- [Apple is a big-noise no-show at CES 2024](https://www.computerworld.com/article/3711903/apple-is-a-big-noise-no-show-at-ces-2024.html#tk.rss_all)
-- [5 New Year&#39;s resolutions for Windows users](https://www.computerworld.com/article/3711864/windows-pc-resolutions-2024.html#tk.rss_all)
-- [17 time-saving Android shortcuts](https://www.computerworld.com/article/3229125/time-saving-android-shortcuts.html#tk.rss_all)
-- [Timely Apple updates must be in your supplier SLAs](https://www.computerworld.com/article/3711960/timely-apple-updates-must-be-in-your-supplier-slas.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

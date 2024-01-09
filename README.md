@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [1A2 Key Phone Systems](https://www.seriss.com/people/erco/1a2/)
-- [Ask HN: Managing Entitlement/Billing with Feature Flags – Pros and Cons?](https://news.ycombinator.com/item?id=38907509)
-- [Bootstrap Confidence Intervals in SQL for PostgreSQL and BigQuery](https://jdlm.info/articles/2023/06/11/bootstrap-confidence-intervals-sql-postgresql-bigquery.html)
-- [Ask HN: Terminal App for macOS in 2024](https://news.ycombinator.com/item?id=38907461)
-- [Radio and podcast company Audacy files for bankruptcy](https://thehill.com/policy/technology/4394504-radio-and-podcast-company-audacy-files-for-bankruptcy/)
-- [Programming as Theory Building – Peter Naur](https://gist.github.com/onlurking/fc5c81d18cfce9ff81bc968a7f342fb1)
-- [Excerpts from &quot;Inside Out, Microsoft–In Our Own Words&quot; &lpar;2000&rpar;](https://news.microsoft.com/2000/09/05/excerpts-from-inside-out-microsoft-in-our-own-words-2/)
-- [Any-Point Trajectory Modeling for Policy Learning](https://xingyu-lin.github.io/atm/)
-- [A moment that changed me: I stopped speaking at 19 – and found my artistic voice](https://www.theguardian.com/lifeandstyle/2023/dec/13/a-moment-that-changed-me-i-stopped-speaking-at-19-and-found-my-artistic-voice)
-- [Most Popular Games on Steam: 735 Out of 1000 Working on Linux-Based Steam Deck](https://boilingsteam.com/top-1000-games-on-steam-73-percent-735-working-on-steam-deck/)
+- [Bolt Tensioning vs. Torquing: Pros, Cons, and Accuracy](https://www.hextechnology.com/articles/bolt-tensioning-vs-torquing/)
+- [Why do we Lubricate Threaded Fasteners?](https://reliabilitysolutions.net/articles/why-do-we-lubricate-threaded-fasteners/)
+- [Possible Relationship Between Epstein-Barr Virus and MS](https://www.pnas.org/doi/abs/10.1073/pnas.2315857121)
+- [Effect of disabling third-party cookies on publisher revenue [pdf]](https://services.google.com/fh/files/misc/disabling_third-party_cookies_publisher_revenue.pdf)
+- [Carta is exiting the startup stock sale business](https://www.axios.com/2024/01/09/carta-exits-liquidity-business-startups)
+- [Let&#39;s Write a Simple JPEG Library &lpar;2017&rpar;](https://koushtav.me/jpeg/tutorial/2017/11/25/lets-write-a-simple-jpeg-library-part-1/)
+- [Hewlett Packard Enterprise nears $13B deal to buy Juniper Networks](https://www.reuters.com/markets/deals/hewlett-packard-enterprise-nears-13-bln-deal-buy-juniper-networks-wsj-2024-01-08/)
+- [I Have Ported over 170 Doom Wads for Our Miyoo Device](https://old.reddit.com/r/MiyooMini/comments/191mv1g/release_i_have_ported_over_170_doom_wads_for_our/)
+- [Marimo – a fresh take at reactive Python notebooks](https://github.com/marimo-team/marimo)
+- [Flojoy: Python-based test and measure automation for hardware QA](https://www.flojoy.ai/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

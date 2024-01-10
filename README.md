@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Bolt Tensioning vs. Torquing: Pros, Cons, and Accuracy](https://www.hextechnology.com/articles/bolt-tensioning-vs-torquing/)
-- [Why do we Lubricate Threaded Fasteners?](https://reliabilitysolutions.net/articles/why-do-we-lubricate-threaded-fasteners/)
-- [Possible Relationship Between Epstein-Barr Virus and MS](https://www.pnas.org/doi/abs/10.1073/pnas.2315857121)
-- [Effect of disabling third-party cookies on publisher revenue [pdf]](https://services.google.com/fh/files/misc/disabling_third-party_cookies_publisher_revenue.pdf)
-- [Carta is exiting the startup stock sale business](https://www.axios.com/2024/01/09/carta-exits-liquidity-business-startups)
-- [Let&#39;s Write a Simple JPEG Library &lpar;2017&rpar;](https://koushtav.me/jpeg/tutorial/2017/11/25/lets-write-a-simple-jpeg-library-part-1/)
-- [Hewlett Packard Enterprise nears $13B deal to buy Juniper Networks](https://www.reuters.com/markets/deals/hewlett-packard-enterprise-nears-13-bln-deal-buy-juniper-networks-wsj-2024-01-08/)
-- [I Have Ported over 170 Doom Wads for Our Miyoo Device](https://old.reddit.com/r/MiyooMini/comments/191mv1g/release_i_have_ported_over_170_doom_wads_for_our/)
-- [Marimo – a fresh take at reactive Python notebooks](https://github.com/marimo-team/marimo)
-- [Flojoy: Python-based test and measure automation for hardware QA](https://www.flojoy.ai/)
+- [Let&#39;s make the indie web easier](https://gilest.org/indie-easy.html)
+- [Game Off 2023 Results](https://github.blog/2024-01-09-game-off-2023-results/)
+- [AI Content on Steam](https://store.steampowered.com/news/group/4145017/view/3862463747997849618)
+- [What are rotating proxies? How do they affect my business?](https://www.clickfreeze.io/blog/what-are-rotating-proxies-how-do-they-affect-my-business)
+- [Both sexes have to be oppressed: book review of Warriors and Worriers](https://woodfromeden.substack.com/p/both-sexes-have-to-be-oppressed)
+- [Ask HN: Is it time to break up Amazon?](https://news.ycombinator.com/item?id=38935257)
+- [Redwood City reels from rising office vacancies amid work-from-home shift](https://www.rwcpulse.com/redwood-city-news/redwood-city-reels-from-rising-office-vacancies-amid-work-from-home-shift-8071908)
+- [I quit my job to work full time on my open source project [Atuin]](https://ellie.wtf/posts/i-quit-my-job-to-work-full-time-on-my-open-source-project)
+- [Show HN: Free AI personal stylist with Stable Diffusion](https://apps.apple.com/us/app/fotofit/id6474455209)
+- [What Bizarre IT Setups Have You Seen? &lpar;2007&rpar;](https://slashdot.org/story/07/01/04/0253245/what-bizarre-it-setups-have-you-seen)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

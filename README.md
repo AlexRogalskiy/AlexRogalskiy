@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Polars](https://pola.rs/)
-- [Turing Complete Transformers: Two Transformers Are More Powerful Than One](https://openreview.net/forum?id=MGWsPGogLH)
-- [OpenBSD Release Songs](https://www.openbsd.org/lyrics.html)
-- [Show HN: Merkdir – create Merkle trees from your directories](https://github.com/makew0rld/merkdir)
-- [Asking people to &quot;do the research&quot; on fake news makes it more believable](https://www.niemanlab.org/2024/01/asking-people-to-do-the-research-on-fake-news-stories-makes-them-seem-more-believable-not-less/)
-- [A Rail Cart for the Space Conscious Passenger &lpar;2022&rpar;](https://hackaday.com/2022/10/08/a-rail-cart-for-the-space-conscious-passenger/)
-- [totally_safe_transmute, Line-by-Line &lpar;2021&rpar;](https://blog.yossarian.net/2021/03/16/totally_safe_transmute-line-by-line)
-- [United finds loose bolts on plug doors during 737 Max 9 inspections](https://theaircurrent.com/feed/dispatches/united-finds-loose-bolts-on-plug-doors-during-737-max-9-inspections/)
-- [Cells across the body talk to each other about aging](https://www.quantamagazine.org/cells-across-the-body-talk-to-each-other-about-aging-20240108/)
-- [How does one patch KDE2 under FreeBSD? &lpar;2012&rpar;](https://knowyourmeme.com/memes/how-does-one-patch-kde2-under-freebsd)
+- [Glucoboy](https://shonumi.github.io/articles/art33.html)
+- [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=38934809)
+- [Show HN: Peer-to-peer mini r/place with Proof of Work](https://tropical.pages.dev/pow/)
+- [Error handling in Go web apps shouldn&#39;t be so awkward](https://boldlygo.tech/posts/2024-01-08-error-handling/)
+- [How I pwned half of America&#39;s fast food chains, simultaneously](https://mrbruh.com/chattr/)
+- [Juniper Networks to Combine with HPE](https://blogs.juniper.net/en-us/driven-by-experience/juniper-networks-to-combine-with-hpe-accelerating-ai-native-networking-leadership)
+- [Amazon&#39;s Twitch to Cut 500 Employees, About 35% of Staff](https://www.bloomberg.com/news/articles/2024-01-09/amazon-s-twitch-to-cut-500-employees-about-35-of-staff)
+- [Potent psychedelic drug banishes PTSD](https://www.nature.com/articles/d41586-024-00012-z)
+- [Wikihouse: Open-Source Houses](https://www.wikihouse.cc/)
+- [Translating blog posts with GPT-4, or: on hope and fear](http://antirez.com/news/141)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

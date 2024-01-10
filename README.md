@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Over 20 people injured in apparent gas explosion at Texas hotel](https://www.theguardian.com/us-news/2024/jan/08/fort-worth-texas-hotel-gas-leak-explosion-debris)
-- [In the race for AI supremacy, China and the US are travelling on entirely different tracks | Manya Koetse](https://www.theguardian.com/world/2024/jan/09/in-the-race-for-ai-supremacy-china-and-the-us-are-travelling-on-entirely-different-tracks)
-- [US naval officer sentenced to two years in prison over spying for China](https://www.theguardian.com/us-news/2024/jan/08/us-naval-officer-prison-chinese-spying)
-- [Russia-Ukraine war at a glance: what we know on day 685](https://www.theguardian.com/world/2024/jan/09/russia-ukraine-war-at-a-glance-what-we-know-on-day-685)
-- [From torture allegations to ‘harmless grandpa’: the rebranding of Indonesia’s Prabowo](https://www.theguardian.com/world/2024/jan/09/indonesia-election-prabowo-subianto-rebranding-kidnapping-accusations)
-- [More civilian casualties recorded in 2023 than any year since 2010](https://www.theguardian.com/world/2024/jan/09/more-civilian-casualties-recorded-in-2023-than-any-year-since-2010-gaza)
-- [Government to lose money on all student loans – even those repaid in full](https://www.theguardian.com/money/2024/jan/09/government-lose-money-student-loans-inflation)
-- [CDs shine as UK music sales in 2023 jump to near record figure](https://www.theguardian.com/business/2024/jan/09/cd-sales-uk-music-sales-2023-taylor-swift-miley-cyrus-weeknd)
-- [Festive retail sales struggle as Britons spend more on going out and holidays](https://www.theguardian.com/business/2024/jan/09/festive-retail-sales-christmas-parties-netflix-wonka)
-- [FA to review the death of Sheffield United player Maddy Cusack](https://www.theguardian.com/football/2024/jan/08/fa-assessing-relevant-information-surrounding-the-death-of-maddy-cusack)
+- [Russia-Ukraine war at a glance: what we know on day 686](https://www.theguardian.com/world/2024/jan/10/russia-ukraine-war-at-a-glance-what-we-know-on-day-686)
+- [Several men arrested after dispute over secret tunnel in Brooklyn synagogue](https://www.theguardian.com/us-news/2024/jan/09/brooklyn-synagogue-secret-tunnel-dispute-arrests)
+- [Children now ‘biggest perpetrators of sexual abuse against children’](https://www.theguardian.com/society/2024/jan/10/children-now-biggest-perpetrators-of-sexual-abuse-against-children)
+- [Drawing of Queen Victoria among many items missing from England’s museums](https://www.theguardian.com/culture/2024/jan/10/drawing-of-queen-victoria-among-many-items-missing-from-englands-museums)
+- [Sperm whales live in culturally distinct clans, research finds](https://www.theguardian.com/environment/2024/jan/10/sperm-whales-live-in-culturally-distinct-clans-research-finds)
+- [DNA test can detect 18 early stage cancers, scientists say](https://www.theguardian.com/society/2024/jan/09/dna-test-can-detect-18-early-stage-cancers-scientists-say)
+- [Tell Me Lies review – truly ludicrous toxic erotica](https://www.theguardian.com/tv-and-radio/2024/jan/09/tell-me-lies-review-truly-ludicrous-toxic-erotica)
+- [Kaitlyn Dever to star as Abby in HBO’s The Last of Us season two](https://www.theguardian.com/tv-and-radio/2024/jan/10/the-last-of-us-season-2-cast-kaitlyn-dever-abby-hbo-release-date)
+- [CEO says Boeing must acknowledge ‘our mistake’ as 737 Max 9 jets are grounded](https://www.theguardian.com/business/2024/jan/09/boeing-737-planes-remain-grounded-safety-faa-alaska-airline-flight-update)
+- [Rightwing Tories’ Rwanda demands risks reopening party divisions](https://www.theguardian.com/uk-news/2024/jan/09/rightwing-tories-rwanda-amendments-seek-to-end-migrants-legal-challenges)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

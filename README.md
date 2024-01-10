@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [EU to review Microsoft’s investment in OpenAI](https://www.computerworld.com/article/3712181/eu-to-review-microsofts-investment-in-openai.html#tk.rss_all)
+- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
+- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
+- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
+- [How to think about Apple and spatial computing](https://www.computerworld.com/article/3712160/how-to-think-about-apple-and-spatial-computing.html#tk.rss_all)
+- [New York Times’ blockbuster suit could decide the fate of genAI](https://www.computerworld.com/article/3712026/new-york-times-blockbuster-suit-could-decide-the-fate-of-genai.html#tk.rss_all)
+- [OpenAI claims NYT is not telling the full story in its copyright lawsuit](https://www.computerworld.com/article/3712121/openai-claims-nyt-is-not-telling-the-full-story-in-its-copyright-lawsuit.html#tk.rss_all)
 - [OpenAI: GenAI tools can’t be made without copyrighted materials](https://www.computerworld.com/article/3712024/openai-genai-tools-cant-be-made-without-copyrighted-materials.html#tk.rss_all)
 - [Apple Vision Pro on  sale Feb. 2 in US, pre-orders soon](https://www.computerworld.com/article/3712023/apple-vision-pro-on-sale-feb-2-in-us-pre-orders-soon.html#tk.rss_all)
 - [Microsoft bids adieu to WordPad](https://www.computerworld.com/article/3712100/microsoft-bids-adieu-to-wordpad.html#tk.rss_all)
-- [Startup firm Patronus creates diagnostic tool to catch genAI mistakes](https://www.computerworld.com/article/3712000/startup-firm-patronus-creates-diagnostic-tool-to-catch-genai-mistakes.html#tk.rss_all)
-- [How many jobs are available in technology in the US?](https://www.computerworld.com/article/3542681/how-many-jobs-are-available-in-technology.html#tk.rss_all)
-- [Hey Siri, where will you be after the genAI bubble pops?](https://www.computerworld.com/article/3712060/hey-siri-where-will-you-be-after-the-genai-bubble-pops.html#tk.rss_all)
-- [Nvidia, Databricks investments value generative AI search startup at $520M](https://www.computerworld.com/article/3712022/nvidia-databricks-investments-value-generative-ai-search-startup-at-520m.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [2024 will be ‘The year of AI glasses’](https://www.computerworld.com/article/3711844/2024-will-be-the-year-of-ai-glasses.html#tk.rss_all)
-- [OpenAI to launch GPT Store next week](https://www.computerworld.com/article/3712020/openai-to-launch-gpt-store-next-week.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

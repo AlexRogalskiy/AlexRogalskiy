@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war at a glance: what we know on day 686](https://www.theguardian.com/world/2024/jan/10/russia-ukraine-war-at-a-glance-what-we-know-on-day-686)
-- [Several men arrested after dispute over secret tunnel in Brooklyn synagogue](https://www.theguardian.com/us-news/2024/jan/09/brooklyn-synagogue-secret-tunnel-dispute-arrests)
-- [Children now ‘biggest perpetrators of sexual abuse against children’](https://www.theguardian.com/society/2024/jan/10/children-now-biggest-perpetrators-of-sexual-abuse-against-children)
-- [Drawing of Queen Victoria among many items missing from England’s museums](https://www.theguardian.com/culture/2024/jan/10/drawing-of-queen-victoria-among-many-items-missing-from-englands-museums)
-- [Sperm whales live in culturally distinct clans, research finds](https://www.theguardian.com/environment/2024/jan/10/sperm-whales-live-in-culturally-distinct-clans-research-finds)
-- [DNA test can detect 18 early stage cancers, scientists say](https://www.theguardian.com/society/2024/jan/09/dna-test-can-detect-18-early-stage-cancers-scientists-say)
-- [Tell Me Lies review – truly ludicrous toxic erotica](https://www.theguardian.com/tv-and-radio/2024/jan/09/tell-me-lies-review-truly-ludicrous-toxic-erotica)
-- [Kaitlyn Dever to star as Abby in HBO’s The Last of Us season two](https://www.theguardian.com/tv-and-radio/2024/jan/10/the-last-of-us-season-2-cast-kaitlyn-dever-abby-hbo-release-date)
-- [CEO says Boeing must acknowledge ‘our mistake’ as 737 Max 9 jets are grounded](https://www.theguardian.com/business/2024/jan/09/boeing-737-planes-remain-grounded-safety-faa-alaska-airline-flight-update)
-- [Rightwing Tories’ Rwanda demands risks reopening party divisions](https://www.theguardian.com/uk-news/2024/jan/09/rightwing-tories-rwanda-amendments-seek-to-end-migrants-legal-challenges)
+- [Ron DeSantis and Nikki Haley go head to head in Republican presidential debate – live](https://www.theguardian.com/us-news/live/2024/jan/10/republican-debate-2023-desantis-haley-trump-live-updates)
+- [Red Sea crisis: UN security council demands immediate end to Houthi attacks](https://www.theguardian.com/world/2024/jan/11/red-sea-shipping-crisis-un-security-council-yemen-youthi-rebels-attacks)
+- [New Zealand Greens MP Golriz Ghahraman steps aside from portfolios after shoplifting claim](https://www.theguardian.com/world/2024/jan/11/new-zealand-greens-mp-golriz-ghahraman-stands-aside-portfolios-shoplifting-claim)
+- [OpenAI debuts GPT Store for users to buy and sell customized chatbots](https://www.theguardian.com/technology/2024/jan/10/openai-launches-gpt-store-customized-chatbots)
+- [FBI investigates fake tweet about bitcoin investment fund that led to price spike](https://www.theguardian.com/technology/2024/jan/10/fbi-investigates-fake-tweet-bitcoin-price-spike)
+- [Russia-Ukraine war at a glance: what we know on day 687](https://www.theguardian.com/world/2024/jan/11/russia-ukraine-war-at-a-glance-what-we-know-on-day-687)
+- [Some comprehensive schools ‘more socially selective than grammars’](https://www.theguardian.com/education/2024/jan/11/some-comprehensive-schools-more-socially-selective-than-grammars)
+- [UK has some of worst cancer survival rates in developed world, report says](https://www.theguardian.com/society/2024/jan/11/uk-cancer-survival-rates-developed-world-report)
+- [UK government sets out plans for ‘biggest nuclear power expansion in 70 years’](https://www.theguardian.com/environment/2024/jan/11/uk-government-sets-out-plans-for-biggest-nuclear-power-expansion-in-70-years)
+- [Number of women in UK who die during pregnancy rises sharply](https://www.theguardian.com/society/2024/jan/11/number-of-women-in-uk-who-die-during-pregnancy-rises-sharply)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

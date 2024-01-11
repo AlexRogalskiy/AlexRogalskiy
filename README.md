@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Let&#39;s make the indie web easier](https://gilest.org/indie-easy.html)
-- [Game Off 2023 Results](https://github.blog/2024-01-09-game-off-2023-results/)
-- [AI Content on Steam](https://store.steampowered.com/news/group/4145017/view/3862463747997849618)
-- [What are rotating proxies? How do they affect my business?](https://www.clickfreeze.io/blog/what-are-rotating-proxies-how-do-they-affect-my-business)
-- [Both sexes have to be oppressed: book review of Warriors and Worriers](https://woodfromeden.substack.com/p/both-sexes-have-to-be-oppressed)
-- [Ask HN: Is it time to break up Amazon?](https://news.ycombinator.com/item?id=38935257)
-- [Redwood City reels from rising office vacancies amid work-from-home shift](https://www.rwcpulse.com/redwood-city-news/redwood-city-reels-from-rising-office-vacancies-amid-work-from-home-shift-8071908)
-- [I quit my job to work full time on my open source project [Atuin]](https://ellie.wtf/posts/i-quit-my-job-to-work-full-time-on-my-open-source-project)
-- [Show HN: Free AI personal stylist with Stable Diffusion](https://apps.apple.com/us/app/fotofit/id6474455209)
-- [What Bizarre IT Setups Have You Seen? &lpar;2007&rpar;](https://slashdot.org/story/07/01/04/0253245/what-bizarre-it-setups-have-you-seen)
+- [BBEdit 15 adds new Minimap and ChatGPT built into the app](https://9to5mac.com/2024/01/10/bbedit-15-minimap-chatgpt/)
+- [fsx: A Modern Filesystem API for JavaScript](https://humanwhocodes.com/blog/2024/01/fsx-modern-filesystem-api-javascript/)
+- [Game Balance and DracoFighter](https://www.vecderg.com/articles/dracobalance)
+- [34% of Americans believe UFOs are alien ships](https://www.wsj.com/science/space-astronomy/ufo-clubs-uap-testimony-congress-bf84e885)
+- [Annoying details of a Z-buffer rasterizer](https://30fps.net/pages/z-rasterizer-details/)
+- [A man behind the CIA gift store, the country&#39;s most secretive swag shop](https://www.washingtonpost.com/lifestyle/magazine/meet-the-man-behind-the-cia-gift-shop-the-nations-most-secretive-swag-shop/2019/11/27/5eb27776-e39a-4fa8-a127-7fa987acbc3a_story.html)
+- [Just One Single History](https://github.com/josh-project/josh)
+- [ChatGPT being used by bot accounts on Twitter](https://old.reddit.com/r/EnoughMuskSpam/comments/193jr8s/thank_god_he_saved_twitter_from_the_bots/)
+- [Has School Become Optional?](https://www.newyorker.com/magazine/2024/01/15/has-school-become-optional)
+- [Info on Modern NonStop &lpar;a.k.a. Tandem NonStop&rpar; Architecture](https://news.ycombinator.com/item?id=38946446)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

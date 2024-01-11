@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Security tips for Apple-using workers in co-working spaces](https://www.computerworld.com/article/3712241/security-tips-for-apple-using-workers-in-co-working-spaces.html#tk.rss_all)
+- [US lawmaker wants probe of UAE firm with ties to OpenAI, Microsoft](https://www.computerworld.com/article/3712124/us-lawmaker-wants-probe-of-uae-firm-with-ties-to-openai-microsoft.html#tk.rss_all)
+- [AI enables Microsoft and PNNL to discover new battery material](https://www.computerworld.com/article/3712141/ai-enables-microsoft-and-pnnl-to-discover-new-battery-material.html#tk.rss_all)
+- [Google faces $1.7 billion lawsuit over AI chips patent infringement](https://www.computerworld.com/article/3712220/google-faces-1-7-billion-lawsuit-over-ai-chips-patent-infringement.html#tk.rss_all)
+- [The question no one&#39;s answering about AI on Android in 2024](https://www.computerworld.com/article/3712122/google-android-ai-artificial-intelligence.html#tk.rss_all)
+- [Will super chips disrupt the &#39;everything to the cloud&#39; IT mentality?](https://www.computerworld.com/article/3712120/will-super-chips-disrupt-the-everything-to-the-cloud-it-mentality.html#tk.rss_all)
+- [The best places to find Windows ISOs](https://www.computerworld.com/article/3269118/best-places-to-find-windows-isos.html#tk.rss_all)
 - [EU to review Microsoft’s investment in OpenAI](https://www.computerworld.com/article/3712181/eu-to-review-microsofts-investment-in-openai.html#tk.rss_all)
-- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
-- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
 - [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
-- [How to think about Apple and spatial computing](https://www.computerworld.com/article/3712160/how-to-think-about-apple-and-spatial-computing.html#tk.rss_all)
-- [New York Times’ blockbuster suit could decide the fate of genAI](https://www.computerworld.com/article/3712026/new-york-times-blockbuster-suit-could-decide-the-fate-of-genai.html#tk.rss_all)
-- [OpenAI claims NYT is not telling the full story in its copyright lawsuit](https://www.computerworld.com/article/3712121/openai-claims-nyt-is-not-telling-the-full-story-in-its-copyright-lawsuit.html#tk.rss_all)
-- [OpenAI: GenAI tools can’t be made without copyrighted materials](https://www.computerworld.com/article/3712024/openai-genai-tools-cant-be-made-without-copyrighted-materials.html#tk.rss_all)
-- [Apple Vision Pro on  sale Feb. 2 in US, pre-orders soon](https://www.computerworld.com/article/3712023/apple-vision-pro-on-sale-feb-2-in-us-pre-orders-soon.html#tk.rss_all)
-- [Microsoft bids adieu to WordPad](https://www.computerworld.com/article/3712100/microsoft-bids-adieu-to-wordpad.html#tk.rss_all)
+- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

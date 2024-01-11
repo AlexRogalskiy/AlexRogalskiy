@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Glucoboy](https://shonumi.github.io/articles/art33.html)
-- [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=38934809)
-- [Show HN: Peer-to-peer mini r/place with Proof of Work](https://tropical.pages.dev/pow/)
-- [Error handling in Go web apps shouldn&#39;t be so awkward](https://boldlygo.tech/posts/2024-01-08-error-handling/)
-- [How I pwned half of America&#39;s fast food chains, simultaneously](https://mrbruh.com/chattr/)
-- [Juniper Networks to Combine with HPE](https://blogs.juniper.net/en-us/driven-by-experience/juniper-networks-to-combine-with-hpe-accelerating-ai-native-networking-leadership)
-- [Amazon&#39;s Twitch to Cut 500 Employees, About 35% of Staff](https://www.bloomberg.com/news/articles/2024-01-09/amazon-s-twitch-to-cut-500-employees-about-35-of-staff)
-- [Potent psychedelic drug banishes PTSD](https://www.nature.com/articles/d41586-024-00012-z)
-- [Wikihouse: Open-Source Houses](https://www.wikihouse.cc/)
-- [Translating blog posts with GPT-4, or: on hope and fear](http://antirez.com/news/141)
+- [How to get coworkers to stop giving me ChatGPT-generated suggestions?](https://workplace.stackexchange.com/questions/194969/how-to-get-coworkers-to-stop-giving-me-chatgpt-generated-suggestions)
+- [Jerry &lpar;YC S17&rpar; Is Hiring PMs, Engs, Data, BizOps &lpar;Remote&rpar;](https://getjerry.com/careers)
+- [Super Mario 64 on the Web](https://probablykam.github.io/Mario64webgl/)
+- [Drawing.garden](https://drawing.garden/)
+- [Franz Morat KG TV-computersystem 6800](https://randoc.wordpress.com/2024/01/03/franz-morat-kg-tv-computersystem-6800/)
+- [History of Xerox Interlisp and BBN-Lisp](https://interlisp.org/history/timeline/)
+- [The memory remains: Permanent memory with systemd and a Rust allocator](https://darkcoding.net/software/rust-systemd-memory-remains/)
+- [Metahead – An enterprise-grade, Git-based metarepo](https://www.metahead.dev/)
+- [Spot Bitcoin ETF receives official approval from the SEC](https://cointelegraph.com/news/sec-spot-bitcoin-etf-approvals)
+- [The case for better watch typography &lpar;2021&rpar;](https://www.hodinkee.com/articles/the-case-for-better-watch-typography)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

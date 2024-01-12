@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [How to get coworkers to stop giving me ChatGPT-generated suggestions?](https://workplace.stackexchange.com/questions/194969/how-to-get-coworkers-to-stop-giving-me-chatgpt-generated-suggestions)
-- [Jerry &lpar;YC S17&rpar; Is Hiring PMs, Engs, Data, BizOps &lpar;Remote&rpar;](https://getjerry.com/careers)
-- [Super Mario 64 on the Web](https://probablykam.github.io/Mario64webgl/)
-- [Drawing.garden](https://drawing.garden/)
-- [Franz Morat KG TV-computersystem 6800](https://randoc.wordpress.com/2024/01/03/franz-morat-kg-tv-computersystem-6800/)
-- [History of Xerox Interlisp and BBN-Lisp](https://interlisp.org/history/timeline/)
-- [The memory remains: Permanent memory with systemd and a Rust allocator](https://darkcoding.net/software/rust-systemd-memory-remains/)
-- [Metahead – An enterprise-grade, Git-based metarepo](https://www.metahead.dev/)
-- [Spot Bitcoin ETF receives official approval from the SEC](https://cointelegraph.com/news/sec-spot-bitcoin-etf-approvals)
-- [The case for better watch typography &lpar;2021&rpar;](https://www.hodinkee.com/articles/the-case-for-better-watch-typography)
+- [I built an offline smart home, and why you should too](https://www.androidauthority.com/offline-smart-home-3398608/)
+- [Cloudflare lays off new hires](https://i.imgur.com/9A3LZIB.png)
+- [Postgres Incremental Backup](https://pganalyze.com/blog/5mins-postgres-17-incremental-backups)
+- [Tree.fm: Tune in to Forests Around the World](https://www.tree.fm/)
+- [A Love Letter to Tinkerable Software](https://www.trevoragilbert.com/posts/a-love-letter-to-tinkerable-software/)
+- [Pixar to undergo 20% layoffs in 2024](https://techcrunch.com/2024/01/11/as-disney-pushes-towards-streaming-profitability-pixar-to-undergo-layoffs-in-2024/)
+- [Sourcehut and Codeberg are both currently experiencing a DDoS attack](https://fosstodon.org/@drewdevault/111739063243946284)
+- [Google lays off Bay Area workers, closes Mtn View child care center](https://www.sfgate.com/tech/article/google-layoffs-child-care-center-engineering-18602833.php)
+- [Executives at eBay sent live spiders and cockroaches to critical bloggers](https://www.bbc.com/news/world-us-canada-67951113)
+- [eBay agrees to $3M fine over couple&#39;s harassment case, civil suit continues](https://www.universalhub.com/2024/ebay-agrees-3-million-fine-trying-destroy-lives)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

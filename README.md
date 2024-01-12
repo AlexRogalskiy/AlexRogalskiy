@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [BBEdit 15 adds new Minimap and ChatGPT built into the app](https://9to5mac.com/2024/01/10/bbedit-15-minimap-chatgpt/)
-- [fsx: A Modern Filesystem API for JavaScript](https://humanwhocodes.com/blog/2024/01/fsx-modern-filesystem-api-javascript/)
-- [Game Balance and DracoFighter](https://www.vecderg.com/articles/dracobalance)
-- [34% of Americans believe UFOs are alien ships](https://www.wsj.com/science/space-astronomy/ufo-clubs-uap-testimony-congress-bf84e885)
-- [Annoying details of a Z-buffer rasterizer](https://30fps.net/pages/z-rasterizer-details/)
-- [A man behind the CIA gift store, the country&#39;s most secretive swag shop](https://www.washingtonpost.com/lifestyle/magazine/meet-the-man-behind-the-cia-gift-shop-the-nations-most-secretive-swag-shop/2019/11/27/5eb27776-e39a-4fa8-a127-7fa987acbc3a_story.html)
-- [Just One Single History](https://github.com/josh-project/josh)
-- [ChatGPT being used by bot accounts on Twitter](https://old.reddit.com/r/EnoughMuskSpam/comments/193jr8s/thank_god_he_saved_twitter_from_the_bots/)
-- [Has School Become Optional?](https://www.newyorker.com/magazine/2024/01/15/has-school-become-optional)
-- [Info on Modern NonStop &lpar;a.k.a. Tandem NonStop&rpar; Architecture](https://news.ycombinator.com/item?id=38946446)
+- [Antimony Pill](https://en.wikipedia.org/wiki/Antimony_pill)
+- [Nvidia Parabricks: Free software suite for secondary analysis of sequencing DNA](https://docs.nvidia.com/clara/parabricks/latest/index.html)
+- [Ask HN: Are there any PWA stores to promote off-appstores?](https://news.ycombinator.com/item?id=38962700)
+- [David Bowie and his Apple computer in 1994](https://twitter.com/ComputerLove_/status/1745240217190351273)
+- [China&#39;s Solar Dominance Faces New Rival: An Ultrathin Film](https://www.wsj.com/business/energy-oil/chinas-solar-dominance-faces-new-rival-an-ultrathin-film-adbc2536)
+- [Coral Dev Board Micro](https://coral.ai/products/dev-board-micro)
+- [Sea Dragon &lpar;Rocket&rpar;](https://en.wikipedia.org/wiki/Sea_Dragon_(rocket))
+- [I found David Lynch&#39;s lost Dune II script](https://arstechnica.com/culture/2024/01/i-found-david-lynchs-lost-dune-ii-script/)
+- [Bitcoin ETF Approval Expected Soon, Bears Lose $100M](https://www.coindesk.com/markets/2024/01/09/bitcoin-etf-approval-expected-soon-bears-lose-100m/)
+- [Crystal 1.11.1 Is Released](https://crystal-lang.org/2024/01/11/1.11.1-released/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

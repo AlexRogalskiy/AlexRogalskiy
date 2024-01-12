@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ron DeSantis and Nikki Haley go head to head in Republican presidential debate – live](https://www.theguardian.com/us-news/live/2024/jan/10/republican-debate-2023-desantis-haley-trump-live-updates)
-- [Red Sea crisis: UN security council demands immediate end to Houthi attacks](https://www.theguardian.com/world/2024/jan/11/red-sea-shipping-crisis-un-security-council-yemen-youthi-rebels-attacks)
-- [New Zealand Greens MP Golriz Ghahraman steps aside from portfolios after shoplifting claim](https://www.theguardian.com/world/2024/jan/11/new-zealand-greens-mp-golriz-ghahraman-stands-aside-portfolios-shoplifting-claim)
-- [OpenAI debuts GPT Store for users to buy and sell customized chatbots](https://www.theguardian.com/technology/2024/jan/10/openai-launches-gpt-store-customized-chatbots)
-- [FBI investigates fake tweet about bitcoin investment fund that led to price spike](https://www.theguardian.com/technology/2024/jan/10/fbi-investigates-fake-tweet-bitcoin-price-spike)
-- [Russia-Ukraine war at a glance: what we know on day 687](https://www.theguardian.com/world/2024/jan/11/russia-ukraine-war-at-a-glance-what-we-know-on-day-687)
-- [Some comprehensive schools ‘more socially selective than grammars’](https://www.theguardian.com/education/2024/jan/11/some-comprehensive-schools-more-socially-selective-than-grammars)
-- [UK has some of worst cancer survival rates in developed world, report says](https://www.theguardian.com/society/2024/jan/11/uk-cancer-survival-rates-developed-world-report)
-- [UK government sets out plans for ‘biggest nuclear power expansion in 70 years’](https://www.theguardian.com/environment/2024/jan/11/uk-government-sets-out-plans-for-biggest-nuclear-power-expansion-in-70-years)
-- [Number of women in UK who die during pregnancy rises sharply](https://www.theguardian.com/society/2024/jan/11/number-of-women-in-uk-who-die-during-pregnancy-rises-sharply)
+- [Middle East crisis live: UK and US strike Houthi sites in Yemen and ‘will not hesitate’ to launch further measures, says Biden](https://www.theguardian.com/world/live/2024/jan/11/middle-east-crisis-live-updates-israel-gaza-war-hamas-palestine-south-africa-genocide-case-icj)
+- [Speculation that Kim Jong-un’s daughter could succeed him as North Korean leader comes of age](https://www.theguardian.com/world/2024/jan/12/speculation-that-kim-jong-uns-daughter-could-succeed-him-as-north-korean-leader-comes-of-age)
+- [Russia-Ukraine war at a glance: what we know on day 688](https://www.theguardian.com/world/2024/jan/12/russia-ukraine-war-at-a-glance-what-we-know-on-day-688)
+- [Farrell leaves door ajar for son Owen after taking British &amp; Irish Lions role](https://www.theguardian.com/sport/2024/jan/11/andy-farrell-head-coach-british-irish-lions-australia-rugby-union)
+- [Premier League and beyond: 10 things to look out for this weekend](https://www.theguardian.com/football/2024/jan/12/premier-league-and-beyond-10-things-to-look-out-for-this-weekend)
+- [NHS must treat 10% more non-urgent cases a month to reduce backlog – study](https://www.theguardian.com/society/2024/jan/11/number-of-patients-facing-18-month-wait-for-nhs-care-rises-in-england)
+- [Zuckerberg: King of the Metaverse review – it will make you even more terrified of the internet](https://www.theguardian.com/tv-and-radio/2024/jan/11/zuckerberg-king-of-the-metaverse-review-it-will-make-you-even-more-terrified-of-the-internet)
+- [Barcelona cruise past Osasuna to set up Spanish Super Cup showdown with Real](https://www.theguardian.com/football/2024/jan/11/barcelona-cruise-past-osasuna-to-set-up-spanish-super-cup-showdown-with-real)
+- [‘Massive dirty curry’: O’Sullivan spices it up after drab Masters win over Hawkins](https://www.theguardian.com/sport/2024/jan/11/massive-dirty-curry-osullivan-spices-it-up-after-drab-masters-win-over-hawkins)
+- [Trump says he is ‘innocent’ of fraud as bomb threat upends last day of trial](https://www.theguardian.com/us-news/2024/jan/11/trump-judge-bomb-threat-new-york-trial)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

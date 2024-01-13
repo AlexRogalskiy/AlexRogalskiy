@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [I built an offline smart home, and why you should too](https://www.androidauthority.com/offline-smart-home-3398608/)
-- [Cloudflare lays off new hires](https://i.imgur.com/9A3LZIB.png)
-- [Postgres Incremental Backup](https://pganalyze.com/blog/5mins-postgres-17-incremental-backups)
-- [Tree.fm: Tune in to Forests Around the World](https://www.tree.fm/)
-- [A Love Letter to Tinkerable Software](https://www.trevoragilbert.com/posts/a-love-letter-to-tinkerable-software/)
-- [Pixar to undergo 20% layoffs in 2024](https://techcrunch.com/2024/01/11/as-disney-pushes-towards-streaming-profitability-pixar-to-undergo-layoffs-in-2024/)
-- [Sourcehut and Codeberg are both currently experiencing a DDoS attack](https://fosstodon.org/@drewdevault/111739063243946284)
-- [Google lays off Bay Area workers, closes Mtn View child care center](https://www.sfgate.com/tech/article/google-layoffs-child-care-center-engineering-18602833.php)
-- [Executives at eBay sent live spiders and cockroaches to critical bloggers](https://www.bbc.com/news/world-us-canada-67951113)
-- [eBay agrees to $3M fine over couple&#39;s harassment case, civil suit continues](https://www.universalhub.com/2024/ebay-agrees-3-million-fine-trying-destroy-lives)
+- [People have been buried behind a Mississippi jail since 2016, attorney says](https://www.npr.org/2024/01/12/1224449631/mississippi-jail-graves-investigation)
+- [Etleap &lpar;YC W13&rpar; Is Hiring a Software Engineer &lpar;London or San Francisco&rpar;](https://etleap.com/careers/software-engineer/)
+- [K-Means Clustering](https://github.com/derrickburns/generalized-kmeans-clustering)
+- [AWS Libcrypto for Rust](https://github.com/aws/aws-lc-rs)
+- [Hidden Changes in GPT-4, Uncovered](https://dmicz.github.io/machine-learning/openai-changes/)
+- [Instagram&#39;s co-founders are shutting down their Artifact news app](https://www.theverge.com/2024/1/12/24036539/artifact-shutting-down-kevin-systrom)
+- [Xbox Multiplayer Analysis Tool](https://github.com/microsoft/xbox-multiplayer-analysis-tool)
+- [revng translates &lpar;i386, x86-64, MIPS, ARM, AArch64, s390x&rpar; binaries to LLVM IR](https://github.com/revng/revng)
+- [Show HN: RemoteStorage – sync localStorage across devices and browsers](https://github.com/FrigadeHQ/remote-storage)
+- [DevDocs](https://devdocs.io)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

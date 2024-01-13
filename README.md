@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Middle East crisis live: UK and US strike Houthi sites in Yemen and ‘will not hesitate’ to launch further measures, says Biden](https://www.theguardian.com/world/live/2024/jan/11/middle-east-crisis-live-updates-israel-gaza-war-hamas-palestine-south-africa-genocide-case-icj)
-- [Speculation that Kim Jong-un’s daughter could succeed him as North Korean leader comes of age](https://www.theguardian.com/world/2024/jan/12/speculation-that-kim-jong-uns-daughter-could-succeed-him-as-north-korean-leader-comes-of-age)
-- [Russia-Ukraine war at a glance: what we know on day 688](https://www.theguardian.com/world/2024/jan/12/russia-ukraine-war-at-a-glance-what-we-know-on-day-688)
-- [Farrell leaves door ajar for son Owen after taking British &amp; Irish Lions role](https://www.theguardian.com/sport/2024/jan/11/andy-farrell-head-coach-british-irish-lions-australia-rugby-union)
-- [Premier League and beyond: 10 things to look out for this weekend](https://www.theguardian.com/football/2024/jan/12/premier-league-and-beyond-10-things-to-look-out-for-this-weekend)
-- [NHS must treat 10% more non-urgent cases a month to reduce backlog – study](https://www.theguardian.com/society/2024/jan/11/number-of-patients-facing-18-month-wait-for-nhs-care-rises-in-england)
-- [Zuckerberg: King of the Metaverse review – it will make you even more terrified of the internet](https://www.theguardian.com/tv-and-radio/2024/jan/11/zuckerberg-king-of-the-metaverse-review-it-will-make-you-even-more-terrified-of-the-internet)
-- [Barcelona cruise past Osasuna to set up Spanish Super Cup showdown with Real](https://www.theguardian.com/football/2024/jan/11/barcelona-cruise-past-osasuna-to-set-up-spanish-super-cup-showdown-with-real)
-- [‘Massive dirty curry’: O’Sullivan spices it up after drab Masters win over Hawkins](https://www.theguardian.com/sport/2024/jan/11/massive-dirty-curry-osullivan-spices-it-up-after-drab-masters-win-over-hawkins)
-- [Trump says he is ‘innocent’ of fraud as bomb threat upends last day of trial](https://www.theguardian.com/us-news/2024/jan/11/trump-judge-bomb-threat-new-york-trial)
+- [US launches fresh strikes on Houthi rebels in Yemen, officials say](https://www.theguardian.com/world/2024/jan/12/houthi-threats-of-retaliation-and-mass-protests-in-yemen-after-us-uk-airstrikes)
+- [Microsoft beats Apple as most valuable company for first time in two years](https://www.theguardian.com/technology/2024/jan/12/microsoft-apple-world-valuable-company-stock-market)
+- [Mark Allen hits 147 break and holds off Mark Selby in Masters thriller](https://www.theguardian.com/sport/2024/jan/13/mark-allen-hits-147-break-and-holds-off-mark-selby-in-masters-thriller)
+- [Shed Seven top UK album chart almost 30 years after debut](https://www.theguardian.com/music/2024/jan/13/shed-seven-top-uk-album-chart-almost-30-years-after-debut)
+- [Northampton seal Champions Cup progress with nine-try rout of Bayonne](https://www.theguardian.com/sport/2024/jan/12/northampton-seal-champions-cup-progress-with-nine-try-rout-of-bayonne)
+- [Nasa unveils quiet supersonic aircraft in effort to revive commercial flights](https://www.theguardian.com/science/2024/jan/12/nasa-lockheed-martin-reveal-x-59-quiet-supersonic-aircraft)
+- [Emma Finucane wins historic gold at European Track Championships](https://www.theguardian.com/sport/2024/jan/12/emma-finucane-wins-historic-gold-at-european-track-championships)
+- [‘You’re better off single than in a bad relationship’: lessons in love readers learned from their parents](https://www.theguardian.com/lifeandstyle/2024/jan/13/youre-better-off-single-than-in-a-bad-relationship-lessons-in-love-readers-learned-from-their-parents)
+- [Leading tech journalist quits Substack over platform’s Nazi newsletters](https://www.theguardian.com/media/2024/jan/12/casey-newton-quits-substack-nazi-newsletter)
+- [Manchester City’s Erling Haaland out until end of January after foot setback](https://www.theguardian.com/football/2024/jan/12/manchester-citys-erling-haaland-out-until-end-of-january-after-foot-setback)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

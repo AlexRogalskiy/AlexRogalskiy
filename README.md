@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Antimony Pill](https://en.wikipedia.org/wiki/Antimony_pill)
-- [Nvidia Parabricks: Free software suite for secondary analysis of sequencing DNA](https://docs.nvidia.com/clara/parabricks/latest/index.html)
-- [Ask HN: Are there any PWA stores to promote off-appstores?](https://news.ycombinator.com/item?id=38962700)
-- [David Bowie and his Apple computer in 1994](https://twitter.com/ComputerLove_/status/1745240217190351273)
-- [China&#39;s Solar Dominance Faces New Rival: An Ultrathin Film](https://www.wsj.com/business/energy-oil/chinas-solar-dominance-faces-new-rival-an-ultrathin-film-adbc2536)
-- [Coral Dev Board Micro](https://coral.ai/products/dev-board-micro)
-- [Sea Dragon &lpar;Rocket&rpar;](https://en.wikipedia.org/wiki/Sea_Dragon_(rocket))
-- [I found David Lynch&#39;s lost Dune II script](https://arstechnica.com/culture/2024/01/i-found-david-lynchs-lost-dune-ii-script/)
-- [Bitcoin ETF Approval Expected Soon, Bears Lose $100M](https://www.coindesk.com/markets/2024/01/09/bitcoin-etf-approval-expected-soon-bears-lose-100m/)
-- [Crystal 1.11.1 Is Released](https://crystal-lang.org/2024/01/11/1.11.1-released/)
+- [RAGTheDocs](https://github.com/jerpint/RAGTheDocs)
+- [Show HN: A Better Wordress Blogging Alternative](https://blogkit.dev/)
+- [Write the Docs Documentation Guide](https://www.writethedocs.org/guide/)
+- [Markov Cluster Algorithm](https://micans.org/mcl/)
+- [Book review: Rental person who does nothing](https://samstillreading.wordpress.com/2023/07/13/review-rental-person-who-does-nothing-by-shoji-morimoto/)
+- [The Spending Report](https://www.thespendingreport.com)
+- [UEVR – Transform [Existing] Unreal Engine Games into VR Experiences](https://uevr.io/)
+- [Vermin: Concurrently detect the minimum Python versions needed to run code](https://github.com/netromdk/vermin)
+- [Self Hosting LLMs Using Ollama](https://www.avni.sh/posts/homelab/self-hosting-ollama/)
+- [Reclaim the Stack](https://reclaim-the-stack.com/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

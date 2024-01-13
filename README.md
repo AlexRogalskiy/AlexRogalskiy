@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Infosys to acquire InSemi](https://www.computerworld.com/article/3712132/infosys-to-acquire-insemi.html#tk.rss_all)
+- [For Patch Tuesday, 48 updates, no zero-day flaws](https://www.computerworld.com/article/3712131/for-patch-tuesday-48-updates-no-zero-day-flaws.html#tk.rss_all)
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
+- [Will Wanda Austin take Apple into space?](https://www.computerworld.com/article/3712130/will-wanda-austin-take-apple-into-space.html#tk.rss_all)
+- [Tech layoffs in 2024: A timeline](https://www.computerworld.com/article/3685936/tech-layoffs-in-2023-a-timeline.html#tk.rss_all)
+- [Work from home is passé, Microsoft wants you to work from your car](https://www.computerworld.com/article/3712129/work-from-home-is-passe-microsoft-wants-you-to-work-from-your-car.html#tk.rss_all)
+- [Why return-to-office mandates fail](https://www.computerworld.com/article/3711386/why-return-to-office-mandates-fail.html#tk.rss_all)
+- [A powerful Android dark mode enhancement](https://www.computerworld.com/article/3712240/android-dark-mode.html#tk.rss_all)
 - [Google targets retail sector with new genAI tools, hardware](https://www.computerworld.com/article/3712281/google-targets-retail-sector-with-new-genai-tools-hardware.html#tk.rss_all)
-- [Microsoft unveils new generative AI capabilities for retailers](https://www.computerworld.com/article/3712263/microsoft-unveils-new-generative-ai-capabilities-for-retailers.html#tk.rss_all)
-- [Why Apple must support MDM with Vision Pro](https://www.computerworld.com/article/3712260/why-apple-must-support-mdm-with-vision-pro.html#tk.rss_all)
-- [OpenAI launches GPT Store to expand user base and add revenue streams](https://www.infoworld.com/article/3712202/openai-launches-gpt-store-to-expand-user-base-and-add-revenue-streams.html#tk.rss_all)
-- [Alphabet lays off hundreds from engineering, hardware, and digital assistant teams](https://www.computerworld.com/article/3712222/alphabet-lays-off-hundreds-from-engineering-hardware-and-digital-assistant-teams.html#tk.rss_all)
-- [Hey Gen. Z, you’re looking for tech jobs in all the wrong places](https://www.computerworld.com/article/3712180/hey-gen-z-youre-looking-for-tech-jobs-in-all-the-wrong-places.html#tk.rss_all)
-- [Global semiconductor market rebound in sight, but tethered to the rise of AI](https://www.computerworld.com/article/3712221/global-semiconductor-market-rebound-in-sight-but-tethered-to-the-rise-of-ai.html#tk.rss_all)
-- [AI-enabled PCs will drive PC sales growth in 2024, say research firms](https://www.computerworld.com/article/3712201/ai-enabled-pcs-will-drive-pc-sales-growth-in-2024-say-research-firms.html#tk.rss_all)
-- [Security tips for Apple-using workers in co-working spaces](https://www.computerworld.com/article/3712241/security-tips-for-apple-using-workers-in-co-working-spaces.html#tk.rss_all)
-- [US lawmaker wants probe of UAE firm with ties to OpenAI, Microsoft](https://www.computerworld.com/article/3712124/us-lawmaker-wants-probe-of-uae-firm-with-ties-to-openai-microsoft.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

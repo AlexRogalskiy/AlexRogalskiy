@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [People have been buried behind a Mississippi jail since 2016, attorney says](https://www.npr.org/2024/01/12/1224449631/mississippi-jail-graves-investigation)
-- [Etleap &lpar;YC W13&rpar; Is Hiring a Software Engineer &lpar;London or San Francisco&rpar;](https://etleap.com/careers/software-engineer/)
-- [K-Means Clustering](https://github.com/derrickburns/generalized-kmeans-clustering)
-- [AWS Libcrypto for Rust](https://github.com/aws/aws-lc-rs)
-- [Hidden Changes in GPT-4, Uncovered](https://dmicz.github.io/machine-learning/openai-changes/)
-- [Instagram&#39;s co-founders are shutting down their Artifact news app](https://www.theverge.com/2024/1/12/24036539/artifact-shutting-down-kevin-systrom)
-- [Xbox Multiplayer Analysis Tool](https://github.com/microsoft/xbox-multiplayer-analysis-tool)
-- [revng translates &lpar;i386, x86-64, MIPS, ARM, AArch64, s390x&rpar; binaries to LLVM IR](https://github.com/revng/revng)
-- [Show HN: RemoteStorage – sync localStorage across devices and browsers](https://github.com/FrigadeHQ/remote-storage)
-- [DevDocs](https://devdocs.io)
+- [OpenD, a D language fork that is open to your contributions](https://dpldocs.info/this-week-in-d/Blog.Posted_2024_01_01.html)
+- [Lupus Trigger Discovered](https://www.mpg.de/21374791/lupus-trigger)
+- [John Michell: Country Parson Described Black Holes in 1783 &lpar;2000&rpar;](https://www.amnh.org/learn-teach/curriculum-collections/cosmic-horizons-book/john-michell-black-holes)
+- [Decker – A HyperCard Replacement](https://beyondloom.com/decker/)
+- [A math professor who objects to diversity statements](https://www.theatlantic.com/ideas/archive/2023/12/professor-american-academia-parallels-soviet-union/676305/)
+- [Building a fully local LLM voice assistant to control my smart home](https://johnthenerd.com/blog/local-llm-assistant/)
+- [Celestia: Real-time 3D visualization of space](https://github.com/CelestiaProject/Celestia)
+- [Water microdroplets have potential to produce hydrogen peroxide](https://www.chemistryworld.com/news/water-surprise-microdroplets-have-potential-to-produce-h2o2/3010950.article)
+- [Cosmic: The Road to Alpha](https://blog.system76.com/post/cosmic-the-road-to-alpha/)
+- [LG washing machine sending 3.7GB of data a day](https://www.tomshardware.com/networking/your-washing-machine-could-be-sending-37-gb-of-data-a-day)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [RAGTheDocs](https://github.com/jerpint/RAGTheDocs)
-- [Show HN: A Better Wordress Blogging Alternative](https://blogkit.dev/)
-- [Write the Docs Documentation Guide](https://www.writethedocs.org/guide/)
-- [Markov Cluster Algorithm](https://micans.org/mcl/)
-- [Book review: Rental person who does nothing](https://samstillreading.wordpress.com/2023/07/13/review-rental-person-who-does-nothing-by-shoji-morimoto/)
-- [The Spending Report](https://www.thespendingreport.com)
-- [UEVR – Transform [Existing] Unreal Engine Games into VR Experiences](https://uevr.io/)
-- [Vermin: Concurrently detect the minimum Python versions needed to run code](https://github.com/netromdk/vermin)
-- [Self Hosting LLMs Using Ollama](https://www.avni.sh/posts/homelab/self-hosting-ollama/)
-- [Reclaim the Stack](https://reclaim-the-stack.com/)
+- [Learn Redis by talking to the source code](https://learnthisrepo.com/redis)
+- [AI industry has a battle-tested plan to keep using content without paying for it](https://www.latimes.com/business/technology/story/2024-01-12/column-copyright-is-the-biggest-threat-to-the-ai-industry-but-its-not-going-down-without-a-fight)
+- [Using Gravitational Waves to See the First Second of the Universe](https://arxiv.org/abs/2401.04388)
+- [YouTube putting scammy ad about &quot;double your Bitcoin&quot; on Bitcoin University vid](https://twitter.com/stolsvik/status/1746337762842747388)
+- [Imaging privacy threats from an ambient light sensor](https://www.science.org/doi/10.1126/sciadv.adj3608)
+- [Depopulation and associated challenges for US cities by 2100](https://www.nature.com/articles/s44284-023-00011-7)
+- [C/2014 UN271 &lpar;Bernardinelli–Bernstein&rpar;](https://en.wikipedia.org/wiki/C/2014_UN271_(Bernardinelli%E2%80%93Bernstein))
+- [Notes on Differential Technological Development](https://michaelnotebook.com/dtd/index.html)
+- [&#39;Hangxiety&#39;: When hangovers cause anxiety](https://english.elpais.com/health/2024-01-08/hangxiety-when-hangovers-cause-anxiety.html)
+- [Chain of Code](https://chain-of-code.github.io/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

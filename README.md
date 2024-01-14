@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [US launches fresh strikes on Houthi rebels in Yemen, officials say](https://www.theguardian.com/world/2024/jan/12/houthi-threats-of-retaliation-and-mass-protests-in-yemen-after-us-uk-airstrikes)
-- [Microsoft beats Apple as most valuable company for first time in two years](https://www.theguardian.com/technology/2024/jan/12/microsoft-apple-world-valuable-company-stock-market)
-- [Mark Allen hits 147 break and holds off Mark Selby in Masters thriller](https://www.theguardian.com/sport/2024/jan/13/mark-allen-hits-147-break-and-holds-off-mark-selby-in-masters-thriller)
-- [Shed Seven top UK album chart almost 30 years after debut](https://www.theguardian.com/music/2024/jan/13/shed-seven-top-uk-album-chart-almost-30-years-after-debut)
-- [Northampton seal Champions Cup progress with nine-try rout of Bayonne](https://www.theguardian.com/sport/2024/jan/12/northampton-seal-champions-cup-progress-with-nine-try-rout-of-bayonne)
-- [Nasa unveils quiet supersonic aircraft in effort to revive commercial flights](https://www.theguardian.com/science/2024/jan/12/nasa-lockheed-martin-reveal-x-59-quiet-supersonic-aircraft)
-- [Emma Finucane wins historic gold at European Track Championships](https://www.theguardian.com/sport/2024/jan/12/emma-finucane-wins-historic-gold-at-european-track-championships)
-- [‘You’re better off single than in a bad relationship’: lessons in love readers learned from their parents](https://www.theguardian.com/lifeandstyle/2024/jan/13/youre-better-off-single-than-in-a-bad-relationship-lessons-in-love-readers-learned-from-their-parents)
-- [Leading tech journalist quits Substack over platform’s Nazi newsletters](https://www.theguardian.com/media/2024/jan/12/casey-newton-quits-substack-nazi-newsletter)
-- [Manchester City’s Erling Haaland out until end of January after foot setback](https://www.theguardian.com/football/2024/jan/12/manchester-citys-erling-haaland-out-until-end-of-january-after-foot-setback)
+- [How the humble stink bug caused Australia to miss a major EV milestone](https://www.theguardian.com/australia-news/2024/jan/14/how-the-humble-stink-bug-caused-australia-to-miss-a-major-ev-milestone)
+- [Tiny proportion of e-scooter injuries appear in official UK data](https://www.theguardian.com/world/2024/jan/14/tiny-proportion-of-e-scooter-injuries-appear-in-official-uk-data)
+- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2024/jan/13/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Holding pattern: Fair Isle woollies for instant hygge](https://www.theguardian.com/fashion/2024/jan/13/holding-pattern-fair-isle-woollies-for-instant-hygge)
+- [‘We are at war’: Ecuador’s president vows to crack down on gangs behind week of violence](https://www.theguardian.com/world/2024/jan/13/we-are-at-war-ecuadors-president-vows-to-crack-down-on-gangs-behind-week-of-violence)
+- [Ivan Toney is back but nothing has changed: gambling is embedded in football | Jonathan Wilson](https://www.theguardian.com/football/blog/2024/jan/13/ivan-toney-is-back-but-nothing-has-changed-gambling-is-embedded-in-football)
+- [Hosts Ivory Coast sink Guinea Bissau to get Afcon up and running](https://www.theguardian.com/football/2024/jan/13/ivory-coast-guinea-bissau-afcon-match-report)
+- [‘Kevin is a legend’: Guardiola praises De Bruyne’s instant spark for City’s title tilt](https://www.theguardian.com/football/2024/jan/13/kevin-is-a-legend-guardiola-praises-de-bruynes-instant-spark-for-citys-title-tilt)
+- [John Kerry to leave White House to assist Biden re-election campaign](https://www.theguardian.com/us-news/2024/jan/13/john-kerry-biden-administration-re-election-campaign)
+- [Pakistan: Imran Khan’s party loses cricket bat electoral symbol](https://www.theguardian.com/world/2024/jan/13/pakistan-imran-khans-party-loses-cricket-bat-electoral-symbol)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

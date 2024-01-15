@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Learn Redis by talking to the source code](https://learnthisrepo.com/redis)
-- [AI industry has a battle-tested plan to keep using content without paying for it](https://www.latimes.com/business/technology/story/2024-01-12/column-copyright-is-the-biggest-threat-to-the-ai-industry-but-its-not-going-down-without-a-fight)
-- [Using Gravitational Waves to See the First Second of the Universe](https://arxiv.org/abs/2401.04388)
-- [YouTube putting scammy ad about &quot;double your Bitcoin&quot; on Bitcoin University vid](https://twitter.com/stolsvik/status/1746337762842747388)
-- [Imaging privacy threats from an ambient light sensor](https://www.science.org/doi/10.1126/sciadv.adj3608)
-- [Depopulation and associated challenges for US cities by 2100](https://www.nature.com/articles/s44284-023-00011-7)
-- [C/2014 UN271 &lpar;Bernardinelli–Bernstein&rpar;](https://en.wikipedia.org/wiki/C/2014_UN271_(Bernardinelli%E2%80%93Bernstein))
-- [Notes on Differential Technological Development](https://michaelnotebook.com/dtd/index.html)
-- [&#39;Hangxiety&#39;: When hangovers cause anxiety](https://english.elpais.com/health/2024-01-08/hangxiety-when-hangovers-cause-anxiety.html)
-- [Chain of Code](https://chain-of-code.github.io/)
+- [Celestron may just have unveiled its coolest telescope ever –and, yes, it has AI](https://www.techradar.com/cameras/celestron-may-have-just-produced-its-coolest-telescope-ever-and-yes-it-has-ai)
+- [The great dollar store backlash](https://thehustle.co/the-great-dollar-store-backlash/)
+- [A Search for Magnetized Quark Nuggets, a Dark Matter Candidate, in Iron Ore](https://www.mdpi.com/2218-1997/10/1/27)
+- [2023 Reviewed by an AI [video]](https://www.youtube.com/watch?v=e11cqw-dA2g)
+- [British vs. American Houses: 19 Important Differences](https://theportablewife.com/living-abroad/moving-to-london/british-vs-american-houses-differences/)
+- [America&#39;s New Business Boom](https://www.apricitas.io/p/americas-new-business-boom)
+- [Evaluating Large Language Models on the GMAT](https://arxiv.org/abs/2401.02985)
+- [I Used Netscape Composer in 2024](https://plbrault.com/blog-posts/i-used-netscape-composer-in-2024-en/)
+- [How I Left The Cloud](https://old.reddit.com/r/selfhosted/comments/196nke8/how_i_left_the_cloud/)
+- [The Taliban&#39;s curious love of SIM cards](https://restofworld.org/2024/the-talibans-curious-love-of-sim-cards/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

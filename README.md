@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [OpenD, a D language fork that is open to your contributions](https://dpldocs.info/this-week-in-d/Blog.Posted_2024_01_01.html)
-- [Lupus Trigger Discovered](https://www.mpg.de/21374791/lupus-trigger)
-- [John Michell: Country Parson Described Black Holes in 1783 &lpar;2000&rpar;](https://www.amnh.org/learn-teach/curriculum-collections/cosmic-horizons-book/john-michell-black-holes)
-- [Decker – A HyperCard Replacement](https://beyondloom.com/decker/)
-- [A math professor who objects to diversity statements](https://www.theatlantic.com/ideas/archive/2023/12/professor-american-academia-parallels-soviet-union/676305/)
-- [Building a fully local LLM voice assistant to control my smart home](https://johnthenerd.com/blog/local-llm-assistant/)
-- [Celestia: Real-time 3D visualization of space](https://github.com/CelestiaProject/Celestia)
-- [Water microdroplets have potential to produce hydrogen peroxide](https://www.chemistryworld.com/news/water-surprise-microdroplets-have-potential-to-produce-h2o2/3010950.article)
-- [Cosmic: The Road to Alpha](https://blog.system76.com/post/cosmic-the-road-to-alpha/)
-- [LG washing machine sending 3.7GB of data a day](https://www.tomshardware.com/networking/your-washing-machine-could-be-sending-37-gb-of-data-a-day)
+- [FedEx launches new e-commerce platform to compete with Amazon](https://www.theverge.com/2024/1/14/24038042/fedex-fdx-e-commerce-platform-amazon-rival-shoprunner)
+- [Could inflammation be the cause of myriad chronic conditions? &lpar;2019&rpar;](https://www.harvardmagazine.com/2019/04/inflammation-disease-diet)
+- [When Random Isn&#39;t](https://orlp.net/blog/when-random-isnt/)
+- [We Are Doomed: A pessimistic point of view of &quot;modern software engineering&quot;](https://www.carette.xyz/posts/we_are_doomed/)
+- [Leaving Arizona – the Story of the Motorola 6800 part 2 and creation of the 6502](https://thechipletter.substack.com/p/leaving-arizona)
+- [Show HN: EXT – an easy way to build cross-platform desktop software](https://ext.store)
+- [Fast RISC-V-based scripting back end for game engines](https://github.com/fwsGonzo/rvscript)
+- [Show HN: Material Files – Open Source Material Design File Manager for Android](https://github.com/zhanghai/MaterialFiles)
+- [Vanna.ai: Chat with your SQL database](https://github.com/vanna-ai/vanna)
+- [Project Bluefin: an immutable, developer-focused, Cloud-native Linux](https://www.ypsidanger.com/announcing-project-bluefin/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

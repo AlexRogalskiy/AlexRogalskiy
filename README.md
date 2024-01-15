@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [How the humble stink bug caused Australia to miss a major EV milestone](https://www.theguardian.com/australia-news/2024/jan/14/how-the-humble-stink-bug-caused-australia-to-miss-a-major-ev-milestone)
-- [Tiny proportion of e-scooter injuries appear in official UK data](https://www.theguardian.com/world/2024/jan/14/tiny-proportion-of-e-scooter-injuries-appear-in-official-uk-data)
-- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2024/jan/13/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Holding pattern: Fair Isle woollies for instant hygge](https://www.theguardian.com/fashion/2024/jan/13/holding-pattern-fair-isle-woollies-for-instant-hygge)
-- [‘We are at war’: Ecuador’s president vows to crack down on gangs behind week of violence](https://www.theguardian.com/world/2024/jan/13/we-are-at-war-ecuadors-president-vows-to-crack-down-on-gangs-behind-week-of-violence)
-- [Ivan Toney is back but nothing has changed: gambling is embedded in football | Jonathan Wilson](https://www.theguardian.com/football/blog/2024/jan/13/ivan-toney-is-back-but-nothing-has-changed-gambling-is-embedded-in-football)
-- [Hosts Ivory Coast sink Guinea Bissau to get Afcon up and running](https://www.theguardian.com/football/2024/jan/13/ivory-coast-guinea-bissau-afcon-match-report)
-- [‘Kevin is a legend’: Guardiola praises De Bruyne’s instant spark for City’s title tilt](https://www.theguardian.com/football/2024/jan/13/kevin-is-a-legend-guardiola-praises-de-bruynes-instant-spark-for-citys-title-tilt)
-- [John Kerry to leave White House to assist Biden re-election campaign](https://www.theguardian.com/us-news/2024/jan/13/john-kerry-biden-administration-re-election-campaign)
-- [Pakistan: Imran Khan’s party loses cricket bat electoral symbol](https://www.theguardian.com/world/2024/jan/13/pakistan-imran-khans-party-loses-cricket-bat-electoral-symbol)
+- [Middle East crisis live: Houthi missile launched at USS Laboon shot down in Red Sea, says US military](https://www.theguardian.com/world/live/2024/jan/15/middle-east-crisis-live-news-updates-houthi-missile-uss-laboon-rebels-yemen-red-sea-crisis-gaza-palestine-hamas-war)
+- [Green Bay Packers’ first-half surge stuns Dallas Cowboys in wildcard playoff](https://www.theguardian.com/sport/2024/jan/14/green-bay-packers-dallas-cowboys-wildcard-playoff-game-nfl)
+- [Mia Goth sued by MaXXXine extra, who alleges actor ‘intentionally’ kicked him in the head on set](https://www.theguardian.com/film/2024/jan/15/mia-goth-sued-by-maxxxine-extra-who-alleges-actor-intentionally-kicked-him-in-the-head-on-set)
+- [Russia-Ukraine war at a glance: what we know on day 691](https://www.theguardian.com/world/2024/jan/15/russia-ukraine-war-at-a-glance-what-we-know-on-day-691)
+- [Sole rehearsal for Queen Elizabeth II’s funeral was ‘comedy of errors’](https://www.theguardian.com/uk-news/2024/jan/15/sole-rehearsal-for-queen-elizabeth-iis-funeral-was-comedy-of-errors)
+- [Nikki Haley rides Iowa momentum, but likely for second place](https://www.theguardian.com/us-news/2024/jan/14/nikki-haley-iowa-caucuses-republican-candidate)
+- [UK house prices on track to rise 3% in 2024, says leading agent](https://www.theguardian.com/money/2024/jan/15/uk-house-prices-on-track-to-rise-3-in-2024-says-leading-agent)
+- [World’s five richest men double their money as poorest get poorer](https://www.theguardian.com/inequality/2024/jan/15/worlds-five-richest-men-double-their-money-as-poorest-get-poorer)
+- [UK faces a cost of dying crisis as funeral costs reach record high](https://www.theguardian.com/society/2024/jan/15/uk-faces-a-cost-of-dying-crisis-as-funeral-costs-reach-record-high)
+- [UK potholes and road defects have led to surge in callouts](https://www.theguardian.com/world/2024/jan/15/uk-potholes-and-road-defects-have-led-to-surge-in-callouts)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Celestron may just have unveiled its coolest telescope ever –and, yes, it has AI](https://www.techradar.com/cameras/celestron-may-have-just-produced-its-coolest-telescope-ever-and-yes-it-has-ai)
-- [The great dollar store backlash](https://thehustle.co/the-great-dollar-store-backlash/)
-- [A Search for Magnetized Quark Nuggets, a Dark Matter Candidate, in Iron Ore](https://www.mdpi.com/2218-1997/10/1/27)
-- [2023 Reviewed by an AI [video]](https://www.youtube.com/watch?v=e11cqw-dA2g)
-- [British vs. American Houses: 19 Important Differences](https://theportablewife.com/living-abroad/moving-to-london/british-vs-american-houses-differences/)
-- [America&#39;s New Business Boom](https://www.apricitas.io/p/americas-new-business-boom)
-- [Evaluating Large Language Models on the GMAT](https://arxiv.org/abs/2401.02985)
-- [I Used Netscape Composer in 2024](https://plbrault.com/blog-posts/i-used-netscape-composer-in-2024-en/)
-- [How I Left The Cloud](https://old.reddit.com/r/selfhosted/comments/196nke8/how_i_left_the_cloud/)
-- [The Taliban&#39;s curious love of SIM cards](https://restofworld.org/2024/the-talibans-curious-love-of-sim-cards/)
+- [Tesla with deployable 2000 watt solar panel](https://electrek.co/2024/01/15/tesla-owner-builds-deployable-solar-roof-model-y/)
+- [The Strange Existence of Ram Charan](https://money.cnn.com/magazines/fortune/fortune_archive/2007/04/30/8405482/index.htm)
+- [Fingerspitzengefühl](https://en.wikipedia.org/wiki/Fingerspitzengef%C3%BChl)
+- [Popehat Report: Win a Dream Date with a Litigious Douchebag](https://popehat.substack.com/p/win-a-dream-date-with-a-litigious)
+- [Modeless Vim](https://github.com/SebastianMuskalla/ModelessVim)
+- [Why aren&#39;t there more hearing aid startups?](https://news.ycombinator.com/item?id=39008529)
+- [Watts Are the Way](https://normal2nomad.com/thoughts/watts-are-the-way)
+- [Climate Activist Justifies Political Violence](https://www.nytimes.com/interactive/2024/01/14/magazine/andreas-malm-interview.html)
+- [Top SEO Trends for 2024: What Should You Focus On?](https://aimd.app/blog/2024-01-15-top-seo-trends-for-2024-what-should-you-focus-on)
+- [Musk seeks 25% voting share at Tesla](https://www.reuters.com/technology/musk-seeks-25-voting-share-tesla-2024-01-16/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

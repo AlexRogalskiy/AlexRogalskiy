@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Middle East crisis live: Houthi missile launched at USS Laboon shot down in Red Sea, says US military](https://www.theguardian.com/world/live/2024/jan/15/middle-east-crisis-live-news-updates-houthi-missile-uss-laboon-rebels-yemen-red-sea-crisis-gaza-palestine-hamas-war)
-- [Green Bay Packers’ first-half surge stuns Dallas Cowboys in wildcard playoff](https://www.theguardian.com/sport/2024/jan/14/green-bay-packers-dallas-cowboys-wildcard-playoff-game-nfl)
-- [Mia Goth sued by MaXXXine extra, who alleges actor ‘intentionally’ kicked him in the head on set](https://www.theguardian.com/film/2024/jan/15/mia-goth-sued-by-maxxxine-extra-who-alleges-actor-intentionally-kicked-him-in-the-head-on-set)
-- [Russia-Ukraine war at a glance: what we know on day 691](https://www.theguardian.com/world/2024/jan/15/russia-ukraine-war-at-a-glance-what-we-know-on-day-691)
-- [Sole rehearsal for Queen Elizabeth II’s funeral was ‘comedy of errors’](https://www.theguardian.com/uk-news/2024/jan/15/sole-rehearsal-for-queen-elizabeth-iis-funeral-was-comedy-of-errors)
-- [Nikki Haley rides Iowa momentum, but likely for second place](https://www.theguardian.com/us-news/2024/jan/14/nikki-haley-iowa-caucuses-republican-candidate)
-- [UK house prices on track to rise 3% in 2024, says leading agent](https://www.theguardian.com/money/2024/jan/15/uk-house-prices-on-track-to-rise-3-in-2024-says-leading-agent)
-- [World’s five richest men double their money as poorest get poorer](https://www.theguardian.com/inequality/2024/jan/15/worlds-five-richest-men-double-their-money-as-poorest-get-poorer)
-- [UK faces a cost of dying crisis as funeral costs reach record high](https://www.theguardian.com/society/2024/jan/15/uk-faces-a-cost-of-dying-crisis-as-funeral-costs-reach-record-high)
-- [UK potholes and road defects have led to surge in callouts](https://www.theguardian.com/world/2024/jan/15/uk-potholes-and-road-defects-have-led-to-surge-in-callouts)
+- [Australian Open 2024: day three – live](https://www.theguardian.com/sport/live/2024/jan/16/australian-open-2024-live-updates-tennis-au-aus-day-three-latest-news-highlights-results-draw-schedule-melbourne-park)
+- [Emmys: the winners, the losers, the red carpet outfits – live](https://www.theguardian.com/tv-and-radio/live/2024/jan/15/emmys-winners-losers-red-carpet-live)
+- [Iowa caucuses 2024 live: Donald Trump wins state in crucial victory that kicks off US elections race](https://www.theguardian.com/us-news/live/2024/jan/15/iowa-caucuses-donald-trump-republicans-ron-desantis-nikki-haley-us-election-latest-news-updates)
+- [Allen and Shakir magic sets up mouthwatering Bills-Chiefs playoff clash](https://www.theguardian.com/sport/2024/jan/15/nfl-wildcard-playoffs-football-results)
+- [Iran claims it has attacked an Israeli spy base in Kurdistan](https://www.theguardian.com/world/2024/jan/16/iran-claims-it-has-attacked-an-israeli-spy-base-in-kurdistan)
+- [Russia-Ukraine war at a glance: what we know on day 692](https://www.theguardian.com/world/2024/jan/16/russia-ukraine-war-at-a-glance-what-we-know-on-day-692)
+- [What’s beneath the floorboards? An unsettling trip home – in pictures](https://www.theguardian.com/artanddesign/gallery/2024/jan/16/elena-helfrecht-pictures)
+- [UK wasting ‘tens of billions’ on crumbling infrastructure and badly run projects](https://www.theguardian.com/society/2024/jan/16/uk-wasting-tens-of-billions-on-crumbling-infrastructure-and-badly-run-projects)
+- [UK fuel retailers to be forced to share prices within half hour of any changes](https://www.theguardian.com/money/2024/jan/16/uk-fuel-retailers-forced-share-prices-within-half-hour-changes)
+- [Britons living abroad regain right to vote in UK elections as 15-year rule ends](https://www.theguardian.com/politics/2024/jan/16/britons-living-abroad-regain-right-to-vote-in-uk-elections-as-15-year-rule-ends)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [AI to impact 60% of jobs in developed economies: IMF](https://www.computerworld.com/article/3712185/ai-to-impact-60-of-jobs-in-developed-economies-imf.html#tk.rss_all)
+- [OpenAI deletes fine print on “military” usage of its AI technology](https://www.computerworld.com/article/3712184/openai-deletes-fine-print-on-military-usage-of-its-ai-technology.html#tk.rss_all)
+- [Failed unsubscribes could be a clue your data&#39;s out of control](https://www.computerworld.com/article/3712161/failed-unsubscribes-could-be-a-clue-your-datas-out-of-control.html#tk.rss_all)
+- [How to back up Android devices: The complete guide](https://www.computerworld.com/article/3215095/how-to-back-up-android-phones-complete-guide.html#tk.rss_all)
 - [Infosys to acquire InSemi](https://www.computerworld.com/article/3712132/infosys-to-acquire-insemi.html#tk.rss_all)
 - [For Patch Tuesday, 48 updates, no zero-day flaws](https://www.computerworld.com/article/3712131/for-patch-tuesday-48-updates-no-zero-day-flaws.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
 - [Will Wanda Austin take Apple into space?](https://www.computerworld.com/article/3712130/will-wanda-austin-take-apple-into-space.html#tk.rss_all)
 - [Tech layoffs in 2024: A timeline](https://www.computerworld.com/article/3685936/tech-layoffs-in-2023-a-timeline.html#tk.rss_all)
-- [Work from home is passé, Microsoft wants you to work from your car](https://www.computerworld.com/article/3712129/work-from-home-is-passe-microsoft-wants-you-to-work-from-your-car.html#tk.rss_all)
-- [Why return-to-office mandates fail](https://www.computerworld.com/article/3711386/why-return-to-office-mandates-fail.html#tk.rss_all)
-- [A powerful Android dark mode enhancement](https://www.computerworld.com/article/3712240/android-dark-mode.html#tk.rss_all)
-- [Google targets retail sector with new genAI tools, hardware](https://www.computerworld.com/article/3712281/google-targets-retail-sector-with-new-genai-tools-hardware.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

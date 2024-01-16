@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [FedEx launches new e-commerce platform to compete with Amazon](https://www.theverge.com/2024/1/14/24038042/fedex-fdx-e-commerce-platform-amazon-rival-shoprunner)
-- [Could inflammation be the cause of myriad chronic conditions? &lpar;2019&rpar;](https://www.harvardmagazine.com/2019/04/inflammation-disease-diet)
-- [When Random Isn&#39;t](https://orlp.net/blog/when-random-isnt/)
-- [We Are Doomed: A pessimistic point of view of &quot;modern software engineering&quot;](https://www.carette.xyz/posts/we_are_doomed/)
-- [Leaving Arizona – the Story of the Motorola 6800 part 2 and creation of the 6502](https://thechipletter.substack.com/p/leaving-arizona)
-- [Show HN: EXT – an easy way to build cross-platform desktop software](https://ext.store)
-- [Fast RISC-V-based scripting back end for game engines](https://github.com/fwsGonzo/rvscript)
-- [Show HN: Material Files – Open Source Material Design File Manager for Android](https://github.com/zhanghai/MaterialFiles)
-- [Vanna.ai: Chat with your SQL database](https://github.com/vanna-ai/vanna)
-- [Project Bluefin: an immutable, developer-focused, Cloud-native Linux](https://www.ypsidanger.com/announcing-project-bluefin/)
+- [Java virtual threads caused a deadlock in TPC-C for PostgreSQL](https://blog.ydb.tech/how-we-switched-to-java-21-virtual-threads-and-got-deadlock-in-tpc-c-for-postgresql-cca2fe08d70b)
+- [Victorian Glass Fire Grenades](https://museumcrush.org/the-beauty-and-danger-in-victorian-glass-fire-grenades/)
+- [Bluesky has launched RSS feeds](https://openrss.org/blog/bluesky-has-launched-rss-feeds)
+- [Watch Free Online Documentaries](https://ihavenotv.com/)
+- [Amazon R&amp;D spending is more than that of all companies and government of France](https://twitter.com/emollick/status/1746254000914092480)
+- [Immediate Mode GUI Programming](https://eliasnaur.com/blog/immediate-mode-gui-programming)
+- [Svix &lpar;YC W21&rpar; Is Hiring a Technical Content Marketer &lpar;US Remote&rpar;](https://www.svix.com/careers/)
+- [A lowering strategy for control effects in Rust](https://www.abubalay.com/blog/2024/01/14/rust-effect-lowering)
+- [Haiku OS: The Open Source BeOS You Can Daily Drive in 2024](https://hackaday.com/2024/01/15/haiku-os-the-open-source-beos-you-can-daily-drive-in-2024/)
+- [Our language, our world](https://aeon.co/essays/does-language-mirror-the-mind-an-intellectual-history)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

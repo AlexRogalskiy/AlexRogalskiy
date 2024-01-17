@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Java virtual threads caused a deadlock in TPC-C for PostgreSQL](https://blog.ydb.tech/how-we-switched-to-java-21-virtual-threads-and-got-deadlock-in-tpc-c-for-postgresql-cca2fe08d70b)
-- [Victorian Glass Fire Grenades](https://museumcrush.org/the-beauty-and-danger-in-victorian-glass-fire-grenades/)
-- [Bluesky has launched RSS feeds](https://openrss.org/blog/bluesky-has-launched-rss-feeds)
-- [Watch Free Online Documentaries](https://ihavenotv.com/)
-- [Amazon R&amp;D spending is more than that of all companies and government of France](https://twitter.com/emollick/status/1746254000914092480)
-- [Immediate Mode GUI Programming](https://eliasnaur.com/blog/immediate-mode-gui-programming)
-- [Svix &lpar;YC W21&rpar; Is Hiring a Technical Content Marketer &lpar;US Remote&rpar;](https://www.svix.com/careers/)
-- [A lowering strategy for control effects in Rust](https://www.abubalay.com/blog/2024/01/14/rust-effect-lowering)
-- [Haiku OS: The Open Source BeOS You Can Daily Drive in 2024](https://hackaday.com/2024/01/15/haiku-os-the-open-source-beos-you-can-daily-drive-in-2024/)
-- [Our language, our world](https://aeon.co/essays/does-language-mirror-the-mind-an-intellectual-history)
+- [South Korea launches digital nomad visa to boost remote work options in 2024](https://techsauce.co/en/special-guests/southkorea-launches-digitalnomad-visa)
+- [JEP Draft: Deprecate memory-access methods in sun.misc.unsafe for removal](https://openjdk.org/jeps/8323072)
+- [OpenAI drops ban on military tools to partner with The Pentagon](https://www.semafor.com/article/01/16/2024/openai-is-working-with-the-pentagon-on-cybersecurity-projects)
+- [&quot;Amazonian dark earth&quot; was the work of ancient humans](https://www.bbc.com/future/article/20240116-the-dark-earth-revealing-the-amazons-secrets)
+- [US developers can offer non-app store purchasing, Apple still collect commission](https://www.macrumors.com/2024/01/16/us-app-store-alternative-purchase-option/)
+- [Fluorite lenses: Corrective capabilities beyond ordinary optical glass](https://global.canon/en/c-museum/special/exhibition2.html)
+- [Clay Foundation Model: An open source AI model for Earth](https://clay-foundation.github.io/model/)
+- [Masters of the Ice: Charles Rabot&#39;s Arctic Photographs &lpar;Ca. 1881&rpar;](https://publicdomainreview.org/collection/rabot-photographs-of-the-arctic/)
+- [Stable Code 3B: Coding on the Edge](https://stability.ai/news/stable-code-2024-llm-code-completion-release)
+- [Post-mortem for last week&#39;s incident at Kagi](https://status.kagi.com/issues/2024-01-12-kagi-down-on-some-regions/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

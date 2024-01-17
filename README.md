@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Tesla with deployable 2000 watt solar panel](https://electrek.co/2024/01/15/tesla-owner-builds-deployable-solar-roof-model-y/)
-- [The Strange Existence of Ram Charan](https://money.cnn.com/magazines/fortune/fortune_archive/2007/04/30/8405482/index.htm)
-- [Fingerspitzengefühl](https://en.wikipedia.org/wiki/Fingerspitzengef%C3%BChl)
-- [Popehat Report: Win a Dream Date with a Litigious Douchebag](https://popehat.substack.com/p/win-a-dream-date-with-a-litigious)
-- [Modeless Vim](https://github.com/SebastianMuskalla/ModelessVim)
-- [Why aren&#39;t there more hearing aid startups?](https://news.ycombinator.com/item?id=39008529)
-- [Watts Are the Way](https://normal2nomad.com/thoughts/watts-are-the-way)
-- [Climate Activist Justifies Political Violence](https://www.nytimes.com/interactive/2024/01/14/magazine/andreas-malm-interview.html)
-- [Top SEO Trends for 2024: What Should You Focus On?](https://aimd.app/blog/2024-01-15-top-seo-trends-for-2024-what-should-you-focus-on)
-- [Musk seeks 25% voting share at Tesla](https://www.reuters.com/technology/musk-seeks-25-voting-share-tesla-2024-01-16/)
+- [Mazda Agrees to Adopt Tesla&#39;s North American Charging Standard &lpar;NACS&rpar;](https://driveteslacanada.ca/news/mazda-agrees-to-adopt-teslas-nacs/)
+- [Biotech companies slash East Bay jobs in jolt to industry](https://www.mercurynews.com/2024/01/16/biotech-job-cut-layoff-tech-economy-hayward-fremont-east-bay-area/)
+- [Fast cycle lithium metal in solid-state batteries](https://www.nature.com/articles/s41563-023-01722-x)
+- [Cravath announces raises, upping pay ante for large law firms](https://www.reuters.com/legal/legalindustry/cravath-announces-raises-upping-pay-ante-large-law-firms-2023-11-28/)
+- [Judge Blocks JetBlue from Acquiring Spirit Airlines](https://www.nytimes.com/2024/01/16/business/jetblue-spirit-airlines-ruling-merger.html)
+- [Estimation Isn&#39;t for Everyone](https://open.nytimes.com/estimation-isnt-for-everyone-a72484f88b27?gi=959c206a2242)
+- [Getting &quot;forever chemicals&quot; out of drinking water is expensive](https://undark.org/2024/01/15/drinking-water-pfas-cost/)
+- [Discovery of second ultra-large ring structure challenges standard model](https://phys.org/news/2024-01-discovery-ultra-large-distant-space.html)
+- [Apple Vision Pro Lacks Wi-Fi 6E Support](https://www.macrumors.com/2024/01/16/apple-vision-pro-lacks-wi-fi-6e-support/)
+- [On Compositional Window Management &lpar;2023&rpar;](https://bandukwala.me/on-compositional-window-management/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

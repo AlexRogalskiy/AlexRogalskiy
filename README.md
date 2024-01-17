@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Australian Open 2024: day three – live](https://www.theguardian.com/sport/live/2024/jan/16/australian-open-2024-live-updates-tennis-au-aus-day-three-latest-news-highlights-results-draw-schedule-melbourne-park)
-- [Emmys: the winners, the losers, the red carpet outfits – live](https://www.theguardian.com/tv-and-radio/live/2024/jan/15/emmys-winners-losers-red-carpet-live)
-- [Iowa caucuses 2024 live: Donald Trump wins state in crucial victory that kicks off US elections race](https://www.theguardian.com/us-news/live/2024/jan/15/iowa-caucuses-donald-trump-republicans-ron-desantis-nikki-haley-us-election-latest-news-updates)
-- [Allen and Shakir magic sets up mouthwatering Bills-Chiefs playoff clash](https://www.theguardian.com/sport/2024/jan/15/nfl-wildcard-playoffs-football-results)
-- [Iran claims it has attacked an Israeli spy base in Kurdistan](https://www.theguardian.com/world/2024/jan/16/iran-claims-it-has-attacked-an-israeli-spy-base-in-kurdistan)
-- [Russia-Ukraine war at a glance: what we know on day 692](https://www.theguardian.com/world/2024/jan/16/russia-ukraine-war-at-a-glance-what-we-know-on-day-692)
-- [What’s beneath the floorboards? An unsettling trip home – in pictures](https://www.theguardian.com/artanddesign/gallery/2024/jan/16/elena-helfrecht-pictures)
-- [UK wasting ‘tens of billions’ on crumbling infrastructure and badly run projects](https://www.theguardian.com/society/2024/jan/16/uk-wasting-tens-of-billions-on-crumbling-infrastructure-and-badly-run-projects)
-- [UK fuel retailers to be forced to share prices within half hour of any changes](https://www.theguardian.com/money/2024/jan/16/uk-fuel-retailers-forced-share-prices-within-half-hour-changes)
-- [Britons living abroad regain right to vote in UK elections as 15-year rule ends](https://www.theguardian.com/politics/2024/jan/16/britons-living-abroad-regain-right-to-vote-in-uk-elections-as-15-year-rule-ends)
+- [Middle East crisis live: Iran destroys ‘Sunni militant bases’ in Pakistan; US launches fresh Red Sea strikes against Houthis](https://www.theguardian.com/world/live/2024/jan/17/middle-east-crisis-live-news-updates-israel-gaza-palestine-hamas-war-iran-strike-pakistan-sunni-us-red-sea-crisis-houthi-missile-attack)
+- [Iran strikes ‘militant bases’ in Pakistan in latest Middle East flashpoint](https://www.theguardian.com/world/2024/jan/16/iran-launches-airstrikes-on-sunni-militant-bases-in-pakistan)
+- [‘France to stay France’, says Macron, as he lays out vision to counter far right](https://www.theguardian.com/world/2024/jan/17/emmanuel-macron-speech-press-conference-education-schooling-changes-screen-time-new-cabinet)
+- [Russia-Ukraine war at a glance: what we know on day 693](https://www.theguardian.com/world/2024/jan/17/russia-ukraine-war-at-a-glance-what-we-know-on-day-693)
+- [UK weather: parts of Scotland forecast to reach -15C](https://www.theguardian.com/uk-news/2024/jan/17/uk-weather-parts-of-scotland-forecast-to-reach-minus-15c)
+- [Met police say covert operation has halved luxury watch thefts](https://www.theguardian.com/uk-news/2024/jan/17/met-halves-luxury-watch-robbery-in-covert-operations-to-lure-criminals)
+- [Over 90% of child sexual abuse imagery is self-generated, data shows](https://www.theguardian.com/technology/2024/jan/17/child-sexual-abuse-self-generated-data-internet-watch-foundation-end-to-end-encryption)
+- [Dazn lifts paywall on women’s football to encourage growth and investment](https://www.theguardian.com/football/2024/jan/17/dazn-lifts-paywall-on-womens-football-to-encourage-growth-and-investment)
+- [UK sets up critical imports council to protect vital supplies](https://www.theguardian.com/uk-news/2024/jan/17/uk-sets-up-critical-imports-council-to-protect-vital-supplies)
+- [Male and female dung beetles coordinate to roll balls, researchers find](https://www.theguardian.com/science/2024/jan/17/male-and-female-dung-beetles-coordinate-to-roll-balls-researchers-find)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

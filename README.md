@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [South Korea launches digital nomad visa to boost remote work options in 2024](https://techsauce.co/en/special-guests/southkorea-launches-digitalnomad-visa)
-- [JEP Draft: Deprecate memory-access methods in sun.misc.unsafe for removal](https://openjdk.org/jeps/8323072)
-- [OpenAI drops ban on military tools to partner with The Pentagon](https://www.semafor.com/article/01/16/2024/openai-is-working-with-the-pentagon-on-cybersecurity-projects)
-- [&quot;Amazonian dark earth&quot; was the work of ancient humans](https://www.bbc.com/future/article/20240116-the-dark-earth-revealing-the-amazons-secrets)
-- [US developers can offer non-app store purchasing, Apple still collect commission](https://www.macrumors.com/2024/01/16/us-app-store-alternative-purchase-option/)
-- [Fluorite lenses: Corrective capabilities beyond ordinary optical glass](https://global.canon/en/c-museum/special/exhibition2.html)
-- [Clay Foundation Model: An open source AI model for Earth](https://clay-foundation.github.io/model/)
-- [Masters of the Ice: Charles Rabot&#39;s Arctic Photographs &lpar;Ca. 1881&rpar;](https://publicdomainreview.org/collection/rabot-photographs-of-the-arctic/)
-- [Stable Code 3B: Coding on the Edge](https://stability.ai/news/stable-code-2024-llm-code-completion-release)
-- [Post-mortem for last week&#39;s incident at Kagi](https://status.kagi.com/issues/2024-01-12-kagi-down-on-some-regions/)
+- [Hospitals owned by private equity are harming patients, reports find](https://arstechnica.com/health/2024/01/hospitals-slash-staff-services-quality-of-care-when-private-equity-takes-over/)
+- [Linear Transformers Are Faster After All](https://manifestai.com/blogposts/faster-after-all/)
+- [Everyone always talks about AI girlfriends. What about AI boyfriends?](https://default.blog/p/ai-girlfriends-what-about-ai-boyfriends)
+- [Carta&#39;s Scandal Continues – Jerry Talton &lpar;Ex. CTO of Carta&rpar;](https://twitter.com/itspuru/status/1747778873935213028)
+- [Samsung Extends Android and Security Updates to 7 Years](https://www.cnet.com/tech/mobile/samsung-extends-android-and-security-updates-to-7-years/)
+- [48,000 companies sent Facebook data on a single person](https://www.theverge.com/2024/1/17/24041897/facebook-meta-targeted-advertising-data-mining-study-privacy)
+- [Sheryl Sandberg to Leave Meta Platforms Board After 12 Years](https://www.wsj.com/tech/sheryl-sandberg-to-leave-meta-platforms-board-after-12-years-dda56828)
+- [Apple&#39;s bad faith 27% tax on web purchases](https://twitter.com/TimSweeneyEpic/status/1747408148799881390)
+- [The Hacker News Top books of 2023](https://hnreads.com/post/top40_2023/)
+- [FAQ on Leaving Google](https://social.clawhammer.net/blog/posts/2024-01-10-GoogleExitLetter/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

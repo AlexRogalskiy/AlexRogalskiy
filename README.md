@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Mazda Agrees to Adopt Tesla&#39;s North American Charging Standard &lpar;NACS&rpar;](https://driveteslacanada.ca/news/mazda-agrees-to-adopt-teslas-nacs/)
-- [Biotech companies slash East Bay jobs in jolt to industry](https://www.mercurynews.com/2024/01/16/biotech-job-cut-layoff-tech-economy-hayward-fremont-east-bay-area/)
-- [Fast cycle lithium metal in solid-state batteries](https://www.nature.com/articles/s41563-023-01722-x)
-- [Cravath announces raises, upping pay ante for large law firms](https://www.reuters.com/legal/legalindustry/cravath-announces-raises-upping-pay-ante-large-law-firms-2023-11-28/)
-- [Judge Blocks JetBlue from Acquiring Spirit Airlines](https://www.nytimes.com/2024/01/16/business/jetblue-spirit-airlines-ruling-merger.html)
-- [Estimation Isn&#39;t for Everyone](https://open.nytimes.com/estimation-isnt-for-everyone-a72484f88b27?gi=959c206a2242)
-- [Getting &quot;forever chemicals&quot; out of drinking water is expensive](https://undark.org/2024/01/15/drinking-water-pfas-cost/)
-- [Discovery of second ultra-large ring structure challenges standard model](https://phys.org/news/2024-01-discovery-ultra-large-distant-space.html)
-- [Apple Vision Pro Lacks Wi-Fi 6E Support](https://www.macrumors.com/2024/01/16/apple-vision-pro-lacks-wi-fi-6e-support/)
-- [On Compositional Window Management &lpar;2023&rpar;](https://bandukwala.me/on-compositional-window-management/)
+- [Show HN: Marvin 2.0 – a lightweight, multi-modal AI toolkit](https://www.factsmachine.ai/p/marvins-turning-20)
+- [Show HN: Muse, a CLI background music player](https://github.com/aabiji/muse)
+- [Hestiia wants you to mine for crypto to heat your house](https://techcrunch.com/2024/01/11/hestiia-bitcoin-radiator/)
+- [AI Data Exposed to &#39;LeftoverLocals&#39; Attack via VulnerableAMD,Apple,Qualcomm GPUs](https://www.securityweek.com/ai-data-exposed-to-leftoverlocals-attack-via-vulnerable-amd-apple-qualcomm-gpus/)
+- [An HTML page which is also a valid PDF file and JPEG image](https://donno2048.github.io/HTML-PDF-JPEG/)
+- [AMD, Apple, Qualcomm GPUs Leak AI Data in LeftoverLocals Attacks](https://www.bleepingcomputer.com/news/security/amd-apple-qualcomm-gpus-leak-ai-data-in-leftoverlocals-attacks/#google_vignette)
+- [A Flaw in Apple, AMD, and Qualcomm GPUs Could Expose AI Data](https://www.wired.com/story/leftoverlocals-gpu-vulnerability-generative-ai/)
+- [Can Ultraviolet lightbulbs end the next pandemic before it starts?](https://www.vox.com/the-highlight/23972651/ultraviolet-disinfection-germicide-far-uv)
+- [AI: The not-so-good parts](https://xeiaso.net/talks/2024/prepare-unforeseen-consequences/)
+- [Ask HN: My father is starting to lose his hearing. What should I do?](https://news.ycombinator.com/item?id=39036569)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

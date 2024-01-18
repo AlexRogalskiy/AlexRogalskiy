@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Middle East crisis live: Iran destroys ‘Sunni militant bases’ in Pakistan; US launches fresh Red Sea strikes against Houthis](https://www.theguardian.com/world/live/2024/jan/17/middle-east-crisis-live-news-updates-israel-gaza-palestine-hamas-war-iran-strike-pakistan-sunni-us-red-sea-crisis-houthi-missile-attack)
-- [Iran strikes ‘militant bases’ in Pakistan in latest Middle East flashpoint](https://www.theguardian.com/world/2024/jan/16/iran-launches-airstrikes-on-sunni-militant-bases-in-pakistan)
-- [‘France to stay France’, says Macron, as he lays out vision to counter far right](https://www.theguardian.com/world/2024/jan/17/emmanuel-macron-speech-press-conference-education-schooling-changes-screen-time-new-cabinet)
-- [Russia-Ukraine war at a glance: what we know on day 693](https://www.theguardian.com/world/2024/jan/17/russia-ukraine-war-at-a-glance-what-we-know-on-day-693)
-- [UK weather: parts of Scotland forecast to reach -15C](https://www.theguardian.com/uk-news/2024/jan/17/uk-weather-parts-of-scotland-forecast-to-reach-minus-15c)
-- [Met police say covert operation has halved luxury watch thefts](https://www.theguardian.com/uk-news/2024/jan/17/met-halves-luxury-watch-robbery-in-covert-operations-to-lure-criminals)
-- [Over 90% of child sexual abuse imagery is self-generated, data shows](https://www.theguardian.com/technology/2024/jan/17/child-sexual-abuse-self-generated-data-internet-watch-foundation-end-to-end-encryption)
-- [Dazn lifts paywall on women’s football to encourage growth and investment](https://www.theguardian.com/football/2024/jan/17/dazn-lifts-paywall-on-womens-football-to-encourage-growth-and-investment)
-- [UK sets up critical imports council to protect vital supplies](https://www.theguardian.com/uk-news/2024/jan/17/uk-sets-up-critical-imports-council-to-protect-vital-supplies)
-- [Male and female dung beetles coordinate to roll balls, researchers find](https://www.theguardian.com/science/2024/jan/17/male-and-female-dung-beetles-coordinate-to-roll-balls-researchers-find)
+- [Australia v West Indies: first Test, day two – live](https://www.theguardian.com/sport/live/2024/jan/18/australia-vs-west-indies-series-first-test-day-two-live-updates-news-results-teams-squads-start-time-adelaide-oval)
+- [Middle East crisis live: US has launched fresh strikes on Houthis in Yemen, US officials say, after latest ship attack](https://www.theguardian.com/world/live/2024/jan/17/middle-east-crisis-live-news-updates-israel-gaza-palestine-hamas-war-iran-strike-pakistan-sunni-us-red-sea-crisis-houthi-missile-attack)
+- [Suspect allegedly involved in shooting of Spain Vox party co-founder is arrested in Colombia](https://www.theguardian.com/world/2024/jan/18/alejo-vidal-quadras-spain-vox-party-shooting-alleged-suspect-arrest-colombia-greg-oliver-higuera)
+- [Russia-Ukraine war at a glance: what we know on day 694](https://www.theguardian.com/world/2024/jan/18/russia-ukraine-war-at-a-glance-what-we-know-on-day-694)
+- [New CNN head says network needs to recapture ‘swagger and innovation’](https://www.theguardian.com/media/2024/jan/17/cnn-chief-executive-mark-thompson-strategy)
+- [Richard Simmons disavows biopic: ‘I have never given my permission for this movie’](https://www.theguardian.com/film/2024/jan/18/richard-simmons-biopic-criticism-permission-fitness-instructor)
+- [Nature in England at risk due to government failures, says environment watchdog](https://www.theguardian.com/environment/2024/jan/18/nature-in-england-at-risk-due-to-government-failures-says-environment-watchdog)
+- [UK housing market sees ‘respite’ as mortgage rates ease](https://www.theguardian.com/money/2024/jan/18/uk-housing-market-sees-respite-as-mortgage-rates-ease)
+- [Sex scenes and feasibility studies: architect and racy novelist Lesley Lokko wins RIBA gold medal](https://www.theguardian.com/artanddesign/2024/jan/18/riba-gold-medal-lesley-lokko-venice-biennale-sex-scenes)
+- [The online hate campaign turning Indonesians against Rohingya refugees](https://www.theguardian.com/world/2024/jan/18/the-online-hate-campaign-turning-indonesians-against-rohingya-refugees)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

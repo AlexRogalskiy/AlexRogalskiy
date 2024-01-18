@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [AI pros are increasingly uneasy about the technology — survey](https://www.computerworld.com/article/3712248/ai-pros-are-increasingly-uneasy-about-the-technology-survey.html#tk.rss_all)
+- [Foxconn, HCL Group team up on chip-packaging and testing factory in India](https://www.computerworld.com/article/3712167/foxconn-hcl-group-team-up-on-chip-packaging-and-testing-factory-in-india.html#tk.rss_all)
+- [Apple v. Epic: The still-unanswered question](https://www.computerworld.com/article/3712224/apple-v-epic-the-still-unanswered-question.html#tk.rss_all)
+- [Synopsys to acquire Ansys for $35 billion to bolster chip design](https://www.computerworld.com/article/3712245/synopsys-to-acquire-ansys-for-35-billion-to-bolster-chip-design.html#tk.rss_all)
+- [Australia evaluates compulsory guardrails to ensure safer AI](https://www.computerworld.com/article/3712166/australia-evaluates-compulsory-guardrails-to-ensure-safer-ai.html#tk.rss_all)
+- [3 exceptional Android privacy power-ups](https://www.computerworld.com/article/3712243/android-privacy-power-ups.html#tk.rss_all)
+- [Before you buy a Windows 11 &#39;AI PC&#39; in 2024, read this](https://www.computerworld.com/article/3712187/microsoft-windows-11-ai-pc-2024.html#tk.rss_all)
+- [2024 will be a big year for AR/VR, but mainstream adoption will lag](https://www.computerworld.com/article/3712164/2024-will-be-a-big-year-for-ar-vr-but-mainstream-adoption-will-lag.html#tk.rss_all)
+- [Google to replace part of ad sales team with AI](https://www.computerworld.com/article/3712165/google-to-replace-part-of-ad-sales-team-with-ai.html#tk.rss_all)
 - [How OpenAI plans to handle genAI election fears](https://www.computerworld.com/article/3712189/how-openai-plans-to-handle-genai-election-fears.html#tk.rss_all)
-- [Microsoft extends Copilot access to individuals and SMBs](https://www.computerworld.com/article/3712302/microsoft-extends-copilot-access-to-individuals-and-smbs.html#tk.rss_all)
-- [Musk wants a bigger share in Tesla to grow AI, robotics business](https://www.computerworld.com/article/3712244/musk-wants-a-bigger-share-in-tesla-to-grow-ai-robotics-business.html#tk.rss_all)
-- [Apple&#39;s European App Store users face free market test](https://www.computerworld.com/article/3712162/apples-european-app-store-users-face-free-market-test.html#tk.rss_all)
-- [How to create an AI team and train your other workers](https://www.computerworld.com/article/3712280/how-to-create-an-ai-team-and-train-your-other-workers.html#tk.rss_all)
-- [Unprecedented forecast of China’s chipmaking capacity raises concerns for global players](https://www.computerworld.com/article/3712163/unprecedented-forecast-of-china-s-chipmaking-capacity-raises-concerns-for-global-players.html#tk.rss_all)
-- [AI to impact 60% of jobs in developed economies: IMF](https://www.computerworld.com/article/3712185/ai-to-impact-60-of-jobs-in-developed-economies-imf.html#tk.rss_all)
-- [OpenAI deletes fine print on &#39;military&#39; use of its AI technology](https://www.computerworld.com/article/3712184/openai-deletes-fine-print-on-military-use-of-its-ai-technology.html#tk.rss_all)
-- [Failed unsubscribes could be a clue your data&#39;s out of control](https://www.computerworld.com/article/3712161/failed-unsubscribes-could-be-a-clue-your-datas-out-of-control.html#tk.rss_all)
-- [How to back up Android devices: The complete guide](https://www.computerworld.com/article/3215095/how-to-back-up-android-phones-complete-guide.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

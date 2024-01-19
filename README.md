@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [TSMC delays second Arizona chip foundry](https://www.computerworld.com/article/3712364/tsmc-delays-second-arizona-chip-foundry.html#tk.rss_all)
+- [Intel wins reprieve in EU antitrust case](https://www.computerworld.com/article/3712362/intel-wins-reprieve-in-eu-antitrust-case.html#tk.rss_all)
+- [BBEdit shows how to add generative AI to Apple platforms](https://www.computerworld.com/article/3712264/bbedit-shows-how-to-add-generative-ai-to-apple-platforms.html#tk.rss_all)
+- [New certification will determine whether a generative AI system is ‘Fairly Trained’](https://www.infoworld.com/article/3712226/new-certification-will-determine-whether-a-generative-ai-system-is-fairly-trained.html#tk.rss_all)
+- [Google CEO warns of more job cuts as the company preps for ‘ambitious goals’](https://www.computerworld.com/article/3712225/google-ceo-warns-of-more-job-cuts-as-the-company-preps-for-ambitious-goals.html#tk.rss_all)
+- [GenAI set to replace these jobs, disrupt others — and worsen economic inequity](https://www.computerworld.com/article/3712188/ai-will-replace-these-kinds-of-jobs-and-worsen-economic-inequity.html#tk.rss_all)
+- [Google implements key changes in Europe before new regulatory measures take effect](https://www.computerworld.com/article/3712190/google-implements-key-changes-in-europe-before-new-regulatory-measures-take-effect.html#tk.rss_all)
 - [AI pros are increasingly uneasy about the technology — survey](https://www.computerworld.com/article/3712248/ai-pros-are-increasingly-uneasy-about-the-technology-survey.html#tk.rss_all)
 - [Foxconn, HCL Group team up on chip-packaging and testing factory in India](https://www.computerworld.com/article/3712167/foxconn-hcl-group-team-up-on-chip-packaging-and-testing-factory-in-india.html#tk.rss_all)
 - [Apple v. Epic: The still-unanswered question](https://www.computerworld.com/article/3712224/apple-v-epic-the-still-unanswered-question.html#tk.rss_all)
-- [Synopsys to acquire Ansys for $35 billion to bolster chip design](https://www.computerworld.com/article/3712245/synopsys-to-acquire-ansys-for-35-billion-to-bolster-chip-design.html#tk.rss_all)
-- [Australia evaluates compulsory guardrails to ensure safer AI](https://www.computerworld.com/article/3712166/australia-evaluates-compulsory-guardrails-to-ensure-safer-ai.html#tk.rss_all)
-- [3 exceptional Android privacy power-ups](https://www.computerworld.com/article/3712243/android-privacy-power-ups.html#tk.rss_all)
-- [Before you buy a Windows 11 &#39;AI PC&#39; in 2024, read this](https://www.computerworld.com/article/3712187/microsoft-windows-11-ai-pc-2024.html#tk.rss_all)
-- [2024 will be a big year for AR/VR, but mainstream adoption will lag](https://www.computerworld.com/article/3712164/2024-will-be-a-big-year-for-ar-vr-but-mainstream-adoption-will-lag.html#tk.rss_all)
-- [Google to replace part of ad sales team with AI](https://www.computerworld.com/article/3712165/google-to-replace-part-of-ad-sales-team-with-ai.html#tk.rss_all)
-- [How OpenAI plans to handle genAI election fears](https://www.computerworld.com/article/3712189/how-openai-plans-to-handle-genai-election-fears.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

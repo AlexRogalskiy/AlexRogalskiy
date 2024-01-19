@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: Marvin 2.0 – a lightweight, multi-modal AI toolkit](https://www.factsmachine.ai/p/marvins-turning-20)
-- [Show HN: Muse, a CLI background music player](https://github.com/aabiji/muse)
-- [Hestiia wants you to mine for crypto to heat your house](https://techcrunch.com/2024/01/11/hestiia-bitcoin-radiator/)
-- [AI Data Exposed to &#39;LeftoverLocals&#39; Attack via VulnerableAMD,Apple,Qualcomm GPUs](https://www.securityweek.com/ai-data-exposed-to-leftoverlocals-attack-via-vulnerable-amd-apple-qualcomm-gpus/)
-- [An HTML page which is also a valid PDF file and JPEG image](https://donno2048.github.io/HTML-PDF-JPEG/)
-- [AMD, Apple, Qualcomm GPUs Leak AI Data in LeftoverLocals Attacks](https://www.bleepingcomputer.com/news/security/amd-apple-qualcomm-gpus-leak-ai-data-in-leftoverlocals-attacks/#google_vignette)
-- [A Flaw in Apple, AMD, and Qualcomm GPUs Could Expose AI Data](https://www.wired.com/story/leftoverlocals-gpu-vulnerability-generative-ai/)
-- [Can Ultraviolet lightbulbs end the next pandemic before it starts?](https://www.vox.com/the-highlight/23972651/ultraviolet-disinfection-germicide-far-uv)
-- [AI: The not-so-good parts](https://xeiaso.net/talks/2024/prepare-unforeseen-consequences/)
-- [Ask HN: My father is starting to lose his hearing. What should I do?](https://news.ycombinator.com/item?id=39036569)
+- [The Urbanist Case for a New Community in Solano County](https://californiaforever.com/news/the-urbanist-case-for-a-new-community-in-solano-county/)
+- [The next generation of nuclear reactors is getting more advanced](https://www.technologyreview.com/2024/01/18/1086753/advanced-nuclear-power/)
+- [Brains Are Not Required When It Comes to Thinking](https://www.scientificamerican.com/article/brains-are-not-required-when-it-comes-to-thinking-and-solving-problems-simple-cells-can-do-it/)
+- [What changed CPU performance from the Macintosh 128K to the M3?](https://eclecticlight.co/2024/01/18/what-changed-cpu-performance-from-the-macintosh-128k-to-the-m3/)
+- [Breathwork: Largest controlled trial to date finds no benefits beyond placebo](https://www.psypost.org/2024/01/breathwork-study-largest-controlled-trial-to-date-finds-no-psychological-benefits-beyond-placebo-effect-220756)
+- [Ask HN: Isn&#39;t most of the magic of AI the embeddings?](https://news.ycombinator.com/item?id=39050785)
+- [Unleashing the Hacker Spirit](https://newsletter.davidsoleinh.com/p/unleashing-the-hacker-spirit)
+- [Rare Shot of POTUS Inside a Sensitive Compartmented Info Facility](https://www.thedrive.com/the-war-zone/7621/this-is-a-rare-shot-of-potus-inside-a-sensitive-compartmented-info-facility)
+- [North Korea&#39;s Most Advanced Drones Reemerge](https://www.thedrive.com/the-war-zone/north-koreas-most-advanced-drones-reemerge-solid-fuel-irbm-tested)
+- [Minimize LLM Hallucinations with Pydantic Validators](https://blog.pydantic.dev/blog/2024/01/18/llm-validation/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

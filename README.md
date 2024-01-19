@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Australia v West Indies: first Test, day two – live](https://www.theguardian.com/sport/live/2024/jan/18/australia-vs-west-indies-series-first-test-day-two-live-updates-news-results-teams-squads-start-time-adelaide-oval)
-- [Middle East crisis live: US has launched fresh strikes on Houthis in Yemen, US officials say, after latest ship attack](https://www.theguardian.com/world/live/2024/jan/17/middle-east-crisis-live-news-updates-israel-gaza-palestine-hamas-war-iran-strike-pakistan-sunni-us-red-sea-crisis-houthi-missile-attack)
-- [Suspect allegedly involved in shooting of Spain Vox party co-founder is arrested in Colombia](https://www.theguardian.com/world/2024/jan/18/alejo-vidal-quadras-spain-vox-party-shooting-alleged-suspect-arrest-colombia-greg-oliver-higuera)
-- [Russia-Ukraine war at a glance: what we know on day 694](https://www.theguardian.com/world/2024/jan/18/russia-ukraine-war-at-a-glance-what-we-know-on-day-694)
-- [New CNN head says network needs to recapture ‘swagger and innovation’](https://www.theguardian.com/media/2024/jan/17/cnn-chief-executive-mark-thompson-strategy)
-- [Richard Simmons disavows biopic: ‘I have never given my permission for this movie’](https://www.theguardian.com/film/2024/jan/18/richard-simmons-biopic-criticism-permission-fitness-instructor)
-- [Nature in England at risk due to government failures, says environment watchdog](https://www.theguardian.com/environment/2024/jan/18/nature-in-england-at-risk-due-to-government-failures-says-environment-watchdog)
-- [UK housing market sees ‘respite’ as mortgage rates ease](https://www.theguardian.com/money/2024/jan/18/uk-housing-market-sees-respite-as-mortgage-rates-ease)
-- [Sex scenes and feasibility studies: architect and racy novelist Lesley Lokko wins RIBA gold medal](https://www.theguardian.com/artanddesign/2024/jan/18/riba-gold-medal-lesley-lokko-venice-biennale-sex-scenes)
-- [The online hate campaign turning Indonesians against Rohingya refugees](https://www.theguardian.com/world/2024/jan/18/the-online-hate-campaign-turning-indonesians-against-rohingya-refugees)
+- [Usman Khawaja bloodied by bouncer as Australia crush West Indies in first Test](https://www.theguardian.com/sport/2024/jan/19/usman-khawaja-bloodied-by-bouncer-as-australia-crush-west-indies-in-first-test)
+- [How South Korea fell in love with dogs and banned their slaughter for meat](https://www.theguardian.com/world/2024/jan/19/south-korea-dog-meat-ban)
+- [Girls State review – compelling follow-up to hit documentary](https://www.theguardian.com/film/2024/jan/18/girls-state-mock-government-documentary-review)
+- [New Zealand’s Māori king has called a rare nationwide meeting. Here’s why](https://www.theguardian.com/world/2024/jan/19/new-zealand-maori-king-nationwide-meeting-rare-why-news-details-indigenous-rights)
+- [Experimental use of pig liver to filter blood externally offers hope for patients](https://www.theguardian.com/science/2024/jan/18/pig-liver-animal-to-human-transplants)
+- [Honky tonk angel: Australian PM recalls saving Dolly Parton tour after oversize bus was banned](https://www.theguardian.com/music/2024/jan/19/dolly-parton-australia-tour-anthony-albanese-oversized-bus-abc-radio)
+- [Ofsted to urge schools to pause inspections harming mental health of staff](https://www.theguardian.com/education/2024/jan/19/ofsted-schools-inspections-mental-health-staff)
+- [Josh Kerr: ‘I’ve already written out my tactics and know what to do in Paris’](https://www.theguardian.com/sport/2024/jan/19/josh-kerr-olympic-games-paris-athletics-jakob-ingebrigtsen)
+- [Premier League and beyond: 10 things to look out for this weekend](https://www.theguardian.com/football/blog/2024/jan/19/premier-league-and-beyond-10-things-to-look-out-for-this-weekend)
+- [Judge hints that Trump’s election interference trial might be delayed](https://www.theguardian.com/us-news/2024/jan/18/donald-trump-election-interference-january-6-trial-delay)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

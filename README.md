@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Hospitals owned by private equity are harming patients, reports find](https://arstechnica.com/health/2024/01/hospitals-slash-staff-services-quality-of-care-when-private-equity-takes-over/)
-- [Linear Transformers Are Faster After All](https://manifestai.com/blogposts/faster-after-all/)
-- [Everyone always talks about AI girlfriends. What about AI boyfriends?](https://default.blog/p/ai-girlfriends-what-about-ai-boyfriends)
-- [Carta&#39;s Scandal Continues – Jerry Talton &lpar;Ex. CTO of Carta&rpar;](https://twitter.com/itspuru/status/1747778873935213028)
-- [Samsung Extends Android and Security Updates to 7 Years](https://www.cnet.com/tech/mobile/samsung-extends-android-and-security-updates-to-7-years/)
-- [48,000 companies sent Facebook data on a single person](https://www.theverge.com/2024/1/17/24041897/facebook-meta-targeted-advertising-data-mining-study-privacy)
-- [Sheryl Sandberg to Leave Meta Platforms Board After 12 Years](https://www.wsj.com/tech/sheryl-sandberg-to-leave-meta-platforms-board-after-12-years-dda56828)
-- [Apple&#39;s bad faith 27% tax on web purchases](https://twitter.com/TimSweeneyEpic/status/1747408148799881390)
-- [The Hacker News Top books of 2023](https://hnreads.com/post/top40_2023/)
-- [FAQ on Leaving Google](https://social.clawhammer.net/blog/posts/2024-01-10-GoogleExitLetter/)
+- [Why Holes at the Bottom of the Ocean Disappear and Reappear](https://www.atlasobscura.com/articles/ocean-floor-holes-purposes-eels)
+- [Meta documents show 100k children sexually harassed daily on its platforms](https://www.theguardian.com/technology/2024/jan/18/instagram-facebook-child-sexual-harassment)
+- [AlphaFold Found Possible Psychedelics](https://www.nature.com/articles/d41586-024-00130-8)
+- [Second Teleportation](https://upollo.ai/blog/10-second-teleportation)
+- [My AI costs went from $100 to less than $1/day: Fine-tuning Mixtral with GPT4](https://twitter.com/wenquai/status/1748016021808595242)
+- [We migrated our PostgreSQL database with 11 seconds downtime](https://gds.blog.gov.uk/2024/01/17/how-we-migrated-our-postgresql-database-with-11-seconds-downtime/)
+- [How I&#39;m &lpar;re&rpar;learning math as an adult](https://gmays.com/how-im-relearning-math-as-an-adult/)
+- [Noisy brain may underlie some of autism&#39;s sensory features](https://www.thetransmitter.org/spectrum/noisy-brain-may-underlie-some-of-autisms-sensory-features/)
+- [Cracking the code of Linear B](https://antigonejournal.com/2024/01/decipherment-linear-b/)
+- [WebGPU is now available on Android](https://developer.chrome.com/blog/new-in-webgpu-121)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

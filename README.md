@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Why Holes at the Bottom of the Ocean Disappear and Reappear](https://www.atlasobscura.com/articles/ocean-floor-holes-purposes-eels)
-- [Meta documents show 100k children sexually harassed daily on its platforms](https://www.theguardian.com/technology/2024/jan/18/instagram-facebook-child-sexual-harassment)
-- [AlphaFold Found Possible Psychedelics](https://www.nature.com/articles/d41586-024-00130-8)
-- [Second Teleportation](https://upollo.ai/blog/10-second-teleportation)
-- [My AI costs went from $100 to less than $1/day: Fine-tuning Mixtral with GPT4](https://twitter.com/wenquai/status/1748016021808595242)
-- [We migrated our PostgreSQL database with 11 seconds downtime](https://gds.blog.gov.uk/2024/01/17/how-we-migrated-our-postgresql-database-with-11-seconds-downtime/)
-- [How I&#39;m &lpar;re&rpar;learning math as an adult](https://gmays.com/how-im-relearning-math-as-an-adult/)
-- [Noisy brain may underlie some of autism&#39;s sensory features](https://www.thetransmitter.org/spectrum/noisy-brain-may-underlie-some-of-autisms-sensory-features/)
-- [Cracking the code of Linear B](https://antigonejournal.com/2024/01/decipherment-linear-b/)
-- [WebGPU is now available on Android](https://developer.chrome.com/blog/new-in-webgpu-121)
+- [Vint Cerf is accumulating Dave Mills stories](https://docs.google.com/document/d/1XU6Fn5rFeJLO4mIBSa9e8V8BIDwafI0Lvlmi4gQwcmE/edit?usp=sharing)
+- [We saw a Pi running underwater at CES in Las Vegas](https://www.raspberrypi.com/news/we-saw-a-pi-running-underwater-at-ces-in-las-vegas/)
+- [Snowcraft – Building a Lego Snowfort from giant Lego snow-bricks](https://www.verandavikings.com/blog/building-lego-iglos)
+- [What&#39;s that touchscreen in my room?](https://laplab.me/posts/whats-that-touchscreen-in-my-room/)
+- [The bane of my existence: Supporting both async and sync code in Rust](https://nullderef.com/blog/rust-async-sync/)
+- [Microsoft actions following attack by nation state actor Midnight Blizzard](https://msrc.microsoft.com/blog/2024/01/microsoft-actions-following-attack-by-nation-state-actor-midnight-blizzard/)
+- [Platform Tilt](https://mozilla.github.io/platform-tilt/)
+- [Firms churning out fake papers have taken to bribing journal editors](https://www.science.org/content/article/paper-mills-bribing-editors-scholarly-journals-science-investigation-finds)
+- [US government opens 22M acres of federal lands to solar](https://electrek.co/2024/01/18/us-govt-opens-22-million-acres-federal-lands-solar/)
+- [Ceph: A Journey to 1 TiB/s](https://ceph.io/en/news/blog/2024/ceph-a-journey-to-1tibps/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

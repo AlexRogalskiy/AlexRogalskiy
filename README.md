@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Urbanist Case for a New Community in Solano County](https://californiaforever.com/news/the-urbanist-case-for-a-new-community-in-solano-county/)
-- [The next generation of nuclear reactors is getting more advanced](https://www.technologyreview.com/2024/01/18/1086753/advanced-nuclear-power/)
-- [Brains Are Not Required When It Comes to Thinking](https://www.scientificamerican.com/article/brains-are-not-required-when-it-comes-to-thinking-and-solving-problems-simple-cells-can-do-it/)
-- [What changed CPU performance from the Macintosh 128K to the M3?](https://eclecticlight.co/2024/01/18/what-changed-cpu-performance-from-the-macintosh-128k-to-the-m3/)
-- [Breathwork: Largest controlled trial to date finds no benefits beyond placebo](https://www.psypost.org/2024/01/breathwork-study-largest-controlled-trial-to-date-finds-no-psychological-benefits-beyond-placebo-effect-220756)
-- [Ask HN: Isn&#39;t most of the magic of AI the embeddings?](https://news.ycombinator.com/item?id=39050785)
-- [Unleashing the Hacker Spirit](https://newsletter.davidsoleinh.com/p/unleashing-the-hacker-spirit)
-- [Rare Shot of POTUS Inside a Sensitive Compartmented Info Facility](https://www.thedrive.com/the-war-zone/7621/this-is-a-rare-shot-of-potus-inside-a-sensitive-compartmented-info-facility)
-- [North Korea&#39;s Most Advanced Drones Reemerge](https://www.thedrive.com/the-war-zone/north-koreas-most-advanced-drones-reemerge-solid-fuel-irbm-tested)
-- [Minimize LLM Hallucinations with Pydantic Validators](https://blog.pydantic.dev/blog/2024/01/18/llm-validation/)
+- [Americans are feeling much better about the economy thanks to slowing inflation](https://www.cnn.com/2024/01/19/economy/americans-are-feeling-much-better-thanks-to-slowing-inflation/index.html)
+- [How to Estimate Speed with Computer Vision](https://blog.roboflow.com/estimate-speed-computer-vision/)
+- [Ask HN: Tips on Creating Study Groups?](https://news.ycombinator.com/item?id=39063984)
+- [Wayfair to lay off 13% of its workforce](https://www.reuters.com/business/retail-consumer/wayfair-cut-1650-jobs-2024-01-19/)
+- [Starlite](https://en.wikipedia.org/wiki/Starlite)
+- [The Founder of GeoCities on What Killed the &#39;Old Internet&#39;](https://gizmodo.com/interview-with-geocities-founder-on-the-new-web-tiktok-1849179509)
+- [Van Gogh painting looted by the Nazis embarrasses Japan](https://www.lemonde.fr/en/m-le-mag/article/2024/01/20/van-gogh-painting-looted-by-the-nazis-embarrasses-japan_6448880_117.html)
+- [Flexport raised $260M on an uncapped convertible note from Shopify](https://twitter.com/typesfast/status/1748495581155336699)
+- [&#39;Sports Illustrated&#39; to lay off most of its staff](https://www.npr.org/2024/01/19/1225680000/sports-illustrated-lays-off-most-of-its-staff)
+- [DeepMind&#39;s AI AlphaGeometry solved complex geometry problems at a high level](https://techxplore.com/news/2024-01-deepmind-ai-alphageometry-complex-geometry.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

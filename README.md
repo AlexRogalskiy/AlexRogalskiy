@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [Tech layoffs in 2024: A timeline](https://www.computerworld.com/article/3685936/tech-layoffs-in-2023-a-timeline.html#tk.rss_all)
+- [Yes, you can officially run Windows on Apple Silicon Macs](https://www.computerworld.com/article/3712366/yes-you-can-officially-run-windows-on-apple-silicon-macs.html#tk.rss_all)
+- [10 must-have security tips for digital nomads](https://www.computerworld.com/article/3712126/10-must-have-security-tips-for-digital-nomads.html#tk.rss_all)
+- [The most significant number from Samsung&#39;s Galaxy S24 announcement](https://www.computerworld.com/article/3712136/samsung-galaxy-s24.html#tk.rss_all)
 - [TSMC delays second Arizona chip foundry](https://www.computerworld.com/article/3712364/tsmc-delays-second-arizona-chip-foundry.html#tk.rss_all)
-- [Intel wins reprieve in EU antitrust case](https://www.computerworld.com/article/3712362/intel-wins-reprieve-in-eu-antitrust-case.html#tk.rss_all)
+- [Intel finds ally in EU antitrust case](https://www.computerworld.com/article/3712362/intel-finds-ally-in-eu-antitrust-case.html#tk.rss_all)
 - [BBEdit shows how to add generative AI to Apple platforms](https://www.computerworld.com/article/3712264/bbedit-shows-how-to-add-generative-ai-to-apple-platforms.html#tk.rss_all)
 - [New certification will determine whether a generative AI system is ‘Fairly Trained’](https://www.infoworld.com/article/3712226/new-certification-will-determine-whether-a-generative-ai-system-is-fairly-trained.html#tk.rss_all)
 - [Google CEO warns of more job cuts as the company preps for ‘ambitious goals’](https://www.computerworld.com/article/3712225/google-ceo-warns-of-more-job-cuts-as-the-company-preps-for-ambitious-goals.html#tk.rss_all)
-- [GenAI set to replace these jobs, disrupt others — and worsen economic inequity](https://www.computerworld.com/article/3712188/ai-will-replace-these-kinds-of-jobs-and-worsen-economic-inequity.html#tk.rss_all)
-- [Google implements key changes in Europe before new regulatory measures take effect](https://www.computerworld.com/article/3712190/google-implements-key-changes-in-europe-before-new-regulatory-measures-take-effect.html#tk.rss_all)
-- [AI pros are increasingly uneasy about the technology — survey](https://www.computerworld.com/article/3712248/ai-pros-are-increasingly-uneasy-about-the-technology-survey.html#tk.rss_all)
-- [Foxconn, HCL Group team up on chip-packaging and testing factory in India](https://www.computerworld.com/article/3712167/foxconn-hcl-group-team-up-on-chip-packaging-and-testing-factory-in-india.html#tk.rss_all)
-- [Apple v. Epic: The still-unanswered question](https://www.computerworld.com/article/3712224/apple-v-epic-the-still-unanswered-question.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

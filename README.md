@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Rachel Daly praises Aston Villa’s grit after scoring WSL winner at Leicester](https://www.theguardian.com/football/2024/jan/20/rachel-daly-praises-aston-villas-grit-after-scoring-wsl-winner-at-leicester)
-- [‘We don’t want to be the bad guys’: anti-abortion marchers seek post-Roe stance](https://www.theguardian.com/us-news/2024/jan/19/march-for-life-anti-abortion-washington-dc)
-- [Three French police officers given suspended sentences for assault on young footballer](https://www.theguardian.com/world/2024/jan/19/three-french-police-officers-given-suspended-sentences-for-assault-on-young-footballer)
-- [Cruel Intentions: The 90s Musical review – peppy return of toxic teenage liaisons](https://www.theguardian.com/stage/2024/jan/19/cruel-intentions-the-90s-musical-review-other-palace)
-- [‘If you both hate a chore, do it together’: readers on dividing household labour](https://www.theguardian.com/lifeandstyle/2024/jan/20/readers-dividing-household-labour-chores)
-- [Keep it simple and focus on the fire: how to cook and eat on a camping holiday](https://www.theguardian.com/lifeandstyle/2024/jan/20/camp-cooking-food-recipes-tips-campfire-meals-guide-battered-fish-wraps)
-- [European roundup: Connacht stay alive and condemn 14-man Bristol](https://www.theguardian.com/sport/2024/jan/19/european-roundup-connacht-keep-hopes-alive-with-win-over-14-man-bristol)
-- [Boris Johnson says Trump back in White House is ‘what the world needs’](https://www.theguardian.com/uk-news/2024/jan/19/boris-johnson-says-trump-back-in-white-house-is-what-the-world-needs)
-- [Love Me review – Kristen Stewart and Steven Yeun explore love in oddball sci-fi](https://www.theguardian.com/film/2024/jan/19/love-me-review-kristen-stewart-steven-yeun-sundance)
-- [Fujitsu government contracts under scrutiny in light of Horizon scandal](https://www.theguardian.com/uk-news/2024/jan/19/fujitsu-government-contracts-under-scrutiny-in-light-of-horizon-scandal)
+- [UK weather: severe wind warnings as Storm Isha set to wreak travel chaos](https://www.theguardian.com/uk-news/2024/jan/20/severe-uk-wind-warnings-as-storm-isha-expected-to-wreak-travel-chaos)
+- [Natasha Jonas retains welterweight world title with split-decision victory](https://www.theguardian.com/sport/2024/jan/21/natasha-jonas-retains-welterweight-world-title-with-split-decision-victory)
+- [Zelenskiy says he expects several new western defence packages soon](https://www.theguardian.com/world/2024/jan/20/ukraine-volodymyr-zelenskiy-aid-support)
+- [Jeremy Hunt claims Nigel Lawson’s mantle as he teases tax cuts](https://www.theguardian.com/politics/2024/jan/20/jeremy-hunt-claims-nigel-lawsons-mantle-as-he-teases-tax-cuts)
+- [The edit: 25 of the best heeled boots – in pictures](https://www.theguardian.com/fashion/gallery/2024/jan/20/the-edit-25-of-the-best-heeled-boots-in-pictures)
+- [Milan game suspended as keeper Mike Maignan walks off over racist abuse](https://www.theguardian.com/football/2024/jan/20/milan-game-suspended-as-keeper-mike-maignan-walks-off-over-racist-abuse)
+- [‘Showing the world what’s possible’: St Paul makes history with first all-female city council](https://www.theguardian.com/us-news/2024/jan/20/st-paul-first-all-woman-city-council)
+- [Norfolk police refers itself to IOPC over 999 call from home where bodies found](https://www.theguardian.com/uk-news/2024/jan/20/tributes-paid-to-four-members-of-family-found-dead-in-norfolk)
+- [Dingoes pay the ultimate price on K’gari but some believe people are the real menace](https://www.theguardian.com/australia-news/2024/jan/21/dingoes-pay-the-ultimate-price-on-kgari-but-some-believe-people-are-the-real-menace)
+- [Cat dies after being thrown off Russian train by conductor](https://www.theguardian.com/world/2024/jan/20/cat-dies-after-being-thrown-off-russian-train-by-conductor)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

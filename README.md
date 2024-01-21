@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Vint Cerf is accumulating Dave Mills stories](https://docs.google.com/document/d/1XU6Fn5rFeJLO4mIBSa9e8V8BIDwafI0Lvlmi4gQwcmE/edit?usp=sharing)
-- [We saw a Pi running underwater at CES in Las Vegas](https://www.raspberrypi.com/news/we-saw-a-pi-running-underwater-at-ces-in-las-vegas/)
-- [Snowcraft – Building a Lego Snowfort from giant Lego snow-bricks](https://www.verandavikings.com/blog/building-lego-iglos)
-- [What&#39;s that touchscreen in my room?](https://laplab.me/posts/whats-that-touchscreen-in-my-room/)
-- [The bane of my existence: Supporting both async and sync code in Rust](https://nullderef.com/blog/rust-async-sync/)
-- [Microsoft actions following attack by nation state actor Midnight Blizzard](https://msrc.microsoft.com/blog/2024/01/microsoft-actions-following-attack-by-nation-state-actor-midnight-blizzard/)
-- [Platform Tilt](https://mozilla.github.io/platform-tilt/)
-- [Firms churning out fake papers have taken to bribing journal editors](https://www.science.org/content/article/paper-mills-bribing-editors-scholarly-journals-science-investigation-finds)
-- [US government opens 22M acres of federal lands to solar](https://electrek.co/2024/01/18/us-govt-opens-22-million-acres-federal-lands-solar/)
-- [Ceph: A Journey to 1 TiB/s](https://ceph.io/en/news/blog/2024/ceph-a-journey-to-1tibps/)
+- [Tell HN: Stop using email as the unique ID when using &quot;Sign in with GitHub&quot;](https://news.ycombinator.com/item?id=39074695)
+- [Gemini: Fast Failure Recovery in Distributed Training with In-Memory Checkpoints [pdf]](https://www.cs.rice.edu/~eugeneng/papers/SOSP23.pdf)
+- [Startups tend to have 3 generations of employees](https://twitter.com/Carnage4Life/status/1748830596284195238)
+- [Anime is a $25B industry that pays its animators pennies](https://hitregbroke.com/anime/)
+- [How different languages laugh online](https://restofworld.org/2023/how-people-laugh-online/)
+- [The Underhanded C Contest](http://www.underhanded-c.org/)
+- [Brig: A user interface toolkit for Node.js, which is based on Qt for rendering](https://github.com/BrigJS/brig)
+- [How the placenta evolved from an ancient virus &lpar;2020&rpar;](https://whyy.org/segments/the-placenta-went-viral-and-protomammals-were-born/)
+- [What Happened to David Graeber?](https://lareviewofbooks.org/article/what-happened-to-david-graeber/)
+- [Neatroff – a new implementation of the Troff typesetting system &lpar;2017&rpar; [pdf]](http://litcave.rudi.ir/neatroff.pdf)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Americans are feeling much better about the economy thanks to slowing inflation](https://www.cnn.com/2024/01/19/economy/americans-are-feeling-much-better-thanks-to-slowing-inflation/index.html)
-- [How to Estimate Speed with Computer Vision](https://blog.roboflow.com/estimate-speed-computer-vision/)
-- [Ask HN: Tips on Creating Study Groups?](https://news.ycombinator.com/item?id=39063984)
-- [Wayfair to lay off 13% of its workforce](https://www.reuters.com/business/retail-consumer/wayfair-cut-1650-jobs-2024-01-19/)
-- [Starlite](https://en.wikipedia.org/wiki/Starlite)
-- [The Founder of GeoCities on What Killed the &#39;Old Internet&#39;](https://gizmodo.com/interview-with-geocities-founder-on-the-new-web-tiktok-1849179509)
-- [Van Gogh painting looted by the Nazis embarrasses Japan](https://www.lemonde.fr/en/m-le-mag/article/2024/01/20/van-gogh-painting-looted-by-the-nazis-embarrasses-japan_6448880_117.html)
-- [Flexport raised $260M on an uncapped convertible note from Shopify](https://twitter.com/typesfast/status/1748495581155336699)
-- [&#39;Sports Illustrated&#39; to lay off most of its staff](https://www.npr.org/2024/01/19/1225680000/sports-illustrated-lays-off-most-of-its-staff)
-- [DeepMind&#39;s AI AlphaGeometry solved complex geometry problems at a high level](https://techxplore.com/news/2024-01-deepmind-ai-alphageometry-complex-geometry.html)
+- [Oblique wings could make supersonic flight more efficient](https://www.youtube.com/watch?v=C_dNt4UEVZQ)
+- [The wildest cosmic mystery the James Webb Space Telescope has uncovered](https://www.vox.com/science/24040534/jwst-galaxies-big-bright-mystery-black-holes-cosmology)
+- [Execa: Process Execution for Humans in Node.js](https://github.com/sindresorhus/execa)
+- [eBay Still &lpar;Secretly&rpar; Supports Dorking](https://www.autodidacts.io/ebay-still-supports-dorking-with-and-or-not-logical-operators-boolean-expressions/)
+- [The Murky Campaign to Discredit Lab-Grown Meat](https://www.wired.co.uk/article/cultivated-meat-pr-cew-center-environment-welfare-berman#intcid=_wired-uk-right-rail_5cf93ad7-2388-464e-bbb4-edb10ec5a3f8_popular4-1_fallback_cral-top2-2)
+- [Creating a new, sustainable plastic using physics](https://www.wur.nl/en/newsarticle/creating-a-new-sustainable-plastic-using-physics.htm)
+- [Video Games Helped Ukrainian Bradley Gunner Win Duel with Russian T-90M Tank](https://www.thedrive.com/the-war-zone/video-games-helped-ukrainian-bradley-gunner-win-duel-with-russian-t-90m-tank)
+- [Vector Search with SQL](https://neuml.github.io/txtai/embeddings/query/#natural-language-queries)
+- [Tell HN: Stop using email as the unique ID when using &quot;Sign in with GitHub&quot;](https://news.ycombinator.com/item?id=39074695)
+- [Misconceptions on Top of Misconceptions](http://www.os2museum.com/wp/misconceptions-on-top-of-misconceptions/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

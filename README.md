@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [UK weather: severe wind warnings as Storm Isha set to wreak travel chaos](https://www.theguardian.com/uk-news/2024/jan/20/severe-uk-wind-warnings-as-storm-isha-expected-to-wreak-travel-chaos)
-- [Natasha Jonas retains welterweight world title with split-decision victory](https://www.theguardian.com/sport/2024/jan/21/natasha-jonas-retains-welterweight-world-title-with-split-decision-victory)
-- [Zelenskiy says he expects several new western defence packages soon](https://www.theguardian.com/world/2024/jan/20/ukraine-volodymyr-zelenskiy-aid-support)
-- [Jeremy Hunt claims Nigel Lawson’s mantle as he teases tax cuts](https://www.theguardian.com/politics/2024/jan/20/jeremy-hunt-claims-nigel-lawsons-mantle-as-he-teases-tax-cuts)
-- [The edit: 25 of the best heeled boots – in pictures](https://www.theguardian.com/fashion/gallery/2024/jan/20/the-edit-25-of-the-best-heeled-boots-in-pictures)
-- [Milan game suspended as keeper Mike Maignan walks off over racist abuse](https://www.theguardian.com/football/2024/jan/20/milan-game-suspended-as-keeper-mike-maignan-walks-off-over-racist-abuse)
-- [‘Showing the world what’s possible’: St Paul makes history with first all-female city council](https://www.theguardian.com/us-news/2024/jan/20/st-paul-first-all-woman-city-council)
-- [Norfolk police refers itself to IOPC over 999 call from home where bodies found](https://www.theguardian.com/uk-news/2024/jan/20/tributes-paid-to-four-members-of-family-found-dead-in-norfolk)
-- [Dingoes pay the ultimate price on K’gari but some believe people are the real menace](https://www.theguardian.com/australia-news/2024/jan/21/dingoes-pay-the-ultimate-price-on-kgari-but-some-believe-people-are-the-real-menace)
-- [Cat dies after being thrown off Russian train by conductor](https://www.theguardian.com/world/2024/jan/20/cat-dies-after-being-thrown-off-russian-train-by-conductor)
+- [Middle East crisis live: Netanyahu rejects hostage deal that would leave ‘Hamas intact’; US declares two missing navy Seals dead](https://www.theguardian.com/world/live/2024/jan/21/middle-east-crisis-live-netanyahu-defies-biden-on-palestinian-statehood-us-personnel-injured-in-attack-on-iraqi-base)
+- [Russia-Ukraine war at a glance: what we know on day 698](https://www.theguardian.com/world/2024/jan/22/russia-ukraine-war-at-a-glance-what-we-know-on-day-698)
+- [‘Burn, beetle, burn’: South Dakotans torch an effigy of destructive bug](https://www.theguardian.com/us-news/2024/jan/21/custer-south-dakota-burning-beetle-fest-event-pageant-park)
+- [Homeowners who sold last year banked £102,000 profit on average, data shows](https://www.theguardian.com/money/2024/jan/22/homeowners-england-wales-sold-last-year-banked-100k-profit-average)
+- [Rise in measles cases prompts vaccination campaign in England](https://www.theguardian.com/society/2024/jan/22/rise-in-measles-cases-prompts-vaccination-campaign-in-england)
+- [Cost of breast cancer to UK economy could reach £3.6bn by 2034, study shows](https://www.theguardian.com/society/2024/jan/22/cost-of-breast-cancer-uk-economy-study)
+- [BBC must ‘adapt or risk losing trust’, says midterm review](https://www.theguardian.com/media/2024/jan/22/bbc-must-adapt-or-risk-losing-trust-says-midterm-review)
+- [‘Rugby needs all the help it can get’: sport hunts F1-style Netflix uplift | Andy Bull](https://www.theguardian.com/sport/2024/jan/22/rugby-union-netflix-series-six-nations-full-contact-f1)
+- [Cardiovascular disease: early deaths in England at highest rate in more than a decade](https://www.theguardian.com/society/2024/jan/22/cardiovascular-disease-early-deaths-in-england-at-highest-rate-in-more-than-a-decade)
+- [Lions beat Buccaneers to reach first NFC championship game in 32 years](https://www.theguardian.com/sport/2024/jan/21/lions-beat-buccaneers-to-reach-first-nfc-championship-game-in-32-years)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

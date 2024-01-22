@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Oblique wings could make supersonic flight more efficient](https://www.youtube.com/watch?v=C_dNt4UEVZQ)
-- [The wildest cosmic mystery the James Webb Space Telescope has uncovered](https://www.vox.com/science/24040534/jwst-galaxies-big-bright-mystery-black-holes-cosmology)
-- [Execa: Process Execution for Humans in Node.js](https://github.com/sindresorhus/execa)
-- [eBay Still &lpar;Secretly&rpar; Supports Dorking](https://www.autodidacts.io/ebay-still-supports-dorking-with-and-or-not-logical-operators-boolean-expressions/)
-- [The Murky Campaign to Discredit Lab-Grown Meat](https://www.wired.co.uk/article/cultivated-meat-pr-cew-center-environment-welfare-berman#intcid=_wired-uk-right-rail_5cf93ad7-2388-464e-bbb4-edb10ec5a3f8_popular4-1_fallback_cral-top2-2)
-- [Creating a new, sustainable plastic using physics](https://www.wur.nl/en/newsarticle/creating-a-new-sustainable-plastic-using-physics.htm)
-- [Video Games Helped Ukrainian Bradley Gunner Win Duel with Russian T-90M Tank](https://www.thedrive.com/the-war-zone/video-games-helped-ukrainian-bradley-gunner-win-duel-with-russian-t-90m-tank)
-- [Vector Search with SQL](https://neuml.github.io/txtai/embeddings/query/#natural-language-queries)
-- [Tell HN: Stop using email as the unique ID when using &quot;Sign in with GitHub&quot;](https://news.ycombinator.com/item?id=39074695)
-- [Misconceptions on Top of Misconceptions](http://www.os2museum.com/wp/misconceptions-on-top-of-misconceptions/)
+- [Wikipedia: Vital Articles](https://en.wikipedia.org/wiki/Wikipedia:Vital_articles)
+- [The document that I wished existed when I first tried access using OAuth 2](https://metacpan.org/dist/LWP-Authen-OAuth2/view/lib/LWP/Authen/OAuth2/Overview.pod)
+- [EU Commission seeks feedback over Apple Pay&#39;s commitments](https://www.euractiv.com/section/competition/news/eu-commission-seeks-feedback-over-apple-pays-commitments/)
+- [Ask HN: How many bookmarks do you have?](https://news.ycombinator.com/item?id=39085274)
+- [The Prestige Recession](https://ystrickler.com/2024/01/19/prestige-recession/)
+- [Ozempic Is Making People Buy Less Food, Walmart Says](https://www.bloomberg.com/news/articles/2023-10-04/walmart-says-ozempic-weight-loss-drugs-causing-slight-pullback-by-shoppers)
+- [Teach /&amp; Partner with Me to Build an App POC and Prep for YC?](https://www.pre.vu)
+- [Why Zig When There Is Already C++, D, and Rust?](https://ziglang.org/learn/why_zig_rust_d_cpp/)
+- [You don&#39;t want an intelligent assistant; Protocols, Not Platforms](https://newsletter.danhon.com/archive/s17e04-you-dont-want-an-intelligent-assistant/)
+- [Web Browser Engineering](https://browser.engineering/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

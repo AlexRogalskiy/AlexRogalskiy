@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Ozempic Is Making People Buy Less Food, Walmart Says](https://www.bloomberg.com/news/articles/2023-10-04/walmart-says-ozempic-weight-loss-drugs-causing-slight-pullback-by-shoppers)
-- [US home sales see worst year since 1995](https://www.bbc.com/news/business-68035274)
-- [Helium is essential but nonrenewable and difficult to recycle](https://theconversation.com/helium-is-an-essential-material-for-research-and-medical-equipment-but-its-nonrenewable-and-difficult-to-recycle-218668)
-- [Scientists discovered perfectly preserved dinosaur embryo inside fossilized egg](https://www.unilad.com/news/world-news/dinosaur-egg-embryo-fossil-213524-20231107)
-- [Beverly Clock](https://en.wikipedia.org/wiki/Beverly_Clock)
-- [Office politics is not optional: learn to play the game or you&#39;ll be its victim](https://www.ft.com/content/a84327c6-f939-480c-925d-19d3f41062bf)
-- [AI Art Is the New Stock Image](https://ia.net/topics/ai-art-is-the-new-stock-image)
-- [Scientists tame chaotic protein fueling 75% of cancers](https://phys.org/news/2024-01-scientists-chaotic-protein-fueling-cancers.html)
-- [Flipper Zero: Multi-Tool Device for Geeks](https://flipperzero.one)
-- [NASA unlocks $1B canister of asteroid dust](https://www.theguardian.com/science/2024/jan/21/nasa-bennu-asteroid-dust-rock-samples-johnson-space-center)
+- [Scientists report fundamental asymmetry between heating and cooling](https://phys.org/news/2024-01-efficiency-asymmetry-scientists-fundamental-cooling.html)
+- [Apple Maps wrongly lists restaurant permanently closed, costing owner thousands](https://www.abc.net.au/news/2024-01-23/apple-maps-error-costs-local-business-pums-kitchen/103364008)
+- [Show HN: Sendenv, a CLI tool to share environment variables](https://github.com/viraniaman94/sendenv)
+- [SaberVM](https://ryanbrewer.dev/posts/announcing-svm.html)
+- [Self-contained Linux applications with lone Lisp](https://www.matheusmoreira.com/articles/self-contained-lone-lisp-applications)
+- [ML Engineering Online Book](https://github.com/stas00/ml-engineering)
+- [FTC bans TurboTax from advertising &#39;free&#39; services, calls deceptive advertising](https://www.cnn.com/2024/01/22/business/ftc-turbotax-free-services/index.html)
+- [Czech republic sets IPv4 end date](https://konecipv4.cz/en/)
+- [Changes at Riot Games and the road ahead](https://www.riotgames.com/en/news/2024-player-update)
+- [Winlator: Android app that lets you to run Windows apps with Wine](https://winlator.org/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Middle East crisis live: Netanyahu rejects hostage deal that would leave ‘Hamas intact’; US declares two missing navy Seals dead](https://www.theguardian.com/world/live/2024/jan/21/middle-east-crisis-live-netanyahu-defies-biden-on-palestinian-statehood-us-personnel-injured-in-attack-on-iraqi-base)
-- [Russia-Ukraine war at a glance: what we know on day 698](https://www.theguardian.com/world/2024/jan/22/russia-ukraine-war-at-a-glance-what-we-know-on-day-698)
-- [‘Burn, beetle, burn’: South Dakotans torch an effigy of destructive bug](https://www.theguardian.com/us-news/2024/jan/21/custer-south-dakota-burning-beetle-fest-event-pageant-park)
-- [Homeowners who sold last year banked £102,000 profit on average, data shows](https://www.theguardian.com/money/2024/jan/22/homeowners-england-wales-sold-last-year-banked-100k-profit-average)
-- [Rise in measles cases prompts vaccination campaign in England](https://www.theguardian.com/society/2024/jan/22/rise-in-measles-cases-prompts-vaccination-campaign-in-england)
-- [Cost of breast cancer to UK economy could reach £3.6bn by 2034, study shows](https://www.theguardian.com/society/2024/jan/22/cost-of-breast-cancer-uk-economy-study)
-- [BBC must ‘adapt or risk losing trust’, says midterm review](https://www.theguardian.com/media/2024/jan/22/bbc-must-adapt-or-risk-losing-trust-says-midterm-review)
-- [‘Rugby needs all the help it can get’: sport hunts F1-style Netflix uplift | Andy Bull](https://www.theguardian.com/sport/2024/jan/22/rugby-union-netflix-series-six-nations-full-contact-f1)
-- [Cardiovascular disease: early deaths in England at highest rate in more than a decade](https://www.theguardian.com/society/2024/jan/22/cardiovascular-disease-early-deaths-in-england-at-highest-rate-in-more-than-a-decade)
-- [Lions beat Buccaneers to reach first NFC championship game in 32 years](https://www.theguardian.com/sport/2024/jan/21/lions-beat-buccaneers-to-reach-first-nfc-championship-game-in-32-years)
+- [Djokovic v Fritz, Kostyuk v Gauff: Australian Open – live](https://www.theguardian.com/sport/live/2024/jan/23/australian-open-2024-live-updates-djokovic-vs-fritz-kostyuk-vs-gauff-quarter-finals-results-scores-start-time-melbourne-park-aus-open)
+- [Jailed Kremlin critic Alexei Navalny says prison plays pro-Putin pop song every morning](https://www.theguardian.com/world/2024/jan/23/russia-alexei-navalny-jailed-kremlin-putin-critic-i-am-russian-shaman-song-played)
+- [US calls on Israel to protect staff and patients as military reportedly storms Gaza hospital](https://www.theguardian.com/world/2024/jan/23/us-calls-on-israel-to-protect-staff-and-patients-as-military-reportedly-storms-gaza-hospital)
+- [Russia-Ukraine war at a glance: what we know on day 699](https://www.theguardian.com/world/2024/jan/23/russia-ukraine-war-at-a-glance-what-we-know-on-day-699)
+- [US appeals court revives $10bn lawsuit by Mexico against American gunmakers](https://www.theguardian.com/us-news/2024/jan/22/mexican-government-lawsuit-against-american-gun-manufacturers)
+- [Escaping poverty has become much harder in past two decades, report says](https://www.theguardian.com/society/2024/jan/23/escaping-poverty-joseph-rowntree-foundation)
+- [Non-surgical gastric balloon available on NHS for first time](https://www.theguardian.com/society/2024/jan/23/non-surgical-gastric-balloon-available-on-nhs-for-first-time)
+- [One energy drink a month increases risk of disturbed sleep, study finds](https://www.theguardian.com/society/2024/jan/22/one-energy-drink-month-increases-risk-disturbed-sleep-study)
+- [I was getting older and feeling clueless when a quote about the ‘afternoon of life’ inspired my reinvention | Vicki Milliken](https://www.theguardian.com/lifeandstyle/2024/jan/23/i-was-getting-older-and-feeling-clueless-when-a-quote-about-the-afternoon-of-life-inspired-my-reinvention)
+- [Open University academic wins tribunal case over gender-critical views](https://www.theguardian.com/world/2024/jan/22/open-university-academic-wins-tribunal-case-over-gender-critical-views)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

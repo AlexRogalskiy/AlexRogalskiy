@@ -355,6 +355,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Apple Vision Pro pre-sales run hot, but demand might be limited](https://www.computerworld.com/article/3712421/apple-vision-pro-pre-sales-run-hot-but-demand-might-be-limited.html#tk.rss_all)
+- [Vision Pro briefing: Apple’s new billion-dollar business](https://www.computerworld.com/article/3712142/vision-pro-briefing-apples-new-billion-dollar-business.html#tk.rss_all)
+- [7 ways to use Microsoft Copilot right](https://www.computerworld.com/article/3712249/7-ways-to-use-microsoft-copilot-right.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [Tech layoffs in 2024: A timeline](https://www.computerworld.com/article/3685936/tech-layoffs-in-2023-a-timeline.html#tk.rss_all)
 - [Yes, you can officially run Windows on Apple Silicon Macs](https://www.computerworld.com/article/3712366/yes-you-can-officially-run-windows-on-apple-silicon-macs.html#tk.rss_all)
@@ -362,9 +365,6 @@
 - [The most significant number from Samsung&#39;s Galaxy S24 announcement](https://www.computerworld.com/article/3712136/samsung-galaxy-s24.html#tk.rss_all)
 - [TSMC delays second Arizona chip foundry](https://www.computerworld.com/article/3712364/tsmc-delays-second-arizona-chip-foundry.html#tk.rss_all)
 - [Intel finds ally in EU antitrust case](https://www.computerworld.com/article/3712362/intel-finds-ally-in-eu-antitrust-case.html#tk.rss_all)
-- [BBEdit shows how to add generative AI to Apple platforms](https://www.computerworld.com/article/3712264/bbedit-shows-how-to-add-generative-ai-to-apple-platforms.html#tk.rss_all)
-- [New certification will determine whether a generative AI system is ‘Fairly Trained’](https://www.infoworld.com/article/3712226/new-certification-will-determine-whether-a-generative-ai-system-is-fairly-trained.html#tk.rss_all)
-- [Google CEO warns of more job cuts as the company preps for ‘ambitious goals’](https://www.computerworld.com/article/3712225/google-ceo-warns-of-more-job-cuts-as-the-company-preps-for-ambitious-goals.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

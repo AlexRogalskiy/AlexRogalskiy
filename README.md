@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Wikipedia: Vital Articles](https://en.wikipedia.org/wiki/Wikipedia:Vital_articles)
-- [The document that I wished existed when I first tried access using OAuth 2](https://metacpan.org/dist/LWP-Authen-OAuth2/view/lib/LWP/Authen/OAuth2/Overview.pod)
-- [EU Commission seeks feedback over Apple Pay&#39;s commitments](https://www.euractiv.com/section/competition/news/eu-commission-seeks-feedback-over-apple-pays-commitments/)
-- [Ask HN: How many bookmarks do you have?](https://news.ycombinator.com/item?id=39085274)
-- [The Prestige Recession](https://ystrickler.com/2024/01/19/prestige-recession/)
-- [Ozempic Is Making People Buy Less Food, Walmart Says](https://www.bloomberg.com/news/articles/2023-10-04/walmart-says-ozempic-weight-loss-drugs-causing-slight-pullback-by-shoppers)
-- [Teach /&amp; Partner with Me to Build an App POC and Prep for YC?](https://www.pre.vu)
-- [Why Zig When There Is Already C++, D, and Rust?](https://ziglang.org/learn/why_zig_rust_d_cpp/)
-- [You don&#39;t want an intelligent assistant; Protocols, Not Platforms](https://newsletter.danhon.com/archive/s17e04-you-dont-want-an-intelligent-assistant/)
-- [Web Browser Engineering](https://browser.engineering/)
+- [Avatars, robots and AI: Japan turns to innovation to tackle labour crisis](https://www.ft.com/content/ad850ad2-6752-4ca7-99f6-4b947d0b741e)
+- [Why you shouldn&#39;t always negotiate a job offer](https://bloomberry.com/why-you-shouldnt-always-negotiate-a-job-offer-a-cautionary-tale/)
+- [Greenland is losing 30M tonnes of ice an hour](https://www.theguardian.com/environment/2024/jan/17/greenland-losing-30m-tonnes-of-ice-an-hour-study-reveals)
+- [Exiled by high rents: A growing number of people getting priced out of Istanbul](https://turkeyrecap.substack.com/p/exiled-by-high-rents-a-growing-number)
+- [The reasons medieval people slept in cupboards](https://www.bbc.com/future/article/20240122-the-strange-reasons-medieval-people-slept-in-cupboards)
+- [F3d v2.3.0 Released – Fast and minimalist 3D viewer](https://github.com/f3d-app/f3d)
+- [Arno A. Penzias, 90, Dies; Nobel Physicist Confirmed Big Bang Theory](https://www.nytimes.com/2024/01/22/science/space/arno-a-penzias-dead.html)
+- [Lean in 2024](https://xenaproject.wordpress.com/2024/01/20/lean-in-2024/)
+- [Show HN: 1M Austrian LandCover Model](https://turmfalke.httpd.app)
+- [Show HN: Seq2seqdistill – encoder-decoder distillation package](https://pypi.org/project/seq2seqdistill/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

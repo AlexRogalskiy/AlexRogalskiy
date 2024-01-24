@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Avatars, robots and AI: Japan turns to innovation to tackle labour crisis](https://www.ft.com/content/ad850ad2-6752-4ca7-99f6-4b947d0b741e)
-- [Why you shouldn&#39;t always negotiate a job offer](https://bloomberry.com/why-you-shouldnt-always-negotiate-a-job-offer-a-cautionary-tale/)
-- [Greenland is losing 30M tonnes of ice an hour](https://www.theguardian.com/environment/2024/jan/17/greenland-losing-30m-tonnes-of-ice-an-hour-study-reveals)
-- [Exiled by high rents: A growing number of people getting priced out of Istanbul](https://turkeyrecap.substack.com/p/exiled-by-high-rents-a-growing-number)
-- [The reasons medieval people slept in cupboards](https://www.bbc.com/future/article/20240122-the-strange-reasons-medieval-people-slept-in-cupboards)
-- [F3d v2.3.0 Released – Fast and minimalist 3D viewer](https://github.com/f3d-app/f3d)
-- [Arno A. Penzias, 90, Dies; Nobel Physicist Confirmed Big Bang Theory](https://www.nytimes.com/2024/01/22/science/space/arno-a-penzias-dead.html)
-- [Lean in 2024](https://xenaproject.wordpress.com/2024/01/20/lean-in-2024/)
-- [Show HN: 1M Austrian LandCover Model](https://turmfalke.httpd.app)
-- [Show HN: Seq2seqdistill – encoder-decoder distillation package](https://pypi.org/project/seq2seqdistill/)
+- [Why not use SSD space as RAM?](https://superuser.com/questions/617864/why-not-use-ssd-space-as-ram)
+- [Show HN: HackermanAI Waitlist Is Open](https://hackerman.ai/)
+- [Military fears over Playstation 2 &lpar;2000&rpar;](http://news.bbc.co.uk/2/hi/asia-pacific/716237.stm)
+- [Keynote Speech by Executive Vice-President Šefčovič](https://ec.europa.eu/commission/presscorner/detail/en/SPEECH_24_377)
+- [The Town Without Television: The last remaining Canadian town without TV](https://www.stuartmcmillen.com/comic/town-without-television-1-notel/)
+- [Los Angeles Times to lay off 20% of newsroom](https://abcnews.go.com/US/wireStory/los-angeles-times-lay-off-fourth-newsroom-staff-106608883)
+- [DIY 5k Apple Studio Display &lpar;Monitor&rpar; [video]](https://www.youtube.com/watch?v=TRxAxbHYZPc)
+- [Equality Under the Dharma](https://isonomiaquarterly.com/archive/volume-1-issue-3/equality-under-the-dharma-tada-tokan-and-intimations-of-a-higher-order-federalistic-isonomia/)
+- [In 2024, the Doomsday Clock remains at 90 seconds to midnight](https://thebulletin.org/2024/01/press-release-doomsday-clock-remains-at-90-seconds-to-midnight/)
+- [Coding as Another Language [pdf]](http://oped.educacion.uc.cl/website/images/sitio/formacion/estudios/marcos/pensamiento%20computacional/Bers_2019_Coding_As_Another_Language.pdf)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

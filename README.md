@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Djokovic v Fritz, Kostyuk v Gauff: Australian Open – live](https://www.theguardian.com/sport/live/2024/jan/23/australian-open-2024-live-updates-djokovic-vs-fritz-kostyuk-vs-gauff-quarter-finals-results-scores-start-time-melbourne-park-aus-open)
-- [Jailed Kremlin critic Alexei Navalny says prison plays pro-Putin pop song every morning](https://www.theguardian.com/world/2024/jan/23/russia-alexei-navalny-jailed-kremlin-putin-critic-i-am-russian-shaman-song-played)
-- [US calls on Israel to protect staff and patients as military reportedly storms Gaza hospital](https://www.theguardian.com/world/2024/jan/23/us-calls-on-israel-to-protect-staff-and-patients-as-military-reportedly-storms-gaza-hospital)
-- [Russia-Ukraine war at a glance: what we know on day 699](https://www.theguardian.com/world/2024/jan/23/russia-ukraine-war-at-a-glance-what-we-know-on-day-699)
-- [US appeals court revives $10bn lawsuit by Mexico against American gunmakers](https://www.theguardian.com/us-news/2024/jan/22/mexican-government-lawsuit-against-american-gun-manufacturers)
-- [Escaping poverty has become much harder in past two decades, report says](https://www.theguardian.com/society/2024/jan/23/escaping-poverty-joseph-rowntree-foundation)
-- [Non-surgical gastric balloon available on NHS for first time](https://www.theguardian.com/society/2024/jan/23/non-surgical-gastric-balloon-available-on-nhs-for-first-time)
-- [One energy drink a month increases risk of disturbed sleep, study finds](https://www.theguardian.com/society/2024/jan/22/one-energy-drink-month-increases-risk-disturbed-sleep-study)
-- [I was getting older and feeling clueless when a quote about the ‘afternoon of life’ inspired my reinvention | Vicki Milliken](https://www.theguardian.com/lifeandstyle/2024/jan/23/i-was-getting-older-and-feeling-clueless-when-a-quote-about-the-afternoon-of-life-inspired-my-reinvention)
-- [Open University academic wins tribunal case over gender-critical views](https://www.theguardian.com/world/2024/jan/22/open-university-academic-wins-tribunal-case-over-gender-critical-views)
+- [Nikki Haley vows to stay in race despite Trump’s win in New Hampshire primary – live](https://www.theguardian.com/us-news/live/2024/jan/23/new-hampshire-primary-live-donald-trump-nikki-haley-republican-vote)
+- [UN secretary general says Israel rejection of two-state solution is ‘unacceptable’ – as it happened](https://www.theguardian.com/world/live/2024/jan/22/middle-east-crisis-live-updates-news-airstrikes-houthi-missile-yemen-biden-sunak-red-sea)
+- [LA Times fires 115 journalists in ‘HR zoom webinar’ following union protests](https://www.theguardian.com/media/2024/jan/23/los-angeles-times-layoffs-journalists)
+- [18 dead after Russian missiles strike cities across Ukraine, says Zelenskiy](https://www.theguardian.com/world/2024/jan/23/civilians-killed-in-russian-missile-strikes-on-kyiv-and-kharkiv)
+- [Russia-Ukraine war at a glance: what we know on day 700](https://www.theguardian.com/world/2024/jan/24/russia-ukraine-war-at-a-glance-what-we-know-on-day-700)
+- [People awaiting ear wax removal in England face NHS ‘postcode lottery’](https://www.theguardian.com/society/2024/jan/24/people-awaiting-ear-wax-removal-in-england-face-nhs-postcode-lottery)
+- [AI will make scam emails look genuine, UK cybersecurity agency warns](https://www.theguardian.com/technology/2024/jan/24/ai-scam-emails-uk-cybersecurity-agency-phishing)
+- [Netflix’s one-size fits all approach misses the real selling point of rugby union | Andy Bull](https://www.theguardian.com/sport/2024/jan/24/netflixs-one-size-fits-all-approach-misses-the-real-selling-point-of-rugby-union)
+- [‘I’ve got no limits’: world’s fastest accountant sets sights on Olympics](https://www.theguardian.com/sport/2024/jan/24/worlds-fastest-accountant-paris-olympics-eugene-amo-dadzie-athletics)
+- [Disposable vapes ban ‘could lead to relapse in people trying to quit smoking’](https://www.theguardian.com/society/2024/jan/24/disposable-vapes-ban-e-cigarette-use-quitting-smoking-research-study)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Scientists report fundamental asymmetry between heating and cooling](https://phys.org/news/2024-01-efficiency-asymmetry-scientists-fundamental-cooling.html)
-- [Apple Maps wrongly lists restaurant permanently closed, costing owner thousands](https://www.abc.net.au/news/2024-01-23/apple-maps-error-costs-local-business-pums-kitchen/103364008)
-- [Show HN: Sendenv, a CLI tool to share environment variables](https://github.com/viraniaman94/sendenv)
-- [SaberVM](https://ryanbrewer.dev/posts/announcing-svm.html)
-- [Self-contained Linux applications with lone Lisp](https://www.matheusmoreira.com/articles/self-contained-lone-lisp-applications)
-- [ML Engineering Online Book](https://github.com/stas00/ml-engineering)
-- [FTC bans TurboTax from advertising &#39;free&#39; services, calls deceptive advertising](https://www.cnn.com/2024/01/22/business/ftc-turbotax-free-services/index.html)
-- [Czech republic sets IPv4 end date](https://konecipv4.cz/en/)
-- [Changes at Riot Games and the road ahead](https://www.riotgames.com/en/news/2024-player-update)
-- [Winlator: Android app that lets you to run Windows apps with Wine](https://winlator.org/)
+- [Farm owners bewildered after Apple Maps removes business and street from app](https://www.abc.net.au/news/2024-01-24/apple-maps-removes-farm-business-and-street-from-app-victoria/103375288)
+- [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring a Research Scientist](https://news.ycombinator.com/item?id=39112346)
+- [Creator of everynoise.com laid off from Spotify](https://everynoise.com/#updates)
+- [Google cancels contract with an AI data firm that&#39;s helped train Bard](https://www.theverge.com/2024/1/23/24048429/google-appen-cancel-contract-ai-training-bard)
+- [Appeals Court: FBI&#39;s Safe-Deposit Box Seizures Violated Fourth Amendment](https://reason.com/2024/01/23/appeals-court-fbis-safe-deposit-box-seizures-violated-fourth-amendment/)
+- [Hardware-Accelerated Similarity Metrics and Distance Functions &lpar;200x Faster&rpar;](https://github.com/ashvardanian/SimSIMD)
+- [Waterway Map](https://waterwaymap.org)
+- [Show HN: Codemodder – A new codemod library for Java and Python](https://codemodder.io/)
+- [Oxxcu, converting CO₂ into fuels, chemicals and plastics](https://www.maddyness.com/uk/2024/01/17/oxccu-converting-co₂-into-fuels-chemicals-and-plastics/)
+- [Future power systems with today&#39;s weather](https://model.energy/future/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

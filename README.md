@@ -355,6 +355,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Apple’s second-user smartphone business is booming](https://www.computerworld.com/article/3712520/apples-second-user-smartphone-business-is-booming.html#tk.rss_all)
+- [Regulators probe Microsoft’s OpenAI ties — is it only smoke, or is there fire?](https://www.computerworld.com/article/3712002/regulators-probe-microsofts-openai-ties-is-it-only-smoke-or-is-there-fire.html#tk.rss_all)
+- [AI still far more expensive than humans in most jobs: MIT study](https://www.computerworld.com/article/3712460/ai-still-far-more-expensive-than-humans-in-most-jobs-mit-study.html#tk.rss_all)
 - [Apple Vision Pro pre-sales run hot, but demand might be limited](https://www.computerworld.com/article/3712421/apple-vision-pro-pre-sales-run-hot-but-demand-might-be-limited.html#tk.rss_all)
 - [Vision Pro briefing: Apple’s new billion-dollar business](https://www.computerworld.com/article/3712142/vision-pro-briefing-apples-new-billion-dollar-business.html#tk.rss_all)
 - [7 ways to use Microsoft Copilot right](https://www.computerworld.com/article/3712249/7-ways-to-use-microsoft-copilot-right.html#tk.rss_all)
@@ -362,9 +365,6 @@
 - [Tech layoffs in 2024: A timeline](https://www.computerworld.com/article/3685936/tech-layoffs-in-2023-a-timeline.html#tk.rss_all)
 - [Yes, you can officially run Windows on Apple Silicon Macs](https://www.computerworld.com/article/3712366/yes-you-can-officially-run-windows-on-apple-silicon-macs.html#tk.rss_all)
 - [10 must-have security tips for digital nomads](https://www.computerworld.com/article/3712126/10-must-have-security-tips-for-digital-nomads.html#tk.rss_all)
-- [The most significant number from Samsung&#39;s Galaxy S24 announcement](https://www.computerworld.com/article/3712136/samsung-galaxy-s24.html#tk.rss_all)
-- [TSMC delays second Arizona chip foundry](https://www.computerworld.com/article/3712364/tsmc-delays-second-arizona-chip-foundry.html#tk.rss_all)
-- [Intel finds ally in EU antitrust case](https://www.computerworld.com/article/3712362/intel-finds-ally-in-eu-antitrust-case.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

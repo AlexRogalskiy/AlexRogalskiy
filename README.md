@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Nikki Haley vows to stay in race despite Trump’s win in New Hampshire primary – live](https://www.theguardian.com/us-news/live/2024/jan/23/new-hampshire-primary-live-donald-trump-nikki-haley-republican-vote)
-- [UN secretary general says Israel rejection of two-state solution is ‘unacceptable’ – as it happened](https://www.theguardian.com/world/live/2024/jan/22/middle-east-crisis-live-updates-news-airstrikes-houthi-missile-yemen-biden-sunak-red-sea)
-- [LA Times fires 115 journalists in ‘HR zoom webinar’ following union protests](https://www.theguardian.com/media/2024/jan/23/los-angeles-times-layoffs-journalists)
-- [18 dead after Russian missiles strike cities across Ukraine, says Zelenskiy](https://www.theguardian.com/world/2024/jan/23/civilians-killed-in-russian-missile-strikes-on-kyiv-and-kharkiv)
-- [Russia-Ukraine war at a glance: what we know on day 700](https://www.theguardian.com/world/2024/jan/24/russia-ukraine-war-at-a-glance-what-we-know-on-day-700)
-- [People awaiting ear wax removal in England face NHS ‘postcode lottery’](https://www.theguardian.com/society/2024/jan/24/people-awaiting-ear-wax-removal-in-england-face-nhs-postcode-lottery)
-- [AI will make scam emails look genuine, UK cybersecurity agency warns](https://www.theguardian.com/technology/2024/jan/24/ai-scam-emails-uk-cybersecurity-agency-phishing)
-- [Netflix’s one-size fits all approach misses the real selling point of rugby union | Andy Bull](https://www.theguardian.com/sport/2024/jan/24/netflixs-one-size-fits-all-approach-misses-the-real-selling-point-of-rugby-union)
-- [‘I’ve got no limits’: world’s fastest accountant sets sights on Olympics](https://www.theguardian.com/sport/2024/jan/24/worlds-fastest-accountant-paris-olympics-eugene-amo-dadzie-athletics)
-- [Disposable vapes ban ‘could lead to relapse in people trying to quit smoking’](https://www.theguardian.com/society/2024/jan/24/disposable-vapes-ban-e-cigarette-use-quitting-smoking-research-study)
+- [Tesla delivers underwhelming earnings despite Cybertruck launch and high vehicle deliveries](https://www.theguardian.com/technology/2024/jan/24/tesla-earnings-q4-2023)
+- [Underpaid and overstretched: Essex yoga instructors ballot to strike over pay](https://www.theguardian.com/lifeandstyle/2024/jan/24/underpaid-and-overstretched-essex-yoga-instructors-ballot-to-strike-over-pay)
+- [Cold-water swimming eases menopause and menstrual symptoms, study finds](https://www.theguardian.com/society/2024/jan/25/cold-water-swimming-eases-menopause-and-menstrual-symptoms-study-finds)
+- [Real Madrid leapfrog Manchester City to top Deloitte Football Money League](https://www.theguardian.com/football/2024/jan/25/real-madrid-leapfrog-manchester-city-to-top-deloitte-football-money-league)
+- [‘Make sure it’s in season and at its best’: how to cook and eat like you’re on holiday in Tuscany](https://www.theguardian.com/lifeandstyle/2024/jan/25/tomato-soup-recipe-best-gourmet-tuscany-cooking-tips-advice-julia-busuttil-nishimura)
+- [Former adviser to Rishi Sunak working with Tory rebels trying to oust him](https://www.theguardian.com/politics/2024/jan/24/former-adviser-to-rishi-sunak-working-with-tory-rebels-trying-to-oust-him)
+- [Pep Guardiola: Chasing Perfection review – might have been better if he was actually interviewed](https://www.theguardian.com/tv-and-radio/2024/jan/24/pep-guardiola-chasing-perfection-review-might-have-been-better-if-he-was-actually-interviewed)
+- [Afcon roundup: Morocco win keeps host Ivory Coast alive as Tunisia exit](https://www.theguardian.com/football/2024/jan/24/afcon-roundup-tunisia-limp-out)
+- [Tim Scott’s behaviour around Trump is ‘humiliating’, says the Rev Al Sharpton](https://www.theguardian.com/us-news/2024/jan/24/tim-scott-trump-humiliating-rev-al-sharpton)
+- [Ohio senate overrides governor and blocks trans youth from receiving care](https://www.theguardian.com/us-news/2024/jan/24/ohio-senate-trans-youth-health-care-sports)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

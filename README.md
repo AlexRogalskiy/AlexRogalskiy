@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Why not use SSD space as RAM?](https://superuser.com/questions/617864/why-not-use-ssd-space-as-ram)
-- [Show HN: HackermanAI Waitlist Is Open](https://hackerman.ai/)
-- [Military fears over Playstation 2 &lpar;2000&rpar;](http://news.bbc.co.uk/2/hi/asia-pacific/716237.stm)
-- [Keynote Speech by Executive Vice-President Šefčovič](https://ec.europa.eu/commission/presscorner/detail/en/SPEECH_24_377)
-- [The Town Without Television: The last remaining Canadian town without TV](https://www.stuartmcmillen.com/comic/town-without-television-1-notel/)
-- [Los Angeles Times to lay off 20% of newsroom](https://abcnews.go.com/US/wireStory/los-angeles-times-lay-off-fourth-newsroom-staff-106608883)
-- [DIY 5k Apple Studio Display &lpar;Monitor&rpar; [video]](https://www.youtube.com/watch?v=TRxAxbHYZPc)
-- [Equality Under the Dharma](https://isonomiaquarterly.com/archive/volume-1-issue-3/equality-under-the-dharma-tada-tokan-and-intimations-of-a-higher-order-federalistic-isonomia/)
-- [In 2024, the Doomsday Clock remains at 90 seconds to midnight](https://thebulletin.org/2024/01/press-release-doomsday-clock-remains-at-90-seconds-to-midnight/)
-- [Coding as Another Language [pdf]](http://oped.educacion.uc.cl/website/images/sitio/formacion/estudios/marcos/pensamiento%20computacional/Bers_2019_Coding_As_Another_Language.pdf)
+- [A Leaked Memo from Google CEO Sundar Pichai Comes Amidst Employee Discontent](https://www.inc.com/nick-hobson/a-leaked-memo-from-google-ceo-sundar-pichai-comes-amidst-employee-discontent-no-ceo-wants-this-for-their-company.html)
+- [Living New Deal – Mapping New Deal Sites Across America](https://livingnewdeal.org/map/)
+- [Over 5,300 Gitlab servers exposed to zero-click account takeover attacks](https://www.bleepingcomputer.com/news/security/over-5-300-gitlab-servers-exposed-to-zero-click-account-takeover-attacks/)
+- [Fontist: Cross-platform font installer for Windows, Linux and macOS](https://www.fontist.org/)
+- [Leading US particle physics lab faces uncertain future](https://www.nature.com/articles/d41586-024-00150-4)
+- [Ordoliberalism: Germany Postwar Economic Doctrine](https://en.wikipedia.org/wiki/Ordoliberalism)
+- [The Case Against Ecto.Multi](https://tomkonidas.com/repo-transact/)
+- [Modeling the Mythical Man-Month](http://perfdynamics.blogspot.com/2007/11/modeling-mythical-man-month.html)
+- [JetBrains Fleet](https://www.jetbrains.com/fleet/)
+- [Saudi Arabia opens its first liquor store in over 70 years](https://www.scmp.com/news/world/middle-east/article/3249672/saudi-arabia-opens-its-first-liquor-store-over-70-years)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

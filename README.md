@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Farm owners bewildered after Apple Maps removes business and street from app](https://www.abc.net.au/news/2024-01-24/apple-maps-removes-farm-business-and-street-from-app-victoria/103375288)
-- [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring a Research Scientist](https://news.ycombinator.com/item?id=39112346)
-- [Creator of everynoise.com laid off from Spotify](https://everynoise.com/#updates)
-- [Google cancels contract with an AI data firm that&#39;s helped train Bard](https://www.theverge.com/2024/1/23/24048429/google-appen-cancel-contract-ai-training-bard)
-- [Appeals Court: FBI&#39;s Safe-Deposit Box Seizures Violated Fourth Amendment](https://reason.com/2024/01/23/appeals-court-fbis-safe-deposit-box-seizures-violated-fourth-amendment/)
-- [Hardware-Accelerated Similarity Metrics and Distance Functions &lpar;200x Faster&rpar;](https://github.com/ashvardanian/SimSIMD)
-- [Waterway Map](https://waterwaymap.org)
-- [Show HN: Codemodder – A new codemod library for Java and Python](https://codemodder.io/)
-- [Oxxcu, converting CO₂ into fuels, chemicals and plastics](https://www.maddyness.com/uk/2024/01/17/oxccu-converting-co₂-into-fuels-chemicals-and-plastics/)
-- [Future power systems with today&#39;s weather](https://model.energy/future/)
+- [Asbestos in drinking water: An overlooked health risk?](https://www.bbc.com/future/article/20240124-asbestos-in-drinking-water-an-overlooked-health-risk)
+- [Jerry &lpar;YC S17&rpar; Is Hiring Eng, PM, Data, Cos, Ops etc. &lpar;Remote&rpar;](https://getjerry.com/careers)
+- [Show HN: Integer Map Data Structure](https://github.com/billziss-gh/imap)
+- [A minimal-part-count way to connect an SD card to a 68K](http://dmitry.gr/?r=05.Projects&proj=34.%20springSD)
+- [Researchers find signs of intelligence among jumping spiders](https://knowablemagazine.org/content/article/mind/2021/are-spiders-intelligent)
+- [Build your own drone tracking radar [video]](https://www.youtube.com/watch?v=igrN_wd_g74)
+- [Tech Trend: Shanzhai &lpar;2009&rpar;](https://www.bunniestudios.com/blog/?p=284)
+- [Lightweight JavaScript Framework Review &lpar;For Django Developers&rpar;](https://saashammer.com/blog/lightweight-javascript-framework-review-for-django-developers/)
+- [On &quot;Owning&quot; Software](https://avdi.codes/on-owning-software/)
+- [Abacus: Mystery of the Bead &lpar;2004&rpar;](http://totton.idirect.com/abacus/pages.htm)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

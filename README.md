@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
-- [Apple’s second-user smartphone business is booming](https://www.computerworld.com/article/3712520/apples-second-user-smartphone-business-is-booming.html#tk.rss_all)
-- [Regulators probe Microsoft’s OpenAI ties — is it only smoke, or is there fire?](https://www.computerworld.com/article/3712002/regulators-probe-microsofts-openai-ties-is-it-only-smoke-or-is-there-fire.html#tk.rss_all)
-- [AI still far more expensive than humans in most jobs: MIT study](https://www.computerworld.com/article/3712460/ai-still-far-more-expensive-than-humans-in-most-jobs-mit-study.html#tk.rss_all)
-- [Apple Vision Pro pre-sales run hot, but demand might be limited](https://www.computerworld.com/article/3712421/apple-vision-pro-pre-sales-run-hot-but-demand-might-be-limited.html#tk.rss_all)
-- [Vision Pro briefing: Apple’s new billion-dollar business](https://www.computerworld.com/article/3712142/vision-pro-briefing-apples-new-billion-dollar-business.html#tk.rss_all)
-- [7 ways to use Microsoft Copilot right](https://www.computerworld.com/article/3712249/7-ways-to-use-microsoft-copilot-right.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [Tech layoffs in 2024: A timeline](https://www.computerworld.com/article/3685936/tech-layoffs-in-2023-a-timeline.html#tk.rss_all)
-- [Yes, you can officially run Windows on Apple Silicon Macs](https://www.computerworld.com/article/3712366/yes-you-can-officially-run-windows-on-apple-silicon-macs.html#tk.rss_all)
-- [10 must-have security tips for digital nomads](https://www.computerworld.com/article/3712126/10-must-have-security-tips-for-digital-nomads.html#tk.rss_all)
+- [Hello, Apple has joined the AI arms race](https://www.computerworld.com/article/3712600/hello-apple-has-joined-the-ai-arms-race.html#tk.rss_all)
+- [National AI Research Resource pilot program to ‘democratize’ generative AI](https://www.computerworld.com/article/3712580/national-ai-research-resource-pilot-program-to-democratize-generative-ai.html#tk.rss_all)
+- [Microsoft launches Mesh 3D meetings for Teams](https://www.computerworld.com/article/3712562/microsoft-launches-mesh-3d-meetings-for-teams.html#tk.rss_all)
+- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
+- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
+- [Pegasystems launches generative AI-based assistant for enterprises](https://www.computerworld.com/article/3712561/pegasystems-launches-generative-ai-based-assistant-for-enterprises.html#tk.rss_all)
+- [Microsoft Bing, Edge may be exempted from EU’s Digital Market Act: Report](https://www.computerworld.com/article/3712560/microsoft-bing-edge-may-be-exempted-from-eu-s-digital-market-act-report.html#tk.rss_all)
+- [How to access Google&#39;s Circle to Search smartness on any Android phone today](https://www.computerworld.com/article/3712442/google-circle-to-search-android.html#tk.rss_all)
+- [7 ways to leverage genAI for a better career](https://www.computerworld.com/article/3712401/7-ways-to-leverage-genai-for-a-better-career.html#tk.rss_all)
+- [Grape expectations: How genAI reshaped a wine company’s customer service team](https://www.computerworld.com/article/3712252/grape-expectations-how-genai-reshaped-a-wine-company-s-customer-service-team.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

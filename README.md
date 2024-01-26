@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [A Leaked Memo from Google CEO Sundar Pichai Comes Amidst Employee Discontent](https://www.inc.com/nick-hobson/a-leaked-memo-from-google-ceo-sundar-pichai-comes-amidst-employee-discontent-no-ceo-wants-this-for-their-company.html)
-- [Living New Deal – Mapping New Deal Sites Across America](https://livingnewdeal.org/map/)
-- [Over 5,300 Gitlab servers exposed to zero-click account takeover attacks](https://www.bleepingcomputer.com/news/security/over-5-300-gitlab-servers-exposed-to-zero-click-account-takeover-attacks/)
-- [Fontist: Cross-platform font installer for Windows, Linux and macOS](https://www.fontist.org/)
-- [Leading US particle physics lab faces uncertain future](https://www.nature.com/articles/d41586-024-00150-4)
-- [Ordoliberalism: Germany Postwar Economic Doctrine](https://en.wikipedia.org/wiki/Ordoliberalism)
-- [The Case Against Ecto.Multi](https://tomkonidas.com/repo-transact/)
-- [Modeling the Mythical Man-Month](http://perfdynamics.blogspot.com/2007/11/modeling-mythical-man-month.html)
-- [JetBrains Fleet](https://www.jetbrains.com/fleet/)
-- [Saudi Arabia opens its first liquor store in over 70 years](https://www.scmp.com/news/world/middle-east/article/3249672/saudi-arabia-opens-its-first-liquor-store-over-70-years)
+- [The Sexualized Messages Dress Codes Are Sending to Students](https://pudding.cool/2019/02/dress-code-sexualization/)
+- [Skulls reveal scale of human sacrifice in Aztec capital](https://www.science.org/content/article/feeding-gods-hundreds-skulls-reveal-massive-scale-human-sacrifice-aztec-capital)
+- [Line-Item Vetos in Wiscoson](https://en.wikipedia.org/wiki/Line-item_veto_in_the_United_States)
+- [Show HN: Calendar2024, yet Another Calendar Website](https://calendar2024.org/)
+- [Waiting for Something](https://blog.aawadia.dev/2023/12/13/waiting-for-something/)
+- [Research proposes a self-powered movable seawall for tsunami protection](https://techxplore.com/news/2024-01-powered-movable-seawall-tsunami-emergency.html)
+- [Scientists announce breakthrough in hypersonic heat shield](https://techxplore.com/news/2024-01-scientists-breakthrough-hypersonic-shield.html)
+- [Has there ever been an attempt to create a high/low level language pair?](https://old.reddit.com/r/ProgrammingLanguages/comments/19f9feo/has_anyone_attempted_to_create_a_pair_of/)
+- [Unraveling the JPEG](https://parametric.press/issue-01/unraveling-the-jpeg/)
+- [GDP, Economic Data Show US Beating China in Cold War II](https://www.bloomberg.com/opinion/articles/2024-01-25/gdp-economic-data-show-us-beating-china-in-cold-war-ii)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

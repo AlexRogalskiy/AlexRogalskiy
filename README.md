@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Tesla delivers underwhelming earnings despite Cybertruck launch and high vehicle deliveries](https://www.theguardian.com/technology/2024/jan/24/tesla-earnings-q4-2023)
-- [Underpaid and overstretched: Essex yoga instructors ballot to strike over pay](https://www.theguardian.com/lifeandstyle/2024/jan/24/underpaid-and-overstretched-essex-yoga-instructors-ballot-to-strike-over-pay)
-- [Cold-water swimming eases menopause and menstrual symptoms, study finds](https://www.theguardian.com/society/2024/jan/25/cold-water-swimming-eases-menopause-and-menstrual-symptoms-study-finds)
-- [Real Madrid leapfrog Manchester City to top Deloitte Football Money League](https://www.theguardian.com/football/2024/jan/25/real-madrid-leapfrog-manchester-city-to-top-deloitte-football-money-league)
-- [‘Make sure it’s in season and at its best’: how to cook and eat like you’re on holiday in Tuscany](https://www.theguardian.com/lifeandstyle/2024/jan/25/tomato-soup-recipe-best-gourmet-tuscany-cooking-tips-advice-julia-busuttil-nishimura)
-- [Former adviser to Rishi Sunak working with Tory rebels trying to oust him](https://www.theguardian.com/politics/2024/jan/24/former-adviser-to-rishi-sunak-working-with-tory-rebels-trying-to-oust-him)
-- [Pep Guardiola: Chasing Perfection review – might have been better if he was actually interviewed](https://www.theguardian.com/tv-and-radio/2024/jan/24/pep-guardiola-chasing-perfection-review-might-have-been-better-if-he-was-actually-interviewed)
-- [Afcon roundup: Morocco win keeps host Ivory Coast alive as Tunisia exit](https://www.theguardian.com/football/2024/jan/24/afcon-roundup-tunisia-limp-out)
-- [Tim Scott’s behaviour around Trump is ‘humiliating’, says the Rev Al Sharpton](https://www.theguardian.com/us-news/2024/jan/24/tim-scott-trump-humiliating-rev-al-sharpton)
-- [Ohio senate overrides governor and blocks trans youth from receiving care](https://www.theguardian.com/us-news/2024/jan/24/ohio-senate-trans-youth-health-care-sports)
+- [South Korea in shock after female politician is attacked with a rock](https://www.theguardian.com/world/2024/jan/26/south-korea-rock-attack-bae-hyun-jin-seoul)
+- [CIA chief to discuss fresh Gaza hostage deal and ceasefire with Israel and Qatar – reports](https://www.theguardian.com/world/2024/jan/26/gaza-hostage-deal-israel-hamas-cia-chief-william-burns)
+- [As dawn broke over Bondi, rising gum smoke marked the start of a day of mourning and reflection](https://www.theguardian.com/australia-news/2024/jan/26/as-dawn-broke-over-bondi-rising-gum-smoke-marked-the-start-of-a-day-of-mourning-and-reflection)
+- [The first lady and the Dior bag: the scandal shaking up South Korean politics](https://www.theguardian.com/world/2024/jan/26/the-first-lady-and-the-dior-bag-the-scandal-shaking-up-south-korean-politics)
+- [‘Old smokers’: astronomers discover giant ancient stars in Milky Way](https://www.theguardian.com/science/2024/jan/26/old-smokers-astronomers-discover-giant-ancient-stars-in-milky-way)
+- [World-first blood test for brain cancer may increase survival rates, say experts](https://www.theguardian.com/society/2024/jan/26/world-first-blood-test-for-brain-cancer-may-increase-survival-rates-say-experts)
+- [Private rents in Great Britain hit record high, data shows](https://www.theguardian.com/money/2024/jan/26/private-rents-great-britain-record-rightmove-london)
+- [FA Cup fourth round: 10 things to look out for this weekend](https://www.theguardian.com/football/2024/jan/26/fa-cup-fourth-round-10-things-to-look-out-for-this-weekend)
+- [BBC pulls Dragons’ Den episode after ‘unfounded claims’ of curing ME](https://www.theguardian.com/society/2024/jan/25/bbc-pulls-dragons-den-episode-after-unfounded-claims-of-curing-me)
+- [Main man James Maddison returns for Spurs to fire up FA Cup tie with City](https://www.theguardian.com/football/2024/jan/25/main-man-james-maddison-returns-for-spurs-to-fire-up-fa-cup-tie-with-city)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Asbestos in drinking water: An overlooked health risk?](https://www.bbc.com/future/article/20240124-asbestos-in-drinking-water-an-overlooked-health-risk)
-- [Jerry &lpar;YC S17&rpar; Is Hiring Eng, PM, Data, Cos, Ops etc. &lpar;Remote&rpar;](https://getjerry.com/careers)
-- [Show HN: Integer Map Data Structure](https://github.com/billziss-gh/imap)
-- [A minimal-part-count way to connect an SD card to a 68K](http://dmitry.gr/?r=05.Projects&proj=34.%20springSD)
-- [Researchers find signs of intelligence among jumping spiders](https://knowablemagazine.org/content/article/mind/2021/are-spiders-intelligent)
-- [Build your own drone tracking radar [video]](https://www.youtube.com/watch?v=igrN_wd_g74)
-- [Tech Trend: Shanzhai &lpar;2009&rpar;](https://www.bunniestudios.com/blog/?p=284)
-- [Lightweight JavaScript Framework Review &lpar;For Django Developers&rpar;](https://saashammer.com/blog/lightweight-javascript-framework-review-for-django-developers/)
-- [On &quot;Owning&quot; Software](https://avdi.codes/on-owning-software/)
-- [Abacus: Mystery of the Bead &lpar;2004&rpar;](http://totton.idirect.com/abacus/pages.htm)
+- [I don&#39;t always use LaTeX, but when I do, I compile to HTML &lpar;2013&rpar;](https://www.peterkrautzberger.org/0136/)
+- [Doctor Droid &lpar;YC W23&rpar; Is Hiring in Bangalore](https://www.ycombinator.com/companies/doctor-droid/jobs/YhEZ6dZ-nlp-engineer)
+- [AMD Publishes XDNA Linux Driver: Support for Ryzen AI on Linux](https://www.phoronix.com/news/AMD-XDNA-Linux-Driver-Ryzen-AI)
+- [LTSE shutters cap table management business &lpar;formerly captable.io&rpar;](https://equity.ltse.com/lp/important-updates)
+- [You&#39;re Too Old for That: Age Discrimination in Japan Tech](https://www.tokyodev.com/articles/age-discrimination-in-japan-tech)
+- [Show HN: NativeVision, helping React Native devs to build XR apps for any device](https://github.com/NativeVision/viro)
+- [Show HN: Qwertle, yet another daily word game](https://qwertle.friedman.in)
+- [Improbable Island, one of the largest and longest-running online text adventures](https://www.improbableisland.com)
+- [Mabez Rust on Espressif chips – Q4 update](https://mabez.dev/blog/posts/esp-rust-24-01-2024/)
+- [Two sides of software testing: Checking and exploring &lpar;2011&rpar;](https://www.agileconnection.com/article/two-sides-software-testing-checking-and-exploring)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -355,6 +355,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [How Satya Nadella navigated Microsoft to $3 trillion market value](https://www.computerworld.com/article/3712463/how-satya-nadella-navigated-microsoft-to-3-trillion-market-value.html#tk.rss_all)
+- [The rise of synthetic media: Get ready for AI avatars at work](https://www.computerworld.com/article/3712251/the-rise-of-synthetic-media-get-ready-for-ai-avatars-at-work.html#tk.rss_all)
+- [Google settles $1.7 billion lawsuit over AI chips patent infringement](https://www.computerworld.com/article/3712462/google-settles-1-7-billion-lawsuit-over-ai-chips-patent-infringement.html#tk.rss_all)
 - [Hello, Apple has joined the AI arms race](https://www.computerworld.com/article/3712600/hello-apple-has-joined-the-ai-arms-race.html#tk.rss_all)
 - [National AI Research Resource pilot program to ‘democratize’ generative AI](https://www.computerworld.com/article/3712580/national-ai-research-resource-pilot-program-to-democratize-generative-ai.html#tk.rss_all)
 - [Microsoft launches Mesh 3D meetings for Teams](https://www.computerworld.com/article/3712562/microsoft-launches-mesh-3d-meetings-for-teams.html#tk.rss_all)
@@ -362,9 +365,6 @@
 - [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
 - [Pegasystems launches generative AI-based assistant for enterprises](https://www.computerworld.com/article/3712561/pegasystems-launches-generative-ai-based-assistant-for-enterprises.html#tk.rss_all)
 - [Microsoft Bing, Edge may be exempted from EU’s Digital Market Act: Report](https://www.computerworld.com/article/3712560/microsoft-bing-edge-may-be-exempted-from-eu-s-digital-market-act-report.html#tk.rss_all)
-- [How to access Google&#39;s Circle to Search smartness on any Android phone today](https://www.computerworld.com/article/3712442/google-circle-to-search-android.html#tk.rss_all)
-- [7 ways to leverage genAI for a better career](https://www.computerworld.com/article/3712401/7-ways-to-leverage-genai-for-a-better-career.html#tk.rss_all)
-- [Grape expectations: How genAI reshaped a wine company’s customer service team](https://www.computerworld.com/article/3712252/grape-expectations-how-genai-reshaped-a-wine-company-s-customer-service-team.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

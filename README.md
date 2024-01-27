@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Sexualized Messages Dress Codes Are Sending to Students](https://pudding.cool/2019/02/dress-code-sexualization/)
-- [Skulls reveal scale of human sacrifice in Aztec capital](https://www.science.org/content/article/feeding-gods-hundreds-skulls-reveal-massive-scale-human-sacrifice-aztec-capital)
-- [Line-Item Vetos in Wiscoson](https://en.wikipedia.org/wiki/Line-item_veto_in_the_United_States)
-- [Show HN: Calendar2024, yet Another Calendar Website](https://calendar2024.org/)
-- [Waiting for Something](https://blog.aawadia.dev/2023/12/13/waiting-for-something/)
-- [Research proposes a self-powered movable seawall for tsunami protection](https://techxplore.com/news/2024-01-powered-movable-seawall-tsunami-emergency.html)
-- [Scientists announce breakthrough in hypersonic heat shield](https://techxplore.com/news/2024-01-scientists-breakthrough-hypersonic-shield.html)
-- [Has there ever been an attempt to create a high/low level language pair?](https://old.reddit.com/r/ProgrammingLanguages/comments/19f9feo/has_anyone_attempted_to_create_a_pair_of/)
-- [Unraveling the JPEG](https://parametric.press/issue-01/unraveling-the-jpeg/)
-- [GDP, Economic Data Show US Beating China in Cold War II](https://www.bloomberg.com/opinion/articles/2024-01-25/gdp-economic-data-show-us-beating-china-in-cold-war-ii)
+- [NMAP-formatter: convert NMAP results to HTML, CSV, JSON, graphviz &lpar;dot&rpar;, SQLite](https://github.com/vdjagilev/nmap-formatter)
+- [Charted: 20 Years of Apple vs. Microsoft, by Market Cap](https://www.visualcapitalist.com/apple-vs-microsoft-20-years/)
+- [A wide ideology gap is opening up between young men and women](https://twitter.com/paulg/status/1750881800174420216)
+- [Recording of wild animal behavior using video loggers with outlier detection](https://academic.oup.com/pnasnexus/article/3/1/pgad447/7517476)
+- [The Rest Is Silliness: Peter Schickele and PDQ Bach, Remembered](https://van-magazine.com/mag/peter-schickele-pdq-bach/)
+- [Curl: When command line options were introduced](https://curl.se/docs/optionsall.html)
+- [Salesforce is the latest tech company to cut jobs with 700 layoffs, report says](https://www.businessinsider.com/salesforce-latest-tech-giant-cut-jobs-700-layoffs-report-2024-1)
+- [Morrowind: An Oral History](https://www.polygon.com/2019/3/27/18281082/elder-scrolls-morrowind-oral-history-bethesda)
+- [Satya Nadella – the explicit Taylor Swift AI fakes are &#39;alarming and terrible&#39;](https://www.theverge.com/2024/1/26/24052196/satya-nadella-microsoft-ai-taylor-swift-fakes-response)
+- [NASA&#39;s Ingenuity Mars Helicopter Has Taken Its Final Flight](https://www.smithsonianmag.com/smart-news/nasa-ingenuity-mars-helicopter-taken-final-flight-180983667/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

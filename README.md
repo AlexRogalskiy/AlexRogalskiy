@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Tech layoffs in 2024: A timeline](https://www.computerworld.com/article/3685936/tech-layoffs-in-2023-a-timeline.html#tk.rss_all)
+- [As Apple opens the App Store &lpar;a little&rpar; in EU, winners and losers emerge](https://www.computerworld.com/article/3712503/as-apple-opens-the-app-store-a-little-in-eu-winners-and-losers-emerge.html#tk.rss_all)
+- [OpenAI: Copy, steal, paste](https://www.computerworld.com/article/3712540/openai-copy-steal-paste.html#tk.rss_all)
+- [14 advanced Android 14 tips](https://www.computerworld.com/article/3712521/android-14-tips-advanced.html#tk.rss_all)
 - [How Satya Nadella navigated Microsoft to $3 trillion market value](https://www.computerworld.com/article/3712463/how-satya-nadella-navigated-microsoft-to-3-trillion-market-value.html#tk.rss_all)
 - [The rise of synthetic media: Get ready for AI avatars at work](https://www.computerworld.com/article/3712251/the-rise-of-synthetic-media-get-ready-for-ai-avatars-at-work.html#tk.rss_all)
 - [Google settles $1.7 billion lawsuit over AI chips patent infringement](https://www.computerworld.com/article/3712462/google-settles-1-7-billion-lawsuit-over-ai-chips-patent-infringement.html#tk.rss_all)
 - [Hello, Apple has joined the AI arms race](https://www.computerworld.com/article/3712600/hello-apple-has-joined-the-ai-arms-race.html#tk.rss_all)
 - [National AI Research Resource pilot program to ‘democratize’ generative AI](https://www.computerworld.com/article/3712580/national-ai-research-resource-pilot-program-to-democratize-generative-ai.html#tk.rss_all)
 - [Microsoft launches Mesh 3D meetings for Teams](https://www.computerworld.com/article/3712562/microsoft-launches-mesh-3d-meetings-for-teams.html#tk.rss_all)
-- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
-- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
-- [Pegasystems launches generative AI-based assistant for enterprises](https://www.computerworld.com/article/3712561/pegasystems-launches-generative-ai-based-assistant-for-enterprises.html#tk.rss_all)
-- [Microsoft Bing, Edge may be exempted from EU’s Digital Market Act: Report](https://www.computerworld.com/article/3712560/microsoft-bing-edge-may-be-exempted-from-eu-s-digital-market-act-report.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

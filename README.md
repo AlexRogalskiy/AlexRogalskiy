@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [I don&#39;t always use LaTeX, but when I do, I compile to HTML &lpar;2013&rpar;](https://www.peterkrautzberger.org/0136/)
-- [Doctor Droid &lpar;YC W23&rpar; Is Hiring in Bangalore](https://www.ycombinator.com/companies/doctor-droid/jobs/YhEZ6dZ-nlp-engineer)
-- [AMD Publishes XDNA Linux Driver: Support for Ryzen AI on Linux](https://www.phoronix.com/news/AMD-XDNA-Linux-Driver-Ryzen-AI)
-- [LTSE shutters cap table management business &lpar;formerly captable.io&rpar;](https://equity.ltse.com/lp/important-updates)
-- [You&#39;re Too Old for That: Age Discrimination in Japan Tech](https://www.tokyodev.com/articles/age-discrimination-in-japan-tech)
-- [Show HN: NativeVision, helping React Native devs to build XR apps for any device](https://github.com/NativeVision/viro)
-- [Show HN: Qwertle, yet another daily word game](https://qwertle.friedman.in)
-- [Improbable Island, one of the largest and longest-running online text adventures](https://www.improbableisland.com)
-- [Mabez Rust on Espressif chips – Q4 update](https://mabez.dev/blog/posts/esp-rust-24-01-2024/)
-- [Two sides of software testing: Checking and exploring &lpar;2011&rpar;](https://www.agileconnection.com/article/two-sides-software-testing-checking-and-exploring)
+- [Schools are using surveillance tech to catch students vaping](https://apnews.com/article/vaping-surveillance-technology-schools-982128348c683b9d54c7a307c5b1fdc6)
+- [Etleap &lpar;YC W13&rpar; Is Hiring a Software Engineer &lpar;London&rpar;](https://etleap.com/careers/software-engineer/)
+- [Stem, a stack-based language with metaprogramming and a C FLI](https://ret2pop.nullring.xyz/blog/stem.html)
+- [Exposure to violence in childhood linked to depressive symptoms in adulthood](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5479490/)
+- [A New Hampshire cafe owner sued Meta for deleting his account and won](https://www.seacoastonline.com/story/news/2024/01/26/teatotaller-cafe-owner-wins-instagram-case-nh-supreme-court/72345276007/)
+- [2024 IEEE Medal of Honor Goes to Bob Kahn](https://spectrum.ieee.org/medal-of-honor-bob-kahn)
+- [Dangerous chemicals found in recycled plastics, making them unsafe for use](https://theconversation.com/dangerous-chemicals-found-in-recycled-plastics-making-them-unsafe-for-use-experts-explain-the-hazards-220498)
+- [iPad users will miss out on third-party app stores, browser engines, and more](https://9to5mac.com/2024/01/26/ios-17-app-stores-and-more-ipad-changes/)
+- [Google TPU v5p beats Nvidia H100](https://www.techradar.com/pro/google-is-rapidly-turning-into-a-formidable-opponent-to-bff-nvidia-the-tpu-v5p-ai-chip-powering-its-hypercomputer-is-faster-and-has-more-memory-and-bandwidth-than-ever-before-beating-even-the-mighty-h100)
+- [Show HN: Anki/Duolingo like app using Educational YouTube videos](https://www.platoedu.org)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

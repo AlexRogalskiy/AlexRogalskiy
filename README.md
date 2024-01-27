@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [South Korea in shock after female politician is attacked with a rock](https://www.theguardian.com/world/2024/jan/26/south-korea-rock-attack-bae-hyun-jin-seoul)
-- [CIA chief to discuss fresh Gaza hostage deal and ceasefire with Israel and Qatar – reports](https://www.theguardian.com/world/2024/jan/26/gaza-hostage-deal-israel-hamas-cia-chief-william-burns)
-- [As dawn broke over Bondi, rising gum smoke marked the start of a day of mourning and reflection](https://www.theguardian.com/australia-news/2024/jan/26/as-dawn-broke-over-bondi-rising-gum-smoke-marked-the-start-of-a-day-of-mourning-and-reflection)
-- [The first lady and the Dior bag: the scandal shaking up South Korean politics](https://www.theguardian.com/world/2024/jan/26/the-first-lady-and-the-dior-bag-the-scandal-shaking-up-south-korean-politics)
-- [‘Old smokers’: astronomers discover giant ancient stars in Milky Way](https://www.theguardian.com/science/2024/jan/26/old-smokers-astronomers-discover-giant-ancient-stars-in-milky-way)
-- [World-first blood test for brain cancer may increase survival rates, say experts](https://www.theguardian.com/society/2024/jan/26/world-first-blood-test-for-brain-cancer-may-increase-survival-rates-say-experts)
-- [Private rents in Great Britain hit record high, data shows](https://www.theguardian.com/money/2024/jan/26/private-rents-great-britain-record-rightmove-london)
-- [FA Cup fourth round: 10 things to look out for this weekend](https://www.theguardian.com/football/2024/jan/26/fa-cup-fourth-round-10-things-to-look-out-for-this-weekend)
-- [BBC pulls Dragons’ Den episode after ‘unfounded claims’ of curing ME](https://www.theguardian.com/society/2024/jan/25/bbc-pulls-dragons-den-episode-after-unfounded-claims-of-curing-me)
-- [Main man James Maddison returns for Spurs to fire up FA Cup tie with City](https://www.theguardian.com/football/2024/jan/25/main-man-james-maddison-returns-for-spurs-to-fire-up-fa-cup-tie-with-city)
+- [Maui wildfire: last of 100 known victims of deadly blaze identified](https://www.theguardian.com/us-news/2024/jan/26/maui-wildfire-deaths-victims-identified)
+- [US planning to station nuclear weapons in UK amid threat from Russia – report](https://www.theguardian.com/uk-news/2024/jan/26/us-planning-to-station-nuclear-weapons-in-uk-amid-threat-from-russia-report)
+- [UK ‘reserves right to respond’ after oil tanker set alight off Yemen](https://www.theguardian.com/world/2024/jan/26/vessel-on-fire-after-being-struck-off-coast-of-yemen-amid-houthi-threats)
+- [Leicester ‘back in Premiership hunt’ after beating Harlequins at the Stoop](https://www.theguardian.com/sport/2024/jan/26/leicester-deserved-a-bit-of-luck-says-mckellar-after-edging-harlequins)
+- [Labour vows to reform ministerial severance pay after Tories handed £1m last year](https://www.theguardian.com/politics/2024/jan/26/labour-reform-ministerial-severance-pay-tories)
+- [Nathan Aké’s late winner ends Manchester City’s blank run at Spurs](https://www.theguardian.com/football/2024/jan/26/tottenham-manchester-city-fa-cup-fourth-round-match-report)
+- [Donald Trump ordered to pay E Jean Carroll $83.3m in defamation trial](https://www.theguardian.com/us-news/2024/jan/26/e-jean-carroll-damages-trump-defamation-trial)
+- [Felix Jones arrives to inject intensity into England’s Six Nations tilt](https://www.theguardian.com/sport/2024/jan/26/felix-jones-intensity-england-six-nations-defence-coach)
+- [Douglas Luiz denied by VAR as Aston Villa take Chelsea to FA Cup replay](https://www.theguardian.com/football/2024/jan/26/chelsea-aston-villa-fa-cup-fourth-round-match-report)
+- [Bristol City draw adds to toothless Nottingham Forest’s mounting woes](https://www.theguardian.com/football/2024/jan/26/bristol-city-nottingham-forest-fa-cup-fourth-round-match-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

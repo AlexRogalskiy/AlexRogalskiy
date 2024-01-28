@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Schools are using surveillance tech to catch students vaping](https://apnews.com/article/vaping-surveillance-technology-schools-982128348c683b9d54c7a307c5b1fdc6)
-- [Etleap &lpar;YC W13&rpar; Is Hiring a Software Engineer &lpar;London&rpar;](https://etleap.com/careers/software-engineer/)
-- [Stem, a stack-based language with metaprogramming and a C FLI](https://ret2pop.nullring.xyz/blog/stem.html)
-- [Exposure to violence in childhood linked to depressive symptoms in adulthood](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5479490/)
-- [A New Hampshire cafe owner sued Meta for deleting his account and won](https://www.seacoastonline.com/story/news/2024/01/26/teatotaller-cafe-owner-wins-instagram-case-nh-supreme-court/72345276007/)
-- [2024 IEEE Medal of Honor Goes to Bob Kahn](https://spectrum.ieee.org/medal-of-honor-bob-kahn)
-- [Dangerous chemicals found in recycled plastics, making them unsafe for use](https://theconversation.com/dangerous-chemicals-found-in-recycled-plastics-making-them-unsafe-for-use-experts-explain-the-hazards-220498)
-- [iPad users will miss out on third-party app stores, browser engines, and more](https://9to5mac.com/2024/01/26/ios-17-app-stores-and-more-ipad-changes/)
-- [Google TPU v5p beats Nvidia H100](https://www.techradar.com/pro/google-is-rapidly-turning-into-a-formidable-opponent-to-bff-nvidia-the-tpu-v5p-ai-chip-powering-its-hypercomputer-is-faster-and-has-more-memory-and-bandwidth-than-ever-before-beating-even-the-mighty-h100)
-- [Show HN: Anki/Duolingo like app using Educational YouTube videos](https://www.platoedu.org)
+- [Hermit crabs are using trash as shells](https://www.bbc.com/news/science-environment-68071695.amp)
+- [Nitter Shutting Down](https://nitter.d420.de)
+- [Rising Leqembi Prescriptions Are Straining Clinic Capacity](https://www.alzforum.org/news/community-news/rising-leqembi-prescriptions-are-straining-clinic-capacity)
+- [Philadelphia Jury Hits Monsanto with $2.25B Roundup Verdict](https://www.law.com/thelegalintelligencer/2024/01/26/philadelphia-jury-hits-monsanto-with-2-25b-roundup-verdict/)
+- [Microsoft explains how Russian hackers spied on its executives](https://www.theverge.com/2024/1/26/24051708/microsoft-hack-russian-security-attack-senior-leadership-emails)
+- [The 100MHz 6502 &lpar;2022&rpar;](https://www.e-basteln.de/computing/65f02/65f02/)
+- [Studying species in the deepest parts of the ocean: A new method of analysis](https://nautil.us/its-like-youre-a-space-explorer-encountering-aliens-500550/)
+- [Show HN: Pong Wars](https://pong-wars.koenvangilst.nl/)
+- [The Invention of a New Pasta Shape &lpar;2021&rpar;](https://kottke.org/21/03/the-invention-of-a-new-pasta-shape)
+- [Topaz Unicode](https://gitlab.com/Screwtapello/topaz-unicode#topaz-unicode)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

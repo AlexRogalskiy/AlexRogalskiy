@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [NMAP-formatter: convert NMAP results to HTML, CSV, JSON, graphviz &lpar;dot&rpar;, SQLite](https://github.com/vdjagilev/nmap-formatter)
-- [Charted: 20 Years of Apple vs. Microsoft, by Market Cap](https://www.visualcapitalist.com/apple-vs-microsoft-20-years/)
-- [A wide ideology gap is opening up between young men and women](https://twitter.com/paulg/status/1750881800174420216)
-- [Recording of wild animal behavior using video loggers with outlier detection](https://academic.oup.com/pnasnexus/article/3/1/pgad447/7517476)
-- [The Rest Is Silliness: Peter Schickele and PDQ Bach, Remembered](https://van-magazine.com/mag/peter-schickele-pdq-bach/)
-- [Curl: When command line options were introduced](https://curl.se/docs/optionsall.html)
-- [Salesforce is the latest tech company to cut jobs with 700 layoffs, report says](https://www.businessinsider.com/salesforce-latest-tech-giant-cut-jobs-700-layoffs-report-2024-1)
-- [Morrowind: An Oral History](https://www.polygon.com/2019/3/27/18281082/elder-scrolls-morrowind-oral-history-bethesda)
-- [Satya Nadella – the explicit Taylor Swift AI fakes are &#39;alarming and terrible&#39;](https://www.theverge.com/2024/1/26/24052196/satya-nadella-microsoft-ai-taylor-swift-fakes-response)
-- [NASA&#39;s Ingenuity Mars Helicopter Has Taken Its Final Flight](https://www.smithsonianmag.com/smart-news/nasa-ingenuity-mars-helicopter-taken-final-flight-180983667/)
+- [Solid-State EV Batteries Now Face &quot;Production Hell&quot;](https://spectrum.ieee.org/solid-state-battery-production-challenges)
+- [Following lawsuit, rep admits &quot;AI&quot; George Carlin was human-written](https://arstechnica.com/ai/2024/01/george-carlins-heirs-sue-comedy-podcast-over-ai-generated-impression/)
+- [Show HN: Python 3 port of Umbra, an unfinished Lovecraftian CRPG from 2001](https://github.com/dbohdan/umbra)
+- [Convert &#39;Screenshot.png&#39; to &#39;Appropriate name.png&#39; Using GPT-4 Vision](https://keepitshot.com)
+- [Big tech firms are funding AI future, pushing Silicon Valley VCs out of the way](https://www.ft.com/content/49ec4e39-b17e-443a-b801-ba65c0a7facb)
+- [GNOP!](http://gnop.bungie.org)
+- [UK police increasingly using polygraph tests](https://news.sky.com/story/can-you-beat-a-lie-detector-uk-police-increasingly-using-polygraph-tests-heres-how-people-try-to-cheat-13056067)
+- [Cruise failed to disclose disturbing details of self-driving car crash](https://www.wired.com/story/robot-car-crash-investigation-cruise-disclose-key-information/)
+- [BBS scene](https://www.atlantis-prophecy.org/recollection/?load=bbs_scene)
+- [Concise Encyclopedia of Pragmatics [pdf]](http://ndl.ethernet.edu.et/bitstream/123456789/54657/1/20.pdf.pdf)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

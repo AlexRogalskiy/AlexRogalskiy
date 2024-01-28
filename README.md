@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Maui wildfire: last of 100 known victims of deadly blaze identified](https://www.theguardian.com/us-news/2024/jan/26/maui-wildfire-deaths-victims-identified)
-- [US planning to station nuclear weapons in UK amid threat from Russia – report](https://www.theguardian.com/uk-news/2024/jan/26/us-planning-to-station-nuclear-weapons-in-uk-amid-threat-from-russia-report)
-- [UK ‘reserves right to respond’ after oil tanker set alight off Yemen](https://www.theguardian.com/world/2024/jan/26/vessel-on-fire-after-being-struck-off-coast-of-yemen-amid-houthi-threats)
-- [Leicester ‘back in Premiership hunt’ after beating Harlequins at the Stoop](https://www.theguardian.com/sport/2024/jan/26/leicester-deserved-a-bit-of-luck-says-mckellar-after-edging-harlequins)
-- [Labour vows to reform ministerial severance pay after Tories handed £1m last year](https://www.theguardian.com/politics/2024/jan/26/labour-reform-ministerial-severance-pay-tories)
-- [Nathan Aké’s late winner ends Manchester City’s blank run at Spurs](https://www.theguardian.com/football/2024/jan/26/tottenham-manchester-city-fa-cup-fourth-round-match-report)
-- [Donald Trump ordered to pay E Jean Carroll $83.3m in defamation trial](https://www.theguardian.com/us-news/2024/jan/26/e-jean-carroll-damages-trump-defamation-trial)
-- [Felix Jones arrives to inject intensity into England’s Six Nations tilt](https://www.theguardian.com/sport/2024/jan/26/felix-jones-intensity-england-six-nations-defence-coach)
-- [Douglas Luiz denied by VAR as Aston Villa take Chelsea to FA Cup replay](https://www.theguardian.com/football/2024/jan/26/chelsea-aston-villa-fa-cup-fourth-round-match-report)
-- [Bristol City draw adds to toothless Nottingham Forest’s mounting woes](https://www.theguardian.com/football/2024/jan/26/bristol-city-nottingham-forest-fa-cup-fourth-round-match-report)
+- [Jamie Dornan fled to rural hideaway after ‘ridicule’ over Fifty Shades of Grey](https://www.theguardian.com/culture/2024/jan/28/jamie-dornan-fled-to-rural-hideaway-after-ridicule-over-fifty-shades-of-grey)
+- [We Love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2024/jan/27/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Wide at heart: Step out in this season’s most wearable jeans](https://www.theguardian.com/fashion/2024/jan/27/wide-at-heart-step-out-in-this-seasons-most-wearable-jeans)
+- [Michael van Gerwen denies Luke Littler’s bid for another World Series](https://www.theguardian.com/sport/2024/jan/27/michael-van-gerwen-denies-luke-littlers-bid-for-successive-world-titles)
+- [Nigeria soar into Afcon quarter-finals as Lookman vanquishes Cameroon](https://www.theguardian.com/football/2024/jan/27/nigeria-cameroon-afcon-match-report)
+- [Xavi Hernández announces he will leave Barcelona at end of season after 5-3 loss](https://www.theguardian.com/football/2024/jan/27/xavi-hernandez-announces-he-will-leave-barcelona-at-end-of-season-after-eaten)
+- [Morrissey treated for ‘physical exhaustion’ after cancelling tour dates](https://www.theguardian.com/music/2024/jan/27/morrissey-treated-for-physical-exhaustion-after-cancelling-tour-dates)
+- [UK to pause funding for key UN aid agency for Palestinian refugees](https://www.theguardian.com/politics/2024/jan/27/uk-to-pause-funding-for-key-un-aid-agency-for-palestinian-refugees)
+- [Voters think Labour would be better than Conservatives on housing and house prices](https://www.theguardian.com/politics/2024/jan/27/voters-think-labour-would-be-better-than-conservatives-on-housing-and-house-prices)
+- [Chester Market evacuated after chilli fumes affect customers](https://www.theguardian.com/uk-news/2024/jan/27/chester-market-evacuated-after-chilli-fumes-affect-customers)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

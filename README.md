@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Solid-State EV Batteries Now Face &quot;Production Hell&quot;](https://spectrum.ieee.org/solid-state-battery-production-challenges)
-- [Following lawsuit, rep admits &quot;AI&quot; George Carlin was human-written](https://arstechnica.com/ai/2024/01/george-carlins-heirs-sue-comedy-podcast-over-ai-generated-impression/)
-- [Show HN: Python 3 port of Umbra, an unfinished Lovecraftian CRPG from 2001](https://github.com/dbohdan/umbra)
-- [Convert &#39;Screenshot.png&#39; to &#39;Appropriate name.png&#39; Using GPT-4 Vision](https://keepitshot.com)
-- [Big tech firms are funding AI future, pushing Silicon Valley VCs out of the way](https://www.ft.com/content/49ec4e39-b17e-443a-b801-ba65c0a7facb)
-- [GNOP!](http://gnop.bungie.org)
-- [UK police increasingly using polygraph tests](https://news.sky.com/story/can-you-beat-a-lie-detector-uk-police-increasingly-using-polygraph-tests-heres-how-people-try-to-cheat-13056067)
-- [Cruise failed to disclose disturbing details of self-driving car crash](https://www.wired.com/story/robot-car-crash-investigation-cruise-disclose-key-information/)
-- [BBS scene](https://www.atlantis-prophecy.org/recollection/?load=bbs_scene)
-- [Concise Encyclopedia of Pragmatics [pdf]](http://ndl.ethernet.edu.et/bitstream/123456789/54657/1/20.pdf.pdf)
+- [HyperWrite Personal Assistant](https://www.hyperwriteai.com/personal-assistant)
+- [The Geopolitics of World War III](https://www.realcleardefense.com/articles/2024/01/27/the_geopolitics_of_world_war_iii_1007840.html)
+- [Nearly 25,000 tech workers were laid off in the first weeks of 2024.Why is that?](https://www.npr.org/2024/01/28/1227326215/nearly-25-000-tech-workers-laid-off-in-the-first-weeks-of-2024-whats-going-on)
+- [Assigning Homework in a World with ChatGPT &lpar;Justin Wolfers&rpar; [video]](https://www.youtube.com/watch?v=m2BvGzms0Ug)
+- [Why Science Tells Us Not to Rely on Eyewitness Accounts](https://www.scientificamerican.com/article/do-the-eyes-have-it/)
+- [The Defenses of Lepidopterans](https://www.youtube.com/watch?v=v-s714RNXHY)
+- [Pitch Drop Experiment](https://en.wikipedia.org/wiki/Pitch_drop_experiment)
+- [When everything is empire: Pratinav Anil reviews Sathnam Sangera&#39;s /Empireland/](https://engelsbergideas.com/reviews/when-everything-is-empire/)
+- [Tools for Jupyter in &lpar;and Near&rpar; Production](https://win-vector.com/2024/01/28/tools-for-jupyter-in-and-near-production/)
+- [Tangoing with a Martin Gardner Word Game](https://pncnmnp.github.io/blogs/martin-gardner-game.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Hermit crabs are using trash as shells](https://www.bbc.com/news/science-environment-68071695.amp)
-- [Nitter Shutting Down](https://nitter.d420.de)
-- [Rising Leqembi Prescriptions Are Straining Clinic Capacity](https://www.alzforum.org/news/community-news/rising-leqembi-prescriptions-are-straining-clinic-capacity)
-- [Philadelphia Jury Hits Monsanto with $2.25B Roundup Verdict](https://www.law.com/thelegalintelligencer/2024/01/26/philadelphia-jury-hits-monsanto-with-2-25b-roundup-verdict/)
-- [Microsoft explains how Russian hackers spied on its executives](https://www.theverge.com/2024/1/26/24051708/microsoft-hack-russian-security-attack-senior-leadership-emails)
-- [The 100MHz 6502 &lpar;2022&rpar;](https://www.e-basteln.de/computing/65f02/65f02/)
-- [Studying species in the deepest parts of the ocean: A new method of analysis](https://nautil.us/its-like-youre-a-space-explorer-encountering-aliens-500550/)
-- [Show HN: Pong Wars](https://pong-wars.koenvangilst.nl/)
-- [The Invention of a New Pasta Shape &lpar;2021&rpar;](https://kottke.org/21/03/the-invention-of-a-new-pasta-shape)
-- [Topaz Unicode](https://gitlab.com/Screwtapello/topaz-unicode#topaz-unicode)
+- [Nix-direnv is a quality of life improvement](https://ianthehenry.com/posts/how-to-learn-nix/nix-direnv/)
+- [Online Use Car Seller Vroom Collapses as Sales Fall, Losses Mount](https://www.thedrive.com/news/online-use-car-seller-vroom-collapses-as-sales-fall-losses-mount)
+- [GitHub Spam](https://djanes.xyz/spam-on-github-is-getting-crazy-these-days/)
+- [How the FBI targeted Camus, and then Sartre after the JFK assassination &lpar;2013&rpar;](https://www.openculture.com/2013/11/the-existentialism-files-how-the-fbi-targeted-camus-and-sartre.html)
+- [General purpose MCUs built in to LEDs emulate candle flicker](https://cpldcpu.wordpress.com/2024/01/14/revisiting-candle-flicker-leds-now-with-integrated-timer/)
+- [I need to grow away from these roots](https://www.vitling.xyz/i-need-to-grow-away-from-these-roots/)
+- [Antarctic fungi survive Martian conditions on the International Space Station](https://www.agenciasinc.es/en/News/Antarctic-fungi-survive-Martian-conditions-on-the-International-Space-Station)
+- [Milwaukee reporter investigates cousin&#39;s 1978 car bombing death](https://www.jsonline.com/story/news/investigations/2024/01/17/milwaukee-reporter-investigates-cousins-1978-car-bombing-death/71883074007/)
+- [Law for Computer Scientists &lpar;2020&rpar;](https://lawforcomputerscientists.pubpub.org/)
+- [German train company are looking for a Windows 3.11 Administrator](https://www.gulp.de/gulp2/g/projekte/agentur/C00929028)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

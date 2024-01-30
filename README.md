@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Nix-direnv is a quality of life improvement](https://ianthehenry.com/posts/how-to-learn-nix/nix-direnv/)
-- [Online Use Car Seller Vroom Collapses as Sales Fall, Losses Mount](https://www.thedrive.com/news/online-use-car-seller-vroom-collapses-as-sales-fall-losses-mount)
-- [GitHub Spam](https://djanes.xyz/spam-on-github-is-getting-crazy-these-days/)
-- [How the FBI targeted Camus, and then Sartre after the JFK assassination &lpar;2013&rpar;](https://www.openculture.com/2013/11/the-existentialism-files-how-the-fbi-targeted-camus-and-sartre.html)
-- [General purpose MCUs built in to LEDs emulate candle flicker](https://cpldcpu.wordpress.com/2024/01/14/revisiting-candle-flicker-leds-now-with-integrated-timer/)
-- [I need to grow away from these roots](https://www.vitling.xyz/i-need-to-grow-away-from-these-roots/)
-- [Antarctic fungi survive Martian conditions on the International Space Station](https://www.agenciasinc.es/en/News/Antarctic-fungi-survive-Martian-conditions-on-the-International-Space-Station)
-- [Milwaukee reporter investigates cousin&#39;s 1978 car bombing death](https://www.jsonline.com/story/news/investigations/2024/01/17/milwaukee-reporter-investigates-cousins-1978-car-bombing-death/71883074007/)
-- [Law for Computer Scientists &lpar;2020&rpar;](https://lawforcomputerscientists.pubpub.org/)
-- [German train company are looking for a Windows 3.11 Administrator](https://www.gulp.de/gulp2/g/projekte/agentur/C00929028)
+- [Dracula Theme for Hacker News](https://draculatheme.com/hacker-news)
+- [Tesla&#39;s Recall Fix for Autopilot Irritates Drivers, Disappoints Safety Advocates](https://www.wsj.com/business/autos/teslas-recall-fix-for-autopilot-irritates-drivers-disappoints-safety-advocates-f9ca0eb4)
+- [Linear Programming - Researchers Approach New Speed Limit for Seminal Problem](https://www.quantamagazine.org/researchers-approach-new-speed-limit-for-seminal-problem-20240129/)
+- [A Mouse Becomes a Camera](https://hackaday.com/2024/01/29/a-mouse-becomes-a-camera/)
+- [Ask HN: Are you using a GPT to prompt-engineer another GPT?](https://news.ycombinator.com/item?id=39184149)
+- [An Introduction to the WARC File](https://archive-it.org/post/the-stack-warc-file/)
+- [Alzheimer’s cases tied to no-longer-used medical procedure](https://www.statnews.com/2024/01/29/first-transmitted-alzheimers-disease-cases-growth-hormone-cadavers/)
+- [Two Sonoma communes’ psychedelic rise and fall &lpar;2017&rpar;](https://www.sonomamag.com/50-years-later-sonomas-summer-love/)
+- [Ask HN: How can I back up an old vBulletin forum without admin access?](https://news.ycombinator.com/item?id=39182738)
+- [A Tour of the Lisps](https://www.fosskers.ca/en/blog/rounds-of-lisp)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [HyperWrite Personal Assistant](https://www.hyperwriteai.com/personal-assistant)
-- [The Geopolitics of World War III](https://www.realcleardefense.com/articles/2024/01/27/the_geopolitics_of_world_war_iii_1007840.html)
-- [Nearly 25,000 tech workers were laid off in the first weeks of 2024.Why is that?](https://www.npr.org/2024/01/28/1227326215/nearly-25-000-tech-workers-laid-off-in-the-first-weeks-of-2024-whats-going-on)
-- [Assigning Homework in a World with ChatGPT &lpar;Justin Wolfers&rpar; [video]](https://www.youtube.com/watch?v=m2BvGzms0Ug)
-- [Why Science Tells Us Not to Rely on Eyewitness Accounts](https://www.scientificamerican.com/article/do-the-eyes-have-it/)
-- [The Defenses of Lepidopterans](https://www.youtube.com/watch?v=v-s714RNXHY)
-- [Pitch Drop Experiment](https://en.wikipedia.org/wiki/Pitch_drop_experiment)
-- [When everything is empire: Pratinav Anil reviews Sathnam Sangera&#39;s /Empireland/](https://engelsbergideas.com/reviews/when-everything-is-empire/)
-- [Tools for Jupyter in &lpar;and Near&rpar; Production](https://win-vector.com/2024/01/28/tools-for-jupyter-in-and-near-production/)
-- [Tangoing with a Martin Gardner Word Game](https://pncnmnp.github.io/blogs/martin-gardner-game.html)
+- [The pursuit of cutting-edge JS frameworks resulted in a less accessible web](https://www.easylaptopfinder.com/blog/posts/cutting-edge-js-framework-accessibility)
+- [First Neuralink human chip implanted](https://twitter.com/elonmusk/status/1752118131579867417)
+- [Copy/paste detector for programming source code, supports 150 formats](https://github.com/kucherenko/jscpd)
+- [Ask HN: How to improve your memory permanently](https://news.ycombinator.com/item?id=39185595)
+- [WebDevRefinery &lpar;2017&rpar;](https://web.archive.org/web/20170515191321/http://webdevrefinery.com/forums/)
+- [Is Blogging Effective? Apparently, yes, by some metrics](https://www.econlib.org/is-blogging-effective/)
+- [IMF: Global Markets Monitor](https://www.imfconnect.org/content/imf/en/gmm.html)
+- [Contribute to Open Standards Repository](https://github.com/kaypee90/awesome-open-standards/issues/6)
+- [Energy Demand in AR Apps: A Reverse Ablation Study of the HoloLens 2 Device](https://www.mdpi.com/1996-1073/17/3/553)
+- [Strength to Strength](https://news.ycombinator.com/item?id=39185452)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

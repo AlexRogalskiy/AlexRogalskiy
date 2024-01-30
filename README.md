@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [NFC Championship Game: Detroit Lions v San Francisco 49ers – live](https://www.theguardian.com/sport/live/2024/jan/28/nfc-championship-game-detroit-lions-v-san-francisco-49ers-live)
-- [Russia-Ukraine war at a glance: what we know on day 705](https://www.theguardian.com/world/2024/jan/29/russia-ukraine-war-at-a-glance-what-we-know-on-day-705)
-- [24 in 2024: equal rights, clear skin and being a witch in Japan](https://www.theguardian.com/world/2024/jan/29/24-in-2024-equal-rights-clear-skin-and-being-a-witch-in-japan)
-- [NHS trust that treated Valdo Calocane to be subject of special review](https://www.theguardian.com/uk-news/2024/jan/29/nhs-trust-nottinghamshire-healthcare-treated-valdo-calocane-special-review)
-- [Plaza Suite review – Sarah Jessica Parker and Matthew Broderick are spectacles at the celebrity circus](https://www.theguardian.com/stage/2024/jan/29/plaza-suite-review-savoy-theatre-london-sarah-jessica-parker-matthew-broderick)
-- [Ofsted single-word judgments on schools must end, say MPs](https://www.theguardian.com/education/2024/jan/29/ofsted-single-word-judgments-on-schools-must-end-say-mps)
-- [Playing a musical instrument or singing is linked to better memory in older age](https://www.theguardian.com/society/2024/jan/29/playing-musical-instrument-singing-linked-improved-older-brain-health)
-- [Betty Boothroyd planned to criticise PMs for abusing patronage powers](https://www.theguardian.com/uk-news/2024/jan/28/betty-boothroyd-planned-to-criticise-pms-for-abusing-patronage-powers)
-- [Euro roundup: Eta becomes first female coach to take charge in Bundesliga](https://www.theguardian.com/football/2024/jan/28/euro-roundup-eta-becomes-first-female-coach-to-take-charge-in-bundesliga)
-- [Disposable vapes to be banned in UK as part of drive to curb youth vaping](https://www.theguardian.com/society/2024/jan/28/disposable-vapes-ban-uk-curb-youth-vaping)
+- [E Jean Carroll aims to give defamation money ‘to something Trump hates’](https://www.theguardian.com/us-news/2024/jan/29/e-jean-carroll-trial-money-trump-defamation)
+- [Russia-Ukraine war at a glance: what we know on day 706](https://www.theguardian.com/world/2024/jan/30/russia-ukraine-war-at-a-glance-what-we-know-on-day-706)
+- [Nikki Haley was swatted twice within days amid ‘spike’ in threats to officials](https://www.theguardian.com/us-news/2024/jan/29/nikki-haley-swatted-republicans)
+- [Three years on from Myanmar’s military coup, the junta is struggling to assert control](https://www.theguardian.com/global-development/2024/jan/30/myanmar-military-coup-junta-min-aung-hlaing)
+- [Elon Musk says Neuralink has implanted first brain chip in a human](https://www.theguardian.com/technology/2024/jan/29/elon-musk-neuralink-first-human-brain-chip-implant)
+- [Tom Parker Bowles picked for mini library project championed by his mum](https://www.theguardian.com/books/2024/jan/30/tom-parker-bowles-picked-for-mini-library-project-championed-by-his-mum)
+- [Paul Murray and Fern Brady win inaugural Nero book awards](https://www.theguardian.com/books/2024/jan/30/nero-book-awards-winners-paul-murray-fern-brady-michael-magee-beth-lincoln)
+- [Ukrainians in UK shocked by shortage of dentists, survey finds](https://www.theguardian.com/uk-news/2024/jan/30/ukrainians-uk-shocked-shortage-dentists-survey)
+- [Singer Rebecca Ferguson tells of music industry abuse in MPs’ report](https://www.theguardian.com/world/2024/jan/30/singer-rebecca-ferguson-music-industry-abuse-mps-report)
+- [Reeves says fiscal picture ‘very different’ from when Labour made £28bn green pledge](https://www.theguardian.com/politics/2024/jan/29/rachel-reeves-says-fiscal-picture-very-different-to-when-labour-made-28bn-green-pledge)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

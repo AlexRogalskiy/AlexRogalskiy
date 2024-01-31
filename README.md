@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [E Jean Carroll aims to give defamation money ‘to something Trump hates’](https://www.theguardian.com/us-news/2024/jan/29/e-jean-carroll-trial-money-trump-defamation)
-- [Russia-Ukraine war at a glance: what we know on day 706](https://www.theguardian.com/world/2024/jan/30/russia-ukraine-war-at-a-glance-what-we-know-on-day-706)
-- [Nikki Haley was swatted twice within days amid ‘spike’ in threats to officials](https://www.theguardian.com/us-news/2024/jan/29/nikki-haley-swatted-republicans)
-- [Three years on from Myanmar’s military coup, the junta is struggling to assert control](https://www.theguardian.com/global-development/2024/jan/30/myanmar-military-coup-junta-min-aung-hlaing)
-- [Elon Musk says Neuralink has implanted first brain chip in a human](https://www.theguardian.com/technology/2024/jan/29/elon-musk-neuralink-first-human-brain-chip-implant)
-- [Tom Parker Bowles picked for mini library project championed by his mum](https://www.theguardian.com/books/2024/jan/30/tom-parker-bowles-picked-for-mini-library-project-championed-by-his-mum)
-- [Paul Murray and Fern Brady win inaugural Nero book awards](https://www.theguardian.com/books/2024/jan/30/nero-book-awards-winners-paul-murray-fern-brady-michael-magee-beth-lincoln)
-- [Ukrainians in UK shocked by shortage of dentists, survey finds](https://www.theguardian.com/uk-news/2024/jan/30/ukrainians-uk-shocked-shortage-dentists-survey)
-- [Singer Rebecca Ferguson tells of music industry abuse in MPs’ report](https://www.theguardian.com/world/2024/jan/30/singer-rebecca-ferguson-music-industry-abuse-mps-report)
-- [Reeves says fiscal picture ‘very different’ from when Labour made £28bn green pledge](https://www.theguardian.com/politics/2024/jan/29/rachel-reeves-says-fiscal-picture-very-different-to-when-labour-made-28bn-green-pledge)
+- [Auction of Nelson Mandela’s belongings suspended after outcry from South Africa heritage agency](https://www.theguardian.com/world/2024/jan/31/nelson-mandela-belongings-auction-halted-south-africa)
+- [Russian billionaire loses Sotheby’s fraud case over artworks including Salvator Mundi](https://www.theguardian.com/us-news/2024/jan/31/russian-billionaire-dmitry-rybolovlev-sothebys-auction-fraud-case-art-salvator-mundi)
+- [Russia-Ukraine war at a glance: what we know on day 707](https://www.theguardian.com/world/2024/jan/31/russia-ukraine-war-at-a-glance-what-we-know-on-day-707)
+- [New Zealand to ban PFAS ‘forever chemicals’ in cosmetics in 2026](https://www.theguardian.com/environment/2024/jan/31/new-zealand-pfa-chemicals-ban-2026-health-risks)
+- [Next government should declare NHS a national emergency, experts warn](https://www.theguardian.com/society/2024/jan/31/next-government-should-declare-nhs-a-national-emergency-experts-warn)
+- [UK heatwave plan urgently needed to save lives, say MPs](https://www.theguardian.com/environment/2024/jan/31/uk-heatwave-plan-urgently-needed-to-save-lives-say-mps)
+- [People severely ill with suspected sepsis should be given antibiotics, Nice says](https://www.theguardian.com/society/2024/jan/31/people-severely-ill-with-suspected-sepsis-should-be-given-antibiotics-nice-says)
+- [New Brexit food checks likely to mean less choice, warn delis](https://www.theguardian.com/politics/2024/jan/31/new-brexit-food-checks-likely-to-mean-less-choice-warn-delis)
+- [‘Incomprehensible’ that Abramovich’s Chelsea funds not yet spent on Ukraine](https://www.theguardian.com/world/2024/jan/31/incomprehensible-roman-abramovich-chelsea-proceeds-still-not-spent-to-help-ukraine)
+- [Advertising slump sinks Google investor confidence despite overall high revenue](https://www.theguardian.com/technology/2024/jan/30/alphabet-earning-report-advertising-layoffs)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

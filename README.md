@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Dracula Theme for Hacker News](https://draculatheme.com/hacker-news)
-- [Tesla&#39;s Recall Fix for Autopilot Irritates Drivers, Disappoints Safety Advocates](https://www.wsj.com/business/autos/teslas-recall-fix-for-autopilot-irritates-drivers-disappoints-safety-advocates-f9ca0eb4)
-- [Linear Programming - Researchers Approach New Speed Limit for Seminal Problem](https://www.quantamagazine.org/researchers-approach-new-speed-limit-for-seminal-problem-20240129/)
-- [A Mouse Becomes a Camera](https://hackaday.com/2024/01/29/a-mouse-becomes-a-camera/)
-- [Ask HN: Are you using a GPT to prompt-engineer another GPT?](https://news.ycombinator.com/item?id=39184149)
-- [An Introduction to the WARC File](https://archive-it.org/post/the-stack-warc-file/)
-- [Alzheimer’s cases tied to no-longer-used medical procedure](https://www.statnews.com/2024/01/29/first-transmitted-alzheimers-disease-cases-growth-hormone-cadavers/)
-- [Two Sonoma communes’ psychedelic rise and fall &lpar;2017&rpar;](https://www.sonomamag.com/50-years-later-sonomas-summer-love/)
-- [Ask HN: How can I back up an old vBulletin forum without admin access?](https://news.ycombinator.com/item?id=39182738)
-- [A Tour of the Lisps](https://www.fosskers.ca/en/blog/rounds-of-lisp)
+- [Instagram Threads triples downloads in December, reaching top; X falls to #36](https://techcrunch.com/2024/01/30/instagram-threads-triples-downloads-in-december-reaching-the-top-10-x-falls-to-no-36/)
+- [Framework DIY 13 Gen AMD Review](https://tylercipriani.com/blog/2024/01/22/framework-13-amd-diy/)
+- [A Trojan approach to guide and trap light beams via Lagrange points](https://phys.org/news/2024-01-trojan-approach-lagrange.html)
+- [Google Search Drops Cache Link from Search Results](https://www.seroundtable.com/google-search-drops-cache-link-from-search-results-36787.html)
+- [165 m Private Submersible Superyacht](https://www.migaloo-submarines.com/m5-1-of-1/)
+- [Intel&#39;s Humbling](https://stratechery.com/2024/intels-humbling/)
+- [NASA&#39;s Webb depicts structure in 19 nearby spiral galaxies](https://webbtelescope.org/contents/news-releases/2024/news-2024-105?news=true)
+- [Relationship Hero &lpar;YC S17&rpar; Is Hiring Relationship Coaches](https://relationshiphero.com/careers?role=coach)
+- [Gitstr: Send and receive Git patches over Nostr](https://github.com/fiatjaf/gitstr)
+- [.ai website registrations are a windfall for tiny Anguilla](https://spectrum.ieee.org/ai-domains)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

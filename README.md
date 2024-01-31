@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The pursuit of cutting-edge JS frameworks resulted in a less accessible web](https://www.easylaptopfinder.com/blog/posts/cutting-edge-js-framework-accessibility)
-- [First Neuralink human chip implanted](https://twitter.com/elonmusk/status/1752118131579867417)
-- [Copy/paste detector for programming source code, supports 150 formats](https://github.com/kucherenko/jscpd)
-- [Ask HN: How to improve your memory permanently](https://news.ycombinator.com/item?id=39185595)
-- [WebDevRefinery &lpar;2017&rpar;](https://web.archive.org/web/20170515191321/http://webdevrefinery.com/forums/)
-- [Is Blogging Effective? Apparently, yes, by some metrics](https://www.econlib.org/is-blogging-effective/)
-- [IMF: Global Markets Monitor](https://www.imfconnect.org/content/imf/en/gmm.html)
-- [Contribute to Open Standards Repository](https://github.com/kaypee90/awesome-open-standards/issues/6)
-- [Energy Demand in AR Apps: A Reverse Ablation Study of the HoloLens 2 Device](https://www.mdpi.com/1996-1073/17/3/553)
-- [Strength to Strength](https://news.ycombinator.com/item?id=39185452)
+- [Varasano&#39;s Pizzeria Staff Training Videos](https://varasanos.com/VideoTraining.php)
+- [Raspberry Pi IPO: are they selling out? [video]](https://www.youtube.com/watch?v=hrhE6MnGi1A)
+- [Things DBs Don&#39;t Do – But Should &lpar;2023&rpar;](https://www.thenile.dev/blog/app/blog/things-dbs-dont-do)
+- [Speech and voice cloning of politicians and celebs](https://neets.ai/)
+- [Gemini: Fast Failure Recovery in Distributed Training with In-Memory Checkpoints](https://newsletter.micahlerner.com/p/gemini-fast-failure-recovery-in-distributed)
+- [ChatGPT leaked private data, leading to security concerns](https://arstechnica.com/security/2024/01/ars-reader-reports-chatgpt-is-sending-him-conversations-from-unrelated-ai-users/)
+- [A Lead Scare Strikes Stanley Tumblers, but You Don&#39;t Need to Worry](https://www.nytimes.com/2024/01/30/health/stanley-cups-lead.html)
+- [Workqueue: Implement BH workqueues to eventually replace tasklets](https://lore.kernel.org/lkml/20240130091300.2968534-4-tj@kernel.org/)
+- [Egypt embarks on a mission to reconstruct the outside of Giza&#39;s smallest pyramid](https://www.cbsnews.com/news/egypt-reconstructing-outside-giza-smallest-pyramid-king-menkaure/)
+- [Offline-First Editing](https://breadchris.com/thinkies/offline-first-editing/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

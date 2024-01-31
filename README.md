@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Apple accuses UK gov&#39;t of ‘unprecedented overreach’ on privacy](https://www.computerworld.com/article/3712720/apple-accuses-uk-govt-of-unprecedented-overreach-on-privacy.html#tk.rss_all)
+- [It’s not just hype; genAI is already live at many companies](https://www.computerworld.com/article/3712641/its-not-just-hype-genai-is-already-live-at-many-companies.html#tk.rss_all)
+- [Women, high performers and millennials flee return-to-office policies](https://www.computerworld.com/article/3712642/women-high-performers-and-millennials-flee-return-to-office-policies.html#tk.rss_all)
+- [Zoom gets mixed-reality makeover for Apple’s Vision Pro](https://www.computerworld.com/article/3712702/zoom-gets-mixed-reality-makeover-for-apples-vision-pro.html#tk.rss_all)
+- [GenAI is moving to your smartphone, PC and car — here’s why](https://www.computerworld.com/article/3712601/genai-is-moving-to-your-smartphone-pc-and-car-heres-why.html#tk.rss_all)
+- [Teradyne is the latest victim of the US-China chip war](https://www.computerworld.com/article/3712701/teradyne-is-the-latest-victim-of-the-us-china-chip-war.html#tk.rss_all)
+- [Italian watchdog says ChatGPT breached data privacy norms](https://www.computerworld.com/article/3712700/italian-watchdog-says-chatgpt-breached-data-privacy-norms.html#tk.rss_all)
+- [Return to office or quit, IBM tells managers](https://www.computerworld.com/article/3712680/return-to-office-or-quit-ibm-tells-managers.html#tk.rss_all)
 - [Fleet adds Windows support to its Apple-first MDM software](https://www.computerworld.com/article/3712505/fleet-adds-windows-support-to-its-apple-first-mdm-software.html#tk.rss_all)
 - [Apple&#39;s Vision Pro faces an uphill battle](https://www.computerworld.com/article/3712504/apples-vision-pro-faces-an-uphill-battle.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [Russia hacks Microsoft: It’s worse than you think](https://www.computerworld.com/article/3712380/russia-hacks-microsoft-its-worse-than-you-think.html#tk.rss_all)
-- [China approves over 40 AI models for public use in six months](https://www.computerworld.com/article/3712545/china-approves-over-40-ai-models-for-public-use-in-six-months.html#tk.rss_all)
-- [Tech layoffs in 2024: A timeline](https://www.computerworld.com/article/3685936/tech-layoffs-in-2023-a-timeline.html#tk.rss_all)
-- [As Apple opens the App Store &lpar;a little&rpar; in EU, winners and losers emerge](https://www.computerworld.com/article/3712503/as-apple-opens-the-app-store-a-little-in-eu-winners-and-losers-emerge.html#tk.rss_all)
-- [OpenAI: Copy, steal, paste](https://www.computerworld.com/article/3712540/openai-copy-steal-paste.html#tk.rss_all)
-- [14 advanced Android 14 tips](https://www.computerworld.com/article/3712521/android-14-tips-advanced.html#tk.rss_all)
-- [How Satya Nadella navigated Microsoft to $3 trillion market value](https://www.computerworld.com/article/3712463/how-satya-nadella-navigated-microsoft-to-3-trillion-market-value.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

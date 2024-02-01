@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Varasano&#39;s Pizzeria Staff Training Videos](https://varasanos.com/VideoTraining.php)
-- [Raspberry Pi IPO: are they selling out? [video]](https://www.youtube.com/watch?v=hrhE6MnGi1A)
-- [Things DBs Don&#39;t Do – But Should &lpar;2023&rpar;](https://www.thenile.dev/blog/app/blog/things-dbs-dont-do)
-- [Speech and voice cloning of politicians and celebs](https://neets.ai/)
-- [Gemini: Fast Failure Recovery in Distributed Training with In-Memory Checkpoints](https://newsletter.micahlerner.com/p/gemini-fast-failure-recovery-in-distributed)
-- [ChatGPT leaked private data, leading to security concerns](https://arstechnica.com/security/2024/01/ars-reader-reports-chatgpt-is-sending-him-conversations-from-unrelated-ai-users/)
-- [A Lead Scare Strikes Stanley Tumblers, but You Don&#39;t Need to Worry](https://www.nytimes.com/2024/01/30/health/stanley-cups-lead.html)
-- [Workqueue: Implement BH workqueues to eventually replace tasklets](https://lore.kernel.org/lkml/20240130091300.2968534-4-tj@kernel.org/)
-- [Egypt embarks on a mission to reconstruct the outside of Giza&#39;s smallest pyramid](https://www.cbsnews.com/news/egypt-reconstructing-outside-giza-smallest-pyramid-king-menkaure/)
-- [Offline-First Editing](https://breadchris.com/thinkies/offline-first-editing/)
+- [Apple Vision Pro Battery uses wide lightning connector](https://fedi.nano.lgbt/notice/AeQ5dRuCJuZ4zmYLzM)
+- [The Dvorak Zine &lpar;2005&rpar;](https://www.dvzine.org/zine/index.html)
+- [New documentary goes inside pro-Nazi rally at Madison Square Garden](https://untappedcities.com/2024/01/22/documentary-nazi-town-madison-square-garden/)
+- [Hulu is cracking down on password sharing, just like Disney Plus and Netflix](https://www.theverge.com/2024/1/31/24057641/hulu-password-sharing-crackdown)
+- [Peter Benchley&#39;s _Jaws_ Turns 50](https://quillette.com/2024/01/31/here-comes-the-bite/)
+- [No Free Parking: An Urban Reform Movement Takes Hold](https://e360.yale.edu/features/free-parking-reform)
+- [Mark Zuckerberg stood in Congress and apologized to families of victimized teens](https://fortune.com/2024/01/31/mark-zuckerberg-apologizes-to-families-senate-hearing-child-safety/)
+- [What&#39;s the Deal with the Industrial Revolution](https://www.benlandautaylor.com/p/whats-the-deal-with-the-industrial)
+- [When undefined behavior causes a nonsensical error &lpar;in Rust&rpar;](https://glandium.org/blog/?p=4354)
+- [Researchers Scale Up Multipurpose 2D Nanosheets](https://www.azonano.com/news.aspx?newsID=40698)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

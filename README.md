@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Instagram Threads triples downloads in December, reaching top; X falls to #36](https://techcrunch.com/2024/01/30/instagram-threads-triples-downloads-in-december-reaching-the-top-10-x-falls-to-no-36/)
-- [Framework DIY 13 Gen AMD Review](https://tylercipriani.com/blog/2024/01/22/framework-13-amd-diy/)
-- [A Trojan approach to guide and trap light beams via Lagrange points](https://phys.org/news/2024-01-trojan-approach-lagrange.html)
-- [Google Search Drops Cache Link from Search Results](https://www.seroundtable.com/google-search-drops-cache-link-from-search-results-36787.html)
-- [165 m Private Submersible Superyacht](https://www.migaloo-submarines.com/m5-1-of-1/)
-- [Intel&#39;s Humbling](https://stratechery.com/2024/intels-humbling/)
-- [NASA&#39;s Webb depicts structure in 19 nearby spiral galaxies](https://webbtelescope.org/contents/news-releases/2024/news-2024-105?news=true)
-- [Relationship Hero &lpar;YC S17&rpar; Is Hiring Relationship Coaches](https://relationshiphero.com/careers?role=coach)
-- [Gitstr: Send and receive Git patches over Nostr](https://github.com/fiatjaf/gitstr)
-- [.ai website registrations are a windfall for tiny Anguilla](https://spectrum.ieee.org/ai-domains)
+- [Show HN: Lockbox: forward proxy for making third party API calls](https://github.com/mkjt2/lockbox)
+- [The End of My Childhood](https://vitalik.eth.limo/general/2024/01/31/end.html)
+- [Gnuplotlib: Non-Painful Plotting for NumPy](https://github.com/dkogan/gnuplotlib)
+- [Making a PDF that&#39;s larger than Germany](https://alexwlchan.net/2024/big-pdf/)
+- [MobileDiffusion: Rapid text-to-image generation on-device](https://blog.research.google/2024/01/mobilediffusion-rapid-text-to-image.html)
+- [Visual Analysis of Binary Files](http://binvis.io/#/)
+- [DeepSeek Coder: Let the Code Write Itself](https://deepseekcoder.github.io/)
+- [Generating Fantasy Maps &lpar;2016&rpar;](http://mewo2.com/notes/terrain/)
+- [Non-deterministic execution of Python functions](https://gitlab.inria.fr/cpaperma/nondet)
+- [A roadmap and appeal for help from The Matrix.org Foundation](https://matrix.org/blog/2024/01/2024-roadmap-and-fundraiser/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

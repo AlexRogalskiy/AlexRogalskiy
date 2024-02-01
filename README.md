@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Generative AI boosts cloud revenue for Microsoft, Google](https://www.computerworld.com/article/3712661/generative-ai-boosts-cloud-revenue-for-microsoft-google.html#tk.rss_all)
+- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
+- [3 Android camera shortcuts that make iPhones look amusingly antiquated](https://www.computerworld.com/article/3712721/android-camera-shortcuts.html#tk.rss_all)
+- [Key features of Windows 11 Enterprise](https://www.computerworld.com/article/3712183/windows-11-enterprise-key-features.html#tk.rss_all)
+- [Intel to make chips in US for Taiwan’s UMC](https://www.computerworld.com/article/3712780/intel-to-make-chips-in-us-for-taiwan-s-umc.html#tk.rss_all)
 - [Apple accuses UK gov&#39;t of ‘unprecedented overreach’ on privacy](https://www.computerworld.com/article/3712720/apple-accuses-uk-govt-of-unprecedented-overreach-on-privacy.html#tk.rss_all)
 - [It’s not just hype; genAI is already live at many companies](https://www.computerworld.com/article/3712641/its-not-just-hype-genai-is-already-live-at-many-companies.html#tk.rss_all)
 - [Women, high performers and millennials flee return-to-office policies](https://www.computerworld.com/article/3712642/women-high-performers-and-millennials-flee-return-to-office-policies.html#tk.rss_all)
 - [Zoom gets mixed-reality makeover for Apple’s Vision Pro](https://www.computerworld.com/article/3712702/zoom-gets-mixed-reality-makeover-for-apples-vision-pro.html#tk.rss_all)
 - [GenAI is moving to your smartphone, PC and car — here’s why](https://www.computerworld.com/article/3712601/genai-is-moving-to-your-smartphone-pc-and-car-heres-why.html#tk.rss_all)
-- [Teradyne is the latest victim of the US-China chip war](https://www.computerworld.com/article/3712701/teradyne-is-the-latest-victim-of-the-us-china-chip-war.html#tk.rss_all)
-- [Italian watchdog says ChatGPT breached data privacy norms](https://www.computerworld.com/article/3712700/italian-watchdog-says-chatgpt-breached-data-privacy-norms.html#tk.rss_all)
-- [Return to office or quit, IBM tells managers](https://www.computerworld.com/article/3712680/return-to-office-or-quit-ibm-tells-managers.html#tk.rss_all)
-- [Fleet adds Windows support to its Apple-first MDM software](https://www.computerworld.com/article/3712505/fleet-adds-windows-support-to-its-apple-first-mdm-software.html#tk.rss_all)
-- [Apple&#39;s Vision Pro faces an uphill battle](https://www.computerworld.com/article/3712504/apples-vision-pro-faces-an-uphill-battle.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

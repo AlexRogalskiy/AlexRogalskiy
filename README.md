@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Auction of Nelson Mandela’s belongings suspended after outcry from South Africa heritage agency](https://www.theguardian.com/world/2024/jan/31/nelson-mandela-belongings-auction-halted-south-africa)
-- [Russian billionaire loses Sotheby’s fraud case over artworks including Salvator Mundi](https://www.theguardian.com/us-news/2024/jan/31/russian-billionaire-dmitry-rybolovlev-sothebys-auction-fraud-case-art-salvator-mundi)
-- [Russia-Ukraine war at a glance: what we know on day 707](https://www.theguardian.com/world/2024/jan/31/russia-ukraine-war-at-a-glance-what-we-know-on-day-707)
-- [New Zealand to ban PFAS ‘forever chemicals’ in cosmetics in 2026](https://www.theguardian.com/environment/2024/jan/31/new-zealand-pfa-chemicals-ban-2026-health-risks)
-- [Next government should declare NHS a national emergency, experts warn](https://www.theguardian.com/society/2024/jan/31/next-government-should-declare-nhs-a-national-emergency-experts-warn)
-- [UK heatwave plan urgently needed to save lives, say MPs](https://www.theguardian.com/environment/2024/jan/31/uk-heatwave-plan-urgently-needed-to-save-lives-say-mps)
-- [People severely ill with suspected sepsis should be given antibiotics, Nice says](https://www.theguardian.com/society/2024/jan/31/people-severely-ill-with-suspected-sepsis-should-be-given-antibiotics-nice-says)
-- [New Brexit food checks likely to mean less choice, warn delis](https://www.theguardian.com/politics/2024/jan/31/new-brexit-food-checks-likely-to-mean-less-choice-warn-delis)
-- [‘Incomprehensible’ that Abramovich’s Chelsea funds not yet spent on Ukraine](https://www.theguardian.com/world/2024/jan/31/incomprehensible-roman-abramovich-chelsea-proceeds-still-not-spent-to-help-ukraine)
-- [Advertising slump sinks Google investor confidence despite overall high revenue](https://www.theguardian.com/technology/2024/jan/30/alphabet-earning-report-advertising-layoffs)
+- [China hacking threatens US infrastructure, FBI director warns, as Volt Typhoon botnet foiled](https://www.theguardian.com/technology/2024/feb/01/china-hacking-threat-us-volt-typhoon-botnet-fbi-warning)
+- [Russia-Ukraine war at a glance: what we know on day 708](https://www.theguardian.com/world/2024/feb/01/russia-ukraine-war-at-a-glance-what-we-know-on-day-708)
+- [Police in Sweden destroy ‘live’ device outside Israeli embassy](https://www.theguardian.com/world/2024/feb/01/sweden-israel-embassy-police-attempted-attack-device-stockholm)
+- [‘Grumpy Old Men’: Nikki Haley targets Biden and Trump’s age in new ads](https://www.theguardian.com/us-news/2024/jan/31/nikki-haley-new-ads-joe-biden-donald-trump-age)
+- [English councils need £4bn to prevent widespread bankruptcy, MPs say](https://www.theguardian.com/uk-news/2024/feb/01/english-councils-need-4bn-to-prevent-widespread-bankruptcy-mps-say)
+- [Early release of mental health patients in England presents suicide risk, report finds](https://www.theguardian.com/society/2024/feb/01/early-release-of-mental-health-patients-in-england-presents-suicide-risk-report-finds)
+- [People in England with Jewish ancestry to be offered test to detect cancer risk](https://www.theguardian.com/society/2024/feb/01/people-england-jewish-ancestry-test-detect-cancer-risk-nhs)
+- [Women’s cricket to undergo domestic shake-up with teams owned by counties](https://www.theguardian.com/sport/2024/feb/01/womens-cricket-ecb-counties-the-hundred)
+- [Greatest Hits Radio DJ Ken Bruce steals more BBC listeners](https://www.theguardian.com/media/2024/feb/01/greatest-hits-radio-dj-ken-bruce-steals-more-bbc-listeners)
+- [‘Rivers in the sky’: what are the atmospheric rivers hitting California right now?](https://www.theguardian.com/world/2024/jan/31/what-are-atmospheric-rivers-california-storms)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

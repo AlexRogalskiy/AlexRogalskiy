@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Show HN: Lockbox: forward proxy for making third party API calls](https://github.com/mkjt2/lockbox)
-- [The End of My Childhood](https://vitalik.eth.limo/general/2024/01/31/end.html)
-- [Gnuplotlib: Non-Painful Plotting for NumPy](https://github.com/dkogan/gnuplotlib)
-- [Making a PDF that&#39;s larger than Germany](https://alexwlchan.net/2024/big-pdf/)
-- [MobileDiffusion: Rapid text-to-image generation on-device](https://blog.research.google/2024/01/mobilediffusion-rapid-text-to-image.html)
-- [Visual Analysis of Binary Files](http://binvis.io/#/)
-- [DeepSeek Coder: Let the Code Write Itself](https://deepseekcoder.github.io/)
-- [Generating Fantasy Maps &lpar;2016&rpar;](http://mewo2.com/notes/terrain/)
-- [Non-deterministic execution of Python functions](https://gitlab.inria.fr/cpaperma/nondet)
-- [A roadmap and appeal for help from The Matrix.org Foundation](https://matrix.org/blog/2024/01/2024-roadmap-and-fundraiser/)
+- [&#39;Stupid,&#39; &#39;shameful:&#39; Tech workers on Y Combinator CEO Garry Tan&#39;s rant](https://missionlocal.org/2024/01/stupid-shameful-say-tech-workers-of-y-combinator-ceo-garry-tans-rant/)
+- [Unlogged &lpar;YC S22&rpar; Is Hiring a Founding Engineer](https://news.ycombinator.com/item?id=39223649)
+- [Harvard Faces New Threat of State Tax on $51B Endowment](https://www.bloomberg.com/news/articles/2024-02-01/harvard-faces-new-threat-of-state-tax-on-51-billion-endowment)
+- [OLMo: Accelerating the Science of Language Models [pdf]](https://allenai.org/olmo/olmo-paper.pdf)
+- [Frontman of Weezer, Rivers Cuomo, is an active developer on GitHub](https://github.com/riverscuomo)
+- [In a &#39;Dark Dimension,&#39; Physicists Search for the Universe&#39;s Missing Matter](https://www.quantamagazine.org/in-a-dark-dimension-physicists-search-for-missing-matter-20240201/)
+- [Genetic autopsies to unravel the mystery of sudden deaths](https://english.elpais.com/health/2024-01-25/genetic-autopsies-to-unravel-the-mystery-of-sudden-deaths.html)
+- [A startup allegedly &#39;hacked the world&#39;, then came censorship, and now backlash](https://www.wired.com/story/appin-training-centers-lawsuits-censorship/)
+- [Fixing a broken smart cat feeder with ESP32](https://pdx.su/blog/2024-01-19-fixing-a-broken-smart-cat-feeder-with-esp32/)
+- [Thanksgiving 2023 security incident](https://blog.cloudflare.com/thanksgiving-2023-security-incident)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

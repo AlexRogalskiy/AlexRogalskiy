@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [China hacking threatens US infrastructure, FBI director warns, as Volt Typhoon botnet foiled](https://www.theguardian.com/technology/2024/feb/01/china-hacking-threat-us-volt-typhoon-botnet-fbi-warning)
-- [Russia-Ukraine war at a glance: what we know on day 708](https://www.theguardian.com/world/2024/feb/01/russia-ukraine-war-at-a-glance-what-we-know-on-day-708)
-- [Police in Sweden destroy ‘live’ device outside Israeli embassy](https://www.theguardian.com/world/2024/feb/01/sweden-israel-embassy-police-attempted-attack-device-stockholm)
-- [‘Grumpy Old Men’: Nikki Haley targets Biden and Trump’s age in new ads](https://www.theguardian.com/us-news/2024/jan/31/nikki-haley-new-ads-joe-biden-donald-trump-age)
-- [English councils need £4bn to prevent widespread bankruptcy, MPs say](https://www.theguardian.com/uk-news/2024/feb/01/english-councils-need-4bn-to-prevent-widespread-bankruptcy-mps-say)
-- [Early release of mental health patients in England presents suicide risk, report finds](https://www.theguardian.com/society/2024/feb/01/early-release-of-mental-health-patients-in-england-presents-suicide-risk-report-finds)
-- [People in England with Jewish ancestry to be offered test to detect cancer risk](https://www.theguardian.com/society/2024/feb/01/people-england-jewish-ancestry-test-detect-cancer-risk-nhs)
-- [Women’s cricket to undergo domestic shake-up with teams owned by counties](https://www.theguardian.com/sport/2024/feb/01/womens-cricket-ecb-counties-the-hundred)
-- [Greatest Hits Radio DJ Ken Bruce steals more BBC listeners](https://www.theguardian.com/media/2024/feb/01/greatest-hits-radio-dj-ken-bruce-steals-more-bbc-listeners)
-- [‘Rivers in the sky’: what are the atmospheric rivers hitting California right now?](https://www.theguardian.com/world/2024/jan/31/what-are-atmospheric-rivers-california-storms)
+- [‘A race against time’: Taiwan strives to root out China’s spies](https://www.theguardian.com/world/2024/feb/02/taiwan-china-spies-beijing-espionage)
+- [Tasmania hails Australia’s first colonial statue as a piss-take – and an ‘extraordinary political statement’](https://www.theguardian.com/culture/2024/feb/02/george-arthur-tasmania-maritime-museum-colonial-statue-satire-protest-art-)
+- [New Zealand steps up interest in Aukus as Pacific security concerns grow](https://www.theguardian.com/world/2024/feb/02/new-zealand-aukus-alliance-membership)
+- [Harry Kane in Germany: ‘The kids are loving it. They’ll be speaking the language before me’](https://www.theguardian.com/football/2024/feb/02/harry-kane-germany-bayern-munich-ballon-dor)
+- [All eyes on new look France and Ireland for classic Six Nations opener](https://www.theguardian.com/sport/2024/feb/02/france-and-ireland-six-nations-2024-opening-match-preview)
+- [Progress on cancer survival in UK at slowest in 50 years, study finds](https://www.theguardian.com/society/2024/feb/02/progress-on-cancer-survival-in-uk-at-slowest-in-50-years-study-finds)
+- [UK ministers urged to protect creatives whose work is used by AI firms](https://www.theguardian.com/technology/2024/feb/02/uk-ministers-urged-to-protect-creatives-whose-work-is-used-by-ai-firms)
+- [Water firms in England and Wales urged to invest profits in cutting bills](https://www.theguardian.com/business/2024/feb/02/water-firms-in-england-and-wales-urged-to-invest-profits-in-cutting-bills)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/blog/2024/feb/02/premier-league-10-things-to-look-out-for-this-weekend)
+- [Luke Littler takes Premier League debut in stride despite semi-final loss](https://www.theguardian.com/sport/2024/feb/01/luke-littler-takes-premier-league-darts-debut-in-stride-despite-semi-final-loss)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

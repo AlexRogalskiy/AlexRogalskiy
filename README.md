@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Apple Vision Pro Battery uses wide lightning connector](https://fedi.nano.lgbt/notice/AeQ5dRuCJuZ4zmYLzM)
-- [The Dvorak Zine &lpar;2005&rpar;](https://www.dvzine.org/zine/index.html)
-- [New documentary goes inside pro-Nazi rally at Madison Square Garden](https://untappedcities.com/2024/01/22/documentary-nazi-town-madison-square-garden/)
-- [Hulu is cracking down on password sharing, just like Disney Plus and Netflix](https://www.theverge.com/2024/1/31/24057641/hulu-password-sharing-crackdown)
-- [Peter Benchley&#39;s _Jaws_ Turns 50](https://quillette.com/2024/01/31/here-comes-the-bite/)
-- [No Free Parking: An Urban Reform Movement Takes Hold](https://e360.yale.edu/features/free-parking-reform)
-- [Mark Zuckerberg stood in Congress and apologized to families of victimized teens](https://fortune.com/2024/01/31/mark-zuckerberg-apologizes-to-families-senate-hearing-child-safety/)
-- [What&#39;s the Deal with the Industrial Revolution](https://www.benlandautaylor.com/p/whats-the-deal-with-the-industrial)
-- [When undefined behavior causes a nonsensical error &lpar;in Rust&rpar;](https://glandium.org/blog/?p=4354)
-- [Researchers Scale Up Multipurpose 2D Nanosheets](https://www.azonano.com/news.aspx?newsID=40698)
+- [Court rules in favor of scraper Bright Data, which Meta had used and then sued](https://techcrunch.com/2024/01/24/court-rules-in-favor-of-a-web-scraper-bright-data-which-meta-had-used-and-then-sued/)
+- [China&#39;s CXMT aims to build country&#39;s first advanced memory chips for AI](https://asia.nikkei.com/Business/Tech/Semiconductors/China-s-CXMT-aims-to-build-country-s-first-advanced-memory-chips-for-AI)
+- [Search for John](https://www.searchforjohn.com/info/en/about)
+- [IgG4 Antibodies Induced by Vaccine May Generate Immune Tolerance to SARS-CoV-2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10222767/)
+- [Mercedes announces Hamilton split as Ferrari move for F1 2025 finalised](https://www.autosport.com/f1/news/mercedes-announces-hamilton-split-ahead-of-ferrari-move-for-f1-2025/10571402/)
+- [Ex-CIA engineer gets 40 years for giving hacking secrets to WikiLeaks](https://www.npr.org/2024/02/01/1228493323/former-cia-engineer-sentenced-40-years-wikileaks)
+- [A personal link shortener using mostly S3](https://www.jonathanychan.com/blog/link-shortener/)
+- [FDA says 561 deaths tied to recalled Philips sleep apnea machines](https://www.cbsnews.com/news/fda-sleep-apnea-philips-recall-cpap/)
+- [FTX&#39;s Missing $400M Were Stolen in SIM-Swapping Hack, DOJ Says](https://www.bloomberg.com/news/articles/2024-02-01/ftx-s-missing-400-million-stolen-in-sim-swapping-hack-doj-says)
+- [Building Dynamic Toolbars and Menus](https://www.eraser.io/decision-node/dynamic-toolbars-and-menus)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

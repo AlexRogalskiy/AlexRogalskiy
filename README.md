@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [Vision Pro’s killer feature? It’s a wearable Mac](https://www.computerworld.com/article/3712682/vision-pros-killer-feature-its-a-wearable-mac.html#tk.rss_all)
+- [Q&amp;A: How Thomson Reuters used genAI to enable a citizen developer workforce](https://www.computerworld.com/article/3712565/qa-how-thomson-reuters-used-genai-to-enable-a-citizen-developer-workforce.html#tk.rss_all)
+- [Latest US alert on Chinese companies sparks supply chain concerns](https://www.computerworld.com/article/3712681/latest-us-alert-on-chinese-companies-sparks-supply-chain-concerns.html#tk.rss_all)
 - [Generative AI boosts cloud revenue for Microsoft, Google](https://www.computerworld.com/article/3712661/generative-ai-boosts-cloud-revenue-for-microsoft-google.html#tk.rss_all)
 - [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
 - [3 Android camera shortcuts that make iPhones look amusingly antiquated](https://www.computerworld.com/article/3712721/android-camera-shortcuts.html#tk.rss_all)
 - [Key features of Windows 11 Enterprise](https://www.computerworld.com/article/3712183/windows-11-enterprise-key-features.html#tk.rss_all)
 - [Intel to make chips in US for Taiwan’s UMC](https://www.computerworld.com/article/3712780/intel-to-make-chips-in-us-for-taiwan-s-umc.html#tk.rss_all)
 - [Apple accuses UK gov&#39;t of ‘unprecedented overreach’ on privacy](https://www.computerworld.com/article/3712720/apple-accuses-uk-govt-of-unprecedented-overreach-on-privacy.html#tk.rss_all)
-- [It’s not just hype; genAI is already live at many companies](https://www.computerworld.com/article/3712641/its-not-just-hype-genai-is-already-live-at-many-companies.html#tk.rss_all)
-- [Women, high performers and millennials flee return-to-office policies](https://www.computerworld.com/article/3712642/women-high-performers-and-millennials-flee-return-to-office-policies.html#tk.rss_all)
-- [Zoom gets mixed-reality makeover for Apple’s Vision Pro](https://www.computerworld.com/article/3712702/zoom-gets-mixed-reality-makeover-for-apples-vision-pro.html#tk.rss_all)
-- [GenAI is moving to your smartphone, PC and car — here’s why](https://www.computerworld.com/article/3712601/genai-is-moving-to-your-smartphone-pc-and-car-heres-why.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

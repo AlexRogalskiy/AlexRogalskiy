@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Google Workspace tips and tutorials](https://www.computerworld.com/article/3704811/how-to-use-google-workspace-tips-tutorials-cheat-sheets.html#tk.rss_all)
+- [How many jobs are available in technology in the US?](https://www.computerworld.com/article/3542681/how-many-jobs-are-available-in-technology.html#tk.rss_all)
+- [Tim Cook brings Apple&#39;s GenAI plans into the light](https://www.computerworld.com/article/3712703/tim-cook-brings-apples-genai-plans-into-the-light.html#tk.rss_all)
+- [How to use the new genAI template tool in Google Sheets](https://www.computerworld.com/article/3712620/generative-ai-google-sheets-help-me-organize.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [Vision Pro’s killer feature? It’s a wearable Mac](https://www.computerworld.com/article/3712682/vision-pros-killer-feature-its-a-wearable-mac.html#tk.rss_all)
 - [Q&amp;A: How Thomson Reuters used genAI to enable a citizen developer workforce](https://www.computerworld.com/article/3712565/qa-how-thomson-reuters-used-genai-to-enable-a-citizen-developer-workforce.html#tk.rss_all)
 - [Latest US alert on Chinese companies sparks supply chain concerns](https://www.computerworld.com/article/3712681/latest-us-alert-on-chinese-companies-sparks-supply-chain-concerns.html#tk.rss_all)
 - [Generative AI boosts cloud revenue for Microsoft, Google](https://www.computerworld.com/article/3712661/generative-ai-boosts-cloud-revenue-for-microsoft-google.html#tk.rss_all)
 - [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
-- [3 Android camera shortcuts that make iPhones look amusingly antiquated](https://www.computerworld.com/article/3712721/android-camera-shortcuts.html#tk.rss_all)
-- [Key features of Windows 11 Enterprise](https://www.computerworld.com/article/3712183/windows-11-enterprise-key-features.html#tk.rss_all)
-- [Intel to make chips in US for Taiwan’s UMC](https://www.computerworld.com/article/3712780/intel-to-make-chips-in-us-for-taiwan-s-umc.html#tk.rss_all)
-- [Apple accuses UK gov&#39;t of ‘unprecedented overreach’ on privacy](https://www.computerworld.com/article/3712720/apple-accuses-uk-govt-of-unprecedented-overreach-on-privacy.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

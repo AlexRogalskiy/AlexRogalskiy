@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [‘A race against time’: Taiwan strives to root out China’s spies](https://www.theguardian.com/world/2024/feb/02/taiwan-china-spies-beijing-espionage)
-- [Tasmania hails Australia’s first colonial statue as a piss-take – and an ‘extraordinary political statement’](https://www.theguardian.com/culture/2024/feb/02/george-arthur-tasmania-maritime-museum-colonial-statue-satire-protest-art-)
-- [New Zealand steps up interest in Aukus as Pacific security concerns grow](https://www.theguardian.com/world/2024/feb/02/new-zealand-aukus-alliance-membership)
-- [Harry Kane in Germany: ‘The kids are loving it. They’ll be speaking the language before me’](https://www.theguardian.com/football/2024/feb/02/harry-kane-germany-bayern-munich-ballon-dor)
-- [All eyes on new look France and Ireland for classic Six Nations opener](https://www.theguardian.com/sport/2024/feb/02/france-and-ireland-six-nations-2024-opening-match-preview)
-- [Progress on cancer survival in UK at slowest in 50 years, study finds](https://www.theguardian.com/society/2024/feb/02/progress-on-cancer-survival-in-uk-at-slowest-in-50-years-study-finds)
-- [UK ministers urged to protect creatives whose work is used by AI firms](https://www.theguardian.com/technology/2024/feb/02/uk-ministers-urged-to-protect-creatives-whose-work-is-used-by-ai-firms)
-- [Water firms in England and Wales urged to invest profits in cutting bills](https://www.theguardian.com/business/2024/feb/02/water-firms-in-england-and-wales-urged-to-invest-profits-in-cutting-bills)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/blog/2024/feb/02/premier-league-10-things-to-look-out-for-this-weekend)
-- [Luke Littler takes Premier League debut in stride despite semi-final loss](https://www.theguardian.com/sport/2024/feb/01/luke-littler-takes-premier-league-darts-debut-in-stride-despite-semi-final-loss)
+- [US airstrikes hit ‘more than 85 targets’ in Iraq and Syria; officials say US will not strike inside Iran – live](https://www.theguardian.com/world/live/2024/feb/02/us-begins-wave-of-airstrikes-retaliating-for-drone-attack-that-killed-three-american-soldiers-live)
+- [Rishi Sunak says his parents wanted him to speak without an accent to ‘fit in’](https://www.theguardian.com/politics/2024/feb/03/rishi-sunak-says-his-parents-wanted-him-to-speak-without-an-accent-to-fit-in)
+- [Argentina’s lower house votes for Javier Milei’s sweeping reform package](https://www.theguardian.com/world/2024/feb/02/argentinas-lower-house-votes-for-javier-mileis-sweeping-reform-package)
+- [Joe McCarthy fires up the hype train to soothe Ireland’s World Cup blues | Jonathan Liew](https://www.theguardian.com/sport/2024/feb/02/joe-mccarthy-fires-up-the-hype-train-to-soothe-irelands-world-cup-blues)
+- [Wayne Kramer, co-founder of rock band MC5, dies aged 75](https://www.theguardian.com/music/2024/feb/02/wayne-kramer-co-founder-of-rock-band-mc5-dies-aged-75)
+- [You need to calm down: Taylor Swift can fly from Tokyo to Super Bowl in time, says Japan embassy](https://www.theguardian.com/music/2024/feb/02/japan-embassy-confirms-taylor-swift-travel-super-bowl)
+- [Jürgen Klopp and Liverpool ready to buckle up for high-stakes title fight](https://www.theguardian.com/football/2024/feb/02/jurgen-klopp-says-liverpool-must-buckle-up-for-high-stakes-battle)
+- [Ireland set down marker with rout in France after Willemse red card](https://www.theguardian.com/sport/2024/feb/02/france-ireland-six-nations-)
+- [US judge delays Trump&#39;s federal 2020 election subversion trial](https://www.theguardian.com/us-news/2024/feb/02/trump-2020-election-trial-postponed)
+- [Carl Weathers: a life in pictures](https://www.theguardian.com/film/gallery/2024/feb/02/carl-weathers-life-in-pictures)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

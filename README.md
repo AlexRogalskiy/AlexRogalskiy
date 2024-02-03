@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [&#39;Stupid,&#39; &#39;shameful:&#39; Tech workers on Y Combinator CEO Garry Tan&#39;s rant](https://missionlocal.org/2024/01/stupid-shameful-say-tech-workers-of-y-combinator-ceo-garry-tans-rant/)
-- [Unlogged &lpar;YC S22&rpar; Is Hiring a Founding Engineer](https://news.ycombinator.com/item?id=39223649)
-- [Harvard Faces New Threat of State Tax on $51B Endowment](https://www.bloomberg.com/news/articles/2024-02-01/harvard-faces-new-threat-of-state-tax-on-51-billion-endowment)
-- [OLMo: Accelerating the Science of Language Models [pdf]](https://allenai.org/olmo/olmo-paper.pdf)
-- [Frontman of Weezer, Rivers Cuomo, is an active developer on GitHub](https://github.com/riverscuomo)
-- [In a &#39;Dark Dimension,&#39; Physicists Search for the Universe&#39;s Missing Matter](https://www.quantamagazine.org/in-a-dark-dimension-physicists-search-for-missing-matter-20240201/)
-- [Genetic autopsies to unravel the mystery of sudden deaths](https://english.elpais.com/health/2024-01-25/genetic-autopsies-to-unravel-the-mystery-of-sudden-deaths.html)
-- [A startup allegedly &#39;hacked the world&#39;, then came censorship, and now backlash](https://www.wired.com/story/appin-training-centers-lawsuits-censorship/)
-- [Fixing a broken smart cat feeder with ESP32](https://pdx.su/blog/2024-01-19-fixing-a-broken-smart-cat-feeder-with-esp32/)
-- [Thanksgiving 2023 security incident](https://blog.cloudflare.com/thanksgiving-2023-security-incident)
+- [Did Apple Just Break Web Apps in iOS 17.4 Beta &lpar;EU&rpar;? – Open Web Advocacy](https://open-web-advocacy.org/blog/did-apple-just-break-web-apps-in-ios17.4-beta-eu/)
+- [A decoder-only foundation model for time-series forecasting](https://blog.research.google/2024/02/a-decoder-only-foundation-model-for.html)
+- [Python-based pinball software framework](https://missionpinball.org/)
+- [SeaweedFS fast distributed storage system for blobs, objects, files and datalake](https://github.com/seaweedfs/seaweedfs)
+- [Daunting papers/books and how to read them](https://mathoverflow.net/questions/463287/daunting-papers-books-and-how-to-finally-read-them)
+- [Carl Weathers has died](https://www.bbc.co.uk/news/world-us-canada-68188746)
+- [Rice scientists pull off quantum coup](https://news.rice.edu/news/2024/rice-scientists-pull-quantum-coup)
+- [Why Isn&#39;t the &lt;html&gt; Element 100% Supported on CanIUse.com?](https://anderegg.ca/2024/02/02/why-isnt-the-html-element-100-supported)
+- [Kodable is hiring a Full Stack Engineer to help teach kids to code](https://www.ziprecruiter.com/jobs/kodable-fd6f1626/senior-full-stack-software-engineer-c215f839)
+- [OpenBSD System-Call Pinning](https://lwn.net/SubscriberLink/959562/0578b8e463f790c1/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

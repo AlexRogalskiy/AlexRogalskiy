@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Court rules in favor of scraper Bright Data, which Meta had used and then sued](https://techcrunch.com/2024/01/24/court-rules-in-favor-of-a-web-scraper-bright-data-which-meta-had-used-and-then-sued/)
-- [China&#39;s CXMT aims to build country&#39;s first advanced memory chips for AI](https://asia.nikkei.com/Business/Tech/Semiconductors/China-s-CXMT-aims-to-build-country-s-first-advanced-memory-chips-for-AI)
-- [Search for John](https://www.searchforjohn.com/info/en/about)
-- [IgG4 Antibodies Induced by Vaccine May Generate Immune Tolerance to SARS-CoV-2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10222767/)
-- [Mercedes announces Hamilton split as Ferrari move for F1 2025 finalised](https://www.autosport.com/f1/news/mercedes-announces-hamilton-split-ahead-of-ferrari-move-for-f1-2025/10571402/)
-- [Ex-CIA engineer gets 40 years for giving hacking secrets to WikiLeaks](https://www.npr.org/2024/02/01/1228493323/former-cia-engineer-sentenced-40-years-wikileaks)
-- [A personal link shortener using mostly S3](https://www.jonathanychan.com/blog/link-shortener/)
-- [FDA says 561 deaths tied to recalled Philips sleep apnea machines](https://www.cbsnews.com/news/fda-sleep-apnea-philips-recall-cpap/)
-- [FTX&#39;s Missing $400M Were Stolen in SIM-Swapping Hack, DOJ Says](https://www.bloomberg.com/news/articles/2024-02-01/ftx-s-missing-400-million-stolen-in-sim-swapping-hack-doj-says)
-- [Building Dynamic Toolbars and Menus](https://www.eraser.io/decision-node/dynamic-toolbars-and-menus)
+- [Grants for Operating Systems](https://sleepmap.de/2023/grants-for-operating-systems/)
+- [Explained: That Weird Throbbing When You Open One Car Window](https://www.caranddriver.com/news/a15344069/explained-that-weird-throbbing-when-you-open-one-car-window/)
+- [Mseal&lpar;&rpar; Gets Closer](https://lwn.net/Articles/958438/)
+- [How to make a great framework better? – Svelte 5 with Rich Harris [video]](https://www.youtube.com/watch?v=z7n17ajJpCo)
+- [Factorio – Sound Improvements in 2.0](https://factorio.com/blog/post/fff-396)
+- [Suspected spy pigeon released after eight months in detention in India](https://www.theguardian.com/world/2024/feb/02/india-spy-pidgeon-suspect-china)
+- [Did Apple Just Break Web Apps in iOS 17.4 Beta &lpar;EU&rpar;? – Open Web Advocacy](https://open-web-advocacy.org/blog/did-apple-just-break-web-apps-in-ios17.4-beta-eu/)
+- [Survive a Nuke in a Tank by the Tank Museum [video]](https://www.youtube.com/watch?v=Rsi_nfUyL8k)
+- [&quot;Landmark&quot; Safe Drug Supply Study Has Serious Flaws](https://thehub.ca/2024-02-01/adam-zivo-new-landmark-safer-supply-study-is-junk-science/)
+- [AI learns language through the experience of a single child](https://www.psypost.org/2024/02/ai-autonomously-learns-language-through-the-experience-of-a-single-child-in-groundbreaking-study-221166)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

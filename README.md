@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Grants for Operating Systems](https://sleepmap.de/2023/grants-for-operating-systems/)
-- [Explained: That Weird Throbbing When You Open One Car Window](https://www.caranddriver.com/news/a15344069/explained-that-weird-throbbing-when-you-open-one-car-window/)
-- [Mseal&lpar;&rpar; Gets Closer](https://lwn.net/Articles/958438/)
-- [How to make a great framework better? – Svelte 5 with Rich Harris [video]](https://www.youtube.com/watch?v=z7n17ajJpCo)
-- [Factorio – Sound Improvements in 2.0](https://factorio.com/blog/post/fff-396)
-- [Suspected spy pigeon released after eight months in detention in India](https://www.theguardian.com/world/2024/feb/02/india-spy-pidgeon-suspect-china)
-- [Did Apple Just Break Web Apps in iOS 17.4 Beta &lpar;EU&rpar;? – Open Web Advocacy](https://open-web-advocacy.org/blog/did-apple-just-break-web-apps-in-ios17.4-beta-eu/)
-- [Survive a Nuke in a Tank by the Tank Museum [video]](https://www.youtube.com/watch?v=Rsi_nfUyL8k)
-- [&quot;Landmark&quot; Safe Drug Supply Study Has Serious Flaws](https://thehub.ca/2024-02-01/adam-zivo-new-landmark-safer-supply-study-is-junk-science/)
-- [AI learns language through the experience of a single child](https://www.psypost.org/2024/02/ai-autonomously-learns-language-through-the-experience-of-a-single-child-in-groundbreaking-study-221166)
+- [Doom Didn&#39;t Kill the Amiga](https://www.datagubbe.se/afb/)
+- [Almost Like Analog VR](https://www.theverge.com/2024/2/3/24060626/almost-like-analog-vr)
+- [Anxiety, Mood Swings and Sleepless Nights: Life Near a Bitcoin Mine](https://www.nytimes.com/2024/02/03/us/bitcoin-arkansas-noise-pollution.html)
+- [Use the Source](https://sfconservancy.org/usethesource/)
+- [Voxray trailer: Impressive new game engine from legacy open source/CryEngine dev](https://twitter.com/voxraygames/status/1753171464487059815)
+- [Bitcoin: Why miners continue to get rid of their BTC](https://ambcrypto.com/bitcoin-why-miners-continue-to-get-rid-of-their-btc/)
+- [Tesla Recalls Almost Every Vehicle Ever Sold in the US](https://uk.pcmag.com/cars-auto/150738/tesla-recalls-almost-every-vehicle-its-sold-in-the-us)
+- [Use the Source a Revolution in Grassroots Software Right to Repair](https://sfconservancy.org/news/2024/feb/03/use-the-source-launched/)
+- [Without software right to repair, your devices are not secure](https://sfconservancy.org/blog/2024/feb/03/ccirt-security-and-software-right-to-repair/)
+- [Tesla Cybertruck vs. DIY Electric Hummer [video]](https://www.youtube.com/watch?v=h-fTk8NjJ5U)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

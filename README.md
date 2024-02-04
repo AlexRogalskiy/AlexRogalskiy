@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Did Apple Just Break Web Apps in iOS 17.4 Beta &lpar;EU&rpar;? – Open Web Advocacy](https://open-web-advocacy.org/blog/did-apple-just-break-web-apps-in-ios17.4-beta-eu/)
-- [A decoder-only foundation model for time-series forecasting](https://blog.research.google/2024/02/a-decoder-only-foundation-model-for.html)
-- [Python-based pinball software framework](https://missionpinball.org/)
-- [SeaweedFS fast distributed storage system for blobs, objects, files and datalake](https://github.com/seaweedfs/seaweedfs)
-- [Daunting papers/books and how to read them](https://mathoverflow.net/questions/463287/daunting-papers-books-and-how-to-finally-read-them)
-- [Carl Weathers has died](https://www.bbc.co.uk/news/world-us-canada-68188746)
-- [Rice scientists pull off quantum coup](https://news.rice.edu/news/2024/rice-scientists-pull-quantum-coup)
-- [Why Isn&#39;t the &lt;html&gt; Element 100% Supported on CanIUse.com?](https://anderegg.ca/2024/02/02/why-isnt-the-html-element-100-supported)
-- [Kodable is hiring a Full Stack Engineer to help teach kids to code](https://www.ziprecruiter.com/jobs/kodable-fd6f1626/senior-full-stack-software-engineer-c215f839)
-- [OpenBSD System-Call Pinning](https://lwn.net/SubscriberLink/959562/0578b8e463f790c1/)
+- [Vision Pro Teardown–Why Those Fake Eyes Look So Weird](https://www.ifixit.com/News/90137/vision-pro-teardown-why-those-fake-eyes-look-so-weird)
+- [Bernoulli&#39;s Principle Applied to Firefighting – Box Alarm Training](https://www.boxalarmtraining.com/blog/bernoullis-principle-applied-to-firefighting-box-alarm-training)
+- [The DIY Diggers Who Can&#39;t Stop Making &#39;Hobby Tunnels&#39;](https://www.bloomberg.com/news/features/2024-02-03/dig-if-you-will-the-underground-world-of-hobby-tunneling)
+- [TCC RISC-V Compiler Runs in the Web Browser &lpar;Thanks to Zig Compiler&rpar;](https://lupyuen.codeberg.page/articles/tcc.html)
+- [The King of Curcumin: a case study in consequences of large-scale research fraud](https://reeserichardson.blog/2024/01/30/the-king-of-curcumin-a-case-study-in-the-consequences-of-large-scale-research-fraud/)
+- [Researchers taking on fraudulent science](https://www.analystnews.org/posts/plagiarism-paper-mills-and-profit-these-scientists-are-fighting-the-epidemic-of-fraudulent-science-research)
+- [A brief history of the U.S. trying to add backdoors into encrypted data &lpar;2016&rpar;](https://www.atlasobscura.com/articles/a-brief-history-of-the-nsa-attempting-to-insert-backdoors-into-encrypted-data)
+- [Cork is displacing plastics and creating a billion-dollar industry](https://www.washingtonpost.com/climate-solutions/2024/02/03/cork-sustainable-material/)
+- [How much bigger could Earth be before rockets wouldn&#39;t work?](https://space.stackexchange.com/questions/14383/how-much-bigger-could-earth-be-before-rockets-wouldnt-work)
+- [Low-Power Wi-Fi Extends Signals Up to 3 Kilometers](https://spectrum.ieee.org/wi-fi-halow)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

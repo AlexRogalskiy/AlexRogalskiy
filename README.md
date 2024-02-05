@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war at a glance: what we know on day 711](https://www.theguardian.com/world/2024/feb/04/russia-ukraine-war-at-a-glance-what-we-know-on-day-711)
-- [Biden wins South Carolina Democratic primary for presidential nomination](https://www.theguardian.com/us-news/2024/feb/03/joe-biden-wins-south-carolina-democratic-primary-presidential-nomination)
-- [Conor Benn sees off Dobson as Joshua Buatsi inflicts first defeat on Dan Azeez](https://www.theguardian.com/sport/2024/feb/03/boxing-joshua-buatsi-beats-rival-dan-azeez-wembley-arena)
-- [US and UK hit 30 Houthi targets to further weaken Iran-backed groups](https://www.theguardian.com/us-news/2024/feb/03/us-uk-airstrikes-houthis-yemen)
-- [Editors’ picks: 5 ways to incorporate a puffer jacket into your wardrobe – in pictures](https://www.theguardian.com/fashion/gallery/2024/feb/03/editors-picks-5-ways-to-incorporate-a-puffer-jacket-into-your-wardrobe-in-pictures)
-- [Solid-state batteries: inside the race to transform the science of electric vehicles](https://www.theguardian.com/environment/2024/feb/04/solid-state-batteries-inside-the-race-to-transform-the-science-of-electric-vehicles)
-- [Tell Them You Love Me review – this chilling documentary is vital, challenging TV](https://www.theguardian.com/tv-and-radio/2024/feb/03/tell-them-you-love-me-review-this-chilling-documentary-is-vital-challenging-tv)
-- [‘Time caught up with his visions’: Friedensreich Hundertwasser’s New Zealand legacy](https://www.theguardian.com/travel/2024/feb/04/time-caught-up-with-his-visions-friedensreich-hundertwassers-new-zealand-legacy)
-- [Forest fires in Chile cause multiple deaths and widespread destruction](https://www.theguardian.com/world/2024/feb/03/forest-fires-in-chile-cause-multiple-deaths-and-widespread-destruction)
-- [Russia says 20 killed in Ukrainian shelling of bakery in Lysychansk](https://www.theguardian.com/world/2024/feb/03/russian-says-11-killed-in-ukrainian-shelling-of-bakery-in-lysychansk)
+- [Grammys 2024: the winners, best moments and performances - live](https://www.theguardian.com/music/live/2024/feb/04/grammys-2024-live-updates)
+- [Philippines says it is ready to use force to quell secession attempts as Duterte row deepens](https://www.theguardian.com/world/2024/feb/05/philippines-secession-attempts-force-mindanao-president-ferdinand-marcos-jr-alliance)
+- [Zelenskiy preparing to replace senior officials amid Ukraine leadership ‘reset’](https://www.theguardian.com/world/2024/feb/05/ukraine-leadership-change-reset-zelenskiy-replace-senior-officials)
+- [Indonesia election: everything you need to know](https://www.theguardian.com/world/2024/feb/05/2024-indonesia-general-election-everything-you-need-to-know)
+- [US Senate releases draft bill to toughen border measures while securing aid to Ukraine and Israel](https://www.theguardian.com/us-news/2024/feb/04/us-mexico-border-shut-down-requirement-immigration-bill-senate)
+- [Sex, Me and Disability review – was it really necessary to spend so much time on sex workers?](https://www.theguardian.com/tv-and-radio/2024/feb/05/sex-me-and-disability-review-was-it-really-necessary-to-spend-so-much-time-on-sex-workers)
+- [Black police officers’ group calls for ethnic minorities to boycott joining Met](https://www.theguardian.com/uk-news/2024/feb/05/black-police-officers-group-calls-for-ethnic-minorities-to-boycott-joining-met)
+- [Oesophageal cancer test ‘should be made more available in UK’](https://www.theguardian.com/society/2024/feb/05/oesophageal-cancer-test-should-be-made-more-available-in-uk)
+- [Asylum seekers evacuated from hotel near Heathrow after power failure](https://www.theguardian.com/uk-news/2024/feb/04/asylum-seekers-evacuated-hotel-power-failure)
+- [Atlético’s Marcos Llorente heads late leveller to dent Real Madrid’s title hopes](https://www.theguardian.com/football/2024/feb/04/real-madrid-atletico-madrid-la-liga-match-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

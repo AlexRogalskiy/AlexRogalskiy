@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Doom Didn&#39;t Kill the Amiga](https://www.datagubbe.se/afb/)
-- [Almost Like Analog VR](https://www.theverge.com/2024/2/3/24060626/almost-like-analog-vr)
-- [Anxiety, Mood Swings and Sleepless Nights: Life Near a Bitcoin Mine](https://www.nytimes.com/2024/02/03/us/bitcoin-arkansas-noise-pollution.html)
-- [Use the Source](https://sfconservancy.org/usethesource/)
-- [Voxray trailer: Impressive new game engine from legacy open source/CryEngine dev](https://twitter.com/voxraygames/status/1753171464487059815)
-- [Bitcoin: Why miners continue to get rid of their BTC](https://ambcrypto.com/bitcoin-why-miners-continue-to-get-rid-of-their-btc/)
-- [Tesla Recalls Almost Every Vehicle Ever Sold in the US](https://uk.pcmag.com/cars-auto/150738/tesla-recalls-almost-every-vehicle-its-sold-in-the-us)
-- [Use the Source a Revolution in Grassroots Software Right to Repair](https://sfconservancy.org/news/2024/feb/03/use-the-source-launched/)
-- [Without software right to repair, your devices are not secure](https://sfconservancy.org/blog/2024/feb/03/ccirt-security-and-software-right-to-repair/)
-- [Tesla Cybertruck vs. DIY Electric Hummer [video]](https://www.youtube.com/watch?v=h-fTk8NjJ5U)
+- [As HN: RustDesk Installs Chinese Root Certificates](https://news.ycombinator.com/item?id=39256493)
+- [The IRS has all our tax data. Why doesn&#39;t its new website use it?](https://www.washingtonpost.com/business/2024/02/04/direct-file-irs-taxes/)
+- [Did you know that there&#39;s a building on wheels in New York City?](https://blog.ferrovial.com/en/2023/11/a-building-on-wheels-in-new-york-city/)
+- [Show HN: An opinionated TS package build toolchain with typed configuration](https://github.com/pkg-tools/pkg-tools)
+- [Apple Ramped Up Autonomous Vehicle Testing Last Year, Filings Show](https://www.wired.com/story/apple-ramped-up-autonomous-vehicle-testing-last-year/)
+- [Django-Hyperview Package](https://github.com/ramiboutas/django-hyperview)
+- [Nebraska experts weigh highway safety and electric vehicles](https://engineering.unl.edu/news/240131/mwrsf_evs_safety/)
+- [A mechanical 7-segment display](https://mastodon.gamedev.place/@marian42/111874598700825284)
+- [The 100-Year Extinction Panic Is Back, Right on Schedule](https://www.nytimes.com/2024/01/26/opinion/polycrisis-doom-extinction-humanity.html)
+- [Deciphering the &quot;Dolphic&quot; text found in several levels of Super Mario Sunshine](https://www.youtube.com/watch?v=H1CNpu4fguI)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Grammys 2024: the winners, best moments and performances - live](https://www.theguardian.com/music/live/2024/feb/04/grammys-2024-live-updates)
-- [Philippines says it is ready to use force to quell secession attempts as Duterte row deepens](https://www.theguardian.com/world/2024/feb/05/philippines-secession-attempts-force-mindanao-president-ferdinand-marcos-jr-alliance)
-- [Zelenskiy preparing to replace senior officials amid Ukraine leadership ‘reset’](https://www.theguardian.com/world/2024/feb/05/ukraine-leadership-change-reset-zelenskiy-replace-senior-officials)
-- [Indonesia election: everything you need to know](https://www.theguardian.com/world/2024/feb/05/2024-indonesia-general-election-everything-you-need-to-know)
-- [US Senate releases draft bill to toughen border measures while securing aid to Ukraine and Israel](https://www.theguardian.com/us-news/2024/feb/04/us-mexico-border-shut-down-requirement-immigration-bill-senate)
-- [Sex, Me and Disability review – was it really necessary to spend so much time on sex workers?](https://www.theguardian.com/tv-and-radio/2024/feb/05/sex-me-and-disability-review-was-it-really-necessary-to-spend-so-much-time-on-sex-workers)
-- [Black police officers’ group calls for ethnic minorities to boycott joining Met](https://www.theguardian.com/uk-news/2024/feb/05/black-police-officers-group-calls-for-ethnic-minorities-to-boycott-joining-met)
-- [Oesophageal cancer test ‘should be made more available in UK’](https://www.theguardian.com/society/2024/feb/05/oesophageal-cancer-test-should-be-made-more-available-in-uk)
-- [Asylum seekers evacuated from hotel near Heathrow after power failure](https://www.theguardian.com/uk-news/2024/feb/04/asylum-seekers-evacuated-hotel-power-failure)
-- [Atlético’s Marcos Llorente heads late leveller to dent Real Madrid’s title hopes](https://www.theguardian.com/football/2024/feb/04/real-madrid-atletico-madrid-la-liga-match-report)
+- [Viral videos of Tesla drivers using VR headsets prompt US government alarm](https://www.theguardian.com/technology/2024/feb/05/viral-tesla-vr-driving-pete-buttigieg-tweet)
+- [Tokyo snow: first flurries of the year land in the Japanese capital – in pictures](https://www.theguardian.com/world/gallery/2024/feb/06/japan-tokyo-snow-photos-2024-february)
+- [Social media algorithms ‘amplifying misogynistic content’](https://www.theguardian.com/media/2024/feb/06/social-media-algorithms-amplifying-misogynistic-content)
+- [Make used electric cars cheaper and tackle battery fears, peers tell ministers](https://www.theguardian.com/environment/2024/feb/06/used-electric-cars-battery-lords-evs)
+- [UK’s January sales failed to revive consumer spending, say retailers](https://www.theguardian.com/business/2024/feb/06/uk-january-sales-consumer-retailers-brc)
+- [New Zealand’s Treaty of Waitangi explained in 30 seconds](https://www.theguardian.com/world/2024/feb/06/new-zealands-treaty-of-waitangi-explained-in-30-seconds)
+- [Decades of research destroyed after freezer fails at Swedish university](https://www.theguardian.com/world/2024/feb/05/decades-of-research-destroyed-after-freezer-fails-at-swedish-university)
+- [Manchester City cut gap at top as Phil Foden hat-trick leads rally at Brentford](https://www.theguardian.com/football/2024/feb/05/brentford-manchester-city-premier-league-match-report)
+- [Ethan Roots emerges from whirlwind to offer England a firm foundation](https://www.theguardian.com/sport/2024/feb/05/ethan-roots-england-six-nations-exter)
+- [Curb Your Enthusiasm final season review – Larry David is the very best in the business](https://www.theguardian.com/tv-and-radio/2024/feb/05/curb-your-enthusiasm-final-season-review-larry-david-is-the-very-best-in-the-business)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

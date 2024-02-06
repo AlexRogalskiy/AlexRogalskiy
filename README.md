@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [As HN: RustDesk Installs Chinese Root Certificates](https://news.ycombinator.com/item?id=39256493)
-- [The IRS has all our tax data. Why doesn&#39;t its new website use it?](https://www.washingtonpost.com/business/2024/02/04/direct-file-irs-taxes/)
-- [Did you know that there&#39;s a building on wheels in New York City?](https://blog.ferrovial.com/en/2023/11/a-building-on-wheels-in-new-york-city/)
-- [Show HN: An opinionated TS package build toolchain with typed configuration](https://github.com/pkg-tools/pkg-tools)
-- [Apple Ramped Up Autonomous Vehicle Testing Last Year, Filings Show](https://www.wired.com/story/apple-ramped-up-autonomous-vehicle-testing-last-year/)
-- [Django-Hyperview Package](https://github.com/ramiboutas/django-hyperview)
-- [Nebraska experts weigh highway safety and electric vehicles](https://engineering.unl.edu/news/240131/mwrsf_evs_safety/)
-- [A mechanical 7-segment display](https://mastodon.gamedev.place/@marian42/111874598700825284)
-- [The 100-Year Extinction Panic Is Back, Right on Schedule](https://www.nytimes.com/2024/01/26/opinion/polycrisis-doom-extinction-humanity.html)
-- [Deciphering the &quot;Dolphic&quot; text found in several levels of Super Mario Sunshine](https://www.youtube.com/watch?v=H1CNpu4fguI)
+- [The Fight for Air Superiority in the Aegean](https://www.thedefensepost.com/2024/01/31/turkey-greece-air-superiority-aegean/)
+- [ScatterAlloc: Massively Parallel Dynamic Memory Allocation for the GPU](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=802fed876e180f32c06ede4d1cc951ba44f79dd2)
+- [YouTube Claims an Apple Vision Pro App Is on the Roadmap](https://www.macrumors.com/2024/02/05/youtube-vision-pro-app-on-roadmap/)
+- [How to cache data using GDB&#39;s Python API](https://developers.redhat.com/articles/2024/02/05/how-cache-data-using-gdbs-python-api)
+- [How to Enable WebXR on Apple Vision Pro](https://appleinsider.com/inside/apple-vision-pro/tips/how-to-enable-webxr-support-on-apple-vision-pro)
+- [Speeding Up IsBlank&lpar;&rpar;](https://www.romainguy.dev/posts/2024/speeding-up-isblank/)
+- [Elon Musk took drugs with Tesla board members](https://fortune.com/2024/02/04/elon-musk-took-drugs-with-tesla-board-members-report/)
+- [&quot;Because the I in UI meant &#39;intent&#39; all along.&quot;](https://acko.net/blog/i-is-for-intent/)
+- [Ask HN: Best books on early/prehistoric humans?](https://news.ycombinator.com/item?id=39269843)
+- [Zoozve Is Official [pdf]](https://www.wgsbn-iau.org/files/Bulletins/V004/WGSBNBull_V004_002.pdf)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

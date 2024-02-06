@@ -355,6 +355,8 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Apple has eye on building bigger genAI data sets](https://www.computerworld.com/article/3712708/apple-has-eye-on-building-bigger-genai-data-sets.html#tk.rss_all)
+- [How to make a Windows 10 or 11 image backup](https://www.computerworld.com/article/3655693/how-to-make-image-backup-windows-10-windows-11.html#tk.rss_all)
 - [Google Workspace tips and tutorials](https://www.computerworld.com/article/3704811/how-to-use-google-workspace-tips-tutorials-cheat-sheets.html#tk.rss_all)
 - [How many jobs are available in technology in the US?](https://www.computerworld.com/article/3542681/how-many-jobs-are-available-in-technology.html#tk.rss_all)
 - [Tim Cook brings Apple&#39;s GenAI plans into the light](https://www.computerworld.com/article/3712703/tim-cook-brings-apples-genai-plans-into-the-light.html#tk.rss_all)
@@ -363,8 +365,6 @@
 - [Vision Pro’s killer feature? It’s a wearable Mac](https://www.computerworld.com/article/3712682/vision-pros-killer-feature-its-a-wearable-mac.html#tk.rss_all)
 - [Q&amp;A: How Thomson Reuters used genAI to enable a citizen developer workforce](https://www.computerworld.com/article/3712565/qa-how-thomson-reuters-used-genai-to-enable-a-citizen-developer-workforce.html#tk.rss_all)
 - [Latest US alert on Chinese companies sparks supply chain concerns](https://www.computerworld.com/article/3712681/latest-us-alert-on-chinese-companies-sparks-supply-chain-concerns.html#tk.rss_all)
-- [Generative AI boosts cloud revenue for Microsoft, Google](https://www.computerworld.com/article/3712661/generative-ai-boosts-cloud-revenue-for-microsoft-google.html#tk.rss_all)
-- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

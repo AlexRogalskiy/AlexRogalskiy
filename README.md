@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Apple Ramped Up Autonomous Vehicle Testing Last Year, Filings Show](https://www.wired.com/story/apple-ramped-up-autonomous-vehicle-testing-last-year/)
-- [Small Business and Mid Market Is Not Easier Than Enterprise](https://www.jjellyfish.com/articles/debunking-the-myth-smbmid-market-is-not-easier-than-enterprise)
-- [The pain points of building a copilot](https://austinhenley.com/blog/copilotpainpoints.html)
-- [Netflix: Piracy is difficult to compete against and growing rapidly](https://torrentfreak.com/netflix-piracy-is-difficult-to-compete-against-and-growing-rapidly-240204/)
-- [Meticulous &lpar;YC S21&rpar; is hiring to eliminate UI testing](https://news.ycombinator.com/item?id=39254438)
-- [Solving the darknet riddle &lpar;2022&rpar;](https://sizeof.life/posts/darknet-riddle/)
-- [Stract: Open-souce, non-profit search engine](https://stract.com/)
-- [Dijkstra&#39;s interview on Dutch TV &lpar;2000&rpar;](https://pncnmnp.github.io/blogs/translating-dijakstra.html)
-- [Sapling: Experimental vi-inspired editor where you edit code, not text](https://github.com/kneasle/sapling)
-- [How the codpiece flopped](https://www.bbc.com/future/article/20240202-what-happened-to-the-codpiece)
+- [New viruslike entities found in human gut microbes](https://www.science.org/content/article/it-s-insane-new-viruslike-entities-found-human-gut-microbes)
+- [Panda CSS: build time and type-safe CSS-in-JS](https://panda-css.com/)
+- [Companies embracing SMS for account logins should be blamed for SIM-swap attacks](https://keydiscussions.com/2024/02/05/sim-swap-attacks-can-be-blamed-on-companies-embracing-sms-based-password-resets/)
+- [I worked 80 hour weeks to deliver a platform for a hedge fund,then they fired me](https://www.efinancialcareers.com/news/i-worked-80-hour-weeks-to-deliver-a-platform-for-a-hedge-fund-then-they-fired-me)
+- [Organ playing 639-year-long piece changes chord](https://www.bbc.com/news/world-europe-68209691)
+- [The little SSH that sometimes couldn&#39;t &lpar;2012&rpar;](https://mina.naguib.ca/blog/2012/10/22/the-little-ssh-that-sometimes-couldnt.html)
+- [My business card runs Linux and Ultrix &lpar;2022&rpar;](https://dmitry.gr/?r=05.Projects&proj=33.+LinuxCard)
+- [FAA Aviation Maps](https://www.beautifulpublicdata.com/faa-aviation-maps/)
+- [We&#39;ve already seen category 6 hurricanes – scientists want to make it official](https://eos.org/articles/weve-already-seen-category-6-hurricanes-now-scientists-want-to-make-it-official)
+- [New E. coli strain will accelerate evolution of the genes of your choice](https://arstechnica.com/science/2024/02/new-e-coli-strain-will-accelerate-evolution-of-the-genes-of-your-choice/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

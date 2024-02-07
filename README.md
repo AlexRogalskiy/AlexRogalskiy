@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Viral videos of Tesla drivers using VR headsets prompt US government alarm](https://www.theguardian.com/technology/2024/feb/05/viral-tesla-vr-driving-pete-buttigieg-tweet)
-- [Tokyo snow: first flurries of the year land in the Japanese capital – in pictures](https://www.theguardian.com/world/gallery/2024/feb/06/japan-tokyo-snow-photos-2024-february)
-- [Social media algorithms ‘amplifying misogynistic content’](https://www.theguardian.com/media/2024/feb/06/social-media-algorithms-amplifying-misogynistic-content)
-- [Make used electric cars cheaper and tackle battery fears, peers tell ministers](https://www.theguardian.com/environment/2024/feb/06/used-electric-cars-battery-lords-evs)
-- [UK’s January sales failed to revive consumer spending, say retailers](https://www.theguardian.com/business/2024/feb/06/uk-january-sales-consumer-retailers-brc)
-- [New Zealand’s Treaty of Waitangi explained in 30 seconds](https://www.theguardian.com/world/2024/feb/06/new-zealands-treaty-of-waitangi-explained-in-30-seconds)
-- [Decades of research destroyed after freezer fails at Swedish university](https://www.theguardian.com/world/2024/feb/05/decades-of-research-destroyed-after-freezer-fails-at-swedish-university)
-- [Manchester City cut gap at top as Phil Foden hat-trick leads rally at Brentford](https://www.theguardian.com/football/2024/feb/05/brentford-manchester-city-premier-league-match-report)
-- [Ethan Roots emerges from whirlwind to offer England a firm foundation](https://www.theguardian.com/sport/2024/feb/05/ethan-roots-england-six-nations-exter)
-- [Curb Your Enthusiasm final season review – Larry David is the very best in the business](https://www.theguardian.com/tv-and-radio/2024/feb/05/curb-your-enthusiasm-final-season-review-larry-david-is-the-very-best-in-the-business)
+- [New Zealand appeals for release of pilot kidnapped in West Papua one year ago](https://www.theguardian.com/world/2024/feb/07/kidnapped-nz-pilot-phillip-mehrtens-release-west-papua)
+- [Russia-Ukraine war at a glance: what we know on day 714](https://www.theguardian.com/world/2024/feb/07/russia-ukraine-war-at-a-glance-what-we-know-on-day-714)
+- [Republicans’ standalone Israel aid bill fails in House vote](https://www.theguardian.com/us-news/2024/feb/06/republicans-israel-aid-bill-fails-house-vote)
+- [Myanmar: airstrike on school killed four children, witnesses say](https://www.theguardian.com/global-development/2024/feb/07/myanmar-military-airstrike-karenni-state-school-daw-si-ei-village)
+- [Children’s emergency mental health referrals in England soar by 53%](https://www.theguardian.com/society/2024/feb/07/childrens-emergency-mental-health-referrals-in-england-soar-by-53)
+- [NHS dentistry ‘recovery plan’ not worthy of the title, dentists say](https://www.theguardian.com/politics/2024/feb/07/nhs-dentistry-recovery-plan-not-worthy-of-the-title-dentists-say)
+- [UK’s poorest have borne brunt of cost of living crisis, says thinktank](https://www.theguardian.com/business/2024/feb/07/uks-poorest-have-borne-brunt-of-cost-of-living-crisis-says-thinktank)
+- [‘All good to take to school?’: Australian influencers promote flavoured nicotine pouches to vape-addicted youths](https://www.theguardian.com/australia-news/2024/feb/07/all-good-to-take-to-school-australian-influencers-spruik-flavoured-nicotine-pouches-to-vape-addicted-youths)
+- [Antidepressant use higher for women around breakups than men – study](https://www.theguardian.com/society/2024/feb/06/antidepressant-use-higher-for-women-around-breakups-than-men-study)
+- [Todd Cantwell scores Rangers’ winner against Neil Warnock’s Aberdeen](https://www.theguardian.com/football/2024/feb/06/rangers-aberdeen-match-report-neil-warnock)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [New viruslike entities found in human gut microbes](https://www.science.org/content/article/it-s-insane-new-viruslike-entities-found-human-gut-microbes)
-- [Panda CSS: build time and type-safe CSS-in-JS](https://panda-css.com/)
-- [Companies embracing SMS for account logins should be blamed for SIM-swap attacks](https://keydiscussions.com/2024/02/05/sim-swap-attacks-can-be-blamed-on-companies-embracing-sms-based-password-resets/)
-- [I worked 80 hour weeks to deliver a platform for a hedge fund,then they fired me](https://www.efinancialcareers.com/news/i-worked-80-hour-weeks-to-deliver-a-platform-for-a-hedge-fund-then-they-fired-me)
-- [Organ playing 639-year-long piece changes chord](https://www.bbc.com/news/world-europe-68209691)
-- [The little SSH that sometimes couldn&#39;t &lpar;2012&rpar;](https://mina.naguib.ca/blog/2012/10/22/the-little-ssh-that-sometimes-couldnt.html)
-- [My business card runs Linux and Ultrix &lpar;2022&rpar;](https://dmitry.gr/?r=05.Projects&proj=33.+LinuxCard)
-- [FAA Aviation Maps](https://www.beautifulpublicdata.com/faa-aviation-maps/)
-- [We&#39;ve already seen category 6 hurricanes – scientists want to make it official](https://eos.org/articles/weve-already-seen-category-6-hurricanes-now-scientists-want-to-make-it-official)
-- [New E. coli strain will accelerate evolution of the genes of your choice](https://arstechnica.com/science/2024/02/new-e-coli-strain-will-accelerate-evolution-of-the-genes-of-your-choice/)
+- [Go 1.22 Release Notes](https://go.dev/doc/go1.22)
+- [Making steel without emitting CO2](https://www.science.org/content/article/electrifying-new-ironmaking-method-could-slash-carbon-emissions)
+- [The leadership myth in replicated databases &lpar;2023&rpar;](https://maheshba.bitbucket.io/blog/2023/05/06/Leadership.html)
+- [The three million toothbrush botnet story isn&#39;t true](https://cyberplace.social/@GossiTheDog/111886558855943676)
+- [Setting up a secondary Pi-Hole on my home network](https://www.dzombak.com/blog/2024/02/Setting-up-a-secondary-Pi-Hole-on-my-home-network.html)
+- [SQL for data scientists in 100 queries](https://gvwilson.github.io/sql-tutorial/)
+- [Alaska Airlines flight 1282 NTSB preliminary report [pdf]](https://www.ntsb.gov/investigations/Documents/DCA24MA063%20Preliminary%20report.pdf)
+- [Spine AI &lpar;YC S23&rpar; Is Hiring a Lead ML Scientist](https://www.ycombinator.com/companies/spine-ai/jobs/Z1hz3BZ-lead-applied-ml-scientist)
+- [Show HN: Geppetto, an open source AI companion for your Slack teams](https://github.com/Deeptechia/geppetto)
+- [New IBM LinuxONE 4 Express – Rack-mounted pre-configured Linux mainframe](https://newsroom.ibm.com/2024-02-06-New-IBM-LinuxONE-4-Express-to-Offer-Cost-Savings-and-Client-Value-through-a-Cyber-Resilient-Hybrid-Cloud-and-AI-Platform)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

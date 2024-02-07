@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Fight for Air Superiority in the Aegean](https://www.thedefensepost.com/2024/01/31/turkey-greece-air-superiority-aegean/)
-- [ScatterAlloc: Massively Parallel Dynamic Memory Allocation for the GPU](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=802fed876e180f32c06ede4d1cc951ba44f79dd2)
-- [YouTube Claims an Apple Vision Pro App Is on the Roadmap](https://www.macrumors.com/2024/02/05/youtube-vision-pro-app-on-roadmap/)
-- [How to cache data using GDB&#39;s Python API](https://developers.redhat.com/articles/2024/02/05/how-cache-data-using-gdbs-python-api)
-- [How to Enable WebXR on Apple Vision Pro](https://appleinsider.com/inside/apple-vision-pro/tips/how-to-enable-webxr-support-on-apple-vision-pro)
-- [Speeding Up IsBlank&lpar;&rpar;](https://www.romainguy.dev/posts/2024/speeding-up-isblank/)
-- [Elon Musk took drugs with Tesla board members](https://fortune.com/2024/02/04/elon-musk-took-drugs-with-tesla-board-members-report/)
-- [&quot;Because the I in UI meant &#39;intent&#39; all along.&quot;](https://acko.net/blog/i-is-for-intent/)
-- [Ask HN: Best books on early/prehistoric humans?](https://news.ycombinator.com/item?id=39269843)
-- [Zoozve Is Official [pdf]](https://www.wgsbn-iau.org/files/Bulletins/V004/WGSBNBull_V004_002.pdf)
+- [Azure VM performance benchmarks using AKS](https://www.augmentedmind.de/2024/01/28/benchmark-azure-vm-in-kubernetes/)
+- [Meet Me in the Eternal City](https://www.theatlantic.com/magazine/archive/2024/03/silicon-valley-billionaires-building-cities/677173/)
+- [Synchronize your Google calendar with Outlook 365 using Microsoft Power Automate](https://www.augmentedmind.de/2024/01/14/synchronize-google-calendar-with-outlook/)
+- [First passages of rolled-up Herculaneum scroll revealed](https://www.nature.com/articles/d41586-024-00346-8)
+- [Cheating with Chat-GPT](https://blogs.newardassociates.com/blog/2024/cheating-with-gpt.html)
+- [Olympic Airways Flight 411](https://en.wikipedia.org/wiki/Olympic_Airways_Flight_411)
+- [NYCB&#39;s Credit Grade Is Cut to Junk by Moody&#39;s](https://finance.yahoo.com/news/nycb-credit-grade-cut-junk-002802104.html)
+- [Show HN: Primate – Polymorphic Development Platform](https://github.com/primatejs/primate)
+- [A cultured snack: trying Fortnum and Mason&#39;s scotch egg with lab-grown meat](https://www.theguardian.com/food/2024/feb/03/a-very-cultured-snack-trying-fortnum-and-masons-scotch-egg-with-lab-grown-meat)
+- [Too much of a good thing: the trade-off we make with tests](https://ntietz.com/blog/too-much-of-a-good-thing-the-cost-of-excess-testing/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

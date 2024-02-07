@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Enrollments for federal low-income Internet subsidy program to end](https://www.computerworld.com/article/3712668/enrollments-for-federal-low-income-internet-subsidy-program-to-end.html#tk.rss_all)
+- [Cisco Webex comes to Apple’s Vision Pro](https://www.computerworld.com/article/3712722/cisco-webex-comes-to-apples-vision-pro.html#tk.rss_all)
+- [When a customer gets defrauded, should the enterprise reimburse?](https://www.computerworld.com/article/3712801/when-a-customer-gets-defrauded-should-the-enterprise-reimburse.html#tk.rss_all)
+- [How — and why — to upskill your employees](https://www.computerworld.com/article/3712360/how-and-why-to-upskill-your-employees.html#tk.rss_all)
+- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
 - [Apple has eye on building bigger genAI data sets](https://www.computerworld.com/article/3712708/apple-has-eye-on-building-bigger-genai-data-sets.html#tk.rss_all)
 - [How to make a Windows 10 or 11 image backup](https://www.computerworld.com/article/3655693/how-to-make-image-backup-windows-10-windows-11.html#tk.rss_all)
 - [Google Workspace tips and tutorials](https://www.computerworld.com/article/3704811/how-to-use-google-workspace-tips-tutorials-cheat-sheets.html#tk.rss_all)
 - [How many jobs are available in technology in the US?](https://www.computerworld.com/article/3542681/how-many-jobs-are-available-in-technology.html#tk.rss_all)
 - [Tim Cook brings Apple&#39;s GenAI plans into the light](https://www.computerworld.com/article/3712703/tim-cook-brings-apples-genai-plans-into-the-light.html#tk.rss_all)
-- [How to use the new genAI template tool in Google Sheets](https://www.computerworld.com/article/3712620/generative-ai-google-sheets-help-me-organize.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [Vision Pro’s killer feature? It’s a wearable Mac](https://www.computerworld.com/article/3712682/vision-pros-killer-feature-its-a-wearable-mac.html#tk.rss_all)
-- [Q&amp;A: How Thomson Reuters used genAI to enable a citizen developer workforce](https://www.computerworld.com/article/3712565/qa-how-thomson-reuters-used-genai-to-enable-a-citizen-developer-workforce.html#tk.rss_all)
-- [Latest US alert on Chinese companies sparks supply chain concerns](https://www.computerworld.com/article/3712681/latest-us-alert-on-chinese-companies-sparks-supply-chain-concerns.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

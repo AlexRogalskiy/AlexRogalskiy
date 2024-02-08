@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [New Zealand appeals for release of pilot kidnapped in West Papua one year ago](https://www.theguardian.com/world/2024/feb/07/kidnapped-nz-pilot-phillip-mehrtens-release-west-papua)
-- [Russia-Ukraine war at a glance: what we know on day 714](https://www.theguardian.com/world/2024/feb/07/russia-ukraine-war-at-a-glance-what-we-know-on-day-714)
-- [Republicans’ standalone Israel aid bill fails in House vote](https://www.theguardian.com/us-news/2024/feb/06/republicans-israel-aid-bill-fails-house-vote)
-- [Myanmar: airstrike on school killed four children, witnesses say](https://www.theguardian.com/global-development/2024/feb/07/myanmar-military-airstrike-karenni-state-school-daw-si-ei-village)
-- [Children’s emergency mental health referrals in England soar by 53%](https://www.theguardian.com/society/2024/feb/07/childrens-emergency-mental-health-referrals-in-england-soar-by-53)
-- [NHS dentistry ‘recovery plan’ not worthy of the title, dentists say](https://www.theguardian.com/politics/2024/feb/07/nhs-dentistry-recovery-plan-not-worthy-of-the-title-dentists-say)
-- [UK’s poorest have borne brunt of cost of living crisis, says thinktank](https://www.theguardian.com/business/2024/feb/07/uks-poorest-have-borne-brunt-of-cost-of-living-crisis-says-thinktank)
-- [‘All good to take to school?’: Australian influencers promote flavoured nicotine pouches to vape-addicted youths](https://www.theguardian.com/australia-news/2024/feb/07/all-good-to-take-to-school-australian-influencers-spruik-flavoured-nicotine-pouches-to-vape-addicted-youths)
-- [Antidepressant use higher for women around breakups than men – study](https://www.theguardian.com/society/2024/feb/06/antidepressant-use-higher-for-women-around-breakups-than-men-study)
-- [Todd Cantwell scores Rangers’ winner against Neil Warnock’s Aberdeen](https://www.theguardian.com/football/2024/feb/06/rangers-aberdeen-match-report-neil-warnock)
+- [Senate blocks bipartisan $118bn bill on US-Mexico border and Ukraine](https://www.theguardian.com/us-news/2024/feb/07/us-senate-vote-bipartisan-border-bill)
+- [Japan court lets transgender man change official status without sterilisation in legal first](https://www.theguardian.com/world/2024/feb/08/japan-transgender-man-status-change-ruling-court-sterilisation)
+- [Russia-Ukraine war at a glance: what we know on day 715](https://www.theguardian.com/world/2024/feb/08/russia-ukraine-war-at-a-glance-what-we-know-on-day-715)
+- [Surprise Moana sequel to hit cinemas this year, Disney announces](https://www.theguardian.com/film/2024/feb/08/moana-2-sequel-announced-release-date-cast-disney)
+- [More than half of British girls lack confidence learning maths, poll finds](https://www.theguardian.com/education/2024/feb/08/more-than-half-of-british-girls-lack-confidence-learning-maths-poll-finds)
+- [UK closer to large-scale conflict than in many years, intelligence official says](https://www.theguardian.com/politics/2024/feb/08/uk-closer-to-large-scale-conflict-than-in-many-years-intelligence-official-says)
+- [The Hills of California review – Jez Butterworth’s fractious family of singing sisters](https://www.theguardian.com/stage/2024/feb/08/the-hills-of-california-review-jerusalem-jez-butterworth-harold-pinter-theatre-london)
+- [Council of Europe calls on UK not to process asylum claims in Rwanda](https://www.theguardian.com/uk-news/2024/feb/08/council-of-europe-calls-on-uk-not-to-process-asylum-claims-in-rwanda)
+- [Masked protesters could soon face arrest, says Home Office](https://www.theguardian.com/uk-news/2024/feb/08/masked-protesters-could-soon-face-arrest-says-home-office)
+- [Mobo awards 2024: Central Cee tops winners thanks to megahit Sprinter](https://www.theguardian.com/music/2024/feb/07/mobo-awards-2024-central-cee-tops-winners-thanks-to-megahit-sprinter)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

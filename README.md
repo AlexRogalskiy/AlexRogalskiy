@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Go 1.22 Release Notes](https://go.dev/doc/go1.22)
-- [Making steel without emitting CO2](https://www.science.org/content/article/electrifying-new-ironmaking-method-could-slash-carbon-emissions)
-- [The leadership myth in replicated databases &lpar;2023&rpar;](https://maheshba.bitbucket.io/blog/2023/05/06/Leadership.html)
-- [The three million toothbrush botnet story isn&#39;t true](https://cyberplace.social/@GossiTheDog/111886558855943676)
-- [Setting up a secondary Pi-Hole on my home network](https://www.dzombak.com/blog/2024/02/Setting-up-a-secondary-Pi-Hole-on-my-home-network.html)
-- [SQL for data scientists in 100 queries](https://gvwilson.github.io/sql-tutorial/)
-- [Alaska Airlines flight 1282 NTSB preliminary report [pdf]](https://www.ntsb.gov/investigations/Documents/DCA24MA063%20Preliminary%20report.pdf)
-- [Spine AI &lpar;YC S23&rpar; Is Hiring a Lead ML Scientist](https://www.ycombinator.com/companies/spine-ai/jobs/Z1hz3BZ-lead-applied-ml-scientist)
-- [Show HN: Geppetto, an open source AI companion for your Slack teams](https://github.com/Deeptechia/geppetto)
-- [New IBM LinuxONE 4 Express – Rack-mounted pre-configured Linux mainframe](https://newsroom.ibm.com/2024-02-06-New-IBM-LinuxONE-4-Express-to-Offer-Cost-Savings-and-Client-Value-through-a-Cyber-Resilient-Hybrid-Cloud-and-AI-Platform)
+- [Apple Vision Pro – Why Monitor Replacement Is Ridiculous](https://kguttag.com/2023/08/09/apple-vision-pro-part-5b-more-on-monitor-replacement-is-ridiculous/)
+- [Asciinema 3.0 will be rewritten in Rust](https://github.com/asciinema/asciinema/pull/579)
+- [As Much as You Ever Wanted to Know About 155M Artillery Shell Production](https://roblh.substack.com/p/as-much-as-you-ever-wanted-to-know)
+- [Jerry &lpar;YC S17&rpar; Is Hiring PMs, Engs, Data &lpar;Remote&rpar;](https://getjerry.com/careers)
+- [Loungy: An Application Launcher Written with GPUI, the Zed GPU UI Framework](https://github.com/MatthiasGrandl/loungy)
+- [2024 Kawasaki Ninja 7 Hybrid Motorcycle First Ride Review](https://www.cycleworld.com/motorcycle-reviews/kawasaki-ninja-7-hybrid-motorcycle-first-ride-review/)
+- [Bike Racks Map Australia – Almost* Every Bike Rack in Australia on Google Maps](https://bikeracks.me/)
+- [Thinking Forth: A Language and Philosophy for Solving Problems [pdf]](https://www.forth.com/wp-content/uploads/2018/11/thinking-forth-color.pdf)
+- [The Rural Ski Slope Caught Up in an International Scam](https://www.newyorker.com/magazine/2024/02/05/the-rural-ski-slope-caught-up-in-an-international-scam)
+- [Morale plummets at Google as workers complain bosses are &#39;inept&#39; and &#39;boring&#39;](https://www.sfgate.com/tech/article/google-workers-company-culture-pichai-18653877.php)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

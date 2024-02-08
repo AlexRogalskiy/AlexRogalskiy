@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Azure VM performance benchmarks using AKS](https://www.augmentedmind.de/2024/01/28/benchmark-azure-vm-in-kubernetes/)
-- [Meet Me in the Eternal City](https://www.theatlantic.com/magazine/archive/2024/03/silicon-valley-billionaires-building-cities/677173/)
-- [Synchronize your Google calendar with Outlook 365 using Microsoft Power Automate](https://www.augmentedmind.de/2024/01/14/synchronize-google-calendar-with-outlook/)
-- [First passages of rolled-up Herculaneum scroll revealed](https://www.nature.com/articles/d41586-024-00346-8)
-- [Cheating with Chat-GPT](https://blogs.newardassociates.com/blog/2024/cheating-with-gpt.html)
-- [Olympic Airways Flight 411](https://en.wikipedia.org/wiki/Olympic_Airways_Flight_411)
-- [NYCB&#39;s Credit Grade Is Cut to Junk by Moody&#39;s](https://finance.yahoo.com/news/nycb-credit-grade-cut-junk-002802104.html)
-- [Show HN: Primate – Polymorphic Development Platform](https://github.com/primatejs/primate)
-- [A cultured snack: trying Fortnum and Mason&#39;s scotch egg with lab-grown meat](https://www.theguardian.com/food/2024/feb/03/a-very-cultured-snack-trying-fortnum-and-masons-scotch-egg-with-lab-grown-meat)
-- [Too much of a good thing: the trade-off we make with tests](https://ntietz.com/blog/too-much-of-a-good-thing-the-cost-of-excess-testing/)
+- [Apple Vision Pro – Why Monitor Replacement Is Ridiculous](https://kguttag.com/2023/08/09/apple-vision-pro-part-5b-more-on-monitor-replacement-is-ridiculous/)
+- [Tech Jobs for Good](https://techjobsforgood.com)
+- [Finding the best predictor for a galaxy&#39;s metallic content](https://phys.org/news/2024-02-predictor-galaxy-metallic-content.html)
+- [Simple change that will improve your media diet in 2024](https://www.bbc.com/future/article/20240207-the-one-simple-change-that-will-improve-your-media-diet-in-2024)
+- [We may now know who&#39;s behind the lead-tainted cinnamon in toddler fruit pouches](https://arstechnica.com/science/2024/02/we-may-now-know-whos-behind-the-lead-tainted-cinnamon-in-toddler-fruit-pouches/)
+- [Novel drug could protect brains from damage after repeat concussions](https://medicalxpress.com/news/2024-02-drug-brains-concussions.html)
+- [Astrophysicists crack the case of &#39;disappearing&#39; sulfur in planetary nebulae](https://phys.org/news/2024-02-astrophysicists-case-sulfur-planetary-nebulae.html)
+- [Obsidian Help](https://help.obsidian.md/Home)
+- [Order Files in Android](https://android-developers.googleblog.com/2023/11/orderfiles-in-android.html)
+- [Mimas&#39; surprise: Tiny moon holds young ocean beneath icy shell](https://phys.org/news/2024-02-mimas-tiny-moon-young-ocean.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

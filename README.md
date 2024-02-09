@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Apple Vision Pro – Why Monitor Replacement Is Ridiculous](https://kguttag.com/2023/08/09/apple-vision-pro-part-5b-more-on-monitor-replacement-is-ridiculous/)
-- [Tech Jobs for Good](https://techjobsforgood.com)
-- [Finding the best predictor for a galaxy&#39;s metallic content](https://phys.org/news/2024-02-predictor-galaxy-metallic-content.html)
-- [Simple change that will improve your media diet in 2024](https://www.bbc.com/future/article/20240207-the-one-simple-change-that-will-improve-your-media-diet-in-2024)
-- [We may now know who&#39;s behind the lead-tainted cinnamon in toddler fruit pouches](https://arstechnica.com/science/2024/02/we-may-now-know-whos-behind-the-lead-tainted-cinnamon-in-toddler-fruit-pouches/)
-- [Novel drug could protect brains from damage after repeat concussions](https://medicalxpress.com/news/2024-02-drug-brains-concussions.html)
-- [Astrophysicists crack the case of &#39;disappearing&#39; sulfur in planetary nebulae](https://phys.org/news/2024-02-astrophysicists-case-sulfur-planetary-nebulae.html)
-- [Obsidian Help](https://help.obsidian.md/Home)
-- [Order Files in Android](https://android-developers.googleblog.com/2023/11/orderfiles-in-android.html)
-- [Mimas&#39; surprise: Tiny moon holds young ocean beneath icy shell](https://phys.org/news/2024-02-mimas-tiny-moon-young-ocean.html)
+- [Twitter&#39;s Sith and Jedi](https://blog.sbensu.com/posts/twitter-sith/)
+- [Show HN: Vision Pro stock ticker display](https://apps.apple.com/us/app/tickers-infinite-stock-view/id6477551112)
+- [Sam Altman Seeks Trillions of Dollars to Reshape Business of Chips and AI](https://www.wsj.com/tech/ai/sam-altman-seeks-trillions-of-dollars-to-reshape-business-of-chips-and-ai-89ab3db0)
+- [The case for open source AI](https://press.airstreet.com/p/the-case-for-open-source-ai)
+- [The race between innovation and obsolescence](https://santafe.edu/news-center/news/the-race-between-innovation-and-obsolescence)
+- [The Mind-Boggling Reach of Super Bowl Commercials: A Statistical Analysis](https://www.statsignificant.com/p/the-mind-boggling-reach-of-super)
+- [Apple overhauls its entire Windows app suite, including iCloud and Apple Music](https://arstechnica.com/gadgets/2024/02/apple-overhauls-its-entire-windows-app-suite-including-icloud-and-apple-music/)
+- [The Sufficiently Okay Compiler](https://applied-langua.ge/~hayley/the-sufficiently-okay-compiler.html)
+- [How to Tell If You&#39;re Living in a Binary Crisis](https://www.honest-broker.com/p/how-to-tell-if-youre-living-in-a)
+- [Arm becomes Britain&#39;s sixth most valuable company after shares rise 50%](https://www.standard.co.uk/business/arm-becomes-britains-sixth-most-valuable-company-after-shares-rise-50-b1138053.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

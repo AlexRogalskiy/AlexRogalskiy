@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Apple Vision Pro – Why Monitor Replacement Is Ridiculous](https://kguttag.com/2023/08/09/apple-vision-pro-part-5b-more-on-monitor-replacement-is-ridiculous/)
-- [Asciinema 3.0 will be rewritten in Rust](https://github.com/asciinema/asciinema/pull/579)
-- [As Much as You Ever Wanted to Know About 155M Artillery Shell Production](https://roblh.substack.com/p/as-much-as-you-ever-wanted-to-know)
-- [Jerry &lpar;YC S17&rpar; Is Hiring PMs, Engs, Data &lpar;Remote&rpar;](https://getjerry.com/careers)
-- [Loungy: An Application Launcher Written with GPUI, the Zed GPU UI Framework](https://github.com/MatthiasGrandl/loungy)
-- [2024 Kawasaki Ninja 7 Hybrid Motorcycle First Ride Review](https://www.cycleworld.com/motorcycle-reviews/kawasaki-ninja-7-hybrid-motorcycle-first-ride-review/)
-- [Bike Racks Map Australia – Almost* Every Bike Rack in Australia on Google Maps](https://bikeracks.me/)
-- [Thinking Forth: A Language and Philosophy for Solving Problems [pdf]](https://www.forth.com/wp-content/uploads/2018/11/thinking-forth-color.pdf)
-- [The Rural Ski Slope Caught Up in an International Scam](https://www.newyorker.com/magazine/2024/02/05/the-rural-ski-slope-caught-up-in-an-international-scam)
-- [Morale plummets at Google as workers complain bosses are &#39;inept&#39; and &#39;boring&#39;](https://www.sfgate.com/tech/article/google-workers-company-culture-pichai-18653877.php)
+- [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring](https://news.ycombinator.com/item?id=39310059)
+- [The &lpar;history of&rpar; spice must flow](https://resobscura.substack.com/p/the-history-of-spice-must-flow)
+- [Funimation End of Services](https://help.funimation.com/hc/en-us/articles/23103586580244-Funimation-End-of-services)
+- [React has grown beyond its original promise and it&#39;s causing more harm than good](https://md.jtmn.dev/blog/💻+Programming/PR-007+-+Why+you+don%27t+need+React)
+- [What Does &quot;With Continuation&quot; Mean?](https://forum.snap.berkeley.edu/t/what-does-with-continuation-mean/1518/2)
+- [Why Elixir Is the Best Language for Building a Bootstrapped, B2B SaaS in 2024](https://www.sleepeasy.app/2024/01/21/elixir-best-language-for-bootstrapped-b2b-saas/)
+- [Canadian government banning Flipper Zero to combat auto theft](https://www.canada.ca/en/public-safety-canada/news/2024/02/federal-action-on-combatting-auto-theft.html)
+- [Sony is erasing digital libraries that were supposed to be accessible &quot;forever&quot;](https://arstechnica.com/culture/2024/02/funimation-dvds-included-forever-available-digital-copies-forever-ends-april-2/)
+- [Multics and AS400：DPS8M on IBM PASE for I &lpar;OS/400&rpar;](https://dps8m.gitlab.io/blog/posts/20240207_DPS8M_AS400/)
+- [Show HN: Open-source coding assistant with terminal access](https://docs.sweep.dev/assistant)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

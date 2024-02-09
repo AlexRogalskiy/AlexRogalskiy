@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Senate blocks bipartisan $118bn bill on US-Mexico border and Ukraine](https://www.theguardian.com/us-news/2024/feb/07/us-senate-vote-bipartisan-border-bill)
-- [Japan court lets transgender man change official status without sterilisation in legal first](https://www.theguardian.com/world/2024/feb/08/japan-transgender-man-status-change-ruling-court-sterilisation)
-- [Russia-Ukraine war at a glance: what we know on day 715](https://www.theguardian.com/world/2024/feb/08/russia-ukraine-war-at-a-glance-what-we-know-on-day-715)
-- [Surprise Moana sequel to hit cinemas this year, Disney announces](https://www.theguardian.com/film/2024/feb/08/moana-2-sequel-announced-release-date-cast-disney)
-- [More than half of British girls lack confidence learning maths, poll finds](https://www.theguardian.com/education/2024/feb/08/more-than-half-of-british-girls-lack-confidence-learning-maths-poll-finds)
-- [UK closer to large-scale conflict than in many years, intelligence official says](https://www.theguardian.com/politics/2024/feb/08/uk-closer-to-large-scale-conflict-than-in-many-years-intelligence-official-says)
-- [The Hills of California review – Jez Butterworth’s fractious family of singing sisters](https://www.theguardian.com/stage/2024/feb/08/the-hills-of-california-review-jerusalem-jez-butterworth-harold-pinter-theatre-london)
-- [Council of Europe calls on UK not to process asylum claims in Rwanda](https://www.theguardian.com/uk-news/2024/feb/08/council-of-europe-calls-on-uk-not-to-process-asylum-claims-in-rwanda)
-- [Masked protesters could soon face arrest, says Home Office](https://www.theguardian.com/uk-news/2024/feb/08/masked-protesters-could-soon-face-arrest-says-home-office)
-- [Mobo awards 2024: Central Cee tops winners thanks to megahit Sprinter](https://www.theguardian.com/music/2024/feb/07/mobo-awards-2024-central-cee-tops-winners-thanks-to-megahit-sprinter)
+- [Biden defends his memory in surprise speech after special counsel report](https://www.theguardian.com/us-news/2024/feb/08/biden-classified-documents-special-counsel)
+- [Russia-Ukraine war at a glance: what we know on day 716](https://www.theguardian.com/world/2024/feb/09/russia-ukraine-war-at-a-glance-what-we-know-on-day-716)
+- [Pakistan election: officials warned to release results swiftly amid unusual delays](https://www.theguardian.com/world/2024/feb/09/pakistan-election-2024-results-delays)
+- [Met officers dissuaded children from making sexual abuse claims, report finds](https://www.theguardian.com/uk-news/2024/feb/09/met-police-officers-dissuaded-children-making-sexual-abuse-claims-report)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2024/feb/09/premier-league-10-things-to-look-out-for-this-weekend)
+- [Vladimir Putin meets Tucker Carlson for rare interview with western media](https://www.theguardian.com/world/2024/feb/08/vladimir-putin-tucker-carlson-interview)
+- [Luke Littler lights up Premier League but Van Gerwen wins epic final](https://www.theguardian.com/sport/2024/feb/08/michael-van-gerwen-edges-out-luke-littler-in-epic-premier-league-match)
+- [Gareth Southgate to decide England future after Euro 2024](https://www.theguardian.com/football/2024/feb/08/gareth-southgate-to-decide-england-future-after-euro-2024)
+- [Pakistan election: phone service suspended as country goes to polls](https://www.theguardian.com/world/2024/feb/08/pakistan-election-phone-service-suspended-country-goes-to-polls)
+- [Israeli lawyer arrested for peaceful protest leaves prison after 110 days](https://www.theguardian.com/world/2024/feb/08/israeli-lawyer-arrested-for-peaceful-protest-leaves-prison-after-110-days)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

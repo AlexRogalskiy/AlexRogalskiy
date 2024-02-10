@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Twitter&#39;s Sith and Jedi](https://blog.sbensu.com/posts/twitter-sith/)
-- [Show HN: Vision Pro stock ticker display](https://apps.apple.com/us/app/tickers-infinite-stock-view/id6477551112)
-- [Sam Altman Seeks Trillions of Dollars to Reshape Business of Chips and AI](https://www.wsj.com/tech/ai/sam-altman-seeks-trillions-of-dollars-to-reshape-business-of-chips-and-ai-89ab3db0)
-- [The case for open source AI](https://press.airstreet.com/p/the-case-for-open-source-ai)
-- [The race between innovation and obsolescence](https://santafe.edu/news-center/news/the-race-between-innovation-and-obsolescence)
-- [The Mind-Boggling Reach of Super Bowl Commercials: A Statistical Analysis](https://www.statsignificant.com/p/the-mind-boggling-reach-of-super)
-- [Apple overhauls its entire Windows app suite, including iCloud and Apple Music](https://arstechnica.com/gadgets/2024/02/apple-overhauls-its-entire-windows-app-suite-including-icloud-and-apple-music/)
-- [The Sufficiently Okay Compiler](https://applied-langua.ge/~hayley/the-sufficiently-okay-compiler.html)
-- [How to Tell If You&#39;re Living in a Binary Crisis](https://www.honest-broker.com/p/how-to-tell-if-youre-living-in-a)
-- [Arm becomes Britain&#39;s sixth most valuable company after shares rise 50%](https://www.standard.co.uk/business/arm-becomes-britains-sixth-most-valuable-company-after-shares-rise-50-b1138053.html)
+- [Carl Griffith&#39;s 1847 Oregon Trail Sourdough Starter](https://carlsfriends.net/source.html)
+- [&quot;This Is a Hell of a Statement I&#39;m About to Make–But He Superseded Miles&quot;](https://www.honest-broker.com/p/this-is-a-hell-of-a-statement-im)
+- [Tell HN: GitHub is blocking search unless you are logged in](https://news.ycombinator.com/item?id=39322838)
+- [Buffer Overflow Vulnerabilities in KiTTY](https://blog.defcesco.io/CVE-2024-25003-CVE-2024-25004)
+- [Distributed LLM inference over chain of mobile phones](https://arxiv.org/abs/2312.00388)
+- [Ask HN: Is Kagi Down?](https://news.ycombinator.com/item?id=39322814)
+- [The structure of water: A historical perspective](https://pubs.aip.org/aip/jcp/article/160/6/060901/3262785/The-structure-of-water-A-historical-perspective)
+- [Kagi Search Is Down](https://kagi.com/)
+- [Show HN: VisionDesk – Run Linux/Windows Desktop on Vision Pro](https://visiondesk.com/)
+- [Today&#39;s date is impossible according to Google Gemini](https://lemm.ee/post/23268166)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

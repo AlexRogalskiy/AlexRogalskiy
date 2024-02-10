@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring](https://news.ycombinator.com/item?id=39310059)
-- [The &lpar;history of&rpar; spice must flow](https://resobscura.substack.com/p/the-history-of-spice-must-flow)
-- [Funimation End of Services](https://help.funimation.com/hc/en-us/articles/23103586580244-Funimation-End-of-services)
-- [React has grown beyond its original promise and it&#39;s causing more harm than good](https://md.jtmn.dev/blog/💻+Programming/PR-007+-+Why+you+don%27t+need+React)
-- [What Does &quot;With Continuation&quot; Mean?](https://forum.snap.berkeley.edu/t/what-does-with-continuation-mean/1518/2)
-- [Why Elixir Is the Best Language for Building a Bootstrapped, B2B SaaS in 2024](https://www.sleepeasy.app/2024/01/21/elixir-best-language-for-bootstrapped-b2b-saas/)
-- [Canadian government banning Flipper Zero to combat auto theft](https://www.canada.ca/en/public-safety-canada/news/2024/02/federal-action-on-combatting-auto-theft.html)
-- [Sony is erasing digital libraries that were supposed to be accessible &quot;forever&quot;](https://arstechnica.com/culture/2024/02/funimation-dvds-included-forever-available-digital-copies-forever-ends-april-2/)
-- [Multics and AS400：DPS8M on IBM PASE for I &lpar;OS/400&rpar;](https://dps8m.gitlab.io/blog/posts/20240207_DPS8M_AS400/)
-- [Show HN: Open-source coding assistant with terminal access](https://docs.sweep.dev/assistant)
+- [Espressif ESP32: Breaking HW AES with Power Analysis &lpar;2023&rpar;](https://raelize.com/blog/espressif-systems-esp32-breaking-hw-aes-with-power-analysis/)
+- [Privacy focused platform Skiff is joining Notion, Skiff to be sunset.](https://www.notion.so/blog/meet-skiff-the-newest-member-of-the-notion-family)
+- [Creeped Out [pdf]](https://philpapers.org/archive/BERCOY-2.pdf)
+- [All my thoughts after 40 hours in the Vision Pro](https://waitbutwhy.com/2024/02/vision-pro.html)
+- [Thinking about high-quality human data](https://lilianweng.github.io/posts/2024-02-05-human-data-quality/)
+- [Are you sure you want to use MMAP in your DBMS?](https://www.symas.com/post/are-you-sure-you-want-to-use-mmap-in-your-dbms)
+- [Modern Treasury &lpar;YC S18&rpar; Is Hiring an Enterprise PM](https://jobs.ashbyhq.com/moderntreasury/7d1f8b2e-e151-48b1-a6fc-c02780aa78a4)
+- [Seiji Ozawa 1935-2024](https://bostonclassicalreview.com/2024/02/seiji-ozawa-1935-2024/)
+- [Brplot – plotting app/lib in C](https://github.com/branc116/brplot)
+- [A glaring error in methane flaring &lpar;2022&rpar;](https://arstechnica.com/science/2022/09/oil-industry-flaring-less-effective-than-thought-study/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

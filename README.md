@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Biden defends his memory in surprise speech after special counsel report](https://www.theguardian.com/us-news/2024/feb/08/biden-classified-documents-special-counsel)
-- [Russia-Ukraine war at a glance: what we know on day 716](https://www.theguardian.com/world/2024/feb/09/russia-ukraine-war-at-a-glance-what-we-know-on-day-716)
-- [Pakistan election: officials warned to release results swiftly amid unusual delays](https://www.theguardian.com/world/2024/feb/09/pakistan-election-2024-results-delays)
-- [Met officers dissuaded children from making sexual abuse claims, report finds](https://www.theguardian.com/uk-news/2024/feb/09/met-police-officers-dissuaded-children-making-sexual-abuse-claims-report)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2024/feb/09/premier-league-10-things-to-look-out-for-this-weekend)
-- [Vladimir Putin meets Tucker Carlson for rare interview with western media](https://www.theguardian.com/world/2024/feb/08/vladimir-putin-tucker-carlson-interview)
-- [Luke Littler lights up Premier League but Van Gerwen wins epic final](https://www.theguardian.com/sport/2024/feb/08/michael-van-gerwen-edges-out-luke-littler-in-epic-premier-league-match)
-- [Gareth Southgate to decide England future after Euro 2024](https://www.theguardian.com/football/2024/feb/08/gareth-southgate-to-decide-england-future-after-euro-2024)
-- [Pakistan election: phone service suspended as country goes to polls](https://www.theguardian.com/world/2024/feb/08/pakistan-election-phone-service-suspended-country-goes-to-polls)
-- [Israeli lawyer arrested for peaceful protest leaves prison after 110 days](https://www.theguardian.com/world/2024/feb/08/israeli-lawyer-arrested-for-peaceful-protest-leaves-prison-after-110-days)
+- [Ange Postecoglou warns sin-bins and blue cards will ‘destroy football’](https://www.theguardian.com/football/2024/feb/09/ange-postecoglou-blue-cards-sin-bin-football-tottenham)
+- [Ozzy Osbourne criticises Kanye West for using sample: ‘He is an antisemite’](https://www.theguardian.com/music/2024/feb/09/ozzy-osbourne-kanye-west-sample-use)
+- [‘It was time to start afresh’: readers on love in an empty nest](https://www.theguardian.com/lifeandstyle/2024/feb/10/relationship-changes-marriage-kids-move-out-empty-nest)
+- [Before After review – artist’s life becomes a blank canvas in amnesiac musical](https://www.theguardian.com/stage/2024/feb/09/before-after-review-southwark-playhouse)
+- [Hawaii’s Big Island struck by 5.7 magnitude earthquake](https://www.theguardian.com/us-news/2024/feb/09/hawaii-earthquake-oahu-honolulu)
+- [US dentist may lose eye after allegedly getting stabbed in face by ex-patient](https://www.theguardian.com/us-news/2024/feb/09/new-orleans-lousiana-dentist-stabbed)
+- [Pep Guardiola insists ‘99.99%’ chance Manchester City will not repeat treble](https://www.theguardian.com/football/2024/feb/09/pep-guardiola-manchester-city-treble-premier-league)
+- [Major Tory donor among 13 new peers named in honours list](https://www.theguardian.com/politics/2024/feb/09/major-tory-donor-among-13-new-peers-named-in-honours-list)
+- [Ted review – this foul-mouthed teddy bear sitcom doesn’t feature a single funny joke](https://www.theguardian.com/tv-and-radio/2024/feb/09/ted-review-foul-mouthed-teddy-bear-sitcom-no-funny-jokes)
+- [Mr Irrelevant to Super Bowl QB: the rise and rise of 49ers star Brock Purdy](https://www.theguardian.com/sport/2024/feb/09/mr-irrelevant-to-super-bowl-qb-the-rise-and-rise-of-49ers-star-brock-purdy)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

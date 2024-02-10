@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Apple improves iCloud for Windows, kills iTunes](https://www.computerworld.com/article/3712880/apple-improves-icloud-for-windows-kills-itunes.html#tk.rss_all)
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [Sam Altman wants to raise trillions of dollars for AI chip initiative](https://www.computerworld.com/article/3712684/sam-altman-wants-to-raise-trillions-of-dollars-for-ai-chip-initiative.html#tk.rss_all)
+- [Meetings are about to get weird](https://www.computerworld.com/article/3712820/meetings-are-about-to-get-weird.html#tk.rss_all)
+- [Give yourself a magnificent new Android multitasking shortcut](https://www.computerworld.com/article/3712841/android-multitasking-shortcut.html#tk.rss_all)
 - [Google throws down the gauntlet with Gemini — its multimodal genAI engine](https://www.computerworld.com/article/3712825/google-throws-down-the-gauntlet-with-gemini-its-multimodal-genai-engine.html#tk.rss_all)
 - [US creates advisory group to consider AI regulation](https://www.computerworld.com/article/3712863/us-creates-advisory-group-to-consider-ai-regulation.html#tk.rss_all)
 - [Kandji unveils Prism managed device reporting service](https://www.computerworld.com/article/3712761/kandji-unveils-prism-managed-device-reporting-service.html#tk.rss_all)
 - [The do-it-yourself approach to MDM](https://www.computerworld.com/article/3712707/the-do-it-yourself-approach-to-mdm.html#tk.rss_all)
 - [What are LLMs, and how are they used in generative AI?](https://www.computerworld.com/article/3697649/what-are-large-language-models-and-how-are-they-used-in-generative-ai.html#tk.rss_all)
-- [AI-enabled PCs and genAI smartphones set to take off](https://www.computerworld.com/article/3712846/ai-enabled-pcs-and-genai-smartphones-set-to-take-off.html#tk.rss_all)
-- [Apple&#39;s Vision Pro is getting MDM support](https://www.computerworld.com/article/3712842/apples-vision-pro-is-getting-mdm-support.html#tk.rss_all)
-- [Android&#39;s Circle to Search is déjà vu all over again](https://www.computerworld.com/article/3712803/google-circle-to-search-android.html#tk.rss_all)
-- [5 dark mode upgrades for your Windows 10 or 11 PC](https://www.computerworld.com/article/3712806/windows-10-windows-11-dark-mode-upgrades.html#tk.rss_all)
-- [What a future without browser cookies looks like](https://www.computerworld.com/article/3712705/what-a-future-without-browser-cookies-will-look-like.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

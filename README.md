@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ange Postecoglou warns sin-bins and blue cards will ‘destroy football’](https://www.theguardian.com/football/2024/feb/09/ange-postecoglou-blue-cards-sin-bin-football-tottenham)
-- [Ozzy Osbourne criticises Kanye West for using sample: ‘He is an antisemite’](https://www.theguardian.com/music/2024/feb/09/ozzy-osbourne-kanye-west-sample-use)
-- [‘It was time to start afresh’: readers on love in an empty nest](https://www.theguardian.com/lifeandstyle/2024/feb/10/relationship-changes-marriage-kids-move-out-empty-nest)
-- [Before After review – artist’s life becomes a blank canvas in amnesiac musical](https://www.theguardian.com/stage/2024/feb/09/before-after-review-southwark-playhouse)
-- [Hawaii’s Big Island struck by 5.7 magnitude earthquake](https://www.theguardian.com/us-news/2024/feb/09/hawaii-earthquake-oahu-honolulu)
-- [US dentist may lose eye after allegedly getting stabbed in face by ex-patient](https://www.theguardian.com/us-news/2024/feb/09/new-orleans-lousiana-dentist-stabbed)
-- [Pep Guardiola insists ‘99.99%’ chance Manchester City will not repeat treble](https://www.theguardian.com/football/2024/feb/09/pep-guardiola-manchester-city-treble-premier-league)
-- [Major Tory donor among 13 new peers named in honours list](https://www.theguardian.com/politics/2024/feb/09/major-tory-donor-among-13-new-peers-named-in-honours-list)
-- [Ted review – this foul-mouthed teddy bear sitcom doesn’t feature a single funny joke](https://www.theguardian.com/tv-and-radio/2024/feb/09/ted-review-foul-mouthed-teddy-bear-sitcom-no-funny-jokes)
-- [Mr Irrelevant to Super Bowl QB: the rise and rise of 49ers star Brock Purdy](https://www.theguardian.com/sport/2024/feb/09/mr-irrelevant-to-super-bowl-qb-the-rise-and-rise-of-49ers-star-brock-purdy)
+- [Donald Trump says he would encourage Russia to attack Nato countries who don’t pay ‘bills’](https://www.theguardian.com/us-news/2024/feb/11/donald-trump-says-he-would-encourage-russia-to-attack-nato-countries-who-dont-pay-bills)
+- [Damo Suzuki: Can’s free-floating vocalist gave us some of the 1970s’ most exotic rock music](https://www.theguardian.com/music/2024/feb/11/damo-suzuki-cans-free-floating-vocalist-gave-us-some-of-the-1970s-most-exotic-rock-music)
+- [Cillian Murphy: ‘I’d happily appear in Peaky Blinders again’](https://www.theguardian.com/film/2024/feb/11/cillian-murphy-appear-peaky-blinders-gangster-thomas-shelby)
+- [The edit: 16 of the best beanie hats – in pictures](https://www.theguardian.com/fashion/gallery/2024/feb/10/the-edit-16-of-the-best-beanie-hats-in-pictures)
+- [Imran Khan claims victory in Pakistan poll but military might have final say](https://www.theguardian.com/world/2024/feb/10/imran-khan-claims-victory-in-pakistan-poll-but-military-might-have-final-say)
+- [‘Unbreakable’: the 48-year friendship forged in the crucible of extreme sport](https://www.theguardian.com/lifeandstyle/2024/feb/11/rogaine-world-champion-friendship-geoff-lawford-rod-gray)
+- [‘It’s frustrating’: Fleabag star Andrew Scott urges West End to slash ticket prices](https://www.theguardian.com/stage/2024/feb/10/its-frustrating-fleabag-star-andrew-scott-urges-west-end-to-slash-ticket-prices)
+- [‘I feel a lot more alive’: Kalvin Phillips on weight, West Ham and Bielsa](https://www.theguardian.com/football/2024/feb/10/kalvin-phillips-interview-west-ham-manchester-city-england)
+- [Fujitsu won £1.4bn in new government contracts after court ruling on Post Office software bugs](https://www.theguardian.com/business/2024/feb/10/fujitsu-won-14bn-government-contracts-court-ruling-post-office-horizon-software-bugs)
+- [King Charles expresses ‘lifelong admiration’ for cancer charities](https://www.theguardian.com/uk-news/2024/feb/10/king-charles-thanks-cancer-charities-tribute-disease)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

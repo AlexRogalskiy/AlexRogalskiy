@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Espressif ESP32: Breaking HW AES with Power Analysis &lpar;2023&rpar;](https://raelize.com/blog/espressif-systems-esp32-breaking-hw-aes-with-power-analysis/)
-- [Privacy focused platform Skiff is joining Notion, Skiff to be sunset.](https://www.notion.so/blog/meet-skiff-the-newest-member-of-the-notion-family)
-- [Creeped Out [pdf]](https://philpapers.org/archive/BERCOY-2.pdf)
-- [All my thoughts after 40 hours in the Vision Pro](https://waitbutwhy.com/2024/02/vision-pro.html)
-- [Thinking about high-quality human data](https://lilianweng.github.io/posts/2024-02-05-human-data-quality/)
-- [Are you sure you want to use MMAP in your DBMS?](https://www.symas.com/post/are-you-sure-you-want-to-use-mmap-in-your-dbms)
-- [Modern Treasury &lpar;YC S18&rpar; Is Hiring an Enterprise PM](https://jobs.ashbyhq.com/moderntreasury/7d1f8b2e-e151-48b1-a6fc-c02780aa78a4)
-- [Seiji Ozawa 1935-2024](https://bostonclassicalreview.com/2024/02/seiji-ozawa-1935-2024/)
-- [Brplot – plotting app/lib in C](https://github.com/branc116/brplot)
-- [A glaring error in methane flaring &lpar;2022&rpar;](https://arstechnica.com/science/2022/09/oil-industry-flaring-less-effective-than-thought-study/)
+- [A man has been swatted 47 times for making a joke about Norm Macdonald](https://www.independent.co.uk/news/world/americas/crime/swatting-nikki-haley-trump-fbi-stalkers-b2494097.html)
+- [ForceGen: End-to-end de novo protein generation](https://www.science.org/doi/10.1126/sciadv.adl4000)
+- [Show HN: A platform for remote piano lessons based on the Web MIDI API](https://keyboardconnect.com/)
+- [OpenTTD](https://www.openttd.org/about)
+- [Eugène-François Vidocq and the Birth of the Detective](https://publicdomainreview.org/essay/eugene-francois-vidocq-and-the-birth-of-the-detective/)
+- [New adhesive tape picks up and sticks down 2D materials easily](https://phys.org/news/2024-02-adhesive-tape-2d-materials-easily.html)
+- [Global study: Wild megafauna shape ecosystem properties](https://phys.org/news/2024-02-global-wild-megafauna-ecosystem-properties.html)
+- [Fourays: A Tribute to the AY-3-8910](https://doug.lon.dev/blog/2024/fourays/tribute/)
+- [Demoscene and video game music streaming radio links](https://mw.rat.bz/davgmsrl/)
+- [Show HN: Emacs minor mode for connecting assembly and assembled code buffers](https://github.com/ebanner/hexasm)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

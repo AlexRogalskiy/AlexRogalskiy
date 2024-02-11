@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Carl Griffith&#39;s 1847 Oregon Trail Sourdough Starter](https://carlsfriends.net/source.html)
-- [&quot;This Is a Hell of a Statement I&#39;m About to Make–But He Superseded Miles&quot;](https://www.honest-broker.com/p/this-is-a-hell-of-a-statement-im)
-- [Tell HN: GitHub is blocking search unless you are logged in](https://news.ycombinator.com/item?id=39322838)
-- [Buffer Overflow Vulnerabilities in KiTTY](https://blog.defcesco.io/CVE-2024-25003-CVE-2024-25004)
-- [Distributed LLM inference over chain of mobile phones](https://arxiv.org/abs/2312.00388)
-- [Ask HN: Is Kagi Down?](https://news.ycombinator.com/item?id=39322814)
-- [The structure of water: A historical perspective](https://pubs.aip.org/aip/jcp/article/160/6/060901/3262785/The-structure-of-water-A-historical-perspective)
-- [Kagi Search Is Down](https://kagi.com/)
-- [Show HN: VisionDesk – Run Linux/Windows Desktop on Vision Pro](https://visiondesk.com/)
-- [Today&#39;s date is impossible according to Google Gemini](https://lemm.ee/post/23268166)
+- [Researchers demonstrate liquid metal RAM](https://www.tomshardware.com/pc-components/ram/researchers-demonstrate-liquid-metal-ram-bringing-us-closer-to-flexible-implantable-hardware-and-to-our-terminator-2-nightmares)
+- [Text-to-3D UI](https://text-to-3d.net)
+- [Bell Demonstrates High-Speed Vertical Takeoff and Landing &lpar;Hsvtol&rpar; Technology](https://news.bellflight.com/en-US/234565-bell-demonstrates-high-speed-vertical-takeoff-and-landing-hsvtol-technology-at-holloman-air-force-base)
+- [The most beautiful computer science paper I have ever read](https://www.weeklycspaper.com/archive/the-most-beautiful-computer-science-paper-i-have-ever-read/)
+- [Setting The Stage For 1.6T Ethernet, And Driving 800G Now &lpar; 2023&rpar;](https://www.nextplatform.com/2023/03/07/setting-the-stage-for-1-6t-ethernet-and-driving-800g-now/)
+- [K: Default Dicts?](https://gist.github.com/chrispsn/ff0187127368608c6a75e46aa4535414)
+- [People who fled Icelandic volcano fear their town will not survive](https://www.theguardian.com/world/2024/feb/10/this-is-the-end-people-who-fled-icelandic-volcano-fear-town-not-survive)
+- [Show HN: A Sudoku solver in TypeScript&#39;s type system](https://tsplay.dev/sudoku)
+- [Lumique: Share your story as photo anonymously and get votes](https://lumique.lol/)
+- [Bandwidth Costs Around the World &lpar;2016&rpar;](https://blog.cloudflare.com/bandwidth-costs-around-the-world)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

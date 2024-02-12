@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Donald Trump says he would encourage Russia to attack Nato countries who don’t pay ‘bills’](https://www.theguardian.com/us-news/2024/feb/11/donald-trump-says-he-would-encourage-russia-to-attack-nato-countries-who-dont-pay-bills)
-- [Damo Suzuki: Can’s free-floating vocalist gave us some of the 1970s’ most exotic rock music](https://www.theguardian.com/music/2024/feb/11/damo-suzuki-cans-free-floating-vocalist-gave-us-some-of-the-1970s-most-exotic-rock-music)
-- [Cillian Murphy: ‘I’d happily appear in Peaky Blinders again’](https://www.theguardian.com/film/2024/feb/11/cillian-murphy-appear-peaky-blinders-gangster-thomas-shelby)
-- [The edit: 16 of the best beanie hats – in pictures](https://www.theguardian.com/fashion/gallery/2024/feb/10/the-edit-16-of-the-best-beanie-hats-in-pictures)
-- [Imran Khan claims victory in Pakistan poll but military might have final say](https://www.theguardian.com/world/2024/feb/10/imran-khan-claims-victory-in-pakistan-poll-but-military-might-have-final-say)
-- [‘Unbreakable’: the 48-year friendship forged in the crucible of extreme sport](https://www.theguardian.com/lifeandstyle/2024/feb/11/rogaine-world-champion-friendship-geoff-lawford-rod-gray)
-- [‘It’s frustrating’: Fleabag star Andrew Scott urges West End to slash ticket prices](https://www.theguardian.com/stage/2024/feb/10/its-frustrating-fleabag-star-andrew-scott-urges-west-end-to-slash-ticket-prices)
-- [‘I feel a lot more alive’: Kalvin Phillips on weight, West Ham and Bielsa](https://www.theguardian.com/football/2024/feb/10/kalvin-phillips-interview-west-ham-manchester-city-england)
-- [Fujitsu won £1.4bn in new government contracts after court ruling on Post Office software bugs](https://www.theguardian.com/business/2024/feb/10/fujitsu-won-14bn-government-contracts-court-ruling-post-office-horizon-software-bugs)
-- [King Charles expresses ‘lifelong admiration’ for cancer charities](https://www.theguardian.com/uk-news/2024/feb/10/king-charles-thanks-cancer-charities-tribute-disease)
+- [Super Bowl 2024 score updates: 49ers lead 10-3 over Chiefs at half-time – live](https://www.theguardian.com/sport/live/2024/feb/11/super-bowl-49ers-chiefs-updates)
+- [Super Bowl: Usher’s half-time show, the ads, Taylor Swift and everything but the football – live](https://www.theguardian.com/culture/live/2024/feb/11/super-bowl-commercial-usher-halftime)
+- [France unveils plan to curtail right to French citizenship in Indian Ocean island of Mayotte](https://www.theguardian.com/world/2024/feb/12/france-unveils-plan-to-curtail-right-to-french-citizenship-in-indian-ocean-island-of-mayotte)
+- [Protests take place across Pakistan amid election vote-rigging allegations](https://www.theguardian.com/world/2024/feb/11/protests-pakistan-election-vote-rigging-allegations-imran-khan)
+- [US defense secretary Lloyd Austin transfers duties to deputy after being hospitalised](https://www.theguardian.com/us-news/2024/feb/11/defense-secretary-lloyd-austin-hospitalized-emergent-bladder-issue)
+- [Russia-Ukraine war at a glance: what we know on day 719](https://www.theguardian.com/world/2024/feb/12/russia-ukraine-war-at-a-glance-what-we-know-on-day-719)
+- [24 in 2024: career anxiety, travel dreams and ‘meme studies’ in South Korea](https://www.theguardian.com/world/2024/feb/12/24-in-2024-career-anxiety-travel-dreams-and-meme-studies-in-south-korea)
+- [More than 11 million Britons have less than £1,000 in savings](https://www.theguardian.com/business/2024/feb/12/more-than-11-million-britons-have-less-than-1000-in-savings)
+- [Printworks London may reopen by 2026 after developers submit plans](https://www.theguardian.com/music/2024/feb/12/printworks-london-may-reopen-by-2026-after-developers-submit-plans)
+- [Ofwat’s scheme to fine poorly performing companies ‘a gimmick’](https://www.theguardian.com/business/2024/feb/12/ofwats-scheme-to-fine-poorly-performing-companies-a-gimmick)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [A man has been swatted 47 times for making a joke about Norm Macdonald](https://www.independent.co.uk/news/world/americas/crime/swatting-nikki-haley-trump-fbi-stalkers-b2494097.html)
-- [ForceGen: End-to-end de novo protein generation](https://www.science.org/doi/10.1126/sciadv.adl4000)
-- [Show HN: A platform for remote piano lessons based on the Web MIDI API](https://keyboardconnect.com/)
-- [OpenTTD](https://www.openttd.org/about)
-- [Eugène-François Vidocq and the Birth of the Detective](https://publicdomainreview.org/essay/eugene-francois-vidocq-and-the-birth-of-the-detective/)
-- [New adhesive tape picks up and sticks down 2D materials easily](https://phys.org/news/2024-02-adhesive-tape-2d-materials-easily.html)
-- [Global study: Wild megafauna shape ecosystem properties](https://phys.org/news/2024-02-global-wild-megafauna-ecosystem-properties.html)
-- [Fourays: A Tribute to the AY-3-8910](https://doug.lon.dev/blog/2024/fourays/tribute/)
-- [Demoscene and video game music streaming radio links](https://mw.rat.bz/davgmsrl/)
-- [Show HN: Emacs minor mode for connecting assembly and assembled code buffers](https://github.com/ebanner/hexasm)
+- [The Cruelty of Crypto](https://aeon.co/essays/the-cruelty-of-crypto-in-its-promise-to-revive-the-american-dream)
+- [Google/orbit – C/C++ Performance Profiler](https://github.com/google/orbit)
+- [Show HN: Aurora- a comprehensive set of Statistics and Machine Learning tools](https://github.com/MariusNea/Aurora)
+- [Spec Ops: The Line permanently removed from Steam and other digital stores](https://www.theverge.com/2024/1/30/24055807/spec-ops-the-line-delisting-licensing-2k)
+- [Disney&#39;s newest robot demonstrates collaborative cuteness](https://spectrum.ieee.org/disney-robot-2666681104)
+- [Ｂｉｔｗｉｓｅ Ｌｉｍｉｎａｌ – A Short Film in 256 Bytes of Code](https://killedbyapixel.github.io/TinyCode/256B/BitwiseLiminal/)
+- [2024: The year of the OpenStreetMap vector maps](https://blog.openstreetmap.org/2024/02/11/2024-announcing-the-year-of-the-openstreetmap-vector-maps/)
+- [Is the &quot;modern data stack&quot; still a useful idea?](https://roundup.getdbt.com/p/is-the-modern-data-stack-still-a)
+- [Why Software Engineers like Woodworking &lpar;2021&rpar;](https://www.zainrizvi.io/blog/why-software-engineers-like-woodworking/)
+- [The Empire Strikes Back First Draft by Leigh Brackett &lpar;1978&rpar; [pdf]](https://starwarz.com/tbone/wp-content/uploads/Star-Wars-Sequel-Brackett.pdf)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

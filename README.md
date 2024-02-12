@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Researchers demonstrate liquid metal RAM](https://www.tomshardware.com/pc-components/ram/researchers-demonstrate-liquid-metal-ram-bringing-us-closer-to-flexible-implantable-hardware-and-to-our-terminator-2-nightmares)
-- [Text-to-3D UI](https://text-to-3d.net)
-- [Bell Demonstrates High-Speed Vertical Takeoff and Landing &lpar;Hsvtol&rpar; Technology](https://news.bellflight.com/en-US/234565-bell-demonstrates-high-speed-vertical-takeoff-and-landing-hsvtol-technology-at-holloman-air-force-base)
-- [The most beautiful computer science paper I have ever read](https://www.weeklycspaper.com/archive/the-most-beautiful-computer-science-paper-i-have-ever-read/)
-- [Setting The Stage For 1.6T Ethernet, And Driving 800G Now &lpar; 2023&rpar;](https://www.nextplatform.com/2023/03/07/setting-the-stage-for-1-6t-ethernet-and-driving-800g-now/)
-- [K: Default Dicts?](https://gist.github.com/chrispsn/ff0187127368608c6a75e46aa4535414)
-- [People who fled Icelandic volcano fear their town will not survive](https://www.theguardian.com/world/2024/feb/10/this-is-the-end-people-who-fled-icelandic-volcano-fear-town-not-survive)
-- [Show HN: A Sudoku solver in TypeScript&#39;s type system](https://tsplay.dev/sudoku)
-- [Lumique: Share your story as photo anonymously and get votes](https://lumique.lol/)
-- [Bandwidth Costs Around the World &lpar;2016&rpar;](https://blog.cloudflare.com/bandwidth-costs-around-the-world)
+- [WHO may add weight drug Liraglutide to essential medicines list](https://glp1.guide/content/the-who-might-add/)
+- [Microsoft denies it went back on its word on Activision job cuts](https://www.bbc.com/news/technology-68239644)
+- [The Self Balancing Monorail [video]](https://www.youtube.com/watch?v=kUYzuAJeg3M)
+- [Canada to Ban Flipper Zero Devices over Car Thefts](https://www.pcmag.com/news/canada-to-ban-flipper-zero-devices-over-car-thefts)
+- [Famous Solopreneurs Who Accomplished Nothing by Age 30](https://solounicornsclub.beehiiv.com/p/5-famous-solopreneurs-who-accomplished-nothing-by-age-30)
+- [Ask HN: What ever happened to the GOOD Super Bowl TV commercials?](https://news.ycombinator.com/item?id=39340577)
+- [Why Musicians Are Broke and How to Fix It](https://www.youtube.com/watch?v=-TM9foEQJ-Q)
+- [Jeonse](https://en.wikipedia.org/wiki/Jeonse)
+- [An Oddity in the Rust Compiler](https://github.com/rust-lang/rust/blob/520b0b20aa8c218f84cefc6260f52406b84fa55f/library/panic_abort/src/lib.rs)
+- [Achieving Safe, Aliasable Mutability with Unboxed Types](https://antelang.org/blog/safe_shared_mutability/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

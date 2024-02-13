@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [How to thwart cyber criminals seeking to target smaller businesses](https://www.computerworld.com/article/3712809/how-to-thwart-cyber-criminals-seeking-to-target-smaller-businesses.html#tk.rss_all)
+- [Building the foundations of a sustainable innovation strategy](https://www.computerworld.com/article/3712808/building-the-foundations-of-a-sustainable-innovation-strategy.html#tk.rss_all)
+- [Australia’s new ‘right to disconnect’ law includes jail time — for now](https://www.computerworld.com/article/3712692/australias-new-right-to-disconnect-law-includes-jail-time-for-now.html#tk.rss_all)
+- [The AI data-poisoning cat-and-mouse game — this time, IT will win](https://www.computerworld.com/article/3712805/the-ai-data-poisoning-cat-and-mouse-game-this-time-it-will-win.html#tk.rss_all)
+- [Digital work apps arrive for Apple’s Vision Pro](https://www.computerworld.com/article/3712762/digital-work-apps-arrive-for-apple-s-vision-pro.html#tk.rss_all)
 - [Apple improves iCloud for Windows, kills iTunes](https://www.computerworld.com/article/3712880/apple-improves-icloud-for-windows-kills-itunes.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [Sam Altman wants to raise trillions of dollars for AI chip initiative](https://www.computerworld.com/article/3712684/sam-altman-wants-to-raise-trillions-of-dollars-for-ai-chip-initiative.html#tk.rss_all)
 - [Meetings are about to get weird](https://www.computerworld.com/article/3712820/meetings-are-about-to-get-weird.html#tk.rss_all)
 - [Give yourself a magnificent new Android multitasking shortcut](https://www.computerworld.com/article/3712841/android-multitasking-shortcut.html#tk.rss_all)
-- [Google throws down the gauntlet with Gemini — its multimodal genAI engine](https://www.computerworld.com/article/3712825/google-throws-down-the-gauntlet-with-gemini-its-multimodal-genai-engine.html#tk.rss_all)
-- [US creates advisory group to consider AI regulation](https://www.computerworld.com/article/3712863/us-creates-advisory-group-to-consider-ai-regulation.html#tk.rss_all)
-- [Kandji unveils Prism managed device reporting service](https://www.computerworld.com/article/3712761/kandji-unveils-prism-managed-device-reporting-service.html#tk.rss_all)
-- [The do-it-yourself approach to MDM](https://www.computerworld.com/article/3712707/the-do-it-yourself-approach-to-mdm.html#tk.rss_all)
-- [What are LLMs, and how are they used in generative AI?](https://www.computerworld.com/article/3697649/what-are-large-language-models-and-how-are-they-used-in-generative-ai.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

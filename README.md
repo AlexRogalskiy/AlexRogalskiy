@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The Cruelty of Crypto](https://aeon.co/essays/the-cruelty-of-crypto-in-its-promise-to-revive-the-american-dream)
-- [Google/orbit – C/C++ Performance Profiler](https://github.com/google/orbit)
-- [Show HN: Aurora- a comprehensive set of Statistics and Machine Learning tools](https://github.com/MariusNea/Aurora)
-- [Spec Ops: The Line permanently removed from Steam and other digital stores](https://www.theverge.com/2024/1/30/24055807/spec-ops-the-line-delisting-licensing-2k)
-- [Disney&#39;s newest robot demonstrates collaborative cuteness](https://spectrum.ieee.org/disney-robot-2666681104)
-- [Ｂｉｔｗｉｓｅ Ｌｉｍｉｎａｌ – A Short Film in 256 Bytes of Code](https://killedbyapixel.github.io/TinyCode/256B/BitwiseLiminal/)
-- [2024: The year of the OpenStreetMap vector maps](https://blog.openstreetmap.org/2024/02/11/2024-announcing-the-year-of-the-openstreetmap-vector-maps/)
-- [Is the &quot;modern data stack&quot; still a useful idea?](https://roundup.getdbt.com/p/is-the-modern-data-stack-still-a)
-- [Why Software Engineers like Woodworking &lpar;2021&rpar;](https://www.zainrizvi.io/blog/why-software-engineers-like-woodworking/)
-- [The Empire Strikes Back First Draft by Leigh Brackett &lpar;1978&rpar; [pdf]](https://starwarz.com/tbone/wp-content/uploads/Star-Wars-Sequel-Brackett.pdf)
+- [Nvidia is now more valuable than Amazon and Google](https://www.forbes.com/sites/dereksaul/2024/02/12/nvidia-is-now-more-valuable-than-amazon-and-google/)
+- [Cautionary Fables for Darwin&#39;s Birthday &lpar;2018&rpar;](https://3quarksdaily.com/3quarksdaily/2018/02/cautionary-fables-for-darwins-birthday.html)
+- [Abandoned villages of Hong Kong](https://www.cnn.com/2024/02/13/style/hong-kong-abandoned-villages-stefan-irvine-photographer-hnk/index.html)
+- [Unicomp&#39;s &quot;New&quot; Model M Keyboard](https://www.pckeyboard.com/page/product/NEW_M)
+- [PEP 701 – Syntactic formalization of f-strings](https://peps.python.org/pep-0701/)
+- [What If I’m Wrong? &lpar;2023&rpar;](https://behavioralscientist.org/ive-been-thinking-daniel-dennett-what-if-im-wrong/)
+- [Security flaws in an SSO plugin for Caddy](https://blog.trailofbits.com/2023/09/18/security-flaws-in-an-sso-plugin-for-caddy/)
+- [Time Series Forecasting vs Regression: An informal guide](https://www.amorphousdata.com/blog/time-series-vs-regression)
+- [Wall found at bottom of Baltic Sea &#39;may be Europe’s oldest megastructure&#39;](https://www.theguardian.com/science/2024/feb/12/stone-age-wall-found-at-bottom-of-baltic-sea-may-be-europes-oldest-megastructure)
+- [US Government makes $42M bet on open cell networks: Open RAN dream stays alive](https://www.theverge.com/2024/2/12/24070550/open-ran-standard-us-funding-5g-huawei)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

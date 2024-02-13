@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [WHO may add weight drug Liraglutide to essential medicines list](https://glp1.guide/content/the-who-might-add/)
-- [Microsoft denies it went back on its word on Activision job cuts](https://www.bbc.com/news/technology-68239644)
-- [The Self Balancing Monorail [video]](https://www.youtube.com/watch?v=kUYzuAJeg3M)
-- [Canada to Ban Flipper Zero Devices over Car Thefts](https://www.pcmag.com/news/canada-to-ban-flipper-zero-devices-over-car-thefts)
-- [Famous Solopreneurs Who Accomplished Nothing by Age 30](https://solounicornsclub.beehiiv.com/p/5-famous-solopreneurs-who-accomplished-nothing-by-age-30)
-- [Ask HN: What ever happened to the GOOD Super Bowl TV commercials?](https://news.ycombinator.com/item?id=39340577)
-- [Why Musicians Are Broke and How to Fix It](https://www.youtube.com/watch?v=-TM9foEQJ-Q)
-- [Jeonse](https://en.wikipedia.org/wiki/Jeonse)
-- [An Oddity in the Rust Compiler](https://github.com/rust-lang/rust/blob/520b0b20aa8c218f84cefc6260f52406b84fa55f/library/panic_abort/src/lib.rs)
-- [Achieving Safe, Aliasable Mutability with Unboxed Types](https://antelang.org/blog/safe_shared_mutability/)
+- [Show HN: Swift Mail, a native macOS app for JMAP mail](https://swiftmail.io)
+- [China airbrushed away its foreign minister. Why?](https://www.washingtonpost.com/opinions/2024/02/12/china-foreign-minister-qin-gang-why/)
+- [What Effective Accelerationism Is](https://effectiveaccelerationism.substack.com/p/what-the-f-is-eacc)
+- [A cocktail of pesticides is stunting bumblebee colonies across Europe](https://theconversation.com/silent-fields-a-cocktail-of-pesticides-is-stunting-bumblebee-colonies-across-europe-study-shows-220108)
+- [BlackBerry to lay off more staff in cost-cutting drive](https://www.reuters.com/business/world-at-work/canadas-blackberry-lay-off-more-staff-cost-cutting-drive-2024-02-13/)
+- [Bob Moore, founder of Bob&#39;s Red Mill, has died](https://www.usatoday.com/story/money/food/2024/02/11/bobs-red-mill-founder-bob-moore-dies/72561754007/)
+- [LlamaIndex v0.10](https://blog.llamaindex.ai/llamaindex-v0-10-838e735948f8)
+- [Empty Vessels Make Fertile Gardens](https://www.sebastianmellen.com/post/2024/empty-vessels-make-fertile-gardens/)
+- [Nvidia is now more valuable than Amazon and Google](https://www.forbes.com/sites/dereksaul/2024/02/12/nvidia-is-now-more-valuable-than-amazon-and-google/)
+- [That&#39;s Weird: Anomaly Detection Using R](https://pkg.robjhyndman.com/weird-package/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

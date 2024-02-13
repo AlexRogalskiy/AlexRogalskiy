@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Super Bowl 2024 score updates: 49ers lead 10-3 over Chiefs at half-time – live](https://www.theguardian.com/sport/live/2024/feb/11/super-bowl-49ers-chiefs-updates)
-- [Super Bowl: Usher’s half-time show, the ads, Taylor Swift and everything but the football – live](https://www.theguardian.com/culture/live/2024/feb/11/super-bowl-commercial-usher-halftime)
-- [France unveils plan to curtail right to French citizenship in Indian Ocean island of Mayotte](https://www.theguardian.com/world/2024/feb/12/france-unveils-plan-to-curtail-right-to-french-citizenship-in-indian-ocean-island-of-mayotte)
-- [Protests take place across Pakistan amid election vote-rigging allegations](https://www.theguardian.com/world/2024/feb/11/protests-pakistan-election-vote-rigging-allegations-imran-khan)
-- [US defense secretary Lloyd Austin transfers duties to deputy after being hospitalised](https://www.theguardian.com/us-news/2024/feb/11/defense-secretary-lloyd-austin-hospitalized-emergent-bladder-issue)
-- [Russia-Ukraine war at a glance: what we know on day 719](https://www.theguardian.com/world/2024/feb/12/russia-ukraine-war-at-a-glance-what-we-know-on-day-719)
-- [24 in 2024: career anxiety, travel dreams and ‘meme studies’ in South Korea](https://www.theguardian.com/world/2024/feb/12/24-in-2024-career-anxiety-travel-dreams-and-meme-studies-in-south-korea)
-- [More than 11 million Britons have less than £1,000 in savings](https://www.theguardian.com/business/2024/feb/12/more-than-11-million-britons-have-less-than-1000-in-savings)
-- [Printworks London may reopen by 2026 after developers submit plans](https://www.theguardian.com/music/2024/feb/12/printworks-london-may-reopen-by-2026-after-developers-submit-plans)
-- [Ofwat’s scheme to fine poorly performing companies ‘a gimmick’](https://www.theguardian.com/business/2024/feb/12/ofwats-scheme-to-fine-poorly-performing-companies-a-gimmick)
+- [Russia-Ukraine war at a glance: what we know on day 720](https://www.theguardian.com/world/2024/feb/13/russia-ukraine-war-at-a-glance-what-we-know-on-day-720)
+- [Indonesia election: president criticised over alleged interference on behalf of Prabowo](https://www.theguardian.com/world/2024/feb/13/indonesia-election-2024-president-joko-widodo-prabowo-subianto-interference-allegation)
+- [Oil firms and green groups challenge Biden plan for offshore drilling leases](https://www.theguardian.com/us-news/2024/feb/12/gulf-of-mexico-offshore-drilling-plans-court)
+- [The Filipino superfans travelling thousands of miles to see Taylor Swift](https://www.theguardian.com/world/2024/feb/13/taylor-swift-eras-tour-philippines-fans-tickets-travel)
+- [Biden campaign decision to join TikTok raises national security concerns](https://www.theguardian.com/technology/2024/feb/13/joe-biden-tiktok-campaign-national-security-social-media)
+- [One killed and five injured in shooting at New York City subway station, police say](https://www.theguardian.com/us-news/2024/feb/12/new-york-city-subway-shooting-bronx)
+- [Bird flu causing ‘catastrophic’ fall in UK seabird numbers, conservationists warn](https://www.theguardian.com/environment/2024/feb/13/bird-flu-uk-seabird-numbers-h5n1-great-skua-gannets)
+- [Planned UK nuclear reactors unlikely to help hit green target, say MPs](https://www.theguardian.com/environment/2024/feb/13/planned-uk-nuclear-reactors-unlikely-to-help-hit-green-target-say-mps)
+- [Sunak reveals plan to boost brownfield homebuilding in England](https://www.theguardian.com/politics/2024/feb/13/sunak-plan-brownfield-homebuilding-england)
+- [Canada: second Sikh activist’s house hit by gunfire this month](https://www.theguardian.com/world/2024/feb/12/sikh-activist-house-gunfire-ontario-canada)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

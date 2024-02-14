@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
+- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
+- [Nvidia unveils ‘Chat with RTX,’ a personal AI chatbot for Windows](https://www.computerworld.com/article/3712921/nvidia-unveils-chat-with-rtx-a-personal-ai-chatbot-for-windows.html#tk.rss_all)
+- [Apple is ramping up its fight against malware](https://www.computerworld.com/article/3712865/apple-is-ramping-up-its-fight-against-malware.html#tk.rss_all)
+- [Will employees bow down to stricter RTO policies?](https://www.computerworld.com/article/3712709/will-employees-bow-down-to-stricter-rto-policies.html#tk.rss_all)
+- [Otter.ai adds transcription archiving and recall across the enterprise](https://www.computerworld.com/article/3712689/otter-ai-adds-transcription-archiving-and-recall-across-the-enterprise.html#tk.rss_all)
+- [The real problem with Google&#39;s new Gemini Android assistant](https://www.computerworld.com/article/3712864/google-gemini-android-assistant.html#tk.rss_all)
+- [AI chips don’t need trillion-dollar investments: Nvidia CEO](https://www.computerworld.com/article/3712693/ai-chips-don-t-need-trillion-dollar-investments-nvidia-ceo.html#tk.rss_all)
 - [How to thwart cyber criminals seeking to target smaller businesses](https://www.computerworld.com/article/3712809/how-to-thwart-cyber-criminals-seeking-to-target-smaller-businesses.html#tk.rss_all)
 - [Building the foundations of a sustainable innovation strategy](https://www.computerworld.com/article/3712808/building-the-foundations-of-a-sustainable-innovation-strategy.html#tk.rss_all)
-- [Australia’s new ‘right to disconnect’ law includes jail time — for now](https://www.computerworld.com/article/3712692/australias-new-right-to-disconnect-law-includes-jail-time-for-now.html#tk.rss_all)
-- [The AI data-poisoning cat-and-mouse game — this time, IT will win](https://www.computerworld.com/article/3712805/the-ai-data-poisoning-cat-and-mouse-game-this-time-it-will-win.html#tk.rss_all)
-- [Digital work apps arrive for Apple’s Vision Pro](https://www.computerworld.com/article/3712762/digital-work-apps-arrive-for-apple-s-vision-pro.html#tk.rss_all)
-- [Apple improves iCloud for Windows, kills iTunes](https://www.computerworld.com/article/3712880/apple-improves-icloud-for-windows-kills-itunes.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [Sam Altman wants to raise trillions of dollars for AI chip initiative](https://www.computerworld.com/article/3712684/sam-altman-wants-to-raise-trillions-of-dollars-for-ai-chip-initiative.html#tk.rss_all)
-- [Meetings are about to get weird](https://www.computerworld.com/article/3712820/meetings-are-about-to-get-weird.html#tk.rss_all)
-- [Give yourself a magnificent new Android multitasking shortcut](https://www.computerworld.com/article/3712841/android-multitasking-shortcut.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: Swift Mail, a native macOS app for JMAP mail](https://swiftmail.io)
-- [China airbrushed away its foreign minister. Why?](https://www.washingtonpost.com/opinions/2024/02/12/china-foreign-minister-qin-gang-why/)
-- [What Effective Accelerationism Is](https://effectiveaccelerationism.substack.com/p/what-the-f-is-eacc)
-- [A cocktail of pesticides is stunting bumblebee colonies across Europe](https://theconversation.com/silent-fields-a-cocktail-of-pesticides-is-stunting-bumblebee-colonies-across-europe-study-shows-220108)
-- [BlackBerry to lay off more staff in cost-cutting drive](https://www.reuters.com/business/world-at-work/canadas-blackberry-lay-off-more-staff-cost-cutting-drive-2024-02-13/)
-- [Bob Moore, founder of Bob&#39;s Red Mill, has died](https://www.usatoday.com/story/money/food/2024/02/11/bobs-red-mill-founder-bob-moore-dies/72561754007/)
-- [LlamaIndex v0.10](https://blog.llamaindex.ai/llamaindex-v0-10-838e735948f8)
-- [Empty Vessels Make Fertile Gardens](https://www.sebastianmellen.com/post/2024/empty-vessels-make-fertile-gardens/)
-- [Nvidia is now more valuable than Amazon and Google](https://www.forbes.com/sites/dereksaul/2024/02/12/nvidia-is-now-more-valuable-than-amazon-and-google/)
-- [That&#39;s Weird: Anomaly Detection Using R](https://pkg.robjhyndman.com/weird-package/)
+- [A simple app to customize Discord Rich Presence, only ~0.5mb &lpar;zipped&rpar;](https://news.ycombinator.com/item?id=39365471)
+- [GAN semiconductor defects could boost quantum technology](https://news.cornell.edu/stories/2024/02/semiconductor-defects-could-boost-quantum-technology)
+- [If you experience motion sickness while using Apple Vision Pro](https://support.apple.com/en-us/HT213934)
+- [Pornhub Sister Company Wins $2.1M Piracy Damages, but No Blocking Order](https://torrentfreak.com/google-piracy-shield-has-legal-limits-anti-piracy-chief-think-ethics-do-more-240212/)
+- [Chicago to stop using ShotSpotter gunshot detection technology this year](https://apnews.com/article/shotspotter-chicago-gunshot-technology-mayor-f9a1b24d97a1f1efb80296dbe9aff1ed)
+- [Paramount global layoffs begin, a day after Super Bowl](https://deadline.com/2024/02/paramount-global-layoffs-begin-ceo-bob-bakish-1235824028/)
+- [Zuckerberg reviews the Apple Vision Pro](https://www.theverge.com/2024/2/13/24072413/mark-zuckerberg-apple-vision-pro-review-quest-3)
+- [San Francisco staged a surprising comeback](https://www.economist.com/finance-and-economics/2024/02/12/san-franciscos-surprising-comeback)
+- [Andrej Karpathy has left OpenAI](https://twitter.com/jon_victor_/status/1757575965570703373)
+- [LZ4 Compression for Hibernation Images Queued for Linux 6.9](https://www.phoronix.com/news/LZ4-Hibernate-Queued-6.9)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

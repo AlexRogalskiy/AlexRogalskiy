@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war at a glance: what we know on day 720](https://www.theguardian.com/world/2024/feb/13/russia-ukraine-war-at-a-glance-what-we-know-on-day-720)
-- [Indonesia election: president criticised over alleged interference on behalf of Prabowo](https://www.theguardian.com/world/2024/feb/13/indonesia-election-2024-president-joko-widodo-prabowo-subianto-interference-allegation)
-- [Oil firms and green groups challenge Biden plan for offshore drilling leases](https://www.theguardian.com/us-news/2024/feb/12/gulf-of-mexico-offshore-drilling-plans-court)
-- [The Filipino superfans travelling thousands of miles to see Taylor Swift](https://www.theguardian.com/world/2024/feb/13/taylor-swift-eras-tour-philippines-fans-tickets-travel)
-- [Biden campaign decision to join TikTok raises national security concerns](https://www.theguardian.com/technology/2024/feb/13/joe-biden-tiktok-campaign-national-security-social-media)
-- [One killed and five injured in shooting at New York City subway station, police say](https://www.theguardian.com/us-news/2024/feb/12/new-york-city-subway-shooting-bronx)
-- [Bird flu causing ‘catastrophic’ fall in UK seabird numbers, conservationists warn](https://www.theguardian.com/environment/2024/feb/13/bird-flu-uk-seabird-numbers-h5n1-great-skua-gannets)
-- [Planned UK nuclear reactors unlikely to help hit green target, say MPs](https://www.theguardian.com/environment/2024/feb/13/planned-uk-nuclear-reactors-unlikely-to-help-hit-green-target-say-mps)
-- [Sunak reveals plan to boost brownfield homebuilding in England](https://www.theguardian.com/politics/2024/feb/13/sunak-plan-brownfield-homebuilding-england)
-- [Canada: second Sikh activist’s house hit by gunfire this month](https://www.theguardian.com/world/2024/feb/12/sikh-activist-house-gunfire-ontario-canada)
+- [Canadian federal police officer charged with passing information to a ‘foreign entity’](https://www.theguardian.com/world/2024/feb/13/canada-police-officer-charged-foreign-actor)
+- [A case of bubonic plague was reported in Oregon. Here’s what to know](https://www.theguardian.com/society/2024/feb/13/bubonic-plague-oregon-what-to-know)
+- [US House impeaches homeland security secretary Alejandro Mayorkas](https://www.theguardian.com/us-news/2024/feb/13/mayorkas-house-impeachment-vote)
+- [Russia-Ukraine war at a glance: what we know on day 721](https://www.theguardian.com/world/2024/feb/14/russia-ukraine-war-at-a-glance-what-we-know-on-day-721)
+- [Mahsa Amini’s uncle sentenced to five years in jail over Iran protests, rights groups say](https://www.theguardian.com/world/2024/feb/14/mahsa-amini-uncle-safa-aeli-jail-iran-protests-death-dress-rules-women)
+- [Japan’s Noto earthquake: thousands of survivors struggle as accusations of neglect grow](https://www.theguardian.com/world/2024/feb/14/japans-noto-earthquake-thousands-of-survivors-struggle-as-accusations-of-neglect-grow)
+- [Naomi Campbell creates clean-cut Boss range with nod to her germophobia](https://www.theguardian.com/fashion/2024/feb/14/naomi-campbell-creates-boss-range-germophobia)
+- [Violence and abuse against UK retail staff rises to 1,300 incidents a day](https://www.theguardian.com/business/2024/feb/14/violence-and-abuse-against-uk-retail-staff-rises-to-1300-incidents-a-day)
+- [Just For One Day review – Live Aid musical has soaring voices and pancake-flat characters](https://www.theguardian.com/stage/2024/feb/13/just-for-one-day-review-live-aid-musical-bob-geldof)
+- [Tennessee advances bill to ban people from helping minors obtain abortion](https://www.theguardian.com/world/2024/feb/13/tennessee-minors-abortion-ban)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

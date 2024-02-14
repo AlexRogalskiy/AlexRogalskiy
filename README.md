@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Nvidia is now more valuable than Amazon and Google](https://www.forbes.com/sites/dereksaul/2024/02/12/nvidia-is-now-more-valuable-than-amazon-and-google/)
-- [Cautionary Fables for Darwin&#39;s Birthday &lpar;2018&rpar;](https://3quarksdaily.com/3quarksdaily/2018/02/cautionary-fables-for-darwins-birthday.html)
-- [Abandoned villages of Hong Kong](https://www.cnn.com/2024/02/13/style/hong-kong-abandoned-villages-stefan-irvine-photographer-hnk/index.html)
-- [Unicomp&#39;s &quot;New&quot; Model M Keyboard](https://www.pckeyboard.com/page/product/NEW_M)
-- [PEP 701 – Syntactic formalization of f-strings](https://peps.python.org/pep-0701/)
-- [What If I’m Wrong? &lpar;2023&rpar;](https://behavioralscientist.org/ive-been-thinking-daniel-dennett-what-if-im-wrong/)
-- [Security flaws in an SSO plugin for Caddy](https://blog.trailofbits.com/2023/09/18/security-flaws-in-an-sso-plugin-for-caddy/)
-- [Time Series Forecasting vs Regression: An informal guide](https://www.amorphousdata.com/blog/time-series-vs-regression)
-- [Wall found at bottom of Baltic Sea &#39;may be Europe’s oldest megastructure&#39;](https://www.theguardian.com/science/2024/feb/12/stone-age-wall-found-at-bottom-of-baltic-sea-may-be-europes-oldest-megastructure)
-- [US Government makes $42M bet on open cell networks: Open RAN dream stays alive](https://www.theverge.com/2024/2/12/24070550/open-ran-standard-us-funding-5g-huawei)
+- [San Francisco staged a surprising comeback](https://www.economist.com/finance-and-economics/2024/02/12/san-franciscos-surprising-comeback)
+- [Andrej Karpathy Departs OpenAI](https://www.theinformation.com/articles/openai-researcher-andrej-karpathy-departs)
+- [100 Years Ago, IBM Was Born](https://spectrum.ieee.org/ibm-history)
+- [Bioluminescent petunias now available for U.S. market](https://lgrmag.com/news/light-bio-to-introduce-bioluminescent-petunias-into-u-s-market/)
+- [Show HN: Instantly play the game I&#39;m developing directly on its website](https://athenacrisis.com)
+- [Sam Altman Wants $7T](https://www.astralcodexten.com/p/sam-altman-wants-7-trillion)
+- [Protein biomarkers predict dementia 15 years before diagnosis in new study](https://warwick.ac.uk/newsandevents/pressreleases/?newsItem=8a17841a8d79730b018d9e2bbb0e054b)
+- [Handwriting but not typewriting leads to widespread brain connectivity](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1219945/full)
+- [A bird&#39;s eye view of Polars](https://pola.rs/posts/polars_birds_eye_view/)
+- [A 1.9 solar mass neutron star candidate in a 2-year orbit](https://arxiv.org/abs/2402.06722)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

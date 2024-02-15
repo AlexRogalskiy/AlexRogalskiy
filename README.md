@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [A simple app to customize Discord Rich Presence, only ~0.5mb &lpar;zipped&rpar;](https://news.ycombinator.com/item?id=39365471)
-- [GAN semiconductor defects could boost quantum technology](https://news.cornell.edu/stories/2024/02/semiconductor-defects-could-boost-quantum-technology)
-- [If you experience motion sickness while using Apple Vision Pro](https://support.apple.com/en-us/HT213934)
-- [Pornhub Sister Company Wins $2.1M Piracy Damages, but No Blocking Order](https://torrentfreak.com/google-piracy-shield-has-legal-limits-anti-piracy-chief-think-ethics-do-more-240212/)
-- [Chicago to stop using ShotSpotter gunshot detection technology this year](https://apnews.com/article/shotspotter-chicago-gunshot-technology-mayor-f9a1b24d97a1f1efb80296dbe9aff1ed)
-- [Paramount global layoffs begin, a day after Super Bowl](https://deadline.com/2024/02/paramount-global-layoffs-begin-ceo-bob-bakish-1235824028/)
-- [Zuckerberg reviews the Apple Vision Pro](https://www.theverge.com/2024/2/13/24072413/mark-zuckerberg-apple-vision-pro-review-quest-3)
-- [San Francisco staged a surprising comeback](https://www.economist.com/finance-and-economics/2024/02/12/san-franciscos-surprising-comeback)
-- [Andrej Karpathy has left OpenAI](https://twitter.com/jon_victor_/status/1757575965570703373)
-- [LZ4 Compression for Hibernation Images Queued for Linux 6.9](https://www.phoronix.com/news/LZ4-Hibernate-Queued-6.9)
+- [American Counterculture, Glimpsed Through Zines](https://www.newyorker.com/culture/cultural-comment/american-counterculture-glimpsed-through-zines)
+- [The bottom 10% earners have seen the highest increases in real wages since 2020](https://www.nber.org/papers/w31010)
+- [The Brutal Reality of Plunging Office Values Is Here](https://www.bloomberg.com/news/features/2024-02-14/real-estate-lenders-confront-falling-us-commercial-property-prices)
+- [LiFi](https://news.ycombinator.com/item?id=39378294)
+- [Understanding and implementing fixed point numbers](http://www.sunshine2k.de/articles/coding/fp/sunfp.html)
+- [Major data analysis errors invalidate cancer microbiome findings](https://www.biorxiv.org/content/10.1101/2023.07.28.550993v1)
+- [On using milliseconds as a measure of network latency](https://devblogs.microsoft.com/oldnewthing/20240206-00/?p=109365)
+- [Why Americans Suddenly Stopped Hanging Out](https://www.theatlantic.com/ideas/archive/2024/02/america-decline-hanging-out/677451/)
+- [Air Canada liable for misleading information provided by service chatbot](https://bc.ctvnews.ca/air-canada-s-chatbot-gave-a-b-c-man-the-wrong-information-now-the-airline-has-to-pay-for-the-mistake-1.6769454)
+- [Galileo v0.1 cross-platform map rendering engine released](https://maximkaaa.github.io/galileo/blog/posts/release_v0.1/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

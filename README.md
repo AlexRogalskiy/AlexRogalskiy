@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Canadian federal police officer charged with passing information to a ‘foreign entity’](https://www.theguardian.com/world/2024/feb/13/canada-police-officer-charged-foreign-actor)
-- [A case of bubonic plague was reported in Oregon. Here’s what to know](https://www.theguardian.com/society/2024/feb/13/bubonic-plague-oregon-what-to-know)
-- [US House impeaches homeland security secretary Alejandro Mayorkas](https://www.theguardian.com/us-news/2024/feb/13/mayorkas-house-impeachment-vote)
-- [Russia-Ukraine war at a glance: what we know on day 721](https://www.theguardian.com/world/2024/feb/14/russia-ukraine-war-at-a-glance-what-we-know-on-day-721)
-- [Mahsa Amini’s uncle sentenced to five years in jail over Iran protests, rights groups say](https://www.theguardian.com/world/2024/feb/14/mahsa-amini-uncle-safa-aeli-jail-iran-protests-death-dress-rules-women)
-- [Japan’s Noto earthquake: thousands of survivors struggle as accusations of neglect grow](https://www.theguardian.com/world/2024/feb/14/japans-noto-earthquake-thousands-of-survivors-struggle-as-accusations-of-neglect-grow)
-- [Naomi Campbell creates clean-cut Boss range with nod to her germophobia](https://www.theguardian.com/fashion/2024/feb/14/naomi-campbell-creates-boss-range-germophobia)
-- [Violence and abuse against UK retail staff rises to 1,300 incidents a day](https://www.theguardian.com/business/2024/feb/14/violence-and-abuse-against-uk-retail-staff-rises-to-1300-incidents-a-day)
-- [Just For One Day review – Live Aid musical has soaring voices and pancake-flat characters](https://www.theguardian.com/stage/2024/feb/13/just-for-one-day-review-live-aid-musical-bob-geldof)
-- [Tennessee advances bill to ban people from helping minors obtain abortion](https://www.theguardian.com/world/2024/feb/13/tennessee-minors-abortion-ban)
+- [Kansas City Chiefs parade shooting: one killed, 22 injured and three people detained, police say – live](https://www.theguardian.com/us-news/live/2024/feb/14/kansas-city-parade-shooting-chiefs-super-bowl-latest-updates)
+- [Russia-Ukraine war at a glance: what we know on day 722](https://www.theguardian.com/world/2024/feb/15/russia-ukraine-war-at-a-glance-what-we-know-on-day-722)
+- [Genetics journal retracts 17 papers from China due to human rights concerns](https://www.theguardian.com/world/2024/feb/15/china-retracts-papers-molecular-genetics-genomic-medicine)
+- [Teacher formerly known as Rachel Dolezal loses job over OnlyFans account](https://www.theguardian.com/us-news/2024/feb/14/rachel-dolezal-nkechi-diallo-onlyfans-arizona-school-fired)
+- [Vladimir Putin surprised by lack of ‘sharp questions’ in Tucker Carlson interview](https://www.theguardian.com/world/2024/feb/15/vladimir-putin-tucker-carlson-interview-footage-sharp-questions)
+- [Special counsel urges supreme court to reject Trump’s bid to delay election trial](https://www.theguardian.com/us-news/2024/feb/14/special-counsel-trump-supreme-court-trial)
+- [Huge rise in antisemitic abuse in UK since Hamas attack, says charity](https://www.theguardian.com/news/2024/feb/15/huge-rise-in-antisemitic-abuse-in-uk-since-hamas-attack-says-charity)
+- [Labour urged to double funding in publicly owned renewables](https://www.theguardian.com/business/2024/feb/15/labour-urged-to-double-funding-in-publicly-owned-renewables)
+- [School uniforms may be barrier to physical activity among younger girls](https://www.theguardian.com/education/2024/feb/15/school-uniforms-may-be-barrier-to-physical-activity-among-younger-girls)
+- [‘We’re in a great position’: Tiger Woods claims PGA Tour doesn’t need PIF cash](https://www.theguardian.com/sport/2024/feb/14/were-in-a-great-position-tiger-woods-claims-pga-tour-doesnt-need-pif-cash)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

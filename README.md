@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [San Francisco staged a surprising comeback](https://www.economist.com/finance-and-economics/2024/02/12/san-franciscos-surprising-comeback)
-- [Andrej Karpathy Departs OpenAI](https://www.theinformation.com/articles/openai-researcher-andrej-karpathy-departs)
-- [100 Years Ago, IBM Was Born](https://spectrum.ieee.org/ibm-history)
-- [Bioluminescent petunias now available for U.S. market](https://lgrmag.com/news/light-bio-to-introduce-bioluminescent-petunias-into-u-s-market/)
-- [Show HN: Instantly play the game I&#39;m developing directly on its website](https://athenacrisis.com)
-- [Sam Altman Wants $7T](https://www.astralcodexten.com/p/sam-altman-wants-7-trillion)
-- [Protein biomarkers predict dementia 15 years before diagnosis in new study](https://warwick.ac.uk/newsandevents/pressreleases/?newsItem=8a17841a8d79730b018d9e2bbb0e054b)
-- [Handwriting but not typewriting leads to widespread brain connectivity](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1219945/full)
-- [A bird&#39;s eye view of Polars](https://pola.rs/posts/polars_birds_eye_view/)
-- [A 1.9 solar mass neutron star candidate in a 2-year orbit](https://arxiv.org/abs/2402.06722)
+- [Air Canada liable for misleading information provided by service chatbot](https://bc.ctvnews.ca/air-canada-s-chatbot-gave-a-b-c-man-the-wrong-information-now-the-airline-has-to-pay-for-the-mistake-1.6769454)
+- [gpulist – Craigslist for GPUs](https://gpulist.ai/)
+- [SpaceX files to move incorporation site from Delaware to Texas](https://www.cnbc.com/2024/02/14/spacex-files-to-move-incorporation-site-from-delaware-to-texas.html)
+- [Show HN: Gitlab Meeting Simulator 2024](https://benjamin-brady.github.io/gitlab-simulator/)
+- [How to copy a file between devices?](https://grdw.nl/2022/10/03/how-to-copy-a-file-between-devices.html)
+- [Terence Tao, &quot;Machine Assisted Proof&quot; [video]](https://www.youtube.com/watch?v=AayZuuDDKP0)
+- [Researchers have developed a beef-rice hybrid](https://www.scimex.org/newsfeed/youve-heard-of-lab-grown-meat-are-you-ready-for-rice-grown-beef)
+- [I Went to FOSDEM](https://leejo.github.io/2024/02/14/fosdem/)
+- [Inside the proton, the ‘most complicated thing you could possibly imagine’](https://www.quantamagazine.org/inside-the-proton-the-most-complicated-thing-imaginable-20221019/)
+- [Holepunch Unveils P2P Platform &quot;Pear Runtime&quot;](https://pears.com/news/holepunch-unveils-groundbreaking-open-source-peer-to-peer-app-development-platform-pear-runtime/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

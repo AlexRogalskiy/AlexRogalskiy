@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [EU&#39;s AI Act wins fresh backing ahead of April vote](https://www.computerworld.com/article/3712713/eus-ai-act-wins-fresh-backing-ahead-of-april-vote.html#tk.rss_all)
+- [Apple accelerates its genAI efforts with LLM image-editing tool](https://www.computerworld.com/article/3712712/apple-accelerates-its-genai-efforts-with-llm-image-editing-tool.html#tk.rss_all)
+- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
+- [Slack launches genAI tools for big businesses, remains mum on price](https://www.computerworld.com/article/3712787/slack-launches-genai-tools-for-big-businesses-remains-mum-on-price.html#tk.rss_all)
+- [Microsoft and the Taylor Swift genAI deepfake problem](https://www.computerworld.com/article/3712694/microsoft-and-the-taylor-swift-ai-deepfake-problem.html#tk.rss_all)
+- [Tech spending shifts to meet AI demand, forces a &#39;reshuffling of skills&#39; for workers](https://www.computerworld.com/article/3712686/tech-spending-shifts-to-meet-ai-demand-forces-a-reshuffling-of-skills-for-workers.html#tk.rss_all)
 - [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
 - [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
 - [Nvidia unveils ‘Chat with RTX,’ a personal AI chatbot for Windows](https://www.computerworld.com/article/3712921/nvidia-unveils-chat-with-rtx-a-personal-ai-chatbot-for-windows.html#tk.rss_all)
 - [Apple is ramping up its fight against malware](https://www.computerworld.com/article/3712865/apple-is-ramping-up-its-fight-against-malware.html#tk.rss_all)
-- [Will employees bow down to stricter RTO policies?](https://www.computerworld.com/article/3712709/will-employees-bow-down-to-stricter-rto-policies.html#tk.rss_all)
-- [Otter.ai adds transcription archiving and recall across the enterprise](https://www.computerworld.com/article/3712689/otter-ai-adds-transcription-archiving-and-recall-across-the-enterprise.html#tk.rss_all)
-- [The real problem with Google&#39;s new Gemini Android assistant](https://www.computerworld.com/article/3712864/google-gemini-android-assistant.html#tk.rss_all)
-- [AI chips don’t need trillion-dollar investments: Nvidia CEO](https://www.computerworld.com/article/3712693/ai-chips-don-t-need-trillion-dollar-investments-nvidia-ceo.html#tk.rss_all)
-- [How to thwart cyber criminals seeking to target smaller businesses](https://www.computerworld.com/article/3712809/how-to-thwart-cyber-criminals-seeking-to-target-smaller-businesses.html#tk.rss_all)
-- [Building the foundations of a sustainable innovation strategy](https://www.computerworld.com/article/3712808/building-the-foundations-of-a-sustainable-innovation-strategy.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

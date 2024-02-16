@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Air Canada liable for misleading information provided by service chatbot](https://bc.ctvnews.ca/air-canada-s-chatbot-gave-a-b-c-man-the-wrong-information-now-the-airline-has-to-pay-for-the-mistake-1.6769454)
-- [gpulist – Craigslist for GPUs](https://gpulist.ai/)
-- [SpaceX files to move incorporation site from Delaware to Texas](https://www.cnbc.com/2024/02/14/spacex-files-to-move-incorporation-site-from-delaware-to-texas.html)
-- [Show HN: Gitlab Meeting Simulator 2024](https://benjamin-brady.github.io/gitlab-simulator/)
-- [How to copy a file between devices?](https://grdw.nl/2022/10/03/how-to-copy-a-file-between-devices.html)
-- [Terence Tao, &quot;Machine Assisted Proof&quot; [video]](https://www.youtube.com/watch?v=AayZuuDDKP0)
-- [Researchers have developed a beef-rice hybrid](https://www.scimex.org/newsfeed/youve-heard-of-lab-grown-meat-are-you-ready-for-rice-grown-beef)
-- [I Went to FOSDEM](https://leejo.github.io/2024/02/14/fosdem/)
-- [Inside the proton, the ‘most complicated thing you could possibly imagine’](https://www.quantamagazine.org/inside-the-proton-the-most-complicated-thing-imaginable-20221019/)
-- [Holepunch Unveils P2P Platform &quot;Pear Runtime&quot;](https://pears.com/news/holepunch-unveils-groundbreaking-open-source-peer-to-peer-app-development-platform-pear-runtime/)
+- [Magika: AI powered fast and efficient file type identification](https://opensource.googleblog.com/2024/02/magika-ai-powered-fast-and-efficient-file-type-identification.html)
+- [Video generation models as world simulators](https://openai.com/research/video-generation-models-as-world-simulators)
+- [It Was 33 Years Ago Today: Happy Birthday Lemmings](https://scottishgames.net/2024/02/14/it-was-33-years-ago-today-happy-birthday-lemmings/)
+- [Show HN: Galactic Compass – an app that points to the galactic center](https://interconnected.org/home/2024/02/15/galactic-compass)
+- [What you need to know about the future of Mozilla Hubs](https://hubs.mozilla.com/labs/sunset/)
+- [Passing stars changed the orbits of planets in the solar system](https://www.universetoday.com/165727/passing-stars-changed-the-orbits-of-planets-in-the-solar-system/)
+- [Build your own 3D printed Hexapod](https://github.com/MakeYourPet/hexapod)
+- [Apple confirms it&#39;s breaking iPhone web apps in the EU on purpose](https://techcrunch.com/2024/02/15/apple-confirms-its-breaking-iphone-web-apps-in-the-eu-on-purpose/)
+- [Building an LLM from Scratch: Automatic Differentiation](https://bclarkson-code.github.io/posts/llm-from-scratch-scalar-autograd/post.html)
+- [Uv: Python packaging in Rust](https://astral.sh/blog/uv)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

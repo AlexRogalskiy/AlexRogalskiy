@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Kansas City Chiefs parade shooting: one killed, 22 injured and three people detained, police say – live](https://www.theguardian.com/us-news/live/2024/feb/14/kansas-city-parade-shooting-chiefs-super-bowl-latest-updates)
-- [Russia-Ukraine war at a glance: what we know on day 722](https://www.theguardian.com/world/2024/feb/15/russia-ukraine-war-at-a-glance-what-we-know-on-day-722)
-- [Genetics journal retracts 17 papers from China due to human rights concerns](https://www.theguardian.com/world/2024/feb/15/china-retracts-papers-molecular-genetics-genomic-medicine)
-- [Teacher formerly known as Rachel Dolezal loses job over OnlyFans account](https://www.theguardian.com/us-news/2024/feb/14/rachel-dolezal-nkechi-diallo-onlyfans-arizona-school-fired)
-- [Vladimir Putin surprised by lack of ‘sharp questions’ in Tucker Carlson interview](https://www.theguardian.com/world/2024/feb/15/vladimir-putin-tucker-carlson-interview-footage-sharp-questions)
-- [Special counsel urges supreme court to reject Trump’s bid to delay election trial](https://www.theguardian.com/us-news/2024/feb/14/special-counsel-trump-supreme-court-trial)
-- [Huge rise in antisemitic abuse in UK since Hamas attack, says charity](https://www.theguardian.com/news/2024/feb/15/huge-rise-in-antisemitic-abuse-in-uk-since-hamas-attack-says-charity)
-- [Labour urged to double funding in publicly owned renewables](https://www.theguardian.com/business/2024/feb/15/labour-urged-to-double-funding-in-publicly-owned-renewables)
-- [School uniforms may be barrier to physical activity among younger girls](https://www.theguardian.com/education/2024/feb/15/school-uniforms-may-be-barrier-to-physical-activity-among-younger-girls)
-- [‘We’re in a great position’: Tiger Woods claims PGA Tour doesn’t need PIF cash](https://www.theguardian.com/sport/2024/feb/14/were-in-a-great-position-tiger-woods-claims-pga-tour-doesnt-need-pif-cash)
+- [Kingswood byelection: Labour overturns big Tory majority to win](https://www.theguardian.com/politics/2024/feb/16/kingswood-byelection-labour-overturns-big-tory-majority-to-win)
+- [Pacific Island leaders warn US failure to pass funding bill opens door to China](https://www.theguardian.com/world/2024/feb/16/pacific-islands-us-funding-bill-china-relationship-joe-biden)
+- [Russia-Ukraine war at a glance: what we know on day 723](https://www.theguardian.com/world/2024/feb/16/russia-ukraine-war-at-a-glance-what-we-know-on-day-723)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2024/feb/16/premier-league-10-things-to-look-out-for-this-weekend)
+- [Long-lost bass guitar returned to Paul McCartney after more than 50 years](https://www.theguardian.com/music/2024/feb/15/long-lost-bass-guitar-returned-to-paul-mccartney-after-54-years)
+- [FBI informant charged with lying about Bidens’ role in Ukraine business](https://www.theguardian.com/us-news/2024/feb/15/fbi-informant-biden-ukraine-charged-burisma)
+- [Greece becomes first Orthodox Christian country to legalise same-sex marriage](https://www.theguardian.com/world/2024/feb/15/greece-becomes-first-orthodox-christian-country-to-legalise-same-sex-marriage)
+- [Europa League roundup: Loftus-Cheek double powers Milan to win over Rennes](https://www.theguardian.com/football/2024/feb/15/european-roundup-europa-league)
+- [The Picture of Dorian Gray review – Sarah Snook plays 26 characters in dazzling, dangerous solo show](https://www.theguardian.com/stage/2024/feb/15/the-picture-of-dorian-gray-review-sarah-snook-succession)
+- [Police offer $1m reward to solve murder of Melbourne woman found dead by children 46 years ago](https://www.theguardian.com/australia-news/2024/feb/16/mary-anne-fagan-armadale-1m-reward-cold-case-murder-death)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

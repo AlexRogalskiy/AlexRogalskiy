@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [American Counterculture, Glimpsed Through Zines](https://www.newyorker.com/culture/cultural-comment/american-counterculture-glimpsed-through-zines)
-- [The bottom 10% earners have seen the highest increases in real wages since 2020](https://www.nber.org/papers/w31010)
-- [The Brutal Reality of Plunging Office Values Is Here](https://www.bloomberg.com/news/features/2024-02-14/real-estate-lenders-confront-falling-us-commercial-property-prices)
-- [LiFi](https://news.ycombinator.com/item?id=39378294)
-- [Understanding and implementing fixed point numbers](http://www.sunshine2k.de/articles/coding/fp/sunfp.html)
-- [Major data analysis errors invalidate cancer microbiome findings](https://www.biorxiv.org/content/10.1101/2023.07.28.550993v1)
-- [On using milliseconds as a measure of network latency](https://devblogs.microsoft.com/oldnewthing/20240206-00/?p=109365)
-- [Why Americans Suddenly Stopped Hanging Out](https://www.theatlantic.com/ideas/archive/2024/02/america-decline-hanging-out/677451/)
-- [Air Canada liable for misleading information provided by service chatbot](https://bc.ctvnews.ca/air-canada-s-chatbot-gave-a-b-c-man-the-wrong-information-now-the-airline-has-to-pay-for-the-mistake-1.6769454)
-- [Galileo v0.1 cross-platform map rendering engine released](https://maximkaaa.github.io/galileo/blog/posts/release_v0.1/)
+- [Delaware&#39;s License Plate Collectors](https://delawaretoday.com/uncategorized/fashion-plates/)
+- [Thedelaware3000.org](https://www.thedelaware3000.org)
+- [Gemini 1.5: Unlocking multimodal understanding across token context [pdf]](https://storage.googleapis.com/deepmind-media/gemini/gemini_v1_5_report.pdf)
+- [Foods You Didn&#39;t Know You Could Freeze](https://menuaid.co.nz/blog/can-you-freeze/)
+- [V-JEPA: Video Joint Embedding Predictive Architecture &lpar;V-JEPA&rpar; Model](https://ai.meta.com/blog/v-jepa-yann-lecun-ai-model-video-joint-embedding-predictive-architecture/)
+- [Microsoft&#39;s Xbox Dilemma](https://disconnect.blog/microsofts-xbox-dilemma/)
+- [OK, WTF Are Wordcels and Shape Rotators?](https://www.vice.com/en/article/pkpqzb/ok-wtf-are-wordcels-and-shape-rotators)
+- [Shomp.co Timeline and Release Schedule](https://shomp.co/timeline.html)
+- [Nikkei broke 38860, less than 100 points below historical high](https://www.google.com/finance/quote/NI225:INDEXNIKKEI)
+- [Barbara Nessim at the Ginza Art Space &lpar;1986&rpar;](https://blog.gingerbeardman.com/2024/02/15/barbara-nessim-at-the-ginza-art-space-1986/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

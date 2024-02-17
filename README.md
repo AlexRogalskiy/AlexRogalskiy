@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Kingswood byelection: Labour overturns big Tory majority to win](https://www.theguardian.com/politics/2024/feb/16/kingswood-byelection-labour-overturns-big-tory-majority-to-win)
-- [Pacific Island leaders warn US failure to pass funding bill opens door to China](https://www.theguardian.com/world/2024/feb/16/pacific-islands-us-funding-bill-china-relationship-joe-biden)
-- [Russia-Ukraine war at a glance: what we know on day 723](https://www.theguardian.com/world/2024/feb/16/russia-ukraine-war-at-a-glance-what-we-know-on-day-723)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2024/feb/16/premier-league-10-things-to-look-out-for-this-weekend)
-- [Long-lost bass guitar returned to Paul McCartney after more than 50 years](https://www.theguardian.com/music/2024/feb/15/long-lost-bass-guitar-returned-to-paul-mccartney-after-54-years)
-- [FBI informant charged with lying about Bidens’ role in Ukraine business](https://www.theguardian.com/us-news/2024/feb/15/fbi-informant-biden-ukraine-charged-burisma)
-- [Greece becomes first Orthodox Christian country to legalise same-sex marriage](https://www.theguardian.com/world/2024/feb/15/greece-becomes-first-orthodox-christian-country-to-legalise-same-sex-marriage)
-- [Europa League roundup: Loftus-Cheek double powers Milan to win over Rennes](https://www.theguardian.com/football/2024/feb/15/european-roundup-europa-league)
-- [The Picture of Dorian Gray review – Sarah Snook plays 26 characters in dazzling, dangerous solo show](https://www.theguardian.com/stage/2024/feb/15/the-picture-of-dorian-gray-review-sarah-snook-succession)
-- [Police offer $1m reward to solve murder of Melbourne woman found dead by children 46 years ago](https://www.theguardian.com/australia-news/2024/feb/16/mary-anne-fagan-armadale-1m-reward-cold-case-murder-death)
+- [Colorado funeral home owner kept cremated remains of at least 30 people, police say](https://www.theguardian.com/us-news/2024/feb/16/denver-funeral-home-remains-found)
+- [Ukrainian forces withdraw from Avdiivka to avoid encirclement, army chief says](https://www.theguardian.com/world/2024/feb/16/ukrainian-forces-give-up-some-positions-in-avdiivka-as-russian-assault-continues)
+- [Microsoft-backed OpenAI valued at $80bn after company completes deal](https://www.theguardian.com/technology/2024/feb/16/microsoft-openai-valuation-artificial-intelligence)
+- [‘A lack of contrition that borders on pathological’: what the Trump fraud verdict says](https://www.theguardian.com/us-news/2024/feb/16/trump-verdict-judge-new-york-fraud-case)
+- [Taylor Swift: The Eras tour Melbourne show review – eye-popping spectacle from a generous performer](https://www.theguardian.com/music/2024/feb/17/taylor-swift-concert-review-melbourne-night-1-eras-tour-australia)
+- [Olympic cycling star Chris Hoy reveals cancer diagnosis](https://www.theguardian.com/sport/2024/feb/16/olympic-track-star-chris-hoy-reveals-cancer-diagnosis)
+- [Trump, the ‘law-and-order’ candidate, is an adjudicated fraudster | Lloyd Green](https://www.theguardian.com/commentisfree/2024/feb/16/donald-trump-organization-legal-woes)
+- [Taylor Swift performs at the MCG in front of her largest ever crowd and the Swifties love it – in pictures](https://www.theguardian.com/music/gallery/2024/feb/17/taylor-swift-performs-at-the-mcg-in-front-of-her-largest-ever-crowd-and-the-swifties-love-it-in-pictures)
+- [‘You can make mistakes and come out better’: readers on emotional affairs](https://www.theguardian.com/lifeandstyle/2024/feb/17/emotional-affair-details-what-is-it-fix-relationship-advice)
+- [Gareth Taylor hails watershed after Manchester City end Chelsea run](https://www.theguardian.com/football/2024/feb/16/gareth-taylor-hails-watershed-after-manchester-city-end-chelsea-run)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

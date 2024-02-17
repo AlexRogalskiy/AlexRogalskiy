@@ -355,6 +355,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Microsoft fixes two zero-days with Patch Tuesday release](https://www.computerworld.com/article/3712925/microsoft-fixes-two-zero-days-with-patch-tuesday-release.html#tk.rss_all)
+- [Apple has an Xcode plan for genAI — and that&#39;s just the beginning](https://www.computerworld.com/article/3712696/apple-has-an-xcode-plan-for-genai-and-thats-just-the-beginning.html#tk.rss_all)
+- [Android file management: An easy-to-follow guide](https://www.computerworld.com/article/3221287/android-file-management-an-easy-to-follow-guide.html#tk.rss_all)
 - [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
 - [Google turbocharges its genAI engine with Gemini 1.5](https://www.computerworld.com/article/3712961/google-turbocharges-its-genai-engine-with-gemini-15.html#tk.rss_all)
 - [Microsoft and Google invest in AI in Europe](https://www.computerworld.com/article/3712941/microsoft-and-google-invest-in-ai-in-europe.html#tk.rss_all)
@@ -362,9 +365,6 @@
 - [Apple&#39;s Vision Pro and the coming healthcare revolution](https://www.computerworld.com/article/3712882/apple-wants-your-body-digital-health-and-vision-pro.html#tk.rss_all)
 - [ChatGPT will remember what you did last summer](https://www.computerworld.com/article/3712901/chatgpt-will-remember-what-you-did-last-summer.html#tk.rss_all)
 - [Unlock your Android phone&#39;s physical gesture magic](https://www.computerworld.com/article/3712710/android-physical-gestures.html#tk.rss_all)
-- [How to use Google’s genAI-powered note-taking app](https://www.computerworld.com/article/3712691/google-notebooklm-generative-ai-notes-app.html#tk.rss_all)
-- [EU&#39;s AI Act wins fresh backing ahead of April vote](https://www.computerworld.com/article/3712713/eus-ai-act-wins-fresh-backing-ahead-of-april-vote.html#tk.rss_all)
-- [Apple accelerates its genAI efforts with LLM image-editing tool](https://www.computerworld.com/article/3712712/apple-accelerates-its-genai-efforts-with-llm-image-editing-tool.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

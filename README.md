@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Delaware&#39;s License Plate Collectors](https://delawaretoday.com/uncategorized/fashion-plates/)
-- [Thedelaware3000.org](https://www.thedelaware3000.org)
-- [Gemini 1.5: Unlocking multimodal understanding across token context [pdf]](https://storage.googleapis.com/deepmind-media/gemini/gemini_v1_5_report.pdf)
-- [Foods You Didn&#39;t Know You Could Freeze](https://menuaid.co.nz/blog/can-you-freeze/)
-- [V-JEPA: Video Joint Embedding Predictive Architecture &lpar;V-JEPA&rpar; Model](https://ai.meta.com/blog/v-jepa-yann-lecun-ai-model-video-joint-embedding-predictive-architecture/)
-- [Microsoft&#39;s Xbox Dilemma](https://disconnect.blog/microsofts-xbox-dilemma/)
-- [OK, WTF Are Wordcels and Shape Rotators?](https://www.vice.com/en/article/pkpqzb/ok-wtf-are-wordcels-and-shape-rotators)
-- [Shomp.co Timeline and Release Schedule](https://shomp.co/timeline.html)
-- [Nikkei broke 38860, less than 100 points below historical high](https://www.google.com/finance/quote/NI225:INDEXNIKKEI)
-- [Barbara Nessim at the Ginza Art Space &lpar;1986&rpar;](https://blog.gingerbeardman.com/2024/02/15/barbara-nessim-at-the-ginza-art-space-1986/)
+- [2022 Hunga Tonga–Hunga Haʻapai Eruption and Tsunami](https://en.wikipedia.org/wiki/2022_Hunga_Tonga%E2%80%93Hunga_Ha%CA%BBapai_eruption_and_tsunami)
+- [The adult consequences of being bullied in childhood](https://www.sciencedirect.com/science/article/pii/S0277953624001345)
+- [Is This a Joke?](https://www.signiant.com/file-transfer-calculator/)
+- [The European Commission Had Nothing to Do with Apple&#39;s Reversal on RCS](https://daringfireball.net/2024/02/eu_rcs_imessage)
+- [Apple unbanned Epic so it can make an iOS games store in the EU](https://www.theverge.com/2024/2/16/24074873/epic-apple-ios-developer-account-eu-games-store-fortnite)
+- [Google testing feature to call customer service on your behalf](https://www.businessinsider.com/google-feature-waits-on-hold-customer-service-2024-2)
+- [How Slack brought the group chat to work](https://www.theverge.com/24070725/slack-ten-year-anniversary-retrospective-groupchat-workplace)
+- [Big Pharma spends billions more on executives and stockholders than on R&amp;D](https://arstechnica.com/science/2024/02/big-pharma-spends-billions-more-on-executives-and-stockholders-than-on-rd/)
+- [Nearly 700 Ubisoft Workers Went on Strike This Week](https://aftermath.site/ubisoft-strike-france-pay-yves-guillemot)
+- [Medallion Fund: The Ultimate Counterexample?](https://www.cornell-capital.com/blog/2020/02/medallion-fund-the-ultimate-counterexample.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

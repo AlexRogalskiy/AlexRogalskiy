@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Magika: AI powered fast and efficient file type identification](https://opensource.googleblog.com/2024/02/magika-ai-powered-fast-and-efficient-file-type-identification.html)
-- [Video generation models as world simulators](https://openai.com/research/video-generation-models-as-world-simulators)
-- [It Was 33 Years Ago Today: Happy Birthday Lemmings](https://scottishgames.net/2024/02/14/it-was-33-years-ago-today-happy-birthday-lemmings/)
-- [Show HN: Galactic Compass – an app that points to the galactic center](https://interconnected.org/home/2024/02/15/galactic-compass)
-- [What you need to know about the future of Mozilla Hubs](https://hubs.mozilla.com/labs/sunset/)
-- [Passing stars changed the orbits of planets in the solar system](https://www.universetoday.com/165727/passing-stars-changed-the-orbits-of-planets-in-the-solar-system/)
-- [Build your own 3D printed Hexapod](https://github.com/MakeYourPet/hexapod)
-- [Apple confirms it&#39;s breaking iPhone web apps in the EU on purpose](https://techcrunch.com/2024/02/15/apple-confirms-its-breaking-iphone-web-apps-in-the-eu-on-purpose/)
-- [Building an LLM from Scratch: Automatic Differentiation](https://bclarkson-code.github.io/posts/llm-from-scratch-scalar-autograd/post.html)
-- [Uv: Python packaging in Rust](https://astral.sh/blog/uv)
+- [OpenAI Completes Deal That Values the Company at $80B](https://www.nytimes.com/2024/02/16/technology/openai-artificial-intelligence-deal-valuation.html)
+- [Air Canada ordered to pay customer who was misled by airline&#39;s chatbot](https://www.theguardian.com/world/2024/feb/16/air-canada-chatbot-lawsuit)
+- [GPlates: Open-source software for interactive visualisation of plate tectonics](https://www.gplates.org/)
+- [Pro CCP &#39;spamouflage&#39; network pivoting to focus on US election](https://www.isdglobal.org/digital_dispatches/pro-ccp-spamouflage-net-work-focuses-on-us-election/)
+- [Plastic industry knew recycling was a farce for decades](https://www.euronews.com/green/2024/02/16/plastic-industry-knew-recycling-was-a-farce-for-decades-yet-deceived-the-public-report-rev)
+- [How did humans survive alone for 1000 years on desert islands off Africa?](https://www.science.org/content/article/humans-survive-alone-1000-years-desert-islands-off-africa)
+- [The majority of traffic from X may have been fake during the Super Bowl](https://mashable.com/article/x-twitter-elon-musk-bots-fake-traffic)
+- [Recording and visualising the 20k system calls it takes to &quot;import seaborn&quot;](http://blog.mattstuchlik.com/2024/02/16/counting-syscalls-in-python.html)
+- [Show HN: Driftmania – an open source PICO-8 racing game](https://frenchie14.itch.io/driftmania)
+- [Paying people to work on open source is good](https://jacobian.org/2024/feb/16/paying-maintainers-is-good/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

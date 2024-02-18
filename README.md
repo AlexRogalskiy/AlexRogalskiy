@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [OpenAI Completes Deal That Values the Company at $80B](https://www.nytimes.com/2024/02/16/technology/openai-artificial-intelligence-deal-valuation.html)
-- [Air Canada ordered to pay customer who was misled by airline&#39;s chatbot](https://www.theguardian.com/world/2024/feb/16/air-canada-chatbot-lawsuit)
-- [GPlates: Open-source software for interactive visualisation of plate tectonics](https://www.gplates.org/)
-- [Pro CCP &#39;spamouflage&#39; network pivoting to focus on US election](https://www.isdglobal.org/digital_dispatches/pro-ccp-spamouflage-net-work-focuses-on-us-election/)
-- [Plastic industry knew recycling was a farce for decades](https://www.euronews.com/green/2024/02/16/plastic-industry-knew-recycling-was-a-farce-for-decades-yet-deceived-the-public-report-rev)
-- [How did humans survive alone for 1000 years on desert islands off Africa?](https://www.science.org/content/article/humans-survive-alone-1000-years-desert-islands-off-africa)
-- [The majority of traffic from X may have been fake during the Super Bowl](https://mashable.com/article/x-twitter-elon-musk-bots-fake-traffic)
-- [Recording and visualising the 20k system calls it takes to &quot;import seaborn&quot;](http://blog.mattstuchlik.com/2024/02/16/counting-syscalls-in-python.html)
-- [Show HN: Driftmania – an open source PICO-8 racing game](https://frenchie14.itch.io/driftmania)
-- [Paying people to work on open source is good](https://jacobian.org/2024/feb/16/paying-maintainers-is-good/)
+- [Science fiction authors were excluded from awards for fear of offending China](https://www.nbcnews.com/news/world/science-fiction-authors-excluded-hugo-awards-china-rcna139134)
+- [Disconnecting the Playstation 5 from Internet installs DVD games faster](https://old.reddit.com/r/PS5/comments/t6nfyl/question_how_long_does_your_disk_installations/)
+- [AI Restaurant Menu with RAG](https://wandb.ai/byyoung3/ml-news/reports/Building-a-RAG-Based-Digital-Restaurant-Menu-with-LlamaIndex-and-W-B-Weave--Vmlldzo2NjE5Njkw)
+- [Basic proxy implementation using io_uring](https://git.kernel.dk/cgit/liburing/tree/examples/proxy.c)
+- [Welding of Plutonium &lpar;1958&rpar; [pdf]](https://sgp.fas.org/othergov/doe/lanl/lib-www/la-pubs/00414797.pdf)
+- [Representation Engineering: Mistral-7B on Acid](https://vgel.me/posts/representation-engineering/)
+- [Altman&#39;s Ambition](https://thezvi.substack.com/p/ai-51-altmans-ambition)
+- [My Notes on Gitlab&#39;s Postgres Schema Design &lpar;2022&rpar;](https://shekhargulati.com/2022/07/08/my-notes-on-gitlabs-postgres-schema-design/)
+- [JSR first impressions: a JavaScript package manager by the Deno team &lpar;2023&rpar;](https://www.kitsonkelly.com/posts/jsr-first-impressions)
+- [OS-Copilot: Towards Generalist Computer Agents with Self-Improvement](https://os-copilot.github.io/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

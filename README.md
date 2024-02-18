@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Colorado funeral home owner kept cremated remains of at least 30 people, police say](https://www.theguardian.com/us-news/2024/feb/16/denver-funeral-home-remains-found)
-- [Ukrainian forces withdraw from Avdiivka to avoid encirclement, army chief says](https://www.theguardian.com/world/2024/feb/16/ukrainian-forces-give-up-some-positions-in-avdiivka-as-russian-assault-continues)
-- [Microsoft-backed OpenAI valued at $80bn after company completes deal](https://www.theguardian.com/technology/2024/feb/16/microsoft-openai-valuation-artificial-intelligence)
-- [‘A lack of contrition that borders on pathological’: what the Trump fraud verdict says](https://www.theguardian.com/us-news/2024/feb/16/trump-verdict-judge-new-york-fraud-case)
-- [Taylor Swift: The Eras tour Melbourne show review – eye-popping spectacle from a generous performer](https://www.theguardian.com/music/2024/feb/17/taylor-swift-concert-review-melbourne-night-1-eras-tour-australia)
-- [Olympic cycling star Chris Hoy reveals cancer diagnosis](https://www.theguardian.com/sport/2024/feb/16/olympic-track-star-chris-hoy-reveals-cancer-diagnosis)
-- [Trump, the ‘law-and-order’ candidate, is an adjudicated fraudster | Lloyd Green](https://www.theguardian.com/commentisfree/2024/feb/16/donald-trump-organization-legal-woes)
-- [Taylor Swift performs at the MCG in front of her largest ever crowd and the Swifties love it – in pictures](https://www.theguardian.com/music/gallery/2024/feb/17/taylor-swift-performs-at-the-mcg-in-front-of-her-largest-ever-crowd-and-the-swifties-love-it-in-pictures)
-- [‘You can make mistakes and come out better’: readers on emotional affairs](https://www.theguardian.com/lifeandstyle/2024/feb/17/emotional-affair-details-what-is-it-fix-relationship-advice)
-- [Gareth Taylor hails watershed after Manchester City end Chelsea run](https://www.theguardian.com/football/2024/feb/16/gareth-taylor-hails-watershed-after-manchester-city-end-chelsea-run)
+- [Former Thai PM Thaksin Shinawatra released on parole from police hospital](https://www.theguardian.com/world/2024/feb/17/former-thai-pm-thaksin-shinawatra-about-to-be-released-on-parole)
+- [Sing, it’s spring! 10 trends to update your wardrobe – in pictures](https://www.theguardian.com/fashion/gallery/2024/feb/17/sing-its-spring-10-trends-to-update-your-wardrobe-in-pictures)
+- [Peter Doherty: Stranger In My Own Skin review – the moments of honesty are utterly arresting](https://www.theguardian.com/tv-and-radio/2024/feb/17/peter-doherty-stranger-in-my-own-skin-review-the-moments-of-honesty-are-utterly-arresting)
+- [Go with your gut: the science and psychology behind our sense of intuition](https://www.theguardian.com/science/2024/feb/18/go-with-your-gut-the-science-and-psychology-behind-our-sense-of-intuition)
+- [Keir Starmer reportedly wanted to quit after 2021 Hartlepool defeat](https://www.theguardian.com/politics/2024/feb/17/keir-starmer-reportedly-wanted-to-quit-after-2021-byelection-defeat)
+- [Manchester City played ‘one half’ against Chelsea, says Pep Guardiola](https://www.theguardian.com/football/2024/feb/17/manchester-city-play-one-half-against-chelsea-says-pep-guardiola)
+- [Dan Cole stands test of time to help England move in new direction](https://www.theguardian.com/sport/2024/feb/17/dan-cole-england-steve-borthwick-rugby-union-six-nations)
+- [South Africa and Gloucestershire cricket legend Mike Procter dies aged 77](https://www.theguardian.com/sport/2024/feb/17/south-africa-and-gloucestershire-cricket-legend-mike-procter-dies-aged-77)
+- [Hors du Temps &lpar;Suspended Time&rpar; review – lockdown memoir revives childhood bliss](https://www.theguardian.com/film/2024/feb/17/hors-du-temps-suspended-time-review-lockdown-memoir-revives-childhood-bliss)
+- [‘Alexei would want to tell Russia not to give up fighting’](https://www.theguardian.com/world/2024/feb/17/alexei-would-want-to-tell-russia-not-to-give-up-fighting)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

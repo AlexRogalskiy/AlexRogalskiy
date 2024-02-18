@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [2022 Hunga Tonga–Hunga Haʻapai Eruption and Tsunami](https://en.wikipedia.org/wiki/2022_Hunga_Tonga%E2%80%93Hunga_Ha%CA%BBapai_eruption_and_tsunami)
-- [The adult consequences of being bullied in childhood](https://www.sciencedirect.com/science/article/pii/S0277953624001345)
-- [Is This a Joke?](https://www.signiant.com/file-transfer-calculator/)
-- [The European Commission Had Nothing to Do with Apple&#39;s Reversal on RCS](https://daringfireball.net/2024/02/eu_rcs_imessage)
-- [Apple unbanned Epic so it can make an iOS games store in the EU](https://www.theverge.com/2024/2/16/24074873/epic-apple-ios-developer-account-eu-games-store-fortnite)
-- [Google testing feature to call customer service on your behalf](https://www.businessinsider.com/google-feature-waits-on-hold-customer-service-2024-2)
-- [How Slack brought the group chat to work](https://www.theverge.com/24070725/slack-ten-year-anniversary-retrospective-groupchat-workplace)
-- [Big Pharma spends billions more on executives and stockholders than on R&amp;D](https://arstechnica.com/science/2024/02/big-pharma-spends-billions-more-on-executives-and-stockholders-than-on-rd/)
-- [Nearly 700 Ubisoft Workers Went on Strike This Week](https://aftermath.site/ubisoft-strike-france-pay-yves-guillemot)
-- [Medallion Fund: The Ultimate Counterexample?](https://www.cornell-capital.com/blog/2020/02/medallion-fund-the-ultimate-counterexample.html)
+- [Glow-in-the-Dark Flowers Are Coming This Spring: Meet the Firefly Petunia](https://www.bhg.com/glowing-firefly-petunia-8563534)
+- [Platform to host react and Angular micro UI applet](https://fusionize.dev)
+- [The Great Compression Thanks to soaring prices, 400-square-foot house is upon us](https://www.nytimes.com/2024/02/17/business/economy/the-great-compression.html)
+- [What Would a Potential 8K Disc Format Look Like?](https://simplehomecinema.com/2023/10/19/what-would-a-potential-8k-disc-format-look-like/)
+- [UC Berkeley freshman, son of former YouTube CEO, found dead in dorm](https://www.sfchronicle.com/bayarea/article/uc-berkeley-freshman-son-former-youtube-ceo-18673186.php)
+- [How to install jdbc_fdw into PostgreSQL 15 on Amazon Linux 2023](https://gist.github.com/dossy/bade960542bc7c6fccfac8e2c822d340)
+- [Xword Info](https://www.xwordinfo.com)
+- [How can early stage founders realistically sell unicorn outcomes?](https://news.ycombinator.com/item?id=39415391)
+- [Karl Schwarzschild](https://www.physicsoftheuniverse.com/scientists_schwarzschild.html)
+- [Ordinary Man](https://thepointmag.com/criticism/very-ordinary-men/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

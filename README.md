@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Science fiction authors were excluded from awards for fear of offending China](https://www.nbcnews.com/news/world/science-fiction-authors-excluded-hugo-awards-china-rcna139134)
-- [Disconnecting the Playstation 5 from Internet installs DVD games faster](https://old.reddit.com/r/PS5/comments/t6nfyl/question_how_long_does_your_disk_installations/)
-- [AI Restaurant Menu with RAG](https://wandb.ai/byyoung3/ml-news/reports/Building-a-RAG-Based-Digital-Restaurant-Menu-with-LlamaIndex-and-W-B-Weave--Vmlldzo2NjE5Njkw)
-- [Basic proxy implementation using io_uring](https://git.kernel.dk/cgit/liburing/tree/examples/proxy.c)
-- [Welding of Plutonium &lpar;1958&rpar; [pdf]](https://sgp.fas.org/othergov/doe/lanl/lib-www/la-pubs/00414797.pdf)
-- [Representation Engineering: Mistral-7B on Acid](https://vgel.me/posts/representation-engineering/)
-- [Altman&#39;s Ambition](https://thezvi.substack.com/p/ai-51-altmans-ambition)
-- [My Notes on Gitlab&#39;s Postgres Schema Design &lpar;2022&rpar;](https://shekhargulati.com/2022/07/08/my-notes-on-gitlabs-postgres-schema-design/)
-- [JSR first impressions: a JavaScript package manager by the Deno team &lpar;2023&rpar;](https://www.kitsonkelly.com/posts/jsr-first-impressions)
-- [OS-Copilot: Towards Generalist Computer Agents with Self-Improvement](https://os-copilot.github.io/)
+- [Why are shopping carts always broken?](https://www.cnn.com/2024/02/17/business/shopping-carts-wonky-wheel-explained/index.html)
+- [Google Cloud&#39;s New Assured Open Source Software Service &lpar;2022&rpar;](https://cloud.google.com/blog/products/identity-security/introducing-assured-open-source-software-service)
+- [Mac Virtual Display on Vision Pro Requires Same Apple ID](https://blog.pinola.co/blog/apple-has-been-augmenting-reality-for-years/)
+- [Diseconomies of scale in fraud, spam, support, and moderation](https://danluu.com/diseconomies-scale/)
+- [Open Source Games](https://project-awesome.org/michelpereira/awesome-open-source-games)
+- [FTC Obtains $195M Judgment and Ban on Simple Health for Sham Insurance Offering](https://www.ftc.gov/news-events/news/press-releases/2024/02/ftc-obtains-195-million-judgment-permanent-ban-telemarketing-selling-healthcare-products-against)
+- [Why are amplitudes complex numbers? &lpar;2018&rpar;](https://scottaaronson.blog/?p=4021)
+- [A steep rise of Hackernews in Google rankings](https://jonathanpagel.com/the-steep-rise-of-hackernews-in-google-rankings/)
+- [Meticulous &lpar;YC S21&rpar; is hiring to eliminate UI end-to-end tests](https://news.ycombinator.com/item?id=39423303)
+- [The Internet Scheme Repository](https://legacy.cs.indiana.edu/scheme-repository/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

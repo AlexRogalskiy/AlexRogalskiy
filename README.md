@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Glow-in-the-Dark Flowers Are Coming This Spring: Meet the Firefly Petunia](https://www.bhg.com/glowing-firefly-petunia-8563534)
-- [Platform to host react and Angular micro UI applet](https://fusionize.dev)
-- [The Great Compression Thanks to soaring prices, 400-square-foot house is upon us](https://www.nytimes.com/2024/02/17/business/economy/the-great-compression.html)
-- [What Would a Potential 8K Disc Format Look Like?](https://simplehomecinema.com/2023/10/19/what-would-a-potential-8k-disc-format-look-like/)
-- [UC Berkeley freshman, son of former YouTube CEO, found dead in dorm](https://www.sfchronicle.com/bayarea/article/uc-berkeley-freshman-son-former-youtube-ceo-18673186.php)
-- [How to install jdbc_fdw into PostgreSQL 15 on Amazon Linux 2023](https://gist.github.com/dossy/bade960542bc7c6fccfac8e2c822d340)
-- [Xword Info](https://www.xwordinfo.com)
-- [How can early stage founders realistically sell unicorn outcomes?](https://news.ycombinator.com/item?id=39415391)
-- [Karl Schwarzschild](https://www.physicsoftheuniverse.com/scientists_schwarzschild.html)
-- [Ordinary Man](https://thepointmag.com/criticism/very-ordinary-men/)
+- [Ancient Herculaneum papyrus scrolls were deciphered [video]](https://www.youtube.com/watch?v=e5XMdsprAMo)
+- [How to weaponize LLMs to auto-hijack websites](https://www.theregister.com/2024/02/17/ai_models_weaponized/)
+- [How the maths behind honeycombs can help you work a jigsaw puzzle](https://www.newscientist.com/article/mg26134780-800-how-the-maths-behind-honeycombs-can-help-you-work-a-jigsaw-puzzle/)
+- [Who&#39;s winning in Sarah Silverman&#39;s copyright suit against OpenAI?](https://www.msn.com/en-us/news/crime/column-who-s-really-winning-in-sarah-silverman-s-copyright-suit-against-openai/ar-BB1inelI)
+- [VPP on FreeBSD](https://ipng.ch/s/articles/2024/02/17/vpp-freebsd-2.html)
+- [Sega developers say new Sapporo studios lead to better lives](https://www.japantimes.co.jp/life/2024/02/17/digital/sega-sapporo-studio-games/)
+- [Automatically Optimizing Databases: Lessons Learned from Using Machine Learning [video]](https://www.youtube.com/watch?v=suG2tMeDxZE)
+- [Serving a Website from a Git Repo Without Cloning It](https://mediocregopher.com/posts/git-proxy)
+- [UK, Allies Look to Arm Ukraine with AI-Enabled Swarm Drones](https://www.bloomberg.com/news/articles/2024-02-17/us-uk-may-arm-ukraine-with-ai-enabled-drones-to-target-russian-positions)
+- [Show HN: BetterVim – Neovim Distribution as a Product](https://bettervim.com/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

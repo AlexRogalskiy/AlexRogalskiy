@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Former Thai PM Thaksin Shinawatra released on parole from police hospital](https://www.theguardian.com/world/2024/feb/17/former-thai-pm-thaksin-shinawatra-about-to-be-released-on-parole)
-- [Sing, it’s spring! 10 trends to update your wardrobe – in pictures](https://www.theguardian.com/fashion/gallery/2024/feb/17/sing-its-spring-10-trends-to-update-your-wardrobe-in-pictures)
-- [Peter Doherty: Stranger In My Own Skin review – the moments of honesty are utterly arresting](https://www.theguardian.com/tv-and-radio/2024/feb/17/peter-doherty-stranger-in-my-own-skin-review-the-moments-of-honesty-are-utterly-arresting)
-- [Go with your gut: the science and psychology behind our sense of intuition](https://www.theguardian.com/science/2024/feb/18/go-with-your-gut-the-science-and-psychology-behind-our-sense-of-intuition)
-- [Keir Starmer reportedly wanted to quit after 2021 Hartlepool defeat](https://www.theguardian.com/politics/2024/feb/17/keir-starmer-reportedly-wanted-to-quit-after-2021-byelection-defeat)
-- [Manchester City played ‘one half’ against Chelsea, says Pep Guardiola](https://www.theguardian.com/football/2024/feb/17/manchester-city-play-one-half-against-chelsea-says-pep-guardiola)
-- [Dan Cole stands test of time to help England move in new direction](https://www.theguardian.com/sport/2024/feb/17/dan-cole-england-steve-borthwick-rugby-union-six-nations)
-- [South Africa and Gloucestershire cricket legend Mike Procter dies aged 77](https://www.theguardian.com/sport/2024/feb/17/south-africa-and-gloucestershire-cricket-legend-mike-procter-dies-aged-77)
-- [Hors du Temps &lpar;Suspended Time&rpar; review – lockdown memoir revives childhood bliss](https://www.theguardian.com/film/2024/feb/17/hors-du-temps-suspended-time-review-lockdown-memoir-revives-childhood-bliss)
-- [‘Alexei would want to tell Russia not to give up fighting’](https://www.theguardian.com/world/2024/feb/17/alexei-would-want-to-tell-russia-not-to-give-up-fighting)
+- [Dozens killed in outbreak of tribal violence in Papua New Guinea highlands](https://www.theguardian.com/world/2024/feb/19/png-papua-new-guinea-highlands-death-toll-ambush)
+- [Russia-Ukraine war at a glance: what we know on day 726](https://www.theguardian.com/world/2024/feb/19/russia-ukraine-war-at-a-glance-what-we-know-on-day-726)
+- [Hideki Matsuyama turns it on again with 62 to win Genesis Invitational](https://www.theguardian.com/sport/2024/feb/18/final-round-of-62-sees-hideki-matsuyama-win-genesis-invitational)
+- [Amount of fraud in UK more than doubled to £2.3bn in 2023, report finds](https://www.theguardian.com/money/2024/feb/19/amount-of-in-uk-more-than-doubled-to-23bn-in-2023-report-finds)
+- [Ministers confirm plan to ban use of mobile phones in schools in England](https://www.theguardian.com/education/2024/feb/19/ministers-confirm-plan-to-ban-use-of-mobile-phones-in-schools-in-england)
+- [Mass trespass on Dartmoor to highlight England’s ‘piecemeal’ right to roam laws](https://www.theguardian.com/uk-news/2024/feb/19/mass-trespass-dartmoor-england-right-to-roam-laws)
+- [24 in 2024: dancing, home-cooked meals and celebrating little wins in Fiji](https://www.theguardian.com/world/2024/feb/19/24-in-2024-dancing-home-cooked-meals-and-celebrating-little-wins-in-fiji)
+- [Two police officers and firefighter fatally shot after call in Minneapolis suburbs](https://www.theguardian.com/us-news/2024/feb/18/minneapolis-burnsville-shooting-police-firefighter)
+- [Maritime authorities investigate reported attack on UK-registered cargo ship near Yemen](https://www.theguardian.com/business/2024/feb/18/reports-uk-registered-cargo-ship-attacked-off-yemen-coast-investigated)
+- [Kremlin accused of ‘covering tracks’ as whereabouts of Alexei Navalny’s body remain uncertain](https://www.theguardian.com/world/2024/feb/18/kremlin-accused-of-covering-tracks-as-whereabouts-of-alexei-navalnys-body-remain-uncertain)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

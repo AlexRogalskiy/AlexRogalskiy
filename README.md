@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Dozens killed in outbreak of tribal violence in Papua New Guinea highlands](https://www.theguardian.com/world/2024/feb/19/png-papua-new-guinea-highlands-death-toll-ambush)
-- [Russia-Ukraine war at a glance: what we know on day 726](https://www.theguardian.com/world/2024/feb/19/russia-ukraine-war-at-a-glance-what-we-know-on-day-726)
-- [Hideki Matsuyama turns it on again with 62 to win Genesis Invitational](https://www.theguardian.com/sport/2024/feb/18/final-round-of-62-sees-hideki-matsuyama-win-genesis-invitational)
-- [Amount of fraud in UK more than doubled to £2.3bn in 2023, report finds](https://www.theguardian.com/money/2024/feb/19/amount-of-in-uk-more-than-doubled-to-23bn-in-2023-report-finds)
-- [Ministers confirm plan to ban use of mobile phones in schools in England](https://www.theguardian.com/education/2024/feb/19/ministers-confirm-plan-to-ban-use-of-mobile-phones-in-schools-in-england)
-- [Mass trespass on Dartmoor to highlight England’s ‘piecemeal’ right to roam laws](https://www.theguardian.com/uk-news/2024/feb/19/mass-trespass-dartmoor-england-right-to-roam-laws)
-- [24 in 2024: dancing, home-cooked meals and celebrating little wins in Fiji](https://www.theguardian.com/world/2024/feb/19/24-in-2024-dancing-home-cooked-meals-and-celebrating-little-wins-in-fiji)
-- [Two police officers and firefighter fatally shot after call in Minneapolis suburbs](https://www.theguardian.com/us-news/2024/feb/18/minneapolis-burnsville-shooting-police-firefighter)
-- [Maritime authorities investigate reported attack on UK-registered cargo ship near Yemen](https://www.theguardian.com/business/2024/feb/18/reports-uk-registered-cargo-ship-attacked-off-yemen-coast-investigated)
-- [Kremlin accused of ‘covering tracks’ as whereabouts of Alexei Navalny’s body remain uncertain](https://www.theguardian.com/world/2024/feb/18/kremlin-accused-of-covering-tracks-as-whereabouts-of-alexei-navalnys-body-remain-uncertain)
+- [Alexander the Great Netflix show labelled ‘extremely poor-quality fiction’ by Greek minister](https://www.theguardian.com/tv-and-radio/2024/feb/20/alexander-the-great-netflix-show-greece-minister-for-culture-lina-mendoni-gay-characters)
+- [Cape Town hit by ‘unimaginable’ stench from 19,000 cattle on live export ship](https://www.theguardian.com/world/2024/feb/20/cape-town-hit-by-unimaginable-stench-from-19000-cattle-on-live-export-ship)
+- [Russia-Ukraine war at a glance: what we know on day 727](https://www.theguardian.com/world/2024/feb/20/russia-ukraine-war-at-a-glance-what-we-know-on-day-727)
+- [Peaky Blinders creator calls HS2 ‘gamechanger’ for West Midlands](https://www.theguardian.com/uk-news/2024/feb/20/peaky-blinders-creator-steven-knight-hs2-gamechanger-west-midlands)
+- [‘Gamechanging’ cancer screening offered to people with Lynch syndrome in England](https://www.theguardian.com/society/2024/feb/20/gamechanging-bowel-cancer-screening-offered-to-people-with-lynch-syndrome-in-england)
+- [‘Ruining my career’: calls grow for Japan to change law on married surnames](https://www.theguardian.com/world/2024/feb/20/japan-married-surname-law-change)
+- [Prolific cybercrime gang disrupted by joint UK, US and EU operation](https://www.theguardian.com/technology/2024/feb/19/prolific-cybercrime-gang-lockbit-disrupted-uk-us-eu-operation-cronos)
+- [‘Outdoorsy elegance’: Burberry offers a collection fit for the British weather](https://www.theguardian.com/fashion/2024/feb/19/burberrys-daniel-lee-returns-to-the-great-outdoors-for-london-fashion-week)
+- [Athletic Bilbao deliver major blow to Girona’s La Liga title hopes](https://www.theguardian.com/football/2024/feb/19/athletic-bilbao-deliver-major-blow-to-gironas-la-liga-title-hopes)
+- [‘I’m sorry’: Pep Guardiola apologises to Kalvin Phillips for weight comment](https://www.theguardian.com/football/2024/feb/19/im-sorry-pep-guardiola-apologises-to-kalvin-phillips-for-overweight-comment)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

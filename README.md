@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ancient Herculaneum papyrus scrolls were deciphered [video]](https://www.youtube.com/watch?v=e5XMdsprAMo)
-- [How to weaponize LLMs to auto-hijack websites](https://www.theregister.com/2024/02/17/ai_models_weaponized/)
-- [How the maths behind honeycombs can help you work a jigsaw puzzle](https://www.newscientist.com/article/mg26134780-800-how-the-maths-behind-honeycombs-can-help-you-work-a-jigsaw-puzzle/)
-- [Who&#39;s winning in Sarah Silverman&#39;s copyright suit against OpenAI?](https://www.msn.com/en-us/news/crime/column-who-s-really-winning-in-sarah-silverman-s-copyright-suit-against-openai/ar-BB1inelI)
-- [VPP on FreeBSD](https://ipng.ch/s/articles/2024/02/17/vpp-freebsd-2.html)
-- [Sega developers say new Sapporo studios lead to better lives](https://www.japantimes.co.jp/life/2024/02/17/digital/sega-sapporo-studio-games/)
-- [Automatically Optimizing Databases: Lessons Learned from Using Machine Learning [video]](https://www.youtube.com/watch?v=suG2tMeDxZE)
-- [Serving a Website from a Git Repo Without Cloning It](https://mediocregopher.com/posts/git-proxy)
-- [UK, Allies Look to Arm Ukraine with AI-Enabled Swarm Drones](https://www.bloomberg.com/news/articles/2024-02-17/us-uk-may-arm-ukraine-with-ai-enabled-drones-to-target-russian-positions)
-- [Show HN: BetterVim – Neovim Distribution as a Product](https://bettervim.com/)
+- [Dead Internet Theory](https://old.reddit.com/r/webdev/comments/1auxufd/dead_internet_theory/)
+- [SpaceX Launched Military Satellites Designed to Track Hypersonic Missiles](https://arstechnica.com/space/2024/02/spacex-launches-military-satellites-tuned-to-track-hypersonic-missiles/)
+- [LLVM&#39;s Ampere1B Commit](https://chipsandcheese.com/2024/02/19/llvms-ampere1b-commit/)
+- [Reddit sells training data to unnamed AI company ahead of IPO](https://arstechnica.com/information-technology/2024/02/your-reddit-posts-may-train-ai-models-following-new-60-million-agreement/)
+- [Using &lpar;Apache&rpar; NuttX Userled Subsystem](https://www.EmbeddedRelated.com/showarticle/1633.php)
+- [Path of Love Skill Tree – Tasshin](https://tasshin.com/blog/love-skill-tree/)
+- [Sloot Digital Coding System](https://en.wikipedia.org/wiki/Sloot_Digital_Coding_System)
+- [Fractran](https://en.wikipedia.org/wiki/FRACTRAN)
+- [How to do image-based development in Common Lisp?](https://stackoverflow.com/questions/57697459/how-to-do-image-based-development-in-common-lisp)
+- [Mismanagement contributed to deaths in federal prisons](https://www.govexec.com/oversight/2024/02/understaffing-and-mismanagement-contributed-hundreds-deaths-federal-prisons/394271/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -355,6 +355,7 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [The hidden high cost of return-to-office mandates](https://www.computerworld.com/article/3712843/the-hidden-high-cost-of-return-to-office-mandates.html#tk.rss_all)
 - [Microsoft fixes two zero-days with Patch Tuesday release](https://www.computerworld.com/article/3712925/microsoft-fixes-two-zero-days-with-patch-tuesday-release.html#tk.rss_all)
 - [Apple has an Xcode plan for genAI — and that&#39;s just the beginning](https://www.computerworld.com/article/3712696/apple-has-an-xcode-plan-for-genai-and-thats-just-the-beginning.html#tk.rss_all)
 - [Android file management: An easy-to-follow guide](https://www.computerworld.com/article/3221287/android-file-management-an-easy-to-follow-guide.html#tk.rss_all)
@@ -364,7 +365,6 @@
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [Apple&#39;s Vision Pro and the coming healthcare revolution](https://www.computerworld.com/article/3712882/apple-wants-your-body-digital-health-and-vision-pro.html#tk.rss_all)
 - [ChatGPT will remember what you did last summer](https://www.computerworld.com/article/3712901/chatgpt-will-remember-what-you-did-last-summer.html#tk.rss_all)
-- [Unlock your Android phone&#39;s physical gesture magic](https://www.computerworld.com/article/3712710/android-physical-gestures.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

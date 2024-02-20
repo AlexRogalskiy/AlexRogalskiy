@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Why are shopping carts always broken?](https://www.cnn.com/2024/02/17/business/shopping-carts-wonky-wheel-explained/index.html)
-- [Google Cloud&#39;s New Assured Open Source Software Service &lpar;2022&rpar;](https://cloud.google.com/blog/products/identity-security/introducing-assured-open-source-software-service)
-- [Mac Virtual Display on Vision Pro Requires Same Apple ID](https://blog.pinola.co/blog/apple-has-been-augmenting-reality-for-years/)
-- [Diseconomies of scale in fraud, spam, support, and moderation](https://danluu.com/diseconomies-scale/)
-- [Open Source Games](https://project-awesome.org/michelpereira/awesome-open-source-games)
-- [FTC Obtains $195M Judgment and Ban on Simple Health for Sham Insurance Offering](https://www.ftc.gov/news-events/news/press-releases/2024/02/ftc-obtains-195-million-judgment-permanent-ban-telemarketing-selling-healthcare-products-against)
-- [Why are amplitudes complex numbers? &lpar;2018&rpar;](https://scottaaronson.blog/?p=4021)
-- [A steep rise of Hackernews in Google rankings](https://jonathanpagel.com/the-steep-rise-of-hackernews-in-google-rankings/)
-- [Meticulous &lpar;YC S21&rpar; is hiring to eliminate UI end-to-end tests](https://news.ycombinator.com/item?id=39423303)
-- [The Internet Scheme Repository](https://legacy.cs.indiana.edu/scheme-repository/)
+- [Pulsar, the best code editor since Atom](https://optimizedbyotto.com/post/pulsar-best-text-file-and-code-editor/)
+- [Towards memory safety with ownership checks for C](http://thradams.com/cake/ownership.html)
+- [How to Fold a Julia Fractal](https://acko.net/blog/how-to-fold-a-julia-fractal/)
+- [Steam Audio SDK and all included plugins now available under Apache-2.0 license](https://steamcommunity.com/games/596420/announcements/detail/7745698166044243233)
+- [I Broke IKEA](https://cohost.org/sirocyl/post/2891449-i-broke-ikea)
+- [Tiny, tamper-proof ID tag can authenticate almost anything](https://news.mit.edu/2024/tiny-tamper-proof-id-tag-can-authenticate-almost-anything-0218)
+- [E2EE on the web: is the web that bad?](https://emilymstark.com/2024/02/09/e2ee-on-the-web-is-the-web-really-that-bad.html)
+- [Reverse graffiti](https://en.wikipedia.org/wiki/Reverse_graffiti)
+- [Sony&#39;s Playstation Portal hacked, can now emulate PSP games](https://overkill.wtf/sony-playstation-portal-hacked-emulate-psp-games/)
+- [Endgame: A dashboard exploit for the original Xbox](https://github.com/XboxDev/endgame-exploit)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

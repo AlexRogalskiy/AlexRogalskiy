@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Pulsar, the best code editor since Atom](https://optimizedbyotto.com/post/pulsar-best-text-file-and-code-editor/)
-- [Towards memory safety with ownership checks for C](http://thradams.com/cake/ownership.html)
-- [How to Fold a Julia Fractal](https://acko.net/blog/how-to-fold-a-julia-fractal/)
-- [Steam Audio SDK and all included plugins now available under Apache-2.0 license](https://steamcommunity.com/games/596420/announcements/detail/7745698166044243233)
-- [I Broke IKEA](https://cohost.org/sirocyl/post/2891449-i-broke-ikea)
-- [Tiny, tamper-proof ID tag can authenticate almost anything](https://news.mit.edu/2024/tiny-tamper-proof-id-tag-can-authenticate-almost-anything-0218)
-- [E2EE on the web: is the web that bad?](https://emilymstark.com/2024/02/09/e2ee-on-the-web-is-the-web-really-that-bad.html)
-- [Reverse graffiti](https://en.wikipedia.org/wiki/Reverse_graffiti)
-- [Sony&#39;s Playstation Portal hacked, can now emulate PSP games](https://overkill.wtf/sony-playstation-portal-hacked-emulate-psp-games/)
-- [Endgame: A dashboard exploit for the original Xbox](https://github.com/XboxDev/endgame-exploit)
+- [Court blocks $1B copyright ruling that punished ISP for its users&#39; piracy](https://arstechnica.com/tech-policy/2024/02/court-blocks-1-billion-copyright-ruling-that-punished-isp-for-its-users-piracy/)
+- [Video Game Module for Flipper Zero](https://shop.flipperzero.one/products/video-game-module-for-flipper-zero)
+- [Kagi Sidekick &lpar;alpha&rpar;](https://sidekick.kagi.com/)
+- [Spine AI &lpar;YC S23&rpar; Is Hiring](https://www.ycombinator.com/companies/spine-ai/jobs/Z1hz3BZ-lead-applied-ml-scientist)
+- [An asteroid wiped out dinosaurs – did it help birds flourish?](https://www.nytimes.com/2024/02/12/science/bird-evolution-asteroid-dinosaurs.html)
+- [Exodus Bitcoin Wallet: $490k swindle](https://popey.com/blog/2024/02/exodus-bitcoin-wallet-490k-swindle/)
+- [RGB K-D Tree &lpar;2016&rpar;](https://allrgb.com/kd-tree)
+- [25 Years Ago: The First Asynchronous Microprocessor &lpar;2014&rpar;](https://authors.library.caltech.edu/records/92yk4-35643)
+- [LED Matrix Earrings](https://mitxela.com/projects/ledstud)
+- [Study suggests a &#39;dark mirror&#39; universe within ours where atoms failed to form](https://www.livescience.com/space/cosmology/there-may-be-a-dark-mirror-universe-within-ours-where-atoms-failed-to-form-new-study-suggests)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

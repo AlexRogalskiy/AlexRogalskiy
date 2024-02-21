@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [OpenAI’s Sora text-to-video tool&#39;s impact will be ‘profound’](https://www.computerworld.com/article/3713001/openais-sora-text-to-video-tools-impact-will-be-profound.html#tk.rss_all)
+- [Air Canada chatbot error underscores AI’s enterprise liability danger](https://www.computerworld.com/article/3713100/air-canada-chatbot-error-underscores-ais-enterprise-liability-danger.html#tk.rss_all)
+- [Adobe’s new Acrobat genAI assistant aims to streamline reading PDFs](https://www.computerworld.com/article/3713040/adobes-new-acrobat-genai-assistant-aims-to-streamline-reading-pdfs.html#tk.rss_all)
+- [EU begins formal investigation of TikTok over potential violations of Digital Services Act](https://www.computerworld.com/article/3713002/eu-begins-formal-investigation-of-tiktok-over-potential-violations-of-digital-services-act.html#tk.rss_all)
+- [Box CEO &#39;insanely excited&#39; about future of Vision Pro, work, and AI](https://www.computerworld.com/article/3713063/box-ceo-insanely-excited-about-future-of-vision-pro-work-and-ai.html#tk.rss_all)
+- [Ensure security and collaboration thrive in the hybrid working era](https://www.computerworld.com/article/3712765/ensure-security-and-collaboration-thrive-in-the-hybrid-working-era.html#tk.rss_all)
+- [Miro boosts security for its visual collaboration app](https://www.computerworld.com/article/3713020/miro-boosts-security-for-its-visual-collaboration-app.html#tk.rss_all)
+- [How RAG makes generative AI tools even better](https://www.computerworld.com/article/3712789/how-rag-makes-generative-ai-tools-even-better.html#tk.rss_all)
 - [The hidden high cost of return-to-office mandates](https://www.computerworld.com/article/3712843/the-hidden-high-cost-of-return-to-office-mandates.html#tk.rss_all)
 - [Microsoft fixes two zero-days with Patch Tuesday release](https://www.computerworld.com/article/3712925/microsoft-fixes-two-zero-days-with-patch-tuesday-release.html#tk.rss_all)
-- [Apple has an Xcode plan for genAI — and that&#39;s just the beginning](https://www.computerworld.com/article/3712696/apple-has-an-xcode-plan-for-genai-and-thats-just-the-beginning.html#tk.rss_all)
-- [Android file management: An easy-to-follow guide](https://www.computerworld.com/article/3221287/android-file-management-an-easy-to-follow-guide.html#tk.rss_all)
-- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
-- [Google turbocharges its genAI engine with Gemini 1.5](https://www.computerworld.com/article/3712961/google-turbocharges-its-genai-engine-with-gemini-15.html#tk.rss_all)
-- [Microsoft and Google invest in AI in Europe](https://www.computerworld.com/article/3712941/microsoft-and-google-invest-in-ai-in-europe.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [Apple&#39;s Vision Pro and the coming healthcare revolution](https://www.computerworld.com/article/3712882/apple-wants-your-body-digital-health-and-vision-pro.html#tk.rss_all)
-- [ChatGPT will remember what you did last summer](https://www.computerworld.com/article/3712901/chatgpt-will-remember-what-you-did-last-summer.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

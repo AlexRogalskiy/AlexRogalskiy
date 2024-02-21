@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Dead Internet Theory](https://old.reddit.com/r/webdev/comments/1auxufd/dead_internet_theory/)
-- [SpaceX Launched Military Satellites Designed to Track Hypersonic Missiles](https://arstechnica.com/space/2024/02/spacex-launches-military-satellites-tuned-to-track-hypersonic-missiles/)
-- [LLVM&#39;s Ampere1B Commit](https://chipsandcheese.com/2024/02/19/llvms-ampere1b-commit/)
-- [Reddit sells training data to unnamed AI company ahead of IPO](https://arstechnica.com/information-technology/2024/02/your-reddit-posts-may-train-ai-models-following-new-60-million-agreement/)
-- [Using &lpar;Apache&rpar; NuttX Userled Subsystem](https://www.EmbeddedRelated.com/showarticle/1633.php)
-- [Path of Love Skill Tree – Tasshin](https://tasshin.com/blog/love-skill-tree/)
-- [Sloot Digital Coding System](https://en.wikipedia.org/wiki/Sloot_Digital_Coding_System)
-- [Fractran](https://en.wikipedia.org/wiki/FRACTRAN)
-- [How to do image-based development in Common Lisp?](https://stackoverflow.com/questions/57697459/how-to-do-image-based-development-in-common-lisp)
-- [Mismanagement contributed to deaths in federal prisons](https://www.govexec.com/oversight/2024/02/understaffing-and-mismanagement-contributed-hundreds-deaths-federal-prisons/394271/)
+- [Show HN: Hiring when you don&#39;t know](https://github.com/joelparkerhenderson/hiring-when-you-dont-know)
+- [Writing Good Programming Abstractions](https://notebook.drmaciver.com/posts/2024-01-13-08:28.html)
+- [New Projects Awarded NGI Zero Grants](https://nlnet.nl/news/2024/20240212-announcing-projects.html)
+- [Show HN: Deploy highly available infra to EC2 with Docker-compose and CDK](https://github.com/EmmanuelOga/simple-ec2-infra)
+- [Cournot competition](https://en.wikipedia.org/wiki/Cournot_competition)
+- [Sex differences in human functional brain organization](https://www.pnas.org/doi/abs/10.1073/pnas.2310012121)
+- [401&lpar;k&rpar; Will Be Gone Within a Decade](https://www.bloomberg.com/opinion/articles/2024-02-20/retirement-if-you-couldn-t-have-a-401-k-how-would-you-save)
+- [When Eyes in the Sky Start Looking Right at You](https://www.nytimes.com/2024/02/20/science/satellites-albedo-privacy.html)
+- [Twigl.app](https://twigl.app)
+- [Little Brother: How Digital Technology Normalises Surveillance for Young People](https://getsession.org/blog)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

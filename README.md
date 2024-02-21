@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Alexander the Great Netflix show labelled ‘extremely poor-quality fiction’ by Greek minister](https://www.theguardian.com/tv-and-radio/2024/feb/20/alexander-the-great-netflix-show-greece-minister-for-culture-lina-mendoni-gay-characters)
-- [Cape Town hit by ‘unimaginable’ stench from 19,000 cattle on live export ship](https://www.theguardian.com/world/2024/feb/20/cape-town-hit-by-unimaginable-stench-from-19000-cattle-on-live-export-ship)
-- [Russia-Ukraine war at a glance: what we know on day 727](https://www.theguardian.com/world/2024/feb/20/russia-ukraine-war-at-a-glance-what-we-know-on-day-727)
-- [Peaky Blinders creator calls HS2 ‘gamechanger’ for West Midlands](https://www.theguardian.com/uk-news/2024/feb/20/peaky-blinders-creator-steven-knight-hs2-gamechanger-west-midlands)
-- [‘Gamechanging’ cancer screening offered to people with Lynch syndrome in England](https://www.theguardian.com/society/2024/feb/20/gamechanging-bowel-cancer-screening-offered-to-people-with-lynch-syndrome-in-england)
-- [‘Ruining my career’: calls grow for Japan to change law on married surnames](https://www.theguardian.com/world/2024/feb/20/japan-married-surname-law-change)
-- [Prolific cybercrime gang disrupted by joint UK, US and EU operation](https://www.theguardian.com/technology/2024/feb/19/prolific-cybercrime-gang-lockbit-disrupted-uk-us-eu-operation-cronos)
-- [‘Outdoorsy elegance’: Burberry offers a collection fit for the British weather](https://www.theguardian.com/fashion/2024/feb/19/burberrys-daniel-lee-returns-to-the-great-outdoors-for-london-fashion-week)
-- [Athletic Bilbao deliver major blow to Girona’s La Liga title hopes](https://www.theguardian.com/football/2024/feb/19/athletic-bilbao-deliver-major-blow-to-gironas-la-liga-title-hopes)
-- [‘I’m sorry’: Pep Guardiola apologises to Kalvin Phillips for weight comment](https://www.theguardian.com/football/2024/feb/19/im-sorry-pep-guardiola-apologises-to-kalvin-phillips-for-overweight-comment)
+- [Beyoncé becomes first Black woman to top Billboard’s Country songs chart with Texas Hold ‘Em](https://www.theguardian.com/music/2024/feb/21/beyonce-texas-hold-em-number-one-billboard-country-songs-chart-first-black-woman)
+- [Russia-Ukraine war at a glance: what we know on day 728](https://www.theguardian.com/world/2024/feb/21/russia-ukraine-war-at-a-glance-what-we-know-on-day-728)
+- [Pakistan election: coalition against Imran Khan says deal reached to form government](https://www.theguardian.com/world/2024/feb/21/pakistan-election-2024-shehbaz-sharif-imran-khan-pml-ppp)
+- [Shock in New Zealand as Green party MP Efeso Collins dies after charity run](https://www.theguardian.com/world/2024/feb/21/green-party-mp-efeso-collins-death-childfund-water-charity-run)
+- [FBI informant who lied about Bidens’ Ukraine ties had contact with Russians – prosecutors](https://www.theguardian.com/us-news/2024/feb/20/fbi-informant-biden-ukraine-russia)
+- [Jeremy Hunt’s budget giveaway ‘will act as sweet filling in tax sandwich’](https://www.theguardian.com/uk-news/2024/feb/21/jeremy-hunt-budget-giveaway-sits-in-tax-sandwich-thinktank-warns)
+- [ADHD may have been an evolutionary advantage, research suggests](https://www.theguardian.com/science/2024/feb/21/adhd-may-have-been-an-evolutionary-advantage-research-suggests)
+- [The Time is Always Now review – striking shades of brilliant black figurative art](https://www.theguardian.com/artanddesign/2024/feb/21/the-time-is-always-now-review-brilliant-black-figurative-art-national-portrait-gallery)
+- [Teachers in England could face ban for failing to report evidence of sexual abuse of children](https://www.theguardian.com/society/2024/feb/21/teachers-in-england-could-face-ban-for-failing-to-report-evidence-of-sexual-abuse-of-children)
+- [Plant-based diet cuts sleep apnoea risk by a fifth, research shows](https://www.theguardian.com/society/2024/feb/21/plant-based-diet-cuts-sleep-apnoea-risk-by-a-fifth-research-shows)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

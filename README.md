@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Court blocks $1B copyright ruling that punished ISP for its users&#39; piracy](https://arstechnica.com/tech-policy/2024/02/court-blocks-1-billion-copyright-ruling-that-punished-isp-for-its-users-piracy/)
-- [Video Game Module for Flipper Zero](https://shop.flipperzero.one/products/video-game-module-for-flipper-zero)
-- [Kagi Sidekick &lpar;alpha&rpar;](https://sidekick.kagi.com/)
-- [Spine AI &lpar;YC S23&rpar; Is Hiring](https://www.ycombinator.com/companies/spine-ai/jobs/Z1hz3BZ-lead-applied-ml-scientist)
-- [An asteroid wiped out dinosaurs – did it help birds flourish?](https://www.nytimes.com/2024/02/12/science/bird-evolution-asteroid-dinosaurs.html)
-- [Exodus Bitcoin Wallet: $490k swindle](https://popey.com/blog/2024/02/exodus-bitcoin-wallet-490k-swindle/)
-- [RGB K-D Tree &lpar;2016&rpar;](https://allrgb.com/kd-tree)
-- [25 Years Ago: The First Asynchronous Microprocessor &lpar;2014&rpar;](https://authors.library.caltech.edu/records/92yk4-35643)
-- [LED Matrix Earrings](https://mitxela.com/projects/ledstud)
-- [Study suggests a &#39;dark mirror&#39; universe within ours where atoms failed to form](https://www.livescience.com/space/cosmology/there-may-be-a-dark-mirror-universe-within-ours-where-atoms-failed-to-form-new-study-suggests)
+- [OpenAI postmortem – Unexpected responses from ChatGPT](https://status.openai.com/incidents/ssg8fh7sfyz3)
+- [&quot;Corolla killer:&quot; BYD launches $US15,000 EV in direct attack on legacy makers](https://thedriven.io/2024/02/22/corolla-killer-byd-launches-us15000-ev-in-direct-attack-on-legacy-makers/)
+- [Apple reverses course: app must pay 30% App Store fee on tips sent to teachers](https://9to5mac.com/2024/02/21/insight-timer-meditation-app-store-rules/)
+- [Go Run](https://breadchris.com/blog/go-run/)
+- [Atuin – Magical Shell History](https://atuin.sh)
+- [An Introduction to the Theory and Practice of Poker &lpar;2020&rpar;](https://hopkinspokercourse.com/)
+- [Continue &lpar;YC S23&rpar; is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
+- [Moving a billion Postgres rows on a $100 budget](https://blog.peerdb.io/moving-a-billion-postgres-rows-on-a-100-budget)
+- [Neural Network Diffusion](https://arxiv.org/abs/2402.13144)
+- [The killer app of Gemini Pro 1.5 is video](https://simonwillison.net/2024/Feb/21/gemini-pro-video/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

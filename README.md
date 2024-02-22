@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Beyoncé becomes first Black woman to top Billboard’s Country songs chart with Texas Hold ‘Em](https://www.theguardian.com/music/2024/feb/21/beyonce-texas-hold-em-number-one-billboard-country-songs-chart-first-black-woman)
-- [Russia-Ukraine war at a glance: what we know on day 728](https://www.theguardian.com/world/2024/feb/21/russia-ukraine-war-at-a-glance-what-we-know-on-day-728)
-- [Pakistan election: coalition against Imran Khan says deal reached to form government](https://www.theguardian.com/world/2024/feb/21/pakistan-election-2024-shehbaz-sharif-imran-khan-pml-ppp)
-- [Shock in New Zealand as Green party MP Efeso Collins dies after charity run](https://www.theguardian.com/world/2024/feb/21/green-party-mp-efeso-collins-death-childfund-water-charity-run)
-- [FBI informant who lied about Bidens’ Ukraine ties had contact with Russians – prosecutors](https://www.theguardian.com/us-news/2024/feb/20/fbi-informant-biden-ukraine-russia)
-- [Jeremy Hunt’s budget giveaway ‘will act as sweet filling in tax sandwich’](https://www.theguardian.com/uk-news/2024/feb/21/jeremy-hunt-budget-giveaway-sits-in-tax-sandwich-thinktank-warns)
-- [ADHD may have been an evolutionary advantage, research suggests](https://www.theguardian.com/science/2024/feb/21/adhd-may-have-been-an-evolutionary-advantage-research-suggests)
-- [The Time is Always Now review – striking shades of brilliant black figurative art](https://www.theguardian.com/artanddesign/2024/feb/21/the-time-is-always-now-review-brilliant-black-figurative-art-national-portrait-gallery)
-- [Teachers in England could face ban for failing to report evidence of sexual abuse of children](https://www.theguardian.com/society/2024/feb/21/teachers-in-england-could-face-ban-for-failing-to-report-evidence-of-sexual-abuse-of-children)
-- [Plant-based diet cuts sleep apnoea risk by a fifth, research shows](https://www.theguardian.com/society/2024/feb/21/plant-based-diet-cuts-sleep-apnoea-risk-by-a-fifth-research-shows)
+- [Britain’s ‘deep state’ thwarted my plans, Liz Truss tells US hard-right summit](https://www.theguardian.com/us-news/2024/feb/21/liz-truss-deep-state-cpac-far-right)
+- [‘I hope he got the extended warranty’: US jokes about Russian car Putin gave to Kim Jong-un](https://www.theguardian.com/world/2024/feb/22/kim-jong-un-gift-car-russia-vladimir-putin-aurus-sedan-limousine-us-jokes)
+- [Deadly land disputes in PNG highlands leave population in ‘constant fear’](https://www.theguardian.com/global/2024/feb/22/png-highlands-massacre-death-toll-conflict-latest-news-details)
+- [UK parliament descends into chaos over Gaza ceasefire vote – video report](https://www.theguardian.com/politics/video/2024/feb/22/uk-parliament-descends-into-chaos-over-gaza-ceasefire-vote-video-report)
+- [Girl dies after sand hole at Florida beach collapses on her](https://www.theguardian.com/us-news/2024/feb/21/girl-dies-sand-hole-beach-collapse-florida)
+- [Employers must make ‘reasonable adjustments’ for women going through menopause](https://www.theguardian.com/society/2024/feb/22/employers-must-make-reasonable-adjustments-for-women-going-through-menopause)
+- [Digital slot machine limit of £2 set to cost gambling operators in UK millions](https://www.theguardian.com/society/2024/feb/21/uk-online-gambling-operators-braced-for-2-stake-limit-on-digital-slot-machines)
+- [Growth in CO2 emissions leaves China likely to miss climate targets](https://www.theguardian.com/environment/2024/feb/22/growth-in-co2-emissions-leaves-china-likely-to-miss-climate-targets)
+- [Drug to treat alopecia recommended for NHS use for first time](https://www.theguardian.com/society/2024/feb/22/drug-to-treat-alopecia-recommended-for-nhs-use-for-first-time)
+- [Hadestown review – thrilling songs from an American underworld](https://www.theguardian.com/stage/2024/feb/22/hadestown-review-lyric-theatre-london)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Apple’s iMessage gains industry-leading quantum security](https://www.computerworld.com/article/3713081/apples-imessage-gains-industry-leading-quantum-security.html#tk.rss_all)
+- [US forms task force to explore guardrails for AI](https://www.computerworld.com/article/3713102/us-forms-task-force-to-explore-guardrails-for-ai.html#tk.rss_all)
+- [Microsoft Copilot Pro review: Office joins the genAI revolution](https://www.computerworld.com/article/3713003/microsoft-copilot-pro-review-office-joins-the-genai-revolution.html#tk.rss_all)
+- [Apple’s Vision Pro isn’t a full-fledged Mac replacement — yet](https://www.computerworld.com/article/3712940/apples-vision-pro-isnt-a-full-fledged-mac-replacement-yet.html#tk.rss_all)
 - [OpenAI’s Sora text-to-video tool&#39;s impact will be ‘profound’](https://www.computerworld.com/article/3713001/openais-sora-text-to-video-tools-impact-will-be-profound.html#tk.rss_all)
 - [Air Canada chatbot error underscores AI’s enterprise liability danger](https://www.computerworld.com/article/3713100/air-canada-chatbot-error-underscores-ais-enterprise-liability-danger.html#tk.rss_all)
 - [Adobe’s new Acrobat genAI assistant aims to streamline reading PDFs](https://www.computerworld.com/article/3713040/adobes-new-acrobat-genai-assistant-aims-to-streamline-reading-pdfs.html#tk.rss_all)
 - [EU begins formal investigation of TikTok over potential violations of Digital Services Act](https://www.computerworld.com/article/3713002/eu-begins-formal-investigation-of-tiktok-over-potential-violations-of-digital-services-act.html#tk.rss_all)
 - [Box CEO &#39;insanely excited&#39; about future of Vision Pro, work, and AI](https://www.computerworld.com/article/3713063/box-ceo-insanely-excited-about-future-of-vision-pro-work-and-ai.html#tk.rss_all)
 - [Ensure security and collaboration thrive in the hybrid working era](https://www.computerworld.com/article/3712765/ensure-security-and-collaboration-thrive-in-the-hybrid-working-era.html#tk.rss_all)
-- [Miro boosts security for its visual collaboration app](https://www.computerworld.com/article/3713020/miro-boosts-security-for-its-visual-collaboration-app.html#tk.rss_all)
-- [How RAG makes generative AI tools even better](https://www.computerworld.com/article/3712789/how-rag-makes-generative-ai-tools-even-better.html#tk.rss_all)
-- [The hidden high cost of return-to-office mandates](https://www.computerworld.com/article/3712843/the-hidden-high-cost-of-return-to-office-mandates.html#tk.rss_all)
-- [Microsoft fixes two zero-days with Patch Tuesday release](https://www.computerworld.com/article/3712925/microsoft-fixes-two-zero-days-with-patch-tuesday-release.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

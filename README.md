@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: Hiring when you don&#39;t know](https://github.com/joelparkerhenderson/hiring-when-you-dont-know)
-- [Writing Good Programming Abstractions](https://notebook.drmaciver.com/posts/2024-01-13-08:28.html)
-- [New Projects Awarded NGI Zero Grants](https://nlnet.nl/news/2024/20240212-announcing-projects.html)
-- [Show HN: Deploy highly available infra to EC2 with Docker-compose and CDK](https://github.com/EmmanuelOga/simple-ec2-infra)
-- [Cournot competition](https://en.wikipedia.org/wiki/Cournot_competition)
-- [Sex differences in human functional brain organization](https://www.pnas.org/doi/abs/10.1073/pnas.2310012121)
-- [401&lpar;k&rpar; Will Be Gone Within a Decade](https://www.bloomberg.com/opinion/articles/2024-02-20/retirement-if-you-couldn-t-have-a-401-k-how-would-you-save)
-- [When Eyes in the Sky Start Looking Right at You](https://www.nytimes.com/2024/02/20/science/satellites-albedo-privacy.html)
-- [Twigl.app](https://twigl.app)
-- [Little Brother: How Digital Technology Normalises Surveillance for Young People](https://getsession.org/blog)
+- [Dissecting the Bloodthirsty Bliss of Death Metal](https://www.scientificamerican.com/article/dissecting-the-bloodthirsty-bliss-of-death-metal/)
+- [Japan&#39;s Nikkei surpasses 1989 all-time high](https://www.cnbc.com/2024/02/22/japans-nikkei-hits-all-time-high-on-reforms-robust-corporate-earnings.html)
+- [GLP1 Research Roundup &lpar;February 2024&rpar;](https://glp1.guide/content/research-roundup-february-2024/)
+- [Role-Taking Theory](https://en.wikipedia.org/wiki/Role-taking_theory)
+- [Using Eleventy to Gobble Up Everything I Do Online](https://rknight.me/blog/using-eleventy-to-gobble-up-everything-i-do-online/)
+- [Some Lessons Learned Building LLM-Powered Agents](https://mg.dev/lessons-learned-building-ai-agents/)
+- [Julian Assange extradition appeal: what&#39;s at stake and what will happen next?](https://www.theguardian.com/media/2024/feb/21/julian-assange-extradition-appeal-whats-the-likely-outcome-and-what-happens-next)
+- [Neanderthals&#39; usage of complex adhesives reveals higher cognitive abilities](https://phys.org/news/2024-02-neanderthals-usage-complex-adhesives-reveals.html)
+- [ChatGPT Is Funnier Than You](https://nautil.us/chatgpt-is-funnier-than-you-517984/)
+- [IOI/isolate: Sandbox for securely executing untrusted programs](https://github.com/ioi/isolate)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

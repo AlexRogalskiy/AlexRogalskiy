@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Dissecting the Bloodthirsty Bliss of Death Metal](https://www.scientificamerican.com/article/dissecting-the-bloodthirsty-bliss-of-death-metal/)
-- [Japan&#39;s Nikkei surpasses 1989 all-time high](https://www.cnbc.com/2024/02/22/japans-nikkei-hits-all-time-high-on-reforms-robust-corporate-earnings.html)
-- [GLP1 Research Roundup &lpar;February 2024&rpar;](https://glp1.guide/content/research-roundup-february-2024/)
-- [Role-Taking Theory](https://en.wikipedia.org/wiki/Role-taking_theory)
-- [Using Eleventy to Gobble Up Everything I Do Online](https://rknight.me/blog/using-eleventy-to-gobble-up-everything-i-do-online/)
-- [Some Lessons Learned Building LLM-Powered Agents](https://mg.dev/lessons-learned-building-ai-agents/)
-- [Julian Assange extradition appeal: what&#39;s at stake and what will happen next?](https://www.theguardian.com/media/2024/feb/21/julian-assange-extradition-appeal-whats-the-likely-outcome-and-what-happens-next)
-- [Neanderthals&#39; usage of complex adhesives reveals higher cognitive abilities](https://phys.org/news/2024-02-neanderthals-usage-complex-adhesives-reveals.html)
-- [ChatGPT Is Funnier Than You](https://nautil.us/chatgpt-is-funnier-than-you-517984/)
-- [IOI/isolate: Sandbox for securely executing untrusted programs](https://github.com/ioi/isolate)
+- [Plura Cave Disaster &lpar;2014&rpar;](https://dynamic.hs.fi/2014/deep/)
+- [College student put on academic probation for using Grammarly: &#39;AI violation&#39;](https://nypost.com/2024/02/21/tech/student-put-on-probation-for-using-grammarly-ai-violation/)
+- [Show HN: Generate malicious CloudTrail logs with AI agents](https://simulation.tracecat.com/workbench)
+- [Vice website is shutting down](https://writing.exchange/@ernie/111977450241144169)
+- [Kagi Smallweb [a directory of small/personal websites]](https://kagi.com/smallweb/)
+- [A Distributed File System in Go Cut Average Metadata Memory Usage to 100 Bytes](https://juicefs.com/en/blog/engineering/reduce-metadata-memory-usage)
+- [Researchers achieve breakthrough in silicon-compatible magnetic whirls](https://www.ox.ac.uk/news/2024-02-20-researchers-achieve-breakthrough-silicon-compatible-magnetic-whirls)
+- [New York Times plans to debut new generative AI ad tool later this year](https://www.axios.com/2024/02/20/new-york-times-ai-ad-tool)
+- [Rethinking Large Language Model Architectures for Sequential Recommendations](https://arxiv.org/abs/2402.09543)
+- [What the Pentagon has learned from two years of war in Ukraine](https://www.washingtonpost.com/national-security/2024/02/22/ukraine-war-pentagon-lessons-learned/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

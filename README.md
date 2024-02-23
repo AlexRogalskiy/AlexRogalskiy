@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [Microsoft plans €2B investment in AI and cloud infrastructure in Spain](https://www.computerworld.com/article/3713200/microsoft-plans-2b-investment-in-ai-and-cloud-infrastructure-in-spain.html#tk.rss_all)
+- [Google’s Gemini for Workspace expands genAI access to SMBs](https://www.computerworld.com/article/3713181/googles-gemini-for-workspace-expands-genai-access-to-smbs.html#tk.rss_all)
+- [JAMF warns: Many Apple-using businesses still aren’t secure](https://www.computerworld.com/article/3713161/jamf-warns-many-apple-using-businesses-still-arent-secure.html#tk.rss_all)
+- [The 5 most intriguing Android 15 features &lpar;and how to enjoy 3 of &#39;em on any device today&rpar;](https://www.computerworld.com/article/3713101/android-15-features.html#tk.rss_all)
+- [Chrome Remote Desktop: 4 easy steps to get started](https://www.computerworld.com/article/3230909/chrome-remote-desktop-access-remote-computer-easily.html#tk.rss_all)
 - [Apple’s iMessage gains industry-leading quantum security](https://www.computerworld.com/article/3713081/apples-imessage-gains-industry-leading-quantum-security.html#tk.rss_all)
 - [US forms task force to explore guardrails for AI](https://www.computerworld.com/article/3713102/us-forms-task-force-to-explore-guardrails-for-ai.html#tk.rss_all)
 - [Microsoft Copilot Pro review: Office joins the genAI revolution](https://www.computerworld.com/article/3713003/microsoft-copilot-pro-review-office-joins-the-genai-revolution.html#tk.rss_all)
 - [Apple’s Vision Pro isn’t a full-fledged Mac replacement — yet](https://www.computerworld.com/article/3712940/apples-vision-pro-isnt-a-full-fledged-mac-replacement-yet.html#tk.rss_all)
-- [OpenAI’s Sora text-to-video tool&#39;s impact will be ‘profound’](https://www.computerworld.com/article/3713001/openais-sora-text-to-video-tools-impact-will-be-profound.html#tk.rss_all)
-- [Air Canada chatbot error underscores AI’s enterprise liability danger](https://www.computerworld.com/article/3713100/air-canada-chatbot-error-underscores-ais-enterprise-liability-danger.html#tk.rss_all)
-- [Adobe’s new Acrobat genAI assistant aims to streamline reading PDFs](https://www.computerworld.com/article/3713040/adobes-new-acrobat-genai-assistant-aims-to-streamline-reading-pdfs.html#tk.rss_all)
-- [EU begins formal investigation of TikTok over potential violations of Digital Services Act](https://www.computerworld.com/article/3713002/eu-begins-formal-investigation-of-tiktok-over-potential-violations-of-digital-services-act.html#tk.rss_all)
-- [Box CEO &#39;insanely excited&#39; about future of Vision Pro, work, and AI](https://www.computerworld.com/article/3713063/box-ceo-insanely-excited-about-future-of-vision-pro-work-and-ai.html#tk.rss_all)
-- [Ensure security and collaboration thrive in the hybrid working era](https://www.computerworld.com/article/3712765/ensure-security-and-collaboration-thrive-in-the-hybrid-working-era.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

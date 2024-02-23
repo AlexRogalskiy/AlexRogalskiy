@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Britain’s ‘deep state’ thwarted my plans, Liz Truss tells US hard-right summit](https://www.theguardian.com/us-news/2024/feb/21/liz-truss-deep-state-cpac-far-right)
-- [‘I hope he got the extended warranty’: US jokes about Russian car Putin gave to Kim Jong-un](https://www.theguardian.com/world/2024/feb/22/kim-jong-un-gift-car-russia-vladimir-putin-aurus-sedan-limousine-us-jokes)
-- [Deadly land disputes in PNG highlands leave population in ‘constant fear’](https://www.theguardian.com/global/2024/feb/22/png-highlands-massacre-death-toll-conflict-latest-news-details)
-- [UK parliament descends into chaos over Gaza ceasefire vote – video report](https://www.theguardian.com/politics/video/2024/feb/22/uk-parliament-descends-into-chaos-over-gaza-ceasefire-vote-video-report)
-- [Girl dies after sand hole at Florida beach collapses on her](https://www.theguardian.com/us-news/2024/feb/21/girl-dies-sand-hole-beach-collapse-florida)
-- [Employers must make ‘reasonable adjustments’ for women going through menopause](https://www.theguardian.com/society/2024/feb/22/employers-must-make-reasonable-adjustments-for-women-going-through-menopause)
-- [Digital slot machine limit of £2 set to cost gambling operators in UK millions](https://www.theguardian.com/society/2024/feb/21/uk-online-gambling-operators-braced-for-2-stake-limit-on-digital-slot-machines)
-- [Growth in CO2 emissions leaves China likely to miss climate targets](https://www.theguardian.com/environment/2024/feb/22/growth-in-co2-emissions-leaves-china-likely-to-miss-climate-targets)
-- [Drug to treat alopecia recommended for NHS use for first time](https://www.theguardian.com/society/2024/feb/22/drug-to-treat-alopecia-recommended-for-nhs-use-for-first-time)
-- [Hadestown review – thrilling songs from an American underworld](https://www.theguardian.com/stage/2024/feb/22/hadestown-review-lyric-theatre-london)
+- [US to impose sanctions on 500 Russia-linked targets to mark Ukraine war anniversary](https://www.theguardian.com/world/2024/feb/23/us-sanctions-russian-targets-ukraine-war-anniversary-military-complex)
+- [US returns to lunar surface for first time in over 50 years: ‘Welcome to the moon’](https://www.theguardian.com/science/2024/feb/22/us-moon-landing-odysseus-intuitive-machines)
+- [‘We need a bigger bazooka’: Liz Truss takes aim at left ‘deep state’ at CPAC](https://www.theguardian.com/us-news/2024/feb/22/liz-truss-cpac-republican)
+- [Russia-Ukraine war at a glance: what we know on day 729](https://www.theguardian.com/world/2024/feb/23/russia-ukraine-war-at-a-glance-what-we-know-on-day-729)
+- [Ex-FBI informant charged with lying about Bidens arrested again](https://www.theguardian.com/us-news/2024/feb/22/fbi-informant-biden-alexander-smirnov-arrest)
+- [Van Gerwen knocks out Littler on way to third Premier League win in a row](https://www.theguardian.com/sport/2024/feb/23/van-gerwen-knocks-out-littler-on-way-to-third-premier-league-win-in-a-row)
+- [Four dead as Valencia apartment block gutted by flames fanned by high winds, official says](https://www.theguardian.com/world/2024/feb/22/valencia-apartment-block-gutted-by-flames-fanned-by-high-winds)
+- [Seeing same GP ‘improves patient health and cuts workload of doctors’](https://www.theguardian.com/society/2024/feb/23/seeing-same-gp-improves-patient-health-and-cuts-workload-of-doctors)
+- [Online slot machine stakes to be capped at £5 in Great Britain](https://www.theguardian.com/society/2024/feb/23/online-slot-machine-stakes-capped-great-britian)
+- [‘Daylight robbery’: two in five UK teachers work 26 hours for free each week](https://www.theguardian.com/education/2024/feb/23/daylight-robbery-two-in-five-uk-teachers-work-26-hours-for-free-each-week)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

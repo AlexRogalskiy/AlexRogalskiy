@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Vice website is shutting down](https://writing.exchange/@ernie/111977450241144169)
-- [Kagi Smallweb [a directory of small/personal websites]](https://kagi.com/smallweb/)
-- [FOSDEM 2024: PineTime Talk](https://blog.mlich.cz/2024/02/fosdem-2024/)
-- [Tyler Perry Puts $800M Studio Expansion on Hold After Seeing OpenAI&#39;s Sora](https://www.hollywoodreporter.com/business/business-news/tyler-perry-ai-alarm-1235833276/)
-- [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=39475552)
-- [Form to DB](https://www.formtodb.com/)
-- [Relationships: Start with Several](https://lukebechtel.com/blog/relationships-start-with-several)
-- [US achieves first moon landing in half century with private spacecraft](https://www.reuters.com/technology/space/us-nears-attempt-first-moon-landing-half-century-with-private-robot-spacecraft-2024-02-22/)
-- [Apple Vision Pro users reporting cracked outer surfaces](https://old.reddit.com/r/VisionPro/comments/1axj5sp/comment/kror2jt/)
-- [Intuitive Machines successfully lands on the Moon](https://www.theguardian.com/science/live/2024/feb/22/nasa-odysseus-moon-landing-intuitive-machines)
+- [That Time America Outlawed Pinball](https://www.history.com/news/that-time-america-outlawed-pinball)
+- [Undefined Behavior in C and C++](https://lumagraph.ie/undefined-behavior)
+- [A former Gizmodo writer changed name to &#39;Slackbot&#39;, stayed undetected for months](https://www.theverge.com/2024/2/23/24081249/slack-slackbot-gizmodo-tom-mckay)
+- [Generative Models: What do they know? Do they know things? Let&#39;s find out](https://intrinsic-lora.github.io/)
+- [Open Source Motion Capture for Autonomous Drones &lpar;2023&rpar;](https://joshuabird.com/blog/post/mocap-drones)
+- [Meta&#39;s new LLM-based test generator is a sneak peek to the future of development](https://read.engineerscodex.com/p/metas-new-llm-based-test-generator)
+- [Glass Health &lpar;YC W23&rpar; is hiring across multiple engineering roles](https://jobs.lever.co/glass-health-inc?team=Product%20%26%20Engineering)
+- [Emergence of stone-tool use behavior in a population of common macaques](https://pubmed.ncbi.nlm.nih.gov/38012960/)
+- [Reconductoring: An easy way to expand the grid](https://heatmap.news/climate/clean-energy-grid-reconductoring)
+- [The Angel, Islington](https://diamondgeezer.blogspot.com/2024/02/the-angel-islington.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

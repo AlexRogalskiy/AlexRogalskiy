@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [US to impose sanctions on 500 Russia-linked targets to mark Ukraine war anniversary](https://www.theguardian.com/world/2024/feb/23/us-sanctions-russian-targets-ukraine-war-anniversary-military-complex)
-- [US returns to lunar surface for first time in over 50 years: ‘Welcome to the moon’](https://www.theguardian.com/science/2024/feb/22/us-moon-landing-odysseus-intuitive-machines)
-- [‘We need a bigger bazooka’: Liz Truss takes aim at left ‘deep state’ at CPAC](https://www.theguardian.com/us-news/2024/feb/22/liz-truss-cpac-republican)
-- [Russia-Ukraine war at a glance: what we know on day 729](https://www.theguardian.com/world/2024/feb/23/russia-ukraine-war-at-a-glance-what-we-know-on-day-729)
-- [Ex-FBI informant charged with lying about Bidens arrested again](https://www.theguardian.com/us-news/2024/feb/22/fbi-informant-biden-alexander-smirnov-arrest)
-- [Van Gerwen knocks out Littler on way to third Premier League win in a row](https://www.theguardian.com/sport/2024/feb/23/van-gerwen-knocks-out-littler-on-way-to-third-premier-league-win-in-a-row)
-- [Four dead as Valencia apartment block gutted by flames fanned by high winds, official says](https://www.theguardian.com/world/2024/feb/22/valencia-apartment-block-gutted-by-flames-fanned-by-high-winds)
-- [Seeing same GP ‘improves patient health and cuts workload of doctors’](https://www.theguardian.com/society/2024/feb/23/seeing-same-gp-improves-patient-health-and-cuts-workload-of-doctors)
-- [Online slot machine stakes to be capped at £5 in Great Britain](https://www.theguardian.com/society/2024/feb/23/online-slot-machine-stakes-capped-great-britian)
-- [‘Daylight robbery’: two in five UK teachers work 26 hours for free each week](https://www.theguardian.com/education/2024/feb/23/daylight-robbery-two-in-five-uk-teachers-work-26-hours-for-free-each-week)
+- [Los Angeles socialite found guilty of murder for striking two boys with car](https://www.theguardian.com/us-news/2024/feb/23/los-angeles-socialite-rebecca-grossman-guilty-murder)
+- [US spacecraft on the moon ‘caught a foot’ and tipped on to side, says Nasa](https://www.theguardian.com/science/2024/feb/23/odysseus-moon-landing-tipped-over-nasa)
+- [Most schools in England facing real-terms cuts since 2010 thanks to Tories, analysis shows](https://www.theguardian.com/education/2024/feb/24/schools-england-real-terms-cuts-since-2010-tories)
+- [Versace’s Milan fashion week show goes to high voltage extremes – and is as sexy as ever](https://www.theguardian.com/fashion/2024/feb/23/versaces-milan-fashion-week-show-goes-to-high-voltage-extremes-and-is-as-sexy-as-ever)
+- [‘It’s been scary’: German bomb detonated in the sea off Plymouth](https://www.theguardian.com/uk-news/2024/feb/23/plymouth-bomb-german-ww2-explosive-relief)
+- [Clean up the cabinet of broken promises: how to audit your beauty routine](https://www.theguardian.com/fashion/2024/feb/24/beauty-cupboard-organisation-tips-cleanse-clean-remove-tidy)
+- [Trump penalties in New York fraud case formally set at more than $454m](https://www.theguardian.com/us-news/2024/feb/23/trump-penalties-new-york-fraud-case)
+- [MPs to get free vote on decriminalising abortion in England and Wales](https://www.theguardian.com/world/2024/feb/23/mps-to-get-free-vote-on-decriminalising-abortion-in-england-and-wales)
+- [Pochettino warns Carabao Cup final officials over Klopp’s Liverpool exit bias](https://www.theguardian.com/football/2024/feb/23/mauricio-pochettino-carabao-cup-final-jurgen-klopp-chelsea-liverpool-football)
+- [Klopp seeks Carabao Cup win and says celebrations are ‘for us and nobody else’](https://www.theguardian.com/football/2024/feb/23/jurgen-klopp-seeks-carabao-cup-final-win-and-says-celebrations-are-for-us-and-nobody-else-liverpool-chelsea)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Plura Cave Disaster &lpar;2014&rpar;](https://dynamic.hs.fi/2014/deep/)
-- [College student put on academic probation for using Grammarly: &#39;AI violation&#39;](https://nypost.com/2024/02/21/tech/student-put-on-probation-for-using-grammarly-ai-violation/)
-- [Show HN: Generate malicious CloudTrail logs with AI agents](https://simulation.tracecat.com/workbench)
-- [Vice website is shutting down](https://writing.exchange/@ernie/111977450241144169)
-- [Kagi Smallweb [a directory of small/personal websites]](https://kagi.com/smallweb/)
-- [A Distributed File System in Go Cut Average Metadata Memory Usage to 100 Bytes](https://juicefs.com/en/blog/engineering/reduce-metadata-memory-usage)
-- [Researchers achieve breakthrough in silicon-compatible magnetic whirls](https://www.ox.ac.uk/news/2024-02-20-researchers-achieve-breakthrough-silicon-compatible-magnetic-whirls)
-- [New York Times plans to debut new generative AI ad tool later this year](https://www.axios.com/2024/02/20/new-york-times-ai-ad-tool)
-- [Rethinking Large Language Model Architectures for Sequential Recommendations](https://arxiv.org/abs/2402.09543)
-- [What the Pentagon has learned from two years of war in Ukraine](https://www.washingtonpost.com/national-security/2024/02/22/ukraine-war-pentagon-lessons-learned/)
+- [Having a &#39;regular doctor&#39; can significantly reduce GP workload: study](https://www.cam.ac.uk/research/news/having-a-regular-doctor-can-significantly-reduce-gp-workload-study-finds)
+- [Neuralink brain chip: advance sparks safety and secrecy concerns](https://www.nature.com/articles/d41586-024-00550-6)
+- [Did AI Just Generate the Ultimate Golf Holiday](https://travel007.com/itineraries/6ae26f02-b518-453b-aedc-fe62522e1851)
+- [Houthi Attack on Ship Led to &#39;Environmental Disaster,&#39; US Says](https://www.bloomberg.com/news/articles/2024-02-24/houthi-red-sea-attack-on-ship-led-to-environmental-disaster-us-says)
+- [Rename PDF files based on their content using GPT](https://github.com/alexandres/pdfrename)
+- [DVD&#39;s New Cousin Can Store More Than a Petabit](https://spectrum.ieee.org/data-storage-petabit-optical-disc)
+- [Ask HN: How to Stream HN to a TV in my office?](https://news.ycombinator.com/item?id=39488354)
+- [Wine 9.3 Brings New Hid Pointer Driver and Better Internet Proxy Support](https://www.phoronix.com/news/Wine-9.3-Released)
+- [Proton 9 Beta Makes More Games Playable Under Steam Play, VKD3D-Proton and DXVK](https://www.phoronix.com/news/Proton-9.0-Beta-Steam-Play)
+- [JRuby Prism – A new parser for a new era](http://blog.jruby.org/2024/02/23/jruby-prism-parser.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

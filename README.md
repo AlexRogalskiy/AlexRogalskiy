@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Killing VMware](https://www.computerworld.com/article/3713242/killing-vmware.html#tk.rss_all)
+- [AI chip sales are driving stock markets to new records](https://www.computerworld.com/article/3713240/ai-chip-sales-are-driving-stock-markets-to-new-records.html#tk.rss_all)
+- [Apple gets smart about tech support and genAI](https://www.computerworld.com/article/3713182/apple-gets-smart-about-tech-support-and-genai.html#tk.rss_all)
+- [The highest-paid IT skills — and why you need them on your resume](https://www.computerworld.com/article/3713025/the-highest-paid-it-skills-and-why-you-need-them-on-your-resume.html#tk.rss_all)
+- [Tech layoffs in 2024: A timeline](https://www.computerworld.com/article/3685936/tech-layoffs-in-2023-a-timeline.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [Microsoft plans €2B investment in AI and cloud infrastructure in Spain](https://www.computerworld.com/article/3713200/microsoft-plans-2b-investment-in-ai-and-cloud-infrastructure-in-spain.html#tk.rss_all)
 - [Google’s Gemini for Workspace expands genAI access to SMBs](https://www.computerworld.com/article/3713181/googles-gemini-for-workspace-expands-genai-access-to-smbs.html#tk.rss_all)
 - [JAMF warns: Many Apple-using businesses still aren’t secure](https://www.computerworld.com/article/3713161/jamf-warns-many-apple-using-businesses-still-arent-secure.html#tk.rss_all)
 - [The 5 most intriguing Android 15 features &lpar;and how to enjoy 3 of &#39;em on any device today&rpar;](https://www.computerworld.com/article/3713101/android-15-features.html#tk.rss_all)
-- [Chrome Remote Desktop: 4 easy steps to get started](https://www.computerworld.com/article/3230909/chrome-remote-desktop-access-remote-computer-easily.html#tk.rss_all)
-- [Apple’s iMessage gains industry-leading quantum security](https://www.computerworld.com/article/3713081/apples-imessage-gains-industry-leading-quantum-security.html#tk.rss_all)
-- [US forms task force to explore guardrails for AI](https://www.computerworld.com/article/3713102/us-forms-task-force-to-explore-guardrails-for-ai.html#tk.rss_all)
-- [Microsoft Copilot Pro review: Office joins the genAI revolution](https://www.computerworld.com/article/3713003/microsoft-copilot-pro-review-office-joins-the-genai-revolution.html#tk.rss_all)
-- [Apple’s Vision Pro isn’t a full-fledged Mac replacement — yet](https://www.computerworld.com/article/3712940/apples-vision-pro-isnt-a-full-fledged-mac-replacement-yet.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Having a &#39;regular doctor&#39; can significantly reduce GP workload: study](https://www.cam.ac.uk/research/news/having-a-regular-doctor-can-significantly-reduce-gp-workload-study-finds)
-- [Neuralink brain chip: advance sparks safety and secrecy concerns](https://www.nature.com/articles/d41586-024-00550-6)
-- [Did AI Just Generate the Ultimate Golf Holiday](https://travel007.com/itineraries/6ae26f02-b518-453b-aedc-fe62522e1851)
-- [Houthi Attack on Ship Led to &#39;Environmental Disaster,&#39; US Says](https://www.bloomberg.com/news/articles/2024-02-24/houthi-red-sea-attack-on-ship-led-to-environmental-disaster-us-says)
-- [Rename PDF files based on their content using GPT](https://github.com/alexandres/pdfrename)
-- [DVD&#39;s New Cousin Can Store More Than a Petabit](https://spectrum.ieee.org/data-storage-petabit-optical-disc)
-- [Ask HN: How to Stream HN to a TV in my office?](https://news.ycombinator.com/item?id=39488354)
-- [Wine 9.3 Brings New Hid Pointer Driver and Better Internet Proxy Support](https://www.phoronix.com/news/Wine-9.3-Released)
-- [Proton 9 Beta Makes More Games Playable Under Steam Play, VKD3D-Proton and DXVK](https://www.phoronix.com/news/Proton-9.0-Beta-Steam-Play)
-- [JRuby Prism – A new parser for a new era](http://blog.jruby.org/2024/02/23/jruby-prism-parser.html)
+- [The latest &#39;Woj bomb&#39; was just a scam NFT tweet from a hacked account](https://www.theverge.com/2024/2/24/24082520/adrian-wojnarowski-twitter-hack-nft-nba-top-shot)
+- [Austin &lpar;Ring&rpar; Transformer](https://www.google.com/search?q=austin+ring+transformer&tbm=isch)
+- [How to ask in HTTPS://news.Y Combinator.com](https://news.ycombinator.com/item?id=39496901)
+- [The Evolution of Automotive Wiring [video]](https://www.youtube.com/watch?v=TOMH_DN33q4)
+- [Jólabókaflóð &lpar;Christmas Book Flood&rpar;](https://sketchplanations.com/jolabokaflod)
+- [Show HN: Automated and personalized push notifications and emails using LLM](https://www.notificationharbor.com/)
+- [Spirographs with L-Systems [video]](https://www.youtube.com/watch?v=3pePF_K86DU)
+- [Amazon blocks long-running FireTV capability, Breaking apps with no warning](https://www.aftvnews.com/amazon-blocks-long-running-fire-tv-capability-breaking-popular-apps-with-no-warning-and-giving-developers-the-runaround/)
+- [India&#39;s plan to let 1998 digital trade deal expire may worsen chip shortage](https://arstechnica.com/tech-policy/2024/02/indias-push-to-tax-digital-goods-may-spark-big-chip-shortage-experts-say/)
+- [How to Hold KEMs &lpar;Key Encapsulation Mechanisms, Cryptography&rpar;](https://durumcrustulum.com/2024/02/24/how-to-hold-kems/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

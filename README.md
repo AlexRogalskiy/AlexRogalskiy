@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Los Angeles socialite found guilty of murder for striking two boys with car](https://www.theguardian.com/us-news/2024/feb/23/los-angeles-socialite-rebecca-grossman-guilty-murder)
-- [US spacecraft on the moon ‘caught a foot’ and tipped on to side, says Nasa](https://www.theguardian.com/science/2024/feb/23/odysseus-moon-landing-tipped-over-nasa)
-- [Most schools in England facing real-terms cuts since 2010 thanks to Tories, analysis shows](https://www.theguardian.com/education/2024/feb/24/schools-england-real-terms-cuts-since-2010-tories)
-- [Versace’s Milan fashion week show goes to high voltage extremes – and is as sexy as ever](https://www.theguardian.com/fashion/2024/feb/23/versaces-milan-fashion-week-show-goes-to-high-voltage-extremes-and-is-as-sexy-as-ever)
-- [‘It’s been scary’: German bomb detonated in the sea off Plymouth](https://www.theguardian.com/uk-news/2024/feb/23/plymouth-bomb-german-ww2-explosive-relief)
-- [Clean up the cabinet of broken promises: how to audit your beauty routine](https://www.theguardian.com/fashion/2024/feb/24/beauty-cupboard-organisation-tips-cleanse-clean-remove-tidy)
-- [Trump penalties in New York fraud case formally set at more than $454m](https://www.theguardian.com/us-news/2024/feb/23/trump-penalties-new-york-fraud-case)
-- [MPs to get free vote on decriminalising abortion in England and Wales](https://www.theguardian.com/world/2024/feb/23/mps-to-get-free-vote-on-decriminalising-abortion-in-england-and-wales)
-- [Pochettino warns Carabao Cup final officials over Klopp’s Liverpool exit bias](https://www.theguardian.com/football/2024/feb/23/mauricio-pochettino-carabao-cup-final-jurgen-klopp-chelsea-liverpool-football)
-- [Klopp seeks Carabao Cup win and says celebrations are ‘for us and nobody else’](https://www.theguardian.com/football/2024/feb/23/jurgen-klopp-seeks-carabao-cup-final-win-and-says-celebrations-are-for-us-and-nobody-else-liverpool-chelsea)
+- [US and UK launch missile strikes against Houthi targets in Yemen](https://www.theguardian.com/world/2024/feb/24/us-uk-strikes-houthi-targets-yemen)
+- [Haley vows to stay in race despite bruising South Carolina loss and argues Trump cannot beat Biden – latest updates](https://www.theguardian.com/us-news/live/2024/feb/24/south-carolina-2024-republican-primary-trump-haley-live-updates)
+- [‘My ultimate and absolute revenge’: Trump gives chilling CPAC speech on presidential agenda](https://www.theguardian.com/us-news/2024/feb/24/donald-trump-cpac-speech)
+- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2024/feb/24/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Trend watch: Denim shirts](https://www.theguardian.com/fashion/2024/feb/24/trend-watch-denim-shirts)
+- [‘Sephora tweens’ are raiding Drunk Elephant – and we only have ourselves to blame | Van Badham](https://www.theguardian.com/commentisfree/2024/feb/25/sephora-tweens-are-raiding-drunk-elephant-and-we-only-have-ourselves-to-blame)
+- [Three female MPs given bodyguards after concerns over safety](https://www.theguardian.com/politics/2024/feb/24/three-female-mps-given-bodyguards-after-concerns-over-safety)
+- [Havertz and Saka inspire Arsenal to emphatic win against Newcastle](https://www.theguardian.com/football/2024/feb/24/arsenal-newcastle-premier-league-match-report)
+- [‘A painful lesson’: Borthwick admits England not good enough in Scotland](https://www.theguardian.com/sport/2024/feb/24/a-painful-lesson-borthwick-admits-england-not-good-enough-in-scotland)
+- [Wigan edge out Penrith to win their fifth World Club Challenge](https://www.theguardian.com/sport/2024/feb/24/wigan-penrith-world-club-challenge-rugby-league-match-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

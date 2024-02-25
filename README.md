@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [That Time America Outlawed Pinball](https://www.history.com/news/that-time-america-outlawed-pinball)
-- [Undefined Behavior in C and C++](https://lumagraph.ie/undefined-behavior)
-- [A former Gizmodo writer changed name to &#39;Slackbot&#39;, stayed undetected for months](https://www.theverge.com/2024/2/23/24081249/slack-slackbot-gizmodo-tom-mckay)
-- [Generative Models: What do they know? Do they know things? Let&#39;s find out](https://intrinsic-lora.github.io/)
-- [Open Source Motion Capture for Autonomous Drones &lpar;2023&rpar;](https://joshuabird.com/blog/post/mocap-drones)
-- [Meta&#39;s new LLM-based test generator is a sneak peek to the future of development](https://read.engineerscodex.com/p/metas-new-llm-based-test-generator)
-- [Glass Health &lpar;YC W23&rpar; is hiring across multiple engineering roles](https://jobs.lever.co/glass-health-inc?team=Product%20%26%20Engineering)
-- [Emergence of stone-tool use behavior in a population of common macaques](https://pubmed.ncbi.nlm.nih.gov/38012960/)
-- [Reconductoring: An easy way to expand the grid](https://heatmap.news/climate/clean-energy-grid-reconductoring)
-- [The Angel, Islington](https://diamondgeezer.blogspot.com/2024/02/the-angel-islington.html)
+- [Amazon blocks long-running FireTV capability, Breaking apps with no warning](https://www.aftvnews.com/amazon-blocks-long-running-fire-tv-capability-breaking-popular-apps-with-no-warning-and-giving-developers-the-runaround/)
+- [Anyone else using ChatGPT to make music?](https://community.openai.com/t/anyone-else-using-chatgpt-to-make-music/200103)
+- [GenAI and erroneous medical references](https://hai.stanford.edu/news/generating-medical-errors-genai-and-erroneous-medical-references)
+- [Korea slaps $327,067 fine on Twitch for suspending service](https://www.koreatimes.co.kr/www/tech/2024/02/129_369371.html)
+- [Science Fiction Short: Hijack](https://spectrum.ieee.org/hard-science-fiction-computer)
+- [Does offering ChatGPT a tip cause it to generate better text?](https://minimaxir.com/2024/02/chatgpt-tips-analysis/)
+- [How Does Bluesky Work?](https://steveklabnik.com/writing/how-does-bluesky-work)
+- [Emerge &lpar;YC W21&rpar; is hiring a growth engineer &lpar;remote&rpar;](https://www.emergetools.com/careers/jobs/growth-engineer)
+- [Architecture.md &lpar;2021&rpar;](https://matklad.github.io/2021/02/06/ARCHITECTURE.md.html)
+- [Cities stripping out concrete for earth and plants](https://www.bbc.com/future/article/20240222-depaving-the-cities-replacing-concrete-with-earth-and-plants)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

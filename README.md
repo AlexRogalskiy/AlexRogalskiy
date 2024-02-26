@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The latest &#39;Woj bomb&#39; was just a scam NFT tweet from a hacked account](https://www.theverge.com/2024/2/24/24082520/adrian-wojnarowski-twitter-hack-nft-nba-top-shot)
-- [Austin &lpar;Ring&rpar; Transformer](https://www.google.com/search?q=austin+ring+transformer&tbm=isch)
-- [How to ask in HTTPS://news.Y Combinator.com](https://news.ycombinator.com/item?id=39496901)
-- [The Evolution of Automotive Wiring [video]](https://www.youtube.com/watch?v=TOMH_DN33q4)
-- [Jólabókaflóð &lpar;Christmas Book Flood&rpar;](https://sketchplanations.com/jolabokaflod)
-- [Show HN: Automated and personalized push notifications and emails using LLM](https://www.notificationharbor.com/)
-- [Spirographs with L-Systems [video]](https://www.youtube.com/watch?v=3pePF_K86DU)
-- [Amazon blocks long-running FireTV capability, Breaking apps with no warning](https://www.aftvnews.com/amazon-blocks-long-running-fire-tv-capability-breaking-popular-apps-with-no-warning-and-giving-developers-the-runaround/)
-- [India&#39;s plan to let 1998 digital trade deal expire may worsen chip shortage](https://arstechnica.com/tech-policy/2024/02/indias-push-to-tax-digital-goods-may-spark-big-chip-shortage-experts-say/)
-- [How to Hold KEMs &lpar;Key Encapsulation Mechanisms, Cryptography&rpar;](https://durumcrustulum.com/2024/02/24/how-to-hold-kems/)
+- [Generative AI Vincent Van Gogh Experience at the Musée D&#39;Orsay](https://www.musee-orsay.fr/en/articles/digital-technology-hello-vincent-275618)
+- [First Contact with Whale Civilization Could Unfold](https://www.theatlantic.com/science/archive/2024/02/talking-whales-project-ceti/677549/)
+- [PulseAudioDB](https://a.exozy.me/posts/pulseaudiodb/)
+- [Submarine cables cut in the Red Sea.Authorities looking at potential terrorism](https://twitter.com/tagaresunil/status/1761859936617959443)
+- [A History of the TTY](https://computer.rip/2024-02-25-a-history-of-the-tty.html)
+- [House China committee asks Elon Musk open SpaceX internet to US troops in Taiwan](https://www.cnbc.com/2024/02/24/house-china-committee-elon-musk-spacex-starshield-taiwan.html)
+- [The Joy of Programming [video]](https://www.youtube.com/watch?v=_JA04KfD7a4)
+- [Broadcom nears $3.8B sale of remote access unit to KKR](https://www.reuters.com/technology/broadcom-nears-38-bln-sale-remote-access-unit-kkr-2024-02-24/)
+- [The Companies Helping Governments Hack Citizens&#39; Phones: A &#39;Thriving&#39; Industry](https://yro.slashdot.org/story/24/02/25/1845220/the-companies-helping-governments-hack-citizens-phones-a-thriving-industry)
+- [The rule to rule all rules](https://typeshare.co/philmorle/posts/-MyxAe7taPOtP6EGM6zG)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

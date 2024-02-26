@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [US and UK launch missile strikes against Houthi targets in Yemen](https://www.theguardian.com/world/2024/feb/24/us-uk-strikes-houthi-targets-yemen)
-- [Haley vows to stay in race despite bruising South Carolina loss and argues Trump cannot beat Biden – latest updates](https://www.theguardian.com/us-news/live/2024/feb/24/south-carolina-2024-republican-primary-trump-haley-live-updates)
-- [‘My ultimate and absolute revenge’: Trump gives chilling CPAC speech on presidential agenda](https://www.theguardian.com/us-news/2024/feb/24/donald-trump-cpac-speech)
-- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2024/feb/24/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Trend watch: Denim shirts](https://www.theguardian.com/fashion/2024/feb/24/trend-watch-denim-shirts)
-- [‘Sephora tweens’ are raiding Drunk Elephant – and we only have ourselves to blame | Van Badham](https://www.theguardian.com/commentisfree/2024/feb/25/sephora-tweens-are-raiding-drunk-elephant-and-we-only-have-ourselves-to-blame)
-- [Three female MPs given bodyguards after concerns over safety](https://www.theguardian.com/politics/2024/feb/24/three-female-mps-given-bodyguards-after-concerns-over-safety)
-- [Havertz and Saka inspire Arsenal to emphatic win against Newcastle](https://www.theguardian.com/football/2024/feb/24/arsenal-newcastle-premier-league-match-report)
-- [‘A painful lesson’: Borthwick admits England not good enough in Scotland](https://www.theguardian.com/sport/2024/feb/24/a-painful-lesson-borthwick-admits-england-not-good-enough-in-scotland)
-- [Wigan edge out Penrith to win their fifth World Club Challenge](https://www.theguardian.com/sport/2024/feb/24/wigan-penrith-world-club-challenge-rugby-league-match-report)
+- [Russia-Ukraine war at a glance: what we know on day 733](https://www.theguardian.com/world/2024/feb/26/russia-ukraine-war-at-a-glance-what-we-know-on-day-733)
+- [Stately house used in Saltburn plagued by trespassers and influencers, owner says](https://www.theguardian.com/film/2024/feb/26/saltburn-home-location-movie-drayton-house-trespassers)
+- [Mark Allen battles past Zhang Anda in tense final to win Players Championship](https://www.theguardian.com/sport/2024/feb/26/mark-allen-battles-past-zhang-anda-in-tense-final-to-win-players-championship)
+- [People in 20s more likely to be out of work because of poor mental health than those in early 40s](https://www.theguardian.com/society/2024/feb/25/people-in-20s-more-likely-out-of-work-because-of-ill-health-than-those-in-early-40s)
+- [Zelenskiy says 31,000 soldiers killed, giving figure for first time](https://www.theguardian.com/world/2024/feb/25/zelenskiy-puts-figure-on-ukrainian-soldiers-killed-for-first-time-at-31000)
+- [24 in 2024: first job, making money and avoiding ghosts in Thailand](https://www.theguardian.com/world/2024/feb/26/24-in-2024-first-job-making-money-and-avoiding-ghosts-in-thailand)
+- [Government urged not to resurrect fees for UK employment tribunals](https://www.theguardian.com/money/2024/feb/26/employment-tribunal-fees-government-urged-return-unions)
+- [Fund to hand out £4.7bn from axed HS2 northern section to smaller projects](https://www.theguardian.com/uk-news/2024/feb/26/fund-to-hand-out-47bn-from-axed-hs2-northern-section-to-smaller-projects)
+- [Cristiano Ronaldo in obscene gesture storm after Al-Nassr victory](https://www.theguardian.com/football/2024/feb/25/cristiano-ronaldo-in-obscene-gesture-storm-after-al-nassr-victory)
+- [UK’s enemies could use AI deepfakes to try to rig election, says James Cleverly](https://www.theguardian.com/uk-news/2024/feb/25/uks-enemies-could-use-ai-deepfakes-to-try-to-rig-election-says-james-cleverly)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

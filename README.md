@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Amazon blocks long-running FireTV capability, Breaking apps with no warning](https://www.aftvnews.com/amazon-blocks-long-running-fire-tv-capability-breaking-popular-apps-with-no-warning-and-giving-developers-the-runaround/)
-- [Anyone else using ChatGPT to make music?](https://community.openai.com/t/anyone-else-using-chatgpt-to-make-music/200103)
-- [GenAI and erroneous medical references](https://hai.stanford.edu/news/generating-medical-errors-genai-and-erroneous-medical-references)
-- [Korea slaps $327,067 fine on Twitch for suspending service](https://www.koreatimes.co.kr/www/tech/2024/02/129_369371.html)
-- [Science Fiction Short: Hijack](https://spectrum.ieee.org/hard-science-fiction-computer)
-- [Does offering ChatGPT a tip cause it to generate better text?](https://minimaxir.com/2024/02/chatgpt-tips-analysis/)
-- [How Does Bluesky Work?](https://steveklabnik.com/writing/how-does-bluesky-work)
-- [Emerge &lpar;YC W21&rpar; is hiring a growth engineer &lpar;remote&rpar;](https://www.emergetools.com/careers/jobs/growth-engineer)
-- [Architecture.md &lpar;2021&rpar;](https://matklad.github.io/2021/02/06/ARCHITECTURE.md.html)
-- [Cities stripping out concrete for earth and plants](https://www.bbc.com/future/article/20240222-depaving-the-cities-replacing-concrete-with-earth-and-plants)
+- [Stress Reduction Techniques for High Stress Operations](https://health.mil/Military-Health-Topics/Centers-of-Excellence/Psychological-Health-Center-of-Excellence/Real-Warriors-Campaign/Articles/Stress-Reduction-Techniques-for-High-Stress-Operations)
+- [gifcities.org by Internet Archive – search for GIFs scraped off geocities sites](https://gifcities.org/)
+- [PID Without a PhD [pdf]](http://manuals.chudov.com/Servo-Tuning/PID-without-a-PhD.pdf)
+- [Profiteering Hampers U.S. Grid Expansion](https://spectrum.ieee.org/transmission-expansion)
+- [Inside North Korea&#39;s Forced Labor Program](https://www.newyorker.com/magazine/2024/03/04/inside-north-koreas-forced-labor-program-in-china)
+- [Drawing and illustrating in the pre-digital time &lpar;2019&rpar;](https://www.daube.ch/docu/glossary/drawingtools.html)
+- [Polymaths Are Late Bloomers](https://www.overcomingbias.com/p/polymaths-are-late-bloomers)
+- [Show HN: Nekoweb – a retro static web hosting](https://nekoweb.org/)
+- [Bitboards and Connect Four](https://github.com/denkspuren/BitboardC4/blob/master/BitboardDesign.md)
+- [The virtuous mean between time drunkenness and work martyrdom](https://lessfoolish.substack.com/p/the-virtuous-mean-between-time-drunkenness)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

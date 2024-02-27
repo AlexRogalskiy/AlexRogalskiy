@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Stress Reduction Techniques for High Stress Operations](https://health.mil/Military-Health-Topics/Centers-of-Excellence/Psychological-Health-Center-of-Excellence/Real-Warriors-Campaign/Articles/Stress-Reduction-Techniques-for-High-Stress-Operations)
-- [gifcities.org by Internet Archive – search for GIFs scraped off geocities sites](https://gifcities.org/)
-- [PID Without a PhD [pdf]](http://manuals.chudov.com/Servo-Tuning/PID-without-a-PhD.pdf)
-- [Profiteering Hampers U.S. Grid Expansion](https://spectrum.ieee.org/transmission-expansion)
-- [Inside North Korea&#39;s Forced Labor Program](https://www.newyorker.com/magazine/2024/03/04/inside-north-koreas-forced-labor-program-in-china)
-- [Drawing and illustrating in the pre-digital time &lpar;2019&rpar;](https://www.daube.ch/docu/glossary/drawingtools.html)
-- [Polymaths Are Late Bloomers](https://www.overcomingbias.com/p/polymaths-are-late-bloomers)
-- [Show HN: Nekoweb – a retro static web hosting](https://nekoweb.org/)
-- [Bitboards and Connect Four](https://github.com/denkspuren/BitboardC4/blob/master/BitboardDesign.md)
-- [The virtuous mean between time drunkenness and work martyrdom](https://lessfoolish.substack.com/p/the-virtuous-mean-between-time-drunkenness)
+- [Stock markets are booming but the good times are unlikely to last](https://www.economist.com/finance-and-economics/2024/02/25/stockmarkets-are-booming-but-the-good-times-are-unlikely-to-last)
+- [Expedia to Eliminate 1,500 Jobs as Travel Growth Moderates](https://www.bloomberg.com/news/articles/2024-02-26/expedia-to-eliminate-1-500-jobs-as-travel-growth-moderates)
+- [Segmenting Comic Books Using SAM &lpar;Segment-Anything&rpar;](https://vrroom.github.io/blog/2024/02/23/comic-frame-segmentation.html)
+- [Cactus – A Modern Diablo II Version Switcher, Character Isolator, &amp; Mod Manager](https://github.com/fearedbliss/Cactus)
+- [Why Jalapeño Peppers Are Less Spicy Than Ever &lpar;2023&rpar;](https://www.dmagazine.com/food-drink/2023/05/why-jalapeno-peppers-less-spicy-blame-aggies/)
+- [New York medical school eliminates tuition after $1B gift](https://www.bbc.com/news/world-us-canada-68407453)
+- [Why Isn&#39;t Taxpayer-Funded U.S. Broadband Mapping Data Owned by the Public?](https://www.techdirt.com/2024/02/26/why-isnt-taxpayer-funded-u-s-broadband-mapping-data-owned-by-the-public/)
+- [On Light, Colors, Mixing Paints, and Numerical Optimization](https://github.com/miciwan/PaintMixing)
+- [A new phase of matter: Physicists show non-Abelian anyons in quantum processor](https://phys.org/news/2024-02-phase-physicists-abelian-anyons-quantum.html)
+- [Ryzen Z1&#39;s Tiny iGPU](https://chipsandcheese.com/2024/02/25/ryzen-z1s-tiny-igpu/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

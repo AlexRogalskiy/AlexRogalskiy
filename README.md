@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Russia-Ukraine war at a glance: what we know on day 733](https://www.theguardian.com/world/2024/feb/26/russia-ukraine-war-at-a-glance-what-we-know-on-day-733)
-- [Stately house used in Saltburn plagued by trespassers and influencers, owner says](https://www.theguardian.com/film/2024/feb/26/saltburn-home-location-movie-drayton-house-trespassers)
-- [Mark Allen battles past Zhang Anda in tense final to win Players Championship](https://www.theguardian.com/sport/2024/feb/26/mark-allen-battles-past-zhang-anda-in-tense-final-to-win-players-championship)
-- [People in 20s more likely to be out of work because of poor mental health than those in early 40s](https://www.theguardian.com/society/2024/feb/25/people-in-20s-more-likely-out-of-work-because-of-ill-health-than-those-in-early-40s)
-- [Zelenskiy says 31,000 soldiers killed, giving figure for first time](https://www.theguardian.com/world/2024/feb/25/zelenskiy-puts-figure-on-ukrainian-soldiers-killed-for-first-time-at-31000)
-- [24 in 2024: first job, making money and avoiding ghosts in Thailand](https://www.theguardian.com/world/2024/feb/26/24-in-2024-first-job-making-money-and-avoiding-ghosts-in-thailand)
-- [Government urged not to resurrect fees for UK employment tribunals](https://www.theguardian.com/money/2024/feb/26/employment-tribunal-fees-government-urged-return-unions)
-- [Fund to hand out £4.7bn from axed HS2 northern section to smaller projects](https://www.theguardian.com/uk-news/2024/feb/26/fund-to-hand-out-47bn-from-axed-hs2-northern-section-to-smaller-projects)
-- [Cristiano Ronaldo in obscene gesture storm after Al-Nassr victory](https://www.theguardian.com/football/2024/feb/25/cristiano-ronaldo-in-obscene-gesture-storm-after-al-nassr-victory)
-- [UK’s enemies could use AI deepfakes to try to rig election, says James Cleverly](https://www.theguardian.com/uk-news/2024/feb/25/uks-enemies-could-use-ai-deepfakes-to-try-to-rig-election-says-james-cleverly)
+- [Odysseus craft’s moon mission to be cut short after sideways landing](https://www.theguardian.com/science/2024/feb/26/odysseus-moon-lander-intuitive-machines)
+- [Elon Musk makes ‘things good’ with California bakery after $2,000 pie fiasco](https://www.theguardian.com/technology/2024/feb/26/elon-musk-tesla-bakery-pies-debt)
+- [Joe Biden says Gaza ceasefire could be reached by next Monday](https://www.theguardian.com/us-news/2024/feb/26/israel-gaza-ceasefire-biden)
+- [Russia-Ukraine war live: what we know on day 734](https://www.theguardian.com/world/2024/feb/27/russia-ukraine-war-live-what-we-know-on-day-734)
+- [Macron refuses to rule out putting troops on ground in Ukraine in call to galvanise Europe](https://www.theguardian.com/world/2024/feb/27/french-president-emmanuel-macron-ukraine-french-ground-troops)
+- [Biden and Trump to visit US-Mexico border on same day](https://www.theguardian.com/us-news/2024/feb/26/biden-trump-visit-mexico-border)
+- [‘Health emergency’: 15% of UK households went hungry last month, data shows](https://www.theguardian.com/society/2024/feb/27/health-emergency-15-of-uk-households-went-hungry-last-month-data-shows)
+- [Chancellor should axe all budget statements, say manufacturers](https://www.theguardian.com/business/2024/feb/27/chancellor-should-axe-all-budget-statements-say-manufacturers)
+- [UK trails other countries on waiting times for cancer treatment, study finds](https://www.theguardian.com/society/2024/feb/27/uk-bottom-list-waiting-times-radiotherapy-chemotherapy-study)
+- [Carrying chickens by their legs should remain unlawful, say UK campaigners](https://www.theguardian.com/world/2024/feb/27/carrying-chickens-by-legs-remain-unlawful-brexit)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

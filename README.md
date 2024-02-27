@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Generative AI Vincent Van Gogh Experience at the Musée D&#39;Orsay](https://www.musee-orsay.fr/en/articles/digital-technology-hello-vincent-275618)
-- [First Contact with Whale Civilization Could Unfold](https://www.theatlantic.com/science/archive/2024/02/talking-whales-project-ceti/677549/)
-- [PulseAudioDB](https://a.exozy.me/posts/pulseaudiodb/)
-- [Submarine cables cut in the Red Sea.Authorities looking at potential terrorism](https://twitter.com/tagaresunil/status/1761859936617959443)
-- [A History of the TTY](https://computer.rip/2024-02-25-a-history-of-the-tty.html)
-- [House China committee asks Elon Musk open SpaceX internet to US troops in Taiwan](https://www.cnbc.com/2024/02/24/house-china-committee-elon-musk-spacex-starshield-taiwan.html)
-- [The Joy of Programming [video]](https://www.youtube.com/watch?v=_JA04KfD7a4)
-- [Broadcom nears $3.8B sale of remote access unit to KKR](https://www.reuters.com/technology/broadcom-nears-38-bln-sale-remote-access-unit-kkr-2024-02-24/)
-- [The Companies Helping Governments Hack Citizens&#39; Phones: A &#39;Thriving&#39; Industry](https://yro.slashdot.org/story/24/02/25/1845220/the-companies-helping-governments-hack-citizens-phones-a-thriving-industry)
-- [The rule to rule all rules](https://typeshare.co/philmorle/posts/-MyxAe7taPOtP6EGM6zG)
+- [Cool little software rendered pixel buffer GUI C library](https://github.com/TristanWellman/oblivision)
+- [Piscataqua River Border Dispute](https://en.wikipedia.org/wiki/Piscataqua_River_border_dispute)
+- [Why Capital One Wants to Buy Discover](https://onepercentamonth.com/2024/02/26/why-capital-one-wants-to-buy-discover/)
+- [Ruth Gottesman&#39;s $1B Donation Makes Med School Free](https://www.entrepreneur.com/business-news/ruth-gottesmans-1-billion-donation-makes-med-school-free/470292)
+- [Is SQL a Declarative Language](https://github.com/SPLWare/esProc/wiki/Is-SQL-a-declarative-language)
+- [Apple&#39;s OLED roadmap can boost OLED penetration in mobile PCs to 14% by 2028](https://omdia.tech.informa.com/blogs/2024/feb/apples-new-oled-it-roadmap-can-help-boost-oled-penetration-rate-in-the-mobile-pc-market-to-14-by-2028)
+- [Supply Chain Analyst Resources](https://jordangoodman.bearblog.dev/supply-chain-analyst-resources/)
+- [Is Tableau Dead?](https://www.mergeyourdata.com/blog/is-tableau-dead-the-future-of-tableau)
+- [Wendy&#39;s Is Introducing Uber-Style &#39;Surge Pricing&#39;](https://www.foodandwine.com/wendys-introducing-dynamic-pricing-8600506)
+- [US pharmacy outage triggered by Russian Blackcat ransomware at UnitedHealth unit](https://www.reuters.com/technology/cybersecurity/cyber-security-outage-change-healthcare-continues-sixth-straight-day-2024-02-26/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

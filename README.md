@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [What to do with your Vision Pro](https://www.computerworld.com/article/3713184/what-to-do-with-your-vision-pro.html#tk.rss_all)
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [Dell ramps up ‘AI PC’ plans with Latitude and Precision refresh](https://www.computerworld.com/article/3713201/dell-ramps-up-ai-pc-plans-with-latitude-and-precision-refresh.html#tk.rss_all)
+- [Microsoft, OpenAI move to fend off genAI-aided hackers — for now](https://www.computerworld.com/article/3713084/microsoft-openai-move-to-fend-off-genai-aided-hackers-for-now.html#tk.rss_all)
+- [Microsoft to offer more AI options on Azure with Mistral AI partnership](https://www.computerworld.com/article/3713281/microsoft-to-offer-more-ai-options-on-azure-with-mistral-ai-partnership.html#tk.rss_all)
 - [Apple can only resist AI transparency for so long](https://www.computerworld.com/article/3713302/apple-can-only-resist-ai-transparency-for-so-long.html#tk.rss_all)
 - [Google Workspace power tips: Tap into cross-app productivity](https://www.computerworld.com/article/3712480/google-workspace-productivity-across-apps.html#tk.rss_all)
 - [Spain will create foundational AI model in local languages](https://www.computerworld.com/article/3713243/spain-will-create-foundational-ai-model-in-local-languages.html#tk.rss_all)
 - [Killing VMware](https://www.computerworld.com/article/3713242/killing-vmware.html#tk.rss_all)
 - [AI chip sales are driving stock markets to new records](https://www.computerworld.com/article/3713240/ai-chip-sales-are-driving-stock-markets-to-new-records.html#tk.rss_all)
-- [Apple gets smart about tech support and genAI](https://www.computerworld.com/article/3713182/apple-gets-smart-about-tech-support-and-genai.html#tk.rss_all)
-- [The highest-paid IT skills — and why you need them on your resume](https://www.computerworld.com/article/3713025/the-highest-paid-it-skills-and-why-you-need-them-on-your-resume.html#tk.rss_all)
-- [Tech layoffs in 2024: A timeline](https://www.computerworld.com/article/3685936/tech-layoffs-in-2023-a-timeline.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [Microsoft plans €2B investment in AI and cloud infrastructure in Spain](https://www.computerworld.com/article/3713200/microsoft-plans-2b-investment-in-ai-and-cloud-infrastructure-in-spain.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

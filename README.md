@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Stock markets are booming but the good times are unlikely to last](https://www.economist.com/finance-and-economics/2024/02/25/stockmarkets-are-booming-but-the-good-times-are-unlikely-to-last)
-- [Expedia to Eliminate 1,500 Jobs as Travel Growth Moderates](https://www.bloomberg.com/news/articles/2024-02-26/expedia-to-eliminate-1-500-jobs-as-travel-growth-moderates)
-- [Segmenting Comic Books Using SAM &lpar;Segment-Anything&rpar;](https://vrroom.github.io/blog/2024/02/23/comic-frame-segmentation.html)
-- [Cactus – A Modern Diablo II Version Switcher, Character Isolator, &amp; Mod Manager](https://github.com/fearedbliss/Cactus)
-- [Why Jalapeño Peppers Are Less Spicy Than Ever &lpar;2023&rpar;](https://www.dmagazine.com/food-drink/2023/05/why-jalapeno-peppers-less-spicy-blame-aggies/)
-- [New York medical school eliminates tuition after $1B gift](https://www.bbc.com/news/world-us-canada-68407453)
-- [Why Isn&#39;t Taxpayer-Funded U.S. Broadband Mapping Data Owned by the Public?](https://www.techdirt.com/2024/02/26/why-isnt-taxpayer-funded-u-s-broadband-mapping-data-owned-by-the-public/)
-- [On Light, Colors, Mixing Paints, and Numerical Optimization](https://github.com/miciwan/PaintMixing)
-- [A new phase of matter: Physicists show non-Abelian anyons in quantum processor](https://phys.org/news/2024-02-phase-physicists-abelian-anyons-quantum.html)
-- [Ryzen Z1&#39;s Tiny iGPU](https://chipsandcheese.com/2024/02/25/ryzen-z1s-tiny-igpu/)
+- [GoboLinux](https://www.gobolinux.org/)
+- [Show HN: I made an app to use local AI as daily driver](https://recurse.chat/)
+- [Digital Audio Songbook: A Love Letter to My Unfinished Songs](https://echoes.prototape.fm/p/digital-audio-songbook-a-love-letter)
+- [JEP 467: Markdown Documentation Comments](https://openjdk.org/jeps/467)
+- [Testcontainers](https://testcontainers.com/)
+- [Dealing with surprising human emotions: desk moves &lpar;2017&rpar;](https://larahogan.me/blog/desk-moves/)
+- [U.S. opens UnitedHealth antitrust probe](https://www.wsj.com/health/healthcare/u-s-launches-antitrust-investigation-of-healthcare-giant-unitedhealth-ff5a00d2)
+- [Nintendo is suing the creators of Switch emulator Yuzu](https://overkill.wtf/nintendo-sue-yuzu-emulator/)
+- [Does this 8088 code in the Leisure Suit Larry 2 game do anything?](https://retrocomputing.stackexchange.com/questions/29565/does-this-8088-code-in-the-leisure-suit-larry-2-game-actually-do-anything)
+- [Tesorio &lpar;YC S15&rpar; Is Hiring a Head of Infrastructure &lpar;100% Remote&rpar;](https://www.tesorio.com/careers#job-openings)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

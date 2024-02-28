@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Cool little software rendered pixel buffer GUI C library](https://github.com/TristanWellman/oblivision)
-- [Piscataqua River Border Dispute](https://en.wikipedia.org/wiki/Piscataqua_River_border_dispute)
-- [Why Capital One Wants to Buy Discover](https://onepercentamonth.com/2024/02/26/why-capital-one-wants-to-buy-discover/)
-- [Ruth Gottesman&#39;s $1B Donation Makes Med School Free](https://www.entrepreneur.com/business-news/ruth-gottesmans-1-billion-donation-makes-med-school-free/470292)
-- [Is SQL a Declarative Language](https://github.com/SPLWare/esProc/wiki/Is-SQL-a-declarative-language)
-- [Apple&#39;s OLED roadmap can boost OLED penetration in mobile PCs to 14% by 2028](https://omdia.tech.informa.com/blogs/2024/feb/apples-new-oled-it-roadmap-can-help-boost-oled-penetration-rate-in-the-mobile-pc-market-to-14-by-2028)
-- [Supply Chain Analyst Resources](https://jordangoodman.bearblog.dev/supply-chain-analyst-resources/)
-- [Is Tableau Dead?](https://www.mergeyourdata.com/blog/is-tableau-dead-the-future-of-tableau)
-- [Wendy&#39;s Is Introducing Uber-Style &#39;Surge Pricing&#39;](https://www.foodandwine.com/wendys-introducing-dynamic-pricing-8600506)
-- [US pharmacy outage triggered by Russian Blackcat ransomware at UnitedHealth unit](https://www.reuters.com/technology/cybersecurity/cyber-security-outage-change-healthcare-continues-sixth-straight-day-2024-02-26/)
+- [Tenstorrent RISC-V/Chiplet Technology Selected to Build Future of AI in Japan](https://tenstorrent.com/research/tenstorrent-risc-v-and-chiplet-technology-selected-to-build-the-future-of-ai-in-japan/)
+- [Printbreakpoint - Use Python&#39;s breakpoint&lpar;&rpar; to print out filename, line number.](https://github.com/duane9/printbreakpoint)
+- [So Long, Apple Car, We&#39;ll Never Know What We Missed](https://www.bloomberg.com/opinion/articles/2024-02-27/so-long-apple-car-we-ll-never-know-what-we-missed)
+- [Open Collective Foundation dissolving at end of 2024](https://news.ycombinator.com/item?id=39533004)
+- [Why Books Don&#39;t Work](https://andymatuschak.org/books/)
+- [Bright and stable monomeric green fluorescent protein derived from StayGold](https://www.nature.com/articles/s41592-024-02203-y)
+- [Show HN: Olly – A Personal Assistant in Apple iMessage](https://olly.bot)
+- [Counties are blocking wind and solar across the US](https://www.usatoday.com/story/graphics/2024/02/27/renewable-energy-sources-ban-map/72630315007/)
+- [Canadian Bill C-63 proposes life sentences for hate crimes](https://www.parl.ca/DocumentViewer/en/44-1/bill/C-63/first-reading)
+- [OpenAI claims New York Times paid someone to &#39;hack&#39; ChatGPT](https://www.theregister.com/2024/02/28/openai_nyt_lawsuit/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

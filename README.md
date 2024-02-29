@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [GoboLinux](https://www.gobolinux.org/)
-- [Show HN: I made an app to use local AI as daily driver](https://recurse.chat/)
-- [Digital Audio Songbook: A Love Letter to My Unfinished Songs](https://echoes.prototape.fm/p/digital-audio-songbook-a-love-letter)
-- [JEP 467: Markdown Documentation Comments](https://openjdk.org/jeps/467)
-- [Testcontainers](https://testcontainers.com/)
-- [Dealing with surprising human emotions: desk moves &lpar;2017&rpar;](https://larahogan.me/blog/desk-moves/)
-- [U.S. opens UnitedHealth antitrust probe](https://www.wsj.com/health/healthcare/u-s-launches-antitrust-investigation-of-healthcare-giant-unitedhealth-ff5a00d2)
-- [Nintendo is suing the creators of Switch emulator Yuzu](https://overkill.wtf/nintendo-sue-yuzu-emulator/)
-- [Does this 8088 code in the Leisure Suit Larry 2 game do anything?](https://retrocomputing.stackexchange.com/questions/29565/does-this-8088-code-in-the-leisure-suit-larry-2-game-actually-do-anything)
-- [Tesorio &lpar;YC S15&rpar; Is Hiring a Head of Infrastructure &lpar;100% Remote&rpar;](https://www.tesorio.com/careers#job-openings)
+- [Winklevoss Twins&#39; Startup Gemini Will Pay Burned Customers $1B](https://www.thedailybeast.com/winklevoss-twins-crypto-start-up-gemini-will-pay-burned-customers-dollar11-billion)
+- [Talc – A fast and flexible allocator for no_std and WebAssembly](https://github.com/SFBdragon/talc)
+- [Saturn&#39;s Hexagon](https://en.wikipedia.org/wiki/Saturn%27s_hexagon)
+- [Scientists find genetic signature of Down syndrome in ancient bones](https://www.nytimes.com/2024/02/20/science/down-syndrome-dna-bones.html)
+- [Show HN: CriticalPath – Advanced Profiler for Android](https://crpath.app)
+- [Julius Caesar&#39;s Year of Confusion](https://www.bbc.com/future/article/20240227-how-julius-caesar-made-the-longest-year-in-history-and-brought-us-leap-years)
+- [Aviator &lpar;YC S21&rpar; is hiring a part-time developer advocate](https://www.ycombinator.com/companies/aviator/jobs/yrtnjnp-developer-marketing-part-time-social)
+- [2024 MIT Integration Bee – Finals [video]](https://www.youtube.com/watch?v=dyfLMHGnPR0)
+- [Open Collective Official Statement – OCF Dissolution](https://blog.opencollective.com/open-collective-official-statement-ocf-dissolution/)
+- [MicroZig: Unified abstraction layer and HAL for Zig on several microcontrollers](https://github.com/ZigEmbeddedGroup/microzig)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

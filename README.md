@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [It’s the end of the road for the Apple Car](https://www.computerworld.com/article/3713267/its-the-end-of-the-road-for-the-apple-car.html#tk.rss_all)
+- [As workers embrace AI, employers are slow to issue guidance](https://www.computerworld.com/article/3713163/as-workers-embrace-ai-employers-are-slow-to-issue-guidance.html#tk.rss_all)
+- [This classic Android app is tapping into the ghost of Google Now](https://www.computerworld.com/article/3713202/android-app-ghost-of-google-now.html#tk.rss_all)
+- [The economics of job cuts; why layoffs continue](https://www.computerworld.com/article/3713185/the-economics-of-job-cuts-why-layoffs-continue.html#tk.rss_all)
+- [Download: UEM vendor comparison chart 2024](https://www.computerworld.com/article/3408656/download-uem-vendor-comparison-chart-unified-endpoint-management.html#tk.rss_all)
+- [Enterprise mobility 2024: Welcome, genAI](https://www.computerworld.com/article/3202649/enterprise-mobility-industry-update.html#tk.rss_all)
+- [Google calls Microsoft’s cloud practices in the EU anti-competitive](https://www.computerworld.com/article/3713187/google-calls-microsofts-cloud-practices-in-the-eu-anti-competitive.html#tk.rss_all)
 - [What to do with your Vision Pro](https://www.computerworld.com/article/3713184/what-to-do-with-your-vision-pro.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [Dell ramps up ‘AI PC’ plans with Latitude and Precision refresh](https://www.computerworld.com/article/3713201/dell-ramps-up-ai-pc-plans-with-latitude-and-precision-refresh.html#tk.rss_all)
-- [Microsoft, OpenAI move to fend off genAI-aided hackers — for now](https://www.computerworld.com/article/3713084/microsoft-openai-move-to-fend-off-genai-aided-hackers-for-now.html#tk.rss_all)
-- [Microsoft to offer more AI options on Azure with Mistral AI partnership](https://www.computerworld.com/article/3713281/microsoft-to-offer-more-ai-options-on-azure-with-mistral-ai-partnership.html#tk.rss_all)
-- [Apple can only resist AI transparency for so long](https://www.computerworld.com/article/3713302/apple-can-only-resist-ai-transparency-for-so-long.html#tk.rss_all)
-- [Google Workspace power tips: Tap into cross-app productivity](https://www.computerworld.com/article/3712480/google-workspace-productivity-across-apps.html#tk.rss_all)
-- [Spain will create foundational AI model in local languages](https://www.computerworld.com/article/3713243/spain-will-create-foundational-ai-model-in-local-languages.html#tk.rss_all)
-- [Killing VMware](https://www.computerworld.com/article/3713242/killing-vmware.html#tk.rss_all)
-- [AI chip sales are driving stock markets to new records](https://www.computerworld.com/article/3713240/ai-chip-sales-are-driving-stock-markets-to-new-records.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

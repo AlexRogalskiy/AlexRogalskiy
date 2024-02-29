@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Tenstorrent RISC-V/Chiplet Technology Selected to Build Future of AI in Japan](https://tenstorrent.com/research/tenstorrent-risc-v-and-chiplet-technology-selected-to-build-the-future-of-ai-in-japan/)
-- [Printbreakpoint - Use Python&#39;s breakpoint&lpar;&rpar; to print out filename, line number.](https://github.com/duane9/printbreakpoint)
-- [So Long, Apple Car, We&#39;ll Never Know What We Missed](https://www.bloomberg.com/opinion/articles/2024-02-27/so-long-apple-car-we-ll-never-know-what-we-missed)
-- [Open Collective Foundation dissolving at end of 2024](https://news.ycombinator.com/item?id=39533004)
-- [Why Books Don&#39;t Work](https://andymatuschak.org/books/)
-- [Bright and stable monomeric green fluorescent protein derived from StayGold](https://www.nature.com/articles/s41592-024-02203-y)
-- [Show HN: Olly – A Personal Assistant in Apple iMessage](https://olly.bot)
-- [Counties are blocking wind and solar across the US](https://www.usatoday.com/story/graphics/2024/02/27/renewable-energy-sources-ban-map/72630315007/)
-- [Canadian Bill C-63 proposes life sentences for hate crimes](https://www.parl.ca/DocumentViewer/en/44-1/bill/C-63/first-reading)
-- [OpenAI claims New York Times paid someone to &#39;hack&#39; ChatGPT](https://www.theregister.com/2024/02/28/openai_nyt_lawsuit/)
+- [Show HN: Serverless utilities that range from PNG rotation to UUID generation](https://ftools.toolforge.org)
+- [HP misses first-quarter revenue estimates on sluggish demand in PC market](https://www.reuters.com/technology/hp-misses-first-quarter-revenue-estimates-sluggish-demand-pc-market-2024-02-28/)
+- [Rich Donors Have Caused More Harm Than Good to India&#39;s Education](https://thewire.in/education/how-rich-donors-have-caused-more-harm-than-good-to-indias-education)
+- [Google searches on filetype functionality restored](https://twitter.com/searchliaison/status/1762866736800637392)
+- [Show HN: Mask Browser, fast web browser with extensions support and GPT4 AI chat](https://play.google.com/store/apps/details?id=net.maskbrowser.browser&hl=en_US)
+- [Egypt sells coastal city to UAE for $35B](https://www.msn.com/en-us/news/world/egypt-sells-coastal-city-ras-el-hekma-to-uae-for-35-billion-amidst-economic-crisis/ar-BB1iPq1o)
+- [A Hardware enthusiast view on the usefulness of open source Firmwares](https://zirblazer.github.io/htmlfiles/coreboot.html)
+- [Tell HN: Element Matrix Services deleted all my data](https://news.ycombinator.com/item?id=39545728)
+- [My Friend Got Me a Dumb AI-Generated Present](https://www.wired.com/story/help-my-friend-got-me-a-dumb-ai-generated-present/)
+- [Salesforce sees annual revenue below estimates on weak cloud demand](https://www.reuters.com/technology/salesforce-forecasts-annual-revenue-below-estimates-2024-02-28/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

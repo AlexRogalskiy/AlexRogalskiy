@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [New Zealand v Australia: first Test, day one – live](https://www.theguardian.com/sport/live/2024/feb/29/new-zealand-vs-australia-cricket-first-test-day-one-live-updates-scores-results-start-time-squads-basin-reserve-wellington)
-- [Trump to appeal ruling barring him from Illinois primary ballot over January 6 role](https://www.theguardian.com/us-news/2024/feb/28/trump-barred-illinois-primary-ballot-january-6)
-- [First North Korea spy satellite is ‘alive’ and being controlled, experts say](https://www.theguardian.com/world/2024/feb/29/north-korea-spy-satellite-malligyong-1-alive-running-in-use)
-- [Richard Lewis: a life in pictures](https://www.theguardian.com/tv-and-radio/gallery/2024/feb/28/richard-lewis-a-life-in-pictures)
-- [Russia-Ukraine war at a glance: what we know on day 736](https://www.theguardian.com/world/2024/feb/29/russia-ukraine-war-at-a-glance-what-we-know-on-day-736)
-- [Pigs don’t fly: Louisiana piglet rescued after being thrown in Mardi Gras](https://www.theguardian.com/us-news/2024/feb/28/new-orleans-piglet-rescue-mardi-gras)
-- [Euphoria star Hunter Schafer arrested at pro-Palestine protest during Joe Biden TV appearance](https://www.theguardian.com/tv-and-radio/2024/feb/29/hunter-schafer-arrested-pro-palestine-protest-joe-biden-appearance-late-night-with-seth-meyers)
-- [The three Johns: Thune, Cornyn and Barrasso jostle to succeed McConnell](https://www.theguardian.com/us-news/2024/feb/28/john-thune-cornyn-barrasso-republicans-us-senate)
-- [Assisted dying law may soon diverge across British Isles, MPs warn](https://www.theguardian.com/society/2024/feb/29/assisted-dying-law-may-soon-diverge-across-british-isles-mps-warn)
-- [Fines for unauthorised absence from school in England to rise by 33%](https://www.theguardian.com/education/2024/feb/29/fines-children-england-to-rise-33-percent-unauthorised-absence)
+- [New Zealand v Australia: first Test, day two – live](https://www.theguardian.com/sport/live/2024/mar/01/new-zealand-vs-australia-cricket-first-test-day-two-live-updates-scores-results-start-time-basin-reserve-wellington)
+- [Boeing agrees to pay $51m over export violations in China and other countries](https://www.theguardian.com/business/2024/feb/29/boeing-settles-export-violations-china)
+- [Trump again presses for delay of classified documents trial until 2025](https://www.theguardian.com/us-news/2024/feb/29/trump-presses-delay-classified-documents-trial)
+- [Senate passes short-term funding bill to avert government shutdown](https://www.theguardian.com/us-news/2024/feb/29/senate-funding-bill-government-shutdown)
+- [Russia-Ukraine war at a glance: what we know on day 737](https://www.theguardian.com/world/2024/mar/01/russia-ukraine-war-at-a-glance-what-we-know-on-day-737)
+- [Biden calls for compromise while Trump goes full red meat at US-Mexico border](https://www.theguardian.com/us-news/2024/feb/29/trump-biden-border-visits-analysis)
+- [North-south wealth inequality in England on course to grow, report finds](https://www.theguardian.com/inequality/2024/mar/01/north-south-wealth-inequality-in-england-on-course-to-grow-report-finds)
+- [Museums Without Men: my project to end their shocking gender imbalance](https://www.theguardian.com/artanddesign/2024/mar/01/museums-without-men-gender-imbalance-tate-met)
+- [The best theatre to stream this month: Peaky Blinders, Prima Facie and more](https://www.theguardian.com/stage/2024/mar/01/the-best-theatre-to-stream-this-month-peaky-blinders-prima-facie-and-more)
+- [Rwanda plan to cost UK £1.8m for each asylum seeker, figures show](https://www.theguardian.com/uk-news/2024/mar/01/rwanda-plan-uk-asylum-seeker-cost-figures)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

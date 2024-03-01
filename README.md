@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: Serverless utilities that range from PNG rotation to UUID generation](https://ftools.toolforge.org)
-- [HP misses first-quarter revenue estimates on sluggish demand in PC market](https://www.reuters.com/technology/hp-misses-first-quarter-revenue-estimates-sluggish-demand-pc-market-2024-02-28/)
-- [Rich Donors Have Caused More Harm Than Good to India&#39;s Education](https://thewire.in/education/how-rich-donors-have-caused-more-harm-than-good-to-indias-education)
-- [Google searches on filetype functionality restored](https://twitter.com/searchliaison/status/1762866736800637392)
-- [Show HN: Mask Browser, fast web browser with extensions support and GPT4 AI chat](https://play.google.com/store/apps/details?id=net.maskbrowser.browser&hl=en_US)
-- [Egypt sells coastal city to UAE for $35B](https://www.msn.com/en-us/news/world/egypt-sells-coastal-city-ras-el-hekma-to-uae-for-35-billion-amidst-economic-crisis/ar-BB1iPq1o)
-- [A Hardware enthusiast view on the usefulness of open source Firmwares](https://zirblazer.github.io/htmlfiles/coreboot.html)
-- [Tell HN: Element Matrix Services deleted all my data](https://news.ycombinator.com/item?id=39545728)
-- [My Friend Got Me a Dumb AI-Generated Present](https://www.wired.com/story/help-my-friend-got-me-a-dumb-ai-generated-present/)
-- [Salesforce sees annual revenue below estimates on weak cloud demand](https://www.reuters.com/technology/salesforce-forecasts-annual-revenue-below-estimates-2024-02-28/)
+- [New York City ranks safest among big US cities for gun violence](https://phys.org/news/2024-02-york-city-safest-big-cities.html)
+- [Can you just take my site offline if I go over the bandwidth limit](https://answers.netlify.com/t/limit-bandwidth-to-avoid-high-billing-caused-by-ddos/13086/5)
+- [Washers and dryers are about to get a whole lot more efficient](https://grist.org/energy/washers-and-dryers-are-about-to-get-a-whole-lot-more-efficient/)
+- [Alcohol-Related Deaths Surge to Nearly 500 a Day, CDC Says](https://www.nytimes.com/2024/02/29/health/alcohol-deaths-cdc.html)
+- [We Need Self-Driving Cars](https://www.newcomer.co/p/we-need-self-driving-cars)
+- [Geiser](https://geiser.nongnu.org/)
+- [.rss Feeds for Social Media](https://news.ycombinator.com/item?id=39557592)
+- [Mollusk Eyes Reveal How Future Evolution Depends on the Past](https://www.quantamagazine.org/mollusk-eyes-reveal-how-future-evolution-depends-on-the-past-20240229/)
+- [On bad drug pricing research](https://www.writingruxandrabio.com/p/what-can-we-do-to-decrease-drug-prices)
+- [The 0 percent solution](https://www.nationalreview.com/magazine/2024/03/the-0-percent-solution/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

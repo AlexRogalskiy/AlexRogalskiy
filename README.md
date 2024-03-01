@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Winklevoss Twins&#39; Startup Gemini Will Pay Burned Customers $1B](https://www.thedailybeast.com/winklevoss-twins-crypto-start-up-gemini-will-pay-burned-customers-dollar11-billion)
-- [Talc – A fast and flexible allocator for no_std and WebAssembly](https://github.com/SFBdragon/talc)
-- [Saturn&#39;s Hexagon](https://en.wikipedia.org/wiki/Saturn%27s_hexagon)
-- [Scientists find genetic signature of Down syndrome in ancient bones](https://www.nytimes.com/2024/02/20/science/down-syndrome-dna-bones.html)
-- [Show HN: CriticalPath – Advanced Profiler for Android](https://crpath.app)
-- [Julius Caesar&#39;s Year of Confusion](https://www.bbc.com/future/article/20240227-how-julius-caesar-made-the-longest-year-in-history-and-brought-us-leap-years)
-- [Aviator &lpar;YC S21&rpar; is hiring a part-time developer advocate](https://www.ycombinator.com/companies/aviator/jobs/yrtnjnp-developer-marketing-part-time-social)
-- [2024 MIT Integration Bee – Finals [video]](https://www.youtube.com/watch?v=dyfLMHGnPR0)
-- [Open Collective Official Statement – OCF Dissolution](https://blog.opencollective.com/open-collective-official-statement-ocf-dissolution/)
-- [MicroZig: Unified abstraction layer and HAL for Zig on several microcontrollers](https://github.com/ZigEmbeddedGroup/microzig)
+- [Spotify pays out 70% of its revenue to record labels](https://twitter.com/carnage4life/status/1763347523509670357)
+- [Opening Up the Matrix.org Foundation](https://matrix.org/blog/2024/02/opening-up-foundation/)
+- [Show HN: Struct – A Feed-Centric Chat Platform](https://struct.ai/blog/introducing-the-struct-chat-platform)
+- [Show HN: OfflineLLM – a Vision Pro app running TinyLlama on device](https://apps.apple.com/us/app/offlinellm/id6478590762)
+- [Show HN: A curated list of tech related to Autism Spectrum Disorder&lpar;ASD&rpar;](https://github.com/hbcondo/awesome-autism-tech)
+- [The True Rate of Unemployment](https://www.lisep.org/tru)
+- [Functional ownership through fractional uniqueness](https://arxiv.org/abs/2310.18166)
+- [Things You Should Never Do, Part I &lpar;2000&rpar;](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
+- [Defcon: Preventing overload with graceful feature degradation &lpar;2023&rpar;](https://www.micahlerner.com/2023/07/23/defcon-preventing-overload-with-graceful-feature-degradation.html)
+- [Ask HN: Did you encounter any leap year bugs today?](https://news.ycombinator.com/item?id=39554539)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

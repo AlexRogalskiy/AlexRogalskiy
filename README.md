@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Eight European consumer watchdogs file complaints over Meta’s data processing](https://www.computerworld.com/article/3713269/eight-european-consumer-watchdogs-file-complaints-over-meta-s-data-processing.html#tk.rss_all)
+- [Google can’t guarantee its Gemini genAI tool won’t be biased](https://www.computerworld.com/article/3713165/google-can-t-guarantee-its-gemini-genai-won-t-be-biased.html#tk.rss_all)
+- [Apple CEO Tim Cook: &#39;GenAI will redefine the future&#39;](https://www.computerworld.com/article/3713342/apple-ceo-tim-cook-genai-will-redefine-the-future.html#tk.rss_all)
+- [The ROI in AI &lpar;and how to find it&rpar;](https://www.computerworld.com/article/3713340/the-roi-in-ai-and-how-to-find-it.html#tk.rss_all)
 - [It’s the end of the road for the Apple Car](https://www.computerworld.com/article/3713267/its-the-end-of-the-road-for-the-apple-car.html#tk.rss_all)
 - [As workers embrace AI, employers are slow to issue guidance](https://www.computerworld.com/article/3713163/as-workers-embrace-ai-employers-are-slow-to-issue-guidance.html#tk.rss_all)
 - [This classic Android app is tapping into the ghost of Google Now](https://www.computerworld.com/article/3713202/android-app-ghost-of-google-now.html#tk.rss_all)
 - [The economics of job cuts; why layoffs continue](https://www.computerworld.com/article/3713185/the-economics-of-job-cuts-why-layoffs-continue.html#tk.rss_all)
 - [Download: UEM vendor comparison chart 2024](https://www.computerworld.com/article/3408656/download-uem-vendor-comparison-chart-unified-endpoint-management.html#tk.rss_all)
 - [Enterprise mobility 2024: Welcome, genAI](https://www.computerworld.com/article/3202649/enterprise-mobility-industry-update.html#tk.rss_all)
-- [Google calls Microsoft’s cloud practices in the EU anti-competitive](https://www.computerworld.com/article/3713187/google-calls-microsofts-cloud-practices-in-the-eu-anti-competitive.html#tk.rss_all)
-- [What to do with your Vision Pro](https://www.computerworld.com/article/3713184/what-to-do-with-your-vision-pro.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [Dell ramps up ‘AI PC’ plans with Latitude and Precision refresh](https://www.computerworld.com/article/3713201/dell-ramps-up-ai-pc-plans-with-latitude-and-precision-refresh.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

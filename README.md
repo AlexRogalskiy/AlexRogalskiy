@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [New York City ranks safest among big US cities for gun violence](https://phys.org/news/2024-02-york-city-safest-big-cities.html)
-- [Can you just take my site offline if I go over the bandwidth limit](https://answers.netlify.com/t/limit-bandwidth-to-avoid-high-billing-caused-by-ddos/13086/5)
-- [Washers and dryers are about to get a whole lot more efficient](https://grist.org/energy/washers-and-dryers-are-about-to-get-a-whole-lot-more-efficient/)
-- [Alcohol-Related Deaths Surge to Nearly 500 a Day, CDC Says](https://www.nytimes.com/2024/02/29/health/alcohol-deaths-cdc.html)
-- [We Need Self-Driving Cars](https://www.newcomer.co/p/we-need-self-driving-cars)
-- [Geiser](https://geiser.nongnu.org/)
-- [.rss Feeds for Social Media](https://news.ycombinator.com/item?id=39557592)
-- [Mollusk Eyes Reveal How Future Evolution Depends on the Past](https://www.quantamagazine.org/mollusk-eyes-reveal-how-future-evolution-depends-on-the-past-20240229/)
-- [On bad drug pricing research](https://www.writingruxandrabio.com/p/what-can-we-do-to-decrease-drug-prices)
-- [The 0 percent solution](https://www.nationalreview.com/magazine/2024/03/the-0-percent-solution/)
+- [Lone orca slays great white in less than two minutes and feasts on its liver](https://www.cnn.com/2024/03/01/africa/orca-kills-great-white-shark-south-africa-scn/index.html)
+- [Statistical Shortcomings in Standard Math Libraries &lpar;2014&rpar;](https://www.evanmiller.org/statistical-shortcomings-in-standard-math-libraries.html)
+- [Guide to Understanding Internet Speed](https://www.forbes.com/home-improvement/home/all-about-internet-speed/)
+- [Is the media about to ignite World War III?](https://www.jpost.com/opinion/article-789625)
+- [Roboforming: The Future of Metalworking? [video]](https://www.youtube.com/watch?v=dCXu8Ju_fdY)
+- [A 45 year engineer clears up electric sauna ventilation](https://www.saunatimes.com/sauna-information/a-45-year-engineer-clears-up-electric-sauna-ventilation/)
+- [Squid: Optimising Web Delivery](https://www.squid-cache.org/)
+- [Coreboot 24.02 and 24.02.1 Released](https://blogs.coreboot.org/blog/2024/03/01/coreboot-24-02-and-24-02-1-released/)
+- [Git: Programmatic Staging](https://choly.ca/post/git-programmatic-staging/)
+- [Russian FSB Successfully Intercepts High-Level German Air Force Webex Call](https://twitter.com/bloombergblower/status/1763599235096748483)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

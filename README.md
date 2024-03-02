@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
-- [Eight European consumer watchdogs file complaints over Meta’s data processing](https://www.computerworld.com/article/3713269/eight-european-consumer-watchdogs-file-complaints-over-meta-s-data-processing.html#tk.rss_all)
-- [Google can’t guarantee its Gemini genAI tool won’t be biased](https://www.computerworld.com/article/3713165/google-can-t-guarantee-its-gemini-genai-won-t-be-biased.html#tk.rss_all)
-- [Apple CEO Tim Cook: &#39;GenAI will redefine the future&#39;](https://www.computerworld.com/article/3713342/apple-ceo-tim-cook-genai-will-redefine-the-future.html#tk.rss_all)
-- [The ROI in AI &lpar;and how to find it&rpar;](https://www.computerworld.com/article/3713340/the-roi-in-ai-and-how-to-find-it.html#tk.rss_all)
-- [It’s the end of the road for the Apple Car](https://www.computerworld.com/article/3713267/its-the-end-of-the-road-for-the-apple-car.html#tk.rss_all)
-- [As workers embrace AI, employers are slow to issue guidance](https://www.computerworld.com/article/3713163/as-workers-embrace-ai-employers-are-slow-to-issue-guidance.html#tk.rss_all)
-- [This classic Android app is tapping into the ghost of Google Now](https://www.computerworld.com/article/3713202/android-app-ghost-of-google-now.html#tk.rss_all)
-- [The economics of job cuts; why layoffs continue](https://www.computerworld.com/article/3713185/the-economics-of-job-cuts-why-layoffs-continue.html#tk.rss_all)
-- [Download: UEM vendor comparison chart 2024](https://www.computerworld.com/article/3408656/download-uem-vendor-comparison-chart-unified-endpoint-management.html#tk.rss_all)
-- [Enterprise mobility 2024: Welcome, genAI](https://www.computerworld.com/article/3202649/enterprise-mobility-industry-update.html#tk.rss_all)
+- [EC to grill Meta on Facebook ‘subscription for no ads’ plan](https://www.computerworld.com/article/3713382/ec-to-grill-meta-on-facebook-subscription-for-no-ads-plan.html#tk.rss_all)
+- [Return-to-office initiatives or stealth layoffs? Why not both?](https://www.computerworld.com/article/3713361/return-to-office-initiatives-or-stealth-layoffs-why-not-both.html#tk.rss_all)
+- [Apple warns of increased iPhone security risks](https://www.computerworld.com/article/3713189/apple-warns-of-increased-iphone-security-risks.html#tk.rss_all)
+- [Microsoft unveils new AI tools for Windows 11](https://www.computerworld.com/article/3713360/microsoft-unveils-new-ai-tools-for-windows-11.html#tk.rss_all)
+- [Google Workspace tips and tutorials](https://www.computerworld.com/article/3704811/how-to-use-google-workspace-tips-tutorials-cheat-sheets.html#tk.rss_all)
+- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
+- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
+- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
+- [Elon Musk sues OpenAI alleging breach of founding agreement](https://www.computerworld.com/article/3713188/elon-musk-sues-openai-alleging-breach-of-founding-agreement.html#tk.rss_all)
+- [The food delivery driver identification dilemma](https://www.computerworld.com/article/3713320/the-food-delivery-driver-identification-dilemma.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

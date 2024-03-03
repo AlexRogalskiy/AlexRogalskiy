@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Lone orca slays great white in less than two minutes and feasts on its liver](https://www.cnn.com/2024/03/01/africa/orca-kills-great-white-shark-south-africa-scn/index.html)
-- [Statistical Shortcomings in Standard Math Libraries &lpar;2014&rpar;](https://www.evanmiller.org/statistical-shortcomings-in-standard-math-libraries.html)
-- [Guide to Understanding Internet Speed](https://www.forbes.com/home-improvement/home/all-about-internet-speed/)
-- [Is the media about to ignite World War III?](https://www.jpost.com/opinion/article-789625)
-- [Roboforming: The Future of Metalworking? [video]](https://www.youtube.com/watch?v=dCXu8Ju_fdY)
-- [A 45 year engineer clears up electric sauna ventilation](https://www.saunatimes.com/sauna-information/a-45-year-engineer-clears-up-electric-sauna-ventilation/)
-- [Squid: Optimising Web Delivery](https://www.squid-cache.org/)
-- [Coreboot 24.02 and 24.02.1 Released](https://blogs.coreboot.org/blog/2024/03/01/coreboot-24-02-and-24-02-1-released/)
-- [Git: Programmatic Staging](https://choly.ca/post/git-programmatic-staging/)
-- [Russian FSB Successfully Intercepts High-Level German Air Force Webex Call](https://twitter.com/bloombergblower/status/1763599235096748483)
+- [Recap of a Hackathon on JavaScript at IIT-Bombay](https://scribbler.live/2024/02/05/Scribble-Pad-IIT-B-Recap.html)
+- [Zenless Zone Zero](https://zenless.hoyoverse.com/)
+- [Recovery from Online Scam](https://news.ycombinator.com/item?id=39577755)
+- [Resistant starch intake aids weight loss in humans by reshaping gut microbiota](https://www.nature.com/articles/s42255-024-00988-y)
+- [NIST&#39;s Wall of Many Stones](https://www.nist.gov/blogs/taking-measure/test-time-nists-wall-many-stones)
+- [The first observation of humpback whale copulation](https://nautil.us/humpback-whales-caught-humping-522330/)
+- [Sedlec Ossuary](https://en.wikipedia.org/wiki/Sedlec_Ossuary)
+- [Dr. Rhonda Patrick on DHA in Phospholipid Form for Alzheimer&#39;s Prevention](https://gethealthspan.com/science/article/apoe4-carriers-rhonda-patrick-perspective-on-dha-in-phospholipid-form-for-alzheimers-prevention)
+- [The Taboo of Animal Friendship](https://english.elpais.com/science-tech/2024-02-24/the-taboo-of-animal-friendship-an-evolutionary-advantage-not-exclusive-to-humans.html)
+- [Ask HN: What&#39;s your favorite interview question to identify bad jobs?](https://news.ycombinator.com/item?id=39577613)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

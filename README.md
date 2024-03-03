@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [California Approves Waymo Expansion to Los Angeles and SF Peninsula [pdf]](https://www.cpuc.ca.gov/-/media/cpuc-website/divisions/consumer-protection-and-enforcement-division/documents/tlab/av-programs/waymo-al-2-disposition-letter-20240301_signed.pdf)
-- [WhatsApp forces Pegasus spyware maker to share its secret code](https://arstechnica.com/tech-policy/2024/03/whatsapp-finally-forces-pegasus-spyware-maker-to-share-its-secret-code/)
-- [FastUI: Build Better UIs Faster](https://github.com/pydantic/FastUI)
-- [Lazarus and the FudModule rootkit: Beyond BYOVD with an admin-to-kernel zero-day](https://decoded.avast.io/janvojtesek/lazarus-and-the-fudmodule-rootkit-beyond-byovd-with-an-admin-to-kernel-zero-day/)
-- [Ask HN: How do you find employment opportunities in 2024?](https://news.ycombinator.com/item?id=39565788)
-- [Lorenzo Milam, pioneer of community radio &lpar;2020&rpar;](https://current.org/2020/08/lorenzo-milam-legendary-pioneer-of-community-radio-dies-at-86/)
-- [Colecovision BASIC compiler: CVBasic v0.1.0](https://forums.atariage.com/topic/362182-colecovision-basic-compiler-cvbasic-v010/)
-- [The Cosmonaut of Potsdam](https://digitalcosmonaut.com/the-cosmonaut-of-potsdam/)
-- [Apple reverses course on death of Progressive Web Apps in EU](https://appleinsider.com/articles/24/03/01/apple-reverses-course-on-death-of-progressive-web-apps-in-eu)
-- [Show HN: Replay your typing in a few lines of JavaScript](https://einenlum.github.io/human-replay/)
+- [Generating transparent images using Stable Diffusion XL](https://github.com/layerdiffusion/sd-forge-layerdiffusion)
+- [ShotSpotter: listening in on the neighborhood](https://computer.rip/2024-03-01-listening-in-on-the-neighborhood.html)
+- [Colombia&#39;s Special Word for &quot;You&quot;](https://www.nytimes.com/2024/03/02/world/americas/colombia-sumerce-mothers-mercy.html)
+- [Where is all of the Fediverse?](https://blog.benjojo.co.uk/post/who-hosts-the-fediverse-instances)
+- [Byte Interviews the Apple Lisa Dev Team &lpar;1983&rpar;](https://computeradsfromthepast.substack.com/p/byte-interviews-the-apple-lisa-dev)
+- [More startups should take on monopolies](https://www.zaxis.page/p/taking-on-the-monopoly)
+- [Price fixing by algorithm is still price fixing](https://www.ftc.gov/business-guidance/blog/2024/03/price-fixing-algorithm-still-price-fixing)
+- [Inside the miracle of modern chip manufacturing](https://ig.ft.com/microchips/)
+- [Sorting the Self: Assessments and the cult of personality](https://hedgehogreview.com/issues/missing-character/articles/sorting-the-self)
+- [How user groups made software reuse a reality](https://ztoz.blog/posts/user-group-reuse/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

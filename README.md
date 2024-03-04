@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Germany to investigate Russia’s apparent interception of military talks on Ukraine](https://www.theguardian.com/world/2024/mar/03/germany-investigate-russia-ukraine-call-possible-interception)
-- [Nathan Lyon spins Australia to victory as New Zealand collapse in first Test](https://www.theguardian.com/sport/2024/mar/03/australia-new-zealand-cricket-first-test-day-four-nathan-lyon-scores-results-report)
-- [Horizon scandal victim uses Brits appearance to urge faster compensation](https://www.theguardian.com/uk-news/2024/mar/02/horizon-scandal-victim-uses-brits-appearance-to-urge-faster-compensation)
-- [Raye’s record-breaking Brits defied the limited imaginations of the British music industry](https://www.theguardian.com/music/2024/mar/02/rayes-record-breaking-brits-defied-the-limited-imaginations-of-the-british-music-industry)
-- [What’s paralysing thousands of rainbow lorikeets? Scientists search for the cause as volunteer carers are overwhelmed](https://www.theguardian.com/environment/2024/mar/03/rainbow-lorikeet-paralysis-syndrome-research-qld-nsw)
-- [Sydney Mardi Gras parade 2024 – in pictures](https://www.theguardian.com/australia-news/gallery/2024/mar/03/sydney-mardi-gras-parade-2024-in-pictures)
-- [Brit awards 2024: women dominate as Raye scores record-smashing six wins](https://www.theguardian.com/music/2024/mar/02/brit-awards-2024-women-dominate-as-raye-scores-record-smashing-six-wins)
-- [Donald Trump sweeps Michigan’s Republican party convention](https://www.theguardian.com/us-news/2024/mar/02/michigan-republican-party-convention-donald-trump-victory)
-- [Bruno Fernandes naysayers overlook just how important he is for United](https://www.theguardian.com/football/2024/mar/02/bruno-fernandes-manchester-united-city-preview)
-- [Texas wildfire: rising temperatures, winds and dry air hamper firefighting](https://www.theguardian.com/us-news/2024/mar/02/texas-wildfire-rising-temperatures-winds-dry-air)
+- [‘Tumblemageddon’: thousands of tumbleweeds roll into Utah towns](https://www.theguardian.com/us-news/2024/mar/04/tumbleweeds-utah-south-jordan-eagle-mountain)
+- [Nikki Haley secures first victory of Republican primaries with Washington DC win](https://www.theguardian.com/us-news/2024/mar/04/nikki-haley-secures-first-victory-of-republican-primaries-with-washington-dc-win)
+- [Haiti jailbreak: thousands of inmates feared to have escaped after gangs storm main prison](https://www.theguardian.com/world/2024/mar/04/haiti-mass-jailbreak-violence-port-au-prince-gangs)
+- [Germany accuses Russia of waging an ‘information war’ after alleged military leak](https://www.theguardian.com/world/2024/mar/04/russia-alleged-military-leak-germany-weapons-kyiv-stike-crimea)
+- [Kamala Harris issues sharp rebuke of Israel over ‘humanitarian catastrophe’ in Gaza](https://www.theguardian.com/us-news/2024/mar/04/kamala-harris-israel-idf-gaza-catastrophe-ceasefire-hamas-hostage-deal)
+- [UK regional growth gap to widen as London pulls further ahead](https://www.theguardian.com/business/2024/mar/04/uk-regional-growth-gap-to-widen-as-london-pulls-further-ahead)
+- [Disadvantaged pupils further behind in maths since Covid, English study finds](https://www.theguardian.com/education/2024/mar/04/disadvantaged-pupils-further-behind-in-maths-since-covid-english-study-finds)
+- [RNLI celebrates 200th anniversary after saving nearly 150,000 lives](https://www.theguardian.com/society/2024/mar/04/rnli-celebrates-200-year-anniversary-founded-in-london-1824)
+- [Women in UK waiting almost nine years for endometriosis diagnosis, study finds](https://www.theguardian.com/society/2024/mar/04/women-in-uk-waiting-almost-nine-years-for-endometriosis-diagnosis-study-finds)
+- [UK teens believe they will have harder lives than their parents, research finds](https://www.theguardian.com/society/2024/mar/04/uk-teenagers-parents-standard-of-living-research)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

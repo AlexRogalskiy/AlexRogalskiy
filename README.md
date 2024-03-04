@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Generating transparent images using Stable Diffusion XL](https://github.com/layerdiffusion/sd-forge-layerdiffusion)
-- [ShotSpotter: listening in on the neighborhood](https://computer.rip/2024-03-01-listening-in-on-the-neighborhood.html)
-- [Colombia&#39;s Special Word for &quot;You&quot;](https://www.nytimes.com/2024/03/02/world/americas/colombia-sumerce-mothers-mercy.html)
-- [Where is all of the Fediverse?](https://blog.benjojo.co.uk/post/who-hosts-the-fediverse-instances)
-- [Byte Interviews the Apple Lisa Dev Team &lpar;1983&rpar;](https://computeradsfromthepast.substack.com/p/byte-interviews-the-apple-lisa-dev)
-- [More startups should take on monopolies](https://www.zaxis.page/p/taking-on-the-monopoly)
-- [Price fixing by algorithm is still price fixing](https://www.ftc.gov/business-guidance/blog/2024/03/price-fixing-algorithm-still-price-fixing)
-- [Inside the miracle of modern chip manufacturing](https://ig.ft.com/microchips/)
-- [Sorting the Self: Assessments and the cult of personality](https://hedgehogreview.com/issues/missing-character/articles/sorting-the-self)
-- [How user groups made software reuse a reality](https://ztoz.blog/posts/user-group-reuse/)
+- [Aho-Corasick Algorithm](https://cp-algorithms.com/string/aho_corasick.html)
+- [How the Valley treats its experienced people &lpar;2018&rpar;](https://rachelbythebay.com/w/2018/12/29/age/)
+- [SuperKalam &lpar;YC W23&rpar; Is Hiring](https://www.ycombinator.com/companies/kalam/jobs/R4P4ZvJ-product-analyst)
+- [A woman named &quot;Steve&quot; – IT pioneer, entrepreneur, philanthropist &lpar;2019&rpar;](https://www.computer.org/publications/tech-news/research/dame-stephanie-steve-shirley-computer-pioneer)
+- [Surrealism Is 100. The World&#39;s Still Surreal](https://www.nytimes.com/2024/02/28/arts/design/surrealism-centennial-pompidou-brussels.html)
+- [Bugs I&#39;ve Filed on Browsers](https://nolanlawson.com/2024/03/03/bugs-ive-filed-on-browsers/)
+- [California rains resurrect a long-dead lake in dry Death Valley](https://www.washingtonpost.com/nation/2024/03/01/death-valley-lake-california-rain/)
+- [Enough with the dead butterflies &lpar;2017&rpar;](https://www.emilydamstra.com/please-enough-dead-butterflies/)
+- [Using a solar oven as a radiant refrigerator at night](http://solarcooking.org/radiant-fridge.htm)
+- [Commerce Department Proposes Imposing &quot;Know Your Customer&quot; on IaaS Providers](https://www.natlawreview.com/article/us-department-commerce-publishes-proposed-rule-imposing-know-your-customer-and)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

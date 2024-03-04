@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Recap of a Hackathon on JavaScript at IIT-Bombay](https://scribbler.live/2024/02/05/Scribble-Pad-IIT-B-Recap.html)
-- [Zenless Zone Zero](https://zenless.hoyoverse.com/)
-- [Recovery from Online Scam](https://news.ycombinator.com/item?id=39577755)
-- [Resistant starch intake aids weight loss in humans by reshaping gut microbiota](https://www.nature.com/articles/s42255-024-00988-y)
-- [NIST&#39;s Wall of Many Stones](https://www.nist.gov/blogs/taking-measure/test-time-nists-wall-many-stones)
-- [The first observation of humpback whale copulation](https://nautil.us/humpback-whales-caught-humping-522330/)
-- [Sedlec Ossuary](https://en.wikipedia.org/wiki/Sedlec_Ossuary)
-- [Dr. Rhonda Patrick on DHA in Phospholipid Form for Alzheimer&#39;s Prevention](https://gethealthspan.com/science/article/apoe4-carriers-rhonda-patrick-perspective-on-dha-in-phospholipid-form-for-alzheimers-prevention)
-- [The Taboo of Animal Friendship](https://english.elpais.com/science-tech/2024-02-24/the-taboo-of-animal-friendship-an-evolutionary-advantage-not-exclusive-to-humans.html)
-- [Ask HN: What&#39;s your favorite interview question to identify bad jobs?](https://news.ycombinator.com/item?id=39577613)
+- [Bornbir attacking and doxxing baby bump subreddits using generative AI](https://old.reddit.com/r/BabyBumps/comments/1b5wl05/nov_2024_bumpers_please_read/)
+- [The Fundamentals of C/C++ Game Programming](https://www.taylorfrancis.com/books/mono/10.1201/9781315156361/fundamentals-game-programming-brian-beuken)
+- [Biological Neurons vs. Deep Reinforcement Learning](https://openreview.net/pdf?id=N5qLXpc7HQy)
+- [Overhaul – RT London Bus Overhaul Documentary – British Transport Films – 1957](https://www.youtube.com/watch?v=7rwItDpAzi8)
+- [Nearly all of California&#39;s reservoir&#39;s are above their historical averages](https://cdec.water.ca.gov/resapp/RescondMain)
+- [&#39;Dune&#39; Fans, Here&#39;s a Documentary That Will Blow Your Mind](https://www.nytimes.com/2024/03/01/movies/jodorowsky-dune-documentary.html)
+- [Varda&#39;s drug-cooking Winnebago will be remembered as a space pioneer](https://arstechnica.com/space/2024/02/vardas-drug-cooking-winnebago-will-be-remembered-as-a-space-pioneer/)
+- [Bounding Power: The ASI Control Problem, Public Safety, and Constitutionalism](https://isonomiaquarterly.com/archive/volume-2-issue-1/bounding-power-the-asi-control-problem-public-safety-and-republican-constitutionalism/)
+- [Move over, AI. Scientists announce a new &#39;organoid intelligence&#39; field](https://edition.cnn.com/2023/03/02/world/brain-computer-organoids-scn/index.html)
+- [Mental Models: 349 Models Explained to Carry Around in Your Head](https://junto.investments/mental-models/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

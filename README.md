@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Bornbir attacking and doxxing baby bump subreddits using generative AI](https://old.reddit.com/r/BabyBumps/comments/1b5wl05/nov_2024_bumpers_please_read/)
-- [The Fundamentals of C/C++ Game Programming](https://www.taylorfrancis.com/books/mono/10.1201/9781315156361/fundamentals-game-programming-brian-beuken)
-- [Biological Neurons vs. Deep Reinforcement Learning](https://openreview.net/pdf?id=N5qLXpc7HQy)
-- [Overhaul – RT London Bus Overhaul Documentary – British Transport Films – 1957](https://www.youtube.com/watch?v=7rwItDpAzi8)
-- [Nearly all of California&#39;s reservoir&#39;s are above their historical averages](https://cdec.water.ca.gov/resapp/RescondMain)
-- [&#39;Dune&#39; Fans, Here&#39;s a Documentary That Will Blow Your Mind](https://www.nytimes.com/2024/03/01/movies/jodorowsky-dune-documentary.html)
-- [Varda&#39;s drug-cooking Winnebago will be remembered as a space pioneer](https://arstechnica.com/space/2024/02/vardas-drug-cooking-winnebago-will-be-remembered-as-a-space-pioneer/)
-- [Bounding Power: The ASI Control Problem, Public Safety, and Constitutionalism](https://isonomiaquarterly.com/archive/volume-2-issue-1/bounding-power-the-asi-control-problem-public-safety-and-republican-constitutionalism/)
-- [Move over, AI. Scientists announce a new &#39;organoid intelligence&#39; field](https://edition.cnn.com/2023/03/02/world/brain-computer-organoids-scn/index.html)
-- [Mental Models: 349 Models Explained to Carry Around in Your Head](https://junto.investments/mental-models/)
+- [Fired Twitter execs are suing Elon Musk for over $128M](https://www.theverge.com/2024/3/4/24090000/elon-musk-twitter-x-lawsuit-parag-agrawal-severance)
+- [Alan Watts // AI Musings](https://www.youtube.com/watch?v=591E6zqWqA8)
+- [Section 174 aims to kill startups – take action tonight](https://twitter.com/davj/status/1763953952943718420)
+- [Unionized YouTube workers laid off during live Austin TX city council meeting](https://www.pcgamer.com/gaming-industry/not-to-interrupt-but-they-just-laid-us-all-off-unionised-youtube-workers-in-texas-are-told-in-the-middle-of-a-live-city-council-meeting-that-they-dont-have-jobs-anymore/)
+- [Watch 32 AMD MI210 cards with MK1 Flywheel inference engine on TensorWave [video]](https://www.youtube.com/watch?v=cqtkDphs4a8)
+- [Hackers in Change Healthcare attack receive $22M in alleged ransom](https://scrippsnews.com/stories/hackers-in-change-healthcare-attack-receive-22m-in-alleged-ransom/)
+- [Setback for hopes of life as NASA says less oxygen on Jupiter moon than thought](https://www.theguardian.com/science/2024/mar/04/jupiter-moon-oxygen-nasa)
+- [Roku Issues a Mandatory Terms of Service Update or You Can&#39;t Use Your Roku](https://cordcuttersnews.com/roku-issues-a-mandatory-terms-of-service-update-that-you-must-agree-to-or-you-cant-use-your-roku/)
+- [DCPU-16 Specification &lpar;2012&rpar;](https://web.archive.org/web/20120616151103/http://0x10c.com/doc/dcpu-16.txt)
+- [Bitcoin passes all time high of $68,789.63](https://coinmarketcap.com/currencies/bitcoin/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

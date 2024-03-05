@@ -355,6 +355,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Anthropic gives its flagship generative AI models a facelift](https://www.computerworld.com/article/3713463/anthropic-gives-its-flagship-generative-ai-models-a-facelift.html#tk.rss_all)
+- [Spotify wants something for nothing, Apple claims after big EU fine](https://www.computerworld.com/article/3713205/spotify-wants-something-for-nothing-apple-claims-after-big-eu-fine.html#tk.rss_all)
+- [Heads on: Apple’s Vision Pro delivers a glimpse of the future](https://www.computerworld.com/article/3713307/heads-on-apples-vision-pro-delivers-a-glimpse-of-the-future.html#tk.rss_all)
 - [EC to grill Meta on Facebook ‘subscription for no ads’ plan](https://www.computerworld.com/article/3713382/ec-to-grill-meta-on-facebook-subscription-for-no-ads-plan.html#tk.rss_all)
 - [Return-to-office initiatives or stealth layoffs? Why not both?](https://www.computerworld.com/article/3713361/return-to-office-initiatives-or-stealth-layoffs-why-not-both.html#tk.rss_all)
 - [Apple warns of increased iPhone security risks](https://www.computerworld.com/article/3713189/apple-warns-of-increased-iphone-security-risks.html#tk.rss_all)
@@ -362,9 +365,6 @@
 - [Google Workspace tips and tutorials](https://www.computerworld.com/article/3704811/how-to-use-google-workspace-tips-tutorials-cheat-sheets.html#tk.rss_all)
 - [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
 - [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
-- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
-- [Elon Musk sues OpenAI alleging breach of founding agreement](https://www.computerworld.com/article/3713188/elon-musk-sues-openai-alleging-breach-of-founding-agreement.html#tk.rss_all)
-- [The food delivery driver identification dilemma](https://www.computerworld.com/article/3713320/the-food-delivery-driver-identification-dilemma.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

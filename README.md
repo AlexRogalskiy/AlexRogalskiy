@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [‘Tumblemageddon’: thousands of tumbleweeds roll into Utah towns](https://www.theguardian.com/us-news/2024/mar/04/tumbleweeds-utah-south-jordan-eagle-mountain)
-- [Nikki Haley secures first victory of Republican primaries with Washington DC win](https://www.theguardian.com/us-news/2024/mar/04/nikki-haley-secures-first-victory-of-republican-primaries-with-washington-dc-win)
-- [Haiti jailbreak: thousands of inmates feared to have escaped after gangs storm main prison](https://www.theguardian.com/world/2024/mar/04/haiti-mass-jailbreak-violence-port-au-prince-gangs)
-- [Germany accuses Russia of waging an ‘information war’ after alleged military leak](https://www.theguardian.com/world/2024/mar/04/russia-alleged-military-leak-germany-weapons-kyiv-stike-crimea)
-- [Kamala Harris issues sharp rebuke of Israel over ‘humanitarian catastrophe’ in Gaza](https://www.theguardian.com/us-news/2024/mar/04/kamala-harris-israel-idf-gaza-catastrophe-ceasefire-hamas-hostage-deal)
-- [UK regional growth gap to widen as London pulls further ahead](https://www.theguardian.com/business/2024/mar/04/uk-regional-growth-gap-to-widen-as-london-pulls-further-ahead)
-- [Disadvantaged pupils further behind in maths since Covid, English study finds](https://www.theguardian.com/education/2024/mar/04/disadvantaged-pupils-further-behind-in-maths-since-covid-english-study-finds)
-- [RNLI celebrates 200th anniversary after saving nearly 150,000 lives](https://www.theguardian.com/society/2024/mar/04/rnli-celebrates-200-year-anniversary-founded-in-london-1824)
-- [Women in UK waiting almost nine years for endometriosis diagnosis, study finds](https://www.theguardian.com/society/2024/mar/04/women-in-uk-waiting-almost-nine-years-for-endometriosis-diagnosis-study-finds)
-- [UK teens believe they will have harder lives than their parents, research finds](https://www.theguardian.com/society/2024/mar/04/uk-teenagers-parents-standard-of-living-research)
+- [Ukraine war briefing: send Taurus missiles like we sent Storm Shadow, UK tells Germany](https://www.theguardian.com/world/2024/mar/05/ukraine-russia-war-briefing-taurus-missiles-germany)
+- [John Higgins comes up short in pursuit of ‘golden ball’ 167 break in Saudi Arabia](https://www.theguardian.com/sport/2024/mar/05/john-higgins-golden-ball-attempt-snooker-world-masters)
+- [Mortgage reforms have excluded first-time buyers, say UK building societies](https://www.theguardian.com/business/2024/mar/05/mortgage-reforms-have-excluded-first-time-buyers-say-uk-building-societies)
+- [Vegan products not always safe for people with dairy allergy, watchdog says](https://www.theguardian.com/society/2024/mar/05/vegan-products-not-always-safe-for-people-with-dairy-allergy-watchdog-says)
+- [Cancer warning after big rise in people smoking pipes, shisha and cigars in UK](https://www.theguardian.com/society/2024/mar/05/fivefold-rise-in-uk-users-of-non-cigarette-tobacco-pipes-shisha-cigars)
+- [MPs want more women’s football boots to be made and sold amid ACL injuries](https://www.theguardian.com/football/2024/mar/05/mps-want-more-womens-football-boots-to-be-made-and-sold-amid-acl-injuries)
+- [UK retail sales dampened as shoppers stay home in wet weather](https://www.theguardian.com/business/2024/mar/05/uk-retail-sales-shops-pubs-restaurants-february)
+- [TV tonight: Julianne Moore’s ribald romp in the 17th-century royal court](https://www.theguardian.com/tv-and-radio/2024/mar/05/tv-tonight-julianne-moores-ribald-romp-in-the-17th-century-royal-court)
+- [Colorado moves to change law after 190 bodies found decaying in funeral home](https://www.theguardian.com/us-news/2024/mar/04/colorado-funeral-home-law)
+- [London music venue Brixton Academy to reopen with Nirvana and Smiths tribute acts](https://www.theguardian.com/music/2024/mar/04/london-music-venue-brixton-academy-to-reopen-with-nirvana-and-smiths-tribute-acts)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

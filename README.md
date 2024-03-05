@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Aho-Corasick Algorithm](https://cp-algorithms.com/string/aho_corasick.html)
-- [How the Valley treats its experienced people &lpar;2018&rpar;](https://rachelbythebay.com/w/2018/12/29/age/)
-- [SuperKalam &lpar;YC W23&rpar; Is Hiring](https://www.ycombinator.com/companies/kalam/jobs/R4P4ZvJ-product-analyst)
-- [A woman named &quot;Steve&quot; – IT pioneer, entrepreneur, philanthropist &lpar;2019&rpar;](https://www.computer.org/publications/tech-news/research/dame-stephanie-steve-shirley-computer-pioneer)
-- [Surrealism Is 100. The World&#39;s Still Surreal](https://www.nytimes.com/2024/02/28/arts/design/surrealism-centennial-pompidou-brussels.html)
-- [Bugs I&#39;ve Filed on Browsers](https://nolanlawson.com/2024/03/03/bugs-ive-filed-on-browsers/)
-- [California rains resurrect a long-dead lake in dry Death Valley](https://www.washingtonpost.com/nation/2024/03/01/death-valley-lake-california-rain/)
-- [Enough with the dead butterflies &lpar;2017&rpar;](https://www.emilydamstra.com/please-enough-dead-butterflies/)
-- [Using a solar oven as a radiant refrigerator at night](http://solarcooking.org/radiant-fridge.htm)
-- [Commerce Department Proposes Imposing &quot;Know Your Customer&quot; on IaaS Providers](https://www.natlawreview.com/article/us-department-commerce-publishes-proposed-rule-imposing-know-your-customer-and)
+- [European crash tester says carmakers must bring back physical controls](https://arstechnica.com/cars/2024/03/carmakers-must-bring-back-buttons-to-get-good-safety-scores-in-europe/)
+- [CodeCrafters &lpar;YC S22&rpar; is hiring an influencer manager &lpar;interns welcome&rpar;](https://www.ycombinator.com/companies/codecrafters/jobs/M2ELjtC-influencer-partnerships-manager)
+- [Based: Simple linear attention language models](https://www.together.ai/blog/based)
+- [Miles Davis and the recording of Kind of Blue](https://www.esquire.com/entertainment/music/a46871755/james-kaplan-miles-davis-3-shades-of-blue-excerpt/)
+- [AWS acquires Talen&#39;s 960MW nuclear data center campus in Pennsylvania](https://www.datacenterdynamics.com/en/news/aws-acquires-talens-nuclear-data-center-campus-in-pennsylvania/)
+- [How I keep myself alive using Golang](https://www.bytesizego.com/blog/keeping-alive-with-go)
+- [Show HN: 3 years and 1M users later, I just open-sourced my &quot;Internet OS&quot;](https://github.com/HeyPuter/puter)
+- [GTPDOOR – A novel backdoor tailored for covert access over the roaming exchange](https://doubleagent.net/telecommunications/backdoor/gtp/2024/02/27/GTPDOOR-COVERT-TELCO-BACKDOOR)
+- [Opus 1.5 released: Opus gets a machine learning upgrade](https://opus-codec.org/demo/opus-1.5/)
+- [Show HN: Workflow orchestrator in Golang](https://github.com/harshadmanglani/polaris)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

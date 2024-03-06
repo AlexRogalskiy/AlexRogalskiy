@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [European crash tester says carmakers must bring back physical controls](https://arstechnica.com/cars/2024/03/carmakers-must-bring-back-buttons-to-get-good-safety-scores-in-europe/)
-- [CodeCrafters &lpar;YC S22&rpar; is hiring an influencer manager &lpar;interns welcome&rpar;](https://www.ycombinator.com/companies/codecrafters/jobs/M2ELjtC-influencer-partnerships-manager)
-- [Based: Simple linear attention language models](https://www.together.ai/blog/based)
-- [Miles Davis and the recording of Kind of Blue](https://www.esquire.com/entertainment/music/a46871755/james-kaplan-miles-davis-3-shades-of-blue-excerpt/)
-- [AWS acquires Talen&#39;s 960MW nuclear data center campus in Pennsylvania](https://www.datacenterdynamics.com/en/news/aws-acquires-talens-nuclear-data-center-campus-in-pennsylvania/)
-- [How I keep myself alive using Golang](https://www.bytesizego.com/blog/keeping-alive-with-go)
-- [Show HN: 3 years and 1M users later, I just open-sourced my &quot;Internet OS&quot;](https://github.com/HeyPuter/puter)
-- [GTPDOOR – A novel backdoor tailored for covert access over the roaming exchange](https://doubleagent.net/telecommunications/backdoor/gtp/2024/02/27/GTPDOOR-COVERT-TELCO-BACKDOOR)
-- [Opus 1.5 released: Opus gets a machine learning upgrade](https://opus-codec.org/demo/opus-1.5/)
-- [Show HN: Workflow orchestrator in Golang](https://github.com/harshadmanglani/polaris)
+- [EU Fines Apple $1.8B](https://www.theguardian.com/business/2024/mar/04/eu-fines-apple-18bn-over-app-store-restrictions-on-music-streaming)
+- [Claude 3 Opus reinvented this quantum algorithm from scratch in just 2 prompts](https://twitter.com/GillVerd/status/1764901418664882327)
+- [Embedded Swift on the Raspberry Pi Pico](https://forums.swift.org/t/embedded-swift-on-the-raspberry-pi-pico-rp2040-without-the-pico-sdk/69338)
+- [Accenture to Acquire Udacity](https://techcrunch.com/2024/03/05/accenture-to-acquire-udacity-to-build-a-learning-platform-focused-on-ai/)
+- [BlackCat Ransomware Group Implodes After Apparent $22M Payment by Change Health](https://krebsonsecurity.com/2024/03/blackcat-ransomware-group-implodes-after-apparent-22m-ransom-payment-by-change-healthcare/)
+- [European court favors strong encryption, calling it key to privacy rights](https://www.washingtonpost.com/technology/2024/03/05/encryption-eu-human-rights-privacy-ruling/)
+- [Ace of Aces: or, why you should Do Maths as a game designer](https://paxsims.wordpress.com/2024/03/02/ace-of-aces-or-why-you-should-do-maths-as-a-game-designer/)
+- [Cracking Meta&#39;s Messenger Certificate Pinning on macOS](https://texts.blog/2024/02/20/cracking-metas-messenger-certificate-pinning-on-macos/)
+- [New Federal Rule Caps Credit Card Late Fees at $8](https://www.nytimes.com/2024/03/05/business/credit-card-late-fees.html)
+- [JEDEC publishes GDDR7 graphics memory standard](https://www.jedec.org/news/pressreleases/jedec-publishes-gddr7-graphics-memory-standard)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

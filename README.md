@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Fired Twitter execs are suing Elon Musk for over $128M](https://www.theverge.com/2024/3/4/24090000/elon-musk-twitter-x-lawsuit-parag-agrawal-severance)
-- [Alan Watts // AI Musings](https://www.youtube.com/watch?v=591E6zqWqA8)
-- [Section 174 aims to kill startups – take action tonight](https://twitter.com/davj/status/1763953952943718420)
-- [Unionized YouTube workers laid off during live Austin TX city council meeting](https://www.pcgamer.com/gaming-industry/not-to-interrupt-but-they-just-laid-us-all-off-unionised-youtube-workers-in-texas-are-told-in-the-middle-of-a-live-city-council-meeting-that-they-dont-have-jobs-anymore/)
-- [Watch 32 AMD MI210 cards with MK1 Flywheel inference engine on TensorWave [video]](https://www.youtube.com/watch?v=cqtkDphs4a8)
-- [Hackers in Change Healthcare attack receive $22M in alleged ransom](https://scrippsnews.com/stories/hackers-in-change-healthcare-attack-receive-22m-in-alleged-ransom/)
-- [Setback for hopes of life as NASA says less oxygen on Jupiter moon than thought](https://www.theguardian.com/science/2024/mar/04/jupiter-moon-oxygen-nasa)
-- [Roku Issues a Mandatory Terms of Service Update or You Can&#39;t Use Your Roku](https://cordcuttersnews.com/roku-issues-a-mandatory-terms-of-service-update-that-you-must-agree-to-or-you-cant-use-your-roku/)
-- [DCPU-16 Specification &lpar;2012&rpar;](https://web.archive.org/web/20120616151103/http://0x10c.com/doc/dcpu-16.txt)
-- [Bitcoin passes all time high of $68,789.63](https://coinmarketcap.com/currencies/bitcoin/)
+- [Amazon goes nuclear, acquires Cumulus Data&#39;s atomic datacenters for $650M](https://www.theregister.com/2024/03/04/amazon_acquires_cumulus_nuclear_datacenter/)
+- [International Date Line](https://en.wikipedia.org/wiki/International_Date_Line)
+- [The only way out is in, embracing the mid curve](https://blog.teji.io/midwit)
+- [SQL looks like English is a well intentioned error](https://github.com/SPLWare/esProc/wiki/SQL-looks-like-English-is-a-well-intentioned-error)
+- [Untangle: Solving Problems with Fuzzy Constraints](https://www.inkandswitch.com/untangle/)
+- [9000 Striking Korean doctors face license suspensions and prosecution](https://abcnews.go.com/Health/wireStory/thousands-korean-doctors-face-license-suspensions-seoul-moves-107798201)
+- [Why are all proteins left-handed? New theory could solve origin of life mystery](https://www.science.org/content/article/why-are-all-proteins-left-handed-new-theory-could-solve-origin-of-life-mystery)
+- [FTC to Host Annual PrivacyCon Event Virtually on March 6](https://www.ftc.gov/news-events/news/press-releases/2024/03/ftc-host-annual-privacycon-event-virtually-march-6)
+- [Donald Trump, Seeking Cash Infusion, Meets with Elon Musk](https://www.nytimes.com/2024/03/05/us/politics/trump-elon-musk.html)
+- [Impossibility of a Gambling System](https://en.wikipedia.org/wiki/Impossibility_of_a_gambling_system)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

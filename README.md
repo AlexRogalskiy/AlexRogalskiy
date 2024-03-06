@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Researchers, legal experts want AI firms to open up for safety checks](https://www.computerworld.com/article/3714180/researchers-legal-experts-want-ai-firms-to-open-up-for-safety-checks.html#tk.rss_all)
+- [Meta services begin recovering from major disruption](https://www.computerworld.com/article/3713465/meta-services-begin-recovering-from-major-disruption.html#tk.rss_all)
+- [The MacBook Air — better for business?](https://www.computerworld.com/article/3713464/the-macbook-air-better-for-business.html#tk.rss_all)
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [Q&amp;A: GitHub COO on how genAI makes devs more efficient &lpar;and can automate the helpdesk&rpar;](https://www.computerworld.com/article/3713381/qa-github-coo-on-how-ai-makes-devs-more-efficient-and-it-helpdesk-automation.html#tk.rss_all)
 - [Anthropic gives its flagship generative AI models a facelift](https://www.computerworld.com/article/3713463/anthropic-gives-its-flagship-generative-ai-models-a-facelift.html#tk.rss_all)
 - [Spotify wants something for nothing, Apple claims after big EU fine](https://www.computerworld.com/article/3713205/spotify-wants-something-for-nothing-apple-claims-after-big-eu-fine.html#tk.rss_all)
 - [Heads on: Apple’s Vision Pro delivers a glimpse of the future](https://www.computerworld.com/article/3713307/heads-on-apples-vision-pro-delivers-a-glimpse-of-the-future.html#tk.rss_all)
 - [EC to grill Meta on Facebook ‘subscription for no ads’ plan](https://www.computerworld.com/article/3713382/ec-to-grill-meta-on-facebook-subscription-for-no-ads-plan.html#tk.rss_all)
 - [Return-to-office initiatives or stealth layoffs? Why not both?](https://www.computerworld.com/article/3713361/return-to-office-initiatives-or-stealth-layoffs-why-not-both.html#tk.rss_all)
-- [Apple warns of increased iPhone security risks](https://www.computerworld.com/article/3713189/apple-warns-of-increased-iphone-security-risks.html#tk.rss_all)
-- [Microsoft unveils new AI tools for Windows 11](https://www.computerworld.com/article/3713360/microsoft-unveils-new-ai-tools-for-windows-11.html#tk.rss_all)
-- [Google Workspace tips and tutorials](https://www.computerworld.com/article/3704811/how-to-use-google-workspace-tips-tutorials-cheat-sheets.html#tk.rss_all)
-- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
-- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

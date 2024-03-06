@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine war briefing: send Taurus missiles like we sent Storm Shadow, UK tells Germany](https://www.theguardian.com/world/2024/mar/05/ukraine-russia-war-briefing-taurus-missiles-germany)
-- [John Higgins comes up short in pursuit of ‘golden ball’ 167 break in Saudi Arabia](https://www.theguardian.com/sport/2024/mar/05/john-higgins-golden-ball-attempt-snooker-world-masters)
-- [Mortgage reforms have excluded first-time buyers, say UK building societies](https://www.theguardian.com/business/2024/mar/05/mortgage-reforms-have-excluded-first-time-buyers-say-uk-building-societies)
-- [Vegan products not always safe for people with dairy allergy, watchdog says](https://www.theguardian.com/society/2024/mar/05/vegan-products-not-always-safe-for-people-with-dairy-allergy-watchdog-says)
-- [Cancer warning after big rise in people smoking pipes, shisha and cigars in UK](https://www.theguardian.com/society/2024/mar/05/fivefold-rise-in-uk-users-of-non-cigarette-tobacco-pipes-shisha-cigars)
-- [MPs want more women’s football boots to be made and sold amid ACL injuries](https://www.theguardian.com/football/2024/mar/05/mps-want-more-womens-football-boots-to-be-made-and-sold-amid-acl-injuries)
-- [UK retail sales dampened as shoppers stay home in wet weather](https://www.theguardian.com/business/2024/mar/05/uk-retail-sales-shops-pubs-restaurants-february)
-- [TV tonight: Julianne Moore’s ribald romp in the 17th-century royal court](https://www.theguardian.com/tv-and-radio/2024/mar/05/tv-tonight-julianne-moores-ribald-romp-in-the-17th-century-royal-court)
-- [Colorado moves to change law after 190 bodies found decaying in funeral home](https://www.theguardian.com/us-news/2024/mar/04/colorado-funeral-home-law)
-- [London music venue Brixton Academy to reopen with Nirvana and Smiths tribute acts](https://www.theguardian.com/music/2024/mar/04/london-music-venue-brixton-academy-to-reopen-with-nirvana-and-smiths-tribute-acts)
+- [Super Tuesday live election updates: Biden and Trump sweep states that have declared so far](https://www.theguardian.com/us-news/live/2024/mar/05/super-tuesday-primary-election-trump-haley-biden-latest-updates)
+- [‘Hypervaccinated’ man reportedly received 217 Covid jabs without side-effects](https://www.theguardian.com/society/2024/mar/06/hypervaccinated-man-217-covid-jabs-no-side-effects-germany)
+- [Ukraine war briefing: Macron says don’t be ‘cowards’ as he digs in over ground troops remark](https://www.theguardian.com/world/2024/mar/06/ukraine-war-briefing-macron-says-dont-be-cowards-as-he-digs-in-over-ground-troop-s)
+- [The Māori climate activist breaking legal barriers to bring corporate giants to court](https://www.theguardian.com/world/2024/mar/06/mike-smith-maori-climate-activist-right-to-sue-companies)
+- [MH370: one of aviation’s biggest mysteries remains unsolved 10 years on](https://www.theguardian.com/world/2024/mar/06/mh370-anniversary-10-years-malaysia-airlines-flight-plane-search-mystery-unsolved)
+- [Taiwan’s deputy foreign minister heads to Tuvalu to cement ties with Pacific ally](https://www.theguardian.com/world/2024/mar/06/taiwan-minister-tien-chung-kwang-tuvalu-visit)
+- [Years of delays to rape trials a ‘significant injustice’, says judge](https://www.theguardian.com/society/2024/mar/06/years-of-delays-to-trials-a-significant-injustice-says-judge)
+- [Ban on Calvin Klein’s FKA twigs ad revoked after ASA climbdown](https://www.theguardian.com/music/2024/mar/06/ban-on-calvin-klein-fka-twigs-ad-revoked-after-asa-climbdown)
+- [Three decades of the English steam engine scene – in pictures](https://www.theguardian.com/artanddesign/gallery/2024/mar/06/three-decades-of-the-english-steam-engine-scene-in-pictures)
+- [EU group backed by von der Leyen plans Rwanda-style migration reforms](https://www.theguardian.com/world/2024/mar/06/eu-group-european-peoples-party-von-der-leyen-migration-reforms)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

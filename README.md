@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Amazon goes nuclear, acquires Cumulus Data&#39;s atomic datacenters for $650M](https://www.theregister.com/2024/03/04/amazon_acquires_cumulus_nuclear_datacenter/)
-- [International Date Line](https://en.wikipedia.org/wiki/International_Date_Line)
-- [The only way out is in, embracing the mid curve](https://blog.teji.io/midwit)
-- [SQL looks like English is a well intentioned error](https://github.com/SPLWare/esProc/wiki/SQL-looks-like-English-is-a-well-intentioned-error)
-- [Untangle: Solving Problems with Fuzzy Constraints](https://www.inkandswitch.com/untangle/)
-- [9000 Striking Korean doctors face license suspensions and prosecution](https://abcnews.go.com/Health/wireStory/thousands-korean-doctors-face-license-suspensions-seoul-moves-107798201)
-- [Why are all proteins left-handed? New theory could solve origin of life mystery](https://www.science.org/content/article/why-are-all-proteins-left-handed-new-theory-could-solve-origin-of-life-mystery)
-- [FTC to Host Annual PrivacyCon Event Virtually on March 6](https://www.ftc.gov/news-events/news/press-releases/2024/03/ftc-host-annual-privacycon-event-virtually-march-6)
-- [Donald Trump, Seeking Cash Infusion, Meets with Elon Musk](https://www.nytimes.com/2024/03/05/us/politics/trump-elon-musk.html)
-- [Impossibility of a Gambling System](https://en.wikipedia.org/wiki/Impossibility_of_a_gambling_system)
+- [Show HN: Free Gantt Chart No Sign Up No Log In](https://repsona.com/lp/free-gantt)
+- [Engineers collaborate with ChatGPT4 to design brain-inspired chips](https://techxplore.com/news/2024-03-collaborate-chatgpt4-brain-chips.html)
+- [The Dark Side of Open Source AI Image Generators](https://www.wired.com/story/dark-side-open-source-ai-image-generators/)
+- [In Mongolia, a Killer Winter Is Ravaging Herds and a Way of Life](https://e360.yale.edu/features/mongolia-dzud-climate-change)
+- [No equality for working women in any country in the world, study reveals](https://www.theguardian.com/global-development/2024/mar/05/no-equality-for-working-women-in-any-country-in-the-world-study-reveals-world-bank-gender-gap)
+- [Microplastics and Nanoplastics in Atheromas and Cardiovascular Events](https://www.nejm.org/doi/10.1056/NEJMoa2309822)
+- [Adding Systemd to PostmarketOS](https://lwn.net/Articles/964574/)
+- [Overlooked No More: Cordell Jackson, Elder Stateswoman of Rock &#39;N&#39; Roll](https://www.nytimes.com/2024/01/06/obituaries/cordell-jackson-overlooked.html)
+- [Sandboxing Python with Win32 App Isolation](https://blogs.windows.com/windowsdeveloper/2024/03/06/sandboxing-python-with-win32-app-isolation/)
+- [Matryoshka Representation Learning &lpar;MRL&rpar; from the Ground Up](https://aniketrege.github.io/blog/2024/mrl/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

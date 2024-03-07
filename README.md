@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Super Tuesday live election updates: Biden and Trump sweep states that have declared so far](https://www.theguardian.com/us-news/live/2024/mar/05/super-tuesday-primary-election-trump-haley-biden-latest-updates)
-- [‘Hypervaccinated’ man reportedly received 217 Covid jabs without side-effects](https://www.theguardian.com/society/2024/mar/06/hypervaccinated-man-217-covid-jabs-no-side-effects-germany)
-- [Ukraine war briefing: Macron says don’t be ‘cowards’ as he digs in over ground troops remark](https://www.theguardian.com/world/2024/mar/06/ukraine-war-briefing-macron-says-dont-be-cowards-as-he-digs-in-over-ground-troop-s)
-- [The Māori climate activist breaking legal barriers to bring corporate giants to court](https://www.theguardian.com/world/2024/mar/06/mike-smith-maori-climate-activist-right-to-sue-companies)
-- [MH370: one of aviation’s biggest mysteries remains unsolved 10 years on](https://www.theguardian.com/world/2024/mar/06/mh370-anniversary-10-years-malaysia-airlines-flight-plane-search-mystery-unsolved)
-- [Taiwan’s deputy foreign minister heads to Tuvalu to cement ties with Pacific ally](https://www.theguardian.com/world/2024/mar/06/taiwan-minister-tien-chung-kwang-tuvalu-visit)
-- [Years of delays to rape trials a ‘significant injustice’, says judge](https://www.theguardian.com/society/2024/mar/06/years-of-delays-to-trials-a-significant-injustice-says-judge)
-- [Ban on Calvin Klein’s FKA twigs ad revoked after ASA climbdown](https://www.theguardian.com/music/2024/mar/06/ban-on-calvin-klein-fka-twigs-ad-revoked-after-asa-climbdown)
-- [Three decades of the English steam engine scene – in pictures](https://www.theguardian.com/artanddesign/gallery/2024/mar/06/three-decades-of-the-english-steam-engine-scene-in-pictures)
-- [EU group backed by von der Leyen plans Rwanda-style migration reforms](https://www.theguardian.com/world/2024/mar/06/eu-group-european-peoples-party-von-der-leyen-migration-reforms)
+- [Zoom meetings and beach clean-ups: how unknown Jason Palmer beat Biden in the American Samoa primary](https://www.theguardian.com/us-news/2024/mar/07/jason-palmer-american-samoa-primary-joe-biden)
+- [Ukraine war briefing: forces rebuilding for counter-offensives, says Ukrainian general](https://www.theguardian.com/world/2024/mar/07/ukraine-war-briefing-forces-rebuilding-for-counter-offensives-says-ukrainian-general)
+- [‘Big bullies’: Maldives turns away from India as calculating China woos it with aid](https://www.theguardian.com/world/2024/mar/07/big-bullies-maldives-turns-away-from-india-as-calculating-china-woos-it-with-aid)
+- [The extraordinary case of the Queensland councillor seeking re-election while fighting a murder charge](https://www.theguardian.com/australia-news/2024/mar/07/ryan-bayldon-lumsden-murder-charge-runaway-bay-gold-coast)
+- [Nye review – Michael Sheen looks back at the difficult birth of the NHS](https://www.theguardian.com/stage/2024/mar/07/nye-review-michael-sheen-olivier-theatre)
+- [Katie Boulter out of Indian Wells after lacklustre defeat by Camila Giorgi](https://www.theguardian.com/sport/2024/mar/06/katie-boulter-out-of-indian-wells-after-lacklustre-defeat-bycamila-giorgi)
+- [Rust armorer found guilty of involuntary manslaughter over fatal film set shooting](https://www.theguardian.com/us-news/2024/mar/06/rust-shooting-hannah-gutierrez-reed-verdict)
+- [Jim Beard, keyboardist for Steely Dan, dies aged 63](https://www.theguardian.com/music/2024/mar/06/jim-beard-death-steely-dan-keyboardist)
+- [Three sailors dead after Houthis strike ship in Gulf of Aden, US says](https://www.theguardian.com/world/2024/mar/06/houthis-strike-ship-in-gulf-of-aden-yemen)
+- [Russian missiles strike near Zelenskiy and visiting Greek prime minister](https://www.theguardian.com/world/2024/mar/06/russian-missiles-strike-near-zelenskiy-and-visiting-greek-prime-minister)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

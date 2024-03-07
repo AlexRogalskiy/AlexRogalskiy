@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [EU Fines Apple $1.8B](https://www.theguardian.com/business/2024/mar/04/eu-fines-apple-18bn-over-app-store-restrictions-on-music-streaming)
-- [Claude 3 Opus reinvented this quantum algorithm from scratch in just 2 prompts](https://twitter.com/GillVerd/status/1764901418664882327)
-- [Embedded Swift on the Raspberry Pi Pico](https://forums.swift.org/t/embedded-swift-on-the-raspberry-pi-pico-rp2040-without-the-pico-sdk/69338)
-- [Accenture to Acquire Udacity](https://techcrunch.com/2024/03/05/accenture-to-acquire-udacity-to-build-a-learning-platform-focused-on-ai/)
-- [BlackCat Ransomware Group Implodes After Apparent $22M Payment by Change Health](https://krebsonsecurity.com/2024/03/blackcat-ransomware-group-implodes-after-apparent-22m-ransom-payment-by-change-healthcare/)
-- [European court favors strong encryption, calling it key to privacy rights](https://www.washingtonpost.com/technology/2024/03/05/encryption-eu-human-rights-privacy-ruling/)
-- [Ace of Aces: or, why you should Do Maths as a game designer](https://paxsims.wordpress.com/2024/03/02/ace-of-aces-or-why-you-should-do-maths-as-a-game-designer/)
-- [Cracking Meta&#39;s Messenger Certificate Pinning on macOS](https://texts.blog/2024/02/20/cracking-metas-messenger-certificate-pinning-on-macos/)
-- [New Federal Rule Caps Credit Card Late Fees at $8](https://www.nytimes.com/2024/03/05/business/credit-card-late-fees.html)
-- [JEDEC publishes GDDR7 graphics memory standard](https://www.jedec.org/news/pressreleases/jedec-publishes-gddr7-graphics-memory-standard)
+- [PFAS &#39;forever chemicals&#39; to officially be removed from food packaging, FDA says](https://www.livescience.com/health/food-diet/pfas-forever-chemicals-to-officially-be-removed-from-food-packaging-fda-says)
+- [Minuteman Weapons System History [pdf]](https://minutemanmissile.com/documents/MinutemanWeaponSystemHistoryAndDescription.pdf)
+- [NTSB says Boeing is withholding key details about door plug on Alaska 737 MAX 9](https://www.npr.org/2024/03/06/1236277058/boeing-737-max-9-alaska-airlines-door-plug-removed-ntsb-commerce-cantwell-cruz)
+- [Show HN: Known – Semi-smart plant labels](https://www.knownplants.com/)
+- [The Art and History of Lettering Comics](https://kleinletters.com/Blog/the-art-and-history-of-lettering-comics/)
+- [Show HN: Elodin – A better framework for physics simulation](https://github.com/elodin-sys/elodin)
+- [Eqtble &lpar;YC W21&rpar; is hiring a founding account executive](https://app.dover.io/apply/8dad4c3d-075e-4164-9a75-6e8f4f9f9902/8d97d6d2-d770-478b-93f3-113431385411/?rs=15190316)
+- [Show HN: Tech jobs on the command line](https://github.com/nicobrenner/commandjobs)
+- [We hacked Google A.I.](https://www.landh.tech/blog/20240304-google-hack-50000/)
+- [Show HN: dockerc – Docker image to static executable &quot;compiler&quot;](https://github.com/NilsIrl/dockerc)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Sam Altman’s pledges about AI responsibility don’t mean much — experts](https://www.computerworld.com/article/3714261/sam-altmans-pledges-about-ai-responsibility-dont-mean-much-experts.html#tk.rss_all)
+- [OpenAI: Musk&#39;s control issues at heart of ongoing rift](https://www.computerworld.com/article/3714164/openai-musks-control-issues-at-heart-of-ongoing-rift.html#tk.rss_all)
+- [What is FinanceKit in iOS 17.4?](https://www.computerworld.com/article/3714141/what-is-financekit-in-ios-174.html#tk.rss_all)
+- [Microsoft debuts Copilot for finance pros](https://www.computerworld.com/article/3714142/microsoft-debuts-copilot-for-finance-pros.html#tk.rss_all)
+- [Windows 11’s new approach to troubleshooting](https://www.computerworld.com/article/3712711/windows-11-troubleshooting-get-help-app.html#tk.rss_all)
+- [How to control your Android phone with your face](https://www.computerworld.com/article/3629498/android-phone-face-control.html#tk.rss_all)
 - [Researchers, legal experts want AI firms to open up for safety checks](https://www.computerworld.com/article/3714180/researchers-legal-experts-want-ai-firms-to-open-up-for-safety-checks.html#tk.rss_all)
 - [Meta services begin recovering from major disruption](https://www.computerworld.com/article/3713465/meta-services-begin-recovering-from-major-disruption.html#tk.rss_all)
 - [The MacBook Air — better for business?](https://www.computerworld.com/article/3713464/the-macbook-air-better-for-business.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [Q&amp;A: GitHub COO on how genAI makes devs more efficient &lpar;and can automate the helpdesk&rpar;](https://www.computerworld.com/article/3713381/qa-github-coo-on-how-ai-makes-devs-more-efficient-and-it-helpdesk-automation.html#tk.rss_all)
-- [Anthropic gives its flagship generative AI models a facelift](https://www.computerworld.com/article/3713463/anthropic-gives-its-flagship-generative-ai-models-a-facelift.html#tk.rss_all)
-- [Spotify wants something for nothing, Apple claims after big EU fine](https://www.computerworld.com/article/3713205/spotify-wants-something-for-nothing-apple-claims-after-big-eu-fine.html#tk.rss_all)
-- [Heads on: Apple’s Vision Pro delivers a glimpse of the future](https://www.computerworld.com/article/3713307/heads-on-apples-vision-pro-delivers-a-glimpse-of-the-future.html#tk.rss_all)
-- [EC to grill Meta on Facebook ‘subscription for no ads’ plan](https://www.computerworld.com/article/3713382/ec-to-grill-meta-on-facebook-subscription-for-no-ads-plan.html#tk.rss_all)
-- [Return-to-office initiatives or stealth layoffs? Why not both?](https://www.computerworld.com/article/3713361/return-to-office-initiatives-or-stealth-layoffs-why-not-both.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

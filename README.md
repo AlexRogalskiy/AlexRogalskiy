@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [PFAS &#39;forever chemicals&#39; to officially be removed from food packaging, FDA says](https://www.livescience.com/health/food-diet/pfas-forever-chemicals-to-officially-be-removed-from-food-packaging-fda-says)
-- [Minuteman Weapons System History [pdf]](https://minutemanmissile.com/documents/MinutemanWeaponSystemHistoryAndDescription.pdf)
-- [NTSB says Boeing is withholding key details about door plug on Alaska 737 MAX 9](https://www.npr.org/2024/03/06/1236277058/boeing-737-max-9-alaska-airlines-door-plug-removed-ntsb-commerce-cantwell-cruz)
-- [Show HN: Known – Semi-smart plant labels](https://www.knownplants.com/)
-- [The Art and History of Lettering Comics](https://kleinletters.com/Blog/the-art-and-history-of-lettering-comics/)
-- [Show HN: Elodin – A better framework for physics simulation](https://github.com/elodin-sys/elodin)
-- [Eqtble &lpar;YC W21&rpar; is hiring a founding account executive](https://app.dover.io/apply/8dad4c3d-075e-4164-9a75-6e8f4f9f9902/8d97d6d2-d770-478b-93f3-113431385411/?rs=15190316)
-- [Show HN: Tech jobs on the command line](https://github.com/nicobrenner/commandjobs)
-- [We hacked Google A.I.](https://www.landh.tech/blog/20240304-google-hack-50000/)
-- [Show HN: dockerc – Docker image to static executable &quot;compiler&quot;](https://github.com/NilsIrl/dockerc)
+- [&quot;No way to prevent this&quot; say users of only language where this regularly happens](https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2024-22252/)
+- [Reentry of International Space Station Batteries into Earth&#39;s Atmosphere](https://www.esa.int/Space_Safety/Space_Debris/Reentry_of_International_Space_Station_ISS_batteries_into_Earth_s_atmosphere)
+- [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring a Systems Engineer](https://news.ycombinator.com/item?id=39636569)
+- [Don&#39;t Fuck with Paste](https://github.com/aaronraimist/DontFuckWithPaste)
+- [Show HN: Manta – A tool for FPGA Debugging and Rapid Prototyping](https://fischermoseley.github.io/manta/)
+- [Metro Stations and Transfers](http://stations.albertguillaumes.cat/)
+- [Inflection-2.5: meet the best personal AI](https://inflection.ai/inflection-2-5)
+- [How to become a pirate archivist &lpar;2022&rpar;](https://annas-blog.org/blog-how-to-become-a-pirate-archivist.html)
+- [Grats: A More Pleasant Way to Build TypeScript GraphQL Servers](https://jordaneldredge.com/blog/grats/)
+- [The Life and Death of the Bulbdial Clock](https://ironicsans.beehiiv.com/p/life-death-bulbdial-clock)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

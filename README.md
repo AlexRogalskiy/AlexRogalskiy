@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Zoom meetings and beach clean-ups: how unknown Jason Palmer beat Biden in the American Samoa primary](https://www.theguardian.com/us-news/2024/mar/07/jason-palmer-american-samoa-primary-joe-biden)
-- [Ukraine war briefing: forces rebuilding for counter-offensives, says Ukrainian general](https://www.theguardian.com/world/2024/mar/07/ukraine-war-briefing-forces-rebuilding-for-counter-offensives-says-ukrainian-general)
-- [‘Big bullies’: Maldives turns away from India as calculating China woos it with aid](https://www.theguardian.com/world/2024/mar/07/big-bullies-maldives-turns-away-from-india-as-calculating-china-woos-it-with-aid)
-- [The extraordinary case of the Queensland councillor seeking re-election while fighting a murder charge](https://www.theguardian.com/australia-news/2024/mar/07/ryan-bayldon-lumsden-murder-charge-runaway-bay-gold-coast)
-- [Nye review – Michael Sheen looks back at the difficult birth of the NHS](https://www.theguardian.com/stage/2024/mar/07/nye-review-michael-sheen-olivier-theatre)
-- [Katie Boulter out of Indian Wells after lacklustre defeat by Camila Giorgi](https://www.theguardian.com/sport/2024/mar/06/katie-boulter-out-of-indian-wells-after-lacklustre-defeat-bycamila-giorgi)
-- [Rust armorer found guilty of involuntary manslaughter over fatal film set shooting](https://www.theguardian.com/us-news/2024/mar/06/rust-shooting-hannah-gutierrez-reed-verdict)
-- [Jim Beard, keyboardist for Steely Dan, dies aged 63](https://www.theguardian.com/music/2024/mar/06/jim-beard-death-steely-dan-keyboardist)
-- [Three sailors dead after Houthis strike ship in Gulf of Aden, US says](https://www.theguardian.com/world/2024/mar/06/houthis-strike-ship-in-gulf-of-aden-yemen)
-- [Russian missiles strike near Zelenskiy and visiting Greek prime minister](https://www.theguardian.com/world/2024/mar/06/russian-missiles-strike-near-zelenskiy-and-visiting-greek-prime-minister)
+- [New Zealand v Australia: second Test, day one – live](https://www.theguardian.com/sport/live/2024/mar/08/new-zealand-vs-australia-cricket-second-test-day-one-live-updates-scores-results-start-time-squads-hagley-oval-christchurch)
+- [State of the Union address live: Biden to mention reproductive rights and Gaza but ignore Trump](https://www.theguardian.com/us-news/live/2024/mar/07/biden-state-of-the-union-updates)
+- [Ukraine war briefing: respite for conscripts as Zelenskiy signs discharge decree](https://www.theguardian.com/world/2024/mar/08/ukraine-war-briefing-respite-for-conscripts-as-zelenskiy-signs-discharge-decree)
+- [Uvalde parents furious as report into attack that killed 22 absolves police](https://www.theguardian.com/us-news/2024/mar/07/uvalde-police-failures-school-shooting-investigation)
+- [‘Who is going to distribute it?’: the key flaw in US’s plan to build aid port in Gaza](https://www.theguardian.com/world/2024/mar/07/gaza-floating-port-aid-palestinians-impact)
+- [The MH370 families seeking closure, justice and a fresh search](https://www.theguardian.com/world/2024/mar/08/the-mh370-families-seeking-closure-justice-and-a-fresh-search)
+- [Government failing targets to fix UK railway system, watchdog reports](https://www.theguardian.com/uk-news/2024/mar/08/government-failing-targets-to-fix-uk-railway-system-watchdog-reports)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2024/mar/08/premier-league-10-things-to-look-out-for-this-weekend)
+- [You be the judge: should my best friend get a dog when he works such long hours?](https://www.theguardian.com/lifeandstyle/2024/mar/08/you-be-the-judge-should-my-best-friend-get-a-dog-when-he-works-such-long-hours)
+- [Judge denies Trump request to delay $83.3m E Jean Carroll payment](https://www.theguardian.com/us-news/2024/mar/07/judge-denies-trump-payment-delay-e-jean-carroll)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

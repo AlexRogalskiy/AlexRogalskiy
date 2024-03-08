@@ -355,6 +355,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Why should Apple trust Epic Games?](https://www.computerworld.com/article/3714264/why-should-apple-trust-epic-games.html#tk.rss_all)
+- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
+- [How IBM is using Adobe Firefly to reshape design](https://www.computerworld.com/article/3714200/how-ibm-is-using-adobe-firefly-to-reshape-design.html#tk.rss_all)
 - [Sam Altman’s pledges about AI responsibility don’t mean much — experts](https://www.computerworld.com/article/3714261/sam-altmans-pledges-about-ai-responsibility-dont-mean-much-experts.html#tk.rss_all)
 - [OpenAI: Musk&#39;s control issues at heart of ongoing rift](https://www.computerworld.com/article/3714164/openai-musks-control-issues-at-heart-of-ongoing-rift.html#tk.rss_all)
 - [What is FinanceKit in iOS 17.4?](https://www.computerworld.com/article/3714141/what-is-financekit-in-ios-174.html#tk.rss_all)
@@ -362,9 +365,6 @@
 - [Windows 11’s new approach to troubleshooting](https://www.computerworld.com/article/3712711/windows-11-troubleshooting-get-help-app.html#tk.rss_all)
 - [How to control your Android phone with your face](https://www.computerworld.com/article/3629498/android-phone-face-control.html#tk.rss_all)
 - [Researchers, legal experts want AI firms to open up for safety checks](https://www.computerworld.com/article/3714180/researchers-legal-experts-want-ai-firms-to-open-up-for-safety-checks.html#tk.rss_all)
-- [Meta services begin recovering from major disruption](https://www.computerworld.com/article/3713465/meta-services-begin-recovering-from-major-disruption.html#tk.rss_all)
-- [The MacBook Air — better for business?](https://www.computerworld.com/article/3713464/the-macbook-air-better-for-business.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

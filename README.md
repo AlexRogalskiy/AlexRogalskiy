@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: Free Gantt Chart No Sign Up No Log In](https://repsona.com/lp/free-gantt)
-- [Engineers collaborate with ChatGPT4 to design brain-inspired chips](https://techxplore.com/news/2024-03-collaborate-chatgpt4-brain-chips.html)
-- [The Dark Side of Open Source AI Image Generators](https://www.wired.com/story/dark-side-open-source-ai-image-generators/)
-- [In Mongolia, a Killer Winter Is Ravaging Herds and a Way of Life](https://e360.yale.edu/features/mongolia-dzud-climate-change)
-- [No equality for working women in any country in the world, study reveals](https://www.theguardian.com/global-development/2024/mar/05/no-equality-for-working-women-in-any-country-in-the-world-study-reveals-world-bank-gender-gap)
-- [Microplastics and Nanoplastics in Atheromas and Cardiovascular Events](https://www.nejm.org/doi/10.1056/NEJMoa2309822)
-- [Adding Systemd to PostmarketOS](https://lwn.net/Articles/964574/)
-- [Overlooked No More: Cordell Jackson, Elder Stateswoman of Rock &#39;N&#39; Roll](https://www.nytimes.com/2024/01/06/obituaries/cordell-jackson-overlooked.html)
-- [Sandboxing Python with Win32 App Isolation](https://blogs.windows.com/windowsdeveloper/2024/03/06/sandboxing-python-with-win32-app-isolation/)
-- [Matryoshka Representation Learning &lpar;MRL&rpar; from the Ground Up](https://aniketrege.github.io/blog/2024/mrl/)
+- [&quot;No way to prevent this&quot; say users of only language where this regularly happens](https://xeiaso.net//shitposts/no-way-to-prevent-this/CVE-2024-22252/)
+- [Reentry of International Space Station Batteries into Earth&#39;s Atmosphere](https://www.esa.int/Space_Safety/Space_Debris/Reentry_of_International_Space_Station_ISS_batteries_into_Earth_s_atmosphere)
+- [Coffee-Making Myths That Might Be Holding You Back](https://www.wsj.com/tech/personal-tech/coffee-making-myths-that-might-be-holding-you-back-e16ea91c)
+- [The Fediverse Is Really Happening](https://werd.io/2024/the-fediverse-is-really-happening)
+- [Managing Lockheed&#39;s Skunk Works](https://www.freaktakes.com/p/managing-lockheeds-skunk-works)
+- [Live Coverage of the State of the Union](https://www.forth.news/threads/65ea51a890bf25abfbbe8bd2)
+- [Diátaxis](https://diataxis.fr)
+- [A year in the life of a Playdate game developer](https://blog.gingerbeardman.com/2024/03/07/a-year-in-the-life-of-a-playdate-game-developer/)
+- [Mojo CSS: Atomic framework for building UIs without shipping CSS](https://mojocss.com/)
+- [ClickHouse and the One Trillion Row Challenge](https://clickhouse.com/blog/clickhouse-1-trillion-row-challenge)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [&quot;No way to prevent this&quot; say users of only language where this regularly happens](https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2024-22252/)
-- [Reentry of International Space Station Batteries into Earth&#39;s Atmosphere](https://www.esa.int/Space_Safety/Space_Debris/Reentry_of_International_Space_Station_ISS_batteries_into_Earth_s_atmosphere)
-- [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring a Systems Engineer](https://news.ycombinator.com/item?id=39636569)
-- [Don&#39;t Fuck with Paste](https://github.com/aaronraimist/DontFuckWithPaste)
-- [Show HN: Manta – A tool for FPGA Debugging and Rapid Prototyping](https://fischermoseley.github.io/manta/)
-- [Metro Stations and Transfers](http://stations.albertguillaumes.cat/)
-- [Inflection-2.5: meet the best personal AI](https://inflection.ai/inflection-2-5)
-- [How to become a pirate archivist &lpar;2022&rpar;](https://annas-blog.org/blog-how-to-become-a-pirate-archivist.html)
-- [Grats: A More Pleasant Way to Build TypeScript GraphQL Servers](https://jordaneldredge.com/blog/grats/)
-- [The Life and Death of the Bulbdial Clock](https://ironicsans.beehiiv.com/p/life-death-bulbdial-clock)
+- [Apple will cut off 3rd-party appstore updates if iPhone is not in EU for a month](https://www.theverge.com/2024/3/7/24093437/apple-iphone-third-party-app-store-dma-eu)
+- [Motorola&#39;s legal terms claim to strip owners of their right to sell their device](https://en-us.support.motorola.com/app/standalone/bootloader/unlock-your-device-a)
+- [Tesla starts shipping $3k Cybertruck tent, looks nothing like what was unveiled](https://electrek.co/2024/03/08/tesla-shipping-cybertruck-tent/)
+- [A simple dice game shines a bit of light on the psychology of regret](https://thereader.mitpress.mit.edu/how-fear-of-regret-influences-our-decisions/)
+- [Tests show high-temperature superconducting magnets are ready for fusion](https://news.mit.edu/2024/tests-show-high-temperature-superconducting-magnets-fusion-ready-0304)
+- [Show HN: My AI writing assistant for Chinese](https://unscrambler.dpw.me/)
+- [OpenAI board reappoints Altman and adds three other directors](https://www.reuters.com/technology/sam-altman-return-openais-board-information-reports-2024-03-08/)
+- [Coroutines in JavaScript for web components](https://lorenzofox.dev/posts/component-as-infinite-loop/)
+- [Finley &lpar;YC W21&rpar; is hiring capital markets technologists](https://www.finleycms.com/careers/)
+- [Epic says Apple will reinstate developer account](https://9to5mac.com/2024/03/08/epic-says-apple-will-reinstate-developer-account-clearing-path-for-epic-games-store-on-iphone/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

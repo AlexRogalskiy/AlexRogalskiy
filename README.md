@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [&quot;No way to prevent this&quot; say users of only language where this regularly happens](https://xeiaso.net//shitposts/no-way-to-prevent-this/CVE-2024-22252/)
-- [Reentry of International Space Station Batteries into Earth&#39;s Atmosphere](https://www.esa.int/Space_Safety/Space_Debris/Reentry_of_International_Space_Station_ISS_batteries_into_Earth_s_atmosphere)
-- [Coffee-Making Myths That Might Be Holding You Back](https://www.wsj.com/tech/personal-tech/coffee-making-myths-that-might-be-holding-you-back-e16ea91c)
-- [The Fediverse Is Really Happening](https://werd.io/2024/the-fediverse-is-really-happening)
-- [Managing Lockheed&#39;s Skunk Works](https://www.freaktakes.com/p/managing-lockheeds-skunk-works)
-- [Live Coverage of the State of the Union](https://www.forth.news/threads/65ea51a890bf25abfbbe8bd2)
-- [Diátaxis](https://diataxis.fr)
-- [A year in the life of a Playdate game developer](https://blog.gingerbeardman.com/2024/03/07/a-year-in-the-life-of-a-playdate-game-developer/)
-- [Mojo CSS: Atomic framework for building UIs without shipping CSS](https://mojocss.com/)
-- [ClickHouse and the One Trillion Row Challenge](https://clickhouse.com/blog/clickhouse-1-trillion-row-challenge)
+- [Show HN: Memzy Remote Memory Caching for Node.js](https://memzy.sh/)
+- [No Censorship Bookstore Lasted Just Three Days](https://jonathanturley.org/2024/03/08/banning-books-is-never-the-answer-rupauls-no-censorship-bookstore-last-just-three-days/)
+- [How the Atomic Bomb Set Brothers Robert and Frank Oppenheimer on Diverging Paths](https://www.smithsonianmag.com/science-nature/how-the-atomic-bomb-set-brothers-robert-and-frank-oppenheimer-on-diverging-paths-180983899/)
+- [Building an Information Retrieval System with One Large Language Model](https://arxiv.org/abs/2403.00801)
+- [Y Combinators &#39;Boom Loop&#39;](https://www.forbes.com/sites/alexkonrad/2024/03/08/inside-garry-tan-plan-restore-y-combinator-silicon-valley-glory/)
+- [The Existential Relief of Having Children](https://thelivingfossils.substack.com/p/the-existential-relief-of-having)
+- [CHIPS Act Stalling?](https://thehill.com/opinion/4517470-dei-killed-the-chips-act/)
+- [What Happened to Gentopia?](https://news.ycombinator.com/item?id=39648644)
+- [How Head Works in Git](https://jvns.ca/blog/2024/03/08/how-head-works-in-git/)
+- [A Platform for Value Investing to Empower Innovators and Investors](https://www.platvix.com)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

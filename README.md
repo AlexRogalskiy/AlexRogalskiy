@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [New Zealand v Australia: second Test, day one – live](https://www.theguardian.com/sport/live/2024/mar/08/new-zealand-vs-australia-cricket-second-test-day-one-live-updates-scores-results-start-time-squads-hagley-oval-christchurch)
-- [State of the Union address live: Biden to mention reproductive rights and Gaza but ignore Trump](https://www.theguardian.com/us-news/live/2024/mar/07/biden-state-of-the-union-updates)
-- [Ukraine war briefing: respite for conscripts as Zelenskiy signs discharge decree](https://www.theguardian.com/world/2024/mar/08/ukraine-war-briefing-respite-for-conscripts-as-zelenskiy-signs-discharge-decree)
-- [Uvalde parents furious as report into attack that killed 22 absolves police](https://www.theguardian.com/us-news/2024/mar/07/uvalde-police-failures-school-shooting-investigation)
-- [‘Who is going to distribute it?’: the key flaw in US’s plan to build aid port in Gaza](https://www.theguardian.com/world/2024/mar/07/gaza-floating-port-aid-palestinians-impact)
-- [The MH370 families seeking closure, justice and a fresh search](https://www.theguardian.com/world/2024/mar/08/the-mh370-families-seeking-closure-justice-and-a-fresh-search)
-- [Government failing targets to fix UK railway system, watchdog reports](https://www.theguardian.com/uk-news/2024/mar/08/government-failing-targets-to-fix-uk-railway-system-watchdog-reports)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2024/mar/08/premier-league-10-things-to-look-out-for-this-weekend)
-- [You be the judge: should my best friend get a dog when he works such long hours?](https://www.theguardian.com/lifeandstyle/2024/mar/08/you-be-the-judge-should-my-best-friend-get-a-dog-when-he-works-such-long-hours)
-- [Judge denies Trump request to delay $83.3m E Jean Carroll payment](https://www.theguardian.com/us-news/2024/mar/07/judge-denies-trump-payment-delay-e-jean-carroll)
+- [New Zealand v Australia: second Test, day two – live](https://www.theguardian.com/sport/live/2024/mar/08/new-zealand-vs-australia-cricket-second-test-day-two-live-updates-scores-results-start-time-squads-hagley-oval-christchurch)
+- [Anthony Joshua drops Francis Ngannou three times in savage two-round destruction | Donald McRae](https://www.theguardian.com/sport/2024/mar/09/anthony-joshua-drops-francis-ngannou-three-times-in-savage-two-round-destruction)
+- [OpenAI reinstates CEO Sam Altman to board after firing and rehiring](https://www.theguardian.com/technology/2024/mar/08/openai-sam-altman-reinstated)
+- [Uncle Vanya review – Trevor Nunn triumphs with Chekhov’s tragicomedy](https://www.theguardian.com/stage/2024/mar/09/uncle-vanya-review-chekhov-trevor-nunn-orange-tree-theatre-london)
+- [Andy Murray exits Indian Wells after defeat by Andrey Rublev](https://www.theguardian.com/sport/2024/mar/08/andy-murray-exits-indian-wells-after-defeat-by-andrey-rublev)
+- [How to With John Wilson review – as disturbing, hilarious and genius as ever](https://www.theguardian.com/tv-and-radio/2024/mar/08/how-to-with-john-wilson-review-as-disturbing-hilarious-and-genius-as-ever)
+- [Looking back at Melbourne in the 60s and 70s – in pictures](https://www.theguardian.com/artanddesign/gallery/2024/mar/09/melbourne-historical-photos-1960s-1970s-pentax-sv-photography-shots)
+- [East London fertility clinic has licence suspended after losing embryos](https://www.theguardian.com/uk-news/2024/mar/08/east-london-homerton-fertility-clinic-has-licence-suspended-after-losing-embryos)
+- [Max Verstappen may leave Red Bull if Helmut Marko is removed from team](https://www.theguardian.com/sport/2024/mar/08/max-verstappen-may-leave-red-bull-if-helmut-marko-removed-formula-one)
+- [Apple lets Epic Games put Fortnite and game store back on iPhones in Europe](https://www.theguardian.com/technology/2024/mar/08/fortnite-return-iphone-game-store-europe-epic-apple)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

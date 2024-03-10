@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [New Zealand v Australia: second Test, day two – live](https://www.theguardian.com/sport/live/2024/mar/08/new-zealand-vs-australia-cricket-second-test-day-two-live-updates-scores-results-start-time-squads-hagley-oval-christchurch)
-- [Anthony Joshua drops Francis Ngannou three times in savage two-round destruction | Donald McRae](https://www.theguardian.com/sport/2024/mar/09/anthony-joshua-drops-francis-ngannou-three-times-in-savage-two-round-destruction)
-- [OpenAI reinstates CEO Sam Altman to board after firing and rehiring](https://www.theguardian.com/technology/2024/mar/08/openai-sam-altman-reinstated)
-- [Uncle Vanya review – Trevor Nunn triumphs with Chekhov’s tragicomedy](https://www.theguardian.com/stage/2024/mar/09/uncle-vanya-review-chekhov-trevor-nunn-orange-tree-theatre-london)
-- [Andy Murray exits Indian Wells after defeat by Andrey Rublev](https://www.theguardian.com/sport/2024/mar/08/andy-murray-exits-indian-wells-after-defeat-by-andrey-rublev)
-- [How to With John Wilson review – as disturbing, hilarious and genius as ever](https://www.theguardian.com/tv-and-radio/2024/mar/08/how-to-with-john-wilson-review-as-disturbing-hilarious-and-genius-as-ever)
-- [Looking back at Melbourne in the 60s and 70s – in pictures](https://www.theguardian.com/artanddesign/gallery/2024/mar/09/melbourne-historical-photos-1960s-1970s-pentax-sv-photography-shots)
-- [East London fertility clinic has licence suspended after losing embryos](https://www.theguardian.com/uk-news/2024/mar/08/east-london-homerton-fertility-clinic-has-licence-suspended-after-losing-embryos)
-- [Max Verstappen may leave Red Bull if Helmut Marko is removed from team](https://www.theguardian.com/sport/2024/mar/08/max-verstappen-may-leave-red-bull-if-helmut-marko-removed-formula-one)
-- [Apple lets Epic Games put Fortnite and game store back on iPhones in Europe](https://www.theguardian.com/technology/2024/mar/08/fortnite-return-iphone-game-store-europe-epic-apple)
+- [Ukraine war briefing: Pope urges Ukraine to have courage of ‘white flag’ and negotiate end to war](https://www.theguardian.com/world/2024/mar/10/ukraine-war-briefing-pope-urges-ukraine-to-have-courage-of-white-flag-and-negotiate-end-to-war)
+- [Spring in your step: 10 menswear trends to update your wardrobe – in pictures](https://www.theguardian.com/fashion/gallery/2024/mar/09/spring-in-your-step-10-menswear-trends-to-update-your-wardrobe-in-pictures)
+- [The Edit: men’s sweatshirts – in pictures](https://www.theguardian.com/fashion/gallery/2024/mar/09/the-edit-mens-sweatshirts-in-pictures)
+- [Eight children and an adult die in Zanzibar after eating sea turtle meat](https://www.theguardian.com/world/2024/mar/09/eight-children-and-an-adult-die-in-zanzibar-after-eating-sea-turtle-meat-chelonitoxism)
+- [‘I welcome our digital minions’: the Silicon Valley insider warning about algorithms – while embracing them](https://www.theguardian.com/books/2024/mar/10/i-welcome-our-digital-minions-the-silicon-valley-insider-warning-about-algorithms-while-embracing-them)
+- [Journalist says Katie Britt’s story about child sex abuse ‘out-and-out lie’](https://www.theguardian.com/us-news/2024/mar/09/journalist-accuses-katie-britt-child-sex-abuse-story)
+- [John McGinn labels Spurs test ‘most important game’ in Villa’s recent history](https://www.theguardian.com/football/2024/mar/09/john-mcginn-aston-villa-spurs-champions-league)
+- [Six Nations win over Ireland ‘one of the proudest days of my career’, says George](https://www.theguardian.com/sport/2024/mar/09/six-nations-win-over-ireland-one-of-the-proudest-days-of-my-career-says-george)
+- [Irish voters overwhelmingly reject proposed changes to constitution](https://www.theguardian.com/world/2024/mar/09/vote-referendum-modernise-ireland-constitution-women-home)
+- [Ramsdale’s puzzling day raises old questions of Arsenal’s title credentials | Jonathan Wilson](https://www.theguardian.com/football/blog/2024/mar/09/aarons-ramsdale-puzzling-day-raises-familiar-questions-arsenal-title-credentials)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

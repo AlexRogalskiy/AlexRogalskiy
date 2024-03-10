@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Apple will cut off 3rd-party appstore updates if iPhone is not in EU for a month](https://www.theverge.com/2024/3/7/24093437/apple-iphone-third-party-app-store-dma-eu)
-- [Motorola&#39;s legal terms claim to strip owners of their right to sell their device](https://en-us.support.motorola.com/app/standalone/bootloader/unlock-your-device-a)
-- [Tesla starts shipping $3k Cybertruck tent, looks nothing like what was unveiled](https://electrek.co/2024/03/08/tesla-shipping-cybertruck-tent/)
-- [A simple dice game shines a bit of light on the psychology of regret](https://thereader.mitpress.mit.edu/how-fear-of-regret-influences-our-decisions/)
-- [Tests show high-temperature superconducting magnets are ready for fusion](https://news.mit.edu/2024/tests-show-high-temperature-superconducting-magnets-fusion-ready-0304)
-- [Show HN: My AI writing assistant for Chinese](https://unscrambler.dpw.me/)
-- [OpenAI board reappoints Altman and adds three other directors](https://www.reuters.com/technology/sam-altman-return-openais-board-information-reports-2024-03-08/)
-- [Coroutines in JavaScript for web components](https://lorenzofox.dev/posts/component-as-infinite-loop/)
-- [Finley &lpar;YC W21&rpar; is hiring capital markets technologists](https://www.finleycms.com/careers/)
-- [Epic says Apple will reinstate developer account](https://9to5mac.com/2024/03/08/epic-says-apple-will-reinstate-developer-account-clearing-path-for-epic-games-store-on-iphone/)
+- [Hacker News Stats: 2007–2022](https://my.causal.app/models/214226)
+- [Man behind viral fake currency shocked by its success](https://www.bbc.com/news/world-africa-68499438)
+- [Pipexec – Handling pipe of commands like a single command](https://github.com/flonatel/pipexec)
+- [Both pilots of an A320 fell asleep in the cockpit for 28 minutes](https://airlive.net/reports/2024/03/09/report-both-pilots-of-an-a320-fall-asleep-in-the-cockpit-for-28-minutes/)
+- [The Mystery of Sudden Genius](https://www.psychologytoday.com/us/articles/202403/the-mystery-of-sudden-genius)
+- [Emerge &lpar;YC W21&rpar; is hiring a Growth Engineer &lpar;remote&rpar;](https://www.emergetools.com/careers/jobs/growth-engineer)
+- [The Purple Streetscape](https://computer.rip/2024-03-09-the-purple-streetscape.html)
+- [The Programmer&#39;s Apprentice Project: A Research Overview &lpar;1987&rpar; [pdf]](http://www.semdesigns.com/Company/Publications/ProgrammersApprentice-AIM-1004.pdf)
+- [Scientists built their own Stone Age tools to figure out how they were used](https://arstechnica.com/science/2024/03/these-scientists-built-their-own-stone-age-tools-to-figure-out-how-they-were-used/)
+- [Reverse Engineering Protobuf Definitions from Compiled Binaries](https://arkadiyt.com/2024/03/03/reverse-engineering-protobuf-definitiions-from-compiled-binaries/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

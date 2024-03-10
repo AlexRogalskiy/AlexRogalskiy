@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: Memzy Remote Memory Caching for Node.js](https://memzy.sh/)
-- [No Censorship Bookstore Lasted Just Three Days](https://jonathanturley.org/2024/03/08/banning-books-is-never-the-answer-rupauls-no-censorship-bookstore-last-just-three-days/)
-- [How the Atomic Bomb Set Brothers Robert and Frank Oppenheimer on Diverging Paths](https://www.smithsonianmag.com/science-nature/how-the-atomic-bomb-set-brothers-robert-and-frank-oppenheimer-on-diverging-paths-180983899/)
-- [Building an Information Retrieval System with One Large Language Model](https://arxiv.org/abs/2403.00801)
-- [Y Combinators &#39;Boom Loop&#39;](https://www.forbes.com/sites/alexkonrad/2024/03/08/inside-garry-tan-plan-restore-y-combinator-silicon-valley-glory/)
-- [The Existential Relief of Having Children](https://thelivingfossils.substack.com/p/the-existential-relief-of-having)
-- [CHIPS Act Stalling?](https://thehill.com/opinion/4517470-dei-killed-the-chips-act/)
-- [What Happened to Gentopia?](https://news.ycombinator.com/item?id=39648644)
-- [How Head Works in Git](https://jvns.ca/blog/2024/03/08/how-head-works-in-git/)
-- [A Platform for Value Investing to Empower Innovators and Investors](https://www.platvix.com)
+- [I outsmart myself to be productive](https://marclou.beehiiv.com/p/i-outsmarted-myself-to-be-productive)
+- [What a $1 deal says about America&#39;s office market](https://www.bbc.com/news/business-68472143)
+- [See this page fetch itself, byte by byte, over TLS](https://bytebybyte.dev/)
+- [An ES5-compliant JavaScript interpreter, written in Java](https://github.com/TopchetoEU/jscript)
+- [What Makes an Album the Greatest of All-Time?](https://pudding.cool/2024/03/greatest-music/)
+- [The FCC will investigate the major AT&amp;T outage last month](https://www.phonearena.com/news/at-t-faces-fcc-investigation-after-major-outage_id156122)
+- [Apple &#39;like The Godfather&#39; with new App Store rules](https://www.bbc.com/news/technology-68517246)
+- [When Nuclear Detonation Seemed Possible in Ukraine](https://www.nytimes.com/2024/03/09/us/politics/biden-nuclear-russia-ukraine.html)
+- [Chat with Smarter Child 2001](https://smarterchild.chat/)
+- [Disruption Comes to Google](https://dareobasanjo.medium.com/disruption-comes-to-google-a88d7f32688b)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

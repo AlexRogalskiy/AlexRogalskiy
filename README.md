@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Hacker News Stats: 2007–2022](https://my.causal.app/models/214226)
-- [Man behind viral fake currency shocked by its success](https://www.bbc.com/news/world-africa-68499438)
-- [Pipexec – Handling pipe of commands like a single command](https://github.com/flonatel/pipexec)
-- [Both pilots of an A320 fell asleep in the cockpit for 28 minutes](https://airlive.net/reports/2024/03/09/report-both-pilots-of-an-a320-fall-asleep-in-the-cockpit-for-28-minutes/)
-- [The Mystery of Sudden Genius](https://www.psychologytoday.com/us/articles/202403/the-mystery-of-sudden-genius)
-- [Emerge &lpar;YC W21&rpar; is hiring a Growth Engineer &lpar;remote&rpar;](https://www.emergetools.com/careers/jobs/growth-engineer)
-- [The Purple Streetscape](https://computer.rip/2024-03-09-the-purple-streetscape.html)
-- [The Programmer&#39;s Apprentice Project: A Research Overview &lpar;1987&rpar; [pdf]](http://www.semdesigns.com/Company/Publications/ProgrammersApprentice-AIM-1004.pdf)
-- [Scientists built their own Stone Age tools to figure out how they were used](https://arstechnica.com/science/2024/03/these-scientists-built-their-own-stone-age-tools-to-figure-out-how-they-were-used/)
-- [Reverse Engineering Protobuf Definitions from Compiled Binaries](https://arkadiyt.com/2024/03/03/reverse-engineering-protobuf-definitiions-from-compiled-binaries/)
+- [Is Delphi a Memory Safe Language?](https://blogs.embarcadero.com/is-delphi-a-memory-safe-language/)
+- [Jupiter&#39;s ocean moon Europa, thought to be habitable, may be oxygen-starved](https://www.nytimes.com/2024/03/04/science/europa-moon-oxygen.html)
+- [eBPF Documentary](https://www.brendangregg.com/blog//2024-03-10/ebpf-documentary.html)
+- [Of course AI is extractive, everything is lately](https://coryd.dev/posts/2024/of-course-ai-is-extractive-everything-is-lately/)
+- [LocalSend: Open-source, cross-platform file sharing to nearby devices](https://localsend.org)
+- [Monte-Carlo graph search from first principles](https://github.com/lightvector/KataGo/blob/master/docs/GraphSearch.md)
+- [The Best Essay](https://paulgraham.com/best.html)
+- [Using PostgreSQL for military geoanalytics tasks](https://klioba.com/how-to-use-postgresql-for-military-geoanalytics-tasks)
+- [Perf Is Not Enough](https://motherduck.com/blog/perf-is-not-enough/)
+- [PaperMC/Paper: The most widely used, high performance Minecraft server](https://github.com/PaperMC/Paper)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [I outsmart myself to be productive](https://marclou.beehiiv.com/p/i-outsmarted-myself-to-be-productive)
-- [What a $1 deal says about America&#39;s office market](https://www.bbc.com/news/business-68472143)
-- [See this page fetch itself, byte by byte, over TLS](https://bytebybyte.dev/)
-- [An ES5-compliant JavaScript interpreter, written in Java](https://github.com/TopchetoEU/jscript)
-- [What Makes an Album the Greatest of All-Time?](https://pudding.cool/2024/03/greatest-music/)
-- [The FCC will investigate the major AT&amp;T outage last month](https://www.phonearena.com/news/at-t-faces-fcc-investigation-after-major-outage_id156122)
-- [Apple &#39;like The Godfather&#39; with new App Store rules](https://www.bbc.com/news/technology-68517246)
-- [When Nuclear Detonation Seemed Possible in Ukraine](https://www.nytimes.com/2024/03/09/us/politics/biden-nuclear-russia-ukraine.html)
-- [Chat with Smarter Child 2001](https://smarterchild.chat/)
-- [Disruption Comes to Google](https://dareobasanjo.medium.com/disruption-comes-to-google-a88d7f32688b)
+- [Alexandre-Théophile Vandermonde](https://mathshistory.st-andrews.ac.uk/Biographies/Vandermonde/)
+- [KnowledgeVIS: Interpreting LLMs by Comparing Fill-in-the-Blank Prompts](https://arxiv.org/abs/2403.04758)
+- [AMD announces the Spartan UltraScale+ FPGA family](https://www.cnx-software.com/2024/03/08/amd-announces-the-spartan-ultrascale-fpga-family-for-cost-sensitive-and-io-intensive-applications/)
+- [The short history of global living conditions and why it matters that we know it](https://ourworldindata.org/a-history-of-global-living-conditions)
+- [rlimit.com – rate-limiting made easy](https://rlimit.com)
+- [Microplastics linked to heart attack, stroke and death](https://www.scientificamerican.com/article/microplastics-linked-to-heart-attack-stroke-and-death/)
+- [Show HN: TypeORM-Strict-Type – safer typing for TypeORM repository](https://github.com/stringthread/typeorm-strict-type)
+- [Apple Vision Pro Enhances the Spatial E-Commerce Experience](https://meshmonk.com/blog/apple-vision-pro-spatial-commerce)
+- [How the Gaza Ministry of Health Fakes Casualty Numbers](https://www.tabletmag.com/sections/news/articles/how-gaza-health-ministry-fakes-casualty-numbers)
+- [How to Win an Oscar?](https://www.bloomberg.com/news/videos/2024-03-05/how-to-win-an-oscar)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

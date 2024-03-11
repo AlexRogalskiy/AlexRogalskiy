@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine war briefing: Pope urges Ukraine to have courage of ‘white flag’ and negotiate end to war](https://www.theguardian.com/world/2024/mar/10/ukraine-war-briefing-pope-urges-ukraine-to-have-courage-of-white-flag-and-negotiate-end-to-war)
-- [Spring in your step: 10 menswear trends to update your wardrobe – in pictures](https://www.theguardian.com/fashion/gallery/2024/mar/09/spring-in-your-step-10-menswear-trends-to-update-your-wardrobe-in-pictures)
-- [The Edit: men’s sweatshirts – in pictures](https://www.theguardian.com/fashion/gallery/2024/mar/09/the-edit-mens-sweatshirts-in-pictures)
-- [Eight children and an adult die in Zanzibar after eating sea turtle meat](https://www.theguardian.com/world/2024/mar/09/eight-children-and-an-adult-die-in-zanzibar-after-eating-sea-turtle-meat-chelonitoxism)
-- [‘I welcome our digital minions’: the Silicon Valley insider warning about algorithms – while embracing them](https://www.theguardian.com/books/2024/mar/10/i-welcome-our-digital-minions-the-silicon-valley-insider-warning-about-algorithms-while-embracing-them)
-- [Journalist says Katie Britt’s story about child sex abuse ‘out-and-out lie’](https://www.theguardian.com/us-news/2024/mar/09/journalist-accuses-katie-britt-child-sex-abuse-story)
-- [John McGinn labels Spurs test ‘most important game’ in Villa’s recent history](https://www.theguardian.com/football/2024/mar/09/john-mcginn-aston-villa-spurs-champions-league)
-- [Six Nations win over Ireland ‘one of the proudest days of my career’, says George](https://www.theguardian.com/sport/2024/mar/09/six-nations-win-over-ireland-one-of-the-proudest-days-of-my-career-says-george)
-- [Irish voters overwhelmingly reject proposed changes to constitution](https://www.theguardian.com/world/2024/mar/09/vote-referendum-modernise-ireland-constitution-women-home)
-- [Ramsdale’s puzzling day raises old questions of Arsenal’s title credentials | Jonathan Wilson](https://www.theguardian.com/football/blog/2024/mar/09/aarons-ramsdale-puzzling-day-raises-familiar-questions-arsenal-title-credentials)
+- [Oscars 2024:Oppenheimer sweeps awards as it takes best picture, director and actor – follow live!](https://www.theguardian.com/film/live/2024/mar/10/oscars-ceremony-red-carpet-winners-updates)
+- [Billie Eilish wins best song Oscar for What Was I Made For? from Barbie](https://www.theguardian.com/film/2024/mar/11/billie-eilish-barbie-best-song-oscar)
+- [Portugal election: centre-right alliance claims victory, rejects role for far right](https://www.theguardian.com/world/2024/mar/10/portugal-election-centre-right-coalition-on-course-for-narrow-victory)
+- [Oscars 2024: the red carpet – in pictures](https://www.theguardian.com/film/gallery/2024/mar/10/oscars-red-carpet-looks)
+- [Ukraine war briefing: backlash continues over the pope’s ‘white flag’ gaffe](https://www.theguardian.com/world/2024/mar/11/ukraine-war-briefing-russia-pope-francis-white-flag)
+- [Oscars kicks off behind schedule as pro-Palestine protesters delay stars’ arrivals](https://www.theguardian.com/film/2024/mar/10/oscars-start-late-palestine-protests)
+- [Top stars must help protect cast and crew from bad behaviour, says Denise Gough](https://www.theguardian.com/stage/2024/mar/11/denise-gough-people-places-and-things)
+- [Labour says it will use state bank to fund female-led businesses](https://www.theguardian.com/business/2024/mar/11/labour-use-state-bank-fund-female-led-businesses-women-tulip-siddiq)
+- [Mothers of Brianna Ghey and one of her murderers meet to discuss parenting](https://www.theguardian.com/society/2024/mar/11/mothers-of-brianna-ghey-and-one-of-her-murderers-meet-to-discuss-parenting)
+- [Pope provokes outrage by saying Ukraine should ‘raise white flag’ and end war with Russia](https://www.theguardian.com/world/2024/mar/10/pope-francis-criticised-for-saying-ukraine-should-raise-white-flag-and-end-war-with-russia)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

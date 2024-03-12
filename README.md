@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Is Delphi a Memory Safe Language?](https://blogs.embarcadero.com/is-delphi-a-memory-safe-language/)
-- [Jupiter&#39;s ocean moon Europa, thought to be habitable, may be oxygen-starved](https://www.nytimes.com/2024/03/04/science/europa-moon-oxygen.html)
-- [eBPF Documentary](https://www.brendangregg.com/blog//2024-03-10/ebpf-documentary.html)
-- [Of course AI is extractive, everything is lately](https://coryd.dev/posts/2024/of-course-ai-is-extractive-everything-is-lately/)
-- [LocalSend: Open-source, cross-platform file sharing to nearby devices](https://localsend.org)
-- [Monte-Carlo graph search from first principles](https://github.com/lightvector/KataGo/blob/master/docs/GraphSearch.md)
-- [The Best Essay](https://paulgraham.com/best.html)
-- [Using PostgreSQL for military geoanalytics tasks](https://klioba.com/how-to-use-postgresql-for-military-geoanalytics-tasks)
-- [Perf Is Not Enough](https://motherduck.com/blog/perf-is-not-enough/)
-- [PaperMC/Paper: The most widely used, high performance Minecraft server](https://github.com/PaperMC/Paper)
+- [Rabbit Inc. Faked Their Demo &lpar;Again&rpar;](https://rentry.co/rabbitscam)
+- [Breaking Down Tasks](https://jacobian.org/2024/mar/11/breaking-down-tasks/)
+- [The New Science on What Ultra-Processed Food Does to Your Brain](https://www.wsj.com/health/wellness/ultra-processed-food-brain-health-7a3f9827)
+- [Nobel laureate economist savages his own profession](https://www.imf.org/en/Publications/fandd/issues/2024/03/Symposium-Rethinking-Economics-Angus-Deaton)
+- [Using my new Raspberry Pi to run an existing GitHub Action](https://blog.frankel.ch/raspberry-pi-github-action/)
+- [Create More, Consume Less &lpar;2021&rpar;](https://www.omaritani.com/blog/create-more-consume-less)
+- [See &#39;horned&#39; comet 12P/Pons-Brooks in the night sky](https://www.space.com/comet-12p-pons-brooks-march-2024)
+- [Simpson&#39;s paradox](https://en.wikipedia.org/wiki/Simpson%27s_paradox)
+- [Among the A.I. doomsayers](https://www.newyorker.com/magazine/2024/03/18/among-the-ai-doomsayers)
+- [Webb and Hubble confirm Universe&#39;s expansion rate](https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_Hubble_confirm_Universe_s_expansion_rate)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

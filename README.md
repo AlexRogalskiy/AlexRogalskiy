@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Oscars 2024:Oppenheimer sweeps awards as it takes best picture, director and actor – follow live!](https://www.theguardian.com/film/live/2024/mar/10/oscars-ceremony-red-carpet-winners-updates)
-- [Billie Eilish wins best song Oscar for What Was I Made For? from Barbie](https://www.theguardian.com/film/2024/mar/11/billie-eilish-barbie-best-song-oscar)
-- [Portugal election: centre-right alliance claims victory, rejects role for far right](https://www.theguardian.com/world/2024/mar/10/portugal-election-centre-right-coalition-on-course-for-narrow-victory)
-- [Oscars 2024: the red carpet – in pictures](https://www.theguardian.com/film/gallery/2024/mar/10/oscars-red-carpet-looks)
-- [Ukraine war briefing: backlash continues over the pope’s ‘white flag’ gaffe](https://www.theguardian.com/world/2024/mar/11/ukraine-war-briefing-russia-pope-francis-white-flag)
-- [Oscars kicks off behind schedule as pro-Palestine protesters delay stars’ arrivals](https://www.theguardian.com/film/2024/mar/10/oscars-start-late-palestine-protests)
-- [Top stars must help protect cast and crew from bad behaviour, says Denise Gough](https://www.theguardian.com/stage/2024/mar/11/denise-gough-people-places-and-things)
-- [Labour says it will use state bank to fund female-led businesses](https://www.theguardian.com/business/2024/mar/11/labour-use-state-bank-fund-female-led-businesses-women-tulip-siddiq)
-- [Mothers of Brianna Ghey and one of her murderers meet to discuss parenting](https://www.theguardian.com/society/2024/mar/11/mothers-of-brianna-ghey-and-one-of-her-murderers-meet-to-discuss-parenting)
-- [Pope provokes outrage by saying Ukraine should ‘raise white flag’ and end war with Russia](https://www.theguardian.com/world/2024/mar/10/pope-francis-criticised-for-saying-ukraine-should-raise-white-flag-and-end-war-with-russia)
+- [Yemen: Houthis reportedly target ‘US ship Pinocchio’ in Red Sea with missiles](https://www.theguardian.com/world/2024/mar/11/yemen-airstrikes-us-uk-coalition)
+- [Ukraine war briefing: Russian advances stopped, says Zelenskiy – ‘we have recovered our situation in the east’](https://www.theguardian.com/world/2024/mar/12/ukraine-war-briefing-russian-advances-stopped-says-zelenskiy-we-have-recovered-our-situation-in-the-east)
+- [Home Office food provision leaving some asylum seekers malnourished – report](https://www.theguardian.com/uk-news/2024/mar/12/home-office-food-provision-leaving-some-asylum-seekers-malnourished-report)
+- [Sunak faces anger over gas-power strategy for ‘backing up renewables’](https://www.theguardian.com/business/2024/mar/12/sunak-gas-power-stations-renewables-energy-security-decarbonise)
+- [Stranded Haiti aid worker describes city under siege: ‘Fear and bewilderment’](https://www.theguardian.com/world/2024/mar/11/haiti-foreign-aid-worker-stranded)
+- [Prisoners could be let out 60 days early to relieve crowded jails in England and Wales](https://www.theguardian.com/society/2024/mar/11/prisoners-could-be-let-out-60-days-early-to-relieve-crowded-jails-in-england-and-wales)
+- [Oscars 2024: Al Pacino says he was told not to name best picture nominees](https://www.theguardian.com/film/2024/mar/12/al-pacino-oscars-2024-best-picture-nominees-winner-announcement-academy-awards)
+- [Donald Trump flip flops on TikTok, now rails against a ban](https://www.theguardian.com/technology/2024/mar/11/donald-trump-tiktok-ban-biden)
+- [Two New Zealand skiers killed after avalanche in Japan](https://www.theguardian.com/world/2024/mar/12/japan-avalanche-kills-two-new-zealand-skiers-mount-yotei-hokkaido)
+- [One dead as Israel launches airstrikes targeting Hezbollah near Baalbek in Lebanon](https://www.theguardian.com/world/2024/mar/11/israel-airstrikes-hezbollah-baalbek-lebanon)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

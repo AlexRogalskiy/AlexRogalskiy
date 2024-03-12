@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Alexandre-Théophile Vandermonde](https://mathshistory.st-andrews.ac.uk/Biographies/Vandermonde/)
-- [KnowledgeVIS: Interpreting LLMs by Comparing Fill-in-the-Blank Prompts](https://arxiv.org/abs/2403.04758)
-- [AMD announces the Spartan UltraScale+ FPGA family](https://www.cnx-software.com/2024/03/08/amd-announces-the-spartan-ultrascale-fpga-family-for-cost-sensitive-and-io-intensive-applications/)
-- [The short history of global living conditions and why it matters that we know it](https://ourworldindata.org/a-history-of-global-living-conditions)
-- [rlimit.com – rate-limiting made easy](https://rlimit.com)
-- [Microplastics linked to heart attack, stroke and death](https://www.scientificamerican.com/article/microplastics-linked-to-heart-attack-stroke-and-death/)
-- [Show HN: TypeORM-Strict-Type – safer typing for TypeORM repository](https://github.com/stringthread/typeorm-strict-type)
-- [Apple Vision Pro Enhances the Spatial E-Commerce Experience](https://meshmonk.com/blog/apple-vision-pro-spatial-commerce)
-- [How the Gaza Ministry of Health Fakes Casualty Numbers](https://www.tabletmag.com/sections/news/articles/how-gaza-health-ministry-fakes-casualty-numbers)
-- [How to Win an Oscar?](https://www.bloomberg.com/news/videos/2024-03-05/how-to-win-an-oscar)
+- [A curated list of zine publishing tools and guides](https://codeberg.org/thgie/awesome-zine-publishing/)
+- [Microsoft Word&#39;s Subtle Typeface Change Affected Millions. Did You Notice?](https://www.nytimes.com/2024/02/28/technology/microsoft-word-font-aptos.html)
+- [Coming back from the dead, the largest aircraft just flew a real payload](https://arstechnica.com/space/2024/03/after-coming-back-from-the-dead-the-worlds-largest-aircraft-just-flew-a-real-payload/)
+- [TikTok&#39;s Response to Chairman Gallagher and Ranking Member Krishnamoorthi](https://www.documentcloud.org/documents/24475724-tiktok-response-to-chair-gallagher-and-ranking-member-krishnamoorthi-20240311-1)
+- [Pepsi: Breathtaking Design Strategy &lpar;2008&rpar; [pdf]](https://jimedwardsnrx.files.wordpress.com/2009/02/pepsi_gravitational_field.pdf)
+- [How to Escape Gmail](https://news.ycombinator.com/item?id=39675326)
+- [Rabbit Inc. Faked Their Demo &lpar;Again&rpar;](https://rentry.co/rabbitscam)
+- [Large Language Models as Commonsense Knowledge for Large-Scale Task Planning](https://llm-mcts.github.io/)
+- [The untold story of Kickstarter&#39;s crypto Hail Mary](https://fortune.com/crypto/2024/03/11/kickstarter-blockchain-a16z-crypto-secret-investment-chris-dixon/)
+- [Oracle tops quarterly profit estimates on AI demand, shares surge](https://www.reuters.com/technology/oracle-misses-quarterly-revenue-estimates-2024-03-11/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Yemen: Houthis reportedly target ‘US ship Pinocchio’ in Red Sea with missiles](https://www.theguardian.com/world/2024/mar/11/yemen-airstrikes-us-uk-coalition)
-- [Ukraine war briefing: Russian advances stopped, says Zelenskiy – ‘we have recovered our situation in the east’](https://www.theguardian.com/world/2024/mar/12/ukraine-war-briefing-russian-advances-stopped-says-zelenskiy-we-have-recovered-our-situation-in-the-east)
-- [Home Office food provision leaving some asylum seekers malnourished – report](https://www.theguardian.com/uk-news/2024/mar/12/home-office-food-provision-leaving-some-asylum-seekers-malnourished-report)
-- [Sunak faces anger over gas-power strategy for ‘backing up renewables’](https://www.theguardian.com/business/2024/mar/12/sunak-gas-power-stations-renewables-energy-security-decarbonise)
-- [Stranded Haiti aid worker describes city under siege: ‘Fear and bewilderment’](https://www.theguardian.com/world/2024/mar/11/haiti-foreign-aid-worker-stranded)
-- [Prisoners could be let out 60 days early to relieve crowded jails in England and Wales](https://www.theguardian.com/society/2024/mar/11/prisoners-could-be-let-out-60-days-early-to-relieve-crowded-jails-in-england-and-wales)
-- [Oscars 2024: Al Pacino says he was told not to name best picture nominees](https://www.theguardian.com/film/2024/mar/12/al-pacino-oscars-2024-best-picture-nominees-winner-announcement-academy-awards)
-- [Donald Trump flip flops on TikTok, now rails against a ban](https://www.theguardian.com/technology/2024/mar/11/donald-trump-tiktok-ban-biden)
-- [Two New Zealand skiers killed after avalanche in Japan](https://www.theguardian.com/world/2024/mar/12/japan-avalanche-kills-two-new-zealand-skiers-mount-yotei-hokkaido)
-- [One dead as Israel launches airstrikes targeting Hezbollah near Baalbek in Lebanon](https://www.theguardian.com/world/2024/mar/11/israel-airstrikes-hezbollah-baalbek-lebanon)
+- [Biden clinches Democratic nomination, with Trump closing in on Republican](https://www.theguardian.com/us-news/2024/mar/12/primary-results-biden-trump-election-2024-georgia-mississippi-washington)
+- [Cat in a vat: Japanese city warned over dangers of feline that fell in toxic chemicals](https://www.theguardian.com/world/2024/mar/13/japan-cat-toxic-chemical-vat-fukuyama-nomura-plating-metal-plant)
+- [Thailand election body seeks to dissolve progressive party that won 2023 vote](https://www.theguardian.com/world/2024/mar/13/thailand-move-forward-party-could-be-dissolved-progressive-anti-defamation-law)
+- [‘Gutted’ Feyi-Waboso rules himself out of Six Nations finale with concussion](https://www.theguardian.com/sport/2024/mar/12/immanuel-feyi-waboso-out-of-england-rugby-union-six-nations-finale-against-france)
+- [Ukraine war briefing: Biden scrapes together $300m more for Ukraine weapons](https://www.theguardian.com/world/2024/mar/13/ukraine-war-briefing-biden-scrapes-together-300m-more-for-ukraine-weapons)
+- [I was sweating before I even opened my mouth: could I overcome my fear of public speaking? | Nova Weetman](https://www.theguardian.com/commentisfree/2024/mar/13/i-was-sweating-before-i-even-opened-my-mouth-could-i-overcome-my-fear-of-public-speaking)
+- [Ministers to quash convictions of hundreds of post office operators](https://www.theguardian.com/uk-news/2024/mar/13/ministers-to-quash-convictions-post-office-operators-horizon-scandal)
+- [NHS England trusts advised to offer women two weeks’ miscarriage leave](https://www.theguardian.com/society/2024/mar/13/nhs-england-trusts-advised-to-offer-women-two-weeks-miscarriage-leave)
+- [Archbishops of Canterbury and York warn against new extremism definition](https://www.theguardian.com/uk-news/2024/mar/12/archbishops-of-canterbury-justin-welby-and-york-stephen-cottrellwarn-against-new-extremism-definition)
+- [Overweight girls ‘more likely to see GP about musculoskeletal problems’](https://www.theguardian.com/society/2024/mar/12/overweight-girls-more-likely-to-see-gp-about-musculoskeletal-problems)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

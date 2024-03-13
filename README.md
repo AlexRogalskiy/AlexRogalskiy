@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
-- [New AI copyright lawsuit targets Nvidia](https://www.computerworld.com/article/3714286/new-ai-copyright-lawsuit-targets-nvidia.html#tk.rss_all)
-- [Healthcare pros show interest in Apple&#39;s Vision Pro — survey](https://www.computerworld.com/article/3714400/healthcare-pros-show-interest-in-apples-vision-pro-survey.html#tk.rss_all)
-- [How to choose an AI-as-a-service provider](https://www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.html#tk.rss_all)
+- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
+- [US pushes to weaken international human rights treaty on use of AI software](https://www.computerworld.com/article/3714289/us-pushes-to-weaken-international-human-rights-treaty-on-use-of-ai-software.html#tk.rss_all)
+- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [EC&#39;s use of Microsoft 365 violates data-privacy rules, watchdog group says](https://www.computerworld.com/article/3714443/ecs-use-of-microsoft-365-violates-data-privacy-rules-watchdog-group-says.html#tk.rss_all)
+- [Apple tweaks its DMA compliance strategy in Europe](https://www.computerworld.com/article/3714165/apple-tweaks-its-dma-compliance-strategy-in-europe.html#tk.rss_all)
+- [OpenAI rebuts Musk’s ‘fictional’ claims over Founding Agreement](https://www.computerworld.com/article/3714480/openai-rebuts-musks-fictional-claims-over-founding-agreement.html#tk.rss_all)
+- [Elon Musk’s suit against OpenAI — right idea, wrong messenger](https://www.computerworld.com/article/3714283/elon-musks-suit-against-openai-right-idea-wrong-messenger.html#tk.rss_all)
 - [BrandPost: A New Chapter of Industrial Digitalisation and Intelligent Transformation](https://www.computerworld.com/article/3714281/a-new-chapter-of-industrial-digitalisation-and-intelligent-transformation.html#tk.rss_all)
-- [AIs may be better at prompt optimization than humans](https://www.computerworld.com/article/3714360/ais-may-be-better-at-prompt-optimization-than-humans.html#tk.rss_all)
-- [How many jobs are available in technology in the US?](https://www.computerworld.com/article/3542681/how-many-jobs-are-available-in-technology.html#tk.rss_all)
-- [Why should Apple trust Epic Games?](https://www.computerworld.com/article/3714264/why-should-apple-trust-epic-games.html#tk.rss_all)
-- [The first EU app stores for iPhones explore new business models](https://www.computerworld.com/article/3713290/the-first-eu-app-stores-for-iphones-explore-new-business-models.html#tk.rss_all)
-- [AR got its ‘killer app’: GenAI](https://www.computerworld.com/article/3713462/ar-got-its-killer-app-genai.html#tk.rss_all)
-- [Why are CIOs who anticipate the future rarely allowed to do anything about it?](https://www.computerworld.com/article/3713285/why-arent-cios-who-anticipate-long-term-changes-rarely-allowed-to-do-anything-about-them.html#tk.rss_all)
+- [Meta sues former executive over alleged AI theft](https://www.computerworld.com/article/3714344/meta-sues-former-executive-over-alleged-ai-theft.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

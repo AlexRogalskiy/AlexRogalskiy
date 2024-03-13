@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [A curated list of zine publishing tools and guides](https://codeberg.org/thgie/awesome-zine-publishing/)
-- [Microsoft Word&#39;s Subtle Typeface Change Affected Millions. Did You Notice?](https://www.nytimes.com/2024/02/28/technology/microsoft-word-font-aptos.html)
-- [Coming back from the dead, the largest aircraft just flew a real payload](https://arstechnica.com/space/2024/03/after-coming-back-from-the-dead-the-worlds-largest-aircraft-just-flew-a-real-payload/)
-- [TikTok&#39;s Response to Chairman Gallagher and Ranking Member Krishnamoorthi](https://www.documentcloud.org/documents/24475724-tiktok-response-to-chair-gallagher-and-ranking-member-krishnamoorthi-20240311-1)
-- [Pepsi: Breathtaking Design Strategy &lpar;2008&rpar; [pdf]](https://jimedwardsnrx.files.wordpress.com/2009/02/pepsi_gravitational_field.pdf)
-- [How to Escape Gmail](https://news.ycombinator.com/item?id=39675326)
-- [Rabbit Inc. Faked Their Demo &lpar;Again&rpar;](https://rentry.co/rabbitscam)
-- [Large Language Models as Commonsense Knowledge for Large-Scale Task Planning](https://llm-mcts.github.io/)
-- [The untold story of Kickstarter&#39;s crypto Hail Mary](https://fortune.com/crypto/2024/03/11/kickstarter-blockchain-a16z-crypto-secret-investment-chris-dixon/)
-- [Oracle tops quarterly profit estimates on AI demand, shares surge](https://www.reuters.com/technology/oracle-misses-quarterly-revenue-estimates-2024-03-11/)
+- [Samsung to use chip making tech favoured by SK Hynix as AI chip race heats up](https://www.reuters.com/technology/samsung-use-chip-making-tech-favoured-by-sk-hynix-ai-chip-race-heats-up-sources-2024-03-12/)
+- [Crossing the CORS Crossroad](https://rednafi.com/misc/crossing_the_cors_crossroad/)
+- [Bluesky starts letting users pick their own moderation filters](https://www.theverge.com/2024/3/12/24098920/bluesky-custom-moderation-filters-ozone)
+- [Show HN: Live OCR and Voice Recognition Flashcard App](https://testflight.apple.com/join/NMJeepvx)
+- [Tokenomics in 69 Seconds [video]](https://www.youtube.com/watch?v=7dR0g-FVSyA)
+- [Mesa conflicting defines with DirectX headers](https://gitlab.freedesktop.org/mesa/mesa/-/issues/10803)
+- [Banned for Self-Promo](https://antonz.org/self-promo/)
+- [Problems in Origin of Life](https://www.youtube.com/watch?v=ysEc8SdDLAs)
+- [Celebrating One Year of MedARC](https://stability.ai/news/celebrating-one-year-of-medarc)
+- [H.R. 7521 – TikTok Ban Bill [pdf]](https://docs.house.gov/billsthisweek/20240311/HR%207521%20Updated.pdf)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

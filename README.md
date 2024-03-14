@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Samsung to use chip making tech favoured by SK Hynix as AI chip race heats up](https://www.reuters.com/technology/samsung-use-chip-making-tech-favoured-by-sk-hynix-ai-chip-race-heats-up-sources-2024-03-12/)
-- [Crossing the CORS Crossroad](https://rednafi.com/misc/crossing_the_cors_crossroad/)
-- [Bluesky starts letting users pick their own moderation filters](https://www.theverge.com/2024/3/12/24098920/bluesky-custom-moderation-filters-ozone)
-- [Show HN: Live OCR and Voice Recognition Flashcard App](https://testflight.apple.com/join/NMJeepvx)
-- [Tokenomics in 69 Seconds [video]](https://www.youtube.com/watch?v=7dR0g-FVSyA)
-- [Mesa conflicting defines with DirectX headers](https://gitlab.freedesktop.org/mesa/mesa/-/issues/10803)
-- [Banned for Self-Promo](https://antonz.org/self-promo/)
-- [Problems in Origin of Life](https://www.youtube.com/watch?v=ysEc8SdDLAs)
-- [Celebrating One Year of MedARC](https://stability.ai/news/celebrating-one-year-of-medarc)
-- [H.R. 7521 – TikTok Ban Bill [pdf]](https://docs.house.gov/billsthisweek/20240311/HR%207521%20Updated.pdf)
+- [JSON in Oracle Database Office Hours: Binary JSON Formats [video]](https://www.youtube.com/watch?v=oNpOl_klQP8)
+- [Pngmaker.ai: Transform Text into PNG Images for Free](https://pngmaker.ai)
+- [DARC: your C-Corp or LLC registered on Ethereum, not with government [pdf]](https://github.com/Project-DARC/DARC-whitepaper/blob/release/darc-whitepaper.pdf)
+- [The White House wants to know more about Tesla&#39;s charging standard](https://www.automotivedive.com/news/fhwa-rfi-tesla-north-america-charging-standard-nevi/709697/)
+- [Pi Day](https://www.piday.org/)
+- [Pi Day Challenge: draw a perfect circle freehand](https://matrix67.itch.io/pi-day-challenge)
+- [Most subscription mobile apps don&#39;t make money, new report shows](https://techcrunch.com/2024/03/12/most-subscription-mobile-apps-dont-make-money-new-report-shows/)
+- [Curiosity-Driven Red-Teaming for Large Language Models](https://github.com/Improbable-AI/curiosity_redteam)
+- [Have You Checked AI Sodtware Engineer: Devin](https://news.ycombinator.com/item?id=39699756)
+- [Dreamy Progressive House Mix in a New York Loft [video]](https://www.youtube.com/watch?v=aZRo27KarK4)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

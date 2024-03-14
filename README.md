@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Nvtop: Linux Task Monitor for Nvidia, AMD and Intel GPUs](https://github.com/Syllo/nvtop)
-- [Direct File officially opens in 12 pilot states](https://www.irs.gov/newsroom/direct-file-officially-opens-in-12-pilot-states-following-positive-early-reviews-eligible-taxpayers-can-file-online-directly-with-the-irs-for-free)
-- [A ragtag band of internet friends became the best at forecasting world events](https://www.vox.com/future-perfect/2024/2/13/24070864/samotsvety-forecasting-superforecasters-tetlock)
-- [Detect Caps Lock with JavaScript](https://davidwalsh.name/detect-caps-lock)
-- [On Migraine Scintillating Scotomas](https://clairelevans.substack.com/p/brighter-than-a-cloud)
-- [Scammed by the top result for &#39;Bitcoin wallet&#39; in Apple App Store](https://news.ycombinator.com/item?id=39685272)
-- [LOCS: Language developed at age 9 in Z80 machine code &lpar;1988&rpar;](https://nanochess.org/locs.html)
-- [40 Years of Programming](https://liw.fi/40/)
-- [The internet isn&#39;t dying, it&#39;s changing](https://coryd.dev/posts/2024/the-internet-isnt-dying-its-changing/)
-- [Chyrp Lite – An Ultra-Lightweight Tumblelogging Engine Using PHP and SQLite](https://chyrplite.net/)
+- [Care](https://johan.hal.se/wrote/2024/02/28/care/)
+- [Nanos – A Unikernel](https://nanos.org)
+- [LaVague: Open-source Large Action Model to automate Selenium browsing](https://github.com/lavague-ai/LaVague)
+- [Giant &#39;sand battery&#39; holds a week&#39;s heat for a whole town](https://newatlas.com/energy/sand-battery-finland/)
+- [Spinkube: Running WASM in Kubernetes](https://www.fermyon.com/blog/introducing-spinkube-fermyon-platform-for-k8s)
+- [Linux TTY font for Chinese, but treat it as a syllabic writing](https://github.com/oldherl/syllazh)
+- [The Myers diff algorithm: part 1](https://blog.jcoglan.com/2017/02/12/the-myers-diff-algorithm-part-1/)
+- [OpenAI: Streaming is now available in the Assistants API](https://platform.openai.com/docs/assistants/overview/step-4-create-a-run?context=with-streaming)
+- [Prostate cancer includes two different evotypes](https://www.ox.ac.uk/news/2024-03-05-ai-reveals-prostate-cancer-not-just-one-disease)
+- [How Arnold Schoenberg changed Hollywood](https://www.newyorker.com/magazine/2024/03/18/how-arnold-schoenberg-changed-hollywood)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

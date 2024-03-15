@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [JSON in Oracle Database Office Hours: Binary JSON Formats [video]](https://www.youtube.com/watch?v=oNpOl_klQP8)
-- [Pngmaker.ai: Transform Text into PNG Images for Free](https://pngmaker.ai)
-- [DARC: your C-Corp or LLC registered on Ethereum, not with government [pdf]](https://github.com/Project-DARC/DARC-whitepaper/blob/release/darc-whitepaper.pdf)
-- [The White House wants to know more about Tesla&#39;s charging standard](https://www.automotivedive.com/news/fhwa-rfi-tesla-north-america-charging-standard-nevi/709697/)
-- [Pi Day](https://www.piday.org/)
-- [Pi Day Challenge: draw a perfect circle freehand](https://matrix67.itch.io/pi-day-challenge)
-- [Most subscription mobile apps don&#39;t make money, new report shows](https://techcrunch.com/2024/03/12/most-subscription-mobile-apps-dont-make-money-new-report-shows/)
-- [Curiosity-Driven Red-Teaming for Large Language Models](https://github.com/Improbable-AI/curiosity_redteam)
-- [Have You Checked AI Sodtware Engineer: Devin](https://news.ycombinator.com/item?id=39699756)
-- [Dreamy Progressive House Mix in a New York Loft [video]](https://www.youtube.com/watch?v=aZRo27KarK4)
+- [The science of Oppenheimer: meet the Oscar-winning movie&#39;s specialist advisers](https://www.nature.com/articles/d41586-024-00715-3)
+- [Achieving awful compression with digits of pi](https://ntietz.com/blog/why-we-cant-compress-messages-with-pi/)
+- [Show HN: Greasemonkey script to get Perplexity answers in Google](https://github.com/adtac/perplexa)
+- [Scientists Discovered a &#39;Fear Switch&#39; in the Brain, and How to Turn It Off](https://www.sciencealert.com/scientists-discovered-a-fear-switch-in-the-brain-and-how-to-turn-it-off)
+- [First uranium shipped from enCore&#39;s Rosita plant](https://www.world-nuclear-news.org/Articles/First-uranium-shipped-from-enCore-s-Rosita-plant?feed=feed)
+- [Coding Mm to Inches with Python](https://www.slyautomation.com/blog/mm-to-inches-python-app/)
+- [What&#39;s New on CPAN: February 2024](https://www.perl.com/article/what-s-new-on-cpan-february-2024/)
+- [The Speediest Creatures on Earth](https://nautil.us/the-speediest-creatures-on-earth-532660/)
+- [A simple blood test can detect colorectal cancer early, study finds](https://www.npr.org/sections/health-shots/2024/03/14/1238390033/a-simple-blood-test-can-detect-colorectal-cancer-early-study-finds)
+- [Perfect Resume &lpar;ATS and Keywords Optimized&rpar;](https://chat.openai.com/g/g-XX5D6Xx05-perfect-resume-ats-keywords-optimized)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

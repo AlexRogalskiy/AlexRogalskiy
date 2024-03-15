@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [House votes to force TikTok owner ByteDance to divest or face US ban](https://www.theguardian.com/technology/2024/mar/13/house-passes-tiktok-bill-ban)
-- [Zimbabwe police arrest apostolic ‘prophet’ and rescue 251 children from compound](https://www.theguardian.com/world/2024/mar/14/zimbabwe-police-arrest-apostolic-prophet-and-rescue-251-children-from-compound)
-- [US rancher used tissue and testicles to breed ‘giant’ sheep to sell for hunting](https://www.theguardian.com/us-news/2024/mar/13/montana-rancher-tissue-testicles-giant-hybrid-sheep)
-- [Poland recalls 50 ambassadors appointed by former rightwing government](https://www.theguardian.com/world/2024/mar/14/poland-recalls-50-ambassadors-appointed-right-wing-government)
-- [Ukraine war briefing: refineries in Russia burn as Ukrainians go after Kremlin’s lifeline](https://www.theguardian.com/world/2024/mar/14/ukraine-russia-war-update-today-aid-putin-zelenskiy)
-- [China may be facing too many economic obstacles to hit its ambitious growth target for 2024](https://www.theguardian.com/business/2024/mar/14/china-may-be-facing-too-many-economic-obstacles-to-hit-its-ambitious-growth-target-for-2024)
-- [Ministers and officials to be banned from contact with groups labelled extremist](https://www.theguardian.com/world/2024/mar/14/ministers-and-officials-to-be-banned-from-contact-with-groups-labelled-extremist)
-- [‘Restless, angry’ voters vulnerable to far-right extremism, warns Hope Not Hate](https://www.theguardian.com/politics/2024/mar/14/restless-angry-voters-vulnerable-to-far-right-extremism-warns-hope-not-hate)
-- [Students suspended even for short spells fare worse at GCSEs, study finds](https://www.theguardian.com/education/2024/mar/14/students-suspended-even-for-short-spells-fare-worse-at-gcses-study-finds)
-- [Hollywood connection: Wrexham lines up three-hour direct rail service to London](https://www.theguardian.com/business/2024/mar/14/hollywood-connection-wrexham-lines-up-three-hour-direct-rail-service-to-london)
+- [France’s lower house votes to limit ‘excesses’ of fast fashion with environmental surcharge](https://www.theguardian.com/world/2024/mar/15/france-fast-fashion-law-environmental-surcharge-lower-house-votes)
+- [Time to stop using term ‘long Covid’ as symptoms are no worse than those after flu, study finds](https://www.theguardian.com/society/2024/mar/15/long-covid-symptoms-flu-cold)
+- [Mystery in Japan as dangerous streptococcal infections soar to record levels](https://www.theguardian.com/world/2024/mar/15/japan-streptococcal-infections-rise-details)
+- [Father of Michigan school shooter found guilty of involuntary manslaughter](https://www.theguardian.com/us-news/2024/mar/14/father-of-michigan-school-shooter-found-guilty-of-involuntary-manslaughter)
+- [Violent online content ‘unavoidable’ for UK children, Ofcom finds](https://www.theguardian.com/technology/2024/mar/15/violent-online-content-unavoidable-for-uk-children-ofcom-finds)
+- [Premier League and FA Cup quarter-finals: what to look out for this weekend](https://www.theguardian.com/football/2024/mar/15/premier-league-and-fa-cup-quarter-finals-what-to-look-out-for-this-weekend)
+- [20,000 people off work in the UK every month for mental ill health](https://www.theguardian.com/society/2024/mar/14/mental-ill-health-causing-sharp-rise-in-benefit-claims-in-uk-data-shows)
+- [Neurological conditions now leading cause of ill-health worldwide, finds study](https://www.theguardian.com/society/2024/mar/14/neurological-conditions-now-leading-cause-of-ill-health-worldwide-finds-study)
+- [Props from botched Willy Wonka event raise more than £2,000 for Palestinian aid charity](https://www.theguardian.com/uk-news/2024/mar/14/props-from-botched-willy-wonka-event-raise-over-2000-for-palestinian-aid-charity)
+- [Steve Borthwick’s England have plan to unsettle Les Bleus behemoths](https://www.theguardian.com/sport/2024/mar/14/steve-borthwicks-england-have-plan-in-place-to-unsettle-les-bleus-behemoths)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Admins see snags as macOS Sonoma 14.4 hits Macs](https://www.computerworld.com/article/3714166/admins-see-snags-as-macos-sonoma-144-hits-macs.html#tk.rss_all)
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [Anthropic launches its fastest and cheapest AI model yet](https://www.computerworld.com/article/3714446/anthropic-launches-its-fastest-and-cheapest-ai-model-yet.html#tk.rss_all)
+- [AI hallucination mitigation: two brains are better than one](https://www.computerworld.com/article/3714290/ai-hallucination-mitigation-two-brains-are-better-than-one.html#tk.rss_all)
 - [The EU browser wars have begun as Apple opens up](https://www.computerworld.com/article/3714266/the-eu-browser-wars-have-begun-as-apple-opens-up.html#tk.rss_all)
 - [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
 - [New AI assistant threatens software engineering jobs](https://www.infoworld.com/article/3714144/new-ai-assistant-threatens-software-engineering-jobs.html#tk.rss_all)
 - [Microsoft is holding back the ‘AI PC’ revolution](https://www.computerworld.com/article/3714440/microsoft-is-holding-back-the-ai-pc-revolution.html#tk.rss_all)
 - [A call for digital-privacy regulation &#39;with teeth&#39; at the federal level](https://www.computerworld.com/article/3713209/a-call-for-digital-privacy-regulation-with-teeth-at-the-federal-level.html#tk.rss_all)
 - [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
-- [US pushes to weaken international human rights treaty on use of AI software](https://www.computerworld.com/article/3714289/us-pushes-to-weaken-international-human-rights-treaty-on-use-of-ai-software.html#tk.rss_all)
-- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [EC&#39;s use of Microsoft 365 violates data-privacy rules, watchdog group says](https://www.computerworld.com/article/3714443/ecs-use-of-microsoft-365-violates-data-privacy-rules-watchdog-group-says.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

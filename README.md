@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The science of Oppenheimer: meet the Oscar-winning movie&#39;s specialist advisers](https://www.nature.com/articles/d41586-024-00715-3)
-- [Achieving awful compression with digits of pi](https://ntietz.com/blog/why-we-cant-compress-messages-with-pi/)
-- [Show HN: Greasemonkey script to get Perplexity answers in Google](https://github.com/adtac/perplexa)
-- [Scientists Discovered a &#39;Fear Switch&#39; in the Brain, and How to Turn It Off](https://www.sciencealert.com/scientists-discovered-a-fear-switch-in-the-brain-and-how-to-turn-it-off)
-- [First uranium shipped from enCore&#39;s Rosita plant](https://www.world-nuclear-news.org/Articles/First-uranium-shipped-from-enCore-s-Rosita-plant?feed=feed)
-- [Coding Mm to Inches with Python](https://www.slyautomation.com/blog/mm-to-inches-python-app/)
-- [What&#39;s New on CPAN: February 2024](https://www.perl.com/article/what-s-new-on-cpan-february-2024/)
-- [The Speediest Creatures on Earth](https://nautil.us/the-speediest-creatures-on-earth-532660/)
-- [A simple blood test can detect colorectal cancer early, study finds](https://www.npr.org/sections/health-shots/2024/03/14/1238390033/a-simple-blood-test-can-detect-colorectal-cancer-early-study-finds)
-- [Perfect Resume &lpar;ATS and Keywords Optimized&rpar;](https://chat.openai.com/g/g-XX5D6Xx05-perfect-resume-ats-keywords-optimized)
+- [Apple Agrees to Pay $490M to Settle Lawsuit That Tim Cook Defrauded Shareholders](https://www.macrumors.com/2024/03/15/apple-agrees-to-settle-tim-cook-investor-lawsuit/)
+- [Show HN: Podsynth – Simple Canvas for Language and Audio Models](https://www.podsynth.com/)
+- [Liberalism by Cass R. Sunstein](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4644402)
+- [NASA PVS Library Featured in the Movie &quot;The Martian&quot;](https://shemesh.larc.nasa.gov/fm/pvs/TheMartian/)
+- [Chinese firm&#39;s leaked files show vast international hacking effort](https://www.washingtonpost.com/world/2024/02/21/china-hacking-leak-documents-isoon/)
+- [Confirmation of the world&#39;s oldest woven garment: the Tarkhan Dress &lpar;2016&rpar;](https://www.antiquity.ac.uk/projgall/stevenson349)
+- [ChatGPT prompt reply copy-pasted in a published research paper](https://twitter.com/Saboo_Shubham_/status/1768714521340752093)
+- [American Mountaineer and Filmmaker David Breashears Dies at Age 68](https://www.outsideonline.com/outdoor-adventure/everest/david-breashears-dies/)
+- [Nigeria pushes Binance for user data in stand-off over naira speculation](https://www.ft.com/content/9c1394de-0492-4597-b075-cbf19e0b6e83)
+- [Show HN: A website tracking subreddit&#39;s active user so you know when to post](https://redditDB.info)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Not so quickly extending QUIC](https://lwn.net/Articles/964377/)
-- [New York Disbars Infamous Copyright Troll](https://abovethelaw.com/2024/03/new-york-disbars-infamous-copyright-troll/)
-- [The Getty Makes Nearly 88,000 Art Images Free to Use However You Like](https://www.openculture.com/2024/03/the-getty-makes-nearly-88000-art-images-free-to-use-however-you-like.html)
-- [Class Action Against General Motors LLC, OnStar LLC, LexisNexis Risk Solutions [pdf]](https://static01.nyt.com/newsgraphics/documenttools/0a813fc8e0ac1b6c/6c03d310-full.pdf)
-- [Oregon Outback is now the largest Dark Sky Sanctuary in the world](https://www.hereisoregon.com/experiences/2024/03/oregon-outback-is-now-the-largest-dark-sky-sanctuary-in-the-world.html)
-- [What I learned from looking at 900 most popular open source AI tools](https://huyenchip.com/2024/03/14/ai-oss.html)
-- [Apple Buys DarwinAI Ahead of Major Generative AI Updates Coming in iOS 18](https://www.macrumors.com/2024/03/14/apple-acquires-darwinai/)
-- [CEO of data privacy company Onerep.com founded dozens of people-search firms](https://krebsonsecurity.com/2024/03/ceo-of-data-privacy-company-onerep-com-founded-dozens-of-people-search-firms/)
-- [FCC Officially Raises Minimum Broadband Metric from 25Mbps to 100Mbps](https://www.pcmag.com/news/fcc-officially-raises-minimum-broadband-metric-from-25mbps-to-100mbps)
-- [More powerful Go execution traces](https://go.dev/blog/execution-traces-2024)
+- [ChatGPT prompt reply copy-pasted in a published research paper](https://twitter.com/Saboo_Shubham_/status/1768714521340752093)
+- [AI versions of deceased loved ones could be a serious threat to mental health](https://theconversation.com/ghostbots-ai-versions-of-deceased-loved-ones-could-be-a-serious-threat-to-mental-health-224984)
+- [Titanosaurs were the biggest land animals Earth&#39;s ever seen](https://phys.org/news/2024-03-titanosaurs-biggest-animals-earth-combining.html)
+- [Doola &lpar;YC S20&rpar; Is Hiring a Director of Finance](https://www.workatastartup.com/jobs/55496)
+- [The End of the Dark Universe?](https://nautil.us/the-end-of-the-dark-universe-531983/)
+- [The United States has its first large offshore wind farm, with more to come](https://apnews.com/article/orsted-offshore-wind-new-york-south-fork-climate-cbb9360388d91be1368dd91ba35aa384)
+- [GhostRace: Exploiting and Mitigating Speculative Race Conditions](https://www.vusec.net/projects/ghostrace/)
+- [Great Ideas in Theoretical Computer Science](https://www.cs251.com)
+- [Zig, Rust, and Other Languages](https://notes.eatonphil.com/2024-03-15-zig-rust-and-other-languages.html)
+- [ArXiv Papers as Audiobooks](https://github.com/imelnyk/ArxivPapers)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

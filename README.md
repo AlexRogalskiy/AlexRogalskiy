@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [France’s lower house votes to limit ‘excesses’ of fast fashion with environmental surcharge](https://www.theguardian.com/world/2024/mar/15/france-fast-fashion-law-environmental-surcharge-lower-house-votes)
-- [Time to stop using term ‘long Covid’ as symptoms are no worse than those after flu, study finds](https://www.theguardian.com/society/2024/mar/15/long-covid-symptoms-flu-cold)
-- [Mystery in Japan as dangerous streptococcal infections soar to record levels](https://www.theguardian.com/world/2024/mar/15/japan-streptococcal-infections-rise-details)
-- [Father of Michigan school shooter found guilty of involuntary manslaughter](https://www.theguardian.com/us-news/2024/mar/14/father-of-michigan-school-shooter-found-guilty-of-involuntary-manslaughter)
-- [Violent online content ‘unavoidable’ for UK children, Ofcom finds](https://www.theguardian.com/technology/2024/mar/15/violent-online-content-unavoidable-for-uk-children-ofcom-finds)
-- [Premier League and FA Cup quarter-finals: what to look out for this weekend](https://www.theguardian.com/football/2024/mar/15/premier-league-and-fa-cup-quarter-finals-what-to-look-out-for-this-weekend)
-- [20,000 people off work in the UK every month for mental ill health](https://www.theguardian.com/society/2024/mar/14/mental-ill-health-causing-sharp-rise-in-benefit-claims-in-uk-data-shows)
-- [Neurological conditions now leading cause of ill-health worldwide, finds study](https://www.theguardian.com/society/2024/mar/14/neurological-conditions-now-leading-cause-of-ill-health-worldwide-finds-study)
-- [Props from botched Willy Wonka event raise more than £2,000 for Palestinian aid charity](https://www.theguardian.com/uk-news/2024/mar/14/props-from-botched-willy-wonka-event-raise-over-2000-for-palestinian-aid-charity)
-- [Steve Borthwick’s England have plan to unsettle Les Bleus behemoths](https://www.theguardian.com/sport/2024/mar/14/steve-borthwicks-england-have-plan-in-place-to-unsettle-les-bleus-behemoths)
+- [Jordan Spieth says PGA Tour players are ready to meet with Saudis](https://www.theguardian.com/sport/2024/mar/15/jordan-spieth-says-pga-tour-players-ready-to-meet-with-saudis)
+- [Billie Piper says she dislikes discussing ex-husband Laurence Fox’s comments](https://www.theguardian.com/tv-and-radio/2024/mar/15/billie-piper-says-she-dislikes-discussing-ex-husband-laurence-foxs-comments)
+- [Love, logistics and fresh beginnings: readers on the reasons they remarried](https://www.theguardian.com/lifeandstyle/2024/mar/16/love-logistics-and-fresh-beginnings-readers-on-the-reasons-they-remarried)
+- [Russia: voters use petrol bombs and dye to protest against elections at polling stations – video](https://www.theguardian.com/world/video/2024/mar/15/russia-voters-use-petrol-bombs-and-dye-to-protest-against-elections-at-polling-stations-video)
+- [Diane Abbott thanks supporters at anti-racism rally in east London](https://www.theguardian.com/politics/2024/mar/15/diane-abbott-shown-support-by-large-crowds-of-people-at-rally-in-hackney)
+- [The week around the world in 20 pictures](https://www.theguardian.com/artanddesign/gallery/2024/mar/15/the-week-around-the-world-in-20-pictures)
+- [Apple to pay $490m to settle claims it misled investors over sales in China](https://www.theguardian.com/technology/2024/mar/15/apple-tim-cook-settlement-misleading-investors-iphone-sales)
+- [Moses Mbye try completes St Helens’ Super League comeback win at Leeds](https://www.theguardian.com/sport/2024/mar/15/leeds-st-helens-super-league-match-report)
+- [Authors withdraw from PEN America festival in protest over Israel-Gaza war](https://www.theguardian.com/us-news/2024/mar/15/pen-america-festival-authors-withdraw-israel-gaza-war-protest)
+- [DeSantis signs bills expanding prison sentences for undocumented migrants](https://www.theguardian.com/us-news/2024/mar/15/ron-desantis-prison-sentences-undocumented-immigrants)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

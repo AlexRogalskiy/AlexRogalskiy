@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Jordan Spieth says PGA Tour players are ready to meet with Saudis](https://www.theguardian.com/sport/2024/mar/15/jordan-spieth-says-pga-tour-players-ready-to-meet-with-saudis)
-- [Billie Piper says she dislikes discussing ex-husband Laurence Fox’s comments](https://www.theguardian.com/tv-and-radio/2024/mar/15/billie-piper-says-she-dislikes-discussing-ex-husband-laurence-foxs-comments)
-- [Love, logistics and fresh beginnings: readers on the reasons they remarried](https://www.theguardian.com/lifeandstyle/2024/mar/16/love-logistics-and-fresh-beginnings-readers-on-the-reasons-they-remarried)
-- [Russia: voters use petrol bombs and dye to protest against elections at polling stations – video](https://www.theguardian.com/world/video/2024/mar/15/russia-voters-use-petrol-bombs-and-dye-to-protest-against-elections-at-polling-stations-video)
-- [Diane Abbott thanks supporters at anti-racism rally in east London](https://www.theguardian.com/politics/2024/mar/15/diane-abbott-shown-support-by-large-crowds-of-people-at-rally-in-hackney)
-- [The week around the world in 20 pictures](https://www.theguardian.com/artanddesign/gallery/2024/mar/15/the-week-around-the-world-in-20-pictures)
-- [Apple to pay $490m to settle claims it misled investors over sales in China](https://www.theguardian.com/technology/2024/mar/15/apple-tim-cook-settlement-misleading-investors-iphone-sales)
-- [Moses Mbye try completes St Helens’ Super League comeback win at Leeds](https://www.theguardian.com/sport/2024/mar/15/leeds-st-helens-super-league-match-report)
-- [Authors withdraw from PEN America festival in protest over Israel-Gaza war](https://www.theguardian.com/us-news/2024/mar/15/pen-america-festival-authors-withdraw-israel-gaza-war-protest)
-- [DeSantis signs bills expanding prison sentences for undocumented migrants](https://www.theguardian.com/us-news/2024/mar/15/ron-desantis-prison-sentences-undocumented-immigrants)
+- [Shock losses to LNP and Greens in Queensland elections sound warning for Labor ahead of October poll](https://www.theguardian.com/australia-news/2024/mar/16/queenslands-labor-government-may-lose-safe-seat-worst-byelection-result-decades)
+- [Volcano in Iceland erupts for fourth time in three months](https://www.theguardian.com/world/2024/mar/16/volcano-in-iceland-erupts-for-fourth-time-in-three-months)
+- [Editors’ picks: How to wear colour – in pictures](https://www.theguardian.com/fashion/gallery/2024/mar/16/editors-picks-how-to-wear-colour-in-pictures)
+- [Take flight: 14 of the best bomber jackets for spring – in pictures](https://www.theguardian.com/fashion/gallery/2024/mar/16/take-flight-14-of-the-best-bomber-jackets-for-spring-in-pictures)
+- [Schauffele takes Players Championship lead but progress slow on Saudi talks](https://www.theguardian.com/sport/2024/mar/16/golf-players-championship-third-round-xander-schauffele)
+- [Tesla settles with former employee over racial discrimination claims](https://www.theguardian.com/technology/2024/mar/16/tesla-settles-racial-discrimination-claims)
+- [As I slide into my ninth decade there are many things I regret, and some days the list is endless | Robyn Read](https://www.theguardian.com/science/2024/mar/17/as-i-slide-into-my-ninth-decade-there-are-many-things-i-regret-and-some-days-the-list-is-endless)
+- [Klopp trusts youth amid injury chaos as farewell tour arrives at Old Trafford | Will Unwin](https://www.theguardian.com/football/2024/mar/16/klopp-trusts-youth-amid-injury-chaos-as-farewell-tour-arrives-at-old-trafford)
+- [Philadelphia manhunt ends as police arrest suspect in three shooting deaths](https://www.theguardian.com/us-news/2024/mar/16/philadelphia-shooting-shelter-in-place-order-hostages)
+- [Ramos’ late penalty gives France win against England in seven-try thriller](https://www.theguardian.com/sport/2024/mar/16/france-england-six-nations-rugby-union-match-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

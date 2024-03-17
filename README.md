@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [ChatGPT prompt reply copy-pasted in a published research paper](https://twitter.com/Saboo_Shubham_/status/1768714521340752093)
-- [AI versions of deceased loved ones could be a serious threat to mental health](https://theconversation.com/ghostbots-ai-versions-of-deceased-loved-ones-could-be-a-serious-threat-to-mental-health-224984)
-- [Titanosaurs were the biggest land animals Earth&#39;s ever seen](https://phys.org/news/2024-03-titanosaurs-biggest-animals-earth-combining.html)
-- [Doola &lpar;YC S20&rpar; Is Hiring a Director of Finance](https://www.workatastartup.com/jobs/55496)
-- [The End of the Dark Universe?](https://nautil.us/the-end-of-the-dark-universe-531983/)
-- [The United States has its first large offshore wind farm, with more to come](https://apnews.com/article/orsted-offshore-wind-new-york-south-fork-climate-cbb9360388d91be1368dd91ba35aa384)
-- [GhostRace: Exploiting and Mitigating Speculative Race Conditions](https://www.vusec.net/projects/ghostrace/)
-- [Great Ideas in Theoretical Computer Science](https://www.cs251.com)
-- [Zig, Rust, and Other Languages](https://notes.eatonphil.com/2024-03-15-zig-rust-and-other-languages.html)
-- [ArXiv Papers as Audiobooks](https://github.com/imelnyk/ArxivPapers)
+- [Bar exam will no longer be required to become attorney in Washington State](https://www.spokesman.com/stories/2024/mar/15/supreme-court-bar-exam-will-no-longer-be-required-/)
+- [How a Solar Revolution in Farming Is Depleting Groundwater](https://e360.yale.edu/features/solar-water-pumps-groundwater-crops)
+- [Mintlify GitHub read/write token leak](https://mintlify.com/blog/incident-march-13)
+- [Application.garden – a platform for hosting small web apps written in Clojure](https://application.garden/signup)
+- [The language you speak changes your perception of time](https://www.popsci.com/language-time-perception/)
+- [How web bloat impacts users with slow devices](https://danluu.com/slow-device/)
+- [IBM 360 in UK need a home](https://www.ibm360.co.uk/)
+- [20 Years in the Making, GnuCOBOL Is Ready for Industry](https://thenewstack.io/20-years-in-the-making-gnucobol-is-ready-for-industry/)
+- [Hackintosh Is Almost Dead](https://aplus.rs/2024/hackintosh-almost-dead/)
+- [Lambda on hard mode: serverless HTTP in Rust](https://modal.com/blog/serverless-http)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

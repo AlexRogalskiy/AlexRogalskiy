@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Apple Agrees to Pay $490M to Settle Lawsuit That Tim Cook Defrauded Shareholders](https://www.macrumors.com/2024/03/15/apple-agrees-to-settle-tim-cook-investor-lawsuit/)
-- [Show HN: Podsynth – Simple Canvas for Language and Audio Models](https://www.podsynth.com/)
-- [Liberalism by Cass R. Sunstein](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4644402)
-- [NASA PVS Library Featured in the Movie &quot;The Martian&quot;](https://shemesh.larc.nasa.gov/fm/pvs/TheMartian/)
-- [Chinese firm&#39;s leaked files show vast international hacking effort](https://www.washingtonpost.com/world/2024/02/21/china-hacking-leak-documents-isoon/)
-- [Confirmation of the world&#39;s oldest woven garment: the Tarkhan Dress &lpar;2016&rpar;](https://www.antiquity.ac.uk/projgall/stevenson349)
-- [ChatGPT prompt reply copy-pasted in a published research paper](https://twitter.com/Saboo_Shubham_/status/1768714521340752093)
-- [American Mountaineer and Filmmaker David Breashears Dies at Age 68](https://www.outsideonline.com/outdoor-adventure/everest/david-breashears-dies/)
-- [Nigeria pushes Binance for user data in stand-off over naira speculation](https://www.ft.com/content/9c1394de-0492-4597-b075-cbf19e0b6e83)
-- [Show HN: A website tracking subreddit&#39;s active user so you know when to post](https://redditDB.info)
+- [Zxaaa.net – Collection of ZX Spectrum demos with video](https://zxaaa.net/view_demos.php?np=1)
+- [Frans de Waal remembered for bringing apes &#39;a little closer to humans&#39;](https://news.emory.edu/features/2024/03/er_frans_de_waal_16-03-2024/index.html)
+- [Why Don&#39;t All Cars Have a Rear Windshield Wiper?](https://www.familyhandyman.com/article/why-dont-all-cars-have-a-rear-windshield-wiper/)
+- [Dspyt DAO: Futarchy – a form of governance](https://dspyt.com/futarchy-governance-mechanism-meta-dao)
+- [The Subversive Hyperlink](https://blog.jim-nielsen.com/2024/the-subversive-hyperlink/)
+- [Losing Faith on Testing](https://registerspill.thorstenball.com/p/a-few-words-on-testing)
+- [Immich: Self-hosted photo and video management solution](https://immich.app/)
+- [CitizenX: Invest in Citizenship](https://citizenx.com/)
+- [Essential questions to guide your data tool selection](https://aiven.io/blog/data-tool-selection)
+- [Cheap Cars Are Dead](https://www.motor1.com/features/710453/cheap-cars-dead/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

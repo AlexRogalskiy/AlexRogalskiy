@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Shock losses to LNP and Greens in Queensland elections sound warning for Labor ahead of October poll](https://www.theguardian.com/australia-news/2024/mar/16/queenslands-labor-government-may-lose-safe-seat-worst-byelection-result-decades)
-- [Volcano in Iceland erupts for fourth time in three months](https://www.theguardian.com/world/2024/mar/16/volcano-in-iceland-erupts-for-fourth-time-in-three-months)
-- [Editors’ picks: How to wear colour – in pictures](https://www.theguardian.com/fashion/gallery/2024/mar/16/editors-picks-how-to-wear-colour-in-pictures)
-- [Take flight: 14 of the best bomber jackets for spring – in pictures](https://www.theguardian.com/fashion/gallery/2024/mar/16/take-flight-14-of-the-best-bomber-jackets-for-spring-in-pictures)
-- [Schauffele takes Players Championship lead but progress slow on Saudi talks](https://www.theguardian.com/sport/2024/mar/16/golf-players-championship-third-round-xander-schauffele)
-- [Tesla settles with former employee over racial discrimination claims](https://www.theguardian.com/technology/2024/mar/16/tesla-settles-racial-discrimination-claims)
-- [As I slide into my ninth decade there are many things I regret, and some days the list is endless | Robyn Read](https://www.theguardian.com/science/2024/mar/17/as-i-slide-into-my-ninth-decade-there-are-many-things-i-regret-and-some-days-the-list-is-endless)
-- [Klopp trusts youth amid injury chaos as farewell tour arrives at Old Trafford | Will Unwin](https://www.theguardian.com/football/2024/mar/16/klopp-trusts-youth-amid-injury-chaos-as-farewell-tour-arrives-at-old-trafford)
-- [Philadelphia manhunt ends as police arrest suspect in three shooting deaths](https://www.theguardian.com/us-news/2024/mar/16/philadelphia-shooting-shelter-in-place-order-hostages)
-- [Ramos’ late penalty gives France win against England in seven-try thriller](https://www.theguardian.com/sport/2024/mar/16/france-england-six-nations-rugby-union-match-report)
+- [Hong Kong artists flee as city grapples with status as arts hub amid rising repression](https://www.theguardian.com/world/2024/mar/18/hong-kong-artists-flee-city-repression-works-destroyed-government)
+- [Ireland ready themselves for South Africa as Scotland rue near misses](https://www.theguardian.com/sport/2024/mar/18/ireland-ready-themselves-for-south-africa-as-scotland-rue-near-misses)
+- [CATL, the little-known Chinese battery maker that has the US worried](https://www.theguardian.com/world/2024/mar/18/catl-chinese-battery-maker-evs-electric-vehicles)
+- [UK house prices rise by 1.5% in biggest increase for 10 months](https://www.theguardian.com/money/2024/mar/18/house-prices-rise-in-biggest-increase-for-10-months)
+- [UK researchers find way of diagnosing bowel cancer without biopsies](https://www.theguardian.com/society/2024/mar/18/uk-researchers-find-way-of-diagnosing-bowel-cancer-without-biopsies)
+- [UK scientists working on breast cancer monitor fitted in bra](https://www.theguardian.com/society/2024/mar/18/breast-cancer-monitor-bra-scientists-nottingham-trent-university)
+- [‘Laced with fear and a lot of fun’: Punchdrunk announce new ‘slumber party’ show](https://www.theguardian.com/stage/2024/mar/18/laced-with-fear-and-a-lot-of-fun-punchdrunk-announce-new-slumber-party-show)
+- [Steve Harley – a life in pictures](https://www.theguardian.com/music/gallery/2024/mar/17/steve-harley-a-life-in-pictures)
+- [Carlos Alcaraz overcomes slow start to beat Medvedev for Indian Wells title](https://www.theguardian.com/sport/2024/mar/17/carlos-alcaraz-overcomes-slow-start-to-beat-medvedev-and-win-indian-wells-title)
+- [Vladimir Putin claims landslide Russian election victory](https://www.theguardian.com/world/2024/mar/17/kremlin-vladimir-putin-claim-landslide-russian-election-victory)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

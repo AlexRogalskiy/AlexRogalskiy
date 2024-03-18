@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Zxaaa.net – Collection of ZX Spectrum demos with video](https://zxaaa.net/view_demos.php?np=1)
-- [Frans de Waal remembered for bringing apes &#39;a little closer to humans&#39;](https://news.emory.edu/features/2024/03/er_frans_de_waal_16-03-2024/index.html)
-- [Why Don&#39;t All Cars Have a Rear Windshield Wiper?](https://www.familyhandyman.com/article/why-dont-all-cars-have-a-rear-windshield-wiper/)
-- [Dspyt DAO: Futarchy – a form of governance](https://dspyt.com/futarchy-governance-mechanism-meta-dao)
-- [The Subversive Hyperlink](https://blog.jim-nielsen.com/2024/the-subversive-hyperlink/)
-- [Losing Faith on Testing](https://registerspill.thorstenball.com/p/a-few-words-on-testing)
-- [Immich: Self-hosted photo and video management solution](https://immich.app/)
-- [CitizenX: Invest in Citizenship](https://citizenx.com/)
-- [Essential questions to guide your data tool selection](https://aiven.io/blog/data-tool-selection)
-- [Cheap Cars Are Dead](https://www.motor1.com/features/710453/cheap-cars-dead/)
+- [NIH Study Provides Long-Awaited Insight into Myalgic Encephalomyelitis/CFS](https://jamanetwork.com/journals/jama/fullarticle/2816614)
+- [The difficulty of SQL stems from relational algebra](https://github.com/SPLWare/esProc/wiki/The-difficulty-of-SQL-stems-from-relational-algebra)
+- [Body Problem: Game of Thrones creators on why they swapped dragons for aliens](https://www.bbc.com/news/entertainment-arts-68484524)
+- [Insanity in the Air: The crash of Pakistan International Airlines flight 8303](https://admiralcloudberg.medium.com/insanity-in-the-air-the-crash-of-pakistan-international-airlines-flight-8303-46bbcc0e5f45)
+- [The epidemic of &#39;overwork&#39; is a dangerous illusion](https://www.channelnewsasia.com/commentary/office-work-burnout-boundaries-productivity-dropouts-jobs-4201076)
+- [App developers required to reveal home address to EU customers](https://developer.apple.com/help/app-store-connect/manage-compliance-information/manage-european-union-digital-services-act-compliance-information/)
+- [Aethero wants to become the space industry&#39;s Intel or Nvidia](https://techcrunch.com/2024/03/14/aethero-wants-to-become-the-space-industrys-intel-or-nvidia/)
+- [Devin: The First Ever AI Software Engineer](https://opencv.org/blog/devin-ai-software-engineer/)
+- [Pykrete](https://en.wikipedia.org/wiki/Pykrete)
+- [Rapid Changes in Earth&#39;s Magnetic Field over Past 100k Years](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023GC011236)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

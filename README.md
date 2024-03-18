@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Bar exam will no longer be required to become attorney in Washington State](https://www.spokesman.com/stories/2024/mar/15/supreme-court-bar-exam-will-no-longer-be-required-/)
-- [How a Solar Revolution in Farming Is Depleting Groundwater](https://e360.yale.edu/features/solar-water-pumps-groundwater-crops)
-- [Mintlify GitHub read/write token leak](https://mintlify.com/blog/incident-march-13)
-- [Application.garden – a platform for hosting small web apps written in Clojure](https://application.garden/signup)
-- [The language you speak changes your perception of time](https://www.popsci.com/language-time-perception/)
-- [How web bloat impacts users with slow devices](https://danluu.com/slow-device/)
-- [IBM 360 in UK need a home](https://www.ibm360.co.uk/)
-- [20 Years in the Making, GnuCOBOL Is Ready for Industry](https://thenewstack.io/20-years-in-the-making-gnucobol-is-ready-for-industry/)
-- [Hackintosh Is Almost Dead](https://aplus.rs/2024/hackintosh-almost-dead/)
-- [Lambda on hard mode: serverless HTTP in Rust](https://modal.com/blog/serverless-http)
+- [IBM Research: Experience with an Uncommon Lisp &lpar;1986&rpar; [pdf]](https://dl.acm.org/doi/pdf/10.1145/319838.319849)
+- [American News Lost Its Nerve](https://www.semafor.com/article/03/17/2024/very-few-have-balls-how-american-news-lost-its-nerve)
+- [6.2 GHz Intel Core I9-14900KS Review](https://www.tomshardware.com/pc-components/cpus/intel-core-i9-14900ks-cpu-review)
+- [Mysterious Drones Swarmed Langley AFB for Weeks](https://www.twz.com/air/mysterious-drones-swarmed-langley-afb-for-weeks)
+- [OpenSora Releases its first trained checkpoints &lpar;2-5 SEC, 512x512 T2V&rpar;](https://github.com/hpcaitech/Open-Sora)
+- [Meticulous &lpar;YC S21&rpar; is hiring to eliminate UI tests](https://news.ycombinator.com/item?id=39738042)
+- [Terminal Latency](https://beuke.org/terminal-latency/)
+- [Pine64 March update: making waves](https://pine64.org/2024/03/17/march-update-making-waves/)
+- [2600.network Dialup Service](https://2600.network/)
+- [Grok](https://github.com/xai-org/grok)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

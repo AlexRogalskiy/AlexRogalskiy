@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Hong Kong artists flee as city grapples with status as arts hub amid rising repression](https://www.theguardian.com/world/2024/mar/18/hong-kong-artists-flee-city-repression-works-destroyed-government)
-- [Ireland ready themselves for South Africa as Scotland rue near misses](https://www.theguardian.com/sport/2024/mar/18/ireland-ready-themselves-for-south-africa-as-scotland-rue-near-misses)
-- [CATL, the little-known Chinese battery maker that has the US worried](https://www.theguardian.com/world/2024/mar/18/catl-chinese-battery-maker-evs-electric-vehicles)
-- [UK house prices rise by 1.5% in biggest increase for 10 months](https://www.theguardian.com/money/2024/mar/18/house-prices-rise-in-biggest-increase-for-10-months)
-- [UK researchers find way of diagnosing bowel cancer without biopsies](https://www.theguardian.com/society/2024/mar/18/uk-researchers-find-way-of-diagnosing-bowel-cancer-without-biopsies)
-- [UK scientists working on breast cancer monitor fitted in bra](https://www.theguardian.com/society/2024/mar/18/breast-cancer-monitor-bra-scientists-nottingham-trent-university)
-- [‘Laced with fear and a lot of fun’: Punchdrunk announce new ‘slumber party’ show](https://www.theguardian.com/stage/2024/mar/18/laced-with-fear-and-a-lot-of-fun-punchdrunk-announce-new-slumber-party-show)
-- [Steve Harley – a life in pictures](https://www.theguardian.com/music/gallery/2024/mar/17/steve-harley-a-life-in-pictures)
-- [Carlos Alcaraz overcomes slow start to beat Medvedev for Indian Wells title](https://www.theguardian.com/sport/2024/mar/17/carlos-alcaraz-overcomes-slow-start-to-beat-medvedev-and-win-indian-wells-title)
-- [Vladimir Putin claims landslide Russian election victory](https://www.theguardian.com/world/2024/mar/17/kremlin-vladimir-putin-claim-landslide-russian-election-victory)
+- [New Zealand v England: first women’s T20 international – live](https://www.theguardian.com/sport/live/2024/mar/18/new-zealand-v-england-first-womens-t20-international-live)
+- [US and Japan push for ban on nuclear weapons in space with UN security council resolution](https://www.theguardian.com/world/2024/mar/19/us-japan-nuclear-weapons-ban-space-un-war)
+- [In the busy waters between China and Taiwan, the de facto border is being tested](https://www.theguardian.com/world/2024/mar/19/in-the-busy-waters-between-china-and-taiwan-the-de-facto-border-is-being-tested)
+- [Peter Navarro: US supreme court denies Trump ally’s bid to avoid prison](https://www.theguardian.com/us-news/2024/mar/18/peter-navarro-supreme-court-appeal)
+- [Second man charged with stealing Dorothy’s Wizard of Oz ruby slippers](https://www.theguardian.com/us-news/2024/mar/18/wizard-of-oz-ruby-slippers-stolen-second-man-charged)
+- [Emma Raducanu pulls out of Miami Open with lower back injury](https://www.theguardian.com/sport/2024/mar/18/emma-raducanu-pulls-out-of-miami-open-with-lower-back-injury)
+- [English football regulator close as government confirms ‘historic’ bill](https://www.theguardian.com/football/2024/mar/18/english-football-regulator-close-as-government-confirms-historic-bill)
+- [£58bn plan to rewire Great Britain expected to spark tensions along route](https://www.theguardian.com/business/2024/mar/19/58bn-plan-rewire-great-britain-spark-tensions-route)
+- [‘Sneaky’ fees add up to 25% to UK music ticket prices, says Which?](https://www.theguardian.com/money/2024/mar/19/fees-uk-music-ticket-prices-which-ticketing-sites)
+- [24 in 2024: salsa parties, stinky tofu and being queer in Taiwan](https://www.theguardian.com/world/2024/mar/19/24-in-2024-salsa-parties-stinky-tofu-and-being-queer-in-taiwan)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -355,6 +355,8 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Endangered Firefox?](https://www.computerworld.com/article/3714345/endangered-firefox.html#tk.rss_all)
+- [AI to create a half billion new jobs — here’s why](https://www.computerworld.com/article/3714447/generative-ai-to-create-a-half-billion-new-jobs-heres-why.html#tk.rss_all)
 - [For March&#39;s Patch Tuesday, no zero-day flaws](https://www.computerworld.com/article/3714402/for-marchs-patch-tuesday-no-zero-day-flaws.html#tk.rss_all)
 - [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
 - [What is Darwin AI and how could Apple use its new tech?](https://www.computerworld.com/article/3714169/what-is-darwin-ai-and-how-could-apple-use-its-new-tech.html#tk.rss_all)
@@ -363,8 +365,6 @@
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [Anthropic launches its fastest and cheapest AI model yet](https://www.computerworld.com/article/3714446/anthropic-launches-its-fastest-and-cheapest-ai-model-yet.html#tk.rss_all)
 - [AI hallucination mitigation: two brains are better than one](https://www.computerworld.com/article/3714290/ai-hallucination-mitigation-two-brains-are-better-than-one.html#tk.rss_all)
-- [The EU browser wars have begun as Apple opens up](https://www.computerworld.com/article/3714266/the-eu-browser-wars-have-begun-as-apple-opens-up.html#tk.rss_all)
-- [Office 365: A guide to the updates](https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

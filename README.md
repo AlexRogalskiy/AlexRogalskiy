@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [NIH Study Provides Long-Awaited Insight into Myalgic Encephalomyelitis/CFS](https://jamanetwork.com/journals/jama/fullarticle/2816614)
-- [The difficulty of SQL stems from relational algebra](https://github.com/SPLWare/esProc/wiki/The-difficulty-of-SQL-stems-from-relational-algebra)
-- [Body Problem: Game of Thrones creators on why they swapped dragons for aliens](https://www.bbc.com/news/entertainment-arts-68484524)
-- [Insanity in the Air: The crash of Pakistan International Airlines flight 8303](https://admiralcloudberg.medium.com/insanity-in-the-air-the-crash-of-pakistan-international-airlines-flight-8303-46bbcc0e5f45)
-- [The epidemic of &#39;overwork&#39; is a dangerous illusion](https://www.channelnewsasia.com/commentary/office-work-burnout-boundaries-productivity-dropouts-jobs-4201076)
-- [App developers required to reveal home address to EU customers](https://developer.apple.com/help/app-store-connect/manage-compliance-information/manage-european-union-digital-services-act-compliance-information/)
-- [Aethero wants to become the space industry&#39;s Intel or Nvidia](https://techcrunch.com/2024/03/14/aethero-wants-to-become-the-space-industrys-intel-or-nvidia/)
-- [Devin: The First Ever AI Software Engineer](https://opencv.org/blog/devin-ai-software-engineer/)
-- [Pykrete](https://en.wikipedia.org/wiki/Pykrete)
-- [Rapid Changes in Earth&#39;s Magnetic Field over Past 100k Years](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023GC011236)
+- [Spack Package Manager](https://spack.readthedocs.io/en/latest/)
+- [Show HN: Watch GitHub get spammed in real time](https://play.trytrench.com/find?view=9BvB6eSyxNtKrQ93IEjn6)
+- [Show HN: Arthas.ai – An open-source alternative to character.ai](https://github.com/bennyschmidt/Arthas.AI)
+- [Nvidia unveils flagship AI chip, the B200, aiming to extend dominance](https://www.reuters.com/technology/nvidia-ai-developer-conference-kicks-off-with-new-chips-focus-2024-03-18/)
+- [Evolution of the Double Edge Blade &lpar;1990&rpar;](http://www.shaveworld.org/images/%20DEBladePage2010.htm)
+- [Flagship Mastodon instance to require AI disclosure; bans AI-only accounts](https://mastodon.social/@Gargron/112118260677357857)
+- [Show HN: Python package for rule-based chunk retrieval in Pinecone](https://github.com/whyhow-ai/rule-based-retrieval)
+- [Roll-to-roll, high-resolution 3D printing of shape-specific particles](https://www.nature.com/articles/s41586-024-07061-4)
+- [ForwardCom – An open forward-compatible instruction set architecture &lpar;ISA&rpar;](https://www.forwardcom.info/)
+- [We could return to the productivity growth of the 1990s](https://www.noahpinion.blog/p/how-we-could-return-to-the-productivity)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

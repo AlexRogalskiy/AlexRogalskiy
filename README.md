@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Spack Package Manager](https://spack.readthedocs.io/en/latest/)
-- [Show HN: Watch GitHub get spammed in real time](https://play.trytrench.com/find?view=9BvB6eSyxNtKrQ93IEjn6)
-- [Show HN: Arthas.ai – An open-source alternative to character.ai](https://github.com/bennyschmidt/Arthas.AI)
-- [Nvidia unveils flagship AI chip, the B200, aiming to extend dominance](https://www.reuters.com/technology/nvidia-ai-developer-conference-kicks-off-with-new-chips-focus-2024-03-18/)
-- [Evolution of the Double Edge Blade &lpar;1990&rpar;](http://www.shaveworld.org/images/%20DEBladePage2010.htm)
-- [Flagship Mastodon instance to require AI disclosure; bans AI-only accounts](https://mastodon.social/@Gargron/112118260677357857)
-- [Show HN: Python package for rule-based chunk retrieval in Pinecone](https://github.com/whyhow-ai/rule-based-retrieval)
-- [Roll-to-roll, high-resolution 3D printing of shape-specific particles](https://www.nature.com/articles/s41586-024-07061-4)
-- [ForwardCom – An open forward-compatible instruction set architecture &lpar;ISA&rpar;](https://www.forwardcom.info/)
-- [We could return to the productivity growth of the 1990s](https://www.noahpinion.blog/p/how-we-could-return-to-the-productivity)
+- [Inflection AI Plans Pivot After Most Employees Go to Microsoft](https://www.bloomberg.com/news/articles/2024-03-19/inflection-ai-plans-pivot-after-most-employees-go-to-microsoft)
+- [Storing Renewable Energy, One Balloon at a Time](https://www.nytimes.com/2024/03/18/science/renewable-energy-storage-climate.html)
+- [Elaborate Tales of Fake Journalists](https://www.nytimes.com/2024/03/18/business/media/russia-fake-journalists.html)
+- [Prepping to Speak at Tech Conferences: From AWS Re:Invent to GopherCon](https://www.philipotoole.com/prepping-to-speak-at-tech-conferences-from-aws-reinvent-to-gophercon/)
+- [If gravity isn&#39;t a force, then why does it &quot;need&quot; a boson?](https://old.reddit.com/r/Physics/comments/1bii6h4/if_gravity_isnt_a_force_then_why_does_it_need_a/)
+- [Mexico refuses to accept any migrants deported by Texas under new state law](https://www.bbc.com/news/world-us-canada-68613083)
+- [This 1990 NES soundtrack just blew my mind [video]](https://www.youtube.com/watch?v=Zh-rYtmC0Y8)
+- [The Photo Behind the Iconic Columbia Pictures &#39;Torch Lady&#39; Logo](https://petapixel.com/2022/02/20/the-photo-behind-the-iconic-columbia-pictures-torch-lady-logo/)
+- [I Was Lonely in a New City. This Tech Trick Helped Me Belong](https://www.nytimes.com/2024/03/19/magazine/google-maps-shared-lists-for-new-cities.html)
+- [Our Annual Music Economics Report](https://loudandclear.byspotify.com/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

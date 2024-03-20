@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Gaining kernel code execution on an MTE-enabled Pixel 8](https://github.blog/2024-03-18-gaining-kernel-code-execution-on-an-mte-enabled-pixel-8/)
-- [Dead Air on the Incident Call](https://blog.danslimmon.com/2024/03/18/dead-air-on-the-incident-call/)
-- [Project GR00T by Nvidia](https://twitter.com/DrJimFan/status/1769860044324319658)
-- [Spent brewer&#39;s yeast as a biosorbent for metal recovery from polymetallic waste](https://www.frontiersin.org/articles/10.3389/fbioe.2024.1345112/full)
-- [Turning Points: A meeting with Enrico Fermi &lpar;2020&rpar;](https://lilith.fisica.ufmg.br/~dsoares/fdyson.htm)
-- [Skio &lpar;YC S20&rpar; – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
-- [Compiling with Constraints](https://www.philipzucker.com/compile_constraints/)
-- [Nvidia announces its most powerful AI chip as it seeks to become a platform co.](https://www.cnbc.com/2024/03/18/nvidia-announces-gb200-blackwell-ai-chip-launching-later-this-year.html)
-- [Stability.ai – Introducing Stable Video 3D](https://stability.ai/news/introducing-stable-video-3d)
-- [First-in-class MKK4 inhibitors enhance liver regeneration, prevent liver failure](https://www.cell.com/cell/fulltext/S0092-8674(24)00225-3)
+- [Young people becoming less happy than older generations, research shows](https://www.theguardian.com/society/2024/mar/20/young-people-becoming-less-happy-than-older-generations-research-shows)
+- [Show HN: Iteratively Building Virtual Creatures](https://github.com/cfusting/conditional-growth)
+- [Unpowered cargo gliders on tow ropes promise 65% cheaper air freight](https://newatlas.com/aircraft/towed-cargo-gliders/)
+- [Memories from when you were a baby might not be gone](https://www.nature.com/articles/d41586-024-00844-9)
+- [HomeRoom &lpar;YC W22&rpar; Is Hiring](https://www.ycombinator.com/companies/homeroom/jobs/ZvE5E8b-customer-success-manager)
+- [Job boards are still rife with &#39;ghost jobs&#39;. What&#39;s the point?](https://www.bbc.com/worklife/article/20240315-ghost-jobs-digital-job-boards)
+- [&#39;A landmark moment&#39;: scientists use AI to design antibodies from scratch](https://www.nature.com/articles/d41586-024-00846-7)
+- [First &#39;cyberflasher&#39; convicted under UK&#39;s new law, gets more than 5 years prison](https://apnews.com/article/first-cyber-flasher-imprisoned-new-english-law-2cec412fa58c15223b3d4734413d1390)
+- [HIV in cell culture can be completely eliminated using CRISPR-Cas gene editing [pdf]](https://www.escmid.org/fileadmin/src/media/PDFs/2News_Discussions/Press_activities/2024/HIVCRISPRV4_1_.pdf)
+- [MindEye2: Shared-Subject Models Enable fMRI-to-Image with 1 Hour of Data](https://arxiv.org/abs/2403.11207)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

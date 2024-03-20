@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Microsoft hires ex-DeepMind co-founder to lead Copilot AI initiatives](https://www.computerworld.com/article/3714780/microsoft-hires-ex-deepmind-co-founder-to-lead-copilot-ai-initiatives.html#tk.rss_all)
+- [Which genAI chatbots are the most popular now?](https://www.computerworld.com/article/3714760/which-genai-chatbots-are-the-most-popular-now.html#tk.rss_all)
+- [Why is Apple so focused on vision AI?](https://www.computerworld.com/article/3714622/why-is-apple-so-focused-on-vision-ai.html#tk.rss_all)
+- [9 Chrome extensions that upgrade Google Meet](https://www.computerworld.com/article/3713262/chrome-extensions-to-enhance-google-meet.html#tk.rss_all)
 - [Endangered Firefox?](https://www.computerworld.com/article/3714345/endangered-firefox.html#tk.rss_all)
 - [AI to create a half billion new jobs — here’s why](https://www.computerworld.com/article/3714447/generative-ai-to-create-a-half-billion-new-jobs-heres-why.html#tk.rss_all)
 - [For March&#39;s Patch Tuesday, no zero-day flaws](https://www.computerworld.com/article/3714402/for-marchs-patch-tuesday-no-zero-day-flaws.html#tk.rss_all)
 - [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
 - [What is Darwin AI and how could Apple use its new tech?](https://www.computerworld.com/article/3714169/what-is-darwin-ai-and-how-could-apple-use-its-new-tech.html#tk.rss_all)
 - [Generative AI will drive a foundational shift for companies — IDC](https://www.computerworld.com/article/3714167/how-generative-ai-will-drive-a-foundational-shift-in-your-company.html#tk.rss_all)
-- [Admins see snags as macOS Sonoma 14.4 hits Macs](https://www.computerworld.com/article/3714166/admins-see-snags-as-macos-sonoma-144-hits-macs.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [Anthropic launches its fastest and cheapest AI model yet](https://www.computerworld.com/article/3714446/anthropic-launches-its-fastest-and-cheapest-ai-model-yet.html#tk.rss_all)
-- [AI hallucination mitigation: two brains are better than one](https://www.computerworld.com/article/3714290/ai-hallucination-mitigation-two-brains-are-better-than-one.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

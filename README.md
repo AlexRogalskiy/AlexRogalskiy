@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [New Zealand v England: first women’s T20 international – live](https://www.theguardian.com/sport/live/2024/mar/18/new-zealand-v-england-first-womens-t20-international-live)
-- [US and Japan push for ban on nuclear weapons in space with UN security council resolution](https://www.theguardian.com/world/2024/mar/19/us-japan-nuclear-weapons-ban-space-un-war)
-- [In the busy waters between China and Taiwan, the de facto border is being tested](https://www.theguardian.com/world/2024/mar/19/in-the-busy-waters-between-china-and-taiwan-the-de-facto-border-is-being-tested)
-- [Peter Navarro: US supreme court denies Trump ally’s bid to avoid prison](https://www.theguardian.com/us-news/2024/mar/18/peter-navarro-supreme-court-appeal)
-- [Second man charged with stealing Dorothy’s Wizard of Oz ruby slippers](https://www.theguardian.com/us-news/2024/mar/18/wizard-of-oz-ruby-slippers-stolen-second-man-charged)
-- [Emma Raducanu pulls out of Miami Open with lower back injury](https://www.theguardian.com/sport/2024/mar/18/emma-raducanu-pulls-out-of-miami-open-with-lower-back-injury)
-- [English football regulator close as government confirms ‘historic’ bill](https://www.theguardian.com/football/2024/mar/18/english-football-regulator-close-as-government-confirms-historic-bill)
-- [£58bn plan to rewire Great Britain expected to spark tensions along route](https://www.theguardian.com/business/2024/mar/19/58bn-plan-rewire-great-britain-spark-tensions-route)
-- [‘Sneaky’ fees add up to 25% to UK music ticket prices, says Which?](https://www.theguardian.com/money/2024/mar/19/fees-uk-music-ticket-prices-which-ticketing-sites)
-- [24 in 2024: salsa parties, stinky tofu and being queer in Taiwan](https://www.theguardian.com/world/2024/mar/19/24-in-2024-salsa-parties-stinky-tofu-and-being-queer-in-taiwan)
+- [Chumbawamba tells NZ deputy PM Winston Peters to stop using its Tubthumping anthem](https://www.theguardian.com/world/2024/mar/20/chumbawamba-tubthumping-new-zealand-deputy-pm-winston-peters)
+- [Ukraine war briefing: put all seized Russian earnings into the fight, EU leaders told](https://www.theguardian.com/world/2024/mar/20/ukraine-war-briefing-put-all-seized-russian-earnings-into-the-fight-eu-leaders-told)
+- [US primary elections: Biden and Trump notch wins with surprises in store down ballot](https://www.theguardian.com/us-news/2024/mar/19/us-elections-2024-primaries-biden-trump)
+- [Netanyahu ‘determined’ to carry out Rafah assault despite pleas from Biden](https://www.theguardian.com/world/2024/mar/20/benjamin-netanyahu-israel-rafah-gaza-attack-joe-biden)
+- [Scotland’s pledge to cut emissions by 75% by 2030 ‘no longer credible’](https://www.theguardian.com/environment/2024/mar/20/scotlands-pledge-cut-emissions-by-75-by-2030-no-longer-credible)
+- [James Corden to return to London stage in political drama The Constituent](https://www.theguardian.com/stage/2024/mar/20/james-corden-to-return-to-london-stage-in-political-drama-the-constituent)
+- [Young people becoming less happy than older generations, research shows](https://www.theguardian.com/society/2024/mar/20/young-people-becoming-less-happy-than-older-generations-research-shows)
+- [Plans to move asylum seekers from hotels in tatters after NAO report](https://www.theguardian.com/uk-news/2024/mar/20/plans-to-move-asylum-seekers-from-hotels-in-tatters-after-nao-report)
+- [Staff at clinic where Kate had surgery ‘tried to access her medical records’](https://www.theguardian.com/uk-news/2024/mar/19/inquiry-reportedly-begins-after-claims-clinic-staff-tried-to-access-princess-of-waless-records)
+- [Mike Lynch trial: defense points to difference in accounting standards](https://www.theguardian.com/business/2024/mar/19/mike-lynch-trial-autonomy-hewlett-packard)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

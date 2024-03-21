@@ -355,6 +355,8 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [The best ways to run Android apps on a Windows PC](https://www.computerworld.com/article/3714781/the-best-ways-to-run-android-apps-on-a-windows-pc.html#tk.rss_all)
+- [The future of work looks like sci-fi](https://www.computerworld.com/article/3714342/the-future-of-work-looks-like-sci-fi.html#tk.rss_all)
 - [Microsoft hires ex-DeepMind co-founder to lead Copilot AI initiatives](https://www.computerworld.com/article/3714780/microsoft-hires-ex-deepmind-co-founder-to-lead-copilot-ai-initiatives.html#tk.rss_all)
 - [Which genAI chatbots are the most popular now?](https://www.computerworld.com/article/3714760/which-genai-chatbots-are-the-most-popular-now.html#tk.rss_all)
 - [Why is Apple so focused on vision AI?](https://www.computerworld.com/article/3714622/why-is-apple-so-focused-on-vision-ai.html#tk.rss_all)
@@ -363,8 +365,6 @@
 - [AI to create a half billion new jobs — here’s why](https://www.computerworld.com/article/3714447/generative-ai-to-create-a-half-billion-new-jobs-heres-why.html#tk.rss_all)
 - [For March&#39;s Patch Tuesday, no zero-day flaws](https://www.computerworld.com/article/3714402/for-marchs-patch-tuesday-no-zero-day-flaws.html#tk.rss_all)
 - [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
-- [What is Darwin AI and how could Apple use its new tech?](https://www.computerworld.com/article/3714169/what-is-darwin-ai-and-how-could-apple-use-its-new-tech.html#tk.rss_all)
-- [Generative AI will drive a foundational shift for companies — IDC](https://www.computerworld.com/article/3714167/how-generative-ai-will-drive-a-foundational-shift-in-your-company.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

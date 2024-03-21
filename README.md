@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Young people becoming less happy than older generations, research shows](https://www.theguardian.com/society/2024/mar/20/young-people-becoming-less-happy-than-older-generations-research-shows)
-- [Show HN: Iteratively Building Virtual Creatures](https://github.com/cfusting/conditional-growth)
-- [Unpowered cargo gliders on tow ropes promise 65% cheaper air freight](https://newatlas.com/aircraft/towed-cargo-gliders/)
-- [Memories from when you were a baby might not be gone](https://www.nature.com/articles/d41586-024-00844-9)
-- [HomeRoom &lpar;YC W22&rpar; Is Hiring](https://www.ycombinator.com/companies/homeroom/jobs/ZvE5E8b-customer-success-manager)
-- [Job boards are still rife with &#39;ghost jobs&#39;. What&#39;s the point?](https://www.bbc.com/worklife/article/20240315-ghost-jobs-digital-job-boards)
-- [&#39;A landmark moment&#39;: scientists use AI to design antibodies from scratch](https://www.nature.com/articles/d41586-024-00846-7)
-- [First &#39;cyberflasher&#39; convicted under UK&#39;s new law, gets more than 5 years prison](https://apnews.com/article/first-cyber-flasher-imprisoned-new-english-law-2cec412fa58c15223b3d4734413d1390)
-- [HIV in cell culture can be completely eliminated using CRISPR-Cas gene editing [pdf]](https://www.escmid.org/fileadmin/src/media/PDFs/2News_Discussions/Press_activities/2024/HIVCRISPRV4_1_.pdf)
-- [MindEye2: Shared-Subject Models Enable fMRI-to-Image with 1 Hour of Data](https://arxiv.org/abs/2403.11207)
+- [72% of U.S. Teens Feel Peaceful Without Smartphones.](https://www.pewresearch.org/internet/2024/03/11/how-teens-and-parents-approach-screen-time/)
+- [Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler](https://github.com/00-Evan/shattered-pixel-dungeon)
+- [Electric car battery prices are going back down faster than expected](https://electrek.co/2023/11/20/electric-car-battery-prices-are-going-back-down-faster/)
+- [The Physics of Languages](https://physicsworld.com/a/the-physics-of-languages/)
+- [Teler: Real-Time HTTP Intrusion Detection](https://github.com/kitabisa/teler)
+- [Governor signs bills creating EV charging station network across Wisconsin](https://apnews.com/article/wisconsin-electric-vehicles-charging-stations-8f240084670b7b210d162f83b22168d9)
+- [Valve Built An Orb: The making of the Steam Deck OLED launch trailer](https://store.steampowered.com/news/app/593110/view/4118051100641390121)
+- [JITX – The Fastest Way to Design Circuit Boards](https://www.jitx.com)
+- [Jim Ward Has Died](https://www.gamedeveloper.com/business/obituary-jim-ward-dungeons-dragons-designer-died-at-age-72)
+- [The Starship or the Canoe: Where Will Our Future Adaptations Be? &lpar;2017&rpar;](https://alumni.berkeley.edu/california-magazine/summer-2017-adaptation/starship-or-canoe-where-will-our-future-adaptations-be/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

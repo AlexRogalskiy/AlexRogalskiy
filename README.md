@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Inflection AI Plans Pivot After Most Employees Go to Microsoft](https://www.bloomberg.com/news/articles/2024-03-19/inflection-ai-plans-pivot-after-most-employees-go-to-microsoft)
-- [Storing Renewable Energy, One Balloon at a Time](https://www.nytimes.com/2024/03/18/science/renewable-energy-storage-climate.html)
-- [Elaborate Tales of Fake Journalists](https://www.nytimes.com/2024/03/18/business/media/russia-fake-journalists.html)
-- [Prepping to Speak at Tech Conferences: From AWS Re:Invent to GopherCon](https://www.philipotoole.com/prepping-to-speak-at-tech-conferences-from-aws-reinvent-to-gophercon/)
-- [If gravity isn&#39;t a force, then why does it &quot;need&quot; a boson?](https://old.reddit.com/r/Physics/comments/1bii6h4/if_gravity_isnt_a_force_then_why_does_it_need_a/)
-- [Mexico refuses to accept any migrants deported by Texas under new state law](https://www.bbc.com/news/world-us-canada-68613083)
-- [This 1990 NES soundtrack just blew my mind [video]](https://www.youtube.com/watch?v=Zh-rYtmC0Y8)
-- [The Photo Behind the Iconic Columbia Pictures &#39;Torch Lady&#39; Logo](https://petapixel.com/2022/02/20/the-photo-behind-the-iconic-columbia-pictures-torch-lady-logo/)
-- [I Was Lonely in a New City. This Tech Trick Helped Me Belong](https://www.nytimes.com/2024/03/19/magazine/google-maps-shared-lists-for-new-cities.html)
-- [Our Annual Music Economics Report](https://loudandclear.byspotify.com/)
+- [In a boost for EVs, EPA finalizes strict new limits on tailpipe emissions](https://www.npr.org/2024/03/20/1239092833/biden-epa-auto-emissions-evs)
+- [Evaluating whole-genome embryo screening on young adult ICU admittances](https://twitter.com/bpodgursky/status/1770535635016614038)
+- [RaaS groups increasing efforts to recruit affiliates](https://www.helpnetsecurity.com/2024/03/20/raas-recruit-affiliates/)
+- [Things you can learn from Microsoft](https://josvisser.substack.com/p/things-you-can-learn-from-microsoft)
+- [The Pulaski Fire Tool](https://wildfiretoday.com/2019/08/19/the-true-story-of-the-pulaski-fire-tool/)
+- [Weather Photographer of the Year](https://www.rmets.org/weather-photographer-of-the-year/photos/1097905)
+- [What to do when a leader does something wrong &lpar;2019&rpar;](https://e2eml.school/org_response)
+- [Twilight of the Steam Age, Part 1: Internal Combustion](https://technicshistory.com/2024/03/21/twilight-of-the-steam-age-part-1-internal-combustion/)
+- [The bug in Sam Altman&#39;s industrial revolution](https://unherd.com/2024/03/the-bug-in-sam-altmans-industrial-revolution/)
+- [Feminization Laryngoplasty](https://en.wikipedia.org/wiki/Feminization_laryngoplasty)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

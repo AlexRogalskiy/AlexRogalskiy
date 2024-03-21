@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Chumbawamba tells NZ deputy PM Winston Peters to stop using its Tubthumping anthem](https://www.theguardian.com/world/2024/mar/20/chumbawamba-tubthumping-new-zealand-deputy-pm-winston-peters)
-- [Ukraine war briefing: put all seized Russian earnings into the fight, EU leaders told](https://www.theguardian.com/world/2024/mar/20/ukraine-war-briefing-put-all-seized-russian-earnings-into-the-fight-eu-leaders-told)
-- [US primary elections: Biden and Trump notch wins with surprises in store down ballot](https://www.theguardian.com/us-news/2024/mar/19/us-elections-2024-primaries-biden-trump)
-- [Netanyahu ‘determined’ to carry out Rafah assault despite pleas from Biden](https://www.theguardian.com/world/2024/mar/20/benjamin-netanyahu-israel-rafah-gaza-attack-joe-biden)
-- [Scotland’s pledge to cut emissions by 75% by 2030 ‘no longer credible’](https://www.theguardian.com/environment/2024/mar/20/scotlands-pledge-cut-emissions-by-75-by-2030-no-longer-credible)
-- [James Corden to return to London stage in political drama The Constituent](https://www.theguardian.com/stage/2024/mar/20/james-corden-to-return-to-london-stage-in-political-drama-the-constituent)
-- [Young people becoming less happy than older generations, research shows](https://www.theguardian.com/society/2024/mar/20/young-people-becoming-less-happy-than-older-generations-research-shows)
-- [Plans to move asylum seekers from hotels in tatters after NAO report](https://www.theguardian.com/uk-news/2024/mar/20/plans-to-move-asylum-seekers-from-hotels-in-tatters-after-nao-report)
-- [Staff at clinic where Kate had surgery ‘tried to access her medical records’](https://www.theguardian.com/uk-news/2024/mar/19/inquiry-reportedly-begins-after-claims-clinic-staff-tried-to-access-princess-of-waless-records)
-- [Mike Lynch trial: defense points to difference in accounting standards](https://www.theguardian.com/business/2024/mar/19/mike-lynch-trial-autonomy-hewlett-packard)
+- [Portugal centre-right leader Luís Montenegro nominated as PM after narrow election win](https://www.theguardian.com/world/2024/mar/21/portugal-election-centre-right-leader-luis-montenegro-to-form-government-after-narrow-election-win)
+- [Elon Musk’s Neuralink shows brain-chip patient playing online chess](https://www.theguardian.com/technology/2024/mar/20/elon-musk-neuralink-brain-chip-patient-chess)
+- [Ukraine war briefing: we need air defence, says Zelenskiy, after ‘terror’ strikes on Kharkiv](https://www.theguardian.com/world/2024/mar/21/ukraine-war-briefing-we-need-air-defence-says-zelenskiy-after-terror-strikes-on-kharkiv)
+- [‘They live in a tent now’: the desperate plight of Australian children trapped in Gaza](https://www.theguardian.com/world/2024/mar/21/australian-children-trapped-gaza-palestine-rafah-israel-hamas-war)
+- [How the Sunflower movement birthed a generation determined to protect Taiwan](https://www.theguardian.com/world/2024/mar/21/what-is-taiwan-sunflower-movement-china)
+- [Pupils in Wales perform only as well as disadvantaged children in England – IFS](https://www.theguardian.com/education/2024/mar/21/pupils-wales-disadvantaged-children-england-ifs-study-vaughan-gething)
+- [Caleb Azumah Nelson and Mary Jean Chan shortlisted for Dylan Thomas prize](https://www.theguardian.com/books/2024/mar/21/caleb-azumah-nelson-and-mary-jean-chan-shortlisted-for-dylan-thomas-prize)
+- [Siege days are over: how Northern Ireland came to lead the UK on abortion](https://www.theguardian.com/world/2024/mar/21/how-northern-ireland-came-to-lead-the-uk-on-abortion)
+- [M Emmet Walsh, Blade Runner, Blood Simple and Knives Out actor, dies aged 88](https://www.theguardian.com/film/2024/mar/21/m-emmet-walsh-dies-aged-88-actor-cause-of-death-blade-runner-blood-simple-knives-out)
+- [Rwanda bill likely to be stalled at least till April after seven defeats in the Lords](https://www.theguardian.com/politics/2024/mar/20/rwanda-bill-likely-to-be-stalled-at-least-till-april-after-seven-defeats-in-the-lords)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

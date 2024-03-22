@@ -355,6 +355,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Microsoft integrates its Copilot chatbot on new devices](https://www.computerworld.com/article/3714920/microsoft-integrates-its-copilot-chatbot-on-new-devices.html#tk.rss_all)
+- [DOJ sues Apple for monopolizing smartphone market](https://www.computerworld.com/article/3714661/doj-sues-apple-for-monopolizing-smartphone-market.html#tk.rss_all)
+- [The best note-taking apps for Android](https://www.computerworld.com/article/3239964/best-note-taking-apps-for-android.html#tk.rss_all)
 - [The best ways to run Android apps on a Windows PC](https://www.computerworld.com/article/3714781/the-best-ways-to-run-android-apps-on-a-windows-pc.html#tk.rss_all)
 - [The future of work looks like sci-fi](https://www.computerworld.com/article/3714342/the-future-of-work-looks-like-sci-fi.html#tk.rss_all)
 - [Microsoft hires ex-DeepMind co-founder to lead Copilot AI initiatives](https://www.computerworld.com/article/3714780/microsoft-hires-ex-deepmind-co-founder-to-lead-copilot-ai-initiatives.html#tk.rss_all)
@@ -362,9 +365,6 @@
 - [Why is Apple so focused on vision AI?](https://www.computerworld.com/article/3714622/why-is-apple-so-focused-on-vision-ai.html#tk.rss_all)
 - [9 Chrome extensions that upgrade Google Meet](https://www.computerworld.com/article/3713262/chrome-extensions-to-enhance-google-meet.html#tk.rss_all)
 - [Endangered Firefox?](https://www.computerworld.com/article/3714345/endangered-firefox.html#tk.rss_all)
-- [AI to create a half billion new jobs — here’s why](https://www.computerworld.com/article/3714447/generative-ai-to-create-a-half-billion-new-jobs-heres-why.html#tk.rss_all)
-- [For March&#39;s Patch Tuesday, no zero-day flaws](https://www.computerworld.com/article/3714402/for-marchs-patch-tuesday-no-zero-day-flaws.html#tk.rss_all)
-- [Windows 10 Insider Previews: A guide to the builds](https://www.computerworld.com/article/3118132/windows-10-insider-previews-a-guide-to-the-builds.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

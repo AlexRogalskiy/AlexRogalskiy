@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [In a boost for EVs, EPA finalizes strict new limits on tailpipe emissions](https://www.npr.org/2024/03/20/1239092833/biden-epa-auto-emissions-evs)
-- [Evaluating whole-genome embryo screening on young adult ICU admittances](https://twitter.com/bpodgursky/status/1770535635016614038)
-- [RaaS groups increasing efforts to recruit affiliates](https://www.helpnetsecurity.com/2024/03/20/raas-recruit-affiliates/)
-- [Things you can learn from Microsoft](https://josvisser.substack.com/p/things-you-can-learn-from-microsoft)
-- [The Pulaski Fire Tool](https://wildfiretoday.com/2019/08/19/the-true-story-of-the-pulaski-fire-tool/)
-- [Weather Photographer of the Year](https://www.rmets.org/weather-photographer-of-the-year/photos/1097905)
-- [What to do when a leader does something wrong &lpar;2019&rpar;](https://e2eml.school/org_response)
-- [Twilight of the Steam Age, Part 1: Internal Combustion](https://technicshistory.com/2024/03/21/twilight-of-the-steam-age-part-1-internal-combustion/)
-- [The bug in Sam Altman&#39;s industrial revolution](https://unherd.com/2024/03/the-bug-in-sam-altmans-industrial-revolution/)
-- [Feminization Laryngoplasty](https://en.wikipedia.org/wiki/Feminization_laryngoplasty)
+- [Nvidia&#39;s GPU IP Drives into MediaTek&#39;s Dimension Auto SoCs](https://www.anandtech.com/show/21318/nvidias-gpu-ip-drives-into-mediateks-dimension-auto-socs)
+- [UN: E-waste is growing 5x faster than it can be recycled](https://www.theregister.com/2024/03/21/ewaste_grows/)
+- [Building an Analog Computer with Opamps](https://www.youtube.com/playlist?list=PL_R4uxT5thflWVbSWtl-rx5_C_q0RxjyV)
+- [Microsoft vs. MikeRoweSoft](https://en.wikipedia.org/wiki/Microsoft_v._MikeRoweSoft)
+- [AI Boyfriend](https://www.youtube.com/watch?v=KiPQdVC5RHU)
+- [Lkbm: LED-Key BitMasks to Control the Ploopy Nano Trackball](https://github.com/qmk/qmk_firmware/tree/master/keyboards/ploopyco/trackball_nano/keymaps/lkbm)
+- [European Historical Evidence of the Supernova of Ad 1054](https://arxiv.org/abs/2103.13290)
+- [Buzz: Transcribe and translate audio offline on your personal computer](https://github.com/chidiwilliams/buzz)
+- [How Chain-of-Thought Reasoning Helps Neural Networks Compute](https://www.quantamagazine.org/how-chain-of-thought-reasoning-helps-neural-networks-compute-20240321/)
+- [Unraveling the History of Technological Skepticism](https://jxnl.co/writing/2024/03/20/technology-skepticism/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

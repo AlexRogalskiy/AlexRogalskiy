@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [72% of U.S. Teens Feel Peaceful Without Smartphones.](https://www.pewresearch.org/internet/2024/03/11/how-teens-and-parents-approach-screen-time/)
-- [Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler](https://github.com/00-Evan/shattered-pixel-dungeon)
-- [Electric car battery prices are going back down faster than expected](https://electrek.co/2023/11/20/electric-car-battery-prices-are-going-back-down-faster/)
-- [The Physics of Languages](https://physicsworld.com/a/the-physics-of-languages/)
-- [Teler: Real-Time HTTP Intrusion Detection](https://github.com/kitabisa/teler)
-- [Governor signs bills creating EV charging station network across Wisconsin](https://apnews.com/article/wisconsin-electric-vehicles-charging-stations-8f240084670b7b210d162f83b22168d9)
-- [Valve Built An Orb: The making of the Steam Deck OLED launch trailer](https://store.steampowered.com/news/app/593110/view/4118051100641390121)
-- [JITX – The Fastest Way to Design Circuit Boards](https://www.jitx.com)
-- [Jim Ward Has Died](https://www.gamedeveloper.com/business/obituary-jim-ward-dungeons-dragons-designer-died-at-age-72)
-- [The Starship or the Canoe: Where Will Our Future Adaptations Be? &lpar;2017&rpar;](https://alumni.berkeley.edu/california-magazine/summer-2017-adaptation/starship-or-canoe-where-will-our-future-adaptations-be/)
+- [Allegations of criminality by Boeing in deceased whistleblower complaint](https://www.wsws.org/en/articles/2024/03/21/dbis-m21.html)
+- [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=39786370)
+- [New studies suggest millions with mild cognitive impairment go undiagnosed](https://theconversation.com/new-studies-suggest-millions-with-mild-cognitive-impairment-go-undiagnosed-often-until-its-too-late-216892)
+- [The Origins of the Generic Mapping Tools](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023CN000231)
+- [Improving OKRs – By Daniel Walters](https://wioota.substack.com/p/improving-okrs)
+- [Introduction to Algorithmic Art](http://xahlee.info/math/algorithmic_math_art.html)
+- [Apollo Data Uncovers Lunar Seismic Events](https://essopenarchive.org/users/527743/articles/673415-new-views-of-lunar-seismicity-brought-by-analysis-of-newly-discovered-moonquakes-in-apollo-short-period-seismic-data)
+- [Show HN: Memories – FOSS Google Photos alternative built for high performance](https://memories.gallery/)
+- [DuckDB as the New jq](https://www.pgrs.net/2024/03/21/duckdb-as-the-new-jq/)
+- [Launch HN: Soundry AI &lpar;YC W24&rpar; – Music sample generator for music creators](https://soundry.ai/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

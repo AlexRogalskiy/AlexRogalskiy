@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Allegations of criminality by Boeing in deceased whistleblower complaint](https://www.wsws.org/en/articles/2024/03/21/dbis-m21.html)
-- [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=39786370)
-- [New studies suggest millions with mild cognitive impairment go undiagnosed](https://theconversation.com/new-studies-suggest-millions-with-mild-cognitive-impairment-go-undiagnosed-often-until-its-too-late-216892)
-- [The Origins of the Generic Mapping Tools](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023CN000231)
-- [Improving OKRs – By Daniel Walters](https://wioota.substack.com/p/improving-okrs)
-- [Introduction to Algorithmic Art](http://xahlee.info/math/algorithmic_math_art.html)
-- [Apollo Data Uncovers Lunar Seismic Events](https://essopenarchive.org/users/527743/articles/673415-new-views-of-lunar-seismicity-brought-by-analysis-of-newly-discovered-moonquakes-in-apollo-short-period-seismic-data)
-- [Show HN: Memories – FOSS Google Photos alternative built for high performance](https://memories.gallery/)
-- [DuckDB as the New jq](https://www.pgrs.net/2024/03/21/duckdb-as-the-new-jq/)
-- [Launch HN: Soundry AI &lpar;YC W24&rpar; – Music sample generator for music creators](https://soundry.ai/)
+- [Google Ordered to Identify Who Watched Certain YouTube Videos](https://www.forbes.com/sites/thomasbrewster/2024/03/22/feds-ordered-google-to-unmask-certain-youtube-users-critics-say-its-terrifying/)
+- [Post-quantum cryptography is too damn big](https://dadrian.io/blog/posts/pqc-signatures-2024/)
+- [Visiting Scarfolk, the Most Spectacular Dystopia of the 1970s](https://www.collectorsweekly.com/articles/visiting-scarfolk/)
+- [Micron Samples 256 GB DDR5-8800 MCR DIMMs: Modules for Servers](https://www.anandtech.com/show/21320/micron-samples-256-gb-ddr58800-mcr-dimms-massive-modules-for-massive-servers)
+- [Empirical &lpar;YC S23&rpar; is hiring interns to build AI-enabled primary care](https://www.workatastartup.com/jobs/65500)
+- [Finding Little Albert &lpar;2011&rpar;](https://www.bps.org.uk/psychologist/looking-back-finding-little-albert)
+- [OpenCat: Open-source robotic pet quadruped framework](https://www.petoi.com/pages/opencat-open-source-robot-pet-framework)
+- [Pack: A new container format for compressed files](https://pack.ac/note/pack)
+- [Mozilla Drops Onerep After CEO Admits to Running People-Search Networks](https://krebsonsecurity.com/2024/03/mozilla-drops-onerep-after-ceo-admits-to-running-people-search-networks/)
+- [Show HN: magick.css – Minimalist CSS for Wizards](https://css.winterveil.net)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

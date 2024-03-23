@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Nvidia&#39;s GPU IP Drives into MediaTek&#39;s Dimension Auto SoCs](https://www.anandtech.com/show/21318/nvidias-gpu-ip-drives-into-mediateks-dimension-auto-socs)
-- [UN: E-waste is growing 5x faster than it can be recycled](https://www.theregister.com/2024/03/21/ewaste_grows/)
-- [Building an Analog Computer with Opamps](https://www.youtube.com/playlist?list=PL_R4uxT5thflWVbSWtl-rx5_C_q0RxjyV)
-- [Microsoft vs. MikeRoweSoft](https://en.wikipedia.org/wiki/Microsoft_v._MikeRoweSoft)
-- [AI Boyfriend](https://www.youtube.com/watch?v=KiPQdVC5RHU)
-- [Lkbm: LED-Key BitMasks to Control the Ploopy Nano Trackball](https://github.com/qmk/qmk_firmware/tree/master/keyboards/ploopyco/trackball_nano/keymaps/lkbm)
-- [European Historical Evidence of the Supernova of Ad 1054](https://arxiv.org/abs/2103.13290)
-- [Buzz: Transcribe and translate audio offline on your personal computer](https://github.com/chidiwilliams/buzz)
-- [How Chain-of-Thought Reasoning Helps Neural Networks Compute](https://www.quantamagazine.org/how-chain-of-thought-reasoning-helps-neural-networks-compute-20240321/)
-- [Unraveling the History of Technological Skepticism](https://jxnl.co/writing/2024/03/20/technology-skepticism/)
+- [Cloud Software Group snubs GPL obligations, say critics](https://www.theregister.com/2024/03/21/csg_fails_to_honor_agpl/)
+- [William Adams: English Advisor to the Shogun](https://www.historytoday.com/archive/history-matters/william-adams-english-advisor-shogun)
+- [Marilynne Robinson on Biblical Interpretation, Calvinism and Religion in America](https://conversationswithtyler.com/episodes/marilynne-robinson/)
+- [Playing with Certificate Transparency](https://www.akpain.net/blog/certificate-transparency/)
+- [Signs of life detectable in single ice grain emitted from extraterrestrial moons](https://www.washington.edu/news/2024/03/22/signs-of-life-detectable-in-single-ice-grain-emitted-from-extraterrestrial-moons/)
+- [Teen Pregnancy and Risk of Premature Mortality](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2816198)
+- [Coffee Break](https://github.com/radekvit/coffee_break)
+- [The Strongman Fantasy – and Dictatorship in Real Life](https://snyder.substack.com/p/the-strongman-fantasy)
+- [New chip flaw hits Apple Silicon and steals cryptographic keys from system cache](https://www.tomshardware.com/pc-components/cpus/new-chip-flaw-hits-apple-silicon-and-steals-cryptographic-keys-from-system-cache-gofetch-vulnerability-attacks-apple-m1-m2-m3-processors-cant-be-fixed-in-hardware)
+- [Drug Could Be the Next Ozempic. Bootlegs Are Already Selling Online](https://www.wsj.com/health/pharma/the-next-hot-obesity-drug-wont-be-approved-for-years-online-sellers-hawk-it-anyway-e04d7cc3)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

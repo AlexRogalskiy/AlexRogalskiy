@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [New Zealand v England: second women’s T20 international – live](https://www.theguardian.com/sport/live/2024/mar/21/new-zealand-v-england-second-womens-t20-international-live)
-- [Reddit shares soar on first day of public trading](https://www.theguardian.com/technology/2024/mar/21/reddit-stock-price-ipo)
-- [EU agrees to begin membership negotiations with Bosnia and Herzegovina](https://www.theguardian.com/world/2024/mar/22/bosnia-herzegovina-eu-membership-talks)
-- [Brazilian footballer Robinho arrested after rape conviction](https://www.theguardian.com/football/2024/mar/22/brazilian-footballer-robinho-arrested-rape-conviction)
-- [James Cleverly spent £165,000 on flight to Rwanda to sign deportation deal](https://www.theguardian.com/politics/2024/mar/22/james-cleverly-spent-165000-on-flight-to-rwanda-to-sign-deportation-deal)
-- [‘A talented, goofy kid’: family of Ryan Gainer, autistic teen killed by police, speak out](https://www.theguardian.com/us-news/2024/mar/21/ryan-gainer-autistic-teen-police-killing-california)
-- [Wales will ‘go toe to toe’ with Poland in bid to reach Euros, insists Rob Page](https://www.theguardian.com/football/2024/mar/21/wales-euro-2024-playoff-rob-page)
-- [Women and girls suffer first when droughts hit poor and rural areas, says UN](https://www.theguardian.com/environment/2024/mar/21/women-and-girls-suffer-first-when-droughts-hit-poor-and-rural-areas-says-un)
-- [Idaho police capture white supremacist and accomplice after hospital ambush](https://www.theguardian.com/us-news/2024/mar/21/idaho-police-white-supremacist-accomplice-ambush)
-- [Scientists name newly discovered ancient amphibian species after Kermit the Frog](https://www.theguardian.com/science/2024/mar/21/scientists-name-newly-discovered-ancient-amphibian-species-after-kermit-the-frog)
+- [Moscow concert hall attack: Islamic State claims responsibility as death toll rises to 60 – latest updates](https://www.theguardian.com/world/live/2024/mar/22/moscow-concert-attack-crocus-city-hall-shooting-russia-live-updates)
+- [British ultrarunner Jasmin Paris is first woman to finish Barkley Marathons](https://www.theguardian.com/sport/2024/mar/22/jasmin-paris-completes-barkley-marathons-tennessee)
+- [Aryna Sabalenka wins on return to court after death of her former partner](https://www.theguardian.com/sport/2024/mar/22/grieving-aryna-sabalenka-retains-focus-to-see-off-paula-badosa-in-miami-open)
+- [An Australian farmer has held the first carbon-neutral cattle sale – here’s how it works](https://www.theguardian.com/australia-news/2024/mar/23/carbon-neutral-cattle-sale-australia-gloucester)
+- [Talk it out or walk it off: readers’ tips for stopping a relationship squabble](https://www.theguardian.com/lifeandstyle/2024/mar/23/talk-it-out-or-walk-it-off-readers-tips-for-stopping-a-relationship-squabble)
+- [Long Covid may be nothing unique in the future – but its effects today are still very real | Gideon Meyerowitz-Katz](https://www.theguardian.com/commentisfree/2024/mar/23/long-covid-effects-study)
+- [The world’s largest Māori and Pacific Island school cultural festival – in pictures](https://www.theguardian.com/world/gallery/2024/mar/23/the-worlds-largest-maori-pacific-island-school-cultural-festival-in-pictures)
+- [‘Tourists ask a lot of questions’: Great Barrier Reef guides face up to bleaching tragedy](https://www.theguardian.com/environment/2024/mar/23/great-barrier-reef-coral-bleaching-tourism-impact)
+- [Dismay as Louisiana lookback law for child sexual abuse victims struck down](https://www.theguardian.com/us-news/2024/mar/22/louisiana-lookback-law-child-sexual-abuse-victims)
+- [‘Playful update’ to national debate: England kit has begun a culture war](https://www.theguardian.com/football/2024/mar/22/playful-update-to-national-debate-england-kit-has-begun-a-culture-war)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

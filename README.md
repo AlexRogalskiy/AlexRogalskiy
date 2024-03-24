@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Cloud Software Group snubs GPL obligations, say critics](https://www.theregister.com/2024/03/21/csg_fails_to_honor_agpl/)
-- [William Adams: English Advisor to the Shogun](https://www.historytoday.com/archive/history-matters/william-adams-english-advisor-shogun)
-- [Marilynne Robinson on Biblical Interpretation, Calvinism and Religion in America](https://conversationswithtyler.com/episodes/marilynne-robinson/)
-- [Playing with Certificate Transparency](https://www.akpain.net/blog/certificate-transparency/)
-- [Signs of life detectable in single ice grain emitted from extraterrestrial moons](https://www.washington.edu/news/2024/03/22/signs-of-life-detectable-in-single-ice-grain-emitted-from-extraterrestrial-moons/)
-- [Teen Pregnancy and Risk of Premature Mortality](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2816198)
-- [Coffee Break](https://github.com/radekvit/coffee_break)
-- [The Strongman Fantasy – and Dictatorship in Real Life](https://snyder.substack.com/p/the-strongman-fantasy)
-- [New chip flaw hits Apple Silicon and steals cryptographic keys from system cache](https://www.tomshardware.com/pc-components/cpus/new-chip-flaw-hits-apple-silicon-and-steals-cryptographic-keys-from-system-cache-gofetch-vulnerability-attacks-apple-m1-m2-m3-processors-cant-be-fixed-in-hardware)
-- [Drug Could Be the Next Ozempic. Bootlegs Are Already Selling Online](https://www.wsj.com/health/pharma/the-next-hot-obesity-drug-wont-be-approved-for-years-online-sellers-hawk-it-anyway-e04d7cc3)
+- [A Constructive Look at TempleOS &lpar;2015&rpar;](http://www.codersnotes.com/notes/a-constructive-look-at-templeos/)
+- [Cloudflare and Hetzner threatens to takedown Fediverse instance because of yuri](https://bsky.app/profile/makai.chaotic.ninja/post/3kofrm3pcvc2p)
+- [Cable ISP Fined $10k for Lying to FCC About Where It Offers Broadband](https://ordonews.com/cable-isp-fined-10000-for-lying-to-fcc-about-where-it-offers-broadband/)
+- [Decoding the plant world&#39;s complex biochemical communication networks](https://phys.org/news/2024-03-decoding-world-complex-biochemical-communication.html)
+- [Social bonding gets people on the same wavelength: neural synchronization study](https://medicalxpress.com/news/2024-03-social-bonding-people-wavelength-neural.html)
+- [Innovatize Testing Launch](https://innovatize.xyz)
+- [LLM PLZ Cast to JSON](https://github.com/ivanbelenky/jsonllm)
+- [GraalVM Native Image Sucks; I Rewrite It in Rust](https://github.com/korandoru/hawkeye/discussions/117)
+- [A golden age of TV is losing its shine](https://www.economist.com/culture/2023/10/27/a-golden-age-of-tv-is-losing-its-shine)
+- [State Farm won&#39;t renew 72,000 insurance policies in California](https://www.latimes.com/california/story/2024-03-23/state-farm-wont-renew-72-000-insurance-policies-in-california-worsening-the-states-insurance-crisis)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

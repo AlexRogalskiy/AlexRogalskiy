@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Google Ordered to Identify Who Watched Certain YouTube Videos](https://www.forbes.com/sites/thomasbrewster/2024/03/22/feds-ordered-google-to-unmask-certain-youtube-users-critics-say-its-terrifying/)
-- [Post-quantum cryptography is too damn big](https://dadrian.io/blog/posts/pqc-signatures-2024/)
-- [Visiting Scarfolk, the Most Spectacular Dystopia of the 1970s](https://www.collectorsweekly.com/articles/visiting-scarfolk/)
-- [Micron Samples 256 GB DDR5-8800 MCR DIMMs: Modules for Servers](https://www.anandtech.com/show/21320/micron-samples-256-gb-ddr58800-mcr-dimms-massive-modules-for-massive-servers)
-- [Empirical &lpar;YC S23&rpar; is hiring interns to build AI-enabled primary care](https://www.workatastartup.com/jobs/65500)
-- [Finding Little Albert &lpar;2011&rpar;](https://www.bps.org.uk/psychologist/looking-back-finding-little-albert)
-- [OpenCat: Open-source robotic pet quadruped framework](https://www.petoi.com/pages/opencat-open-source-robot-pet-framework)
-- [Pack: A new container format for compressed files](https://pack.ac/note/pack)
-- [Mozilla Drops Onerep After CEO Admits to Running People-Search Networks](https://krebsonsecurity.com/2024/03/mozilla-drops-onerep-after-ceo-admits-to-running-people-search-networks/)
-- [Show HN: magick.css – Minimalist CSS for Wizards](https://css.winterveil.net)
+- [State Farm won&#39;t renew 72,000 insurance policies in California](https://www.latimes.com/california/story/2024-03-23/state-farm-wont-renew-72-000-insurance-policies-in-california-worsening-the-states-insurance-crisis)
+- [CodeCrafters &lpar;YC S22&rpar; Is Hiring a Bootcamps Partnership Manager](https://www.ycombinator.com/companies/codecrafters/jobs/tH6WSC3-bootcamps-partnerships-manager)
+- [Linux Crisis Tools](https://www.brendangregg.com/blog/2024-03-24/linux-crisis-tools.html)
+- [After 41 years, my first assembly program on my first computer, the Tomy Tutor](http://oldvcr.blogspot.com/2024/03/after-41-years-my-first-assembly.html)
+- [Oxide Cloud Computer. No Cables. No Assembly. Just Cloud](https://oxide.computer/)
+- [Safecast Open Radiation and Air Quality Map](https://map.safecast.org/)
+- [Cancer under age 50 increased 80% from 1990 to 2019](https://bmjoncology.bmj.com/content/2/1/e000049#DC1)
+- [An approach to design high-power lithium sulfur batteries](https://phys.org/news/2024-03-approach-high-power-lithium-sulfur.html)
+- [New Aztec Codices Discovered: The Codices of San Andrés Tetepilco](https://tlacuilolli.com/2024/03/21/new-aztec-codices-the-codices-of-san-andres-tetepilco/)
+- [Hyprland Crash Course](https://xd1.dev/2024/03/hyprland-crash-course)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

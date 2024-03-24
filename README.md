@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Moscow concert hall attack: Islamic State claims responsibility as death toll rises to 60 – latest updates](https://www.theguardian.com/world/live/2024/mar/22/moscow-concert-attack-crocus-city-hall-shooting-russia-live-updates)
-- [British ultrarunner Jasmin Paris is first woman to finish Barkley Marathons](https://www.theguardian.com/sport/2024/mar/22/jasmin-paris-completes-barkley-marathons-tennessee)
-- [Aryna Sabalenka wins on return to court after death of her former partner](https://www.theguardian.com/sport/2024/mar/22/grieving-aryna-sabalenka-retains-focus-to-see-off-paula-badosa-in-miami-open)
-- [An Australian farmer has held the first carbon-neutral cattle sale – here’s how it works](https://www.theguardian.com/australia-news/2024/mar/23/carbon-neutral-cattle-sale-australia-gloucester)
-- [Talk it out or walk it off: readers’ tips for stopping a relationship squabble](https://www.theguardian.com/lifeandstyle/2024/mar/23/talk-it-out-or-walk-it-off-readers-tips-for-stopping-a-relationship-squabble)
-- [Long Covid may be nothing unique in the future – but its effects today are still very real | Gideon Meyerowitz-Katz](https://www.theguardian.com/commentisfree/2024/mar/23/long-covid-effects-study)
-- [The world’s largest Māori and Pacific Island school cultural festival – in pictures](https://www.theguardian.com/world/gallery/2024/mar/23/the-worlds-largest-maori-pacific-island-school-cultural-festival-in-pictures)
-- [‘Tourists ask a lot of questions’: Great Barrier Reef guides face up to bleaching tragedy](https://www.theguardian.com/environment/2024/mar/23/great-barrier-reef-coral-bleaching-tourism-impact)
-- [Dismay as Louisiana lookback law for child sexual abuse victims struck down](https://www.theguardian.com/us-news/2024/mar/22/louisiana-lookback-law-child-sexual-abuse-victims)
-- [‘Playful update’ to national debate: England kit has begun a culture war](https://www.theguardian.com/football/2024/mar/22/playful-update-to-national-debate-england-kit-has-begun-a-culture-war)
+- [New Zealand v England: third women’s T20 international – live](https://www.theguardian.com/sport/live/2024/mar/23/new-zealand-v-england-third-womens-t20-international-live)
+- [Slovakia election: pro-EU diplomat beats ally of populist PM to set up runoff for presidency](https://www.theguardian.com/world/2024/mar/24/slovakia-election-pro-eu-diplomat-beats-ally-of-populist-pm-to-set-up-runoff-for-presidency)
+- [Earth Hour 2024 – in pictures](https://www.theguardian.com/environment/gallery/2024/mar/23/earth-hour-2024-in-pictures)
+- [Trend watch: The tailored suit is back, but more relaxed](https://www.theguardian.com/fashion/2024/mar/23/trend-watch-the-tailored-suit-is-back-but-more-relaxed)
+- [Throwing shade: 18 of the best sunglasses – in pictures](https://www.theguardian.com/fashion/gallery/2024/mar/23/throwing-shade-18-of-the-best-sunglasses-in-pictures)
+- [China targets group of MPs and peers with string of cyber-attacks](https://www.theguardian.com/uk-news/2024/mar/23/china-targets-group-of-mps-and-peers-with-string-of-cyber-attacks)
+- [Andy Murray claims best win of year against Etcheverry at Miami Open](https://www.theguardian.com/sport/2024/mar/23/andy-murray-claims-best-win-of-year-against-etcheverry-at-miami-open)
+- [Lewis Ferguson challenges wounded Scotland to play with ‘fire in our bellies’](https://www.theguardian.com/football/2024/mar/23/lewis-ferguson-challenges-wounded-scotland-to-play-with-fire-in-our-bellies)
+- [Molly Caudery: ‘There’s a natural chaos that’s just part of me’](https://www.theguardian.com/sport/2024/mar/23/molly-caudery-natural-chaos-olympic-pole-vault-paris)
+- [Moscow terror attack: Putin says all four gunmen held as death toll reaches 133](https://www.theguardian.com/world/2024/mar/23/russia-fsb-tries-to-link-ukraine-to-moscow-attack-despite-is-claiming-responsibility)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

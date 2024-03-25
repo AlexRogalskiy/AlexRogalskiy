@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [A Constructive Look at TempleOS &lpar;2015&rpar;](http://www.codersnotes.com/notes/a-constructive-look-at-templeos/)
-- [Cloudflare and Hetzner threatens to takedown Fediverse instance because of yuri](https://bsky.app/profile/makai.chaotic.ninja/post/3kofrm3pcvc2p)
-- [Cable ISP Fined $10k for Lying to FCC About Where It Offers Broadband](https://ordonews.com/cable-isp-fined-10000-for-lying-to-fcc-about-where-it-offers-broadband/)
-- [Decoding the plant world&#39;s complex biochemical communication networks](https://phys.org/news/2024-03-decoding-world-complex-biochemical-communication.html)
-- [Social bonding gets people on the same wavelength: neural synchronization study](https://medicalxpress.com/news/2024-03-social-bonding-people-wavelength-neural.html)
-- [Innovatize Testing Launch](https://innovatize.xyz)
-- [LLM PLZ Cast to JSON](https://github.com/ivanbelenky/jsonllm)
-- [GraalVM Native Image Sucks; I Rewrite It in Rust](https://github.com/korandoru/hawkeye/discussions/117)
-- [A golden age of TV is losing its shine](https://www.economist.com/culture/2023/10/27/a-golden-age-of-tv-is-losing-its-shine)
-- [State Farm won&#39;t renew 72,000 insurance policies in California](https://www.latimes.com/california/story/2024-03-23/state-farm-wont-renew-72-000-insurance-policies-in-california-worsening-the-states-insurance-crisis)
+- [Leak, Cheat, Repeat: Data Contamination and Evaluation in Closed-Source LLMs](https://leak-llm.github.io/)
+- [The year of Linux on the desktop, and why we can&#39;t have nice things](https://lorendb.dev/posts/the-year-of-linux-on-the-desktop/)
+- [Boosted Tree Predictions in SQL](https://foldl.de/blogs/re/re-gbm-sql.html)
+- [Supervision: Reusable Computer Vision](https://github.com/roboflow/supervision)
+- [Netflix study shows limits of cosine similarity in embedding models](https://bdtechtalks.com/2024/03/21/netflix-cosine-similarity-embedding-models/)
+- [Frustrated visitors sue National Park Service over cashless policy](https://www.sfgate.com/california-parks/article/cashless-national-park-service-lawsuit-19265876.php)
+- [Sci-fi video shows how NASA might fly a plane on Mars](https://mashable.com/article/nasa-mars-plane-video)
+- [Google, Apple breakups on the agenda as regulators target tech](https://www.reuters.com/technology/google-apple-breakups-agenda-global-regulators-target-tech-2024-03-24/)
+- [How to get everyone at the company to value writing](https://incident.io/blog/value-writing)
+- [DeploySolo: A self hostable SaaS template built with Pocketbase and Htmx](https://deploysolo.com/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

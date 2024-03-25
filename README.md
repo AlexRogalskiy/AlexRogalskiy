@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [New Zealand v England: third women’s T20 international – live](https://www.theguardian.com/sport/live/2024/mar/23/new-zealand-v-england-third-womens-t20-international-live)
-- [Slovakia election: pro-EU diplomat beats ally of populist PM to set up runoff for presidency](https://www.theguardian.com/world/2024/mar/24/slovakia-election-pro-eu-diplomat-beats-ally-of-populist-pm-to-set-up-runoff-for-presidency)
-- [Earth Hour 2024 – in pictures](https://www.theguardian.com/environment/gallery/2024/mar/23/earth-hour-2024-in-pictures)
-- [Trend watch: The tailored suit is back, but more relaxed](https://www.theguardian.com/fashion/2024/mar/23/trend-watch-the-tailored-suit-is-back-but-more-relaxed)
-- [Throwing shade: 18 of the best sunglasses – in pictures](https://www.theguardian.com/fashion/gallery/2024/mar/23/throwing-shade-18-of-the-best-sunglasses-in-pictures)
-- [China targets group of MPs and peers with string of cyber-attacks](https://www.theguardian.com/uk-news/2024/mar/23/china-targets-group-of-mps-and-peers-with-string-of-cyber-attacks)
-- [Andy Murray claims best win of year against Etcheverry at Miami Open](https://www.theguardian.com/sport/2024/mar/23/andy-murray-claims-best-win-of-year-against-etcheverry-at-miami-open)
-- [Lewis Ferguson challenges wounded Scotland to play with ‘fire in our bellies’](https://www.theguardian.com/football/2024/mar/23/lewis-ferguson-challenges-wounded-scotland-to-play-with-fire-in-our-bellies)
-- [Molly Caudery: ‘There’s a natural chaos that’s just part of me’](https://www.theguardian.com/sport/2024/mar/23/molly-caudery-natural-chaos-olympic-pole-vault-paris)
-- [Moscow terror attack: Putin says all four gunmen held as death toll reaches 133](https://www.theguardian.com/world/2024/mar/23/russia-fsb-tries-to-link-ukraine-to-moscow-attack-despite-is-claiming-responsibility)
+- [Israel will no longer approve Unrwa food aid to northern Gaza, agency says](https://www.theguardian.com/world/2024/mar/24/israel-reportedly-blocking-un-food-aid-to-northern-gaza-despite-high-famine-risk)
+- [Ukraine war briefing: two ships and base hit in Russian-occupied Crimea](https://www.theguardian.com/world/2024/mar/25/ukraine-war-briefing-two-ships-and-base-hit-in-russian-occupied-crimea)
+- [Details of millions of UK voters accessed by Chinese state, ministers will say](https://www.theguardian.com/technology/2024/mar/25/details-of-millions-of-uk-voters-accessed-by-chinese-state-ministers-will-say)
+- [British public donated record £13.9bn to charity in 2023](https://www.theguardian.com/society/2024/mar/25/british-public-donated-record-139bn-pounds-to-charity-in-2023)
+- [Scientists call for protection of moon sites that could advance astronomy](https://www.theguardian.com/science/2024/mar/25/scientists-call-for-protection-of-moon-sites-astronomy-telescopes)
+- [Bases, experiments, mining: the race to protect the surface of the moon](https://www.theguardian.com/science/2024/mar/25/bases-experiments-mining-the-race-to-protect-the-surface-of-the-moon)
+- [More than half of England’s army veterans have health problems – report](https://www.theguardian.com/uk-news/2024/mar/25/more-than-half-england-army-veterans-health-problems-report)
+- [BBC looks for commercial deals as it faces potential end of licence fee](https://www.theguardian.com/media/2024/mar/25/bbc-looks-for-commercial-deals-as-it-faces-potential-end-of-licence-fee)
+- [US-style executive pay packets in UK would ‘risk higher inequality’](https://www.theguardian.com/business/2024/mar/25/us-style-executive-pay-packets-in-uk-would-risk-higher-inequality)
+- [‘Nobody can hold a candle to it’: David Attenborough backs BBC’s nature shows](https://www.theguardian.com/tv-and-radio/2024/mar/25/nobody-can-hold-a-candle-to-it-david-attenborough-backs-bbcs-nature-shows)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

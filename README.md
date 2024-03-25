@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [State Farm won&#39;t renew 72,000 insurance policies in California](https://www.latimes.com/california/story/2024-03-23/state-farm-wont-renew-72-000-insurance-policies-in-california-worsening-the-states-insurance-crisis)
-- [CodeCrafters &lpar;YC S22&rpar; Is Hiring a Bootcamps Partnership Manager](https://www.ycombinator.com/companies/codecrafters/jobs/tH6WSC3-bootcamps-partnerships-manager)
-- [Linux Crisis Tools](https://www.brendangregg.com/blog/2024-03-24/linux-crisis-tools.html)
-- [After 41 years, my first assembly program on my first computer, the Tomy Tutor](http://oldvcr.blogspot.com/2024/03/after-41-years-my-first-assembly.html)
-- [Oxide Cloud Computer. No Cables. No Assembly. Just Cloud](https://oxide.computer/)
-- [Safecast Open Radiation and Air Quality Map](https://map.safecast.org/)
-- [Cancer under age 50 increased 80% from 1990 to 2019](https://bmjoncology.bmj.com/content/2/1/e000049#DC1)
-- [An approach to design high-power lithium sulfur batteries](https://phys.org/news/2024-03-approach-high-power-lithium-sulfur.html)
-- [New Aztec Codices Discovered: The Codices of San Andrés Tetepilco](https://tlacuilolli.com/2024/03/21/new-aztec-codices-the-codices-of-san-andres-tetepilco/)
-- [Hyprland Crash Course](https://xd1.dev/2024/03/hyprland-crash-course)
+- [Mutt on Windows Without WSL](https://blog.djhaskin.com/blog/mutt-on-windows-without-wsl/)
+- [Northern lights forecasted to be visible into upper United States tonight](https://www.swpc.noaa.gov/products/aurora-viewline-tonight-and-tomorrow-night-experimental)
+- [Symbolics Sunstone Development Plan &lpar;1987&rpar; [pdf]](https://wiki.unix-haters.org/lib/exe/fetch.php?media=smbx:1987-sunstone.pdf)
+- [The Format Dialog in Windows NT](https://twitter.com/davepl1968/status/1772042158046146792)
+- [Moving Back to London and 2023 Review](https://mccormick.cx/news/entries/moving-back-to-london-2023-review)
+- [Do artifacts have politics? [pdf]](https://faculty.cc.gatech.edu/~beki/cs4001/Winner.pdf)
+- [Explorer: Exploration-Guided Reasoning for Textual Reinforcement Learning](https://arxiv.org/abs/2403.10692)
+- [Large Language Models&#39; Emergent Abilities Are a Mirage](https://www.wired.com/story/how-quickly-do-large-language-models-learn-unexpected-skills/)
+- [Monolith – CLI tool for saving complete web pages as a single HTML file](https://github.com/Y2Z/monolith)
+- [&quot;She&#39;s bouncing the ball&quot; – the uncanny way octopuses play](https://lithub.com/shes-bouncing-the-ball-on-the-uncanny-way-octopuses-play/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

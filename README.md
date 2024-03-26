@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Israel will no longer approve Unrwa food aid to northern Gaza, agency says](https://www.theguardian.com/world/2024/mar/24/israel-reportedly-blocking-un-food-aid-to-northern-gaza-despite-high-famine-risk)
-- [Ukraine war briefing: two ships and base hit in Russian-occupied Crimea](https://www.theguardian.com/world/2024/mar/25/ukraine-war-briefing-two-ships-and-base-hit-in-russian-occupied-crimea)
-- [Details of millions of UK voters accessed by Chinese state, ministers will say](https://www.theguardian.com/technology/2024/mar/25/details-of-millions-of-uk-voters-accessed-by-chinese-state-ministers-will-say)
-- [British public donated record £13.9bn to charity in 2023](https://www.theguardian.com/society/2024/mar/25/british-public-donated-record-139bn-pounds-to-charity-in-2023)
-- [Scientists call for protection of moon sites that could advance astronomy](https://www.theguardian.com/science/2024/mar/25/scientists-call-for-protection-of-moon-sites-astronomy-telescopes)
-- [Bases, experiments, mining: the race to protect the surface of the moon](https://www.theguardian.com/science/2024/mar/25/bases-experiments-mining-the-race-to-protect-the-surface-of-the-moon)
-- [More than half of England’s army veterans have health problems – report](https://www.theguardian.com/uk-news/2024/mar/25/more-than-half-england-army-veterans-health-problems-report)
-- [BBC looks for commercial deals as it faces potential end of licence fee](https://www.theguardian.com/media/2024/mar/25/bbc-looks-for-commercial-deals-as-it-faces-potential-end-of-licence-fee)
-- [US-style executive pay packets in UK would ‘risk higher inequality’](https://www.theguardian.com/business/2024/mar/25/us-style-executive-pay-packets-in-uk-would-risk-higher-inequality)
-- [‘Nobody can hold a candle to it’: David Attenborough backs BBC’s nature shows](https://www.theguardian.com/tv-and-radio/2024/mar/25/nobody-can-hold-a-candle-to-it-david-attenborough-backs-bbcs-nature-shows)
+- [Ukraine war briefing: Russian ambassador snubs Poland over missile intrusion](https://www.theguardian.com/world/2024/mar/26/ukraine-war-briefing-russian-ambassador-snubs-poland-over-missile-intrusion)
+- [School leaders welcome proposal to tackle harassment of teachers](https://www.theguardian.com/education/2024/mar/25/teachers-facing-threats-and-harassment-at-work-offered-a-lifeline-in-official-report)
+- [Tories delete Sadiq Khan attack ad showing New York instead of London](https://www.theguardian.com/uk-news/2024/mar/25/tories-sadiq-khan-attack-ad-new-york-london)
+- [Trump civil fraud case: New York court lowers bond to $175m and gives 10-day deadline](https://www.theguardian.com/us-news/2024/mar/25/trump-fraud-bond-deadline)
+- [Federal agents raid multiple properties of Sean ‘Diddy’ Combs](https://www.theguardian.com/music/2024/mar/25/sean-diddy-properties-raided-homeland-security)
+- [Katie Boulter’s Miami Open run ended by Victoria Azarenka in straight sets](https://www.theguardian.com/sport/2024/mar/25/katie-boulters-miami-open-run-ended-by-victoria-azarenka-in-straight-sets)
+- [Declan Rice steps up as England leader as he reaches half century](https://www.theguardian.com/football/2024/mar/25/declan-rice-steps-up-as-england-leader-as-he-reaches-half-century)
+- [The Underdog: Josh Must Win review – this sham reality show is like old-school Big Brother, but better](https://www.theguardian.com/tv-and-radio/2024/mar/25/the-underdog-josh-must-win-review-this-sham-reality-show-is-like-old-school-big-brother-but-better)
+- [Ukraine: Enemy in the Woods review – a harrowing vision of hell you will never forget](https://www.theguardian.com/tv-and-radio/2024/mar/25/ukraine-enemy-in-the-woods-review-bbc)
+- [Brazil summons Hungarian envoy to explain why Bolsonaro hid in embassy](https://www.theguardian.com/world/2024/mar/25/jair-bolsonaro-hiding-embassy)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

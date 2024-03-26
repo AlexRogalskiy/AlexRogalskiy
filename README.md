@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Leak, Cheat, Repeat: Data Contamination and Evaluation in Closed-Source LLMs](https://leak-llm.github.io/)
-- [The year of Linux on the desktop, and why we can&#39;t have nice things](https://lorendb.dev/posts/the-year-of-linux-on-the-desktop/)
-- [Boosted Tree Predictions in SQL](https://foldl.de/blogs/re/re-gbm-sql.html)
-- [Supervision: Reusable Computer Vision](https://github.com/roboflow/supervision)
-- [Netflix study shows limits of cosine similarity in embedding models](https://bdtechtalks.com/2024/03/21/netflix-cosine-similarity-embedding-models/)
-- [Frustrated visitors sue National Park Service over cashless policy](https://www.sfgate.com/california-parks/article/cashless-national-park-service-lawsuit-19265876.php)
-- [Sci-fi video shows how NASA might fly a plane on Mars](https://mashable.com/article/nasa-mars-plane-video)
-- [Google, Apple breakups on the agenda as regulators target tech](https://www.reuters.com/technology/google-apple-breakups-agenda-global-regulators-target-tech-2024-03-24/)
-- [How to get everyone at the company to value writing](https://incident.io/blog/value-writing)
-- [DeploySolo: A self hostable SaaS template built with Pocketbase and Htmx](https://deploysolo.com/)
+- [TikTok regulation bill&#39;s future looking wobbly in Senate as calls](https://fortune.com/2024/03/25/tiktik-regulation-bills-future-looking-wobbly-senate-calls-threats-pour/)
+- [Joy of Programming](https://kuterdinel.com/joy-of-programming.html)
+- [Pervasive environmental chemicals impair oligodendrocyte development](https://www.nature.com/articles/s41593-024-01599-2)
+- [MoonBit Weekly Update Vol.34 25/03/2024](https://discuss.moonbitlang.com/)
+- [My binary vector search is better than your FP32 vectors](https://blog.pgvecto.rs/my-binary-vector-search-is-better-than-your-fp32-vectors)
+- [Unlocking the Secrets of Myelin Repair](https://neuroscience.stanford.edu/news/unlocking-secrets-myelin-repair)
+- [Ask HN: What&#39;s the value prop for &quot;AI wearables?&quot;](https://news.ycombinator.com/item?id=39823503)
+- [Time is ticking faster for long genes in aging](https://www.cell.com/trends/genetics/fulltext/S0168-9525(24)00027-1)
+- [Longer Genes May Drive Aging](https://neurosciencenews.com/longer-genes-aging-25806/)
+- [There May Be a Fatal Flaw in Godel&#39;s Incompleteness Theorem [pdf]](https://www.jamesrmeyer.com/pdfs/FFGIT_Meyer.pdf)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

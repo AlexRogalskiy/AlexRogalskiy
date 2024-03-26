@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Mutt on Windows Without WSL](https://blog.djhaskin.com/blog/mutt-on-windows-without-wsl/)
-- [Northern lights forecasted to be visible into upper United States tonight](https://www.swpc.noaa.gov/products/aurora-viewline-tonight-and-tomorrow-night-experimental)
-- [Symbolics Sunstone Development Plan &lpar;1987&rpar; [pdf]](https://wiki.unix-haters.org/lib/exe/fetch.php?media=smbx:1987-sunstone.pdf)
-- [The Format Dialog in Windows NT](https://twitter.com/davepl1968/status/1772042158046146792)
-- [Moving Back to London and 2023 Review](https://mccormick.cx/news/entries/moving-back-to-london-2023-review)
-- [Do artifacts have politics? [pdf]](https://faculty.cc.gatech.edu/~beki/cs4001/Winner.pdf)
-- [Explorer: Exploration-Guided Reasoning for Textual Reinforcement Learning](https://arxiv.org/abs/2403.10692)
-- [Large Language Models&#39; Emergent Abilities Are a Mirage](https://www.wired.com/story/how-quickly-do-large-language-models-learn-unexpected-skills/)
-- [Monolith – CLI tool for saving complete web pages as a single HTML file](https://github.com/Y2Z/monolith)
-- [&quot;She&#39;s bouncing the ball&quot; – the uncanny way octopuses play](https://lithub.com/shes-bouncing-the-ball-on-the-uncanny-way-octopuses-play/)
+- [Unlocking the Secrets of Myelin Repair](https://neuroscience.stanford.edu/news/unlocking-secrets-myelin-repair)
+- [Publishers Secure Widespread Support in Copyright Battle with Internet Archive](https://torrentfreak.com/publishers-secure-widespread-support-in-landmark-copyright-battle-with-internet-archive-240324/)
+- [Moirai: A Time Series Foundation Model for Universal Forecasting](https://blog.salesforceairesearch.com/moirai/)
+- [Computational Astronomy: Exploring the Cosmos with Wolfram](https://blog.wolfram.com/2024/03/25/computational-astronomy-exploring-the-cosmos-with-wolfram/)
+- [Inkjets are for more than just printing](https://spectrum.ieee.org/inkjet-printer)
+- [Google&#39;s First Tensor Processing Unit: Architecture](https://thechipletter.substack.com/p/googles-first-tpu-architecture)
+- [UpCodes &lpar;YC S17&rpar; is hiring remote SWEs to help make buildings cheaper](https://up.codes/careers?utm_source=HN)
+- [Show HN: Invertornot.com – API to enhance your images in dark-mode](https://invertornot.com)
+- [ZenHammer: Rowhammer attacks on AMD Zen-based platforms](https://comsec.ethz.ch/research/dram/zenhammer/)
+- [Show HN: Tracecat – Open-source security alert automation / SOAR alternative](https://github.com/TracecatHQ/tracecat)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -355,6 +355,8 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Europe will investigate Apple’s compliance with DMA](https://www.computerworld.com/article/3714742/europe-will-investigate-apples-compliance-with-dma.html#tk.rss_all)
+- [Most in-demand skills for 2024 — hint, genAI is at the top](https://www.computerworld.com/article/3714766/most-in-demand-skills-for-2024-hint-genai-is-at-the-top.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [Experts see &#39;no merit&#39; to DOJ antitrust fight with Apple](https://www.computerworld.com/article/3714682/experts-see-no-merit-to-doj-antitrust-fight-with-apple.html#tk.rss_all)
 - [A hidden new twist to a top Android Chrome trick](https://www.computerworld.com/article/3714820/a-hidden-new-twist-to-a-top-android-chrome-trick.html#tk.rss_all)
@@ -363,8 +365,6 @@
 - [The best note-taking apps for Android](https://www.computerworld.com/article/3239964/best-note-taking-apps-for-android.html#tk.rss_all)
 - [The best ways to run Android apps on a Windows PC](https://www.computerworld.com/article/3714781/the-best-ways-to-run-android-apps-on-a-windows-pc.html#tk.rss_all)
 - [The future of work looks like sci-fi](https://www.computerworld.com/article/3714342/the-future-of-work-looks-like-sci-fi.html#tk.rss_all)
-- [Microsoft hires ex-DeepMind co-founder to lead Copilot AI initiatives](https://www.computerworld.com/article/3714780/microsoft-hires-ex-deepmind-co-founder-to-lead-copilot-ai-initiatives.html#tk.rss_all)
-- [Which genAI chatbots are the most popular now?](https://www.computerworld.com/article/3714760/which-genai-chatbots-are-the-most-popular-now.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

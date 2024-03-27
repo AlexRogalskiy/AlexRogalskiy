@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [TikTok regulation bill&#39;s future looking wobbly in Senate as calls](https://fortune.com/2024/03/25/tiktik-regulation-bills-future-looking-wobbly-senate-calls-threats-pour/)
-- [Joy of Programming](https://kuterdinel.com/joy-of-programming.html)
-- [Pervasive environmental chemicals impair oligodendrocyte development](https://www.nature.com/articles/s41593-024-01599-2)
-- [MoonBit Weekly Update Vol.34 25/03/2024](https://discuss.moonbitlang.com/)
-- [My binary vector search is better than your FP32 vectors](https://blog.pgvecto.rs/my-binary-vector-search-is-better-than-your-fp32-vectors)
-- [Unlocking the Secrets of Myelin Repair](https://neuroscience.stanford.edu/news/unlocking-secrets-myelin-repair)
-- [Ask HN: What&#39;s the value prop for &quot;AI wearables?&quot;](https://news.ycombinator.com/item?id=39823503)
-- [Time is ticking faster for long genes in aging](https://www.cell.com/trends/genetics/fulltext/S0168-9525(24)00027-1)
-- [Longer Genes May Drive Aging](https://neurosciencenews.com/longer-genes-aging-25806/)
-- [There May Be a Fatal Flaw in Godel&#39;s Incompleteness Theorem [pdf]](https://www.jamesrmeyer.com/pdfs/FFGIT_Meyer.pdf)
+- [Scientists investigate how cerium is produced in the universe](https://phys.org/news/2024-03-scientists-cerium-universe.html)
+- [Homeless Software Engineering Vlogger? [video]](https://www.youtube.com/watch?v=5POOknPt3os)
+- [$20 RISC-V KVM Device with PiKVM Compatibility, 100M Ethernet and ATX Support](https://lunar.computer/news/sipeed-announces-new-20-risc-v-kvm-device/)
+- [Apple Arcade: axed games, declining payouts, disillusioned studios](https://mobilegamer.biz/inside-apple-arcade-axed-games-declining-payouts-disillusioned-studios-and-an-uncertain-future/)
+- [Malaysian convenience store owners charged over &#39;Allah&#39; socks](https://apnews.com/article/malaysia-kk-mart-allah-socks-7bfa4a2056a5004f132f8d8669a934c5)
+- [How to Recover Apple macOS Recovery](https://eclecticlight.co/2024/03/21/how-to-recover-recovery/)
+- [UK court denies bid to extradite Assange to the US](https://www.mercurynews.com/2024/03/26/uk-court-denies-bid-to-extradite-assange-to-the-us/)
+- [Nomic](http://legacy.earlham.edu/~peters/nomic.htm)
+- [The Jackson-Johnson Proof](https://rajivsethi.substack.com/p/the-jackson-johnson-proof)
+- [Visa, Mastercard Reach $30B Deal with US Retailers](https://www.bloomberg.com/news/articles/2024-03-26/visa-mastercard-reach-30-billion-swipe-fee-deal-with-merchants)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

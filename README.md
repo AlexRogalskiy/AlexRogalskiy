@@ -355,6 +355,9 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Windows is under new management after Microsoft AI reshuffle](https://www.computerworld.com/article/3714844/windows-is-under-new-management-after-microsoft-ai-reshuffle.html#tk.rss_all)
+- [Apple uses AI to boost recycling efforts, Tim Cook confirms](https://www.computerworld.com/article/3714960/apple-uses-ai-to-boost-recycling-efforts-tim-cook-confirms.html#tk.rss_all)
+- [Q&amp;A: Udemy online education exec on tech layoffs and skills needs](https://www.computerworld.com/article/3714741/qa-udemy-online-education-exec-on-tech-layoffs-and-skills-needs.html#tk.rss_all)
 - [Europe will investigate Apple’s compliance with DMA](https://www.computerworld.com/article/3714742/europe-will-investigate-apples-compliance-with-dma.html#tk.rss_all)
 - [Most in-demand skills for 2024 — hint, genAI is at the top](https://www.computerworld.com/article/3714766/most-in-demand-skills-for-2024-hint-genai-is-at-the-top.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
@@ -362,9 +365,6 @@
 - [A hidden new twist to a top Android Chrome trick](https://www.computerworld.com/article/3714820/a-hidden-new-twist-to-a-top-android-chrome-trick.html#tk.rss_all)
 - [Microsoft integrates its Copilot chatbot on new devices](https://www.computerworld.com/article/3714920/microsoft-integrates-its-copilot-chatbot-on-new-devices.html#tk.rss_all)
 - [DOJ sues Apple for monopolizing smartphone market](https://www.computerworld.com/article/3714661/doj-sues-apple-for-monopolizing-smartphone-market.html#tk.rss_all)
-- [The best note-taking apps for Android](https://www.computerworld.com/article/3239964/best-note-taking-apps-for-android.html#tk.rss_all)
-- [The best ways to run Android apps on a Windows PC](https://www.computerworld.com/article/3714781/the-best-ways-to-run-android-apps-on-a-windows-pc.html#tk.rss_all)
-- [The future of work looks like sci-fi](https://www.computerworld.com/article/3714342/the-future-of-work-looks-like-sci-fi.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

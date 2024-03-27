@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine war briefing: Russian ambassador snubs Poland over missile intrusion](https://www.theguardian.com/world/2024/mar/26/ukraine-war-briefing-russian-ambassador-snubs-poland-over-missile-intrusion)
-- [School leaders welcome proposal to tackle harassment of teachers](https://www.theguardian.com/education/2024/mar/25/teachers-facing-threats-and-harassment-at-work-offered-a-lifeline-in-official-report)
-- [Tories delete Sadiq Khan attack ad showing New York instead of London](https://www.theguardian.com/uk-news/2024/mar/25/tories-sadiq-khan-attack-ad-new-york-london)
-- [Trump civil fraud case: New York court lowers bond to $175m and gives 10-day deadline](https://www.theguardian.com/us-news/2024/mar/25/trump-fraud-bond-deadline)
-- [Federal agents raid multiple properties of Sean ‘Diddy’ Combs](https://www.theguardian.com/music/2024/mar/25/sean-diddy-properties-raided-homeland-security)
-- [Katie Boulter’s Miami Open run ended by Victoria Azarenka in straight sets](https://www.theguardian.com/sport/2024/mar/25/katie-boulters-miami-open-run-ended-by-victoria-azarenka-in-straight-sets)
-- [Declan Rice steps up as England leader as he reaches half century](https://www.theguardian.com/football/2024/mar/25/declan-rice-steps-up-as-england-leader-as-he-reaches-half-century)
-- [The Underdog: Josh Must Win review – this sham reality show is like old-school Big Brother, but better](https://www.theguardian.com/tv-and-radio/2024/mar/25/the-underdog-josh-must-win-review-this-sham-reality-show-is-like-old-school-big-brother-but-better)
-- [Ukraine: Enemy in the Woods review – a harrowing vision of hell you will never forget](https://www.theguardian.com/tv-and-radio/2024/mar/25/ukraine-enemy-in-the-woods-review-bbc)
-- [Brazil summons Hungarian envoy to explain why Bolsonaro hid in embassy](https://www.theguardian.com/world/2024/mar/25/jair-bolsonaro-hiding-embassy)
+- [New Zealand v England: fourth women’s T20 international – live](https://www.theguardian.com/sport/live/2024/mar/26/new-zealand-v-england-fourth-womens-t20-international-live)
+- [Japan dietary supplement recalled amid investigation into two deaths and 100 hospitalisations](https://www.theguardian.com/world/2024/mar/27/japan-dietary-supplement-recall-beni-koji-red-yeast-rice-cholesterol-kobayashi-pharmaceutical-investigation-kidney-disease)
+- [Richard Serra, uncompromising American abstract sculptor, dies aged 85](https://www.theguardian.com/artanddesign/2024/mar/27/richard-serra-dies-85-american-abstract-sculpture-artist-cause-of-death-pneumonia)
+- [Ukraine war briefing: ‘Third of Russia’s Black Sea fleet sunk or crippled’](https://www.theguardian.com/world/2024/mar/27/ukraine-war-briefing-third-of-russias-black-sea-fleet-sunk-or-crippled)
+- [Cardiff turns into a theatre of pain and leaves Wales facing an empty summer | Barney Ronay](https://www.theguardian.com/football/2024/mar/27/wales-euro-2024-playoff-shootout-poland)
+- [Boat Race organisers warn rowers not to enter water after E coli discovery](https://www.theguardian.com/sport/2024/mar/27/boat-race-organisers-warn-rowers-not-to-enter-water-after-e-coli-discovery)
+- [Enzo Mari review – the anarchic Italian at war with design world ‘pornography’](https://www.theguardian.com/artanddesign/2024/mar/27/enzo-mari-review-design-museum)
+- [Opening Night review – Sheridan Smith’s boozy meltdown shakes up musical theatre](https://www.theguardian.com/stage/2024/mar/27/opening-night-review-gielgud-theatre-sheridan-smith-ivo-van-hove-rufus-wainwright)
+- [Two nights of broken sleep can make people feel years older, finds study](https://www.theguardian.com/science/2024/mar/27/two-nights-of-broken-sleep-can-make-people-feel-years-older-finds-study)
+- [Public satisfaction with the NHS at its lowest ever level, poll shows](https://www.theguardian.com/society/2024/mar/27/public-satisfaction-with-the-nhs-at-its-lowest-ever-level-poll-shows)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

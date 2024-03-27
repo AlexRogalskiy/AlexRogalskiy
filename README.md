@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Unlocking the Secrets of Myelin Repair](https://neuroscience.stanford.edu/news/unlocking-secrets-myelin-repair)
-- [Publishers Secure Widespread Support in Copyright Battle with Internet Archive](https://torrentfreak.com/publishers-secure-widespread-support-in-landmark-copyright-battle-with-internet-archive-240324/)
-- [Moirai: A Time Series Foundation Model for Universal Forecasting](https://blog.salesforceairesearch.com/moirai/)
-- [Computational Astronomy: Exploring the Cosmos with Wolfram](https://blog.wolfram.com/2024/03/25/computational-astronomy-exploring-the-cosmos-with-wolfram/)
-- [Inkjets are for more than just printing](https://spectrum.ieee.org/inkjet-printer)
-- [Google&#39;s First Tensor Processing Unit: Architecture](https://thechipletter.substack.com/p/googles-first-tpu-architecture)
-- [UpCodes &lpar;YC S17&rpar; is hiring remote SWEs to help make buildings cheaper](https://up.codes/careers?utm_source=HN)
-- [Show HN: Invertornot.com – API to enhance your images in dark-mode](https://invertornot.com)
-- [ZenHammer: Rowhammer attacks on AMD Zen-based platforms](https://comsec.ethz.ch/research/dram/zenhammer/)
-- [Show HN: Tracecat – Open-source security alert automation / SOAR alternative](https://github.com/TracecatHQ/tracecat)
+- [Dealerships Rip You Off With The “Four-Square”, Here’s How To Beat It](https://www.consumerreports.org/consumerist/dealerships-rip-you-off-with-the-four-square-heres-how-to-beat-it/)
+- [A living replacement knee to be tested in clinical trials within five years](https://www.engineering.columbia.edu/news/arpa-h-awards-columbia-researchers-nearly-39m-develop-living-knee-replacement)
+- [OneText &lpar;YC W23&rpar; Is Hiring a Lead Design/UX Engineer](https://gist.github.com/bluepnume/33f2c4be93cc20215aafd55f803de19f)
+- [After Appalachian Hospitals Merged into a Monopoly, Their ERs Slowed to a Crawl](https://kffhealthnews.org/news/article/ballad-health-er-wait-times-copa-monopoly-appalachia-hospitals/)
+- [Death and typos: my six years screening online obituary comments](https://www.theguardian.com/lifeandstyle/2024/mar/26/online-sympathy-condolence-notes-screening)
+- [The closure of a Methodist chapel on Tyneside](https://www.newstatesman.com/politics/religion/2024/03/death-church-methodism-christianity-religion)
+- [Astronomers find 49 galaxies in under three hours](https://www.icrar.org/49galaxies/)
+- [Hacking the genome of fungi for smart foods of the future](https://www.sciencedaily.com/releases/2024/03/240314122135.htm)
+- [Launch HN: Aqua Voice &lpar;YC W24&rpar; – Voice-driven text editor](https://news.ycombinator.com/item?id=39828686)
+- [Generating music in the waveform domain &lpar;2020&rpar;](https://sander.ai/2020/03/24/audio-generation.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Scientists investigate how cerium is produced in the universe](https://phys.org/news/2024-03-scientists-cerium-universe.html)
-- [Homeless Software Engineering Vlogger? [video]](https://www.youtube.com/watch?v=5POOknPt3os)
-- [$20 RISC-V KVM Device with PiKVM Compatibility, 100M Ethernet and ATX Support](https://lunar.computer/news/sipeed-announces-new-20-risc-v-kvm-device/)
-- [Apple Arcade: axed games, declining payouts, disillusioned studios](https://mobilegamer.biz/inside-apple-arcade-axed-games-declining-payouts-disillusioned-studios-and-an-uncertain-future/)
-- [Malaysian convenience store owners charged over &#39;Allah&#39; socks](https://apnews.com/article/malaysia-kk-mart-allah-socks-7bfa4a2056a5004f132f8d8669a934c5)
-- [How to Recover Apple macOS Recovery](https://eclecticlight.co/2024/03/21/how-to-recover-recovery/)
-- [UK court denies bid to extradite Assange to the US](https://www.mercurynews.com/2024/03/26/uk-court-denies-bid-to-extradite-assange-to-the-us/)
-- [Nomic](http://legacy.earlham.edu/~peters/nomic.htm)
-- [The Jackson-Johnson Proof](https://rajivsethi.substack.com/p/the-jackson-johnson-proof)
-- [Visa, Mastercard Reach $30B Deal with US Retailers](https://www.bloomberg.com/news/articles/2024-03-26/visa-mastercard-reach-30-billion-swipe-fee-deal-with-merchants)
+- [Unlocking the Potential of Your Right Brain for Better Code](https://medium.com/@mattdenune/unlocking-the-potential-of-your-right-brain-for-better-code-5c2aad388261)
+- [Share Openly](https://werd.io/2024/share-openly)
+- [The Potentials of Methylene Blue as an Anti-Aging Drug](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8699482/)
+- [Dementia in the Ancient Greco-Roman World Was Minimally Mentioned](https://content.iospress.com/articles/journal-of-alzheimers-disease/jad230993)
+- [Angzarr: A Unicode character that has an unknown origin](https://en.wikipedia.org/wiki/Angzarr)
+- [Accelerating Progress Toward Trustworthy AI](https://foundation.mozilla.org/en/research/library/accelerating-progress-toward-trustworthy-ai/whitepaper/)
+- [Show HN: Byte-Level tracing of API payloads secures data-in-use: no code changes](https://www.caber.com/)
+- [Senator Joe Lieberman has died](https://www.cnn.com/2024/03/27/politics/joe-lieberman/index.html)
+- [Fledgling Languages List – New and upcoming programming languages](https://fll.presidentbeef.com/)
+- [Want to press pause on life? Human hibernation may soon be a reality](https://www.dazeddigital.com/life-culture/article/60036/1/sleepy-scientists-exploring-human-hibernation-torpor-mice-space-travel)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

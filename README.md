@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [New Zealand v England: fourth women’s T20 international – live](https://www.theguardian.com/sport/live/2024/mar/26/new-zealand-v-england-fourth-womens-t20-international-live)
-- [Japan dietary supplement recalled amid investigation into two deaths and 100 hospitalisations](https://www.theguardian.com/world/2024/mar/27/japan-dietary-supplement-recall-beni-koji-red-yeast-rice-cholesterol-kobayashi-pharmaceutical-investigation-kidney-disease)
-- [Richard Serra, uncompromising American abstract sculptor, dies aged 85](https://www.theguardian.com/artanddesign/2024/mar/27/richard-serra-dies-85-american-abstract-sculpture-artist-cause-of-death-pneumonia)
-- [Ukraine war briefing: ‘Third of Russia’s Black Sea fleet sunk or crippled’](https://www.theguardian.com/world/2024/mar/27/ukraine-war-briefing-third-of-russias-black-sea-fleet-sunk-or-crippled)
-- [Cardiff turns into a theatre of pain and leaves Wales facing an empty summer | Barney Ronay](https://www.theguardian.com/football/2024/mar/27/wales-euro-2024-playoff-shootout-poland)
-- [Boat Race organisers warn rowers not to enter water after E coli discovery](https://www.theguardian.com/sport/2024/mar/27/boat-race-organisers-warn-rowers-not-to-enter-water-after-e-coli-discovery)
-- [Enzo Mari review – the anarchic Italian at war with design world ‘pornography’](https://www.theguardian.com/artanddesign/2024/mar/27/enzo-mari-review-design-museum)
-- [Opening Night review – Sheridan Smith’s boozy meltdown shakes up musical theatre](https://www.theguardian.com/stage/2024/mar/27/opening-night-review-gielgud-theatre-sheridan-smith-ivo-van-hove-rufus-wainwright)
-- [Two nights of broken sleep can make people feel years older, finds study](https://www.theguardian.com/science/2024/mar/27/two-nights-of-broken-sleep-can-make-people-feel-years-older-finds-study)
-- [Public satisfaction with the NHS at its lowest ever level, poll shows](https://www.theguardian.com/society/2024/mar/27/public-satisfaction-with-the-nhs-at-its-lowest-ever-level-poll-shows)
+- [Joe Lieberman, former US senator and vice-presidential nominee, dies at 82](https://www.theguardian.com/us-news/2024/mar/27/joe-lieberman-dies-82)
+- [Baltimore bridge collapse: two bodies recovered from water, officials say](https://www.theguardian.com/us-news/2024/mar/27/baltimore-bridge-collapse-death-toll-black-box)
+- [Suspect held after four killed and seven injured in Illinois stabbings](https://www.theguardian.com/us-news/2024/mar/27/illinois-stabbings-rockford)
+- [Macron calls proposed EU-Mercosur trade pact ‘very bad deal’ lacking strong climate commitments](https://www.theguardian.com/world/2024/mar/28/emmanuel-macron-eu-mercosur-trade-pact-bad-deal-climate-commitments)
+- [Hunter Biden asks Los Angeles judge to toss out $1.4m tax evasion case](https://www.theguardian.com/us-news/2024/mar/27/hunter-biden-tax-evasion-case)
+- [Ex-Trump lawyer should be disbarred for his role in 2020 election, says judge](https://www.theguardian.com/us-news/2024/mar/27/former-trump-lawyer-john-eastman-lose-law-license)
+- [MJ the Musical review – sterilised moonwalk through the King of Pop’s life](https://www.theguardian.com/stage/2024/mar/27/mj-the-musical-review-prince-edward-theatre-london)
+- [Rashford’s England rivals circle as his United slump goes international](https://www.theguardian.com/football/2024/mar/27/marcus-rashford-england-manchester-united-international-southgate-euro-2024-football)
+- [Hormone medication could increase risk of brain tumours, French study finds](https://www.theguardian.com/society/2024/mar/27/hormone-medication-brain-tumours-risk-progestogens-study)
+- [King lauds friendship ‘in time of need’ in first comments since princess’s diagnosis](https://www.theguardian.com/uk-news/2024/mar/27/king-lauds-friendship-in-time-of-need-in-first-comments-since-princesss-diagnosis)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

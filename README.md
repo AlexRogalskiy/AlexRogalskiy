@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Share Openly](https://werd.io/2024/share-openly)
-- [The Lord of the Rings Family Tree](http://lotrproject.com/)
-- [NASA&#39;s Europa Clipper Survives and Thrives in &#39;Outer Space&#39; on Earth](https://www.jpl.nasa.gov/news/nasas-europa-clipper-survives-and-thrives-in-outer-space-on-earth)
-- [BeagleY-AI: a 4 TOPS-capable $70 board from Beagleboard](https://www.beagleboard.org/boards/beagley-ai)
-- [Digital wallets and the &quot;only Apple Pay does this&quot; mythology](https://birchtree.me/blog/digital-wallets-and-the-only-apple-pay-does-this-mythology/)
-- [Writing Gnome Apps with Swift](https://www.swift.org/blog/adwaita-swift/)
-- [Finley &lpar;YC W21&rpar; is hiring to remake the $1T private credit space](https://www.finleycms.com/careers/)
-- [Want to start a startup? Meet all the YC partners in Boston – Apr 20th](https://www.ycombinator.com/blog/startup-school-east-boston/)
-- [Cliff Stoll, the mad scientist who wrote the book on how to hunt hackers &lpar;2019&rpar;](https://www.wired.com/story/meet-the-mad-scientist-who-wrote-the-book-on-how-to-hunt-hackers/)
-- [Infinite Mac: Turning to the dark side](https://blog.persistent.info/2024/03/infinite-mac-nextstep.html)
+- [Honey bees at risk for colony collapse from longer, warmer fall seasons](https://news.wsu.edu/press-release/2024/03/25/honey-bees-at-risk-for-colony-collapse-from-longer-warmer-fall-seasons/)
+- [Faintest known star system orbiting the Milky Way discovered](https://phys.org/news/2024-03-faintest-star-orbiting-milky.html)
+- [Reddit shares plunge 25% in two days, finish the week below first day close](https://www.cnbc.com/2024/03/28/reddit-shares-on-a-two-day-tumble-after-post-ipo-high.html)
+- [The rev.ng decompiler goes open source](https://rev.ng/blog/open-sourcing-renvg-decompiler-ui-closed-beta)
+- [Is the Sun Conscious? [pdf]](https://www.sheldrake.org/files/pdfs/papers/Is_the_Sun_Conscious.pdf)
+- [Utah Passes Artificial Intelligence Legislation](https://www.jdsupra.com/legalnews/utah-passes-artificial-intelligence-1386840/)
+- [Facebook let Netflix see user DMs, quit streaming to keep Netflix happy](https://arstechnica.com/gadgets/2024/03/netflix-ad-spend-led-to-facebook-dm-access-end-of-facebook-streaming-biz-lawsuit/)
+- [Doom Captcha](https://vivirenremoto.github.io/doomcaptcha/)
+- [Deep Learning in JavaScript](https://github.com/eduardoleao052/js-torch)
+- [The race to replace Redis](https://lwn.net/SubscriberLink/966631/6bf2063136effa1e/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

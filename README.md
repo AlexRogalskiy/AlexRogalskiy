@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Microsoft’s Copilot AI set to operate locally on future PCs, says Intel](https://www.computerworld.com/article/3714605/microsofts-copilot-ai-set-to-operate-locally-on-future-pcs-says-intel.html#tk.rss_all)
+- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
+- [If you get an unexpected call from Apple Support, you’re being hacked](https://www.computerworld.com/article/3714823/if-you-get-an-unexpected-call-from-apple-support-youre-being-hacked.html#tk.rss_all)
+- [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
+- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
+- [Amazon invests $2.75 billion more in OpenAI rival Anthropic](https://www.computerworld.com/article/3714845/amazon-invests-275-billion-more-in-openai-rival-anthropic.html#tk.rss_all)
+- [Software vendors dump open source, go for the cash grab](https://www.computerworld.com/article/3714821/software-vendors-dump-open-source-go-for-the-cash-grab.html#tk.rss_all)
 - [WWDC 2024: Yes, we live in interesting times](https://www.computerworld.com/article/3714685/wwdc-2024-yes-we-live-in-interesting-times.html#tk.rss_all)
 - [Will a Google-Apple deal kill Microsoft’s AI dominance?](https://www.computerworld.com/article/3714943/will-google-apple-deal-kill-microsoft-ai-dominance.html#tk.rss_all)
 - [16 handy hidden tricks for Google Maps on Android](https://www.computerworld.com/article/3319439/google-maps-android-tricks.html#tk.rss_all)
-- [Windows is under new management after Microsoft AI reshuffle](https://www.computerworld.com/article/3714844/windows-is-under-new-management-after-microsoft-ai-reshuffle.html#tk.rss_all)
-- [Apple uses AI to boost recycling efforts, Tim Cook confirms](https://www.computerworld.com/article/3714960/apple-uses-ai-to-boost-recycling-efforts-tim-cook-confirms.html#tk.rss_all)
-- [Q&amp;A: Udemy online education exec on tech layoffs and skills needs](https://www.computerworld.com/article/3714741/qa-udemy-online-education-exec-on-tech-layoffs-and-skills-needs.html#tk.rss_all)
-- [Europe will investigate Apple’s compliance with DMA](https://www.computerworld.com/article/3714742/europe-will-investigate-apples-compliance-with-dma.html#tk.rss_all)
-- [Most in-demand skills for 2024 — hint, genAI is at the top](https://www.computerworld.com/article/3714766/most-in-demand-skills-for-2024-hint-genai-is-at-the-top.html#tk.rss_all)
-- [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
-- [Experts see &#39;no merit&#39; to DOJ antitrust fight with Apple](https://www.computerworld.com/article/3714682/experts-see-no-merit-to-doj-antitrust-fight-with-apple.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Unlocking the Potential of Your Right Brain for Better Code](https://medium.com/@mattdenune/unlocking-the-potential-of-your-right-brain-for-better-code-5c2aad388261)
-- [Share Openly](https://werd.io/2024/share-openly)
-- [The Potentials of Methylene Blue as an Anti-Aging Drug](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8699482/)
-- [Dementia in the Ancient Greco-Roman World Was Minimally Mentioned](https://content.iospress.com/articles/journal-of-alzheimers-disease/jad230993)
-- [Angzarr: A Unicode character that has an unknown origin](https://en.wikipedia.org/wiki/Angzarr)
-- [Accelerating Progress Toward Trustworthy AI](https://foundation.mozilla.org/en/research/library/accelerating-progress-toward-trustworthy-ai/whitepaper/)
-- [Show HN: Byte-Level tracing of API payloads secures data-in-use: no code changes](https://www.caber.com/)
-- [Senator Joe Lieberman has died](https://www.cnn.com/2024/03/27/politics/joe-lieberman/index.html)
-- [Fledgling Languages List – New and upcoming programming languages](https://fll.presidentbeef.com/)
-- [Want to press pause on life? Human hibernation may soon be a reality](https://www.dazeddigital.com/life-culture/article/60036/1/sleepy-scientists-exploring-human-hibernation-torpor-mice-space-travel)
+- [Tesla&#39;s $25,000 Car Means Tossing Out the 100-Year-Old Assembly Line](https://www.bloomberg.com/news/articles/2024-03-28/tesla-s-tsla-new-unboxed-manufacturing-process-aims-to-cut-costs-50)
+- [Why Mathematics Is Boring](https://golem.ph.utexas.edu/category/2024/03/why_mathematics_is_boring_1.html)
+- [Attribute-Based Encryption](https://en.wikipedia.org/wiki/Attribute-based_encryption)
+- [Elon Musk&#39;s Mars colony plan is &#39;dangerous illusion&#39;, says Astronomer Royal](https://www.telegraph.co.uk/news/2024/03/27/elon-musk-mars-colony-plan-is-dangerous-illusion/)
+- [AI Supports and Manages Your ADHD](https://www.taskade.com/blog/ai-adhd/)
+- [Tell HN: YouTube RSS Feeds are not working anymore](https://news.ycombinator.com/item?id=39859780)
+- [Commodore 64 Chip Designer Interview: Albert Charpentier &lpar;2022&rpar; [video]](https://www.youtube.com/watch?v=rs6J_PP7O7k)
+- [Honey bees at risk for colony collapse from longer, warmer fall seasons](https://news.wsu.edu/press-release/2024/03/25/honey-bees-at-risk-for-colony-collapse-from-longer-warmer-fall-seasons/)
+- [At least one in a dozen stars show evidence of planetary ingestion](https://phys.org/news/2024-03-astronomers-dozen-stars-evidence-planetary.html)
+- [Monogon: A Linux userland in pure Go](https://github.com/monogon-dev/monogon)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

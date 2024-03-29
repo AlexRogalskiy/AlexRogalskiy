@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Joe Lieberman, former US senator and vice-presidential nominee, dies at 82](https://www.theguardian.com/us-news/2024/mar/27/joe-lieberman-dies-82)
-- [Baltimore bridge collapse: two bodies recovered from water, officials say](https://www.theguardian.com/us-news/2024/mar/27/baltimore-bridge-collapse-death-toll-black-box)
-- [Suspect held after four killed and seven injured in Illinois stabbings](https://www.theguardian.com/us-news/2024/mar/27/illinois-stabbings-rockford)
-- [Macron calls proposed EU-Mercosur trade pact ‘very bad deal’ lacking strong climate commitments](https://www.theguardian.com/world/2024/mar/28/emmanuel-macron-eu-mercosur-trade-pact-bad-deal-climate-commitments)
-- [Hunter Biden asks Los Angeles judge to toss out $1.4m tax evasion case](https://www.theguardian.com/us-news/2024/mar/27/hunter-biden-tax-evasion-case)
-- [Ex-Trump lawyer should be disbarred for his role in 2020 election, says judge](https://www.theguardian.com/us-news/2024/mar/27/former-trump-lawyer-john-eastman-lose-law-license)
-- [MJ the Musical review – sterilised moonwalk through the King of Pop’s life](https://www.theguardian.com/stage/2024/mar/27/mj-the-musical-review-prince-edward-theatre-london)
-- [Rashford’s England rivals circle as his United slump goes international](https://www.theguardian.com/football/2024/mar/27/marcus-rashford-england-manchester-united-international-southgate-euro-2024-football)
-- [Hormone medication could increase risk of brain tumours, French study finds](https://www.theguardian.com/society/2024/mar/27/hormone-medication-brain-tumours-risk-progestogens-study)
-- [King lauds friendship ‘in time of need’ in first comments since princess’s diagnosis](https://www.theguardian.com/uk-news/2024/mar/27/king-lauds-friendship-in-time-of-need-in-first-comments-since-princesss-diagnosis)
+- [New Zealand set England 137 to win: fifth women’s T20 cricket international – live](https://www.theguardian.com/sport/live/2024/mar/28/new-zealand-v-england-fifth-womens-t20-cricket-international-live)
+- [Song lyrics getting simpler, more repetitive, angry and self-obsessed – study](https://www.theguardian.com/music/2024/mar/29/song-lyrics-getting-simpler-more-repetitive-angry-and-self-obsessed-study)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2024/mar/29/premier-league-10-things-to-look-out-for-this-weekend)
+- [Obese children twice as likely to develop multiple sclerosis, study suggests](https://www.theguardian.com/society/2024/mar/28/obese-children-multiple-sclerosis-study)
+- [‘Famine is setting in’: UN court orders Israel to unblock Gaza food aid](https://www.theguardian.com/world/2024/mar/28/famine-is-setting-in-icj-orders-israel-to-unblock-gaza-food-aid)
+- [‘People assume you’re crazy for doing it’: the Melbourne clinic infecting healthy patients](https://www.theguardian.com/australia-news/2024/mar/29/people-assume-youre-crazy-for-doing-it-the-melbourne-clinic-infecting-healthy-patients)
+- [Man charged over 50 dead hares dumped outside village shop](https://www.theguardian.com/uk-news/2024/mar/28/man-arrested-after-50-dead-hares-found-outside-village-shop-in-hampshire)
+- [Elena Rybakina into Miami final despite meltdown against Victoria Azarenka](https://www.theguardian.com/sport/2024/mar/28/elena-rybakina-into-miami-final-despite-meltdown-against-victoria-azarenka)
+- [Xabi Alonso set to disappoint Liverpool and stay at Bayer Leverkusen](https://www.theguardian.com/football/2024/mar/28/xabi-alonso-liverpool-bayer-leverkusen-jurgen-klopp)
+- [Big Mood review – Nicola Coughlan is a force of nature](https://www.theguardian.com/tv-and-radio/2024/mar/28/big-mood-review-nicola-coughlan-is-a-force-of-nature)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

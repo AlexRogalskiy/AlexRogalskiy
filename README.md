@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Tesla&#39;s $25,000 Car Means Tossing Out the 100-Year-Old Assembly Line](https://www.bloomberg.com/news/articles/2024-03-28/tesla-s-tsla-new-unboxed-manufacturing-process-aims-to-cut-costs-50)
-- [Why Mathematics Is Boring](https://golem.ph.utexas.edu/category/2024/03/why_mathematics_is_boring_1.html)
-- [Attribute-Based Encryption](https://en.wikipedia.org/wiki/Attribute-based_encryption)
-- [Elon Musk&#39;s Mars colony plan is &#39;dangerous illusion&#39;, says Astronomer Royal](https://www.telegraph.co.uk/news/2024/03/27/elon-musk-mars-colony-plan-is-dangerous-illusion/)
-- [AI Supports and Manages Your ADHD](https://www.taskade.com/blog/ai-adhd/)
-- [Tell HN: YouTube RSS Feeds are not working anymore](https://news.ycombinator.com/item?id=39859780)
-- [Commodore 64 Chip Designer Interview: Albert Charpentier &lpar;2022&rpar; [video]](https://www.youtube.com/watch?v=rs6J_PP7O7k)
-- [Honey bees at risk for colony collapse from longer, warmer fall seasons](https://news.wsu.edu/press-release/2024/03/25/honey-bees-at-risk-for-colony-collapse-from-longer-warmer-fall-seasons/)
-- [At least one in a dozen stars show evidence of planetary ingestion](https://phys.org/news/2024-03-astronomers-dozen-stars-evidence-planetary.html)
-- [Monogon: A Linux userland in pure Go](https://github.com/monogon-dev/monogon)
+- [Killer whales use specialized hunting techniques to catch marine mammals](https://phys.org/news/2024-03-killer-whales-specialized-techniques-marine.html)
+- [The one home management platform for every thing you own – MyCentriq](https://mycentriq.com/)
+- [Marketplace Host Kai Ryssdal Interviews Jay Powell, Head of the Federal Reserve](https://www.marketplace.org/2024/03/29/fed-chair-powell-inflation-economy-interest-rates-monetary-policy-federal-reserve/)
+- [How to Connect to Remote System?](https://news.ycombinator.com/item?id=39871131)
+- [Learn how to generate public and private key on Windows](https://puttykeyinfo.com/)
+- [Ask HN: How to Learn to Learn Again](https://news.ycombinator.com/item?id=39871107)
+- [Gravitational waves may have made human life possible](https://phys.org/news/2024-03-gravitational-human-life.html)
+- [Backdoor found in widely used Linux utility breaks encrypted SSH connections](https://arstechnica.com/security/2024/03/backdoor-found-in-widely-used-linux-utility-breaks-encrypted-ssh-connections/)
+- [Marissa Mayer&#39;s Startup Launches AI Product](https://techcrunch.com/2024/03/27/marissa-mayers-startup-just-rolled-out-apps-for-group-photo-sharing-and-event-planning-and-the-internet-isnt-sure-what-to-think/)
+- [My Job as a Microsoft Researcher](https://irenezhang.net/blog/2024/03/27/msr.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

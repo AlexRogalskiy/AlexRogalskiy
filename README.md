@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Honey bees at risk for colony collapse from longer, warmer fall seasons](https://news.wsu.edu/press-release/2024/03/25/honey-bees-at-risk-for-colony-collapse-from-longer-warmer-fall-seasons/)
-- [Faintest known star system orbiting the Milky Way discovered](https://phys.org/news/2024-03-faintest-star-orbiting-milky.html)
-- [Reddit shares plunge 25% in two days, finish the week below first day close](https://www.cnbc.com/2024/03/28/reddit-shares-on-a-two-day-tumble-after-post-ipo-high.html)
-- [The rev.ng decompiler goes open source](https://rev.ng/blog/open-sourcing-renvg-decompiler-ui-closed-beta)
-- [Is the Sun Conscious? [pdf]](https://www.sheldrake.org/files/pdfs/papers/Is_the_Sun_Conscious.pdf)
-- [Utah Passes Artificial Intelligence Legislation](https://www.jdsupra.com/legalnews/utah-passes-artificial-intelligence-1386840/)
-- [Facebook let Netflix see user DMs, quit streaming to keep Netflix happy](https://arstechnica.com/gadgets/2024/03/netflix-ad-spend-led-to-facebook-dm-access-end-of-facebook-streaming-biz-lawsuit/)
-- [Doom Captcha](https://vivirenremoto.github.io/doomcaptcha/)
-- [Deep Learning in JavaScript](https://github.com/eduardoleao052/js-torch)
-- [The race to replace Redis](https://lwn.net/SubscriberLink/966631/6bf2063136effa1e/)
+- [Building the first highway segment in the U.S. that can charge electric vehicles](https://www.purdue.edu/newsroom/releases/2024/Q1/building-the-first-highway-segment-in-the-u.s-that-can-charge-electric-vehicles-big-and-small-as-they-drive.html)
+- [GPU4FS: A filesystem runs on GPU to accelerate data access](https://dl.gi.de/server/api/core/bitstreams/7c7a8830-fd81-4e56-8507-cd4809020660/content)
+- [World of Spectrum 404 Page](https://worldofspectrum.org/404.html)
+- [Jails banned visits in &quot;quid pro quo&quot; with prison phone companies, lawsuits say](https://arstechnica.com/tech-policy/2024/03/jails-banned-family-visits-to-make-more-money-on-video-calls-lawsuits-claim/)
+- [Engineers find a new way to convert carbon dioxide into useful products](https://news.mit.edu/2024/engineers-find-new-way-convert-carbon-dioxide-useful-products-0327)
+- [Suppressing boredom at work hurts future productivity](https://phys.org/news/2024-03-suppressing-boredom-future-productivity.html)
+- [Running a Raspberry Pi with a read-only root filesystem](https://www.dzombak.com/blog/2024/03/Running-a-Raspberry-Pi-with-a-read-only-root-filesystem.html)
+- [TnT-LLM: Text Mining at Scale with Large Language Models](https://arxiv.org/abs/2403.12173)
+- [Nine writers on their Adderall use and experiences](https://pioneerworks.org/broadcast/club-med-adderall)
+- [Santa Barbara&#39;s Collective Memory, Sold for Kindling](https://www.independent.com/2024/03/29/santa-barbaras-collective-memory-sold-for-kindling/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

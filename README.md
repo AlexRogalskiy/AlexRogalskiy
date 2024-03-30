@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [New Zealand set England 137 to win: fifth women’s T20 cricket international – live](https://www.theguardian.com/sport/live/2024/mar/28/new-zealand-v-england-fifth-womens-t20-cricket-international-live)
-- [Song lyrics getting simpler, more repetitive, angry and self-obsessed – study](https://www.theguardian.com/music/2024/mar/29/song-lyrics-getting-simpler-more-repetitive-angry-and-self-obsessed-study)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2024/mar/29/premier-league-10-things-to-look-out-for-this-weekend)
-- [Obese children twice as likely to develop multiple sclerosis, study suggests](https://www.theguardian.com/society/2024/mar/28/obese-children-multiple-sclerosis-study)
-- [‘Famine is setting in’: UN court orders Israel to unblock Gaza food aid](https://www.theguardian.com/world/2024/mar/28/famine-is-setting-in-icj-orders-israel-to-unblock-gaza-food-aid)
-- [‘People assume you’re crazy for doing it’: the Melbourne clinic infecting healthy patients](https://www.theguardian.com/australia-news/2024/mar/29/people-assume-youre-crazy-for-doing-it-the-melbourne-clinic-infecting-healthy-patients)
-- [Man charged over 50 dead hares dumped outside village shop](https://www.theguardian.com/uk-news/2024/mar/28/man-arrested-after-50-dead-hares-found-outside-village-shop-in-hampshire)
-- [Elena Rybakina into Miami final despite meltdown against Victoria Azarenka](https://www.theguardian.com/sport/2024/mar/28/elena-rybakina-into-miami-final-despite-meltdown-against-victoria-azarenka)
-- [Xabi Alonso set to disappoint Liverpool and stay at Bayer Leverkusen](https://www.theguardian.com/football/2024/mar/28/xabi-alonso-liverpool-bayer-leverkusen-jurgen-klopp)
-- [Big Mood review – Nicola Coughlan is a force of nature](https://www.theguardian.com/tv-and-radio/2024/mar/28/big-mood-review-nicola-coughlan-is-a-force-of-nature)
+- [Lizzo says she’s tired of ‘being dragged’ by online critics: ‘I quit’](https://www.theguardian.com/music/2024/mar/29/lizzo-singer-dragged-i-quit)
+- [Schools in England accused of closing down debate on Israel-Gaza conflict](https://www.theguardian.com/world/2024/mar/29/schools-england-accused-closing-down-debate-israel-gaza-conflict)
+- [Sepsis blood test combined with AI could offer early detection tool](https://www.theguardian.com/society/2024/mar/29/sepsis-blood-test-combined-with-ai-could-offer-early-detection-tool)
+- [I stopped drinking three months ago – it’s not as simple as the internet makes it look | Ashe Davenport](https://www.theguardian.com/commentisfree/2024/mar/30/giving-up-drinking-alcohol-tips-advice)
+- [Jannik Sinner demolishes Daniil Medvedev to reach Miami Open final](https://www.theguardian.com/sport/2024/mar/29/jannik-sinner-demolishes-daniil-medvedev-miami-open)
+- [Boy, 5, dies after being recovered from River Thames](https://www.theguardian.com/uk-news/2024/mar/29/boy-5-dies-after-recovered-from-river-thames)
+- [Hospital admissions for waterborne diseases in England up 60%, report shows](https://www.theguardian.com/environment/2024/mar/29/hospital-admissions-for-waterborne-diseases-in-england-up-60-report-shows)
+- [Pope withdraws from Good Friday event at last minute ‘to preserve health’](https://www.theguardian.com/world/2024/mar/29/pope-cancels-good-friday-attendance-last-minute)
+- [Iran International journalist stabbed outside London home](https://www.theguardian.com/uk-news/2024/mar/29/counter-terror-investigation-iranian-journalist-stabbed-outside-london-home)
+- [Joseph salvages late point for Leeds at Watford but his side end day in second](https://www.theguardian.com/football/2024/mar/29/watford-leeds-championship-match-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

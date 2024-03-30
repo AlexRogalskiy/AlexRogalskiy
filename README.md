@@ -355,16 +355,16 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Report: Scale cuts off subsidiary’s remote workers in several countries](https://www.computerworld.com/article/3714686/report-scale-cuts-off-subsidiarys-remote-workers-in-several-countries.html#tk.rss_all)
+- [Apple will continue to enhance its DMA compliance](https://www.computerworld.com/article/3714931/apple-will-continue-to-enhance-its-dma-compliance.html#tk.rss_all)
+- [AI is on a fast track, but hype and immaturity could derail it](https://www.computerworld.com/article/3714940/ai-is-on-a-fast-track-but-hype-and-immaturity-could-derail-it.html#tk.rss_all)
+- [Why even hybrid RTO mandates are hurting overall job satisfaction](https://www.computerworld.com/article/3714928/why-even-hybrid-return-to-office-mandates-are-hurting-overall-job-satisfaction.html#tk.rss_all)
 - [Microsoft’s Copilot AI set to operate locally on future PCs, says Intel](https://www.computerworld.com/article/3714605/microsofts-copilot-ai-set-to-operate-locally-on-future-pcs-says-intel.html#tk.rss_all)
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [If you get an unexpected call from Apple Support, you’re being hacked](https://www.computerworld.com/article/3714823/if-you-get-an-unexpected-call-from-apple-support-youre-being-hacked.html#tk.rss_all)
 - [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
 - [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
 - [Amazon invests $2.75 billion more in OpenAI rival Anthropic](https://www.computerworld.com/article/3714845/amazon-invests-275-billion-more-in-openai-rival-anthropic.html#tk.rss_all)
-- [Software vendors dump open source, go for the cash grab](https://www.computerworld.com/article/3714821/software-vendors-dump-open-source-go-for-the-cash-grab.html#tk.rss_all)
-- [WWDC 2024: Yes, we live in interesting times](https://www.computerworld.com/article/3714685/wwdc-2024-yes-we-live-in-interesting-times.html#tk.rss_all)
-- [Will a Google-Apple deal kill Microsoft’s AI dominance?](https://www.computerworld.com/article/3714943/will-google-apple-deal-kill-microsoft-ai-dominance.html#tk.rss_all)
-- [16 handy hidden tricks for Google Maps on Android](https://www.computerworld.com/article/3319439/google-maps-android-tricks.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

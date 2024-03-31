@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Killer whales use specialized hunting techniques to catch marine mammals](https://phys.org/news/2024-03-killer-whales-specialized-techniques-marine.html)
-- [The one home management platform for every thing you own – MyCentriq](https://mycentriq.com/)
-- [Marketplace Host Kai Ryssdal Interviews Jay Powell, Head of the Federal Reserve](https://www.marketplace.org/2024/03/29/fed-chair-powell-inflation-economy-interest-rates-monetary-policy-federal-reserve/)
-- [How to Connect to Remote System?](https://news.ycombinator.com/item?id=39871131)
-- [Learn how to generate public and private key on Windows](https://puttykeyinfo.com/)
-- [Ask HN: How to Learn to Learn Again](https://news.ycombinator.com/item?id=39871107)
-- [Gravitational waves may have made human life possible](https://phys.org/news/2024-03-gravitational-human-life.html)
-- [Backdoor found in widely used Linux utility breaks encrypted SSH connections](https://arstechnica.com/security/2024/03/backdoor-found-in-widely-used-linux-utility-breaks-encrypted-ssh-connections/)
-- [Marissa Mayer&#39;s Startup Launches AI Product](https://techcrunch.com/2024/03/27/marissa-mayers-startup-just-rolled-out-apps-for-group-photo-sharing-and-event-planning-and-the-internet-isnt-sure-what-to-think/)
-- [My Job as a Microsoft Researcher](https://irenezhang.net/blog/2024/03/27/msr.html)
+- [AT&amp;T notifies users of data breach and resets passcodes](https://www.sfgate.com/business/article/at-t-notifies-users-of-data-breach-and-resets-19377070.php)
+- [Scientists link elusive human group to 150k-year-old Chinese &#39;dragon man&#39;](https://www.theguardian.com/science/2024/mar/30/scientists-link-elusive-human-group-to-150000-year-old-chinese-dragon-man)
+- [A Microsoft Excel Spreadsheet from Hell Slowed Williams&#39; F1 Cars for Years](https://www.thedrive.com/news/how-a-microsoft-excel-spreadsheet-from-hell-slowed-williams-f1-cars-for-years)
+- [An effects pedal for your mouse and keyboard [video]](https://www.youtube.com/watch?v=4DGEuZlxPWg)
+- [A generative AI-driven CLI for testing](https://github.com/dipjyotimetia/jarvis)
+- [Boston University Suggests Replacing Striking Grad Students with AI](https://www.thedailybeast.com/boston-university-suggests-replacing-striking-grad-students-with-ai)
+- [How one programmer broke the internet by deleting a tiny piece of code &lpar;2016&rpar;](https://qz.com/646467/how-one-programmer-broke-the-internet-by-deleting-a-tiny-piece-of-code)
+- [Puter Self-hosted – Open-sourced 100k lines of code to self-host Puter](https://github.com/HeyPuter/puter/commit/384a1534ec30ddae63e3628c819fce74868c8d68)
+- [Event Horizon Telescope reveals magnetic fields around Sagittarius A*](https://www.nasaspaceflight.com/2024/03/eht-sgt-a/)
+- [Retrotechtacular: The IBM 7070](https://hackaday.com/2024/03/29/retrotechtacular-the-ibm-7070/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

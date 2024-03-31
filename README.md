@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Lizzo says she’s tired of ‘being dragged’ by online critics: ‘I quit’](https://www.theguardian.com/music/2024/mar/29/lizzo-singer-dragged-i-quit)
-- [Schools in England accused of closing down debate on Israel-Gaza conflict](https://www.theguardian.com/world/2024/mar/29/schools-england-accused-closing-down-debate-israel-gaza-conflict)
-- [Sepsis blood test combined with AI could offer early detection tool](https://www.theguardian.com/society/2024/mar/29/sepsis-blood-test-combined-with-ai-could-offer-early-detection-tool)
-- [I stopped drinking three months ago – it’s not as simple as the internet makes it look | Ashe Davenport](https://www.theguardian.com/commentisfree/2024/mar/30/giving-up-drinking-alcohol-tips-advice)
-- [Jannik Sinner demolishes Daniil Medvedev to reach Miami Open final](https://www.theguardian.com/sport/2024/mar/29/jannik-sinner-demolishes-daniil-medvedev-miami-open)
-- [Boy, 5, dies after being recovered from River Thames](https://www.theguardian.com/uk-news/2024/mar/29/boy-5-dies-after-recovered-from-river-thames)
-- [Hospital admissions for waterborne diseases in England up 60%, report shows](https://www.theguardian.com/environment/2024/mar/29/hospital-admissions-for-waterborne-diseases-in-england-up-60-report-shows)
-- [Pope withdraws from Good Friday event at last minute ‘to preserve health’](https://www.theguardian.com/world/2024/mar/29/pope-cancels-good-friday-attendance-last-minute)
-- [Iran International journalist stabbed outside London home](https://www.theguardian.com/uk-news/2024/mar/29/counter-terror-investigation-iranian-journalist-stabbed-outside-london-home)
-- [Joseph salvages late point for Leeds at Watford but his side end day in second](https://www.theguardian.com/football/2024/mar/29/watford-leeds-championship-match-report)
+- [Who screwed millennials: a generation left behind – Full Story podcast](https://www.theguardian.com/business/audio/2024/mar/31/who-screwed-millennials-generation-left-behind)
+- [We Love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2024/mar/30/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Spring forward: wardrobe updates for the season ahead – in pictures](https://www.theguardian.com/fashion/gallery/2024/mar/30/spring-forward-wardrobe-updates-for-the-season-ahead-in-pictures)
+- [Chance Perdomo, star of Gen V and Chilling Adventures of Sabrina, dead at 27](https://www.theguardian.com/tv-and-radio/2024/mar/30/chance-perdomo-dead-27)
+- [‘It’s a worldly thing’: the ancient, multi-stranded craft of weaving baskets](https://www.theguardian.com/lifeandstyle/2024/mar/31/its-a-worldly-thing-the-ancient-multi-stranded-craft-of-weaving-baskets)
+- [Declan Rice: ‘This is a new Arsenal now. We are ready to change what people say about us’](https://www.theguardian.com/football/2024/mar/30/declan-rice-arsenal-manchester-city-premier-league-football)
+- [Two men in Haiti suspected of buying weapons for gangs lynched by mob](https://www.theguardian.com/world/2024/mar/30/two-men-in-haiti-suspected-buying-weapons-for-gangs-lynched-by-mob)
+- [Ajer rescues point for Brentford in Manchester United thriller](https://www.theguardian.com/football/2024/mar/30/brentford-manchester-united-premier-league-match-report)
+- [Danielle Collins holds firm against Elena Rybakina to win Miami Open](https://www.theguardian.com/sport/2024/mar/30/danielle-collins-holds-firm-against-elena-rybakina-to-win-miami-open)
+- [Ex-Trump adviser says former president ‘hasn’t got the brains’ for dictatorship](https://www.theguardian.com/us-news/2024/mar/30/john-bolton-donald-trump-dictatorship)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

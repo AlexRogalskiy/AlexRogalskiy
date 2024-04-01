@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [A Microsoft Excel Spreadsheet from Hell Slowed Williams&#39; F1 Cars for Years](https://www.thedrive.com/news/how-a-microsoft-excel-spreadsheet-from-hell-slowed-williams-f1-cars-for-years)
-- [Nvidia Is Simulating a Copy of the Earth](https://futurism.com/the-byte/nvidia-simulating-copy-earth)
-- [Notes on El Salvador](https://mattlakeman.org/2024/03/30/notes-on-el-salvador/)
-- [Significant performance and correctness improvements to the kernel](https://www.redox-os.org/news/kernel-10/)
-- [The Set-Up-to-Fail Syndrome &lpar;1998&rpar;](https://hbr.org/1998/03/the-set-up-to-fail-syndrome)
-- [The jobs being replaced by AI – an analysis of 5M freelancing jobs](https://bloomberry.com/i-analyzed-5m-freelancing-jobs-to-see-what-jobs-are-being-replaced-by-ai/)
-- [Why Ireland&#39;s housing bubble burst](https://worksinprogress.co/issue/why-irelands-housing-bubble-burst/)
-- [Xz/liblzma: Bash-stage Obfuscation Explained](https://gynvael.coldwind.pl/?lang=en&id=782)
-- [Models all the way down](https://knowingmachines.org/models-all-the-way)
-- [Toni Morrison&#39;s Rejection Letters](https://lareviewofbooks.org/article/there-is-no-point-in-my-being-other-than-honest-with-you-on-toni-morrisons-rejection-letters/)
+- [Turkish local elections: Opposition stuns Erdogan with historic victory](https://www.bbc.com/news/world-europe-68704375)
+- [Self-driving semi-trucks are coming to America&#39;s highways](https://www.washingtonpost.com/technology/2024/03/31/autonomous-semi-truck-jobs-regulation/)
+- [Unraveling Havana syndrome: New evidence implicates the GRU&#39;s assassination unit](https://theins.ru/en/politics/270425)
+- [Programming Beyond Paradigms](https://www.micahcantor.com/blog/programming-beyond-paradigms/)
+- [Python farming as flexible efficient agricultural food security](https://www.nature.com/articles/s41598-024-54874-4)
+- [InternLM2](https://arxiv.org/abs/2403.17297)
+- [XZ Backdoor: Times, damned times, and scams](https://rheaeve.substack.com/p/xz-backdoor-times-damned-times-and)
+- [Free shipping isn’t really free &lpar;2020&rpar;](https://www.theatlantic.com/magazine/archive/2020/01/the-myth-of-free-shipping/603031/)
+- [Adaptive RAG – dynamic retrieval methods adjustment](https://arxiv.org/abs/2403.14403)
+- [Mini-Gemini: Mining the Potential of Multi-Modality Vision Language Models](https://arxiv.org/abs/2403.18814)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

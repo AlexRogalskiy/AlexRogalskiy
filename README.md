@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [AT&amp;T notifies users of data breach and resets passcodes](https://www.sfgate.com/business/article/at-t-notifies-users-of-data-breach-and-resets-19377070.php)
-- [Scientists link elusive human group to 150k-year-old Chinese &#39;dragon man&#39;](https://www.theguardian.com/science/2024/mar/30/scientists-link-elusive-human-group-to-150000-year-old-chinese-dragon-man)
-- [A Microsoft Excel Spreadsheet from Hell Slowed Williams&#39; F1 Cars for Years](https://www.thedrive.com/news/how-a-microsoft-excel-spreadsheet-from-hell-slowed-williams-f1-cars-for-years)
-- [An effects pedal for your mouse and keyboard [video]](https://www.youtube.com/watch?v=4DGEuZlxPWg)
-- [A generative AI-driven CLI for testing](https://github.com/dipjyotimetia/jarvis)
-- [Boston University Suggests Replacing Striking Grad Students with AI](https://www.thedailybeast.com/boston-university-suggests-replacing-striking-grad-students-with-ai)
-- [How one programmer broke the internet by deleting a tiny piece of code &lpar;2016&rpar;](https://qz.com/646467/how-one-programmer-broke-the-internet-by-deleting-a-tiny-piece-of-code)
-- [Puter Self-hosted – Open-sourced 100k lines of code to self-host Puter](https://github.com/HeyPuter/puter/commit/384a1534ec30ddae63e3628c819fce74868c8d68)
-- [Event Horizon Telescope reveals magnetic fields around Sagittarius A*](https://www.nasaspaceflight.com/2024/03/eht-sgt-a/)
-- [Retrotechtacular: The IBM 7070](https://hackaday.com/2024/03/29/retrotechtacular-the-ibm-7070/)
+- [Turkish local elections: Opposition stuns Erdogan with historic victory](https://www.bbc.com/news/world-europe-68704375)
+- [Crypto Social Media Firm Merkle Gets Unicorn Valuation in Paradigm Deal](https://www.bloomberg.com/news/articles/2024-03-30/crypto-social-media-firm-merkle-sees-1-billion-valuation-in-paradigm-deal)
+- [LLaMA Now Goes Faster on CPUs](https://justine.lol/matmul/)
+- [LLM Paper on Mamba MoE: Jamba Technical Report from AI2](https://arxiv.org/abs/2403.19887)
+- [You can&#39;t make a trombone SING!](https://www.youtube.com/watch?v=tARTNMDUDnE)
+- [Mycenaean Warriors and the Sea-Peoples](https://www.karwansaraypublishers.com/en-us/blogs/ancient-warfare-blog/mycenaean-warriors-and-the-sea-peoples)
+- [Secret backdoor found in xz-utils, a library used in major Linux distros](https://cert.europa.eu/publications/security-advisories/2024-032/)
+- [Peter Selinger’s Lecture notes on the lambda calculus [pdf]](https://www.irif.fr/~mellies/mpri/mpri-ens/biblio/Selinger-Lambda-Calculus-Notes.pdf)
+- [Show HN: Yarn Spinner for Books](https://books.yarnspinner.dev)
+- [More than 1500 journalism jobs have been cut so far in 2024](https://publicize.co/digital-marketing/the-aftermath-of-chatgpt-leaves-media-industry-battling-profitability-with-layoffs)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

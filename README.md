@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Turkish local elections: Opposition stuns Erdogan with historic victory](https://www.bbc.com/news/world-europe-68704375)
-- [Self-driving semi-trucks are coming to America&#39;s highways](https://www.washingtonpost.com/technology/2024/03/31/autonomous-semi-truck-jobs-regulation/)
-- [Unraveling Havana syndrome: New evidence implicates the GRU&#39;s assassination unit](https://theins.ru/en/politics/270425)
-- [Programming Beyond Paradigms](https://www.micahcantor.com/blog/programming-beyond-paradigms/)
-- [Python farming as flexible efficient agricultural food security](https://www.nature.com/articles/s41598-024-54874-4)
-- [InternLM2](https://arxiv.org/abs/2403.17297)
-- [XZ Backdoor: Times, damned times, and scams](https://rheaeve.substack.com/p/xz-backdoor-times-damned-times-and)
-- [Free shipping isn’t really free &lpar;2020&rpar;](https://www.theatlantic.com/magazine/archive/2020/01/the-myth-of-free-shipping/603031/)
-- [Adaptive RAG – dynamic retrieval methods adjustment](https://arxiv.org/abs/2403.14403)
-- [Mini-Gemini: Mining the Potential of Multi-Modality Vision Language Models](https://arxiv.org/abs/2403.18814)
+- [Building GCC 1.27 &lpar;first GCC with x86 support&rpar; &lpar;2019&rpar;](http://kristerw.blogspot.com/2019/01/building-gcc-127.html)
+- [A16Z Blogs Are Just Glorified Marketing](https://frankzliu.com/blog/a16z-blogs-are-just-glorified-marketing)
+- [Vision Transformers Are Overrated](https://frankzliu.com/blog/vision-transformers-are-overrated)
+- [A path out of bloat: A Linux built for VMs](https://www.theregister.com/2024/02/23/linux_built_for_a_vm/)
+- [Get a Person at the IRS](https://gist.github.com/getaaron/323466af3f489f0e5c55411c930d43a2)
+- [WireGuard client that exposes itself as a HTTP/SOCKS5 proxy](https://github.com/pufferffish/wireproxy)
+- [OpenAI&#39;s comment to the NTIA on open model weights](https://openai.com/global-affairs/openai-s-comment-to-the-ntia-on-open-model-weights)
+- [Why isn&#39;t anyone signing up?](https://imgz.org/blog/2024/02/25/why-isnt-anyone-signing-up/)
+- [Skio &lpar;YC S20&rpar; – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
+- [OWASP Data Breach Notification](https://owasp.org/blog/2024/03/29/OWASP-data-breach-notification)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

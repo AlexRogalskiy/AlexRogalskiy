@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [New Zealand v England: first women’s cricket ODI – live](https://www.theguardian.com/sport/live/2024/mar/31/new-zealand-v-england-first-womens-cricket-odi-live)
-- [The birdwatcher fighting racism in public spaces - Podcast](https://www.theguardian.com/news/audio/2024/apr/01/the-birdwatcher-fighting-racism-in-public-spaces-podcast)
-- [Remains of missing French toddler Emile Soleil found in French Alps](https://www.theguardian.com/world/2024/apr/01/emile-soleil-missing-french-toddler-french-alps-body-found-remains-le-vernet)
-- [Ukraine war briefing: Kharkiv at centre of Russian attacks on infrastructure](https://www.theguardian.com/world/2024/apr/01/ukraine-war-briefing-kharkiv-at-centre-of-russian-attacks-on-infrastructure)
-- [Ukrainian sculptor who fled Kyiv accepted into Royal Society of British Artists](https://www.theguardian.com/artanddesign/2024/apr/01/ukrainian-sculptor-alex-lidagovsky-fled-kyiv-accepted-into-royal-society-of-british-artists)
-- [Three-quarters of children want more time in nature, says National Trust](https://www.theguardian.com/environment/2024/apr/01/over-three-quarters-children-want-more-time-nature-national-trust)
-- [Windrush victim says Home Office ‘waiting for us to die off’ before paying compensation](https://www.theguardian.com/uk-news/2024/apr/01/windrush-victim-home-office-waiting-for-us-to-die-off-compensation)
-- [Talking horses: Daily Present can taste Irish Grand National success](https://www.theguardian.com/sport/2024/apr/01/talking-horses-daily-present-can-taste-irish-grand-national-success)
-- [Government’s ‘childcare chaos’ leaving families in England facing steep costs](https://www.theguardian.com/education/2024/apr/01/governments-childcare-chaos-leaving-families-in-england-facing-steep-costs)
-- [‘I’m as baffled as the next ovary-owner’: navigating the science of treating menopause](https://www.theguardian.com/society/2024/apr/01/perimenopause-symptoms-what-are-they-how-to-treat)
+- [Middle East crisis live: Israeli military investigating after Gaza officials say foreign aid workers killed in IDF strike](https://www.theguardian.com/world/live/2024/apr/02/middle-east-crisis-live-updates-israel-gaza-war-today-gaza-foreign-aid-workers-killed-idf-investigation)
+- [Trump gag order expanded after he attacks judge’s daughter on social media](https://www.theguardian.com/us-news/2024/apr/01/trump-gag-order-expanded-after-attacks-on-new-york-judges-daughter)
+- [Ukraine war briefing: fresh hope for US House vote on Kyiv aid deal](https://www.theguardian.com/world/2024/apr/02/ukraine-war-briefing-fresh-hope-for-us-house-vote-on-kyiv-aid-deal)
+- [Trump posts $175m bond in civil fraud case and averts asset seizures](https://www.theguardian.com/us-news/2024/apr/01/trump-bond-civil-fraud-case-averts-asset-seizures)
+- [Inflation in UK shops drops to lowest level in two years](https://www.theguardian.com/business/2024/apr/02/inflation-in-uk-shops-drops-to-lowest-level-in-two-years)
+- [Al Jazeera faces ‘security threat’ ban as Israel passes new law](https://www.theguardian.com/world/2024/apr/01/al-jazeera-faces-security-threat-ban-after-israel-passes-new-law-benjamin-netanyahu)
+- [Plymouth sack Ian Foster after fifth straight home defeat adds to drop fears](https://www.theguardian.com/football/2024/apr/01/plymouth-sack-ian-foster-after-fifth-straight-home-defeat)
+- [Iranian journalist stabbed in London discharged and ‘residing at safe place’](https://www.theguardian.com/world/2024/apr/01/iranian-journalist-stabbed-in-london-discharged-and-residing-at-safe-place)
+- [Avalanche at Zermatt ski resort in Switzerland kills three people](https://www.theguardian.com/world/2024/apr/01/avalanche-at-zermatt-ski-resort-in-switzerland-kills-a-number-of-people)
+- [Luke Humphries thrashes Michael van Gerwen to win German Darts Grand Prix](https://www.theguardian.com/sport/2024/apr/01/luke-humphries-thrashes-michael-van-gerwen-to-win-german-darts-grand-prix)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

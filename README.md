@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Turkish local elections: Opposition stuns Erdogan with historic victory](https://www.bbc.com/news/world-europe-68704375)
-- [Crypto Social Media Firm Merkle Gets Unicorn Valuation in Paradigm Deal](https://www.bloomberg.com/news/articles/2024-03-30/crypto-social-media-firm-merkle-sees-1-billion-valuation-in-paradigm-deal)
-- [LLaMA Now Goes Faster on CPUs](https://justine.lol/matmul/)
-- [LLM Paper on Mamba MoE: Jamba Technical Report from AI2](https://arxiv.org/abs/2403.19887)
-- [You can&#39;t make a trombone SING!](https://www.youtube.com/watch?v=tARTNMDUDnE)
-- [Mycenaean Warriors and the Sea-Peoples](https://www.karwansaraypublishers.com/en-us/blogs/ancient-warfare-blog/mycenaean-warriors-and-the-sea-peoples)
-- [Secret backdoor found in xz-utils, a library used in major Linux distros](https://cert.europa.eu/publications/security-advisories/2024-032/)
-- [Peter Selinger’s Lecture notes on the lambda calculus [pdf]](https://www.irif.fr/~mellies/mpri/mpri-ens/biblio/Selinger-Lambda-Calculus-Notes.pdf)
-- [Show HN: Yarn Spinner for Books](https://books.yarnspinner.dev)
-- [More than 1500 journalism jobs have been cut so far in 2024](https://publicize.co/digital-marketing/the-aftermath-of-chatgpt-leaves-media-industry-battling-profitability-with-layoffs)
+- [Low Arousal, Crime and Injury in Female Conscripts](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0297639)
+- [April Cools 2024: Physics Edition](https://tinkering.xyz/april-cools-2024/)
+- [A Headset That Helps Treat Depression](https://www.bbc.com/news/uk-england-northamptonshire-68567726)
+- [From xz to ibus: more questionable tarballs](https://www.openwall.com/lists/oss-security/2024/04/01/1)
+- [Robert S. Hartman](https://en.wikipedia.org/wiki/Robert_S._Hartman)
+- [The alarming rise of the middle-aged terrorist](https://www.spectator.co.uk/article/the-alarming-rise-of-the-middle-aged-terrorist/)
+- [USDA Confirms Highly Pathogenic Avian Influenza in Dairy Herd in New Mexico](https://www.aphis.usda.gov/news/agency-announcements/usda-confirms-highly-pathogenic-avian-influenza-dairy-herd-new-mexico)
+- [Copper Atoms Key to Sustainable Methanol Production](https://oilprice.com/Energy/Energy-General/Copper-Atoms-Key-to-Sustainable-Methanol-Production.html)
+- [Show HN: LPY LLM Based compiler to Python](https://github.com/wandwan/LPY)
+- [Scientists created a black hole in lab to test a theory, then it started glowing](https://www.good.is/scientists-created-a-black-hole-in-lab-to-test-a-theory-then-it-started-glowing-extraordinarily)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

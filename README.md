@@ -355,6 +355,8 @@
 ### _ComputerWorld posts_
 
 <!-- COMPUTERWORLD-POST-LIST:START -->
+- [Kill meetings &lpar;before meetings kill your company&rpar;](https://www.computerworld.com/article/3714934/kill-meetings-before-meetings-kill-your-company.html#tk.rss_all)
+- [McDonald&#39;s serves up a master class in how not to explain a system outage](https://www.computerworld.com/article/3714932/mcdonalds-serves-up-a-master-class-in-how-not-to-explain-a-system-outage.html#tk.rss_all)
 - [Report: Scale cuts off subsidiary’s remote workers in several countries](https://www.computerworld.com/article/3714686/report-scale-cuts-off-subsidiarys-remote-workers-in-several-countries.html#tk.rss_all)
 - [Apple will continue to enhance its DMA compliance](https://www.computerworld.com/article/3714931/apple-will-continue-to-enhance-its-dma-compliance.html#tk.rss_all)
 - [AI is on a fast track, but hype and immaturity could derail it](https://www.computerworld.com/article/3714940/ai-is-on-a-fast-track-but-hype-and-immaturity-could-derail-it.html#tk.rss_all)
@@ -363,8 +365,6 @@
 - [Windows 11 Insider Previews: What’s in the latest build?](https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all)
 - [If you get an unexpected call from Apple Support, you’re being hacked](https://www.computerworld.com/article/3714823/if-you-get-an-unexpected-call-from-apple-support-youre-being-hacked.html#tk.rss_all)
 - [Windows 11: A guide to the updates](https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all)
-- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all)
-- [Amazon invests $2.75 billion more in OpenAI rival Anthropic](https://www.computerworld.com/article/3714845/amazon-invests-275-billion-more-in-openai-rival-anthropic.html#tk.rss_all)
 <!-- COMPUTERWORLD-POST-LIST:END -->
 
 ### _Information Week posts_

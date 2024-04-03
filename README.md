@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Building GCC 1.27 &lpar;first GCC with x86 support&rpar; &lpar;2019&rpar;](http://kristerw.blogspot.com/2019/01/building-gcc-127.html)
-- [A16Z Blogs Are Just Glorified Marketing](https://frankzliu.com/blog/a16z-blogs-are-just-glorified-marketing)
-- [Vision Transformers Are Overrated](https://frankzliu.com/blog/vision-transformers-are-overrated)
-- [A path out of bloat: A Linux built for VMs](https://www.theregister.com/2024/02/23/linux_built_for_a_vm/)
-- [Get a Person at the IRS](https://gist.github.com/getaaron/323466af3f489f0e5c55411c930d43a2)
-- [WireGuard client that exposes itself as a HTTP/SOCKS5 proxy](https://github.com/pufferffish/wireproxy)
-- [OpenAI&#39;s comment to the NTIA on open model weights](https://openai.com/global-affairs/openai-s-comment-to-the-ntia-on-open-model-weights)
-- [Why isn&#39;t anyone signing up?](https://imgz.org/blog/2024/02/25/why-isnt-anyone-signing-up/)
-- [Skio &lpar;YC S20&rpar; – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
-- [OWASP Data Breach Notification](https://owasp.org/blog/2024/03/29/OWASP-data-breach-notification)
+- [Intel discloses $7B operating loss for chip-making unit](https://www.reuters.com/technology/intel-discloses-financials-foundry-business-2024-04-02/)
+- [Choose your weapon: Survival strategies for depressed AI academics](https://ar5iv.labs.arxiv.org/html/2304.06035)
+- [7.4 earthquake in Taiwan, 34km depth](https://earthquake.usgs.gov/earthquakes/map/?extent=16.34123,-246.42334&extent=28.51697,-223.43994)
+- [ReALM: Reference Resolution as Language Modeling](https://arxiv.org/abs/2403.20329)
+- [Science fiction and the death of the sun](https://www.typebarmagazine.com/2024/03/24/science-fiction-and-the-death-of-the-sun/)
+- [Roe AI &lpar;YC W24&rpar; Is Hiring](https://www.ycombinator.com/companies/roe-ai/jobs/NZDmSo9-founding-engineer)
+- [A Brazilian special-forces unit fighting to save the Amazon](https://www.newyorker.com/magazine/2024/04/08/the-brazilian-special-forces-unit-fighting-to-save-the-amazon)
+- [Anonymous public voicemail inbox](https://afterthebeep.tel/)
+- [A rudimentary simulation of the three-body problem](https://github.com/achristmascarl/three_body)
+- [Calling Haskell from Swift](https://alt-romes.github.io/posts/2024-04-02-calling-haskell-from-swift.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

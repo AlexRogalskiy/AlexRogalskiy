@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Middle East crisis live: Israeli military investigating after Gaza officials say foreign aid workers killed in IDF strike](https://www.theguardian.com/world/live/2024/apr/02/middle-east-crisis-live-updates-israel-gaza-war-today-gaza-foreign-aid-workers-killed-idf-investigation)
-- [Trump gag order expanded after he attacks judge’s daughter on social media](https://www.theguardian.com/us-news/2024/apr/01/trump-gag-order-expanded-after-attacks-on-new-york-judges-daughter)
-- [Ukraine war briefing: fresh hope for US House vote on Kyiv aid deal](https://www.theguardian.com/world/2024/apr/02/ukraine-war-briefing-fresh-hope-for-us-house-vote-on-kyiv-aid-deal)
-- [Trump posts $175m bond in civil fraud case and averts asset seizures](https://www.theguardian.com/us-news/2024/apr/01/trump-bond-civil-fraud-case-averts-asset-seizures)
-- [Inflation in UK shops drops to lowest level in two years](https://www.theguardian.com/business/2024/apr/02/inflation-in-uk-shops-drops-to-lowest-level-in-two-years)
-- [Al Jazeera faces ‘security threat’ ban as Israel passes new law](https://www.theguardian.com/world/2024/apr/01/al-jazeera-faces-security-threat-ban-after-israel-passes-new-law-benjamin-netanyahu)
-- [Plymouth sack Ian Foster after fifth straight home defeat adds to drop fears](https://www.theguardian.com/football/2024/apr/01/plymouth-sack-ian-foster-after-fifth-straight-home-defeat)
-- [Iranian journalist stabbed in London discharged and ‘residing at safe place’](https://www.theguardian.com/world/2024/apr/01/iranian-journalist-stabbed-in-london-discharged-and-residing-at-safe-place)
-- [Avalanche at Zermatt ski resort in Switzerland kills three people](https://www.theguardian.com/world/2024/apr/01/avalanche-at-zermatt-ski-resort-in-switzerland-kills-a-number-of-people)
-- [Luke Humphries thrashes Michael van Gerwen to win German Darts Grand Prix](https://www.theguardian.com/sport/2024/apr/01/luke-humphries-thrashes-michael-van-gerwen-to-win-german-darts-grand-prix)
+- [Taiwan earthquake live updates: buildings collapse after strongest quake in 25 years; tsunami warning in Japan](https://www.theguardian.com/world/live/2024/apr/03/taiwan-earthquake-today-live-updates-magnitude-tsunami-warning-japan-evacuations-okinawa-buildings-collapse-tapei)
+- [Israel divided: Netanyahu’s coalition crisis - podcast](https://www.theguardian.com/world/audio/2024/apr/03/israel-divided-benjamin-netanyahu-coalition-crisis-podcast)
+- [Biden and Trump sweep four primaries including battleground state Wisconsin](https://www.theguardian.com/us-news/2024/apr/02/april-presidential-primaries-biden-trump-2024-election)
+- [Moon Standard Time? Nasa to create lunar-centric time reference system](https://www.theguardian.com/science/2024/apr/02/moon-nasa-coordinated-lunar-time)
+- [Ukraine military draft age lowered to boost fighting force](https://www.theguardian.com/world/2024/apr/03/ukraine-military-draft-age-law)
+- [Norwegian Cruise captain refused to let eight passengers who were late reboard ship](https://www.theguardian.com/world/2024/apr/02/stranded-cruise-ship-passengers)
+- [José Andrés: the chef behind Gaza food aid charity who ‘moves towards disaster’ to help the hungry](https://www.theguardian.com/world/2024/apr/02/chef-jose-andres-israeli-strike-kills-aid-workers)
+- [Buoyant Adam Peaty secures Paris Olympics spot after ‘three years of hell’](https://www.theguardian.com/sport/2024/apr/03/adam-peaty-finding-peace-in-the-water-after-securing-paris-olympics-spot)
+- [Nationwide TV ads starring Dominic West banned as misleading](https://www.theguardian.com/business/2024/apr/03/nationwide-tv-ads-starring-dominic-west-banned-as-misleading)
+- [Lizzo isn’t quitting music: ‘I quit giving negative energy attention’](https://www.theguardian.com/music/2024/apr/02/lizzo-not-quitting-music)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Low Arousal, Crime and Injury in Female Conscripts](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0297639)
-- [April Cools 2024: Physics Edition](https://tinkering.xyz/april-cools-2024/)
-- [A Headset That Helps Treat Depression](https://www.bbc.com/news/uk-england-northamptonshire-68567726)
-- [From xz to ibus: more questionable tarballs](https://www.openwall.com/lists/oss-security/2024/04/01/1)
-- [Robert S. Hartman](https://en.wikipedia.org/wiki/Robert_S._Hartman)
-- [The alarming rise of the middle-aged terrorist](https://www.spectator.co.uk/article/the-alarming-rise-of-the-middle-aged-terrorist/)
-- [USDA Confirms Highly Pathogenic Avian Influenza in Dairy Herd in New Mexico](https://www.aphis.usda.gov/news/agency-announcements/usda-confirms-highly-pathogenic-avian-influenza-dairy-herd-new-mexico)
-- [Copper Atoms Key to Sustainable Methanol Production](https://oilprice.com/Energy/Energy-General/Copper-Atoms-Key-to-Sustainable-Methanol-Production.html)
-- [Show HN: LPY LLM Based compiler to Python](https://github.com/wandwan/LPY)
-- [Scientists created a black hole in lab to test a theory, then it started glowing](https://www.good.is/scientists-created-a-black-hole-in-lab-to-test-a-theory-then-it-started-glowing-extraordinarily)
+- [Intel discloses $7B operating loss for chip-making unit](https://www.reuters.com/technology/intel-discloses-financials-foundry-business-2024-04-02/)
+- [Hotel Self Check-In Kiosks Exposed Room Access Codes](https://www.securityweek.com/hotel-self-check-in-kiosks-exposed-room-access-codes/)
+- [French lawmakers take a swing at cloud monopolies](https://www.theregister.com/2024/04/02/cispe_welcomes_french_law/)
+- [OWASP server blunder exposes decade of resumes](https://www.theregister.com/2024/04/02/owasp_discloses_data_breach/)
+- [Intel&#39;s chipmaking business lost a boatload of billions last year /](https://www.theverge.com/2024/4/2/24119454/intels-chipmaking-business-7-billion-loss)
+- [Feds decide to do something about years-old SS7 spy holes phone networks](https://www.theregister.com/2024/04/02/fcc_ss7_security/)
+- [Image Processing in WebAssembly](https://silvia-odwyer.github.io/photon/demo.html)
+- [Logical Increments: PC Build Guides](https://www.logicalincrements.com/)
+- [Yubnub: A Social Commandline for the Web](https://yubnub.org/)
+- [The Threat of Discontinued Software &lpar;2021&rpar;](https://almy.us/softwaredeath.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

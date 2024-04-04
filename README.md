@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Intel discloses $7B operating loss for chip-making unit](https://www.reuters.com/technology/intel-discloses-financials-foundry-business-2024-04-02/)
-- [Hotel Self Check-In Kiosks Exposed Room Access Codes](https://www.securityweek.com/hotel-self-check-in-kiosks-exposed-room-access-codes/)
-- [French lawmakers take a swing at cloud monopolies](https://www.theregister.com/2024/04/02/cispe_welcomes_french_law/)
-- [OWASP server blunder exposes decade of resumes](https://www.theregister.com/2024/04/02/owasp_discloses_data_breach/)
-- [Intel&#39;s chipmaking business lost a boatload of billions last year /](https://www.theverge.com/2024/4/2/24119454/intels-chipmaking-business-7-billion-loss)
-- [Feds decide to do something about years-old SS7 spy holes phone networks](https://www.theregister.com/2024/04/02/fcc_ss7_security/)
-- [Image Processing in WebAssembly](https://silvia-odwyer.github.io/photon/demo.html)
-- [Logical Increments: PC Build Guides](https://www.logicalincrements.com/)
-- [Yubnub: A Social Commandline for the Web](https://yubnub.org/)
-- [The Threat of Discontinued Software &lpar;2021&rpar;](https://almy.us/softwaredeath.html)
+- [Despite gen AI hype, venture capitalists are still largely on the sidelines](https://www.cnbc.com/2024/04/03/venture-deals-in-us-fell-to-lowest-level-since-2017-in-q1-pitchbook.html)
+- [Online Encyclopedia of Integer Sequences](https://oeis.org/)
+- [Earthquake in Taiwan damaged TSMC chipmaking equipment](https://www.ft.com/content/79eb9fcf-73fd-46f7-8599-75eec60db8ac)
+- [Show HN: geojson-shave, a tool for reducing the size of GeoJSON files](https://github.com/ben-n93/geojson-shave)
+- [Making the Halo 2 Battle Rifle Real](https://hackaday.com/2024/04/03/making-the-halo-2-battle-rifle-real/)
+- [The Net&#39;s Master Data-miner &lpar;2004&rpar;](https://www.vanityfair.com/news/2004/12/matrix200412)
+- [HiFi-TUI: Free Tidal Proxy](https://github.com/sachinsenal0x64/hifi-tui)
+- [The 50mm F/1.2 Art Proves Sigma Has Mastered Lens Making](https://petapixel.com/2024/03/26/the-50mm-f-1-2-art-hands-on-review-first-impressions/)
+- [Show HN: Logfmtxx – Header only C++23 structured logging library using logfmt](https://github.com/linkdd/logfmtxx)
+- [Review of the Summer 2023 Microsoft Exchange Online Intrusion [pdf]](https://www.cisa.gov/sites/default/files/2024-04/CSRB_Review_of_the_Summer_2023_MEO_Intrusion_Final_508c.pdf)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

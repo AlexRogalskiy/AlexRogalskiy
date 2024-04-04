@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Taiwan earthquake live updates: buildings collapse after strongest quake in 25 years; tsunami warning in Japan](https://www.theguardian.com/world/live/2024/apr/03/taiwan-earthquake-today-live-updates-magnitude-tsunami-warning-japan-evacuations-okinawa-buildings-collapse-tapei)
-- [Israel divided: Netanyahu’s coalition crisis - podcast](https://www.theguardian.com/world/audio/2024/apr/03/israel-divided-benjamin-netanyahu-coalition-crisis-podcast)
-- [Biden and Trump sweep four primaries including battleground state Wisconsin](https://www.theguardian.com/us-news/2024/apr/02/april-presidential-primaries-biden-trump-2024-election)
-- [Moon Standard Time? Nasa to create lunar-centric time reference system](https://www.theguardian.com/science/2024/apr/02/moon-nasa-coordinated-lunar-time)
-- [Ukraine military draft age lowered to boost fighting force](https://www.theguardian.com/world/2024/apr/03/ukraine-military-draft-age-law)
-- [Norwegian Cruise captain refused to let eight passengers who were late reboard ship](https://www.theguardian.com/world/2024/apr/02/stranded-cruise-ship-passengers)
-- [José Andrés: the chef behind Gaza food aid charity who ‘moves towards disaster’ to help the hungry](https://www.theguardian.com/world/2024/apr/02/chef-jose-andres-israeli-strike-kills-aid-workers)
-- [Buoyant Adam Peaty secures Paris Olympics spot after ‘three years of hell’](https://www.theguardian.com/sport/2024/apr/03/adam-peaty-finding-peace-in-the-water-after-securing-paris-olympics-spot)
-- [Nationwide TV ads starring Dominic West banned as misleading](https://www.theguardian.com/business/2024/apr/03/nationwide-tv-ads-starring-dominic-west-banned-as-misleading)
-- [Lizzo isn’t quitting music: ‘I quit giving negative energy attention’](https://www.theguardian.com/music/2024/apr/02/lizzo-not-quitting-music)
+- [New Zealand v England: women’s second cricket ODI – live](https://www.theguardian.com/sport/live/2024/apr/03/new-zealand-v-england-womens-second-cricket-odi-live)
+- [Scotland’s new hate crime law - podcast](https://www.theguardian.com/news/audio/2024/apr/04/scotland-new-hate-law-podcast)
+- [Chinese mourners turn to AI to remember and ‘revive’ loved ones](https://www.theguardian.com/technology/2024/apr/04/chinese-mourners-turn-to-ai-to-remember-and-revive-loved-ones)
+- [Ukraine war briefing: Russia warns France against deploying troops to Ukraine](https://www.theguardian.com/world/2024/apr/04/ukraine-russia-war-france-troops-warning-sergei-shoigu)
+- [Taiwan earthquake: rescuers search for survivors amid landslides and aftershocks](https://www.theguardian.com/world/2024/apr/04/taiwan-earthquake-2024-news-landslides-quake-aftershocks-survivors-search)
+- [One in three teachers have no behaviour support for pupils with additional needs, poll finds](https://www.theguardian.com/education/2024/apr/04/one-in-three-teachers-have-no-behaviour-support-for-pupils-with-additional-needs-poll-finds)
+- [Just 57 companies linked to 80% of greenhouse gas emissions since 2016](https://www.theguardian.com/environment/2024/apr/04/just-57-companies-linked-to-80-of-greenhouse-gas-emissions-since-2016)
+- [Liquid restrictions at UK airports to remain in place until June 2025](https://www.theguardian.com/business/2024/apr/04/liquid-restrictions-at-uk-airports-to-remain-in-place-until-june-2025)
+- [‘Some were extremely hostile’: how Dutch far-right figure turned to Islam](https://www.theguardian.com/world/2024/apr/04/joram-van-klaveren-netherlands-dutch-freedom-party-pvv-islam)
+- [More than 150 people call on Missouri governor to forgive Brian Dorsey’s death penalty](https://www.theguardian.com/us-news/2024/apr/03/missouri-governor-brian-dorsey-death-penalty)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

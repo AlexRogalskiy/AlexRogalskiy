@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Despite gen AI hype, venture capitalists are still largely on the sidelines](https://www.cnbc.com/2024/04/03/venture-deals-in-us-fell-to-lowest-level-since-2017-in-q1-pitchbook.html)
-- [Online Encyclopedia of Integer Sequences](https://oeis.org/)
-- [Earthquake in Taiwan damaged TSMC chipmaking equipment](https://www.ft.com/content/79eb9fcf-73fd-46f7-8599-75eec60db8ac)
-- [Show HN: geojson-shave, a tool for reducing the size of GeoJSON files](https://github.com/ben-n93/geojson-shave)
-- [Making the Halo 2 Battle Rifle Real](https://hackaday.com/2024/04/03/making-the-halo-2-battle-rifle-real/)
-- [The Net&#39;s Master Data-miner &lpar;2004&rpar;](https://www.vanityfair.com/news/2004/12/matrix200412)
-- [HiFi-TUI: Free Tidal Proxy](https://github.com/sachinsenal0x64/hifi-tui)
-- [The 50mm F/1.2 Art Proves Sigma Has Mastered Lens Making](https://petapixel.com/2024/03/26/the-50mm-f-1-2-art-hands-on-review-first-impressions/)
-- [Show HN: Logfmtxx – Header only C++23 structured logging library using logfmt](https://github.com/linkdd/logfmtxx)
-- [Review of the Summer 2023 Microsoft Exchange Online Intrusion [pdf]](https://www.cisa.gov/sites/default/files/2024-04/CSRB_Review_of_the_Summer_2023_MEO_Intrusion_Final_508c.pdf)
+- [A Course in Exploratory Data Analysis](https://bayesball.github.io/EDA/)
+- [Former University of Iowa Hospital employee used fake identity for 35 years](https://www.thegazette.com/crime-courts/former-university-of-iowa-hospital-employee-used-fake-identity-for-35-years/)
+- [Show HN: Automated, Generative AI Powered News Platform](https://www.belstad.com/)
+- [Curiosity rover searches for new clues about Mars&#39; ancient water](https://phys.org/news/2024-03-curiosity-rover-clues-mars-ancient.html)
+- [UltraHLE changed Nintendo 64 emulation forever – MVG [video]](https://www.youtube.com/watch?v=2NF5sU_n0uk)
+- [Data acquisition strategies for AI startups in 2024](https://press.airstreet.com/p/data-acquisition-strategies-for-ai)
+- [Microsoft Azure AI silicon Maia details](https://azure.microsoft.com/en-us/blog/azure-maia-for-the-era-of-ai-from-silicon-to-software-to-systems/)
+- [Google considering charge for internet searches with AI, reports say](https://www.theguardian.com/technology/2024/apr/04/google-set-to-charge-for-internet-searches-with-ai-reports-say)
+- [New 3D cosmic map raises questions over future of universe, scientists say](https://www.theguardian.com/science/2024/apr/04/biggest-ever-3d-map-universe-dark-energy-data-scientists)
+- [Endocrine-disrupting chemicals: implications for human health](https://www.thelancet.com/journals/landia/article/PIIS2213-8587(20)30129-7/abstract)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

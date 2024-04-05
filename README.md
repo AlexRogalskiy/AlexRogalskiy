@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [7 out of every 10 Fentanyl pills seized by DEA contain a lethal dose](https://www.dea.gov/onepill)
-- [Andres Freund and the xz backdoor](https://www.nytimes.com/2024/04/03/technology/prevent-cyberattack-linux.html)
-- [A disk so full, it couldn&#39;t be restored](https://sixcolors.com/post/2024/03/a-disk-so-full-it-couldnt-be-restored/)
-- [Henry Darger](https://www.moma.org/artists/28600)
-- [PHP: The Right Way](https://phptherightway.com/)
-- [Strudel: A live coding platform to write dynamic music pieces in the browser](https://strudel.cc)
-- [Show HN: I&#39;ve built a locally running Perplexity clone](https://github.com/nilsherzig/LLocalSearch)
-- [Logik: Open-source FPGA toolchain by Zero ASIC](https://github.com/zeroasiccorp/logik)
-- [Terraform makes carbon neutral natural gas](https://terraformindustries.wordpress.com/2024/04/01/terraform-makes-carbon-neutral-natural-gas/)
-- [MOnSter 6502: a working transistor-scale replica of the classic MOS 6502](https://monster6502.com/)
+- [Prostate cancer cases worldwide likely to double by 2040, analysis finds](https://www.theguardian.com/society/2024/apr/04/prostate-cancer-cases-worldwide-diagnoses-deaths-2040-study)
+- [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring a Systems Engineer](https://news.ycombinator.com/item?id=39937666)
+- [Ask HN: For those with a successful Show HN, what happened next?](https://news.ycombinator.com/item?id=39937598)
+- [Big Tech Is Trying to Prevent Debate About Its Social Harms](https://foreignpolicy.com/2024/04/04/big-tech-digital-trade-regulation/)
+- [German state ditches Microsoft for Linux and LibreOffice](https://www.zdnet.com/article/german-state-ditches-microsoft-for-linux-and-libreoffice/)
+- [Mario meets Pareto: multi-objective optimization of Mario Kart builds](https://www.mayerowitz.io/blog/mario-meets-pareto)
+- [Language models as compilers: Simulating pseudocode execution](https://arxiv.org/abs/2404.02575)
+- [Fake AI law firms are sending fake DMCA threats to generate fake SEO gains](https://arstechnica.com/gadgets/2024/04/fake-ai-law-firms-are-sending-fake-dmca-threats-to-generate-fake-seo-gains/)
+- [Understanding and managing the impact of machine learning models on the web](https://www.w3.org/reports/ai-web-impact/)
+- [Rejuvenating the Blood Cell Population](https://www.science.org/content/blog-post/rejuvenating-blood-cell-population)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

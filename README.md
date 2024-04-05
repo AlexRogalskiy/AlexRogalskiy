@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [New Zealand v England: women’s second cricket ODI – live](https://www.theguardian.com/sport/live/2024/apr/03/new-zealand-v-england-womens-second-cricket-odi-live)
-- [Scotland’s new hate crime law - podcast](https://www.theguardian.com/news/audio/2024/apr/04/scotland-new-hate-law-podcast)
-- [Chinese mourners turn to AI to remember and ‘revive’ loved ones](https://www.theguardian.com/technology/2024/apr/04/chinese-mourners-turn-to-ai-to-remember-and-revive-loved-ones)
-- [Ukraine war briefing: Russia warns France against deploying troops to Ukraine](https://www.theguardian.com/world/2024/apr/04/ukraine-russia-war-france-troops-warning-sergei-shoigu)
-- [Taiwan earthquake: rescuers search for survivors amid landslides and aftershocks](https://www.theguardian.com/world/2024/apr/04/taiwan-earthquake-2024-news-landslides-quake-aftershocks-survivors-search)
-- [One in three teachers have no behaviour support for pupils with additional needs, poll finds](https://www.theguardian.com/education/2024/apr/04/one-in-three-teachers-have-no-behaviour-support-for-pupils-with-additional-needs-poll-finds)
-- [Just 57 companies linked to 80% of greenhouse gas emissions since 2016](https://www.theguardian.com/environment/2024/apr/04/just-57-companies-linked-to-80-of-greenhouse-gas-emissions-since-2016)
-- [Liquid restrictions at UK airports to remain in place until June 2025](https://www.theguardian.com/business/2024/apr/04/liquid-restrictions-at-uk-airports-to-remain-in-place-until-june-2025)
-- [‘Some were extremely hostile’: how Dutch far-right figure turned to Islam](https://www.theguardian.com/world/2024/apr/04/joram-van-klaveren-netherlands-dutch-freedom-party-pvv-islam)
-- [More than 150 people call on Missouri governor to forgive Brian Dorsey’s death penalty](https://www.theguardian.com/us-news/2024/apr/03/missouri-governor-brian-dorsey-death-penalty)
+- [Should the UK stop arming Israel? – podcast](https://www.theguardian.com/news/audio/2024/apr/05/should-the-uk-stop-arming-israel-podcast)
+- [Taiwan earthquake: shock and grief take hold in Hualien](https://www.theguardian.com/world/2024/apr/05/taiwan-earthquake-hualien-death-toll-injuries-impact)
+- [Israel to reopen Erez crossing into Gaza after Biden sounds warning over protecting civilians](https://www.theguardian.com/world/2024/apr/05/israel-reopen-erez-crossing-gaza-biden-warning-war-netanyahu-palestine)
+- [Ukraine war briefing: Zelenskiy says troops have ‘stabilised’ battlefield positions](https://www.theguardian.com/world/2024/apr/05/ukraine-war-briefing-zelenskiy-says-troops-have-stabilised-battlefield-positions)
+- [Australia should prepare for 20-year megadroughts as the climate crisis worsens, study finds](https://www.theguardian.com/australia-news/2024/apr/05/australia-megadroughts-climate-crisis-global-heating)
+- [How hidden WW2 bombs across the Pacific are found and destroyed, 80 years after war](https://www.theguardian.com/world/2024/apr/05/ww2-hidden-bombs-clearing-disposal-pacific-marshall-islands-unexploded-ordnance-uxo)
+- [Industrial Revolution began in 17th not 18th century, say academics](https://www.theguardian.com/education/2024/apr/05/industrial-revolution-began-in-17th-not-18th-century-say-academics)
+- [MPs demand ECB watches Yorkshire closely: ‘No return to business as usual’](https://www.theguardian.com/sport/2024/apr/05/cricket-yorkshire-ecb-colin-graves)
+- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2024/apr/05/premier-league-10-things-to-look-out-for-this-weekend)
+- [Garrick edges closer to admitting female members after 193 years of exclusion](https://www.theguardian.com/uk-news/2024/apr/04/garrick-moves-closer-to-admitting-female-members-after-193-years-of-exclusion)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

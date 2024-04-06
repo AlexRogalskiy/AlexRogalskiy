@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Should the UK stop arming Israel? – podcast](https://www.theguardian.com/news/audio/2024/apr/05/should-the-uk-stop-arming-israel-podcast)
-- [Taiwan earthquake: shock and grief take hold in Hualien](https://www.theguardian.com/world/2024/apr/05/taiwan-earthquake-hualien-death-toll-injuries-impact)
-- [Israel to reopen Erez crossing into Gaza after Biden sounds warning over protecting civilians](https://www.theguardian.com/world/2024/apr/05/israel-reopen-erez-crossing-gaza-biden-warning-war-netanyahu-palestine)
-- [Ukraine war briefing: Zelenskiy says troops have ‘stabilised’ battlefield positions](https://www.theguardian.com/world/2024/apr/05/ukraine-war-briefing-zelenskiy-says-troops-have-stabilised-battlefield-positions)
-- [Australia should prepare for 20-year megadroughts as the climate crisis worsens, study finds](https://www.theguardian.com/australia-news/2024/apr/05/australia-megadroughts-climate-crisis-global-heating)
-- [How hidden WW2 bombs across the Pacific are found and destroyed, 80 years after war](https://www.theguardian.com/world/2024/apr/05/ww2-hidden-bombs-clearing-disposal-pacific-marshall-islands-unexploded-ordnance-uxo)
-- [Industrial Revolution began in 17th not 18th century, say academics](https://www.theguardian.com/education/2024/apr/05/industrial-revolution-began-in-17th-not-18th-century-say-academics)
-- [MPs demand ECB watches Yorkshire closely: ‘No return to business as usual’](https://www.theguardian.com/sport/2024/apr/05/cricket-yorkshire-ecb-colin-graves)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2024/apr/05/premier-league-10-things-to-look-out-for-this-weekend)
-- [Garrick edges closer to admitting female members after 193 years of exclusion](https://www.theguardian.com/uk-news/2024/apr/04/garrick-moves-closer-to-admitting-female-members-after-193-years-of-exclusion)
+- [Ukraine war briefing: Russian attack on Zaporizhzhia kills four as Kyiv’s forces target airbase in Russia](https://www.theguardian.com/world/2024/apr/06/ukraine-war-briefing-russian-attack-on-zaporizhzhia-kills-four-as-kyivs-forces-target-airbase-in-russia)
+- [Biden allies in Senate pile on pressure to halt Israel aid over conduct of Gaza war](https://www.theguardian.com/us-news/2024/apr/05/biden-israel-gaza-aid)
+- [Julie Bishop ‘deeply honoured’ to be appointed UN special envoy for Myanmar](https://www.theguardian.com/australia-news/2024/apr/06/julie-bishop-appointed-united-nations-special-envoy-for-myanmar)
+- [Divers recover third body after Baltimore bridge collapse](https://www.theguardian.com/us-news/2024/apr/05/baltimore-bridge-collapse-maynor-suazo-sandoval)
+- [Pollution burdens nearly half of New York and communities of color most harmed – report](https://www.theguardian.com/us-news/2024/apr/05/new-york-pollution-inequality)
+- [New York City shakes as 4.8 magnitude earthquake hits US north-east](https://www.theguardian.com/us-news/2024/apr/05/earthquake-new-york-new-jersey)
+- [‘Show must go on’: Iranian journalist stabbed in London returns to work](https://www.theguardian.com/uk-news/2024/apr/05/pouria-zeraati-iranian-jouranlist-stabbed-london-returns-work)
+- [The Assembly review – Michael Sheen is grilled by 35 neurodivergent young people … and it’s pure TV joy](https://www.theguardian.com/tv-and-radio/2024/apr/05/the-assembly-review-michael-sheen-is-grilled-by-35-neurodivergent-young-people-and-its-pure-tv-joy)
+- [Dwayne ‘The Rock’ Johnson says he will not repeat Joe Biden endorsement](https://www.theguardian.com/film/2024/apr/05/dwayne-johnson-no-biden-endorsement)
+- [Rotherham relegated from Championship after Plymouth defeat](https://www.theguardian.com/football/2024/apr/05/rotherham-relegated-from-championship-after-plymouth-defeat)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

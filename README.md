@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [A Course in Exploratory Data Analysis](https://bayesball.github.io/EDA/)
-- [Former University of Iowa Hospital employee used fake identity for 35 years](https://www.thegazette.com/crime-courts/former-university-of-iowa-hospital-employee-used-fake-identity-for-35-years/)
-- [Show HN: Automated, Generative AI Powered News Platform](https://www.belstad.com/)
-- [Curiosity rover searches for new clues about Mars&#39; ancient water](https://phys.org/news/2024-03-curiosity-rover-clues-mars-ancient.html)
-- [UltraHLE changed Nintendo 64 emulation forever – MVG [video]](https://www.youtube.com/watch?v=2NF5sU_n0uk)
-- [Data acquisition strategies for AI startups in 2024](https://press.airstreet.com/p/data-acquisition-strategies-for-ai)
-- [Microsoft Azure AI silicon Maia details](https://azure.microsoft.com/en-us/blog/azure-maia-for-the-era-of-ai-from-silicon-to-software-to-systems/)
-- [Google considering charge for internet searches with AI, reports say](https://www.theguardian.com/technology/2024/apr/04/google-set-to-charge-for-internet-searches-with-ai-reports-say)
-- [New 3D cosmic map raises questions over future of universe, scientists say](https://www.theguardian.com/science/2024/apr/04/biggest-ever-3d-map-universe-dark-energy-data-scientists)
-- [Endocrine-disrupting chemicals: implications for human health](https://www.thelancet.com/journals/landia/article/PIIS2213-8587(20)30129-7/abstract)
+- [LLM Evals That Do and Don&#39;t Work](https://eugeneyan.com/writing/evals/)
+- [A Focus on FOSS Funding](https://lwn.net/SubscriberLink/967001/baf3f34174cf99df/)
+- [Everybody Wants Gaza&#39;s Gas: The $500B windfall shoring up EU supplies](https://www.planetcritical.com/p/everybody-wants-gazas-gas)
+- [The Xz Issue Isn&#39;t About Open Source](https://changelog.complete.org/archives/10642-the-xz-issue-isnt-about-open-source)
+- [Printf-Tac-Toe](https://github.com/carlini/printf-tac-toe)
+- [The UAW is coming closer to unionizing in the South](https://www.npr.org/2024/04/05/1242143873/uaw-auto-workers-union-south-right-to-work-mercedes-volkswagen-election)
+- [A few servers and a load balancer &lpar;2023&rpar;](https://shayy.org/posts/a-few-servers/)
+- [X pushed a fake headline about Iran attacking Israel. AI chatbot Grok made it up](https://mashable.com/article/elon-musk-x-twitter-ai-chatbot-grok-fake-news-trending-explore)
+- [New York Times cuts ties with Israeli reporter over alleged policy violation](https://www.ynetnews.com/culture/article/rkoh8h8ya)
+- [MDN&#39;s AI Help and lucid lies](https://seirdy.one/posts/2024/04/04/mdn-ai-help-and-lucid-lies/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

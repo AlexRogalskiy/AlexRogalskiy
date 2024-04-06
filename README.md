@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Prostate cancer cases worldwide likely to double by 2040, analysis finds](https://www.theguardian.com/society/2024/apr/04/prostate-cancer-cases-worldwide-diagnoses-deaths-2040-study)
-- [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring a Systems Engineer](https://news.ycombinator.com/item?id=39937666)
-- [Ask HN: For those with a successful Show HN, what happened next?](https://news.ycombinator.com/item?id=39937598)
-- [Big Tech Is Trying to Prevent Debate About Its Social Harms](https://foreignpolicy.com/2024/04/04/big-tech-digital-trade-regulation/)
-- [German state ditches Microsoft for Linux and LibreOffice](https://www.zdnet.com/article/german-state-ditches-microsoft-for-linux-and-libreoffice/)
-- [Mario meets Pareto: multi-objective optimization of Mario Kart builds](https://www.mayerowitz.io/blog/mario-meets-pareto)
-- [Language models as compilers: Simulating pseudocode execution](https://arxiv.org/abs/2404.02575)
-- [Fake AI law firms are sending fake DMCA threats to generate fake SEO gains](https://arstechnica.com/gadgets/2024/04/fake-ai-law-firms-are-sending-fake-dmca-threats-to-generate-fake-seo-gains/)
-- [Understanding and managing the impact of machine learning models on the web](https://www.w3.org/reports/ai-web-impact/)
-- [Rejuvenating the Blood Cell Population](https://www.science.org/content/blog-post/rejuvenating-blood-cell-population)
+- [NIST researchers use cellphone compass to measure glucose](https://www.nist.gov/news-events/news/2024/04/nist-researchers-use-cellphone-compass-measure-tiny-concentrations)
+- [Why CockroachDB doesn&#39;t use EvalPlanQual](https://www.cockroachlabs.com/blog/why-cockroachdb-doesnt-use-evalplanqual/)
+- [C++ Insights – See your source code with the eyes of a compiler](https://github.com/andreasfertig/cppinsights)
+- [SearXNG is a free internet metasearch engine](https://github.com/searxng/searxng)
+- [Emacs bug: describe-key and lambda too poetic](https://yhetil.org/emacs-bugs/874jcgbekr.fsf@gmail.com/T/#u)
+- [World_sim: LLM prompted to act as a sentient CLI universe simulator](https://worldsim.nousresearch.com/)
+- [Apple Updates App Store Guidelines to Permit Game Emulators, EU Music App Links](https://www.macrumors.com/2024/04/05/app-store-guidelines-emulators-music-app-links/)
+- [AI and the Problem of Knowledge Collapse](https://arxiv.org/abs/2404.03502)
+- [For twenty years, PostSecret has broadcast suburban America’s hidden truths](https://hazlitt.net/longreads/dark-matter)
+- [Autonomous Overhead Powerline Recharging for Uninterrupted Drone Operations [video]](https://www.youtube.com/watch?v=C-uekD6VTIQ)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine war briefing: Russian attack on Zaporizhzhia kills four as Kyiv’s forces target airbase in Russia](https://www.theguardian.com/world/2024/apr/06/ukraine-war-briefing-russian-attack-on-zaporizhzhia-kills-four-as-kyivs-forces-target-airbase-in-russia)
-- [Biden allies in Senate pile on pressure to halt Israel aid over conduct of Gaza war](https://www.theguardian.com/us-news/2024/apr/05/biden-israel-gaza-aid)
-- [Julie Bishop ‘deeply honoured’ to be appointed UN special envoy for Myanmar](https://www.theguardian.com/australia-news/2024/apr/06/julie-bishop-appointed-united-nations-special-envoy-for-myanmar)
-- [Divers recover third body after Baltimore bridge collapse](https://www.theguardian.com/us-news/2024/apr/05/baltimore-bridge-collapse-maynor-suazo-sandoval)
-- [Pollution burdens nearly half of New York and communities of color most harmed – report](https://www.theguardian.com/us-news/2024/apr/05/new-york-pollution-inequality)
-- [New York City shakes as 4.8 magnitude earthquake hits US north-east](https://www.theguardian.com/us-news/2024/apr/05/earthquake-new-york-new-jersey)
-- [‘Show must go on’: Iranian journalist stabbed in London returns to work](https://www.theguardian.com/uk-news/2024/apr/05/pouria-zeraati-iranian-jouranlist-stabbed-london-returns-work)
-- [The Assembly review – Michael Sheen is grilled by 35 neurodivergent young people … and it’s pure TV joy](https://www.theguardian.com/tv-and-radio/2024/apr/05/the-assembly-review-michael-sheen-is-grilled-by-35-neurodivergent-young-people-and-its-pure-tv-joy)
-- [Dwayne ‘The Rock’ Johnson says he will not repeat Joe Biden endorsement](https://www.theguardian.com/film/2024/apr/05/dwayne-johnson-no-biden-endorsement)
-- [Rotherham relegated from Championship after Plymouth defeat](https://www.theguardian.com/football/2024/apr/05/rotherham-relegated-from-championship-after-plymouth-defeat)
+- [New Zealand v England: third women’s ODI – live](https://www.theguardian.com/sport/live/2024/apr/07/new-zealand-v-england-third-womens-odi-live)
+- [I’ve always been a messy person. The situation was grim – but could I really change?](https://www.theguardian.com/lifeandstyle/2024/apr/07/ive-always-been-a-messy-person-the-situation-was-grim-but-could-i-really-change)
+- [The moment I knew: he popped open a bottle of champagne and filled his mother’s glass first](https://www.theguardian.com/lifeandstyle/2024/apr/07/the-moment-i-knew-he-popped-open-a-bottle-of-champagne-and-filled-his-mothers-glass-first)
+- [Athletic Club beat Mallorca in Copa del Rey final to end 40-year trophy drought](https://www.theguardian.com/football/2024/apr/07/athletic-club-beat-mallorca-in-copa-del-rey-final-to-end-40-year-trophy-drought)
+- [We Love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2024/apr/06/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Murder inquiry launched after woman fatally stabbed in Bradford](https://www.theguardian.com/uk-news/2024/apr/06/inquiry-launched-after-woman-fatally-stabbed-in-bradford)
+- [Ukraine-sceptic government ally Peter Pellegrini wins Slovakian presidential election](https://www.theguardian.com/world/2024/apr/06/government-candidate-peter-pellegrini-wins-slovakias-presidential-race)
+- [Trend watch: maxi skirts are taking the floor](https://www.theguardian.com/fashion/2024/apr/06/trend-watch-maxi-skirts-are-taking-the-floor)
+- [Russia accused of using chemical gas attacks against Ukrainian soldiers](https://www.theguardian.com/world/2024/apr/06/russia-accused-of-using-chemical-gas-attacks-against-ukrainian-soldiers)
+- [Man arrested after woman found dead in car in London](https://www.theguardian.com/uk-news/2024/apr/06/man-arrested-on-suspicion-of-after-woman-found-in-car-in-hackney)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

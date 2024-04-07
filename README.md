@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [NIST researchers use cellphone compass to measure glucose](https://www.nist.gov/news-events/news/2024/04/nist-researchers-use-cellphone-compass-measure-tiny-concentrations)
-- [Why CockroachDB doesn&#39;t use EvalPlanQual](https://www.cockroachlabs.com/blog/why-cockroachdb-doesnt-use-evalplanqual/)
-- [C++ Insights – See your source code with the eyes of a compiler](https://github.com/andreasfertig/cppinsights)
-- [SearXNG is a free internet metasearch engine](https://github.com/searxng/searxng)
-- [Emacs bug: describe-key and lambda too poetic](https://yhetil.org/emacs-bugs/874jcgbekr.fsf@gmail.com/T/#u)
-- [World_sim: LLM prompted to act as a sentient CLI universe simulator](https://worldsim.nousresearch.com/)
-- [Apple Updates App Store Guidelines to Permit Game Emulators, EU Music App Links](https://www.macrumors.com/2024/04/05/app-store-guidelines-emulators-music-app-links/)
-- [AI and the Problem of Knowledge Collapse](https://arxiv.org/abs/2404.03502)
-- [For twenty years, PostSecret has broadcast suburban America’s hidden truths](https://hazlitt.net/longreads/dark-matter)
-- [Autonomous Overhead Powerline Recharging for Uninterrupted Drone Operations [video]](https://www.youtube.com/watch?v=C-uekD6VTIQ)
+- [A town employee lowered the fluoride in water for years](https://www.npr.org/2022/10/08/1127681843/fluoride-lowered-vermont-town-richmond)
+- [A California &#39;Right to Disconnect&#39;?](https://www.wsj.com/articles/california-bill-right-to-disconnect-working-hours-emails-f3812b1c)
+- [Ibiza locals living in cars as party island sees rents soar](https://www.bbc.com/news/business-68730891)
+- [A canonical Hamiltonian formulation of the Navier–Stokes problem](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/canonical-hamiltonian-formulation-of-the-navierstokes-problem/B3EB9389AE700867A6A3EA63A45E69C6)
+- [The xz sshd backdoor rabbithole goes quite a bit deeper](https://twitter.com/bl4sty/status/1776691497506623562)
+- [Cache is King: A guide for Docker layer caching in GitHub Actions](https://blacksmith.sh/blog/cache-is-king-a-guide-for-docker-layer-caching-in-github-actions)
+- [WinBtrfs – an open-source btrfs driver for Windows](https://github.com/maharmstone/btrfs)
+- [Show HN: Online database diagram editor](https://github.com/drawdb-io/drawdb)
+- [More Agents Is All You Need: LLMs performance scales with the number of agents](https://arxiv.org/abs/2402.05120)
+- [Show HN: Brutalist Hacker News – A HN reader inspired by brutalist web design](https://brutalisthackernews.com)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

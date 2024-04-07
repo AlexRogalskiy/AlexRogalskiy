@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [LLM Evals That Do and Don&#39;t Work](https://eugeneyan.com/writing/evals/)
-- [A Focus on FOSS Funding](https://lwn.net/SubscriberLink/967001/baf3f34174cf99df/)
-- [Everybody Wants Gaza&#39;s Gas: The $500B windfall shoring up EU supplies](https://www.planetcritical.com/p/everybody-wants-gazas-gas)
-- [The Xz Issue Isn&#39;t About Open Source](https://changelog.complete.org/archives/10642-the-xz-issue-isnt-about-open-source)
-- [Printf-Tac-Toe](https://github.com/carlini/printf-tac-toe)
-- [The UAW is coming closer to unionizing in the South](https://www.npr.org/2024/04/05/1242143873/uaw-auto-workers-union-south-right-to-work-mercedes-volkswagen-election)
-- [A few servers and a load balancer &lpar;2023&rpar;](https://shayy.org/posts/a-few-servers/)
-- [X pushed a fake headline about Iran attacking Israel. AI chatbot Grok made it up](https://mashable.com/article/elon-musk-x-twitter-ai-chatbot-grok-fake-news-trending-explore)
-- [New York Times cuts ties with Israeli reporter over alleged policy violation](https://www.ynetnews.com/culture/article/rkoh8h8ya)
-- [MDN&#39;s AI Help and lucid lies](https://seirdy.one/posts/2024/04/04/mdn-ai-help-and-lucid-lies/)
+- [A Brief History of Airbnb&#39;s Architecture](https://blog.bytebytego.com/p/a-brief-history-of-airbnbs-architecture)
+- [New CSS Logical Properties](https://elad.medium.com/new-css-logical-properties-bc6945311ce7)
+- [A tool for developing quantitative strategy model](https://github.com/SPLWare/esProc/wiki/SPL,-a-very-tool-for-developing-quantitative-strategy-model)
+- [Average number of steps in the Collatz conjecture &lpar;2023&rpar;](https://math.stackexchange.com/questions/4553892/average-number-of-steps-in-the-collatz-conjecture)
+- [Ripley series review: Andrew Scott is absolutely spellbinding](https://www.theguardian.com/tv-and-radio/2024/apr/04/ripley-review-andrew-scott-is-absolutely-spellbinding)
+- [Software freelancers, how did you land your 1st, 2nd, and Nth jobs?](https://news.ycombinator.com/item?id=39957456)
+- [Korea&#39;s Artificial Sun Just Shattered a Fusion Record](https://www.popularmechanics.com/science/energy/a60359873/kstar-fusion-reactor-plasma/)
+- [Finding the best diet that works for you. Here are tips](https://www.cnn.com/2024/04/06/health/best-diet-weight-loss-wellness/index.html)
+- [Scientists Find No Benefit to Time-Restricted Eating](https://www.nytimes.com/2022/04/20/health/time-restricted-diets.html)
+- [What is Multi-Tenant Data Management and Why do you need it?](https://medium.com/@shenli3514/what-is-multi-tenant-data-management-and-why-do-you-need-it-1-b424b81c0498)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

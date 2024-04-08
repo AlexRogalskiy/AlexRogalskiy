@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [New Zealand v England: third women’s ODI – live](https://www.theguardian.com/sport/live/2024/apr/07/new-zealand-v-england-third-womens-odi-live)
-- [I’ve always been a messy person. The situation was grim – but could I really change?](https://www.theguardian.com/lifeandstyle/2024/apr/07/ive-always-been-a-messy-person-the-situation-was-grim-but-could-i-really-change)
-- [The moment I knew: he popped open a bottle of champagne and filled his mother’s glass first](https://www.theguardian.com/lifeandstyle/2024/apr/07/the-moment-i-knew-he-popped-open-a-bottle-of-champagne-and-filled-his-mothers-glass-first)
-- [Athletic Club beat Mallorca in Copa del Rey final to end 40-year trophy drought](https://www.theguardian.com/football/2024/apr/07/athletic-club-beat-mallorca-in-copa-del-rey-final-to-end-40-year-trophy-drought)
-- [We Love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2024/apr/06/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Murder inquiry launched after woman fatally stabbed in Bradford](https://www.theguardian.com/uk-news/2024/apr/06/inquiry-launched-after-woman-fatally-stabbed-in-bradford)
-- [Ukraine-sceptic government ally Peter Pellegrini wins Slovakian presidential election](https://www.theguardian.com/world/2024/apr/06/government-candidate-peter-pellegrini-wins-slovakias-presidential-race)
-- [Trend watch: maxi skirts are taking the floor](https://www.theguardian.com/fashion/2024/apr/06/trend-watch-maxi-skirts-are-taking-the-floor)
-- [Russia accused of using chemical gas attacks against Ukrainian soldiers](https://www.theguardian.com/world/2024/apr/06/russia-accused-of-using-chemical-gas-attacks-against-ukrainian-soldiers)
-- [Man arrested after woman found dead in car in London](https://www.theguardian.com/uk-news/2024/apr/06/man-arrested-on-suspicion-of-after-woman-found-in-car-in-hackney)
+- [The devil walking on Earth: part 1 – podcast](https://www.theguardian.com/news/audio/2024/apr/08/the-devil-walking-on-earth-part-1-podcast)
+- [Russia floods: waters rising in two cities and thousands evacuated after dam bursts](https://www.theguardian.com/world/2024/apr/07/russia-floods-federal-emergency-dam-bursts-orenburg-orsk-ural-river)
+- [UK rent rises forecast to outpace wage growth for three years](https://www.theguardian.com/society/2024/apr/08/uk-rent-rises-forecast-to-outpace-wage-growth-for-three-years)
+- [One in 10 NHS staff have experienced sexual harassment at work, union says](https://www.theguardian.com/society/2024/apr/08/almost-third-of-nhs-workers-have-been-sexually-assaulted-union-finds)
+- [NatWest criticised over £1.2m pay for boss with ‘limited experience’](https://www.theguardian.com/business/2024/apr/08/natwest-criticised-paul-thwaite-limited-experience-alison-rose)
+- [Ukraine war briefing: alarm over drone attack on Zaporizhzhia power plant](https://www.theguardian.com/world/2024/apr/08/ukraine-war-briefing-alarm-over-drone-attack-on-zaporizhzhia-power-plant)
+- [Jordan Spieth plays down gutter talk as Rory McIlroy warms up for Masters](https://www.theguardian.com/sport/2024/apr/07/jordan-spieth-plays-down-gutter-talk-as-rory-mcilroy-warms-up-for-masters)
+- [Investigation launched after Boeing engine cover falls off during takeoff](https://www.theguardian.com/business/2024/apr/07/boeing-plane-lands-safely-after-engine-cowling-strikes-wing-during-takeoff)
+- [UN nuclear watchdog head condemns drone strike on Zaporizhzhia nuclear power plant](https://www.theguardian.com/world/2024/apr/08/un-nuclear-watchdog-head-condemns-drone-strike-on-zaporizhzhia-power-plant)
+- [Matt Richards’ 200m British freestyle gold secures Paris nomination](https://www.theguardian.com/sport/2024/apr/07/matt-richards-gold-british-swimming-championships-nomination-for-paris-2024)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

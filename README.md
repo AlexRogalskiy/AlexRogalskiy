@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [A town employee lowered the fluoride in water for years](https://www.npr.org/2022/10/08/1127681843/fluoride-lowered-vermont-town-richmond)
-- [A California &#39;Right to Disconnect&#39;?](https://www.wsj.com/articles/california-bill-right-to-disconnect-working-hours-emails-f3812b1c)
-- [Ibiza locals living in cars as party island sees rents soar](https://www.bbc.com/news/business-68730891)
-- [A canonical Hamiltonian formulation of the Navier–Stokes problem](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/canonical-hamiltonian-formulation-of-the-navierstokes-problem/B3EB9389AE700867A6A3EA63A45E69C6)
-- [The xz sshd backdoor rabbithole goes quite a bit deeper](https://twitter.com/bl4sty/status/1776691497506623562)
-- [Cache is King: A guide for Docker layer caching in GitHub Actions](https://blacksmith.sh/blog/cache-is-king-a-guide-for-docker-layer-caching-in-github-actions)
-- [WinBtrfs – an open-source btrfs driver for Windows](https://github.com/maharmstone/btrfs)
-- [Show HN: Online database diagram editor](https://github.com/drawdb-io/drawdb)
-- [More Agents Is All You Need: LLMs performance scales with the number of agents](https://arxiv.org/abs/2402.05120)
-- [Show HN: Brutalist Hacker News – A HN reader inspired by brutalist web design](https://brutalisthackernews.com)
+- [Autism and ADHD are linked to disturbed gut flora early in life](https://medicalxpress.com/news/2024-04-autism-adhd-linked-disturbed-gut.html)
+- [Phytomining – Extracting Minerals via Plants](https://arpa-e.energy.gov/news-and-media/press-releases/us-department-energy-announces-10-million-explore-using-plants)
+- [New theory on Satoshi Nakamoto](https://old.reddit.com/r/CryptoCurrency/comments/1bxqnpq/new_theory_on_satoshi_nakamoto/)
+- [Autonomous Weapons: The False Promise of Civilian Protection &lpar;2022&rpar;](https://www.cigionline.org/articles/autonomous-weapons-the-false-promise-of-civilian-protection/)
+- [Neurons in the Brain Appear to Follow a Distinct Mathematical Pattern](https://www.msn.com/en-us/health/other/neurons-in-the-brain-appear-to-follow-a-distinct-mathematical-pattern/ar-AA1mhCzO)
+- [Blind internet users struggle with error-prone AI aids](https://www.ft.com/content/3c877c55-b698-43da-a222-8ae183f53078)
+- [ReAMP, a Winamp Remake in Swift](https://re-amp.ru/)
+- [Navy cancels ship briefings after damning internal report](https://www.politico.com/news/2024/04/07/navy-cancels-ship-briefings-internal-report-00150879)
+- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+- [Show HN: Bonk, a command-line tool for X11 window management](https://github.com/FascinatedBox/bonk)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

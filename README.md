@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [A Brief History of Airbnb&#39;s Architecture](https://blog.bytebytego.com/p/a-brief-history-of-airbnbs-architecture)
-- [New CSS Logical Properties](https://elad.medium.com/new-css-logical-properties-bc6945311ce7)
-- [A tool for developing quantitative strategy model](https://github.com/SPLWare/esProc/wiki/SPL,-a-very-tool-for-developing-quantitative-strategy-model)
-- [Average number of steps in the Collatz conjecture &lpar;2023&rpar;](https://math.stackexchange.com/questions/4553892/average-number-of-steps-in-the-collatz-conjecture)
-- [Ripley series review: Andrew Scott is absolutely spellbinding](https://www.theguardian.com/tv-and-radio/2024/apr/04/ripley-review-andrew-scott-is-absolutely-spellbinding)
-- [Software freelancers, how did you land your 1st, 2nd, and Nth jobs?](https://news.ycombinator.com/item?id=39957456)
-- [Korea&#39;s Artificial Sun Just Shattered a Fusion Record](https://www.popularmechanics.com/science/energy/a60359873/kstar-fusion-reactor-plasma/)
-- [Finding the best diet that works for you. Here are tips](https://www.cnn.com/2024/04/06/health/best-diet-weight-loss-wellness/index.html)
-- [Scientists Find No Benefit to Time-Restricted Eating](https://www.nytimes.com/2022/04/20/health/time-restricted-diets.html)
-- [What is Multi-Tenant Data Management and Why do you need it?](https://medium.com/@shenli3514/what-is-multi-tenant-data-management-and-why-do-you-need-it-1-b424b81c0498)
+- [Looking at zsh plugin manager called &quot;zi&quot;](https://recurse.social/@dylnuge/112224580867240812#.)
+- [I build an AI based Frankenstein and asked it to be my recruiter in Canada](https://github.com/ukraine/jobBanksCanada)
+- [Ask HN: Desining an Open Alternative to Google Places](https://news.ycombinator.com/item?id=39965591)
+- [Candidate who received 93% of vote barred from running to be Venezuela President](https://venezuelareports.com/analysis/maria-corina-machado-whod-received-93-of-the-primary-vote-barred-from-running-to-be-venezuelas-next-president/412/)
+- [Why Private Company Boards Matter](https://www.himforher.org/private-boards)
+- [ClojureDart – Clojure Dialect for Flutter and Dart](https://github.com/Tensegritics/ClojureDart)
+- [Anarchy in the US, Part 2](https://albertcory50.substack.com/p/anarchy-in-the-us-part-2)
+- [Court to Prohibit Hytera from Selling Products Containing Two-Way Radio Tech](https://www.businesswire.com/news/home/20240407988634/en/Notice-of-Injunction-Prohibiting-Hytera-From-Selling-or-Distributing-Any-Products-Containing-Two-Way-Radio-Technology)
+- [Russian-controlled Zaporizhzhia nuclear reactor damaged following drone attack](https://www.cnn.com/2024/04/07/europe/russian-controlled-zaporizhzhia-nuclear-reactor-damaged-following-drone-attack/index.html)
+- [Generations after Trinity Test, New Mexico downwinders seek compensation](https://www.npr.org/2024/03/07/1236721042/generations-after-trinity-test-new-mexico-downwinders-seek-compensation)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

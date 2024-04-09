@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Autism and ADHD are linked to disturbed gut flora early in life](https://medicalxpress.com/news/2024-04-autism-adhd-linked-disturbed-gut.html)
-- [Phytomining – Extracting Minerals via Plants](https://arpa-e.energy.gov/news-and-media/press-releases/us-department-energy-announces-10-million-explore-using-plants)
-- [New theory on Satoshi Nakamoto](https://old.reddit.com/r/CryptoCurrency/comments/1bxqnpq/new_theory_on_satoshi_nakamoto/)
-- [Autonomous Weapons: The False Promise of Civilian Protection &lpar;2022&rpar;](https://www.cigionline.org/articles/autonomous-weapons-the-false-promise-of-civilian-protection/)
-- [Neurons in the Brain Appear to Follow a Distinct Mathematical Pattern](https://www.msn.com/en-us/health/other/neurons-in-the-brain-appear-to-follow-a-distinct-mathematical-pattern/ar-AA1mhCzO)
-- [Blind internet users struggle with error-prone AI aids](https://www.ft.com/content/3c877c55-b698-43da-a222-8ae183f53078)
-- [ReAMP, a Winamp Remake in Swift](https://re-amp.ru/)
-- [Navy cancels ship briefings after damning internal report](https://www.politico.com/news/2024/04/07/navy-cancels-ship-briefings-internal-report-00150879)
-- [BuildZoom &lpar;better way to build custom homes&rpar; Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
-- [Show HN: Bonk, a command-line tool for X11 window management](https://github.com/FascinatedBox/bonk)
+- [Distributed SQLite: Paradigm shift or hype?](https://kerkour.com/distributed-sqlite)
+- [DRAM mfgrs stop publishing contract DRAM prices after quake, price hike expected](https://www.tomshardware.com/tech-industry/memory-makers-reportedly-stop-publishing-contract-dram-prices-following-taiwan-earthquake-further-price-hikes-are-expected)
+- [Genesis of the “Golfball” Selectric](https://oztypewriter.blogspot.com/2011/08/on-this-day-in-typewriter-history_14.html)
+- [TSAC: Low Bitrate Audio Compression](https://bellard.org/tsac/)
+- [1.18k drawings of plant root systems](https://images.wur.nl/digital/collection/coll13/search)
+- [Predictive CPU isolation of containers at Netflix &lpar;2019&rpar;](https://netflixtechblog.com/predictive-cpu-isolation-of-containers-at-netflix-91f014d856c7?gi=c53c45dcda8b)
+- [Hello OLMo: A truly open LLM](https://blog.allenai.org/hello-olmo-a-truly-open-llm-43f7e7359222?gi=760105621962)
+- [UpCodes &lpar;YC S17&rpar; hiring devs to automate construction compliance](https://up.codes/careers?utm_source=HN)
+- [Llm.c – LLM training in simple, pure C/CUDA](https://github.com/karpathy/llm.c)
+- [GNU Stow needs a co-maintainer](https://savannah.gnu.org/bugs/index.php?65569)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

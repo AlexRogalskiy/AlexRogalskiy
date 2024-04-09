@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Looking at zsh plugin manager called &quot;zi&quot;](https://recurse.social/@dylnuge/112224580867240812#.)
-- [I build an AI based Frankenstein and asked it to be my recruiter in Canada](https://github.com/ukraine/jobBanksCanada)
-- [Ask HN: Desining an Open Alternative to Google Places](https://news.ycombinator.com/item?id=39965591)
-- [Candidate who received 93% of vote barred from running to be Venezuela President](https://venezuelareports.com/analysis/maria-corina-machado-whod-received-93-of-the-primary-vote-barred-from-running-to-be-venezuelas-next-president/412/)
-- [Why Private Company Boards Matter](https://www.himforher.org/private-boards)
-- [ClojureDart – Clojure Dialect for Flutter and Dart](https://github.com/Tensegritics/ClojureDart)
-- [Anarchy in the US, Part 2](https://albertcory50.substack.com/p/anarchy-in-the-us-part-2)
-- [Court to Prohibit Hytera from Selling Products Containing Two-Way Radio Tech](https://www.businesswire.com/news/home/20240407988634/en/Notice-of-Injunction-Prohibiting-Hytera-From-Selling-or-Distributing-Any-Products-Containing-Two-Way-Radio-Technology)
-- [Russian-controlled Zaporizhzhia nuclear reactor damaged following drone attack](https://www.cnn.com/2024/04/07/europe/russian-controlled-zaporizhzhia-nuclear-reactor-damaged-following-drone-attack/index.html)
-- [Generations after Trinity Test, New Mexico downwinders seek compensation](https://www.npr.org/2024/03/07/1236721042/generations-after-trinity-test-new-mexico-downwinders-seek-compensation)
+- [What&#39;s for Dinner?](https://lucymcbride.substack.com/p/whats-for-dinner)
+- [AI-SaaS How-To Journey](https://fastproducts-io.beehiiv.com/p/aisaas-howto-journey)
+- [TikTok&#39;s popularity among European politicians rises despite security fears](https://www.reuters.com/technology/tiktoks-popularity-among-european-politicians-rises-despite-security-fears-2024-04-08/)
+- [PG&amp;E says there will be a 9-hour outage in my area](https://news.ycombinator.com/item?id=39975661)
+- [Google Workers Revolt over $1.2B Contract with Israel](https://time.com/6964364/exclusive-no-tech-for-apartheid-google-workers-protest-project-nimbus-1-2-billion-contract-with-israel/)
+- [How AI is useful for continuing education even as a 15+year programmer [video]](https://www.youtube.com/watch?v=Ye5zMENcMFY)
+- [Boom times for US green energy as federal cash flows in](https://www.bbc.com/news/business-68667140)
+- [Does Kubernetes give you multicloud portability?](https://medium.com/digital-mckinsey/does-kubernetes-really-give-you-multicloud-portability-476270a0acc7)
+- [Distributed SQLite: Paradigm shift or hype?](https://kerkour.com/distributed-sqlite)
+- [Nothing New Thing Under the Sun: Prohibition, Drugs and the Iron Law](https://www.econlib.org/nothing-new-thing-under-the-sun-prohibition-drugs-and-the-iron-law/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

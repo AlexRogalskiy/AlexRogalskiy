@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [The devil walking on Earth: part 1 – podcast](https://www.theguardian.com/news/audio/2024/apr/08/the-devil-walking-on-earth-part-1-podcast)
-- [Russia floods: waters rising in two cities and thousands evacuated after dam bursts](https://www.theguardian.com/world/2024/apr/07/russia-floods-federal-emergency-dam-bursts-orenburg-orsk-ural-river)
-- [UK rent rises forecast to outpace wage growth for three years](https://www.theguardian.com/society/2024/apr/08/uk-rent-rises-forecast-to-outpace-wage-growth-for-three-years)
-- [One in 10 NHS staff have experienced sexual harassment at work, union says](https://www.theguardian.com/society/2024/apr/08/almost-third-of-nhs-workers-have-been-sexually-assaulted-union-finds)
-- [NatWest criticised over £1.2m pay for boss with ‘limited experience’](https://www.theguardian.com/business/2024/apr/08/natwest-criticised-paul-thwaite-limited-experience-alison-rose)
-- [Ukraine war briefing: alarm over drone attack on Zaporizhzhia power plant](https://www.theguardian.com/world/2024/apr/08/ukraine-war-briefing-alarm-over-drone-attack-on-zaporizhzhia-power-plant)
-- [Jordan Spieth plays down gutter talk as Rory McIlroy warms up for Masters](https://www.theguardian.com/sport/2024/apr/07/jordan-spieth-plays-down-gutter-talk-as-rory-mcilroy-warms-up-for-masters)
-- [Investigation launched after Boeing engine cover falls off during takeoff](https://www.theguardian.com/business/2024/apr/07/boeing-plane-lands-safely-after-engine-cowling-strikes-wing-during-takeoff)
-- [UN nuclear watchdog head condemns drone strike on Zaporizhzhia nuclear power plant](https://www.theguardian.com/world/2024/apr/08/un-nuclear-watchdog-head-condemns-drone-strike-on-zaporizhzhia-power-plant)
-- [Matt Richards’ 200m British freestyle gold secures Paris nomination](https://www.theguardian.com/sport/2024/apr/07/matt-richards-gold-british-swimming-championships-nomination-for-paris-2024)
+- [Purdue v UConn live updates: NCAA men’s national championship](https://www.theguardian.com/sport/live/2024/apr/08/ncaa-purdue-v-uconn-mens-championship-game-updates)
+- [The devil walking on Earth part 2 – podcast](https://www.theguardian.com/news/audio/2024/apr/09/the-devil-walking-on-earth-part-2-podcast)
+- [Ukraine war briefing: Three killed in second day of Russian attacks on Zaporizhzhia region, says governor](https://www.theguardian.com/world/2024/apr/09/ukraine-war-briefing-three-killed-in-second-day-of-russian-attacks-on-zaporizhzhia-region-says-governor)
+- [‘BJP v democracy’: India’s opposition alliance cries foul as election nears](https://www.theguardian.com/world/2024/apr/09/bjp-versus-democracy-india-opposition-alliance-cries-foul-as-election-nears)
+- [‘Bulging skulls and protruding eyes’: Ten features dog owners should avoid](https://www.theguardian.com/lifeandstyle/2024/apr/09/bulging-skulls-and-protruding-eyes-ten-features-dog-owners-should-avoid)
+- [Tesla settles lawsuit over 2018 fatal Autopilot crash of Apple engineer](https://www.theguardian.com/technology/2024/apr/08/tesla-crash-lawsuit-apple-engineer)
+- [Senior Labour figures call for ‘life-transforming’ Sure Start policy](https://www.theguardian.com/education/2024/apr/09/senior-labour-figures-call-for-life-transforming-sure-start-policy)
+- [David Cameron to set out UK basis for continuing arms sales to Israel](https://www.theguardian.com/politics/2024/apr/09/david-cameron-to-set-out-uk-basis-for-continuing-arms-sales-to-israel)
+- [UK retailers given hope of ‘green shoots of recovery’ after Easter pickup](https://www.theguardian.com/business/2024/apr/09/uk-retailers-given-hope-of-green-shoots-of-recovery-after-easter-pickup)
+- [Silver coin boom in medieval England due to melted down Byzantine treasures, study reveals](https://www.theguardian.com/science/2024/apr/09/silver-coin-boom-in-medieval-england-due-to-melted-down-byzantine-treasures-study-reveals)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

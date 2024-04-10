@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [What&#39;s for Dinner?](https://lucymcbride.substack.com/p/whats-for-dinner)
-- [AI-SaaS How-To Journey](https://fastproducts-io.beehiiv.com/p/aisaas-howto-journey)
-- [TikTok&#39;s popularity among European politicians rises despite security fears](https://www.reuters.com/technology/tiktoks-popularity-among-european-politicians-rises-despite-security-fears-2024-04-08/)
-- [PG&amp;E says there will be a 9-hour outage in my area](https://news.ycombinator.com/item?id=39975661)
-- [Google Workers Revolt over $1.2B Contract with Israel](https://time.com/6964364/exclusive-no-tech-for-apartheid-google-workers-protest-project-nimbus-1-2-billion-contract-with-israel/)
-- [How AI is useful for continuing education even as a 15+year programmer [video]](https://www.youtube.com/watch?v=Ye5zMENcMFY)
-- [Boom times for US green energy as federal cash flows in](https://www.bbc.com/news/business-68667140)
-- [Does Kubernetes give you multicloud portability?](https://medium.com/digital-mckinsey/does-kubernetes-really-give-you-multicloud-portability-476270a0acc7)
-- [Distributed SQLite: Paradigm shift or hype?](https://kerkour.com/distributed-sqlite)
-- [Nothing New Thing Under the Sun: Prohibition, Drugs and the Iron Law](https://www.econlib.org/nothing-new-thing-under-the-sun-prohibition-drugs-and-the-iron-law/)
+- [A microbial plastic factory for high-quality green plastic](https://www.kobe-u.ac.jp/en/news/article/20240403-65194/)
+- [Switching from iPhone to Android Is Easy. It&#39;s the Aftermath That Stings](https://www.nytimes.com/2024/04/03/technology/personaltech/iphone-android-ios-apple.html)
+- [Google unveils Arm-based data center processor, new AI chip](https://www.reuters.com/technology/google-unveils-arm-based-data-center-processor-new-ai-chip-2024-04-09/)
+- [AI Coding Is Going from Copilot to Autopilot](https://spectrum.ieee.org/ai-code-generator)
+- [Number of Distances Separating Points Has a New Bound](https://www.quantamagazine.org/number-of-distances-separating-points-has-a-new-bound-20240409/)
+- [Delimited Continuations, Demystified &lpar;2023&rpar; [video]](https://www.youtube.com/watch?v=DRFsodbxHQo)
+- [Yelp: Why GraphQL [pdf]](https://github.com/Yelp/graphql-guidelines/blob/main/why_graphql.pdf)
+- [California hasn&#39;t been tracking homeless programs&#39; effectiveness, audit finds](https://www.ktvu.com/news/california-hasnt-been-tracking-homeless-programs-effectiveness-audit-finds)
+- [Car Accident Law Firms Can Add Case Value Predictions Backed by AI on WordPress](https://wordpress.org/plugins/caseyak/)
+- [Tech Giants Cut Corners to Harvest Data for A.I](https://www.nytimes.com/2024/04/06/technology/tech-giants-harvest-data-artificial-intelligence.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

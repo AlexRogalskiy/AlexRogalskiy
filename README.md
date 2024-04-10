@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Distributed SQLite: Paradigm shift or hype?](https://kerkour.com/distributed-sqlite)
-- [DRAM mfgrs stop publishing contract DRAM prices after quake, price hike expected](https://www.tomshardware.com/tech-industry/memory-makers-reportedly-stop-publishing-contract-dram-prices-following-taiwan-earthquake-further-price-hikes-are-expected)
-- [Genesis of the “Golfball” Selectric](https://oztypewriter.blogspot.com/2011/08/on-this-day-in-typewriter-history_14.html)
-- [TSAC: Low Bitrate Audio Compression](https://bellard.org/tsac/)
-- [1.18k drawings of plant root systems](https://images.wur.nl/digital/collection/coll13/search)
-- [Predictive CPU isolation of containers at Netflix &lpar;2019&rpar;](https://netflixtechblog.com/predictive-cpu-isolation-of-containers-at-netflix-91f014d856c7?gi=c53c45dcda8b)
-- [Hello OLMo: A truly open LLM](https://blog.allenai.org/hello-olmo-a-truly-open-llm-43f7e7359222?gi=760105621962)
-- [UpCodes &lpar;YC S17&rpar; hiring devs to automate construction compliance](https://up.codes/careers?utm_source=HN)
-- [Llm.c – LLM training in simple, pure C/CUDA](https://github.com/karpathy/llm.c)
-- [GNU Stow needs a co-maintainer](https://savannah.gnu.org/bugs/index.php?65569)
+- [Mistral AI Launches New 8x22B Moe Model](https://twitter.com/MistralAI)
+- [Mixtral 8x22B Model](https://twitter.com/MistralAI/status/1777869263778291896)
+- [Why does part of the Windows 98 Setup program look older than the rest? &lpar;2020&rpar;](https://retrocomputing.stackexchange.com/questions/14903/why-does-part-of-the-windows-98-setup-program-look-older-than-the-rest)
+- [Building reliable systems out of unreliable agents](https://www.rainforestqa.com/blog/building-reliable-systems-out-of-unreliable-agents)
+- [The challenges of building modern open source software on PowerPC Mac OS X](http://www.netbsd.org/~nia/tigersrc/)
+- [Making an RISC-V OS &lpar;Part 3&rpar;: Managing free memory](https://traxys.me/riscv_os_buddy.html)
+- [Reflections of a bird collision monitor](https://www.audubon.org/es/node/149317)
+- [A MySQL compatible database engine written in pure Go](https://github.com/dolthub/go-mysql-server)
+- [Stalwart mail server &lpar;self-hosted all-in-one mail server&rpar; now as an admin webui](https://stalw.art/blog/stalwart-webadmin/)
+- [Evaluating faithfulness and content selection of LLMs in book-length summaries](https://arxiv.org/abs/2404.01261)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

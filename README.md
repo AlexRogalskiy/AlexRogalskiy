@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Purdue v UConn live updates: NCAA men’s national championship](https://www.theguardian.com/sport/live/2024/apr/08/ncaa-purdue-v-uconn-mens-championship-game-updates)
-- [The devil walking on Earth part 2 – podcast](https://www.theguardian.com/news/audio/2024/apr/09/the-devil-walking-on-earth-part-2-podcast)
-- [Ukraine war briefing: Three killed in second day of Russian attacks on Zaporizhzhia region, says governor](https://www.theguardian.com/world/2024/apr/09/ukraine-war-briefing-three-killed-in-second-day-of-russian-attacks-on-zaporizhzhia-region-says-governor)
-- [‘BJP v democracy’: India’s opposition alliance cries foul as election nears](https://www.theguardian.com/world/2024/apr/09/bjp-versus-democracy-india-opposition-alliance-cries-foul-as-election-nears)
-- [‘Bulging skulls and protruding eyes’: Ten features dog owners should avoid](https://www.theguardian.com/lifeandstyle/2024/apr/09/bulging-skulls-and-protruding-eyes-ten-features-dog-owners-should-avoid)
-- [Tesla settles lawsuit over 2018 fatal Autopilot crash of Apple engineer](https://www.theguardian.com/technology/2024/apr/08/tesla-crash-lawsuit-apple-engineer)
-- [Senior Labour figures call for ‘life-transforming’ Sure Start policy](https://www.theguardian.com/education/2024/apr/09/senior-labour-figures-call-for-life-transforming-sure-start-policy)
-- [David Cameron to set out UK basis for continuing arms sales to Israel](https://www.theguardian.com/politics/2024/apr/09/david-cameron-to-set-out-uk-basis-for-continuing-arms-sales-to-israel)
-- [UK retailers given hope of ‘green shoots of recovery’ after Easter pickup](https://www.theguardian.com/business/2024/apr/09/uk-retailers-given-hope-of-green-shoots-of-recovery-after-easter-pickup)
-- [Silver coin boom in medieval England due to melted down Byzantine treasures, study reveals](https://www.theguardian.com/science/2024/apr/09/silver-coin-boom-in-medieval-england-due-to-melted-down-byzantine-treasures-study-reveals)
+- [Profits over pipes: who should own our water? - podcast](https://www.theguardian.com/news/audio/2024/apr/10/profits-over-pipes-who-should-own-our-water-podcast)
+- [Joker: Folie à Deux: trailer for Joaquin Phoenix and Lady Gaga musical sequel released](https://www.theguardian.com/film/2024/apr/10/joker-2-folie-a-deux-trailer-musical-sequel-joaquin-phoenix-lady-gaga)
+- [Myanmar: is the junta’s grip on power weakening and what next for its leadership?](https://www.theguardian.com/world/2024/apr/10/myanmar-rebels-thailand-border-surrender-power-junta)
+- [Ukraine war briefing: Zaporizhzhia nuclear plant targeted by drones for third day](https://www.theguardian.com/world/2024/apr/10/ukraine-war-briefing-zaporizhzhia-nuclear-plant-targeted-by-drones-for-third-day)
+- [Italy hydroelectric plant explosion kills at least three workers](https://www.theguardian.com/world/2024/apr/10/italy-hydroelectric-plant-explosion-enel-death-toll-latest-update)
+- [Missouri death row inmate executed despite widespread calls for clemency](https://www.theguardian.com/us-news/2024/apr/09/missouri-executes-death-row-inmate-despite-clemency-support)
+- [Thousands of children unsure of gender identity ‘let down by NHS’, report finds](https://www.theguardian.com/society/2024/apr/10/thousands-of-children-unsure-of-gender-identity-let-down-by-nhs-report-finds)
+- [Mother criticises ‘agenda from above’ after release of Cass report](https://www.theguardian.com/society/2024/apr/10/mother-criticises-agenda-from-above-cass-report-trans)
+- [Paying bills a struggle for 7.4 million UK consumers, regulator finds](https://www.theguardian.com/business/2024/apr/10/paying-bills-a-struggle-for-74-million-uk-consumers-regulator-finds)
+- [Fox bones at ancient burial site suggest animal may have been kept as pet](https://www.theguardian.com/science/2024/apr/10/fox-bones-ancient-burial-site-argentina-pet)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

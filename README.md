@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Profits over pipes: who should own our water? - podcast](https://www.theguardian.com/news/audio/2024/apr/10/profits-over-pipes-who-should-own-our-water-podcast)
-- [Joker: Folie à Deux: trailer for Joaquin Phoenix and Lady Gaga musical sequel released](https://www.theguardian.com/film/2024/apr/10/joker-2-folie-a-deux-trailer-musical-sequel-joaquin-phoenix-lady-gaga)
-- [Myanmar: is the junta’s grip on power weakening and what next for its leadership?](https://www.theguardian.com/world/2024/apr/10/myanmar-rebels-thailand-border-surrender-power-junta)
-- [Ukraine war briefing: Zaporizhzhia nuclear plant targeted by drones for third day](https://www.theguardian.com/world/2024/apr/10/ukraine-war-briefing-zaporizhzhia-nuclear-plant-targeted-by-drones-for-third-day)
-- [Italy hydroelectric plant explosion kills at least three workers](https://www.theguardian.com/world/2024/apr/10/italy-hydroelectric-plant-explosion-enel-death-toll-latest-update)
-- [Missouri death row inmate executed despite widespread calls for clemency](https://www.theguardian.com/us-news/2024/apr/09/missouri-executes-death-row-inmate-despite-clemency-support)
-- [Thousands of children unsure of gender identity ‘let down by NHS’, report finds](https://www.theguardian.com/society/2024/apr/10/thousands-of-children-unsure-of-gender-identity-let-down-by-nhs-report-finds)
-- [Mother criticises ‘agenda from above’ after release of Cass report](https://www.theguardian.com/society/2024/apr/10/mother-criticises-agenda-from-above-cass-report-trans)
-- [Paying bills a struggle for 7.4 million UK consumers, regulator finds](https://www.theguardian.com/business/2024/apr/10/paying-bills-a-struggle-for-74-million-uk-consumers-regulator-finds)
-- [Fox bones at ancient burial site suggest animal may have been kept as pet](https://www.theguardian.com/science/2024/apr/10/fox-bones-ancient-burial-site-argentina-pet)
+- [Stormy Daniels, Donald Trump, and the start of the hush money trial – podcast](https://www.theguardian.com/news/audio/2024/apr/11/stormy-daniels-donald-trump-and-the-start-of-the-hush-money-trial-podcast)
+- [Introducing: Who screwed millennials? - podcast](https://www.theguardian.com/australia-news/audio/2024/apr/11/introducing-who-screwed-millennials-podcast)
+- [Cheap coal, cheap workers, Chinese money: Indonesia’s nickel success comes at a price](https://www.theguardian.com/world/2024/apr/11/cheap-coal-cheap-workers-chinese-money-indonesias-nickel-success-comes-at-a-price)
+- [China meddled in past two Canada elections, says Justin Trudeau](https://www.theguardian.com/world/2024/apr/11/china-election-interference-canada-justin-trudeau)
+- [Outcry in Ukraine after Kyiv scraps demobilisation plan for long-serving soldiers](https://www.theguardian.com/world/2024/apr/11/ukraine-demobilisation-plan-long-serving-soldiers-military-war-russia)
+- [South Korea: landslide win for opposition in parliamentary vote amid anger over economy](https://www.theguardian.com/world/2024/apr/11/south-korea-elections-opposition-victory-democratic-party-president-yoon-suk-yeol)
+- [Ukraine war briefing: Russian strikes kill seven people in Kharkiv and Odesa regions](https://www.theguardian.com/world/2024/apr/11/ukraine-war-briefing-russian-strikes-kill-seven-people-in-kharkiv-and-odesa-regions)
+- [New Brexit checks to cost UK business £2bn and fuel inflation, report finds](https://www.theguardian.com/politics/2024/apr/11/new-brexit-checks-to-cost-uk-business-2bn-and-fuel-inflation-report-finds)
+- [English schools could lose £1bn by 2030 as pupil numbers fall](https://www.theguardian.com/education/2024/apr/11/english-schools-could-lose-1bn-by-2030-as-pupil-numbers-fall)
+- [UK heat pump adopters open up homes to encourage others to ditch gas boilers](https://www.theguardian.com/environment/2024/apr/11/uk-heat-pump-adopters-open-up-homes-to-encourage-others-to-ditch-gas-boilers)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

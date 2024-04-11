@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [A microbial plastic factory for high-quality green plastic](https://www.kobe-u.ac.jp/en/news/article/20240403-65194/)
-- [Switching from iPhone to Android Is Easy. It&#39;s the Aftermath That Stings](https://www.nytimes.com/2024/04/03/technology/personaltech/iphone-android-ios-apple.html)
-- [Google unveils Arm-based data center processor, new AI chip](https://www.reuters.com/technology/google-unveils-arm-based-data-center-processor-new-ai-chip-2024-04-09/)
-- [AI Coding Is Going from Copilot to Autopilot](https://spectrum.ieee.org/ai-code-generator)
-- [Number of Distances Separating Points Has a New Bound](https://www.quantamagazine.org/number-of-distances-separating-points-has-a-new-bound-20240409/)
-- [Delimited Continuations, Demystified &lpar;2023&rpar; [video]](https://www.youtube.com/watch?v=DRFsodbxHQo)
-- [Yelp: Why GraphQL [pdf]](https://github.com/Yelp/graphql-guidelines/blob/main/why_graphql.pdf)
-- [California hasn&#39;t been tracking homeless programs&#39; effectiveness, audit finds](https://www.ktvu.com/news/california-hasnt-been-tracking-homeless-programs-effectiveness-audit-finds)
-- [Car Accident Law Firms Can Add Case Value Predictions Backed by AI on WordPress](https://wordpress.org/plugins/caseyak/)
-- [Tech Giants Cut Corners to Harvest Data for A.I](https://www.nytimes.com/2024/04/06/technology/tech-giants-harvest-data-artificial-intelligence.html)
+- [Google investing $1B to boost connectivity to Japan via two subsea cables](https://www.reuters.com/business/google-investing-1-bln-boost-connectivity-japan-via-two-subsea-cables-2024-04-10/)
+- [Quantum crystal of frozen electrons–the Wigner crystal–is visualized](https://phys.org/news/2024-04-quantum-crystal-frozen-electrons-wigner.html)
+- [Digging deeper into Trial using Mints &lpar;2022&rpar;](https://eclecticlight.co/2022/04/04/digging-deeper-into-trial-using-mints/)
+- [Ratarmount: Access large archives as a filesystem efficiently](https://github.com/mxmlnkn/ratarmount)
+- [The Four Most Divisive Words on a Flight: Will You Swap Seats?](https://www.wsj.com/lifestyle/travel/fights-switching-seats-fees-2041c6ed)
+- [We discovered an AWS access vulnerability](https://www.stedi.com/blog/stedi-discovered-an-aws-access-vulnerability)
+- [New Atlantis](https://en.wikipedia.org/wiki/New_Atlantis_(micronation))
+- [Taming Configuration Complexity Made Fun with Cue](https://www.infoq.com/presentations/cue-configuration/)
+- [MiniGPT4-Video](https://vision-cair.github.io/MiniGPT4-video/)
+- [What makes a great technical blog](https://notes.eatonphil.com/2024-04-10-what-makes-a-great-tech-blog.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

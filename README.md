@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Mistral AI Launches New 8x22B Moe Model](https://twitter.com/MistralAI)
-- [Mixtral 8x22B Model](https://twitter.com/MistralAI/status/1777869263778291896)
-- [Why does part of the Windows 98 Setup program look older than the rest? &lpar;2020&rpar;](https://retrocomputing.stackexchange.com/questions/14903/why-does-part-of-the-windows-98-setup-program-look-older-than-the-rest)
-- [Building reliable systems out of unreliable agents](https://www.rainforestqa.com/blog/building-reliable-systems-out-of-unreliable-agents)
-- [The challenges of building modern open source software on PowerPC Mac OS X](http://www.netbsd.org/~nia/tigersrc/)
-- [Making an RISC-V OS &lpar;Part 3&rpar;: Managing free memory](https://traxys.me/riscv_os_buddy.html)
-- [Reflections of a bird collision monitor](https://www.audubon.org/es/node/149317)
-- [A MySQL compatible database engine written in pure Go](https://github.com/dolthub/go-mysql-server)
-- [Stalwart mail server &lpar;self-hosted all-in-one mail server&rpar; now as an admin webui](https://stalw.art/blog/stalwart-webadmin/)
-- [Evaluating faithfulness and content selection of LLMs in book-length summaries](https://arxiv.org/abs/2404.01261)
+- [MixRank &lpar;YC S11&rpar; Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=39997376)
+- [Replacing Wires Could Double How Much Electricity the US Grid Can Handle](https://cleantechnica.com/2024/04/10/replacing-wires-could-double-how-much-electricity-the-us-grid-can-handle/)
+- [ETag and HTTP Caching](https://rednafi.com/misc/etag_and_http_caching/)
+- [When teaching computer architecture, why are universities using obscure CPUs?](https://academia.stackexchange.com/questions/209300/when-teaching-computer-architecture-why-are-universities-using-obscure-or-even)
+- [Why Can&#39;t My Mom Email Me?](https://matduggan.com/why-cant-my-mom-email-me/)
+- [World&#39;s Smallest CSV Parser &lpar;C#&rpar;](https://github.com/kjpgit/SmallestCSVParser)
+- [Aider: AI pair programming in your terminal](https://github.com/paul-gauthier/aider)
+- [Nimble: A new columnar file format by Meta [video]](https://www.youtube.com/watch?v=bISBNVtXZ6M)
+- [Libgourou: A Free Implementation of Adobe&#39;s Adept DRM on ePub/PDF Files](https://forge.soutade.fr/soutade/libgourou)
+- [Lens sort, a masked pixel sort glitch effect](https://github.com/BernardZhao/lenssort)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

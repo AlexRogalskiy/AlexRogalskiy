@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Google investing $1B to boost connectivity to Japan via two subsea cables](https://www.reuters.com/business/google-investing-1-bln-boost-connectivity-japan-via-two-subsea-cables-2024-04-10/)
-- [Quantum crystal of frozen electrons–the Wigner crystal–is visualized](https://phys.org/news/2024-04-quantum-crystal-frozen-electrons-wigner.html)
-- [Digging deeper into Trial using Mints &lpar;2022&rpar;](https://eclecticlight.co/2022/04/04/digging-deeper-into-trial-using-mints/)
-- [Ratarmount: Access large archives as a filesystem efficiently](https://github.com/mxmlnkn/ratarmount)
-- [The Four Most Divisive Words on a Flight: Will You Swap Seats?](https://www.wsj.com/lifestyle/travel/fights-switching-seats-fees-2041c6ed)
-- [We discovered an AWS access vulnerability](https://www.stedi.com/blog/stedi-discovered-an-aws-access-vulnerability)
-- [New Atlantis](https://en.wikipedia.org/wiki/New_Atlantis_(micronation))
-- [Taming Configuration Complexity Made Fun with Cue](https://www.infoq.com/presentations/cue-configuration/)
-- [MiniGPT4-Video](https://vision-cair.github.io/MiniGPT4-video/)
-- [What makes a great technical blog](https://notes.eatonphil.com/2024-04-10-what-makes-a-great-tech-blog.html)
+- [Dr. Andrew Ng Appointed to Amazon&#39;s Board of Directors](https://www.aboutamazon.com/news/company-news/dr-andrew-ng-joins-amazon-board-of-directors)
+- [Occupancy Rates in Eclipse Path](https://twitter.com/jamie_lane/status/1775281707358335296)
+- [Why ETL Becomes ELT or Even Let？](https://github.com/SPLWare/esProc/wiki/Why-ETL-Becomes-ELT-or-Even-LET%EF%BC%9F)
+- [Leave No Context Behind: Efficient Infinite Context Transformers](https://arxiv.org/abs/2404.07143)
+- [DwarFS – The Deduplicating Warp-Speed Advanced Read-Only File System](https://github.com/mhx/dwarfs)
+- [Apple joins tech exodus to Florida](https://fortune.com/2024/04/09/apple-florida-iphone-office-miami/)
+- [Kyle Corbitt teases Llama 3 release next week](https://twitter.com/corbtt/status/1778568618051305850)
+- [Texas Legalizes Kei Trucks](https://jalopnik.com/texas-proves-its-commitment-to-freedom-by-legalizing-ke-1851403280)
+- [How to create C binding for a Rust library](https://developers.redhat.com/articles/2022/09/05/how-create-c-binding-rust-library)
+- [Russian hackers steal US Government emails with Microsoft, officials confirm](https://www.cnn.com/2024/04/11/politics/russian-hackers-steal-government-hackers-microsoft/index.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

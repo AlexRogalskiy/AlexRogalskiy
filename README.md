@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [MixRank &lpar;YC S11&rpar; Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=39997376)
-- [Replacing Wires Could Double How Much Electricity the US Grid Can Handle](https://cleantechnica.com/2024/04/10/replacing-wires-could-double-how-much-electricity-the-us-grid-can-handle/)
-- [ETag and HTTP Caching](https://rednafi.com/misc/etag_and_http_caching/)
-- [When teaching computer architecture, why are universities using obscure CPUs?](https://academia.stackexchange.com/questions/209300/when-teaching-computer-architecture-why-are-universities-using-obscure-or-even)
-- [Why Can&#39;t My Mom Email Me?](https://matduggan.com/why-cant-my-mom-email-me/)
-- [World&#39;s Smallest CSV Parser &lpar;C#&rpar;](https://github.com/kjpgit/SmallestCSVParser)
-- [Aider: AI pair programming in your terminal](https://github.com/paul-gauthier/aider)
-- [Nimble: A new columnar file format by Meta [video]](https://www.youtube.com/watch?v=bISBNVtXZ6M)
-- [Libgourou: A Free Implementation of Adobe&#39;s Adept DRM on ePub/PDF Files](https://forge.soutade.fr/soutade/libgourou)
-- [Lens sort, a masked pixel sort glitch effect](https://github.com/BernardZhao/lenssort)
+- [An Introduction to Flow Matching](https://mlg.eng.cam.ac.uk/blog/2024/01/20/flow-matching.html)
+- [Amazon virtually kills efforts to develop Alexa Skills, disappointing dozens](https://arstechnica.com/gadgets/2024/04/amazon-virtually-kills-efforts-to-develop-alexa-skills-disappointing-dozens/)
+- [Etleap &lpar;YC W13&rpar; is hiring an account executive in San Francisco](https://etleap.com/careers/account-executive/)
+- [Why CISA Is Warning CISOs About a Breach at Sisense](https://krebsonsecurity.com/2024/04/why-cisa-is-warning-cisos-about-a-breach-at-sisense/)
+- [Using ClickHouse to scale an events engine](https://github.com/getlago/lago/wiki/Using-Clickhouse-to-scale-an-events-engine)
+- [Why birds survived and dinosaurs went extinct after an asteroid hit earth &lpar;2020&rpar;](https://www.smithsonianmag.com/science-nature/why-birds-survived-and-dinosaurs-went-extinct-after-asteroid-hit-earth-180975801/)
+- [Storm: LLM system that researches a topic and generates full-length wiki article](https://github.com/stanford-oval/storm)
+- [Vortex: OpenCL compatible RISC-V GPGPU](https://vortex.cc.gatech.edu/)
+- [Show HN: I made a new sensor out of 3D printer filament for my PhD](https://paulbupejr.com/developing-the-optigap-sensor-system/)
+- [New paintings found at Pompeii](https://www.bbc.com/news/science-environment-68777741)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

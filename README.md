@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Why are so many carers being prosecuted by the UK government?](https://www.theguardian.com/news/audio/2024/apr/12/why-are-so-many-carers-being-prosecuted-by-the-uk-government)
-- [Ukraine war briefing: Kyiv electricity plant destroyed by Russian missiles and drones](https://www.theguardian.com/world/2024/apr/12/ukraine-war-briefing-kyiv-electricity-plant-destroyed-by-russian-missiles-and-drones)
-- [‘The old days are no more’: Hong Kong goes quiet as security laws tighten their grip](https://www.theguardian.com/world/2024/apr/12/hong-kong-national-security-law-2020-impacts)
-- [Kari Lake denounces Arizona abortion ban that she once supported](https://www.theguardian.com/world/2024/apr/11/kari-lake-arizona-abortion-reversal)
-- [Biden pledges to defend Philippines from any attack in South China Sea](https://www.theguardian.com/world/2024/apr/12/joe-biden-philippines-attack-defence-meeting-japan-south-china-sea)
-- [Gardener ‘honoured’ to join gallery of servants at Welsh country house](https://www.theguardian.com/uk-news/2024/apr/12/gardener-honoured-to-join-gallery-of-servants-at-welsh-country-house)
-- [Premier League: 10 things to look out for this weekend](https://www.theguardian.com/football/2024/apr/12/premier-league-10-things-to-look-out-for-this-weekend)
-- [Player Kings review – Ian McKellen’s richly complex Falstaff is magnetic](https://www.theguardian.com/stage/2024/apr/11/player-kings-review-ian-mckellen-falstaff-noel-coward-theatre-london)
-- [Bryson DeChambeau sets pace at Masters with first-round 65](https://www.theguardian.com/sport/2024/apr/11/bryson-dechambeau-sets-pace-at-masters-with-first-round-65)
-- [Tennessee legislature passes bill banning marriage between first cousins](https://www.theguardian.com/us-news/2024/apr/11/tennessee-marriage-ban-first-cousins)
+- [Eleanor Coppola, Emmy award winning director, dies aged 87](https://www.theguardian.com/culture/2024/apr/12/eleanor-coppola-dies-aged-87)
+- [Iranian attack on Israel expected ‘sooner rather than later’, says Joe Biden](https://www.theguardian.com/world/2024/apr/12/france-diplomats-families-iran-israel-travel-warnings)
+- [Roberto Cavalli, flamboyant Italian fashion designer, dies aged 83](https://www.theguardian.com/fashion/2024/apr/12/roberto-cavalli-flamboyant-italian-fashion-designer-dies-aged-83)
+- [Judge rejects defense efforts to dismiss Hunter Biden’s federal gun case](https://www.theguardian.com/us-news/2024/apr/12/hunter-biden-gun-charges-case)
+- [‘The perceived scrutiny is immense’: how weddings can worsen eating and body image disorders](https://www.theguardian.com/lifeandstyle/2024/apr/13/the-perceived-scrutiny-is-immense-how-weddings-can-worsen-eating-and-body-image-disorders)
+- [Australians dropping fruit and vegetables from diet amid cost-of-living crisis](https://www.theguardian.com/australia-news/2024/apr/13/australians-dropping-fruit-and-vegetables-from-diet-amid-cost-of-living-crisis)
+- [Australia’s surf star Ethan Ewing: ‘Anything to do with the Olympics is on another level’ | Kieran Pender](https://www.theguardian.com/sport/2024/apr/13/ethan-ewing-australian-surfer-paris-olympics-2024-australia-team)
+- [Trump boasts ‘We broke Roe v Wade’ as abortion dogs GOP election hopes](https://www.theguardian.com/us-news/2024/apr/12/donald-trump-abortion-roe-v-wade-election)
+- [DeChambeau weathers blustery second day at Masters as Johnson blows his top](https://www.theguardian.com/sport/2024/apr/13/dechambeau-homa-second-day-masters-golf)
+- [Kamala Harris blames Donald Trump for Arizona abortion-ban debacle in speech](https://www.theguardian.com/us-news/2024/apr/12/kamala-harris-blames-trump-arizona-abortion-ban)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

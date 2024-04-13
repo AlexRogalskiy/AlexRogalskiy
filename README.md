@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Dr. Andrew Ng Appointed to Amazon&#39;s Board of Directors](https://www.aboutamazon.com/news/company-news/dr-andrew-ng-joins-amazon-board-of-directors)
-- [Occupancy Rates in Eclipse Path](https://twitter.com/jamie_lane/status/1775281707358335296)
-- [Why ETL Becomes ELT or Even Let？](https://github.com/SPLWare/esProc/wiki/Why-ETL-Becomes-ELT-or-Even-LET%EF%BC%9F)
-- [Leave No Context Behind: Efficient Infinite Context Transformers](https://arxiv.org/abs/2404.07143)
-- [DwarFS – The Deduplicating Warp-Speed Advanced Read-Only File System](https://github.com/mhx/dwarfs)
-- [Apple joins tech exodus to Florida](https://fortune.com/2024/04/09/apple-florida-iphone-office-miami/)
-- [Kyle Corbitt teases Llama 3 release next week](https://twitter.com/corbtt/status/1778568618051305850)
-- [Texas Legalizes Kei Trucks](https://jalopnik.com/texas-proves-its-commitment-to-freedom-by-legalizing-ke-1851403280)
-- [How to create C binding for a Rust library](https://developers.redhat.com/articles/2022/09/05/how-create-c-binding-rust-library)
-- [Russian hackers steal US Government emails with Microsoft, officials confirm](https://www.cnn.com/2024/04/11/politics/russian-hackers-steal-government-hackers-microsoft/index.html)
+- [Hügelkultur](https://en.wikipedia.org/wiki/H%C3%BCgelkultur)
+- [Show HN: Internet Income Passive Money](https://github.com/engageub/InternetIncome)
+- [Show HN: Solve &quot;How to find numbers that add up to a target&quot; once and for all](https://news.ycombinator.com/item?id=40019717)
+- [College basketball is changing. UConn&#39;s crushing superiority stays the same](https://www.theguardian.com/sport/2024/apr/09/college-basketball-is-changing-uconns-crushing-superiority-stays-the-same)
+- [Grok-1.5 Vision Preview](https://x.ai/blog/grok-1.5v)
+- [Is Dolby Atmos the Future of Music?](https://innovationnation.blog/p/is-dolby-atmos-the-future-of-music)
+- [Rust proposal for ABI for higher-level languages](https://github.com/rust-lang/compiler-team/issues/631)
+- [Ask HN: Diagramming AI Tools?](https://news.ycombinator.com/item?id=40019697)
+- [Giant battery to be installed underground as deep as Empire State Building](https://www.thecooldown.com/green-tech/utah-underground-hydrogen-storage-plant-battery/)
+- [Sag-AFTRA union secures AI protections for artists in deal with record labels](https://www.reuters.com/world/us/sag-aftra-union-secures-ai-protections-artists-deal-with-major-record-labels-2024-04-12/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

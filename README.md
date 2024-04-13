@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [An Introduction to Flow Matching](https://mlg.eng.cam.ac.uk/blog/2024/01/20/flow-matching.html)
-- [Amazon virtually kills efforts to develop Alexa Skills, disappointing dozens](https://arstechnica.com/gadgets/2024/04/amazon-virtually-kills-efforts-to-develop-alexa-skills-disappointing-dozens/)
-- [Etleap &lpar;YC W13&rpar; is hiring an account executive in San Francisco](https://etleap.com/careers/account-executive/)
-- [Why CISA Is Warning CISOs About a Breach at Sisense](https://krebsonsecurity.com/2024/04/why-cisa-is-warning-cisos-about-a-breach-at-sisense/)
-- [Using ClickHouse to scale an events engine](https://github.com/getlago/lago/wiki/Using-Clickhouse-to-scale-an-events-engine)
-- [Why birds survived and dinosaurs went extinct after an asteroid hit earth &lpar;2020&rpar;](https://www.smithsonianmag.com/science-nature/why-birds-survived-and-dinosaurs-went-extinct-after-asteroid-hit-earth-180975801/)
-- [Storm: LLM system that researches a topic and generates full-length wiki article](https://github.com/stanford-oval/storm)
-- [Vortex: OpenCL compatible RISC-V GPGPU](https://vortex.cc.gatech.edu/)
-- [Show HN: I made a new sensor out of 3D printer filament for my PhD](https://paulbupejr.com/developing-the-optigap-sensor-system/)
-- [New paintings found at Pompeii](https://www.bbc.com/news/science-environment-68777741)
+- [Your LLM Is a Capable Regressor When Given In-Context Examples](https://arxiv.org/abs/2404.07544)
+- [Japanese Police Arrest Man for Tampering with Pokémon Violet Save Data](https://www.ign.com/articles/japanese-police-arrest-36-year-old-man-on-suspicion-of-tampering-with-pokemon-violet-save-data)
+- [I Continue to No Longer Attend Vintage Computer Festivals](http://ascii.textfiles.com/archives/5591)
+- [OpenEQA: Embodied Question Answering in the Era of Foundation Models](https://open-eqa.github.io/)
+- [Show HN: A searchable public database of cheaters in video games](https://www.gamingherd.com/toxic-db)
+- [XZ backdoor story – Initial analysis](https://securelist.com/xz-backdoor-story-part-1/112354/)
+- [Show HN: Mazelit - My wife and I released our first game](https://news.ycombinator.com/item?id=40017180)
+- [Palo Alto Networks PAN-OS Zero-Day Exploitation](https://www.volexity.com/blog/2024/04/12/zero-day-exploitation-of-unauthenticated-remote-code-execution-vulnerability-in-globalprotect-cve-2024-3400/)
+- [Green&#39;s Dictionary of Slang](https://greensdictofslang.com/)
+- [Tell HN: Bypass Paywalls repository is gone](https://news.ycombinator.com/item?id=40015961)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

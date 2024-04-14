@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Hügelkultur](https://en.wikipedia.org/wiki/H%C3%BCgelkultur)
-- [Show HN: Internet Income Passive Money](https://github.com/engageub/InternetIncome)
-- [Show HN: Solve &quot;How to find numbers that add up to a target&quot; once and for all](https://news.ycombinator.com/item?id=40019717)
-- [College basketball is changing. UConn&#39;s crushing superiority stays the same](https://www.theguardian.com/sport/2024/apr/09/college-basketball-is-changing-uconns-crushing-superiority-stays-the-same)
-- [Grok-1.5 Vision Preview](https://x.ai/blog/grok-1.5v)
-- [Is Dolby Atmos the Future of Music?](https://innovationnation.blog/p/is-dolby-atmos-the-future-of-music)
-- [Rust proposal for ABI for higher-level languages](https://github.com/rust-lang/compiler-team/issues/631)
-- [Ask HN: Diagramming AI Tools?](https://news.ycombinator.com/item?id=40019697)
-- [Giant battery to be installed underground as deep as Empire State Building](https://www.thecooldown.com/green-tech/utah-underground-hydrogen-storage-plant-battery/)
-- [Sag-AFTRA union secures AI protections for artists in deal with record labels](https://www.reuters.com/world/us/sag-aftra-union-secures-ai-protections-artists-deal-with-major-record-labels-2024-04-12/)
+- [Offline LLM AI Android Tablet for Kids Pre-Order](http://aikidstablet.com/)
+- [1,800-year-old Roman statue discovered in parking lot](https://www.cnn.com/2024/03/19/style/roman-statue-parking-lot-intl-scn-scli/index.html)
+- [King Bruno the Chimpanzee](https://underthebanyan.blog/2013/02/04/king-bruno-a-chimpanzees-tale-of-tragedy-and-hope/)
+- [Autonomous Self-Balancing Electric Bicycle](https://gizmodo.com/your-brain-will-have-a-hard-time-processing-this-self-b-1847091454)
+- [Making Ijq Fast](https://gpanders.com/blog/making-ijq-fast/)
+- [Bunkchat: Local-only chat for tilde servers written in Posix sh](https://git.bunk.computer/bunk/bunkchat)
+- [Can Squirrels Die from Falling?](https://www.learnaboutnature.com/mammals/squirrels/can-squirrels-die-from-falling/)
+- [Amazon&#39;s Push to Crack Trader Joe&#39;s–and Dominate Everything](https://www.wsj.com/articles/amazon-the-everything-war-dana-mattioli-4966915d)
+- [The Computer Scientist Who Can&#39;t Stop Telling Stories](https://www.quantamagazine.org/computer-scientist-donald-knuth-cant-stop-telling-stories-20200416/)
+- [Why Arabs Lose Wars &lpar;2000&rpar;](https://ciaotest.cc.columbia.edu/olj/meria/meria00_den01.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

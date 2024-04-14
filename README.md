@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Your LLM Is a Capable Regressor When Given In-Context Examples](https://arxiv.org/abs/2404.07544)
-- [Japanese Police Arrest Man for Tampering with Pokémon Violet Save Data](https://www.ign.com/articles/japanese-police-arrest-36-year-old-man-on-suspicion-of-tampering-with-pokemon-violet-save-data)
-- [I Continue to No Longer Attend Vintage Computer Festivals](http://ascii.textfiles.com/archives/5591)
-- [OpenEQA: Embodied Question Answering in the Era of Foundation Models](https://open-eqa.github.io/)
-- [Show HN: A searchable public database of cheaters in video games](https://www.gamingherd.com/toxic-db)
-- [XZ backdoor story – Initial analysis](https://securelist.com/xz-backdoor-story-part-1/112354/)
-- [Show HN: Mazelit - My wife and I released our first game](https://news.ycombinator.com/item?id=40017180)
-- [Palo Alto Networks PAN-OS Zero-Day Exploitation](https://www.volexity.com/blog/2024/04/12/zero-day-exploitation-of-unauthenticated-remote-code-execution-vulnerability-in-globalprotect-cve-2024-3400/)
-- [Green&#39;s Dictionary of Slang](https://greensdictofslang.com/)
-- [Tell HN: Bypass Paywalls repository is gone](https://news.ycombinator.com/item?id=40015961)
+- [Show HN: Comprehensive inter-process communication &lpar;IPC&rpar; toolkit in modern C++](https://github.com/Flow-IPC)
+- [US finalizes rules for &#39;forever chemicals&#39; in drinking water](https://www.theverge.com/2024/4/10/24125488/epa-pfas-forever-chemicals-drinking-water-standards)
+- [Dano is a wrapper for FFmpeg that checksums the internal file streams](https://github.com/kimono-koans/dano)
+- [Super Mario 64&#39;s invisible walls explained [video]](https://www.youtube.com/watch?v=YsXCVsDFiXA)
+- [Ford Mustang Mach-E using BlueCruise at time of crash: NTSB](https://fordauthority.com/2024/04/ford-mustang-mach-e-using-bluecruise-at-time-of-crash-ntsb/)
+- [Show HN: ZSV &lpar;Zip Separated Values&rpar; columnar data format](https://github.com/Hafthor/zsvutil)
+- [The Stacks Project: A Wikipedia of algebraic geometry &lpar;2022&rpar;](https://news.columbia.edu/news/stacks-project-johan-dejong)
+- [Summers: Inflation Reached 18% in 2022 Using the Government&#39;s Previous Formula](https://www.forbes.com/sites/theapothecary/2024/03/23/summers-inflation-reached-18-in-2022-using-the-governments-previous-formula/)
+- [The darker side of being a doctor](https://drericlevi.substack.com/p/the-darker-side-of-being-a-doctor)
+- [Careful with That Lock, Eugene](https://kaveland.no/careful-with-that-lock-eugene.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

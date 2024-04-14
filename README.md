@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Eleanor Coppola, Emmy award winning director, dies aged 87](https://www.theguardian.com/culture/2024/apr/12/eleanor-coppola-dies-aged-87)
-- [Iranian attack on Israel expected ‘sooner rather than later’, says Joe Biden](https://www.theguardian.com/world/2024/apr/12/france-diplomats-families-iran-israel-travel-warnings)
-- [Roberto Cavalli, flamboyant Italian fashion designer, dies aged 83](https://www.theguardian.com/fashion/2024/apr/12/roberto-cavalli-flamboyant-italian-fashion-designer-dies-aged-83)
-- [Judge rejects defense efforts to dismiss Hunter Biden’s federal gun case](https://www.theguardian.com/us-news/2024/apr/12/hunter-biden-gun-charges-case)
-- [‘The perceived scrutiny is immense’: how weddings can worsen eating and body image disorders](https://www.theguardian.com/lifeandstyle/2024/apr/13/the-perceived-scrutiny-is-immense-how-weddings-can-worsen-eating-and-body-image-disorders)
-- [Australians dropping fruit and vegetables from diet amid cost-of-living crisis](https://www.theguardian.com/australia-news/2024/apr/13/australians-dropping-fruit-and-vegetables-from-diet-amid-cost-of-living-crisis)
-- [Australia’s surf star Ethan Ewing: ‘Anything to do with the Olympics is on another level’ | Kieran Pender](https://www.theguardian.com/sport/2024/apr/13/ethan-ewing-australian-surfer-paris-olympics-2024-australia-team)
-- [Trump boasts ‘We broke Roe v Wade’ as abortion dogs GOP election hopes](https://www.theguardian.com/us-news/2024/apr/12/donald-trump-abortion-roe-v-wade-election)
-- [DeChambeau weathers blustery second day at Masters as Johnson blows his top](https://www.theguardian.com/sport/2024/apr/13/dechambeau-homa-second-day-masters-golf)
-- [Kamala Harris blames Donald Trump for Arizona abortion-ban debacle in speech](https://www.theguardian.com/us-news/2024/apr/12/kamala-harris-blames-trump-arizona-abortion-ban)
+- [Bondi Junction mass stabbing live updates: Ashlee Good’s family ‘reeling from terrible loss’; Sydney attacker named by police – latest news](https://www.theguardian.com/australia-news/live/2024/apr/14/australia-news-live-bondi-junction-westfield-mass-stabbing-sydney-nsw-police-karen-webb)
+- [Iran attack: nearly all drones and missiles in ‘unprecedented’ attack on Israel were taken down, says Biden – live](https://www.theguardian.com/world/live/2024/apr/13/iran-launches-drone-attack-against-israel)
+- [Ukraine war briefing: Ukraine’s army chief says eastern front has ‘deteriorated significantly’](https://www.theguardian.com/world/2024/apr/14/ukraine-war-briefing-ukraines-army-chief-says-eastern-front-has-deteriorated-significantly)
+- [Iran launches hundreds of drones and cruise missiles at Israel in unprecedented attack](https://www.theguardian.com/world/2024/apr/13/israel-under-fire-as-iran-launches-extensive-drone-strikes)
+- [Bruce Lehrmann and Brittany Higgins saga: the night that spawned more than a dozen legal cases](https://www.theguardian.com/law/2024/apr/14/bruce-lehrmann-and-brittany-higgins-saga-the-night-that-spawned-more-than-a-dozen-legal-cases-ntwnfb)
+- [Iran launches drone and missile strike against Israel as Biden rushes back to White House](https://www.theguardian.com/us-news/2024/apr/13/biden-white-house-israel-iran-tension)
+- [US and UK forces help shoot down Iranian drones over Jordan, Syria and Iraq](https://www.theguardian.com/world/2024/apr/14/us-and-uk-forces-help-shoot-down-iranian-drones-over-jordan-syria-and-iraq)
+- [Living with frozen shoulder: ‘It was as if someone had been hitting my arm with a baseball bat’](https://www.theguardian.com/society/2024/apr/14/living-with-frozen-shoulder-it-was-as-if-someone-had-been-hitting-my-arm-with-a-baseball-bat)
+- [‘You can make meaningful relationships’: how does friendship change in older age?](https://www.theguardian.com/lifeandstyle/2024/apr/14/you-can-make-meaningful-relationships-how-does-friendship-change-in-older-age)
+- [Tiger Woods makes unwanted Masters history while Scheffler edges into lead](https://www.theguardian.com/sport/2024/apr/14/tiger-woods-scottie-scheffler-masters-golf)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

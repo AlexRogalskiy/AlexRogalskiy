@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Offline LLM AI Android Tablet for Kids Pre-Order](http://aikidstablet.com/)
-- [1,800-year-old Roman statue discovered in parking lot](https://www.cnn.com/2024/03/19/style/roman-statue-parking-lot-intl-scn-scli/index.html)
-- [King Bruno the Chimpanzee](https://underthebanyan.blog/2013/02/04/king-bruno-a-chimpanzees-tale-of-tragedy-and-hope/)
-- [Autonomous Self-Balancing Electric Bicycle](https://gizmodo.com/your-brain-will-have-a-hard-time-processing-this-self-b-1847091454)
-- [Making Ijq Fast](https://gpanders.com/blog/making-ijq-fast/)
-- [Bunkchat: Local-only chat for tilde servers written in Posix sh](https://git.bunk.computer/bunk/bunkchat)
-- [Can Squirrels Die from Falling?](https://www.learnaboutnature.com/mammals/squirrels/can-squirrels-die-from-falling/)
-- [Amazon&#39;s Push to Crack Trader Joe&#39;s–and Dominate Everything](https://www.wsj.com/articles/amazon-the-everything-war-dana-mattioli-4966915d)
-- [The Computer Scientist Who Can&#39;t Stop Telling Stories](https://www.quantamagazine.org/computer-scientist-donald-knuth-cant-stop-telling-stories-20200416/)
-- [Why Arabs Lose Wars &lpar;2000&rpar;](https://ciaotest.cc.columbia.edu/olj/meria/meria00_den01.html)
+- [Phononic switching of magnetization by the ultrafast Barnett effect](https://www.nature.com/articles/s41586-024-07200-x)
+- [A Brief Aside on &quot;Why&quot;](https://kn100.me/why/)
+- [Can Large Language Models Reason and Plan?](https://arxiv.org/abs/2403.04121)
+- [New Method Fine-Tunes LLMs with 10x Less Data, Even Rivals In-Context Learning](https://paperswithcode.com/paper/token-efficient-leverage-learning-in-large)
+- [God&#39;s Birthday: April 15th](https://news.ycombinator.com/item?id=40036868)
+- [Anarchy in the US, Part 3 &lpar;Was This Martial Law?&rpar;](https://albertcory50.substack.com/p/anarchy-in-the-us-part-3)
+- [Smartphone ray tracing is here, but is it the real deal? &lpar;2023&rpar;](https://www.androidauthority.com/smartphone-ray-tracing-fact-check-3236029/)
+- [The Hot Peace Between China and India](https://thediplomat.com/2024/04/the-hot-peace-between-china-and-india/)
+- [Show HN: Solo founder launched iOS Development Agency as a Subscription](https://www.swiftapplab.com/)
+- [Ask HN: What spending commitments do you have with AWS?](https://news.ycombinator.com/item?id=40036779)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

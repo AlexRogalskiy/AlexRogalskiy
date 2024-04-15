@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Show HN: Comprehensive inter-process communication &lpar;IPC&rpar; toolkit in modern C++](https://github.com/Flow-IPC)
-- [US finalizes rules for &#39;forever chemicals&#39; in drinking water](https://www.theverge.com/2024/4/10/24125488/epa-pfas-forever-chemicals-drinking-water-standards)
-- [Dano is a wrapper for FFmpeg that checksums the internal file streams](https://github.com/kimono-koans/dano)
-- [Super Mario 64&#39;s invisible walls explained [video]](https://www.youtube.com/watch?v=YsXCVsDFiXA)
-- [Ford Mustang Mach-E using BlueCruise at time of crash: NTSB](https://fordauthority.com/2024/04/ford-mustang-mach-e-using-bluecruise-at-time-of-crash-ntsb/)
-- [Show HN: ZSV &lpar;Zip Separated Values&rpar; columnar data format](https://github.com/Hafthor/zsvutil)
-- [The Stacks Project: A Wikipedia of algebraic geometry &lpar;2022&rpar;](https://news.columbia.edu/news/stacks-project-johan-dejong)
-- [Summers: Inflation Reached 18% in 2022 Using the Government&#39;s Previous Formula](https://www.forbes.com/sites/theapothecary/2024/03/23/summers-inflation-reached-18-in-2022-using-the-governments-previous-formula/)
-- [The darker side of being a doctor](https://drericlevi.substack.com/p/the-darker-side-of-being-a-doctor)
-- [Careful with That Lock, Eugene](https://kaveland.no/careful-with-that-lock-eugene.html)
+- [Frank Zappa on Crossfire about censoring rock lyrics &lpar;1986&rpar; [video]](https://www.youtube.com/watch?v=B9856_xv8gc)
+- [Construction on &quot;the largest wildlife crossing&quot; starts Monday](https://101wildlifecrossing.org/)
+- [Thermoelectric Cooling](https://thermoelectricsolutions.com/how-thermoelectric-cooling-works/)
+- [Computer-generated holography with ordinary display](https://opg.optica.org/ol/abstract.cfm?uri=ol-49-8-1876)
+- [RocketStar tests fusion-enhanced in-space propulsion process](https://www.aerospacetestinginternational.com/news/space/rocketstar-tests-fusion-enhanced-in-space-propulsion-process.html)
+- [Dumping Parallel NAND with Glasgow](https://colinoflynn.com/2024/04/dumping-parallel-nand-with-glasgow/)
+- [Spectral Ray Tracing](https://larswander.com/writing/spectral-ray-tracing/)
+- [Visualizing Attention, a Transformer&#39;s Heart [video]](https://www.3blue1brown.com/lessons/attention)
+- [WireViz: Easily document cables and wiring harnesses](https://github.com/wireviz/WireViz)
+- [Integral Calculator](https://www.integral-calculator.com/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

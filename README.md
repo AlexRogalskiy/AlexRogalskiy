@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Bondi Junction mass stabbing live updates: Ashlee Good’s family ‘reeling from terrible loss’; Sydney attacker named by police – latest news](https://www.theguardian.com/australia-news/live/2024/apr/14/australia-news-live-bondi-junction-westfield-mass-stabbing-sydney-nsw-police-karen-webb)
-- [Iran attack: nearly all drones and missiles in ‘unprecedented’ attack on Israel were taken down, says Biden – live](https://www.theguardian.com/world/live/2024/apr/13/iran-launches-drone-attack-against-israel)
-- [Ukraine war briefing: Ukraine’s army chief says eastern front has ‘deteriorated significantly’](https://www.theguardian.com/world/2024/apr/14/ukraine-war-briefing-ukraines-army-chief-says-eastern-front-has-deteriorated-significantly)
-- [Iran launches hundreds of drones and cruise missiles at Israel in unprecedented attack](https://www.theguardian.com/world/2024/apr/13/israel-under-fire-as-iran-launches-extensive-drone-strikes)
-- [Bruce Lehrmann and Brittany Higgins saga: the night that spawned more than a dozen legal cases](https://www.theguardian.com/law/2024/apr/14/bruce-lehrmann-and-brittany-higgins-saga-the-night-that-spawned-more-than-a-dozen-legal-cases-ntwnfb)
-- [Iran launches drone and missile strike against Israel as Biden rushes back to White House](https://www.theguardian.com/us-news/2024/apr/13/biden-white-house-israel-iran-tension)
-- [US and UK forces help shoot down Iranian drones over Jordan, Syria and Iraq](https://www.theguardian.com/world/2024/apr/14/us-and-uk-forces-help-shoot-down-iranian-drones-over-jordan-syria-and-iraq)
-- [Living with frozen shoulder: ‘It was as if someone had been hitting my arm with a baseball bat’](https://www.theguardian.com/society/2024/apr/14/living-with-frozen-shoulder-it-was-as-if-someone-had-been-hitting-my-arm-with-a-baseball-bat)
-- [‘You can make meaningful relationships’: how does friendship change in older age?](https://www.theguardian.com/lifeandstyle/2024/apr/14/you-can-make-meaningful-relationships-how-does-friendship-change-in-older-age)
-- [Tiger Woods makes unwanted Masters history while Scheffler edges into lead](https://www.theguardian.com/sport/2024/apr/14/tiger-woods-scottie-scheffler-masters-golf)
+- [Rage, waste and corruption: how Covid changed politics – podcast](https://www.theguardian.com/news/audio/2024/apr/15/rage-waste-and-corruption-how-covid-changed-politics-podcast)
+- [Middle East crisis live: Israel calls for new sanctions on Iran at heated UN security council meeting](https://www.theguardian.com/world/live/2024/apr/15/middle-east-crisis-live-news-iran-drone-attack-israel-latest-updates)
+- [How Swiss women won a landmark climate case for Europe - podcast](https://www.theguardian.com/news/audio/2024/apr/15/how-swiss-women-won-a-landmark-climate-case-for-europe-podcast)
+- [Iran attack puts pressure on US House speaker to pass aid bill for Israel and Ukraine](https://www.theguardian.com/us-news/2024/apr/15/iran-attack-us-house-speaker-mike-johnson-aid-bill-israel-ukraine)
+- [The Comeuppance review – eloquence, tension and wit in a dysfunctional reunion drama](https://www.theguardian.com/stage/2024/apr/14/the-comeuppance-review-almeida-london-branden-jacobs-jenkins)
+- [Ukraine war briefing: Chasiv Yar is Russians’ next big objective, says Oleksandr Syrskyi](https://www.theguardian.com/world/2024/apr/15/ukraine-war-briefing-chasiv-yar-is-russians-next-big-objective-says-oleksandr-syrskyi)
+- [As Solomon Islands’ election looms, China’s influence on the Pacific country draws scrutiny](https://www.theguardian.com/world/2024/apr/15/as-solomon-islands-election-looms-chinas-influence-on-the-pacific-country-draws-scrutiny)
+- [Stars of London stage gather for Olivier awards 2024](https://www.theguardian.com/stage/gallery/2024/apr/15/stars-of-london-stage-gather-for-olivier-awards-2024)
+- [Owners of demolished Crooked House pub propose rebuilding it on new site](https://www.theguardian.com/uk-news/2024/apr/15/owners-of-demolished-crooked-house-pub-propose-rebuilding-it-on-new-site)
+- [Scottie Scheffler storms to Masters win after four-way fight becomes procession](https://www.theguardian.com/sport/2024/apr/15/scottie-scheffler-storms-to-masters-victory-after-ice-cool-final-round)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

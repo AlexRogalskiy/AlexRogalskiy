@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Phononic switching of magnetization by the ultrafast Barnett effect](https://www.nature.com/articles/s41586-024-07200-x)
-- [A Brief Aside on &quot;Why&quot;](https://kn100.me/why/)
-- [Can Large Language Models Reason and Plan?](https://arxiv.org/abs/2403.04121)
-- [New Method Fine-Tunes LLMs with 10x Less Data, Even Rivals In-Context Learning](https://paperswithcode.com/paper/token-efficient-leverage-learning-in-large)
-- [God&#39;s Birthday: April 15th](https://news.ycombinator.com/item?id=40036868)
-- [Anarchy in the US, Part 3 &lpar;Was This Martial Law?&rpar;](https://albertcory50.substack.com/p/anarchy-in-the-us-part-3)
-- [Smartphone ray tracing is here, but is it the real deal? &lpar;2023&rpar;](https://www.androidauthority.com/smartphone-ray-tracing-fact-check-3236029/)
-- [The Hot Peace Between China and India](https://thediplomat.com/2024/04/the-hot-peace-between-china-and-india/)
-- [Show HN: Solo founder launched iOS Development Agency as a Subscription](https://www.swiftapplab.com/)
-- [Ask HN: What spending commitments do you have with AWS?](https://news.ycombinator.com/item?id=40036779)
+- [Ask HN: Who would want Doximity / Houzz / LinkedIn data?](https://news.ycombinator.com/item?id=40047746)
+- [YouTube algorithm weaponised to shut down Russia-Ukraine war reporting channel [video]](https://www.youtube.com/watch?v=2v063wuJtM0)
+- [Ask HN: Track Mail?](https://news.ycombinator.com/item?id=40047694)
+- [Naive Crypto Arbitrage with CCXT](https://github.com/benry1/ccxt-arbitrage)
+- [Adobe explores OpenAI partnership as it adds AI video tools](https://www.reuters.com/technology/adobe-explores-openai-partnership-it-adds-ai-video-tools-2024-04-15/)
+- [Trying Out Cloudflare&#39;s `Foundations` Library for Rust](https://cprimozic.net/blog/trying-out-cloudflare-foundations-library/)
+- [How to Ask for Help &lpar;2023&rpar;](https://www.rawkode.academy/post/how-to-ask-for-help)
+- [Japanese minimalist and his designs for a minimalist lifestyle](https://www.youtube.com/watch?v=XBQBKseozuY)
+- [Hopfield Network](https://en.wikipedia.org/wiki/Hopfield_network)
+- [Worldwide divergence of values over the last 40 years](https://www.nature.com/articles/s41467-024-46581-5)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

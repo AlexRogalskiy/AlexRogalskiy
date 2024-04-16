@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Frank Zappa on Crossfire about censoring rock lyrics &lpar;1986&rpar; [video]](https://www.youtube.com/watch?v=B9856_xv8gc)
-- [Construction on &quot;the largest wildlife crossing&quot; starts Monday](https://101wildlifecrossing.org/)
-- [Thermoelectric Cooling](https://thermoelectricsolutions.com/how-thermoelectric-cooling-works/)
-- [Computer-generated holography with ordinary display](https://opg.optica.org/ol/abstract.cfm?uri=ol-49-8-1876)
-- [RocketStar tests fusion-enhanced in-space propulsion process](https://www.aerospacetestinginternational.com/news/space/rocketstar-tests-fusion-enhanced-in-space-propulsion-process.html)
-- [Dumping Parallel NAND with Glasgow](https://colinoflynn.com/2024/04/dumping-parallel-nand-with-glasgow/)
-- [Spectral Ray Tracing](https://larswander.com/writing/spectral-ray-tracing/)
-- [Visualizing Attention, a Transformer&#39;s Heart [video]](https://www.3blue1brown.com/lessons/attention)
-- [WireViz: Easily document cables and wiring harnesses](https://github.com/wireviz/WireViz)
-- [Integral Calculator](https://www.integral-calculator.com/)
+- [Object that slammed into Florida home was space junk for ISS, NASA confirms](https://www.space.com/object-crash-florida-home-iss-space-junk-nasa-confirms)
+- [ResearchAgent: Iterative Research Idea Generation Using LLMs](https://arxiv.org/abs/2404.07738)
+- [BTFS &lpar;BitTorrent Filesystem&rpar;](https://github.com/johang/btfs)
+- [Show HN: Render audio waveforms to HTML canvas using WebGPU](https://news.ycombinator.com/item?id=40046774)
+- [Skio &lpar;YC S20&rpar; – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
+- [Nathan Tolbert pushes the limitations of new games on old consoles](https://www.smilepolitely.com/culture/nathan-tolbert-pushes-the-limitations-of-new-games-on-old-consoles/)
+- [Geometers Engineer New Tools to Wrangle Spacecraft Orbits](https://www.quantamagazine.org/geometers-engineer-new-tools-to-wrangle-spacecraft-orbits-20240415/)
+- [T-Mobile employees across the country receive cash offers to illegally swap SIMs](https://tmo.report/2024/04/t-mobile-employees-across-the-country-receive-cash-offers-to-illegally-swap-sims/)
+- [Ramanujan&#39;s Lost Notebook](https://en.wikipedia.org/wiki/Ramanujan%27s_lost_notebook)
+- [Phone conversations with law enforcement can be recorded without their consent](https://www.orlandoweekly.com/news/phone-conversations-with-law-enforcement-can-be-recorded-without-their-consent-court-says-36640808)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

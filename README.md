@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Is the Middle East on the brink? podcast](https://www.theguardian.com/news/audio/2024/apr/16/is-the-middle-east-on-the-brink-podcast)
-- [Who screwed millennials? Yanis Varoufakis on the death of capitalism – podcast](https://www.theguardian.com/australia-news/audio/2024/apr/16/who-screwed-millennials-yanis-varoufakis-on-the-death-of-capitalism-podcast)
-- [Can millennials unscrew themselves? Part 5 – podcast](https://www.theguardian.com/australia-news/audio/2024/apr/16/can-millennials-unscrew-themselves-part-5-podcast)
-- [Who screwed millennials out of affordable housing? Part 2 – podcast](https://www.theguardian.com/australia-news/audio/2024/apr/16/who-screwed-millennials-out-of-affordable-housing-part-2-podcast)
-- [Who screwed millennials: a generation left behind, part 1 – podcast](https://www.theguardian.com/australia-news/audio/2024/apr/16/who-screwed-millennials-a-generation-left-behind-part-1-podcast)
-- [Who screwed millennials out of affordable education? Part 3 – podcast](https://www.theguardian.com/australia-news/audio/2024/apr/16/who-screwed-millennials-out-of-affordable-education-part-3-podcast)
-- [Sydney church stabbing: police treating as terrorist attack the alleged stabbing of bishop during livestreamed mass](https://www.theguardian.com/australia-news/2024/apr/16/police-treating-as-a-terrorist-attack-the-alleged-stabbing-of-sydney-bishop-during-livestreamed-mass-ntwnfb)
-- [IDF chief of staff says Israel will respond to Iran missile attack](https://www.theguardian.com/world/2024/apr/15/israel-will-respond-to-iran-missile-attack-idf-chief-of-staff)
-- [Bluey’s blockbuster episode hit a nerve for my family by casting moving house as difficult and scary | Chloe Booker](https://www.theguardian.com/tv-and-radio/commentisfree/2024/apr/16/blueys-blockbuster-episode-hit-a-nerve-for-my-family-by-casting-moving-house-as-difficult-and-scary)
-- [Ukraine war briefing: attacks on nuclear plant are Russian ‘false flag’, Kyiv tells UN security council](https://www.theguardian.com/world/2024/apr/16/ukraine-war-briefing-attacks-on-nuclear-plant-are-russian-false-flag-kyiv-tells-un-security-council)
+- [‘The picture did no justice’: US athletes retreat from criticism of ‘hoo haa’ uniform](https://www.theguardian.com/sport/2024/apr/16/team-usa-uniforms-paris-2024-olympics-nike)
+- [Liz Truss and her plan to ‘save the west’](https://www.theguardian.com/news/audio/2024/apr/17/liz-truss-and-her-plan-to-save-the-west)
+- [Aung San Suu Kyi, Myanmar’s jailed former leader, moved to house arrest, says junta](https://www.theguardian.com/world/2024/apr/17/aung-san-suu-kyi-myanmar-jailed-former-leader-moved-to-house-arrest-says-junta)
+- [‘Very totemic and very Aboriginal’: Australia’s entry at Venice Biennale is a family tree going back 65,000 years](https://www.theguardian.com/artanddesign/2024/apr/17/australia-venice-biennale-family-tree-kith-and-kin-archie-moore)
+- [Trump rebuked as hush-money trial judge warns against juror intimidation](https://www.theguardian.com/us-news/2024/apr/16/trump-new-york-hush-money-criminal-trial)
+- [German chancellor urges Xi Jinping to press Russia to end Ukraine war, saying ‘China’s word carries weight’](https://www.theguardian.com/world/2024/apr/17/german-chancellor-urges-xi-jinping-to-press-russia-to-end-ukraine-war-saying-chinas-word-carries-weight)
+- [Solomon Islands election: voters head to polls that could decide future of China security ties](https://www.theguardian.com/world/2024/apr/17/solomon-islands-election-voters-head-to-polls-that-could-decide-future-of-china-security-ties)
+- [Ukraine war briefing: Fraught path through US Congress for aid as Russia makes gains](https://www.theguardian.com/world/2024/apr/17/ukraine-war-briefing-fraught-path-through-us-congress-for-aid-as-russia-makes-gains)
+- [One in 52 Blackpool children in care as poverty soars in north of England](https://www.theguardian.com/society/2024/apr/17/one-in-52-blackpool-children-in-care-as-poverty-soars-in-north-of-england)
+- [Ban smacking children in England and Northern Ireland, say doctors](https://www.theguardian.com/society/2024/apr/17/ban-smacking-children-in-england-and-northern-ireland-say-doctors)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

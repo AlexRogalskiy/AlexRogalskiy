@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ask HN: Who would want Doximity / Houzz / LinkedIn data?](https://news.ycombinator.com/item?id=40047746)
-- [YouTube algorithm weaponised to shut down Russia-Ukraine war reporting channel [video]](https://www.youtube.com/watch?v=2v063wuJtM0)
-- [Ask HN: Track Mail?](https://news.ycombinator.com/item?id=40047694)
-- [Naive Crypto Arbitrage with CCXT](https://github.com/benry1/ccxt-arbitrage)
-- [Adobe explores OpenAI partnership as it adds AI video tools](https://www.reuters.com/technology/adobe-explores-openai-partnership-it-adds-ai-video-tools-2024-04-15/)
-- [Trying Out Cloudflare&#39;s `Foundations` Library for Rust](https://cprimozic.net/blog/trying-out-cloudflare-foundations-library/)
-- [How to Ask for Help &lpar;2023&rpar;](https://www.rawkode.academy/post/how-to-ask-for-help)
-- [Japanese minimalist and his designs for a minimalist lifestyle](https://www.youtube.com/watch?v=XBQBKseozuY)
-- [Hopfield Network](https://en.wikipedia.org/wiki/Hopfield_network)
-- [Worldwide divergence of values over the last 40 years](https://www.nature.com/articles/s41467-024-46581-5)
+- [The Rise and Fall of the LAN Party](https://aftermath.site/lan-party-merritt-k-book-read-only-memory-rom)
+- [Manufacturing Bliss](https://asteriskmag.com/issues/06/manufacturing-bliss)
+- [Open Platform for Enterprise AI &lpar;OPEA&rpar;](https://opea.dev/)
+- [DIY Electrical Discharge Machining](https://www.baxedm.com/)
+- [Linux: Easy Keylogger with eBPF &lpar;2018&rpar;](http://arighi.blogspot.com/2018/12/linux-easy-keylogger-with-ebpf.html)
+- [An open source XR browser](https://wolvic.com/en/)
+- [The Murder of Madalyn Murray O&#39;Hair: America&#39;s Most Hated Woman &lpar;2009&rpar;](http://www.crimemagazine.com/murder-madalyn-murray-ohair-americas-most-hated-woman-1)
+- [Method of Differences and Newton Polynomials](https://eli.thegreenplace.net/2024/method-of-differences-and-newton-polynomials/)
+- [&#39;Grand Theft Auto&#39; Maker to Fire 5% of Staff, Drop Some Projects](https://www.bloomberg.com/news/articles/2024-04-16/take-two-to-cut-workforce-5-drop-projects-in-savings-drive)
+- [How Everest Was Turned into an Industry](https://www.outsideonline.com/culture/books-media/history-guided-climbing-everest/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

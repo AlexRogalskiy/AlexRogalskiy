@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Object that slammed into Florida home was space junk for ISS, NASA confirms](https://www.space.com/object-crash-florida-home-iss-space-junk-nasa-confirms)
-- [ResearchAgent: Iterative Research Idea Generation Using LLMs](https://arxiv.org/abs/2404.07738)
-- [BTFS &lpar;BitTorrent Filesystem&rpar;](https://github.com/johang/btfs)
-- [Show HN: Render audio waveforms to HTML canvas using WebGPU](https://news.ycombinator.com/item?id=40046774)
-- [Skio &lpar;YC S20&rpar; – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
-- [Nathan Tolbert pushes the limitations of new games on old consoles](https://www.smilepolitely.com/culture/nathan-tolbert-pushes-the-limitations-of-new-games-on-old-consoles/)
-- [Geometers Engineer New Tools to Wrangle Spacecraft Orbits](https://www.quantamagazine.org/geometers-engineer-new-tools-to-wrangle-spacecraft-orbits-20240415/)
-- [T-Mobile employees across the country receive cash offers to illegally swap SIMs](https://tmo.report/2024/04/t-mobile-employees-across-the-country-receive-cash-offers-to-illegally-swap-sims/)
-- [Ramanujan&#39;s Lost Notebook](https://en.wikipedia.org/wiki/Ramanujan%27s_lost_notebook)
-- [Phone conversations with law enforcement can be recorded without their consent](https://www.orlandoweekly.com/news/phone-conversations-with-law-enforcement-can-be-recorded-without-their-consent-court-says-36640808)
+- [Site claims to have harvested 4B+ Discord chats, all yours for a price](https://www.theregister.com/2024/04/16/discord_network_sale/)
+- [Use Your Potions and Scrolls](https://jerry.wtf/posts/use-your-potions/)
+- [Boeing&#39;s problems has cost United $200M in Q1 2024](https://www.cnn.com/2024/04/16/business/boeing-cost-united-200-million/index.html)
+- [3D-printed &quot;metamaterial&quot; is stronger than anything in nature](https://www.freethink.com/hard-tech/metamaterial)
+- [Tvix – A New Implementation of Nix](https://tvix.dev/)
+- [Amazon is filled with garbage e-books, this is how they get made](https://www.vox.com/culture/24128560/amazon-trash-ebooks-mikkelsen-twins-ai-publishing-academy-scam)
+- [Spellbrush &lpar;YC W18&rpar; hiring an anime-loving distributed systems engineer; Tokyo/SF](https://twitter.com/Cixelyn/status/1780320068817322381)
+- [A quick post on Chen&#39;s algorithm](https://blog.cryptographyengineering.com/2024/04/16/a-quick-post-on-chens-algorithm/)
+- [Firefox Proton UI userChrome.css fixes. &lpar;2021&rpar;](https://github.com/black7375/Firefox-UI-Fix)
+- [Sweden has long opposed nuclear weapons, but once tried to build them](https://www.bbc.com/future/article/20240412-the-secret-scandinavian-a-bomb-project)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

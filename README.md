@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Site claims to have harvested 4B+ Discord chats, all yours for a price](https://www.theregister.com/2024/04/16/discord_network_sale/)
-- [Use Your Potions and Scrolls](https://jerry.wtf/posts/use-your-potions/)
-- [Boeing&#39;s problems has cost United $200M in Q1 2024](https://www.cnn.com/2024/04/16/business/boeing-cost-united-200-million/index.html)
-- [3D-printed &quot;metamaterial&quot; is stronger than anything in nature](https://www.freethink.com/hard-tech/metamaterial)
-- [Tvix – A New Implementation of Nix](https://tvix.dev/)
-- [Amazon is filled with garbage e-books, this is how they get made](https://www.vox.com/culture/24128560/amazon-trash-ebooks-mikkelsen-twins-ai-publishing-academy-scam)
-- [Spellbrush &lpar;YC W18&rpar; hiring an anime-loving distributed systems engineer; Tokyo/SF](https://twitter.com/Cixelyn/status/1780320068817322381)
-- [A quick post on Chen&#39;s algorithm](https://blog.cryptographyengineering.com/2024/04/16/a-quick-post-on-chens-algorithm/)
-- [Firefox Proton UI userChrome.css fixes. &lpar;2021&rpar;](https://github.com/black7375/Firefox-UI-Fix)
-- [Sweden has long opposed nuclear weapons, but once tried to build them](https://www.bbc.com/future/article/20240412-the-secret-scandinavian-a-bomb-project)
+- [Show HN: I also made a three-body simulation](https://three-bodies.sulami.xyz/)
+- [A single atom layer of gold – LiU researchers create goldene](https://liu.se/en/news-item/ett-atomlager-guld-liu-forskare-skapar-gulden)
+- [A junk food diet can cause long-term damage to adolescent brains](https://today.usc.edu/take-it-from-the-rats-a-junk-food-diet-can-cause-long-term-damage-to-adolescent-brains/)
+- [Short Stack – World’s Smallest Nintendo Wii](https://github.com/loopj/short-stack)
+- [Human hair transformed into renewable energy storage](https://news.csu.edu.au/latest-news/breaking-research-human-hair-transformed-into-renewable-energy-storage)
+- [MGM says FTC can&#39;t probe ransomware attack as Lina Khan was a guest at the time](https://www.theregister.com/2024/04/16/mgm_ftc_lawsuit/)
+- [Lambda School and founder banned from all student lending](https://twitter.com/JoshuaOgundu/status/1780668300982415379)
+- [Svix &lpar;YC W21&rpar; Is Hiring a Tech Lead &lpar;US Remote&rpar;](https://www.svix.com/careers/)
+- [Flying Aircraft Carriers &lpar;2019&rpar;](https://neverwasmag.com/2019/08/flying-aircraft-carriers/)
+- [Hardest Problem in Computer Science: Centering Things](https://tonsky.me/blog/centering/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

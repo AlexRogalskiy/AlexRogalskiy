@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [‘The picture did no justice’: US athletes retreat from criticism of ‘hoo haa’ uniform](https://www.theguardian.com/sport/2024/apr/16/team-usa-uniforms-paris-2024-olympics-nike)
-- [Liz Truss and her plan to ‘save the west’](https://www.theguardian.com/news/audio/2024/apr/17/liz-truss-and-her-plan-to-save-the-west)
-- [Aung San Suu Kyi, Myanmar’s jailed former leader, moved to house arrest, says junta](https://www.theguardian.com/world/2024/apr/17/aung-san-suu-kyi-myanmar-jailed-former-leader-moved-to-house-arrest-says-junta)
-- [‘Very totemic and very Aboriginal’: Australia’s entry at Venice Biennale is a family tree going back 65,000 years](https://www.theguardian.com/artanddesign/2024/apr/17/australia-venice-biennale-family-tree-kith-and-kin-archie-moore)
-- [Trump rebuked as hush-money trial judge warns against juror intimidation](https://www.theguardian.com/us-news/2024/apr/16/trump-new-york-hush-money-criminal-trial)
-- [German chancellor urges Xi Jinping to press Russia to end Ukraine war, saying ‘China’s word carries weight’](https://www.theguardian.com/world/2024/apr/17/german-chancellor-urges-xi-jinping-to-press-russia-to-end-ukraine-war-saying-chinas-word-carries-weight)
-- [Solomon Islands election: voters head to polls that could decide future of China security ties](https://www.theguardian.com/world/2024/apr/17/solomon-islands-election-voters-head-to-polls-that-could-decide-future-of-china-security-ties)
-- [Ukraine war briefing: Fraught path through US Congress for aid as Russia makes gains](https://www.theguardian.com/world/2024/apr/17/ukraine-war-briefing-fraught-path-through-us-congress-for-aid-as-russia-makes-gains)
-- [One in 52 Blackpool children in care as poverty soars in north of England](https://www.theguardian.com/society/2024/apr/17/one-in-52-blackpool-children-in-care-as-poverty-soars-in-north-of-england)
-- [Ban smacking children in England and Northern Ireland, say doctors](https://www.theguardian.com/society/2024/apr/17/ban-smacking-children-in-england-and-northern-ireland-say-doctors)
+- [Can Rishi Sunak create a smoke-free generation? - podcast](https://www.theguardian.com/news/audio/2024/apr/18/can-rishi-sunak-create-a-smoke-free-generation-podcast)
+- [Nasa chief warns China is masking military presence in space with civilian programs](https://www.theguardian.com/science/2024/apr/18/nasa-warns-china-military-presence-in-space)
+- [Ukraine war briefing: Don’t stockpile your Patriots, put Ukrainian needs first, allies told](https://www.theguardian.com/world/2024/apr/18/ukraine-war-briefing-dont-stockpile-your-patriots-put-ukrainian-needs-first-allies-told)
+- [Drug shortages, now normal in UK, made worse by Brexit, report warns](https://www.theguardian.com/science/2024/apr/18/drug-shortages-normal-in-uk-made-worse-by-brexit-report-warns)
+- [Students turning to cyberfraud as huge phishing site infiltrated, police reveal](https://www.theguardian.com/technology/2024/apr/18/students-turning-to-cyberfraud-as-huge-phishing-site-infiltrated-police-reveal)
+- [Holland &amp; Barrett trains 600 women’s health coaches to give in-store support](https://www.theguardian.com/business/2024/apr/18/holland-and-barrett-trains-womens-health-coaches-in-store-support)
+- [Forced home moves cost renters over half a billion pounds a year](https://www.theguardian.com/society/2024/apr/18/forced-home-moves-cost-renters-over-half-a-billion-pounds-a-year)
+- [Durham selected ahead of Yorkshire to host professional women’s county team](https://www.theguardian.com/sport/2024/apr/18/durham-selected-ahead-of-yorkshire-to-host-professional-womens-county-team)
+- [NPR editor who accused outlet of liberal bias resigns](https://www.theguardian.com/media/2024/apr/17/npr-editor-resigns-uri-berliner)
+- [Tory MP loses whip after claims he used party funds to pay ‘bad people’](https://www.theguardian.com/politics/2024/apr/17/tory-mp-loses-whip-after-claims-he-used-party-funds-to-pay-bad-people)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Rise and Fall of the LAN Party](https://aftermath.site/lan-party-merritt-k-book-read-only-memory-rom)
-- [Manufacturing Bliss](https://asteriskmag.com/issues/06/manufacturing-bliss)
-- [Open Platform for Enterprise AI &lpar;OPEA&rpar;](https://opea.dev/)
-- [DIY Electrical Discharge Machining](https://www.baxedm.com/)
-- [Linux: Easy Keylogger with eBPF &lpar;2018&rpar;](http://arighi.blogspot.com/2018/12/linux-easy-keylogger-with-ebpf.html)
-- [An open source XR browser](https://wolvic.com/en/)
-- [The Murder of Madalyn Murray O&#39;Hair: America&#39;s Most Hated Woman &lpar;2009&rpar;](http://www.crimemagazine.com/murder-madalyn-murray-ohair-americas-most-hated-woman-1)
-- [Method of Differences and Newton Polynomials](https://eli.thegreenplace.net/2024/method-of-differences-and-newton-polynomials/)
-- [&#39;Grand Theft Auto&#39; Maker to Fire 5% of Staff, Drop Some Projects](https://www.bloomberg.com/news/articles/2024-04-16/take-two-to-cut-workforce-5-drop-projects-in-savings-drive)
-- [How Everest Was Turned into an Industry](https://www.outsideonline.com/culture/books-media/history-guided-climbing-everest/)
+- [Show HN: I Made a ROS Package for Realtime Semantic Segmentation](https://github.com/Ginga-Kennis/semantic_segmentation_ros)
+- [Ingenuity has a &#39;last gift&#39; for humanity, but we&#39;ll have to go to Mars to get it](https://www.livescience.com/space/space-exploration/nasas-downed-ingenuity-helicopter-has-a-last-gift-for-humanity-but-well-have-to-go-to-mars-to-get-it)
+- [An open-source tribute to the macOS Drift screensaver](https://github.com/sandydoo/flux)
+- [List of people who arranged for cryonics](https://en.wikipedia.org/wiki/List_of_people_who_arranged_for_cryonics)
+- [Inside Amazon&#39;s Operation to Gather Intel on Rivals](https://www.wsj.com/business/retail/amazon-secret-operation-intel-rivals-eb82ea3c)
+- [Fastest Zero Allocation Golang LRU for key value pairs in []byte](https://github.com/cloudxaas/gocache/tree/main/lru/bytes)
+- [Steven Kleiman](https://en.wikipedia.org/wiki/Steven_Kleiman)
+- [&#39;Revealing images that seemed lost forever:&#39; Research revives 1800s photos](https://news.westernu.ca/2024/04/reviving-daguerreotypes/)
+- [Show HN: Apache HertzBeat&lpar;incubating&rpar; Another Prometheus, Zabbix](https://github.com/apache/hertzbeat)
+- [Oh the Humanity](https://www.sandofsky.com/humane/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

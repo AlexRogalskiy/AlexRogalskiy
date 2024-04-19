@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Show HN: I also made a three-body simulation](https://three-bodies.sulami.xyz/)
-- [A single atom layer of gold – LiU researchers create goldene](https://liu.se/en/news-item/ett-atomlager-guld-liu-forskare-skapar-gulden)
-- [A junk food diet can cause long-term damage to adolescent brains](https://today.usc.edu/take-it-from-the-rats-a-junk-food-diet-can-cause-long-term-damage-to-adolescent-brains/)
-- [Short Stack – World’s Smallest Nintendo Wii](https://github.com/loopj/short-stack)
-- [Human hair transformed into renewable energy storage](https://news.csu.edu.au/latest-news/breaking-research-human-hair-transformed-into-renewable-energy-storage)
-- [MGM says FTC can&#39;t probe ransomware attack as Lina Khan was a guest at the time](https://www.theregister.com/2024/04/16/mgm_ftc_lawsuit/)
-- [Lambda School and founder banned from all student lending](https://twitter.com/JoshuaOgundu/status/1780668300982415379)
-- [Svix &lpar;YC W21&rpar; Is Hiring a Tech Lead &lpar;US Remote&rpar;](https://www.svix.com/careers/)
-- [Flying Aircraft Carriers &lpar;2019&rpar;](https://neverwasmag.com/2019/08/flying-aircraft-carriers/)
-- [Hardest Problem in Computer Science: Centering Things](https://tonsky.me/blog/centering/)
+- [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring a Research Scientist](https://news.ycombinator.com/item?id=40082424)
+- [SeaMonkey All-in-One Internet Application Suite](https://www.seamonkey-project.org)
+- [Modeling societal demise and reversal](https://www.frontiersin.org/articles/10.3389/fsoc.2024.1194597/full)
+- [US Air Force says AI-controlled F-16 has been dogfighting with humans](https://www.theregister.com/2024/04/18/darpa_f16_flight/)
+- [A former slave who became a cowboy, a rancher, and a Texas legend](https://www.texasmonthly.com/being-texan/the-former-slave-who-became-a-cowboy-a-rancher-and-a-texas-legend/)
+- [It&#39;s the Information, Stupid](https://blog.mojeek.com/2024/04/its-the-information-stupid.html)
+- [Women Who Code Closing](https://womenwhocode.com/blog/the-end-of-an-era-women-who-code-closing)
+- [Calculus Made Easy](https://calculusmadeeasy.org/prologue.html)
+- [The Rust calling convention we deserve](https://mcyoung.xyz/2024/04/17/calling-convention/)
+- [Long Reviled as &#39;Ugly,&#39; Sea Lampreys Get Some Respect &lpar;2023&rpar;](https://e360.yale.edu/features/sea-lampreys-pacific-lampreys-american-rivers-dams)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

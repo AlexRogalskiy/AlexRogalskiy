@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Can Rishi Sunak create a smoke-free generation? - podcast](https://www.theguardian.com/news/audio/2024/apr/18/can-rishi-sunak-create-a-smoke-free-generation-podcast)
-- [Nasa chief warns China is masking military presence in space with civilian programs](https://www.theguardian.com/science/2024/apr/18/nasa-warns-china-military-presence-in-space)
-- [Ukraine war briefing: Don’t stockpile your Patriots, put Ukrainian needs first, allies told](https://www.theguardian.com/world/2024/apr/18/ukraine-war-briefing-dont-stockpile-your-patriots-put-ukrainian-needs-first-allies-told)
-- [Drug shortages, now normal in UK, made worse by Brexit, report warns](https://www.theguardian.com/science/2024/apr/18/drug-shortages-normal-in-uk-made-worse-by-brexit-report-warns)
-- [Students turning to cyberfraud as huge phishing site infiltrated, police reveal](https://www.theguardian.com/technology/2024/apr/18/students-turning-to-cyberfraud-as-huge-phishing-site-infiltrated-police-reveal)
-- [Holland &amp; Barrett trains 600 women’s health coaches to give in-store support](https://www.theguardian.com/business/2024/apr/18/holland-and-barrett-trains-womens-health-coaches-in-store-support)
-- [Forced home moves cost renters over half a billion pounds a year](https://www.theguardian.com/society/2024/apr/18/forced-home-moves-cost-renters-over-half-a-billion-pounds-a-year)
-- [Durham selected ahead of Yorkshire to host professional women’s county team](https://www.theguardian.com/sport/2024/apr/18/durham-selected-ahead-of-yorkshire-to-host-professional-womens-county-team)
-- [NPR editor who accused outlet of liberal bias resigns](https://www.theguardian.com/media/2024/apr/17/npr-editor-resigns-uri-berliner)
-- [Tory MP loses whip after claims he used party funds to pay ‘bad people’](https://www.theguardian.com/politics/2024/apr/17/tory-mp-loses-whip-after-claims-he-used-party-funds-to-pay-bad-people)
+- [The chilling policy to cut Greenland’s high birth rate – podcast](https://www.theguardian.com/news/audio/2024/apr/19/the-chilling-policy-to-cut-greenlands-high-birth-rate-podcast)
+- [‘Lost for words’: Joe Biden’s tale about cannibals bemuses Papua New Guinea residents](https://www.theguardian.com/us-news/2024/apr/19/joe-biden-uncle-bosie-cannibals-eaten-papua-new-guinea)
+- [Prince Harry confirms he is now a US resident](https://www.theguardian.com/uk-news/2024/apr/19/prince-harry-us-resident)
+- [Sydney church stabbing: police charge 16-year-old boy with terrorism offence](https://www.theguardian.com/australia-news/2024/apr/18/sydney-church-stabbing-terrorism-charge-offence-bishop-mar-mari-emmanuel-wakeley-ntwnfb)
+- [Guardian wins award for exposé of founders’ links to transatlantic slavery](https://www.theguardian.com/media/2024/apr/19/guardian-wins-award-for-expose-of-founders-links-to-transatlantic-slavery)
+- [UK supermarkets accused of misleading labelling on origins of food products](https://www.theguardian.com/business/2024/apr/19/which-accuses-supermarkets-of-misleading-labels-food-country-of-origin)
+- [Sunak to cite Britain’s ‘sicknote culture’ in bid to overhaul fit note system](https://www.theguardian.com/politics/2024/apr/19/sunak-to-cite-britains-sicknote-culture-in-bid-to-overhaul-fit-note-system)
+- [Quarter of UK’s three- and four-year-olds own a smartphone, data shows](https://www.theguardian.com/technology/2024/apr/19/quarter-of-uks-three--and-four-year-olds-own-a-smartphone-data-shows)
+- [English primary schools cutting teacher numbers amid budget pressure, survey finds](https://www.theguardian.com/education/2024/apr/19/english-primary-schools-cutting-teacher-numbers-amid-budget-pressure-survey-finds)
+- [Premier League and FA Cup semis: 10 things to look out for this weekend](https://www.theguardian.com/football/2024/apr/19/premier-league-and-fa-cup-semis-10-things-to-look-out-for-this-weekend)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

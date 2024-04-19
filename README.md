@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: I Made a ROS Package for Realtime Semantic Segmentation](https://github.com/Ginga-Kennis/semantic_segmentation_ros)
-- [Ingenuity has a &#39;last gift&#39; for humanity, but we&#39;ll have to go to Mars to get it](https://www.livescience.com/space/space-exploration/nasas-downed-ingenuity-helicopter-has-a-last-gift-for-humanity-but-well-have-to-go-to-mars-to-get-it)
-- [An open-source tribute to the macOS Drift screensaver](https://github.com/sandydoo/flux)
-- [List of people who arranged for cryonics](https://en.wikipedia.org/wiki/List_of_people_who_arranged_for_cryonics)
-- [Inside Amazon&#39;s Operation to Gather Intel on Rivals](https://www.wsj.com/business/retail/amazon-secret-operation-intel-rivals-eb82ea3c)
-- [Fastest Zero Allocation Golang LRU for key value pairs in []byte](https://github.com/cloudxaas/gocache/tree/main/lru/bytes)
-- [Steven Kleiman](https://en.wikipedia.org/wiki/Steven_Kleiman)
-- [&#39;Revealing images that seemed lost forever:&#39; Research revives 1800s photos](https://news.westernu.ca/2024/04/reviving-daguerreotypes/)
-- [Show HN: Apache HertzBeat&lpar;incubating&rpar; Another Prometheus, Zabbix](https://github.com/apache/hertzbeat)
-- [Oh the Humanity](https://www.sandofsky.com/humane/)
+- [Navigating the Challenges of Scaling Open Source Projects](https://opensauced.pizza/blog/scaling-oss-projects)
+- [What is the difference between BI and AI？](https://github.com/SPLWare/esProc/wiki/What-is-the-difference-between-BI-and-AI%EF%BC%9F)
+- [Army special operators use deepfakes and drones to train for info warfare](https://www.defenseone.com/technology/2024/04/how-army-special-operators-use-deepfakes-and-drones-train-information-warfare/395852/)
+- [Alaska Air National Guard may miss half its alert missions under new rules](https://taskandpurpose.com/news/alaska-ang-pec-leveling/)
+- [The nuclear reactors that could power bases on the Moon](https://www.bbc.com/future/article/20240417-the-nuclear-reactors-that-could-power-moon-bases)
+- [Configuration: Prefs, Settings, Features, Switches and Flags](https://chromium.googlesource.com/chromium/src/+/main/docs/configuration.md)
+- [What Are Chrome Flags?](https://developer.chrome.com/docs/web-platform/chrome-flags)
+- [Janelia reveals connectome of the fruit fly visual system](https://www.janelia.org/news/seeing-is-believing-janelia-reveals-connectome-of-the-fruit-fly-visual-system)
+- [The ingenious wines birthed from black volcanic craters](https://www.bbc.com/travel/article/20240418-the-ingenious-wines-birthed-from-black-volcanic-craters)
+- [Explosions Heard in Iran, Syria, Iraq](https://www.jpost.com/breaking-news/article-797866)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

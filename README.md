@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [The chilling policy to cut Greenland’s high birth rate – podcast](https://www.theguardian.com/news/audio/2024/apr/19/the-chilling-policy-to-cut-greenlands-high-birth-rate-podcast)
-- [‘Lost for words’: Joe Biden’s tale about cannibals bemuses Papua New Guinea residents](https://www.theguardian.com/us-news/2024/apr/19/joe-biden-uncle-bosie-cannibals-eaten-papua-new-guinea)
-- [Prince Harry confirms he is now a US resident](https://www.theguardian.com/uk-news/2024/apr/19/prince-harry-us-resident)
-- [Sydney church stabbing: police charge 16-year-old boy with terrorism offence](https://www.theguardian.com/australia-news/2024/apr/18/sydney-church-stabbing-terrorism-charge-offence-bishop-mar-mari-emmanuel-wakeley-ntwnfb)
-- [Guardian wins award for exposé of founders’ links to transatlantic slavery](https://www.theguardian.com/media/2024/apr/19/guardian-wins-award-for-expose-of-founders-links-to-transatlantic-slavery)
-- [UK supermarkets accused of misleading labelling on origins of food products](https://www.theguardian.com/business/2024/apr/19/which-accuses-supermarkets-of-misleading-labels-food-country-of-origin)
-- [Sunak to cite Britain’s ‘sicknote culture’ in bid to overhaul fit note system](https://www.theguardian.com/politics/2024/apr/19/sunak-to-cite-britains-sicknote-culture-in-bid-to-overhaul-fit-note-system)
-- [Quarter of UK’s three- and four-year-olds own a smartphone, data shows](https://www.theguardian.com/technology/2024/apr/19/quarter-of-uks-three--and-four-year-olds-own-a-smartphone-data-shows)
-- [English primary schools cutting teacher numbers amid budget pressure, survey finds](https://www.theguardian.com/education/2024/apr/19/english-primary-schools-cutting-teacher-numbers-amid-budget-pressure-survey-finds)
-- [Premier League and FA Cup semis: 10 things to look out for this weekend](https://www.theguardian.com/football/2024/apr/19/premier-league-and-fa-cup-semis-10-things-to-look-out-for-this-weekend)
+- [Explosion hits base of Iranian-aligned Iraqi army unit](https://www.theguardian.com/world/2024/apr/20/explosion-hits-base-of-iranian-aligned-iraqi-army-unit)
+- [Blind date in Sydney: ‘Tall, good-looking, shirt decidedly unbuttoned – my doubts vanished’](https://www.theguardian.com/lifeandstyle/2024/apr/20/blind-date-in-sydney-harry-jack)
+- [Ukraine war briefing: Kyiv claims bomber shot down at 308km range after crash in Russia](https://www.theguardian.com/world/2024/apr/20/ukraine-war-briefing-kyiv-claims-bomber-shot-down-at-308km-range-after-crash-in-russia)
+- [‘We’re the main attraction’: when women’s pro wrestling came to Ballarat](https://www.theguardian.com/culture/2024/apr/20/her-wrestling-ballarat-victoria-event)
+- [California officers charged in killing of man held face-down for five minutes](https://www.theguardian.com/us-news/2024/apr/19/police-charged-killing-mario-gonzalez-california)
+- [Oxford shuts down institute run by Elon Musk-backed philosopher](https://www.theguardian.com/technology/2024/apr/19/oxford-future-of-humanity-institute-closes)
+- [Chris Pratt draws ire for razing historic 1950 LA home for sprawling mansion](https://www.theguardian.com/film/2024/apr/19/chris-pratt-katherine-schwarzenegger-zimmerman-destroy-historic-house-los-angeles)
+- [Billionaire Republican donor’s firm brands Trump’s social media CEO ‘loser’](https://www.theguardian.com/business/2024/apr/19/ken-griffin-says-trump-social-media-ceo-loser)
+- [Allegations against ex-Tory MP Mark Menzies referred to Lancashire police](https://www.theguardian.com/politics/2024/apr/19/lancashire-police-reviewing-letter-relating-to-allegations-against-mark-menzies)
+- [Tributes paid to former Wales, Burnley and Swansea winger Leighton James](https://www.theguardian.com/football/2024/apr/19/tributes-paid-to-former-wales-burnley-and-swansea-winger-leighton-james)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

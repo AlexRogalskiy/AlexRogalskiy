@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring a Research Scientist](https://news.ycombinator.com/item?id=40082424)
-- [SeaMonkey All-in-One Internet Application Suite](https://www.seamonkey-project.org)
-- [Modeling societal demise and reversal](https://www.frontiersin.org/articles/10.3389/fsoc.2024.1194597/full)
-- [US Air Force says AI-controlled F-16 has been dogfighting with humans](https://www.theregister.com/2024/04/18/darpa_f16_flight/)
-- [A former slave who became a cowboy, a rancher, and a Texas legend](https://www.texasmonthly.com/being-texan/the-former-slave-who-became-a-cowboy-a-rancher-and-a-texas-legend/)
-- [It&#39;s the Information, Stupid](https://blog.mojeek.com/2024/04/its-the-information-stupid.html)
-- [Women Who Code Closing](https://womenwhocode.com/blog/the-end-of-an-era-women-who-code-closing)
-- [Calculus Made Easy](https://calculusmadeeasy.org/prologue.html)
-- [The Rust calling convention we deserve](https://mcyoung.xyz/2024/04/17/calling-convention/)
-- [Long Reviled as &#39;Ugly,&#39; Sea Lampreys Get Some Respect &lpar;2023&rpar;](https://e360.yale.edu/features/sea-lampreys-pacific-lampreys-american-rivers-dams)
+- [Git Bisect-Find](https://kevincox.ca/2024/05/19/git-bisect-find/)
+- [Bitcoin Block 840000](https://mempool.space/block/0000000000000000000320283a032748cef8227873ff4872689bf23f1cda83a5)
+- [Llama 3 feels significantly less censored than its predecessor](https://ollama.com/blog/llama-3-is-not-very-censored)
+- [Dynamic Typography: Bringing Text to Life via Video Diffusion Prior](https://animate-your-word.github.io/demo/)
+- [Erdos Problems Collection](https://www.erdosproblems.com/)
+- [Valkey Is Rapidly Overtaking Redis](https://devops.com/valkey-is-rapidly-overtaking-redis/)
+- [Multi-cursor code editing: An animated introduction](https://alexharri.com/blog/multi-cursor-code-editing-animated-introduction)
+- [Eight Transaction Papers by Jim Gray](https://arxiv.org/abs/2310.04601)
+- [Household size and the housing stock](https://kevinerdmann.substack.com/p/household-size-and-the-housing-stock)
+- [Streak &lpar;YC W22&rpar; is hiring a staff UI engineer](https://www.streak.com/careers/staff-ui-engineer)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Navigating the Challenges of Scaling Open Source Projects](https://opensauced.pizza/blog/scaling-oss-projects)
-- [What is the difference between BI and AI？](https://github.com/SPLWare/esProc/wiki/What-is-the-difference-between-BI-and-AI%EF%BC%9F)
-- [Army special operators use deepfakes and drones to train for info warfare](https://www.defenseone.com/technology/2024/04/how-army-special-operators-use-deepfakes-and-drones-train-information-warfare/395852/)
-- [Alaska Air National Guard may miss half its alert missions under new rules](https://taskandpurpose.com/news/alaska-ang-pec-leveling/)
-- [The nuclear reactors that could power bases on the Moon](https://www.bbc.com/future/article/20240417-the-nuclear-reactors-that-could-power-moon-bases)
-- [Configuration: Prefs, Settings, Features, Switches and Flags](https://chromium.googlesource.com/chromium/src/+/main/docs/configuration.md)
-- [What Are Chrome Flags?](https://developer.chrome.com/docs/web-platform/chrome-flags)
-- [Janelia reveals connectome of the fruit fly visual system](https://www.janelia.org/news/seeing-is-believing-janelia-reveals-connectome-of-the-fruit-fly-visual-system)
-- [The ingenious wines birthed from black volcanic craters](https://www.bbc.com/travel/article/20240418-the-ingenious-wines-birthed-from-black-volcanic-craters)
-- [Explosions Heard in Iran, Syria, Iraq](https://www.jpost.com/breaking-news/article-797866)
+- [RTF to HTML Converter &lpar;1993&rpar;](https://www.w3.org/Tools/HTMLGeneration/rtf2html.html)
+- [Capacitor by Ionic – Cross-platform apps with web technology](https://capacitorjs.com/)
+- [The legendary Zilog Z80 CPU is being discontinued after nearly 50 years](https://www.techspot.com/news/102684-zilog-discontinuing-z80-microprocessor-after-almost-50-years.html)
+- [Disney &#39;Star Wars&#39; Box-Office Profits Fail to Cover Cost of Buying Lucasfilm](https://www.forbes.com/sites/carolinereid/2024/04/14/disneys-star-wars-box-office-profits-fail-to-cover-cost-of-lucasfilm/)
+- [Windows Central: Microsoft and OpenAI invest $100B in new &#39;Stargate&#39; AI venture](https://www.windowscentral.com/microsoft/microsoft-and-openai-bet-dollar100-billion-to-free-themselves-from-the-shackles-and-overreliance-on-the-worlds-most-profitable-semiconductor-chip-brand-for-ai-chips)
+- [Good Luck Trying to Resell This West Elm Coffee Table](https://www.curbed.com/article/west-elm-industrial-storage-coffee-table-resell-broken-facebook.html)
+- [We live in a cosmic void so empty that it breaks the laws of cosmology](https://www.newscientist.com/article/mg26234870-100-we-live-in-a-cosmic-void-so-empty-that-it-breaks-the-laws-of-cosmology/)
+- [Curtains on the 2024 Centerstage robotics season](https://ritvikg.dev/posts/20240318-ftc-2024)
+- [Ask HN: What are all the different ways a programmer can make money?](https://news.ycombinator.com/item?id=40093907)
+- [From boom to burst, the AI bubble is only heading in one direction](https://www.theguardian.com/commentisfree/2024/apr/13/from-boom-to-burst-the-ai-bubble-is-only-heading-in-one-direction)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

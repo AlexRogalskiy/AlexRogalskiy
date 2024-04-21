@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [RTF to HTML Converter &lpar;1993&rpar;](https://www.w3.org/Tools/HTMLGeneration/rtf2html.html)
-- [Capacitor by Ionic – Cross-platform apps with web technology](https://capacitorjs.com/)
-- [The legendary Zilog Z80 CPU is being discontinued after nearly 50 years](https://www.techspot.com/news/102684-zilog-discontinuing-z80-microprocessor-after-almost-50-years.html)
-- [Disney &#39;Star Wars&#39; Box-Office Profits Fail to Cover Cost of Buying Lucasfilm](https://www.forbes.com/sites/carolinereid/2024/04/14/disneys-star-wars-box-office-profits-fail-to-cover-cost-of-lucasfilm/)
-- [Windows Central: Microsoft and OpenAI invest $100B in new &#39;Stargate&#39; AI venture](https://www.windowscentral.com/microsoft/microsoft-and-openai-bet-dollar100-billion-to-free-themselves-from-the-shackles-and-overreliance-on-the-worlds-most-profitable-semiconductor-chip-brand-for-ai-chips)
-- [Good Luck Trying to Resell This West Elm Coffee Table](https://www.curbed.com/article/west-elm-industrial-storage-coffee-table-resell-broken-facebook.html)
-- [We live in a cosmic void so empty that it breaks the laws of cosmology](https://www.newscientist.com/article/mg26234870-100-we-live-in-a-cosmic-void-so-empty-that-it-breaks-the-laws-of-cosmology/)
-- [Curtains on the 2024 Centerstage robotics season](https://ritvikg.dev/posts/20240318-ftc-2024)
-- [Ask HN: What are all the different ways a programmer can make money?](https://news.ycombinator.com/item?id=40093907)
-- [From boom to burst, the AI bubble is only heading in one direction](https://www.theguardian.com/commentisfree/2024/apr/13/from-boom-to-burst-the-ai-bubble-is-only-heading-in-one-direction)
+- [Wireheading Done Right: Stay Positive Without Going Insane](https://qualiacomputing.com/2016/08/20/wireheading_done_right/)
+- [I built a custom chat UI for llama3 on groq](https://customchat.vercel.app/)
+- [How to Lose Weight Fast, According to Experts](https://www.forbes.com/health/weight-loss/how-to-lose-weight-fast/)
+- [Genes Take Charge, and Diets Fall by the Wayside &lpar;2007&rpar;](https://www.nytimes.com/2007/05/08/health/08fat.html)
+- [Samsung tells its executives to work a 6-day week to &#39;inject a sense of crisis&#39;](https://fortune.com/2024/04/19/samsung-executives-work-six-day-week-crisis-worst-financial-year/)
+- [Radient – Vectorize Everything](https://github.com/fzliu/radient)
+- [World Value Drift](https://www.overcomingbias.com/p/world-value-drift)
+- [ACX Survey Results 2024](https://www.astralcodexten.com/p/acx-survey-results-2024)
+- [Ask HN: Why does GNU Stow &lpar;et al.&rpar; exist?](https://news.ycombinator.com/item?id=40102597)
+- [Thinning Out My T-Shirt Collection with Elo&#39;s Rating Algorithm](https://life-in-a-monospace-typeface.tumblr.com/post/47190943043/thinning-out-my-t-shirt-collection-with-elos)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

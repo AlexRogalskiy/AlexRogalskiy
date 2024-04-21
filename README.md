@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Explosion hits base of Iranian-aligned Iraqi army unit](https://www.theguardian.com/world/2024/apr/20/explosion-hits-base-of-iranian-aligned-iraqi-army-unit)
-- [Blind date in Sydney: ‘Tall, good-looking, shirt decidedly unbuttoned – my doubts vanished’](https://www.theguardian.com/lifeandstyle/2024/apr/20/blind-date-in-sydney-harry-jack)
-- [Ukraine war briefing: Kyiv claims bomber shot down at 308km range after crash in Russia](https://www.theguardian.com/world/2024/apr/20/ukraine-war-briefing-kyiv-claims-bomber-shot-down-at-308km-range-after-crash-in-russia)
-- [‘We’re the main attraction’: when women’s pro wrestling came to Ballarat](https://www.theguardian.com/culture/2024/apr/20/her-wrestling-ballarat-victoria-event)
-- [California officers charged in killing of man held face-down for five minutes](https://www.theguardian.com/us-news/2024/apr/19/police-charged-killing-mario-gonzalez-california)
-- [Oxford shuts down institute run by Elon Musk-backed philosopher](https://www.theguardian.com/technology/2024/apr/19/oxford-future-of-humanity-institute-closes)
-- [Chris Pratt draws ire for razing historic 1950 LA home for sprawling mansion](https://www.theguardian.com/film/2024/apr/19/chris-pratt-katherine-schwarzenegger-zimmerman-destroy-historic-house-los-angeles)
-- [Billionaire Republican donor’s firm brands Trump’s social media CEO ‘loser’](https://www.theguardian.com/business/2024/apr/19/ken-griffin-says-trump-social-media-ceo-loser)
-- [Allegations against ex-Tory MP Mark Menzies referred to Lancashire police](https://www.theguardian.com/politics/2024/apr/19/lancashire-police-reviewing-letter-relating-to-allegations-against-mark-menzies)
-- [Tributes paid to former Wales, Burnley and Swansea winger Leighton James](https://www.theguardian.com/football/2024/apr/19/tributes-paid-to-former-wales-burnley-and-swansea-winger-leighton-james)
+- [Devin Haney v Ryan Garcia: WBC super lightweight championship – live](https://www.theguardian.com/sport/live/2024/apr/20/devin-haney-v-ryan-garcia-wbc-super-lightweight-championship-live)
+- [Ukraine war briefing: ‘Thank you America’ says Zelenskiy as aid passes House at last](https://www.theguardian.com/world/2024/apr/21/ukraine-war-briefing-thank-you-america-says-zelenskiy-as-aid-passes-house-at-last)
+- [The rise of booze-free backpacking: why gen Z are choosing to travel sober](https://www.theguardian.com/lifeandstyle/2024/apr/21/the-rise-of-booze-free-backpacking-why-gen-z-are-choosing-to-travel-sober)
+- [The El Niño has ended. Will Australia get a La Niña next – and what weather could that bring?](https://www.theguardian.com/australia-news/2024/apr/21/el-nino-weather-pattern-over-australia-la-nina)
+- [US House approves $61bn in military aid for Ukraine after months of stalling](https://www.theguardian.com/us-news/2024/apr/20/us-house-approves-61bn-aid-ukraine)
+- [Chris Packham joins environmental activists in mock funeral procession](https://www.theguardian.com/environment/2024/apr/20/chris-packham-joins-environmental-activists-in-mock-funeral-procession)
+- [Arsenal return to top spot after Trossard and Ødegaard see off Wolves](https://www.theguardian.com/football/2024/apr/20/wolves-arsenal-premier-league-match-report)
+- [Erdoğan urges Palestinian unity after meeting Hamas chief](https://www.theguardian.com/world/2024/apr/20/erdogan-urges-palestinian-unity-after-meeting-hamas-chief)
+- [Guardiola slams semi-final scheduling: ‘I don’t understand how we survived’](https://www.theguardian.com/football/2024/apr/20/guardiola-slams-semi-final-scheduling-i-dont-understand-how-we-survived)
+- [The moment I knew: his voice on speaker made me laugh – and broke my family’s haze of grief](https://www.theguardian.com/lifeandstyle/2024/apr/21/the-moment-i-knew-his-voice-on-speaker-made-me-laugh-and-broke-my-familys-haze-of-grief)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

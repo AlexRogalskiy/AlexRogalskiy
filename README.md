@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Git Bisect-Find](https://kevincox.ca/2024/05/19/git-bisect-find/)
-- [Bitcoin Block 840000](https://mempool.space/block/0000000000000000000320283a032748cef8227873ff4872689bf23f1cda83a5)
-- [Llama 3 feels significantly less censored than its predecessor](https://ollama.com/blog/llama-3-is-not-very-censored)
-- [Dynamic Typography: Bringing Text to Life via Video Diffusion Prior](https://animate-your-word.github.io/demo/)
-- [Erdos Problems Collection](https://www.erdosproblems.com/)
-- [Valkey Is Rapidly Overtaking Redis](https://devops.com/valkey-is-rapidly-overtaking-redis/)
-- [Multi-cursor code editing: An animated introduction](https://alexharri.com/blog/multi-cursor-code-editing-animated-introduction)
-- [Eight Transaction Papers by Jim Gray](https://arxiv.org/abs/2310.04601)
-- [Household size and the housing stock](https://kevinerdmann.substack.com/p/household-size-and-the-housing-stock)
-- [Streak &lpar;YC W22&rpar; is hiring a staff UI engineer](https://www.streak.com/careers/staff-ui-engineer)
+- [I bought 300 emoji domain names from Kazakhstan and built an email service &lpar;2021&rpar;](https://tinyprojects.dev/projects/mailoji)
+- [Rust Custom Target for QEMU RISC-V on Apache NuttX RTOS](https://lupyuen.codeberg.page/articles/rust4.html)
+- [Scientists discover first nitrogen fixing organelle](https://newscenter.lbl.gov/2024/04/17/scientists-discover-first-nitrogen-fixing-organelle/)
+- [Two lifeforms merge in once-in-a-billion-years evolutionary event](https://newatlas.com/biology/life-merger-evolution-symbiosis-organelle/)
+- [Emerge &lpar;YC W21&rpar; is hiring senior engineers to automate dead code deletion](https://www.emergetools.com/careers)
+- [Why everything is becoming a game](https://www.gurwinder.blog/p/why-everything-is-becoming-a-game)
+- [Bringing Exchange Support to Thunderbird](https://blog.thunderbird.net/2024/04/adventures-in-rust-bringing-exchange-support-to-thunderbird/)
+- [Relatively Universal ROM Programmer Makes Retro Tech Hacking Accessible](https://hackaday.com/2024/04/20/relatively-universal-rom-programmer-makes-retro-tech-hacking-accessible/)
+- [HelloKitty ransomware rebrands, releases CD Projekt and Cisco data](https://www.bleepingcomputer.com/news/security/hellokitty-ransomware-rebrands-releases-cd-projekt-and-cisco-data/)
+- [My journey into personal computer software development in 1983](https://farrs.substack.com/p/my-journey-into-personal-computer)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

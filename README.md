@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Wireheading Done Right: Stay Positive Without Going Insane](https://qualiacomputing.com/2016/08/20/wireheading_done_right/)
-- [I built a custom chat UI for llama3 on groq](https://customchat.vercel.app/)
-- [How to Lose Weight Fast, According to Experts](https://www.forbes.com/health/weight-loss/how-to-lose-weight-fast/)
-- [Genes Take Charge, and Diets Fall by the Wayside &lpar;2007&rpar;](https://www.nytimes.com/2007/05/08/health/08fat.html)
-- [Samsung tells its executives to work a 6-day week to &#39;inject a sense of crisis&#39;](https://fortune.com/2024/04/19/samsung-executives-work-six-day-week-crisis-worst-financial-year/)
-- [Radient – Vectorize Everything](https://github.com/fzliu/radient)
-- [World Value Drift](https://www.overcomingbias.com/p/world-value-drift)
-- [ACX Survey Results 2024](https://www.astralcodexten.com/p/acx-survey-results-2024)
-- [Ask HN: Why does GNU Stow &lpar;et al.&rpar; exist?](https://news.ycombinator.com/item?id=40102597)
-- [Thinning Out My T-Shirt Collection with Elo&#39;s Rating Algorithm](https://life-in-a-monospace-typeface.tumblr.com/post/47190943043/thinning-out-my-t-shirt-collection-with-elos)
+- [Intense fighting, lack of resources leave wounded soldiers on their own](https://kyivindependent.com/unequipped-and-outgunned-ukrainian-military-often-cant-evacuate-its-wounded/)
+- [Anarchy in the US, Part 4 &lpar;What if they gave a revolution and no one came?&rpar;](https://albertcory50.substack.com/p/anarchy-in-the-us-part-4)
+- [Three Myths About the Scientific Method](http://blog.rongarret.info/2024/04/three-myths-about-scientific-method.html)
+- [How much do missile interceptors cost?](https://missiledefenseadvocacy.org/missile-defense-systems-2/missile-defense-systems/missile-interceptors-by-cost/)
+- [Show HN: Open-source multi-modal LLM chat agent](https://news.ycombinator.com/item?id=40110828)
+- [Cambium is building a recycled wood supply chain](https://techcrunch.com/2024/04/09/cambium-is-building-a-recycled-wood-supply-chain/)
+- [Energy, not compute, will be the #1 bottleneck to AI progress – Mark Zuckerberg [video]](https://www.youtube.com/watch?v=i-o5YbNfmh0)
+- [What&#39;s New in Go 1.22: Cmp.or](https://blog.carlana.net/post/2024/golang-cmp-or-uses-and-history/)
+- [What Propane Looks Like in the Tank &lpar;2016&rpar; [video]](https://www.youtube.com/watch?v=XBJ6vXueYZ4)
+- [It&#39;s costing $188 to move $4.09 of Bitcoin](https://old.reddit.com/r/Buttcoin/comments/1c9l5yi/future_of_finance/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

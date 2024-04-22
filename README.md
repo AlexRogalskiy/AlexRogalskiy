@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Devin Haney v Ryan Garcia: WBC super lightweight championship – live](https://www.theguardian.com/sport/live/2024/apr/20/devin-haney-v-ryan-garcia-wbc-super-lightweight-championship-live)
-- [Ukraine war briefing: ‘Thank you America’ says Zelenskiy as aid passes House at last](https://www.theguardian.com/world/2024/apr/21/ukraine-war-briefing-thank-you-america-says-zelenskiy-as-aid-passes-house-at-last)
-- [The rise of booze-free backpacking: why gen Z are choosing to travel sober](https://www.theguardian.com/lifeandstyle/2024/apr/21/the-rise-of-booze-free-backpacking-why-gen-z-are-choosing-to-travel-sober)
-- [The El Niño has ended. Will Australia get a La Niña next – and what weather could that bring?](https://www.theguardian.com/australia-news/2024/apr/21/el-nino-weather-pattern-over-australia-la-nina)
-- [US House approves $61bn in military aid for Ukraine after months of stalling](https://www.theguardian.com/us-news/2024/apr/20/us-house-approves-61bn-aid-ukraine)
-- [Chris Packham joins environmental activists in mock funeral procession](https://www.theguardian.com/environment/2024/apr/20/chris-packham-joins-environmental-activists-in-mock-funeral-procession)
-- [Arsenal return to top spot after Trossard and Ødegaard see off Wolves](https://www.theguardian.com/football/2024/apr/20/wolves-arsenal-premier-league-match-report)
-- [Erdoğan urges Palestinian unity after meeting Hamas chief](https://www.theguardian.com/world/2024/apr/20/erdogan-urges-palestinian-unity-after-meeting-hamas-chief)
-- [Guardiola slams semi-final scheduling: ‘I don’t understand how we survived’](https://www.theguardian.com/football/2024/apr/20/guardiola-slams-semi-final-scheduling-i-dont-understand-how-we-survived)
-- [The moment I knew: his voice on speaker made me laugh – and broke my family’s haze of grief](https://www.theguardian.com/lifeandstyle/2024/apr/21/the-moment-i-knew-his-voice-on-speaker-made-me-laugh-and-broke-my-familys-haze-of-grief)
+- [Where does the Cass report leave trans teenagers? | podcast](https://www.theguardian.com/news/audio/2024/apr/22/where-does-the-cass-report-leave-trans-teenagers-podcast-today-in-focus)
+- [Elon Musk’s X a ‘factory for trolls and misinformation’, assistant treasurer says amid content removal clash](https://www.theguardian.com/australia-news/2024/apr/22/elon-musk-x-twitter-stephen-jones-content-removal-order-sydney-stabbings)
+- [Spice Girls reunite at Victoria Beckham’s 50th birthday party](https://www.theguardian.com/music/2024/apr/22/spice-girls-reunion-victoria-beckham-50th-birthday-stop-video-oswalds-london)
+- [Pro-China party wins landslide victory in Maldives parliamentary elections](https://www.theguardian.com/world/2024/apr/22/maldives-elections-2024-mohamed-muizzu-pnc-peoples-national-congress-pro-china-party-wins)
+- [More people will vote in 2024 than ever before … but where are the female candidates?](https://www.theguardian.com/world/2024/apr/22/global-elections-2024-women-female-candidates)
+- [Ukraine war briefing: Zelenskiy urges US Senate to rapidly ratify aid package amid fears of new Russian offensive](https://www.theguardian.com/world/2024/apr/22/ukraine-war-briefing-zelenskiy-urges-us-senate-to-rapidly-ratify-aid-package-amid-fears-of-new-russian-offensive)
+- [Nelly Korda secures fifth straight victory with Chevron Championship win](https://www.theguardian.com/sport/2024/apr/22/nelly-korda-wins-the-chevron-championship-2024-lpga-leaderboard)
+- [Global defence budget jumps to record high of $2440bn](https://www.theguardian.com/world/2024/apr/22/global-defence-budget-jumps-to-record-high-of-2440bn)
+- [High interest rates could add billions to UK green energy transition, says report](https://www.theguardian.com/business/2024/apr/22/high-interest-rates-could-add-billions-to-uk-green-energy-transition-says-report)
+- [Iraq militant group says it is resuming attacks on US forces as base in Syria is targeted](https://www.theguardian.com/world/2024/apr/21/iraq-rockets-syria-us-military-base)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [I bought 300 emoji domain names from Kazakhstan and built an email service &lpar;2021&rpar;](https://tinyprojects.dev/projects/mailoji)
-- [Rust Custom Target for QEMU RISC-V on Apache NuttX RTOS](https://lupyuen.codeberg.page/articles/rust4.html)
-- [Scientists discover first nitrogen fixing organelle](https://newscenter.lbl.gov/2024/04/17/scientists-discover-first-nitrogen-fixing-organelle/)
-- [Two lifeforms merge in once-in-a-billion-years evolutionary event](https://newatlas.com/biology/life-merger-evolution-symbiosis-organelle/)
-- [Emerge &lpar;YC W21&rpar; is hiring senior engineers to automate dead code deletion](https://www.emergetools.com/careers)
-- [Why everything is becoming a game](https://www.gurwinder.blog/p/why-everything-is-becoming-a-game)
-- [Bringing Exchange Support to Thunderbird](https://blog.thunderbird.net/2024/04/adventures-in-rust-bringing-exchange-support-to-thunderbird/)
-- [Relatively Universal ROM Programmer Makes Retro Tech Hacking Accessible](https://hackaday.com/2024/04/20/relatively-universal-rom-programmer-makes-retro-tech-hacking-accessible/)
-- [HelloKitty ransomware rebrands, releases CD Projekt and Cisco data](https://www.bleepingcomputer.com/news/security/hellokitty-ransomware-rebrands-releases-cd-projekt-and-cisco-data/)
-- [My journey into personal computer software development in 1983](https://farrs.substack.com/p/my-journey-into-personal-computer)
+- [Many-Shot In-Context Learning](https://arxiv.org/abs/2404.11018)
+- [A Rigorous Derivation of the Bubble Sort Curve](https://linesthatconnect.github.io/blog/a-rigorous-derivation-of-the-bubble-sort-curve/)
+- [Some monkeys in Panama may have just stumbled into the Stone Age &lpar;2018&rpar;](https://www.newscientist.com/article/2173021-some-monkeys-in-panama-may-have-just-stumbled-into-the-stone-age/)
+- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
+- [Lossless Acceleration of LLM via Adaptive N-Gram Parallel Decoding](https://arxiv.org/abs/2404.08698)
+- [Simon Tatham&#39;s Portable Puzzle Collection](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/)
+- [Anti-municipal broadband budget amendment gets nixed in New York](https://communitynets.org/content/anti-muni-broadband-budget-amendment-gets-nixed-new-york)
+- [Show HN: Volume rendering 3D data in Three.js and GLSL](https://github.com/SuboptimalEng/volume-rendering)
+- [Penzai: JAX research toolkit for building, editing, and visualizing neural nets](https://github.com/google-deepmind/penzai)
+- [The Design of Everyday APIs &lpar;2022&rpar;](https://www.roguelynn.com/talks/everyday-apis/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

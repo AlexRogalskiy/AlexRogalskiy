@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Many-Shot In-Context Learning](https://arxiv.org/abs/2404.11018)
-- [A Rigorous Derivation of the Bubble Sort Curve](https://linesthatconnect.github.io/blog/a-rigorous-derivation-of-the-bubble-sort-curve/)
-- [Some monkeys in Panama may have just stumbled into the Stone Age &lpar;2018&rpar;](https://www.newscientist.com/article/2173021-some-monkeys-in-panama-may-have-just-stumbled-into-the-stone-age/)
-- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
-- [Lossless Acceleration of LLM via Adaptive N-Gram Parallel Decoding](https://arxiv.org/abs/2404.08698)
-- [Simon Tatham&#39;s Portable Puzzle Collection](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/)
-- [Anti-municipal broadband budget amendment gets nixed in New York](https://communitynets.org/content/anti-muni-broadband-budget-amendment-gets-nixed-new-york)
-- [Show HN: Volume rendering 3D data in Three.js and GLSL](https://github.com/SuboptimalEng/volume-rendering)
-- [Penzai: JAX research toolkit for building, editing, and visualizing neural nets](https://github.com/google-deepmind/penzai)
-- [The Design of Everyday APIs &lpar;2022&rpar;](https://www.roguelynn.com/talks/everyday-apis/)
+- [Hackers Broke into Change Healthcare&#39;s Systems 9 Days Before Cyberattack](https://www.wsj.com/articles/change-healthcare-hackers-broke-in-nine-days-before-ransomware-attack-7119fdc6)
+- [Ask HN: How to Manage Phones and PCs for Elderly Parents?](https://news.ycombinator.com/item?id=40127400)
+- [Carapace: A multi-shell completion library and binary](https://carapace.sh/)
+- [Future of Food: This Company Just Opened the First &quot;Air Protein&quot; Factory](https://www.speciesunite.com/news-stories/future-of-food-this-company-just-opened-the-worlds-first-air-protein-factory)
+- [Understanding and avoiding visually ambiguous characters in IDs](https://gajus.com/blog/avoiding-visually-ambiguous-characters-in-ids)
+- [Ex-Amazon exec claims she was asked to ignore copyright law in race to AI](https://www.theregister.com/2024/04/22/ghaderi_v_amazon/)
+- [Modal is a matrioshka language based on pattern-matching to rewrite trees](https://wiki.xxiivv.com/site/modal)
+- [Krazam OS](https://www.krazam.tv/)
+- [Cubic Life: Conway&#39;s Game of Life in 3D](https://github.com/ms0g/cubicLife)
+- [HTML-first, framework-agnostic implementation of shadcn/UI – franken/UI](https://www.franken-ui.dev/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Intense fighting, lack of resources leave wounded soldiers on their own](https://kyivindependent.com/unequipped-and-outgunned-ukrainian-military-often-cant-evacuate-its-wounded/)
-- [Anarchy in the US, Part 4 &lpar;What if they gave a revolution and no one came?&rpar;](https://albertcory50.substack.com/p/anarchy-in-the-us-part-4)
-- [Three Myths About the Scientific Method](http://blog.rongarret.info/2024/04/three-myths-about-scientific-method.html)
-- [How much do missile interceptors cost?](https://missiledefenseadvocacy.org/missile-defense-systems-2/missile-defense-systems/missile-interceptors-by-cost/)
-- [Show HN: Open-source multi-modal LLM chat agent](https://news.ycombinator.com/item?id=40110828)
-- [Cambium is building a recycled wood supply chain](https://techcrunch.com/2024/04/09/cambium-is-building-a-recycled-wood-supply-chain/)
-- [Energy, not compute, will be the #1 bottleneck to AI progress – Mark Zuckerberg [video]](https://www.youtube.com/watch?v=i-o5YbNfmh0)
-- [What&#39;s New in Go 1.22: Cmp.or](https://blog.carlana.net/post/2024/golang-cmp-or-uses-and-history/)
-- [What Propane Looks Like in the Tank &lpar;2016&rpar; [video]](https://www.youtube.com/watch?v=XBJ6vXueYZ4)
-- [It&#39;s costing $188 to move $4.09 of Bitcoin](https://old.reddit.com/r/Buttcoin/comments/1c9l5yi/future_of_finance/)
+- [Origin of the Term &quot;Shell&quot;](https://www.multicians.org/shell.html)
+- [Niiomtplaboparmbetzhelbetrabsbomonimonkonotdtekhstromont](https://www.urbandictionary.com/define.php?term=NIIOMTPLABOPARMBETZHELBETRABSBOMONIMONKONOTDTEKHSTROMONT)
+- [AI Image Generators Have Problems with Asian Male White Female Relationships](https://www.8asians.com/2024/04/22/ai-image-generators-have-problems-with-asian-male-white-female-relationships/)
+- [I Nailed Sales: A Personal Journey](https://news.ycombinator.com/item?id=40127707)
+- [Electron 30.0.0](https://www.electronjs.org/blog/electron-30-0)
+- [Generative AI Meets CRISPR](https://www.nytimes.com/2024/04/22/technology/generative-ai-gene-editing-crispr.html)
+- [Show HN: AI-Powered Instagram Tracking with Dolphinradar](https://www.dolphinradar.com/)
+- [Trusting Your Eyes](http://designwithfontforge.com/en-US/Trusting_Your_Eyes.html)
+- [Ask HN: Preventing Phishing Attempts via Text?](https://news.ycombinator.com/item?id=40127596)
+- [Hold up on that second one](https://paperlined.org/trades/fabrication/what_is_it_made_of.md)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Where does the Cass report leave trans teenagers? | podcast](https://www.theguardian.com/news/audio/2024/apr/22/where-does-the-cass-report-leave-trans-teenagers-podcast-today-in-focus)
-- [Elon Musk’s X a ‘factory for trolls and misinformation’, assistant treasurer says amid content removal clash](https://www.theguardian.com/australia-news/2024/apr/22/elon-musk-x-twitter-stephen-jones-content-removal-order-sydney-stabbings)
-- [Spice Girls reunite at Victoria Beckham’s 50th birthday party](https://www.theguardian.com/music/2024/apr/22/spice-girls-reunion-victoria-beckham-50th-birthday-stop-video-oswalds-london)
-- [Pro-China party wins landslide victory in Maldives parliamentary elections](https://www.theguardian.com/world/2024/apr/22/maldives-elections-2024-mohamed-muizzu-pnc-peoples-national-congress-pro-china-party-wins)
-- [More people will vote in 2024 than ever before … but where are the female candidates?](https://www.theguardian.com/world/2024/apr/22/global-elections-2024-women-female-candidates)
-- [Ukraine war briefing: Zelenskiy urges US Senate to rapidly ratify aid package amid fears of new Russian offensive](https://www.theguardian.com/world/2024/apr/22/ukraine-war-briefing-zelenskiy-urges-us-senate-to-rapidly-ratify-aid-package-amid-fears-of-new-russian-offensive)
-- [Nelly Korda secures fifth straight victory with Chevron Championship win](https://www.theguardian.com/sport/2024/apr/22/nelly-korda-wins-the-chevron-championship-2024-lpga-leaderboard)
-- [Global defence budget jumps to record high of $2440bn](https://www.theguardian.com/world/2024/apr/22/global-defence-budget-jumps-to-record-high-of-2440bn)
-- [High interest rates could add billions to UK green energy transition, says report](https://www.theguardian.com/business/2024/apr/22/high-interest-rates-could-add-billions-to-uk-green-energy-transition-says-report)
-- [Iraq militant group says it is resuming attacks on US forces as base in Syria is targeted](https://www.theguardian.com/world/2024/apr/21/iraq-rockets-syria-us-military-base)
+- [Sudan’s forgotten war - podcast](https://www.theguardian.com/news/audio/2024/apr/23/sudans-forgotten-war)
+- [Antony Blinken rejects suggestion of ‘double standard’ on Israel](https://www.theguardian.com/world/2024/apr/22/israel-gaza-impact-human-rights)
+- [Australian prime minister labels Elon Musk ‘an arrogant billionaire who thinks he is above the law’](https://www.theguardian.com/australia-news/2024/apr/23/elon-musk-anthony-albanese-x-twitter-australia-prime-minister-sydney-church-stabbing-videos-ntwnfb)
+- [Elon Musk – arrogant billionaire or free speech warrior? | Fiona Katauskas](https://www.theguardian.com/commentisfree/picture/2024/apr/23/elon-musk-arrogant-billionaire-or-free-speech-warrior)
+- [Designer Nancy Gonzalez sentenced to prison for smuggling crocodile and python handbags](https://www.theguardian.com/fashion/2024/apr/23/designer-nancy-gonzalez-sentenced-to-prison-for-smuggling-crocodile-and-python-handbags)
+- [Mistrial in case of Arizona rancher accused of shooting migrant dead](https://www.theguardian.com/us-news/2024/apr/22/judge-mistrial-arizona-rancher-accused)
+- [Ukraine war briefing: Long-range Atacms missiles on the way, says Zelenskiy](https://www.theguardian.com/world/2024/apr/23/ukraine-war-briefing-long-range-atacms-missiles-on-the-way-says-zelenskiy)
+- [UK passes bill to send asylum seekers to Rwanda](https://www.theguardian.com/uk-news/2024/apr/22/rwanda-deportations-bill-passes-parliament-sunak)
+- [Paedophiles create nude AI images of children to extort them, says charity](https://www.theguardian.com/technology/2024/apr/23/paedophiles-create-nude-ai-images-of-children-to-extort-them-says-charity)
+- [Mauricio Pochettino urges Chelsea to show they are not just ‘Cole Palmer FC’](https://www.theguardian.com/football/2024/apr/22/cole-palmer-chelsea-arsenal-illness-doubt)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

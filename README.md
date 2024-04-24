@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Sudan’s forgotten war - podcast](https://www.theguardian.com/news/audio/2024/apr/23/sudans-forgotten-war)
-- [Antony Blinken rejects suggestion of ‘double standard’ on Israel](https://www.theguardian.com/world/2024/apr/22/israel-gaza-impact-human-rights)
-- [Australian prime minister labels Elon Musk ‘an arrogant billionaire who thinks he is above the law’](https://www.theguardian.com/australia-news/2024/apr/23/elon-musk-anthony-albanese-x-twitter-australia-prime-minister-sydney-church-stabbing-videos-ntwnfb)
-- [Elon Musk – arrogant billionaire or free speech warrior? | Fiona Katauskas](https://www.theguardian.com/commentisfree/picture/2024/apr/23/elon-musk-arrogant-billionaire-or-free-speech-warrior)
-- [Designer Nancy Gonzalez sentenced to prison for smuggling crocodile and python handbags](https://www.theguardian.com/fashion/2024/apr/23/designer-nancy-gonzalez-sentenced-to-prison-for-smuggling-crocodile-and-python-handbags)
-- [Mistrial in case of Arizona rancher accused of shooting migrant dead](https://www.theguardian.com/us-news/2024/apr/22/judge-mistrial-arizona-rancher-accused)
-- [Ukraine war briefing: Long-range Atacms missiles on the way, says Zelenskiy](https://www.theguardian.com/world/2024/apr/23/ukraine-war-briefing-long-range-atacms-missiles-on-the-way-says-zelenskiy)
-- [UK passes bill to send asylum seekers to Rwanda](https://www.theguardian.com/uk-news/2024/apr/22/rwanda-deportations-bill-passes-parliament-sunak)
-- [Paedophiles create nude AI images of children to extort them, says charity](https://www.theguardian.com/technology/2024/apr/23/paedophiles-create-nude-ai-images-of-children-to-extort-them-says-charity)
-- [Mauricio Pochettino urges Chelsea to show they are not just ‘Cole Palmer FC’](https://www.theguardian.com/football/2024/apr/22/cole-palmer-chelsea-arsenal-illness-doubt)
+- [Could a row over a council house bring down Angela Rayner? – podcast](https://www.theguardian.com/news/audio/2024/apr/24/could-a-row-over-a-council-house-bring-down-angela-rayner-podcast)
+- [US Senate passes $95bn in aid for Ukraine, Israel and Taiwan](https://www.theguardian.com/us-news/2024/apr/23/senate-aid-bill-ukraine-israel-taiwan)
+- [Russian minister detained after taking especially large bribe, law enforcement agency says](https://www.theguardian.com/world/2024/apr/24/russian-defence-minister-timur-ivanov-us-eu-sanctions-jail-term)
+- [Athens swallowed up by orange haze from Sahara dust storm](https://www.theguardian.com/world/2024/apr/24/athens-dust-storm-orange-sky-greece)
+- [Bit of a stretch? Louvre to host yoga classes during Paris Olympics](https://www.theguardian.com/sport/2024/apr/24/louvre-museum-yoga-classes-2024-paris-olympics)
+- [Ukraine war briefing: Kharkiv hit in early-morning Russian attack](https://www.theguardian.com/world/2024/apr/24/ukraine-war-briefing-kharkiv-hit-in-early-morning-russian-attack)
+- [Tesla sees biggest revenue drop since 2012 but company shares still surge](https://www.theguardian.com/technology/2024/apr/23/tesla-tsla-earnings-report-cybertruck)
+- [Plane crashes into river in Alaska, officials say](https://www.theguardian.com/us-news/2024/apr/23/plane-crash-river-fairbanks-alaska)
+- [England childcare scheme may struggle to deliver places, finds ‘damning’ report](https://www.theguardian.com/money/2024/apr/24/england-childcare-scheme-struggle-places-damning-report)
+- [‘An enigma’: scientists finally learn what giant prehistoric shark looked like](https://www.theguardian.com/science/2024/apr/24/scientists-finally-learn-what-giant-prehistoric-shark-ptychodus-looked-like)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

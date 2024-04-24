@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Hackers Broke into Change Healthcare&#39;s Systems 9 Days Before Cyberattack](https://www.wsj.com/articles/change-healthcare-hackers-broke-in-nine-days-before-ransomware-attack-7119fdc6)
-- [Ask HN: How to Manage Phones and PCs for Elderly Parents?](https://news.ycombinator.com/item?id=40127400)
-- [Carapace: A multi-shell completion library and binary](https://carapace.sh/)
-- [Future of Food: This Company Just Opened the First &quot;Air Protein&quot; Factory](https://www.speciesunite.com/news-stories/future-of-food-this-company-just-opened-the-worlds-first-air-protein-factory)
-- [Understanding and avoiding visually ambiguous characters in IDs](https://gajus.com/blog/avoiding-visually-ambiguous-characters-in-ids)
-- [Ex-Amazon exec claims she was asked to ignore copyright law in race to AI](https://www.theregister.com/2024/04/22/ghaderi_v_amazon/)
-- [Modal is a matrioshka language based on pattern-matching to rewrite trees](https://wiki.xxiivv.com/site/modal)
-- [Krazam OS](https://www.krazam.tv/)
-- [Cubic Life: Conway&#39;s Game of Life in 3D](https://github.com/ms0g/cubicLife)
-- [HTML-first, framework-agnostic implementation of shadcn/UI – franken/UI](https://www.franken-ui.dev/)
+- [US breaks ground on its first-ever high-speed rail](https://www.popsci.com/technology/high-speed-rail/)
+- [The question that no LLM can answer and why it is important](https://www.mindprison.cc/p/the-question-that-no-llm-can-answer)
+- [Apple releases CoreNet, a library for training deep neural networks](https://github.com/apple/corenet)
+- [Protecting the Darkness in Chile&#39;s Atacama Desert](https://undark.org/2024/04/22/darkness-in-chile-atacama-desert/)
+- [FTC adopts a comprehensive ban on new noncompetes with all workers](https://www.ftc.gov/legal-library/browse/rules/noncompete-rule)
+- [American Flag Sort](https://xlinux.nist.gov/dads/HTML/americanFlagSort.html)
+- [Microplastics make their way from the gut to other organs, researchers find](https://medicalxpress.com/news/2024-04-microplastics-gut.html)
+- [Scooping the Loop Snooper &lpar;2000&rpar;](http://www.lel.ed.ac.uk/~gpullum/loopsnoop.html)
+- [Show HN: Use LLMs to Interact with APIs](https://github.com/FlowTestAI/FlowTest)
+- [Shortbread &lpar;YC W23&rpar; is hiring a founding engineer in SF for AI comics creation](https://www.ycombinator.com/companies/shortbread/jobs/8jV0RY9-founding-engineer)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

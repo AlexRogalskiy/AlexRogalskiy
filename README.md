@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Origin of the Term &quot;Shell&quot;](https://www.multicians.org/shell.html)
-- [Niiomtplaboparmbetzhelbetrabsbomonimonkonotdtekhstromont](https://www.urbandictionary.com/define.php?term=NIIOMTPLABOPARMBETZHELBETRABSBOMONIMONKONOTDTEKHSTROMONT)
-- [AI Image Generators Have Problems with Asian Male White Female Relationships](https://www.8asians.com/2024/04/22/ai-image-generators-have-problems-with-asian-male-white-female-relationships/)
-- [I Nailed Sales: A Personal Journey](https://news.ycombinator.com/item?id=40127707)
-- [Electron 30.0.0](https://www.electronjs.org/blog/electron-30-0)
-- [Generative AI Meets CRISPR](https://www.nytimes.com/2024/04/22/technology/generative-ai-gene-editing-crispr.html)
-- [Show HN: AI-Powered Instagram Tracking with Dolphinradar](https://www.dolphinradar.com/)
-- [Trusting Your Eyes](http://designwithfontforge.com/en-US/Trusting_Your_Eyes.html)
-- [Ask HN: Preventing Phishing Attempts via Text?](https://news.ycombinator.com/item?id=40127596)
-- [Hold up on that second one](https://paperlined.org/trades/fabrication/what_is_it_made_of.md)
+- [Preview of autonomous ride-hailing via Tesla app](https://twitter.com/Tesla/status/1782920551948062878)
+- [Senate passes TikTok ban bill, sending it to President Biden&#39;s desk](https://www.theverge.com/2024/4/23/24137638/senate-passes-tiktok-ban-bill-divest-bytedance-foreign-aid)
+- [Toward Self-Improvement of LLMs via Imagination, Searching, and Criticizing](https://arxiv.org/abs/2404.12253)
+- [The Publicly Funded Defense Contractor Revolving Door](https://jacobin.com/2024/04/pentagon-fellows-program-sdef-defense-contractors)
+- [US breaks ground on its first-ever high-speed rail](https://www.popsci.com/technology/high-speed-rail/)
+- [Democratic Republic of Congo – The Genocide That Implicates Us All](https://unicornriot.ninja/2024/democratic-republic-of-congo-the-genocide-that-implicates-us-all/)
+- [Ask HN: Favorite Substacks?](https://news.ycombinator.com/item?id=40139634)
+- [Issues with &quot;Ethical&quot; Image Generators](https://www.tess.design/blog/ethical-issues-with-the-adobe-firefly-model)
+- [Change Healthcare Finally Admits It Paid Ransomware Hackers](https://www.wired.com/story/change-healthcare-admits-it-paid-ransomware-hackers/)
+- [Elektron Digitakt II More Memory and Stereo Samples](https://www.gearnews.com/elektron-digitakt-ii/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

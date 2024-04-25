@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [US breaks ground on its first-ever high-speed rail](https://www.popsci.com/technology/high-speed-rail/)
-- [The question that no LLM can answer and why it is important](https://www.mindprison.cc/p/the-question-that-no-llm-can-answer)
-- [Apple releases CoreNet, a library for training deep neural networks](https://github.com/apple/corenet)
-- [Protecting the Darkness in Chile&#39;s Atacama Desert](https://undark.org/2024/04/22/darkness-in-chile-atacama-desert/)
-- [FTC adopts a comprehensive ban on new noncompetes with all workers](https://www.ftc.gov/legal-library/browse/rules/noncompete-rule)
-- [American Flag Sort](https://xlinux.nist.gov/dads/HTML/americanFlagSort.html)
-- [Microplastics make their way from the gut to other organs, researchers find](https://medicalxpress.com/news/2024-04-microplastics-gut.html)
-- [Scooping the Loop Snooper &lpar;2000&rpar;](http://www.lel.ed.ac.uk/~gpullum/loopsnoop.html)
-- [Show HN: Use LLMs to Interact with APIs](https://github.com/FlowTestAI/FlowTest)
-- [Shortbread &lpar;YC W23&rpar; is hiring a founding engineer in SF for AI comics creation](https://www.ycombinator.com/companies/shortbread/jobs/8jV0RY9-founding-engineer)
+- [As the US Air Force fleet keeps shrinking, can it still win wars?](https://www.defensenews.com/air/2024/04/23/as-the-us-air-force-fleet-keeps-shrinking-can-it-still-win-wars/)
+- [Air Force picks Anduril, General Atomics to develop unmanned fighter jets](https://breakingdefense.com/2024/04/air-force-picks-anduril-general-atomics-for-next-round-of-cca-work/)
+- [Show HN: See your current Spotify song in the menu bar](https://github.com/jonathangarelick/SoundSeer)
+- [Airlines required to refund passengers for canceled, delayed flights](https://abcnews.go.com/Politics/airlines-give-automatic-refunds-canceled-flights-delayed-3/story?id=109573733)
+- [Amsterdam roofs that not only grow plants but also capture water for residents](https://www.wired.com/story/blue-green-roofs-amsterdam-resilio-climate-adaptation-sponge-cities/)
+- [Glass Health &lpar;YC W23&rpar; is hiring founding, senior and lead full-stack engineers](https://jobs.lever.co/glass-health-inc?team=Product%20%26%20Engineering)
+- [Magic Numbers](https://exple.tive.org/blarg/2024/04/24/magic-numbers/)
+- [IBM to buy HashiCorp in $6.4B deal](https://www.reuters.com/markets/deals/ibm-buy-hashicorp-64-billion-deal-expand-cloud-software-2024-04-24/)
+- [Eric Schmidt-backed Augment, a GitHub Copilot rival, launches out of stealth](https://techcrunch.com/2024/04/24/eric-schmidt-backed-augment-a-github-copilot-rival-launches-out-of-stealth-with-252m/)
+- [Meta Reports First Quarter 2024 Results](https://investor.fb.com/investor-news/press-release-details/2024/Meta-Reports-First-Quarter-2024-Results/default.aspx)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

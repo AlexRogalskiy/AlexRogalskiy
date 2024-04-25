@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Could a row over a council house bring down Angela Rayner? – podcast](https://www.theguardian.com/news/audio/2024/apr/24/could-a-row-over-a-council-house-bring-down-angela-rayner-podcast)
-- [US Senate passes $95bn in aid for Ukraine, Israel and Taiwan](https://www.theguardian.com/us-news/2024/apr/23/senate-aid-bill-ukraine-israel-taiwan)
-- [Russian minister detained after taking especially large bribe, law enforcement agency says](https://www.theguardian.com/world/2024/apr/24/russian-defence-minister-timur-ivanov-us-eu-sanctions-jail-term)
-- [Athens swallowed up by orange haze from Sahara dust storm](https://www.theguardian.com/world/2024/apr/24/athens-dust-storm-orange-sky-greece)
-- [Bit of a stretch? Louvre to host yoga classes during Paris Olympics](https://www.theguardian.com/sport/2024/apr/24/louvre-museum-yoga-classes-2024-paris-olympics)
-- [Ukraine war briefing: Kharkiv hit in early-morning Russian attack](https://www.theguardian.com/world/2024/apr/24/ukraine-war-briefing-kharkiv-hit-in-early-morning-russian-attack)
-- [Tesla sees biggest revenue drop since 2012 but company shares still surge](https://www.theguardian.com/technology/2024/apr/23/tesla-tsla-earnings-report-cybertruck)
-- [Plane crashes into river in Alaska, officials say](https://www.theguardian.com/us-news/2024/apr/23/plane-crash-river-fairbanks-alaska)
-- [England childcare scheme may struggle to deliver places, finds ‘damning’ report](https://www.theguardian.com/money/2024/apr/24/england-childcare-scheme-struggle-places-damning-report)
-- [‘An enigma’: scientists finally learn what giant prehistoric shark looked like](https://www.theguardian.com/science/2024/apr/24/scientists-finally-learn-what-giant-prehistoric-shark-ptychodus-looked-like)
+- [Netanyahu labels US student protests ‘antisemitic’ and calls for them to end](https://www.theguardian.com/us-news/2024/apr/24/us-campus-protests-benjamin-netanyahu-ceasefire)
+- [Russia vetos UN resolution to prevent nuclear arms race in space](https://www.theguardian.com/world/2024/apr/25/russia-vetos-un-resolution-nuclear-weapons-space-arms-race)
+- [Arizona grand jury indicts Trump allies including Giuliani over 2020 fake elector scheme](https://www.theguardian.com/us-news/2024/apr/24/arizona-trump-fake-electors-charged-2020-election)
+- [Ukraine war briefing: Long-range Atacms already hitting Russian forces](https://www.theguardian.com/world/2024/apr/25/ukraine-war-briefing-long-range-atacms-already-hitting-russian-forces)
+- [Deprivation linked to higher second cancer risk among England breast cancer survivors](https://www.theguardian.com/society/2024/apr/25/deprivation-linked-to-higher-second-cancer-risk-among-england-breast-cancer-survivors)
+- [Rwanda flights will deport asylum seekers ‘indefinitely’, says Cleverly](https://www.theguardian.com/uk-news/2024/apr/25/flights-deport-asylum-seekers-rwanda-indefinitely-james-cleverly)
+- [Ruth Perry family furious as Ofsted single-word ratings are retained](https://www.theguardian.com/politics/2024/apr/25/ruth-perry-family-furious-ofsted-single-word-ratings-retained)
+- [Inaugural Guardian Advertising Awards take place in London](https://www.theguardian.com/media/2024/apr/25/inaugural-guardian-advertising-awards-take-place-in-london)
+- [BBC unveils 2024 Proms lineup: Daniel Barenboim, Daleks and disco](https://www.theguardian.com/music/2024/apr/25/bbc-unveils-2024-proms-lineup-daniel-barenboim-daleks-and-disco)
+- [Meta says revenue will be weak as it spends even more on AI](https://www.theguardian.com/technology/2024/apr/24/meta-earnings)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

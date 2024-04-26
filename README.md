@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Netanyahu labels US student protests ‘antisemitic’ and calls for them to end](https://www.theguardian.com/us-news/2024/apr/24/us-campus-protests-benjamin-netanyahu-ceasefire)
-- [Russia vetos UN resolution to prevent nuclear arms race in space](https://www.theguardian.com/world/2024/apr/25/russia-vetos-un-resolution-nuclear-weapons-space-arms-race)
-- [Arizona grand jury indicts Trump allies including Giuliani over 2020 fake elector scheme](https://www.theguardian.com/us-news/2024/apr/24/arizona-trump-fake-electors-charged-2020-election)
-- [Ukraine war briefing: Long-range Atacms already hitting Russian forces](https://www.theguardian.com/world/2024/apr/25/ukraine-war-briefing-long-range-atacms-already-hitting-russian-forces)
-- [Deprivation linked to higher second cancer risk among England breast cancer survivors](https://www.theguardian.com/society/2024/apr/25/deprivation-linked-to-higher-second-cancer-risk-among-england-breast-cancer-survivors)
-- [Rwanda flights will deport asylum seekers ‘indefinitely’, says Cleverly](https://www.theguardian.com/uk-news/2024/apr/25/flights-deport-asylum-seekers-rwanda-indefinitely-james-cleverly)
-- [Ruth Perry family furious as Ofsted single-word ratings are retained](https://www.theguardian.com/politics/2024/apr/25/ruth-perry-family-furious-ofsted-single-word-ratings-retained)
-- [Inaugural Guardian Advertising Awards take place in London](https://www.theguardian.com/media/2024/apr/25/inaugural-guardian-advertising-awards-take-place-in-london)
-- [BBC unveils 2024 Proms lineup: Daniel Barenboim, Daleks and disco](https://www.theguardian.com/music/2024/apr/25/bbc-unveils-2024-proms-lineup-daniel-barenboim-daleks-and-disco)
-- [Meta says revenue will be weak as it spends even more on AI](https://www.theguardian.com/technology/2024/apr/24/meta-earnings)
+- [NFL draft 2024: Six quarterbacks selected in top 12 picks – live](https://www.theguardian.com/sport/live/2024/apr/26/nfl-draft-2024-updates-picks-time-picks)
+- [The US college protests and the crackdown on campuses - podcast](https://www.theguardian.com/news/audio/2024/apr/26/us-college-protests-and-crackdown-on-campuses-podcast)
+- [US troops begin construction of Gaza aid pier as questions remain over distribution](https://www.theguardian.com/world/2024/apr/26/us-military-troops-gaza-aid-pier)
+- [India election: fears that Modi’s BJP will polarise voters in fight for key state](https://www.theguardian.com/world/2024/apr/26/india-election-locals-fear-modis-bjp-will-polarise-voters-in-fight-for-key-state)
+- [Ukraine war briefing: Kyiv pulls back Abrams tanks due to drone raids and losses, says US](https://www.theguardian.com/world/2024/apr/26/ukraine-war-briefing-kyiv-pulls-back-abrams-tanks-due-to-drone-raids-and-losses-says-us)
+- [What does Harvey Weinstein’s New York ruling mean for his California rape conviction?](https://www.theguardian.com/world/2024/apr/25/harvey-weinstein-los-angeles-conviction)
+- [Police allegedly use rubber bullets and teargas at university protest in Georgia](https://www.theguardian.com/us-news/2024/apr/25/emory-university-protest-arrests)
+- [My partner concealed he had more than one ex-wife. Should I be nervous about our future? | Leading questions](https://www.theguardian.com/lifeandstyle/2024/apr/26/my-partner-concealed-he-had-more-than-one-ex-wife-should-i-be-nervous-about-our-future)
+- [ByteDance would shut down TikTok in US rather than sell it, sources say](https://www.theguardian.com/technology/2024/apr/25/bytedance-shut-down-tiktok-than-sell)
+- [Luke Littler silences boo boys to win Premier League darts final in Liverpool](https://www.theguardian.com/sport/2024/apr/26/luke-littler-silences-boo-boys-to-win-premier-league-darts-final-in-liverpool)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

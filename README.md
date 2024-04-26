@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Don&#39;t forget to calculate emotional runway as well as financial runway &lpar;2018&rpar;](https://www.mooreds.com/wordpress/archives/2468)
-- [Military horses throw their riders and tear through central London](https://www.bbc.co.uk/news/live/uk-england-london-68888725)
-- [llamafile v0.8](https://github.com/Mozilla-Ocho/llamafile/releases/tag/0.8)
-- [International Classification of Diseases](https://en.wikipedia.org/wiki/International_Classification_of_Diseases)
-- [Meta loses $200B in value as earning call focuses on all the ways bleeds cash](https://www.cnbc.com/2024/04/24/meta-loses-200-billion-in-value-zuckerberg-focuses-on-ai-metaverse.html)
-- [Inside Super Nintendo Cartridges](https://fabiensanglard.net/snes_carts/)
-- [Fine tune LLAMA3 on million scale dataset in consumer GPU using QLora, DeepSpeed](https://medium.com/@sumandas0/fine-tune-llama3-on-million-scale-dataset-in-consumer-gpu-using-qlora-deepspeed-3ae8ad75299a)
-- [Memorability shapes perceived time &lpar;and vice versa&rpar;](https://www.nature.com/articles/s41562-024-01863-2)
-- [Gender Pay Gap Report Q1 2024](https://www.levels.fyi/blog/gender-pay-gap-report-q1-2024.html)
-- [As the US Air Force fleet keeps shrinking, can it still win wars?](https://www.defensenews.com/air/2024/04/23/as-the-us-air-force-fleet-keeps-shrinking-can-it-still-win-wars/)
+- [With a high degree of scientific certainty, GPT-5 is way, way dumber than GPT-4](https://twitter.com/kindgracekind/status/1783665460308824506)
+- [OpenBSD gains accidental unhibernate protection](https://marc.info/?l=openbsd-cvs&m=171406976030750&w=2)
+- [If Starship is real, we&#39;re going to need big cargo movers on the Moon and Mars](https://arstechnica.com/space/2024/04/astrolab-tacks-toward-a-future-where-100s-of-tons-of-cargo-are-shipped-to-the-moon/)
+- [California Achieves Major Clean Energy Victory: 10GW of Battery Storage](https://www.gov.ca.gov/2024/04/25/california-achieves-major-clean-energy-victory-10000-megawatts-of-battery-storage/)
+- [Pen.el – Emacs-based operating system designed with holiness in mind](https://github.com/semiosis/pen.el)
+- [Chipotle tells employees not to eat chicken on the job](https://qz.com/chipotle-earnings-stock-chicken-supply-consumer-demand-1851435334)
+- [An Engineer&#39;s Guide to Integrating ARI into Existing Acme Clients](https://letsencrypt.org/2024/04/25/guide-to-integrating-ari-into-existing-acme-clients.html)
+- [Drink Me: &lpar;Ab&rpar;Using a LLM to Compress Text](https://o565.com/llm-text-compression/)
+- [LAP: Lua Async Protocol](https://github.com/civboot/civlua/tree/main/lib/lap)
+- [&#39;Parasite&#39; Actor Found Dead After 2 Women Blackmailed Him [video]](https://www.youtube.com/watch?v=DOHED9TcOCI)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

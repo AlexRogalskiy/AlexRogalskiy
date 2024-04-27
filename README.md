@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [NFL draft 2024: Six quarterbacks selected in top 12 picks – live](https://www.theguardian.com/sport/live/2024/apr/26/nfl-draft-2024-updates-picks-time-picks)
-- [The US college protests and the crackdown on campuses - podcast](https://www.theguardian.com/news/audio/2024/apr/26/us-college-protests-and-crackdown-on-campuses-podcast)
-- [US troops begin construction of Gaza aid pier as questions remain over distribution](https://www.theguardian.com/world/2024/apr/26/us-military-troops-gaza-aid-pier)
-- [India election: fears that Modi’s BJP will polarise voters in fight for key state](https://www.theguardian.com/world/2024/apr/26/india-election-locals-fear-modis-bjp-will-polarise-voters-in-fight-for-key-state)
-- [Ukraine war briefing: Kyiv pulls back Abrams tanks due to drone raids and losses, says US](https://www.theguardian.com/world/2024/apr/26/ukraine-war-briefing-kyiv-pulls-back-abrams-tanks-due-to-drone-raids-and-losses-says-us)
-- [What does Harvey Weinstein’s New York ruling mean for his California rape conviction?](https://www.theguardian.com/world/2024/apr/25/harvey-weinstein-los-angeles-conviction)
-- [Police allegedly use rubber bullets and teargas at university protest in Georgia](https://www.theguardian.com/us-news/2024/apr/25/emory-university-protest-arrests)
-- [My partner concealed he had more than one ex-wife. Should I be nervous about our future? | Leading questions](https://www.theguardian.com/lifeandstyle/2024/apr/26/my-partner-concealed-he-had-more-than-one-ex-wife-should-i-be-nervous-about-our-future)
-- [ByteDance would shut down TikTok in US rather than sell it, sources say](https://www.theguardian.com/technology/2024/apr/25/bytedance-shut-down-tiktok-than-sell)
-- [Luke Littler silences boo boys to win Premier League darts final in Liverpool](https://www.theguardian.com/sport/2024/apr/26/luke-littler-silences-boo-boys-to-win-premier-league-darts-final-in-liverpool)
+- [US to provide Patriot missiles to Ukraine as part of fresh $6bn aid package](https://www.theguardian.com/world/2024/apr/27/us-to-provide-patriot-missiles-to-ukraine-as-part-of-fresh-6bn-aid-package)
+- [Audacious, stimulating and ‘utterly bonkers’: Siang Lu, the thrilling new face of Australian literature](https://www.theguardian.com/books/2024/apr/27/siang-lu-ghost-cities-the-whitewash-australian-literature)
+- [Columbia University calls for inquiry into leadership as student protests sweep 40 campuses](https://www.theguardian.com/world/2024/apr/26/pro-palestinian-protests-college-campuses)
+- [US court upholds R Kelly’s 20-year prison term for child sexual abuse](https://www.theguardian.com/us-news/2024/apr/26/r-kelly-20-year-prison-sentence-chicago)
+- [‘It’s like juggling sand’: Sean Dyche’s rebuild hit by uncertain Everton future](https://www.theguardian.com/football/2024/apr/26/its-like-juggling-sand-sean-dyche-rebuild-hit-by-uncertain-everton-future)
+- [Minneapolis backs $150,000 settlement for George Floyd witness’s PTSD lawsuit](https://www.theguardian.com/us-news/2024/apr/26/george-floyd-witness-settlement-minneapolis-donald-williams)
+- [A Premier League return is the only certainty in Leicester’s cloudy future](https://www.theguardian.com/football/2024/apr/26/a-premier-league-return-is-the-only-certainty-in-leicesters-cloudy-future)
+- [Leicester promoted to Premier League after Leeds crash to heavy defeat at QPR](https://www.theguardian.com/football/2024/apr/26/qpr-leeds-championship-match-report)
+- [Trump on Trial: What we learned from David Pecker’s testimony](https://www.theguardian.com/us-news/2024/apr/26/david-pecker-testimony-highlights-trump-hush-money-trial)
+- [Owen Farrell’s late penalty gives Saracens hard-fought win at Bath](https://www.theguardian.com/sport/2024/apr/26/bath-saracens-premiership-rugby-union-match-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

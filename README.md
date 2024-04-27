@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Banned in the U.S.: Healthy Light Bulbs](https://www.psychologytoday.com/us/blog/the-light-doctor/202404/banned-in-the-us-healthy-light-bulbs)
-- [A Heavy Sad Heart](https://mailchi.mp/62e24f2ccc99/a-heavy-sad-heart)
-- [Survey reveals translators and illustrators losing work to AI](https://www2.societyofauthors.org/2024/04/11/soa-survey-reveals-a-third-of-translators-and-quarter-of-illustrators-losing-work-to-ai/)
-- [The Surprising Number of Steam Games That Use GenAI](https://www.totallyhuman.io/blog/the-surprising-number-of-steam-games-that-use-genai)
-- [Nintendo forces Garry&#39;s Mod to delete 20 years of content](https://www.tomshardware.com/video-games/pc-gaming/nintendo-forces-garrys-mod-to-delete-20-years-of-content-garry-confirms-nintendo-is-behind-steam-workshop-purge)
-- [Visualizing the locations of malicious login attempts](https://romeov.github.io/malicious_ip_addresses/malicious_ip_analysis.html)
-- [Jeff Lawson Buys The Onion](https://www.nytimes.com/2024/04/25/business/media/the-onion-sold.html)
-- [A look at the early impact of Meta Llama 3](https://ai.meta.com/blog/meta-llama-3-update/)
-- [Open Sourcing DOS 4](https://www.hanselman.com/blog/open-sourcing-dos-4)
-- [A Logic Language for Distributed SQL Queries](https://www.osohq.com/post/logic-language-distributed-sql-queries)
+- [How Not to Release Historic Source Code](https://www.os2museum.com/wp/how-not-to-release-historic-source-code/)
+- [A hydrocarbon molecule as supplier and energy storage solution for solar energy](https://phys.org/news/2024-04-hydrocarbon-molecule-supplier-energy-storage.html)
+- [World War I dangers in France&#39;s red zones](https://www.atlasobscura.com/articles/red-zones-in-france)
+- [Show HN: React for Circuits](https://github.com/tscircuit/tscircuit/blob/main/README.md)
+- [Relational Graph Convolutional Networks for Sentiment Analysis](https://arxiv.org/abs/2404.13079)
+- [Searchformer: Beyond a* Better Planning with Transformers via Search Dynamics](https://github.com/facebookresearch/searchformer)
+- [Court upholds New York law that says ISPs must offer $15 broadband](https://arstechnica.com/tech-policy/2024/04/court-upholds-new-york-law-that-says-isps-must-offer-15-broadband/)
+- [Factorio – Statistics improvements, Linux adventures](https://factorio.com/blog/post/fff-408)
+- [Trellis &lpar;YC W24&rpar; is hiring Founding Eng to build snowflake for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/biNfViG-founding-engineers-full-time)
+- [Building an open data pipeline in 2024](https://blog.twingdata.com/p/building-an-open-data-pipeline-in)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

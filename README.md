@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [With a high degree of scientific certainty, GPT-5 is way, way dumber than GPT-4](https://twitter.com/kindgracekind/status/1783665460308824506)
-- [OpenBSD gains accidental unhibernate protection](https://marc.info/?l=openbsd-cvs&m=171406976030750&w=2)
-- [If Starship is real, we&#39;re going to need big cargo movers on the Moon and Mars](https://arstechnica.com/space/2024/04/astrolab-tacks-toward-a-future-where-100s-of-tons-of-cargo-are-shipped-to-the-moon/)
-- [California Achieves Major Clean Energy Victory: 10GW of Battery Storage](https://www.gov.ca.gov/2024/04/25/california-achieves-major-clean-energy-victory-10000-megawatts-of-battery-storage/)
-- [Pen.el – Emacs-based operating system designed with holiness in mind](https://github.com/semiosis/pen.el)
-- [Chipotle tells employees not to eat chicken on the job](https://qz.com/chipotle-earnings-stock-chicken-supply-consumer-demand-1851435334)
-- [An Engineer&#39;s Guide to Integrating ARI into Existing Acme Clients](https://letsencrypt.org/2024/04/25/guide-to-integrating-ari-into-existing-acme-clients.html)
-- [Drink Me: &lpar;Ab&rpar;Using a LLM to Compress Text](https://o565.com/llm-text-compression/)
-- [LAP: Lua Async Protocol](https://github.com/civboot/civlua/tree/main/lib/lap)
-- [&#39;Parasite&#39; Actor Found Dead After 2 Women Blackmailed Him [video]](https://www.youtube.com/watch?v=DOHED9TcOCI)
+- [Show HN: Leaderboard of most downloaded PyPI packages](https://pypilb.vercel.app/)
+- [Prisma now supports SQL joins](https://www.prisma.io/blog/prisma-orm-now-lets-you-choose-the-best-join-strategy-preview)
+- [Post-Mortem of the Matrix.org Outage](https://matrix.org/blog/2024/04/morg-post-mortem/)
+- [Maintainers Leaving](https://github.com/NixOS/nixpkgs/milestone/27)
+- [How to prevent Lyme disease this summer](https://news.harvard.edu/gazette/story/2023/06/how-to-prevent-lyme-disease-this-summer/)
+- [Real-World Cryptography &lpar;2021&rpar;](https://www.manning.com/books/real-world-cryptography?a_aid=Realworldcrypto&a_bid=ad500e09)
+- [SQLite VFS for ZSTD seekable format](https://github.com/jtarchie/sqlitezstd)
+- [Insight: Why BYD&#39;s EV exports sell for twice the China price](https://www.reuters.com/business/autos-transportation/why-byds-ev-exports-sell-twice-china-price-2024-04-26/)
+- [Where I&#39;m Coming From](https://werd.io/2024/where-im-coming-from)
+- [React 19 Beta Thoughts](https://andrewhuth.substack.com/p/react-19-beta-thoughts)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

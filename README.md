@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: Leaderboard of most downloaded PyPI packages](https://pypilb.vercel.app/)
-- [Prisma now supports SQL joins](https://www.prisma.io/blog/prisma-orm-now-lets-you-choose-the-best-join-strategy-preview)
-- [Post-Mortem of the Matrix.org Outage](https://matrix.org/blog/2024/04/morg-post-mortem/)
-- [Maintainers Leaving](https://github.com/NixOS/nixpkgs/milestone/27)
-- [How to prevent Lyme disease this summer](https://news.harvard.edu/gazette/story/2023/06/how-to-prevent-lyme-disease-this-summer/)
-- [Real-World Cryptography &lpar;2021&rpar;](https://www.manning.com/books/real-world-cryptography?a_aid=Realworldcrypto&a_bid=ad500e09)
-- [SQLite VFS for ZSTD seekable format](https://github.com/jtarchie/sqlitezstd)
-- [Insight: Why BYD&#39;s EV exports sell for twice the China price](https://www.reuters.com/business/autos-transportation/why-byds-ev-exports-sell-twice-china-price-2024-04-26/)
-- [Where I&#39;m Coming From](https://werd.io/2024/where-im-coming-from)
-- [React 19 Beta Thoughts](https://andrewhuth.substack.com/p/react-19-beta-thoughts)
+- [Why I Don&#39;t Invest in Real Estate](https://unchartedterritories.tomaspueyo.com/p/why-i-dont-invest-in-real-estate)
+- [Leaders Must Listen to Thrive](https://blog.zeitvice.com/posts/the-sound-of-silence-why-leaders-must-listen-to-thrive/)
+- [If you wish to understand the universe, think of energy, frequency and vibration](https://justenergy.com/blog/nikola-tesla/)
+- [On-demand nutrient production system for long-duration space missions](https://phys.org/news/2024-04-demand-nutrient-production-duration-space.html)
+- [The Martians &lpar;Scientists&rpar;](https://en.wikipedia.org/wiki/The_Martians_(scientists))
+- [The Voyage of Magellan](https://analog-antiquarian.net/2024/04/26/chapter-5-underway/)
+- [Andes: Optimizing the QoE of LLM text streaming services](https://llm-qoe.github.io/)
+- [Ask HN: How does Spotify select songs for auto generated playlists?](https://news.ycombinator.com/item?id=40185344)
+- [Automation tips for using &#39;if&#39; statements in Bash script](https://allthingsopen.org/articles/automation-tips-bash-script)
+- [Good Air Quality](https://news.ycombinator.com/item?id=40185305)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

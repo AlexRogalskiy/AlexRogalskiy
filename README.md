@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [How Not to Release Historic Source Code](https://www.os2museum.com/wp/how-not-to-release-historic-source-code/)
-- [A hydrocarbon molecule as supplier and energy storage solution for solar energy](https://phys.org/news/2024-04-hydrocarbon-molecule-supplier-energy-storage.html)
-- [World War I dangers in France&#39;s red zones](https://www.atlasobscura.com/articles/red-zones-in-france)
-- [Show HN: React for Circuits](https://github.com/tscircuit/tscircuit/blob/main/README.md)
-- [Relational Graph Convolutional Networks for Sentiment Analysis](https://arxiv.org/abs/2404.13079)
-- [Searchformer: Beyond a* Better Planning with Transformers via Search Dynamics](https://github.com/facebookresearch/searchformer)
-- [Court upholds New York law that says ISPs must offer $15 broadband](https://arstechnica.com/tech-policy/2024/04/court-upholds-new-york-law-that-says-isps-must-offer-15-broadband/)
-- [Factorio – Statistics improvements, Linux adventures](https://factorio.com/blog/post/fff-408)
-- [Trellis &lpar;YC W24&rpar; is hiring Founding Eng to build snowflake for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/biNfViG-founding-engineers-full-time)
-- [Building an open data pipeline in 2024](https://blog.twingdata.com/p/building-an-open-data-pipeline-in)
+- [Why I Am Now Relaxed About Releasing Buggy Software](https://mamddoh.wordpress.com/2024/04/28/why-i-am-now-relaxed-about-releasing-buggy-software/)
+- [How to improve the RISC-V specification](https://alastairreid.github.io/riscv-spec-issues/)
+- [RFC 7282 – On Consensus and Humming in the IETF &lpar;2014&rpar;](https://datatracker.ietf.org/doc/html/rfc7282)
+- [Google made me ruin a perfectly good website &lpar;2023&rpar;](https://theluddite.org/#!post/google-ads)
+- [Let&#39;s Embed a Go Program into the Linux Kernel](https://sigma-star.at/blog/2023/07/embedded-go-prog/)
+- [Burn After Wearing](https://grist.org/international/burn-after-wearing-fashion-waste-chile/)
+- [Microsoft at Work](https://computer.rip/2024-04-26-microsoft-at-work.html)
+- [Zep AI &lpar;YC W24&rpar; Is Hiring a Dev Advocate / Engineer with LLM Experience](https://jobs.gem.com/zep/am9icG9zdDqdSHi4vSPAkX4trFIRMpZn)
+- [Keep Out – WebGL Game](http://www.playkeepout.com/)
+- [Let&#39;s Think Dot by Dot: Hidden Computation in Transformer Language Models](https://arxiv.org/abs/2404.15758)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

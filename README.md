@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [US to provide Patriot missiles to Ukraine as part of fresh $6bn aid package](https://www.theguardian.com/world/2024/apr/27/us-to-provide-patriot-missiles-to-ukraine-as-part-of-fresh-6bn-aid-package)
-- [Audacious, stimulating and ‘utterly bonkers’: Siang Lu, the thrilling new face of Australian literature](https://www.theguardian.com/books/2024/apr/27/siang-lu-ghost-cities-the-whitewash-australian-literature)
-- [Columbia University calls for inquiry into leadership as student protests sweep 40 campuses](https://www.theguardian.com/world/2024/apr/26/pro-palestinian-protests-college-campuses)
-- [US court upholds R Kelly’s 20-year prison term for child sexual abuse](https://www.theguardian.com/us-news/2024/apr/26/r-kelly-20-year-prison-sentence-chicago)
-- [‘It’s like juggling sand’: Sean Dyche’s rebuild hit by uncertain Everton future](https://www.theguardian.com/football/2024/apr/26/its-like-juggling-sand-sean-dyche-rebuild-hit-by-uncertain-everton-future)
-- [Minneapolis backs $150,000 settlement for George Floyd witness’s PTSD lawsuit](https://www.theguardian.com/us-news/2024/apr/26/george-floyd-witness-settlement-minneapolis-donald-williams)
-- [A Premier League return is the only certainty in Leicester’s cloudy future](https://www.theguardian.com/football/2024/apr/26/a-premier-league-return-is-the-only-certainty-in-leicesters-cloudy-future)
-- [Leicester promoted to Premier League after Leeds crash to heavy defeat at QPR](https://www.theguardian.com/football/2024/apr/26/qpr-leeds-championship-match-report)
-- [Trump on Trial: What we learned from David Pecker’s testimony](https://www.theguardian.com/us-news/2024/apr/26/david-pecker-testimony-highlights-trump-hush-money-trial)
-- [Owen Farrell’s late penalty gives Saracens hard-fought win at Bath](https://www.theguardian.com/sport/2024/apr/26/bath-saracens-premiership-rugby-union-match-report)
+- [Ukraine war briefing: Russian airstrikes pound central and western Ukrainian power facilities](https://www.theguardian.com/world/2024/apr/28/ukraine-war-briefing-russian-airstrikes-pound-central-and-western-ukrainian-power-facilities)
+- [Ammunition explosion at Cambodia military base kills 20 soldiers](https://www.theguardian.com/world/2024/apr/28/ammunition-explosion-at-cambodia-military-base-kills-20-soldiers)
+- [London’s Central drama school axes audition fees to end elite grip on the arts](https://www.theguardian.com/education/2024/apr/28/londons-central-drama-school-axes-audition-fees-to-end-elite-grip-on-the-arts)
+- [‘Almost beyond belief’: axing of UK teacher recruitment scheme will worsen crisis, say critics](https://www.theguardian.com/education/2024/apr/28/axing-uk-teacher-recruitment-scheme-now-teach-older-workers)
+- [Editors’ picks: How to style a knitted tank top for summer 5 ways – in pictures](https://www.theguardian.com/fashion/gallery/2024/apr/27/editors-picks-how-to-style-a-knitted-tank-top-for-summer-5-ways-in-pictures)
+- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2024/apr/27/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [‘Like a war zone’: Emory University grapples with fallout from police response to protest](https://www.theguardian.com/us-news/2024/apr/27/emory-university-georgia-police-campus-protests)
+- [Gold pocket watch of richest man on Titanic fetches record-breaking £1.2m](https://www.theguardian.com/uk-news/2024/apr/27/gold-pocket-watch-of-richest-man-on-titanic-fetches-record-breaking-12m)
+- [European football: Harry Kane reaches new best, Leverkusen stay unbeaten](https://www.theguardian.com/football/2024/apr/27/european-football-harry-kane-bundesliga-dortmund)
+- [Body of climber who died after 1,000ft fall recovered from Alaska mountain](https://www.theguardian.com/us-news/2024/apr/27/climber-dead-1000ft-fall-alaska-mountain)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

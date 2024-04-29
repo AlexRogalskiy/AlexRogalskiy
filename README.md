@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Why I Am Now Relaxed About Releasing Buggy Software](https://mamddoh.wordpress.com/2024/04/28/why-i-am-now-relaxed-about-releasing-buggy-software/)
-- [How to improve the RISC-V specification](https://alastairreid.github.io/riscv-spec-issues/)
-- [RFC 7282 – On Consensus and Humming in the IETF &lpar;2014&rpar;](https://datatracker.ietf.org/doc/html/rfc7282)
-- [Google made me ruin a perfectly good website &lpar;2023&rpar;](https://theluddite.org/#!post/google-ads)
-- [Let&#39;s Embed a Go Program into the Linux Kernel](https://sigma-star.at/blog/2023/07/embedded-go-prog/)
-- [Burn After Wearing](https://grist.org/international/burn-after-wearing-fashion-waste-chile/)
-- [Microsoft at Work](https://computer.rip/2024-04-26-microsoft-at-work.html)
-- [Zep AI &lpar;YC W24&rpar; Is Hiring a Dev Advocate / Engineer with LLM Experience](https://jobs.gem.com/zep/am9icG9zdDqdSHi4vSPAkX4trFIRMpZn)
-- [Keep Out – WebGL Game](http://www.playkeepout.com/)
-- [Let&#39;s Think Dot by Dot: Hidden Computation in Transformer Language Models](https://arxiv.org/abs/2404.15758)
+- [Exercise, metabolism, and weight: New research from The Biggest Loser](https://www.health.harvard.edu/blog/exercise-metabolism-and-weight-new-research-from-the-biggest-loser-202201272676)
+- [Apple MacBook Air 15-Inch M3 Review](https://www.thurrott.com/mobile/mac-and-macos/301371/apple-macbook-air-15-inch-m3-review)
+- [6502 – Guideline to Reverse Engineering &lpar;how to read die shots&rpar; [pdf]](https://downloads.reactivemicro.com/Electronics/Reverse%20Engineering/6502%20-%20Guideline%20to%20Reverse%20Engineering%20v1.0.pdf)
+- [Block* and AgentFormer – Playing with blocks and Transformers &lpar;yay&rpar;](https://github.com/rayking99/BlockStar)
+- [The Essence of Compiling with Continuations &lpar;1993&rpar; [pdf]](https://dl.acm.org/doi/pdf/10.1145/173262.155113)
+- [Personal computing paves the way for personal library science](https://www.bramadams.dev/issue-55/)
+- [DEC PDP-1 emulator running &quot;Spacewar&quot;, the earliest known digital video game](https://www.masswerk.at/spacewar/index.html)
+- [Call-to-Action on SB 1047 – Frontier Artificial Intelligence Models Act](https://www.affuture.org/post/9-context/)
+- [Meticulous &lpar;YC S21&rpar; is hiring to eliminate E2E UI tests](https://news.ycombinator.com/item?id=40191915)
+- [Ollama v0.1.33 with Llama 3, Phi 3, and Qwen 110B](https://github.com/ollama/ollama/releases/tag/v0.1.33-rc5)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine war briefing: Russian airstrikes pound central and western Ukrainian power facilities](https://www.theguardian.com/world/2024/apr/28/ukraine-war-briefing-russian-airstrikes-pound-central-and-western-ukrainian-power-facilities)
-- [Ammunition explosion at Cambodia military base kills 20 soldiers](https://www.theguardian.com/world/2024/apr/28/ammunition-explosion-at-cambodia-military-base-kills-20-soldiers)
-- [London’s Central drama school axes audition fees to end elite grip on the arts](https://www.theguardian.com/education/2024/apr/28/londons-central-drama-school-axes-audition-fees-to-end-elite-grip-on-the-arts)
-- [‘Almost beyond belief’: axing of UK teacher recruitment scheme will worsen crisis, say critics](https://www.theguardian.com/education/2024/apr/28/axing-uk-teacher-recruitment-scheme-now-teach-older-workers)
-- [Editors’ picks: How to style a knitted tank top for summer 5 ways – in pictures](https://www.theguardian.com/fashion/gallery/2024/apr/27/editors-picks-how-to-style-a-knitted-tank-top-for-summer-5-ways-in-pictures)
-- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2024/apr/27/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [‘Like a war zone’: Emory University grapples with fallout from police response to protest](https://www.theguardian.com/us-news/2024/apr/27/emory-university-georgia-police-campus-protests)
-- [Gold pocket watch of richest man on Titanic fetches record-breaking £1.2m](https://www.theguardian.com/uk-news/2024/apr/27/gold-pocket-watch-of-richest-man-on-titanic-fetches-record-breaking-12m)
-- [European football: Harry Kane reaches new best, Leverkusen stay unbeaten](https://www.theguardian.com/football/2024/apr/27/european-football-harry-kane-bundesliga-dortmund)
-- [Body of climber who died after 1,000ft fall recovered from Alaska mountain](https://www.theguardian.com/us-news/2024/apr/27/climber-dead-1000ft-fall-alaska-mountain)
+- [Have open marriages gone mainstream? – podcast](https://www.theguardian.com/news/audio/2024/apr/29/have-open-marriages-gone-mainstream-podcast)
+- [Biden and Netanyahu speak as pressure grows over Rafah and Gaza ceasefire talks](https://www.theguardian.com/us-news/2024/apr/28/biden-netanyahu-israel-hamas-gaza-ceasefire)
+- [Cash is king — for now: China signals it will slow transition to cashless society](https://www.theguardian.com/world/2024/apr/29/china-slows-cashless-society-transition-cash-digital-currency-mobile-payment-system)
+- [Ukraine war briefing: Russian pressure forces Ukrainian retreat from three villages](https://www.theguardian.com/world/2024/apr/29/ukraine-war-briefing-russian-pressure-forces-ukrainian-retreat-from-three-villages)
+- [Taxing big fossil fuel firms ‘could raise $900bn in climate finance by 2030’](https://www.theguardian.com/environment/2024/apr/29/taxing-big-fossil-fuel-firms-raise-billions-climate-finance)
+- [No more 12345: devices with weak passwords to be banned in UK](https://www.theguardian.com/technology/2024/apr/29/devices-with-weak-passwords-to-be-banned-uk)
+- [Average cost of UK car insurance rises by one-third in a year, analysis finds](https://www.theguardian.com/money/2024/apr/29/average-cost-price-paid-uk-comprehensive-car-motor-insurance-2024)
+- [British tourist injured in shark attack is ‘aware and can communicate’](https://www.theguardian.com/world/2024/apr/28/british-tourist-injured-in-shark-attack-is-aware-and-can-communicate)
+- [David Cameron under fire for hiring £42m luxury jet for central Asia tour](https://www.theguardian.com/politics/2024/apr/28/david-cameron-under-fire-for-hiring-42m-luxury-jet-for-central-asia-tour)
+- [Steeplechaser Shishkin dies after suffering leg fracture](https://www.theguardian.com/sport/2024/apr/28/steeplechaser-shishkin-dies-after-suffering-leg-fracture)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

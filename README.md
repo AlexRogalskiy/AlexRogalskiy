@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Why I Don&#39;t Invest in Real Estate](https://unchartedterritories.tomaspueyo.com/p/why-i-dont-invest-in-real-estate)
-- [Leaders Must Listen to Thrive](https://blog.zeitvice.com/posts/the-sound-of-silence-why-leaders-must-listen-to-thrive/)
-- [If you wish to understand the universe, think of energy, frequency and vibration](https://justenergy.com/blog/nikola-tesla/)
-- [On-demand nutrient production system for long-duration space missions](https://phys.org/news/2024-04-demand-nutrient-production-duration-space.html)
-- [The Martians &lpar;Scientists&rpar;](https://en.wikipedia.org/wiki/The_Martians_(scientists))
-- [The Voyage of Magellan](https://analog-antiquarian.net/2024/04/26/chapter-5-underway/)
-- [Andes: Optimizing the QoE of LLM text streaming services](https://llm-qoe.github.io/)
-- [Ask HN: How does Spotify select songs for auto generated playlists?](https://news.ycombinator.com/item?id=40185344)
-- [Automation tips for using &#39;if&#39; statements in Bash script](https://allthingsopen.org/articles/automation-tips-bash-script)
-- [Good Air Quality](https://news.ycombinator.com/item?id=40185305)
+- [Show HN: I crafted an expenses tracker for efficient financial monitoring](https://read-wise.vercel.app)
+- [Researcher cracks &quot;secret&quot; code in U.S. Cyber Command logo &lpar;2010&rpar;](https://www.computerworld.com/article/1540486/researcher-cracks-secret-code-in-u-s-cyber-command-logo.html)
+- [Show HN: Create typed declarative API clients quickly and easily &lpar;Python&rpar;](https://github.com/martinn/quickapiclient)
+- [Epoch &lpar;collaborative &quot;open source&quot; world building&rpar;](https://github.com/ProjectEpoch2024/Epoch)
+- [How to monitor your cloud carbon footprint using Kepler, Prometheus, and Grafana](https://grafana.com/blog/2024/04/22/going-green-how-to-monitor-your-cloud-carbon-footprint-using-kepler-prometheus-and-grafana/)
+- [Gujarat Hybrid Renewable Energy Park](https://en.wikipedia.org/wiki/Gujarat_Hybrid_Renewable_Energy_Park)
+- [What Does the National Weight Control Registry Tell Us About Weight Loss?](https://www.todaysdietitian.com/newarchives/0419p12.shtml)
+- [Crows Are Self-Aware Just Like Humans, and They May Be as Smart as Gorillas](https://www.popularmechanics.com/science/animals/a34165311/crows-are-self-aware-like-humans/)
+- [Exercise, metabolism, and weight: New research from The Biggest Loser](https://www.health.harvard.edu/blog/exercise-metabolism-and-weight-new-research-from-the-biggest-loser-202201272676)
+- [Just Bleach It](https://pipettejockey.com/2016/11/01/just-bleach-it/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Show HN: I crafted an expenses tracker for efficient financial monitoring](https://read-wise.vercel.app)
-- [Researcher cracks &quot;secret&quot; code in U.S. Cyber Command logo &lpar;2010&rpar;](https://www.computerworld.com/article/1540486/researcher-cracks-secret-code-in-u-s-cyber-command-logo.html)
-- [Show HN: Create typed declarative API clients quickly and easily &lpar;Python&rpar;](https://github.com/martinn/quickapiclient)
-- [Epoch &lpar;collaborative &quot;open source&quot; world building&rpar;](https://github.com/ProjectEpoch2024/Epoch)
-- [How to monitor your cloud carbon footprint using Kepler, Prometheus, and Grafana](https://grafana.com/blog/2024/04/22/going-green-how-to-monitor-your-cloud-carbon-footprint-using-kepler-prometheus-and-grafana/)
-- [Gujarat Hybrid Renewable Energy Park](https://en.wikipedia.org/wiki/Gujarat_Hybrid_Renewable_Energy_Park)
-- [What Does the National Weight Control Registry Tell Us About Weight Loss?](https://www.todaysdietitian.com/newarchives/0419p12.shtml)
-- [Crows Are Self-Aware Just Like Humans, and They May Be as Smart as Gorillas](https://www.popularmechanics.com/science/animals/a34165311/crows-are-self-aware-like-humans/)
-- [Exercise, metabolism, and weight: New research from The Biggest Loser](https://www.health.harvard.edu/blog/exercise-metabolism-and-weight-new-research-from-the-biggest-loser-202201272676)
-- [Just Bleach It](https://pipettejockey.com/2016/11/01/just-bleach-it/)
+- [Saudis Scale Back Ambition for $1.5T Desert Project Neom](https://www.bloomberg.com/news/articles/2024-04-05/saudis-scale-back-ambition-for-1-5-trillion-desert-project-neom)
+- [Electromigration Concerns Grow in Advanced Packages](https://semiengineering.com/electromigration-concerns-grow-in-advanced-packages/)
+- [Show HN: A cross-platform version manager for JDK, Go, Node.js, Bun.js, etc.](https://gvcgo.github.io/vmr/pages/about/)
+- [First Time Ever Laser Excitation of an Atomic Nucleus](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.182501)
+- [What consumers should know as Philips agrees to $1.1B CPAP settlement](https://www.npr.org/2024/04/29/1247774390/cpap-philips-sleep-apnea-injury-lawsuit)
+- [What makes OpenBSD forks/IPC an order of magnitude slower?](https://old.reddit.com/r/openbsd/comments/1cftydm/is_forking_and_ipc_supposed_to_be_slow_in_openbsd/)
+- [Researcher finds that wood frogs evolved rapidly in response to road salts](https://phys.org/news/2024-04-wood-frogs-evolved-rapidly-response.html)
+- [How the Lockheed SR-71 Blackbird Works [video]](https://www.youtube.com/watch?v=gkyVZxtsubM)
+- [Evolution has optimized the magnetic sensor in birds](https://phys.org/news/2024-04-evolution-optimized-magnetic-sensor-birds.html)
+- [NASA&#39;s Chandra releases timelapse movies of Crab Nebula and Cassiopeia A](https://phys.org/news/2024-04-nasa-chandra-timelapse-movies-crab.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

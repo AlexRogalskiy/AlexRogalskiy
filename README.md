@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Have open marriages gone mainstream? – podcast](https://www.theguardian.com/news/audio/2024/apr/29/have-open-marriages-gone-mainstream-podcast)
-- [Biden and Netanyahu speak as pressure grows over Rafah and Gaza ceasefire talks](https://www.theguardian.com/us-news/2024/apr/28/biden-netanyahu-israel-hamas-gaza-ceasefire)
-- [Cash is king — for now: China signals it will slow transition to cashless society](https://www.theguardian.com/world/2024/apr/29/china-slows-cashless-society-transition-cash-digital-currency-mobile-payment-system)
-- [Ukraine war briefing: Russian pressure forces Ukrainian retreat from three villages](https://www.theguardian.com/world/2024/apr/29/ukraine-war-briefing-russian-pressure-forces-ukrainian-retreat-from-three-villages)
-- [Taxing big fossil fuel firms ‘could raise $900bn in climate finance by 2030’](https://www.theguardian.com/environment/2024/apr/29/taxing-big-fossil-fuel-firms-raise-billions-climate-finance)
-- [No more 12345: devices with weak passwords to be banned in UK](https://www.theguardian.com/technology/2024/apr/29/devices-with-weak-passwords-to-be-banned-uk)
-- [Average cost of UK car insurance rises by one-third in a year, analysis finds](https://www.theguardian.com/money/2024/apr/29/average-cost-price-paid-uk-comprehensive-car-motor-insurance-2024)
-- [British tourist injured in shark attack is ‘aware and can communicate’](https://www.theguardian.com/world/2024/apr/28/british-tourist-injured-in-shark-attack-is-aware-and-can-communicate)
-- [David Cameron under fire for hiring £42m luxury jet for central Asia tour](https://www.theguardian.com/politics/2024/apr/28/david-cameron-under-fire-for-hiring-42m-luxury-jet-for-central-asia-tour)
-- [Steeplechaser Shishkin dies after suffering leg fracture](https://www.theguardian.com/sport/2024/apr/28/steeplechaser-shishkin-dies-after-suffering-leg-fracture)
+- [Scotland’s first minister Humza Yousaf resigns - podcast](https://www.theguardian.com/news/audio/2024/apr/30/scotland-first-minister-humza-yousaf-resigns-podcast)
+- [Columbia begins suspending pro-Palestine protesters after ultimatum ignored](https://www.theguardian.com/us-news/2024/apr/29/columbia-pro-palestine-protest-ultimatum-suspension)
+- [US military releases images of aid pier under construction off Gaza coast](https://www.theguardian.com/world/2024/apr/29/us-navy-ship-off-gaza-coast-building-part-of-aid-platform-images-show)
+- [Ukraine war briefing: Russia making gains from slow western aid, says Nato chief](https://www.theguardian.com/world/2024/apr/30/ukraine-war-briefing-russia-making-gains-from-slow-western-aid-says-nato-chief)
+- [Trans patients to be treated in separate rooms in hospital under Tory plans](https://www.theguardian.com/society/2024/apr/30/trans-patients-to-be-treated-in-separate-rooms-in-hospital-under-tory-plans)
+- [Average rents in Great Britain climb to record high](https://www.theguardian.com/money/2024/apr/30/average-rents-great-britain-new-high)
+- [Michelangelo: The Last Decades review – where has all the lust and longing gone?](https://www.theguardian.com/artanddesign/2024/apr/30/michelangelo-last-decades-review-british-museum)
+- [‘Still got it’: John Higgins edges Mark Allen with classic Crucible clearance](https://www.theguardian.com/sport/2024/apr/29/ronnie-osullivan-eases-past-wasteful-ryan-day-to-reach-world-snooker-championships-quarter-final)
+- [Prisoners with cancer in England more likely to die of it than other patients](https://www.theguardian.com/society/2024/apr/29/prisoners-with-cancer-england-more-likely-die)
+- [Military horses injured galloping across London making progress, army says](https://www.theguardian.com/world/2024/apr/29/military-horses-injured-galloping-across-london-making-progress-army-says)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

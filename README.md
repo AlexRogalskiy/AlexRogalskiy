@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Saudis Scale Back Ambition for $1.5T Desert Project Neom](https://www.bloomberg.com/news/articles/2024-04-05/saudis-scale-back-ambition-for-1-5-trillion-desert-project-neom)
-- [Electromigration Concerns Grow in Advanced Packages](https://semiengineering.com/electromigration-concerns-grow-in-advanced-packages/)
-- [Show HN: A cross-platform version manager for JDK, Go, Node.js, Bun.js, etc.](https://gvcgo.github.io/vmr/pages/about/)
-- [First Time Ever Laser Excitation of an Atomic Nucleus](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.182501)
-- [What consumers should know as Philips agrees to $1.1B CPAP settlement](https://www.npr.org/2024/04/29/1247774390/cpap-philips-sleep-apnea-injury-lawsuit)
-- [What makes OpenBSD forks/IPC an order of magnitude slower?](https://old.reddit.com/r/openbsd/comments/1cftydm/is_forking_and_ipc_supposed_to_be_slow_in_openbsd/)
-- [Researcher finds that wood frogs evolved rapidly in response to road salts](https://phys.org/news/2024-04-wood-frogs-evolved-rapidly-response.html)
-- [How the Lockheed SR-71 Blackbird Works [video]](https://www.youtube.com/watch?v=gkyVZxtsubM)
-- [Evolution has optimized the magnetic sensor in birds](https://phys.org/news/2024-04-evolution-optimized-magnetic-sensor-birds.html)
-- [NASA&#39;s Chandra releases timelapse movies of Crab Nebula and Cassiopeia A](https://phys.org/news/2024-04-nasa-chandra-timelapse-movies-crab.html)
+- [What I learned building LetrLink: a game built with FlutterFlow, Firebase and AI](https://news.ycombinator.com/item?id=40218830)
+- [ICJ rules it will not halt German arms to Israel](https://www.bbc.com/news/world-europe-68929873)
+- [Reverse-engineering and &quot;running Windows 95&quot; on a vape with a LCD screen](https://ripitapart.com/2024/04/20/dispo-adventures-episode-1-reverse-engineering-and-running-windows-95-on-a-disposable-vape-with-a-colour-lcd-screen/)
+- [The Panopticon Is Already Here &lpar;2020&rpar;](https://www.theatlantic.com/magazine/archive/2020/09/china-ai-surveillance/614197/)
+- [ARIA Funds £42M for &#39;Scaling Compute&#39; Projects &lpar;Apply by 07/05&rpar;](https://www.aria.org.uk/scaling-compute/)
+- [What Are the Biggest Misconceptions About Biosecurity and Pandemic Risk?](https://80000hours.org/articles/anonymous-misconceptions-about-biosecurity/)
+- [Nobody](https://wiki.ubuntu.com/nobody)
+- [T2 System Development Environment – &quot;Future Nostalgia&quot;](https://t2sde.org/#news-2024-04-28)
+- [A Quick Comparison of the Orbbec and RealSense 3D Cameras](https://opencv.org/blog/a-quick-comparison-of-the-orbbec-and-realsense-3d-cameras/)
+- [Show HN: Build and Maintain React Forms with Ease – Formactory](https://news.ycombinator.com/item?id=40218649)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

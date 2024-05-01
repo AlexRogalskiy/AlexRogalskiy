@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Electromigration Concerns Grow in Advanced Packages](https://semiengineering.com/electromigration-concerns-grow-in-advanced-packages/)
-- [Sunlight and Vitamin D](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3897598/)
-- [TypeSpec: A New Language for API-Centric Development](https://typespec.io/blog/2024-04-25-introducing)
-- [Rabbit R1: Barely Reviewable [video]](https://www.youtube.com/watch?v=ddTV12hErTc)
-- [Farewell MFJ](https://hackaday.com/2024/04/29/farewell-mfj/)
-- [Show HN: 3D Framework for the Web. Built on Svelte and Three.js](https://threlte.xyz/)
-- [FireChat was a tool for revolution, then disappeared](https://www.fromjason.xyz/p/notebook/firechat-was-a-tool-for-revolution-then-it-disappeared/)
-- [Green Software Foundation&#39;s Software Carbon Intensity Spec Becomes ISO Standard](https://greensoftware.foundation/articles/sci-specification-achieves-iso-standard-status/)
-- [OneText &lpar;YC W23&rpar; Is Hiring a Lead UX Engineer](https://gist.github.com/bluepnume/33f2c4be93cc20215aafd55f803de19f)
-- [I Built an Ld_preload Worm](https://lcamtuf.substack.com/p/that-time-i-built-an-ld_preload-worm)
+- [MTA banned from using facial recognition to enforce fare evasion](https://gothamist.com/news/mta-banned-from-using-facial-recognition-to-enforce-fare-evasion)
+- [Qantas app data breach allows customers to access strangers&#39; booking details](https://7news.com.au/news/qantas-app-data-breach-allows-customers-to-access-strangers-booking-details-c-14504516)
+- [Aboriginal Linux](https://landley.net/aboriginal/about.html)
+- [StoryDiffusion: Consistent Self-Attention for Long-Range Image and Video Gen](https://storydiffusion.github.io/)
+- [Xbox 360 marketplace will stop accepting purchases per July 29th](https://support.xbox.com/help/xbox-360/store/xbox-360-marketplace-update)
+- [Rabbit R1, a thing that should just be an app, is just an Android app](https://www.androidauthority.com/rabbit-r1-is-an-android-app-3438805/)
+- [General Motors Streetcar Conspiracy](https://en.wikipedia.org/wiki/General_Motors_streetcar_conspiracy)
+- [RankScience &lpar;YC W17&rpar; is hiring to supercharge SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
+- [Printing Music with CSS Grid](https://cruncher.ch/blog/printing-music-with-css-grid/)
+- [Level of Gaussians: Real-Time View Synthesis for Millions of Square Meters](https://zju3dv.github.io/LoG_webpage/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

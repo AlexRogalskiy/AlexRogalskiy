@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Scotland’s first minister Humza Yousaf resigns - podcast](https://www.theguardian.com/news/audio/2024/apr/30/scotland-first-minister-humza-yousaf-resigns-podcast)
-- [Columbia begins suspending pro-Palestine protesters after ultimatum ignored](https://www.theguardian.com/us-news/2024/apr/29/columbia-pro-palestine-protest-ultimatum-suspension)
-- [US military releases images of aid pier under construction off Gaza coast](https://www.theguardian.com/world/2024/apr/29/us-navy-ship-off-gaza-coast-building-part-of-aid-platform-images-show)
-- [Ukraine war briefing: Russia making gains from slow western aid, says Nato chief](https://www.theguardian.com/world/2024/apr/30/ukraine-war-briefing-russia-making-gains-from-slow-western-aid-says-nato-chief)
-- [Trans patients to be treated in separate rooms in hospital under Tory plans](https://www.theguardian.com/society/2024/apr/30/trans-patients-to-be-treated-in-separate-rooms-in-hospital-under-tory-plans)
-- [Average rents in Great Britain climb to record high](https://www.theguardian.com/money/2024/apr/30/average-rents-great-britain-new-high)
-- [Michelangelo: The Last Decades review – where has all the lust and longing gone?](https://www.theguardian.com/artanddesign/2024/apr/30/michelangelo-last-decades-review-british-museum)
-- [‘Still got it’: John Higgins edges Mark Allen with classic Crucible clearance](https://www.theguardian.com/sport/2024/apr/29/ronnie-osullivan-eases-past-wasteful-ryan-day-to-reach-world-snooker-championships-quarter-final)
-- [Prisoners with cancer in England more likely to die of it than other patients](https://www.theguardian.com/society/2024/apr/29/prisoners-with-cancer-england-more-likely-die)
-- [Military horses injured galloping across London making progress, army says](https://www.theguardian.com/world/2024/apr/29/military-horses-injured-galloping-across-london-making-progress-army-says)
+- [US campus protests: police detain pro-Palestinian demonstrators after entering Columbia university – live](https://www.theguardian.com/us-news/live/2024/may/01/columbia-university-protest-live-updates-nypd-new-york-police-enter-campus-pro-palestinian-demonstrators-latest-news)
+- [Is Labour about to win a local election landslide? - podcast](https://www.theguardian.com/news/audio/2024/may/01/is-labour-about-to-win-a-local-election-landslide-podcast)
+- [Teargas and stun grenades used against Georgian protesters opposing ‘foreign agents’ bill](https://www.theguardian.com/world/2024/may/01/georgia-protest-foreign-agents-bill-police-georgian-parliament)
+- [Ukraine war briefing: Kharkiv residents suffer as Russia intensifies attacks](https://www.theguardian.com/world/2024/may/01/ukraine-war-briefing-kharkiv-residents-suffer-as-russia-intensifies-attacks)
+- [Trump threatens to prosecute Bidens if he’s re-elected unless he gets immunity](https://www.theguardian.com/us-news/2024/apr/30/trump-second-term-abortion-immigration)
+- [Saudi Arabia activist sentenced to 11 years in prison for ‘support’ of women’s rights](https://www.theguardian.com/world/2024/may/01/manahel-al-otaibi-saudi-arabia-womens-rights-activist-sentenced-11-years-prison-anti-terrorism-court)
+- [Perimenopausal women have 40% higher risk of depression, study suggests](https://www.theguardian.com/society/2024/may/01/perimenopausal-women-have-40-higher-risk-of-depression-study-suggests)
+- [Dividends payments soar globally as worker pay stagnates](https://www.theguardian.com/business/2024/may/01/dividends-payments-soar-globally-as-worker-pay-stagnates)
+- [England scraps 50% rule on faith school admissions](https://www.theguardian.com/education/2024/may/01/england-scraps-50-rule-on-faith-school-admissions)
+- [Prostate cancer screening methods trialled in ‘pivotal moment’](https://www.theguardian.com/society/2024/may/01/prostate-cancer-screening-methods-trialled-in-pivotal-moment)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

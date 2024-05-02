@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [What I learned building LetrLink: a game built with FlutterFlow, Firebase and AI](https://news.ycombinator.com/item?id=40218830)
-- [ICJ rules it will not halt German arms to Israel](https://www.bbc.com/news/world-europe-68929873)
-- [Reverse-engineering and &quot;running Windows 95&quot; on a vape with a LCD screen](https://ripitapart.com/2024/04/20/dispo-adventures-episode-1-reverse-engineering-and-running-windows-95-on-a-disposable-vape-with-a-colour-lcd-screen/)
-- [The Panopticon Is Already Here &lpar;2020&rpar;](https://www.theatlantic.com/magazine/archive/2020/09/china-ai-surveillance/614197/)
-- [ARIA Funds £42M for &#39;Scaling Compute&#39; Projects &lpar;Apply by 07/05&rpar;](https://www.aria.org.uk/scaling-compute/)
-- [What Are the Biggest Misconceptions About Biosecurity and Pandemic Risk?](https://80000hours.org/articles/anonymous-misconceptions-about-biosecurity/)
-- [Nobody](https://wiki.ubuntu.com/nobody)
-- [T2 System Development Environment – &quot;Future Nostalgia&quot;](https://t2sde.org/#news-2024-04-28)
-- [A Quick Comparison of the Orbbec and RealSense 3D Cameras](https://opencv.org/blog/a-quick-comparison-of-the-orbbec-and-realsense-3d-cameras/)
-- [Show HN: Build and Maintain React Forms with Ease – Formactory](https://news.ycombinator.com/item?id=40218649)
+- [Commentary: Merchants Are Getting People Killed](https://sf.streetsblog.org/2024/04/30/small-businesses-are-getting-people-killed)
+- [Hawaiian scientist is working with distilleries to save native sugarcane](https://www.theguardian.com/us-news/ng-interactive/2024/apr/24/hawaii-native-sugarcane-rum)
+- [AI Paul Graham will convince you to join YC](https://play.ai/agent/Convincing-Paul-8_59y9yANEVXoNtzDj-aM)
+- [From 0 to glTF with WebGPU: Basic Materials and Textures](https://www.willusher.io/graphics/2024/04/28/0-to-gltf-basic-materials)
+- [Tesla Even Gives Up on Next-Gen Gigacasting: Report](https://insideevs.com/news/718125/tesla-single-piece-gigacasting/)
+- [Fast Fourier Transform in Rust](https://github.com/QuState/PhastFT)
+- [War prep is why Xi Jinping is afraid to unleash China&#39;s consumers](https://www.ft.com/content/35471cfb-79a6-42c1-8e41-447bfaad2c36)
+- [Can genre-buster Edgar Wright breathe new life into The Running Man?](https://www.theguardian.com/film/2024/apr/19/edgar-wright-arnold-schwarzenegger-the-running-man-stephen-king)
+- [SJPM: Revolutionizing Static JavaScript Development](https://sjpm.js.org)
+- [AI and the End of the Human Writer](https://newrepublic.com/article/180395/ai-artifical-intelligence-writing-human-creativity)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

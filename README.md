@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [US campus protests: police detain pro-Palestinian demonstrators after entering Columbia university – live](https://www.theguardian.com/us-news/live/2024/may/01/columbia-university-protest-live-updates-nypd-new-york-police-enter-campus-pro-palestinian-demonstrators-latest-news)
-- [Is Labour about to win a local election landslide? - podcast](https://www.theguardian.com/news/audio/2024/may/01/is-labour-about-to-win-a-local-election-landslide-podcast)
-- [Teargas and stun grenades used against Georgian protesters opposing ‘foreign agents’ bill](https://www.theguardian.com/world/2024/may/01/georgia-protest-foreign-agents-bill-police-georgian-parliament)
-- [Ukraine war briefing: Kharkiv residents suffer as Russia intensifies attacks](https://www.theguardian.com/world/2024/may/01/ukraine-war-briefing-kharkiv-residents-suffer-as-russia-intensifies-attacks)
-- [Trump threatens to prosecute Bidens if he’s re-elected unless he gets immunity](https://www.theguardian.com/us-news/2024/apr/30/trump-second-term-abortion-immigration)
-- [Saudi Arabia activist sentenced to 11 years in prison for ‘support’ of women’s rights](https://www.theguardian.com/world/2024/may/01/manahel-al-otaibi-saudi-arabia-womens-rights-activist-sentenced-11-years-prison-anti-terrorism-court)
-- [Perimenopausal women have 40% higher risk of depression, study suggests](https://www.theguardian.com/society/2024/may/01/perimenopausal-women-have-40-higher-risk-of-depression-study-suggests)
-- [Dividends payments soar globally as worker pay stagnates](https://www.theguardian.com/business/2024/may/01/dividends-payments-soar-globally-as-worker-pay-stagnates)
-- [England scraps 50% rule on faith school admissions](https://www.theguardian.com/education/2024/may/01/england-scraps-50-rule-on-faith-school-admissions)
-- [Prostate cancer screening methods trialled in ‘pivotal moment’](https://www.theguardian.com/society/2024/may/01/prostate-cancer-screening-methods-trialled-in-pivotal-moment)
+- [US campus protests: arrests in Dallas and New York as officers move against demonstrators – live](https://www.theguardian.com/us-news/live/2024/may/01/university-protests-pro-palestinian-demonstrators-arrested-latest-news)
+- [Has Elon Musk driven Tesla off track?](https://www.theguardian.com/news/audio/2024/may/02/has-elon-musk-driven-tesla-off-track)
+- [Richard Tandy, ELO keyboardist who shaped band’s futuristic sound, dies aged 76](https://www.theguardian.com/music/2024/may/02/richard-tandy-dies-aged-76-death-elo-electric-light-orchestra-keyboardist)
+- [The vast new whaling ‘mother ship’ that Japan hopes will revive a shrinking industry](https://www.theguardian.com/world/2024/may/02/japan-whale-meat-industry-kangei-maru-mother-ship)
+- [Ukraine war briefing: US hits China with sanctions over war supplies to Russia](https://www.theguardian.com/world/2024/may/02/ukraine-war-briefing-us-hits-china-with-sanctions-over-war-supplies-to-russia)
+- [‘Unethical’ junk food packaging manipulates children into craving sweets, report claims](https://www.theguardian.com/food/2024/may/02/unethical-junk-food-packaging-manipulates-children-into-craving-sweets-report-claims)
+- [SNP defeats Labour confidence motion and sets out plan for choosing new leader](https://www.theguardian.com/politics/2024/may/01/snp-defeats-labours-motion-of-no-confidence-in-holyrood-humza-yousaf)
+- [Activists march for immigrant rights in Wisconsin: ‘We’re making this country strong’](https://www.theguardian.com/us-news/2024/may/01/wisconsin-immigration-march-trump-rally)
+- [Olivia Rodrigo gigs called off as chaos continues at Manchester’s Co-op Live](https://www.theguardian.com/uk-news/2024/may/01/manchester-co-op-live-arena-cancels-opening-concert-after-technical-issue)
+- [Women live more years in ill-health than men, finds gender health gap study](https://www.theguardian.com/society/2024/may/01/women-live-more-years-ill-health-than-men-gender-health-gap-study)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

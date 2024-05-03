@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [US campus protests: arrests in Dallas and New York as officers move against demonstrators – live](https://www.theguardian.com/us-news/live/2024/may/01/university-protests-pro-palestinian-demonstrators-arrested-latest-news)
-- [Has Elon Musk driven Tesla off track?](https://www.theguardian.com/news/audio/2024/may/02/has-elon-musk-driven-tesla-off-track)
-- [Richard Tandy, ELO keyboardist who shaped band’s futuristic sound, dies aged 76](https://www.theguardian.com/music/2024/may/02/richard-tandy-dies-aged-76-death-elo-electric-light-orchestra-keyboardist)
-- [The vast new whaling ‘mother ship’ that Japan hopes will revive a shrinking industry](https://www.theguardian.com/world/2024/may/02/japan-whale-meat-industry-kangei-maru-mother-ship)
-- [Ukraine war briefing: US hits China with sanctions over war supplies to Russia](https://www.theguardian.com/world/2024/may/02/ukraine-war-briefing-us-hits-china-with-sanctions-over-war-supplies-to-russia)
-- [‘Unethical’ junk food packaging manipulates children into craving sweets, report claims](https://www.theguardian.com/food/2024/may/02/unethical-junk-food-packaging-manipulates-children-into-craving-sweets-report-claims)
-- [SNP defeats Labour confidence motion and sets out plan for choosing new leader](https://www.theguardian.com/politics/2024/may/01/snp-defeats-labours-motion-of-no-confidence-in-holyrood-humza-yousaf)
-- [Activists march for immigrant rights in Wisconsin: ‘We’re making this country strong’](https://www.theguardian.com/us-news/2024/may/01/wisconsin-immigration-march-trump-rally)
-- [Olivia Rodrigo gigs called off as chaos continues at Manchester’s Co-op Live](https://www.theguardian.com/uk-news/2024/may/01/manchester-co-op-live-arena-cancels-opening-concert-after-technical-issue)
-- [Women live more years in ill-health than men, finds gender health gap study](https://www.theguardian.com/society/2024/may/01/women-live-more-years-ill-health-than-men-gender-health-gap-study)
+- [Local election results 2024 live: Labour claims win in Thurrock, saying result puts party on course to win general election](https://www.theguardian.com/politics/live/2024/may/02/local-elections-2024-latest-results-live-tory-conservative-labour-lib-dem-green-south-blackpool-mayor-london-west-midlands-tees-valley)
+- [Unfrosted review – Jerry Seinfeld delivers a surreal toast to Pop-Tarts](https://www.theguardian.com/film/article/2024/may/03/unfrosted-review-jerry-seinfeld-toast-to-pop-tarts)
+- [Are we on the brink of a ceasefire deal for Gaza? Podcast](https://www.theguardian.com/world/audio/2024/may/03/are-we-on-the-brink-of-a-ceasefire-deal-for-gaza)
+- [Manhattan DA investigating after officer fired gun inside Columbia University - live](https://www.theguardian.com/us-news/live/2024/may/01/university-protests-pro-palestinian-demonstrators-arrested-latest-news)
+- [Local elections 2024: full council results for England](https://www.theguardian.com/politics/ng-interactive/2024/may/02/local-elections-2024-full-council-results-for-england)
+- [A New Zealand politician can’t name a home grown novel but Kiwi artists are have always conquered the world | Elle Hunt](https://www.theguardian.com/world/commentisfree/article/2024/may/03/a-new-zealand-politician-cant-name-a-homegrown-novel-but-kiwi-artists-have-always-conquered-the-world)
+- [Ukraine war briefing: Ukrainians ‘have the right to strike inside Russia’, says David Cameron](https://www.theguardian.com/world/article/2024/may/03/ukraine-war-briefing-ukrainians-have-the-right-to-strike-inside-russia-says-david-cameron)
+- [China to launch ambitious mission to far side of the moon amid Nasa ‘space race’ concerns](https://www.theguardian.com/world/article/2024/may/03/china-moon-mission-far-side-chang-e-6-launch)
+- [Iga Swiatek and Aryna Sabalenka set up Madrid Open final rematch](https://www.theguardian.com/sport/article/2024/may/02/iga-swiatek-daniil-medvedev-tennis-madrid-open)
+- [Jak Jones battles back to level with Stuart Bingham in Crucible semi-final](https://www.theguardian.com/sport/article/2024/may/02/world-snooker-championship-semi-final-crucible-kyren-wilson-david-gilbert-stuart-bingham-jak-jones)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

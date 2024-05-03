@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [ESpeak-ng: speech synthesizer with more than one hundred languages and accents](https://github.com/espeak-ng/espeak-ng)
-- [Cognition: A New Antisyntax Language Redefining Metaprogramming](https://ret2pop.nullring.xyz/blog/cognition.html)
-- [mRNA Cancer Vaccine Reprograms Immune System to Tackle Glioblastoma in 48 Hours](https://www.insideprecisionmedicine.com/topics/oncology/mrna-cancer-vaccine-reprograms-immune-system-to-tackle-glioblastoma/)
-- [Mongoose IM 6.2.1 – Erlang Solutions robust, scalable and efficient XMPP server](https://github.com/esl/MongooseIM/releases/tag/6.2.1)
-- [Meteorologists awed by rare type of tornado &lpar;anti-cyclonic&rpar;](https://www.cnn.com/2024/05/01/weather/oklahoma-tornado-rare-climate/index.html)
-- [Horizontal running inside circular walls of Moon settlements](https://royalsocietypublishing.org/doi/10.1098/rsos.231906)
-- [César Aira&#39;s Magic](https://www.thedial.world/issue-15/cesar-aira-profile)
-- [We can have a different web](https://www.citationneeded.news/we-can-have-a-different-web/)
-- [Ask HN: Modern Day Equivalent to HyperCard?](https://news.ycombinator.com/item?id=40229549)
-- [Mux &lpar;YC W16&rpar; is hiring a Senior Product Designer that&#39;s excited about devtools](https://mux.com/jobs?j=product-designer)
+- [Collapsing Sheets of Spacetime Could Explain Dark Matter and Why Universe &#39;Hums&#39;](https://www.scientificamerican.com/article/collapsing-sheets-of-spacetime-could-explain-dark-matter-and-why-the/)
+- [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=40242990)
+- [Vanguard just went live and LoL players are claiming it&#39;s bricking their PCs](https://dotesports.com/league-of-legends/news/vanguard-just-went-live-and-lol-players-are-already-claiming-its-bricking-their-pcs)
+- [A Single Div](https://a.singlediv.com/)
+- [Google&#39;s Synonym Extraction Methods &lpar;2010&rpar;](https://www.mattcutts.com/blog/google-synonyms/)
+- [An analysis of the rabbit R1 APK](https://www.emergetools.com/deep-dives/rabbit-r1)
+- [The life and times of an Abstract Syntax Tree](https://blog.trailofbits.com/2024/05/02/the-life-and-times-of-an-abstract-syntax-tree/)
+- [TSMC Jumps into Silicon Photonics, Lays Out Roadmap for 12.8 Tbps Interconnect](https://www.anandtech.com/show/21373/tsmc-adds-silicon-photonics-coupe-roadmap-128tbps-on-package)
+- [They thought they were joining an accelerator – instead they lost their startups](https://techcrunch.com/2024/05/02/they-thought-they-were-joining-an-accelerator-instead-they-lost-their-startups/)
+- [Hobby&#39;s algorithm for aesthetic Bézier splines](https://www.jakelow.com/blog/hobby-curves)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

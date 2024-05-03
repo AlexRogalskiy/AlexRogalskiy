@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Commentary: Merchants Are Getting People Killed](https://sf.streetsblog.org/2024/04/30/small-businesses-are-getting-people-killed)
-- [Hawaiian scientist is working with distilleries to save native sugarcane](https://www.theguardian.com/us-news/ng-interactive/2024/apr/24/hawaii-native-sugarcane-rum)
-- [AI Paul Graham will convince you to join YC](https://play.ai/agent/Convincing-Paul-8_59y9yANEVXoNtzDj-aM)
-- [From 0 to glTF with WebGPU: Basic Materials and Textures](https://www.willusher.io/graphics/2024/04/28/0-to-gltf-basic-materials)
-- [Tesla Even Gives Up on Next-Gen Gigacasting: Report](https://insideevs.com/news/718125/tesla-single-piece-gigacasting/)
-- [Fast Fourier Transform in Rust](https://github.com/QuState/PhastFT)
-- [War prep is why Xi Jinping is afraid to unleash China&#39;s consumers](https://www.ft.com/content/35471cfb-79a6-42c1-8e41-447bfaad2c36)
-- [Can genre-buster Edgar Wright breathe new life into The Running Man?](https://www.theguardian.com/film/2024/apr/19/edgar-wright-arnold-schwarzenegger-the-running-man-stephen-king)
-- [SJPM: Revolutionizing Static JavaScript Development](https://sjpm.js.org)
-- [AI and the End of the Human Writer](https://newrepublic.com/article/180395/ai-artifical-intelligence-writing-human-creativity)
+- [The Stabilizer Problem](https://ryan.norbauer.com/journal/the-stabilizer-problem/)
+- [Georgia Tech/Meta Create Open Dataset to Advance AI for Carbon Capture](https://news.gatech.edu/news/2024/05/02/georgia-tech-and-meta-create-massive-open-dataset-advance-ai-solutions-carbon)
+- [Cardio fitness is a strong, consistent predictor of morbidity and mortality](https://bjsm.bmj.com/content/58/10/556)
+- [Google Removes Pirate IPTV Services from UK Search Results](https://torrentfreak.com/google-removes-pirate-iptv-services-from-uk-search-results-240502/)
+- [Chang&#39;e-6 launch: What to expect](https://www.planetary.org/articles/change-6-launch-what-to-expect)
+- [Tomorrow&#39;s China launch to attempt first-ever sample return from Moon&#39;s far side](https://theconversation.com/china-set-to-blast-off-to-the-far-side-of-the-moon-heres-what-it-could-discover-228870)
+- [London Marathon runner tastes 25 glasses of wine during race](https://www.bbc.com/news/uk-68885746)
+- [Cascadia Code 2404.23](https://devblogs.microsoft.com/commandline/cascadia-code-2404-23/)
+- [Analysis of Emile Cairess&#39; Training Before the London Marathon](https://runningwritings.com/2024/05/renato-canova-marathon-training-emile-cairess.html)
+- [Artificial sweetener has potential to damage gut, finds study](https://medicalxpress.com/news/2024-04-artificial-sweetener-potential-gut.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

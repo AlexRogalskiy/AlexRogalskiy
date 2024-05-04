@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Collapsing Sheets of Spacetime Could Explain Dark Matter and Why Universe &#39;Hums&#39;](https://www.scientificamerican.com/article/collapsing-sheets-of-spacetime-could-explain-dark-matter-and-why-the/)
-- [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=40242990)
-- [Vanguard just went live and LoL players are claiming it&#39;s bricking their PCs](https://dotesports.com/league-of-legends/news/vanguard-just-went-live-and-lol-players-are-already-claiming-its-bricking-their-pcs)
-- [A Single Div](https://a.singlediv.com/)
-- [Google&#39;s Synonym Extraction Methods &lpar;2010&rpar;](https://www.mattcutts.com/blog/google-synonyms/)
-- [An analysis of the rabbit R1 APK](https://www.emergetools.com/deep-dives/rabbit-r1)
-- [The life and times of an Abstract Syntax Tree](https://blog.trailofbits.com/2024/05/02/the-life-and-times-of-an-abstract-syntax-tree/)
-- [TSMC Jumps into Silicon Photonics, Lays Out Roadmap for 12.8 Tbps Interconnect](https://www.anandtech.com/show/21373/tsmc-adds-silicon-photonics-coupe-roadmap-128tbps-on-package)
-- [They thought they were joining an accelerator – instead they lost their startups](https://techcrunch.com/2024/05/02/they-thought-they-were-joining-an-accelerator-instead-they-lost-their-startups/)
-- [Hobby&#39;s algorithm for aesthetic Bézier splines](https://www.jakelow.com/blog/hobby-curves)
+- [How long should you sit vs. stand? New research reveals the perfect mix](https://theconversation.com/how-much-time-should-you-spend-sitting-versus-standing-new-research-reveals-the-perfect-mix-for-optimal-health-228894)
+- [Value of one of S.F.&#39;s biggest buildings plunges by 80% after Uber, Block leave](https://www.sfchronicle.com/sf/article/s-f-office-building-value-19438429.php)
+- [Bountysource Stole at Least $17,000 from Open Source Developers](https://boehs.org/node/bountysource)
+- [Show HN: I built a free in-browser Llama 3 chatbot powered by WebGPU](https://github.com/abi/secret-llama)
+- [Discord Applying Forced Arbitration - opt-out before it is too late!](https://bsky.app/profile/silverwuffamute.bsky.social/post/3kqbd476nvk2i)
+- [Finley &lpar;YC W21&rpar; is hiring securitization and structured finance professionals](https://jobs.lever.co/FinleyTechnologies/70462b30-c31a-4db3-932a-0abb96ec5566)
+- [StructLM: Towards Building Generalist Models for Structured Knowledge Grounding](https://arxiv.org/abs/2402.16671)
+- [Karate physics: How your hand can break concrete without breaking itself &lpar;2021&rpar;](https://daily.jstor.org/the-physics-of-karate/)
+- [Show HN: BandMatch – &quot;Tinder&quot; but for finding musicians to create bands/collab](https://bandmatch.app)
+- [SATO: Stable Text-to-Motion Framework](https://sato-team.github.io/Stable-Text-to-Motion-Framework/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

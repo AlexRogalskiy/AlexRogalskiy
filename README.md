@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Local election results 2024 live: Labour claims win in Thurrock, saying result puts party on course to win general election](https://www.theguardian.com/politics/live/2024/may/02/local-elections-2024-latest-results-live-tory-conservative-labour-lib-dem-green-south-blackpool-mayor-london-west-midlands-tees-valley)
-- [Unfrosted review – Jerry Seinfeld delivers a surreal toast to Pop-Tarts](https://www.theguardian.com/film/article/2024/may/03/unfrosted-review-jerry-seinfeld-toast-to-pop-tarts)
-- [Are we on the brink of a ceasefire deal for Gaza? Podcast](https://www.theguardian.com/world/audio/2024/may/03/are-we-on-the-brink-of-a-ceasefire-deal-for-gaza)
-- [Manhattan DA investigating after officer fired gun inside Columbia University - live](https://www.theguardian.com/us-news/live/2024/may/01/university-protests-pro-palestinian-demonstrators-arrested-latest-news)
-- [Local elections 2024: full council results for England](https://www.theguardian.com/politics/ng-interactive/2024/may/02/local-elections-2024-full-council-results-for-england)
-- [A New Zealand politician can’t name a home grown novel but Kiwi artists are have always conquered the world | Elle Hunt](https://www.theguardian.com/world/commentisfree/article/2024/may/03/a-new-zealand-politician-cant-name-a-homegrown-novel-but-kiwi-artists-have-always-conquered-the-world)
-- [Ukraine war briefing: Ukrainians ‘have the right to strike inside Russia’, says David Cameron](https://www.theguardian.com/world/article/2024/may/03/ukraine-war-briefing-ukrainians-have-the-right-to-strike-inside-russia-says-david-cameron)
-- [China to launch ambitious mission to far side of the moon amid Nasa ‘space race’ concerns](https://www.theguardian.com/world/article/2024/may/03/china-moon-mission-far-side-chang-e-6-launch)
-- [Iga Swiatek and Aryna Sabalenka set up Madrid Open final rematch](https://www.theguardian.com/sport/article/2024/may/02/iga-swiatek-daniil-medvedev-tennis-madrid-open)
-- [Jak Jones battles back to level with Stuart Bingham in Crucible semi-final](https://www.theguardian.com/sport/article/2024/may/02/world-snooker-championship-semi-final-crucible-kyren-wilson-david-gilbert-stuart-bingham-jak-jones)
+- [Three bodies reportedly found in northern Mexico where Perth brothers went missing](https://www.theguardian.com/australia-news/article/2024/may/04/three-bodies-reportedly-found-in-northern-mexico-where-perth-brothers-went-missing)
+- [‘I don’t even dream about sex … I don’t miss it at all’: readers on why they chose celibacy](https://www.theguardian.com/lifeandstyle/article/2024/may/04/i-dont-even-dream-about-sex-i-dont-miss-it-at-all-readers-on-why-they-chose-celibacy)
+- [Alabama supreme court declines to revisit frozen embryos ruling](https://www.theguardian.com/us-news/article/2024/may/03/alabama-supreme-court-frozen-embroys)
+- [Trump’s closest staffer takes the stand – and tears up after damaging testimony](https://www.theguardian.com/us-news/article/2024/may/03/trumps-closest-staffer-takes-the-stand-and-tears-up-after-damaging-testimony)
+- [California man charged with threatening to kill Fani Willis](https://www.theguardian.com/us-news/article/2024/may/03/california-man-threaten-kill-fani-willis)
+- [Star Wars’ Mark Hamill hails ‘Joe-B-Wan Kenobi’ after White House meeting](https://www.theguardian.com/film/article/2024/may/03/mark-hamill-joe-biden-hollywood)
+- [Conservatives crushed by ‘worst local election result’ in years](https://www.theguardian.com/politics/article/2024/may/03/tories-face-worst-local-election-results-40-years-sunak-sunak)
+- [Arsenal and Mikel Arteta aim to pile pressure on City with early victory](https://www.theguardian.com/football/article/2024/may/03/arsenal-mikel-arteta-premier-league-bournemouth-manchester-city)
+- [Canadian police charge three over killing of Sikh activist](https://www.theguardian.com/world/article/2024/may/03/suspect-hardeep-singh-nijjar-assassination-canada)
+- [Big Tory losses but no Labour landslide. What might happen at Westminster? – a visual analysis](https://www.theguardian.com/politics/ng-interactive/2024/may/03/local-elections-key-charts-showing-tories-slump-to-worst-performance-since-1998)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

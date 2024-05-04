@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Stabilizer Problem](https://ryan.norbauer.com/journal/the-stabilizer-problem/)
-- [Georgia Tech/Meta Create Open Dataset to Advance AI for Carbon Capture](https://news.gatech.edu/news/2024/05/02/georgia-tech-and-meta-create-massive-open-dataset-advance-ai-solutions-carbon)
-- [Cardio fitness is a strong, consistent predictor of morbidity and mortality](https://bjsm.bmj.com/content/58/10/556)
-- [Google Removes Pirate IPTV Services from UK Search Results](https://torrentfreak.com/google-removes-pirate-iptv-services-from-uk-search-results-240502/)
-- [Chang&#39;e-6 launch: What to expect](https://www.planetary.org/articles/change-6-launch-what-to-expect)
-- [Tomorrow&#39;s China launch to attempt first-ever sample return from Moon&#39;s far side](https://theconversation.com/china-set-to-blast-off-to-the-far-side-of-the-moon-heres-what-it-could-discover-228870)
-- [London Marathon runner tastes 25 glasses of wine during race](https://www.bbc.com/news/uk-68885746)
-- [Cascadia Code 2404.23](https://devblogs.microsoft.com/commandline/cascadia-code-2404-23/)
-- [Analysis of Emile Cairess&#39; Training Before the London Marathon](https://runningwritings.com/2024/05/renato-canova-marathon-training-emile-cairess.html)
-- [Artificial sweetener has potential to damage gut, finds study](https://medicalxpress.com/news/2024-04-artificial-sweetener-potential-gut.html)
+- [Astrophysics Data System](https://ui.adsabs.harvard.edu:443/classic-form/)
+- [Rustc_codegen_GCC: Progress Report #32](https://blog.antoyo.xyz/rustc_codegen_gcc-progress-report-32)
+- [I kinda just don&#39;t care what the OSI thinks](https://hazy.sh/blog/i-dont-care-what-the-osi-thinks)
+- [Using statistical physics to corroborate 1940s social balance theory](https://phys.org/news/2024-05-statistical-physics-corroborate-1940s-social.html)
+- [Add support for Qualcomm Oryon processor](https://github.com/llvm/llvm-project/pull/91022)
+- [Tame JSON and XML with Apache Groovy](https://opensource.net/json-or-xml-with-groovy-slurpers-21/)
+- [Never have enough time to do everything I want](https://news.ycombinator.com/item?id=40254206)
+- [Stephen Wolfram Is Ready to Be Surprised by AI](https://reason.com/podcast/2024/05/03/stephen-wolfram-is-ready-to-be-surprised-by-ai/)
+- [Ovpnx: Zero-Days Leading to RCE, LPE and KCE Affecting Endpoints](https://www.blackhat.com/us-24/briefings/schedule/#ovpnx--zero-days-leading-to-rce-lpe-and-kce-via-byovd-affecting-millions-of-openvpn-endpoints-across-the-globe-38900)
+- [The Most Important Space Shuttle Mission Never Happened &lpar;2020&rpar; [video]](https://www.youtube.com/watch?v=_q2i0eu35aY)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

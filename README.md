@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Astrophysics Data System](https://ui.adsabs.harvard.edu:443/classic-form/)
-- [Rustc_codegen_GCC: Progress Report #32](https://blog.antoyo.xyz/rustc_codegen_gcc-progress-report-32)
-- [I kinda just don&#39;t care what the OSI thinks](https://hazy.sh/blog/i-dont-care-what-the-osi-thinks)
-- [Using statistical physics to corroborate 1940s social balance theory](https://phys.org/news/2024-05-statistical-physics-corroborate-1940s-social.html)
-- [Add support for Qualcomm Oryon processor](https://github.com/llvm/llvm-project/pull/91022)
-- [Tame JSON and XML with Apache Groovy](https://opensource.net/json-or-xml-with-groovy-slurpers-21/)
-- [Never have enough time to do everything I want](https://news.ycombinator.com/item?id=40254206)
-- [Stephen Wolfram Is Ready to Be Surprised by AI](https://reason.com/podcast/2024/05/03/stephen-wolfram-is-ready-to-be-surprised-by-ai/)
-- [Ovpnx: Zero-Days Leading to RCE, LPE and KCE Affecting Endpoints](https://www.blackhat.com/us-24/briefings/schedule/#ovpnx--zero-days-leading-to-rce-lpe-and-kce-via-byovd-affecting-millions-of-openvpn-endpoints-across-the-globe-38900)
-- [The Most Important Space Shuttle Mission Never Happened &lpar;2020&rpar; [video]](https://www.youtube.com/watch?v=_q2i0eu35aY)
+- [A Lawyer&#39;s Slide into Psychosis Was Captured in a WSJ Profile](https://www.wsj.com/health/psychosis-schizophrenia-mental-health-committed-9efcdf6c)
+- [Spherical Parallel Manipulator [video]](https://www.youtube.com/watch?v=6yx700AdzLI)
+- [Animating URLs with JavaScript and Emojis](https://matthewrayfield.com/articles/animating-urls-with-javascript-and-emojis/)
+- [Visual Language Models on Nvidia Hardware with VILA](https://developer.nvidia.com/blog/visual-language-models-on-nvidia-hardware-with-vila/)
+- [OpenDevin Is an AI-Powered Software Development Platform](https://didyouknowbg8.wordpress.com/2024/05/05/introduction-to-opendevin-an-ai-powered-software-development-platform/)
+- [How to Move the Largest Camera from California Lab to Andes Mountaintop](https://www.scientificamerican.com/article/how-to-move-the-worlds-largest-camera-from-a-california-lab-to-an-andes/)
+- [Hanuman: The Divine Protector &lpar;Mobile Game&rpar;](https://news.ycombinator.com/item?id=40261694)
+- [Automated integer hash function discovery](https://github.com/skeeto/hash-prospector)
+- [Why US renters are taking corporate landlords to court](https://www.cnbc.com/2024/02/03/realpage-antitrust-lawsuits-allege-collusion-among-corporate-landlords.html)
+- [100 Years &lpar;Film&rpar;](https://en.wikipedia.org/wiki/100_Years_(film))
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

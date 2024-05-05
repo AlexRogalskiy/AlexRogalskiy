@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [How long should you sit vs. stand? New research reveals the perfect mix](https://theconversation.com/how-much-time-should-you-spend-sitting-versus-standing-new-research-reveals-the-perfect-mix-for-optimal-health-228894)
-- [Value of one of S.F.&#39;s biggest buildings plunges by 80% after Uber, Block leave](https://www.sfchronicle.com/sf/article/s-f-office-building-value-19438429.php)
-- [Bountysource Stole at Least $17,000 from Open Source Developers](https://boehs.org/node/bountysource)
-- [Show HN: I built a free in-browser Llama 3 chatbot powered by WebGPU](https://github.com/abi/secret-llama)
-- [Discord Applying Forced Arbitration - opt-out before it is too late!](https://bsky.app/profile/silverwuffamute.bsky.social/post/3kqbd476nvk2i)
-- [Finley &lpar;YC W21&rpar; is hiring securitization and structured finance professionals](https://jobs.lever.co/FinleyTechnologies/70462b30-c31a-4db3-932a-0abb96ec5566)
-- [StructLM: Towards Building Generalist Models for Structured Knowledge Grounding](https://arxiv.org/abs/2402.16671)
-- [Karate physics: How your hand can break concrete without breaking itself &lpar;2021&rpar;](https://daily.jstor.org/the-physics-of-karate/)
-- [Show HN: BandMatch – &quot;Tinder&quot; but for finding musicians to create bands/collab](https://bandmatch.app)
-- [SATO: Stable Text-to-Motion Framework](https://sato-team.github.io/Stable-Text-to-Motion-Framework/)
+- [Preliminary Macintosh Business Plan &lpar;12 July 1981&rpar; [pdf]](http://archive.computerhistory.org/resources/text/2009/102712692.05.01acc.pdf)
+- [Dick Rutan, pilot of the first nonstop around-the-world flight, has died](https://www.independent.co.uk/news/ap-voyager-ronald-reagan-california-idaho-b2539832.html)
+- [Vera Rubin&#39;s primary mirror gets its first reflective coating](https://www.universetoday.com/166842/vera-rubins-primary-mirror-gets-its-first-reflective-coating/)
+- [Superfest – The almost unbreakable East German Glass](https://digitalcosmonaut.com/superfest-ceverit-glass-ddr/)
+- [Show HN: gpudeploy.com – &quot;Airbnb&quot; for GPUs](https://www.gpudeploy.com)
+- [Streak &lpar;YC S11&rpar; is hiring a staff UI engineer](https://www.streak.com/careers/staff-ui-engineer)
+- [Atari&#39;s Mike Jang](https://arcadeblogger.com/2024/02/13/ataris-mike-jang/)
+- [Show HN: Dillo 3.1.0 released after 9 years](https://dillo-browser.github.io/latest.html)
+- [Does the American Diabetes Association work for patients or companies?](https://www.theguardian.com/global/commentisfree/2024/may/02/american-diabetes-association-lawsuit)
+- [Verified Rust for low-level systems code](https://github.com/verus-lang/verus)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

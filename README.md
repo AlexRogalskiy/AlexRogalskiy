@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [The new ‘space race’: what are China’s ambitions and why is the US so concerned?](https://www.theguardian.com/world/article/2024/may/05/the-new-space-race-what-are-chinas-ambitions-and-why-is-the-us-so-concerned)
-- [Frank Stella, influential American artist, dies aged 87](https://www.theguardian.com/us-news/article/2024/may/05/frank-stella-influential-american-artist-dies-aged-87)
-- [‘A complete 180’: how a trial treatment in Sydney for heroin addiction is changing lives](https://www.theguardian.com/australia-news/article/2024/may/05/a-complete-180-how-a-trial-treatment-in-sydney-for-heroin-addiction-is-changing-lives)
-- [AC Grayling: ‘Who would I like to fight? Boris Johnson. And I’d win’](https://www.theguardian.com/books/article/2024/may/05/ac-grayling-who-would-i-like-to-fight-boris-johnson-and-id-win)
-- [Dick Rutan, co-pilot of historic round-the-world flight, dies aged 85](https://www.theguardian.com/world/article/2024/may/04/dick-rutan-pilot-dies-aged-85)
-- [‘High degree of probability’ bodies found in northern Mexico are missing Perth brothers](https://www.theguardian.com/australia-news/article/2024/may/04/three-bodies-reportedly-found-in-northern-mexico-where-perth-brothers-went-missing)
-- [Mystik Dan wins 150th Kentucky Derby in epic three-horse photo finish](https://www.theguardian.com/sport/article/2024/may/04/mystik-dan-kentucky-derby-photo-finish-results)
-- [Spring in your step: 25 of the best women’s trainers – in pictures](https://www.theguardian.com/fashion/gallery/2024/may/04/spring-in-your-step-25-of-the-best-womens-trainers-in-pictures)
-- [Jak Jones, world No 44, to face Kyren Wilson in world championship final](https://www.theguardian.com/sport/article/2024/may/04/kyren-wilson-david-gilbert-jak-jones-stuart-bingham-world-snooker-championship-semi-finals)
-- [Tractor Joys: Ipswich Town are promoted to the Premier League – in pictures](https://www.theguardian.com/football/gallery/2024/may/04/tractor-joys-ipswich-town-promoted-premier-league-in-pictures)
+- [How do we protect teenagers from sextortion scams? - podcast](https://www.theguardian.com/news/audio/2024/may/06/how-do-we-protect-teenagers-from-sextortion-scams-podcast)
+- [Missing surfers died from gunshots after attempted robbery, Mexican officials say](https://www.theguardian.com/world/article/2024/may/05/mexico-bodies-missing-men-police)
+- [Ukraine war briefing: Russian attacks kill three during Orthodox Easter](https://www.theguardian.com/world/article/2024/may/06/ukraine-war-briefing-russian-attacks-kill-during-orthodox-easter)
+- [Xi Jinping arrives in France with Ukraine and an EU trade row at the top of his agenda](https://www.theguardian.com/world/article/2024/may/06/xi-jinping-europe-visit-france-macron-ukraine-eu-trade)
+- [European football: Bayer Leverkusen crush Frankfurt to extend unbeaten run](https://www.theguardian.com/football/article/2024/may/05/european-roundup-leverkusen-milan-roma-juventus)
+- [Gender-specific toilets to be required in non-residential buildings in England](https://www.theguardian.com/uk-news/article/2024/may/06/gender-specific-toilets-to-be-required-in-non-residential-buildings-in-england)
+- [Eurovision winner Jamala says Ukraine ‘cannot afford’ to boycott contest](https://www.theguardian.com/tv-and-radio/article/2024/may/06/eurovision-winner-jamala-says-ukraine-cannot-afford-to-boycott-contest)
+- [PCA warns county cricket schedule could result in ‘disaster’ without cuts](https://www.theguardian.com/sport/article/2024/may/06/pca-warns-county-cricket-schedule-could-result-in-disaster-without-cuts)
+- [Calls grow for urgent talks to protect future of Grangemouth oil refinery](https://www.theguardian.com/business/article/2024/may/06/calls-grow-for-urgent-talks-to-protect-future-of-grangemouth-oil-refinery)
+- [Bills you don’t owe, menacing debt collectors: the terrifying world of energy company customers](https://www.theguardian.com/money/article/2024/may/06/bills-you-dont-owe-menacing-debt-collectors-the-terrifying-world-of-energy-company-customers)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

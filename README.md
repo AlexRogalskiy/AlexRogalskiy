@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Preliminary Macintosh Business Plan &lpar;12 July 1981&rpar; [pdf]](http://archive.computerhistory.org/resources/text/2009/102712692.05.01acc.pdf)
-- [Dick Rutan, pilot of the first nonstop around-the-world flight, has died](https://www.independent.co.uk/news/ap-voyager-ronald-reagan-california-idaho-b2539832.html)
-- [Vera Rubin&#39;s primary mirror gets its first reflective coating](https://www.universetoday.com/166842/vera-rubins-primary-mirror-gets-its-first-reflective-coating/)
-- [Superfest – The almost unbreakable East German Glass](https://digitalcosmonaut.com/superfest-ceverit-glass-ddr/)
-- [Show HN: gpudeploy.com – &quot;Airbnb&quot; for GPUs](https://www.gpudeploy.com)
-- [Streak &lpar;YC S11&rpar; is hiring a staff UI engineer](https://www.streak.com/careers/staff-ui-engineer)
-- [Atari&#39;s Mike Jang](https://arcadeblogger.com/2024/02/13/ataris-mike-jang/)
-- [Show HN: Dillo 3.1.0 released after 9 years](https://dillo-browser.github.io/latest.html)
-- [Does the American Diabetes Association work for patients or companies?](https://www.theguardian.com/global/commentisfree/2024/may/02/american-diabetes-association-lawsuit)
-- [Verified Rust for low-level systems code](https://github.com/verus-lang/verus)
+- [X.org on NetBSD – The State of Things](https://blog.netbsd.org/tnf/entry/x_org_on_netbsd_the)
+- [Drug resistant bacteria found on ISS mutating to become functionally distinct](https://www.nasa.gov/centers-and-facilities/ames/ames-science/ames-space-biosciences/multi-drug-resistant-bacteria-found-on-iss-mutating-to-become-functionally-distinct/)
+- [Deep Reinforcement Learning: Zero to Hero](https://github.com/alessiodm/drl-zh)
+- [&quot;Meta spent almost as much as the Manhattan Project on GPUs in today&#39;s dollars&quot;](https://twitter.com/emollick/status/1786213463456448900)
+- [Bollards: Why and What](https://josh.works/bollards)
+- [Social engineering takeovers of open source projects](https://openssf.org/blog/2024/04/15/open-source-security-openssf-and-openjs-foundations-issue-alert-for-social-engineering-takeovers-of-open-source-projects/)
+- [Israel shuts down local Al Jazeera offices](https://www.theguardian.com/world/article/2024/may/05/israel-shuts-down-local-al-jazeera-offices-in-dark-day-for-the-media)
+- [TheDesk desktop environment](https://github.com/theCheeseboard/thedesk)
+- [Designing furniture using the CSS grid &lpar;2023&rpar;](https://alnvdl.github.io/2023/01/07/designing-furniture-using-the-css-grid.html)
+- [Flying planes in Microsoft Flight Simulator with a JavaScript autopilot &lpar;2023&rpar;](https://pomax.github.io/are-we-flying/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

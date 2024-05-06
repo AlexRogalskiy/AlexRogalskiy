@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [A Lawyer&#39;s Slide into Psychosis Was Captured in a WSJ Profile](https://www.wsj.com/health/psychosis-schizophrenia-mental-health-committed-9efcdf6c)
-- [Spherical Parallel Manipulator [video]](https://www.youtube.com/watch?v=6yx700AdzLI)
-- [Animating URLs with JavaScript and Emojis](https://matthewrayfield.com/articles/animating-urls-with-javascript-and-emojis/)
-- [Visual Language Models on Nvidia Hardware with VILA](https://developer.nvidia.com/blog/visual-language-models-on-nvidia-hardware-with-vila/)
-- [OpenDevin Is an AI-Powered Software Development Platform](https://didyouknowbg8.wordpress.com/2024/05/05/introduction-to-opendevin-an-ai-powered-software-development-platform/)
-- [How to Move the Largest Camera from California Lab to Andes Mountaintop](https://www.scientificamerican.com/article/how-to-move-the-worlds-largest-camera-from-a-california-lab-to-an-andes/)
-- [Hanuman: The Divine Protector &lpar;Mobile Game&rpar;](https://news.ycombinator.com/item?id=40261694)
-- [Automated integer hash function discovery](https://github.com/skeeto/hash-prospector)
-- [Why US renters are taking corporate landlords to court](https://www.cnbc.com/2024/02/03/realpage-antitrust-lawsuits-allege-collusion-among-corporate-landlords.html)
-- [100 Years &lpar;Film&rpar;](https://en.wikipedia.org/wiki/100_Years_(film))
+- [Tech layoffs cross 70k in April 2024](https://timesofindia.indiatimes.com/technology/tech-news/tech-layoffs-cross-70000-in-april-2024-google-apple-intel-amazon-and-these-companies-cut-hundreds-of-jobs/articleshow/109750185.cms)
+- [Could Flying Drones Save Lives on Mount Everest?](https://www.outsideonline.com/outdoor-adventure/everest/mount-everest-drone-test/)
+- [Dissecting &#39;architecting for fast, sustainable flow&#39;](https://microservices.io//post/architecture/2024/04/29/dissecting-architecting-for-fast-flow.html)
+- [The CIA&#39;s former master of disguise tells her story](https://www.washingtonpost.com/books/2024/03/13/jonna-mendez-true-face-cia-autobiography/)
+- [Generative AI will be designing new drugs on its own in near future](https://www.cnbc.com/2024/05/05/within-a-few-years-generative-ai-will-design-new-drugs-on-its-own.html)
+- [The lightweight, distributed relational database built on SQLite](https://github.com/rqlite/rqlite)
+- [Is employee ownership the key to building workers&#39; wealth?](https://www.cbsnews.com/news/employee-ownership-life-changing-for-family-60-minutes/)
+- [Dreading Wildfire Season](https://thewalrus.ca/dreading-wildfire-season/)
+- [&quot;Bionic eye&quot; discovers Plato&#39;s final resting place](https://www.freethink.com/robots-ai/herculaneum-scrolls-plato)
+- [IBM Finds Home in Bedford‐Stuyvesant &lpar;1971&rpar;](https://www.nytimes.com/1971/10/31/archives/ibm-finds-home-in-bedfordstuyvesant.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

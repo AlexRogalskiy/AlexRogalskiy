@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Tech layoffs cross 70k in April 2024](https://timesofindia.indiatimes.com/technology/tech-news/tech-layoffs-cross-70000-in-april-2024-google-apple-intel-amazon-and-these-companies-cut-hundreds-of-jobs/articleshow/109750185.cms)
-- [Could Flying Drones Save Lives on Mount Everest?](https://www.outsideonline.com/outdoor-adventure/everest/mount-everest-drone-test/)
-- [Dissecting &#39;architecting for fast, sustainable flow&#39;](https://microservices.io//post/architecture/2024/04/29/dissecting-architecting-for-fast-flow.html)
-- [The CIA&#39;s former master of disguise tells her story](https://www.washingtonpost.com/books/2024/03/13/jonna-mendez-true-face-cia-autobiography/)
-- [Generative AI will be designing new drugs on its own in near future](https://www.cnbc.com/2024/05/05/within-a-few-years-generative-ai-will-design-new-drugs-on-its-own.html)
-- [The lightweight, distributed relational database built on SQLite](https://github.com/rqlite/rqlite)
-- [Is employee ownership the key to building workers&#39; wealth?](https://www.cbsnews.com/news/employee-ownership-life-changing-for-family-60-minutes/)
-- [Dreading Wildfire Season](https://thewalrus.ca/dreading-wildfire-season/)
-- [&quot;Bionic eye&quot; discovers Plato&#39;s final resting place](https://www.freethink.com/robots-ai/herculaneum-scrolls-plato)
-- [IBM Finds Home in Bedford‐Stuyvesant &lpar;1971&rpar;](https://www.nytimes.com/1971/10/31/archives/ibm-finds-home-in-bedfordstuyvesant.html)
+- [Elon Musk Says There Are Too Many Non-Technical Managers at Boeing](https://www.businessinsider.com/elon-musk-too-many-non-technical-managers-starliner-boeing-2024-5)
+- [How does this live stream have 100k watching now, and 8M subscribers? [video]](https://www.youtube.com/watch?v=KzWVsKxlciE)
+- [Google, Meta &#39;break&#39; Apple&#39;s device fingerprinting rules](https://www.theregister.com/2024/05/07/apple_fingerprinting_rules/)
+- [Ask HN: Many of you are fighting with Win11](https://news.ycombinator.com/item?id=40281540)
+- [Farm states push back on Biden&#39;s bird flu response](https://www.politico.com/news/2024/05/06/bird-flu-dairy-farms-cdc-00156119)
+- [Tensions Rise in Silicon Valley over Sales of Startup Stocks](https://www.nytimes.com/2024/05/06/technology/startup-stock-funds-destiny.html)
+- [Kan: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
+- [Ask HN: Starting C++ in 2024, what to know?](https://news.ycombinator.com/item?id=40281504)
+- [Show HN: Only gave myself one day to build this](https://docs.google.com/forms/d/1tCnC0jj212iGDTuTdYNYkF8dEN3GbNEfqDtup_z_5hc/viewform?edit_requested=true)
+- [Managers have no human rights](https://yosefk.com/blog/managers-have-no-human-rights.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

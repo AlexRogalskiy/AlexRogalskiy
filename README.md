@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [X.org on NetBSD – The State of Things](https://blog.netbsd.org/tnf/entry/x_org_on_netbsd_the)
-- [Drug resistant bacteria found on ISS mutating to become functionally distinct](https://www.nasa.gov/centers-and-facilities/ames/ames-science/ames-space-biosciences/multi-drug-resistant-bacteria-found-on-iss-mutating-to-become-functionally-distinct/)
-- [Deep Reinforcement Learning: Zero to Hero](https://github.com/alessiodm/drl-zh)
-- [&quot;Meta spent almost as much as the Manhattan Project on GPUs in today&#39;s dollars&quot;](https://twitter.com/emollick/status/1786213463456448900)
-- [Bollards: Why and What](https://josh.works/bollards)
-- [Social engineering takeovers of open source projects](https://openssf.org/blog/2024/04/15/open-source-security-openssf-and-openjs-foundations-issue-alert-for-social-engineering-takeovers-of-open-source-projects/)
-- [Israel shuts down local Al Jazeera offices](https://www.theguardian.com/world/article/2024/may/05/israel-shuts-down-local-al-jazeera-offices-in-dark-day-for-the-media)
-- [TheDesk desktop environment](https://github.com/theCheeseboard/thedesk)
-- [Designing furniture using the CSS grid &lpar;2023&rpar;](https://alnvdl.github.io/2023/01/07/designing-furniture-using-the-css-grid.html)
-- [Flying planes in Microsoft Flight Simulator with a JavaScript autopilot &lpar;2023&rpar;](https://pomax.github.io/are-we-flying/)
+- [Google, Meta &#39;break&#39; Apple&#39;s device fingerprinting rules](https://www.theregister.com/2024/05/07/apple_fingerprinting_rules/)
+- [New black hole visualization takes viewers beyond the brink](https://phys.org/news/2024-05-black-hole-visualization-viewers-brink.html)
+- [Vets fret as private equity snaps up clinics, pet care companies](https://stateline.org/2024/03/29/vets-fret-as-private-equity-snaps-up-clinics-pet-care-companies/)
+- [Boeing Starliner&#39;s first crewed mission scrubbed](https://techcrunch.com/2024/05/06/boeing-starliners-first-crewed-mission-scrubbed/)
+- [Eli Bendersky: Faster XML Stream Processing in Go](https://eli.thegreenplace.net/2019/faster-xml-stream-processing-in-go/)
+- [Proton Mail Discloses User Data Leading to Arrest in Spain](https://restoreprivacy.com/protonmail-discloses-user-data-leading-to-arrest-in-spain/)
+- [Caniemail.com – like caniuse but for email content](https://www.caniemail.com/)
+- [How do birds flock? Research reveals previously unknown aerodynamic phenomenon](https://www.nyu.edu/about/news-publications/news/2024/april/how-do-birds-flock--researchers-do-the-math-to-reveal-previously.html)
+- [More than 100 arrested in Spain in $900k WhatsApp scheme](https://therecord.media/spain-arrests-whatsapp-impersonation-scams)
+- [Attackers can decloak routing-based VPNs](https://www.leviathansecurity.com/blog/tunnelvision)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

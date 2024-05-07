@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [How do we protect teenagers from sextortion scams? - podcast](https://www.theguardian.com/news/audio/2024/may/06/how-do-we-protect-teenagers-from-sextortion-scams-podcast)
-- [Missing surfers died from gunshots after attempted robbery, Mexican officials say](https://www.theguardian.com/world/article/2024/may/05/mexico-bodies-missing-men-police)
-- [Ukraine war briefing: Russian attacks kill three during Orthodox Easter](https://www.theguardian.com/world/article/2024/may/06/ukraine-war-briefing-russian-attacks-kill-during-orthodox-easter)
-- [Xi Jinping arrives in France with Ukraine and an EU trade row at the top of his agenda](https://www.theguardian.com/world/article/2024/may/06/xi-jinping-europe-visit-france-macron-ukraine-eu-trade)
-- [European football: Bayer Leverkusen crush Frankfurt to extend unbeaten run](https://www.theguardian.com/football/article/2024/may/05/european-roundup-leverkusen-milan-roma-juventus)
-- [Gender-specific toilets to be required in non-residential buildings in England](https://www.theguardian.com/uk-news/article/2024/may/06/gender-specific-toilets-to-be-required-in-non-residential-buildings-in-england)
-- [Eurovision winner Jamala says Ukraine ‘cannot afford’ to boycott contest](https://www.theguardian.com/tv-and-radio/article/2024/may/06/eurovision-winner-jamala-says-ukraine-cannot-afford-to-boycott-contest)
-- [PCA warns county cricket schedule could result in ‘disaster’ without cuts](https://www.theguardian.com/sport/article/2024/may/06/pca-warns-county-cricket-schedule-could-result-in-disaster-without-cuts)
-- [Calls grow for urgent talks to protect future of Grangemouth oil refinery](https://www.theguardian.com/business/article/2024/may/06/calls-grow-for-urgent-talks-to-protect-future-of-grangemouth-oil-refinery)
-- [Bills you don’t owe, menacing debt collectors: the terrifying world of energy company customers](https://www.theguardian.com/money/article/2024/may/06/bills-you-dont-owe-menacing-debt-collectors-the-terrifying-world-of-energy-company-customers)
+- [Met Gala 2024 live updates: Zendaya stuns in second outfit; Cardi B and Lana Del Rey among stars at fashion’s biggest night](https://www.theguardian.com/fashion/live/2024/may/06/met-gala-2024-fashion-outfits-theme-latest-updates)
+- [Non-doms are threatening to leave. Should they be convinced to stay? - podcast](https://www.theguardian.com/news/audio/2024/may/07/non-doms-are-threatening-to-leave-should-they-be-convinced-to-stay-podcast)
+- [UCLA creates campus safety role amid condemnation of response to mob attack](https://www.theguardian.com/us-news/article/2024/may/06/ucla-protester-attack-campus-safety)
+- [Ukraine war briefing: US and most EU countries to boycott Putin swearing-in ceremony](https://www.theguardian.com/world/article/2024/may/07/ukraine-war-briefing-us-and-most-eu-countries-to-boycott-putin-swearing-in-ceremony)
+- [Rachel Reeves accuses Tories of ‘gaslighting’ public over economy](https://www.theguardian.com/politics/article/2024/may/06/rachel-reeves-tories-gaslighting-economy-labour)
+- [Savills says UK house prices will rise this year in U-turn on earlier forecast](https://www.theguardian.com/money/article/2024/may/07/savills-uk-house-prices-rise-this-year-u-turn-forecast)
+- [Tom Daley to compete at record fifth Olympics to defend 10m synchro title](https://www.theguardian.com/sport/article/2024/may/07/diving-tom-daley-compete-record-fifth-olympics-to-defend-10m-synchro-title)
+- [UK armed forces’ personal data hacked in MoD breach](https://www.theguardian.com/technology/article/2024/may/06/uk-military-personnels-data-hacked-in-mod-payroll-breach)
+- [‘We let each other down’: Ten Hag admits Manchester United at new low](https://www.theguardian.com/football/article/2024/may/06/we-let-each-other-down-ten-hag-admits-manchester-united-at-new-low)
+- [‘Special treatment’: Harvey Weinstein in private unit in New York hospital](https://www.theguardian.com/world/article/2024/may/06/harvey-weinstein-new-york-hospital)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

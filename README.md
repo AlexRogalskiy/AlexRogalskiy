@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Google, Meta &#39;break&#39; Apple&#39;s device fingerprinting rules](https://www.theregister.com/2024/05/07/apple_fingerprinting_rules/)
-- [New black hole visualization takes viewers beyond the brink](https://phys.org/news/2024-05-black-hole-visualization-viewers-brink.html)
-- [Vets fret as private equity snaps up clinics, pet care companies](https://stateline.org/2024/03/29/vets-fret-as-private-equity-snaps-up-clinics-pet-care-companies/)
-- [Boeing Starliner&#39;s first crewed mission scrubbed](https://techcrunch.com/2024/05/06/boeing-starliners-first-crewed-mission-scrubbed/)
-- [Eli Bendersky: Faster XML Stream Processing in Go](https://eli.thegreenplace.net/2019/faster-xml-stream-processing-in-go/)
-- [Proton Mail Discloses User Data Leading to Arrest in Spain](https://restoreprivacy.com/protonmail-discloses-user-data-leading-to-arrest-in-spain/)
-- [Caniemail.com – like caniuse but for email content](https://www.caniemail.com/)
-- [How do birds flock? Research reveals previously unknown aerodynamic phenomenon](https://www.nyu.edu/about/news-publications/news/2024/april/how-do-birds-flock--researchers-do-the-math-to-reveal-previously.html)
-- [More than 100 arrested in Spain in $900k WhatsApp scheme](https://therecord.media/spain-arrests-whatsapp-impersonation-scams)
-- [Attackers can decloak routing-based VPNs](https://www.leviathansecurity.com/blog/tunnelvision)
+- [Product Roadmap](https://bsky.social/about/blog/05-07-2024-product-roadmap)
+- [Unix forking the universe by running IBM&#39;s free online quantum computer](https://parel.es/blog/quantum-dice)
+- [Decker: A fantastic reincarnation of HyperCard with 1-bit graphics](https://www.beyondloom.com/decker/index.html)
+- [Qt and C++ Trivial Relocation &lpar;Part 1&rpar;](https://www.kdab.com/qt-and-trivial-relocation-part-1/)
+- [IBM Granite: A Family of Open Foundation Models for Code Intelligence](https://github.com/ibm-granite/granite-code-models)
+- [Jolie, the service-oriented programming language](https://www.jolie-lang.org/index.html)
+- [ScrapeGraphAI: Web scraping using LLM and direct graph logic](https://scrapegraph-doc.onrender.com/)
+- [The Grateful Dead&#39;s Wall of Sound](https://audioacademy.in/the-grateful-deads-wall-of-sound/)
+- [Show HN: Convert your Containerfile to a bootable OS](https://github.com/containers/podman-desktop-extension-bootc)
+- [Facebook just updated its relationship status with Web Components](https://www.mux.com/blog/facebook-just-updated-it-s-relationship-status-with-web-components)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

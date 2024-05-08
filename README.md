@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Met Gala 2024 live updates: Zendaya stuns in second outfit; Cardi B and Lana Del Rey among stars at fashion’s biggest night](https://www.theguardian.com/fashion/live/2024/may/06/met-gala-2024-fashion-outfits-theme-latest-updates)
-- [Non-doms are threatening to leave. Should they be convinced to stay? - podcast](https://www.theguardian.com/news/audio/2024/may/07/non-doms-are-threatening-to-leave-should-they-be-convinced-to-stay-podcast)
-- [UCLA creates campus safety role amid condemnation of response to mob attack](https://www.theguardian.com/us-news/article/2024/may/06/ucla-protester-attack-campus-safety)
-- [Ukraine war briefing: US and most EU countries to boycott Putin swearing-in ceremony](https://www.theguardian.com/world/article/2024/may/07/ukraine-war-briefing-us-and-most-eu-countries-to-boycott-putin-swearing-in-ceremony)
-- [Rachel Reeves accuses Tories of ‘gaslighting’ public over economy](https://www.theguardian.com/politics/article/2024/may/06/rachel-reeves-tories-gaslighting-economy-labour)
-- [Savills says UK house prices will rise this year in U-turn on earlier forecast](https://www.theguardian.com/money/article/2024/may/07/savills-uk-house-prices-rise-this-year-u-turn-forecast)
-- [Tom Daley to compete at record fifth Olympics to defend 10m synchro title](https://www.theguardian.com/sport/article/2024/may/07/diving-tom-daley-compete-record-fifth-olympics-to-defend-10m-synchro-title)
-- [UK armed forces’ personal data hacked in MoD breach](https://www.theguardian.com/technology/article/2024/may/06/uk-military-personnels-data-hacked-in-mod-payroll-breach)
-- [‘We let each other down’: Ten Hag admits Manchester United at new low](https://www.theguardian.com/football/article/2024/may/06/we-let-each-other-down-ten-hag-admits-manchester-united-at-new-low)
-- [‘Special treatment’: Harvey Weinstein in private unit in New York hospital](https://www.theguardian.com/world/article/2024/may/06/harvey-weinstein-new-york-hospital)
+- [The London Bridge ‘hero’ who could go to prison for 99 years podcast](https://www.theguardian.com/news/audio/2024/may/08/the-london-bridge-hero-who-could-go-to-prison-for-99-years-podcast)
+- [Dozens of people trapped when tornado collapses FedEx building in Michigan](https://www.theguardian.com/world/article/2024/may/07/michigan-tornadoes-thunderstorms)
+- [E-gates ‘back online’ after chaos at Heathrow and other UK airports](https://www.theguardian.com/world/article/2024/may/07/chaos-at-heathrow-gatwick-stansted-edinburgh-manchester-uk-airports-e-gate-technical-problems)
+- [‘Do you worry about STDs?’: Stormy Daniels’ testimony on Trump affair off to cringey start](https://www.theguardian.com/us-news/article/2024/may/07/stormy-daniels-donald-trump-testimony)
+- [Ukraine war briefing: ‘Rocket, drone, rocket’ – alleged plots to kill Zelenskiy, Budanov](https://www.theguardian.com/world/article/2024/may/08/ukraine-war-briefing-rocket-drone-rocket-alleged-plots-to-kill-zelenskiy-budanov)
+- [‘I can rise above expectations’: the woman breaking barriers in Pacific politics](https://www.theguardian.com/world/article/2024/may/08/cathy-nori-solomon-islands-mp-election-parliament)
+- [Sphynx has lowest life expectancy of domestic cat breeds, research finds](https://www.theguardian.com/lifeandstyle/article/2024/may/08/sphynx-has-lowest-life-expectancy-of-domestic-cat-breeds-research-finds)
+- [Israel launches Rafah offensive it says is start of mission to ‘eliminate’ Hamas](https://www.theguardian.com/world/article/2024/may/07/israel-launches-rafah-offensive-start-mission-eliminate-hamas)
+- [Tech firms must ‘tame’ algorithms under Ofcom child safety rules](https://www.theguardian.com/media/article/2024/may/08/tech-firms-must-tame-algorithms-under-ofcom-child-safety-rules)
+- [Renewable energy passes 30% of world’s electricity supply](https://www.theguardian.com/environment/article/2024/may/08/renewable-energy-passes-30-of-worlds-electricity-supply)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

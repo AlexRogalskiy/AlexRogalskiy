@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Elon Musk Says There Are Too Many Non-Technical Managers at Boeing](https://www.businessinsider.com/elon-musk-too-many-non-technical-managers-starliner-boeing-2024-5)
-- [How does this live stream have 100k watching now, and 8M subscribers? [video]](https://www.youtube.com/watch?v=KzWVsKxlciE)
-- [Google, Meta &#39;break&#39; Apple&#39;s device fingerprinting rules](https://www.theregister.com/2024/05/07/apple_fingerprinting_rules/)
-- [Ask HN: Many of you are fighting with Win11](https://news.ycombinator.com/item?id=40281540)
-- [Farm states push back on Biden&#39;s bird flu response](https://www.politico.com/news/2024/05/06/bird-flu-dairy-farms-cdc-00156119)
-- [Tensions Rise in Silicon Valley over Sales of Startup Stocks](https://www.nytimes.com/2024/05/06/technology/startup-stock-funds-destiny.html)
-- [Kan: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
-- [Ask HN: Starting C++ in 2024, what to know?](https://news.ycombinator.com/item?id=40281504)
-- [Show HN: Only gave myself one day to build this](https://docs.google.com/forms/d/1tCnC0jj212iGDTuTdYNYkF8dEN3GbNEfqDtup_z_5hc/viewform?edit_requested=true)
-- [Managers have no human rights](https://yosefk.com/blog/managers-have-no-human-rights.html)
+- [Peru Port Dispute Escalates as Cosco Insists on Original Terms](https://gcaptain.com/peru-port-dispute-escalates-as-cosco-insists-on-original-terms/)
+- [US Revokes Intel, Qualcomm Licenses to Sell Chips to Huawei](https://www.msn.com/en-us/money/other/us-revokes-intel-qualcomm-licenses-to-sell-chips-to-huawei/ar-BB1lZqJO)
+- [Saudi Arabia Discovers It&#39;s Hard to Build a 105-Mile Skyscraper](https://futurism.com/the-byte/saudi-arabia-hard-build-105-mile-skyscraper)
+- [Google will exit prominent S.F. waterfront office tower](https://www.sfchronicle.com/realestate/article/google-exits-sf-office-tower-19445098.php)
+- [A Giant Impact Origin for the First Subduction on Earth](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023GL106723)
+- [Reflecting on Research Practices](https://cacm.acm.org/opinion/reflecting-on-research-practices/)
+- [A Brief History of Embodied Artificial Intelligence, and Its Future Outlook](https://cacm.acm.org/blogcacm/a-brief-history-of-embodied-artificial-intelligence-and-its-future-outlook/)
+- [Google Cloud Rise Summit 2024](https://rsvp.withgoogle.com/events/rise-summit-24/home)
+- [Needle: A DFA Based Regex Library That Compiles to JVM ByteCode](https://justinblank.com/experiments/needle.html)
+- [Ritom Pumped-Storage Plant Project – Tunneling under extreme conditions [video]](https://www.youtube.com/watch?v=6AV2NcyX7pk)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

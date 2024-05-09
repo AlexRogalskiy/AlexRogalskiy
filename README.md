@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Product Roadmap](https://bsky.social/about/blog/05-07-2024-product-roadmap)
-- [Unix forking the universe by running IBM&#39;s free online quantum computer](https://parel.es/blog/quantum-dice)
-- [Decker: A fantastic reincarnation of HyperCard with 1-bit graphics](https://www.beyondloom.com/decker/index.html)
-- [Qt and C++ Trivial Relocation &lpar;Part 1&rpar;](https://www.kdab.com/qt-and-trivial-relocation-part-1/)
-- [IBM Granite: A Family of Open Foundation Models for Code Intelligence](https://github.com/ibm-granite/granite-code-models)
-- [Jolie, the service-oriented programming language](https://www.jolie-lang.org/index.html)
-- [ScrapeGraphAI: Web scraping using LLM and direct graph logic](https://scrapegraph-doc.onrender.com/)
-- [The Grateful Dead&#39;s Wall of Sound](https://audioacademy.in/the-grateful-deads-wall-of-sound/)
-- [Show HN: Convert your Containerfile to a bootable OS](https://github.com/containers/podman-desktop-extension-bootc)
-- [Facebook just updated its relationship status with Web Components](https://www.mux.com/blog/facebook-just-updated-it-s-relationship-status-with-web-components)
+- [A dystopian iPad commercial has X ripping Apple for crushing instruments and art](https://ftw.usatoday.com/2024/05/apple-ipad-pro-commercial-bad)
+- [The Time I Lied to the CTO and Saved the Day](https://GrumpyOldDev.com/post/the-one-where-i-lie-to-the-cto/)
+- [Opening Windows in Linux with sockets, bare hands and 200 lines of C](https://hereket.com/posts/from-scratch-x11-windowing/)
+- [Securing Git Repositories with Gittuf](https://lwn.net/SubscriberLink/972467/595a68b99f57a87d/)
+- [Show HN: SimBricks – Modular Full-System Simulation for HW-SW Systems](https://simbricks.github.io/)
+- [HTML Ruby Markup Extensions Working Draft Published](https://www.w3.org/news/2024/working-draft-html-ruby-markup-extensions/)
+- [Stack Overflow users deleting answers after OpenAI partnership](https://build5nines.com/stack-overflow-upset-over-users-deleting-answers-after-openai-partnership/)
+- [A scientific run-down of coffee blooming](https://www.seriouseats.com/perfect-coffee-bubbles-signs-sounds-6824133)
+- [Empirical Health &lpar;YC S23&rpar; is hiring engineering leads in NYC](https://www.ycombinator.com/companies/empirical-health/jobs/1PW3OFe-engineering-lead)
+- [Consistency LLM: converting LLMs to parallel decoders accelerates inference 3.5x](https://hao-ai-lab.github.io/blogs/cllm/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

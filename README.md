@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [The London Bridge ‘hero’ who could go to prison for 99 years podcast](https://www.theguardian.com/news/audio/2024/may/08/the-london-bridge-hero-who-could-go-to-prison-for-99-years-podcast)
-- [Dozens of people trapped when tornado collapses FedEx building in Michigan](https://www.theguardian.com/world/article/2024/may/07/michigan-tornadoes-thunderstorms)
-- [E-gates ‘back online’ after chaos at Heathrow and other UK airports](https://www.theguardian.com/world/article/2024/may/07/chaos-at-heathrow-gatwick-stansted-edinburgh-manchester-uk-airports-e-gate-technical-problems)
-- [‘Do you worry about STDs?’: Stormy Daniels’ testimony on Trump affair off to cringey start](https://www.theguardian.com/us-news/article/2024/may/07/stormy-daniels-donald-trump-testimony)
-- [Ukraine war briefing: ‘Rocket, drone, rocket’ – alleged plots to kill Zelenskiy, Budanov](https://www.theguardian.com/world/article/2024/may/08/ukraine-war-briefing-rocket-drone-rocket-alleged-plots-to-kill-zelenskiy-budanov)
-- [‘I can rise above expectations’: the woman breaking barriers in Pacific politics](https://www.theguardian.com/world/article/2024/may/08/cathy-nori-solomon-islands-mp-election-parliament)
-- [Sphynx has lowest life expectancy of domestic cat breeds, research finds](https://www.theguardian.com/lifeandstyle/article/2024/may/08/sphynx-has-lowest-life-expectancy-of-domestic-cat-breeds-research-finds)
-- [Israel launches Rafah offensive it says is start of mission to ‘eliminate’ Hamas](https://www.theguardian.com/world/article/2024/may/07/israel-launches-rafah-offensive-start-mission-eliminate-hamas)
-- [Tech firms must ‘tame’ algorithms under Ofcom child safety rules](https://www.theguardian.com/media/article/2024/may/08/tech-firms-must-tame-algorithms-under-ofcom-child-safety-rules)
-- [Renewable energy passes 30% of world’s electricity supply](https://www.theguardian.com/environment/article/2024/may/08/renewable-energy-passes-30-of-worlds-electricity-supply)
+- [Escaping Rafah: on the ground in Gaza’s last refuge - podcast](https://www.theguardian.com/news/audio/2024/may/09/escaping-rafah-on-the-ground-in-gaza-last-refuge-podcast)
+- [Former Fiji PM Frank Bainimarama sentenced to year in jail – reports](https://www.theguardian.com/world/article/2024/may/09/former-fiji-pm-frank-bainimarama-sentenced-jail-ntwnfb)
+- [Court bans Glory to Hong Kong protest song prompting further fears for free speech](https://www.theguardian.com/world/article/2024/may/09/court-bans-glory-to-hong-kong-protest-song-free-speech)
+- [Macklemore performs pro-Palestine song for first time at New Zealand concert](https://www.theguardian.com/music/article/2024/may/09/macklemore-performs-pro-palestine-song-for-first-time-at-new-zealand-concert)
+- [Ukraine war briefing: Russia’s foreign earnings to pay for Ukrainian defence](https://www.theguardian.com/world/article/2024/may/09/ukraine-war-briefing-russias-foreign-earnings-to-pay-for-ukrainian-defence)
+- [Digital recreations of dead people need urgent regulation, AI ethicists say](https://www.theguardian.com/technology/article/2024/may/09/digital-recreations-of-dead-people-need-urgent-regulation-ai-ethicists-say)
+- [US will stop supplying some weapons to Israel if it invades Rafah, Biden warns](https://www.theguardian.com/us-news/article/2024/may/08/biden-israel-weapons-shipment-rafah-invasion)
+- [Medicine shortages in England ‘beyond critical’, pharmacists warn](https://www.theguardian.com/society/article/2024/may/09/medicine-shortages-in-england-beyond-critical-pharmacists-warn)
+- [Amnesty urges Fifa to publish report on Qatar migrant worker compensation](https://www.theguardian.com/football/article/2024/may/09/fifa-migrant-workers-qatar-world-cup-football-amnesty-international)
+- [David Cameron: west has not learned lesson of Ukraine and must get tougher](https://www.theguardian.com/politics/article/2024/may/09/david-cameron-west-has-not-learned-lesson-of-ukraine-and-must-get-tougher)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

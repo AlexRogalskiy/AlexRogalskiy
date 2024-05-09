@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Peru Port Dispute Escalates as Cosco Insists on Original Terms](https://gcaptain.com/peru-port-dispute-escalates-as-cosco-insists-on-original-terms/)
-- [US Revokes Intel, Qualcomm Licenses to Sell Chips to Huawei](https://www.msn.com/en-us/money/other/us-revokes-intel-qualcomm-licenses-to-sell-chips-to-huawei/ar-BB1lZqJO)
-- [Saudi Arabia Discovers It&#39;s Hard to Build a 105-Mile Skyscraper](https://futurism.com/the-byte/saudi-arabia-hard-build-105-mile-skyscraper)
-- [Google will exit prominent S.F. waterfront office tower](https://www.sfchronicle.com/realestate/article/google-exits-sf-office-tower-19445098.php)
-- [A Giant Impact Origin for the First Subduction on Earth](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023GL106723)
-- [Reflecting on Research Practices](https://cacm.acm.org/opinion/reflecting-on-research-practices/)
-- [A Brief History of Embodied Artificial Intelligence, and Its Future Outlook](https://cacm.acm.org/blogcacm/a-brief-history-of-embodied-artificial-intelligence-and-its-future-outlook/)
-- [Google Cloud Rise Summit 2024](https://rsvp.withgoogle.com/events/rise-summit-24/home)
-- [Needle: A DFA Based Regex Library That Compiles to JVM ByteCode](https://justinblank.com/experiments/needle.html)
-- [Ritom Pumped-Storage Plant Project – Tunneling under extreme conditions [video]](https://www.youtube.com/watch?v=6AV2NcyX7pk)
+- [A look inside illegal drone deliveries at B.C.&#39;s prisons](https://www.vancouverisawesome.com/highlights/watch-a-look-inside-illegal-drone-deliveries-at-bcs-prisons-8706734)
+- [AWS Python SDK downloaded over 1.4B times a month](https://pypistats.org/packages/boto3)
+- [Nostr – The New Internet](https://www.nostrapps.com/)
+- [Detecting faulty RAM hardware in Firefox crash data](https://fosstodon.org/@gabrielesvelto/112407750205522687)
+- [401&lpar;k&rpar; Drives Inequality](https://www.nytimes.com/2024/05/08/magazine/401k-retirement-crisis.html)
+- [How Ahrefs Gets a Billion Dollar-Worth Infrastructure with a 90% Discount](https://tech.ahrefs.com/how-ahrefs-gets-a-billion-dollar-worth-infrastructure-with-a-90-discount-5edd473b2399)
+- [A dystopian iPad commercial has X ripping Apple for crushing instruments and art](https://ftw.usatoday.com/2024/05/apple-ipad-pro-commercial-bad)
+- [Copilotcalypse](https://philcalcado.com/2024/03/08/copilotcalypse.html)
+- [Show HN: Devie – Describe and launch a web app in seconds](https://www.devie.ai/)
+- [Nokia 3210 4G](https://www.gizmochina.com/2024/05/08/nokia-3210-2024-4g-launched/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

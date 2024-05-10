@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Escaping Rafah: on the ground in Gaza’s last refuge - podcast](https://www.theguardian.com/news/audio/2024/may/09/escaping-rafah-on-the-ground-in-gaza-last-refuge-podcast)
-- [Former Fiji PM Frank Bainimarama sentenced to year in jail – reports](https://www.theguardian.com/world/article/2024/may/09/former-fiji-pm-frank-bainimarama-sentenced-jail-ntwnfb)
-- [Court bans Glory to Hong Kong protest song prompting further fears for free speech](https://www.theguardian.com/world/article/2024/may/09/court-bans-glory-to-hong-kong-protest-song-free-speech)
-- [Macklemore performs pro-Palestine song for first time at New Zealand concert](https://www.theguardian.com/music/article/2024/may/09/macklemore-performs-pro-palestine-song-for-first-time-at-new-zealand-concert)
-- [Ukraine war briefing: Russia’s foreign earnings to pay for Ukrainian defence](https://www.theguardian.com/world/article/2024/may/09/ukraine-war-briefing-russias-foreign-earnings-to-pay-for-ukrainian-defence)
-- [Digital recreations of dead people need urgent regulation, AI ethicists say](https://www.theguardian.com/technology/article/2024/may/09/digital-recreations-of-dead-people-need-urgent-regulation-ai-ethicists-say)
-- [US will stop supplying some weapons to Israel if it invades Rafah, Biden warns](https://www.theguardian.com/us-news/article/2024/may/08/biden-israel-weapons-shipment-rafah-invasion)
-- [Medicine shortages in England ‘beyond critical’, pharmacists warn](https://www.theguardian.com/society/article/2024/may/09/medicine-shortages-in-england-beyond-critical-pharmacists-warn)
-- [Amnesty urges Fifa to publish report on Qatar migrant worker compensation](https://www.theguardian.com/football/article/2024/may/09/fifa-migrant-workers-qatar-world-cup-football-amnesty-international)
-- [David Cameron: west has not learned lesson of Ukraine and must get tougher](https://www.theguardian.com/politics/article/2024/may/09/david-cameron-west-has-not-learned-lesson-of-ukraine-and-must-get-tougher)
+- [‘We will fight with our fingernails’ says Netanyahu after US threat to curb arms](https://www.theguardian.com/world/article/2024/may/09/we-will-fight-with-our-fingernails-says-netanyahu-after-us-threat-to-curb-arms)
+- [Rishi Sunak staggers on – but for how long? - podcast](https://www.theguardian.com/news/audio/2024/may/10/rishi-sunak-staggers-on-but-for-how-long-podcast)
+- [Ukraine war briefing: Zelenskiy fires top bodyguard after failed assassination attempt](https://www.theguardian.com/world/article/2024/may/10/ukraine-war-briefing-zelenskiy-fires-top-bodyguard-after-failed-assassination-attempt)
+- [Dennis Thompson, drummer in rock band MC5, dies aged 75](https://www.theguardian.com/music/article/2024/may/10/dennis-thompson-dies-aged-75-death-mc5-drummer)
+- [How the humble coconut is starting to fuel parts of Papua New Guinea](https://www.theguardian.com/world/article/2024/may/10/png-coconut-tree-oil-copra-biodiesel)
+- [Flights cancelled and tourists stranded as Air Vanuatu put into voluntary liquidation](https://www.theguardian.com/world/article/2024/may/10/air-vanuatu-voluntary-liquidation-flights-cancelled)
+- [Coldplay and Sting call for release of Toomaj Salehi, Iranian rapper sentenced to death](https://www.theguardian.com/music/article/2024/may/10/coldplay-and-sting-release-iranian-rapper-sentenced-death-toomaj-salehi)
+- [Adapted NHS bowel cancer test developed for blind and partly sighted people](https://www.theguardian.com/society/article/2024/may/10/adapted-nhs-bowel-cancer-test-developed-for-blind-and-partly-sighted-people)
+- [Premier League: 10 things to look out for in this weekend’s football](https://www.theguardian.com/football/article/2024/may/10/premier-league-10-things-to-look-out-for-in-this-weekends-football)
+- [Apple apologises for iPad ad criticised as ‘destruction of the human experience’](https://www.theguardian.com/technology/article/2024/may/09/apple-ipad-ad-prompts-online-backlash)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

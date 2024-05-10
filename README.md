@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [A dystopian iPad commercial has X ripping Apple for crushing instruments and art](https://ftw.usatoday.com/2024/05/apple-ipad-pro-commercial-bad)
-- [The Time I Lied to the CTO and Saved the Day](https://GrumpyOldDev.com/post/the-one-where-i-lie-to-the-cto/)
-- [Opening Windows in Linux with sockets, bare hands and 200 lines of C](https://hereket.com/posts/from-scratch-x11-windowing/)
-- [Securing Git Repositories with Gittuf](https://lwn.net/SubscriberLink/972467/595a68b99f57a87d/)
-- [Show HN: SimBricks – Modular Full-System Simulation for HW-SW Systems](https://simbricks.github.io/)
-- [HTML Ruby Markup Extensions Working Draft Published](https://www.w3.org/news/2024/working-draft-html-ruby-markup-extensions/)
-- [Stack Overflow users deleting answers after OpenAI partnership](https://build5nines.com/stack-overflow-upset-over-users-deleting-answers-after-openai-partnership/)
-- [A scientific run-down of coffee blooming](https://www.seriouseats.com/perfect-coffee-bubbles-signs-sounds-6824133)
-- [Empirical Health &lpar;YC S23&rpar; is hiring engineering leads in NYC](https://www.ycombinator.com/companies/empirical-health/jobs/1PW3OFe-engineering-lead)
-- [Consistency LLM: converting LLMs to parallel decoders accelerates inference 3.5x](https://hao-ai-lab.github.io/blogs/cllm/)
+- [Google Photos testing &#39;Collections&#39; redesign that buries your library](https://9to5google.com/2024/05/08/google-photos-library-collections-testing/)
+- [Weapons in Space Technology, Politics, and the Rise and Fall of SDI](https://direct.mit.edu/books/oa-monograph/5770/Weapons-in-SpaceTechnology-Politics-and-the-Rise)
+- [Wprs – rootless remote desktop for Wayland &lpar;and X11, via XWayland&rpar; applications](https://github.com/wayland-transpositor/wprs)
+- [A Record of Old Kashgar](https://chinabooksreview.com/2024/05/09/a-record-of-old-kashgar/)
+- [C2PA from the Attacker&#39;s Perspective](https://www.hackerfactor.com/blog/index.php?/archives/1031-C2PA-from-the-Attackers-Perspective.html)
+- [The world has probably passed peak pollution](https://www.sustainabilitybynumbers.com/p/peak-pollution)
+- [Sioyek is a PDF viewer with a focus on textbooks and research papers](https://github.com/ahrm/sioyek)
+- [Being Green: A new book marvels at the strangeness of plants](https://slate.com/culture/2024/05/light-eaters-zoe-schlanger-book-plant-intelligence.html)
+- [How bad are satellite megaconstellations for astronomy?](https://www.leonarddavid.com/blinded-by-the-light-megaconstellation-clash-with-astronomical-peer-groups/)
+- [The history of &#39;OK&#39; &lpar;2023&rpar;](https://people.howstuffworks.com/history-ok.htm)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

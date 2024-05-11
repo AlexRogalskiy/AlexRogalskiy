@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [‘We will fight with our fingernails’ says Netanyahu after US threat to curb arms](https://www.theguardian.com/world/article/2024/may/09/we-will-fight-with-our-fingernails-says-netanyahu-after-us-threat-to-curb-arms)
-- [Rishi Sunak staggers on – but for how long? - podcast](https://www.theguardian.com/news/audio/2024/may/10/rishi-sunak-staggers-on-but-for-how-long-podcast)
-- [Ukraine war briefing: Zelenskiy fires top bodyguard after failed assassination attempt](https://www.theguardian.com/world/article/2024/may/10/ukraine-war-briefing-zelenskiy-fires-top-bodyguard-after-failed-assassination-attempt)
-- [Dennis Thompson, drummer in rock band MC5, dies aged 75](https://www.theguardian.com/music/article/2024/may/10/dennis-thompson-dies-aged-75-death-mc5-drummer)
-- [How the humble coconut is starting to fuel parts of Papua New Guinea](https://www.theguardian.com/world/article/2024/may/10/png-coconut-tree-oil-copra-biodiesel)
-- [Flights cancelled and tourists stranded as Air Vanuatu put into voluntary liquidation](https://www.theguardian.com/world/article/2024/may/10/air-vanuatu-voluntary-liquidation-flights-cancelled)
-- [Coldplay and Sting call for release of Toomaj Salehi, Iranian rapper sentenced to death](https://www.theguardian.com/music/article/2024/may/10/coldplay-and-sting-release-iranian-rapper-sentenced-death-toomaj-salehi)
-- [Adapted NHS bowel cancer test developed for blind and partly sighted people](https://www.theguardian.com/society/article/2024/may/10/adapted-nhs-bowel-cancer-test-developed-for-blind-and-partly-sighted-people)
-- [Premier League: 10 things to look out for in this weekend’s football](https://www.theguardian.com/football/article/2024/may/10/premier-league-10-things-to-look-out-for-in-this-weekends-football)
-- [Apple apologises for iPad ad criticised as ‘destruction of the human experience’](https://www.theguardian.com/technology/article/2024/may/09/apple-ipad-ad-prompts-online-backlash)
+- [Northern lights dazzle over UK and Europe](https://www.theguardian.com/science/article/2024/may/11/northern-lights-dazzle-over-uk-and-europe)
+- [Ukraine war briefing: Focus swings to Kharkiv as Russia mounts assaults](https://www.theguardian.com/world/article/2024/may/11/ukraine-war-briefing-focus-swings-to-kharkiv-as-russia-mounts-assaults)
+- [Rudy Giuliani suspended by New York radio station over 2020 election lies](https://www.theguardian.com/us-news/article/2024/may/10/rudy-giuliani-suspended-radio)
+- [Eurovision struggles to keep politics out as Israel controversy hits Malmö](https://www.theguardian.com/tv-and-radio/article/2024/may/10/eurovision-song-contest-malmo-israel-controversy)
+- [Franki Raffles and Joanne Coates review – studies of women and class show how little things have changed](https://www.theguardian.com/artanddesign/article/2024/may/11/franki-raffles-and-joanne-coates-review-baltic-gateshead-exhibition)
+- [MPs call for levy on arena concert tickets to raise funds for struggling small venues](https://www.theguardian.com/music/article/2024/may/11/mps-call-for-levy-on-arena-concert-tickets-to-raise-funds-for-struggling-small-venues)
+- [Conor Benn’s suspension reimposed after Ukad and boxing board appeals](https://www.theguardian.com/sport/article/2024/may/10/conor-benn-suspension-ukad-british-boxing-board)
+- [US finds Israel’s use of weapons in Gaza ‘inconsistent’ with human rights law, but will not cut flow of arms](https://www.theguardian.com/us-news/article/2024/may/10/us-weapons-israel-human-rights-law)
+- [Premiership Rugby: Bath and Sale keep playoff hopes alive with victories](https://www.theguardian.com/sport/article/2024/may/10/premiership-rugby-union-bath-newcastle-sale-leicester)
+- [Taylor Swift’s new Era Tours setlist – seven Tortured Poets songs added](https://www.theguardian.com/music/article/2024/may/10/taylor-swift-new-era-tours-setlist)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

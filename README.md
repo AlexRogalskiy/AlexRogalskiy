@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Linking Zig to Pokemon Decomps](https://jadon.io/blog/zig-pokemon-gba/)
-- [Visualizing the number of weeks in your Life](https://www.bryanbraun.com/your-life/weeks.html)
-- [Fobos SDR: 14-bit, 100 kHz to 6 GHz SDR, up to 50-MHz bandwidth, receive only](https://rigexpert.com/products/software-defined-radio-sdr/fobos-sdr/)
-- [Could Technological Change Solve the Problem of Inequality?](https://medium.com/@jvcnye/could-technological-change-solve-the-problem-of-inequality-289d0d683c38)
-- [US committee targets Georgia Tech&#39;s alleged ties to Chinese military research](https://www.reuters.com/world/us/us-committee-targets-georgia-techs-alleged-ties-chinese-military-linked-research-2024-05-09/)
-- [Huawei breaks free from Google ecosystem with homegrown HarmonyOS](https://asia.nikkei.com/Business/China-tech/Huawei-breaks-free-from-Google-ecosystem-with-homegrown-OS)
-- [Where did the expression &#39;STEELY-EYED MISSILE MAN&#39; come from?](https://www.todayifoundout.com/index.php/2021/05/where-did-the-nasa-expression-steely-eyed-missile-man-come-from/)
-- [No One Knows What Universities Are For](https://www.theatlantic.com/ideas/archive/2024/05/bureaucratic-bloat-eating-american-universities-inside/678324/)
-- [Library that provides user with easy to use email clients collection in Rust](https://crates.io/crates/email-clients)
-- [Someone just got Android running on the Rabbit R1 [video]](https://9to5google.com/2024/05/09/rabbit-r1-android-lineageos/)
+- [Tool to statically recompile N64 games into native executables](https://github.com/Mr-Wiseguy/N64Recomp)
+- [I want an iPhone Mini-sized Android phone &lpar;2022&rpar;](https://smallandroidphone.com/)
+- [Python 3.13 Beta: The New Features and Fixes Coming Soon](https://coderoasis.com/python-3-13-new-features/)
+- [Tauonium: The smallest and heaviest atom with pure electromagnetic interaction](https://phys.org/news/2024-05-tauonium-smallest-heaviest-atom-pure.html)
+- [Jim Simons – Oral History Interview &lpar;2020&rpar;](https://www.aip.org/history-programs/niels-bohr-library/oral-histories/45111)
+- [U.S. maps of atrazine use and predicted concentrations in groundwater](https://www.usgs.gov/media/images/us-maps-atrazine-use-and-predicted-concentrations-groundwater)
+- [Pioneers, Settlers and Town Planners &lpar;2012&rpar;](https://blog.gardeviance.org/2012/06/pioneers-settlers-and-town-planners.html)
+- [How to teach programming to your loved ones &lpar;2018&rpar; [video]](https://media.ccc.de/v/35c3-9800-how_to_teach_programming_to_your_loved_ones)
+- [Femtosecond Lasers Solve Solar Panels&#39; Recycling Issue](https://spectrum.ieee.org/solar-panel-recycling)
+- [Fuel-Cell-Powered RAM Headed for U.S., EU Markets](https://www.wardsauto.com/vehicles/fuel-cell-powered-ram-headed-us-eu-markets)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Google Photos testing &#39;Collections&#39; redesign that buries your library](https://9to5google.com/2024/05/08/google-photos-library-collections-testing/)
-- [Weapons in Space Technology, Politics, and the Rise and Fall of SDI](https://direct.mit.edu/books/oa-monograph/5770/Weapons-in-SpaceTechnology-Politics-and-the-Rise)
-- [Wprs – rootless remote desktop for Wayland &lpar;and X11, via XWayland&rpar; applications](https://github.com/wayland-transpositor/wprs)
-- [A Record of Old Kashgar](https://chinabooksreview.com/2024/05/09/a-record-of-old-kashgar/)
-- [C2PA from the Attacker&#39;s Perspective](https://www.hackerfactor.com/blog/index.php?/archives/1031-C2PA-from-the-Attackers-Perspective.html)
-- [The world has probably passed peak pollution](https://www.sustainabilitybynumbers.com/p/peak-pollution)
-- [Sioyek is a PDF viewer with a focus on textbooks and research papers](https://github.com/ahrm/sioyek)
-- [Being Green: A new book marvels at the strangeness of plants](https://slate.com/culture/2024/05/light-eaters-zoe-schlanger-book-plant-intelligence.html)
-- [How bad are satellite megaconstellations for astronomy?](https://www.leonarddavid.com/blinded-by-the-light-megaconstellation-clash-with-astronomical-peer-groups/)
-- [The history of &#39;OK&#39; &lpar;2023&rpar;](https://people.howstuffworks.com/history-ok.htm)
+- [Most of Europe is glowing pink under the aurora](https://www.foto-webcam.eu/webcam/lucknerhaus/)
+- [One Minute Park](https://oneminutepark.tv/)
+- [Spider-Man &lpar;Neversoft&rpar; Decompilation Project Progress Checkpoint – May 2024](https://krystalgamer.github.io/spidey-decomp-status-may/)
+- [Coronal mass ejection impact imminent, two more earth-directed CMEs](https://www.spaceweatherlive.com/en/news/view/533/20240510-cme-impact-imminent-two-more-earth-directed-cmes.html)
+- [Show HN: Jacinda, a functional Awk &lpar;text stream processing on the comamnd-line&rpar;](https://hackage.haskell.org/package/jacinda)
+- [A skeptic&#39;s take on beaming power to Earth from space](https://spectrum.ieee.org/space-based-solar-power-2667878868)
+- [Jim Simons has died](https://www.simonsfoundation.org/2024/05/10/simons-foundation-co-founder-mathematician-and-investor-jim-simons-dies-at-86/)
+- [KeePassXC Debian maintainer has removed all network features](https://fosstodon.org/@keepassxc/112417353193348720)
+- [Superfile – A fancy, pretty terminal file manager](https://github.com/MHNightCat/superfile)
+- [Show HN: A web debugger an ex-Cloudflare team has been working on for 4 years](https://news.ycombinator.com/item?id=40318542)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Most of Europe is glowing pink under the aurora](https://www.foto-webcam.eu/webcam/lucknerhaus/)
-- [One Minute Park](https://oneminutepark.tv/)
-- [Spider-Man &lpar;Neversoft&rpar; Decompilation Project Progress Checkpoint – May 2024](https://krystalgamer.github.io/spidey-decomp-status-may/)
-- [Coronal mass ejection impact imminent, two more earth-directed CMEs](https://www.spaceweatherlive.com/en/news/view/533/20240510-cme-impact-imminent-two-more-earth-directed-cmes.html)
-- [Show HN: Jacinda, a functional Awk &lpar;text stream processing on the comamnd-line&rpar;](https://hackage.haskell.org/package/jacinda)
-- [A skeptic&#39;s take on beaming power to Earth from space](https://spectrum.ieee.org/space-based-solar-power-2667878868)
-- [Jim Simons has died](https://www.simonsfoundation.org/2024/05/10/simons-foundation-co-founder-mathematician-and-investor-jim-simons-dies-at-86/)
-- [KeePassXC Debian maintainer has removed all network features](https://fosstodon.org/@keepassxc/112417353193348720)
-- [Superfile – A fancy, pretty terminal file manager](https://github.com/MHNightCat/superfile)
-- [Show HN: A web debugger an ex-Cloudflare team has been working on for 4 years](https://news.ycombinator.com/item?id=40318542)
+- [Ancient Egyptian Stone-Drilling &lpar;1983&rpar;](https://www.penn.museum/sites/expedition/ancient-egyptian-stone-drilling/)
+- [Charlieplexing](https://en.wikipedia.org/wiki/Charlieplexing)
+- [Billions in Dirty Money Flies Under the Radar at Busiest Airports](https://www.wsj.com/business/airlines/heathrow-dubai-airports-billions-dirty-money-9f49cc7f)
+- [Fathom &lpar;YC W21&rpar; is hiring a TPM to prototype new AI features](https://www.ycombinator.com/companies/fathom/jobs/r4HKk2W-product-manager-ai)
+- [Vision Transformers Need Registers](https://openreview.net/forum?id=2dnO3LLiJ1)
+- [Immersive Math](http://immersivemath.com/ila/index.html)
+- [System Analysis and Programming &lpar;1966&rpar;](https://www.scientificamerican.com/article/system-analysis-and-programming-christopher-strachey/)
+- [Metabolism of autism reveals developmental origins](https://medicalxpress.com/news/2024-05-metabolism-autism-reveals-developmental.html)
+- [Mouse Support for Playdate](https://blog.gingerbeardman.com/2024/05/11/mouse-support-for-playdate/)
+- [Area Lights: Mathematical Fondations](https://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-lighting/introduction-to-lighting-area-lights-theory.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

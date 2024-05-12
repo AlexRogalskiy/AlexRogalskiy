@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Northern lights dazzle over UK and Europe](https://www.theguardian.com/science/article/2024/may/11/northern-lights-dazzle-over-uk-and-europe)
-- [Ukraine war briefing: Focus swings to Kharkiv as Russia mounts assaults](https://www.theguardian.com/world/article/2024/may/11/ukraine-war-briefing-focus-swings-to-kharkiv-as-russia-mounts-assaults)
-- [Rudy Giuliani suspended by New York radio station over 2020 election lies](https://www.theguardian.com/us-news/article/2024/may/10/rudy-giuliani-suspended-radio)
-- [Eurovision struggles to keep politics out as Israel controversy hits Malmö](https://www.theguardian.com/tv-and-radio/article/2024/may/10/eurovision-song-contest-malmo-israel-controversy)
-- [Franki Raffles and Joanne Coates review – studies of women and class show how little things have changed](https://www.theguardian.com/artanddesign/article/2024/may/11/franki-raffles-and-joanne-coates-review-baltic-gateshead-exhibition)
-- [MPs call for levy on arena concert tickets to raise funds for struggling small venues](https://www.theguardian.com/music/article/2024/may/11/mps-call-for-levy-on-arena-concert-tickets-to-raise-funds-for-struggling-small-venues)
-- [Conor Benn’s suspension reimposed after Ukad and boxing board appeals](https://www.theguardian.com/sport/article/2024/may/10/conor-benn-suspension-ukad-british-boxing-board)
-- [US finds Israel’s use of weapons in Gaza ‘inconsistent’ with human rights law, but will not cut flow of arms](https://www.theguardian.com/us-news/article/2024/may/10/us-weapons-israel-human-rights-law)
-- [Premiership Rugby: Bath and Sale keep playoff hopes alive with victories](https://www.theguardian.com/sport/article/2024/may/10/premiership-rugby-union-bath-newcastle-sale-leicester)
-- [Taylor Swift’s new Era Tours setlist – seven Tortured Poets songs added](https://www.theguardian.com/music/article/2024/may/10/taylor-swift-new-era-tours-setlist)
+- [Ukraine war briefing: Kyiv was 9 May terror target, says SBU](https://www.theguardian.com/world/article/2024/may/12/ukraine-war-briefing-kyiv-was-9-may-terror-target-says-sbu)
+- [Air Vanuatu grounding prompts fears Pacific country’s tourism will take big hit](https://www.theguardian.com/world/article/2024/may/12/air-vanuatu-grounding-prompts-fears-pacific-countrys-tourism-will-take-big-hit)
+- [Lauren Price becomes Wales’ first female world champion boxer](https://www.theguardian.com/sport/article/2024/may/12/lauren-price-becomes-wales-first-female-world-champion-boxer)
+- [Prosecutors ask for 40 years for man who attacked Paul Pelosi with hammer](https://www.theguardian.com/us-news/article/2024/may/11/nancy-pelosi-david-depape)
+- [Switzerland wins Eurovision song contest after controversial grand final](https://www.theguardian.com/tv-and-radio/article/2024/may/12/switzerland-wins-eurovision-song-contest-after-controversial-grand-final)
+- [Print’s not dead: 25 of the best patterned shirts – in pictures](https://www.theguardian.com/fashion/gallery/2024/may/11/prints-not-dead-25-of-the-best-patterned-shirts-in-pictures)
+- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2024/may/11/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Thousands protest against ‘foreign influence’ bill in Georgia](https://www.theguardian.com/world/article/2024/may/11/thousands-protest-against-foreign-influence-bill-in-georgia)
+- [Dutch broadcaster decries Eurovision decision to ban its contestant](https://www.theguardian.com/tv-and-radio/article/2024/may/11/netherlands-eurovision-entry-disqualified-from-song-contest)
+- [Is this actually PTSD? Clinicians divided over redefining borderline personality disorder](https://www.theguardian.com/society/article/2024/may/12/is-this-actually-ptsd-clinicians-divided-over-redefining-borderline-personality-disorder)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

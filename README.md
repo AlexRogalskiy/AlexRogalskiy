@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Tool to statically recompile N64 games into native executables](https://github.com/Mr-Wiseguy/N64Recomp)
-- [I want an iPhone Mini-sized Android phone &lpar;2022&rpar;](https://smallandroidphone.com/)
-- [Python 3.13 Beta: The New Features and Fixes Coming Soon](https://coderoasis.com/python-3-13-new-features/)
-- [Tauonium: The smallest and heaviest atom with pure electromagnetic interaction](https://phys.org/news/2024-05-tauonium-smallest-heaviest-atom-pure.html)
-- [Jim Simons – Oral History Interview &lpar;2020&rpar;](https://www.aip.org/history-programs/niels-bohr-library/oral-histories/45111)
-- [U.S. maps of atrazine use and predicted concentrations in groundwater](https://www.usgs.gov/media/images/us-maps-atrazine-use-and-predicted-concentrations-groundwater)
-- [Pioneers, Settlers and Town Planners &lpar;2012&rpar;](https://blog.gardeviance.org/2012/06/pioneers-settlers-and-town-planners.html)
-- [How to teach programming to your loved ones &lpar;2018&rpar; [video]](https://media.ccc.de/v/35c3-9800-how_to_teach_programming_to_your_loved_ones)
-- [Femtosecond Lasers Solve Solar Panels&#39; Recycling Issue](https://spectrum.ieee.org/solar-panel-recycling)
-- [Fuel-Cell-Powered RAM Headed for U.S., EU Markets](https://www.wardsauto.com/vehicles/fuel-cell-powered-ram-headed-us-eu-markets)
+- [Emoji History: The Missing Years](https://blog.gingerbeardman.com/2024/05/10/emoji-history-the-missing-years/)
+- [Virtualizing the 6502 on a 6502 with 6o6](http://oldvcr.blogspot.com/2024/04/virtualizing-6502-with-6o6-and.html)
+- [Failure to Safeguard Free Speech Is Always a Problem](https://jacobin.com/2024/05/free-speech-online-harms-act-palestine)
+- [General Strike Brings Argentina to a Halt over Milei Austerity Program](https://www.commondreams.org/news/argentina-general-strike)
+- [Data-to-paper: autonomous stepwise LLM-driven research](https://github.com/Technion-Kishony-lab/data-to-paper)
+- [What Happens to the Developers When AI Can Code?](https://arstechnica.com/video/watch/what-happens-to-the-developers-when-ai-can-code-ars-frontiers)
+- [Google employees question execs over &#39;decline in morale&#39; after blowout earnings](https://www.cnbc.com/2024/05/08/google-staffers-question-execs-over-decline-in-morale-after-earnings.html)
+- [China&#39;s Dead-End Economy Is Bad News for Everyone](https://www.nytimes.com/2024/05/11/opinion/china-economy-dead-end.html)
+- [Want an easier way to update your Embedded Linux device?](https://github.com/simpleiot/simpleiot/releases/tag/v0.16.0)
+- [Steeper at the top: cognitive ability and earnings in Finland and Norway](https://academic.oup.com/esr/advance-article/doi/10.1093/esr/jcae020/7658521)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

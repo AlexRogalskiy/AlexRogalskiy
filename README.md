@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Emoji History: The Missing Years](https://blog.gingerbeardman.com/2024/05/10/emoji-history-the-missing-years/)
-- [Virtualizing the 6502 on a 6502 with 6o6](http://oldvcr.blogspot.com/2024/04/virtualizing-6502-with-6o6-and.html)
-- [Failure to Safeguard Free Speech Is Always a Problem](https://jacobin.com/2024/05/free-speech-online-harms-act-palestine)
-- [General Strike Brings Argentina to a Halt over Milei Austerity Program](https://www.commondreams.org/news/argentina-general-strike)
-- [Data-to-paper: autonomous stepwise LLM-driven research](https://github.com/Technion-Kishony-lab/data-to-paper)
-- [What Happens to the Developers When AI Can Code?](https://arstechnica.com/video/watch/what-happens-to-the-developers-when-ai-can-code-ars-frontiers)
-- [Google employees question execs over &#39;decline in morale&#39; after blowout earnings](https://www.cnbc.com/2024/05/08/google-staffers-question-execs-over-decline-in-morale-after-earnings.html)
-- [China&#39;s Dead-End Economy Is Bad News for Everyone](https://www.nytimes.com/2024/05/11/opinion/china-economy-dead-end.html)
-- [Want an easier way to update your Embedded Linux device?](https://github.com/simpleiot/simpleiot/releases/tag/v0.16.0)
-- [Steeper at the top: cognitive ability and earnings in Finland and Norway](https://academic.oup.com/esr/advance-article/doi/10.1093/esr/jcae020/7658521)
+- [Predicting Results from Small Samples](http://paddy3118.blogspot.com/2024/05/predicting-results-from-small-samples.html)
+- [US Big Tech supports Israel&#39;s AI-powered genocide and apartheid](https://www.aljazeera.com/opinions/2024/5/12/how-us-big-tech-supports-israels-ai-powered-genocide-and-apartheid)
+- [Burning the SSO Boogeyman](https://typesense.org/blog/thoughts-on-sso/)
+- [Goldboot: Immutable Infrastructure for the Desktop](https://github.com/fossable/goldboot)
+- [The real real numbers–what are they, really?](https://www.infinitelymore.xyz/p/what-are-the-real-numbers-really)
+- [An introduction to advanced Rust traits and generics](https://www.shuttle.rs/blog/2024/04/18/using-traits-generics-rust)
+- [Tuning ZIO for High Performance](https://blog.pierre-ricadat.com/tuning-zio-for-high-performance)
+- [The JavaScript Trap](https://www.gnu.org/philosophy/javascript-trap.html)
+- [President&#39;s cup cyber competition challenge](https://github.com/cisagov/prescup-challenges)
+- [Sustainable Dining through 3D Food Printing](https://thebadgeronline.com/2024/05/sustainable-dining-through-3d-food-printing/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Ancient Egyptian Stone-Drilling &lpar;1983&rpar;](https://www.penn.museum/sites/expedition/ancient-egyptian-stone-drilling/)
-- [Charlieplexing](https://en.wikipedia.org/wiki/Charlieplexing)
-- [Billions in Dirty Money Flies Under the Radar at Busiest Airports](https://www.wsj.com/business/airlines/heathrow-dubai-airports-billions-dirty-money-9f49cc7f)
-- [Fathom &lpar;YC W21&rpar; is hiring a TPM to prototype new AI features](https://www.ycombinator.com/companies/fathom/jobs/r4HKk2W-product-manager-ai)
-- [Vision Transformers Need Registers](https://openreview.net/forum?id=2dnO3LLiJ1)
-- [Immersive Math](http://immersivemath.com/ila/index.html)
-- [System Analysis and Programming &lpar;1966&rpar;](https://www.scientificamerican.com/article/system-analysis-and-programming-christopher-strachey/)
-- [Metabolism of autism reveals developmental origins](https://medicalxpress.com/news/2024-05-metabolism-autism-reveals-developmental.html)
-- [Mouse Support for Playdate](https://blog.gingerbeardman.com/2024/05/11/mouse-support-for-playdate/)
-- [Area Lights: Mathematical Fondations](https://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-lighting/introduction-to-lighting-area-lights-theory.html)
+- [An introduction to advanced Rust traits and generics](https://www.shuttle.rs/blog/2024/04/18/using-traits-generics-rust)
+- [Open Source YouTube to MP3 Downloader](https://github.com/PackJC/YoutubeToMP3)
+- [North Yorkshire apostrophe fans demand road signs with nowt taken out](https://www.theguardian.com/uk-news/article/2024/may/05/north-yorkshires-dropped-apostrophe-for-street-signs-upsets-residents)
+- [The Star Destroyer and Imperial Military Doctrine](https://acoup.blog/2024/05/10/fireside-friday-may-10-2024/)
+- [MacRelix – Unix-like features for classic Mac OS](https://www.macrelix.org/)
+- [Show HN: I made an open-source Loom alternative](https://Cap.so)
+- [Did GitHub Copilot increase my productivity?](https://trace.yshui.dev/2024-05-copilot.html#did-github-copilot-really-increase-my-productivity)
+- [Feynman Symbolic Regression Database](https://space.mit.edu/home/tegmark/aifeynman.html)
+- [Cost of Living Index by Country 2024 – Numbeo](https://www.numbeo.com/cost-of-living/rankings_by_country.jsp)
+- [GPUs Go Brrr](https://hazyresearch.stanford.edu/blog/2024-05-12-tk)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

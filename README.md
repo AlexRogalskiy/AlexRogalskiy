@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine war briefing: Kyiv was 9 May terror target, says SBU](https://www.theguardian.com/world/article/2024/may/12/ukraine-war-briefing-kyiv-was-9-may-terror-target-says-sbu)
-- [Air Vanuatu grounding prompts fears Pacific country’s tourism will take big hit](https://www.theguardian.com/world/article/2024/may/12/air-vanuatu-grounding-prompts-fears-pacific-countrys-tourism-will-take-big-hit)
-- [Lauren Price becomes Wales’ first female world champion boxer](https://www.theguardian.com/sport/article/2024/may/12/lauren-price-becomes-wales-first-female-world-champion-boxer)
-- [Prosecutors ask for 40 years for man who attacked Paul Pelosi with hammer](https://www.theguardian.com/us-news/article/2024/may/11/nancy-pelosi-david-depape)
-- [Switzerland wins Eurovision song contest after controversial grand final](https://www.theguardian.com/tv-and-radio/article/2024/may/12/switzerland-wins-eurovision-song-contest-after-controversial-grand-final)
-- [Print’s not dead: 25 of the best patterned shirts – in pictures](https://www.theguardian.com/fashion/gallery/2024/may/11/prints-not-dead-25-of-the-best-patterned-shirts-in-pictures)
-- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2024/may/11/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Thousands protest against ‘foreign influence’ bill in Georgia](https://www.theguardian.com/world/article/2024/may/11/thousands-protest-against-foreign-influence-bill-in-georgia)
-- [Dutch broadcaster decries Eurovision decision to ban its contestant](https://www.theguardian.com/tv-and-radio/article/2024/may/11/netherlands-eurovision-entry-disqualified-from-song-contest)
-- [Is this actually PTSD? Clinicians divided over redefining borderline personality disorder](https://www.theguardian.com/society/article/2024/may/12/is-this-actually-ptsd-clinicians-divided-over-redefining-borderline-personality-disorder)
+- [Put it down! Should children be allowed smartphones? - podcast](https://www.theguardian.com/news/audio/2024/may/13/put-it-down-should-children-be-allowed-smartphones-podcast)
+- [Dozens killed in cold lava mudslides on Indonesian island of Sumatra](https://www.theguardian.com/world/article/2024/may/13/indonesia-mudslides-sumatra-cold-lava-floods-death-toll-mount-merapi)
+- [Plane circling Newcastle airport in NSW after landing gear fails to deploy](https://www.theguardian.com/australia-news/article/2024/may/13/small-plane-circling-newcastle-airport-landing-gear-emergency-incident)
+- [So-called ‘school refusal’ must be tackled with compassion, not hard-hearted discipline | Paul Daley](https://www.theguardian.com/commentisfree/article/2024/may/13/so-called-school-refusal-must-be-tackled-with-compassion-not-hard-hearted-discipline)
+- [Putin removes Sergei Shoigu as Russia’s defence minister](https://www.theguardian.com/world/article/2024/may/12/putin-to-remove-sergei-shoigu-as-russias-defence-minister)
+- [Rise in ultra-long mortgages ‘poses risk to UK retirement prospects’](https://www.theguardian.com/money/article/2024/may/13/rise-in-ultra-long-mortgages-poses-risk-to-uk-retirement-prospects)
+- [Parliament urged to look at sportswashing clause in football bill](https://www.theguardian.com/football/article/2024/may/13/parliament-urged-to-look-at-sportwashing-clause-in-football-bill)
+- [Internet use is associated with greater wellbeing, global study finds](https://www.theguardian.com/technology/article/2024/may/13/internet-use-is-associated-with-greater-wellbeing-global-study-finds)
+- [Cost of dementia to UK could almost double to £91bn by 2040, study finds](https://www.theguardian.com/society/article/2024/may/13/cost-of-dementia-to-uk-could-almost-double-to-91bn-by-2040-study-finds)
+- [Rory McIlroy romps to fourth victory at Quail Hollow with final-round 65](https://www.theguardian.com/sport/article/2024/may/12/rory-mcilroy-romps-to-fourth-victory-at-quail-hollow-with-final-round-65)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

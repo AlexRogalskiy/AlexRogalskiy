@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Put it down! Should children be allowed smartphones? - podcast](https://www.theguardian.com/news/audio/2024/may/13/put-it-down-should-children-be-allowed-smartphones-podcast)
-- [Dozens killed in cold lava mudslides on Indonesian island of Sumatra](https://www.theguardian.com/world/article/2024/may/13/indonesia-mudslides-sumatra-cold-lava-floods-death-toll-mount-merapi)
-- [Plane circling Newcastle airport in NSW after landing gear fails to deploy](https://www.theguardian.com/australia-news/article/2024/may/13/small-plane-circling-newcastle-airport-landing-gear-emergency-incident)
-- [So-called ‘school refusal’ must be tackled with compassion, not hard-hearted discipline | Paul Daley](https://www.theguardian.com/commentisfree/article/2024/may/13/so-called-school-refusal-must-be-tackled-with-compassion-not-hard-hearted-discipline)
-- [Putin removes Sergei Shoigu as Russia’s defence minister](https://www.theguardian.com/world/article/2024/may/12/putin-to-remove-sergei-shoigu-as-russias-defence-minister)
-- [Rise in ultra-long mortgages ‘poses risk to UK retirement prospects’](https://www.theguardian.com/money/article/2024/may/13/rise-in-ultra-long-mortgages-poses-risk-to-uk-retirement-prospects)
-- [Parliament urged to look at sportswashing clause in football bill](https://www.theguardian.com/football/article/2024/may/13/parliament-urged-to-look-at-sportwashing-clause-in-football-bill)
-- [Internet use is associated with greater wellbeing, global study finds](https://www.theguardian.com/technology/article/2024/may/13/internet-use-is-associated-with-greater-wellbeing-global-study-finds)
-- [Cost of dementia to UK could almost double to £91bn by 2040, study finds](https://www.theguardian.com/society/article/2024/may/13/cost-of-dementia-to-uk-could-almost-double-to-91bn-by-2040-study-finds)
-- [Rory McIlroy romps to fourth victory at Quail Hollow with final-round 65](https://www.theguardian.com/sport/article/2024/may/12/rory-mcilroy-romps-to-fourth-victory-at-quail-hollow-with-final-round-65)
+- [Baltimore bridge controlled explosion: army blows up collapsed section – video](https://www.theguardian.com/us-news/video/2024/may/14/baltimore-bridge-controlled-explosion-army-blows-up-collapsed-section-video)
+- [Biden signs bipartisan bill banning imports of Russian uranium](https://www.theguardian.com/us-news/article/2024/may/13/biden-russian-uranium-imports-ban)
+- [‘Pressured to withdraw’: BJP accused of intimidation tactics in India polls](https://www.theguardian.com/world/article/2024/may/14/bjp-accused-intimidation-india-elections-gujarat)
+- [The growing tensions over immigration in Ireland](https://www.theguardian.com/news/audio/2024/may/14/the-growing-tensions-over-immigration-in-ireland)
+- [Man who crashed truck into White House barriers in 2023 pleads guilty](https://www.theguardian.com/us-news/article/2024/may/13/nazi-flag-man-crashed-truck-white-house-pleads-guilty)
+- [Ukraine war briefing: Russians try to stretch defenders thin outside Kharkiv](https://www.theguardian.com/world/article/2024/may/14/ukraine-war-briefing-russians-try-to-stretch-defenders-thin-outside-kharkiv)
+- [Climate protesters stop play in Rome before Keys sets up Swiatek meeting](https://www.theguardian.com/sport/article/2024/may/13/madison-keys-advances-in-italian-open-after-climate-protesters-interrupt-play)
+- [Weight loss drug could reduce heart attack risk by 20%, study finds](https://www.theguardian.com/science/article/2024/may/14/weight-loss-drug-semaglutide-reduce-heart-attack-risk-study)
+- [Judi Dench on trigger warnings: if you’re that sensitive, avoid the theatre](https://www.theguardian.com/culture/article/2024/may/14/judi-dench-on-trigger-warnings-if-youre-that-sensitive-avoid-the-theatre)
+- [‘The ambition is gold’: Kate Shortman and Izzy Thorpe target Olympic splash](https://www.theguardian.com/sport/article/2024/may/14/kate-shortman-izzy-thorpe-artistic-swimming)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

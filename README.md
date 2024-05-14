@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [An introduction to advanced Rust traits and generics](https://www.shuttle.rs/blog/2024/04/18/using-traits-generics-rust)
-- [Open Source YouTube to MP3 Downloader](https://github.com/PackJC/YoutubeToMP3)
-- [North Yorkshire apostrophe fans demand road signs with nowt taken out](https://www.theguardian.com/uk-news/article/2024/may/05/north-yorkshires-dropped-apostrophe-for-street-signs-upsets-residents)
-- [The Star Destroyer and Imperial Military Doctrine](https://acoup.blog/2024/05/10/fireside-friday-may-10-2024/)
-- [MacRelix – Unix-like features for classic Mac OS](https://www.macrelix.org/)
-- [Show HN: I made an open-source Loom alternative](https://Cap.so)
-- [Did GitHub Copilot increase my productivity?](https://trace.yshui.dev/2024-05-copilot.html#did-github-copilot-really-increase-my-productivity)
-- [Feynman Symbolic Regression Database](https://space.mit.edu/home/tegmark/aifeynman.html)
-- [Cost of Living Index by Country 2024 – Numbeo](https://www.numbeo.com/cost-of-living/rankings_by_country.jsp)
-- [GPUs Go Brrr](https://hazyresearch.stanford.edu/blog/2024-05-12-tk)
+- [The Cult of the Haskell Programmer](https://www.wired.com/story/inside-the-cult-of-the-haskell-programmer/)
+- [Detectability of Solar Panels as a Technosignature](https://arxiv.org/abs/2405.04560)
+- [Towards accurate and efficient document analytics with large language models](https://arxiv.org/abs/2405.04674)
+- [Which cognitive psychology findings are solid that I can use to help students?](https://matheducators.stackexchange.com/questions/27839/which-cognitive-psychology-findings-are-solid-that-i-can-use-to-help-my-student)
+- [Unitree G1 Humanoid Agent](https://www.unitree.com/g1/)
+- [Release of Fugaku-LLM – a large language model trained on supercomputer Fugaku](https://www.fujitsu.com/global/about/resources/news/press-releases/2024/0510-01.html)
+- [Svix &lpar;YC W21&rpar; Is Hiring a Product Marketing Manager &lpar;US Remote&rpar;](https://www.svix.com/careers/)
+- [Dijkstra on real map data with raylib](https://github.com/uysalibov/gezgin)
+- [Meteor Lake&#39;s E-Cores: Crestmont Makes Incremental Progress](https://chipsandcheese.com/2024/05/13/meteor-lakes-e-cores-crestmont-makes-incremental-progress/)
+- [Photography Laws in Germany &lpar;2023&rpar;](https://allaboutberlin.com/guides/photography-laws-germany)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

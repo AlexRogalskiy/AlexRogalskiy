@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Predicting Results from Small Samples](http://paddy3118.blogspot.com/2024/05/predicting-results-from-small-samples.html)
-- [US Big Tech supports Israel&#39;s AI-powered genocide and apartheid](https://www.aljazeera.com/opinions/2024/5/12/how-us-big-tech-supports-israels-ai-powered-genocide-and-apartheid)
-- [Burning the SSO Boogeyman](https://typesense.org/blog/thoughts-on-sso/)
-- [Goldboot: Immutable Infrastructure for the Desktop](https://github.com/fossable/goldboot)
-- [The real real numbers–what are they, really?](https://www.infinitelymore.xyz/p/what-are-the-real-numbers-really)
-- [An introduction to advanced Rust traits and generics](https://www.shuttle.rs/blog/2024/04/18/using-traits-generics-rust)
-- [Tuning ZIO for High Performance](https://blog.pierre-ricadat.com/tuning-zio-for-high-performance)
-- [The JavaScript Trap](https://www.gnu.org/philosophy/javascript-trap.html)
-- [President&#39;s cup cyber competition challenge](https://github.com/cisagov/prescup-challenges)
-- [Sustainable Dining through 3D Food Printing](https://thebadgeronline.com/2024/05/sustainable-dining-through-3d-food-printing/)
+- [OpenAl GPT-4o customer service [video]](https://vimeo.com/945587864)
+- [An American&#39;s fierce fight to reproduce sculptures of the Rodin Museum for free](https://www.linforme.com/medias-culture/article/le-combat-acharne-d-un-americain-pour-reproduire-gratuitement-les-sculptures-du-musee-rodin_1696.html)
+- [About the security content of iOS 17.5 and iPadOS 17.5](https://support.apple.com/en-us/HT214101)
+- [A review on protein languauge models](https://www.apoorva-srinivasan.com/plms/)
+- [A multi-level tensor algebra superoptimizer](https://github.com/mirage-project/mirage)
+- [Mastering Kubernetes: Dive into Service and Network APIs [video]](https://www.youtube.com/watch?v=-1H0BeN9hIk)
+- [An open source graphic design tool, lightweight and simple](https://github.com/nihaojob/vue-fabric-editor)
+- [The Creator of &#39;Magic: The Gathering&#39; Knows Where It All Went Wrong](https://defector.com/the-creator-of-magic-the-gathering-knows-exactly-where-it-all-went-wrong)
+- [Hot take on OpenAI&#39;s new GPT-4o](https://garymarcus.substack.com/p/hot-take-on-openais-new-gpt-4o)
+- [Password cracking: past, present, future &lpar;OffensiveCon 2024&rpar;](https://www.openwall.com/presentations/OffensiveCon2024-Password-Cracking/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

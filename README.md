@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [OpenAl GPT-4o customer service [video]](https://vimeo.com/945587864)
-- [An American&#39;s fierce fight to reproduce sculptures of the Rodin Museum for free](https://www.linforme.com/medias-culture/article/le-combat-acharne-d-un-americain-pour-reproduire-gratuitement-les-sculptures-du-musee-rodin_1696.html)
-- [About the security content of iOS 17.5 and iPadOS 17.5](https://support.apple.com/en-us/HT214101)
-- [A review on protein languauge models](https://www.apoorva-srinivasan.com/plms/)
-- [A multi-level tensor algebra superoptimizer](https://github.com/mirage-project/mirage)
-- [Mastering Kubernetes: Dive into Service and Network APIs [video]](https://www.youtube.com/watch?v=-1H0BeN9hIk)
-- [An open source graphic design tool, lightweight and simple](https://github.com/nihaojob/vue-fabric-editor)
-- [The Creator of &#39;Magic: The Gathering&#39; Knows Where It All Went Wrong](https://defector.com/the-creator-of-magic-the-gathering-knows-exactly-where-it-all-went-wrong)
-- [Hot take on OpenAI&#39;s new GPT-4o](https://garymarcus.substack.com/p/hot-take-on-openais-new-gpt-4o)
-- [Password cracking: past, present, future &lpar;OffensiveCon 2024&rpar;](https://www.openwall.com/presentations/OffensiveCon2024-Password-Cracking/)
+- [Claimants in LifeLabs data-breach class action to get $7.86 each](https://www.cbc.ca/news/canada/british-columbia/lifelabs-payments-1.7204039)
+- [When Did the Government Start Requiring IDs to Fly.. and Why Did They Do It?](https://viewfromthewing.com/42388/)
+- [Run Periodic Jobs in PostgreSQL](https://github.com/citusdata/pg_cron)
+- [The complications of typographic size on the web](https://fonts.google.com/knowledge/using_type/the_complications_of_typographic_size)
+- [All you need to know about RAG: Past, Present, and Future](https://medium.com/@infiniflowai/all-you-need-to-know-about-rag-past-present-and-future-e3dd8c7ae641)
+- [Novo Nordisk to test weight-loss drugs&#39; effect on alcohol use and liver disease](https://www.ft.com/content/039dfeb8-fdee-4e22-bd2f-07b247b2a968)
+- [How Canva Activates Users](https://www.useronboard.com/how-canva-activates-users/)
+- [A Potentially Fatal New Covid-Related Syndrome Has Emerged](https://www.iflscience.com/a-potentially-fatal-new-covid-related-syndrome-has-emerged-74174)
+- [America&#39;s Worst Time Zone](https://www.theatlantic.com/technology/archive/2024/05/central-time-worst-time-zone/678343/)
+- [Cancer-free one year on from seizure which prompted brain cancer diagnosis](https://www.abc.net.au/news/2024-05-15/australian-of-the-year-richard-scolyer-cancer-free/103848868)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

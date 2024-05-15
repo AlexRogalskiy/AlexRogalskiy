@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The Cult of the Haskell Programmer](https://www.wired.com/story/inside-the-cult-of-the-haskell-programmer/)
-- [Detectability of Solar Panels as a Technosignature](https://arxiv.org/abs/2405.04560)
-- [Towards accurate and efficient document analytics with large language models](https://arxiv.org/abs/2405.04674)
-- [Which cognitive psychology findings are solid that I can use to help students?](https://matheducators.stackexchange.com/questions/27839/which-cognitive-psychology-findings-are-solid-that-i-can-use-to-help-my-student)
-- [Unitree G1 Humanoid Agent](https://www.unitree.com/g1/)
-- [Release of Fugaku-LLM – a large language model trained on supercomputer Fugaku](https://www.fujitsu.com/global/about/resources/news/press-releases/2024/0510-01.html)
-- [Svix &lpar;YC W21&rpar; Is Hiring a Product Marketing Manager &lpar;US Remote&rpar;](https://www.svix.com/careers/)
-- [Dijkstra on real map data with raylib](https://github.com/uysalibov/gezgin)
-- [Meteor Lake&#39;s E-Cores: Crestmont Makes Incremental Progress](https://chipsandcheese.com/2024/05/13/meteor-lakes-e-cores-crestmont-makes-incremental-progress/)
-- [Photography Laws in Germany &lpar;2023&rpar;](https://allaboutberlin.com/guides/photography-laws-germany)
+- [The most talented person in the world](https://matt.sh/the-most-talented-person)
+- [Ilya Sutskever to leave OpenAI](https://twitter.com/ilyasut/status/1790517455628198322)
+- [Contact of Containership Dali with the Key Bridge and Subsequent Bridge Collapse [pdf]](https://static01.nyt.com/newsgraphics/documenttools/6119296c8c79713a/0e214c46-full.pdf)
+- [Stone with ancient writing system unearthed in garden](https://www.bbc.co.uk/news/articles/c14kywyk0vro)
+- [Muse Retrospective](https://adamwiggins.com/muse-retrospective/)
+- [Higher RAII and the seven arcane uses of linear types](https://verdagon.dev/blog/higher-raii-uses-linear-types)
+- [&#39;Shake&#39; Design Documents](https://digitalcomposting.wordpress.com/2024/05/14/shake-design-documents/)
+- [One malicious car could trick smart traffic control systems in the US](https://www.bleepingcomputer.com/news/technology/one-single-malicious-vehicle-can-block-smart-street-intersections-in-the-us/)
+- [The new APT 3.0 solver](https://blog.jak-linux.org/2024/05/14/solver3/)
+- [PaliGemma](https://ai.google.dev/gemma/docs/paligemma)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

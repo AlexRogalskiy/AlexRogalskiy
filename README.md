@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Baltimore bridge controlled explosion: army blows up collapsed section – video](https://www.theguardian.com/us-news/video/2024/may/14/baltimore-bridge-controlled-explosion-army-blows-up-collapsed-section-video)
-- [Biden signs bipartisan bill banning imports of Russian uranium](https://www.theguardian.com/us-news/article/2024/may/13/biden-russian-uranium-imports-ban)
-- [‘Pressured to withdraw’: BJP accused of intimidation tactics in India polls](https://www.theguardian.com/world/article/2024/may/14/bjp-accused-intimidation-india-elections-gujarat)
-- [The growing tensions over immigration in Ireland](https://www.theguardian.com/news/audio/2024/may/14/the-growing-tensions-over-immigration-in-ireland)
-- [Man who crashed truck into White House barriers in 2023 pleads guilty](https://www.theguardian.com/us-news/article/2024/may/13/nazi-flag-man-crashed-truck-white-house-pleads-guilty)
-- [Ukraine war briefing: Russians try to stretch defenders thin outside Kharkiv](https://www.theguardian.com/world/article/2024/may/14/ukraine-war-briefing-russians-try-to-stretch-defenders-thin-outside-kharkiv)
-- [Climate protesters stop play in Rome before Keys sets up Swiatek meeting](https://www.theguardian.com/sport/article/2024/may/13/madison-keys-advances-in-italian-open-after-climate-protesters-interrupt-play)
-- [Weight loss drug could reduce heart attack risk by 20%, study finds](https://www.theguardian.com/science/article/2024/may/14/weight-loss-drug-semaglutide-reduce-heart-attack-risk-study)
-- [Judi Dench on trigger warnings: if you’re that sensitive, avoid the theatre](https://www.theguardian.com/culture/article/2024/may/14/judi-dench-on-trigger-warnings-if-youre-that-sensitive-avoid-the-theatre)
-- [‘The ambition is gold’: Kate Shortman and Izzy Thorpe target Olympic splash](https://www.theguardian.com/sport/article/2024/may/14/kate-shortman-izzy-thorpe-artistic-swimming)
+- [The &#39;foreign agents&#39; law that has set off mass protests in Georgia - podcast](https://www.theguardian.com/news/audio/2024/may/15/foreign-agents-law-mass-protests-georgia-podcast)
+- [US advances $1bn Israel weapons package amid Rafah tensions](https://www.theguardian.com/us-news/article/2024/may/14/biden-israel-weapons-package-rafah)
+- [The China-linked EV battery mega factory dividing a US township](https://www.theguardian.com/world/article/2024/may/15/gotion-ev-battery-mega-factory-green-charter-township-michigan-china-electric-cars)
+- [Ukraine war briefing: ‘Real difference against Russian aggression’ says Blinken of US aid](https://www.theguardian.com/world/article/2024/may/15/ukraine-war-briefing-real-difference-against-russian-aggression-says-blinken-of-us-aid)
+- [One bad rumour can affect how children view each other, study finds](https://www.theguardian.com/society/article/2024/may/15/one-bad-rumour-can-affect-how-children-view-each-other-study-finds)
+- [Call waiting times at HMRC rise 350% in five years, says NAO report](https://www.theguardian.com/politics/article/2024/may/15/call-waiting-times-at-hmrc-rise-350-in-five-years-says-nao-report)
+- [UK has competitive edge on a third of green products, thinktank finds](https://www.theguardian.com/environment/article/2024/may/15/uk-has-competitive-edge-on-a-third-of-green-products-thinktank-finds)
+- [Vulnerable children in England ‘safer at school’ than being educated at home](https://www.theguardian.com/education/article/2024/may/15/vulnerable-children-in-england-safer-at-school-than-being-educated-at-home)
+- [Young people buying large knives on Telegram and TikTok, police say](https://www.theguardian.com/uk-news/article/2024/may/15/young-people-buying-large-knives-on-telegram-and-tiktok-police-say)
+- [Young children with persistent severe obesity could have half average life expectancy, study finds](https://www.theguardian.com/society/article/2024/may/15/young-children-with-persistent-severe-obesity-could-have-half-average-life-expectancy-study-finds)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

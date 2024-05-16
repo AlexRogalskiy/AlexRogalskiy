@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [The &#39;foreign agents&#39; law that has set off mass protests in Georgia - podcast](https://www.theguardian.com/news/audio/2024/may/15/foreign-agents-law-mass-protests-georgia-podcast)
-- [US advances $1bn Israel weapons package amid Rafah tensions](https://www.theguardian.com/us-news/article/2024/may/14/biden-israel-weapons-package-rafah)
-- [The China-linked EV battery mega factory dividing a US township](https://www.theguardian.com/world/article/2024/may/15/gotion-ev-battery-mega-factory-green-charter-township-michigan-china-electric-cars)
-- [Ukraine war briefing: ‘Real difference against Russian aggression’ says Blinken of US aid](https://www.theguardian.com/world/article/2024/may/15/ukraine-war-briefing-real-difference-against-russian-aggression-says-blinken-of-us-aid)
-- [One bad rumour can affect how children view each other, study finds](https://www.theguardian.com/society/article/2024/may/15/one-bad-rumour-can-affect-how-children-view-each-other-study-finds)
-- [Call waiting times at HMRC rise 350% in five years, says NAO report](https://www.theguardian.com/politics/article/2024/may/15/call-waiting-times-at-hmrc-rise-350-in-five-years-says-nao-report)
-- [UK has competitive edge on a third of green products, thinktank finds](https://www.theguardian.com/environment/article/2024/may/15/uk-has-competitive-edge-on-a-third-of-green-products-thinktank-finds)
-- [Vulnerable children in England ‘safer at school’ than being educated at home](https://www.theguardian.com/education/article/2024/may/15/vulnerable-children-in-england-safer-at-school-than-being-educated-at-home)
-- [Young people buying large knives on Telegram and TikTok, police say](https://www.theguardian.com/uk-news/article/2024/may/15/young-people-buying-large-knives-on-telegram-and-tiktok-police-say)
-- [Young children with persistent severe obesity could have half average life expectancy, study finds](https://www.theguardian.com/society/article/2024/may/15/young-children-with-persistent-severe-obesity-could-have-half-average-life-expectancy-study-finds)
+- [What keeps the world’s top climate scientists up at night? - podcast](https://www.theguardian.com/news/audio/2024/may/16/what-keeps-world-top-climate-scientists-up-at-night-podcast)
+- [Putin arrives in China on mission to deepen partnership with Xi](https://www.theguardian.com/world/article/2024/may/16/vladimir-putin-xi-jinping-china-visit)
+- [Slovakia prime minister Robert Fico has surgery after being shot in assassination attempt](https://www.theguardian.com/world/article/2024/may/15/robert-fico-slovakia-prime-minister)
+- [Ukraine war briefing: 50 countries swing behind peace summit in Switzerland](https://www.theguardian.com/world/article/2024/may/16/ukraine-war-briefing-50-countries-swing-behind-peace-summit-in-switzerland)
+- [‘Good chance’ we’ll leave US if Trump acquitted, Stormy Daniels husband says](https://www.theguardian.com/us-news/article/2024/may/15/stormy-daniels-husband-trump-trial)
+- [Israel war cabinet split looms as defence minister demands post-war Gaza plan](https://www.theguardian.com/world/article/2024/may/15/israel-war-cabinet-split-looms-as-defence-minister-demands-plan-for-post-war-gaza)
+- [Wirral ‘local legend’ refused indefinite leave to remain by Home Office](https://www.theguardian.com/uk-news/article/2024/may/15/wirral-local-legend-refused-indefinite-leave-to-remain-by-home-office)
+- [Keir Starmer puts six key pledges ‘up in lights’ to win over swing voters](https://www.theguardian.com/politics/article/2024/may/16/keir-starmer-puts-six-key-pledges-up-in-lights-to-win-over-swing-voters)
+- [M&amp;S teams up with recycling tech group to trace plastic packaging](https://www.theguardian.com/business/article/2024/may/16/m-and-s-teams-up-with-recycling-tech-group-to-trace-plastic-packaging)
+- [Age curbs on sex education topics risk making some children vulnerable](https://www.theguardian.com/education/article/2024/may/16/age-limits-sex-education-risk-making-children-vulnerable)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

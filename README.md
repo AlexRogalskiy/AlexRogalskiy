@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Claimants in LifeLabs data-breach class action to get $7.86 each](https://www.cbc.ca/news/canada/british-columbia/lifelabs-payments-1.7204039)
-- [When Did the Government Start Requiring IDs to Fly.. and Why Did They Do It?](https://viewfromthewing.com/42388/)
-- [Run Periodic Jobs in PostgreSQL](https://github.com/citusdata/pg_cron)
-- [The complications of typographic size on the web](https://fonts.google.com/knowledge/using_type/the_complications_of_typographic_size)
-- [All you need to know about RAG: Past, Present, and Future](https://medium.com/@infiniflowai/all-you-need-to-know-about-rag-past-present-and-future-e3dd8c7ae641)
-- [Novo Nordisk to test weight-loss drugs&#39; effect on alcohol use and liver disease](https://www.ft.com/content/039dfeb8-fdee-4e22-bd2f-07b247b2a968)
-- [How Canva Activates Users](https://www.useronboard.com/how-canva-activates-users/)
-- [A Potentially Fatal New Covid-Related Syndrome Has Emerged](https://www.iflscience.com/a-potentially-fatal-new-covid-related-syndrome-has-emerged-74174)
-- [America&#39;s Worst Time Zone](https://www.theatlantic.com/technology/archive/2024/05/central-time-worst-time-zone/678343/)
-- [Cancer-free one year on from seizure which prompted brain cancer diagnosis](https://www.abc.net.au/news/2024-05-15/australian-of-the-year-richard-scolyer-cancer-free/103848868)
+- [Sketchplanations](https://sketchplanations.com/tags/physics)
+- [Could the US economy be doing too well?](https://www.bbc.com/news/articles/cd131v26dneo)
+- [Strong_migrations: Catch Unsafe Migrations in Development](https://github.com/ankane/strong_migrations)
+- [Netflix to stop using Microsoft for ad platform, will build its own](https://thedesk.net/news/netflix-ending-microsoft-advertising-technology-partnership/)
+- [Netflix and the NFL Sign a Three-Season Deal](https://www.nytimes.com/2024/05/15/business/media/netflix-nfl-live.html)
+- [Would integrated hashtag make sense for EXIF Photo data?](https://news.ycombinator.com/item?id=40374534)
+- [Visa blurs line between debit, credit cards in new &#39;flexible credential&#39;](https://www.americanbanker.com/payments/news/visa-blurs-line-between-debit-credit-cards-in-new-flexible-credential)
+- [Apple on track for 25% of iPhones to be made in India by 2028](https://www.theregister.com/2024/05/16/apple_iphones_india/)
+- [Show HN: Free Chat with GPT-4o](https://1min.ai/ai-chat-with-gpt4o)
+- [Build super fast AI assistant with Groq](https://serpapi.com/blog/create-super-fast-ai-assistant-with-groq/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

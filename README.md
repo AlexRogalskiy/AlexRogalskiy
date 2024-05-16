@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The most talented person in the world](https://matt.sh/the-most-talented-person)
-- [Ilya Sutskever to leave OpenAI](https://twitter.com/ilyasut/status/1790517455628198322)
-- [Contact of Containership Dali with the Key Bridge and Subsequent Bridge Collapse [pdf]](https://static01.nyt.com/newsgraphics/documenttools/6119296c8c79713a/0e214c46-full.pdf)
-- [Stone with ancient writing system unearthed in garden](https://www.bbc.co.uk/news/articles/c14kywyk0vro)
-- [Muse Retrospective](https://adamwiggins.com/muse-retrospective/)
-- [Higher RAII and the seven arcane uses of linear types](https://verdagon.dev/blog/higher-raii-uses-linear-types)
-- [&#39;Shake&#39; Design Documents](https://digitalcomposting.wordpress.com/2024/05/14/shake-design-documents/)
-- [One malicious car could trick smart traffic control systems in the US](https://www.bleepingcomputer.com/news/technology/one-single-malicious-vehicle-can-block-smart-street-intersections-in-the-us/)
-- [The new APT 3.0 solver](https://blog.jak-linux.org/2024/05/14/solver3/)
-- [PaliGemma](https://ai.google.dev/gemma/docs/paligemma)
+- [Utah Locals Are Getting Cheap 10 Gbps Fiber Thanks to Local Governments](https://www.techdirt.com/2024/05/15/utah-locals-are-getting-cheap-10-gbps-fiber-thanks-to-local-governments/)
+- [SSD death, tricky read-only filesystems, and systemd magic?](https://rachelbythebay.com/w/2024/05/15/ro/)
+- [Qualcomm&#39;s Oryon LLVM Patches](https://chipsandcheese.com/2024/05/15/qualcomms-oryon-llvm-patches/)
+- [Making a Postgres query 1k times faster](https://mattermost.com/blog/making-a-postgres-query-1000-times-faster/)
+- [It&#39;s 2024 and drought is optional](https://asteriskmag.com/issues/06/its-2024-and-drought-is-optional)
+- [A &#39;plague&#39; comes before the fall: lessons from Roman history](https://thebulletin.org/2024/05/a-plague-comes-before-the-fall-lessons-from-roman-history/)
+- [In medicine what&#39;s the difference between an -ectomy, an -ostomy, and an -otomy? &lpar;1986&rpar;](https://www.straightdope.com/21341781/in-medicine-what-s-the-difference-between-an-ectomy-an-ostomy-and-an-otomy)
+- [New exponent functions that make SiLU and SoftMax 2x faster, at full accuracy](https://github.com/ggerganov/llama.cpp/pull/7154)
+- [Show HN: I made a Mac app to search my images and videos locally with ML](https://desktopdocs.com)
+- [Project Gameface launches on Android](https://developers.googleblog.com/en/project-gameface-launches-on-android/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

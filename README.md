@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Sketchplanations](https://sketchplanations.com/tags/physics)
-- [Could the US economy be doing too well?](https://www.bbc.com/news/articles/cd131v26dneo)
-- [Strong_migrations: Catch Unsafe Migrations in Development](https://github.com/ankane/strong_migrations)
-- [Netflix to stop using Microsoft for ad platform, will build its own](https://thedesk.net/news/netflix-ending-microsoft-advertising-technology-partnership/)
-- [Netflix and the NFL Sign a Three-Season Deal](https://www.nytimes.com/2024/05/15/business/media/netflix-nfl-live.html)
-- [Would integrated hashtag make sense for EXIF Photo data?](https://news.ycombinator.com/item?id=40374534)
-- [Visa blurs line between debit, credit cards in new &#39;flexible credential&#39;](https://www.americanbanker.com/payments/news/visa-blurs-line-between-debit-credit-cards-in-new-flexible-credential)
-- [Apple on track for 25% of iPhones to be made in India by 2028](https://www.theregister.com/2024/05/16/apple_iphones_india/)
-- [Show HN: Free Chat with GPT-4o](https://1min.ai/ai-chat-with-gpt4o)
-- [Build super fast AI assistant with Groq](https://serpapi.com/blog/create-super-fast-ai-assistant-with-groq/)
+- [Vladimir Putin and Xi vow cooperation against &#39;destructive and hostile&#39; US](https://www.ft.com/content/f77028c8-c960-4d10-b0eb-4c511924a4d5)
+- [Show HN: Collaborative Task Management Platform](https://hausou-mpbnhm.flutterflow.app/)
+- [CAT3D: Create Anything in 3D with Multi-View Diffusion Models](https://cat3d.github.io/)
+- [Farfalle – Open-source AI-powered search engine](https://www.farfalle.dev/)
+- [About AnandTech](https://www.anandtech.com/home/about/)
+- [What&#39;s New in the Web](https://web.dev/blog/new-in-the-web-io2024)
+- [Kaffeklubben Island – northernmost undisputed point of land on Earth](https://en.wikipedia.org/wiki/Kaffeklubben_Island)
+- [Formatted spreadsheets can still work in R](https://luisdva.github.io/rstats/problematic-spreadsheets/)
+- [Chinese EV Giants Hammered by Biden Tariff Are Welcome in Brazil](https://www.bloomberg.com/news/articles/2024-05-16/chinese-ev-makers-byd-great-wall-join-19-billion-investment-race-in-brazil)
+- [Greenland/Kalaallit Nunaat](https://en.wikipedia.org/wiki/Greenland)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

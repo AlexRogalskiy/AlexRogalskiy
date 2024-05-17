@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Utah Locals Are Getting Cheap 10 Gbps Fiber Thanks to Local Governments](https://www.techdirt.com/2024/05/15/utah-locals-are-getting-cheap-10-gbps-fiber-thanks-to-local-governments/)
-- [SSD death, tricky read-only filesystems, and systemd magic?](https://rachelbythebay.com/w/2024/05/15/ro/)
-- [Qualcomm&#39;s Oryon LLVM Patches](https://chipsandcheese.com/2024/05/15/qualcomms-oryon-llvm-patches/)
-- [Making a Postgres query 1k times faster](https://mattermost.com/blog/making-a-postgres-query-1000-times-faster/)
-- [It&#39;s 2024 and drought is optional](https://asteriskmag.com/issues/06/its-2024-and-drought-is-optional)
-- [A &#39;plague&#39; comes before the fall: lessons from Roman history](https://thebulletin.org/2024/05/a-plague-comes-before-the-fall-lessons-from-roman-history/)
-- [In medicine what&#39;s the difference between an -ectomy, an -ostomy, and an -otomy? &lpar;1986&rpar;](https://www.straightdope.com/21341781/in-medicine-what-s-the-difference-between-an-ectomy-an-ostomy-and-an-otomy)
-- [New exponent functions that make SiLU and SoftMax 2x faster, at full accuracy](https://github.com/ggerganov/llama.cpp/pull/7154)
-- [Show HN: I made a Mac app to search my images and videos locally with ML](https://desktopdocs.com)
-- [Project Gameface launches on Android](https://developers.googleblog.com/en/project-gameface-launches-on-android/)
+- [Moment: A Family of Open Time-Series Foundation Models](https://arxiv.org/abs/2402.03885)
+- [WD Releases New 6TB 2.5-Inch External Hard Drives – First Upgrade in Seven Years](https://www.anandtech.com/show/21400/not-dead-yet-wd-intros-6tb-25-inch-external-hard-drives)
+- [A Transport Protocol&#39;s View of Starlink](https://www.potaroo.net/ispcol/2024-05/starlink-tcp.html)
+- [Beyond Public Key Encryption](https://blog.cryptographyengineering.com/2017/07/02/beyond-public-key-encryption/)
+- [Interactive Visualizations of Rate-Limiting Algorithms](https://smudge.ai/blog/ratelimit-algorithms)
+- [LearnLM models tuned for human learning](https://blog.google/outreach-initiatives/education/google-learnlm-gemini-generative-ai/)
+- [The Forged Apple Employee Badge](https://cabel.com/2024/05/16/the-forged-apple-employee-badge/)
+- [Slack AI Training with Customer Data](https://slack.com/trust/data-management/privacy-principles?nojsmode=1)
+- [Improvements to Data Analysis in ChatGPT](https://openai.com/index/improvements-to-data-analysis-in-chatgpt/)
+- [Skio &lpar;YC S20&rpar; – Subscriptions for Shopify, ReCharge Migrations – Is Hiring](https://skio.com/careers/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

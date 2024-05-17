@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [What keeps the world’s top climate scientists up at night? - podcast](https://www.theguardian.com/news/audio/2024/may/16/what-keeps-world-top-climate-scientists-up-at-night-podcast)
-- [Putin arrives in China on mission to deepen partnership with Xi](https://www.theguardian.com/world/article/2024/may/16/vladimir-putin-xi-jinping-china-visit)
-- [Slovakia prime minister Robert Fico has surgery after being shot in assassination attempt](https://www.theguardian.com/world/article/2024/may/15/robert-fico-slovakia-prime-minister)
-- [Ukraine war briefing: 50 countries swing behind peace summit in Switzerland](https://www.theguardian.com/world/article/2024/may/16/ukraine-war-briefing-50-countries-swing-behind-peace-summit-in-switzerland)
-- [‘Good chance’ we’ll leave US if Trump acquitted, Stormy Daniels husband says](https://www.theguardian.com/us-news/article/2024/may/15/stormy-daniels-husband-trump-trial)
-- [Israel war cabinet split looms as defence minister demands post-war Gaza plan](https://www.theguardian.com/world/article/2024/may/15/israel-war-cabinet-split-looms-as-defence-minister-demands-plan-for-post-war-gaza)
-- [Wirral ‘local legend’ refused indefinite leave to remain by Home Office](https://www.theguardian.com/uk-news/article/2024/may/15/wirral-local-legend-refused-indefinite-leave-to-remain-by-home-office)
-- [Keir Starmer puts six key pledges ‘up in lights’ to win over swing voters](https://www.theguardian.com/politics/article/2024/may/16/keir-starmer-puts-six-key-pledges-up-in-lights-to-win-over-swing-voters)
-- [M&amp;S teams up with recycling tech group to trace plastic packaging](https://www.theguardian.com/business/article/2024/may/16/m-and-s-teams-up-with-recycling-tech-group-to-trace-plastic-packaging)
-- [Age curbs on sex education topics risk making some children vulnerable](https://www.theguardian.com/education/article/2024/may/16/age-limits-sex-education-risk-making-children-vulnerable)
+- [The children of the contaminated blood scandal – podcast](https://www.theguardian.com/news/audio/2024/may/17/the-children-of-the-contaminated-blood-scandal-podcast)
+- [US teen with heart condition died after eating spicy tortilla chip, autopsy finds](https://www.theguardian.com/us-news/article/2024/may/16/teen-dies-spicy-chip-challenge-pacqui-heart-condition-autopsy)
+- [Ukraine war briefing: Kharkiv campaign won’t deliver major Russian breakthrough – Nato general](https://www.theguardian.com/world/article/2024/may/17/ukraine-russia-war-briefing-what-we-know-kharkiv-campaign)
+- [Hospitals struggle as social care crisis cancels out funding boost, NHS report says](https://www.theguardian.com/society/article/2024/may/17/hospitals-struggle-as-social-care-crisis-cancels-out-funding-boost-nhs-report-says)
+- [Teachers in England stretched by pupils’ mental and family problems, MPs say](https://www.theguardian.com/education/article/2024/may/17/teachers-in-england-stretched-by-pupils-mental-and-family-problems-mps-say)
+- [More than 6,000 bank branches now gone in nine years of ‘disastrous’ closures](https://www.theguardian.com/money/article/2024/may/17/more-than-6000-bank-branches-now-gone-in-nine-years-of-disastrous-closures)
+- [Union urges Labour not to ban new North Sea licences without plan for jobs](https://www.theguardian.com/business/article/2024/may/17/union-urges-labour-not-to-ban-new-north-sea-licences-without-plan-for-jobs)
+- [Premier League: 10 things to look out for on the final day of the season](https://www.theguardian.com/football/article/2024/may/17/premier-league-10-things-final-day-season)
+- [Texas governor pardons man who killed Black Lives Matter protester in 2020](https://www.theguardian.com/us-news/article/2024/may/16/texas-greg-abbott-pardons-daniel-perry)
+- [Rory McIlroy in the frame at US PGA after searing 62 by Xander Schauffele](https://www.theguardian.com/sport/article/2024/may/16/golf-rory-mcilroy-xander-schauffele-us-pga)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

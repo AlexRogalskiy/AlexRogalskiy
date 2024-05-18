@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [The children of the contaminated blood scandal – podcast](https://www.theguardian.com/news/audio/2024/may/17/the-children-of-the-contaminated-blood-scandal-podcast)
-- [US teen with heart condition died after eating spicy tortilla chip, autopsy finds](https://www.theguardian.com/us-news/article/2024/may/16/teen-dies-spicy-chip-challenge-pacqui-heart-condition-autopsy)
-- [Ukraine war briefing: Kharkiv campaign won’t deliver major Russian breakthrough – Nato general](https://www.theguardian.com/world/article/2024/may/17/ukraine-russia-war-briefing-what-we-know-kharkiv-campaign)
-- [Hospitals struggle as social care crisis cancels out funding boost, NHS report says](https://www.theguardian.com/society/article/2024/may/17/hospitals-struggle-as-social-care-crisis-cancels-out-funding-boost-nhs-report-says)
-- [Teachers in England stretched by pupils’ mental and family problems, MPs say](https://www.theguardian.com/education/article/2024/may/17/teachers-in-england-stretched-by-pupils-mental-and-family-problems-mps-say)
-- [More than 6,000 bank branches now gone in nine years of ‘disastrous’ closures](https://www.theguardian.com/money/article/2024/may/17/more-than-6000-bank-branches-now-gone-in-nine-years-of-disastrous-closures)
-- [Union urges Labour not to ban new North Sea licences without plan for jobs](https://www.theguardian.com/business/article/2024/may/17/union-urges-labour-not-to-ban-new-north-sea-licences-without-plan-for-jobs)
-- [Premier League: 10 things to look out for on the final day of the season](https://www.theguardian.com/football/article/2024/may/17/premier-league-10-things-final-day-season)
-- [Texas governor pardons man who killed Black Lives Matter protester in 2020](https://www.theguardian.com/us-news/article/2024/may/16/texas-greg-abbott-pardons-daniel-perry)
-- [Rory McIlroy in the frame at US PGA after searing 62 by Xander Schauffele](https://www.theguardian.com/sport/article/2024/may/16/golf-rory-mcilroy-xander-schauffele-us-pga)
+- [Ukraine war briefing: Russia’s Kharkiv offensive may only be the ‘first wave’, Zelenskiy warns](https://www.theguardian.com/world/article/2024/may/18/ukraine-war-briefing-russias-kharkiv-offensive-may-only-be-the-first-wave-zelenskiy-warns)
+- [‘We will fight until Kanaky is free’: how New Caledonia caught fire](https://www.theguardian.com/world/article/2024/may/18/we-will-fight-until-kanaky-is-free-how-new-caledonia-caught-fire)
+- [Video shows Sean ‘Diddy’ Combs assaulting singer Cassie in 2016](https://www.theguardian.com/music/article/2024/may/17/video-p-diddy-assault-cassie-ventura)
+- [The Surfer review – beach bum Nic Cage surfs a high tide of toxic masculinity](https://www.theguardian.com/film/article/2024/may/18/the-surfer-review-nic-cage-beach-surfs-masculinity-thriller)
+- [Ministers clawing back £251m from carers hit by DWP’s allowance failures](https://www.theguardian.com/society/article/2024/may/18/ministers-clawing-back-251m-carers-dwp-allowance-failures)
+- [UK’s garden centres hope sunshine and Chelsea flower show will help them rebound from the rain](https://www.theguardian.com/lifeandstyle/article/2024/may/18/uks-garden-centres-hope-sunshine-and-chelsea-flower-show-will-help-them-rebound-from-the-rain)
+- [From If to Billie Eilish: a complete guide to this week’s entertainment](https://www.theguardian.com/culture/article/2024/may/18/going-out-staying-in-complete-guide-to-this-weeks-entertainment)
+- [Scottie Scheffler shakes off ‘shock and fear’ of arrest to stay in US PGA hunt](https://www.theguardian.com/sport/article/2024/may/17/scottie-scheffler-arrest-uspga-valhalla-golf)
+- [Man jailed for life after Gaza ‘revenge’ murder in Hartlepool](https://www.theguardian.com/uk-news/article/2024/may/17/man-jailed-life-israel-gaza-revenge-hartlepool-ahmed-alid)
+- [Oh, Canada review – Paul Schrader looks north as Richard Gere’s draft dodger reveals all](https://www.theguardian.com/film/article/2024/may/17/oh-canada-review-richard-gere-cannes-film-festival-paul-schrader)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

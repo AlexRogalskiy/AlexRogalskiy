@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Vladimir Putin and Xi vow cooperation against &#39;destructive and hostile&#39; US](https://www.ft.com/content/f77028c8-c960-4d10-b0eb-4c511924a4d5)
-- [Show HN: Collaborative Task Management Platform](https://hausou-mpbnhm.flutterflow.app/)
-- [CAT3D: Create Anything in 3D with Multi-View Diffusion Models](https://cat3d.github.io/)
-- [Farfalle – Open-source AI-powered search engine](https://www.farfalle.dev/)
-- [About AnandTech](https://www.anandtech.com/home/about/)
-- [What&#39;s New in the Web](https://web.dev/blog/new-in-the-web-io2024)
-- [Kaffeklubben Island – northernmost undisputed point of land on Earth](https://en.wikipedia.org/wiki/Kaffeklubben_Island)
-- [Formatted spreadsheets can still work in R](https://luisdva.github.io/rstats/problematic-spreadsheets/)
-- [Chinese EV Giants Hammered by Biden Tariff Are Welcome in Brazil](https://www.bloomberg.com/news/articles/2024-05-16/chinese-ev-makers-byd-great-wall-join-19-billion-investment-race-in-brazil)
-- [Greenland/Kalaallit Nunaat](https://en.wikipedia.org/wiki/Greenland)
+- [Japanese court rules that AI cannot be issued patents](https://japannews.yomiuri.co.jp/society/crime-courts/20240517-186568/)
+- [Google&#39;s AI could accelerate the Web&#39;s decline](https://www.axios.com/2024/05/17/google-openai-ai-generative-publishers)
+- [The Great Matter: Life and Death](https://cancelself.github.io/great_matter.html)
+- [The Myth of Panic &lpar;2021&rpar;](https://www.palladiummag.com/2021/07/15/the-myth-of-panic/)
+- [China&#39;s nail houses: the homeowners who refuse to make way – in pictures](https://www.theguardian.com/cities/gallery/2014/apr/15/china-nail-houses-in-pictures-property-development)
+- [EigenLayer&#39;s Eigen Airdrop Might Signal Demise of Once-Popular &#39;Points&#39;](https://www.coindesk.com/tech/2024/05/09/eigenlayers-eigen-airdrop-might-signal-demise-of-once-popular-points/)
+- [SunSITE &lpar;Aalburg University&rpar; FTP Server](https://mirrors.dotsrc.org)
+- [Choosing a Tech Stack in 2024](https://erinc.ca/tech-stack-2024)
+- [Ask HN: What are problems only Windows, macOS, or Linux has?](https://news.ycombinator.com/item?id=40395911)
+- [Maryland enacts one of the strongest data privacy laws in the nation](https://pirg.org/edfund/updates/maryland-enacts-one-of-the-strongest-data-privacy-laws-in-the-nation/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

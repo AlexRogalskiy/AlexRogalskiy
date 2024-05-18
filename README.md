@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Moment: A Family of Open Time-Series Foundation Models](https://arxiv.org/abs/2402.03885)
-- [WD Releases New 6TB 2.5-Inch External Hard Drives – First Upgrade in Seven Years](https://www.anandtech.com/show/21400/not-dead-yet-wd-intros-6tb-25-inch-external-hard-drives)
-- [A Transport Protocol&#39;s View of Starlink](https://www.potaroo.net/ispcol/2024-05/starlink-tcp.html)
-- [Beyond Public Key Encryption](https://blog.cryptographyengineering.com/2017/07/02/beyond-public-key-encryption/)
-- [Interactive Visualizations of Rate-Limiting Algorithms](https://smudge.ai/blog/ratelimit-algorithms)
-- [LearnLM models tuned for human learning](https://blog.google/outreach-initiatives/education/google-learnlm-gemini-generative-ai/)
-- [The Forged Apple Employee Badge](https://cabel.com/2024/05/16/the-forged-apple-employee-badge/)
-- [Slack AI Training with Customer Data](https://slack.com/trust/data-management/privacy-principles?nojsmode=1)
-- [Improvements to Data Analysis in ChatGPT](https://openai.com/index/improvements-to-data-analysis-in-chatgpt/)
-- [Skio &lpar;YC S20&rpar; – Subscriptions for Shopify, ReCharge Migrations – Is Hiring](https://skio.com/careers/)
+- [Multi AI Agent Systems Using OpenAI&#39;s New GPT-4o Model](https://github.com/metaskills/experts)
+- [Wine 9.9 &lpar;Dev&rpar; – Run Windows Applications on Linux, BSD, Solaris and macOS](https://gitlab.winehq.org/wine/wine/-/releases/wine-9.9)
+- [Expedia Group fired their CTO, Rathi Murthy](https://www.phocuswire.com/rathi-murthy-expedia-group-cto)
+- [ILGPU: Write GPU programs with C# and F#](https://github.com/m4rs-mt/ILGPU)
+- [OpenAI departures: Why can’t former employees talk?](https://www.vox.com/future-perfect/2024/5/17/24158478/openai-departures-sam-altman-employees-chatgpt-release)
+- [Thinking out loud about 2nd-gen email](https://gabrielsieben.tech/2024/05/17/thinking-out-loud-2nd-gen-email/)
+- [Show HN: I built a website to create financial models for any stock online](https://www.useequityval.com/)
+- [The case against dual axis charts &lpar;and what to use instead&rpar; &lpar;2018&rpar;](https://blog.datawrapper.de/dualaxis/)
+- [A Trial HIV Vaccine Triggered Elusive and Essential Antibodies in Humans](https://corporate.dukehealth.org/news/trial-hiv-vaccine-triggered-elusive-and-essential-antibodies-humans)
+- [The Beauty of Concrete](https://worksinprogress.co/issue/the-beauty-of-concrete/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

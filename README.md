@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Multi AI Agent Systems Using OpenAI&#39;s New GPT-4o Model](https://github.com/metaskills/experts)
-- [Wine 9.9 &lpar;Dev&rpar; – Run Windows Applications on Linux, BSD, Solaris and macOS](https://gitlab.winehq.org/wine/wine/-/releases/wine-9.9)
-- [Expedia Group fired their CTO, Rathi Murthy](https://www.phocuswire.com/rathi-murthy-expedia-group-cto)
-- [ILGPU: Write GPU programs with C# and F#](https://github.com/m4rs-mt/ILGPU)
-- [OpenAI departures: Why can’t former employees talk?](https://www.vox.com/future-perfect/2024/5/17/24158478/openai-departures-sam-altman-employees-chatgpt-release)
-- [Thinking out loud about 2nd-gen email](https://gabrielsieben.tech/2024/05/17/thinking-out-loud-2nd-gen-email/)
-- [Show HN: I built a website to create financial models for any stock online](https://www.useequityval.com/)
-- [The case against dual axis charts &lpar;and what to use instead&rpar; &lpar;2018&rpar;](https://blog.datawrapper.de/dualaxis/)
-- [A Trial HIV Vaccine Triggered Elusive and Essential Antibodies in Humans](https://corporate.dukehealth.org/news/trial-hiv-vaccine-triggered-elusive-and-essential-antibodies-humans)
-- [The Beauty of Concrete](https://worksinprogress.co/issue/the-beauty-of-concrete/)
+- [Microsoft&#39;s Emissions Spike 29% as AI Gobbles Up Resources](https://www.pcmag.com/news/microsofts-emissions-spike-29-as-ai-gobbles-up-resources)
+- [How to Exit Vim](https://github.com/hakluke/how-to-exit-vim/blob/master/README.md)
+- [Petosemtamab Receives FDA Breakthrough Therapy Designation: Head / Neck Cancers](https://www.onclive.com/view/petosemtamab-receives-fda-breakthrough-therapy-designation-in-pretreated-hnscc)
+- [Common Data Structures in Common Lisp](https://blog.djhaskin.com/blog/common-data-structures-in-common-lisp/)
+- [Go Browser Package](https://browser.dineshgowda.com/)
+- [Streak &lpar;YC W22&rpar; is hiring a staff web UI engineer &lpar;remote&rpar;](https://www.streak.com/careers/staff-ui-engineer)
+- [On English Melancholy](https://thereader.mitpress.mit.edu/on-english-melancholy/)
+- [Disabling Modernism](https://placesjournal.org/article/modernist-schools-for-disabled-children-new-deal-era/)
+- [Calculus with Julia](https://jverzani.github.io/CalculusWithJuliaNotes.jl/)
+- [Show HN: Peanut Butter Spinner](https://cdaringe.com/peanut-butter-spinner/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

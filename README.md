@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Japanese court rules that AI cannot be issued patents](https://japannews.yomiuri.co.jp/society/crime-courts/20240517-186568/)
-- [Google&#39;s AI could accelerate the Web&#39;s decline](https://www.axios.com/2024/05/17/google-openai-ai-generative-publishers)
-- [The Great Matter: Life and Death](https://cancelself.github.io/great_matter.html)
-- [The Myth of Panic &lpar;2021&rpar;](https://www.palladiummag.com/2021/07/15/the-myth-of-panic/)
-- [China&#39;s nail houses: the homeowners who refuse to make way – in pictures](https://www.theguardian.com/cities/gallery/2014/apr/15/china-nail-houses-in-pictures-property-development)
-- [EigenLayer&#39;s Eigen Airdrop Might Signal Demise of Once-Popular &#39;Points&#39;](https://www.coindesk.com/tech/2024/05/09/eigenlayers-eigen-airdrop-might-signal-demise-of-once-popular-points/)
-- [SunSITE &lpar;Aalburg University&rpar; FTP Server](https://mirrors.dotsrc.org)
-- [Choosing a Tech Stack in 2024](https://erinc.ca/tech-stack-2024)
-- [Ask HN: What are problems only Windows, macOS, or Linux has?](https://news.ycombinator.com/item?id=40395911)
-- [Maryland enacts one of the strongest data privacy laws in the nation](https://pirg.org/edfund/updates/maryland-enacts-one-of-the-strongest-data-privacy-laws-in-the-nation/)
+- [How I upgraded my water heater and discovered how bad smart home security can be](https://arstechnica.com/gadgets/2024/05/how-i-upgraded-my-water-heater-and-discovered-how-bad-smart-home-security-can-be/)
+- [Looking for Founder or Hiring Manager](https://news.ycombinator.com/item?id=40403612)
+- [Michelle&#39;s List: Glassdoor but for Landlords and Properties](https://www.michelleslist.com/)
+- [Scientists find buried branch of the Nile that may have carried pyramids&#39; stones](https://www.theguardian.com/world/article/2024/may/16/scientists-find-buried-branch-of-the-nile-that-may-have-carried-pyramids-stones)
+- [Microsoft&#39;s Emissions Spike 29% as AI Gobbles Up Resources](https://www.pcmag.com/news/microsofts-emissions-spike-29-as-ai-gobbles-up-resources)
+- [US arrests two Chinese nationals in $73M crypto scam](https://www.reuters.com/world/us/us-arrests-two-chinese-nationals-73-million-crypto-scam-2024-05-17/)
+- [NWCG Firefighting Manual Chapter 6: Location - Introduction](https://www.nwcg.gov:443/course/ffm/location/60-location-introduction)
+- [UNM Researchers Find Microplastics in Canine and Human Testicular Tissue](https://hsc.unm.edu/news/2024/05/hsc-newsroom-post-microplastics-testicular.html)
+- [Join Our Beta: Unify ChatGPT, Gemini, Claude, &amp; Mistral in One Web App](https://news.ycombinator.com/item?id=40403458)
+- [Project Elixir Appears to Wipe Storage When You Manually Enable Premium Features](https://x.com/TheNotesOfJosh/status/1791627871519174697)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

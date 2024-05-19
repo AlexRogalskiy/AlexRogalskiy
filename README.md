@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine war briefing: Russia’s Kharkiv offensive may only be the ‘first wave’, Zelenskiy warns](https://www.theguardian.com/world/article/2024/may/18/ukraine-war-briefing-russias-kharkiv-offensive-may-only-be-the-first-wave-zelenskiy-warns)
-- [‘We will fight until Kanaky is free’: how New Caledonia caught fire](https://www.theguardian.com/world/article/2024/may/18/we-will-fight-until-kanaky-is-free-how-new-caledonia-caught-fire)
-- [Video shows Sean ‘Diddy’ Combs assaulting singer Cassie in 2016](https://www.theguardian.com/music/article/2024/may/17/video-p-diddy-assault-cassie-ventura)
-- [The Surfer review – beach bum Nic Cage surfs a high tide of toxic masculinity](https://www.theguardian.com/film/article/2024/may/18/the-surfer-review-nic-cage-beach-surfs-masculinity-thriller)
-- [Ministers clawing back £251m from carers hit by DWP’s allowance failures](https://www.theguardian.com/society/article/2024/may/18/ministers-clawing-back-251m-carers-dwp-allowance-failures)
-- [UK’s garden centres hope sunshine and Chelsea flower show will help them rebound from the rain](https://www.theguardian.com/lifeandstyle/article/2024/may/18/uks-garden-centres-hope-sunshine-and-chelsea-flower-show-will-help-them-rebound-from-the-rain)
-- [From If to Billie Eilish: a complete guide to this week’s entertainment](https://www.theguardian.com/culture/article/2024/may/18/going-out-staying-in-complete-guide-to-this-weeks-entertainment)
-- [Scottie Scheffler shakes off ‘shock and fear’ of arrest to stay in US PGA hunt](https://www.theguardian.com/sport/article/2024/may/17/scottie-scheffler-arrest-uspga-valhalla-golf)
-- [Man jailed for life after Gaza ‘revenge’ murder in Hartlepool](https://www.theguardian.com/uk-news/article/2024/may/17/man-jailed-life-israel-gaza-revenge-hartlepool-ahmed-alid)
-- [Oh, Canada review – Paul Schrader looks north as Richard Gere’s draft dodger reveals all](https://www.theguardian.com/film/article/2024/may/17/oh-canada-review-richard-gere-cannes-film-festival-paul-schrader)
+- [New Caledonia ‘under siege’ says local official, as unrest claims another life](https://www.theguardian.com/world/article/2024/may/19/new-caledonia-under-siege-says-local-official-as-unrest-claims-another-life)
+- [Ukraine war briefing: Kyiv accuses Russia of targeting civilians in Kharkiv region](https://www.theguardian.com/world/article/2024/may/19/ukraine-war-briefing-kyiv-accuses-russia-of-targeting-civilians-in-kharkiv-region)
+- [Oleksandr Usyk digs deep in thriller to down Tyson Fury and unite titles](https://www.theguardian.com/sport/article/2024/may/19/oleksandr-usyk-wins-undisputed-world-heavyweight-boxing-crown-tyson-fury)
+- [The Balconettes review – neighbours finding trouble in invitation to hot guy’s flat](https://www.theguardian.com/film/article/2024/may/19/the-balconettes-review-neighbours-finding-trouble-in-invitation-to-hot-guys-flat)
+- [George Miller: ‘Where do I keep my Oscar? I swear, I don’t know’](https://www.theguardian.com/film/article/2024/may/19/george-miller-where-do-i-keep-my-oscar-i-swear-i-dont-know)
+- [Morikawa and Schauffele end third day of US PGA at top as Lowry equals record](https://www.theguardian.com/sport/article/2024/may/19/morikawa-and-schauffele-end-third-day-of-us-pga-at-top-as-lowry-equals-record)
+- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2024/may/18/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Trend watch: striped shirts](https://www.theguardian.com/fashion/article/2024/may/18/trend-watch-striped-shirts)
+- [Weaving magic: 14 of the best natural raffia bags – in pictures](https://www.theguardian.com/fashion/gallery/2024/may/18/weaving-magic-14-of-the-best-natural-raffia-bags-in-pictures)
+- [Hospitals to share waiting lists under Labour plans for quicker care](https://www.theguardian.com/society/article/2024/may/18/hospitals-to-share-waiting-lists-under-labour-plans-for-quicker-care)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

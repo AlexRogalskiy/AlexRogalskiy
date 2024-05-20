@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [New Caledonia ‘under siege’ says local official, as unrest claims another life](https://www.theguardian.com/world/article/2024/may/19/new-caledonia-under-siege-says-local-official-as-unrest-claims-another-life)
-- [Ukraine war briefing: Kyiv accuses Russia of targeting civilians in Kharkiv region](https://www.theguardian.com/world/article/2024/may/19/ukraine-war-briefing-kyiv-accuses-russia-of-targeting-civilians-in-kharkiv-region)
-- [Oleksandr Usyk digs deep in thriller to down Tyson Fury and unite titles](https://www.theguardian.com/sport/article/2024/may/19/oleksandr-usyk-wins-undisputed-world-heavyweight-boxing-crown-tyson-fury)
-- [The Balconettes review – neighbours finding trouble in invitation to hot guy’s flat](https://www.theguardian.com/film/article/2024/may/19/the-balconettes-review-neighbours-finding-trouble-in-invitation-to-hot-guys-flat)
-- [George Miller: ‘Where do I keep my Oscar? I swear, I don’t know’](https://www.theguardian.com/film/article/2024/may/19/george-miller-where-do-i-keep-my-oscar-i-swear-i-dont-know)
-- [Morikawa and Schauffele end third day of US PGA at top as Lowry equals record](https://www.theguardian.com/sport/article/2024/may/19/morikawa-and-schauffele-end-third-day-of-us-pga-at-top-as-lowry-equals-record)
-- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2024/may/18/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Trend watch: striped shirts](https://www.theguardian.com/fashion/article/2024/may/18/trend-watch-striped-shirts)
-- [Weaving magic: 14 of the best natural raffia bags – in pictures](https://www.theguardian.com/fashion/gallery/2024/may/18/weaving-magic-14-of-the-best-natural-raffia-bags-in-pictures)
-- [Hospitals to share waiting lists under Labour plans for quicker care](https://www.theguardian.com/society/article/2024/may/18/hospitals-to-share-waiting-lists-under-labour-plans-for-quicker-care)
+- [Taiwan presidential inauguration live: Lai Ching-te takes office](https://www.theguardian.com/world/live/2024/may/20/taiwan-presidential-inauguration-2024-live-updates-lai-ching-te-new-president-latest-news)
+- [Iran president helicopter crash: rescuers search for Ebrahim Raisi – live updates](https://www.theguardian.com/world/live/2024/may/20/iran-helicopter-crash-live-updates-ebrahim-raisi-iranian-president-search-and-rescue-middle-east-crisis-latest-news)
+- [‘Modi builds highways but where are our jobs?’: rising inequality looms over India’s election](https://www.theguardian.com/world/article/2024/may/20/india-election-rising-inequality-unemployment-narendra-modi)
+- [The rightwing Christian group and the battle over end-of-life care - podcast](https://www.theguardian.com/news/audio/2024/may/20/the-rightwing-christian-group-and-the-battle-over-end-of-life-care)
+- [Xander Schauffele pips DeChambeau by one shot to win US PGA Championship](https://www.theguardian.com/sport/article/2024/may/20/xander-schauffele-pips-dechambeau-by-one-shot-to-win-us-pga-championship)
+- [AI chatbots’ safeguards can be easily bypassed, say UK researchers](https://www.theguardian.com/technology/article/2024/may/20/ai-chatbots-safeguards-can-be-easily-bypassed-say-uk-researchers)
+- [Brexit border checks will cost UK firms £470m a year, says watchdog](https://www.theguardian.com/politics/article/2024/may/20/britain-brexit-border-checks-eu-cost-uk-firms-470m-a-year-says-watchdog)
+- [Scientists make potential breast cancer breakthrough after preserving tissue in gel](https://www.theguardian.com/society/article/2024/may/20/scientists-make-potential-breast-cancer-breakthrough-preserve-issues-in-gel)
+- [Man in his 30s dies in custody at police station in Swindon](https://www.theguardian.com/uk-news/article/2024/may/19/man-in-his-30s-dies-in-custody-at-police-station-in-swindon)
+- [The Substance review – Demi Moore is game for a laugh in grisly body horror caper](https://www.theguardian.com/film/article/2024/may/19/the-substance-review-demi-moore-coralie-fargeat)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

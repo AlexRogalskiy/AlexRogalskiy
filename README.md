@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Microsoft&#39;s Emissions Spike 29% as AI Gobbles Up Resources](https://www.pcmag.com/news/microsofts-emissions-spike-29-as-ai-gobbles-up-resources)
-- [How to Exit Vim](https://github.com/hakluke/how-to-exit-vim/blob/master/README.md)
-- [Petosemtamab Receives FDA Breakthrough Therapy Designation: Head / Neck Cancers](https://www.onclive.com/view/petosemtamab-receives-fda-breakthrough-therapy-designation-in-pretreated-hnscc)
-- [Common Data Structures in Common Lisp](https://blog.djhaskin.com/blog/common-data-structures-in-common-lisp/)
-- [Go Browser Package](https://browser.dineshgowda.com/)
-- [Streak &lpar;YC W22&rpar; is hiring a staff web UI engineer &lpar;remote&rpar;](https://www.streak.com/careers/staff-ui-engineer)
-- [On English Melancholy](https://thereader.mitpress.mit.edu/on-english-melancholy/)
-- [Disabling Modernism](https://placesjournal.org/article/modernist-schools-for-disabled-children-new-deal-era/)
-- [Calculus with Julia](https://jverzani.github.io/CalculusWithJuliaNotes.jl/)
-- [Show HN: Peanut Butter Spinner](https://cdaringe.com/peanut-butter-spinner/)
+- [Avoidance of sun exposure as a risk factor for major causes of death](https://pubmed.ncbi.nlm.nih.gov/26992108/)
+- [Tornado Cash verdict has chilling implications for industry](https://cointelegraph.com/news/tornado-cash-verdict-crypto-industry)
+- [Anthropic: Reflections on Our Responsible Scaling Policy](https://www.anthropic.com/news/reflections-on-our-responsible-scaling-policy)
+- [Fiat brings back its 500e electric model for 2024, with 149 mile range](https://abc7.com/post/fiat-upgrades-electric-500e-model-for-2024/14834672/)
+- [Show HN: ffmpeg-english &quot;capture from /dev/video0 every 1 second to jpg files&quot;](https://github.com/dheera/scripts/blob/master/ffmpeg-english)
+- [What Is Generative Art?](https://www.amygoodchild.com/blog/what-is-generative-art)
+- [The problem with new URL&lpar;&rpar;, and how URL.parse&lpar;&rpar; fixes that](https://kilianvalkhof.com/2024/javascript/the-problem-with-new-url-and-how-url-parse-fixes-that/)
+- [The Lunacy of Artemis](https://idlewords.com/2024/5/the_lunacy_of_artemis.htm)
+- [Hertz Charging a Tesla Renter for Gas Was Not an Isolated Incident](https://www.thedrive.com/news/hertz-charging-a-tesla-renter-for-gas-was-not-an-isolated-incident)
+- [Puzzle made by the WikiLeaks founder Julian Assange for the university quest](https://wondrousnet.blogspot.com/2023/05/solution-to-puzzle-sleuth.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

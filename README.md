@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [How I upgraded my water heater and discovered how bad smart home security can be](https://arstechnica.com/gadgets/2024/05/how-i-upgraded-my-water-heater-and-discovered-how-bad-smart-home-security-can-be/)
-- [Looking for Founder or Hiring Manager](https://news.ycombinator.com/item?id=40403612)
-- [Michelle&#39;s List: Glassdoor but for Landlords and Properties](https://www.michelleslist.com/)
-- [Scientists find buried branch of the Nile that may have carried pyramids&#39; stones](https://www.theguardian.com/world/article/2024/may/16/scientists-find-buried-branch-of-the-nile-that-may-have-carried-pyramids-stones)
-- [Microsoft&#39;s Emissions Spike 29% as AI Gobbles Up Resources](https://www.pcmag.com/news/microsofts-emissions-spike-29-as-ai-gobbles-up-resources)
-- [US arrests two Chinese nationals in $73M crypto scam](https://www.reuters.com/world/us/us-arrests-two-chinese-nationals-73-million-crypto-scam-2024-05-17/)
-- [NWCG Firefighting Manual Chapter 6: Location - Introduction](https://www.nwcg.gov:443/course/ffm/location/60-location-introduction)
-- [UNM Researchers Find Microplastics in Canine and Human Testicular Tissue](https://hsc.unm.edu/news/2024/05/hsc-newsroom-post-microplastics-testicular.html)
-- [Join Our Beta: Unify ChatGPT, Gemini, Claude, &amp; Mistral in One Web App](https://news.ycombinator.com/item?id=40403458)
-- [Project Elixir Appears to Wipe Storage When You Manually Enable Premium Features](https://x.com/TheNotesOfJosh/status/1791627871519174697)
+- [NJ Transit and Rutgers team up to find a solution to hazy train windows](https://dailytargum.com/article/2023/04/u-professors-team-up-with-nj-transit-to-fix-hazy-train-windows)
+- [AI meeting notes and transcriptions for Meet, Zoom and Teams](https://tactiq.io/)
+- [Chameleon: Mixed-Modal Early-Fusion Foundation Models](https://arxiv.org/abs/2405.09818)
+- [Singapore Got So Crazy Rich [video]](https://www.youtube.com/watch?v=YSMWN8VpY6A)
+- [What Should I Do?](https://news.ycombinator.com/item?id=40411499)
+- [Trying to Understanding Virtual Threads in Java Streams](https://coderoasis.com/java-threaded-streams/)
+- [Montessori Education](https://en.wikipedia.org/wiki/Montessori_education)
+- [USB flash drive can only store 8KB of data, but will last you 200 years](https://www.tomshardware.com/pc-components/usb-flash-drives/this-usb-flash-drive-can-only-store-8kb-of-data-but-will-last-you-200-years)
+- [Van Westendorp method: How and why I&#39;m pricing the router I&#39;m developing [video]](https://www.youtube.com/watch?v=GKj5P4goBS4)
+- [Dimension Alignment](https://github.com/SPLWare/esProc/wiki/Dimension-alignment-(JOIN-Simplification-and-Acceleration-Series-4))
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Avoidance of sun exposure as a risk factor for major causes of death](https://pubmed.ncbi.nlm.nih.gov/26992108/)
-- [Tornado Cash verdict has chilling implications for industry](https://cointelegraph.com/news/tornado-cash-verdict-crypto-industry)
-- [Anthropic: Reflections on Our Responsible Scaling Policy](https://www.anthropic.com/news/reflections-on-our-responsible-scaling-policy)
-- [Fiat brings back its 500e electric model for 2024, with 149 mile range](https://abc7.com/post/fiat-upgrades-electric-500e-model-for-2024/14834672/)
-- [Show HN: ffmpeg-english &quot;capture from /dev/video0 every 1 second to jpg files&quot;](https://github.com/dheera/scripts/blob/master/ffmpeg-english)
-- [What Is Generative Art?](https://www.amygoodchild.com/blog/what-is-generative-art)
-- [The problem with new URL&lpar;&rpar;, and how URL.parse&lpar;&rpar; fixes that](https://kilianvalkhof.com/2024/javascript/the-problem-with-new-url-and-how-url-parse-fixes-that/)
-- [The Lunacy of Artemis](https://idlewords.com/2024/5/the_lunacy_of_artemis.htm)
-- [Hertz Charging a Tesla Renter for Gas Was Not an Isolated Incident](https://www.thedrive.com/news/hertz-charging-a-tesla-renter-for-gas-was-not-an-isolated-incident)
-- [Puzzle made by the WikiLeaks founder Julian Assange for the university quest](https://wondrousnet.blogspot.com/2023/05/solution-to-puzzle-sleuth.html)
+- [Seawater is rushing under Thwaites Glacier, potentially dire impact on sea level](https://www.cnn.com/2024/05/20/climate/doomsday-glacier-melt-antarctica-climate-intl/index.html)
+- [Stripe increasing &quot;instant payout&quot; fees by 50%](https://support.stripe.com/questions/june-2024-pricing-update-for-instant-payouts-for-businesses-in-the-united-states)
+- [The ChatGPT wrapper product boom is an uncanny valley hellscape](https://www.pcloadletter.dev/blog/llms/)
+- [Comparing desktop development tools, Qt, Electron and macOS Native](https://www.bumblemeow.com/techtalk/#desktop-dev-tools)
+- [Restoring an Apple Silicon Developer Transition Kit &quot;DTK&quot; Mac Mini [video]](https://www.youtube.com/watch?v=reQq8fx4D0Q)
+- [Dual antibacterial properties of copper-coated nanotextured stainless steel](https://onlinelibrary.wiley.com/doi/10.1002/smll.202311546)
+- [Statement from Scarlett Johansson on the OpenAI &quot;Sky&quot; voice](https://twitter.com/BobbyAllyn/status/1792679435701014908)
+- [Google cuts mystery check to US in bid to sidestep jury trial](https://www.reuters.com/legal/government/google-cuts-mystery-check-us-bid-sidestep-jury-trial-2024-05-20/)
+- [Etleap &lpar;YC W13&rpar; Is Hiring Software Engineer – Integrations &lpar;Remote in Brazil&rpar;](https://etleap.com/careers/software-engineer-integrations/)
+- [Enlightenmentware](https://mmapped.blog/posts/28-enlightenmentware.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

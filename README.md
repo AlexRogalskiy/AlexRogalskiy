@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Taiwan presidential inauguration live: Lai Ching-te takes office](https://www.theguardian.com/world/live/2024/may/20/taiwan-presidential-inauguration-2024-live-updates-lai-ching-te-new-president-latest-news)
-- [Iran president helicopter crash: rescuers search for Ebrahim Raisi – live updates](https://www.theguardian.com/world/live/2024/may/20/iran-helicopter-crash-live-updates-ebrahim-raisi-iranian-president-search-and-rescue-middle-east-crisis-latest-news)
-- [‘Modi builds highways but where are our jobs?’: rising inequality looms over India’s election](https://www.theguardian.com/world/article/2024/may/20/india-election-rising-inequality-unemployment-narendra-modi)
-- [The rightwing Christian group and the battle over end-of-life care - podcast](https://www.theguardian.com/news/audio/2024/may/20/the-rightwing-christian-group-and-the-battle-over-end-of-life-care)
-- [Xander Schauffele pips DeChambeau by one shot to win US PGA Championship](https://www.theguardian.com/sport/article/2024/may/20/xander-schauffele-pips-dechambeau-by-one-shot-to-win-us-pga-championship)
-- [AI chatbots’ safeguards can be easily bypassed, say UK researchers](https://www.theguardian.com/technology/article/2024/may/20/ai-chatbots-safeguards-can-be-easily-bypassed-say-uk-researchers)
-- [Brexit border checks will cost UK firms £470m a year, says watchdog](https://www.theguardian.com/politics/article/2024/may/20/britain-brexit-border-checks-eu-cost-uk-firms-470m-a-year-says-watchdog)
-- [Scientists make potential breast cancer breakthrough after preserving tissue in gel](https://www.theguardian.com/society/article/2024/may/20/scientists-make-potential-breast-cancer-breakthrough-preserve-issues-in-gel)
-- [Man in his 30s dies in custody at police station in Swindon](https://www.theguardian.com/uk-news/article/2024/may/19/man-in-his-30s-dies-in-custody-at-police-station-in-swindon)
-- [The Substance review – Demi Moore is game for a laugh in grisly body horror caper](https://www.theguardian.com/film/article/2024/may/19/the-substance-review-demi-moore-coralie-fargeat)
+- [Could Netanyahu really be arrested for war crimes?](https://www.theguardian.com/news/audio/2024/may/21/could-netanyahu-really-be-arrested-for-war-crimes)
+- [‘Bloody cover up’: what the papers say as Sunak apologises for infected blood scandal](https://www.theguardian.com/media/article/2024/may/21/uk-newspaper-front-pages-infected-blood-scandal-inquiry)
+- [‘Dunkirk spirit’: convoy of Ulez scrappage scheme vehicles arrives in Ukraine from London](https://www.theguardian.com/world/article/2024/may/21/ulez-scrappage-scheme-vehicles-ukraine)
+- [People in New Caledonia: how have you been affected by the unrest?](https://www.theguardian.com/world/article/2024/may/21/people-in-new-caledonia-how-have-you-been-affected-by-the-unrest)
+- [The Apprentice: Trump campaign threatens legal action over biopic that depicts him as a rapist](https://www.theguardian.com/film/article/2024/may/21/the-apprentice-biopic-donald-trump-campaign-threatens-legal-action)
+- [Ukraine war briefing: Zelenskiy to Nato – shoot down Russian missiles in our skies](https://www.theguardian.com/world/article/2024/may/21/ukraine-war-briefing-zelenskiy-to-nato-shoot-down-russian-missiles-in-our-skies)
+- [Biden attacks request by ICC prosecutor for Netanyahu arrest warrant](https://www.theguardian.com/us-news/article/2024/may/20/biden-icc-warrant-netanyahu)
+- [UK risks ‘descending into darkness’ of antisemitism, Michael Gove to say](https://www.theguardian.com/news/article/2024/may/21/uk-risks-descending-into-darkness-of-antisemitism-michael-gove-to-say)
+- [The Artist review – peppy stage show adds volume to silent cinema hit](https://www.theguardian.com/stage/article/2024/may/21/the-artist-review-theatre-royal-plymouth-drew-mconie)
+- [Productivity soars in sectors of global economy most exposed to AI, says report](https://www.theguardian.com/technology/article/2024/may/21/productivity-soars-in-sectors-of-global-economy-most-exposed-to-ai-says-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

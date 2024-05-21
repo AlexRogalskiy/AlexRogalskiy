@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [NJ Transit and Rutgers team up to find a solution to hazy train windows](https://dailytargum.com/article/2023/04/u-professors-team-up-with-nj-transit-to-fix-hazy-train-windows)
-- [AI meeting notes and transcriptions for Meet, Zoom and Teams](https://tactiq.io/)
-- [Chameleon: Mixed-Modal Early-Fusion Foundation Models](https://arxiv.org/abs/2405.09818)
-- [Singapore Got So Crazy Rich [video]](https://www.youtube.com/watch?v=YSMWN8VpY6A)
-- [What Should I Do?](https://news.ycombinator.com/item?id=40411499)
-- [Trying to Understanding Virtual Threads in Java Streams](https://coderoasis.com/java-threaded-streams/)
-- [Montessori Education](https://en.wikipedia.org/wiki/Montessori_education)
-- [USB flash drive can only store 8KB of data, but will last you 200 years](https://www.tomshardware.com/pc-components/usb-flash-drives/this-usb-flash-drive-can-only-store-8kb-of-data-but-will-last-you-200-years)
-- [Van Westendorp method: How and why I&#39;m pricing the router I&#39;m developing [video]](https://www.youtube.com/watch?v=GKj5P4goBS4)
-- [Dimension Alignment](https://github.com/SPLWare/esProc/wiki/Dimension-alignment-(JOIN-Simplification-and-Acceleration-Series-4))
+- [The new, faster Surface Pro is Microsoft&#39;s all-purpose AI PC](https://www.theverge.com/2024/5/20/24160707/microsoft-surface-pro-price-release-date-ai)
+- [Advice for Taking Advice](https://herbertlui.net/advice-for-taking-advice/)
+- [What Is RCU? – &quot;Read, Copy, Update&quot;](https://www.kernel.org/doc/html/next/RCU/whatisRCU.html)
+- [Ultra-processed US foods are ultra-bad for you. Here&#39;s what to know](https://www.theguardian.com/environment/article/2024/may/20/processed-foods-health-what-to-know)
+- [Today&#39;s AI models are impressive. Teams of them will be formidable](https://www.economist.com/science-and-technology/2024/05/13/todays-ai-models-are-impressive-teams-of-them-will-be-formidable)
+- [Where is the German cockroach &lpar;Blattella germanica&rpar; actually from?](https://www.theguardian.com/australia-news/article/2024/may/21/where-is-the-german-cockroach-actually-from-we-tested-its-dna-to-trace-its-true-origins)
+- [Seawater is rushing under Thwaites Glacier, potentially dire impact on sea level](https://www.cnn.com/2024/05/20/climate/doomsday-glacier-melt-antarctica-climate-intl/index.html)
+- [Ted Gioia on AI&#39;s Threat to Music](https://www.youtube.com/watch?v=ibMd_Jx9daw)
+- [Freewrite Alpha Review: For People Who Just Want to Write](https://www.wired.com/review/review-freewrite-alpha/)
+- [Vpternlog](https://www.sandpile.org/x86/ternlog.htm)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

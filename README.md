@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The new, faster Surface Pro is Microsoft&#39;s all-purpose AI PC](https://www.theverge.com/2024/5/20/24160707/microsoft-surface-pro-price-release-date-ai)
-- [Advice for Taking Advice](https://herbertlui.net/advice-for-taking-advice/)
-- [What Is RCU? – &quot;Read, Copy, Update&quot;](https://www.kernel.org/doc/html/next/RCU/whatisRCU.html)
-- [Ultra-processed US foods are ultra-bad for you. Here&#39;s what to know](https://www.theguardian.com/environment/article/2024/may/20/processed-foods-health-what-to-know)
-- [Today&#39;s AI models are impressive. Teams of them will be formidable](https://www.economist.com/science-and-technology/2024/05/13/todays-ai-models-are-impressive-teams-of-them-will-be-formidable)
-- [Where is the German cockroach &lpar;Blattella germanica&rpar; actually from?](https://www.theguardian.com/australia-news/article/2024/may/21/where-is-the-german-cockroach-actually-from-we-tested-its-dna-to-trace-its-true-origins)
-- [Seawater is rushing under Thwaites Glacier, potentially dire impact on sea level](https://www.cnn.com/2024/05/20/climate/doomsday-glacier-melt-antarctica-climate-intl/index.html)
-- [Ted Gioia on AI&#39;s Threat to Music](https://www.youtube.com/watch?v=ibMd_Jx9daw)
-- [Freewrite Alpha Review: For People Who Just Want to Write](https://www.wired.com/review/review-freewrite-alpha/)
-- [Vpternlog](https://www.sandpile.org/x86/ternlog.htm)
+- [I deal with the Requirements of a new mathematical symbol, in order to explain](https://news.ycombinator.com/item?id=40436712)
+- [DJT: Trump Media stock falls after posting $327.6 million quarterly loss](https://www.cnbc.com/2024/05/21/djt-trump-media-stock-falls-after-big-q1-loss.html)
+- [Anthropic: Mapping the Mind of a Language Model](https://www.anthropic.com/news/mapping-mind-language-model)
+- [CVE-2024-32002](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2024-32002)
+- [Scandal at America&#39;s Top Science Fair](https://www.karlstack.com/p/exclusive-scandal-at-americas-top)
+- [JMP Newsletter: SMS Routes, RCS, and More](https://blog.jmp.chat/b/may-newsletter-2024)
+- [Hemp and Marijuana Go to War](https://www.politico.com/news/2024/05/21/hemp-marijuana-farm-bill-00159040)
+- [Meta plans to not open the weights for its 400B model](https://twitter.com/apples_jimmy/status/1793081686802280576)
+- [The neutrino&#39;s quantum fuzziness is beginning to come into focus](https://www.sciencenews.org/article/neutrinos-quantum-fuzziness-uncertainty)
+- [Movie Measurement and Study Tool Database](https://cinemetrics.uchicago.edu/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

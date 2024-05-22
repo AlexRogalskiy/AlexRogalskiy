@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Seawater is rushing under Thwaites Glacier, potentially dire impact on sea level](https://www.cnn.com/2024/05/20/climate/doomsday-glacier-melt-antarctica-climate-intl/index.html)
-- [Stripe increasing &quot;instant payout&quot; fees by 50%](https://support.stripe.com/questions/june-2024-pricing-update-for-instant-payouts-for-businesses-in-the-united-states)
-- [The ChatGPT wrapper product boom is an uncanny valley hellscape](https://www.pcloadletter.dev/blog/llms/)
-- [Comparing desktop development tools, Qt, Electron and macOS Native](https://www.bumblemeow.com/techtalk/#desktop-dev-tools)
-- [Restoring an Apple Silicon Developer Transition Kit &quot;DTK&quot; Mac Mini [video]](https://www.youtube.com/watch?v=reQq8fx4D0Q)
-- [Dual antibacterial properties of copper-coated nanotextured stainless steel](https://onlinelibrary.wiley.com/doi/10.1002/smll.202311546)
-- [Statement from Scarlett Johansson on the OpenAI &quot;Sky&quot; voice](https://twitter.com/BobbyAllyn/status/1792679435701014908)
-- [Google cuts mystery check to US in bid to sidestep jury trial](https://www.reuters.com/legal/government/google-cuts-mystery-check-us-bid-sidestep-jury-trial-2024-05-20/)
-- [Etleap &lpar;YC W13&rpar; Is Hiring Software Engineer – Integrations &lpar;Remote in Brazil&rpar;](https://etleap.com/careers/software-engineer-integrations/)
-- [Enlightenmentware](https://mmapped.blog/posts/28-enlightenmentware.html)
+- [SimpleWiki – All of Wikipedia Simplified](https://www.thesimplewiki.com)
+- [CodeCrafters &lpar;YC S22&rpar; Is Hiring a Remote Influencer Partnerships Manager](https://www.ycombinator.com/companies/codecrafters/jobs/7ljWFvU-influencer-partnerships-manager)
+- [A Road to Common Lisp &lpar;2018&rpar;](https://stevelosh.com/blog/2018/08/a-road-to-common-lisp/)
+- [Designed to Crash: the story of Antonov An-28 HA-LAJ and its demise](https://admiralcloudberg.medium.com/designed-to-crash-the-bizarre-story-of-antonov-an-28-ha-laj-and-its-demise-169b3720d924)
+- [Clever code is probably the worst code you could write](https://read.engineerscodex.com/p/clever-code-is-probably-the-worst)
+- [The Stanford Startup and the MIT Startup &lpar;2013&rpar;](http://fpgacomputing.blogspot.com/2013/11/the-stanford-startup-and-mit-startup.html)
+- [Wikimedia Enterprise – APIs for LLMs, AI Training, and More](https://enterprise.wikimedia.com/)
+- [Windows Copilot Runtime](https://blogs.windows.com/windowsdeveloper/2024/05/21/unlock-a-new-era-of-innovation-with-windows-copilot-runtime-and-copilot-pcs/)
+- [Storing knowledge in a single long plain text file](https://breckyunits.com/scrollsets.html)
+- [Gordon Bell has died](https://arstechnica.com/gadgets/2024/05/gordon-bell-an-architect-of-our-digital-age-dies-at-age-89/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

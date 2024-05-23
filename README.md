@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [I deal with the Requirements of a new mathematical symbol, in order to explain](https://news.ycombinator.com/item?id=40436712)
-- [DJT: Trump Media stock falls after posting $327.6 million quarterly loss](https://www.cnbc.com/2024/05/21/djt-trump-media-stock-falls-after-big-q1-loss.html)
-- [Anthropic: Mapping the Mind of a Language Model](https://www.anthropic.com/news/mapping-mind-language-model)
-- [CVE-2024-32002](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2024-32002)
-- [Scandal at America&#39;s Top Science Fair](https://www.karlstack.com/p/exclusive-scandal-at-americas-top)
-- [JMP Newsletter: SMS Routes, RCS, and More](https://blog.jmp.chat/b/may-newsletter-2024)
-- [Hemp and Marijuana Go to War](https://www.politico.com/news/2024/05/21/hemp-marijuana-farm-bill-00159040)
-- [Meta plans to not open the weights for its 400B model](https://twitter.com/apples_jimmy/status/1793081686802280576)
-- [The neutrino&#39;s quantum fuzziness is beginning to come into focus](https://www.sciencenews.org/article/neutrinos-quantum-fuzziness-uncertainty)
-- [Movie Measurement and Study Tool Database](https://cinemetrics.uchicago.edu/)
+- [Palestinian state recognized by Spain, Ireland and Norway](https://apnews.com/world-news/palestinian-territories-government-spain-israel-hamas-war-israel-israel-government-7772b128e634e3e28e4bafb1663d7d81)
+- [Impact of Design Decisions in Scanpath Modeling](https://arxiv.org/abs/2405.08981)
+- [What are the advantages of SQL over Java？](https://github.com/SPLWare/esProc/wiki/Understanding-set-orientation-from-the-comparison-between-SQL-and-Java,-and-what-are-the-advantages-of-SQL-over-Java%EF%BC%9F)
+- [Xiaomi to Introduce Powerful New SoC Codenamed Ring to Rival Snapdragon 8G2](https://gsmchina.com/xiaomi-new-soc-codenamed-ring-poised-to-rival-snapdragon-8g2-8561/)
+- [Osteo-Odonto-Keratoprosthesis](https://en.wikipedia.org/wiki/Osteo-odonto-keratoprosthesis)
+- [New Internet Thing, Chapter 3 &lpar;Janet and Walt Come to Visit&rpar;](https://albertcory50.substack.com/p/this-new-internet-thing-chapter-3)
+- [Show HN: Build Your Startup MVP Quickly with MVP Recipes](https://mvprecipes.com/)
+- [Helium Flash](https://en.wikipedia.org/wiki/Helium_flash)
+- [China starts military drills around Taiwan as &#39;harsh punishment&#39;](https://www.ft.com/content/21705431-f1b2-4b29-916a-ab2358d0a667)
+- [Retype](https://retype.com/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

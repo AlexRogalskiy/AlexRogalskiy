@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Inside Kharkiv as Russia advances | podcast](https://www.theguardian.com/news/audio/2024/may/22/inside-kharkiv-as-russia-advances-podcast)
-- [New Zealand man filmed trying to ‘body slam’ an orca in actions described as ‘idiotic’](https://www.theguardian.com/world/article/2024/may/22/orca-body-slam-new-zealand-man-killer-whale-auckland-boat-jump-ntwnfb)
-- [‘We’re really torn’: New Caledonia turmoil forces French nationals to sail to safety in Australia](https://www.theguardian.com/world/article/2024/may/22/were-really-torn-new-caledonia-turmoil-forces-french-nationals-to-sail-to-safety-in-australia)
-- [Ukraine war briefing: Worse than Bakhmut but now we have shells, say Kharkiv defenders](https://www.theguardian.com/world/article/2024/may/22/ukraine-war-briefing-worse-than-bakhmut-but-now-we-have-shells-say-kharkiv-defenders)
-- [Sean ‘Diddy’ Combs faces new lawsuit from ex-model alleging sexual assault](https://www.theguardian.com/music/article/2024/may/21/sean-diddy-combs-new-lawsuit-sexual-assault)
-- [Leinster warned to fear ‘alien’ Dupont as Toulouse seek sixth Champions Cup](https://www.theguardian.com/sport/article/2024/may/22/leinster-antoine-dupont-toulouse-champions-cup-final)
-- [More than 1,000 slave labourers may have died in Nazi camps on Alderney, review finds](https://www.theguardian.com/uk-news/article/2024/may/22/more-than-1000-slave-labourers-may-have-died-in-nazi-camps-on-alderney-review-finds)
-- [Demand for Taylor Swift’s UK tour could fuel summer ticket fraud bonanza](https://www.theguardian.com/money/article/2024/may/22/demand-for-taylor-swifts-uk-tour-could-fuel-summer-ticket-bonanza)
-- [Neil Gaiman’s Coraline to become ‘dark, spangly’ stage musical](https://www.theguardian.com/stage/article/2024/may/22/neil-gaiman-coraline-to-become-dark-spangly-stage-musical)
-- [Sharp rise in type 2 diabetes among people under 40 in UK](https://www.theguardian.com/society/article/2024/may/22/type-2-diabetes-uk-rise-obesity-health-inequalities-junk-food)
+- [Macron says troops will remain for as long as necessary as he arrives in New Caledonia](https://www.theguardian.com/world/article/2024/may/22/macron-arrives-in-new-caledonia-amid-calls-for-france-to-withdraw-voting-changes)
+- [Ukraine war briefing: France flies nuclear-capable missile as Russia holds drills](https://www.theguardian.com/world/article/2024/may/23/ukraine-war-briefing-france-flies-nuclear-capable-missile-as-russia-holds-drills)
+- [‘Drowning Street’: what the papers say as Rishi Sunak makes his election announcement](https://www.theguardian.com/media/article/2024/may/23/uk-general-election-july-4-rishi-sunak-announcement-newspapers)
+- [Almost a third of household smart meters not working properly, says Citizens Advice](https://www.theguardian.com/business/article/2024/may/23/almost-a-third-of-household-smart-meters-not-working-properly-says-citizens-advice)
+- [UK general election called – Politics Weekly UK – podcast](https://www.theguardian.com/politics/audio/2024/may/22/uk-general-election-called-politics-weekly-uk-podcast)
+- [Seoul summit showcases UK’s progress on trying to make advanced AI safe](https://www.theguardian.com/technology/article/2024/may/22/seoul-summit-showcases-uks-progress-on-trying-to-make-advanced-ai-safe)
+- [Farm owners in California mass shooting to pay workers $450,000](https://www.theguardian.com/us-news/article/2024/may/22/half-moon-bay-mass-shooting-)
+- [Epidural in labour can reduce risk of serious complications by 35%, study finds](https://www.theguardian.com/lifeandstyle/article/2024/may/22/epidural-in-labour-can-reduce-risk-of-serious-complications-by-35-study-finds)
+- [Motel Destino review – terrifically acted Brazilian erotic noir thriller](https://www.theguardian.com/film/article/2024/may/22/motel-destino-review-cannes-film-festival)
+- [Nikki Haley says she will vote for Donald Trump in 2024 election](https://www.theguardian.com/us-news/article/2024/may/22/nikki-haley-trump-endorsement-2024-election)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

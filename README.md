@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Macron says troops will remain for as long as necessary as he arrives in New Caledonia](https://www.theguardian.com/world/article/2024/may/22/macron-arrives-in-new-caledonia-amid-calls-for-france-to-withdraw-voting-changes)
-- [Ukraine war briefing: France flies nuclear-capable missile as Russia holds drills](https://www.theguardian.com/world/article/2024/may/23/ukraine-war-briefing-france-flies-nuclear-capable-missile-as-russia-holds-drills)
-- [‘Drowning Street’: what the papers say as Rishi Sunak makes his election announcement](https://www.theguardian.com/media/article/2024/may/23/uk-general-election-july-4-rishi-sunak-announcement-newspapers)
-- [Almost a third of household smart meters not working properly, says Citizens Advice](https://www.theguardian.com/business/article/2024/may/23/almost-a-third-of-household-smart-meters-not-working-properly-says-citizens-advice)
-- [UK general election called – Politics Weekly UK – podcast](https://www.theguardian.com/politics/audio/2024/may/22/uk-general-election-called-politics-weekly-uk-podcast)
-- [Seoul summit showcases UK’s progress on trying to make advanced AI safe](https://www.theguardian.com/technology/article/2024/may/22/seoul-summit-showcases-uks-progress-on-trying-to-make-advanced-ai-safe)
-- [Farm owners in California mass shooting to pay workers $450,000](https://www.theguardian.com/us-news/article/2024/may/22/half-moon-bay-mass-shooting-)
-- [Epidural in labour can reduce risk of serious complications by 35%, study finds](https://www.theguardian.com/lifeandstyle/article/2024/may/22/epidural-in-labour-can-reduce-risk-of-serious-complications-by-35-study-finds)
-- [Motel Destino review – terrifically acted Brazilian erotic noir thriller](https://www.theguardian.com/film/article/2024/may/22/motel-destino-review-cannes-film-festival)
-- [Nikki Haley says she will vote for Donald Trump in 2024 election](https://www.theguardian.com/us-news/article/2024/may/22/nikki-haley-trump-endorsement-2024-election)
+- [China testing ability to ‘seize power’ in second day of military drills around Taiwan](https://www.theguardian.com/world/article/2024/may/24/china-military-drills-drills-seize-power-taiwan-president-inauguration)
+- [What should kids be taught about sex and relationships?](https://www.theguardian.com/news/audio/2024/may/24/kids-schools-sex-relationships-today-in-focus-podcast)
+- [Ukraine war briefing: US-supplied glide bombs struggle against Russian jamming](https://www.theguardian.com/world/article/2024/may/24/ukraine-war-briefing-us-supplied-glide-bombs-struggle-against-russian-jamming)
+- [Tech titan Mike Lynch testifies at fraud trial that Autonomy was ‘not perfect’](https://www.theguardian.com/business/article/2024/may/23/mike-lynch-fraud-trial)
+- [George Harrison’s childhood home in Liverpool gets blue plaque](https://www.theguardian.com/music/article/2024/may/24/george-harrison-childhood-home-liverpool-blue-plaque-beatles)
+- [Short measuring costs average UK drinker £115 a year, study finds](https://www.theguardian.com/money/article/2024/may/24/short-measuring-wine-beer-costs-uk-drinkers-115-a-year-each-trading-standards-says)
+- [Romeo &amp; Juliet review – Tom Holland enters to whoops as Francesca Amewudah-Rivers shows a steely cool](https://www.theguardian.com/stage/article/2024/may/23/romeo-juliet-review-tom-holland-spider-man-francesca-amewudah-rivers)
+- [Luke Littler blasts Luke Humphries away to win Premier League Darts title](https://www.theguardian.com/sport/article/2024/may/23/luke-littler-luke-humphries-premier-league-darts-final)
+- [Wayne Rooney is Plymouth’s top target for vacant manager’s job](https://www.theguardian.com/football/article/2024/may/23/wayne-rooney-expected-to-hold-talks-with-plymouth-over-vacant-manager-job)
+- [Building collapses at Mallorca beach killing at least four and injuring 21](https://www.theguardian.com/world/article/2024/may/23/building-collapses-on-to-beach-in-mallorca-causing-deaths-and-injuries-to-at-least-dozen-people)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [US Justice Department to seek breakup of Live Nation-Ticketmaster](https://www.bloomberg.com/news/articles/2024-05-22/justice-department-to-seek-breakup-of-live-nation-ticketmaster)
-- [Leaked OpenAI documents reveal aggressive tactics toward former employees](https://www.vox.com/future-perfect/351132/openai-vested-equity-nda-sam-altman-documents-employees)
-- [A Michigan farmworker is diagnosed with bird flu in case tied to dairy cows](https://www.npr.org/2024/05/22/1252984256/bird-flu-h5n1-virus-human-michigan-cows)
-- [Cortile – Linux auto tiling manager with hot corner support](https://github.com/leukipp/cortile)
-- [Nvidia announces financial results for first quarter fiscal 2025](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-first-quarter-fiscal-2025)
-- [Dynamic loading of real-time content at Figma](https://www.figma.com/blog/speeding-up-file-load-times-one-page-at-a-time/)
-- [Show HN: Simple and fast resume document generation with AI](https://cvgist.com/)
-- [Bluesky adds direct messages](https://bsky.social/about/blog/05-22-2024-direct-messages)
-- [Safe Terminal Escape Codes](https://www.arp242.net/safeterm.html)
-- [S3 Is Showing Its Age](https://materializedview.io/p/s3-is-showing-its-age)
+- [Binarize CLIP for Multimodal Applications](https://www.marqo.ai/blog/learn-to-binarize-clip-for-multimodal-retrieval-and-ranking)
+- [Dehydration associated with poorer performance on attention tasks among adults](https://onlinelibrary.wiley.com/doi/10.1002/ajhb.24051)
+- [CSharpRepl: C# REPL with syntax highlighting and intellisense](https://fuqua.io/CSharpRepl/)
+- [Checkr &lpar;YC S14&rpar; is hiring a staff software engineer for Checkr Pay](https://www.ycombinator.com/companies/checkr/jobs/ixzdle1-staff-software-engineer-checkr-pay)
+- [Show HN: Open-source real time data framework for LLM applications](https://getindexify.ai)
+- [US Army researched the health effects of radioactivity in St Louis 1945-1970 &lpar;2011&rpar;](https://mospace.umsystem.edu/xmlui/handle/10355/13170)
+- [Act on Press](https://twitter.com/ID_AA_Carmack/status/1787850053912064005)
+- [Cement recycling method could help solve one of the big climate challenges](https://www.cam.ac.uk/stories/cement-recycling)
+- [Show HN: Porter Cloud – PaaS with an eject button](https://news.ycombinator.com/item?id=40456959)
+- [Daylight Computer – New 60fps e-paper tablet](https://daylightcomputer.com/product)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

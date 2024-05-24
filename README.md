@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Palestinian state recognized by Spain, Ireland and Norway](https://apnews.com/world-news/palestinian-territories-government-spain-israel-hamas-war-israel-israel-government-7772b128e634e3e28e4bafb1663d7d81)
-- [Impact of Design Decisions in Scanpath Modeling](https://arxiv.org/abs/2405.08981)
-- [What are the advantages of SQL over Java？](https://github.com/SPLWare/esProc/wiki/Understanding-set-orientation-from-the-comparison-between-SQL-and-Java,-and-what-are-the-advantages-of-SQL-over-Java%EF%BC%9F)
-- [Xiaomi to Introduce Powerful New SoC Codenamed Ring to Rival Snapdragon 8G2](https://gsmchina.com/xiaomi-new-soc-codenamed-ring-poised-to-rival-snapdragon-8g2-8561/)
-- [Osteo-Odonto-Keratoprosthesis](https://en.wikipedia.org/wiki/Osteo-odonto-keratoprosthesis)
-- [New Internet Thing, Chapter 3 &lpar;Janet and Walt Come to Visit&rpar;](https://albertcory50.substack.com/p/this-new-internet-thing-chapter-3)
-- [Show HN: Build Your Startup MVP Quickly with MVP Recipes](https://mvprecipes.com/)
-- [Helium Flash](https://en.wikipedia.org/wiki/Helium_flash)
-- [China starts military drills around Taiwan as &#39;harsh punishment&#39;](https://www.ft.com/content/21705431-f1b2-4b29-916a-ab2358d0a667)
-- [Retype](https://retype.com/)
+- [Binarize CLIP for Multimodal Applications](https://www.marqo.ai/blog/learn-to-binarize-clip-for-multimodal-retrieval-and-ranking)
+- [Your idea to MVP in 20 days](https://www.mvpcat.com/)
+- [Indian stock market inflated by mutual fund managers](https://www.cnbc.com/2024/05/23/cnbcs-inside-india-newsletter-the-secret-of-the-stock-market-rally.html)
+- [Demystifying Kubernetes Observability with Generative AI and LLMs](https://logz.io/blog/demystifying-kubernetes-observability-gen-ai-llm/)
+- [Mechanical energy absorbing efficiency discovered](https://www.nature.com/articles/s41467-024-48534-4)
+- [Affinity 2.5 adds key new tools and world-leading optimisation for Windows users](https://affinityspotlight.com/article/affinity-25-adds-key-new-tools-and-world-leading-optimisation-for-windows-users/)
+- [Vertical Axis Wind Turbines Redefined by Machine Learning](https://oilprice.com/Alternative-Energy/Wind-Power/Game-Changing-Research-Unlocks-New-Wind-Energy-Potential.html)
+- [OpenAI Leaders Address Staff Concerns over Equity, Johansson](https://www.bloomberg.com/news/articles/2024-05-24/altman-and-openai-leaders-address-staff-concerns-over-equity-scarlett-johansson)
+- [NASA defends Artemis cost and schedule amid planning of possible changes](https://spacenews.com/nasa-defends-artemis-cost-and-schedule-amid-planning-of-possible-changes/)
+- [Songs of Insects: Cicadas](https://songsofinsects.com/cicadas)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

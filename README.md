@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [China testing ability to ‘seize power’ in second day of military drills around Taiwan](https://www.theguardian.com/world/article/2024/may/24/china-military-drills-drills-seize-power-taiwan-president-inauguration)
-- [What should kids be taught about sex and relationships?](https://www.theguardian.com/news/audio/2024/may/24/kids-schools-sex-relationships-today-in-focus-podcast)
-- [Ukraine war briefing: US-supplied glide bombs struggle against Russian jamming](https://www.theguardian.com/world/article/2024/may/24/ukraine-war-briefing-us-supplied-glide-bombs-struggle-against-russian-jamming)
-- [Tech titan Mike Lynch testifies at fraud trial that Autonomy was ‘not perfect’](https://www.theguardian.com/business/article/2024/may/23/mike-lynch-fraud-trial)
-- [George Harrison’s childhood home in Liverpool gets blue plaque](https://www.theguardian.com/music/article/2024/may/24/george-harrison-childhood-home-liverpool-blue-plaque-beatles)
-- [Short measuring costs average UK drinker £115 a year, study finds](https://www.theguardian.com/money/article/2024/may/24/short-measuring-wine-beer-costs-uk-drinkers-115-a-year-each-trading-standards-says)
-- [Romeo &amp; Juliet review – Tom Holland enters to whoops as Francesca Amewudah-Rivers shows a steely cool](https://www.theguardian.com/stage/article/2024/may/23/romeo-juliet-review-tom-holland-spider-man-francesca-amewudah-rivers)
-- [Luke Littler blasts Luke Humphries away to win Premier League Darts title](https://www.theguardian.com/sport/article/2024/may/23/luke-littler-luke-humphries-premier-league-darts-final)
-- [Wayne Rooney is Plymouth’s top target for vacant manager’s job](https://www.theguardian.com/football/article/2024/may/23/wayne-rooney-expected-to-hold-talks-with-plymouth-over-vacant-manager-job)
-- [Building collapses at Mallorca beach killing at least four and injuring 21](https://www.theguardian.com/world/article/2024/may/23/building-collapses-on-to-beach-in-mallorca-causing-deaths-and-injuries-to-at-least-dozen-people)
+- [RFK Jr attacks Trump and Biden as he makes 2024 pitch to Libertarian voters](https://www.theguardian.com/us-news/article/2024/may/24/rfk-jr-biden-trump-libertarian-convention)
+- [Singer Sean Kingston and his mother charged for over $1m fraud](https://www.theguardian.com/us-news/article/2024/may/24/sean-kingston-charged-fraud)
+- [‘Freedom flotilla’: the Australians hoping to set sail and deliver aid to the people of Gaza](https://www.theguardian.com/world/article/2024/may/25/breaking-the-blockade-the-australians-risking-arrest-and-their-lives-to-help-the-people-of-gaza)
+- [Uvalde families sue Instagram and Call of Duty maker over deadly school attack](https://www.theguardian.com/us-news/article/2024/may/24/uvalde-school-shooting-instagram-call-of-duty)
+- [MPs urge under-16s UK smartphone ban and statutory ban in schools](https://www.theguardian.com/technology/article/2024/may/25/mps-urge-under-16s-smartphone-ban-statutory-ban-schools)
+- [Bluets review – Maggie Nelson’s blue riffs become left-field cine-theatre](https://www.theguardian.com/stage/article/2024/may/24/bluets-review-maggie-nelsons-blue-riffs-become-left-field-cine-theatre)
+- [Louisiana governor signs law classifying abortion pills as dangerous substances](https://www.theguardian.com/us-news/article/2024/may/24/louisiana-abortion-pills-dangerous-substances)
+- [The Nevermets review – online couples meet for the first time … and the results are bleak](https://www.theguardian.com/tv-and-radio/article/2024/may/24/the-nevermets-review-online-couples-meet-for-the-first-time-and-the-results-are-bleak)
+- [Lloyd Austin to underwent new hospital treatment for bladder problem](https://www.theguardian.com/us-news/article/2024/may/24/lloyd-austin-hospital-treatment-bladder)
+- [Royal Mail owner warns Czech billionaire’s offer could create risk around finances](https://www.theguardian.com/business/article/2024/may/24/royal-mail-owner-warns-offer-from-czech-billionaire-risks-companys-future)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

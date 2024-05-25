@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Binarize CLIP for Multimodal Applications](https://www.marqo.ai/blog/learn-to-binarize-clip-for-multimodal-retrieval-and-ranking)
-- [Your idea to MVP in 20 days](https://www.mvpcat.com/)
-- [Indian stock market inflated by mutual fund managers](https://www.cnbc.com/2024/05/23/cnbcs-inside-india-newsletter-the-secret-of-the-stock-market-rally.html)
-- [Demystifying Kubernetes Observability with Generative AI and LLMs](https://logz.io/blog/demystifying-kubernetes-observability-gen-ai-llm/)
-- [Mechanical energy absorbing efficiency discovered](https://www.nature.com/articles/s41467-024-48534-4)
-- [Affinity 2.5 adds key new tools and world-leading optimisation for Windows users](https://affinityspotlight.com/article/affinity-25-adds-key-new-tools-and-world-leading-optimisation-for-windows-users/)
-- [Vertical Axis Wind Turbines Redefined by Machine Learning](https://oilprice.com/Alternative-Energy/Wind-Power/Game-Changing-Research-Unlocks-New-Wind-Energy-Potential.html)
-- [OpenAI Leaders Address Staff Concerns over Equity, Johansson](https://www.bloomberg.com/news/articles/2024-05-24/altman-and-openai-leaders-address-staff-concerns-over-equity-scarlett-johansson)
-- [NASA defends Artemis cost and schedule amid planning of possible changes](https://spacenews.com/nasa-defends-artemis-cost-and-schedule-amid-planning-of-possible-changes/)
-- [Songs of Insects: Cicadas](https://songsofinsects.com/cicadas)
+- [JetBrains releases RustRover IDE for Rust development](https://www.infoworld.com/article/3715317/jetbrains-releases-rustrover-ide-for-rust-development.html)
+- [AlmaLinux OS – Samba File Server](https://blog.while-true-do.io/almalinux-os-samba-file-server/)
+- [ICQ, One of the Oldest Instant Messengers, Is Shutting Down](https://www.pcmag.com/news/icq-one-of-the-oldest-instant-messengers-is-shutting-down)
+- [Major robotaxi firms face federal safety investigations after crashes](https://www.washingtonpost.com/business/2024/05/24/all-major-robotaxi-firms-are-facing-federal-safety-investigations/)
+- [LMG &lpar;Linus Tech Tips&#39;s company&rpar; releases outcome of third party investigation](https://twitter.com/LinusTech/status/1793428629378208057)
+- [Google Search&#39;s &quot;udm=14&quot; trick lets you kill AI search](https://arstechnica.com/gadgets/2024/05/google-searchs-udm14-trick-lets-you-kill-ai-search-for-good/)
+- [Show HN: Xr0 is a Static Debugger for C](https://xr0.dev/debug)
+- [Show HN: Comparative Semantic search for Indian Constitution and parliament](https://constitutional.observer)
+- [How to become a great web back end engineer?](https://news.ycombinator.com/item?id=40472034)
+- [Unleashed Chat](https://unleashed.chat/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

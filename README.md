@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Binarize CLIP for Multimodal Applications](https://www.marqo.ai/blog/learn-to-binarize-clip-for-multimodal-retrieval-and-ranking)
-- [Dehydration associated with poorer performance on attention tasks among adults](https://onlinelibrary.wiley.com/doi/10.1002/ajhb.24051)
-- [CSharpRepl: C# REPL with syntax highlighting and intellisense](https://fuqua.io/CSharpRepl/)
-- [Checkr &lpar;YC S14&rpar; is hiring a staff software engineer for Checkr Pay](https://www.ycombinator.com/companies/checkr/jobs/ixzdle1-staff-software-engineer-checkr-pay)
-- [Show HN: Open-source real time data framework for LLM applications](https://getindexify.ai)
-- [US Army researched the health effects of radioactivity in St Louis 1945-1970 &lpar;2011&rpar;](https://mospace.umsystem.edu/xmlui/handle/10355/13170)
-- [Act on Press](https://twitter.com/ID_AA_Carmack/status/1787850053912064005)
-- [Cement recycling method could help solve one of the big climate challenges](https://www.cam.ac.uk/stories/cement-recycling)
-- [Show HN: Porter Cloud – PaaS with an eject button](https://news.ycombinator.com/item?id=40456959)
-- [Daylight Computer – New 60fps e-paper tablet](https://daylightcomputer.com/product)
+- [How massive, feral goldfish are threatening the Great Lakes ecosystem [video]](https://www.pbs.org/newshour/show/how-massive-feral-goldfish-are-threatening-the-great-lakes-ecosystem)
+- [Byuu.org – Depression](https://archive.fo/2014.12.18-152806/https://byuu.org/)
+- [ICQ messenger shuts down after almost 28 years](https://www.bleepingcomputer.com/news/software/icq-messenger-shuts-down-after-almost-28-years/)
+- [Freshpaint &lpar;YC S19&rpar; is hiring software engineers to protect patient privacy](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
+- [Guys what is wrong with ACATS](https://www.bitsaboutmoney.com/archive/how-acats-transfers-work/)
+- [Show HN: Spot – Simple, cross-platform, reactive desktop GUI toolkit for Go](https://github.com/roblillack/spot)
+- [Mp3tag – The Universal Tag Editor](https://www.mp3tag.de/en/)
+- [Financial Statement Analysis with Large Language Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4835311)
+- [ICQ will stop working from June 26](https://icq.com/desktop/en#windows)
+- [Writing a Unix clone in about a month](https://drewdevault.com/2024/05/24/2024-05-24-Bunnix.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

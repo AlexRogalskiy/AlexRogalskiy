@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [JetBrains releases RustRover IDE for Rust development](https://www.infoworld.com/article/3715317/jetbrains-releases-rustrover-ide-for-rust-development.html)
-- [AlmaLinux OS – Samba File Server](https://blog.while-true-do.io/almalinux-os-samba-file-server/)
-- [ICQ, One of the Oldest Instant Messengers, Is Shutting Down](https://www.pcmag.com/news/icq-one-of-the-oldest-instant-messengers-is-shutting-down)
-- [Major robotaxi firms face federal safety investigations after crashes](https://www.washingtonpost.com/business/2024/05/24/all-major-robotaxi-firms-are-facing-federal-safety-investigations/)
-- [LMG &lpar;Linus Tech Tips&#39;s company&rpar; releases outcome of third party investigation](https://twitter.com/LinusTech/status/1793428629378208057)
-- [Google Search&#39;s &quot;udm=14&quot; trick lets you kill AI search](https://arstechnica.com/gadgets/2024/05/google-searchs-udm14-trick-lets-you-kill-ai-search-for-good/)
-- [Show HN: Xr0 is a Static Debugger for C](https://xr0.dev/debug)
-- [Show HN: Comparative Semantic search for Indian Constitution and parliament](https://constitutional.observer)
-- [How to become a great web back end engineer?](https://news.ycombinator.com/item?id=40472034)
-- [Unleashed Chat](https://unleashed.chat/)
+- [Use touch id to enable sudo](https://superuser.run)
+- [Samsa Needs Help](https://issues.apache.org/jira/browse/KAFKA-14180)
+- [NHTSA Finds More Waymo Incidents Than Initially Reported](https://carbuzz.com/nhtsa-finds-more-waymo-incidents/)
+- [The Algorithm Behind Jim Simons&#39;s Success](https://alchemy.substack.com/p/the-algorithm-behind-jim-simonss)
+- [Brickit App Suggests Lego Builds Using AI](https://brickit.app/)
+- [Icing the Musical Cake &lpar;Bach Chorale Analysis&rpar;[video]](https://www.youtube.com/watch?v=piGJtgIZ2m4)
+- [Grips](https://gripsintelligence.com/)
+- [Sturppy](https://www.sturppy.com/)
+- [What&#39;s better for the climate: A paper book, or an e-reader?](https://www.npr.org/2024/05/25/1252930557/book-e-reader-kindle-climate)
+- [Discover the Wildlife of Queen Elizabeth National Park in 3 Days Price from $860](https://www.pertourmarket.com/forum/safari-details/3-day-queen-elizabeth-national-park-midrange-tour)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

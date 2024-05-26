@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [RFK Jr attacks Trump and Biden as he makes 2024 pitch to Libertarian voters](https://www.theguardian.com/us-news/article/2024/may/24/rfk-jr-biden-trump-libertarian-convention)
-- [Singer Sean Kingston and his mother charged for over $1m fraud](https://www.theguardian.com/us-news/article/2024/may/24/sean-kingston-charged-fraud)
-- [‘Freedom flotilla’: the Australians hoping to set sail and deliver aid to the people of Gaza](https://www.theguardian.com/world/article/2024/may/25/breaking-the-blockade-the-australians-risking-arrest-and-their-lives-to-help-the-people-of-gaza)
-- [Uvalde families sue Instagram and Call of Duty maker over deadly school attack](https://www.theguardian.com/us-news/article/2024/may/24/uvalde-school-shooting-instagram-call-of-duty)
-- [MPs urge under-16s UK smartphone ban and statutory ban in schools](https://www.theguardian.com/technology/article/2024/may/25/mps-urge-under-16s-smartphone-ban-statutory-ban-schools)
-- [Bluets review – Maggie Nelson’s blue riffs become left-field cine-theatre](https://www.theguardian.com/stage/article/2024/may/24/bluets-review-maggie-nelsons-blue-riffs-become-left-field-cine-theatre)
-- [Louisiana governor signs law classifying abortion pills as dangerous substances](https://www.theguardian.com/us-news/article/2024/may/24/louisiana-abortion-pills-dangerous-substances)
-- [The Nevermets review – online couples meet for the first time … and the results are bleak](https://www.theguardian.com/tv-and-radio/article/2024/may/24/the-nevermets-review-online-couples-meet-for-the-first-time-and-the-results-are-bleak)
-- [Lloyd Austin to underwent new hospital treatment for bladder problem](https://www.theguardian.com/us-news/article/2024/may/24/lloyd-austin-hospital-treatment-bladder)
-- [Royal Mail owner warns Czech billionaire’s offer could create risk around finances](https://www.theguardian.com/business/article/2024/may/24/royal-mail-owner-warns-offer-from-czech-billionaire-risks-companys-future)
+- [‘Robbed tonight by a bad referee’: Harry Kewell’s ACL dream crushed](https://www.theguardian.com/football/article/2024/may/26/robbed-tonight-by-a-bad-referee-harry-kewells-acl-dream-crushed)
+- [Richard Sherman, songwriter for Mary Poppins and The Jungle Book, dies aged 95](https://www.theguardian.com/music/article/2024/may/26/richard-sherman-songwriter-for-mary-poppins-and-the-jungle-book-dies-aged-95)
+- [Josh Kerr beats 39-year-old British mile record and rival Ingebrigtsen in Eugene](https://www.theguardian.com/sport/article/2024/may/25/pre-classic-results-eugene-josh-kerr-jakob-ingebrigtsen)
+- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2024/may/25/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Get ready for summer: 12 new-season wardrobe essentials – in pictures](https://www.theguardian.com/fashion/gallery/2024/may/25/get-ready-for-summer-12-new-season-wardrobe-essentials-in-pictures)
+- [Sunak promises to bring back national service for 18-year-olds](https://www.theguardian.com/politics/article/2024/may/25/sunak-promises-to-bring-back-national-service-for-18-year-olds)
+- [US president warns new army officers to be ‘guardians of American democracy’](https://www.theguardian.com/us-news/article/2024/may/25/biden-west-point-commencement)
+- [Teenager, 17, arrested over fatal stabbing of 16-year-old boy in London](https://www.theguardian.com/uk-news/article/2024/may/25/teenager-17-arrested-over-fatal-stabbing-of-boy-16-in-london)
+- [Just Stop Oil ‘alienates people’ from its cause, says Ed Miliband](https://www.theguardian.com/politics/article/2024/may/25/just-stop-oil-alienates-people-from-its-cause-says-ed-miliband)
+- [Anora is a vivacious Cannes victor and a fitting end to a radically romantic festival](https://www.theguardian.com/film/article/2024/may/25/anora-is-a-vivacious-cannes-victor-and-a-fitting-end-to-a-radically-romantic-festival)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

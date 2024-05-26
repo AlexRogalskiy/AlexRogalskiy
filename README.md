@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [How massive, feral goldfish are threatening the Great Lakes ecosystem [video]](https://www.pbs.org/newshour/show/how-massive-feral-goldfish-are-threatening-the-great-lakes-ecosystem)
-- [Byuu.org – Depression](https://archive.fo/2014.12.18-152806/https://byuu.org/)
-- [ICQ messenger shuts down after almost 28 years](https://www.bleepingcomputer.com/news/software/icq-messenger-shuts-down-after-almost-28-years/)
-- [Freshpaint &lpar;YC S19&rpar; is hiring software engineers to protect patient privacy](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
-- [Guys what is wrong with ACATS](https://www.bitsaboutmoney.com/archive/how-acats-transfers-work/)
-- [Show HN: Spot – Simple, cross-platform, reactive desktop GUI toolkit for Go](https://github.com/roblillack/spot)
-- [Mp3tag – The Universal Tag Editor](https://www.mp3tag.de/en/)
-- [Financial Statement Analysis with Large Language Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4835311)
-- [ICQ will stop working from June 26](https://icq.com/desktop/en#windows)
-- [Writing a Unix clone in about a month](https://drewdevault.com/2024/05/24/2024-05-24-Bunnix.html)
+- [GRC SpinRite](https://computer.rip/2024-05-25-grc-spinrite.html)
+- [&#39;I was misidentified as shoplifter by facial recognition tech&#39;](https://www.bbc.com/news/technology-69055945)
+- [Startup is about to install bladeless rooftop wind turbines on box buildings](https://electrek.co/2024/05/24/bladeless-rooftop-wind-turbines-box-buildings/)
+- [Zellij: A terminal workspace with batteries included](https://zellij.dev/)
+- [Fathom AI Notetaker &lpar;YC W21&rpar; Is Hiring Full-Stack Engineers &lpar;Remote&rpar;](https://www.ycombinator.com/companies/fathom/jobs/OVTRjXb-full-stack-engineer-remote)
+- [Majorana, the search for the most elusive neutrino of all](https://newscenter.lbl.gov/2012/05/16/majorana-demonstrator/)
+- [Taming floating-point sums](https://orlp.net/blog/taming-float-sums/)
+- [Rootless Docker in a multi-user environment](https://www.cmtops.dev/posts/rootless-docker-in-multiuser-environment/)
+- [Why is x &amp; -x equal to the largest power of 2 that divides x?](https://arunmani.in/articles/highest-two-power-to-divide-a-number/)
+- [Goodix Fingerprint Drivers for Linux &lpar;Or at Least Debian&rpar;](https://github.com/tcsenpai/goodix-debian-linux-drivers-fingerprint-by-dell)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [GRC SpinRite](https://computer.rip/2024-05-25-grc-spinrite.html)
-- [&#39;I was misidentified as shoplifter by facial recognition tech&#39;](https://www.bbc.com/news/technology-69055945)
-- [Startup is about to install bladeless rooftop wind turbines on box buildings](https://electrek.co/2024/05/24/bladeless-rooftop-wind-turbines-box-buildings/)
-- [Zellij: A terminal workspace with batteries included](https://zellij.dev/)
-- [Fathom AI Notetaker &lpar;YC W21&rpar; Is Hiring Full-Stack Engineers &lpar;Remote&rpar;](https://www.ycombinator.com/companies/fathom/jobs/OVTRjXb-full-stack-engineer-remote)
-- [Majorana, the search for the most elusive neutrino of all](https://newscenter.lbl.gov/2012/05/16/majorana-demonstrator/)
-- [Taming floating-point sums](https://orlp.net/blog/taming-float-sums/)
-- [Rootless Docker in a multi-user environment](https://www.cmtops.dev/posts/rootless-docker-in-multiuser-environment/)
-- [Why is x &amp; -x equal to the largest power of 2 that divides x?](https://arunmani.in/articles/highest-two-power-to-divide-a-number/)
-- [Goodix Fingerprint Drivers for Linux &lpar;Or at Least Debian&rpar;](https://github.com/tcsenpai/goodix-debian-linux-drivers-fingerprint-by-dell)
+- [Nocobase, on prem Notion for creating production-ready apps](https://github.com/nocobase/nocobase)
+- [Git cheat sheet [pdf]](https://wizardzines.com/git-cheat-sheet.pdf)
+- [Artificial intelligence and the skill premium](https://www.nber.org/papers/w32430)
+- [The t-test was invented at the Guinness brewery](https://www.scientificamerican.com/article/how-the-guinness-brewery-invented-the-most-important-statistical-method-in/)
+- [The one-year anniversary of my total glossectomy](https://jakeseliger.com/2024/05/25/the-one-year-anniversary-of-my-total-glossectomy/)
+- [FILE_ID.DIZ Description &lpar;1994&rpar;](http://pcmicro.com/getdiz/file_id.html)
+- [Old dogs, new CSS tricks](https://mxb.dev/blog/old-dogs-new-css-tricks/)
+- [What the damaged Svalbard cable looked like](https://www.nrk.no/tromsogfinnmark/this-is-what-the-damaged-svalbard-cable-looked-like-when-it-came-up-from-the-depths-1.16895904)
+- [Milk watcher](https://en.wikipedia.org/wiki/Milk_watcher)
+- [The CompCert C Compiler](https://compcert.org/compcert-C.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

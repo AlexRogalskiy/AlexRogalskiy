@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Use touch id to enable sudo](https://superuser.run)
-- [Samsa Needs Help](https://issues.apache.org/jira/browse/KAFKA-14180)
-- [NHTSA Finds More Waymo Incidents Than Initially Reported](https://carbuzz.com/nhtsa-finds-more-waymo-incidents/)
-- [The Algorithm Behind Jim Simons&#39;s Success](https://alchemy.substack.com/p/the-algorithm-behind-jim-simonss)
-- [Brickit App Suggests Lego Builds Using AI](https://brickit.app/)
-- [Icing the Musical Cake &lpar;Bach Chorale Analysis&rpar;[video]](https://www.youtube.com/watch?v=piGJtgIZ2m4)
-- [Grips](https://gripsintelligence.com/)
-- [Sturppy](https://www.sturppy.com/)
-- [What&#39;s better for the climate: A paper book, or an e-reader?](https://www.npr.org/2024/05/25/1252930557/book-e-reader-kindle-climate)
-- [Discover the Wildlife of Queen Elizabeth National Park in 3 Days Price from $860](https://www.pertourmarket.com/forum/safari-details/3-day-queen-elizabeth-national-park-midrange-tour)
+- [Helix: A post-modern text editor](https://helix-editor.com/)
+- [Stop looking for a business partner – your employee is right in front of you](https://old.reddit.com/r/SaaS/comments/1d1dztp/stop_looking_for_a_cofounder_you_already_have_an/)
+- [Lecturing Birds on How to Fly &lpar;The Feds Want in on AI&rpar;](https://albertcory50.substack.com/p/lecturing-birds-on-how-to-fly)
+- [Joy Triggers: How to Find Happiness on Demand](https://nesslabs.com/joy-triggers)
+- [Swabai: Wrapper for the Sway/i3/Yabai tiling window managers](https://github.com/sebastiancarlos/swabai)
+- [PcTattletale leaks victims&#39; screen recordings to entire Internet](https://www.ericdaigle.ca/pctattletale-leaking-screen-captures/)
+- [Turbulence Forecasting](https://turbli.com)
+- [Ask HN: What are some good laptops for everyday development in 2024](https://news.ycombinator.com/item?id=40486971)
+- [Abelisauroid, a dinosaur with tiny arms, identified in Argentina](https://phys.org/news/2024-05-abelisauroid-dinosaur-tiny-arms-argentina.html)
+- [Created a Bitly-like, stats-enabled URL shortener using Cloudflare](https://github.com/ccbikai/Sink)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

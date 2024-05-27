@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [‘Robbed tonight by a bad referee’: Harry Kewell’s ACL dream crushed](https://www.theguardian.com/football/article/2024/may/26/robbed-tonight-by-a-bad-referee-harry-kewells-acl-dream-crushed)
-- [Richard Sherman, songwriter for Mary Poppins and The Jungle Book, dies aged 95](https://www.theguardian.com/music/article/2024/may/26/richard-sherman-songwriter-for-mary-poppins-and-the-jungle-book-dies-aged-95)
-- [Josh Kerr beats 39-year-old British mile record and rival Ingebrigtsen in Eugene](https://www.theguardian.com/sport/article/2024/may/25/pre-classic-results-eugene-josh-kerr-jakob-ingebrigtsen)
-- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2024/may/25/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Get ready for summer: 12 new-season wardrobe essentials – in pictures](https://www.theguardian.com/fashion/gallery/2024/may/25/get-ready-for-summer-12-new-season-wardrobe-essentials-in-pictures)
-- [Sunak promises to bring back national service for 18-year-olds](https://www.theguardian.com/politics/article/2024/may/25/sunak-promises-to-bring-back-national-service-for-18-year-olds)
-- [US president warns new army officers to be ‘guardians of American democracy’](https://www.theguardian.com/us-news/article/2024/may/25/biden-west-point-commencement)
-- [Teenager, 17, arrested over fatal stabbing of 16-year-old boy in London](https://www.theguardian.com/uk-news/article/2024/may/25/teenager-17-arrested-over-fatal-stabbing-of-boy-16-in-london)
-- [Just Stop Oil ‘alienates people’ from its cause, says Ed Miliband](https://www.theguardian.com/politics/article/2024/may/25/just-stop-oil-alienates-people-from-its-cause-says-ed-miliband)
-- [Anora is a vivacious Cannes victor and a fitting end to a radically romantic festival](https://www.theguardian.com/film/article/2024/may/25/anora-is-a-vivacious-cannes-victor-and-a-fitting-end-to-a-radically-romantic-festival)
+- [Damien Hirst and the dates that don’t add up - podcast](https://www.theguardian.com/news/audio/2024/may/27/damien-hirst-and-the-dates-that-dont-add-up-podcast)
+- [Ukraine war briefing: Death toll from Russian strikes on Kharkiv DIY store rises to 16](https://www.theguardian.com/world/article/2024/may/27/ukraine-war-briefing-death-toll-from-russian-strikes-on-kharkiv-diy-store-rises-to-16)
+- [Much ado about nothing: world’s most relaxed people gather in Seoul for ‘space-out’ competition](https://www.theguardian.com/world/article/2024/may/27/seoul-international-space-out-competition-south-korea)
+- [Rates of melanoma skin cancer hit all-time high in UK, study finds](https://www.theguardian.com/society/article/2024/may/27/rates-melanoma-skin-cancer-research-uk-figures-study)
+- [More than 300m children victims of online sexual abuse every year](https://www.theguardian.com/society/article/2024/may/27/more-than-300m-children-victims-of-online-sexual-abuse-every-year)
+- [House price growth in rural areas outstrips towns in Great Britain](https://www.theguardian.com/money/article/2024/may/27/house-price-growth-in-rural-areas-outstrips-towns-in-great-britain)
+- [Andy Murray beaten by Stan Wawrinka on possible French Open swansong](https://www.theguardian.com/sport/article/2024/may/26/jack-draper-knocked-out-of-french-open-by-qualifier-de-jong)
+- [Family infected with parasitic worms in US after eating bear meat, CDC says](https://www.theguardian.com/world/article/2024/may/26/people-infected-bear-meat-parasitic-worms-trichinellosis)
+- [Israeli airstrike kills 35 in Rafah after Hamas launches rockets at Tel Aviv](https://www.theguardian.com/world/article/2024/may/26/hamas-rocket-attack-tel-aviv-israel-gaza)
+- [Starmer to say he’s ‘changed’ Labour as party rules out raising income tax or NI](https://www.theguardian.com/politics/article/2024/may/26/starmer-to-say-hes-changed-labour-as-party-rules-out-raising-income-tax-or-ni)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

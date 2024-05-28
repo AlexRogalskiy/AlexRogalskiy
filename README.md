@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Damien Hirst and the dates that don’t add up - podcast](https://www.theguardian.com/news/audio/2024/may/27/damien-hirst-and-the-dates-that-dont-add-up-podcast)
-- [Ukraine war briefing: Death toll from Russian strikes on Kharkiv DIY store rises to 16](https://www.theguardian.com/world/article/2024/may/27/ukraine-war-briefing-death-toll-from-russian-strikes-on-kharkiv-diy-store-rises-to-16)
-- [Much ado about nothing: world’s most relaxed people gather in Seoul for ‘space-out’ competition](https://www.theguardian.com/world/article/2024/may/27/seoul-international-space-out-competition-south-korea)
-- [Rates of melanoma skin cancer hit all-time high in UK, study finds](https://www.theguardian.com/society/article/2024/may/27/rates-melanoma-skin-cancer-research-uk-figures-study)
-- [More than 300m children victims of online sexual abuse every year](https://www.theguardian.com/society/article/2024/may/27/more-than-300m-children-victims-of-online-sexual-abuse-every-year)
-- [House price growth in rural areas outstrips towns in Great Britain](https://www.theguardian.com/money/article/2024/may/27/house-price-growth-in-rural-areas-outstrips-towns-in-great-britain)
-- [Andy Murray beaten by Stan Wawrinka on possible French Open swansong](https://www.theguardian.com/sport/article/2024/may/26/jack-draper-knocked-out-of-french-open-by-qualifier-de-jong)
-- [Family infected with parasitic worms in US after eating bear meat, CDC says](https://www.theguardian.com/world/article/2024/may/26/people-infected-bear-meat-parasitic-worms-trichinellosis)
-- [Israeli airstrike kills 35 in Rafah after Hamas launches rockets at Tel Aviv](https://www.theguardian.com/world/article/2024/may/26/hamas-rocket-attack-tel-aviv-israel-gaza)
-- [Starmer to say he’s ‘changed’ Labour as party rules out raising income tax or NI](https://www.theguardian.com/politics/article/2024/may/26/starmer-to-say-hes-changed-labour-as-party-rules-out-raising-income-tax-or-ni)
+- [Police deploy divers and dog in search for mother and baby after evidence of birth found on Sydney riverbank](https://www.theguardian.com/australia-news/article/2024/may/28/police-search-for-mother-and-child-after-evidence-of-human-birth-found-on-sydney-riverbank)
+- [How Ozempic is re-shaping the US](https://www.theguardian.com/news/audio/2024/may/28/how-ozempic-is-re-shaping-the-us)
+- [Papua New Guinea: satellite images reveal scale of landslide as rescuers face ‘grim’ scenes](https://www.theguardian.com/world/article/2024/may/28/papua-new-guinea-landslide-satellite-images-death-toll-rescues)
+- [North Korea spy satellite explodes in flight as latest launch fails](https://www.theguardian.com/world/article/2024/may/28/north-korea-spy-satellite-explodes-in-flight-as-latest-launch-fails)
+- [What causes turbulence on flights and which routes around the world are most affected?](https://www.theguardian.com/business/article/2024/may/27/what-causes-turbulence-on-flights-and-which-routes-around-the-world-are-most-affected)
+- [Inflation in UK shops falls amid price cuts on furniture and TVs](https://www.theguardian.com/business/article/2024/may/28/inflation-uk-shops-price-cuts-furniture-tvs)
+- [Pope Francis allegedly used offensive slur during discussion about gay men](https://www.theguardian.com/world/article/2024/may/27/pope-francis-allegedly-used-offensive-slur-during-discussion-about-gay-men)
+- [Sunak struggles to control Tory party on chaotic fifth day of election campaign](https://www.theguardian.com/politics/article/2024/may/27/sunak-struggles-to-control-tory-party-on-chaotic-fifth-day-of-election-campaign)
+- [Rachel Reeves will vow to lead most ‘pro-growth’ Treasury in UK history](https://www.theguardian.com/business/article/2024/may/27/rachel-reeves-pro-growth-treasury-uk-labour)
+- [Kill Zone: Inside Gaza review – heartbreaking human stories within the carnage and chaos](https://www.theguardian.com/tv-and-radio/article/2024/may/27/kill-zone-inside-gaza-review-heartbreaking-human-stories-within-the-carnage-and-chaos)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

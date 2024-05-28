@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Helix: A post-modern text editor](https://helix-editor.com/)
-- [Stop looking for a business partner – your employee is right in front of you](https://old.reddit.com/r/SaaS/comments/1d1dztp/stop_looking_for_a_cofounder_you_already_have_an/)
-- [Lecturing Birds on How to Fly &lpar;The Feds Want in on AI&rpar;](https://albertcory50.substack.com/p/lecturing-birds-on-how-to-fly)
-- [Joy Triggers: How to Find Happiness on Demand](https://nesslabs.com/joy-triggers)
-- [Swabai: Wrapper for the Sway/i3/Yabai tiling window managers](https://github.com/sebastiancarlos/swabai)
-- [PcTattletale leaks victims&#39; screen recordings to entire Internet](https://www.ericdaigle.ca/pctattletale-leaking-screen-captures/)
-- [Turbulence Forecasting](https://turbli.com)
-- [Ask HN: What are some good laptops for everyday development in 2024](https://news.ycombinator.com/item?id=40486971)
-- [Abelisauroid, a dinosaur with tiny arms, identified in Argentina](https://phys.org/news/2024-05-abelisauroid-dinosaur-tiny-arms-argentina.html)
-- [Created a Bitly-like, stats-enabled URL shortener using Cloudflare](https://github.com/ccbikai/Sink)
+- [The Future of [Jetbrains] Space](https://blog.jetbrains.com/space/2024/05/27/the-future-of-space/)
+- [The WTF-8 Encoding &lpar;2015&rpar;](https://simonsapin.github.io/wtf-8/)
+- [Phanalist: Easy to use, Performant static analyzer for PHP](https://github.com/denzyldick/phanalist)
+- [Beach erosion will make Southern Cal. coastal living 5* more expensive by 2050](https://phys.org/news/2024-05-beach-erosion-southern-california-coastal.html)
+- [La Niña is coming, raising the chances of a dangerous Atlantic hurricane season](https://phys.org/news/2024-05-la-nia-chances-dangerous-atlantic.html)
+- [JWT Tokens vs. Session Tokens](https://oguzkurukaya.medium.com/jwt-tokens-vs-session-tokens-06903e25c84d)
+- [Genes provide hope for the survival of Arabia&#39;s last big cat](https://phys.org/news/2024-05-genes-survival-arabia-big-cat.html)
+- [Face Dance – Animation Player](https://face.dance/player/fbA3a)
+- [Birth of universe&#39;s earliest galaxies observed for first time](https://phys.org/news/2024-05-birth-universe-earliest-galaxies.html)
+- [Ancient Mycenaean armor tested by Marines – suitable for extended combat](https://phys.org/news/2024-05-ancient-mycenaean-armor-marines-pronounced.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

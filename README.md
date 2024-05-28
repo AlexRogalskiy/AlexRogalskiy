@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Nocobase, on prem Notion for creating production-ready apps](https://github.com/nocobase/nocobase)
-- [Git cheat sheet [pdf]](https://wizardzines.com/git-cheat-sheet.pdf)
-- [Artificial intelligence and the skill premium](https://www.nber.org/papers/w32430)
-- [The t-test was invented at the Guinness brewery](https://www.scientificamerican.com/article/how-the-guinness-brewery-invented-the-most-important-statistical-method-in/)
-- [The one-year anniversary of my total glossectomy](https://jakeseliger.com/2024/05/25/the-one-year-anniversary-of-my-total-glossectomy/)
-- [FILE_ID.DIZ Description &lpar;1994&rpar;](http://pcmicro.com/getdiz/file_id.html)
-- [Old dogs, new CSS tricks](https://mxb.dev/blog/old-dogs-new-css-tricks/)
-- [What the damaged Svalbard cable looked like](https://www.nrk.no/tromsogfinnmark/this-is-what-the-damaged-svalbard-cable-looked-like-when-it-came-up-from-the-depths-1.16895904)
-- [Milk watcher](https://en.wikipedia.org/wiki/Milk_watcher)
-- [The CompCert C Compiler](https://compcert.org/compcert-C.html)
+- [Truth, Math, and Models &lpar;Part 8 in a series on the scientific method&rpar;](http://blog.rongarret.info/)
+- [Grokked Transformers Are Implicit Reasoners](https://arxiv.org/abs/2405.15071)
+- [Regular Expression Matching with a Trigram Index &lpar;2012&rpar;](https://swtch.com/~rsc/regexp/regexp4.html)
+- [GTFL – A Graphical Terminal for Common Lisp](http://www.martin-loetzsch.de/gtfl/)
+- [More Itertools](https://more-itertools.readthedocs.io/en/stable/)
+- [Tantivy – full-text search engine library inspired by Apache Lucene](https://github.com/quickwit-oss/tantivy)
+- [Brainbase &lpar;YC W24&rpar; Is Hiring](https://www.ycombinator.com/companies/brainbase/jobs/UUoqH3y-head-of-operations)
+- [Controlling the Taylor Swift Eras Tour wristbands with Flipper Zero](https://blog.jgc.org/2024/05/controlling-taylor-swift-eras-tour.html)
+- [Helix-gpui: A simple GUI for the Helix editor](https://github.com/polachok/helix-gpui)
+- [The Internet Archive is under a DDoS attack](https://mastodon.archive.org/@internetarchive/112513905401989149)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

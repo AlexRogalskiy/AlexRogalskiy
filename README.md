@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Police deploy divers and dog in search for mother and baby after evidence of birth found on Sydney riverbank](https://www.theguardian.com/australia-news/article/2024/may/28/police-search-for-mother-and-child-after-evidence-of-human-birth-found-on-sydney-riverbank)
-- [How Ozempic is re-shaping the US](https://www.theguardian.com/news/audio/2024/may/28/how-ozempic-is-re-shaping-the-us)
-- [Papua New Guinea: satellite images reveal scale of landslide as rescuers face ‘grim’ scenes](https://www.theguardian.com/world/article/2024/may/28/papua-new-guinea-landslide-satellite-images-death-toll-rescues)
-- [North Korea spy satellite explodes in flight as latest launch fails](https://www.theguardian.com/world/article/2024/may/28/north-korea-spy-satellite-explodes-in-flight-as-latest-launch-fails)
-- [What causes turbulence on flights and which routes around the world are most affected?](https://www.theguardian.com/business/article/2024/may/27/what-causes-turbulence-on-flights-and-which-routes-around-the-world-are-most-affected)
-- [Inflation in UK shops falls amid price cuts on furniture and TVs](https://www.theguardian.com/business/article/2024/may/28/inflation-uk-shops-price-cuts-furniture-tvs)
-- [Pope Francis allegedly used offensive slur during discussion about gay men](https://www.theguardian.com/world/article/2024/may/27/pope-francis-allegedly-used-offensive-slur-during-discussion-about-gay-men)
-- [Sunak struggles to control Tory party on chaotic fifth day of election campaign](https://www.theguardian.com/politics/article/2024/may/27/sunak-struggles-to-control-tory-party-on-chaotic-fifth-day-of-election-campaign)
-- [Rachel Reeves will vow to lead most ‘pro-growth’ Treasury in UK history](https://www.theguardian.com/business/article/2024/may/27/rachel-reeves-pro-growth-treasury-uk-labour)
-- [Kill Zone: Inside Gaza review – heartbreaking human stories within the carnage and chaos](https://www.theguardian.com/tv-and-radio/article/2024/may/27/kill-zone-inside-gaza-review-heartbreaking-human-stories-within-the-carnage-and-chaos)
+- [Why is Sunak’s election campaign so chaotic? - podcast](https://www.theguardian.com/news/audio/2024/may/29/why-is-rishi-sunak-election-campaign-so-chaotic-podcast)
+- [Ukraine war briefing: Macron, Scholz agree Kyiv should use allies’ weapons against launchers in Russia](https://www.theguardian.com/world/article/2024/may/29/ukraine-war-briefing-macron-scholz-agree-kyiv-should-use-allies-weapons-against-launchers-in-russia)
+- [Boulter and Evans exits leave no British players standing at Roland Garros](https://www.theguardian.com/sport/article/2024/may/28/french-open-tennis-evans-boulter-cornet-ruud-sabalenka)
+- [Wild Rose: film about Glaswegian country singer to be turned into stage musical](https://www.theguardian.com/stage/article/2024/may/29/wild-rose-film-about-glaswegian-country-singer-to-be-turned-into-stage-musical)
+- [Hamlet review – one-woman juggling act exposes limits of Eddie Izzard’s acting ability](https://www.theguardian.com/stage/article/2024/may/28/hamlet-review-one-woman-juggling-act-exposes-limits-of-eddie-izzards-acting-ability)
+- [Jürgen Klopp drops City charges hint as he bids farewell to Liverpool](https://www.theguardian.com/football/article/2024/may/28/jurgen-klopp-drops-city-charges-hint-as-he-bids-farewell-to-liverpool)
+- [Prosecutors detail Donald Trump’s ‘corrupt bargain’ in closing arguments](https://www.theguardian.com/us-news/article/2024/may/28/donald-trump-hush-money-trial-closing-arguments)
+- [Ex-FTX executive gets over seven years for making illegal political donations](https://www.theguardian.com/technology/article/2024/may/28/ftx-executive-ryan-salame-sentenced-political-donations)
+- [My Sexual Abuse: The Sitcom review – an astonishing testament to comedy’s healing power](https://www.theguardian.com/tv-and-radio/article/2024/may/28/my-sexual-abuse-the-sitcom-review-an-astonishing-testament-to-comedys-healing-power)
+- [Labour pledges to clear NHS waiting list backlog in England in five years](https://www.theguardian.com/politics/article/2024/may/28/labour-pledges-to-clear-nhs-waiting-list-backlog-in-england-in-five-years)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Future of [Jetbrains] Space](https://blog.jetbrains.com/space/2024/05/27/the-future-of-space/)
-- [The WTF-8 Encoding &lpar;2015&rpar;](https://simonsapin.github.io/wtf-8/)
-- [Phanalist: Easy to use, Performant static analyzer for PHP](https://github.com/denzyldick/phanalist)
-- [Beach erosion will make Southern Cal. coastal living 5* more expensive by 2050](https://phys.org/news/2024-05-beach-erosion-southern-california-coastal.html)
-- [La Niña is coming, raising the chances of a dangerous Atlantic hurricane season](https://phys.org/news/2024-05-la-nia-chances-dangerous-atlantic.html)
-- [JWT Tokens vs. Session Tokens](https://oguzkurukaya.medium.com/jwt-tokens-vs-session-tokens-06903e25c84d)
-- [Genes provide hope for the survival of Arabia&#39;s last big cat](https://phys.org/news/2024-05-genes-survival-arabia-big-cat.html)
-- [Face Dance – Animation Player](https://face.dance/player/fbA3a)
-- [Birth of universe&#39;s earliest galaxies observed for first time](https://phys.org/news/2024-05-birth-universe-earliest-galaxies.html)
-- [Ancient Mycenaean armor tested by Marines – suitable for extended combat](https://phys.org/news/2024-05-ancient-mycenaean-armor-marines-pronounced.html)
+- [A GPT-4V Level Multimodal LLM on Your Phone](https://github.com/OpenBMB/MiniCPM-V)
+- [Unblocked Premium Games](https://yalogames.github.io/)
+- [Starlink is currently in a network outage](https://twitter.com/Starlink/status/1795636172972314730)
+- [Midnight Lizard: Browser extension with custom color schemes for all websites](https://midnight-lizard.org/)
+- [Platforms and Publishers: AI Partnership Tracker](https://petebrown.quarto.pub/pnp-ai-partnerships/)
+- [US investment firm seizes control of Inter after Chinese owners missed payment](https://www.theguardian.com/football/article/2024/may/22/us-investment-firm-seizes-control-of-inter-after-missed-payment-from-chinese-owners)
+- [Greenplum Database is archived on GitHub](https://news.ycombinator.com/item?id=40507691)
+- [The Future of Space](https://blog.jetbrains.com/space/2024/05/27/the-future-of-space/)
+- [Show HN: Prepair – fun mock interview challenge for software engineers](https://www.letsprepair.com/)
+- [Backrooms image was posted years earlier in 2011 [video]](https://www.youtube.com/watch?v=_Fbp0FBHiPs)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

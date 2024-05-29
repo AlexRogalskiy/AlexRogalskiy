@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Truth, Math, and Models &lpar;Part 8 in a series on the scientific method&rpar;](http://blog.rongarret.info/)
-- [Grokked Transformers Are Implicit Reasoners](https://arxiv.org/abs/2405.15071)
-- [Regular Expression Matching with a Trigram Index &lpar;2012&rpar;](https://swtch.com/~rsc/regexp/regexp4.html)
-- [GTFL – A Graphical Terminal for Common Lisp](http://www.martin-loetzsch.de/gtfl/)
-- [More Itertools](https://more-itertools.readthedocs.io/en/stable/)
-- [Tantivy – full-text search engine library inspired by Apache Lucene](https://github.com/quickwit-oss/tantivy)
-- [Brainbase &lpar;YC W24&rpar; Is Hiring](https://www.ycombinator.com/companies/brainbase/jobs/UUoqH3y-head-of-operations)
-- [Controlling the Taylor Swift Eras Tour wristbands with Flipper Zero](https://blog.jgc.org/2024/05/controlling-taylor-swift-eras-tour.html)
-- [Helix-gpui: A simple GUI for the Helix editor](https://github.com/polachok/helix-gpui)
-- [The Internet Archive is under a DDoS attack](https://mastodon.archive.org/@internetarchive/112513905401989149)
+- [Microsoft, Beihang release MoRA, an efficient LLM fine-tuning technique](https://venturebeat.com/ai/microsoft-beihang-release-mora-an-efficient-llm-fine-tuning-technique/)
+- [Show HN: Savvy – Create, Share and Run Runbooks from your Terminal](https://github.com/getsavvyinc/savvy-cli)
+- [Ask HN: Why do games companies not release source code for old games?](https://news.ycombinator.com/item?id=40506894)
+- [Ex-OpenAI board member reveals what led to Sam Altman&#39;s brief ousting](https://www.businessinsider.com/openai-board-member-details-sam-altman-lied-allegation-ousted-2024-5)
+- [Proposal to change default annotation processing policy in JDK 23](https://mail.openjdk.org/pipermail/jdk-dev/2024-May/009028.html)
+- [Electromagnetic Waves and Antennas &lpar;2016&rpar;](https://www.ece.rutgers.edu/~orfanidi/ewa/)
+- [Shadama: A particle simulation programming environment for everyone](https://tinlizzie.org/~ohshima/shadama2/live2017/)
+- [Eradicating N+1s: The Two-Phase Data Load and Render Pattern in Go](https://brandur.org/two-phase-render)
+- [Writing an NVMe Driver in Rust [pdf]](https://db.in.tum.de/~ellmann/theses/finished/24/pirhonen_writing_an_nvme_driver_in_rust.pdf)
+- [Llama 3-V: Matching GPT4-V with a 100x smaller model and 500 dollars](https://aksh-garg.medium.com/llama-3v-building-an-open-source-gpt-4v-competitor-in-under-500-7dd8f1f6c9ee)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

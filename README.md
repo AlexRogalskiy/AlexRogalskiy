@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [A GPT-4V Level Multimodal LLM on Your Phone](https://github.com/OpenBMB/MiniCPM-V)
-- [Unblocked Premium Games](https://yalogames.github.io/)
-- [Starlink is currently in a network outage](https://twitter.com/Starlink/status/1795636172972314730)
-- [Midnight Lizard: Browser extension with custom color schemes for all websites](https://midnight-lizard.org/)
-- [Platforms and Publishers: AI Partnership Tracker](https://petebrown.quarto.pub/pnp-ai-partnerships/)
-- [US investment firm seizes control of Inter after Chinese owners missed payment](https://www.theguardian.com/football/article/2024/may/22/us-investment-firm-seizes-control-of-inter-after-missed-payment-from-chinese-owners)
-- [Greenplum Database is archived on GitHub](https://news.ycombinator.com/item?id=40507691)
-- [The Future of Space](https://blog.jetbrains.com/space/2024/05/27/the-future-of-space/)
-- [Show HN: Prepair – fun mock interview challenge for software engineers](https://www.letsprepair.com/)
-- [Backrooms image was posted years earlier in 2011 [video]](https://www.youtube.com/watch?v=_Fbp0FBHiPs)
+- [Combining weak-to-strong generalization with scalable oversight](https://aligned.substack.com/p/combining-w2sg-with-scalable-oversight)
+- [One month of selling on Unreal Engine Marketplace](https://x.com/dgant/article/1795927739620319714)
+- [Show HN: Right-click and save content directly to Google Sheets](https://www.addtosheets.com/)
+- [A Devil&#39;s Bargain with OpenAI](https://www.theatlantic.com/technology/archive/2024/05/a-devils-bargain-with-openai/678537/)
+- [Public URLs for Localhost via SSH](https://pinggy.io/)
+- [Differential Evolution and Clip = Image Generation](https://snats.xyz/pages/articles/optimizing_images.html)
+- [The Atlantic announces partnership with OpenAI](https://www.theatlantic.com/press-releases/archive/2024/05/atlantic-product-content-partnership-openai/678529/)
+- [Options for styling web components &lpar;2021&rpar;](https://nolanlawson.com/2021/01/03/options-for-styling-web-components/)
+- [Vertex AI&#39;s Grounding with Google Search: how to use it and why](https://cloud.google.com/blog/products/ai-machine-learning/using-vertex-ai-grounding-with-google-search/)
+- [Vibe Checks Are All You Need](https://olshansky.substack.com/p/vibe-checks-are-all-you-need)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

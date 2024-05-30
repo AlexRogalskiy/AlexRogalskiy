@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Why is Sunak’s election campaign so chaotic? - podcast](https://www.theguardian.com/news/audio/2024/may/29/why-is-rishi-sunak-election-campaign-so-chaotic-podcast)
-- [Ukraine war briefing: Macron, Scholz agree Kyiv should use allies’ weapons against launchers in Russia](https://www.theguardian.com/world/article/2024/may/29/ukraine-war-briefing-macron-scholz-agree-kyiv-should-use-allies-weapons-against-launchers-in-russia)
-- [Boulter and Evans exits leave no British players standing at Roland Garros](https://www.theguardian.com/sport/article/2024/may/28/french-open-tennis-evans-boulter-cornet-ruud-sabalenka)
-- [Wild Rose: film about Glaswegian country singer to be turned into stage musical](https://www.theguardian.com/stage/article/2024/may/29/wild-rose-film-about-glaswegian-country-singer-to-be-turned-into-stage-musical)
-- [Hamlet review – one-woman juggling act exposes limits of Eddie Izzard’s acting ability](https://www.theguardian.com/stage/article/2024/may/28/hamlet-review-one-woman-juggling-act-exposes-limits-of-eddie-izzards-acting-ability)
-- [Jürgen Klopp drops City charges hint as he bids farewell to Liverpool](https://www.theguardian.com/football/article/2024/may/28/jurgen-klopp-drops-city-charges-hint-as-he-bids-farewell-to-liverpool)
-- [Prosecutors detail Donald Trump’s ‘corrupt bargain’ in closing arguments](https://www.theguardian.com/us-news/article/2024/may/28/donald-trump-hush-money-trial-closing-arguments)
-- [Ex-FTX executive gets over seven years for making illegal political donations](https://www.theguardian.com/technology/article/2024/may/28/ftx-executive-ryan-salame-sentenced-political-donations)
-- [My Sexual Abuse: The Sitcom review – an astonishing testament to comedy’s healing power](https://www.theguardian.com/tv-and-radio/article/2024/may/28/my-sexual-abuse-the-sitcom-review-an-astonishing-testament-to-comedys-healing-power)
-- [Labour pledges to clear NHS waiting list backlog in England in five years](https://www.theguardian.com/politics/article/2024/may/28/labour-pledges-to-clear-nhs-waiting-list-backlog-in-england-in-five-years)
+- [How an Indian state became a testing ground for Hindu nationalism](https://www.theguardian.com/news/audio/2024/may/30/how-an-indian-state-became-a-testing-ground-for-hindu-nationalism)
+- [Israel in effective control of entire Gaza land border after taking Philadelphi Corridor in south](https://www.theguardian.com/world/article/2024/may/30/israel-idf-philadelphi-corridor-rafah-gaza-control-palestine-war-hamas)
+- [‘Hong Kong 47’ trial: first verdicts due after national security crackdown](https://www.theguardian.com/world/article/2024/may/30/hong-kong-47-trial-verdict-pro-democracy-campaigners-national-security)
+- [Macron’s handling of New Caledonia is not working, we need a new way | Jimmy Naouna](https://www.theguardian.com/world/article/2024/may/30/new-caledonia-emmanuel-macron-france-independence-referendum)
+- [Ukraine war briefing: Sweden donates vital ASC 890 surveillance planes](https://www.theguardian.com/world/article/2024/may/30/ukraine-war-briefing-sweden-sends-vital-asc-890-surveillance-planes)
+- [John Lennon guitar sells for $2.9m, breaking Beatles auction record](https://www.theguardian.com/music/article/2024/may/29/john-lennon-guitar-sells-for-29m-breaking-beatles-auction-record)
+- [Harvey Weinstein prosecutors tell judge new accusers have come forward](https://www.theguardian.com/world/article/2024/may/29/harvey-weinstein-retrial-trump-court)
+- [Olympiakos win Europa Conference League after El Kaabi floors Fiorentina](https://www.theguardian.com/football/article/2024/may/29/olympiakos-fiorentina-europa-conference-league-final-match-report)
+- [‘Bloodbath’: Hyped Bee contenders see hopes dashed on spelling’s saddest day](https://www.theguardian.com/sport/article/2024/may/29/national-spelling-bee-quarterfinals-semifinals-report)
+- [Nigeria’s rushed reversion to old national anthem met with incredulity](https://www.theguardian.com/world/article/2024/may/29/nigerias-rushed-reversion-to-old-national-anthem-raises-heckles)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

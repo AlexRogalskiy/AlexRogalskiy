@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Microsoft, Beihang release MoRA, an efficient LLM fine-tuning technique](https://venturebeat.com/ai/microsoft-beihang-release-mora-an-efficient-llm-fine-tuning-technique/)
-- [Show HN: Savvy – Create, Share and Run Runbooks from your Terminal](https://github.com/getsavvyinc/savvy-cli)
-- [Ask HN: Why do games companies not release source code for old games?](https://news.ycombinator.com/item?id=40506894)
-- [Ex-OpenAI board member reveals what led to Sam Altman&#39;s brief ousting](https://www.businessinsider.com/openai-board-member-details-sam-altman-lied-allegation-ousted-2024-5)
-- [Proposal to change default annotation processing policy in JDK 23](https://mail.openjdk.org/pipermail/jdk-dev/2024-May/009028.html)
-- [Electromagnetic Waves and Antennas &lpar;2016&rpar;](https://www.ece.rutgers.edu/~orfanidi/ewa/)
-- [Shadama: A particle simulation programming environment for everyone](https://tinlizzie.org/~ohshima/shadama2/live2017/)
-- [Eradicating N+1s: The Two-Phase Data Load and Render Pattern in Go](https://brandur.org/two-phase-render)
-- [Writing an NVMe Driver in Rust [pdf]](https://db.in.tum.de/~ellmann/theses/finished/24/pirhonen_writing_an_nvme_driver_in_rust.pdf)
-- [Llama 3-V: Matching GPT4-V with a 100x smaller model and 500 dollars](https://aksh-garg.medium.com/llama-3v-building-an-open-source-gpt-4v-competitor-in-under-500-7dd8f1f6c9ee)
+- [A Devil&#39;s Bargain with OpenAI](https://www.theatlantic.com/technology/archive/2024/05/a-devils-bargain-with-openai/678537/)
+- [Sam Altman&#39;s constant lies created toxic culture, reveals OpenAI ex-Board member](https://www.thenews.com.pk/latest/1194787-sam-altmans-constant-lies-created-toxic-culture-reveals-openais-ex-board-member)
+- [&quot;My Bike Is Everything to Me&quot;](https://kottke.org/24/05/my-bike-is-everything-to-me)
+- [Kaplay – a JavaScript library that helps you make games fast and fun](https://kaplayjs.com/kaplayjs.com)
+- [Google confirms the leaked Search documents are real](https://www.theverge.com/2024/5/29/24167407/google-search-algorithm-documents-leak-confirmation)
+- [Caddy 2.8](https://github.com/caddyserver/caddy/releases/tag/v2.8.0)
+- [Bootstrapping a Forth in 40 lines of Lua code](http://angg.twu.net/miniforth-article.html)
+- [The Pen Hospital in Kolkata will nurse your broken fountain pen back](https://www.vogue.in/content/pen-hospital-in-kolkata-will-nurse-your-broken-fountain-pen-back-to-health)
+- [Tesorio &lpar;YC S15&rpar; Is Hiring – 100% Remote](https://www.tesorio.com/careers#job-openings)
+- [Toxoplasma Gondii significantly alters wolf behavior](https://www.sciencealert.com/something-strange-happens-to-wolves-infected-by-an-infamous-mind-altering-parasite)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

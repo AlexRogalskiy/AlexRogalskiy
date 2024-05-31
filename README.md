@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [How an Indian state became a testing ground for Hindu nationalism](https://www.theguardian.com/news/audio/2024/may/30/how-an-indian-state-became-a-testing-ground-for-hindu-nationalism)
-- [Israel in effective control of entire Gaza land border after taking Philadelphi Corridor in south](https://www.theguardian.com/world/article/2024/may/30/israel-idf-philadelphi-corridor-rafah-gaza-control-palestine-war-hamas)
-- [‘Hong Kong 47’ trial: first verdicts due after national security crackdown](https://www.theguardian.com/world/article/2024/may/30/hong-kong-47-trial-verdict-pro-democracy-campaigners-national-security)
-- [Macron’s handling of New Caledonia is not working, we need a new way | Jimmy Naouna](https://www.theguardian.com/world/article/2024/may/30/new-caledonia-emmanuel-macron-france-independence-referendum)
-- [Ukraine war briefing: Sweden donates vital ASC 890 surveillance planes](https://www.theguardian.com/world/article/2024/may/30/ukraine-war-briefing-sweden-sends-vital-asc-890-surveillance-planes)
-- [John Lennon guitar sells for $2.9m, breaking Beatles auction record](https://www.theguardian.com/music/article/2024/may/29/john-lennon-guitar-sells-for-29m-breaking-beatles-auction-record)
-- [Harvey Weinstein prosecutors tell judge new accusers have come forward](https://www.theguardian.com/world/article/2024/may/29/harvey-weinstein-retrial-trump-court)
-- [Olympiakos win Europa Conference League after El Kaabi floors Fiorentina](https://www.theguardian.com/football/article/2024/may/29/olympiakos-fiorentina-europa-conference-league-final-match-report)
-- [‘Bloodbath’: Hyped Bee contenders see hopes dashed on spelling’s saddest day](https://www.theguardian.com/sport/article/2024/may/29/national-spelling-bee-quarterfinals-semifinals-report)
-- [Nigeria’s rushed reversion to old national anthem met with incredulity](https://www.theguardian.com/world/article/2024/may/29/nigerias-rushed-reversion-to-old-national-anthem-raises-heckles)
+- [Trump rails against guilty verdict in historic hush-money trial as sentencing set for 11 July – live](https://www.theguardian.com/us-news/live/2024/may/30/trump-hush-money-trial-verdict)
+- [Exposing Israel’s secret ‘war’ on the ICC – podcast](https://www.theguardian.com/news/audio/2024/may/31/exposing-israels-secret-war-on-the-icc-podcast)
+- [Ukraine war briefing: Russia strikes Kharkiv as Biden lets Ukraine hit back with US weapons](https://www.theguardian.com/world/article/2024/may/31/ukraine-war-briefing-russia-strikes-kharkiv-as-biden-lets-ukraine-hit-back-with-us-weapons)
+- [Donald Trump: the day a former US president was convicted – in pictures](https://www.theguardian.com/us-news/gallery/2024/may/31/donald-trump-hush-money-trial-verdict-convicted-trial-photos-new-york)
+- [I’m moving overseas to study and my mum wants to track my phone. How do I push back? | Leading questions](https://www.theguardian.com/lifeandstyle/article/2024/may/31/im-moving-overseas-to-study-and-my-mum-wants-to-track-my-phone-how-do-i-push-back)
+- [Trump conviction in hush-money case sparks sharply divergent reactions](https://www.theguardian.com/us-news/article/2024/may/30/trump-guilty-hush-money-republicans-democrats-reaction)
+- [‘Teahupo’o is for the women after all’: flawless surfing vindicates push for gender equality | Kieran Pender](https://www.theguardian.com/sport/blog/article/2024/may/31/teahupoo-women-surfing-gender-equality-world-surf-league-tahiti-pro)
+- [Trump guilty on all counts – so what happens next? – podcast](https://www.theguardian.com/politics/audio/2024/may/31/trump-guilty-on-all-counts-so-what-happens-next)
+- [I had convinced myself Trump would never be convicted. I’m happy I was wrong | Moira Donegan](https://www.theguardian.com/commentisfree/article/2024/may/30/trump-conviction-hush-money-trial-democracy)
+- [Donald Trump found guilty of hush-money plot to influence 2016 election](https://www.theguardian.com/us-news/article/2024/may/30/trump-trial-hush-money-verdict)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

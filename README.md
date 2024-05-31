@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Combining weak-to-strong generalization with scalable oversight](https://aligned.substack.com/p/combining-w2sg-with-scalable-oversight)
-- [One month of selling on Unreal Engine Marketplace](https://x.com/dgant/article/1795927739620319714)
-- [Show HN: Right-click and save content directly to Google Sheets](https://www.addtosheets.com/)
-- [A Devil&#39;s Bargain with OpenAI](https://www.theatlantic.com/technology/archive/2024/05/a-devils-bargain-with-openai/678537/)
-- [Public URLs for Localhost via SSH](https://pinggy.io/)
-- [Differential Evolution and Clip = Image Generation](https://snats.xyz/pages/articles/optimizing_images.html)
-- [The Atlantic announces partnership with OpenAI](https://www.theatlantic.com/press-releases/archive/2024/05/atlantic-product-content-partnership-openai/678529/)
-- [Options for styling web components &lpar;2021&rpar;](https://nolanlawson.com/2021/01/03/options-for-styling-web-components/)
-- [Vertex AI&#39;s Grounding with Google Search: how to use it and why](https://cloud.google.com/blog/products/ai-machine-learning/using-vertex-ai-grounding-with-google-search/)
-- [Vibe Checks Are All You Need](https://olshansky.substack.com/p/vibe-checks-are-all-you-need)
+- [Donald Trump is now a convicted felon. What happens next?](https://www.cbc.ca/news/world/donald-trump-hush-money-trial-guilty-what-now-1.7220155)
+- [AI Overviews: About last week](https://blog.google/products/search/ai-overviews-update-may-2024/)
+- [Implementing MVCC and major SQL transaction isolation levels](https://notes.eatonphil.com/2024-05-16-mvcc.html)
+- [Donald Trump found guilty on all 34 counts of falsifying business records](https://www.washingtonpost.com/politics/2024/05/30/trump-guilty-verdict-hush-money-trial/)
+- [What&#39;s New in C# 13: Enhanced Params, Performance Boosts and New Extension Types](https://www.infoq.com/news/2024/05/csharp-13-preview/)
+- [TikTok is reportedly splitting its source code to create a US-only algorithm](https://www.theverge.com/2024/5/30/24168353/tiktok-douyin-algorithm-code-splitting-bytedance-rumor)
+- [All of Microsoft&#39;s MacBook Air-beating benchmarks](https://www.theverge.com/2024/5/30/24167745/microsoft-macbook-air-benchmarks-surface-laptop-copilot-plus-pc)
+- [The Green-Energy Revolution Shows What Real Innovation Looks Like](https://prospect.org/environment/2024-05-30-green-energy-revolution-real-innovation/)
+- [Better Know a Ruby Thing: Methods and Access Control &lpar;Part 1&rpar;](https://noelrappin.com/blog/2024/05/better-know-access-control-part-1/)
+- [The Future of Space Computing](https://www.microchip.com/en-us/about/events/ieee-space-computing-conference)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

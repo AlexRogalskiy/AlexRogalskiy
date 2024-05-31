@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [A Devil&#39;s Bargain with OpenAI](https://www.theatlantic.com/technology/archive/2024/05/a-devils-bargain-with-openai/678537/)
-- [Sam Altman&#39;s constant lies created toxic culture, reveals OpenAI ex-Board member](https://www.thenews.com.pk/latest/1194787-sam-altmans-constant-lies-created-toxic-culture-reveals-openais-ex-board-member)
-- [&quot;My Bike Is Everything to Me&quot;](https://kottke.org/24/05/my-bike-is-everything-to-me)
-- [Kaplay – a JavaScript library that helps you make games fast and fun](https://kaplayjs.com/kaplayjs.com)
-- [Google confirms the leaked Search documents are real](https://www.theverge.com/2024/5/29/24167407/google-search-algorithm-documents-leak-confirmation)
-- [Caddy 2.8](https://github.com/caddyserver/caddy/releases/tag/v2.8.0)
-- [Bootstrapping a Forth in 40 lines of Lua code](http://angg.twu.net/miniforth-article.html)
-- [The Pen Hospital in Kolkata will nurse your broken fountain pen back](https://www.vogue.in/content/pen-hospital-in-kolkata-will-nurse-your-broken-fountain-pen-back-to-health)
-- [Tesorio &lpar;YC S15&rpar; Is Hiring – 100% Remote](https://www.tesorio.com/careers#job-openings)
-- [Toxoplasma Gondii significantly alters wolf behavior](https://www.sciencealert.com/something-strange-happens-to-wolves-infected-by-an-infamous-mind-altering-parasite)
+- [Don&#39;t Worry about LLMs](https://vickiboykis.com/2024/05/20/dont-worry-about-llms/)
+- [Tesla Auto Wipers: Why They Don&#39;t Work and Why There Isn&#39;t an Easy Fix](https://www.notateslaapp.com/news/2045/tesla-auto-wipers-why-they-dont-work-and-why-there-isnt-an-easy-fix)
+- [A week with Elixir &lpar;2013&rpar;](https://joearms.github.io/published/2013-05-31-a-week-with-elixir.html)
+- [1-Bit LLMs Could Solve AI&#39;s Energy Demands](https://spectrum.ieee.org/1-bit-llm)
+- [Asqi: A codebase explorer designed to help navigate and understand Git projects](https://dev.asqi.io/)
+- [Skio &lpar;YC S20&rpar; – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
+- [Ask HN: I have many PDFs – what is the best local way to leverage AI for search?](https://news.ycombinator.com/item?id=40528192)
+- [NPGA: Neural Parametric Gaussian Avatars – high-fidelity digital faces](https://arxiv.org/abs/2405.19331)
+- [NASA Releases New High-Quality, Near Real-Time Air Quality Data](https://www.nasa.gov/missions/tempo/nasa-releases-new-high-quality-near-real-time-air-quality-data/)
+- [Transmission of Mental Disorders in Adolescent Peer Networks](https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2818735)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

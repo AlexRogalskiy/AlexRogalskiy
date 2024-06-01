@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Trump rails against guilty verdict in historic hush-money trial as sentencing set for 11 July – live](https://www.theguardian.com/us-news/live/2024/may/30/trump-hush-money-trial-verdict)
-- [Exposing Israel’s secret ‘war’ on the ICC – podcast](https://www.theguardian.com/news/audio/2024/may/31/exposing-israels-secret-war-on-the-icc-podcast)
-- [Ukraine war briefing: Russia strikes Kharkiv as Biden lets Ukraine hit back with US weapons](https://www.theguardian.com/world/article/2024/may/31/ukraine-war-briefing-russia-strikes-kharkiv-as-biden-lets-ukraine-hit-back-with-us-weapons)
-- [Donald Trump: the day a former US president was convicted – in pictures](https://www.theguardian.com/us-news/gallery/2024/may/31/donald-trump-hush-money-trial-verdict-convicted-trial-photos-new-york)
-- [I’m moving overseas to study and my mum wants to track my phone. How do I push back? | Leading questions](https://www.theguardian.com/lifeandstyle/article/2024/may/31/im-moving-overseas-to-study-and-my-mum-wants-to-track-my-phone-how-do-i-push-back)
-- [Trump conviction in hush-money case sparks sharply divergent reactions](https://www.theguardian.com/us-news/article/2024/may/30/trump-guilty-hush-money-republicans-democrats-reaction)
-- [‘Teahupo’o is for the women after all’: flawless surfing vindicates push for gender equality | Kieran Pender](https://www.theguardian.com/sport/blog/article/2024/may/31/teahupoo-women-surfing-gender-equality-world-surf-league-tahiti-pro)
-- [Trump guilty on all counts – so what happens next? – podcast](https://www.theguardian.com/politics/audio/2024/may/31/trump-guilty-on-all-counts-so-what-happens-next)
-- [I had convinced myself Trump would never be convicted. I’m happy I was wrong | Moira Donegan](https://www.theguardian.com/commentisfree/article/2024/may/30/trump-conviction-hush-money-trial-democracy)
-- [Donald Trump found guilty of hush-money plot to influence 2016 election](https://www.theguardian.com/us-news/article/2024/may/30/trump-trial-hush-money-verdict)
+- [Lexi Thompson bids farewell as Nelly Korda misses cut at eventful US Open](https://www.theguardian.com/sport/article/2024/may/31/us-womens-open-friday-meechai-korda-thompson)
+- [Landslides force dismantling of Frank Lloyd Wright Jr’s celebrated glass chapel: ‘It’s a crying shame’](https://www.theguardian.com/us-news/article/2024/may/31/wayfarers-chapel-landslides-los-angeles)
+- [Ukraine war briefing: Belgorod under fire after OK for strikes with US weapons](https://www.theguardian.com/world/article/2024/jun/01/ukraine-war-briefing-belgorod-under-fire-after-ok-for-strikes-with-us-weapons)
+- [Scientists develop cheap and quick spit test for prostate cancer](https://www.theguardian.com/society/article/2024/jun/01/scientists-develop-cheap-and-quick-spit-test-for-prostate-cancer)
+- [Things Can Only Get Better group ban Labour from using song](https://www.theguardian.com/politics/article/2024/jun/01/things-can-only-get-better-group-ban-labour-from-using-song)
+- [Mike Tyson’s fight with Jake Paul postponed after Tyson’s health episode](https://www.theguardian.com/sport/article/2024/may/31/mike-tyson-jake-paul-fight-postponed-taylor-serrano)
+- [Tories pledge £20m each of levelling-up funds to 30 more towns](https://www.theguardian.com/politics/article/2024/may/31/tories-pledge-20m-each-of-levelling-up-funds-to-30-more-towns)
+- [Man charged with murder after fatal stabbing of Amie Gray in Bournemouth](https://www.theguardian.com/uk-news/article/2024/may/31/man-charged-fatal-stabbing-amie-gray-bournemouth)
+- [Canadian serial killer Robert Pickton dies after assault in prison](https://www.theguardian.com/world/article/2024/may/31/serial-killer-robert-pickton-dies)
+- [The Walking Dead: The Ones Who Live review – Andrew Lincoln is back!](https://www.theguardian.com/tv-and-radio/article/2024/may/31/the-walking-dead-the-ones-who-live-review-andrew-lincoln-is-back)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

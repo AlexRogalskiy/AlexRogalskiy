@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Donald Trump is now a convicted felon. What happens next?](https://www.cbc.ca/news/world/donald-trump-hush-money-trial-guilty-what-now-1.7220155)
-- [AI Overviews: About last week](https://blog.google/products/search/ai-overviews-update-may-2024/)
-- [Implementing MVCC and major SQL transaction isolation levels](https://notes.eatonphil.com/2024-05-16-mvcc.html)
-- [Donald Trump found guilty on all 34 counts of falsifying business records](https://www.washingtonpost.com/politics/2024/05/30/trump-guilty-verdict-hush-money-trial/)
-- [What&#39;s New in C# 13: Enhanced Params, Performance Boosts and New Extension Types](https://www.infoq.com/news/2024/05/csharp-13-preview/)
-- [TikTok is reportedly splitting its source code to create a US-only algorithm](https://www.theverge.com/2024/5/30/24168353/tiktok-douyin-algorithm-code-splitting-bytedance-rumor)
-- [All of Microsoft&#39;s MacBook Air-beating benchmarks](https://www.theverge.com/2024/5/30/24167745/microsoft-macbook-air-benchmarks-surface-laptop-copilot-plus-pc)
-- [The Green-Energy Revolution Shows What Real Innovation Looks Like](https://prospect.org/environment/2024-05-30-green-energy-revolution-real-innovation/)
-- [Better Know a Ruby Thing: Methods and Access Control &lpar;Part 1&rpar;](https://noelrappin.com/blog/2024/05/better-know-access-control-part-1/)
-- [The Future of Space Computing](https://www.microchip.com/en-us/about/events/ieee-space-computing-conference)
+- [&#39;Why You Should Use Your TV&#39;s Filmmaker Mode&#39;](https://www.consumerreports.org/electronics-computers/tvs/why-you-should-use-tv-filmmaker-mode-a9272243829/)
+- [Why do you pay for ChatGPT Pro if you could just use the AI](https://www.chatarena.ai/)
+- [Drum N Bass in CommonLisp [video]](https://www.youtube.com/watch?v=jS84KmkkNkU)
+- [Bruhat Soma spelled 29 words in a tiebreaker to win Spelling Bee](https://apnews.com/video/spelling-bees-national-national-6cbf54ce70e4481ebfa02da464c80205)
+- [Tiny number of &#39;supersharers&#39; spread the majority of fake news](https://www.science.org/content/article/tiny-number-supersharers-spread-vast-majority-fake-news)
+- [Experimenting with local alt text generation in Firefox Nightly](https://hacks.mozilla.org/2024/05/experimenting-with-local-alt-text-generation-in-firefox-nightly/)
+- [Quake 2 Source Code Review](https://www.fabiensanglard.net/quake2/index.php)
+- [We lost the most powerful longwave transmitter, and why that&#39;s a big deal &lpar;2023&rpar; [video]](https://www.youtube.com/watch?v=IbUhA6Vt6Sk)
+- [Tiny fern has the largest genome of any organism on Earth](https://phys.org/news/2024-05-tiny-fern-largest-genome-earth.html)
+- [The Covid-19 Vaccines Shouldn&#39;t Have Been Free](https://reason.com/2024/05/30/the-covid-19-vaccines-shouldnt-have-been-free/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

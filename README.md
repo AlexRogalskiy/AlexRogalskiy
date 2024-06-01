@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Don&#39;t Worry about LLMs](https://vickiboykis.com/2024/05/20/dont-worry-about-llms/)
-- [Tesla Auto Wipers: Why They Don&#39;t Work and Why There Isn&#39;t an Easy Fix](https://www.notateslaapp.com/news/2045/tesla-auto-wipers-why-they-dont-work-and-why-there-isnt-an-easy-fix)
-- [A week with Elixir &lpar;2013&rpar;](https://joearms.github.io/published/2013-05-31-a-week-with-elixir.html)
-- [1-Bit LLMs Could Solve AI&#39;s Energy Demands](https://spectrum.ieee.org/1-bit-llm)
-- [Asqi: A codebase explorer designed to help navigate and understand Git projects](https://dev.asqi.io/)
-- [Skio &lpar;YC S20&rpar; – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
-- [Ask HN: I have many PDFs – what is the best local way to leverage AI for search?](https://news.ycombinator.com/item?id=40528192)
-- [NPGA: Neural Parametric Gaussian Avatars – high-fidelity digital faces](https://arxiv.org/abs/2405.19331)
-- [NASA Releases New High-Quality, Near Real-Time Air Quality Data](https://www.nasa.gov/missions/tempo/nasa-releases-new-high-quality-near-real-time-air-quality-data/)
-- [Transmission of Mental Disorders in Adolescent Peer Networks](https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2818735)
+- [Engines of Sacrality: A Footnote on Randall Collins&#39; Interaction Ritual Chains &lpar;2013&rpar;](http://abandonedfootnotes.blogspot.com/2013/04/engines-of-sacrality-footnote-on.html)
+- [Distributor of &#39;2000 Mules&#39; election conspiracy film pulls film from platforms](https://www.npr.org/2024/05/31/g-s1-2298/publisher-of-2000-mules-election-conspiracy-theory-film-issues-apology)
+- [Encountering Strangers in Public Places: Goffman and Civil Inattention &lpar;2011&rpar;](https://www.everydaysociologyblog.com/2011/12/encountering-strangers-in-public-places-goffman-and-civil-inattention.html)
+- [60 kHz &lpar;2022&rpar;](https://ben.page/wwvb)
+- [Mathematicians Attempt to Glimpse Past the Big Bang](https://www.quantamagazine.org/mathematicians-attempt-to-glimpse-past-the-big-bang-20240531/)
+- [Moving Beyond Type Systems](https://vhyrro.github.io/posts/effect-systems/)
+- [UI elements with a hand-drawn, sketchy look](https://wiredjs.com/)
+- [Recall: Stealing everything you&#39;ve ever typed or viewed on your own Windows PC](https://doublepulsar.com/recall-stealing-everything-youve-ever-typed-or-viewed-on-your-own-windows-pc-is-now-possible-da3e12e9465e)
+- [Go: Sentinel errors and errors.Is&lpar;&rpar; slow your code down by 3000%](https://www.dolthub.com/blog/2024-05-31-benchmarking-go-error-handling/)
+- [Heroku Postgres is now based on AWS Aurora](https://blog.heroku.com/heroku-postgres-essential-launch)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Lexi Thompson bids farewell as Nelly Korda misses cut at eventful US Open](https://www.theguardian.com/sport/article/2024/may/31/us-womens-open-friday-meechai-korda-thompson)
-- [Landslides force dismantling of Frank Lloyd Wright Jr’s celebrated glass chapel: ‘It’s a crying shame’](https://www.theguardian.com/us-news/article/2024/may/31/wayfarers-chapel-landslides-los-angeles)
-- [Ukraine war briefing: Belgorod under fire after OK for strikes with US weapons](https://www.theguardian.com/world/article/2024/jun/01/ukraine-war-briefing-belgorod-under-fire-after-ok-for-strikes-with-us-weapons)
-- [Scientists develop cheap and quick spit test for prostate cancer](https://www.theguardian.com/society/article/2024/jun/01/scientists-develop-cheap-and-quick-spit-test-for-prostate-cancer)
-- [Things Can Only Get Better group ban Labour from using song](https://www.theguardian.com/politics/article/2024/jun/01/things-can-only-get-better-group-ban-labour-from-using-song)
-- [Mike Tyson’s fight with Jake Paul postponed after Tyson’s health episode](https://www.theguardian.com/sport/article/2024/may/31/mike-tyson-jake-paul-fight-postponed-taylor-serrano)
-- [Tories pledge £20m each of levelling-up funds to 30 more towns](https://www.theguardian.com/politics/article/2024/may/31/tories-pledge-20m-each-of-levelling-up-funds-to-30-more-towns)
-- [Man charged with murder after fatal stabbing of Amie Gray in Bournemouth](https://www.theguardian.com/uk-news/article/2024/may/31/man-charged-fatal-stabbing-amie-gray-bournemouth)
-- [Canadian serial killer Robert Pickton dies after assault in prison](https://www.theguardian.com/world/article/2024/may/31/serial-killer-robert-pickton-dies)
-- [The Walking Dead: The Ones Who Live review – Andrew Lincoln is back!](https://www.theguardian.com/tv-and-radio/article/2024/may/31/the-walking-dead-the-ones-who-live-review-andrew-lincoln-is-back)
+- [USA chasing 195 to beat Canada: T20 Cricket World Cup 2024 opener – live](https://www.theguardian.com/sport/live/2024/jun/02/usa-v-canada-t20-cricket-world-cup-2024-opener-live)
+- [China’s Chang’e-6 probe lands on far side of the moon aiming to return first samples to Earth](https://www.theguardian.com/world/article/2024/jun/02/chinas-change-6-probe-lands-on-far-side-of-the-moon)
+- [Zhilei Zhang knocks out Deontay Wilder after Daniel Dubois stops Filip Hrgović – as it happened](https://www.theguardian.com/sport/live/2024/jun/01/wilder-zhang-dubois-hrgovic-fight-5-vs-5-boxing-live)
+- [Medvedev marches into fourth round as Zverev edges French Open thriller](https://www.theguardian.com/sport/article/2024/jun/02/tennis-medvedev-zverev-machac-griekspoor-sabalenka-rybakina)
+- [‘We refuse to disappear’: the Hong Kong 47 facing life in jail after crackdown](https://www.theguardian.com/world/article/2024/jun/02/we-refuse-to-disappear-the-hong-kong-47-facing-life-in-jail-after-crackdown)
+- [Ukraine war briefing: Kharkiv counts cost of Russian air strikes](https://www.theguardian.com/world/article/2024/jun/02/ukraine-war-briefing-kharkiv-counts-cost-of-russian-air-strikes)
+- [‘It seems like a dream but it is reality’: Real Madrid win delights Ancelotti](https://www.theguardian.com/football/article/2024/jun/02/real-madrid-carlo-ancelotti-jude-bellingham)
+- [Did you pay for that? What is driving the massive rise in shoplifting?](https://www.theguardian.com/uk-news/article/2024/jun/02/did-you-pay-for-that-what-is-driving-the-massive-rise-in-shoplifting)
+- [Predictive blood test hailed as ‘incredibly exciting’ breast cancer breakthrough](https://www.theguardian.com/society/article/2024/jun/02/predictive-blood-test-hailed-as-incredibly-exciting-breast-cancer-breakthrough)
+- [Rebel Wilson says idea only gay actors can play gay roles ‘is total nonsense’](https://www.theguardian.com/film/article/2024/jun/02/rebel-wilson-says-idea-only-gay-actors-can-play-gay-roles-is-total-nonsense)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

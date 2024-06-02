@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Engines of Sacrality: A Footnote on Randall Collins&#39; Interaction Ritual Chains &lpar;2013&rpar;](http://abandonedfootnotes.blogspot.com/2013/04/engines-of-sacrality-footnote-on.html)
-- [Distributor of &#39;2000 Mules&#39; election conspiracy film pulls film from platforms](https://www.npr.org/2024/05/31/g-s1-2298/publisher-of-2000-mules-election-conspiracy-theory-film-issues-apology)
-- [Encountering Strangers in Public Places: Goffman and Civil Inattention &lpar;2011&rpar;](https://www.everydaysociologyblog.com/2011/12/encountering-strangers-in-public-places-goffman-and-civil-inattention.html)
-- [60 kHz &lpar;2022&rpar;](https://ben.page/wwvb)
-- [Mathematicians Attempt to Glimpse Past the Big Bang](https://www.quantamagazine.org/mathematicians-attempt-to-glimpse-past-the-big-bang-20240531/)
-- [Moving Beyond Type Systems](https://vhyrro.github.io/posts/effect-systems/)
-- [UI elements with a hand-drawn, sketchy look](https://wiredjs.com/)
-- [Recall: Stealing everything you&#39;ve ever typed or viewed on your own Windows PC](https://doublepulsar.com/recall-stealing-everything-youve-ever-typed-or-viewed-on-your-own-windows-pc-is-now-possible-da3e12e9465e)
-- [Go: Sentinel errors and errors.Is&lpar;&rpar; slow your code down by 3000%](https://www.dolthub.com/blog/2024-05-31-benchmarking-go-error-handling/)
-- [Heroku Postgres is now based on AWS Aurora](https://blog.heroku.com/heroku-postgres-essential-launch)
+- [The NSA advises you to turn your phone off and back on once a week](https://www.zdnet.com/article/the-nsa-advises-you-to-turn-your-phone-off-and-back-on-once-a-week-heres-why/)
+- [Seoul authorities find Shein products contain high levels of toxic chemicals](https://www.lemonde.fr/en/economy/article/2024/05/28/seoul-government-finds-shein-products-contain-high-levels-of-toxic-chemicals_6672910_19.html)
+- [CSS Written in Pure Go](https://github.com/AccentDesign/gcss)
+- [Show HN: Open-Source Load Balancer for Llama.cpp](https://github.com/distantmagic/paddler)
+- [Lisp: Icing or Cake?](https://dthompson.us/posts/lisp-icing-or-cake.html)
+- [The quest to craft the perfect artificial eye through the ages](https://www.popsci.com/health/artificial-eye-history/)
+- [Lulu Hunt Peters pioneered counting calories a century ago](https://www.smithsonianmag.com/science-nature/doctor-pioneered-counting-calories-century-ago-were-still-dealing-with-consequences-180984282/)
+- [X is justifiably slow &lpar;2022&rpar;](https://zeux.io/2024/05/31/justifiably-slow/)
+- [Frances Hesselbein&#39;s leadership story &lpar;2022&rpar;](https://davidepstein.substack.com/p/year-end-remembrances-part-3-the)
+- [Napster sparked a file-sharing revolution 25 years ago](https://torrentfreak.com/napster-sparked-a-file-sharing-revolution-25-years-ago-250601/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

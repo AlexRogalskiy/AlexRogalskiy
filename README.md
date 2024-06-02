@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [&#39;Why You Should Use Your TV&#39;s Filmmaker Mode&#39;](https://www.consumerreports.org/electronics-computers/tvs/why-you-should-use-tv-filmmaker-mode-a9272243829/)
-- [Why do you pay for ChatGPT Pro if you could just use the AI](https://www.chatarena.ai/)
-- [Drum N Bass in CommonLisp [video]](https://www.youtube.com/watch?v=jS84KmkkNkU)
-- [Bruhat Soma spelled 29 words in a tiebreaker to win Spelling Bee](https://apnews.com/video/spelling-bees-national-national-6cbf54ce70e4481ebfa02da464c80205)
-- [Tiny number of &#39;supersharers&#39; spread the majority of fake news](https://www.science.org/content/article/tiny-number-supersharers-spread-vast-majority-fake-news)
-- [Experimenting with local alt text generation in Firefox Nightly](https://hacks.mozilla.org/2024/05/experimenting-with-local-alt-text-generation-in-firefox-nightly/)
-- [Quake 2 Source Code Review](https://www.fabiensanglard.net/quake2/index.php)
-- [We lost the most powerful longwave transmitter, and why that&#39;s a big deal &lpar;2023&rpar; [video]](https://www.youtube.com/watch?v=IbUhA6Vt6Sk)
-- [Tiny fern has the largest genome of any organism on Earth](https://phys.org/news/2024-05-tiny-fern-largest-genome-earth.html)
-- [The Covid-19 Vaccines Shouldn&#39;t Have Been Free](https://reason.com/2024/05/30/the-covid-19-vaccines-shouldnt-have-been-free/)
+- [Python Notebooks for Fundamentals of Music Processing](https://www.audiolabs-erlangen.de/resources/MIR/FMP/C0/C0.html)
+- [Chang&#39;e-6 probe lands on moon aiming to return first samples to Earth](https://www.theguardian.com/world/article/2024/jun/02/chinas-change-6-probe-lands-on-far-side-of-the-moon)
+- [Mediterranean diet helps women live much longer, a large new study finds](https://www.cnn.com/2024/05/31/health/mediterranean-diet-women-early-death-risk-wellness/index.html)
+- [EU Clings to the Pervasive Surveillance Dream](https://www.feistyduck.com/newsletter/issue_113_eu_clings_to_the_pervasive_surveillance_dream)
+- [Advisory firms urge Tesla shareholders to reject Musk&#39;s &#39;excessive&#39; pay package](https://www.cnn.com/2024/05/31/business/advisory-firms-urge-tesla-shareholder-to-reject-musk-pay-package/index.html)
+- [Ask HN: Why does this online IRS form have an hours of operation?](https://news.ycombinator.com/item?id=40550734)
+- [Elon Musk Lobbies on X for His $46.5B Tesla Pay Package](https://www.nytimes.com/2024/05/31/technology/elon-musk-x-tesla-pay.html)
+- [PowerSync Open Edition Release](https://www.powersync.com/blog/powersync-open-edition-release)
+- [Some Americans have stopped tipping. Should you do the same?](https://www.dallasnews.com/arts-entertainment/travel/2024/05/22/some-americans-have-stopped-tipping-should-you-do-the-same/)
+- [The NSA advises you to turn your phone off and back on once a week](https://www.zdnet.com/article/the-nsa-advises-you-to-turn-your-phone-off-and-back-on-once-a-week-heres-why/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

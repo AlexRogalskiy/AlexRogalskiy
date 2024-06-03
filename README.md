@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Python Notebooks for Fundamentals of Music Processing](https://www.audiolabs-erlangen.de/resources/MIR/FMP/C0/C0.html)
-- [Chang&#39;e-6 probe lands on moon aiming to return first samples to Earth](https://www.theguardian.com/world/article/2024/jun/02/chinas-change-6-probe-lands-on-far-side-of-the-moon)
-- [Mediterranean diet helps women live much longer, a large new study finds](https://www.cnn.com/2024/05/31/health/mediterranean-diet-women-early-death-risk-wellness/index.html)
-- [EU Clings to the Pervasive Surveillance Dream](https://www.feistyduck.com/newsletter/issue_113_eu_clings_to_the_pervasive_surveillance_dream)
-- [Advisory firms urge Tesla shareholders to reject Musk&#39;s &#39;excessive&#39; pay package](https://www.cnn.com/2024/05/31/business/advisory-firms-urge-tesla-shareholder-to-reject-musk-pay-package/index.html)
-- [Ask HN: Why does this online IRS form have an hours of operation?](https://news.ycombinator.com/item?id=40550734)
-- [Elon Musk Lobbies on X for His $46.5B Tesla Pay Package](https://www.nytimes.com/2024/05/31/technology/elon-musk-x-tesla-pay.html)
-- [PowerSync Open Edition Release](https://www.powersync.com/blog/powersync-open-edition-release)
-- [Some Americans have stopped tipping. Should you do the same?](https://www.dallasnews.com/arts-entertainment/travel/2024/05/22/some-americans-have-stopped-tipping-should-you-do-the-same/)
-- [The NSA advises you to turn your phone off and back on once a week](https://www.zdnet.com/article/the-nsa-advises-you-to-turn-your-phone-off-and-back-on-once-a-week-heres-why/)
+- [What is science? Tech heavyweights brawl over definition](https://www.nature.com/articles/d41586-024-01626-z)
+- [Genetic Cause of Intellectual Disability Affecting Thousands](https://www.mountsinai.org/about/newsroom/2024/researchers-identify-a-genetic-cause-of-intellectual-disability-affecting-tens-of-thousands)
+- [Our Big Max index shows how burger prices differ across borders](https://www.economist.com/big-mac-index)
+- [How does &#39;not&#39; affect what we understand? Scientists find negation mitigates](https://www.sciencedaily.com/releases/2024/05/240530182152.htm)
+- [FAA Reauthorization Bill Signed into Law](https://www.afar.com/magazine/faa-reauthorization-bill-outlines-new-air-travel-rules)
+- [Why paying women to have more babies won&#39;t work](https://www.economist.com/leaders/2024/05/23/why-paying-women-to-have-more-babies-wont-work)
+- [A Brief Look at the 3DS Cartridge Protocol](https://blog.winter-software.com/2024/06/02/ctr-cart-protocol)
+- [Lenders file class-action against Equifax citing monopoly in work number product](https://www.housingwire.com/articles/lenders-file-class-action-lawsuit-against-equifax-citing-monopoly-in-work-number-product/)
+- [AI content production machine, advertising engine](https://gerrymcgovern.com/ai-content-production-machine-advertising-engine/)
+- [The Intellectual Obesity Crisis](https://www.gurwinder.blog/p/the-intellectual-obesity-crisis)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

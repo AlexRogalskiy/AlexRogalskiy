@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The NSA advises you to turn your phone off and back on once a week](https://www.zdnet.com/article/the-nsa-advises-you-to-turn-your-phone-off-and-back-on-once-a-week-heres-why/)
-- [Seoul authorities find Shein products contain high levels of toxic chemicals](https://www.lemonde.fr/en/economy/article/2024/05/28/seoul-government-finds-shein-products-contain-high-levels-of-toxic-chemicals_6672910_19.html)
-- [CSS Written in Pure Go](https://github.com/AccentDesign/gcss)
-- [Show HN: Open-Source Load Balancer for Llama.cpp](https://github.com/distantmagic/paddler)
-- [Lisp: Icing or Cake?](https://dthompson.us/posts/lisp-icing-or-cake.html)
-- [The quest to craft the perfect artificial eye through the ages](https://www.popsci.com/health/artificial-eye-history/)
-- [Lulu Hunt Peters pioneered counting calories a century ago](https://www.smithsonianmag.com/science-nature/doctor-pioneered-counting-calories-century-ago-were-still-dealing-with-consequences-180984282/)
-- [X is justifiably slow &lpar;2022&rpar;](https://zeux.io/2024/05/31/justifiably-slow/)
-- [Frances Hesselbein&#39;s leadership story &lpar;2022&rpar;](https://davidepstein.substack.com/p/year-end-remembrances-part-3-the)
-- [Napster sparked a file-sharing revolution 25 years ago](https://torrentfreak.com/napster-sparked-a-file-sharing-revolution-25-years-ago-250601/)
+- [Eight years of organizing tech meetups &lpar;2023&rpar;](https://notes.eatonphil.com/eight-years-of-tech-meetups.html)
+- [New material looks like frosted glass but lets in more light than a window](https://www.popsci.com/technology/glass-coating-privacy/)
+- [Lowering resource usage with foot and systemd](https://rgoswami.me/posts/lowering-resource-usage-foot-systemd/)
+- [Protecting sensitive data in Elixir GenServers &lpar;2023&rpar;](https://gabrielpereira.dev/en/posts/protecting-sensitive-data-in-elixir-gen-servers/)
+- [An intuitive guide to Maxwell&#39;s equations &lpar;2020&rpar;](https://photonlines.substack.com/p/an-intuitive-guide-to-maxwells-equations)
+- [HN-text: an easy-to-use, text-first Hacker News terminal client](https://github.com/piqoni/hn-text)
+- [Atomic polling intervals for highly concurrent workloads](https://www.byronwasti.com/polling-atomics/)
+- [cuDF – GPU DataFrame Library](https://github.com/rapidsai/cudf)
+- [Upgrading my Chumby 8 kernel part 10: RTC](https://www.downtowndougbrown.com/2024/06/upgrading-my-chumby-8-kernel-part-10-rtc/)
+- [Workmanship standard for crimping, interconnecting cables, harnesses, and wiring](https://standards.nasa.gov/standard/NASA/NASA-STD-87394)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

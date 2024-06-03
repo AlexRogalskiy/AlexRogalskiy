@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [USA chasing 195 to beat Canada: T20 Cricket World Cup 2024 opener – live](https://www.theguardian.com/sport/live/2024/jun/02/usa-v-canada-t20-cricket-world-cup-2024-opener-live)
-- [China’s Chang’e-6 probe lands on far side of the moon aiming to return first samples to Earth](https://www.theguardian.com/world/article/2024/jun/02/chinas-change-6-probe-lands-on-far-side-of-the-moon)
-- [Zhilei Zhang knocks out Deontay Wilder after Daniel Dubois stops Filip Hrgović – as it happened](https://www.theguardian.com/sport/live/2024/jun/01/wilder-zhang-dubois-hrgovic-fight-5-vs-5-boxing-live)
-- [Medvedev marches into fourth round as Zverev edges French Open thriller](https://www.theguardian.com/sport/article/2024/jun/02/tennis-medvedev-zverev-machac-griekspoor-sabalenka-rybakina)
-- [‘We refuse to disappear’: the Hong Kong 47 facing life in jail after crackdown](https://www.theguardian.com/world/article/2024/jun/02/we-refuse-to-disappear-the-hong-kong-47-facing-life-in-jail-after-crackdown)
-- [Ukraine war briefing: Kharkiv counts cost of Russian air strikes](https://www.theguardian.com/world/article/2024/jun/02/ukraine-war-briefing-kharkiv-counts-cost-of-russian-air-strikes)
-- [‘It seems like a dream but it is reality’: Real Madrid win delights Ancelotti](https://www.theguardian.com/football/article/2024/jun/02/real-madrid-carlo-ancelotti-jude-bellingham)
-- [Did you pay for that? What is driving the massive rise in shoplifting?](https://www.theguardian.com/uk-news/article/2024/jun/02/did-you-pay-for-that-what-is-driving-the-massive-rise-in-shoplifting)
-- [Predictive blood test hailed as ‘incredibly exciting’ breast cancer breakthrough](https://www.theguardian.com/society/article/2024/jun/02/predictive-blood-test-hailed-as-incredibly-exciting-breast-cancer-breakthrough)
-- [Rebel Wilson says idea only gay actors can play gay roles ‘is total nonsense’](https://www.theguardian.com/film/article/2024/jun/02/rebel-wilson-says-idea-only-gay-actors-can-play-gay-roles-is-total-nonsense)
+- [How to live to 100 | podcast](https://www.theguardian.com/news/audio/2024/jun/03/how-to-live-to-100-podcast)
+- [Maldives to ban Israeli passport holders from entry in protest over Gaza war](https://www.theguardian.com/world/article/2024/jun/03/maldives-israel-passport-holders-ban-gaza-war)
+- [Ukraine war briefing: Kyiv mourns prominent combat medic and journalist killed in action](https://www.theguardian.com/world/article/2024/jun/03/ukraine-war-briefing-kyiv-mourns-prominent-combat-medic-and-journalist-killed-in-action)
+- [Yuka Saso triumphs at US Women’s Open after superb final-round 68](https://www.theguardian.com/sport/article/2024/jun/03/yuka-saso-triumphs-at-us-womens-open-after-superb-final-round-68)
+- [‘We want to forge ahead’: grief and defiance as Dom Phillips’ widow journeys to site of his death](https://www.theguardian.com/world/article/2024/jun/03/dom-phillips-widow-alessandra-sampaio-amazon-brazil)
+- [Mexico prepares to elect first female president as violence erupts at polling centers](https://www.theguardian.com/world/article/2024/jun/02/mexico-elections-first-female-president-violence)
+- [Euro 2024 team guides part 1: Germany](https://www.theguardian.com/football/article/2024/jun/03/euro-2024-team-guides-part-1-germany)
+- [Minority ethnic heart failure patients ‘36% more likely to die’ in UK](https://www.theguardian.com/society/article/2024/jun/03/minority-ethnic-heart-failure-patients-36-more-likely-to-die)
+- [Three charged with invading pitch during Champions League final](https://www.theguardian.com/uk-news/article/2024/jun/02/three-charged-with-invading-pitch-during-champions-league-final)
+- [John Swinney says SNP facing its biggest challenge for years](https://www.theguardian.com/politics/article/2024/jun/02/john-swinney-says-snp-facing-its-biggest-challenge-for-years)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

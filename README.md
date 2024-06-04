@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [What is science? Tech heavyweights brawl over definition](https://www.nature.com/articles/d41586-024-01626-z)
-- [Genetic Cause of Intellectual Disability Affecting Thousands](https://www.mountsinai.org/about/newsroom/2024/researchers-identify-a-genetic-cause-of-intellectual-disability-affecting-tens-of-thousands)
-- [Our Big Max index shows how burger prices differ across borders](https://www.economist.com/big-mac-index)
-- [How does &#39;not&#39; affect what we understand? Scientists find negation mitigates](https://www.sciencedaily.com/releases/2024/05/240530182152.htm)
-- [FAA Reauthorization Bill Signed into Law](https://www.afar.com/magazine/faa-reauthorization-bill-outlines-new-air-travel-rules)
-- [Why paying women to have more babies won&#39;t work](https://www.economist.com/leaders/2024/05/23/why-paying-women-to-have-more-babies-wont-work)
-- [A Brief Look at the 3DS Cartridge Protocol](https://blog.winter-software.com/2024/06/02/ctr-cart-protocol)
-- [Lenders file class-action against Equifax citing monopoly in work number product](https://www.housingwire.com/articles/lenders-file-class-action-lawsuit-against-equifax-citing-monopoly-in-work-number-product/)
-- [AI content production machine, advertising engine](https://gerrymcgovern.com/ai-content-production-machine-advertising-engine/)
-- [The Intellectual Obesity Crisis](https://www.gurwinder.blog/p/the-intellectual-obesity-crisis)
+- [Claudia Sheinbaum Pardo most likely to be the next Mexican President](https://prep2024.ine.mx/publicacion/nacional/presidencia/nacional/candidatura)
+- [The V8 Heap Sandbox [pdf]](https://saelo.github.io/presentations/offensivecon_24_the_v8_heap_sandbox.pdf)
+- [Show HN: High Availability of Home IoT System](https://ahmetozer.org/high-avability-of-home-iot-system)
+- [New telescope images of Jupiter&#39;s moon Io rival those from spacecraft](https://phys.org/news/2024-05-glimpses-volcanic-world-telescope-images.html)
+- [Show HN: FeedbackGrow – API-First User Feedback with AI Insights](https://feedbackgrow.com/)
+- [New vestiges of the first life on Earth discovered in Saudi Arabia](https://phys.org/news/2024-05-vestiges-life-earth-saudi-arabia.html)
+- [Y Combinator CEO boosts &#39;Soros&#39; conspiracy theory](https://www.thenerdreich.com/y-combinator-ceo-garry-tan-soros-conspiracy/)
+- [How Russia is trying to disrupt the 2024 Paris Olympic Games](https://blogs.microsoft.com/on-the-issues/2024/06/02/russia-cyber-bots-disinformation-2024-paris-olympics/)
+- [I just successfully cloned a repository from GitHub into the Puter Web OS](https://twitter.com/HeyPuter/status/1797801012797063290)
+- [Clues to disappearance of North America&#39;s large mammals 50k years ago](https://phys.org/news/2024-05-clues-mysterious-north-america-large.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

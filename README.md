@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [How to live to 100 | podcast](https://www.theguardian.com/news/audio/2024/jun/03/how-to-live-to-100-podcast)
-- [Maldives to ban Israeli passport holders from entry in protest over Gaza war](https://www.theguardian.com/world/article/2024/jun/03/maldives-israel-passport-holders-ban-gaza-war)
-- [Ukraine war briefing: Kyiv mourns prominent combat medic and journalist killed in action](https://www.theguardian.com/world/article/2024/jun/03/ukraine-war-briefing-kyiv-mourns-prominent-combat-medic-and-journalist-killed-in-action)
-- [Yuka Saso triumphs at US Women’s Open after superb final-round 68](https://www.theguardian.com/sport/article/2024/jun/03/yuka-saso-triumphs-at-us-womens-open-after-superb-final-round-68)
-- [‘We want to forge ahead’: grief and defiance as Dom Phillips’ widow journeys to site of his death](https://www.theguardian.com/world/article/2024/jun/03/dom-phillips-widow-alessandra-sampaio-amazon-brazil)
-- [Mexico prepares to elect first female president as violence erupts at polling centers](https://www.theguardian.com/world/article/2024/jun/02/mexico-elections-first-female-president-violence)
-- [Euro 2024 team guides part 1: Germany](https://www.theguardian.com/football/article/2024/jun/03/euro-2024-team-guides-part-1-germany)
-- [Minority ethnic heart failure patients ‘36% more likely to die’ in UK](https://www.theguardian.com/society/article/2024/jun/03/minority-ethnic-heart-failure-patients-36-more-likely-to-die)
-- [Three charged with invading pitch during Champions League final](https://www.theguardian.com/uk-news/article/2024/jun/02/three-charged-with-invading-pitch-during-champions-league-final)
-- [John Swinney says SNP facing its biggest challenge for years](https://www.theguardian.com/politics/article/2024/jun/02/john-swinney-says-snp-facing-its-biggest-challenge-for-years)
+- [India election results 2024 live updates: Modi widely expected to win historic third term as BJP eyes two-thirds majority](https://www.theguardian.com/world/live/2024/jun/04/india-election-results-2024-live-updates-modi-bjp-vote-counting)
+- [Has there been a purge of the leftwing of the Labour party? - podcast](https://www.theguardian.com/news/audio/2024/jun/04/has-there-been-a-purge-of-the-leftwing-of-the-labour-party-podcast)
+- [X changes porn policy to opt-in system that blocks under-18 users](https://www.theguardian.com/technology/article/2024/jun/04/x-twitter-porn-policy-under-18-opt-in)
+- [‘Extremely impressive’: melanoma jab trial results excite doctors](https://www.theguardian.com/society/article/2024/jun/03/extremely-impressive-melanoma-jab-trial-results-excite-doctors)
+- [Ukraine war briefing: Italy sending another Samp/T air defence system](https://www.theguardian.com/world/article/2024/jun/04/ukraine-war-briefing-italy-sending-another-sampt-air-defence-system)
+- [English pupil funding at same level as when Tories took power, study finds](https://www.theguardian.com/education/article/2024/jun/04/english-pupil-funding-at-same-level-as-when-tories-took-power-study-finds)
+- [Euro 2024 team guides part three: Scotland](https://www.theguardian.com/football/article/2024/jun/04/euro-2024-team-guides-part-three-scotland)
+- [Artificial cornea implant saves sight of man, 91, in NHS first](https://www.theguardian.com/society/article/2024/jun/04/artificial-cornea-implant-saves-sight-of-man-91-in-nhs-first)
+- [Essex charged by Cricket Regulator over allegations of ‘systemic’ racism at club](https://www.theguardian.com/sport/article/2024/jun/03/essex-charged-cricket-regulator-alleged-racism)
+- [Nigel Farage to stand for Reform UK in general election U-turn](https://www.theguardian.com/politics/article/2024/jun/03/nigel-farage-to-stand-for-reform-uk-in-general-election-after-u-turn)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

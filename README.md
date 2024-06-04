@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Eight years of organizing tech meetups &lpar;2023&rpar;](https://notes.eatonphil.com/eight-years-of-tech-meetups.html)
-- [New material looks like frosted glass but lets in more light than a window](https://www.popsci.com/technology/glass-coating-privacy/)
-- [Lowering resource usage with foot and systemd](https://rgoswami.me/posts/lowering-resource-usage-foot-systemd/)
-- [Protecting sensitive data in Elixir GenServers &lpar;2023&rpar;](https://gabrielpereira.dev/en/posts/protecting-sensitive-data-in-elixir-gen-servers/)
-- [An intuitive guide to Maxwell&#39;s equations &lpar;2020&rpar;](https://photonlines.substack.com/p/an-intuitive-guide-to-maxwells-equations)
-- [HN-text: an easy-to-use, text-first Hacker News terminal client](https://github.com/piqoni/hn-text)
-- [Atomic polling intervals for highly concurrent workloads](https://www.byronwasti.com/polling-atomics/)
-- [cuDF – GPU DataFrame Library](https://github.com/rapidsai/cudf)
-- [Upgrading my Chumby 8 kernel part 10: RTC](https://www.downtowndougbrown.com/2024/06/upgrading-my-chumby-8-kernel-part-10-rtc/)
-- [Workmanship standard for crimping, interconnecting cables, harnesses, and wiring](https://standards.nasa.gov/standard/NASA/NASA-STD-87394)
+- [New telescope images of Jupiter&#39;s moon Io rival those from spacecraft](https://phys.org/news/2024-05-glimpses-volcanic-world-telescope-images.html)
+- [Diffusion on Syntax Trees for Program Synthesis](https://tree-diffusion.github.io/)
+- [Please support &quot;skip to main content&quot; on your docs site](https://technicalwriting.dev/a11y/skip.html)
+- [Psychedelics are challenging the standard of randomized controlled trials](https://www.theatlantic.com/health/archive/2024/06/psychedelics-mdma-ptsd-fda-placebo/678588/)
+- [New theory suggests time is an illusion created by quantum entanglement](https://bgr.com/science/new-theory-suggests-time-is-an-illusion-created-by-quantum-entanglement/)
+- [Why No Roman Industrial Revolution? &lpar;2022&rpar;](https://acoup.blog/2022/08/26/collections-why-no-roman-industrial-revolution/)
+- [SnapMagic &lpar;YC S15&rpar;, AI copilot for electronics, is hiring a PM](https://careers.snapmagic.com/o/technical-project-manager)
+- [Grokfast: Accelerated Grokking by Amplifying Slow Gradients](https://arxiv.org/abs/2405.20233)
+- [Fusion tech finds geothermal energy application](https://spectrum.ieee.org/geothermal-energy-gyrotron-quaise)
+- [If English was written like Chinese &lpar;1999&rpar;](https://zompist.com/yingzi/yingzi.htm)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

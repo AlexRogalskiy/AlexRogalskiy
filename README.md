@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Claudia Sheinbaum Pardo most likely to be the next Mexican President](https://prep2024.ine.mx/publicacion/nacional/presidencia/nacional/candidatura)
-- [The V8 Heap Sandbox [pdf]](https://saelo.github.io/presentations/offensivecon_24_the_v8_heap_sandbox.pdf)
-- [Show HN: High Availability of Home IoT System](https://ahmetozer.org/high-avability-of-home-iot-system)
-- [New telescope images of Jupiter&#39;s moon Io rival those from spacecraft](https://phys.org/news/2024-05-glimpses-volcanic-world-telescope-images.html)
-- [Show HN: FeedbackGrow – API-First User Feedback with AI Insights](https://feedbackgrow.com/)
-- [New vestiges of the first life on Earth discovered in Saudi Arabia](https://phys.org/news/2024-05-vestiges-life-earth-saudi-arabia.html)
-- [Y Combinator CEO boosts &#39;Soros&#39; conspiracy theory](https://www.thenerdreich.com/y-combinator-ceo-garry-tan-soros-conspiracy/)
-- [How Russia is trying to disrupt the 2024 Paris Olympic Games](https://blogs.microsoft.com/on-the-issues/2024/06/02/russia-cyber-bots-disinformation-2024-paris-olympics/)
-- [I just successfully cloned a repository from GitHub into the Puter Web OS](https://twitter.com/HeyPuter/status/1797801012797063290)
-- [Clues to disappearance of North America&#39;s large mammals 50k years ago](https://phys.org/news/2024-05-clues-mysterious-north-america-large.html)
+- [FDA Panel Rejects Use of MDMA for Treatment of PTSD](https://www.nytimes.com/2024/06/04/health/fda-mdma-therapy-ptsd.html)
+- [Show HN: Expo Reader – Turn YouTube Videos into Readable Blogs](https://www.exporeader.com)
+- [From 700 A.D., A Pre-Viking Vessel Rises into View](https://www.nytimes.com/2024/05/31/science/archaeology-vikings-ship-burial.html)
+- [PQShield plugs leaks in Kyber/ML-KEM to improve PQC implementation maturity](https://pqshield.com/pqshield-plugs-timing-leaks-in-kyber-ml-kem-to-improve-pqc-implementation-maturity/)
+- [Show HN: I created an German Demo Events App](https://apps.apple.com/de/app/zsw/id6502181270)
+- [Django Enhancement Proposal 14 Is Approved: Background Workers](https://www.djangoproject.com/weblog/2024/may/29/django-enhancement-proposal-14-background-workers/)
+- [eUICC and eSIM Developer Manual](https://euicc-manual.osmocom.org/)
+- [Thundering Herd Problem](https://en.wikipedia.org/wiki/Thundering_herd_problem)
+- [WhatsApp, Discord, and the Secret to Handling Concurrent Users](https://favtutor.com/articles/whatsapp-discord-and-the-secret-to-handling-millions-of-concurrent-users/)
+- [FDA advisors reject MDMA therapy for PTSD](https://www.npr.org/sections/shots-health-news/2024/06/04/nx-s1-4991112/mdma-therapy-ptsd-fda-advisors)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

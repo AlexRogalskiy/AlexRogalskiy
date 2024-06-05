@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [New telescope images of Jupiter&#39;s moon Io rival those from spacecraft](https://phys.org/news/2024-05-glimpses-volcanic-world-telescope-images.html)
-- [Diffusion on Syntax Trees for Program Synthesis](https://tree-diffusion.github.io/)
-- [Please support &quot;skip to main content&quot; on your docs site](https://technicalwriting.dev/a11y/skip.html)
-- [Psychedelics are challenging the standard of randomized controlled trials](https://www.theatlantic.com/health/archive/2024/06/psychedelics-mdma-ptsd-fda-placebo/678588/)
-- [New theory suggests time is an illusion created by quantum entanglement](https://bgr.com/science/new-theory-suggests-time-is-an-illusion-created-by-quantum-entanglement/)
-- [Why No Roman Industrial Revolution? &lpar;2022&rpar;](https://acoup.blog/2022/08/26/collections-why-no-roman-industrial-revolution/)
-- [SnapMagic &lpar;YC S15&rpar;, AI copilot for electronics, is hiring a PM](https://careers.snapmagic.com/o/technical-project-manager)
-- [Grokfast: Accelerated Grokking by Amplifying Slow Gradients](https://arxiv.org/abs/2405.20233)
-- [Fusion tech finds geothermal energy application](https://spectrum.ieee.org/geothermal-energy-gyrotron-quaise)
-- [If English was written like Chinese &lpar;1999&rpar;](https://zompist.com/yingzi/yingzi.htm)
+- [You&#39;ll regret using natural keys](https://blog.ploeh.dk/2024/06/03/youll-regret-using-natural-keys/)
+- [New AI system detects rare epileptic seizures](https://viterbischool.usc.edu/news/2024/06/ai-detects-rare-epilepsy/)
+- [Study shows most doctors endorsing drugs on X are paid to do so](https://medicalxpress.com/news/2024-05-doctors-endorsing-drugs-paid.html)
+- [macOS Bartender Auto-Update Signed by Unknown New Owner](https://www.macrumors.com/2024/06/04/bartender-mac-app-new-owner/)
+- [Continue &lpar;YC S23&rpar; is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
+- [An animated introduction to Fourier series](https://www.andreinc.net/2024/04/24/from-the-circle-to-epicycles)
+- [Some notes on influenceering](https://lcamtuf.substack.com/p/some-notes-on-influenceering)
+- [Debian&#39;s /tmpest in a teapot](https://lwn.net/SubscriberLink/975565/bcce68a68d82d63a/)
+- [Bit-twiddling abstract addition with unknown bits](https://dougallj.wordpress.com/2020/01/13/bit-twiddling-addition-with-unknown-bits/)
+- [Particle accelerators for the microchip era](https://www.moore.org/article-detail?newsUrlName=particle-accelerators-for-the-microchip-era)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

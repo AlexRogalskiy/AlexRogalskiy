@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [India election results 2024 live updates: Modi widely expected to win historic third term as BJP eyes two-thirds majority](https://www.theguardian.com/world/live/2024/jun/04/india-election-results-2024-live-updates-modi-bjp-vote-counting)
-- [Has there been a purge of the leftwing of the Labour party? - podcast](https://www.theguardian.com/news/audio/2024/jun/04/has-there-been-a-purge-of-the-leftwing-of-the-labour-party-podcast)
-- [X changes porn policy to opt-in system that blocks under-18 users](https://www.theguardian.com/technology/article/2024/jun/04/x-twitter-porn-policy-under-18-opt-in)
-- [‘Extremely impressive’: melanoma jab trial results excite doctors](https://www.theguardian.com/society/article/2024/jun/03/extremely-impressive-melanoma-jab-trial-results-excite-doctors)
-- [Ukraine war briefing: Italy sending another Samp/T air defence system](https://www.theguardian.com/world/article/2024/jun/04/ukraine-war-briefing-italy-sending-another-sampt-air-defence-system)
-- [English pupil funding at same level as when Tories took power, study finds](https://www.theguardian.com/education/article/2024/jun/04/english-pupil-funding-at-same-level-as-when-tories-took-power-study-finds)
-- [Euro 2024 team guides part three: Scotland](https://www.theguardian.com/football/article/2024/jun/04/euro-2024-team-guides-part-three-scotland)
-- [Artificial cornea implant saves sight of man, 91, in NHS first](https://www.theguardian.com/society/article/2024/jun/04/artificial-cornea-implant-saves-sight-of-man-91-in-nhs-first)
-- [Essex charged by Cricket Regulator over allegations of ‘systemic’ racism at club](https://www.theguardian.com/sport/article/2024/jun/03/essex-charged-cricket-regulator-alleged-racism)
-- [Nigel Farage to stand for Reform UK in general election U-turn](https://www.theguardian.com/politics/article/2024/jun/03/nigel-farage-to-stand-for-reform-uk-in-general-election-after-u-turn)
+- [Radiohead’s Jonny Greenwood calls backlash over Israel show amid Gaza war ‘unprogressive’](https://www.theguardian.com/music/article/2024/jun/05/radiohead-jonny-greenwood-israel-show-backlash-dudu-tassa-israel-gaza-war-palestine)
+- [From beef noodles to bots: Taiwan’s factcheckers on fighting Chinese disinformation and ‘unstoppable’ AI](https://www.theguardian.com/world/article/2024/jun/05/from-beef-noodles-to-bots-taiwans-factcheckers-on-fighting-chinese-disinformation-and-unstoppable-ai)
+- [Donald Trump is now a convicted criminal. Do voters care?](https://www.theguardian.com/news/audio/2024/jun/05/donald-trump-criminal-do-voters-care-podcast)
+- [‘Rishi comes out swinging’: what the papers say after the UK’s first election debate](https://www.theguardian.com/media/article/2024/jun/05/uk-election-2024-tv-debate-rishi-sunak-keir-starmer-newspapers)
+- [Modi loses parliamentary majority in Indian election](https://www.theguardian.com/world/article/2024/jun/04/india-election-results-narendra-modi-bjp)
+- [Ukraine war briefing: Air raid alerts follow blackouts forced by power rationing](https://www.theguardian.com/world/article/2024/jun/05/ukraine-war-briefing-air-raid-alerts-follow-blackouts-forced-by-power-rationing)
+- [Tiananmen Square anniversary: Hong Kong police detain artist who made sign in the air](https://www.theguardian.com/world/article/2024/jun/04/tiananmen-square-massacre-anniversary-hong-kong-police-arrests-artist-sanmu-chen)
+- [Eight in 10 primary teachers in England spending own money to help pupils](https://www.theguardian.com/education/article/2024/jun/05/eight-in-10-primary-teachers-in-england-spending-own-money-to-help-pupils)
+- [UK clothing sales to EU plummet as Brexit red tape deters exporters](https://www.theguardian.com/business/article/2024/jun/05/uk-clothing-sales-eu-crash-brexit-red-tape-deters-exporters)
+- [Asda now the most expensive UK supermarket to buy fuel, study shows](https://www.theguardian.com/business/article/2024/jun/05/asda-now-most-expensive-uk-supermarket-to-buy-fuel-study-shows)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

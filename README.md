@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [FDA Panel Rejects Use of MDMA for Treatment of PTSD](https://www.nytimes.com/2024/06/04/health/fda-mdma-therapy-ptsd.html)
-- [Show HN: Expo Reader – Turn YouTube Videos into Readable Blogs](https://www.exporeader.com)
-- [From 700 A.D., A Pre-Viking Vessel Rises into View](https://www.nytimes.com/2024/05/31/science/archaeology-vikings-ship-burial.html)
-- [PQShield plugs leaks in Kyber/ML-KEM to improve PQC implementation maturity](https://pqshield.com/pqshield-plugs-timing-leaks-in-kyber-ml-kem-to-improve-pqc-implementation-maturity/)
-- [Show HN: I created an German Demo Events App](https://apps.apple.com/de/app/zsw/id6502181270)
-- [Django Enhancement Proposal 14 Is Approved: Background Workers](https://www.djangoproject.com/weblog/2024/may/29/django-enhancement-proposal-14-background-workers/)
-- [eUICC and eSIM Developer Manual](https://euicc-manual.osmocom.org/)
-- [Thundering Herd Problem](https://en.wikipedia.org/wiki/Thundering_herd_problem)
-- [WhatsApp, Discord, and the Secret to Handling Concurrent Users](https://favtutor.com/articles/whatsapp-discord-and-the-secret-to-handling-millions-of-concurrent-users/)
-- [FDA advisors reject MDMA therapy for PTSD](https://www.npr.org/sections/shots-health-news/2024/06/04/nx-s1-4991112/mdma-therapy-ptsd-fda-advisors)
+- [Real Estate&#39;s Role in Child Care](https://www.thesisdriven.com/p/real-estates-role-in-child-care)
+- [Tell HN: Fedora Dual Boot didn&#39;t work, back to Mint](https://news.ycombinator.com/item?id=40592730)
+- [A Boy Who Was King of Vanilla](https://worldsensorium.com/the-boy-who-was-king-of-vanilla/)
+- [Whales Could Help Us Speak to Aliens](https://nautil.us/how-whales-could-help-us-speak-to-aliens-559443/)
+- [The Geometry of Categorical and Hierarchical Concepts in Large Language Models](https://arxiv.org/abs/2406.01506)
+- [White House to Tackle Cybersecurity Regulation Fragmentation: CISOs Spend Up To](https://socket.dev/blog/white-house-to-tackle-cybersecurity-regulation-fragmentation)
+- [How to Disable Windows Recall](https://www.windowscentral.com/software-apps/windows-11/how-to-disable-windows-recall)
+- [[V]ery [L]ong [I]ncoherent [W]riteup: Historical context on Groq](https://irrationalanalysis.substack.com/p/very-long-incoherent-writeup)
+- [Fungus Provides a Shortcut from Cellulose to Bulk Erythro-Isocitric Acid](https://pubs.acs.org/doi/10.1021/acssuschemeng.3c04664)
+- [Save Team Fortress 2 &lpar;#savetf2&rpar;](https://save.tf/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

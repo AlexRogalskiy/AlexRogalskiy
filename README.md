@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Radiohead’s Jonny Greenwood calls backlash over Israel show amid Gaza war ‘unprogressive’](https://www.theguardian.com/music/article/2024/jun/05/radiohead-jonny-greenwood-israel-show-backlash-dudu-tassa-israel-gaza-war-palestine)
-- [From beef noodles to bots: Taiwan’s factcheckers on fighting Chinese disinformation and ‘unstoppable’ AI](https://www.theguardian.com/world/article/2024/jun/05/from-beef-noodles-to-bots-taiwans-factcheckers-on-fighting-chinese-disinformation-and-unstoppable-ai)
-- [Donald Trump is now a convicted criminal. Do voters care?](https://www.theguardian.com/news/audio/2024/jun/05/donald-trump-criminal-do-voters-care-podcast)
-- [‘Rishi comes out swinging’: what the papers say after the UK’s first election debate](https://www.theguardian.com/media/article/2024/jun/05/uk-election-2024-tv-debate-rishi-sunak-keir-starmer-newspapers)
-- [Modi loses parliamentary majority in Indian election](https://www.theguardian.com/world/article/2024/jun/04/india-election-results-narendra-modi-bjp)
-- [Ukraine war briefing: Air raid alerts follow blackouts forced by power rationing](https://www.theguardian.com/world/article/2024/jun/05/ukraine-war-briefing-air-raid-alerts-follow-blackouts-forced-by-power-rationing)
-- [Tiananmen Square anniversary: Hong Kong police detain artist who made sign in the air](https://www.theguardian.com/world/article/2024/jun/04/tiananmen-square-massacre-anniversary-hong-kong-police-arrests-artist-sanmu-chen)
-- [Eight in 10 primary teachers in England spending own money to help pupils](https://www.theguardian.com/education/article/2024/jun/05/eight-in-10-primary-teachers-in-england-spending-own-money-to-help-pupils)
-- [UK clothing sales to EU plummet as Brexit red tape deters exporters](https://www.theguardian.com/business/article/2024/jun/05/uk-clothing-sales-eu-crash-brexit-red-tape-deters-exporters)
-- [Asda now the most expensive UK supermarket to buy fuel, study shows](https://www.theguardian.com/business/article/2024/jun/05/asda-now-most-expensive-uk-supermarket-to-buy-fuel-study-shows)
+- [T20 World Cup 2024: Australia v Oman – live](https://www.theguardian.com/sport/live/2024/jun/06/t20-world-cup-2024-australia-vs-oman-live-updates-scores-results-teams-squads-start-time-barbados-kensington-oval)
+- [Jeannette Charles, actor who played Queen Elizabeth II in dozens of films and shows, dies aged 96](https://www.theguardian.com/film/article/2024/jun/06/jeannette-charles-actor-queen-elizabeth-ii-dies-aged-96)
+- [From child refugee to Guardian reporter: one journalist’s extraordinary story](https://www.theguardian.com/news/audio/2024/jun/06/from-child-refugee-to-guardian-reporter-one-journalists-extraordinary-story-podcast)
+- [Fiji prime minister, 75, wins shot put bronze medal at Oceania athletics championships](https://www.theguardian.com/sport/article/2024/jun/06/fiji-prime-minister-sitiveni-rabuka-75-wins-shot-put-bronze-medal-oceania-athletics-championships)
+- [Four killed and dozens injured after two trains collide head-on in Czech Republic](https://www.theguardian.com/world/article/2024/jun/06/four-killed-and-dozens-injured-after-two-trains-collide-head-on-in-czech-republic)
+- [Mexico man dies from first human case of bird flu strain H5N2](https://www.theguardian.com/world/article/2024/jun/06/mexico-man-dies-from-first-human-case-of-bird-flu-strain-h5n2)
+- [Ukraine war briefing: Power cuts ordered as Russian attacks create ‘catastrophic’ shortages](https://www.theguardian.com/world/article/2024/jun/06/ukraine-war-briefing-power-cuts-ordered-as-russian-attacks-create-catastrophic-shortages)
+- [French artist Ben dies aged 88, hours after wife’s death](https://www.theguardian.com/artanddesign/article/2024/jun/06/ben-vautier-dies-french-artist-death-aged-88)
+- [‘How could they mine here?’ New Zealand grapples with new push for resource riches](https://www.theguardian.com/world/article/2024/jun/06/how-could-they-mine-here-new-zealand-grapples-with-new-push-for-resource-riches)
+- [Euro 2024 team guides part seven: Italy](https://www.theguardian.com/football/article/2024/jun/06/euro-2024-team-guides-part-seven-italy)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

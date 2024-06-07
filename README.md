@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [JSON extra uses orjson instead of ujson &lpar;2019&rpar;](https://github.com/pydantic/pydantic/pull/599)
-- [FBI raids Atlanta corporate landlord in probe of rental market price fixing](https://www.ajc.com/news/atlanta-news/fbi-raids-atlanta-corporate-landlord-with-ties-to-realpage/PT65C57YUFF2JGB7TRVRC7IFLE/)
-- [DHCPv6-PD – First Steps](https://sha256.net/dhcpv6-pd-first-steps.html)
-- [Show HN: Original 8x16 ASCII Fixed Width Font: Classic Console Neue](https://webdraft.hu/fonts/classic-console/)
-- [Jury Finds Boeing Stole Tech from Electric Airplane Startup](https://www.govtech.com/public-safety/jury-finds-boeing-stole-tech-from-electric-airplane-startup)
-- [Researchers to retract landmark Alzheimer&#39;s paper containing doctored images](https://www.science.org/content/article/researchers-plan-retract-landmark-alzheimers-paper-containing-doctored-images)
-- [How big a deal was the Industrial Revolution? &lpar;2017&rpar;](https://lukemuehlhauser.com/industrial-revolution/)
-- [A primer on the next generation of antibodies](https://www.abhishaike.com/p/a-primer-to-the-next-generation-of-antibodies)
-- [RankScience &lpar;YC W17&rpar; is hiring to supercharge SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
-- [We improved the performance of a userspace TCP stack in Go](https://coder.com/blog/delivering-5x-faster-throughput-in-coder-2-12-0)
+- [Wallace and Gromit return to face penguin nemesis](https://www.bbc.com/news/articles/cd11kj0d97jo)
+- [Florida woman&#39;s Apple Watch traces lost luggage to airport worker&#39;s home](https://www.washingtonpost.com/travel/2024/06/06/lost-luggage-tracking-apple-watch-florida-airport-worker/)
+- [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=40604246)
+- [Uganda&#39;s surveillance state is built on national ID cards](https://www.bloomberg.com/news/features/2024-06-04/uganda-yoweri-museveni-s-critics-targeted-via-biometric-id-system)
+- [Make your program slower with threads &lpar;2014&rpar;](https://brooker.co.za/blog/2014/12/06/random.html)
+- [The problem with lying is keeping track of all the lies](https://materialize.com/blog/engineering/keeping-track-lies/)
+- [Shu Ha Ri &lpar;2014&rpar;](https://www.martinfowler.com/bliki/ShuHaRi.html)
+- [AI in software engineering at Google: Progress and the path ahead](https://research.google/blog/ai-in-software-engineering-at-google-progress-and-the-path-ahead/)
+- [Dragonfly: A large vision-language model with multi-resolution zoom](https://www.together.ai/blog/dragonfly-v1)
+- [Let rand = main as usize &lpar;2022&rpar;](https://codeandbitters.com/main-as-usize/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

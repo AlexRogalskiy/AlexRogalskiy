@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [T20 World Cup 2024: Australia v Oman – live](https://www.theguardian.com/sport/live/2024/jun/06/t20-world-cup-2024-australia-vs-oman-live-updates-scores-results-teams-squads-start-time-barbados-kensington-oval)
-- [Jeannette Charles, actor who played Queen Elizabeth II in dozens of films and shows, dies aged 96](https://www.theguardian.com/film/article/2024/jun/06/jeannette-charles-actor-queen-elizabeth-ii-dies-aged-96)
-- [From child refugee to Guardian reporter: one journalist’s extraordinary story](https://www.theguardian.com/news/audio/2024/jun/06/from-child-refugee-to-guardian-reporter-one-journalists-extraordinary-story-podcast)
-- [Fiji prime minister, 75, wins shot put bronze medal at Oceania athletics championships](https://www.theguardian.com/sport/article/2024/jun/06/fiji-prime-minister-sitiveni-rabuka-75-wins-shot-put-bronze-medal-oceania-athletics-championships)
-- [Four killed and dozens injured after two trains collide head-on in Czech Republic](https://www.theguardian.com/world/article/2024/jun/06/four-killed-and-dozens-injured-after-two-trains-collide-head-on-in-czech-republic)
-- [Mexico man dies from first human case of bird flu strain H5N2](https://www.theguardian.com/world/article/2024/jun/06/mexico-man-dies-from-first-human-case-of-bird-flu-strain-h5n2)
-- [Ukraine war briefing: Power cuts ordered as Russian attacks create ‘catastrophic’ shortages](https://www.theguardian.com/world/article/2024/jun/06/ukraine-war-briefing-power-cuts-ordered-as-russian-attacks-create-catastrophic-shortages)
-- [French artist Ben dies aged 88, hours after wife’s death](https://www.theguardian.com/artanddesign/article/2024/jun/06/ben-vautier-dies-french-artist-death-aged-88)
-- [‘How could they mine here?’ New Zealand grapples with new push for resource riches](https://www.theguardian.com/world/article/2024/jun/06/how-could-they-mine-here-new-zealand-grapples-with-new-push-for-resource-riches)
-- [Euro 2024 team guides part seven: Italy](https://www.theguardian.com/football/article/2024/jun/06/euro-2024-team-guides-part-seven-italy)
+- [Dallas Mavericks v Boston Celtics: NBA finals Game 1 – live](https://www.theguardian.com/sport/live/2024/jun/06/dallas-mavericks-v-boston-celtics-nba-finals-game-1-live)
+- [The Israeli protesters trying to stop food aid getting to Gaza – podcast](https://www.theguardian.com/news/audio/2024/jun/07/the-israeli-protesters-trying-to-stop-food-aid-getting-to-gaza-podcast)
+- [Ukraine war briefing: France to send Mirage fighter jets and train pilots](https://www.theguardian.com/world/article/2024/jun/07/ukraine-war-briefing-france-to-send-mirage-fighter-jets-and-train-pilots)
+- [Russia nuclear-powered submarine to visit Cuba amid rising tensions with US](https://www.theguardian.com/world/article/2024/jun/07/russia-nuclear-powered-submarine-kazan-to-visit-cuba)
+- [‘Rigged’: Trump attacks judge and courts in first post-conviction rally](https://www.theguardian.com/us-news/article/2024/jun/06/trump-arizona-rally)
+- [Euro 2024 team guides part nine: Denmark](https://www.theguardian.com/football/article/2024/jun/07/euro-2024-team-guides-part-nine-denmark)
+- [Incoming ministers ‘will face UK public services on brink of collapse’](https://www.theguardian.com/business/article/2024/jun/07/incoming-ministers-will-face-uk-public-services-on-brink-of-collapse)
+- [Cyril Ramaphosa open to forming South African unity government with rivals](https://www.theguardian.com/world/article/2024/jun/06/cyril-ramaphosa-open-to-forming-south-african-unity-government-with-rivals)
+- [Communities will be given right to turn eyesores into parks, says Labour](https://www.theguardian.com/environment/article/2024/jun/06/communities-will-be-given-right-to-turn-eyesores-into-parks-says-labour)
+- [Southgate promises different England after axing Grealish and Maguire](https://www.theguardian.com/football/article/2024/jun/06/england-euro-2024-squad-jack-grealish-harry-maguire-final-26)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

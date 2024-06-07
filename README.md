@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Real Estate&#39;s Role in Child Care](https://www.thesisdriven.com/p/real-estates-role-in-child-care)
-- [Tell HN: Fedora Dual Boot didn&#39;t work, back to Mint](https://news.ycombinator.com/item?id=40592730)
-- [A Boy Who Was King of Vanilla](https://worldsensorium.com/the-boy-who-was-king-of-vanilla/)
-- [Whales Could Help Us Speak to Aliens](https://nautil.us/how-whales-could-help-us-speak-to-aliens-559443/)
-- [The Geometry of Categorical and Hierarchical Concepts in Large Language Models](https://arxiv.org/abs/2406.01506)
-- [White House to Tackle Cybersecurity Regulation Fragmentation: CISOs Spend Up To](https://socket.dev/blog/white-house-to-tackle-cybersecurity-regulation-fragmentation)
-- [How to Disable Windows Recall](https://www.windowscentral.com/software-apps/windows-11/how-to-disable-windows-recall)
-- [[V]ery [L]ong [I]ncoherent [W]riteup: Historical context on Groq](https://irrationalanalysis.substack.com/p/very-long-incoherent-writeup)
-- [Fungus Provides a Shortcut from Cellulose to Bulk Erythro-Isocitric Acid](https://pubs.acs.org/doi/10.1021/acssuschemeng.3c04664)
-- [Save Team Fortress 2 &lpar;#savetf2&rpar;](https://save.tf/)
+- [Open-Endedness Is Essential for Artificial Superhuman Intelligence](https://arxiv.org/abs/2406.04268)
+- [The size-change principle for program termination &lpar;2001&rpar;](https://dl.acm.org/doi/abs/10.1145/360204.360210)
+- [Best Buy is shutting down its Samsung repair program](https://www.theverge.com/2024/6/6/24164777/best-buy-ends-samsung-repair-program-geek-squad)
+- [Ask HN: Please Ask Me a Question?](https://news.ycombinator.com/item?id=40604657)
+- [Show HN: I made an extension to manage my daily Things 3 tasks in the browser](https://rafaelgandi.notion.site/Today-View-04ba7526e1874caf8d14fec39ddb9315)
+- [Déjà vu is just one of many uncanny kinds of déjà experiences](https://psyche.co/ideas/deja-vu-is-just-one-of-many-uncanny-kinds-of-deja-experiences)
+- [Benchexec: BenchExec: A Framework for Reliable Benchmarking and Resource Measur](https://github.com/sosy-lab/benchexec)
+- [Linguistic Antipatterns](https://www.linguistic-antipatterns.com/)
+- [CPU-energy-meter: A tool for measuring energy consumption of Intel CPUs](https://github.com/sosy-lab/cpu-energy-meter)
+- [We Are Netomi](https://www.netomi.com/about-us/our-story)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

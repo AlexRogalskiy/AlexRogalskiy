@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Wallace and Gromit return to face penguin nemesis](https://www.bbc.com/news/articles/cd11kj0d97jo)
-- [Florida woman&#39;s Apple Watch traces lost luggage to airport worker&#39;s home](https://www.washingtonpost.com/travel/2024/06/06/lost-luggage-tracking-apple-watch-florida-airport-worker/)
-- [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=40604246)
-- [Uganda&#39;s surveillance state is built on national ID cards](https://www.bloomberg.com/news/features/2024-06-04/uganda-yoweri-museveni-s-critics-targeted-via-biometric-id-system)
-- [Make your program slower with threads &lpar;2014&rpar;](https://brooker.co.za/blog/2014/12/06/random.html)
-- [The problem with lying is keeping track of all the lies](https://materialize.com/blog/engineering/keeping-track-lies/)
-- [Shu Ha Ri &lpar;2014&rpar;](https://www.martinfowler.com/bliki/ShuHaRi.html)
-- [AI in software engineering at Google: Progress and the path ahead](https://research.google/blog/ai-in-software-engineering-at-google-progress-and-the-path-ahead/)
-- [Dragonfly: A large vision-language model with multi-resolution zoom](https://www.together.ai/blog/dragonfly-v1)
-- [Let rand = main as usize &lpar;2022&rpar;](https://codeandbitters.com/main-as-usize/)
+- [Chebyshev approximation and how it can help](https://www.EmbeddedRelated.com/showarticle/152.php)
+- [Apollo 8 astronaut William Anders ID&#39;d in WA plane crash](https://www.fox13seattle.com/news/william-anders-wa-plane-crash)
+- [3dfx Voodoo 4 video card in MXM format &lpar;2023&rpar;](https://www.vogons.org/viewtopic.php?t=100871)
+- [Slow-spinning radio neutron star breaks all the rules](https://www.sydney.edu.au/news-opinion/news/2024/06/05/slow-spinning-radio-neutron-star-breaks-all-the-rules.html)
+- [What Is PID 0?](https://blog.dave.tf/post/linux-pid0/)
+- [Xv6, a simple Unix-like teaching operating system](https://pdos.csail.mit.edu/6.828/2023/xv6.html)
+- [Yes, you can play Duck Hunt without a television &lpar;but I can&#39;t&rpar;](https://nicole.express/2024/no-screen-no-cpu-one-problem.html)
+- [The aging U.S. power grid is about to get a jolt](https://www.wsj.com/business/energy-oil/the-aging-u-s-power-grid-is-about-to-get-a-jolt-144e7fdc)
+- [Why are debut novels failing to launch?](https://www.esquire.com/entertainment/books/a60924704/debut-fiction-challenges/)
+- [Feynman’s Razor](https://defenderofthebasic.substack.com/p/feynmans-razor)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

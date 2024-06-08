@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Open-Endedness Is Essential for Artificial Superhuman Intelligence](https://arxiv.org/abs/2406.04268)
-- [The size-change principle for program termination &lpar;2001&rpar;](https://dl.acm.org/doi/abs/10.1145/360204.360210)
-- [Best Buy is shutting down its Samsung repair program](https://www.theverge.com/2024/6/6/24164777/best-buy-ends-samsung-repair-program-geek-squad)
-- [Ask HN: Please Ask Me a Question?](https://news.ycombinator.com/item?id=40604657)
-- [Show HN: I made an extension to manage my daily Things 3 tasks in the browser](https://rafaelgandi.notion.site/Today-View-04ba7526e1874caf8d14fec39ddb9315)
-- [Déjà vu is just one of many uncanny kinds of déjà experiences](https://psyche.co/ideas/deja-vu-is-just-one-of-many-uncanny-kinds-of-deja-experiences)
-- [Benchexec: BenchExec: A Framework for Reliable Benchmarking and Resource Measur](https://github.com/sosy-lab/benchexec)
-- [Linguistic Antipatterns](https://www.linguistic-antipatterns.com/)
-- [CPU-energy-meter: A tool for measuring energy consumption of Intel CPUs](https://github.com/sosy-lab/cpu-energy-meter)
-- [We Are Netomi](https://www.netomi.com/about-us/our-story)
+- [The Hidden Life of Google&#39;s Secret &lpar;Legal&rpar; Weapon](https://www.wsj.com/us-news/law/google-lawyer-secret-weapon-joshua-wright-c98d5a31)
+- [What are cheese crystals and why would you want them in your cheese?](https://millersbiofarm.com/blog/what-are-cheese-crystals-and-why-would-you-want-them-in-your-cheese)
+- [Ongoing XSS/injection attack on GitHub](https://github.com/elide-dev/elide/issues/990)
+- [Sid Meier&#39;s Civilization VII trailer [video]](https://www.youtube.com/watch?v=pygcgE3a_uY)
+- [Threatbutt](http://threatbutt.com/index.html)
+- [Scientists identify &#39;missing piece&#39; required for blood stem cell self-renewal](https://www.sciencedaily.com/releases/2024/06/240605162720.htm)
+- [OtterTune Is Shutting Down](https://ottertune.com/blog/ottertune-officially-shutting-down-services)
+- [Tensor networks for solving the Boltzmann neutron transport equation](https://discover.lanl.gov/news/0513-tensor-network-approach)
+- [Credentials Leaking with Subdomain Takeover](https://trufflesecurity.com/blog/credentials-leaking-with-subdomain-takeover)
+- [The part-time heroes behind US cricket&#39;s historic win](https://www.bbc.com/news/articles/c511lz5jw9go)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

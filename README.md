@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Dallas Mavericks v Boston Celtics: NBA finals Game 1 – live](https://www.theguardian.com/sport/live/2024/jun/06/dallas-mavericks-v-boston-celtics-nba-finals-game-1-live)
-- [The Israeli protesters trying to stop food aid getting to Gaza – podcast](https://www.theguardian.com/news/audio/2024/jun/07/the-israeli-protesters-trying-to-stop-food-aid-getting-to-gaza-podcast)
-- [Ukraine war briefing: France to send Mirage fighter jets and train pilots](https://www.theguardian.com/world/article/2024/jun/07/ukraine-war-briefing-france-to-send-mirage-fighter-jets-and-train-pilots)
-- [Russia nuclear-powered submarine to visit Cuba amid rising tensions with US](https://www.theguardian.com/world/article/2024/jun/07/russia-nuclear-powered-submarine-kazan-to-visit-cuba)
-- [‘Rigged’: Trump attacks judge and courts in first post-conviction rally](https://www.theguardian.com/us-news/article/2024/jun/06/trump-arizona-rally)
-- [Euro 2024 team guides part nine: Denmark](https://www.theguardian.com/football/article/2024/jun/07/euro-2024-team-guides-part-nine-denmark)
-- [Incoming ministers ‘will face UK public services on brink of collapse’](https://www.theguardian.com/business/article/2024/jun/07/incoming-ministers-will-face-uk-public-services-on-brink-of-collapse)
-- [Cyril Ramaphosa open to forming South African unity government with rivals](https://www.theguardian.com/world/article/2024/jun/06/cyril-ramaphosa-open-to-forming-south-african-unity-government-with-rivals)
-- [Communities will be given right to turn eyesores into parks, says Labour](https://www.theguardian.com/environment/article/2024/jun/06/communities-will-be-given-right-to-turn-eyesores-into-parks-says-labour)
-- [Southgate promises different England after axing Grealish and Maguire](https://www.theguardian.com/football/article/2024/jun/06/england-euro-2024-squad-jack-grealish-harry-maguire-final-26)
+- [William Anders, Apollo 8 astronaut known for Earthrise photo, dies in plane crash](https://www.theguardian.com/science/article/2024/jun/07/apollo-8-astronaut-william-anders-dead)
+- [Scenes of carnage from Maine mass shooting revealed in document release](https://www.theguardian.com/us-news/article/2024/jun/07/maine-mass-shooting-documents)
+- [Gareth Southgate’s new England look worryingly free of energy and resistance | Barney Ronay](https://www.theguardian.com/football/article/2024/jun/07/england-gareth-southgate-euro-2024-iceland-wembley)
+- [Six UK airports temporarily reintroduce 100ml liquid limit](https://www.theguardian.com/travel/article/2024/jun/07/six-uk-airports-temporarily-reintroduce-100ml-liquid-limit)
+- [Taylor Swift review – as all-powerful as a pop star can be](https://www.theguardian.com/music/article/2024/jun/07/taylor-swift-review-as-all-powerful-as-a-pop-star-can-be)
+- [Multiparty debate shows an audience tiring of the Labour-Tory slugging match | Rafael Behr](https://www.theguardian.com/commentisfree/article/2024/jun/07/multiparty-debate-shows-an-audience-tiring-of-the-labour-tory-slugging-match)
+- [At least four people die crossing US-Mexico border amid brutal heatwave](https://www.theguardian.com/us-news/article/2024/jun/07/mexico-border-heatwave-deaths)
+- [Election debate review: everyone struggled to be heard in this seven-way brawl](https://www.theguardian.com/politics/article/2024/jun/07/everyone-struggled-to-be-heard-in-this-seven-way-televised-brawl)
+- [Wendell Pierce alleges he was denied rental apartment because he is Black](https://www.theguardian.com/culture/article/2024/jun/07/wendell-pierce-denied-new-york-apartment)
+- [Man who killed unhoused woman with pellet gun gets five years in prison: ‘Her life mattered’](https://www.theguardian.com/us-news/article/2024/jun/07/teen-sentenced-killing-homeless-woman-pellet-gun)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

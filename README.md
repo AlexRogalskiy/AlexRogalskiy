@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Hidden Life of Google&#39;s Secret &lpar;Legal&rpar; Weapon](https://www.wsj.com/us-news/law/google-lawyer-secret-weapon-joshua-wright-c98d5a31)
-- [What are cheese crystals and why would you want them in your cheese?](https://millersbiofarm.com/blog/what-are-cheese-crystals-and-why-would-you-want-them-in-your-cheese)
-- [Ongoing XSS/injection attack on GitHub](https://github.com/elide-dev/elide/issues/990)
-- [Sid Meier&#39;s Civilization VII trailer [video]](https://www.youtube.com/watch?v=pygcgE3a_uY)
-- [Threatbutt](http://threatbutt.com/index.html)
-- [Scientists identify &#39;missing piece&#39; required for blood stem cell self-renewal](https://www.sciencedaily.com/releases/2024/06/240605162720.htm)
-- [OtterTune Is Shutting Down](https://ottertune.com/blog/ottertune-officially-shutting-down-services)
-- [Tensor networks for solving the Boltzmann neutron transport equation](https://discover.lanl.gov/news/0513-tensor-network-approach)
-- [Credentials Leaking with Subdomain Takeover](https://trufflesecurity.com/blog/credentials-leaking-with-subdomain-takeover)
-- [The part-time heroes behind US cricket&#39;s historic win](https://www.bbc.com/news/articles/c511lz5jw9go)
+- [Build RAG Applications Using Jina Embeddings v2 on Amazon SageMaker JumpStart](https://aws.amazon.com/blogs/machine-learning/build-rag-applications-using-jina-embeddings-v2-on-amazon-sagemaker-jumpstart/)
+- [Vexdz](https://news.ycombinator.com/item?id=40621577)
+- [A Punic Proverb](https://languagehat.com/a-punic-proverb/)
+- [I hacked the Dutch government and all I got was this t-shirt &lpar;2021&rpar;](https://jacobriggs.io/blog/posts/i-hacked-the-dutch-government-and-all-i-got-was-this-t-shirt-24)
+- [Pals Battalion](https://en.wikipedia.org/wiki/Pals_battalion)
+- [Fixing a knockoff Altera USB Blaster that never worked](https://www.downtowndougbrown.com/2024/06/fixing-a-knockoff-altera-usb-blaster-that-never-worked/)
+- [Wikipedia Is Not for Sale](https://en.wikipedia.org/wiki/Wikipedia:Ten_things_you_may_not_know_about_Wikipedia)
+- [Statisticians Charge Draft Lottery Was Not Random &lpar;1970&rpar;](https://www.nytimes.com/1970/01/04/archives/statisticians-charge-draft-lottery-was-not-random.html)
+- [Ask HN: What is the easiest way to scrape websites today?](https://news.ycombinator.com/item?id=40621466)
+- [A full, free online version of Object Success &lpar;1995&rpar;](https://bertrandmeyer.com/success/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

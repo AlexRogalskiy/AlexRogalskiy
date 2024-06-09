@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Chebyshev approximation and how it can help](https://www.EmbeddedRelated.com/showarticle/152.php)
-- [Apollo 8 astronaut William Anders ID&#39;d in WA plane crash](https://www.fox13seattle.com/news/william-anders-wa-plane-crash)
-- [3dfx Voodoo 4 video card in MXM format &lpar;2023&rpar;](https://www.vogons.org/viewtopic.php?t=100871)
-- [Slow-spinning radio neutron star breaks all the rules](https://www.sydney.edu.au/news-opinion/news/2024/06/05/slow-spinning-radio-neutron-star-breaks-all-the-rules.html)
-- [What Is PID 0?](https://blog.dave.tf/post/linux-pid0/)
-- [Xv6, a simple Unix-like teaching operating system](https://pdos.csail.mit.edu/6.828/2023/xv6.html)
-- [Yes, you can play Duck Hunt without a television &lpar;but I can&#39;t&rpar;](https://nicole.express/2024/no-screen-no-cpu-one-problem.html)
-- [The aging U.S. power grid is about to get a jolt](https://www.wsj.com/business/energy-oil/the-aging-u-s-power-grid-is-about-to-get-a-jolt-144e7fdc)
-- [Why are debut novels failing to launch?](https://www.esquire.com/entertainment/books/a60924704/debut-fiction-challenges/)
-- [Feynman’s Razor](https://defenderofthebasic.substack.com/p/feynmans-razor)
+- [Synapse bankruptcy trustee says $85M of customer savings is missing](https://www.cnbc.com/2024/06/07/synapse-bankruptcy-trustee-85-million-of-customer-savings-is-missing.html)
+- [Scalable MatMul-Free Language Modeling](https://arxiv.org/abs/2406.02528)
+- [The binding of cosmological structures by massless topological defects](https://academic.oup.com/mnras/article/531/1/1630/7673084)
+- [Viagra improves brain blood flow and could help to prevent dementia](https://www.ox.ac.uk/news/2024-06-07-sildenafil-viagra-improves-brain-blood-flow-and-could-help-prevent-dementia)
+- [Draw an iceberg and see how it will float](https://joshdata.me/iceberger.html)
+- [Evaluation of Machine Learning Primitives on a Digital Signal Processor](http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1457863&dswid=-740)
+- [Gene therapy restores hearing to children with inherited deafness](https://cosmosmagazine.com/science/biology/gene-therapy-restores-hearing-to-children-with-inherited-deafness/)
+- [What makes gambling wrong but insurance right? &lpar;2017&rpar;](https://www.bbc.com/news/business-38905963)
+- [Creating a matchmaker for your multiplayer game](https://mas-bandwidth.com/creating-a-matchmaker-for-your-multiplayer-game/)
+- [By harnessing wind power, high-tech sails can help cut marine pollution](https://www.economist.com/science-and-technology/2024/05/21/a-new-age-of-sail-begins)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

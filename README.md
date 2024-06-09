@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [William Anders, Apollo 8 astronaut known for Earthrise photo, dies in plane crash](https://www.theguardian.com/science/article/2024/jun/07/apollo-8-astronaut-william-anders-dead)
-- [Scenes of carnage from Maine mass shooting revealed in document release](https://www.theguardian.com/us-news/article/2024/jun/07/maine-mass-shooting-documents)
-- [Gareth Southgate’s new England look worryingly free of energy and resistance | Barney Ronay](https://www.theguardian.com/football/article/2024/jun/07/england-gareth-southgate-euro-2024-iceland-wembley)
-- [Six UK airports temporarily reintroduce 100ml liquid limit](https://www.theguardian.com/travel/article/2024/jun/07/six-uk-airports-temporarily-reintroduce-100ml-liquid-limit)
-- [Taylor Swift review – as all-powerful as a pop star can be](https://www.theguardian.com/music/article/2024/jun/07/taylor-swift-review-as-all-powerful-as-a-pop-star-can-be)
-- [Multiparty debate shows an audience tiring of the Labour-Tory slugging match | Rafael Behr](https://www.theguardian.com/commentisfree/article/2024/jun/07/multiparty-debate-shows-an-audience-tiring-of-the-labour-tory-slugging-match)
-- [At least four people die crossing US-Mexico border amid brutal heatwave](https://www.theguardian.com/us-news/article/2024/jun/07/mexico-border-heatwave-deaths)
-- [Election debate review: everyone struggled to be heard in this seven-way brawl](https://www.theguardian.com/politics/article/2024/jun/07/everyone-struggled-to-be-heard-in-this-seven-way-televised-brawl)
-- [Wendell Pierce alleges he was denied rental apartment because he is Black](https://www.theguardian.com/culture/article/2024/jun/07/wendell-pierce-denied-new-york-apartment)
-- [Man who killed unhoused woman with pellet gun gets five years in prison: ‘Her life mattered’](https://www.theguardian.com/us-news/article/2024/jun/07/teen-sentenced-killing-homeless-woman-pellet-gun)
+- [UK growth since 2010 has been lacklustre and largely driven by immigration, says report](https://www.theguardian.com/business/article/2024/jun/09/uk-growth-since-2010-has-been-lacklustre-and-largely-driven-by-immigration-says-report)
+- [Euro 2024 team guides part 13: Austria](https://www.theguardian.com/football/article/2024/jun/09/euro-2024-team-guides-part-13-austria)
+- [Danny Mills cheers on son George to European championship 5,000m silver](https://www.theguardian.com/sport/article/2024/jun/08/britains-george-mills-claims-european-championship-5000m-silver)
+- [Four taken to hospital after fairground ride fails in south London](https://www.theguardian.com/uk-news/article/2024/jun/08/four-taken-to-hospital-after-fairground-ride-fails-in-south-london)
+- [Labour promises new police powers to curb noisy off-road bikes](https://www.theguardian.com/politics/article/2024/jun/08/labour-promises-new-police-powers-to-curb-noisy-off-road-bikes)
+- [Five injured as police and activists clash at French motorway protest](https://www.theguardian.com/world/article/2024/jun/08/five-injured-as-police-and-activists-clash-at-french-motorway-protest)
+- [Andy Robertson fit and ready to lead Scotland by example at Euro 2024](https://www.theguardian.com/football/article/2024/jun/08/andy-robertson-scotland-euro-2024)
+- [Bellingham is new England talisman but Southgate fears saviour syndrome](https://www.theguardian.com/football/article/2024/jun/08/jude-bellingham-talisman-england-avoid-saviour-syndrome)
+- [George Russell claims Canadian F1 GP pole for Mercedes](https://www.theguardian.com/sport/article/2024/jun/08/george-russell-claims-canadian-f1-gp-pole-for-mercedes)
+- [England T20 World Cup defence on the brink after heavy defeat to Australia](https://www.theguardian.com/sport/article/2024/jun/08/australia-england-t20-world-cup-match-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

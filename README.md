@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [UK growth since 2010 has been lacklustre and largely driven by immigration, says report](https://www.theguardian.com/business/article/2024/jun/09/uk-growth-since-2010-has-been-lacklustre-and-largely-driven-by-immigration-says-report)
-- [Euro 2024 team guides part 13: Austria](https://www.theguardian.com/football/article/2024/jun/09/euro-2024-team-guides-part-13-austria)
-- [Danny Mills cheers on son George to European championship 5,000m silver](https://www.theguardian.com/sport/article/2024/jun/08/britains-george-mills-claims-european-championship-5000m-silver)
-- [Four taken to hospital after fairground ride fails in south London](https://www.theguardian.com/uk-news/article/2024/jun/08/four-taken-to-hospital-after-fairground-ride-fails-in-south-london)
-- [Labour promises new police powers to curb noisy off-road bikes](https://www.theguardian.com/politics/article/2024/jun/08/labour-promises-new-police-powers-to-curb-noisy-off-road-bikes)
-- [Five injured as police and activists clash at French motorway protest](https://www.theguardian.com/world/article/2024/jun/08/five-injured-as-police-and-activists-clash-at-french-motorway-protest)
-- [Andy Robertson fit and ready to lead Scotland by example at Euro 2024](https://www.theguardian.com/football/article/2024/jun/08/andy-robertson-scotland-euro-2024)
-- [Bellingham is new England talisman but Southgate fears saviour syndrome](https://www.theguardian.com/football/article/2024/jun/08/jude-bellingham-talisman-england-avoid-saviour-syndrome)
-- [George Russell claims Canadian F1 GP pole for Mercedes](https://www.theguardian.com/sport/article/2024/jun/08/george-russell-claims-canadian-f1-gp-pole-for-mercedes)
-- [England T20 World Cup defence on the brink after heavy defeat to Australia](https://www.theguardian.com/sport/article/2024/jun/08/australia-england-t20-world-cup-match-report)
+- [NBA finals Game 2: Dallas Mavericks v Boston Celtics – live](https://www.theguardian.com/sport/live/2024/jun/09/nba-finals-game-2-dallas-mavericks-boston-celtics-latest-score)
+- [Magic Dave: David Copperfield’s alleged victims speak out – part 2](https://www.theguardian.com/news/audio/2024/jun/10/the-magic-man-part-2-david-copperfield-alleged-victims-speak-out-podcast)
+- [The magic man – part 1. David Copperfield’s alleged victims speak out – podcast](https://www.theguardian.com/news/audio/2024/jun/10/the-magic-man-part-1-david-copperfield-alleged-victims-speak-out)
+- [Belgium headed for new government as PM set to resign after general election](https://www.theguardian.com/world/article/2024/jun/10/belgium-general-election-2024-pm-prime-minister-alexander-de-croo-set-to-resign)
+- [Ukraine war briefing: Ukrainian intelligence ‘strikes Su-57 warplane deep inside Russia’](https://www.theguardian.com/world/article/2024/jun/10/ukraine-war-briefing-ukrainian-intelligence-strikes-su-57-warplane-deep-inside-russia)
+- [The cat in the flat: Singapore lifts ban on pets in public housing](https://www.theguardian.com/world/article/2024/jun/10/the-cat-in-the-flat-singapore-lifts-ban-on-pets-in-public-housing)
+- [Dina Asher-Smith powers to 100m gold for first major title in five years](https://www.theguardian.com/sport/article/2024/jun/09/dina-asher-smith-wins-100m-gold-at-european-championships)
+- [Maternity: Broken Trust review – the furious tale of grieving parents’ fight for justice](https://www.theguardian.com/tv-and-radio/article/2024/jun/09/maternity-broken-trust-review-the-furious-tale-of-grieving-parents-fight-for-justice)
+- [European election results 2024: live from across the EU](https://www.theguardian.com/world/ng-interactive/2024/jun/09/european-elections-results-2024-europe-eu-parliament)
+- [France’s snap election: what happened, why, and what’s next?](https://www.theguardian.com/world/article/2024/jun/09/frances-snap-election-what-happened-why-and-whats-next)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

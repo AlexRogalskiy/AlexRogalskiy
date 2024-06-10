@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Synapse bankruptcy trustee says $85M of customer savings is missing](https://www.cnbc.com/2024/06/07/synapse-bankruptcy-trustee-85-million-of-customer-savings-is-missing.html)
-- [Scalable MatMul-Free Language Modeling](https://arxiv.org/abs/2406.02528)
-- [The binding of cosmological structures by massless topological defects](https://academic.oup.com/mnras/article/531/1/1630/7673084)
-- [Viagra improves brain blood flow and could help to prevent dementia](https://www.ox.ac.uk/news/2024-06-07-sildenafil-viagra-improves-brain-blood-flow-and-could-help-prevent-dementia)
-- [Draw an iceberg and see how it will float](https://joshdata.me/iceberger.html)
-- [Evaluation of Machine Learning Primitives on a Digital Signal Processor](http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1457863&dswid=-740)
-- [Gene therapy restores hearing to children with inherited deafness](https://cosmosmagazine.com/science/biology/gene-therapy-restores-hearing-to-children-with-inherited-deafness/)
-- [What makes gambling wrong but insurance right? &lpar;2017&rpar;](https://www.bbc.com/news/business-38905963)
-- [Creating a matchmaker for your multiplayer game](https://mas-bandwidth.com/creating-a-matchmaker-for-your-multiplayer-game/)
-- [By harnessing wind power, high-tech sails can help cut marine pollution](https://www.economist.com/science-and-technology/2024/05/21/a-new-age-of-sail-begins)
+- [Monumental snake engravings of the Orinoco River](https://www.cambridge.org/core/journals/antiquity/article/monumental-snake-engravings-of-the-orinoco-river/147F83AA4381153C4D0F4EA4817B3766)
+- [Show HN: I Build an AI-Powered API That Instantly Obtains Website Information](https://siteprofile.io/)
+- [Ken Burns, Faux &quot;Storyteller&quot;](https://albertcory50.substack.com/p/ken-burns-faux-storyteller)
+- [Google Mesop: Build web apps in Python](https://github.com/google/mesop)
+- [Qualcomm Snapdragon X Elite prototype that runs Linux emerges](https://www.techradar.com/pro/qualcomm-snapdragon-x-elite-prototype-that-runs-linux-emerges-from-a-brand-youve-probably-never-heard-of-schenker-tuxedo-has-12-core-cpu-with-32gb-ram-and-surprise-surprise-debian)
+- [&quot;Confidential&quot; 988 Conversation Records Shared with Corporations](https://www.madinamerica.com/2024/06/988-records-shared/)
+- [On being brought up by libertarian economists](https://daviddfriedman.substack.com/p/on-being-brought-up-by-libertarian)
+- [Heretical thoughts about science and society &lpar;2005&rpar;](https://www.edge.org/conversation/freeman_dyson-heretical-thoughts-about-science-and-society)
+- [A ChatGPT mistake cost us $10k](https://asim.bearblog.dev/how-a-single-chatgpt-mistake-cost-us-10000/)
+- [Woman set up a table to share her collection of washers. Nothing was for sale](https://twitter.com/revjaydub/status/1799212814646796648)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

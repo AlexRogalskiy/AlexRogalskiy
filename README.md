@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Build RAG Applications Using Jina Embeddings v2 on Amazon SageMaker JumpStart](https://aws.amazon.com/blogs/machine-learning/build-rag-applications-using-jina-embeddings-v2-on-amazon-sagemaker-jumpstart/)
-- [Vexdz](https://news.ycombinator.com/item?id=40621577)
-- [A Punic Proverb](https://languagehat.com/a-punic-proverb/)
-- [I hacked the Dutch government and all I got was this t-shirt &lpar;2021&rpar;](https://jacobriggs.io/blog/posts/i-hacked-the-dutch-government-and-all-i-got-was-this-t-shirt-24)
-- [Pals Battalion](https://en.wikipedia.org/wiki/Pals_battalion)
-- [Fixing a knockoff Altera USB Blaster that never worked](https://www.downtowndougbrown.com/2024/06/fixing-a-knockoff-altera-usb-blaster-that-never-worked/)
-- [Wikipedia Is Not for Sale](https://en.wikipedia.org/wiki/Wikipedia:Ten_things_you_may_not_know_about_Wikipedia)
-- [Statisticians Charge Draft Lottery Was Not Random &lpar;1970&rpar;](https://www.nytimes.com/1970/01/04/archives/statisticians-charge-draft-lottery-was-not-random.html)
-- [Ask HN: What is the easiest way to scrape websites today?](https://news.ycombinator.com/item?id=40621466)
-- [A full, free online version of Object Success &lpar;1995&rpar;](https://bertrandmeyer.com/success/)
+- [Nonreciprocal quantum batteries exhibit remarkable capacities and efficiency](https://phys.org/news/2024-06-nonreciprocal-quantum-batteries-remarkable-capacities.html)
+- [Tell HN: Legitimate voting email from city clerk marked as spam](https://news.ycombinator.com/item?id=40629530)
+- [Jurrangelo Cijntje is a switch-pitcher for Mississippi State](https://www.espn.com/college-sports/story/_/id/39947979/jurrangelo-cijntje-switch-pitcher-mlb-mississippi-state)
+- [Build your own Minecraft clone in the web with Voxelize](https://shaoruu.io/blog/what-is-voxelize)
+- [Hack](https://news.ycombinator.com/item?id=40629472)
+- [OpenAI Part 1: The Most Silicon Valley Man Alive – Foundering: The OpenAI Story [video]](https://www.youtube.com/watch?v=nvY4f2HWMrQ)
+- [A Conversation with Bruce Lindsay &lpar;2004&rpar;](https://queue.acm.org/detail.cfm?id=1036486)
+- [New NASA Black Hole Visualization](https://science.nasa.gov/supermassive-black-holes/new-nasa-black-hole-visualization-takes-viewers-beyond-the-brink/)
+- [Implementing an LLM Deception Eval with the UK AISI&#39;s Inspect Framework](https://schmatz.github.io/deception-eval-with-inspect/)
+- [Warm Intros from Your Investors](https://www.joinseam.com/warm-intros-from-investors)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Nonreciprocal quantum batteries exhibit remarkable capacities and efficiency](https://phys.org/news/2024-06-nonreciprocal-quantum-batteries-remarkable-capacities.html)
-- [Tell HN: Legitimate voting email from city clerk marked as spam](https://news.ycombinator.com/item?id=40629530)
-- [Jurrangelo Cijntje is a switch-pitcher for Mississippi State](https://www.espn.com/college-sports/story/_/id/39947979/jurrangelo-cijntje-switch-pitcher-mlb-mississippi-state)
-- [Build your own Minecraft clone in the web with Voxelize](https://shaoruu.io/blog/what-is-voxelize)
-- [Hack](https://news.ycombinator.com/item?id=40629472)
-- [OpenAI Part 1: The Most Silicon Valley Man Alive – Foundering: The OpenAI Story [video]](https://www.youtube.com/watch?v=nvY4f2HWMrQ)
-- [A Conversation with Bruce Lindsay &lpar;2004&rpar;](https://queue.acm.org/detail.cfm?id=1036486)
-- [New NASA Black Hole Visualization](https://science.nasa.gov/supermassive-black-holes/new-nasa-black-hole-visualization-takes-viewers-beyond-the-brink/)
-- [Implementing an LLM Deception Eval with the UK AISI&#39;s Inspect Framework](https://schmatz.github.io/deception-eval-with-inspect/)
-- [Warm Intros from Your Investors](https://www.joinseam.com/warm-intros-from-investors)
+- [A simple but viable &#39;Python-telegram-bot&#39;-like lib for WhatsApp](https://github.com/piEsposito/python-whatsapp-bot)
+- [Designing a Website Without 404s](https://pillser.com/engineering/2024-06-10-website-without-404s)
+- [Did a Group of Irish Tweens Write the Song of Summer?](https://www.nytimes.com/2024/06/06/style/irish-kids-spark-rap.html)
+- [Young Thug&#39;s lawyer held in contempt, ordered to spend 10 weekends in jail](https://www.ajc.com/news/crime/young-thugs-lawyer-held-in-contempt-taken-into-custody/77NH4GKN7NA27O4G2HL575NSDA/)
+- [Spatie/Pdf-to-Image v3.0](https://github.com/spatie/pdf-to-image/releases/tag/3.0.0)
+- [New Jersey Bill Will Make It Much More Difficult to Obtain Public Records](https://www.techdirt.com/2024/06/10/new-jersey-governor-signs-bill-that-will-make-it-much-more-difficult-to-obtain-public-records/)
+- [All software is either an experience or a platform](https://jonlax.framer.ai/writing/experiences-platforms)
+- [RLHF with Dagster and Modal](https://kyrylai.com/2024/06/10/rlhf-with-dagster-and-modal/)
+- [Show HN: Comparing various contrastive losses on text and vision embeddings](https://github.com/viig99/ContrastiveLearningLossComparison)
+- [New York Times Responds to Source Code Leak](https://www.securityweek.com/new-york-times-responds-to-source-code-leak/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

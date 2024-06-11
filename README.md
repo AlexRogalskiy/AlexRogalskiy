@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Monumental snake engravings of the Orinoco River](https://www.cambridge.org/core/journals/antiquity/article/monumental-snake-engravings-of-the-orinoco-river/147F83AA4381153C4D0F4EA4817B3766)
-- [Show HN: I Build an AI-Powered API That Instantly Obtains Website Information](https://siteprofile.io/)
-- [Ken Burns, Faux &quot;Storyteller&quot;](https://albertcory50.substack.com/p/ken-burns-faux-storyteller)
-- [Google Mesop: Build web apps in Python](https://github.com/google/mesop)
-- [Qualcomm Snapdragon X Elite prototype that runs Linux emerges](https://www.techradar.com/pro/qualcomm-snapdragon-x-elite-prototype-that-runs-linux-emerges-from-a-brand-youve-probably-never-heard-of-schenker-tuxedo-has-12-core-cpu-with-32gb-ram-and-surprise-surprise-debian)
-- [&quot;Confidential&quot; 988 Conversation Records Shared with Corporations](https://www.madinamerica.com/2024/06/988-records-shared/)
-- [On being brought up by libertarian economists](https://daviddfriedman.substack.com/p/on-being-brought-up-by-libertarian)
-- [Heretical thoughts about science and society &lpar;2005&rpar;](https://www.edge.org/conversation/freeman_dyson-heretical-thoughts-about-science-and-society)
-- [A ChatGPT mistake cost us $10k](https://asim.bearblog.dev/how-a-single-chatgpt-mistake-cost-us-10000/)
-- [Woman set up a table to share her collection of washers. Nothing was for sale](https://twitter.com/revjaydub/status/1799212814646796648)
+- [Back To Atoms: Why we can stop building SaaS and build the future instead.](https://carllippert.com/back-to-atoms/)
+- [Ship Something Every Day](https://maxleiter.com/blog/ship-every-day)
+- [Siberia&#39;s &#39;mammoth graveyard&#39; reveals 800-year human interactions with mammoths](https://phys.org/news/2024-06-siberia-mammoth-graveyard-reveals-year.html)
+- [Intel pauses work on $25B Israel fab](https://www.theregister.com/2024/06/10/intel_israeli_fab/)
+- [The Geometry of Categorical and Hierarchical Concepts in Large Language Models](https://arxiv.org/abs/2406.01506)
+- [Engage your audience: get to the point, use story structure, force specificity](https://iandanielstewart.com/2024/06/09/engage-your-audience-by-getting-to-the-point-using-story-structure-and-forcing-specificity/)
+- [Private Cloud Compute: A new frontier for AI privacy in the cloud](https://security.apple.com/blog/private-cloud-compute/)
+- [Apple&#39;s On-Device and Server Foundation Models](https://machinelearning.apple.com/research/introducing-apple-foundation-models)
+- [Trieve &lpar;YC W24&rpar; Is Hiring a DevRel Software Engineer](https://www.ycombinator.com/companies/trieve/jobs/2jeeXLs-developer-relations-software-engineer)
+- [The new math of how large-scale order emerges](https://www.quantamagazine.org/the-new-math-of-how-large-scale-order-emerges-20240610/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

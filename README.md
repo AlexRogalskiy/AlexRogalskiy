@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [NBA finals Game 2: Dallas Mavericks v Boston Celtics – live](https://www.theguardian.com/sport/live/2024/jun/09/nba-finals-game-2-dallas-mavericks-boston-celtics-latest-score)
-- [Magic Dave: David Copperfield’s alleged victims speak out – part 2](https://www.theguardian.com/news/audio/2024/jun/10/the-magic-man-part-2-david-copperfield-alleged-victims-speak-out-podcast)
-- [The magic man – part 1. David Copperfield’s alleged victims speak out – podcast](https://www.theguardian.com/news/audio/2024/jun/10/the-magic-man-part-1-david-copperfield-alleged-victims-speak-out)
-- [Belgium headed for new government as PM set to resign after general election](https://www.theguardian.com/world/article/2024/jun/10/belgium-general-election-2024-pm-prime-minister-alexander-de-croo-set-to-resign)
-- [Ukraine war briefing: Ukrainian intelligence ‘strikes Su-57 warplane deep inside Russia’](https://www.theguardian.com/world/article/2024/jun/10/ukraine-war-briefing-ukrainian-intelligence-strikes-su-57-warplane-deep-inside-russia)
-- [The cat in the flat: Singapore lifts ban on pets in public housing](https://www.theguardian.com/world/article/2024/jun/10/the-cat-in-the-flat-singapore-lifts-ban-on-pets-in-public-housing)
-- [Dina Asher-Smith powers to 100m gold for first major title in five years](https://www.theguardian.com/sport/article/2024/jun/09/dina-asher-smith-wins-100m-gold-at-european-championships)
-- [Maternity: Broken Trust review – the furious tale of grieving parents’ fight for justice](https://www.theguardian.com/tv-and-radio/article/2024/jun/09/maternity-broken-trust-review-the-furious-tale-of-grieving-parents-fight-for-justice)
-- [European election results 2024: live from across the EU](https://www.theguardian.com/world/ng-interactive/2024/jun/09/european-elections-results-2024-europe-eu-parliament)
-- [France’s snap election: what happened, why, and what’s next?](https://www.theguardian.com/world/article/2024/jun/09/frances-snap-election-what-happened-why-and-whats-next)
+- [How a far-right push in Europe triggered a shock election in France – podcast](https://www.theguardian.com/news/audio/2024/jun/11/how-a-far-right-push-in-europe-triggered-a-shock-election-in-france-podcast)
+- [Malawi soldiers search mountain forests after plane carrying vice-president goes missing](https://www.theguardian.com/world/article/2024/jun/10/aircraft-carrying-malawis-vice-president-goes-missing)
+- [Trump will not be charged for waving around classified papers, judge says](https://www.theguardian.com/us-news/article/2024/jun/10/trump-classified-document-trial-indictment-expunge)
+- [Ukraine war briefing: Zelenskiy’s army of drones gets its own commander](https://www.theguardian.com/world/article/2024/jun/11/ukraine-war-briefing-zelenskiys-army-of-drones-gets-its-own-commander)
+- [Shaken and stirred: Trump’s golf course liquor licenses at risk after conviction](https://www.theguardian.com/us-news/article/2024/jun/10/trump-liquor-licenses-at-golf-courses-felony-conviction)
+- [One in three Asda staff have been attacked at work, survey finds](https://www.theguardian.com/business/article/2024/jun/11/asda-staff-attacked-at-work-gmb-poll)
+- [Media studies are popular, dynamic and have ‘profound impact’, report says](https://www.theguardian.com/education/article/2024/jun/11/media-studies-popular-dynamic-profound-impact-report)
+- [Water births do not increase risk of complications, study finds](https://www.theguardian.com/lifeandstyle/article/2024/jun/11/water-births-do-not-increase-risk-of-complications-study)
+- [Euro 2024 team guides part 17: Belgium](https://www.theguardian.com/football/article/2024/jun/11/euro-2024-team-guides-part-17-belgium)
+- [Apple brings ChatGPT to Siri as it debuts ‘Apple Intelligence’ at WWDC 2024](https://www.theguardian.com/technology/article/2024/jun/10/apple-ai-product-launch)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

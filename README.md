@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [How a far-right push in Europe triggered a shock election in France – podcast](https://www.theguardian.com/news/audio/2024/jun/11/how-a-far-right-push-in-europe-triggered-a-shock-election-in-france-podcast)
-- [Malawi soldiers search mountain forests after plane carrying vice-president goes missing](https://www.theguardian.com/world/article/2024/jun/10/aircraft-carrying-malawis-vice-president-goes-missing)
-- [Trump will not be charged for waving around classified papers, judge says](https://www.theguardian.com/us-news/article/2024/jun/10/trump-classified-document-trial-indictment-expunge)
-- [Ukraine war briefing: Zelenskiy’s army of drones gets its own commander](https://www.theguardian.com/world/article/2024/jun/11/ukraine-war-briefing-zelenskiys-army-of-drones-gets-its-own-commander)
-- [Shaken and stirred: Trump’s golf course liquor licenses at risk after conviction](https://www.theguardian.com/us-news/article/2024/jun/10/trump-liquor-licenses-at-golf-courses-felony-conviction)
-- [One in three Asda staff have been attacked at work, survey finds](https://www.theguardian.com/business/article/2024/jun/11/asda-staff-attacked-at-work-gmb-poll)
-- [Media studies are popular, dynamic and have ‘profound impact’, report says](https://www.theguardian.com/education/article/2024/jun/11/media-studies-popular-dynamic-profound-impact-report)
-- [Water births do not increase risk of complications, study finds](https://www.theguardian.com/lifeandstyle/article/2024/jun/11/water-births-do-not-increase-risk-of-complications-study)
-- [Euro 2024 team guides part 17: Belgium](https://www.theguardian.com/football/article/2024/jun/11/euro-2024-team-guides-part-17-belgium)
-- [Apple brings ChatGPT to Siri as it debuts ‘Apple Intelligence’ at WWDC 2024](https://www.theguardian.com/technology/article/2024/jun/10/apple-ai-product-launch)
+- [T20 World Cup 2024: Australia chase 72 to beat Namibia – live](https://www.theguardian.com/sport/live/2024/jun/12/australia-vs-namibia-live-updates-t20-cricket-world-cup-2024-icc-latest-scores-news)
+- [Election 2024’s battleground: your family WhatsApp group](https://www.theguardian.com/news/audio/2024/jun/12/election-2024s-battleground-your-family-whatsapp-group)
+- [Ukraine war briefing: Washington clears Azov brigade for US weapons and training](https://www.theguardian.com/world/article/2024/jun/12/ukraine-war-briefing-washington-clears-azov-brigade-for-us-weapons-and-training)
+- [Françoise Hardy: France’s girlish yé-yé star was a groundbreaking musical artist](https://www.theguardian.com/music/article/2024/jun/12/francoise-hardy-frances-ye-ye-groundbreaking-musical-artist)
+- [Françoise Hardy, French pop singer and fashion muse, dies aged 80](https://www.theguardian.com/music/article/2024/jun/12/francoise-hardy-french-pop-singer-and-fashion-muse-dies-aged-80)
+- [‘Sanctions hole’: how secretive routes supply Russia with western tech and consumer goods](https://www.theguardian.com/world/article/2024/jun/12/russia-sanctions-hole-backdoor-routes)
+- [Kevin Spacey says he was ‘too handsy’ in the past](https://www.theguardian.com/culture/article/2024/jun/12/kevin-spacey-says-he-was-too-handsy-in-the-past)
+- [Peak Japan: why foreign tourists are going mad for Mount Fuji](https://www.theguardian.com/world/article/2024/jun/12/mount-fuji-japan-sights-blocking-view-apartment-block-tear-down)
+- [‘Health MOTs’ planned for people aged 65 and over arriving at A&amp;E in England](https://www.theguardian.com/society/article/2024/jun/12/health-mots-planned-for-people-aged-65-and-over-arriving-at-ae-in-england)
+- [Rishi Sunak went without ‘lots of things’ including Sky TV as a child](https://www.theguardian.com/politics/article/2024/jun/12/rishi-sunak-went-without-lots-of-things-including-sky-tv-as-a-child)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

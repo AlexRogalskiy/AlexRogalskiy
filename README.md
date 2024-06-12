@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Back To Atoms: Why we can stop building SaaS and build the future instead.](https://carllippert.com/back-to-atoms/)
-- [Ship Something Every Day](https://maxleiter.com/blog/ship-every-day)
-- [Siberia&#39;s &#39;mammoth graveyard&#39; reveals 800-year human interactions with mammoths](https://phys.org/news/2024-06-siberia-mammoth-graveyard-reveals-year.html)
-- [Intel pauses work on $25B Israel fab](https://www.theregister.com/2024/06/10/intel_israeli_fab/)
-- [The Geometry of Categorical and Hierarchical Concepts in Large Language Models](https://arxiv.org/abs/2406.01506)
-- [Engage your audience: get to the point, use story structure, force specificity](https://iandanielstewart.com/2024/06/09/engage-your-audience-by-getting-to-the-point-using-story-structure-and-forcing-specificity/)
-- [Private Cloud Compute: A new frontier for AI privacy in the cloud](https://security.apple.com/blog/private-cloud-compute/)
-- [Apple&#39;s On-Device and Server Foundation Models](https://machinelearning.apple.com/research/introducing-apple-foundation-models)
-- [Trieve &lpar;YC W24&rpar; Is Hiring a DevRel Software Engineer](https://www.ycombinator.com/companies/trieve/jobs/2jeeXLs-developer-relations-software-engineer)
-- [The new math of how large-scale order emerges](https://www.quantamagazine.org/the-new-math-of-how-large-scale-order-emerges-20240610/)
+- [T-Mobile users thought they had a lifetime price lock–guess what happened next](https://arstechnica.com/tech-policy/2024/06/t-mobile-users-thought-they-had-a-lifetime-price-lock-guess-what-happened-next/)
+- [Implications of ultra-processed plant origin foods on cardiovascular risk](https://www.thelancet.com/journals/lanepe/article/PIIS2666-7762(24)00115-7/fulltext)
+- [AES-GCM and breaking it on nonce reuse](https://frereit.de/aes_gcm/)
+- [How much of a genius-level move was binary space partitioning in Doom? &lpar;2019&rpar;](https://twobithistory.org/2019/11/06/doom-bsp.html)
+- [Edward C. Stone, 1936-2024](https://www.caltech.edu/about/news/edward-stone-1936-2024)
+- [Tea Punch Was the First Cocktail](https://www.atlasobscura.com/articles/tea-punch-was-the-first-cocktail)
+- [Flameshot – Open-source screenshot software](https://flameshot.org/)
+- [The Rate of Return on Everything, 1870–2015 &lpar;2019&rpar;](https://academic.oup.com/qje/article/134/3/1225/5435538)
+- [Decade of the Battery](https://www.noahpinion.blog/p/decade-of-the-battery-334)
+- [The Rise and Fall of BNN Breaking, an AI-Generated News Outlet](https://www.nytimes.com/2024/06/06/technology/bnn-breaking-ai-generated-news.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

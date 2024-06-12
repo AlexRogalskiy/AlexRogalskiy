@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [A simple but viable &#39;Python-telegram-bot&#39;-like lib for WhatsApp](https://github.com/piEsposito/python-whatsapp-bot)
-- [Designing a Website Without 404s](https://pillser.com/engineering/2024-06-10-website-without-404s)
-- [Did a Group of Irish Tweens Write the Song of Summer?](https://www.nytimes.com/2024/06/06/style/irish-kids-spark-rap.html)
-- [Young Thug&#39;s lawyer held in contempt, ordered to spend 10 weekends in jail](https://www.ajc.com/news/crime/young-thugs-lawyer-held-in-contempt-taken-into-custody/77NH4GKN7NA27O4G2HL575NSDA/)
-- [Spatie/Pdf-to-Image v3.0](https://github.com/spatie/pdf-to-image/releases/tag/3.0.0)
-- [New Jersey Bill Will Make It Much More Difficult to Obtain Public Records](https://www.techdirt.com/2024/06/10/new-jersey-governor-signs-bill-that-will-make-it-much-more-difficult-to-obtain-public-records/)
-- [All software is either an experience or a platform](https://jonlax.framer.ai/writing/experiences-platforms)
-- [RLHF with Dagster and Modal](https://kyrylai.com/2024/06/10/rlhf-with-dagster-and-modal/)
-- [Show HN: Comparing various contrastive losses on text and vision embeddings](https://github.com/viig99/ContrastiveLearningLossComparison)
-- [New York Times Responds to Source Code Leak](https://www.securityweek.com/new-york-times-responds-to-source-code-leak/)
+- [The origin story of the Windows 3D Pipes screen saver](https://devblogs.microsoft.com/oldnewthing/20240611-00/?p=109881)
+- [Fauci&#39;s institute hid mpox gain-of-function plans from Congress and the media](https://usrtk.org/risky-research/fauci-institute-hid-mpox-gain-of-function-plans/)
+- [T-Mobile users thought they had a lifetime price lock–guess what happened next](https://arstechnica.com/tech-policy/2024/06/t-mobile-users-thought-they-had-a-lifetime-price-lock-guess-what-happened-next/)
+- [Lambda Diagrams](https://tromp.github.io/cl/diagrams.html)
+- [Best Buy Is Laying Off More Employees as It Reckons with Falling Sales](https://news.slashdot.org/story/24/06/11/2245204/best-buy-is-laying-off-more-employees-as-it-reckons-with-falling-sales)
+- [Show HN: Schema – A Golang Validation Library Inspired by Zod](https://github.com/mkafonso/schema)
+- [Ernie Pyle: The Voice of the American Soldier in World War II](https://www.nationalww2museum.org/war/articles/ernie-pyle-world-war-ii)
+- [Ask HN: Any recommendations for resume review/critque services?](https://news.ycombinator.com/item?id=40653740)
+- [Probabilistic Tic Tac Toe with a better AI](https://keshav.is/coding/pt3/)
+- [New Long Covid Definition Proposed by National Academies](https://www.medpagetoday.com/infectiousdisease/longcovid/110595)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

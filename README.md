@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [T20 World Cup 2024: Australia chase 72 to beat Namibia – live](https://www.theguardian.com/sport/live/2024/jun/12/australia-vs-namibia-live-updates-t20-cricket-world-cup-2024-icc-latest-scores-news)
-- [Election 2024’s battleground: your family WhatsApp group](https://www.theguardian.com/news/audio/2024/jun/12/election-2024s-battleground-your-family-whatsapp-group)
-- [Ukraine war briefing: Washington clears Azov brigade for US weapons and training](https://www.theguardian.com/world/article/2024/jun/12/ukraine-war-briefing-washington-clears-azov-brigade-for-us-weapons-and-training)
-- [Françoise Hardy: France’s girlish yé-yé star was a groundbreaking musical artist](https://www.theguardian.com/music/article/2024/jun/12/francoise-hardy-frances-ye-ye-groundbreaking-musical-artist)
-- [Françoise Hardy, French pop singer and fashion muse, dies aged 80](https://www.theguardian.com/music/article/2024/jun/12/francoise-hardy-french-pop-singer-and-fashion-muse-dies-aged-80)
-- [‘Sanctions hole’: how secretive routes supply Russia with western tech and consumer goods](https://www.theguardian.com/world/article/2024/jun/12/russia-sanctions-hole-backdoor-routes)
-- [Kevin Spacey says he was ‘too handsy’ in the past](https://www.theguardian.com/culture/article/2024/jun/12/kevin-spacey-says-he-was-too-handsy-in-the-past)
-- [Peak Japan: why foreign tourists are going mad for Mount Fuji](https://www.theguardian.com/world/article/2024/jun/12/mount-fuji-japan-sights-blocking-view-apartment-block-tear-down)
-- [‘Health MOTs’ planned for people aged 65 and over arriving at A&amp;E in England](https://www.theguardian.com/society/article/2024/jun/12/health-mots-planned-for-people-aged-65-and-over-arriving-at-ae-in-england)
-- [Rishi Sunak went without ‘lots of things’ including Sky TV as a child](https://www.theguardian.com/politics/article/2024/jun/12/rishi-sunak-went-without-lots-of-things-including-sky-tv-as-a-child)
+- [NBA finals Game 3: Boston Celtics v Dallas Mavericks – live](https://www.theguardian.com/sport/live/2024/jun/12/nba-finals-game-3-boston-celtics-v-dallas-mavericks-latest-score)
+- [Labour takes on the SNP in Scotland - podcast](https://www.theguardian.com/news/audio/2024/jun/13/labour-takes-on-the-snp-in-scotland-podcast)
+- [Starmer promises ‘long-term strategy’ in business-friendly Labour manifesto](https://www.theguardian.com/politics/article/2024/jun/13/keir-starmer-uk-election-labour-manifesto)
+- [Euro 2024 team guides part 21: Czech Republic](https://www.theguardian.com/football/article/2024/jun/13/euro-2024-team-guides-part-21-czech-republic)
+- [Russia accused of ‘deliberate’ starvation tactics in Mariupol in submission to ICC](https://www.theguardian.com/world/article/2024/jun/13/russia-accused-of-deliberate-starvation-tactics-in-mariupol-in-submission-to-icc)
+- [Deadly cancer treatment delays now ‘routine’ in NHS, say damning reports](https://www.theguardian.com/society/article/2024/jun/13/deadly-cancer-treatment-delays-routine-nhs)
+- [FA funds police unit to catch those who abuse England players on social media](https://www.theguardian.com/football/article/2024/jun/12/fa-funds-police-unit-to-catch-those-who-abuse-england-players-on-social-media)
+- [England succession plan in place if Southgate leaves, insists FA chief](https://www.theguardian.com/football/article/2024/jun/12/england-succession-plan-in-place-if-gareth-southgate-leaves-fa-chief-euro-2024)
+- [In the challenger v the gaffer election event, the audience was the winner](https://www.theguardian.com/politics/article/2024/jun/12/keir-starmer-challenger-v-rishi-sunak-gaffer-election-event-audience-winner)
+- [Keely Hodgkinson fights through illness to strike European 800m gold](https://www.theguardian.com/sport/article/2024/jun/12/keely-hodgkinson-fights-through-illness-to-strike-european-800m-gold)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

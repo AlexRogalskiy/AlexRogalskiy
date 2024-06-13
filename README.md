@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The origin story of the Windows 3D Pipes screen saver](https://devblogs.microsoft.com/oldnewthing/20240611-00/?p=109881)
-- [Fauci&#39;s institute hid mpox gain-of-function plans from Congress and the media](https://usrtk.org/risky-research/fauci-institute-hid-mpox-gain-of-function-plans/)
-- [T-Mobile users thought they had a lifetime price lock–guess what happened next](https://arstechnica.com/tech-policy/2024/06/t-mobile-users-thought-they-had-a-lifetime-price-lock-guess-what-happened-next/)
-- [Lambda Diagrams](https://tromp.github.io/cl/diagrams.html)
-- [Best Buy Is Laying Off More Employees as It Reckons with Falling Sales](https://news.slashdot.org/story/24/06/11/2245204/best-buy-is-laying-off-more-employees-as-it-reckons-with-falling-sales)
-- [Show HN: Schema – A Golang Validation Library Inspired by Zod](https://github.com/mkafonso/schema)
-- [Ernie Pyle: The Voice of the American Soldier in World War II](https://www.nationalww2museum.org/war/articles/ernie-pyle-world-war-ii)
-- [Ask HN: Any recommendations for resume review/critque services?](https://news.ycombinator.com/item?id=40653740)
-- [Probabilistic Tic Tac Toe with a better AI](https://keshav.is/coding/pt3/)
-- [New Long Covid Definition Proposed by National Academies](https://www.medpagetoday.com/infectiousdisease/longcovid/110595)
+- [Pulumi Copilot](https://www.pulumi.com/blog/pulumi-copilot/)
+- [We Hacked Companies in 30 Minutes Using a Fake VSCode Extension](https://medium.com/@amitassaraf/the-story-of-extensiontotal-how-we-hacked-the-vscode-marketplace-5c6e66a0e9d7)
+- [GitHub as Storage and Actions as Compute?](https://news.ycombinator.com/item?id=40665292)
+- [Biohybrid microrobots deliver drug-loaded nanoparticles to inhibit metastasis](https://www.science.org/doi/10.1126/sciadv.adn6157)
+- [Ark Tesla Price Model 2029](https://www.ark-invest.com/articles/valuation-models/arks-tesla-price-target-2029)
+- [How Pueblo Food Project is helping entrepreneurs develop their business plans](https://www.chieftain.com/story/news/2024/06/10/pueblo-food-project-program-helps-entrepreneurs-develop-business-plans/73990672007/)
+- [In Trump, Silicon Valley&#39;s crypto grifters see an ally–and a kindred spirit](https://sfstandard.com/opinion/2024/06/12/opinion-crypto-bros-trump-fundraiser/)
+- [Google Agrees to Buy Clean Geothermal Power in Nevada](https://www.bloomberg.com/news/articles/2024-06-13/google-agrees-to-buy-clean-power-from-buffett-s-nevada-utility)
+- [Meta VPS are getting squeezed out amid Mark Zuckerberg&#39;s &#39;permanent&#39; efficiency](https://www.businessinsider.com/meta-vps-getting-squeezed-out-amid-permanent-efficiency-mode-2024-6)
+- [Senior to Staff Engineer](https://blog.alexewerlof.com/p/senior-engineer-to-staff-engineer)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

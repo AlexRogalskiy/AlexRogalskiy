@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [T-Mobile users thought they had a lifetime price lock–guess what happened next](https://arstechnica.com/tech-policy/2024/06/t-mobile-users-thought-they-had-a-lifetime-price-lock-guess-what-happened-next/)
-- [Implications of ultra-processed plant origin foods on cardiovascular risk](https://www.thelancet.com/journals/lanepe/article/PIIS2666-7762(24)00115-7/fulltext)
-- [AES-GCM and breaking it on nonce reuse](https://frereit.de/aes_gcm/)
-- [How much of a genius-level move was binary space partitioning in Doom? &lpar;2019&rpar;](https://twobithistory.org/2019/11/06/doom-bsp.html)
-- [Edward C. Stone, 1936-2024](https://www.caltech.edu/about/news/edward-stone-1936-2024)
-- [Tea Punch Was the First Cocktail](https://www.atlasobscura.com/articles/tea-punch-was-the-first-cocktail)
-- [Flameshot – Open-source screenshot software](https://flameshot.org/)
-- [The Rate of Return on Everything, 1870–2015 &lpar;2019&rpar;](https://academic.oup.com/qje/article/134/3/1225/5435538)
-- [Decade of the Battery](https://www.noahpinion.blog/p/decade-of-the-battery-334)
-- [The Rise and Fall of BNN Breaking, an AI-Generated News Outlet](https://www.nytimes.com/2024/06/06/technology/bnn-breaking-ai-generated-news.html)
+- [Minuimus is a file optimiser utility script](https://birds-are-nice.me/software/minuimus.html)
+- [How Meta trains large language models at scale](https://engineering.fb.com/2024/06/12/data-infrastructure/training-large-language-models-at-scale-meta/)
+- [Martin-Baker Ejection Seat Made Its First of 7,722 Saves 75 Years Ago Today](https://www.twz.com/air/martin-baker-ejection-seat-made-its-first-of-7722-saves-75-yeats-ago-today)
+- [Gerald Sussman: Programming is &lpar;should be&rpar; fun &lpar;2022&rpar; [video]](https://www.youtube.com/watch?v=2MYzvQ1v8Ww)
+- [Etleap &lpar;YC W13&rpar; Is Hiring Customer Success Manager &lpar;SF&rpar;](https://etleap.com/careers/customer-success-manager/)
+- [Pg_lakehouse: A DuckDB Alternative in Postgres](https://blog.paradedb.com/pages/introducing_lakehouse)
+- [Japan enacts law to curb Apple, Google&#39;s app dominance](https://english.kyodonews.net/news/2024/06/bc2d7f45d456-japan-enacts-law-to-curb-apple-googles-app-dominance.html#google_vignette)
+- [ChromeOS will soon be developed on large portions of the Android stack](https://blog.chromium.org/2024/06/building-faster-smarter-chromebook.html)
+- [Designing the avocado of uncertainty visualization](https://stamen.com/designing-the-avocado-of-uncertainty/)
+- [The GJK Algorithm: A weird and beautiful way to do a simple thing](https://computerwebsite.net/writing/gjk)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

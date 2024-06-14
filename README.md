@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [NBA finals Game 3: Boston Celtics v Dallas Mavericks – live](https://www.theguardian.com/sport/live/2024/jun/12/nba-finals-game-3-boston-celtics-v-dallas-mavericks-latest-score)
-- [Labour takes on the SNP in Scotland - podcast](https://www.theguardian.com/news/audio/2024/jun/13/labour-takes-on-the-snp-in-scotland-podcast)
-- [Starmer promises ‘long-term strategy’ in business-friendly Labour manifesto](https://www.theguardian.com/politics/article/2024/jun/13/keir-starmer-uk-election-labour-manifesto)
-- [Euro 2024 team guides part 21: Czech Republic](https://www.theguardian.com/football/article/2024/jun/13/euro-2024-team-guides-part-21-czech-republic)
-- [Russia accused of ‘deliberate’ starvation tactics in Mariupol in submission to ICC](https://www.theguardian.com/world/article/2024/jun/13/russia-accused-of-deliberate-starvation-tactics-in-mariupol-in-submission-to-icc)
-- [Deadly cancer treatment delays now ‘routine’ in NHS, say damning reports](https://www.theguardian.com/society/article/2024/jun/13/deadly-cancer-treatment-delays-routine-nhs)
-- [FA funds police unit to catch those who abuse England players on social media](https://www.theguardian.com/football/article/2024/jun/12/fa-funds-police-unit-to-catch-those-who-abuse-england-players-on-social-media)
-- [England succession plan in place if Southgate leaves, insists FA chief](https://www.theguardian.com/football/article/2024/jun/12/england-succession-plan-in-place-if-gareth-southgate-leaves-fa-chief-euro-2024)
-- [In the challenger v the gaffer election event, the audience was the winner](https://www.theguardian.com/politics/article/2024/jun/12/keir-starmer-challenger-v-rishi-sunak-gaffer-election-event-audience-winner)
-- [Keely Hodgkinson fights through illness to strike European 800m gold](https://www.theguardian.com/sport/article/2024/jun/12/keely-hodgkinson-fights-through-illness-to-strike-european-800m-gold)
+- [The phone-free, 12-hour school-day experiment - podcast](https://www.theguardian.com/news/audio/2024/jun/14/the-phone-free-12-hour-school-day-experiment-podcast)
+- [Ukraine war briefing: Sanctions to strike at Putin’s oil ‘shadow fleet’](https://www.theguardian.com/world/article/2024/jun/14/ukraine-war-briefing-sanctions-to-strike-at-putins-oil-shadow-fleet)
+- [Rory McIlroy shares US Open lead after opening with a bogey-free 65](https://www.theguardian.com/sport/article/2024/jun/14/rory-mcilroy-shares-us-open-lead-after-opening-with-a-bogey-free-65)
+- [UK has seen ‘explosion’ in insecure work since 2011, says TUC report](https://www.theguardian.com/politics/article/2024/jun/14/uk-explosion-in-insecure-work-tuc-report)
+- [Euro 2024 team guides part 23: Portugal](https://www.theguardian.com/football/article/2024/jun/14/euro-2024-team-guides-part-23-portugal)
+- [The Truth vs Alex Jones review – so viscerally wrong it will fry your mind](https://www.theguardian.com/tv-and-radio/article/2024/jun/13/the-truth-vs-alex-jones-review)
+- [Former England and Bolton defender Tommy Banks dies aged 94](https://www.theguardian.com/football/article/2024/jun/13/former-england-and-bolton-defender-tommy-banks-dies-aged-94)
+- [Brash, insouciant, unfiltered: how Charli XCX made pop fun again](https://www.theguardian.com/music/article/2024/jun/13/charli-xcx-brat-album-critically-acclaimed)
+- [England’s Conor Gallagher admits he was not good enough for Scotland](https://www.theguardian.com/football/article/2024/jun/13/englands-conor-gallagher-admits-he-was-not-good-enough-for-scotland)
+- [England take just 3.1 overs to thrash Oman and stay alive in T20 World Cup](https://www.theguardian.com/sport/article/2024/jun/13/england-take-just-31-overs-to-thrash-oman-and-stay-alive-in-t20-world-cup)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

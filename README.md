@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Minuimus is a file optimiser utility script](https://birds-are-nice.me/software/minuimus.html)
-- [How Meta trains large language models at scale](https://engineering.fb.com/2024/06/12/data-infrastructure/training-large-language-models-at-scale-meta/)
-- [Martin-Baker Ejection Seat Made Its First of 7,722 Saves 75 Years Ago Today](https://www.twz.com/air/martin-baker-ejection-seat-made-its-first-of-7722-saves-75-yeats-ago-today)
-- [Gerald Sussman: Programming is &lpar;should be&rpar; fun &lpar;2022&rpar; [video]](https://www.youtube.com/watch?v=2MYzvQ1v8Ww)
-- [Etleap &lpar;YC W13&rpar; Is Hiring Customer Success Manager &lpar;SF&rpar;](https://etleap.com/careers/customer-success-manager/)
-- [Pg_lakehouse: A DuckDB Alternative in Postgres](https://blog.paradedb.com/pages/introducing_lakehouse)
-- [Japan enacts law to curb Apple, Google&#39;s app dominance](https://english.kyodonews.net/news/2024/06/bc2d7f45d456-japan-enacts-law-to-curb-apple-googles-app-dominance.html#google_vignette)
-- [ChromeOS will soon be developed on large portions of the Android stack](https://blog.chromium.org/2024/06/building-faster-smarter-chromebook.html)
-- [Designing the avocado of uncertainty visualization](https://stamen.com/designing-the-avocado-of-uncertainty/)
-- [The GJK Algorithm: A weird and beautiful way to do a simple thing](https://computerwebsite.net/writing/gjk)
+- [Brew-Nix: a flake automatically packaging all homebrew casks](https://discourse.nixos.org/t/brew-nix-a-flake-automatically-packaging-all-homebrew-casks/44880)
+- [Firefox development is moving from Mercurial to Git &lpar;2023&rpar;](https://bugzilla.mozilla.org/show_bug.cgi?id=1863519)
+- [Clearview AI Used Your Face. Now You May Get a Stake in the Company](https://www.nytimes.com/2024/06/13/technology/clearview-ai-facial-recognition-settlement.html)
+- [Land value tax in online games and virtual worlds: A how-to guide](https://progressandpoverty.substack.com/p/land-value-tax-in-online-games-and)
+- [Lamini Memory Tuning: 10x Fewer Hallucinations](https://www.lamini.ai/blog/lamini-memory-tuning)
+- [Encodings for flattened heap values](https://cr.openjdk.org/~jrose/values/flattened-values.html)
+- [IKEA&#39;s retailer&#39;s solved global &#39;unhappy worker&#39; crisis by raising salaries](https://fortune.com/europe/2024/06/11/ikeas-boss-solved-swedish-retailers-global-unhappy-worker-crisis-raising-salaries-introducing-flexible-working-subsidized-childcare/)
+- [Mouth-based touchpad enables people living with paralysis to use computers](https://news.mit.edu/2024/mouth-based-touchpad-augmental-0605)
+- [Show HN: Paramount – Human Evals of AI Customer Support](https://github.com/ask-fini/paramount)
+- [The Art of the Epigraph &lpar;2014&rpar;](https://themillions.com/2014/06/the-art-of-the-epigraph.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Pulumi Copilot](https://www.pulumi.com/blog/pulumi-copilot/)
-- [We Hacked Companies in 30 Minutes Using a Fake VSCode Extension](https://medium.com/@amitassaraf/the-story-of-extensiontotal-how-we-hacked-the-vscode-marketplace-5c6e66a0e9d7)
-- [GitHub as Storage and Actions as Compute?](https://news.ycombinator.com/item?id=40665292)
-- [Biohybrid microrobots deliver drug-loaded nanoparticles to inhibit metastasis](https://www.science.org/doi/10.1126/sciadv.adn6157)
-- [Ark Tesla Price Model 2029](https://www.ark-invest.com/articles/valuation-models/arks-tesla-price-target-2029)
-- [How Pueblo Food Project is helping entrepreneurs develop their business plans](https://www.chieftain.com/story/news/2024/06/10/pueblo-food-project-program-helps-entrepreneurs-develop-business-plans/73990672007/)
-- [In Trump, Silicon Valley&#39;s crypto grifters see an ally–and a kindred spirit](https://sfstandard.com/opinion/2024/06/12/opinion-crypto-bros-trump-fundraiser/)
-- [Google Agrees to Buy Clean Geothermal Power in Nevada](https://www.bloomberg.com/news/articles/2024-06-13/google-agrees-to-buy-clean-power-from-buffett-s-nevada-utility)
-- [Meta VPS are getting squeezed out amid Mark Zuckerberg&#39;s &#39;permanent&#39; efficiency](https://www.businessinsider.com/meta-vps-getting-squeezed-out-amid-permanent-efficiency-mode-2024-6)
-- [Senior to Staff Engineer](https://blog.alexewerlof.com/p/senior-engineer-to-staff-engineer)
+- [Brew-Nix: a flake automatically packaging all homebrew casks](https://discourse.nixos.org/t/brew-nix-a-flake-automatically-packaging-all-homebrew-casks/44880)
+- [ADB tips and tricks: Commands that every power user should know about &lpar;2023&rpar;](https://www.xda-developers.com/adb-tips-tricks/)
+- [TV Networks Fight for Fewer Dollars in Upfront Amid Big Streaming &#39;Rollbacks&#39;](https://variety.com/2024/tv/news/tv-networks-upfront-advertising-market-fewer-dollars-pressure-rollbacks-1236036794/)
+- [Should Zap Switch to a Non-OSI Approved Licence?](https://www.zaproxy.org/blog/2024-06-07-should-zap-switch-to-a-non-osi-licence/)
+- [Show HN: Soundify – Turn Text into Sound Effects with AI](https://soundifytext.io/)
+- [Talkomatic](https://en.wikipedia.org/wiki/Talkomatic)
+- [Firefox development is moving from Mercurial to Git &lpar;2023&rpar;](https://bugzilla.mozilla.org/show_bug.cgi?id=1863519)
+- [First detection of frost on the solar system&#39;s tallest volcanoes on Mars](https://phys.org/news/2024-06-frost-solar-tallest-volcanoes-mars.html)
+- [Webb Telescope reveals asteroid collision in neighboring star system](https://phys.org/news/2024-06-webb-telescope-reveals-asteroid-collision.html)
+- [Fresh water appeared on Earth a half-billion years earlier than thought](https://phys.org/news/2024-06-fresh-key-conditions-life-earth.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Brew-Nix: a flake automatically packaging all homebrew casks](https://discourse.nixos.org/t/brew-nix-a-flake-automatically-packaging-all-homebrew-casks/44880)
-- [Firefox development is moving from Mercurial to Git &lpar;2023&rpar;](https://bugzilla.mozilla.org/show_bug.cgi?id=1863519)
-- [Clearview AI Used Your Face. Now You May Get a Stake in the Company](https://www.nytimes.com/2024/06/13/technology/clearview-ai-facial-recognition-settlement.html)
-- [Land value tax in online games and virtual worlds: A how-to guide](https://progressandpoverty.substack.com/p/land-value-tax-in-online-games-and)
-- [Lamini Memory Tuning: 10x Fewer Hallucinations](https://www.lamini.ai/blog/lamini-memory-tuning)
-- [Encodings for flattened heap values](https://cr.openjdk.org/~jrose/values/flattened-values.html)
-- [IKEA&#39;s retailer&#39;s solved global &#39;unhappy worker&#39; crisis by raising salaries](https://fortune.com/europe/2024/06/11/ikeas-boss-solved-swedish-retailers-global-unhappy-worker-crisis-raising-salaries-introducing-flexible-working-subsidized-childcare/)
-- [Mouth-based touchpad enables people living with paralysis to use computers](https://news.mit.edu/2024/mouth-based-touchpad-augmental-0605)
-- [Show HN: Paramount – Human Evals of AI Customer Support](https://github.com/ask-fini/paramount)
-- [The Art of the Epigraph &lpar;2014&rpar;](https://themillions.com/2014/06/the-art-of-the-epigraph.html)
+- [OpenAI Appoints Former NSA Director Paul Nakasone to Board of Directors](https://www.securityweek.com/openai-appoints-former-nsa-director-paul-nakasone-to-board-of-directors/)
+- [Face of ancient Australian &#39;giga-goose&#39; revealed after fossil skull found](https://www.nhm.ac.uk/discover/news/2024/june/face-ancient-australian-giga-goose-revealed-after-fossil-skull-found.html)
+- [Making my local LLM voice assistant faster and more scalable with RAG](https://johnthenerd.com/blog/faster-local-llm-assistant/)
+- [The Costco of Housing is Costco? The retailer&#39;s plan to use CA housing laws](https://www.urbanproxima.com/p/the-costco-of-housing-iscostco)
+- [Spaced repetition for teaching two-year olds how to read](https://chrislakin.blog/p/spaced-repetition-for-teaching-two)
+- [Exponentially Better Rotations](http://thenumb.at/Exponential-Rotations/)
+- [The first &#39;major lunar standstill&#39; in more than 18 years is about to occur](https://www.livescience.com/space/the-moon/the-1st-major-lunar-standstill-in-more-than-18-years-is-about-to-occur-heres-how-to-see-it)
+- [AI Search: The Bitter-Er Lesson](https://yellow-apartment-148.notion.site/AI-Search-The-Bitter-er-Lesson-44c11acd27294f4495c3de778cd09c8d)
+- [Aviator &lpar;YC S21&rpar; Is Hiring Engineers to Build a DevEx Platform](https://www.aviator.co/jobs)
+- [The challenge of writing a on-demand transcoder](https://zoriya.dev/blogs/transcoder/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

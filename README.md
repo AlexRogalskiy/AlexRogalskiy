@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Brew-Nix: a flake automatically packaging all homebrew casks](https://discourse.nixos.org/t/brew-nix-a-flake-automatically-packaging-all-homebrew-casks/44880)
-- [ADB tips and tricks: Commands that every power user should know about &lpar;2023&rpar;](https://www.xda-developers.com/adb-tips-tricks/)
-- [TV Networks Fight for Fewer Dollars in Upfront Amid Big Streaming &#39;Rollbacks&#39;](https://variety.com/2024/tv/news/tv-networks-upfront-advertising-market-fewer-dollars-pressure-rollbacks-1236036794/)
-- [Should Zap Switch to a Non-OSI Approved Licence?](https://www.zaproxy.org/blog/2024-06-07-should-zap-switch-to-a-non-osi-licence/)
-- [Show HN: Soundify – Turn Text into Sound Effects with AI](https://soundifytext.io/)
-- [Talkomatic](https://en.wikipedia.org/wiki/Talkomatic)
-- [Firefox development is moving from Mercurial to Git &lpar;2023&rpar;](https://bugzilla.mozilla.org/show_bug.cgi?id=1863519)
-- [First detection of frost on the solar system&#39;s tallest volcanoes on Mars](https://phys.org/news/2024-06-frost-solar-tallest-volcanoes-mars.html)
-- [Webb Telescope reveals asteroid collision in neighboring star system](https://phys.org/news/2024-06-webb-telescope-reveals-asteroid-collision.html)
-- [Fresh water appeared on Earth a half-billion years earlier than thought](https://phys.org/news/2024-06-fresh-key-conditions-life-earth.html)
+- [Widen ChatGPT Screen](https://github.com/lencx/ChatGPT/issues/430)
+- [Life360 says hacker stole customer data from its Tile support platform](https://www.scmagazine.com/news/life360-says-hacker-stole-customer-data-from-its-tile-support-platform)
+- [OpenAI Appoints Former NSA Director Paul Nakasone to Board of Directors](https://www.securityweek.com/openai-appoints-former-nsa-director-paul-nakasone-to-board-of-directors/)
+- [What Made Kathy Hochul Flip on Congestion Pricing?](https://www.curbed.com/article/congestion-pricing-kathy-hochul-mta-albany-backstory.html)
+- [Calif., Other States Still Grabbing for Wyoming&#39;s Share of Colorado River Water](https://cowboystatedaily.com/2024/06/14/efforts-to-get-more-of-wyomings-share-of-colorado-river-water-arent-going-away/)
+- [Telehealth fraud indictment may wreak havoc for Adderall users, CDC warns](https://arstechnica.com/science/2024/06/up-to-50k-patients-face-adderall-disruption-amid-telehealth-fraud-indictment/)
+- [Sonos draws more customer anger – this time for its privacy policy](https://www.theverge.com/2024/6/14/24178433/sonos-privacy-policy-customer-data-controversy)
+- [Bridging React Native and Rust via JSI](https://ditto.live/blog/bridging-react-native-and-rust-via-jsi)
+- [Can you blow a PC speaker with a Linux kernel module?](https://www.osnews.com/story/139958/can-you-blow-a-pc-speaker-with-a-linux-kernel-module/)
+- [systemd v256 has been released Now with 42% less Unix philosophy!](https://fosstodon.org/@bluca/112600235561688561)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

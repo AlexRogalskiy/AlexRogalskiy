@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [The phone-free, 12-hour school-day experiment - podcast](https://www.theguardian.com/news/audio/2024/jun/14/the-phone-free-12-hour-school-day-experiment-podcast)
-- [Ukraine war briefing: Sanctions to strike at Putin’s oil ‘shadow fleet’](https://www.theguardian.com/world/article/2024/jun/14/ukraine-war-briefing-sanctions-to-strike-at-putins-oil-shadow-fleet)
-- [Rory McIlroy shares US Open lead after opening with a bogey-free 65](https://www.theguardian.com/sport/article/2024/jun/14/rory-mcilroy-shares-us-open-lead-after-opening-with-a-bogey-free-65)
-- [UK has seen ‘explosion’ in insecure work since 2011, says TUC report](https://www.theguardian.com/politics/article/2024/jun/14/uk-explosion-in-insecure-work-tuc-report)
-- [Euro 2024 team guides part 23: Portugal](https://www.theguardian.com/football/article/2024/jun/14/euro-2024-team-guides-part-23-portugal)
-- [The Truth vs Alex Jones review – so viscerally wrong it will fry your mind](https://www.theguardian.com/tv-and-radio/article/2024/jun/13/the-truth-vs-alex-jones-review)
-- [Former England and Bolton defender Tommy Banks dies aged 94](https://www.theguardian.com/football/article/2024/jun/13/former-england-and-bolton-defender-tommy-banks-dies-aged-94)
-- [Brash, insouciant, unfiltered: how Charli XCX made pop fun again](https://www.theguardian.com/music/article/2024/jun/13/charli-xcx-brat-album-critically-acclaimed)
-- [England’s Conor Gallagher admits he was not good enough for Scotland](https://www.theguardian.com/football/article/2024/jun/13/englands-conor-gallagher-admits-he-was-not-good-enough-for-scotland)
-- [England take just 3.1 overs to thrash Oman and stay alive in T20 World Cup](https://www.theguardian.com/sport/article/2024/jun/13/england-take-just-31-overs-to-thrash-oman-and-stay-alive-in-t20-world-cup)
+- [NBA finals Game 4: Boston Celtics v Dallas Mavericks – live](https://www.theguardian.com/sport/live/2024/jun/14/nba-finals-game-4-boston-celtics-v-dallas-mavericks-live)
+- [Houthi attack forces crew to abandon coal carrier in Red Sea](https://www.theguardian.com/world/article/2024/jun/15/houthi-attack-forces-crew-to-abandon-coal-carrier-in-red-sea)
+- [Germany thrash Scotland as Euro 2024 kicks off in style – Football Daily](https://www.theguardian.com/football/audio/2024/jun/15/germany-scotland-euro-2024-football-weekly-podcast)
+- [Bentancur apologises to Son Heung-min for saying South Koreans ‘look the same’](https://www.theguardian.com/football/article/2024/jun/15/rodrigo-bentancur-son-heung-min-apology)
+- [What is on the agenda for Chinese premier Li Qiang’s visit to Australia?](https://www.theguardian.com/australia-news/article/2024/jun/15/agenda-chinese-premier-li-qiang-visit-australia)
+- [Rory McIlroy rides rocky road but stays in US Open hunt behind Åberg](https://www.theguardian.com/sport/article/2024/jun/15/rory-mcilroy-rides-a-rocky-road-but-stays-in-us-open-contention)
+- [Streaming: the best films about elections](https://www.theguardian.com/film/article/2024/jun/15/streaming-the-best-films-about-elections)
+- [French leftwing parties form ‘Popular Front’ to contest snap election](https://www.theguardian.com/world/article/2024/jun/14/french-leftwing-parties-popular-front-contest-snap-election)
+- [Germany look like a team intent on writing their own history | Jonathan Liew](https://www.theguardian.com/football/article/2024/jun/14/germany-look-like-a-team-intent-on-writing-their-own-history)
+- [Cyril Ramaphosa re-elected as South Africa’s president](https://www.theguardian.com/world/article/2024/jun/14/cyril-ramaphosa-reelected-as-south-africas-president)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

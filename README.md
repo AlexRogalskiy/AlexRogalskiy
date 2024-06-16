@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [NBA finals Game 4: Boston Celtics v Dallas Mavericks – live](https://www.theguardian.com/sport/live/2024/jun/14/nba-finals-game-4-boston-celtics-v-dallas-mavericks-live)
-- [Houthi attack forces crew to abandon coal carrier in Red Sea](https://www.theguardian.com/world/article/2024/jun/15/houthi-attack-forces-crew-to-abandon-coal-carrier-in-red-sea)
-- [Germany thrash Scotland as Euro 2024 kicks off in style – Football Daily](https://www.theguardian.com/football/audio/2024/jun/15/germany-scotland-euro-2024-football-weekly-podcast)
-- [Bentancur apologises to Son Heung-min for saying South Koreans ‘look the same’](https://www.theguardian.com/football/article/2024/jun/15/rodrigo-bentancur-son-heung-min-apology)
-- [What is on the agenda for Chinese premier Li Qiang’s visit to Australia?](https://www.theguardian.com/australia-news/article/2024/jun/15/agenda-chinese-premier-li-qiang-visit-australia)
-- [Rory McIlroy rides rocky road but stays in US Open hunt behind Åberg](https://www.theguardian.com/sport/article/2024/jun/15/rory-mcilroy-rides-a-rocky-road-but-stays-in-us-open-contention)
-- [Streaming: the best films about elections](https://www.theguardian.com/film/article/2024/jun/15/streaming-the-best-films-about-elections)
-- [French leftwing parties form ‘Popular Front’ to contest snap election](https://www.theguardian.com/world/article/2024/jun/14/french-leftwing-parties-popular-front-contest-snap-election)
-- [Germany look like a team intent on writing their own history | Jonathan Liew](https://www.theguardian.com/football/article/2024/jun/14/germany-look-like-a-team-intent-on-writing-their-own-history)
-- [Cyril Ramaphosa re-elected as South Africa’s president](https://www.theguardian.com/world/article/2024/jun/14/cyril-ramaphosa-reelected-as-south-africas-president)
+- [T20 World Cup 2024: Australia v Scotland – live](https://www.theguardian.com/sport/live/2024/jun/16/t20-world-cup-2024-australia-vs-scotland-live-updates-scores-results-teams-squads-start-time-gros-islet-saint-lucia-daren-sammy-national-cricket-stadium)
+- [Up to ten people including children shot at public splash pad in Michigan](https://www.theguardian.com/us-news/article/2024/jun/15/michigan-splash-pad-shooting)
+- [Gervonta Davis v Frank Martin: WBA lightweight championship – live](https://www.theguardian.com/sport/live/2024/jun/15/gervonta-davis-v-frank-martin-wba-lightweight-championship-live)
+- [Bryson DeChambeau takes control of US Open with glorious 67 as Rory McIlroy rues late bogeys](https://www.theguardian.com/sport/article/2024/jun/16/bryson-dechambeau-takes-control-of-us-open-with-glorious-67-as-rory-mcilroy-rues-late-bogeys)
+- [Ukraine war briefing: Russian proposals not discussed at Swiss peace summit, Germany says](https://www.theguardian.com/world/article/2024/jun/16/ukraine-war-briefing-russian-proposals-not-discussed-at-swiss-peace-summit-germany-says)
+- [Maria Bamford: ‘I want to give Donald Trump a roundhouse to the bread basket’](https://www.theguardian.com/stage/article/2024/jun/16/maria-bamford-i-want-to-give-donald-trump-a-roundhouse-to-the-bread-basket)
+- [Italy rally to beat Albania and are Spain the real deal? – Football Daily](https://www.theguardian.com/football/audio/2024/jun/16/italy-rally-to-beat-albania-and-are-spain-the-real-deal-football-daily)
+- [England beat rain delays and Namibia to keep T20 World Cup hopes alive](https://www.theguardian.com/sport/article/2024/jun/15/england-namibia-t20-world-cup-match-report)
+- [Sean Combs returns key to New York City after Cassie attack video](https://www.theguardian.com/music/article/2024/jun/15/sean-combs-key-new-york-city-returned)
+- [Rooney 2004: World at His Feet review – football at its most magical](https://www.theguardian.com/tv-and-radio/article/2024/jun/15/rooney-2004-world-at-his-feet-review-football-at-its-most-magical)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

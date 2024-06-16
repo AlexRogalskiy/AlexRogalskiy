@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [OpenAI Appoints Former NSA Director Paul Nakasone to Board of Directors](https://www.securityweek.com/openai-appoints-former-nsa-director-paul-nakasone-to-board-of-directors/)
-- [Face of ancient Australian &#39;giga-goose&#39; revealed after fossil skull found](https://www.nhm.ac.uk/discover/news/2024/june/face-ancient-australian-giga-goose-revealed-after-fossil-skull-found.html)
-- [Making my local LLM voice assistant faster and more scalable with RAG](https://johnthenerd.com/blog/faster-local-llm-assistant/)
-- [The Costco of Housing is Costco? The retailer&#39;s plan to use CA housing laws](https://www.urbanproxima.com/p/the-costco-of-housing-iscostco)
-- [Spaced repetition for teaching two-year olds how to read](https://chrislakin.blog/p/spaced-repetition-for-teaching-two)
-- [Exponentially Better Rotations](http://thenumb.at/Exponential-Rotations/)
-- [The first &#39;major lunar standstill&#39; in more than 18 years is about to occur](https://www.livescience.com/space/the-moon/the-1st-major-lunar-standstill-in-more-than-18-years-is-about-to-occur-heres-how-to-see-it)
-- [AI Search: The Bitter-Er Lesson](https://yellow-apartment-148.notion.site/AI-Search-The-Bitter-er-Lesson-44c11acd27294f4495c3de778cd09c8d)
-- [Aviator &lpar;YC S21&rpar; Is Hiring Engineers to Build a DevEx Platform](https://www.aviator.co/jobs)
-- [The challenge of writing a on-demand transcoder](https://zoriya.dev/blogs/transcoder/)
+- [Reformatting 100k Files at Google in 2011](https://laurent.le-brun.eu/blog/the-story-of-reformatting-100k-files-at-google-in-2011)
+- [Ollama v0.1.45](https://github.com/ollama/ollama/releases/tag/v0.1.45-rc1)
+- [Why you shouldn&#39;t parse the output of ls&lpar;1&rpar;](https://mywiki.wooledge.org/ParsingLs)
+- [Reverse engineering a restaurant pager system](https://k3xec.com/td158/)
+- [Subducting plate structure and megathrust morphology at Cascadia](https://www.science.org/doi/10.1126/sciadv.adl3198)
+- [Sans Bullshit Sans &lpar;2015&rpar;](https://www.sansbullshitsans.com/)
+- [Impulse Tracker source code now available on GitHub](https://github.com/jthlim/impulse-tracker)
+- [Just Enough Software Architecture](https://www.georgefairbanks.com/book/)
+- [You&#39;ve Read Your Last Free Article, Such Is the Nature of Mortality](https://www.mcsweeneys.net/articles/youve-read-your-last-free-article-such-is-the-nature-of-mortality)
+- [AI for math resources, and erdosproblems.com](https://terrytao.wordpress.com/2024/04/19/two-announcements-ai-for-math-resources-and-erdosproblems-com/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

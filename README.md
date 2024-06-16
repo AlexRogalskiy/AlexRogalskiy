@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Widen ChatGPT Screen](https://github.com/lencx/ChatGPT/issues/430)
-- [Life360 says hacker stole customer data from its Tile support platform](https://www.scmagazine.com/news/life360-says-hacker-stole-customer-data-from-its-tile-support-platform)
-- [OpenAI Appoints Former NSA Director Paul Nakasone to Board of Directors](https://www.securityweek.com/openai-appoints-former-nsa-director-paul-nakasone-to-board-of-directors/)
-- [What Made Kathy Hochul Flip on Congestion Pricing?](https://www.curbed.com/article/congestion-pricing-kathy-hochul-mta-albany-backstory.html)
-- [Calif., Other States Still Grabbing for Wyoming&#39;s Share of Colorado River Water](https://cowboystatedaily.com/2024/06/14/efforts-to-get-more-of-wyomings-share-of-colorado-river-water-arent-going-away/)
-- [Telehealth fraud indictment may wreak havoc for Adderall users, CDC warns](https://arstechnica.com/science/2024/06/up-to-50k-patients-face-adderall-disruption-amid-telehealth-fraud-indictment/)
-- [Sonos draws more customer anger – this time for its privacy policy](https://www.theverge.com/2024/6/14/24178433/sonos-privacy-policy-customer-data-controversy)
-- [Bridging React Native and Rust via JSI](https://ditto.live/blog/bridging-react-native-and-rust-via-jsi)
-- [Can you blow a PC speaker with a Linux kernel module?](https://www.osnews.com/story/139958/can-you-blow-a-pc-speaker-with-a-linux-kernel-module/)
-- [systemd v256 has been released Now with 42% less Unix philosophy!](https://fosstodon.org/@bluca/112600235561688561)
+- [Former Neuralink Staffer Sues After Scratches from Herpes Monkey](https://www.bloomberg.com/news/articles/2024-06-15/former-neuralink-staffer-sues-after-scratches-from-herpes-monkey)
+- [Chance versus Randomness](https://plato.stanford.edu/entries/chance-randomness/)
+- [Is Your Agency AI-Ready?](https://www.ninjacat.io/blog/is-your-agency-ai-ready-checklist)
+- [Hairnah](https://hairnah.com/)
+- [Garbage Collect Your Technical Debt &lpar;2021&rpar;](https://www.computer.org/csdl/magazine/so/2021/05/09520328/1wdNN59QqY0)
+- [Ames Window Illusion](https://www.youtube.com/watch?v=dBap_Lp-0oc)
+- [The Architecture Behind a One-Person Tech Startup](https://anthonynsimon.com/blog/one-man-saas-architecture/)
+- [Q&amp;A: Studies reveal gut&#39;s true stem cells, challenging previous assumptions](https://phys.org/news/2024-06-qa-reveal-gut-true-stem.html)
+- [Is there life on one of Saturn&#39;s moons? Scientists plan a mission to find out](https://www.theguardian.com/science/article/2024/jun/15/is-there-life-on-one-of-saturns-moons-scientists-plan-a-mission-to-find-out)
+- [17-year old created a tool for creating legal documents for SaaS companies](https://www.legalfast.app/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

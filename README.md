@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Reformatting 100k Files at Google in 2011](https://laurent.le-brun.eu/blog/the-story-of-reformatting-100k-files-at-google-in-2011)
-- [Ollama v0.1.45](https://github.com/ollama/ollama/releases/tag/v0.1.45-rc1)
-- [Why you shouldn&#39;t parse the output of ls&lpar;1&rpar;](https://mywiki.wooledge.org/ParsingLs)
-- [Reverse engineering a restaurant pager system](https://k3xec.com/td158/)
-- [Subducting plate structure and megathrust morphology at Cascadia](https://www.science.org/doi/10.1126/sciadv.adl3198)
-- [Sans Bullshit Sans &lpar;2015&rpar;](https://www.sansbullshitsans.com/)
-- [Impulse Tracker source code now available on GitHub](https://github.com/jthlim/impulse-tracker)
-- [Just Enough Software Architecture](https://www.georgefairbanks.com/book/)
-- [You&#39;ve Read Your Last Free Article, Such Is the Nature of Mortality](https://www.mcsweeneys.net/articles/youve-read-your-last-free-article-such-is-the-nature-of-mortality)
-- [AI for math resources, and erdosproblems.com](https://terrytao.wordpress.com/2024/04/19/two-announcements-ai-for-math-resources-and-erdosproblems-com/)
+- [Augmenting biological intelligence with RL in C.elegans using optogenetics [pdf]](https://klab.tch.harvard.edu/publications/PDFs/gk8172.pdf)
+- [They make USB-C cables with displays now](https://ounapuu.ee/posts/2024/06/05/usb-c-cables/)
+- [Using the C preprocessor as an HTML templating engine](https://github.com/cedric-h/c-website)
+- [Maintaining large-scale AI capacity at Meta](https://engineering.fb.com/2024/06/12/production-engineering/maintaining-large-scale-ai-capacity-meta/)
+- [Starlark Language](https://github.com/bazelbuild/starlark)
+- [Roger Linn reviews MPC Live 2](https://www.youtube.com/watch?v=0bhSWwf-i1k)
+- [To see is to forget the name of the thing one sees &lpar;2009&rpar;](https://geopolicraticus.wordpress.com/2009/08/21/to-see-is-to-forget-the-name-of-the-thing-one-sees/)
+- [Show HN: SQLite Database Explorer](https://github.com/frectonz/sqlite-studio)
+- [Tech nostalgia enthusiasts have made a PiDP-10, a replica of the PDP-10](https://www.theguardian.com/technology/article/2024/jun/06/reinventing-the-pdp-10)
+- [Sheaf Theory Through Examples](https://direct.mit.edu/books/oa-monograph/5460/Sheaf-Theory-through-Examples)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [T20 World Cup 2024: Australia v Scotland – live](https://www.theguardian.com/sport/live/2024/jun/16/t20-world-cup-2024-australia-vs-scotland-live-updates-scores-results-teams-squads-start-time-gros-islet-saint-lucia-daren-sammy-national-cricket-stadium)
-- [Up to ten people including children shot at public splash pad in Michigan](https://www.theguardian.com/us-news/article/2024/jun/15/michigan-splash-pad-shooting)
-- [Gervonta Davis v Frank Martin: WBA lightweight championship – live](https://www.theguardian.com/sport/live/2024/jun/15/gervonta-davis-v-frank-martin-wba-lightweight-championship-live)
-- [Bryson DeChambeau takes control of US Open with glorious 67 as Rory McIlroy rues late bogeys](https://www.theguardian.com/sport/article/2024/jun/16/bryson-dechambeau-takes-control-of-us-open-with-glorious-67-as-rory-mcilroy-rues-late-bogeys)
-- [Ukraine war briefing: Russian proposals not discussed at Swiss peace summit, Germany says](https://www.theguardian.com/world/article/2024/jun/16/ukraine-war-briefing-russian-proposals-not-discussed-at-swiss-peace-summit-germany-says)
-- [Maria Bamford: ‘I want to give Donald Trump a roundhouse to the bread basket’](https://www.theguardian.com/stage/article/2024/jun/16/maria-bamford-i-want-to-give-donald-trump-a-roundhouse-to-the-bread-basket)
-- [Italy rally to beat Albania and are Spain the real deal? – Football Daily](https://www.theguardian.com/football/audio/2024/jun/16/italy-rally-to-beat-albania-and-are-spain-the-real-deal-football-daily)
-- [England beat rain delays and Namibia to keep T20 World Cup hopes alive](https://www.theguardian.com/sport/article/2024/jun/15/england-namibia-t20-world-cup-match-report)
-- [Sean Combs returns key to New York City after Cassie attack video](https://www.theguardian.com/music/article/2024/jun/15/sean-combs-key-new-york-city-returned)
-- [Rooney 2004: World at His Feet review – football at its most magical](https://www.theguardian.com/tv-and-radio/article/2024/jun/15/rooney-2004-world-at-his-feet-review-football-at-its-most-magical)
+- [The economy and Labour’s post-election dilemma - podcast](https://www.theguardian.com/news/audio/2024/jun/17/general-election-2024-labour-campaign-economic-policy-podcast)
+- [France captain Kylian Mbappé urges vote against rising ‘extremes’ in election](https://www.theguardian.com/football/article/2024/jun/17/kylian-mbappe-french-election-comment-euro-2024-france-vote-against-extremes)
+- [Between hollow rhetoric and war: how sanctions work – and why they often don’t](https://www.theguardian.com/us-news/article/2024/jun/17/between-hollow-rhetoric-and-war-how-sanctions-work-and-why-they-often-dont)
+- [Netanyahu reportedly criticises military tactical pause in Gaza amid divisions with IDF](https://www.theguardian.com/world/article/2024/jun/17/netanyahu-reportedly-criticises-military-tactical-pause-in-gaza-amid-divisions-with-idf)
+- [At least 14 pilgrims die during hajj pilgrimage amid soaring temperatures](https://www.theguardian.com/world/article/2024/jun/17/pilgrims-die-hajj-pilgrimage-mecca-saudi-arabia-heat-hot-weather-temperatures)
+- [Bryson DeChambeau wins thrilling US Open to leave Rory McIlroy in agony](https://www.theguardian.com/sport/article/2024/jun/17/us-open-golf-bryson-dechambeau-rory-mcilroy-report)
+- [UK house prices remain near record high with little sign of election impact](https://www.theguardian.com/money/article/2024/jun/17/uk-house-prices-remain-near-record-high-with-little-sign-of-election-impact)
+- [UK manufacturers expecting boost in second half of 2024](https://www.theguardian.com/business/article/2024/jun/17/uk-manufacturers-expecting-boost-second-half-2024-apprenticeships)
+- [Starmer faces further calls for Labour to axe two-child benefit cap](https://www.theguardian.com/politics/article/2024/jun/17/keir-starmer-labour-policy-manifesto-two-child-benefits-limit)
+- [Fans left sidelined and with nowhere to go thanks to Uefa’s bumbling genius | Jonathan Liew](https://www.theguardian.com/football/article/2024/jun/16/fans-left-sidelined-and-with-nowhere-to-go-thanks-to-uefas-bumbling-genius)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

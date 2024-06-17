@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Former Neuralink Staffer Sues After Scratches from Herpes Monkey](https://www.bloomberg.com/news/articles/2024-06-15/former-neuralink-staffer-sues-after-scratches-from-herpes-monkey)
-- [Chance versus Randomness](https://plato.stanford.edu/entries/chance-randomness/)
-- [Is Your Agency AI-Ready?](https://www.ninjacat.io/blog/is-your-agency-ai-ready-checklist)
-- [Hairnah](https://hairnah.com/)
-- [Garbage Collect Your Technical Debt &lpar;2021&rpar;](https://www.computer.org/csdl/magazine/so/2021/05/09520328/1wdNN59QqY0)
-- [Ames Window Illusion](https://www.youtube.com/watch?v=dBap_Lp-0oc)
-- [The Architecture Behind a One-Person Tech Startup](https://anthonynsimon.com/blog/one-man-saas-architecture/)
-- [Q&amp;A: Studies reveal gut&#39;s true stem cells, challenging previous assumptions](https://phys.org/news/2024-06-qa-reveal-gut-true-stem.html)
-- [Is there life on one of Saturn&#39;s moons? Scientists plan a mission to find out](https://www.theguardian.com/science/article/2024/jun/15/is-there-life-on-one-of-saturns-moons-scientists-plan-a-mission-to-find-out)
-- [17-year old created a tool for creating legal documents for SaaS companies](https://www.legalfast.app/)
+- [My Response to Terrence Howard [video]](https://www.youtube.com/watch?v=1uLi1I3G2N4)
+- [Ask HN: Blog post about first months at a new job as a software engineer](https://news.ycombinator.com/item?id=40701814)
+- [Apple joins the race to find an AI icon that makes sense](https://techcrunch.com/2024/06/15/apple-joins-the-race-to-find-an-ai-icon-that-makes-sense/)
+- [Interview with Esolang Academic [video]](https://www.youtube.com/watch?v=ieqsL5NkS6I)
+- [Ask HN: What would it take to unseat Google?](https://news.ycombinator.com/item?id=40701660)
+- [The Online Afterlife of Franz Kafka](https://www.nytimes.com/2024/06/01/arts/franz-kafka-tiktok-centennial.html)
+- [Getting Started with Perlimports](https://www.olafalders.com/2024/04/15/getting-started-with-perlimports/)
+- [Ask HN: Is anyone afraid of near-term AI autocracy?](https://news.ycombinator.com/item?id=40701635)
+- [Pg_bestmatch.rs: Elevate Your PostgreSQL Text Queries with BM25](https://blog.pgvecto.rs/pgbestmatchrs-elevate-your-postgresql-text-queries-with-bm25)
+- [ChatGPT has caused a drop in demand for online digital freelancers](https://www.techradar.com/pro/chatgpt-has-caused-a-massive-drop-in-demand-for-online-digital-freelancers-here-is-what-you-can-do-to-protect-yourself)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

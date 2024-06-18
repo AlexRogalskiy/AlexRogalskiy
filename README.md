@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [The economy and Labour’s post-election dilemma - podcast](https://www.theguardian.com/news/audio/2024/jun/17/general-election-2024-labour-campaign-economic-policy-podcast)
-- [France captain Kylian Mbappé urges vote against rising ‘extremes’ in election](https://www.theguardian.com/football/article/2024/jun/17/kylian-mbappe-french-election-comment-euro-2024-france-vote-against-extremes)
-- [Between hollow rhetoric and war: how sanctions work – and why they often don’t](https://www.theguardian.com/us-news/article/2024/jun/17/between-hollow-rhetoric-and-war-how-sanctions-work-and-why-they-often-dont)
-- [Netanyahu reportedly criticises military tactical pause in Gaza amid divisions with IDF](https://www.theguardian.com/world/article/2024/jun/17/netanyahu-reportedly-criticises-military-tactical-pause-in-gaza-amid-divisions-with-idf)
-- [At least 14 pilgrims die during hajj pilgrimage amid soaring temperatures](https://www.theguardian.com/world/article/2024/jun/17/pilgrims-die-hajj-pilgrimage-mecca-saudi-arabia-heat-hot-weather-temperatures)
-- [Bryson DeChambeau wins thrilling US Open to leave Rory McIlroy in agony](https://www.theguardian.com/sport/article/2024/jun/17/us-open-golf-bryson-dechambeau-rory-mcilroy-report)
-- [UK house prices remain near record high with little sign of election impact](https://www.theguardian.com/money/article/2024/jun/17/uk-house-prices-remain-near-record-high-with-little-sign-of-election-impact)
-- [UK manufacturers expecting boost in second half of 2024](https://www.theguardian.com/business/article/2024/jun/17/uk-manufacturers-expecting-boost-second-half-2024-apprenticeships)
-- [Starmer faces further calls for Labour to axe two-child benefit cap](https://www.theguardian.com/politics/article/2024/jun/17/keir-starmer-labour-policy-manifesto-two-child-benefits-limit)
-- [Fans left sidelined and with nowhere to go thanks to Uefa’s bumbling genius | Jonathan Liew](https://www.theguardian.com/football/article/2024/jun/16/fans-left-sidelined-and-with-nowhere-to-go-thanks-to-uefas-bumbling-genius)
+- [NBA finals 2024 Game 5: Dallas Mavericks v Boston Celtics – live](https://www.theguardian.com/sport/live/2024/jun/18/nba-finals-2024-game-5-dallas-mavericks-boston-celtics-live-latest-score)
+- [The British judges ruling on the law in authoritarian Hong Kong - podcast](https://www.theguardian.com/news/audio/2024/jun/18/british-judges-ruling-on-law-authoritarian-hong-kong-podcast)
+- [Ukraine war briefing: Fightback against Russian advance in Kharkiv](https://www.theguardian.com/world/article/2024/jun/18/ukraine-war-briefing-fightback-against-russian-advance-in-kharkiv)
+- [Likely ‘a bird strike’: Virgin Australia flight makes emergency landing in New Zealand after engine fire](https://www.theguardian.com/business/article/2024/jun/18/likely-a-bird-strike-virgin-australia-flight-makes-emergency-landing-in-new-zealand-after-engine-fire)
+- [How North Korea’s lucrative trade in human hair is helping it skirt the impact of sanctions](https://www.theguardian.com/world/article/2024/jun/18/north-korea-human-hair-export-trade-wigs-false-eyelashes)
+- [Thailand on the brink of legalising same-sex marriage in historic vote](https://www.theguardian.com/world/article/2024/jun/18/thailand-same-sex-marriage-equality-vote-bill-legislation)
+- [EU leaders move closer towards giving second term to Ursula von der Leyen](https://www.theguardian.com/world/article/2024/jun/18/eu-leaders-move-closer-towards-giving-second-term-to-ursula-von-der-leyen)
+- [Ian McKellen expected to make ‘speedy recovery’ after falling off stage](https://www.theguardian.com/culture/article/2024/jun/17/ian-mckellen-in-hospital-after-falling-off-stage-during-player-kings-show)
+- [Labour’s EU policy will do little to address economic impact of Brexit, says thinktank](https://www.theguardian.com/politics/article/2024/jun/18/labour-eu-policy-economic-impact-brexit)
+- [Dua Lipa says criticism of Israeli war in Gaza was for ‘greater good’](https://www.theguardian.com/music/article/2024/jun/18/dua-lipa-says-criticism-of-israeli-war-in-gaza-was-for-greater-good)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

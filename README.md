@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [My Response to Terrence Howard [video]](https://www.youtube.com/watch?v=1uLi1I3G2N4)
-- [Ask HN: Blog post about first months at a new job as a software engineer](https://news.ycombinator.com/item?id=40701814)
-- [Apple joins the race to find an AI icon that makes sense](https://techcrunch.com/2024/06/15/apple-joins-the-race-to-find-an-ai-icon-that-makes-sense/)
-- [Interview with Esolang Academic [video]](https://www.youtube.com/watch?v=ieqsL5NkS6I)
-- [Ask HN: What would it take to unseat Google?](https://news.ycombinator.com/item?id=40701660)
-- [The Online Afterlife of Franz Kafka](https://www.nytimes.com/2024/06/01/arts/franz-kafka-tiktok-centennial.html)
-- [Getting Started with Perlimports](https://www.olafalders.com/2024/04/15/getting-started-with-perlimports/)
-- [Ask HN: Is anyone afraid of near-term AI autocracy?](https://news.ycombinator.com/item?id=40701635)
-- [Pg_bestmatch.rs: Elevate Your PostgreSQL Text Queries with BM25](https://blog.pgvecto.rs/pgbestmatchrs-elevate-your-postgresql-text-queries-with-bm25)
-- [ChatGPT has caused a drop in demand for online digital freelancers](https://www.techradar.com/pro/chatgpt-has-caused-a-massive-drop-in-demand-for-online-digital-freelancers-here-is-what-you-can-do-to-protect-yourself)
+- [&quot;Friendink: A New Social App to Connect People with Similar Interests&quot;](https://friendink.com/welcome)
+- [The Most Exhausting Restoration I&#39;ve Ever Made – Soviet Computer Control Panel](https://www.youtube.com/watch?v=zhzNqVHD2-E)
+- [Zouxian: A Solution for Bypassing Xcode LLM Restriction in Mainland China](https://github.com/CatMe0w/zouxian)
+- [Giant viral signatures on the Greenland ice sheet](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01796-y)
+- [Where Elon Musk keeps his money](https://www.washingtonpost.com/technology/2024/02/01/elon-musk-wealth-net-worth-companies/)
+- [Apple Is Shutting Down Its Buy Now, Pay Later Service](https://www.wsj.com/business/telecom/apple-is-shutting-down-its-buy-now-pay-later-service-c8baf75c)
+- [Will We Run Out of Data? Limits of LLM Scaling Based on Human-Generated Data](https://epochai.org/blog/will-we-run-out-of-data-limits-of-llm-scaling-based-on-human-generated-data)
+- [Ask HN: What do Engineering Managers do at your company?](https://news.ycombinator.com/item?id=40713388)
+- [Editor tied to self-described &#39;thief&#39; who claimed role in his reporting](https://www.washingtonpost.com/investigations/2024/06/16/washington-post-editor-robert-winnett/)
+- [Basic Category Theory &lpar;2016&rpar;](https://arxiv.org/abs/1612.09375)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

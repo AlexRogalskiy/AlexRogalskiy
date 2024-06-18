@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Augmenting biological intelligence with RL in C.elegans using optogenetics [pdf]](https://klab.tch.harvard.edu/publications/PDFs/gk8172.pdf)
-- [They make USB-C cables with displays now](https://ounapuu.ee/posts/2024/06/05/usb-c-cables/)
-- [Using the C preprocessor as an HTML templating engine](https://github.com/cedric-h/c-website)
-- [Maintaining large-scale AI capacity at Meta](https://engineering.fb.com/2024/06/12/production-engineering/maintaining-large-scale-ai-capacity-meta/)
-- [Starlark Language](https://github.com/bazelbuild/starlark)
-- [Roger Linn reviews MPC Live 2](https://www.youtube.com/watch?v=0bhSWwf-i1k)
-- [To see is to forget the name of the thing one sees &lpar;2009&rpar;](https://geopolicraticus.wordpress.com/2009/08/21/to-see-is-to-forget-the-name-of-the-thing-one-sees/)
-- [Show HN: SQLite Database Explorer](https://github.com/frectonz/sqlite-studio)
-- [Tech nostalgia enthusiasts have made a PiDP-10, a replica of the PDP-10](https://www.theguardian.com/technology/article/2024/jun/06/reinventing-the-pdp-10)
-- [Sheaf Theory Through Examples](https://direct.mit.edu/books/oa-monograph/5460/Sheaf-Theory-through-Examples)
+- [Hitachi to Release PCs with Preinstalled BeOS for the Consumer Market &lpar;1998&rpar;](https://www.hitachi.com/New/cnews/E/1998/981111B.html)
+- [The upcoming iterator design for Go 1.23](https://www.gingerbill.org/article/2024/06/17/go-iterator-design/)
+- [Intel-undervolt: CPU undervolting and throttling configuration tool for Linux](https://github.com/kitsunyan/intel-undervolt)
+- [Intel details Skymont](https://chipsandcheese.com/2024/06/15/intel-details-skymont/)
+- [Tsutomu Yamaguchi – A man who survived both atomic bombings &lpar;2023&rpar;](https://www.biography.com/history-culture/a44577392/tsutomu-yamaguchi-hiroshima-and-nagasaki-bombing-survivor)
+- [A Note on Essential Complexity](https://olano.dev/blog/a-note-on-essential-complexity)
+- [Pitfalls of comparing BigDecimals in Java](https://igorstechnoclub.com/java-bigdecimal/)
+- [Google DeepMind shifts from research lab to AI product factory](https://www.bloomberg.com/news/articles/2024-06-17/google-deepmind-shifts-from-research-lab-to-ai-product-factory)
+- [Getting 50% &lpar;SoTA&rpar; on Arc-AGI with GPT-4o](https://redwoodresearch.substack.com/p/getting-50-sota-on-arc-agi-with-gpt)
+- [LLM that can call multiple tool APIs with one request](https://cohere.com/blog/multi-step-tool-use)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [NBA finals 2024 Game 5: Dallas Mavericks v Boston Celtics – live](https://www.theguardian.com/sport/live/2024/jun/18/nba-finals-2024-game-5-dallas-mavericks-boston-celtics-live-latest-score)
-- [The British judges ruling on the law in authoritarian Hong Kong - podcast](https://www.theguardian.com/news/audio/2024/jun/18/british-judges-ruling-on-law-authoritarian-hong-kong-podcast)
-- [Ukraine war briefing: Fightback against Russian advance in Kharkiv](https://www.theguardian.com/world/article/2024/jun/18/ukraine-war-briefing-fightback-against-russian-advance-in-kharkiv)
-- [Likely ‘a bird strike’: Virgin Australia flight makes emergency landing in New Zealand after engine fire](https://www.theguardian.com/business/article/2024/jun/18/likely-a-bird-strike-virgin-australia-flight-makes-emergency-landing-in-new-zealand-after-engine-fire)
-- [How North Korea’s lucrative trade in human hair is helping it skirt the impact of sanctions](https://www.theguardian.com/world/article/2024/jun/18/north-korea-human-hair-export-trade-wigs-false-eyelashes)
-- [Thailand on the brink of legalising same-sex marriage in historic vote](https://www.theguardian.com/world/article/2024/jun/18/thailand-same-sex-marriage-equality-vote-bill-legislation)
-- [EU leaders move closer towards giving second term to Ursula von der Leyen](https://www.theguardian.com/world/article/2024/jun/18/eu-leaders-move-closer-towards-giving-second-term-to-ursula-von-der-leyen)
-- [Ian McKellen expected to make ‘speedy recovery’ after falling off stage](https://www.theguardian.com/culture/article/2024/jun/17/ian-mckellen-in-hospital-after-falling-off-stage-during-player-kings-show)
-- [Labour’s EU policy will do little to address economic impact of Brexit, says thinktank](https://www.theguardian.com/politics/article/2024/jun/18/labour-eu-policy-economic-impact-brexit)
-- [Dua Lipa says criticism of Israeli war in Gaza was for ‘greater good’](https://www.theguardian.com/music/article/2024/jun/18/dua-lipa-says-criticism-of-israeli-war-in-gaza-was-for-greater-good)
+- [Putin in North Korea live: Kim Jong-un hails close ties as visit likely to reshape relationship gets underway](https://www.theguardian.com/world/live/2024/jun/19/north-korea-live-updates-vladimir-putin-kim-jong-un-pyongyang-latest-news)
+- [Germans are divided. Can Euro 2024 unite them? - podcast](https://www.theguardian.com/news/audio/2024/jun/19/germans-are-divided-can-euro-2024-unite-them-podcast)
+- [‘Our hearts are heavy’: anguish as Papua New Guinea picks up the pieces after deadly landslide](https://www.theguardian.com/world/article/2024/jun/19/our-hearts-are-heavy-anguish-as-papua-new-guinea-picks-up-the-pieces-after-deadly-landslide)
+- [Microplastic discovery in penises raises erectile dysfunction questions](https://www.theguardian.com/environment/article/2024/jun/19/microplastic-discovery-in-penises-raises-erectile-dysfunction-questions)
+- [Ukraine war briefing: ‘Drone sanctions’ burn Russian oil reserves](https://www.theguardian.com/world/article/2024/jun/19/ukraine-war-briefing-drone-sanctions-burn-russian-oil-reserves)
+- [UK children shorter, fatter and sicker amid poor diet and poverty, report finds](https://www.theguardian.com/society/article/2024/jun/19/uk-children-shorter-fatter-and-sicker-amid-poor-diet-and-poverty-report-finds)
+- [No Brownlee brothers in GB triathlon squad as Olympic lineup is announced](https://www.theguardian.com/sport/article/2024/jun/19/team-gb-triathlon-brownlee-olympic-games)
+- [China has renamed hundreds of Uyghur villages and towns, say human rights groups](https://www.theguardian.com/world/article/2024/jun/19/china-has-renamed-hundreds-of-uyghur-villages-and-towns-say-human-rights-groups)
+- [New female-led Zelda game announced by Nintendo to surprise of fans](https://www.theguardian.com/games/article/2024/jun/19/new-zelda-game-announced-by-nintendo-to-surprise-of-fans)
+- [Former Trump national security adviser urges resumption of nuclear testing](https://www.theguardian.com/world/article/2024/jun/18/trump-national-security-adviser-robert-o-brien-nuclear)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

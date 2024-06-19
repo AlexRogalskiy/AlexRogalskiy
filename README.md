@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Hitachi to Release PCs with Preinstalled BeOS for the Consumer Market &lpar;1998&rpar;](https://www.hitachi.com/New/cnews/E/1998/981111B.html)
-- [The upcoming iterator design for Go 1.23](https://www.gingerbill.org/article/2024/06/17/go-iterator-design/)
-- [Intel-undervolt: CPU undervolting and throttling configuration tool for Linux](https://github.com/kitsunyan/intel-undervolt)
-- [Intel details Skymont](https://chipsandcheese.com/2024/06/15/intel-details-skymont/)
-- [Tsutomu Yamaguchi – A man who survived both atomic bombings &lpar;2023&rpar;](https://www.biography.com/history-culture/a44577392/tsutomu-yamaguchi-hiroshima-and-nagasaki-bombing-survivor)
-- [A Note on Essential Complexity](https://olano.dev/blog/a-note-on-essential-complexity)
-- [Pitfalls of comparing BigDecimals in Java](https://igorstechnoclub.com/java-bigdecimal/)
-- [Google DeepMind shifts from research lab to AI product factory](https://www.bloomberg.com/news/articles/2024-06-17/google-deepmind-shifts-from-research-lab-to-ai-product-factory)
-- [Getting 50% &lpar;SoTA&rpar; on Arc-AGI with GPT-4o](https://redwoodresearch.substack.com/p/getting-50-sota-on-arc-agi-with-gpt)
-- [LLM that can call multiple tool APIs with one request](https://cohere.com/blog/multi-step-tool-use)
+- [Willie Mays, SF Giants legend and MLB all-time great, is dead](https://www.sfchronicle.com/sports/giants/article/willie-mays-dead-obituary-17815215.php)
+- [California Moves to Modify Law Letting Workers Sue Employers](https://www.nytimes.com/2024/06/18/business/economy/california-newsom-labor.html)
+- [Open Source Python ETL](https://amphi.ai/)
+- [Reed–Solomon Codes for Coders](https://en.wikiversity.org/wiki/Reed%E2%80%93Solomon_codes_for_coders)
+- [Large language model data pipelines and Common Crawl](https://blog.christianperone.com/2023/06/appreciating-llms-data-pipelines/)
+- [KidPix](https://kidpix.app)
+- [Off-path TCP hijacking in NAT-enabled Wi-Fi networks](https://blog.apnic.net/2024/06/18/off-path-tcp-hijacking-in-nat-enabled-wi-fi-networks/)
+- [IPC in Rust – A Ping Pong Comparison](https://3tilley.github.io/posts/simple-ipc-ping-pong/)
+- [Advanced Shell Scripting Techniques: Automating Complex Tasks with Bash](https://omid.dev/2024/06/19/advanced-shell-scripting-techniques-automating-complex-tasks-with-bash/)
+- [Show HN: I made an open source and local translation app](https://github.com/niedev/RTranslator)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [&quot;Friendink: A New Social App to Connect People with Similar Interests&quot;](https://friendink.com/welcome)
-- [The Most Exhausting Restoration I&#39;ve Ever Made – Soviet Computer Control Panel](https://www.youtube.com/watch?v=zhzNqVHD2-E)
-- [Zouxian: A Solution for Bypassing Xcode LLM Restriction in Mainland China](https://github.com/CatMe0w/zouxian)
-- [Giant viral signatures on the Greenland ice sheet](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01796-y)
-- [Where Elon Musk keeps his money](https://www.washingtonpost.com/technology/2024/02/01/elon-musk-wealth-net-worth-companies/)
-- [Apple Is Shutting Down Its Buy Now, Pay Later Service](https://www.wsj.com/business/telecom/apple-is-shutting-down-its-buy-now-pay-later-service-c8baf75c)
-- [Will We Run Out of Data? Limits of LLM Scaling Based on Human-Generated Data](https://epochai.org/blog/will-we-run-out-of-data-limits-of-llm-scaling-based-on-human-generated-data)
-- [Ask HN: What do Engineering Managers do at your company?](https://news.ycombinator.com/item?id=40713388)
-- [Editor tied to self-described &#39;thief&#39; who claimed role in his reporting](https://www.washingtonpost.com/investigations/2024/06/16/washington-post-editor-robert-winnett/)
-- [Basic Category Theory &lpar;2016&rpar;](https://arxiv.org/abs/1612.09375)
+- [Mozilla Buys Ad Firm Anonym](https://www.theregister.com/2024/06/18/mozilla_buys_anonym_betting_privacy/)
+- [Apple just made your app obsolete? You&#39;ve been &#39;Sherlocked&#39;](https://www.npr.org/2024/06/17/g-s1-4912/apple-app-store-obsolete-sherlocked-tapeacall-watson-copy)
+- [Regular JSON](https://neilmadden.blog/2023/05/31/regular-json/)
+- [Steve Teixeira Is Suing Mozilla](https://archive.org/details/jyjfub)
+- [Blank White Screen](https://blankwhitescreen.com/)
+- [Bridge should have been closed years before it collapsed [video]](https://www.youtube.com/watch?v=4mn0mC0cbi8)
+- [Significant Drop in PyPI Package Downloads Observed](https://pypistats.org/packages/__all__)
+- [Navy project brings promise of cloud to the middle of the ocean](https://federalnewsnetwork.com/navy/2024/06/navy-project-brings-promise-of-cloud-to-the-middle-of-the-ocean/)
+- [LAUSD approves cellphone ban as Newsom calls for statewide action](https://www.latimes.com/california/story/2024-06-18/lausd-board-approved-strict-cell-phone-ban)
+- [What&#39;s Under London? Discover London&#39;s Forbidden Underworld](https://www.openculture.com/2024/06/whats-under-london-discover-londons-forbidden-underworld.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

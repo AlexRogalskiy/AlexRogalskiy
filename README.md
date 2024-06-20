@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Mozilla Buys Ad Firm Anonym](https://www.theregister.com/2024/06/18/mozilla_buys_anonym_betting_privacy/)
-- [Apple just made your app obsolete? You&#39;ve been &#39;Sherlocked&#39;](https://www.npr.org/2024/06/17/g-s1-4912/apple-app-store-obsolete-sherlocked-tapeacall-watson-copy)
-- [Regular JSON](https://neilmadden.blog/2023/05/31/regular-json/)
-- [Steve Teixeira Is Suing Mozilla](https://archive.org/details/jyjfub)
-- [Blank White Screen](https://blankwhitescreen.com/)
-- [Bridge should have been closed years before it collapsed [video]](https://www.youtube.com/watch?v=4mn0mC0cbi8)
-- [Significant Drop in PyPI Package Downloads Observed](https://pypistats.org/packages/__all__)
-- [Navy project brings promise of cloud to the middle of the ocean](https://federalnewsnetwork.com/navy/2024/06/navy-project-brings-promise-of-cloud-to-the-middle-of-the-ocean/)
-- [LAUSD approves cellphone ban as Newsom calls for statewide action](https://www.latimes.com/california/story/2024-06-18/lausd-board-approved-strict-cell-phone-ban)
-- [What&#39;s Under London? Discover London&#39;s Forbidden Underworld](https://www.openculture.com/2024/06/whats-under-london-discover-londons-forbidden-underworld.html)
+- [Ask HN: What framework are people using for SPAs these days?](https://news.ycombinator.com/item?id=40734265)
+- [How Not to Talk to Your Kids &lpar;2007&rpar;](https://nymag.com/news/features/27840/)
+- [Bacon ice cream and nugget overload sees misfiring McDonald&#39;s AI withdrawn](https://www.bbc.com/news/articles/c722gne7qngo)
+- [Create responsive HTML and CSS containers without any media queries](https://code-blog-ydrg.onrender.com)
+- [State of JavaScript 2023](https://2023.stateofjs.com/en-US/)
+- [Qualcomm AI/Copilot PCs don&#39;t live up to the hype](https://semiaccurate.com/2024/06/18/qualcomm-ai-copilot-pcs-dont-live-up-to-the-hype/)
+- [An Heiress Let Strangers Give Away Her $27M Fortune](https://time.com/6990018/heiress-marlene-engelhorn-austria-strangers-give-away-millions/)
+- [Vterm: A cross-platform, Vulkan terminal emulator written in Rust](https://github.com/nuIIpointerexception/vterm)
+- [Text-UI View back end [Red lang]](https://www.red-lang.org/2024/06/text-ui-view-backend.html)
+- [Eating cheese plays a role in healthy, happy aging – who are we to argue?](https://newatlas.com/health-wellbeing/cheese-happy-aging/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

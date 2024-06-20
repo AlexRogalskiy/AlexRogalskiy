@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Putin in North Korea live: Kim Jong-un hails close ties as visit likely to reshape relationship gets underway](https://www.theguardian.com/world/live/2024/jun/19/north-korea-live-updates-vladimir-putin-kim-jong-un-pyongyang-latest-news)
-- [Germans are divided. Can Euro 2024 unite them? - podcast](https://www.theguardian.com/news/audio/2024/jun/19/germans-are-divided-can-euro-2024-unite-them-podcast)
-- [‘Our hearts are heavy’: anguish as Papua New Guinea picks up the pieces after deadly landslide](https://www.theguardian.com/world/article/2024/jun/19/our-hearts-are-heavy-anguish-as-papua-new-guinea-picks-up-the-pieces-after-deadly-landslide)
-- [Microplastic discovery in penises raises erectile dysfunction questions](https://www.theguardian.com/environment/article/2024/jun/19/microplastic-discovery-in-penises-raises-erectile-dysfunction-questions)
-- [Ukraine war briefing: ‘Drone sanctions’ burn Russian oil reserves](https://www.theguardian.com/world/article/2024/jun/19/ukraine-war-briefing-drone-sanctions-burn-russian-oil-reserves)
-- [UK children shorter, fatter and sicker amid poor diet and poverty, report finds](https://www.theguardian.com/society/article/2024/jun/19/uk-children-shorter-fatter-and-sicker-amid-poor-diet-and-poverty-report-finds)
-- [No Brownlee brothers in GB triathlon squad as Olympic lineup is announced](https://www.theguardian.com/sport/article/2024/jun/19/team-gb-triathlon-brownlee-olympic-games)
-- [China has renamed hundreds of Uyghur villages and towns, say human rights groups](https://www.theguardian.com/world/article/2024/jun/19/china-has-renamed-hundreds-of-uyghur-villages-and-towns-say-human-rights-groups)
-- [New female-led Zelda game announced by Nintendo to surprise of fans](https://www.theguardian.com/games/article/2024/jun/19/new-zelda-game-announced-by-nintendo-to-surprise-of-fans)
-- [Former Trump national security adviser urges resumption of nuclear testing](https://www.theguardian.com/world/article/2024/jun/18/trump-national-security-adviser-robert-o-brien-nuclear)
+- [England v West Indies: T20 Cricket World Cup – live](https://www.theguardian.com/sport/live/2024/jun/20/west-indies-v-england-t20-cricket-world-cup-live)
+- [The Lib Dems’ surprising strategy to breach the blue wall – podcast](https://www.theguardian.com/news/audio/2024/jun/20/lib-dems-surprising-strategy-to-breach-blue-wall-podcast)
+- [Ash Barty to return to playing tennis at Wimbledon invitational event](https://www.theguardian.com/sport/article/2024/jun/20/ash-barty-tennis-return-wimbledon-invitational-event-doubles)
+- [Canada to ban open-net pen salmon farming in British Columbia](https://www.theguardian.com/environment/article/2024/jun/20/canada-to-ban-open-net-pen-salmon-farming-in-british-columbia)
+- [New Caledonia: police arrest pro-independence leader over alleged role in deadly protests](https://www.theguardian.com/world/article/2024/jun/20/new-caledonia-protests-arrest-pro-independence-leader-christian-tein)
+- [Ukraine war briefing: Mourning for ‘Ghosts of Kyiv’ fighter pilot](https://www.theguardian.com/world/article/2024/jun/20/ukraine-war-briefing-mourning-for-ghosts-of-kyiv-fighter-pilot)
+- [Putin arrives in Vietnam for state visit condemned by US](https://www.theguardian.com/world/article/2024/jun/20/vladimir-putin-vietnam-state-visit)
+- [Germany through as Scotland improve and Croatia are denied  – Football Daily](https://www.theguardian.com/global/audio/2024/jun/20/germany-through-as-scotland-improve-and-croatia-are-denied-football-daily)
+- [Ex-Fujitsu executive says he feels ‘aggrieved’ by damage done to Horizon’s reputation](https://www.theguardian.com/uk-news/article/2024/jun/19/ex-fujitsu-executive-says-he-feels-aggrieved-by-damage-done-to-horizons-reputation)
+- [Sharp rise in use of high-strength vapes, research shows](https://www.theguardian.com/society/article/2024/jun/20/sharp-rise-use-high-strength-nicotine-vapes-research)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

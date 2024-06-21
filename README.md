@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [OSRD: Open-Source Railway Designer](https://osrd.fr/en/)
-- [Nobody knows what&#39;s going on](https://www.raptitude.com/2024/06/nobody-knows-whats-going-on/)
-- [Hypermedia Systems](https://hypermedia.systems/)
-- [Unique3D: Image-to-3D Generation from a Single Image in 30 seconds](https://github.com/AiuniAI/Unique3D)
-- [Zep AI &lpar;YC W24&rpar; is hiring back end engineers to build LLM long-term memory](https://www.ycombinator.com/companies/zep-ai/jobs/J5TD9KW-backend-engineer)
-- [The the the the induction of jamais vu: word alienation and semantic satiation](https://www.tandfonline.com/doi/full/10.1080/09658211.2020.1727519)
-- [X debut 40 years ago &lpar;1984&rpar;](https://www.talisman.org/x-debut.shtml)
-- [EasyOS: An Experimental Linux Distribution](https://easyos.org/)
-- [Show HN: Modular Pi Cam](https://github.com/jdc-cunningham/modular-pi-cam/tree/master/cameras/pi-zero/large-display)
-- [F &lpar;2006&rpar;](http://www.nsl.com/k/f/f.htm)
+- [How we made the Deno language server faster](https://deno.com/blog/optimizing-our-lsp)
+- [How babies and young children learn to understand language](https://lithub.com/how-babies-and-young-children-learn-to-understand-language/)
+- [Tim O’Reilly: How to Fix &quot;AI&#39;s Original Sin&quot;](https://www.oreilly.com/radar/how-to-fix-ais-original-sin/)
+- [Show HN: Local Voice Assistant Using Ollama, Transformers and Coqui TTS Toolkit](https://github.com/mezbaul-h/june)
+- [Generating audio for video](https://deepmind.google/discover/blog/generating-audio-for-video/)
+- [New York Establishes Stringent Protections to Safeguard Kids on Social Media](https://www.governor.ny.gov/news/governor-hochul-joins-attorney-general-james-and-bill-sponsors-sign-nation-leading-legislation)
+- [Promoted.ai &lpar;YC W21&rpar; Is Hiring a Sales Engineer](https://www.ycombinator.com/companies/promoted/jobs/5moymju-sales-engineer-new-grad)
+- [What is ZIRP, and how did it impact the startup world?](https://www.ycombinator.com/blog/what-is-zirp-and-how-did-it-impact-the-startup-world/)
+- [Gilead shot prevents all HIV cases in trial](https://www.bloomberg.com/news/articles/2024-06-20/gilead-shot-prevents-100-of-hiv-cases-in-trial-of-african-women)
+- [More disabled Americans are employed, thanks to remote work](https://www.bloomberg.com/news/articles/2024-06-20/remote-work-helps-more-people-with-disabilities-get-employed)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

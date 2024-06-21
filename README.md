@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Ask HN: What framework are people using for SPAs these days?](https://news.ycombinator.com/item?id=40734265)
-- [How Not to Talk to Your Kids &lpar;2007&rpar;](https://nymag.com/news/features/27840/)
-- [Bacon ice cream and nugget overload sees misfiring McDonald&#39;s AI withdrawn](https://www.bbc.com/news/articles/c722gne7qngo)
-- [Create responsive HTML and CSS containers without any media queries](https://code-blog-ydrg.onrender.com)
-- [State of JavaScript 2023](https://2023.stateofjs.com/en-US/)
-- [Qualcomm AI/Copilot PCs don&#39;t live up to the hype](https://semiaccurate.com/2024/06/18/qualcomm-ai-copilot-pcs-dont-live-up-to-the-hype/)
-- [An Heiress Let Strangers Give Away Her $27M Fortune](https://time.com/6990018/heiress-marlene-engelhorn-austria-strangers-give-away-millions/)
-- [Vterm: A cross-platform, Vulkan terminal emulator written in Rust](https://github.com/nuIIpointerexception/vterm)
-- [Text-UI View back end [Red lang]](https://www.red-lang.org/2024/06/text-ui-view-backend.html)
-- [Eating cheese plays a role in healthy, happy aging – who are we to argue?](https://newatlas.com/health-wellbeing/cheese-happy-aging/)
+- [Generalized Autoref-Based Specialization &lpar;2019&rpar;](http://lukaskalbertodt.github.io/2019/12/05/generalized-autoref-based-specialization.html)
+- [Intro to AI in Web Development](https://www.moonhighway.com/articles/intro-to-ai-web-development/)
+- [Boolean: Personal Finance Platform](https://booleanco.com/)
+- [In spite of hype, many companies are moving cautiously when it comes to GenAI](https://techcrunch.com/2024/06/19/in-spite-of-hype-many-companies-are-moving-cautiously-when-it-comes-to-generative-ai/)
+- [Comparing the Framework Laptop with the MacBook Air M2: A Detailed Review](https://quail.ink/lyric_na/p/comparing-the-framework-laptop-with-the-macbook-air-m2-a-detailed-review)
+- [Seven Conversation Hacks](https://randsinrepose.com/archives/seven-conversation-hacks/)
+- [Denver Basic Income Project Year One Results](https://www.denverbasicincomeproject.org/research)
+- [Ask HN: Is it feasible to serve up a remote file for a file download link?](https://news.ycombinator.com/item?id=40745451)
+- [Did Microsoft hired 2 teams to do the same thing?](https://news.ycombinator.com/item?id=40745341)
+- [Leachim – 4th grade teaching robot](https://en.wikipedia.org/wiki/Leachim_(Robot))
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

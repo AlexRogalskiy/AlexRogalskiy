@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [England v West Indies: T20 Cricket World Cup – live](https://www.theguardian.com/sport/live/2024/jun/20/west-indies-v-england-t20-cricket-world-cup-live)
-- [The Lib Dems’ surprising strategy to breach the blue wall – podcast](https://www.theguardian.com/news/audio/2024/jun/20/lib-dems-surprising-strategy-to-breach-blue-wall-podcast)
-- [Ash Barty to return to playing tennis at Wimbledon invitational event](https://www.theguardian.com/sport/article/2024/jun/20/ash-barty-tennis-return-wimbledon-invitational-event-doubles)
-- [Canada to ban open-net pen salmon farming in British Columbia](https://www.theguardian.com/environment/article/2024/jun/20/canada-to-ban-open-net-pen-salmon-farming-in-british-columbia)
-- [New Caledonia: police arrest pro-independence leader over alleged role in deadly protests](https://www.theguardian.com/world/article/2024/jun/20/new-caledonia-protests-arrest-pro-independence-leader-christian-tein)
-- [Ukraine war briefing: Mourning for ‘Ghosts of Kyiv’ fighter pilot](https://www.theguardian.com/world/article/2024/jun/20/ukraine-war-briefing-mourning-for-ghosts-of-kyiv-fighter-pilot)
-- [Putin arrives in Vietnam for state visit condemned by US](https://www.theguardian.com/world/article/2024/jun/20/vladimir-putin-vietnam-state-visit)
-- [Germany through as Scotland improve and Croatia are denied  – Football Daily](https://www.theguardian.com/global/audio/2024/jun/20/germany-through-as-scotland-improve-and-croatia-are-denied-football-daily)
-- [Ex-Fujitsu executive says he feels ‘aggrieved’ by damage done to Horizon’s reputation](https://www.theguardian.com/uk-news/article/2024/jun/19/ex-fujitsu-executive-says-he-feels-aggrieved-by-damage-done-to-horizons-reputation)
-- [Sharp rise in use of high-strength vapes, research shows](https://www.theguardian.com/society/article/2024/jun/20/sharp-rise-use-high-strength-nicotine-vapes-research)
+- [T20 World Cup 2024: Australia v Bangladesh – live](https://www.theguardian.com/sport/live/2024/jun/21/t20-world-cup-2024-australia-vs-bangladesh-cricket-live-updates-scores-results-teams-squads-start-time-antigua-sir-vivian-richards-stadium)
+- [Copa América 2024: Argentina 2-0 Canada – as it happened](https://www.theguardian.com/football/live/2024/jun/20/copa-america-2024-argentina-v-canada-live-latest-score)
+- [Has Clacton fallen for Nigel Farage? – podcast](https://www.theguardian.com/news/audio/2024/jun/21/has-clacton-fallen-for-nigel-farage-podcast)
+- [Ukraine war briefing: Boost to Patriot missile supplies for Kyiv – other countries will have to wait](https://www.theguardian.com/world/article/2024/jun/21/ukraine-war-briefing-boost-to-patriot-missile-supplies-for-kyiv-other-countries-will-have-to-wait)
+- [ByteDance alleges US’s ‘singling out of TikTok’ is unconstitutional](https://www.theguardian.com/technology/article/2024/jun/20/tiktok-bytedance-legal-filings-us-unconstitutional)
+- [My husband loves me but clearly fancies a woman at work. How can I manage my jealousy? | Leading questions](https://www.theguardian.com/lifeandstyle/article/2024/jun/21/my-husband-loves-me-but-clearly-fancies-a-woman-at-work-how-can-i-manage-my-jealousy)
+- [An all too familiar England but Spain look superb – Football Daily](https://www.theguardian.com/football/audio/2024/jun/20/an-all-too-familiar-england-but-spain-look-superb-football-daily)
+- [Ryan Garcia suspended one year as Devin Haney win ruled no-contest](https://www.theguardian.com/sport/article/2024/jun/20/ryan-garcia-suspended-one-year-positive-ped-test)
+- [Pregnant women should be tested for diabetes far earlier, study suggests](https://www.theguardian.com/lifeandstyle/article/2024/jun/20/pregnant-women-should-be-tested-for-gestational-diabetes-far-earlier-study-suggests)
+- [Outrageous Homes review – OTT TV that will make you very happy indeed](https://www.theguardian.com/tv-and-radio/article/2024/jun/20/outrageous-homes-review-laurence-llewelyn-bowen-ott-tv-that-will-make-you-very-happy-indeed)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

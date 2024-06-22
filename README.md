@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [T20 World Cup 2024: Australia v Bangladesh – live](https://www.theguardian.com/sport/live/2024/jun/21/t20-world-cup-2024-australia-vs-bangladesh-cricket-live-updates-scores-results-teams-squads-start-time-antigua-sir-vivian-richards-stadium)
-- [Copa América 2024: Argentina 2-0 Canada – as it happened](https://www.theguardian.com/football/live/2024/jun/20/copa-america-2024-argentina-v-canada-live-latest-score)
-- [Has Clacton fallen for Nigel Farage? – podcast](https://www.theguardian.com/news/audio/2024/jun/21/has-clacton-fallen-for-nigel-farage-podcast)
-- [Ukraine war briefing: Boost to Patriot missile supplies for Kyiv – other countries will have to wait](https://www.theguardian.com/world/article/2024/jun/21/ukraine-war-briefing-boost-to-patriot-missile-supplies-for-kyiv-other-countries-will-have-to-wait)
-- [ByteDance alleges US’s ‘singling out of TikTok’ is unconstitutional](https://www.theguardian.com/technology/article/2024/jun/20/tiktok-bytedance-legal-filings-us-unconstitutional)
-- [My husband loves me but clearly fancies a woman at work. How can I manage my jealousy? | Leading questions](https://www.theguardian.com/lifeandstyle/article/2024/jun/21/my-husband-loves-me-but-clearly-fancies-a-woman-at-work-how-can-i-manage-my-jealousy)
-- [An all too familiar England but Spain look superb – Football Daily](https://www.theguardian.com/football/audio/2024/jun/20/an-all-too-familiar-england-but-spain-look-superb-football-daily)
-- [Ryan Garcia suspended one year as Devin Haney win ruled no-contest](https://www.theguardian.com/sport/article/2024/jun/20/ryan-garcia-suspended-one-year-positive-ped-test)
-- [Pregnant women should be tested for diabetes far earlier, study suggests](https://www.theguardian.com/lifeandstyle/article/2024/jun/20/pregnant-women-should-be-tested-for-gestational-diabetes-far-earlier-study-suggests)
-- [Outrageous Homes review – OTT TV that will make you very happy indeed](https://www.theguardian.com/tv-and-radio/article/2024/jun/20/outrageous-homes-review-laurence-llewelyn-bowen-ott-tv-that-will-make-you-very-happy-indeed)
+- [Barcelona to ban apartment rentals to tourists in bid to cut housing costs](https://www.theguardian.com/world/article/2024/jun/22/barcelona-to-ban-apartment-rentals-to-tourists-in-bid-to-cut-housing-costs)
+- [David DePape found guilty in second trial for hammer attack on Paul Pelosi](https://www.theguardian.com/us-news/article/2024/jun/21/nancy-pelosi-david-depape-state-conviction)
+- [Pamela Allen on Mr McGee and turning 90: ‘I’ve always known what I’m doing is good’](https://www.theguardian.com/books/article/2024/jun/22/pamela-allen-author-mr-mcgee-and-his-hat-turning-90)
+- [Always bring something and know when to leave: a freeloader’s guide to being the perfect dinner guest](https://www.theguardian.com/lifeandstyle/article/2024/jun/22/always-bring-something-and-know-when-to-leave-a-freeloaders-guide-to-being-the-perfect-dinner-guest)
+- [France stall against Netherlands and Austria on the up – Football Daily](https://www.theguardian.com/football/audio/2024/jun/22/france-netherlands-austria-poland-daily-podcast)
+- [Will ‘sigh of relief’ after US supreme court gun ruling be short-lived?](https://www.theguardian.com/us-news/article/2024/jun/21/us-supreme-court-guns-domestic-violence)
+- [Guardia Civil reject offer of help from Lancashire police in search for Jay Slater](https://www.theguardian.com/world/article/2024/jun/21/spanish-police-reject-offer-of-help-from-lancashire-police-in-search-for-jay-slater)
+- [Mysterious shiny monolith removed from Nevada desert](https://www.theguardian.com/us-news/article/2024/jun/21/nevada-monolith-removed)
+- [England shirt hangs heavily on Gareth Southgate’s edgy and frazzled team](https://www.theguardian.com/football/article/2024/jun/21/england-gareth-southgate-euro-2024-analysis)
+- [England players not fit enough to press effectively, claims Gareth Southgate](https://www.theguardian.com/football/article/2024/jun/21/england-players-fitness-pressing-gareth-southgate)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

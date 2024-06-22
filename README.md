@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [How we made the Deno language server faster](https://deno.com/blog/optimizing-our-lsp)
-- [How babies and young children learn to understand language](https://lithub.com/how-babies-and-young-children-learn-to-understand-language/)
-- [Tim O’Reilly: How to Fix &quot;AI&#39;s Original Sin&quot;](https://www.oreilly.com/radar/how-to-fix-ais-original-sin/)
-- [Show HN: Local Voice Assistant Using Ollama, Transformers and Coqui TTS Toolkit](https://github.com/mezbaul-h/june)
-- [Generating audio for video](https://deepmind.google/discover/blog/generating-audio-for-video/)
-- [New York Establishes Stringent Protections to Safeguard Kids on Social Media](https://www.governor.ny.gov/news/governor-hochul-joins-attorney-general-james-and-bill-sponsors-sign-nation-leading-legislation)
-- [Promoted.ai &lpar;YC W21&rpar; Is Hiring a Sales Engineer](https://www.ycombinator.com/companies/promoted/jobs/5moymju-sales-engineer-new-grad)
-- [What is ZIRP, and how did it impact the startup world?](https://www.ycombinator.com/blog/what-is-zirp-and-how-did-it-impact-the-startup-world/)
-- [Gilead shot prevents all HIV cases in trial](https://www.bloomberg.com/news/articles/2024-06-20/gilead-shot-prevents-100-of-hiv-cases-in-trial-of-african-women)
-- [More disabled Americans are employed, thanks to remote work](https://www.bloomberg.com/news/articles/2024-06-20/remote-work-helps-more-people-with-disabilities-get-employed)
+- [My Windows Computer Just Doesn&#39;t Feel Like Mine Anymore](https://www.howtogeek.com/my-windows-computer-just-doesnt-feel-like-mine-anymore/)
+- [MACH.2 Multi-Actuator Hard Drives](https://www.seagate.com/innovation/multi-actuator-hard-drives/)
+- [Daylight Computer tablet review](https://twitter.com/patio11/status/1804217931557171612)
+- [Internet Archive forced to remove 500k books after publishers&#39; court win](https://arstechnica.com/tech-policy/2024/06/internet-archive-forced-to-remove-500000-books-after-publishers-court-win/)
+- [Solving puzzles faster than humanly possible](https://biggieblog.com/solving-puzzles-faster-than-humanly-possible/)
+- [Hope without optimism – transcription of a talk by Dave Snowden &lpar;2022&rpar;](https://gist.github.com/owulveryck/4ac8c96c16f5a48de24f8a0e949ad9a5)
+- [Emerge Tools &lpar;YC W21&rpar; is hiring a senior front end engineer](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
+- [SVG: The Good, the Bad, and the Ugly &lpar;2021&rpar;](https://www.eisfunke.com/posts/2021/svg-the-good-the-bad-and-the-ugly.html)
+- [The Vienna Secession: A History](https://www.theviennasecession.com/vienna-secession/)
+- [NTS &lpar;TeX reimplementation in Java from 2001&rpar; still compiles under Java 16](https://github.com/jamespfennell/new-typesetting-system)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

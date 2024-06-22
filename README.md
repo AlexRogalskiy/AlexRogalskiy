@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Generalized Autoref-Based Specialization &lpar;2019&rpar;](http://lukaskalbertodt.github.io/2019/12/05/generalized-autoref-based-specialization.html)
-- [Intro to AI in Web Development](https://www.moonhighway.com/articles/intro-to-ai-web-development/)
-- [Boolean: Personal Finance Platform](https://booleanco.com/)
-- [In spite of hype, many companies are moving cautiously when it comes to GenAI](https://techcrunch.com/2024/06/19/in-spite-of-hype-many-companies-are-moving-cautiously-when-it-comes-to-generative-ai/)
-- [Comparing the Framework Laptop with the MacBook Air M2: A Detailed Review](https://quail.ink/lyric_na/p/comparing-the-framework-laptop-with-the-macbook-air-m2-a-detailed-review)
-- [Seven Conversation Hacks](https://randsinrepose.com/archives/seven-conversation-hacks/)
-- [Denver Basic Income Project Year One Results](https://www.denverbasicincomeproject.org/research)
-- [Ask HN: Is it feasible to serve up a remote file for a file download link?](https://news.ycombinator.com/item?id=40745451)
-- [Did Microsoft hired 2 teams to do the same thing?](https://news.ycombinator.com/item?id=40745341)
-- [Leachim – 4th grade teaching robot](https://en.wikipedia.org/wiki/Leachim_(Robot))
+- [Im admitting myself to a residential mental hospital](https://twitter.com/drbriefsscratch/status/1803911336432406588)
+- [Ask HN: The Australian economy has becoming a housing ponzi. Where does it end?](https://news.ycombinator.com/item?id=40755646)
+- [Adversarial Perturbations Cannot Reliably Protect Artists from Generative AI](https://arxiv.org/abs/2406.12027)
+- [Multiple AI companies bypassing web standard to scrape publisher sites](https://www.reuters.com/technology/artificial-intelligence/multiple-ai-companies-bypassing-web-standard-scrape-publisher-sites-licensing-2024-06-21/)
+- [China threatens death penalty for &#39;diehard&#39; Taiwan separatists](https://www.cnn.com/2024/06/21/china/china-death-penalty-diehard-taiwan-separatists-intl-hnk/index.html)
+- [The Most Ramified Chess Position of 2023](https://lukesalamone.github.io/posts/most-ramified-chess-position-2023/)
+- [.plan](https://plan.cat/)
+- [Researchers describe how to tell if ChatGPT is confabulating](https://arstechnica.com/ai/2024/06/researchers-describe-how-to-tell-if-chatgpt-is-confabulating/)
+- [Convert CSS classes to inline CSS for HTML emails](https://premailer.dialect.ca/)
+- [Astronauts stranded in space due to multiple issues with Boeing Starliner](https://www.livescience.com/space/space-exploration/astronauts-stranded-in-space-due-to-multiple-issues-with-boeings-starliner-and-the-window-for-a-return-flight-is-closing)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

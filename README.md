@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Im admitting myself to a residential mental hospital](https://twitter.com/drbriefsscratch/status/1803911336432406588)
-- [Ask HN: The Australian economy has becoming a housing ponzi. Where does it end?](https://news.ycombinator.com/item?id=40755646)
-- [Adversarial Perturbations Cannot Reliably Protect Artists from Generative AI](https://arxiv.org/abs/2406.12027)
-- [Multiple AI companies bypassing web standard to scrape publisher sites](https://www.reuters.com/technology/artificial-intelligence/multiple-ai-companies-bypassing-web-standard-scrape-publisher-sites-licensing-2024-06-21/)
-- [China threatens death penalty for &#39;diehard&#39; Taiwan separatists](https://www.cnn.com/2024/06/21/china/china-death-penalty-diehard-taiwan-separatists-intl-hnk/index.html)
-- [The Most Ramified Chess Position of 2023](https://lukesalamone.github.io/posts/most-ramified-chess-position-2023/)
-- [.plan](https://plan.cat/)
-- [Researchers describe how to tell if ChatGPT is confabulating](https://arstechnica.com/ai/2024/06/researchers-describe-how-to-tell-if-chatgpt-is-confabulating/)
-- [Convert CSS classes to inline CSS for HTML emails](https://premailer.dialect.ca/)
-- [Astronauts stranded in space due to multiple issues with Boeing Starliner](https://www.livescience.com/space/space-exploration/astronauts-stranded-in-space-due-to-multiple-issues-with-boeings-starliner-and-the-window-for-a-return-flight-is-closing)
+- [Massachusetts Institute of Technology](https://www.universitycube.net/university/massachusetts-institute-of-technology)
+- [Princeton University](https://www.universitycube.net/university/princeton-university)
+- [Decoding the Landscape: Recent Developments in Video Codec Licensing](https://www.streamingmedia.com/Articles/ReadArticle.aspx?ArticleID=163913)
+- [Why are module implementation and signatures separated in OCaml? &lpar;2018&rpar;](https://discuss.ocaml.org/t/what-is-the-reason-of-separation-of-module-implementation-and-signatures-in-ocaml/1735?page=2)
+- [Notice of Labeler Termination](https://aegis.blue/Notice+of+Labeler+Termination)
+- [Systemd Looks to Replace sudo with run0](https://news.itsfoss.com/systemd-run0/)
+- [ThinkPad 701C with a Framework brain transplant](https://community.frame.work/t/thinkpad-701c-with-a-framework-brain-transplant-work-in-progress/27409)
+- [Astronomers May Have Found Life Beyond Earth](https://www.thefp.com/p/astronomers-may-have-found-life-beyond-earth)
+- [Is Guix full-source bootstrap a lie?](https://simon.tournier.info/posts/2023-10-01-bootstrapping.html)
+- [Metascience Reforms at NIH](https://twitter.com/stuartbuck1/status/1804632587484508437)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

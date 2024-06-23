@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Barcelona to ban apartment rentals to tourists in bid to cut housing costs](https://www.theguardian.com/world/article/2024/jun/22/barcelona-to-ban-apartment-rentals-to-tourists-in-bid-to-cut-housing-costs)
-- [David DePape found guilty in second trial for hammer attack on Paul Pelosi](https://www.theguardian.com/us-news/article/2024/jun/21/nancy-pelosi-david-depape-state-conviction)
-- [Pamela Allen on Mr McGee and turning 90: ‘I’ve always known what I’m doing is good’](https://www.theguardian.com/books/article/2024/jun/22/pamela-allen-author-mr-mcgee-and-his-hat-turning-90)
-- [Always bring something and know when to leave: a freeloader’s guide to being the perfect dinner guest](https://www.theguardian.com/lifeandstyle/article/2024/jun/22/always-bring-something-and-know-when-to-leave-a-freeloaders-guide-to-being-the-perfect-dinner-guest)
-- [France stall against Netherlands and Austria on the up – Football Daily](https://www.theguardian.com/football/audio/2024/jun/22/france-netherlands-austria-poland-daily-podcast)
-- [Will ‘sigh of relief’ after US supreme court gun ruling be short-lived?](https://www.theguardian.com/us-news/article/2024/jun/21/us-supreme-court-guns-domestic-violence)
-- [Guardia Civil reject offer of help from Lancashire police in search for Jay Slater](https://www.theguardian.com/world/article/2024/jun/21/spanish-police-reject-offer-of-help-from-lancashire-police-in-search-for-jay-slater)
-- [Mysterious shiny monolith removed from Nevada desert](https://www.theguardian.com/us-news/article/2024/jun/21/nevada-monolith-removed)
-- [England shirt hangs heavily on Gareth Southgate’s edgy and frazzled team](https://www.theguardian.com/football/article/2024/jun/21/england-gareth-southgate-euro-2024-analysis)
-- [England players not fit enough to press effectively, claims Gareth Southgate](https://www.theguardian.com/football/article/2024/jun/21/england-players-fitness-pressing-gareth-southgate)
+- [Ukraine war briefing: Zelenskiy calls for more military aid after strike on Kharkiv apartment block](https://www.theguardian.com/world/article/2024/jun/23/ukraine-war-briefing-zelenskiy-calls-for-more-military-aid-after-strike-on-kharkiv-apartment-block)
+- [Portugal win Group F and Belgium get off the mark – Football Daily](https://www.theguardian.com/football/audio/2024/jun/23/portugal-win-group-f-and-belgium-get-off-the-mark)
+- [The stars of Colin from Accounts: ‘As I tapped Ewan McGregor’s shoulder, I knew I’d made the wrong decision’](https://www.theguardian.com/tv-and-radio/article/2024/jun/23/colin-from-accounts-season-two-cast-interview-patrick-brammall-harriet-dyer)
+- [Heavyweight champion Anthony Joshua wants to open care home for retired boxers](https://www.theguardian.com/sport/article/2024/jun/23/anthony-joshua-world-heavyweight-champion-care-home-retired-boxers-desert-island-discs)
+- [Israeli forces strap wounded Palestinian man to hood of military jeep](https://www.theguardian.com/world/article/2024/jun/22/israeli-forces-strap-wounded-palestinian-man-to-hood-of-military-jeep)
+- [Shimmering fabrics and a sparkling legacy: Dries van Noten bids farewell](https://www.theguardian.com/fashion/article/2024/jun/22/shimmering-fabrics-and-a-sparkling-legacy-dries-van-noten-bids-farewell)
+- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2024/jun/22/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Glasgow Warriors fight back against Bulls to clinch United Rugby Championship title](https://www.theguardian.com/sport/article/2024/jun/22/rugby-union-glasgow-warriors-the-bulls-united-rugby-championship-final)
+- [Capri lifts ban on tourists after resolving problems with water supply](https://www.theguardian.com/world/article/2024/jun/22/capri-water-emergency-tourists-mayor)
+- [Nerveless Wharton could be the answer to England’s midfield conundrum](https://www.theguardian.com/football/article/2024/jun/22/adam-wharton-england-slovenia-euro-2024-gareth-southgate)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

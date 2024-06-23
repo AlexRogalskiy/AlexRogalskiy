@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [My Windows Computer Just Doesn&#39;t Feel Like Mine Anymore](https://www.howtogeek.com/my-windows-computer-just-doesnt-feel-like-mine-anymore/)
-- [MACH.2 Multi-Actuator Hard Drives](https://www.seagate.com/innovation/multi-actuator-hard-drives/)
-- [Daylight Computer tablet review](https://twitter.com/patio11/status/1804217931557171612)
-- [Internet Archive forced to remove 500k books after publishers&#39; court win](https://arstechnica.com/tech-policy/2024/06/internet-archive-forced-to-remove-500000-books-after-publishers-court-win/)
-- [Solving puzzles faster than humanly possible](https://biggieblog.com/solving-puzzles-faster-than-humanly-possible/)
-- [Hope without optimism – transcription of a talk by Dave Snowden &lpar;2022&rpar;](https://gist.github.com/owulveryck/4ac8c96c16f5a48de24f8a0e949ad9a5)
-- [Emerge Tools &lpar;YC W21&rpar; is hiring a senior front end engineer](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
-- [SVG: The Good, the Bad, and the Ugly &lpar;2021&rpar;](https://www.eisfunke.com/posts/2021/svg-the-good-the-bad-and-the-ugly.html)
-- [The Vienna Secession: A History](https://www.theviennasecession.com/vienna-secession/)
-- [NTS &lpar;TeX reimplementation in Java from 2001&rpar; still compiles under Java 16](https://github.com/jamespfennell/new-typesetting-system)
+- [The manager&#39;s unbearable lack of endorphins](https://jamie.ideasasylum.com/2024/06/21/the-manager-s-unbearable-lack-of-endorphins)
+- [Mozilla&#39;s Original Sin](https://www.jwz.org/blog/2024/06/mozillas-original-sin/)
+- [Ruby: A great language for shell scripts](https://lucasoshiro.github.io/posts-en/2024-06-17-ruby-shellscript/)
+- [ChatGPT is biased against resumes with credentials that imply a disability](https://www.washington.edu/news/2024/06/21/chatgpt-ai-bias-ableism-disability-resume-cv/)
+- [OpenEMR: Open-source medical record software](https://www.open-emr.org/)
+- [A website where you write a message to the next visitor](https://www.dearnextvisitor.com/)
+- [Delving into ChatGPT usage in academic writing through excess vocabulary](https://arxiv.org/abs/2406.07016)
+- [SSH as a Sudo Replacement](https://whynothugo.nl/journal/2024/06/13/ssh-as-a-sudo-replacement/)
+- [Daily Automated Testing for Milk-V Duo S RISC-V SBC &lpar;IKEA Tretakt, Apache NuttX&rpar;](https://lupyuen.codeberg.page/articles/sg2000a.html)
+- [Show HN: Simple script to cripple personalized targeting from Facebook](https://gist.github.com/HyperCrowd/edc9b461ec23cf2454ea4d1e910fd1c6)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

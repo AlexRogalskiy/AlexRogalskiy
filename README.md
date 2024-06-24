@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Massachusetts Institute of Technology](https://www.universitycube.net/university/massachusetts-institute-of-technology)
-- [Princeton University](https://www.universitycube.net/university/princeton-university)
-- [Decoding the Landscape: Recent Developments in Video Codec Licensing](https://www.streamingmedia.com/Articles/ReadArticle.aspx?ArticleID=163913)
-- [Why are module implementation and signatures separated in OCaml? &lpar;2018&rpar;](https://discuss.ocaml.org/t/what-is-the-reason-of-separation-of-module-implementation-and-signatures-in-ocaml/1735?page=2)
-- [Notice of Labeler Termination](https://aegis.blue/Notice+of+Labeler+Termination)
-- [Systemd Looks to Replace sudo with run0](https://news.itsfoss.com/systemd-run0/)
-- [ThinkPad 701C with a Framework brain transplant](https://community.frame.work/t/thinkpad-701c-with-a-framework-brain-transplant-work-in-progress/27409)
-- [Astronomers May Have Found Life Beyond Earth](https://www.thefp.com/p/astronomers-may-have-found-life-beyond-earth)
-- [Is Guix full-source bootstrap a lie?](https://simon.tournier.info/posts/2023-10-01-bootstrapping.html)
-- [Metascience Reforms at NIH](https://twitter.com/stuartbuck1/status/1804632587484508437)
+- [US EPA Enforcement and Compliance on Apple Fabrication](https://www.dropbox.com/scl/fo/312oqvretg7yyhfx0ohx4/AGZduVXs0_1geqIyi0NA9nE?e=1&preview=2024_04_30_RCRA_Insp_Report_REPORT_Apple_3250_Scott_Redacted.pdf&rlkey=3aa2tw15ek3trqlbdh7pw9erh&st=4b364mkx&dl=0)
+- [With Pen and Paper in Hand, Car Dealers Improvise as Cyber Outage Persists](https://www.wsj.com/business/autos/with-pen-and-paper-in-hand-car-dealers-improvise-as-cyber-outage-persists-2642ebb7)
+- [Amish Technology](https://groups.etown.edu/amishstudies/cultural-practices/technology/)
+- [Show HN: Memory Graph](https://nalinplad.github.io/memory-graph/)
+- [Show HN: A collection of copy templates for your landing page](https://twice-as-nice.co/)
+- [Eight Lectures on Yoga](https://hermetic.com/crowley/eight-lectures-on-yoga/index)
+- [A 10-cent microcontroller deserves a 10-cent devboard: RISC-V CH32V003](https://www.hackster.io/arduinocelentano/the-cheapest-ch32v003-risc-v-development-board-3917d1)
+- [Reid Hoffman takes aim at David Sacks for his support of Donald Trump](https://www.businessinsider.com/linkedin-cofounder-reid-hoffman-david-sacks-wrong-about-trump-2024-6)
+- [Principles of Chaos Engineering](https://principlesofchaos.org/)
+- [Vodafone Launches Private 5G Tech to Compete with Wi-Fi](https://spectrum.ieee.org/private-5g-vodafone)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

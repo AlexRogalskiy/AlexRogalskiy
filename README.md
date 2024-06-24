@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The manager&#39;s unbearable lack of endorphins](https://jamie.ideasasylum.com/2024/06/21/the-manager-s-unbearable-lack-of-endorphins)
-- [Mozilla&#39;s Original Sin](https://www.jwz.org/blog/2024/06/mozillas-original-sin/)
-- [Ruby: A great language for shell scripts](https://lucasoshiro.github.io/posts-en/2024-06-17-ruby-shellscript/)
-- [ChatGPT is biased against resumes with credentials that imply a disability](https://www.washington.edu/news/2024/06/21/chatgpt-ai-bias-ableism-disability-resume-cv/)
-- [OpenEMR: Open-source medical record software](https://www.open-emr.org/)
-- [A website where you write a message to the next visitor](https://www.dearnextvisitor.com/)
-- [Delving into ChatGPT usage in academic writing through excess vocabulary](https://arxiv.org/abs/2406.07016)
-- [SSH as a Sudo Replacement](https://whynothugo.nl/journal/2024/06/13/ssh-as-a-sudo-replacement/)
-- [Daily Automated Testing for Milk-V Duo S RISC-V SBC &lpar;IKEA Tretakt, Apache NuttX&rpar;](https://lupyuen.codeberg.page/articles/sg2000a.html)
-- [Show HN: Simple script to cripple personalized targeting from Facebook](https://gist.github.com/HyperCrowd/edc9b461ec23cf2454ea4d1e910fd1c6)
+- [Neko: Portable framework for high-order spectral element flow simulations](https://github.com/ExtremeFLOW/neko)
+- [How to Do The Jhanas](https://nadia.xyz/jhanas)
+- [Continue &lpar;YC S23&rpar; is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
+- [Writing an IR from Scratch and survive to write a post](https://farena.in/compilers/programming/writing-an-ir-from-scratch/)
+- [LINQPad – The .NET Programmer&#39;s Playground](https://www.linqpad.net/)
+- [Deriving Dependently-Typed OOP from First Principles](https://arxiv.org/abs/2403.06707)
+- [Y combinator codex &lpar;2021&rpar;](https://phoe.github.io/codex.html)
+- [Review of Linux on Minisforum V3 AMD Ryzen Tablet](https://mudkip.me/2024/04/14/A-Brief-Review-of-the-Minisforum-V3-AMD-Tablet/)
+- [Detecting hallucinations in large language models using semantic entropy](https://www.nature.com/articles/s41586-024-07421-0)
+- [Start all of your commands with a comma &lpar;2009&rpar;](https://rhodesmill.org/brandon/2009/commands-with-comma/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

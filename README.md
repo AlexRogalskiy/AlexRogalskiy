@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine war briefing: Zelenskiy calls for more military aid after strike on Kharkiv apartment block](https://www.theguardian.com/world/article/2024/jun/23/ukraine-war-briefing-zelenskiy-calls-for-more-military-aid-after-strike-on-kharkiv-apartment-block)
-- [Portugal win Group F and Belgium get off the mark – Football Daily](https://www.theguardian.com/football/audio/2024/jun/23/portugal-win-group-f-and-belgium-get-off-the-mark)
-- [The stars of Colin from Accounts: ‘As I tapped Ewan McGregor’s shoulder, I knew I’d made the wrong decision’](https://www.theguardian.com/tv-and-radio/article/2024/jun/23/colin-from-accounts-season-two-cast-interview-patrick-brammall-harriet-dyer)
-- [Heavyweight champion Anthony Joshua wants to open care home for retired boxers](https://www.theguardian.com/sport/article/2024/jun/23/anthony-joshua-world-heavyweight-champion-care-home-retired-boxers-desert-island-discs)
-- [Israeli forces strap wounded Palestinian man to hood of military jeep](https://www.theguardian.com/world/article/2024/jun/22/israeli-forces-strap-wounded-palestinian-man-to-hood-of-military-jeep)
-- [Shimmering fabrics and a sparkling legacy: Dries van Noten bids farewell](https://www.theguardian.com/fashion/article/2024/jun/22/shimmering-fabrics-and-a-sparkling-legacy-dries-van-noten-bids-farewell)
-- [We love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2024/jun/22/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Glasgow Warriors fight back against Bulls to clinch United Rugby Championship title](https://www.theguardian.com/sport/article/2024/jun/22/rugby-union-glasgow-warriors-the-bulls-united-rugby-championship-final)
-- [Capri lifts ban on tourists after resolving problems with water supply](https://www.theguardian.com/world/article/2024/jun/22/capri-water-emergency-tourists-mayor)
-- [Nerveless Wharton could be the answer to England’s midfield conundrum](https://www.theguardian.com/football/article/2024/jun/22/adam-wharton-england-slovenia-euro-2024-gareth-southgate)
+- [New towns and old ideas: Labour’s housing plan - podcast](https://www.theguardian.com/news/audio/2024/jun/24/new-towns-and-old-ideas-labours-housing-plan-podcast)
+- [Scotland crash out of Euro 2024 - Football Daily](https://www.theguardian.com/football/audio/2024/jun/24/scotland-crash-out-of-euro-2024-football-daily)
+- [Nearly 19,000 NHS patients left waiting for three days in A&amp;E over 12 months](https://www.theguardian.com/society/article/2024/jun/24/nearly-19000-nhs-patients-left-waiting-for-three-days-in-ae-over-12-months)
+- [Poorer high-ability UK children fall behind peers at school from age of 11](https://www.theguardian.com/education/article/2024/jun/24/poorer-high-ability-uk-children-fall-behind-peers-at-school-from-age-of-11)
+- [‘100% penalty’: Clarke criticises referee after Scotland crash out of Euro 2024](https://www.theguardian.com/football/article/2024/jun/23/steve-clarke-scotland-hungary-football-euro-2024)
+- [Scotland team’s unheroic failure ends fans’ noisy, sozzled party](https://www.theguardian.com/football/article/2024/jun/23/scotland-teams-unheroic-failure-ends-fans-noisy-sozzled-party)
+- [Climate protesters storm 18th hole during final day of Travelers Championship](https://www.theguardian.com/sport/article/2024/jun/23/climate-protesters-storm-18th-hole-during-final-day-of-travelers-championship)
+- [Harry Kane gives history lesson to suggest he will peak in the knockouts](https://www.theguardian.com/football/article/2024/jun/23/harry-kane-gives-history-lesson-to-suggest-he-will-peak-in-the-knockouts)
+- [Scotland heartbreak as Hungary’s 100th-minute winner knocks them out of Euro 2024](https://www.theguardian.com/football/article/2024/jun/23/scotland-hungary-euro-2024-match-report)
+- [Germany relieved to qualify top after Füllkrug denies Switzerland at the last](https://www.theguardian.com/football/article/2024/jun/23/switzerland-germany-euro-2024-match-report)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [New towns and old ideas: Labour’s housing plan - podcast](https://www.theguardian.com/news/audio/2024/jun/24/new-towns-and-old-ideas-labours-housing-plan-podcast)
-- [Scotland crash out of Euro 2024 - Football Daily](https://www.theguardian.com/football/audio/2024/jun/24/scotland-crash-out-of-euro-2024-football-daily)
-- [Nearly 19,000 NHS patients left waiting for three days in A&amp;E over 12 months](https://www.theguardian.com/society/article/2024/jun/24/nearly-19000-nhs-patients-left-waiting-for-three-days-in-ae-over-12-months)
-- [Poorer high-ability UK children fall behind peers at school from age of 11](https://www.theguardian.com/education/article/2024/jun/24/poorer-high-ability-uk-children-fall-behind-peers-at-school-from-age-of-11)
-- [‘100% penalty’: Clarke criticises referee after Scotland crash out of Euro 2024](https://www.theguardian.com/football/article/2024/jun/23/steve-clarke-scotland-hungary-football-euro-2024)
-- [Scotland team’s unheroic failure ends fans’ noisy, sozzled party](https://www.theguardian.com/football/article/2024/jun/23/scotland-teams-unheroic-failure-ends-fans-noisy-sozzled-party)
-- [Climate protesters storm 18th hole during final day of Travelers Championship](https://www.theguardian.com/sport/article/2024/jun/23/climate-protesters-storm-18th-hole-during-final-day-of-travelers-championship)
-- [Harry Kane gives history lesson to suggest he will peak in the knockouts](https://www.theguardian.com/football/article/2024/jun/23/harry-kane-gives-history-lesson-to-suggest-he-will-peak-in-the-knockouts)
-- [Scotland heartbreak as Hungary’s 100th-minute winner knocks them out of Euro 2024](https://www.theguardian.com/football/article/2024/jun/23/scotland-hungary-euro-2024-match-report)
-- [Germany relieved to qualify top after Füllkrug denies Switzerland at the last](https://www.theguardian.com/football/article/2024/jun/23/switzerland-germany-euro-2024-match-report)
+- [Edmonton Oilers v Florida Panthers: Stanley Cup Final Game 7 – live updates](https://www.theguardian.com/sport/live/2024/jun/24/edmonton-oilers-v-florida-panthers-stanley-cup-final-game-7-live-updates)
+- [Afghanistan v Bangladesh: T20 World Cup 2024 – live](https://www.theguardian.com/sport/live/2024/jun/25/t20-world-cup-2024-live-score-afghanistan-vs-bangladesh-icc-cricket-afg-v-ban-scores-team-list-australia-qualify-latest-news-updates)
+- [McSweeney and Gray: the powers behind Keir Starmer - podcast](https://www.theguardian.com/news/audio/2024/jun/25/mcsweeney-and-gray-the-powers-behind-keir-starmer-podcast)
+- [Ukraine war briefing: Moscow warns of retaliation after blaming US for deadly Ukrainian attack](https://www.theguardian.com/world/article/2024/jun/25/ukraine-war-briefing-moscow-warns-of-retaliation-after-blaming-us-for-deadly-ukrainian-attack)
+- [Julian Assange released from prison, WikiLeaks says, after striking deal with US justice department](https://www.theguardian.com/media/article/2024/jun/25/julian-assange-plea-deal-with-us-free-to-return-australia)
+- [Alex Jones’s bankruptcy trustee plans to liquidate far-right platform Infowars](https://www.theguardian.com/us-news/article/2024/jun/24/alex-jones-infowars-liquidate-sandy-hook-payments)
+- [Heartbreak for Croatia as Italy leave it late to progress - Football Daily](https://www.theguardian.com/football/audio/2024/jun/25/heartbreak-for-croatia-as-italy-leave-it-late-to-progress-football-daily)
+- [Set more ambitious climate targets to save Great Barrier Reef, Unesco urges Australia](https://www.theguardian.com/environment/article/2024/jun/24/set-more-ambitious-climate-targets-to-save-great-barrier-reef-unesco-urges-australia)
+- [Loneliness can increase stroke risk by up to 56%, finds research](https://www.theguardian.com/society/article/2024/jun/25/loneliness-can-increase-stroke-risk-by-up-to-56-finds-research)
+- [Low wages under Tories have pushed 900,000 UK children into poverty, report finds](https://www.theguardian.com/society/article/2024/jun/25/low-wages-under-tories-have-pushed-900000-uk-children-into-poverty-report-finds)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

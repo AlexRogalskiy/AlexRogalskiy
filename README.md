@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [US EPA Enforcement and Compliance on Apple Fabrication](https://www.dropbox.com/scl/fo/312oqvretg7yyhfx0ohx4/AGZduVXs0_1geqIyi0NA9nE?e=1&preview=2024_04_30_RCRA_Insp_Report_REPORT_Apple_3250_Scott_Redacted.pdf&rlkey=3aa2tw15ek3trqlbdh7pw9erh&st=4b364mkx&dl=0)
-- [With Pen and Paper in Hand, Car Dealers Improvise as Cyber Outage Persists](https://www.wsj.com/business/autos/with-pen-and-paper-in-hand-car-dealers-improvise-as-cyber-outage-persists-2642ebb7)
-- [Amish Technology](https://groups.etown.edu/amishstudies/cultural-practices/technology/)
-- [Show HN: Memory Graph](https://nalinplad.github.io/memory-graph/)
-- [Show HN: A collection of copy templates for your landing page](https://twice-as-nice.co/)
-- [Eight Lectures on Yoga](https://hermetic.com/crowley/eight-lectures-on-yoga/index)
-- [A 10-cent microcontroller deserves a 10-cent devboard: RISC-V CH32V003](https://www.hackster.io/arduinocelentano/the-cheapest-ch32v003-risc-v-development-board-3917d1)
-- [Reid Hoffman takes aim at David Sacks for his support of Donald Trump](https://www.businessinsider.com/linkedin-cofounder-reid-hoffman-david-sacks-wrong-about-trump-2024-6)
-- [Principles of Chaos Engineering](https://principlesofchaos.org/)
-- [Vodafone Launches Private 5G Tech to Compete with Wi-Fi](https://spectrum.ieee.org/private-5g-vodafone)
+- [TurboCase – Generate 3D printable cases for KiCad PCBs [video]](https://www.youtube.com/watch?v=pzoeaO6dUcU)
+- [The Death of the Junior Developer](https://sourcegraph.com/blog/the-death-of-the-junior-developer)
+- [Apple delays plans for RTP campus. Company says it&#39;s still committed to region](https://www.wral.com/story/apple-delays-plans-for-rtp-campus-in-rtp-company-says-it-s-still-committed-to-region/21497098/)
+- [Dijkstra and Bellman-Ford Algorithms Explained](https://www.youtube.com/watch?v=j0OUwduDOS0)
+- [Indonesian government datacenter locked down in $8M ransomware rumble](https://www.theregister.com/2024/06/24/indonesia_datacenter_ransomware/)
+- [Working at Heights Safety: Video Analytics Revolution in Construction](https://securade.ai/blog/working-at-height-safely-with-video-analytics.html)
+- [Deadline looms for alleged LockBit extortion of Feds over 33TB of data](https://www.scmagazine.com/news/lockbit-claims-ransom-negotiations-with-the-fed-over-33tb-of-stolen-data)
+- [SIMD-accelerated computer vision on a $2 microcontroller](https://shraiwi.github.io/read.html?md=blog/simd-fast-esp32s3.md)
+- [Glove-Talk [video]](https://www.youtube.com/watch?v=4_78CDI0hHc)
+- [Personal light exposure patterns and incidence of type 2 diabetes](https://www.thelancet.com/journals/lanepe/article/PIIS2666-7762(24)00110-8/fulltext)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

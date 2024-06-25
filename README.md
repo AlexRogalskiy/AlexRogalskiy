@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Neko: Portable framework for high-order spectral element flow simulations](https://github.com/ExtremeFLOW/neko)
-- [How to Do The Jhanas](https://nadia.xyz/jhanas)
-- [Continue &lpar;YC S23&rpar; is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
-- [Writing an IR from Scratch and survive to write a post](https://farena.in/compilers/programming/writing-an-ir-from-scratch/)
-- [LINQPad – The .NET Programmer&#39;s Playground](https://www.linqpad.net/)
-- [Deriving Dependently-Typed OOP from First Principles](https://arxiv.org/abs/2403.06707)
-- [Y combinator codex &lpar;2021&rpar;](https://phoe.github.io/codex.html)
-- [Review of Linux on Minisforum V3 AMD Ryzen Tablet](https://mudkip.me/2024/04/14/A-Brief-Review-of-the-Minisforum-V3-AMD-Tablet/)
-- [Detecting hallucinations in large language models using semantic entropy](https://www.nature.com/articles/s41586-024-07421-0)
-- [Start all of your commands with a comma &lpar;2009&rpar;](https://rhodesmill.org/brandon/2009/commands-with-comma/)
+- [Indonesian government datacenter locked down in $8M ransomware rumble](https://www.theregister.com/2024/06/24/indonesia_datacenter_ransomware/)
+- [Personal light exposure patterns and incidence of type 2 diabetes](https://www.thelancet.com/journals/lanepe/article/PIIS2666-7762(24)00110-8/fulltext)
+- [From 0/10 to 8/10: Microsoft Puts Repair Front and Center](https://www.ifixit.com/News/96998/from-0-10-to-8-10-microsoft-puts-repair-front-and-center)
+- [Ask HN: YouTube shutdown my account with private channel of my kids memories](https://news.ycombinator.com/item?id=40783210)
+- [The Fed Has Avoided a Recession. But Some Have Been Left Behind](https://www.barrons.com/articles/federal-reserve-distribution-of-wealth-recession-21d8c48e)
+- [Linear Algebra 101 for AI/ML](https://www.trybackprop.com/blog/linalg101/part_1_vectors_matrices_operations)
+- [Hackers &#39;jailbreak&#39; powerful AI models in global effort to highlight flaws](https://www.ft.com/content/14a2c98b-c8d5-4e5b-a7b0-30f0a05ec432)
+- [Desperately Seeking Squircles](https://www.figma.com/blog/desperately-seeking-squircles/)
+- [The First Hedge Fund](https://commoncog.com/c/cases/aw-jones-hedge-fund/)
+- [LLMs on the Command Line](https://simonwillison.net/2024/Jun/17/cli-language-models/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

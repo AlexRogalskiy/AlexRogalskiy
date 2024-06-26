@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Indonesian government datacenter locked down in $8M ransomware rumble](https://www.theregister.com/2024/06/24/indonesia_datacenter_ransomware/)
-- [Personal light exposure patterns and incidence of type 2 diabetes](https://www.thelancet.com/journals/lanepe/article/PIIS2666-7762(24)00110-8/fulltext)
-- [From 0/10 to 8/10: Microsoft Puts Repair Front and Center](https://www.ifixit.com/News/96998/from-0-10-to-8-10-microsoft-puts-repair-front-and-center)
-- [Ask HN: YouTube shutdown my account with private channel of my kids memories](https://news.ycombinator.com/item?id=40783210)
-- [The Fed Has Avoided a Recession. But Some Have Been Left Behind](https://www.barrons.com/articles/federal-reserve-distribution-of-wealth-recession-21d8c48e)
-- [Linear Algebra 101 for AI/ML](https://www.trybackprop.com/blog/linalg101/part_1_vectors_matrices_operations)
-- [Hackers &#39;jailbreak&#39; powerful AI models in global effort to highlight flaws](https://www.ft.com/content/14a2c98b-c8d5-4e5b-a7b0-30f0a05ec432)
-- [Desperately Seeking Squircles](https://www.figma.com/blog/desperately-seeking-squircles/)
-- [The First Hedge Fund](https://commoncog.com/c/cases/aw-jones-hedge-fund/)
-- [LLMs on the Command Line](https://simonwillison.net/2024/Jun/17/cli-language-models/)
+- [Indications of superconductivities in blend of variant apatite and covellite](https://arxiv.org/abs/2406.17525)
+- [Brazil&#39;s Supreme Court Decriminalizes Marijuana](https://www.bloomberg.com/news/articles/2024-06-25/brazil-supreme-court-decriminalizes-marijuana-for-personal-use)
+- [Loneliness trajectories are associated with midlife conspiracist worldviews](https://www.nature.com/articles/s41467-024-47113-x)
+- [The album art of Phil Hartman&lpar;n&rpar; &lpar;2022&rpar;](https://www.conorherbert.com/music/the-album-art-of-phil-hartmann)
+- [A brief introduction to interval arithmetic](https://buttondown.email/hillelwayne/archive/a-brief-introduction-to-interval-arithmetic/)
+- [HyperCard Simulator](https://hcsimulator.com/)
+- [Supabase &lpar;YC S20&rpar; Is Hiring Postgres SREs](https://boards.greenhouse.io/supabase/jobs/5162509004)
+- [Ball: A ball that lives in your dock](https://github.com/nate-parrott/ball)
+- [Fixing QuickLook &lpar;2023&rpar;](https://foon.uk/fixing-quicklook/)
+- [Polyfill supply chain attack hits 100K+ sites](https://sansec.io/research/polyfill-supply-chain-attack)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

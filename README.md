@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [TurboCase – Generate 3D printable cases for KiCad PCBs [video]](https://www.youtube.com/watch?v=pzoeaO6dUcU)
-- [The Death of the Junior Developer](https://sourcegraph.com/blog/the-death-of-the-junior-developer)
-- [Apple delays plans for RTP campus. Company says it&#39;s still committed to region](https://www.wral.com/story/apple-delays-plans-for-rtp-campus-in-rtp-company-says-it-s-still-committed-to-region/21497098/)
-- [Dijkstra and Bellman-Ford Algorithms Explained](https://www.youtube.com/watch?v=j0OUwduDOS0)
-- [Indonesian government datacenter locked down in $8M ransomware rumble](https://www.theregister.com/2024/06/24/indonesia_datacenter_ransomware/)
-- [Working at Heights Safety: Video Analytics Revolution in Construction](https://securade.ai/blog/working-at-height-safely-with-video-analytics.html)
-- [Deadline looms for alleged LockBit extortion of Feds over 33TB of data](https://www.scmagazine.com/news/lockbit-claims-ransom-negotiations-with-the-fed-over-33tb-of-stolen-data)
-- [SIMD-accelerated computer vision on a $2 microcontroller](https://shraiwi.github.io/read.html?md=blog/simd-fast-esp32s3.md)
-- [Glove-Talk [video]](https://www.youtube.com/watch?v=4_78CDI0hHc)
-- [Personal light exposure patterns and incidence of type 2 diabetes](https://www.thelancet.com/journals/lanepe/article/PIIS2666-7762(24)00110-8/fulltext)
+- [Taxing super-rich debate should start with 2% levy, says economist behind plan](https://uk.finance.yahoo.com/news/global-2-wealth-levy-starting-150707153.html)
+- [Ask HN: APIs to Scan Malware](https://news.ycombinator.com/item?id=40795742)
+- [Bill Hwang&#39;s doomed family office is on trial, Wall Street looks terrible](https://www.bloomberg.com/features/2024-bill-hwang-archegos-collapse-timeline/)
+- [A new Lumia smartphone might be on the way in 2024](https://www.windowscentral.com/phones/wait-what-a-new-lumia-smartphone-might-be-on-the-way-in-2024)
+- [Manhattan Office Market Has Breakout Month with a 70% Surge in Leasing Activity](https://finance.yahoo.com/news/manhattan-office-market-breakout-month-161726154.html)
+- [Ask HN: Does a map / database of city line utilities exist?](https://news.ycombinator.com/item?id=40795692)
+- [Show HN: Chrome extension that brings Claude Artifacts for ChatGPT](https://github.com/MichaelYuhe/Artifacts-for-ChatGPT)
+- [First Class Contexts – Rye Language](https://ryelang.org/meet_rye/specifics/context/)
+- [Scientific American falsely links homeschooling to abuse](https://www.theintrinsicperspective.com/p/scientific-american-falsely-links)
+- [Homo Ludens](https://en.wikipedia.org/wiki/Homo_Ludens)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

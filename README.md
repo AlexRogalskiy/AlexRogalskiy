@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Edmonton Oilers v Florida Panthers: Stanley Cup Final Game 7 – live updates](https://www.theguardian.com/sport/live/2024/jun/24/edmonton-oilers-v-florida-panthers-stanley-cup-final-game-7-live-updates)
-- [Afghanistan v Bangladesh: T20 World Cup 2024 – live](https://www.theguardian.com/sport/live/2024/jun/25/t20-world-cup-2024-live-score-afghanistan-vs-bangladesh-icc-cricket-afg-v-ban-scores-team-list-australia-qualify-latest-news-updates)
-- [McSweeney and Gray: the powers behind Keir Starmer - podcast](https://www.theguardian.com/news/audio/2024/jun/25/mcsweeney-and-gray-the-powers-behind-keir-starmer-podcast)
-- [Ukraine war briefing: Moscow warns of retaliation after blaming US for deadly Ukrainian attack](https://www.theguardian.com/world/article/2024/jun/25/ukraine-war-briefing-moscow-warns-of-retaliation-after-blaming-us-for-deadly-ukrainian-attack)
-- [Julian Assange released from prison, WikiLeaks says, after striking deal with US justice department](https://www.theguardian.com/media/article/2024/jun/25/julian-assange-plea-deal-with-us-free-to-return-australia)
-- [Alex Jones’s bankruptcy trustee plans to liquidate far-right platform Infowars](https://www.theguardian.com/us-news/article/2024/jun/24/alex-jones-infowars-liquidate-sandy-hook-payments)
-- [Heartbreak for Croatia as Italy leave it late to progress - Football Daily](https://www.theguardian.com/football/audio/2024/jun/25/heartbreak-for-croatia-as-italy-leave-it-late-to-progress-football-daily)
-- [Set more ambitious climate targets to save Great Barrier Reef, Unesco urges Australia](https://www.theguardian.com/environment/article/2024/jun/24/set-more-ambitious-climate-targets-to-save-great-barrier-reef-unesco-urges-australia)
-- [Loneliness can increase stroke risk by up to 56%, finds research](https://www.theguardian.com/society/article/2024/jun/25/loneliness-can-increase-stroke-risk-by-up-to-56-finds-research)
-- [Low wages under Tories have pushed 900,000 UK children into poverty, report finds](https://www.theguardian.com/society/article/2024/jun/25/low-wages-under-tories-have-pushed-900000-uk-children-into-poverty-report-finds)
+- [Julian Assange live news: judge says WikiLeaks founder will leave court ‘a free man’ and sentences him to time served](https://www.theguardian.com/media/live/2024/jun/26/julian-assange-live-news-wikileaks-founder-lands-on-us-island-of-saipan-for-district-court-sentencing)
+- [A win for Julian Assange and a loss for press freedom? – podcast](https://www.theguardian.com/news/audio/2024/jun/26/a-win-for-julian-assange-and-a-loss-for-press-freedom-podcast)
+- [Oleksandr Usyk vacates IBF world title in ‘present’ to Dubois and Joshua](https://www.theguardian.com/sport/article/2024/jun/26/oleksandr-usyk-vacates-ibf-world-title-daniel-dubois-anthony-joshua)
+- [Almost half of antidepressant users could quit with GP support, study finds](https://www.theguardian.com/society/article/2024/jun/26/almost-half-of-antidepressant-users-could-quit-with-gp-support-study-finds)
+- [Kyoto review – 1997 protocol on climate crisis fuels gripping theatre at the RSC](https://www.theguardian.com/stage/article/2024/jun/26/kyoto-review-swan-theatre-stratford-upon-avon-stephen-kunken)
+- [Gareth Southgate claims England fans are creating ‘unusual environment’](https://www.theguardian.com/football/article/2024/jun/26/gareth-southgate-england-fans-slovenia-euro-2024-football)
+- [Harry Kane paradox leaves England talisman grasping to find his former self](https://www.theguardian.com/football/article/2024/jun/25/struggling-harry-kane-not-fit-enough-to-create-or-score-for-england)
+- [The Constituent review – timely Joe Penhall political drama makes the specific universal](https://www.theguardian.com/stage/article/2024/jun/25/the-constituent-review-timely-joe-penhall-drama-makes-the-specific-universal)
+- [Bad Press review – Native American journalists’ thrilling battle for free speech](https://www.theguardian.com/tv-and-radio/article/2024/jun/25/bad-press-review-native-american-journalists-oklahoma-muscogee-nation-documentary)
+- [Ralf Rangnick says ‘incredible’ Austria side are not ruling out Euro 2024 glory](https://www.theguardian.com/football/article/2024/jun/25/ralf-rangnick-says-incredible-austria-side-are-not-ruling-out-euro-glory)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

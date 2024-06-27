@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Julian Assange live news: judge says WikiLeaks founder will leave court ‘a free man’ and sentences him to time served](https://www.theguardian.com/media/live/2024/jun/26/julian-assange-live-news-wikileaks-founder-lands-on-us-island-of-saipan-for-district-court-sentencing)
-- [A win for Julian Assange and a loss for press freedom? – podcast](https://www.theguardian.com/news/audio/2024/jun/26/a-win-for-julian-assange-and-a-loss-for-press-freedom-podcast)
-- [Oleksandr Usyk vacates IBF world title in ‘present’ to Dubois and Joshua](https://www.theguardian.com/sport/article/2024/jun/26/oleksandr-usyk-vacates-ibf-world-title-daniel-dubois-anthony-joshua)
-- [Almost half of antidepressant users could quit with GP support, study finds](https://www.theguardian.com/society/article/2024/jun/26/almost-half-of-antidepressant-users-could-quit-with-gp-support-study-finds)
-- [Kyoto review – 1997 protocol on climate crisis fuels gripping theatre at the RSC](https://www.theguardian.com/stage/article/2024/jun/26/kyoto-review-swan-theatre-stratford-upon-avon-stephen-kunken)
-- [Gareth Southgate claims England fans are creating ‘unusual environment’](https://www.theguardian.com/football/article/2024/jun/26/gareth-southgate-england-fans-slovenia-euro-2024-football)
-- [Harry Kane paradox leaves England talisman grasping to find his former self](https://www.theguardian.com/football/article/2024/jun/25/struggling-harry-kane-not-fit-enough-to-create-or-score-for-england)
-- [The Constituent review – timely Joe Penhall political drama makes the specific universal](https://www.theguardian.com/stage/article/2024/jun/25/the-constituent-review-timely-joe-penhall-drama-makes-the-specific-universal)
-- [Bad Press review – Native American journalists’ thrilling battle for free speech](https://www.theguardian.com/tv-and-radio/article/2024/jun/25/bad-press-review-native-american-journalists-oklahoma-muscogee-nation-documentary)
-- [Ralf Rangnick says ‘incredible’ Austria side are not ruling out Euro 2024 glory](https://www.theguardian.com/football/article/2024/jun/25/ralf-rangnick-says-incredible-austria-side-are-not-ruling-out-euro-glory)
+- [South Africa v Afghanistan: T20 World Cup semi-final – live](https://www.theguardian.com/sport/live/2024/jun/26/south-africa-v-afghanistan-t20-world-cup-semi-final-live)
+- [Returning to Leigh: can Labour rebuild the red wall? – podcast](https://www.theguardian.com/news/audio/2024/jun/27/returning-to-leigh-can-labour-rebuild-the-red-wall-podcast)
+- [Bill Cobbs, Night at the Museum, The Bodyguard and Air Bud actor, dies aged 90](https://www.theguardian.com/culture/article/2024/jun/26/bill-cobbs-dead-night-at-the-museum-air-bud-bodyguard-actor)
+- [Ukraine war briefing: US charges Russian with conspiring to destroy Kyiv computer systems](https://www.theguardian.com/world/article/2024/jun/27/ukraine-war-briefing-us-charges-russian-with-conspiring-to-destroy-kyiv-computer-systems)
+- [Bolivia’s president sees off attempted coup after urging citizens to take to streets](https://www.theguardian.com/world/article/2024/jun/26/luis-arce-bolivia-coup)
+- [Cost of toothpaste can double through the year in UK, study finds](https://www.theguardian.com/society/article/2024/jun/27/cost-of-toothpaste-can-double-through-the-year-in-uk-study-finds)
+- [Number of girls in England taking computing GCSE plummets, study finds](https://www.theguardian.com/technology/article/2024/jun/27/number-of-girls-in-england-taking-computing-gcse-plummets-study-finds)
+- [History for Georgia and heartbreak for Ukraine - Football Daily](https://www.theguardian.com/football/audio/2024/jun/26/history-for-georgia-and-heartbreak-for-ukraine-football-daily)
+- [One in four healthy people over 60 in UK ‘have undiagnosed heart valve disease’](https://www.theguardian.com/society/article/2024/jun/26/one-in-four-healthy-people-over-60-in-uk-undiagnosed-heart-valve-disease)
+- [Sunak and Starmer wrap up their final debate of despair | John Crace](https://www.theguardian.com/politics/article/2024/jun/26/sunak-and-starmer-wrap-up-their-final-debate-of-despair)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Taxing super-rich debate should start with 2% levy, says economist behind plan](https://uk.finance.yahoo.com/news/global-2-wealth-levy-starting-150707153.html)
-- [Ask HN: APIs to Scan Malware](https://news.ycombinator.com/item?id=40795742)
-- [Bill Hwang&#39;s doomed family office is on trial, Wall Street looks terrible](https://www.bloomberg.com/features/2024-bill-hwang-archegos-collapse-timeline/)
-- [A new Lumia smartphone might be on the way in 2024](https://www.windowscentral.com/phones/wait-what-a-new-lumia-smartphone-might-be-on-the-way-in-2024)
-- [Manhattan Office Market Has Breakout Month with a 70% Surge in Leasing Activity](https://finance.yahoo.com/news/manhattan-office-market-breakout-month-161726154.html)
-- [Ask HN: Does a map / database of city line utilities exist?](https://news.ycombinator.com/item?id=40795692)
-- [Show HN: Chrome extension that brings Claude Artifacts for ChatGPT](https://github.com/MichaelYuhe/Artifacts-for-ChatGPT)
-- [First Class Contexts – Rye Language](https://ryelang.org/meet_rye/specifics/context/)
-- [Scientific American falsely links homeschooling to abuse](https://www.theintrinsicperspective.com/p/scientific-american-falsely-links)
-- [Homo Ludens](https://en.wikipedia.org/wiki/Homo_Ludens)
+- [The End of an Era: MTV News Shuts Down… Or why archives are important](https://crazyonclassicrock.com/2024/06/26/the-end-of-an-era-mtv-news-shuts-down-or-why-archives-are-important/)
+- [When steering balls of poop, dung beetles use the stars to navigate](https://www.popsci.com/science/weirdest-thing-dung-beetles/)
+- [Biden approves American military contractors to deploy to Ukraine](https://www.cnn.com/2024/06/25/politics/biden-administration-american-military-contractors-ukraine/index.html)
+- [Failures to Act](https://ydcpodcast.org/)
+- [It&#39;s Time for Progressives to Recommit to Academic Freedom](https://www.thenation.com/article/archive/progressives-academic-freedom-gaza-harvard-law-review/)
+- [SpaceX scores $843M NASA contract to de-orbit ISS in 2030](https://techcrunch.com/2024/06/26/spacex-scores-843m-nasa-contract-to-deorbit-iss-in-2030/)
+- [How to recover your lost funds](https://news.ycombinator.com/item?id=40806571)
+- [New inspection tool set to be used at Tour de France to combat motor doping](https://road.cc/content/news/uci-warns-it-impossible-use-motors-tour-de-france-309061)
+- [Arkansas Sues Temu, Claims Chinese Shopping App Is Malware](https://www.pcmag.com/news/arkansas-sues-temu-claims-chinese-shopping-app-is-malware)
+- [Colorado bat facility that will support virus studies sparks outbreak fears](https://www.science.org/content/article/colorado-bat-facility-support-virus-studies-sparks-outbreak-fears)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

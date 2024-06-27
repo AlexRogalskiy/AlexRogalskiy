@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Indications of superconductivities in blend of variant apatite and covellite](https://arxiv.org/abs/2406.17525)
-- [Brazil&#39;s Supreme Court Decriminalizes Marijuana](https://www.bloomberg.com/news/articles/2024-06-25/brazil-supreme-court-decriminalizes-marijuana-for-personal-use)
-- [Loneliness trajectories are associated with midlife conspiracist worldviews](https://www.nature.com/articles/s41467-024-47113-x)
-- [The album art of Phil Hartman&lpar;n&rpar; &lpar;2022&rpar;](https://www.conorherbert.com/music/the-album-art-of-phil-hartmann)
-- [A brief introduction to interval arithmetic](https://buttondown.email/hillelwayne/archive/a-brief-introduction-to-interval-arithmetic/)
-- [HyperCard Simulator](https://hcsimulator.com/)
-- [Supabase &lpar;YC S20&rpar; Is Hiring Postgres SREs](https://boards.greenhouse.io/supabase/jobs/5162509004)
-- [Ball: A ball that lives in your dock](https://github.com/nate-parrott/ball)
-- [Fixing QuickLook &lpar;2023&rpar;](https://foon.uk/fixing-quicklook/)
-- [Polyfill supply chain attack hits 100K+ sites](https://sansec.io/research/polyfill-supply-chain-attack)
+- [Molecular Interactions and the Behaviors of Biological Macromolecules](https://williams.chemistry.gatech.edu/structure/molecular_interactions/mol_int.html)
+- [AI Revolutionized Protein Science, but Didn&#39;t End It](https://www.quantamagazine.org/how-ai-revolutionized-protein-science-but-didnt-end-it-20240626/)
+- [Netflix wants managers to ask whether they would rehire their employees](https://fortune.com/2024/06/25/netflix-managers-keeper-test-rehire-or-fire-staff/)
+- [Show HN: Standard Webhooks – simplifying 3rd party API&#39;s](https://www.syncd.dev/use-cases)
+- [Corcel – Use WordPress backend with Laravel or any PHP application](https://github.com/corcel/corcel)
+- [Mozilla.ai did what? When silliness goes dangerous](https://tante.cc/2024/06/26/mozilla-ai-did-what-when-silliness-goes-dangerous/)
+- [The brain makes a lot of waste. Now scientists think they know where it goes](https://www.npr.org/sections/shots-health-news/2024/06/26/g-s1-6177/brain-waste-removal-system-amyloid-alzheimer-toxins)
+- [Confidentiality in the Face of Pervasive Surveillance](https://datatracker.ietf.org/doc/html/rfc7624)
+- [South Korean telecom company attacks torrent users with malware](https://www.tomshardware.com/tech-industry/cyber-security/south-korean-telecom-company-attacks-torrent-users-with-malware-over-600000-people-report-missing-files-strange-folders-and-disabled-pcs)
+- [WordStar – A Writer&#39;s Word Processor &lpar;1990&rpar;](https://sfwriter.com/wordstar.htm)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

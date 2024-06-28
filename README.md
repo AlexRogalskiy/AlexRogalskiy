@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [South Africa v Afghanistan: T20 World Cup semi-final – live](https://www.theguardian.com/sport/live/2024/jun/26/south-africa-v-afghanistan-t20-world-cup-semi-final-live)
-- [Returning to Leigh: can Labour rebuild the red wall? – podcast](https://www.theguardian.com/news/audio/2024/jun/27/returning-to-leigh-can-labour-rebuild-the-red-wall-podcast)
-- [Bill Cobbs, Night at the Museum, The Bodyguard and Air Bud actor, dies aged 90](https://www.theguardian.com/culture/article/2024/jun/26/bill-cobbs-dead-night-at-the-museum-air-bud-bodyguard-actor)
-- [Ukraine war briefing: US charges Russian with conspiring to destroy Kyiv computer systems](https://www.theguardian.com/world/article/2024/jun/27/ukraine-war-briefing-us-charges-russian-with-conspiring-to-destroy-kyiv-computer-systems)
-- [Bolivia’s president sees off attempted coup after urging citizens to take to streets](https://www.theguardian.com/world/article/2024/jun/26/luis-arce-bolivia-coup)
-- [Cost of toothpaste can double through the year in UK, study finds](https://www.theguardian.com/society/article/2024/jun/27/cost-of-toothpaste-can-double-through-the-year-in-uk-study-finds)
-- [Number of girls in England taking computing GCSE plummets, study finds](https://www.theguardian.com/technology/article/2024/jun/27/number-of-girls-in-england-taking-computing-gcse-plummets-study-finds)
-- [History for Georgia and heartbreak for Ukraine - Football Daily](https://www.theguardian.com/football/audio/2024/jun/26/history-for-georgia-and-heartbreak-for-ukraine-football-daily)
-- [One in four healthy people over 60 in UK ‘have undiagnosed heart valve disease’](https://www.theguardian.com/society/article/2024/jun/26/one-in-four-healthy-people-over-60-in-uk-undiagnosed-heart-valve-disease)
-- [Sunak and Starmer wrap up their final debate of despair | John Crace](https://www.theguardian.com/politics/article/2024/jun/26/sunak-and-starmer-wrap-up-their-final-debate-of-despair)
+- [Biden and Trump trade blows in first presidential debate of 2024 election – live](https://www.theguardian.com/us-news/live/2024/jun/27/presidential-debate-trump-biden-updates)
+- [The 14 years that broke Britain, part 1 – podcast](https://www.theguardian.com/news/audio/2024/jun/28/the-14-years-that-broke-britain-part-1-podcast)
+- [USMNT at risk of early Copa América exit after chaotic defeat to Panama](https://www.theguardian.com/football/article/2024/jun/27/usmnt-panama-result-tim-weah-berhalter-copa-america)
+- [Uvalde police indicted over role in slow response to 2022 school massacre](https://www.theguardian.com/us-news/article/2024/jun/27/uvalde-police-indicted-)
+- [Astronauts take cover as defunct Russian satellite splits into nearly 200 pieces](https://www.theguardian.com/science/article/2024/jun/27/russian-satellite-debris-international-space-station)
+- [The Marilyn Conspiracy review – suspects and detectives convene for Monroe mystery](https://www.theguardian.com/stage/article/2024/jun/28/the-marilyn-conspiracy-review-park-theatre-london)
+- [High levels of E coli found at Henley days before international regatta](https://www.theguardian.com/world/article/2024/jun/28/high-levels-of-e-coli-found-at-henley-days-before-international-regatta)
+- [A Family Affair review – Nicole Kidman’s hot age-gap romance quickly goes cold](https://www.theguardian.com/film/article/2024/jun/28/a-family-affair-review-nicole-kidman-zac-efron-netflix)
+- [US imposes fresh sanctions on Iran over apparent nuclear escalations](https://www.theguardian.com/world/article/2024/jun/27/us-sanctions-iran-nuclear)
+- [NBA draft: Bronny James unites with father LeBron at LA Lakers](https://www.theguardian.com/sport/article/2024/jun/27/nba-draft-bronny-james-unites-with-father-lebron-at-la-lakers)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

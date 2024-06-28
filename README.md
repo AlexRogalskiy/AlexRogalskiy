@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Molecular Interactions and the Behaviors of Biological Macromolecules](https://williams.chemistry.gatech.edu/structure/molecular_interactions/mol_int.html)
-- [AI Revolutionized Protein Science, but Didn&#39;t End It](https://www.quantamagazine.org/how-ai-revolutionized-protein-science-but-didnt-end-it-20240626/)
-- [Netflix wants managers to ask whether they would rehire their employees](https://fortune.com/2024/06/25/netflix-managers-keeper-test-rehire-or-fire-staff/)
-- [Show HN: Standard Webhooks – simplifying 3rd party API&#39;s](https://www.syncd.dev/use-cases)
-- [Corcel – Use WordPress backend with Laravel or any PHP application](https://github.com/corcel/corcel)
-- [Mozilla.ai did what? When silliness goes dangerous](https://tante.cc/2024/06/26/mozilla-ai-did-what-when-silliness-goes-dangerous/)
-- [The brain makes a lot of waste. Now scientists think they know where it goes](https://www.npr.org/sections/shots-health-news/2024/06/26/g-s1-6177/brain-waste-removal-system-amyloid-alzheimer-toxins)
-- [Confidentiality in the Face of Pervasive Surveillance](https://datatracker.ietf.org/doc/html/rfc7624)
-- [South Korean telecom company attacks torrent users with malware](https://www.tomshardware.com/tech-industry/cyber-security/south-korean-telecom-company-attacks-torrent-users-with-malware-over-600000-people-report-missing-files-strange-folders-and-disabled-pcs)
-- [WordStar – A Writer&#39;s Word Processor &lpar;1990&rpar;](https://sfwriter.com/wordstar.htm)
+- [Hardware FPGA DPS-8M Mainframe and FNP Project](https://dps8m.gitlab.io/blog/posts/20240622_FPGA/)
+- [200 people charged in $2.7B health care fraud crackdown](https://apnews.com/article/justice-department-health-care-fraud-garland-24948b951896d0f265c29ba3fcacf858)
+- [Python grapples with Apple App Store rejections](https://lwn.net/SubscriberLink/979671/4fb7c1827536d1ae/)
+- [Maker of RStudio launches new R and Python IDE](https://www.infoworld.com/article/3715702/maker-of-rstudio-launches-new-r-and-python-ide.html)
+- [Tesorio &lpar;YC S15&rpar; Is Hiring a Senior GenAI/LLM Engineer &lpar;100% Remote&rpar;](https://www.tesorio.com/careers#job-openings)
+- [A dev&#39;s thoughts on developer productivity &lpar;2022&rpar;](https://sourcegraph.com/blog/developer-productivity-thoughts)
+- [A modern 8 bit design, built using 1950s thermionic valves](https://www.valve.computer/)
+- [Astronauts take shelter in Starliner, other spacecraft after satellite breakup](https://www.space.com/iss-astronauts-shelter-return-spacecraft-satellite-breakup)
+- [Supreme Court blocks controversial Purdue Pharma opioid settlement](https://www.washingtonpost.com/politics/2024/06/27/purdue-pharma-supreme-court-opioid-bankruptcy/)
+- [Misconceptions about loops in C](https://dl.acm.org/doi/10.1145/3652588.3663324)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

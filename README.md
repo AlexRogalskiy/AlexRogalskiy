@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The End of an Era: MTV News Shuts Down… Or why archives are important](https://crazyonclassicrock.com/2024/06/26/the-end-of-an-era-mtv-news-shuts-down-or-why-archives-are-important/)
-- [When steering balls of poop, dung beetles use the stars to navigate](https://www.popsci.com/science/weirdest-thing-dung-beetles/)
-- [Biden approves American military contractors to deploy to Ukraine](https://www.cnn.com/2024/06/25/politics/biden-administration-american-military-contractors-ukraine/index.html)
-- [Failures to Act](https://ydcpodcast.org/)
-- [It&#39;s Time for Progressives to Recommit to Academic Freedom](https://www.thenation.com/article/archive/progressives-academic-freedom-gaza-harvard-law-review/)
-- [SpaceX scores $843M NASA contract to de-orbit ISS in 2030](https://techcrunch.com/2024/06/26/spacex-scores-843m-nasa-contract-to-deorbit-iss-in-2030/)
-- [How to recover your lost funds](https://news.ycombinator.com/item?id=40806571)
-- [New inspection tool set to be used at Tour de France to combat motor doping](https://road.cc/content/news/uci-warns-it-impossible-use-motors-tour-de-france-309061)
-- [Arkansas Sues Temu, Claims Chinese Shopping App Is Malware](https://www.pcmag.com/news/arkansas-sues-temu-claims-chinese-shopping-app-is-malware)
-- [Colorado bat facility that will support virus studies sparks outbreak fears](https://www.science.org/content/article/colorado-bat-facility-support-virus-studies-sparks-outbreak-fears)
+- [French citizens who choose to leave](https://www.theguardian.com/world/article/2024/jun/27/here-i-found-respect-for-who-i-am-the-french-citizens-who-choose-to-leave)
+- [Scala-3-Is-Yaml.scala](https://gist.github.com/igstan/92fc3b12156f7f9e2df617a647deb701)
+- [From an idea to an app: Demark:Default photo watermark](https://apps.apple.com/us/app/demark-default-photo-watermark/id6499131459)
+- [Hardware FPGA DPS-8M Mainframe and FNP Project](https://dps8m.gitlab.io/blog/posts/20240622_FPGA/)
+- [Ask HN: A better way to do customer support for small teams?](https://news.ycombinator.com/item?id=40817138)
+- [Lunar Lake: Next Gen P-Core Lion Cove [video]](https://www.youtube.com/watch?v=FcBRRiQuzNU)
+- [Emirates Pilots Implement Strategies to Cut Fuel Use and Emissions](https://www.airguide.info/emirates-pilots-implement-strategies-to-cut-fuel-use-and-emissions/)
+- [Conway&#39;s Game of Life, in checkboxes for some reason](https://huth.me/checkbox-life/)
+- [The Death of NYC Congestion Pricing](https://www.apricitas.io/p/the-death-of-nyc-congestion-pricing)
+- [Surprise the Latest &#39;Comprehensive&#39; US Privacy Bill Is Doomed](https://www.wired.com/story/apra-privacy-bill-doomed/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Hardware FPGA DPS-8M Mainframe and FNP Project](https://dps8m.gitlab.io/blog/posts/20240622_FPGA/)
-- [200 people charged in $2.7B health care fraud crackdown](https://apnews.com/article/justice-department-health-care-fraud-garland-24948b951896d0f265c29ba3fcacf858)
-- [Python grapples with Apple App Store rejections](https://lwn.net/SubscriberLink/979671/4fb7c1827536d1ae/)
-- [Maker of RStudio launches new R and Python IDE](https://www.infoworld.com/article/3715702/maker-of-rstudio-launches-new-r-and-python-ide.html)
-- [Tesorio &lpar;YC S15&rpar; Is Hiring a Senior GenAI/LLM Engineer &lpar;100% Remote&rpar;](https://www.tesorio.com/careers#job-openings)
-- [A dev&#39;s thoughts on developer productivity &lpar;2022&rpar;](https://sourcegraph.com/blog/developer-productivity-thoughts)
-- [A modern 8 bit design, built using 1950s thermionic valves](https://www.valve.computer/)
-- [Astronauts take shelter in Starliner, other spacecraft after satellite breakup](https://www.space.com/iss-astronauts-shelter-return-spacecraft-satellite-breakup)
-- [Supreme Court blocks controversial Purdue Pharma opioid settlement](https://www.washingtonpost.com/politics/2024/06/27/purdue-pharma-supreme-court-opioid-bankruptcy/)
-- [Misconceptions about loops in C](https://dl.acm.org/doi/10.1145/3652588.3663324)
+- [Microsoft pauses Windows 11 update as it&#39;s sending some PCs into infinite reboot](https://www.techradar.com/computing/windows/microsoft-pauses-windows-11-update-as-its-sending-some-pcs-into-an-infinite-reboot-hell)
+- [The XAES-256-GCM extended-nonce AEAD](https://words.filippo.io/dispatches/xaes-256-gcm/)
+- [The CIDR trie data structure](https://d34dl0ck.me/rust-bites-cidr-trie/index.html)
+- [Show HN: Focal, a Pomodoro App](https://aabiji.github.io/focal/)
+- [Open source &#39;Eclipse Theia IDE&#39; exits beta to challenge Visual Studio Code](https://visualstudiomagazine.com/Articles/2024/06/27/eclipse-theia-ide.aspx)
+- [The story, as best I can remember, of the origin of Mosaic and Netscape [video]](https://pmarca.substack.com/p/the-true-story-as-best-i-can-remember)
+- [Pompeii fixed potholes with molten iron &lpar;2019&rpar;](https://www.smithsonianmag.com/smart-news/pompeii-fixed-potholes-molten-iron-180972203/)
+- [Llama-agents: an async-first framework for building production ready agents](https://github.com/run-llama/llama-agents)
+- [Discovered June 16th, large asteroid to pass between Earth and moon on Saturday](https://www.cbc.ca/news/science/asteroid-2024mk-1.7247336)
+- [Supreme Court overturns 40-year-old &quot;Chevron deference&quot; doctrine](https://www.axios.com/2024/06/28/supreme-court-chevron-doctrine-ruling)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

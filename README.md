@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Biden and Trump trade blows in first presidential debate of 2024 election – live](https://www.theguardian.com/us-news/live/2024/jun/27/presidential-debate-trump-biden-updates)
-- [The 14 years that broke Britain, part 1 – podcast](https://www.theguardian.com/news/audio/2024/jun/28/the-14-years-that-broke-britain-part-1-podcast)
-- [USMNT at risk of early Copa América exit after chaotic defeat to Panama](https://www.theguardian.com/football/article/2024/jun/27/usmnt-panama-result-tim-weah-berhalter-copa-america)
-- [Uvalde police indicted over role in slow response to 2022 school massacre](https://www.theguardian.com/us-news/article/2024/jun/27/uvalde-police-indicted-)
-- [Astronauts take cover as defunct Russian satellite splits into nearly 200 pieces](https://www.theguardian.com/science/article/2024/jun/27/russian-satellite-debris-international-space-station)
-- [The Marilyn Conspiracy review – suspects and detectives convene for Monroe mystery](https://www.theguardian.com/stage/article/2024/jun/28/the-marilyn-conspiracy-review-park-theatre-london)
-- [High levels of E coli found at Henley days before international regatta](https://www.theguardian.com/world/article/2024/jun/28/high-levels-of-e-coli-found-at-henley-days-before-international-regatta)
-- [A Family Affair review – Nicole Kidman’s hot age-gap romance quickly goes cold](https://www.theguardian.com/film/article/2024/jun/28/a-family-affair-review-nicole-kidman-zac-efron-netflix)
-- [US imposes fresh sanctions on Iran over apparent nuclear escalations](https://www.theguardian.com/world/article/2024/jun/27/us-sanctions-iran-nuclear)
-- [NBA draft: Bronny James unites with father LeBron at LA Lakers](https://www.theguardian.com/sport/article/2024/jun/27/nba-draft-bronny-james-unites-with-father-lebron-at-la-lakers)
+- [Ukraine war briefing: multiple casualties in Russian attack on Dnipro apartment block](https://www.theguardian.com/world/article/2024/jun/29/ukraine-war-briefing-multiple-casualties-in-russian-attack-on-dnipro-apartment-block)
+- [Dua Lipa at Glastonbury review – headliners are rarely this hook-laden and hedonistic](https://www.theguardian.com/music/article/2024/jun/29/dua-lipa-glastonbury-review-friday-pyramid-stage)
+- [Mushroom gummies: powerful cannabis product could have caused ‘disturbing hallucinations’ and hospitalisations](https://www.theguardian.com/australia-news/article/2024/jun/29/mushroom-gummies-powerful-cannabis-product-could-have-caused-disturbing-hallucinations-and-hospitalisations)
+- [By reflecting a world in crisis, art can be a powerful part of the climate solution](https://www.theguardian.com/australia-news/article/2024/jun/29/by-reflecting-a-world-in-crisis-art-can-be-a-powerful-part-of-the-climate-solution)
+- [Gordon straight back in saddle to help England move through the gears](https://www.theguardian.com/football/article/2024/jun/28/gordon-straight-back-in-saddle-to-help-england-move-through-the-gears)
+- [Could Cole Palmer’s off-the-cuff talent prove to be the answer for England?](https://www.theguardian.com/football/article/2024/jun/28/cole-palmer-england-football-euro-2024)
+- [Aston Villa sign left-back Ian Maatsen from Chelsea for reported £37.5m fee](https://www.theguardian.com/football/article/2024/jun/28/aston-villa-sign-ian-maatsen-from-chelsea-transfer-news)
+- [ICC decision on Netanyahu arrest warrant may be delayed by UK](https://www.theguardian.com/law/article/2024/jun/28/icc-decision-benjamin-netanyahu-arrest-warrant-delay-uk)
+- [Box-office Bumrah will give India edge in T20 World Cup final against South Africa | Mark Ramprakash](https://www.theguardian.com/sport/article/2024/jun/28/box-office-bumrah-gives-india-the-edge-in-world-t20-final-against-south-africa)
+- [John Swinney voices concern over postal vote delays in Scotland](https://www.theguardian.com/politics/article/2024/jun/28/john-swinney-voices-concern-over-postal-vote-delays-in-scotland)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

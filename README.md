@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [French citizens who choose to leave](https://www.theguardian.com/world/article/2024/jun/27/here-i-found-respect-for-who-i-am-the-french-citizens-who-choose-to-leave)
-- [Scala-3-Is-Yaml.scala](https://gist.github.com/igstan/92fc3b12156f7f9e2df617a647deb701)
-- [From an idea to an app: Demark:Default photo watermark](https://apps.apple.com/us/app/demark-default-photo-watermark/id6499131459)
-- [Hardware FPGA DPS-8M Mainframe and FNP Project](https://dps8m.gitlab.io/blog/posts/20240622_FPGA/)
-- [Ask HN: A better way to do customer support for small teams?](https://news.ycombinator.com/item?id=40817138)
-- [Lunar Lake: Next Gen P-Core Lion Cove [video]](https://www.youtube.com/watch?v=FcBRRiQuzNU)
-- [Emirates Pilots Implement Strategies to Cut Fuel Use and Emissions](https://www.airguide.info/emirates-pilots-implement-strategies-to-cut-fuel-use-and-emissions/)
-- [Conway&#39;s Game of Life, in checkboxes for some reason](https://huth.me/checkbox-life/)
-- [The Death of NYC Congestion Pricing](https://www.apricitas.io/p/the-death-of-nyc-congestion-pricing)
-- [Surprise the Latest &#39;Comprehensive&#39; US Privacy Bill Is Doomed](https://www.wired.com/story/apra-privacy-bill-doomed/)
+- [A new tropical system just formed. It poses a rare threat](https://www.cnn.com/2024/06/28/weather/tropical-depression-storm-beryl-hurricane/index.html)
+- [NASA and SpaceX misjudged the risks from reentering space junk](https://arstechnica.com/space/2024/06/maybe-its-time-to-reassess-the-risk-of-space-junk-falling-to-earth/)
+- [Warren Buffett Gives Us a Preview of His Will](https://www.wsj.com/finance/warren-buffett-gives-us-a-preview-of-his-will-419ad46d)
+- [Amazon pushes past $2T valuation for first time](https://www.siliconrepublic.com/business/amazon-valuation-trillion-dollar-cloud-ai-demand-shares)
+- [Who Knew What When](https://www.os2museum.com/wp/who-knew-what-when/)
+- [Regex101 works offline. Turn off WiFi before opening link](https://regex101.com/)
+- [Yazi: Fast terminal file manager written in Rust](https://yazi-rs.github.io/)
+- [The Great MEV Heist](https://blog.dshr.org/2024/06/the-great-mev-heist.html)
+- [Ted talks became the Picotop of millennial intellectualism](https://www.joanwestenberg.com/ted-talks-the-picotop-of-millennial-pop-intellectualism)
+- [Bacteria found to produce proteins that act like antifreeze](https://phys.org/news/2024-06-bacteria-proteins-antifreeze-marine-worms.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

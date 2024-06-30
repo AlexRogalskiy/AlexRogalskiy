@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [A new tropical system just formed. It poses a rare threat](https://www.cnn.com/2024/06/28/weather/tropical-depression-storm-beryl-hurricane/index.html)
-- [NASA and SpaceX misjudged the risks from reentering space junk](https://arstechnica.com/space/2024/06/maybe-its-time-to-reassess-the-risk-of-space-junk-falling-to-earth/)
-- [Warren Buffett Gives Us a Preview of His Will](https://www.wsj.com/finance/warren-buffett-gives-us-a-preview-of-his-will-419ad46d)
-- [Amazon pushes past $2T valuation for first time](https://www.siliconrepublic.com/business/amazon-valuation-trillion-dollar-cloud-ai-demand-shares)
-- [Who Knew What When](https://www.os2museum.com/wp/who-knew-what-when/)
-- [Regex101 works offline. Turn off WiFi before opening link](https://regex101.com/)
-- [Yazi: Fast terminal file manager written in Rust](https://yazi-rs.github.io/)
-- [The Great MEV Heist](https://blog.dshr.org/2024/06/the-great-mev-heist.html)
-- [Ted talks became the Picotop of millennial intellectualism](https://www.joanwestenberg.com/ted-talks-the-picotop-of-millennial-pop-intellectualism)
-- [Bacteria found to produce proteins that act like antifreeze](https://phys.org/news/2024-06-bacteria-proteins-antifreeze-marine-worms.html)
+- [The Forest](https://shakespeare.mit.edu/asyoulikeit/asyoulikeit.2.7.html)
+- [Lazarus Taxon](https://en.wikipedia.org/wiki/Lazarus_taxon)
+- [One process programming notes &lpar;with Go and SQLite&rpar; &lpar;2018&rpar;](https://crawshaw.io/blog/one-process-programming-notes)
+- [Amazon&#39;s Project Kuiper delays satellite timeline](https://www.seattletimes.com/business/amazon/amazons-project-kuiper-delays-satellite-timeline-opens-kirkland-hub/)
+- [MERC: The MErcilessly Redundant Config Language](https://ki-editor.github.io/merc/)
+- [New warm sub-Neptune exoplanet discovered with TESS](https://phys.org/news/2024-06-neptune-exoplanet-tess.html)
+- [Ask HN: How can it be impossible to output pixel exact graph in Matplotlib?](https://news.ycombinator.com/item?id=40834665)
+- [Revealed: The tech entrepreneur behind a pro-Israel hate network](https://www.theguardian.com/world/article/2024/jun/29/daniel-linden-shirion-collective-pro-israel-palestine-hate)
+- [Do you ever feel overwhelmed thinking about all of the suffering in the world?](https://old.reddit.com/r/negativeutilitarians/comments/dxmgri/do_you_ever_feel_overwhelmed_thinking_about_all/)
+- [Chrome is adding `window.ai` – a Gemini Nano AI model right inside the browser](https://twitter.com/rauchg/status/1806385778064564622)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

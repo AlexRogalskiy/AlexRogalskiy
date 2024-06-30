@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine war briefing: multiple casualties in Russian attack on Dnipro apartment block](https://www.theguardian.com/world/article/2024/jun/29/ukraine-war-briefing-multiple-casualties-in-russian-attack-on-dnipro-apartment-block)
-- [Dua Lipa at Glastonbury review – headliners are rarely this hook-laden and hedonistic](https://www.theguardian.com/music/article/2024/jun/29/dua-lipa-glastonbury-review-friday-pyramid-stage)
-- [Mushroom gummies: powerful cannabis product could have caused ‘disturbing hallucinations’ and hospitalisations](https://www.theguardian.com/australia-news/article/2024/jun/29/mushroom-gummies-powerful-cannabis-product-could-have-caused-disturbing-hallucinations-and-hospitalisations)
-- [By reflecting a world in crisis, art can be a powerful part of the climate solution](https://www.theguardian.com/australia-news/article/2024/jun/29/by-reflecting-a-world-in-crisis-art-can-be-a-powerful-part-of-the-climate-solution)
-- [Gordon straight back in saddle to help England move through the gears](https://www.theguardian.com/football/article/2024/jun/28/gordon-straight-back-in-saddle-to-help-england-move-through-the-gears)
-- [Could Cole Palmer’s off-the-cuff talent prove to be the answer for England?](https://www.theguardian.com/football/article/2024/jun/28/cole-palmer-england-football-euro-2024)
-- [Aston Villa sign left-back Ian Maatsen from Chelsea for reported £37.5m fee](https://www.theguardian.com/football/article/2024/jun/28/aston-villa-sign-ian-maatsen-from-chelsea-transfer-news)
-- [ICC decision on Netanyahu arrest warrant may be delayed by UK](https://www.theguardian.com/law/article/2024/jun/28/icc-decision-benjamin-netanyahu-arrest-warrant-delay-uk)
-- [Box-office Bumrah will give India edge in T20 World Cup final against South Africa | Mark Ramprakash](https://www.theguardian.com/sport/article/2024/jun/28/box-office-bumrah-gives-india-the-edge-in-world-t20-final-against-south-africa)
-- [John Swinney voices concern over postal vote delays in Scotland](https://www.theguardian.com/politics/article/2024/jun/28/john-swinney-voices-concern-over-postal-vote-delays-in-scotland)
+- [Coldplay at Glastonbury review – Chris Martin takes tens of thousands on the adventure of a lifetime](https://www.theguardian.com/music/article/2024/jun/30/coldplay-glastonbury-review-chris-martin-pyramid-stage)
+- [Germany beat the storm and the Danes while the Swiss roll Italy – Football Daily](https://www.theguardian.com/football/audio/2024/jun/30/germany-beat-the-storm-and-the-danes-while-the-swiss-roll-italy-football-daily)
+- [Are mushroom gummies part of the ‘healthy high’ industry and how is it regulated?](https://www.theguardian.com/australia-news/article/2024/jun/30/explainer-are-mushroom-gummies-part-of-the-healthy-high-industry-and-how-is-it-regulated)
+- [Spiderbait’s Kram: ‘Which famous person would I fight? Anyone but Danny DeVito’](https://www.theguardian.com/music/article/2024/jun/30/spiderbait-black-betty-anniversary-tour-australia)
+- [‘You don’t have to clean up after it’: young Australians are getting on their hobby horses](https://www.theguardian.com/lifeandstyle/article/2024/jun/30/australia-hobby-horse-riding-sport-queensland-championships-2024)
+- [Byron Bay is to be stripped of its nudist beach – and naturists blame ‘conservative creep’](https://www.theguardian.com/australia-news/article/2024/jun/30/byron-bay-nudist-beach-tyagarah-closure)
+- [Denmark’s Hjulmand attacks ‘ridiculous handball rules’ after defeat by Germany](https://www.theguardian.com/football/article/2024/jun/30/denmarks-hjulmand-attacks-ridiculous-handball-rules-after-defeat-by-germany)
+- [Botanist tells how nettles helped solve Soham murders](https://www.theguardian.com/uk-news/article/2024/jun/30/botanist-tells-how-nettles-helped-solve-soham-murders)
+- [TV tonight: a powerful end to Suranne Jones’s witchcraft investigation](https://www.theguardian.com/tv-and-radio/article/2024/jun/30/tv-tonight-a-powerful-end-to-suranne-joness-witchcraft-investigation)
+- [Splashing out: 10 swim brands to know – in pictures](https://www.theguardian.com/fashion/gallery/2024/jun/29/splashing-out-10-swim-brands-to-know-in-pictures)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

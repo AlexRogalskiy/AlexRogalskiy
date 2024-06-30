@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Microsoft pauses Windows 11 update as it&#39;s sending some PCs into infinite reboot](https://www.techradar.com/computing/windows/microsoft-pauses-windows-11-update-as-its-sending-some-pcs-into-an-infinite-reboot-hell)
-- [The XAES-256-GCM extended-nonce AEAD](https://words.filippo.io/dispatches/xaes-256-gcm/)
-- [The CIDR trie data structure](https://d34dl0ck.me/rust-bites-cidr-trie/index.html)
-- [Show HN: Focal, a Pomodoro App](https://aabiji.github.io/focal/)
-- [Open source &#39;Eclipse Theia IDE&#39; exits beta to challenge Visual Studio Code](https://visualstudiomagazine.com/Articles/2024/06/27/eclipse-theia-ide.aspx)
-- [The story, as best I can remember, of the origin of Mosaic and Netscape [video]](https://pmarca.substack.com/p/the-true-story-as-best-i-can-remember)
-- [Pompeii fixed potholes with molten iron &lpar;2019&rpar;](https://www.smithsonianmag.com/smart-news/pompeii-fixed-potholes-molten-iron-180972203/)
-- [Llama-agents: an async-first framework for building production ready agents](https://github.com/run-llama/llama-agents)
-- [Discovered June 16th, large asteroid to pass between Earth and moon on Saturday](https://www.cbc.ca/news/science/asteroid-2024mk-1.7247336)
-- [Supreme Court overturns 40-year-old &quot;Chevron deference&quot; doctrine](https://www.axios.com/2024/06/28/supreme-court-chevron-doctrine-ruling)
+- [Chrome is adding `window.ai` – a Gemini Nano AI model right inside the browser](https://twitter.com/rauchg/status/1806385778064564622)
+- [Why Cloudflare Is a Threat to the Internet Privacy](https://news.ycombinator.com/item?id=40834289)
+- [Redbox Owner Chicken Soup for the Soul Files for Chapter 11](https://deadline.com/2024/06/redbox-chicken-soup-for-the-soul-entertainment-files-chapter-11-bankruptcy-1235997730/)
+- [Trilobites killed by volcanic ash reveal features never seen before](https://www.bristol.ac.uk/news/2024/june/prehistoric-pompeii.html)
+- [CVE-2021-4440: A Linux CNA Case Study](https://grsecurity.net/cve-2021-4440_linux_cna_case_study)
+- [The Operational Wargame Series: The best game not in stores now &lpar;2021&rpar;](https://nodicenoglory.com/2021/06/23/the-operational-wargame-series-the-best-game-not-in-stores-now/)
+- [Overleaf: An open-source online real-time collaborative LaTeX editor](https://github.com/overleaf/overleaf)
+- [AirPods fast connect security vulnerability](https://blogs.gnome.org/jdressler/2024/06/26/do-a-firmware-update-for-your-airpods-now/)
+- [Thousands of Pablo Picasso’s works in a new online archive](https://www.smithsonianmag.com/smart-news/thousands-of-pablo-picassos-works-are-now-online-180984597/)
+- [Show HN: I am building an open-source Confluence and Notion alternative](https://github.com/docmost/docmost)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

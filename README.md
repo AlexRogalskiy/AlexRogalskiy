@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Coldplay at Glastonbury review – Chris Martin takes tens of thousands on the adventure of a lifetime](https://www.theguardian.com/music/article/2024/jun/30/coldplay-glastonbury-review-chris-martin-pyramid-stage)
-- [Germany beat the storm and the Danes while the Swiss roll Italy – Football Daily](https://www.theguardian.com/football/audio/2024/jun/30/germany-beat-the-storm-and-the-danes-while-the-swiss-roll-italy-football-daily)
-- [Are mushroom gummies part of the ‘healthy high’ industry and how is it regulated?](https://www.theguardian.com/australia-news/article/2024/jun/30/explainer-are-mushroom-gummies-part-of-the-healthy-high-industry-and-how-is-it-regulated)
-- [Spiderbait’s Kram: ‘Which famous person would I fight? Anyone but Danny DeVito’](https://www.theguardian.com/music/article/2024/jun/30/spiderbait-black-betty-anniversary-tour-australia)
-- [‘You don’t have to clean up after it’: young Australians are getting on their hobby horses](https://www.theguardian.com/lifeandstyle/article/2024/jun/30/australia-hobby-horse-riding-sport-queensland-championships-2024)
-- [Byron Bay is to be stripped of its nudist beach – and naturists blame ‘conservative creep’](https://www.theguardian.com/australia-news/article/2024/jun/30/byron-bay-nudist-beach-tyagarah-closure)
-- [Denmark’s Hjulmand attacks ‘ridiculous handball rules’ after defeat by Germany](https://www.theguardian.com/football/article/2024/jun/30/denmarks-hjulmand-attacks-ridiculous-handball-rules-after-defeat-by-germany)
-- [Botanist tells how nettles helped solve Soham murders](https://www.theguardian.com/uk-news/article/2024/jun/30/botanist-tells-how-nettles-helped-solve-soham-murders)
-- [TV tonight: a powerful end to Suranne Jones’s witchcraft investigation](https://www.theguardian.com/tv-and-radio/article/2024/jun/30/tv-tonight-a-powerful-end-to-suranne-joness-witchcraft-investigation)
-- [Splashing out: 10 swim brands to know – in pictures](https://www.theguardian.com/fashion/gallery/2024/jun/29/splashing-out-10-swim-brands-to-know-in-pictures)
+- [The 14 years that broke Britain, part 2 - podcast](https://www.theguardian.com/news/audio/2024/jul/01/the-14-years-that-broke-britain-part-2-podcast)
+- [Chinese space rocket crashes in flames after accidental launch](https://www.theguardian.com/science/article/2024/jul/01/china-tianlong-3-rocket-crash-accidental-launch-space-pioneer-gongyi)
+- [Far-right National Rally in reach of being dominant French party after election first round](https://www.theguardian.com/world/article/2024/jun/30/far-right-national-rally-in-reach-of-being-dominant-french-party-after-election-first-round)
+- [Ukraine war briefing: Russia launches attacks on Kharkiv and Kyiv as Zelenskiy appeals for help](https://www.theguardian.com/world/article/2024/jul/01/ukraine-war-briefing-russia-launches-attacks-on-kharkiv-and-kyiv-as-zelenskiy-appeals-for-help)
+- [SZA at Glastonbury review – electric eclecticism from today’s greatest R&amp;B star](https://www.theguardian.com/music/article/2024/jul/01/sza-at-glastonbury-review-electric-eclecticism-from-todays-greatest-rb-star)
+- [Patients left in pain and to die alone amid NHS nurse shortages, survey finds](https://www.theguardian.com/uk-news/article/2024/jul/01/patients-left-in-pain-and-to-die-alone-amid-nhs-nurse-shortages-survey-finds)
+- [Police meet families as part of inquiry into human ashes found at Hull funeral home](https://www.theguardian.com/uk-news/article/2024/jul/01/human-ashes-found-hull-funeral-home-police-meet-families)
+- [Starlight Express review – Lloyd Webber’s bizarre juggernaut is bigger, camper and more OTT than ever](https://www.theguardian.com/stage/article/2024/jun/30/starlight-express-review-andrew-lloyd-webber-troubadour-wembley-park-theatre-london)
+- [Ruthless Rodri crushes Georgia’s fairytale and keeps Spain on track | Jonathan Wilson](https://www.theguardian.com/football/article/2024/jun/30/rodris-performance-teaches-georgia-lesson-and-keeps-spain-in-hunt)
+- [The Age of Gareth lives on: England’s peaks and troughs lead to Swiss test](https://www.theguardian.com/football/article/2024/jun/30/gareth-southgate-jude-bellingham-england-slovakia-euro-2024-last-16)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

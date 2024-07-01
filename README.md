@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Chrome is adding `window.ai` – a Gemini Nano AI model right inside the browser](https://twitter.com/rauchg/status/1806385778064564622)
-- [Why Cloudflare Is a Threat to the Internet Privacy](https://news.ycombinator.com/item?id=40834289)
-- [Redbox Owner Chicken Soup for the Soul Files for Chapter 11](https://deadline.com/2024/06/redbox-chicken-soup-for-the-soul-entertainment-files-chapter-11-bankruptcy-1235997730/)
-- [Trilobites killed by volcanic ash reveal features never seen before](https://www.bristol.ac.uk/news/2024/june/prehistoric-pompeii.html)
-- [CVE-2021-4440: A Linux CNA Case Study](https://grsecurity.net/cve-2021-4440_linux_cna_case_study)
-- [The Operational Wargame Series: The best game not in stores now &lpar;2021&rpar;](https://nodicenoglory.com/2021/06/23/the-operational-wargame-series-the-best-game-not-in-stores-now/)
-- [Overleaf: An open-source online real-time collaborative LaTeX editor](https://github.com/overleaf/overleaf)
-- [AirPods fast connect security vulnerability](https://blogs.gnome.org/jdressler/2024/06/26/do-a-firmware-update-for-your-airpods-now/)
-- [Thousands of Pablo Picasso’s works in a new online archive](https://www.smithsonianmag.com/smart-news/thousands-of-pablo-picassos-works-are-now-online-180984597/)
-- [Show HN: I am building an open-source Confluence and Notion alternative](https://github.com/docmost/docmost)
+- [DOJ to offer Boeing &quot;sweetheart&quot; plea deal in pursuit of criminal charges](https://www.cnn.com/2024/06/30/business/boeing-plea-deal/index.html)
+- [A Model of a Mind](https://tylerneylon.com/a/mind_model/mind_model.html)
+- [Nyquest NY8A051H – 1.5 cent microcontroller: weekend die-shot](https://zeptobars.com/en/read/Nyquest-Technology-NY8A051H-8051-smallest-microcontroller)
+- [Matters Computational [pdf]](http://www.jjj.de/fxt/#fxtbook)
+- [Google Arts and Culture site I didn&#39;t know existed](https://artsandculture.google.com/)
+- [Chaos Engineering in Front End Development: Enhancing Application Resilience](https://omid.dev/2024/07/01/chaos-engineering-in-frontend-development/)
+- [Convolutions, Fast Fourier Transform and polynomials &lpar;2022&rpar;](https://www.alvarorevuelta.com/posts/fft-polynomials)
+- [Extreme Measures Needed to Scale Chips](https://spectrum.ieee.org/chip-scaling)
+- [A Large-Scale Structured Database of a Century of Historical News](https://arxiv.org/abs/2406.09490)
+- [Postzegelcode](https://en.wikipedia.org/wiki/Postzegelcode)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

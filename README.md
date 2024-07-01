@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Forest](https://shakespeare.mit.edu/asyoulikeit/asyoulikeit.2.7.html)
-- [Lazarus Taxon](https://en.wikipedia.org/wiki/Lazarus_taxon)
-- [One process programming notes &lpar;with Go and SQLite&rpar; &lpar;2018&rpar;](https://crawshaw.io/blog/one-process-programming-notes)
-- [Amazon&#39;s Project Kuiper delays satellite timeline](https://www.seattletimes.com/business/amazon/amazons-project-kuiper-delays-satellite-timeline-opens-kirkland-hub/)
-- [MERC: The MErcilessly Redundant Config Language](https://ki-editor.github.io/merc/)
-- [New warm sub-Neptune exoplanet discovered with TESS](https://phys.org/news/2024-06-neptune-exoplanet-tess.html)
-- [Ask HN: How can it be impossible to output pixel exact graph in Matplotlib?](https://news.ycombinator.com/item?id=40834665)
-- [Revealed: The tech entrepreneur behind a pro-Israel hate network](https://www.theguardian.com/world/article/2024/jun/29/daniel-linden-shirion-collective-pro-israel-palestine-hate)
-- [Do you ever feel overwhelmed thinking about all of the suffering in the world?](https://old.reddit.com/r/negativeutilitarians/comments/dxmgri/do_you_ever_feel_overwhelmed_thinking_about_all/)
-- [Chrome is adding `window.ai` – a Gemini Nano AI model right inside the browser](https://twitter.com/rauchg/status/1806385778064564622)
+- [Richat Structure](https://earthobservatory.nasa.gov/images/92071/richat-structure)
+- [Report shows that AAA games for iPhone and iPad aren&#39;t a hit with users](https://9to5mac.com/2024/06/28/aaa-games-iphone-ipad-arent-a-hit/)
+- [Justice Department to Charge Boeing](https://www.bloomberg.com/news/articles/2024-06-30/doj-to-charge-boeing-seek-guilty-plea-from-planemaker)
+- [Subject-object-verb, or– how we use AI](https://vivekhaldar.com/articles/subject-object-verb--or---how-we-use-ai/)
+- [Dev Proxy is a CLI tool for simulating APIs, including of errors/failure rate](https://github.com/microsoft/dev-proxy)
+- [Rimac Unveils Verne Robotaxi Concept](https://cleantechnica.com/2024/06/26/rimac-unveils-verne-robotaxi-concept/)
+- [Effective YouTube Kids: Quality Content in Small Doses](https://abparenting.substack.com/p/effective-youtube-kids)
+- [Open Source community lessons from 30 years of FreeDOS](https://opensource.net/lessons-learned-open-source-30-years-freedos/)
+- [AI Steve – Your Independent Candidate for Brighton Pavilion](https://www.ai-steve.co.uk/)
+- [Pipes: A spiritual successor to Yahoo Pipes; GUI to get/manipulate data](https://www.pipes.digital/docs)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

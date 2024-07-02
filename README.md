@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [DOJ to offer Boeing &quot;sweetheart&quot; plea deal in pursuit of criminal charges](https://www.cnn.com/2024/06/30/business/boeing-plea-deal/index.html)
-- [A Model of a Mind](https://tylerneylon.com/a/mind_model/mind_model.html)
-- [Nyquest NY8A051H – 1.5 cent microcontroller: weekend die-shot](https://zeptobars.com/en/read/Nyquest-Technology-NY8A051H-8051-smallest-microcontroller)
-- [Matters Computational [pdf]](http://www.jjj.de/fxt/#fxtbook)
-- [Google Arts and Culture site I didn&#39;t know existed](https://artsandculture.google.com/)
-- [Chaos Engineering in Front End Development: Enhancing Application Resilience](https://omid.dev/2024/07/01/chaos-engineering-in-frontend-development/)
-- [Convolutions, Fast Fourier Transform and polynomials &lpar;2022&rpar;](https://www.alvarorevuelta.com/posts/fft-polynomials)
-- [Extreme Measures Needed to Scale Chips](https://spectrum.ieee.org/chip-scaling)
-- [A Large-Scale Structured Database of a Century of Historical News](https://arxiv.org/abs/2406.09490)
-- [Postzegelcode](https://en.wikipedia.org/wiki/Postzegelcode)
+- [Spending too much time optimizing for loops](https://octavelarose.github.io/2024/05/29/to-do-inlining.html)
+- [Switzerland mandates software source code disclosure for public sector](https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/new-open-source-law-switzerland)
+- [Getting the World Record in Hatetris &lpar;2022&rpar;](https://hallofdreams.org/posts/hatetris/)
+- [Code reviews do find bugs](https://two-wrongs.com/code-reviews-do-find-bugs.html)
+- [Improving your Zig language server experience](https://kristoff.it/blog/improving-your-zls-experience/)
+- [We are at our most creative just before we fall asleep, scientists say &lpar;2022&rpar;](https://www.weforum.org/agenda/2022/01/creativity-hotspot-just-before-sleep/)
+- [A proof of proof by infinite descent](http://relatedwork.blogspot.com/2024/07/a-proof-of-proof-by-infinite-descent.html)
+- [When RAND made magic in Santa Monica](https://asteriskmag.com/issues/06/when-rand-made-magic-in-santa-monica)
+- [Show HN: Doggo – A powerful, human-friendly DNS client for the command line](https://doggo.mrkaran.dev/docs/)
+- [Working Title &lpar;Insurance&rpar;](https://www.bitsaboutmoney.com/archive/working-title-insurance/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

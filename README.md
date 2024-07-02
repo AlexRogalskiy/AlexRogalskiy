@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Richat Structure](https://earthobservatory.nasa.gov/images/92071/richat-structure)
-- [Report shows that AAA games for iPhone and iPad aren&#39;t a hit with users](https://9to5mac.com/2024/06/28/aaa-games-iphone-ipad-arent-a-hit/)
-- [Justice Department to Charge Boeing](https://www.bloomberg.com/news/articles/2024-06-30/doj-to-charge-boeing-seek-guilty-plea-from-planemaker)
-- [Subject-object-verb, or– how we use AI](https://vivekhaldar.com/articles/subject-object-verb--or---how-we-use-ai/)
-- [Dev Proxy is a CLI tool for simulating APIs, including of errors/failure rate](https://github.com/microsoft/dev-proxy)
-- [Rimac Unveils Verne Robotaxi Concept](https://cleantechnica.com/2024/06/26/rimac-unveils-verne-robotaxi-concept/)
-- [Effective YouTube Kids: Quality Content in Small Doses](https://abparenting.substack.com/p/effective-youtube-kids)
-- [Open Source community lessons from 30 years of FreeDOS](https://opensource.net/lessons-learned-open-source-30-years-freedos/)
-- [AI Steve – Your Independent Candidate for Brighton Pavilion](https://www.ai-steve.co.uk/)
-- [Pipes: A spiritual successor to Yahoo Pipes; GUI to get/manipulate data](https://www.pipes.digital/docs)
+- [ITER fusion energy project marks completion of its most complex magnet system](https://phys.org/news/2024-07-multinational-fusion-energy-complex-magnet.html)
+- [Apple&#39;s $50M butterfly keyboard lawsuit gets final approval](https://9to5mac.com/2023/05/26/apple-macbook-keyboard-lawsuit-payments/)
+- [There&#39;s another way to write GUI apps for Windows](https://news.ycombinator.com/item?id=40852962)
+- [Is anyone interested in a better Hacker News?](https://news.ycombinator.com/item?id=40852953)
+- [Securely design your applications and protect your sensitive data with VBS](https://techcommunity.microsoft.com/t5/windows-os-platform-blog/securely-design-your-applications-and-protect-your-sensitive/ba-p/4179543)
+- [Did Turing prove the undecidability of the halting problem?](https://jdh.hamkins.org/turing-halting-problem/)
+- [GXO Signs Industry-First Multi-Year Agreement with Agility Robotics](https://agilityrobotics.com/content/gxo-signs-industry-first-multi-year-agreement-with-agility-robotics)
+- [Kaboom: An Unusual Minesweeper &lpar;2019&rpar;](https://pwmarcz.pl/blog/kaboom/)
+- [Show HN: UsePartyRef – A Vue 3 ref that syncs in real-time with other clients](https://github.com/marchantweb/usePartyRef)
+- [California Probate Fee Calculator](https://californiaprobatecalculator.com/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

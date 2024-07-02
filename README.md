@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [The 14 years that broke Britain, part 2 - podcast](https://www.theguardian.com/news/audio/2024/jul/01/the-14-years-that-broke-britain-part-2-podcast)
-- [Chinese space rocket crashes in flames after accidental launch](https://www.theguardian.com/science/article/2024/jul/01/china-tianlong-3-rocket-crash-accidental-launch-space-pioneer-gongyi)
-- [Far-right National Rally in reach of being dominant French party after election first round](https://www.theguardian.com/world/article/2024/jun/30/far-right-national-rally-in-reach-of-being-dominant-french-party-after-election-first-round)
-- [Ukraine war briefing: Russia launches attacks on Kharkiv and Kyiv as Zelenskiy appeals for help](https://www.theguardian.com/world/article/2024/jul/01/ukraine-war-briefing-russia-launches-attacks-on-kharkiv-and-kyiv-as-zelenskiy-appeals-for-help)
-- [SZA at Glastonbury review – electric eclecticism from today’s greatest R&amp;B star](https://www.theguardian.com/music/article/2024/jul/01/sza-at-glastonbury-review-electric-eclecticism-from-todays-greatest-rb-star)
-- [Patients left in pain and to die alone amid NHS nurse shortages, survey finds](https://www.theguardian.com/uk-news/article/2024/jul/01/patients-left-in-pain-and-to-die-alone-amid-nhs-nurse-shortages-survey-finds)
-- [Police meet families as part of inquiry into human ashes found at Hull funeral home](https://www.theguardian.com/uk-news/article/2024/jul/01/human-ashes-found-hull-funeral-home-police-meet-families)
-- [Starlight Express review – Lloyd Webber’s bizarre juggernaut is bigger, camper and more OTT than ever](https://www.theguardian.com/stage/article/2024/jun/30/starlight-express-review-andrew-lloyd-webber-troubadour-wembley-park-theatre-london)
-- [Ruthless Rodri crushes Georgia’s fairytale and keeps Spain on track | Jonathan Wilson](https://www.theguardian.com/football/article/2024/jun/30/rodris-performance-teaches-georgia-lesson-and-keeps-spain-in-hunt)
-- [The Age of Gareth lives on: England’s peaks and troughs lead to Swiss test](https://www.theguardian.com/football/article/2024/jun/30/gareth-southgate-jude-bellingham-england-slovakia-euro-2024-last-16)
+- [The enigma of Keir Starmer – podcast](https://www.theguardian.com/news/audio/2024/jul/02/the-enigma-of-keir-starmer-podcast)
+- [Israel orders fresh evacuations from Gaza city of Khan Younis](https://www.theguardian.com/world/article/2024/jul/02/israel-gaza-war-evacuations-khan-younis)
+- [Biden denounces supreme court decision on Trump immunity: ‘He’ll be more emboldened’](https://www.theguardian.com/us-news/article/2024/jul/01/biden-speech-supreme-court-trump-immunity)
+- [Ukraine war briefing: Thousands of Ukrainian convicts join fight against Russian forces](https://www.theguardian.com/world/article/2024/jul/02/ukraine-war-briefing-thousands-of-ukrainian-convicts-join-fight-against-russian-forces)
+- [Brutal California heatwave to coincide with Fourth of July wildfire risks](https://www.theguardian.com/environment/article/2024/jul/01/heatwave-california-4th-of-july-wildfire-risks)
+- [Portugal’s penalty prowess sees them progress and France do just enough - Football Daily](https://www.theguardian.com/football/audio/2024/jul/02/portugals-penalty-prowess-sees-them-progress-and-france-do-just-enough-football-daily)
+- [Next UK government poised to benefit from fall in inflation and fuel prices](https://www.theguardian.com/money/article/2024/jul/02/next-uk-government-poised-to-benefit-from-fall-in-inflation-and-fuel-prices)
+- [UK universities urged to end drugs zero tolerance and focus on harm reduction](https://www.theguardian.com/politics/article/2024/jul/02/uk-universities-urged-to-end-drugs-zero-tolerance-and-focus-on-harm-reduction)
+- [Portugal and Ronaldo save face as Costa’s shootout heroics sink Slovenia](https://www.theguardian.com/football/article/2024/jul/01/portugal-slovenia-euro-2024-last-16-match-report)
+- [Viktor Orbán expected to make surprise trip to Kyiv on Tuesday](https://www.theguardian.com/world/article/2024/jul/01/viktor-orban-expected-to-make-surprise-trip-to-kyiv-on-tuesday)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

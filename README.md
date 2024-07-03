@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Spending too much time optimizing for loops](https://octavelarose.github.io/2024/05/29/to-do-inlining.html)
-- [Switzerland mandates software source code disclosure for public sector](https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/new-open-source-law-switzerland)
-- [Getting the World Record in Hatetris &lpar;2022&rpar;](https://hallofdreams.org/posts/hatetris/)
-- [Code reviews do find bugs](https://two-wrongs.com/code-reviews-do-find-bugs.html)
-- [Improving your Zig language server experience](https://kristoff.it/blog/improving-your-zls-experience/)
-- [We are at our most creative just before we fall asleep, scientists say &lpar;2022&rpar;](https://www.weforum.org/agenda/2022/01/creativity-hotspot-just-before-sleep/)
-- [A proof of proof by infinite descent](http://relatedwork.blogspot.com/2024/07/a-proof-of-proof-by-infinite-descent.html)
-- [When RAND made magic in Santa Monica](https://asteriskmag.com/issues/06/when-rand-made-magic-in-santa-monica)
-- [Show HN: Doggo – A powerful, human-friendly DNS client for the command line](https://doggo.mrkaran.dev/docs/)
-- [Working Title &lpar;Insurance&rpar;](https://www.bitsaboutmoney.com/archive/working-title-insurance/)
+- [The Biggest Problem in Mathematics Is Finally a Step Closer to Being Solved](https://www.scientificamerican.com/article/the-riemann-hypothesis-the-biggest-problem-in-mathematics-is-a-step-closer/)
+- [Neuroscientists must not be afraid to study religion](https://www.nature.com/articles/d41586-024-02153-7)
+- [Chinese AI stirs panic at European geoscience society](https://www.science.org/content/article/chinese-ai-stirs-panic-european-geoscience-society)
+- [HuggingFace releases support for tool-use and RAG models](https://github.com/huggingface/transformers/releases/tag/v4.42.0)
+- [The Rise of Packet Rate Attacks: When Core Routers Turn Evil](https://blog.ovhcloud.com/the-rise-of-packet-rate-attacks-when-core-routers-turn-evil/)
+- [What makes e natural? &lpar;2004&rpar;](https://www.komal.hu/cikkek/2004-ang/e.e.shtml)
+- [The Illustrated Transformer &lpar;2018&rpar;](https://jalammar.github.io/illustrated-transformer/)
+- [Brazil data regulator bans Meta from mining data to train AI models](https://apnews.com/article/brazil-tech-meta-privacy-data-93e00b2e0e26f7cc98795dd052aea8e1)
+- [All I want for Christmas is a negative leap second](https://qntm.org/leap)
+- [The Queen&#39;s Doll&#39;s House](https://clairelevans.substack.com/p/the-queens-dolls-house)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

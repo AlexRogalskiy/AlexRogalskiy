@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [The enigma of Keir Starmer – podcast](https://www.theguardian.com/news/audio/2024/jul/02/the-enigma-of-keir-starmer-podcast)
-- [Israel orders fresh evacuations from Gaza city of Khan Younis](https://www.theguardian.com/world/article/2024/jul/02/israel-gaza-war-evacuations-khan-younis)
-- [Biden denounces supreme court decision on Trump immunity: ‘He’ll be more emboldened’](https://www.theguardian.com/us-news/article/2024/jul/01/biden-speech-supreme-court-trump-immunity)
-- [Ukraine war briefing: Thousands of Ukrainian convicts join fight against Russian forces](https://www.theguardian.com/world/article/2024/jul/02/ukraine-war-briefing-thousands-of-ukrainian-convicts-join-fight-against-russian-forces)
-- [Brutal California heatwave to coincide with Fourth of July wildfire risks](https://www.theguardian.com/environment/article/2024/jul/01/heatwave-california-4th-of-july-wildfire-risks)
-- [Portugal’s penalty prowess sees them progress and France do just enough - Football Daily](https://www.theguardian.com/football/audio/2024/jul/02/portugals-penalty-prowess-sees-them-progress-and-france-do-just-enough-football-daily)
-- [Next UK government poised to benefit from fall in inflation and fuel prices](https://www.theguardian.com/money/article/2024/jul/02/next-uk-government-poised-to-benefit-from-fall-in-inflation-and-fuel-prices)
-- [UK universities urged to end drugs zero tolerance and focus on harm reduction](https://www.theguardian.com/politics/article/2024/jul/02/uk-universities-urged-to-end-drugs-zero-tolerance-and-focus-on-harm-reduction)
-- [Portugal and Ronaldo save face as Costa’s shootout heroics sink Slovenia](https://www.theguardian.com/football/article/2024/jul/01/portugal-slovenia-euro-2024-last-16-match-report)
-- [Viktor Orbán expected to make surprise trip to Kyiv on Tuesday](https://www.theguardian.com/world/article/2024/jul/01/viktor-orban-expected-to-make-surprise-trip-to-kyiv-on-tuesday)
+- [The Australian senator dividing the ruling Labor party over Palestinian statehood](https://www.theguardian.com/australia-news/article/2024/jul/03/australia-fatima-payman-labor-party-mp-crossing-floor-israel-gaza-war)
+- [Xi’s central Asia trip aims to cement ties as China vies for influence with Russia](https://www.theguardian.com/world/article/2024/jul/03/xi-jinping-central-asia-trip-china-vies-regional-influence-russia)
+- [Marina Hyde and John Crace on the 2024 election campaign – podcast](https://www.theguardian.com/news/audio/2024/jul/03/marina-hyde-and-john-crace-on-the-2024-election-campaign-podcast)
+- [Biden to meet Democratic governors to assuage fears after debate performance](https://www.theguardian.com/us-news/article/2024/jul/02/texas-democrat-lloyd-doggett-biden)
+- [Robert Towne, Oscar-winning screenwriter of Chinatown, dies aged 89](https://www.theguardian.com/film/article/2024/jul/02/robert-towne-dead-chinatown-writer)
+- [Ukraine war briefing: US to announce $2.3bn military aid package for Kyiv](https://www.theguardian.com/world/article/2024/jul/03/ukraine-war-briefing-us-to-announce-23bn-military-aid-package-for-kyiv)
+- [At least 116 killed in crush at Hindu gathering in northern India, say officials](https://www.theguardian.com/world/article/2024/jul/02/people-crushed-to-death-at-hindu-gathering-in-northern-india)
+- [Delight for Demiral as Turkey are through - Football Daily](https://www.theguardian.com/football/audio/2024/jul/03/delight-for-demiral-as-turkey-are-through-football-daily)
+- [Vincenzo Montella praises Turkey’s heart and spirit after win over Austria](https://www.theguardian.com/football/article/2024/jul/03/vincenzo-montella-praises-turkeys-heart-and-spirit-after-win-over-austria)
+- [Private rents in Great Britain hit record high, data shows](https://www.theguardian.com/money/article/2024/jul/03/private-rents-in-great-britain-hit-record-high-data-shows)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

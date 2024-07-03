@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [ITER fusion energy project marks completion of its most complex magnet system](https://phys.org/news/2024-07-multinational-fusion-energy-complex-magnet.html)
-- [Apple&#39;s $50M butterfly keyboard lawsuit gets final approval](https://9to5mac.com/2023/05/26/apple-macbook-keyboard-lawsuit-payments/)
-- [There&#39;s another way to write GUI apps for Windows](https://news.ycombinator.com/item?id=40852962)
-- [Is anyone interested in a better Hacker News?](https://news.ycombinator.com/item?id=40852953)
-- [Securely design your applications and protect your sensitive data with VBS](https://techcommunity.microsoft.com/t5/windows-os-platform-blog/securely-design-your-applications-and-protect-your-sensitive/ba-p/4179543)
-- [Did Turing prove the undecidability of the halting problem?](https://jdh.hamkins.org/turing-halting-problem/)
-- [GXO Signs Industry-First Multi-Year Agreement with Agility Robotics](https://agilityrobotics.com/content/gxo-signs-industry-first-multi-year-agreement-with-agility-robotics)
-- [Kaboom: An Unusual Minesweeper &lpar;2019&rpar;](https://pwmarcz.pl/blog/kaboom/)
-- [Show HN: UsePartyRef – A Vue 3 ref that syncs in real-time with other clients](https://github.com/marchantweb/usePartyRef)
-- [California Probate Fee Calculator](https://californiaprobatecalculator.com/)
+- [Defeating the final boss of drag and drop bugs with the honey pot fix [video]](https://www.youtube.com/watch?v=udE9qbFTeQg)
+- [Signs of ritual performed 12,000 years ago](https://cosmosmagazine.com/history/archaeology/indigenous-australia-ritual-12000-years/)
+- [Vulnerabilities in CocoaPods Open the Door to Supply Chain Attacks](https://www.evasec.io/blog/eva-discovered-supply-chain-vulnerabities-in-cocoapods)
+- [A Bugatti car, a first lady and the fake stories aimed at Americans](https://www.bbc.com/news/articles/c72ver6172do)
+- [Ask HN: Has anyone ever asked this before?](https://news.ycombinator.com/item?id=40862149)
+- [Google factbox for &quot;How many landings on dark side of moon&quot; is grossly incorrect](https://news.ycombinator.com/item?id=40862146)
+- [Sublime Merge](https://www.sublimemerge.com)
+- [Bypassing &quot;This content may violate our usage policies&quot; Errors in AI Chatbots](https://medium.com/@kay_20731/bypassing-this-content-may-violate-our-usage-policies-errors-in-ai-chatbots-e8fd997c7d9a)
+- [Dear Julia, Dear Yuri](https://celebratio.org/Robinson_JB/article/964/)
+- [What Is the Opposite of Force?](https://www.wordhippo.com/what-is/the-opposite-of/force.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

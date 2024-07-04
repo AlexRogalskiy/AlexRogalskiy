@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [The Australian senator dividing the ruling Labor party over Palestinian statehood](https://www.theguardian.com/australia-news/article/2024/jul/03/australia-fatima-payman-labor-party-mp-crossing-floor-israel-gaza-war)
-- [Xi’s central Asia trip aims to cement ties as China vies for influence with Russia](https://www.theguardian.com/world/article/2024/jul/03/xi-jinping-central-asia-trip-china-vies-regional-influence-russia)
-- [Marina Hyde and John Crace on the 2024 election campaign – podcast](https://www.theguardian.com/news/audio/2024/jul/03/marina-hyde-and-john-crace-on-the-2024-election-campaign-podcast)
-- [Biden to meet Democratic governors to assuage fears after debate performance](https://www.theguardian.com/us-news/article/2024/jul/02/texas-democrat-lloyd-doggett-biden)
-- [Robert Towne, Oscar-winning screenwriter of Chinatown, dies aged 89](https://www.theguardian.com/film/article/2024/jul/02/robert-towne-dead-chinatown-writer)
-- [Ukraine war briefing: US to announce $2.3bn military aid package for Kyiv](https://www.theguardian.com/world/article/2024/jul/03/ukraine-war-briefing-us-to-announce-23bn-military-aid-package-for-kyiv)
-- [At least 116 killed in crush at Hindu gathering in northern India, say officials](https://www.theguardian.com/world/article/2024/jul/02/people-crushed-to-death-at-hindu-gathering-in-northern-india)
-- [Delight for Demiral as Turkey are through - Football Daily](https://www.theguardian.com/football/audio/2024/jul/03/delight-for-demiral-as-turkey-are-through-football-daily)
-- [Vincenzo Montella praises Turkey’s heart and spirit after win over Austria](https://www.theguardian.com/football/article/2024/jul/03/vincenzo-montella-praises-turkeys-heart-and-spirit-after-win-over-austria)
-- [Private rents in Great Britain hit record high, data shows](https://www.theguardian.com/money/article/2024/jul/03/private-rents-in-great-britain-hit-record-high-data-shows)
+- [Will France fall to the far right? – podcast](https://www.theguardian.com/news/audio/2024/jul/04/will-france-fall-to-the-far-right-podcast)
+- [Governors admit worries but rally behind Biden after meeting: ‘We have his back’](https://www.theguardian.com/us-news/article/2024/jul/03/biden-democrats-governors-support)
+- [Ukraine war briefing: Day of mourning in Dnipro after Russian attack on schools and hospitals](https://www.theguardian.com/world/article/2024/jul/04/ukraine-war-briefing-day-of-mourning-in-dnipro-after-russian-attack-on-schools-and-hospitals)
+- [Who is Biden’s biggest fan? The answer may surprise you | Fiona Katauskas](https://www.theguardian.com/commentisfree/picture/2024/jul/04/who-is-bidens-biggest-fan-the-answer-may-surprise-you)
+- [Nearly 30,000 people in northern California evacuated as raging wildfire spreads](https://www.theguardian.com/us-news/article/2024/jul/03/california-thompson-wildfire)
+- [California neo-Nazi found guilty of murder of former classmate](https://www.theguardian.com/us-news/article/2024/jul/03/california-samuel-woodward-guilty-murder)
+- [Keir Starmer hails ‘new age of hope’ as Rishi Sunak fears losing seat](https://www.theguardian.com/politics/article/2024/jul/04/keir-starmer-hails-new-age-of-hope-as-rishi-sunak-fears-losing-seat)
+- [Jannik Sinner outplays and outfoxes Berrettini to reach third round](https://www.theguardian.com/sport/article/2024/jul/03/jannik-sinner-outplays-and-outfoxes-berrettini-to-reach-third-round)
+- [Gretchen Whitmer wants to meet far-right plotters who tried to kill her, book reveals](https://www.theguardian.com/books/article/2024/jul/03/gretchen-whitmer-memoir-far-right-plot)
+- [Emma Raducanu says she did not know general election vote was on Thursday](https://www.theguardian.com/sport/article/2024/jul/03/emma-raducanu-claims-ignorance-of-general-election-and-says-she-will-lie-in)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

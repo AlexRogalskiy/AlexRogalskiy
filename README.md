@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Defeating the final boss of drag and drop bugs with the honey pot fix [video]](https://www.youtube.com/watch?v=udE9qbFTeQg)
-- [Signs of ritual performed 12,000 years ago](https://cosmosmagazine.com/history/archaeology/indigenous-australia-ritual-12000-years/)
-- [Vulnerabilities in CocoaPods Open the Door to Supply Chain Attacks](https://www.evasec.io/blog/eva-discovered-supply-chain-vulnerabities-in-cocoapods)
-- [A Bugatti car, a first lady and the fake stories aimed at Americans](https://www.bbc.com/news/articles/c72ver6172do)
-- [Ask HN: Has anyone ever asked this before?](https://news.ycombinator.com/item?id=40862149)
-- [Google factbox for &quot;How many landings on dark side of moon&quot; is grossly incorrect](https://news.ycombinator.com/item?id=40862146)
-- [Sublime Merge](https://www.sublimemerge.com)
-- [Bypassing &quot;This content may violate our usage policies&quot; Errors in AI Chatbots](https://medium.com/@kay_20731/bypassing-this-content-may-violate-our-usage-policies-errors-in-ai-chatbots-e8fd997c7d9a)
-- [Dear Julia, Dear Yuri](https://celebratio.org/Robinson_JB/article/964/)
-- [What Is the Opposite of Force?](https://www.wordhippo.com/what-is/the-opposite-of/force.html)
+- [Benedict Coulter who cut the first trailer for Beverly Hills Cop, does for 2024](https://deadline.com/2024/07/beverly-hills-cop-axel-f-throwback-trailer-netflix-1235998619/)
+- [Diffusion Forcing: Next-Token Prediction Meets Full-Sequence Diffusion](https://boyuan.space/diffusion-forcing/)
+- [Show HN: Containerized security-focused terminal IDE](https://github.com/legobeat/l7-devenv)
+- [AWS wins $2B contract for Australian military top secret region build](https://www.abc.net.au/news/2024-07-04/amazon-contract-top-secret-australian-military-intelligence/104057196)
+- [The maths that drives AI](https://www.nature.com/articles/d41586-024-02185-z)
+- [&#39;We&#39;re not stuck.&#39; Why Boeing&#39;s Starliner isn&#39;t returning to Earth &lpar;yet&rpar;](https://text.npr.org/nx-s1-5026448)
+- [TypeScript 5.5](https://devblogs.microsoft.com/typescript/announcing-typescript-5-5/)
+- [Lockheed Martin delivers 2,700th C-130 Hercules](https://ukdefencejournal.org.uk/lockheed-martin-delivers-2700th-c-130-hercules/)
+- [Show HN: Clockech − The analytics platform for modern websites](https://www.clockech.com/)
+- [China-U.S. Electronic Warfare Erupts, Seen as China&#39;s GPS Interference Rehearsal](https://www.china-arms.com/2024/07/china-us-electronic-warfare/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [The Biggest Problem in Mathematics Is Finally a Step Closer to Being Solved](https://www.scientificamerican.com/article/the-riemann-hypothesis-the-biggest-problem-in-mathematics-is-a-step-closer/)
-- [Neuroscientists must not be afraid to study religion](https://www.nature.com/articles/d41586-024-02153-7)
-- [Chinese AI stirs panic at European geoscience society](https://www.science.org/content/article/chinese-ai-stirs-panic-european-geoscience-society)
-- [HuggingFace releases support for tool-use and RAG models](https://github.com/huggingface/transformers/releases/tag/v4.42.0)
-- [The Rise of Packet Rate Attacks: When Core Routers Turn Evil](https://blog.ovhcloud.com/the-rise-of-packet-rate-attacks-when-core-routers-turn-evil/)
-- [What makes e natural? &lpar;2004&rpar;](https://www.komal.hu/cikkek/2004-ang/e.e.shtml)
-- [The Illustrated Transformer &lpar;2018&rpar;](https://jalammar.github.io/illustrated-transformer/)
-- [Brazil data regulator bans Meta from mining data to train AI models](https://apnews.com/article/brazil-tech-meta-privacy-data-93e00b2e0e26f7cc98795dd052aea8e1)
-- [All I want for Christmas is a negative leap second](https://qntm.org/leap)
-- [The Queen&#39;s Doll&#39;s House](https://clairelevans.substack.com/p/the-queens-dolls-house)
+- [Introduction to Program Synthesis](https://people.csail.mit.edu/asolar/SynthesisCourse/Lecture1.htm)
+- [Wordsworth Donisthorpe, Blackmail, and the First Motion Pictures](https://publicdomainreview.org/essay/wordsworth-donisthorpe-blackmail-and-the-first-motion-pictures/)
+- [A Woman Behind Freud&#39;s First Case Study](https://newrepublic.com/article/182270/anna-o-freud-woman-behind-first-case-study)
+- [The Origins of DS_store &lpar;2006&rpar;](https://www.arno.org/on-the-origins-of-ds-store)
+- [Beating NumPy matrix multiplication in 150 lines of C](https://salykova.github.io/matmul-cpu)
+- [The Joy of Reading Books You Don&#39;t Understand](https://reactormag.com/the-joy-of-reading-books-you-dont-entirely-understand/)
+- [Show HN: Xcapture-BPF – like Linux top, but with Xray vision](https://0x.tools/)
+- [Show HN: Open Sourcing Our No-Code WebXR Editor After 5 Years of Development](https://github.com/transferthought/transfer-thought)
+- [AI&#39;s $600B Question](https://www.sequoiacap.com/article/ais-600b-question/)
+- [Wcurl: a curl wrapper to download files](https://samueloph.dev/blog/announcing-wcurl-a-curl-wrapper-to-download-files/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

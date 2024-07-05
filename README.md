@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Benedict Coulter who cut the first trailer for Beverly Hills Cop, does for 2024](https://deadline.com/2024/07/beverly-hills-cop-axel-f-throwback-trailer-netflix-1235998619/)
-- [Diffusion Forcing: Next-Token Prediction Meets Full-Sequence Diffusion](https://boyuan.space/diffusion-forcing/)
-- [Show HN: Containerized security-focused terminal IDE](https://github.com/legobeat/l7-devenv)
-- [AWS wins $2B contract for Australian military top secret region build](https://www.abc.net.au/news/2024-07-04/amazon-contract-top-secret-australian-military-intelligence/104057196)
-- [The maths that drives AI](https://www.nature.com/articles/d41586-024-02185-z)
-- [&#39;We&#39;re not stuck.&#39; Why Boeing&#39;s Starliner isn&#39;t returning to Earth &lpar;yet&rpar;](https://text.npr.org/nx-s1-5026448)
-- [TypeScript 5.5](https://devblogs.microsoft.com/typescript/announcing-typescript-5-5/)
-- [Lockheed Martin delivers 2,700th C-130 Hercules](https://ukdefencejournal.org.uk/lockheed-martin-delivers-2700th-c-130-hercules/)
-- [Show HN: Clockech − The analytics platform for modern websites](https://www.clockech.com/)
-- [China-U.S. Electronic Warfare Erupts, Seen as China&#39;s GPS Interference Rehearsal](https://www.china-arms.com/2024/07/china-us-electronic-warfare/)
+- [Can you change state in a const function in C++? Why?](https://bytesandlogs.me/can-you-change-state-in-const-function-in-cpp/)
+- [Show HN: Bitcoin Smart Contract SDK, So Easy to Use](https://github.com/ChrisCho-H/bitcoin-sdk-js)
+- [AI Generated Art and Music](https://ai.gopubby.com/ai-generated-art-and-music-45ca497bacfb)
+- [Google Researchers Publish Paper About How AI Is Ruining the Internet](https://futurism.com/the-byte/google-researchers-paper-ai-internet)
+- [Multiple nations enact mysterious export controls on quantum computers](https://www.newscientist.com/article/2436023-multiple-nations-enact-mysterious-export-controls-on-quantum-computers/)
+- [Optimizing Amazon Simple Queue Service &lpar;SQS&rpar; for Speed and Scale](https://aws.amazon.com/blogs/aws/optimizing-amazon-simple-queue-service-sqs-for-speed-and-scale/)
+- [Fighting Distractions as a Software Developer](https://shiftmag.dev/fighting-distractions-as-a-software-developer-3175/)
+- [A Guide to Hot Code Reloading in Elixir](https://blog.appsignal.com/2021/07/27/a-guide-to-hot-code-reloading-in-elixir.html)
+- [The Republic of Indian Stream](https://en.wikipedia.org/wiki/Republic_of_Indian_Stream)
+- [Welcome to the Nextpart AI Wiki](https://nextpart-ai.fandom.com/wiki/Nextpart_AI_Wiki)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

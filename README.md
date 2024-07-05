@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Introduction to Program Synthesis](https://people.csail.mit.edu/asolar/SynthesisCourse/Lecture1.htm)
-- [Wordsworth Donisthorpe, Blackmail, and the First Motion Pictures](https://publicdomainreview.org/essay/wordsworth-donisthorpe-blackmail-and-the-first-motion-pictures/)
-- [A Woman Behind Freud&#39;s First Case Study](https://newrepublic.com/article/182270/anna-o-freud-woman-behind-first-case-study)
-- [The Origins of DS_store &lpar;2006&rpar;](https://www.arno.org/on-the-origins-of-ds-store)
-- [Beating NumPy matrix multiplication in 150 lines of C](https://salykova.github.io/matmul-cpu)
-- [The Joy of Reading Books You Don&#39;t Understand](https://reactormag.com/the-joy-of-reading-books-you-dont-entirely-understand/)
-- [Show HN: Xcapture-BPF – like Linux top, but with Xray vision](https://0x.tools/)
-- [Show HN: Open Sourcing Our No-Code WebXR Editor After 5 Years of Development](https://github.com/transferthought/transfer-thought)
-- [AI&#39;s $600B Question](https://www.sequoiacap.com/article/ais-600b-question/)
-- [Wcurl: a curl wrapper to download files](https://samueloph.dev/blog/announcing-wcurl-a-curl-wrapper-to-download-files/)
+- [Multiple nations enact mysterious export controls on quantum computers](https://www.newscientist.com/article/2436023-multiple-nations-enact-mysterious-export-controls-on-quantum-computers/)
+- [Bone tissue reparation using coral and marine sponges](https://web.stanford.edu/group/mota/education/Physics%2087N%20Final%20Projects/Group%20Gamma/bone.htm)
+- [Even The Pentagon can&#39;t freeze Huawei out of its operations](https://fortune.com/asia/2024/07/03/pentagon-huawei-ban-national-defense-authorization-act/)
+- [The Snapdragon X Elite&#39;s Adreno iGPU](https://chipsandcheese.com/2024/07/04/the-snapdragon-x-elites-adreno-igpu/)
+- [Rollstack &lpar;YC W23&rpar; Is Hiring TypeScript Engineers in Europe](https://www.ycombinator.com/companies/rollstack-2/jobs/)
+- [NexDock turns your smartphone into a laptop](https://nexdock.com/)
+- [Japan introduces enormous humanoid robot to maintain train lines](https://www.theguardian.com/world/article/2024/jul/04/japan-train-robot-maintain-railway-lines)
+- [Batteries: How cheap can they get?](https://aukehoekstra.substack.com/p/batteries-how-cheap-can-they-get)
+- [Insights from over 10,000 comments on &quot;Ask HN: Who Is Hiring&quot; using GPT-4o](https://tamerc.com/posts/ask-hn-who-is-hiring/)
+- [Gravitational wave researchers cast new light on Antikythera mechanism mystery](https://www.gla.ac.uk/news/headline_1086643_en.html)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

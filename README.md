@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Will France fall to the far right? – podcast](https://www.theguardian.com/news/audio/2024/jul/04/will-france-fall-to-the-far-right-podcast)
-- [Governors admit worries but rally behind Biden after meeting: ‘We have his back’](https://www.theguardian.com/us-news/article/2024/jul/03/biden-democrats-governors-support)
-- [Ukraine war briefing: Day of mourning in Dnipro after Russian attack on schools and hospitals](https://www.theguardian.com/world/article/2024/jul/04/ukraine-war-briefing-day-of-mourning-in-dnipro-after-russian-attack-on-schools-and-hospitals)
-- [Who is Biden’s biggest fan? The answer may surprise you | Fiona Katauskas](https://www.theguardian.com/commentisfree/picture/2024/jul/04/who-is-bidens-biggest-fan-the-answer-may-surprise-you)
-- [Nearly 30,000 people in northern California evacuated as raging wildfire spreads](https://www.theguardian.com/us-news/article/2024/jul/03/california-thompson-wildfire)
-- [California neo-Nazi found guilty of murder of former classmate](https://www.theguardian.com/us-news/article/2024/jul/03/california-samuel-woodward-guilty-murder)
-- [Keir Starmer hails ‘new age of hope’ as Rishi Sunak fears losing seat](https://www.theguardian.com/politics/article/2024/jul/04/keir-starmer-hails-new-age-of-hope-as-rishi-sunak-fears-losing-seat)
-- [Jannik Sinner outplays and outfoxes Berrettini to reach third round](https://www.theguardian.com/sport/article/2024/jul/03/jannik-sinner-outplays-and-outfoxes-berrettini-to-reach-third-round)
-- [Gretchen Whitmer wants to meet far-right plotters who tried to kill her, book reveals](https://www.theguardian.com/books/article/2024/jul/03/gretchen-whitmer-memoir-far-right-plot)
-- [Emma Raducanu says she did not know general election vote was on Thursday](https://www.theguardian.com/sport/article/2024/jul/03/emma-raducanu-claims-ignorance-of-general-election-and-says-she-will-lie-in)
+- [UK election live news: Grant Shapps and Alex Chalk lose seats in Tory wipeout as Keir Starmer says it is time for Labour ‘to deliver’](https://www.theguardian.com/politics/live/2024/jul/04/general-election-2024-uk-live-labour-tories-starmer-sunak-results-exit-poll)
+- [Argentina v Ecuador: Copa América 2024 quarter-final – live](https://www.theguardian.com/football/live/2024/jul/04/argentina-v-ecuador-copa-america-2024-live)
+- [WBC expels Ryan Garcia after boxer’s racist and Islamophobic slurs on social media](https://www.theguardian.com/sport/article/2024/jul/04/wbc-expels-ryan-garcia-after-boxers-racist-and-islamophobic-slurs-on-social-media)
+- [India PM Modi to meet Putin in first trip to Russia since Ukraine war began](https://www.theguardian.com/world/article/2024/jul/05/india-pm-narendra-modi-vladimir-putin-russia-meeting)
+- [Nigel Farage hails Reform UK’s ‘almost unbelievable’ results in north-east England](https://www.theguardian.com/politics/article/2024/jul/04/reform-party-on-brink-of-seismic-breakthrough-after-exit-poll-predicts-up-to-13-seats)
+- [The seconds ticked by to 10pm, when the people’s will would be revealed | John Crace](https://www.theguardian.com/politics/article/2024/jul/04/the-seconds-ticked-by-to-10pm-when-the-peoples-will-would-be-revealed)
+- [At least 89 migrants dead after boat capsizes off Mauritania, state news agency says](https://www.theguardian.com/world/article/2024/jul/05/at-least-89-migrants-dead-after-boat-capsizes-off-mauritania-state-news-agency-says)
+- [End of an era for New Zealand media as Newshub set to air final bulletin](https://www.theguardian.com/media/article/2024/jul/05/end-of-an-era-for-new-zealand-media-as-newshub-set-to-air-final-bulletin)
+- [Ukraine war briefing: Ukrainian army confirms retreat from part of key town of Chasiv Yar](https://www.theguardian.com/world/article/2024/jul/05/ukraine-war-briefing-ukrainian-army-confirms-retreat-from-part-of-key-town-of-chasiv-yar)
+- [Tories reeling from ‘catastrophic’ election poll forecast](https://www.theguardian.com/politics/article/2024/jul/04/tories-reeling-from-catastrophic-election-poll-forecast)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Multiple nations enact mysterious export controls on quantum computers](https://www.newscientist.com/article/2436023-multiple-nations-enact-mysterious-export-controls-on-quantum-computers/)
-- [Bone tissue reparation using coral and marine sponges](https://web.stanford.edu/group/mota/education/Physics%2087N%20Final%20Projects/Group%20Gamma/bone.htm)
-- [Even The Pentagon can&#39;t freeze Huawei out of its operations](https://fortune.com/asia/2024/07/03/pentagon-huawei-ban-national-defense-authorization-act/)
-- [The Snapdragon X Elite&#39;s Adreno iGPU](https://chipsandcheese.com/2024/07/04/the-snapdragon-x-elites-adreno-igpu/)
-- [Rollstack &lpar;YC W23&rpar; Is Hiring TypeScript Engineers in Europe](https://www.ycombinator.com/companies/rollstack-2/jobs/)
-- [NexDock turns your smartphone into a laptop](https://nexdock.com/)
-- [Japan introduces enormous humanoid robot to maintain train lines](https://www.theguardian.com/world/article/2024/jul/04/japan-train-robot-maintain-railway-lines)
-- [Batteries: How cheap can they get?](https://aukehoekstra.substack.com/p/batteries-how-cheap-can-they-get)
-- [Insights from over 10,000 comments on &quot;Ask HN: Who Is Hiring&quot; using GPT-4o](https://tamerc.com/posts/ask-hn-who-is-hiring/)
-- [Gravitational wave researchers cast new light on Antikythera mechanism mystery](https://www.gla.ac.uk/news/headline_1086643_en.html)
+- [Code a DOOM-like game engine from scratch in C [PART I]](https://www.youtube.com/watch?v=p7f9p9nDsmc)
+- [Preserving a floppy disk with a logic analyzer and a serial cable](https://www.chzsoft.de/site/hardware/preserving-a-floppy-disk-with-a-logic-analyzer/)
+- [Antidotes for Melancholy in Early Modern England](https://www.folger.edu/blogs/collation/better-than-a-pound-of-sorrow/)
+- [War on citizens: How the junta&#39;s VPN ban is strangling communication in Myanmar](https://globalvoices.org/2024/06/28/war-on-citizens-how-the-juntas-vpn-ban-is-strangling-communication-in-myanmar/)
+- [Tao Te Ching translated by Ursula Le Guin &lpar;1997&rpar;](https://github.com/nrrb/tao-te-ching/blob/master/Ursula%20K%20Le%20Guin.md)
+- [Emerge Tools &lpar;YC W21&rpar; Is Hiring a Product Engineer &lpar;iOS, Full-Stack&rpar;](https://www.emergetools.com/careers/jobs/product-engineer-ios-full-stack)
+- [DuckDB Community Extensions](https://duckdb.org/2024/07/05/community-extensions.html)
+- [YouTube&#39;s eraser tool removes copyrighted music without impacting other audio](https://techcrunch.com/2024/07/05/youtubes-updated-eraser-tool-removes-copyrighted-music-without-impacting-other-audio/)
+- [PostgreSQL and UUID as Primary Key](https://maciejwalkowiak.com/blog/postgres-uuid-primary-key/)
+- [Volcanoes can affect climate](https://www.usgs.gov/programs/VHP/volcanoes-can-affect-climate)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

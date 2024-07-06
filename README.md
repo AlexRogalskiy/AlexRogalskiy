@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Can you change state in a const function in C++? Why?](https://bytesandlogs.me/can-you-change-state-in-const-function-in-cpp/)
-- [Show HN: Bitcoin Smart Contract SDK, So Easy to Use](https://github.com/ChrisCho-H/bitcoin-sdk-js)
-- [AI Generated Art and Music](https://ai.gopubby.com/ai-generated-art-and-music-45ca497bacfb)
-- [Google Researchers Publish Paper About How AI Is Ruining the Internet](https://futurism.com/the-byte/google-researchers-paper-ai-internet)
-- [Multiple nations enact mysterious export controls on quantum computers](https://www.newscientist.com/article/2436023-multiple-nations-enact-mysterious-export-controls-on-quantum-computers/)
-- [Optimizing Amazon Simple Queue Service &lpar;SQS&rpar; for Speed and Scale](https://aws.amazon.com/blogs/aws/optimizing-amazon-simple-queue-service-sqs-for-speed-and-scale/)
-- [Fighting Distractions as a Software Developer](https://shiftmag.dev/fighting-distractions-as-a-software-developer-3175/)
-- [A Guide to Hot Code Reloading in Elixir](https://blog.appsignal.com/2021/07/27/a-guide-to-hot-code-reloading-in-elixir.html)
-- [The Republic of Indian Stream](https://en.wikipedia.org/wiki/Republic_of_Indian_Stream)
-- [Welcome to the Nextpart AI Wiki](https://nextpart-ai.fandom.com/wiki/Nextpart_AI_Wiki)
+- [Properly Testing Concurrent Data Structures](https://matklad.github.io/2024/07/05/properly-testing-concurrent-data-structures.html)
+- [Embed the resource files into the executable program](https://github.com/webd90kb/webd/tree/master/codes/scripts/embed_file_c)
+- [The browser redirecting virus is out of control](https://news.ycombinator.com/item?id=40887684)
+- [Show HN: Listen to Mechanical Keyboard Sounds with Every Keystroke – It&#39;s Fast](https://github.com/ZacharyL2/KeyEcho)
+- [A Hacker Stole OpenAI Secrets, Raising Fears That China Could, Too](https://www.nytimes.com/2024/07/04/technology/openai-hack.html)
+- [How I avoid document clutter with paperless-ngx and Synology Container Manager](https://outlore.dev/blog/paperless-ngx/)
+- [Ask HN: What is the threshold for being a techie?](https://news.ycombinator.com/item?id=40887571)
+- [Tour de France time trial helmets, ranked by how little I&#39;d like to be in them](https://escapecollective.com/tour-de-france-time-trial-helmets-ranked-by-how-little-i-would-like-to-be-in-them/)
+- [Temporary star from historical documents recreated using new computer model](https://phys.org/news/2024-07-elusive-temporary-star-historical-documents.html)
+- [Shadcn Just Launched Charts](https://twitter.com/shadcn/status/1809352140147900447)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

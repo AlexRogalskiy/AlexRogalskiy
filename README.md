@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [UK election live news: Grant Shapps and Alex Chalk lose seats in Tory wipeout as Keir Starmer says it is time for Labour ‘to deliver’](https://www.theguardian.com/politics/live/2024/jul/04/general-election-2024-uk-live-labour-tories-starmer-sunak-results-exit-poll)
-- [Argentina v Ecuador: Copa América 2024 quarter-final – live](https://www.theguardian.com/football/live/2024/jul/04/argentina-v-ecuador-copa-america-2024-live)
-- [WBC expels Ryan Garcia after boxer’s racist and Islamophobic slurs on social media](https://www.theguardian.com/sport/article/2024/jul/04/wbc-expels-ryan-garcia-after-boxers-racist-and-islamophobic-slurs-on-social-media)
-- [India PM Modi to meet Putin in first trip to Russia since Ukraine war began](https://www.theguardian.com/world/article/2024/jul/05/india-pm-narendra-modi-vladimir-putin-russia-meeting)
-- [Nigel Farage hails Reform UK’s ‘almost unbelievable’ results in north-east England](https://www.theguardian.com/politics/article/2024/jul/04/reform-party-on-brink-of-seismic-breakthrough-after-exit-poll-predicts-up-to-13-seats)
-- [The seconds ticked by to 10pm, when the people’s will would be revealed | John Crace](https://www.theguardian.com/politics/article/2024/jul/04/the-seconds-ticked-by-to-10pm-when-the-peoples-will-would-be-revealed)
-- [At least 89 migrants dead after boat capsizes off Mauritania, state news agency says](https://www.theguardian.com/world/article/2024/jul/05/at-least-89-migrants-dead-after-boat-capsizes-off-mauritania-state-news-agency-says)
-- [End of an era for New Zealand media as Newshub set to air final bulletin](https://www.theguardian.com/media/article/2024/jul/05/end-of-an-era-for-new-zealand-media-as-newshub-set-to-air-final-bulletin)
-- [Ukraine war briefing: Ukrainian army confirms retreat from part of key town of Chasiv Yar](https://www.theguardian.com/world/article/2024/jul/05/ukraine-war-briefing-ukrainian-army-confirms-retreat-from-part-of-key-town-of-chasiv-yar)
-- [Tories reeling from ‘catastrophic’ election poll forecast](https://www.theguardian.com/politics/article/2024/jul/04/tories-reeling-from-catastrophic-election-poll-forecast)
+- [Venezuela v Canada: Copa América 2024 quarter-finals – live updates](https://www.theguardian.com/football/live/2024/jul/05/venezuela-v-canada-copa-america-2024-quarter-finals-live-updates)
+- [Biden says only ‘the Lord almighty’ could make him drop out in pivotal TV interview](https://www.theguardian.com/us-news/article/2024/jul/05/biden-george-stephanopoulos-debate-interview)
+- [Spain end Germany’s dream and France squeeze past Portugal – Football Daily](https://www.theguardian.com/football/audio/2024/jul/06/spain-germany-france-portugal-euro-2024-football-daily-podcast)
+- [Ukraine war briefing: Starmer assures Zelenskiy of ‘unwavering’ support](https://www.theguardian.com/world/article/2024/jul/06/ukraine-war-briefing-starmer-assures-zelenskiy-of-unwavering-support)
+- [Donald Trump attempting to claim to ‘know nothing’ about Project 2025](https://www.theguardian.com/us-news/article/2024/jul/05/donald-trump-project-2025)
+- [Serena Williams thanks Andy Murray for ‘speaking out for women’ in tribute](https://www.theguardian.com/sport/article/2024/jul/05/serena-williams-tribute-andy-murray-women-tennis)
+- [Portugal v France: a galactic battle lost in the black hole of one man’s ego](https://www.theguardian.com/football/article/2024/jul/05/portugal-v-france-a-galaxy-sized-occasion-sucked-into-the-black-hole-of-one-mans-ego)
+- [Théo Hernandez hits the spot as France beat Portugal in shootout to progress](https://www.theguardian.com/football/article/2024/jul/05/portugal-france-euro-2024-quarter-final-match-report)
+- [Hackers leak alleged Taylor Swift ticket data to extort Ticketmaster](https://www.theguardian.com/us-news/article/2024/jul/05/taylor-swift-eras-tour-ticketmaster-hack-ransom)
+- [Southgate won’t tell Bellingham to change after midfielder’s punishment](https://www.theguardian.com/football/article/2024/jul/05/southgate-wont-tell-bellingham-to-change-after-midfielders-punishment)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Properly Testing Concurrent Data Structures](https://matklad.github.io/2024/07/05/properly-testing-concurrent-data-structures.html)
-- [Embed the resource files into the executable program](https://github.com/webd90kb/webd/tree/master/codes/scripts/embed_file_c)
-- [The browser redirecting virus is out of control](https://news.ycombinator.com/item?id=40887684)
-- [Show HN: Listen to Mechanical Keyboard Sounds with Every Keystroke – It&#39;s Fast](https://github.com/ZacharyL2/KeyEcho)
-- [A Hacker Stole OpenAI Secrets, Raising Fears That China Could, Too](https://www.nytimes.com/2024/07/04/technology/openai-hack.html)
-- [How I avoid document clutter with paperless-ngx and Synology Container Manager](https://outlore.dev/blog/paperless-ngx/)
-- [Ask HN: What is the threshold for being a techie?](https://news.ycombinator.com/item?id=40887571)
-- [Tour de France time trial helmets, ranked by how little I&#39;d like to be in them](https://escapecollective.com/tour-de-france-time-trial-helmets-ranked-by-how-little-i-would-like-to-be-in-them/)
-- [Temporary star from historical documents recreated using new computer model](https://phys.org/news/2024-07-elusive-temporary-star-historical-documents.html)
-- [Shadcn Just Launched Charts](https://twitter.com/shadcn/status/1809352140147900447)
+- [Esports World Cup: tournament in Saudi Arabia causing division in the industry](https://www.cnn.com/2024/07/06/sport/esports-world-cup-saudi-arabia-spt-intl/index.html)
+- [Joe Rogan Experience #2171 – Eric Weinstein and Terrence Howard [video]](https://www.youtube.com/watch?v=nrOaFxNex7U)
+- [Tracking Fireworks Impact on Fourth of July AQI](https://danny.page/views/tracking-fireworks-on-july-4th)
+- [The Urban Nomad: Portable, Mobile, Compact Lifestyle](https://lunahelia.com/article/the-urban-nomad-portable-mobile-compact-lifestyle)
+- [Overview of JPEG XL](https://jpeg.org/jpegxl/)
+- [Being a good neighbor..what does it mean?](https://news.ycombinator.com/item?id=40894611)
+- [Has anyone moved from full stack development to Data Engineering?](https://news.ycombinator.com/item?id=40894610)
+- [Native American Labor Market Dashboard](https://www.minneapolisfed.org/indiancountry/resources/native-american-labor-market-dashboard)
+- [The Next New Thing: architecture&#39;s gulf between the traditional and the modern](https://theamericanscholar.org/the-next-new-thing-2/)
+- [Algorithms by Jeff Erickson [pdf]](https://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

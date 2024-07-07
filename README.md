@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Venezuela v Canada: Copa América 2024 quarter-finals – live updates](https://www.theguardian.com/football/live/2024/jul/05/venezuela-v-canada-copa-america-2024-quarter-finals-live-updates)
-- [Biden says only ‘the Lord almighty’ could make him drop out in pivotal TV interview](https://www.theguardian.com/us-news/article/2024/jul/05/biden-george-stephanopoulos-debate-interview)
-- [Spain end Germany’s dream and France squeeze past Portugal – Football Daily](https://www.theguardian.com/football/audio/2024/jul/06/spain-germany-france-portugal-euro-2024-football-daily-podcast)
-- [Ukraine war briefing: Starmer assures Zelenskiy of ‘unwavering’ support](https://www.theguardian.com/world/article/2024/jul/06/ukraine-war-briefing-starmer-assures-zelenskiy-of-unwavering-support)
-- [Donald Trump attempting to claim to ‘know nothing’ about Project 2025](https://www.theguardian.com/us-news/article/2024/jul/05/donald-trump-project-2025)
-- [Serena Williams thanks Andy Murray for ‘speaking out for women’ in tribute](https://www.theguardian.com/sport/article/2024/jul/05/serena-williams-tribute-andy-murray-women-tennis)
-- [Portugal v France: a galactic battle lost in the black hole of one man’s ego](https://www.theguardian.com/football/article/2024/jul/05/portugal-v-france-a-galaxy-sized-occasion-sucked-into-the-black-hole-of-one-mans-ego)
-- [Théo Hernandez hits the spot as France beat Portugal in shootout to progress](https://www.theguardian.com/football/article/2024/jul/05/portugal-france-euro-2024-quarter-final-match-report)
-- [Hackers leak alleged Taylor Swift ticket data to extort Ticketmaster](https://www.theguardian.com/us-news/article/2024/jul/05/taylor-swift-eras-tour-ticketmaster-hack-ransom)
-- [Southgate won’t tell Bellingham to change after midfielder’s punishment](https://www.theguardian.com/football/article/2024/jul/05/southgate-wont-tell-bellingham-to-change-after-midfielders-punishment)
+- [Uruguay v Brazil: Copa América 2024 quarter-final – live](https://www.theguardian.com/football/live/2024/jul/07/uruguay-v-brazil-copa-america-2024-quarter-final-live)
+- [Ukraine war briefing: Russian shelling kills three in Kherson region as road crash in west leaves 14 dead](https://www.theguardian.com/world/article/2024/jul/07/ukraine-war-briefing-russian-shelling-kills-three-in-kherson-region-as-road-crash-in-west-leaves-14-dead)
+- [England hold nerve to sink Swiss and set up Netherlands clash – Football Daily](https://www.theguardian.com/football/audio/2024/jul/07/england-hold-nerve-to-sink-swiss-and-set-up-netherlands-clash-football-daily)
+- [We Love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2024/jul/06/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Bermuda moods: summer’s chicest shorts are knee length](https://www.theguardian.com/fashion/article/2024/jul/06/bermuda-moods-summers-chicest-shorts-are-knee-length)
+- [Normal service resumed as Weghorst brings order from chaos for Netherlands | Jonathan Wilson](https://www.theguardian.com/football/article/2024/jul/06/normal-service-has-resumed-weghorst-brings-order-out-of-chaos-for-netherlands)
+- [Independent Muslim who beat Labour in Leicester says victory was not ‘sectarian’](https://www.theguardian.com/politics/article/2024/jul/06/shockat-adam-independent-muslim-mp-leicester-south-victory-not-sectarian)
+- [Jon Landau, Oscar-winning Titanic and Avatar producer, dies aged 63](https://www.theguardian.com/film/article/2024/jul/06/jon-landau-titanic-avatar-dies-aged-63)
+- [‘I wasn’t focusing on the past – only on now’: Saka revels in penalty redemption](https://www.theguardian.com/football/article/2024/jul/06/bukayo-saka-england-switzerland-penalty-shootout-euro-2024)
+- [Heavy rain could disrupt Sunday’s Wimbledon and British Grand Prix](https://www.theguardian.com/uk-news/article/2024/jul/06/heavy-rain-could-disrupt-sundays-wimbledon-and-british-grand-prix)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

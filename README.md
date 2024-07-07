@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Code a DOOM-like game engine from scratch in C [PART I]](https://www.youtube.com/watch?v=p7f9p9nDsmc)
-- [Preserving a floppy disk with a logic analyzer and a serial cable](https://www.chzsoft.de/site/hardware/preserving-a-floppy-disk-with-a-logic-analyzer/)
-- [Antidotes for Melancholy in Early Modern England](https://www.folger.edu/blogs/collation/better-than-a-pound-of-sorrow/)
-- [War on citizens: How the junta&#39;s VPN ban is strangling communication in Myanmar](https://globalvoices.org/2024/06/28/war-on-citizens-how-the-juntas-vpn-ban-is-strangling-communication-in-myanmar/)
-- [Tao Te Ching translated by Ursula Le Guin &lpar;1997&rpar;](https://github.com/nrrb/tao-te-ching/blob/master/Ursula%20K%20Le%20Guin.md)
-- [Emerge Tools &lpar;YC W21&rpar; Is Hiring a Product Engineer &lpar;iOS, Full-Stack&rpar;](https://www.emergetools.com/careers/jobs/product-engineer-ios-full-stack)
-- [DuckDB Community Extensions](https://duckdb.org/2024/07/05/community-extensions.html)
-- [YouTube&#39;s eraser tool removes copyrighted music without impacting other audio](https://techcrunch.com/2024/07/05/youtubes-updated-eraser-tool-removes-copyrighted-music-without-impacting-other-audio/)
-- [PostgreSQL and UUID as Primary Key](https://maciejwalkowiak.com/blog/postgres-uuid-primary-key/)
-- [Volcanoes can affect climate](https://www.usgs.gov/programs/VHP/volcanoes-can-affect-climate)
+- [Read Hacker News on Kindle &lpar;2022&rpar;](https://ktool.io/hacker-news-to-kindle)
+- [Show HN: A free minimalist daily habit tracker](https://rdht.vercel.app/)
+- [What causes migraines? Study of &#39;brain blackout&#39; offers clues](https://www.nature.com/articles/d41586-024-02222-x)
+- [RISC-V Emulator for Sophgo SG2000 SoC &lpar;Pine64 Oz64 / Milk-V Duo S&rpar;](https://lupyuen.codeberg.page/articles/sg2000b.html)
+- [Charge Robotics &lpar;YC S21&rpar; is hiring full-stack devs to deploy solar robots](https://www.ycombinator.com/companies/charge-robotics/jobs/gbIFjoq-senior-software-engineer-full-stack)
+- [Speeding up the JavaScript ecosystem – Isolated Declarations](https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-10/)
+- [Show HN: YTHunt, App for recommending/discovering interesting videos](https://www.ythunt.com/)
+- [Ask HN: Where are the good resources for learning audio processing?](https://news.ycombinator.com/item?id=40892812)
+- [Against the burden of knowledge](https://www.theseedsofscience.pub/p/against-the-burden-of-knowledge)
+- [How to think in writing](https://www.henrikkarlsson.xyz/p/writing-to-think)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

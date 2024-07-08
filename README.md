@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Uruguay v Brazil: Copa América 2024 quarter-final – live](https://www.theguardian.com/football/live/2024/jul/07/uruguay-v-brazil-copa-america-2024-quarter-final-live)
-- [Ukraine war briefing: Russian shelling kills three in Kherson region as road crash in west leaves 14 dead](https://www.theguardian.com/world/article/2024/jul/07/ukraine-war-briefing-russian-shelling-kills-three-in-kherson-region-as-road-crash-in-west-leaves-14-dead)
-- [England hold nerve to sink Swiss and set up Netherlands clash – Football Daily](https://www.theguardian.com/football/audio/2024/jul/07/england-hold-nerve-to-sink-swiss-and-set-up-netherlands-clash-football-daily)
-- [We Love: Fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2024/jul/06/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Bermuda moods: summer’s chicest shorts are knee length](https://www.theguardian.com/fashion/article/2024/jul/06/bermuda-moods-summers-chicest-shorts-are-knee-length)
-- [Normal service resumed as Weghorst brings order from chaos for Netherlands | Jonathan Wilson](https://www.theguardian.com/football/article/2024/jul/06/normal-service-has-resumed-weghorst-brings-order-out-of-chaos-for-netherlands)
-- [Independent Muslim who beat Labour in Leicester says victory was not ‘sectarian’](https://www.theguardian.com/politics/article/2024/jul/06/shockat-adam-independent-muslim-mp-leicester-south-victory-not-sectarian)
-- [Jon Landau, Oscar-winning Titanic and Avatar producer, dies aged 63](https://www.theguardian.com/film/article/2024/jul/06/jon-landau-titanic-avatar-dies-aged-63)
-- [‘I wasn’t focusing on the past – only on now’: Saka revels in penalty redemption](https://www.theguardian.com/football/article/2024/jul/06/bukayo-saka-england-switzerland-penalty-shootout-euro-2024)
-- [Heavy rain could disrupt Sunday’s Wimbledon and British Grand Prix](https://www.theguardian.com/uk-news/article/2024/jul/06/heavy-rain-could-disrupt-sundays-wimbledon-and-british-grand-prix)
+- [Temperatures 1.5C above pre-industrial era average for 12 months, data shows](https://www.theguardian.com/environment/article/2024/jul/08/temperatures-1-point-5c-above-pre-industrial-era-average-for-12-months-data-shows)
+- [Keir Starmer’s first weekend in power - podcast](https://www.theguardian.com/news/audio/2024/jul/08/keir-starmers-first-weekend-in-power-podcast)
+- [Ukraine war briefing: Chinese troops hold military exercises with Belarus on Polish border](https://www.theguardian.com/world/article/2024/jul/08/ukraine-war-briefing-chinese-troops-hold-military-exercises-with-belarus-on-polish-border)
+- [Pistols Napoleon planned to use to kill himself sold in France for €1.7m](https://www.theguardian.com/world/article/2024/jul/08/napoleon-pistols-planned-kill-himself-sold-auction-fontainebleau-paris)
+- [England players banned from discussing penalty tactics at Euro 2024](https://www.theguardian.com/football/article/2024/jul/08/england-penalty-tactics-euro-2024)
+- [Biden insists he can reunite US as high-profile Democrats reportedly want him to quit race](https://www.theguardian.com/us-news/article/2024/jul/07/biden-harris-election-democrats-schiff)
+- [Skeleton Crew review – America’s precariat show grit in the face of crisis](https://www.theguardian.com/stage/article/2024/jul/08/skeleton-crew-review-donmar-warehouse-london)
+- [Rachel Reeves pledges to ‘fix foundations’ of UK economy with growth plan](https://www.theguardian.com/politics/article/2024/jul/08/rachel-reeves-fix-foundations-uk-economy-growth-plan)
+- [A hacked Game Boy, compliment battles, video games and Mr Blobby: the rise of UK nerdcore](https://www.theguardian.com/games/article/2024/jul/08/hacked-game-boy-mr-blobby-theme-hospital-video-game-nerdcore)
+- [Tropical storm Beryl expected to make landfall as powerful hurricane in Texas](https://www.theguardian.com/world/article/2024/jul/07/beryl-storm-landfall-south-texas-houston)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

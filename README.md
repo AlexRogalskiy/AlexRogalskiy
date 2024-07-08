@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Read Hacker News on Kindle &lpar;2022&rpar;](https://ktool.io/hacker-news-to-kindle)
-- [Show HN: A free minimalist daily habit tracker](https://rdht.vercel.app/)
-- [What causes migraines? Study of &#39;brain blackout&#39; offers clues](https://www.nature.com/articles/d41586-024-02222-x)
-- [RISC-V Emulator for Sophgo SG2000 SoC &lpar;Pine64 Oz64 / Milk-V Duo S&rpar;](https://lupyuen.codeberg.page/articles/sg2000b.html)
-- [Charge Robotics &lpar;YC S21&rpar; is hiring full-stack devs to deploy solar robots](https://www.ycombinator.com/companies/charge-robotics/jobs/gbIFjoq-senior-software-engineer-full-stack)
-- [Speeding up the JavaScript ecosystem – Isolated Declarations](https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-10/)
-- [Show HN: YTHunt, App for recommending/discovering interesting videos](https://www.ythunt.com/)
-- [Ask HN: Where are the good resources for learning audio processing?](https://news.ycombinator.com/item?id=40892812)
-- [Against the burden of knowledge](https://www.theseedsofscience.pub/p/against-the-burden-of-knowledge)
-- [How to think in writing](https://www.henrikkarlsson.xyz/p/writing-to-think)
+- [Show HN: Simulating 20M Particles in JavaScript](https://dgerrells.com/blog/how-fast-is-javascript-simulating-20-000-000-particles)
+- [Ecuador court rules pollution violates rights of a river running through capital](https://www.theguardian.com/world/article/2024/jul/07/ecuador-court-river-pollution-violates-rights)
+- [Continue &lpar;YC S23&rpar; Is Hiring a Full-Stack Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-full-stack-engineer)
+- [Unit is a general purpose visual programming system](https://unit.software/)
+- [ICANN&#39;s list of abandoned vanity TLDs](https://www.icann.org/resources/pages/gtld-registry-agreement-termination-2015-10-09-en)
+- [The internet is already over &lpar;2022&rpar;](https://samkriss.substack.com/p/the-internet-is-already-over)
+- [Modern-day spying: sometimes old technology is more secure](https://www.economist.com/technology-quarterly/2024/07/01/sometimes-the-old-ways-of-espionage-are-the-best)
+- [A brief history of liquid computers &lpar;2019&rpar;](https://royalsocietypublishing.org/doi/10.1098/rstb.2018.0372)
+- [Standard cells: Looking at individual gates in the Pentium processor](http://www.righto.com/2024/07/pentium-standard-cells.html)
+- [VDEv2: Virtual Distributed Ethernet](https://github.com/virtualsquare/vde-2)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

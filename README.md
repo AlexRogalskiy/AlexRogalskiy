@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Esports World Cup: tournament in Saudi Arabia causing division in the industry](https://www.cnn.com/2024/07/06/sport/esports-world-cup-saudi-arabia-spt-intl/index.html)
-- [Joe Rogan Experience #2171 – Eric Weinstein and Terrence Howard [video]](https://www.youtube.com/watch?v=nrOaFxNex7U)
-- [Tracking Fireworks Impact on Fourth of July AQI](https://danny.page/views/tracking-fireworks-on-july-4th)
-- [The Urban Nomad: Portable, Mobile, Compact Lifestyle](https://lunahelia.com/article/the-urban-nomad-portable-mobile-compact-lifestyle)
-- [Overview of JPEG XL](https://jpeg.org/jpegxl/)
-- [Being a good neighbor..what does it mean?](https://news.ycombinator.com/item?id=40894611)
-- [Has anyone moved from full stack development to Data Engineering?](https://news.ycombinator.com/item?id=40894610)
-- [Native American Labor Market Dashboard](https://www.minneapolisfed.org/indiancountry/resources/native-american-labor-market-dashboard)
-- [The Next New Thing: architecture&#39;s gulf between the traditional and the modern](https://theamericanscholar.org/the-next-new-thing-2/)
-- [Algorithms by Jeff Erickson [pdf]](https://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf)
+- [Nascar ABB reveal EV prototype and launch electrification innovation partnership](https://www.nascar.com/news-media/2024/07/06/nascar-abb-reveal-ev-prototype-and-launch-electrification-innovation-partnership/)
+- [AlgoGames: Play Games with Code](https://github.com/AlgoGames/AlgoGames)
+- [Hippies with guns: the culture of iain banks &lpar;video essay&rpar;](https://www.youtube.com/watch?v=0MOZubzNO6c)
+- [Show HN: Simulating 20M Particles in JavaScript](https://dgerrells.com/blog/how-fast-is-javascript-simulating-20-000-000-particles)
+- [Is Spotify using AI to make fake jazz music to fill up their playlists?](https://old.reddit.com/r/Jazz/s/QhJUU2zENf)
+- [Counting the dead in Gaza: difficult but essential](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)01169-3/fulltext)
+- [Platform Subsidence at Hangzhou East Station: Getting Off Feels Like Diving](https://www.cmgm.net/platform-subsidence-at-hangzhou-east-station/)
+- [Popular Prescription Weight Loss Drugs Linked to Uncommon Blinding Condition](https://www.massgeneralbrigham.org/en/about/newsroom/press-releases/popular-prescription-weight-loss-drugs-linked-to-uncommon-blinding-condition)
+- [Show HN: Overtalk – A free walkie-talkie for the web](https://overtalk.io)
+- [Samuel Newman&#39;s Concordance, and How &quot;Delve&quot; Changed the World](https://paulkedrosky.com/how-delve-changed-the-world-2/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

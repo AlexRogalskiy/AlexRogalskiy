@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Temperatures 1.5C above pre-industrial era average for 12 months, data shows](https://www.theguardian.com/environment/article/2024/jul/08/temperatures-1-point-5c-above-pre-industrial-era-average-for-12-months-data-shows)
-- [Keir Starmer’s first weekend in power - podcast](https://www.theguardian.com/news/audio/2024/jul/08/keir-starmers-first-weekend-in-power-podcast)
-- [Ukraine war briefing: Chinese troops hold military exercises with Belarus on Polish border](https://www.theguardian.com/world/article/2024/jul/08/ukraine-war-briefing-chinese-troops-hold-military-exercises-with-belarus-on-polish-border)
-- [Pistols Napoleon planned to use to kill himself sold in France for €1.7m](https://www.theguardian.com/world/article/2024/jul/08/napoleon-pistols-planned-kill-himself-sold-auction-fontainebleau-paris)
-- [England players banned from discussing penalty tactics at Euro 2024](https://www.theguardian.com/football/article/2024/jul/08/england-penalty-tactics-euro-2024)
-- [Biden insists he can reunite US as high-profile Democrats reportedly want him to quit race](https://www.theguardian.com/us-news/article/2024/jul/07/biden-harris-election-democrats-schiff)
-- [Skeleton Crew review – America’s precariat show grit in the face of crisis](https://www.theguardian.com/stage/article/2024/jul/08/skeleton-crew-review-donmar-warehouse-london)
-- [Rachel Reeves pledges to ‘fix foundations’ of UK economy with growth plan](https://www.theguardian.com/politics/article/2024/jul/08/rachel-reeves-fix-foundations-uk-economy-growth-plan)
-- [A hacked Game Boy, compliment battles, video games and Mr Blobby: the rise of UK nerdcore](https://www.theguardian.com/games/article/2024/jul/08/hacked-game-boy-mr-blobby-theme-hospital-video-game-nerdcore)
-- [Tropical storm Beryl expected to make landfall as powerful hurricane in Texas](https://www.theguardian.com/world/article/2024/jul/07/beryl-storm-landfall-south-texas-houston)
+- [France’s leftwing alliance beat the far right, but what now? – podcast](https://www.theguardian.com/news/audio/2024/jul/09/french-rivals-united-to-beat-the-far-right-what-now-podcast)
+- [Three dead and millions without power as Tropical Storm Beryl hits Texas](https://www.theguardian.com/world/article/2024/jul/08/hurricane-beryl-landfall-texas-coast-houston)
+- [Alleged Bolsonaro-linked crime ring sold official luxury gifts worth $1.2m, Brazil police claim](https://www.theguardian.com/world/article/2024/jul/09/alleged-bolsonaro-linked-ring-sold-official-luxury-gifts-worth-12m-brazil-police-claim)
+- [Mapped: the vast network of security deals spanning the Pacific, and what it means](https://www.theguardian.com/world/article/2024/jul/09/pacific-islands-security-deals-australia-usa-china)
+- [Bob’s Burgers actor Jay Johnston pleads guilty over role in Capitol attack](https://www.theguardian.com/us-news/article/2024/jul/08/bobs-burgers-jay-johnston-guilty)
+- [Chinese developers scramble as OpenAI blocks access in China](https://www.theguardian.com/world/article/2024/jul/09/chinese-developers-openai-blocks-access-in-china-artificial-intelligence)
+- [Conditions at UK immigration removal centre ‘worst inspectors have seen’](https://www.theguardian.com/uk-news/article/2024/jul/09/conditions-at-uk-immigration-removal-centre-worst-inspectors-have-seen)
+- [US heatwave tied to four Oregon deaths as temperature records are shattered](https://www.theguardian.com/environment/article/2024/jul/08/excessive-heat-wave-warning)
+- [NHS urged to prioritise cancer care basics over tech and AI ‘magic bullets’](https://www.theguardian.com/society/article/2024/jul/08/nhs-cancer-care-basics-over-tech-ai-magic-bullets)
+- [Craig Bellamy to take over as Wales manager and target World Cup spot](https://www.theguardian.com/football/article/2024/jul/08/craig-bellamy-to-take-over-as-wales-manager-and-target-world-cup-spot)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

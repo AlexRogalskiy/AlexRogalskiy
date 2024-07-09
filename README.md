@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Nascar ABB reveal EV prototype and launch electrification innovation partnership](https://www.nascar.com/news-media/2024/07/06/nascar-abb-reveal-ev-prototype-and-launch-electrification-innovation-partnership/)
-- [AlgoGames: Play Games with Code](https://github.com/AlgoGames/AlgoGames)
-- [Hippies with guns: the culture of iain banks &lpar;video essay&rpar;](https://www.youtube.com/watch?v=0MOZubzNO6c)
-- [Show HN: Simulating 20M Particles in JavaScript](https://dgerrells.com/blog/how-fast-is-javascript-simulating-20-000-000-particles)
-- [Is Spotify using AI to make fake jazz music to fill up their playlists?](https://old.reddit.com/r/Jazz/s/QhJUU2zENf)
-- [Counting the dead in Gaza: difficult but essential](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)01169-3/fulltext)
-- [Platform Subsidence at Hangzhou East Station: Getting Off Feels Like Diving](https://www.cmgm.net/platform-subsidence-at-hangzhou-east-station/)
-- [Popular Prescription Weight Loss Drugs Linked to Uncommon Blinding Condition](https://www.massgeneralbrigham.org/en/about/newsroom/press-releases/popular-prescription-weight-loss-drugs-linked-to-uncommon-blinding-condition)
-- [Show HN: Overtalk – A free walkie-talkie for the web](https://overtalk.io)
-- [Samuel Newman&#39;s Concordance, and How &quot;Delve&quot; Changed the World](https://paulkedrosky.com/how-delve-changed-the-world-2/)
+- [How Spore&#39;s Creature Creator was made, 2003-2008](https://www.chrishecker.com/My_Liner_Notes_for_Spore)
+- [State of Text Rendering 2024](https://behdad.org/text2024/)
+- [New shapes of photons open doors to advanced optical technologies](https://phys.org/news/2024-07-photons-doors-advanced-optical-technologies.html)
+- [ASML shares touch 1k euro mark amid optimism over customer TSMC](https://www.reuters.com/technology/asml-shares-touc)
+- [Opinionated Annotated List of Favourite Mechanistic Interpretability Papers v2](https://www.alignmentforum.org/posts/NfFST5Mio7BCAQHPA/an-extremely-opinionated-annotated-list-of-my-favourite)
+- [Circularly Polarized Light Unlocks Ultrafast Magnetic Storage and Spintronics](https://scitechdaily.com/revolutionizing-magnetism-polarized-light-unlocks-ultrafast-data-storage-and-spintronics/)
+- [Costco proving a one-stop shop for regional revitalization in Japan](https://mainichi.jp/english/articles/20240705/p2g/00m/0bu/024000c)
+- [Computers Are Fast](https://thundergolfer.com/computers-are-fast)
+- [CHP only needed hours to locate Bay Bridge shooter using new tech](https://www.sfgate.com/bayarea/article/chp-arrest-camera-bay-bridge-19561632.php)
+- [2014 Nissan Leaf: first impressions &lpar;2024&rpar;](https://incoherency.co.uk/blog/stories/nissan-leaf.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

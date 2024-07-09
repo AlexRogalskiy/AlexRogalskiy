@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Show HN: Simulating 20M Particles in JavaScript](https://dgerrells.com/blog/how-fast-is-javascript-simulating-20-000-000-particles)
-- [Ecuador court rules pollution violates rights of a river running through capital](https://www.theguardian.com/world/article/2024/jul/07/ecuador-court-river-pollution-violates-rights)
-- [Continue &lpar;YC S23&rpar; Is Hiring a Full-Stack Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-full-stack-engineer)
-- [Unit is a general purpose visual programming system](https://unit.software/)
-- [ICANN&#39;s list of abandoned vanity TLDs](https://www.icann.org/resources/pages/gtld-registry-agreement-termination-2015-10-09-en)
-- [The internet is already over &lpar;2022&rpar;](https://samkriss.substack.com/p/the-internet-is-already-over)
-- [Modern-day spying: sometimes old technology is more secure](https://www.economist.com/technology-quarterly/2024/07/01/sometimes-the-old-ways-of-espionage-are-the-best)
-- [A brief history of liquid computers &lpar;2019&rpar;](https://royalsocietypublishing.org/doi/10.1098/rstb.2018.0372)
-- [Standard cells: Looking at individual gates in the Pentium processor](http://www.righto.com/2024/07/pentium-standard-cells.html)
-- [VDEv2: Virtual Distributed Ethernet](https://github.com/virtualsquare/vde-2)
+- [Rye: A Hassle-Free Python Experience](https://rye.astral.sh/)
+- [Keyboards Influenced by Touchscreens &lpar;2011&rpar;](https://eagain.net/blog/2011/04/30/keyboards.html)
+- [LightRAG: The PyTorch Library for Large Language Model Applications](https://github.com/SylphAI-Inc/LightRAG)
+- [Show HN: I built a IMDB for all kinds of micro-creators](https://fanzine.world/)
+- [Mouse Heaven or Mouse Hell?](https://www.sciencehistory.org/stories/magazine/mouse-heaven-or-mouse-hell/)
+- [Show HN: The easiest way to create web UIs for ROS robots](https://transitiverobotics.com/caps/transitive-robotics/ros-tool/)
+- [Twenty Five Years of Warehouse-Scale Computing](https://www.computer.org/csdl/magazine/mi/5555/01/10551740/1XyKBf0Y6uA)
+- [The Deadlock Empire: An Interactive Guide to Locks](https://deadlockempire.github.io)
+- [DB Browser for SQLite &lpar;Windows, macOS, and Most Versions of Linux&rpar;](https://sqlitebrowser.org/)
+- [Plausible Analytics: GDPR Compliance w/o Cookie Consent Banner](https://plausible.io/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Rye: A Hassle-Free Python Experience](https://rye.astral.sh/)
-- [Keyboards Influenced by Touchscreens &lpar;2011&rpar;](https://eagain.net/blog/2011/04/30/keyboards.html)
-- [LightRAG: The PyTorch Library for Large Language Model Applications](https://github.com/SylphAI-Inc/LightRAG)
-- [Show HN: I built a IMDB for all kinds of micro-creators](https://fanzine.world/)
-- [Mouse Heaven or Mouse Hell?](https://www.sciencehistory.org/stories/magazine/mouse-heaven-or-mouse-hell/)
-- [Show HN: The easiest way to create web UIs for ROS robots](https://transitiverobotics.com/caps/transitive-robotics/ros-tool/)
-- [Twenty Five Years of Warehouse-Scale Computing](https://www.computer.org/csdl/magazine/mi/5555/01/10551740/1XyKBf0Y6uA)
-- [The Deadlock Empire: An Interactive Guide to Locks](https://deadlockempire.github.io)
-- [DB Browser for SQLite &lpar;Windows, macOS, and Most Versions of Linux&rpar;](https://sqlitebrowser.org/)
-- [Plausible Analytics: GDPR Compliance w/o Cookie Consent Banner](https://plausible.io/)
+- [A New Age of Materials Is Dawning, for Everything from Smartphones to Missiles](https://www.wsj.com/tech/composites-manufacturing-boeing-drones-arris-9t-orbital-a422de1b)
+- [CodeCrafters &lpar;YC S22&rpar; Is Hiring a Marketing Writer](https://www.ycombinator.com/companies/codecrafters/jobs/s2MPHPu-marketing-writer-technical)
+- [New technology and old tactics have made buying a car a death march of deception](https://prospect.org/power/2024-07-08-car-dealership-fee-financing-scams/)
+- [RouteLLM: A framework for serving and evaluating LLM routers](https://github.com/lm-sys/RouteLLM)
+- [Show HN: Maelstrom – A Hermetic, Clustered Test Runner for Python and Rust](https://github.com/maelstrom-software/maelstrom)
+- [How to validate a market with development boards and SD cards](https://flyingcarcomputer.com/posts/how-to-validate-market-with-development-board/)
+- [How CD Pregaps Gained Their Hidden Track Superpowers](https://tedium.co/2024/07/06/compact-disc-pregap-history/)
+- [Tokyo&#39;s oldest train line – in pictures](https://www.theguardian.com/artanddesign/gallery/2024/jul/08/tokyos-oldest-train-line-jr-yamanote-in-pictures)
+- [The price of gold – how bad do you want it?](https://allaboutperformance.wordpress.com/2016/05/11/the-price-of-gold-how-bad-do-you-really-want-it/)
+- [Judge dismisses DMCA copyright claim in GitHub Copilot suit](https://www.theregister.com/2024/07/08/github_copilot_dmca/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

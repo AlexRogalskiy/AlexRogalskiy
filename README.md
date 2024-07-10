@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [How Spore&#39;s Creature Creator was made, 2003-2008](https://www.chrishecker.com/My_Liner_Notes_for_Spore)
-- [State of Text Rendering 2024](https://behdad.org/text2024/)
-- [New shapes of photons open doors to advanced optical technologies](https://phys.org/news/2024-07-photons-doors-advanced-optical-technologies.html)
-- [ASML shares touch 1k euro mark amid optimism over customer TSMC](https://www.reuters.com/technology/asml-shares-touc)
-- [Opinionated Annotated List of Favourite Mechanistic Interpretability Papers v2](https://www.alignmentforum.org/posts/NfFST5Mio7BCAQHPA/an-extremely-opinionated-annotated-list-of-my-favourite)
-- [Circularly Polarized Light Unlocks Ultrafast Magnetic Storage and Spintronics](https://scitechdaily.com/revolutionizing-magnetism-polarized-light-unlocks-ultrafast-data-storage-and-spintronics/)
-- [Costco proving a one-stop shop for regional revitalization in Japan](https://mainichi.jp/english/articles/20240705/p2g/00m/0bu/024000c)
-- [Computers Are Fast](https://thundergolfer.com/computers-are-fast)
-- [CHP only needed hours to locate Bay Bridge shooter using new tech](https://www.sfgate.com/bayarea/article/chp-arrest-camera-bay-bridge-19561632.php)
-- [2014 Nissan Leaf: first impressions &lpar;2024&rpar;](https://incoherency.co.uk/blog/stories/nissan-leaf.html)
+- [Well, it&#39;s just an AWS Account ID](https://mail.cloudsecurity.club/p/well-just-aws-account-id)
+- [A Purpose-First Theory of Transfer of Knowledge from Programming](https://computinged.wordpress.com/2024/07/08/a-purpose-first-theory-of-transfer-of-knowledge-from-programming/)
+- [Flight Tracking in Messages &lpar;and Anywhere Data Detectors Work&rpar;](https://daringfireball.net/linked/2024/07/09/flight-tracking-imessage)
+- [Ledger architecture: Preparing your fintech product for scale](https://www.blnkfinance.com/blog/architecting-your-ledger)
+- [A New Age of Materials Is Dawning, for Everything from Smartphones to Missiles](https://www.wsj.com/tech/composites-manufacturing-boeing-drones-arris-9t-orbital-a422de1b)
+- [The story behind Sc.Tiger and Oracle](https://www.sctiger.com/en/blog-news/the-story-behind-sc-tiger-and-oracle/)
+- [CrewAI collects prompts via telemetry, can&#39;t be disabled](https://github.com/joaomdmoura/crewAI/issues/372)
+- [Reverse engineer your startup brand](https://www.designlabb.cc/)
+- [Crocotile3D low poly modelling tool](https://crocotile3d.com/)
+- [From GPT-4 to AGI: Counting the OOMs](https://situational-awareness.ai/from-gpt-4-to-agi/#Compute)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

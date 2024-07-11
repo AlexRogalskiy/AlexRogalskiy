@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Well, it&#39;s just an AWS Account ID](https://mail.cloudsecurity.club/p/well-just-aws-account-id)
-- [A Purpose-First Theory of Transfer of Knowledge from Programming](https://computinged.wordpress.com/2024/07/08/a-purpose-first-theory-of-transfer-of-knowledge-from-programming/)
-- [Flight Tracking in Messages &lpar;and Anywhere Data Detectors Work&rpar;](https://daringfireball.net/linked/2024/07/09/flight-tracking-imessage)
-- [Ledger architecture: Preparing your fintech product for scale](https://www.blnkfinance.com/blog/architecting-your-ledger)
-- [A New Age of Materials Is Dawning, for Everything from Smartphones to Missiles](https://www.wsj.com/tech/composites-manufacturing-boeing-drones-arris-9t-orbital-a422de1b)
-- [The story behind Sc.Tiger and Oracle](https://www.sctiger.com/en/blog-news/the-story-behind-sc-tiger-and-oracle/)
-- [CrewAI collects prompts via telemetry, can&#39;t be disabled](https://github.com/joaomdmoura/crewAI/issues/372)
-- [Reverse engineer your startup brand](https://www.designlabb.cc/)
-- [Crocotile3D low poly modelling tool](https://crocotile3d.com/)
-- [From GPT-4 to AGI: Counting the OOMs](https://situational-awareness.ai/from-gpt-4-to-agi/#Compute)
+- [Change to FreeBSD release scheduling and support period](https://lists.freebsd.org/archives/freebsd-announce/2024-July/000143.html)
+- [VSCode won&#39;t start on several Mac OS versions, broken over a week](https://github.com/microsoft/vscode/issues/219901)
+- [Nicolas Cage says he is &#39;terrified&#39; of AI](https://www.foxnews.com/media/nicolas-cage-terrified-artificial-intelligence-going-steal-my-body)
+- [Show HN: Learn together, code together and build together](https://pairbyte.net/)
+- [Destroying Russian Tanks Is Just the Start for U.S. AI Drone Autopilot](https://www.forbes.com/sites/davidhambling/2024/07/10/destroying-russian-tanks-is-just-the-start-for-us-ai-drone-autopilot/)
+- [Free tool to help devs spend more time coding](https://codeclimbers.io/)
+- [A Brief History of Modern Data Stack](https://www.dataengineeringweekly.com/p/a-brief-history-of-modern-data-stack)
+- [I want to stay in academia so bad](https://lugijanaariel.medium.com/i-want-to-stay-in-academia-so-bad-a8f5885e712e)
+- [Bloggers on Blogging](https://www.bloggersblogging.blog/)
+- [A Case Study of Toyota Unintended Acceleration and Software Safety &lpar;2014&rpar; [pdf]](https://users.ece.cmu.edu/~koopman/pubs/koopman14_toyota_ua_slides.pdf)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

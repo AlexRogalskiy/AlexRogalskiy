@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [A New Age of Materials Is Dawning, for Everything from Smartphones to Missiles](https://www.wsj.com/tech/composites-manufacturing-boeing-drones-arris-9t-orbital-a422de1b)
-- [CodeCrafters &lpar;YC S22&rpar; Is Hiring a Marketing Writer](https://www.ycombinator.com/companies/codecrafters/jobs/s2MPHPu-marketing-writer-technical)
-- [New technology and old tactics have made buying a car a death march of deception](https://prospect.org/power/2024-07-08-car-dealership-fee-financing-scams/)
-- [RouteLLM: A framework for serving and evaluating LLM routers](https://github.com/lm-sys/RouteLLM)
-- [Show HN: Maelstrom – A Hermetic, Clustered Test Runner for Python and Rust](https://github.com/maelstrom-software/maelstrom)
-- [How to validate a market with development boards and SD cards](https://flyingcarcomputer.com/posts/how-to-validate-market-with-development-board/)
-- [How CD Pregaps Gained Their Hidden Track Superpowers](https://tedium.co/2024/07/06/compact-disc-pregap-history/)
-- [Tokyo&#39;s oldest train line – in pictures](https://www.theguardian.com/artanddesign/gallery/2024/jul/08/tokyos-oldest-train-line-jr-yamanote-in-pictures)
-- [The price of gold – how bad do you want it?](https://allaboutperformance.wordpress.com/2016/05/11/the-price-of-gold-how-bad-do-you-really-want-it/)
-- [Judge dismisses DMCA copyright claim in GitHub Copilot suit](https://www.theregister.com/2024/07/08/github_copilot_dmca/)
+- [Great Question &lpar;YC W21&rpar; is hiring senior Rails engineers in Australia](https://www.ycombinator.com/companies/great-question/jobs/WIk0wNz-product-engineer-rails-react-australia)
+- [Show HN: Dut, a fast Linux disk usage calculator](https://codeberg.org/201984/dut)
+- [Scientists discover a cause of lupus, possible way to reverse it](https://news.feinberg.northwestern.edu/2024/07/10/scientists-discover-a-cause-of-lupus-and-a-possible-way-to-reverse-it/)
+- [The NYT book review is everything book criticism shouldn&#39;t be](https://www.currentaffairs.org/news/new-york-times-book-review)
+- [Big Ball of Mud &lpar;1999&rpar;](http://laputan.org/mud/)
+- [Ed Stone, Top Scientist–and Salesman–For the Voyager Mission, Dies at 88](https://www.wsj.com/science/space-astronomy/ed-stone-scientist-voyager-mission-dies-at-88-44c65bc4)
+- [Zed on Linux Is Here](https://zed.dev/linux)
+- [Researchers discover a new form of scientific fraud: &#39;sneaked references&#39;](https://phys.org/news/2024-07-scientific-fraud-uncovering.html)
+- [Dola Decoding by Contrasting Layers Improves Factuality in Large Language Models](https://arxiv.org/abs/2309.03883)
+- [Brian Kernighan on “The Practice of Programming” [video]](https://www.youtube.com/watch?v=_QQ7k5sn2-o)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Great Question &lpar;YC W21&rpar; is hiring senior Rails engineers in Australia](https://www.ycombinator.com/companies/great-question/jobs/WIk0wNz-product-engineer-rails-react-australia)
-- [Show HN: Dut, a fast Linux disk usage calculator](https://codeberg.org/201984/dut)
-- [Scientists discover a cause of lupus, possible way to reverse it](https://news.feinberg.northwestern.edu/2024/07/10/scientists-discover-a-cause-of-lupus-and-a-possible-way-to-reverse-it/)
-- [The NYT book review is everything book criticism shouldn&#39;t be](https://www.currentaffairs.org/news/new-york-times-book-review)
-- [Big Ball of Mud &lpar;1999&rpar;](http://laputan.org/mud/)
-- [Ed Stone, Top Scientist–and Salesman–For the Voyager Mission, Dies at 88](https://www.wsj.com/science/space-astronomy/ed-stone-scientist-voyager-mission-dies-at-88-44c65bc4)
-- [Zed on Linux Is Here](https://zed.dev/linux)
-- [Researchers discover a new form of scientific fraud: &#39;sneaked references&#39;](https://phys.org/news/2024-07-scientific-fraud-uncovering.html)
-- [Dola Decoding by Contrasting Layers Improves Factuality in Large Language Models](https://arxiv.org/abs/2309.03883)
-- [Brian Kernighan on “The Practice of Programming” [video]](https://www.youtube.com/watch?v=_QQ7k5sn2-o)
+- [Ark Invest: Robotaxis 28 trillion by 2030 [video]](https://www.youtube.com/watch?v=Uw32aVFWEss)
+- [Scientists build robot controlled by a brain in a jar](https://www.sciencefocus.com/news/this-robot-is-controlled-by-a-human-brain-in-a-jar)
+- [Medicaid is paying millions for salty, fat-laden cheeseburgers and sandwiches](https://www.statnews.com/2024/07/11/medicaid-food-is-medicine-medically-tailored-meals-quality-questioned/)
+- [Third Places and Neighborhood Entrepreneurship: Evidence from Starbucks Cafés](https://www.nber.org/papers/w32604)
+- [First cell-free system in which genetic information and metabolism work together](https://phys.org/news/2024-07-team-cell-free-genetic-metabolism.html)
+- [Boosting Compiler Testing by Injecting Real-World Code](https://dl.acm.org/doi/10.1145/3656386)
+- [Why I&#39;m Writing a Book on Cryptography &lpar;2020&rpar;](https://www.cryptologie.net/article/504/why-im-writing-a-book-on-cryptography/)
+- [Denisovians Survived on Tibetan Plateau for 160k Years](https://explorersweb.com/mysterious-denisovans-survived-on-tibetan-plateau/)
+- [Physics-Based Deep Learning Book](https://physicsbaseddeeplearning.org/intro.html)
+- [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=40940565)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Copa América: Lerma guides 10-man Colombia past Uruguay](https://www.theguardian.com/football/article/2024/jul/11/copa-america-lerma-guides-10-man-colombia-past-uruguay)
-- [The Conservative party: rows, resignations … and a tilt right? - podcast](https://www.theguardian.com/news/audio/2024/jul/11/the-conservative-party-rows-resignations-and-a-tilt-right-podcast)
-- [‘Wat a finish!’: what the papers say as England go through to the Euro 2024 final](https://www.theguardian.com/media/article/2024/jul/11/euros-2024-final-england-vs-spain-newspapers)
-- [Joe Biden hints UK should move closer to EU in Starmer meeting](https://www.theguardian.com/politics/article/2024/jul/11/joe-biden-keir-starmer-labour-us-relationship-uk-nato-summit)
-- [Fiji wrestles with need for outside help on security, at risk to its own sovereignty](https://www.theguardian.com/world/article/2024/jul/11/fiji-security-deals-pacific-china-us-australia)
-- [Southgate’s super sub secures England’s spot in Euro 2024 final - Football Daily podcast](https://www.theguardian.com/football/audio/2024/jul/11/southgates-supersub-secures-englands-spot-in-euro-2024-final-football-daily)
-- [Ukraine war briefing: Path to Nato membership ‘irreversible’](https://www.theguardian.com/world/article/2024/jul/11/ukraine-war-briefing-path-to-nato-membership-irreversible)
-- [Biden under renewed pressure to step aside as top Democrats make agonized appeals](https://www.theguardian.com/us-news/article/2024/jul/10/michael-bennet-democrat-biden-trump-defeat)
-- [Night owls’ cognitive function ‘superior’ to early risers, study suggests](https://www.theguardian.com/science/article/2024/jul/11/night-owls-cognitive-function-superior-to-early-risers-study-suggests)
-- [‘I had to be greedy’: Watkins revels in journey from Exeter to England heroics](https://www.theguardian.com/football/article/2024/jul/11/i-had-to-be-greedy-watkins-revels-in-journey-from-exeter-to-england-heroics)
+- [Biden dismisses concerns over fitness at Nato summit after verbal slips on Zelenskiy and Harris names – live](https://www.theguardian.com/us-news/live/2024/jul/11/biden-press-conference-nato-updates)
+- [You could sense the embarrassment: Biden’s press conference a sign of how low the presidency has sunk | John Crace](https://www.theguardian.com/politics/article/2024/jul/12/you-could-sense-the-embarrassment-as-biden-spoke-a-sign-of-how-low-the-presidency-has-sunk)
+- [Euro 2024: is it coming home? - podcast](https://www.theguardian.com/news/audio/2024/jul/12/euro-2024-is-it-coming-home-podcast)
+- [Ukraine war briefing: Ship carrying ‘looted’ grain seized, Zaluzhnyi starts work as ambassador to UK](https://www.theguardian.com/world/article/2024/jul/12/ukraine-war-briefing-ship-carrying-looted-grain-seized-zaluzhnyi-starts-work-as-ambassador-to-uk)
+- [Law and order on UK streets would break down if jails became full, say police sources](https://www.theguardian.com/society/article/2024/jul/12/law-and-order-on-uk-streets-would-break-down-if-jails-became-full-say-police-sources)
+- [Southgate warns England they must be ‘tactically perfect’ to beat Spain in final](https://www.theguardian.com/football/article/2024/jul/11/southgate-england-spain-euro-2024-final-preview)
+- [Keir Starmer on collision course with unions over public sector pay](https://www.theguardian.com/society/article/2024/jul/11/keir-starmer-on-collision-course-with-unions-over-public-sector-pay)
+- [Colin Pitchfork parole hearing will not be held in public after ‘fresh allegations’](https://www.theguardian.com/society/article/2024/jul/11/colin-pitchfork-parole-hearing-will-not-be-held-in-public-after-fresh-allegations)
+- [England wrap up T20 series win over New Zealand in Knight’s absence](https://www.theguardian.com/sport/article/2024/jul/11/england-new-zealand-third-womens-t20-match-report-cricket)
+- [The Gentle Art of Swedish Death Cleaning review – feelgood TV that expands your heart](https://www.theguardian.com/tv-and-radio/article/2024/jul/11/the-gentle-art-of-swedish-death-cleaning-review-feelgood-tv-that-expands-your-heart)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

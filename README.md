@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Change to FreeBSD release scheduling and support period](https://lists.freebsd.org/archives/freebsd-announce/2024-July/000143.html)
-- [VSCode won&#39;t start on several Mac OS versions, broken over a week](https://github.com/microsoft/vscode/issues/219901)
-- [Nicolas Cage says he is &#39;terrified&#39; of AI](https://www.foxnews.com/media/nicolas-cage-terrified-artificial-intelligence-going-steal-my-body)
-- [Show HN: Learn together, code together and build together](https://pairbyte.net/)
-- [Destroying Russian Tanks Is Just the Start for U.S. AI Drone Autopilot](https://www.forbes.com/sites/davidhambling/2024/07/10/destroying-russian-tanks-is-just-the-start-for-us-ai-drone-autopilot/)
-- [Free tool to help devs spend more time coding](https://codeclimbers.io/)
-- [A Brief History of Modern Data Stack](https://www.dataengineeringweekly.com/p/a-brief-history-of-modern-data-stack)
-- [I want to stay in academia so bad](https://lugijanaariel.medium.com/i-want-to-stay-in-academia-so-bad-a8f5885e712e)
-- [Bloggers on Blogging](https://www.bloggersblogging.blog/)
-- [A Case Study of Toyota Unintended Acceleration and Software Safety &lpar;2014&rpar; [pdf]](https://users.ece.cmu.edu/~koopman/pubs/koopman14_toyota_ua_slides.pdf)
+- [The Boycott Against Israel Is Spreading into New Corners of Society](https://www.wsj.com/world/middle-east/the-boycott-against-israel-is-spreading-into-new-corners-of-society-31295d69)
+- [Open-source platform for developing multimodal agents in low code](https://github.com/rte-design/ASTRA.ai)
+- [Tesla to delay Robotaxi unveiling, report says](https://electrek.co/2024/07/11/tesla-delay-robotaxi-unveiling-report/)
+- [Joby smashes eVTOL aircraft range record with liquid hydrogen](https://newatlas.com/joby-hydrogen-evtol-range/)
+- [JavaScript Ben.ch &lpar;JavaScript Benchmarking Tools&rpar;](https://jsben.ch/)
+- [I spent two years trying to make SD cards more nostalgic](https://www.youtube.com/watch?v=END_PVp3Eds)
+- [We Need a RACI Matrix and How to Create It](https://www.bpmexplained.com/p/why-we-need-a-raci-matrix-and-how)
+- [What I&#39;ve learned from a weekly newsletter](https://www.mooreds.com/wordpress/archives/3652)
+- [Why I&#39;m Done Making Desktop Applications &lpar;2009&rpar;](https://www.kalzumeus.com/2009/09/05/desktop-aps-versus-web-apps/)
+- [Cruise](https://www.baugues.com/cruise/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

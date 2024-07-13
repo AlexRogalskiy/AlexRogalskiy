@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Biden dismisses concerns over fitness at Nato summit after verbal slips on Zelenskiy and Harris names – live](https://www.theguardian.com/us-news/live/2024/jul/11/biden-press-conference-nato-updates)
-- [You could sense the embarrassment: Biden’s press conference a sign of how low the presidency has sunk | John Crace](https://www.theguardian.com/politics/article/2024/jul/12/you-could-sense-the-embarrassment-as-biden-spoke-a-sign-of-how-low-the-presidency-has-sunk)
-- [Euro 2024: is it coming home? - podcast](https://www.theguardian.com/news/audio/2024/jul/12/euro-2024-is-it-coming-home-podcast)
-- [Ukraine war briefing: Ship carrying ‘looted’ grain seized, Zaluzhnyi starts work as ambassador to UK](https://www.theguardian.com/world/article/2024/jul/12/ukraine-war-briefing-ship-carrying-looted-grain-seized-zaluzhnyi-starts-work-as-ambassador-to-uk)
-- [Law and order on UK streets would break down if jails became full, say police sources](https://www.theguardian.com/society/article/2024/jul/12/law-and-order-on-uk-streets-would-break-down-if-jails-became-full-say-police-sources)
-- [Southgate warns England they must be ‘tactically perfect’ to beat Spain in final](https://www.theguardian.com/football/article/2024/jul/11/southgate-england-spain-euro-2024-final-preview)
-- [Keir Starmer on collision course with unions over public sector pay](https://www.theguardian.com/society/article/2024/jul/11/keir-starmer-on-collision-course-with-unions-over-public-sector-pay)
-- [Colin Pitchfork parole hearing will not be held in public after ‘fresh allegations’](https://www.theguardian.com/society/article/2024/jul/11/colin-pitchfork-parole-hearing-will-not-be-held-in-public-after-fresh-allegations)
-- [England wrap up T20 series win over New Zealand in Knight’s absence](https://www.theguardian.com/sport/article/2024/jul/11/england-new-zealand-third-womens-t20-match-report-cricket)
-- [The Gentle Art of Swedish Death Cleaning review – feelgood TV that expands your heart](https://www.theguardian.com/tv-and-radio/article/2024/jul/11/the-gentle-art-of-swedish-death-cleaning-review-feelgood-tv-that-expands-your-heart)
+- [Meta lifts restrictions on Trump’s Facebook and Instagram accounts](https://www.theguardian.com/technology/article/2024/jul/12/meta-removes-restrictions-trump-instagram-facebook)
+- [‘I’m not going anywhere’: Biden holds Michigan rally as calls to quit persist](https://www.theguardian.com/us-news/article/2024/jul/12/biden-michigan-campaigning-election)
+- [How Australian scientists brought Norfolk Island’s thumbnail-sized snails back from the brink of extinction](https://www.theguardian.com/australia-news/article/2024/jul/13/how-australian-scientists-brought-norfolk-islands-thumbnail-sized-snails-back-from-the-brink-of-extinction)
+- [Alec Baldwin’s Rust shooting trial dismissed after lawyers say evidence was withheld](https://www.theguardian.com/us-news/article/2024/jul/12/alec-baldwin-court-case-rust-shooting-trial)
+- [Zelenskiy expected in UK for meeting with European leaders](https://www.theguardian.com/world/article/2024/jul/12/zelenskiy-due-in-uk-for-meeting-of-european-leaders-at-blenheim-palace)
+- [Human remains found in London house search after bodies discovered in Bristol](https://www.theguardian.com/uk-news/article/2024/jul/12/remains-two-men-believed-suitcases-found-bristol)
+- [What’s generative AI really generating? Just ask these tech bros | Fiona Katauskas](https://www.theguardian.com/commentisfree/picture/2024/jul/13/whats-generative-ai-really-generating-just-ask-these-tech-bros)
+- [Republican senator Susan Collins says she will not vote for Trump](https://www.theguardian.com/us-news/article/2024/jul/12/susan-collins-donald-trump-election)
+- [Keir Starmer commits to keeping BBC licence fee after years of Tory hostility](https://www.theguardian.com/media/article/2024/jul/12/keir-starmer-commits-to-keeping-bbc-licence-fee-after-years-of-tory-hostility)
+- [‘I can handle whatever comes’: Southgate keeps his cool before Euro 2024 final](https://www.theguardian.com/football/article/2024/jul/12/i-can-handle-whatever-comes-southgate-keeps-his-cool-before-euro-2024-final)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Ark Invest: Robotaxis 28 trillion by 2030 [video]](https://www.youtube.com/watch?v=Uw32aVFWEss)
-- [Scientists build robot controlled by a brain in a jar](https://www.sciencefocus.com/news/this-robot-is-controlled-by-a-human-brain-in-a-jar)
-- [Medicaid is paying millions for salty, fat-laden cheeseburgers and sandwiches](https://www.statnews.com/2024/07/11/medicaid-food-is-medicine-medically-tailored-meals-quality-questioned/)
-- [Third Places and Neighborhood Entrepreneurship: Evidence from Starbucks Cafés](https://www.nber.org/papers/w32604)
-- [First cell-free system in which genetic information and metabolism work together](https://phys.org/news/2024-07-team-cell-free-genetic-metabolism.html)
-- [Boosting Compiler Testing by Injecting Real-World Code](https://dl.acm.org/doi/10.1145/3656386)
-- [Why I&#39;m Writing a Book on Cryptography &lpar;2020&rpar;](https://www.cryptologie.net/article/504/why-im-writing-a-book-on-cryptography/)
-- [Denisovians Survived on Tibetan Plateau for 160k Years](https://explorersweb.com/mysterious-denisovans-survived-on-tibetan-plateau/)
-- [Physics-Based Deep Learning Book](https://physicsbaseddeeplearning.org/intro.html)
-- [Imbue &lpar;Formerly Generally Intelligent&rpar; &lpar;YC S17&rpar; Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=40940565)
+- [Use a Work Journal to Recover Focus Faster and Clarify Your Thoughts](https://fev.al/posts/work-journal/)
+- [Crafting Interpreters](https://craftinginterpreters.com/)
+- [Lead Animation Engineer – Gym Class &lpar;YC W22&rpar; Is Hiring](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/7UKmLED-lead-animation-engineer)
+- [Things I know about Git commits](https://www.jvt.me/posts/2024/07/12/things-know-commits/)
+- [Responsive bar charts in HTML and CSS](https://9elements.com/blog/responsive-bar-charts-in-html-and-css/)
+- [Free-threaded CPython is ready to experiment with](https://labs.quansight.org/blog/free-threaded-python-rollout)
+- [Follow the Crypto](https://www.followthecrypto.org/)
+- [Common Expression Language interpreter written in Rust](https://github.com/clarkmcc/cel-rust)
+- [Beating the Compiler](https://www.mattkeeter.com/blog/2024-07-12-interpreter/)
+- [What could explain the gallium anomaly?](https://www.quantamagazine.org/what-could-explain-the-gallium-anomaly-20240712/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

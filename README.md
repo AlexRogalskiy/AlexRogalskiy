@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [The Boycott Against Israel Is Spreading into New Corners of Society](https://www.wsj.com/world/middle-east/the-boycott-against-israel-is-spreading-into-new-corners-of-society-31295d69)
-- [Open-source platform for developing multimodal agents in low code](https://github.com/rte-design/ASTRA.ai)
-- [Tesla to delay Robotaxi unveiling, report says](https://electrek.co/2024/07/11/tesla-delay-robotaxi-unveiling-report/)
-- [Joby smashes eVTOL aircraft range record with liquid hydrogen](https://newatlas.com/joby-hydrogen-evtol-range/)
-- [JavaScript Ben.ch &lpar;JavaScript Benchmarking Tools&rpar;](https://jsben.ch/)
-- [I spent two years trying to make SD cards more nostalgic](https://www.youtube.com/watch?v=END_PVp3Eds)
-- [We Need a RACI Matrix and How to Create It](https://www.bpmexplained.com/p/why-we-need-a-raci-matrix-and-how)
-- [What I&#39;ve learned from a weekly newsletter](https://www.mooreds.com/wordpress/archives/3652)
-- [Why I&#39;m Done Making Desktop Applications &lpar;2009&rpar;](https://www.kalzumeus.com/2009/09/05/desktop-aps-versus-web-apps/)
-- [Cruise](https://www.baugues.com/cruise/)
+- [Barabar – Precision and Geometry Discovered in Ancient Indian Granite Caves [video]](https://www.youtube.com/watch?v=6RJ3Epd_SXk)
+- [When Facial Recognition Helps Police Target Black Faces](https://thewalrus.ca/when-facial-recognition-helps-police-target-black-faces/)
+- [Building the Mathematical Library of the Future](https://www.quantamagazine.org/building-the-mathematical-library-of-the-future-20201001/)
+- [Mold: Effortless Templating with PowerShell](https://github.com/belibug/Mold)
+- [USCIS&#39;s new International Entrepreneur Rule – up to 5 years for startup founders](https://www.uscis.gov/working-in-the-united-states/international-entrepreneur-rule)
+- [Ask HN: Experience with Large K8s Clusters?](https://news.ycombinator.com/item?id=40951207)
+- [Tesla Delays Robotaxi Event in Blow to Musk&#39;s Autonomy Drive](https://www.bloomberg.com/news/articles/2024-07-11/tesla-plans-to-delay-robotaxi-unveiling-to-october-from-august)
+- [Pw_RPC: Efficient, low-code-size RPC system for embedded devices](https://pigweed.dev/pw_rpc/)
+- [Writing an MP4 Muxer for Fun and Profit](https://obsproject.com/blog/obs-studio-hybrid-mp4)
+- [A Cable Under Norway&#39;s Sea Disappeared. Was Russia to Blame?](https://www.bloomberg.com/features/2024-undersea-cable-sabotage-russia-norway/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

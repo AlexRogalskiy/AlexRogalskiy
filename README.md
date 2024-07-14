@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Barabar – Precision and Geometry Discovered in Ancient Indian Granite Caves [video]](https://www.youtube.com/watch?v=6RJ3Epd_SXk)
-- [When Facial Recognition Helps Police Target Black Faces](https://thewalrus.ca/when-facial-recognition-helps-police-target-black-faces/)
-- [Building the Mathematical Library of the Future](https://www.quantamagazine.org/building-the-mathematical-library-of-the-future-20201001/)
-- [Mold: Effortless Templating with PowerShell](https://github.com/belibug/Mold)
-- [USCIS&#39;s new International Entrepreneur Rule – up to 5 years for startup founders](https://www.uscis.gov/working-in-the-united-states/international-entrepreneur-rule)
-- [Ask HN: Experience with Large K8s Clusters?](https://news.ycombinator.com/item?id=40951207)
-- [Tesla Delays Robotaxi Event in Blow to Musk&#39;s Autonomy Drive](https://www.bloomberg.com/news/articles/2024-07-11/tesla-plans-to-delay-robotaxi-unveiling-to-october-from-august)
-- [Pw_RPC: Efficient, low-code-size RPC system for embedded devices](https://pigweed.dev/pw_rpc/)
-- [Writing an MP4 Muxer for Fun and Profit](https://obsproject.com/blog/obs-studio-hybrid-mp4)
-- [A Cable Under Norway&#39;s Sea Disappeared. Was Russia to Blame?](https://www.bloomberg.com/features/2024-undersea-cable-sabotage-russia-norway/)
+- [TextMagic: Revolutionizing Text Editing Beyond HTML Input and TextArea](https://github.com/gezilinll/TextMagic)
+- [Grunge Rock and a Neighborhood Network in 90s China](https://peebs.org/2024/07/13/grunge-rock-and-a-neighborhood-network-in-china/)
+- [A New Way to Look at Networking &lpar;2007&rpar; [video]](https://www.youtube.com/watch?v=gqGEMQveoqg)
+- [Pretty pictures, bootable floppy disks, and the first Canon Cat demo?](http://oldvcr.blogspot.com/2024/07/pretty-pictures-bootable-floppy-disks.html)
+- [Five phrases workers use every day in Finland](https://www.cnbc.com/2024/06/02/5-phrases-workers-use-every-day-in-finland-worlds-happiest-country.html)
+- [Flying is better with an open window shade](https://slate.com/life/2024/07/flying-is-better-with-an-open-window-shade.html)
+- [Entrywan – A Better Digitalocean](https://www.entrywan.com/)
+- [Nvidia Warp &lpar;a Python framework for writing high-performance code&rpar;](https://nvidia.github.io/warp/)
+- [Who Are We Now?](https://whoarewenow.net/)
+- [SpaceX rivals challenge Starship launch license in Florida](https://www.space.com/spacex-rivals-challenge-starship-launch-license-in-florida)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

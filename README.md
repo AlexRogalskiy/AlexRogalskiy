@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Meta lifts restrictions on Trump’s Facebook and Instagram accounts](https://www.theguardian.com/technology/article/2024/jul/12/meta-removes-restrictions-trump-instagram-facebook)
-- [‘I’m not going anywhere’: Biden holds Michigan rally as calls to quit persist](https://www.theguardian.com/us-news/article/2024/jul/12/biden-michigan-campaigning-election)
-- [How Australian scientists brought Norfolk Island’s thumbnail-sized snails back from the brink of extinction](https://www.theguardian.com/australia-news/article/2024/jul/13/how-australian-scientists-brought-norfolk-islands-thumbnail-sized-snails-back-from-the-brink-of-extinction)
-- [Alec Baldwin’s Rust shooting trial dismissed after lawyers say evidence was withheld](https://www.theguardian.com/us-news/article/2024/jul/12/alec-baldwin-court-case-rust-shooting-trial)
-- [Zelenskiy expected in UK for meeting with European leaders](https://www.theguardian.com/world/article/2024/jul/12/zelenskiy-due-in-uk-for-meeting-of-european-leaders-at-blenheim-palace)
-- [Human remains found in London house search after bodies discovered in Bristol](https://www.theguardian.com/uk-news/article/2024/jul/12/remains-two-men-believed-suitcases-found-bristol)
-- [What’s generative AI really generating? Just ask these tech bros | Fiona Katauskas](https://www.theguardian.com/commentisfree/picture/2024/jul/13/whats-generative-ai-really-generating-just-ask-these-tech-bros)
-- [Republican senator Susan Collins says she will not vote for Trump](https://www.theguardian.com/us-news/article/2024/jul/12/susan-collins-donald-trump-election)
-- [Keir Starmer commits to keeping BBC licence fee after years of Tory hostility](https://www.theguardian.com/media/article/2024/jul/12/keir-starmer-commits-to-keeping-bbc-licence-fee-after-years-of-tory-hostility)
-- [‘I can handle whatever comes’: Southgate keeps his cool before Euro 2024 final](https://www.theguardian.com/football/article/2024/jul/12/i-can-handle-whatever-comes-southgate-keeps-his-cool-before-euro-2024-final)
+- [Trump says ‘bullet pierced upper part of right ear’ in rally shooting; FBI takes over investigation – latest](https://www.theguardian.com/us-news/live/2024/jul/13/trump-rally-gun-shots-pennsylvania-latest-updates)
+- [&#39;Everybody must condemn violence&#39;: Biden reacts to Trump shooting - video](https://www.theguardian.com/us-news/video/2024/jul/14/everybody-must-condemn-violence-biden-reacts-to-trump-shooting-video)
+- [What we know about the shooting at a Donald Trump rally](https://www.theguardian.com/us-news/article/2024/jul/13/shots-fired-donald-trump-rally)
+- [Trump rally shooting comes amid rise in support for political violence](https://www.theguardian.com/us-news/article/2024/jul/13/trump-rally-shooting-political-violence)
+- [Trump rally shooting being investigated as suspected assassination attempt](https://www.theguardian.com/us-news/article/2024/jul/13/trump-rally-gun-shots-pennsylvania)
+- [Hamas mastermind of 7 October attack target of deadly Gaza strike, claims Israel](https://www.theguardian.com/world/article/2024/jul/13/hamas-mastermind-of-7-october-attack-target-of-deadly-gaza-strike-claims-israel)
+- [Teenager charged with multiple offences after Kent gurdwara attack](https://www.theguardian.com/uk-news/article/2024/jul/13/teenager-charged-with-multiple-offences-after-kent-gurdwara-attack)
+- [Kenyan police find more female body parts at Nairobi garbage dump](https://www.theguardian.com/world/article/2024/jul/13/kenya-police-find-more-female-body-parts-at-nairobi-garbage-dump)
+- [Wales manager Craig Bellamy admits he was ‘naive’ to cheer against England](https://www.theguardian.com/football/article/2024/jul/13/wales-manager-craig-bellamy-admits-he-was-naive-to-cheer-against-england)
+- [England have done us proud. Now let’s bring football home to its grassroots | Lisa Nandy](https://www.theguardian.com/commentisfree/article/2024/jul/13/england-have-done-us-proud-now-lets-bring-football-home-to-its-grassroots-lisa-nandy)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

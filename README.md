@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Trump says ‘bullet pierced upper part of right ear’ in rally shooting; FBI takes over investigation – latest](https://www.theguardian.com/us-news/live/2024/jul/13/trump-rally-gun-shots-pennsylvania-latest-updates)
-- [&#39;Everybody must condemn violence&#39;: Biden reacts to Trump shooting - video](https://www.theguardian.com/us-news/video/2024/jul/14/everybody-must-condemn-violence-biden-reacts-to-trump-shooting-video)
-- [What we know about the shooting at a Donald Trump rally](https://www.theguardian.com/us-news/article/2024/jul/13/shots-fired-donald-trump-rally)
-- [Trump rally shooting comes amid rise in support for political violence](https://www.theguardian.com/us-news/article/2024/jul/13/trump-rally-shooting-political-violence)
-- [Trump rally shooting being investigated as suspected assassination attempt](https://www.theguardian.com/us-news/article/2024/jul/13/trump-rally-gun-shots-pennsylvania)
-- [Hamas mastermind of 7 October attack target of deadly Gaza strike, claims Israel](https://www.theguardian.com/world/article/2024/jul/13/hamas-mastermind-of-7-october-attack-target-of-deadly-gaza-strike-claims-israel)
-- [Teenager charged with multiple offences after Kent gurdwara attack](https://www.theguardian.com/uk-news/article/2024/jul/13/teenager-charged-with-multiple-offences-after-kent-gurdwara-attack)
-- [Kenyan police find more female body parts at Nairobi garbage dump](https://www.theguardian.com/world/article/2024/jul/13/kenya-police-find-more-female-body-parts-at-nairobi-garbage-dump)
-- [Wales manager Craig Bellamy admits he was ‘naive’ to cheer against England](https://www.theguardian.com/football/article/2024/jul/13/wales-manager-craig-bellamy-admits-he-was-naive-to-cheer-against-england)
-- [England have done us proud. Now let’s bring football home to its grassroots | Lisa Nandy](https://www.theguardian.com/commentisfree/article/2024/jul/13/england-have-done-us-proud-now-lets-bring-football-home-to-its-grassroots-lisa-nandy)
+- [Biden gives Oval Office address after assassination attempt on Trump: ‘Politics must never be a killing field’ – latest updates](https://www.theguardian.com/us-news/live/2024/jul/14/trump-rally-shooting-assassination-attempt-shooter-thomas-matthew-crooks-pennsylvania-latest)
+- [Argentina v Colombia: Copa América 2024 final – live updates](https://www.theguardian.com/football/live/2024/jul/15/argentina-v-colombia-copa-america-2024-final-live-updates)
+- [Inside the biggest art fraud in US history - podcast](https://www.theguardian.com/news/audio/2024/jul/15/inside-the-biggest-art-in-us-history-podcast)
+- [King and queen lock in visit to NSW and Canberra but call off New Zealand trip on health advice](https://www.theguardian.com/australia-news/article/2024/jul/15/king-and-queen-lock-in-visit-to-nsw-and-canberra-but-call-off-new-zealand-trip-on-health-advice)
+- [‘The Lions weep tonight’: what the papers say about England’s Euros final loss](https://www.theguardian.com/media/article/2024/jul/15/euros-2024-england-vs-spain-final-results-what-papers-say)
+- [Ukraine war briefing: ‘Hottest situation’ around Pokrovsk, says Ukrainian military](https://www.theguardian.com/world/article/2024/jul/15/ukraine-war-briefing-hottest-situation-around-pokrovsk-says-ukrainian-military)
+- [Heartache for England again as Spain take Euro 2024 crown – Football Daily](https://www.theguardian.com/football/audio/2024/jul/15/euro-2024-spain-england-reaction-football-daily-podcast)
+- [Spain reign, England pain: Euro 2024 final – in pictures](https://www.theguardian.com/football/gallery/2024/jul/15/spain-england-euro-2024-final-in-pictures)
+- [China’s leaders to meet for third plenum with kickstarting the economy on the agenda](https://www.theguardian.com/world/article/2024/jul/15/chinas-leaders-to-meet-for-third-plenum-with-kickstarting-the-economy-on-the-agenda)
+- [Number of agreed UK house sales over past month ‘up 15% on 2023’](https://www.theguardian.com/business/article/2024/jul/15/number-of-agreed-uk-house-sales-over-past-month-up-on-2023)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

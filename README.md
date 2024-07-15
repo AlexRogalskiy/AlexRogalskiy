@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [TextMagic: Revolutionizing Text Editing Beyond HTML Input and TextArea](https://github.com/gezilinll/TextMagic)
-- [Grunge Rock and a Neighborhood Network in 90s China](https://peebs.org/2024/07/13/grunge-rock-and-a-neighborhood-network-in-china/)
-- [A New Way to Look at Networking &lpar;2007&rpar; [video]](https://www.youtube.com/watch?v=gqGEMQveoqg)
-- [Pretty pictures, bootable floppy disks, and the first Canon Cat demo?](http://oldvcr.blogspot.com/2024/07/pretty-pictures-bootable-floppy-disks.html)
-- [Five phrases workers use every day in Finland](https://www.cnbc.com/2024/06/02/5-phrases-workers-use-every-day-in-finland-worlds-happiest-country.html)
-- [Flying is better with an open window shade](https://slate.com/life/2024/07/flying-is-better-with-an-open-window-shade.html)
-- [Entrywan – A Better Digitalocean](https://www.entrywan.com/)
-- [Nvidia Warp &lpar;a Python framework for writing high-performance code&rpar;](https://nvidia.github.io/warp/)
-- [Who Are We Now?](https://whoarewenow.net/)
-- [SpaceX rivals challenge Starship launch license in Florida](https://www.space.com/spacex-rivals-challenge-starship-launch-license-in-florida)
+- [Cigarette sales and lung cancer mortality in the US](https://commons.wikimedia.org/wiki/File:Smoking-and-lung-cancer-mortality-US-only_3048.png)
+- [Researchers demonstrate how to build &#39;time-traveling&#39; quantum sensors](https://phys.org/news/2024-07-quantum-sensors.html)
+- [Show HN: Lingopeel AI – Duolingo for Conversations](https://apps.apple.com/us/app/lingopeel-ai-language-lessons/id6499281148)
+- [Global Population to Shrink This Century as Birth Rates Fall](https://www.ft.com/content/2d37dc16-5c73-4f2a-92a5-a78326f9dc3d)
+- [Plot: A minimal terminal charting tool](https://github.com/archiewood/plot)
+- [Cloc: Count lines &lpar;blank, comment, and physical&rpar; of source code](https://github.com/AlDanial/cloc)
+- [System76 Merkaat with Linux Mint: first impressions](https://journal.paoloamoroso.com/system76-merkaat-with-linux-mint-first-impressions)
+- [Ask HN: What would you do career wise if you were from a small country?](https://news.ycombinator.com/item?id=40964754)
+- [Google reportedly in talks to acquire cloud security company Wiz for $23B](https://techcrunch.com/2024/07/14/google-reportedly-in-talks-to-acquire-cloud-security-company-wiz-for-23b/)
+- [Movies directed by Andrey Tarkovsky &lpar;YouTube playlist&rpar;](https://www.youtube.com/playlist?list=PL7EqAsBxqGgjarBzACNmCNDdr0y0iFu8U)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

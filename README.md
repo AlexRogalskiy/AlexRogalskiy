@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [What the Decentralized Nature of Anonymous Tells Us About Its Power](https://lithub.com/what-the-decentralized-nature-of-anonymous-tells-us-about-its-power/)
-- [A hydrogen-powered air taxi flew 523 miles emitting only water vapor](https://www.popsci.com/technology/hydrogen-power-air-taxi/)
-- [What Does Nevada&#39;s $35B Fund Manager Do All Day? Nothing](https://www.wsj.com/articles/what-does-nevadas-35-billion-fund-manager-do-all-day-nothing-1476887420)
-- [YouTube lets you request removal of AI content that simulates your face or voice](https://techcrunch.com/2024/07/01/youtube-now-lets-you-request-removal-of-ai-generated-content-that-simulates-your-face-or-voice/)
-- [The Threads Creator Paradox](https://www.augment.ink/the-threads-creator-paradox/)
-- [The NSA Is Defeated by a 1950s Tape Recorder. Can You Help Them?](https://hackaday.com/2024/07/13/the-nsa-is-defeated-by-a-1950s-tape-recorder-can-you-help-them/)
-- [Jelly Star – The Smallest Android 13 Smartphone](https://www.unihertz.com/en-de/products/jelly-star)
-- [A Philosophy Professor&#39;s Final Class &lpar;2023&rpar;](https://www.newyorker.com/culture/annals-of-inquiry/a-philosophy-professors-final-class)
-- [Talos: Secure, immutable, and minimal Linux OS for running Kubernetes](https://www.talos.dev)
-- [Show HN: Resurrecting a dead Dune RTS game](https://wheybags.com/blog/emperor.html)
+- [Movies directed by Andrey Tarkovsky &lpar;YouTube playlist&rpar;](https://www.youtube.com/playlist?list=PL7EqAsBxqGgjarBzACNmCNDdr0y0iFu8U)
+- [Tabloid: The Clickbait Headline Programming Language &lpar;2021&rpar;](https://tabloid.vercel.app/)
+- [Can ChatGPT do data science?](https://austinhenley.com/blog/chatgptdatascience.html)
+- [Fusion – a hobby OS implemented in Nim](https://github.com/khaledh/fusion)
+- [How to Know When It&#39;s Time to Go](https://thecodist.com/how-to-know-when-its-time-to-go/)
+- [Ask HN: Most accurate scientific book on Human Sleep?](https://news.ycombinator.com/item?id=40962582)
+- [Disqualified &lpar;1954&rpar;](https://www.gutenberg.org/cache/epub/30251/pg30251-images.html)
+- [Calculating position from raw GPS data &lpar;2017&rpar;](https://www.telesens.co/2017/07/17/calculating-position-from-raw-gps-data/)
+- [Show HN: An ad free temporary mail service](https://news.ycombinator.com/item?id=40961842)
+- [On Building Systems That Will Fail &lpar;1991&rpar;](http://larch-www.lcs.mit.edu:8001/~corbato/turing91/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

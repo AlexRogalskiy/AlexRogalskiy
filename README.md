@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Biden gives Oval Office address after assassination attempt on Trump: ‘Politics must never be a killing field’ – latest updates](https://www.theguardian.com/us-news/live/2024/jul/14/trump-rally-shooting-assassination-attempt-shooter-thomas-matthew-crooks-pennsylvania-latest)
-- [Argentina v Colombia: Copa América 2024 final – live updates](https://www.theguardian.com/football/live/2024/jul/15/argentina-v-colombia-copa-america-2024-final-live-updates)
-- [Inside the biggest art fraud in US history - podcast](https://www.theguardian.com/news/audio/2024/jul/15/inside-the-biggest-art-in-us-history-podcast)
-- [King and queen lock in visit to NSW and Canberra but call off New Zealand trip on health advice](https://www.theguardian.com/australia-news/article/2024/jul/15/king-and-queen-lock-in-visit-to-nsw-and-canberra-but-call-off-new-zealand-trip-on-health-advice)
-- [‘The Lions weep tonight’: what the papers say about England’s Euros final loss](https://www.theguardian.com/media/article/2024/jul/15/euros-2024-england-vs-spain-final-results-what-papers-say)
-- [Ukraine war briefing: ‘Hottest situation’ around Pokrovsk, says Ukrainian military](https://www.theguardian.com/world/article/2024/jul/15/ukraine-war-briefing-hottest-situation-around-pokrovsk-says-ukrainian-military)
-- [Heartache for England again as Spain take Euro 2024 crown – Football Daily](https://www.theguardian.com/football/audio/2024/jul/15/euro-2024-spain-england-reaction-football-daily-podcast)
-- [Spain reign, England pain: Euro 2024 final – in pictures](https://www.theguardian.com/football/gallery/2024/jul/15/spain-england-euro-2024-final-in-pictures)
-- [China’s leaders to meet for third plenum with kickstarting the economy on the agenda](https://www.theguardian.com/world/article/2024/jul/15/chinas-leaders-to-meet-for-third-plenum-with-kickstarting-the-economy-on-the-agenda)
-- [Number of agreed UK house sales over past month ‘up 15% on 2023’](https://www.theguardian.com/business/article/2024/jul/15/number-of-agreed-uk-house-sales-over-past-month-up-on-2023)
+- [Trump joins Republican convention crowd with bandaged ear, in first public appearance assassination attempt – live](https://www.theguardian.com/us-news/live/2024/jul/15/donald-trump-republican-national-convention-speech-milwaukee-shooting-joe-biden-us-politics-latest-news-updates)
+- [Has the attempt to kill Trump handed him the election?](https://www.theguardian.com/news/audio/2024/jul/16/has-the-attempt-to-kill-trump-handed-him-the-election)
+- [Parts of Tonga without internet after cables damaged and Starlink ordered to cease operations](https://www.theguardian.com/world/article/2024/jul/16/parts-of-tonga-without-internet-after-cables-damaged-and-starlink-ordered-to-cease-operations)
+- [Biden says he meant ‘focus on’ Trump when asked about ‘bullseye’ remark](https://www.theguardian.com/us-news/article/2024/jul/15/biden-nbc-interview)
+- [‘Braveheart of our time’: RNC day one shows Trump inspires more awe than ever among Republicans](https://www.theguardian.com/us-news/article/2024/jul/15/rnc-republican-delegates-reaction-braveheart-trump)
+- [California bans rules requiring schools to tell parents of child’s pronoun change](https://www.theguardian.com/us-news/article/2024/jul/15/california-ban-school-rules-parents-student-pronoun-changes)
+- [Beaker Street science photography prize – in pictures](https://www.theguardian.com/science/gallery/2024/jul/16/beaker-street-science-photography-prize-in-pictures)
+- [Ukraine war briefing: Russia should attend second peace summit, Zelenskiy says](https://www.theguardian.com/world/article/2024/jul/16/ukraine-war-briefing-russia-should-attend-second-peace-summit-zelenskiy-says)
+- [Peter Buxtun, whistleblower who exposed Tuskegee syphilis study, dies aged 86](https://www.theguardian.com/us-news/article/2024/jul/15/peter-buxtun-tuskegee-whistleblower-dies)
+- [Rich-poor education gap grows for 16-year-olds in almost all of England](https://www.theguardian.com/education/article/2024/jul/16/rich-poor-education-attainment-gap-england)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

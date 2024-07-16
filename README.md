@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Movies directed by Andrey Tarkovsky &lpar;YouTube playlist&rpar;](https://www.youtube.com/playlist?list=PL7EqAsBxqGgjarBzACNmCNDdr0y0iFu8U)
-- [Tabloid: The Clickbait Headline Programming Language &lpar;2021&rpar;](https://tabloid.vercel.app/)
-- [Can ChatGPT do data science?](https://austinhenley.com/blog/chatgptdatascience.html)
-- [Fusion – a hobby OS implemented in Nim](https://github.com/khaledh/fusion)
-- [How to Know When It&#39;s Time to Go](https://thecodist.com/how-to-know-when-its-time-to-go/)
-- [Ask HN: Most accurate scientific book on Human Sleep?](https://news.ycombinator.com/item?id=40962582)
-- [Disqualified &lpar;1954&rpar;](https://www.gutenberg.org/cache/epub/30251/pg30251-images.html)
-- [Calculating position from raw GPS data &lpar;2017&rpar;](https://www.telesens.co/2017/07/17/calculating-position-from-raw-gps-data/)
-- [Show HN: An ad free temporary mail service](https://news.ycombinator.com/item?id=40961842)
-- [On Building Systems That Will Fail &lpar;1991&rpar;](http://larch-www.lcs.mit.edu:8001/~corbato/turing91/)
+- [MixRank &lpar;YC S11&rpar; Is Hiring Software Engineers and Founders Globally](https://news.ycombinator.com/item?id=40972842)
+- [Ask HN: Struggling with poor memory and executive function. What to do?](https://news.ycombinator.com/item?id=40972596)
+- [The Second Law of Thermodynamics](https://franklambert.net/secondlaw.com/)
+- [What Happened to Ancient Megafauna?](https://nautil.us/what-happened-to-ancient-megafauna-713371/)
+- [How do jewellers capture every last particle of gold dust? &lpar;2017&rpar;](https://www.ft.com/content/0512638c-b7c2-11e6-961e-a1acd97f622d)
+- [Shapeshift: Semantically map JSON objects using key-level vector embeddings](https://github.com/rectanglehq/Shapeshift)
+- [Show HN: Horizon – Private alternative to Imgur](https://horizon.pics)
+- [KUtrace: Low-overhead Linux kernel tracing facility](https://github.com/dicksites/KUtrace)
+- [The Mafia of Pharma Pricing](https://www.thebignewsletter.com/p/inside-the-mafia-of-pharma-pricing)
+- [Amiga 2000 – Codename: Tesseract &lpar;2021&rpar;](https://retrohax.net/amiga-2000-codename-tesseract/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

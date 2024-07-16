@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Cigarette sales and lung cancer mortality in the US](https://commons.wikimedia.org/wiki/File:Smoking-and-lung-cancer-mortality-US-only_3048.png)
-- [Researchers demonstrate how to build &#39;time-traveling&#39; quantum sensors](https://phys.org/news/2024-07-quantum-sensors.html)
-- [Show HN: Lingopeel AI – Duolingo for Conversations](https://apps.apple.com/us/app/lingopeel-ai-language-lessons/id6499281148)
-- [Global Population to Shrink This Century as Birth Rates Fall](https://www.ft.com/content/2d37dc16-5c73-4f2a-92a5-a78326f9dc3d)
-- [Plot: A minimal terminal charting tool](https://github.com/archiewood/plot)
-- [Cloc: Count lines &lpar;blank, comment, and physical&rpar; of source code](https://github.com/AlDanial/cloc)
-- [System76 Merkaat with Linux Mint: first impressions](https://journal.paoloamoroso.com/system76-merkaat-with-linux-mint-first-impressions)
-- [Ask HN: What would you do career wise if you were from a small country?](https://news.ycombinator.com/item?id=40964754)
-- [Google reportedly in talks to acquire cloud security company Wiz for $23B](https://techcrunch.com/2024/07/14/google-reportedly-in-talks-to-acquire-cloud-security-company-wiz-for-23b/)
-- [Movies directed by Andrey Tarkovsky &lpar;YouTube playlist&rpar;](https://www.youtube.com/playlist?list=PL7EqAsBxqGgjarBzACNmCNDdr0y0iFu8U)
+- [Task Dashboard Tips for Peak Productivity](https://www.leiga.com/post/task-dashboards)
+- [We built our world for a climate that no longer exists](https://www.cnn.com/2024/07/12/opinions/climate-crisis-change-extreme-weather-infrastructure/index.html)
+- [Elon Musk Commits Around $45M a Month to a New Pro-Trump Super Pac](https://www.wsj.com/politics/elections/elon-musk-has-said-he-is-committing-around-45-million-a-month-to-a-new-pro-trump-super-pac-dda53823)
+- [The New Right, Where Peter Thiel Is Placing His Biggest Bets](https://www.vanityfair.com/news/2022/04/inside-the-new-right-where-peter-thiel-is-placing-his-biggest-bets)
+- [Restic-Browser: A GUI to browse and restore restic backup repositories](https://github.com/emuell/restic-browser)
+- [Badgeify: macOS utility to add app icon and notifications to menu bar](https://badgeify.app/)
+- [Json.org](https://www.json.org/json-en.html)
+- [How insecure is Avast Secure Browser?](https://palant.info/2024/07/15/how-insecure-is-avast-secure-browser/)
+- [A Failure to Iterate Became a Full Rewrite](https://shermanonsoftware.com/2024/07/15/case-study-a-failure-to-iterate-became-a-full-rewrite/)
+- [Caprover changed to source-available license](https://github.com/caprover/caprover/commit/63906469b855d9f71dae59edff2f2e1b03f15fc5)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [MixRank &lpar;YC S11&rpar; Is Hiring Software Engineers and Founders Globally](https://news.ycombinator.com/item?id=40972842)
-- [Ask HN: Struggling with poor memory and executive function. What to do?](https://news.ycombinator.com/item?id=40972596)
-- [The Second Law of Thermodynamics](https://franklambert.net/secondlaw.com/)
-- [What Happened to Ancient Megafauna?](https://nautil.us/what-happened-to-ancient-megafauna-713371/)
-- [How do jewellers capture every last particle of gold dust? &lpar;2017&rpar;](https://www.ft.com/content/0512638c-b7c2-11e6-961e-a1acd97f622d)
-- [Shapeshift: Semantically map JSON objects using key-level vector embeddings](https://github.com/rectanglehq/Shapeshift)
-- [Show HN: Horizon – Private alternative to Imgur](https://horizon.pics)
-- [KUtrace: Low-overhead Linux kernel tracing facility](https://github.com/dicksites/KUtrace)
-- [The Mafia of Pharma Pricing](https://www.thebignewsletter.com/p/inside-the-mafia-of-pharma-pricing)
-- [Amiga 2000 – Codename: Tesseract &lpar;2021&rpar;](https://retrohax.net/amiga-2000-codename-tesseract/)
+- [Darwin Machines](https://vedgie.net/writing/darwin_machines.md)
+- [The golden age of scammers: AI-powered phishing](https://www.mailgun.com/blog/email/ai-phishing/)
+- [Show HN: Magic-cli – A copilot for your command line](https://github.com/guywaldman/magic-cli)
+- [Sync Labs &lpar;YC W24&rpar; Is Hiring a Staff Engineer](https://www.ycombinator.com/companies/sync-labs/jobs/CrRfnKu-founding-staff-engineer)
+- [Convex Architecture Handbook 1984 [pdf]](http://bitsavers.informatik.uni-stuttgart.de/pdf/convex/080-000120-000_CONVEX_Architecture_Handbook_1984.pdf)
+- [After 12 years of reviewing restaurants, I&#39;m leaving the table](https://www.nytimes.com/2024/07/16/dining/pete-wells-steps-down-food-critic.html)
+- [DevRel at HuggingFace](https://dx.tips/huggingface)
+- [Optimizing a bignum library for fun](https://austinhenley.com/blog/bignum2.html)
+- [Schrödinger&#39;s cat among biology&#39;s pigeons: 75 years of What Is Life?](https://www.nature.com/articles/d41586-018-06034-8)
+- [I am starting an AI+Education company](https://twitter.com/karpathy/status/1813263734707790301)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

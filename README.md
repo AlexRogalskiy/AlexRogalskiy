@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Task Dashboard Tips for Peak Productivity](https://www.leiga.com/post/task-dashboards)
-- [We built our world for a climate that no longer exists](https://www.cnn.com/2024/07/12/opinions/climate-crisis-change-extreme-weather-infrastructure/index.html)
-- [Elon Musk Commits Around $45M a Month to a New Pro-Trump Super Pac](https://www.wsj.com/politics/elections/elon-musk-has-said-he-is-committing-around-45-million-a-month-to-a-new-pro-trump-super-pac-dda53823)
-- [The New Right, Where Peter Thiel Is Placing His Biggest Bets](https://www.vanityfair.com/news/2022/04/inside-the-new-right-where-peter-thiel-is-placing-his-biggest-bets)
-- [Restic-Browser: A GUI to browse and restore restic backup repositories](https://github.com/emuell/restic-browser)
-- [Badgeify: macOS utility to add app icon and notifications to menu bar](https://badgeify.app/)
-- [Json.org](https://www.json.org/json-en.html)
-- [How insecure is Avast Secure Browser?](https://palant.info/2024/07/15/how-insecure-is-avast-secure-browser/)
-- [A Failure to Iterate Became a Full Rewrite](https://shermanonsoftware.com/2024/07/15/case-study-a-failure-to-iterate-became-a-full-rewrite/)
-- [Caprover changed to source-available license](https://github.com/caprover/caprover/commit/63906469b855d9f71dae59edff2f2e1b03f15fc5)
+- [Scientists Turn Seawater to Drinking Water with the Push of a Button](https://greekreporter.com/2024/07/16/seawater-drinking-water-push-button/)
+- [Data Formats: 3D, Audio, Image](https://paulbourke.net/dataformats/)
+- [Google&#39;s $500M effort to wreck Microsoft EU cloud deal failed](https://arstechnica.com/tech-policy/2024/07/googles-500m-effort-to-wreck-microsoft-eu-cloud-deal-failed-report-says/)
+- [Dell employees used company&#39;s corporate survey to tell bosses post-RTO feelings](https://www.businessinsider.com/tell-dell-annual-survey-results-show-employees-frustration-rto-push-2024-7)
+- [Free Introduction to Bash Scripting eBook](https://github.com/bobbyiliev/introduction-to-bash-scripting)
+- [Google Docs adding Markdown import and export](https://9to5google.com/2024/07/16/google-docs-markdown-import-export/)
+- [The Kimchi Masters of South Korea Can Teach You a Thing or Two](https://www.nytimes.com/2024/07/16/dining/south-korea-kimchi-masters.html)
+- [Genkit for Go: Build scalable AI-powered apps in Go](https://developers.googleblog.com/en/introducing-genkit-for-go-build-scalable-ai-powered-apps-in-go/)
+- [Exa raises $17M from Lightspeed, Nvidia, Y Combinator to build a Google for AIs](https://techcrunch.com/2024/07/16/exa-raises-17m-lightspeed-nvidia-ycombinator-google-ai-models/)
+- [Why is Sweden paying grandparents to babysit?](https://www.bloomberg.com/opinion/articles/2024-07-13/why-is-sweden-paying-grandparents-for-child-care-it-s-worth-a-try)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Trump joins Republican convention crowd with bandaged ear, in first public appearance assassination attempt – live](https://www.theguardian.com/us-news/live/2024/jul/15/donald-trump-republican-national-convention-speech-milwaukee-shooting-joe-biden-us-politics-latest-news-updates)
-- [Has the attempt to kill Trump handed him the election?](https://www.theguardian.com/news/audio/2024/jul/16/has-the-attempt-to-kill-trump-handed-him-the-election)
-- [Parts of Tonga without internet after cables damaged and Starlink ordered to cease operations](https://www.theguardian.com/world/article/2024/jul/16/parts-of-tonga-without-internet-after-cables-damaged-and-starlink-ordered-to-cease-operations)
-- [Biden says he meant ‘focus on’ Trump when asked about ‘bullseye’ remark](https://www.theguardian.com/us-news/article/2024/jul/15/biden-nbc-interview)
-- [‘Braveheart of our time’: RNC day one shows Trump inspires more awe than ever among Republicans](https://www.theguardian.com/us-news/article/2024/jul/15/rnc-republican-delegates-reaction-braveheart-trump)
-- [California bans rules requiring schools to tell parents of child’s pronoun change](https://www.theguardian.com/us-news/article/2024/jul/15/california-ban-school-rules-parents-student-pronoun-changes)
-- [Beaker Street science photography prize – in pictures](https://www.theguardian.com/science/gallery/2024/jul/16/beaker-street-science-photography-prize-in-pictures)
-- [Ukraine war briefing: Russia should attend second peace summit, Zelenskiy says](https://www.theguardian.com/world/article/2024/jul/16/ukraine-war-briefing-russia-should-attend-second-peace-summit-zelenskiy-says)
-- [Peter Buxtun, whistleblower who exposed Tuskegee syphilis study, dies aged 86](https://www.theguardian.com/us-news/article/2024/jul/15/peter-buxtun-tuskegee-whistleblower-dies)
-- [Rich-poor education gap grows for 16-year-olds in almost all of England](https://www.theguardian.com/education/article/2024/jul/16/rich-poor-education-attainment-gap-england)
+- [Haley says Trump ‘has my strong endorsement’; DeSantis rouses Republican delegates with anti-Biden speech – live](https://www.theguardian.com/us-news/live/2024/jul/16/rnc-haley-desantis-rubio-speeches-day-2-live-updates)
+- [The king’s speech: how radical will Labour be? – podcast](https://www.theguardian.com/news/audio/2024/jul/17/the-kings-speech-how-radical-will-labour-be-podcast)
+- [Suspect in killings of two Australians and companion in Philippines hotel surrenders to police](https://www.theguardian.com/world/article/2024/jul/17/suspect-in-killings-of-two-australians-and-companion-in-philippines-hotel-surrenders-to-police)
+- [UK adolescents get two-thirds of daily calories from UPFs, says survey](https://www.theguardian.com/society/article/2024/jul/17/uk-adolescents-get-two-thirds-of-daily-calories-from-upfs-says-survey)
+- [Scientists set up webcam in Colorado rattlesnake ‘mega den’ with up to 2,000 reptiles](https://www.theguardian.com/environment/article/2024/jul/17/colarado-rattlesnake-den-webcam-stream)
+- [Ukraine war briefing: Villages locked down in Putin’s Belgorod ‘sanitary zone’](https://www.theguardian.com/world/article/2024/jul/17/ukraine-war-briefing-villages-locked-down-in-putins-belgorod-sanitary-zone)
+- [Neo-Nazi leader charged over alleged plot to poison New York Jewish children](https://www.theguardian.com/us-news/article/2024/jul/16/neo-nazi-charged-new-york)
+- [French federation files complaint over ‘racist’ song by Argentina players](https://www.theguardian.com/football/article/2024/jul/16/fff-legal-complaint-racist-argentina-chants-copa-america)
+- [Women in England could be offered DIY cervical screening tests on NHS](https://www.theguardian.com/society/article/2024/jul/17/women-in-england-could-be-offered-diy-cervical-screening-tests-on-nhs)
+- [Biden reportedly to push for supreme court term limits and new ethics code](https://www.theguardian.com/us-news/article/2024/jul/16/biden-supreme-court-reforms)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

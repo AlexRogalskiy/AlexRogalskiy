@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Scientists Turn Seawater to Drinking Water with the Push of a Button](https://greekreporter.com/2024/07/16/seawater-drinking-water-push-button/)
-- [Data Formats: 3D, Audio, Image](https://paulbourke.net/dataformats/)
-- [Google&#39;s $500M effort to wreck Microsoft EU cloud deal failed](https://arstechnica.com/tech-policy/2024/07/googles-500m-effort-to-wreck-microsoft-eu-cloud-deal-failed-report-says/)
-- [Dell employees used company&#39;s corporate survey to tell bosses post-RTO feelings](https://www.businessinsider.com/tell-dell-annual-survey-results-show-employees-frustration-rto-push-2024-7)
-- [Free Introduction to Bash Scripting eBook](https://github.com/bobbyiliev/introduction-to-bash-scripting)
-- [Google Docs adding Markdown import and export](https://9to5google.com/2024/07/16/google-docs-markdown-import-export/)
-- [The Kimchi Masters of South Korea Can Teach You a Thing or Two](https://www.nytimes.com/2024/07/16/dining/south-korea-kimchi-masters.html)
-- [Genkit for Go: Build scalable AI-powered apps in Go](https://developers.googleblog.com/en/introducing-genkit-for-go-build-scalable-ai-powered-apps-in-go/)
-- [Exa raises $17M from Lightspeed, Nvidia, Y Combinator to build a Google for AIs](https://techcrunch.com/2024/07/16/exa-raises-17m-lightspeed-nvidia-ycombinator-google-ai-models/)
-- [Why is Sweden paying grandparents to babysit?](https://www.bloomberg.com/opinion/articles/2024-07-13/why-is-sweden-paying-grandparents-for-child-care-it-s-worth-a-try)
+- [A New Specialized Train Is Ready to Haul Nuclear Waste](https://spectrum.ieee.org/nuclear-waste-train-car)
+- [The Turing Test Is Bullshit &lpar;With Alex Hanna and Emily M. Bender&rpar;](https://www.ouropinionsarecorrect.com/shownotes/2024/4/4/the-turing-test-is-bullshit-walex-hanna-and-emily-m-bender)
+- [Picture Perfect: Your Go-To Tools for AVIF, PNG, and JPG Conversions](https://avif2png.net/)
+- [Retrofitting is part of accessibility &lpar;whether we like it or not&rpar;](https://andrewhuth.substack.com/p/retrofitting-is-part-of-accessibility)
+- [Tight-Knit Microbes Live Together to Make a Vital Nutrient](https://www.quantamagazine.org/tight-knit-microbes-live-together-to-make-a-vital-nutrient-20240717/)
+- [Americans&#39; confidence in higher education has taken a nosedive](https://lithub.com/americans-confidence-in-higher-education-has-taken-a-nosedive/)
+- [The Summer of Sci-Fi](https://www.newyorker.com/magazine/2024/07/22/the-future-was-now-chris-nashawaty-book-review)
+- [The Flattening Machine: This Is What Happens When News Breaks](https://www.theatlantic.com/technology/archive/2024/07/trump-shooting-social-media-conspiracies/679032/)
+- [Mars, the Candy-Company, Buys Another Veterinary Network](https://www.foodandpower.net/latest/2018/06/21/mars-buys-another-veterinary-network-as-a-candy-company-turned-pet-care-giant-furthers-its-influence-over-animal-health)
+- [Why does a/&lpar;b/c&rpar; = a&lpar;c/b&rpar;?](https://www.mail-archive.com/kragen-tol@canonical.org/msg00320.html)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

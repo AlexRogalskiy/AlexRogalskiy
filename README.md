@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Darwin Machines](https://vedgie.net/writing/darwin_machines.md)
-- [The golden age of scammers: AI-powered phishing](https://www.mailgun.com/blog/email/ai-phishing/)
-- [Show HN: Magic-cli – A copilot for your command line](https://github.com/guywaldman/magic-cli)
-- [Sync Labs &lpar;YC W24&rpar; Is Hiring a Staff Engineer](https://www.ycombinator.com/companies/sync-labs/jobs/CrRfnKu-founding-staff-engineer)
-- [Convex Architecture Handbook 1984 [pdf]](http://bitsavers.informatik.uni-stuttgart.de/pdf/convex/080-000120-000_CONVEX_Architecture_Handbook_1984.pdf)
-- [After 12 years of reviewing restaurants, I&#39;m leaving the table](https://www.nytimes.com/2024/07/16/dining/pete-wells-steps-down-food-critic.html)
-- [DevRel at HuggingFace](https://dx.tips/huggingface)
-- [Optimizing a bignum library for fun](https://austinhenley.com/blog/bignum2.html)
-- [Schrödinger&#39;s cat among biology&#39;s pigeons: 75 years of What Is Life?](https://www.nature.com/articles/d41586-018-06034-8)
-- [I am starting an AI+Education company](https://twitter.com/karpathy/status/1813263734707790301)
+- [NASA Spent $450M on a Moon Rover. Now It&#39;s Canceling the Mission](https://www.nytimes.com/2024/07/17/science/nasa-viper-moon-rover-canceled.html)
+- [Mercedes-Benz High-Power Charging Goes Large at Starbucks](https://electrek.co/2024/07/17/mercedes-benz-high-power-charging-starbucks/)
+- [Etleap &lpar;YC W13&rpar; Is Hiring a Customer Success Manager &lpar;San Francisco&rpar;](https://etleap.com/careers/customer-success-manager/)
+- [Overcoming the Limits of Large Language Models](https://seanpedersen.github.io/posts/overcoming-llm-limits)
+- [A RP2040 based DECstation 3000 emulator that can run DECWindows](https://github.com/rscott2049/DECstation2040)
+- [Closed form arc length parametrization is impossible for quadratic Bézier curves](https://ninjakoa.la/curly_curves/posts/quadratic_bezier_arc_length_parametrization/)
+- [SAPwned: SAP AI vulnerabilities expose customers&#39; cloud environments and privat](https://www.wiz.io/blog/sapwned-sap-ai-vulnerabilities-ai-security)
+- [Show HN: SQLite Transaction Benchmarking Tool](https://github.com/seddonm1/sqlite-bench)
+- [Show HN: Product Hunt for Music](https://tracklist.it/)
+- [Little Languages &lpar;1986&rpar; [pdf]](https://staff.um.edu.mt/afra1/seminar/little-languages.pdf)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

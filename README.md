@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Haley says Trump ‘has my strong endorsement’; DeSantis rouses Republican delegates with anti-Biden speech – live](https://www.theguardian.com/us-news/live/2024/jul/16/rnc-haley-desantis-rubio-speeches-day-2-live-updates)
-- [The king’s speech: how radical will Labour be? – podcast](https://www.theguardian.com/news/audio/2024/jul/17/the-kings-speech-how-radical-will-labour-be-podcast)
-- [Suspect in killings of two Australians and companion in Philippines hotel surrenders to police](https://www.theguardian.com/world/article/2024/jul/17/suspect-in-killings-of-two-australians-and-companion-in-philippines-hotel-surrenders-to-police)
-- [UK adolescents get two-thirds of daily calories from UPFs, says survey](https://www.theguardian.com/society/article/2024/jul/17/uk-adolescents-get-two-thirds-of-daily-calories-from-upfs-says-survey)
-- [Scientists set up webcam in Colorado rattlesnake ‘mega den’ with up to 2,000 reptiles](https://www.theguardian.com/environment/article/2024/jul/17/colarado-rattlesnake-den-webcam-stream)
-- [Ukraine war briefing: Villages locked down in Putin’s Belgorod ‘sanitary zone’](https://www.theguardian.com/world/article/2024/jul/17/ukraine-war-briefing-villages-locked-down-in-putins-belgorod-sanitary-zone)
-- [Neo-Nazi leader charged over alleged plot to poison New York Jewish children](https://www.theguardian.com/us-news/article/2024/jul/16/neo-nazi-charged-new-york)
-- [French federation files complaint over ‘racist’ song by Argentina players](https://www.theguardian.com/football/article/2024/jul/16/fff-legal-complaint-racist-argentina-chants-copa-america)
-- [Women in England could be offered DIY cervical screening tests on NHS](https://www.theguardian.com/society/article/2024/jul/17/women-in-england-could-be-offered-diy-cervical-screening-tests-on-nhs)
-- [Biden reportedly to push for supreme court term limits and new ethics code](https://www.theguardian.com/us-news/article/2024/jul/16/biden-supreme-court-reforms)
+- [Dodging the draft: one Ukrainian man’s story – podcast](https://www.theguardian.com/news/audio/2024/jul/18/dodging-the-draft-one-ukrainian-mans-story-podcast)
+- [Ukraine war briefing: Germany to halve military aid to Kyiv, draft budget reportedly shows](https://www.theguardian.com/world/article/2024/jul/18/ukraine-war-briefing-germany-to-halve-military-aid-to-kyiv-draft-budget-reportedly-shows)
+- [Ange Postecoglou focused on Tottenham after being linked to England manager job](https://www.theguardian.com/football/article/2024/jul/18/ange-postecoglou-england-manager-role-tottenham-spurs)
+- [‘Garbage time of history’: Chinese state media seeks to shut down claims country has entered a new epoch](https://www.theguardian.com/world/article/2024/jul/18/garbage-time-of-history-chinese-state-media-seeks-to-shut-down-claims-country-has-entered-a-new-epoch)
+- [US military to dismantle ill-fated Gaza aid pier, saying it is ‘mission complete’](https://www.theguardian.com/world/article/2024/jul/17/military-dismantle-gaza-aid-pier)
+- [Starmer vows to repeal Troubles legacy act in first meeting with Irish PM](https://www.theguardian.com/politics/article/2024/jul/17/keir-starmer-ireland-simon-harris-talks-before-european-summit)
+- [Sharp fall in number of NHS IVF procedures across UK, report finds](https://www.theguardian.com/society/article/2024/jul/18/sharp-fall-in-number-of-nhs-ivf-procedures-across-uk-report-finds)
+- [Health groups call for social care minimum wage to avert staffing crisis in England](https://www.theguardian.com/society/article/2024/jul/18/health-social-care-minimum-wage-staffing-crisis-uk)
+- [Trump sees former ‘Never Trumper’ JD Vance as a way to expand his base, insiders say](https://www.theguardian.com/us-news/article/2024/jul/17/jd-vance-criticism-trump-voters)
+- [Largest, most intact stegosaurus fossil ever found sells for $44.6m](https://www.theguardian.com/science/article/2024/jul/17/largest-most-intact-stegosaurus-fossil-ever-found-sells-for-446m)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

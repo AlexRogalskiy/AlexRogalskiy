@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Dodging the draft: one Ukrainian man’s story – podcast](https://www.theguardian.com/news/audio/2024/jul/18/dodging-the-draft-one-ukrainian-mans-story-podcast)
-- [Ukraine war briefing: Germany to halve military aid to Kyiv, draft budget reportedly shows](https://www.theguardian.com/world/article/2024/jul/18/ukraine-war-briefing-germany-to-halve-military-aid-to-kyiv-draft-budget-reportedly-shows)
-- [Ange Postecoglou focused on Tottenham after being linked to England manager job](https://www.theguardian.com/football/article/2024/jul/18/ange-postecoglou-england-manager-role-tottenham-spurs)
-- [‘Garbage time of history’: Chinese state media seeks to shut down claims country has entered a new epoch](https://www.theguardian.com/world/article/2024/jul/18/garbage-time-of-history-chinese-state-media-seeks-to-shut-down-claims-country-has-entered-a-new-epoch)
-- [US military to dismantle ill-fated Gaza aid pier, saying it is ‘mission complete’](https://www.theguardian.com/world/article/2024/jul/17/military-dismantle-gaza-aid-pier)
-- [Starmer vows to repeal Troubles legacy act in first meeting with Irish PM](https://www.theguardian.com/politics/article/2024/jul/17/keir-starmer-ireland-simon-harris-talks-before-european-summit)
-- [Sharp fall in number of NHS IVF procedures across UK, report finds](https://www.theguardian.com/society/article/2024/jul/18/sharp-fall-in-number-of-nhs-ivf-procedures-across-uk-report-finds)
-- [Health groups call for social care minimum wage to avert staffing crisis in England](https://www.theguardian.com/society/article/2024/jul/18/health-social-care-minimum-wage-staffing-crisis-uk)
-- [Trump sees former ‘Never Trumper’ JD Vance as a way to expand his base, insiders say](https://www.theguardian.com/us-news/article/2024/jul/17/jd-vance-criticism-trump-voters)
-- [Largest, most intact stegosaurus fossil ever found sells for $44.6m](https://www.theguardian.com/science/article/2024/jul/17/largest-most-intact-stegosaurus-fossil-ever-found-sells-for-446m)
+- [Fears rightwing coalition will unwind NZ gun reforms brought in after Christchurch massacre](https://www.theguardian.com/world/article/2024/jul/19/fears-rightwing-coalition-will-unwind-nz-gun-reforms-brought-in-after-christchurch-massacre)
+- [The ‘brat’ summer takeover – podcast](https://www.theguardian.com/news/audio/2024/jul/19/the-brat-summer-takeover-podcast)
+- [Playing for survival: the blind Japanese woman keeping a music tradition alive](https://www.theguardian.com/world/article/2024/jul/19/playing-for-survival-the-blind-japanese-woman-keeping-a-music-tradition-alive)
+- [Trump expected to call for national unity in first speech since assassination attempt](https://www.theguardian.com/us-news/article/2024/jul/18/trump-republican-convention-speech-national-unity)
+- [Bob Newhart, famed comedian and sitcom actor, dies at 94](https://www.theguardian.com/tv-and-radio/article/2024/jul/18/bob-newhart-dead-comedian-sitcom-star)
+- [Highly infectious poliovirus found in Gaza sewage samples](https://www.theguardian.com/world/article/2024/jul/19/israel-gaza-war-polio-sewage-samples)
+- [Ukraine war briefing: Attack on Russian bases in Crimea](https://www.theguardian.com/world/article/2024/jul/19/ukraine-war-briefing-attack-on-russian-bases-in-crimea)
+- [Police car turned over and vehicles set alight in disorder in Leeds](https://www.theguardian.com/uk-news/article/2024/jul/18/police-car-turned-over-and-vehicles-set-alight-in-disorder-in-leeds)
+- [English councils call for further delay to social care costs cap](https://www.theguardian.com/society/article/2024/jul/19/english-councils-call-for-further-delay-to-social-care-costs-cap)
+- [Bamburgh judged UK’s best seaside destination by Which? readers for fourth year](https://www.theguardian.com/uk-news/article/2024/jul/19/bamburgh-best-uk-seaside-destination-which-survey)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

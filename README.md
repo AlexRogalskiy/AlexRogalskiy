@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [NASA Spent $450M on a Moon Rover. Now It&#39;s Canceling the Mission](https://www.nytimes.com/2024/07/17/science/nasa-viper-moon-rover-canceled.html)
-- [Mercedes-Benz High-Power Charging Goes Large at Starbucks](https://electrek.co/2024/07/17/mercedes-benz-high-power-charging-starbucks/)
-- [Etleap &lpar;YC W13&rpar; Is Hiring a Customer Success Manager &lpar;San Francisco&rpar;](https://etleap.com/careers/customer-success-manager/)
-- [Overcoming the Limits of Large Language Models](https://seanpedersen.github.io/posts/overcoming-llm-limits)
-- [A RP2040 based DECstation 3000 emulator that can run DECWindows](https://github.com/rscott2049/DECstation2040)
-- [Closed form arc length parametrization is impossible for quadratic Bézier curves](https://ninjakoa.la/curly_curves/posts/quadratic_bezier_arc_length_parametrization/)
-- [SAPwned: SAP AI vulnerabilities expose customers&#39; cloud environments and privat](https://www.wiz.io/blog/sapwned-sap-ai-vulnerabilities-ai-security)
-- [Show HN: SQLite Transaction Benchmarking Tool](https://github.com/seddonm1/sqlite-bench)
-- [Show HN: Product Hunt for Music](https://tracklist.it/)
-- [Little Languages &lpar;1986&rpar; [pdf]](https://staff.um.edu.mt/afra1/seminar/little-languages.pdf)
+- [Rollstack &lpar;YC W23&rpar; Is Hiring Exceptional TypeScript Engineers](https://www.ycombinator.com/companies/rollstack-2/jobs)
+- [Youth with conduct disorder show widespread differences in brain structure](https://www.nih.gov/news-events/news-releases/youth-conduct-disorder-show-widespread-differences-brain-structure)
+- [Elephants Are Doing Something Deeply Human](https://www.theatlantic.com/science/archive/2024/07/animal-naming-elephant-consciousness-language/679075/)
+- [Double trouble: ESA&#39;s Gaia hit by micrometeoroid and solar storm](https://www.esa.int/Enabling_Support/Operations/Double_trouble_Gaia_hit_by_micrometeoroid_and_solar_storm)
+- [60-year-old German man likely seventh person to be effectively cured from HIV](https://www.rfi.fr/en/international-news/20240718-seventh-person-likely-cured-of-hiv-doctors-announce)
+- [A type system for RCL, part 2: The type system](https://ruudvanasseldonk.com/2024/a-type-system-for-rcl-part-2-the-type-system)
+- [What would it take to recreate Bell Labs?](https://www.construction-physics.com/p/what-would-it-take-to-recreate-bell)
+- [USPS shared customer postal addresses with Meta, LinkedIn and Snap](https://techcrunch.com/2024/07/18/usps-shared-customer-postal-addresses-with-meta-linkedin-and-snap/)
+- [Devzat – Chat over SSH, with some nice quality-of-life features](https://github.com/quackduck/devzat)
+- [Transcribro: On-device Accurate Speech-to-text](https://github.com/soupslurpr/Transcribro)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

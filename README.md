@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [A New Specialized Train Is Ready to Haul Nuclear Waste](https://spectrum.ieee.org/nuclear-waste-train-car)
-- [The Turing Test Is Bullshit &lpar;With Alex Hanna and Emily M. Bender&rpar;](https://www.ouropinionsarecorrect.com/shownotes/2024/4/4/the-turing-test-is-bullshit-walex-hanna-and-emily-m-bender)
-- [Picture Perfect: Your Go-To Tools for AVIF, PNG, and JPG Conversions](https://avif2png.net/)
-- [Retrofitting is part of accessibility &lpar;whether we like it or not&rpar;](https://andrewhuth.substack.com/p/retrofitting-is-part-of-accessibility)
-- [Tight-Knit Microbes Live Together to Make a Vital Nutrient](https://www.quantamagazine.org/tight-knit-microbes-live-together-to-make-a-vital-nutrient-20240717/)
-- [Americans&#39; confidence in higher education has taken a nosedive](https://lithub.com/americans-confidence-in-higher-education-has-taken-a-nosedive/)
-- [The Summer of Sci-Fi](https://www.newyorker.com/magazine/2024/07/22/the-future-was-now-chris-nashawaty-book-review)
-- [The Flattening Machine: This Is What Happens When News Breaks](https://www.theatlantic.com/technology/archive/2024/07/trump-shooting-social-media-conspiracies/679032/)
-- [Mars, the Candy-Company, Buys Another Veterinary Network](https://www.foodandpower.net/latest/2018/06/21/mars-buys-another-veterinary-network-as-a-candy-company-turned-pet-care-giant-furthers-its-influence-over-animal-health)
-- [Why does a/&lpar;b/c&rpar; = a&lpar;c/b&rpar;?](https://www.mail-archive.com/kragen-tol@canonical.org/msg00320.html)
+- [If today&#39;s successful startups were in different historical eras](https://www.rusticflute.com/p/startup-rewind)
+- [Old-Person Smell Exists &lpar;2012&rpar;](https://healthland.time.com/2012/05/31/old-person-smell-really-exists-scientists-say/)
+- [New Features in C++26](https://lwn.net/Articles/979870/)
+- [Resource Allocation: Race or Rate?](https://www.jsnover.com/blog/2017/06/23/resource-allocation-race-or-rate/)
+- [Show HN: NetSour, CLI Based Wireshark](https://github.com/thegoodduck/NetSour)
+- [How a Single Line of Code Brought Down a Billion Dollar Rocket](https://newsletter.techworld-with-milan.com/p/how-a-single-line-of-code-brought)
+- [Life was dirty, difficult, and dangerous for almost everyone who ever existed](https://www.freethink.com/society/techno-humanist-manifesto-chapter-1)
+- [What&#39;s the point of std:monostate? You can&#39;t do anything with it](https://devblogs.microsoft.com/oldnewthing/20240708-00/?p=109959)
+- [Show HN: I reverse engineered and implemented a protocol for V5 Brains](https://vexide.dev/blog/posts/serial-deep-dive/)
+- [Bayesian Statistics: The Three Cultures](https://statmodeling.stat.columbia.edu/2024/07/10/three-cultures-bayes-subjective-objective-pragmatic/)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

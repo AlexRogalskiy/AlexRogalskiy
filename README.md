@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Fears rightwing coalition will unwind NZ gun reforms brought in after Christchurch massacre](https://www.theguardian.com/world/article/2024/jul/19/fears-rightwing-coalition-will-unwind-nz-gun-reforms-brought-in-after-christchurch-massacre)
-- [The ‘brat’ summer takeover – podcast](https://www.theguardian.com/news/audio/2024/jul/19/the-brat-summer-takeover-podcast)
-- [Playing for survival: the blind Japanese woman keeping a music tradition alive](https://www.theguardian.com/world/article/2024/jul/19/playing-for-survival-the-blind-japanese-woman-keeping-a-music-tradition-alive)
-- [Trump expected to call for national unity in first speech since assassination attempt](https://www.theguardian.com/us-news/article/2024/jul/18/trump-republican-convention-speech-national-unity)
-- [Bob Newhart, famed comedian and sitcom actor, dies at 94](https://www.theguardian.com/tv-and-radio/article/2024/jul/18/bob-newhart-dead-comedian-sitcom-star)
-- [Highly infectious poliovirus found in Gaza sewage samples](https://www.theguardian.com/world/article/2024/jul/19/israel-gaza-war-polio-sewage-samples)
-- [Ukraine war briefing: Attack on Russian bases in Crimea](https://www.theguardian.com/world/article/2024/jul/19/ukraine-war-briefing-attack-on-russian-bases-in-crimea)
-- [Police car turned over and vehicles set alight in disorder in Leeds](https://www.theguardian.com/uk-news/article/2024/jul/18/police-car-turned-over-and-vehicles-set-alight-in-disorder-in-leeds)
-- [English councils call for further delay to social care costs cap](https://www.theguardian.com/society/article/2024/jul/19/english-councils-call-for-further-delay-to-social-care-costs-cap)
-- [Bamburgh judged UK’s best seaside destination by Which? readers for fourth year](https://www.theguardian.com/uk-news/article/2024/jul/19/bamburgh-best-uk-seaside-destination-which-survey)
+- [Man accused of Nazi salute during US Capitol attack jailed for nearly five years](https://www.theguardian.com/us-news/article/2024/jul/19/us-capitol-attack-prison-sentence)
+- [Slow recovery from IT outage begins as experts warn of future risks](https://www.theguardian.com/australia-news/article/2024/jul/19/microsoft-windows-pcs-outage-blue-screen-of-death)
+- [German national sentenced to death in Belarus, Berlin confirms](https://www.theguardian.com/world/article/2024/jul/19/german-combat-medic-reportedly-sentenced-to-death-in-belarus)
+- [Two Australians and three Indonesians survive helicopter crash in Bali, officials say](https://www.theguardian.com/world/article/2024/jul/20/two-australians-and-three-indonesians-survive-helicopter-crash-in-bali-officials-say)
+- [Putting design first: six social housing projects from around the world](https://www.theguardian.com/artanddesign/article/2024/jul/20/putting-design-first-six-social-housing-projects-from-around-the-world)
+- [‘After our child was born we didn’t have satisfying sex for seven years’](https://www.theguardian.com/lifeandstyle/article/2024/jul/20/after-our-child-was-born-we-didnt-have-satisfying-sex-for-seven-years)
+- [First Night of the Proms review – a thrilling adventure ride](https://www.theguardian.com/music/article/2024/jul/19/first-night-of-the-proms-review-a-thrilling-adventure-ride)
+- [Pressure mounts on Biden as tally of Democrats urging withdrawal passes 30](https://www.theguardian.com/us-news/article/2024/jul/19/biden-betrayed-democrats-election-2024)
+- [Former factory in Dublin intended to house asylum seekers is set on fire](https://www.theguardian.com/world/article/2024/jul/19/former-factory-in-dublin-intended-to-house-asylum-seekers-is-set-on-fire)
+- [Nationalist campaigner for the Ukrainian language is shot dead in Lviv](https://www.theguardian.com/world/article/2024/jul/19/nationalist-campaigner-for-the-ukrainian-language-is-shot-dead-in-lviv)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

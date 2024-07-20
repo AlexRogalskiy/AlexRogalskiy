@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [If today&#39;s successful startups were in different historical eras](https://www.rusticflute.com/p/startup-rewind)
-- [Old-Person Smell Exists &lpar;2012&rpar;](https://healthland.time.com/2012/05/31/old-person-smell-really-exists-scientists-say/)
-- [New Features in C++26](https://lwn.net/Articles/979870/)
-- [Resource Allocation: Race or Rate?](https://www.jsnover.com/blog/2017/06/23/resource-allocation-race-or-rate/)
-- [Show HN: NetSour, CLI Based Wireshark](https://github.com/thegoodduck/NetSour)
-- [How a Single Line of Code Brought Down a Billion Dollar Rocket](https://newsletter.techworld-with-milan.com/p/how-a-single-line-of-code-brought)
-- [Life was dirty, difficult, and dangerous for almost everyone who ever existed](https://www.freethink.com/society/techno-humanist-manifesto-chapter-1)
-- [What&#39;s the point of std:monostate? You can&#39;t do anything with it](https://devblogs.microsoft.com/oldnewthing/20240708-00/?p=109959)
-- [Show HN: I reverse engineered and implemented a protocol for V5 Brains](https://vexide.dev/blog/posts/serial-deep-dive/)
-- [Bayesian Statistics: The Three Cultures](https://statmodeling.stat.columbia.edu/2024/07/10/three-cultures-bayes-subjective-objective-pragmatic/)
+- [Sonic Outlaws &lpar;1995&rpar;](https://www.youtube.com/watch?v=7UvW0Nq79Jw)
+- [The Muck: Rail Helping WSOP Champ Between Hands Bad for the Game?](https://www.pokernews.com/news/2024/07/alan-keating-wsop-main-event-controversy-46608.htm)
+- [Man Defrauds Amazon to Fix Potholes [video]](https://www.youtube.com/watch?v=1mXCSMu0fH4)
+- [Go-To Tools for AVIF, PNG, and JPG Conversions](https://jpg2avif.com/)
+- [Argentina&#39;s economy is growing beyond expectations](https://www.semafor.com/article/07/19/2024/argentinas-economy-is-growing-beyond-expectations)
+- [Beyond the Hype: A Realistic Look at Large Language Models • Jodie Burchell [video]](https://www.youtube.com/watch?v=Pv0cfsastFs)
+- [1.0.0 release of Rust support for seL4 userspace](https://github.com/seL4/rust-sel4/releases/tag/v1.0.0)
+- [IPv6 support for cloning Git repositories](https://github.com/orgs/community/discussions/10539)
+- [How to Learn to Program](https://medium.com/@kkmvv/how-to-learn-to-program-37508d1c9da0)
+- [Helion Leaves Scientists Puzzled](https://www.bloomberg.com/news/articles/2024-07-18/sam-altman-s-helion-energy-promises-fusion-power-by-2028)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

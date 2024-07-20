@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Rollstack &lpar;YC W23&rpar; Is Hiring Exceptional TypeScript Engineers](https://www.ycombinator.com/companies/rollstack-2/jobs)
-- [Youth with conduct disorder show widespread differences in brain structure](https://www.nih.gov/news-events/news-releases/youth-conduct-disorder-show-widespread-differences-brain-structure)
-- [Elephants Are Doing Something Deeply Human](https://www.theatlantic.com/science/archive/2024/07/animal-naming-elephant-consciousness-language/679075/)
-- [Double trouble: ESA&#39;s Gaia hit by micrometeoroid and solar storm](https://www.esa.int/Enabling_Support/Operations/Double_trouble_Gaia_hit_by_micrometeoroid_and_solar_storm)
-- [60-year-old German man likely seventh person to be effectively cured from HIV](https://www.rfi.fr/en/international-news/20240718-seventh-person-likely-cured-of-hiv-doctors-announce)
-- [A type system for RCL, part 2: The type system](https://ruudvanasseldonk.com/2024/a-type-system-for-rcl-part-2-the-type-system)
-- [What would it take to recreate Bell Labs?](https://www.construction-physics.com/p/what-would-it-take-to-recreate-bell)
-- [USPS shared customer postal addresses with Meta, LinkedIn and Snap](https://techcrunch.com/2024/07/18/usps-shared-customer-postal-addresses-with-meta-linkedin-and-snap/)
-- [Devzat – Chat over SSH, with some nice quality-of-life features](https://github.com/quackduck/devzat)
-- [Transcribro: On-device Accurate Speech-to-text](https://github.com/soupslurpr/Transcribro)
+- [Technical Details on Today&#39;s Outage](https://www.crowdstrike.com/blog/technical-details-on-todays-outage/)
+- [Garage: Open-Source Distributed Object Storage](https://garagehq.deuxfleurs.fr/)
+- [I mapped almost every USA traffic death in the 21st century](https://roadway.report)
+- [Multisatellite data depicts a record-breaking methane leak from a well blowout](https://pubs.acs.org/doi/10.1021/acs.estlett.4c00399)
+- [The European Union must keep funding free software](https://pad.public.cat/lettre-NCP-NGI)
+- [AI paid for by Ads – the GPT-4o mini inflection point](https://batchmon.com/blog/ai-cheaper-than-ads/)
+- [Never Update Anything](https://blog.kronis.dev/articles/never-update-anything)
+- [What happened to BERT and T5?](https://www.yitay.net/blog/model-architecture-blogpost-encoders-prefixlm-denoising)
+- [Kompute – Vulkan Alternative to CUDA](https://github.com/KomputeProject/kompute)
+- [A search engine by and for the federal government](https://search.gov/)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

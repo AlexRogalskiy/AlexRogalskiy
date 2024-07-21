@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Man accused of Nazi salute during US Capitol attack jailed for nearly five years](https://www.theguardian.com/us-news/article/2024/jul/19/us-capitol-attack-prison-sentence)
-- [Slow recovery from IT outage begins as experts warn of future risks](https://www.theguardian.com/australia-news/article/2024/jul/19/microsoft-windows-pcs-outage-blue-screen-of-death)
-- [German national sentenced to death in Belarus, Berlin confirms](https://www.theguardian.com/world/article/2024/jul/19/german-combat-medic-reportedly-sentenced-to-death-in-belarus)
-- [Two Australians and three Indonesians survive helicopter crash in Bali, officials say](https://www.theguardian.com/world/article/2024/jul/20/two-australians-and-three-indonesians-survive-helicopter-crash-in-bali-officials-say)
-- [Putting design first: six social housing projects from around the world](https://www.theguardian.com/artanddesign/article/2024/jul/20/putting-design-first-six-social-housing-projects-from-around-the-world)
-- [‘After our child was born we didn’t have satisfying sex for seven years’](https://www.theguardian.com/lifeandstyle/article/2024/jul/20/after-our-child-was-born-we-didnt-have-satisfying-sex-for-seven-years)
-- [First Night of the Proms review – a thrilling adventure ride](https://www.theguardian.com/music/article/2024/jul/19/first-night-of-the-proms-review-a-thrilling-adventure-ride)
-- [Pressure mounts on Biden as tally of Democrats urging withdrawal passes 30](https://www.theguardian.com/us-news/article/2024/jul/19/biden-betrayed-democrats-election-2024)
-- [Former factory in Dublin intended to house asylum seekers is set on fire](https://www.theguardian.com/world/article/2024/jul/19/former-factory-in-dublin-intended-to-house-asylum-seekers-is-set-on-fire)
-- [Nationalist campaigner for the Ukrainian language is shot dead in Lviv](https://www.theguardian.com/world/article/2024/jul/19/nationalist-campaigner-for-the-ukrainian-language-is-shot-dead-in-lviv)
+- [Ukraine war briefing: Sirens sound in Kyiv as strike kills two in Kharkiv](https://www.theguardian.com/world/article/2024/jul/21/ukraine-war-briefing-sirens-sound-in-kyiv-as-strike-kills-two-in-kharkiv)
+- [‘I’m so sorry, I’ve got cancer’: why do two of every five Australian men die early from preventable conditions?](https://www.theguardian.com/australia-news/article/2024/jul/21/im-so-sorry-ive-got-cancer-why-do-two-of-every-five-australian-men-die-early-from-preventable-conditions)
+- [Trump attacks Biden and Harris in first rally since assassination attempt](https://www.theguardian.com/us-news/article/2024/jul/20/trump-michigan-rally)
+- [Flower power: 12 of the best floral tops – in pictures](https://www.theguardian.com/fashion/gallery/2024/jul/20/flower-power-12-of-the-best-floral-tops-in-pictures)
+- [We Love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2024/jul/20/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
+- [Labour MP calls two-child benefit cap ‘heinous’ in latest call to scrap policy](https://www.theguardian.com/society/article/2024/jul/20/pressure-grows-on-keir-starmer-to-scrap-two-child-benefit-cap)
+- [Piglets review – this comedy is so weak you wonder why the police bothered to complain about it](https://www.theguardian.com/tv-and-radio/article/2024/jul/20/piglets-review-comedy-weak-police-complained)
+- [Outsider Dan Brown gives himself every chance of bringing home Open bacon](https://www.theguardian.com/sport/article/2024/jul/20/outsider-dan-brown-gives-himself-every-chance-of-bringing-home-open-bacon)
+- [The moment I knew: he gave the homeless man his number in case he needed someone to talk to](https://www.theguardian.com/lifeandstyle/article/2024/jul/21/the-moment-i-knew-he-gave-the-homeless-man-his-number-in-case-he-needed-someone-to-talk-to)
+- [Broccolini: how ‘fun time’ between vegetables spawned a side-dish star](https://www.theguardian.com/food/article/2024/jul/21/broccolini-how-fun-time-between-vegetables-spawned-a-side-dish-star)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

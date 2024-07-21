@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Sonic Outlaws &lpar;1995&rpar;](https://www.youtube.com/watch?v=7UvW0Nq79Jw)
-- [The Muck: Rail Helping WSOP Champ Between Hands Bad for the Game?](https://www.pokernews.com/news/2024/07/alan-keating-wsop-main-event-controversy-46608.htm)
-- [Man Defrauds Amazon to Fix Potholes [video]](https://www.youtube.com/watch?v=1mXCSMu0fH4)
-- [Go-To Tools for AVIF, PNG, and JPG Conversions](https://jpg2avif.com/)
-- [Argentina&#39;s economy is growing beyond expectations](https://www.semafor.com/article/07/19/2024/argentinas-economy-is-growing-beyond-expectations)
-- [Beyond the Hype: A Realistic Look at Large Language Models • Jodie Burchell [video]](https://www.youtube.com/watch?v=Pv0cfsastFs)
-- [1.0.0 release of Rust support for seL4 userspace](https://github.com/seL4/rust-sel4/releases/tag/v1.0.0)
-- [IPv6 support for cloning Git repositories](https://github.com/orgs/community/discussions/10539)
-- [How to Learn to Program](https://medium.com/@kkmvv/how-to-learn-to-program-37508d1c9da0)
-- [Helion Leaves Scientists Puzzled](https://www.bloomberg.com/news/articles/2024-07-18/sam-altman-s-helion-energy-promises-fusion-power-by-2028)
+- [AMD says its new laptop chips can beat Apple](https://www.theverge.com/2024/7/19/24198605/amd-ryzen-ai-strix-point-vs-apple-intel-qualcomm-event)
+- [Ask HN: My broken app got Google clicks. I just found out](https://www.menumystic.com)
+- [Scholar of religion&#39;s decline faces his own church&#39;s closure](https://apnews.com/article/illinois-christian-baptist-church-closure-religious-trends-c6b9e938eb228c8018fb911b02a791f0)
+- [Time-Reversal Simulator Outperforms Classical Methods](https://www.azoquantum.com/News.aspx?newsID=10360)
+- [CSS Stuff I&#39;m Excited After the Last Csswg Meeting](https://css-tricks.com/css-stuff-im-excited-after-the-last-csswg-meeting/)
+- [Open Wallets, Empty Hearts](https://www.thenewatlantis.com/publications/open-wallets-empty-hearts)
+- [How to Beg/Borrow/Steal Your Way to a Cross Platform Bluetooth LE Library &lpar;2023&rpar;](https://nonpolynomial.com/2023/10/30/how-to-beg-borrow-steal-your-way-to-a-cross-platform-bluetooth-le-library/)
+- [Interactive, file-level Time Machine-like tool for ZFS/btrfs/nilfs2](https://github.com/kimono-koans/httm)
+- [Oxytocin and Longevity: Evidence-Based Analysis of Health Benefits](https://gethealthspan.com/science/article/oxytocin-supplement-benefits)
+- [It is time to stop normalizing remote kernel-level access](https://news.ycombinator.com/item?id=41021819)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

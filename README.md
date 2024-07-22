@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [AMD says its new laptop chips can beat Apple](https://www.theverge.com/2024/7/19/24198605/amd-ryzen-ai-strix-point-vs-apple-intel-qualcomm-event)
-- [Ask HN: My broken app got Google clicks. I just found out](https://www.menumystic.com)
-- [Scholar of religion&#39;s decline faces his own church&#39;s closure](https://apnews.com/article/illinois-christian-baptist-church-closure-religious-trends-c6b9e938eb228c8018fb911b02a791f0)
-- [Time-Reversal Simulator Outperforms Classical Methods](https://www.azoquantum.com/News.aspx?newsID=10360)
-- [CSS Stuff I&#39;m Excited After the Last Csswg Meeting](https://css-tricks.com/css-stuff-im-excited-after-the-last-csswg-meeting/)
-- [Open Wallets, Empty Hearts](https://www.thenewatlantis.com/publications/open-wallets-empty-hearts)
-- [How to Beg/Borrow/Steal Your Way to a Cross Platform Bluetooth LE Library &lpar;2023&rpar;](https://nonpolynomial.com/2023/10/30/how-to-beg-borrow-steal-your-way-to-a-cross-platform-bluetooth-le-library/)
-- [Interactive, file-level Time Machine-like tool for ZFS/btrfs/nilfs2](https://github.com/kimono-koans/httm)
-- [Oxytocin and Longevity: Evidence-Based Analysis of Health Benefits](https://gethealthspan.com/science/article/oxytocin-supplement-benefits)
-- [It is time to stop normalizing remote kernel-level access](https://news.ycombinator.com/item?id=41021819)
+- [A Neuroscientist Explains the Brain-Boosting Benefits of Swim, Bike, and Run](https://www.triathlete.com/training/a-neuroscientist-explains-the-brain-boosting-benefits-of-swim-bike-and-run/)
+- [Dondurma: The Turkish ice cream eaten with a knife and fork](https://www.bbc.com/travel/article/20240719-dondurma-the-turkish-ice-cream-eaten-with-a-knife-and-fork)
+- [The Semiconductor Design Software Duopoly: Cadence and Synopsys [video]](https://www.youtube.com/watch?v=AUm08ZUD63Q)
+- [CrowdStrike&#39;s Falcon Sensor also linked to Linux kernel panics and crashes](https://www.theregister.com/2024/07/21/crowdstrike_linux_crashes_restoration_tools/)
+- [Ask HN: What&#39;s the best YouTube lecture you&#39;ve seen recently?](https://news.ycombinator.com/item?id=41030350)
+- [Scientists edit the genes of gut bacteria in living mice](https://www.nature.com/articles/d41586-024-02238-3)
+- [Cookup: AI Chef](https://apps.apple.com/ar/app/cookup-ia-chef/id6504583227)
+- [Build a Product That the User Wants – Hard Learnt Unsaid Rules of User Interview](https://buildstartupinpublic.substack.com/p/unsaid-rules-of-user-interviews-by-founder)
+- [A bit more regarding UTM SE on the iPad](https://taoofmac.com/space/blog/2024/07/14/1430)
+- [Can I place a stop loss and a limit sell at the same time?](https://money.stackexchange.com/questions/87599/can-i-place-a-stop-loss-and-a-limit-sell-at-the-same-time)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

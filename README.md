@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Qualcomm makes its AI models available to app developers](https://www.tomshardware.com/tech-industry/artificial-intelligence/qualcomm-makes-its-ai-models-available-to-app-developers)
-- [&quot;Maxwell&#39;s equations of software&quot; examined](https://www.righto.com/2008/07/maxwells-equations-of-software-examined.html)
-- [Deluge of Fake Mac App Store Reviews](https://lapcatsoftware.com/articles/2024/7/1.html)
-- [Show HN: JSON-Threat-Protection Rust High-Performance Crate](https://github.com/ADD-SP/json-threat-protection.rs)
-- [Initial details about why CrowdStrike&#39;s CSAgent.sys crashed](https://twitter.com/patrickwardle/status/1814343502886477857)
-- [Empathy for the user having sex with your software](https://docs.buttplug.io/docs/dev-guide/intro/buttplug-ethics/)
-- [&#39;Google says I&#39;m a dead physicist&#39;: is the biggest search engine broken?](https://www.theguardian.com/technology/article/2024/jul/20/google-is-the-worlds-biggest-search-engine-broken)
-- [Managing Classic Mac OS Resources in ResEdit](https://eclecticlight.co/2024/07/20/managing-classic-mac-os-resources-in-resedit/)
-- [Google Distributed Cloud air-gapped appliance](https://cloud.google.com/blog/topics/hybrid-cloud/google-distributed-cloud-air-gapped-appliance-is-ga)
-- [Minuteman missile communications](https://computer.rip/2024-07-20-minuteman-missile-communications.html)
+- [Apollo DN10000: Quad CPU/128Mb RAM workstation from 1988 [pdf]](https://jim.rees.org/apollo-archive/marketing/1988-ApolloDN10000ProductBrochure.pdf)
+- [How the CIA &#39;kidnapped&#39; a Soviet moon probe during the space race](https://www.space.com/how-the-cia-kidnapped-a-soviet-moon-probe-during-the-space-race)
+- [Show HN: Shade/Bs – Modern Web UIs Without Node.js](https://ui.masoftware.net/)
+- [Pin](https://without.boats/blog/pin/)
+- [James C. Scott, author of Seeing Like a State, has died](https://nitter.poast.org/GerardoMunck/status/1815059432382067053)
+- [Mojeek – The alternative search engine that puts the people who use it first](https://www.mojeek.com/about/)
+- [Constantine: Nim lang high-performance, zero-dependency cryptography stack](https://github.com/mratsim/constantine)
+- [French Acrobatic Artist’s Low-Gravity Invention](https://www.core77.com/posts/133036/Acrobatic-Artist-Bastien-Dausses-Incredible-Low-Gravity-Invention)
+- [Continue &lpar;YC S23&rpar; Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
+- [AI method rapidly speeds predictions of materials&#39; thermal properties](https://news.mit.edu/2024/ai-method-radically-speeds-predictions-materials-thermal-properties-0716)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

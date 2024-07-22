@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Ukraine war briefing: Sirens sound in Kyiv as strike kills two in Kharkiv](https://www.theguardian.com/world/article/2024/jul/21/ukraine-war-briefing-sirens-sound-in-kyiv-as-strike-kills-two-in-kharkiv)
-- [‘I’m so sorry, I’ve got cancer’: why do two of every five Australian men die early from preventable conditions?](https://www.theguardian.com/australia-news/article/2024/jul/21/im-so-sorry-ive-got-cancer-why-do-two-of-every-five-australian-men-die-early-from-preventable-conditions)
-- [Trump attacks Biden and Harris in first rally since assassination attempt](https://www.theguardian.com/us-news/article/2024/jul/20/trump-michigan-rally)
-- [Flower power: 12 of the best floral tops – in pictures](https://www.theguardian.com/fashion/gallery/2024/jul/20/flower-power-12-of-the-best-floral-tops-in-pictures)
-- [We Love: fashion fixes for the week ahead – in pictures](https://www.theguardian.com/fashion/gallery/2024/jul/20/we-love-fashion-fixes-for-the-week-ahead-in-pictures)
-- [Labour MP calls two-child benefit cap ‘heinous’ in latest call to scrap policy](https://www.theguardian.com/society/article/2024/jul/20/pressure-grows-on-keir-starmer-to-scrap-two-child-benefit-cap)
-- [Piglets review – this comedy is so weak you wonder why the police bothered to complain about it](https://www.theguardian.com/tv-and-radio/article/2024/jul/20/piglets-review-comedy-weak-police-complained)
-- [Outsider Dan Brown gives himself every chance of bringing home Open bacon](https://www.theguardian.com/sport/article/2024/jul/20/outsider-dan-brown-gives-himself-every-chance-of-bringing-home-open-bacon)
-- [The moment I knew: he gave the homeless man his number in case he needed someone to talk to](https://www.theguardian.com/lifeandstyle/article/2024/jul/21/the-moment-i-knew-he-gave-the-homeless-man-his-number-in-case-he-needed-someone-to-talk-to)
-- [Broccolini: how ‘fun time’ between vegetables spawned a side-dish star](https://www.theguardian.com/food/article/2024/jul/21/broccolini-how-fun-time-between-vegetables-spawned-a-side-dish-star)
+- [Leading Democrats back Kamala Harris as donations surge following Biden’s withdrawal from race – live](https://www.theguardian.com/us-news/live/2024/jul/21/biden-drops-out-presidential-election)
+- [Joe Biden withdraws from presidential race after weeks of pressure to quit](https://www.theguardian.com/us-news/article/2024/jul/21/joe-biden-withdraw-running-president)
+- [Who will replace Biden as Democratic nominee? Here are some of the top candidates](https://www.theguardian.com/us-news/article/2024/jul/21/who-replace-biden-harris-newsom-whitmer-shapiro-buttigieg)
+- [Ukraine war briefing: Zelenskiy salutes Joe Biden’s ‘unwavering support’](https://www.theguardian.com/world/article/2024/jul/22/ukraine-war-briefing-zelenskiy-salutes-joe-bidens-unwavering-support)
+- [President Biden steps aside](https://www.theguardian.com/news/audio/2024/jul/22/president-biden-steps-aside)
+- [Record numbers of people in England given dementia diagnosis in past year](https://www.theguardian.com/society/article/2024/jul/22/dementia-diagnosis-england-nhs-data)
+- [John Lewis trials repair service in partnership with Timpson Group](https://www.theguardian.com/business/article/2024/jul/22/john-lewis-trials-repair-service-in-partnership-with-timpson-group)
+- [Samuel Pepys: diarist, administrator … budding fashionista](https://www.theguardian.com/books/article/2024/jul/22/samuel-pepys-diarist-administrator-budding-fashionista)
+- [Labour told it will need to defeat ‘net-zero nimbys’ to decarbonise Britain](https://www.theguardian.com/environment/article/2024/jul/22/labour-decarbonise-britain-resolution-foundation-report-net-zero-nimbys)
+- [Labour facing moment of truth over tax pledges, economists warn](https://www.theguardian.com/society/article/2024/jul/22/labour-facing-moment-of-truth-over-tax-pledges-economists-warn)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

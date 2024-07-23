@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Leading Democrats back Kamala Harris as donations surge following Biden’s withdrawal from race – live](https://www.theguardian.com/us-news/live/2024/jul/21/biden-drops-out-presidential-election)
-- [Joe Biden withdraws from presidential race after weeks of pressure to quit](https://www.theguardian.com/us-news/article/2024/jul/21/joe-biden-withdraw-running-president)
-- [Who will replace Biden as Democratic nominee? Here are some of the top candidates](https://www.theguardian.com/us-news/article/2024/jul/21/who-replace-biden-harris-newsom-whitmer-shapiro-buttigieg)
-- [Ukraine war briefing: Zelenskiy salutes Joe Biden’s ‘unwavering support’](https://www.theguardian.com/world/article/2024/jul/22/ukraine-war-briefing-zelenskiy-salutes-joe-bidens-unwavering-support)
-- [President Biden steps aside](https://www.theguardian.com/news/audio/2024/jul/22/president-biden-steps-aside)
-- [Record numbers of people in England given dementia diagnosis in past year](https://www.theguardian.com/society/article/2024/jul/22/dementia-diagnosis-england-nhs-data)
-- [John Lewis trials repair service in partnership with Timpson Group](https://www.theguardian.com/business/article/2024/jul/22/john-lewis-trials-repair-service-in-partnership-with-timpson-group)
-- [Samuel Pepys: diarist, administrator … budding fashionista](https://www.theguardian.com/books/article/2024/jul/22/samuel-pepys-diarist-administrator-budding-fashionista)
-- [Labour told it will need to defeat ‘net-zero nimbys’ to decarbonise Britain](https://www.theguardian.com/environment/article/2024/jul/22/labour-decarbonise-britain-resolution-foundation-report-net-zero-nimbys)
-- [Labour facing moment of truth over tax pledges, economists warn](https://www.theguardian.com/society/article/2024/jul/22/labour-facing-moment-of-truth-over-tax-pledges-economists-warn)
+- [Kamala Harris secures support from enough delegates to become likely Democratic nominee – live](https://www.theguardian.com/us-news/live/2024/jul/22/biden-drops-out-endorses-kamala-harris-election-updates)
+- [Ukraine war briefing: Dmytro Kuleba visits Russia’s ‘no limits’ ally China](https://www.theguardian.com/world/article/2024/jul/23/ukraine-war-briefing-dmytro-kuleba-visits-russias-no-limits-ally-china)
+- [Scores killed in Israeli attacks, medics say, after IDF orders evacuation of Gaza humanitarian zone](https://www.theguardian.com/world/article/2024/jul/22/israel-khan-younis-southern-gaza-evacuation-order-attacks-humanitarian-areas)
+- [Can Kamala Harris beat Donald Trump? – podcast](https://www.theguardian.com/news/audio/2024/jul/23/can-kamala-harris-beat-donald-trump-podcast)
+- [Prince Harry hails Birmingham’s winning bid to host Invictus Games](https://www.theguardian.com/uk-news/article/2024/jul/23/prince-harry-hails-birminghams-winning-bid-to-host-invictus-games)
+- [Violence against women a ‘national emergency’ in England and Wales, police say](https://www.theguardian.com/society/article/2024/jul/23/violence-against-women-national-emergency-england-wales-police)
+- [Blair government accused IDF of acting like Russian army in West Bank](https://www.theguardian.com/world/article/2024/jul/23/blair-government-accused-idf-of-acting-like-russian-army-in-west-bank)
+- [Japanese seniors pop and lock to breakdancing beats in latest sport tailored to ageing population](https://www.theguardian.com/world/article/2024/jul/23/japan-senior-dance-trend-breakdancing-ara-style-senior-paris-olympics)
+- [Body-cam video shows Illinois officer fatally shooting Black woman in face](https://www.theguardian.com/us-news/article/2024/jul/22/sonya-massey-illinois-shooting-video)
+- [Keir Starmer indicates he will consider scrapping two-child benefit cap](https://www.theguardian.com/society/article/2024/jul/22/two-child-benefit-cap-education-secretary-bridget-phillipson-poverty)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

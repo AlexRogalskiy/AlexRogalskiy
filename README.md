@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [A Neuroscientist Explains the Brain-Boosting Benefits of Swim, Bike, and Run](https://www.triathlete.com/training/a-neuroscientist-explains-the-brain-boosting-benefits-of-swim-bike-and-run/)
-- [Dondurma: The Turkish ice cream eaten with a knife and fork](https://www.bbc.com/travel/article/20240719-dondurma-the-turkish-ice-cream-eaten-with-a-knife-and-fork)
-- [The Semiconductor Design Software Duopoly: Cadence and Synopsys [video]](https://www.youtube.com/watch?v=AUm08ZUD63Q)
-- [CrowdStrike&#39;s Falcon Sensor also linked to Linux kernel panics and crashes](https://www.theregister.com/2024/07/21/crowdstrike_linux_crashes_restoration_tools/)
-- [Ask HN: What&#39;s the best YouTube lecture you&#39;ve seen recently?](https://news.ycombinator.com/item?id=41030350)
-- [Scientists edit the genes of gut bacteria in living mice](https://www.nature.com/articles/d41586-024-02238-3)
-- [Cookup: AI Chef](https://apps.apple.com/ar/app/cookup-ia-chef/id6504583227)
-- [Build a Product That the User Wants – Hard Learnt Unsaid Rules of User Interview](https://buildstartupinpublic.substack.com/p/unsaid-rules-of-user-interviews-by-founder)
-- [A bit more regarding UTM SE on the iPad](https://taoofmac.com/space/blog/2024/07/14/1430)
-- [Can I place a stop loss and a limit sell at the same time?](https://money.stackexchange.com/questions/87599/can-i-place-a-stop-loss-and-a-limit-sell-at-the-same-time)
+- [Warner Bros. Discovery Is Said to Match Amazon&#39;s Bid for NBA Rights](https://www.nytimes.com/2024/07/22/business/warner-bros-discovery-amazon-nba-rights.html)
+- [Show HN: Variable-length &lpar;up to 47s&rpar; stereo audio at 44.1kHz from text prompts](https://huggingface.co/stabilityai/stable-audio-open-1.0)
+- [Base16 Gallery](https://tinted-theming.github.io/base16-gallery/)
+- [Happy to Release Injee 0.2.0](https://injee.codeberg.page/)
+- [Karnataka &lpar;The State Housing Bangalore&rpar; Proposes 14 Hour Workdays for SWEs](https://www.thehindu.com/business/it-employees-union-plans-campaign-in-karnataka-against-14-hour-workday-while-labour-minister-claims-proposal-came-from-companies/article68432048.ece)
+- [Show HN: Create gamified bite-sized lessons using AI](https://getdera.com/#home)
+- [Discover Boring Internet Businesses](https://boringcashcow.com)
+- [The Value of Milk.com](https://milk.com/value/)
+- [Dovetail and stick chair layout calculator](https://layout.computer)
+- [Show HN: HeyShort: Text to Speech Short Video Maker – Early Access Open](https://heyshort.video)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Warner Bros. Discovery Is Said to Match Amazon&#39;s Bid for NBA Rights](https://www.nytimes.com/2024/07/22/business/warner-bros-discovery-amazon-nba-rights.html)
-- [Show HN: Variable-length &lpar;up to 47s&rpar; stereo audio at 44.1kHz from text prompts](https://huggingface.co/stabilityai/stable-audio-open-1.0)
-- [Base16 Gallery](https://tinted-theming.github.io/base16-gallery/)
-- [Happy to Release Injee 0.2.0](https://injee.codeberg.page/)
-- [Karnataka &lpar;The State Housing Bangalore&rpar; Proposes 14 Hour Workdays for SWEs](https://www.thehindu.com/business/it-employees-union-plans-campaign-in-karnataka-against-14-hour-workday-while-labour-minister-claims-proposal-came-from-companies/article68432048.ece)
-- [Show HN: Create gamified bite-sized lessons using AI](https://getdera.com/#home)
-- [Discover Boring Internet Businesses](https://boringcashcow.com)
-- [The Value of Milk.com](https://milk.com/value/)
-- [Dovetail and stick chair layout calculator](https://layout.computer)
-- [Show HN: HeyShort: Text to Speech Short Video Maker – Early Access Open](https://heyshort.video)
+- [Apache DataFusion Comet 0.1.0 Release &lpar;Apache Spark Accelerator&rpar;](https://datafusion.apache.org/blog/2024/07/20/datafusion-comet-0.1.0/)
+- [What Is Entropy?](https://math.ucr.edu/home/baez/what_is_entropy.pdf#page8)
+- [Postgres Columnstore Index vs. ClickHouse for Analytics](https://www.tablespace.io/blog/postgres-columnstore-index-vs-clickhouse)
+- [The Big Data Textbook](https://ghislainfourny.github.io/big-data-textbook/)
+- [Samsung reveals why it&#39;s dropping Samsung Messages for Google Messages](https://www.androidauthority.com/samsung-drop-samsung-messages-google-messages-reason-3463520/)
+- [Unexplained Oxygen Source Discovered at Bottom of Ocean](https://www.sciencealert.com/mysterious-dark-oxygen-discovered-at-bottom-of-ocean-stuns-scientists)
+- [Dog-like robot jams home networks and disables devices during police raids](https://www.tomshardware.com/tech-industry/big-tech/dog-like-robot-jams-home-networks-and-disables-devices-during-police-raids-dhs-develops-neo-robot-for-walking-denial-of-service-attacks)
+- [Optimizing distutils-r1.eclass via wheel reuse](https://blogs.gentoo.org/mgorny/2024/07/23/optimizing-distutils-r1-eclass-via-wheel-reuse/)
+- [GitHub tip-hub: habitual permalinks](https://huonw.github.io/blog/2024/07/github-permalinks/)
+- [The Next Arsenal of Democracy Is Being Built in El Segundo](https://www.city-journal.org/article/the-next-arsenal-of-democracy)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

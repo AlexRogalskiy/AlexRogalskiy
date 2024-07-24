@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Kamala Harris secures support from enough delegates to become likely Democratic nominee – live](https://www.theguardian.com/us-news/live/2024/jul/22/biden-drops-out-endorses-kamala-harris-election-updates)
-- [Ukraine war briefing: Dmytro Kuleba visits Russia’s ‘no limits’ ally China](https://www.theguardian.com/world/article/2024/jul/23/ukraine-war-briefing-dmytro-kuleba-visits-russias-no-limits-ally-china)
-- [Scores killed in Israeli attacks, medics say, after IDF orders evacuation of Gaza humanitarian zone](https://www.theguardian.com/world/article/2024/jul/22/israel-khan-younis-southern-gaza-evacuation-order-attacks-humanitarian-areas)
-- [Can Kamala Harris beat Donald Trump? – podcast](https://www.theguardian.com/news/audio/2024/jul/23/can-kamala-harris-beat-donald-trump-podcast)
-- [Prince Harry hails Birmingham’s winning bid to host Invictus Games](https://www.theguardian.com/uk-news/article/2024/jul/23/prince-harry-hails-birminghams-winning-bid-to-host-invictus-games)
-- [Violence against women a ‘national emergency’ in England and Wales, police say](https://www.theguardian.com/society/article/2024/jul/23/violence-against-women-national-emergency-england-wales-police)
-- [Blair government accused IDF of acting like Russian army in West Bank](https://www.theguardian.com/world/article/2024/jul/23/blair-government-accused-idf-of-acting-like-russian-army-in-west-bank)
-- [Japanese seniors pop and lock to breakdancing beats in latest sport tailored to ageing population](https://www.theguardian.com/world/article/2024/jul/23/japan-senior-dance-trend-breakdancing-ara-style-senior-paris-olympics)
-- [Body-cam video shows Illinois officer fatally shooting Black woman in face](https://www.theguardian.com/us-news/article/2024/jul/22/sonya-massey-illinois-shooting-video)
-- [Keir Starmer indicates he will consider scrapping two-child benefit cap](https://www.theguardian.com/society/article/2024/jul/22/two-child-benefit-cap-education-secretary-bridget-phillipson-poverty)
+- [Trump team makes complaint about Harris campaign funds – as it happened](https://www.theguardian.com/us-news/live/2024/jul/23/kamala-harris-says-she-is-looking-forward-to-accepting-democratic-nomination-as-she-secures-support-of-enough-delegates-live)
+- [In southern Lebanon on the brink of war – podcast](https://www.theguardian.com/news/audio/2024/jul/24/dangerous-territory-inside-southern-lebanon-on-the-brink-of-war-podcast)
+- [Head of Japan drugmaker to resign over dietary supplement potentially linked to 80 deaths](https://www.theguardian.com/world/article/2024/jul/24/kobayashi-pharmaceutical-president-resigns-japan-dietary-supplement-beni-koji-red-yeast-rice)
+- [John Mayall, pioneering figure of British blues, dies aged 90](https://www.theguardian.com/music/article/2024/jul/23/john-mayall-blues-dies)
+- [Olympic spying claim: New Zealand report Canada for flying drone over football training](https://www.theguardian.com/sport/article/2024/jul/24/paris-olympic-spying-claim-drone-new-zealand-canada-womens-football-training)
+- [Ukraine war briefing: ‘Occupiers’ ship severely damaged’ in Kavkas across from Crimea](https://www.theguardian.com/world/article/2024/jul/24/ukraine-war-briefing-occupiers-ship-severely-damaged-in-kavkas-across-from-crimea)
+- [King to receive extra £45m of public money as crown estate income soars](https://www.theguardian.com/uk-news/article/2024/jul/24/king-to-receive-extra-45m-of-public-money-as-crown-estate-income-soars)
+- [New figures show record number of discrimination reports in football last season](https://www.theguardian.com/football/article/2024/jul/24/new-figures-show-record-number-of-discrimination-reports-in-football-last-season)
+- [Men may not be more attracted to scent of fertile women, study says](https://www.theguardian.com/science/article/2024/jul/24/men-may-not-be-more-attracted-to-scent-of-fertile-women-study-says)
+- [Rock star Stevie Van Zandt in plea for more arts and music in English schools](https://www.theguardian.com/education/article/2024/jul/24/rock-star-stevie-van-zandt-in-plea-for-more-arts-and-music-in-english-schools)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_

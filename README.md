@@ -340,16 +340,16 @@
 ### _YCombinator posts_
 
 <!-- YCOMBINATOR-POST-LIST:START -->
-- [Show HN: We made glhf.chat – run almost any open-source LLM, including 405B](https://glhf.chat/landing/home)
-- [GM indefinitely halts work on driverless car at Cruise unit](https://www.ft.com/content/85bfbfd0-1036-44c7-89bb-72d1cd8f8ea2)
-- [The Origin of Emacs in 1976](https://onlisp.co.uk/On-the-Origin-of-Emacs-in-1976.html)
-- [Pnut: A C to POSIX Shell Compiler you can Trust](https://pnut.sh)
-- [Scrapscript: A functional, content-addressable programming language](https://github.com/tekknolagi/scrapscript)
-- [You can opt out of airport face scans](https://www.vox.com/future-perfect/360952/summer-travel-airport-facial-recognition-scan)
-- [ESA report shows unsustainable levels of orbital debris](https://payloadspace.com/esa-report-shows-unsustainable-levels-of-orbital-debris/)
-- [Meticulous &lpar;YC S21&rpar; is hiring to eliminate UI tests](https://news.ycombinator.com/item?id=41050801)
-- [Hydrothermal explosion at Yellowstone National Park](https://www.jhnewsandguide.com/the_hole_scroll/video-biscuit-basin-geyser-explodes-sending-yellowstone-tourists-packing/article_6862fda2-4923-11ef-b5c4-abdc9bc8cd83.html)
-- [How many children had Lady Macbeth?](https://lifeandletters.substack.com/p/how-many-children-had-lady-macbeth)
+- [C# almost has implicit interfaces](https://clipperhouse.com/c-sharp-implicit-interfaces/)
+- [Southwest to get rid of open seating, offer extra legroom](https://www.cnbc.com/2024/07/25/southwest-airlines-seat-assignments.html)
+- [Cameo was once valued at $1B](https://www.businessinsider.com/cameo-app-company-fine-settlement-ftc-violation-2024-7)
+- [Charge Robotics &lpar;YC S21&rpar; is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
+- [A Clone of Deluxe Paint II Written in Python](https://github.com/mriale/PyDPainter)
+- [Applied Machine Learning for Tabular Data](https://aml4td.org/)
+- [Jacek Karpińśki, the computer genius the communists couldn&#39;t stand &lpar;2017&rpar;](https://culture.pl/en/article/jacek-karpinski-the-computer-genius-the-communists-couldnt-stand)
+- [Unfashionably secure: why we use isolated VMs](https://blog.thinkst.com/2024/07/unfashionably-secure-why-we-use-isolated-vms.html)
+- [Ask HN: Best way to learn robotics with a 10 year old?](https://news.ycombinator.com/item?id=41070703)
+- [Show HN: Wat – Deep inspection of Python objects](https://github.com/igrek51/wat)
 <!-- YCOMBINATOR-POST-LIST:END -->
 
 ### _ComputerWorld posts_

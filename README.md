@@ -310,16 +310,16 @@
 ### _Hacker News posts_
 
 <!-- HNRSS-POST-LIST:START -->
-- [Apache DataFusion Comet 0.1.0 Release &lpar;Apache Spark Accelerator&rpar;](https://datafusion.apache.org/blog/2024/07/20/datafusion-comet-0.1.0/)
-- [What Is Entropy?](https://math.ucr.edu/home/baez/what_is_entropy.pdf#page8)
-- [Postgres Columnstore Index vs. ClickHouse for Analytics](https://www.tablespace.io/blog/postgres-columnstore-index-vs-clickhouse)
-- [The Big Data Textbook](https://ghislainfourny.github.io/big-data-textbook/)
-- [Samsung reveals why it&#39;s dropping Samsung Messages for Google Messages](https://www.androidauthority.com/samsung-drop-samsung-messages-google-messages-reason-3463520/)
-- [Unexplained Oxygen Source Discovered at Bottom of Ocean](https://www.sciencealert.com/mysterious-dark-oxygen-discovered-at-bottom-of-ocean-stuns-scientists)
-- [Dog-like robot jams home networks and disables devices during police raids](https://www.tomshardware.com/tech-industry/big-tech/dog-like-robot-jams-home-networks-and-disables-devices-during-police-raids-dhs-develops-neo-robot-for-walking-denial-of-service-attacks)
-- [Optimizing distutils-r1.eclass via wheel reuse](https://blogs.gentoo.org/mgorny/2024/07/23/optimizing-distutils-r1-eclass-via-wheel-reuse/)
-- [GitHub tip-hub: habitual permalinks](https://huonw.github.io/blog/2024/07/github-permalinks/)
-- [The Next Arsenal of Democracy Is Being Built in El Segundo](https://www.city-journal.org/article/the-next-arsenal-of-democracy)
+- [Offline Windows OSS tool to update device drivers: Snappy Driver Installer](https://www.glenn.delahoy.com/snappy-driver-installer-origin/)
+- [An interesting website that generates brat style image online](https://bratgenerator.online/)
+- [Geothermal plants can harness fracking to create green energy](https://www.washingtonpost.com/climate-environment/interactive/2024/fracking-geothermal-energy-plant-technology/)
+- [Show HN: Enginuity – AI-Powered R&amp;D Efficiency Solutions](https://www.leiga.com/insights)
+- [NASA Supports Burst Test for Orbital Reef Commercial Space Station](https://www.nasa.gov/humans-in-space/commercial-space/leo-economy/nasa-supports-burst-test-for-orbital-reef-commercial-space-station/)
+- [Komiko AI: AI fan art and comics creator](https://komiko.ai/en)
+- [The Best of 2024 &lpar;so far&rpar; with Sarah Guo and Elad GIL [video]](https://www.youtube.com/watch?v=0rHaV3mkUG4)
+- [Apache DataFusion 40.0.0 Released](https://datafusion.apache.org/blog/2024/07/24/datafusion-40.0.0/)
+- [GenZoo](https://genzoo.ai)
+- [Loblaw to pay $500M for bread price-fixing scheme in antitrust settlement](https://www.cbc.ca/news/business/loblaw-bread-price-settlement-1.7274820)
 <!-- HNRSS-POST-LIST:END -->
 
 ### _Guardian posts_

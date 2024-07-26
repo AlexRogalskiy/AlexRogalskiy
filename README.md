@@ -325,16 +325,16 @@
 ### _Guardian posts_
 
 <!-- GUARDIAN-POST-LIST:START -->
-- [Trump team makes complaint about Harris campaign funds – as it happened](https://www.theguardian.com/us-news/live/2024/jul/23/kamala-harris-says-she-is-looking-forward-to-accepting-democratic-nomination-as-she-secures-support-of-enough-delegates-live)
-- [In southern Lebanon on the brink of war – podcast](https://www.theguardian.com/news/audio/2024/jul/24/dangerous-territory-inside-southern-lebanon-on-the-brink-of-war-podcast)
-- [Head of Japan drugmaker to resign over dietary supplement potentially linked to 80 deaths](https://www.theguardian.com/world/article/2024/jul/24/kobayashi-pharmaceutical-president-resigns-japan-dietary-supplement-beni-koji-red-yeast-rice)
-- [John Mayall, pioneering figure of British blues, dies aged 90](https://www.theguardian.com/music/article/2024/jul/23/john-mayall-blues-dies)
-- [Olympic spying claim: New Zealand report Canada for flying drone over football training](https://www.theguardian.com/sport/article/2024/jul/24/paris-olympic-spying-claim-drone-new-zealand-canada-womens-football-training)
-- [Ukraine war briefing: ‘Occupiers’ ship severely damaged’ in Kavkas across from Crimea](https://www.theguardian.com/world/article/2024/jul/24/ukraine-war-briefing-occupiers-ship-severely-damaged-in-kavkas-across-from-crimea)
-- [King to receive extra £45m of public money as crown estate income soars](https://www.theguardian.com/uk-news/article/2024/jul/24/king-to-receive-extra-45m-of-public-money-as-crown-estate-income-soars)
-- [New figures show record number of discrimination reports in football last season](https://www.theguardian.com/football/article/2024/jul/24/new-figures-show-record-number-of-discrimination-reports-in-football-last-season)
-- [Men may not be more attracted to scent of fertile women, study says](https://www.theguardian.com/science/article/2024/jul/24/men-may-not-be-more-attracted-to-scent-of-fertile-women-study-says)
-- [Rock star Stevie Van Zandt in plea for more arts and music in English schools](https://www.theguardian.com/education/article/2024/jul/24/rock-star-stevie-van-zandt-in-plea-for-more-arts-and-music-in-english-schools)
+- [Kamala Harris says ‘I will not be silent’ on suffering in Gaza after Netanyahu talks](https://www.theguardian.com/world/article/2024/jul/26/kamala-harris-benjamin-netanyahu-us-visit-palestine-israel-gaza-war)
+- [The mother who forgave her daughters’ killer – but not the police – podcast](https://www.theguardian.com/news/audio/2024/jul/26/the-mother-who-forgave-her-daughters-killer-but-not-the-police-podcast)
+- [Ukraine war briefing: Pentagon accounting error creates path for billions more to be sent to Kyiv](https://www.theguardian.com/world/article/2024/jul/26/ukraine-war-briefing-pentagon-accounting-error-creates-path-for-billions-more-to-be-sent-to-kyiv)
+- [‘I did it as quietly as I could’: the navy chief who wrecked his ship to scupper China’s ambitions](https://www.theguardian.com/world/article/2024/jul/26/i-did-it-as-quietly-as-i-could-the-navy-chief-who-wrecked-his-ship-to-scupper-chinas-ambitions)
+- [England’s health watchdog ‘not fit for purpose’, says Wes Streeting](https://www.theguardian.com/society/article/2024/jul/26/englands-health-watchdog-not-fit-for-purpose-says-wes-streeting)
+- [‘A huge opportunity’: Quantum leap for UK as tech industry receives £100m boost](https://www.theguardian.com/science/article/2024/jul/26/quantum-leap-for-uk-as-tech-industry-receives-100m-boost)
+- [Cost of England’s four biggest killer diseases could hit £86bn by 2050](https://www.theguardian.com/society/article/2024/jul/25/cost-of-englands-four-biggest-killer-diseases-could-hit-86bn-by-2050)
+- [Olympic demand for ‘unproven’ ice therapy is unsustainable, scientists say](https://www.theguardian.com/environment/article/2024/jul/25/olympic-demand-for-unproven-ice-therapy-is-unsustainable-scientists-say)
+- [Man gets third-degree burns from walking on sand dunes in Death Valley](https://www.theguardian.com/us-news/article/2024/jul/25/man-burns-feet-death-valley-sand-dunes)
+- [Teenager kicked in face by Manchester police is ‘traumatised’, solicitor says](https://www.theguardian.com/uk-news/article/2024/jul/25/teenager-kicked-in-face-by-manchester-police-is-traumatised-his-solicitor-says)
 <!-- GUARDIAN-POST-LIST:END -->
 
 ### _YCombinator posts_
